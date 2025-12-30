@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 16:23:37 GMT | Setting Up The Lab - Network Hacking Dari Nol #3 | Levithan | [Read More](https://medium.com/p/278c38776f93) |
+| Tue, 30 Dec 2025 16:15:58 GMT | How to Demonstrate Prompt Injection on Unsecured LLM APIs: A Technical Deep Dive | Sarthakvyadav | [Read More](https://medium.com/p/9289be7e152a) |
+| Tue, 30 Dec 2025 16:13:09 GMT | Thinking Like an Attacker A Technical Perspective on Web Security Research | Jawad Momani | [Read More](https://medium.com/p/e5091704b53a) |
+| Tue, 30 Dec 2025 16:09:27 GMT | Let’s Talk About Pen Testing | Manar Mohamed | [Read More](https://medium.com/p/5ab513231731) |
+| Tue, 30 Dec 2025 16:09:07 GMT | AI-Powered Attacks Are Here, Here’s How to Spot Them and Fight Back | Paradise technologies Inc | [Read More](https://medium.com/p/6783a092ff09) |
+| Tue, 30 Dec 2025 16:06:35 GMT | Five Phases of Cybersecurity | Sony | [Read More](https://medium.com/p/ada360be8dc6) |
+| Tue, 30 Dec 2025 16:05:38 GMT | WannaCry Explained: How One Unpatched System Crashed the World | Ananya | [Read More](https://medium.com/p/db3a52721082) |
+| Tue, 30 Dec 2025 16:03:28 GMT | Reflections on Relationships: Keys to Building Strong Bridges. | Andrea Londono | [Read More](https://medium.com/p/6e56114c574f) |
+| Tue, 30 Dec 2025 16:01:17 GMT | Mastering Spooftooph: Bluetooth Spoofing on Kali (Full Lab Guide) | Manas Mahato | [Read More](https://medium.com/p/9f5f969e6b36) |
+| Tue, 30 Dec 2025 16:00:55 GMT | The Silent Weapon (Part 2): Real AI Workflows Bug Bounty Hunters Actually Use | ghostyjoe | [Read More](https://medium.com/p/9b7b2d8fd26e) |
+| Tue, 30 Dec 2025 15:59:41 GMT | Why Cloud-Based Access Control Systems Are the Key to Efficient Enterprise Security | Tony Brooks | [Read More](https://medium.com/p/a78f007d5f1d) |
+| Tue, 30 Dec 2025 15:56:41 GMT | 5 Best Smart Thermostats for Home in 2025 | Narjis Arshad | [Read More](https://medium.com/p/b83afc3f6ffe) |
+| Tue, 30 Dec 2025 15:54:14 GMT | CEHv12: Hacking Mobile Platforms (Practised) (Module 17) | Aditya Kumar | [Read More](https://medium.com/p/f4fbc8b5c308) |
+| Tue, 30 Dec 2025 15:50:49 GMT | The Silent Bug That Lived for 8 Years | Sushila Devi | [Read More](https://medium.com/p/9ced766636f2) |
+| Tue, 30 Dec 2025 15:46:48 GMT | Token Factory: The 5 Costliest US Breaches of 2025 | Wes Young | [Read More](https://medium.com/p/4cf1a19d5688) |
+| Tue, 30 Dec 2025 15:38:23 GMT | SMBs: The Achilles’ Heel of the World | Cybersensus | [Read More](https://medium.com/p/329d3fb62aa5) |
 | Tue, 30 Dec 2025 15:35:10 GMT | I Didn’t Break the App — I Let Its Logic Break Itself | Iski | [Read More](https://medium.com/p/9cd22096111c) |
 | Tue, 30 Dec 2025 15:33:11 GMT | Overly Permissive GPO Abuse: From WriteDACL to Local Admin via NTLM Relay & GPOddity | Eray Yavuz | [Read More](https://medium.com/p/7a1862486f88) |
 | Tue, 30 Dec 2025 15:30:04 GMT | Windows Services - Methods and Mitigation - Persistence Techniques - Part 3 | Satvik Hatulkar | [Read More](https://medium.com/p/79bad2b5f459) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Dec 2025 11:00:16 GMT | From Ranchi to the United Nations: How Major Vineet Carried Jharkhand to the World Stage | Amit Modi | [Read More](https://medium.com/p/6748ede2a408) |
 | Tue, 30 Dec 2025 10:57:07 GMT | ✍️ Why Web AI Agents Are More Vulnerable Than Standalone LLMs — And How We Should Actually Fix It | Jyoti Dabass, Ph.D. | [Read More](https://medium.com/p/4a4a2df2cd37) |
 | Tue, 30 Dec 2025 10:55:58 GMT | The Silent Kill Chain: Firmware-Level Attacks and the Illusion of Cybersecurity | Rawi | [Read More](https://medium.com/p/f977561b24e6) |
-| Tue, 30 Dec 2025 10:48:15 GMT | WHY I STARTED CYBERSECURITY? | Pratik kumar | [Read More](https://medium.com/p/b9d84089f009) |
-| Tue, 30 Dec 2025 10:44:21 GMT | How to Protect Yourself From Ransomware Attacks: Best Practices | TrustRacer | [Read More](https://medium.com/p/db3b329fa06e) |
-| Tue, 30 Dec 2025 10:40:11 GMT | The Vulnerability Hangover: Why Sharing Your Truth Hurts Before It Heals | Leonard Tillerman | [Read More](https://medium.com/p/6f3e84bda605) |
-| Tue, 30 Dec 2025 10:39:44 GMT | How Cyber Security Services Stop Phishing, Ransomware, and Zero-Day Attacks | Smart City System - HR Software - HRMS - Payroll | [Read More](https://medium.com/p/f4c6fb119db0) |
-| Tue, 30 Dec 2025 10:37:26 GMT | Why BS Cyber Security Helps Students Stand Out in IT Fields | Multanusp | [Read More](https://medium.com/p/b57a6e6f5b45) |
-| Tue, 30 Dec 2025 10:31:59 GMT | Siber Vatan CTF RSA Writeup | Emirhan Sevmez | [Read More](https://medium.com/p/ff4171a4321e) |
-| Tue, 30 Dec 2025 10:31:21 GMT | Coupang Announces $1.17 | Technijian | [Read More](https://medium.com/p/cdceda0c9699) |
-| Tue, 30 Dec 2025 10:30:54 GMT | How Email Security Services Protect Your Brand and Customer Trust | SmartCLOUD Australia | [Read More](https://medium.com/p/f2ab329de140) |
-| Tue, 30 Dec 2025 10:28:33 GMT | The Role of Ethical Hackers in Protecting Businesses from Advanced Cyber Threats | maison epoque | [Read More](https://medium.com/p/03953ae638d7) |
-| Tue, 30 Dec 2025 10:27:34 GMT | ASPM in Modern Application Security — Application Security Posture Management Tools and Their… | PeakCyber Technologies | [Read More](https://medium.com/p/c98fe97defc4) |
-| Tue, 30 Dec 2025 10:24:46 GMT | The Role of Security and Automation in Successful App Modernization | Devseccopsai | [Read More](https://medium.com/p/270ae66752e8) |
-| Tue, 30 Dec 2025 10:24:33 GMT | The Ghost in the Machine: A First-Guide to Cloud Encryption | Viquar Younus Mohammed | [Read More](https://medium.com/p/be219a2e0698) |
-| Tue, 30 Dec 2025 10:13:34 GMT | Idle Timeout (Oturum Zaman Aşımı) Nedir? | Arda Derya | [Read More](https://medium.com/p/e2469b4f7e57) |
-| Tue, 30 Dec 2025 10:06:41 GMT | Top Cyber Security Services in Nigeria for Data Protection and Compliance | Prakash Factosecure | [Read More](https://medium.com/p/65853194ac0d) |
-| Tue, 30 Dec 2025 10:01:23 GMT | CARTE Review: My Journey to Becoming an Azure Red Team Expert | Tiger3080 | [Read More](https://medium.com/p/ce396409438a) |
-| Tue, 30 Dec 2025 10:00:06 GMT | Why Investing Money in an IT Product Launch Matters | Prince moradiya | [Read More](https://medium.com/p/278999bbc954) |
