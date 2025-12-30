@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 23:13:27 GMT | ICS/OT Vendor Management-The Risk No One Owns | Muhammad Ali Khan | [Read More](https://medium.com/p/c9e0b9841775) |
+| Tue, 30 Dec 2025 23:06:29 GMT | The HTTP Request–Response Lifecycle | Martin Simonyan | [Read More](https://medium.com/p/b9c8cb7c4b61) |
+| Tue, 30 Dec 2025 23:01:42 GMT | Agent Skills: Governing Coding Agents Before They Govern Us | Dave Patten | [Read More](https://medium.com/p/f458c6d0eace) |
+| Tue, 30 Dec 2025 23:01:40 GMT | TryHackMe Ignite Walkthrough | Rootseekerx0x | [Read More](https://medium.com/p/d66af3b89df4) |
+| Tue, 30 Dec 2025 22:57:19 GMT | The Wrong Screw - Dog Years | Julio Oña | [Read More](https://medium.com/p/e8e636a3b815) |
+| Tue, 30 Dec 2025 22:49:18 GMT | CISSP Domain 3 Part 3: Essential Study Guide | Pushpak Sharma | [Read More](https://medium.com/p/b2e4903abadc) |
+| Tue, 30 Dec 2025 22:46:59 GMT | Why network latency matters more than bandwidth in many cases | paulk gearge | [Read More](https://medium.com/p/de186dfaf8c6) |
+| Tue, 30 Dec 2025 22:45:59 GMT | pwn.college Content Injection / Path Traversal 1 | Salihugurlu | [Read More](https://medium.com/p/a4f133c472d2) |
 | Tue, 30 Dec 2025 22:40:29 GMT | “Embracing Vulnerability” | Binte Habib | [Read More](https://medium.com/p/69037bd23ccc) |
+| Tue, 30 Dec 2025 22:34:09 GMT | Layoff Grief Observed: The Hidden Mourning in 2025 | Olaf Schroeder | [Read More](https://medium.com/p/6046798cd61c) |
 | Tue, 30 Dec 2025 22:18:36 GMT | AI, Privacy, and the Execution Sovereignty Problem | Heyyprashanth | [Read More](https://medium.com/p/45e1c1871f97) |
 | Tue, 30 Dec 2025 22:05:22 GMT | Advent of Cyber — Day 4: AI in Security — Old saint Nick | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/fe6bcb0e159b) |
 | Tue, 30 Dec 2025 22:04:18 GMT | You Gon’ Learn Today: Layemor Malware Analysis II | grepStrength | [Read More](https://medium.com/p/86bb4a0328f7) |
@@ -104,12 +113,3 @@ What Standup Comedy Reveals About Risk Communication | Jesse Nelson | [Read More
 | Tue, 30 Dec 2025 16:24:46 GMT | Blocks for the Year: A review | Greg Heffner | [Read More](https://medium.com/p/e28e55f030e4) |
 | Tue, 30 Dec 2025 16:23:37 GMT | Setting Up The Lab - Network Hacking Dari Nol #3 | Levithan | [Read More](https://medium.com/p/278c38776f93) |
 | Tue, 30 Dec 2025 16:15:58 GMT | How to Demonstrate Prompt Injection on Unsecured LLM APIs: A Technical Deep Dive | Sarthakvyadav | [Read More](https://medium.com/p/9289be7e152a) |
-| Tue, 30 Dec 2025 16:13:09 GMT | Thinking Like an Attacker A Technical Perspective on Web Security Research | Jawad Momani | [Read More](https://medium.com/p/e5091704b53a) |
-| Tue, 30 Dec 2025 16:09:27 GMT | Let’s Talk About Pen Testing | Manar Mohamed | [Read More](https://medium.com/p/5ab513231731) |
-| Tue, 30 Dec 2025 16:09:07 GMT | AI-Powered Attacks Are Here, Here’s How to Spot Them and Fight Back | Paradise technologies Inc | [Read More](https://medium.com/p/6783a092ff09) |
-| Tue, 30 Dec 2025 16:06:35 GMT | Five Phases of Cybersecurity | Sony | [Read More](https://medium.com/p/ada360be8dc6) |
-| Tue, 30 Dec 2025 16:05:38 GMT | WannaCry Explained: How One Unpatched System Crashed the World | Ananya | [Read More](https://medium.com/p/db3a52721082) |
-| Tue, 30 Dec 2025 16:03:28 GMT | Reflections on Relationships: Keys to Building Strong Bridges. | Andrea Londono | [Read More](https://medium.com/p/6e56114c574f) |
-| Tue, 30 Dec 2025 16:01:17 GMT | Mastering Spooftooph: Bluetooth Spoofing on Kali (Full Lab Guide) | Manas Mahato | [Read More](https://medium.com/p/9f5f969e6b36) |
-| Tue, 30 Dec 2025 16:00:55 GMT | The Silent Weapon (Part 2): Real AI Workflows Bug Bounty Hunters Actually Use | ghostyjoe | [Read More](https://medium.com/p/9b7b2d8fd26e) |
-| Tue, 30 Dec 2025 15:59:41 GMT | Why Cloud-Based Access Control Systems Are the Key to Efficient Enterprise Security | Tony Brooks | [Read More](https://medium.com/p/a78f007d5f1d) |
