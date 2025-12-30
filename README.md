@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 19:30:34 GMT | Hybrid Cloud Security Challenges and Solutions Businesses Must Prepare for in 2026 | Techridge Solutions | [Read More](https://medium.com/p/8a645cb1275c) |
 | Tue, 30 Dec 2025 19:15:52 GMT | Anatomy of a Security Audit: Dissecting JWTs and Sessions for Critical Logic Flaws | Ian Zammit | [Read More](https://medium.com/p/97ec579eb489) |
 | Tue, 30 Dec 2025 19:12:02 GMT | What the OpenAI API / Mixpanel Incident Really Teaches Us About API Security | AserSec | [Read More](https://medium.com/p/59f10f91cc43) |
 | Tue, 30 Dec 2025 19:09:25 GMT | Introduction to OT Cybersecurity | Maxi | [Read More](https://medium.com/p/99d028f606da) |
@@ -112,4 +113,3 @@ What Standup Comedy Reveals About Risk Communication | Jesse Nelson | [Read More
 | Tue, 30 Dec 2025 13:52:48 GMT | Cybersecurity Threats to Watch in 2026 | Biometric.Vision | [Read More](https://medium.com/p/5c363b1ac8bc) |
 | Tue, 30 Dec 2025 13:48:39 GMT | China Attacks Thirty American Firms in a Bizarre New Cyber Hack | Khadijafalaksher | [Read More](https://medium.com/p/deb27e196862) |
 | Tue, 30 Dec 2025 13:48:16 GMT | Siber Güvenlik Nedir? Dijital Dünyanın Çağdaş Koruması | İlayda | [Read More](https://medium.com/p/0d7f9dafa264) |
-| Tue, 30 Dec 2025 13:37:13 GMT | Epstein Files Explained: What the Newly Released Documents Really Show | Big Five | [Read More](https://medium.com/p/922ed93e7897) |
