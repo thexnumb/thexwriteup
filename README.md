@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 06:35:10 GMT | What’s the Difference Between Video Surveillance and Sensor Systems? | Marcela John | [Read More](https://medium.com/p/b57425a18efc) |
+| Tue, 30 Dec 2025 06:26:27 GMT | An Engineering Playbook for Building Trustworthy AI Agents | Raghunandan Gupta | [Read More](https://medium.com/p/e226639547fc) |
+| Tue, 30 Dec 2025 06:23:32 GMT | Hamas: Understanding the Palestinian Islamist Movement | Gk | [Read More](https://medium.com/p/ad86d39170d8) |
+| Tue, 30 Dec 2025 06:17:55 GMT | The Most Popular Tech Careers After COVID: What Defined Demand in 2021 | Vbeyond Corporation | [Read More](https://medium.com/p/4725885a5340) |
+| Tue, 30 Dec 2025 06:17:32 GMT | Bug‑Bounty‑Ready Kali Linux Setup WSL | Yamin Rasel | [Read More](https://medium.com/p/e476f38438cd) |
+| Tue, 30 Dec 2025 06:13:32 GMT | How Security Testing Services Support Compliance for Enterprise & Regulated Industries | Saniawilkinson | [Read More](https://medium.com/p/9c28c482f704) |
+| Tue, 30 Dec 2025 06:07:47 GMT | SSTI Exploit Chain: From Error Leaks to File Deletion | M. Mustafa Hussaini | [Read More](https://medium.com/p/b76b89b67dfc) |
+| Tue, 30 Dec 2025 06:05:59 GMT | The Illusion of Security: How I Bypassed CAPTCHA to Enumerate Users (and Why It Was a Duplicate) | Zer0Figure | [Read More](https://medium.com/p/010d8b96f5d4) |
+| Tue, 30 Dec 2025 06:03:34 GMT | Free Cybersecurity Tools for Beginners | Sharif Hassan | [Read More](https://medium.com/p/9e060b0c3051) |
+| Tue, 30 Dec 2025 05:54:00 GMT | Leading AI Development Company Across Multiple Industries | Arunsinghh | [Read More](https://medium.com/p/c0123f454131) |
+| Tue, 30 Dec 2025 05:53:20 GMT | How to Safeguard Your Investments from Scams - Sawaal Karo - World Investor Week 2025 | Kshitijm | [Read More](https://medium.com/p/9f85190deca9) |
+| Tue, 30 Dec 2025 05:50:25 GMT | Disaster Recovery Planning Services Charlotte - IT Firm | IT Firm | [Read More](https://medium.com/p/e143f1baf78b) |
+| Tue, 30 Dec 2025 05:47:43 GMT | CCIR, PIR, and FFIR in Cyber Threat Intelligence | Nima Bargestan | [Read More](https://medium.com/p/3fdb38dcfaf3) |
 | Tue, 30 Dec 2025 05:46:50 GMT | You Think You’re Anonymous Online. Hackers Know You’re Not | Jayson Morale | [Read More](https://medium.com/p/1bd50038a307) |
 | Tue, 30 Dec 2025 05:41:59 GMT | Вы думаете, что анонимны в интернете. Хакеры знают, что это не так | Ziko0507 _ | [Read More](https://medium.com/p/9abd5b8f2dac) |
 | Tue, 30 Dec 2025 05:32:24 GMT | If you use Login with Facebook or Google — Read THIS! | Vijeetdeliwala | [Read More](https://medium.com/p/880dfbc24a27) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 19:55:38 GMT | picoCTF 2025 -Quantum Scrambler (Reverse Engineering Walkthrough) | Gregory Kovalchuk | [Read More](https://medium.com/p/f7380d11b0bf) |
 | Mon, 29 Dec 2025 19:55:18 GMT | HTTP Security Headers in Cybersecurity Explained | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/6632bcfa8f53) |
 | Mon, 29 Dec 2025 19:54:50 GMT | Modern ICT Academy System at Vsasf Tech ICT Academy Enugu | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/5e3ab3a024da) |
-| Mon, 29 Dec 2025 19:49:30 GMT | December 2025 Cyber Threat Brief: When Security Tools Become the Target | Jay Simmons | [Read More](https://medium.com/p/e0c5d9bc85a7) |
-| Mon, 29 Dec 2025 19:49:09 GMT | Agentic AI as a New Failure Mode in ICS/OT | Muhammad Ali Khan | [Read More](https://medium.com/p/96d7f74dfee2) |
-| Mon, 29 Dec 2025 19:48:57 GMT | TRUSTED CRYPTO RECOVERY SERVICE - RECOVER YOUR FUNDS WITH NO UPFRONT PAYMENT. | Lawrenceaugust | [Read More](https://medium.com/p/b1901a862cf1) |
-| Mon, 29 Dec 2025 19:39:29 GMT | Deepfakes in 2026: Protecting Your Identity from AI-Generated Fraud | Marcellinus Prevailer | [Read More](https://medium.com/p/21339861a519) |
-| Mon, 29 Dec 2025 19:30:03 GMT | Hunting for live malware with URLScan | Ryan Murphy | [Read More](https://medium.com/p/de5085573f64) |
-| Mon, 29 Dec 2025 19:28:02 GMT | Villager For Pentesting | Adrian Romanov | [Read More](https://medium.com/p/2033eded8ed4) |
-| Mon, 29 Dec 2025 19:09:04 GMT | How i found Sensitive Data Exposure in NASA Vulnerable Disclosure Program | hihipro | [Read More](https://medium.com/p/70139bd47ecb) |
-| Mon, 29 Dec 2025 18:37:22 GMT | December 29, 2025 | Austin Laughter | [Read More](https://medium.com/p/6eedd2ce60a1) |
-| Mon, 29 Dec 2025 18:35:17 GMT | The Story of MongoBleed : When Trusting the Client Went Wrong | Rajat Yadav | [Read More](https://medium.com/p/05b29543ee10) |
-| Mon, 29 Dec 2025 18:31:50 GMT | Running HexStrike AI with a Local Ollama Backend (WSL + Kali) | Mukarram Ali | [Read More](https://medium.com/p/7f30f32cb5af) |
-| Mon, 29 Dec 2025 18:27:52 GMT | Understanding the insecure deserialization vulnerability | hackerdevil | [Read More](https://medium.com/p/9e95f3d7723a) |
-| Mon, 29 Dec 2025 18:24:18 GMT | How I Got My First Bounty | Adhamkhairy | [Read More](https://medium.com/p/70cd498b9fc5) |
-| Mon, 29 Dec 2025 18:22:28 GMT | When Cybersecurity Stops Being About Defense and Starts Being About Truth | Daretoexpose | [Read More](https://medium.com/p/853aa6087253) |
