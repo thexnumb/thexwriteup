@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 10:40:11 GMT | The Vulnerability Hangover: Why Sharing Your Truth Hurts Before It Heals | Leonard Tillerman | [Read More](https://medium.com/p/6f3e84bda605) |
+| Tue, 30 Dec 2025 10:39:44 GMT | How Cyber Security Services Stop Phishing, Ransomware, and Zero-Day Attacks | Smart City System - HR Software - HRMS - Payroll | [Read More](https://medium.com/p/f4c6fb119db0) |
+| Tue, 30 Dec 2025 10:37:26 GMT | Why BS Cyber Security Helps Students Stand Out in IT Fields | Multanusp | [Read More](https://medium.com/p/b57a6e6f5b45) |
+| Tue, 30 Dec 2025 10:31:59 GMT | Siber Vatan CTF RSA Writeup | Emirhan Sevmez | [Read More](https://medium.com/p/ff4171a4321e) |
+| Tue, 30 Dec 2025 10:31:21 GMT | Coupang Announces $1.17 | Technijian | [Read More](https://medium.com/p/cdceda0c9699) |
+| Tue, 30 Dec 2025 10:30:54 GMT | How Email Security Services Protect Your Brand and Customer Trust | SmartCLOUD Australia | [Read More](https://medium.com/p/f2ab329de140) |
+| Tue, 30 Dec 2025 10:28:33 GMT | The Role of Ethical Hackers in Protecting Businesses from Advanced Cyber Threats | maison epoque | [Read More](https://medium.com/p/03953ae638d7) |
+| Tue, 30 Dec 2025 10:27:34 GMT | ASPM in Modern Application Security — Application Security Posture Management Tools and Their… | PeakCyber Technologies | [Read More](https://medium.com/p/c98fe97defc4) |
+| Tue, 30 Dec 2025 10:24:46 GMT | The Role of Security and Automation in Successful App Modernization | Devseccopsai | [Read More](https://medium.com/p/270ae66752e8) |
+| Tue, 30 Dec 2025 10:24:33 GMT | The Ghost in the Machine: A First-Guide to Cloud Encryption | Viquar Younus Mohammed | [Read More](https://medium.com/p/be219a2e0698) |
 | Tue, 30 Dec 2025 10:13:34 GMT | Idle Timeout (Oturum Zaman Aşımı) Nedir? | Arda Derya | [Read More](https://medium.com/p/e2469b4f7e57) |
 | Tue, 30 Dec 2025 10:06:41 GMT | Top Cyber Security Services in Nigeria for Data Protection and Compliance | Prakash Factosecure | [Read More](https://medium.com/p/65853194ac0d) |
 | Tue, 30 Dec 2025 10:01:23 GMT | CARTE Review: My Journey to Becoming an Azure Red Team Expert | Tiger3080 | [Read More](https://medium.com/p/ce396409438a) |
@@ -103,13 +113,3 @@ it is a confession of the fear of loss. | serhat oğuzhan | [Read More](https://
 | Tue, 30 Dec 2025 05:02:27 GMT | Migrating to the Cloud: AWS vs Azure vs GCP — Which One Fits Your Business? | F9 Infotech | [Read More](https://medium.com/p/877c7e7c5a61) |
 | Tue, 30 Dec 2025 04:57:39 GMT | Unlocking the Power of Nmap: Advanced Recon Techniques for Professionals | Cybeague Technologies | [Read More](https://medium.com/p/d668a7ef661e) |
 | Tue, 30 Dec 2025 04:56:53 GMT | Getting Started with Nmap: The Fast Lane to Cybersecurity Scanning | Cybeague Technologies | [Read More](https://medium.com/p/f4f65c2933ea) |
-| Tue, 30 Dec 2025 04:53:39 GMT | I Almost “Just Sent the Docs to an LLM API”… Then I Remembered I Like Sleeping at Night | Amith KS | [Read More](https://medium.com/p/506df0d90620) |
-| Tue, 30 Dec 2025 04:50:10 GMT | TVM Offenso Hackers Academy | Haseeb Dotin | [Read More](https://medium.com/p/9a9053d4ec3b) |
-| Tue, 30 Dec 2025 04:50:08 GMT | Inside the OSI Model: Where Security Really Lives !!!! | Jatin  yadav | [Read More](https://medium.com/p/d6a067cb3d03) |
-| Tue, 30 Dec 2025 04:49:22 GMT | Dark Hue of Blue Almost Purple-The Plaza | E.Y. Hevi | [Read More](https://medium.com/p/f8265cb585dc) |
-| Tue, 30 Dec 2025 04:32:49 GMT | Automation Is a Liability Without Guardrails | Shubh Gupta | [Read More](https://medium.com/p/bdd4e5ca496c) |
-| Tue, 30 Dec 2025 04:29:58 GMT | Guardians at the Gate: Security, Sovereignty, and Silent Vigilance | FAISAL IBNA FARUK | [Read More](https://medium.com/p/4bd9fc476fa5) |
-| Tue, 30 Dec 2025 04:13:28 GMT | Building a Cybersecurity Lab in AWS | Charles Christiansen | [Read More](https://medium.com/p/de07290d6e43) |
-| Tue, 30 Dec 2025 04:10:42 GMT | IIW & AIW 2025: Identity at the Edge of the Agentic Web | Sachin Mamoru | [Read More](https://medium.com/p/a78fb649ff2c) |
-| Tue, 30 Dec 2025 04:10:25 GMT | Inside Authenticate 2025: Sessions, Signals, and the Future of Digital Identity | Sachin Mamoru | [Read More](https://medium.com/p/ac5710afcb31) |
-| Tue, 30 Dec 2025 04:03:15 GMT | MongoBleed Explained: How a Subtle Memory Bug Exposed MongoDB for Nearly 8 Years | FutureStack Academy | [Read More](https://medium.com/p/7b11b7fe947d) |
