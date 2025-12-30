@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 21:31:21 GMT | H.E.I.X. GLOBAL AGENCY — WEBSITE DEVELOPMENT SERVICES | Heixglobalagency Manager | [Read More](https://medium.com/p/1fbfa587ccec) |
+| Tue, 30 Dec 2025 21:31:09 GMT | A Hidden Line of Text Can Hijack an AI. No Clicks, No Malware, Just Words. | AhmedAbdelmenem | [Read More](https://medium.com/p/308d26473f9f) |
+| Tue, 30 Dec 2025 21:30:53 GMT | H.E.I.X. GLOBAL AGENCY — WEBSITE DEVELOPMENT SERVICES | Heixglobaldirector | [Read More](https://medium.com/p/66c2600d6996) |
+| Tue, 30 Dec 2025 21:25:27 GMT | What Is a Dark Web Data Leak and Why It Matters | Tor BBB | [Read More](https://medium.com/p/045a199fd611) |
+| Tue, 30 Dec 2025 21:19:42 GMT | Tutorials Teach Muscle Memory. Labs Teach You How to Hack. | Derek Johnston | [Read More](https://medium.com/p/e47b101046c8) |
+| Tue, 30 Dec 2025 21:16:43 GMT | Part 1 — Where to? | Mehmet K | [Read More](https://medium.com/p/7faf5868a07d) |
 | Tue, 30 Dec 2025 21:15:56 GMT | Основи на Linux за хакери, част 0: Първи стъпки с Kali Linux | Hristo Hristov | [Read More](https://medium.com/p/eccc4f765f05) |
+| Tue, 30 Dec 2025 21:13:20 GMT | H.E.I.X. GLOBAL AGENCY — WEBSITE DEVELOPING SERVICES | Heixglobalagency Manager | [Read More](https://medium.com/p/17c570668312) |
+| Tue, 30 Dec 2025 21:13:18 GMT | H.E.I.X. GLOBAL AGENCY — WEBSITE DEVELOPING SERVICES | Heixglobaldirector | [Read More](https://medium.com/p/758a9c027c70) |
+| Tue, 30 Dec 2025 21:13:16 GMT | H.E.I.X. GLOBAL AGENCY — WEBSITE DEVELOPING SERVICES | Heixglobalagency Ceo | [Read More](https://medium.com/p/9a4ab38d5909) |
+| Tue, 30 Dec 2025 21:13:13 GMT | H.E.I.X. GLOBAL AGENCY — WEBSITE DEVELOPING SERVICES | H.E.I.X. Global Agency | [Read More](https://medium.com/p/b81251449cf9) |
 | Tue, 30 Dec 2025 20:58:04 GMT | When Cybersecurity Isn’t Enough: A Small Business Owner’s Nightmare | Krystal | [Read More](https://medium.com/p/ca1b98b62ffe) |
 | Tue, 30 Dec 2025 20:55:09 GMT | Humble Image Security Tracking with Syft & Grype under the hood | Sergei Ovchinnikov | [Read More](https://medium.com/p/76120e917029) |
 | Tue, 30 Dec 2025 20:54:23 GMT | Part 10: Drone Approval & Deployment. RMF, CMMC and ITAR. | Pipeline | [Read More](https://medium.com/p/803b261d5eb4) |
@@ -103,13 +113,3 @@ What Standup Comedy Reveals About Risk Communication | Jesse Nelson | [Read More
 | Tue, 30 Dec 2025 15:30:04 GMT | Windows Services - Methods and Mitigation - Persistence Techniques - Part 3 | Satvik Hatulkar | [Read More](https://medium.com/p/79bad2b5f459) |
 | Tue, 30 Dec 2025 15:21:17 GMT | I Thought I Had to Be Strong — Until I Finally Asked for Help | Vanessa Gemicibasi | [Read More](https://medium.com/p/e6a9c5a49d3e) |
 | Tue, 30 Dec 2025 15:19:11 GMT | Why and how I set up a home NAS server | Konrad Brodzik | [Read More](https://medium.com/p/5f66d660aede) |
-| Tue, 30 Dec 2025 15:06:01 GMT | 10 Signs You’re About to Be Scammed (And How to Escape) — Part 2 | Clickwise Nigeria | [Read More](https://medium.com/p/5590dcde232d) |
-| Tue, 30 Dec 2025 15:05:50 GMT | WhitelistVideo | Tasha AI DIR | [Read More](https://medium.com/p/1f86f5ba9419) |
-| Tue, 30 Dec 2025 15:03:44 GMT | Pentesting México: la estrategia clave para proteger empresas frente a ciberataques | Selspy - Trending products for dropshipping | [Read More](https://medium.com/p/6833f4488180) |
-| Tue, 30 Dec 2025 15:02:35 GMT | 10 Signs You’re About to Be Scammed (And How to Escape) — Part 1 | Clickwise Nigeria | [Read More](https://medium.com/p/833352a3a453) |
-| Tue, 30 Dec 2025 15:02:29 GMT | Cyber Briefing: 2025.12.30 | CyberMaterial | [Read More](https://medium.com/p/0c212daabb58) |
-| Tue, 30 Dec 2025 15:00:09 GMT | GROK’s x.AI — Valuable Feedback | QEE | [Read More](https://medium.com/p/a19d9b1937b1) |
-| Tue, 30 Dec 2025 14:58:09 GMT | GPTBot and the Bandwidth Problem No One Talks About | Mohamad Mahmood | [Read More](https://medium.com/p/3919393d721d) |
-| Tue, 30 Dec 2025 14:55:33 GMT | A Critical Vulnerability in n8n Exposes the Hidden Risks of Automation at Scale | LEROBITcast | [Read More](https://medium.com/p/faa6a1ca108e) |
-| Tue, 30 Dec 2025 14:52:39 GMT | Learning C++ for Malware Development Course | S12 - 0x12Dark Development | [Read More](https://medium.com/p/d16f9fb2e65c) |
-| Tue, 30 Dec 2025 14:51:45 GMT | IBM Guardium v12.x (C1000–197): How to Crack the Exam? An Admin’s Field Notes | Adam Frąckowiak | [Read More](https://medium.com/p/2896610af0c3) |
