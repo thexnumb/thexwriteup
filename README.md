@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 01:32:26 GMT | Beyond the “Black Box”: Why Governance is the Only Way to Deploy AI Safely | Eude Tech | [Read More](https://medium.com/p/7d37fc0fd626) |
+| Tue, 30 Dec 2025 01:21:19 GMT | API Keys, Tokens & Secrets: How They Leak and How Developers can Avoid it | Veronica Peter | [Read More](https://medium.com/p/37c458f16774) |
+| Tue, 30 Dec 2025 01:04:01 GMT | Understanding Broken Object Level Authorization (BOLA): What It Is, How It Happens, and How to… | Veronica Peter | [Read More](https://medium.com/p/52e6236e072c) |
+| Tue, 30 Dec 2025 00:57:23 GMT | Advanced Mobile App Security: Protecting Code, Integrity, and User Trust | Rafi zimraan arjuna wijaya | [Read More](https://medium.com/p/eaf603d1a2d4) |
+| Tue, 30 Dec 2025 00:57:14 GMT | Cybersecurity 101: AI | Hector Orellana Reyes | [Read More](https://medium.com/p/64778a11d8ff) |
+| Tue, 30 Dec 2025 00:43:41 GMT | Building a Secure Malware Lab & Dissecting WannaCry: From ISO to IOCs | Eren Ergen | [Read More](https://medium.com/p/8666320cf0e9) |
+| Tue, 30 Dec 2025 00:23:22 GMT | System Monitoring & Research Update — Live Documentation Page | goge loab | [Read More](https://medium.com/p/6af0a93ef9c4) |
+| Tue, 30 Dec 2025 00:17:29 GMT | IDOR in Account Update Endpoint | v7l3nt1m | [Read More](https://medium.com/p/236de7352bbc) |
+| Tue, 30 Dec 2025 00:11:39 GMT | When a Compression Tool Becomes an Entry Point: Patching WinRAR CVEs from a SOC Perspective | Pablo Echeverria | [Read More](https://medium.com/p/ddeba897c3e8) |
+| Tue, 30 Dec 2025 00:03:58 GMT | 2025 Retrospective: When AI Became Infrastructure and What Computer Engineering Holds for 2026 | Marcos Roberto Moraes | [Read More](https://medium.com/p/2ab05fe6f014) |
+| Tue, 30 Dec 2025 00:02:46 GMT | Droid-Warden CTF by INE : How I Finished First Under Pressure | The.Flying.Wolf | [Read More](https://medium.com/p/6caad8b21155) |
+| Mon, 29 Dec 2025 23:47:56 GMT | Ahead of Planning: Contingency Plan in Action | Hector Orellana Reyes | [Read More](https://medium.com/p/62fd18d828a6) |
 | Mon, 29 Dec 2025 23:39:23 GMT | “He Loved Her For His Life — And betrayed Her Being Her Enemy” | SYED WASTI | [Read More](https://medium.com/p/2011203fb986) |
 | Mon, 29 Dec 2025 23:14:04 GMT | Deep Dive Into CVE-2025–55182: Understanding React Server Components RCE | Ashimsapkota | [Read More](https://medium.com/p/9bca719907f3) |
 | Mon, 29 Dec 2025 23:07:11 GMT | CISSP Domain 3: Security Engineering - Complete Study Notes (Part 2) | Pushpak Sharma | [Read More](https://medium.com/p/b397e87aaab0) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 29 Dec 2025 15:32:48 GMT | HackTheBox SecretPictures WriteUp | omertugrulbayram | [Read More](https://medium.com/p/d23c67308a86) |
 | Mon, 29 Dec 2025 15:29:41 GMT | AI Security and Governance: Enabling Responsible AI Use in the Enterprise | David O'Neill | [Read More](https://medium.com/p/581f0bc735b8) |
 | Mon, 29 Dec 2025 15:27:09 GMT | OverTheWire Bandit (Day 03): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/4502d7e88042) |
-| Mon, 29 Dec 2025 15:24:39 GMT | The Keys to the Kingdom: An Advanced Look at Remote Code Execution (RCE) | Yassin Salah | [Read More](https://medium.com/p/14f882dd1c8a) |
-| Mon, 29 Dec 2025 15:23:11 GMT | The Deadliest Vulnerabilities of 2025: The CVEs That Were Actually Exploited | Richard Dosumu | [Read More](https://medium.com/p/5d4e80cde4ab) |
-| Mon, 29 Dec 2025 15:20:57 GMT | The Bit: How Yes/No Questions Explain Everything | Hawra hanif | [Read More](https://medium.com/p/e20a719add0b) |
-| Mon, 29 Dec 2025 15:20:01 GMT | China Attacks Thirty American Firms In Bizarre New Cyber Hack | Linda Caroll | [Read More](https://medium.com/p/5b13080a4769) |
-| Mon, 29 Dec 2025 15:16:59 GMT | The Role of HTTPS, Tokens, and Secure APIs in Modern Digital Products | Farhan Nasir | [Read More](https://medium.com/p/1c281892092a) |
-| Mon, 29 Dec 2025 15:07:58 GMT | Why Linux Distros Are Perfect for New Users in 2026 | Sam Writes Security | [Read More](https://medium.com/p/1f3378e84e23) |
-| Mon, 29 Dec 2025 15:06:01 GMT | Cyber Briefing: 2025.12.29 | CyberMaterial | [Read More](https://medium.com/p/ab1e61605725) |
-| Mon, 29 Dec 2025 15:05:31 GMT | Inside the Architecture of ds-7732nxi-k4: | Tavan CCTV | [Read More](https://medium.com/p/7d6501bc4ee2) |
-| Mon, 29 Dec 2025 14:59:43 GMT | Working Like a Professional Pentester (script -f mlog.log) | Mert Baykal | [Read More](https://medium.com/p/4c80435882d9) |
-| Mon, 29 Dec 2025 14:55:56 GMT | Encryption by default: Managing SSL generation in Kubernetes | Sergio Rua | [Read More](https://medium.com/p/641332a941df) |
-| Mon, 29 Dec 2025 14:55:56 GMT | Profesyonel Bir Pentester Gibi Çalışmak(script -nlog.log) | Mert Baykal | [Read More](https://medium.com/p/366f24a9262d) |
-| Mon, 29 Dec 2025 14:50:43 GMT | Lab: Reflected XSS into HTML context with all tags blocked except custom ones | KRY | [Read More](https://medium.com/p/bade322903de) |
