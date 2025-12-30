@@ -12,9 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 30 Dec 2025 17:39:27 GMT | SAST / DAST Integration Pipeline | Esra Kayhan | [Read More](https://medium.com/p/3d60fedb34a8) |
+| Tue, 30 Dec 2025 17:37:46 GMT | Cybersecurity Unlocked: Episode 8— The Cast of Characters (Threat Actors) | Yash Kitey | [Read More](https://medium.com/p/46ff5f017307) |
+| Tue, 30 Dec 2025 17:36:02 GMT | The Cryptography Concept Journey — Merkle’s Puzzles | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/bb085c67f4e0) |
+| Tue, 30 Dec 2025 17:26:59 GMT | Deploying a Private, High-Performance VPN Server on AWS EC2 using SoftEther | Ajay Uppu | [Read More](https://medium.com/p/dcbe361169ec) |
+| Tue, 30 Dec 2025 17:26:25 GMT | Defending Against Multi-Cloud Threats With an IT Managed Services Provider in Springfield, MO | PCnet | [Read More](https://medium.com/p/bd34f8bffcb2) |
 | Tue, 30 Dec 2025 17:19:24 GMT | From Zero to Secure — Hardening a Windows 10 Workstation | Secured By Sebastion | [Read More](https://medium.com/p/c5cc8a2939ae) |
+| Tue, 30 Dec 2025 17:16:43 GMT | A Cybersecurity Expert Just Shattered My Reality | TechToFit - Master Your Life with Tech | [Read More](https://medium.com/p/f1d9515f3e77) |
 | Tue, 30 Dec 2025 17:16:23 GMT | Managing Cyber Risk in a World of Digital Change: Heraclitus’s Lessons on Impermanence | Brian Haman, PhD | [Read More](https://medium.com/p/972fb5440dd8) |
 | Tue, 30 Dec 2025 17:13:25 GMT | Cyber Security Foundation Series — Computer Networking Part -01 | Kamal Kishor Mahto | [Read More](https://medium.com/p/bbbdac41fecc) |
+| Tue, 30 Dec 2025 17:10:43 GMT | Learning Reverse Engineering: CH00 | Haridasmahato | [Read More](https://medium.com/p/855231c7b541) |
+| Tue, 30 Dec 2025 17:10:40 GMT | Why Technology Alone Doesn’t Transform Services | Franklyn Obumneme Enyi | [Read More](https://medium.com/p/e411dfe4f9b1) |
 | Tue, 30 Dec 2025 17:10:30 GMT | Got the Next.js Security Alert? Complete Breakdown of CVE-2025–66478 | Jyoti Joshi | [Read More](https://medium.com/p/8640d422bffd) |
 | Tue, 30 Dec 2025 17:06:55 GMT | Why Hackers Don’t Break Systems—People Do | Mubashir | [Read More](https://medium.com/p/f5898fbc4d36) |
 | Tue, 30 Dec 2025 17:06:35 GMT | Day 148 — Behemoth Level-5 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/95706ff3b2e1) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Dec 2025 12:14:56 GMT | File Uploads in React with Node.js and Multer Backend | Didin Jamaludin | [Read More](https://medium.com/p/d003399509c8) |
 | Tue, 30 Dec 2025 12:11:42 GMT | The Agency Threat Model: What Breaks When AI Systems Act Autonomously | Naveen C | [Read More](https://medium.com/p/14d67834f37e) |
 | Tue, 30 Dec 2025 12:07:04 GMT | Chicken Road Game: A Rising Online Scam | Himanshu Bhatt | [Read More](https://medium.com/p/1fc55a6cb797) |
-| Tue, 30 Dec 2025 12:06:28 GMT | How Bug Bounty Hunters Are Quietly Using AI to Work Smarter | ghostyjoe | [Read More](https://medium.com/p/5264db2a78dc) |
-| Tue, 30 Dec 2025 12:02:23 GMT | The Metadata Problem: How Your Documents Reveal Your Identity, Infrastructure, and Projects | Ingvar Pavlovich | [Read More](https://medium.com/p/d9dd0ea41efb) |
-| Tue, 30 Dec 2025 11:57:28 GMT | OT Best OT Cyber Security Services to Defend Industrial Operations in 2026 | Arista Cyber | [Read More](https://medium.com/p/e6cc1ade36be) |
-| Tue, 30 Dec 2025 11:50:49 GMT | AI in Cybersecurity: From Reactive Defense to Predictive Protection | Alolika Ghosh | [Read More](https://medium.com/p/2545040610a1) |
-| Tue, 30 Dec 2025 11:49:27 GMT | Why the GCC EdTech Market Is Rapidly Expanding | John ryan | [Read More](https://medium.com/p/1454744dc650) |
-| Tue, 30 Dec 2025 11:38:48 GMT | Simple protection against complex attacks | Progsky | [Read More](https://medium.com/p/799f40e0f213) |
-| Tue, 30 Dec 2025 11:33:15 GMT | CVE-2025–32463 —  sudo critical vulnerability and privilege escalation — I didn’t know that | Michael Harms | [Read More](https://medium.com/p/b96361d501c9) |
-| Tue, 30 Dec 2025 11:28:01 GMT | AI Alert Triage: From Manual Bottlenecks to Intelligent SOC Automation | Mallikarjunan Krishnan | [Read More](https://medium.com/p/8e600ff82489) |
