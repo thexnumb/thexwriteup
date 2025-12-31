@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 07:38:16 GMT | How I Found a Broken Access Control Flaw: Bypassing Authentication with Extensionless Paths. | DOD cyber solutions | [Read More](https://medium.com/p/b9cff692788d) |
+| Wed, 31 Dec 2025 07:33:31 GMT | Cybersecurity Career Certification Roadmap: A Complete Guide | Manisha Chaudhary | [Read More](https://medium.com/p/c36f61d3d2de) |
+| Wed, 31 Dec 2025 07:33:02 GMT | In Recent Times : Cybersecurity and Technology in the Modern Age. | Michael Adedeji | [Read More](https://medium.com/p/29a5e98a0259) |
+| Wed, 31 Dec 2025 07:23:30 GMT | The AI Threat Matrix: Why 2026 is the Year of ‘Shadow AI’ (And How to Survive It) | Dorian Sotpyrc | [Read More](https://medium.com/p/4fd552b63232) |
+| Wed, 31 Dec 2025 07:22:38 GMT | HexStrike MCP Orchestration with Ollama: Ubuntu Host, Kali VM, SSH Bridging, and Performance… | Andrey Pautov | [Read More](https://medium.com/p/f049ab140596) |
+| Wed, 31 Dec 2025 07:22:10 GMT | Complete WhatsApp Protection Backed by Mac Antivirus on Mobile | Siyanoav | [Read More](https://medium.com/p/c4f0f5a65ff9) |
 | Wed, 31 Dec 2025 07:18:56 GMT | Best Staffing Services Company for On-Site and Remote Jobs: A Practical Guide | CyberAube Technologies | [Read More](https://medium.com/p/298247499768) |
 | Wed, 31 Dec 2025 07:14:46 GMT | Navigating Agentic AI: Key Challenges and Design Strategies for Production Systems | Raghunandan Gupta | [Read More](https://medium.com/p/ba1b7c367159) |
 | Wed, 31 Dec 2025 07:06:10 GMT | IRS Phone Number to Speak to a Live Person — Full 2026 Helpline Guide | Motherlandlove | [Read More](https://medium.com/p/74a390f5f312) |
@@ -82,6 +88,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 31 Dec 2025 00:50:34 GMT | How an English Teacher Unexpectedly Became a Hacker (and Passed eJPT) | Crystal_Cascade | [Read More](https://medium.com/p/83431997ad41) |
 | Wed, 31 Dec 2025 00:46:10 GMT | Learn a Word: CPTD | Ellen Auchter | [Read More](https://medium.com/p/050fda9c922a) |
 | Wed, 31 Dec 2025 00:44:15 GMT | From Ping to Shell: A Step-by-Step Guide to Exploiting MS17–010 (EternalBlue) | Krishna | [Read More](https://medium.com/p/1b343e6d74a9) |
+| Wed, 31 Dec 2025 00:37:42 GMT | MFA Fatigue Is Old News: Token Theft Is the Real Problem Nobody Fixed | Travis Ray Caverhill | [Read More](https://medium.com/p/cad44390ba47) |
 | Tue, 30 Dec 2025 23:48:28 GMT | TryHackMe Brute It Walkthrough | Rootseekerx0x | [Read More](https://medium.com/p/621f71f582bc) |
 | Tue, 30 Dec 2025 23:44:54 GMT | Drones | rk.infinity75 | [Read More](https://medium.com/p/93abf4fb0af8) |
 | Tue, 30 Dec 2025 23:32:27 GMT | Guardrails Over Gates: A Smarter Way to Enable Security Without Slowing DevOps | Ravi Rajput | [Read More](https://medium.com/p/aabd4605bbc2) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Dec 2025 21:39:29 GMT | Pentesting | Daniel Scragg | [Read More](https://medium.com/p/e66c3670857c) |
 | Tue, 30 Dec 2025 21:39:23 GMT | Top Security Challenges Faced by Businesses in Camarillo | Onpointpetrol | [Read More](https://medium.com/p/96ab7239ea2a) |
 | Tue, 30 Dec 2025 21:31:21 GMT | H.E.I.X. GLOBAL AGENCY — WEBSITE DEVELOPMENT SERVICES | Heixglobalagency Manager | [Read More](https://medium.com/p/1fbfa587ccec) |
-| Tue, 30 Dec 2025 21:31:09 GMT | A Hidden Line of Text Can Hijack an AI. No Clicks, No Malware, Just Words. | AhmedAbdelmenem | [Read More](https://medium.com/p/308d26473f9f) |
-| Tue, 30 Dec 2025 21:30:53 GMT | H.E.I.X. GLOBAL AGENCY — WEBSITE DEVELOPMENT SERVICES | Heixglobaldirector | [Read More](https://medium.com/p/66c2600d6996) |
-| Tue, 30 Dec 2025 21:30:22 GMT | H.E.I.X. GLOBAL AGENCY — WEBSITE DEVELOPMENT SERVICES | Heixglobalagency Ceo | [Read More](https://medium.com/p/89fab87fa297) |
-| Tue, 30 Dec 2025 21:29:56 GMT | H.E.I.X. GLOBAL AGENCY — WEBSITE DEVELOPMENT SERVICES | H.E.I.X. Global Agency | [Read More](https://medium.com/p/795e53487c13) |
-| Tue, 30 Dec 2025 21:25:27 GMT | What Is a Dark Web Data Leak and Why It Matters | Tor BBB | [Read More](https://medium.com/p/045a199fd611) |
-| Tue, 30 Dec 2025 21:19:42 GMT | Tutorials Teach Muscle Memory. Labs Teach You How to Hack. | Derek Johnston | [Read More](https://medium.com/p/e47b101046c8) |
-| Tue, 30 Dec 2025 21:16:43 GMT | Part 1 — Where to? | Mehmet K | [Read More](https://medium.com/p/7faf5868a07d) |
