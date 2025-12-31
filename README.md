@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 09:17:36 GMT | Comprehensive Static and Dynamic Analysis of an Incransom Ransomware Sample: Behavior, Persistence… | Aisha B. B | [Read More](https://medium.com/p/b1739ac6560f) |
+| Wed, 31 Dec 2025 09:12:14 GMT | Reverse Shell Exploitation: A Home Lab | Jude Anewuoh | [Read More](https://medium.com/p/ec819ba6ea60) |
+| Wed, 31 Dec 2025 09:12:05 GMT | GhostPairing WhatsApp Scam | Gyaando.com | [Read More](https://medium.com/p/58fb4b0db6f8) |
+| Wed, 31 Dec 2025 09:08:00 GMT | How to do Pivoting and Tunneling | Zoroya | [Read More](https://medium.com/p/09111b2fac2c) |
+| Wed, 31 Dec 2025 09:06:03 GMT | Cybersecurity in 2025? | Hemantverma | [Read More](https://medium.com/p/16641e3a42fc) |
+| Wed, 31 Dec 2025 09:05:34 GMT | Advent of Cyber 2025: A Hands-On Cybersecurity Event Overview | hexidecimal | [Read More](https://medium.com/p/1809f912f4c1) |
+| Wed, 31 Dec 2025 09:04:28 GMT | How to Break Into Cybersecurity in 2026 (A Realistic Roadmap — Part 1) | Hossein Zarei | [Read More](https://medium.com/p/c926910b2af4) |
+| Wed, 31 Dec 2025 09:03:44 GMT | Prototype Pollution → Template Injection → RCE The Vulnerable Node Lab That Finally Made It Click | ParadoxYab | [Read More](https://medium.com/p/ce4493bf3639) |
+| Wed, 31 Dec 2025 09:02:33 GMT | The Hidden Leak Source Most Companies Miss: Employee Personal Devices and Saved Logins | Alexandre Vandamme | [Read More](https://medium.com/p/b3a63de45da0) |
+| Wed, 31 Dec 2025 09:01:04 GMT | How to Develop a Cybersecurity Roadmap for Long-Term Resilience | Rahman Iqbal | [Read More](https://medium.com/p/d253230ea7b2) |
+| Wed, 31 Dec 2025 09:00:40 GMT | Reasons Your API Returns 403 With a Valid Token — and How to Fix Missing Role Mapping | Anh Trần Tuấn | [Read More](https://medium.com/p/46b0a139b512) |
+| Wed, 31 Dec 2025 08:59:34 GMT | Measuring Bugs by Time-to-Root: | Shivadharshan (Shan) Lingeswaran | [Read More](https://medium.com/p/6010b025ee46) |
+| Wed, 31 Dec 2025 08:59:25 GMT | Siber Güvenliğe İlk Adım —  Penetrasyon Testi Nedir ve Neden Önemlidir? | Gülbahar Dirik | [Read More](https://medium.com/p/029e23c8e5fb) |
+| Wed, 31 Dec 2025 08:56:43 GMT | 2025: What This Year Taught Me — And What I am Building in 2026 | Sandeep Kasturi | [Read More](https://medium.com/p/1e7a679a5f56) |
+| Wed, 31 Dec 2025 08:56:03 GMT | JWT Authentication Bypass | d7meealz | [Read More](https://medium.com/p/eebed5346079) |
+| Wed, 31 Dec 2025 08:32:42 GMT | How to Check for Vulnerabilities in Your Docker Images using Trivy | Win Jinkawin | [Read More](https://medium.com/p/841a2d885769) |
 | Wed, 31 Dec 2025 08:27:23 GMT | Year in Rewind: 2025 at QSS | QSS smart it | [Read More](https://medium.com/p/bc9a6b4230f5) |
 | Wed, 31 Dec 2025 08:26:20 GMT | Source Code Under Attack? How to Secure Your Application Supply Chain Before It’s Too Late | Sabbir Hossain | [Read More](https://medium.com/p/77093f131e3d) |
 | Wed, 31 Dec 2025 08:24:50 GMT | Role of Cyber Awareness in Preventing Digital Crimes | Tech Word | [Read More](https://medium.com/p/6e53f584cefc) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 31 Dec 2025 01:32:58 GMT | Poem Of the Week by Ethan Bell | Ethan Bell | [Read More](https://medium.com/p/85c78222cccd) |
 | Wed, 31 Dec 2025 01:26:25 GMT | An OSINT Manifesto for the New Year: Less Noise, More Signal | Sam Galope | [Read More](https://medium.com/p/144d4a5e0105) |
 | Wed, 31 Dec 2025 01:09:57 GMT | picoCTF#1: Cookie Monster Secret Recipe (Easy) | whiteButterfly | [Read More](https://medium.com/p/38443d2f21b5) |
-| Wed, 31 Dec 2025 01:03:27 GMT | How I Passed the eJPT: A Practical Approach to Enumeration and Mindset | Jabaribrown | [Read More](https://medium.com/p/07ed547ba4cd) |
-| Wed, 31 Dec 2025 00:50:55 GMT | If Philippine Cybersecurity Had a “Spotify Wrapped” for 2025, This Would Be It | Rommel Jay Gadil | [Read More](https://medium.com/p/6a3e822dacaa) |
-| Wed, 31 Dec 2025 00:50:34 GMT | How an English Teacher Unexpectedly Became a Hacker (and Passed eJPT) | Crystal_Cascade | [Read More](https://medium.com/p/83431997ad41) |
-| Wed, 31 Dec 2025 00:46:10 GMT | Learn a Word: CPTD | Ellen Auchter | [Read More](https://medium.com/p/050fda9c922a) |
-| Wed, 31 Dec 2025 00:44:15 GMT | From Ping to Shell: A Step-by-Step Guide to Exploiting MS17–010 (EternalBlue) | Krishna | [Read More](https://medium.com/p/1b343e6d74a9) |
-| Wed, 31 Dec 2025 00:37:42 GMT | MFA Fatigue Is Old News: Token Theft Is the Real Problem Nobody Fixed | Travis Ray Caverhill | [Read More](https://medium.com/p/cad44390ba47) |
-| Tue, 30 Dec 2025 23:48:28 GMT | TryHackMe Brute It Walkthrough | Rootseekerx0x | [Read More](https://medium.com/p/621f71f582bc) |
-| Tue, 30 Dec 2025 23:44:54 GMT | Drones | rk.infinity75 | [Read More](https://medium.com/p/93abf4fb0af8) |
-| Tue, 30 Dec 2025 23:32:27 GMT | Guardrails Over Gates: A Smarter Way to Enable Security Without Slowing DevOps | Ravi Rajput | [Read More](https://medium.com/p/aabd4605bbc2) |
-| Tue, 30 Dec 2025 23:32:23 GMT | Coffee Shots with Security Models: A Hilarious Guide to Bell-LaPadula ☕ | Pushpak Sharma | [Read More](https://medium.com/p/a5b6c230149f) |
-| Tue, 30 Dec 2025 23:13:27 GMT | ICS/OT Vendor Management-The Risk No One Owns | Muhammad Ali Khan | [Read More](https://medium.com/p/c9e0b9841775) |
-| Tue, 30 Dec 2025 23:06:29 GMT | The HTTP Request–Response Lifecycle | Martin Simonyan | [Read More](https://medium.com/p/b9c8cb7c4b61) |
-| Tue, 30 Dec 2025 23:01:42 GMT | Agent Skills: Governing Coding Agents Before They Govern Us | Dave Patten | [Read More](https://medium.com/p/f458c6d0eace) |
-| Tue, 30 Dec 2025 23:01:40 GMT | TryHackMe Ignite Walkthrough | Rootseekerx0x | [Read More](https://medium.com/p/d66af3b89df4) |
-| Tue, 30 Dec 2025 22:57:19 GMT | The Wrong Screw - Dog Years | Julio Oña | [Read More](https://medium.com/p/e8e636a3b815) |
-| Tue, 30 Dec 2025 22:49:18 GMT | CISSP Domain 3 Part 3: Essential Study Guide | Pushpak Sharma | [Read More](https://medium.com/p/b2e4903abadc) |
