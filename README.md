@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 14:20:25 GMT | My 2025 Pentesting Arsenal: Custom Tools & Scripts | Taulan Zauzanov | [Read More](https://medium.com/p/cf3904247f1f) |
+| Wed, 31 Dec 2025 14:04:40 GMT | ML Case Study: Abnormal Behavior Detection, Interpretation, and Documentation. | Kenechi Ojukwu | [Read More](https://medium.com/p/a1bb75635f23) |
+| Wed, 31 Dec 2025 14:02:41 GMT | n8n Security Vulnerability —  CVE-2025–68613 | Mr.Cool | [Read More](https://medium.com/p/8f1187f48fb7) |
+| Wed, 31 Dec 2025 14:02:27 GMT | The $18/Hour Hacker: How AI Redefined the Economics of Cyber Attack | MohamedAbdelmenem | [Read More](https://medium.com/p/55ee7a0bd0e3) |
+| Wed, 31 Dec 2025 13:59:37 GMT | Beyond Basic Encryption: 5 Reasons Why Stegure is the Ultimate Digital Vault | Stegure.in | [Read More](https://medium.com/p/1533c0752ec2) |
+| Wed, 31 Dec 2025 13:54:05 GMT | The Logic Behind Nmap Scan Options and How They Work Internally | Gajanan Tayde | [Read More](https://medium.com/p/bed6ef974b2f) |
+| Wed, 31 Dec 2025 13:53:16 GMT | Stop Hiding Passwords in Your Notes App: Here’s a Better Way | Stegure.in | [Read More](https://medium.com/p/639ceaf24bbf) |
+| Wed, 31 Dec 2025 13:45:33 GMT | Cyber Security Trends Of 2026 That Business Leaders Cannot Ignore Now — SJ Innovation LLC | SJ Innovation | [Read More](https://medium.com/p/5623a15aa56a) |
+| Wed, 31 Dec 2025 13:44:17 GMT | GitHub Recon: Where the Real Bugs Quietly Begin | Purushotham.R | [Read More](https://medium.com/p/72169baa58c8) |
+| Wed, 31 Dec 2025 13:28:27 GMT | Small Business Cybersecurity Checklist: Defend Against Phishing & Ransomware | Technijian | [Read More](https://medium.com/p/554a2bd53312) |
 | Wed, 31 Dec 2025 13:21:27 GMT | The Marketplace — Write-Up | ManuM0re | [Read More](https://medium.com/p/b7be1ac968f9) |
 | Wed, 31 Dec 2025 13:21:24 GMT | Chapter 2: The AD Attack Surface | Aang | [Read More](https://medium.com/p/5ba8a56da958) |
 | Wed, 31 Dec 2025 13:18:45 GMT | Chapter 1— Introduction to Active Directory | Aang | [Read More](https://medium.com/p/34df1bbaf117) |
@@ -103,13 +113,3 @@ Cybercrime is evolving… | Ankit rai | [Read More](https://medium.com/p/025ee1e
 | Wed, 31 Dec 2025 07:51:01 GMT | What Six Months of a Security Internship Changed About How I Think | Vidya Penumarthi | [Read More](https://medium.com/p/d80da9833da8) |
 | Wed, 31 Dec 2025 07:50:53 GMT | Top Cybersecurity Skills Companies Are Hiring For | Tech Word | [Read More](https://medium.com/p/dbc66d372c0b) |
 | Wed, 31 Dec 2025 07:47:42 GMT | Cyber Threats 2025 → Preparing Pakistan for 2026 - PCSDP Initiative | Pakistan Cyber Security & Digital Forensics | [Read More](https://medium.com/p/c0125bc32480) |
-| Wed, 31 Dec 2025 07:38:16 GMT | How I Found a Broken Access Control Flaw: Bypassing Authentication with Extensionless Paths. | DOD cyber solutions | [Read More](https://medium.com/p/b9cff692788d) |
-| Wed, 31 Dec 2025 07:33:31 GMT | Cybersecurity Career Certification Roadmap: A Complete Guide | Manisha Chaudhary | [Read More](https://medium.com/p/c36f61d3d2de) |
-| Wed, 31 Dec 2025 07:33:02 GMT | In Recent Times : Cybersecurity and Technology in the Modern Age. | Michael Adedeji | [Read More](https://medium.com/p/29a5e98a0259) |
-| Wed, 31 Dec 2025 07:23:30 GMT | The AI Threat Matrix: Why 2026 is the Year of ‘Shadow AI’ (And How to Survive It) | Dorian Sotpyrc | [Read More](https://medium.com/p/4fd552b63232) |
-| Wed, 31 Dec 2025 07:22:38 GMT | HexStrike MCP Orchestration with Ollama: Ubuntu Host, Kali VM, SSH Bridging, and Performance… | Andrey Pautov | [Read More](https://medium.com/p/f049ab140596) |
-| Wed, 31 Dec 2025 07:22:10 GMT | Complete WhatsApp Protection Backed by Mac Antivirus on Mobile | Siyanoav | [Read More](https://medium.com/p/c4f0f5a65ff9) |
-| Wed, 31 Dec 2025 07:18:56 GMT | Best Staffing Services Company for On-Site and Remote Jobs: A Practical Guide | CyberAube Technologies | [Read More](https://medium.com/p/298247499768) |
-| Wed, 31 Dec 2025 07:14:46 GMT | Navigating Agentic AI: Key Challenges and Design Strategies for Production Systems | Raghunandan Gupta | [Read More](https://medium.com/p/ba1b7c367159) |
-| Wed, 31 Dec 2025 07:06:10 GMT | IRS Phone Number to Speak to a Live Person — Full 2026 Helpline Guide | Motherlandlove | [Read More](https://medium.com/p/74a390f5f312) |
-| Wed, 31 Dec 2025 07:04:49 GMT | Residential Security Service Enhances High-Profile Safety | Reliable Security Staffing | [Read More](https://medium.com/p/e6662cfdc91d) |
