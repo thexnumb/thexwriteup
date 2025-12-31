@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 12:37:23 GMT | The Power of 2FA & MFA | AZUBUIKE NWENEWO | [Read More](https://medium.com/p/2d1b1c333150) |
+| Wed, 31 Dec 2025 12:21:23 GMT | Understanding Advanced SSRF Attacks and Their Escalation | Afi0pchik | [Read More](https://medium.com/p/59c4d24a811a) |
+| Wed, 31 Dec 2025 12:13:35 GMT | Dev Retro 2025: Journey in review | Dhanush N | [Read More](https://medium.com/p/d8a90f52e008) |
+| Wed, 31 Dec 2025 12:09:30 GMT | Why Most Dangerous Cybersecurity Threats for Your Business | networsys | [Read More](https://medium.com/p/304c0102e295) |
+| Wed, 31 Dec 2025 12:08:46 GMT | Starting My Journey to Become a SOC Analyst | Hamid Hasanov | [Read More](https://medium.com/p/f7a43b332f60) |
+| Wed, 31 Dec 2025 12:07:04 GMT | The Top MSP Cybersecurity Challenges to Prepare for | NAKIVO | [Read More](https://medium.com/p/7604973cd46a) |
+| Wed, 31 Dec 2025 12:03:35 GMT | AI DevOps Platforms Explained: Automation, Monitoring, and Security Combined | Devseccopsai | [Read More](https://medium.com/p/c1203e2449b2) |
+| Wed, 31 Dec 2025 12:02:24 GMT | The Invisible Costs of Our Digital Life | Angus Peterson | [Read More](https://medium.com/p/692915c71ab8) |
+| Wed, 31 Dec 2025 12:01:43 GMT | From Theory to Risk Thinking: My Second Step into Cybersecurity | Callum - Cyber Security Journey | [Read More](https://medium.com/p/d2c09af06011) |
+| Wed, 31 Dec 2025 11:46:23 GMT | Risk-Based Alerting (RBA) Matematiği | Furkan Ünlü | [Read More](https://medium.com/p/16ed21904f8b) |
+| Wed, 31 Dec 2025 11:40:06 GMT | Our Data Isn’t That Important” — Said Every Company Before a Breach | Digital Defense | [Read More](https://medium.com/p/8defc86130fc) |
 | Wed, 31 Dec 2025 11:33:42 GMT | BUILDING A CLOUD-BASED SOC WITH DETECTION, SOAR & ATTACK SIMULATION | Nikhil Pc | [Read More](https://medium.com/p/bbce8b137ae7) |
 | Wed, 31 Dec 2025 11:25:20 GMT | Ηλεκτρονικές Απάτες & Εορταστική Περίοδος: Οι 4 Κίνδυνοι και η Νομική Προστασία των Συναλλαγών. | Georgios Perrakis | [Read More](https://medium.com/p/ca9dcd043d6d) |
 | Wed, 31 Dec 2025 11:24:46 GMT | The New Year’s Resolutions Our Systems Never Keep | Abatis ABTU | [Read More](https://medium.com/p/dc85bb519516) |
@@ -102,14 +113,3 @@ Cybercrime is evolving… | Ankit rai | [Read More](https://medium.com/p/025ee1e
 | Wed, 31 Dec 2025 06:38:36 GMT | Jika TSMC Berinvestasi di Indonesia: Simbiosis Strategis dalam Ekosistem Bio-Semikonduktor… | Muhammad Farid Al Qadr | [Read More](https://medium.com/p/6c78f6471a04) |
 | Wed, 31 Dec 2025 06:26:09 GMT | Introducción a CrowdStrike CQL: tus primeras consultas en Advanced Event Search | Torres Hinojosa José Alfredo | [Read More](https://medium.com/p/424e1c7a81ad) |
 | Wed, 31 Dec 2025 06:22:08 GMT | What is a zero-day vulnerability, often seen in the news? | Niharika | [Read More](https://medium.com/p/fd9e5df92588) |
-| Wed, 31 Dec 2025 06:15:01 GMT | 7 New Year’s Resolutions For IT Leaders In 2026 | HostNOC | [Read More](https://medium.com/p/6a03318d93e1) |
-| Wed, 31 Dec 2025 06:09:57 GMT | Ensuring Compliance in ICT Projects: Adapting to Australia’s Regulatory Ecosystem | TechBlokes | [Read More](https://medium.com/p/c372c6ff7039) |
-| Wed, 31 Dec 2025 06:07:26 GMT | The Impact of Technology on Insurance Services | econcord | [Read More](https://medium.com/p/4a53dd5a216f) |
-| Wed, 31 Dec 2025 06:06:55 GMT | HIPAA Mobile QA Checklist: Your Testing Pipeline is a Compliance Risk | Om Narayan | [Read More](https://medium.com/p/5ae31ad4ea1e) |
-| Wed, 31 Dec 2025 06:04:31 GMT | AI-Powered Cybersecurity for IoT Devices: Your Secret Weapon Against Hackers | Ashok Verma | [Read More](https://medium.com/p/3b623c9dc546) |
-| Wed, 31 Dec 2025 06:02:25 GMT | Importance of Cyber Security Skills in IT Career Development | Jahanashabas | [Read More](https://medium.com/p/e0b5ff63d464) |
-| Wed, 31 Dec 2025 06:00:05 GMT | The Real Reason 4chan CAPTCHA Loops Aren’t Fixed by Changing IPs | Gabriele Wayner | [Read More](https://medium.com/p/898f16becaec) |
-| Wed, 31 Dec 2025 05:55:30 GMT | How Leading Companies Are Raising Cybersecurity Benchmarks | Kadhijahafiya | [Read More](https://medium.com/p/e6035bd2e823) |
-| Wed, 31 Dec 2025 05:54:50 GMT | Cyber Security Services Company: Protecting Businesses in a Digital-First World | Quickway Infosystems | [Read More](https://medium.com/p/9920d1a1505a) |
-| Wed, 31 Dec 2025 05:50:12 GMT | PumpkinGarden: A Multi-User Linux Lab Focused on Enumeration, Clue Chaining, and Privilege… | Vivektumma27 | [Read More](https://medium.com/p/d5a75b30ebae) |
-| Wed, 31 Dec 2025 05:41:18 GMT | Is Phishing still successful in 2025? | Nithin | [Read More](https://medium.com/p/9ef5a8347dda) |
