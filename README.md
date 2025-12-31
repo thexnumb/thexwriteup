@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 14:34:48 GMT | Proving Grounds DVR4 Walkthrough | Ryan Cham Rui Yang | [Read More](https://medium.com/p/39e2458ca79a) |
+| Wed, 31 Dec 2025 14:26:48 GMT | The SANS Vulnerability Management Maturity Model | Khalil Z. | [Read More](https://medium.com/p/da7d73df34cd) |
+| Wed, 31 Dec 2025 14:23:02 GMT | “Bug Bounty Bootcamp #8: Frontend vs. Backend — Mapping Where Vulnerabilities Live” | Aman Sharma | [Read More](https://medium.com/p/ff07e963b386) |
+| Wed, 31 Dec 2025 14:22:46 GMT | Eliza | Kluster66 | [Read More](https://medium.com/p/e54d9951ecb4) |
+| Wed, 31 Dec 2025 14:22:14 GMT | How to Securely Share .env Files Without Leaking API Keys | Madangopal | [Read More](https://medium.com/p/bb614f3a1f21) |
+| Wed, 31 Dec 2025 14:21:24 GMT | The Quantum cybersecurity Threat | Jan Skopal | [Read More](https://medium.com/p/8a9131d2e98d) |
 | Wed, 31 Dec 2025 14:20:25 GMT | My 2025 Pentesting Arsenal: Custom Tools & Scripts | Taulan Zauzanov | [Read More](https://medium.com/p/cf3904247f1f) |
+| Wed, 31 Dec 2025 14:12:53 GMT | Introduction to Wazuh: Part 3: Sysmon Optimization, Custom Wazuh Rules, and APT Simulation | Allen Ace | [Read More](https://medium.com/p/f2f106d922f0) |
+| Wed, 31 Dec 2025 14:10:14 GMT | Why Many Businesses Spend More on Cybersecurity but Still Feel Exposed | Cameron Nyack | [Read More](https://medium.com/p/9f90feb955db) |
 | Wed, 31 Dec 2025 14:04:40 GMT | ML Case Study: Abnormal Behavior Detection, Interpretation, and Documentation. | Kenechi Ojukwu | [Read More](https://medium.com/p/a1bb75635f23) |
 | Wed, 31 Dec 2025 14:02:41 GMT | n8n Security Vulnerability —  CVE-2025–68613 | Mr.Cool | [Read More](https://medium.com/p/8f1187f48fb7) |
 | Wed, 31 Dec 2025 14:02:27 GMT | The $18/Hour Hacker: How AI Redefined the Economics of Cyber Attack | MohamedAbdelmenem | [Read More](https://medium.com/p/55ee7a0bd0e3) |
@@ -105,11 +113,3 @@ Cybercrime is evolving… | Ankit rai | [Read More](https://medium.com/p/025ee1e
 | Wed, 31 Dec 2025 08:24:50 GMT | Role of Cyber Awareness in Preventing Digital Crimes | Tech Word | [Read More](https://medium.com/p/6e53f584cefc) |
 | Wed, 31 Dec 2025 08:08:21 GMT | TryHackMe Linux Fundamentals Part 2 | Ufuk Yaman | [Read More](https://medium.com/p/7ad621ff55b4) |
 | Wed, 31 Dec 2025 08:06:39 GMT | The Silent Data Leak That Could Bankrupt Your Startup | Raviteja Nekkalapu | [Read More](https://medium.com/p/04e75f14b2a2) |
-| Wed, 31 Dec 2025 08:02:27 GMT | [Part 20] Zero to Hero Recap: How to Start Your Career in AI Cybersecurity Today | Cyberkech | [Read More](https://medium.com/p/5930e15292b8) |
-| Wed, 31 Dec 2025 08:01:54 GMT | How to Automate Your Data Protection with Acronis Cloud Backup | HostDime India | [Read More](https://medium.com/p/66c7759b8650) |
-| Wed, 31 Dec 2025 07:58:51 GMT | Differential Privacy for Everyone: Prerequisite | Eagle_Eye | [Read More](https://medium.com/p/69fbb5a8037f) |
-| Wed, 31 Dec 2025 07:56:26 GMT | The Sleeping Giant That Woke the World: Deconstructing the Massive Yahoo! Breaches (2013–2016) | The Kernel Hub | [Read More](https://medium.com/p/244bd12eee0c) |
-| Wed, 31 Dec 2025 07:54:49 GMT | From “Nothing Interesting” to Critical Impact: The Power of Re-Reading Responses ⚠️ | Iski | [Read More](https://medium.com/p/94808bcbc26d) |
-| Wed, 31 Dec 2025 07:51:01 GMT | What Six Months of a Security Internship Changed About How I Think | Vidya Penumarthi | [Read More](https://medium.com/p/d80da9833da8) |
-| Wed, 31 Dec 2025 07:50:53 GMT | Top Cybersecurity Skills Companies Are Hiring For | Tech Word | [Read More](https://medium.com/p/dbc66d372c0b) |
-| Wed, 31 Dec 2025 07:47:42 GMT | Cyber Threats 2025 → Preparing Pakistan for 2026 - PCSDP Initiative | Pakistan Cyber Security & Digital Forensics | [Read More](https://medium.com/p/c0125bc32480) |
