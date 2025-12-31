@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 11:33:42 GMT | BUILDING A CLOUD-BASED SOC WITH DETECTION, SOAR & ATTACK SIMULATION | Nikhil Pc | [Read More](https://medium.com/p/bbce8b137ae7) |
+| Wed, 31 Dec 2025 11:25:20 GMT | Ηλεκτρονικές Απάτες & Εορταστική Περίοδος: Οι 4 Κίνδυνοι και η Νομική Προστασία των Συναλλαγών. | Georgios Perrakis | [Read More](https://medium.com/p/ca9dcd043d6d) |
+| Wed, 31 Dec 2025 11:24:46 GMT | The New Year’s Resolutions Our Systems Never Keep | Abatis ABTU | [Read More](https://medium.com/p/dc85bb519516) |
+| Wed, 31 Dec 2025 11:22:24 GMT | You Will Own Nothing — Including Your Conscience | Richard Ogundele | [Read More](https://medium.com/p/e7e5fac6b055) |
+| Wed, 31 Dec 2025 11:19:31 GMT | ️ FortiGate Lab Kurulumu: İlk Erişimde Bilinmesi Gereken Kritik Noktalar | Esra Tosun | [Read More](https://medium.com/p/52a4642d91ac) |
+| Wed, 31 Dec 2025 11:15:24 GMT | How IT Support Prevents Costly Downtime for Your Business in Riverside? | Managed IT Services | [Read More](https://medium.com/p/e508ba63b106) |
 | Wed, 31 Dec 2025 11:15:04 GMT | Securing Mississauga: Real Experiences From Professional Security Guards | Grdsnscrt | [Read More](https://medium.com/p/0052286089b4) |
 | Wed, 31 Dec 2025 11:10:02 GMT | AI in the Educating System | Aneesha Kakar | [Read More](https://medium.com/p/0de518c71eb9) |
 | Wed, 31 Dec 2025 11:04:38 GMT | Wi-Fi Hücumları və Kibertəhlükəsizlik: WPA, Evil Twin və MITM Riskləri | cybershieldy.com | [Read More](https://medium.com/p/0dbe00063980) |
@@ -107,9 +113,3 @@ Cybercrime is evolving… | Ankit rai | [Read More](https://medium.com/p/025ee1e
 | Wed, 31 Dec 2025 05:54:50 GMT | Cyber Security Services Company: Protecting Businesses in a Digital-First World | Quickway Infosystems | [Read More](https://medium.com/p/9920d1a1505a) |
 | Wed, 31 Dec 2025 05:50:12 GMT | PumpkinGarden: A Multi-User Linux Lab Focused on Enumeration, Clue Chaining, and Privilege… | Vivektumma27 | [Read More](https://medium.com/p/d5a75b30ebae) |
 | Wed, 31 Dec 2025 05:41:18 GMT | Is Phishing still successful in 2025? | Nithin | [Read More](https://medium.com/p/9ef5a8347dda) |
-| Wed, 31 Dec 2025 05:32:41 GMT | SEO Is Like a Layered Cake: Search, Answers, and Discovery All Baked Together | Pranali | [Read More](https://medium.com/p/4bf6bc01133f) |
-| Wed, 31 Dec 2025 05:28:21 GMT | The Predator Files: How Spyware Sanctions Removal Reveals the Complexities of Cybersecurity Policy | CCD-IS | [Read More](https://medium.com/p/90a879e27396) |
-| Wed, 31 Dec 2025 05:22:34 GMT | 8 Best Practices for Securing Your Business with Managed IT Services | Elevate | [Read More](https://medium.com/p/4c54d4fc7c91) |
-| Wed, 31 Dec 2025 05:07:46 GMT | TryHackMe: Anonymous Writeup | cbev | [Read More](https://medium.com/p/c09ea5d1d480) |
-| Wed, 31 Dec 2025 05:05:11 GMT | How I Configured a Certificate Authority (CA) Server on Windows Server 2022 in Hyper‑V | Ernest Marvin Franco | [Read More](https://medium.com/p/958bc7a8e8f0) |
-| Wed, 31 Dec 2025 04:59:15 GMT | The State of Identity (Part I) | Subrat Prasad | [Read More](https://medium.com/p/f7dcfb90a2c7) |
