@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 11:15:04 GMT | Securing Mississauga: Real Experiences From Professional Security Guards | Grdsnscrt | [Read More](https://medium.com/p/0052286089b4) |
+| Wed, 31 Dec 2025 11:10:02 GMT | AI in the Educating System | Aneesha Kakar | [Read More](https://medium.com/p/0de518c71eb9) |
+| Wed, 31 Dec 2025 11:04:38 GMT | Wi-Fi Hücumları və Kibertəhlükəsizlik: WPA, Evil Twin və MITM Riskləri | cybershieldy.com | [Read More](https://medium.com/p/0dbe00063980) |
+| Wed, 31 Dec 2025 10:57:20 GMT | Finished Tryhackme Advent Of Cyber 2025! | Kashyap Pandya | [Read More](https://medium.com/p/bf477ec226a3) |
+| Wed, 31 Dec 2025 10:51:51 GMT | Ethical Hacking Course In Trivandrum | Digitalshawarma | [Read More](https://medium.com/p/1872c73d6b4c) |
+| Wed, 31 Dec 2025 10:47:03 GMT | End-to-End OT Cybersecurity Services for Critical Operations | Arista Cyber | [Read More](https://medium.com/p/33cc4a5a3d89) |
+| Wed, 31 Dec 2025 10:44:29 GMT | OAuth 2.0 in Ruby on Rails: A Practical, Step-by-Step Guide | Ravi Prakash | [Read More](https://medium.com/p/e9b2425c1924) |
+| Wed, 31 Dec 2025 10:44:03 GMT | How to Harden Your Home Wi-Fi Network | Sam Writes Security | [Read More](https://medium.com/p/de49e0f0487a) |
 | Wed, 31 Dec 2025 10:43:43 GMT | Reality of Bug Bounty / Bug Hunting | harry ( aka @stackharry1 ) | [Read More](https://medium.com/p/b11afa350187) |
+| Wed, 31 Dec 2025 10:42:22 GMT | How I Passed the AZ-500 Exam : Practical Tips for Aspiring Azure Security Engineers | Florence Nwizugbe | [Read More](https://medium.com/p/071bb65a34f8) |
 | Wed, 31 Dec 2025 10:33:00 GMT | New Year, Same Breaches: Why January Is the Hottest and Most Boring Month in Cybersecurity | Martin Simonyan | [Read More](https://medium.com/p/d9f32cba2e76) |
+| Wed, 31 Dec 2025 10:32:52 GMT | Querying your cloudtrail logs | Bart Briek | [Read More](https://medium.com/p/13803c4fb299) |
 | Wed, 31 Dec 2025 10:26:41 GMT | Your Security Budget Only Covers One: Password Manager or MFA? | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/22e8d4ca59db) |
 | Wed, 31 Dec 2025 10:20:20 GMT | Telegram@ablertgonzalez Earn 2500 dollars daily via PayPal cashapp Bank TransfesCc cvv FULLZ dumps… | Gonz | [Read More](https://medium.com/p/94ccedc4af59) |
 | Wed, 31 Dec 2025 10:19:56 GMT | Sharepoint Backdoor To Doomsday | Decoded Intel | [Read More](https://medium.com/p/a3fd535070db) |
@@ -103,13 +113,3 @@ Cybercrime is evolving… | Ankit rai | [Read More](https://medium.com/p/025ee1e
 | Wed, 31 Dec 2025 05:07:46 GMT | TryHackMe: Anonymous Writeup | cbev | [Read More](https://medium.com/p/c09ea5d1d480) |
 | Wed, 31 Dec 2025 05:05:11 GMT | How I Configured a Certificate Authority (CA) Server on Windows Server 2022 in Hyper‑V | Ernest Marvin Franco | [Read More](https://medium.com/p/958bc7a8e8f0) |
 | Wed, 31 Dec 2025 04:59:15 GMT | The State of Identity (Part I) | Subrat Prasad | [Read More](https://medium.com/p/f7dcfb90a2c7) |
-| Wed, 31 Dec 2025 04:54:10 GMT | The $35 Billion Crime You’re Funding Without Knowing It | Heesham Naji | [Read More](https://medium.com/p/0aa6bcc50162) |
-| Wed, 31 Dec 2025 04:40:39 GMT | (SOC Analyst) Wireshark Display filters — Complete Cheat Sheet | Mr Horbio | [Read More](https://medium.com/p/adeff4e08f69) |
-| Wed, 31 Dec 2025 04:39:05 GMT | PoisonedCredentials Lab Writeup | Salmanul Faris | [Read More](https://medium.com/p/6a30142502de) |
-| Wed, 31 Dec 2025 04:32:32 GMT | Debloating Windows Safely: What I Automated, What I Didn’t, and Why | Shubh Gupta | [Read More](https://medium.com/p/9d515c5c7cd6) |
-| Wed, 31 Dec 2025 04:32:28 GMT | 7 Wallet Safety Upgrades Quietly Rolling Out in 2025 | Nexumo | [Read More](https://medium.com/p/5e38c50c31b3) |
-| Wed, 31 Dec 2025 04:32:28 GMT | 5 Program Upgrade Railways That Don’t Brick Mainnet | Hash Block | [Read More](https://medium.com/p/b1fffb7900af) |
-| Wed, 31 Dec 2025 04:32:28 GMT | Red Team trick: how attackers abuse NAT to vanish | Nithishkumar R | [Read More](https://medium.com/p/05ce492b5fac) |
-| Wed, 31 Dec 2025 04:27:43 GMT | Building My Penetration Testing Foundation: What Truly Helped Me in 2025 …. | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/d0b60514c309) |
-| Wed, 31 Dec 2025 04:18:39 GMT | Wires of Fear: When Electricity Met AI’s Shadow | Sidhant Shekhar | [Read More](https://medium.com/p/18626a1fddc7) |
-| Wed, 31 Dec 2025 04:16:37 GMT | Hands-On SQL Injection Using Burp Suite: A Beginner’s Walkthrough | CRAC Learning | [Read More](https://medium.com/p/c32e11b48ac3) |
