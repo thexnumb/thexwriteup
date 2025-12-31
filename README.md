@@ -12,9 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 16:24:34 GMT | Dialogic Trajectory Co-Regulation: Safety as the Quality of the Relationship Itself | QEE | [Read More](https://medium.com/p/47b5758f0997) |
+| Wed, 31 Dec 2025 16:13:06 GMT | US cybersecurity experts plead guilty to ransomware attacks | Defence Affairs & Analysis | [Read More](https://medium.com/p/7c591e9a943b) |
+| Wed, 31 Dec 2025 16:12:07 GMT | Federal Reserve’s 2025 Cybersecurity Report: Building Resilient Financial ERP Systems | Nely Munoz | [Read More](https://medium.com/p/78ddfa6c6609) |
+| Wed, 31 Dec 2025 16:10:52 GMT | MongoDB’s Silent Leak: A Story of Infrastructure Fragility | Yash | [Read More](https://medium.com/p/099c6a807d43) |
+| Wed, 31 Dec 2025 16:06:23 GMT | Office365 Impossible Travel Detection with Wazuh, Graylog, and a Custom Python API | SOCFortress | [Read More](https://medium.com/p/0a0a383d1603) |
+| Wed, 31 Dec 2025 16:05:47 GMT | Commitment Issues - picoCTF (General Skills) | xrabbit | [Read More](https://medium.com/p/8da579a57004) |
+| Wed, 31 Dec 2025 16:03:20 GMT | 2025’s Cyber Hall of Shame: 15 Epic Fails That Prove Hackers (and Victims) Can Be Hilariously Dumb | Kevin Kelly | [Read More](https://medium.com/p/d075e4bffe57) |
+| Wed, 31 Dec 2025 16:03:14 GMT | Memo to the Higher Ups in the Astral Realm | Jewel, the (secret) Psychic Witch | [Read More](https://medium.com/p/2892e7af944d) |
+| Wed, 31 Dec 2025 16:02:48 GMT | 12–31–2025–2025 What We Learned and What’s Next | The Enterprise Sponge | [Read More](https://medium.com/p/668e5fa97f64) |
+| Wed, 31 Dec 2025 15:59:58 GMT | When Security Decisions Ignore UX, Products Break Quietly | Kalyan Tamarapalli | [Read More](https://medium.com/p/4c02e3824ac8) |
+| Wed, 31 Dec 2025 15:49:07 GMT | My First Real Step into SOC: Understanding How Blue Teams Actually Defend Organizations | Harvinder Singh | [Read More](https://medium.com/p/42c2ea2af2dc) |
+| Wed, 31 Dec 2025 15:40:28 GMT | A Complete Guide to Building a Modern Security Strategy for 2026 | Sharp Guard Group | [Read More](https://medium.com/p/03f976aaba77) |
+| Wed, 31 Dec 2025 15:38:01 GMT | 2026 Security Strategy Predictions: How the Industry Will Change This Year | West Coast Guard | [Read More](https://medium.com/p/3f3d34611e50) |
 | Wed, 31 Dec 2025 15:32:25 GMT | QuantumProxies: High-Performance Proxy Solutions for Secure Web Scraping, SEO, and Data… | Di1 13 (pirotecnico2001) | [Read More](https://medium.com/p/bd7f108c04be) |
 | Wed, 31 Dec 2025 15:32:13 GMT | Troubleshooting ALFA AWUS036ACH on Kali Linux 2025 (ARM64) | Morgan Hung | [Read More](https://medium.com/p/25de84344898) |
 | Wed, 31 Dec 2025 15:30:27 GMT | Why Businesses Need a New Security Strategy in 2026 to Stay Protected | Eagleeyepro | [Read More](https://medium.com/p/009d081a16a3) |
+| Wed, 31 Dec 2025 15:29:56 GMT | Top Tools Every Ethical Hacker Must Master in 2026 | Zunair Usmani | [Read More](https://medium.com/p/482b72489e54) |
 | Wed, 31 Dec 2025 15:26:03 GMT | The Vulnerability I Missed That Taught Me Humility | Mubashir | [Read More](https://medium.com/p/1168ce766c5c) |
 | Wed, 31 Dec 2025 15:12:24 GMT | SentryPC vs. The Competition: The Ultimate Showdown for Monitoring Software in 2026 | Paul Meyer | [Read More](https://medium.com/p/b1478ec5d615) |
 | Wed, 31 Dec 2025 15:02:33 GMT | Cyber Briefing: 2025.12.31 | CyberMaterial | [Read More](https://medium.com/p/c1e4b3e276b3) |
@@ -99,17 +113,3 @@ Cybercrime is evolving… | Ankit rai | [Read More](https://medium.com/p/025ee1e
 | Wed, 31 Dec 2025 09:53:33 GMT | Top CCTV Monitoring Services in Dubai for Unmatched Security Solutions | Delight international Security Services | [Read More](https://medium.com/p/a32df0337381) |
 | Wed, 31 Dec 2025 09:53:13 GMT | 6 Years of ICS Arabia — A Milestone Report | Sulaiman Alhasawi | [Read More](https://medium.com/p/bed4af9a222d) |
 | Wed, 31 Dec 2025 09:52:35 GMT | ️ I Thought XSS Was Just alert(1) — Until These Two Labs Changed My Mind(Portswigger) | Sanjivani Dobhal | [Read More](https://medium.com/p/eb2ba7986173) |
-| Wed, 31 Dec 2025 09:35:54 GMT | 5 Security Mistakes That Will Break Your AI App (And How to Fix Them) | Nayeem Islam | [Read More](https://medium.com/p/75436fd48928) |
-| Wed, 31 Dec 2025 09:31:31 GMT | Exploiting EternalBlue (MS17–010): A Step-by-Step Penetration Testing Report | Amalazeesa | [Read More](https://medium.com/p/fd9bdd503ae3) |
-| Wed, 31 Dec 2025 09:28:44 GMT | Founder XSS: When You Polish the Surface While the Core Burns | Jayal Yadav | [Read More](https://medium.com/p/69ba8fee1409) |
-| Wed, 31 Dec 2025 09:26:44 GMT | The Evolution of Video Recording Devices in Modern Surveillance Systems | Tavan CCTV | [Read More](https://medium.com/p/03c3e266e9e3) |
-| Wed, 31 Dec 2025 09:26:21 GMT | Securing Login Portals with AWS Application Load Balancer Authentication | Vinothkumar Elumalai | [Read More](https://medium.com/p/d9dcb5264de2) |
-| Wed, 31 Dec 2025 09:25:40 GMT | Guardians Of The Grid: AI Vs Hackers | Redfox Security | [Read More](https://medium.com/p/526be5d9ed22) |
-| Wed, 31 Dec 2025 09:20:38 GMT | Total Security Solutions: How Electronic Security Solutions Are Redefining Safety and Protection | Ciss India | [Read More](https://medium.com/p/59a4664cf413) |
-| Wed, 31 Dec 2025 09:17:36 GMT | Comprehensive Static and Dynamic Analysis of an Incransom Ransomware Sample: Behavior, Persistence… | Aisha B. B | [Read More](https://medium.com/p/b1739ac6560f) |
-| Wed, 31 Dec 2025 09:15:54 GMT | ️Why Microsoft Edge Fights Like a Soldier While Other Browsers Wear Privacy Pajamas ‍ | Pramodh Casanova | [Read More](https://medium.com/p/e1885e4e4951) |
-| Wed, 31 Dec 2025 09:12:14 GMT | Reverse Shell Exploitation: A Home Lab | Jude Anewuoh | [Read More](https://medium.com/p/ec819ba6ea60) |
-| Wed, 31 Dec 2025 09:12:05 GMT | GhostPairing WhatsApp Scam | Gyaando.com | [Read More](https://medium.com/p/58fb4b0db6f8) |
-| Wed, 31 Dec 2025 09:08:00 GMT | How to do Pivoting and Tunneling | Zoroya | [Read More](https://medium.com/p/09111b2fac2c) |
-| Wed, 31 Dec 2025 09:06:03 GMT | Cybersecurity in 2025? | Hemantverma | [Read More](https://medium.com/p/16641e3a42fc) |
-| Wed, 31 Dec 2025 09:05:34 GMT | Advent of Cyber 2025: A Hands-On Cybersecurity Event Overview | hexidecimal | [Read More](https://medium.com/p/1809f912f4c1) |
