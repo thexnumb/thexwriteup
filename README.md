@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 10:19:56 GMT | Sharepoint Backdoor To Doomsday | Decoded Intel | [Read More](https://medium.com/p/a3fd535070db) |
+| Wed, 31 Dec 2025 10:19:08 GMT | Why Most Cyber Attacks in 2026 Will Succeed — Even in “Secure” Organizations
+Cybercrime is evolving… | Ankit rai | [Read More](https://medium.com/p/025ee1ec8940) |
+| Wed, 31 Dec 2025 10:15:52 GMT | Race Condition in Team Creation Endpoint Allows Bypass of Daily Team Creation Limit | geme000 | [Read More](https://medium.com/p/b2224931ec07) |
+| Wed, 31 Dec 2025 10:03:17 GMT | Unleashing DIG in Recon: Advanced DNS Enumeration for Professional Pentesters | Cybeague Technologies | [Read More](https://medium.com/p/746c9d829d41) |
+| Wed, 31 Dec 2025 10:01:52 GMT | Getting Started with DIG: Your First Step into DNS Reconnaissance | Cybeague Technologies | [Read More](https://medium.com/p/faae0e5f840a) |
+| Wed, 31 Dec 2025 10:00:22 GMT | The Unpatchable Flaw: A Deep Dive into Apple’s DFU Mode and the Checkm8 Exploit | Saadan ashraf | [Read More](https://medium.com/p/0d3dae2a2075) |
+| Wed, 31 Dec 2025 09:55:28 GMT | ASP.NET Middleware Out of Order: Insecure Transport — SSC Fortify Security Findings Analysis —… | Okan Yurt | [Read More](https://medium.com/p/f575f251be84) |
+| Wed, 31 Dec 2025 09:53:33 GMT | Top CCTV Monitoring Services in Dubai for Unmatched Security Solutions | Delight international Security Services | [Read More](https://medium.com/p/a32df0337381) |
+| Wed, 31 Dec 2025 09:53:13 GMT | 6 Years of ICS Arabia — A Milestone Report | Sulaiman Alhasawi | [Read More](https://medium.com/p/bed4af9a222d) |
+| Wed, 31 Dec 2025 09:52:35 GMT | ️ I Thought XSS Was Just alert(1) — Until These Two Labs Changed My Mind(Portswigger) | Sanjivani Dobhal | [Read More](https://medium.com/p/eb2ba7986173) |
 | Wed, 31 Dec 2025 09:35:54 GMT | 5 Security Mistakes That Will Break Your AI App (And How to Fix Them) | Nayeem Islam | [Read More](https://medium.com/p/75436fd48928) |
 | Wed, 31 Dec 2025 09:31:31 GMT | Exploiting EternalBlue (MS17–010): A Step-by-Step Penetration Testing Report | Amalazeesa | [Read More](https://medium.com/p/fd9bdd503ae3) |
 | Wed, 31 Dec 2025 09:28:44 GMT | Founder XSS: When You Polish the Surface While the Core Burns | Jayal Yadav | [Read More](https://medium.com/p/69ba8fee1409) |
@@ -102,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 31 Dec 2025 04:02:23 GMT | The $250K Developer Stack Nobody Saw Coming | The Shipping Engineer | [Read More](https://medium.com/p/d9997a00aa14) |
 | Wed, 31 Dec 2025 04:01:58 GMT | 50M$+ Bug Class: A Practical Guide to Solana Account Confusion | Turk | [Read More](https://medium.com/p/afb01224d955) |
 | Wed, 31 Dec 2025 03:59:18 GMT | JWT & Token-Based Authentication —  From Login to Token Expiry | Stoic Engineer | [Read More](https://medium.com/p/3668f0de82b3) |
-| Wed, 31 Dec 2025 03:46:20 GMT | The Red Teamer’s Toolkit: 15 Prompts to Break Your AI Agent (Before Users Do) | Raghunandan Gupta | [Read More](https://medium.com/p/9ce0869ab4d5) |
-| Wed, 31 Dec 2025 03:32:25 GMT | When Streaming Becomes an Archive: Inside the Spotify Scraping Incident | Deven Chhajed | [Read More](https://medium.com/p/342f7bd2d852) |
-| Wed, 31 Dec 2025 03:26:59 GMT | Cybersecurity: Your Digital Shield in a Connected World | cyber Explain | [Read More](https://medium.com/p/e8ebfb5f23cb) |
-| Wed, 31 Dec 2025 03:20:41 GMT | A Raspberry Pi, Specifically | Brian Tristam Williams | [Read More](https://medium.com/p/a2cc97b55bda) |
-| Wed, 31 Dec 2025 03:17:32 GMT | The Digital Minefield: How Attacks Happen in the Online World | Sarah K Chukwukadibia | [Read More](https://medium.com/p/d7c4fc3f5abc) |
-| Wed, 31 Dec 2025 02:39:15 GMT | WiFi Hacking Isn’t About Stealing Internet. It’s About Understanding Power. | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/efca3df53516) |
-| Wed, 31 Dec 2025 02:36:49 GMT | The Hidden Cost of Manual Employee Offboarding (And How I Automated It Away) | Jose Ernest | [Read More](https://medium.com/p/c449f51662cf) |
-| Wed, 31 Dec 2025 02:33:56 GMT | From “Config Fatigue” to Secure-by-Default: Introducing the GCP Hardening Toolkit | Lucas Nogueira | [Read More](https://medium.com/p/456aae25ff72) |
-| Wed, 31 Dec 2025 02:30:34 GMT | Harvest Now, Decrypt Later: The Silent Threat to Internet Security | X-3306 | [Read More](https://medium.com/p/e05da9e1feab) |
-| Wed, 31 Dec 2025 02:17:55 GMT | WHAT THE HELL AM I DOING WITH CYBERSECURITY AS A PHYSIOLOGY GRADUATE?? | Semande Whenu | [Read More](https://medium.com/p/094702683486) |
