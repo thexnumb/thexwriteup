@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 15:32:25 GMT | QuantumProxies: High-Performance Proxy Solutions for Secure Web Scraping, SEO, and Data… | Di1 13 (pirotecnico2001) | [Read More](https://medium.com/p/bd7f108c04be) |
+| Wed, 31 Dec 2025 15:32:13 GMT | Troubleshooting ALFA AWUS036ACH on Kali Linux 2025 (ARM64) | Morgan Hung | [Read More](https://medium.com/p/25de84344898) |
+| Wed, 31 Dec 2025 15:30:27 GMT | Why Businesses Need a New Security Strategy in 2026 to Stay Protected | Eagleeyepro | [Read More](https://medium.com/p/009d081a16a3) |
+| Wed, 31 Dec 2025 15:26:03 GMT | The Vulnerability I Missed That Taught Me Humility | Mubashir | [Read More](https://medium.com/p/1168ce766c5c) |
+| Wed, 31 Dec 2025 15:12:24 GMT | SentryPC vs. The Competition: The Ultimate Showdown for Monitoring Software in 2026 | Paul Meyer | [Read More](https://medium.com/p/b1478ec5d615) |
 | Wed, 31 Dec 2025 15:02:33 GMT | Cyber Briefing: 2025.12.31 | CyberMaterial | [Read More](https://medium.com/p/c1e4b3e276b3) |
 | Wed, 31 Dec 2025 15:02:03 GMT | 2025: My Year of Clarity, Courage, and Quiet Wins | Rebecca Ihenyen | [Read More](https://medium.com/p/d01dc68859a7) |
 | Wed, 31 Dec 2025 14:59:17 GMT | The Cybersecurity Reality of 2026: AI, Deepfakes, and Autonomous Attacks Autonomous Defense | Muhammad Afzal | [Read More](https://medium.com/p/52a39815c75d) |
@@ -108,8 +113,3 @@ Cybercrime is evolving… | Ankit rai | [Read More](https://medium.com/p/025ee1e
 | Wed, 31 Dec 2025 09:08:00 GMT | How to do Pivoting and Tunneling | Zoroya | [Read More](https://medium.com/p/09111b2fac2c) |
 | Wed, 31 Dec 2025 09:06:03 GMT | Cybersecurity in 2025? | Hemantverma | [Read More](https://medium.com/p/16641e3a42fc) |
 | Wed, 31 Dec 2025 09:05:34 GMT | Advent of Cyber 2025: A Hands-On Cybersecurity Event Overview | hexidecimal | [Read More](https://medium.com/p/1809f912f4c1) |
-| Wed, 31 Dec 2025 09:04:28 GMT | How to Break Into Cybersecurity in 2026 (A Realistic Roadmap — Part 1) | Hossein Zarei | [Read More](https://medium.com/p/c926910b2af4) |
-| Wed, 31 Dec 2025 09:03:44 GMT | Prototype Pollution → Template Injection → RCE The Vulnerable Node Lab That Finally Made It Click | ParadoxYab | [Read More](https://medium.com/p/ce4493bf3639) |
-| Wed, 31 Dec 2025 09:02:33 GMT | The Hidden Leak Source Most Companies Miss: Employee Personal Devices and Saved Logins | Alexandre Vandamme | [Read More](https://medium.com/p/b3a63de45da0) |
-| Wed, 31 Dec 2025 09:01:04 GMT | How to Develop a Cybersecurity Roadmap for Long-Term Resilience | Rahman Iqbal | [Read More](https://medium.com/p/d253230ea7b2) |
-| Wed, 31 Dec 2025 09:00:40 GMT | Reasons Your API Returns 403 With a Valid Token — and How to Fix Missing Role Mapping | Anh Trần Tuấn | [Read More](https://medium.com/p/46b0a139b512) |
