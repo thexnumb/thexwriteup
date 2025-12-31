@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 16:36:41 GMT | Why Being “Invisible” Online Is More Powerful Than Being Secure | Ali Hamza | [Read More](https://medium.com/p/dd68d61a3451) |
+| Wed, 31 Dec 2025 16:32:28 GMT | The Autonomy Paradox: Why We Must Automate Critical Infrastructure Security (And Why It Might Kill… | Jay Nichols | [Read More](https://medium.com/p/9331664fdb2d) |
+| Wed, 31 Dec 2025 16:29:39 GMT | The 2026 Tech Readiness Checklist: 10 Must-Dos Before Your Business Goes Live | Paradise technologies Inc | [Read More](https://medium.com/p/d372af3705fa) |
 | Wed, 31 Dec 2025 16:24:34 GMT | Dialogic Trajectory Co-Regulation: Safety as the Quality of the Relationship Itself | QEE | [Read More](https://medium.com/p/47b5758f0997) |
 | Wed, 31 Dec 2025 16:13:06 GMT | US cybersecurity experts plead guilty to ransomware attacks | Defence Affairs & Analysis | [Read More](https://medium.com/p/7c591e9a943b) |
 | Wed, 31 Dec 2025 16:12:07 GMT | Federal Reserve’s 2025 Cybersecurity Report: Building Resilient Financial ERP Systems | Nely Munoz | [Read More](https://medium.com/p/78ddfa6c6609) |
@@ -110,6 +113,3 @@ Cybercrime is evolving… | Ankit rai | [Read More](https://medium.com/p/025ee1e
 | Wed, 31 Dec 2025 10:01:52 GMT | Getting Started with DIG: Your First Step into DNS Reconnaissance | Cybeague Technologies | [Read More](https://medium.com/p/faae0e5f840a) |
 | Wed, 31 Dec 2025 10:00:22 GMT | The Unpatchable Flaw: A Deep Dive into Apple’s DFU Mode and the Checkm8 Exploit | Saadan ashraf | [Read More](https://medium.com/p/0d3dae2a2075) |
 | Wed, 31 Dec 2025 09:55:28 GMT | ASP.NET Middleware Out of Order: Insecure Transport — SSC Fortify Security Findings Analysis —… | Okan Yurt | [Read More](https://medium.com/p/f575f251be84) |
-| Wed, 31 Dec 2025 09:53:33 GMT | Top CCTV Monitoring Services in Dubai for Unmatched Security Solutions | Delight international Security Services | [Read More](https://medium.com/p/a32df0337381) |
-| Wed, 31 Dec 2025 09:53:13 GMT | 6 Years of ICS Arabia — A Milestone Report | Sulaiman Alhasawi | [Read More](https://medium.com/p/bed4af9a222d) |
-| Wed, 31 Dec 2025 09:52:35 GMT | ️ I Thought XSS Was Just alert(1) — Until These Two Labs Changed My Mind(Portswigger) | Sanjivani Dobhal | [Read More](https://medium.com/p/eb2ba7986173) |
