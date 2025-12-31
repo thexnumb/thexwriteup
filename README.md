@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 09:35:54 GMT | 5 Security Mistakes That Will Break Your AI App (And How to Fix Them) | Nayeem Islam | [Read More](https://medium.com/p/75436fd48928) |
+| Wed, 31 Dec 2025 09:31:31 GMT | Exploiting EternalBlue (MS17–010): A Step-by-Step Penetration Testing Report | Amalazeesa | [Read More](https://medium.com/p/fd9bdd503ae3) |
+| Wed, 31 Dec 2025 09:28:44 GMT | Founder XSS: When You Polish the Surface While the Core Burns | Jayal Yadav | [Read More](https://medium.com/p/69ba8fee1409) |
+| Wed, 31 Dec 2025 09:26:44 GMT | The Evolution of Video Recording Devices in Modern Surveillance Systems | Tavan CCTV | [Read More](https://medium.com/p/03c3e266e9e3) |
+| Wed, 31 Dec 2025 09:26:21 GMT | Securing Login Portals with AWS Application Load Balancer Authentication | Vinothkumar Elumalai | [Read More](https://medium.com/p/d9dcb5264de2) |
+| Wed, 31 Dec 2025 09:25:40 GMT | Guardians Of The Grid: AI Vs Hackers | Redfox Security | [Read More](https://medium.com/p/526be5d9ed22) |
+| Wed, 31 Dec 2025 09:20:38 GMT | Total Security Solutions: How Electronic Security Solutions Are Redefining Safety and Protection | Ciss India | [Read More](https://medium.com/p/59a4664cf413) |
 | Wed, 31 Dec 2025 09:17:36 GMT | Comprehensive Static and Dynamic Analysis of an Incransom Ransomware Sample: Behavior, Persistence… | Aisha B. B | [Read More](https://medium.com/p/b1739ac6560f) |
+| Wed, 31 Dec 2025 09:15:54 GMT | ️Why Microsoft Edge Fights Like a Soldier While Other Browsers Wear Privacy Pajamas ‍ | Pramodh Casanova | [Read More](https://medium.com/p/e1885e4e4951) |
 | Wed, 31 Dec 2025 09:12:14 GMT | Reverse Shell Exploitation: A Home Lab | Jude Anewuoh | [Read More](https://medium.com/p/ec819ba6ea60) |
 | Wed, 31 Dec 2025 09:12:05 GMT | GhostPairing WhatsApp Scam | Gyaando.com | [Read More](https://medium.com/p/58fb4b0db6f8) |
 | Wed, 31 Dec 2025 09:08:00 GMT | How to do Pivoting and Tunneling | Zoroya | [Read More](https://medium.com/p/09111b2fac2c) |
@@ -27,6 +35,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 31 Dec 2025 08:59:25 GMT | Siber Güvenliğe İlk Adım —  Penetrasyon Testi Nedir ve Neden Önemlidir? | Gülbahar Dirik | [Read More](https://medium.com/p/029e23c8e5fb) |
 | Wed, 31 Dec 2025 08:56:43 GMT | 2025: What This Year Taught Me — And What I am Building in 2026 | Sandeep Kasturi | [Read More](https://medium.com/p/1e7a679a5f56) |
 | Wed, 31 Dec 2025 08:56:03 GMT | JWT Authentication Bypass | d7meealz | [Read More](https://medium.com/p/eebed5346079) |
+| Wed, 31 Dec 2025 08:50:42 GMT | How Hackers will use AI to scam you in 2026 | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/51d625e911f7) |
 | Wed, 31 Dec 2025 08:32:42 GMT | How to Check for Vulnerabilities in Your Docker Images using Trivy | Win Jinkawin | [Read More](https://medium.com/p/841a2d885769) |
 | Wed, 31 Dec 2025 08:27:23 GMT | Year in Rewind: 2025 at QSS | QSS smart it | [Read More](https://medium.com/p/bc9a6b4230f5) |
 | Wed, 31 Dec 2025 08:26:20 GMT | Source Code Under Attack? How to Secure Your Application Supply Chain Before It’s Too Late | Sabbir Hossain | [Read More](https://medium.com/p/77093f131e3d) |
@@ -50,6 +59,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 31 Dec 2025 07:18:56 GMT | Best Staffing Services Company for On-Site and Remote Jobs: A Practical Guide | CyberAube Technologies | [Read More](https://medium.com/p/298247499768) |
 | Wed, 31 Dec 2025 07:14:46 GMT | Navigating Agentic AI: Key Challenges and Design Strategies for Production Systems | Raghunandan Gupta | [Read More](https://medium.com/p/ba1b7c367159) |
 | Wed, 31 Dec 2025 07:06:10 GMT | IRS Phone Number to Speak to a Live Person — Full 2026 Helpline Guide | Motherlandlove | [Read More](https://medium.com/p/74a390f5f312) |
+| Wed, 31 Dec 2025 07:04:49 GMT | Residential Security Service Enhances High-Profile Safety | Reliable Security Staffing | [Read More](https://medium.com/p/e6662cfdc91d) |
 | Wed, 31 Dec 2025 07:04:21 GMT | Federated Learning 101: How Models Learn Without Sharing Data | Hemanth Sanisetty | [Read More](https://medium.com/p/b8c94d80d176) |
 | Wed, 31 Dec 2025 07:02:51 GMT | Understanding Kubernetes: Uses, Examples, and Real-World Applications | Dennis Duke | [Read More](https://medium.com/p/03bc8dbd2d93) |
 | Wed, 31 Dec 2025 07:01:09 GMT | Privacy-by-Design in Cross-Platform Mobile Apps (Flutter & React Native) | gadagool krishna | [Read More](https://medium.com/p/78ad6bb6df24) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 31 Dec 2025 02:33:56 GMT | From “Config Fatigue” to Secure-by-Default: Introducing the GCP Hardening Toolkit | Lucas Nogueira | [Read More](https://medium.com/p/456aae25ff72) |
 | Wed, 31 Dec 2025 02:30:34 GMT | Harvest Now, Decrypt Later: The Silent Threat to Internet Security | X-3306 | [Read More](https://medium.com/p/e05da9e1feab) |
 | Wed, 31 Dec 2025 02:17:55 GMT | WHAT THE HELL AM I DOING WITH CYBERSECURITY AS A PHYSIOLOGY GRADUATE?? | Semande Whenu | [Read More](https://medium.com/p/094702683486) |
-| Wed, 31 Dec 2025 02:10:43 GMT | Before Cybersecurity, I Learned Networking — And That Changed Everything | Gajanan Tayde | [Read More](https://medium.com/p/cd85e7bd7f4b) |
-| Wed, 31 Dec 2025 02:05:18 GMT | Bypassing a Monthly Secure Message Limit Using a Race Condition | Bavly Zaher | [Read More](https://medium.com/p/ecd700714720) |
-| Wed, 31 Dec 2025 01:48:54 GMT | Top Bug Bounty Platforms | Shahzaib | [Read More](https://medium.com/p/b2c2dd135277) |
-| Wed, 31 Dec 2025 01:45:53 GMT | FortiCloud SSO Authentication Bypass Exposes the Urgency of Attack Surface–Focused Defense | Criminal IP | [Read More](https://medium.com/p/ae7500a7a6e1) |
-| Wed, 31 Dec 2025 01:38:26 GMT | The Dedicated Server Security Best Practices | Chiro Adsmedia | [Read More](https://medium.com/p/b50ad308c99e) |
-| Wed, 31 Dec 2025 01:36:55 GMT | $500 Bounty: How a Magic Login Link Led to Full Account Takeover | Monika sharma | [Read More](https://medium.com/p/f726be2ee5b7) |
-| Wed, 31 Dec 2025 01:35:53 GMT | Steganography Explained: How I Found a Hidden Message Inside this Image | Raymond Ebonine | [Read More](https://medium.com/p/7b9aa60e2fc5) |
-| Wed, 31 Dec 2025 01:32:58 GMT | Poem Of the Week by Ethan Bell | Ethan Bell | [Read More](https://medium.com/p/85c78222cccd) |
-| Wed, 31 Dec 2025 01:26:25 GMT | An OSINT Manifesto for the New Year: Less Noise, More Signal | Sam Galope | [Read More](https://medium.com/p/144d4a5e0105) |
-| Wed, 31 Dec 2025 01:09:57 GMT | picoCTF#1: Cookie Monster Secret Recipe (Easy) | whiteButterfly | [Read More](https://medium.com/p/38443d2f21b5) |
