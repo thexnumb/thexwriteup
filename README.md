@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 23:14:43 GMT | THE FUTURE OF OSINT: 5 Predictions for 2026 and Beyond | Azutech | [Read More](https://medium.com/p/3368f2340fff) |
 | Wed, 31 Dec 2025 23:02:03 GMT | Web-RTA Review: Is a $9 Cybersecurity Certification Worth It? | B13ss3d | [Read More](https://medium.com/p/80d9169cf96b) |
 | Wed, 31 Dec 2025 22:57:23 GMT | Review Web-RTA: ¿Vale la pena una certificación de ciberseguridad de $9 USD? | B13ss3d | [Read More](https://medium.com/p/c5d4e4f2887a) |
 | Wed, 31 Dec 2025 22:51:46 GMT | TryHackMe: Stolen Mount | Cyberpatriot | [Read More](https://medium.com/p/234c77191f96) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 31 Dec 2025 15:02:33 GMT | Cyber Briefing: 2025.12.31 | CyberMaterial | [Read More](https://medium.com/p/c1e4b3e276b3) |
 | Wed, 31 Dec 2025 15:02:03 GMT | 2025: My Year of Clarity, Courage, and Quiet Wins | Rebecca Ihenyen | [Read More](https://medium.com/p/d01dc68859a7) |
 | Wed, 31 Dec 2025 14:59:17 GMT | The Cybersecurity Reality of 2026: AI, Deepfakes, and Autonomous Attacks Autonomous Defense | Muhammad Afzal | [Read More](https://medium.com/p/52a39815c75d) |
-| Wed, 31 Dec 2025 14:54:00 GMT | Spotify’s Great Music Heist | O. J. Okpabi | [Read More](https://medium.com/p/7c2d009e0bf1) |
