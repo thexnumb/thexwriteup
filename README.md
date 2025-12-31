@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 13:21:27 GMT | The Marketplace — Write-Up | ManuM0re | [Read More](https://medium.com/p/b7be1ac968f9) |
+| Wed, 31 Dec 2025 13:21:24 GMT | Chapter 2: The AD Attack Surface | Aang | [Read More](https://medium.com/p/5ba8a56da958) |
+| Wed, 31 Dec 2025 13:18:45 GMT | Chapter 1— Introduction to Active Directory | Aang | [Read More](https://medium.com/p/34df1bbaf117) |
+| Wed, 31 Dec 2025 13:18:15 GMT | API Security Testing Methods and Tools to Use | james miller | [Read More](https://medium.com/p/b2b62dc7e1a5) |
+| Wed, 31 Dec 2025 13:16:09 GMT | Why Shorter SSL Lifetimes Aren’t the Safety Net They Seem | Dinu Gitlan | [Read More](https://medium.com/p/6b5b572b46a7) |
+| Wed, 31 Dec 2025 13:08:36 GMT | I’m Starting My SOC Journey | Drishti Pandey | [Read More](https://medium.com/p/6e45b1c6dbde) |
+| Wed, 31 Dec 2025 13:02:29 GMT | Security Architectures for Industrial Facilities | Maxi | [Read More](https://medium.com/p/8e7d142d0d8e) |
+| Wed, 31 Dec 2025 12:57:02 GMT | Healing After Betrayal. | WordsbyBano | [Read More](https://medium.com/p/777489bd24f8) |
+| Wed, 31 Dec 2025 12:55:32 GMT | Guardrails Over Gates: A Smarter Way to Enable Security Without Slowing DevOps | Ravi Rajput | [Read More](https://medium.com/p/60b96603ce10) |
+| Wed, 31 Dec 2025 12:44:24 GMT | React2Shell: How One Flaw Unleashed a Global Storm of Spies, Miners, and Malware | Tech Security | [Read More](https://medium.com/p/2c21f8a57569) |
+| Wed, 31 Dec 2025 12:41:31 GMT | The Art of Invisibility: A Deep Dive into Modern EDR Evasion Techniques | Santhosh Adiga U | [Read More](https://medium.com/p/edead8eca55c) |
 | Wed, 31 Dec 2025 12:37:23 GMT | The Power of 2FA & MFA | AZUBUIKE NWENEWO | [Read More](https://medium.com/p/2d1b1c333150) |
 | Wed, 31 Dec 2025 12:21:23 GMT | Understanding Advanced SSRF Attacks and Their Escalation | Afi0pchik | [Read More](https://medium.com/p/59c4d24a811a) |
 | Wed, 31 Dec 2025 12:13:35 GMT | Dev Retro 2025: Journey in review | Dhanush N | [Read More](https://medium.com/p/d8a90f52e008) |
@@ -102,14 +113,3 @@ Cybercrime is evolving… | Ankit rai | [Read More](https://medium.com/p/025ee1e
 | Wed, 31 Dec 2025 07:14:46 GMT | Navigating Agentic AI: Key Challenges and Design Strategies for Production Systems | Raghunandan Gupta | [Read More](https://medium.com/p/ba1b7c367159) |
 | Wed, 31 Dec 2025 07:06:10 GMT | IRS Phone Number to Speak to a Live Person — Full 2026 Helpline Guide | Motherlandlove | [Read More](https://medium.com/p/74a390f5f312) |
 | Wed, 31 Dec 2025 07:04:49 GMT | Residential Security Service Enhances High-Profile Safety | Reliable Security Staffing | [Read More](https://medium.com/p/e6662cfdc91d) |
-| Wed, 31 Dec 2025 07:04:21 GMT | Federated Learning 101: How Models Learn Without Sharing Data | Hemanth Sanisetty | [Read More](https://medium.com/p/b8c94d80d176) |
-| Wed, 31 Dec 2025 07:02:51 GMT | Understanding Kubernetes: Uses, Examples, and Real-World Applications | Dennis Duke | [Read More](https://medium.com/p/03bc8dbd2d93) |
-| Wed, 31 Dec 2025 07:01:09 GMT | Privacy-by-Design in Cross-Platform Mobile Apps (Flutter & React Native) | gadagool krishna | [Read More](https://medium.com/p/78ad6bb6df24) |
-| Wed, 31 Dec 2025 07:00:46 GMT | Top 20 Shadow IT Discovery Tools for Attack Surface Mapping: Learn How Pros Uncover Hidden Risks | Very Lazy Tech | [Read More](https://medium.com/p/32176e1e59b1) |
-| Wed, 31 Dec 2025 06:54:32 GMT | How to Choose the Best Cybersecurity Firm in Bangalore for Your Business | Cyberlancer | [Read More](https://medium.com/p/b7eb84f59aca) |
-| Wed, 31 Dec 2025 06:54:16 GMT | How I Discovered an SSRF Vulnerability in Ferrari’s System — and Earned a Place in Their Hall of… | Ninadgowda | [Read More](https://medium.com/p/3dca8f9f52db) |
-| Wed, 31 Dec 2025 06:49:30 GMT | Top 10 Cybersecurity Tools | cyber security Updates | [Read More](https://medium.com/p/c29ec83bce57) |
-| Wed, 31 Dec 2025 06:47:31 GMT | MOST COMMON TYPES OF MALWARE YOU SHOULD KNOWN | Vishalraj | [Read More](https://medium.com/p/00e5d34966dd) |
-| Wed, 31 Dec 2025 06:38:36 GMT | Jika TSMC Berinvestasi di Indonesia: Simbiosis Strategis dalam Ekosistem Bio-Semikonduktor… | Muhammad Farid Al Qadr | [Read More](https://medium.com/p/6c78f6471a04) |
-| Wed, 31 Dec 2025 06:26:09 GMT | Introducción a CrowdStrike CQL: tus primeras consultas en Advanced Event Search | Torres Hinojosa José Alfredo | [Read More](https://medium.com/p/424e1c7a81ad) |
-| Wed, 31 Dec 2025 06:22:08 GMT | What is a zero-day vulnerability, often seen in the news? | Niharika | [Read More](https://medium.com/p/fd9e5df92588) |
