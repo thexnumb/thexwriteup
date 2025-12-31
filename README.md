@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 17:01:51 GMT | Blockchain Wallet Password Recovery - Explained WhatsApp +14042456415 | Jennyblakes | [Read More](https://medium.com/p/6227a9265bfc) |
+| Wed, 31 Dec 2025 17:01:27 GMT | Moving Forward with Memory Analysis: From Volatility to MemProcFS : Part 2 | Dean | [Read More](https://medium.com/p/3d4c38033515) |
+| Wed, 31 Dec 2025 17:01:10 GMT | Red Teaming LLMs and AI Agents at scale in Microsoft Foundry | Arun Balaji Giridharan | [Read More](https://medium.com/p/13cdf3918596) |
+| Wed, 31 Dec 2025 17:00:07 GMT | Ph4ge: MS17–010 Hidden User(Admin-Priv) Remote Injection Backdoor Tool & Shift Backdoor | Мартин. | [Read More](https://medium.com/p/ee29b47e0e34) |
+| Wed, 31 Dec 2025 16:52:51 GMT | MongoBleed 驚世檔案：8.7 萬台資料庫的記憶體洩漏風暴與紅色警報 | p1x06u9 | [Read More](https://medium.com/p/28e433fd917d) |
+| Wed, 31 Dec 2025 16:52:38 GMT | The $3 Billion Loss Year: End-of-Year Security Report | Extropy.IO | [Read More](https://medium.com/p/3f8b9237121c) |
+| Wed, 31 Dec 2025 16:50:18 GMT | TryHackMe: MD2PDF Walkthrough | Cyberpatriot | [Read More](https://medium.com/p/e19ed993353f) |
+| Wed, 31 Dec 2025 16:50:13 GMT | PortSwigger Academy Lab: Source code disclosure via backup files | VISCID | [Read More](https://medium.com/p/5f5e6ad3db30) |
+| Wed, 31 Dec 2025 16:45:35 GMT | Resilience Without Illusions | SIMKRA | [Read More](https://medium.com/p/7b9de4376d94) |
 | Wed, 31 Dec 2025 16:36:41 GMT | Why Being “Invisible” Online Is More Powerful Than Being Secure | Ali Hamza | [Read More](https://medium.com/p/dd68d61a3451) |
 | Wed, 31 Dec 2025 16:32:28 GMT | The Autonomy Paradox: Why We Must Automate Critical Infrastructure Security (And Why It Might Kill… | Jay Nichols | [Read More](https://medium.com/p/9331664fdb2d) |
 | Wed, 31 Dec 2025 16:29:39 GMT | The 2026 Tech Readiness Checklist: 10 Must-Dos Before Your Business Goes Live | Paradise technologies Inc | [Read More](https://medium.com/p/d372af3705fa) |
@@ -103,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 31 Dec 2025 10:42:22 GMT | How I Passed the AZ-500 Exam : Practical Tips for Aspiring Azure Security Engineers | Florence Nwizugbe | [Read More](https://medium.com/p/071bb65a34f8) |
 | Wed, 31 Dec 2025 10:33:00 GMT | New Year, Same Breaches: Why January Is the Hottest and Most Boring Month in Cybersecurity | Martin Simonyan | [Read More](https://medium.com/p/d9f32cba2e76) |
 | Wed, 31 Dec 2025 10:32:52 GMT | Querying your cloudtrail logs | Bart Briek | [Read More](https://medium.com/p/13803c4fb299) |
-| Wed, 31 Dec 2025 10:26:41 GMT | Your Security Budget Only Covers One: Password Manager or MFA? | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/22e8d4ca59db) |
-| Wed, 31 Dec 2025 10:20:20 GMT | Telegram@ablertgonzalez Earn 2500 dollars daily via PayPal cashapp Bank TransfesCc cvv FULLZ dumps… | Gonz | [Read More](https://medium.com/p/94ccedc4af59) |
-| Wed, 31 Dec 2025 10:19:56 GMT | Sharepoint Backdoor To Doomsday | Decoded Intel | [Read More](https://medium.com/p/a3fd535070db) |
-| Wed, 31 Dec 2025 10:19:08 GMT | Why Most Cyber Attacks in 2026 Will Succeed — Even in “Secure” Organizations
-Cybercrime is evolving… | Ankit rai | [Read More](https://medium.com/p/025ee1ec8940) |
-| Wed, 31 Dec 2025 10:15:52 GMT | Race Condition in Team Creation Endpoint Allows Bypass of Daily Team Creation Limit | geme000 | [Read More](https://medium.com/p/b2224931ec07) |
-| Wed, 31 Dec 2025 10:03:17 GMT | Unleashing DIG in Recon: Advanced DNS Enumeration for Professional Pentesters | Cybeague Technologies | [Read More](https://medium.com/p/746c9d829d41) |
-| Wed, 31 Dec 2025 10:01:52 GMT | Getting Started with DIG: Your First Step into DNS Reconnaissance | Cybeague Technologies | [Read More](https://medium.com/p/faae0e5f840a) |
-| Wed, 31 Dec 2025 10:00:22 GMT | The Unpatchable Flaw: A Deep Dive into Apple’s DFU Mode and the Checkm8 Exploit | Saadan ashraf | [Read More](https://medium.com/p/0d3dae2a2075) |
-| Wed, 31 Dec 2025 09:55:28 GMT | ASP.NET Middleware Out of Order: Insecure Transport — SSC Fortify Security Findings Analysis —… | Okan Yurt | [Read More](https://medium.com/p/f575f251be84) |
