@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 03:32:25 GMT | When Streaming Becomes an Archive: Inside the Spotify Scraping Incident | Deven Chhajed | [Read More](https://medium.com/p/342f7bd2d852) |
+| Wed, 31 Dec 2025 03:26:59 GMT | Cybersecurity: Your Digital Shield in a Connected World | cyber Explain | [Read More](https://medium.com/p/e8ebfb5f23cb) |
+| Wed, 31 Dec 2025 03:20:41 GMT | A Raspberry Pi, Specifically | Brian Tristam Williams | [Read More](https://medium.com/p/a2cc97b55bda) |
+| Wed, 31 Dec 2025 03:17:32 GMT | The Digital Minefield: How Attacks Happen in the Online World | Sarah K Chukwukadibia | [Read More](https://medium.com/p/d7c4fc3f5abc) |
+| Wed, 31 Dec 2025 02:39:15 GMT | WiFi Hacking Isn’t About Stealing Internet. It’s About Understanding Power. | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/efca3df53516) |
+| Wed, 31 Dec 2025 02:36:49 GMT | The Hidden Cost of Manual Employee Offboarding (And How I Automated It Away) | Jose Ernest | [Read More](https://medium.com/p/c449f51662cf) |
+| Wed, 31 Dec 2025 02:33:56 GMT | From “Config Fatigue” to Secure-by-Default: Introducing the GCP Hardening Toolkit | Lucas Nogueira | [Read More](https://medium.com/p/456aae25ff72) |
+| Wed, 31 Dec 2025 02:30:34 GMT | Harvest Now, Decrypt Later: The Silent Threat to Internet Security | X-3306 | [Read More](https://medium.com/p/e05da9e1feab) |
+| Wed, 31 Dec 2025 02:17:55 GMT | WHAT THE HELL AM I DOING WITH CYBERSECURITY AS A PHYSIOLOGY GRADUATE?? | Semande Whenu | [Read More](https://medium.com/p/094702683486) |
+| Wed, 31 Dec 2025 02:10:43 GMT | Before Cybersecurity, I Learned Networking — And That Changed Everything | Gajanan Tayde | [Read More](https://medium.com/p/cd85e7bd7f4b) |
+| Wed, 31 Dec 2025 02:05:18 GMT | Bypassing a Monthly Secure Message Limit Using a Race Condition | Bavly Zaher | [Read More](https://medium.com/p/ecd700714720) |
 | Wed, 31 Dec 2025 01:48:54 GMT | Top Bug Bounty Platforms | Shahzaib | [Read More](https://medium.com/p/b2c2dd135277) |
 | Wed, 31 Dec 2025 01:45:53 GMT | FortiCloud SSO Authentication Bypass Exposes the Urgency of Attack Surface–Focused Defense | Criminal IP | [Read More](https://medium.com/p/ae7500a7a6e1) |
 | Wed, 31 Dec 2025 01:38:26 GMT | The Dedicated Server Security Best Practices | Chiro Adsmedia | [Read More](https://medium.com/p/b50ad308c99e) |
@@ -101,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Dec 2025 17:58:30 GMT | Monitored Security Cameras in Denver: A Smarter Way to Protect Your Property | Overwatch Technologies | [Read More](https://medium.com/p/09cb459f32e1) |
 | Tue, 30 Dec 2025 17:58:29 GMT | Why Your Investigation Is Only As Good As Your OPSEC. | Aras Darweesh | [Read More](https://medium.com/p/b2d3a5eaf03d) |
 | Tue, 30 Dec 2025 17:56:46 GMT | Try Hack Me- Wonderland Walkthrough | PulseEinher | [Read More](https://medium.com/p/450340f63acc) |
-| Tue, 30 Dec 2025 17:54:14 GMT | Why GRC Fails in Silence
-What Standup Comedy Reveals About Risk Communication | Jesse Nelson | [Read More](https://medium.com/p/349269d73f3d) |
-| Tue, 30 Dec 2025 17:52:27 GMT | Robot Süpürgem Beni İzliyor mu? Evdeki “Casusu” Ararken Güneş Enerjisi Santrali Bulmak! | Ömer Faruk YAZICI | [Read More](https://medium.com/p/6f10fd77fd36) |
-| Tue, 30 Dec 2025 17:41:48 GMT | Threat Hunting Diary: Trazando la infraestructura C2 de AsyncRAT (Campaña Xoilac) | FeCeSociety | [Read More](https://medium.com/p/0ee441baedab) |
-| Tue, 30 Dec 2025 17:39:27 GMT | SAST / DAST Integration Pipeline | Esra Kayhan | [Read More](https://medium.com/p/3d60fedb34a8) |
-| Tue, 30 Dec 2025 17:37:51 GMT | The Fog Between Then and Now | Tabiya Overhand | [Read More](https://medium.com/p/f99949ed898c) |
-| Tue, 30 Dec 2025 17:37:46 GMT | Cybersecurity Unlocked: Episode 8— The Cast of Characters (Threat Actors) | Yash Kitey | [Read More](https://medium.com/p/46ff5f017307) |
-| Tue, 30 Dec 2025 17:36:02 GMT | The Cryptography Concept Journey — Merkle’s Puzzles | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/bb085c67f4e0) |
-| Tue, 30 Dec 2025 17:26:59 GMT | Deploying a Private, High-Performance VPN Server on AWS EC2 using SoftEther | Ajay Uppu | [Read More](https://medium.com/p/dcbe361169ec) |
-| Tue, 30 Dec 2025 17:26:25 GMT | Defending Against Multi-Cloud Threats With an IT Managed Services Provider in Springfield, MO | PCnet | [Read More](https://medium.com/p/bd34f8bffcb2) |
-| Tue, 30 Dec 2025 17:19:24 GMT | From Zero to Secure — Hardening a Windows 10 Workstation | Secured By Sebastion | [Read More](https://medium.com/p/c5cc8a2939ae) |
-| Tue, 30 Dec 2025 17:16:43 GMT | A Cybersecurity Expert Just Shattered My Reality | TechToFit - Master Your Life with Tech | [Read More](https://medium.com/p/f1d9515f3e77) |
