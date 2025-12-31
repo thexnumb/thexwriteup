@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 05:32:41 GMT | SEO Is Like a Layered Cake: Search, Answers, and Discovery All Baked Together | Pranali | [Read More](https://medium.com/p/4bf6bc01133f) |
+| Wed, 31 Dec 2025 05:28:21 GMT | The Predator Files: How Spyware Sanctions Removal Reveals the Complexities of Cybersecurity Policy | CCD-IS | [Read More](https://medium.com/p/90a879e27396) |
+| Wed, 31 Dec 2025 05:22:34 GMT | 8 Best Practices for Securing Your Business with Managed IT Services | Elevate | [Read More](https://medium.com/p/4c54d4fc7c91) |
 | Wed, 31 Dec 2025 05:07:46 GMT | TryHackMe: Anonymous Writeup | cbev | [Read More](https://medium.com/p/c09ea5d1d480) |
 | Wed, 31 Dec 2025 05:05:11 GMT | How I Configured a Certificate Authority (CA) Server on Windows Server 2022 in Hyper‑V | Ernest Marvin Franco | [Read More](https://medium.com/p/958bc7a8e8f0) |
 | Wed, 31 Dec 2025 04:59:15 GMT | The State of Identity (Part I) | Subrat Prasad | [Read More](https://medium.com/p/f7dcfb90a2c7) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Dec 2025 19:34:56 GMT | CTF Write-Up : Hack the Scammer CTF 2025 (Scenario 2 Part 5 — Geo Guesser 2) | Reonomu | [Read More](https://medium.com/p/ea4e4707e24f) |
 | Tue, 30 Dec 2025 19:34:53 GMT | What Really Happens When You Download a Movie on a Streaming App | Vamsi K Palle | [Read More](https://medium.com/p/a448c5b10d39) |
 | Tue, 30 Dec 2025 19:30:34 GMT | Hybrid Cloud Security Challenges and Solutions Businesses Must Prepare for in 2026 | Techridge Solutions | [Read More](https://medium.com/p/8a645cb1275c) |
-| Tue, 30 Dec 2025 19:16:42 GMT | CTF Write-Up : Hack the Scammer CTF 2025 (Scenario 2 Part 1 — Reuse Meme) | Reonomu | [Read More](https://medium.com/p/4edcc3b3a066) |
-| Tue, 30 Dec 2025 19:15:52 GMT | Anatomy of a Security Audit: Dissecting JWTs and Sessions for Critical Logic Flaws | Ian Zammit | [Read More](https://medium.com/p/97ec579eb489) |
-| Tue, 30 Dec 2025 19:12:02 GMT | What the OpenAI API / Mixpanel Incident Really Teaches Us About API Security | AserSec | [Read More](https://medium.com/p/59f10f91cc43) |
