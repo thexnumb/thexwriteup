@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 23:02:03 GMT | Web-RTA Review: Is a $9 Cybersecurity Certification Worth It? | B13ss3d | [Read More](https://medium.com/p/80d9169cf96b) |
+| Wed, 31 Dec 2025 22:57:23 GMT | Review Web-RTA: ¿Vale la pena una certificación de ciberseguridad de $9 USD? | B13ss3d | [Read More](https://medium.com/p/c5d4e4f2887a) |
+| Wed, 31 Dec 2025 22:51:46 GMT | TryHackMe: Stolen Mount | Cyberpatriot | [Read More](https://medium.com/p/234c77191f96) |
+| Wed, 31 Dec 2025 22:49:30 GMT | Building Cybersecurity Learning Roadmap For CTIS Students | Onurcan Genç | [Read More](https://medium.com/p/e201f297d992) |
+| Wed, 31 Dec 2025 22:49:12 GMT | DVIUS Offers Top Tier Benefits | Biteris | [Read More](https://medium.com/p/7681c9102dfd) |
+| Wed, 31 Dec 2025 22:48:40 GMT | The Adversary Hasn’t Changed. The Battlefield Has. | Nate Gibson | [Read More](https://medium.com/p/e2c2f95a96c3) |
+| Wed, 31 Dec 2025 22:47:15 GMT | Self-XSS + CSRF = XSS Re | pad1ryoshi | [Read More](https://medium.com/p/81bac80c969f) |
+| Wed, 31 Dec 2025 22:43:54 GMT | The Truth about Cybersecurity in 2026 | Irene A. Gil | [Read More](https://medium.com/p/6e54a34ef36f) |
 | Wed, 31 Dec 2025 22:23:38 GMT | Stack Traces : Unveiling attack surface | TheCzar | [Read More](https://medium.com/p/c2eb4e815a65) |
 | Wed, 31 Dec 2025 22:19:56 GMT | Prompt Injection: How Attackers Trick AI Into Revealing Its Secrets | Will Giles - Cybersecurity | [Read More](https://medium.com/p/afc0ff4cd5b9) |
 | Wed, 31 Dec 2025 21:49:38 GMT | Advice and New Year’s Resolutions from a 21 Year-Old | Humna Sultan | [Read More](https://medium.com/p/7a0245fc178e) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 31 Dec 2025 15:02:03 GMT | 2025: My Year of Clarity, Courage, and Quiet Wins | Rebecca Ihenyen | [Read More](https://medium.com/p/d01dc68859a7) |
 | Wed, 31 Dec 2025 14:59:17 GMT | The Cybersecurity Reality of 2026: AI, Deepfakes, and Autonomous Attacks Autonomous Defense | Muhammad Afzal | [Read More](https://medium.com/p/52a39815c75d) |
 | Wed, 31 Dec 2025 14:54:00 GMT | Spotify’s Great Music Heist | O. J. Okpabi | [Read More](https://medium.com/p/7c2d009e0bf1) |
-| Wed, 31 Dec 2025 14:53:56 GMT | From Zero to Multi-Agent AI in 10 Minutes with n8n | Varun Setia | [Read More](https://medium.com/p/0b6179b9675a) |
-| Wed, 31 Dec 2025 14:51:12 GMT | The One-Letter Hack That Silenced Two-Factor Security Worldwide | O. J. Okpabi | [Read More](https://medium.com/p/ada6a55dd105) |
-| Wed, 31 Dec 2025 14:50:13 GMT | Cybersecurity in Google Cloud and Incident Case Studies | Dolly Aswin Harahap | [Read More](https://medium.com/p/5d94261e5470) |
-| Wed, 31 Dec 2025 14:47:24 GMT | The Companion of the Era: How AI Reshaped Technology, Security, and Our World in 2025 | Silico | [Read More](https://medium.com/p/c9271bc59343) |
-| Wed, 31 Dec 2025 14:44:08 GMT | How to deploy an end to end cybersecurity Architecture on Huawei Cloud | Javier Antonio Perez Pinto | [Read More](https://medium.com/p/89ff413a8987) |
-| Wed, 31 Dec 2025 14:42:46 GMT | A Beginner’s Guide To Security Without The Jargon | Plaintext with Rich | [Read More](https://medium.com/p/c4a98eda5651) |
-| Wed, 31 Dec 2025 14:40:51 GMT | How to Build Secure Login Systems for Web Apps | Ahmad Muzaffar B. | [Read More](https://medium.com/p/7aaee4310f6e) |
-| Wed, 31 Dec 2025 14:34:48 GMT | Proving Grounds DVR4 Walkthrough | Ryan Cham Rui Yang | [Read More](https://medium.com/p/39e2458ca79a) |
