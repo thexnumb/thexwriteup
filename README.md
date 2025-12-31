@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 18:23:45 GMT | How Hackers Can Expose Your IP in Seconds And Why It’s Usually Your Own Mistake | Fareed Masood | [Read More](https://medium.com/p/7d2894b03b74) |
+| Wed, 31 Dec 2025 18:23:19 GMT | Blast from the past - picoCTF2024 Write-up | Alireza Ghorbani | [Read More](https://medium.com/p/d6c9c12ab5b3) |
+| Wed, 31 Dec 2025 18:17:47 GMT | Ağ (Network)Temelleri | g.o. | [Read More](https://medium.com/p/9360412cf57f) |
+| Wed, 31 Dec 2025 18:16:40 GMT | Dynamic Database Credentials using Vault on EKS Fargate, Lambda Extensions & Aurora Serverless | SATYAM SAREEN | [Read More](https://medium.com/p/04db3c2ad240) |
+| Wed, 31 Dec 2025 18:13:58 GMT | How should a student choose a specialization in cybersecurity? | Roman Charleston | [Read More](https://medium.com/p/fcbc3525f602) |
+| Wed, 31 Dec 2025 18:09:25 GMT | How NOT To Become a Pen Tester in 2026 … or ever! | Pablo Vergara | [Read More](https://medium.com/p/dfb16f212239) |
+| Wed, 31 Dec 2025 18:09:07 GMT | OWASP Top 10 2025: Application Design Flaws | Mukund | [Read More](https://medium.com/p/e730bccc2bd7) |
+| Wed, 31 Dec 2025 18:08:36 GMT | In 2026, one decision will separate growth from regret. | Hachion | [Read More](https://medium.com/p/126820c3a5c1) |
+| Wed, 31 Dec 2025 18:01:09 GMT | Soc analyst | Mmohammadsalman | [Read More](https://medium.com/p/f8c7e2d1d354) |
+| Wed, 31 Dec 2025 17:50:55 GMT | Why I Was Wrong About the “A” in CIA — How Encryption Became Our Biggest Threat. | Sandeep Agarwal | [Read More](https://medium.com/p/a3ff61d67d54) |
+| Wed, 31 Dec 2025 17:37:54 GMT | 10 Python Lessons That Only Real Bugs Teach | Muhammad Huzair Awan | [Read More](https://medium.com/p/d44e447082e7) |
 | Wed, 31 Dec 2025 17:34:52 GMT | How Google and Microsoft’s “Featured” Seal Became a License to Harvest Vulnerability | Victor Babaniyi | [Read More](https://medium.com/p/5c3c8eed96fb) |
 | Wed, 31 Dec 2025 17:34:29 GMT | The Silent AI Breach: How Autonomous Models Are Already Outpacing Cloud Security on AWS | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/6110c4c81ca5) |
 | Wed, 31 Dec 2025 17:25:19 GMT | The thing about roadmaps in cybersecurity… | HackWitHer | [Read More](https://medium.com/p/d12956b4869e) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 31 Dec 2025 12:02:24 GMT | The Invisible Costs of Our Digital Life | Angus Peterson | [Read More](https://medium.com/p/692915c71ab8) |
 | Wed, 31 Dec 2025 12:01:43 GMT | From Theory to Risk Thinking: My Second Step into Cybersecurity | Callum - Cyber Security Journey | [Read More](https://medium.com/p/d2c09af06011) |
 | Wed, 31 Dec 2025 11:46:23 GMT | Risk-Based Alerting (RBA) Matematiği | Furkan Ünlü | [Read More](https://medium.com/p/16ed21904f8b) |
-| Wed, 31 Dec 2025 11:40:06 GMT | Our Data Isn’t That Important” — Said Every Company Before a Breach | Digital Defense | [Read More](https://medium.com/p/8defc86130fc) |
-| Wed, 31 Dec 2025 11:33:42 GMT | BUILDING A CLOUD-BASED SOC WITH DETECTION, SOAR & ATTACK SIMULATION | Nikhil Pc | [Read More](https://medium.com/p/bbce8b137ae7) |
-| Wed, 31 Dec 2025 11:25:20 GMT | Ηλεκτρονικές Απάτες & Εορταστική Περίοδος: Οι 4 Κίνδυνοι και η Νομική Προστασία των Συναλλαγών. | Georgios Perrakis | [Read More](https://medium.com/p/ca9dcd043d6d) |
-| Wed, 31 Dec 2025 11:24:46 GMT | The New Year’s Resolutions Our Systems Never Keep | Abatis ABTU | [Read More](https://medium.com/p/dc85bb519516) |
-| Wed, 31 Dec 2025 11:22:24 GMT | You Will Own Nothing — Including Your Conscience | Richard Ogundele | [Read More](https://medium.com/p/e7e5fac6b055) |
-| Wed, 31 Dec 2025 11:19:31 GMT | ️ FortiGate Lab Kurulumu: İlk Erişimde Bilinmesi Gereken Kritik Noktalar | Esra Tosun | [Read More](https://medium.com/p/52a4642d91ac) |
-| Wed, 31 Dec 2025 11:15:24 GMT | How IT Support Prevents Costly Downtime for Your Business in Riverside? | Managed IT Services | [Read More](https://medium.com/p/e508ba63b106) |
-| Wed, 31 Dec 2025 11:15:04 GMT | Securing Mississauga: Real Experiences From Professional Security Guards | Grdsnscrt | [Read More](https://medium.com/p/0052286089b4) |
-| Wed, 31 Dec 2025 11:10:02 GMT | AI in the Educating System | Aneesha Kakar | [Read More](https://medium.com/p/0de518c71eb9) |
-| Wed, 31 Dec 2025 11:04:38 GMT | Wi-Fi Hücumları və Kibertəhlükəsizlik: WPA, Evil Twin və MITM Riskləri | cybershieldy.com | [Read More](https://medium.com/p/0dbe00063980) |
-| Wed, 31 Dec 2025 10:57:20 GMT | Finished Tryhackme Advent Of Cyber 2025! | Kashyap Pandya | [Read More](https://medium.com/p/bf477ec226a3) |
