@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 08:27:23 GMT | Year in Rewind: 2025 at QSS | QSS smart it | [Read More](https://medium.com/p/bc9a6b4230f5) |
+| Wed, 31 Dec 2025 08:26:20 GMT | Source Code Under Attack? How to Secure Your Application Supply Chain Before It’s Too Late | Sabbir Hossain | [Read More](https://medium.com/p/77093f131e3d) |
+| Wed, 31 Dec 2025 08:24:50 GMT | Role of Cyber Awareness in Preventing Digital Crimes | Tech Word | [Read More](https://medium.com/p/6e53f584cefc) |
+| Wed, 31 Dec 2025 08:08:21 GMT | TryHackMe Linux Fundamentals Part 2 | Ufuk Yaman | [Read More](https://medium.com/p/7ad621ff55b4) |
+| Wed, 31 Dec 2025 08:06:39 GMT | The Silent Data Leak That Could Bankrupt Your Startup | Raviteja Nekkalapu | [Read More](https://medium.com/p/04e75f14b2a2) |
+| Wed, 31 Dec 2025 08:02:27 GMT | [Part 20] Zero to Hero Recap: How to Start Your Career in AI Cybersecurity Today | Cyberkech | [Read More](https://medium.com/p/5930e15292b8) |
+| Wed, 31 Dec 2025 08:01:54 GMT | How to Automate Your Data Protection with Acronis Cloud Backup | HostDime India | [Read More](https://medium.com/p/66c7759b8650) |
+| Wed, 31 Dec 2025 07:58:51 GMT | Differential Privacy for Everyone: Prerequisite | Eagle_Eye | [Read More](https://medium.com/p/69fbb5a8037f) |
+| Wed, 31 Dec 2025 07:56:26 GMT | The Sleeping Giant That Woke the World: Deconstructing the Massive Yahoo! Breaches (2013–2016) | The Kernel Hub | [Read More](https://medium.com/p/244bd12eee0c) |
+| Wed, 31 Dec 2025 07:54:49 GMT | From “Nothing Interesting” to Critical Impact: The Power of Re-Reading Responses ⚠️ | Iski | [Read More](https://medium.com/p/94808bcbc26d) |
+| Wed, 31 Dec 2025 07:51:01 GMT | What Six Months of a Security Internship Changed About How I Think | Vidya Penumarthi | [Read More](https://medium.com/p/d80da9833da8) |
+| Wed, 31 Dec 2025 07:50:53 GMT | Top Cybersecurity Skills Companies Are Hiring For | Tech Word | [Read More](https://medium.com/p/dbc66d372c0b) |
+| Wed, 31 Dec 2025 07:47:42 GMT | Cyber Threats 2025 → Preparing Pakistan for 2026 - PCSDP Initiative | Pakistan Cyber Security & Digital Forensics | [Read More](https://medium.com/p/c0125bc32480) |
 | Wed, 31 Dec 2025 07:38:16 GMT | How I Found a Broken Access Control Flaw: Bypassing Authentication with Extensionless Paths. | DOD cyber solutions | [Read More](https://medium.com/p/b9cff692788d) |
 | Wed, 31 Dec 2025 07:33:31 GMT | Cybersecurity Career Certification Roadmap: A Complete Guide | Manisha Chaudhary | [Read More](https://medium.com/p/c36f61d3d2de) |
 | Wed, 31 Dec 2025 07:33:02 GMT | In Recent Times : Cybersecurity and Technology in the Modern Age. | Michael Adedeji | [Read More](https://medium.com/p/29a5e98a0259) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Dec 2025 23:01:40 GMT | TryHackMe Ignite Walkthrough | Rootseekerx0x | [Read More](https://medium.com/p/d66af3b89df4) |
 | Tue, 30 Dec 2025 22:57:19 GMT | The Wrong Screw - Dog Years | Julio Oña | [Read More](https://medium.com/p/e8e636a3b815) |
 | Tue, 30 Dec 2025 22:49:18 GMT | CISSP Domain 3 Part 3: Essential Study Guide | Pushpak Sharma | [Read More](https://medium.com/p/b2e4903abadc) |
-| Tue, 30 Dec 2025 22:46:59 GMT | Why network latency matters more than bandwidth in many cases | paulk gearge | [Read More](https://medium.com/p/de186dfaf8c6) |
-| Tue, 30 Dec 2025 22:45:59 GMT | pwn.college Content Injection / Path Traversal 1 | Salihugurlu | [Read More](https://medium.com/p/a4f133c472d2) |
-| Tue, 30 Dec 2025 22:40:29 GMT | “Embracing Vulnerability” | Binte Habib | [Read More](https://medium.com/p/69037bd23ccc) |
-| Tue, 30 Dec 2025 22:34:09 GMT | Layoff Grief Observed: The Hidden Mourning in 2025 | Olaf Schroeder | [Read More](https://medium.com/p/6046798cd61c) |
-| Tue, 30 Dec 2025 22:18:36 GMT | AI, Privacy, and the Execution Sovereignty Problem | Heyyprashanth | [Read More](https://medium.com/p/45e1c1871f97) |
-| Tue, 30 Dec 2025 22:05:22 GMT | Advent of Cyber — Day 4: AI in Security — Old saint Nick | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/fe6bcb0e159b) |
-| Tue, 30 Dec 2025 22:04:18 GMT | You Gon’ Learn Today: Layemor Malware Analysis II | grepStrength | [Read More](https://medium.com/p/86bb4a0328f7) |
-| Tue, 30 Dec 2025 21:58:21 GMT | Your Excel Risk Matrix is Lying to You about Kubernetes Security. | Julian Koehn | [Read More](https://medium.com/p/8ccde081442b) |
-| Tue, 30 Dec 2025 21:40:28 GMT | What Really Happens When You Connect to Public WiFi | Aj | [Read More](https://medium.com/p/a1f101661cd9) |
-| Tue, 30 Dec 2025 21:40:10 GMT | I’m going to be a Hacker | Shahzaib | [Read More](https://medium.com/p/f060feff6cb3) |
-| Tue, 30 Dec 2025 21:39:29 GMT | Pentesting | Daniel Scragg | [Read More](https://medium.com/p/e66c3670857c) |
-| Tue, 30 Dec 2025 21:39:23 GMT | Top Security Challenges Faced by Businesses in Camarillo | Onpointpetrol | [Read More](https://medium.com/p/96ab7239ea2a) |
-| Tue, 30 Dec 2025 21:31:21 GMT | H.E.I.X. GLOBAL AGENCY — WEBSITE DEVELOPMENT SERVICES | Heixglobalagency Manager | [Read More](https://medium.com/p/1fbfa587ccec) |
