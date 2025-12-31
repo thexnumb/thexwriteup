@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 05:07:46 GMT | TryHackMe: Anonymous Writeup | cbev | [Read More](https://medium.com/p/c09ea5d1d480) |
+| Wed, 31 Dec 2025 05:05:11 GMT | How I Configured a Certificate Authority (CA) Server on Windows Server 2022 in Hyper‑V | Ernest Marvin Franco | [Read More](https://medium.com/p/958bc7a8e8f0) |
+| Wed, 31 Dec 2025 04:59:15 GMT | The State of Identity (Part I) | Subrat Prasad | [Read More](https://medium.com/p/f7dcfb90a2c7) |
+| Wed, 31 Dec 2025 04:54:10 GMT | The $35 Billion Crime You’re Funding Without Knowing It | Heesham Naji | [Read More](https://medium.com/p/0aa6bcc50162) |
+| Wed, 31 Dec 2025 04:40:39 GMT | (SOC Analyst) Wireshark Display filters — Complete Cheat Sheet | Mr Horbio | [Read More](https://medium.com/p/adeff4e08f69) |
+| Wed, 31 Dec 2025 04:39:05 GMT | PoisonedCredentials Lab Writeup | Salmanul Faris | [Read More](https://medium.com/p/6a30142502de) |
 | Wed, 31 Dec 2025 04:32:32 GMT | Debloating Windows Safely: What I Automated, What I Didn’t, and Why | Shubh Gupta | [Read More](https://medium.com/p/9d515c5c7cd6) |
 | Wed, 31 Dec 2025 04:32:28 GMT | 7 Wallet Safety Upgrades Quietly Rolling Out in 2025 | Nexumo | [Read More](https://medium.com/p/5e38c50c31b3) |
 | Wed, 31 Dec 2025 04:32:28 GMT | 5 Program Upgrade Railways That Don’t Brick Mainnet | Hash Block | [Read More](https://medium.com/p/b1fffb7900af) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Dec 2025 19:16:42 GMT | CTF Write-Up : Hack the Scammer CTF 2025 (Scenario 2 Part 1 — Reuse Meme) | Reonomu | [Read More](https://medium.com/p/4edcc3b3a066) |
 | Tue, 30 Dec 2025 19:15:52 GMT | Anatomy of a Security Audit: Dissecting JWTs and Sessions for Critical Logic Flaws | Ian Zammit | [Read More](https://medium.com/p/97ec579eb489) |
 | Tue, 30 Dec 2025 19:12:02 GMT | What the OpenAI API / Mixpanel Incident Really Teaches Us About API Security | AserSec | [Read More](https://medium.com/p/59f10f91cc43) |
-| Tue, 30 Dec 2025 19:09:25 GMT | Introduction to OT Cybersecurity | Maxi | [Read More](https://medium.com/p/99d028f606da) |
-| Tue, 30 Dec 2025 18:59:29 GMT | Le “bug de l’an 2000” n’a pas échoué, il a été vaincu | Séв(aѕтιen) L. ⚠ | [Read More](https://medium.com/p/8c30eb7fc499) |
-| Tue, 30 Dec 2025 18:58:35 GMT | Vulnhub: Looz 1 Walkthrough | Luke Gearty | [Read More](https://medium.com/p/aed337a8b0fc) |
-| Tue, 30 Dec 2025 18:42:23 GMT | AI-Augmented Penetration Testing: The Future of Cybersecurity | Mark Puckett | [Read More](https://medium.com/p/0391be3d6d77) |
-| Tue, 30 Dec 2025 18:39:56 GMT | How I Built a Private AI Headhunter to Automate My Job Search | João Dias | [Read More](https://medium.com/p/3e44618a884c) |
-| Tue, 30 Dec 2025 18:36:19 GMT | Mapping Phishing Link Analysis to MITTRE ATT@CK. | Kishwar Khatri | [Read More](https://medium.com/p/4b1316b9f825) |
