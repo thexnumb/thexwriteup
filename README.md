@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 04:32:32 GMT | Debloating Windows Safely: What I Automated, What I Didn’t, and Why | Shubh Gupta | [Read More](https://medium.com/p/9d515c5c7cd6) |
+| Wed, 31 Dec 2025 04:32:28 GMT | 7 Wallet Safety Upgrades Quietly Rolling Out in 2025 | Nexumo | [Read More](https://medium.com/p/5e38c50c31b3) |
+| Wed, 31 Dec 2025 04:32:28 GMT | 5 Program Upgrade Railways That Don’t Brick Mainnet | Hash Block | [Read More](https://medium.com/p/b1fffb7900af) |
+| Wed, 31 Dec 2025 04:32:28 GMT | Red Team trick: how attackers abuse NAT to vanish | Nithishkumar R | [Read More](https://medium.com/p/05ce492b5fac) |
+| Wed, 31 Dec 2025 04:27:43 GMT | Building My Penetration Testing Foundation: What Truly Helped Me in 2025 …. | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/d0b60514c309) |
+| Wed, 31 Dec 2025 04:18:39 GMT | Wires of Fear: When Electricity Met AI’s Shadow | Sidhant Shekhar | [Read More](https://medium.com/p/18626a1fddc7) |
+| Wed, 31 Dec 2025 04:16:37 GMT | Hands-On SQL Injection Using Burp Suite: A Beginner’s Walkthrough | CRAC Learning | [Read More](https://medium.com/p/c32e11b48ac3) |
+| Wed, 31 Dec 2025 04:14:44 GMT | PyCon ID 2025: Membangun Automated Security Pipeline di Python Environment | Mahaputra Ilham Awal | [Read More](https://medium.com/p/3a48a3f299c8) |
+| Wed, 31 Dec 2025 04:02:23 GMT | The $250K Developer Stack Nobody Saw Coming | The Shipping Engineer | [Read More](https://medium.com/p/d9997a00aa14) |
+| Wed, 31 Dec 2025 04:01:58 GMT | 50M$+ Bug Class: A Practical Guide to Solana Account Confusion | Turk | [Read More](https://medium.com/p/afb01224d955) |
+| Wed, 31 Dec 2025 03:59:18 GMT | JWT & Token-Based Authentication —  From Login to Token Expiry | Stoic Engineer | [Read More](https://medium.com/p/3668f0de82b3) |
+| Wed, 31 Dec 2025 03:46:20 GMT | The Red Teamer’s Toolkit: 15 Prompts to Break Your AI Agent (Before Users Do) | Raghunandan Gupta | [Read More](https://medium.com/p/9ce0869ab4d5) |
 | Wed, 31 Dec 2025 03:32:25 GMT | When Streaming Becomes an Archive: Inside the Spotify Scraping Incident | Deven Chhajed | [Read More](https://medium.com/p/342f7bd2d852) |
 | Wed, 31 Dec 2025 03:26:59 GMT | Cybersecurity: Your Digital Shield in a Connected World | cyber Explain | [Read More](https://medium.com/p/e8ebfb5f23cb) |
 | Wed, 31 Dec 2025 03:20:41 GMT | A Raspberry Pi, Specifically | Brian Tristam Williams | [Read More](https://medium.com/p/a2cc97b55bda) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Dec 2025 18:42:23 GMT | AI-Augmented Penetration Testing: The Future of Cybersecurity | Mark Puckett | [Read More](https://medium.com/p/0391be3d6d77) |
 | Tue, 30 Dec 2025 18:39:56 GMT | How I Built a Private AI Headhunter to Automate My Job Search | João Dias | [Read More](https://medium.com/p/3e44618a884c) |
 | Tue, 30 Dec 2025 18:36:19 GMT | Mapping Phishing Link Analysis to MITTRE ATT@CK. | Kishwar Khatri | [Read More](https://medium.com/p/4b1316b9f825) |
-| Tue, 30 Dec 2025 18:35:16 GMT | A Beginner-Friendly Guide to API Authentication and Authorization: Lessons from Real-World APIs | Madalitso Cheyo | [Read More](https://medium.com/p/d7bc996424fd) |
-| Tue, 30 Dec 2025 18:35:10 GMT | Web3TradingHub Beginner to Advance | Web3 Trading Hub | [Read More](https://medium.com/p/fe756bf30fc5) |
-| Tue, 30 Dec 2025 18:32:56 GMT | MongoDB Is Leaking Server Memory — Authentication Doesn’t Matter Anymore | Tara Prasad Routray | [Read More](https://medium.com/p/f117e511c9b6) |
-| Tue, 30 Dec 2025 18:10:28 GMT | My Last 2025 Goal | Alicia | [Read More](https://medium.com/p/56eb4508476b) |
-| Tue, 30 Dec 2025 18:09:50 GMT | Why I Obsess Over Cybersecurity: A Student’s Perspective on the Digital Wild West | HEKKO | [Read More](https://medium.com/p/78240092d5df) |
-| Tue, 30 Dec 2025 18:05:17 GMT | Why Building Your Own Cybersecurity Lab Teaches More Than Following Playlists | Muhammad Kashif | [Read More](https://medium.com/p/1079e92c5e5e) |
-| Tue, 30 Dec 2025 18:05:00 GMT | A Quantum War Starts Now | enterlifeonline | [Read More](https://medium.com/p/f51b77530186) |
-| Tue, 30 Dec 2025 18:04:06 GMT | Security in Bounties, Treasury Spending and Rewards Distribution | Polkadot Anti-Scam Team | [Read More](https://medium.com/p/62363e3529ec) |
-| Tue, 30 Dec 2025 18:03:35 GMT | Bringing MISP Threat Intel into Claude Desktop with an MCP Server | Yash Patel | [Read More](https://medium.com/p/ecad756922b4) |
-| Tue, 30 Dec 2025 17:58:30 GMT | Monitored Security Cameras in Denver: A Smarter Way to Protect Your Property | Overwatch Technologies | [Read More](https://medium.com/p/09cb459f32e1) |
-| Tue, 30 Dec 2025 17:58:29 GMT | Why Your Investigation Is Only As Good As Your OPSEC. | Aras Darweesh | [Read More](https://medium.com/p/b2d3a5eaf03d) |
-| Tue, 30 Dec 2025 17:56:46 GMT | Try Hack Me- Wonderland Walkthrough | PulseEinher | [Read More](https://medium.com/p/450340f63acc) |
