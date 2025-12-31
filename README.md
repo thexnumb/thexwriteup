@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 21:22:53 GMT | Zs Cyber Protection Guard: Automating DNS Rotation for Enhanced Privacy | Ugochukwu Bernard Anyaogu-Ben | [Read More](https://medium.com/p/27b96fe13e17) |
+| Wed, 31 Dec 2025 21:19:28 GMT | Penetration Testing for weak ? | Salah_Taha | [Read More](https://medium.com/p/88eb41a95c51) |
+| Wed, 31 Dec 2025 21:18:28 GMT | Scaling Systems and Securing Data: My Journey as a Software Engineer | Adeleye Ayomide Tosin | [Read More](https://medium.com/p/fc60be209de8) |
 | Wed, 31 Dec 2025 21:10:25 GMT | 87,000 MongoDB Servers Exposed: How MongoBleed is Leaking Your Secrets Right Now | Ved | [Read More](https://medium.com/p/84ce620d7c88) |
 | Wed, 31 Dec 2025 21:06:58 GMT | The Current State of AI Security: Lessons from Mark Russinovich’s ACM Tech Talk | Arsen Vladimirskiy | [Read More](https://medium.com/p/c6ac5a3f38ca) |
 | Wed, 31 Dec 2025 20:53:41 GMT | Cyberattacks & Ransomware Attacks of 2025: The Biggest Fallouts, Breaches & Lessons | IT_Engineer | [Read More](https://medium.com/p/130944379009) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 31 Dec 2025 14:22:46 GMT | Eliza | Kluster66 | [Read More](https://medium.com/p/e54d9951ecb4) |
 | Wed, 31 Dec 2025 14:22:14 GMT | How to Securely Share .env Files Without Leaking API Keys | Madangopal | [Read More](https://medium.com/p/bb614f3a1f21) |
 | Wed, 31 Dec 2025 14:21:24 GMT | The Quantum cybersecurity Threat | Jan Skopal | [Read More](https://medium.com/p/8a9131d2e98d) |
-| Wed, 31 Dec 2025 14:20:25 GMT | My 2025 Pentesting Arsenal: Custom Tools & Scripts | Taulan Zauzanov | [Read More](https://medium.com/p/cf3904247f1f) |
-| Wed, 31 Dec 2025 14:12:53 GMT | Introduction to Wazuh: Part 3: Sysmon Optimization, Custom Wazuh Rules, and APT Simulation | Allen Ace | [Read More](https://medium.com/p/f2f106d922f0) |
-| Wed, 31 Dec 2025 14:10:14 GMT | Why Many Businesses Spend More on Cybersecurity but Still Feel Exposed | Cameron Nyack | [Read More](https://medium.com/p/9f90feb955db) |
