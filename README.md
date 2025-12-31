@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 21:49:38 GMT | Advice and New Year’s Resolutions from a 21 Year-Old | Humna Sultan | [Read More](https://medium.com/p/7a0245fc178e) |
+| Wed, 31 Dec 2025 21:34:10 GMT | Another Medical Data Breach! The NS Support Cyberattack | Pipeline | [Read More](https://medium.com/p/14206faf66cb) |
+| Wed, 31 Dec 2025 21:32:42 GMT | BigQuery Tag-Based Governance + Information Schema Audits: Enforce PII Boundaries in SQL | Yamishift | [Read More](https://medium.com/p/b2227a9951c1) |
 | Wed, 31 Dec 2025 21:22:53 GMT | Zs Cyber Protection Guard: Automating DNS Rotation for Enhanced Privacy | Ugochukwu Bernard Anyaogu-Ben | [Read More](https://medium.com/p/27b96fe13e17) |
 | Wed, 31 Dec 2025 21:19:28 GMT | Penetration Testing for weak ? | Salah_Taha | [Read More](https://medium.com/p/88eb41a95c51) |
 | Wed, 31 Dec 2025 21:18:28 GMT | Scaling Systems and Securing Data: My Journey as a Software Engineer | Adeleye Ayomide Tosin | [Read More](https://medium.com/p/fc60be209de8) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 31 Dec 2025 14:34:48 GMT | Proving Grounds DVR4 Walkthrough | Ryan Cham Rui Yang | [Read More](https://medium.com/p/39e2458ca79a) |
 | Wed, 31 Dec 2025 14:26:48 GMT | The SANS Vulnerability Management Maturity Model | Khalil Z. | [Read More](https://medium.com/p/da7d73df34cd) |
 | Wed, 31 Dec 2025 14:23:02 GMT | “Bug Bounty Bootcamp #8: Frontend vs. Backend — Mapping Where Vulnerabilities Live” | Aman Sharma | [Read More](https://medium.com/p/ff07e963b386) |
-| Wed, 31 Dec 2025 14:22:46 GMT | Eliza | Kluster66 | [Read More](https://medium.com/p/e54d9951ecb4) |
-| Wed, 31 Dec 2025 14:22:14 GMT | How to Securely Share .env Files Without Leaking API Keys | Madangopal | [Read More](https://medium.com/p/bb614f3a1f21) |
-| Wed, 31 Dec 2025 14:21:24 GMT | The Quantum cybersecurity Threat | Jan Skopal | [Read More](https://medium.com/p/8a9131d2e98d) |
