@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 17:34:52 GMT | How Google and Microsoft’s “Featured” Seal Became a License to Harvest Vulnerability | Victor Babaniyi | [Read More](https://medium.com/p/5c3c8eed96fb) |
+| Wed, 31 Dec 2025 17:34:29 GMT | The Silent AI Breach: How Autonomous Models Are Already Outpacing Cloud Security on AWS | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/6110c4c81ca5) |
+| Wed, 31 Dec 2025 17:25:19 GMT | The thing about roadmaps in cybersecurity… | HackWitHer | [Read More](https://medium.com/p/d12956b4869e) |
+| Wed, 31 Dec 2025 17:17:03 GMT | “New Year Greeting Could Hack Your Phone: APK and Spin & Win Scams Explained”. | Soundariya | [Read More](https://medium.com/p/cc18df482a1e) |
+| Wed, 31 Dec 2025 17:14:49 GMT | Hacking the OS: How I Built a “Ghost” Tor Injector from Scratch in C | Ujjwal Sharma | [Read More](https://medium.com/p/14a5a2f877ff) |
+| Wed, 31 Dec 2025 17:13:51 GMT | Anatomy of a Cyber Attack: How Defenders Fight Back | Shreyas Srinivasa | [Read More](https://medium.com/p/c75cc9ca1790) |
+| Wed, 31 Dec 2025 17:13:40 GMT | The $18 Million Daily Crime No One’s Talking About | Heesham Naji | [Read More](https://medium.com/p/e9f06b9172e2) |
+| Wed, 31 Dec 2025 17:13:22 GMT | How I Detected Anomalies in OpenSSH Logs Using Splunk. | Cyberfairy | [Read More](https://medium.com/p/82c8455ca2e6) |
 | Wed, 31 Dec 2025 17:01:51 GMT | Blockchain Wallet Password Recovery - Explained WhatsApp +14042456415 | Jennyblakes | [Read More](https://medium.com/p/6227a9265bfc) |
 | Wed, 31 Dec 2025 17:01:27 GMT | Moving Forward with Memory Analysis: From Volatility to MemProcFS : Part 2 | Dean | [Read More](https://medium.com/p/3d4c38033515) |
 | Wed, 31 Dec 2025 17:01:10 GMT | Red Teaming LLMs and AI Agents at scale in Microsoft Foundry | Arun Balaji Giridharan | [Read More](https://medium.com/p/13cdf3918596) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 31 Dec 2025 11:10:02 GMT | AI in the Educating System | Aneesha Kakar | [Read More](https://medium.com/p/0de518c71eb9) |
 | Wed, 31 Dec 2025 11:04:38 GMT | Wi-Fi Hücumları və Kibertəhlükəsizlik: WPA, Evil Twin və MITM Riskləri | cybershieldy.com | [Read More](https://medium.com/p/0dbe00063980) |
 | Wed, 31 Dec 2025 10:57:20 GMT | Finished Tryhackme Advent Of Cyber 2025! | Kashyap Pandya | [Read More](https://medium.com/p/bf477ec226a3) |
-| Wed, 31 Dec 2025 10:51:51 GMT | Ethical Hacking Course In Trivandrum | Digitalshawarma | [Read More](https://medium.com/p/1872c73d6b4c) |
-| Wed, 31 Dec 2025 10:47:03 GMT | End-to-End OT Cybersecurity Services for Critical Operations | Arista Cyber | [Read More](https://medium.com/p/33cc4a5a3d89) |
-| Wed, 31 Dec 2025 10:44:29 GMT | OAuth 2.0 in Ruby on Rails: A Practical, Step-by-Step Guide | Ravi Prakash | [Read More](https://medium.com/p/e9b2425c1924) |
-| Wed, 31 Dec 2025 10:44:03 GMT | How to Harden Your Home Wi-Fi Network | Sam Writes Security | [Read More](https://medium.com/p/de49e0f0487a) |
-| Wed, 31 Dec 2025 10:43:43 GMT | Reality of Bug Bounty / Bug Hunting | harry ( aka @stackharry1 ) | [Read More](https://medium.com/p/b11afa350187) |
-| Wed, 31 Dec 2025 10:42:22 GMT | How I Passed the AZ-500 Exam : Practical Tips for Aspiring Azure Security Engineers | Florence Nwizugbe | [Read More](https://medium.com/p/071bb65a34f8) |
-| Wed, 31 Dec 2025 10:33:00 GMT | New Year, Same Breaches: Why January Is the Hottest and Most Boring Month in Cybersecurity | Martin Simonyan | [Read More](https://medium.com/p/d9f32cba2e76) |
-| Wed, 31 Dec 2025 10:32:52 GMT | Querying your cloudtrail logs | Bart Briek | [Read More](https://medium.com/p/13803c4fb299) |
