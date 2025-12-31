@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 19:11:08 GMT | SURVIVING THE PASSWORD GAMES | Mahika Nanda | [Read More](https://medium.com/p/00c89bbaaf77) |
+| Wed, 31 Dec 2025 19:06:42 GMT | Networking Troubleshooting Lab: Simulating Real Help Desk Internet Issues | Kai Gallette | [Read More](https://medium.com/p/ea979a238edb) |
+| Wed, 31 Dec 2025 19:05:53 GMT | Writing Is Not Talent — It’s Vulnerability | Writersemail | [Read More](https://medium.com/p/bffa117e078f) |
+| Wed, 31 Dec 2025 19:02:42 GMT | Alert! A Silent Phone Scam Will Drain Your Bank Account… | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/684df1228d2f) |
+| Wed, 31 Dec 2025 19:02:05 GMT | Strengthening Cybersecurity Through Data-Driven Collaboration | Valentin Podkamennyi | [Read More](https://medium.com/p/8f34157b1f5a) |
+| Wed, 31 Dec 2025 18:49:46 GMT | AI, Security, and Data: The Quiet Trio That Will Decide the Next Decade | Anand Galla | [Read More](https://medium.com/p/35f3f9a8f22c) |
+| Wed, 31 Dec 2025 18:48:54 GMT | My Bug Bounty Learning Journey as a Beginner from India. | Hacker_team_one | [Read More](https://medium.com/p/500b4becdf86) |
+| Wed, 31 Dec 2025 18:48:38 GMT | Siber Vatan 2025 CTF Çözümleri | omertugrulbayram | [Read More](https://medium.com/p/b17c70af0fe0) |
+| Wed, 31 Dec 2025 18:40:00 GMT | Siber Güvenlik | g.o. | [Read More](https://medium.com/p/aee586b9775c) |
+| Wed, 31 Dec 2025 18:35:14 GMT | CORS: When Origin Trust Goes Wrong | M. Mustafa Hussaini | [Read More](https://medium.com/p/61f1a91ded53) |
+| Wed, 31 Dec 2025 18:32:23 GMT | The Year I Planned to Hack — And Learned to Adapt Instead | Hitesh P. Solanki | [Read More](https://medium.com/p/a193cd791eb9) |
 | Wed, 31 Dec 2025 18:23:45 GMT | How Hackers Can Expose Your IP in Seconds And Why It’s Usually Your Own Mistake | Fareed Masood | [Read More](https://medium.com/p/7d2894b03b74) |
 | Wed, 31 Dec 2025 18:23:19 GMT | Blast from the past - picoCTF2024 Write-up | Alireza Ghorbani | [Read More](https://medium.com/p/d6c9c12ab5b3) |
 | Wed, 31 Dec 2025 18:17:47 GMT | Ağ (Network)Temelleri | g.o. | [Read More](https://medium.com/p/9360412cf57f) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 31 Dec 2025 12:57:02 GMT | Healing After Betrayal. | WordsbyBano | [Read More](https://medium.com/p/777489bd24f8) |
 | Wed, 31 Dec 2025 12:55:32 GMT | Guardrails Over Gates: A Smarter Way to Enable Security Without Slowing DevOps | Ravi Rajput | [Read More](https://medium.com/p/60b96603ce10) |
 | Wed, 31 Dec 2025 12:44:24 GMT | React2Shell: How One Flaw Unleashed a Global Storm of Spies, Miners, and Malware | Tech Security | [Read More](https://medium.com/p/2c21f8a57569) |
-| Wed, 31 Dec 2025 12:41:31 GMT | The Art of Invisibility: A Deep Dive into Modern EDR Evasion Techniques | Santhosh Adiga U | [Read More](https://medium.com/p/edead8eca55c) |
-| Wed, 31 Dec 2025 12:37:23 GMT | The Power of 2FA & MFA | AZUBUIKE NWENEWO | [Read More](https://medium.com/p/2d1b1c333150) |
-| Wed, 31 Dec 2025 12:21:23 GMT | Understanding Advanced SSRF Attacks and Their Escalation | Afi0pchik | [Read More](https://medium.com/p/59c4d24a811a) |
-| Wed, 31 Dec 2025 12:13:35 GMT | Dev Retro 2025: Journey in review | Dhanush N | [Read More](https://medium.com/p/d8a90f52e008) |
-| Wed, 31 Dec 2025 12:09:30 GMT | Why Most Dangerous Cybersecurity Threats for Your Business | networsys | [Read More](https://medium.com/p/304c0102e295) |
-| Wed, 31 Dec 2025 12:08:46 GMT | Starting My Journey to Become a SOC Analyst | Hamid Hasanov | [Read More](https://medium.com/p/f7a43b332f60) |
-| Wed, 31 Dec 2025 12:07:04 GMT | The Top MSP Cybersecurity Challenges to Prepare for | NAKIVO | [Read More](https://medium.com/p/7604973cd46a) |
-| Wed, 31 Dec 2025 12:03:35 GMT | AI DevOps Platforms Explained: Automation, Monitoring, and Security Combined | Devseccopsai | [Read More](https://medium.com/p/c1203e2449b2) |
-| Wed, 31 Dec 2025 12:02:24 GMT | The Invisible Costs of Our Digital Life | Angus Peterson | [Read More](https://medium.com/p/692915c71ab8) |
-| Wed, 31 Dec 2025 12:01:43 GMT | From Theory to Risk Thinking: My Second Step into Cybersecurity | Callum - Cyber Security Journey | [Read More](https://medium.com/p/d2c09af06011) |
-| Wed, 31 Dec 2025 11:46:23 GMT | Risk-Based Alerting (RBA) Matematiği | Furkan Ünlü | [Read More](https://medium.com/p/16ed21904f8b) |
