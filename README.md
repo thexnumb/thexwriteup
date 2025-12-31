@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 20:10:08 GMT | The 3-Part Framework I Use to Turn Threats Into Strength — From Risk to Resilience: My Core… | Fook Hwa Tan | [Read More](https://medium.com/p/436ca2855d2b) |
+| Wed, 31 Dec 2025 20:01:16 GMT | What is VAPT? Vulnerability Assessment and Penetration Testing Explained with Real Example | Abhishek Mahadik | [Read More](https://medium.com/p/3e37ccf32899) |
+| Wed, 31 Dec 2025 19:48:30 GMT | AI is Transforming Industries, But Risk is Optional | Sandeep K. | [Read More](https://medium.com/p/5ee6a0f7c86c) |
+| Wed, 31 Dec 2025 19:47:30 GMT | ’25 — taking a leap | Olufela Osideko | [Read More](https://medium.com/p/5e5c86125ba6) |
 | Wed, 31 Dec 2025 19:34:53 GMT | Partners in Protection: The Next Era of Community Safety | Frank Elsner | [Read More](https://medium.com/p/5acfcea250f2) |
+| Wed, 31 Dec 2025 19:32:24 GMT | If Users Don’t Understand It in 5 Seconds, It’s Dead | Mughira Ahmed | [Read More](https://medium.com/p/e9cea443c722) |
 | Wed, 31 Dec 2025 19:24:30 GMT | Post-2025 Cybernetic Sovereignty Theory (PCST) | Mouad B. | [Read More](https://medium.com/p/fe2a590a9677) |
 | Wed, 31 Dec 2025 19:14:30 GMT | A New Year Thank You to Everyone Walking This Path Together | Viratavi | [Read More](https://medium.com/p/8a9143fcb4cd) |
 | Wed, 31 Dec 2025 19:12:51 GMT | When Time Becomes a Vulnerability: Breaking Chronohack’s Token Generator | Gregory Kovalchuk | [Read More](https://medium.com/p/8f1266c0f612) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 31 Dec 2025 13:44:17 GMT | GitHub Recon: Where the Real Bugs Quietly Begin | Purushotham.R | [Read More](https://medium.com/p/72169baa58c8) |
 | Wed, 31 Dec 2025 13:28:27 GMT | Small Business Cybersecurity Checklist: Defend Against Phishing & Ransomware | Technijian | [Read More](https://medium.com/p/554a2bd53312) |
 | Wed, 31 Dec 2025 13:21:27 GMT | The Marketplace — Write-Up | ManuM0re | [Read More](https://medium.com/p/b7be1ac968f9) |
-| Wed, 31 Dec 2025 13:21:24 GMT | Chapter 2: The AD Attack Surface | Aang | [Read More](https://medium.com/p/5ba8a56da958) |
-| Wed, 31 Dec 2025 13:18:45 GMT | Chapter 1— Introduction to Active Directory | Aang | [Read More](https://medium.com/p/34df1bbaf117) |
-| Wed, 31 Dec 2025 13:18:15 GMT | API Security Testing Methods and Tools to Use | james miller | [Read More](https://medium.com/p/b2b62dc7e1a5) |
-| Wed, 31 Dec 2025 13:16:09 GMT | Why Shorter SSL Lifetimes Aren’t the Safety Net They Seem | Dinu Gitlan | [Read More](https://medium.com/p/6b5b572b46a7) |
-| Wed, 31 Dec 2025 13:08:36 GMT | I’m Starting My SOC Journey | Drishti Pandey | [Read More](https://medium.com/p/6e45b1c6dbde) |
