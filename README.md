@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 10:43:43 GMT | Reality of Bug Bounty / Bug Hunting | harry ( aka @stackharry1 ) | [Read More](https://medium.com/p/b11afa350187) |
+| Wed, 31 Dec 2025 10:33:00 GMT | New Year, Same Breaches: Why January Is the Hottest and Most Boring Month in Cybersecurity | Martin Simonyan | [Read More](https://medium.com/p/d9f32cba2e76) |
+| Wed, 31 Dec 2025 10:26:41 GMT | Your Security Budget Only Covers One: Password Manager or MFA? | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/22e8d4ca59db) |
+| Wed, 31 Dec 2025 10:20:20 GMT | Telegram@ablertgonzalez Earn 2500 dollars daily via PayPal cashapp Bank TransfesCc cvv FULLZ dumps… | Gonz | [Read More](https://medium.com/p/94ccedc4af59) |
 | Wed, 31 Dec 2025 10:19:56 GMT | Sharepoint Backdoor To Doomsday | Decoded Intel | [Read More](https://medium.com/p/a3fd535070db) |
 | Wed, 31 Dec 2025 10:19:08 GMT | Why Most Cyber Attacks in 2026 Will Succeed — Even in “Secure” Organizations
 Cybercrime is evolving… | Ankit rai | [Read More](https://medium.com/p/025ee1ec8940) |
@@ -109,7 +113,3 @@ Cybercrime is evolving… | Ankit rai | [Read More](https://medium.com/p/025ee1e
 | Wed, 31 Dec 2025 04:27:43 GMT | Building My Penetration Testing Foundation: What Truly Helped Me in 2025 …. | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/d0b60514c309) |
 | Wed, 31 Dec 2025 04:18:39 GMT | Wires of Fear: When Electricity Met AI’s Shadow | Sidhant Shekhar | [Read More](https://medium.com/p/18626a1fddc7) |
 | Wed, 31 Dec 2025 04:16:37 GMT | Hands-On SQL Injection Using Burp Suite: A Beginner’s Walkthrough | CRAC Learning | [Read More](https://medium.com/p/c32e11b48ac3) |
-| Wed, 31 Dec 2025 04:14:44 GMT | PyCon ID 2025: Membangun Automated Security Pipeline di Python Environment | Mahaputra Ilham Awal | [Read More](https://medium.com/p/3a48a3f299c8) |
-| Wed, 31 Dec 2025 04:02:23 GMT | The $250K Developer Stack Nobody Saw Coming | The Shipping Engineer | [Read More](https://medium.com/p/d9997a00aa14) |
-| Wed, 31 Dec 2025 04:01:58 GMT | 50M$+ Bug Class: A Practical Guide to Solana Account Confusion | Turk | [Read More](https://medium.com/p/afb01224d955) |
-| Wed, 31 Dec 2025 03:59:18 GMT | JWT & Token-Based Authentication —  From Login to Token Expiry | Stoic Engineer | [Read More](https://medium.com/p/3668f0de82b3) |
