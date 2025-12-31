@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 20:40:35 GMT | Top Software That Can Boost Your Career or Income in 2026 | The Explainer | [Read More](https://medium.com/p/c194c840f3ff) |
+| Wed, 31 Dec 2025 20:36:51 GMT | Top 10 Cybersecurity Predictions for 2026 | Matthew.Rosenquist | [Read More](https://medium.com/p/4eef64c8f297) |
+| Wed, 31 Dec 2025 20:27:03 GMT | After More Than 2 Years in Bug Bounty: Here’s My Methodology | KaremElsayed | [Read More](https://medium.com/p/0157629e2d7d) |
+| Wed, 31 Dec 2025 20:17:38 GMT | La Crise de la Confiance : Du Web of Trust à Hagrid | El Hadji Sidya Badji | [Read More](https://medium.com/p/d5903b37ecc3) |
+| Wed, 31 Dec 2025 20:12:51 GMT | Privacy Isn’t Just Legal — It’s Strategic. Here’s How We Do It. | Fook Hwa Tan | [Read More](https://medium.com/p/be958eea226a) |
 | Wed, 31 Dec 2025 20:10:08 GMT | The 3-Part Framework I Use to Turn Threats Into Strength — From Risk to Resilience: My Core… | Fook Hwa Tan | [Read More](https://medium.com/p/436ca2855d2b) |
 | Wed, 31 Dec 2025 20:01:16 GMT | What is VAPT? Vulnerability Assessment and Penetration Testing Explained with Real Example | Abhishek Mahadik | [Read More](https://medium.com/p/3e37ccf32899) |
 | Wed, 31 Dec 2025 19:48:30 GMT | AI is Transforming Industries, But Risk is Optional | Sandeep K. | [Read More](https://medium.com/p/5ee6a0f7c86c) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 31 Dec 2025 14:02:27 GMT | The $18/Hour Hacker: How AI Redefined the Economics of Cyber Attack | MohamedAbdelmenem | [Read More](https://medium.com/p/55ee7a0bd0e3) |
 | Wed, 31 Dec 2025 13:59:37 GMT | Beyond Basic Encryption: 5 Reasons Why Stegure is the Ultimate Digital Vault | Stegure.in | [Read More](https://medium.com/p/1533c0752ec2) |
 | Wed, 31 Dec 2025 13:54:05 GMT | The Logic Behind Nmap Scan Options and How They Work Internally | Gajanan Tayde | [Read More](https://medium.com/p/bed6ef974b2f) |
-| Wed, 31 Dec 2025 13:53:16 GMT | Stop Hiding Passwords in Your Notes App: Here’s a Better Way | Stegure.in | [Read More](https://medium.com/p/639ceaf24bbf) |
-| Wed, 31 Dec 2025 13:45:33 GMT | Cyber Security Trends Of 2026 That Business Leaders Cannot Ignore Now — SJ Innovation LLC | SJ Innovation | [Read More](https://medium.com/p/5623a15aa56a) |
-| Wed, 31 Dec 2025 13:44:17 GMT | GitHub Recon: Where the Real Bugs Quietly Begin | Purushotham.R | [Read More](https://medium.com/p/72169baa58c8) |
-| Wed, 31 Dec 2025 13:28:27 GMT | Small Business Cybersecurity Checklist: Defend Against Phishing & Ransomware | Technijian | [Read More](https://medium.com/p/554a2bd53312) |
-| Wed, 31 Dec 2025 13:21:27 GMT | The Marketplace — Write-Up | ManuM0re | [Read More](https://medium.com/p/b7be1ac968f9) |
