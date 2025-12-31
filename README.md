@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 22:23:38 GMT | Stack Traces : Unveiling attack surface | TheCzar | [Read More](https://medium.com/p/c2eb4e815a65) |
+| Wed, 31 Dec 2025 22:19:56 GMT | Prompt Injection: How Attackers Trick AI Into Revealing Its Secrets | Will Giles - Cybersecurity | [Read More](https://medium.com/p/afc0ff4cd5b9) |
 | Wed, 31 Dec 2025 21:49:38 GMT | Advice and New Year’s Resolutions from a 21 Year-Old | Humna Sultan | [Read More](https://medium.com/p/7a0245fc178e) |
 | Wed, 31 Dec 2025 21:34:10 GMT | Another Medical Data Breach! The NS Support Cyberattack | Pipeline | [Read More](https://medium.com/p/14206faf66cb) |
 | Wed, 31 Dec 2025 21:32:42 GMT | BigQuery Tag-Based Governance + Information Schema Audits: Enforce PII Boundaries in SQL | Yamishift | [Read More](https://medium.com/p/b2227a9951c1) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 31 Dec 2025 14:42:46 GMT | A Beginner’s Guide To Security Without The Jargon | Plaintext with Rich | [Read More](https://medium.com/p/c4a98eda5651) |
 | Wed, 31 Dec 2025 14:40:51 GMT | How to Build Secure Login Systems for Web Apps | Ahmad Muzaffar B. | [Read More](https://medium.com/p/7aaee4310f6e) |
 | Wed, 31 Dec 2025 14:34:48 GMT | Proving Grounds DVR4 Walkthrough | Ryan Cham Rui Yang | [Read More](https://medium.com/p/39e2458ca79a) |
-| Wed, 31 Dec 2025 14:26:48 GMT | The SANS Vulnerability Management Maturity Model | Khalil Z. | [Read More](https://medium.com/p/da7d73df34cd) |
-| Wed, 31 Dec 2025 14:23:02 GMT | “Bug Bounty Bootcamp #8: Frontend vs. Backend — Mapping Where Vulnerabilities Live” | Aman Sharma | [Read More](https://medium.com/p/ff07e963b386) |
