@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 15:02:33 GMT | Cyber Briefing: 2025.12.31 | CyberMaterial | [Read More](https://medium.com/p/c1e4b3e276b3) |
+| Wed, 31 Dec 2025 15:02:03 GMT | 2025: My Year of Clarity, Courage, and Quiet Wins | Rebecca Ihenyen | [Read More](https://medium.com/p/d01dc68859a7) |
+| Wed, 31 Dec 2025 14:59:17 GMT | The Cybersecurity Reality of 2026: AI, Deepfakes, and Autonomous Attacks Autonomous Defense | Muhammad Afzal | [Read More](https://medium.com/p/52a39815c75d) |
+| Wed, 31 Dec 2025 14:54:00 GMT | Spotify’s Great Music Heist | O. J. Okpabi | [Read More](https://medium.com/p/7c2d009e0bf1) |
+| Wed, 31 Dec 2025 14:53:56 GMT | From Zero to Multi-Agent AI in 10 Minutes with n8n | Varun Setia | [Read More](https://medium.com/p/0b6179b9675a) |
+| Wed, 31 Dec 2025 14:51:12 GMT | The One-Letter Hack That Silenced Two-Factor Security Worldwide | O. J. Okpabi | [Read More](https://medium.com/p/ada6a55dd105) |
+| Wed, 31 Dec 2025 14:50:13 GMT | Cybersecurity in Google Cloud and Incident Case Studies | Dolly Aswin Harahap | [Read More](https://medium.com/p/5d94261e5470) |
+| Wed, 31 Dec 2025 14:47:24 GMT | The Companion of the Era: How AI Reshaped Technology, Security, and Our World in 2025 | Silico | [Read More](https://medium.com/p/c9271bc59343) |
+| Wed, 31 Dec 2025 14:44:08 GMT | How to deploy an end to end cybersecurity Architecture on Huawei Cloud | Javier Antonio Perez Pinto | [Read More](https://medium.com/p/89ff413a8987) |
+| Wed, 31 Dec 2025 14:42:46 GMT | A Beginner’s Guide To Security Without The Jargon | Plaintext with Rich | [Read More](https://medium.com/p/c4a98eda5651) |
+| Wed, 31 Dec 2025 14:40:51 GMT | How to Build Secure Login Systems for Web Apps | Ahmad Muzaffar B. | [Read More](https://medium.com/p/7aaee4310f6e) |
 | Wed, 31 Dec 2025 14:34:48 GMT | Proving Grounds DVR4 Walkthrough | Ryan Cham Rui Yang | [Read More](https://medium.com/p/39e2458ca79a) |
 | Wed, 31 Dec 2025 14:26:48 GMT | The SANS Vulnerability Management Maturity Model | Khalil Z. | [Read More](https://medium.com/p/da7d73df34cd) |
 | Wed, 31 Dec 2025 14:23:02 GMT | “Bug Bounty Bootcamp #8: Frontend vs. Backend — Mapping Where Vulnerabilities Live” | Aman Sharma | [Read More](https://medium.com/p/ff07e963b386) |
@@ -102,14 +113,3 @@ Cybercrime is evolving… | Ankit rai | [Read More](https://medium.com/p/025ee1e
 | Wed, 31 Dec 2025 09:02:33 GMT | The Hidden Leak Source Most Companies Miss: Employee Personal Devices and Saved Logins | Alexandre Vandamme | [Read More](https://medium.com/p/b3a63de45da0) |
 | Wed, 31 Dec 2025 09:01:04 GMT | How to Develop a Cybersecurity Roadmap for Long-Term Resilience | Rahman Iqbal | [Read More](https://medium.com/p/d253230ea7b2) |
 | Wed, 31 Dec 2025 09:00:40 GMT | Reasons Your API Returns 403 With a Valid Token — and How to Fix Missing Role Mapping | Anh Trần Tuấn | [Read More](https://medium.com/p/46b0a139b512) |
-| Wed, 31 Dec 2025 08:59:34 GMT | Measuring Bugs by Time-to-Root: | Shivadharshan (Shan) Lingeswaran | [Read More](https://medium.com/p/6010b025ee46) |
-| Wed, 31 Dec 2025 08:59:25 GMT | Siber Güvenliğe İlk Adım —  Penetrasyon Testi Nedir ve Neden Önemlidir? | Gülbahar Dirik | [Read More](https://medium.com/p/029e23c8e5fb) |
-| Wed, 31 Dec 2025 08:56:43 GMT | 2025: What This Year Taught Me — And What I am Building in 2026 | Sandeep Kasturi | [Read More](https://medium.com/p/1e7a679a5f56) |
-| Wed, 31 Dec 2025 08:56:03 GMT | JWT Authentication Bypass | d7meealz | [Read More](https://medium.com/p/eebed5346079) |
-| Wed, 31 Dec 2025 08:50:42 GMT | How Hackers will use AI to scam you in 2026 | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/51d625e911f7) |
-| Wed, 31 Dec 2025 08:32:42 GMT | How to Check for Vulnerabilities in Your Docker Images using Trivy | Win Jinkawin | [Read More](https://medium.com/p/841a2d885769) |
-| Wed, 31 Dec 2025 08:27:23 GMT | Year in Rewind: 2025 at QSS | QSS smart it | [Read More](https://medium.com/p/bc9a6b4230f5) |
-| Wed, 31 Dec 2025 08:26:20 GMT | Source Code Under Attack? How to Secure Your Application Supply Chain Before It’s Too Late | Sabbir Hossain | [Read More](https://medium.com/p/77093f131e3d) |
-| Wed, 31 Dec 2025 08:24:50 GMT | Role of Cyber Awareness in Preventing Digital Crimes | Tech Word | [Read More](https://medium.com/p/6e53f584cefc) |
-| Wed, 31 Dec 2025 08:08:21 GMT | TryHackMe Linux Fundamentals Part 2 | Ufuk Yaman | [Read More](https://medium.com/p/7ad621ff55b4) |
-| Wed, 31 Dec 2025 08:06:39 GMT | The Silent Data Leak That Could Bankrupt Your Startup | Raviteja Nekkalapu | [Read More](https://medium.com/p/04e75f14b2a2) |
