@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 06:26:09 GMT | Introducción a CrowdStrike CQL: tus primeras consultas en Advanced Event Search | Torres Hinojosa José Alfredo | [Read More](https://medium.com/p/424e1c7a81ad) |
+| Wed, 31 Dec 2025 06:22:08 GMT | What is a zero-day vulnerability, often seen in the news? | Niharika | [Read More](https://medium.com/p/fd9e5df92588) |
+| Wed, 31 Dec 2025 06:15:01 GMT | 7 New Year’s Resolutions For IT Leaders In 2026 | HostNOC | [Read More](https://medium.com/p/6a03318d93e1) |
+| Wed, 31 Dec 2025 06:09:57 GMT | Ensuring Compliance in ICT Projects: Adapting to Australia’s Regulatory Ecosystem | TechBlokes | [Read More](https://medium.com/p/c372c6ff7039) |
+| Wed, 31 Dec 2025 06:07:26 GMT | The Impact of Technology on Insurance Services | econcord | [Read More](https://medium.com/p/4a53dd5a216f) |
+| Wed, 31 Dec 2025 06:06:55 GMT | HIPAA Mobile QA Checklist: Your Testing Pipeline is a Compliance Risk | Om Narayan | [Read More](https://medium.com/p/5ae31ad4ea1e) |
+| Wed, 31 Dec 2025 06:04:31 GMT | AI-Powered Cybersecurity for IoT Devices: Your Secret Weapon Against Hackers | Ashok Verma | [Read More](https://medium.com/p/3b623c9dc546) |
+| Wed, 31 Dec 2025 06:02:25 GMT | Importance of Cyber Security Skills in IT Career Development | Jahanashabas | [Read More](https://medium.com/p/e0b5ff63d464) |
+| Wed, 31 Dec 2025 06:00:05 GMT | The Real Reason 4chan CAPTCHA Loops Aren’t Fixed by Changing IPs | Gabriele Wayner | [Read More](https://medium.com/p/898f16becaec) |
+| Wed, 31 Dec 2025 05:55:30 GMT | How Leading Companies Are Raising Cybersecurity Benchmarks | Kadhijahafiya | [Read More](https://medium.com/p/e6035bd2e823) |
+| Wed, 31 Dec 2025 05:54:50 GMT | Cyber Security Services Company: Protecting Businesses in a Digital-First World | Quickway Infosystems | [Read More](https://medium.com/p/9920d1a1505a) |
+| Wed, 31 Dec 2025 05:50:12 GMT | PumpkinGarden: A Multi-User Linux Lab Focused on Enumeration, Clue Chaining, and Privilege… | Vivektumma27 | [Read More](https://medium.com/p/d5a75b30ebae) |
+| Wed, 31 Dec 2025 05:41:18 GMT | Is Phishing still successful in 2025? | Nithin | [Read More](https://medium.com/p/9ef5a8347dda) |
 | Wed, 31 Dec 2025 05:32:41 GMT | SEO Is Like a Layered Cake: Search, Answers, and Discovery All Baked Together | Pranali | [Read More](https://medium.com/p/4bf6bc01133f) |
 | Wed, 31 Dec 2025 05:28:21 GMT | The Predator Files: How Spyware Sanctions Removal Reveals the Complexities of Cybersecurity Policy | CCD-IS | [Read More](https://medium.com/p/90a879e27396) |
 | Wed, 31 Dec 2025 05:22:34 GMT | 8 Best Practices for Securing Your Business with Managed IT Services | Elevate | [Read More](https://medium.com/p/4c54d4fc7c91) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Dec 2025 20:37:30 GMT | Nice question. Clean profile. How meta question turn chats into recon pipelines. | Irina Y | [Read More](https://medium.com/p/1033c9797ae1) |
 | Tue, 30 Dec 2025 20:35:48 GMT | Basic SSRF against another back-end system | Muhammad Zain | [Read More](https://medium.com/p/35db514b2fe3) |
 | Tue, 30 Dec 2025 20:32:37 GMT | The Phishing Pond — TryHackMe - Walkthrough | Frhn.Isml | [Read More](https://medium.com/p/c50341f9f09b) |
-| Tue, 30 Dec 2025 20:26:24 GMT | I Tried to Recover My WhatsApp Chats Using Digital Forensics, and as a Beginner, It Was One of the… | Dhruv Dawar | [Read More](https://medium.com/p/f67776f5b62c) |
-| Tue, 30 Dec 2025 20:23:12 GMT | Vulnerability Management (ASSESS): The Phase Where People Are Dying and We Decide Who Gets Hope | Sourabh Grover | [Read More](https://medium.com/p/3dd9f9f42b0e) |
-| Tue, 30 Dec 2025 20:20:04 GMT | Building Your First AI-Powered Security Tool: A Practical Guide to Learning AI and Cybersecurity | Bharat Kothari | [Read More](https://medium.com/p/d7e58ee3199d) |
-| Tue, 30 Dec 2025 19:56:18 GMT | Sensitive Information Disclosure via Publicly Accessible .user.ini at indrive | Kareem Husein Abdelhameed | [Read More](https://medium.com/p/51b83f9a90f4) |
-| Tue, 30 Dec 2025 19:50:23 GMT | Facebook Credential Phishing Campaign Delivered via Gmail Infrastructure | Ahmad A Abdulla | [Read More](https://medium.com/p/2cea917c3aea) |
-| Tue, 30 Dec 2025 19:47:48 GMT | Understanding Access Control Models: DAC, MAC, RBAC, ABAC | Damir Kolobaric | [Read More](https://medium.com/p/7852e67701ab) |
-| Tue, 30 Dec 2025 19:44:19 GMT | A Markov Babble Generator | Ben Santora | [Read More](https://medium.com/p/ab3f789e8216) |
-| Tue, 30 Dec 2025 19:44:13 GMT | Basic Pentesting no TryHackMe | Matheus Viana | [Read More](https://medium.com/p/4d095eed4d95) |
-| Tue, 30 Dec 2025 19:42:23 GMT | Zero-Trust Security Powered by AI Analytics: The Future of Cyber Defense | Sabit Chandwale | [Read More](https://medium.com/p/6c824969fa07) |
-| Tue, 30 Dec 2025 19:37:07 GMT | Cloud Security — Important terms (Part-1) | Soumya Sri | [Read More](https://medium.com/p/f8a08d783515) |
-| Tue, 30 Dec 2025 19:34:56 GMT | CTF Write-Up : Hack the Scammer CTF 2025 (Scenario 2 Part 5 — Geo Guesser 2) | Reonomu | [Read More](https://medium.com/p/ea4e4707e24f) |
-| Tue, 30 Dec 2025 19:34:53 GMT | What Really Happens When You Download a Movie on a Streaming App | Vamsi K Palle | [Read More](https://medium.com/p/a448c5b10d39) |
-| Tue, 30 Dec 2025 19:30:34 GMT | Hybrid Cloud Security Challenges and Solutions Businesses Must Prepare for in 2026 | Techridge Solutions | [Read More](https://medium.com/p/8a645cb1275c) |
