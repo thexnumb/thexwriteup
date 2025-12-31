@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 07:18:56 GMT | Best Staffing Services Company for On-Site and Remote Jobs: A Practical Guide | CyberAube Technologies | [Read More](https://medium.com/p/298247499768) |
+| Wed, 31 Dec 2025 07:14:46 GMT | Navigating Agentic AI: Key Challenges and Design Strategies for Production Systems | Raghunandan Gupta | [Read More](https://medium.com/p/ba1b7c367159) |
+| Wed, 31 Dec 2025 07:06:10 GMT | IRS Phone Number to Speak to a Live Person — Full 2026 Helpline Guide | Motherlandlove | [Read More](https://medium.com/p/74a390f5f312) |
+| Wed, 31 Dec 2025 07:04:21 GMT | Federated Learning 101: How Models Learn Without Sharing Data | Hemanth Sanisetty | [Read More](https://medium.com/p/b8c94d80d176) |
+| Wed, 31 Dec 2025 07:02:51 GMT | Understanding Kubernetes: Uses, Examples, and Real-World Applications | Dennis Duke | [Read More](https://medium.com/p/03bc8dbd2d93) |
+| Wed, 31 Dec 2025 07:01:09 GMT | Privacy-by-Design in Cross-Platform Mobile Apps (Flutter & React Native) | gadagool krishna | [Read More](https://medium.com/p/78ad6bb6df24) |
+| Wed, 31 Dec 2025 07:00:46 GMT | Top 20 Shadow IT Discovery Tools for Attack Surface Mapping: Learn How Pros Uncover Hidden Risks | Very Lazy Tech | [Read More](https://medium.com/p/32176e1e59b1) |
+| Wed, 31 Dec 2025 06:54:32 GMT | How to Choose the Best Cybersecurity Firm in Bangalore for Your Business | Cyberlancer | [Read More](https://medium.com/p/b7eb84f59aca) |
+| Wed, 31 Dec 2025 06:54:16 GMT | How I Discovered an SSRF Vulnerability in Ferrari’s System — and Earned a Place in Their Hall of… | Ninadgowda | [Read More](https://medium.com/p/3dca8f9f52db) |
+| Wed, 31 Dec 2025 06:49:30 GMT | Top 10 Cybersecurity Tools | cyber security Updates | [Read More](https://medium.com/p/c29ec83bce57) |
+| Wed, 31 Dec 2025 06:47:31 GMT | MOST COMMON TYPES OF MALWARE YOU SHOULD KNOWN | Vishalraj | [Read More](https://medium.com/p/00e5d34966dd) |
+| Wed, 31 Dec 2025 06:38:36 GMT | Jika TSMC Berinvestasi di Indonesia: Simbiosis Strategis dalam Ekosistem Bio-Semikonduktor… | Muhammad Farid Al Qadr | [Read More](https://medium.com/p/6c78f6471a04) |
 | Wed, 31 Dec 2025 06:26:09 GMT | Introducción a CrowdStrike CQL: tus primeras consultas en Advanced Event Search | Torres Hinojosa José Alfredo | [Read More](https://medium.com/p/424e1c7a81ad) |
 | Wed, 31 Dec 2025 06:22:08 GMT | What is a zero-day vulnerability, often seen in the news? | Niharika | [Read More](https://medium.com/p/fd9e5df92588) |
 | Wed, 31 Dec 2025 06:15:01 GMT | 7 New Year’s Resolutions For IT Leaders In 2026 | HostNOC | [Read More](https://medium.com/p/6a03318d93e1) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 30 Dec 2025 21:25:27 GMT | What Is a Dark Web Data Leak and Why It Matters | Tor BBB | [Read More](https://medium.com/p/045a199fd611) |
 | Tue, 30 Dec 2025 21:19:42 GMT | Tutorials Teach Muscle Memory. Labs Teach You How to Hack. | Derek Johnston | [Read More](https://medium.com/p/e47b101046c8) |
 | Tue, 30 Dec 2025 21:16:43 GMT | Part 1 — Where to? | Mehmet K | [Read More](https://medium.com/p/7faf5868a07d) |
-| Tue, 30 Dec 2025 21:15:56 GMT | Основи на Linux за хакери, част 0: Първи стъпки с Kali Linux | Hristo Hristov | [Read More](https://medium.com/p/eccc4f765f05) |
-| Tue, 30 Dec 2025 21:13:20 GMT | H.E.I.X. GLOBAL AGENCY — WEBSITE DEVELOPING SERVICES | Heixglobalagency Manager | [Read More](https://medium.com/p/17c570668312) |
-| Tue, 30 Dec 2025 21:13:18 GMT | H.E.I.X. GLOBAL AGENCY — WEBSITE DEVELOPING SERVICES | Heixglobaldirector | [Read More](https://medium.com/p/758a9c027c70) |
-| Tue, 30 Dec 2025 21:13:16 GMT | H.E.I.X. GLOBAL AGENCY — WEBSITE DEVELOPING SERVICES | Heixglobalagency Ceo | [Read More](https://medium.com/p/9a4ab38d5909) |
-| Tue, 30 Dec 2025 21:13:13 GMT | H.E.I.X. GLOBAL AGENCY — WEBSITE DEVELOPING SERVICES | H.E.I.X. Global Agency | [Read More](https://medium.com/p/b81251449cf9) |
-| Tue, 30 Dec 2025 20:58:04 GMT | When Cybersecurity Isn’t Enough: A Small Business Owner’s Nightmare | Krystal | [Read More](https://medium.com/p/ca1b98b62ffe) |
-| Tue, 30 Dec 2025 20:55:09 GMT | Humble Image Security Tracking with Syft & Grype under the hood | Sergei Ovchinnikov | [Read More](https://medium.com/p/76120e917029) |
-| Tue, 30 Dec 2025 20:54:23 GMT | Part 10: Drone Approval & Deployment. RMF, CMMC and ITAR. | Pipeline | [Read More](https://medium.com/p/803b261d5eb4) |
-| Tue, 30 Dec 2025 20:50:09 GMT | Nmap: Solving The Problems Nobody Talks About | 2No0b4YoU | [Read More](https://medium.com/p/b7e48bd395ea) |
-| Tue, 30 Dec 2025 20:37:30 GMT | Nice question. Clean profile. How meta question turn chats into recon pipelines. | Irina Y | [Read More](https://medium.com/p/1033c9797ae1) |
-| Tue, 30 Dec 2025 20:35:48 GMT | Basic SSRF against another back-end system | Muhammad Zain | [Read More](https://medium.com/p/35db514b2fe3) |
-| Tue, 30 Dec 2025 20:32:37 GMT | The Phishing Pond — TryHackMe - Walkthrough | Frhn.Isml | [Read More](https://medium.com/p/c50341f9f09b) |
