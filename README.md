@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 21:10:25 GMT | 87,000 MongoDB Servers Exposed: How MongoBleed is Leaking Your Secrets Right Now | Ved | [Read More](https://medium.com/p/84ce620d7c88) |
+| Wed, 31 Dec 2025 21:06:58 GMT | The Current State of AI Security: Lessons from Mark Russinovich’s ACM Tech Talk | Arsen Vladimirskiy | [Read More](https://medium.com/p/c6ac5a3f38ca) |
+| Wed, 31 Dec 2025 20:53:41 GMT | Cyberattacks & Ransomware Attacks of 2025: The Biggest Fallouts, Breaches & Lessons | IT_Engineer | [Read More](https://medium.com/p/130944379009) |
+| Wed, 31 Dec 2025 20:53:24 GMT | The AI Feature No One Should Have Built: Designing Against Non-Consensual Intimate Imagery | Adedayo Agarau | [Read More](https://medium.com/p/6de0e7bf4a76) |
+| Wed, 31 Dec 2025 20:51:04 GMT | Modernizing On-Prem Infrastructure: Building a Secure 4-Node Proxmox Cluster with Zero Trust Access | Amila kothalawala | [Read More](https://medium.com/p/a270e753f6e0) |
 | Wed, 31 Dec 2025 20:40:35 GMT | Top Software That Can Boost Your Career or Income in 2026 | The Explainer | [Read More](https://medium.com/p/c194c840f3ff) |
 | Wed, 31 Dec 2025 20:36:51 GMT | Top 10 Cybersecurity Predictions for 2026 | Matthew.Rosenquist | [Read More](https://medium.com/p/4eef64c8f297) |
 | Wed, 31 Dec 2025 20:27:03 GMT | After More Than 2 Years in Bug Bounty: Here’s My Methodology | KaremElsayed | [Read More](https://medium.com/p/0157629e2d7d) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 31 Dec 2025 14:20:25 GMT | My 2025 Pentesting Arsenal: Custom Tools & Scripts | Taulan Zauzanov | [Read More](https://medium.com/p/cf3904247f1f) |
 | Wed, 31 Dec 2025 14:12:53 GMT | Introduction to Wazuh: Part 3: Sysmon Optimization, Custom Wazuh Rules, and APT Simulation | Allen Ace | [Read More](https://medium.com/p/f2f106d922f0) |
 | Wed, 31 Dec 2025 14:10:14 GMT | Why Many Businesses Spend More on Cybersecurity but Still Feel Exposed | Cameron Nyack | [Read More](https://medium.com/p/9f90feb955db) |
-| Wed, 31 Dec 2025 14:04:40 GMT | ML Case Study: Abnormal Behavior Detection, Interpretation, and Documentation. | Kenechi Ojukwu | [Read More](https://medium.com/p/a1bb75635f23) |
-| Wed, 31 Dec 2025 14:02:41 GMT | n8n Security Vulnerability —  CVE-2025–68613 | Mr.Cool | [Read More](https://medium.com/p/8f1187f48fb7) |
-| Wed, 31 Dec 2025 14:02:27 GMT | The $18/Hour Hacker: How AI Redefined the Economics of Cyber Attack | MohamedAbdelmenem | [Read More](https://medium.com/p/55ee7a0bd0e3) |
-| Wed, 31 Dec 2025 13:59:37 GMT | Beyond Basic Encryption: 5 Reasons Why Stegure is the Ultimate Digital Vault | Stegure.in | [Read More](https://medium.com/p/1533c0752ec2) |
-| Wed, 31 Dec 2025 13:54:05 GMT | The Logic Behind Nmap Scan Options and How They Work Internally | Gajanan Tayde | [Read More](https://medium.com/p/bed6ef974b2f) |
