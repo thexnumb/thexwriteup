@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 01:48:54 GMT | Top Bug Bounty Platforms | Shahzaib | [Read More](https://medium.com/p/b2c2dd135277) |
+| Wed, 31 Dec 2025 01:45:53 GMT | FortiCloud SSO Authentication Bypass Exposes the Urgency of Attack Surface–Focused Defense | Criminal IP | [Read More](https://medium.com/p/ae7500a7a6e1) |
+| Wed, 31 Dec 2025 01:38:26 GMT | The Dedicated Server Security Best Practices | Chiro Adsmedia | [Read More](https://medium.com/p/b50ad308c99e) |
+| Wed, 31 Dec 2025 01:36:55 GMT | $500 Bounty: How a Magic Login Link Led to Full Account Takeover | Monika sharma | [Read More](https://medium.com/p/f726be2ee5b7) |
+| Wed, 31 Dec 2025 01:35:53 GMT | Steganography Explained: How I Found a Hidden Message Inside this Image | Raymond Ebonine | [Read More](https://medium.com/p/7b9aa60e2fc5) |
+| Wed, 31 Dec 2025 01:32:58 GMT | Poem Of the Week by Ethan Bell | Ethan Bell | [Read More](https://medium.com/p/85c78222cccd) |
+| Wed, 31 Dec 2025 01:26:25 GMT | An OSINT Manifesto for the New Year: Less Noise, More Signal | Sam Galope | [Read More](https://medium.com/p/144d4a5e0105) |
+| Wed, 31 Dec 2025 01:09:57 GMT | picoCTF#1: Cookie Monster Secret Recipe (Easy) | whiteButterfly | [Read More](https://medium.com/p/38443d2f21b5) |
+| Wed, 31 Dec 2025 01:03:27 GMT | How I Passed the eJPT: A Practical Approach to Enumeration and Mindset | Jabaribrown | [Read More](https://medium.com/p/07ed547ba4cd) |
+| Wed, 31 Dec 2025 00:50:55 GMT | If Philippine Cybersecurity Had a “Spotify Wrapped” for 2025, This Would Be It | Rommel Jay Gadil | [Read More](https://medium.com/p/6a3e822dacaa) |
+| Wed, 31 Dec 2025 00:50:34 GMT | How an English Teacher Unexpectedly Became a Hacker (and Passed eJPT) | Crystal_Cascade | [Read More](https://medium.com/p/83431997ad41) |
+| Wed, 31 Dec 2025 00:46:10 GMT | Learn a Word: CPTD | Ellen Auchter | [Read More](https://medium.com/p/050fda9c922a) |
+| Wed, 31 Dec 2025 00:44:15 GMT | From Ping to Shell: A Step-by-Step Guide to Exploiting MS17–010 (EternalBlue) | Krishna | [Read More](https://medium.com/p/1b343e6d74a9) |
+| Tue, 30 Dec 2025 23:48:28 GMT | TryHackMe Brute It Walkthrough | Rootseekerx0x | [Read More](https://medium.com/p/621f71f582bc) |
+| Tue, 30 Dec 2025 23:44:54 GMT | Drones | rk.infinity75 | [Read More](https://medium.com/p/93abf4fb0af8) |
 | Tue, 30 Dec 2025 23:32:27 GMT | Guardrails Over Gates: A Smarter Way to Enable Security Without Slowing DevOps | Ravi Rajput | [Read More](https://medium.com/p/aabd4605bbc2) |
+| Tue, 30 Dec 2025 23:32:23 GMT | Coffee Shots with Security Models: A Hilarious Guide to Bell-LaPadula ☕ | Pushpak Sharma | [Read More](https://medium.com/p/a5b6c230149f) |
 | Tue, 30 Dec 2025 23:13:27 GMT | ICS/OT Vendor Management-The Risk No One Owns | Muhammad Ali Khan | [Read More](https://medium.com/p/c9e0b9841775) |
 | Tue, 30 Dec 2025 23:06:29 GMT | The HTTP Request–Response Lifecycle | Martin Simonyan | [Read More](https://medium.com/p/b9c8cb7c4b61) |
 | Tue, 30 Dec 2025 23:01:42 GMT | Agent Skills: Governing Coding Agents Before They Govern Us | Dave Patten | [Read More](https://medium.com/p/f458c6d0eace) |
@@ -97,19 +113,3 @@ What Standup Comedy Reveals About Risk Communication | Jesse Nelson | [Read More
 | Tue, 30 Dec 2025 17:26:25 GMT | Defending Against Multi-Cloud Threats With an IT Managed Services Provider in Springfield, MO | PCnet | [Read More](https://medium.com/p/bd34f8bffcb2) |
 | Tue, 30 Dec 2025 17:19:24 GMT | From Zero to Secure — Hardening a Windows 10 Workstation | Secured By Sebastion | [Read More](https://medium.com/p/c5cc8a2939ae) |
 | Tue, 30 Dec 2025 17:16:43 GMT | A Cybersecurity Expert Just Shattered My Reality | TechToFit - Master Your Life with Tech | [Read More](https://medium.com/p/f1d9515f3e77) |
-| Tue, 30 Dec 2025 17:16:23 GMT | Managing Cyber Risk in a World of Digital Change: Heraclitus’s Lessons on Impermanence | Brian Haman, PhD | [Read More](https://medium.com/p/972fb5440dd8) |
-| Tue, 30 Dec 2025 17:13:25 GMT | Cyber Security Foundation Series — Computer Networking Part -01 | Kamal Kishor Mahto | [Read More](https://medium.com/p/bbbdac41fecc) |
-| Tue, 30 Dec 2025 17:10:43 GMT | Learning Reverse Engineering: CH00 | Haridasmahato | [Read More](https://medium.com/p/855231c7b541) |
-| Tue, 30 Dec 2025 17:10:40 GMT | Why Technology Alone Doesn’t Transform Services | Franklyn Obumneme Enyi | [Read More](https://medium.com/p/e411dfe4f9b1) |
-| Tue, 30 Dec 2025 17:10:30 GMT | Got the Next.js Security Alert? Complete Breakdown of CVE-2025–66478 | Jyoti Joshi | [Read More](https://medium.com/p/8640d422bffd) |
-| Tue, 30 Dec 2025 17:06:55 GMT | Why Hackers Don’t Break Systems—People Do | Mubashir | [Read More](https://medium.com/p/f5898fbc4d36) |
-| Tue, 30 Dec 2025 17:06:35 GMT | Day 148 — Behemoth Level-5 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/95706ff3b2e1) |
-| Tue, 30 Dec 2025 16:53:32 GMT | Breaking Free from the Monolith: How I Refactored JADX-AI-MCP Into Modular Sanity | Jafar Pathan | [Read More](https://medium.com/p/83408ce2c761) |
-| Tue, 30 Dec 2025 16:53:00 GMT | A Simple Checklist That Improved My Bug Hunting Results | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/2db9bbc67803) |
-| Tue, 30 Dec 2025 16:49:45 GMT | Cybersecurity: Why Digital Safety Is No Longer Optional | Sneha | [Read More](https://medium.com/p/7d17b9966fc3) |
-| Tue, 30 Dec 2025 16:39:31 GMT | Endpoint Investigation Made Easier with SOCFORTRESS CoPilot and Velociraptor | SOCFortress | [Read More](https://medium.com/p/5827c81729d2) |
-| Tue, 30 Dec 2025 16:35:07 GMT | The Utter Nightmare of Social Media Platforms. And the Worst Is Still Ahead. | KC Goundiam | [Read More](https://medium.com/p/fd52dbfadcf3) |
-| Tue, 30 Dec 2025 16:29:20 GMT | Bandit Level 7 to 8: The Art of Text Searching and Filtering | Sivanesan M | [Read More](https://medium.com/p/18f41ed63a99) |
-| Tue, 30 Dec 2025 16:26:39 GMT | SpiderFoot | Manas Mahato | [Read More](https://medium.com/p/a126c17ec9b4) |
-| Tue, 30 Dec 2025 16:26:26 GMT | I Couldn’t Find the Tool I Needed for Web Security Testing — So I Built It | Alareqi | [Read More](https://medium.com/p/52a0cef69687) |
-| Tue, 30 Dec 2025 16:24:46 GMT | Blocks for the Year: A review | Greg Heffner | [Read More](https://medium.com/p/e28e55f030e4) |
