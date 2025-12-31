@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 31 Dec 2025 19:34:53 GMT | Partners in Protection: The Next Era of Community Safety | Frank Elsner | [Read More](https://medium.com/p/5acfcea250f2) |
+| Wed, 31 Dec 2025 19:24:30 GMT | Post-2025 Cybernetic Sovereignty Theory (PCST) | Mouad B. | [Read More](https://medium.com/p/fe2a590a9677) |
+| Wed, 31 Dec 2025 19:14:30 GMT | A New Year Thank You to Everyone Walking This Path Together | Viratavi | [Read More](https://medium.com/p/8a9143fcb4cd) |
+| Wed, 31 Dec 2025 19:12:51 GMT | When Time Becomes a Vulnerability: Breaking Chronohack’s Token Generator | Gregory Kovalchuk | [Read More](https://medium.com/p/8f1266c0f612) |
 | Wed, 31 Dec 2025 19:11:08 GMT | SURVIVING THE PASSWORD GAMES | Mahika Nanda | [Read More](https://medium.com/p/00c89bbaaf77) |
 | Wed, 31 Dec 2025 19:06:42 GMT | Networking Troubleshooting Lab: Simulating Real Help Desk Internet Issues | Kai Gallette | [Read More](https://medium.com/p/ea979a238edb) |
 | Wed, 31 Dec 2025 19:05:53 GMT | Writing Is Not Talent — It’s Vulnerability | Writersemail | [Read More](https://medium.com/p/bffa117e078f) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 31 Dec 2025 13:18:15 GMT | API Security Testing Methods and Tools to Use | james miller | [Read More](https://medium.com/p/b2b62dc7e1a5) |
 | Wed, 31 Dec 2025 13:16:09 GMT | Why Shorter SSL Lifetimes Aren’t the Safety Net They Seem | Dinu Gitlan | [Read More](https://medium.com/p/6b5b572b46a7) |
 | Wed, 31 Dec 2025 13:08:36 GMT | I’m Starting My SOC Journey | Drishti Pandey | [Read More](https://medium.com/p/6e45b1c6dbde) |
-| Wed, 31 Dec 2025 13:02:29 GMT | Security Architectures for Industrial Facilities | Maxi | [Read More](https://medium.com/p/8e7d142d0d8e) |
-| Wed, 31 Dec 2025 12:57:02 GMT | Healing After Betrayal. | WordsbyBano | [Read More](https://medium.com/p/777489bd24f8) |
-| Wed, 31 Dec 2025 12:55:32 GMT | Guardrails Over Gates: A Smarter Way to Enable Security Without Slowing DevOps | Ravi Rajput | [Read More](https://medium.com/p/60b96603ce10) |
-| Wed, 31 Dec 2025 12:44:24 GMT | React2Shell: How One Flaw Unleashed a Global Storm of Spies, Miners, and Malware | Tech Security | [Read More](https://medium.com/p/2c21f8a57569) |
