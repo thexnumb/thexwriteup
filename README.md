@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 22:23:03 GMT | “Forgotten Drops”
+In a small town in Afghanistan, a girl named Neda lived with her family. | Sakhi Writes | [Read More](https://medium.com/p/2438a6f7ba71) |
 | Thu, 01 Jan 2026 22:10:53 GMT | MAGI: A Governed Autonomy Model for AI-Driven Cybersecurity Response | Fabio Henrique Rocha Pereira | [Read More](https://medium.com/p/7147c6e7a994) |
 | Thu, 01 Jan 2026 21:47:23 GMT | Boss of the SOC V1 (2015) Web Site Defacement Writeup | kuraido | [Read More](https://medium.com/p/9e04f96d5c24) |
 | Thu, 01 Jan 2026 21:44:34 GMT | El Cliente — Write-Up (The Hackers Labs) | ManuM0re | [Read More](https://medium.com/p/c4fc6c8c1eeb) |
@@ -112,4 +114,3 @@ if I need to let this go. | Vicky Writes | [Read More](https://medium.com/p/bad7
 | Thu, 01 Jan 2026 15:25:13 GMT | Finding Cross-Site Scripting (XSS) Vulnerabilities A Hands-On Guide | Vrushalipagar | [Read More](https://medium.com/p/ac445ba6967a) |
 | Thu, 01 Jan 2026 15:24:18 GMT | Hunting a Zero-Click Reflected XSS: Breaking Out of Attributes in WordPress Search | Maverick | [Read More](https://medium.com/p/70071a099dd3) |
 | Thu, 01 Jan 2026 15:20:58 GMT | MAGIC CHECK: Learning to Read What Files Actually Are | James Reeves | [Read More](https://medium.com/p/d135118dd288) |
-| Thu, 01 Jan 2026 15:16:14 GMT | The Chameleon Attack: Breaking Apache StreamPipes with Recursive Object Tampering (CVE-2025–47411) | Francisco Paz Mccausland | [Read More](https://medium.com/p/fce3702bc45d) |
