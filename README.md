@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 23:09:34 GMT | OhSINT TryHackme Write-up | cat0x01 | [Read More](https://medium.com/p/63058d01515c) |
+| Thu, 01 Jan 2026 22:39:01 GMT | The Pattern Behind Broken Access Control Failures in Modern Web Apps | Tyreek Haynes | [Read More](https://medium.com/p/63acb9492426) |
 | Thu, 01 Jan 2026 22:23:03 GMT | “Forgotten Drops”
 In a small town in Afghanistan, a girl named Neda lived with her family. | Sakhi Writes | [Read More](https://medium.com/p/2438a6f7ba71) |
 | Thu, 01 Jan 2026 22:10:53 GMT | MAGI: A Governed Autonomy Model for AI-Driven Cybersecurity Response | Fabio Henrique Rocha Pereira | [Read More](https://medium.com/p/7147c6e7a994) |
@@ -112,5 +114,3 @@ if I need to let this go. | Vicky Writes | [Read More](https://medium.com/p/bad7
 | Thu, 01 Jan 2026 15:46:55 GMT | 2026’s hottest new security control isn’t Zero Trust — it’s a passport stamp. ☁️ | Wes Young | [Read More](https://medium.com/p/91ea7caa5346) |
 | Thu, 01 Jan 2026 15:45:09 GMT | Root Me — JavaScript Obfuscation 3 (walkthrough) | Ariana-FR | [Read More](https://medium.com/p/8f24c0e161bc) |
 | Thu, 01 Jan 2026 15:25:13 GMT | Finding Cross-Site Scripting (XSS) Vulnerabilities A Hands-On Guide | Vrushalipagar | [Read More](https://medium.com/p/ac445ba6967a) |
-| Thu, 01 Jan 2026 15:24:18 GMT | Hunting a Zero-Click Reflected XSS: Breaking Out of Attributes in WordPress Search | Maverick | [Read More](https://medium.com/p/70071a099dd3) |
-| Thu, 01 Jan 2026 15:20:58 GMT | MAGIC CHECK: Learning to Read What Files Actually Are | James Reeves | [Read More](https://medium.com/p/d135118dd288) |
