@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 16:49:00 GMT | Beyond the APK: Exploiting Misconfigured Firebase Databases | Samet Yiğit | [Read More](https://medium.com/p/764c48e4fc80) |
+| Thu, 01 Jan 2026 16:46:38 GMT | Bypassing “Get This App From Play” Integrity Check on Android Apps | Clario Johan | [Read More](https://medium.com/p/3af4c68aae5f) |
+| Thu, 01 Jan 2026 16:43:33 GMT | Stop Data Exfiltration Before It Starts: A Deep Dive into Google’s VPC Service Controls (VPC-SC) | DAKSHITA Agarwal | [Read More](https://medium.com/p/c20e419f0fc6) |
+| Thu, 01 Jan 2026 16:38:37 GMT | The Quantum Countdown: Why Your Encrypted Data Is Already at Risk | Asad Hanif | [Read More](https://medium.com/p/668e251b8b5c) |
+| Thu, 01 Jan 2026 16:37:46 GMT | Deep Work: The Leadership Skill That Creates Real Impact | Tharindu Damith | [Read More](https://medium.com/p/5792798b965e) |
+| Thu, 01 Jan 2026 16:34:08 GMT | Why ‘Dumb’ Speed Beats ‘Genius’ Latency: The Counter-Intuitive Future of AI Security | Nezhegol | [Read More](https://medium.com/p/627d4446bb47) |
+| Thu, 01 Jan 2026 16:32:42 GMT | LastPass (2022): How a Vault Leak Turned Into Years-Long Crypto Theft | Thiago Barbosa | [Read More](https://medium.com/p/a3b8de2ce5f4) |
 | Thu, 01 Jan 2026 16:24:07 GMT | ✌️ 25 Javascript Path Files Used To Store Sensitive Information In Web Application:- | Shardul Sawant | [Read More](https://medium.com/p/2d82d6e955f8) |
+| Thu, 01 Jan 2026 16:18:48 GMT | Автоматизований аудит безпеки AWS за допомогою Prowler | Andriy Andrukhiv | [Read More](https://medium.com/p/9000578276a3) |
+| Thu, 01 Jan 2026 16:18:25 GMT | The Domain That Accidentally Stopped a Global Cyberattack | satyaranjan bal | [Read More](https://medium.com/p/99b94b0a1a44) |
 | Thu, 01 Jan 2026 16:14:00 GMT | Your Voice Is No Longer Your Own — How to Defend Yourself from AI Deepfakes and Scams | Volture Luxe | [Read More](https://medium.com/p/a84f6b9b35f7) |
 | Thu, 01 Jan 2026 16:11:41 GMT | Web Application Security | Rashed Ut | [Read More](https://medium.com/p/bf26757e22a2) |
 | Thu, 01 Jan 2026 16:08:41 GMT | When Your Nervous System Mistakes Chaos for Love | WordsbyBano | [Read More](https://medium.com/p/4a3b4416b636) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 Jan 2026 10:03:17 GMT | Secure Your Computer: Proven Strategies to Prevent Hacking | Theekshana Nirmal | [Read More](https://medium.com/p/1b2efe1e27a5) |
 | Thu, 01 Jan 2026 10:02:13 GMT | When CDNs Lie: How Cached Responses Exposed Private Data at Scale | Iski | [Read More](https://medium.com/p/7208a53b164c) |
 | Thu, 01 Jan 2026 09:55:37 GMT | Threat Actor Analysis: Scattered Spider | Teddybot | [Read More](https://medium.com/p/a09dfd1ec09c) |
-| Thu, 01 Jan 2026 09:52:05 GMT | Day 2: Installing Kali Linux (VM + Dual Boot) | Gaurav Suratwala | [Read More](https://medium.com/p/1c804936f4d5) |
-| Thu, 01 Jan 2026 09:48:00 GMT | Inside Windows: From Everyday Interface to Enterprise-Grade Security | Little_Sun4lower | [Read More](https://medium.com/p/67ff635d35bf) |
-| Thu, 01 Jan 2026 09:43:45 GMT | FTP Anonymous Login Vulnerability: Exploiting Port 21 Using Nmap and John the Ripper | virexil.null | [Read More](https://medium.com/p/78696c8808ff) |
-| Thu, 01 Jan 2026 09:43:11 GMT | What You Should Actually Focus On In 2026 (Everything Else Is Noise) | Vijay Kumar Gupta | [Read More](https://medium.com/p/1b78df8938b6) |
-| Thu, 01 Jan 2026 09:41:17 GMT | Roadmap to Starting with IAM | Let's | [Read More](https://medium.com/p/ffbaa3ce3c1b) |
-| Thu, 01 Jan 2026 09:40:20 GMT | Hacking NASA: How I Spent 6 Hours Hunting a ‘Critical’ Bug That Wasn’t | LETCHU PKT | [Read More](https://medium.com/p/9eff778a9880) |
-| Thu, 01 Jan 2026 09:38:41 GMT | I Watched Three “Secure” Systems Collapse in 30 Days — And It Changed How I Think About Security | Kuldeepsinh Jadeja | [Read More](https://medium.com/p/41bfea9cce2c) |
-| Thu, 01 Jan 2026 09:35:16 GMT | RIP Localhost: Reconal v1.0.0 is Now a Native Desktop App for Windows & Mac | Alareqi | [Read More](https://medium.com/p/b041989b0260) |
-| Thu, 01 Jan 2026 09:30:10 GMT | What Happens to Your Passwords When You Die? A Simple Guide | InsureYouKnow | [Read More](https://medium.com/p/7e7bd7c17d3a) |
