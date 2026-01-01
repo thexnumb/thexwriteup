@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 05:20:55 GMT | Protecting Alberta Homes with Smart, Reliable Solutions | Alarm Guard Security | [Read More](https://medium.com/p/b8cc95b3aee9) |
+| Thu, 01 Jan 2026 05:18:54 GMT | Why Encrypting and Decrypting Data Is Essential for App and Backend Security | Silversky Technology | [Read More](https://medium.com/p/a7e541fd338c) |
+| Thu, 01 Jan 2026 05:09:27 GMT | Out-of-Band Observation Using Devices Designed to Be Ignored | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/eeb3002b434f) |
 | Thu, 01 Jan 2026 04:44:51 GMT | Frida on Android Studio Emulator (2026): Installation, Usage & frida-compile Workflow | Thrishank Chintham | [Read More](https://medium.com/p/c44cf8c823a7) |
 | Thu, 01 Jan 2026 04:02:45 GMT | Hack The Box Sherlock Logjammer writeup | k1ndlov3r | [Read More](https://medium.com/p/9a2d84b0d9e7) |
 | Thu, 01 Jan 2026 03:56:43 GMT | Beyond the Locks: Secure Protocols and the Quiet Power of Session Keys | Manubhav Sharma | [Read More](https://medium.com/p/b5a3189fe552) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 31 Dec 2025 17:17:03 GMT | “New Year Greeting Could Hack Your Phone: APK and Spin & Win Scams Explained”. | Soundariya | [Read More](https://medium.com/p/cc18df482a1e) |
 | Wed, 31 Dec 2025 17:14:49 GMT | Hacking the OS: How I Built a “Ghost” Tor Injector from Scratch in C | Ujjwal Sharma | [Read More](https://medium.com/p/14a5a2f877ff) |
 | Wed, 31 Dec 2025 17:13:51 GMT | Anatomy of a Cyber Attack: How Defenders Fight Back | Shreyas Srinivasa | [Read More](https://medium.com/p/c75cc9ca1790) |
-| Wed, 31 Dec 2025 17:13:40 GMT | The $18 Million Daily Crime No One’s Talking About | Heesham Naji | [Read More](https://medium.com/p/e9f06b9172e2) |
-| Wed, 31 Dec 2025 17:13:22 GMT | How I Detected Anomalies in OpenSSH Logs Using Splunk. | Cyberfairy | [Read More](https://medium.com/p/82c8455ca2e6) |
-| Wed, 31 Dec 2025 17:01:51 GMT | Blockchain Wallet Password Recovery - Explained WhatsApp +14042456415 | Jennyblakes | [Read More](https://medium.com/p/6227a9265bfc) |
