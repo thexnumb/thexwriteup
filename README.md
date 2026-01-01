@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 09:43:45 GMT | FTP Anonymous Login Vulnerability: Exploiting Port 21 Using Nmap and John the Ripper | virexil.null | [Read More](https://medium.com/p/78696c8808ff) |
+| Thu, 01 Jan 2026 09:43:11 GMT | What You Should Actually Focus On In 2026 (Everything Else Is Noise) | Vijay Kumar Gupta | [Read More](https://medium.com/p/1b78df8938b6) |
+| Thu, 01 Jan 2026 09:41:17 GMT | Roadmap to Starting with IAM | Let's | [Read More](https://medium.com/p/ffbaa3ce3c1b) |
+| Thu, 01 Jan 2026 09:40:20 GMT | Hacking NASA: How I Spent 6 Hours Hunting a ‘Critical’ Bug That Wasn’t | LETCHU PKT | [Read More](https://medium.com/p/9eff778a9880) |
+| Thu, 01 Jan 2026 09:38:41 GMT | I Watched Three “Secure” Systems Collapse in 30 Days — And It Changed How I Think About Security | Kuldeepsinh Jadeja | [Read More](https://medium.com/p/41bfea9cce2c) |
+| Thu, 01 Jan 2026 09:35:16 GMT | RIP Localhost: Reconal v1.0.0 is Now a Native Desktop App for Windows & Mac | Alareqi | [Read More](https://medium.com/p/b041989b0260) |
+| Thu, 01 Jan 2026 09:30:10 GMT | What Happens to Your Passwords When You Die? A Simple Guide | InsureYouKnow | [Read More](https://medium.com/p/7e7bd7c17d3a) |
+| Thu, 01 Jan 2026 09:29:30 GMT | Deepfakes are no longer a disinformation problem. They are your next supply-chain risk | Enrique Dans | [Read More](https://medium.com/p/4d114c9fd53a) |
+| Thu, 01 Jan 2026 09:26:43 GMT | Learning Ethical Hacking with Termux: How My Smartphone Became My First Cybersecurity Lab | Sooraj Pandey | [Read More](https://medium.com/p/4577eb654bdc) |
 | Thu, 01 Jan 2026 09:10:50 GMT | System Hardening with CIS Benchmarks | Kartik Gupta | [Read More](https://medium.com/p/e3b5e7f0fb0c) |
 | Thu, 01 Jan 2026 09:08:04 GMT | Common Cybersecurity Threats You Should Know About | Xpertguider | [Read More](https://medium.com/p/0e901e18ec40) |
 | Thu, 01 Jan 2026 09:02:26 GMT | You Can’t Change What You Don’t See: The Simple Way to Find Exposed Emails Tied to Your Domain | Alexandre Vandamme | [Read More](https://medium.com/p/8bc50b36d150) |
@@ -104,12 +113,3 @@ Content… | Ankit rai | [Read More](https://medium.com/p/200998566d74) |
 | Wed, 31 Dec 2025 23:14:43 GMT | THE FUTURE OF OSINT: 5 Predictions for 2026 and Beyond | Azutech | [Read More](https://medium.com/p/3368f2340fff) |
 | Wed, 31 Dec 2025 23:02:03 GMT | Web-RTA Review: Is a $9 Cybersecurity Certification Worth It? | B13ss3d | [Read More](https://medium.com/p/80d9169cf96b) |
 | Wed, 31 Dec 2025 22:57:23 GMT | Review Web-RTA: ¿Vale la pena una certificación de ciberseguridad de $9 USD? | B13ss3d | [Read More](https://medium.com/p/c5d4e4f2887a) |
-| Wed, 31 Dec 2025 22:51:46 GMT | TryHackMe: Stolen Mount | Cyberpatriot | [Read More](https://medium.com/p/234c77191f96) |
-| Wed, 31 Dec 2025 22:49:30 GMT | Building Cybersecurity Learning Roadmap For CTIS Students | Onurcan Genç | [Read More](https://medium.com/p/e201f297d992) |
-| Wed, 31 Dec 2025 22:49:12 GMT | DVIUS Offers Top Tier Benefits | Biteris | [Read More](https://medium.com/p/7681c9102dfd) |
-| Wed, 31 Dec 2025 22:48:40 GMT | The Adversary Hasn’t Changed. The Battlefield Has. | Nate Gibson | [Read More](https://medium.com/p/e2c2f95a96c3) |
-| Wed, 31 Dec 2025 22:47:15 GMT | Self-XSS + CSRF = XSS Re | pad1ryoshi | [Read More](https://medium.com/p/81bac80c969f) |
-| Wed, 31 Dec 2025 22:43:54 GMT | The Truth about Cybersecurity in 2026 | Irene A. Gil | [Read More](https://medium.com/p/6e54a34ef36f) |
-| Wed, 31 Dec 2025 22:23:38 GMT | Stack Traces : Unveiling attack surface | TheCzar | [Read More](https://medium.com/p/c2eb4e815a65) |
-| Wed, 31 Dec 2025 22:19:56 GMT | Prompt Injection: How Attackers Trick AI Into Revealing Its Secrets | Will Giles - Cybersecurity | [Read More](https://medium.com/p/afc0ff4cd5b9) |
-| Wed, 31 Dec 2025 21:49:38 GMT | Advice and New Year’s Resolutions from a 21 Year-Old | Humna Sultan | [Read More](https://medium.com/p/7a0245fc178e) |
