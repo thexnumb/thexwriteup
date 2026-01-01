@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 16:24:07 GMT | ✌️ 25 Javascript Path Files Used To Store Sensitive Information In Web Application:- | Shardul Sawant | [Read More](https://medium.com/p/2d82d6e955f8) |
+| Thu, 01 Jan 2026 16:14:00 GMT | Your Voice Is No Longer Your Own — How to Defend Yourself from AI Deepfakes and Scams | Volture Luxe | [Read More](https://medium.com/p/a84f6b9b35f7) |
+| Thu, 01 Jan 2026 16:11:41 GMT | Web Application Security | Rashed Ut | [Read More](https://medium.com/p/bf26757e22a2) |
+| Thu, 01 Jan 2026 16:08:41 GMT | When Your Nervous System Mistakes Chaos for Love | WordsbyBano | [Read More](https://medium.com/p/4a3b4416b636) |
+| Thu, 01 Jan 2026 16:08:12 GMT | Preventing Man-in-the-Middle Attacks and Response Tampering: A Complete Guide | Gaurang Malvankar | [Read More](https://medium.com/p/f141b1f5edf7) |
+| Thu, 01 Jan 2026 16:01:25 GMT | WhatsApp Crypto Scams Are Increasing: How Victims Are Targeted and How to Stay Safe | TheScamCompass | [Read More](https://medium.com/p/722ee865d16a) |
+| Thu, 01 Jan 2026 15:56:02 GMT | How AI Agents Make Autonomous Decisions: Understanding Self-Directed Action | Naveen C | [Read More](https://medium.com/p/55f4548014d9) |
+| Thu, 01 Jan 2026 15:55:09 GMT | New Attack Vector: CTTA in LLMs | Anas Al Rawi | [Read More](https://medium.com/p/bc03e9265f31) |
+| Thu, 01 Jan 2026 15:52:23 GMT | Next.js CVE-2025–29927 Overview of Next.js and the Recent Vulnerability | Mainekhacker | [Read More](https://medium.com/p/2a4b701df142) |
+| Thu, 01 Jan 2026 15:48:18 GMT | Price Manipulation Vulnerability in E-Commerce Applications | Nidhi kathayat | [Read More](https://medium.com/p/3852800b5e69) |
+| Thu, 01 Jan 2026 15:46:55 GMT | A Compromised Update, a Broken Trust Model | Decentr | [Read More](https://medium.com/p/b9e93da2a86e) |
+| Thu, 01 Jan 2026 15:46:55 GMT | 2026’s hottest new security control isn’t Zero Trust — it’s a passport stamp. ☁️ | Wes Young | [Read More](https://medium.com/p/91ea7caa5346) |
+| Thu, 01 Jan 2026 15:45:09 GMT | Root Me — JavaScript Obfuscation 3 (walkthrough) | Ariana-FR | [Read More](https://medium.com/p/8f24c0e161bc) |
 | Thu, 01 Jan 2026 15:25:13 GMT | Finding Cross-Site Scripting (XSS) Vulnerabilities A Hands-On Guide | Vrushalipagar | [Read More](https://medium.com/p/ac445ba6967a) |
 | Thu, 01 Jan 2026 15:24:18 GMT | Hunting a Zero-Click Reflected XSS: Breaking Out of Attributes in WordPress Search | Maverick | [Read More](https://medium.com/p/70071a099dd3) |
 | Thu, 01 Jan 2026 15:20:58 GMT | MAGIC CHECK: Learning to Read What Files Actually Are | James Reeves | [Read More](https://medium.com/p/d135118dd288) |
@@ -100,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 Jan 2026 09:38:41 GMT | I Watched Three “Secure” Systems Collapse in 30 Days — And It Changed How I Think About Security | Kuldeepsinh Jadeja | [Read More](https://medium.com/p/41bfea9cce2c) |
 | Thu, 01 Jan 2026 09:35:16 GMT | RIP Localhost: Reconal v1.0.0 is Now a Native Desktop App for Windows & Mac | Alareqi | [Read More](https://medium.com/p/b041989b0260) |
 | Thu, 01 Jan 2026 09:30:10 GMT | What Happens to Your Passwords When You Die? A Simple Guide | InsureYouKnow | [Read More](https://medium.com/p/7e7bd7c17d3a) |
-| Thu, 01 Jan 2026 09:29:30 GMT | Deepfakes are no longer a disinformation problem. They are your next supply-chain risk | Enrique Dans | [Read More](https://medium.com/p/4d114c9fd53a) |
-| Thu, 01 Jan 2026 09:26:43 GMT | Learning Ethical Hacking with Termux: How My Smartphone Became My First Cybersecurity Lab | Sooraj Pandey | [Read More](https://medium.com/p/4577eb654bdc) |
-| Thu, 01 Jan 2026 09:10:50 GMT | System Hardening with CIS Benchmarks | Kartik Gupta | [Read More](https://medium.com/p/e3b5e7f0fb0c) |
-| Thu, 01 Jan 2026 09:08:04 GMT | Common Cybersecurity Threats You Should Know About | Xpertguider | [Read More](https://medium.com/p/0e901e18ec40) |
-| Thu, 01 Jan 2026 09:02:26 GMT | You Can’t Change What You Don’t See: The Simple Way to Find Exposed Emails Tied to Your Domain | Alexandre Vandamme | [Read More](https://medium.com/p/8bc50b36d150) |
-| Thu, 01 Jan 2026 09:00:44 GMT | Techniques to Link Multiple OAuth2 Clients to the Same User in Spring Security | Anh Trần Tuấn | [Read More](https://medium.com/p/faef041958ba) |
-| Thu, 01 Jan 2026 08:55:49 GMT | EU Calls Out Russia’s Cyberattack Claims as Baseless. | Anna’s Brief | [Read More](https://medium.com/p/334f93b3bd68) |
-| Thu, 01 Jan 2026 08:55:32 GMT | From “Just a Number” to a Privacy Leak: An IDOR Case Study | Tilaksingh Rana | [Read More](https://medium.com/p/f0c3dd3e16e2) |
-| Thu, 01 Jan 2026 08:53:37 GMT | Deconstructing Disaster: The Inside Story of the Sony Pictures Hack and How to Prevent the Next One | jaeson Bernardsha | [Read More](https://medium.com/p/aa95bb73c7b0) |
-| Thu, 01 Jan 2026 08:52:24 GMT | Time-Clock Taps to Data Driven Product Mixes: Coming in Clutch with C# and Linear Programming | Namir Sagheenanajar | [Read More](https://medium.com/p/1fe40a5557b6) |
-| Thu, 01 Jan 2026 08:42:23 GMT | Containers — DoorDasher’s Demise— Writeup(DAY 14— Advent of Cyber TryHackMe 2025) | Cyb3r-Kr4k3s | [Read More](https://medium.com/p/02066338198d) |
-| Thu, 01 Jan 2026 08:36:39 GMT | 8 Best IT Support Providers in Houston | Cloudavize | [Read More](https://medium.com/p/4789c5f0469e) |
-| Thu, 01 Jan 2026 08:36:23 GMT | VAPT in 2025: How Techincisive Protects Businesses in a Hyperconnected World | Devarshi Acharya | [Read More](https://medium.com/p/01e23b9430f8) |
