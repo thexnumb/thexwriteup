@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 01:37:05 GMT | A Different MongoBleed Perspective | Tamir Zimerman | [Read More](https://medium.com/p/5f08b4bf887a) |
+| Thu, 01 Jan 2026 01:25:03 GMT | Refresh Token Rotation Done Right: How to Protect Your Backend from Token Theft | BlockchainBard | [Read More](https://medium.com/p/a875435a78c6) |
+| Thu, 01 Jan 2026 00:44:46 GMT | Recon Is Not About Tools, It’s About Thinking | cat0x01 | [Read More](https://medium.com/p/2259b8e9dc9a) |
+| Thu, 01 Jan 2026 00:44:12 GMT | Everything worth knowing about identity providers: OAuth and OpenID connect | Sw33tBit | [Read More](https://medium.com/p/7a720bae73b1) |
+| Thu, 01 Jan 2026 00:41:43 GMT | Building Google OAuth Login with Role-Based Access Control in FastAPI — Part 2: Adding… | Jahel | [Read More](https://medium.com/p/23a8adbc8e95) |
+| Thu, 01 Jan 2026 00:20:42 GMT | NAC Profiling Rules: Do You Really Know Who Is Connecting to Your Network? | Esra Kayhan | [Read More](https://medium.com/p/d38546ea0bea) |
+| Thu, 01 Jan 2026 00:11:34 GMT | Kioptrix 1 Remote Buffer Overflow (Beginner Walkthrough) | RenVector | [Read More](https://medium.com/p/6763ff4c39b7) |
+| Thu, 01 Jan 2026 00:07:22 GMT | Quick Note: Passwords | Ellen Auchter | [Read More](https://medium.com/p/d95616158383) |
+| Wed, 31 Dec 2025 23:56:50 GMT | Role-Based Authorization for Jenkins with the Folder Plugin | Amit Nikumbh | [Read More](https://medium.com/p/0f0693047f13) |
+| Wed, 31 Dec 2025 23:42:32 GMT | ️‍♂️ Hacking Bashed: The Deadly Cost of "Shadow IT" Exposed | Nmullenski | [Read More](https://medium.com/p/dc0ecda2c4ba) |
 | Wed, 31 Dec 2025 23:14:43 GMT | THE FUTURE OF OSINT: 5 Predictions for 2026 and Beyond | Azutech | [Read More](https://medium.com/p/3368f2340fff) |
 | Wed, 31 Dec 2025 23:02:03 GMT | Web-RTA Review: Is a $9 Cybersecurity Certification Worth It? | B13ss3d | [Read More](https://medium.com/p/80d9169cf96b) |
 | Wed, 31 Dec 2025 22:57:23 GMT | Review Web-RTA: ¿Vale la pena una certificación de ciberseguridad de $9 USD? | B13ss3d | [Read More](https://medium.com/p/c5d4e4f2887a) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 31 Dec 2025 15:59:58 GMT | When Security Decisions Ignore UX, Products Break Quietly | Kalyan Tamarapalli | [Read More](https://medium.com/p/4c02e3824ac8) |
 | Wed, 31 Dec 2025 15:49:07 GMT | My First Real Step into SOC: Understanding How Blue Teams Actually Defend Organizations | Harvinder Singh | [Read More](https://medium.com/p/42c2ea2af2dc) |
 | Wed, 31 Dec 2025 15:40:28 GMT | A Complete Guide to Building a Modern Security Strategy for 2026 | Sharp Guard Group | [Read More](https://medium.com/p/03f976aaba77) |
-| Wed, 31 Dec 2025 15:38:01 GMT | 2026 Security Strategy Predictions: How the Industry Will Change This Year | West Coast Guard | [Read More](https://medium.com/p/3f3d34611e50) |
-| Wed, 31 Dec 2025 15:32:25 GMT | QuantumProxies: High-Performance Proxy Solutions for Secure Web Scraping, SEO, and Data… | Di1 13 (pirotecnico2001) | [Read More](https://medium.com/p/bd7f108c04be) |
-| Wed, 31 Dec 2025 15:32:13 GMT | Troubleshooting ALFA AWUS036ACH on Kali Linux 2025 (ARM64) | Morgan Hung | [Read More](https://medium.com/p/25de84344898) |
-| Wed, 31 Dec 2025 15:30:27 GMT | Why Businesses Need a New Security Strategy in 2026 to Stay Protected | Eagleeyepro | [Read More](https://medium.com/p/009d081a16a3) |
-| Wed, 31 Dec 2025 15:29:56 GMT | Top Tools Every Ethical Hacker Must Master in 2026 | Zunair Usmani | [Read More](https://medium.com/p/482b72489e54) |
-| Wed, 31 Dec 2025 15:26:03 GMT | The Vulnerability I Missed That Taught Me Humility | Mubashir | [Read More](https://medium.com/p/1168ce766c5c) |
-| Wed, 31 Dec 2025 15:12:24 GMT | SentryPC vs. The Competition: The Ultimate Showdown for Monitoring Software in 2026 | Paul Meyer | [Read More](https://medium.com/p/b1478ec5d615) |
-| Wed, 31 Dec 2025 15:02:33 GMT | Cyber Briefing: 2025.12.31 | CyberMaterial | [Read More](https://medium.com/p/c1e4b3e276b3) |
-| Wed, 31 Dec 2025 15:02:03 GMT | 2025: My Year of Clarity, Courage, and Quiet Wins | Rebecca Ihenyen | [Read More](https://medium.com/p/d01dc68859a7) |
-| Wed, 31 Dec 2025 14:59:17 GMT | The Cybersecurity Reality of 2026: AI, Deepfakes, and Autonomous Attacks Autonomous Defense | Muhammad Afzal | [Read More](https://medium.com/p/52a39815c75d) |
