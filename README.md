@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 21:15:48 GMT | TryHackMe -Lumberjack Turtle | Efe | [Read More](https://medium.com/p/8bc9584118b7) |
+| Thu, 01 Jan 2026 21:09:44 GMT | AI Pentesting: Practicing Prompt Injection With the Gandalf Challenge | Will Giles - Cybersecurity | [Read More](https://medium.com/p/01f10400d7bb) |
+| Thu, 01 Jan 2026 21:08:26 GMT | Building a Full-Tunnel WireGuard VPN with Ubuntu Server and Kali Linux (No Cloud, No VPS) | Eyob Million | [Read More](https://medium.com/p/8e59e47ccbb6) |
+| Thu, 01 Jan 2026 21:03:32 GMT | Walking an Application - TryHackMe Walkthrough | David Ajuzie | [Read More](https://medium.com/p/4cb8d2e248d6) |
+| Thu, 01 Jan 2026 21:02:25 GMT | How to Tell if a Man is Reliable: Three Details That Say It All | Mabel Harris | [Read More](https://medium.com/p/d4ab8d716195) |
+| Thu, 01 Jan 2026 21:00:58 GMT | Indirect Prompt Injection Using `-` Delimiter and JSON Payload Enables System Prompt Disclosure in… | D_F4u1t | [Read More](https://medium.com/p/996a7b15dc01) |
+| Thu, 01 Jan 2026 21:00:15 GMT | Direct Prompt Injection Enables System Prompt Disclosure in Copilot | D_F4u1t | [Read More](https://medium.com/p/feeefddeac97) |
+| Thu, 01 Jan 2026 20:54:34 GMT | Setting up AWS multi-account governance structure for a startup and beyond | Salman Baset | [Read More](https://medium.com/p/0c7fb5b11bc3) |
+| Thu, 01 Jan 2026 20:42:40 GMT | Cyber Wellness: The Modern Self-Care Habit Most People Overlook | CyberHelp911_Coach | [Read More](https://medium.com/p/92573184452e) |
 | Thu, 01 Jan 2026 20:33:31 GMT | Welcome to the Age of Playful Pursuits | organic flow. | [Read More](https://medium.com/p/c0fc560dfff7) |
 | Thu, 01 Jan 2026 20:31:00 GMT | What Happens If You’re Not Prepared for Cybersecurity Threats | The Digital Sidekick | [Read More](https://medium.com/p/27e478ddb4b3) |
 | Thu, 01 Jan 2026 20:10:48 GMT | Hack Smarter — Polution Lab Walkthrough (Easy) | Muhammad Usman Faridi | [Read More](https://medium.com/p/3b3f7ccf977d) |
@@ -104,12 +113,3 @@ if I need to let this go. | Vicky Writes | [Read More](https://medium.com/p/bad7
 | Thu, 01 Jan 2026 14:59:30 GMT | From Chiffon Sarees to Secure Software: A Bollywood Guide to Application Security Frameworks | Sumant Khapre | [Read More](https://medium.com/p/6122be2036b2) |
 | Thu, 01 Jan 2026 14:58:39 GMT | How 2025 Shaped My Path into Cybersecurity | Aabdelbariee | [Read More](https://medium.com/p/6af8eeabf6e1) |
 | Thu, 01 Jan 2026 14:52:24 GMT | Ghost Posts via IDOR: How I Read Unpublished NASA Blog Content Using Simple Math | LETCHU PKT | [Read More](https://medium.com/p/8f778adc254d) |
-| Thu, 01 Jan 2026 14:51:21 GMT | When Flexibility Becomes a Backdoor: Analyzing CVE-2025–69288 in Titra | Francisco Paz Mccausland | [Read More](https://medium.com/p/bbbf0b8579f4) |
-| Thu, 01 Jan 2026 14:50:00 GMT | AI, Ethics, and Hackers: What Cybersecurity Must Get Right in 2026 | Parminder Kumar Sharma | [Read More](https://medium.com/p/802298926834) |
-| Thu, 01 Jan 2026 14:47:07 GMT | Why We Hide Our True Selves: Understanding Shame and Self-Acceptance | Poly-blang | [Read More](https://medium.com/p/46f07cc6dfca) |
-| Thu, 01 Jan 2026 14:42:31 GMT | I Tried a 10 Year Old Wi-Fi Hacking Tool and It Still Worked | alopix | [Read More](https://medium.com/p/5e82f7094183) |
-| Thu, 01 Jan 2026 14:42:24 GMT | SentryPC 2026: The Best Parental Control Software for Tier 1 Country Families (Complete Guide) | Paul Meyer | [Read More](https://medium.com/p/cb1ca3d712b4) |
-| Thu, 01 Jan 2026 14:37:44 GMT | What a Senior DevOps Engineer Is Learning in 2026 | Mark Southworth | [Read More](https://medium.com/p/18b3a932f3af) |
-| Thu, 01 Jan 2026 14:36:37 GMT | Smart Security for Free? Why the Tapo C402 Might Be the Ultimate Hub-Free Outdoor Camera. | Mohammed | [Read More](https://medium.com/p/6474039de1af) |
-| Thu, 01 Jan 2026 14:32:34 GMT | 2026: The Start of PQC Signature Migration | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/4d46bde33638) |
-| Thu, 01 Jan 2026 14:32:26 GMT | ARP Poisoning with ARP Spoof: A Guide to MITM Attacks | Vignesh R | [Read More](https://medium.com/p/3f025329ef3b) |
