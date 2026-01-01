@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 20:33:31 GMT | Welcome to the Age of Playful Pursuits | organic flow. | [Read More](https://medium.com/p/c0fc560dfff7) |
+| Thu, 01 Jan 2026 20:31:00 GMT | What Happens If You’re Not Prepared for Cybersecurity Threats | The Digital Sidekick | [Read More](https://medium.com/p/27e478ddb4b3) |
 | Thu, 01 Jan 2026 20:10:48 GMT | Hack Smarter — Polution Lab Walkthrough (Easy) | Muhammad Usman Faridi | [Read More](https://medium.com/p/3b3f7ccf977d) |
 | Thu, 01 Jan 2026 19:55:41 GMT | How I eliminated the vulnerability window that enabled the Mirai botnet in 2016 | atdon | [Read More](https://medium.com/p/5b5e0c023b1e) |
 | Thu, 01 Jan 2026 19:49:54 GMT | Installing Kali Linux on a Modern Laptop (Lenovo ThinkPad P1) from macOS: A Step-by-Step Guide | 0xNachoShell | [Read More](https://medium.com/p/2c1514c5acd8) |
@@ -111,6 +113,3 @@ if I need to let this go. | Vicky Writes | [Read More](https://medium.com/p/bad7
 | Thu, 01 Jan 2026 14:36:37 GMT | Smart Security for Free? Why the Tapo C402 Might Be the Ultimate Hub-Free Outdoor Camera. | Mohammed | [Read More](https://medium.com/p/6474039de1af) |
 | Thu, 01 Jan 2026 14:32:34 GMT | 2026: The Start of PQC Signature Migration | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/4d46bde33638) |
 | Thu, 01 Jan 2026 14:32:26 GMT | ARP Poisoning with ARP Spoof: A Guide to MITM Attacks | Vignesh R | [Read More](https://medium.com/p/3f025329ef3b) |
-| Thu, 01 Jan 2026 14:31:29 GMT | Navigating Nested Virtualization: A Beginner’s Journey | Darlie | [Read More](https://medium.com/p/07754011d0a2) |
-| Thu, 01 Jan 2026 14:23:15 GMT | The fear of wanting 
-‎ | Li's Journal | [Read More](https://medium.com/p/4257c9f41d03) |
