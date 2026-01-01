@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 03:56:43 GMT | Beyond the Locks: Secure Protocols and the Quiet Power of Session Keys | Manubhav Sharma | [Read More](https://medium.com/p/b5a3189fe552) |
+| Thu, 01 Jan 2026 03:45:17 GMT | eWTPXv3: A review and some advice. | Daniel Scragg | [Read More](https://medium.com/p/f615ed4a6f39) |
+| Thu, 01 Jan 2026 03:34:41 GMT | When AI Gets Access: Why MCP Needs Guardrails | Kartik Shah | [Read More](https://medium.com/p/fecaf308408e) |
+| Thu, 01 Jan 2026 03:34:35 GMT | Complete Roadmap to Become a Digital Forensics Expert (From Zero to Pro) | Shahzaib | [Read More](https://medium.com/p/b4d0ae924962) |
+| Thu, 01 Jan 2026 03:34:31 GMT | PC Security in the 1980s | Cfir Aguston | [Read More](https://medium.com/p/0d634298f805) |
+| Thu, 01 Jan 2026 03:34:24 GMT | Why Secure Coding Is Harder Than People Think | Hania Khan | [Read More](https://medium.com/p/856d5f4a8af9) |
+| Thu, 01 Jan 2026 03:32:25 GMT | Day 3 — Linux Essentials for Security Engineers | NineTales | [Read More](https://medium.com/p/575677043ac6) |
+| Thu, 01 Jan 2026 03:32:25 GMT | The Danger of Normal: How SideWinder Turned Trust into Access | Deven Chhajed | [Read More](https://medium.com/p/ab65b69f233a) |
+| Thu, 01 Jan 2026 03:01:45 GMT | CEHv12: Cloud Computing(Practised) (Module 18) | Aditya Kumar | [Read More](https://medium.com/p/8310eb8bd553) |
+| Thu, 01 Jan 2026 02:56:52 GMT | Understanding Hydra: Logic, Working, and Syntax of a Brute-Force Tool | Gajanan Tayde | [Read More](https://medium.com/p/203b88a9314e) |
+| Thu, 01 Jan 2026 02:56:25 GMT | CEHv12: IoT and OT Hacking (Practised) (Module 18) | Aditya Kumar | [Read More](https://medium.com/p/ffb290220207) |
+| Thu, 01 Jan 2026 02:42:30 GMT | A Simple Way to Start Your Cybersecurity Journey in 2026 | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/fb2f78f00617) |
+| Thu, 01 Jan 2026 02:41:39 GMT | CISSP Domain 3: Cryptography Coffee Shots | Pushpak Sharma | [Read More](https://medium.com/p/5b9b3c7c5f76) |
+| Thu, 01 Jan 2026 02:41:22 GMT | CISSP HARD Questions: Domains 1, 2 & 3 | Pushpak Sharma | [Read More](https://medium.com/p/561d0bbafd61) |
+| Thu, 01 Jan 2026 02:32:24 GMT | Building Systems With Vibe Coding. | Nirmal Kalubovila | [Read More](https://medium.com/p/fd3cf2ce2c36) |
+| Thu, 01 Jan 2026 02:20:01 GMT | Business Logic Vulnerabilities Are Engineering Bugs | Phani Varun Munukuntla | [Read More](https://medium.com/p/3ca53704bd5b) |
+| Thu, 01 Jan 2026 02:13:29 GMT | Lab: Reflected XSS in canonical link tag | KRY | [Read More](https://medium.com/p/6f5a47f54be6) |
+| Thu, 01 Jan 2026 02:10:53 GMT | Lab: Reflected XSS with some SVG markup allowed | KRY | [Read More](https://medium.com/p/899e0674e44c) |
+| Thu, 01 Jan 2026 02:06:57 GMT | Stop Hardcoding API Keys in Flask — Use This 10-Line “Fail-Closed” Shield Instead | Dorian Sotpyrc | [Read More](https://medium.com/p/1edeb700edbd) |
+| Thu, 01 Jan 2026 02:02:49 GMT | Stop Passing Tokens in URLs: The Right Way to Share Sessions Across Subdomains | Taqiyya Ghazi | [Read More](https://medium.com/p/f1cb7e4fbc24) |
 | Thu, 01 Jan 2026 01:37:05 GMT | A Different MongoBleed Perspective | Tamir Zimerman | [Read More](https://medium.com/p/5f08b4bf887a) |
 | Thu, 01 Jan 2026 01:25:03 GMT | Refresh Token Rotation Done Right: How to Protect Your Backend from Token Theft | BlockchainBard | [Read More](https://medium.com/p/a875435a78c6) |
 | Thu, 01 Jan 2026 00:44:46 GMT | Recon Is Not About Tools, It’s About Thinking | cat0x01 | [Read More](https://medium.com/p/2259b8e9dc9a) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 31 Dec 2025 17:01:27 GMT | Moving Forward with Memory Analysis: From Volatility to MemProcFS : Part 2 | Dean | [Read More](https://medium.com/p/3d4c38033515) |
 | Wed, 31 Dec 2025 17:01:10 GMT | Red Teaming LLMs and AI Agents at scale in Microsoft Foundry | Arun Balaji Giridharan | [Read More](https://medium.com/p/13cdf3918596) |
 | Wed, 31 Dec 2025 17:00:07 GMT | Ph4ge: MS17–010 Hidden User(Admin-Priv) Remote Injection Backdoor Tool & Shift Backdoor | Мартин. | [Read More](https://medium.com/p/ee29b47e0e34) |
-| Wed, 31 Dec 2025 16:52:51 GMT | MongoBleed 驚世檔案：8.7 萬台資料庫的記憶體洩漏風暴與紅色警報 | p1x06u9 | [Read More](https://medium.com/p/28e433fd917d) |
-| Wed, 31 Dec 2025 16:52:38 GMT | The $3 Billion Loss Year: End-of-Year Security Report | Extropy.IO | [Read More](https://medium.com/p/3f8b9237121c) |
-| Wed, 31 Dec 2025 16:50:18 GMT | TryHackMe: MD2PDF Walkthrough | Cyberpatriot | [Read More](https://medium.com/p/e19ed993353f) |
-| Wed, 31 Dec 2025 16:50:13 GMT | PortSwigger Academy Lab: Source code disclosure via backup files | VISCID | [Read More](https://medium.com/p/5f5e6ad3db30) |
-| Wed, 31 Dec 2025 16:45:35 GMT | Resilience Without Illusions | SIMKRA | [Read More](https://medium.com/p/7b9de4376d94) |
-| Wed, 31 Dec 2025 16:36:41 GMT | Why Being “Invisible” Online Is More Powerful Than Being Secure | Ali Hamza | [Read More](https://medium.com/p/dd68d61a3451) |
-| Wed, 31 Dec 2025 16:32:28 GMT | The Autonomy Paradox: Why We Must Automate Critical Infrastructure Security (And Why It Might Kill… | Jay Nichols | [Read More](https://medium.com/p/9331664fdb2d) |
-| Wed, 31 Dec 2025 16:29:39 GMT | The 2026 Tech Readiness Checklist: 10 Must-Dos Before Your Business Goes Live | Paradise technologies Inc | [Read More](https://medium.com/p/d372af3705fa) |
-| Wed, 31 Dec 2025 16:24:34 GMT | Dialogic Trajectory Co-Regulation: Safety as the Quality of the Relationship Itself | QEE | [Read More](https://medium.com/p/47b5758f0997) |
-| Wed, 31 Dec 2025 16:13:06 GMT | US cybersecurity experts plead guilty to ransomware attacks | Defence Affairs & Analysis | [Read More](https://medium.com/p/7c591e9a943b) |
-| Wed, 31 Dec 2025 16:12:07 GMT | Federal Reserve’s 2025 Cybersecurity Report: Building Resilient Financial ERP Systems | Nely Munoz | [Read More](https://medium.com/p/78ddfa6c6609) |
-| Wed, 31 Dec 2025 16:10:52 GMT | MongoDB’s Silent Leak: A Story of Infrastructure Fragility | Yash | [Read More](https://medium.com/p/099c6a807d43) |
-| Wed, 31 Dec 2025 16:06:23 GMT | Office365 Impossible Travel Detection with Wazuh, Graylog, and a Custom Python API | SOCFortress | [Read More](https://medium.com/p/0a0a383d1603) |
-| Wed, 31 Dec 2025 16:05:47 GMT | Commitment Issues - picoCTF (General Skills) | xrabbit | [Read More](https://medium.com/p/8da579a57004) |
-| Wed, 31 Dec 2025 16:03:20 GMT | 2025’s Cyber Hall of Shame: 15 Epic Fails That Prove Hackers (and Victims) Can Be Hilariously Dumb | Kevin Kelly | [Read More](https://medium.com/p/d075e4bffe57) |
-| Wed, 31 Dec 2025 16:03:14 GMT | Memo to the Higher Ups in the Astral Realm | Jewel, the (secret) Psychic Witch | [Read More](https://medium.com/p/2892e7af944d) |
-| Wed, 31 Dec 2025 16:02:48 GMT | 12–31–2025–2025 What We Learned and What’s Next | The Enterprise Sponge | [Read More](https://medium.com/p/668e5fa97f64) |
-| Wed, 31 Dec 2025 15:59:58 GMT | When Security Decisions Ignore UX, Products Break Quietly | Kalyan Tamarapalli | [Read More](https://medium.com/p/4c02e3824ac8) |
-| Wed, 31 Dec 2025 15:49:07 GMT | My First Real Step into SOC: Understanding How Blue Teams Actually Defend Organizations | Harvinder Singh | [Read More](https://medium.com/p/42c2ea2af2dc) |
-| Wed, 31 Dec 2025 15:40:28 GMT | A Complete Guide to Building a Modern Security Strategy for 2026 | Sharp Guard Group | [Read More](https://medium.com/p/03f976aaba77) |
