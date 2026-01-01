@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 07:11:52 GMT | AI vs Hackers: How Artificial Intelligence Is Changing Cybersecurity in Web3 | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/47db633f4954) |
+| Thu, 01 Jan 2026 07:11:35 GMT | From Deepfakes to Fingerprint Cloning — The New Face of AI-Powered Cybercrime | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/348f214d54ef) |
+| Thu, 01 Jan 2026 06:53:22 GMT | 2025 Tried to Break Me Quietly | Karthika T | [Read More](https://medium.com/p/0b66a7ad6b60) |
+| Thu, 01 Jan 2026 06:45:01 GMT | Skip the Struggle: Why Low-Cost Managed VPS Hosting Is the Shortcut to Serious Performance? | Ann Taylor | [Read More](https://medium.com/p/f37bec04e574) |
 | Thu, 01 Jan 2026 06:27:27 GMT | Hello my name is… (Part 1) | Kurb4n | [Read More](https://medium.com/p/072fe2b7050e) |
 | Thu, 01 Jan 2026 06:24:58 GMT | The Silent Weapon (Part 3): AI-Assisted Recon Chains That Actually Find Bugs | ghostyjoe | [Read More](https://medium.com/p/38b847be67c9) |
 | Thu, 01 Jan 2026 06:22:42 GMT | Building Better CTFs | Yash Kiran Patil | [Read More](https://medium.com/p/c7e13c9c84e0) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 31 Dec 2025 19:06:42 GMT | Networking Troubleshooting Lab: Simulating Real Help Desk Internet Issues | Kai Gallette | [Read More](https://medium.com/p/ea979a238edb) |
 | Wed, 31 Dec 2025 19:05:53 GMT | Writing Is Not Talent — It’s Vulnerability | Writersemail | [Read More](https://medium.com/p/bffa117e078f) |
 | Wed, 31 Dec 2025 19:02:42 GMT | Alert! A Silent Phone Scam Will Drain Your Bank Account… | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/684df1228d2f) |
-| Wed, 31 Dec 2025 19:02:05 GMT | Strengthening Cybersecurity Through Data-Driven Collaboration | Valentin Podkamennyi | [Read More](https://medium.com/p/8f34157b1f5a) |
-| Wed, 31 Dec 2025 18:49:46 GMT | AI, Security, and Data: The Quiet Trio That Will Decide the Next Decade | Anand Galla | [Read More](https://medium.com/p/35f3f9a8f22c) |
-| Wed, 31 Dec 2025 18:48:54 GMT | My Bug Bounty Learning Journey as a Beginner from India. | Hacker_team_one | [Read More](https://medium.com/p/500b4becdf86) |
-| Wed, 31 Dec 2025 18:48:38 GMT | Siber Vatan 2025 CTF Çözümleri | omertugrulbayram | [Read More](https://medium.com/p/b17c70af0fe0) |
