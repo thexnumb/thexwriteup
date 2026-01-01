@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 14:14:44 GMT | Redundancy Engineering: why “Extra” means Intelligent Design | Kumar Vinay | [Read More](https://medium.com/p/dc4a1eabc40f) |
+| Thu, 01 Jan 2026 14:07:47 GMT | Modern endüstriyel kontrol sistemlerinde (ICS) veri bütünlüğü, fiziksel dünyadan alınan analog… | Setenay T. | [Read More](https://medium.com/p/c0c6c2c22aaa) |
+| Thu, 01 Jan 2026 14:06:42 GMT | Networking Services — Network Series 4 | Mr.Cool | [Read More](https://medium.com/p/32dc727b9e8d) |
+| Thu, 01 Jan 2026 14:02:59 GMT | Threat Modeling MCP Servers with STRIDE: A Practical Guide | Odell Moreno | [Read More](https://medium.com/p/60bdad334c90) |
+| Thu, 01 Jan 2026 14:02:32 GMT | Mistakes in Clean Clothes | Dominique Striekwold | [Read More](https://medium.com/p/f81caee3c769) |
+| Thu, 01 Jan 2026 14:02:18 GMT | Linux Privilege Escalation via Sudo Misconfigurations: Shell Escaping, LD_PRELOAD & Real-World… | Amrit Sinha | [Read More](https://medium.com/p/9aaf0c5ef568) |
+| Thu, 01 Jan 2026 14:02:00 GMT | Why Retry Logic Creates More Bugs Than It Fixes (And How to Do It Right in Spring Boot | Karuna | [Read More](https://medium.com/p/8def1fc1abcb) |
+| Thu, 01 Jan 2026 13:36:51 GMT | AI Tools in 2026 | Ismail Kovvuru | [Read More](https://medium.com/p/bcfa3ae0260f) |
 | Thu, 01 Jan 2026 13:30:43 GMT | OverTheWire Bandit Level 8 to 9: The Art of Anomaly Detection | Sivanesan M | [Read More](https://medium.com/p/e6f9a5854ae2) |
 | Thu, 01 Jan 2026 13:24:19 GMT | Quantum Zero Trust Security | Binu Panicker | [Read More](https://medium.com/p/6f42375171b6) |
 | Thu, 01 Jan 2026 13:23:52 GMT | Security Enhancement of Open Flow Networks | OxMotaw3 | [Read More](https://medium.com/p/a0e372fda65b) |
@@ -105,11 +113,3 @@ Content… | Ankit rai | [Read More](https://medium.com/p/200998566d74) |
 | Thu, 01 Jan 2026 06:24:58 GMT | The Silent Weapon (Part 3): AI-Assisted Recon Chains That Actually Find Bugs | ghostyjoe | [Read More](https://medium.com/p/38b847be67c9) |
 | Thu, 01 Jan 2026 06:22:42 GMT | Building Better CTFs | Yash Kiran Patil | [Read More](https://medium.com/p/c7e13c9c84e0) |
 | Thu, 01 Jan 2026 06:15:58 GMT | AWS — IAM(Identity and Access Management) | rootRS7 | [Read More](https://medium.com/p/895976d236c2) |
-| Thu, 01 Jan 2026 06:15:46 GMT | Securing Tomorrow’s Industrial Networks Today | Kadhijahafiya | [Read More](https://medium.com/p/97d268b52fd7) |
-| Thu, 01 Jan 2026 06:13:02 GMT | How I Cracked CloudSEK CTF Round 2: A Deep Dive into “Boot Sequence” | Zer0Figure | [Read More](https://medium.com/p/4b19ce36a5ae) |
-| Thu, 01 Jan 2026 06:10:21 GMT | RAG Security 3: Long-lived Assets and Observable Signals Shape Incident Paths | inkme | [Read More](https://medium.com/p/11f5ccbba069) |
-| Thu, 01 Jan 2026 06:06:50 GMT | MongoBleed (CVE-2025–14847): Bug Bounty Reality of This MongoDB Vulnerability | Shaikh Minhaz | [Read More](https://medium.com/p/cf00e98b03b4) |
-| Thu, 01 Jan 2026 06:02:50 GMT | It Is What It Is | Maddy | [Read More](https://medium.com/p/68993db39cbd) |
-| Thu, 01 Jan 2026 06:01:42 GMT | Securing Secrets in Android: From API Keys to Production-Grade Defense | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/a2c8dc46948f) |
-| Thu, 01 Jan 2026 05:59:09 GMT | 7 Best IT Support Providers in Denton | Cloudavize | [Read More](https://medium.com/p/c5e699fcdb6b) |
-| Thu, 01 Jan 2026 05:59:07 GMT | A Comprehensive Recap of Nigeria’s Political, Economic, and Social Journey Through 2025 — and What… | Abdulmumin Olaleye | [Read More](https://medium.com/p/f3955b6d2115) |
