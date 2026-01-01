@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 07:41:26 GMT | Cybersecurity Roadmap (Beginner → Pro) | Mr. Lucifer | [Read More](https://medium.com/p/f50a1dcb5916) |
+| Thu, 01 Jan 2026 07:36:44 GMT | Passwords — A Cracking Christmas — Writeup(DAY 9 — Advent of Cyber TryHackMe 2025) | Cyb3r-Kr4k3s | [Read More](https://medium.com/p/9cfff05ce095) |
+| Thu, 01 Jan 2026 07:32:33 GMT | The Night Vietnam and the Philippines Quietly Built a Digital Wall in the South China Sea — and… | Vivek Anand | [Read More](https://medium.com/p/b3a084907272) |
+| Thu, 01 Jan 2026 07:30:01 GMT | JWT confused me for months. Here’s what finally made it click. | Mukti Mishra | [Read More](https://medium.com/p/8818fb6e49e3) |
+| Thu, 01 Jan 2026 07:21:36 GMT | Regression Testing Services in USA Explained for Business Owners | Achana prashanth | [Read More](https://medium.com/p/fcc62cbcad55) |
+| Thu, 01 Jan 2026 07:19:56 GMT | What Being a Cyber Expert in Lucknow Has Taught Me About India’s Cybersecurity Reality
+Content… | Ankit rai | [Read More](https://medium.com/p/200998566d74) |
 | Thu, 01 Jan 2026 07:11:52 GMT | AI vs Hackers: How Artificial Intelligence Is Changing Cybersecurity in Web3 | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/47db633f4954) |
 | Thu, 01 Jan 2026 07:11:35 GMT | From Deepfakes to Fingerprint Cloning — The New Face of AI-Powered Cybercrime | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/348f214d54ef) |
 | Thu, 01 Jan 2026 06:53:22 GMT | 2025 Tried to Break Me Quietly | Karthika T | [Read More](https://medium.com/p/0b66a7ad6b60) |
@@ -106,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 31 Dec 2025 19:34:53 GMT | Partners in Protection: The Next Era of Community Safety | Frank Elsner | [Read More](https://medium.com/p/5acfcea250f2) |
 | Wed, 31 Dec 2025 19:32:24 GMT | If Users Don’t Understand It in 5 Seconds, It’s Dead | Mughira Ahmed | [Read More](https://medium.com/p/e9cea443c722) |
 | Wed, 31 Dec 2025 19:24:30 GMT | Post-2025 Cybernetic Sovereignty Theory (PCST) | Mouad B. | [Read More](https://medium.com/p/fe2a590a9677) |
-| Wed, 31 Dec 2025 19:14:30 GMT | A New Year Thank You to Everyone Walking This Path Together | Viratavi | [Read More](https://medium.com/p/8a9143fcb4cd) |
-| Wed, 31 Dec 2025 19:12:51 GMT | When Time Becomes a Vulnerability: Breaking Chronohack’s Token Generator | Gregory Kovalchuk | [Read More](https://medium.com/p/8f1266c0f612) |
-| Wed, 31 Dec 2025 19:11:08 GMT | SURVIVING THE PASSWORD GAMES | Mahika Nanda | [Read More](https://medium.com/p/00c89bbaaf77) |
-| Wed, 31 Dec 2025 19:06:42 GMT | Networking Troubleshooting Lab: Simulating Real Help Desk Internet Issues | Kai Gallette | [Read More](https://medium.com/p/ea979a238edb) |
-| Wed, 31 Dec 2025 19:05:53 GMT | Writing Is Not Talent — It’s Vulnerability | Writersemail | [Read More](https://medium.com/p/bffa117e078f) |
-| Wed, 31 Dec 2025 19:02:42 GMT | Alert! A Silent Phone Scam Will Drain Your Bank Account… | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/684df1228d2f) |
