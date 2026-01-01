@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 19:38:30 GMT | ISO/IEC 42001: 2023 — Yapay Zeka Yönetim Sistemi | Mustafa YILMAZ | [Read More](https://medium.com/p/caafb2c15683) |
+| Thu, 01 Jan 2026 19:37:39 GMT | MongoDBBleed (CVE-2025–14847): The Memory Leak That Exposed Everything | shivam jadhav | [Read More](https://medium.com/p/9ffd63184395) |
+| Thu, 01 Jan 2026 19:32:24 GMT | Inside the Terminal: Mastering the Linux Ecosystem That Powers the World | Little_Sun4lower | [Read More](https://medium.com/p/776cefb0d08c) |
+| Thu, 01 Jan 2026 19:28:10 GMT | Iran foils large cyberattacks on communications network | Defence Affairs & Analysis | [Read More](https://medium.com/p/15eaef59410c) |
+| Thu, 01 Jan 2026 19:25:48 GMT | Securing a Production VPS in Practice | Muthukumaran Navaneethakrishnan | [Read More](https://medium.com/p/e3feaa9545af) |
+| Thu, 01 Jan 2026 19:23:24 GMT | Bypassing Pro Membership Using SQL Injection in an Android App lab | Mohamednaddaa | [Read More](https://medium.com/p/3feb11381ee4) |
+| Thu, 01 Jan 2026 19:20:51 GMT | Your Roadmap to GRC Success: Simplifying Governance, Risk, and Compliance! | Adeoluwa Obadofin | [Read More](https://medium.com/p/d3637373914b) |
+| Thu, 01 Jan 2026 19:19:59 GMT | Shocker: From 403 Forbidden to Root in Under 10 Mins! ⚡ | Nicholas Mullenski | [Read More](https://medium.com/p/1b53c202699f) |
+| Thu, 01 Jan 2026 19:17:41 GMT | What Social Media Influencers Can Teach Us About Authenticity | Alan Morantz | [Read More](https://medium.com/p/c9003cec34cb) |
 | Thu, 01 Jan 2026 19:17:36 GMT | Proxies Are Also Hackable But Not the Way You Think | Fareed Masood | [Read More](https://medium.com/p/2566877ef55c) |
 | Thu, 01 Jan 2026 19:17:22 GMT | Avoid These Five Mistakes If You’re Starting in Cybersecurity | Fareed Masood | [Read More](https://medium.com/p/7d4a6951efd6) |
 | Thu, 01 Jan 2026 19:12:43 GMT | Slay the Zombies — Eliminate Deadweight Applications with the Gartner TIME Framework | Mark Bridges | [Read More](https://medium.com/p/54ce6fae7f56) |
@@ -105,12 +114,3 @@ if I need to let this go. | Vicky Writes | [Read More](https://medium.com/p/bad7
 | Thu, 01 Jan 2026 14:07:47 GMT | Modern endüstriyel kontrol sistemlerinde (ICS) veri bütünlüğü, fiziksel dünyadan alınan analog… | Setenay T. | [Read More](https://medium.com/p/c0c6c2c22aaa) |
 | Thu, 01 Jan 2026 14:06:42 GMT | Networking Services — Network Series 4 | Mr.Cool | [Read More](https://medium.com/p/32dc727b9e8d) |
 | Thu, 01 Jan 2026 14:02:59 GMT | Threat Modeling MCP Servers with STRIDE: A Practical Guide | Odell Moreno | [Read More](https://medium.com/p/60bdad334c90) |
-| Thu, 01 Jan 2026 14:02:32 GMT | Mistakes in Clean Clothes | Dominique Striekwold | [Read More](https://medium.com/p/f81caee3c769) |
-| Thu, 01 Jan 2026 14:02:18 GMT | Linux Privilege Escalation via Sudo Misconfigurations: Shell Escaping, LD_PRELOAD & Real-World… | Amrit Sinha | [Read More](https://medium.com/p/9aaf0c5ef568) |
-| Thu, 01 Jan 2026 14:02:00 GMT | Why Retry Logic Creates More Bugs Than It Fixes (And How to Do It Right in Spring Boot | Karuna | [Read More](https://medium.com/p/8def1fc1abcb) |
-| Thu, 01 Jan 2026 13:37:08 GMT | CVE-2025–68260 and the Dangerous Comfort of “Safe Enough” Engineering | Spencer Thomason | [Read More](https://medium.com/p/8bcf941c9252) |
-| Thu, 01 Jan 2026 13:36:51 GMT | AI Tools in 2026 | Ismail Kovvuru | [Read More](https://medium.com/p/bcfa3ae0260f) |
-| Thu, 01 Jan 2026 13:30:43 GMT | OverTheWire Bandit Level 8 to 9: The Art of Anomaly Detection | Sivanesan M | [Read More](https://medium.com/p/e6f9a5854ae2) |
-| Thu, 01 Jan 2026 13:24:19 GMT | Quantum Zero Trust Security | Binu Panicker | [Read More](https://medium.com/p/6f42375171b6) |
-| Thu, 01 Jan 2026 13:23:52 GMT | Security Enhancement of Open Flow Networks | OxMotaw3 | [Read More](https://medium.com/p/a0e372fda65b) |
-| Thu, 01 Jan 2026 13:09:00 GMT | Introverts Don’t Hide. They Observe. | Vaidik k | [Read More](https://medium.com/p/092972bb5f5f) |
