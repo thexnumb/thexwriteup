@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 14:42:24 GMT | SentryPC 2026: The Best Parental Control Software for Tier 1 Country Families (Complete Guide) | Paul Meyer | [Read More](https://medium.com/p/cb1ca3d712b4) |
+| Thu, 01 Jan 2026 14:36:37 GMT | Smart Security for Free? Why the Tapo C402 Might Be the Ultimate Hub-Free Outdoor Camera. | Mohammed | [Read More](https://medium.com/p/6474039de1af) |
+| Thu, 01 Jan 2026 14:32:26 GMT | ARP Poisoning with ARP Spoof: A Guide to MITM Attacks | Vignesh R | [Read More](https://medium.com/p/3f025329ef3b) |
+| Thu, 01 Jan 2026 14:31:29 GMT | Navigating Nested Virtualization: A Beginner’s Journey | Darlie | [Read More](https://medium.com/p/07754011d0a2) |
+| Thu, 01 Jan 2026 14:23:15 GMT | The fear of wanting 
+‎ | Li's Journal | [Read More](https://medium.com/p/4257c9f41d03) |
+| Thu, 01 Jan 2026 14:21:12 GMT | SOC Analyst: The Guardian of Enterprise Security | Ferdi Edogawa | [Read More](https://medium.com/p/e12b72453997) |
+| Thu, 01 Jan 2026 14:20:16 GMT | SOC Journey — Day 1: Foundations That Keep Data Safe | Drishti Pandey | [Read More](https://medium.com/p/7628cd2825c0) |
+| Thu, 01 Jan 2026 14:19:00 GMT | Exploiting Metasploitable2 Using msfconsole (Kali Linux Lab) | Ankit Kumar | [Read More](https://medium.com/p/b085cca52358) |
+| Thu, 01 Jan 2026 14:18:59 GMT | Nigeria Spent $142 Billion on Terror. The Violence Persists. | Oge Samuel Okonkwo | [Read More](https://medium.com/p/e31ff8fc148d) |
 | Thu, 01 Jan 2026 14:14:44 GMT | Redundancy Engineering: why “Extra” means Intelligent Design | Kumar Vinay | [Read More](https://medium.com/p/dc4a1eabc40f) |
 | Thu, 01 Jan 2026 14:07:47 GMT | Modern endüstriyel kontrol sistemlerinde (ICS) veri bütünlüğü, fiziksel dünyadan alınan analog… | Setenay T. | [Read More](https://medium.com/p/c0c6c2c22aaa) |
 | Thu, 01 Jan 2026 14:06:42 GMT | Networking Services — Network Series 4 | Mr.Cool | [Read More](https://medium.com/p/32dc727b9e8d) |
@@ -103,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 Jan 2026 07:32:33 GMT | The Night Vietnam and the Philippines Quietly Built a Digital Wall in the South China Sea — and… | Vivek Anand | [Read More](https://medium.com/p/b3a084907272) |
 | Thu, 01 Jan 2026 07:30:01 GMT | JWT confused me for months. Here’s what finally made it click. | Mukti Mishra | [Read More](https://medium.com/p/8818fb6e49e3) |
 | Thu, 01 Jan 2026 07:21:36 GMT | Regression Testing Services in USA Explained for Business Owners | Achana prashanth | [Read More](https://medium.com/p/fcc62cbcad55) |
-| Thu, 01 Jan 2026 07:19:56 GMT | What Being a Cyber Expert in Lucknow Has Taught Me About India’s Cybersecurity Reality
-Content… | Ankit rai | [Read More](https://medium.com/p/200998566d74) |
-| Thu, 01 Jan 2026 07:11:52 GMT | AI vs Hackers: How Artificial Intelligence Is Changing Cybersecurity in Web3 | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/47db633f4954) |
-| Thu, 01 Jan 2026 07:11:35 GMT | From Deepfakes to Fingerprint Cloning — The New Face of AI-Powered Cybercrime | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/348f214d54ef) |
-| Thu, 01 Jan 2026 06:53:22 GMT | 2025 Tried to Break Me Quietly | Karthika T | [Read More](https://medium.com/p/0b66a7ad6b60) |
-| Thu, 01 Jan 2026 06:45:01 GMT | Skip the Struggle: Why Low-Cost Managed VPS Hosting Is the Shortcut to Serious Performance? | Ann Taylor | [Read More](https://medium.com/p/f37bec04e574) |
-| Thu, 01 Jan 2026 06:27:27 GMT | Hello my name is… (Part 1) | Kurb4n | [Read More](https://medium.com/p/072fe2b7050e) |
-| Thu, 01 Jan 2026 06:24:58 GMT | The Silent Weapon (Part 3): AI-Assisted Recon Chains That Actually Find Bugs | ghostyjoe | [Read More](https://medium.com/p/38b847be67c9) |
-| Thu, 01 Jan 2026 06:22:42 GMT | Building Better CTFs | Yash Kiran Patil | [Read More](https://medium.com/p/c7e13c9c84e0) |
-| Thu, 01 Jan 2026 06:15:58 GMT | AWS — IAM(Identity and Access Management) | rootRS7 | [Read More](https://medium.com/p/895976d236c2) |
