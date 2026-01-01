@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 10:15:22 GMT | Cybersecurity 2026 Forecast and Why I am Scary | Motasem Hamdan | [Read More](https://medium.com/p/9471f94ec80c) |
+| Thu, 01 Jan 2026 10:10:29 GMT | How Much Does ISO 27001 Cost? A Detailed Breakdown of Every Expense | SecureSlate | [Read More](https://medium.com/p/924df127912a) |
+| Thu, 01 Jan 2026 10:09:41 GMT | 2026: PQC Key Exchange Begins | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/77c550095c9e) |
+| Thu, 01 Jan 2026 10:09:26 GMT | The Most Dangerous Vulnerability Nobody Patches on Time | Rajat Srivastava | [Read More](https://medium.com/p/18cda552baca) |
+| Thu, 01 Jan 2026 10:03:17 GMT | Secure Your Computer: Proven Strategies to Prevent Hacking | Theekshana Nirmal | [Read More](https://medium.com/p/1b2efe1e27a5) |
+| Thu, 01 Jan 2026 10:02:13 GMT | When CDNs Lie: How Cached Responses Exposed Private Data at Scale | Iski | [Read More](https://medium.com/p/7208a53b164c) |
+| Thu, 01 Jan 2026 09:55:37 GMT | Threat Actor Analysis: Scattered Spider | Teddybot | [Read More](https://medium.com/p/a09dfd1ec09c) |
+| Thu, 01 Jan 2026 09:52:05 GMT | Day 2: Installing Kali Linux (VM + Dual Boot) | Gaurav Suratwala | [Read More](https://medium.com/p/1c804936f4d5) |
+| Thu, 01 Jan 2026 09:48:00 GMT | Inside Windows: From Everyday Interface to Enterprise-Grade Security | Little_Sun4lower | [Read More](https://medium.com/p/67ff635d35bf) |
 | Thu, 01 Jan 2026 09:43:45 GMT | FTP Anonymous Login Vulnerability: Exploiting Port 21 Using Nmap and John the Ripper | virexil.null | [Read More](https://medium.com/p/78696c8808ff) |
 | Thu, 01 Jan 2026 09:43:11 GMT | What You Should Actually Focus On In 2026 (Everything Else Is Noise) | Vijay Kumar Gupta | [Read More](https://medium.com/p/1b78df8938b6) |
 | Thu, 01 Jan 2026 09:41:17 GMT | Roadmap to Starting with IAM | Let's | [Read More](https://medium.com/p/ffbaa3ce3c1b) |
@@ -104,12 +113,3 @@ Content… | Ankit rai | [Read More](https://medium.com/p/200998566d74) |
 | Thu, 01 Jan 2026 01:25:03 GMT | Refresh Token Rotation Done Right: How to Protect Your Backend from Token Theft | BlockchainBard | [Read More](https://medium.com/p/a875435a78c6) |
 | Thu, 01 Jan 2026 00:44:46 GMT | Recon Is Not About Tools, It’s About Thinking | cat0x01 | [Read More](https://medium.com/p/2259b8e9dc9a) |
 | Thu, 01 Jan 2026 00:44:12 GMT | Everything worth knowing about identity providers: OAuth and OpenID connect | Sw33tBit | [Read More](https://medium.com/p/7a720bae73b1) |
-| Thu, 01 Jan 2026 00:41:43 GMT | Building Google OAuth Login with Role-Based Access Control in FastAPI — Part 2: Adding… | Jahel | [Read More](https://medium.com/p/23a8adbc8e95) |
-| Thu, 01 Jan 2026 00:20:42 GMT | NAC Profiling Rules: Do You Really Know Who Is Connecting to Your Network? | Esra Kayhan | [Read More](https://medium.com/p/d38546ea0bea) |
-| Thu, 01 Jan 2026 00:11:34 GMT | Kioptrix 1 Remote Buffer Overflow (Beginner Walkthrough) | RenVector | [Read More](https://medium.com/p/6763ff4c39b7) |
-| Thu, 01 Jan 2026 00:07:22 GMT | Quick Note: Passwords | Ellen Auchter | [Read More](https://medium.com/p/d95616158383) |
-| Wed, 31 Dec 2025 23:56:50 GMT | Role-Based Authorization for Jenkins with the Folder Plugin | Amit Nikumbh | [Read More](https://medium.com/p/0f0693047f13) |
-| Wed, 31 Dec 2025 23:42:32 GMT | ️‍♂️ Hacking Bashed: The Deadly Cost of "Shadow IT" Exposed | Nmullenski | [Read More](https://medium.com/p/dc0ecda2c4ba) |
-| Wed, 31 Dec 2025 23:14:43 GMT | THE FUTURE OF OSINT: 5 Predictions for 2026 and Beyond | Azutech | [Read More](https://medium.com/p/3368f2340fff) |
-| Wed, 31 Dec 2025 23:02:03 GMT | Web-RTA Review: Is a $9 Cybersecurity Certification Worth It? | B13ss3d | [Read More](https://medium.com/p/80d9169cf96b) |
-| Wed, 31 Dec 2025 22:57:23 GMT | Review Web-RTA: ¿Vale la pena una certificación de ciberseguridad de $9 USD? | B13ss3d | [Read More](https://medium.com/p/c5d4e4f2887a) |
