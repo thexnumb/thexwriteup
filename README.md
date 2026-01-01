@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 15:25:13 GMT | Finding Cross-Site Scripting (XSS) Vulnerabilities A Hands-On Guide | Vrushalipagar | [Read More](https://medium.com/p/ac445ba6967a) |
+| Thu, 01 Jan 2026 15:24:18 GMT | Hunting a Zero-Click Reflected XSS: Breaking Out of Attributes in WordPress Search | Maverick | [Read More](https://medium.com/p/70071a099dd3) |
+| Thu, 01 Jan 2026 15:20:58 GMT | MAGIC CHECK: Learning to Read What Files Actually Are | James Reeves | [Read More](https://medium.com/p/d135118dd288) |
 | Thu, 01 Jan 2026 15:16:14 GMT | The Chameleon Attack: Breaking Apache StreamPipes with Recursive Object Tampering (CVE-2025–47411) | Francisco Paz Mccausland | [Read More](https://medium.com/p/fce3702bc45d) |
 | Thu, 01 Jan 2026 15:13:00 GMT | Professional Security Cameras Los Angeles CA-Importance of Modern Security Solutions | Thomas Wilson | [Read More](https://medium.com/p/ad5c6ccc4096) |
 | Thu, 01 Jan 2026 15:01:07 GMT | LokidresCTF Write-Up | Myusuftr | [Read More](https://medium.com/p/4232cbda1daa) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 Jan 2026 08:42:23 GMT | Containers — DoorDasher’s Demise— Writeup(DAY 14— Advent of Cyber TryHackMe 2025) | Cyb3r-Kr4k3s | [Read More](https://medium.com/p/02066338198d) |
 | Thu, 01 Jan 2026 08:36:39 GMT | 8 Best IT Support Providers in Houston | Cloudavize | [Read More](https://medium.com/p/4789c5f0469e) |
 | Thu, 01 Jan 2026 08:36:23 GMT | VAPT in 2025: How Techincisive Protects Businesses in a Hyperconnected World | Devarshi Acharya | [Read More](https://medium.com/p/01e23b9430f8) |
-| Thu, 01 Jan 2026 08:31:05 GMT | Biggest security breaches in 2025 | Bytesinger | [Read More](https://medium.com/p/1f25359846d3) |
-| Thu, 01 Jan 2026 08:29:32 GMT | Is Your WordPress Site a Ticking Time Bomb? The Hidden Cost of Technical Debt | Wpexpert24 | [Read More](https://medium.com/p/375244f5729d) |
-| Thu, 01 Jan 2026 08:22:47 GMT | 7 Critical Fixes for Digiever DS-2105 Pro NVRs | Pentest_Testing_Corp | [Read More](https://medium.com/p/b924643f90f5) |
