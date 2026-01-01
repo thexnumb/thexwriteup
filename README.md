@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 21:38:00 GMT | Breaking Things Legally : TryHackMe Advent of Cyber | Eshwar Desetty | [Read More](https://medium.com/p/77a093f73578) |
+| Thu, 01 Jan 2026 21:16:24 GMT | ️ Beyond Prompt Injection: The “Corrupted Intelligence” Attack and the Rise of Agentic Security | Manniarora | [Read More](https://medium.com/p/264533cfc063) |
 | Thu, 01 Jan 2026 21:15:48 GMT | TryHackMe -Lumberjack Turtle | Efe | [Read More](https://medium.com/p/8bc9584118b7) |
 | Thu, 01 Jan 2026 21:09:44 GMT | AI Pentesting: Practicing Prompt Injection With the Gandalf Challenge | Will Giles - Cybersecurity | [Read More](https://medium.com/p/01f10400d7bb) |
 | Thu, 01 Jan 2026 21:08:26 GMT | Building a Full-Tunnel WireGuard VPN with Ubuntu Server and Kali Linux (No Cloud, No VPS) | Eyob Million | [Read More](https://medium.com/p/8e59e47ccbb6) |
@@ -111,5 +113,3 @@ if I need to let this go. | Vicky Writes | [Read More](https://medium.com/p/bad7
 | Thu, 01 Jan 2026 15:01:07 GMT | LokidresCTF Write-Up | Myusuftr | [Read More](https://medium.com/p/4232cbda1daa) |
 | Thu, 01 Jan 2026 15:00:51 GMT | Sauna HTB — Security lessons | Balaji_21 | [Read More](https://medium.com/p/315b1cfb656d) |
 | Thu, 01 Jan 2026 14:59:30 GMT | From Chiffon Sarees to Secure Software: A Bollywood Guide to Application Security Frameworks | Sumant Khapre | [Read More](https://medium.com/p/6122be2036b2) |
-| Thu, 01 Jan 2026 14:58:39 GMT | How 2025 Shaped My Path into Cybersecurity | Aabdelbariee | [Read More](https://medium.com/p/6af8eeabf6e1) |
-| Thu, 01 Jan 2026 14:52:24 GMT | Ghost Posts via IDOR: How I Read Unpublished NASA Blog Content Using Simple Math | LETCHU PKT | [Read More](https://medium.com/p/8f778adc254d) |
