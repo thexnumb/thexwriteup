@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 09:10:50 GMT | System Hardening with CIS Benchmarks | Kartik Gupta | [Read More](https://medium.com/p/e3b5e7f0fb0c) |
+| Thu, 01 Jan 2026 09:08:04 GMT | Common Cybersecurity Threats You Should Know About | Xpertguider | [Read More](https://medium.com/p/0e901e18ec40) |
+| Thu, 01 Jan 2026 09:02:26 GMT | You Can’t Change What You Don’t See: The Simple Way to Find Exposed Emails Tied to Your Domain | Alexandre Vandamme | [Read More](https://medium.com/p/8bc50b36d150) |
+| Thu, 01 Jan 2026 09:00:44 GMT | Techniques to Link Multiple OAuth2 Clients to the Same User in Spring Security | Anh Trần Tuấn | [Read More](https://medium.com/p/faef041958ba) |
+| Thu, 01 Jan 2026 08:55:49 GMT | EU Calls Out Russia’s Cyberattack Claims as Baseless. | Anna’s Brief | [Read More](https://medium.com/p/334f93b3bd68) |
+| Thu, 01 Jan 2026 08:55:32 GMT | From “Just a Number” to a Privacy Leak: An IDOR Case Study | Tilaksingh Rana | [Read More](https://medium.com/p/f0c3dd3e16e2) |
+| Thu, 01 Jan 2026 08:53:37 GMT | Deconstructing Disaster: The Inside Story of the Sony Pictures Hack and How to Prevent the Next One | jaeson Bernardsha | [Read More](https://medium.com/p/aa95bb73c7b0) |
+| Thu, 01 Jan 2026 08:52:24 GMT | Time-Clock Taps to Data Driven Product Mixes: Coming in Clutch with C# and Linear Programming | Namir Sagheenanajar | [Read More](https://medium.com/p/1fe40a5557b6) |
+| Thu, 01 Jan 2026 08:42:23 GMT | Containers — DoorDasher’s Demise— Writeup(DAY 14— Advent of Cyber TryHackMe 2025) | Cyb3r-Kr4k3s | [Read More](https://medium.com/p/02066338198d) |
+| Thu, 01 Jan 2026 08:36:39 GMT | 8 Best IT Support Providers in Houston | Cloudavize | [Read More](https://medium.com/p/4789c5f0469e) |
+| Thu, 01 Jan 2026 08:36:23 GMT | VAPT in 2025: How Techincisive Protects Businesses in a Hyperconnected World | Devarshi Acharya | [Read More](https://medium.com/p/01e23b9430f8) |
+| Thu, 01 Jan 2026 08:31:05 GMT | Biggest security breaches in 2025 | Bytesinger | [Read More](https://medium.com/p/1f25359846d3) |
 | Thu, 01 Jan 2026 08:29:32 GMT | Is Your WordPress Site a Ticking Time Bomb? The Hidden Cost of Technical Debt | Wpexpert24 | [Read More](https://medium.com/p/375244f5729d) |
 | Thu, 01 Jan 2026 08:22:47 GMT | 7 Critical Fixes for Digiever DS-2105 Pro NVRs | Pentest_Testing_Corp | [Read More](https://medium.com/p/b924643f90f5) |
 | Thu, 01 Jan 2026 08:09:20 GMT | Your Hosting Isn’t ‘Reliable’ Until It Ticks These 6 Boxes — Here’s the Checklist | Andy | [Read More](https://medium.com/p/c4273a1f57b6) |
@@ -101,15 +113,3 @@ Content… | Ankit rai | [Read More](https://medium.com/p/200998566d74) |
 | Wed, 31 Dec 2025 22:23:38 GMT | Stack Traces : Unveiling attack surface | TheCzar | [Read More](https://medium.com/p/c2eb4e815a65) |
 | Wed, 31 Dec 2025 22:19:56 GMT | Prompt Injection: How Attackers Trick AI Into Revealing Its Secrets | Will Giles - Cybersecurity | [Read More](https://medium.com/p/afc0ff4cd5b9) |
 | Wed, 31 Dec 2025 21:49:38 GMT | Advice and New Year’s Resolutions from a 21 Year-Old | Humna Sultan | [Read More](https://medium.com/p/7a0245fc178e) |
-| Wed, 31 Dec 2025 21:34:10 GMT | Another Medical Data Breach! The NS Support Cyberattack | Pipeline | [Read More](https://medium.com/p/14206faf66cb) |
-| Wed, 31 Dec 2025 21:32:42 GMT | BigQuery Tag-Based Governance + Information Schema Audits: Enforce PII Boundaries in SQL | Yamishift | [Read More](https://medium.com/p/b2227a9951c1) |
-| Wed, 31 Dec 2025 21:22:53 GMT | Zs Cyber Protection Guard: Automating DNS Rotation for Enhanced Privacy | Ugochukwu Bernard Anyaogu-Ben | [Read More](https://medium.com/p/27b96fe13e17) |
-| Wed, 31 Dec 2025 21:19:28 GMT | Penetration Testing for weak ? | Salah_Taha | [Read More](https://medium.com/p/88eb41a95c51) |
-| Wed, 31 Dec 2025 21:18:28 GMT | Scaling Systems and Securing Data: My Journey as a Software Engineer | Adeleye Ayomide Tosin | [Read More](https://medium.com/p/fc60be209de8) |
-| Wed, 31 Dec 2025 21:10:25 GMT | 87,000 MongoDB Servers Exposed: How MongoBleed is Leaking Your Secrets Right Now | Ved | [Read More](https://medium.com/p/84ce620d7c88) |
-| Wed, 31 Dec 2025 21:06:58 GMT | The Current State of AI Security: Lessons from Mark Russinovich’s ACM Tech Talk | Arsen Vladimirskiy | [Read More](https://medium.com/p/c6ac5a3f38ca) |
-| Wed, 31 Dec 2025 20:53:41 GMT | Cyberattacks & Ransomware Attacks of 2025: The Biggest Fallouts, Breaches & Lessons | IT_Engineer | [Read More](https://medium.com/p/130944379009) |
-| Wed, 31 Dec 2025 20:53:24 GMT | The AI Feature No One Should Have Built: Designing Against Non-Consensual Intimate Imagery | Adedayo Agarau | [Read More](https://medium.com/p/6de0e7bf4a76) |
-| Wed, 31 Dec 2025 20:51:04 GMT | Modernizing On-Prem Infrastructure: Building a Secure 4-Node Proxmox Cluster with Zero Trust Access | Amila kothalawala | [Read More](https://medium.com/p/a270e753f6e0) |
-| Wed, 31 Dec 2025 20:40:35 GMT | Top Software That Can Boost Your Career or Income in 2026 | The Explainer | [Read More](https://medium.com/p/c194c840f3ff) |
-| Wed, 31 Dec 2025 20:36:51 GMT | Top 10 Cybersecurity Predictions for 2026 | Matthew.Rosenquist | [Read More](https://medium.com/p/4eef64c8f297) |
