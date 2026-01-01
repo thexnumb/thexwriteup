@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 13:30:43 GMT | OverTheWire Bandit Level 8 to 9: The Art of Anomaly Detection | Sivanesan M | [Read More](https://medium.com/p/e6f9a5854ae2) |
+| Thu, 01 Jan 2026 13:24:19 GMT | Quantum Zero Trust Security | Binu Panicker | [Read More](https://medium.com/p/6f42375171b6) |
+| Thu, 01 Jan 2026 13:23:52 GMT | Security Enhancement of Open Flow Networks | OxMotaw3 | [Read More](https://medium.com/p/a0e372fda65b) |
+| Thu, 01 Jan 2026 13:09:00 GMT | Introverts Don’t Hide. They Observe. | Vaidik k | [Read More](https://medium.com/p/092972bb5f5f) |
+| Thu, 01 Jan 2026 13:08:04 GMT | Chapter 2: The Loud Scan That Got Grounded | Fateyaly | [Read More](https://medium.com/p/13b75ab3610e) |
+| Thu, 01 Jan 2026 13:02:30 GMT | Linux Security Habit #13: I Treat Every Cron Job as a Potential Persistence Mechanism | Faruk Ahmed | [Read More](https://medium.com/p/54a41e3bea93) |
+| Thu, 01 Jan 2026 12:53:41 GMT | Linux Security Cheat Sheet | Oz | [Read More](https://medium.com/p/0fd019ef4fcf) |
+| Thu, 01 Jan 2026 12:50:24 GMT | Unlocking the Power of DNSRecon: Advanced Recon Techniques for Red Teamers | Cybeague Technologies | [Read More](https://medium.com/p/b430d16c0889) |
+| Thu, 01 Jan 2026 12:49:36 GMT | Getting Started with DNSRecon: Discover Hidden DNS Information Like a Pro | Cybeague Technologies | [Read More](https://medium.com/p/e0d75a97d0c9) |
 | Thu, 01 Jan 2026 12:32:29 GMT | Admin Dashboard Access Wasn’t Hacked — It Was Allowed | XoX | [Read More](https://medium.com/p/15c556b1c850) |
 | Thu, 01 Jan 2026 12:21:00 GMT | SOC Analyst’s New Superpower (Part 2): Host-Based Automated Incident Response | Mostafa Elsaeed | [Read More](https://medium.com/p/3e40133451e1) |
 | Thu, 01 Jan 2026 12:10:16 GMT | Windows Active Directory DNS Mimarisi, Yönetimi ve Güvenliği: | Serdarumuturan | [Read More](https://medium.com/p/1f5b33952b56) |
@@ -104,12 +113,3 @@ Content… | Ankit rai | [Read More](https://medium.com/p/200998566d74) |
 | Thu, 01 Jan 2026 06:01:42 GMT | Securing Secrets in Android: From API Keys to Production-Grade Defense | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/a2c8dc46948f) |
 | Thu, 01 Jan 2026 05:59:09 GMT | 7 Best IT Support Providers in Denton | Cloudavize | [Read More](https://medium.com/p/c5e699fcdb6b) |
 | Thu, 01 Jan 2026 05:59:07 GMT | A Comprehensive Recap of Nigeria’s Political, Economic, and Social Journey Through 2025 — and What… | Abdulmumin Olaleye | [Read More](https://medium.com/p/f3955b6d2115) |
-| Thu, 01 Jan 2026 05:57:08 GMT | SantaCloud Intigriti Web Challenge Write-Up | Gr00t | [Read More](https://medium.com/p/29175ea3b2ce) |
-| Thu, 01 Jan 2026 05:56:32 GMT | The Weight of A New Calendar: 2026 | Sheyy | [Read More](https://medium.com/p/cfb7ffec29ab) |
-| Thu, 01 Jan 2026 05:54:58 GMT | From SSRF to RCE: Why Kill Chains Work | Tyreek Haynes | [Read More](https://medium.com/p/77688e3ee25c) |
-| Thu, 01 Jan 2026 05:49:04 GMT | Home Security System: Smart Protection for Homes Across Ontario | Alarm Guard Security | [Read More](https://medium.com/p/e13303d2607f) |
-| Thu, 01 Jan 2026 05:44:01 GMT | Why I’m Documenting My Tech Learning Journey | Leela Krishna Gunnemeda | [Read More](https://medium.com/p/7f48425d3cb9) |
-| Thu, 01 Jan 2026 05:38:43 GMT | From Budget to Brilliance: How Low-Cost Web Hosting Keeps You Ahead? | Mary Thomas | [Read More](https://medium.com/p/57706b6dc348) |
-| Thu, 01 Jan 2026 05:37:15 GMT | BEAUTIFUL WOMAN DMS YOU ON INSTAGRAM. SHE’S ACTUALLY A 19-YEAR-OLD BOY IN LAGOS. | Joseph | [Read More](https://medium.com/p/ff5cc50fedc4) |
-| Thu, 01 Jan 2026 05:32:26 GMT | Solving Identity Management in Modern Applications: An Architecture-Series | Dilanka Muthukumarana | [Read More](https://medium.com/p/d98ae13b13f2) |
-| Thu, 01 Jan 2026 05:20:55 GMT | Protecting Alberta Homes with Smart, Reliable Solutions | Alarm Guard Security | [Read More](https://medium.com/p/b8cc95b3aee9) |
