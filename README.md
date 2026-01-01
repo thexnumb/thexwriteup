@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 17:16:48 GMT | Wireless in OT: WirelessHART and ISA 100.11a | urjasec | [Read More](https://medium.com/p/c5493c64c070) |
+| Thu, 01 Jan 2026 17:12:53 GMT | MongoBleed: A Granular Breakdown of MongoDB’s Pre-Auth Memory Leak | Shreyash Tambe | [Read More](https://medium.com/p/cbaeaaa8dc43) |
+| Thu, 01 Jan 2026 17:11:28 GMT | Leaked Unsafe Product(Sensitive Data Exposure) OWASP Juice Shop WalkThrough | Anjali | [Read More](https://medium.com/p/7bad7993e475) |
+| Thu, 01 Jan 2026 17:09:59 GMT | Meet Shannon, the AI Hacker That Outperforms Human Pentesters | cybrNK | [Read More](https://medium.com/p/6ddc2b8fff0a) |
+| Thu, 01 Jan 2026 17:06:02 GMT | Citizen Experience vs Compliance: The Friction of Paper Notices | Letro | [Read More](https://medium.com/p/3078166c84ed) |
+| Thu, 01 Jan 2026 17:05:24 GMT | The Evolution of Computer Viruses: From Harmless Experiments to AI-Driven Autonomous Threats | Jan Krawczyk | [Read More](https://medium.com/p/b3d93bb9a919) |
+| Thu, 01 Jan 2026 17:05:00 GMT | “Data Engineering Mastery Isn’t a Stack — It’s a Mental Model | Abdhulkalam | [Read More](https://medium.com/p/943ffbc4c0e9) |
+| Thu, 01 Jan 2026 16:59:03 GMT | Cybersecurity Company In Canada For Trusted Protection | Plutosec Cyber Security | [Read More](https://medium.com/p/ee58291ad515) |
+| Thu, 01 Jan 2026 16:56:39 GMT | Zero to Hero OSINT: Automating Recon with SpiderFoot CLI on Kali Linux | Manas Mahato | [Read More](https://medium.com/p/4be8ffa33783) |
+| Thu, 01 Jan 2026 16:56:24 GMT | Your MongoDB Might Be Bleeding Secrets Right Now: Inside CVE‑2025‑14847 | cybrNK | [Read More](https://medium.com/p/121ced72d359) |
+| Thu, 01 Jan 2026 16:55:14 GMT | How Effective Is Malware Analysis in Cloud Sandboxes? | Jan Krawczyk | [Read More](https://medium.com/p/e8a9f2494471) |
 | Thu, 01 Jan 2026 16:49:00 GMT | Beyond the APK: Exploiting Misconfigured Firebase Databases | Samet Yiğit | [Read More](https://medium.com/p/764c48e4fc80) |
 | Thu, 01 Jan 2026 16:46:38 GMT | Bypassing “Get This App From Play” Integrity Check on Android Apps | Clario Johan | [Read More](https://medium.com/p/3af4c68aae5f) |
 | Thu, 01 Jan 2026 16:43:33 GMT | Stop Data Exfiltration Before It Starts: A Deep Dive into Google’s VPC Service Controls (VPC-SC) | DAKSHITA Agarwal | [Read More](https://medium.com/p/c20e419f0fc6) |
@@ -102,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 Jan 2026 10:55:25 GMT | The Importance of Total Security Solutions in a Rapidly Evolving World | Ciss India | [Read More](https://medium.com/p/e85eeb07c2bd) |
 | Thu, 01 Jan 2026 10:47:59 GMT | Why “No One Will Target Me” Is the Most Dangerous Security Assumption | Aditya | [Read More](https://medium.com/p/9cdb727f8c5b) |
 | Thu, 01 Jan 2026 10:38:16 GMT | No Alerts Doesn’t Mean You’re Secure. It Usually Means You’re Blind | Elias Gray | [Read More](https://medium.com/p/0eaa1d334f45) |
-| Thu, 01 Jan 2026 10:36:26 GMT | KEAMANAN LINUX | Ahmad Diqri Wirayudha | [Read More](https://medium.com/p/9a3c49a791ba) |
-| Thu, 01 Jan 2026 10:30:18 GMT | Industrial plants and ICS as targets — Stuxnet and what happend after it | Maxi | [Read More](https://medium.com/p/a905db0816cc) |
-| Thu, 01 Jan 2026 10:27:59 GMT | Energy organizations operate in environments where cyber incidents can affect safety, production… | Rahman Iqbal | [Read More](https://medium.com/p/bf56771e917a) |
-| Thu, 01 Jan 2026 10:16:41 GMT | The Ghost and the Machine: Kevin Mitnick and the Art of Human Hacking | Ann Isabelle | [Read More](https://medium.com/p/780f8271ca0e) |
-| Thu, 01 Jan 2026 10:15:22 GMT | Cybersecurity 2026 Forecast and Why I am Scary | Motasem Hamdan | [Read More](https://medium.com/p/9471f94ec80c) |
-| Thu, 01 Jan 2026 10:10:29 GMT | How Much Does ISO 27001 Cost? A Detailed Breakdown of Every Expense | SecureSlate | [Read More](https://medium.com/p/924df127912a) |
-| Thu, 01 Jan 2026 10:09:41 GMT | 2026: PQC Key Exchange Begins | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/77c550095c9e) |
-| Thu, 01 Jan 2026 10:09:26 GMT | The Most Dangerous Vulnerability Nobody Patches on Time | Rajat Srivastava | [Read More](https://medium.com/p/18cda552baca) |
-| Thu, 01 Jan 2026 10:03:17 GMT | Secure Your Computer: Proven Strategies to Prevent Hacking | Theekshana Nirmal | [Read More](https://medium.com/p/1b2efe1e27a5) |
-| Thu, 01 Jan 2026 10:02:13 GMT | When CDNs Lie: How Cached Responses Exposed Private Data at Scale | Iski | [Read More](https://medium.com/p/7208a53b164c) |
-| Thu, 01 Jan 2026 09:55:37 GMT | Threat Actor Analysis: Scattered Spider | Teddybot | [Read More](https://medium.com/p/a09dfd1ec09c) |
