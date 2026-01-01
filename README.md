@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 11:13:51 GMT | Modern Warfare After Ukraine: Lessons, Limits, and the Shape of Future Conflict | MASUM BILLAH | [Read More](https://medium.com/p/4a475da1b9fe) |
+| Thu, 01 Jan 2026 11:12:00 GMT | The 2-Key Dilemma | CybeCloud | [Read More](https://medium.com/p/4992844404f6) |
+| Thu, 01 Jan 2026 11:07:54 GMT | SOC Analyst ROADMAP [2026 ] | Mr Horbio | [Read More](https://medium.com/p/13006d3d3cdd) |
+| Thu, 01 Jan 2026 11:05:16 GMT | Learning OS Security Through CTF: From File Permission to Hidden Data | Ighfir Maulana | [Read More](https://medium.com/p/eaf93dc09974) |
+| Thu, 01 Jan 2026 11:00:39 GMT | Why Mullvad VPN Is Becoming the Go-To Privacy Tool for Secure Internet Users | Cheapersgame | [Read More](https://medium.com/p/6e57ffebd5c1) |
+| Thu, 01 Jan 2026 11:00:02 GMT | Understanding Permissions in the New Microsoft Defender Portal | Saikat Paul | [Read More](https://medium.com/p/0897ed244124) |
+| Thu, 01 Jan 2026 10:58:58 GMT | CTF Walkthrough : SantaCloud by Intigriti. | roguenull | [Read More](https://medium.com/p/939da5a46efd) |
+| Thu, 01 Jan 2026 10:58:29 GMT | A Practical Guide to Choosing the Right Managed IT Service Providers | Prohash Technologies | [Read More](https://medium.com/p/d2a8ccd3889c) |
+| Thu, 01 Jan 2026 10:58:02 GMT | State-Sponsored Cyberattacks: What They Are, How They Work, and Why Europe — and France in… | Axellegay | [Read More](https://medium.com/p/1c60c8431f14) |
+| Thu, 01 Jan 2026 10:56:57 GMT | Avoid using constructors to create objects in Java. Instead, consider using a ✅ factory method. | Jaybhavsar | [Read More](https://medium.com/p/9b54c9e5df0d) |
+| Thu, 01 Jan 2026 10:55:25 GMT | The Importance of Total Security Solutions in a Rapidly Evolving World | Ciss India | [Read More](https://medium.com/p/e85eeb07c2bd) |
+| Thu, 01 Jan 2026 10:47:59 GMT | Why “No One Will Target Me” Is the Most Dangerous Security Assumption | Aditya | [Read More](https://medium.com/p/9cdb727f8c5b) |
 | Thu, 01 Jan 2026 10:38:16 GMT | No Alerts Doesn’t Mean You’re Secure. It Usually Means You’re Blind | Elias Gray | [Read More](https://medium.com/p/0eaa1d334f45) |
 | Thu, 01 Jan 2026 10:36:26 GMT | KEAMANAN LINUX | Ahmad Diqri Wirayudha | [Read More](https://medium.com/p/9a3c49a791ba) |
 | Thu, 01 Jan 2026 10:30:18 GMT | Industrial plants and ICS as targets — Stuxnet and what happend after it | Maxi | [Read More](https://medium.com/p/a905db0816cc) |
@@ -101,15 +113,3 @@ Content… | Ankit rai | [Read More](https://medium.com/p/200998566d74) |
 | Thu, 01 Jan 2026 03:34:24 GMT | Why Secure Coding Is Harder Than People Think | Hania Khan | [Read More](https://medium.com/p/856d5f4a8af9) |
 | Thu, 01 Jan 2026 03:32:25 GMT | Day 3 — Linux Essentials for Security Engineers | NineTales | [Read More](https://medium.com/p/575677043ac6) |
 | Thu, 01 Jan 2026 03:32:25 GMT | The Danger of Normal: How SideWinder Turned Trust into Access | Deven Chhajed | [Read More](https://medium.com/p/ab65b69f233a) |
-| Thu, 01 Jan 2026 03:01:45 GMT | CEHv12: Cloud Computing(Practised) (Module 18) | Aditya Kumar | [Read More](https://medium.com/p/8310eb8bd553) |
-| Thu, 01 Jan 2026 02:58:09 GMT | Segurança em containers: Docker Hardened Images como um serviço gratuito! | Renato Groffe | [Read More](https://medium.com/p/1ae9e1adf6ea) |
-| Thu, 01 Jan 2026 02:56:52 GMT | Understanding Hydra: Logic, Working, and Syntax of a Brute-Force Tool | Gajanan Tayde | [Read More](https://medium.com/p/203b88a9314e) |
-| Thu, 01 Jan 2026 02:56:25 GMT | CEHv12: IoT and OT Hacking (Practised) (Module 18) | Aditya Kumar | [Read More](https://medium.com/p/ffb290220207) |
-| Thu, 01 Jan 2026 02:42:30 GMT | A Simple Way to Start Your Cybersecurity Journey in 2026 | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/fb2f78f00617) |
-| Thu, 01 Jan 2026 02:41:39 GMT | CISSP Domain 3: Cryptography Coffee Shots | Pushpak Sharma | [Read More](https://medium.com/p/5b9b3c7c5f76) |
-| Thu, 01 Jan 2026 02:41:22 GMT | CISSP HARD Questions: Domains 1, 2 & 3 | Pushpak Sharma | [Read More](https://medium.com/p/561d0bbafd61) |
-| Thu, 01 Jan 2026 02:32:24 GMT | Building Systems With Vibe Coding. | Nirmal Kalubovila | [Read More](https://medium.com/p/fd3cf2ce2c36) |
-| Thu, 01 Jan 2026 02:20:01 GMT | Business Logic Vulnerabilities Are Engineering Bugs | Phani Varun Munukuntla | [Read More](https://medium.com/p/3ca53704bd5b) |
-| Thu, 01 Jan 2026 02:13:29 GMT | Lab: Reflected XSS in canonical link tag | KRY | [Read More](https://medium.com/p/6f5a47f54be6) |
-| Thu, 01 Jan 2026 02:10:53 GMT | Lab: Reflected XSS with some SVG markup allowed | KRY | [Read More](https://medium.com/p/899e0674e44c) |
-| Thu, 01 Jan 2026 02:06:57 GMT | Stop Hardcoding API Keys in Flask — Use This 10-Line “Fail-Closed” Shield Instead | Dorian Sotpyrc | [Read More](https://medium.com/p/1edeb700edbd) |
