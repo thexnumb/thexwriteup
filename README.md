@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 19:17:36 GMT | Proxies Are Also Hackable But Not the Way You Think | Fareed Masood | [Read More](https://medium.com/p/2566877ef55c) |
+| Thu, 01 Jan 2026 19:17:22 GMT | Avoid These Five Mistakes If You’re Starting in Cybersecurity | Fareed Masood | [Read More](https://medium.com/p/7d4a6951efd6) |
+| Thu, 01 Jan 2026 19:12:43 GMT | Slay the Zombies — Eliminate Deadweight Applications with the Gartner TIME Framework | Mark Bridges | [Read More](https://medium.com/p/54ce6fae7f56) |
+| Thu, 01 Jan 2026 19:04:31 GMT | NIGERIA'S LAW ON ONLINE GENDER-BASED VIOLENCE: A CASE FOR STRONGER CYBERCRIME LEGISLATION. | Fatimot Adebayo | [Read More](https://medium.com/p/f40f7caeeb43) |
+| Thu, 01 Jan 2026 18:57:43 GMT | ️ FortiGate Lab — FortiToken ile İki Faktörlü Kimlik Doğrulama (2FA) Kurulumu | Esra Tosun | [Read More](https://medium.com/p/b532bdc95ce0) |
+| Thu, 01 Jan 2026 18:50:34 GMT | [OSCP] Music with soul hackthebox machine | Ander | [Read More](https://medium.com/p/f09f58e7ad01) |
+| Thu, 01 Jan 2026 18:38:48 GMT | “Bug Bounty Bootcamp #9: How Modern Web Infrastructure Creates New Attack Surfaces” | Aman Sharma | [Read More](https://medium.com/p/6f28d26f6a61) |
+| Thu, 01 Jan 2026 18:35:07 GMT | Unmasking Github Users: How to Identify the Person Behind Any Github Profile | Anotherhadi | [Read More](https://medium.com/p/1b7d76142ee3) |
 | Thu, 01 Jan 2026 18:20:56 GMT | Event-Horizon: The Cybersecurity Time Machine | Mathan S | [Read More](https://medium.com/p/b72bd38f6066) |
 | Thu, 01 Jan 2026 18:19:59 GMT | The Art of Code: Why “Clean” Software Matters More Than “Working” Software | Rukmanghan Selvakumar | [Read More](https://medium.com/p/7db6cad8c91e) |
 | Thu, 01 Jan 2026 18:19:02 GMT | Unused Active Windows Account Vulnerability: How I Remediated Qualys Findings Without Breaking… | Sai Teja Kotagiri | [Read More](https://medium.com/p/7ae8bbefb218) |
@@ -106,11 +114,3 @@ if I need to let this go. | Vicky Writes | [Read More](https://medium.com/p/bad7
 | Thu, 01 Jan 2026 13:24:19 GMT | Quantum Zero Trust Security | Binu Panicker | [Read More](https://medium.com/p/6f42375171b6) |
 | Thu, 01 Jan 2026 13:23:52 GMT | Security Enhancement of Open Flow Networks | OxMotaw3 | [Read More](https://medium.com/p/a0e372fda65b) |
 | Thu, 01 Jan 2026 13:09:00 GMT | Introverts Don’t Hide. They Observe. | Vaidik k | [Read More](https://medium.com/p/092972bb5f5f) |
-| Thu, 01 Jan 2026 13:08:04 GMT | Chapter 2: The Loud Scan That Got Grounded | Fateyaly | [Read More](https://medium.com/p/13b75ab3610e) |
-| Thu, 01 Jan 2026 13:02:30 GMT | Linux Security Habit #13: I Treat Every Cron Job as a Potential Persistence Mechanism | Faruk Ahmed | [Read More](https://medium.com/p/54a41e3bea93) |
-| Thu, 01 Jan 2026 12:53:41 GMT | Linux Security Cheat Sheet | Oz | [Read More](https://medium.com/p/0fd019ef4fcf) |
-| Thu, 01 Jan 2026 12:50:24 GMT | Unlocking the Power of DNSRecon: Advanced Recon Techniques for Red Teamers | Cybeague Technologies | [Read More](https://medium.com/p/b430d16c0889) |
-| Thu, 01 Jan 2026 12:49:36 GMT | Getting Started with DNSRecon: Discover Hidden DNS Information Like a Pro | Cybeague Technologies | [Read More](https://medium.com/p/e0d75a97d0c9) |
-| Thu, 01 Jan 2026 12:32:29 GMT | Admin Dashboard Access Wasn’t Hacked — It Was Allowed | XoX | [Read More](https://medium.com/p/15c556b1c850) |
-| Thu, 01 Jan 2026 12:21:00 GMT | SOC Analyst’s New Superpower (Part 2): Host-Based Automated Incident Response | Mostafa Elsaeed | [Read More](https://medium.com/p/3e40133451e1) |
-| Thu, 01 Jan 2026 12:10:16 GMT | Windows Active Directory DNS Mimarisi, Yönetimi ve Güvenliği: | Serdarumuturan | [Read More](https://medium.com/p/1f5b33952b56) |
