@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 08:29:32 GMT | Is Your WordPress Site a Ticking Time Bomb? The Hidden Cost of Technical Debt | Wpexpert24 | [Read More](https://medium.com/p/375244f5729d) |
+| Thu, 01 Jan 2026 08:22:47 GMT | 7 Critical Fixes for Digiever DS-2105 Pro NVRs | Pentest_Testing_Corp | [Read More](https://medium.com/p/b924643f90f5) |
+| Thu, 01 Jan 2026 08:09:20 GMT | Your Hosting Isn’t ‘Reliable’ Until It Ticks These 6 Boxes — Here’s the Checklist | Andy | [Read More](https://medium.com/p/c4273a1f57b6) |
+| Thu, 01 Jan 2026 08:06:20 GMT | $150 Bug Bounty: SQL Injection in Nextcloud Android Content Provider | Monika sharma | [Read More](https://medium.com/p/87bda01ea633) |
+| Thu, 01 Jan 2026 08:05:45 GMT | MongoDB Hacked: MongoBleed CVE-2025–14847 | Muhammad Haider Tallal | [Read More](https://medium.com/p/312f0dedf3f4) |
+| Thu, 01 Jan 2026 08:03:59 GMT | Earn $1000 by Using an AI Agent to Find XSS | Muhammad Haider Tallal | [Read More](https://medium.com/p/81396b4c17d5) |
+| Thu, 01 Jan 2026 08:01:45 GMT | How I Chained 3 Vulnerabilities for Complete Account Takeover | Raja Uzair Abdullah | [Read More](https://medium.com/p/65ff5c77b53e) |
+| Thu, 01 Jan 2026 08:00:12 GMT | Cross-Border Cyber Compliance: Navigating Global Regulations | Majidbasharat | [Read More](https://medium.com/p/029e0ce32232) |
+| Thu, 01 Jan 2026 07:51:09 GMT | AI Security with Aadi —  Why AI Security, Why Now? | Aadi Yr | [Read More](https://medium.com/p/4ed90cbbb8ac) |
 | Thu, 01 Jan 2026 07:41:26 GMT | Cybersecurity Roadmap (Beginner → Pro) | Mr. Lucifer | [Read More](https://medium.com/p/f50a1dcb5916) |
 | Thu, 01 Jan 2026 07:36:44 GMT | Passwords — A Cracking Christmas — Writeup(DAY 9 — Advent of Cyber TryHackMe 2025) | Cyb3r-Kr4k3s | [Read More](https://medium.com/p/9cfff05ce095) |
+| Thu, 01 Jan 2026 07:32:46 GMT | The 3 Security Mistakes Almost Every Beginner Makes (And How to Avoid Them) | AserSec | [Read More](https://medium.com/p/cf923320109d) |
 | Thu, 01 Jan 2026 07:32:33 GMT | The Night Vietnam and the Philippines Quietly Built a Digital Wall in the South China Sea — and… | Vivek Anand | [Read More](https://medium.com/p/b3a084907272) |
 | Thu, 01 Jan 2026 07:30:01 GMT | JWT confused me for months. Here’s what finally made it click. | Mukti Mishra | [Read More](https://medium.com/p/8818fb6e49e3) |
 | Thu, 01 Jan 2026 07:21:36 GMT | Regression Testing Services in USA Explained for Business Owners | Achana prashanth | [Read More](https://medium.com/p/fcc62cbcad55) |
@@ -103,13 +113,3 @@ Content… | Ankit rai | [Read More](https://medium.com/p/200998566d74) |
 | Wed, 31 Dec 2025 20:51:04 GMT | Modernizing On-Prem Infrastructure: Building a Secure 4-Node Proxmox Cluster with Zero Trust Access | Amila kothalawala | [Read More](https://medium.com/p/a270e753f6e0) |
 | Wed, 31 Dec 2025 20:40:35 GMT | Top Software That Can Boost Your Career or Income in 2026 | The Explainer | [Read More](https://medium.com/p/c194c840f3ff) |
 | Wed, 31 Dec 2025 20:36:51 GMT | Top 10 Cybersecurity Predictions for 2026 | Matthew.Rosenquist | [Read More](https://medium.com/p/4eef64c8f297) |
-| Wed, 31 Dec 2025 20:27:03 GMT | After More Than 2 Years in Bug Bounty: Here’s My Methodology | KaremElsayed | [Read More](https://medium.com/p/0157629e2d7d) |
-| Wed, 31 Dec 2025 20:17:38 GMT | La Crise de la Confiance : Du Web of Trust à Hagrid | El Hadji Sidya Badji | [Read More](https://medium.com/p/d5903b37ecc3) |
-| Wed, 31 Dec 2025 20:12:51 GMT | Privacy Isn’t Just Legal — It’s Strategic. Here’s How We Do It. | Fook Hwa Tan | [Read More](https://medium.com/p/be958eea226a) |
-| Wed, 31 Dec 2025 20:10:08 GMT | The 3-Part Framework I Use to Turn Threats Into Strength — From Risk to Resilience: My Core… | Fook Hwa Tan | [Read More](https://medium.com/p/436ca2855d2b) |
-| Wed, 31 Dec 2025 20:01:16 GMT | What is VAPT? Vulnerability Assessment and Penetration Testing Explained with Real Example | Abhishek Mahadik | [Read More](https://medium.com/p/3e37ccf32899) |
-| Wed, 31 Dec 2025 19:48:30 GMT | AI is Transforming Industries, But Risk is Optional | Sandeep K. | [Read More](https://medium.com/p/5ee6a0f7c86c) |
-| Wed, 31 Dec 2025 19:47:30 GMT | ’25 — taking a leap | Olufela Osideko | [Read More](https://medium.com/p/5e5c86125ba6) |
-| Wed, 31 Dec 2025 19:34:53 GMT | Partners in Protection: The Next Era of Community Safety | Frank Elsner | [Read More](https://medium.com/p/5acfcea250f2) |
-| Wed, 31 Dec 2025 19:32:24 GMT | If Users Don’t Understand It in 5 Seconds, It’s Dead | Mughira Ahmed | [Read More](https://medium.com/p/e9cea443c722) |
-| Wed, 31 Dec 2025 19:24:30 GMT | Post-2025 Cybernetic Sovereignty Theory (PCST) | Mouad B. | [Read More](https://medium.com/p/fe2a590a9677) |
