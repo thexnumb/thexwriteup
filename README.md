@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 18:20:56 GMT | Event-Horizon: The Cybersecurity Time Machine | Mathan S | [Read More](https://medium.com/p/b72bd38f6066) |
+| Thu, 01 Jan 2026 18:19:59 GMT | The Art of Code: Why “Clean” Software Matters More Than “Working” Software | Rukmanghan Selvakumar | [Read More](https://medium.com/p/7db6cad8c91e) |
+| Thu, 01 Jan 2026 18:19:02 GMT | Unused Active Windows Account Vulnerability: How I Remediated Qualys Findings Without Breaking… | Sai Teja Kotagiri | [Read More](https://medium.com/p/7ae8bbefb218) |
+| Thu, 01 Jan 2026 18:07:33 GMT | Networking devices: The backbone of communication! | Dhruvi Modh | [Read More](https://medium.com/p/3efae77dcaba) |
+| Thu, 01 Jan 2026 18:06:53 GMT | Your Personal Data Is Being Sold Quietly Every Day | Geoffrey Wenger | [Read More](https://medium.com/p/badd30fdbe6c) |
+| Thu, 01 Jan 2026 18:06:46 GMT | Cybersecurity: What I Expected vs. What It Is | Jiyaa25 | [Read More](https://medium.com/p/0da095adb28a) |
+| Thu, 01 Jan 2026 18:06:01 GMT | How Phoenix IT Managed Services Protect Companies from Cyber Threats | Blue Fox Group | [Read More](https://medium.com/p/8071e237cdd3) |
+| Thu, 01 Jan 2026 18:02:46 GMT | Connection String Parameter Pollution — SSC Fortify Security Findings Analysis — Part 4 | Okan Yurt | [Read More](https://medium.com/p/d06bbf1988db) |
+| Thu, 01 Jan 2026 17:50:17 GMT | I keep wondering
+if I need to let this go. | Vicky Writes | [Read More](https://medium.com/p/bad7ff89a727) |
+| Thu, 01 Jan 2026 17:46:51 GMT | The Multi-Tenancy Bug That Leaked 10,000 User Records | Byte Me Daily | [Read More](https://medium.com/p/d133d4c59447) |
+| Thu, 01 Jan 2026 17:46:46 GMT | University CTF 2025 Writeup : SHL33T Challenge | Novo | [Read More](https://medium.com/p/6506ee1d1b1d) |
+| Thu, 01 Jan 2026 17:43:05 GMT | How Access Token and Refresh Token Work in Authentication Flows in Modern Backend Systems? | Prince Raj | [Read More](https://medium.com/p/1ef6e498e217) |
+| Thu, 01 Jan 2026 17:40:25 GMT | 5 Shocking Truths About Public Wi-Fi You Need to Know | Youssef Mohammed | [Read More](https://medium.com/p/844bbf15a789) |
+| Thu, 01 Jan 2026 17:37:01 GMT | Deepfake Risks Demand Stronger Protection From a Managed IT Service Provider in Springfield, MO | PCnet | [Read More](https://medium.com/p/228db0a3dc55) |
 | Thu, 01 Jan 2026 17:32:55 GMT | Stop Quoting Conclusions — Start Running Experiments | Tim O'Brien | [Read More](https://medium.com/p/85dee187e6ca) |
 | Thu, 01 Jan 2026 17:28:37 GMT | A Software Engineer’s Real Job Is Reducing Risk, Not Writing Code | Diya Satpute | [Read More](https://medium.com/p/d14a0f2b97b9) |
 | Thu, 01 Jan 2026 17:27:28 GMT | Welcome 2026: A New Year of Innovation, Growth & Digital Success | Tech Field Solution | [Read More](https://medium.com/p/71d9166087b4) |
@@ -85,6 +100,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 Jan 2026 14:02:32 GMT | Mistakes in Clean Clothes | Dominique Striekwold | [Read More](https://medium.com/p/f81caee3c769) |
 | Thu, 01 Jan 2026 14:02:18 GMT | Linux Privilege Escalation via Sudo Misconfigurations: Shell Escaping, LD_PRELOAD & Real-World… | Amrit Sinha | [Read More](https://medium.com/p/9aaf0c5ef568) |
 | Thu, 01 Jan 2026 14:02:00 GMT | Why Retry Logic Creates More Bugs Than It Fixes (And How to Do It Right in Spring Boot | Karuna | [Read More](https://medium.com/p/8def1fc1abcb) |
+| Thu, 01 Jan 2026 13:37:08 GMT | CVE-2025–68260 and the Dangerous Comfort of “Safe Enough” Engineering | Spencer Thomason | [Read More](https://medium.com/p/8bcf941c9252) |
 | Thu, 01 Jan 2026 13:36:51 GMT | AI Tools in 2026 | Ismail Kovvuru | [Read More](https://medium.com/p/bcfa3ae0260f) |
 | Thu, 01 Jan 2026 13:30:43 GMT | OverTheWire Bandit Level 8 to 9: The Art of Anomaly Detection | Sivanesan M | [Read More](https://medium.com/p/e6f9a5854ae2) |
 | Thu, 01 Jan 2026 13:24:19 GMT | Quantum Zero Trust Security | Binu Panicker | [Read More](https://medium.com/p/6f42375171b6) |
@@ -98,18 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 Jan 2026 12:32:29 GMT | Admin Dashboard Access Wasn’t Hacked — It Was Allowed | XoX | [Read More](https://medium.com/p/15c556b1c850) |
 | Thu, 01 Jan 2026 12:21:00 GMT | SOC Analyst’s New Superpower (Part 2): Host-Based Automated Incident Response | Mostafa Elsaeed | [Read More](https://medium.com/p/3e40133451e1) |
 | Thu, 01 Jan 2026 12:10:16 GMT | Windows Active Directory DNS Mimarisi, Yönetimi ve Güvenliği: | Serdarumuturan | [Read More](https://medium.com/p/1f5b33952b56) |
-| Thu, 01 Jan 2026 12:07:35 GMT | The Windows Security Journey — Pre-Windows 2000 Compatible Access group | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/02a71818b05e) |
-| Thu, 01 Jan 2026 12:06:42 GMT | 5TH NETWORKING PROJECT: I Designed a Scalable Company Enterprise Network. | iYÁOmarv_ | [Read More](https://medium.com/p/420390a99219) |
-| Thu, 01 Jan 2026 12:02:40 GMT | From Technical Service Management to OpenAI Data Center Security: A Comprehensive Roadmap | Afeef Khateeb | [Read More](https://medium.com/p/4d70cbb4b88f) |
-| Thu, 01 Jan 2026 12:02:39 GMT | [TK] Writeup for picoCTF challenge “picobrowser” | Walter Moar | [Read More](https://medium.com/p/320cefd7289c) |
-| Thu, 01 Jan 2026 11:59:53 GMT | Securely Distribute Millions of S3 Files with CloudFront Signed Cookies + a Single Signed URL | Harshvijaythakkar | [Read More](https://medium.com/p/dd91212d6e17) |
-| Thu, 01 Jan 2026 11:53:11 GMT | When AI Moves Too Fast | The15SecTales | [Read More](https://medium.com/p/89b5e0f059db) |
-| Thu, 01 Jan 2026 11:33:26 GMT | Understanding Microsoft Sentinel Platform Audit Logs | Saikat Paul | [Read More](https://medium.com/p/1d4e91169105) |
-| Thu, 01 Jan 2026 11:20:10 GMT | Debugging malicious AutoIT scripts | Remy Jaspers | [Read More](https://medium.com/p/1169b110b43f) |
-| Thu, 01 Jan 2026 11:17:34 GMT | The Alarming State of Generative AI and the Urgent Need for Regulation | Chaitanya Saxena | [Read More](https://medium.com/p/f74be91414e6) |
-| Thu, 01 Jan 2026 11:13:51 GMT | Modern Warfare After Ukraine: Lessons, Limits, and the Shape of Future Conflict | MASUM BILLAH | [Read More](https://medium.com/p/4a475da1b9fe) |
-| Thu, 01 Jan 2026 11:12:00 GMT | The 2-Key Dilemma | CybeCloud | [Read More](https://medium.com/p/4992844404f6) |
-| Thu, 01 Jan 2026 11:07:54 GMT | SOC Analyst ROADMAP [2026 ] | Mr Horbio | [Read More](https://medium.com/p/13006d3d3cdd) |
-| Thu, 01 Jan 2026 11:05:16 GMT | Learning OS Security Through CTF: From File Permission to Hidden Data | Ighfir Maulana | [Read More](https://medium.com/p/eaf93dc09974) |
-| Thu, 01 Jan 2026 11:00:39 GMT | Why Mullvad VPN Is Becoming the Go-To Privacy Tool for Secure Internet Users | Cheapersgame | [Read More](https://medium.com/p/6e57ffebd5c1) |
-| Thu, 01 Jan 2026 11:00:02 GMT | Understanding Permissions in the New Microsoft Defender Portal | Saikat Paul | [Read More](https://medium.com/p/0897ed244124) |
