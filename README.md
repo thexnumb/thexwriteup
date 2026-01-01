@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 06:27:27 GMT | Hello my name is… (Part 1) | Kurb4n | [Read More](https://medium.com/p/072fe2b7050e) |
+| Thu, 01 Jan 2026 06:24:58 GMT | The Silent Weapon (Part 3): AI-Assisted Recon Chains That Actually Find Bugs | ghostyjoe | [Read More](https://medium.com/p/38b847be67c9) |
+| Thu, 01 Jan 2026 06:22:42 GMT | Building Better CTFs | Yash Kiran Patil | [Read More](https://medium.com/p/c7e13c9c84e0) |
+| Thu, 01 Jan 2026 06:15:58 GMT | AWS — IAM(Identity and Access Management) | rootRS7 | [Read More](https://medium.com/p/895976d236c2) |
+| Thu, 01 Jan 2026 06:15:46 GMT | Securing Tomorrow’s Industrial Networks Today | Kadhijahafiya | [Read More](https://medium.com/p/97d268b52fd7) |
+| Thu, 01 Jan 2026 06:13:02 GMT | How I Cracked CloudSEK CTF Round 2: A Deep Dive into “Boot Sequence” | Zer0Figure | [Read More](https://medium.com/p/4b19ce36a5ae) |
+| Thu, 01 Jan 2026 06:10:21 GMT | RAG Security 3: Long-lived Assets and Observable Signals Shape Incident Paths | inkme | [Read More](https://medium.com/p/11f5ccbba069) |
+| Thu, 01 Jan 2026 06:06:50 GMT | MongoBleed (CVE-2025–14847): Bug Bounty Reality of This MongoDB Vulnerability | Shaikh Minhaz | [Read More](https://medium.com/p/cf00e98b03b4) |
+| Thu, 01 Jan 2026 06:02:50 GMT | It Is What It Is | Maddy | [Read More](https://medium.com/p/68993db39cbd) |
+| Thu, 01 Jan 2026 06:01:42 GMT | Securing Secrets in Android: From API Keys to Production-Grade Defense | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/a2c8dc46948f) |
+| Thu, 01 Jan 2026 05:59:09 GMT | 7 Best IT Support Providers in Denton | Cloudavize | [Read More](https://medium.com/p/c5e699fcdb6b) |
+| Thu, 01 Jan 2026 05:59:07 GMT | A Comprehensive Recap of Nigeria’s Political, Economic, and Social Journey Through 2025 — and What… | Abdulmumin Olaleye | [Read More](https://medium.com/p/f3955b6d2115) |
+| Thu, 01 Jan 2026 05:57:08 GMT | SantaCloud Intigriti Web Challenge Write-Up | Gr00t | [Read More](https://medium.com/p/29175ea3b2ce) |
+| Thu, 01 Jan 2026 05:56:32 GMT | The Weight of A New Calendar: 2026 | Sheyy | [Read More](https://medium.com/p/cfb7ffec29ab) |
+| Thu, 01 Jan 2026 05:54:58 GMT | From SSRF to RCE: Why Kill Chains Work | Tyreek Haynes | [Read More](https://medium.com/p/77688e3ee25c) |
+| Thu, 01 Jan 2026 05:49:04 GMT | Home Security System: Smart Protection for Homes Across Ontario | Alarm Guard Security | [Read More](https://medium.com/p/e13303d2607f) |
+| Thu, 01 Jan 2026 05:44:01 GMT | Why I’m Documenting My Tech Learning Journey | Leela Krishna Gunnemeda | [Read More](https://medium.com/p/7f48425d3cb9) |
 | Thu, 01 Jan 2026 05:38:43 GMT | From Budget to Brilliance: How Low-Cost Web Hosting Keeps You Ahead? | Mary Thomas | [Read More](https://medium.com/p/57706b6dc348) |
 | Thu, 01 Jan 2026 05:37:15 GMT | BEAUTIFUL WOMAN DMS YOU ON INSTAGRAM. SHE’S ACTUALLY A 19-YEAR-OLD BOY IN LAGOS. | Joseph | [Read More](https://medium.com/p/ff5cc50fedc4) |
 | Thu, 01 Jan 2026 05:32:26 GMT | Solving Identity Management in Modern Applications: An Architecture-Series | Dilanka Muthukumarana | [Read More](https://medium.com/p/d98ae13b13f2) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 31 Dec 2025 18:49:46 GMT | AI, Security, and Data: The Quiet Trio That Will Decide the Next Decade | Anand Galla | [Read More](https://medium.com/p/35f3f9a8f22c) |
 | Wed, 31 Dec 2025 18:48:54 GMT | My Bug Bounty Learning Journey as a Beginner from India. | Hacker_team_one | [Read More](https://medium.com/p/500b4becdf86) |
 | Wed, 31 Dec 2025 18:48:38 GMT | Siber Vatan 2025 CTF Çözümleri | omertugrulbayram | [Read More](https://medium.com/p/b17c70af0fe0) |
-| Wed, 31 Dec 2025 18:40:00 GMT | Siber Güvenlik | g.o. | [Read More](https://medium.com/p/aee586b9775c) |
-| Wed, 31 Dec 2025 18:35:14 GMT | CORS: When Origin Trust Goes Wrong | M. Mustafa Hussaini | [Read More](https://medium.com/p/61f1a91ded53) |
-| Wed, 31 Dec 2025 18:32:23 GMT | The Year I Planned to Hack — And Learned to Adapt Instead | Hitesh P. Solanki | [Read More](https://medium.com/p/a193cd791eb9) |
-| Wed, 31 Dec 2025 18:23:45 GMT | How Hackers Can Expose Your IP in Seconds And Why It’s Usually Your Own Mistake | Fareed Masood | [Read More](https://medium.com/p/7d2894b03b74) |
-| Wed, 31 Dec 2025 18:23:19 GMT | Blast from the past - picoCTF2024 Write-up | Alireza Ghorbani | [Read More](https://medium.com/p/d6c9c12ab5b3) |
-| Wed, 31 Dec 2025 18:17:47 GMT | Ağ (Network)Temelleri | g.o. | [Read More](https://medium.com/p/9360412cf57f) |
-| Wed, 31 Dec 2025 18:16:40 GMT | Dynamic Database Credentials using Vault on EKS Fargate, Lambda Extensions & Aurora Serverless | SATYAM SAREEN | [Read More](https://medium.com/p/04db3c2ad240) |
-| Wed, 31 Dec 2025 18:13:58 GMT | How should a student choose a specialization in cybersecurity? | Roman Charleston | [Read More](https://medium.com/p/fcbc3525f602) |
-| Wed, 31 Dec 2025 18:09:25 GMT | How NOT To Become a Pen Tester in 2026 … or ever! | Pablo Vergara | [Read More](https://medium.com/p/dfb16f212239) |
-| Wed, 31 Dec 2025 18:09:07 GMT | OWASP Top 10 2025: Application Design Flaws | Mukund | [Read More](https://medium.com/p/e730bccc2bd7) |
-| Wed, 31 Dec 2025 18:08:36 GMT | In 2026, one decision will separate growth from regret. | Hachion | [Read More](https://medium.com/p/126820c3a5c1) |
-| Wed, 31 Dec 2025 18:01:09 GMT | Soc analyst | Mmohammadsalman | [Read More](https://medium.com/p/f8c7e2d1d354) |
-| Wed, 31 Dec 2025 17:50:55 GMT | Why I Was Wrong About the “A” in CIA — How Encryption Became Our Biggest Threat. | Sandeep Agarwal | [Read More](https://medium.com/p/a3ff61d67d54) |
-| Wed, 31 Dec 2025 17:37:54 GMT | 10 Python Lessons That Only Real Bugs Teach | Muhammad Huzair Awan | [Read More](https://medium.com/p/d44e447082e7) |
-| Wed, 31 Dec 2025 17:34:52 GMT | How Google and Microsoft’s “Featured” Seal Became a License to Harvest Vulnerability | Victor Babaniyi | [Read More](https://medium.com/p/5c3c8eed96fb) |
-| Wed, 31 Dec 2025 17:34:29 GMT | The Silent AI Breach: How Autonomous Models Are Already Outpacing Cloud Security on AWS | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/6110c4c81ca5) |
-| Wed, 31 Dec 2025 17:25:19 GMT | The thing about roadmaps in cybersecurity… | HackWitHer | [Read More](https://medium.com/p/d12956b4869e) |
