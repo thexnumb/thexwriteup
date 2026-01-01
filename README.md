@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 04:44:51 GMT | Frida on Android Studio Emulator (2026): Installation, Usage & frida-compile Workflow | Thrishank Chintham | [Read More](https://medium.com/p/c44cf8c823a7) |
+| Thu, 01 Jan 2026 04:02:45 GMT | Hack The Box Sherlock Logjammer writeup | k1ndlov3r | [Read More](https://medium.com/p/9a2d84b0d9e7) |
 | Thu, 01 Jan 2026 03:56:43 GMT | Beyond the Locks: Secure Protocols and the Quiet Power of Session Keys | Manubhav Sharma | [Read More](https://medium.com/p/b5a3189fe552) |
 | Thu, 01 Jan 2026 03:45:17 GMT | eWTPXv3: A review and some advice. | Daniel Scragg | [Read More](https://medium.com/p/f615ed4a6f39) |
 | Thu, 01 Jan 2026 03:34:41 GMT | When AI Gets Access: Why MCP Needs Guardrails | Kartik Shah | [Read More](https://medium.com/p/fecaf308408e) |
@@ -21,6 +23,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 Jan 2026 03:32:25 GMT | Day 3 — Linux Essentials for Security Engineers | NineTales | [Read More](https://medium.com/p/575677043ac6) |
 | Thu, 01 Jan 2026 03:32:25 GMT | The Danger of Normal: How SideWinder Turned Trust into Access | Deven Chhajed | [Read More](https://medium.com/p/ab65b69f233a) |
 | Thu, 01 Jan 2026 03:01:45 GMT | CEHv12: Cloud Computing(Practised) (Module 18) | Aditya Kumar | [Read More](https://medium.com/p/8310eb8bd553) |
+| Thu, 01 Jan 2026 02:58:09 GMT | Segurança em containers: Docker Hardened Images como um serviço gratuito! | Renato Groffe | [Read More](https://medium.com/p/1ae9e1adf6ea) |
 | Thu, 01 Jan 2026 02:56:52 GMT | Understanding Hydra: Logic, Working, and Syntax of a Brute-Force Tool | Gajanan Tayde | [Read More](https://medium.com/p/203b88a9314e) |
 | Thu, 01 Jan 2026 02:56:25 GMT | CEHv12: IoT and OT Hacking (Practised) (Module 18) | Aditya Kumar | [Read More](https://medium.com/p/ffb290220207) |
 | Thu, 01 Jan 2026 02:42:30 GMT | A Simple Way to Start Your Cybersecurity Journey in 2026 | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/fb2f78f00617) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 31 Dec 2025 17:13:40 GMT | The $18 Million Daily Crime No One’s Talking About | Heesham Naji | [Read More](https://medium.com/p/e9f06b9172e2) |
 | Wed, 31 Dec 2025 17:13:22 GMT | How I Detected Anomalies in OpenSSH Logs Using Splunk. | Cyberfairy | [Read More](https://medium.com/p/82c8455ca2e6) |
 | Wed, 31 Dec 2025 17:01:51 GMT | Blockchain Wallet Password Recovery - Explained WhatsApp +14042456415 | Jennyblakes | [Read More](https://medium.com/p/6227a9265bfc) |
-| Wed, 31 Dec 2025 17:01:27 GMT | Moving Forward with Memory Analysis: From Volatility to MemProcFS : Part 2 | Dean | [Read More](https://medium.com/p/3d4c38033515) |
-| Wed, 31 Dec 2025 17:01:10 GMT | Red Teaming LLMs and AI Agents at scale in Microsoft Foundry | Arun Balaji Giridharan | [Read More](https://medium.com/p/13cdf3918596) |
-| Wed, 31 Dec 2025 17:00:07 GMT | Ph4ge: MS17–010 Hidden User(Admin-Priv) Remote Injection Backdoor Tool & Shift Backdoor | Мартин. | [Read More](https://medium.com/p/ee29b47e0e34) |
