@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 15:16:14 GMT | The Chameleon Attack: Breaking Apache StreamPipes with Recursive Object Tampering (CVE-2025–47411) | Francisco Paz Mccausland | [Read More](https://medium.com/p/fce3702bc45d) |
+| Thu, 01 Jan 2026 15:13:00 GMT | Professional Security Cameras Los Angeles CA-Importance of Modern Security Solutions | Thomas Wilson | [Read More](https://medium.com/p/ad5c6ccc4096) |
+| Thu, 01 Jan 2026 15:01:07 GMT | LokidresCTF Write-Up | Myusuftr | [Read More](https://medium.com/p/4232cbda1daa) |
+| Thu, 01 Jan 2026 15:00:51 GMT | Sauna HTB — Security lessons | Balaji_21 | [Read More](https://medium.com/p/315b1cfb656d) |
+| Thu, 01 Jan 2026 14:59:30 GMT | From Chiffon Sarees to Secure Software: A Bollywood Guide to Application Security Frameworks | Sumant Khapre | [Read More](https://medium.com/p/6122be2036b2) |
+| Thu, 01 Jan 2026 14:58:39 GMT | How 2025 Shaped My Path into Cybersecurity | Aabdelbariee | [Read More](https://medium.com/p/6af8eeabf6e1) |
+| Thu, 01 Jan 2026 14:52:24 GMT | Ghost Posts via IDOR: How I Read Unpublished NASA Blog Content Using Simple Math | LETCHU PKT | [Read More](https://medium.com/p/8f778adc254d) |
+| Thu, 01 Jan 2026 14:51:21 GMT | When Flexibility Becomes a Backdoor: Analyzing CVE-2025–69288 in Titra | Francisco Paz Mccausland | [Read More](https://medium.com/p/bbbf0b8579f4) |
+| Thu, 01 Jan 2026 14:50:00 GMT | AI, Ethics, and Hackers: What Cybersecurity Must Get Right in 2026 | Parminder Kumar Sharma | [Read More](https://medium.com/p/802298926834) |
+| Thu, 01 Jan 2026 14:47:07 GMT | Why We Hide Our True Selves: Understanding Shame and Self-Acceptance | Poly-blang | [Read More](https://medium.com/p/46f07cc6dfca) |
+| Thu, 01 Jan 2026 14:42:31 GMT | I Tried a 10 Year Old Wi-Fi Hacking Tool and It Still Worked | alopix | [Read More](https://medium.com/p/5e82f7094183) |
 | Thu, 01 Jan 2026 14:42:24 GMT | SentryPC 2026: The Best Parental Control Software for Tier 1 Country Families (Complete Guide) | Paul Meyer | [Read More](https://medium.com/p/cb1ca3d712b4) |
+| Thu, 01 Jan 2026 14:37:44 GMT | What a Senior DevOps Engineer Is Learning in 2026 | Mark Southworth | [Read More](https://medium.com/p/18b3a932f3af) |
 | Thu, 01 Jan 2026 14:36:37 GMT | Smart Security for Free? Why the Tapo C402 Might Be the Ultimate Hub-Free Outdoor Camera. | Mohammed | [Read More](https://medium.com/p/6474039de1af) |
+| Thu, 01 Jan 2026 14:32:34 GMT | 2026: The Start of PQC Signature Migration | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/4d46bde33638) |
 | Thu, 01 Jan 2026 14:32:26 GMT | ARP Poisoning with ARP Spoof: A Guide to MITM Attacks | Vignesh R | [Read More](https://medium.com/p/3f025329ef3b) |
 | Thu, 01 Jan 2026 14:31:29 GMT | Navigating Nested Virtualization: A Beginner’s Journey | Darlie | [Read More](https://medium.com/p/07754011d0a2) |
 | Thu, 01 Jan 2026 14:23:15 GMT | The fear of wanting 
@@ -100,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 Jan 2026 08:31:05 GMT | Biggest security breaches in 2025 | Bytesinger | [Read More](https://medium.com/p/1f25359846d3) |
 | Thu, 01 Jan 2026 08:29:32 GMT | Is Your WordPress Site a Ticking Time Bomb? The Hidden Cost of Technical Debt | Wpexpert24 | [Read More](https://medium.com/p/375244f5729d) |
 | Thu, 01 Jan 2026 08:22:47 GMT | 7 Critical Fixes for Digiever DS-2105 Pro NVRs | Pentest_Testing_Corp | [Read More](https://medium.com/p/b924643f90f5) |
-| Thu, 01 Jan 2026 08:09:20 GMT | Your Hosting Isn’t ‘Reliable’ Until It Ticks These 6 Boxes — Here’s the Checklist | Andy | [Read More](https://medium.com/p/c4273a1f57b6) |
-| Thu, 01 Jan 2026 08:06:20 GMT | $150 Bug Bounty: SQL Injection in Nextcloud Android Content Provider | Monika sharma | [Read More](https://medium.com/p/87bda01ea633) |
-| Thu, 01 Jan 2026 08:05:45 GMT | MongoDB Hacked: MongoBleed CVE-2025–14847 | Muhammad Haider Tallal | [Read More](https://medium.com/p/312f0dedf3f4) |
-| Thu, 01 Jan 2026 08:03:59 GMT | Earn $1000 by Using an AI Agent to Find XSS | Muhammad Haider Tallal | [Read More](https://medium.com/p/81396b4c17d5) |
-| Thu, 01 Jan 2026 08:01:45 GMT | How I Chained 3 Vulnerabilities for Complete Account Takeover | Raja Uzair Abdullah | [Read More](https://medium.com/p/65ff5c77b53e) |
-| Thu, 01 Jan 2026 08:00:12 GMT | Cross-Border Cyber Compliance: Navigating Global Regulations | Majidbasharat | [Read More](https://medium.com/p/029e0ce32232) |
-| Thu, 01 Jan 2026 07:51:09 GMT | AI Security with Aadi —  Why AI Security, Why Now? | Aadi Yr | [Read More](https://medium.com/p/4ed90cbbb8ac) |
-| Thu, 01 Jan 2026 07:41:26 GMT | Cybersecurity Roadmap (Beginner → Pro) | Mr. Lucifer | [Read More](https://medium.com/p/f50a1dcb5916) |
-| Thu, 01 Jan 2026 07:36:44 GMT | Passwords — A Cracking Christmas — Writeup(DAY 9 — Advent of Cyber TryHackMe 2025) | Cyb3r-Kr4k3s | [Read More](https://medium.com/p/9cfff05ce095) |
-| Thu, 01 Jan 2026 07:32:46 GMT | The 3 Security Mistakes Almost Every Beginner Makes (And How to Avoid Them) | AserSec | [Read More](https://medium.com/p/cf923320109d) |
-| Thu, 01 Jan 2026 07:32:33 GMT | The Night Vietnam and the Philippines Quietly Built a Digital Wall in the South China Sea — and… | Vivek Anand | [Read More](https://medium.com/p/b3a084907272) |
-| Thu, 01 Jan 2026 07:30:01 GMT | JWT confused me for months. Here’s what finally made it click. | Mukti Mishra | [Read More](https://medium.com/p/8818fb6e49e3) |
-| Thu, 01 Jan 2026 07:21:36 GMT | Regression Testing Services in USA Explained for Business Owners | Achana prashanth | [Read More](https://medium.com/p/fcc62cbcad55) |
