@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 17:32:55 GMT | Stop Quoting Conclusions — Start Running Experiments | Tim O'Brien | [Read More](https://medium.com/p/85dee187e6ca) |
+| Thu, 01 Jan 2026 17:28:37 GMT | A Software Engineer’s Real Job Is Reducing Risk, Not Writing Code | Diya Satpute | [Read More](https://medium.com/p/d14a0f2b97b9) |
+| Thu, 01 Jan 2026 17:27:28 GMT | Welcome 2026: A New Year of Innovation, Growth & Digital Success | Tech Field Solution | [Read More](https://medium.com/p/71d9166087b4) |
+| Thu, 01 Jan 2026 17:25:45 GMT | Chapter 3: Policies & Escalation | Aang | [Read More](https://medium.com/p/3e927eb5abf1) |
+| Thu, 01 Jan 2026 17:24:51 GMT | Day 150 — Behemoth Level-6 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/844dcbb1ac55) |
+| Thu, 01 Jan 2026 17:23:51 GMT | If You Are ISO 27001 Certified, Do You Still Need DPDPA Compliance? (ISO 27001 vs DPDPA) | DPDPAedu.org | [Read More](https://medium.com/p/2d2b55872ac3) |
+| Thu, 01 Jan 2026 17:20:36 GMT | Pen Testing and Its Role in Cybersecurity | Manar Mohamed | [Read More](https://medium.com/p/722aea7d8f6b) |
 | Thu, 01 Jan 2026 17:16:48 GMT | Wireless in OT: WirelessHART and ISA 100.11a | urjasec | [Read More](https://medium.com/p/c5493c64c070) |
 | Thu, 01 Jan 2026 17:12:53 GMT | MongoBleed: A Granular Breakdown of MongoDB’s Pre-Auth Memory Leak | Shreyash Tambe | [Read More](https://medium.com/p/cbaeaaa8dc43) |
 | Thu, 01 Jan 2026 17:11:28 GMT | Leaked Unsafe Product(Sensitive Data Exposure) OWASP Juice Shop WalkThrough | Anjali | [Read More](https://medium.com/p/7bad7993e475) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 01 Jan 2026 11:05:16 GMT | Learning OS Security Through CTF: From File Permission to Hidden Data | Ighfir Maulana | [Read More](https://medium.com/p/eaf93dc09974) |
 | Thu, 01 Jan 2026 11:00:39 GMT | Why Mullvad VPN Is Becoming the Go-To Privacy Tool for Secure Internet Users | Cheapersgame | [Read More](https://medium.com/p/6e57ffebd5c1) |
 | Thu, 01 Jan 2026 11:00:02 GMT | Understanding Permissions in the New Microsoft Defender Portal | Saikat Paul | [Read More](https://medium.com/p/0897ed244124) |
-| Thu, 01 Jan 2026 10:58:58 GMT | CTF Walkthrough : SantaCloud by Intigriti. | roguenull | [Read More](https://medium.com/p/939da5a46efd) |
-| Thu, 01 Jan 2026 10:58:29 GMT | A Practical Guide to Choosing the Right Managed IT Service Providers | Prohash Technologies | [Read More](https://medium.com/p/d2a8ccd3889c) |
-| Thu, 01 Jan 2026 10:58:02 GMT | State-Sponsored Cyberattacks: What They Are, How They Work, and Why Europe — and France in… | Axellegay | [Read More](https://medium.com/p/1c60c8431f14) |
-| Thu, 01 Jan 2026 10:56:57 GMT | Avoid using constructors to create objects in Java. Instead, consider using a ✅ factory method. | Jaybhavsar | [Read More](https://medium.com/p/9b54c9e5df0d) |
-| Thu, 01 Jan 2026 10:55:25 GMT | The Importance of Total Security Solutions in a Rapidly Evolving World | Ciss India | [Read More](https://medium.com/p/e85eeb07c2bd) |
-| Thu, 01 Jan 2026 10:47:59 GMT | Why “No One Will Target Me” Is the Most Dangerous Security Assumption | Aditya | [Read More](https://medium.com/p/9cdb727f8c5b) |
-| Thu, 01 Jan 2026 10:38:16 GMT | No Alerts Doesn’t Mean You’re Secure. It Usually Means You’re Blind | Elias Gray | [Read More](https://medium.com/p/0eaa1d334f45) |
