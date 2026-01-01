@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 05:38:43 GMT | From Budget to Brilliance: How Low-Cost Web Hosting Keeps You Ahead? | Mary Thomas | [Read More](https://medium.com/p/57706b6dc348) |
+| Thu, 01 Jan 2026 05:37:15 GMT | BEAUTIFUL WOMAN DMS YOU ON INSTAGRAM. SHE’S ACTUALLY A 19-YEAR-OLD BOY IN LAGOS. | Joseph | [Read More](https://medium.com/p/ff5cc50fedc4) |
+| Thu, 01 Jan 2026 05:32:26 GMT | Solving Identity Management in Modern Applications: An Architecture-Series | Dilanka Muthukumarana | [Read More](https://medium.com/p/d98ae13b13f2) |
 | Thu, 01 Jan 2026 05:20:55 GMT | Protecting Alberta Homes with Smart, Reliable Solutions | Alarm Guard Security | [Read More](https://medium.com/p/b8cc95b3aee9) |
 | Thu, 01 Jan 2026 05:18:54 GMT | Why Encrypting and Decrypting Data Is Essential for App and Backend Security | Silversky Technology | [Read More](https://medium.com/p/a7e541fd338c) |
 | Thu, 01 Jan 2026 05:09:27 GMT | Out-of-Band Observation Using Devices Designed to Be Ignored | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/eeb3002b434f) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 31 Dec 2025 17:34:52 GMT | How Google and Microsoft’s “Featured” Seal Became a License to Harvest Vulnerability | Victor Babaniyi | [Read More](https://medium.com/p/5c3c8eed96fb) |
 | Wed, 31 Dec 2025 17:34:29 GMT | The Silent AI Breach: How Autonomous Models Are Already Outpacing Cloud Security on AWS | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/6110c4c81ca5) |
 | Wed, 31 Dec 2025 17:25:19 GMT | The thing about roadmaps in cybersecurity… | HackWitHer | [Read More](https://medium.com/p/d12956b4869e) |
-| Wed, 31 Dec 2025 17:17:03 GMT | “New Year Greeting Could Hack Your Phone: APK and Spin & Win Scams Explained”. | Soundariya | [Read More](https://medium.com/p/cc18df482a1e) |
-| Wed, 31 Dec 2025 17:14:49 GMT | Hacking the OS: How I Built a “Ghost” Tor Injector from Scratch in C | Ujjwal Sharma | [Read More](https://medium.com/p/14a5a2f877ff) |
-| Wed, 31 Dec 2025 17:13:51 GMT | Anatomy of a Cyber Attack: How Defenders Fight Back | Shreyas Srinivasa | [Read More](https://medium.com/p/c75cc9ca1790) |
