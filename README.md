@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 11:33:26 GMT | Understanding Microsoft Sentinel Platform Audit Logs | Saikat Paul | [Read More](https://medium.com/p/1d4e91169105) |
+| Thu, 01 Jan 2026 11:20:10 GMT | Debugging malicious AutoIT scripts | Remy Jaspers | [Read More](https://medium.com/p/1169b110b43f) |
 | Thu, 01 Jan 2026 11:13:51 GMT | Modern Warfare After Ukraine: Lessons, Limits, and the Shape of Future Conflict | MASUM BILLAH | [Read More](https://medium.com/p/4a475da1b9fe) |
 | Thu, 01 Jan 2026 11:12:00 GMT | The 2-Key Dilemma | CybeCloud | [Read More](https://medium.com/p/4992844404f6) |
 | Thu, 01 Jan 2026 11:07:54 GMT | SOC Analyst ROADMAP [2026 ] | Mr Horbio | [Read More](https://medium.com/p/13006d3d3cdd) |
@@ -111,5 +113,3 @@ Content… | Ankit rai | [Read More](https://medium.com/p/200998566d74) |
 | Thu, 01 Jan 2026 03:34:35 GMT | Complete Roadmap to Become a Digital Forensics Expert (From Zero to Pro) | Shahzaib | [Read More](https://medium.com/p/b4d0ae924962) |
 | Thu, 01 Jan 2026 03:34:31 GMT | PC Security in the 1980s | Cfir Aguston | [Read More](https://medium.com/p/0d634298f805) |
 | Thu, 01 Jan 2026 03:34:24 GMT | Why Secure Coding Is Harder Than People Think | Hania Khan | [Read More](https://medium.com/p/856d5f4a8af9) |
-| Thu, 01 Jan 2026 03:32:25 GMT | Day 3 — Linux Essentials for Security Engineers | NineTales | [Read More](https://medium.com/p/575677043ac6) |
-| Thu, 01 Jan 2026 03:32:25 GMT | The Danger of Normal: How SideWinder Turned Trust into Access | Deven Chhajed | [Read More](https://medium.com/p/ab65b69f233a) |
