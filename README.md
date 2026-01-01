@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 22:10:53 GMT | MAGI: A Governed Autonomy Model for AI-Driven Cybersecurity Response | Fabio Henrique Rocha Pereira | [Read More](https://medium.com/p/7147c6e7a994) |
+| Thu, 01 Jan 2026 21:47:23 GMT | Boss of the SOC V1 (2015) Web Site Defacement Writeup | kuraido | [Read More](https://medium.com/p/9e04f96d5c24) |
+| Thu, 01 Jan 2026 21:44:34 GMT | El Cliente — Write-Up (The Hackers Labs) | ManuM0re | [Read More](https://medium.com/p/c4fc6c8c1eeb) |
 | Thu, 01 Jan 2026 21:38:00 GMT | Breaking Things Legally : TryHackMe Advent of Cyber | Eshwar Desetty | [Read More](https://medium.com/p/77a093f73578) |
+| Thu, 01 Jan 2026 21:35:20 GMT | AI Is Scaling Abuse Faster Than Platforms Can Respond | Jay H. | [Read More](https://medium.com/p/9211a364d8da) |
 | Thu, 01 Jan 2026 21:16:24 GMT | ️ Beyond Prompt Injection: The “Corrupted Intelligence” Attack and the Rise of Agentic Security | Manniarora | [Read More](https://medium.com/p/264533cfc063) |
 | Thu, 01 Jan 2026 21:15:48 GMT | TryHackMe -Lumberjack Turtle | Efe | [Read More](https://medium.com/p/8bc9584118b7) |
 | Thu, 01 Jan 2026 21:09:44 GMT | AI Pentesting: Practicing Prompt Injection With the Gandalf Challenge | Will Giles - Cybersecurity | [Read More](https://medium.com/p/01f10400d7bb) |
@@ -109,7 +113,3 @@ if I need to let this go. | Vicky Writes | [Read More](https://medium.com/p/bad7
 | Thu, 01 Jan 2026 15:24:18 GMT | Hunting a Zero-Click Reflected XSS: Breaking Out of Attributes in WordPress Search | Maverick | [Read More](https://medium.com/p/70071a099dd3) |
 | Thu, 01 Jan 2026 15:20:58 GMT | MAGIC CHECK: Learning to Read What Files Actually Are | James Reeves | [Read More](https://medium.com/p/d135118dd288) |
 | Thu, 01 Jan 2026 15:16:14 GMT | The Chameleon Attack: Breaking Apache StreamPipes with Recursive Object Tampering (CVE-2025–47411) | Francisco Paz Mccausland | [Read More](https://medium.com/p/fce3702bc45d) |
-| Thu, 01 Jan 2026 15:13:00 GMT | Professional Security Cameras Los Angeles CA-Importance of Modern Security Solutions | Thomas Wilson | [Read More](https://medium.com/p/ad5c6ccc4096) |
-| Thu, 01 Jan 2026 15:01:07 GMT | LokidresCTF Write-Up | Myusuftr | [Read More](https://medium.com/p/4232cbda1daa) |
-| Thu, 01 Jan 2026 15:00:51 GMT | Sauna HTB — Security lessons | Balaji_21 | [Read More](https://medium.com/p/315b1cfb656d) |
-| Thu, 01 Jan 2026 14:59:30 GMT | From Chiffon Sarees to Secure Software: A Bollywood Guide to Application Security Frameworks | Sumant Khapre | [Read More](https://medium.com/p/6122be2036b2) |
