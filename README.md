@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 12:32:29 GMT | Admin Dashboard Access Wasn’t Hacked — It Was Allowed | XoX | [Read More](https://medium.com/p/15c556b1c850) |
+| Thu, 01 Jan 2026 12:21:00 GMT | SOC Analyst’s New Superpower (Part 2): Host-Based Automated Incident Response | Mostafa Elsaeed | [Read More](https://medium.com/p/3e40133451e1) |
+| Thu, 01 Jan 2026 12:10:16 GMT | Windows Active Directory DNS Mimarisi, Yönetimi ve Güvenliği: | Serdarumuturan | [Read More](https://medium.com/p/1f5b33952b56) |
+| Thu, 01 Jan 2026 12:07:35 GMT | The Windows Security Journey — Pre-Windows 2000 Compatible Access group | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/02a71818b05e) |
+| Thu, 01 Jan 2026 12:06:42 GMT | 5TH NETWORKING PROJECT: I Designed a Scalable Company Enterprise Network. | iYÁOmarv_ | [Read More](https://medium.com/p/420390a99219) |
+| Thu, 01 Jan 2026 12:02:40 GMT | From Technical Service Management to OpenAI Data Center Security: A Comprehensive Roadmap | Afeef Khateeb | [Read More](https://medium.com/p/4d70cbb4b88f) |
+| Thu, 01 Jan 2026 12:02:39 GMT | [TK] Writeup for picoCTF challenge “picobrowser” | Walter Moar | [Read More](https://medium.com/p/320cefd7289c) |
+| Thu, 01 Jan 2026 11:59:53 GMT | Securely Distribute Millions of S3 Files with CloudFront Signed Cookies + a Single Signed URL | Harshvijaythakkar | [Read More](https://medium.com/p/dd91212d6e17) |
+| Thu, 01 Jan 2026 11:53:11 GMT | When AI Moves Too Fast | The15SecTales | [Read More](https://medium.com/p/89b5e0f059db) |
 | Thu, 01 Jan 2026 11:33:26 GMT | Understanding Microsoft Sentinel Platform Audit Logs | Saikat Paul | [Read More](https://medium.com/p/1d4e91169105) |
 | Thu, 01 Jan 2026 11:20:10 GMT | Debugging malicious AutoIT scripts | Remy Jaspers | [Read More](https://medium.com/p/1169b110b43f) |
+| Thu, 01 Jan 2026 11:17:34 GMT | The Alarming State of Generative AI and the Urgent Need for Regulation | Chaitanya Saxena | [Read More](https://medium.com/p/f74be91414e6) |
 | Thu, 01 Jan 2026 11:13:51 GMT | Modern Warfare After Ukraine: Lessons, Limits, and the Shape of Future Conflict | MASUM BILLAH | [Read More](https://medium.com/p/4a475da1b9fe) |
 | Thu, 01 Jan 2026 11:12:00 GMT | The 2-Key Dilemma | CybeCloud | [Read More](https://medium.com/p/4992844404f6) |
 | Thu, 01 Jan 2026 11:07:54 GMT | SOC Analyst ROADMAP [2026 ] | Mr Horbio | [Read More](https://medium.com/p/13006d3d3cdd) |
@@ -103,13 +113,3 @@ Content… | Ankit rai | [Read More](https://medium.com/p/200998566d74) |
 | Thu, 01 Jan 2026 05:37:15 GMT | BEAUTIFUL WOMAN DMS YOU ON INSTAGRAM. SHE’S ACTUALLY A 19-YEAR-OLD BOY IN LAGOS. | Joseph | [Read More](https://medium.com/p/ff5cc50fedc4) |
 | Thu, 01 Jan 2026 05:32:26 GMT | Solving Identity Management in Modern Applications: An Architecture-Series | Dilanka Muthukumarana | [Read More](https://medium.com/p/d98ae13b13f2) |
 | Thu, 01 Jan 2026 05:20:55 GMT | Protecting Alberta Homes with Smart, Reliable Solutions | Alarm Guard Security | [Read More](https://medium.com/p/b8cc95b3aee9) |
-| Thu, 01 Jan 2026 05:18:54 GMT | Why Encrypting and Decrypting Data Is Essential for App and Backend Security | Silversky Technology | [Read More](https://medium.com/p/a7e541fd338c) |
-| Thu, 01 Jan 2026 05:09:27 GMT | Out-of-Band Observation Using Devices Designed to Be Ignored | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/eeb3002b434f) |
-| Thu, 01 Jan 2026 04:44:51 GMT | Frida on Android Studio Emulator (2026): Installation, Usage & frida-compile Workflow | Thrishank Chintham | [Read More](https://medium.com/p/c44cf8c823a7) |
-| Thu, 01 Jan 2026 04:02:45 GMT | Hack The Box Sherlock Logjammer writeup | k1ndlov3r | [Read More](https://medium.com/p/9a2d84b0d9e7) |
-| Thu, 01 Jan 2026 03:56:43 GMT | Beyond the Locks: Secure Protocols and the Quiet Power of Session Keys | Manubhav Sharma | [Read More](https://medium.com/p/b5a3189fe552) |
-| Thu, 01 Jan 2026 03:45:17 GMT | eWTPXv3: A review and some advice. | Daniel Scragg | [Read More](https://medium.com/p/f615ed4a6f39) |
-| Thu, 01 Jan 2026 03:34:41 GMT | When AI Gets Access: Why MCP Needs Guardrails | Kartik Shah | [Read More](https://medium.com/p/fecaf308408e) |
-| Thu, 01 Jan 2026 03:34:35 GMT | Complete Roadmap to Become a Digital Forensics Expert (From Zero to Pro) | Shahzaib | [Read More](https://medium.com/p/b4d0ae924962) |
-| Thu, 01 Jan 2026 03:34:31 GMT | PC Security in the 1980s | Cfir Aguston | [Read More](https://medium.com/p/0d634298f805) |
-| Thu, 01 Jan 2026 03:34:24 GMT | Why Secure Coding Is Harder Than People Think | Hania Khan | [Read More](https://medium.com/p/856d5f4a8af9) |
