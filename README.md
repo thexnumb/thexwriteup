@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 10:38:16 GMT | No Alerts Doesn’t Mean You’re Secure. It Usually Means You’re Blind | Elias Gray | [Read More](https://medium.com/p/0eaa1d334f45) |
+| Thu, 01 Jan 2026 10:36:26 GMT | KEAMANAN LINUX | Ahmad Diqri Wirayudha | [Read More](https://medium.com/p/9a3c49a791ba) |
+| Thu, 01 Jan 2026 10:30:18 GMT | Industrial plants and ICS as targets — Stuxnet and what happend after it | Maxi | [Read More](https://medium.com/p/a905db0816cc) |
+| Thu, 01 Jan 2026 10:27:59 GMT | Energy organizations operate in environments where cyber incidents can affect safety, production… | Rahman Iqbal | [Read More](https://medium.com/p/bf56771e917a) |
+| Thu, 01 Jan 2026 10:16:41 GMT | The Ghost and the Machine: Kevin Mitnick and the Art of Human Hacking | Ann Isabelle | [Read More](https://medium.com/p/780f8271ca0e) |
 | Thu, 01 Jan 2026 10:15:22 GMT | Cybersecurity 2026 Forecast and Why I am Scary | Motasem Hamdan | [Read More](https://medium.com/p/9471f94ec80c) |
 | Thu, 01 Jan 2026 10:10:29 GMT | How Much Does ISO 27001 Cost? A Detailed Breakdown of Every Expense | SecureSlate | [Read More](https://medium.com/p/924df127912a) |
 | Thu, 01 Jan 2026 10:09:41 GMT | 2026: PQC Key Exchange Begins | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/77c550095c9e) |
@@ -108,8 +113,3 @@ Content… | Ankit rai | [Read More](https://medium.com/p/200998566d74) |
 | Thu, 01 Jan 2026 02:13:29 GMT | Lab: Reflected XSS in canonical link tag | KRY | [Read More](https://medium.com/p/6f5a47f54be6) |
 | Thu, 01 Jan 2026 02:10:53 GMT | Lab: Reflected XSS with some SVG markup allowed | KRY | [Read More](https://medium.com/p/899e0674e44c) |
 | Thu, 01 Jan 2026 02:06:57 GMT | Stop Hardcoding API Keys in Flask — Use This 10-Line “Fail-Closed” Shield Instead | Dorian Sotpyrc | [Read More](https://medium.com/p/1edeb700edbd) |
-| Thu, 01 Jan 2026 02:02:49 GMT | Stop Passing Tokens in URLs: The Right Way to Share Sessions Across Subdomains | Taqiyya Ghazi | [Read More](https://medium.com/p/f1cb7e4fbc24) |
-| Thu, 01 Jan 2026 01:37:05 GMT | A Different MongoBleed Perspective | Tamir Zimerman | [Read More](https://medium.com/p/5f08b4bf887a) |
-| Thu, 01 Jan 2026 01:25:03 GMT | Refresh Token Rotation Done Right: How to Protect Your Backend from Token Theft | BlockchainBard | [Read More](https://medium.com/p/a875435a78c6) |
-| Thu, 01 Jan 2026 00:44:46 GMT | Recon Is Not About Tools, It’s About Thinking | cat0x01 | [Read More](https://medium.com/p/2259b8e9dc9a) |
-| Thu, 01 Jan 2026 00:44:12 GMT | Everything worth knowing about identity providers: OAuth and OpenID connect | Sw33tBit | [Read More](https://medium.com/p/7a720bae73b1) |
