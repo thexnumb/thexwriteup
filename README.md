@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 01 Jan 2026 20:10:48 GMT | Hack Smarter — Polution Lab Walkthrough (Easy) | Muhammad Usman Faridi | [Read More](https://medium.com/p/3b3f7ccf977d) |
+| Thu, 01 Jan 2026 19:55:41 GMT | How I eliminated the vulnerability window that enabled the Mirai botnet in 2016 | atdon | [Read More](https://medium.com/p/5b5e0c023b1e) |
+| Thu, 01 Jan 2026 19:49:54 GMT | Installing Kali Linux on a Modern Laptop (Lenovo ThinkPad P1) from macOS: A Step-by-Step Guide | 0xNachoShell | [Read More](https://medium.com/p/2c1514c5acd8) |
+| Thu, 01 Jan 2026 19:44:06 GMT | TryHackMe: Pyramid of Pain | Cyberpatriot | [Read More](https://medium.com/p/4312e66ca69d) |
+| Thu, 01 Jan 2026 19:39:55 GMT | Why Humans Are Still the Weakest Link in Security — A Deep, Real-World Look from the Field | Fuzzyy Duck | [Read More](https://medium.com/p/61dac9661ee2) |
+| Thu, 01 Jan 2026 19:39:23 GMT | Recon to Vulnerability: A Practical Guide to Finding Real Bugs | Monika sharma | [Read More](https://medium.com/p/7718ee8eca3f) |
+| Thu, 01 Jan 2026 19:39:21 GMT | Meeting tools compromise security and compliance? | actionit | [Read More](https://medium.com/p/edde2494c3f1) |
 | Thu, 01 Jan 2026 19:38:30 GMT | ISO/IEC 42001: 2023 — Yapay Zeka Yönetim Sistemi | Mustafa YILMAZ | [Read More](https://medium.com/p/caafb2c15683) |
 | Thu, 01 Jan 2026 19:37:39 GMT | MongoDBBleed (CVE-2025–14847): The Memory Leak That Exposed Everything | shivam jadhav | [Read More](https://medium.com/p/9ffd63184395) |
+| Thu, 01 Jan 2026 19:34:33 GMT | THM — Rabbit Store — Write-up - Hussein Ibrahim | Hussin Ibrahim | [Read More](https://medium.com/p/72cde70c27ea) |
 | Thu, 01 Jan 2026 19:32:24 GMT | Inside the Terminal: Mastering the Linux Ecosystem That Powers the World | Little_Sun4lower | [Read More](https://medium.com/p/776cefb0d08c) |
 | Thu, 01 Jan 2026 19:28:10 GMT | Iran foils large cyberattacks on communications network | Defence Affairs & Analysis | [Read More](https://medium.com/p/15eaef59410c) |
 | Thu, 01 Jan 2026 19:25:48 GMT | Securing a Production VPS in Practice | Muthukumaran Navaneethakrishnan | [Read More](https://medium.com/p/e3feaa9545af) |
@@ -106,11 +114,3 @@ if I need to let this go. | Vicky Writes | [Read More](https://medium.com/p/bad7
 | Thu, 01 Jan 2026 14:31:29 GMT | Navigating Nested Virtualization: A Beginner’s Journey | Darlie | [Read More](https://medium.com/p/07754011d0a2) |
 | Thu, 01 Jan 2026 14:23:15 GMT | The fear of wanting 
 ‎ | Li's Journal | [Read More](https://medium.com/p/4257c9f41d03) |
-| Thu, 01 Jan 2026 14:21:12 GMT | SOC Analyst: The Guardian of Enterprise Security | Ferdi Edogawa | [Read More](https://medium.com/p/e12b72453997) |
-| Thu, 01 Jan 2026 14:20:16 GMT | SOC Journey — Day 1: Foundations That Keep Data Safe | Drishti Pandey | [Read More](https://medium.com/p/7628cd2825c0) |
-| Thu, 01 Jan 2026 14:19:00 GMT | Exploiting Metasploitable2 Using msfconsole (Kali Linux Lab) | Ankit Kumar | [Read More](https://medium.com/p/b085cca52358) |
-| Thu, 01 Jan 2026 14:18:59 GMT | Nigeria Spent $142 Billion on Terror. The Violence Persists. | Oge Samuel Okonkwo | [Read More](https://medium.com/p/e31ff8fc148d) |
-| Thu, 01 Jan 2026 14:14:44 GMT | Redundancy Engineering: why “Extra” means Intelligent Design | Kumar Vinay | [Read More](https://medium.com/p/dc4a1eabc40f) |
-| Thu, 01 Jan 2026 14:07:47 GMT | Modern endüstriyel kontrol sistemlerinde (ICS) veri bütünlüğü, fiziksel dünyadan alınan analog… | Setenay T. | [Read More](https://medium.com/p/c0c6c2c22aaa) |
-| Thu, 01 Jan 2026 14:06:42 GMT | Networking Services — Network Series 4 | Mr.Cool | [Read More](https://medium.com/p/32dc727b9e8d) |
-| Thu, 01 Jan 2026 14:02:59 GMT | Threat Modeling MCP Servers with STRIDE: A Practical Guide | Odell Moreno | [Read More](https://medium.com/p/60bdad334c90) |
