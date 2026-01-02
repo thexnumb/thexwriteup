@@ -12,7 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 07:24:42 GMT | Professional Cannabis Store Security Guards You Can Trust | Hirasarfraz | [Read More](https://medium.com/p/724a16d22be8) |
+| Fri, 02 Jan 2026 07:20:55 GMT | Why Japan Must Dramatically Strengthen Its Indigenous Cyber Warfare Capabilities | David SEHYEON Baek | [Read More](https://medium.com/p/632c6ae4950b) |
+| Fri, 02 Jan 2026 07:17:02 GMT | TOP 5 Security Vulnerabilities of Agentic AI Systems (You Need To Know in 2026) | Madangopal | [Read More](https://medium.com/p/81941edfc367) |
+| Fri, 02 Jan 2026 07:13:22 GMT | Securing RAG Systems: Part 1 — Building the Foundation | Dima Fomberg | [Read More](https://medium.com/p/afd16e2e3b1d) |
+| Fri, 02 Jan 2026 07:09:39 GMT | 16 Best Practices to Build a Secure Web Application | Telepathy Infotech | [Read More](https://medium.com/p/02922403e734) |
+| Fri, 02 Jan 2026 07:09:23 GMT | Future Trends in Data Annotation Services | Alex | [Read More](https://medium.com/p/6ebb261d0969) |
+| Fri, 02 Jan 2026 07:06:34 GMT | Hire a Professional hacker to access your cheating Spouse’s WhatsApp without any Notice - At… | Kevin Jannet | [Read More](https://medium.com/p/879115e8b537) |
+| Fri, 02 Jan 2026 07:04:12 GMT | Basic Commands in Kali-Linux for Ethical Hacking (Part -3) | Akhil Thakur | [Read More](https://medium.com/p/fc28f5ae59e9) |
+| Fri, 02 Jan 2026 06:58:44 GMT | Daily Workflow of Elite Bug Hunters: 12 Tools That Power Real-World Bounty Success | Very Lazy Tech | [Read More](https://medium.com/p/6cf62c78bb64) |
+| Fri, 02 Jan 2026 06:52:28 GMT | The Corix Partners Friday Reading List — January 2, 2026 | JC Gaillard | [Read More](https://medium.com/p/91231788ad80) |
+| Fri, 02 Jan 2026 06:49:11 GMT | URL Analysis: A Practical Methodology for SOC Analysts | Aditya Nehra | [Read More](https://medium.com/p/c24d1c1093a3) |
+| Fri, 02 Jan 2026 06:47:18 GMT | Cybersecurity Side Hustles: How I Make Money With Cybersecurity and Plan to Grow in 2026 | Nitin yadav | [Read More](https://medium.com/p/35becf164a56) |
+| Fri, 02 Jan 2026 06:47:04 GMT | TryHackMe: The Great Disappearing Act Writeup | cbev | [Read More](https://medium.com/p/8cd146e1083a) |
+| Fri, 02 Jan 2026 06:42:42 GMT | Top Cybersecurity Threats in the Digital Age: A Research-Based Overview | Thabuprabaa | [Read More](https://medium.com/p/56239b1c8162) |
+| Fri, 02 Jan 2026 06:39:48 GMT | ⚔️ The Breach in the Wall: Exploiting MS17–010 on HTB Blue | Nicholas Mullenski | [Read More](https://medium.com/p/259c9cb66da0) |
+| Fri, 02 Jan 2026 06:36:18 GMT | SantaCloud Challenge Solution: Credential Exposure via Backup File Leading to Admin Access and IDOR | Masangamike | [Read More](https://medium.com/p/b3afa44a9cf4) |
+| Fri, 02 Jan 2026 06:35:42 GMT | Hack Free Fire Vo Han Kim Cuong 99999 Headshot Xuyen Tuong | Bandisharecx | [Read More](https://medium.com/p/5a7aece2b260) |
 | Fri, 02 Jan 2026 06:24:36 GMT | What is malware ? | Vishalraj | [Read More](https://medium.com/p/35d7d60705e5) |
+| Fri, 02 Jan 2026 06:24:03 GMT | The Name Game: Identity Harvesting Can Be a Slow Erasure | Delta.Reveille | [Read More](https://medium.com/p/e948f727326d) |
 | Fri, 02 Jan 2026 06:21:38 GMT | Why Rotating CSS Selectors Is an Effective Anti-Scraping Technique | Freeze Francis | [Read More](https://medium.com/p/b3fe26ab42f2) |
 | Fri, 02 Jan 2026 06:03:41 GMT | Our React2Shell Vulnerability Nightmare | Tech Monk | [Read More](https://medium.com/p/18ca627f86d6) |
 | Fri, 02 Jan 2026 06:02:00 GMT | Web Crawling for Ethical Hackers: Finding Hidden Endpoints with Katana | virexil.null | [Read More](https://medium.com/p/bf8334d48bea) |
@@ -96,21 +114,3 @@ In a small town in Afghanistan, a girl named Neda lived with her family. | Sakhi
 | Thu, 01 Jan 2026 21:00:15 GMT | Direct Prompt Injection Enables System Prompt Disclosure in Copilot | D_F4u1t | [Read More](https://medium.com/p/feeefddeac97) |
 | Thu, 01 Jan 2026 20:54:34 GMT | Setting up AWS multi-account governance structure for a startup and beyond | Salman Baset | [Read More](https://medium.com/p/0c7fb5b11bc3) |
 | Thu, 01 Jan 2026 20:42:40 GMT | Cyber Wellness: The Modern Self-Care Habit Most People Overlook | CyberHelp911_Coach | [Read More](https://medium.com/p/92573184452e) |
-| Thu, 01 Jan 2026 20:33:31 GMT | Welcome to the Age of Playful Pursuits | organic flow. | [Read More](https://medium.com/p/c0fc560dfff7) |
-| Thu, 01 Jan 2026 20:31:00 GMT | What Happens If You’re Not Prepared for Cybersecurity Threats | The Digital Sidekick | [Read More](https://medium.com/p/27e478ddb4b3) |
-| Thu, 01 Jan 2026 20:10:48 GMT | Hack Smarter — Polution Lab Walkthrough (Easy) | Muhammad Usman Faridi | [Read More](https://medium.com/p/3b3f7ccf977d) |
-| Thu, 01 Jan 2026 19:55:41 GMT | How I eliminated the vulnerability window that enabled the Mirai botnet in 2016 | atdon | [Read More](https://medium.com/p/5b5e0c023b1e) |
-| Thu, 01 Jan 2026 19:49:54 GMT | Installing Kali Linux on a Modern Laptop (Lenovo ThinkPad P1) from macOS: A Step-by-Step Guide | 0xNachoShell | [Read More](https://medium.com/p/2c1514c5acd8) |
-| Thu, 01 Jan 2026 19:44:06 GMT | TryHackMe: Pyramid of Pain | Cyberpatriot | [Read More](https://medium.com/p/4312e66ca69d) |
-| Thu, 01 Jan 2026 19:39:55 GMT | Why Humans Are Still the Weakest Link in Security — A Deep, Real-World Look from the Field | Fuzzyy Duck | [Read More](https://medium.com/p/61dac9661ee2) |
-| Thu, 01 Jan 2026 19:39:23 GMT | Recon to Vulnerability: A Practical Guide to Finding Real Bugs | Monika sharma | [Read More](https://medium.com/p/7718ee8eca3f) |
-| Thu, 01 Jan 2026 19:39:21 GMT | Meeting tools compromise security and compliance? | actionit | [Read More](https://medium.com/p/edde2494c3f1) |
-| Thu, 01 Jan 2026 19:38:30 GMT | ISO/IEC 42001: 2023 — Yapay Zeka Yönetim Sistemi | Mustafa YILMAZ | [Read More](https://medium.com/p/caafb2c15683) |
-| Thu, 01 Jan 2026 19:37:39 GMT | MongoDBBleed (CVE-2025–14847): The Memory Leak That Exposed Everything | shivam jadhav | [Read More](https://medium.com/p/9ffd63184395) |
-| Thu, 01 Jan 2026 19:34:33 GMT | THM — Rabbit Store — Write-up - Hussein Ibrahim | Hussin Ibrahim | [Read More](https://medium.com/p/72cde70c27ea) |
-| Thu, 01 Jan 2026 19:32:24 GMT | Inside the Terminal: Mastering the Linux Ecosystem That Powers the World | Little_Sun4lower | [Read More](https://medium.com/p/776cefb0d08c) |
-| Thu, 01 Jan 2026 19:28:10 GMT | Iran foils large cyberattacks on communications network | Defence Affairs & Analysis | [Read More](https://medium.com/p/15eaef59410c) |
-| Thu, 01 Jan 2026 19:25:48 GMT | Securing a Production VPS in Practice | Muthukumaran Navaneethakrishnan | [Read More](https://medium.com/p/e3feaa9545af) |
-| Thu, 01 Jan 2026 19:23:24 GMT | Bypassing Pro Membership Using SQL Injection in an Android App lab | Mohamednaddaa | [Read More](https://medium.com/p/3feb11381ee4) |
-| Thu, 01 Jan 2026 19:20:51 GMT | Your Roadmap to GRC Success: Simplifying Governance, Risk, and Compliance! | Adeoluwa Obadofin | [Read More](https://medium.com/p/d3637373914b) |
-| Thu, 01 Jan 2026 19:19:59 GMT | Shocker: From 403 Forbidden to Root in Under 10 Mins! ⚡ | Nicholas Mullenski | [Read More](https://medium.com/p/1b53c202699f) |
