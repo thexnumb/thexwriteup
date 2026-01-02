@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 10:23:51 GMT | Patterns without Exposure: How FHE Securely Computes the Future | Mimi Marcus | [Read More](https://medium.com/p/0819a4ccc5a3) |
+| Fri, 02 Jan 2026 10:20:05 GMT | What is digital forensics in cybersecurity, and why is it important | cyber security Updates | [Read More](https://medium.com/p/1dbde7e35ac1) |
+| Fri, 02 Jan 2026 10:19:17 GMT | Building a Zero-Trust Strategy Starts with Endpoint Security | ANSI Technologies | [Read More](https://medium.com/p/573ca8b1b6b4) |
+| Fri, 02 Jan 2026 10:10:06 GMT | DDOS ATTACK ON POX CONTROLLER WITH JOINT ENTROPY DETECTION IN SDN NETWORKS | OxMotaw3 | [Read More](https://medium.com/p/ef692e533af8) |
+| Fri, 02 Jan 2026 10:08:50 GMT | Why Cybersecurity and Data Protection Matter More Than Ever in the Digital Age | Blue Bird Digital Technology | [Read More](https://medium.com/p/f9f424f1fa5f) |
+| Fri, 02 Jan 2026 10:07:13 GMT | Try Hack Me- Blog Walkthrough | PulseEinher | [Read More](https://medium.com/p/1d4cd42b52d1) |
+| Fri, 02 Jan 2026 10:05:56 GMT | Tải Asian Drag Champion Apk (MOD Vô Hạn Tiền) V1.0.7 | Game4u | [Read More](https://medium.com/p/5239df509069) |
+| Fri, 02 Jan 2026 10:03:05 GMT | How to Secure Your Website in 2026: Shorter SSL Lifetimes and Cybersecurity Trends | Ali Mehrabiyan | [Read More](https://medium.com/p/ed8d972a525d) |
+| Fri, 02 Jan 2026 10:01:01 GMT | VAPT Services in India for Stronger Cybersecurity Protection | Prakash Factosecure | [Read More](https://medium.com/p/1c3f543f60e1) |
+| Fri, 02 Jan 2026 09:59:04 GMT | 2 Years of Silence, 1 Critical Exploit: My Return to the Leaderboard(RCE) | Bharath | [Read More](https://medium.com/p/8d981af6523c) |
+| Fri, 02 Jan 2026 09:56:42 GMT | #  My eJPT Exam Experience — What I Learned Beyond the Certificate | Roshan Rajbanshi | [Read More](https://medium.com/p/17dfdd9f28e2) |
+| Fri, 02 Jan 2026 09:54:28 GMT | I Am Naked in The Mirror in Your Eyes | Itoro Umoette | [Read More](https://medium.com/p/c49fa25353c5) |
+| Fri, 02 Jan 2026 09:52:48 GMT | ParrotOS 7.0: What’s New in This Lightweight Security Distribution | Devam Shah | [Read More](https://medium.com/p/011471e02fa4) |
 | Fri, 02 Jan 2026 09:47:26 GMT | A Simple AWS Practice Every Cloud Engineer Should Follow | kranthi kiran | [Read More](https://medium.com/p/03e498506a8e) |
+| Fri, 02 Jan 2026 09:45:30 GMT | ️ My Home SOC Lab: Detecting a Living-Off-The-Land PowerShell Attack with Wazuh | Shreya | [Read More](https://medium.com/p/87b7126ff25c) |
 | Fri, 02 Jan 2026 09:44:06 GMT | overthewire [ natas 31 ] | Osec | [Read More](https://medium.com/p/62b3a179b8a3) |
 | Fri, 02 Jan 2026 09:42:18 GMT | “Phishlets” Are the New Phishing Weapon — Here’s What You Need to Know | Redfox Security | [Read More](https://medium.com/p/bbf9cf08d434) |
 | Fri, 02 Jan 2026 09:38:58 GMT | How Technology Is Shaping the Way We Learn and Work Today | lalitha | [Read More](https://medium.com/p/6c0cb963a9d0) |
@@ -100,17 +114,3 @@ Cybercrime is evolving… | Ankit rai | [Read More](https://medium.com/p/bd6c5c2
 | Fri, 02 Jan 2026 05:09:33 GMT | Top 3 AI Security Certifications for Cybersecurity Professionals In 2026 | Modern Security | [Read More](https://medium.com/p/fd16d41fd76f) |
 | Fri, 02 Jan 2026 05:09:14 GMT | Prompt Injection Is Permanent: Your AI Agent Needs Seatbelts, Not Smarter Prompts | MohamedAbdelmenem | [Read More](https://medium.com/p/389d1c2696ce) |
 | Fri, 02 Jan 2026 05:07:43 GMT | Is Your Phone Listening? | Abhishek Dadhich | [Read More](https://medium.com/p/056b93ac927c) |
-| Fri, 02 Jan 2026 05:07:20 GMT | PII Protection in Practice: From Identification to Governance in Banking Systems | Aditya Ramaswamy | [Read More](https://medium.com/p/0adf49210f0b) |
-| Fri, 02 Jan 2026 05:03:57 GMT | Not Just Training — We Help You Get Hired | HackersPrey | [Read More](https://medium.com/p/bddea4471686) |
-| Fri, 02 Jan 2026 04:56:55 GMT | What is MCP and Why It Matters | Durga Gadiraju | [Read More](https://medium.com/p/7403d404f15f) |
-| Fri, 02 Jan 2026 04:56:00 GMT | I Scanned 120 Websites: Most Were Less Secure Than Their Owners Thought | Max Malenky | [Read More](https://medium.com/p/8440ccfeabde) |
-| Fri, 02 Jan 2026 04:54:51 GMT | Installing Your First MCP Server | Durga Gadiraju | [Read More](https://medium.com/p/a282dbe71f85) |
-| Fri, 02 Jan 2026 04:54:16 GMT | About William Tulaba | William Tulaba | [Read More](https://medium.com/p/cc047a5a8a29) |
-| Fri, 02 Jan 2026 04:51:33 GMT | CEHv12: Cryptography (Practised) (Module 20) | Aditya Kumar | [Read More](https://medium.com/p/3bdd1d9c27ce) |
-| Fri, 02 Jan 2026 04:51:24 GMT | Zero-Day Attack Prevention and Reduction | Aneeqibtesam | [Read More](https://medium.com/p/8901d693fa2e) |
-| Fri, 02 Jan 2026 04:48:12 GMT | AI Nearly Replaced Me as a SOC Analyst. Instead, It Got Me Promoted. | Narayan Regmi | [Read More](https://medium.com/p/e887586f4249) |
-| Fri, 02 Jan 2026 04:45:30 GMT | Weekly Threat Intelligence Report 22 Dec 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/6f024012a0b6) |
-| Fri, 02 Jan 2026 04:43:11 GMT | Informationssicherheit im digitalen Zeitalter und das Deutsche Recht | Atanur Coban | [Read More](https://medium.com/p/52cc2d91ae15) |
-| Fri, 02 Jan 2026 04:32:27 GMT | 5 Reputation Systems That Expose DePIN Sybils | Praxen | [Read More](https://medium.com/p/7515011b6aac) |
-| Fri, 02 Jan 2026 04:28:08 GMT | How to Choose the Right ServiceNow Migration Partner: Key Considerations | Alex s | [Read More](https://medium.com/p/28657b57d069) |
-| Fri, 02 Jan 2026 04:24:31 GMT | Cybersecurity Fundamentals and Understanding Penetration Testing | Januar 博阳 | [Read More](https://medium.com/p/c6af996a8eca) |
