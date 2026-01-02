@@ -12,9 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 07:37:56 GMT | Admin has the power CyberTalents CTF write up | Ammar yasser El-sayed | [Read More](https://medium.com/p/bd0536f993c6) |
+| Fri, 02 Jan 2026 07:30:04 GMT | Configuration Leaks and Missing Checks: Capturing the Flag in Intigriti’s SantaCloud CTF | Xiaoyong Wu | [Read More](https://medium.com/p/2c86f535f7c5) |
+| Fri, 02 Jan 2026 07:27:38 GMT | Why 2026 Will Be the Golden Year for Cybercriminals — Unless We Act Now
+Cybercrime is evolving… | Ankit rai | [Read More](https://medium.com/p/bd6c5c282b93) |
+| Fri, 02 Jan 2026 07:26:01 GMT | CISSP Training and Certification for Cybersecurity Architects and Security Managers | Skills For Everyone | [Read More](https://medium.com/p/4abd7bc4f287) |
+| Fri, 02 Jan 2026 07:25:34 GMT | Walkthrough — MonitorsFour (HTB) | Maxwell Ferreira | [Read More](https://medium.com/p/7914f17528a8) |
 | Fri, 02 Jan 2026 07:24:42 GMT | Professional Cannabis Store Security Guards You Can Trust | Hirasarfraz | [Read More](https://medium.com/p/724a16d22be8) |
 | Fri, 02 Jan 2026 07:20:55 GMT | Why Japan Must Dramatically Strengthen Its Indigenous Cyber Warfare Capabilities | David SEHYEON Baek | [Read More](https://medium.com/p/632c6ae4950b) |
 | Fri, 02 Jan 2026 07:17:02 GMT | TOP 5 Security Vulnerabilities of Agentic AI Systems (You Need To Know in 2026) | Madangopal | [Read More](https://medium.com/p/81941edfc367) |
+| Fri, 02 Jan 2026 07:16:55 GMT | The North — Where It All Begins | Elimman | [Read More](https://medium.com/p/6e7f215cd1c9) |
 | Fri, 02 Jan 2026 07:13:22 GMT | Securing RAG Systems: Part 1 — Building the Foundation | Dima Fomberg | [Read More](https://medium.com/p/afd16e2e3b1d) |
 | Fri, 02 Jan 2026 07:09:39 GMT | 16 Best Practices to Build a Secure Web Application | Telepathy Infotech | [Read More](https://medium.com/p/02922403e734) |
 | Fri, 02 Jan 2026 07:09:23 GMT | Future Trends in Data Annotation Services | Alex | [Read More](https://medium.com/p/6ebb261d0969) |
@@ -108,9 +115,3 @@ In a small town in Afghanistan, a girl named Neda lived with her family. | Sakhi
 | Thu, 01 Jan 2026 21:15:48 GMT | TryHackMe -Lumberjack Turtle | Efe | [Read More](https://medium.com/p/8bc9584118b7) |
 | Thu, 01 Jan 2026 21:09:44 GMT | AI Pentesting: Practicing Prompt Injection With the Gandalf Challenge | Will Giles - Cybersecurity | [Read More](https://medium.com/p/01f10400d7bb) |
 | Thu, 01 Jan 2026 21:08:26 GMT | Building a Full-Tunnel WireGuard VPN with Ubuntu Server and Kali Linux (No Cloud, No VPS) | Eyob Million | [Read More](https://medium.com/p/8e59e47ccbb6) |
-| Thu, 01 Jan 2026 21:03:32 GMT | Walking an Application - TryHackMe Walkthrough | David Ajuzie | [Read More](https://medium.com/p/4cb8d2e248d6) |
-| Thu, 01 Jan 2026 21:02:25 GMT | How to Tell if a Man is Reliable: Three Details That Say It All | Mabel Harris | [Read More](https://medium.com/p/d4ab8d716195) |
-| Thu, 01 Jan 2026 21:00:58 GMT | Indirect Prompt Injection Using `-` Delimiter and JSON Payload Enables System Prompt Disclosure in… | D_F4u1t | [Read More](https://medium.com/p/996a7b15dc01) |
-| Thu, 01 Jan 2026 21:00:15 GMT | Direct Prompt Injection Enables System Prompt Disclosure in Copilot | D_F4u1t | [Read More](https://medium.com/p/feeefddeac97) |
-| Thu, 01 Jan 2026 20:54:34 GMT | Setting up AWS multi-account governance structure for a startup and beyond | Salman Baset | [Read More](https://medium.com/p/0c7fb5b11bc3) |
-| Thu, 01 Jan 2026 20:42:40 GMT | Cyber Wellness: The Modern Self-Care Habit Most People Overlook | CyberHelp911_Coach | [Read More](https://medium.com/p/92573184452e) |
