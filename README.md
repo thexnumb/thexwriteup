@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 19:13:07 GMT | VMware ESXi 7.0 İle Sanal Makine Oluşturma | Senyuvafurkan | [Read More](https://medium.com/p/e49a7b454178) |
+| Fri, 02 Jan 2026 19:12:53 GMT | AI Is Helping Hackers and Defenders | Anantha Gokul Sivakumar | [Read More](https://medium.com/p/a710df755802) |
+| Fri, 02 Jan 2026 18:43:18 GMT | Breaking the Walls: Techniques for 403 Forbidden Bypass | Samet Yiğit | [Read More](https://medium.com/p/c25034b822c6) |
+| Fri, 02 Jan 2026 18:40:13 GMT | Understanding Cyber Attacks Through The OSI Model | Manav Nagdukiya | [Read More](https://medium.com/p/f384666feb27) |
 | Fri, 02 Jan 2026 18:22:06 GMT | Ultimate HTB CPTS 2026 Notes: The Complete Study Guide | Motasem Hamdan | [Read More](https://medium.com/p/c7c133679d49) |
 | Fri, 02 Jan 2026 18:21:36 GMT | Networking Basic | Jenishjoel | [Read More](https://medium.com/p/6da5867c4e35) |
 | Fri, 02 Jan 2026 18:14:45 GMT | The Silent Attack in Your package.json: A Live Dependency Confusion Demo | Dipesh Paul | [Read More](https://medium.com/p/429340985c63) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 Jan 2026 12:29:29 GMT | Kritik Güvenlik Açıklarına Karşı Hangi Önlemler Alınmalı? (SCA ve SAST) | Malik Öztürk | [Read More](https://medium.com/p/3b3be5ae08a7) |
 | Fri, 02 Jan 2026 12:22:36 GMT | SOAR Without Soreness: What Tabletop Exercises Reveal About Modern SOC Workflows | Graylog | [Read More](https://medium.com/p/aa5a2ef47046) |
 | Fri, 02 Jan 2026 12:22:15 GMT | System Design: WhatsApp Architecture — From End-to-End Encryption to Billion-User Scale | Kunal Sinha | [Read More](https://medium.com/p/cddcbcf49594) |
-| Fri, 02 Jan 2026 12:19:45 GMT | Stay Secure in 2025: Managed Cloud Hosting Security Checklist | Smit Pipaliya | [Read More](https://medium.com/p/4d94e627325b) |
-| Fri, 02 Jan 2026 12:18:04 GMT | Zero Trust for AI Agents: Stop Building Like It’s 2005 | Michael Hannecke | [Read More](https://medium.com/p/698987340d66) |
-| Fri, 02 Jan 2026 12:09:13 GMT | Memory Forensics: Volatility 3 | Görkem Bellur | [Read More](https://medium.com/p/3ac2e7fad053) |
-| Fri, 02 Jan 2026 12:02:26 GMT | AI is Hunting SOC Analysts: How I’m Using AI to Stay Employed (Not Replaced) in 2026 | Narayan Regmi | [Read More](https://medium.com/p/112131c9b7a7) |
