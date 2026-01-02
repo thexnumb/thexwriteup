@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 14:06:01 GMT | What Is API And How to Design APIs Properly to avoid your application being hacked. | Leon Musk | [Read More](https://medium.com/p/71ac384a4bca) |
+| Fri, 02 Jan 2026 14:05:48 GMT | Lab: Low-level logic flaw | Songül Kızılay Özügürler | [Read More](https://medium.com/p/3df7e6d374ae) |
+| Fri, 02 Jan 2026 14:02:59 GMT | Best CCTV Monitoring Services in Dubai for Enhanced Security Solutions | Delight international Security Services | [Read More](https://medium.com/p/46ec3d2aba52) |
+| Fri, 02 Jan 2026 13:53:04 GMT | Day 2 — How SOC Analysts Really Think: Mental Models That Separate Beginners From Professionals | Drishti Pandey | [Read More](https://medium.com/p/9b5c08903d38) |
+| Fri, 02 Jan 2026 13:52:56 GMT | Why Small Companies Are Easier Targets Than Enterprises | Kotra Amitha | [Read More](https://medium.com/p/401f89621f46) |
+| Fri, 02 Jan 2026 13:52:34 GMT | AI Security 2025: The Attacks That Don’t Even Look Like Attacks | Ahmed M. Abdelfattah | [Read More](https://medium.com/p/6f746ca28887) |
+| Fri, 02 Jan 2026 13:45:14 GMT | Panduan Pro: Menulis dan Tuning Custom Rules Suricata 8 | Muhammad Khairin | [Read More](https://medium.com/p/165a207098b1) |
+| Fri, 02 Jan 2026 13:45:00 GMT | Focused but Relentless Exploitation in the Closing Week of 2025 | Loginsoft | [Read More](https://medium.com/p/599983d2f8c3) |
+| Fri, 02 Jan 2026 13:37:36 GMT | Introducing Unified SLA Tiers: Core, Priority, and Critical | Ilyas | [Read More](https://medium.com/p/cc3fe5c3a930) |
+| Fri, 02 Jan 2026 13:32:44 GMT | The Malware Watchlist: How Analysts Track Threats in Real Time | Intelithics | [Read More](https://medium.com/p/cae4a0432f1c) |
 | Fri, 02 Jan 2026 13:22:13 GMT | The One-Click Library Wipe: Exploiting CSRF in Saved Stories | Munna✨ | [Read More](https://medium.com/p/80250230ae13) |
 | Fri, 02 Jan 2026 13:16:43 GMT | Cybersecurity Made Human: Protect What Matters Online | Plaintext with Rich | [Read More](https://medium.com/p/b7b067136818) |
 | Fri, 02 Jan 2026 13:12:26 GMT | Untitled | CyberSecurity | [Read More](https://medium.com/p/182e1d9b5347) |
@@ -103,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 Jan 2026 08:22:24 GMT | DORA Compliance Made Practical | Consulting4sec | [Read More](https://medium.com/p/086e7df10663) |
 | Fri, 02 Jan 2026 08:20:32 GMT | For Jan 2, 2026, AI-native PMs focus on leveraging AI for hyper-personalized growth loops… | Ravikant Vishwakarma | [Read More](https://medium.com/p/52b9c41faf9a) |
 | Fri, 02 Jan 2026 08:18:16 GMT | Technology Trends that redefine the Cybersecurity rules in 2026 | QNu Labs | [Read More](https://medium.com/p/d6ac675db9d5) |
-| Fri, 02 Jan 2026 08:13:33 GMT | What Have I Been Doing All This Time? | Vijay Kumar Gupta | [Read More](https://medium.com/p/9be3e41ed9f9) |
-| Fri, 02 Jan 2026 08:09:39 GMT | Real Defence in OT Security: Balancing Risk Through Countermeasures | Fatma Erturk | [Read More](https://medium.com/p/e8842004740a) |
-| Fri, 02 Jan 2026 08:09:31 GMT | My $50,000 Mistake: Why Your Mobile App Security Is Probably a Joke | Rafi zimraan arjuna wijaya | [Read More](https://medium.com/p/82c6f3846059) |
-| Fri, 02 Jan 2026 08:04:13 GMT | Advanced Ethical Hacking Course with Certification | Manisha Chaudhary | [Read More](https://medium.com/p/fdc1d9721bf1) |
-| Fri, 02 Jan 2026 08:02:30 GMT | A New Direction: From Breaking Labs to Securing Production Systems | Nathan Vincent | [Read More](https://medium.com/p/67975312b6aa) |
-| Fri, 02 Jan 2026 08:02:29 GMT | January 7 Node.js Release: What to Patch & How Fast | Mehdi BAFDIL | [Read More](https://medium.com/p/cb9ff846ca51) |
-| Fri, 02 Jan 2026 08:01:10 GMT | 5 Best AI Cybersecurity Tools Every Small Business Needs In 2026 (Real-Time Protection That… | Ajekigbe Michael. A | [Read More](https://medium.com/p/f9802aae3c4a) |
-| Fri, 02 Jan 2026 07:50:46 GMT | An Oath for 2026: From Furnace Rooms to Server Rooms | Datparth | [Read More](https://medium.com/p/13f89f312e7d) |
-| Fri, 02 Jan 2026 07:50:31 GMT | TryHackMe Linux Fundamentals Part 3 | Ufuk Yaman | [Read More](https://medium.com/p/8106c35f871f) |
-| Fri, 02 Jan 2026 07:48:25 GMT | Top 20 Penetration Testing Companies in Singapore [Updated] | QualysecEurope | [Read More](https://medium.com/p/efa9d7b2bdf9) |
