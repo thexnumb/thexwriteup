@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 16:38:51 GMT | Legit Cloud Emails Also Become the Phish | Medjue Gore | [Read More](https://medium.com/p/dbc15430776a) |
+| Fri, 02 Jan 2026 16:38:16 GMT | Vulnub: Mr-Robot: 1: CTF Çözümü | Azat Dicle | [Read More](https://medium.com/p/eaf28546201b) |
+| Fri, 02 Jan 2026 16:36:09 GMT | Cyber Security Maturity in 2026: An Executive Summary to Stakeholders | Ricardo Newman | [Read More](https://medium.com/p/238696fc0da8) |
+| Fri, 02 Jan 2026 16:32:34 GMT | Securing My Ubuntu Server — Part 1: Initial Setup, User Management, and System Hardening | Annurdien Rasyid | [Read More](https://medium.com/p/5dce8f858dd8) |
+| Fri, 02 Jan 2026 16:32:25 GMT | Think Twice Before Pasting: The Dangerous Evolution of ClickFix Social Engineering Attacks | Hexucated | [Read More](https://medium.com/p/1da51f36c44b) |
 | Fri, 02 Jan 2026 16:22:49 GMT | Event Security London: Safeguarding Your Corporate Events with WA Event Services | waeventservices.co.uk/ | [Read More](https://medium.com/p/ef033cc580c0) |
 | Fri, 02 Jan 2026 16:20:43 GMT | West Africa’s DDR Crisis: Why Nigeria’s Deradicalization Succeeds Inside and Fails Outside | Oge Samuel Okonkwo | [Read More](https://medium.com/p/f67dc6458d70) |
 | Fri, 02 Jan 2026 16:19:52 GMT | The Evolution of Phishing: How Legitimate Domains Became Weapons of Deception | Azim Uddin | [Read More](https://medium.com/p/2c5490a857b9) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 Jan 2026 10:30:45 GMT | Bilge’s AI Newsletter — December | Bilge Ince | [Read More](https://medium.com/p/5f9066ecc4b9) |
 | Fri, 02 Jan 2026 10:25:01 GMT | The Quantum Clock is Ticking: What Q-Day Means for Cybersecurity (And Why You Should Care Now) | Samuel Odekunle | [Read More](https://medium.com/p/e1ca95292aef) |
 | Fri, 02 Jan 2026 10:23:51 GMT | Patterns without Exposure: How FHE Securely Computes the Future | Mimi Marcus | [Read More](https://medium.com/p/0819a4ccc5a3) |
-| Fri, 02 Jan 2026 10:20:05 GMT | What is digital forensics in cybersecurity, and why is it important | cyber security Updates | [Read More](https://medium.com/p/1dbde7e35ac1) |
-| Fri, 02 Jan 2026 10:19:17 GMT | Building a Zero-Trust Strategy Starts with Endpoint Security | ANSI Technologies | [Read More](https://medium.com/p/573ca8b1b6b4) |
-| Fri, 02 Jan 2026 10:10:06 GMT | DDOS ATTACK ON POX CONTROLLER WITH JOINT ENTROPY DETECTION IN SDN NETWORKS | OxMotaw3 | [Read More](https://medium.com/p/ef692e533af8) |
-| Fri, 02 Jan 2026 10:08:50 GMT | Why Cybersecurity and Data Protection Matter More Than Ever in the Digital Age | Blue Bird Digital Technology | [Read More](https://medium.com/p/f9f424f1fa5f) |
-| Fri, 02 Jan 2026 10:07:13 GMT | Try Hack Me- Blog Walkthrough | PulseEinher | [Read More](https://medium.com/p/1d4cd42b52d1) |
