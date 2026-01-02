@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 16:22:49 GMT | Event Security London: Safeguarding Your Corporate Events with WA Event Services | waeventservices.co.uk/ | [Read More](https://medium.com/p/ef033cc580c0) |
+| Fri, 02 Jan 2026 16:20:43 GMT | West Africa’s DDR Crisis: Why Nigeria’s Deradicalization Succeeds Inside and Fails Outside | Oge Samuel Okonkwo | [Read More](https://medium.com/p/f67dc6458d70) |
+| Fri, 02 Jan 2026 16:19:52 GMT | The Evolution of Phishing: How Legitimate Domains Became Weapons of Deception | Azim Uddin | [Read More](https://medium.com/p/2c5490a857b9) |
+| Fri, 02 Jan 2026 16:17:52 GMT | Are Our Digital Freedoms Safe? Lessons from International Law | Ebru | [Read More](https://medium.com/p/36c26700fbce) |
+| Fri, 02 Jan 2026 16:14:52 GMT | Exposing Yet Another Fake Investment Platform: A Familiar Scam Wearing a New Name | TheScamCompass | [Read More](https://medium.com/p/876eff994053) |
+| Fri, 02 Jan 2026 16:13:47 GMT | Post 8: Evolution of IT (Part 2): Partnering with business | SattiData | [Read More](https://medium.com/p/a36d2c51cd3e) |
+| Fri, 02 Jan 2026 16:07:57 GMT | The Powerful Thing about Network Mapping and Why Every Beginner Should Master It | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/059f4df6529a) |
+| Fri, 02 Jan 2026 16:07:26 GMT | Top Five Bug Bounty Platforms for Beginners in 2026 | Muhammad Haider Tallal | [Read More](https://medium.com/p/df24286ea3e0) |
+| Fri, 02 Jan 2026 16:04:38 GMT | 7.0.3 ESXi Arayüzü Temel Bilgi Ve Özetleri | Senyuvafurkan | [Read More](https://medium.com/p/99d21c7ee003) |
+| Fri, 02 Jan 2026 15:59:50 GMT | From Transmission to Storage: Solving the Semantic Translation Gap with Physics-Based Security — A… | Berend Watchus | [Read More](https://medium.com/p/f9c885f9b9fb) |
+| Fri, 02 Jan 2026 15:58:20 GMT | Digitalization as Strategic Leverage: The 4 Billion Lesson from General Electric | Aymaneelyamani | [Read More](https://medium.com/p/a415c5082458) |
+| Fri, 02 Jan 2026 15:56:28 GMT | New Wave of GlassWorm Malware Hits Macs Through Trojanized Cryptocurrency Wallets | Technijian | [Read More](https://medium.com/p/914b3abc1bd5) |
+| Fri, 02 Jan 2026 15:45:41 GMT | AI-Powered Cloud Monitoring: How Businesses Will Manage Cloud Performance in 2026 | Techridge Solutions | [Read More](https://medium.com/p/73941587ff51) |
 | Fri, 02 Jan 2026 15:39:15 GMT | How a Simple WhatsApp “Hi” Travels Across the World | Dhruvil  Patel | [Read More](https://medium.com/p/1ba9b25c5cff) |
 | Fri, 02 Jan 2026 15:34:43 GMT | Netstat and Listening Ports: Understanding What Is Happening Inside Your System | Gajanan Tayde | [Read More](https://medium.com/p/28731adb8849) |
 | Fri, 02 Jan 2026 15:29:40 GMT | Hashing vs Encoding vs Encryption | Rifat | [Read More](https://medium.com/p/28670d798dc4) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 Jan 2026 10:10:06 GMT | DDOS ATTACK ON POX CONTROLLER WITH JOINT ENTROPY DETECTION IN SDN NETWORKS | OxMotaw3 | [Read More](https://medium.com/p/ef692e533af8) |
 | Fri, 02 Jan 2026 10:08:50 GMT | Why Cybersecurity and Data Protection Matter More Than Ever in the Digital Age | Blue Bird Digital Technology | [Read More](https://medium.com/p/f9f424f1fa5f) |
 | Fri, 02 Jan 2026 10:07:13 GMT | Try Hack Me- Blog Walkthrough | PulseEinher | [Read More](https://medium.com/p/1d4cd42b52d1) |
-| Fri, 02 Jan 2026 10:05:56 GMT | Tải Asian Drag Champion Apk (MOD Vô Hạn Tiền) V1.0.7 | Game4u | [Read More](https://medium.com/p/5239df509069) |
-| Fri, 02 Jan 2026 10:03:05 GMT | How to Secure Your Website in 2026: Shorter SSL Lifetimes and Cybersecurity Trends | Ali Mehrabiyan | [Read More](https://medium.com/p/ed8d972a525d) |
-| Fri, 02 Jan 2026 10:01:01 GMT | VAPT Services in India for Stronger Cybersecurity Protection | Prakash Factosecure | [Read More](https://medium.com/p/1c3f543f60e1) |
-| Fri, 02 Jan 2026 09:59:04 GMT | 2 Years of Silence, 1 Critical Exploit: My Return to the Leaderboard(RCE) | Bharath | [Read More](https://medium.com/p/8d981af6523c) |
-| Fri, 02 Jan 2026 09:56:42 GMT | #  My eJPT Exam Experience — What I Learned Beyond the Certificate | Roshan Rajbanshi | [Read More](https://medium.com/p/17dfdd9f28e2) |
-| Fri, 02 Jan 2026 09:54:28 GMT | I Am Naked in The Mirror in Your Eyes | Itoro Umoette | [Read More](https://medium.com/p/c49fa25353c5) |
-| Fri, 02 Jan 2026 09:52:48 GMT | ParrotOS 7.0: What’s New in This Lightweight Security Distribution | Devam Shah | [Read More](https://medium.com/p/011471e02fa4) |
-| Fri, 02 Jan 2026 09:47:26 GMT | A Simple AWS Practice Every Cloud Engineer Should Follow | kranthi kiran | [Read More](https://medium.com/p/03e498506a8e) |
-| Fri, 02 Jan 2026 09:45:30 GMT | ️ My Home SOC Lab: Detecting a Living-Off-The-Land PowerShell Attack with Wazuh | Shreya | [Read More](https://medium.com/p/87b7126ff25c) |
-| Fri, 02 Jan 2026 09:44:06 GMT | overthewire [ natas 31 ] | Osec | [Read More](https://medium.com/p/62b3a179b8a3) |
-| Fri, 02 Jan 2026 09:42:18 GMT | “Phishlets” Are the New Phishing Weapon — Here’s What You Need to Know | Redfox Security | [Read More](https://medium.com/p/bbf9cf08d434) |
-| Fri, 02 Jan 2026 09:38:58 GMT | How Technology Is Shaping the Way We Learn and Work Today | lalitha | [Read More](https://medium.com/p/6c0cb963a9d0) |
-| Fri, 02 Jan 2026 09:38:57 GMT | Red Team vs. Blue Team | Motasem Hamdan | [Read More](https://medium.com/p/0b3937358d9a) |
