@@ -12,8 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 09:17:09 GMT | MLM Software Solutions in Shivamogga for Scalable Business Operations | Jonney9 | [Read More](https://medium.com/p/08362db1c057) |
+| Fri, 02 Jan 2026 09:17:06 GMT | Why Total Security Solutions Are Essential in a Digitally Connected World | Ciss India | [Read More](https://medium.com/p/9b6b0219f9af) |
+| Fri, 02 Jan 2026 09:14:57 GMT | Burp Suite MCP + Gemini CLI | Andrey Pautov | [Read More](https://medium.com/p/c1229edfe092) |
+| Fri, 02 Jan 2026 09:09:05 GMT | Scanning a Vulnerable Web Application with OWASP ZAP & WSTG | Maria Sagwa | [Read More](https://medium.com/p/d16a0094c16f) |
+| Fri, 02 Jan 2026 09:08:56 GMT | A Penetration Testing Chronicle by Kiama Kareithi | Kiama Kareithi | [Read More](https://medium.com/p/3d4130f11773) |
+| Fri, 02 Jan 2026 09:08:29 GMT | Goodbye 2025. Hello 2026: Lessons from a Year of Wins, Warnings, and Wake-Up Calls | Zefai Insights | [Read More](https://medium.com/p/0d5c71a97bd8) |
+| Fri, 02 Jan 2026 09:01:49 GMT | Securing Enterprise REST APIs in .NET | Binod Mahto | [Read More](https://medium.com/p/681100a99f30) |
+| Fri, 02 Jan 2026 08:55:37 GMT | Keamanan Linux | Naufalfudhail | [Read More](https://medium.com/p/2b47f12fd7c9) |
+| Fri, 02 Jan 2026 08:48:46 GMT | Do All Legit PAYPAL CASHAPP BANK WU TRANSFERS AND CLONED CARDS Authentic DL and Passport VBV DUMPS… | Gonz | [Read More](https://medium.com/p/dff560eba3ca) |
+| Fri, 02 Jan 2026 08:48:13 GMT | TryHackMe: BreachBlocker Unlocker Writeup | cbev | [Read More](https://medium.com/p/f9cd605cc6c7) |
+| Fri, 02 Jan 2026 08:46:06 GMT | Closing the Backdoor: My Experience Setting Up Conditional Access for Account Recovery | Chase Sims | [Read More](https://medium.com/p/eccb79ccf477) |
+| Fri, 02 Jan 2026 08:44:26 GMT | SOC 2 Controls: Full List, Use Cases, and What Auditors Expect | SecureSlate | [Read More](https://medium.com/p/e4ad4e28b4e2) |
+| Fri, 02 Jan 2026 08:42:06 GMT | Advanced Binary Search — Bit-by-Bit Extraction | Amrsmooke | [Read More](https://medium.com/p/bd720998e18d) |
+| Fri, 02 Jan 2026 08:41:47 GMT | The "Irony" Attack: How I Used a Security Feature to Bomb Inboxes (And Waited 3 Months for $250) | Zer0Figure | [Read More](https://medium.com/p/98bd4b4ce11b) |
+| Fri, 02 Jan 2026 08:33:17 GMT | IT Security Services Backed by Cyber Security Experts and Incident Response - CyberSecOp | Jeffery Walker | [Read More](https://medium.com/p/2e206d54c465) |
+| Fri, 02 Jan 2026 08:32:43 GMT | Your Backup Strategy Is Probably Worthless Against Modern Ransomware (Here’s Why Mine Almost Killed… | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/408d9a444fd9) |
 | Fri, 02 Jan 2026 08:29:05 GMT | Instagram, Telegram və Facebook-a Edilən Hacker Hücumlar (2026)
  Real metodlar, sistem zəiflikləri… | cybershieldy.com | [Read More](https://medium.com/p/b41be304b5c8) |
+| Fri, 02 Jan 2026 08:27:03 GMT | Why Are Cybersecurity Certifications More Valuable Than a Degree? | Vishal Gir Goswami | [Read More](https://medium.com/p/0d615666460b) |
 | Fri, 02 Jan 2026 08:22:24 GMT | DORA Compliance Made Practical | Consulting4sec | [Read More](https://medium.com/p/086e7df10663) |
 | Fri, 02 Jan 2026 08:20:32 GMT | For Jan 2, 2026, AI-native PMs focus on leveraging AI for hyper-personalized growth loops… | Ravikant Vishwakarma | [Read More](https://medium.com/p/52b9c41faf9a) |
 | Fri, 02 Jan 2026 08:18:16 GMT | Technology Trends that redefine the Cybersecurity rules in 2026 | QNu Labs | [Read More](https://medium.com/p/d6ac675db9d5) |
@@ -97,21 +114,3 @@ Cybercrime is evolving… | Ankit rai | [Read More](https://medium.com/p/bd6c5c2
 | Fri, 02 Jan 2026 04:05:14 GMT | How I Hacked One of the Largest Ministries in Indonesia | Asyary Raihan | [Read More](https://medium.com/p/1fba947893e1) |
 | Fri, 02 Jan 2026 03:58:00 GMT | IT Conferences 2026: 10 You Must Attend | HostNOC | [Read More](https://medium.com/p/3c6ec62277f9) |
 | Fri, 02 Jan 2026 03:57:31 GMT | Fundamentals of Creating a NodeJS-Based ABAP-Enterprise Project | Kamran Murad | [Read More](https://medium.com/p/ac939c42672a) |
-| Fri, 02 Jan 2026 03:32:26 GMT | Day 4 — Log Analysis for Security Engineers: How We Read Logs and Explain Them in FAANG Interviews | NineTales | [Read More](https://medium.com/p/2ad35343f7c2) |
-| Fri, 02 Jan 2026 03:32:26 GMT | TypeScript Typed Env & Secrets in CI: Prevent Misconfig at Compile Time | Codastra | [Read More](https://medium.com/p/e161aec493c2) |
-| Fri, 02 Jan 2026 03:32:25 GMT | Inside India’s Browser-Based RTO Phishing Scam | Deven Chhajed | [Read More](https://medium.com/p/0b2a3517f964) |
-| Fri, 02 Jan 2026 03:28:47 GMT | ☕ CISSP Domain 2: Asset Security Coffee Shots | Pushpak Sharma | [Read More](https://medium.com/p/ecdbe483a556) |
-| Fri, 02 Jan 2026 03:26:56 GMT | CISSP Domain 2: 50 Questions Ultimate Guide — | Pushpak Sharma | [Read More](https://medium.com/p/866ed22b579a) |
-| Fri, 02 Jan 2026 03:21:56 GMT | 2026 年加密安全新戰場：社交工程與私鑰保護的生死戰 | Crypt0Sophie | [Read More](https://medium.com/p/975b7d104029) |
-| Fri, 02 Jan 2026 03:04:13 GMT | This Love | Jenny Hooker | [Read More](https://medium.com/p/771180a9c0d6) |
-| Fri, 02 Jan 2026 02:43:31 GMT | The Missing Layer: Why Your AI Agents Can’t Be Trusted (And How to Fix It) | Tushar Mishra | [Read More](https://medium.com/p/9e41e2be586c) |
-| Fri, 02 Jan 2026 02:38:32 GMT | Unlock a Safer chapter: Privacy Tips Please Do Not Ignore | Aras Darweesh | [Read More](https://medium.com/p/1964e3bb7d93) |
-| Fri, 02 Jan 2026 02:37:05 GMT | Annoying New Trojan !!! | Aufa Rifqi | [Read More](https://medium.com/p/ae216edd257d) |
-| Fri, 02 Jan 2026 02:36:27 GMT | My OSCP Preparation Journey | Jainil Malaviya | [Read More](https://medium.com/p/5b9e47016313) |
-| Fri, 02 Jan 2026 02:29:42 GMT | Alert Fatigue and Dashboard Overload: Why Cybersecurity Needs Better UX | Niharika Naidu | [Read More](https://medium.com/p/1f3bd32ad81c) |
-| Fri, 02 Jan 2026 02:28:49 GMT | Mastering Hydra: From Basics to Advanced Usage (Ethical Hacking) | Abdul Raheem | [Read More](https://medium.com/p/b1fad5f89519) |
-| Fri, 02 Jan 2026 02:09:07 GMT | When Cyber Scammers Outsmart Cyber Crime Investigators….! | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/5f9c59f7578f) |
-| Fri, 02 Jan 2026 01:32:25 GMT | Beware of Rising Online Scams: Google’s Latest Insights and Protection Tips | Hayanan | [Read More](https://medium.com/p/871d3481d177) |
-| Fri, 02 Jan 2026 01:27:39 GMT | Astrology, Psychics, and Power: The Hidden History of Elite Metaphysical Practices | Krystal | [Read More](https://medium.com/p/e245481b9b3d) |
-| Fri, 02 Jan 2026 01:13:41 GMT | TryHackMe — Advent of Cyber 2025
- Day 2: Phishing — Merry Clickmas | Hadeshuntx | [Read More](https://medium.com/p/fbbf21c6ed27) |
