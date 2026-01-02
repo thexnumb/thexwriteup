@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 21:17:22 GMT | Arbitrary Command Execution within Copilot’s Isolated Linux Environment via Python Sandbox Escape… | D_F4u1t | [Read More](https://medium.com/p/c8ce6d9ac480) |
+| Fri, 02 Jan 2026 21:17:12 GMT | Base64 File Upload Bypass in Copilot Allows Restricted File Type Content to Enter Session For… | D_F4u1t | [Read More](https://medium.com/p/de36e4c3096a) |
+| Fri, 02 Jan 2026 21:14:25 GMT | Grok on X and the Rise of Non-Consensual Deepfakes: How to Protect Children, Adults, and… | Alp Cihangir ASLAN | [Read More](https://medium.com/p/d4100e04a9a7) |
 | Fri, 02 Jan 2026 21:11:39 GMT | Exiftool: A powerful tool for Reading, Writing , and Manipulating the metadata | Madhu Sudhan | [Read More](https://medium.com/p/1de198044796) |
 | Fri, 02 Jan 2026 21:11:08 GMT | Smol TryHackMe Walkthrough — From Enumeration to Root | IshhIshneet | [Read More](https://medium.com/p/2f01b9d575c3) |
 | Fri, 02 Jan 2026 21:11:02 GMT | HTB - Forest | PARADOX | [Read More](https://medium.com/p/cf0e1934814a) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 Jan 2026 14:05:48 GMT | Lab: Low-level logic flaw | Songül Kızılay Özügürler | [Read More](https://medium.com/p/3df7e6d374ae) |
 | Fri, 02 Jan 2026 14:02:59 GMT | Best CCTV Monitoring Services in Dubai for Enhanced Security Solutions | Delight international Security Services | [Read More](https://medium.com/p/46ec3d2aba52) |
 | Fri, 02 Jan 2026 13:53:04 GMT | Day 2 — How SOC Analysts Really Think: Mental Models That Separate Beginners From Professionals | Drishti Pandey | [Read More](https://medium.com/p/9b5c08903d38) |
-| Fri, 02 Jan 2026 13:52:56 GMT | Why Small Companies Are Easier Targets Than Enterprises | Kotra Amitha | [Read More](https://medium.com/p/401f89621f46) |
-| Fri, 02 Jan 2026 13:52:34 GMT | AI Security 2025: The Attacks That Don’t Even Look Like Attacks | Ahmed M. Abdelfattah | [Read More](https://medium.com/p/6f746ca28887) |
-| Fri, 02 Jan 2026 13:45:14 GMT | Panduan Pro: Menulis dan Tuning Custom Rules Suricata 8 | Muhammad Khairin | [Read More](https://medium.com/p/165a207098b1) |
