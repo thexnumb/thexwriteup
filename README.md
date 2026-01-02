@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 05:14:53 GMT | How I Designed a Practical DRP and Information Security Policy as a SOC | Dhruvil  Patel | [Read More](https://medium.com/p/af949d4c48ff) |
+| Fri, 02 Jan 2026 05:09:33 GMT | Top 3 AI Security Certifications for Cybersecurity Professionals In 2026 | Modern Security | [Read More](https://medium.com/p/fd16d41fd76f) |
+| Fri, 02 Jan 2026 05:09:14 GMT | Prompt Injection Is Permanent: Your AI Agent Needs Seatbelts, Not Smarter Prompts | MohamedAbdelmenem | [Read More](https://medium.com/p/389d1c2696ce) |
+| Fri, 02 Jan 2026 05:07:43 GMT | Is Your Phone Listening? | Abhishek Dadhich | [Read More](https://medium.com/p/056b93ac927c) |
+| Fri, 02 Jan 2026 05:07:20 GMT | PII Protection in Practice: From Identification to Governance in Banking Systems | Aditya Ramaswamy | [Read More](https://medium.com/p/0adf49210f0b) |
+| Fri, 02 Jan 2026 05:03:57 GMT | Not Just Training — We Help You Get Hired | HackersPrey | [Read More](https://medium.com/p/bddea4471686) |
+| Fri, 02 Jan 2026 04:56:55 GMT | What is MCP and Why It Matters | Durga Gadiraju | [Read More](https://medium.com/p/7403d404f15f) |
+| Fri, 02 Jan 2026 04:56:00 GMT | I Scanned 120 Websites: Most Were Less Secure Than Their Owners Thought | Max Malenky | [Read More](https://medium.com/p/8440ccfeabde) |
+| Fri, 02 Jan 2026 04:54:51 GMT | Installing Your First MCP Server | Durga Gadiraju | [Read More](https://medium.com/p/a282dbe71f85) |
+| Fri, 02 Jan 2026 04:54:16 GMT | About William Tulaba | William Tulaba | [Read More](https://medium.com/p/cc047a5a8a29) |
+| Fri, 02 Jan 2026 04:51:33 GMT | CEHv12: Cryptography (Practised) (Module 20) | Aditya Kumar | [Read More](https://medium.com/p/3bdd1d9c27ce) |
+| Fri, 02 Jan 2026 04:51:24 GMT | Zero-Day Attack Prevention and Reduction | Aneeqibtesam | [Read More](https://medium.com/p/8901d693fa2e) |
+| Fri, 02 Jan 2026 04:48:12 GMT | AI Nearly Replaced Me as a SOC Analyst. Instead, It Got Me Promoted. | Narayan Regmi | [Read More](https://medium.com/p/e887586f4249) |
+| Fri, 02 Jan 2026 04:45:30 GMT | Weekly Threat Intelligence Report 22 Dec 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/6f024012a0b6) |
+| Fri, 02 Jan 2026 04:32:27 GMT | 5 Reputation Systems That Expose DePIN Sybils | Praxen | [Read More](https://medium.com/p/7515011b6aac) |
 | Fri, 02 Jan 2026 04:28:08 GMT | How to Choose the Right ServiceNow Migration Partner: Key Considerations | Alex s | [Read More](https://medium.com/p/28657b57d069) |
 | Fri, 02 Jan 2026 04:24:31 GMT | Cybersecurity Fundamentals and Understanding Penetration Testing | Januar 博阳 | [Read More](https://medium.com/p/c6af996a8eca) |
 | Fri, 02 Jan 2026 04:22:21 GMT | You don’t need a better system. You need to stop redesigning it. | Bethsa Studio | [Read More](https://medium.com/p/a04dfdc2102b) |
@@ -43,6 +58,7 @@ A list of the latest fetched articles from RSS feeds.
  Day 2: Phishing — Merry Clickmas | Hadeshuntx | [Read More](https://medium.com/p/fbbf21c6ed27) |
 | Fri, 02 Jan 2026 01:00:20 GMT | The Truth Behind Online Giveaways: Stay Safe, Stay Smart | Swikritinarang | [Read More](https://medium.com/p/6eec08f9e352) |
 | Fri, 02 Jan 2026 00:50:45 GMT | Find yourself between the cracks. | Letters Never Sent | [Read More](https://medium.com/p/ca1fb8ea2261) |
+| Fri, 02 Jan 2026 00:33:07 GMT | Protect your privacy with browser e | Techwizs | [Read More](https://medium.com/p/aba1b340240c) |
 | Thu, 01 Jan 2026 23:52:31 GMT | Top 10 Cybersecurity Predictions for 2026 | Matthew.Rosenquist | [Read More](https://medium.com/p/0d765835104b) |
 | Thu, 01 Jan 2026 23:47:30 GMT | Strengthening My Cybersecurity Foundations Through TryHackMe’s Cyber Governance & Regulation Room | Secured By Sebastion | [Read More](https://medium.com/p/6187db6cc3c3) |
 | Thu, 01 Jan 2026 23:09:34 GMT | OhSINT TryHackme Write-up | cat0x01 | [Read More](https://medium.com/p/63058d01515c) |
@@ -98,20 +114,3 @@ In a small town in Afghanistan, a girl named Neda lived with her family. | Sakhi
 | Thu, 01 Jan 2026 18:06:53 GMT | Your Personal Data Is Being Sold Quietly Every Day | Geoffrey Wenger | [Read More](https://medium.com/p/badd30fdbe6c) |
 | Thu, 01 Jan 2026 18:06:46 GMT | Cybersecurity: What I Expected vs. What It Is | Jiyaa25 | [Read More](https://medium.com/p/0da095adb28a) |
 | Thu, 01 Jan 2026 18:06:01 GMT | How Phoenix IT Managed Services Protect Companies from Cyber Threats | Blue Fox Group | [Read More](https://medium.com/p/8071e237cdd3) |
-| Thu, 01 Jan 2026 18:02:46 GMT | Connection String Parameter Pollution — SSC Fortify Security Findings Analysis — Part 4 | Okan Yurt | [Read More](https://medium.com/p/d06bbf1988db) |
-| Thu, 01 Jan 2026 17:50:17 GMT | I keep wondering
-if I need to let this go. | Vicky Writes | [Read More](https://medium.com/p/bad7ff89a727) |
-| Thu, 01 Jan 2026 17:46:51 GMT | The Multi-Tenancy Bug That Leaked 10,000 User Records | Byte Me Daily | [Read More](https://medium.com/p/d133d4c59447) |
-| Thu, 01 Jan 2026 17:46:46 GMT | University CTF 2025 Writeup : SHL33T Challenge | Novo | [Read More](https://medium.com/p/6506ee1d1b1d) |
-| Thu, 01 Jan 2026 17:43:05 GMT | How Access Token and Refresh Token Work in Authentication Flows in Modern Backend Systems? | Prince Raj | [Read More](https://medium.com/p/1ef6e498e217) |
-| Thu, 01 Jan 2026 17:40:25 GMT | 5 Shocking Truths About Public Wi-Fi You Need to Know | Youssef Mohammed | [Read More](https://medium.com/p/844bbf15a789) |
-| Thu, 01 Jan 2026 17:37:01 GMT | Deepfake Risks Demand Stronger Protection From a Managed IT Service Provider in Springfield, MO | PCnet | [Read More](https://medium.com/p/228db0a3dc55) |
-| Thu, 01 Jan 2026 17:32:55 GMT | Stop Quoting Conclusions — Start Running Experiments | Tim O'Brien | [Read More](https://medium.com/p/85dee187e6ca) |
-| Thu, 01 Jan 2026 17:28:37 GMT | A Software Engineer’s Real Job Is Reducing Risk, Not Writing Code | Diya Satpute | [Read More](https://medium.com/p/d14a0f2b97b9) |
-| Thu, 01 Jan 2026 17:27:28 GMT | Welcome 2026: A New Year of Innovation, Growth & Digital Success | Tech Field Solution | [Read More](https://medium.com/p/71d9166087b4) |
-| Thu, 01 Jan 2026 17:25:45 GMT | Chapter 3: Policies & Escalation | Aang | [Read More](https://medium.com/p/3e927eb5abf1) |
-| Thu, 01 Jan 2026 17:24:51 GMT | Day 150 — Behemoth Level-6 OverTheWire Walkthrough | Jinay | [Read More](https://medium.com/p/844dcbb1ac55) |
-| Thu, 01 Jan 2026 17:23:51 GMT | If You Are ISO 27001 Certified, Do You Still Need DPDPA Compliance? (ISO 27001 vs DPDPA) | DPDPAedu.org | [Read More](https://medium.com/p/2d2b55872ac3) |
-| Thu, 01 Jan 2026 17:20:36 GMT | Pen Testing and Its Role in Cybersecurity | Manar Mohamed | [Read More](https://medium.com/p/722aea7d8f6b) |
-| Thu, 01 Jan 2026 17:16:48 GMT | Wireless in OT: WirelessHART and ISA 100.11a | urjasec | [Read More](https://medium.com/p/c5493c64c070) |
-| Thu, 01 Jan 2026 17:12:53 GMT | MongoBleed: A Granular Breakdown of MongoDB’s Pre-Auth Memory Leak | Shreyash Tambe | [Read More](https://medium.com/p/cbaeaaa8dc43) |
