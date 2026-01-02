@@ -12,7 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 08:29:05 GMT | Instagram, Telegram və Facebook-a Edilən Hacker Hücumlar (2026)
+ Real metodlar, sistem zəiflikləri… | cybershieldy.com | [Read More](https://medium.com/p/b41be304b5c8) |
+| Fri, 02 Jan 2026 08:22:24 GMT | DORA Compliance Made Practical | Consulting4sec | [Read More](https://medium.com/p/086e7df10663) |
+| Fri, 02 Jan 2026 08:20:32 GMT | For Jan 2, 2026, AI-native PMs focus on leveraging AI for hyper-personalized growth loops… | Ravikant Vishwakarma | [Read More](https://medium.com/p/52b9c41faf9a) |
+| Fri, 02 Jan 2026 08:18:16 GMT | Technology Trends that redefine the Cybersecurity rules in 2026 | QNu Labs | [Read More](https://medium.com/p/d6ac675db9d5) |
+| Fri, 02 Jan 2026 08:13:33 GMT | What Have I Been Doing All This Time? | Vijay Kumar Gupta | [Read More](https://medium.com/p/9be3e41ed9f9) |
+| Fri, 02 Jan 2026 08:09:39 GMT | Real Defence in OT Security: Balancing Risk Through Countermeasures | Fatma Erturk | [Read More](https://medium.com/p/e8842004740a) |
+| Fri, 02 Jan 2026 08:09:31 GMT | My $50,000 Mistake: Why Your Mobile App Security Is Probably a Joke | Rafi zimraan arjuna wijaya | [Read More](https://medium.com/p/82c6f3846059) |
+| Fri, 02 Jan 2026 08:04:13 GMT | Advanced Ethical Hacking Course with Certification | Manisha Chaudhary | [Read More](https://medium.com/p/fdc1d9721bf1) |
+| Fri, 02 Jan 2026 08:02:30 GMT | A New Direction: From Breaking Labs to Securing Production Systems | Nathan Vincent | [Read More](https://medium.com/p/67975312b6aa) |
+| Fri, 02 Jan 2026 08:02:29 GMT | January 7 Node.js Release: What to Patch & How Fast | Mehdi BAFDIL | [Read More](https://medium.com/p/cb9ff846ca51) |
+| Fri, 02 Jan 2026 08:01:10 GMT | 5 Best AI Cybersecurity Tools Every Small Business Needs In 2026 (Real-Time Protection That… | Ajekigbe Michael. A | [Read More](https://medium.com/p/f9802aae3c4a) |
+| Fri, 02 Jan 2026 07:50:46 GMT | An Oath for 2026: From Furnace Rooms to Server Rooms | Datparth | [Read More](https://medium.com/p/13f89f312e7d) |
+| Fri, 02 Jan 2026 07:50:31 GMT | TryHackMe Linux Fundamentals Part 3 | Ufuk Yaman | [Read More](https://medium.com/p/8106c35f871f) |
+| Fri, 02 Jan 2026 07:48:25 GMT | Top 20 Penetration Testing Companies in Singapore [Updated] | QualysecEurope | [Read More](https://medium.com/p/efa9d7b2bdf9) |
+| Fri, 02 Jan 2026 07:45:27 GMT | Mac Antivirus Becomes the Last Guard for WhatsApp Security | Siyanoav | [Read More](https://medium.com/p/ed82d0d7395a) |
+| Fri, 02 Jan 2026 07:42:41 GMT | It’s 2026 — And You’re Still Making the Same Bug Bounty Mistake | Shaikh Minhaz | [Read More](https://medium.com/p/8f4370c727a4) |
 | Fri, 02 Jan 2026 07:37:56 GMT | Admin has the power CyberTalents CTF write up | Ammar yasser El-sayed | [Read More](https://medium.com/p/bd0536f993c6) |
+| Fri, 02 Jan 2026 07:34:02 GMT | Which QA Tester Courses Help You Move From Manual to Automation Testing? | Hollisdavid | [Read More](https://medium.com/p/6433392a6cf2) |
 | Fri, 02 Jan 2026 07:30:04 GMT | Configuration Leaks and Missing Checks: Capturing the Flag in Intigriti’s SantaCloud CTF | Xiaoyong Wu | [Read More](https://medium.com/p/2c86f535f7c5) |
 | Fri, 02 Jan 2026 07:27:38 GMT | Why 2026 Will Be the Golden Year for Cybercriminals — Unless We Act Now
 Cybercrime is evolving… | Ankit rai | [Read More](https://medium.com/p/bd6c5c282b93) |
@@ -97,21 +115,3 @@ Cybercrime is evolving… | Ankit rai | [Read More](https://medium.com/p/bd6c5c2
 | Fri, 02 Jan 2026 01:27:39 GMT | Astrology, Psychics, and Power: The Hidden History of Elite Metaphysical Practices | Krystal | [Read More](https://medium.com/p/e245481b9b3d) |
 | Fri, 02 Jan 2026 01:13:41 GMT | TryHackMe — Advent of Cyber 2025
  Day 2: Phishing — Merry Clickmas | Hadeshuntx | [Read More](https://medium.com/p/fbbf21c6ed27) |
-| Fri, 02 Jan 2026 01:00:20 GMT | The Truth Behind Online Giveaways: Stay Safe, Stay Smart | Swikritinarang | [Read More](https://medium.com/p/6eec08f9e352) |
-| Fri, 02 Jan 2026 00:50:45 GMT | Find yourself between the cracks. | Letters Never Sent | [Read More](https://medium.com/p/ca1fb8ea2261) |
-| Fri, 02 Jan 2026 00:33:07 GMT | Protect your privacy with browser e | Techwizs | [Read More](https://medium.com/p/aba1b340240c) |
-| Thu, 01 Jan 2026 23:52:31 GMT | Top 10 Cybersecurity Predictions for 2026 | Matthew.Rosenquist | [Read More](https://medium.com/p/0d765835104b) |
-| Thu, 01 Jan 2026 23:47:30 GMT | Strengthening My Cybersecurity Foundations Through TryHackMe’s Cyber Governance & Regulation Room | Secured By Sebastion | [Read More](https://medium.com/p/6187db6cc3c3) |
-| Thu, 01 Jan 2026 23:09:34 GMT | OhSINT TryHackme Write-up | cat0x01 | [Read More](https://medium.com/p/63058d01515c) |
-| Thu, 01 Jan 2026 22:39:01 GMT | The Pattern Behind Broken Access Control Failures in Modern Web Apps | Tyreek Haynes | [Read More](https://medium.com/p/63acb9492426) |
-| Thu, 01 Jan 2026 22:23:03 GMT | “Forgotten Drops”
-In a small town in Afghanistan, a girl named Neda lived with her family. | Sakhi Writes | [Read More](https://medium.com/p/2438a6f7ba71) |
-| Thu, 01 Jan 2026 22:10:53 GMT | MAGI: A Governed Autonomy Model for AI-Driven Cybersecurity Response | Fabio Henrique Rocha Pereira | [Read More](https://medium.com/p/7147c6e7a994) |
-| Thu, 01 Jan 2026 21:47:23 GMT | Boss of the SOC V1 (2015) Web Site Defacement Writeup | kuraido | [Read More](https://medium.com/p/9e04f96d5c24) |
-| Thu, 01 Jan 2026 21:44:34 GMT | El Cliente — Write-Up (The Hackers Labs) | ManuM0re | [Read More](https://medium.com/p/c4fc6c8c1eeb) |
-| Thu, 01 Jan 2026 21:38:00 GMT | Breaking Things Legally : TryHackMe Advent of Cyber | Eshwar Desetty | [Read More](https://medium.com/p/77a093f73578) |
-| Thu, 01 Jan 2026 21:35:20 GMT | AI Is Scaling Abuse Faster Than Platforms Can Respond | Jay H. | [Read More](https://medium.com/p/9211a364d8da) |
-| Thu, 01 Jan 2026 21:16:24 GMT | ️ Beyond Prompt Injection: The “Corrupted Intelligence” Attack and the Rise of Agentic Security | Manniarora | [Read More](https://medium.com/p/264533cfc063) |
-| Thu, 01 Jan 2026 21:15:48 GMT | TryHackMe -Lumberjack Turtle | Efe | [Read More](https://medium.com/p/8bc9584118b7) |
-| Thu, 01 Jan 2026 21:09:44 GMT | AI Pentesting: Practicing Prompt Injection With the Gandalf Challenge | Will Giles - Cybersecurity | [Read More](https://medium.com/p/01f10400d7bb) |
-| Thu, 01 Jan 2026 21:08:26 GMT | Building a Full-Tunnel WireGuard VPN with Ubuntu Server and Kali Linux (No Cloud, No VPS) | Eyob Million | [Read More](https://medium.com/p/8e59e47ccbb6) |
