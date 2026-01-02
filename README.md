@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 21:11:39 GMT | Exiftool: A powerful tool for Reading, Writing , and Manipulating the metadata | Madhu Sudhan | [Read More](https://medium.com/p/1de198044796) |
+| Fri, 02 Jan 2026 21:11:08 GMT | Smol TryHackMe Walkthrough — From Enumeration to Root | IshhIshneet | [Read More](https://medium.com/p/2f01b9d575c3) |
+| Fri, 02 Jan 2026 21:11:02 GMT | HTB - Forest | PARADOX | [Read More](https://medium.com/p/cf0e1934814a) |
+| Fri, 02 Jan 2026 21:09:04 GMT | When Maintenance Software Gets In The Way Of Your PC | Geoffrey Wenger | [Read More](https://medium.com/p/0262bff6ac32) |
+| Fri, 02 Jan 2026 21:04:49 GMT | Top Blockchain Security Breaches of 2025 — A Year‑End Post‑Mortem & New Year’s Lessons | Mohammad Khezer | [Read More](https://medium.com/p/babb33f97a95) |
+| Fri, 02 Jan 2026 20:53:13 GMT | Nmap ile Ağ Keşfi ve Zafiyet Analizi | Ömer Faruk TOPTAŞ | [Read More](https://medium.com/p/92c7b44b37e8) |
+| Fri, 02 Jan 2026 20:39:16 GMT | Drones Are Now Catching Cargo Thieves Mid-Heist. Here’s Why That’s Not Enough. | Heesham Naji | [Read More](https://medium.com/p/1dcfe260c1ce) |
 | Fri, 02 Jan 2026 20:38:35 GMT | Automated Nmap Server Scanner with Python & Supervisor | FadilAhmad | [Read More](https://medium.com/p/f236e5b43177) |
 | Fri, 02 Jan 2026 20:36:25 GMT | Building a Modern File Integrity Monitoring Tool in Python | FadilAhmad | [Read More](https://medium.com/p/2f278d46e5e9) |
 | Fri, 02 Jan 2026 20:28:01 GMT | A Deep Dive into OWASP API Security Top 10 (2023) and Beyond (Week 3 & 4) | Stella Obatoye | [Read More](https://medium.com/p/6e72659b7f18) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 Jan 2026 13:52:56 GMT | Why Small Companies Are Easier Targets Than Enterprises | Kotra Amitha | [Read More](https://medium.com/p/401f89621f46) |
 | Fri, 02 Jan 2026 13:52:34 GMT | AI Security 2025: The Attacks That Don’t Even Look Like Attacks | Ahmed M. Abdelfattah | [Read More](https://medium.com/p/6f746ca28887) |
 | Fri, 02 Jan 2026 13:45:14 GMT | Panduan Pro: Menulis dan Tuning Custom Rules Suricata 8 | Muhammad Khairin | [Read More](https://medium.com/p/165a207098b1) |
-| Fri, 02 Jan 2026 13:45:00 GMT | Focused but Relentless Exploitation in the Closing Week of 2025 | Loginsoft | [Read More](https://medium.com/p/599983d2f8c3) |
-| Fri, 02 Jan 2026 13:37:36 GMT | Introducing Unified SLA Tiers: Core, Priority, and Critical | Ilyas | [Read More](https://medium.com/p/cc3fe5c3a930) |
-| Fri, 02 Jan 2026 13:32:44 GMT | The Malware Watchlist: How Analysts Track Threats in Real Time | Intelithics | [Read More](https://medium.com/p/cae4a0432f1c) |
-| Fri, 02 Jan 2026 13:22:13 GMT | The One-Click Library Wipe: Exploiting CSRF in Saved Stories | Munna✨ | [Read More](https://medium.com/p/80250230ae13) |
-| Fri, 02 Jan 2026 13:16:43 GMT | Cybersecurity Made Human: Protect What Matters Online | Plaintext with Rich | [Read More](https://medium.com/p/b7b067136818) |
-| Fri, 02 Jan 2026 13:12:26 GMT | Untitled | CyberSecurity | [Read More](https://medium.com/p/182e1d9b5347) |
-| Fri, 02 Jan 2026 13:10:48 GMT | MyExpense — Write-Up (VulnHub) | ManuM0re | [Read More](https://medium.com/p/e8d8fe51074b) |
