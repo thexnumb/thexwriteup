@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 23:14:34 GMT | Inside a Simple but Effective Remote Access Trojan (RAT) | Mika Gellizeau | [Read More](https://medium.com/p/07caccd4f9b8) |
+| Fri, 02 Jan 2026 23:05:49 GMT | Content Discovery - TryHackMe Walkthrough | David Ajuzie | [Read More](https://medium.com/p/c8d319ea2f1a) |
+| Fri, 02 Jan 2026 23:03:50 GMT | The Semiconductor Paradox: Why Taiwan’s Most Valuable Factories Are Economically Fragile Under… | Berend Watchus | [Read More](https://medium.com/p/5362d5eca955) |
+| Fri, 02 Jan 2026 22:43:31 GMT | Recomendações de livros sobre malware | Eloisa Potrich | [Read More](https://medium.com/p/717eaba101ae) |
 | Fri, 02 Jan 2026 22:38:58 GMT | TryHackMe: SOC Simulator | Cyberpatriot | [Read More](https://medium.com/p/0fa123f8b849) |
 | Fri, 02 Jan 2026 22:27:45 GMT | El comienzo de algo grande…. | N1sec | [Read More](https://medium.com/p/0550de248a56) |
 | Fri, 02 Jan 2026 22:15:56 GMT | ROUTER Nedir? Ne işe Yarar? | Melih Yalnız | [Read More](https://medium.com/p/b0f3de5ee680) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 Jan 2026 15:18:17 GMT | Common IP Addressing Mistakes in Azure Enterprise VNets | Alberto Credmann Beniste | [Read More](https://medium.com/p/1c413dabd0a9) |
 | Fri, 02 Jan 2026 15:05:12 GMT | Build a POC for the AI Problem Everyone Thinks Is Trivial | Robi Kumar Tomar | [Read More](https://medium.com/p/477bdcad2c6b) |
 | Fri, 02 Jan 2026 14:56:40 GMT | Monday – Episode 24: The Crossroads Confrontation | Shobha Pai | [Read More](https://medium.com/p/752ddba96f0f) |
-| Fri, 02 Jan 2026 14:47:28 GMT | Do You Recognize This Device? | The Princess Diarist | [Read More](https://medium.com/p/8a0863fb9b81) |
-| Fri, 02 Jan 2026 14:36:56 GMT | Agentic AI: Power, Autonomy, and the Security Reality Check | shivangi satija | [Read More](https://medium.com/p/bcdd638139aa) |
-| Fri, 02 Jan 2026 14:34:19 GMT | What I Learned on Day 2 of My SOC Journey: Inside the Role of a Junior Security Analyst | Harvinder Singh | [Read More](https://medium.com/p/e1394b6d996e) |
-| Fri, 02 Jan 2026 14:33:54 GMT | Unlocking Cloud Security: Elastic IPs & Security Groups. | vaibhavi khairnar | [Read More](https://medium.com/p/a59f22ef20a6) |
