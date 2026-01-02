@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 03:32:26 GMT | Day 4 — Log Analysis for Security Engineers: How We Read Logs and Explain Them in FAANG Interviews | NineTales | [Read More](https://medium.com/p/2ad35343f7c2) |
+| Fri, 02 Jan 2026 03:32:25 GMT | Inside India’s Browser-Based RTO Phishing Scam | Deven Chhajed | [Read More](https://medium.com/p/0b2a3517f964) |
+| Fri, 02 Jan 2026 03:28:47 GMT | ☕ CISSP Domain 2: Asset Security Coffee Shots | Pushpak Sharma | [Read More](https://medium.com/p/ecdbe483a556) |
+| Fri, 02 Jan 2026 03:26:56 GMT | CISSP Domain 2: 50 Questions Ultimate Guide — | Pushpak Sharma | [Read More](https://medium.com/p/866ed22b579a) |
+| Fri, 02 Jan 2026 03:21:56 GMT | 2026 年加密安全新戰場：社交工程與私鑰保護的生死戰 | Crypt0Sophie | [Read More](https://medium.com/p/975b7d104029) |
+| Fri, 02 Jan 2026 03:04:13 GMT | This Love | Jenny Hooker | [Read More](https://medium.com/p/771180a9c0d6) |
+| Fri, 02 Jan 2026 02:43:31 GMT | The Missing Layer: Why Your AI Agents Can’t Be Trusted (And How to Fix It) | Tushar Mishra | [Read More](https://medium.com/p/9e41e2be586c) |
+| Fri, 02 Jan 2026 02:38:32 GMT | Unlock a Safer chapter: Privacy Tips Please Do Not Ignore | Aras Darweesh | [Read More](https://medium.com/p/1964e3bb7d93) |
+| Fri, 02 Jan 2026 02:37:05 GMT | Annoying New Trojan !!! | Aufa Rifqi | [Read More](https://medium.com/p/ae216edd257d) |
+| Fri, 02 Jan 2026 02:36:27 GMT | My OSCP Preparation Journey | Jainil Malaviya | [Read More](https://medium.com/p/5b9e47016313) |
+| Fri, 02 Jan 2026 02:29:42 GMT | Alert Fatigue and Dashboard Overload: Why Cybersecurity Needs Better UX | Niharika Naidu | [Read More](https://medium.com/p/1f3bd32ad81c) |
+| Fri, 02 Jan 2026 02:28:49 GMT | Mastering Hydra: From Basics to Advanced Usage (Ethical Hacking) | Abdul Raheem | [Read More](https://medium.com/p/b1fad5f89519) |
+| Fri, 02 Jan 2026 02:09:07 GMT | When Cyber Scammers Outsmart Cyber Crime Investigators….! | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/5f9c59f7578f) |
 | Fri, 02 Jan 2026 01:32:25 GMT | Beware of Rising Online Scams: Google’s Latest Insights and Protection Tips | Hayanan | [Read More](https://medium.com/p/871d3481d177) |
 | Fri, 02 Jan 2026 01:27:39 GMT | Astrology, Psychics, and Power: The Hidden History of Elite Metaphysical Practices | Krystal | [Read More](https://medium.com/p/e245481b9b3d) |
 | Fri, 02 Jan 2026 01:13:41 GMT | TryHackMe — Advent of Cyber 2025
@@ -102,16 +115,3 @@ if I need to let this go. | Vicky Writes | [Read More](https://medium.com/p/bad7
 | Thu, 01 Jan 2026 16:49:00 GMT | Beyond the APK: Exploiting Misconfigured Firebase Databases | Samet Yiğit | [Read More](https://medium.com/p/764c48e4fc80) |
 | Thu, 01 Jan 2026 16:46:38 GMT | Bypassing “Get This App From Play” Integrity Check on Android Apps | Clario Johan | [Read More](https://medium.com/p/3af4c68aae5f) |
 | Thu, 01 Jan 2026 16:43:33 GMT | Stop Data Exfiltration Before It Starts: A Deep Dive into Google’s VPC Service Controls (VPC-SC) | DAKSHITA Agarwal | [Read More](https://medium.com/p/c20e419f0fc6) |
-| Thu, 01 Jan 2026 16:38:37 GMT | The Quantum Countdown: Why Your Encrypted Data Is Already at Risk | Asad Hanif | [Read More](https://medium.com/p/668e251b8b5c) |
-| Thu, 01 Jan 2026 16:37:46 GMT | Deep Work: The Leadership Skill That Creates Real Impact | Tharindu Damith | [Read More](https://medium.com/p/5792798b965e) |
-| Thu, 01 Jan 2026 16:34:08 GMT | Why ‘Dumb’ Speed Beats ‘Genius’ Latency: The Counter-Intuitive Future of AI Security | Nezhegol | [Read More](https://medium.com/p/627d4446bb47) |
-| Thu, 01 Jan 2026 16:32:42 GMT | LastPass (2022): How a Vault Leak Turned Into Years-Long Crypto Theft | Thiago Barbosa | [Read More](https://medium.com/p/a3b8de2ce5f4) |
-| Thu, 01 Jan 2026 16:24:07 GMT | ✌️ 25 Javascript Path Files Used To Store Sensitive Information In Web Application:- | Shardul Sawant | [Read More](https://medium.com/p/2d82d6e955f8) |
-| Thu, 01 Jan 2026 16:18:48 GMT | Автоматизований аудит безпеки AWS за допомогою Prowler | Andriy Andrukhiv | [Read More](https://medium.com/p/9000578276a3) |
-| Thu, 01 Jan 2026 16:18:25 GMT | The Domain That Accidentally Stopped a Global Cyberattack | satyaranjan bal | [Read More](https://medium.com/p/99b94b0a1a44) |
-| Thu, 01 Jan 2026 16:14:00 GMT | Your Voice Is No Longer Your Own — How to Defend Yourself from AI Deepfakes and Scams | Volture Luxe | [Read More](https://medium.com/p/a84f6b9b35f7) |
-| Thu, 01 Jan 2026 16:11:41 GMT | Web Application Security | Rashed Ut | [Read More](https://medium.com/p/bf26757e22a2) |
-| Thu, 01 Jan 2026 16:08:41 GMT | When Your Nervous System Mistakes Chaos for Love | WordsbyBano | [Read More](https://medium.com/p/4a3b4416b636) |
-| Thu, 01 Jan 2026 16:08:12 GMT | Preventing Man-in-the-Middle Attacks and Response Tampering: A Complete Guide | Gaurang Malvankar | [Read More](https://medium.com/p/f141b1f5edf7) |
-| Thu, 01 Jan 2026 16:01:25 GMT | WhatsApp Crypto Scams Are Increasing: How Victims Are Targeted and How to Stay Safe | TheScamCompass | [Read More](https://medium.com/p/722ee865d16a) |
-| Thu, 01 Jan 2026 15:56:02 GMT | How AI Agents Make Autonomous Decisions: Understanding Self-Directed Action | Naveen C | [Read More](https://medium.com/p/55f4548014d9) |
