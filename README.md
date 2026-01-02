@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 20:38:35 GMT | Automated Nmap Server Scanner with Python & Supervisor | FadilAhmad | [Read More](https://medium.com/p/f236e5b43177) |
+| Fri, 02 Jan 2026 20:36:25 GMT | Building a Modern File Integrity Monitoring Tool in Python | FadilAhmad | [Read More](https://medium.com/p/2f278d46e5e9) |
+| Fri, 02 Jan 2026 20:28:01 GMT | A Deep Dive into OWASP API Security Top 10 (2023) and Beyond (Week 3 & 4) | Stella Obatoye | [Read More](https://medium.com/p/6e72659b7f18) |
+| Fri, 02 Jan 2026 20:20:08 GMT | JWT Nədir? BTLO “Secrets” CTF Üzərindən Praktik Analiz | Fidan Gasimzada | [Read More](https://medium.com/p/5b5dc1b61b9b) |
+| Fri, 02 Jan 2026 20:11:43 GMT | Empecé el año suave, pero despierta | Natalia Antonoff | [Read More](https://medium.com/p/e7387d419879) |
 | Fri, 02 Jan 2026 20:09:03 GMT | MongoBleed: When a Database Remembers Too Much (My Deep Dive into CVE-2025–14847) | Harsh Raj Singhania | [Read More](https://medium.com/p/bc4be2dc7345) |
 | Fri, 02 Jan 2026 20:01:14 GMT | Siber Güvenlikte Yol Gösterici Çerçeveler: PTES, OSSTMM, OWASP ve NIST Nedir? | Gülbahar Dirik | [Read More](https://medium.com/p/c4b15bda7517) |
 | Fri, 02 Jan 2026 19:59:30 GMT | CTF Write-up: Crack the Gate 1 | midnightanthem2K9 | [Read More](https://medium.com/p/856ab67b2c4a) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 Jan 2026 13:16:43 GMT | Cybersecurity Made Human: Protect What Matters Online | Plaintext with Rich | [Read More](https://medium.com/p/b7b067136818) |
 | Fri, 02 Jan 2026 13:12:26 GMT | Untitled | CyberSecurity | [Read More](https://medium.com/p/182e1d9b5347) |
 | Fri, 02 Jan 2026 13:10:48 GMT | MyExpense — Write-Up (VulnHub) | ManuM0re | [Read More](https://medium.com/p/e8d8fe51074b) |
-| Fri, 02 Jan 2026 13:10:42 GMT | Duo — The First Frontier of Enterprise Security | John Salmon | [Read More](https://medium.com/p/0789e6204ced) |
-| Fri, 02 Jan 2026 13:08:48 GMT | GlassWorm 供應鏈攻擊深度剖析報告：針對 VS Code 生態系與 macOS 開發環境的進階持續性威脅 | p1x06u9 | [Read More](https://medium.com/p/5615cafa728e) |
-| Fri, 02 Jan 2026 13:05:27 GMT | Would Your Security Survive a Real-World Attack? | Digital Defense | [Read More](https://medium.com/p/cd27ee26158f) |
-| Fri, 02 Jan 2026 13:03:48 GMT | Harvest Now, Expire Later: Why Information Half-Life Matters More Than Quantum Computers | Paul Duplys | [Read More](https://medium.com/p/77971bebe749) |
-| Fri, 02 Jan 2026 13:02:26 GMT | I Stopped Guessing About Linux Security — I Run One Command Now | Faruk Ahmed | [Read More](https://medium.com/p/b0349536ad01) |
