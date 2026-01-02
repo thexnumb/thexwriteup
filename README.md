@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 09:47:26 GMT | A Simple AWS Practice Every Cloud Engineer Should Follow | kranthi kiran | [Read More](https://medium.com/p/03e498506a8e) |
+| Fri, 02 Jan 2026 09:44:06 GMT | overthewire [ natas 31 ] | Osec | [Read More](https://medium.com/p/62b3a179b8a3) |
+| Fri, 02 Jan 2026 09:42:18 GMT | “Phishlets” Are the New Phishing Weapon — Here’s What You Need to Know | Redfox Security | [Read More](https://medium.com/p/bbf9cf08d434) |
+| Fri, 02 Jan 2026 09:38:58 GMT | How Technology Is Shaping the Way We Learn and Work Today | lalitha | [Read More](https://medium.com/p/6c0cb963a9d0) |
+| Fri, 02 Jan 2026 09:38:57 GMT | Red Team vs. Blue Team | Motasem Hamdan | [Read More](https://medium.com/p/0b3937358d9a) |
+| Fri, 02 Jan 2026 09:38:47 GMT | System Design Is a Security Problem Every SDE Owns | Phani Varun Munukuntla | [Read More](https://medium.com/p/94fcd4293e92) |
+| Fri, 02 Jan 2026 09:34:44 GMT | Multi-Level Marketing {MLM} Software Secrets In Sydney Find Now | Jonney10 | [Read More](https://medium.com/p/117a41348162) |
+| Fri, 02 Jan 2026 09:26:36 GMT | From Code to Cash: How IT Companies Quietly Run the World Economy | Devarshi Acharya | [Read More](https://medium.com/p/91aa38cee32f) |
 | Fri, 02 Jan 2026 09:17:09 GMT | MLM Software Solutions in Shivamogga for Scalable Business Operations | Jonney9 | [Read More](https://medium.com/p/08362db1c057) |
 | Fri, 02 Jan 2026 09:17:06 GMT | Why Total Security Solutions Are Essential in a Digitally Connected World | Ciss India | [Read More](https://medium.com/p/9b6b0219f9af) |
 | Fri, 02 Jan 2026 09:14:57 GMT | Burp Suite MCP + Gemini CLI | Andrey Pautov | [Read More](https://medium.com/p/c1229edfe092) |
@@ -71,6 +79,7 @@ Cybercrime is evolving… | Ankit rai | [Read More](https://medium.com/p/bd6c5c2
 | Fri, 02 Jan 2026 06:39:48 GMT | ⚔️ The Breach in the Wall: Exploiting MS17–010 on HTB Blue | Nicholas Mullenski | [Read More](https://medium.com/p/259c9cb66da0) |
 | Fri, 02 Jan 2026 06:36:18 GMT | SantaCloud Challenge Solution: Credential Exposure via Backup File Leading to Admin Access and IDOR | Masangamike | [Read More](https://medium.com/p/b3afa44a9cf4) |
 | Fri, 02 Jan 2026 06:35:42 GMT | Hack Free Fire Vo Han Kim Cuong 99999 Headshot Xuyen Tuong | Bandisharecx | [Read More](https://medium.com/p/5a7aece2b260) |
+| Fri, 02 Jan 2026 06:27:24 GMT | Mohsin Khawaja is a cybersecurity professional from Jammu & Kashmir, India known online as CSIB… | Mohsin Khawaja | [Read More](https://medium.com/p/d3b5cb357f84) |
 | Fri, 02 Jan 2026 06:24:36 GMT | What is malware ? | Vishalraj | [Read More](https://medium.com/p/35d7d60705e5) |
 | Fri, 02 Jan 2026 06:24:03 GMT | The Name Game: Identity Harvesting Can Be a Slow Erasure | Delta.Reveille | [Read More](https://medium.com/p/e948f727326d) |
 | Fri, 02 Jan 2026 06:21:38 GMT | Why Rotating CSS Selectors Is an Effective Anti-Scraping Technique | Freeze Francis | [Read More](https://medium.com/p/b3fe26ab42f2) |
@@ -105,12 +114,3 @@ Cybercrime is evolving… | Ankit rai | [Read More](https://medium.com/p/bd6c5c2
 | Fri, 02 Jan 2026 04:32:27 GMT | 5 Reputation Systems That Expose DePIN Sybils | Praxen | [Read More](https://medium.com/p/7515011b6aac) |
 | Fri, 02 Jan 2026 04:28:08 GMT | How to Choose the Right ServiceNow Migration Partner: Key Considerations | Alex s | [Read More](https://medium.com/p/28657b57d069) |
 | Fri, 02 Jan 2026 04:24:31 GMT | Cybersecurity Fundamentals and Understanding Penetration Testing | Januar 博阳 | [Read More](https://medium.com/p/c6af996a8eca) |
-| Fri, 02 Jan 2026 04:22:21 GMT | You don’t need a better system. You need to stop redesigning it. | Bethsa Studio | [Read More](https://medium.com/p/a04dfdc2102b) |
-| Fri, 02 Jan 2026 04:21:09 GMT | How Hackers Use Reconnaissance to Plan Their Attack | Ankit Vaghamshi | [Read More](https://medium.com/p/be19a5b00921) |
-| Fri, 02 Jan 2026 04:17:48 GMT | My Ethical Hacking Journey Begins in 2026 | Saravana Kumar | [Read More](https://medium.com/p/2d9d654c05db) |
-| Fri, 02 Jan 2026 04:08:12 GMT | Haunted Dorm Hack Tieng Viet Vo Han Tien Kim Cuong | Apkpuredev | [Read More](https://medium.com/p/9ec7c09ae0b1) |
-| Fri, 02 Jan 2026 04:06:10 GMT | Why Most Web App Bugs Start Before the Code | Khabbab Sarker | [Read More](https://medium.com/p/89446ea6b172) |
-| Fri, 02 Jan 2026 04:05:41 GMT | How the ACSMI Advanced Cybersecurity Certification Prepares You for Real-World Cyber Threats | ACSMI | [Read More](https://medium.com/p/e787aca36644) |
-| Fri, 02 Jan 2026 04:05:14 GMT | How I Hacked One of the Largest Ministries in Indonesia | Asyary Raihan | [Read More](https://medium.com/p/1fba947893e1) |
-| Fri, 02 Jan 2026 03:58:00 GMT | IT Conferences 2026: 10 You Must Attend | HostNOC | [Read More](https://medium.com/p/3c6ec62277f9) |
-| Fri, 02 Jan 2026 03:57:31 GMT | Fundamentals of Creating a NodeJS-Based ABAP-Enterprise Project | Kamran Murad | [Read More](https://medium.com/p/ac939c42672a) |
