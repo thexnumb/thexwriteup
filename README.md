@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 22:14:23 GMT | WebStrike Lab—CyberDefenders (Write-up) | Gideon Egyabeng | [Read More](https://medium.com/p/ef218eac273c) |
+| Fri, 02 Jan 2026 22:03:03 GMT | How to Spot and Stop AI Voice Cloning Scam Before It’s too Late | Ajekigbe Michael. A | [Read More](https://medium.com/p/cea48cf11a46) |
+| Fri, 02 Jan 2026 21:59:56 GMT | My Life as a Buggy Program: A Developer’s Autobiography | Taiwo O. Adetiloye | [Read More](https://medium.com/p/82ac825195c7) |
+| Fri, 02 Jan 2026 21:51:01 GMT | Building a Complete Cybersecurity Solution with Zero Budget: A Practical Implementation Guide | MOAMEN REZK | [Read More](https://medium.com/p/e6fc27db2163) |
+| Fri, 02 Jan 2026 21:49:10 GMT | bug bounty notes-csrf | ab.infosec | [Read More](https://medium.com/p/59f79f809575) |
+| Fri, 02 Jan 2026 21:47:17 GMT | The Greenholt Phish - TryHackMe — Phishing Analysis | Kate D Terracore | [Read More](https://medium.com/p/14e3644a92b9) |
+| Fri, 02 Jan 2026 21:44:37 GMT | Cybersecurity in 2026: Where AI, OT, and Trust Collide | Parminder Kumar Sharma | [Read More](https://medium.com/p/ffc7fd016bb3) |
 | Fri, 02 Jan 2026 21:17:22 GMT | Arbitrary Command Execution within Copilot’s Isolated Linux Environment via Python Sandbox Escape… | D_F4u1t | [Read More](https://medium.com/p/c8ce6d9ac480) |
 | Fri, 02 Jan 2026 21:17:12 GMT | Base64 File Upload Bypass in Copilot Allows Restricted File Type Content to Enter Session For… | D_F4u1t | [Read More](https://medium.com/p/de36e4c3096a) |
 | Fri, 02 Jan 2026 21:14:25 GMT | Grok on X and the Rise of Non-Consensual Deepfakes: How to Protect Children, Adults, and… | Alp Cihangir ASLAN | [Read More](https://medium.com/p/d4100e04a9a7) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 Jan 2026 14:28:17 GMT | Python ile Antivirüs Nasıl Geliştirilir? Mimari Tasarım, Veritabanı ve Tespit Yöntemleri | Mustafa Salih Berk | [Read More](https://medium.com/p/90f84b697e3c) |
 | Fri, 02 Jan 2026 14:24:24 GMT | Cross-Site Scripting (XSS) Vulnerability in DeepSeeks AI Input Field | XSS1naBeast | [Read More](https://medium.com/p/35b54a84adcc) |
 | Fri, 02 Jan 2026 14:24:09 GMT | Uncovering the Invisible: A Deep Dive into DirBuster for Server Security | Muhammad Rehan | [Read More](https://medium.com/p/a7defae90cbc) |
-| Fri, 02 Jan 2026 14:19:23 GMT | How to Safely Handle Transient Secrets in Python. | Ford Stephen | [Read More](https://medium.com/p/73446ea92637) |
-| Fri, 02 Jan 2026 14:18:46 GMT | What Determines Detection Quality in OT/ICS Environments? | Enes Ofluoglu | [Read More](https://medium.com/p/229fee777727) |
-| Fri, 02 Jan 2026 14:18:29 GMT | 2026: The DevSecOps Pipeline & Tools | Zayn | [Read More](https://medium.com/p/9044f16916dc) |
-| Fri, 02 Jan 2026 14:06:01 GMT | What Is API And How to Design APIs Properly to avoid your application being hacked. | Leon Musk | [Read More](https://medium.com/p/71ac384a4bca) |
-| Fri, 02 Jan 2026 14:05:48 GMT | Lab: Low-level logic flaw | Songül Kızılay Özügürler | [Read More](https://medium.com/p/3df7e6d374ae) |
-| Fri, 02 Jan 2026 14:02:59 GMT | Best CCTV Monitoring Services in Dubai for Enhanced Security Solutions | Delight international Security Services | [Read More](https://medium.com/p/46ec3d2aba52) |
-| Fri, 02 Jan 2026 13:53:04 GMT | Day 2 — How SOC Analysts Really Think: Mental Models That Separate Beginners From Professionals | Drishti Pandey | [Read More](https://medium.com/p/9b5c08903d38) |
