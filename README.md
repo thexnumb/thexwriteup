@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 15:39:15 GMT | How a Simple WhatsApp “Hi” Travels Across the World | Dhruvil  Patel | [Read More](https://medium.com/p/1ba9b25c5cff) |
+| Fri, 02 Jan 2026 15:34:43 GMT | Netstat and Listening Ports: Understanding What Is Happening Inside Your System | Gajanan Tayde | [Read More](https://medium.com/p/28731adb8849) |
+| Fri, 02 Jan 2026 15:29:40 GMT | Hashing vs Encoding vs Encryption | Rifat | [Read More](https://medium.com/p/28670d798dc4) |
+| Fri, 02 Jan 2026 15:29:36 GMT | Phishing Analysis 2 Walkthrough | Blught | [Read More](https://medium.com/p/98bd89b0c014) |
+| Fri, 02 Jan 2026 15:28:07 GMT | Starting My Cybersecurity Journey: Learning SOC, Logs, and Defense | Jenishjoel | [Read More](https://medium.com/p/1b5a229d7d71) |
+| Fri, 02 Jan 2026 15:24:23 GMT | The difference between a Junior and a Senior dev is how they handle secrets. | Eric Rodríguez Pacheco | [Read More](https://medium.com/p/e0085f27193d) |
 | Fri, 02 Jan 2026 15:23:47 GMT | A comprehensive research-level overview of DOM XSS injection types, including lesser-known attack… | pwnx1337 | [Read More](https://medium.com/p/fcedc8cf5033) |
+| Fri, 02 Jan 2026 15:20:24 GMT | Responding to a Scheduled Task Alert: A Practical SOC Walkthrough | SOCFortress | [Read More](https://medium.com/p/767ddcf630da) |
+| Fri, 02 Jan 2026 15:18:19 GMT | Hackplaining Does What Most Security Training Never Figures Out | Muhammad Hassan Ali | [Read More](https://medium.com/p/38971d622ca2) |
+| Fri, 02 Jan 2026 15:18:17 GMT | Common IP Addressing Mistakes in Azure Enterprise VNets | Alberto Credmann Beniste | [Read More](https://medium.com/p/1c413dabd0a9) |
 | Fri, 02 Jan 2026 15:05:12 GMT | Build a POC for the AI Problem Everyone Thinks Is Trivial | Robi Kumar Tomar | [Read More](https://medium.com/p/477bdcad2c6b) |
 | Fri, 02 Jan 2026 14:56:40 GMT | Monday – Episode 24: The Crossroads Confrontation | Shobha Pai | [Read More](https://medium.com/p/752ddba96f0f) |
 | Fri, 02 Jan 2026 14:47:28 GMT | Do You Recognize This Device? | The Princess Diarist | [Read More](https://medium.com/p/8a0863fb9b81) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 Jan 2026 09:42:18 GMT | “Phishlets” Are the New Phishing Weapon — Here’s What You Need to Know | Redfox Security | [Read More](https://medium.com/p/bbf9cf08d434) |
 | Fri, 02 Jan 2026 09:38:58 GMT | How Technology Is Shaping the Way We Learn and Work Today | lalitha | [Read More](https://medium.com/p/6c0cb963a9d0) |
 | Fri, 02 Jan 2026 09:38:57 GMT | Red Team vs. Blue Team | Motasem Hamdan | [Read More](https://medium.com/p/0b3937358d9a) |
-| Fri, 02 Jan 2026 09:38:47 GMT | System Design Is a Security Problem Every SDE Owns | Phani Varun Munukuntla | [Read More](https://medium.com/p/94fcd4293e92) |
-| Fri, 02 Jan 2026 09:34:44 GMT | Multi-Level Marketing {MLM} Software Secrets In Sydney Find Now | Jonney10 | [Read More](https://medium.com/p/117a41348162) |
-| Fri, 02 Jan 2026 09:26:36 GMT | From Code to Cash: How IT Companies Quietly Run the World Economy | Devarshi Acharya | [Read More](https://medium.com/p/91aa38cee32f) |
-| Fri, 02 Jan 2026 09:17:09 GMT | MLM Software Solutions in Shivamogga for Scalable Business Operations | Jonney9 | [Read More](https://medium.com/p/08362db1c057) |
-| Fri, 02 Jan 2026 09:17:06 GMT | Why Total Security Solutions Are Essential in a Digitally Connected World | Ciss India | [Read More](https://medium.com/p/9b6b0219f9af) |
-| Fri, 02 Jan 2026 09:14:57 GMT | Burp Suite MCP + Gemini CLI | Andrey Pautov | [Read More](https://medium.com/p/c1229edfe092) |
-| Fri, 02 Jan 2026 09:09:05 GMT | Scanning a Vulnerable Web Application with OWASP ZAP & WSTG | Maria Sagwa | [Read More](https://medium.com/p/d16a0094c16f) |
-| Fri, 02 Jan 2026 09:08:56 GMT | A Penetration Testing Chronicle by Kiama Kareithi | Kiama Kareithi | [Read More](https://medium.com/p/3d4130f11773) |
-| Fri, 02 Jan 2026 09:08:29 GMT | Goodbye 2025. Hello 2026: Lessons from a Year of Wins, Warnings, and Wake-Up Calls | Zefai Insights | [Read More](https://medium.com/p/0d5c71a97bd8) |
