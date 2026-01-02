@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 05:36:42 GMT | Light Out, 7B (Part 4) | edarit | [Read More](https://medium.com/p/24247485a71e) |
+| Fri, 02 Jan 2026 05:35:23 GMT | On-Liners Reconnaissance | 3vilRizaldi | [Read More](https://medium.com/p/28e813c0dfdf) |
+| Fri, 02 Jan 2026 05:34:50 GMT | Backend Security Basics: Authentication, Authorization, and API Protection | Silversky Technology | [Read More](https://medium.com/p/2685de258340) |
+| Fri, 02 Jan 2026 05:26:16 GMT | TryHackMe Bank-GPT Writeup | Cyberexpertexp | [Read More](https://medium.com/p/68d13b9df9d9) |
+| Fri, 02 Jan 2026 05:24:12 GMT | Artificial Intelligence (AI): How It Is Transforming the Jobs, Income, and Daily Lives of Ordinary… | MD. Shahadat hossain imran | [Read More](https://medium.com/p/c8b6c10b8e7c) |
 | Fri, 02 Jan 2026 05:14:53 GMT | How I Designed a Practical DRP and Information Security Policy as a SOC | Dhruvil  Patel | [Read More](https://medium.com/p/af949d4c48ff) |
 | Fri, 02 Jan 2026 05:09:33 GMT | Top 3 AI Security Certifications for Cybersecurity Professionals In 2026 | Modern Security | [Read More](https://medium.com/p/fd16d41fd76f) |
 | Fri, 02 Jan 2026 05:09:14 GMT | Prompt Injection Is Permanent: Your AI Agent Needs Seatbelts, Not Smarter Prompts | MohamedAbdelmenem | [Read More](https://medium.com/p/389d1c2696ce) |
@@ -109,8 +114,3 @@ In a small town in Afghanistan, a girl named Neda lived with her family. | Sakhi
 | Thu, 01 Jan 2026 18:35:07 GMT | Unmasking Github Users: How to Identify the Person Behind Any Github Profile | Anotherhadi | [Read More](https://medium.com/p/1b7d76142ee3) |
 | Thu, 01 Jan 2026 18:20:56 GMT | Event-Horizon: The Cybersecurity Time Machine | Mathan S | [Read More](https://medium.com/p/b72bd38f6066) |
 | Thu, 01 Jan 2026 18:19:59 GMT | The Art of Code: Why “Clean” Software Matters More Than “Working” Software | Rukmanghan Selvakumar | [Read More](https://medium.com/p/7db6cad8c91e) |
-| Thu, 01 Jan 2026 18:19:02 GMT | Unused Active Windows Account Vulnerability: How I Remediated Qualys Findings Without Breaking… | Sai Teja Kotagiri | [Read More](https://medium.com/p/7ae8bbefb218) |
-| Thu, 01 Jan 2026 18:07:33 GMT | Networking devices: The backbone of communication! | Dhruvi Modh | [Read More](https://medium.com/p/3efae77dcaba) |
-| Thu, 01 Jan 2026 18:06:53 GMT | Your Personal Data Is Being Sold Quietly Every Day | Geoffrey Wenger | [Read More](https://medium.com/p/badd30fdbe6c) |
-| Thu, 01 Jan 2026 18:06:46 GMT | Cybersecurity: What I Expected vs. What It Is | Jiyaa25 | [Read More](https://medium.com/p/0da095adb28a) |
-| Thu, 01 Jan 2026 18:06:01 GMT | How Phoenix IT Managed Services Protect Companies from Cyber Threats | Blue Fox Group | [Read More](https://medium.com/p/8071e237cdd3) |
