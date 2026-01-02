@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 13:22:13 GMT | The One-Click Library Wipe: Exploiting CSRF in Saved Stories | Munna✨ | [Read More](https://medium.com/p/80250230ae13) |
+| Fri, 02 Jan 2026 13:16:43 GMT | Cybersecurity Made Human: Protect What Matters Online | Plaintext with Rich | [Read More](https://medium.com/p/b7b067136818) |
+| Fri, 02 Jan 2026 13:12:26 GMT | Untitled | CyberSecurity | [Read More](https://medium.com/p/182e1d9b5347) |
+| Fri, 02 Jan 2026 13:10:48 GMT | MyExpense — Write-Up (VulnHub) | ManuM0re | [Read More](https://medium.com/p/e8d8fe51074b) |
+| Fri, 02 Jan 2026 13:10:42 GMT | Duo — The First Frontier of Enterprise Security | John Salmon | [Read More](https://medium.com/p/0789e6204ced) |
+| Fri, 02 Jan 2026 13:08:48 GMT | GlassWorm 供應鏈攻擊深度剖析報告：針對 VS Code 生態系與 macOS 開發環境的進階持續性威脅 | p1x06u9 | [Read More](https://medium.com/p/5615cafa728e) |
+| Fri, 02 Jan 2026 13:05:27 GMT | Would Your Security Survive a Real-World Attack? | Digital Defense | [Read More](https://medium.com/p/cd27ee26158f) |
+| Fri, 02 Jan 2026 13:03:48 GMT | Harvest Now, Expire Later: Why Information Half-Life Matters More Than Quantum Computers | Paul Duplys | [Read More](https://medium.com/p/77971bebe749) |
+| Fri, 02 Jan 2026 13:02:26 GMT | I Stopped Guessing About Linux Security — I Run One Command Now | Faruk Ahmed | [Read More](https://medium.com/p/b0349536ad01) |
+| Fri, 02 Jan 2026 13:00:20 GMT | Amazon Smbhav: WebBee Awarded Digital Disruptor of the Year 2025 | WebBee Global | [Read More](https://medium.com/p/68e7a27b8f63) |
+| Fri, 02 Jan 2026 12:52:46 GMT | Zuri Njoku on the Role of Information Technology in Collaboration | Zuri Njoku | [Read More](https://medium.com/p/650125831329) |
+| Fri, 02 Jan 2026 12:46:24 GMT | How Fintech Is Reshaping Investment Management | Annumaurya | [Read More](https://medium.com/p/4933054ae36e) |
 | Fri, 02 Jan 2026 12:36:48 GMT | Day 151 — Behemoth OverTheWire Series [Levels 0-8] Walkthrough | Jinay | [Read More](https://medium.com/p/ba0cb63d950b) |
 | Fri, 02 Jan 2026 12:33:24 GMT | CWES - HyperText Transfer Protocol (HTTP) | Lorenzo Facchinetti | [Read More](https://medium.com/p/df4555713466) |
 | Fri, 02 Jan 2026 12:22:36 GMT | SOAR Without Soreness: What Tabletop Exercises Reveal About Modern SOC Workflows | Graylog | [Read More](https://medium.com/p/aa5a2ef47046) |
@@ -101,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 Jan 2026 07:50:46 GMT | An Oath for 2026: From Furnace Rooms to Server Rooms | Datparth | [Read More](https://medium.com/p/13f89f312e7d) |
 | Fri, 02 Jan 2026 07:50:31 GMT | TryHackMe Linux Fundamentals Part 3 | Ufuk Yaman | [Read More](https://medium.com/p/8106c35f871f) |
 | Fri, 02 Jan 2026 07:48:25 GMT | Top 20 Penetration Testing Companies in Singapore [Updated] | QualysecEurope | [Read More](https://medium.com/p/efa9d7b2bdf9) |
-| Fri, 02 Jan 2026 07:45:27 GMT | Mac Antivirus Becomes the Last Guard for WhatsApp Security | Siyanoav | [Read More](https://medium.com/p/ed82d0d7395a) |
-| Fri, 02 Jan 2026 07:42:41 GMT | It’s 2026 — And You’re Still Making the Same Bug Bounty Mistake | Shaikh Minhaz | [Read More](https://medium.com/p/8f4370c727a4) |
-| Fri, 02 Jan 2026 07:37:56 GMT | Admin has the power CyberTalents CTF write up | Ammar yasser El-sayed | [Read More](https://medium.com/p/bd0536f993c6) |
-| Fri, 02 Jan 2026 07:34:02 GMT | Which QA Tester Courses Help You Move From Manual to Automation Testing? | Hollisdavid | [Read More](https://medium.com/p/6433392a6cf2) |
-| Fri, 02 Jan 2026 07:30:04 GMT | Configuration Leaks and Missing Checks: Capturing the Flag in Intigriti’s SantaCloud CTF | Xiaoyong Wu | [Read More](https://medium.com/p/2c86f535f7c5) |
-| Fri, 02 Jan 2026 07:27:38 GMT | Why 2026 Will Be the Golden Year for Cybercriminals — Unless We Act Now
-Cybercrime is evolving… | Ankit rai | [Read More](https://medium.com/p/bd6c5c282b93) |
-| Fri, 02 Jan 2026 07:26:01 GMT | CISSP Training and Certification for Cybersecurity Architects and Security Managers | Skills For Everyone | [Read More](https://medium.com/p/4abd7bc4f287) |
-| Fri, 02 Jan 2026 07:25:34 GMT | Walkthrough — MonitorsFour (HTB) | Maxwell Ferreira | [Read More](https://medium.com/p/7914f17528a8) |
-| Fri, 02 Jan 2026 07:24:42 GMT | Professional Cannabis Store Security Guards You Can Trust | Hirasarfraz | [Read More](https://medium.com/p/724a16d22be8) |
-| Fri, 02 Jan 2026 07:20:55 GMT | Why Japan Must Dramatically Strengthen Its Indigenous Cyber Warfare Capabilities | David SEHYEON Baek | [Read More](https://medium.com/p/632c6ae4950b) |
-| Fri, 02 Jan 2026 07:17:02 GMT | TOP 5 Security Vulnerabilities of Agentic AI Systems (You Need To Know in 2026) | Madangopal | [Read More](https://medium.com/p/81941edfc367) |
-| Fri, 02 Jan 2026 07:16:55 GMT | The North — Where It All Begins | Elimman | [Read More](https://medium.com/p/6e7f215cd1c9) |
