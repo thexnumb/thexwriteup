@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 14:36:56 GMT | Agentic AI: Power, Autonomy, and the Security Reality Check | shivangi satija | [Read More](https://medium.com/p/bcdd638139aa) |
+| Fri, 02 Jan 2026 14:34:19 GMT | What I Learned on Day 2 of My SOC Journey: Inside the Role of a Junior Security Analyst | Harvinder Singh | [Read More](https://medium.com/p/e1394b6d996e) |
+| Fri, 02 Jan 2026 14:33:54 GMT | Unlocking Cloud Security: Elastic IPs & Security Groups. | vaibhavi khairnar | [Read More](https://medium.com/p/a59f22ef20a6) |
+| Fri, 02 Jan 2026 14:28:19 GMT | Vulnhub Hackable 2 Walkthrough | Luke Gearty | [Read More](https://medium.com/p/1bbe87de05e9) |
+| Fri, 02 Jan 2026 14:28:17 GMT | Python ile Antivirüs Nasıl Geliştirilir? Mimari Tasarım, Veritabanı ve Tespit Yöntemleri | Mustafa Salih Berk | [Read More](https://medium.com/p/90f84b697e3c) |
+| Fri, 02 Jan 2026 14:24:24 GMT | Cross-Site Scripting (XSS) Vulnerability in DeepSeeks AI Input Field | XSS1naBeast | [Read More](https://medium.com/p/35b54a84adcc) |
+| Fri, 02 Jan 2026 14:24:09 GMT | Uncovering the Invisible: A Deep Dive into DirBuster for Server Security | Muhammad Rehan | [Read More](https://medium.com/p/a7defae90cbc) |
+| Fri, 02 Jan 2026 14:19:23 GMT | How to Safely Handle Transient Secrets in Python. | Ford Stephen | [Read More](https://medium.com/p/73446ea92637) |
+| Fri, 02 Jan 2026 14:18:46 GMT | What Determines Detection Quality in OT/ICS Environments? | Enes Ofluoglu | [Read More](https://medium.com/p/229fee777727) |
+| Fri, 02 Jan 2026 14:18:29 GMT | 2026: The DevSecOps Pipeline & Tools | Zayn | [Read More](https://medium.com/p/9044f16916dc) |
 | Fri, 02 Jan 2026 14:06:01 GMT | What Is API And How to Design APIs Properly to avoid your application being hacked. | Leon Musk | [Read More](https://medium.com/p/71ac384a4bca) |
 | Fri, 02 Jan 2026 14:05:48 GMT | Lab: Low-level logic flaw | Songül Kızılay Özügürler | [Read More](https://medium.com/p/3df7e6d374ae) |
 | Fri, 02 Jan 2026 14:02:59 GMT | Best CCTV Monitoring Services in Dubai for Enhanced Security Solutions | Delight international Security Services | [Read More](https://medium.com/p/46ec3d2aba52) |
@@ -102,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 Jan 2026 08:48:46 GMT | Do All Legit PAYPAL CASHAPP BANK WU TRANSFERS AND CLONED CARDS Authentic DL and Passport VBV DUMPS… | Gonz | [Read More](https://medium.com/p/dff560eba3ca) |
 | Fri, 02 Jan 2026 08:48:13 GMT | TryHackMe: BreachBlocker Unlocker Writeup | cbev | [Read More](https://medium.com/p/f9cd605cc6c7) |
 | Fri, 02 Jan 2026 08:46:06 GMT | Closing the Backdoor: My Experience Setting Up Conditional Access for Account Recovery | Chase Sims | [Read More](https://medium.com/p/eccb79ccf477) |
-| Fri, 02 Jan 2026 08:44:26 GMT | SOC 2 Controls: Full List, Use Cases, and What Auditors Expect | SecureSlate | [Read More](https://medium.com/p/e4ad4e28b4e2) |
-| Fri, 02 Jan 2026 08:42:06 GMT | Advanced Binary Search — Bit-by-Bit Extraction | Amrsmooke | [Read More](https://medium.com/p/bd720998e18d) |
-| Fri, 02 Jan 2026 08:41:47 GMT | The "Irony" Attack: How I Used a Security Feature to Bomb Inboxes (And Waited 3 Months for $250) | Zer0Figure | [Read More](https://medium.com/p/98bd4b4ce11b) |
-| Fri, 02 Jan 2026 08:33:17 GMT | IT Security Services Backed by Cyber Security Experts and Incident Response - CyberSecOp | Jeffery Walker | [Read More](https://medium.com/p/2e206d54c465) |
-| Fri, 02 Jan 2026 08:32:43 GMT | Your Backup Strategy Is Probably Worthless Against Modern Ransomware (Here’s Why Mine Almost Killed… | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/408d9a444fd9) |
-| Fri, 02 Jan 2026 08:29:05 GMT | Instagram, Telegram və Facebook-a Edilən Hacker Hücumlar (2026)
- Real metodlar, sistem zəiflikləri… | cybershieldy.com | [Read More](https://medium.com/p/b41be304b5c8) |
-| Fri, 02 Jan 2026 08:27:03 GMT | Why Are Cybersecurity Certifications More Valuable Than a Degree? | Vishal Gir Goswami | [Read More](https://medium.com/p/0d615666460b) |
-| Fri, 02 Jan 2026 08:22:24 GMT | DORA Compliance Made Practical | Consulting4sec | [Read More](https://medium.com/p/086e7df10663) |
-| Fri, 02 Jan 2026 08:20:32 GMT | For Jan 2, 2026, AI-native PMs focus on leveraging AI for hyper-personalized growth loops… | Ravikant Vishwakarma | [Read More](https://medium.com/p/52b9c41faf9a) |
-| Fri, 02 Jan 2026 08:18:16 GMT | Technology Trends that redefine the Cybersecurity rules in 2026 | QNu Labs | [Read More](https://medium.com/p/d6ac675db9d5) |
