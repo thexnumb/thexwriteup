@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 17:37:23 GMT | When Love Feels One-Sided | WordsbyBano | [Read More](https://medium.com/p/7eaf6576761e) |
+| Fri, 02 Jan 2026 17:33:29 GMT | Unified — HTB Starting Point | Cosmic Seaborn | [Read More](https://medium.com/p/b0d75f71a0e7) |
+| Fri, 02 Jan 2026 17:31:02 GMT | TRP00F — Semi-Automated Linux Privilege Escalation Exploit | Мартин. | [Read More](https://medium.com/p/829da1c4141e) |
+| Fri, 02 Jan 2026 17:30:36 GMT | SOC Role in Blue Team - TryHackMe Walkthrough | Harinsu Bandara | [Read More](https://medium.com/p/ae420078f765) |
+| Fri, 02 Jan 2026 17:26:44 GMT | AI Wrapped 2025: What Actually Happened | Jackson Aaron | [Read More](https://medium.com/p/26299a1f04df) |
+| Fri, 02 Jan 2026 17:20:24 GMT | The IT industry is stupid | Nikola Shekerev | [Read More](https://medium.com/p/ff9998ebf4df) |
+| Fri, 02 Jan 2026 17:20:23 GMT | Operational Technology Discovery: A Systematic Approach to ICS OSINT | Maxi | [Read More](https://medium.com/p/b0684035a94b) |
+| Fri, 02 Jan 2026 17:14:25 GMT | Bandit Level 9 → Level 10 | Sivanesan M | [Read More](https://medium.com/p/5949b2055974) |
 | Fri, 02 Jan 2026 17:05:13 GMT | What Is JWT(Json Web Token)? | Hari Sharma | [Read More](https://medium.com/p/ccb5c8c385ba) |
 | Fri, 02 Jan 2026 17:02:27 GMT | Using user32.dll to show Message Boxes using Go | Michael H. | [Read More](https://medium.com/p/40f1204267de) |
 | Fri, 02 Jan 2026 16:48:39 GMT | ProtonVPN…Truly the Best for Privacy? | Dmitry Mikhailov | [Read More](https://medium.com/p/f0ff3fb84452) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 Jan 2026 11:03:53 GMT | AI in the SOC: Stop Buying Hype — Start Measuring Impact | Denny Roger | [Read More](https://medium.com/p/7af5bb90f8c4) |
 | Fri, 02 Jan 2026 11:02:25 GMT | The Secret Life of Abandoned Storage Drives | Franziska "Ziska" Fink | [Read More](https://medium.com/p/dc99d227f6bf) |
 | Fri, 02 Jan 2026 11:00:44 GMT | How Startups Are Using AI to Scale Faster | Talha Fakhar | [Read More](https://medium.com/p/def3ff22efb9) |
-| Fri, 02 Jan 2026 10:53:09 GMT | Delhi ATC Was Warned — But Manual Intervention Failed. | Bhawini. | [Read More](https://medium.com/p/a043f2f5a269) |
-| Fri, 02 Jan 2026 10:49:15 GMT | Why Your Personal Brand Is Your Best Asset | Talha Fakhar | [Read More](https://medium.com/p/79d88d5ee461) |
-| Fri, 02 Jan 2026 10:47:03 GMT | From All Corners of STON.fi: Stepping Into a New Year Together | Stan4Chainz | [Read More](https://medium.com/p/20e558e35f92) |
-| Fri, 02 Jan 2026 10:44:57 GMT | Moving Forward with Memory Analysis: From Volatility to MemProcFS : Part 3 | Dean | [Read More](https://medium.com/p/3559f0bf80cc) |
-| Fri, 02 Jan 2026 10:42:55 GMT | Enter the Grid: Flynn’s White Hat Sentinel — The AI Cyber Guardian That’s About to Blow Up Your… | Krisztian G Fekete | [Read More](https://medium.com/p/52b887ee0688) |
-| Fri, 02 Jan 2026 10:42:34 GMT | When Matters as Much as Who: Securing Access with ZTrust Time Fencing | Sasmita Maharana | [Read More](https://medium.com/p/bb0468e7b8c6) |
-| Fri, 02 Jan 2026 10:40:23 GMT | Tải Gacha Nox APK (MOD Menu, Vô Hạn Tiền, Bất Tử) v1.3.0 Miễn Phí | genzvnmod | [Read More](https://medium.com/p/c0f472fb98b1) |
-| Fri, 02 Jan 2026 10:36:06 GMT | The Simple Choices That Stop Online Scams In 2026 | O. J. Okpabi | [Read More](https://medium.com/p/75a0701e40d0) |
