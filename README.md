@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 23:26:15 GMT | Why Your AI Agent Needs a Passport | Ramprasad G | [Read More](https://medium.com/p/0487db50f532) |
+| Fri, 02 Jan 2026 23:24:45 GMT | TryHackMe - Advent of Cyber 2025 — Day 2 (Social Engineering)- Phishing — Merry Clickmas - Write-up | salihah | [Read More](https://medium.com/p/7115aabd1587) |
+| Fri, 02 Jan 2026 23:15:59 GMT | getting started in cyber security | Falguniyadav | [Read More](https://medium.com/p/f367ad48342d) |
 | Fri, 02 Jan 2026 23:14:34 GMT | Inside a Simple but Effective Remote Access Trojan (RAT) | Mika Gellizeau | [Read More](https://medium.com/p/07caccd4f9b8) |
+| Fri, 02 Jan 2026 23:12:58 GMT | Enhancing End-User Awareness in the Mobile World: Silent Execution | Hamit CİBO | [Read More](https://medium.com/p/463d26f89134) |
 | Fri, 02 Jan 2026 23:05:49 GMT | Content Discovery - TryHackMe Walkthrough | David Ajuzie | [Read More](https://medium.com/p/c8d319ea2f1a) |
 | Fri, 02 Jan 2026 23:03:50 GMT | The Semiconductor Paradox: Why Taiwan’s Most Valuable Factories Are Economically Fragile Under… | Berend Watchus | [Read More](https://medium.com/p/5362d5eca955) |
 | Fri, 02 Jan 2026 22:43:31 GMT | Recomendações de livros sobre malware | Eloisa Potrich | [Read More](https://medium.com/p/717eaba101ae) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 Jan 2026 15:24:23 GMT | The difference between a Junior and a Senior dev is how they handle secrets. | Eric Rodríguez Pacheco | [Read More](https://medium.com/p/e0085f27193d) |
 | Fri, 02 Jan 2026 15:23:47 GMT | A comprehensive research-level overview of DOM XSS injection types, including lesser-known attack… | pwnx1337 | [Read More](https://medium.com/p/fcedc8cf5033) |
 | Fri, 02 Jan 2026 15:20:24 GMT | Responding to a Scheduled Task Alert: A Practical SOC Walkthrough | SOCFortress | [Read More](https://medium.com/p/767ddcf630da) |
-| Fri, 02 Jan 2026 15:18:19 GMT | Hackplaining Does What Most Security Training Never Figures Out | Muhammad Hassan Ali | [Read More](https://medium.com/p/38971d622ca2) |
-| Fri, 02 Jan 2026 15:18:17 GMT | Common IP Addressing Mistakes in Azure Enterprise VNets | Alberto Credmann Beniste | [Read More](https://medium.com/p/1c413dabd0a9) |
-| Fri, 02 Jan 2026 15:05:12 GMT | Build a POC for the AI Problem Everyone Thinks Is Trivial | Robi Kumar Tomar | [Read More](https://medium.com/p/477bdcad2c6b) |
-| Fri, 02 Jan 2026 14:56:40 GMT | Monday – Episode 24: The Crossroads Confrontation | Shobha Pai | [Read More](https://medium.com/p/752ddba96f0f) |
