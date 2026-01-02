@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 11:34:16 GMT | Threat Hunting Basics: Core Concepts, Mindset, and How Threat Hunters Think | Vidhi patel | [Read More](https://medium.com/p/ec3868c6fc62) |
+| Fri, 02 Jan 2026 11:31:29 GMT | MDR vs. Traditional Antivirus: What’s the Real Difference? | Eventus Security Private Limited | [Read More](https://medium.com/p/f2ffbd93c321) |
+| Fri, 02 Jan 2026 11:27:37 GMT | Web Sitelerinde SSL Sertifikası Nedir? | Arda Derya | [Read More](https://medium.com/p/a556aed14447) |
+| Fri, 02 Jan 2026 11:26:08 GMT | How to Choose Secure Video Conferencing for Modern Businesses | Vinay Thalari | [Read More](https://medium.com/p/4fe833b54dec) |
+| Fri, 02 Jan 2026 11:23:29 GMT | Why Conditional Access Is Not Zero Trust: A Deep Dive Into Architecture, Not Configuration | JoaoP. | [Read More](https://medium.com/p/de3df8c54931) |
+| Fri, 02 Jan 2026 11:10:02 GMT | Apache NiFi project | Georgi Hadzhinikiforov | [Read More](https://medium.com/p/4c37859e80a7) |
 | Fri, 02 Jan 2026 11:09:41 GMT | Your AI Assistant Has a Security Problem: 5 Flaws You Need to Know | Anmol Singh Yadav | [Read More](https://medium.com/p/624ec47164bf) |
 | Fri, 02 Jan 2026 11:09:26 GMT | Breaking Enclaves: How Precision Glitching Steals Encrypted Data | Raja Ravi Varman | [Read More](https://medium.com/p/62d3e2d96a76) |
 | Fri, 02 Jan 2026 11:04:30 GMT | 10 Techonomic Predictions for 2026 | Steve Wilcockson | [Read More](https://medium.com/p/adf7f6c59d49) |
@@ -108,9 +114,3 @@ Cybercrime is evolving… | Ankit rai | [Read More](https://medium.com/p/bd6c5c2
 | Fri, 02 Jan 2026 06:47:04 GMT | TryHackMe: The Great Disappearing Act Writeup | cbev | [Read More](https://medium.com/p/8cd146e1083a) |
 | Fri, 02 Jan 2026 06:42:42 GMT | Top Cybersecurity Threats in the Digital Age: A Research-Based Overview | Thabuprabaa | [Read More](https://medium.com/p/56239b1c8162) |
 | Fri, 02 Jan 2026 06:39:48 GMT | ⚔️ The Breach in the Wall: Exploiting MS17–010 on HTB Blue | Nicholas Mullenski | [Read More](https://medium.com/p/259c9cb66da0) |
-| Fri, 02 Jan 2026 06:36:18 GMT | SantaCloud Challenge Solution: Credential Exposure via Backup File Leading to Admin Access and IDOR | Masangamike | [Read More](https://medium.com/p/b3afa44a9cf4) |
-| Fri, 02 Jan 2026 06:35:42 GMT | Hack Free Fire Vo Han Kim Cuong 99999 Headshot Xuyen Tuong | Bandisharecx | [Read More](https://medium.com/p/5a7aece2b260) |
-| Fri, 02 Jan 2026 06:27:24 GMT | Mohsin Khawaja is a cybersecurity professional from Jammu & Kashmir, India known online as CSIB… | Mohsin Khawaja | [Read More](https://medium.com/p/d3b5cb357f84) |
-| Fri, 02 Jan 2026 06:24:36 GMT | What is malware ? | Vishalraj | [Read More](https://medium.com/p/35d7d60705e5) |
-| Fri, 02 Jan 2026 06:24:03 GMT | The Name Game: Identity Harvesting Can Be a Slow Erasure | Delta.Reveille | [Read More](https://medium.com/p/e948f727326d) |
-| Fri, 02 Jan 2026 06:21:38 GMT | Why Rotating CSS Selectors Is an Effective Anti-Scraping Technique | Freeze Francis | [Read More](https://medium.com/p/b3fe26ab42f2) |
