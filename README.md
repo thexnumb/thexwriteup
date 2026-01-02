@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 12:36:48 GMT | Day 151 — Behemoth OverTheWire Series [Levels 0-8] Walkthrough | Jinay | [Read More](https://medium.com/p/ba0cb63d950b) |
+| Fri, 02 Jan 2026 12:33:24 GMT | CWES - HyperText Transfer Protocol (HTTP) | Lorenzo Facchinetti | [Read More](https://medium.com/p/df4555713466) |
+| Fri, 02 Jan 2026 12:22:36 GMT | SOAR Without Soreness: What Tabletop Exercises Reveal About Modern SOC Workflows | Graylog | [Read More](https://medium.com/p/aa5a2ef47046) |
+| Fri, 02 Jan 2026 12:22:15 GMT | System Design: WhatsApp Architecture — From End-to-End Encryption to Billion-User Scale | Kunal Sinha | [Read More](https://medium.com/p/cddcbcf49594) |
+| Fri, 02 Jan 2026 12:19:45 GMT | Stay Secure in 2025: Managed Cloud Hosting Security Checklist | Smit Pipaliya | [Read More](https://medium.com/p/4d94e627325b) |
+| Fri, 02 Jan 2026 12:18:04 GMT | Zero Trust for AI Agents: Stop Building Like It’s 2005 | Michael Hannecke | [Read More](https://medium.com/p/698987340d66) |
+| Fri, 02 Jan 2026 12:09:13 GMT | Memory Forensics: Volatility 3 | Görkem Bellur | [Read More](https://medium.com/p/3ac2e7fad053) |
+| Fri, 02 Jan 2026 12:02:26 GMT | AI is Hunting SOC Analysts: How I’m Using AI to Stay Employed (Not Replaced) in 2026 | Narayan Regmi | [Read More](https://medium.com/p/112131c9b7a7) |
+| Fri, 02 Jan 2026 12:02:25 GMT | Why Most ISO 27001 Gap Assessments Fail Tech Startups | Eguen Jazaniah Femi | [Read More](https://medium.com/p/5e24299bedde) |
+| Fri, 02 Jan 2026 11:41:48 GMT | Turning a WordPress API into a DDoS Cannon: The XML-RPC Amplification | LETCHU PKT | [Read More](https://medium.com/p/0433c8175a12) |
+| Fri, 02 Jan 2026 11:40:40 GMT | AI Security Tools — December 2025 | Tal Eliyahu | [Read More](https://medium.com/p/e8820fe2b883) |
+| Fri, 02 Jan 2026 11:40:17 GMT | Certified Ethical Hacker Salary in India: Complete Guide (2026) | Manisha Chaudhary | [Read More](https://medium.com/p/12c8ceed0239) |
 | Fri, 02 Jan 2026 11:34:16 GMT | Threat Hunting Basics: Core Concepts, Mindset, and How Threat Hunters Think | Vidhi patel | [Read More](https://medium.com/p/ec3868c6fc62) |
 | Fri, 02 Jan 2026 11:31:29 GMT | MDR vs. Traditional Antivirus: What’s the Real Difference? | Eventus Security Private Limited | [Read More](https://medium.com/p/f2ffbd93c321) |
 | Fri, 02 Jan 2026 11:27:37 GMT | Web Sitelerinde SSL Sertifikası Nedir? | Arda Derya | [Read More](https://medium.com/p/a556aed14447) |
@@ -102,15 +114,3 @@ Cybercrime is evolving… | Ankit rai | [Read More](https://medium.com/p/bd6c5c2
 | Fri, 02 Jan 2026 07:20:55 GMT | Why Japan Must Dramatically Strengthen Its Indigenous Cyber Warfare Capabilities | David SEHYEON Baek | [Read More](https://medium.com/p/632c6ae4950b) |
 | Fri, 02 Jan 2026 07:17:02 GMT | TOP 5 Security Vulnerabilities of Agentic AI Systems (You Need To Know in 2026) | Madangopal | [Read More](https://medium.com/p/81941edfc367) |
 | Fri, 02 Jan 2026 07:16:55 GMT | The North — Where It All Begins | Elimman | [Read More](https://medium.com/p/6e7f215cd1c9) |
-| Fri, 02 Jan 2026 07:13:22 GMT | Securing RAG Systems: Part 1 — Building the Foundation | Dima Fomberg | [Read More](https://medium.com/p/afd16e2e3b1d) |
-| Fri, 02 Jan 2026 07:09:39 GMT | 16 Best Practices to Build a Secure Web Application | Telepathy Infotech | [Read More](https://medium.com/p/02922403e734) |
-| Fri, 02 Jan 2026 07:09:23 GMT | Future Trends in Data Annotation Services | Alex | [Read More](https://medium.com/p/6ebb261d0969) |
-| Fri, 02 Jan 2026 07:06:34 GMT | Hire a Professional hacker to access your cheating Spouse’s WhatsApp without any Notice - At… | Kevin Jannet | [Read More](https://medium.com/p/879115e8b537) |
-| Fri, 02 Jan 2026 07:04:12 GMT | Basic Commands in Kali-Linux for Ethical Hacking (Part -3) | Akhil Thakur | [Read More](https://medium.com/p/fc28f5ae59e9) |
-| Fri, 02 Jan 2026 06:58:44 GMT | Daily Workflow of Elite Bug Hunters: 12 Tools That Power Real-World Bounty Success | Very Lazy Tech | [Read More](https://medium.com/p/6cf62c78bb64) |
-| Fri, 02 Jan 2026 06:52:28 GMT | The Corix Partners Friday Reading List — January 2, 2026 | JC Gaillard | [Read More](https://medium.com/p/91231788ad80) |
-| Fri, 02 Jan 2026 06:49:11 GMT | URL Analysis: A Practical Methodology for SOC Analysts | Aditya Nehra | [Read More](https://medium.com/p/c24d1c1093a3) |
-| Fri, 02 Jan 2026 06:47:18 GMT | Cybersecurity Side Hustles: How I Make Money With Cybersecurity and Plan to Grow in 2026 | Nitin yadav | [Read More](https://medium.com/p/35becf164a56) |
-| Fri, 02 Jan 2026 06:47:04 GMT | TryHackMe: The Great Disappearing Act Writeup | cbev | [Read More](https://medium.com/p/8cd146e1083a) |
-| Fri, 02 Jan 2026 06:42:42 GMT | Top Cybersecurity Threats in the Digital Age: A Research-Based Overview | Thabuprabaa | [Read More](https://medium.com/p/56239b1c8162) |
-| Fri, 02 Jan 2026 06:39:48 GMT | ⚔️ The Breach in the Wall: Exploiting MS17–010 on HTB Blue | Nicholas Mullenski | [Read More](https://medium.com/p/259c9cb66da0) |
