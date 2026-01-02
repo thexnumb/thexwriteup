@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 04:28:08 GMT | How to Choose the Right ServiceNow Migration Partner: Key Considerations | Alex s | [Read More](https://medium.com/p/28657b57d069) |
+| Fri, 02 Jan 2026 04:24:31 GMT | Cybersecurity Fundamentals and Understanding Penetration Testing | Januar 博阳 | [Read More](https://medium.com/p/c6af996a8eca) |
+| Fri, 02 Jan 2026 04:22:21 GMT | You don’t need a better system. You need to stop redesigning it. | Bethsa Studio | [Read More](https://medium.com/p/a04dfdc2102b) |
+| Fri, 02 Jan 2026 04:21:09 GMT | How Hackers Use Reconnaissance to Plan Their Attack | Ankit Vaghamshi | [Read More](https://medium.com/p/be19a5b00921) |
+| Fri, 02 Jan 2026 04:17:48 GMT | My Ethical Hacking Journey Begins in 2026 | Saravana Kumar | [Read More](https://medium.com/p/2d9d654c05db) |
+| Fri, 02 Jan 2026 04:08:12 GMT | Haunted Dorm Hack Tieng Viet Vo Han Tien Kim Cuong | Apkpuredev | [Read More](https://medium.com/p/9ec7c09ae0b1) |
+| Fri, 02 Jan 2026 04:06:10 GMT | Why Most Web App Bugs Start Before the Code | Khabbab Sarker | [Read More](https://medium.com/p/89446ea6b172) |
+| Fri, 02 Jan 2026 04:05:41 GMT | How the ACSMI Advanced Cybersecurity Certification Prepares You for Real-World Cyber Threats | ACSMI | [Read More](https://medium.com/p/e787aca36644) |
+| Fri, 02 Jan 2026 04:05:14 GMT | How I Hacked One of the Largest Ministries in Indonesia | Asyary Raihan | [Read More](https://medium.com/p/1fba947893e1) |
+| Fri, 02 Jan 2026 03:58:00 GMT | IT Conferences 2026: 10 You Must Attend | HostNOC | [Read More](https://medium.com/p/3c6ec62277f9) |
+| Fri, 02 Jan 2026 03:57:31 GMT | Fundamentals of Creating a NodeJS-Based ABAP-Enterprise Project | Kamran Murad | [Read More](https://medium.com/p/ac939c42672a) |
 | Fri, 02 Jan 2026 03:32:26 GMT | Day 4 — Log Analysis for Security Engineers: How We Read Logs and Explain Them in FAANG Interviews | NineTales | [Read More](https://medium.com/p/2ad35343f7c2) |
+| Fri, 02 Jan 2026 03:32:26 GMT | TypeScript Typed Env & Secrets in CI: Prevent Misconfig at Compile Time | Codastra | [Read More](https://medium.com/p/e161aec493c2) |
 | Fri, 02 Jan 2026 03:32:25 GMT | Inside India’s Browser-Based RTO Phishing Scam | Deven Chhajed | [Read More](https://medium.com/p/0b2a3517f964) |
 | Fri, 02 Jan 2026 03:28:47 GMT | ☕ CISSP Domain 2: Asset Security Coffee Shots | Pushpak Sharma | [Read More](https://medium.com/p/ecdbe483a556) |
 | Fri, 02 Jan 2026 03:26:56 GMT | CISSP Domain 2: 50 Questions Ultimate Guide — | Pushpak Sharma | [Read More](https://medium.com/p/866ed22b579a) |
@@ -103,15 +115,3 @@ if I need to let this go. | Vicky Writes | [Read More](https://medium.com/p/bad7
 | Thu, 01 Jan 2026 17:20:36 GMT | Pen Testing and Its Role in Cybersecurity | Manar Mohamed | [Read More](https://medium.com/p/722aea7d8f6b) |
 | Thu, 01 Jan 2026 17:16:48 GMT | Wireless in OT: WirelessHART and ISA 100.11a | urjasec | [Read More](https://medium.com/p/c5493c64c070) |
 | Thu, 01 Jan 2026 17:12:53 GMT | MongoBleed: A Granular Breakdown of MongoDB’s Pre-Auth Memory Leak | Shreyash Tambe | [Read More](https://medium.com/p/cbaeaaa8dc43) |
-| Thu, 01 Jan 2026 17:11:28 GMT | Leaked Unsafe Product(Sensitive Data Exposure) OWASP Juice Shop WalkThrough | Anjali | [Read More](https://medium.com/p/7bad7993e475) |
-| Thu, 01 Jan 2026 17:09:59 GMT | Meet Shannon, the AI Hacker That Outperforms Human Pentesters | cybrNK | [Read More](https://medium.com/p/6ddc2b8fff0a) |
-| Thu, 01 Jan 2026 17:06:02 GMT | Citizen Experience vs Compliance: The Friction of Paper Notices | Letro | [Read More](https://medium.com/p/3078166c84ed) |
-| Thu, 01 Jan 2026 17:05:24 GMT | The Evolution of Computer Viruses: From Harmless Experiments to AI-Driven Autonomous Threats | Jan Krawczyk | [Read More](https://medium.com/p/b3d93bb9a919) |
-| Thu, 01 Jan 2026 17:05:00 GMT | “Data Engineering Mastery Isn’t a Stack — It’s a Mental Model | Abdhulkalam | [Read More](https://medium.com/p/943ffbc4c0e9) |
-| Thu, 01 Jan 2026 16:59:03 GMT | Cybersecurity Company In Canada For Trusted Protection | Plutosec Cyber Security | [Read More](https://medium.com/p/ee58291ad515) |
-| Thu, 01 Jan 2026 16:56:39 GMT | Zero to Hero OSINT: Automating Recon with SpiderFoot CLI on Kali Linux | Manas Mahato | [Read More](https://medium.com/p/4be8ffa33783) |
-| Thu, 01 Jan 2026 16:56:24 GMT | Your MongoDB Might Be Bleeding Secrets Right Now: Inside CVE‑2025‑14847 | cybrNK | [Read More](https://medium.com/p/121ced72d359) |
-| Thu, 01 Jan 2026 16:55:14 GMT | How Effective Is Malware Analysis in Cloud Sandboxes? | Jan Krawczyk | [Read More](https://medium.com/p/e8a9f2494471) |
-| Thu, 01 Jan 2026 16:49:00 GMT | Beyond the APK: Exploiting Misconfigured Firebase Databases | Samet Yiğit | [Read More](https://medium.com/p/764c48e4fc80) |
-| Thu, 01 Jan 2026 16:46:38 GMT | Bypassing “Get This App From Play” Integrity Check on Android Apps | Clario Johan | [Read More](https://medium.com/p/3af4c68aae5f) |
-| Thu, 01 Jan 2026 16:43:33 GMT | Stop Data Exfiltration Before It Starts: A Deep Dive into Google’s VPC Service Controls (VPC-SC) | DAKSHITA Agarwal | [Read More](https://medium.com/p/c20e419f0fc6) |
