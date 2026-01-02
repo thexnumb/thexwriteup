@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 20:09:03 GMT | MongoBleed: When a Database Remembers Too Much (My Deep Dive into CVE-2025–14847) | Harsh Raj Singhania | [Read More](https://medium.com/p/bc4be2dc7345) |
+| Fri, 02 Jan 2026 20:01:14 GMT | Siber Güvenlikte Yol Gösterici Çerçeveler: PTES, OSSTMM, OWASP ve NIST Nedir? | Gülbahar Dirik | [Read More](https://medium.com/p/c4b15bda7517) |
+| Fri, 02 Jan 2026 19:59:30 GMT | CTF Write-up: Crack the Gate 1 | midnightanthem2K9 | [Read More](https://medium.com/p/856ab67b2c4a) |
+| Fri, 02 Jan 2026 19:45:15 GMT | Top Malware Families 2025 | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/9fd7d2afbbfe) |
+| Fri, 02 Jan 2026 19:39:05 GMT | The Truth of Vulnerability | Authentic Leadership Podcast | [Read More](https://medium.com/p/012bd43d09af) |
+| Fri, 02 Jan 2026 19:38:13 GMT | Enhancing Social Media Security Awareness: An Ethical Hacking Guide | SOCIAL MEDIA HACKER | [Read More](https://medium.com/p/8a3a61c478a6) |
+| Fri, 02 Jan 2026 19:36:19 GMT | AI Security Trends to Watch in 2026 | Nishith Sinha | [Read More](https://medium.com/p/1a56d77b6651) |
 | Fri, 02 Jan 2026 19:20:07 GMT | CompTIA Security+ vs CEH: Which is Better for Beginners in Cybersecurity? | SHUBHAM | [Read More](https://medium.com/p/8c78f5a782b7) |
 | Fri, 02 Jan 2026 19:13:07 GMT | VMware ESXi 7.0 İle Sanal Makine Oluşturma | Senyuvafurkan | [Read More](https://medium.com/p/e49a7b454178) |
 | Fri, 02 Jan 2026 19:12:53 GMT | AI Is Helping Hackers and Defenders | Anantha Gokul Sivakumar | [Read More](https://medium.com/p/a710df755802) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 Jan 2026 13:05:27 GMT | Would Your Security Survive a Real-World Attack? | Digital Defense | [Read More](https://medium.com/p/cd27ee26158f) |
 | Fri, 02 Jan 2026 13:03:48 GMT | Harvest Now, Expire Later: Why Information Half-Life Matters More Than Quantum Computers | Paul Duplys | [Read More](https://medium.com/p/77971bebe749) |
 | Fri, 02 Jan 2026 13:02:26 GMT | I Stopped Guessing About Linux Security — I Run One Command Now | Faruk Ahmed | [Read More](https://medium.com/p/b0349536ad01) |
-| Fri, 02 Jan 2026 13:00:20 GMT | Amazon Smbhav: WebBee Awarded Digital Disruptor of the Year 2025 | WebBee Global | [Read More](https://medium.com/p/68e7a27b8f63) |
-| Fri, 02 Jan 2026 12:52:46 GMT | Zuri Njoku on the Role of Information Technology in Collaboration | Zuri Njoku | [Read More](https://medium.com/p/650125831329) |
-| Fri, 02 Jan 2026 12:46:24 GMT | How Fintech Is Reshaping Investment Management | Annumaurya | [Read More](https://medium.com/p/4933054ae36e) |
-| Fri, 02 Jan 2026 12:36:48 GMT | Day 151 — Behemoth OverTheWire Series [Levels 0-8] Walkthrough | Jinay | [Read More](https://medium.com/p/ba0cb63d950b) |
-| Fri, 02 Jan 2026 12:33:24 GMT | CWES - HyperText Transfer Protocol (HTTP) | Lorenzo Facchinetti | [Read More](https://medium.com/p/df4555713466) |
-| Fri, 02 Jan 2026 12:29:29 GMT | Kritik Güvenlik Açıklarına Karşı Hangi Önlemler Alınmalı? (SCA ve SAST) | Malik Öztürk | [Read More](https://medium.com/p/3b3be5ae08a7) |
-| Fri, 02 Jan 2026 12:22:36 GMT | SOAR Without Soreness: What Tabletop Exercises Reveal About Modern SOC Workflows | Graylog | [Read More](https://medium.com/p/aa5a2ef47046) |
