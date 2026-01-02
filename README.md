@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 22:38:58 GMT | TryHackMe: SOC Simulator | Cyberpatriot | [Read More](https://medium.com/p/0fa123f8b849) |
+| Fri, 02 Jan 2026 22:27:45 GMT | El comienzo de algo grande…. | N1sec | [Read More](https://medium.com/p/0550de248a56) |
+| Fri, 02 Jan 2026 22:15:56 GMT | ROUTER Nedir? Ne işe Yarar? | Melih Yalnız | [Read More](https://medium.com/p/b0f3de5ee680) |
+| Fri, 02 Jan 2026 22:15:37 GMT | The End of AI Hallucinations in Enterprise Software: How we built the Pointer Reference Protocol… | Urano Project | [Read More](https://medium.com/p/98bedf5829ff) |
 | Fri, 02 Jan 2026 22:14:23 GMT | WebStrike Lab—CyberDefenders (Write-up) | Gideon Egyabeng | [Read More](https://medium.com/p/ef218eac273c) |
 | Fri, 02 Jan 2026 22:03:03 GMT | How to Spot and Stop AI Voice Cloning Scam Before It’s too Late | Ajekigbe Michael. A | [Read More](https://medium.com/p/cea48cf11a46) |
 | Fri, 02 Jan 2026 21:59:56 GMT | My Life as a Buggy Program: A Developer’s Autobiography | Taiwo O. Adetiloye | [Read More](https://medium.com/p/82ac825195c7) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 Jan 2026 14:36:56 GMT | Agentic AI: Power, Autonomy, and the Security Reality Check | shivangi satija | [Read More](https://medium.com/p/bcdd638139aa) |
 | Fri, 02 Jan 2026 14:34:19 GMT | What I Learned on Day 2 of My SOC Journey: Inside the Role of a Junior Security Analyst | Harvinder Singh | [Read More](https://medium.com/p/e1394b6d996e) |
 | Fri, 02 Jan 2026 14:33:54 GMT | Unlocking Cloud Security: Elastic IPs & Security Groups. | vaibhavi khairnar | [Read More](https://medium.com/p/a59f22ef20a6) |
-| Fri, 02 Jan 2026 14:28:19 GMT | Vulnhub Hackable 2 Walkthrough | Luke Gearty | [Read More](https://medium.com/p/1bbe87de05e9) |
-| Fri, 02 Jan 2026 14:28:17 GMT | Python ile Antivirüs Nasıl Geliştirilir? Mimari Tasarım, Veritabanı ve Tespit Yöntemleri | Mustafa Salih Berk | [Read More](https://medium.com/p/90f84b697e3c) |
-| Fri, 02 Jan 2026 14:24:24 GMT | Cross-Site Scripting (XSS) Vulnerability in DeepSeeks AI Input Field | XSS1naBeast | [Read More](https://medium.com/p/35b54a84adcc) |
-| Fri, 02 Jan 2026 14:24:09 GMT | Uncovering the Invisible: A Deep Dive into DirBuster for Server Security | Muhammad Rehan | [Read More](https://medium.com/p/a7defae90cbc) |
