@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 01:32:25 GMT | Beware of Rising Online Scams: Google’s Latest Insights and Protection Tips | Hayanan | [Read More](https://medium.com/p/871d3481d177) |
+| Fri, 02 Jan 2026 01:27:39 GMT | Astrology, Psychics, and Power: The Hidden History of Elite Metaphysical Practices | Krystal | [Read More](https://medium.com/p/e245481b9b3d) |
+| Fri, 02 Jan 2026 01:13:41 GMT | TryHackMe — Advent of Cyber 2025
+ Day 2: Phishing — Merry Clickmas | Hadeshuntx | [Read More](https://medium.com/p/fbbf21c6ed27) |
+| Fri, 02 Jan 2026 01:00:20 GMT | The Truth Behind Online Giveaways: Stay Safe, Stay Smart | Swikritinarang | [Read More](https://medium.com/p/6eec08f9e352) |
+| Fri, 02 Jan 2026 00:50:45 GMT | Find yourself between the cracks. | Letters Never Sent | [Read More](https://medium.com/p/ca1fb8ea2261) |
+| Thu, 01 Jan 2026 23:52:31 GMT | Top 10 Cybersecurity Predictions for 2026 | Matthew.Rosenquist | [Read More](https://medium.com/p/0d765835104b) |
+| Thu, 01 Jan 2026 23:47:30 GMT | Strengthening My Cybersecurity Foundations Through TryHackMe’s Cyber Governance & Regulation Room | Secured By Sebastion | [Read More](https://medium.com/p/6187db6cc3c3) |
 | Thu, 01 Jan 2026 23:09:34 GMT | OhSINT TryHackme Write-up | cat0x01 | [Read More](https://medium.com/p/63058d01515c) |
 | Thu, 01 Jan 2026 22:39:01 GMT | The Pattern Behind Broken Access Control Failures in Modern Web Apps | Tyreek Haynes | [Read More](https://medium.com/p/63acb9492426) |
 | Thu, 01 Jan 2026 22:23:03 GMT | “Forgotten Drops”
@@ -107,10 +115,3 @@ if I need to let this go. | Vicky Writes | [Read More](https://medium.com/p/bad7
 | Thu, 01 Jan 2026 16:08:12 GMT | Preventing Man-in-the-Middle Attacks and Response Tampering: A Complete Guide | Gaurang Malvankar | [Read More](https://medium.com/p/f141b1f5edf7) |
 | Thu, 01 Jan 2026 16:01:25 GMT | WhatsApp Crypto Scams Are Increasing: How Victims Are Targeted and How to Stay Safe | TheScamCompass | [Read More](https://medium.com/p/722ee865d16a) |
 | Thu, 01 Jan 2026 15:56:02 GMT | How AI Agents Make Autonomous Decisions: Understanding Self-Directed Action | Naveen C | [Read More](https://medium.com/p/55f4548014d9) |
-| Thu, 01 Jan 2026 15:55:09 GMT | New Attack Vector: CTTA in LLMs | Anas Al Rawi | [Read More](https://medium.com/p/bc03e9265f31) |
-| Thu, 01 Jan 2026 15:52:23 GMT | Next.js CVE-2025–29927 Overview of Next.js and the Recent Vulnerability | Mainekhacker | [Read More](https://medium.com/p/2a4b701df142) |
-| Thu, 01 Jan 2026 15:48:18 GMT | Price Manipulation Vulnerability in E-Commerce Applications | Nidhi kathayat | [Read More](https://medium.com/p/3852800b5e69) |
-| Thu, 01 Jan 2026 15:46:55 GMT | A Compromised Update, a Broken Trust Model | Decentr | [Read More](https://medium.com/p/b9e93da2a86e) |
-| Thu, 01 Jan 2026 15:46:55 GMT | 2026’s hottest new security control isn’t Zero Trust — it’s a passport stamp. ☁️ | Wes Young | [Read More](https://medium.com/p/91ea7caa5346) |
-| Thu, 01 Jan 2026 15:45:09 GMT | Root Me — JavaScript Obfuscation 3 (walkthrough) | Ariana-FR | [Read More](https://medium.com/p/8f24c0e161bc) |
-| Thu, 01 Jan 2026 15:25:13 GMT | Finding Cross-Site Scripting (XSS) Vulnerabilities A Hands-On Guide | Vrushalipagar | [Read More](https://medium.com/p/ac445ba6967a) |
