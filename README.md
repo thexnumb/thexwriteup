@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 19:20:07 GMT | CompTIA Security+ vs CEH: Which is Better for Beginners in Cybersecurity? | SHUBHAM | [Read More](https://medium.com/p/8c78f5a782b7) |
 | Fri, 02 Jan 2026 19:13:07 GMT | VMware ESXi 7.0 İle Sanal Makine Oluşturma | Senyuvafurkan | [Read More](https://medium.com/p/e49a7b454178) |
 | Fri, 02 Jan 2026 19:12:53 GMT | AI Is Helping Hackers and Defenders | Anantha Gokul Sivakumar | [Read More](https://medium.com/p/a710df755802) |
 | Fri, 02 Jan 2026 18:43:18 GMT | Breaking the Walls: Techniques for 403 Forbidden Bypass | Samet Yiğit | [Read More](https://medium.com/p/c25034b822c6) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 Jan 2026 12:33:24 GMT | CWES - HyperText Transfer Protocol (HTTP) | Lorenzo Facchinetti | [Read More](https://medium.com/p/df4555713466) |
 | Fri, 02 Jan 2026 12:29:29 GMT | Kritik Güvenlik Açıklarına Karşı Hangi Önlemler Alınmalı? (SCA ve SAST) | Malik Öztürk | [Read More](https://medium.com/p/3b3be5ae08a7) |
 | Fri, 02 Jan 2026 12:22:36 GMT | SOAR Without Soreness: What Tabletop Exercises Reveal About Modern SOC Workflows | Graylog | [Read More](https://medium.com/p/aa5a2ef47046) |
-| Fri, 02 Jan 2026 12:22:15 GMT | System Design: WhatsApp Architecture — From End-to-End Encryption to Billion-User Scale | Kunal Sinha | [Read More](https://medium.com/p/cddcbcf49594) |
