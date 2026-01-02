@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 10:36:06 GMT | The Simple Choices That Stop Online Scams In 2026 | O. J. Okpabi | [Read More](https://medium.com/p/75a0701e40d0) |
+| Fri, 02 Jan 2026 10:34:30 GMT | Firewall ile Şirket Ağı Nasıl Kurulur? | Arda Derya | [Read More](https://medium.com/p/ec64130ef563) |
+| Fri, 02 Jan 2026 10:30:45 GMT | Bilge’s AI Newsletter — December | Bilge Ince | [Read More](https://medium.com/p/5f9066ecc4b9) |
+| Fri, 02 Jan 2026 10:25:01 GMT | The Quantum Clock is Ticking: What Q-Day Means for Cybersecurity (And Why You Should Care Now) | Samuel Odekunle | [Read More](https://medium.com/p/e1ca95292aef) |
 | Fri, 02 Jan 2026 10:23:51 GMT | Patterns without Exposure: How FHE Securely Computes the Future | Mimi Marcus | [Read More](https://medium.com/p/0819a4ccc5a3) |
 | Fri, 02 Jan 2026 10:20:05 GMT | What is digital forensics in cybersecurity, and why is it important | cyber security Updates | [Read More](https://medium.com/p/1dbde7e35ac1) |
 | Fri, 02 Jan 2026 10:19:17 GMT | Building a Zero-Trust Strategy Starts with Endpoint Security | ANSI Technologies | [Read More](https://medium.com/p/573ca8b1b6b4) |
@@ -110,7 +114,3 @@ Cybercrime is evolving… | Ankit rai | [Read More](https://medium.com/p/bd6c5c2
 | Fri, 02 Jan 2026 05:34:50 GMT | Backend Security Basics: Authentication, Authorization, and API Protection | Silversky Technology | [Read More](https://medium.com/p/2685de258340) |
 | Fri, 02 Jan 2026 05:26:16 GMT | TryHackMe Bank-GPT Writeup | Cyberexpertexp | [Read More](https://medium.com/p/68d13b9df9d9) |
 | Fri, 02 Jan 2026 05:24:12 GMT | Artificial Intelligence (AI): How It Is Transforming the Jobs, Income, and Daily Lives of Ordinary… | MD. Shahadat hossain imran | [Read More](https://medium.com/p/c8b6c10b8e7c) |
-| Fri, 02 Jan 2026 05:14:53 GMT | How I Designed a Practical DRP and Information Security Policy as a SOC | Dhruvil  Patel | [Read More](https://medium.com/p/af949d4c48ff) |
-| Fri, 02 Jan 2026 05:09:33 GMT | Top 3 AI Security Certifications for Cybersecurity Professionals In 2026 | Modern Security | [Read More](https://medium.com/p/fd16d41fd76f) |
-| Fri, 02 Jan 2026 05:09:14 GMT | Prompt Injection Is Permanent: Your AI Agent Needs Seatbelts, Not Smarter Prompts | MohamedAbdelmenem | [Read More](https://medium.com/p/389d1c2696ce) |
-| Fri, 02 Jan 2026 05:07:43 GMT | Is Your Phone Listening? | Abhishek Dadhich | [Read More](https://medium.com/p/056b93ac927c) |
