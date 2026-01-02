@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 18:22:06 GMT | Ultimate HTB CPTS 2026 Notes: The Complete Study Guide | Motasem Hamdan | [Read More](https://medium.com/p/c7c133679d49) |
+| Fri, 02 Jan 2026 18:21:36 GMT | Networking Basic | Jenishjoel | [Read More](https://medium.com/p/6da5867c4e35) |
+| Fri, 02 Jan 2026 18:14:45 GMT | The Silent Attack in Your package.json: A Live Dependency Confusion Demo | Dipesh Paul | [Read More](https://medium.com/p/429340985c63) |
+| Fri, 02 Jan 2026 18:13:00 GMT | Exploiting Parameter Driven Authorization Logic in Authenticated APIs | Jawad Momani | [Read More](https://medium.com/p/02a63de0fea3) |
+| Fri, 02 Jan 2026 18:10:54 GMT | Ağ Güvenliğinin Temelleri Part 2: FortiGate Security Profiles | Hira Ekin Sürcan | [Read More](https://medium.com/p/ba777e227ec9) |
+| Fri, 02 Jan 2026 18:10:13 GMT | Configuring Symfony 8 Security with security.yaml | Edgaras | [Read More](https://medium.com/p/ccfffa771617) |
+| Fri, 02 Jan 2026 18:09:07 GMT | Lab: Inconsistent handling of exceptional input | Songül Kızılay Özügürler | [Read More](https://medium.com/p/dc8477aa780b) |
+| Fri, 02 Jan 2026 18:03:31 GMT | PDF Proton: new variant of SparkOnSoft Malware Campaign | sm0q | [Read More](https://medium.com/p/14890be5db2e) |
+| Fri, 02 Jan 2026 18:02:43 GMT | Why RAG Security is Broken? (And How to Fix It) | Riad Moudjahed | [Read More](https://medium.com/p/8697845a1a3d) |
+| Fri, 02 Jan 2026 18:02:40 GMT | Introducing Ratel: Shift-Left Security with Cyberattack-Driven Development (CDD) | Fabio Meyer | [Read More](https://medium.com/p/c0ac39771570) |
+| Fri, 02 Jan 2026 17:51:23 GMT | Ringing in 2026 Without Google Meet and Zoom | BiyteLüm | [Read More](https://medium.com/p/9a194e09b8dd) |
+| Fri, 02 Jan 2026 17:51:09 GMT | HyperText Transfer Protocol Secure (HTTPS) | Lorenzo Facchinetti | [Read More](https://medium.com/p/d9fcf2080325) |
+| Fri, 02 Jan 2026 17:49:33 GMT | Blind SSRF with Shellshock Exploitation | Bash Overflow | [Read More](https://medium.com/p/be7406ec3e26) |
+| Fri, 02 Jan 2026 17:42:18 GMT | I Claimed a Free Game… and It Never Showed Up | Sudharsan K | [Read More](https://medium.com/p/cc17c37fca83) |
 | Fri, 02 Jan 2026 17:37:23 GMT | When Love Feels One-Sided | WordsbyBano | [Read More](https://medium.com/p/7eaf6576761e) |
+| Fri, 02 Jan 2026 17:34:57 GMT | The Power of Passive Reconnaissance | Daemi Jack | [Read More](https://medium.com/p/8a72f9095f1a) |
+| Fri, 02 Jan 2026 17:34:47 GMT | How to Start a Career in Cybersecurity (Without Feeling Overwhelmed) | Education Technology Summit | [Read More](https://medium.com/p/c99c019cf8ce) |
 | Fri, 02 Jan 2026 17:33:29 GMT | Unified — HTB Starting Point | Cosmic Seaborn | [Read More](https://medium.com/p/b0d75f71a0e7) |
 | Fri, 02 Jan 2026 17:31:02 GMT | TRP00F — Semi-Automated Linux Privilege Escalation Exploit | Мартин. | [Read More](https://medium.com/p/829da1c4141e) |
 | Fri, 02 Jan 2026 17:30:36 GMT | SOC Role in Blue Team - TryHackMe Walkthrough | Harinsu Bandara | [Read More](https://medium.com/p/ae420078f765) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 Jan 2026 12:18:04 GMT | Zero Trust for AI Agents: Stop Building Like It’s 2005 | Michael Hannecke | [Read More](https://medium.com/p/698987340d66) |
 | Fri, 02 Jan 2026 12:09:13 GMT | Memory Forensics: Volatility 3 | Görkem Bellur | [Read More](https://medium.com/p/3ac2e7fad053) |
 | Fri, 02 Jan 2026 12:02:26 GMT | AI is Hunting SOC Analysts: How I’m Using AI to Stay Employed (Not Replaced) in 2026 | Narayan Regmi | [Read More](https://medium.com/p/112131c9b7a7) |
-| Fri, 02 Jan 2026 12:02:25 GMT | Why Most ISO 27001 Gap Assessments Fail Tech Startups | Eguen Jazaniah Femi | [Read More](https://medium.com/p/5e24299bedde) |
-| Fri, 02 Jan 2026 11:41:48 GMT | Turning a WordPress API into a DDoS Cannon: The XML-RPC Amplification | LETCHU PKT | [Read More](https://medium.com/p/0433c8175a12) |
-| Fri, 02 Jan 2026 11:40:40 GMT | AI Security Tools — December 2025 | Tal Eliyahu | [Read More](https://medium.com/p/e8820fe2b883) |
-| Fri, 02 Jan 2026 11:40:17 GMT | Certified Ethical Hacker Salary in India: Complete Guide (2026) | Manisha Chaudhary | [Read More](https://medium.com/p/12c8ceed0239) |
-| Fri, 02 Jan 2026 11:34:16 GMT | Threat Hunting Basics: Core Concepts, Mindset, and How Threat Hunters Think | Vidhi patel | [Read More](https://medium.com/p/ec3868c6fc62) |
-| Fri, 02 Jan 2026 11:31:29 GMT | MDR vs. Traditional Antivirus: What’s the Real Difference? | Eventus Security Private Limited | [Read More](https://medium.com/p/f2ffbd93c321) |
-| Fri, 02 Jan 2026 11:27:37 GMT | Web Sitelerinde SSL Sertifikası Nedir? | Arda Derya | [Read More](https://medium.com/p/a556aed14447) |
-| Fri, 02 Jan 2026 11:26:08 GMT | How to Choose Secure Video Conferencing for Modern Businesses | Vinay Thalari | [Read More](https://medium.com/p/4fe833b54dec) |
-| Fri, 02 Jan 2026 11:23:29 GMT | Why Conditional Access Is Not Zero Trust: A Deep Dive Into Architecture, Not Configuration | JoaoP. | [Read More](https://medium.com/p/de3df8c54931) |
-| Fri, 02 Jan 2026 11:10:02 GMT | Apache NiFi project | Georgi Hadzhinikiforov | [Read More](https://medium.com/p/4c37859e80a7) |
-| Fri, 02 Jan 2026 11:09:41 GMT | Your AI Assistant Has a Security Problem: 5 Flaws You Need to Know | Anmol Singh Yadav | [Read More](https://medium.com/p/624ec47164bf) |
-| Fri, 02 Jan 2026 11:09:26 GMT | Breaking Enclaves: How Precision Glitching Steals Encrypted Data | Raja Ravi Varman | [Read More](https://medium.com/p/62d3e2d96a76) |
-| Fri, 02 Jan 2026 11:04:30 GMT | 10 Techonomic Predictions for 2026 | Steve Wilcockson | [Read More](https://medium.com/p/adf7f6c59d49) |
-| Fri, 02 Jan 2026 11:03:53 GMT | AI in the SOC: Stop Buying Hype — Start Measuring Impact | Denny Roger | [Read More](https://medium.com/p/7af5bb90f8c4) |
-| Fri, 02 Jan 2026 11:02:25 GMT | The Secret Life of Abandoned Storage Drives | Franziska "Ziska" Fink | [Read More](https://medium.com/p/dc99d227f6bf) |
-| Fri, 02 Jan 2026 11:00:44 GMT | How Startups Are Using AI to Scale Faster | Talha Fakhar | [Read More](https://medium.com/p/def3ff22efb9) |
