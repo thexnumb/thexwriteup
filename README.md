@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 11:09:41 GMT | Your AI Assistant Has a Security Problem: 5 Flaws You Need to Know | Anmol Singh Yadav | [Read More](https://medium.com/p/624ec47164bf) |
+| Fri, 02 Jan 2026 11:09:26 GMT | Breaking Enclaves: How Precision Glitching Steals Encrypted Data | Raja Ravi Varman | [Read More](https://medium.com/p/62d3e2d96a76) |
+| Fri, 02 Jan 2026 11:04:30 GMT | 10 Techonomic Predictions for 2026 | Steve Wilcockson | [Read More](https://medium.com/p/adf7f6c59d49) |
+| Fri, 02 Jan 2026 11:03:53 GMT | AI in the SOC: Stop Buying Hype — Start Measuring Impact | Denny Roger | [Read More](https://medium.com/p/7af5bb90f8c4) |
+| Fri, 02 Jan 2026 11:02:25 GMT | The Secret Life of Abandoned Storage Drives | Franziska "Ziska" Fink | [Read More](https://medium.com/p/dc99d227f6bf) |
+| Fri, 02 Jan 2026 11:00:44 GMT | How Startups Are Using AI to Scale Faster | Talha Fakhar | [Read More](https://medium.com/p/def3ff22efb9) |
+| Fri, 02 Jan 2026 10:53:09 GMT | Delhi ATC Was Warned — But Manual Intervention Failed. | Bhawini. | [Read More](https://medium.com/p/a043f2f5a269) |
+| Fri, 02 Jan 2026 10:49:15 GMT | Why Your Personal Brand Is Your Best Asset | Talha Fakhar | [Read More](https://medium.com/p/79d88d5ee461) |
+| Fri, 02 Jan 2026 10:47:03 GMT | From All Corners of STON.fi: Stepping Into a New Year Together | Stan4Chainz | [Read More](https://medium.com/p/20e558e35f92) |
+| Fri, 02 Jan 2026 10:44:57 GMT | Moving Forward with Memory Analysis: From Volatility to MemProcFS : Part 3 | Dean | [Read More](https://medium.com/p/3559f0bf80cc) |
+| Fri, 02 Jan 2026 10:42:55 GMT | Enter the Grid: Flynn’s White Hat Sentinel — The AI Cyber Guardian That’s About to Blow Up Your… | Krisztian G Fekete | [Read More](https://medium.com/p/52b887ee0688) |
+| Fri, 02 Jan 2026 10:42:34 GMT | When Matters as Much as Who: Securing Access with ZTrust Time Fencing | Sasmita Maharana | [Read More](https://medium.com/p/bb0468e7b8c6) |
+| Fri, 02 Jan 2026 10:40:23 GMT | Tải Gacha Nox APK (MOD Menu, Vô Hạn Tiền, Bất Tử) v1.3.0 Miễn Phí | genzvnmod | [Read More](https://medium.com/p/c0f472fb98b1) |
 | Fri, 02 Jan 2026 10:36:06 GMT | The Simple Choices That Stop Online Scams In 2026 | O. J. Okpabi | [Read More](https://medium.com/p/75a0701e40d0) |
 | Fri, 02 Jan 2026 10:34:30 GMT | Firewall ile Şirket Ağı Nasıl Kurulur? | Arda Derya | [Read More](https://medium.com/p/ec64130ef563) |
 | Fri, 02 Jan 2026 10:30:45 GMT | Bilge’s AI Newsletter — December | Bilge Ince | [Read More](https://medium.com/p/5f9066ecc4b9) |
@@ -101,16 +114,3 @@ Cybercrime is evolving… | Ankit rai | [Read More](https://medium.com/p/bd6c5c2
 | Fri, 02 Jan 2026 06:24:36 GMT | What is malware ? | Vishalraj | [Read More](https://medium.com/p/35d7d60705e5) |
 | Fri, 02 Jan 2026 06:24:03 GMT | The Name Game: Identity Harvesting Can Be a Slow Erasure | Delta.Reveille | [Read More](https://medium.com/p/e948f727326d) |
 | Fri, 02 Jan 2026 06:21:38 GMT | Why Rotating CSS Selectors Is an Effective Anti-Scraping Technique | Freeze Francis | [Read More](https://medium.com/p/b3fe26ab42f2) |
-| Fri, 02 Jan 2026 06:03:41 GMT | Our React2Shell Vulnerability Nightmare | Tech Monk | [Read More](https://medium.com/p/18ca627f86d6) |
-| Fri, 02 Jan 2026 06:02:00 GMT | Web Crawling for Ethical Hackers: Finding Hidden Endpoints with Katana | virexil.null | [Read More](https://medium.com/p/bf8334d48bea) |
-| Fri, 02 Jan 2026 05:59:18 GMT | Web Application Security: Hands-On Practice (Chapter 1 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/afa4109b91bd) |
-| Fri, 02 Jan 2026 05:52:25 GMT | The AWS WAF Playbook | Shivanshu Sharma | [Read More](https://medium.com/p/1692066f919f) |
-| Fri, 02 Jan 2026 05:51:15 GMT | How Weak Password Reset Flows Turn “Forgot Password?” Into Full Account Takeover | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/dc95508cdfe8) |
-| Fri, 02 Jan 2026 05:49:18 GMT | TryHackMe - The Phishing Pond - Write-up | salihah | [Read More](https://medium.com/p/adaa9c5b256a) |
-| Fri, 02 Jan 2026 05:43:06 GMT | Pursue Cutting-Edge Innovation with PhD in Information and Communication Technology at ISBAT… | ISBAT University | [Read More](https://medium.com/p/7dce3dbcf171) |
-| Fri, 02 Jan 2026 05:40:08 GMT | The Linux Security Journey — Snort | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/225b737fa807) |
-| Fri, 02 Jan 2026 05:36:42 GMT | Light Out, 7B (Part 4) | edarit | [Read More](https://medium.com/p/24247485a71e) |
-| Fri, 02 Jan 2026 05:35:23 GMT | On-Liners Reconnaissance | 3vilRizaldi | [Read More](https://medium.com/p/28e813c0dfdf) |
-| Fri, 02 Jan 2026 05:34:50 GMT | Backend Security Basics: Authentication, Authorization, and API Protection | Silversky Technology | [Read More](https://medium.com/p/2685de258340) |
-| Fri, 02 Jan 2026 05:26:16 GMT | TryHackMe Bank-GPT Writeup | Cyberexpertexp | [Read More](https://medium.com/p/68d13b9df9d9) |
-| Fri, 02 Jan 2026 05:24:12 GMT | Artificial Intelligence (AI): How It Is Transforming the Jobs, Income, and Daily Lives of Ordinary… | MD. Shahadat hossain imran | [Read More](https://medium.com/p/c8b6c10b8e7c) |
