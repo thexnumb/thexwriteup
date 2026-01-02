@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 15:23:47 GMT | A comprehensive research-level overview of DOM XSS injection types, including lesser-known attack… | pwnx1337 | [Read More](https://medium.com/p/fcedc8cf5033) |
+| Fri, 02 Jan 2026 15:05:12 GMT | Build a POC for the AI Problem Everyone Thinks Is Trivial | Robi Kumar Tomar | [Read More](https://medium.com/p/477bdcad2c6b) |
+| Fri, 02 Jan 2026 14:56:40 GMT | Monday – Episode 24: The Crossroads Confrontation | Shobha Pai | [Read More](https://medium.com/p/752ddba96f0f) |
+| Fri, 02 Jan 2026 14:47:28 GMT | Do You Recognize This Device? | The Princess Diarist | [Read More](https://medium.com/p/8a0863fb9b81) |
 | Fri, 02 Jan 2026 14:36:56 GMT | Agentic AI: Power, Autonomy, and the Security Reality Check | shivangi satija | [Read More](https://medium.com/p/bcdd638139aa) |
 | Fri, 02 Jan 2026 14:34:19 GMT | What I Learned on Day 2 of My SOC Journey: Inside the Role of a Junior Security Analyst | Harvinder Singh | [Read More](https://medium.com/p/e1394b6d996e) |
 | Fri, 02 Jan 2026 14:33:54 GMT | Unlocking Cloud Security: Elastic IPs & Security Groups. | vaibhavi khairnar | [Read More](https://medium.com/p/a59f22ef20a6) |
@@ -46,6 +50,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 Jan 2026 12:46:24 GMT | How Fintech Is Reshaping Investment Management | Annumaurya | [Read More](https://medium.com/p/4933054ae36e) |
 | Fri, 02 Jan 2026 12:36:48 GMT | Day 151 — Behemoth OverTheWire Series [Levels 0-8] Walkthrough | Jinay | [Read More](https://medium.com/p/ba0cb63d950b) |
 | Fri, 02 Jan 2026 12:33:24 GMT | CWES - HyperText Transfer Protocol (HTTP) | Lorenzo Facchinetti | [Read More](https://medium.com/p/df4555713466) |
+| Fri, 02 Jan 2026 12:29:29 GMT | Kritik Güvenlik Açıklarına Karşı Hangi Önlemler Alınmalı? (SCA ve SAST) | Malik Öztürk | [Read More](https://medium.com/p/3b3be5ae08a7) |
 | Fri, 02 Jan 2026 12:22:36 GMT | SOAR Without Soreness: What Tabletop Exercises Reveal About Modern SOC Workflows | Graylog | [Read More](https://medium.com/p/aa5a2ef47046) |
 | Fri, 02 Jan 2026 12:22:15 GMT | System Design: WhatsApp Architecture — From End-to-End Encryption to Billion-User Scale | Kunal Sinha | [Read More](https://medium.com/p/cddcbcf49594) |
 | Fri, 02 Jan 2026 12:19:45 GMT | Stay Secure in 2025: Managed Cloud Hosting Security Checklist | Smit Pipaliya | [Read More](https://medium.com/p/4d94e627325b) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 Jan 2026 09:09:05 GMT | Scanning a Vulnerable Web Application with OWASP ZAP & WSTG | Maria Sagwa | [Read More](https://medium.com/p/d16a0094c16f) |
 | Fri, 02 Jan 2026 09:08:56 GMT | A Penetration Testing Chronicle by Kiama Kareithi | Kiama Kareithi | [Read More](https://medium.com/p/3d4130f11773) |
 | Fri, 02 Jan 2026 09:08:29 GMT | Goodbye 2025. Hello 2026: Lessons from a Year of Wins, Warnings, and Wake-Up Calls | Zefai Insights | [Read More](https://medium.com/p/0d5c71a97bd8) |
-| Fri, 02 Jan 2026 09:01:49 GMT | Securing Enterprise REST APIs in .NET | Binod Mahto | [Read More](https://medium.com/p/681100a99f30) |
-| Fri, 02 Jan 2026 08:55:37 GMT | Keamanan Linux | Naufalfudhail | [Read More](https://medium.com/p/2b47f12fd7c9) |
-| Fri, 02 Jan 2026 08:48:46 GMT | Do All Legit PAYPAL CASHAPP BANK WU TRANSFERS AND CLONED CARDS Authentic DL and Passport VBV DUMPS… | Gonz | [Read More](https://medium.com/p/dff560eba3ca) |
-| Fri, 02 Jan 2026 08:48:13 GMT | TryHackMe: BreachBlocker Unlocker Writeup | cbev | [Read More](https://medium.com/p/f9cd605cc6c7) |
-| Fri, 02 Jan 2026 08:46:06 GMT | Closing the Backdoor: My Experience Setting Up Conditional Access for Account Recovery | Chase Sims | [Read More](https://medium.com/p/eccb79ccf477) |
