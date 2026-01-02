@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 17:05:13 GMT | What Is JWT(Json Web Token)? | Hari Sharma | [Read More](https://medium.com/p/ccb5c8c385ba) |
+| Fri, 02 Jan 2026 17:02:27 GMT | Using user32.dll to show Message Boxes using Go | Michael H. | [Read More](https://medium.com/p/40f1204267de) |
+| Fri, 02 Jan 2026 16:48:39 GMT | ProtonVPN…Truly the Best for Privacy? | Dmitry Mikhailov | [Read More](https://medium.com/p/f0ff3fb84452) |
+| Fri, 02 Jan 2026 16:47:08 GMT | How Attackers Bypass OTP Authentication | Gatecrasher01 | [Read More](https://medium.com/p/ca4c7ad10468) |
 | Fri, 02 Jan 2026 16:38:51 GMT | Legit Cloud Emails Also Become the Phish | Medjue Gore | [Read More](https://medium.com/p/dbc15430776a) |
 | Fri, 02 Jan 2026 16:38:16 GMT | Vulnub: Mr-Robot: 1: CTF Çözümü | Azat Dicle | [Read More](https://medium.com/p/eaf28546201b) |
 | Fri, 02 Jan 2026 16:36:09 GMT | Cyber Security Maturity in 2026: An Executive Summary to Stakeholders | Ricardo Newman | [Read More](https://medium.com/p/238696fc0da8) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 Jan 2026 10:42:34 GMT | When Matters as Much as Who: Securing Access with ZTrust Time Fencing | Sasmita Maharana | [Read More](https://medium.com/p/bb0468e7b8c6) |
 | Fri, 02 Jan 2026 10:40:23 GMT | Tải Gacha Nox APK (MOD Menu, Vô Hạn Tiền, Bất Tử) v1.3.0 Miễn Phí | genzvnmod | [Read More](https://medium.com/p/c0f472fb98b1) |
 | Fri, 02 Jan 2026 10:36:06 GMT | The Simple Choices That Stop Online Scams In 2026 | O. J. Okpabi | [Read More](https://medium.com/p/75a0701e40d0) |
-| Fri, 02 Jan 2026 10:34:30 GMT | Firewall ile Şirket Ağı Nasıl Kurulur? | Arda Derya | [Read More](https://medium.com/p/ec64130ef563) |
-| Fri, 02 Jan 2026 10:30:45 GMT | Bilge’s AI Newsletter — December | Bilge Ince | [Read More](https://medium.com/p/5f9066ecc4b9) |
-| Fri, 02 Jan 2026 10:25:01 GMT | The Quantum Clock is Ticking: What Q-Day Means for Cybersecurity (And Why You Should Care Now) | Samuel Odekunle | [Read More](https://medium.com/p/e1ca95292aef) |
-| Fri, 02 Jan 2026 10:23:51 GMT | Patterns without Exposure: How FHE Securely Computes the Future | Mimi Marcus | [Read More](https://medium.com/p/0819a4ccc5a3) |
