@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 02 Jan 2026 06:24:36 GMT | What is malware ? | Vishalraj | [Read More](https://medium.com/p/35d7d60705e5) |
+| Fri, 02 Jan 2026 06:21:38 GMT | Why Rotating CSS Selectors Is an Effective Anti-Scraping Technique | Freeze Francis | [Read More](https://medium.com/p/b3fe26ab42f2) |
+| Fri, 02 Jan 2026 06:03:41 GMT | Our React2Shell Vulnerability Nightmare | Tech Monk | [Read More](https://medium.com/p/18ca627f86d6) |
+| Fri, 02 Jan 2026 06:02:00 GMT | Web Crawling for Ethical Hackers: Finding Hidden Endpoints with Katana | virexil.null | [Read More](https://medium.com/p/bf8334d48bea) |
+| Fri, 02 Jan 2026 05:59:18 GMT | Web Application Security: Hands-On Practice (Chapter 1 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/afa4109b91bd) |
+| Fri, 02 Jan 2026 05:52:25 GMT | The AWS WAF Playbook | Shivanshu Sharma | [Read More](https://medium.com/p/1692066f919f) |
+| Fri, 02 Jan 2026 05:51:15 GMT | How Weak Password Reset Flows Turn “Forgot Password?” Into Full Account Takeover | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/dc95508cdfe8) |
+| Fri, 02 Jan 2026 05:49:18 GMT | TryHackMe - The Phishing Pond - Write-up | salihah | [Read More](https://medium.com/p/adaa9c5b256a) |
+| Fri, 02 Jan 2026 05:43:06 GMT | Pursue Cutting-Edge Innovation with PhD in Information and Communication Technology at ISBAT… | ISBAT University | [Read More](https://medium.com/p/7dce3dbcf171) |
+| Fri, 02 Jan 2026 05:40:08 GMT | The Linux Security Journey — Snort | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/225b737fa807) |
 | Fri, 02 Jan 2026 05:36:42 GMT | Light Out, 7B (Part 4) | edarit | [Read More](https://medium.com/p/24247485a71e) |
 | Fri, 02 Jan 2026 05:35:23 GMT | On-Liners Reconnaissance | 3vilRizaldi | [Read More](https://medium.com/p/28e813c0dfdf) |
 | Fri, 02 Jan 2026 05:34:50 GMT | Backend Security Basics: Authentication, Authorization, and API Protection | Silversky Technology | [Read More](https://medium.com/p/2685de258340) |
@@ -31,6 +41,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 Jan 2026 04:51:24 GMT | Zero-Day Attack Prevention and Reduction | Aneeqibtesam | [Read More](https://medium.com/p/8901d693fa2e) |
 | Fri, 02 Jan 2026 04:48:12 GMT | AI Nearly Replaced Me as a SOC Analyst. Instead, It Got Me Promoted. | Narayan Regmi | [Read More](https://medium.com/p/e887586f4249) |
 | Fri, 02 Jan 2026 04:45:30 GMT | Weekly Threat Intelligence Report 22 Dec 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/6f024012a0b6) |
+| Fri, 02 Jan 2026 04:43:11 GMT | Informationssicherheit im digitalen Zeitalter und das Deutsche Recht | Atanur Coban | [Read More](https://medium.com/p/52cc2d91ae15) |
 | Fri, 02 Jan 2026 04:32:27 GMT | 5 Reputation Systems That Expose DePIN Sybils | Praxen | [Read More](https://medium.com/p/7515011b6aac) |
 | Fri, 02 Jan 2026 04:28:08 GMT | How to Choose the Right ServiceNow Migration Partner: Key Considerations | Alex s | [Read More](https://medium.com/p/28657b57d069) |
 | Fri, 02 Jan 2026 04:24:31 GMT | Cybersecurity Fundamentals and Understanding Penetration Testing | Januar 博阳 | [Read More](https://medium.com/p/c6af996a8eca) |
@@ -103,14 +114,3 @@ In a small town in Afghanistan, a girl named Neda lived with her family. | Sakhi
 | Thu, 01 Jan 2026 19:23:24 GMT | Bypassing Pro Membership Using SQL Injection in an Android App lab | Mohamednaddaa | [Read More](https://medium.com/p/3feb11381ee4) |
 | Thu, 01 Jan 2026 19:20:51 GMT | Your Roadmap to GRC Success: Simplifying Governance, Risk, and Compliance! | Adeoluwa Obadofin | [Read More](https://medium.com/p/d3637373914b) |
 | Thu, 01 Jan 2026 19:19:59 GMT | Shocker: From 403 Forbidden to Root in Under 10 Mins! ⚡ | Nicholas Mullenski | [Read More](https://medium.com/p/1b53c202699f) |
-| Thu, 01 Jan 2026 19:17:41 GMT | What Social Media Influencers Can Teach Us About Authenticity | Alan Morantz | [Read More](https://medium.com/p/c9003cec34cb) |
-| Thu, 01 Jan 2026 19:17:36 GMT | Proxies Are Also Hackable But Not the Way You Think | Fareed Masood | [Read More](https://medium.com/p/2566877ef55c) |
-| Thu, 01 Jan 2026 19:17:22 GMT | Avoid These Five Mistakes If You’re Starting in Cybersecurity | Fareed Masood | [Read More](https://medium.com/p/7d4a6951efd6) |
-| Thu, 01 Jan 2026 19:12:43 GMT | Slay the Zombies — Eliminate Deadweight Applications with the Gartner TIME Framework | Mark Bridges | [Read More](https://medium.com/p/54ce6fae7f56) |
-| Thu, 01 Jan 2026 19:04:31 GMT | NIGERIA'S LAW ON ONLINE GENDER-BASED VIOLENCE: A CASE FOR STRONGER CYBERCRIME LEGISLATION. | Fatimot Adebayo | [Read More](https://medium.com/p/f40f7caeeb43) |
-| Thu, 01 Jan 2026 18:57:43 GMT | ️ FortiGate Lab — FortiToken ile İki Faktörlü Kimlik Doğrulama (2FA) Kurulumu | Esra Tosun | [Read More](https://medium.com/p/b532bdc95ce0) |
-| Thu, 01 Jan 2026 18:50:34 GMT | [OSCP] Music with soul hackthebox machine | Ander | [Read More](https://medium.com/p/f09f58e7ad01) |
-| Thu, 01 Jan 2026 18:38:48 GMT | “Bug Bounty Bootcamp #9: How Modern Web Infrastructure Creates New Attack Surfaces” | Aman Sharma | [Read More](https://medium.com/p/6f28d26f6a61) |
-| Thu, 01 Jan 2026 18:35:07 GMT | Unmasking Github Users: How to Identify the Person Behind Any Github Profile | Anotherhadi | [Read More](https://medium.com/p/1b7d76142ee3) |
-| Thu, 01 Jan 2026 18:20:56 GMT | Event-Horizon: The Cybersecurity Time Machine | Mathan S | [Read More](https://medium.com/p/b72bd38f6066) |
-| Thu, 01 Jan 2026 18:19:59 GMT | The Art of Code: Why “Clean” Software Matters More Than “Working” Software | Rukmanghan Selvakumar | [Read More](https://medium.com/p/7db6cad8c91e) |
