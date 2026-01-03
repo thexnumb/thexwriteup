@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 05:44:54 GMT | Choosing the Right Thermal Scope: Adder TS35–384 or 640×512 Sensor Models? | Night Vision 4 Less | [Read More](https://medium.com/p/9872db765cee) |
+| Sat, 03 Jan 2026 05:35:31 GMT | Light Out, 7B (Part 5) | edarit | [Read More](https://medium.com/p/922472766184) |
+| Sat, 03 Jan 2026 05:29:15 GMT | YOUR PHONE HAS HIDDEN SENSORS YOU DON’T KNOW ABOUT | Harshit | [Read More](https://medium.com/p/c6fe93b49092) |
+| Sat, 03 Jan 2026 05:23:25 GMT | About Me | Sri Borra | [Read More](https://medium.com/p/243eb6288c2a) |
+| Sat, 03 Jan 2026 05:23:18 GMT | How to Find 8 Hour Security Guard Jobs Near Hisar Haryana | Lakshay Security | [Read More](https://medium.com/p/29b53fbe63d3) |
+| Sat, 03 Jan 2026 05:18:46 GMT | Digital Arrest Scams: How 2025 Exposed the Most Dangerous Cybercrime Pattern in India
+In 2025… | Ankit rai | [Read More](https://medium.com/p/43eba7f463b6) |
+| Sat, 03 Jan 2026 05:17:37 GMT | AI Content Creation in 2026: A Beginner’s Guide to Scaling Your Strategy with Precision | Shahibur Rahman | [Read More](https://medium.com/p/c35781bc0e65) |
 | Sat, 03 Jan 2026 04:51:43 GMT | How Poor Router Configuration Invites Cyber Risks | Ask IT Support | [Read More](https://medium.com/p/70a932611396) |
 | Sat, 03 Jan 2026 04:51:08 GMT | Once a Secret Hits Git, It’s Compromised Forever: Use Pre‑Commit Scanning | Sachin Kasana | [Read More](https://medium.com/p/7faef6f5a3b8) |
 | Sat, 03 Jan 2026 04:47:09 GMT | Deception Scenario How Inverted Social Engineering is Redefining the Web3 Recruitment Trap | Aris Haryanto | [Read More](https://medium.com/p/f02b387cd6df) |
@@ -105,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 Jan 2026 18:09:07 GMT | Lab: Inconsistent handling of exceptional input | Songül Kızılay Özügürler | [Read More](https://medium.com/p/dc8477aa780b) |
 | Fri, 02 Jan 2026 18:03:31 GMT | PDF Proton: new variant of SparkOnSoft Malware Campaign | sm0q | [Read More](https://medium.com/p/14890be5db2e) |
 | Fri, 02 Jan 2026 18:02:43 GMT | Why RAG Security is Broken? (And How to Fix It) | Riad Moudjahed | [Read More](https://medium.com/p/8697845a1a3d) |
-| Fri, 02 Jan 2026 18:02:40 GMT | Introducing Ratel: Shift-Left Security with Cyberattack-Driven Development (CDD) | Fabio Meyer | [Read More](https://medium.com/p/c0ac39771570) |
-| Fri, 02 Jan 2026 17:51:23 GMT | Ringing in 2026 Without Google Meet and Zoom | BiyteLüm | [Read More](https://medium.com/p/9a194e09b8dd) |
-| Fri, 02 Jan 2026 17:51:09 GMT | HyperText Transfer Protocol Secure (HTTPS) | Lorenzo Facchinetti | [Read More](https://medium.com/p/d9fcf2080325) |
-| Fri, 02 Jan 2026 17:49:33 GMT | Blind SSRF with Shellshock Exploitation | Bash Overflow | [Read More](https://medium.com/p/be7406ec3e26) |
-| Fri, 02 Jan 2026 17:42:18 GMT | I Claimed a Free Game… and It Never Showed Up | Sudharsan K | [Read More](https://medium.com/p/cc17c37fca83) |
-| Fri, 02 Jan 2026 17:37:23 GMT | When Love Feels One-Sided | WordsbyBano | [Read More](https://medium.com/p/7eaf6576761e) |
-| Fri, 02 Jan 2026 17:34:57 GMT | The Power of Passive Reconnaissance | Daemi Jack | [Read More](https://medium.com/p/8a72f9095f1a) |
