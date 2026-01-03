@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 23:06:54 GMT | Puzzle Write-up Docker Labs | Joel Morillas Pagan (Ghxstsec) | [Read More](https://medium.com/p/6d608792acdf) |
+| Sat, 03 Jan 2026 23:02:53 GMT | Diving into Web Application Security: Hands-On Vulnerability Scanning with OWASP ZAP | Edwin Atali | [Read More](https://medium.com/p/0bdeba53ab70) |
+| Sat, 03 Jan 2026 22:59:25 GMT | The Power of Hashing in One-Way Security and Irreversible Storage | Bervice | [Read More](https://medium.com/p/8e9dfe71bb29) |
+| Sat, 03 Jan 2026 22:53:32 GMT | How to Protect Your Digital Life (Without Becoming a Paranoid Expert) | Newsvegi | [Read More](https://medium.com/p/c83923b3b6e4) |
+| Sat, 03 Jan 2026 22:51:39 GMT | I Hit a Wall in My Career… Until One Computer Screen Changed Everything | Ryan McLean | [Read More](https://medium.com/p/13e3f7a7a12a) |
+| Sat, 03 Jan 2026 22:36:23 GMT | The Invisible Machines: Astonishing Random Facts About the Technology You Use Every Single Day | FactSphereMedia | [Read More](https://medium.com/p/a379eb1e3139) |
 | Sat, 03 Jan 2026 22:31:25 GMT | Unmasking the RTO Scam: Reverse Engineering the ‘RTO Challan’ Banking Trojan | Mr_MalMan | [Read More](https://medium.com/p/df3ebe9c03ae) |
 | Sat, 03 Jan 2026 22:26:24 GMT | Why Managed IT Services in Fontana, CA Must Rethink Cloud Security in 2025 | Zeta Sky | [Read More](https://medium.com/p/52273e6172b5) |
 | Sat, 03 Jan 2026 22:25:51 GMT | Honored to be your friend… | Olivia Senghor | [Read More](https://medium.com/p/2d893758ed00) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 Jan 2026 14:49:42 GMT | Phishing in 2026 | gobbledy | [Read More](https://medium.com/p/16d44bd7d143) |
 | Sat, 03 Jan 2026 14:46:42 GMT | Unlock Peak Productivity & Ironclad Security: How SentryPC Transforms Remote Work | Paul Meyer | [Read More](https://medium.com/p/ef09050e0058) |
 | Sat, 03 Jan 2026 14:43:00 GMT | The Ghost in the Machine: | Mazankwaran | [Read More](https://medium.com/p/e1032c7ed55f) |
-| Sat, 03 Jan 2026 14:41:51 GMT | MCP Under Attack: A Complete Security Breakdown | Abhishek M L | [Read More](https://medium.com/p/d39291eca13f) |
-| Sat, 03 Jan 2026 14:35:33 GMT | Decoding File Systems: A Guide to Windows, Linux, and macOS | Dhruvil  Patel | [Read More](https://medium.com/p/2503bd083130) |
-| Sat, 03 Jan 2026 14:34:57 GMT | SSH Honeypot Brute Force Attacks What Bots Actually Try | berke bodur | [Read More](https://medium.com/p/4c27eeb95b1b) |
-| Sat, 03 Jan 2026 14:34:08 GMT | Why Linear Kill Chains Miss How Attacks Actually Work | Levente Simon | [Read More](https://medium.com/p/b6d2a1048fb0) |
-| Sat, 03 Jan 2026 14:33:34 GMT | What Goes on When You Search for Something on Google? | Ali Hamza | [Read More](https://medium.com/p/0aa10d263cdb) |
-| Sat, 03 Jan 2026 14:32:25 GMT | Mastering MITM: Bypassing HTTPS with SSL Strip | Vignesh R | [Read More](https://medium.com/p/db6f57206481) |
