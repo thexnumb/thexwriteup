@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 15:20:37 GMT | The Day the Internet Stood Still: How Cyber Attacks Could Collapse Our Digital World | Hritam Dutta | [Read More](https://medium.com/p/04df0ff565dd) |
+| Sat, 03 Jan 2026 15:08:16 GMT | What I’d Learn First in API Design (If I Was Starting in 2026) | Sathish Tadaka | [Read More](https://medium.com/p/8c86f0ebc4fa) |
+| Sat, 03 Jan 2026 15:02:33 GMT | The Hidden Language of AI Coding Assistants: What Your Agent README Is Missing in 2025 | Daniel García | [Read More](https://medium.com/p/121ecffe875e) |
+| Sat, 03 Jan 2026 14:59:03 GMT | Why Digital Sovereignty Is Fundamentally a Risk Pricing Issue | STR4T0TT0 | [Read More](https://medium.com/p/ac2d16ad9470) |
+| Sat, 03 Jan 2026 14:58:56 GMT | THREAT PROFILE: LONGNOSEDGOBLIN | Jon C | [Read More](https://medium.com/p/d1bc418fc2dc) |
+| Sat, 03 Jan 2026 14:57:10 GMT | THM - Slingshot | Francesco Pastore | [Read More](https://medium.com/p/3ce0329d2345) |
+| Sat, 03 Jan 2026 14:56:44 GMT | Blog TRYHACKME Walkthrough | Mainekhacker | [Read More](https://medium.com/p/42711a72c3a8) |
+| Sat, 03 Jan 2026 14:52:55 GMT | Lab: Inconsistent security controls | Songül Kızılay Özügürler | [Read More](https://medium.com/p/ef826b01eb7e) |
+| Sat, 03 Jan 2026 14:49:42 GMT | Phishing in 2026 | gobbledy | [Read More](https://medium.com/p/16d44bd7d143) |
+| Sat, 03 Jan 2026 14:46:42 GMT | Unlock Peak Productivity & Ironclad Security: How SentryPC Transforms Remote Work | Paul Meyer | [Read More](https://medium.com/p/ef09050e0058) |
+| Sat, 03 Jan 2026 14:43:00 GMT | The Ghost in the Machine: | Mazankwaran | [Read More](https://medium.com/p/e1032c7ed55f) |
+| Sat, 03 Jan 2026 14:41:51 GMT | MCP Under Attack: A Complete Security Breakdown | Abhishek M L | [Read More](https://medium.com/p/d39291eca13f) |
 | Sat, 03 Jan 2026 14:35:33 GMT | Decoding File Systems: A Guide to Windows, Linux, and macOS | Dhruvil  Patel | [Read More](https://medium.com/p/2503bd083130) |
 | Sat, 03 Jan 2026 14:34:57 GMT | SSH Honeypot Brute Force Attacks What Bots Actually Try | berke bodur | [Read More](https://medium.com/p/4c27eeb95b1b) |
 | Sat, 03 Jan 2026 14:34:08 GMT | Why Linear Kill Chains Miss How Attacks Actually Work | Levente Simon | [Read More](https://medium.com/p/b6d2a1048fb0) |
@@ -100,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 Jan 2026 08:44:40 GMT | The top 10 most trending/high-demand skills ranking remains based on the ongoing 2025–2026. | Akovojehun Gbenupo Ezekiel | [Read More](https://medium.com/p/97d74a9571ce) |
 | Sat, 03 Jan 2026 08:41:52 GMT | How AI Helps Developers Fix Security Issues Faster | Ashwani Mahajan | [Read More](https://medium.com/p/5926fd00a81e) |
 | Sat, 03 Jan 2026 08:37:40 GMT | West Africa’s Climate-Conflict Connection: How Lake Chad’s Collapse Enabled Insurgency | Oge Samuel Okonkwo | [Read More](https://medium.com/p/38d7a3b24475) |
-| Sat, 03 Jan 2026 08:37:08 GMT | Déployer un lab Active Directory avec ludus sur Proxmox | nobisd | [Read More](https://medium.com/p/cff8a406bd84) |
-| Sat, 03 Jan 2026 08:34:18 GMT | Mouse Cursor Disappearing in Kali Linux on VMware? Fix with a Hardware Compatibility Update | Abrar Bin Habib | [Read More](https://medium.com/p/e5273822b351) |
-| Sat, 03 Jan 2026 08:30:27 GMT | Vulnerability Management Often Misrepresents Risk | Ashwani Mahajan | [Read More](https://medium.com/p/e0acaac6a226) |
-| Sat, 03 Jan 2026 08:29:51 GMT | Fastest Way to Crawl JavaScript Files for Sensitive Data Exposure - The Best Bug Bounty Pipeline… | Alham Rizvi | [Read More](https://medium.com/p/1851e994b73f) |
-| Sat, 03 Jan 2026 08:28:06 GMT | Top Ethical Hacking Winter Internship Program for Freshers | cyber security Updates | [Read More](https://medium.com/p/cf1c2227132b) |
-| Sat, 03 Jan 2026 08:23:27 GMT | Penetration Testing Training and Certification in India (2026) | Manisha Chaudhary | [Read More](https://medium.com/p/2d67adfc59fa) |
-| Sat, 03 Jan 2026 08:14:51 GMT | The Dark Web: Unveiling the Invisible World of the Internet
-Researcher: Kyro
-The internet we use… | Kyro | [Read More](https://medium.com/p/1d68c43e16f3) |
-| Sat, 03 Jan 2026 08:04:57 GMT | The Iranian IRGC Intelligence Organization | Chris Kubecka de Medina | [Read More](https://medium.com/p/e02a67a8c9b2) |
-| Sat, 03 Jan 2026 08:02:29 GMT | CMDvault v1.0.0 | Aswin Gopalakrishnan | [Read More](https://medium.com/p/3731be5ee81d) |
-| Sat, 03 Jan 2026 07:59:36 GMT | Mastering Web Cache Deception Bugs: Advanced Bug Hunter’s Guide | Reduan Islam Badhon | [Read More](https://medium.com/p/eb6106147aab) |
-| Sat, 03 Jan 2026 07:57:38 GMT | The ROI of Friction: When to Annoy Your Users | OBED ONYEDIKA INYA | [Read More](https://medium.com/p/3ee8e3b6ec59) |
-| Sat, 03 Jan 2026 07:55:30 GMT | Why the Smartest Cybersecurity Professionals Are Building Personal Brands in 2026 | Taimur Ijlal | [Read More](https://medium.com/p/2c96ad38ec43) |
