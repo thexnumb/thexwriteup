@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 10:14:57 GMT | Chapter 3: The House With Too Many Open Windows | Fateyaly | [Read More](https://medium.com/p/62aabfac5368) |
+| Sat, 03 Jan 2026 10:09:20 GMT | When We Were Still In Tune (4/5) | Jesse Chang | [Read More](https://medium.com/p/9bd089310a25) |
+| Sat, 03 Jan 2026 10:09:09 GMT | AI Security Conferences — 2026 | Tal Eliyahu | [Read More](https://medium.com/p/62212bbb4107) |
+| Sat, 03 Jan 2026 10:02:52 GMT | 7 Dashboards DeFi PMs Should Check Before Shipping | Praxen | [Read More](https://medium.com/p/e59ce80bce0c) |
+| Sat, 03 Jan 2026 10:02:40 GMT | 7 Bug-Bounty Designs White Hats Actually Trust | Velorum | [Read More](https://medium.com/p/cefdf8a6d0a4) |
+| Sat, 03 Jan 2026 10:02:17 GMT | Vernichtung von Festplatten: Sichere Datenlöschung nach BSI-Standard | Second IT | [Read More](https://medium.com/p/5558df0c2e78) |
+| Sat, 03 Jan 2026 09:57:33 GMT | Bad USB Attacks | Allen Ace | [Read More](https://medium.com/p/f059ab1356c4) |
+| Sat, 03 Jan 2026 09:55:50 GMT | What No One Tells You After You Learn the Basics of Cybersecurity | Satyam Pathania | [Read More](https://medium.com/p/48b4ba0bdb6a) |
+| Sat, 03 Jan 2026 09:54:39 GMT | My First Malware Analysis: It’s a trap! | Heath Daughtrey | [Read More](https://medium.com/p/698f21233826) |
+| Sat, 03 Jan 2026 09:53:28 GMT | Model Context Protocol Security Risks and Mitigations | gayatri r | [Read More](https://medium.com/p/5cba55b20597) |
+| Sat, 03 Jan 2026 09:48:08 GMT | AI Under Siege: The Emerging Threats Reshaping Cybersecurity | Hadiyayazeen | [Read More](https://medium.com/p/9aa93d8657f1) |
+| Sat, 03 Jan 2026 09:48:04 GMT | Enter 2026 with uncertainties | Heidi lai | [Read More](https://medium.com/p/1455a70627fb) |
+| Sat, 03 Jan 2026 09:45:40 GMT | My eJPT Exam Experience — What I Learned Beyond the Certificate | Roshan Rajbanshi | [Read More](https://medium.com/p/738d6546f4db) |
 | Sat, 03 Jan 2026 09:27:21 GMT | Inside The Mind Of An Attacker: The Power Of Red Teaming Simulations | Redfox Security | [Read More](https://medium.com/p/aef8b065c6fb) |
 | Sat, 03 Jan 2026 09:26:10 GMT | Why I Built a “Suicidal” Python Agent to Bypass RDP (and why WhatsApp is a non-starter for… | Deepesh | [Read More](https://medium.com/p/8cdabc1601eb) |
 | Sat, 03 Jan 2026 09:24:06 GMT | How I Found Two-Factor Authentication Bypass Bug - 2FA | Rajankumarbarik | [Read More](https://medium.com/p/bde5699e43a9) |
@@ -102,16 +115,3 @@ In 2025… | Ankit rai | [Read More](https://medium.com/p/43eba7f463b6) |
 | Sat, 03 Jan 2026 03:28:39 GMT | The DNA of a Key User | Sundar R | [Read More](https://medium.com/p/5a12a29fbbba) |
 | Sat, 03 Jan 2026 03:19:00 GMT | A decade in React, JavaScript, and other languages | Joe Alongi | [Read More](https://medium.com/p/17a0b93f7f06) |
 | Sat, 03 Jan 2026 03:04:51 GMT | IDOR Is Not Just id=123: A Simple Guide to Smarter IDOR Hunting | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/5f58de1109dd) |
-| Sat, 03 Jan 2026 02:42:04 GMT | Ultimate Hacking Tools Tier List | Shahzaib | [Read More](https://medium.com/p/7a965b06130e) |
-| Sat, 03 Jan 2026 02:41:49 GMT | Secrets in the Wild (2025): What 18 Months of Monitoring Exposed | Dzianis Skliar | [Read More](https://medium.com/p/8b91962fb316) |
-| Sat, 03 Jan 2026 02:35:53 GMT | Tor is Breaking Up with C: Why the Switch to Rust Matters for Your Privacy | Shadhujan Jeyachandran | [Read More](https://medium.com/p/dbaa08b306b9) |
-| Sat, 03 Jan 2026 02:33:00 GMT | I Thought Intimacy Would Clarify Things. It Didn’t. | Jim McMillen | [Read More](https://medium.com/p/d0b8b3c02b67) |
-| Sat, 03 Jan 2026 02:23:43 GMT | The Illusion of Safety: Why Your WhatsApp Data Is Leaking (And It’s Not the Encryption) | JIN | [Read More](https://medium.com/p/08902021ebe8) |
-| Sat, 03 Jan 2026 02:06:09 GMT | Another Medical Data Breach! The OrthopedicsNY Case | Pipeline | [Read More](https://medium.com/p/d1c34e3393ca) |
-| Sat, 03 Jan 2026 01:50:38 GMT | (Part 11) Mastering the GitHub Copilot Series: How to turn your AI assistant into a first line of… | Nick | [Read More](https://medium.com/p/8eae943776fa) |
-| Sat, 03 Jan 2026 01:49:03 GMT | Library — TryHackMe Easy Challenge — Writeup - by P4NTHR | P4NTHR | [Read More](https://medium.com/p/aad383fb4078) |
-| Sat, 03 Jan 2026 01:25:35 GMT | Strengthening Identity Security with Netwrix Identity Manager (Formerly Usercube) | Aimeric Pouga | [Read More](https://medium.com/p/c84dc558c34c) |
-| Sat, 03 Jan 2026 01:19:20 GMT | Corridor TryHackMe Write UP | cat0x01 | [Read More](https://medium.com/p/7b7e51bccb9f) |
-| Sat, 03 Jan 2026 01:10:49 GMT | I Was Strong, But I Was Also Tired | Udolizgerrie | [Read More](https://medium.com/p/e3159b1ee80c) |
-| Sat, 03 Jan 2026 00:59:19 GMT | 硬體錢包也會被駭？深度解析私鑰竊取與防範技術 | Crypt0Sophie | [Read More](https://medium.com/p/ade6c064bc10) |
-| Sat, 03 Jan 2026 00:49:21 GMT | What No One Tells You About Learning Cybersecurity in a Tier-3 College | Shreya Dutta | [Read More](https://medium.com/p/70ad9bf7bd7d) |
