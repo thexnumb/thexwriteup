@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 17:37:38 GMT | How hackers bypass Root Detection like a Pro - Android Pentesting | Blue_eye | [Read More](https://medium.com/p/2da50dccc65b) |
+| Sat, 03 Jan 2026 17:32:23 GMT | Tips & tricks for efficient AWS WAF setup | Ihor Sasovets | [Read More](https://medium.com/p/d43312f3fcf4) |
+| Sat, 03 Jan 2026 17:30:35 GMT | Linux User, Group & Permission Management - Practical Assignment Guide | Philopater Shenouda | [Read More](https://medium.com/p/a8796f762946) |
+| Sat, 03 Jan 2026 17:26:30 GMT | Log Enrichment Mapping in SIEM | Esra Kayhan | [Read More](https://medium.com/p/e5a8da7996ee) |
+| Sat, 03 Jan 2026 17:19:08 GMT | The Ascent of the AI Therapist: Why “Privacy Infrastructure” is the Next Multi-Billion Dollar Trade | Michelle yiu | [Read More](https://medium.com/p/cca20a585952) |
+| Sat, 03 Jan 2026 17:16:17 GMT | Flight radar app for civilian drones? Yes and No. | Berend Watchus | [Read More](https://medium.com/p/4249122392fc) |
 | Sat, 03 Jan 2026 17:07:36 GMT | Kiro for Pentesters: Working Smarter, Not Harder | marianita_cloud | [Read More](https://medium.com/p/5beef9fa5e4b) |
 | Sat, 03 Jan 2026 17:06:55 GMT | Honesty…but not like that. | Linda Oz | [Read More](https://medium.com/p/812cb12df872) |
 | Sat, 03 Jan 2026 16:55:13 GMT | An Engineering Student’s Journey: Learning, Mistakes, and Growth | Ghanshyam Matlane | [Read More](https://medium.com/p/195773c3cd59) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 Jan 2026 11:58:11 GMT | Cybersecurity for SMEs: Protecting Your Business in the Digital Banking Era | Oladele Steve | [Read More](https://medium.com/p/1ca54cfbf5d8) |
 | Sat, 03 Jan 2026 11:52:10 GMT | It’s 2026 Already. We Thought We Had Time. | Vijay Kumar Gupta | [Read More](https://medium.com/p/4d445c39a5bf) |
 | Sat, 03 Jan 2026 11:46:35 GMT | Affordable Ethical Hacking Training in Delhi (2026) | Manisha Chaudhary | [Read More](https://medium.com/p/357aaee30520) |
-| Sat, 03 Jan 2026 11:33:53 GMT | A Guide to Multi-Tenancy in Spring Boot | Bharat Aggarwal | [Read More](https://medium.com/p/bd5260ef2d52) |
-| Sat, 03 Jan 2026 11:20:56 GMT | Linux Privilege Escalation via cap_setuid: Gaining Root with Python | virexil.null | [Read More](https://medium.com/p/ecca7cab716e) |
-| Sat, 03 Jan 2026 11:12:33 GMT | Security is Not an Afterthought: Shift-Left with Gitleaks, Trivy & Cosign | Abhishek Panda | [Read More](https://medium.com/p/470046fb0b1c) |
-| Sat, 03 Jan 2026 11:09:20 GMT | The Fortress State and the Irony of Modern Governance | Jabbar Khan | [Read More](https://medium.com/p/d06bd15c8c80) |
-| Sat, 03 Jan 2026 11:01:55 GMT | Pentesting Report with OWASP Top 10 Integration (for Bug Bounty & Industry Use) | Tandelpruthvi | [Read More](https://medium.com/p/c770a55d43c1) |
-| Sat, 03 Jan 2026 11:01:40 GMT | GIF as a new communication format | Taulan Zauzanov | [Read More](https://medium.com/p/ec51cb193ee6) |
