@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 22:31:25 GMT | Unmasking the RTO Scam: Reverse Engineering the ‘RTO Challan’ Banking Trojan | Mr_MalMan | [Read More](https://medium.com/p/df3ebe9c03ae) |
+| Sat, 03 Jan 2026 22:26:24 GMT | Why Managed IT Services in Fontana, CA Must Rethink Cloud Security in 2025 | Zeta Sky | [Read More](https://medium.com/p/52273e6172b5) |
+| Sat, 03 Jan 2026 22:25:51 GMT | Honored to be your friend… | Olivia Senghor | [Read More](https://medium.com/p/2d893758ed00) |
 | Sat, 03 Jan 2026 22:16:37 GMT | That Time I Hacked Venezuela: Apparently, That Makes Me a “Cyber Fascist” | Chris Kubecka de Medina | [Read More](https://medium.com/p/21ecb1d5a7f1) |
 | Sat, 03 Jan 2026 22:03:52 GMT | The $336,787 Problem: Why Your Fraud Prevention Fails After Onboarding | Heesham Naji | [Read More](https://medium.com/p/336129c2ae00) |
 | Sat, 03 Jan 2026 21:26:53 GMT | Subdomain Enumeration - TryHackMe WalkThrough | David Ajuzie | [Read More](https://medium.com/p/2954138d8035) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 Jan 2026 14:34:08 GMT | Why Linear Kill Chains Miss How Attacks Actually Work | Levente Simon | [Read More](https://medium.com/p/b6d2a1048fb0) |
 | Sat, 03 Jan 2026 14:33:34 GMT | What Goes on When You Search for Something on Google? | Ali Hamza | [Read More](https://medium.com/p/0aa10d263cdb) |
 | Sat, 03 Jan 2026 14:32:25 GMT | Mastering MITM: Bypassing HTTPS with SSL Strip | Vignesh R | [Read More](https://medium.com/p/db6f57206481) |
-| Sat, 03 Jan 2026 14:18:17 GMT | NATO OSINT by CYBER KALKI -BIGGEST INFO EXPOSE INCLUDING ORIGIN IP | ElonMuskTheAntichrist | [Read More](https://medium.com/p/451a278dfde6) |
-| Sat, 03 Jan 2026 14:18:10 GMT | When Network+ Exam Questions Start to Feel Irritating: The Ethical Hacker’s Dilemma | Mbcyberworks | [Read More](https://medium.com/p/f545c02d9cbb) |
-| Sat, 03 Jan 2026 14:18:02 GMT | Don’t Store Passwords or Keys in Environment Variables | SeQEW | [Read More](https://medium.com/p/3badab74ee0f) |
