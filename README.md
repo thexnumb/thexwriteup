@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 14:35:33 GMT | Decoding File Systems: A Guide to Windows, Linux, and macOS | Dhruvil  Patel | [Read More](https://medium.com/p/2503bd083130) |
+| Sat, 03 Jan 2026 14:34:57 GMT | SSH Honeypot Brute Force Attacks What Bots Actually Try | berke bodur | [Read More](https://medium.com/p/4c27eeb95b1b) |
+| Sat, 03 Jan 2026 14:34:08 GMT | Why Linear Kill Chains Miss How Attacks Actually Work | Levente Simon | [Read More](https://medium.com/p/b6d2a1048fb0) |
+| Sat, 03 Jan 2026 14:33:34 GMT | What Goes on When You Search for Something on Google? | Ali Hamza | [Read More](https://medium.com/p/0aa10d263cdb) |
+| Sat, 03 Jan 2026 14:32:25 GMT | Mastering MITM: Bypassing HTTPS with SSL Strip | Vignesh R | [Read More](https://medium.com/p/db6f57206481) |
 | Sat, 03 Jan 2026 14:18:17 GMT | NATO OSINT by CYBER KALKI -BIGGEST INFO EXPOSE INCLUDING ORIGIN IP | ElonMuskTheAntichrist | [Read More](https://medium.com/p/451a278dfde6) |
 | Sat, 03 Jan 2026 14:18:10 GMT | When Network+ Exam Questions Start to Feel Irritating: The Ethical Hacker’s Dilemma | Mbcyberworks | [Read More](https://medium.com/p/f545c02d9cbb) |
 | Sat, 03 Jan 2026 14:18:02 GMT | Don’t Store Passwords or Keys in Environment Variables | SeQEW | [Read More](https://medium.com/p/3badab74ee0f) |
@@ -109,8 +114,3 @@ The internet we use… | Kyro | [Read More](https://medium.com/p/1d68c43e16f3) |
 | Sat, 03 Jan 2026 07:59:36 GMT | Mastering Web Cache Deception Bugs: Advanced Bug Hunter’s Guide | Reduan Islam Badhon | [Read More](https://medium.com/p/eb6106147aab) |
 | Sat, 03 Jan 2026 07:57:38 GMT | The ROI of Friction: When to Annoy Your Users | OBED ONYEDIKA INYA | [Read More](https://medium.com/p/3ee8e3b6ec59) |
 | Sat, 03 Jan 2026 07:55:30 GMT | Why the Smartest Cybersecurity Professionals Are Building Personal Brands in 2026 | Taimur Ijlal | [Read More](https://medium.com/p/2c96ad38ec43) |
-| Sat, 03 Jan 2026 07:55:22 GMT | 3 Levels of Wi-Fi Hacking | Fareed Masood | [Read More](https://medium.com/p/3462c65cd142) |
-| Sat, 03 Jan 2026 07:54:35 GMT | How to Start a Cybersecurity Career From Zero in 2026 | Muhammad Haider Tallal | [Read More](https://medium.com/p/173cffe56758) |
-| Sat, 03 Jan 2026 07:54:30 GMT | A Beginner’s Guide to OSINT: 5 Tools That Turn Your Browser into a Detective Agency. | Shamsuddeen Isah | [Read More](https://medium.com/p/0c8d79531b3c) |
-| Sat, 03 Jan 2026 07:53:56 GMT | Letting Things Flow Feels Easy to Say and Hard to Live By | AfterRainWrites | [Read More](https://medium.com/p/ddfa66105ba2) |
-| Sat, 03 Jan 2026 07:53:52 GMT | TryHackMe: Carrotbane of My Existence Writeup | cbev | [Read More](https://medium.com/p/a9e72810020b) |
