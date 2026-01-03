@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 09:27:21 GMT | Inside The Mind Of An Attacker: The Power Of Red Teaming Simulations | Redfox Security | [Read More](https://medium.com/p/aef8b065c6fb) |
+| Sat, 03 Jan 2026 09:26:10 GMT | Why I Built a “Suicidal” Python Agent to Bypass RDP (and why WhatsApp is a non-starter for… | Deepesh | [Read More](https://medium.com/p/8cdabc1601eb) |
+| Sat, 03 Jan 2026 09:24:06 GMT | How I Found Two-Factor Authentication Bypass Bug - 2FA | Rajankumarbarik | [Read More](https://medium.com/p/bde5699e43a9) |
 | Sat, 03 Jan 2026 09:08:54 GMT | One Small Mistake That Ended the Dark Web’s Richest King | Fareed Masood | [Read More](https://medium.com/p/0e21117d2b92) |
 | Sat, 03 Jan 2026 09:06:40 GMT | Catch-All Email: Why It Looks Simple — and Why It Becomes an Ops Problem (2026) | Alexey Bulygin | [Read More](https://medium.com/p/eb2ab481db91) |
 | Sat, 03 Jan 2026 09:01:43 GMT | AI Cyberattack: Why Do You Even Need a Hacker Anymore When AI Does the Job | 0trust0day | [Read More](https://medium.com/p/1cd9ff6deaf9) |
@@ -112,6 +115,3 @@ In 2025… | Ankit rai | [Read More](https://medium.com/p/43eba7f463b6) |
 | Sat, 03 Jan 2026 01:10:49 GMT | I Was Strong, But I Was Also Tired | Udolizgerrie | [Read More](https://medium.com/p/e3159b1ee80c) |
 | Sat, 03 Jan 2026 00:59:19 GMT | 硬體錢包也會被駭？深度解析私鑰竊取與防範技術 | Crypt0Sophie | [Read More](https://medium.com/p/ade6c064bc10) |
 | Sat, 03 Jan 2026 00:49:21 GMT | What No One Tells You About Learning Cybersecurity in a Tier-3 College | Shreya Dutta | [Read More](https://medium.com/p/70ad9bf7bd7d) |
-| Sat, 03 Jan 2026 00:32:26 GMT | Why We Hide Our True Selves: Understanding Shame and Self-Acceptance | Ueiiowd | [Read More](https://medium.com/p/921eca551a45) |
-| Sat, 03 Jan 2026 00:19:29 GMT | How I found my first bug | Fatimahasan | [Read More](https://medium.com/p/0fb469e549da) |
-| Fri, 02 Jan 2026 23:59:50 GMT | Fortified: Applying Enterprise Cybersecurity at Home | Matt | [Read More](https://medium.com/p/f455e9a4ae34) |
