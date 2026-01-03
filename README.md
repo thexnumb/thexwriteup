@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 01:25:35 GMT | Strengthening Identity Security with Netwrix Identity Manager (Formerly Usercube) | Aimeric Pouga | [Read More](https://medium.com/p/c84dc558c34c) |
+| Sat, 03 Jan 2026 01:19:20 GMT | Corridor TryHackMe Write UP | cat0x01 | [Read More](https://medium.com/p/7b7e51bccb9f) |
+| Sat, 03 Jan 2026 01:10:49 GMT | I Was Strong, But I Was Also Tired | Udolizgerrie | [Read More](https://medium.com/p/e3159b1ee80c) |
+| Sat, 03 Jan 2026 00:59:19 GMT | 硬體錢包也會被駭？深度解析私鑰竊取與防範技術 | Crypt0Sophie | [Read More](https://medium.com/p/ade6c064bc10) |
+| Sat, 03 Jan 2026 00:49:21 GMT | What No One Tells You About Learning Cybersecurity in a Tier-3 College | Shreya Dutta | [Read More](https://medium.com/p/70ad9bf7bd7d) |
+| Sat, 03 Jan 2026 00:32:26 GMT | Why We Hide Our True Selves: Understanding Shame and Self-Acceptance | Ueiiowd | [Read More](https://medium.com/p/921eca551a45) |
+| Sat, 03 Jan 2026 00:19:29 GMT | How I found my first bug | Fatimahasan | [Read More](https://medium.com/p/0fb469e549da) |
+| Fri, 02 Jan 2026 23:59:50 GMT | Fortified: Applying Enterprise Cybersecurity at Home | Matt | [Read More](https://medium.com/p/f455e9a4ae34) |
+| Fri, 02 Jan 2026 23:49:27 GMT | Authentication vs Authorization | Sonyta Nget | [Read More](https://medium.com/p/a9231f4595ef) |
 | Fri, 02 Jan 2026 23:26:15 GMT | Why Your AI Agent Needs a Passport | Ramprasad G | [Read More](https://medium.com/p/0487db50f532) |
 | Fri, 02 Jan 2026 23:24:45 GMT | TryHackMe - Advent of Cyber 2025 — Day 2 (Social Engineering)- Phishing — Merry Clickmas - Write-up | salihah | [Read More](https://medium.com/p/7115aabd1587) |
 | Fri, 02 Jan 2026 23:15:59 GMT | getting started in cyber security | Falguniyadav | [Read More](https://medium.com/p/f367ad48342d) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 Jan 2026 15:59:50 GMT | From Transmission to Storage: Solving the Semantic Translation Gap with Physics-Based Security — A… | Berend Watchus | [Read More](https://medium.com/p/f9c885f9b9fb) |
 | Fri, 02 Jan 2026 15:58:20 GMT | Digitalization as Strategic Leverage: The 4 Billion Lesson from General Electric | Aymaneelyamani | [Read More](https://medium.com/p/a415c5082458) |
 | Fri, 02 Jan 2026 15:56:28 GMT | New Wave of GlassWorm Malware Hits Macs Through Trojanized Cryptocurrency Wallets | Technijian | [Read More](https://medium.com/p/914b3abc1bd5) |
-| Fri, 02 Jan 2026 15:45:41 GMT | AI-Powered Cloud Monitoring: How Businesses Will Manage Cloud Performance in 2026 | Techridge Solutions | [Read More](https://medium.com/p/73941587ff51) |
-| Fri, 02 Jan 2026 15:39:15 GMT | How a Simple WhatsApp “Hi” Travels Across the World | Dhruvil  Patel | [Read More](https://medium.com/p/1ba9b25c5cff) |
-| Fri, 02 Jan 2026 15:34:43 GMT | Netstat and Listening Ports: Understanding What Is Happening Inside Your System | Gajanan Tayde | [Read More](https://medium.com/p/28731adb8849) |
-| Fri, 02 Jan 2026 15:29:40 GMT | Hashing vs Encoding vs Encryption | Rifat | [Read More](https://medium.com/p/28670d798dc4) |
-| Fri, 02 Jan 2026 15:29:36 GMT | Phishing Analysis 2 Walkthrough | Blught | [Read More](https://medium.com/p/98bd89b0c014) |
-| Fri, 02 Jan 2026 15:28:07 GMT | Starting My Cybersecurity Journey: Learning SOC, Logs, and Defense | Jenishjoel | [Read More](https://medium.com/p/1b5a229d7d71) |
-| Fri, 02 Jan 2026 15:24:23 GMT | The difference between a Junior and a Senior dev is how they handle secrets. | Eric Rodríguez Pacheco | [Read More](https://medium.com/p/e0085f27193d) |
-| Fri, 02 Jan 2026 15:23:47 GMT | A comprehensive research-level overview of DOM XSS injection types, including lesser-known attack… | pwnx1337 | [Read More](https://medium.com/p/fcedc8cf5033) |
-| Fri, 02 Jan 2026 15:20:24 GMT | Responding to a Scheduled Task Alert: A Practical SOC Walkthrough | SOCFortress | [Read More](https://medium.com/p/767ddcf630da) |
