@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 11:33:53 GMT | A Guide to Multi-Tenancy in Spring Boot | Bharat Aggarwal | [Read More](https://medium.com/p/bd5260ef2d52) |
+| Sat, 03 Jan 2026 11:20:56 GMT | Linux Privilege Escalation via cap_setuid: Gaining Root with Python | virexil.null | [Read More](https://medium.com/p/ecca7cab716e) |
+| Sat, 03 Jan 2026 11:12:33 GMT | Security is Not an Afterthought: Shift-Left with Gitleaks, Trivy & Cosign | Abhishek Panda | [Read More](https://medium.com/p/470046fb0b1c) |
+| Sat, 03 Jan 2026 11:09:20 GMT | The Fortress State and the Irony of Modern Governance | Jabbar Khan | [Read More](https://medium.com/p/d06bd15c8c80) |
 | Sat, 03 Jan 2026 11:01:55 GMT | Pentesting Report with OWASP Top 10 Integration (for Bug Bounty & Industry Use) | Tandelpruthvi | [Read More](https://medium.com/p/c770a55d43c1) |
 | Sat, 03 Jan 2026 11:01:40 GMT | GIF as a new communication format | Taulan Zauzanov | [Read More](https://medium.com/p/ec51cb193ee6) |
 | Sat, 03 Jan 2026 11:01:15 GMT | Strategy + Memento: The Secret Weapon for Building Undo-Enabled, Algorithm-Agnostic Systems | Jitin Kayyala | [Read More](https://medium.com/p/14bd8a5ea83d) |
@@ -32,6 +36,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 Jan 2026 09:48:08 GMT | AI Under Siege: The Emerging Threats Reshaping Cybersecurity | Hadiyayazeen | [Read More](https://medium.com/p/9aa93d8657f1) |
 | Sat, 03 Jan 2026 09:48:04 GMT | Enter 2026 with uncertainties | Heidi lai | [Read More](https://medium.com/p/1455a70627fb) |
 | Sat, 03 Jan 2026 09:45:40 GMT | My eJPT Exam Experience — What I Learned Beyond the Certificate | Roshan Rajbanshi | [Read More](https://medium.com/p/738d6546f4db) |
+| Sat, 03 Jan 2026 09:35:35 GMT | Tools Itu Banyak, Mindset Itu Langka: Panduan Lengkap Memahami Cyber Security Dari Pemula Hingga… | Handev Code | [Read More](https://medium.com/p/af6de41bf476) |
 | Sat, 03 Jan 2026 09:27:21 GMT | Inside The Mind Of An Attacker: The Power Of Red Teaming Simulations | Redfox Security | [Read More](https://medium.com/p/aef8b065c6fb) |
 | Sat, 03 Jan 2026 09:26:10 GMT | Why I Built a “Suicidal” Python Agent to Bypass RDP (and why WhatsApp is a non-starter for… | Deepesh | [Read More](https://medium.com/p/8cdabc1601eb) |
 | Sat, 03 Jan 2026 09:24:06 GMT | How I Found Two-Factor Authentication Bypass Bug - 2FA | Rajankumarbarik | [Read More](https://medium.com/p/bde5699e43a9) |
@@ -110,8 +115,3 @@ In 2025… | Ankit rai | [Read More](https://medium.com/p/43eba7f463b6) |
 | Sat, 03 Jan 2026 04:28:25 GMT | OpenAI Just Admitted AI Has Entered a Dangerous New Phase | Willow Tech | [Read More](https://medium.com/p/b8c1e7c62f66) |
 | Sat, 03 Jan 2026 04:24:16 GMT | AI‑Assisted Pentesting with Burp Suite and Claude | Surya | [Read More](https://medium.com/p/b09a2cc7b5a0) |
 | Sat, 03 Jan 2026 04:22:12 GMT | Facing off with Gandalf Level 2 | Kimberly Ordel | [Read More](https://medium.com/p/95e1a1c26cf2) |
-| Sat, 03 Jan 2026 04:20:21 GMT | 2026 and Cyber Attacks. | Nithin | [Read More](https://medium.com/p/4bfc39e70d58) |
-| Sat, 03 Jan 2026 04:15:10 GMT | How to Protect your phone from hackers (Simple students guide for students) | NaijaCyberGuide | [Read More](https://medium.com/p/5aac2959ee29) |
-| Sat, 03 Jan 2026 04:13:13 GMT | why “I care” can feel so hard to say | Elena | [Read More](https://medium.com/p/cad00f02c939) |
-| Sat, 03 Jan 2026 03:53:30 GMT | Taking Back the Internet’s “Phonebook”: A Practical Guide to NextDNS | zⅿеғ | [Read More](https://medium.com/p/19bd2a3001dc) |
-| Sat, 03 Jan 2026 03:50:50 GMT | CVE-2025–68613 — Understanding How a Trust Boundary Shifted in n8n | Nithish Madduri | [Read More](https://medium.com/p/b2c7d03f9dac) |
