@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 21:26:53 GMT | Subdomain Enumeration - TryHackMe WalkThrough | David Ajuzie | [Read More](https://medium.com/p/2954138d8035) |
+| Sat, 03 Jan 2026 21:23:21 GMT | Start The New Year With Privacy, Stability, And Control | Geoffrey Wenger | [Read More](https://medium.com/p/3b6a31916814) |
+| Sat, 03 Jan 2026 21:23:17 GMT | TakeOver TryHackMe Write Up | cat0x01 | [Read More](https://medium.com/p/bed29d7fcd95) |
+| Sat, 03 Jan 2026 21:08:50 GMT | Dissecting XenoRAT | spark | [Read More](https://medium.com/p/d6269ba0a65d) |
 | Sat, 03 Jan 2026 21:07:29 GMT | Race Conditions - Vulnerability | AJ GUIN | [Read More](https://medium.com/p/5d0bfb07dcda) |
 | Sat, 03 Jan 2026 21:01:58 GMT | The Loneliness I Didn’t Expect… | Okuruesther | [Read More](https://medium.com/p/c4427252c868) |
 | Sat, 03 Jan 2026 20:53:06 GMT | Threat modeling for 2025 : Why most organizations still get it wrong | Soundarya Vasista | [Read More](https://medium.com/p/a9e9c2dd2b77) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 Jan 2026 14:17:56 GMT | Your Cybersecurity Salary Is Only One Income Stream (Why That Matters in 2026) | Ganiyah Otubambo | [Read More](https://medium.com/p/99ed6d6bb0f8) |
 | Sat, 03 Jan 2026 14:09:08 GMT | How I’m Transitioning from Programming to CyberOps (And What I’ve Learned So Far) | Sulaimon Quadri Dolapo | [Read More](https://medium.com/p/a8b0ffe5eefa) |
 | Sat, 03 Jan 2026 14:06:57 GMT | Hacking NASA: How I Disclosed a Data Exposure Vulnerability to the U.S. Government️ | Nicholas Mullenski | [Read More](https://medium.com/p/a37217e7e937) |
-| Sat, 03 Jan 2026 14:01:20 GMT | The Silent Guardian: How AI in NVRs Is Revolutionizing Security (And Why You Should Care) | Tavan CCTV | [Read More](https://medium.com/p/5fe350bf7260) |
-| Sat, 03 Jan 2026 14:00:50 GMT | Windows 10 vs Windows 11: The Security Gap That Actually Matters (2026 Offensive & Defensive View) | Yua Mikanana | [Read More](https://medium.com/p/c90ae02ba485) |
-| Sat, 03 Jan 2026 13:48:55 GMT | Top 10 AI Security 2025 Thought Leaders | Tal Eliyahu | [Read More](https://medium.com/p/e15d3c5324cc) |
-| Sat, 03 Jan 2026 13:43:45 GMT | USDT Frozen Due to AML History: How Zcash (ZEC) Helped — and Why I Often Prefer It to Monero (XMR) | Grutin Danil | [Read More](https://medium.com/p/ae215dbdf8c1) |
