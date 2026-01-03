@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 22:16:37 GMT | That Time I Hacked Venezuela: Apparently, That Makes Me a “Cyber Fascist” | Chris Kubecka de Medina | [Read More](https://medium.com/p/21ecb1d5a7f1) |
+| Sat, 03 Jan 2026 22:03:52 GMT | The $336,787 Problem: Why Your Fraud Prevention Fails After Onboarding | Heesham Naji | [Read More](https://medium.com/p/336129c2ae00) |
 | Sat, 03 Jan 2026 21:26:53 GMT | Subdomain Enumeration - TryHackMe WalkThrough | David Ajuzie | [Read More](https://medium.com/p/2954138d8035) |
 | Sat, 03 Jan 2026 21:23:21 GMT | Start The New Year With Privacy, Stability, And Control | Geoffrey Wenger | [Read More](https://medium.com/p/3b6a31916814) |
 | Sat, 03 Jan 2026 21:23:17 GMT | TakeOver TryHackMe Write Up | cat0x01 | [Read More](https://medium.com/p/bed29d7fcd95) |
@@ -91,6 +93,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 Jan 2026 15:23:03 GMT | #      . | OGB | [Read More](https://medium.com/p/1615705a239d) |
 | Sat, 03 Jan 2026 15:20:37 GMT | The Day the Internet Stood Still: How Cyber Attacks Could Collapse Our Digital World | Hritam Dutta | [Read More](https://medium.com/p/04df0ff565dd) |
 | Sat, 03 Jan 2026 15:08:16 GMT | What I’d Learn First in API Design (If I Was Starting in 2026) | Sathish Tadaka | [Read More](https://medium.com/p/8c86f0ebc4fa) |
+| Sat, 03 Jan 2026 15:02:45 GMT | Polémica por Grok: La IA de X transforma fotos de usuarios con contenido obsceno | Tiziano Mass | [Read More](https://medium.com/p/43021f44fe80) |
 | Sat, 03 Jan 2026 15:02:33 GMT | The Hidden Language of AI Coding Assistants: What Your Agent README Is Missing in 2025 | Daniel García | [Read More](https://medium.com/p/121ecffe875e) |
 | Sat, 03 Jan 2026 14:59:03 GMT | Why Digital Sovereignty Is Fundamentally a Risk Pricing Issue | STR4T0TT0 | [Read More](https://medium.com/p/ac2d16ad9470) |
 | Sat, 03 Jan 2026 14:58:56 GMT | THREAT PROFILE: LONGNOSEDGOBLIN | Jon C | [Read More](https://medium.com/p/d1bc418fc2dc) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 Jan 2026 14:18:17 GMT | NATO OSINT by CYBER KALKI -BIGGEST INFO EXPOSE INCLUDING ORIGIN IP | ElonMuskTheAntichrist | [Read More](https://medium.com/p/451a278dfde6) |
 | Sat, 03 Jan 2026 14:18:10 GMT | When Network+ Exam Questions Start to Feel Irritating: The Ethical Hacker’s Dilemma | Mbcyberworks | [Read More](https://medium.com/p/f545c02d9cbb) |
 | Sat, 03 Jan 2026 14:18:02 GMT | Don’t Store Passwords or Keys in Environment Variables | SeQEW | [Read More](https://medium.com/p/3badab74ee0f) |
-| Sat, 03 Jan 2026 14:17:56 GMT | Your Cybersecurity Salary Is Only One Income Stream (Why That Matters in 2026) | Ganiyah Otubambo | [Read More](https://medium.com/p/99ed6d6bb0f8) |
-| Sat, 03 Jan 2026 14:09:08 GMT | How I’m Transitioning from Programming to CyberOps (And What I’ve Learned So Far) | Sulaimon Quadri Dolapo | [Read More](https://medium.com/p/a8b0ffe5eefa) |
-| Sat, 03 Jan 2026 14:06:57 GMT | Hacking NASA: How I Disclosed a Data Exposure Vulnerability to the U.S. Government️ | Nicholas Mullenski | [Read More](https://medium.com/p/a37217e7e937) |
