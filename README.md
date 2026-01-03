@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 13:40:16 GMT | Subdomain Enumeration: A Core Technique Every Bug Hunter Must Master | CyberRabbit | [Read More](https://medium.com/p/7e7852f74c28) |
+| Sat, 03 Jan 2026 13:31:46 GMT | In Their Words: “They Gave Us Confidence and Control” — Privacy, security, continuity, AI… | Fook Hwa Tan | [Read More](https://medium.com/p/79aa73be94be) |
+| Sat, 03 Jan 2026 13:30:47 GMT | Today we learn how AES works | Alessandro Alessio | [Read More](https://medium.com/p/d2d1f56747d3) |
+| Sat, 03 Jan 2026 13:29:31 GMT | What Every C-Suite Should Know in 2025 — Your Cybersecurity Executive Briefing | Fook Hwa Tan | [Read More](https://medium.com/p/d9455eb1eb87) |
+| Sat, 03 Jan 2026 13:23:01 GMT | Non-Human Identities: The Overlooked Cloud Security Threat | Thomas Patterson | [Read More](https://medium.com/p/252a434eb6a1) |
+| Sat, 03 Jan 2026 13:21:29 GMT | AWS EC2 - From Zero to Your First Cloud Server | rootRS7 | [Read More](https://medium.com/p/410fc50e89fc) |
+| Sat, 03 Jan 2026 13:17:13 GMT | Mastering Penetration Testing: A Proactive Approach to Cybersecurity | Plutosec Cyber Security | [Read More](https://medium.com/p/cfc59cf756f4) |
 | Sat, 03 Jan 2026 13:16:57 GMT | How AI Deepfakes Hijack Instincts And What To Do Next | Plaintext with Rich | [Read More](https://medium.com/p/0b30489d8a90) |
 | Sat, 03 Jan 2026 13:16:15 GMT | Middle East Rivalries Without a Regional Order: Yemen, Iran, and the Risks of Competitive Power… | MASUM BILLAH | [Read More](https://medium.com/p/92f26ac7dba7) |
 | Sat, 03 Jan 2026 13:14:21 GMT | Vulnerability Disclosure -Business logic: Browser Restriction Bypass @ Zoho Browser Security Plus | Kartik Lalan | [Read More](https://medium.com/p/fc082c922a55) |
@@ -107,10 +114,3 @@ The internet we use… | Kyro | [Read More](https://medium.com/p/1d68c43e16f3) |
 | Sat, 03 Jan 2026 07:17:39 GMT | Linux Is Secure Until You Log In | Pawan Natekar | [Read More](https://medium.com/p/94c1102be22b) |
 | Sat, 03 Jan 2026 07:17:01 GMT | SSRF with Whitelist-Based Input Filter | Bash Overflow | [Read More](https://medium.com/p/431ae4a77c61) |
 | Sat, 03 Jan 2026 07:11:52 GMT | CRTA — A review | Daniel Scragg | [Read More](https://medium.com/p/0c102cd4b287) |
-| Sat, 03 Jan 2026 07:10:25 GMT | Zero Trust Solutions: Benefits and Top Tools | steve manjaly | [Read More](https://medium.com/p/ac1fc9af8e7a) |
-| Sat, 03 Jan 2026 07:06:25 GMT | 20 Ways Blue Teams Actually Detect Real Attacks: Master Pro Techniques for Catching Hackers | Very Lazy Tech | [Read More](https://medium.com/p/27ecedd71332) |
-| Sat, 03 Jan 2026 07:05:04 GMT | Turning Red Teaming Assessment Into Measurable Security Confidence | Digital Duffer | [Read More](https://medium.com/p/9ca36f15fbe4) |
-| Sat, 03 Jan 2026 07:03:50 GMT | Red Teaming Assessments: Step-by-Step Guides | Digital Duffer | [Read More](https://medium.com/p/40529a5d22e3) |
-| Sat, 03 Jan 2026 06:58:48 GMT | Cybersecurity in 2026: Why Ethical Hackers Will Be the Real Digital Defenders | Anders wisdom | [Read More](https://medium.com/p/c1f790bf7f5f) |
-| Sat, 03 Jan 2026 06:36:00 GMT | Why Vibe Coding Creates Security Vulnerabilities (and How to Fix Them) | Sameer | [Read More](https://medium.com/p/a357fcda9114) |
-| Sat, 03 Jan 2026 06:33:10 GMT | ️ MongoBleed Detection: Hunting CVE-2025–14847 | Shreyash Tambe | [Read More](https://medium.com/p/709c2cd68b26) |
