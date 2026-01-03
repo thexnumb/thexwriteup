@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 07:37:10 GMT | The Cryptography Concept Journey — CRL (Certificate Revocation List) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/6b82b6c58656) |
+| Sat, 03 Jan 2026 07:31:48 GMT | Understanding Saudi Arabia’s NCA Essential Cybersecurity Controls (ECC): A Practical Perspective | Mohamed Basil | [Read More](https://medium.com/p/9c00ccc4393c) |
+| Sat, 03 Jan 2026 07:29:53 GMT | Why VPNs Are Expanding Your Attack Surface | OBED ONYEDIKA INYA | [Read More](https://medium.com/p/3c6295cd087d) |
+| Sat, 03 Jan 2026 07:22:21 GMT | Why Auth0 email_verified Was Missing from My Access Token (And How to Fix It) | Anand | [Read More](https://medium.com/p/946ebb289353) |
 | Sat, 03 Jan 2026 07:17:39 GMT | Linux Is Secure Until You Log In | Pawan Natekar | [Read More](https://medium.com/p/94c1102be22b) |
+| Sat, 03 Jan 2026 07:17:01 GMT | SSRF with Whitelist-Based Input Filter | Bash Overflow | [Read More](https://medium.com/p/431ae4a77c61) |
+| Sat, 03 Jan 2026 07:11:52 GMT | CRTA — A review | Daniel Scragg | [Read More](https://medium.com/p/0c102cd4b287) |
 | Sat, 03 Jan 2026 07:10:25 GMT | Zero Trust Solutions: Benefits and Top Tools | steve manjaly | [Read More](https://medium.com/p/ac1fc9af8e7a) |
 | Sat, 03 Jan 2026 07:06:25 GMT | 20 Ways Blue Teams Actually Detect Real Attacks: Master Pro Techniques for Catching Hackers | Very Lazy Tech | [Read More](https://medium.com/p/27ecedd71332) |
 | Sat, 03 Jan 2026 07:05:04 GMT | Turning Red Teaming Assessment Into Measurable Security Confidence | Digital Duffer | [Read More](https://medium.com/p/9ca36f15fbe4) |
@@ -107,9 +113,3 @@ In 2025… | Ankit rai | [Read More](https://medium.com/p/43eba7f463b6) |
 | Fri, 02 Jan 2026 20:39:16 GMT | Drones Are Now Catching Cargo Thieves Mid-Heist. Here’s Why That’s Not Enough. | Heesham Naji | [Read More](https://medium.com/p/1dcfe260c1ce) |
 | Fri, 02 Jan 2026 20:38:35 GMT | Automated Nmap Server Scanner with Python & Supervisor | FadilAhmad | [Read More](https://medium.com/p/f236e5b43177) |
 | Fri, 02 Jan 2026 20:36:25 GMT | Building a Modern File Integrity Monitoring Tool in Python | FadilAhmad | [Read More](https://medium.com/p/2f278d46e5e9) |
-| Fri, 02 Jan 2026 20:28:01 GMT | A Deep Dive into OWASP API Security Top 10 (2023) and Beyond (Week 3 & 4) | Stella Obatoye | [Read More](https://medium.com/p/6e72659b7f18) |
-| Fri, 02 Jan 2026 20:20:08 GMT | JWT Nədir? BTLO “Secrets” CTF Üzərindən Praktik Analiz | Fidan Gasimzada | [Read More](https://medium.com/p/5b5dc1b61b9b) |
-| Fri, 02 Jan 2026 20:11:43 GMT | Empecé el año suave, pero despierta | Natalia Antonoff | [Read More](https://medium.com/p/e7387d419879) |
-| Fri, 02 Jan 2026 20:09:03 GMT | MongoBleed: When a Database Remembers Too Much (My Deep Dive into CVE-2025–14847) | Harsh Raj Singhania | [Read More](https://medium.com/p/bc4be2dc7345) |
-| Fri, 02 Jan 2026 20:01:14 GMT | Siber Güvenlikte Yol Gösterici Çerçeveler: PTES, OSSTMM, OWASP ve NIST Nedir? | Gülbahar Dirik | [Read More](https://medium.com/p/c4b15bda7517) |
-| Fri, 02 Jan 2026 19:59:30 GMT | CTF Write-up: Crack the Gate 1 | midnightanthem2K9 | [Read More](https://medium.com/p/856ab67b2c4a) |
