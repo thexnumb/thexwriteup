@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 07:17:39 GMT | Linux Is Secure Until You Log In | Pawan Natekar | [Read More](https://medium.com/p/94c1102be22b) |
+| Sat, 03 Jan 2026 07:10:25 GMT | Zero Trust Solutions: Benefits and Top Tools | steve manjaly | [Read More](https://medium.com/p/ac1fc9af8e7a) |
+| Sat, 03 Jan 2026 07:06:25 GMT | 20 Ways Blue Teams Actually Detect Real Attacks: Master Pro Techniques for Catching Hackers | Very Lazy Tech | [Read More](https://medium.com/p/27ecedd71332) |
+| Sat, 03 Jan 2026 07:05:04 GMT | Turning Red Teaming Assessment Into Measurable Security Confidence | Digital Duffer | [Read More](https://medium.com/p/9ca36f15fbe4) |
+| Sat, 03 Jan 2026 07:03:50 GMT | Red Teaming Assessments: Step-by-Step Guides | Digital Duffer | [Read More](https://medium.com/p/40529a5d22e3) |
+| Sat, 03 Jan 2026 06:58:48 GMT | Cybersecurity in 2026: Why Ethical Hackers Will Be the Real Digital Defenders | Anders wisdom | [Read More](https://medium.com/p/c1f790bf7f5f) |
+| Sat, 03 Jan 2026 06:36:00 GMT | Why Vibe Coding Creates Security Vulnerabilities (and How to Fix Them) | Sameer | [Read More](https://medium.com/p/a357fcda9114) |
+| Sat, 03 Jan 2026 06:33:10 GMT | ️ MongoBleed Detection: Hunting CVE-2025–14847 | Shreyash Tambe | [Read More](https://medium.com/p/709c2cd68b26) |
+| Sat, 03 Jan 2026 06:31:04 GMT | Advanced WAF Bypass Reflected XSS in search bar | aiden0x | [Read More](https://medium.com/p/38bb918aa3de) |
 | Sat, 03 Jan 2026 06:20:53 GMT | The Silent Takeover: How Chinese Crime Networks Turned Telegram Into a Global Crypto Underworld | Ria | [Read More](https://medium.com/p/9e69b6020096) |
 | Sat, 03 Jan 2026 06:20:00 GMT | Why IT Cost Transparency Is Becoming a Board-Level Metric | Tech Horizon With Anand Vemula | [Read More](https://medium.com/p/bbeccc85cc60) |
 | Sat, 03 Jan 2026 06:13:57 GMT | What Does “No-Logs” Actually Mean? | Secybers VPN | [Read More](https://medium.com/p/ed15db304e0e) |
@@ -104,12 +113,3 @@ In 2025… | Ankit rai | [Read More](https://medium.com/p/43eba7f463b6) |
 | Fri, 02 Jan 2026 20:09:03 GMT | MongoBleed: When a Database Remembers Too Much (My Deep Dive into CVE-2025–14847) | Harsh Raj Singhania | [Read More](https://medium.com/p/bc4be2dc7345) |
 | Fri, 02 Jan 2026 20:01:14 GMT | Siber Güvenlikte Yol Gösterici Çerçeveler: PTES, OSSTMM, OWASP ve NIST Nedir? | Gülbahar Dirik | [Read More](https://medium.com/p/c4b15bda7517) |
 | Fri, 02 Jan 2026 19:59:30 GMT | CTF Write-up: Crack the Gate 1 | midnightanthem2K9 | [Read More](https://medium.com/p/856ab67b2c4a) |
-| Fri, 02 Jan 2026 19:45:15 GMT | Top Malware Families 2025 | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/9fd7d2afbbfe) |
-| Fri, 02 Jan 2026 19:39:05 GMT | The Truth of Vulnerability | Authentic Leadership Podcast | [Read More](https://medium.com/p/012bd43d09af) |
-| Fri, 02 Jan 2026 19:38:13 GMT | Enhancing Social Media Security Awareness: An Ethical Hacking Guide | SOCIAL MEDIA HACKER | [Read More](https://medium.com/p/8a3a61c478a6) |
-| Fri, 02 Jan 2026 19:36:19 GMT | AI Security Trends to Watch in 2026 | Nishith Sinha | [Read More](https://medium.com/p/1a56d77b6651) |
-| Fri, 02 Jan 2026 19:20:07 GMT | CompTIA Security+ vs CEH: Which is Better for Beginners in Cybersecurity? | SHUBHAM | [Read More](https://medium.com/p/8c78f5a782b7) |
-| Fri, 02 Jan 2026 19:13:07 GMT | VMware ESXi 7.0 İle Sanal Makine Oluşturma | Senyuvafurkan | [Read More](https://medium.com/p/e49a7b454178) |
-| Fri, 02 Jan 2026 19:12:53 GMT | AI Is Helping Hackers and Defenders | Anantha Gokul Sivakumar | [Read More](https://medium.com/p/a710df755802) |
-| Fri, 02 Jan 2026 18:43:18 GMT | Breaking the Walls: Techniques for 403 Forbidden Bypass | Samet Yiğit | [Read More](https://medium.com/p/c25034b822c6) |
-| Fri, 02 Jan 2026 18:40:13 GMT | Understanding Cyber Attacks Through The OSI Model | Manav Nagdukiya | [Read More](https://medium.com/p/f384666feb27) |
