@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 17:07:36 GMT | Kiro for Pentesters: Working Smarter, Not Harder | marianita_cloud | [Read More](https://medium.com/p/5beef9fa5e4b) |
+| Sat, 03 Jan 2026 17:06:55 GMT | Honesty…but not like that. | Linda Oz | [Read More](https://medium.com/p/812cb12df872) |
+| Sat, 03 Jan 2026 16:55:13 GMT | An Engineering Student’s Journey: Learning, Mistakes, and Growth | Ghanshyam Matlane | [Read More](https://medium.com/p/195773c3cd59) |
+| Sat, 03 Jan 2026 16:55:01 GMT | METASPLOIT- Reverse Shell Tutorial | Amrit Kashyap | [Read More](https://medium.com/p/e64be314ed6f) |
+| Sat, 03 Jan 2026 16:54:59 GMT | The Architects of Trust: Meet the Algorithms Replacing RSA | Harsh Bhogayata | [Read More](https://medium.com/p/2a76075d6059) |
 | Sat, 03 Jan 2026 16:48:53 GMT | Server-Side Request Forgery (SSRF) | Cybernight | [Read More](https://medium.com/p/63f4accf706b) |
 | Sat, 03 Jan 2026 16:46:01 GMT | OS Command Injection | Cybernight | [Read More](https://medium.com/p/9872b2c8d3c7) |
+| Sat, 03 Jan 2026 16:44:09 GMT | The Friendly Guide to Free OSINT “Super-Snooper” Tools | Rohit Chaudhary | [Read More](https://medium.com/p/e49236b7ffce) |
+| Sat, 03 Jan 2026 16:43:41 GMT | The Quantum Threat isn’t Future Science Fiction — It’s Happening Right Now | Harsh Bhogayata | [Read More](https://medium.com/p/eb9cdd48df0f) |
 | Sat, 03 Jan 2026 16:35:00 GMT | The Infrastructure We Don’t See Until It Fails | Veda T. Woods | [Read More](https://medium.com/p/41fdde487c7e) |
 | Sat, 03 Jan 2026 16:32:44 GMT | Archangel — TryHackMe Writeup | Shivang Tiwari | [Read More](https://medium.com/p/8320bf47e0cf) |
 | Sat, 03 Jan 2026 16:25:34 GMT | Speeding up the RMF Pipeline Through Proper Automation | Dale Bingham | [Read More](https://medium.com/p/a09b93ff50b4) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 Jan 2026 11:09:20 GMT | The Fortress State and the Irony of Modern Governance | Jabbar Khan | [Read More](https://medium.com/p/d06bd15c8c80) |
 | Sat, 03 Jan 2026 11:01:55 GMT | Pentesting Report with OWASP Top 10 Integration (for Bug Bounty & Industry Use) | Tandelpruthvi | [Read More](https://medium.com/p/c770a55d43c1) |
 | Sat, 03 Jan 2026 11:01:40 GMT | GIF as a new communication format | Taulan Zauzanov | [Read More](https://medium.com/p/ec51cb193ee6) |
-| Sat, 03 Jan 2026 11:01:15 GMT | Strategy + Memento: The Secret Weapon for Building Undo-Enabled, Algorithm-Agnostic Systems | Jitin Kayyala | [Read More](https://medium.com/p/14bd8a5ea83d) |
-| Sat, 03 Jan 2026 10:54:00 GMT | Deploying a Scalable Node.js Application on AWS ECS Fargate with Docker | Hina Atif | [Read More](https://medium.com/p/a1fbddf9ec53) |
-| Sat, 03 Jan 2026 10:48:55 GMT | TryHackMe - KaffeeSec - SoMeSINT - WriteUp | Axoloth | [Read More](https://medium.com/p/ef7cc13792f9) |
-| Sat, 03 Jan 2026 10:46:47 GMT | IIT Bombay TLCTF FinalsWriteup | Akash Datta | [Read More](https://medium.com/p/0f9fe7f2ae01) |
-| Sat, 03 Jan 2026 10:44:47 GMT | Kesalahan Konfigurasi Server Yang Paling Sering Terjadi | Handev Code | [Read More](https://medium.com/p/6831d428d5a5) |
-| Sat, 03 Jan 2026 10:14:57 GMT | Chapter 3: The House With Too Many Open Windows | Fateyaly | [Read More](https://medium.com/p/62aabfac5368) |
-| Sat, 03 Jan 2026 10:09:20 GMT | When We Were Still In Tune (4/5) | Jesse Chang | [Read More](https://medium.com/p/9bd089310a25) |
