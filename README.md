@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 15:32:45 GMT | Application Layer: Where Software Meets the Network | azrecon_ | [Read More](https://medium.com/p/f20d44628475) |
+| Sat, 03 Jan 2026 15:31:40 GMT | A Very Real Day in the Pentesting Lab (My Room) | Darlie | [Read More](https://medium.com/p/aa2dc210b4a3) |
+| Sat, 03 Jan 2026 15:30:46 GMT | [AD攻防] 淺談Windows驗證機制 — Kerberos | 陳禹璿 | [Read More](https://medium.com/p/fbd90f794b14) |
+| Sat, 03 Jan 2026 15:26:51 GMT | Fail2Ban Guide: Protecting Your Server from Brute-Force Attacks | bektiaw | [Read More](https://medium.com/p/0f67b257aae8) |
+| Sat, 03 Jan 2026 15:25:44 GMT | How WhatsApp Messages Travel | Devanshkoyani | [Read More](https://medium.com/p/6007398a2ef5) |
+| Sat, 03 Jan 2026 15:23:03 GMT | #      . | OGB | [Read More](https://medium.com/p/1615705a239d) |
 | Sat, 03 Jan 2026 15:20:37 GMT | The Day the Internet Stood Still: How Cyber Attacks Could Collapse Our Digital World | Hritam Dutta | [Read More](https://medium.com/p/04df0ff565dd) |
 | Sat, 03 Jan 2026 15:08:16 GMT | What I’d Learn First in API Design (If I Was Starting in 2026) | Sathish Tadaka | [Read More](https://medium.com/p/8c86f0ebc4fa) |
 | Sat, 03 Jan 2026 15:02:33 GMT | The Hidden Language of AI Coding Assistants: What Your Agent README Is Missing in 2025 | Daniel García | [Read More](https://medium.com/p/121ecffe875e) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 Jan 2026 09:01:43 GMT | AI Cyberattack: Why Do You Even Need a Hacker Anymore When AI Does the Job | 0trust0day | [Read More](https://medium.com/p/1cd9ff6deaf9) |
 | Sat, 03 Jan 2026 08:58:51 GMT | The Human Factor Remains the Weakest Link in Fintech Information Security | 0trust0day | [Read More](https://medium.com/p/03a82c0eba51) |
 | Sat, 03 Jan 2026 08:53:54 GMT | Certification or Projects: What way to go in 2026? | Joanorifha | [Read More](https://medium.com/p/ef8e03be66ce) |
-| Sat, 03 Jan 2026 08:52:53 GMT | If the attack starts and ends before the ticket is even created, what’s the point of having the… | Denny Roger | [Read More](https://medium.com/p/eb20602490c7) |
-| Sat, 03 Jan 2026 08:51:14 GMT | Applying Occam’s Razor in Cybersecurity: Why We Keep Missing the Obvious | Praise Imafidon | [Read More](https://medium.com/p/94059db8b452) |
-| Sat, 03 Jan 2026 08:44:53 GMT | Vulnerability Disclosure -Business logic: URL Access Restriction Bypass @ Zoho Browser Security… | Kartik Lalan | [Read More](https://medium.com/p/97e6e14b5b4c) |
-| Sat, 03 Jan 2026 08:44:40 GMT | The top 10 most trending/high-demand skills ranking remains based on the ongoing 2025–2026. | Akovojehun Gbenupo Ezekiel | [Read More](https://medium.com/p/97d74a9571ce) |
-| Sat, 03 Jan 2026 08:41:52 GMT | How AI Helps Developers Fix Security Issues Faster | Ashwani Mahajan | [Read More](https://medium.com/p/5926fd00a81e) |
-| Sat, 03 Jan 2026 08:37:40 GMT | West Africa’s Climate-Conflict Connection: How Lake Chad’s Collapse Enabled Insurgency | Oge Samuel Okonkwo | [Read More](https://medium.com/p/38d7a3b24475) |
