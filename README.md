@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 19:31:38 GMT | OSI Model vs TCP/IP Model: How Data Really Travels Across Networks | Cavidtaqiyev | [Read More](https://medium.com/p/1ea263601427) |
+| Sat, 03 Jan 2026 19:28:39 GMT | Passwortmanager 2026 — eine nüchterne Einordnung | Benjamin Lembcke | [Read More](https://medium.com/p/d2f13fbd3aac) |
+| Sat, 03 Jan 2026 19:21:43 GMT | (Part 12) Mastering GitHub Copilot Series: Beyond Copilot — Embracing GitHub’s Full Security… | Nick | [Read More](https://medium.com/p/817bd89a6c2b) |
 | Sat, 03 Jan 2026 19:10:06 GMT | Practical Steps to Kickstart Your Cybersecurity and Bug Bounty Journey ️ | Ali.Yurie | [Read More](https://medium.com/p/023479b7a46f) |
 | Sat, 03 Jan 2026 19:07:29 GMT | The Night I Realized Defence Wasn’t Enough | Cybersickerhub | [Read More](https://medium.com/p/04dc30222f87) |
 | Sat, 03 Jan 2026 19:02:44 GMT | Foucault and the Power of Surveillance: Rethinking Digital Privacy in a Panoptic World | Brian Haman, PhD | [Read More](https://medium.com/p/d22aafd08d01) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 Jan 2026 13:21:29 GMT | AWS EC2 - From Zero to Your First Cloud Server | rootRS7 | [Read More](https://medium.com/p/410fc50e89fc) |
 | Sat, 03 Jan 2026 13:17:13 GMT | Mastering Penetration Testing: A Proactive Approach to Cybersecurity | Plutosec Cyber Security | [Read More](https://medium.com/p/cfc59cf756f4) |
 | Sat, 03 Jan 2026 13:16:57 GMT | How AI Deepfakes Hijack Instincts And What To Do Next | Plaintext with Rich | [Read More](https://medium.com/p/0b30489d8a90) |
-| Sat, 03 Jan 2026 13:16:15 GMT | Middle East Rivalries Without a Regional Order: Yemen, Iran, and the Risks of Competitive Power… | MASUM BILLAH | [Read More](https://medium.com/p/92f26ac7dba7) |
-| Sat, 03 Jan 2026 13:14:21 GMT | Vulnerability Disclosure -Business logic: Browser Restriction Bypass @ Zoho Browser Security Plus | Kartik Lalan | [Read More](https://medium.com/p/fc082c922a55) |
-| Sat, 03 Jan 2026 13:12:54 GMT | How Websites Know Who You Are (Even After You Close the Tab) | Codeandcontext | [Read More](https://medium.com/p/568753bd9997) |
