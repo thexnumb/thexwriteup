@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 08:23:27 GMT | Penetration Testing Training and Certification in India (2026) | Manisha Chaudhary | [Read More](https://medium.com/p/2d67adfc59fa) |
+| Sat, 03 Jan 2026 08:14:51 GMT | The Dark Web: Unveiling the Invisible World of the Internet
+Researcher: Kyro
+The internet we use… | Kyro | [Read More](https://medium.com/p/1d68c43e16f3) |
+| Sat, 03 Jan 2026 08:04:57 GMT | The Iranian IRGC Intelligence Organization | Chris Kubecka de Medina | [Read More](https://medium.com/p/e02a67a8c9b2) |
+| Sat, 03 Jan 2026 08:02:29 GMT | CMDvault v1.0.0 | Aswin Gopalakrishnan | [Read More](https://medium.com/p/3731be5ee81d) |
+| Sat, 03 Jan 2026 07:59:36 GMT | Mastering Web Cache Deception Bugs: Advanced Bug Hunter’s Guide | Reduan Islam Badhon | [Read More](https://medium.com/p/eb6106147aab) |
+| Sat, 03 Jan 2026 07:57:38 GMT | The ROI of Friction: When to Annoy Your Users | OBED ONYEDIKA INYA | [Read More](https://medium.com/p/3ee8e3b6ec59) |
+| Sat, 03 Jan 2026 07:55:30 GMT | Why the Smartest Cybersecurity Professionals Are Building Personal Brands in 2026 | Taimur Ijlal | [Read More](https://medium.com/p/2c96ad38ec43) |
+| Sat, 03 Jan 2026 07:55:22 GMT | 3 Levels of Wi-Fi Hacking | Fareed Masood | [Read More](https://medium.com/p/3462c65cd142) |
+| Sat, 03 Jan 2026 07:54:35 GMT | How to Start a Cybersecurity Career From Zero in 2026 | Muhammad Haider Tallal | [Read More](https://medium.com/p/173cffe56758) |
+| Sat, 03 Jan 2026 07:54:30 GMT | A Beginner’s Guide to OSINT: 5 Tools That Turn Your Browser into a Detective Agency. | Shamsuddeen Isah | [Read More](https://medium.com/p/0c8d79531b3c) |
+| Sat, 03 Jan 2026 07:53:56 GMT | Letting Things Flow Feels Easy to Say and Hard to Live By | AfterRainWrites | [Read More](https://medium.com/p/ddfa66105ba2) |
+| Sat, 03 Jan 2026 07:53:52 GMT | TryHackMe: Carrotbane of My Existence Writeup | cbev | [Read More](https://medium.com/p/a9e72810020b) |
+| Sat, 03 Jan 2026 07:47:47 GMT | HashiCorp Vault Exposed Endpoints: How Simple Recon Led to a Paid Bug Bounty of $50 dollar | @Sauravkrish | [Read More](https://medium.com/p/8454609b523b) |
+| Sat, 03 Jan 2026 07:42:35 GMT | Networking concepts | TheNotorious | [Read More](https://medium.com/p/7012551b78d0) |
+| Sat, 03 Jan 2026 07:42:32 GMT | The 1.8MB Mistake: Leaking Thousands of Government Users via a Liferay API | LETCHU PKT | [Read More](https://medium.com/p/1b07f89f7362) |
+| Sat, 03 Jan 2026 07:37:40 GMT | Physical Security Barriers by Leading Safety & Security and Guarding Services in Saudi Arabia | Jaseela K | [Read More](https://medium.com/p/05719c87b7b8) |
 | Sat, 03 Jan 2026 07:37:10 GMT | The Cryptography Concept Journey — CRL (Certificate Revocation List) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/6b82b6c58656) |
 | Sat, 03 Jan 2026 07:31:48 GMT | Understanding Saudi Arabia’s NCA Essential Cybersecurity Controls (ECC): A Practical Perspective | Mohamed Basil | [Read More](https://medium.com/p/9c00ccc4393c) |
 | Sat, 03 Jan 2026 07:29:53 GMT | Why VPNs Are Expanding Your Attack Surface | OBED ONYEDIKA INYA | [Read More](https://medium.com/p/3c6295cd087d) |
@@ -97,19 +115,3 @@ In 2025… | Ankit rai | [Read More](https://medium.com/p/43eba7f463b6) |
 | Fri, 02 Jan 2026 22:14:23 GMT | WebStrike Lab—CyberDefenders (Write-up) | Gideon Egyabeng | [Read More](https://medium.com/p/ef218eac273c) |
 | Fri, 02 Jan 2026 22:03:03 GMT | How to Spot and Stop AI Voice Cloning Scam Before It’s too Late | Ajekigbe Michael. A | [Read More](https://medium.com/p/cea48cf11a46) |
 | Fri, 02 Jan 2026 21:59:56 GMT | My Life as a Buggy Program: A Developer’s Autobiography | Taiwo O. Adetiloye | [Read More](https://medium.com/p/82ac825195c7) |
-| Fri, 02 Jan 2026 21:51:01 GMT | Building a Complete Cybersecurity Solution with Zero Budget: A Practical Implementation Guide | MOAMEN REZK | [Read More](https://medium.com/p/e6fc27db2163) |
-| Fri, 02 Jan 2026 21:49:10 GMT | bug bounty notes-csrf | ab.infosec | [Read More](https://medium.com/p/59f79f809575) |
-| Fri, 02 Jan 2026 21:47:17 GMT | The Greenholt Phish - TryHackMe — Phishing Analysis | Kate D Terracore | [Read More](https://medium.com/p/14e3644a92b9) |
-| Fri, 02 Jan 2026 21:44:37 GMT | Cybersecurity in 2026: Where AI, OT, and Trust Collide | Parminder Kumar Sharma | [Read More](https://medium.com/p/ffc7fd016bb3) |
-| Fri, 02 Jan 2026 21:17:22 GMT | Arbitrary Command Execution within Copilot’s Isolated Linux Environment via Python Sandbox Escape… | D_F4u1t | [Read More](https://medium.com/p/c8ce6d9ac480) |
-| Fri, 02 Jan 2026 21:17:12 GMT | Base64 File Upload Bypass in Copilot Allows Restricted File Type Content to Enter Session For… | D_F4u1t | [Read More](https://medium.com/p/de36e4c3096a) |
-| Fri, 02 Jan 2026 21:14:25 GMT | Grok on X and the Rise of Non-Consensual Deepfakes: How to Protect Children, Adults, and… | Alp Cihangir ASLAN | [Read More](https://medium.com/p/d4100e04a9a7) |
-| Fri, 02 Jan 2026 21:11:39 GMT | Exiftool: A powerful tool for Reading, Writing , and Manipulating the metadata | Madhu Sudhan | [Read More](https://medium.com/p/1de198044796) |
-| Fri, 02 Jan 2026 21:11:08 GMT | Smol TryHackMe Walkthrough — From Enumeration to Root | IshhIshneet | [Read More](https://medium.com/p/2f01b9d575c3) |
-| Fri, 02 Jan 2026 21:11:02 GMT | HTB - Forest | PARADOX | [Read More](https://medium.com/p/cf0e1934814a) |
-| Fri, 02 Jan 2026 21:09:04 GMT | When Maintenance Software Gets In The Way Of Your PC | Geoffrey Wenger | [Read More](https://medium.com/p/0262bff6ac32) |
-| Fri, 02 Jan 2026 21:04:49 GMT | Top Blockchain Security Breaches of 2025 — A Year‑End Post‑Mortem & New Year’s Lessons | Mohammad Khezer | [Read More](https://medium.com/p/babb33f97a95) |
-| Fri, 02 Jan 2026 20:53:13 GMT | Nmap ile Ağ Keşfi ve Zafiyet Analizi | Ömer Faruk TOPTAŞ | [Read More](https://medium.com/p/92c7b44b37e8) |
-| Fri, 02 Jan 2026 20:39:16 GMT | Drones Are Now Catching Cargo Thieves Mid-Heist. Here’s Why That’s Not Enough. | Heesham Naji | [Read More](https://medium.com/p/1dcfe260c1ce) |
-| Fri, 02 Jan 2026 20:38:35 GMT | Automated Nmap Server Scanner with Python & Supervisor | FadilAhmad | [Read More](https://medium.com/p/f236e5b43177) |
-| Fri, 02 Jan 2026 20:36:25 GMT | Building a Modern File Integrity Monitoring Tool in Python | FadilAhmad | [Read More](https://medium.com/p/2f278d46e5e9) |
