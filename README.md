@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 16:18:42 GMT | TryHackme - Empline | ABHISHEK M D | [Read More](https://medium.com/p/dcd85f5e3cc3) |
+| Sat, 03 Jan 2026 16:16:35 GMT | Day 3 — Security Management vs Security Operations vs SOC: How Organizations Actually Stay… | Drishti Pandey | [Read More](https://medium.com/p/8df831d0088c) |
+| Sat, 03 Jan 2026 16:13:23 GMT | Data Poisoning in Industrial AI: When Bad Data Becomes a Production Decision | Muhammad Ali Khan | [Read More](https://medium.com/p/e0b5a90fd078) |
+| Sat, 03 Jan 2026 16:08:09 GMT | HexStrike+OpenAI Codex. AI-Driven Exploitation of Metasploitable. | Andrey Pautov | [Read More](https://medium.com/p/b892c07be39f) |
+| Sat, 03 Jan 2026 16:07:34 GMT | Devlet Dışı Aktörler ve Siber Alanın Güvenlikleştirilmesi: Kopenhag Okulu Perspektifi | nazlisedav | [Read More](https://medium.com/p/3c8d73cbdb02) |
+| Sat, 03 Jan 2026 16:02:31 GMT | Artificial Intelligence: The Brain Behind the Digital Revolution | Cyber Explain | [Read More](https://medium.com/p/9d55abf2097d) |
+| Sat, 03 Jan 2026 16:02:28 GMT | Stop Treating “Allow” Like a Close Button | Usamah Moin | [Read More](https://medium.com/p/abc4dfe62591) |
+| Sat, 03 Jan 2026 15:57:37 GMT | Autumn Bloom | Fabiana Tavares | [Read More](https://medium.com/p/124fbb202dca) |
+| Sat, 03 Jan 2026 15:55:20 GMT | TryHackMe: Wifi Hacking 101 - A CTF Write-up | Spiritsimba | [Read More](https://medium.com/p/422ddc21d5e1) |
+| Sat, 03 Jan 2026 15:54:47 GMT | Honesty Feels Like Walking Down the Street Without Clothes | Lana Andre’ | [Read More](https://medium.com/p/5c5229902588) |
+| Sat, 03 Jan 2026 15:51:33 GMT | Why “More Awareness” Won’t Fix the Phishing Problem | CW Fong | [Read More](https://medium.com/p/649abdf3bb1f) |
+| Sat, 03 Jan 2026 15:50:41 GMT | Infinity Learning lab: Escaping Boundaries with Roles Anywhere— Writeup | Hubert | [Read More](https://medium.com/p/b05949636d62) |
+| Sat, 03 Jan 2026 15:39:01 GMT | Unlocked Backdoors: How Gaana’s Obfuscated Logic Fails to Protect Its Content | Anirudh N | [Read More](https://medium.com/p/2be80a11819f) |
+| Sat, 03 Jan 2026 15:33:05 GMT | I Finally Understood PKCE After Years of Ignoring it | Mayeen Sajid | [Read More](https://medium.com/p/f8de94feca49) |
 | Sat, 03 Jan 2026 15:32:45 GMT | Application Layer: Where Software Meets the Network | azrecon_ | [Read More](https://medium.com/p/f20d44628475) |
 | Sat, 03 Jan 2026 15:31:40 GMT | A Very Real Day in the Pentesting Lab (My Room) | Darlie | [Read More](https://medium.com/p/aa2dc210b4a3) |
 | Sat, 03 Jan 2026 15:30:46 GMT | [AD攻防] 淺談Windows驗證機制 — Kerberos | 陳禹璿 | [Read More](https://medium.com/p/fbd90f794b14) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 Jan 2026 10:02:17 GMT | Vernichtung von Festplatten: Sichere Datenlöschung nach BSI-Standard | Second IT | [Read More](https://medium.com/p/5558df0c2e78) |
 | Sat, 03 Jan 2026 09:57:33 GMT | Bad USB Attacks | Allen Ace | [Read More](https://medium.com/p/f059ab1356c4) |
 | Sat, 03 Jan 2026 09:55:50 GMT | What No One Tells You After You Learn the Basics of Cybersecurity | Satyam Pathania | [Read More](https://medium.com/p/48b4ba0bdb6a) |
-| Sat, 03 Jan 2026 09:54:39 GMT | My First Malware Analysis: It’s a trap! | Heath Daughtrey | [Read More](https://medium.com/p/698f21233826) |
-| Sat, 03 Jan 2026 09:53:28 GMT | Model Context Protocol Security Risks and Mitigations | gayatri r | [Read More](https://medium.com/p/5cba55b20597) |
-| Sat, 03 Jan 2026 09:48:08 GMT | AI Under Siege: The Emerging Threats Reshaping Cybersecurity | Hadiyayazeen | [Read More](https://medium.com/p/9aa93d8657f1) |
-| Sat, 03 Jan 2026 09:48:04 GMT | Enter 2026 with uncertainties | Heidi lai | [Read More](https://medium.com/p/1455a70627fb) |
-| Sat, 03 Jan 2026 09:45:40 GMT | My eJPT Exam Experience — What I Learned Beyond the Certificate | Roshan Rajbanshi | [Read More](https://medium.com/p/738d6546f4db) |
-| Sat, 03 Jan 2026 09:35:35 GMT | Tools Itu Banyak, Mindset Itu Langka: Panduan Lengkap Memahami Cyber Security Dari Pemula Hingga… | Handev Code | [Read More](https://medium.com/p/af6de41bf476) |
-| Sat, 03 Jan 2026 09:27:21 GMT | Inside The Mind Of An Attacker: The Power Of Red Teaming Simulations | Redfox Security | [Read More](https://medium.com/p/aef8b065c6fb) |
-| Sat, 03 Jan 2026 09:26:10 GMT | Why I Built a “Suicidal” Python Agent to Bypass RDP (and why WhatsApp is a non-starter for… | Deepesh | [Read More](https://medium.com/p/8cdabc1601eb) |
-| Sat, 03 Jan 2026 09:24:06 GMT | How I Found Two-Factor Authentication Bypass Bug - 2FA | Rajankumarbarik | [Read More](https://medium.com/p/bde5699e43a9) |
-| Sat, 03 Jan 2026 09:08:54 GMT | One Small Mistake That Ended the Dark Web’s Richest King | Fareed Masood | [Read More](https://medium.com/p/0e21117d2b92) |
-| Sat, 03 Jan 2026 09:06:40 GMT | Catch-All Email: Why It Looks Simple — and Why It Becomes an Ops Problem (2026) | Alexey Bulygin | [Read More](https://medium.com/p/eb2ab481db91) |
-| Sat, 03 Jan 2026 09:01:43 GMT | AI Cyberattack: Why Do You Even Need a Hacker Anymore When AI Does the Job | 0trust0day | [Read More](https://medium.com/p/1cd9ff6deaf9) |
-| Sat, 03 Jan 2026 08:58:51 GMT | The Human Factor Remains the Weakest Link in Fintech Information Security | 0trust0day | [Read More](https://medium.com/p/03a82c0eba51) |
-| Sat, 03 Jan 2026 08:53:54 GMT | Certification or Projects: What way to go in 2026? | Joanorifha | [Read More](https://medium.com/p/ef8e03be66ce) |
