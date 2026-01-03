@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 09:08:54 GMT | One Small Mistake That Ended the Dark Web’s Richest King | Fareed Masood | [Read More](https://medium.com/p/0e21117d2b92) |
+| Sat, 03 Jan 2026 09:06:40 GMT | Catch-All Email: Why It Looks Simple — and Why It Becomes an Ops Problem (2026) | Alexey Bulygin | [Read More](https://medium.com/p/eb2ab481db91) |
+| Sat, 03 Jan 2026 09:01:43 GMT | AI Cyberattack: Why Do You Even Need a Hacker Anymore When AI Does the Job | 0trust0day | [Read More](https://medium.com/p/1cd9ff6deaf9) |
+| Sat, 03 Jan 2026 08:58:51 GMT | The Human Factor Remains the Weakest Link in Fintech Information Security | 0trust0day | [Read More](https://medium.com/p/03a82c0eba51) |
+| Sat, 03 Jan 2026 08:53:54 GMT | Certification or Projects: What way to go in 2026? | Joanorifha | [Read More](https://medium.com/p/ef8e03be66ce) |
+| Sat, 03 Jan 2026 08:52:53 GMT | If the attack starts and ends before the ticket is even created, what’s the point of having the… | Denny Roger | [Read More](https://medium.com/p/eb20602490c7) |
+| Sat, 03 Jan 2026 08:51:14 GMT | Applying Occam’s Razor in Cybersecurity: Why We Keep Missing the Obvious | Praise Imafidon | [Read More](https://medium.com/p/94059db8b452) |
+| Sat, 03 Jan 2026 08:44:53 GMT | Vulnerability Disclosure -Business logic: URL Access Restriction Bypass @ Zoho Browser Security… | Kartik Lalan | [Read More](https://medium.com/p/97e6e14b5b4c) |
 | Sat, 03 Jan 2026 08:44:40 GMT | The top 10 most trending/high-demand skills ranking remains based on the ongoing 2025–2026. | Akovojehun Gbenupo Ezekiel | [Read More](https://medium.com/p/97d74a9571ce) |
 | Sat, 03 Jan 2026 08:41:52 GMT | How AI Helps Developers Fix Security Issues Faster | Ashwani Mahajan | [Read More](https://medium.com/p/5926fd00a81e) |
 | Sat, 03 Jan 2026 08:37:40 GMT | West Africa’s Climate-Conflict Connection: How Lake Chad’s Collapse Enabled Insurgency | Oge Samuel Okonkwo | [Read More](https://medium.com/p/38d7a3b24475) |
@@ -107,11 +115,3 @@ In 2025… | Ankit rai | [Read More](https://medium.com/p/43eba7f463b6) |
 | Sat, 03 Jan 2026 00:32:26 GMT | Why We Hide Our True Selves: Understanding Shame and Self-Acceptance | Ueiiowd | [Read More](https://medium.com/p/921eca551a45) |
 | Sat, 03 Jan 2026 00:19:29 GMT | How I found my first bug | Fatimahasan | [Read More](https://medium.com/p/0fb469e549da) |
 | Fri, 02 Jan 2026 23:59:50 GMT | Fortified: Applying Enterprise Cybersecurity at Home | Matt | [Read More](https://medium.com/p/f455e9a4ae34) |
-| Fri, 02 Jan 2026 23:49:27 GMT | Authentication vs Authorization | Sonyta Nget | [Read More](https://medium.com/p/a9231f4595ef) |
-| Fri, 02 Jan 2026 23:26:15 GMT | Why Your AI Agent Needs a Passport | Ramprasad G | [Read More](https://medium.com/p/0487db50f532) |
-| Fri, 02 Jan 2026 23:24:45 GMT | TryHackMe - Advent of Cyber 2025 — Day 2 (Social Engineering)- Phishing — Merry Clickmas - Write-up | salihah | [Read More](https://medium.com/p/7115aabd1587) |
-| Fri, 02 Jan 2026 23:15:59 GMT | getting started in cyber security | Falguniyadav | [Read More](https://medium.com/p/f367ad48342d) |
-| Fri, 02 Jan 2026 23:14:34 GMT | Inside a Simple but Effective Remote Access Trojan (RAT) | Mika Gellizeau | [Read More](https://medium.com/p/07caccd4f9b8) |
-| Fri, 02 Jan 2026 23:12:58 GMT | Enhancing End-User Awareness in the Mobile World: Silent Execution | Hamit CİBO | [Read More](https://medium.com/p/463d26f89134) |
-| Fri, 02 Jan 2026 23:05:49 GMT | Content Discovery - TryHackMe Walkthrough | David Ajuzie | [Read More](https://medium.com/p/c8d319ea2f1a) |
-| Fri, 02 Jan 2026 23:03:50 GMT | The Semiconductor Paradox: Why Taiwan’s Most Valuable Factories Are Economically Fragile Under… | Berend Watchus | [Read More](https://medium.com/p/5362d5eca955) |
