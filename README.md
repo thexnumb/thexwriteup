@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 11:01:55 GMT | Pentesting Report with OWASP Top 10 Integration (for Bug Bounty & Industry Use) | Tandelpruthvi | [Read More](https://medium.com/p/c770a55d43c1) |
+| Sat, 03 Jan 2026 11:01:40 GMT | GIF as a new communication format | Taulan Zauzanov | [Read More](https://medium.com/p/ec51cb193ee6) |
+| Sat, 03 Jan 2026 11:01:15 GMT | Strategy + Memento: The Secret Weapon for Building Undo-Enabled, Algorithm-Agnostic Systems | Jitin Kayyala | [Read More](https://medium.com/p/14bd8a5ea83d) |
+| Sat, 03 Jan 2026 10:54:00 GMT | Deploying a Scalable Node.js Application on AWS ECS Fargate with Docker | Hina Atif | [Read More](https://medium.com/p/a1fbddf9ec53) |
+| Sat, 03 Jan 2026 10:48:55 GMT | TryHackMe - KaffeeSec - SoMeSINT - WriteUp | Axoloth | [Read More](https://medium.com/p/ef7cc13792f9) |
+| Sat, 03 Jan 2026 10:46:47 GMT | IIT Bombay TLCTF FinalsWriteup | Akash Datta | [Read More](https://medium.com/p/0f9fe7f2ae01) |
+| Sat, 03 Jan 2026 10:44:47 GMT | Kesalahan Konfigurasi Server Yang Paling Sering Terjadi | Handev Code | [Read More](https://medium.com/p/6831d428d5a5) |
 | Sat, 03 Jan 2026 10:14:57 GMT | Chapter 3: The House With Too Many Open Windows | Fateyaly | [Read More](https://medium.com/p/62aabfac5368) |
 | Sat, 03 Jan 2026 10:09:20 GMT | When We Were Still In Tune (4/5) | Jesse Chang | [Read More](https://medium.com/p/9bd089310a25) |
 | Sat, 03 Jan 2026 10:09:09 GMT | AI Security Conferences — 2026 | Tal Eliyahu | [Read More](https://medium.com/p/62212bbb4107) |
@@ -108,10 +115,3 @@ In 2025… | Ankit rai | [Read More](https://medium.com/p/43eba7f463b6) |
 | Sat, 03 Jan 2026 04:13:13 GMT | why “I care” can feel so hard to say | Elena | [Read More](https://medium.com/p/cad00f02c939) |
 | Sat, 03 Jan 2026 03:53:30 GMT | Taking Back the Internet’s “Phonebook”: A Practical Guide to NextDNS | zⅿеғ | [Read More](https://medium.com/p/19bd2a3001dc) |
 | Sat, 03 Jan 2026 03:50:50 GMT | CVE-2025–68613 — Understanding How a Trust Boundary Shifted in n8n | Nithish Madduri | [Read More](https://medium.com/p/b2c7d03f9dac) |
-| Sat, 03 Jan 2026 03:50:18 GMT | I Tried to Break My Own AI Link Detector | Robi Kumar Tomar | [Read More](https://medium.com/p/2e42c3f76b99) |
-| Sat, 03 Jan 2026 03:46:41 GMT | Unlocking the Power of DNSenum: Advanced Recon Techniques for Professionals | Cybeague Technologies | [Read More](https://medium.com/p/ced381216dae) |
-| Sat, 03 Jan 2026 03:45:42 GMT | Getting Started with DNSenum: A Simple Path to Smarter Reconnaissance | Cybeague Technologies | [Read More](https://medium.com/p/83db123c1a0e) |
-| Sat, 03 Jan 2026 03:36:38 GMT | Facing off with Gandalf Level 1 | Kimberly Ordel | [Read More](https://medium.com/p/23c39e88bc42) |
-| Sat, 03 Jan 2026 03:28:39 GMT | The DNA of a Key User | Sundar R | [Read More](https://medium.com/p/5a12a29fbbba) |
-| Sat, 03 Jan 2026 03:19:00 GMT | A decade in React, JavaScript, and other languages | Joe Alongi | [Read More](https://medium.com/p/17a0b93f7f06) |
-| Sat, 03 Jan 2026 03:04:51 GMT | IDOR Is Not Just id=123: A Simple Guide to Smarter IDOR Hunting | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/5f58de1109dd) |
