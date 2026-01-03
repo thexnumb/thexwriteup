@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 20:33:04 GMT | Security Architecture Design: Why Structure Matters More Than Tools | Glenn Merritt | [Read More](https://medium.com/p/5dff46e6140e) |
 | Sat, 03 Jan 2026 20:22:25 GMT | Predictive Policing and Risk-Based Oversight in Financial and Regulatory Ecosystems | Oleh Dubetcky | [Read More](https://medium.com/p/39da8e118208) |
 | Sat, 03 Jan 2026 20:19:24 GMT | Linux Beginners Fail Because They Copy Commands Without Understanding | Ryvok.Brondich | [Read More](https://medium.com/p/34a59605b847) |
 | Sat, 03 Jan 2026 20:14:48 GMT | The Reality of Paying With Stablecoins Today | Stan4Chainz | [Read More](https://medium.com/p/08a62acdc61f) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 Jan 2026 13:40:16 GMT | Subdomain Enumeration: A Core Technique Every Bug Hunter Must Master | CyberRabbit | [Read More](https://medium.com/p/7e7852f74c28) |
 | Sat, 03 Jan 2026 13:31:46 GMT | In Their Words: “They Gave Us Confidence and Control” — Privacy, security, continuity, AI… | Fook Hwa Tan | [Read More](https://medium.com/p/79aa73be94be) |
 | Sat, 03 Jan 2026 13:30:47 GMT | Today we learn how AES works | Alessandro Alessio | [Read More](https://medium.com/p/d2d1f56747d3) |
-| Sat, 03 Jan 2026 13:29:31 GMT | What Every C-Suite Should Know in 2025 — Your Cybersecurity Executive Briefing | Fook Hwa Tan | [Read More](https://medium.com/p/d9455eb1eb87) |
