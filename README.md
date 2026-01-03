@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 16:48:53 GMT | Server-Side Request Forgery (SSRF) | Cybernight | [Read More](https://medium.com/p/63f4accf706b) |
+| Sat, 03 Jan 2026 16:46:01 GMT | OS Command Injection | Cybernight | [Read More](https://medium.com/p/9872b2c8d3c7) |
+| Sat, 03 Jan 2026 16:35:00 GMT | The Infrastructure We Don’t See Until It Fails | Veda T. Woods | [Read More](https://medium.com/p/41fdde487c7e) |
+| Sat, 03 Jan 2026 16:32:44 GMT | Archangel — TryHackMe Writeup | Shivang Tiwari | [Read More](https://medium.com/p/8320bf47e0cf) |
+| Sat, 03 Jan 2026 16:25:34 GMT | Speeding up the RMF Pipeline Through Proper Automation | Dale Bingham | [Read More](https://medium.com/p/a09b93ff50b4) |
+| Sat, 03 Jan 2026 16:22:51 GMT | Turning Your Firewall into an Enforcement Edge: GitOps for North-South Security | Salwan Mohamed | [Read More](https://medium.com/p/f336d2ca612d) |
 | Sat, 03 Jan 2026 16:18:42 GMT | TryHackme - Empline | ABHISHEK M D | [Read More](https://medium.com/p/dcd85f5e3cc3) |
 | Sat, 03 Jan 2026 16:16:35 GMT | Day 3 — Security Management vs Security Operations vs SOC: How Organizations Actually Stay… | Drishti Pandey | [Read More](https://medium.com/p/8df831d0088c) |
 | Sat, 03 Jan 2026 16:13:23 GMT | Data Poisoning in Industrial AI: When Bad Data Becomes a Production Decision | Muhammad Ali Khan | [Read More](https://medium.com/p/e0b5a90fd078) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 Jan 2026 10:44:47 GMT | Kesalahan Konfigurasi Server Yang Paling Sering Terjadi | Handev Code | [Read More](https://medium.com/p/6831d428d5a5) |
 | Sat, 03 Jan 2026 10:14:57 GMT | Chapter 3: The House With Too Many Open Windows | Fateyaly | [Read More](https://medium.com/p/62aabfac5368) |
 | Sat, 03 Jan 2026 10:09:20 GMT | When We Were Still In Tune (4/5) | Jesse Chang | [Read More](https://medium.com/p/9bd089310a25) |
-| Sat, 03 Jan 2026 10:09:09 GMT | AI Security Conferences — 2026 | Tal Eliyahu | [Read More](https://medium.com/p/62212bbb4107) |
-| Sat, 03 Jan 2026 10:02:52 GMT | 7 Dashboards DeFi PMs Should Check Before Shipping | Praxen | [Read More](https://medium.com/p/e59ce80bce0c) |
-| Sat, 03 Jan 2026 10:02:40 GMT | 7 Bug-Bounty Designs White Hats Actually Trust | Velorum | [Read More](https://medium.com/p/cefdf8a6d0a4) |
-| Sat, 03 Jan 2026 10:02:17 GMT | Vernichtung von Festplatten: Sichere Datenlöschung nach BSI-Standard | Second IT | [Read More](https://medium.com/p/5558df0c2e78) |
-| Sat, 03 Jan 2026 09:57:33 GMT | Bad USB Attacks | Allen Ace | [Read More](https://medium.com/p/f059ab1356c4) |
-| Sat, 03 Jan 2026 09:55:50 GMT | What No One Tells You After You Learn the Basics of Cybersecurity | Satyam Pathania | [Read More](https://medium.com/p/48b4ba0bdb6a) |
