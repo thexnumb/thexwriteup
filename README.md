@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 13:16:57 GMT | How AI Deepfakes Hijack Instincts And What To Do Next | Plaintext with Rich | [Read More](https://medium.com/p/0b30489d8a90) |
+| Sat, 03 Jan 2026 13:16:15 GMT | Middle East Rivalries Without a Regional Order: Yemen, Iran, and the Risks of Competitive Power… | MASUM BILLAH | [Read More](https://medium.com/p/92f26ac7dba7) |
+| Sat, 03 Jan 2026 13:14:21 GMT | Vulnerability Disclosure -Business logic: Browser Restriction Bypass @ Zoho Browser Security Plus | Kartik Lalan | [Read More](https://medium.com/p/fc082c922a55) |
+| Sat, 03 Jan 2026 13:12:54 GMT | How Websites Know Who You Are (Even After You Close the Tab) | Codeandcontext | [Read More](https://medium.com/p/568753bd9997) |
+| Sat, 03 Jan 2026 13:12:19 GMT | Defense Demand, Workforce Clearance & the Florida Intelligence Corridor | Connie Baugher Orlando FL | [Read More](https://medium.com/p/e9ed49c5c1f3) |
+| Sat, 03 Jan 2026 13:07:01 GMT | Not_Petya: The Most Destructive Cyberattack with a Flaw | Vidit Gupta | [Read More](https://medium.com/p/378c4cac6b19) |
+| Sat, 03 Jan 2026 13:06:37 GMT | Penetration Testing Services To Detect Security Gaps | Plutosec Cyber Security | [Read More](https://medium.com/p/7ec836806ec2) |
+| Sat, 03 Jan 2026 12:55:52 GMT | Angular Security : CSRF or XSRF(Cross-Site Request Forgery) Protection | Piyali Das | [Read More](https://medium.com/p/71fed7802484) |
+| Sat, 03 Jan 2026 12:52:44 GMT | Lessons learned lately! | Pramodh Casanova | [Read More](https://medium.com/p/72289b32d381) |
+| Sat, 03 Jan 2026 12:51:49 GMT | Best Data Recovery Services in Dubai: How to Choose the Right One When Data Is on the Line | Datamagicofficial | [Read More](https://medium.com/p/a840b83ef7b4) |
+| Sat, 03 Jan 2026 12:51:17 GMT | Blue Team Level 1 (BTL1) — Review | c1Tz3n | [Read More](https://medium.com/p/6fd122b1fae9) |
+| Sat, 03 Jan 2026 12:50:49 GMT | CompTIA Security+: A Complete Guide to the Essential Cybersecurity Certification | Dinesh Chakra | [Read More](https://medium.com/p/c05bd6907ccd) |
+| Sat, 03 Jan 2026 12:48:41 GMT | Reviewing Alfelix.com: Investment Claims, Red Flags, and What Users Should Verify | TheScamCompass | [Read More](https://medium.com/p/3baec4b0c45d) |
+| Sat, 03 Jan 2026 12:46:33 GMT | Why Cybersecurity Is One of the Fastest-Growing Careers | Edglobalacademy | [Read More](https://medium.com/p/66fa4447380b) |
 | Sat, 03 Jan 2026 12:33:59 GMT | DIY Rubber Ducky Using a Raspberry Pi Pico | Allen Ace | [Read More](https://medium.com/p/5e5b4e3e7ec4) |
 | Sat, 03 Jan 2026 12:33:18 GMT | Case File: 0x01 — Operation “Glass House” | The Knight | [Read More](https://medium.com/p/c4c6b674d83e) |
 | Sat, 03 Jan 2026 12:30:40 GMT | Why Most Cyber Attacks Don’t Use Zero-Days | Gajanan Tayde | [Read More](https://medium.com/p/23b1ead857a2) |
@@ -100,17 +114,3 @@ The internet we use… | Kyro | [Read More](https://medium.com/p/1d68c43e16f3) |
 | Sat, 03 Jan 2026 06:58:48 GMT | Cybersecurity in 2026: Why Ethical Hackers Will Be the Real Digital Defenders | Anders wisdom | [Read More](https://medium.com/p/c1f790bf7f5f) |
 | Sat, 03 Jan 2026 06:36:00 GMT | Why Vibe Coding Creates Security Vulnerabilities (and How to Fix Them) | Sameer | [Read More](https://medium.com/p/a357fcda9114) |
 | Sat, 03 Jan 2026 06:33:10 GMT | ️ MongoBleed Detection: Hunting CVE-2025–14847 | Shreyash Tambe | [Read More](https://medium.com/p/709c2cd68b26) |
-| Sat, 03 Jan 2026 06:31:04 GMT | Advanced WAF Bypass Reflected XSS in search bar | aiden0x | [Read More](https://medium.com/p/38bb918aa3de) |
-| Sat, 03 Jan 2026 06:20:53 GMT | The Silent Takeover: How Chinese Crime Networks Turned Telegram Into a Global Crypto Underworld | Ria | [Read More](https://medium.com/p/9e69b6020096) |
-| Sat, 03 Jan 2026 06:20:00 GMT | Why IT Cost Transparency Is Becoming a Board-Level Metric | Tech Horizon With Anand Vemula | [Read More](https://medium.com/p/bbeccc85cc60) |
-| Sat, 03 Jan 2026 06:13:57 GMT | What Does “No-Logs” Actually Mean? | Secybers VPN | [Read More](https://medium.com/p/ed15db304e0e) |
-| Sat, 03 Jan 2026 06:12:10 GMT | Privacy-Focused VPNs Explained | Secybers VPN | [Read More](https://medium.com/p/803d3286753f) |
-| Sat, 03 Jan 2026 06:01:56 GMT | Hello guys, | Salao | [Read More](https://medium.com/p/c7be5ada0a5b) |
-| Sat, 03 Jan 2026 05:46:08 GMT | Do you use GitHub? You can become a victim of hackers at any moment until they integrate this… | VibeCoders Club | [Read More](https://medium.com/p/0e138b8bbe2b) |
-| Sat, 03 Jan 2026 05:44:54 GMT | Choosing the Right Thermal Scope: Adder TS35–384 or 640×512 Sensor Models? | Night Vision 4 Less | [Read More](https://medium.com/p/9872db765cee) |
-| Sat, 03 Jan 2026 05:44:11 GMT | OverTheWire Bandit (Day 05): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/d6590796d7ad) |
-| Sat, 03 Jan 2026 05:43:34 GMT | Tutorial: How to Locally Host an Offensive Security Focused Model | bm37 | [Read More](https://medium.com/p/64cdbc8d0258) |
-| Sat, 03 Jan 2026 05:35:31 GMT | Light Out, 7B (Part 5) | edarit | [Read More](https://medium.com/p/922472766184) |
-| Sat, 03 Jan 2026 05:32:25 GMT | From WAF Logs to Cloud Metadata: Reconstructing a Real Spring Boot Actuator Breach | Surya Teja | [Read More](https://medium.com/p/7edcef1aaa8a) |
-| Sat, 03 Jan 2026 05:29:15 GMT | YOUR PHONE HAS HIDDEN SENSORS YOU DON’T KNOW ABOUT | Harshit | [Read More](https://medium.com/p/c6fe93b49092) |
-| Sat, 03 Jan 2026 05:23:25 GMT | About Me | Sri Borra | [Read More](https://medium.com/p/243eb6288c2a) |
