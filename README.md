@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 03:04:51 GMT | IDOR Is Not Just id=123: A Simple Guide to Smarter IDOR Hunting | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/5f58de1109dd) |
+| Sat, 03 Jan 2026 02:42:04 GMT | Ultimate Hacking Tools Tier List | Shahzaib | [Read More](https://medium.com/p/7a965b06130e) |
+| Sat, 03 Jan 2026 02:41:49 GMT | Secrets in the Wild (2025): What 18 Months of Monitoring Exposed | Dzianis Skliar | [Read More](https://medium.com/p/8b91962fb316) |
+| Sat, 03 Jan 2026 02:35:53 GMT | Tor is Breaking Up with C: Why the Switch to Rust Matters for Your Privacy | Shadhujan Jeyachandran | [Read More](https://medium.com/p/dbaa08b306b9) |
+| Sat, 03 Jan 2026 02:33:00 GMT | I Thought Intimacy Would Clarify Things. It Didn’t. | Jim McMillen | [Read More](https://medium.com/p/d0b8b3c02b67) |
+| Sat, 03 Jan 2026 02:23:43 GMT | The Illusion of Safety: Why Your WhatsApp Data Is Leaking (And It’s Not the Encryption) | JIN | [Read More](https://medium.com/p/08902021ebe8) |
+| Sat, 03 Jan 2026 02:06:09 GMT | Another Medical Data Breach! The OrthopedicsNY Case | Pipeline | [Read More](https://medium.com/p/d1c34e3393ca) |
+| Sat, 03 Jan 2026 01:50:38 GMT | (Part 11) Mastering the GitHub Copilot Series: How to turn your AI assistant into a first line of… | Nick | [Read More](https://medium.com/p/8eae943776fa) |
+| Sat, 03 Jan 2026 01:49:03 GMT | Library — TryHackMe Easy Challenge — Writeup - by P4NTHR | P4NTHR | [Read More](https://medium.com/p/aad383fb4078) |
 | Sat, 03 Jan 2026 01:25:35 GMT | Strengthening Identity Security with Netwrix Identity Manager (Formerly Usercube) | Aimeric Pouga | [Read More](https://medium.com/p/c84dc558c34c) |
 | Sat, 03 Jan 2026 01:19:20 GMT | Corridor TryHackMe Write UP | cat0x01 | [Read More](https://medium.com/p/7b7e51bccb9f) |
 | Sat, 03 Jan 2026 01:10:49 GMT | I Was Strong, But I Was Also Tired | Udolizgerrie | [Read More](https://medium.com/p/e3159b1ee80c) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 Jan 2026 16:22:49 GMT | Event Security London: Safeguarding Your Corporate Events with WA Event Services | waeventservices.co.uk/ | [Read More](https://medium.com/p/ef033cc580c0) |
 | Fri, 02 Jan 2026 16:20:43 GMT | West Africa’s DDR Crisis: Why Nigeria’s Deradicalization Succeeds Inside and Fails Outside | Oge Samuel Okonkwo | [Read More](https://medium.com/p/f67dc6458d70) |
 | Fri, 02 Jan 2026 16:19:52 GMT | The Evolution of Phishing: How Legitimate Domains Became Weapons of Deception | Azim Uddin | [Read More](https://medium.com/p/2c5490a857b9) |
-| Fri, 02 Jan 2026 16:17:52 GMT | Are Our Digital Freedoms Safe? Lessons from International Law | Ebru | [Read More](https://medium.com/p/36c26700fbce) |
-| Fri, 02 Jan 2026 16:14:52 GMT | Exposing Yet Another Fake Investment Platform: A Familiar Scam Wearing a New Name | TheScamCompass | [Read More](https://medium.com/p/876eff994053) |
-| Fri, 02 Jan 2026 16:13:47 GMT | Post 8: Evolution of IT (Part 2): Partnering with business | SattiData | [Read More](https://medium.com/p/a36d2c51cd3e) |
-| Fri, 02 Jan 2026 16:07:57 GMT | The Powerful Thing about Network Mapping and Why Every Beginner Should Master It | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/059f4df6529a) |
-| Fri, 02 Jan 2026 16:07:26 GMT | Top Five Bug Bounty Platforms for Beginners in 2026 | Muhammad Haider Tallal | [Read More](https://medium.com/p/df24286ea3e0) |
-| Fri, 02 Jan 2026 16:04:38 GMT | 7.0.3 ESXi Arayüzü Temel Bilgi Ve Özetleri | Senyuvafurkan | [Read More](https://medium.com/p/99d21c7ee003) |
-| Fri, 02 Jan 2026 15:59:50 GMT | From Transmission to Storage: Solving the Semantic Translation Gap with Physics-Based Security — A… | Berend Watchus | [Read More](https://medium.com/p/f9c885f9b9fb) |
-| Fri, 02 Jan 2026 15:58:20 GMT | Digitalization as Strategic Leverage: The 4 Billion Lesson from General Electric | Aymaneelyamani | [Read More](https://medium.com/p/a415c5082458) |
-| Fri, 02 Jan 2026 15:56:28 GMT | New Wave of GlassWorm Malware Hits Macs Through Trojanized Cryptocurrency Wallets | Technijian | [Read More](https://medium.com/p/914b3abc1bd5) |
