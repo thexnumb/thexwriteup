@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 20:22:25 GMT | Predictive Policing and Risk-Based Oversight in Financial and Regulatory Ecosystems | Oleh Dubetcky | [Read More](https://medium.com/p/39da8e118208) |
+| Sat, 03 Jan 2026 20:19:24 GMT | Linux Beginners Fail Because They Copy Commands Without Understanding | Ryvok.Brondich | [Read More](https://medium.com/p/34a59605b847) |
+| Sat, 03 Jan 2026 20:14:48 GMT | The Reality of Paying With Stablecoins Today | Stan4Chainz | [Read More](https://medium.com/p/08a62acdc61f) |
+| Sat, 03 Jan 2026 19:44:29 GMT | Broken Authentication Explained: How Attackers Take Over Accounts and How to Prevent It | PriOFF | [Read More](https://medium.com/p/59274bc9f826) |
 | Sat, 03 Jan 2026 19:31:38 GMT | OSI Model vs TCP/IP Model: How Data Really Travels Across Networks | Cavidtaqiyev | [Read More](https://medium.com/p/1ea263601427) |
 | Sat, 03 Jan 2026 19:28:39 GMT | Passwortmanager 2026 — eine nüchterne Einordnung | Benjamin Lembcke | [Read More](https://medium.com/p/d2f13fbd3aac) |
 | Sat, 03 Jan 2026 19:21:43 GMT | (Part 12) Mastering GitHub Copilot Series: Beyond Copilot — Embracing GitHub’s Full Security… | Nick | [Read More](https://medium.com/p/817bd89a6c2b) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 Jan 2026 13:31:46 GMT | In Their Words: “They Gave Us Confidence and Control” — Privacy, security, continuity, AI… | Fook Hwa Tan | [Read More](https://medium.com/p/79aa73be94be) |
 | Sat, 03 Jan 2026 13:30:47 GMT | Today we learn how AES works | Alessandro Alessio | [Read More](https://medium.com/p/d2d1f56747d3) |
 | Sat, 03 Jan 2026 13:29:31 GMT | What Every C-Suite Should Know in 2025 — Your Cybersecurity Executive Briefing | Fook Hwa Tan | [Read More](https://medium.com/p/d9455eb1eb87) |
-| Sat, 03 Jan 2026 13:23:01 GMT | Non-Human Identities: The Overlooked Cloud Security Threat | Thomas Patterson | [Read More](https://medium.com/p/252a434eb6a1) |
-| Sat, 03 Jan 2026 13:21:29 GMT | AWS EC2 - From Zero to Your First Cloud Server | rootRS7 | [Read More](https://medium.com/p/410fc50e89fc) |
-| Sat, 03 Jan 2026 13:17:13 GMT | Mastering Penetration Testing: A Proactive Approach to Cybersecurity | Plutosec Cyber Security | [Read More](https://medium.com/p/cfc59cf756f4) |
-| Sat, 03 Jan 2026 13:16:57 GMT | How AI Deepfakes Hijack Instincts And What To Do Next | Plaintext with Rich | [Read More](https://medium.com/p/0b30489d8a90) |
