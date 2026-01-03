@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 18:20:14 GMT | The “Best” Trap and an Unexpected Relapse | surplus_girl | [Read More](https://medium.com/p/b01358f6107e) |
+| Sat, 03 Jan 2026 18:18:42 GMT | Security Onion 2.4 Installation on VMware (EVAL Mode) | Gatecrasher01 | [Read More](https://medium.com/p/7965cfbaf80d) |
+| Sat, 03 Jan 2026 18:16:27 GMT | The two byte CPDoS | Nigel Kennis | [Read More](https://medium.com/p/1b4466511cf1) |
+| Sat, 03 Jan 2026 18:15:58 GMT | TryHackMe: Hydra - A CTF Write-up | Spiritsimba | [Read More](https://medium.com/p/240eba3850c1) |
+| Sat, 03 Jan 2026 18:10:54 GMT | Network Mapping with Nmap: The Basics of Reconnaissance in Network Security | Habibi | [Read More](https://medium.com/p/17bd48525ae6) |
+| Sat, 03 Jan 2026 18:09:46 GMT | Lab: Weak isolation on dual-use endpoint | Songül Kızılay Özügürler | [Read More](https://medium.com/p/7fab9d7d1411) |
+| Sat, 03 Jan 2026 18:06:54 GMT | SOC Fundamentals and Analyst Workflows | Jenishjoel | [Read More](https://medium.com/p/99a8873e6aeb) |
+| Sat, 03 Jan 2026 18:05:43 GMT | Inside the Blind Spots of Modern Motion Sensors | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/8ae99b061232) |
+| Sat, 03 Jan 2026 18:04:23 GMT | Highly Obfuscated Shai Hulud Variant Targets Dev Environments | Chetan Seripally | [Read More](https://medium.com/p/736adfcc9730) |
+| Sat, 03 Jan 2026 18:03:09 GMT | Fixing “PKIX Path Building Failed” in Spring Boot: Custom Truststores for Feign HTTPS Calls | Kaif Muhammed | [Read More](https://medium.com/p/070a7c88beda) |
+| Sat, 03 Jan 2026 17:59:32 GMT | Dancing — HTB Starting Point | Cosmic Seaborn | [Read More](https://medium.com/p/93d5c08e2304) |
+| Sat, 03 Jan 2026 17:58:28 GMT | Day 1- Starting My SOC Analyst Journey | Swetlana Jha | [Read More](https://medium.com/p/11d60234fbae) |
+| Sat, 03 Jan 2026 17:58:10 GMT | What 30,000+ Cybersecurity Articles Taught Us About the Threat Landscape | James Mockford | [Read More](https://medium.com/p/c0fb8651d4ba) |
+| Sat, 03 Jan 2026 17:49:57 GMT | From Turing to Simpson: Formal Limits on Prediction, Coordination, and Measurement in Cybersecurity… | Boris Loza | [Read More](https://medium.com/p/b203419bbe49) |
+| Sat, 03 Jan 2026 17:45:30 GMT | When Power Replaces The Rule of Law | Williams Appiah Kwapong | [Read More](https://medium.com/p/d6f3e59a1eec) |
+| Sat, 03 Jan 2026 17:45:29 GMT | The Endpoint Was Public for a Reason — The Data Wasn’t | Iski | [Read More](https://medium.com/p/eaac71947415) |
 | Sat, 03 Jan 2026 17:37:38 GMT | How hackers bypass Root Detection like a Pro - Android Pentesting | Blue_eye | [Read More](https://medium.com/p/2da50dccc65b) |
 | Sat, 03 Jan 2026 17:32:23 GMT | Tips & tricks for efficient AWS WAF setup | Ihor Sasovets | [Read More](https://medium.com/p/d43312f3fcf4) |
 | Sat, 03 Jan 2026 17:30:35 GMT | Linux User, Group & Permission Management - Practical Assignment Guide | Philopater Shenouda | [Read More](https://medium.com/p/a8796f762946) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 Jan 2026 12:55:52 GMT | Angular Security : CSRF or XSRF(Cross-Site Request Forgery) Protection | Piyali Das | [Read More](https://medium.com/p/71fed7802484) |
 | Sat, 03 Jan 2026 12:52:44 GMT | Lessons learned lately! | Pramodh Casanova | [Read More](https://medium.com/p/72289b32d381) |
 | Sat, 03 Jan 2026 12:51:49 GMT | Best Data Recovery Services in Dubai: How to Choose the Right One When Data Is on the Line | Datamagicofficial | [Read More](https://medium.com/p/a840b83ef7b4) |
-| Sat, 03 Jan 2026 12:51:17 GMT | Blue Team Level 1 (BTL1) — Review | c1Tz3n | [Read More](https://medium.com/p/6fd122b1fae9) |
-| Sat, 03 Jan 2026 12:50:49 GMT | CompTIA Security+: A Complete Guide to the Essential Cybersecurity Certification | Dinesh Chakra | [Read More](https://medium.com/p/c05bd6907ccd) |
-| Sat, 03 Jan 2026 12:48:41 GMT | Reviewing Alfelix.com: Investment Claims, Red Flags, and What Users Should Verify | TheScamCompass | [Read More](https://medium.com/p/3baec4b0c45d) |
-| Sat, 03 Jan 2026 12:46:33 GMT | Why Cybersecurity Is One of the Fastest-Growing Careers | Edglobalacademy | [Read More](https://medium.com/p/66fa4447380b) |
-| Sat, 03 Jan 2026 12:33:59 GMT | DIY Rubber Ducky Using a Raspberry Pi Pico | Allen Ace | [Read More](https://medium.com/p/5e5b4e3e7ec4) |
-| Sat, 03 Jan 2026 12:33:18 GMT | Case File: 0x01 — Operation “Glass House” | The Knight | [Read More](https://medium.com/p/c4c6b674d83e) |
-| Sat, 03 Jan 2026 12:30:40 GMT | Why Most Cyber Attacks Don’t Use Zero-Days | Gajanan Tayde | [Read More](https://medium.com/p/23b1ead857a2) |
-| Sat, 03 Jan 2026 12:23:58 GMT | JWT Signatures in Production: How Trust Is Actually Verified Behind Stateless Auth | Masum Osman Khan | [Read More](https://medium.com/p/19d652b9fdf0) |
-| Sat, 03 Jan 2026 12:21:38 GMT | CMMC Level 2 Isn’t a Checklist | Janelle Alturki | [Read More](https://medium.com/p/5bdce54afe3b) |
-| Sat, 03 Jan 2026 12:10:40 GMT | TCM- Practical Mobile Pentest Associate (PMPA) Exam Review | Kishor balan | [Read More](https://medium.com/p/a3cdaf53d484) |
-| Sat, 03 Jan 2026 12:02:31 GMT | Identity and Execution Risks in Agentic AI — The Capability Gap (OWASP 2026) | Parminder Singh | [Read More](https://medium.com/p/caf8b8212836) |
-| Sat, 03 Jan 2026 12:02:26 GMT | The 10 Tests That Catch Re-Entrancy Before It Ships | Velorum | [Read More](https://medium.com/p/5cd4ea899261) |
-| Sat, 03 Jan 2026 12:02:26 GMT | The 5 Procurement Patterns for Buying Web3 Infra | Duckweave | [Read More](https://medium.com/p/d2e2253294dc) |
-| Sat, 03 Jan 2026 11:58:11 GMT | Cybersecurity for SMEs: Protecting Your Business in the Digital Banking Era | Oladele Steve | [Read More](https://medium.com/p/1ca54cfbf5d8) |
-| Sat, 03 Jan 2026 11:52:10 GMT | It’s 2026 Already. We Thought We Had Time. | Vijay Kumar Gupta | [Read More](https://medium.com/p/4d445c39a5bf) |
-| Sat, 03 Jan 2026 11:46:35 GMT | Affordable Ethical Hacking Training in Delhi (2026) | Manisha Chaudhary | [Read More](https://medium.com/p/357aaee30520) |
