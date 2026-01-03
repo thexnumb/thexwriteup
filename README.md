@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 14:18:17 GMT | NATO OSINT by CYBER KALKI -BIGGEST INFO EXPOSE INCLUDING ORIGIN IP | ElonMuskTheAntichrist | [Read More](https://medium.com/p/451a278dfde6) |
+| Sat, 03 Jan 2026 14:18:10 GMT | When Network+ Exam Questions Start to Feel Irritating: The Ethical Hacker’s Dilemma | Mbcyberworks | [Read More](https://medium.com/p/f545c02d9cbb) |
+| Sat, 03 Jan 2026 14:18:02 GMT | Don’t Store Passwords or Keys in Environment Variables | SeQEW | [Read More](https://medium.com/p/3badab74ee0f) |
+| Sat, 03 Jan 2026 14:17:56 GMT | Your Cybersecurity Salary Is Only One Income Stream (Why That Matters in 2026) | Ganiyah Otubambo | [Read More](https://medium.com/p/99ed6d6bb0f8) |
+| Sat, 03 Jan 2026 14:09:08 GMT | How I’m Transitioning from Programming to CyberOps (And What I’ve Learned So Far) | Sulaimon Quadri Dolapo | [Read More](https://medium.com/p/a8b0ffe5eefa) |
+| Sat, 03 Jan 2026 14:06:57 GMT | Hacking NASA: How I Disclosed a Data Exposure Vulnerability to the U.S. Government️ | Nicholas Mullenski | [Read More](https://medium.com/p/a37217e7e937) |
+| Sat, 03 Jan 2026 14:01:20 GMT | The Silent Guardian: How AI in NVRs Is Revolutionizing Security (And Why You Should Care) | Tavan CCTV | [Read More](https://medium.com/p/5fe350bf7260) |
+| Sat, 03 Jan 2026 14:00:50 GMT | Windows 10 vs Windows 11: The Security Gap That Actually Matters (2026 Offensive & Defensive View) | Yua Mikanana | [Read More](https://medium.com/p/c90ae02ba485) |
+| Sat, 03 Jan 2026 13:48:55 GMT | Top 10 AI Security 2025 Thought Leaders | Tal Eliyahu | [Read More](https://medium.com/p/e15d3c5324cc) |
+| Sat, 03 Jan 2026 13:43:45 GMT | USDT Frozen Due to AML History: How Zcash (ZEC) Helped — and Why I Often Prefer It to Monero (XMR) | Grutin Danil | [Read More](https://medium.com/p/ae215dbdf8c1) |
+| Sat, 03 Jan 2026 13:42:22 GMT | Next-Generation Firewalls: Smarter Network Protection for Modern Businesses | ANSI Technologies | [Read More](https://medium.com/p/b99c4f41cf17) |
 | Sat, 03 Jan 2026 13:40:16 GMT | Subdomain Enumeration: A Core Technique Every Bug Hunter Must Master | CyberRabbit | [Read More](https://medium.com/p/7e7852f74c28) |
 | Sat, 03 Jan 2026 13:31:46 GMT | In Their Words: “They Gave Us Confidence and Control” — Privacy, security, continuity, AI… | Fook Hwa Tan | [Read More](https://medium.com/p/79aa73be94be) |
 | Sat, 03 Jan 2026 13:30:47 GMT | Today we learn how AES works | Alessandro Alessio | [Read More](https://medium.com/p/d2d1f56747d3) |
@@ -103,14 +114,3 @@ The internet we use… | Kyro | [Read More](https://medium.com/p/1d68c43e16f3) |
 | Sat, 03 Jan 2026 07:54:30 GMT | A Beginner’s Guide to OSINT: 5 Tools That Turn Your Browser into a Detective Agency. | Shamsuddeen Isah | [Read More](https://medium.com/p/0c8d79531b3c) |
 | Sat, 03 Jan 2026 07:53:56 GMT | Letting Things Flow Feels Easy to Say and Hard to Live By | AfterRainWrites | [Read More](https://medium.com/p/ddfa66105ba2) |
 | Sat, 03 Jan 2026 07:53:52 GMT | TryHackMe: Carrotbane of My Existence Writeup | cbev | [Read More](https://medium.com/p/a9e72810020b) |
-| Sat, 03 Jan 2026 07:47:47 GMT | HashiCorp Vault Exposed Endpoints: How Simple Recon Led to a Paid Bug Bounty of $50 dollar | @Sauravkrish | [Read More](https://medium.com/p/8454609b523b) |
-| Sat, 03 Jan 2026 07:42:35 GMT | Networking concepts | TheNotorious | [Read More](https://medium.com/p/7012551b78d0) |
-| Sat, 03 Jan 2026 07:42:32 GMT | The 1.8MB Mistake: Leaking Thousands of Government Users via a Liferay API | LETCHU PKT | [Read More](https://medium.com/p/1b07f89f7362) |
-| Sat, 03 Jan 2026 07:37:40 GMT | Physical Security Barriers by Leading Safety & Security and Guarding Services in Saudi Arabia | Jaseela K | [Read More](https://medium.com/p/05719c87b7b8) |
-| Sat, 03 Jan 2026 07:37:10 GMT | The Cryptography Concept Journey — CRL (Certificate Revocation List) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/6b82b6c58656) |
-| Sat, 03 Jan 2026 07:31:48 GMT | Understanding Saudi Arabia’s NCA Essential Cybersecurity Controls (ECC): A Practical Perspective | Mohamed Basil | [Read More](https://medium.com/p/9c00ccc4393c) |
-| Sat, 03 Jan 2026 07:29:53 GMT | Why VPNs Are Expanding Your Attack Surface | OBED ONYEDIKA INYA | [Read More](https://medium.com/p/3c6295cd087d) |
-| Sat, 03 Jan 2026 07:22:21 GMT | Why Auth0 email_verified Was Missing from My Access Token (And How to Fix It) | Anand | [Read More](https://medium.com/p/946ebb289353) |
-| Sat, 03 Jan 2026 07:17:39 GMT | Linux Is Secure Until You Log In | Pawan Natekar | [Read More](https://medium.com/p/94c1102be22b) |
-| Sat, 03 Jan 2026 07:17:01 GMT | SSRF with Whitelist-Based Input Filter | Bash Overflow | [Read More](https://medium.com/p/431ae4a77c61) |
-| Sat, 03 Jan 2026 07:11:52 GMT | CRTA — A review | Daniel Scragg | [Read More](https://medium.com/p/0c102cd4b287) |
