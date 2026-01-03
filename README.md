@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 04:51:43 GMT | How Poor Router Configuration Invites Cyber Risks | Ask IT Support | [Read More](https://medium.com/p/70a932611396) |
+| Sat, 03 Jan 2026 04:51:08 GMT | Once a Secret Hits Git, It’s Compromised Forever: Use Pre‑Commit Scanning | Sachin Kasana | [Read More](https://medium.com/p/7faef6f5a3b8) |
 | Sat, 03 Jan 2026 04:47:09 GMT | Deception Scenario How Inverted Social Engineering is Redefining the Web3 Recruitment Trap | Aris Haryanto | [Read More](https://medium.com/p/f02b387cd6df) |
 | Sat, 03 Jan 2026 04:32:37 GMT | When Solar Goes Online: Understanding the Cybersecurity Risks Facing Modern Solar Power Systems | Deven Chhajed | [Read More](https://medium.com/p/0d6a4d6a31b1) |
 | Sat, 03 Jan 2026 04:29:04 GMT | ☕ CISSP Domain 3: Coffee Shots Edition | Pushpak Sharma | [Read More](https://medium.com/p/0ec58338fdc3) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 Jan 2026 17:42:18 GMT | I Claimed a Free Game… and It Never Showed Up | Sudharsan K | [Read More](https://medium.com/p/cc17c37fca83) |
 | Fri, 02 Jan 2026 17:37:23 GMT | When Love Feels One-Sided | WordsbyBano | [Read More](https://medium.com/p/7eaf6576761e) |
 | Fri, 02 Jan 2026 17:34:57 GMT | The Power of Passive Reconnaissance | Daemi Jack | [Read More](https://medium.com/p/8a72f9095f1a) |
-| Fri, 02 Jan 2026 17:34:47 GMT | How to Start a Career in Cybersecurity (Without Feeling Overwhelmed) | Education Technology Summit | [Read More](https://medium.com/p/c99c019cf8ce) |
-| Fri, 02 Jan 2026 17:33:29 GMT | Unified — HTB Starting Point | Cosmic Seaborn | [Read More](https://medium.com/p/b0d75f71a0e7) |
