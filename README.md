@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 21:07:29 GMT | Race Conditions - Vulnerability | AJ GUIN | [Read More](https://medium.com/p/5d0bfb07dcda) |
+| Sat, 03 Jan 2026 21:01:58 GMT | The Loneliness I Didn’t Expect… | Okuruesther | [Read More](https://medium.com/p/c4427252c868) |
+| Sat, 03 Jan 2026 20:53:06 GMT | Threat modeling for 2025 : Why most organizations still get it wrong | Soundarya Vasista | [Read More](https://medium.com/p/a9e9c2dd2b77) |
+| Sat, 03 Jan 2026 20:51:46 GMT | The Sad State of Software Going into 2026 | David Barrineau | [Read More](https://medium.com/p/c6d042ae251e) |
 | Sat, 03 Jan 2026 20:33:04 GMT | Security Architecture Design: Why Structure Matters More Than Tools | Glenn Merritt | [Read More](https://medium.com/p/5dff46e6140e) |
 | Sat, 03 Jan 2026 20:22:25 GMT | Predictive Policing and Risk-Based Oversight in Financial and Regulatory Ecosystems | Oleh Dubetcky | [Read More](https://medium.com/p/39da8e118208) |
 | Sat, 03 Jan 2026 20:19:24 GMT | Linux Beginners Fail Because They Copy Commands Without Understanding | Ryvok.Brondich | [Read More](https://medium.com/p/34a59605b847) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 Jan 2026 14:00:50 GMT | Windows 10 vs Windows 11: The Security Gap That Actually Matters (2026 Offensive & Defensive View) | Yua Mikanana | [Read More](https://medium.com/p/c90ae02ba485) |
 | Sat, 03 Jan 2026 13:48:55 GMT | Top 10 AI Security 2025 Thought Leaders | Tal Eliyahu | [Read More](https://medium.com/p/e15d3c5324cc) |
 | Sat, 03 Jan 2026 13:43:45 GMT | USDT Frozen Due to AML History: How Zcash (ZEC) Helped — and Why I Often Prefer It to Monero (XMR) | Grutin Danil | [Read More](https://medium.com/p/ae215dbdf8c1) |
-| Sat, 03 Jan 2026 13:42:22 GMT | Next-Generation Firewalls: Smarter Network Protection for Modern Businesses | ANSI Technologies | [Read More](https://medium.com/p/b99c4f41cf17) |
-| Sat, 03 Jan 2026 13:40:16 GMT | Subdomain Enumeration: A Core Technique Every Bug Hunter Must Master | CyberRabbit | [Read More](https://medium.com/p/7e7852f74c28) |
-| Sat, 03 Jan 2026 13:31:46 GMT | In Their Words: “They Gave Us Confidence and Control” — Privacy, security, continuity, AI… | Fook Hwa Tan | [Read More](https://medium.com/p/79aa73be94be) |
-| Sat, 03 Jan 2026 13:30:47 GMT | Today we learn how AES works | Alessandro Alessio | [Read More](https://medium.com/p/d2d1f56747d3) |
