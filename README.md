@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 03:53:30 GMT | Taking Back the Internet’s “Phonebook”: A Practical Guide to NextDNS | zⅿеғ | [Read More](https://medium.com/p/19bd2a3001dc) |
+| Sat, 03 Jan 2026 03:50:50 GMT | CVE-2025–68613 — Understanding How a Trust Boundary Shifted in n8n | Nithish Madduri | [Read More](https://medium.com/p/b2c7d03f9dac) |
+| Sat, 03 Jan 2026 03:50:18 GMT | I Tried to Break My Own AI Link Detector | Robi Kumar Tomar | [Read More](https://medium.com/p/2e42c3f76b99) |
+| Sat, 03 Jan 2026 03:46:41 GMT | Unlocking the Power of DNSenum: Advanced Recon Techniques for Professionals | Cybeague Technologies | [Read More](https://medium.com/p/ced381216dae) |
+| Sat, 03 Jan 2026 03:45:42 GMT | Getting Started with DNSenum: A Simple Path to Smarter Reconnaissance | Cybeague Technologies | [Read More](https://medium.com/p/83db123c1a0e) |
+| Sat, 03 Jan 2026 03:36:38 GMT | Facing off with Gandalf Level 1 | Kimberly Ordel | [Read More](https://medium.com/p/23c39e88bc42) |
+| Sat, 03 Jan 2026 03:28:39 GMT | The DNA of a Key User | Sundar R | [Read More](https://medium.com/p/5a12a29fbbba) |
+| Sat, 03 Jan 2026 03:19:00 GMT | A decade in React, JavaScript, and other languages | Joe Alongi | [Read More](https://medium.com/p/17a0b93f7f06) |
 | Sat, 03 Jan 2026 03:04:51 GMT | IDOR Is Not Just id=123: A Simple Guide to Smarter IDOR Hunting | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/5f58de1109dd) |
 | Sat, 03 Jan 2026 02:42:04 GMT | Ultimate Hacking Tools Tier List | Shahzaib | [Read More](https://medium.com/p/7a965b06130e) |
 | Sat, 03 Jan 2026 02:41:49 GMT | Secrets in the Wild (2025): What 18 Months of Monitoring Exposed | Dzianis Skliar | [Read More](https://medium.com/p/8b91962fb316) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 Jan 2026 17:02:27 GMT | Using user32.dll to show Message Boxes using Go | Michael H. | [Read More](https://medium.com/p/40f1204267de) |
 | Fri, 02 Jan 2026 16:48:39 GMT | ProtonVPN…Truly the Best for Privacy? | Dmitry Mikhailov | [Read More](https://medium.com/p/f0ff3fb84452) |
 | Fri, 02 Jan 2026 16:47:08 GMT | How Attackers Bypass OTP Authentication | Gatecrasher01 | [Read More](https://medium.com/p/ca4c7ad10468) |
-| Fri, 02 Jan 2026 16:38:51 GMT | Legit Cloud Emails Also Become the Phish | Medjue Gore | [Read More](https://medium.com/p/dbc15430776a) |
-| Fri, 02 Jan 2026 16:38:16 GMT | Vulnub: Mr-Robot: 1: CTF Çözümü | Azat Dicle | [Read More](https://medium.com/p/eaf28546201b) |
-| Fri, 02 Jan 2026 16:36:09 GMT | Cyber Security Maturity in 2026: An Executive Summary to Stakeholders | Ricardo Newman | [Read More](https://medium.com/p/238696fc0da8) |
-| Fri, 02 Jan 2026 16:32:34 GMT | Securing My Ubuntu Server — Part 1: Initial Setup, User Management, and System Hardening | Annurdien Rasyid | [Read More](https://medium.com/p/5dce8f858dd8) |
-| Fri, 02 Jan 2026 16:32:25 GMT | Think Twice Before Pasting: The Dangerous Evolution of ClickFix Social Engineering Attacks | Hexucated | [Read More](https://medium.com/p/1da51f36c44b) |
-| Fri, 02 Jan 2026 16:22:49 GMT | Event Security London: Safeguarding Your Corporate Events with WA Event Services | waeventservices.co.uk/ | [Read More](https://medium.com/p/ef033cc580c0) |
-| Fri, 02 Jan 2026 16:20:43 GMT | West Africa’s DDR Crisis: Why Nigeria’s Deradicalization Succeeds Inside and Fails Outside | Oge Samuel Okonkwo | [Read More](https://medium.com/p/f67dc6458d70) |
-| Fri, 02 Jan 2026 16:19:52 GMT | The Evolution of Phishing: How Legitimate Domains Became Weapons of Deception | Azim Uddin | [Read More](https://medium.com/p/2c5490a857b9) |
