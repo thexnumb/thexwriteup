@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 04:47:09 GMT | Deception Scenario How Inverted Social Engineering is Redefining the Web3 Recruitment Trap | Aris Haryanto | [Read More](https://medium.com/p/f02b387cd6df) |
+| Sat, 03 Jan 2026 04:32:37 GMT | When Solar Goes Online: Understanding the Cybersecurity Risks Facing Modern Solar Power Systems | Deven Chhajed | [Read More](https://medium.com/p/0d6a4d6a31b1) |
+| Sat, 03 Jan 2026 04:29:04 GMT | ☕ CISSP Domain 3: Coffee Shots Edition | Pushpak Sharma | [Read More](https://medium.com/p/0ec58338fdc3) |
+| Sat, 03 Jan 2026 04:28:52 GMT | Ethical hacking training Hyderabad | APEC EDU | [Read More](https://medium.com/p/83b68384dd05) |
+| Sat, 03 Jan 2026 04:28:25 GMT | OpenAI Just Admitted AI Has Entered a Dangerous New Phase | Willow Tech | [Read More](https://medium.com/p/b8c1e7c62f66) |
+| Sat, 03 Jan 2026 04:24:16 GMT | AI‑Assisted Pentesting with Burp Suite and Claude | Surya | [Read More](https://medium.com/p/b09a2cc7b5a0) |
+| Sat, 03 Jan 2026 04:22:12 GMT | Facing off with Gandalf Level 2 | Kimberly Ordel | [Read More](https://medium.com/p/95e1a1c26cf2) |
+| Sat, 03 Jan 2026 04:20:21 GMT | 2026 and Cyber Attacks. | Nithin | [Read More](https://medium.com/p/4bfc39e70d58) |
+| Sat, 03 Jan 2026 04:15:10 GMT | How to Protect your phone from hackers (Simple students guide for students) | NaijaCyberGuide | [Read More](https://medium.com/p/5aac2959ee29) |
+| Sat, 03 Jan 2026 04:13:13 GMT | why “I care” can feel so hard to say | Elena | [Read More](https://medium.com/p/cad00f02c939) |
 | Sat, 03 Jan 2026 03:53:30 GMT | Taking Back the Internet’s “Phonebook”: A Practical Guide to NextDNS | zⅿеғ | [Read More](https://medium.com/p/19bd2a3001dc) |
 | Sat, 03 Jan 2026 03:50:50 GMT | CVE-2025–68613 — Understanding How a Trust Boundary Shifted in n8n | Nithish Madduri | [Read More](https://medium.com/p/b2c7d03f9dac) |
 | Sat, 03 Jan 2026 03:50:18 GMT | I Tried to Break My Own AI Link Detector | Robi Kumar Tomar | [Read More](https://medium.com/p/2e42c3f76b99) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 02 Jan 2026 17:34:57 GMT | The Power of Passive Reconnaissance | Daemi Jack | [Read More](https://medium.com/p/8a72f9095f1a) |
 | Fri, 02 Jan 2026 17:34:47 GMT | How to Start a Career in Cybersecurity (Without Feeling Overwhelmed) | Education Technology Summit | [Read More](https://medium.com/p/c99c019cf8ce) |
 | Fri, 02 Jan 2026 17:33:29 GMT | Unified — HTB Starting Point | Cosmic Seaborn | [Read More](https://medium.com/p/b0d75f71a0e7) |
-| Fri, 02 Jan 2026 17:31:02 GMT | TRP00F — Semi-Automated Linux Privilege Escalation Exploit | Мартин. | [Read More](https://medium.com/p/829da1c4141e) |
-| Fri, 02 Jan 2026 17:30:36 GMT | SOC Role in Blue Team - TryHackMe Walkthrough | Harinsu Bandara | [Read More](https://medium.com/p/ae420078f765) |
-| Fri, 02 Jan 2026 17:26:44 GMT | AI Wrapped 2025: What Actually Happened | Jackson Aaron | [Read More](https://medium.com/p/26299a1f04df) |
-| Fri, 02 Jan 2026 17:20:24 GMT | The IT industry is stupid | Nikola Shekerev | [Read More](https://medium.com/p/ff9998ebf4df) |
-| Fri, 02 Jan 2026 17:20:23 GMT | Operational Technology Discovery: A Systematic Approach to ICS OSINT | Maxi | [Read More](https://medium.com/p/b0684035a94b) |
-| Fri, 02 Jan 2026 17:14:25 GMT | Bandit Level 9 → Level 10 | Sivanesan M | [Read More](https://medium.com/p/5949b2055974) |
-| Fri, 02 Jan 2026 17:05:13 GMT | What Is JWT(Json Web Token)? | Hari Sharma | [Read More](https://medium.com/p/ccb5c8c385ba) |
-| Fri, 02 Jan 2026 17:02:27 GMT | Using user32.dll to show Message Boxes using Go | Michael H. | [Read More](https://medium.com/p/40f1204267de) |
-| Fri, 02 Jan 2026 16:48:39 GMT | ProtonVPN…Truly the Best for Privacy? | Dmitry Mikhailov | [Read More](https://medium.com/p/f0ff3fb84452) |
-| Fri, 02 Jan 2026 16:47:08 GMT | How Attackers Bypass OTP Authentication | Gatecrasher01 | [Read More](https://medium.com/p/ca4c7ad10468) |
