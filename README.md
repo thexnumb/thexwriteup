@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 12:33:59 GMT | DIY Rubber Ducky Using a Raspberry Pi Pico | Allen Ace | [Read More](https://medium.com/p/5e5b4e3e7ec4) |
+| Sat, 03 Jan 2026 12:33:18 GMT | Case File: 0x01 — Operation “Glass House” | The Knight | [Read More](https://medium.com/p/c4c6b674d83e) |
+| Sat, 03 Jan 2026 12:30:40 GMT | Why Most Cyber Attacks Don’t Use Zero-Days | Gajanan Tayde | [Read More](https://medium.com/p/23b1ead857a2) |
+| Sat, 03 Jan 2026 12:23:58 GMT | JWT Signatures in Production: How Trust Is Actually Verified Behind Stateless Auth | Masum Osman Khan | [Read More](https://medium.com/p/19d652b9fdf0) |
+| Sat, 03 Jan 2026 12:21:38 GMT | CMMC Level 2 Isn’t a Checklist | Janelle Alturki | [Read More](https://medium.com/p/5bdce54afe3b) |
+| Sat, 03 Jan 2026 12:10:40 GMT | TCM- Practical Mobile Pentest Associate (PMPA) Exam Review | Kishor balan | [Read More](https://medium.com/p/a3cdaf53d484) |
+| Sat, 03 Jan 2026 12:02:31 GMT | Identity and Execution Risks in Agentic AI — The Capability Gap (OWASP 2026) | Parminder Singh | [Read More](https://medium.com/p/caf8b8212836) |
+| Sat, 03 Jan 2026 12:02:26 GMT | The 10 Tests That Catch Re-Entrancy Before It Ships | Velorum | [Read More](https://medium.com/p/5cd4ea899261) |
+| Sat, 03 Jan 2026 12:02:26 GMT | The 5 Procurement Patterns for Buying Web3 Infra | Duckweave | [Read More](https://medium.com/p/d2e2253294dc) |
+| Sat, 03 Jan 2026 11:58:11 GMT | Cybersecurity for SMEs: Protecting Your Business in the Digital Banking Era | Oladele Steve | [Read More](https://medium.com/p/1ca54cfbf5d8) |
+| Sat, 03 Jan 2026 11:52:10 GMT | It’s 2026 Already. We Thought We Had Time. | Vijay Kumar Gupta | [Read More](https://medium.com/p/4d445c39a5bf) |
+| Sat, 03 Jan 2026 11:46:35 GMT | Affordable Ethical Hacking Training in Delhi (2026) | Manisha Chaudhary | [Read More](https://medium.com/p/357aaee30520) |
 | Sat, 03 Jan 2026 11:33:53 GMT | A Guide to Multi-Tenancy in Spring Boot | Bharat Aggarwal | [Read More](https://medium.com/p/bd5260ef2d52) |
 | Sat, 03 Jan 2026 11:20:56 GMT | Linux Privilege Escalation via cap_setuid: Gaining Root with Python | virexil.null | [Read More](https://medium.com/p/ecca7cab716e) |
 | Sat, 03 Jan 2026 11:12:33 GMT | Security is Not an Afterthought: Shift-Left with Gitleaks, Trivy & Cosign | Abhishek Panda | [Read More](https://medium.com/p/470046fb0b1c) |
@@ -102,16 +114,3 @@ The internet we use… | Kyro | [Read More](https://medium.com/p/1d68c43e16f3) |
 | Sat, 03 Jan 2026 05:32:25 GMT | From WAF Logs to Cloud Metadata: Reconstructing a Real Spring Boot Actuator Breach | Surya Teja | [Read More](https://medium.com/p/7edcef1aaa8a) |
 | Sat, 03 Jan 2026 05:29:15 GMT | YOUR PHONE HAS HIDDEN SENSORS YOU DON’T KNOW ABOUT | Harshit | [Read More](https://medium.com/p/c6fe93b49092) |
 | Sat, 03 Jan 2026 05:23:25 GMT | About Me | Sri Borra | [Read More](https://medium.com/p/243eb6288c2a) |
-| Sat, 03 Jan 2026 05:23:18 GMT | How to Find 8 Hour Security Guard Jobs Near Hisar Haryana | Lakshay Security | [Read More](https://medium.com/p/29b53fbe63d3) |
-| Sat, 03 Jan 2026 05:18:46 GMT | Digital Arrest Scams: How 2025 Exposed the Most Dangerous Cybercrime Pattern in India
-In 2025… | Ankit rai | [Read More](https://medium.com/p/43eba7f463b6) |
-| Sat, 03 Jan 2026 05:17:37 GMT | AI Content Creation in 2026: A Beginner’s Guide to Scaling Your Strategy with Precision | Shahibur Rahman | [Read More](https://medium.com/p/c35781bc0e65) |
-| Sat, 03 Jan 2026 04:51:43 GMT | How Poor Router Configuration Invites Cyber Risks | Ask IT Support | [Read More](https://medium.com/p/70a932611396) |
-| Sat, 03 Jan 2026 04:51:08 GMT | Once a Secret Hits Git, It’s Compromised Forever: Use Pre‑Commit Scanning | Sachin Kasana | [Read More](https://medium.com/p/7faef6f5a3b8) |
-| Sat, 03 Jan 2026 04:47:09 GMT | Deception Scenario How Inverted Social Engineering is Redefining the Web3 Recruitment Trap | Aris Haryanto | [Read More](https://medium.com/p/f02b387cd6df) |
-| Sat, 03 Jan 2026 04:32:37 GMT | When Solar Goes Online: Understanding the Cybersecurity Risks Facing Modern Solar Power Systems | Deven Chhajed | [Read More](https://medium.com/p/0d6a4d6a31b1) |
-| Sat, 03 Jan 2026 04:29:04 GMT | ☕ CISSP Domain 3: Coffee Shots Edition | Pushpak Sharma | [Read More](https://medium.com/p/0ec58338fdc3) |
-| Sat, 03 Jan 2026 04:28:52 GMT | Ethical hacking training Hyderabad | APEC EDU | [Read More](https://medium.com/p/83b68384dd05) |
-| Sat, 03 Jan 2026 04:28:25 GMT | OpenAI Just Admitted AI Has Entered a Dangerous New Phase | Willow Tech | [Read More](https://medium.com/p/b8c1e7c62f66) |
-| Sat, 03 Jan 2026 04:24:16 GMT | AI‑Assisted Pentesting with Burp Suite and Claude | Surya | [Read More](https://medium.com/p/b09a2cc7b5a0) |
-| Sat, 03 Jan 2026 04:22:12 GMT | Facing off with Gandalf Level 2 | Kimberly Ordel | [Read More](https://medium.com/p/95e1a1c26cf2) |
