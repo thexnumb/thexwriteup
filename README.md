@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 08:44:40 GMT | The top 10 most trending/high-demand skills ranking remains based on the ongoing 2025–2026. | Akovojehun Gbenupo Ezekiel | [Read More](https://medium.com/p/97d74a9571ce) |
+| Sat, 03 Jan 2026 08:41:52 GMT | How AI Helps Developers Fix Security Issues Faster | Ashwani Mahajan | [Read More](https://medium.com/p/5926fd00a81e) |
+| Sat, 03 Jan 2026 08:37:40 GMT | West Africa’s Climate-Conflict Connection: How Lake Chad’s Collapse Enabled Insurgency | Oge Samuel Okonkwo | [Read More](https://medium.com/p/38d7a3b24475) |
+| Sat, 03 Jan 2026 08:37:08 GMT | Déployer un lab Active Directory avec ludus sur Proxmox | nobisd | [Read More](https://medium.com/p/cff8a406bd84) |
+| Sat, 03 Jan 2026 08:34:18 GMT | Mouse Cursor Disappearing in Kali Linux on VMware? Fix with a Hardware Compatibility Update | Abrar Bin Habib | [Read More](https://medium.com/p/e5273822b351) |
+| Sat, 03 Jan 2026 08:30:27 GMT | Vulnerability Management Often Misrepresents Risk | Ashwani Mahajan | [Read More](https://medium.com/p/e0acaac6a226) |
+| Sat, 03 Jan 2026 08:29:51 GMT | Fastest Way to Crawl JavaScript Files for Sensitive Data Exposure - The Best Bug Bounty Pipeline… | Alham Rizvi | [Read More](https://medium.com/p/1851e994b73f) |
+| Sat, 03 Jan 2026 08:28:06 GMT | Top Ethical Hacking Winter Internship Program for Freshers | cyber security Updates | [Read More](https://medium.com/p/cf1c2227132b) |
 | Sat, 03 Jan 2026 08:23:27 GMT | Penetration Testing Training and Certification in India (2026) | Manisha Chaudhary | [Read More](https://medium.com/p/2d67adfc59fa) |
 | Sat, 03 Jan 2026 08:14:51 GMT | The Dark Web: Unveiling the Invisible World of the Internet
 Researcher: Kyro
@@ -107,11 +115,3 @@ In 2025… | Ankit rai | [Read More](https://medium.com/p/43eba7f463b6) |
 | Fri, 02 Jan 2026 23:12:58 GMT | Enhancing End-User Awareness in the Mobile World: Silent Execution | Hamit CİBO | [Read More](https://medium.com/p/463d26f89134) |
 | Fri, 02 Jan 2026 23:05:49 GMT | Content Discovery - TryHackMe Walkthrough | David Ajuzie | [Read More](https://medium.com/p/c8d319ea2f1a) |
 | Fri, 02 Jan 2026 23:03:50 GMT | The Semiconductor Paradox: Why Taiwan’s Most Valuable Factories Are Economically Fragile Under… | Berend Watchus | [Read More](https://medium.com/p/5362d5eca955) |
-| Fri, 02 Jan 2026 22:43:31 GMT | Recomendações de livros sobre malware | Eloisa Potrich | [Read More](https://medium.com/p/717eaba101ae) |
-| Fri, 02 Jan 2026 22:38:58 GMT | TryHackMe: SOC Simulator | Cyberpatriot | [Read More](https://medium.com/p/0fa123f8b849) |
-| Fri, 02 Jan 2026 22:27:45 GMT | El comienzo de algo grande…. | N1sec | [Read More](https://medium.com/p/0550de248a56) |
-| Fri, 02 Jan 2026 22:15:56 GMT | ROUTER Nedir? Ne işe Yarar? | Melih Yalnız | [Read More](https://medium.com/p/b0f3de5ee680) |
-| Fri, 02 Jan 2026 22:15:37 GMT | The End of AI Hallucinations in Enterprise Software: How we built the Pointer Reference Protocol… | Urano Project | [Read More](https://medium.com/p/98bedf5829ff) |
-| Fri, 02 Jan 2026 22:14:23 GMT | WebStrike Lab—CyberDefenders (Write-up) | Gideon Egyabeng | [Read More](https://medium.com/p/ef218eac273c) |
-| Fri, 02 Jan 2026 22:03:03 GMT | How to Spot and Stop AI Voice Cloning Scam Before It’s too Late | Ajekigbe Michael. A | [Read More](https://medium.com/p/cea48cf11a46) |
-| Fri, 02 Jan 2026 21:59:56 GMT | My Life as a Buggy Program: A Developer’s Autobiography | Taiwo O. Adetiloye | [Read More](https://medium.com/p/82ac825195c7) |
