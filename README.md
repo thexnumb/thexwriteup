@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 06:20:53 GMT | The Silent Takeover: How Chinese Crime Networks Turned Telegram Into a Global Crypto Underworld | Ria | [Read More](https://medium.com/p/9e69b6020096) |
+| Sat, 03 Jan 2026 06:20:00 GMT | Why IT Cost Transparency Is Becoming a Board-Level Metric | Tech Horizon With Anand Vemula | [Read More](https://medium.com/p/bbeccc85cc60) |
+| Sat, 03 Jan 2026 06:13:57 GMT | What Does “No-Logs” Actually Mean? | Secybers VPN | [Read More](https://medium.com/p/ed15db304e0e) |
+| Sat, 03 Jan 2026 06:12:10 GMT | Privacy-Focused VPNs Explained | Secybers VPN | [Read More](https://medium.com/p/803d3286753f) |
+| Sat, 03 Jan 2026 06:01:56 GMT | Hello guys, | Salao | [Read More](https://medium.com/p/c7be5ada0a5b) |
+| Sat, 03 Jan 2026 05:46:08 GMT | Do you use GitHub? You can become a victim of hackers at any moment until they integrate this… | VibeCoders Club | [Read More](https://medium.com/p/0e138b8bbe2b) |
 | Sat, 03 Jan 2026 05:44:54 GMT | Choosing the Right Thermal Scope: Adder TS35–384 or 640×512 Sensor Models? | Night Vision 4 Less | [Read More](https://medium.com/p/9872db765cee) |
+| Sat, 03 Jan 2026 05:44:11 GMT | OverTheWire Bandit (Day 05): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/d6590796d7ad) |
+| Sat, 03 Jan 2026 05:43:34 GMT | Tutorial: How to Locally Host an Offensive Security Focused Model | bm37 | [Read More](https://medium.com/p/64cdbc8d0258) |
 | Sat, 03 Jan 2026 05:35:31 GMT | Light Out, 7B (Part 5) | edarit | [Read More](https://medium.com/p/922472766184) |
+| Sat, 03 Jan 2026 05:32:25 GMT | From WAF Logs to Cloud Metadata: Reconstructing a Real Spring Boot Actuator Breach | Surya Teja | [Read More](https://medium.com/p/7edcef1aaa8a) |
 | Sat, 03 Jan 2026 05:29:15 GMT | YOUR PHONE HAS HIDDEN SENSORS YOU DON’T KNOW ABOUT | Harshit | [Read More](https://medium.com/p/c6fe93b49092) |
 | Sat, 03 Jan 2026 05:23:25 GMT | About Me | Sri Borra | [Read More](https://medium.com/p/243eb6288c2a) |
 | Sat, 03 Jan 2026 05:23:18 GMT | How to Find 8 Hour Security Guard Jobs Near Hisar Haryana | Lakshay Security | [Read More](https://medium.com/p/29b53fbe63d3) |
@@ -104,12 +113,3 @@ In 2025… | Ankit rai | [Read More](https://medium.com/p/43eba7f463b6) |
 | Fri, 02 Jan 2026 19:12:53 GMT | AI Is Helping Hackers and Defenders | Anantha Gokul Sivakumar | [Read More](https://medium.com/p/a710df755802) |
 | Fri, 02 Jan 2026 18:43:18 GMT | Breaking the Walls: Techniques for 403 Forbidden Bypass | Samet Yiğit | [Read More](https://medium.com/p/c25034b822c6) |
 | Fri, 02 Jan 2026 18:40:13 GMT | Understanding Cyber Attacks Through The OSI Model | Manav Nagdukiya | [Read More](https://medium.com/p/f384666feb27) |
-| Fri, 02 Jan 2026 18:22:06 GMT | Ultimate HTB CPTS 2026 Notes: The Complete Study Guide | Motasem Hamdan | [Read More](https://medium.com/p/c7c133679d49) |
-| Fri, 02 Jan 2026 18:21:36 GMT | Networking Basic | Jenishjoel | [Read More](https://medium.com/p/6da5867c4e35) |
-| Fri, 02 Jan 2026 18:14:45 GMT | The Silent Attack in Your package.json: A Live Dependency Confusion Demo | Dipesh Paul | [Read More](https://medium.com/p/429340985c63) |
-| Fri, 02 Jan 2026 18:13:00 GMT | Exploiting Parameter Driven Authorization Logic in Authenticated APIs | Jawad Momani | [Read More](https://medium.com/p/02a63de0fea3) |
-| Fri, 02 Jan 2026 18:10:54 GMT | Ağ Güvenliğinin Temelleri Part 2: FortiGate Security Profiles | Hira Ekin Sürcan | [Read More](https://medium.com/p/ba777e227ec9) |
-| Fri, 02 Jan 2026 18:10:13 GMT | Configuring Symfony 8 Security with security.yaml | Edgaras | [Read More](https://medium.com/p/ccfffa771617) |
-| Fri, 02 Jan 2026 18:09:07 GMT | Lab: Inconsistent handling of exceptional input | Songül Kızılay Özügürler | [Read More](https://medium.com/p/dc8477aa780b) |
-| Fri, 02 Jan 2026 18:03:31 GMT | PDF Proton: new variant of SparkOnSoft Malware Campaign | sm0q | [Read More](https://medium.com/p/14890be5db2e) |
-| Fri, 02 Jan 2026 18:02:43 GMT | Why RAG Security is Broken? (And How to Fix It) | Riad Moudjahed | [Read More](https://medium.com/p/8697845a1a3d) |
