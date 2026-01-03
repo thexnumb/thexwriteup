@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 03 Jan 2026 19:10:06 GMT | Practical Steps to Kickstart Your Cybersecurity and Bug Bounty Journey ️ | Ali.Yurie | [Read More](https://medium.com/p/023479b7a46f) |
+| Sat, 03 Jan 2026 19:07:29 GMT | The Night I Realized Defence Wasn’t Enough | Cybersickerhub | [Read More](https://medium.com/p/04dc30222f87) |
+| Sat, 03 Jan 2026 19:02:44 GMT | Foucault and the Power of Surveillance: Rethinking Digital Privacy in a Panoptic World | Brian Haman, PhD | [Read More](https://medium.com/p/d22aafd08d01) |
+| Sat, 03 Jan 2026 18:38:49 GMT | NIS2 — A Once In A Lifetime Business Advantage | Routerfishers | [Read More](https://medium.com/p/4ef19a486c46) |
+| Sat, 03 Jan 2026 18:38:12 GMT | Log Analysis for SOC Analysts (Linux & Windows Basics) | Jenishjoel | [Read More](https://medium.com/p/26e44c03898c) |
+| Sat, 03 Jan 2026 18:24:04 GMT | FortiGate Firewall Policy Yazarak Windows–Kali İletişimi Sağlamak | Faruk TANRIVERDİ | [Read More](https://medium.com/p/5fbfc74cb69a) |
 | Sat, 03 Jan 2026 18:20:14 GMT | The “Best” Trap and an Unexpected Relapse | surplus_girl | [Read More](https://medium.com/p/b01358f6107e) |
 | Sat, 03 Jan 2026 18:18:42 GMT | Security Onion 2.4 Installation on VMware (EVAL Mode) | Gatecrasher01 | [Read More](https://medium.com/p/7965cfbaf80d) |
 | Sat, 03 Jan 2026 18:16:27 GMT | The two byte CPDoS | Nigel Kennis | [Read More](https://medium.com/p/1b4466511cf1) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 Jan 2026 13:16:15 GMT | Middle East Rivalries Without a Regional Order: Yemen, Iran, and the Risks of Competitive Power… | MASUM BILLAH | [Read More](https://medium.com/p/92f26ac7dba7) |
 | Sat, 03 Jan 2026 13:14:21 GMT | Vulnerability Disclosure -Business logic: Browser Restriction Bypass @ Zoho Browser Security Plus | Kartik Lalan | [Read More](https://medium.com/p/fc082c922a55) |
 | Sat, 03 Jan 2026 13:12:54 GMT | How Websites Know Who You Are (Even After You Close the Tab) | Codeandcontext | [Read More](https://medium.com/p/568753bd9997) |
-| Sat, 03 Jan 2026 13:12:19 GMT | Defense Demand, Workforce Clearance & the Florida Intelligence Corridor | Connie Baugher Orlando FL | [Read More](https://medium.com/p/e9ed49c5c1f3) |
-| Sat, 03 Jan 2026 13:07:01 GMT | Not_Petya: The Most Destructive Cyberattack with a Flaw | Vidit Gupta | [Read More](https://medium.com/p/378c4cac6b19) |
-| Sat, 03 Jan 2026 13:06:37 GMT | Penetration Testing Services To Detect Security Gaps | Plutosec Cyber Security | [Read More](https://medium.com/p/7ec836806ec2) |
-| Sat, 03 Jan 2026 12:55:52 GMT | Angular Security : CSRF or XSRF(Cross-Site Request Forgery) Protection | Piyali Das | [Read More](https://medium.com/p/71fed7802484) |
-| Sat, 03 Jan 2026 12:52:44 GMT | Lessons learned lately! | Pramodh Casanova | [Read More](https://medium.com/p/72289b32d381) |
-| Sat, 03 Jan 2026 12:51:49 GMT | Best Data Recovery Services in Dubai: How to Choose the Right One When Data Is on the Line | Datamagicofficial | [Read More](https://medium.com/p/a840b83ef7b4) |
