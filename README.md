@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 17:38:20 GMT | Understanding HTTP Status Code 200 | Dhivy Ananth | [Read More](https://medium.com/p/9a354c6dbbbc) |
+| Sun, 04 Jan 2026 17:24:46 GMT | Your “Done” List is a Liar: The Rise of Ghost Vulnerabilities in 2026+ | Threat Road | [Read More](https://medium.com/p/8ec995cc131e) |
+| Sun, 04 Jan 2026 17:24:09 GMT | Remote Code Execution via Prototype Pollution (CVE-2025–55182) | Tanmay Bhattacharjee | [Read More](https://medium.com/p/ca19a72b8062) |
 | Sun, 04 Jan 2026 17:13:33 GMT | Logların İzinde: Ransomware Senaryosu | Ali Ekber KARA | [Read More](https://medium.com/p/42cb44c8a868) |
 | Sun, 04 Jan 2026 17:09:07 GMT | Why is AI-based Third-Party Risk Management important in 2026? | Zeron | [Read More](https://medium.com/p/76080f40697f) |
 | Sun, 04 Jan 2026 17:07:09 GMT | Day 4 — My First Hands-On Security Operations Experience | Drishti Pandey | [Read More](https://medium.com/p/beaf3bc43d37) |
@@ -111,6 +114,3 @@ Every… | Ankit rai | [Read More](https://medium.com/p/a6432d7fb429) |
 | Sun, 04 Jan 2026 10:24:23 GMT | AI Security Reports — December 2025 | Tal Eliyahu | [Read More](https://medium.com/p/bd37c2621e07) |
 | Sun, 04 Jan 2026 10:20:25 GMT | Not Everyone Will Know You | Ronnie Charrier | [Read More](https://medium.com/p/81f5671f8c74) |
 | Sun, 04 Jan 2026 10:16:53 GMT | Cybersecurity & Mental Health | Odai Mherat | [Read More](https://medium.com/p/588c94bdf0a8) |
-| Sun, 04 Jan 2026 10:06:24 GMT | Building the Fortress: How to Architect a Secure, Multi-Tier Application on AWS | Itsamrita | [Read More](https://medium.com/p/d6056fc4ce0c) |
-| Sun, 04 Jan 2026 10:05:13 GMT | Hands-On Penetration Testing: Metasploitable vsftpd 2.3.4 | SimpleTecBro | [Read More](https://medium.com/p/d1d9e6f1f03c) |
-| Sun, 04 Jan 2026 09:59:32 GMT | Web Application Security: Hands-On Practice (Chapter 4 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/cf20d381e067) |
