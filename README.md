@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 13:25:49 GMT | Nissan Customer Data Leak 2025 | O. J. Okpabi | [Read More](https://medium.com/p/27e5efd43026) |
+| Sun, 04 Jan 2026 13:19:37 GMT | How I Got an Easy $100 Bounty in Just 2 Minutes | ikaris | [Read More](https://medium.com/p/8f237ab327de) |
+| Sun, 04 Jan 2026 13:16:57 GMT | Identity Theft, Made Plain | Plaintext with Rich | [Read More](https://medium.com/p/8ba3506664ee) |
+| Sun, 04 Jan 2026 13:16:06 GMT | An AI Didn’t Just Fake an ID. It Exposed a Global Weak Point. | Khushdeep Sharma | [Read More](https://medium.com/p/b9bdbdb4f007) |
+| Sun, 04 Jan 2026 13:09:57 GMT | Amazon CSRF Protection | Piyali Das | [Read More](https://medium.com/p/9a6d31da7ebf) |
+| Sun, 04 Jan 2026 13:03:12 GMT | Your Password Hashing Strategy Will Fail — Here’s Why | Suhail Muhammed | [Read More](https://medium.com/p/d6524b236ecb) |
+| Sun, 04 Jan 2026 12:58:45 GMT | Why Most Organizations Will Fail at Cybersecurity in 2026 (Despite Heavy Investment)
+Article
+Every… | Ankit rai | [Read More](https://medium.com/p/a6432d7fb429) |
+| Sun, 04 Jan 2026 12:53:37 GMT | Attacking MSSQL Servers with UNC Path Injection | Athis SN | [Read More](https://medium.com/p/0537716c104b) |
+| Sun, 04 Jan 2026 12:46:19 GMT | Teenagers, Telephones, And A Trillion-Dollar Lie | O. J. Okpabi | [Read More](https://medium.com/p/c35231d20f3c) |
+| Sun, 04 Jan 2026 12:45:32 GMT | I’m learning cybersecurity through PortSwigger Academy’s free labs and documenting my journey… | scriptpy | [Read More](https://medium.com/p/020cfc5a00b9) |
+| Sun, 04 Jan 2026 12:44:57 GMT | A02: Cryptographic Failures — When “Encrypted” Still Means Exposed | pavani | [Read More](https://medium.com/p/f4298dec9a6f) |
+| Sun, 04 Jan 2026 12:43:39 GMT | Patch Management in Cybersecurity: Tools, Strategies, and Benefits | Craw Cyber Security | [Read More](https://medium.com/p/7b5115500462) |
 | Sun, 04 Jan 2026 12:40:03 GMT | React2Shell (CVE-2025–55182) — From React Server Components to Full RCE | Aditya Bhatt | [Read More](https://medium.com/p/81acd9f94783) |
 | Sun, 04 Jan 2026 12:36:14 GMT | How I Design Small Security Projects to Learn Faster | Asmit Patil | [Read More](https://medium.com/p/46356b1911e0) |
 | Sun, 04 Jan 2026 12:31:04 GMT | How Windows Learned to Trust You: From Passwords to Kerberos | Vineet Singh Solanki | [Read More](https://medium.com/p/57fab5094d0c) |
@@ -100,15 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 Jan 2026 06:22:48 GMT | 4 Cybersecurity Projects That Earn Me Over $4,000/Month as a Penetration Tester | Cybervolt | [Read More](https://medium.com/p/24d069cd7357) |
 | Sun, 04 Jan 2026 06:19:16 GMT | How Recon Helped Me Land a $50,000 Bug Bounty — No Exploits Needed | Cybervolt | [Read More](https://medium.com/p/42163ede7dfc) |
 | Sun, 04 Jan 2026 06:11:31 GMT | The Case for Consciousness Monitoring Programs: Why They Might Already Exist | Hawk | [Read More](https://medium.com/p/bc3a592d497f) |
-| Sun, 04 Jan 2026 06:07:17 GMT | Public Usb port usage | Techwizs | [Read More](https://medium.com/p/3bd723312162) |
-| Sun, 04 Jan 2026 06:00:59 GMT | Title: From Windows to Zorin OS: A Practical Installation Guide (with Hash Checks) for Tech… | Akash Gupta | [Read More](https://medium.com/p/bdd036dc364d) |
-| Sun, 04 Jan 2026 05:53:53 GMT | That “Urgent” Call From Your Boss Might Be Fake | GDGC MET | [Read More](https://medium.com/p/9df52fc95592) |
-| Sun, 04 Jan 2026 05:51:15 GMT | CRM Data Leakage Risks in n8n: When Convenience Can’t Trade for Security | Hung Wai Kay | [Read More](https://medium.com/p/93a57b92031f) |
-| Sun, 04 Jan 2026 05:50:26 GMT | A Small SQL Injection Checklist for 2026 | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/6359c4fa7f7d) |
-| Sun, 04 Jan 2026 05:49:21 GMT | Dating Someone Who Treats Vulnerability Like a Phase, Not a Foundation | LSD | [Read More](https://medium.com/p/1305a1deba3b) |
-| Sun, 04 Jan 2026 05:40:58 GMT | Understanding JavaScript Proxy and Reflect Objects | Nikhil Singh | [Read More](https://medium.com/p/51836a8f3814) |
-| Sun, 04 Jan 2026 05:38:55 GMT | The Internet | Red_Ghost | [Read More](https://medium.com/p/3d8a36bef1f1) |
-| Sun, 04 Jan 2026 05:27:20 GMT | Try Hack Me - Phishing Emails in Action - Write up | Raheesh Nusayr | [Read More](https://medium.com/p/c0f73e2bfc3d) |
-| Sun, 04 Jan 2026 05:24:06 GMT | Bug Ninja Chronicles: Naruto’s First Mission as a Bug Hunter. "Believe it" | Salao | [Read More](https://medium.com/p/3c554b451f16) |
-| Sun, 04 Jan 2026 05:05:26 GMT | What is CSRF? Understanding Cross-Site Request Forgery Attacks | B's Code | [Read More](https://medium.com/p/7dc0e26053d3) |
-| Sun, 04 Jan 2026 04:53:57 GMT | Unauthorized Access to Sensitive PII via Broken Access Control | Ajay Vardhan | [Read More](https://medium.com/p/507adf46879a) |
