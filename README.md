@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 06:32:56 GMT | $280 Bug Bounty: How a Case-Sensitive Email Bug Locked Users' Accounts | Monika sharma | [Read More](https://medium.com/p/175fe00779d9) |
+| Sun, 04 Jan 2026 06:27:55 GMT | The One-Click Library Wipe: Exploiting CSRF in Saved Stories | Munna✨ | [Read More](https://medium.com/p/28523d4bc5e2) |
+| Sun, 04 Jan 2026 06:25:41 GMT | Hack The Box — Bashed — Easy | 0x0b0 | [Read More](https://medium.com/p/8248ab7c596e) |
+| Sun, 04 Jan 2026 06:25:40 GMT | Tech 블로그를 시작한 이유 | 이현종 | [Read More](https://medium.com/p/06781c0f485c) |
+| Sun, 04 Jan 2026 06:24:29 GMT | Securing Digital Accounts with Bitwarden Password Manager | Irham Sahbana | [Read More](https://medium.com/p/1451154418a6) |
+| Sun, 04 Jan 2026 06:22:48 GMT | 4 Cybersecurity Projects That Earn Me Over $4,000/Month as a Penetration Tester | Cybervolt | [Read More](https://medium.com/p/24d069cd7357) |
+| Sun, 04 Jan 2026 06:19:16 GMT | How Recon Helped Me Land a $50,000 Bug Bounty — No Exploits Needed | Cybervolt | [Read More](https://medium.com/p/42163ede7dfc) |
+| Sun, 04 Jan 2026 06:11:31 GMT | The Case for Consciousness Monitoring Programs: Why They Might Already Exist | Hawk | [Read More](https://medium.com/p/bc3a592d497f) |
+| Sun, 04 Jan 2026 06:07:17 GMT | Public Usb port usage | Techwizs | [Read More](https://medium.com/p/3bd723312162) |
+| Sun, 04 Jan 2026 06:00:59 GMT | Title: From Windows to Zorin OS: A Practical Installation Guide (with Hash Checks) for Tech… | Akash Gupta | [Read More](https://medium.com/p/bdd036dc364d) |
+| Sun, 04 Jan 2026 05:53:53 GMT | That “Urgent” Call From Your Boss Might Be Fake | GDGC MET | [Read More](https://medium.com/p/9df52fc95592) |
+| Sun, 04 Jan 2026 05:51:15 GMT | CRM Data Leakage Risks in n8n: When Convenience Can’t Trade for Security | Hung Wai Kay | [Read More](https://medium.com/p/93a57b92031f) |
+| Sun, 04 Jan 2026 05:50:26 GMT | A Small SQL Injection Checklist for 2026 | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/6359c4fa7f7d) |
+| Sun, 04 Jan 2026 05:49:21 GMT | Dating Someone Who Treats Vulnerability Like a Phase, Not a Foundation | LSD | [Read More](https://medium.com/p/1305a1deba3b) |
+| Sun, 04 Jan 2026 05:40:58 GMT | Understanding JavaScript Proxy and Reflect Objects | Nikhil Singh | [Read More](https://medium.com/p/51836a8f3814) |
 | Sun, 04 Jan 2026 05:38:55 GMT | The Internet | Red_Ghost | [Read More](https://medium.com/p/3d8a36bef1f1) |
 | Sun, 04 Jan 2026 05:27:20 GMT | Try Hack Me - Phishing Emails in Action - Write up | Raheesh Nusayr | [Read More](https://medium.com/p/c0f73e2bfc3d) |
 | Sun, 04 Jan 2026 05:24:06 GMT | Bug Ninja Chronicles: Naruto’s First Mission as a Bug Hunter. "Believe it" | Salao | [Read More](https://medium.com/p/3c554b451f16) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 Jan 2026 18:06:54 GMT | SOC Fundamentals and Analyst Workflows | Jenishjoel | [Read More](https://medium.com/p/99a8873e6aeb) |
 | Sat, 03 Jan 2026 18:05:43 GMT | Inside the Blind Spots of Modern Motion Sensors | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/8ae99b061232) |
 | Sat, 03 Jan 2026 18:04:23 GMT | Highly Obfuscated Shai Hulud Variant Targets Dev Environments | Chetan Seripally | [Read More](https://medium.com/p/736adfcc9730) |
-| Sat, 03 Jan 2026 18:03:09 GMT | Fixing “PKIX Path Building Failed” in Spring Boot: Custom Truststores for Feign HTTPS Calls | Kaif Muhammed | [Read More](https://medium.com/p/070a7c88beda) |
-| Sat, 03 Jan 2026 17:59:32 GMT | Dancing — HTB Starting Point | Cosmic Seaborn | [Read More](https://medium.com/p/93d5c08e2304) |
-| Sat, 03 Jan 2026 17:58:28 GMT | Day 1- Starting My SOC Analyst Journey | Swetlana Jha | [Read More](https://medium.com/p/11d60234fbae) |
-| Sat, 03 Jan 2026 17:58:10 GMT | What 30,000+ Cybersecurity Articles Taught Us About the Threat Landscape | James Mockford | [Read More](https://medium.com/p/c0fb8651d4ba) |
-| Sat, 03 Jan 2026 17:49:57 GMT | From Turing to Simpson: Formal Limits on Prediction, Coordination, and Measurement in Cybersecurity… | Boris Loza | [Read More](https://medium.com/p/b203419bbe49) |
-| Sat, 03 Jan 2026 17:45:30 GMT | When Power Replaces The Rule of Law | Williams Appiah Kwapong | [Read More](https://medium.com/p/d6f3e59a1eec) |
-| Sat, 03 Jan 2026 17:45:29 GMT | The Endpoint Was Public for a Reason — The Data Wasn’t | Iski | [Read More](https://medium.com/p/eaac71947415) |
-| Sat, 03 Jan 2026 17:37:38 GMT | How hackers bypass Root Detection like a Pro - Android Pentesting | Blue_eye | [Read More](https://medium.com/p/2da50dccc65b) |
-| Sat, 03 Jan 2026 17:32:23 GMT | Tips & tricks for efficient AWS WAF setup | Ihor Sasovets | [Read More](https://medium.com/p/d43312f3fcf4) |
-| Sat, 03 Jan 2026 17:30:35 GMT | Linux User, Group & Permission Management - Practical Assignment Guide | Philopater Shenouda | [Read More](https://medium.com/p/a8796f762946) |
-| Sat, 03 Jan 2026 17:26:30 GMT | Log Enrichment Mapping in SIEM | Esra Kayhan | [Read More](https://medium.com/p/e5a8da7996ee) |
-| Sat, 03 Jan 2026 17:19:08 GMT | The Ascent of the AI Therapist: Why “Privacy Infrastructure” is the Next Multi-Billion Dollar Trade | Michelle yiu | [Read More](https://medium.com/p/cca20a585952) |
-| Sat, 03 Jan 2026 17:16:17 GMT | Flight radar app for civilian drones? Yes and No. | Berend Watchus | [Read More](https://medium.com/p/4249122392fc) |
-| Sat, 03 Jan 2026 17:07:36 GMT | Kiro for Pentesters: Working Smarter, Not Harder | marianita_cloud | [Read More](https://medium.com/p/5beef9fa5e4b) |
-| Sat, 03 Jan 2026 17:06:55 GMT | Honesty…but not like that. | Linda Oz | [Read More](https://medium.com/p/812cb12df872) |
