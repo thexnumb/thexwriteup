@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 23:33:13 GMT | What You’ll Learn After Gaining Your 1'st Hacking Certifcate? - Certificated Hacker’s Roadmap #1 | NnFace | [Read More](https://medium.com/p/6fa730d5bd39) |
+| Sun, 04 Jan 2026 23:24:50 GMT | Vibe Coding is Dangerous. Use This “Villain Mode” Cheat Code Instead. | Marlon Petry | [Read More](https://medium.com/p/774172458e41) |
 | Sun, 04 Jan 2026 23:00:29 GMT | Windows Malware Development Roadmap | S12 - 0x12Dark Development | [Read More](https://medium.com/p/9a66ab8b82dd) |
 | Sun, 04 Jan 2026 22:57:33 GMT | Weaponized LLMs: How 2025 Built the 2026 Breach Playbook | Dorian Sotpyrc | [Read More](https://medium.com/p/23b46bb7df3f) |
 | Sun, 04 Jan 2026 22:56:25 GMT | The Silent Boardroom: Why OT Risk is the New Personal Liability | Brian Vince | [Read More](https://medium.com/p/1c592d67815c) |
@@ -27,6 +29,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 Jan 2026 22:19:28 GMT | The New Digital Signature Requirements for the Certification of Electronic Health Record Systems… | Renato Marcos Endrizzi Sabbatini, PhD | [Read More](https://medium.com/p/d3a432441805) |
 | Sun, 04 Jan 2026 22:13:55 GMT | The World Needs Stronger Cyber Leaders — Will You Step Up? | Fook Hwa Tan | [Read More](https://medium.com/p/7bd5e50facb2) |
 | Sun, 04 Jan 2026 22:12:34 GMT | NIS2, AI Act, CSRD — What’s Coming, and What You Can Do Today | Fook Hwa Tan | [Read More](https://medium.com/p/59e7ff9d3f98) |
+| Sun, 04 Jan 2026 21:58:41 GMT | APPRENEZ LE NMAP: Exécutez des Scans Stratégiques avec Scripts et Automatisation | Diego Rodrigues | [Read More](https://medium.com/p/f457f130d412) |
 | Sun, 04 Jan 2026 21:42:25 GMT | Broken Access Control: The #1 OWASP Risk Explained with Real Backend Incidents | The Cache Cowgirl | [Read More](https://medium.com/p/bc08b9e9d849) |
 | Sun, 04 Jan 2026 21:37:15 GMT | There’s a Big Misconception About Resilience, and We Need to
 Do Something About It | Stephanie Hunter-Banks | [Read More](https://medium.com/p/ff32cbdf43e8) |
@@ -110,6 +113,3 @@ Do Something About It | Stephanie Hunter-Banks | [Read More](https://medium.com/
 | Sun, 04 Jan 2026 16:00:47 GMT | Bandit Level 10 to Level 11 | Sivanesan M | [Read More](https://medium.com/p/8f9e7a76448d) |
 | Sun, 04 Jan 2026 15:56:13 GMT | Lab: Password reset broken logic | Songül Kızılay Özügürler | [Read More](https://medium.com/p/7fd8d1bed622) |
 | Sun, 04 Jan 2026 15:54:10 GMT | Android malware reversing with frontier LLM models — HTB pedometer challenge | Red Threat Cyber Security | [Read More](https://medium.com/p/6cedc610df53) |
-| Sun, 04 Jan 2026 15:53:30 GMT | AutoRecon Tutorial: OSCP & TryHackMe Recon Automation (2026) | Manas Mahato | [Read More](https://medium.com/p/acd17538d658) |
-| Sun, 04 Jan 2026 15:52:58 GMT | PWN103— TryHackMe | SilentHex | [Read More](https://medium.com/p/3384033ec556) |
-| Sun, 04 Jan 2026 15:52:07 GMT | Install VMware Workstation Pro Free on Windows | Abrar Bin Habib | [Read More](https://medium.com/p/9dea5ab3ce04) |
