@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 01:36:45 GMT | [Mother’s Secret $300,000 Gift: A Mother-in-Law’s Tearful Revelation of Her Daughter-in-Law’s True… | kate spider | [Read More](https://medium.com/p/57e8a04551e5) |
+| Sun, 04 Jan 2026 01:32:26 GMT | 7 Threat Models AI Quietly Rewrote for Attackers | Praxen | [Read More](https://medium.com/p/77799c0327bc) |
+| Sun, 04 Jan 2026 01:32:26 GMT | 7 Security Lessons from 2025’s Biggest Crypto Hacks | Duckweave | [Read More](https://medium.com/p/222e20dc0c5a) |
+| Sun, 04 Jan 2026 01:19:38 GMT | How I Built a Security Log Analyzer in Python as a Cybersecurity student | Félix Cerna — Cybersecurity Student | [Read More](https://medium.com/p/38885a67dbaa) |
+| Sun, 04 Jan 2026 01:18:17 GMT | TRIAGE PACKAGE CREATION USING KAPE TOOL | Basmala Yasser | [Read More](https://medium.com/p/80a09644796e) |
+| Sun, 04 Jan 2026 01:03:44 GMT | BugZzzz — FahemSec Web Challenge | محمد بن إبراهيم | [Read More](https://medium.com/p/422c15c539b9) |
+| Sun, 04 Jan 2026 00:56:44 GMT | TCPDump in Action: HackTheBox Walkthrough | Cybersecurity Simplified | [Read More](https://medium.com/p/ca30049aeb0d) |
+| Sun, 04 Jan 2026 00:47:28 GMT | Redeemer — HTB Starting Point | Cosmic Seaborn | [Read More](https://medium.com/p/24b4b5524b16) |
+| Sun, 04 Jan 2026 00:45:07 GMT | The UAE After Yemen - Declining Influence and a Possible Strategic Shift Toward Sudan | Nura haruna (Maikarfe) | [Read More](https://medium.com/p/5eca6129fdd3) |
+| Sun, 04 Jan 2026 00:43:00 GMT | Pentest Básico 1 — Hackeando uma máquina virtual (writeup) | Drifter | [Read More](https://medium.com/p/b7843f37f6ee) |
+| Sun, 04 Jan 2026 00:32:52 GMT | Satellite comms on your smartphone. Continuity of operations and SOS. | Berend Watchus | [Read More](https://medium.com/p/0ab4edb4e11e) |
+| Sun, 04 Jan 2026 00:28:26 GMT | AI Pentesting: Defending Against Prompt Injection and Improper Output Handling | Will Giles - Cybersecurity | [Read More](https://medium.com/p/541f60efbb18) |
+| Sun, 04 Jan 2026 00:11:27 GMT | Interception and Eavesdropping of Satellite Communications | PWNSAT | [Read More](https://medium.com/p/b7be24d91ff8) |
+| Sun, 04 Jan 2026 00:10:10 GMT | Ultimate Container Security Series | 0xAlphaSecurity | [Read More](https://medium.com/p/516c9b9ed735) |
+| Sun, 04 Jan 2026 00:06:53 GMT | # MonitorsFour — From Zero to Docker Desktop Escape | LeChristopher Blackwell | [Read More](https://medium.com/p/af1b2522de35) |
+| Sat, 03 Jan 2026 23:45:08 GMT | Common CSRF Protection Bypass Techniques (Explained)‍ | ab.infosec | [Read More](https://medium.com/p/e7f7568aa56a) |
 | Sat, 03 Jan 2026 23:06:54 GMT | Puzzle Write-up Docker Labs | Joel Morillas Pagan (Ghxstsec) | [Read More](https://medium.com/p/6d608792acdf) |
 | Sat, 03 Jan 2026 23:02:53 GMT | Diving into Web Application Security: Hands-On Vulnerability Scanning with OWASP ZAP | Edwin Atali | [Read More](https://medium.com/p/0bdeba53ab70) |
 | Sat, 03 Jan 2026 22:59:25 GMT | The Power of Hashing in One-Way Security and Irreversible Storage | Bervice | [Read More](https://medium.com/p/8e9dfe71bb29) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 Jan 2026 15:33:05 GMT | I Finally Understood PKCE After Years of Ignoring it | Mayeen Sajid | [Read More](https://medium.com/p/f8de94feca49) |
 | Sat, 03 Jan 2026 15:32:45 GMT | Application Layer: Where Software Meets the Network | azrecon_ | [Read More](https://medium.com/p/f20d44628475) |
 | Sat, 03 Jan 2026 15:31:40 GMT | A Very Real Day in the Pentesting Lab (My Room) | Darlie | [Read More](https://medium.com/p/aa2dc210b4a3) |
-| Sat, 03 Jan 2026 15:30:46 GMT | [AD攻防] 淺談Windows驗證機制 — Kerberos | 陳禹璿 | [Read More](https://medium.com/p/fbd90f794b14) |
-| Sat, 03 Jan 2026 15:26:51 GMT | Fail2Ban Guide: Protecting Your Server from Brute-Force Attacks | bektiaw | [Read More](https://medium.com/p/0f67b257aae8) |
-| Sat, 03 Jan 2026 15:25:44 GMT | How WhatsApp Messages Travel | Devanshkoyani | [Read More](https://medium.com/p/6007398a2ef5) |
-| Sat, 03 Jan 2026 15:23:03 GMT | #      . | OGB | [Read More](https://medium.com/p/1615705a239d) |
-| Sat, 03 Jan 2026 15:20:37 GMT | The Day the Internet Stood Still: How Cyber Attacks Could Collapse Our Digital World | Hritam Dutta | [Read More](https://medium.com/p/04df0ff565dd) |
-| Sat, 03 Jan 2026 15:08:16 GMT | What I’d Learn First in API Design (If I Was Starting in 2026) | Sathish Tadaka | [Read More](https://medium.com/p/8c86f0ebc4fa) |
-| Sat, 03 Jan 2026 15:02:45 GMT | Polémica por Grok: La IA de X transforma fotos de usuarios con contenido obsceno | Tiziano Mass | [Read More](https://medium.com/p/43021f44fe80) |
-| Sat, 03 Jan 2026 15:02:33 GMT | The Hidden Language of AI Coding Assistants: What Your Agent README Is Missing in 2025 | Daniel García | [Read More](https://medium.com/p/121ecffe875e) |
-| Sat, 03 Jan 2026 14:59:03 GMT | Why Digital Sovereignty Is Fundamentally a Risk Pricing Issue | STR4T0TT0 | [Read More](https://medium.com/p/ac2d16ad9470) |
-| Sat, 03 Jan 2026 14:58:56 GMT | THREAT PROFILE: LONGNOSEDGOBLIN | Jon C | [Read More](https://medium.com/p/d1bc418fc2dc) |
-| Sat, 03 Jan 2026 14:57:10 GMT | THM - Slingshot | Francesco Pastore | [Read More](https://medium.com/p/3ce0329d2345) |
-| Sat, 03 Jan 2026 14:56:44 GMT | Blog TRYHACKME Walkthrough | Mainekhacker | [Read More](https://medium.com/p/42711a72c3a8) |
-| Sat, 03 Jan 2026 14:52:55 GMT | Lab: Inconsistent security controls | Songül Kızılay Özügürler | [Read More](https://medium.com/p/ef826b01eb7e) |
-| Sat, 03 Jan 2026 14:49:42 GMT | Phishing in 2026 | gobbledy | [Read More](https://medium.com/p/16d44bd7d143) |
-| Sat, 03 Jan 2026 14:46:42 GMT | Unlock Peak Productivity & Ironclad Security: How SentryPC Transforms Remote Work | Paul Meyer | [Read More](https://medium.com/p/ef09050e0058) |
-| Sat, 03 Jan 2026 14:43:00 GMT | The Ghost in the Machine: | Mazankwaran | [Read More](https://medium.com/p/e1032c7ed55f) |
