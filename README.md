@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 20:23:41 GMT | Insecure Direct Object Reference (IDOR) | Cybernight | [Read More](https://medium.com/p/36b639b198cc) |
+| Sun, 04 Jan 2026 20:21:22 GMT | The Right Methodology for Hacking Anything | Cybernight | [Read More](https://medium.com/p/de0e04f583e1) |
+| Sun, 04 Jan 2026 20:08:53 GMT | Sandbox Escape and Remote Code Execution in n8n Python Code Node (CVE-2025–68668) | Berk Dedekargınoğlu | [Read More](https://medium.com/p/072336ec1893) |
+| Sun, 04 Jan 2026 19:57:43 GMT | The Identity Sprawl is 2026’s Biggest Security Leak | Arshak Ahamed | [Read More](https://medium.com/p/7a12ce926ded) |
+| Sun, 04 Jan 2026 19:47:30 GMT | Deep-Dive PII Hunting & Validation Techniques (Part 2/3) | Cybersecplayground | [Read More](https://medium.com/p/c95d587115e2) |
+| Sun, 04 Jan 2026 19:40:31 GMT | Breaking Mobile Bot Protection: Reverse Engineering PerimeterX’s iOS SDK | Biplov Dahal | [Read More](https://medium.com/p/8c760fb0fdc7) |
+| Sun, 04 Jan 2026 19:37:49 GMT | Analysis: Rising Insecurity Deepens Crisis Across Northern Nigeria | Sunday Buna Ibrahim | [Read More](https://medium.com/p/4066d1e7fdcc) |
 | Sun, 04 Jan 2026 19:26:49 GMT | Executive Safety in Turkey: A Strategic Guide to Armored Transportation | BYZAS | [Read More](https://medium.com/p/98265a0648f5) |
 | Sun, 04 Jan 2026 19:19:44 GMT | Idempotency: the simple backend idea that quietly saves your ass | Leon Musk | [Read More](https://medium.com/p/cc8f9dd13710) |
 | Sun, 04 Jan 2026 19:17:06 GMT | Understanding Common OTP Bypass Techniques | Aryan patel | [Read More](https://medium.com/p/4670b4dcb438) |
@@ -107,10 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 Article
 Every… | Ankit rai | [Read More](https://medium.com/p/a6432d7fb429) |
 | Sun, 04 Jan 2026 12:53:37 GMT | Attacking MSSQL Servers with UNC Path Injection | Athis SN | [Read More](https://medium.com/p/0537716c104b) |
-| Sun, 04 Jan 2026 12:46:19 GMT | Teenagers, Telephones, And A Trillion-Dollar Lie | O. J. Okpabi | [Read More](https://medium.com/p/c35231d20f3c) |
-| Sun, 04 Jan 2026 12:45:32 GMT | I’m learning cybersecurity through PortSwigger Academy’s free labs and documenting my journey… | scriptpy | [Read More](https://medium.com/p/020cfc5a00b9) |
-| Sun, 04 Jan 2026 12:44:57 GMT | A02: Cryptographic Failures — When “Encrypted” Still Means Exposed | pavani | [Read More](https://medium.com/p/f4298dec9a6f) |
-| Sun, 04 Jan 2026 12:43:39 GMT | Patch Management in Cybersecurity: Tools, Strategies, and Benefits | Craw Cyber Security | [Read More](https://medium.com/p/7b5115500462) |
-| Sun, 04 Jan 2026 12:40:03 GMT | React2Shell (CVE-2025–55182) — From React Server Components to Full RCE | Aditya Bhatt | [Read More](https://medium.com/p/81acd9f94783) |
-| Sun, 04 Jan 2026 12:36:14 GMT | How I Design Small Security Projects to Learn Faster | Asmit Patil | [Read More](https://medium.com/p/46356b1911e0) |
-| Sun, 04 Jan 2026 12:31:04 GMT | How Windows Learned to Trust You: From Passwords to Kerberos | Vineet Singh Solanki | [Read More](https://medium.com/p/57fab5094d0c) |
