@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 05:38:55 GMT | The Internet | Red_Ghost | [Read More](https://medium.com/p/3d8a36bef1f1) |
+| Sun, 04 Jan 2026 05:27:20 GMT | Try Hack Me - Phishing Emails in Action - Write up | Raheesh Nusayr | [Read More](https://medium.com/p/c0f73e2bfc3d) |
+| Sun, 04 Jan 2026 05:24:06 GMT | Bug Ninja Chronicles: Naruto’s First Mission as a Bug Hunter. "Believe it" | Salao | [Read More](https://medium.com/p/3c554b451f16) |
+| Sun, 04 Jan 2026 05:05:26 GMT | What is CSRF? Understanding Cross-Site Request Forgery Attacks | B's Code | [Read More](https://medium.com/p/7dc0e26053d3) |
 | Sun, 04 Jan 2026 04:53:57 GMT | Unauthorized Access to Sensitive PII via Broken Access Control | Ajay Vardhan | [Read More](https://medium.com/p/507adf46879a) |
 | Sun, 04 Jan 2026 04:32:36 GMT | Top 5 On-Chain Audit Trail Techniques Without PII Spills | Duckweave | [Read More](https://medium.com/p/876701e4c728) |
 | Sun, 04 Jan 2026 04:32:36 GMT | The 5 Bridges Users Actually Trust | Quellin | [Read More](https://medium.com/p/538ae02bf3a3) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 Jan 2026 17:16:17 GMT | Flight radar app for civilian drones? Yes and No. | Berend Watchus | [Read More](https://medium.com/p/4249122392fc) |
 | Sat, 03 Jan 2026 17:07:36 GMT | Kiro for Pentesters: Working Smarter, Not Harder | marianita_cloud | [Read More](https://medium.com/p/5beef9fa5e4b) |
 | Sat, 03 Jan 2026 17:06:55 GMT | Honesty…but not like that. | Linda Oz | [Read More](https://medium.com/p/812cb12df872) |
-| Sat, 03 Jan 2026 16:55:13 GMT | An Engineering Student’s Journey: Learning, Mistakes, and Growth | Ghanshyam Matlane | [Read More](https://medium.com/p/195773c3cd59) |
-| Sat, 03 Jan 2026 16:55:01 GMT | METASPLOIT- Reverse Shell Tutorial | Amrit Kashyap | [Read More](https://medium.com/p/e64be314ed6f) |
-| Sat, 03 Jan 2026 16:54:59 GMT | The Architects of Trust: Meet the Algorithms Replacing RSA | Harsh Bhogayata | [Read More](https://medium.com/p/2a76075d6059) |
-| Sat, 03 Jan 2026 16:48:53 GMT | Server-Side Request Forgery (SSRF) | Cybernight | [Read More](https://medium.com/p/63f4accf706b) |
