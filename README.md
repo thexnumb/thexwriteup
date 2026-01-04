@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 21:06:00 GMT | Infrared, Reflections, and Wires: Reading the Signs of Hidden Surveillance | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/04404eee4668) |
+| Sun, 04 Jan 2026 21:05:14 GMT | Why Predictive Maintenance AI Is a Prime Cyber Target | Muhammad Ali Khan | [Read More](https://medium.com/p/19d17a4e898f) |
+| Sun, 04 Jan 2026 21:04:24 GMT | Securing API Servers (Week 4) | Stella Obatoye | [Read More](https://medium.com/p/e05820b33ef1) |
+| Sun, 04 Jan 2026 20:56:36 GMT | Breaking vm2 Isolation in n8n via Exposed Global Helpers (CVE-2025–68697) | Berk Dedekargınoğlu | [Read More](https://medium.com/p/99fd58ff3a1c) |
+| Sun, 04 Jan 2026 20:56:21 GMT | The Worm That Eats the Supply Chain: Deconstructing Shai-Hulud | The GlassBox Security | [Read More](https://medium.com/p/d0b24629d71f) |
+| Sun, 04 Jan 2026 20:52:47 GMT | How AI is Changing the Way We Think, Work, and Live | Ryvok.Brondich | [Read More](https://medium.com/p/8ff0a9424fe6) |
+| Sun, 04 Jan 2026 20:51:34 GMT | Does Real Love Exist? | Savannah Gilmore | [Read More](https://medium.com/p/b02bcb9521a5) |
+| Sun, 04 Jan 2026 20:48:27 GMT | Free Microsoft Courses – Cloud, AI, Security, Data & Development (Official Microsoft Learn) | Sandeepa Wimalasiri | [Read More](https://medium.com/p/617db8ad1f83) |
+| Sun, 04 Jan 2026 20:47:13 GMT | The Maduro Gamble: Freedom or Foreign Protectorate? | Jalal Huseynbayli M.A. | [Read More](https://medium.com/p/28c5dc7017f0) |
+| Sun, 04 Jan 2026 20:47:12 GMT | Cracking Passwords with John the Ripper: A Beginner’s Guide | Madhu Sudhan | [Read More](https://medium.com/p/70dde12be6ff) |
+| Sun, 04 Jan 2026 20:45:53 GMT | How to Install Security Onion in VMware Workstation | Krish Panchal | [Read More](https://medium.com/p/47700fd31a3e) |
+| Sun, 04 Jan 2026 20:42:47 GMT | Exploitation 101: Sızma ve İstismar | Burak Akgül | [Read More](https://medium.com/p/14dbfccfd04c) |
 | Sun, 04 Jan 2026 20:32:13 GMT | EDGAR Broken Link | John Friedman | [Read More](https://medium.com/p/b0191b0e1d9c) |
 | Sun, 04 Jan 2026 20:28:15 GMT | Cybersecurity in the Age of Vibe-Coding: Why CDD is the Only Way to Audit the “AI Spaghetti” | Fabio Meyer | [Read More](https://medium.com/p/23ce23255e73) |
 | Sun, 04 Jan 2026 20:23:41 GMT | Insecure Direct Object Reference (IDOR) | Cybernight | [Read More](https://medium.com/p/36b639b198cc) |
@@ -49,6 +61,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 Jan 2026 17:40:33 GMT | Detecting & Removing Rogue Local Admin Accounts | SOCFortress | [Read More](https://medium.com/p/66d8b1d19eaf) |
 | Sun, 04 Jan 2026 17:38:20 GMT | Understanding HTTP Status Code 200 | Dhivy Ananth | [Read More](https://medium.com/p/9a354c6dbbbc) |
 | Sun, 04 Jan 2026 17:34:57 GMT | 3 Backend Security Mistakes Automated Scanners Won’t Find. | Joel Ugwa | [Read More](https://medium.com/p/ca42c70289cd) |
+| Sun, 04 Jan 2026 17:27:40 GMT | Neighbour — THM Walkthrough | Death Esther | [Read More](https://medium.com/p/a35ec8cdd069) |
 | Sun, 04 Jan 2026 17:24:46 GMT | Your “Done” List is a Liar: The Rise of Ghost Vulnerabilities in 2026+ | Threat Road | [Read More](https://medium.com/p/8ec995cc131e) |
 | Sun, 04 Jan 2026 17:24:09 GMT | Remote Code Execution via Prototype Pollution (CVE-2025–55182) | Tanmay Bhattacharjee | [Read More](https://medium.com/p/ca19a72b8062) |
 | Sun, 04 Jan 2026 17:13:33 GMT | Logların İzinde: Ransomware Senaryosu | Ali Ekber KARA | [Read More](https://medium.com/p/42cb44c8a868) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 Jan 2026 14:32:25 GMT | Session Hijacking Made Simple: Capturing Sessions with Ferret and Hamster | Vignesh R | [Read More](https://medium.com/p/acf8a9ef4deb) |
 | Sun, 04 Jan 2026 14:29:53 GMT | Data Classification Automation | Esra Kayhan | [Read More](https://medium.com/p/9675395fcb82) |
 | Sun, 04 Jan 2026 14:24:39 GMT | How AI Helped Me Catch a Security Flaw I Would’ve Missed | Mubashir | [Read More](https://medium.com/p/65637cfd7164) |
-| Sun, 04 Jan 2026 14:24:02 GMT | What Is a Model File in AI? (Explained So Simply Anyone Can Understand) | Prapti Vahia | [Read More](https://medium.com/p/1b0e08d69df8) |
-| Sun, 04 Jan 2026 14:07:37 GMT | The $1.6 Billion Legacy: An Architectural Autopsy of the Change Healthcare Breach | System Design Autopsy | [Read More](https://medium.com/p/10b748df0b9c) |
-| Sun, 04 Jan 2026 14:03:16 GMT | Why @Async Makes Bugs Harder to Debug in Spring Boot (And What to Use Instead) | Karuna | [Read More](https://medium.com/p/a134d8a9c393) |
-| Sun, 04 Jan 2026 14:03:05 GMT | PortSwigger Apprentice Labs Solving Documentation | Krithika | [Read More](https://medium.com/p/effc32a6753e) |
-| Sun, 04 Jan 2026 13:54:04 GMT | OSINT4Fun: Advent of OSINT 2025 (Day 5 - Day 8) | David Varghese | [Read More](https://medium.com/p/b0776e224e9c) |
-| Sun, 04 Jan 2026 13:52:52 GMT | 7 Free Google AI Tools That Replace Paid Apps (Productivity Boost in 2026 using These Technologies) | Muhammad Burhan Chughtai | [Read More](https://medium.com/p/ebc16fce195e) |
-| Sun, 04 Jan 2026 13:52:14 GMT | Creating GitLab CI/CD Pipeline For Snyk Vulnerability Scanning | Ernest Gibbs III | [Read More](https://medium.com/p/4cdb6c353909) |
-| Sun, 04 Jan 2026 13:32:25 GMT | 52 Weeks Cybersecurity Challenge | Sujhal Gurav | [Read More](https://medium.com/p/b132302fb387) |
-| Sun, 04 Jan 2026 13:25:49 GMT | Nissan Customer Data Leak 2025 | O. J. Okpabi | [Read More](https://medium.com/p/27e5efd43026) |
-| Sun, 04 Jan 2026 13:19:37 GMT | How I Got an Easy $100 Bounty in Just 2 Minutes | ikaris | [Read More](https://medium.com/p/8f237ab327de) |
-| Sun, 04 Jan 2026 13:16:57 GMT | Identity Theft, Made Plain | Plaintext with Rich | [Read More](https://medium.com/p/8ba3506664ee) |
-| Sun, 04 Jan 2026 13:16:06 GMT | An AI Didn’t Just Fake an ID. It Exposed a Global Weak Point. | Khushdeep Sharma | [Read More](https://medium.com/p/b9bdbdb4f007) |
-| Sun, 04 Jan 2026 13:09:57 GMT | Amazon CSRF Protection | Piyali Das | [Read More](https://medium.com/p/9a6d31da7ebf) |
