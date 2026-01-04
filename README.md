@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 16:25:46 GMT | E1 Locksmith Services in London — Trusted Local Support by The Lock Specialist Ltd | The Lock Specialist Ltd | [Read More](https://medium.com/p/6e83c2137645) |
+| Sun, 04 Jan 2026 16:20:13 GMT | [2026] Databricks AI_MASK or Snowflake AI_REDACT? Securing Your Unstructured Data | Divyansh Saxena | [Read More](https://medium.com/p/712a9b2685a1) |
+| Sun, 04 Jan 2026 16:14:50 GMT | XSS Attack: Panduan Lengkap Cross Site Scripting Untuk Ethical Hacker | Handev Code | [Read More](https://medium.com/p/9d1b924e1d57) |
+| Sun, 04 Jan 2026 16:10:38 GMT | Security Onion Installation and Configuration | Ankit M | [Read More](https://medium.com/p/5b74f32659a7) |
+| Sun, 04 Jan 2026 16:05:46 GMT | How I Found 7 XSS Using a Custom Nuclei Template | ell0guvn0r | [Read More](https://medium.com/p/c84eed29c459) |
+| Sun, 04 Jan 2026 16:03:35 GMT | Designing a Secure AWS 3-Tier Architecture: Decisions That Actually Matter. | Prafful Mishra | [Read More](https://medium.com/p/479fc4c3329b) |
+| Sun, 04 Jan 2026 16:00:47 GMT | Bandit Level 10 to Level 11 | Sivanesan M | [Read More](https://medium.com/p/8f9e7a76448d) |
+| Sun, 04 Jan 2026 15:56:13 GMT | Lab: Password reset broken logic | Songül Kızılay Özügürler | [Read More](https://medium.com/p/7fd8d1bed622) |
+| Sun, 04 Jan 2026 15:54:10 GMT | Android malware reversing with frontier LLM models — HTB pedometer challenge | Red Threat Cyber Security | [Read More](https://medium.com/p/6cedc610df53) |
+| Sun, 04 Jan 2026 15:53:30 GMT | AutoRecon Tutorial: OSCP & TryHackMe Recon Automation (2026) | Manas Mahato | [Read More](https://medium.com/p/acd17538d658) |
+| Sun, 04 Jan 2026 15:52:58 GMT | PWN103— TryHackMe | SilentHex | [Read More](https://medium.com/p/3384033ec556) |
+| Sun, 04 Jan 2026 15:52:07 GMT | Install VMware Workstation Pro Free on Windows | Abrar Bin Habib | [Read More](https://medium.com/p/9dea5ab3ce04) |
+| Sun, 04 Jan 2026 15:44:58 GMT | Road to HackwithIndiaa: Day 1 — Breaking the HTTP Barrier ‍ | Swetlana Jha | [Read More](https://medium.com/p/ed8687349cc6) |
+| Sun, 04 Jan 2026 15:40:56 GMT | 5 Rules one must follow in today’s fast moving world.. | Krishna M S | [Read More](https://medium.com/p/c5263918cf4a) |
+| Sun, 04 Jan 2026 15:38:08 GMT | Why Technology Apps Fail in Emerging Markets — And How the Next Generation Will Win | Great | [Read More](https://medium.com/p/93f88d843ded) |
 | Sun, 04 Jan 2026 15:26:50 GMT | Muhammad Fahri Satriady | Muhammad Fahri Satriady | [Read More](https://medium.com/p/abe453761211) |
 | Sun, 04 Jan 2026 15:19:41 GMT | [CyberDefenders Write-up] BRabbit Lab | OxMotaw3 | [Read More](https://medium.com/p/d42ca137a748) |
 | Sun, 04 Jan 2026 15:03:55 GMT | DevSecOps Security Explained: Nessus vs Black Duck vs Trivy | Amit Singh | [Read More](https://medium.com/p/311021563dcb) |
@@ -99,18 +114,3 @@ Every… | Ankit rai | [Read More](https://medium.com/p/a6432d7fb429) |
 | Sun, 04 Jan 2026 08:32:39 GMT | An Audit Trail is Useless if it’s a PDF. Why Compliance Must Become Code. | Jean Piroddi | [Read More](https://medium.com/p/80679fd4e56a) |
 | Sun, 04 Jan 2026 08:32:08 GMT | Pakistan’s Students: The Weakest Link in Cybersecurity | Nihal Hyder | [Read More](https://medium.com/p/807719b943a3) |
 | Sun, 04 Jan 2026 08:24:03 GMT | Business Logic Abuse in Coupon and Wallet Systems | Monika sharma | [Read More](https://medium.com/p/02b8118f2467) |
-| Sun, 04 Jan 2026 08:12:08 GMT | Oracle APEX as an ISO/IEC 27001 Aligned Application Platform | Syed Muhib Ahmed | [Read More](https://medium.com/p/0bb6505454cf) |
-| Sun, 04 Jan 2026 08:07:28 GMT | Security Assessment Best Practices for 2024 | Securegap.io | [Read More](https://medium.com/p/65a3f362dd15) |
-| Sun, 04 Jan 2026 07:56:20 GMT | Threat Hunting Without Lock-In: How to Build Vendor-Resilient Visibility Inside an AI-Powered SOC | raditio ghifiardi | [Read More](https://medium.com/p/c020ef1d9e7b) |
-| Sun, 04 Jan 2026 07:56:03 GMT | Local File Inclusion lead to Admin Account Takeover | Zaidanxpersonal | [Read More](https://medium.com/p/464520fac817) |
-| Sun, 04 Jan 2026 07:50:30 GMT | The Analog Era is Dead: Why You Must Upgrade Your DVR to NVR or XVR in 2025 | Tavan CCTV | [Read More](https://medium.com/p/1c953c4f9f31) |
-| Sun, 04 Jan 2026 07:50:26 GMT | Top 10 Mobile Application Security Testing Tools in 2026 | cyber security Updates | [Read More](https://medium.com/p/b8d47bb8f5bb) |
-| Sun, 04 Jan 2026 07:48:07 GMT | How Python Works with AI | Himakshithakre | [Read More](https://medium.com/p/7629a0f7832b) |
-| Sun, 04 Jan 2026 07:46:48 GMT | The RAG Trap | Nitish Gupta | [Read More](https://medium.com/p/f622c4928e64) |
-| Sun, 04 Jan 2026 07:44:33 GMT | Facing off with Gandalf Level 3 | Kimberly Ordel | [Read More](https://medium.com/p/4db447e6f222) |
-| Sun, 04 Jan 2026 07:39:42 GMT | แนะนำโปรแกรม NetLimiter | Supot Sirisak | [Read More](https://medium.com/p/9a45538a41bb) |
-| Sun, 04 Jan 2026 07:32:24 GMT | Before You Take That L2 Deal: 7 Security Questions | Vectorlane | [Read More](https://medium.com/p/fa5e5da6bb56) |
-| Sun, 04 Jan 2026 07:13:24 GMT | SideCopy APT: Silent Intrusions and Persistent Espionage | Himanshu Bhatt | [Read More](https://medium.com/p/57dbf0c72320) |
-| Sun, 04 Jan 2026 07:12:14 GMT | Stop Writing Your Own HTML Encoders: A Guide to XSS Prevention in Custom Frameworks | Noor Mohammed Rizwan | [Read More](https://medium.com/p/6b1c90b29a42) |
-| Sun, 04 Jan 2026 07:11:30 GMT | Who is a white hat hacker? | Vishalraj | [Read More](https://medium.com/p/4d9f2049929d) |
-| Sun, 04 Jan 2026 07:09:34 GMT | ️ FortiGate Lab — Address Object Oluşturma (IP / Subnet Mantığı) | Esra Tosun | [Read More](https://medium.com/p/d4ce88eabef4) |
