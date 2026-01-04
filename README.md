@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 15:03:55 GMT | DevSecOps Security Explained: Nessus vs Black Duck vs Trivy | Amit Singh | [Read More](https://medium.com/p/311021563dcb) |
+| Sun, 04 Jan 2026 14:58:45 GMT | Locking Down Old Computers Without Losing Your Data | Geoffrey Wenger | [Read More](https://medium.com/p/3824e596ba41) |
+| Sun, 04 Jan 2026 14:56:07 GMT | The Art of WAF Evasion: From Superficial Techniques to Systematic Strategies | N0aziXss | [Read More](https://medium.com/p/62202cd82962) |
+| Sun, 04 Jan 2026 14:55:07 GMT | hide How to Hide Text Inside Images | Stegure.in | [Read More](https://medium.com/p/9768ddd7a17e) |
+| Sun, 04 Jan 2026 14:49:59 GMT | Common Cybersecurity Terms Every Beginner Should Know : | Girija | [Read More](https://medium.com/p/f28ba0dfa6c2) |
+| Sun, 04 Jan 2026 14:48:32 GMT | How Phone Numbers Get Tracked Online | Fareed Masood | [Read More](https://medium.com/p/9038b06cf4af) |
+| Sun, 04 Jan 2026 14:43:19 GMT | This Rust Library Is ‘Illegal’ On Purpose And It Exposes A Bigger Problem With AI Coding | Build Break Learn | [Read More](https://medium.com/p/28a9771b7001) |
+| Sun, 04 Jan 2026 14:37:20 GMT | Case File: 0x02 — Operation “Parking Lot Pivot” | The Knight | [Read More](https://medium.com/p/046d96c8c10b) |
 | Sun, 04 Jan 2026 14:34:48 GMT | Cloudflare: ตั้งค่า security/cache สำหรับเว็บ WordPress ป้องกันแฮ๊ก login | samphan r. | [Read More](https://medium.com/p/e2ad51e574bd) |
+| Sun, 04 Jan 2026 14:32:40 GMT | Try Hack Me - ParrotPost — Phishing Analysis - Walkthrough | Raheesh Nusayr | [Read More](https://medium.com/p/efc881af75e3) |
+| Sun, 04 Jan 2026 14:32:25 GMT | Session Hijacking Made Simple: Capturing Sessions with Ferret and Hamster | Vignesh R | [Read More](https://medium.com/p/acf8a9ef4deb) |
 | Sun, 04 Jan 2026 14:29:53 GMT | Data Classification Automation | Esra Kayhan | [Read More](https://medium.com/p/9675395fcb82) |
 | Sun, 04 Jan 2026 14:24:39 GMT | How AI Helped Me Catch a Security Flaw I Would’ve Missed | Mubashir | [Read More](https://medium.com/p/65637cfd7164) |
 | Sun, 04 Jan 2026 14:24:02 GMT | What Is a Model File in AI? (Explained So Simply Anyone Can Understand) | Prapti Vahia | [Read More](https://medium.com/p/1b0e08d69df8) |
@@ -104,13 +114,3 @@ Every… | Ankit rai | [Read More](https://medium.com/p/a6432d7fb429) |
 | Sun, 04 Jan 2026 07:09:34 GMT | ️ FortiGate Lab — Address Object Oluşturma (IP / Subnet Mantığı) | Esra Tosun | [Read More](https://medium.com/p/d4ce88eabef4) |
 | Sun, 04 Jan 2026 07:02:41 GMT | 7 Subtle Signs We’re Accidentally Killing the Next Generation of Software Engineers | AlgoWing | [Read More](https://medium.com/p/5222d5629777) |
 | Sun, 04 Jan 2026 07:02:38 GMT | Deauthentication Attacks — The Silent Killer of Wi-Fi Networks | Nisarg Patel | [Read More](https://medium.com/p/9410821817e0) |
-| Sun, 04 Jan 2026 07:02:30 GMT | The Hidden Risks of Public Wi-Fi, Why Convenience Sometimes Comes With a Cyber Cost | Grace Chukwunta | [Read More](https://medium.com/p/910f34fd4904) |
-| Sun, 04 Jan 2026 07:02:26 GMT | Cracking the Code: A Deep Dive into Hydra — The Fast and Flexible Password Cracker | XoX | [Read More](https://medium.com/p/5f77d9fd8f87) |
-| Sun, 04 Jan 2026 07:01:49 GMT | 2025 Christmas / New Year’s break Nerd projects | GrumpyOlVet | [Read More](https://medium.com/p/3411a34b9286) |
-| Sun, 04 Jan 2026 06:58:02 GMT | Introduction to WSO2 Identity Server for Beginners | Nipun udara rathnayake | [Read More](https://medium.com/p/cc8850f2193e) |
-| Sun, 04 Jan 2026 06:57:36 GMT | Why Some VPNs Cannot Prove Privacy | Secybers VPN | [Read More](https://medium.com/p/d747d98b7d20) |
-| Sun, 04 Jan 2026 06:57:16 GMT | Audited, Tested, and Still Broken: Smart Contract Hacks of 2025 | Kurt Merbeth | [Read More](https://medium.com/p/a76c94e203d1) |
-| Sun, 04 Jan 2026 06:52:15 GMT | Pengenalan Metasploit: Cara install Metasploit dalam Windows | Hinoshi/x64 | [Read More](https://medium.com/p/91f1a4c4c40f) |
-| Sun, 04 Jan 2026 06:51:18 GMT | Data Transmission | Red_Ghost | [Read More](https://medium.com/p/1dd157401e4d) |
-| Sun, 04 Jan 2026 06:49:48 GMT | Ethical Hacking Course in Trivandrum | Digitalshawarma | [Read More](https://medium.com/p/63867100d08a) |
-| Sun, 04 Jan 2026 06:45:25 GMT | Quantum-Safe Cryptography Oman: 2026 Roadmap for Muscat | Vanguard Tech Services | [Read More](https://medium.com/p/d2dd5f7075bd) |
