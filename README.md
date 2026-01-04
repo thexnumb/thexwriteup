@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 16:44:47 GMT | Bug Bounty Burnout Almost Killed My Motivation — Then This Logic Flaw Paid Me | Iski | [Read More](https://medium.com/p/a1d335016445) |
+| Sun, 04 Jan 2026 16:42:54 GMT | Living the Cybersecurity Serenity Prayer | Helen Patton | [Read More](https://medium.com/p/b811db745da8) |
+| Sun, 04 Jan 2026 16:41:50 GMT | Defense in Depth in Cybersecurity | mohandika | [Read More](https://medium.com/p/52cd1b28bfa3) |
+| Sun, 04 Jan 2026 16:36:08 GMT | FortiGate: Kural Oluşturma Adımları | Azat Dicle | [Read More](https://medium.com/p/fed032d4d829) |
+| Sun, 04 Jan 2026 16:34:33 GMT | The Paradox of High-Security AI: Why I Built a Fully Offline Meeting Assistant | Yakup Mert Akan | [Read More](https://medium.com/p/00ffe53160a2) |
+| Sun, 04 Jan 2026 16:32:34 GMT | When Hope Keeps You Stuck | WordsbyBano | [Read More](https://medium.com/p/5dfc3cc4b309) |
+| Sun, 04 Jan 2026 16:31:57 GMT | Penetration Testing in Finland (2026): Pricing, Process, and What Companies Should Expect | Attractor | [Read More](https://medium.com/p/a07cfd076139) |
+| Sun, 04 Jan 2026 16:30:06 GMT | Fast & Professional House Lock Out Service in London — The Lock Specialist Ltd | The Lock Specialist Ltd | [Read More](https://medium.com/p/3fe6c631f221) |
 | Sun, 04 Jan 2026 16:25:46 GMT | E1 Locksmith Services in London — Trusted Local Support by The Lock Specialist Ltd | The Lock Specialist Ltd | [Read More](https://medium.com/p/6e83c2137645) |
+| Sun, 04 Jan 2026 16:25:10 GMT | Why JPA FetchType.EAGER Is a Production Bug (And How It Destroys Spring Boot Performance) | Karuna | [Read More](https://medium.com/p/980d36ab4a3c) |
+| Sun, 04 Jan 2026 16:23:21 GMT | Cybersecurity Audit Panic Is Optional: Turn Audits into a Competitive Advantage | Denny Roger | [Read More](https://medium.com/p/21596cbeaf21) |
 | Sun, 04 Jan 2026 16:20:13 GMT | [2026] Databricks AI_MASK or Snowflake AI_REDACT? Securing Your Unstructured Data | Divyansh Saxena | [Read More](https://medium.com/p/712a9b2685a1) |
 | Sun, 04 Jan 2026 16:14:50 GMT | XSS Attack: Panduan Lengkap Cross Site Scripting Untuk Ethical Hacker | Handev Code | [Read More](https://medium.com/p/9d1b924e1d57) |
 | Sun, 04 Jan 2026 16:10:38 GMT | Security Onion Installation and Configuration | Ankit M | [Read More](https://medium.com/p/5b74f32659a7) |
@@ -104,13 +114,3 @@ Every… | Ankit rai | [Read More](https://medium.com/p/a6432d7fb429) |
 | Sun, 04 Jan 2026 09:19:53 GMT | Waterfall vs Agile | Pranil Pradeep Dalvi | [Read More](https://medium.com/p/613b635908ac) |
 | Sun, 04 Jan 2026 09:19:40 GMT | When ‘Harmless’ Is No Longer Harmless … | Prashant Dhume | [Read More](https://medium.com/p/7b82e56fa82a) |
 | Sun, 04 Jan 2026 09:09:39 GMT | SOC Analyst Roadmap [2026 ] : The Complete Career Guide from Beginner to Pro | EINITIAL24 | [Read More](https://medium.com/p/246204c56714) |
-| Sun, 04 Jan 2026 09:08:29 GMT | The Architecture of Zero Trust Network Access (ZTNA) | OBED ONYEDIKA INYA | [Read More](https://medium.com/p/74e2c6c10752) |
-| Sun, 04 Jan 2026 09:04:10 GMT | Your Side Project Won’t Save You Anymore | Vijay Kumar Gupta | [Read More](https://medium.com/p/2a1d76d429dd) |
-| Sun, 04 Jan 2026 09:02:30 GMT | 3rd Party Component Vulnerabilities — SSC Fortify Security Findings Analysis — Part 5 | Okan Yurt | [Read More](https://medium.com/p/3811edb872c9) |
-| Sun, 04 Jan 2026 08:53:13 GMT | 보안은 높이고, 병목은 줄이고: IP 기반 접근 제어에서 Tailscale VPN으로 전환한 후기 | 이진만 (Jamie) | [Read More](https://medium.com/p/2a97a99bcf6) |
-| Sun, 04 Jan 2026 08:52:50 GMT | The Spy in the Server Room: How Agentic AI Turns Your Best Tool Into Your Worst Enemy (And How to… | ZENcurity | [Read More](https://medium.com/p/ce0a558ab90f) |
-| Sun, 04 Jan 2026 08:48:19 GMT | Basic Commands in Kali-Linux for Ethical Hacking (Part-4) | Akhil Thakur | [Read More](https://medium.com/p/7855bcd7586c) |
-| Sun, 04 Jan 2026 08:44:59 GMT | How can I Secure a Tailscale Network | Archisman Ray | [Read More](https://medium.com/p/e5aa4199fa52) |
-| Sun, 04 Jan 2026 08:32:39 GMT | An Audit Trail is Useless if it’s a PDF. Why Compliance Must Become Code. | Jean Piroddi | [Read More](https://medium.com/p/80679fd4e56a) |
-| Sun, 04 Jan 2026 08:32:08 GMT | Pakistan’s Students: The Weakest Link in Cybersecurity | Nihal Hyder | [Read More](https://medium.com/p/807719b943a3) |
-| Sun, 04 Jan 2026 08:24:03 GMT | Business Logic Abuse in Coupon and Wallet Systems | Monika sharma | [Read More](https://medium.com/p/02b8118f2467) |
