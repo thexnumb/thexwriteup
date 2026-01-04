@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 19:08:14 GMT | Bad Architecture: The AI Didn’t Fail — The Architecture Did | Hazem Ali | [Read More](https://medium.com/p/f73bbdc81535) |
+| Sun, 04 Jan 2026 19:02:11 GMT | Best Careers with Future Scope | Ruvera IT Training Institute | [Read More](https://medium.com/p/63032d4baad8) |
+| Sun, 04 Jan 2026 18:53:02 GMT | What I Learned About Identity Networks and 802.1X — And Why They Matter for Modern Security | rundiable | [Read More](https://medium.com/p/c3a8352ff483) |
+| Sun, 04 Jan 2026 18:40:36 GMT | I preach vulnerability, but I curate it | Olayinka Atobiloye | [Read More](https://medium.com/p/1e1a6be2fdb0) |
+| Sun, 04 Jan 2026 18:39:51 GMT | Burp Suite said “Critical”, Chrome said “Nope”: My ~$1,000 Mistake | Marlon Petry | [Read More](https://medium.com/p/9581777d7ce3) |
+| Sun, 04 Jan 2026 18:34:12 GMT | Cyber Security Service for Small Businesses in the UK: Top Providers, Costs & 24/7 Protection | Frieda Kane | [Read More](https://medium.com/p/bc505cab0e09) |
+| Sun, 04 Jan 2026 18:30:25 GMT | Sar Cheatsheet (Proving Grounds Play) | Adam Bartlett | [Read More](https://medium.com/p/b387d857cfda) |
+| Sun, 04 Jan 2026 18:29:26 GMT | WiFi Security Is Built for Offices That No Longer Exist | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/4a45b39cbc80) |
 | Sun, 04 Jan 2026 18:20:11 GMT | The Rise of AI in Cybersecurity: A Double-Edged Sword | Cyber_Phoenix | [Read More](https://medium.com/p/c31f6313173f) |
 | Sun, 04 Jan 2026 18:16:37 GMT | The Misconception Behind ‘You’re in IT, So You Must Know It All | B. S. Aishwarya Valli | [Read More](https://medium.com/p/7aa39a991a2c) |
 | Sun, 04 Jan 2026 18:15:23 GMT | -$14.250: Military vulnerability | Lucas Soares | [Read More](https://medium.com/p/337870590e18) |
@@ -106,11 +114,3 @@ Every… | Ankit rai | [Read More](https://medium.com/p/a6432d7fb429) |
 | Sun, 04 Jan 2026 12:29:56 GMT | TryHackMe - Splunk Exploring SPL Walkthrough | Birdv | [Read More](https://medium.com/p/5d284939fb26) |
 | Sun, 04 Jan 2026 12:16:17 GMT | The Limitations of AI in Cybersecurity: Why I Built RootTron | Roottron | [Read More](https://medium.com/p/a6157f290645) |
 | Sun, 04 Jan 2026 12:07:57 GMT | Securing AI Systems: Why Every Organization Needs a Comprehensive Security Framework | Kamran Rafiq - Cybersecurity Leader | [Read More](https://medium.com/p/0bb973753e7f) |
-| Sun, 04 Jan 2026 12:00:51 GMT | SAR 2,629 For Stored XSS via svg Image Leading to ATO | Anas NadY | [Read More](https://medium.com/p/1916c50251dc) |
-| Sun, 04 Jan 2026 11:55:21 GMT | EternalBlue Zafiyeti | Mehmet Ali Gülyurdu | [Read More](https://medium.com/p/e46d73b278e3) |
-| Sun, 04 Jan 2026 11:48:16 GMT | Safe Social Media: Privacy Tools and Tips at No Cost | Muneeb - Budget Tech Buddy | [Read More](https://medium.com/p/48b2eb18c951) |
-| Sun, 04 Jan 2026 11:44:39 GMT | Detection Rule Fragility: Design Pitfalls Every Detection Engineer Must Know | SOCLabs | [Read More](https://medium.com/p/56722d0c6964) |
-| Sun, 04 Jan 2026 11:38:56 GMT | Differential Privacy for Everyone: Prerequisite — k-Anonymity | Eagle_Eye | [Read More](https://medium.com/p/e45af03fc95d) |
-| Sun, 04 Jan 2026 11:27:49 GMT | Menemukan Kerentanan Prototype Pollution di Absensi Pemerintahan: Lessons Learned dari Penetration… | Ahmadfaizabdillah | [Read More](https://medium.com/p/d1fe9959f0db) |
-| Sun, 04 Jan 2026 11:26:38 GMT | A Beginner’s Guide to AWS Security Groups | Bhathiya Ranasinghe | [Read More](https://medium.com/p/8735b41f76b4) |
-| Sun, 04 Jan 2026 11:25:23 GMT | Ethical Hacking Career in 2026: Your Guide to a Future-Ready Cybersecurity Journey | Sukhveer Singh | [Read More](https://medium.com/p/3dcb1215be0d) |
