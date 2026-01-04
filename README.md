@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 04:53:57 GMT | Unauthorized Access to Sensitive PII via Broken Access Control | Ajay Vardhan | [Read More](https://medium.com/p/507adf46879a) |
+| Sun, 04 Jan 2026 04:32:36 GMT | Top 5 On-Chain Audit Trail Techniques Without PII Spills | Duckweave | [Read More](https://medium.com/p/876701e4c728) |
+| Sun, 04 Jan 2026 04:32:36 GMT | The 5 Bridges Users Actually Trust | Quellin | [Read More](https://medium.com/p/538ae02bf3a3) |
+| Sun, 04 Jan 2026 04:32:36 GMT | 10 Wallet Features That Would’ve Stopped Breaches | Velorum | [Read More](https://medium.com/p/b3bcd9047fc1) |
+| Sun, 04 Jan 2026 04:32:28 GMT | 10 Security Metrics Worth Putting on a Public Dashboard | Praxen | [Read More](https://medium.com/p/87ea8dfa1a37) |
+| Sun, 04 Jan 2026 04:30:44 GMT | A Solid Ground to Ensure AI Safety | Antoine & Kika | [Read More](https://medium.com/p/906fef4e3d15) |
+| Sun, 04 Jan 2026 04:23:07 GMT | Your pipeline didn’t fail because of scale. | Abdhulkalam | [Read More](https://medium.com/p/f0a9e356560b) |
 | Sun, 04 Jan 2026 03:56:14 GMT | Unleashing GoBuster: Advanced Recon & Enumeration for Professionals | Cybeague Technologies | [Read More](https://medium.com/p/9af46f16f3fa) |
+| Sun, 04 Jan 2026 03:55:40 GMT | Cybersecurity in Toronto and the GTA: Why Cyber Build Is the Security Partner Businesses Trust | Streets | [Read More](https://medium.com/p/be3eba2e972a) |
 | Sun, 04 Jan 2026 03:55:26 GMT | Getting Started with GoBuster: The Fast Lane to Smarter Web Recon | Cybeague Technologies | [Read More](https://medium.com/p/15d255ae8b6d) |
 | Sun, 04 Jan 2026 03:49:09 GMT | Intercom Deep Recon Techniques | Abhirup Konwar | [Read More](https://medium.com/p/83eca3229704) |
 | Sun, 04 Jan 2026 03:40:45 GMT | Basics of Dynamic Malware Analysis, Part 1: Building a Secure Isolated Sandbox | Mahmoud Matar | [Read More](https://medium.com/p/ef8da359df65) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 Jan 2026 16:55:01 GMT | METASPLOIT- Reverse Shell Tutorial | Amrit Kashyap | [Read More](https://medium.com/p/e64be314ed6f) |
 | Sat, 03 Jan 2026 16:54:59 GMT | The Architects of Trust: Meet the Algorithms Replacing RSA | Harsh Bhogayata | [Read More](https://medium.com/p/2a76075d6059) |
 | Sat, 03 Jan 2026 16:48:53 GMT | Server-Side Request Forgery (SSRF) | Cybernight | [Read More](https://medium.com/p/63f4accf706b) |
-| Sat, 03 Jan 2026 16:46:01 GMT | OS Command Injection | Cybernight | [Read More](https://medium.com/p/9872b2c8d3c7) |
-| Sat, 03 Jan 2026 16:44:09 GMT | The Friendly Guide to Free OSINT “Super-Snooper” Tools | Rohit Chaudhary | [Read More](https://medium.com/p/e49236b7ffce) |
-| Sat, 03 Jan 2026 16:43:41 GMT | The Quantum Threat isn’t Future Science Fiction — It’s Happening Right Now | Harsh Bhogayata | [Read More](https://medium.com/p/eb9cdd48df0f) |
-| Sat, 03 Jan 2026 16:35:00 GMT | The Infrastructure We Don’t See Until It Fails | Veda T. Woods | [Read More](https://medium.com/p/41fdde487c7e) |
-| Sat, 03 Jan 2026 16:32:44 GMT | Archangel — TryHackMe Writeup | Shivang Tiwari | [Read More](https://medium.com/p/8320bf47e0cf) |
-| Sat, 03 Jan 2026 16:25:34 GMT | Speeding up the RMF Pipeline Through Proper Automation | Dale Bingham | [Read More](https://medium.com/p/a09b93ff50b4) |
-| Sat, 03 Jan 2026 16:22:51 GMT | Turning Your Firewall into an Enforcement Edge: GitOps for North-South Security | Salwan Mohamed | [Read More](https://medium.com/p/f336d2ca612d) |
-| Sat, 03 Jan 2026 16:18:42 GMT | TryHackme - Empline | ABHISHEK M D | [Read More](https://medium.com/p/dcd85f5e3cc3) |
