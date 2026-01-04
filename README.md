@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 08:44:59 GMT | How can I Secure a Tailscale Network | Archisman Ray | [Read More](https://medium.com/p/e5aa4199fa52) |
+| Sun, 04 Jan 2026 08:32:39 GMT | An Audit Trail is Useless if it’s a PDF. Why Compliance Must Become Code. | Jean Piroddi | [Read More](https://medium.com/p/80679fd4e56a) |
+| Sun, 04 Jan 2026 08:32:08 GMT | Pakistan’s Students: The Weakest Link in Cybersecurity | Nihal Hyder | [Read More](https://medium.com/p/807719b943a3) |
 | Sun, 04 Jan 2026 08:24:03 GMT | Business Logic Abuse in Coupon and Wallet Systems | Monika sharma | [Read More](https://medium.com/p/02b8118f2467) |
 | Sun, 04 Jan 2026 08:12:08 GMT | Oracle APEX as an ISO/IEC 27001 Aligned Application Platform | Syed Muhib Ahmed | [Read More](https://medium.com/p/0bb6505454cf) |
 | Sun, 04 Jan 2026 08:07:28 GMT | Security Assessment Best Practices for 2024 | Securegap.io | [Read More](https://medium.com/p/65a3f362dd15) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 Jan 2026 22:36:23 GMT | The Invisible Machines: Astonishing Random Facts About the Technology You Use Every Single Day | FactSphereMedia | [Read More](https://medium.com/p/a379eb1e3139) |
 | Sat, 03 Jan 2026 22:31:25 GMT | Unmasking the RTO Scam: Reverse Engineering the ‘RTO Challan’ Banking Trojan | Mr_MalMan | [Read More](https://medium.com/p/df3ebe9c03ae) |
 | Sat, 03 Jan 2026 22:26:24 GMT | Why Managed IT Services in Fontana, CA Must Rethink Cloud Security in 2025 | Zeta Sky | [Read More](https://medium.com/p/52273e6172b5) |
-| Sat, 03 Jan 2026 22:25:51 GMT | Honored to be your friend… | Olivia Senghor | [Read More](https://medium.com/p/2d893758ed00) |
-| Sat, 03 Jan 2026 22:16:37 GMT | That Time I Hacked Venezuela: Apparently, That Makes Me a “Cyber Fascist” | Chris Kubecka de Medina | [Read More](https://medium.com/p/21ecb1d5a7f1) |
-| Sat, 03 Jan 2026 22:03:52 GMT | The $336,787 Problem: Why Your Fraud Prevention Fails After Onboarding | Heesham Naji | [Read More](https://medium.com/p/336129c2ae00) |
