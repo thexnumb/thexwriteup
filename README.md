@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 19:26:49 GMT | Executive Safety in Turkey: A Strategic Guide to Armored Transportation | BYZAS | [Read More](https://medium.com/p/98265a0648f5) |
+| Sun, 04 Jan 2026 19:19:44 GMT | Idempotency: the simple backend idea that quietly saves your ass | Leon Musk | [Read More](https://medium.com/p/cc8f9dd13710) |
+| Sun, 04 Jan 2026 19:17:06 GMT | Understanding Common OTP Bypass Techniques | Aryan patel | [Read More](https://medium.com/p/4670b4dcb438) |
 | Sun, 04 Jan 2026 19:08:14 GMT | Bad Architecture: The AI Didn’t Fail — The Architecture Did | Hazem Ali | [Read More](https://medium.com/p/f73bbdc81535) |
 | Sun, 04 Jan 2026 19:02:11 GMT | Best Careers with Future Scope | Ruvera IT Training Institute | [Read More](https://medium.com/p/63032d4baad8) |
 | Sun, 04 Jan 2026 18:53:02 GMT | What I Learned About Identity Networks and 802.1X — And Why They Matter for Modern Security | rundiable | [Read More](https://medium.com/p/c3a8352ff483) |
@@ -111,6 +114,3 @@ Every… | Ankit rai | [Read More](https://medium.com/p/a6432d7fb429) |
 | Sun, 04 Jan 2026 12:40:03 GMT | React2Shell (CVE-2025–55182) — From React Server Components to Full RCE | Aditya Bhatt | [Read More](https://medium.com/p/81acd9f94783) |
 | Sun, 04 Jan 2026 12:36:14 GMT | How I Design Small Security Projects to Learn Faster | Asmit Patil | [Read More](https://medium.com/p/46356b1911e0) |
 | Sun, 04 Jan 2026 12:31:04 GMT | How Windows Learned to Trust You: From Passwords to Kerberos | Vineet Singh Solanki | [Read More](https://medium.com/p/57fab5094d0c) |
-| Sun, 04 Jan 2026 12:29:56 GMT | TryHackMe - Splunk Exploring SPL Walkthrough | Birdv | [Read More](https://medium.com/p/5d284939fb26) |
-| Sun, 04 Jan 2026 12:16:17 GMT | The Limitations of AI in Cybersecurity: Why I Built RootTron | Roottron | [Read More](https://medium.com/p/a6157f290645) |
-| Sun, 04 Jan 2026 12:07:57 GMT | Securing AI Systems: Why Every Organization Needs a Comprehensive Security Framework | Kamran Rafiq - Cybersecurity Leader | [Read More](https://medium.com/p/0bb973753e7f) |
