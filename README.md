@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 07:12:14 GMT | Stop Writing Your Own HTML Encoders: A Guide to XSS Prevention in Custom Frameworks | Noor Mohammed Rizwan | [Read More](https://medium.com/p/6b1c90b29a42) |
+| Sun, 04 Jan 2026 07:11:30 GMT | Who is a white hat hacker? | Vishalraj | [Read More](https://medium.com/p/4d9f2049929d) |
+| Sun, 04 Jan 2026 07:09:34 GMT | ️ FortiGate Lab — Address Object Oluşturma (IP / Subnet Mantığı) | Esra Tosun | [Read More](https://medium.com/p/d4ce88eabef4) |
+| Sun, 04 Jan 2026 07:02:41 GMT | 7 Subtle Signs We’re Accidentally Killing the Next Generation of Software Engineers | AlgoWing | [Read More](https://medium.com/p/5222d5629777) |
+| Sun, 04 Jan 2026 07:02:38 GMT | Deauthentication Attacks — The Silent Killer of Wi-Fi Networks | Nisarg Patel | [Read More](https://medium.com/p/9410821817e0) |
+| Sun, 04 Jan 2026 07:02:30 GMT | The Hidden Risks of Public Wi-Fi, Why Convenience Sometimes Comes With a Cyber Cost | Grace Chukwunta | [Read More](https://medium.com/p/910f34fd4904) |
+| Sun, 04 Jan 2026 07:02:26 GMT | Cracking the Code: A Deep Dive into Hydra — The Fast and Flexible Password Cracker | XoX | [Read More](https://medium.com/p/5f77d9fd8f87) |
+| Sun, 04 Jan 2026 07:01:49 GMT | 2025 Christmas / New Year’s break Nerd projects | GrumpyOlVet | [Read More](https://medium.com/p/3411a34b9286) |
+| Sun, 04 Jan 2026 06:58:02 GMT | Introduction to WSO2 Identity Server for Beginners | Nipun udara rathnayake | [Read More](https://medium.com/p/cc8850f2193e) |
+| Sun, 04 Jan 2026 06:57:36 GMT | Why Some VPNs Cannot Prove Privacy | Secybers VPN | [Read More](https://medium.com/p/d747d98b7d20) |
+| Sun, 04 Jan 2026 06:57:16 GMT | Audited, Tested, and Still Broken: Smart Contract Hacks of 2025 | Kurt Merbeth | [Read More](https://medium.com/p/a76c94e203d1) |
+| Sun, 04 Jan 2026 06:52:15 GMT | Pengenalan Metasploit: Cara install Metasploit dalam Windows | Hinoshi/x64 | [Read More](https://medium.com/p/91f1a4c4c40f) |
+| Sun, 04 Jan 2026 06:51:18 GMT | Data Transmission | Red_Ghost | [Read More](https://medium.com/p/1dd157401e4d) |
+| Sun, 04 Jan 2026 06:49:48 GMT | Ethical Hacking Course in Trivandrum | Digitalshawarma | [Read More](https://medium.com/p/63867100d08a) |
+| Sun, 04 Jan 2026 06:45:25 GMT | Quantum-Safe Cryptography Oman: 2026 Roadmap for Muscat | Vanguard Tech Services | [Read More](https://medium.com/p/d2dd5f7075bd) |
+| Sun, 04 Jan 2026 06:44:17 GMT | BTLO Phishing Analysis Walkthrough | Blught | [Read More](https://medium.com/p/d0bd55ae85f8) |
+| Sun, 04 Jan 2026 06:44:15 GMT | The Linux Concept Journey — Unix Time | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f1cdd7cd57b1) |
 | Sun, 04 Jan 2026 06:32:56 GMT | $280 Bug Bounty: How a Case-Sensitive Email Bug Locked Users' Accounts | Monika sharma | [Read More](https://medium.com/p/175fe00779d9) |
 | Sun, 04 Jan 2026 06:27:55 GMT | The One-Click Library Wipe: Exploiting CSRF in Saved Stories | Munna✨ | [Read More](https://medium.com/p/28523d4bc5e2) |
 | Sun, 04 Jan 2026 06:25:41 GMT | Hack The Box — Bashed — Easy | 0x0b0 | [Read More](https://medium.com/p/8248ab7c596e) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 Jan 2026 20:14:48 GMT | The Reality of Paying With Stablecoins Today | Stan4Chainz | [Read More](https://medium.com/p/08a62acdc61f) |
 | Sat, 03 Jan 2026 19:44:29 GMT | Broken Authentication Explained: How Attackers Take Over Accounts and How to Prevent It | PriOFF | [Read More](https://medium.com/p/59274bc9f826) |
 | Sat, 03 Jan 2026 19:31:38 GMT | OSI Model vs TCP/IP Model: How Data Really Travels Across Networks | Cavidtaqiyev | [Read More](https://medium.com/p/1ea263601427) |
-| Sat, 03 Jan 2026 19:28:39 GMT | Passwortmanager 2026 — eine nüchterne Einordnung | Benjamin Lembcke | [Read More](https://medium.com/p/d2f13fbd3aac) |
-| Sat, 03 Jan 2026 19:21:43 GMT | (Part 12) Mastering GitHub Copilot Series: Beyond Copilot — Embracing GitHub’s Full Security… | Nick | [Read More](https://medium.com/p/817bd89a6c2b) |
-| Sat, 03 Jan 2026 19:10:06 GMT | Practical Steps to Kickstart Your Cybersecurity and Bug Bounty Journey ️ | Ali.Yurie | [Read More](https://medium.com/p/023479b7a46f) |
-| Sat, 03 Jan 2026 19:07:29 GMT | The Night I Realized Defence Wasn’t Enough | Cybersickerhub | [Read More](https://medium.com/p/04dc30222f87) |
-| Sat, 03 Jan 2026 19:02:44 GMT | Foucault and the Power of Surveillance: Rethinking Digital Privacy in a Panoptic World | Brian Haman, PhD | [Read More](https://medium.com/p/d22aafd08d01) |
-| Sat, 03 Jan 2026 18:38:49 GMT | NIS2 — A Once In A Lifetime Business Advantage | Routerfishers | [Read More](https://medium.com/p/4ef19a486c46) |
-| Sat, 03 Jan 2026 18:38:12 GMT | Log Analysis for SOC Analysts (Linux & Windows Basics) | Jenishjoel | [Read More](https://medium.com/p/26e44c03898c) |
-| Sat, 03 Jan 2026 18:24:04 GMT | FortiGate Firewall Policy Yazarak Windows–Kali İletişimi Sağlamak | Faruk TANRIVERDİ | [Read More](https://medium.com/p/5fbfc74cb69a) |
-| Sat, 03 Jan 2026 18:20:14 GMT | The “Best” Trap and an Unexpected Relapse | surplus_girl | [Read More](https://medium.com/p/b01358f6107e) |
-| Sat, 03 Jan 2026 18:18:42 GMT | Security Onion 2.4 Installation on VMware (EVAL Mode) | Gatecrasher01 | [Read More](https://medium.com/p/7965cfbaf80d) |
-| Sat, 03 Jan 2026 18:16:27 GMT | The two byte CPDoS | Nigel Kennis | [Read More](https://medium.com/p/1b4466511cf1) |
-| Sat, 03 Jan 2026 18:15:58 GMT | TryHackMe: Hydra - A CTF Write-up | Spiritsimba | [Read More](https://medium.com/p/240eba3850c1) |
-| Sat, 03 Jan 2026 18:10:54 GMT | Network Mapping with Nmap: The Basics of Reconnaissance in Network Security | Habibi | [Read More](https://medium.com/p/17bd48525ae6) |
-| Sat, 03 Jan 2026 18:09:46 GMT | Lab: Weak isolation on dual-use endpoint | Songül Kızılay Özügürler | [Read More](https://medium.com/p/7fab9d7d1411) |
-| Sat, 03 Jan 2026 18:06:54 GMT | SOC Fundamentals and Analyst Workflows | Jenishjoel | [Read More](https://medium.com/p/99a8873e6aeb) |
-| Sat, 03 Jan 2026 18:05:43 GMT | Inside the Blind Spots of Modern Motion Sensors | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/8ae99b061232) |
-| Sat, 03 Jan 2026 18:04:23 GMT | Highly Obfuscated Shai Hulud Variant Targets Dev Environments | Chetan Seripally | [Read More](https://medium.com/p/736adfcc9730) |
