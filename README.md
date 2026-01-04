@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 09:09:39 GMT | SOC Analyst Roadmap [2026 ] : The Complete Career Guide from Beginner to Pro | EINITIAL24 | [Read More](https://medium.com/p/246204c56714) |
+| Sun, 04 Jan 2026 09:04:10 GMT | Your Side Project Won’t Save You Anymore | Vijay Kumar Gupta | [Read More](https://medium.com/p/2a1d76d429dd) |
+| Sun, 04 Jan 2026 09:02:30 GMT | 3rd Party Component Vulnerabilities — SSC Fortify Security Findings Analysis — Part 5 | Okan Yurt | [Read More](https://medium.com/p/3811edb872c9) |
+| Sun, 04 Jan 2026 08:53:13 GMT | 보안은 높이고, 병목은 줄이고: IP 기반 접근 제어에서 Tailscale VPN으로 전환한 후기 | 이진만 (Jamie) | [Read More](https://medium.com/p/2a97a99bcf6) |
+| Sun, 04 Jan 2026 08:52:50 GMT | The Spy in the Server Room: How Agentic AI Turns Your Best Tool Into Your Worst Enemy (And How to… | ZENcurity | [Read More](https://medium.com/p/ce0a558ab90f) |
+| Sun, 04 Jan 2026 08:48:19 GMT | Basic Commands in Kali-Linux for Ethical Hacking (Part-4) | Akhil Thakur | [Read More](https://medium.com/p/7855bcd7586c) |
 | Sun, 04 Jan 2026 08:44:59 GMT | How can I Secure a Tailscale Network | Archisman Ray | [Read More](https://medium.com/p/e5aa4199fa52) |
 | Sun, 04 Jan 2026 08:32:39 GMT | An Audit Trail is Useless if it’s a PDF. Why Compliance Must Become Code. | Jean Piroddi | [Read More](https://medium.com/p/80679fd4e56a) |
 | Sun, 04 Jan 2026 08:32:08 GMT | Pakistan’s Students: The Weakest Link in Cybersecurity | Nihal Hyder | [Read More](https://medium.com/p/807719b943a3) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 Jan 2026 23:45:08 GMT | Common CSRF Protection Bypass Techniques (Explained)‍ | ab.infosec | [Read More](https://medium.com/p/e7f7568aa56a) |
 | Sat, 03 Jan 2026 23:06:54 GMT | Puzzle Write-up Docker Labs | Joel Morillas Pagan (Ghxstsec) | [Read More](https://medium.com/p/6d608792acdf) |
 | Sat, 03 Jan 2026 23:02:53 GMT | Diving into Web Application Security: Hands-On Vulnerability Scanning with OWASP ZAP | Edwin Atali | [Read More](https://medium.com/p/0bdeba53ab70) |
-| Sat, 03 Jan 2026 22:59:25 GMT | The Power of Hashing in One-Way Security and Irreversible Storage | Bervice | [Read More](https://medium.com/p/8e9dfe71bb29) |
-| Sat, 03 Jan 2026 22:53:32 GMT | How to Protect Your Digital Life (Without Becoming a Paranoid Expert) | Newsvegi | [Read More](https://medium.com/p/c83923b3b6e4) |
-| Sat, 03 Jan 2026 22:51:39 GMT | I Hit a Wall in My Career… Until One Computer Screen Changed Everything | Ryan McLean | [Read More](https://medium.com/p/13e3f7a7a12a) |
-| Sat, 03 Jan 2026 22:36:23 GMT | The Invisible Machines: Astonishing Random Facts About the Technology You Use Every Single Day | FactSphereMedia | [Read More](https://medium.com/p/a379eb1e3139) |
-| Sat, 03 Jan 2026 22:31:25 GMT | Unmasking the RTO Scam: Reverse Engineering the ‘RTO Challan’ Banking Trojan | Mr_MalMan | [Read More](https://medium.com/p/df3ebe9c03ae) |
-| Sat, 03 Jan 2026 22:26:24 GMT | Why Managed IT Services in Fontana, CA Must Rethink Cloud Security in 2025 | Zeta Sky | [Read More](https://medium.com/p/52273e6172b5) |
