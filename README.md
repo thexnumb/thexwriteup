@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 11:14:10 GMT | SAR 2,629 For Stored XSS via SVG Image | Anas NadY | [Read More](https://medium.com/p/afd7e94e7dd6) |
+| Sun, 04 Jan 2026 11:10:46 GMT | What was the first case of a ‘rugpull’ in crypto? | EDINEN | [Read More](https://medium.com/p/1ef173ba2c3d) |
+| Sun, 04 Jan 2026 11:06:46 GMT | This GitHub Tunneling Tool Bypasses Firewalls Like Magic, And It’s Free! | cybrNK | [Read More](https://medium.com/p/266c7e4ff5b5) |
+| Sun, 04 Jan 2026 11:02:29 GMT | ☠️ Threat of the Week — React2Shell: A Critical Web App Bug Being Exploited Now | Devore McIntosh | [Read More](https://medium.com/p/ce638365a2c4) |
+| Sun, 04 Jan 2026 10:59:21 GMT | How I Cut My Cable Bill by 87% Without Losing a Single Channel (And You Can Too) | Uranusxtv | [Read More](https://medium.com/p/d3f1188deeed) |
+| Sun, 04 Jan 2026 10:58:11 GMT | I Sold My Face for $50. Now It Runs a Crypto Scam. | Andrew Whitely | [Read More](https://medium.com/p/fd372cf4c37a) |
+| Sun, 04 Jan 2026 10:33:02 GMT | The return to blogging and a blind SQL injection | Echo_Slow | [Read More](https://medium.com/p/2bee0a7fa779) |
 | Sun, 04 Jan 2026 10:31:22 GMT | Ethical Hacking course in trivandrum | Digitalshawarma | [Read More](https://medium.com/p/a8a7cbbd550c) |
 | Sun, 04 Jan 2026 10:28:05 GMT | MCP vs RAG vs A2A vs ACP: The AI Stack That Still Needs Accountability | Sam Gabsi | [Read More](https://medium.com/p/4282958f9c18) |
 | Sun, 04 Jan 2026 10:24:23 GMT | AI Security Reports — December 2025 | Tal Eliyahu | [Read More](https://medium.com/p/bd37c2621e07) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 Jan 2026 03:21:30 GMT | These Overlooked Mac Settings Could Leave Your Data Wide Open. | Andrii | [Read More](https://medium.com/p/233e394729f3) |
 | Sun, 04 Jan 2026 03:19:00 GMT | Cyber Power in the Age of AI | Brad Tenenholtz | [Read More](https://medium.com/p/21f2b918f5dc) |
 | Sun, 04 Jan 2026 03:02:33 GMT | Getting Started with Reverse Engineering: A Beginner Guide to CTFs | ShudarsanRegmi | [Read More](https://medium.com/p/7f215a38fc29) |
-| Sun, 04 Jan 2026 02:54:17 GMT | How to Audit Your Own Devices for Security Issues in 2026 | Sam Writes Security | [Read More](https://medium.com/p/7ad9dba5ce2c) |
-| Sun, 04 Jan 2026 02:45:29 GMT | In the Quiet of Not Saying | E.Doyle | [Read More](https://medium.com/p/c0576758e06d) |
-| Sun, 04 Jan 2026 02:35:24 GMT | Real-Time Security Monitoring for Home Lab with Wazuh and Ansible | P Yurin | [Read More](https://medium.com/p/a599d9c12da1) |
-| Sun, 04 Jan 2026 02:16:16 GMT | Why You Shouldn’t Wait on a Title to Start Implementing Your Cybersecurity Knowledge & Skills Now | Faith in Cybersecurity | [Read More](https://medium.com/p/3224d584a543) |
-| Sun, 04 Jan 2026 02:06:31 GMT | TryHackMe: Anonymous Playground Writeup | cbev | [Read More](https://medium.com/p/26a99b8a2ddb) |
-| Sun, 04 Jan 2026 01:36:45 GMT | [Mother’s Secret $300,000 Gift: A Mother-in-Law’s Tearful Revelation of Her Daughter-in-Law’s True… | kate spider | [Read More](https://medium.com/p/57e8a04551e5) |
-| Sun, 04 Jan 2026 01:32:26 GMT | 7 Threat Models AI Quietly Rewrote for Attackers | Praxen | [Read More](https://medium.com/p/77799c0327bc) |
