@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 11:26:38 GMT | A Beginner’s Guide to AWS Security Groups | Bhathiya Ranasinghe | [Read More](https://medium.com/p/8735b41f76b4) |
+| Sun, 04 Jan 2026 11:25:23 GMT | Ethical Hacking Career in 2026: Your Guide to a Future-Ready Cybersecurity Journey | Sukhveer Singh | [Read More](https://medium.com/p/3dcb1215be0d) |
+| Sun, 04 Jan 2026 11:16:14 GMT | AWS IAM Implementation Plan | Tushar jadhav | [Read More](https://medium.com/p/fba43cc10158) |
+| Sun, 04 Jan 2026 11:16:12 GMT | AWS Secure Multi-AZ VPC Architecture Project | Tushar jadhav | [Read More](https://medium.com/p/897a8ea82b38) |
+| Sun, 04 Jan 2026 11:15:25 GMT | Engagement Summary — Nibbles | khalifa_farhat | [Read More](https://medium.com/p/284a5653fb7f) |
 | Sun, 04 Jan 2026 11:14:10 GMT | SAR 2,629 For Stored XSS via SVG Image | Anas NadY | [Read More](https://medium.com/p/afd7e94e7dd6) |
 | Sun, 04 Jan 2026 11:10:46 GMT | What was the first case of a ‘rugpull’ in crypto? | EDINEN | [Read More](https://medium.com/p/1ef173ba2c3d) |
 | Sun, 04 Jan 2026 11:06:46 GMT | This GitHub Tunneling Tool Bypasses Firewalls Like Magic, And It’s Free! | cybrNK | [Read More](https://medium.com/p/266c7e4ff5b5) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 Jan 2026 03:49:09 GMT | Intercom Deep Recon Techniques | Abhirup Konwar | [Read More](https://medium.com/p/83eca3229704) |
 | Sun, 04 Jan 2026 03:40:45 GMT | Basics of Dynamic Malware Analysis, Part 1: Building a Secure Isolated Sandbox | Mahmoud Matar | [Read More](https://medium.com/p/ef8da359df65) |
 | Sun, 04 Jan 2026 03:36:41 GMT | Generating NetFlow Data Without a Business-Grade Router | Aaron Meese | [Read More](https://medium.com/p/e0850fe1dfa3) |
-| Sun, 04 Jan 2026 03:32:25 GMT | Beyond the Icon: How GhostPoster Hid Malware in Firefox Extensions | Deven Chhajed | [Read More](https://medium.com/p/fb3c49cc0da9) |
-| Sun, 04 Jan 2026 03:21:52 GMT | Defeated in Detail: Why America’s Cybersecurity Strategy Guarantees Failure | Brad Tenenholtz | [Read More](https://medium.com/p/290345aad57c) |
-| Sun, 04 Jan 2026 03:21:30 GMT | These Overlooked Mac Settings Could Leave Your Data Wide Open. | Andrii | [Read More](https://medium.com/p/233e394729f3) |
-| Sun, 04 Jan 2026 03:19:00 GMT | Cyber Power in the Age of AI | Brad Tenenholtz | [Read More](https://medium.com/p/21f2b918f5dc) |
-| Sun, 04 Jan 2026 03:02:33 GMT | Getting Started with Reverse Engineering: A Beginner Guide to CTFs | ShudarsanRegmi | [Read More](https://medium.com/p/7f215a38fc29) |
