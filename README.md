@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 12:40:03 GMT | React2Shell (CVE-2025–55182) — From React Server Components to Full RCE | Aditya Bhatt | [Read More](https://medium.com/p/81acd9f94783) |
+| Sun, 04 Jan 2026 12:36:14 GMT | How I Design Small Security Projects to Learn Faster | Asmit Patil | [Read More](https://medium.com/p/46356b1911e0) |
+| Sun, 04 Jan 2026 12:31:04 GMT | How Windows Learned to Trust You: From Passwords to Kerberos | Vineet Singh Solanki | [Read More](https://medium.com/p/57fab5094d0c) |
+| Sun, 04 Jan 2026 12:29:56 GMT | TryHackMe - Splunk Exploring SPL Walkthrough | Birdv | [Read More](https://medium.com/p/5d284939fb26) |
+| Sun, 04 Jan 2026 12:16:17 GMT | The Limitations of AI in Cybersecurity: Why I Built RootTron | Roottron | [Read More](https://medium.com/p/a6157f290645) |
+| Sun, 04 Jan 2026 12:07:57 GMT | Securing AI Systems: Why Every Organization Needs a Comprehensive Security Framework | Kamran Rafiq - Cybersecurity Leader | [Read More](https://medium.com/p/0bb973753e7f) |
+| Sun, 04 Jan 2026 12:00:51 GMT | SAR 2,629 For Stored XSS via svg Image Leading to ATO | Anas NadY | [Read More](https://medium.com/p/1916c50251dc) |
+| Sun, 04 Jan 2026 11:55:21 GMT | EternalBlue Zafiyeti | Mehmet Ali Gülyurdu | [Read More](https://medium.com/p/e46d73b278e3) |
+| Sun, 04 Jan 2026 11:48:16 GMT | Safe Social Media: Privacy Tools and Tips at No Cost | Muneeb - Budget Tech Buddy | [Read More](https://medium.com/p/48b2eb18c951) |
+| Sun, 04 Jan 2026 11:44:39 GMT | Detection Rule Fragility: Design Pitfalls Every Detection Engineer Must Know | SOCLabs | [Read More](https://medium.com/p/56722d0c6964) |
+| Sun, 04 Jan 2026 11:38:56 GMT | Differential Privacy for Everyone: Prerequisite — k-Anonymity | Eagle_Eye | [Read More](https://medium.com/p/e45af03fc95d) |
+| Sun, 04 Jan 2026 11:27:49 GMT | Menemukan Kerentanan Prototype Pollution di Absensi Pemerintahan: Lessons Learned dari Penetration… | Ahmadfaizabdillah | [Read More](https://medium.com/p/d1fe9959f0db) |
 | Sun, 04 Jan 2026 11:26:38 GMT | A Beginner’s Guide to AWS Security Groups | Bhathiya Ranasinghe | [Read More](https://medium.com/p/8735b41f76b4) |
 | Sun, 04 Jan 2026 11:25:23 GMT | Ethical Hacking Career in 2026: Your Guide to a Future-Ready Cybersecurity Journey | Sukhveer Singh | [Read More](https://medium.com/p/3dcb1215be0d) |
 | Sun, 04 Jan 2026 11:16:14 GMT | AWS IAM Implementation Plan | Tushar jadhav | [Read More](https://medium.com/p/fba43cc10158) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 Jan 2026 05:24:06 GMT | Bug Ninja Chronicles: Naruto’s First Mission as a Bug Hunter. "Believe it" | Salao | [Read More](https://medium.com/p/3c554b451f16) |
 | Sun, 04 Jan 2026 05:05:26 GMT | What is CSRF? Understanding Cross-Site Request Forgery Attacks | B's Code | [Read More](https://medium.com/p/7dc0e26053d3) |
 | Sun, 04 Jan 2026 04:53:57 GMT | Unauthorized Access to Sensitive PII via Broken Access Control | Ajay Vardhan | [Read More](https://medium.com/p/507adf46879a) |
-| Sun, 04 Jan 2026 04:32:36 GMT | Top 5 On-Chain Audit Trail Techniques Without PII Spills | Duckweave | [Read More](https://medium.com/p/876701e4c728) |
-| Sun, 04 Jan 2026 04:32:36 GMT | The 5 Bridges Users Actually Trust | Quellin | [Read More](https://medium.com/p/538ae02bf3a3) |
-| Sun, 04 Jan 2026 04:32:36 GMT | 10 Wallet Features That Would’ve Stopped Breaches | Velorum | [Read More](https://medium.com/p/b3bcd9047fc1) |
-| Sun, 04 Jan 2026 04:32:28 GMT | 10 Security Metrics Worth Putting on a Public Dashboard | Praxen | [Read More](https://medium.com/p/87ea8dfa1a37) |
-| Sun, 04 Jan 2026 04:30:44 GMT | A Solid Ground to Ensure AI Safety | Antoine & Kika | [Read More](https://medium.com/p/906fef4e3d15) |
-| Sun, 04 Jan 2026 04:23:07 GMT | Your pipeline didn’t fail because of scale. | Abdhulkalam | [Read More](https://medium.com/p/f0a9e356560b) |
-| Sun, 04 Jan 2026 03:56:14 GMT | Unleashing GoBuster: Advanced Recon & Enumeration for Professionals | Cybeague Technologies | [Read More](https://medium.com/p/9af46f16f3fa) |
-| Sun, 04 Jan 2026 03:55:40 GMT | Cybersecurity in Toronto and the GTA: Why Cyber Build Is the Security Partner Businesses Trust | Streets | [Read More](https://medium.com/p/be3eba2e972a) |
-| Sun, 04 Jan 2026 03:55:26 GMT | Getting Started with GoBuster: The Fast Lane to Smarter Web Recon | Cybeague Technologies | [Read More](https://medium.com/p/15d255ae8b6d) |
-| Sun, 04 Jan 2026 03:49:09 GMT | Intercom Deep Recon Techniques | Abhirup Konwar | [Read More](https://medium.com/p/83eca3229704) |
-| Sun, 04 Jan 2026 03:40:45 GMT | Basics of Dynamic Malware Analysis, Part 1: Building a Secure Isolated Sandbox | Mahmoud Matar | [Read More](https://medium.com/p/ef8da359df65) |
-| Sun, 04 Jan 2026 03:36:41 GMT | Generating NetFlow Data Without a Business-Grade Router | Aaron Meese | [Read More](https://medium.com/p/e0850fe1dfa3) |
