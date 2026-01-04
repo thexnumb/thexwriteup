@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 21:21:19 GMT | Lab: 2FA simple bypass | Songül Kızılay Özügürler | [Read More](https://medium.com/p/eca7ba98b463) |
 | Sun, 04 Jan 2026 21:06:00 GMT | Infrared, Reflections, and Wires: Reading the Signs of Hidden Surveillance | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/04404eee4668) |
 | Sun, 04 Jan 2026 21:05:14 GMT | Why Predictive Maintenance AI Is a Prime Cyber Target | Muhammad Ali Khan | [Read More](https://medium.com/p/19d17a4e898f) |
 | Sun, 04 Jan 2026 21:04:24 GMT | Securing API Servers (Week 4) | Stella Obatoye | [Read More](https://medium.com/p/e05820b33ef1) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 Jan 2026 14:32:40 GMT | Try Hack Me - ParrotPost — Phishing Analysis - Walkthrough | Raheesh Nusayr | [Read More](https://medium.com/p/efc881af75e3) |
 | Sun, 04 Jan 2026 14:32:25 GMT | Session Hijacking Made Simple: Capturing Sessions with Ferret and Hamster | Vignesh R | [Read More](https://medium.com/p/acf8a9ef4deb) |
 | Sun, 04 Jan 2026 14:29:53 GMT | Data Classification Automation | Esra Kayhan | [Read More](https://medium.com/p/9675395fcb82) |
-| Sun, 04 Jan 2026 14:24:39 GMT | How AI Helped Me Catch a Security Flaw I Would’ve Missed | Mubashir | [Read More](https://medium.com/p/65637cfd7164) |
