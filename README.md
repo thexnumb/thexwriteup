@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 10:31:22 GMT | Ethical Hacking course in trivandrum | Digitalshawarma | [Read More](https://medium.com/p/a8a7cbbd550c) |
+| Sun, 04 Jan 2026 10:28:05 GMT | MCP vs RAG vs A2A vs ACP: The AI Stack That Still Needs Accountability | Sam Gabsi | [Read More](https://medium.com/p/4282958f9c18) |
+| Sun, 04 Jan 2026 10:24:23 GMT | AI Security Reports — December 2025 | Tal Eliyahu | [Read More](https://medium.com/p/bd37c2621e07) |
+| Sun, 04 Jan 2026 10:20:25 GMT | Not Everyone Will Know You | Ronnie Charrier | [Read More](https://medium.com/p/81f5671f8c74) |
+| Sun, 04 Jan 2026 10:16:53 GMT | Cybersecurity & Mental Health | Odai Mherat | [Read More](https://medium.com/p/588c94bdf0a8) |
 | Sun, 04 Jan 2026 10:06:24 GMT | Building the Fortress: How to Architect a Secure, Multi-Tier Application on AWS | Itsamrita | [Read More](https://medium.com/p/d6056fc4ce0c) |
 | Sun, 04 Jan 2026 10:05:13 GMT | Hands-On Penetration Testing: Metasploitable vsftpd 2.3.4 | SimpleTecBro | [Read More](https://medium.com/p/d1d9e6f1f03c) |
 | Sun, 04 Jan 2026 09:59:32 GMT | Web Application Security: Hands-On Practice (Chapter 4 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/cf20d381e067) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 Jan 2026 02:06:31 GMT | TryHackMe: Anonymous Playground Writeup | cbev | [Read More](https://medium.com/p/26a99b8a2ddb) |
 | Sun, 04 Jan 2026 01:36:45 GMT | [Mother’s Secret $300,000 Gift: A Mother-in-Law’s Tearful Revelation of Her Daughter-in-Law’s True… | kate spider | [Read More](https://medium.com/p/57e8a04551e5) |
 | Sun, 04 Jan 2026 01:32:26 GMT | 7 Threat Models AI Quietly Rewrote for Attackers | Praxen | [Read More](https://medium.com/p/77799c0327bc) |
-| Sun, 04 Jan 2026 01:32:26 GMT | 7 Security Lessons from 2025’s Biggest Crypto Hacks | Duckweave | [Read More](https://medium.com/p/222e20dc0c5a) |
-| Sun, 04 Jan 2026 01:19:38 GMT | How I Built a Security Log Analyzer in Python as a Cybersecurity student | Félix Cerna — Cybersecurity Student | [Read More](https://medium.com/p/38885a67dbaa) |
-| Sun, 04 Jan 2026 01:18:17 GMT | TRIAGE PACKAGE CREATION USING KAPE TOOL | Basmala Yasser | [Read More](https://medium.com/p/80a09644796e) |
-| Sun, 04 Jan 2026 01:03:44 GMT | BugZzzz — FahemSec Web Challenge | محمد بن إبراهيم | [Read More](https://medium.com/p/422c15c539b9) |
-| Sun, 04 Jan 2026 00:56:44 GMT | TCPDump in Action: HackTheBox Walkthrough | Cybersecurity Simplified | [Read More](https://medium.com/p/ca30049aeb0d) |
