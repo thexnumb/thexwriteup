@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 14:34:48 GMT | Cloudflare: ตั้งค่า security/cache สำหรับเว็บ WordPress ป้องกันแฮ๊ก login | samphan r. | [Read More](https://medium.com/p/e2ad51e574bd) |
+| Sun, 04 Jan 2026 14:29:53 GMT | Data Classification Automation | Esra Kayhan | [Read More](https://medium.com/p/9675395fcb82) |
+| Sun, 04 Jan 2026 14:24:39 GMT | How AI Helped Me Catch a Security Flaw I Would’ve Missed | Mubashir | [Read More](https://medium.com/p/65637cfd7164) |
+| Sun, 04 Jan 2026 14:24:02 GMT | What Is a Model File in AI? (Explained So Simply Anyone Can Understand) | Prapti Vahia | [Read More](https://medium.com/p/1b0e08d69df8) |
 | Sun, 04 Jan 2026 14:07:37 GMT | The $1.6 Billion Legacy: An Architectural Autopsy of the Change Healthcare Breach | System Design Autopsy | [Read More](https://medium.com/p/10b748df0b9c) |
 | Sun, 04 Jan 2026 14:03:16 GMT | Why @Async Makes Bugs Harder to Debug in Spring Boot (And What to Use Instead) | Karuna | [Read More](https://medium.com/p/a134d8a9c393) |
 | Sun, 04 Jan 2026 14:03:05 GMT | PortSwigger Apprentice Labs Solving Documentation | Krithika | [Read More](https://medium.com/p/effc32a6753e) |
@@ -110,7 +114,3 @@ Every… | Ankit rai | [Read More](https://medium.com/p/a6432d7fb429) |
 | Sun, 04 Jan 2026 06:51:18 GMT | Data Transmission | Red_Ghost | [Read More](https://medium.com/p/1dd157401e4d) |
 | Sun, 04 Jan 2026 06:49:48 GMT | Ethical Hacking Course in Trivandrum | Digitalshawarma | [Read More](https://medium.com/p/63867100d08a) |
 | Sun, 04 Jan 2026 06:45:25 GMT | Quantum-Safe Cryptography Oman: 2026 Roadmap for Muscat | Vanguard Tech Services | [Read More](https://medium.com/p/d2dd5f7075bd) |
-| Sun, 04 Jan 2026 06:44:17 GMT | BTLO Phishing Analysis Walkthrough | Blught | [Read More](https://medium.com/p/d0bd55ae85f8) |
-| Sun, 04 Jan 2026 06:44:15 GMT | The Linux Concept Journey — Unix Time | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f1cdd7cd57b1) |
-| Sun, 04 Jan 2026 06:33:34 GMT | RSA Conference (Cybersecurity, March): Powerful Insights Shaping Digital Security | Pratibhak | [Read More](https://medium.com/p/c08dd43cf5eb) |
-| Sun, 04 Jan 2026 06:32:56 GMT | $280 Bug Bounty: How a Case-Sensitive Email Bug Locked Users' Accounts | Monika sharma | [Read More](https://medium.com/p/175fe00779d9) |
