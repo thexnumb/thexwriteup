@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 09:22:41 GMT | Zero‑Day Exploits Target Apple Users – Update Now | CyberWarrior01 | [Read More](https://medium.com/p/b1fc8c4f9576) |
+| Sun, 04 Jan 2026 09:19:53 GMT | Waterfall vs Agile | Pranil Pradeep Dalvi | [Read More](https://medium.com/p/613b635908ac) |
+| Sun, 04 Jan 2026 09:19:40 GMT | When ‘Harmless’ Is No Longer Harmless … | Prashant Dhume | [Read More](https://medium.com/p/7b82e56fa82a) |
 | Sun, 04 Jan 2026 09:09:39 GMT | SOC Analyst Roadmap [2026 ] : The Complete Career Guide from Beginner to Pro | EINITIAL24 | [Read More](https://medium.com/p/246204c56714) |
+| Sun, 04 Jan 2026 09:08:29 GMT | The Architecture of Zero Trust Network Access (ZTNA) | OBED ONYEDIKA INYA | [Read More](https://medium.com/p/74e2c6c10752) |
 | Sun, 04 Jan 2026 09:04:10 GMT | Your Side Project Won’t Save You Anymore | Vijay Kumar Gupta | [Read More](https://medium.com/p/2a1d76d429dd) |
 | Sun, 04 Jan 2026 09:02:30 GMT | 3rd Party Component Vulnerabilities — SSC Fortify Security Findings Analysis — Part 5 | Okan Yurt | [Read More](https://medium.com/p/3811edb872c9) |
 | Sun, 04 Jan 2026 08:53:13 GMT | 보안은 높이고, 병목은 줄이고: IP 기반 접근 제어에서 Tailscale VPN으로 전환한 후기 | 이진만 (Jamie) | [Read More](https://medium.com/p/2a97a99bcf6) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 Jan 2026 00:28:26 GMT | AI Pentesting: Defending Against Prompt Injection and Improper Output Handling | Will Giles - Cybersecurity | [Read More](https://medium.com/p/541f60efbb18) |
 | Sun, 04 Jan 2026 00:11:27 GMT | Interception and Eavesdropping of Satellite Communications | PWNSAT | [Read More](https://medium.com/p/b7be24d91ff8) |
 | Sun, 04 Jan 2026 00:10:10 GMT | Ultimate Container Security Series | 0xAlphaSecurity | [Read More](https://medium.com/p/516c9b9ed735) |
-| Sun, 04 Jan 2026 00:06:53 GMT | # MonitorsFour — From Zero to Docker Desktop Escape | LeChristopher Blackwell | [Read More](https://medium.com/p/af1b2522de35) |
-| Sat, 03 Jan 2026 23:45:08 GMT | Common CSRF Protection Bypass Techniques (Explained)‍ | ab.infosec | [Read More](https://medium.com/p/e7f7568aa56a) |
-| Sat, 03 Jan 2026 23:06:54 GMT | Puzzle Write-up Docker Labs | Joel Morillas Pagan (Ghxstsec) | [Read More](https://medium.com/p/6d608792acdf) |
-| Sat, 03 Jan 2026 23:02:53 GMT | Diving into Web Application Security: Hands-On Vulnerability Scanning with OWASP ZAP | Edwin Atali | [Read More](https://medium.com/p/0bdeba53ab70) |
