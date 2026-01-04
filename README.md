@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 23:00:29 GMT | Windows Malware Development Roadmap | S12 - 0x12Dark Development | [Read More](https://medium.com/p/9a66ab8b82dd) |
+| Sun, 04 Jan 2026 22:57:33 GMT | Weaponized LLMs: How 2025 Built the 2026 Breach Playbook | Dorian Sotpyrc | [Read More](https://medium.com/p/23b46bb7df3f) |
+| Sun, 04 Jan 2026 22:56:25 GMT | The Silent Boardroom: Why OT Risk is the New Personal Liability | Brian Vince | [Read More](https://medium.com/p/1c592d67815c) |
+| Sun, 04 Jan 2026 22:53:21 GMT | Reverse engineering a live AsyncRAT malware sample | Ryan Murphy | [Read More](https://medium.com/p/65dd77b1dd9e) |
+| Sun, 04 Jan 2026 22:51:21 GMT | Detection as Code Home-Lab Architecture | Tobiasacastleberry | [Read More](https://medium.com/p/2fb23c7b631d) |
+| Sun, 04 Jan 2026 22:50:12 GMT | A little message to people going through fraud and online investment scam | Daniella Thomas | [Read More](https://medium.com/p/b88e256aeb1f) |
 | Sun, 04 Jan 2026 22:35:07 GMT | Chaos is the Name of this Congress | A. J. Wyzinski | [Read More](https://medium.com/p/ede64957de04) |
+| Sun, 04 Jan 2026 22:32:42 GMT | How Managed IT Services in Fontana Combat Cybersecurity Apathy in Small Businesses | Zeta Sky | [Read More](https://medium.com/p/ce83e0806129) |
+| Sun, 04 Jan 2026 22:32:19 GMT | From AI Experiments to AI Sprawl: Why Governance Can’t Be an Afterthought (and Why It’s Never Too… | Tushar Mishra | [Read More](https://medium.com/p/318d26f04c8a) |
 | Sun, 04 Jan 2026 22:27:36 GMT | Wireshark: Seeing the Network the Way It Really Works | Little_Sun4lower | [Read More](https://medium.com/p/f8a564841df3) |
 | Sun, 04 Jan 2026 22:24:57 GMT | FortiGate site to site IPsec VPN setup | Ernest Marvin Franco | [Read More](https://medium.com/p/164800ca5512) |
 | Sun, 04 Jan 2026 22:19:38 GMT | Computers get IT Solved | Nicholas J | [Read More](https://medium.com/p/1f304fc1eab5) |
@@ -105,11 +113,3 @@ Do Something About It | Stephanie Hunter-Banks | [Read More](https://medium.com/
 | Sun, 04 Jan 2026 15:53:30 GMT | AutoRecon Tutorial: OSCP & TryHackMe Recon Automation (2026) | Manas Mahato | [Read More](https://medium.com/p/acd17538d658) |
 | Sun, 04 Jan 2026 15:52:58 GMT | PWN103— TryHackMe | SilentHex | [Read More](https://medium.com/p/3384033ec556) |
 | Sun, 04 Jan 2026 15:52:07 GMT | Install VMware Workstation Pro Free on Windows | Abrar Bin Habib | [Read More](https://medium.com/p/9dea5ab3ce04) |
-| Sun, 04 Jan 2026 15:44:58 GMT | Road to HackwithIndiaa: Day 1 — Breaking the HTTP Barrier ‍ | Swetlana Jha | [Read More](https://medium.com/p/ed8687349cc6) |
-| Sun, 04 Jan 2026 15:40:56 GMT | 5 Rules one must follow in today’s fast moving world.. | Krishna M S | [Read More](https://medium.com/p/c5263918cf4a) |
-| Sun, 04 Jan 2026 15:38:08 GMT | Why Technology Apps Fail in Emerging Markets — And How the Next Generation Will Win | Great | [Read More](https://medium.com/p/93f88d843ded) |
-| Sun, 04 Jan 2026 15:26:50 GMT | Muhammad Fahri Satriady | Muhammad Fahri Satriady | [Read More](https://medium.com/p/abe453761211) |
-| Sun, 04 Jan 2026 15:19:41 GMT | [CyberDefenders Write-up] BRabbit Lab | OxMotaw3 | [Read More](https://medium.com/p/d42ca137a748) |
-| Sun, 04 Jan 2026 15:03:55 GMT | DevSecOps Security Explained: Nessus vs Black Duck vs Trivy | Amit Singh | [Read More](https://medium.com/p/311021563dcb) |
-| Sun, 04 Jan 2026 14:58:45 GMT | Locking Down Old Computers Without Losing Your Data | Geoffrey Wenger | [Read More](https://medium.com/p/3824e596ba41) |
-| Sun, 04 Jan 2026 14:56:07 GMT | The Art of WAF Evasion: From Superficial Techniques to Systematic Strategies | N0aziXss | [Read More](https://medium.com/p/62202cd82962) |
