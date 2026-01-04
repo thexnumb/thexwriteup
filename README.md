@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 18:20:11 GMT | The Rise of AI in Cybersecurity: A Double-Edged Sword | Cyber_Phoenix | [Read More](https://medium.com/p/c31f6313173f) |
+| Sun, 04 Jan 2026 18:16:37 GMT | The Misconception Behind ‘You’re in IT, So You Must Know It All | B. S. Aishwarya Valli | [Read More](https://medium.com/p/7aa39a991a2c) |
+| Sun, 04 Jan 2026 18:15:23 GMT | -$14.250: Military vulnerability | Lucas Soares | [Read More](https://medium.com/p/337870590e18) |
+| Sun, 04 Jan 2026 18:13:47 GMT | -$14.250: A vulnerabilidade militar | Lucas Soares | [Read More](https://medium.com/p/18488dcbe7bd) |
+| Sun, 04 Jan 2026 18:10:44 GMT | Please I want to learn how to hack thank you very much what to start with first | z1980h | [Read More](https://medium.com/p/f7f01470ae18) |
+| Sun, 04 Jan 2026 18:03:42 GMT | Lab: CORS vulnerability with basic origin reflection(Portswigger Labs) | Mukilan Baskaran | [Read More](https://medium.com/p/1d7699266907) |
+| Sun, 04 Jan 2026 18:00:32 GMT | HexStrike + Gemini. AI-Assisted SSH Credential Brute-Force | Andrey Pautov | [Read More](https://medium.com/p/a9162f8e253b) |
+| Sun, 04 Jan 2026 17:59:34 GMT | Three Vulnerabilities, Three Attack Surfaces: Lessons From Real-World CVE Submissions | Tyreek Haynes | [Read More](https://medium.com/p/cae535936d35) |
+| Sun, 04 Jan 2026 17:57:51 GMT | Academic Malware Report: Spyware Framework | Rahaliashraf | [Read More](https://medium.com/p/de2848283344) |
+| Sun, 04 Jan 2026 17:50:51 GMT | My CISSP Preparation, honestly! | Sweta Mantraratnam | [Read More](https://medium.com/p/60b0bb3953b9) |
+| Sun, 04 Jan 2026 17:46:59 GMT | Shifting Left in Figma: How Testers Catch Bugs Before Code | Dhivy Ananth | [Read More](https://medium.com/p/b5f89bde8f28) |
+| Sun, 04 Jan 2026 17:46:22 GMT | The Bug Bounty Hunter Making $500K/Year Without a CS Degree | Osmion | [Read More](https://medium.com/p/6653e21c1830) |
+| Sun, 04 Jan 2026 17:41:27 GMT | Databricks Secrets Scopes Between Environments (Dev, QA, Prod): Best Practices and CLI Usage | Gema Correa | [Read More](https://medium.com/p/e2b1de107cb0) |
+| Sun, 04 Jan 2026 17:40:33 GMT | Detecting & Removing Rogue Local Admin Accounts | SOCFortress | [Read More](https://medium.com/p/66d8b1d19eaf) |
 | Sun, 04 Jan 2026 17:38:20 GMT | Understanding HTTP Status Code 200 | Dhivy Ananth | [Read More](https://medium.com/p/9a354c6dbbbc) |
+| Sun, 04 Jan 2026 17:34:57 GMT | 3 Backend Security Mistakes Automated Scanners Won’t Find. | Joel Ugwa | [Read More](https://medium.com/p/ca42c70289cd) |
 | Sun, 04 Jan 2026 17:24:46 GMT | Your “Done” List is a Liar: The Rise of Ghost Vulnerabilities in 2026+ | Threat Road | [Read More](https://medium.com/p/8ec995cc131e) |
 | Sun, 04 Jan 2026 17:24:09 GMT | Remote Code Execution via Prototype Pollution (CVE-2025–55182) | Tanmay Bhattacharjee | [Read More](https://medium.com/p/ca19a72b8062) |
 | Sun, 04 Jan 2026 17:13:33 GMT | Logların İzinde: Ransomware Senaryosu | Ali Ekber KARA | [Read More](https://medium.com/p/42cb44c8a868) |
@@ -99,18 +114,3 @@ Every… | Ankit rai | [Read More](https://medium.com/p/a6432d7fb429) |
 | Sun, 04 Jan 2026 11:27:49 GMT | Menemukan Kerentanan Prototype Pollution di Absensi Pemerintahan: Lessons Learned dari Penetration… | Ahmadfaizabdillah | [Read More](https://medium.com/p/d1fe9959f0db) |
 | Sun, 04 Jan 2026 11:26:38 GMT | A Beginner’s Guide to AWS Security Groups | Bhathiya Ranasinghe | [Read More](https://medium.com/p/8735b41f76b4) |
 | Sun, 04 Jan 2026 11:25:23 GMT | Ethical Hacking Career in 2026: Your Guide to a Future-Ready Cybersecurity Journey | Sukhveer Singh | [Read More](https://medium.com/p/3dcb1215be0d) |
-| Sun, 04 Jan 2026 11:16:14 GMT | AWS IAM Implementation Plan | Tushar jadhav | [Read More](https://medium.com/p/fba43cc10158) |
-| Sun, 04 Jan 2026 11:16:12 GMT | AWS Secure Multi-AZ VPC Architecture Project | Tushar jadhav | [Read More](https://medium.com/p/897a8ea82b38) |
-| Sun, 04 Jan 2026 11:15:25 GMT | Engagement Summary — Nibbles | khalifa_farhat | [Read More](https://medium.com/p/284a5653fb7f) |
-| Sun, 04 Jan 2026 11:14:10 GMT | SAR 2,629 For Stored XSS via SVG Image | Anas NadY | [Read More](https://medium.com/p/afd7e94e7dd6) |
-| Sun, 04 Jan 2026 11:10:46 GMT | What was the first case of a ‘rugpull’ in crypto? | EDINEN | [Read More](https://medium.com/p/1ef173ba2c3d) |
-| Sun, 04 Jan 2026 11:06:46 GMT | This GitHub Tunneling Tool Bypasses Firewalls Like Magic, And It’s Free! | cybrNK | [Read More](https://medium.com/p/266c7e4ff5b5) |
-| Sun, 04 Jan 2026 11:02:29 GMT | ☠️ Threat of the Week — React2Shell: A Critical Web App Bug Being Exploited Now | Devore McIntosh | [Read More](https://medium.com/p/ce638365a2c4) |
-| Sun, 04 Jan 2026 10:59:21 GMT | How I Cut My Cable Bill by 87% Without Losing a Single Channel (And You Can Too) | Uranusxtv | [Read More](https://medium.com/p/d3f1188deeed) |
-| Sun, 04 Jan 2026 10:58:11 GMT | I Sold My Face for $50. Now It Runs a Crypto Scam. | Andrew Whitely | [Read More](https://medium.com/p/fd372cf4c37a) |
-| Sun, 04 Jan 2026 10:33:02 GMT | The return to blogging and a blind SQL injection | Echo_Slow | [Read More](https://medium.com/p/2bee0a7fa779) |
-| Sun, 04 Jan 2026 10:31:22 GMT | Ethical Hacking course in trivandrum | Digitalshawarma | [Read More](https://medium.com/p/a8a7cbbd550c) |
-| Sun, 04 Jan 2026 10:28:05 GMT | MCP vs RAG vs A2A vs ACP: The AI Stack That Still Needs Accountability | Sam Gabsi | [Read More](https://medium.com/p/4282958f9c18) |
-| Sun, 04 Jan 2026 10:24:23 GMT | AI Security Reports — December 2025 | Tal Eliyahu | [Read More](https://medium.com/p/bd37c2621e07) |
-| Sun, 04 Jan 2026 10:20:25 GMT | Not Everyone Will Know You | Ronnie Charrier | [Read More](https://medium.com/p/81f5671f8c74) |
-| Sun, 04 Jan 2026 10:16:53 GMT | Cybersecurity & Mental Health | Odai Mherat | [Read More](https://medium.com/p/588c94bdf0a8) |
