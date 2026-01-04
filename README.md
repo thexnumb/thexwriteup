@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 07:39:42 GMT | แนะนำโปรแกรม NetLimiter | Supot Sirisak | [Read More](https://medium.com/p/9a45538a41bb) |
+| Sun, 04 Jan 2026 07:32:24 GMT | Before You Take That L2 Deal: 7 Security Questions | Vectorlane | [Read More](https://medium.com/p/fa5e5da6bb56) |
+| Sun, 04 Jan 2026 07:13:24 GMT | SideCopy APT: Silent Intrusions and Persistent Espionage | Himanshu Bhatt | [Read More](https://medium.com/p/57dbf0c72320) |
 | Sun, 04 Jan 2026 07:12:14 GMT | Stop Writing Your Own HTML Encoders: A Guide to XSS Prevention in Custom Frameworks | Noor Mohammed Rizwan | [Read More](https://medium.com/p/6b1c90b29a42) |
 | Sun, 04 Jan 2026 07:11:30 GMT | Who is a white hat hacker? | Vishalraj | [Read More](https://medium.com/p/4d9f2049929d) |
 | Sun, 04 Jan 2026 07:09:34 GMT | ️ FortiGate Lab — Address Object Oluşturma (IP / Subnet Mantığı) | Esra Tosun | [Read More](https://medium.com/p/d4ce88eabef4) |
@@ -29,6 +32,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 Jan 2026 06:45:25 GMT | Quantum-Safe Cryptography Oman: 2026 Roadmap for Muscat | Vanguard Tech Services | [Read More](https://medium.com/p/d2dd5f7075bd) |
 | Sun, 04 Jan 2026 06:44:17 GMT | BTLO Phishing Analysis Walkthrough | Blught | [Read More](https://medium.com/p/d0bd55ae85f8) |
 | Sun, 04 Jan 2026 06:44:15 GMT | The Linux Concept Journey — Unix Time | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f1cdd7cd57b1) |
+| Sun, 04 Jan 2026 06:33:34 GMT | RSA Conference (Cybersecurity, March): Powerful Insights Shaping Digital Security | Pratibhak | [Read More](https://medium.com/p/c08dd43cf5eb) |
 | Sun, 04 Jan 2026 06:32:56 GMT | $280 Bug Bounty: How a Case-Sensitive Email Bug Locked Users' Accounts | Monika sharma | [Read More](https://medium.com/p/175fe00779d9) |
 | Sun, 04 Jan 2026 06:27:55 GMT | The One-Click Library Wipe: Exploiting CSRF in Saved Stories | Munna✨ | [Read More](https://medium.com/p/28523d4bc5e2) |
 | Sun, 04 Jan 2026 06:25:41 GMT | Hack The Box — Bashed — Easy | 0x0b0 | [Read More](https://medium.com/p/8248ab7c596e) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 Jan 2026 20:51:46 GMT | The Sad State of Software Going into 2026 | David Barrineau | [Read More](https://medium.com/p/c6d042ae251e) |
 | Sat, 03 Jan 2026 20:33:04 GMT | Security Architecture Design: Why Structure Matters More Than Tools | Glenn Merritt | [Read More](https://medium.com/p/5dff46e6140e) |
 | Sat, 03 Jan 2026 20:22:25 GMT | Predictive Policing and Risk-Based Oversight in Financial and Regulatory Ecosystems | Oleh Dubetcky | [Read More](https://medium.com/p/39da8e118208) |
-| Sat, 03 Jan 2026 20:19:24 GMT | Linux Beginners Fail Because They Copy Commands Without Understanding | Ryvok.Brondich | [Read More](https://medium.com/p/34a59605b847) |
-| Sat, 03 Jan 2026 20:14:48 GMT | The Reality of Paying With Stablecoins Today | Stan4Chainz | [Read More](https://medium.com/p/08a62acdc61f) |
-| Sat, 03 Jan 2026 19:44:29 GMT | Broken Authentication Explained: How Attackers Take Over Accounts and How to Prevent It | PriOFF | [Read More](https://medium.com/p/59274bc9f826) |
-| Sat, 03 Jan 2026 19:31:38 GMT | OSI Model vs TCP/IP Model: How Data Really Travels Across Networks | Cavidtaqiyev | [Read More](https://medium.com/p/1ea263601427) |
