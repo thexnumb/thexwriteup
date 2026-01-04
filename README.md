@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 08:24:03 GMT | Business Logic Abuse in Coupon and Wallet Systems | Monika sharma | [Read More](https://medium.com/p/02b8118f2467) |
+| Sun, 04 Jan 2026 08:12:08 GMT | Oracle APEX as an ISO/IEC 27001 Aligned Application Platform | Syed Muhib Ahmed | [Read More](https://medium.com/p/0bb6505454cf) |
+| Sun, 04 Jan 2026 08:07:28 GMT | Security Assessment Best Practices for 2024 | Securegap.io | [Read More](https://medium.com/p/65a3f362dd15) |
+| Sun, 04 Jan 2026 07:56:20 GMT | Threat Hunting Without Lock-In: How to Build Vendor-Resilient Visibility Inside an AI-Powered SOC | raditio ghifiardi | [Read More](https://medium.com/p/c020ef1d9e7b) |
+| Sun, 04 Jan 2026 07:56:03 GMT | Local File Inclusion lead to Admin Account Takeover | Zaidanxpersonal | [Read More](https://medium.com/p/464520fac817) |
+| Sun, 04 Jan 2026 07:50:30 GMT | The Analog Era is Dead: Why You Must Upgrade Your DVR to NVR or XVR in 2025 | Tavan CCTV | [Read More](https://medium.com/p/1c953c4f9f31) |
+| Sun, 04 Jan 2026 07:50:26 GMT | Top 10 Mobile Application Security Testing Tools in 2026 | cyber security Updates | [Read More](https://medium.com/p/b8d47bb8f5bb) |
+| Sun, 04 Jan 2026 07:48:07 GMT | How Python Works with AI | Himakshithakre | [Read More](https://medium.com/p/7629a0f7832b) |
+| Sun, 04 Jan 2026 07:46:48 GMT | The RAG Trap | Nitish Gupta | [Read More](https://medium.com/p/f622c4928e64) |
+| Sun, 04 Jan 2026 07:44:33 GMT | Facing off with Gandalf Level 3 | Kimberly Ordel | [Read More](https://medium.com/p/4db447e6f222) |
 | Sun, 04 Jan 2026 07:39:42 GMT | แนะนำโปรแกรม NetLimiter | Supot Sirisak | [Read More](https://medium.com/p/9a45538a41bb) |
 | Sun, 04 Jan 2026 07:32:24 GMT | Before You Take That L2 Deal: 7 Security Questions | Vectorlane | [Read More](https://medium.com/p/fa5e5da6bb56) |
 | Sun, 04 Jan 2026 07:13:24 GMT | SideCopy APT: Silent Intrusions and Persistent Espionage | Himanshu Bhatt | [Read More](https://medium.com/p/57dbf0c72320) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 03 Jan 2026 22:25:51 GMT | Honored to be your friend… | Olivia Senghor | [Read More](https://medium.com/p/2d893758ed00) |
 | Sat, 03 Jan 2026 22:16:37 GMT | That Time I Hacked Venezuela: Apparently, That Makes Me a “Cyber Fascist” | Chris Kubecka de Medina | [Read More](https://medium.com/p/21ecb1d5a7f1) |
 | Sat, 03 Jan 2026 22:03:52 GMT | The $336,787 Problem: Why Your Fraud Prevention Fails After Onboarding | Heesham Naji | [Read More](https://medium.com/p/336129c2ae00) |
-| Sat, 03 Jan 2026 21:26:53 GMT | Subdomain Enumeration - TryHackMe WalkThrough | David Ajuzie | [Read More](https://medium.com/p/2954138d8035) |
-| Sat, 03 Jan 2026 21:23:21 GMT | Start The New Year With Privacy, Stability, And Control | Geoffrey Wenger | [Read More](https://medium.com/p/3b6a31916814) |
-| Sat, 03 Jan 2026 21:23:17 GMT | TakeOver TryHackMe Write Up | cat0x01 | [Read More](https://medium.com/p/bed29d7fcd95) |
-| Sat, 03 Jan 2026 21:08:50 GMT | Dissecting XenoRAT | spark | [Read More](https://medium.com/p/d6269ba0a65d) |
-| Sat, 03 Jan 2026 21:07:29 GMT | Race Conditions - Vulnerability | AJ GUIN | [Read More](https://medium.com/p/5d0bfb07dcda) |
-| Sat, 03 Jan 2026 21:01:58 GMT | The Loneliness I Didn’t Expect… | Okuruesther | [Read More](https://medium.com/p/c4427252c868) |
-| Sat, 03 Jan 2026 20:53:06 GMT | Threat modeling for 2025 : Why most organizations still get it wrong | Soundarya Vasista | [Read More](https://medium.com/p/a9e9c2dd2b77) |
-| Sat, 03 Jan 2026 20:51:46 GMT | The Sad State of Software Going into 2026 | David Barrineau | [Read More](https://medium.com/p/c6d042ae251e) |
-| Sat, 03 Jan 2026 20:33:04 GMT | Security Architecture Design: Why Structure Matters More Than Tools | Glenn Merritt | [Read More](https://medium.com/p/5dff46e6140e) |
-| Sat, 03 Jan 2026 20:22:25 GMT | Predictive Policing and Risk-Based Oversight in Financial and Regulatory Ecosystems | Oleh Dubetcky | [Read More](https://medium.com/p/39da8e118208) |
