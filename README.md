@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 14:07:37 GMT | The $1.6 Billion Legacy: An Architectural Autopsy of the Change Healthcare Breach | System Design Autopsy | [Read More](https://medium.com/p/10b748df0b9c) |
+| Sun, 04 Jan 2026 14:03:16 GMT | Why @Async Makes Bugs Harder to Debug in Spring Boot (And What to Use Instead) | Karuna | [Read More](https://medium.com/p/a134d8a9c393) |
+| Sun, 04 Jan 2026 14:03:05 GMT | PortSwigger Apprentice Labs Solving Documentation | Krithika | [Read More](https://medium.com/p/effc32a6753e) |
+| Sun, 04 Jan 2026 13:54:04 GMT | OSINT4Fun: Advent of OSINT 2025 (Day 5 - Day 8) | David Varghese | [Read More](https://medium.com/p/b0776e224e9c) |
+| Sun, 04 Jan 2026 13:52:52 GMT | 7 Free Google AI Tools That Replace Paid Apps (Productivity Boost in 2026 using These Technologies) | Muhammad Burhan Chughtai | [Read More](https://medium.com/p/ebc16fce195e) |
+| Sun, 04 Jan 2026 13:52:14 GMT | Creating GitLab CI/CD Pipeline For Snyk Vulnerability Scanning | Ernest Gibbs III | [Read More](https://medium.com/p/4cdb6c353909) |
+| Sun, 04 Jan 2026 13:32:25 GMT | 52 Weeks Cybersecurity Challenge | Sujhal Gurav | [Read More](https://medium.com/p/b132302fb387) |
 | Sun, 04 Jan 2026 13:25:49 GMT | Nissan Customer Data Leak 2025 | O. J. Okpabi | [Read More](https://medium.com/p/27e5efd43026) |
 | Sun, 04 Jan 2026 13:19:37 GMT | How I Got an Easy $100 Bounty in Just 2 Minutes | ikaris | [Read More](https://medium.com/p/8f237ab327de) |
 | Sun, 04 Jan 2026 13:16:57 GMT | Identity Theft, Made Plain | Plaintext with Rich | [Read More](https://medium.com/p/8ba3506664ee) |
@@ -107,10 +114,3 @@ Every… | Ankit rai | [Read More](https://medium.com/p/a6432d7fb429) |
 | Sun, 04 Jan 2026 06:44:15 GMT | The Linux Concept Journey — Unix Time | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f1cdd7cd57b1) |
 | Sun, 04 Jan 2026 06:33:34 GMT | RSA Conference (Cybersecurity, March): Powerful Insights Shaping Digital Security | Pratibhak | [Read More](https://medium.com/p/c08dd43cf5eb) |
 | Sun, 04 Jan 2026 06:32:56 GMT | $280 Bug Bounty: How a Case-Sensitive Email Bug Locked Users' Accounts | Monika sharma | [Read More](https://medium.com/p/175fe00779d9) |
-| Sun, 04 Jan 2026 06:27:55 GMT | The One-Click Library Wipe: Exploiting CSRF in Saved Stories | Munna✨ | [Read More](https://medium.com/p/28523d4bc5e2) |
-| Sun, 04 Jan 2026 06:25:41 GMT | Hack The Box — Bashed — Easy | 0x0b0 | [Read More](https://medium.com/p/8248ab7c596e) |
-| Sun, 04 Jan 2026 06:25:40 GMT | Tech 블로그를 시작한 이유 | 이현종 | [Read More](https://medium.com/p/06781c0f485c) |
-| Sun, 04 Jan 2026 06:24:29 GMT | Securing Digital Accounts with Bitwarden Password Manager | Irham Sahbana | [Read More](https://medium.com/p/1451154418a6) |
-| Sun, 04 Jan 2026 06:22:48 GMT | 4 Cybersecurity Projects That Earn Me Over $4,000/Month as a Penetration Tester | Cybervolt | [Read More](https://medium.com/p/24d069cd7357) |
-| Sun, 04 Jan 2026 06:19:16 GMT | How Recon Helped Me Land a $50,000 Bug Bounty — No Exploits Needed | Cybervolt | [Read More](https://medium.com/p/42163ede7dfc) |
-| Sun, 04 Jan 2026 06:11:31 GMT | The Case for Consciousness Monitoring Programs: Why They Might Already Exist | Hawk | [Read More](https://medium.com/p/bc3a592d497f) |
