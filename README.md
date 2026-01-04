@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 17:13:33 GMT | Logların İzinde: Ransomware Senaryosu | Ali Ekber KARA | [Read More](https://medium.com/p/42cb44c8a868) |
+| Sun, 04 Jan 2026 17:09:07 GMT | Why is AI-based Third-Party Risk Management important in 2026? | Zeron | [Read More](https://medium.com/p/76080f40697f) |
+| Sun, 04 Jan 2026 17:07:09 GMT | Day 4 — My First Hands-On Security Operations Experience | Drishti Pandey | [Read More](https://medium.com/p/beaf3bc43d37) |
+| Sun, 04 Jan 2026 17:02:23 GMT | The Last Unexamined Surveillance Domain | Hawk | [Read More](https://medium.com/p/4c5434a926ff) |
+| Sun, 04 Jan 2026 16:57:02 GMT | Online Dating & AI — a match made in heaven? | Gilbert Hill | [Read More](https://medium.com/p/0e4c111aa13a) |
+| Sun, 04 Jan 2026 16:54:25 GMT | What I Learned While Rebuilding Wireshark (One Packet at a Time) | Neha ravi | [Read More](https://medium.com/p/adcc04c69e63) |
+| Sun, 04 Jan 2026 16:46:44 GMT | 5G Security: A Deep Dive | Aayush Bhatnagar | [Read More](https://medium.com/p/33ca672435f3) |
+| Sun, 04 Jan 2026 16:45:29 GMT | Incident Response: Why speed is your best defense (and how to scan at scale quickly) | Jean-Pierre GARNIER | [Read More](https://medium.com/p/8880cf4d866e) |
 | Sun, 04 Jan 2026 16:44:47 GMT | Bug Bounty Burnout Almost Killed My Motivation — Then This Logic Flaw Paid Me | Iski | [Read More](https://medium.com/p/a1d335016445) |
 | Sun, 04 Jan 2026 16:42:54 GMT | Living the Cybersecurity Serenity Prayer | Helen Patton | [Read More](https://medium.com/p/b811db745da8) |
 | Sun, 04 Jan 2026 16:41:50 GMT | Defense in Depth in Cybersecurity | mohandika | [Read More](https://medium.com/p/52cd1b28bfa3) |
@@ -106,11 +114,3 @@ Every… | Ankit rai | [Read More](https://medium.com/p/a6432d7fb429) |
 | Sun, 04 Jan 2026 10:06:24 GMT | Building the Fortress: How to Architect a Secure, Multi-Tier Application on AWS | Itsamrita | [Read More](https://medium.com/p/d6056fc4ce0c) |
 | Sun, 04 Jan 2026 10:05:13 GMT | Hands-On Penetration Testing: Metasploitable vsftpd 2.3.4 | SimpleTecBro | [Read More](https://medium.com/p/d1d9e6f1f03c) |
 | Sun, 04 Jan 2026 09:59:32 GMT | Web Application Security: Hands-On Practice (Chapter 4 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/cf20d381e067) |
-| Sun, 04 Jan 2026 09:58:23 GMT | Dari Scan Ke Keputusan: Kenapa Hasil Vulnerability Scan Bukan Jawaban Akhir Dalam Cyber Security | Handev Code | [Read More](https://medium.com/p/aa6c66738102) |
-| Sun, 04 Jan 2026 09:47:17 GMT | What is JWT? A Practical Analysis of the BTLO “Secrets” CTF | Fidan Gasimzada | [Read More](https://medium.com/p/19baf20d8beb) |
-| Sun, 04 Jan 2026 09:44:04 GMT | Ethical Hacking Career Guide 2026: Skills, Salary & Roadmap | Bugitrix | [Read More](https://medium.com/p/70bd79c257b7) |
-| Sun, 04 Jan 2026 09:32:24 GMT | Your Security Budget Is Being Wasted on Tools That Don’t Actually Work Together | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/2d33006b8e2a) |
-| Sun, 04 Jan 2026 09:22:41 GMT | Zero‑Day Exploits Target Apple Users – Update Now | CyberWarrior01 | [Read More](https://medium.com/p/b1fc8c4f9576) |
-| Sun, 04 Jan 2026 09:19:53 GMT | Waterfall vs Agile | Pranil Pradeep Dalvi | [Read More](https://medium.com/p/613b635908ac) |
-| Sun, 04 Jan 2026 09:19:40 GMT | When ‘Harmless’ Is No Longer Harmless … | Prashant Dhume | [Read More](https://medium.com/p/7b82e56fa82a) |
-| Sun, 04 Jan 2026 09:09:39 GMT | SOC Analyst Roadmap [2026 ] : The Complete Career Guide from Beginner to Pro | EINITIAL24 | [Read More](https://medium.com/p/246204c56714) |
