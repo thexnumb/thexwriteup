@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 15:26:50 GMT | Muhammad Fahri Satriady | Muhammad Fahri Satriady | [Read More](https://medium.com/p/abe453761211) |
+| Sun, 04 Jan 2026 15:19:41 GMT | [CyberDefenders Write-up] BRabbit Lab | OxMotaw3 | [Read More](https://medium.com/p/d42ca137a748) |
 | Sun, 04 Jan 2026 15:03:55 GMT | DevSecOps Security Explained: Nessus vs Black Duck vs Trivy | Amit Singh | [Read More](https://medium.com/p/311021563dcb) |
 | Sun, 04 Jan 2026 14:58:45 GMT | Locking Down Old Computers Without Losing Your Data | Geoffrey Wenger | [Read More](https://medium.com/p/3824e596ba41) |
 | Sun, 04 Jan 2026 14:56:07 GMT | The Art of WAF Evasion: From Superficial Techniques to Systematic Strategies | N0aziXss | [Read More](https://medium.com/p/62202cd82962) |
@@ -112,5 +114,3 @@ Every… | Ankit rai | [Read More](https://medium.com/p/a6432d7fb429) |
 | Sun, 04 Jan 2026 07:12:14 GMT | Stop Writing Your Own HTML Encoders: A Guide to XSS Prevention in Custom Frameworks | Noor Mohammed Rizwan | [Read More](https://medium.com/p/6b1c90b29a42) |
 | Sun, 04 Jan 2026 07:11:30 GMT | Who is a white hat hacker? | Vishalraj | [Read More](https://medium.com/p/4d9f2049929d) |
 | Sun, 04 Jan 2026 07:09:34 GMT | ️ FortiGate Lab — Address Object Oluşturma (IP / Subnet Mantığı) | Esra Tosun | [Read More](https://medium.com/p/d4ce88eabef4) |
-| Sun, 04 Jan 2026 07:02:41 GMT | 7 Subtle Signs We’re Accidentally Killing the Next Generation of Software Engineers | AlgoWing | [Read More](https://medium.com/p/5222d5629777) |
-| Sun, 04 Jan 2026 07:02:38 GMT | Deauthentication Attacks — The Silent Killer of Wi-Fi Networks | Nisarg Patel | [Read More](https://medium.com/p/9410821817e0) |
