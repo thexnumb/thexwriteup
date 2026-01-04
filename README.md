@@ -12,8 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 20:32:13 GMT | EDGAR Broken Link | John Friedman | [Read More](https://medium.com/p/b0191b0e1d9c) |
+| Sun, 04 Jan 2026 20:28:15 GMT | Cybersecurity in the Age of Vibe-Coding: Why CDD is the Only Way to Audit the “AI Spaghetti” | Fabio Meyer | [Read More](https://medium.com/p/23ce23255e73) |
 | Sun, 04 Jan 2026 20:23:41 GMT | Insecure Direct Object Reference (IDOR) | Cybernight | [Read More](https://medium.com/p/36b639b198cc) |
 | Sun, 04 Jan 2026 20:21:22 GMT | The Right Methodology for Hacking Anything | Cybernight | [Read More](https://medium.com/p/de0e04f583e1) |
+| Sun, 04 Jan 2026 20:20:34 GMT | What My Second Linux Lab Taught Me About Attention to Detail | Grace Jaman | [Read More](https://medium.com/p/739ebf12b353) |
 | Sun, 04 Jan 2026 20:08:53 GMT | Sandbox Escape and Remote Code Execution in n8n Python Code Node (CVE-2025–68668) | Berk Dedekargınoğlu | [Read More](https://medium.com/p/072336ec1893) |
 | Sun, 04 Jan 2026 19:57:43 GMT | The Identity Sprawl is 2026’s Biggest Security Leak | Arshak Ahamed | [Read More](https://medium.com/p/7a12ce926ded) |
 | Sun, 04 Jan 2026 19:47:30 GMT | Deep-Dive PII Hunting & Validation Techniques (Part 2/3) | Cybersecplayground | [Read More](https://medium.com/p/c95d587115e2) |
@@ -109,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 Jan 2026 13:16:57 GMT | Identity Theft, Made Plain | Plaintext with Rich | [Read More](https://medium.com/p/8ba3506664ee) |
 | Sun, 04 Jan 2026 13:16:06 GMT | An AI Didn’t Just Fake an ID. It Exposed a Global Weak Point. | Khushdeep Sharma | [Read More](https://medium.com/p/b9bdbdb4f007) |
 | Sun, 04 Jan 2026 13:09:57 GMT | Amazon CSRF Protection | Piyali Das | [Read More](https://medium.com/p/9a6d31da7ebf) |
-| Sun, 04 Jan 2026 13:03:12 GMT | Your Password Hashing Strategy Will Fail — Here’s Why | Suhail Muhammed | [Read More](https://medium.com/p/d6524b236ecb) |
-| Sun, 04 Jan 2026 12:58:45 GMT | Why Most Organizations Will Fail at Cybersecurity in 2026 (Despite Heavy Investment)
-Article
-Every… | Ankit rai | [Read More](https://medium.com/p/a6432d7fb429) |
-| Sun, 04 Jan 2026 12:53:37 GMT | Attacking MSSQL Servers with UNC Path Injection | Athis SN | [Read More](https://medium.com/p/0537716c104b) |
