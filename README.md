@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 22:13:55 GMT | The World Needs Stronger Cyber Leaders — Will You Step Up? | Fook Hwa Tan | [Read More](https://medium.com/p/7bd5e50facb2) |
+| Sun, 04 Jan 2026 22:12:34 GMT | NIS2, AI Act, CSRD — What’s Coming, and What You Can Do Today | Fook Hwa Tan | [Read More](https://medium.com/p/59e7ff9d3f98) |
+| Sun, 04 Jan 2026 21:42:25 GMT | Broken Access Control: The #1 OWASP Risk Explained with Real Backend Incidents | The Cache Cowgirl | [Read More](https://medium.com/p/bc08b9e9d849) |
+| Sun, 04 Jan 2026 21:37:15 GMT | There’s a Big Misconception About Resilience, and We Need to
+Do Something About It | Stephanie Hunter-Banks | [Read More](https://medium.com/p/ff32cbdf43e8) |
 | Sun, 04 Jan 2026 21:21:19 GMT | Lab: 2FA simple bypass | Songül Kızılay Özügürler | [Read More](https://medium.com/p/eca7ba98b463) |
 | Sun, 04 Jan 2026 21:06:00 GMT | Infrared, Reflections, and Wires: Reading the Signs of Hidden Surveillance | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/04404eee4668) |
 | Sun, 04 Jan 2026 21:05:14 GMT | Why Predictive Maintenance AI Is a Prime Cyber Target | Muhammad Ali Khan | [Read More](https://medium.com/p/19d17a4e898f) |
@@ -108,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 Jan 2026 14:48:32 GMT | How Phone Numbers Get Tracked Online | Fareed Masood | [Read More](https://medium.com/p/9038b06cf4af) |
 | Sun, 04 Jan 2026 14:43:19 GMT | This Rust Library Is ‘Illegal’ On Purpose And It Exposes A Bigger Problem With AI Coding | Build Break Learn | [Read More](https://medium.com/p/28a9771b7001) |
 | Sun, 04 Jan 2026 14:37:20 GMT | Case File: 0x02 — Operation “Parking Lot Pivot” | The Knight | [Read More](https://medium.com/p/046d96c8c10b) |
-| Sun, 04 Jan 2026 14:34:48 GMT | Cloudflare: ตั้งค่า security/cache สำหรับเว็บ WordPress ป้องกันแฮ๊ก login | samphan r. | [Read More](https://medium.com/p/e2ad51e574bd) |
-| Sun, 04 Jan 2026 14:32:40 GMT | Try Hack Me - ParrotPost — Phishing Analysis - Walkthrough | Raheesh Nusayr | [Read More](https://medium.com/p/efc881af75e3) |
-| Sun, 04 Jan 2026 14:32:25 GMT | Session Hijacking Made Simple: Capturing Sessions with Ferret and Hamster | Vignesh R | [Read More](https://medium.com/p/acf8a9ef4deb) |
-| Sun, 04 Jan 2026 14:29:53 GMT | Data Classification Automation | Esra Kayhan | [Read More](https://medium.com/p/9675395fcb82) |
