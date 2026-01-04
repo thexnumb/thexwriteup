@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 04 Jan 2026 10:06:24 GMT | Building the Fortress: How to Architect a Secure, Multi-Tier Application on AWS | Itsamrita | [Read More](https://medium.com/p/d6056fc4ce0c) |
+| Sun, 04 Jan 2026 10:05:13 GMT | Hands-On Penetration Testing: Metasploitable vsftpd 2.3.4 | SimpleTecBro | [Read More](https://medium.com/p/d1d9e6f1f03c) |
+| Sun, 04 Jan 2026 09:59:32 GMT | Web Application Security: Hands-On Practice (Chapter 4 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/cf20d381e067) |
+| Sun, 04 Jan 2026 09:58:23 GMT | Dari Scan Ke Keputusan: Kenapa Hasil Vulnerability Scan Bukan Jawaban Akhir Dalam Cyber Security | Handev Code | [Read More](https://medium.com/p/aa6c66738102) |
+| Sun, 04 Jan 2026 09:47:17 GMT | What is JWT? A Practical Analysis of the BTLO “Secrets” CTF | Fidan Gasimzada | [Read More](https://medium.com/p/19baf20d8beb) |
+| Sun, 04 Jan 2026 09:44:04 GMT | Ethical Hacking Career Guide 2026: Skills, Salary & Roadmap | Bugitrix | [Read More](https://medium.com/p/70bd79c257b7) |
+| Sun, 04 Jan 2026 09:32:24 GMT | Your Security Budget Is Being Wasted on Tools That Don’t Actually Work Together | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/2d33006b8e2a) |
 | Sun, 04 Jan 2026 09:22:41 GMT | Zero‑Day Exploits Target Apple Users – Update Now | CyberWarrior01 | [Read More](https://medium.com/p/b1fc8c4f9576) |
 | Sun, 04 Jan 2026 09:19:53 GMT | Waterfall vs Agile | Pranil Pradeep Dalvi | [Read More](https://medium.com/p/613b635908ac) |
 | Sun, 04 Jan 2026 09:19:40 GMT | When ‘Harmless’ Is No Longer Harmless … | Prashant Dhume | [Read More](https://medium.com/p/7b82e56fa82a) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 Jan 2026 01:18:17 GMT | TRIAGE PACKAGE CREATION USING KAPE TOOL | Basmala Yasser | [Read More](https://medium.com/p/80a09644796e) |
 | Sun, 04 Jan 2026 01:03:44 GMT | BugZzzz — FahemSec Web Challenge | محمد بن إبراهيم | [Read More](https://medium.com/p/422c15c539b9) |
 | Sun, 04 Jan 2026 00:56:44 GMT | TCPDump in Action: HackTheBox Walkthrough | Cybersecurity Simplified | [Read More](https://medium.com/p/ca30049aeb0d) |
-| Sun, 04 Jan 2026 00:47:28 GMT | Redeemer — HTB Starting Point | Cosmic Seaborn | [Read More](https://medium.com/p/24b4b5524b16) |
-| Sun, 04 Jan 2026 00:45:07 GMT | The UAE After Yemen - Declining Influence and a Possible Strategic Shift Toward Sudan | Nura haruna (Maikarfe) | [Read More](https://medium.com/p/5eca6129fdd3) |
-| Sun, 04 Jan 2026 00:43:00 GMT | Pentest Básico 1 — Hackeando uma máquina virtual (writeup) | Drifter | [Read More](https://medium.com/p/b7843f37f6ee) |
-| Sun, 04 Jan 2026 00:32:52 GMT | Satellite comms on your smartphone. Continuity of operations and SOS. | Berend Watchus | [Read More](https://medium.com/p/0ab4edb4e11e) |
-| Sun, 04 Jan 2026 00:28:26 GMT | AI Pentesting: Defending Against Prompt Injection and Improper Output Handling | Will Giles - Cybersecurity | [Read More](https://medium.com/p/541f60efbb18) |
-| Sun, 04 Jan 2026 00:11:27 GMT | Interception and Eavesdropping of Satellite Communications | PWNSAT | [Read More](https://medium.com/p/b7be24d91ff8) |
-| Sun, 04 Jan 2026 00:10:10 GMT | Ultimate Container Security Series | 0xAlphaSecurity | [Read More](https://medium.com/p/516c9b9ed735) |
