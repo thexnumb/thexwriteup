@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 Jan 2026 01:57:47 GMT | The 90% Collapse: 30 Million Lives in the Lake Chad Trap | Oge Samuel Okonkwo | [Read More](https://medium.com/p/bb028c7f1736) |
+| Mon, 05 Jan 2026 01:37:41 GMT | How New Rules Are Turning AI Data Use Into a Consent Problem Most Companies Aren’t Ready For | A D | [Read More](https://medium.com/p/e68cc0aad8ce) |
+| Mon, 05 Jan 2026 01:27:19 GMT | Password Attacks-Pass the Ticket (PtT) from Windows | ealmonte | [Read More](https://medium.com/p/c5a0f0fed314) |
+| Mon, 05 Jan 2026 01:14:34 GMT | C2 Frameworks as a public toilet of the cybersecurity industry | 0trust0day | [Read More](https://medium.com/p/fbc07cd64cf9) |
+| Mon, 05 Jan 2026 01:02:26 GMT | I Regret Going to College | I.M. | [Read More](https://medium.com/p/ccd32699f8ff) |
+| Mon, 05 Jan 2026 00:56:05 GMT | How Our Agent Extracted a System Prompt Using Base64 | Daniel Knight | [Read More](https://medium.com/p/6368ac267ac8) |
+| Mon, 05 Jan 2026 00:43:49 GMT | Common Cyber Attacks and How SOC Analysts Detect Them | Jenishjoel | [Read More](https://medium.com/p/55df27264bef) |
+| Mon, 05 Jan 2026 00:41:36 GMT | SIEM Basics and Use Cases for SOC Analysts (Splunk) | Jenishjoel | [Read More](https://medium.com/p/1143a93a1850) |
+| Mon, 05 Jan 2026 00:02:31 GMT | Blue Team Labs Online - Log Analysis — Compromised WordPress - Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/41387b65e617) |
+| Sun, 04 Jan 2026 23:47:40 GMT | Service Endpoint and Private Endpoint from a security perspective | Alberto Credmann Beniste | [Read More](https://medium.com/p/fa621de4e86c) |
 | Sun, 04 Jan 2026 23:33:13 GMT | What You’ll Learn After Gaining Your 1'st Hacking Certifcate? - Certificated Hacker’s Roadmap #1 | NnFace | [Read More](https://medium.com/p/6fa730d5bd39) |
 | Sun, 04 Jan 2026 23:24:50 GMT | Vibe Coding is Dangerous. Use This “Villain Mode” Cheat Code Instead. | Marlon Petry | [Read More](https://medium.com/p/774172458e41) |
 | Sun, 04 Jan 2026 23:00:29 GMT | Windows Malware Development Roadmap | S12 - 0x12Dark Development | [Read More](https://medium.com/p/9a66ab8b82dd) |
@@ -103,13 +113,3 @@ Do Something About It | Stephanie Hunter-Banks | [Read More](https://medium.com/
 | Sun, 04 Jan 2026 16:31:57 GMT | Penetration Testing in Finland (2026): Pricing, Process, and What Companies Should Expect | Attractor | [Read More](https://medium.com/p/a07cfd076139) |
 | Sun, 04 Jan 2026 16:30:06 GMT | Fast & Professional House Lock Out Service in London — The Lock Specialist Ltd | The Lock Specialist Ltd | [Read More](https://medium.com/p/3fe6c631f221) |
 | Sun, 04 Jan 2026 16:25:46 GMT | E1 Locksmith Services in London — Trusted Local Support by The Lock Specialist Ltd | The Lock Specialist Ltd | [Read More](https://medium.com/p/6e83c2137645) |
-| Sun, 04 Jan 2026 16:25:10 GMT | Why JPA FetchType.EAGER Is a Production Bug (And How It Destroys Spring Boot Performance) | Karuna | [Read More](https://medium.com/p/980d36ab4a3c) |
-| Sun, 04 Jan 2026 16:23:21 GMT | Cybersecurity Audit Panic Is Optional: Turn Audits into a Competitive Advantage | Denny Roger | [Read More](https://medium.com/p/21596cbeaf21) |
-| Sun, 04 Jan 2026 16:20:13 GMT | [2026] Databricks AI_MASK or Snowflake AI_REDACT? Securing Your Unstructured Data | Divyansh Saxena | [Read More](https://medium.com/p/712a9b2685a1) |
-| Sun, 04 Jan 2026 16:14:50 GMT | XSS Attack: Panduan Lengkap Cross Site Scripting Untuk Ethical Hacker | Handev Code | [Read More](https://medium.com/p/9d1b924e1d57) |
-| Sun, 04 Jan 2026 16:10:38 GMT | Security Onion Installation and Configuration | Ankit M | [Read More](https://medium.com/p/5b74f32659a7) |
-| Sun, 04 Jan 2026 16:05:46 GMT | How I Found 7 XSS Using a Custom Nuclei Template | ell0guvn0r | [Read More](https://medium.com/p/c84eed29c459) |
-| Sun, 04 Jan 2026 16:03:35 GMT | Designing a Secure AWS 3-Tier Architecture: Decisions That Actually Matter. | Prafful Mishra | [Read More](https://medium.com/p/479fc4c3329b) |
-| Sun, 04 Jan 2026 16:00:47 GMT | Bandit Level 10 to Level 11 | Sivanesan M | [Read More](https://medium.com/p/8f9e7a76448d) |
-| Sun, 04 Jan 2026 15:56:13 GMT | Lab: Password reset broken logic | Songül Kızılay Özügürler | [Read More](https://medium.com/p/7fd8d1bed622) |
-| Sun, 04 Jan 2026 15:54:10 GMT | Android malware reversing with frontier LLM models — HTB pedometer challenge | Red Threat Cyber Security | [Read More](https://medium.com/p/6cedc610df53) |
