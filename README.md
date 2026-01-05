@@ -12,12 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 Jan 2026 14:52:26 GMT | Beyond the Bots: Unmasking AI-Generated Phishing with MAD20 Mapping | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/c26a9bf1fa66) |
+| Mon, 05 Jan 2026 14:52:01 GMT | Building a Rogue Wi-Fi Access Point on Kali Linux 2025 (RPi 4B) — Part 1 | Morgan Hung | [Read More](https://medium.com/p/1be32026c06f) |
+| Mon, 05 Jan 2026 14:46:12 GMT | Ransomware Changed From Extortion To Disruption In 2025 | Geoffrey Wenger | [Read More](https://medium.com/p/d060745d5d70) |
+| Mon, 05 Jan 2026 14:42:09 GMT | Responding to a Data Breach | Financial Poise | [Read More](https://medium.com/p/c6e5143c651c) |
+| Mon, 05 Jan 2026 14:41:27 GMT | My Cybersecurity Journey and Finishing the year 2025 (TryHackMe skil) | M o $ t a | [Read More](https://medium.com/p/dd0ade44a3aa) |
+| Mon, 05 Jan 2026 14:32:23 GMT | Understanding DNS Spoofing: How It Works and Its Potential Uses | Vignesh R | [Read More](https://medium.com/p/3f4ddbdf76e1) |
+| Mon, 05 Jan 2026 14:31:01 GMT | Vector Databases Are Eating the World (And Why You Should Care) | Jitin Kayyala | [Read More](https://medium.com/p/c739538ccf0c) |
+| Mon, 05 Jan 2026 14:30:01 GMT | Migrating Legacy Windows Server 2008 Applications to Windows Server 2019/2022 | DiPAK KNVDL | [Read More](https://medium.com/p/9ab7a99206f2) |
+| Mon, 05 Jan 2026 14:24:26 GMT | Windows Internals — Part 1: Processes, Trust, and Why Windows Cares So Much | Hamood Naseer Al-Marhoubi | [Read More](https://medium.com/p/495e0f4afb4a) |
+| Mon, 05 Jan 2026 14:23:31 GMT | N8N Cloud vs Self-Hosting: Which Should You Choose in 2026? | Aman Singh | [Read More](https://medium.com/p/9cb69b82bf30) |
 | Mon, 05 Jan 2026 14:22:37 GMT | Types of Bad Actors in Information Systems | Ümit Berber | [Read More](https://medium.com/p/5aa6fc4a69b1) |
+| Mon, 05 Jan 2026 14:22:24 GMT | Writeup 2: Beacon Flooding — The Art of Wi-Fi Illusion | Nisarg Patel | [Read More](https://medium.com/p/f22db5af0bcb) |
 | Mon, 05 Jan 2026 14:22:13 GMT | Hi, I’m Tonmoy, a Professional Cybersecurity Expert & Certified Ethical Hacker with years of… | Ethical Hacker | [Read More](https://medium.com/p/a76a5332fd83) |
 | Mon, 05 Jan 2026 14:16:43 GMT | Security Architecture: Why It Must Survive Automation | Alaa Rahimi | [Read More](https://medium.com/p/44b83cc120bb) |
 | Mon, 05 Jan 2026 14:07:43 GMT | AI Agents as Privileged Insiders: The “Invisible Superuser” Risk CISOs Can’t Ignore | Denny Roger | [Read More](https://medium.com/p/ef8e1d3ca182) |
 | Mon, 05 Jan 2026 14:06:03 GMT | 600$ For Stealing Podcasts/Show via RSS Feed Manipulation | Anas NadY | [Read More](https://medium.com/p/f3f2cef08adf) |
 | Mon, 05 Jan 2026 13:58:41 GMT | Envoy Proxy Misconfigurations You Can Easily Fall Into | smgtkn | [Read More](https://medium.com/p/7b2effc6e076) |
+| Mon, 05 Jan 2026 13:58:38 GMT | Tutorial 2 “Kerentanan injeksi SQL yang memungkinkan bypass login” | Diva Rizky Alfitrah | [Read More](https://medium.com/p/ff1c3a98fc97) |
 | Mon, 05 Jan 2026 13:57:42 GMT | $1,000 Bug Bounty: Complete Email System Takeover | Raja Uzair Abdullah | [Read More](https://medium.com/p/7ee800f2a2eb) |
 | Mon, 05 Jan 2026 13:52:09 GMT | Top 15 Kali Linux GUI Tools Every Security Engineer Must Master (With Real Use Cases) | TechLatest.Net | [Read More](https://medium.com/p/d3412e9867fd) |
 | Mon, 05 Jan 2026 13:50:54 GMT | I Replaced Every Online File Converter With VERT.sh and I Cannot Go Back | Muhammad Hassan Ali | [Read More](https://medium.com/p/19563e8c0ee0) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 09:46:45 GMT | Legacy: Smashing Windows XP with MS08-067 & Instant Root | Nicholas Mullenski | [Read More](https://medium.com/p/5f12678846bd) |
 | Mon, 05 Jan 2026 09:40:47 GMT | Compliance Monitoring: Redefining Real-Time Regulatory Adherence | Trisha Gaur | [Read More](https://medium.com/p/814a2ebb0c9c) |
 | Mon, 05 Jan 2026 09:23:23 GMT | Hack Me If You Can: Building a Vulnerable Linux VM | Livey | [Read More](https://medium.com/p/d394a55a569a) |
-| Mon, 05 Jan 2026 09:19:50 GMT | How Secure Cloud Infrastructure Improves ERP Performance and Stability | DC9India | [Read More](https://medium.com/p/282fad15ab07) |
-| Mon, 05 Jan 2026 09:16:45 GMT | The Trench Commander: In Praise of Managers Who Actually Commit Code | Namir Sagheenanajar | [Read More](https://medium.com/p/87be9b81c2d5) |
-| Mon, 05 Jan 2026 09:16:37 GMT | Web Zafiyetleri Serisi #11 | Didem Kış | [Read More](https://medium.com/p/29d5ce48fcd5) |
-| Mon, 05 Jan 2026 09:12:43 GMT | Ethical hacking course in trivandrum | Manudybala | [Read More](https://medium.com/p/02382b53c68a) |
-| Mon, 05 Jan 2026 09:11:07 GMT | AI in Cybersecurity Response: Reducing Mitigation Times | Prakriti Juneja | [Read More](https://medium.com/p/36224e69b792) |
-| Mon, 05 Jan 2026 09:09:45 GMT | Best SOC services in Bangalore | Cyberlancer | [Read More](https://medium.com/p/550149577a83) |
-| Mon, 05 Jan 2026 09:09:08 GMT | AI Security Research — December 2025 | Tal Eliyahu | [Read More](https://medium.com/p/2955308744c2) |
-| Mon, 05 Jan 2026 09:02:16 GMT | Basics of XSLT Exploitation | Indigo Shadow | [Read More](https://medium.com/p/1ab935a4fff0) |
-| Mon, 05 Jan 2026 08:59:34 GMT | Why Barzo Security Services is the Choice for Over 500 Happy Clients | Travel time | [Read More](https://medium.com/p/0c6cbbade3f9) |
-| Mon, 05 Jan 2026 08:56:39 GMT | A Simple Tech Habit That Can Protect More Than Your Phone Battery. | Oladipo Taiwo Olamide(Lolu_Everywhere) | [Read More](https://medium.com/p/b921ca8594ee) |
-| Mon, 05 Jan 2026 08:55:35 GMT | Cyber Advisory Readiness: Strategies for Organizational Preparedness | Sophia Nellon | [Read More](https://medium.com/p/d54a924e154d) |
-| Mon, 05 Jan 2026 08:52:05 GMT | Shopify Speed Optimization Expert Guide: Boost Store Performance, SEO, and Conversions | Pensy | [Read More](https://medium.com/p/e0ffcdcb3ba2) |
