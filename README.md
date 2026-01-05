@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 Jan 2026 05:50:25 GMT | The Art of Redirect 
+ How “Low Impact” Open Redirects Become High-Value Chains | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/c8cf00e3b584) |
+| Mon, 05 Jan 2026 05:45:25 GMT | Differences Between Endpoint Security and Network Security: A Clear Guide for Modern Businesses | Maxatlasofficial | [Read More](https://medium.com/p/76a4f8376d51) |
+| Mon, 05 Jan 2026 05:38:12 GMT | Facing off with Gandalf Level 4 | Kimberly Ordel | [Read More](https://medium.com/p/8d789dab8a44) |
+| Mon, 05 Jan 2026 05:37:38 GMT | Why Round-the-Clock SOC Monitoring Is Vital for Rapid Response | Sneha Mehra | [Read More](https://medium.com/p/9ed432c8da06) |
+| Mon, 05 Jan 2026 05:27:01 GMT | Cyber Defense: Transitioning to Predictive Enterprise Security | Nikhil Chatterjee | [Read More](https://medium.com/p/1f4f02a05d1c) |
+| Mon, 05 Jan 2026 05:26:44 GMT | Why We Need Dedicated Anti-Ransomware Protection Beyond Traditional Antivirus and EDR Solutions | David SEHYEON Baek | [Read More](https://medium.com/p/6446bbcedf1a) |
+| Mon, 05 Jan 2026 05:22:42 GMT | Types of security in information technology explained | dailypulsewire | [Read More](https://medium.com/p/c8fc81e9800f) |
+| Mon, 05 Jan 2026 05:20:48 GMT | AI Scams 2026: How Scammers Use AI & How To Stay Protected | DevaDas Writer | [Read More](https://medium.com/p/41d4751ab1f8) |
+| Mon, 05 Jan 2026 05:15:01 GMT | Cyber Resilience: Why Proactive Strategies Are the New Standard | Kavitha Banerjee | [Read More](https://medium.com/p/0941c73caab9) |
+| Mon, 05 Jan 2026 05:04:57 GMT | The Linux Security Journey — passwd (/etc/passwd) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/c979e97f70ac) |
 | Mon, 05 Jan 2026 05:03:42 GMT | The Last Mile Problem in Modern Browsing Security | DarkBarrier | [Read More](https://medium.com/p/7e170668f912) |
 | Mon, 05 Jan 2026 05:03:36 GMT | Careers in Cyber - TryHackMe Walkthrough | Harinsu Bandara | [Read More](https://medium.com/p/0a6a1e05f9f9) |
 | Mon, 05 Jan 2026 04:59:52 GMT | OverTheWire Bandit (Day 06): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/39a697f86cb6) |
@@ -46,6 +57,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 02:44:19 GMT | Pickle Rick TryHackMe WriteUP | cat0x01 | [Read More](https://medium.com/p/d0ee8cf9f370) |
 | Mon, 05 Jan 2026 02:27:36 GMT | Top 21 Dark Web Resources Every OSINT Professional Should Know | Regan Temudo | [Read More](https://medium.com/p/30e75e1cbc49) |
 | Mon, 05 Jan 2026 02:27:17 GMT | Sherlock Exposes You In Seconds: The OSINT Weapon!! | cybrNK | [Read More](https://medium.com/p/eb58947df09f) |
+| Mon, 05 Jan 2026 02:27:09 GMT | OSINT Under the Hood: Level Up — From Person to Infrastructure Mapping | Rabail Zaheer | [Read More](https://medium.com/p/f9a634ccaded) |
 | Mon, 05 Jan 2026 02:20:49 GMT | My C-AI/MLPen Exam Journey | Onurcan Genç | [Read More](https://medium.com/p/5af199e24b47) |
 | Mon, 05 Jan 2026 01:57:47 GMT | The 90% Collapse: 30 Million Lives in the Lake Chad Trap | Oge Samuel Okonkwo | [Read More](https://medium.com/p/bb028c7f1736) |
 | Mon, 05 Jan 2026 01:37:41 GMT | How New Rules Are Turning AI Data Use Into a Consent Problem Most Companies Aren’t Ready For | A D | [Read More](https://medium.com/p/e68cc0aad8ce) |
@@ -102,14 +114,3 @@ Do Something About It | Stephanie Hunter-Banks | [Read More](https://medium.com/
 | Sun, 04 Jan 2026 19:40:31 GMT | Breaking Mobile Bot Protection: Reverse Engineering PerimeterX’s iOS SDK | Biplov Dahal | [Read More](https://medium.com/p/8c760fb0fdc7) |
 | Sun, 04 Jan 2026 19:37:49 GMT | Analysis: Rising Insecurity Deepens Crisis Across Northern Nigeria | Sunday Buna Ibrahim | [Read More](https://medium.com/p/4066d1e7fdcc) |
 | Sun, 04 Jan 2026 19:26:49 GMT | Executive Safety in Turkey: A Strategic Guide to Armored Transportation | BYZAS | [Read More](https://medium.com/p/98265a0648f5) |
-| Sun, 04 Jan 2026 19:19:44 GMT | Idempotency: the simple backend idea that quietly saves your ass | Leon Musk | [Read More](https://medium.com/p/cc8f9dd13710) |
-| Sun, 04 Jan 2026 19:17:06 GMT | Understanding Common OTP Bypass Techniques | Aryan patel | [Read More](https://medium.com/p/4670b4dcb438) |
-| Sun, 04 Jan 2026 19:08:14 GMT | Bad Architecture: The AI Didn’t Fail — The Architecture Did | Hazem Ali | [Read More](https://medium.com/p/f73bbdc81535) |
-| Sun, 04 Jan 2026 19:02:11 GMT | Best Careers with Future Scope | Ruvera IT Training Institute | [Read More](https://medium.com/p/63032d4baad8) |
-| Sun, 04 Jan 2026 18:53:02 GMT | What I Learned About Identity Networks and 802.1X — And Why They Matter for Modern Security | rundiable | [Read More](https://medium.com/p/c3a8352ff483) |
-| Sun, 04 Jan 2026 18:40:36 GMT | I preach vulnerability, but I curate it | Olayinka Atobiloye | [Read More](https://medium.com/p/1e1a6be2fdb0) |
-| Sun, 04 Jan 2026 18:39:51 GMT | Burp Suite said “Critical”, Chrome said “Nope”: My ~$1,000 Mistake | Marlon Petry | [Read More](https://medium.com/p/9581777d7ce3) |
-| Sun, 04 Jan 2026 18:34:12 GMT | Cyber Security Service for Small Businesses in the UK: Top Providers, Costs & 24/7 Protection | Frieda Kane | [Read More](https://medium.com/p/bc505cab0e09) |
-| Sun, 04 Jan 2026 18:30:25 GMT | Sar Cheatsheet (Proving Grounds Play) | Adam Bartlett | [Read More](https://medium.com/p/b387d857cfda) |
-| Sun, 04 Jan 2026 18:29:26 GMT | WiFi Security Is Built for Offices That No Longer Exist | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/4a45b39cbc80) |
-| Sun, 04 Jan 2026 18:20:11 GMT | The Rise of AI in Cybersecurity: A Double-Edged Sword | Cyber_Phoenix | [Read More](https://medium.com/p/c31f6313173f) |
