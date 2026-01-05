@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 Jan 2026 18:31:52 GMT | Mastering Web Applications: A Journey from URLs to HTTP Handshakes | Shamir Ajmir Khan | [Read More](https://medium.com/p/584a53366378) |
+| Mon, 05 Jan 2026 18:31:25 GMT | Automating Active Directory Account Disablement After Failed Login Attempts (Wazuh + Graylog +… | SOCFortress | [Read More](https://medium.com/p/9b639f719632) |
+| Mon, 05 Jan 2026 18:12:04 GMT | I Abhor LinkedIn, Do You? | Briana Derry, MBA | [Read More](https://medium.com/p/158fb06631ec) |
+| Mon, 05 Jan 2026 18:10:34 GMT | Building an Extremely Vulnerable Windows 10 Lab: A Step-by-Step Guide (Bonus:Full PT with… | Andrey Pautov | [Read More](https://medium.com/p/9290d388744c) |
+| Mon, 05 Jan 2026 18:09:23 GMT | The IAM Blind Spot Everyone Is Ignoring: Non-Human Identities Are Taking Over | Sunnysinha | [Read More](https://medium.com/p/994a5b9f6136) |
+| Mon, 05 Jan 2026 18:08:17 GMT | Aster THM Room write-up | Mudiuth | [Read More](https://medium.com/p/a30571f188d0) |
+| Mon, 05 Jan 2026 18:06:19 GMT | Security Access Management: Methods and Best Practices | Joven A Rodrigues | [Read More](https://medium.com/p/997ebdf5bc1f) |
+| Mon, 05 Jan 2026 18:00:13 GMT | Abusing Client Controlled Authorization State to Achieve Privilege Escalation in Modern Web… | Jawad Momani | [Read More](https://medium.com/p/47e3a443e7d9) |
+| Mon, 05 Jan 2026 17:59:18 GMT | Security Often Fails Where Trust Is Assumed | Nikitha Srinivasan | [Read More](https://medium.com/p/d47d89de9936) |
+| Mon, 05 Jan 2026 17:57:11 GMT | Lab: Insufficient workflow validation | Songül Kızılay Özügürler | [Read More](https://medium.com/p/94b7f069fbec) |
+| Mon, 05 Jan 2026 17:52:14 GMT | Try Hack Me- 0dayWalkthrough | PulseEinher | [Read More](https://medium.com/p/786a155ce23e) |
+| Mon, 05 Jan 2026 17:46:37 GMT | How To Hire A Hacker | Arlo Cox | [Read More](https://medium.com/p/5b8715c0ce1e) |
+| Mon, 05 Jan 2026 17:45:35 GMT | Years in Security Engineering — and I’m Still Learning Every Day | Surya Naga Sesank Munukutla | [Read More](https://medium.com/p/289f1e74966e) |
+| Mon, 05 Jan 2026 17:44:17 GMT | How To Hire A Hacker | Arlo Cox | [Read More](https://medium.com/p/0eb37627d294) |
+| Mon, 05 Jan 2026 17:43:02 GMT | ️ Part 7: The Stealth Safety Net — Global Interceptors, Silent Logging, and UI Toasts | Sidharth S | [Read More](https://medium.com/p/13fd4f0e9333) |
 | Mon, 05 Jan 2026 17:40:54 GMT | Exposure | I.M.Writing | [Read More](https://medium.com/p/330a7dba02a8) |
 | Mon, 05 Jan 2026 17:38:45 GMT | How I Built Intelligent Systems: My Journey into AI Automation | William Brown | [Read More](https://medium.com/p/c8be2178a078) |
 | Mon, 05 Jan 2026 17:37:00 GMT | Inside Linux TCP: From Handshake to Reset or Close | Bidhan Khatri | [Read More](https://medium.com/p/7a0fc5d515b7) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 13:40:45 GMT | Preparing for the CISSP Certification in 2026: My Strategy and Study Plan | Citiz3n | [Read More](https://medium.com/p/0a609c06a20a) |
 | Mon, 05 Jan 2026 13:37:19 GMT | Global Digital Identity Market Update | David H. Deans | [Read More](https://medium.com/p/3470bf2b39c1) |
 | Mon, 05 Jan 2026 13:37:11 GMT | Love Feels Magical Until It Isn’t! | Heer | [Read More](https://medium.com/p/b340103ce193) |
-| Mon, 05 Jan 2026 13:36:45 GMT | Guest Identities in M365: Convenient for Collaboration, Costly for Security | Defend Microsoft365 now! | [Read More](https://medium.com/p/14343d72c9a1) |
-| Mon, 05 Jan 2026 13:36:44 GMT | Building a Cybersecurity Lab in AWS Part 1: IAM User, Roles, Permissions | Charles Christiansen | [Read More](https://medium.com/p/953506548c02) |
-| Mon, 05 Jan 2026 13:33:04 GMT | Stealer Logs Just Dropped: Is Your Domain in Today’s Dump? | Alexandre Vandamme | [Read More](https://medium.com/p/06476f84cf70) |
-| Mon, 05 Jan 2026 13:28:55 GMT | ServiceNow’s $7.75 Billion Armis Acquisition: What It Means for the Future of Security Operations | Thomas Patterson | [Read More](https://medium.com/p/11aca659c4e5) |
-| Mon, 05 Jan 2026 13:28:24 GMT | Greenland: Europe’s Test in a Rules-Less World | Alexandre Krauss | [Read More](https://medium.com/p/24d9eefbd2ff) |
-| Mon, 05 Jan 2026 13:25:40 GMT | Paused, not Broken | Spynyomus | [Read More](https://medium.com/p/292aa9357fbf) |
-| Mon, 05 Jan 2026 13:21:37 GMT | Why Transparency in Remittance Data Matters: Introducing the NRTMP Concept | Md kazi fuadul islam Hridoy | [Read More](https://medium.com/p/0a25bdbe8170) |
-| Mon, 05 Jan 2026 13:20:05 GMT | Breaking Crypto the Simple Way - Tryhackme Walkthrough | Rahul Kumar | [Read More](https://medium.com/p/7e5e4976cad1) |
-| Mon, 05 Jan 2026 13:16:52 GMT | Inside The Dark Web Market For Stolen Identities | Plaintext with Rich | [Read More](https://medium.com/p/b90d49dd5fbc) |
-| Mon, 05 Jan 2026 13:12:48 GMT | Cyber ​​Security in 2026: A Complete Guide to Protecting Yourself from Threats in the AI ​​Era | Mahbubul Haque | [Read More](https://medium.com/p/906cbbc87cba) |
-| Mon, 05 Jan 2026 13:12:32 GMT | Why Transparency in Remittance Data Matters: Introducing the NRTMP Concept | M-0xmkfih3r-Lab | [Read More](https://medium.com/p/fc477ae4b976) |
-| Mon, 05 Jan 2026 13:11:41 GMT | 10 Best Email Security Software for MSPs in 2026: Protect Clients with Confidence | Secure Titan | [Read More](https://medium.com/p/da9c5d4b722a) |
-| Mon, 05 Jan 2026 12:59:33 GMT | Cybersecurity Course in Telugu: A Complete Guide for Students & Professionals | Adasmadasu | [Read More](https://medium.com/p/7a35af620576) |
-| Mon, 05 Jan 2026 12:56:34 GMT | Your Smart Car Is a Remote-Controlled Brick: The Day Russia’s Porsches Stood Still | The Red Ink | [Read More](https://medium.com/p/d5553d1eaece) |
-| Mon, 05 Jan 2026 12:53:17 GMT | How I Hacked Intigriti’s Christmas SantaCloud CTF Admin Panel in 10 Minutes | HUNTER | [Read More](https://medium.com/p/2d457e2ca998) |
