@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 Jan 2026 21:38:01 GMT | Reducing Device Correlation on ESP32 Networks (Part 2) | Tyreek Haynes | [Read More](https://medium.com/p/739583a184f6) |
+| Mon, 05 Jan 2026 21:24:12 GMT | Port of Secrets — SSRF Exploitation & Internal Service Discovery | AMAN KUMAR | [Read More](https://medium.com/p/7901374eb09c) |
 | Mon, 05 Jan 2026 21:19:25 GMT | Analyzing the UnrealIRCd Backdoor Vulnerability in a Controlled Lab Environment | SimpleTecBro | [Read More](https://medium.com/p/82fb561a2ecb) |
 | Mon, 05 Jan 2026 21:18:36 GMT | Reducing Wireless Observability on ESP32 Devices | Tyreek Haynes | [Read More](https://medium.com/p/1060377184d6) |
 | Mon, 05 Jan 2026 20:56:21 GMT | Hello world! | Saurabh Shintre | [Read More](https://medium.com/p/9490df0d8025) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 15:46:36 GMT | 5 Cybersecurity Certifications That Are Actually Worth Your Money in 2026 | Axoloth | [Read More](https://medium.com/p/7cefba433d01) |
 | Mon, 05 Jan 2026 15:37:03 GMT | Google Now Allows Users to Change Their Email Address — Why This Matters More Than It Seems | Mohamad Mahmood | [Read More](https://medium.com/p/2edc3ce84511) |
 | Mon, 05 Jan 2026 15:30:31 GMT | File Password Cracking Using John the Ripper | Brijesh Chauhan | [Read More](https://medium.com/p/8698afd10195) |
-| Mon, 05 Jan 2026 15:29:15 GMT | Your SIEM Is Blind — Because It’s Not Listening to SQL Server | Pablo Echeverria | [Read More](https://medium.com/p/9724141fd725) |
-| Mon, 05 Jan 2026 15:29:09 GMT | Grok Made CSAM — Your AI Guardrails Next? | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/43cc8615e990) |
