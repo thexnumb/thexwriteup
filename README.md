@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 Jan 2026 22:36:44 GMT | IT Managed Services in Fontana, California Help Minimize the Financial Fallout of Cyberattacks | Zeta Sky | [Read More](https://medium.com/p/11aa8d2b562d) |
+| Mon, 05 Jan 2026 22:28:30 GMT | The Top 5 Emerging Cyber Threat Issues for 2026 — And What 2020–2025 Taught Us About the Next Wave… | gm0 | [Read More](https://medium.com/p/208c5e639aa6) |
 | Mon, 05 Jan 2026 22:15:11 GMT | How a Simple GET Request Led to a $500 CSRF Bounty‍ | ab.infosec | [Read More](https://medium.com/p/c927a6b216ef) |
 | Mon, 05 Jan 2026 22:02:46 GMT | Log-to-Action | Jake Berkowsky | [Read More](https://medium.com/p/862e4a0da54d) |
 | Mon, 05 Jan 2026 21:48:14 GMT | Why Most Developers Struggle to Get Jobs and How to Actually Fix It | Sheikh Mubashir | [Read More](https://medium.com/p/c6009bdb6ad0) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 16:15:18 GMT | ShinyHunters walked straight into Resecurity’s Honey Trap | Sudarshan | [Read More](https://medium.com/p/eb7222004eaa) |
 | Mon, 05 Jan 2026 16:09:24 GMT | Daily Bugle  —  Joomla 3.7.0 | Bash Overflow | [Read More](https://medium.com/p/96b523d0fa0b) |
 | Mon, 05 Jan 2026 16:03:24 GMT | Task 1 (1/01/2026) Scenario based question for defining policies. | Meet Soni | [Read More](https://medium.com/p/45cfc28e3dbe) |
-| Mon, 05 Jan 2026 15:58:48 GMT | Passkeys: The End of Passwords Is a Cryptographic Event, Not a UX Upgrade | Samyakgoel | [Read More](https://medium.com/p/234cf70a51c8) |
-| Mon, 05 Jan 2026 15:58:12 GMT | Cracking Malware with Maco | Ryan Samaroo | [Read More](https://medium.com/p/aa9c08e5ceaa) |
