@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 Jan 2026 22:15:11 GMT | How a Simple GET Request Led to a $500 CSRF Bounty‍ | ab.infosec | [Read More](https://medium.com/p/c927a6b216ef) |
+| Mon, 05 Jan 2026 22:02:46 GMT | Log-to-Action | Jake Berkowsky | [Read More](https://medium.com/p/862e4a0da54d) |
+| Mon, 05 Jan 2026 21:48:14 GMT | Why Most Developers Struggle to Get Jobs and How to Actually Fix It | Sheikh Mubashir | [Read More](https://medium.com/p/c6009bdb6ad0) |
+| Mon, 05 Jan 2026 21:46:54 GMT | Securing AI & LLM Backends: OWASP Top 10 for LLMs Without the Hype | The Cache Cowgirl | [Read More](https://medium.com/p/6d47cdd01b78) |
+| Mon, 05 Jan 2026 21:44:45 GMT | SQL injection UNION attack, determining the number of columns returned by the query | scriptpy | [Read More](https://medium.com/p/b610ea09802a) |
 | Mon, 05 Jan 2026 21:38:01 GMT | Reducing Device Correlation on ESP32 Networks (Part 2) | Tyreek Haynes | [Read More](https://medium.com/p/739583a184f6) |
 | Mon, 05 Jan 2026 21:24:12 GMT | Port of Secrets — SSRF Exploitation & Internal Service Discovery | AMAN KUMAR | [Read More](https://medium.com/p/7901374eb09c) |
 | Mon, 05 Jan 2026 21:19:25 GMT | Analyzing the UnrealIRCd Backdoor Vulnerability in a Controlled Lab Environment | SimpleTecBro | [Read More](https://medium.com/p/82fb561a2ecb) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 16:03:24 GMT | Task 1 (1/01/2026) Scenario based question for defining policies. | Meet Soni | [Read More](https://medium.com/p/45cfc28e3dbe) |
 | Mon, 05 Jan 2026 15:58:48 GMT | Passkeys: The End of Passwords Is a Cryptographic Event, Not a UX Upgrade | Samyakgoel | [Read More](https://medium.com/p/234cf70a51c8) |
 | Mon, 05 Jan 2026 15:58:12 GMT | Cracking Malware with Maco | Ryan Samaroo | [Read More](https://medium.com/p/aa9c08e5ceaa) |
-| Mon, 05 Jan 2026 15:55:37 GMT | ClickFix-ed: Detecting ClickFix Attacks Inside the Browser | Rishi Kant | [Read More](https://medium.com/p/44d3119b5830) |
-| Mon, 05 Jan 2026 15:49:18 GMT | The Top 3 Commands I Observed in SSH Honeypot Attacks | berke bodur | [Read More](https://medium.com/p/fad2d8cbbde2) |
-| Mon, 05 Jan 2026 15:46:36 GMT | 5 Cybersecurity Certifications That Are Actually Worth Your Money in 2026 | Axoloth | [Read More](https://medium.com/p/7cefba433d01) |
-| Mon, 05 Jan 2026 15:37:03 GMT | Google Now Allows Users to Change Their Email Address — Why This Matters More Than It Seems | Mohamad Mahmood | [Read More](https://medium.com/p/2edc3ce84511) |
-| Mon, 05 Jan 2026 15:30:31 GMT | File Password Cracking Using John the Ripper | Brijesh Chauhan | [Read More](https://medium.com/p/8698afd10195) |
