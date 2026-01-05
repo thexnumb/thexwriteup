@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 Jan 2026 16:51:49 GMT | Ai powered Threat Detection and behavioral analytics : Smart, adaptive, and context-aware. | Cybervolt | [Read More](https://medium.com/p/fee942c8fc06) |
+| Mon, 05 Jan 2026 16:50:24 GMT | It’s 2025, and the offensive security landscape is changing faster than ever. | Cybervolt | [Read More](https://medium.com/p/b86c311770a1) |
+| Mon, 05 Jan 2026 16:47:50 GMT | The Man Who Shook a Superpower | Fareed Masood | [Read More](https://medium.com/p/c06ef66a9d53) |
+| Mon, 05 Jan 2026 16:43:56 GMT | Security Skills No One Teaches: Reading Packets, Thinking in Flows | Gajanan Tayde | [Read More](https://medium.com/p/ef2500018f20) |
+| Mon, 05 Jan 2026 16:41:19 GMT | From Hubs to Firewalls: The Key Devices That Power Each Layer of the OSI Model | Paradise technologies Inc | [Read More](https://medium.com/p/3441baa6bd83) |
+| Mon, 05 Jan 2026 16:32:32 GMT | Troll3 | Hackbyknowledge | [Read More](https://medium.com/p/14cbbf28addc) |
+| Mon, 05 Jan 2026 16:24:59 GMT | ️ FortiGate Lab — Firewall Policy Oluşturma ve Trafik Kontrolü | Esra Tosun | [Read More](https://medium.com/p/945cf0554502) |
 | Mon, 05 Jan 2026 16:20:51 GMT | The Dangers of Microsoft Defaults: Lessons from a Decade in the MSP World | Chase Sims | [Read More](https://medium.com/p/8483a6719265) |
 | Mon, 05 Jan 2026 16:19:45 GMT | Security Didn’t Fail in 2025: Execution Did | Really Bad Security | [Read More](https://medium.com/p/13f634cc9535) |
 | Mon, 05 Jan 2026 16:18:38 GMT | 5 KQL Queries to Slash Your Containment Time in Microsoft Sentinel | Matt Swann | [Read More](https://medium.com/p/57bb81b52551) |
@@ -29,6 +36,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 15:37:03 GMT | Google Now Allows Users to Change Their Email Address — Why This Matters More Than It Seems | Mohamad Mahmood | [Read More](https://medium.com/p/2edc3ce84511) |
 | Mon, 05 Jan 2026 15:30:31 GMT | File Password Cracking Using John the Ripper | Brijesh Chauhan | [Read More](https://medium.com/p/8698afd10195) |
 | Mon, 05 Jan 2026 15:29:15 GMT | Your SIEM Is Blind — Because It’s Not Listening to SQL Server | Pablo Echeverria | [Read More](https://medium.com/p/9724141fd725) |
+| Mon, 05 Jan 2026 15:29:09 GMT | Grok Made CSAM — Your AI Guardrails Next? | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/43cc8615e990) |
 | Mon, 05 Jan 2026 15:23:55 GMT | How I Passed (and Renewed) the AWS Security Specialty Certification In Jan 2026 | Taimur Ijlal | [Read More](https://medium.com/p/adc5573aac53) |
 | Mon, 05 Jan 2026 15:21:39 GMT | Facebook Reverse Engineering: `x-fb-session-id` header | Jim | [Read More](https://medium.com/p/1b39718805fd) |
 | Mon, 05 Jan 2026 15:19:46 GMT | Poderosos Puentes | Jenn Rodriguez | [Read More](https://medium.com/p/fde3abc76ced) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 12:21:30 GMT | Realistic Mobile Attack Simulation for Confident Releases | Cyber Fortify | [Read More](https://medium.com/p/1d83dc258df0) |
 | Mon, 05 Jan 2026 12:20:55 GMT | React2Shell CVE-2025–55182 | Lakshan Sameera | [Read More](https://medium.com/p/23f3cffe4777) |
 | Mon, 05 Jan 2026 12:18:04 GMT | Hackers Are Using ChatGPT & AI Agents in 2025 — And Most People Have No Idea | Bugitrix | [Read More](https://medium.com/p/e574284de039) |
-| Mon, 05 Jan 2026 12:15:30 GMT | Master Cybersecurity with Expert-Led Courses | Kunal Arora | [Read More](https://medium.com/p/089df2927ca6) |
-| Mon, 05 Jan 2026 12:11:58 GMT | Why Attackers Love DNS More Than You Think | Fateyaly | [Read More](https://medium.com/p/bd550195b833) |
-| Mon, 05 Jan 2026 12:11:05 GMT | CVE 2025: What a Year of Vulnerabilities Reveals About the Modern Attack Surface | gm0 | [Read More](https://medium.com/p/c4e94d8b9570) |
-| Mon, 05 Jan 2026 12:02:25 GMT | CTF Basics: Understanding HTTP Cookies | Walter Moar | [Read More](https://medium.com/p/4706d9092e8e) |
-| Mon, 05 Jan 2026 12:02:04 GMT | Professional Protection for Seamless Events by WA Event Services | waeventservices.co.uk/ | [Read More](https://medium.com/p/aa6a8a9e469d) |
-| Mon, 05 Jan 2026 12:01:06 GMT | How Attackers Break CI/CD Pipelines | Krutik Thakar — Secure Developer - VAPT Associate | [Read More](https://medium.com/p/921d43c113a1) |
-| Mon, 05 Jan 2026 11:57:26 GMT | Bir Admin Paneli Yazarken Şifre Güvenliğini Nasıl Ele Aldım | gunes | [Read More](https://medium.com/p/11b4d1af5838) |
-| Mon, 05 Jan 2026 11:50:45 GMT | Tutorial 1 PortSwigger Lab: SQL injection vulnerability in the WHERE clause that allows hidden data… | Diva Rizky Alfitrah | [Read More](https://medium.com/p/9286b4660a75) |
