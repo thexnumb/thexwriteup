@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 Jan 2026 08:34:38 GMT | VulnNet Writeup (TryHackMe Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/33100e7ac0ed) |
+| Mon, 05 Jan 2026 08:28:06 GMT | The Missing Link in Secure AI Development | Niyati Daftary | [Read More](https://medium.com/p/9c1ef6540cff) |
+| Mon, 05 Jan 2026 08:22:05 GMT | Advancing Cloud Security in 2026: Convergence, Proactive Defenses, and AI Integration | AllSafeCloud | [Read More](https://medium.com/p/2921d9cf97b0) |
+| Mon, 05 Jan 2026 08:21:57 GMT | K8s-Kubelet-Check-Slack: Locking Down the Kubernetes Captain | Omar Din | [Read More](https://medium.com/p/d264b2798045) |
+| Mon, 05 Jan 2026 08:17:04 GMT | How Securing a Wi-Fi Network Changed the Way I See the Internet | Mubashir | [Read More](https://medium.com/p/470fbdaaa5ce) |
+| Mon, 05 Jan 2026 08:12:28 GMT | My Web Servers Kept Crashing. Here is the “Invisible Wall” Architecture That Saved Them. | Amila kothalawala | [Read More](https://medium.com/p/06bcb5927b62) |
+| Mon, 05 Jan 2026 08:04:24 GMT | Operational Technology (OT) Risk Assessments for Industrial Environments | Arista Cyber | [Read More](https://medium.com/p/6976cddb1790) |
+| Mon, 05 Jan 2026 07:59:18 GMT | What are the Top 5 Pentretaion Testing Techniques? | cyber security Updates | [Read More](https://medium.com/p/a022de8cfc95) |
+| Mon, 05 Jan 2026 07:57:57 GMT | Security Teams Are Solving the Wrong Problem | Prerna Shukla | [Read More](https://medium.com/p/a8604ec0ac2f) |
+| Mon, 05 Jan 2026 07:57:48 GMT | Invield Secures In Game Payments & Digital Assets | Chitrakshi | [Read More](https://medium.com/p/af050d7273d3) |
+| Mon, 05 Jan 2026 07:54:56 GMT | How a Cyberattack Was Allegedly Used in the Arrest of Maduro in Caracas, Venezuela | David SEHYEON Baek | [Read More](https://medium.com/p/cb1cf620d4bc) |
+| Mon, 05 Jan 2026 07:53:25 GMT | Cybersecurity Guide for Beginners: Protecting Data with Data Loss Prevention | cyberbeeacademy | [Read More](https://medium.com/p/c5b2656d68d2) |
+| Mon, 05 Jan 2026 07:53:20 GMT | Silent Defense Patterns That Shield PHP APIs Invisibly | Asian Digital Hub | [Read More](https://medium.com/p/08f6b2446406) |
+| Mon, 05 Jan 2026 07:48:55 GMT | Superonline PPPoE Şifresi Nasıl Alınır? | Ozan Yıldız | [Read More](https://medium.com/p/b49d50e7f0c3) |
+| Mon, 05 Jan 2026 07:48:49 GMT | Showing love was never a weakness | Ahmad Zaki Yahya | [Read More](https://medium.com/p/645ad0471713) |
+| Mon, 05 Jan 2026 07:48:29 GMT | Diploma of Information Technology — Build a Future in Tech | royalinternational | [Read More](https://medium.com/p/00aa513a683d) |
+| Mon, 05 Jan 2026 07:46:43 GMT | Execution Sandboxing Tricks for Risky PHP Operations | Asian Digital Hub | [Read More](https://medium.com/p/e66733d923c3) |
+| Mon, 05 Jan 2026 07:33:49 GMT | It’s a Trust Fall | Meadow (KLM) | [Read More](https://medium.com/p/ea5b9032a94b) |
+| Mon, 05 Jan 2026 07:33:26 GMT | Detecting Facebook Access in a Local Network Using Snort (Step-by-Step Guide) | Manav Nagdukiya | [Read More](https://medium.com/p/8c9ba31bed3e) |
+| Mon, 05 Jan 2026 07:29:26 GMT | Data Theft in Today’s Digital World: How Tech-Incisive Protects Your Valuable Data | Devarshi Acharya | [Read More](https://medium.com/p/0b7aa5564801) |
+| Mon, 05 Jan 2026 07:21:56 GMT | What Are Managed IT Services and Why Do Businesses Need Them Today? | Arkware | [Read More](https://medium.com/p/1413df429563) |
 | Mon, 05 Jan 2026 07:21:23 GMT | Ethical Hacking Certification: Everything You Need to Know | Certocean | [Read More](https://medium.com/p/547ed8fecea2) |
 | Mon, 05 Jan 2026 07:19:21 GMT | Hack The Box — Jerry (Medium) | khalifa_farhat | [Read More](https://medium.com/p/4e054a1be9c8) |
 | Mon, 05 Jan 2026 07:17:45 GMT | i grew up without a blueprint for love | mansiwrites | [Read More](https://medium.com/p/3b3969c27d32) |
@@ -92,24 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 01:27:19 GMT | Password Attacks-Pass the Ticket (PtT) from Windows | ealmonte | [Read More](https://medium.com/p/c5a0f0fed314) |
 | Mon, 05 Jan 2026 01:14:34 GMT | C2 Frameworks as a public toilet of the cybersecurity industry | 0trust0day | [Read More](https://medium.com/p/fbc07cd64cf9) |
 | Mon, 05 Jan 2026 01:02:26 GMT | I Regret Going to College | I.M. | [Read More](https://medium.com/p/ccd32699f8ff) |
-| Mon, 05 Jan 2026 00:56:05 GMT | How Our Agent Extracted a System Prompt Using Base64 | Daniel Knight | [Read More](https://medium.com/p/6368ac267ac8) |
-| Mon, 05 Jan 2026 00:43:49 GMT | Common Cyber Attacks and How SOC Analysts Detect Them | Jenishjoel | [Read More](https://medium.com/p/55df27264bef) |
-| Mon, 05 Jan 2026 00:41:36 GMT | SIEM Basics and Use Cases for SOC Analysts (Splunk) | Jenishjoel | [Read More](https://medium.com/p/1143a93a1850) |
-| Mon, 05 Jan 2026 00:02:31 GMT | Blue Team Labs Online - Log Analysis — Compromised WordPress - Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/41387b65e617) |
-| Sun, 04 Jan 2026 23:47:40 GMT | Service Endpoint and Private Endpoint from a security perspective | Alberto Credmann Beniste | [Read More](https://medium.com/p/fa621de4e86c) |
-| Sun, 04 Jan 2026 23:33:13 GMT | What You’ll Learn After Gaining Your 1'st Hacking Certifcate? - Certificated Hacker’s Roadmap #1 | NnFace | [Read More](https://medium.com/p/6fa730d5bd39) |
-| Sun, 04 Jan 2026 23:24:50 GMT | Vibe Coding is Dangerous. Use This “Villain Mode” Cheat Code Instead. | Marlon Petry | [Read More](https://medium.com/p/774172458e41) |
-| Sun, 04 Jan 2026 23:00:29 GMT | Windows Malware Development Roadmap | S12 - 0x12Dark Development | [Read More](https://medium.com/p/9a66ab8b82dd) |
-| Sun, 04 Jan 2026 22:57:33 GMT | Weaponized LLMs: How 2025 Built the 2026 Breach Playbook | Dorian Sotpyrc | [Read More](https://medium.com/p/23b46bb7df3f) |
-| Sun, 04 Jan 2026 22:56:25 GMT | The Silent Boardroom: Why OT Risk is the New Personal Liability | Brian Vince | [Read More](https://medium.com/p/1c592d67815c) |
-| Sun, 04 Jan 2026 22:53:21 GMT | Reverse engineering a live AsyncRAT malware sample | Ryan Murphy | [Read More](https://medium.com/p/65dd77b1dd9e) |
-| Sun, 04 Jan 2026 22:51:21 GMT | Detection as Code Home-Lab Architecture | Tobiasacastleberry | [Read More](https://medium.com/p/2fb23c7b631d) |
-| Sun, 04 Jan 2026 22:50:12 GMT | A little message to people going through fraud and online investment scam | Daniella Thomas | [Read More](https://medium.com/p/b88e256aeb1f) |
-| Sun, 04 Jan 2026 22:35:07 GMT | Chaos is the Name of this Congress | A. J. Wyzinski | [Read More](https://medium.com/p/ede64957de04) |
-| Sun, 04 Jan 2026 22:32:42 GMT | How Managed IT Services in Fontana Combat Cybersecurity Apathy in Small Businesses | Zeta Sky | [Read More](https://medium.com/p/ce83e0806129) |
-| Sun, 04 Jan 2026 22:32:19 GMT | From AI Experiments to AI Sprawl: Why Governance Can’t Be an Afterthought (and Why It’s Never Too… | Tushar Mishra | [Read More](https://medium.com/p/318d26f04c8a) |
-| Sun, 04 Jan 2026 22:27:36 GMT | Wireshark: Seeing the Network the Way It Really Works | Little_Sun4lower | [Read More](https://medium.com/p/f8a564841df3) |
-| Sun, 04 Jan 2026 22:24:57 GMT | FortiGate site to site IPsec VPN setup | Ernest Marvin Franco | [Read More](https://medium.com/p/164800ca5512) |
-| Sun, 04 Jan 2026 22:19:38 GMT | Computers get IT Solved | Nicholas J | [Read More](https://medium.com/p/1f304fc1eab5) |
-| Sun, 04 Jan 2026 22:19:28 GMT | The New Digital Signature Requirements for the Certification of Electronic Health Record Systems… | Renato Marcos Endrizzi Sabbatini, PhD | [Read More](https://medium.com/p/d3a432441805) |
-| Sun, 04 Jan 2026 22:13:55 GMT | The World Needs Stronger Cyber Leaders — Will You Step Up? | Fook Hwa Tan | [Read More](https://medium.com/p/7bd5e50facb2) |
