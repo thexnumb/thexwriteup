@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 Jan 2026 11:19:31 GMT | Account Reinstatement Amazon: Recover Selling Rights | Sellerpickle | [Read More](https://medium.com/p/57a9b7a58685) |
+| Mon, 05 Jan 2026 11:12:41 GMT | The Year AI Becomes the Weapon: 5 Cybersecurity Predictions for 2026 | Mostafa Elsaeed | [Read More](https://medium.com/p/2962b8c4256f) |
+| Mon, 05 Jan 2026 11:08:39 GMT | Why Total Security Solutions Are Essential in a Rapidly Changing World | Ciss India | [Read More](https://medium.com/p/5b5bc6f05c9e) |
+| Mon, 05 Jan 2026 11:05:50 GMT | Still getting fake phone numbers from your contact form? | Np Formshield | [Read More](https://medium.com/p/9e853b5f94df) |
+| Mon, 05 Jan 2026 11:05:35 GMT | ISO 27001 Audit: How Controls Are Tested and What Auditors Expect | SecureSlate | [Read More](https://medium.com/p/e1bee2593d20) |
+| Mon, 05 Jan 2026 11:04:40 GMT | Amikor a biztonság sürgetni kezd | Yanosh Katona | [Read More](https://medium.com/p/eecc5660fb7b) |
+| Mon, 05 Jan 2026 11:03:49 GMT | Uncovering the Wire: A Deep-Dive into Network Forensics with Wireshark | Eeshan Agrawal | [Read More](https://medium.com/p/75f2da3a3de8) |
+| Mon, 05 Jan 2026 10:57:42 GMT | Siber Savaşın Anatomisi #2: Sızma Testi Metodolojileri ve Keşfe Hazırlık | Batuhan Çetin | [Read More](https://medium.com/p/106efdab605b) |
+| Mon, 05 Jan 2026 10:54:54 GMT | Building the Ultimate Android Bug Bounty Lab: Static & Dynamic Analysis with Kali (2026) | Rezaul Hasan | [Read More](https://medium.com/p/2cf81deacbc7) |
+| Mon, 05 Jan 2026 10:54:04 GMT | What to focus in 2026? everything else is noise. | Beak - IT Infra Intelligence - https://beakops.com | [Read More](https://medium.com/p/d3233f051f11) |
 | Mon, 05 Jan 2026 10:48:44 GMT | When Hackers Bite the Bait: Inside Resecurity’s Elaborate Honeypot Operation | Technijian | [Read More](https://medium.com/p/104d9af220bd) |
 | Mon, 05 Jan 2026 10:46:19 GMT | Cybersecurity Trends: AI-Driven Attacks and Defenses | Jason | [Read More](https://medium.com/p/61d4bd4e6f50) |
 | Mon, 05 Jan 2026 10:41:06 GMT | Simulating and Detecting LSASS Credential Dumping | BALA KOTESWARA REDDY REDDYMALLI | [Read More](https://medium.com/p/1efd6da50a12) |
@@ -43,6 +53,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 08:51:37 GMT | Intermediate nmap: Tryhackme walkthrough - PH1.C1EL - | AD3NCA | [Read More](https://medium.com/p/6133fe4b8464) |
 | Mon, 05 Jan 2026 08:51:23 GMT | TryHackMe: Injectics Writeup | cbev | [Read More](https://medium.com/p/ddefd2173dd5) |
 | Mon, 05 Jan 2026 08:45:15 GMT | A “loyal military” in 2025 is mostly ceremonial muscle. | Oreoluwa Olaleye | [Read More](https://medium.com/p/bc7438dcdd88) |
+| Mon, 05 Jan 2026 08:42:54 GMT | Sinergi Strategis: Menyatukan Audit IT dan Audit Internal | Rahman Sunardi | [Read More](https://medium.com/p/081f4e462f06) |
 | Mon, 05 Jan 2026 08:37:00 GMT | How I Hacked Every Account in 15 Minutes… And Got -1 Points (The “Out of Scope” Tragedy) | Zer0Figure | [Read More](https://medium.com/p/dab35abe24a2) |
 | Mon, 05 Jan 2026 08:34:38 GMT | VulnNet Writeup (TryHackMe Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/33100e7ac0ed) |
 | Mon, 05 Jan 2026 08:28:06 GMT | The Missing Link in Secure AI Development | Niyati Daftary | [Read More](https://medium.com/p/9c1ef6540cff) |
@@ -102,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 05:26:44 GMT | Why We Need Dedicated Anti-Ransomware Protection Beyond Traditional Antivirus and EDR Solutions | David SEHYEON Baek | [Read More](https://medium.com/p/6446bbcedf1a) |
 | Mon, 05 Jan 2026 05:22:42 GMT | Types of security in information technology explained | dailypulsewire | [Read More](https://medium.com/p/c8fc81e9800f) |
 | Mon, 05 Jan 2026 05:20:48 GMT | AI Scams 2026: How Scammers Use AI & How To Stay Protected | DevaDas Writer | [Read More](https://medium.com/p/41d4751ab1f8) |
-| Mon, 05 Jan 2026 05:15:01 GMT | Cyber Resilience: Why Proactive Strategies Are the New Standard | Kavitha Banerjee | [Read More](https://medium.com/p/0941c73caab9) |
-| Mon, 05 Jan 2026 05:04:57 GMT | The Linux Security Journey — passwd (/etc/passwd) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/c979e97f70ac) |
-| Mon, 05 Jan 2026 05:03:42 GMT | The Last Mile Problem in Modern Browsing Security | DarkBarrier | [Read More](https://medium.com/p/7e170668f912) |
-| Mon, 05 Jan 2026 05:03:36 GMT | Careers in Cyber - TryHackMe Walkthrough | Harinsu Bandara | [Read More](https://medium.com/p/0a6a1e05f9f9) |
-| Mon, 05 Jan 2026 04:59:52 GMT | OverTheWire Bandit (Day 06): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/39a697f86cb6) |
-| Mon, 05 Jan 2026 04:48:00 GMT | The Ultimate Beginner’s Roadmap to Ethical Hacking | Bug Mohol | [Read More](https://medium.com/p/d66e75d76fd3) |
-| Mon, 05 Jan 2026 04:36:30 GMT | JSON Web Tokens (JWT): The Backbone of Modern Stateless Authentication | Geeky Vartika | [Read More](https://medium.com/p/2ec591b4f27b) |
-| Mon, 05 Jan 2026 04:32:28 GMT | Turning CVE Noise into Insight: Using AI to Make Security Alerts Human-Readable (Without the Hype) | Shubh Gupta | [Read More](https://medium.com/p/a38c19f57017) |
-| Mon, 05 Jan 2026 04:17:13 GMT | Cybersecurity Trends and Forecasts for 2026 | SOCFortress | [Read More](https://medium.com/p/7151e1223132) |
-| Mon, 05 Jan 2026 04:16:45 GMT | [面試] 中英對照之 Frontend  security 面試題 | Hannah Lin | [Read More](https://medium.com/p/3bfe8551c797) |
-| Mon, 05 Jan 2026 04:15:45 GMT | Proving Grounds - Sorcerer | jniket | [Read More](https://medium.com/p/5e188f570fed) |
