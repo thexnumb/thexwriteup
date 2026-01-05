@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 Jan 2026 13:37:11 GMT | Love Feels Magical Until It Isn’t! | Heer | [Read More](https://medium.com/p/b340103ce193) |
+| Mon, 05 Jan 2026 13:33:04 GMT | Stealer Logs Just Dropped: Is Your Domain in Today’s Dump? | Alexandre Vandamme | [Read More](https://medium.com/p/06476f84cf70) |
+| Mon, 05 Jan 2026 13:28:55 GMT | ServiceNow’s $7.75 Billion Armis Acquisition: What It Means for the Future of Security Operations | Thomas Patterson | [Read More](https://medium.com/p/11aca659c4e5) |
+| Mon, 05 Jan 2026 13:25:40 GMT | Paused, not Broken | Spynyomus | [Read More](https://medium.com/p/292aa9357fbf) |
+| Mon, 05 Jan 2026 13:21:37 GMT | Why Transparency in Remittance Data Matters: Introducing the NRTMP Concept | Md kazi fuadul islam Hridoy | [Read More](https://medium.com/p/0a25bdbe8170) |
+| Mon, 05 Jan 2026 13:20:05 GMT | Breaking Crypto the Simple Way - Tryhackme Walkthrough | Rahul Kumar | [Read More](https://medium.com/p/7e5e4976cad1) |
+| Mon, 05 Jan 2026 13:16:52 GMT | Inside The Dark Web Market For Stolen Identities | Plaintext with Rich | [Read More](https://medium.com/p/b90d49dd5fbc) |
+| Mon, 05 Jan 2026 13:12:48 GMT | Cyber ​​Security in 2026: A Complete Guide to Protecting Yourself from Threats in the AI ​​Era | Mahbubul Haque | [Read More](https://medium.com/p/906cbbc87cba) |
+| Mon, 05 Jan 2026 13:12:32 GMT | Why Transparency in Remittance Data Matters: Introducing the NRTMP Concept | M-0xmkfih3r-Lab | [Read More](https://medium.com/p/fc477ae4b976) |
+| Mon, 05 Jan 2026 13:11:41 GMT | 10 Best Email Security Software for MSPs in 2026: Protect Clients with Confidence | Secure Titan | [Read More](https://medium.com/p/da9c5d4b722a) |
+| Mon, 05 Jan 2026 12:59:33 GMT | Cybersecurity Course in Telugu: A Complete Guide for Students & Professionals | Adasmadasu | [Read More](https://medium.com/p/7a35af620576) |
+| Mon, 05 Jan 2026 12:56:34 GMT | Your Smart Car Is a Remote-Controlled Brick: The Day Russia’s Porsches Stood Still | The Red Ink | [Read More](https://medium.com/p/d5553d1eaece) |
+| Mon, 05 Jan 2026 12:53:17 GMT | How I Hacked Intigriti’s Christmas SantaCloud CTF Admin Panel in 10 Minutes | HUNTER | [Read More](https://medium.com/p/2d457e2ca998) |
+| Mon, 05 Jan 2026 12:52:11 GMT | Autenticação Baseada em Contexto e CAE (Continuous Access Evaluation) em Aplicações ASP.NET Core | Pedro Soucheff | [Read More](https://medium.com/p/7049015ea466) |
 | Mon, 05 Jan 2026 12:50:35 GMT | Scenario | Vanshika Parikh | [Read More](https://medium.com/p/939dc0a6f912) |
 | Mon, 05 Jan 2026 12:40:17 GMT | Week 5 of Learning Cloud Development | Benedicta | [Read More](https://medium.com/p/015c486aad3d) |
 | Mon, 05 Jan 2026 12:39:58 GMT | Parking Enforcement Automation: Smarter, Faster, Fairer Compliance | ParqEx | [Read More](https://medium.com/p/41d16e2869a4) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 08:04:24 GMT | Operational Technology (OT) Risk Assessments for Industrial Environments | Arista Cyber | [Read More](https://medium.com/p/6976cddb1790) |
 | Mon, 05 Jan 2026 07:59:18 GMT | What are the Top 5 Pentretaion Testing Techniques? | cyber security Updates | [Read More](https://medium.com/p/a022de8cfc95) |
 | Mon, 05 Jan 2026 07:57:57 GMT | Security Teams Are Solving the Wrong Problem | Prerna Shukla | [Read More](https://medium.com/p/a8604ec0ac2f) |
-| Mon, 05 Jan 2026 07:57:48 GMT | Invield Secures In Game Payments & Digital Assets | Chitrakshi | [Read More](https://medium.com/p/af050d7273d3) |
-| Mon, 05 Jan 2026 07:54:56 GMT | How a Cyberattack Was Allegedly Used in the Arrest of Maduro in Caracas, Venezuela | David SEHYEON Baek | [Read More](https://medium.com/p/cb1cf620d4bc) |
-| Mon, 05 Jan 2026 07:53:25 GMT | Cybersecurity Guide for Beginners: Protecting Data with Data Loss Prevention | cyberbeeacademy | [Read More](https://medium.com/p/c5b2656d68d2) |
-| Mon, 05 Jan 2026 07:53:20 GMT | Silent Defense Patterns That Shield PHP APIs Invisibly | Asian Digital Hub | [Read More](https://medium.com/p/08f6b2446406) |
-| Mon, 05 Jan 2026 07:48:55 GMT | Superonline PPPoE Şifresi Nasıl Alınır? | Ozan Yıldız | [Read More](https://medium.com/p/b49d50e7f0c3) |
-| Mon, 05 Jan 2026 07:48:49 GMT | Showing love was never a weakness | Ahmad Zaki Yahya | [Read More](https://medium.com/p/645ad0471713) |
-| Mon, 05 Jan 2026 07:48:29 GMT | Diploma of Information Technology — Build a Future in Tech | royalinternational | [Read More](https://medium.com/p/00aa513a683d) |
-| Mon, 05 Jan 2026 07:46:43 GMT | Execution Sandboxing Tricks for Risky PHP Operations | Asian Digital Hub | [Read More](https://medium.com/p/e66733d923c3) |
-| Mon, 05 Jan 2026 07:33:49 GMT | It’s a Trust Fall | Meadow (KLM) | [Read More](https://medium.com/p/ea5b9032a94b) |
-| Mon, 05 Jan 2026 07:33:26 GMT | Detecting Facebook Access in a Local Network Using Snort (Step-by-Step Guide) | Manav Nagdukiya | [Read More](https://medium.com/p/8c9ba31bed3e) |
-| Mon, 05 Jan 2026 07:29:26 GMT | Data Theft in Today’s Digital World: How Tech-Incisive Protects Your Valuable Data | Devarshi Acharya | [Read More](https://medium.com/p/0b7aa5564801) |
-| Mon, 05 Jan 2026 07:21:56 GMT | What Are Managed IT Services and Why Do Businesses Need Them Today? | Arkware | [Read More](https://medium.com/p/1413df429563) |
-| Mon, 05 Jan 2026 07:21:23 GMT | Ethical Hacking Certification: Everything You Need to Know | Certocean | [Read More](https://medium.com/p/547ed8fecea2) |
-| Mon, 05 Jan 2026 07:19:21 GMT | Hack The Box — Jerry (Medium) | khalifa_farhat | [Read More](https://medium.com/p/4e054a1be9c8) |
