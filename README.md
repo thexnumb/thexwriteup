@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 Jan 2026 04:00:56 GMT | The Evolving Drone Threat Landscape: Insights from Real-World Incidents | Trillion Defense | [Read More](https://medium.com/p/7608a388b5e4) |
+| Mon, 05 Jan 2026 03:53:16 GMT | Distrust as a Way of Life | Brigh Foraois | [Read More](https://medium.com/p/89438e24e64c) |
+| Mon, 05 Jan 2026 03:44:20 GMT | How to Remove Malware from Windows Without Reinstalling the Operating System | Chris Armaun | [Read More](https://medium.com/p/24232282b979) |
+| Mon, 05 Jan 2026 03:43:21 GMT | Sensitive people run the world, but don’t get any credit for it. | Mrinanka Sengupta Das | [Read More](https://medium.com/p/7c4e5637c287) |
+| Mon, 05 Jan 2026 03:40:28 GMT | CISSP Domain 4 Mastery Series - Part 1: Understanding the OSI & TCP/IP Models | Pushpak Sharma | [Read More](https://medium.com/p/5bd1d858b5a1) |
+| Mon, 05 Jan 2026 03:32:26 GMT | React Server Components for Enterprise Applications | Vasanthan K | [Read More](https://medium.com/p/bc445e1cd572) |
+| Mon, 05 Jan 2026 03:32:26 GMT | Gentlemen Ransomware and the Quiet Shift in How Corporate Attacks Are Done | Deven Chhajed | [Read More](https://medium.com/p/1a16ee3625d4) |
+| Mon, 05 Jan 2026 03:30:42 GMT | My Approach to SOC 200 / OSDA | Melvin Teo | [Read More](https://medium.com/p/40dc51f0837f) |
+| Mon, 05 Jan 2026 03:26:53 GMT | 後生成式 AI 時代的程式碼危機：從 AI 幻覺套件、氛圍編碼到代理人權限劫持的深度威脅剖析 | p1x06u9 | [Read More](https://medium.com/p/56354121d84d) |
+| Mon, 05 Jan 2026 03:25:22 GMT | Command Injection in Practice: What Worked, What Failed, and What I Learned | Ayush gangani | [Read More](https://medium.com/p/4681c27afa8c) |
+| Mon, 05 Jan 2026 03:22:09 GMT | The Zero Trust Mistake That Led to OpenAI’s 2023 Data Breach | SeQEW | [Read More](https://medium.com/p/6d5cc665a91b) |
+| Mon, 05 Jan 2026 03:20:41 GMT | Daily Digital Awareness Brief | Hjborges | [Read More](https://medium.com/p/4787af6e076c) |
+| Mon, 05 Jan 2026 03:13:12 GMT | AI-Driven Crash Analysis: How Machine Learning Catches iOS Bugs Your QA Team Will Miss | Ravi | [Read More](https://medium.com/p/d21db1658a63) |
+| Mon, 05 Jan 2026 03:12:38 GMT | [Review] WEB-RTA Exam: Mastering the Multi-App Attack Chain | heyrm | [Read More](https://medium.com/p/b19879f6df70) |
+| Mon, 05 Jan 2026 02:48:55 GMT | Pengalaman Seru Belajar Android Hacking | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/711ecf3a6f57) |
+| Mon, 05 Jan 2026 02:44:19 GMT | Pickle Rick TryHackMe WriteUP | cat0x01 | [Read More](https://medium.com/p/d0ee8cf9f370) |
+| Mon, 05 Jan 2026 02:27:36 GMT | Top 21 Dark Web Resources Every OSINT Professional Should Know | Regan Temudo | [Read More](https://medium.com/p/30e75e1cbc49) |
+| Mon, 05 Jan 2026 02:27:17 GMT | Sherlock Exposes You In Seconds: The OSINT Weapon!! | cybrNK | [Read More](https://medium.com/p/eb58947df09f) |
+| Mon, 05 Jan 2026 02:20:49 GMT | My C-AI/MLPen Exam Journey | Onurcan Genç | [Read More](https://medium.com/p/5af199e24b47) |
 | Mon, 05 Jan 2026 01:57:47 GMT | The 90% Collapse: 30 Million Lives in the Lake Chad Trap | Oge Samuel Okonkwo | [Read More](https://medium.com/p/bb028c7f1736) |
 | Mon, 05 Jan 2026 01:37:41 GMT | How New Rules Are Turning AI Data Use Into a Consent Problem Most Companies Aren’t Ready For | A D | [Read More](https://medium.com/p/e68cc0aad8ce) |
 | Mon, 05 Jan 2026 01:27:19 GMT | Password Attacks-Pass the Ticket (PtT) from Windows | ealmonte | [Read More](https://medium.com/p/c5a0f0fed314) |
@@ -94,22 +113,3 @@ Do Something About It | Stephanie Hunter-Banks | [Read More](https://medium.com/
 | Sun, 04 Jan 2026 17:38:20 GMT | Understanding HTTP Status Code 200 | Dhivy Ananth | [Read More](https://medium.com/p/9a354c6dbbbc) |
 | Sun, 04 Jan 2026 17:34:57 GMT | 3 Backend Security Mistakes Automated Scanners Won’t Find. | Joel Ugwa | [Read More](https://medium.com/p/ca42c70289cd) |
 | Sun, 04 Jan 2026 17:27:40 GMT | Neighbour — THM Walkthrough | Death Esther | [Read More](https://medium.com/p/a35ec8cdd069) |
-| Sun, 04 Jan 2026 17:24:46 GMT | Your “Done” List is a Liar: The Rise of Ghost Vulnerabilities in 2026+ | Threat Road | [Read More](https://medium.com/p/8ec995cc131e) |
-| Sun, 04 Jan 2026 17:24:09 GMT | Remote Code Execution via Prototype Pollution (CVE-2025–55182) | Tanmay Bhattacharjee | [Read More](https://medium.com/p/ca19a72b8062) |
-| Sun, 04 Jan 2026 17:13:33 GMT | Logların İzinde: Ransomware Senaryosu | Ali Ekber KARA | [Read More](https://medium.com/p/42cb44c8a868) |
-| Sun, 04 Jan 2026 17:09:07 GMT | Why is AI-based Third-Party Risk Management important in 2026? | Zeron | [Read More](https://medium.com/p/76080f40697f) |
-| Sun, 04 Jan 2026 17:07:09 GMT | Day 4 — My First Hands-On Security Operations Experience | Drishti Pandey | [Read More](https://medium.com/p/beaf3bc43d37) |
-| Sun, 04 Jan 2026 17:02:23 GMT | The Last Unexamined Surveillance Domain | Hawk | [Read More](https://medium.com/p/4c5434a926ff) |
-| Sun, 04 Jan 2026 16:57:02 GMT | Online Dating & AI — a match made in heaven? | Gilbert Hill | [Read More](https://medium.com/p/0e4c111aa13a) |
-| Sun, 04 Jan 2026 16:54:25 GMT | What I Learned While Rebuilding Wireshark (One Packet at a Time) | Neha ravi | [Read More](https://medium.com/p/adcc04c69e63) |
-| Sun, 04 Jan 2026 16:46:44 GMT | 5G Security: A Deep Dive | Aayush Bhatnagar | [Read More](https://medium.com/p/33ca672435f3) |
-| Sun, 04 Jan 2026 16:45:29 GMT | Incident Response: Why speed is your best defense (and how to scan at scale quickly) | Jean-Pierre GARNIER | [Read More](https://medium.com/p/8880cf4d866e) |
-| Sun, 04 Jan 2026 16:44:47 GMT | Bug Bounty Burnout Almost Killed My Motivation — Then This Logic Flaw Paid Me | Iski | [Read More](https://medium.com/p/a1d335016445) |
-| Sun, 04 Jan 2026 16:42:54 GMT | Living the Cybersecurity Serenity Prayer | Helen Patton | [Read More](https://medium.com/p/b811db745da8) |
-| Sun, 04 Jan 2026 16:41:50 GMT | Defense in Depth in Cybersecurity | mohandika | [Read More](https://medium.com/p/52cd1b28bfa3) |
-| Sun, 04 Jan 2026 16:36:08 GMT | FortiGate: Kural Oluşturma Adımları | Azat Dicle | [Read More](https://medium.com/p/fed032d4d829) |
-| Sun, 04 Jan 2026 16:34:33 GMT | The Paradox of High-Security AI: Why I Built a Fully Offline Meeting Assistant | Yakup Mert Akan | [Read More](https://medium.com/p/00ffe53160a2) |
-| Sun, 04 Jan 2026 16:32:34 GMT | When Hope Keeps You Stuck | WordsbyBano | [Read More](https://medium.com/p/5dfc3cc4b309) |
-| Sun, 04 Jan 2026 16:31:57 GMT | Penetration Testing in Finland (2026): Pricing, Process, and What Companies Should Expect | Attractor | [Read More](https://medium.com/p/a07cfd076139) |
-| Sun, 04 Jan 2026 16:30:06 GMT | Fast & Professional House Lock Out Service in London — The Lock Specialist Ltd | The Lock Specialist Ltd | [Read More](https://medium.com/p/3fe6c631f221) |
-| Sun, 04 Jan 2026 16:25:46 GMT | E1 Locksmith Services in London — Trusted Local Support by The Lock Specialist Ltd | The Lock Specialist Ltd | [Read More](https://medium.com/p/6e83c2137645) |
