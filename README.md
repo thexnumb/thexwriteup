@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 Jan 2026 17:14:35 GMT | Login Liberty | Dr. Shashi Karhail | [Read More](https://medium.com/p/97b2a17c0851) |
+| Mon, 05 Jan 2026 17:10:28 GMT | Open Source Hacking — Breaking AstroJs | Monish Basaniwal | [Read More](https://medium.com/p/c33050386915) |
+| Mon, 05 Jan 2026 17:01:35 GMT | SantaStealer: A New Malware Targeting Browsers and Crypto Wallets | Tech Intel | [Read More](https://medium.com/p/511b6208b9db) |
+| Mon, 05 Jan 2026 16:55:20 GMT | ⚡ REBRAND: Architecting the Hybrid Front — From Corpo to Corpo-Operator ⚡ | Rhyu Stryker | [Read More](https://medium.com/p/a190430deaa6) |
+| Mon, 05 Jan 2026 16:52:35 GMT | Security Onion 2.4 on VMware Complete Install Guide (Beginner-Friendly) | Dhruvil  Patel | [Read More](https://medium.com/p/8f229546ab8b) |
 | Mon, 05 Jan 2026 16:51:49 GMT | Ai powered Threat Detection and behavioral analytics : Smart, adaptive, and context-aware. | Cybervolt | [Read More](https://medium.com/p/fee942c8fc06) |
+| Mon, 05 Jan 2026 16:51:03 GMT | Till You Find Something To Live For | Aastha Shukla | [Read More](https://medium.com/p/b15ad87e2285) |
 | Mon, 05 Jan 2026 16:50:24 GMT | It’s 2025, and the offensive security landscape is changing faster than ever. | Cybervolt | [Read More](https://medium.com/p/b86c311770a1) |
 | Mon, 05 Jan 2026 16:47:50 GMT | The Man Who Shook a Superpower | Fareed Masood | [Read More](https://medium.com/p/c06ef66a9d53) |
 | Mon, 05 Jan 2026 16:43:56 GMT | Security Skills No One Teaches: Reading Packets, Thinking in Flows | Gajanan Tayde | [Read More](https://medium.com/p/ef2500018f20) |
@@ -71,6 +77,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 14:16:43 GMT | Security Architecture: Why It Must Survive Automation | Alaa Rahimi | [Read More](https://medium.com/p/44b83cc120bb) |
 | Mon, 05 Jan 2026 14:07:43 GMT | AI Agents as Privileged Insiders: The “Invisible Superuser” Risk CISOs Can’t Ignore | Denny Roger | [Read More](https://medium.com/p/ef8e1d3ca182) |
 | Mon, 05 Jan 2026 14:06:03 GMT | 600$ For Stealing Podcasts/Show via RSS Feed Manipulation | Anas NadY | [Read More](https://medium.com/p/f3f2cef08adf) |
+| Mon, 05 Jan 2026 14:02:24 GMT | Cuando escuché la historia de Kevin Mitnick, supe que quería vivir de la tecnología | Williams Padilla | [Read More](https://medium.com/p/8ea2e0f7beb8) |
 | Mon, 05 Jan 2026 13:58:41 GMT | Envoy Proxy Misconfigurations You Can Easily Fall Into | smgtkn | [Read More](https://medium.com/p/7b2effc6e076) |
 | Mon, 05 Jan 2026 13:58:38 GMT | Tutorial 2 “Kerentanan injeksi SQL yang memungkinkan bypass login” | Diva Rizky Alfitrah | [Read More](https://medium.com/p/ff1c3a98fc97) |
 | Mon, 05 Jan 2026 13:57:42 GMT | $1,000 Bug Bounty: Complete Email System Takeover | Raja Uzair Abdullah | [Read More](https://medium.com/p/7ee800f2a2eb) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 12:32:27 GMT | Pentesting for Compliance: How Frameworks Use Security Testing to Stay Audit-Ready | Brittney Ginther | [Read More](https://medium.com/p/e81f757067c6) |
 | Mon, 05 Jan 2026 12:29:37 GMT | From Email Verification to 0-Click Account Takeover | Youss1f | [Read More](https://medium.com/p/7a46a0e8bdc8) |
 | Mon, 05 Jan 2026 12:29:24 GMT | Inside the Mind of a Phisher: How Social Engineering Really Works | Nikhilesh Singh | [Read More](https://medium.com/p/88e655f6ad8e) |
-| Mon, 05 Jan 2026 12:26:58 GMT | Deepfake Social Engineering: The Next Evolution of Cyber Deception | Technavors Security | [Read More](https://medium.com/p/c383cb058f71) |
-| Mon, 05 Jan 2026 12:24:54 GMT | Best Ethical Hacking Jobs in Delhi, India | EINITIAL24 | [Read More](https://medium.com/p/0acca7c400e1) |
-| Mon, 05 Jan 2026 12:24:45 GMT | A Practical Exploitation of a CORS Misconfiguration | Raj Qureshi | [Read More](https://medium.com/p/4169134ac907) |
-| Mon, 05 Jan 2026 12:24:20 GMT | Case File: 0x03 — Operation “Golden Path” | The Knight | [Read More](https://medium.com/p/273d12b2ddc8) |
-| Mon, 05 Jan 2026 12:21:30 GMT | Realistic Mobile Attack Simulation for Confident Releases | Cyber Fortify | [Read More](https://medium.com/p/1d83dc258df0) |
-| Mon, 05 Jan 2026 12:20:55 GMT | React2Shell CVE-2025–55182 | Lakshan Sameera | [Read More](https://medium.com/p/23f3cffe4777) |
-| Mon, 05 Jan 2026 12:18:04 GMT | Hackers Are Using ChatGPT & AI Agents in 2025 — And Most People Have No Idea | Bugitrix | [Read More](https://medium.com/p/e574284de039) |
