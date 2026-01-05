@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 Jan 2026 10:14:07 GMT | Siber Savaşın Anatomisi #1: Red Team vs Blue Team ve Metodolojiler | Batuhan Çetin | [Read More](https://medium.com/p/3b1d690d93e5) |
+| Mon, 05 Jan 2026 10:02:56 GMT | How Hackers Walk Right Through WAFs | Redfox Security | [Read More](https://medium.com/p/849782a5e388) |
+| Mon, 05 Jan 2026 10:01:53 GMT | Threat Detection Architecture: A Blueprint for Resilient Defense | Saurav Tripati | [Read More](https://medium.com/p/776847df7e2a) |
+| Mon, 05 Jan 2026 09:58:33 GMT | Web Hosting on Your Terms: The Affordable Linux Route to Faster Websites | Mary Thomas | [Read More](https://medium.com/p/f91dd5da91ee) |
+| Mon, 05 Jan 2026 09:50:00 GMT | Cyber Risk Communication: Strategies for Stakeholder Engagement | Aniketh Roy | [Read More](https://medium.com/p/93156f1f0721) |
+| Mon, 05 Jan 2026 09:46:45 GMT | Legacy: Smashing Windows XP with MS08-067 & Instant Root | Nicholas Mullenski | [Read More](https://medium.com/p/5f12678846bd) |
+| Mon, 05 Jan 2026 09:40:47 GMT | Compliance Monitoring: Redefining Real-Time Regulatory Adherence | Trisha Gaur | [Read More](https://medium.com/p/814a2ebb0c9c) |
 | Mon, 05 Jan 2026 09:23:23 GMT | Hack Me If You Can: Building a Vulnerable Linux VM | Livey | [Read More](https://medium.com/p/d394a55a569a) |
 | Mon, 05 Jan 2026 09:19:50 GMT | How Secure Cloud Infrastructure Improves ERP Performance and Stability | DC9India | [Read More](https://medium.com/p/282fad15ab07) |
 | Mon, 05 Jan 2026 09:16:45 GMT | The Trench Commander: In Praise of Managers Who Actually Commit Code | Namir Sagheenanajar | [Read More](https://medium.com/p/87be9b81c2d5) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 04:02:30 GMT | Confidential Computing and the Silent Security Revolution You’re Ignoring | The Shipping Engineer | [Read More](https://medium.com/p/24b2129f4b2f) |
 | Mon, 05 Jan 2026 04:00:56 GMT | The Evolving Drone Threat Landscape: Insights from Real-World Incidents | Trillion Defense | [Read More](https://medium.com/p/7608a388b5e4) |
 | Mon, 05 Jan 2026 03:54:14 GMT | Kubernetes Egress, Explained Properly: The Three Designs That Actually Matter | Abhishek Rao | [Read More](https://medium.com/p/df8e2609f442) |
-| Mon, 05 Jan 2026 03:53:16 GMT | Distrust as a Way of Life | Brigh Foraois | [Read More](https://medium.com/p/89438e24e64c) |
-| Mon, 05 Jan 2026 03:44:20 GMT | How to Remove Malware from Windows Without Reinstalling the Operating System | Chris Armaun | [Read More](https://medium.com/p/24232282b979) |
-| Mon, 05 Jan 2026 03:43:21 GMT | Sensitive people run the world, but don’t get any credit for it. | Mrinanka Sengupta Das | [Read More](https://medium.com/p/7c4e5637c287) |
-| Mon, 05 Jan 2026 03:40:28 GMT | CISSP Domain 4 Mastery Series - Part 1: Understanding the OSI & TCP/IP Models | Pushpak Sharma | [Read More](https://medium.com/p/5bd1d858b5a1) |
-| Mon, 05 Jan 2026 03:32:26 GMT | React Server Components for Enterprise Applications | Vasanthan K | [Read More](https://medium.com/p/bc445e1cd572) |
-| Mon, 05 Jan 2026 03:32:26 GMT | Gentlemen Ransomware and the Quiet Shift in How Corporate Attacks Are Done | Deven Chhajed | [Read More](https://medium.com/p/1a16ee3625d4) |
-| Mon, 05 Jan 2026 03:30:42 GMT | My Approach to SOC 200 / OSDA | Melvin Teo | [Read More](https://medium.com/p/40dc51f0837f) |
