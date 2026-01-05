@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 Jan 2026 05:03:42 GMT | The Last Mile Problem in Modern Browsing Security | DarkBarrier | [Read More](https://medium.com/p/7e170668f912) |
+| Mon, 05 Jan 2026 05:03:36 GMT | Careers in Cyber - TryHackMe Walkthrough | Harinsu Bandara | [Read More](https://medium.com/p/0a6a1e05f9f9) |
+| Mon, 05 Jan 2026 04:59:52 GMT | OverTheWire Bandit (Day 06): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/39a697f86cb6) |
+| Mon, 05 Jan 2026 04:48:00 GMT | The Ultimate Beginner’s Roadmap to Ethical Hacking | Bug Mohol | [Read More](https://medium.com/p/d66e75d76fd3) |
+| Mon, 05 Jan 2026 04:36:30 GMT | JSON Web Tokens (JWT): The Backbone of Modern Stateless Authentication | Geeky Vartika | [Read More](https://medium.com/p/2ec591b4f27b) |
+| Mon, 05 Jan 2026 04:32:28 GMT | Turning CVE Noise into Insight: Using AI to Make Security Alerts Human-Readable (Without the Hype) | Shubh Gupta | [Read More](https://medium.com/p/a38c19f57017) |
+| Mon, 05 Jan 2026 04:17:13 GMT | Cybersecurity Trends and Forecasts for 2026 | SOCFortress | [Read More](https://medium.com/p/7151e1223132) |
+| Mon, 05 Jan 2026 04:16:45 GMT | [面試] 中英對照之 Frontend  security 面試題 | Hannah Lin | [Read More](https://medium.com/p/3bfe8551c797) |
+| Mon, 05 Jan 2026 04:15:45 GMT | Proving Grounds - Sorcerer | jniket | [Read More](https://medium.com/p/5e188f570fed) |
+| Mon, 05 Jan 2026 04:12:20 GMT | RST TI Report Digest: 05 Jan 2026 | RST Cloud | [Read More](https://medium.com/p/77eef28ee65e) |
+| Mon, 05 Jan 2026 04:11:27 GMT | Decentralized Identifiers (DIDs) and Why Digital Identity Needs a Rethink | Hameedduke | [Read More](https://medium.com/p/7521269635c6) |
+| Mon, 05 Jan 2026 04:07:36 GMT | Hands-On Android Security Testing in AndroGoat —  Root and Emulator Detection | Hammam Awis Zukimi | [Read More](https://medium.com/p/1c7874aceda5) |
+| Mon, 05 Jan 2026 04:06:30 GMT | Understanding the Waterfall Model in Contemporary Software Development | Kaopiz Global | [Read More](https://medium.com/p/6d55597cd27f) |
+| Mon, 05 Jan 2026 04:03:59 GMT | IT Skills 2026: 10 You Should Acquire Right Now | HostNOC | [Read More](https://medium.com/p/bb2b774f9f91) |
+| Mon, 05 Jan 2026 04:02:30 GMT | Confidential Computing and the Silent Security Revolution You’re Ignoring | The Shipping Engineer | [Read More](https://medium.com/p/24b2129f4b2f) |
 | Mon, 05 Jan 2026 04:00:56 GMT | The Evolving Drone Threat Landscape: Insights from Real-World Incidents | Trillion Defense | [Read More](https://medium.com/p/7608a388b5e4) |
+| Mon, 05 Jan 2026 03:54:14 GMT | Kubernetes Egress, Explained Properly: The Three Designs That Actually Matter | Abhishek Rao | [Read More](https://medium.com/p/df8e2609f442) |
 | Mon, 05 Jan 2026 03:53:16 GMT | Distrust as a Way of Life | Brigh Foraois | [Read More](https://medium.com/p/89438e24e64c) |
 | Mon, 05 Jan 2026 03:44:20 GMT | How to Remove Malware from Windows Without Reinstalling the Operating System | Chris Armaun | [Read More](https://medium.com/p/24232282b979) |
 | Mon, 05 Jan 2026 03:43:21 GMT | Sensitive people run the world, but don’t get any credit for it. | Mrinanka Sengupta Das | [Read More](https://medium.com/p/7c4e5637c287) |
@@ -97,19 +113,3 @@ Do Something About It | Stephanie Hunter-Banks | [Read More](https://medium.com/
 | Sun, 04 Jan 2026 18:30:25 GMT | Sar Cheatsheet (Proving Grounds Play) | Adam Bartlett | [Read More](https://medium.com/p/b387d857cfda) |
 | Sun, 04 Jan 2026 18:29:26 GMT | WiFi Security Is Built for Offices That No Longer Exist | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/4a45b39cbc80) |
 | Sun, 04 Jan 2026 18:20:11 GMT | The Rise of AI in Cybersecurity: A Double-Edged Sword | Cyber_Phoenix | [Read More](https://medium.com/p/c31f6313173f) |
-| Sun, 04 Jan 2026 18:16:37 GMT | The Misconception Behind ‘You’re in IT, So You Must Know It All | B. S. Aishwarya Valli | [Read More](https://medium.com/p/7aa39a991a2c) |
-| Sun, 04 Jan 2026 18:15:23 GMT | -$14.250: Military vulnerability | Lucas Soares | [Read More](https://medium.com/p/337870590e18) |
-| Sun, 04 Jan 2026 18:13:47 GMT | -$14.250: A vulnerabilidade militar | Lucas Soares | [Read More](https://medium.com/p/18488dcbe7bd) |
-| Sun, 04 Jan 2026 18:10:44 GMT | Please I want to learn how to hack thank you very much what to start with first | z1980h | [Read More](https://medium.com/p/f7f01470ae18) |
-| Sun, 04 Jan 2026 18:03:42 GMT | Lab: CORS vulnerability with basic origin reflection(Portswigger Labs) | Mukilan Baskaran | [Read More](https://medium.com/p/1d7699266907) |
-| Sun, 04 Jan 2026 18:00:32 GMT | HexStrike + Gemini. AI-Assisted SSH Credential Brute-Force | Andrey Pautov | [Read More](https://medium.com/p/a9162f8e253b) |
-| Sun, 04 Jan 2026 17:59:34 GMT | Three Vulnerabilities, Three Attack Surfaces: Lessons From Real-World CVE Submissions | Tyreek Haynes | [Read More](https://medium.com/p/cae535936d35) |
-| Sun, 04 Jan 2026 17:57:51 GMT | Academic Malware Report: Spyware Framework | Rahaliashraf | [Read More](https://medium.com/p/de2848283344) |
-| Sun, 04 Jan 2026 17:50:51 GMT | My CISSP Preparation, honestly! | Sweta Mantraratnam | [Read More](https://medium.com/p/60b0bb3953b9) |
-| Sun, 04 Jan 2026 17:46:59 GMT | Shifting Left in Figma: How Testers Catch Bugs Before Code | Dhivy Ananth | [Read More](https://medium.com/p/b5f89bde8f28) |
-| Sun, 04 Jan 2026 17:46:22 GMT | The Bug Bounty Hunter Making $500K/Year Without a CS Degree | Osmion | [Read More](https://medium.com/p/6653e21c1830) |
-| Sun, 04 Jan 2026 17:41:27 GMT | Databricks Secrets Scopes Between Environments (Dev, QA, Prod): Best Practices and CLI Usage | Gema Correa | [Read More](https://medium.com/p/e2b1de107cb0) |
-| Sun, 04 Jan 2026 17:40:33 GMT | Detecting & Removing Rogue Local Admin Accounts | SOCFortress | [Read More](https://medium.com/p/66d8b1d19eaf) |
-| Sun, 04 Jan 2026 17:38:20 GMT | Understanding HTTP Status Code 200 | Dhivy Ananth | [Read More](https://medium.com/p/9a354c6dbbbc) |
-| Sun, 04 Jan 2026 17:34:57 GMT | 3 Backend Security Mistakes Automated Scanners Won’t Find. | Joel Ugwa | [Read More](https://medium.com/p/ca42c70289cd) |
-| Sun, 04 Jan 2026 17:27:40 GMT | Neighbour — THM Walkthrough | Death Esther | [Read More](https://medium.com/p/a35ec8cdd069) |
