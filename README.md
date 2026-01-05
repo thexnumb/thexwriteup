@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 Jan 2026 15:21:39 GMT | Facebook Reverse Engineering: `x-fb-session-id` header | Jim | [Read More](https://medium.com/p/1b39718805fd) |
+| Mon, 05 Jan 2026 15:16:55 GMT | Crypto Attackers Don’t Take Year-End Holidays | OKcontract Chainwall | [Read More](https://medium.com/p/f1e6ae44a518) |
+| Mon, 05 Jan 2026 15:16:22 GMT | Will 2026 Bring the ‘AI Apocalypse’? | Jeremiah Gander | [Read More](https://medium.com/p/c9a080e9d71e) |
+| Mon, 05 Jan 2026 15:06:32 GMT | A Safe Introduction to Payload Testing with Burp Suite Intruder (Sniper Mode) | Janmejaysinh ThinkLab | [Read More](https://medium.com/p/341acccd7f0a) |
+| Mon, 05 Jan 2026 15:06:11 GMT | CPTS: Beyond the Limit | Corey Farley | [Read More](https://medium.com/p/cc5960ab1eec) |
+| Mon, 05 Jan 2026 15:02:52 GMT | Why Cybersecurity Feels Expensive Until It’s Too Late | Digital Defense | [Read More](https://medium.com/p/9eaa6a658602) |
+| Mon, 05 Jan 2026 15:02:20 GMT | Networking Basics for Cybersecurity (Nexamos Series Pt 1) | Nexamos | [Read More](https://medium.com/p/77a25f1ee68b) |
+| Mon, 05 Jan 2026 15:00:17 GMT | Threat and Vulnerabilities Report-December 2025 | Loginsoft | [Read More](https://medium.com/p/1aedf7667ec5) |
+| Mon, 05 Jan 2026 15:00:07 GMT | Hardening for a Hostile World: Why Europe’s Civilian Infrastructure Must Be Defended Differently | Abatis ABTU | [Read More](https://medium.com/p/54eacbd01bf1) |
+| Mon, 05 Jan 2026 14:58:25 GMT | The Growing Need for Cybersecurity in Today’s Digital Landscape | Plutosec Cyber Security | [Read More](https://medium.com/p/894479ecb518) |
+| Mon, 05 Jan 2026 14:55:08 GMT | The Capital One Cloud Breach: A Lesson That Still Shapes Modern Security | Nitish Gupta | [Read More](https://medium.com/p/73d374300767) |
+| Mon, 05 Jan 2026 14:52:51 GMT | Building Secure and Governed Data Pipelines on AWS: A Practical Guide for Data Engineers | Himanshu Sharma | [Read More](https://medium.com/p/8db23c824173) |
 | Mon, 05 Jan 2026 14:52:26 GMT | Beyond the Bots: Unmasking AI-Generated Phishing with MAD20 Mapping | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/c26a9bf1fa66) |
 | Mon, 05 Jan 2026 14:52:01 GMT | Building a Rogue Wi-Fi Access Point on Kali Linux 2025 (RPi 4B) — Part 1 | Morgan Hung | [Read More](https://medium.com/p/1be32026c06f) |
+| Mon, 05 Jan 2026 14:47:54 GMT | Pen Testing | Jatin Aggarwal | [Read More](https://medium.com/p/2bfc721a2600) |
 | Mon, 05 Jan 2026 14:46:12 GMT | Ransomware Changed From Extortion To Disruption In 2025 | Geoffrey Wenger | [Read More](https://medium.com/p/d060745d5d70) |
 | Mon, 05 Jan 2026 14:42:09 GMT | Responding to a Data Breach | Financial Poise | [Read More](https://medium.com/p/c6e5143c651c) |
 | Mon, 05 Jan 2026 14:41:27 GMT | My Cybersecurity Journey and Finishing the year 2025 (TryHackMe skil) | M o $ t a | [Read More](https://medium.com/p/dd0ade44a3aa) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 10:48:44 GMT | When Hackers Bite the Bait: Inside Resecurity’s Elaborate Honeypot Operation | Technijian | [Read More](https://medium.com/p/104d9af220bd) |
 | Mon, 05 Jan 2026 10:46:19 GMT | Cybersecurity Trends: AI-Driven Attacks and Defenses | Jason | [Read More](https://medium.com/p/61d4bd4e6f50) |
 | Mon, 05 Jan 2026 10:41:06 GMT | Simulating and Detecting LSASS Credential Dumping | BALA KOTESWARA REDDY REDDYMALLI | [Read More](https://medium.com/p/1efd6da50a12) |
-| Mon, 05 Jan 2026 10:39:41 GMT | React2Shell: How React Server Components Turned into RCE | shuarl | [Read More](https://medium.com/p/fe82997421e1) |
-| Mon, 05 Jan 2026 10:39:35 GMT | How Cybersecurity Compliance Services Help Businesses Stay Secure and Compliant | Zelar Trust | [Read More](https://medium.com/p/f3d4f6309047) |
-| Mon, 05 Jan 2026 10:36:54 GMT | Privilege Escalation: How Broken Access Control Led to Full Account Takeover | Abhishek Gupta | [Read More](https://medium.com/p/c7b42bb9f47b) |
-| Mon, 05 Jan 2026 10:30:57 GMT | Energy Vampires: Why Hackers Are Stealing Your Cloud Resources | Nibnas Shaikh | [Read More](https://medium.com/p/94c4eb720e67) |
-| Mon, 05 Jan 2026 10:22:53 GMT | Bypassing Paywalls: A Comprehensive Guide with Essential Tips | The Cortex Chronicle | [Read More](https://medium.com/p/d7a3100415bf) |
-| Mon, 05 Jan 2026 10:14:07 GMT | Siber Savaşın Anatomisi #1: Red Team vs Blue Team ve Metodolojiler | Batuhan Çetin | [Read More](https://medium.com/p/3b1d690d93e5) |
-| Mon, 05 Jan 2026 10:02:56 GMT | How Hackers Walk Right Through WAFs | Redfox Security | [Read More](https://medium.com/p/849782a5e388) |
-| Mon, 05 Jan 2026 10:01:53 GMT | Threat Detection Architecture: A Blueprint for Resilient Defense | Saurav Tripati | [Read More](https://medium.com/p/776847df7e2a) |
-| Mon, 05 Jan 2026 09:58:33 GMT | Web Hosting on Your Terms: The Affordable Linux Route to Faster Websites | Mary Thomas | [Read More](https://medium.com/p/f91dd5da91ee) |
-| Mon, 05 Jan 2026 09:50:00 GMT | Cyber Risk Communication: Strategies for Stakeholder Engagement | Aniketh Roy | [Read More](https://medium.com/p/93156f1f0721) |
-| Mon, 05 Jan 2026 09:46:45 GMT | Legacy: Smashing Windows XP with MS08-067 & Instant Root | Nicholas Mullenski | [Read More](https://medium.com/p/5f12678846bd) |
-| Mon, 05 Jan 2026 09:40:47 GMT | Compliance Monitoring: Redefining Real-Time Regulatory Adherence | Trisha Gaur | [Read More](https://medium.com/p/814a2ebb0c9c) |
-| Mon, 05 Jan 2026 09:23:23 GMT | Hack Me If You Can: Building a Vulnerable Linux VM | Livey | [Read More](https://medium.com/p/d394a55a569a) |
