@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 Jan 2026 06:30:26 GMT | How to Choose the Best Managed VPS Hosting When Everyone Claims to Be #1? | Ann Taylor | [Read More](https://medium.com/p/36783f778c55) |
+| Mon, 05 Jan 2026 06:30:13 GMT | Cyber Risk Assessment: Turning Strategy into Actionable Roadmaps | Neellam Suri | [Read More](https://medium.com/p/593536c28f72) |
+| Mon, 05 Jan 2026 06:28:27 GMT | BloodCat-Map : 《Watch Dogs 2026》 ??? | Мартин. | [Read More](https://medium.com/p/a2ff7008f732) |
+| Mon, 05 Jan 2026 06:22:21 GMT | Droid LLM Hunter | Kang Ali | [Read More](https://medium.com/p/2f94ead7f504) |
+| Mon, 05 Jan 2026 06:18:02 GMT | Unified Threat Response: Why Cross-Platform Integration Matters | Chaithanya Das | [Read More](https://medium.com/p/9a693724684f) |
+| Mon, 05 Jan 2026 06:16:32 GMT | Protection for the Unprotected Part 1: A Record of Systemic Non-Intervention Across Multiple Harms… | MakeMeVisible | [Read More](https://medium.com/p/1e95239a6ae4) |
+| Mon, 05 Jan 2026 06:16:09 GMT | HexStrike + Gemini. AI-Assisted SMB Exposure Credential Brute-Force | Andrey Pautov | [Read More](https://medium.com/p/2c5f99dcdbf4) |
+| Mon, 05 Jan 2026 06:14:13 GMT | Check Point Report: The AI Agent Era Arrives — Attack Patterns Evolve in Sync — 2026 Cybersecurity… | Breezy Business Channel | [Read More](https://medium.com/p/218b7100b84b) |
+| Mon, 05 Jan 2026 06:13:47 GMT | Reducing False Positives in Account Takeover (ATO) Detection: A Context-Aware Approach | Nibnas Shaikh | [Read More](https://medium.com/p/6d06ea728ba1) |
+| Mon, 05 Jan 2026 06:12:30 GMT | Cybersecurity Lead Generation Services — Boosting Your B2B Growth | Ishu B | [Read More](https://medium.com/p/69283fd0fe11) |
+| Mon, 05 Jan 2026 06:05:48 GMT | Design, Strategy, and Results: Inside a Guam Web Design Agency | GuamWEBZ | [Read More](https://medium.com/p/e6ccfcd1c773) |
+| Mon, 05 Jan 2026 05:54:53 GMT | Zero-Day Exploits Explained | Dhanush N | [Read More](https://medium.com/p/ceb654aad725) |
+| Mon, 05 Jan 2026 05:54:31 GMT | AI-Assisted Threat Hunting: How to Dramatically Cut Detection Time | Samyukta Roy | [Read More](https://medium.com/p/6cc944734d17) |
 | Mon, 05 Jan 2026 05:50:25 GMT | The Art of Redirect 
  How “Low Impact” Open Redirects Become High-Value Chains | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/c8cf00e3b584) |
 | Mon, 05 Jan 2026 05:45:25 GMT | Differences Between Endpoint Security and Network Security: A Clear Guide for Modern Businesses | Maxatlasofficial | [Read More](https://medium.com/p/76a4f8376d51) |
@@ -101,16 +114,3 @@ Do Something About It | Stephanie Hunter-Banks | [Read More](https://medium.com/
 | Sun, 04 Jan 2026 20:48:27 GMT | Free Microsoft Courses – Cloud, AI, Security, Data & Development (Official Microsoft Learn) | Sandeepa Wimalasiri | [Read More](https://medium.com/p/617db8ad1f83) |
 | Sun, 04 Jan 2026 20:47:13 GMT | The Maduro Gamble: Freedom or Foreign Protectorate? | Jalal Huseynbayli M.A. | [Read More](https://medium.com/p/28c5dc7017f0) |
 | Sun, 04 Jan 2026 20:47:12 GMT | Cracking Passwords with John the Ripper: A Beginner’s Guide | Madhu Sudhan | [Read More](https://medium.com/p/70dde12be6ff) |
-| Sun, 04 Jan 2026 20:45:53 GMT | How to Install Security Onion in VMware Workstation | Krish Panchal | [Read More](https://medium.com/p/47700fd31a3e) |
-| Sun, 04 Jan 2026 20:42:47 GMT | Exploitation 101: Sızma ve İstismar | Burak Akgül | [Read More](https://medium.com/p/14dbfccfd04c) |
-| Sun, 04 Jan 2026 20:32:13 GMT | EDGAR Broken Link | John Friedman | [Read More](https://medium.com/p/b0191b0e1d9c) |
-| Sun, 04 Jan 2026 20:28:15 GMT | Cybersecurity in the Age of Vibe-Coding: Why CDD is the Only Way to Audit the “AI Spaghetti” | Fabio Meyer | [Read More](https://medium.com/p/23ce23255e73) |
-| Sun, 04 Jan 2026 20:23:41 GMT | Insecure Direct Object Reference (IDOR) | Cybernight | [Read More](https://medium.com/p/36b639b198cc) |
-| Sun, 04 Jan 2026 20:21:22 GMT | The Right Methodology for Hacking Anything | Cybernight | [Read More](https://medium.com/p/de0e04f583e1) |
-| Sun, 04 Jan 2026 20:20:34 GMT | What My Second Linux Lab Taught Me About Attention to Detail | Grace Jaman | [Read More](https://medium.com/p/739ebf12b353) |
-| Sun, 04 Jan 2026 20:08:53 GMT | Sandbox Escape and Remote Code Execution in n8n Python Code Node (CVE-2025–68668) | Berk Dedekargınoğlu | [Read More](https://medium.com/p/072336ec1893) |
-| Sun, 04 Jan 2026 19:57:43 GMT | The Identity Sprawl is 2026’s Biggest Security Leak | Arshak Ahamed | [Read More](https://medium.com/p/7a12ce926ded) |
-| Sun, 04 Jan 2026 19:47:30 GMT | Deep-Dive PII Hunting & Validation Techniques (Part 2/3) | Cybersecplayground | [Read More](https://medium.com/p/c95d587115e2) |
-| Sun, 04 Jan 2026 19:40:31 GMT | Breaking Mobile Bot Protection: Reverse Engineering PerimeterX’s iOS SDK | Biplov Dahal | [Read More](https://medium.com/p/8c760fb0fdc7) |
-| Sun, 04 Jan 2026 19:37:49 GMT | Analysis: Rising Insecurity Deepens Crisis Across Northern Nigeria | Sunday Buna Ibrahim | [Read More](https://medium.com/p/4066d1e7fdcc) |
-| Sun, 04 Jan 2026 19:26:49 GMT | Executive Safety in Turkey: A Strategic Guide to Armored Transportation | BYZAS | [Read More](https://medium.com/p/98265a0648f5) |
