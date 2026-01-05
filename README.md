@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 Jan 2026 07:21:23 GMT | Ethical Hacking Certification: Everything You Need to Know | Certocean | [Read More](https://medium.com/p/547ed8fecea2) |
+| Mon, 05 Jan 2026 07:19:21 GMT | Hack The Box — Jerry (Medium) | khalifa_farhat | [Read More](https://medium.com/p/4e054a1be9c8) |
+| Mon, 05 Jan 2026 07:17:45 GMT | i grew up without a blueprint for love | mansiwrites | [Read More](https://medium.com/p/3b3969c27d32) |
+| Mon, 05 Jan 2026 07:14:52 GMT | Cyber Crimes in India: What to Do If You’re a Victim | NishitaThakkar | [Read More](https://medium.com/p/67c2b5014e01) |
+| Mon, 05 Jan 2026 07:02:03 GMT | Continuous Vulnerability Testing: A Strategic Shift in Risk | Anjali Moitra Roy | [Read More](https://medium.com/p/44392e672171) |
+| Mon, 05 Jan 2026 06:57:29 GMT | YARA Rule Cheatsheet: 20 Malware Sample Patterns Every Threat Hunter Should Know | Very Lazy Tech | [Read More](https://medium.com/p/3d9637f7319c) |
+| Mon, 05 Jan 2026 06:49:39 GMT | The Hidden Cost of UPI Safety: Why Every Developer Must Redesign by December 2026 | Ravi | [Read More](https://medium.com/p/9456ace46c3b) |
+| Mon, 05 Jan 2026 06:47:24 GMT | Faster Ways to Find Open Redirect Vulnerabilities (With Automation) | Alham Rizvi | [Read More](https://medium.com/p/34aa346891b3) |
+| Mon, 05 Jan 2026 06:47:04 GMT | Security Blind Spots Created by AI Code Reviews | Lakshita Gulliya | [Read More](https://medium.com/p/1231493166d1) |
+| Mon, 05 Jan 2026 06:45:37 GMT | Advanced Diploma in Information Technology — Build Advanced Tech Skills for a Global Career | AIST | [Read More](https://medium.com/p/5faa37ef5214) |
+| Mon, 05 Jan 2026 06:41:59 GMT | Account Takeover via IDOR in GraphQL Invitation Flow | Parth Narula | [Read More](https://medium.com/p/546b9a120c53) |
+| Mon, 05 Jan 2026 06:41:35 GMT | Are Your Endpoint Security Services Protecting Your Organization Really? | Samvaskaran | [Read More](https://medium.com/p/bbc03d7d1c31) |
+| Mon, 05 Jan 2026 06:40:09 GMT | I Was Busy All Day, Yet Achieved Nothing — Until I Understood This One Truth | Krish Bhandari | [Read More](https://medium.com/p/ab9b702a4d10) |
+| Mon, 05 Jan 2026 06:39:37 GMT | Security Architecture: The Vital Role of Policy and Design Reviews | Vihaan Sethi | [Read More](https://medium.com/p/9bad8a2d65af) |
+| Mon, 05 Jan 2026 06:37:31 GMT | SAP Carve-Out & Secure Data Archiving Solutions for Business Transitions | Avendatatech | [Read More](https://medium.com/p/dc4137a02cbb) |
 | Mon, 05 Jan 2026 06:30:26 GMT | How to Choose the Best Managed VPS Hosting When Everyone Claims to Be #1? | Ann Taylor | [Read More](https://medium.com/p/36783f778c55) |
 | Mon, 05 Jan 2026 06:30:13 GMT | Cyber Risk Assessment: Turning Strategy into Actionable Roadmaps | Neellam Suri | [Read More](https://medium.com/p/593536c28f72) |
 | Mon, 05 Jan 2026 06:28:27 GMT | BloodCat-Map : 《Watch Dogs 2026》 ??? | Мартин. | [Read More](https://medium.com/p/a2ff7008f732) |
@@ -98,19 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 04 Jan 2026 22:19:38 GMT | Computers get IT Solved | Nicholas J | [Read More](https://medium.com/p/1f304fc1eab5) |
 | Sun, 04 Jan 2026 22:19:28 GMT | The New Digital Signature Requirements for the Certification of Electronic Health Record Systems… | Renato Marcos Endrizzi Sabbatini, PhD | [Read More](https://medium.com/p/d3a432441805) |
 | Sun, 04 Jan 2026 22:13:55 GMT | The World Needs Stronger Cyber Leaders — Will You Step Up? | Fook Hwa Tan | [Read More](https://medium.com/p/7bd5e50facb2) |
-| Sun, 04 Jan 2026 22:12:34 GMT | NIS2, AI Act, CSRD — What’s Coming, and What You Can Do Today | Fook Hwa Tan | [Read More](https://medium.com/p/59e7ff9d3f98) |
-| Sun, 04 Jan 2026 21:58:41 GMT | APPRENEZ LE NMAP: Exécutez des Scans Stratégiques avec Scripts et Automatisation | Diego Rodrigues | [Read More](https://medium.com/p/f457f130d412) |
-| Sun, 04 Jan 2026 21:42:25 GMT | Broken Access Control: The #1 OWASP Risk Explained with Real Backend Incidents | The Cache Cowgirl | [Read More](https://medium.com/p/bc08b9e9d849) |
-| Sun, 04 Jan 2026 21:37:15 GMT | There’s a Big Misconception About Resilience, and We Need to
-Do Something About It | Stephanie Hunter-Banks | [Read More](https://medium.com/p/ff32cbdf43e8) |
-| Sun, 04 Jan 2026 21:21:19 GMT | Lab: 2FA simple bypass | Songül Kızılay Özügürler | [Read More](https://medium.com/p/eca7ba98b463) |
-| Sun, 04 Jan 2026 21:06:00 GMT | Infrared, Reflections, and Wires: Reading the Signs of Hidden Surveillance | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/04404eee4668) |
-| Sun, 04 Jan 2026 21:05:14 GMT | Why Predictive Maintenance AI Is a Prime Cyber Target | Muhammad Ali Khan | [Read More](https://medium.com/p/19d17a4e898f) |
-| Sun, 04 Jan 2026 21:04:24 GMT | Securing API Servers (Week 4) | Stella Obatoye | [Read More](https://medium.com/p/e05820b33ef1) |
-| Sun, 04 Jan 2026 20:56:36 GMT | Breaking vm2 Isolation in n8n via Exposed Global Helpers (CVE-2025–68697) | Berk Dedekargınoğlu | [Read More](https://medium.com/p/99fd58ff3a1c) |
-| Sun, 04 Jan 2026 20:56:21 GMT | The Worm That Eats the Supply Chain: Deconstructing Shai-Hulud | The GlassBox Security | [Read More](https://medium.com/p/d0b24629d71f) |
-| Sun, 04 Jan 2026 20:52:47 GMT | How AI is Changing the Way We Think, Work, and Live | Ryvok.Brondich | [Read More](https://medium.com/p/8ff0a9424fe6) |
-| Sun, 04 Jan 2026 20:51:34 GMT | Does Real Love Exist? | Savannah Gilmore | [Read More](https://medium.com/p/b02bcb9521a5) |
-| Sun, 04 Jan 2026 20:48:27 GMT | Free Microsoft Courses – Cloud, AI, Security, Data & Development (Official Microsoft Learn) | Sandeepa Wimalasiri | [Read More](https://medium.com/p/617db8ad1f83) |
-| Sun, 04 Jan 2026 20:47:13 GMT | The Maduro Gamble: Freedom or Foreign Protectorate? | Jalal Huseynbayli M.A. | [Read More](https://medium.com/p/28c5dc7017f0) |
-| Sun, 04 Jan 2026 20:47:12 GMT | Cracking Passwords with John the Ripper: A Beginner’s Guide | Madhu Sudhan | [Read More](https://medium.com/p/70dde12be6ff) |
