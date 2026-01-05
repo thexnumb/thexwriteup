@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 Jan 2026 10:48:44 GMT | When Hackers Bite the Bait: Inside Resecurity’s Elaborate Honeypot Operation | Technijian | [Read More](https://medium.com/p/104d9af220bd) |
+| Mon, 05 Jan 2026 10:46:19 GMT | Cybersecurity Trends: AI-Driven Attacks and Defenses | Jason | [Read More](https://medium.com/p/61d4bd4e6f50) |
+| Mon, 05 Jan 2026 10:41:06 GMT | Simulating and Detecting LSASS Credential Dumping | BALA KOTESWARA REDDY REDDYMALLI | [Read More](https://medium.com/p/1efd6da50a12) |
+| Mon, 05 Jan 2026 10:39:41 GMT | React2Shell: How React Server Components Turned into RCE | shuarl | [Read More](https://medium.com/p/fe82997421e1) |
+| Mon, 05 Jan 2026 10:39:35 GMT | How Cybersecurity Compliance Services Help Businesses Stay Secure and Compliant | Zelar Trust | [Read More](https://medium.com/p/f3d4f6309047) |
+| Mon, 05 Jan 2026 10:36:54 GMT | Privilege Escalation: How Broken Access Control Led to Full Account Takeover | Abhishek Gupta | [Read More](https://medium.com/p/c7b42bb9f47b) |
+| Mon, 05 Jan 2026 10:30:57 GMT | Energy Vampires: Why Hackers Are Stealing Your Cloud Resources | Nibnas Shaikh | [Read More](https://medium.com/p/94c4eb720e67) |
+| Mon, 05 Jan 2026 10:22:53 GMT | Bypassing Paywalls: A Comprehensive Guide with Essential Tips | The Cortex Chronicle | [Read More](https://medium.com/p/d7a3100415bf) |
 | Mon, 05 Jan 2026 10:14:07 GMT | Siber Savaşın Anatomisi #1: Red Team vs Blue Team ve Metodolojiler | Batuhan Çetin | [Read More](https://medium.com/p/3b1d690d93e5) |
 | Mon, 05 Jan 2026 10:02:56 GMT | How Hackers Walk Right Through WAFs | Redfox Security | [Read More](https://medium.com/p/849782a5e388) |
 | Mon, 05 Jan 2026 10:01:53 GMT | Threat Detection Architecture: A Blueprint for Resilient Defense | Saurav Tripati | [Read More](https://medium.com/p/776847df7e2a) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 04:17:13 GMT | Cybersecurity Trends and Forecasts for 2026 | SOCFortress | [Read More](https://medium.com/p/7151e1223132) |
 | Mon, 05 Jan 2026 04:16:45 GMT | [面試] 中英對照之 Frontend  security 面試題 | Hannah Lin | [Read More](https://medium.com/p/3bfe8551c797) |
 | Mon, 05 Jan 2026 04:15:45 GMT | Proving Grounds - Sorcerer | jniket | [Read More](https://medium.com/p/5e188f570fed) |
-| Mon, 05 Jan 2026 04:12:20 GMT | RST TI Report Digest: 05 Jan 2026 | RST Cloud | [Read More](https://medium.com/p/77eef28ee65e) |
-| Mon, 05 Jan 2026 04:11:27 GMT | Decentralized Identifiers (DIDs) and Why Digital Identity Needs a Rethink | Hameedduke | [Read More](https://medium.com/p/7521269635c6) |
-| Mon, 05 Jan 2026 04:07:36 GMT | Hands-On Android Security Testing in AndroGoat —  Root and Emulator Detection | Hammam Awis Zukimi | [Read More](https://medium.com/p/1c7874aceda5) |
-| Mon, 05 Jan 2026 04:06:30 GMT | Understanding the Waterfall Model in Contemporary Software Development | Kaopiz Global | [Read More](https://medium.com/p/6d55597cd27f) |
-| Mon, 05 Jan 2026 04:03:59 GMT | IT Skills 2026: 10 You Should Acquire Right Now | HostNOC | [Read More](https://medium.com/p/bb2b774f9f91) |
-| Mon, 05 Jan 2026 04:02:30 GMT | Confidential Computing and the Silent Security Revolution You’re Ignoring | The Shipping Engineer | [Read More](https://medium.com/p/24b2129f4b2f) |
-| Mon, 05 Jan 2026 04:00:56 GMT | The Evolving Drone Threat Landscape: Insights from Real-World Incidents | Trillion Defense | [Read More](https://medium.com/p/7608a388b5e4) |
-| Mon, 05 Jan 2026 03:54:14 GMT | Kubernetes Egress, Explained Properly: The Three Designs That Actually Matter | Abhishek Rao | [Read More](https://medium.com/p/df8e2609f442) |
