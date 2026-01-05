@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 Jan 2026 15:37:03 GMT | Google Now Allows Users to Change Their Email Address — Why This Matters More Than It Seems | Mohamad Mahmood | [Read More](https://medium.com/p/2edc3ce84511) |
+| Mon, 05 Jan 2026 15:29:15 GMT | Your SIEM Is Blind — Because It’s Not Listening to SQL Server | Pablo Echeverria | [Read More](https://medium.com/p/9724141fd725) |
+| Mon, 05 Jan 2026 15:23:55 GMT | How I Passed (and Renewed) the AWS Security Specialty Certification In Jan 2026 | Taimur Ijlal | [Read More](https://medium.com/p/adc5573aac53) |
 | Mon, 05 Jan 2026 15:21:39 GMT | Facebook Reverse Engineering: `x-fb-session-id` header | Jim | [Read More](https://medium.com/p/1b39718805fd) |
+| Mon, 05 Jan 2026 15:19:46 GMT | Poderosos Puentes | Jenn Rodriguez | [Read More](https://medium.com/p/fde3abc76ced) |
+| Mon, 05 Jan 2026 15:18:02 GMT | Why Being Vulnerable Isn’t Actually Weak (And Why That Changes Everything) | Juan Pablo Viola | [Read More](https://medium.com/p/c1d2bec37c5a) |
+| Mon, 05 Jan 2026 15:17:06 GMT | SQL vs NoSQL Databases: Understanding the Difference the Right Way | Shreyash Mogaveera | [Read More](https://medium.com/p/e9b0c490d52f) |
 | Mon, 05 Jan 2026 15:16:55 GMT | Crypto Attackers Don’t Take Year-End Holidays | OKcontract Chainwall | [Read More](https://medium.com/p/f1e6ae44a518) |
 | Mon, 05 Jan 2026 15:16:22 GMT | Will 2026 Bring the ‘AI Apocalypse’? | Jeremiah Gander | [Read More](https://medium.com/p/c9a080e9d71e) |
 | Mon, 05 Jan 2026 15:06:32 GMT | A Safe Introduction to Payload Testing with Burp Suite Intruder (Sniper Mode) | Janmejaysinh ThinkLab | [Read More](https://medium.com/p/341acccd7f0a) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 11:05:35 GMT | ISO 27001 Audit: How Controls Are Tested and What Auditors Expect | SecureSlate | [Read More](https://medium.com/p/e1bee2593d20) |
 | Mon, 05 Jan 2026 11:04:40 GMT | Amikor a biztonság sürgetni kezd | Yanosh Katona | [Read More](https://medium.com/p/eecc5660fb7b) |
 | Mon, 05 Jan 2026 11:03:49 GMT | Uncovering the Wire: A Deep-Dive into Network Forensics with Wireshark | Eeshan Agrawal | [Read More](https://medium.com/p/75f2da3a3de8) |
-| Mon, 05 Jan 2026 10:57:42 GMT | Siber Savaşın Anatomisi #2: Sızma Testi Metodolojileri ve Keşfe Hazırlık | Batuhan Çetin | [Read More](https://medium.com/p/106efdab605b) |
-| Mon, 05 Jan 2026 10:54:54 GMT | Building the Ultimate Android Bug Bounty Lab: Static & Dynamic Analysis with Kali (2026) | Rezaul Hasan | [Read More](https://medium.com/p/2cf81deacbc7) |
-| Mon, 05 Jan 2026 10:54:04 GMT | What to focus in 2026? everything else is noise. | Beak - IT Infra Intelligence - https://beakops.com | [Read More](https://medium.com/p/d3233f051f11) |
-| Mon, 05 Jan 2026 10:48:44 GMT | When Hackers Bite the Bait: Inside Resecurity’s Elaborate Honeypot Operation | Technijian | [Read More](https://medium.com/p/104d9af220bd) |
-| Mon, 05 Jan 2026 10:46:19 GMT | Cybersecurity Trends: AI-Driven Attacks and Defenses | Jason | [Read More](https://medium.com/p/61d4bd4e6f50) |
-| Mon, 05 Jan 2026 10:41:06 GMT | Simulating and Detecting LSASS Credential Dumping | BALA KOTESWARA REDDY REDDYMALLI | [Read More](https://medium.com/p/1efd6da50a12) |
