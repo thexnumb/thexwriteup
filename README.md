@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 Jan 2026 17:40:54 GMT | Exposure | I.M.Writing | [Read More](https://medium.com/p/330a7dba02a8) |
+| Mon, 05 Jan 2026 17:38:45 GMT | How I Built Intelligent Systems: My Journey into AI Automation | William Brown | [Read More](https://medium.com/p/c8be2178a078) |
+| Mon, 05 Jan 2026 17:37:00 GMT | Inside Linux TCP: From Handshake to Reset or Close | Bidhan Khatri | [Read More](https://medium.com/p/7a0fc5d515b7) |
+| Mon, 05 Jan 2026 17:34:32 GMT | PicoCTF Writeup — Ph4nt0m 1ntrud3r | acon | [Read More](https://medium.com/p/db88d243d661) |
+| Mon, 05 Jan 2026 17:31:34 GMT | Baseline Linux Server Hardening & Exposure Validation | Surya Naga Sesank Munukutla | [Read More](https://medium.com/p/e89564b85e17) |
+| Mon, 05 Jan 2026 17:31:32 GMT | The Tech Trap: Why “Auto-Pilot” Doesn’t Work | Teona | [Read More](https://medium.com/p/8ea1e3d2daf8) |
+| Mon, 05 Jan 2026 17:30:34 GMT | How to Deal with a Snapped Key in Lock: Quick Help from Trusted Locksmiths | The Lock Specialist Ltd | [Read More](https://medium.com/p/80ee7d7f9d4f) |
+| Mon, 05 Jan 2026 17:30:14 GMT | Reliable Locksmith Assistance Across London by The Lock Specialist Ltd | The Lock Specialist Ltd | [Read More](https://medium.com/p/f2752dcf2a78) |
+| Mon, 05 Jan 2026 17:29:24 GMT | Become an investigator on hack the box with sherlock category — CVE-2025–14847 | Michael Harms | [Read More](https://medium.com/p/b3e13a57277b) |
+| Mon, 05 Jan 2026 17:24:51 GMT | Cheesy Does It Bugforge Daily CTF Challange | blackm4c | [Read More](https://medium.com/p/b6720563e3ba) |
+| Mon, 05 Jan 2026 17:24:11 GMT | Breaking the Same-Origin Policy: A Dive into a CORS Misconfiguration | Ehtesham Ul Haq | [Read More](https://medium.com/p/b6174b0abee6) |
 | Mon, 05 Jan 2026 17:14:35 GMT | Login Liberty | Dr. Shashi Karhail | [Read More](https://medium.com/p/97b2a17c0851) |
 | Mon, 05 Jan 2026 17:10:28 GMT | Open Source Hacking — Breaking AstroJs | Monish Basaniwal | [Read More](https://medium.com/p/c33050386915) |
 | Mon, 05 Jan 2026 17:01:35 GMT | SantaStealer: A New Malware Targeting Browsers and Crypto Wallets | Tech Intel | [Read More](https://medium.com/p/511b6208b9db) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 12:59:33 GMT | Cybersecurity Course in Telugu: A Complete Guide for Students & Professionals | Adasmadasu | [Read More](https://medium.com/p/7a35af620576) |
 | Mon, 05 Jan 2026 12:56:34 GMT | Your Smart Car Is a Remote-Controlled Brick: The Day Russia’s Porsches Stood Still | The Red Ink | [Read More](https://medium.com/p/d5553d1eaece) |
 | Mon, 05 Jan 2026 12:53:17 GMT | How I Hacked Intigriti’s Christmas SantaCloud CTF Admin Panel in 10 Minutes | HUNTER | [Read More](https://medium.com/p/2d457e2ca998) |
-| Mon, 05 Jan 2026 12:52:11 GMT | Autenticação Baseada em Contexto e CAE (Continuous Access Evaluation) em Aplicações ASP.NET Core | Pedro Soucheff | [Read More](https://medium.com/p/7049015ea466) |
-| Mon, 05 Jan 2026 12:50:35 GMT | Scenario | Vanshika Parikh | [Read More](https://medium.com/p/939dc0a6f912) |
-| Mon, 05 Jan 2026 12:40:17 GMT | Week 5 of Learning Cloud Development | Benedicta | [Read More](https://medium.com/p/015c486aad3d) |
-| Mon, 05 Jan 2026 12:39:58 GMT | Parking Enforcement Automation: Smarter, Faster, Fairer Compliance | ParqEx | [Read More](https://medium.com/p/41d16e2869a4) |
-| Mon, 05 Jan 2026 12:39:48 GMT | SOC Services in India: A Complete Guide to 24/7 Cyber Threat Monitoring | Prakash Factosecure | [Read More](https://medium.com/p/5f81d94a0374) |
-| Mon, 05 Jan 2026 12:33:33 GMT | Why SOC Collaboration Is Key in Large Enterprises | Eventus Security Private Limited | [Read More](https://medium.com/p/0a43a44bbeb2) |
-| Mon, 05 Jan 2026 12:32:49 GMT | Product Review: Impactasaurus | Cait Graaf | [Read More](https://medium.com/p/1421100aa95d) |
-| Mon, 05 Jan 2026 12:32:27 GMT | Nibbles: Web Enumeration & File Upload Exploitation | Nicholas Mullenski | [Read More](https://medium.com/p/9b69ed1b579b) |
-| Mon, 05 Jan 2026 12:32:27 GMT | Pentesting for Compliance: How Frameworks Use Security Testing to Stay Audit-Ready | Brittney Ginther | [Read More](https://medium.com/p/e81f757067c6) |
-| Mon, 05 Jan 2026 12:29:37 GMT | From Email Verification to 0-Click Account Takeover | Youss1f | [Read More](https://medium.com/p/7a46a0e8bdc8) |
-| Mon, 05 Jan 2026 12:29:24 GMT | Inside the Mind of a Phisher: How Social Engineering Really Works | Nikhilesh Singh | [Read More](https://medium.com/p/88e655f6ad8e) |
