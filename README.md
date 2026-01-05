@@ -12,9 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 Jan 2026 14:22:37 GMT | Types of Bad Actors in Information Systems | Ümit Berber | [Read More](https://medium.com/p/5aa6fc4a69b1) |
+| Mon, 05 Jan 2026 14:22:13 GMT | Hi, I’m Tonmoy, a Professional Cybersecurity Expert & Certified Ethical Hacker with years of… | Ethical Hacker | [Read More](https://medium.com/p/a76a5332fd83) |
+| Mon, 05 Jan 2026 14:16:43 GMT | Security Architecture: Why It Must Survive Automation | Alaa Rahimi | [Read More](https://medium.com/p/44b83cc120bb) |
+| Mon, 05 Jan 2026 14:07:43 GMT | AI Agents as Privileged Insiders: The “Invisible Superuser” Risk CISOs Can’t Ignore | Denny Roger | [Read More](https://medium.com/p/ef8e1d3ca182) |
+| Mon, 05 Jan 2026 14:06:03 GMT | 600$ For Stealing Podcasts/Show via RSS Feed Manipulation | Anas NadY | [Read More](https://medium.com/p/f3f2cef08adf) |
+| Mon, 05 Jan 2026 13:58:41 GMT | Envoy Proxy Misconfigurations You Can Easily Fall Into | smgtkn | [Read More](https://medium.com/p/7b2effc6e076) |
+| Mon, 05 Jan 2026 13:57:42 GMT | $1,000 Bug Bounty: Complete Email System Takeover | Raja Uzair Abdullah | [Read More](https://medium.com/p/7ee800f2a2eb) |
+| Mon, 05 Jan 2026 13:52:09 GMT | Top 15 Kali Linux GUI Tools Every Security Engineer Must Master (With Real Use Cases) | TechLatest.Net | [Read More](https://medium.com/p/d3412e9867fd) |
+| Mon, 05 Jan 2026 13:50:54 GMT | I Replaced Every Online File Converter With VERT.sh and I Cannot Go Back | Muhammad Hassan Ali | [Read More](https://medium.com/p/19563e8c0ee0) |
+| Mon, 05 Jan 2026 13:40:45 GMT | Preparing for the CISSP Certification in 2026: My Strategy and Study Plan | Citiz3n | [Read More](https://medium.com/p/0a609c06a20a) |
+| Mon, 05 Jan 2026 13:37:19 GMT | Global Digital Identity Market Update | David H. Deans | [Read More](https://medium.com/p/3470bf2b39c1) |
 | Mon, 05 Jan 2026 13:37:11 GMT | Love Feels Magical Until It Isn’t! | Heer | [Read More](https://medium.com/p/b340103ce193) |
+| Mon, 05 Jan 2026 13:36:45 GMT | Guest Identities in M365: Convenient for Collaboration, Costly for Security | Defend Microsoft365 now! | [Read More](https://medium.com/p/14343d72c9a1) |
+| Mon, 05 Jan 2026 13:36:44 GMT | Building a Cybersecurity Lab in AWS Part 1: IAM User, Roles, Permissions | Charles Christiansen | [Read More](https://medium.com/p/953506548c02) |
 | Mon, 05 Jan 2026 13:33:04 GMT | Stealer Logs Just Dropped: Is Your Domain in Today’s Dump? | Alexandre Vandamme | [Read More](https://medium.com/p/06476f84cf70) |
 | Mon, 05 Jan 2026 13:28:55 GMT | ServiceNow’s $7.75 Billion Armis Acquisition: What It Means for the Future of Security Operations | Thomas Patterson | [Read More](https://medium.com/p/11aca659c4e5) |
+| Mon, 05 Jan 2026 13:28:24 GMT | Greenland: Europe’s Test in a Rules-Less World | Alexandre Krauss | [Read More](https://medium.com/p/24d9eefbd2ff) |
 | Mon, 05 Jan 2026 13:25:40 GMT | Paused, not Broken | Spynyomus | [Read More](https://medium.com/p/292aa9357fbf) |
 | Mon, 05 Jan 2026 13:21:37 GMT | Why Transparency in Remittance Data Matters: Introducing the NRTMP Concept | Md kazi fuadul islam Hridoy | [Read More](https://medium.com/p/0a25bdbe8170) |
 | Mon, 05 Jan 2026 13:20:05 GMT | Breaking Crypto the Simple Way - Tryhackme Walkthrough | Rahul Kumar | [Read More](https://medium.com/p/7e5e4976cad1) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 08:56:39 GMT | A Simple Tech Habit That Can Protect More Than Your Phone Battery. | Oladipo Taiwo Olamide(Lolu_Everywhere) | [Read More](https://medium.com/p/b921ca8594ee) |
 | Mon, 05 Jan 2026 08:55:35 GMT | Cyber Advisory Readiness: Strategies for Organizational Preparedness | Sophia Nellon | [Read More](https://medium.com/p/d54a924e154d) |
 | Mon, 05 Jan 2026 08:52:05 GMT | Shopify Speed Optimization Expert Guide: Boost Store Performance, SEO, and Conversions | Pensy | [Read More](https://medium.com/p/e0ffcdcb3ba2) |
-| Mon, 05 Jan 2026 08:51:37 GMT | Intermediate nmap: Tryhackme walkthrough - PH1.C1EL - | AD3NCA | [Read More](https://medium.com/p/6133fe4b8464) |
-| Mon, 05 Jan 2026 08:51:23 GMT | TryHackMe: Injectics Writeup | cbev | [Read More](https://medium.com/p/ddefd2173dd5) |
-| Mon, 05 Jan 2026 08:45:15 GMT | A “loyal military” in 2025 is mostly ceremonial muscle. | Oreoluwa Olaleye | [Read More](https://medium.com/p/bc7438dcdd88) |
-| Mon, 05 Jan 2026 08:42:54 GMT | Sinergi Strategis: Menyatukan Audit IT dan Audit Internal | Rahman Sunardi | [Read More](https://medium.com/p/081f4e462f06) |
-| Mon, 05 Jan 2026 08:37:00 GMT | How I Hacked Every Account in 15 Minutes… And Got -1 Points (The “Out of Scope” Tragedy) | Zer0Figure | [Read More](https://medium.com/p/dab35abe24a2) |
-| Mon, 05 Jan 2026 08:34:38 GMT | VulnNet Writeup (TryHackMe Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/33100e7ac0ed) |
-| Mon, 05 Jan 2026 08:28:06 GMT | The Missing Link in Secure AI Development | Niyati Daftary | [Read More](https://medium.com/p/9c1ef6540cff) |
-| Mon, 05 Jan 2026 08:22:05 GMT | Advancing Cloud Security in 2026: Convergence, Proactive Defenses, and AI Integration | AllSafeCloud | [Read More](https://medium.com/p/2921d9cf97b0) |
-| Mon, 05 Jan 2026 08:21:57 GMT | K8s-Kubelet-Check-Slack: Locking Down the Kubernetes Captain | Omar Din | [Read More](https://medium.com/p/d264b2798045) |
-| Mon, 05 Jan 2026 08:17:04 GMT | How Securing a Wi-Fi Network Changed the Way I See the Internet | Mubashir | [Read More](https://medium.com/p/470fbdaaa5ce) |
-| Mon, 05 Jan 2026 08:12:28 GMT | My Web Servers Kept Crashing. Here is the “Invisible Wall” Architecture That Saved Them. | Amila kothalawala | [Read More](https://medium.com/p/06bcb5927b62) |
-| Mon, 05 Jan 2026 08:04:24 GMT | Operational Technology (OT) Risk Assessments for Industrial Environments | Arista Cyber | [Read More](https://medium.com/p/6976cddb1790) |
-| Mon, 05 Jan 2026 07:59:18 GMT | What are the Top 5 Pentretaion Testing Techniques? | cyber security Updates | [Read More](https://medium.com/p/a022de8cfc95) |
-| Mon, 05 Jan 2026 07:57:57 GMT | Security Teams Are Solving the Wrong Problem | Prerna Shukla | [Read More](https://medium.com/p/a8604ec0ac2f) |
