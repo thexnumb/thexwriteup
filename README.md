@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 Jan 2026 21:19:25 GMT | Analyzing the UnrealIRCd Backdoor Vulnerability in a Controlled Lab Environment | SimpleTecBro | [Read More](https://medium.com/p/82fb561a2ecb) |
+| Mon, 05 Jan 2026 21:18:36 GMT | Reducing Wireless Observability on ESP32 Devices | Tyreek Haynes | [Read More](https://medium.com/p/1060377184d6) |
+| Mon, 05 Jan 2026 20:56:21 GMT | Hello world! | Saurabh Shintre | [Read More](https://medium.com/p/9490df0d8025) |
+| Mon, 05 Jan 2026 20:51:01 GMT | Register Now for “CVE/FIRST VulnCon 2026” on April 13–16, 2026! | CVE Program Blog | [Read More](https://medium.com/p/fa27673ab427) |
+| Mon, 05 Jan 2026 20:45:00 GMT | Idris Elba’s Wax Double Unlocked His iPhone, Raising Big Questions for Face ID and Biometric… | ElviraKHWATENGE | [Read More](https://medium.com/p/9033d7f0b6a6) |
 | Mon, 05 Jan 2026 20:42:28 GMT | Junk#2 | Ayush Singh | [Read More](https://medium.com/p/9db488dfc61e) |
 | Mon, 05 Jan 2026 20:33:15 GMT | Using burpsuite to perform an intruder attack. | Aadit Nair | [Read More](https://medium.com/p/7c8859bb7a3d) |
 | Mon, 05 Jan 2026 20:32:24 GMT | K8s-Dashboard-Manager: Zero Trust Access with Teleport | Omar Din | [Read More](https://medium.com/p/f38b0ad8b206) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 15:30:31 GMT | File Password Cracking Using John the Ripper | Brijesh Chauhan | [Read More](https://medium.com/p/8698afd10195) |
 | Mon, 05 Jan 2026 15:29:15 GMT | Your SIEM Is Blind — Because It’s Not Listening to SQL Server | Pablo Echeverria | [Read More](https://medium.com/p/9724141fd725) |
 | Mon, 05 Jan 2026 15:29:09 GMT | Grok Made CSAM — Your AI Guardrails Next? | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/43cc8615e990) |
-| Mon, 05 Jan 2026 15:23:55 GMT | How I Passed (and Renewed) the AWS Security Specialty Certification In Jan 2026 | Taimur Ijlal | [Read More](https://medium.com/p/adc5573aac53) |
-| Mon, 05 Jan 2026 15:21:39 GMT | Facebook Reverse Engineering: `x-fb-session-id` header | Jim | [Read More](https://medium.com/p/1b39718805fd) |
-| Mon, 05 Jan 2026 15:19:46 GMT | Poderosos Puentes | Jenn Rodriguez | [Read More](https://medium.com/p/fde3abc76ced) |
-| Mon, 05 Jan 2026 15:18:02 GMT | Why Being Vulnerable Isn’t Actually Weak (And Why That Changes Everything) | Juan Pablo Viola | [Read More](https://medium.com/p/c1d2bec37c5a) |
-| Mon, 05 Jan 2026 15:17:06 GMT | SQL vs NoSQL Databases: Understanding the Difference the Right Way | Shreyash Mogaveera | [Read More](https://medium.com/p/e9b0c490d52f) |
