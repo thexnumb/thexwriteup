@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 Jan 2026 23:06:30 GMT | Tryhackme:SimpleCTF Writeup | Sacramar | [Read More](https://medium.com/p/05ffadf9ceea) |
+| Mon, 05 Jan 2026 22:54:09 GMT | A Practical Guide to Building Solid Back-End APIs | Muhammad Qitmeer | [Read More](https://medium.com/p/dc2224db4038) |
 | Mon, 05 Jan 2026 22:36:44 GMT | IT Managed Services in Fontana, California Help Minimize the Financial Fallout of Cyberattacks | Zeta Sky | [Read More](https://medium.com/p/11aa8d2b562d) |
 | Mon, 05 Jan 2026 22:28:30 GMT | The Top 5 Emerging Cyber Threat Issues for 2026 — And What 2020–2025 Taught Us About the Next Wave… | gm0 | [Read More](https://medium.com/p/208c5e639aa6) |
 | Mon, 05 Jan 2026 22:15:11 GMT | How a Simple GET Request Led to a $500 CSRF Bounty‍ | ab.infosec | [Read More](https://medium.com/p/c927a6b216ef) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 16:17:47 GMT | I Stopped Looking for Vulnerabilities and Started Looking for Trust | Iski | [Read More](https://medium.com/p/1584f46c8380) |
 | Mon, 05 Jan 2026 16:16:46 GMT | #15- Kali Linux — Forensics: Rewinding the Story After Exfiltration | SDNTechForum | [Read More](https://medium.com/p/aeb37d901cbc) |
 | Mon, 05 Jan 2026 16:15:18 GMT | ShinyHunters walked straight into Resecurity’s Honey Trap | Sudarshan | [Read More](https://medium.com/p/eb7222004eaa) |
-| Mon, 05 Jan 2026 16:09:24 GMT | Daily Bugle  —  Joomla 3.7.0 | Bash Overflow | [Read More](https://medium.com/p/96b523d0fa0b) |
-| Mon, 05 Jan 2026 16:03:24 GMT | Task 1 (1/01/2026) Scenario based question for defining policies. | Meet Soni | [Read More](https://medium.com/p/45cfc28e3dbe) |
