@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 Jan 2026 19:04:05 GMT | A Beginner’s Timeline: From Booking Your Course to Your First Shift | Jfk Tech | [Read More](https://medium.com/p/4b3ead251747) |
+| Mon, 05 Jan 2026 19:02:25 GMT | The Internet Is Not Safe for Children — And Most Parents Don’t Realize It | K. Middleton | [Read More](https://medium.com/p/9d9784d073b8) |
+| Mon, 05 Jan 2026 18:57:08 GMT | Part2: Drift, AI, and Accountability: Building Explainable Security Infrastructure | Salwan Mohamed | [Read More](https://medium.com/p/b419c95e27d3) |
+| Mon, 05 Jan 2026 18:56:51 GMT | Setting Up Security Onion in Oracle Virtual Box | Aadit Nair | [Read More](https://medium.com/p/56125da2fa86) |
+| Mon, 05 Jan 2026 18:55:59 GMT | Essential IT Services Every Small Business in Green Bay Should Prioritize | RhumBu LLC - IT Services & Managed Solutions | [Read More](https://medium.com/p/ba1c4fda19d2) |
+| Mon, 05 Jan 2026 18:46:16 GMT | HeartBleed Zafiyeti | Mehmet Ali Gülyurdu | [Read More](https://medium.com/p/f8a40c3b014d) |
+| Mon, 05 Jan 2026 18:44:05 GMT | SearXNG vs Brave Search: Control or Convenience for Privacy-Minded Teams | BiyteLüm | [Read More](https://medium.com/p/6064a30c28cf) |
+| Mon, 05 Jan 2026 18:40:15 GMT | Why Do Big Companies Put an API Gateway in Front of Every Microservice? | Anuragkumbhare | [Read More](https://medium.com/p/ba5e0f94133e) |
+| Mon, 05 Jan 2026 18:35:33 GMT | Symfonos: 4 — Complete Walkthrough (Beginner-Friendly) - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/161bc5d179f7) |
+| Mon, 05 Jan 2026 18:34:10 GMT | Protecting Data in a Coastal City: Cybersecurity Policies | DIVYANSH JAISWAL | [Read More](https://medium.com/p/3a24672f3678) |
 | Mon, 05 Jan 2026 18:31:52 GMT | Mastering Web Applications: A Journey from URLs to HTTP Handshakes | Shamir Ajmir Khan | [Read More](https://medium.com/p/584a53366378) |
 | Mon, 05 Jan 2026 18:31:25 GMT | Automating Active Directory Account Disablement After Failed Login Attempts (Wazuh + Graylog +… | SOCFortress | [Read More](https://medium.com/p/9b639f719632) |
+| Mon, 05 Jan 2026 18:30:35 GMT | Edge AI Is the Next Big Hardware War | Logic Over Latte | [Read More](https://medium.com/p/406da7d2b01c) |
 | Mon, 05 Jan 2026 18:12:04 GMT | I Abhor LinkedIn, Do You? | Briana Derry, MBA | [Read More](https://medium.com/p/158fb06631ec) |
 | Mon, 05 Jan 2026 18:10:34 GMT | Building an Extremely Vulnerable Windows 10 Lab: A Step-by-Step Guide (Bonus:Full PT with… | Andrey Pautov | [Read More](https://medium.com/p/9290d388744c) |
 | Mon, 05 Jan 2026 18:09:23 GMT | The IAM Blind Spot Everyone Is Ignoring: Non-Human Identities Are Taking Over | Sunnysinha | [Read More](https://medium.com/p/994a5b9f6136) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 14:22:24 GMT | Writeup 2: Beacon Flooding — The Art of Wi-Fi Illusion | Nisarg Patel | [Read More](https://medium.com/p/f22db5af0bcb) |
 | Mon, 05 Jan 2026 14:22:13 GMT | Hi, I’m Tonmoy, a Professional Cybersecurity Expert & Certified Ethical Hacker with years of… | Ethical Hacker | [Read More](https://medium.com/p/a76a5332fd83) |
 | Mon, 05 Jan 2026 14:16:43 GMT | Security Architecture: Why It Must Survive Automation | Alaa Rahimi | [Read More](https://medium.com/p/44b83cc120bb) |
-| Mon, 05 Jan 2026 14:07:43 GMT | AI Agents as Privileged Insiders: The “Invisible Superuser” Risk CISOs Can’t Ignore | Denny Roger | [Read More](https://medium.com/p/ef8e1d3ca182) |
-| Mon, 05 Jan 2026 14:06:03 GMT | 600$ For Stealing Podcasts/Show via RSS Feed Manipulation | Anas NadY | [Read More](https://medium.com/p/f3f2cef08adf) |
-| Mon, 05 Jan 2026 14:02:24 GMT | Cuando escuché la historia de Kevin Mitnick, supe que quería vivir de la tecnología | Williams Padilla | [Read More](https://medium.com/p/8ea2e0f7beb8) |
-| Mon, 05 Jan 2026 13:58:41 GMT | Envoy Proxy Misconfigurations You Can Easily Fall Into | smgtkn | [Read More](https://medium.com/p/7b2effc6e076) |
-| Mon, 05 Jan 2026 13:58:38 GMT | Tutorial 2 “Kerentanan injeksi SQL yang memungkinkan bypass login” | Diva Rizky Alfitrah | [Read More](https://medium.com/p/ff1c3a98fc97) |
-| Mon, 05 Jan 2026 13:57:42 GMT | $1,000 Bug Bounty: Complete Email System Takeover | Raja Uzair Abdullah | [Read More](https://medium.com/p/7ee800f2a2eb) |
-| Mon, 05 Jan 2026 13:52:09 GMT | Top 15 Kali Linux GUI Tools Every Security Engineer Must Master (With Real Use Cases) | TechLatest.Net | [Read More](https://medium.com/p/d3412e9867fd) |
-| Mon, 05 Jan 2026 13:50:54 GMT | I Replaced Every Online File Converter With VERT.sh and I Cannot Go Back | Muhammad Hassan Ali | [Read More](https://medium.com/p/19563e8c0ee0) |
-| Mon, 05 Jan 2026 13:40:45 GMT | Preparing for the CISSP Certification in 2026: My Strategy and Study Plan | Citiz3n | [Read More](https://medium.com/p/0a609c06a20a) |
-| Mon, 05 Jan 2026 13:37:19 GMT | Global Digital Identity Market Update | David H. Deans | [Read More](https://medium.com/p/3470bf2b39c1) |
-| Mon, 05 Jan 2026 13:37:11 GMT | Love Feels Magical Until It Isn’t! | Heer | [Read More](https://medium.com/p/b340103ce193) |
