@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 Jan 2026 11:31:14 GMT | Narrating Themes of Vulnerability and Survival in Charlotte’s Web | Laudi Kayluna Maisha | [Read More](https://medium.com/p/91ad5e11dcbc) |
+| Mon, 05 Jan 2026 11:29:51 GMT | Boost Your Cybersecurity Expertise Online | Alex Carter | [Read More](https://medium.com/p/f81c36068872) |
+| Mon, 05 Jan 2026 11:29:50 GMT | Professional Security Guards Dubai: Ultimate Protection | Delight international Security Services | [Read More](https://medium.com/p/23b44a00adbf) |
+| Mon, 05 Jan 2026 11:27:16 GMT | The Rising Tide of Security Orchestration in the Cybersecurity Market | Rajat Naik | [Read More](https://medium.com/p/a66d197d5b57) |
+| Mon, 05 Jan 2026 11:25:32 GMT | C2 Forensics: Your Network Isn’t Idle. It’s Reporting to Someone You Didn’t Approve | Fatima Zakir | [Read More](https://medium.com/p/cd9603f53067) |
 | Mon, 05 Jan 2026 11:19:31 GMT | Account Reinstatement Amazon: Recover Selling Rights | Sellerpickle | [Read More](https://medium.com/p/57a9b7a58685) |
+| Mon, 05 Jan 2026 11:18:02 GMT | Déjà Vu and Cheque Chaos: Banking Levels 8–13 | Invariant0 | [Read More](https://medium.com/p/23ed9671ed61) |
+| Mon, 05 Jan 2026 11:18:01 GMT | Breaking a Private Key on Purpose: A Practical Look at Shamir’s Secret Sharing | Alirezazeynali | [Read More](https://medium.com/p/51d676930d31) |
 | Mon, 05 Jan 2026 11:12:41 GMT | The Year AI Becomes the Weapon: 5 Cybersecurity Predictions for 2026 | Mostafa Elsaeed | [Read More](https://medium.com/p/2962b8c4256f) |
 | Mon, 05 Jan 2026 11:08:39 GMT | Why Total Security Solutions Are Essential in a Rapidly Changing World | Ciss India | [Read More](https://medium.com/p/5b5bc6f05c9e) |
 | Mon, 05 Jan 2026 11:05:50 GMT | Still getting fake phone numbers from your contact form? | Np Formshield | [Read More](https://medium.com/p/9e853b5f94df) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 05:54:31 GMT | AI-Assisted Threat Hunting: How to Dramatically Cut Detection Time | Samyukta Roy | [Read More](https://medium.com/p/6cc944734d17) |
 | Mon, 05 Jan 2026 05:50:25 GMT | The Art of Redirect 
  How “Low Impact” Open Redirects Become High-Value Chains | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/c8cf00e3b584) |
-| Mon, 05 Jan 2026 05:45:25 GMT | Differences Between Endpoint Security and Network Security: A Clear Guide for Modern Businesses | Maxatlasofficial | [Read More](https://medium.com/p/76a4f8376d51) |
-| Mon, 05 Jan 2026 05:38:12 GMT | Facing off with Gandalf Level 4 | Kimberly Ordel | [Read More](https://medium.com/p/8d789dab8a44) |
-| Mon, 05 Jan 2026 05:37:38 GMT | Why Round-the-Clock SOC Monitoring Is Vital for Rapid Response | Sneha Mehra | [Read More](https://medium.com/p/9ed432c8da06) |
-| Mon, 05 Jan 2026 05:27:01 GMT | Cyber Defense: Transitioning to Predictive Enterprise Security | Nikhil Chatterjee | [Read More](https://medium.com/p/1f4f02a05d1c) |
-| Mon, 05 Jan 2026 05:26:44 GMT | Why We Need Dedicated Anti-Ransomware Protection Beyond Traditional Antivirus and EDR Solutions | David SEHYEON Baek | [Read More](https://medium.com/p/6446bbcedf1a) |
-| Mon, 05 Jan 2026 05:22:42 GMT | Types of security in information technology explained | dailypulsewire | [Read More](https://medium.com/p/c8fc81e9800f) |
-| Mon, 05 Jan 2026 05:20:48 GMT | AI Scams 2026: How Scammers Use AI & How To Stay Protected | DevaDas Writer | [Read More](https://medium.com/p/41d4751ab1f8) |
