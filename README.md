@@ -12,6 +12,33 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 Jan 2026 12:50:35 GMT | Scenario | Vanshika Parikh | [Read More](https://medium.com/p/939dc0a6f912) |
+| Mon, 05 Jan 2026 12:40:17 GMT | Week 5 of Learning Cloud Development | Benedicta | [Read More](https://medium.com/p/015c486aad3d) |
+| Mon, 05 Jan 2026 12:39:58 GMT | Parking Enforcement Automation: Smarter, Faster, Fairer Compliance | ParqEx | [Read More](https://medium.com/p/41d16e2869a4) |
+| Mon, 05 Jan 2026 12:39:48 GMT | SOC Services in India: A Complete Guide to 24/7 Cyber Threat Monitoring | Prakash Factosecure | [Read More](https://medium.com/p/5f81d94a0374) |
+| Mon, 05 Jan 2026 12:33:33 GMT | Why SOC Collaboration Is Key in Large Enterprises | Eventus Security Private Limited | [Read More](https://medium.com/p/0a43a44bbeb2) |
+| Mon, 05 Jan 2026 12:32:49 GMT | Product Review: Impactasaurus | Cait Graaf | [Read More](https://medium.com/p/1421100aa95d) |
+| Mon, 05 Jan 2026 12:32:27 GMT | Nibbles: Web Enumeration & File Upload Exploitation | Nicholas Mullenski | [Read More](https://medium.com/p/9b69ed1b579b) |
+| Mon, 05 Jan 2026 12:32:27 GMT | Pentesting for Compliance: How Frameworks Use Security Testing to Stay Audit-Ready | Brittney Ginther | [Read More](https://medium.com/p/e81f757067c6) |
+| Mon, 05 Jan 2026 12:29:37 GMT | From Email Verification to 0-Click Account Takeover | Youss1f | [Read More](https://medium.com/p/7a46a0e8bdc8) |
+| Mon, 05 Jan 2026 12:29:24 GMT | Inside the Mind of a Phisher: How Social Engineering Really Works | Nikhilesh Singh | [Read More](https://medium.com/p/88e655f6ad8e) |
+| Mon, 05 Jan 2026 12:26:58 GMT | Deepfake Social Engineering: The Next Evolution of Cyber Deception | Technavors Security | [Read More](https://medium.com/p/c383cb058f71) |
+| Mon, 05 Jan 2026 12:24:54 GMT | Best Ethical Hacking Jobs in Delhi, India | EINITIAL24 | [Read More](https://medium.com/p/0acca7c400e1) |
+| Mon, 05 Jan 2026 12:24:45 GMT | A Practical Exploitation of a CORS Misconfiguration | Raj Qureshi | [Read More](https://medium.com/p/4169134ac907) |
+| Mon, 05 Jan 2026 12:24:20 GMT | Case File: 0x03 — Operation “Golden Path” | The Knight | [Read More](https://medium.com/p/273d12b2ddc8) |
+| Mon, 05 Jan 2026 12:21:30 GMT | Realistic Mobile Attack Simulation for Confident Releases | Cyber Fortify | [Read More](https://medium.com/p/1d83dc258df0) |
+| Mon, 05 Jan 2026 12:20:55 GMT | React2Shell CVE-2025–55182 | Lakshan Sameera | [Read More](https://medium.com/p/23f3cffe4777) |
+| Mon, 05 Jan 2026 12:18:04 GMT | Hackers Are Using ChatGPT & AI Agents in 2025 — And Most People Have No Idea | Bugitrix | [Read More](https://medium.com/p/e574284de039) |
+| Mon, 05 Jan 2026 12:15:30 GMT | Master Cybersecurity with Expert-Led Courses | Kunal Arora | [Read More](https://medium.com/p/089df2927ca6) |
+| Mon, 05 Jan 2026 12:11:58 GMT | Why Attackers Love DNS More Than You Think | Fateyaly | [Read More](https://medium.com/p/bd550195b833) |
+| Mon, 05 Jan 2026 12:11:05 GMT | CVE 2025: What a Year of Vulnerabilities Reveals About the Modern Attack Surface | gm0 | [Read More](https://medium.com/p/c4e94d8b9570) |
+| Mon, 05 Jan 2026 12:02:25 GMT | CTF Basics: Understanding HTTP Cookies | Walter Moar | [Read More](https://medium.com/p/4706d9092e8e) |
+| Mon, 05 Jan 2026 12:02:04 GMT | Professional Protection for Seamless Events by WA Event Services | waeventservices.co.uk/ | [Read More](https://medium.com/p/aa6a8a9e469d) |
+| Mon, 05 Jan 2026 12:01:06 GMT | How Attackers Break CI/CD Pipelines | Krutik Thakar — Secure Developer - VAPT Associate | [Read More](https://medium.com/p/921d43c113a1) |
+| Mon, 05 Jan 2026 11:57:26 GMT | Bir Admin Paneli Yazarken Şifre Güvenliğini Nasıl Ele Aldım | gunes | [Read More](https://medium.com/p/11b4d1af5838) |
+| Mon, 05 Jan 2026 11:50:45 GMT | Tutorial 1 PortSwigger Lab: SQL injection vulnerability in the WHERE clause that allows hidden data… | Diva Rizky Alfitrah | [Read More](https://medium.com/p/9286b4660a75) |
+| Mon, 05 Jan 2026 11:43:13 GMT | WhatsApp Silent Fix of Device Fingerprinting Privacy Issue Assessment: The Good, The (Not So) Bad… | Tal Be'ery | [Read More](https://medium.com/p/9127b5215e28) |
+| Mon, 05 Jan 2026 11:32:45 GMT | FastAPI + OAuth2 PAR & JAR: Phishing-Resistant Authorization for Public Clients | Codastra | [Read More](https://medium.com/p/432830d1194e) |
 | Mon, 05 Jan 2026 11:31:14 GMT | Narrating Themes of Vulnerability and Survival in Charlotte’s Web | Laudi Kayluna Maisha | [Read More](https://medium.com/p/91ad5e11dcbc) |
 | Mon, 05 Jan 2026 11:29:51 GMT | Boost Your Cybersecurity Expertise Online | Alex Carter | [Read More](https://medium.com/p/f81c36068872) |
 | Mon, 05 Jan 2026 11:29:50 GMT | Professional Security Guards Dubai: Ultimate Protection | Delight international Security Services | [Read More](https://medium.com/p/23b44a00adbf) |
@@ -85,31 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 07:21:56 GMT | What Are Managed IT Services and Why Do Businesses Need Them Today? | Arkware | [Read More](https://medium.com/p/1413df429563) |
 | Mon, 05 Jan 2026 07:21:23 GMT | Ethical Hacking Certification: Everything You Need to Know | Certocean | [Read More](https://medium.com/p/547ed8fecea2) |
 | Mon, 05 Jan 2026 07:19:21 GMT | Hack The Box — Jerry (Medium) | khalifa_farhat | [Read More](https://medium.com/p/4e054a1be9c8) |
-| Mon, 05 Jan 2026 07:17:45 GMT | i grew up without a blueprint for love | mansiwrites | [Read More](https://medium.com/p/3b3969c27d32) |
-| Mon, 05 Jan 2026 07:14:52 GMT | Cyber Crimes in India: What to Do If You’re a Victim | NishitaThakkar | [Read More](https://medium.com/p/67c2b5014e01) |
-| Mon, 05 Jan 2026 07:02:03 GMT | Continuous Vulnerability Testing: A Strategic Shift in Risk | Anjali Moitra Roy | [Read More](https://medium.com/p/44392e672171) |
-| Mon, 05 Jan 2026 06:57:29 GMT | YARA Rule Cheatsheet: 20 Malware Sample Patterns Every Threat Hunter Should Know | Very Lazy Tech | [Read More](https://medium.com/p/3d9637f7319c) |
-| Mon, 05 Jan 2026 06:49:39 GMT | The Hidden Cost of UPI Safety: Why Every Developer Must Redesign by December 2026 | Ravi | [Read More](https://medium.com/p/9456ace46c3b) |
-| Mon, 05 Jan 2026 06:47:24 GMT | Faster Ways to Find Open Redirect Vulnerabilities (With Automation) | Alham Rizvi | [Read More](https://medium.com/p/34aa346891b3) |
-| Mon, 05 Jan 2026 06:47:04 GMT | Security Blind Spots Created by AI Code Reviews | Lakshita Gulliya | [Read More](https://medium.com/p/1231493166d1) |
-| Mon, 05 Jan 2026 06:45:37 GMT | Advanced Diploma in Information Technology — Build Advanced Tech Skills for a Global Career | AIST | [Read More](https://medium.com/p/5faa37ef5214) |
-| Mon, 05 Jan 2026 06:41:59 GMT | Account Takeover via IDOR in GraphQL Invitation Flow | Parth Narula | [Read More](https://medium.com/p/546b9a120c53) |
-| Mon, 05 Jan 2026 06:41:35 GMT | Are Your Endpoint Security Services Protecting Your Organization Really? | Samvaskaran | [Read More](https://medium.com/p/bbc03d7d1c31) |
-| Mon, 05 Jan 2026 06:40:09 GMT | I Was Busy All Day, Yet Achieved Nothing — Until I Understood This One Truth | Krish Bhandari | [Read More](https://medium.com/p/ab9b702a4d10) |
-| Mon, 05 Jan 2026 06:39:37 GMT | Security Architecture: The Vital Role of Policy and Design Reviews | Vihaan Sethi | [Read More](https://medium.com/p/9bad8a2d65af) |
-| Mon, 05 Jan 2026 06:37:31 GMT | SAP Carve-Out & Secure Data Archiving Solutions for Business Transitions | Avendatatech | [Read More](https://medium.com/p/dc4137a02cbb) |
-| Mon, 05 Jan 2026 06:30:26 GMT | How to Choose the Best Managed VPS Hosting When Everyone Claims to Be #1? | Ann Taylor | [Read More](https://medium.com/p/36783f778c55) |
-| Mon, 05 Jan 2026 06:30:13 GMT | Cyber Risk Assessment: Turning Strategy into Actionable Roadmaps | Neellam Suri | [Read More](https://medium.com/p/593536c28f72) |
-| Mon, 05 Jan 2026 06:28:27 GMT | BloodCat-Map : 《Watch Dogs 2026》 ??? | Мартин. | [Read More](https://medium.com/p/a2ff7008f732) |
-| Mon, 05 Jan 2026 06:22:21 GMT | Droid LLM Hunter | Kang Ali | [Read More](https://medium.com/p/2f94ead7f504) |
-| Mon, 05 Jan 2026 06:18:02 GMT | Unified Threat Response: Why Cross-Platform Integration Matters | Chaithanya Das | [Read More](https://medium.com/p/9a693724684f) |
-| Mon, 05 Jan 2026 06:16:32 GMT | Protection for the Unprotected Part 1: A Record of Systemic Non-Intervention Across Multiple Harms… | MakeMeVisible | [Read More](https://medium.com/p/1e95239a6ae4) |
-| Mon, 05 Jan 2026 06:16:09 GMT | HexStrike + Gemini. AI-Assisted SMB Exposure Credential Brute-Force | Andrey Pautov | [Read More](https://medium.com/p/2c5f99dcdbf4) |
-| Mon, 05 Jan 2026 06:14:13 GMT | Check Point Report: The AI Agent Era Arrives — Attack Patterns Evolve in Sync — 2026 Cybersecurity… | Breezy Business Channel | [Read More](https://medium.com/p/218b7100b84b) |
-| Mon, 05 Jan 2026 06:13:47 GMT | Reducing False Positives in Account Takeover (ATO) Detection: A Context-Aware Approach | Nibnas Shaikh | [Read More](https://medium.com/p/6d06ea728ba1) |
-| Mon, 05 Jan 2026 06:12:30 GMT | Cybersecurity Lead Generation Services — Boosting Your B2B Growth | Ishu B | [Read More](https://medium.com/p/69283fd0fe11) |
-| Mon, 05 Jan 2026 06:05:48 GMT | Design, Strategy, and Results: Inside a Guam Web Design Agency | GuamWEBZ | [Read More](https://medium.com/p/e6ccfcd1c773) |
-| Mon, 05 Jan 2026 05:54:53 GMT | Zero-Day Exploits Explained | Dhanush N | [Read More](https://medium.com/p/ceb654aad725) |
-| Mon, 05 Jan 2026 05:54:31 GMT | AI-Assisted Threat Hunting: How to Dramatically Cut Detection Time | Samyukta Roy | [Read More](https://medium.com/p/6cc944734d17) |
-| Mon, 05 Jan 2026 05:50:25 GMT | The Art of Redirect 
- How “Low Impact” Open Redirects Become High-Value Chains | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/c8cf00e3b584) |
