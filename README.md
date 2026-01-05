@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 Jan 2026 16:20:51 GMT | The Dangers of Microsoft Defaults: Lessons from a Decade in the MSP World | Chase Sims | [Read More](https://medium.com/p/8483a6719265) |
+| Mon, 05 Jan 2026 16:19:45 GMT | Security Didn’t Fail in 2025: Execution Did | Really Bad Security | [Read More](https://medium.com/p/13f634cc9535) |
+| Mon, 05 Jan 2026 16:18:38 GMT | 5 KQL Queries to Slash Your Containment Time in Microsoft Sentinel | Matt Swann | [Read More](https://medium.com/p/57bb81b52551) |
+| Mon, 05 Jan 2026 16:17:55 GMT | One Library to Parse Them All: Introducing ConfigExtractor | Ryan Samaroo | [Read More](https://medium.com/p/d0741cbe57e4) |
+| Mon, 05 Jan 2026 16:17:47 GMT | I Stopped Looking for Vulnerabilities and Started Looking for Trust | Iski | [Read More](https://medium.com/p/1584f46c8380) |
+| Mon, 05 Jan 2026 16:16:46 GMT | #15- Kali Linux — Forensics: Rewinding the Story After Exfiltration | SDNTechForum | [Read More](https://medium.com/p/aeb37d901cbc) |
+| Mon, 05 Jan 2026 16:15:18 GMT | ShinyHunters walked straight into Resecurity’s Honey Trap | Sudarshan | [Read More](https://medium.com/p/eb7222004eaa) |
+| Mon, 05 Jan 2026 16:09:24 GMT | Daily Bugle  —  Joomla 3.7.0 | Bash Overflow | [Read More](https://medium.com/p/96b523d0fa0b) |
+| Mon, 05 Jan 2026 16:03:24 GMT | Task 1 (1/01/2026) Scenario based question for defining policies. | Meet Soni | [Read More](https://medium.com/p/45cfc28e3dbe) |
+| Mon, 05 Jan 2026 15:58:48 GMT | Passkeys: The End of Passwords Is a Cryptographic Event, Not a UX Upgrade | Samyakgoel | [Read More](https://medium.com/p/234cf70a51c8) |
+| Mon, 05 Jan 2026 15:58:12 GMT | Cracking Malware with Maco | Ryan Samaroo | [Read More](https://medium.com/p/aa9c08e5ceaa) |
+| Mon, 05 Jan 2026 15:55:37 GMT | ClickFix-ed: Detecting ClickFix Attacks Inside the Browser | Rishi Kant | [Read More](https://medium.com/p/44d3119b5830) |
+| Mon, 05 Jan 2026 15:49:18 GMT | The Top 3 Commands I Observed in SSH Honeypot Attacks | berke bodur | [Read More](https://medium.com/p/fad2d8cbbde2) |
+| Mon, 05 Jan 2026 15:46:36 GMT | 5 Cybersecurity Certifications That Are Actually Worth Your Money in 2026 | Axoloth | [Read More](https://medium.com/p/7cefba433d01) |
 | Mon, 05 Jan 2026 15:37:03 GMT | Google Now Allows Users to Change Their Email Address — Why This Matters More Than It Seems | Mohamad Mahmood | [Read More](https://medium.com/p/2edc3ce84511) |
+| Mon, 05 Jan 2026 15:30:31 GMT | File Password Cracking Using John the Ripper | Brijesh Chauhan | [Read More](https://medium.com/p/8698afd10195) |
 | Mon, 05 Jan 2026 15:29:15 GMT | Your SIEM Is Blind — Because It’s Not Listening to SQL Server | Pablo Echeverria | [Read More](https://medium.com/p/9724141fd725) |
 | Mon, 05 Jan 2026 15:23:55 GMT | How I Passed (and Renewed) the AWS Security Specialty Certification In Jan 2026 | Taimur Ijlal | [Read More](https://medium.com/p/adc5573aac53) |
 | Mon, 05 Jan 2026 15:21:39 GMT | Facebook Reverse Engineering: `x-fb-session-id` header | Jim | [Read More](https://medium.com/p/1b39718805fd) |
@@ -39,6 +54,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 14:32:23 GMT | Understanding DNS Spoofing: How It Works and Its Potential Uses | Vignesh R | [Read More](https://medium.com/p/3f4ddbdf76e1) |
 | Mon, 05 Jan 2026 14:31:01 GMT | Vector Databases Are Eating the World (And Why You Should Care) | Jitin Kayyala | [Read More](https://medium.com/p/c739538ccf0c) |
 | Mon, 05 Jan 2026 14:30:01 GMT | Migrating Legacy Windows Server 2008 Applications to Windows Server 2019/2022 | DiPAK KNVDL | [Read More](https://medium.com/p/9ab7a99206f2) |
+| Mon, 05 Jan 2026 14:26:13 GMT | Resolvendo vulnerabilidades complexas de subdependências do dependabot | Cleverson Franco | [Read More](https://medium.com/p/1a8260be25ea) |
 | Mon, 05 Jan 2026 14:24:26 GMT | Windows Internals — Part 1: Processes, Trust, and Why Windows Cares So Much | Hamood Naseer Al-Marhoubi | [Read More](https://medium.com/p/495e0f4afb4a) |
 | Mon, 05 Jan 2026 14:23:31 GMT | N8N Cloud vs Self-Hosting: Which Should You Choose in 2026? | Aman Singh | [Read More](https://medium.com/p/9cb69b82bf30) |
 | Mon, 05 Jan 2026 14:22:37 GMT | Types of Bad Actors in Information Systems | Ümit Berber | [Read More](https://medium.com/p/5aa6fc4a69b1) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 12:01:06 GMT | How Attackers Break CI/CD Pipelines | Krutik Thakar — Secure Developer - VAPT Associate | [Read More](https://medium.com/p/921d43c113a1) |
 | Mon, 05 Jan 2026 11:57:26 GMT | Bir Admin Paneli Yazarken Şifre Güvenliğini Nasıl Ele Aldım | gunes | [Read More](https://medium.com/p/11b4d1af5838) |
 | Mon, 05 Jan 2026 11:50:45 GMT | Tutorial 1 PortSwigger Lab: SQL injection vulnerability in the WHERE clause that allows hidden data… | Diva Rizky Alfitrah | [Read More](https://medium.com/p/9286b4660a75) |
-| Mon, 05 Jan 2026 11:43:13 GMT | WhatsApp Silent Fix of Device Fingerprinting Privacy Issue Assessment: The Good, The (Not So) Bad… | Tal Be'ery | [Read More](https://medium.com/p/9127b5215e28) |
-| Mon, 05 Jan 2026 11:32:45 GMT | FastAPI + OAuth2 PAR & JAR: Phishing-Resistant Authorization for Public Clients | Codastra | [Read More](https://medium.com/p/432830d1194e) |
-| Mon, 05 Jan 2026 11:31:14 GMT | Narrating Themes of Vulnerability and Survival in Charlotte’s Web | Laudi Kayluna Maisha | [Read More](https://medium.com/p/91ad5e11dcbc) |
-| Mon, 05 Jan 2026 11:29:51 GMT | Boost Your Cybersecurity Expertise Online | Alex Carter | [Read More](https://medium.com/p/f81c36068872) |
-| Mon, 05 Jan 2026 11:29:50 GMT | Professional Security Guards Dubai: Ultimate Protection | Delight international Security Services | [Read More](https://medium.com/p/23b44a00adbf) |
-| Mon, 05 Jan 2026 11:27:16 GMT | The Rising Tide of Security Orchestration in the Cybersecurity Market | Rajat Naik | [Read More](https://medium.com/p/a66d197d5b57) |
-| Mon, 05 Jan 2026 11:25:32 GMT | C2 Forensics: Your Network Isn’t Idle. It’s Reporting to Someone You Didn’t Approve | Fatima Zakir | [Read More](https://medium.com/p/cd9603f53067) |
-| Mon, 05 Jan 2026 11:19:31 GMT | Account Reinstatement Amazon: Recover Selling Rights | Sellerpickle | [Read More](https://medium.com/p/57a9b7a58685) |
-| Mon, 05 Jan 2026 11:18:02 GMT | Déjà Vu and Cheque Chaos: Banking Levels 8–13 | Invariant0 | [Read More](https://medium.com/p/23ed9671ed61) |
-| Mon, 05 Jan 2026 11:18:01 GMT | Breaking a Private Key on Purpose: A Practical Look at Shamir’s Secret Sharing | Alirezazeynali | [Read More](https://medium.com/p/51d676930d31) |
-| Mon, 05 Jan 2026 11:12:41 GMT | The Year AI Becomes the Weapon: 5 Cybersecurity Predictions for 2026 | Mostafa Elsaeed | [Read More](https://medium.com/p/2962b8c4256f) |
-| Mon, 05 Jan 2026 11:08:39 GMT | Why Total Security Solutions Are Essential in a Rapidly Changing World | Ciss India | [Read More](https://medium.com/p/5b5bc6f05c9e) |
-| Mon, 05 Jan 2026 11:05:50 GMT | Still getting fake phone numbers from your contact form? | Np Formshield | [Read More](https://medium.com/p/9e853b5f94df) |
-| Mon, 05 Jan 2026 11:05:35 GMT | ISO 27001 Audit: How Controls Are Tested and What Auditors Expect | SecureSlate | [Read More](https://medium.com/p/e1bee2593d20) |
-| Mon, 05 Jan 2026 11:04:40 GMT | Amikor a biztonság sürgetni kezd | Yanosh Katona | [Read More](https://medium.com/p/eecc5660fb7b) |
-| Mon, 05 Jan 2026 11:03:49 GMT | Uncovering the Wire: A Deep-Dive into Network Forensics with Wireshark | Eeshan Agrawal | [Read More](https://medium.com/p/75f2da3a3de8) |
