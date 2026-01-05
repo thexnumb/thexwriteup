@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 Jan 2026 09:23:23 GMT | Hack Me If You Can: Building a Vulnerable Linux VM | Livey | [Read More](https://medium.com/p/d394a55a569a) |
+| Mon, 05 Jan 2026 09:19:50 GMT | How Secure Cloud Infrastructure Improves ERP Performance and Stability | DC9India | [Read More](https://medium.com/p/282fad15ab07) |
+| Mon, 05 Jan 2026 09:16:45 GMT | The Trench Commander: In Praise of Managers Who Actually Commit Code | Namir Sagheenanajar | [Read More](https://medium.com/p/87be9b81c2d5) |
+| Mon, 05 Jan 2026 09:16:37 GMT | Web Zafiyetleri Serisi #11 | Didem Kış | [Read More](https://medium.com/p/29d5ce48fcd5) |
+| Mon, 05 Jan 2026 09:12:43 GMT | Ethical hacking course in trivandrum | Manudybala | [Read More](https://medium.com/p/02382b53c68a) |
+| Mon, 05 Jan 2026 09:11:07 GMT | AI in Cybersecurity Response: Reducing Mitigation Times | Prakriti Juneja | [Read More](https://medium.com/p/36224e69b792) |
+| Mon, 05 Jan 2026 09:09:45 GMT | Best SOC services in Bangalore | Cyberlancer | [Read More](https://medium.com/p/550149577a83) |
+| Mon, 05 Jan 2026 09:09:08 GMT | AI Security Research — December 2025 | Tal Eliyahu | [Read More](https://medium.com/p/2955308744c2) |
+| Mon, 05 Jan 2026 09:02:16 GMT | Basics of XSLT Exploitation | Indigo Shadow | [Read More](https://medium.com/p/1ab935a4fff0) |
+| Mon, 05 Jan 2026 08:59:34 GMT | Why Barzo Security Services is the Choice for Over 500 Happy Clients | Travel time | [Read More](https://medium.com/p/0c6cbbade3f9) |
+| Mon, 05 Jan 2026 08:56:39 GMT | A Simple Tech Habit That Can Protect More Than Your Phone Battery. | Oladipo Taiwo Olamide(Lolu_Everywhere) | [Read More](https://medium.com/p/b921ca8594ee) |
+| Mon, 05 Jan 2026 08:55:35 GMT | Cyber Advisory Readiness: Strategies for Organizational Preparedness | Sophia Nellon | [Read More](https://medium.com/p/d54a924e154d) |
+| Mon, 05 Jan 2026 08:52:05 GMT | Shopify Speed Optimization Expert Guide: Boost Store Performance, SEO, and Conversions | Pensy | [Read More](https://medium.com/p/e0ffcdcb3ba2) |
+| Mon, 05 Jan 2026 08:51:37 GMT | Intermediate nmap: Tryhackme walkthrough - PH1.C1EL - | AD3NCA | [Read More](https://medium.com/p/6133fe4b8464) |
+| Mon, 05 Jan 2026 08:51:23 GMT | TryHackMe: Injectics Writeup | cbev | [Read More](https://medium.com/p/ddefd2173dd5) |
+| Mon, 05 Jan 2026 08:45:15 GMT | A “loyal military” in 2025 is mostly ceremonial muscle. | Oreoluwa Olaleye | [Read More](https://medium.com/p/bc7438dcdd88) |
+| Mon, 05 Jan 2026 08:37:00 GMT | How I Hacked Every Account in 15 Minutes… And Got -1 Points (The “Out of Scope” Tragedy) | Zer0Figure | [Read More](https://medium.com/p/dab35abe24a2) |
 | Mon, 05 Jan 2026 08:34:38 GMT | VulnNet Writeup (TryHackMe Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/33100e7ac0ed) |
 | Mon, 05 Jan 2026 08:28:06 GMT | The Missing Link in Secure AI Development | Niyati Daftary | [Read More](https://medium.com/p/9c1ef6540cff) |
 | Mon, 05 Jan 2026 08:22:05 GMT | Advancing Cloud Security in 2026: Convergence, Proactive Defenses, and AI Integration | AllSafeCloud | [Read More](https://medium.com/p/2921d9cf97b0) |
@@ -96,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 03:32:26 GMT | React Server Components for Enterprise Applications | Vasanthan K | [Read More](https://medium.com/p/bc445e1cd572) |
 | Mon, 05 Jan 2026 03:32:26 GMT | Gentlemen Ransomware and the Quiet Shift in How Corporate Attacks Are Done | Deven Chhajed | [Read More](https://medium.com/p/1a16ee3625d4) |
 | Mon, 05 Jan 2026 03:30:42 GMT | My Approach to SOC 200 / OSDA | Melvin Teo | [Read More](https://medium.com/p/40dc51f0837f) |
-| Mon, 05 Jan 2026 03:26:53 GMT | 後生成式 AI 時代的程式碼危機：從 AI 幻覺套件、氛圍編碼到代理人權限劫持的深度威脅剖析 | p1x06u9 | [Read More](https://medium.com/p/56354121d84d) |
-| Mon, 05 Jan 2026 03:25:22 GMT | Command Injection in Practice: What Worked, What Failed, and What I Learned | Ayush gangani | [Read More](https://medium.com/p/4681c27afa8c) |
-| Mon, 05 Jan 2026 03:22:09 GMT | The Zero Trust Mistake That Led to OpenAI’s 2023 Data Breach | SeQEW | [Read More](https://medium.com/p/6d5cc665a91b) |
-| Mon, 05 Jan 2026 03:20:41 GMT | Daily Digital Awareness Brief | Hjborges | [Read More](https://medium.com/p/4787af6e076c) |
-| Mon, 05 Jan 2026 03:13:12 GMT | AI-Driven Crash Analysis: How Machine Learning Catches iOS Bugs Your QA Team Will Miss | Ravi | [Read More](https://medium.com/p/d21db1658a63) |
-| Mon, 05 Jan 2026 03:12:38 GMT | [Review] WEB-RTA Exam: Mastering the Multi-App Attack Chain | heyrm | [Read More](https://medium.com/p/b19879f6df70) |
-| Mon, 05 Jan 2026 02:48:55 GMT | Pengalaman Seru Belajar Android Hacking | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/711ecf3a6f57) |
-| Mon, 05 Jan 2026 02:44:19 GMT | Pickle Rick TryHackMe WriteUP | cat0x01 | [Read More](https://medium.com/p/d0ee8cf9f370) |
-| Mon, 05 Jan 2026 02:27:36 GMT | Top 21 Dark Web Resources Every OSINT Professional Should Know | Regan Temudo | [Read More](https://medium.com/p/30e75e1cbc49) |
-| Mon, 05 Jan 2026 02:27:17 GMT | Sherlock Exposes You In Seconds: The OSINT Weapon!! | cybrNK | [Read More](https://medium.com/p/eb58947df09f) |
-| Mon, 05 Jan 2026 02:27:09 GMT | OSINT Under the Hood: Level Up — From Person to Infrastructure Mapping | Rabail Zaheer | [Read More](https://medium.com/p/f9a634ccaded) |
-| Mon, 05 Jan 2026 02:20:49 GMT | My C-AI/MLPen Exam Journey | Onurcan Genç | [Read More](https://medium.com/p/5af199e24b47) |
-| Mon, 05 Jan 2026 01:57:47 GMT | The 90% Collapse: 30 Million Lives in the Lake Chad Trap | Oge Samuel Okonkwo | [Read More](https://medium.com/p/bb028c7f1736) |
-| Mon, 05 Jan 2026 01:37:41 GMT | How New Rules Are Turning AI Data Use Into a Consent Problem Most Companies Aren’t Ready For | A D | [Read More](https://medium.com/p/e68cc0aad8ce) |
-| Mon, 05 Jan 2026 01:27:19 GMT | Password Attacks-Pass the Ticket (PtT) from Windows | ealmonte | [Read More](https://medium.com/p/c5a0f0fed314) |
-| Mon, 05 Jan 2026 01:14:34 GMT | C2 Frameworks as a public toilet of the cybersecurity industry | 0trust0day | [Read More](https://medium.com/p/fbc07cd64cf9) |
-| Mon, 05 Jan 2026 01:02:26 GMT | I Regret Going to College | I.M. | [Read More](https://medium.com/p/ccd32699f8ff) |
