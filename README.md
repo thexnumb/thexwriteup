@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 Jan 2026 23:41:12 GMT | When Cognition Becomes the Attack Surface | Erik Gallmann | [Read More](https://medium.com/p/61a29af09045) |
+| Mon, 05 Jan 2026 23:35:45 GMT | No Missiles. No Troops. Still an Attack. | Khushdeep Sharma | [Read More](https://medium.com/p/92799e74507b) |
+| Mon, 05 Jan 2026 23:30:41 GMT | What We Tell Others, and What We Do Ourselves | AfterRainWrites | [Read More](https://medium.com/p/34eefa507a77) |
 | Mon, 05 Jan 2026 23:06:30 GMT | Tryhackme:SimpleCTF Writeup | Sacramar | [Read More](https://medium.com/p/05ffadf9ceea) |
 | Mon, 05 Jan 2026 22:54:09 GMT | A Practical Guide to Building Solid Back-End APIs | Muhammad Qitmeer | [Read More](https://medium.com/p/dc2224db4038) |
 | Mon, 05 Jan 2026 22:36:44 GMT | IT Managed Services in Fontana, California Help Minimize the Financial Fallout of Cyberattacks | Zeta Sky | [Read More](https://medium.com/p/11aa8d2b562d) |
@@ -26,6 +29,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 21:19:25 GMT | Analyzing the UnrealIRCd Backdoor Vulnerability in a Controlled Lab Environment | SimpleTecBro | [Read More](https://medium.com/p/82fb561a2ecb) |
 | Mon, 05 Jan 2026 21:18:36 GMT | Reducing Wireless Observability on ESP32 Devices | Tyreek Haynes | [Read More](https://medium.com/p/1060377184d6) |
 | Mon, 05 Jan 2026 20:56:21 GMT | Hello world! | Saurabh Shintre | [Read More](https://medium.com/p/9490df0d8025) |
+| Mon, 05 Jan 2026 20:55:04 GMT | Security by Design: como eu penso segurança em e-commerce B2C na AWS sem matar escala nem conversão | Rodrigo Vitorelli | [Read More](https://medium.com/p/ae27532aedfa) |
 | Mon, 05 Jan 2026 20:51:01 GMT | Register Now for “CVE/FIRST VulnCon 2026” on April 13–16, 2026! | CVE Program Blog | [Read More](https://medium.com/p/fa27673ab427) |
 | Mon, 05 Jan 2026 20:45:00 GMT | Idris Elba’s Wax Double Unlocked His iPhone, Raising Big Questions for Face ID and Biometric… | ElviraKHWATENGE | [Read More](https://medium.com/p/9033d7f0b6a6) |
 | Mon, 05 Jan 2026 20:42:28 GMT | Junk#2 | Ayush Singh | [Read More](https://medium.com/p/9db488dfc61e) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 16:20:51 GMT | The Dangers of Microsoft Defaults: Lessons from a Decade in the MSP World | Chase Sims | [Read More](https://medium.com/p/8483a6719265) |
 | Mon, 05 Jan 2026 16:19:45 GMT | Security Didn’t Fail in 2025: Execution Did | Really Bad Security | [Read More](https://medium.com/p/13f634cc9535) |
 | Mon, 05 Jan 2026 16:18:38 GMT | 5 KQL Queries to Slash Your Containment Time in Microsoft Sentinel | Matt Swann | [Read More](https://medium.com/p/57bb81b52551) |
-| Mon, 05 Jan 2026 16:17:55 GMT | One Library to Parse Them All: Introducing ConfigExtractor | Ryan Samaroo | [Read More](https://medium.com/p/d0741cbe57e4) |
-| Mon, 05 Jan 2026 16:17:47 GMT | I Stopped Looking for Vulnerabilities and Started Looking for Trust | Iski | [Read More](https://medium.com/p/1584f46c8380) |
-| Mon, 05 Jan 2026 16:16:46 GMT | #15- Kali Linux — Forensics: Rewinding the Story After Exfiltration | SDNTechForum | [Read More](https://medium.com/p/aeb37d901cbc) |
-| Mon, 05 Jan 2026 16:15:18 GMT | ShinyHunters walked straight into Resecurity’s Honey Trap | Sudarshan | [Read More](https://medium.com/p/eb7222004eaa) |
