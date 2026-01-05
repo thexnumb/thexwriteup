@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 Jan 2026 19:30:17 GMT | The software ‘landscape’ is becoming an ‘ocean’ | Rob Manson | [Read More](https://medium.com/p/deff9e139452) |
+| Mon, 05 Jan 2026 19:27:47 GMT | Why Homemade WiFi Hacking Devices Keep Winning | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/d54ff7ea882a) |
+| Mon, 05 Jan 2026 19:24:43 GMT | Technical Investigation Report: Salat Stealer (Salat-family) Analysis | Augustine Sito | [Read More](https://medium.com/p/6da3950c7330) |
+| Mon, 05 Jan 2026 19:22:00 GMT | 2026: El Año de la Autonomía | Fabian Bozoglilanian | [Read More](https://medium.com/p/f8e667b7f2c5) |
+| Mon, 05 Jan 2026 19:18:08 GMT | Bypassing File Upload Whitelists to Achieve RCE | Yehya Hamdy Shehata | [Read More](https://medium.com/p/e237b46974a9) |
 | Mon, 05 Jan 2026 19:04:05 GMT | A Beginner’s Timeline: From Booking Your Course to Your First Shift | Jfk Tech | [Read More](https://medium.com/p/4b3ead251747) |
 | Mon, 05 Jan 2026 19:02:25 GMT | The Internet Is Not Safe for Children — And Most Parents Don’t Realize It | K. Middleton | [Read More](https://medium.com/p/9d9784d073b8) |
 | Mon, 05 Jan 2026 18:57:08 GMT | Part2: Drift, AI, and Accountability: Building Explainable Security Infrastructure | Salwan Mohamed | [Read More](https://medium.com/p/b419c95e27d3) |
@@ -25,6 +30,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 18:31:52 GMT | Mastering Web Applications: A Journey from URLs to HTTP Handshakes | Shamir Ajmir Khan | [Read More](https://medium.com/p/584a53366378) |
 | Mon, 05 Jan 2026 18:31:25 GMT | Automating Active Directory Account Disablement After Failed Login Attempts (Wazuh + Graylog +… | SOCFortress | [Read More](https://medium.com/p/9b639f719632) |
 | Mon, 05 Jan 2026 18:30:35 GMT | Edge AI Is the Next Big Hardware War | Logic Over Latte | [Read More](https://medium.com/p/406da7d2b01c) |
+| Mon, 05 Jan 2026 18:28:54 GMT | Brauchst du wirklich einen Passwortmanager? | Benjamin Lembcke | [Read More](https://medium.com/p/1fb6bc9c876c) |
 | Mon, 05 Jan 2026 18:12:04 GMT | I Abhor LinkedIn, Do You? | Briana Derry, MBA | [Read More](https://medium.com/p/158fb06631ec) |
 | Mon, 05 Jan 2026 18:10:34 GMT | Building an Extremely Vulnerable Windows 10 Lab: A Step-by-Step Guide (Bonus:Full PT with… | Andrey Pautov | [Read More](https://medium.com/p/9290d388744c) |
 | Mon, 05 Jan 2026 18:09:23 GMT | The IAM Blind Spot Everyone Is Ignoring: Non-Human Identities Are Taking Over | Sunnysinha | [Read More](https://medium.com/p/994a5b9f6136) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 14:31:01 GMT | Vector Databases Are Eating the World (And Why You Should Care) | Jitin Kayyala | [Read More](https://medium.com/p/c739538ccf0c) |
 | Mon, 05 Jan 2026 14:30:01 GMT | Migrating Legacy Windows Server 2008 Applications to Windows Server 2019/2022 | DiPAK KNVDL | [Read More](https://medium.com/p/9ab7a99206f2) |
 | Mon, 05 Jan 2026 14:26:13 GMT | Resolvendo vulnerabilidades complexas de subdependências do dependabot | Cleverson Franco | [Read More](https://medium.com/p/1a8260be25ea) |
-| Mon, 05 Jan 2026 14:24:26 GMT | Windows Internals — Part 1: Processes, Trust, and Why Windows Cares So Much | Hamood Naseer Al-Marhoubi | [Read More](https://medium.com/p/495e0f4afb4a) |
-| Mon, 05 Jan 2026 14:23:31 GMT | N8N Cloud vs Self-Hosting: Which Should You Choose in 2026? | Aman Singh | [Read More](https://medium.com/p/9cb69b82bf30) |
-| Mon, 05 Jan 2026 14:22:37 GMT | Types of Bad Actors in Information Systems | Ümit Berber | [Read More](https://medium.com/p/5aa6fc4a69b1) |
-| Mon, 05 Jan 2026 14:22:24 GMT | Writeup 2: Beacon Flooding — The Art of Wi-Fi Illusion | Nisarg Patel | [Read More](https://medium.com/p/f22db5af0bcb) |
-| Mon, 05 Jan 2026 14:22:13 GMT | Hi, I’m Tonmoy, a Professional Cybersecurity Expert & Certified Ethical Hacker with years of… | Ethical Hacker | [Read More](https://medium.com/p/a76a5332fd83) |
-| Mon, 05 Jan 2026 14:16:43 GMT | Security Architecture: Why It Must Survive Automation | Alaa Rahimi | [Read More](https://medium.com/p/44b83cc120bb) |
