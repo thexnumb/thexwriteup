@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 05 Jan 2026 20:42:28 GMT | Junk#2 | Ayush Singh | [Read More](https://medium.com/p/9db488dfc61e) |
+| Mon, 05 Jan 2026 20:33:15 GMT | Using burpsuite to perform an intruder attack. | Aadit Nair | [Read More](https://medium.com/p/7c8859bb7a3d) |
+| Mon, 05 Jan 2026 20:32:24 GMT | K8s-Dashboard-Manager: Zero Trust Access with Teleport | Omar Din | [Read More](https://medium.com/p/f38b0ad8b206) |
+| Mon, 05 Jan 2026 20:31:36 GMT | Key Differences Between Security Guarding and Door Supervisor Qualifications | Quiz Training | [Read More](https://medium.com/p/115488fd754f) |
+| Mon, 05 Jan 2026 20:29:45 GMT | Beyond the Toolset: Advanced Red Teaming via LotL and WMI Persistence | Guilherme Mury | [Read More](https://medium.com/p/5bb8fd4e0ced) |
+| Mon, 05 Jan 2026 20:22:44 GMT | Facing off with Gandalf Level 5 | Kimberly Ordel | [Read More](https://medium.com/p/2040a3d21b6f) |
 | Mon, 05 Jan 2026 20:20:20 GMT | Bölüm 1 — Katmanlı Blockchain Güvenlik Mimarisi | Tolunay Karaduman | [Read More](https://medium.com/p/ff455ece48c2) |
 | Mon, 05 Jan 2026 20:17:00 GMT | AresGPT: Decision-Making with Red Teaming Strategies | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/7de4a1dad59f) |
 | Mon, 05 Jan 2026 20:13:42 GMT | Trojanizer Explained: How Fake Installers Really Work | ghostyjoe | [Read More](https://medium.com/p/348c96b9c41e) |
@@ -45,6 +51,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 18:31:25 GMT | Automating Active Directory Account Disablement After Failed Login Attempts (Wazuh + Graylog +… | SOCFortress | [Read More](https://medium.com/p/9b639f719632) |
 | Mon, 05 Jan 2026 18:30:35 GMT | Edge AI Is the Next Big Hardware War | Logic Over Latte | [Read More](https://medium.com/p/406da7d2b01c) |
 | Mon, 05 Jan 2026 18:28:54 GMT | Brauchst du wirklich einen Passwortmanager? | Benjamin Lembcke | [Read More](https://medium.com/p/1fb6bc9c876c) |
+| Mon, 05 Jan 2026 18:20:00 GMT | How Prepared Is Your Company? A Realistic Cybersecurity Reality Check | Cordula Boeck | [Read More](https://medium.com/p/03e34cf29af5) |
 | Mon, 05 Jan 2026 18:12:04 GMT | I Abhor LinkedIn, Do You? | Briana Derry, MBA | [Read More](https://medium.com/p/158fb06631ec) |
 | Mon, 05 Jan 2026 18:10:34 GMT | Building an Extremely Vulnerable Windows 10 Lab: A Step-by-Step Guide (Bonus:Full PT with… | Andrey Pautov | [Read More](https://medium.com/p/9290d388744c) |
 | Mon, 05 Jan 2026 18:09:23 GMT | The IAM Blind Spot Everyone Is Ignoring: Non-Human Identities Are Taking Over | Sunnysinha | [Read More](https://medium.com/p/994a5b9f6136) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 15:19:46 GMT | Poderosos Puentes | Jenn Rodriguez | [Read More](https://medium.com/p/fde3abc76ced) |
 | Mon, 05 Jan 2026 15:18:02 GMT | Why Being Vulnerable Isn’t Actually Weak (And Why That Changes Everything) | Juan Pablo Viola | [Read More](https://medium.com/p/c1d2bec37c5a) |
 | Mon, 05 Jan 2026 15:17:06 GMT | SQL vs NoSQL Databases: Understanding the Difference the Right Way | Shreyash Mogaveera | [Read More](https://medium.com/p/e9b0c490d52f) |
-| Mon, 05 Jan 2026 15:16:55 GMT | Crypto Attackers Don’t Take Year-End Holidays | OKcontract Chainwall | [Read More](https://medium.com/p/f1e6ae44a518) |
-| Mon, 05 Jan 2026 15:16:22 GMT | Will 2026 Bring the ‘AI Apocalypse’? | Jeremiah Gander | [Read More](https://medium.com/p/c9a080e9d71e) |
-| Mon, 05 Jan 2026 15:06:32 GMT | A Safe Introduction to Payload Testing with Burp Suite Intruder (Sniper Mode) | Janmejaysinh ThinkLab | [Read More](https://medium.com/p/341acccd7f0a) |
-| Mon, 05 Jan 2026 15:06:11 GMT | CPTS: Beyond the Limit | Corey Farley | [Read More](https://medium.com/p/cc5960ab1eec) |
-| Mon, 05 Jan 2026 15:02:52 GMT | Why Cybersecurity Feels Expensive Until It’s Too Late | Digital Defense | [Read More](https://medium.com/p/9eaa6a658602) |
-| Mon, 05 Jan 2026 15:02:20 GMT | Networking Basics for Cybersecurity (Nexamos Series Pt 1) | Nexamos | [Read More](https://medium.com/p/77a25f1ee68b) |
-| Mon, 05 Jan 2026 15:00:17 GMT | Threat and Vulnerabilities Report-December 2025 | Loginsoft | [Read More](https://medium.com/p/1aedf7667ec5) |
