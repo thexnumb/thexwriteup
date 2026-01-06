@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 11:18:12 GMT | How Hexaview Builds Secure, Compliant AI Agents for Regulated Industries Using Agentforce | Ishika Verma | [Read More](https://medium.com/p/1084a5f5b54a) |
+| Tue, 06 Jan 2026 11:15:17 GMT | Why Python Matters in Cybersecurity: An Abstract Perspective | Anam Khan | [Read More](https://medium.com/p/0a48857fcfc4) |
+| Tue, 06 Jan 2026 11:05:47 GMT | Shadow AI: Why making people afraid doesn't make them secure | Charles Anthony Browne | [Read More](https://medium.com/p/cc0b2cf94087) |
+| Tue, 06 Jan 2026 11:05:37 GMT | # ️ Designing My First CTF: Lessons Learned and How You Can Build Yours | Roshan Rajbanshi | [Read More](https://medium.com/p/d67b90e0a4a1) |
+| Tue, 06 Jan 2026 11:02:28 GMT | Release Notes: AI Sigma Rules, Live Threat Landscape & 1,700+ New Detections | ANY.RUN | [Read More](https://medium.com/p/47dda932ffd1) |
+| Tue, 06 Jan 2026 11:00:28 GMT | Financial Fraud Detection: Protecting Businesses from Digital Threats | SADI AI | [Read More](https://medium.com/p/32d9360d8fd4) |
+| Tue, 06 Jan 2026 10:58:33 GMT | Best Toll-Free Service Provider in Vietnam | Ashutosh Mallik | [Read More](https://medium.com/p/2a0af3a47e17) |
+| Tue, 06 Jan 2026 10:56:15 GMT | AWS Pentesting for Beginners: Think Like a Cloud Attacker | Motasem Hamdan | [Read More](https://medium.com/p/1398a24779c8) |
+| Tue, 06 Jan 2026 10:55:54 GMT | Associative: A Premier Cross Platform Application Development Company in Pune, India | Chaitanyachavan | [Read More](https://medium.com/p/f0f4e7bcb8d1) |
+| Tue, 06 Jan 2026 10:54:19 GMT | How Cybersecurity Professionals Can Increase Their Income in 2026 (Not Their Salary) | EINITIAL24 | [Read More](https://medium.com/p/644dd486604c) |
+| Tue, 06 Jan 2026 10:53:46 GMT | Tales of CWE-384 and Android Apps | Yash Virendra Prajapati | [Read More](https://medium.com/p/e8a66e35f6df) |
+| Tue, 06 Jan 2026 10:53:22 GMT | Top 10 Cybersecurity Companies In Thailand 2026 | QualysecEurope | [Read More](https://medium.com/p/211854b0117d) |
+| Tue, 06 Jan 2026 10:51:05 GMT | Clash of Clans MOD APK | genzvnmod | [Read More](https://medium.com/p/978b4aa4c64d) |
+| Tue, 06 Jan 2026 10:48:01 GMT | Zig Signatures (Ed25519 and ECDSA) | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/e2d3984694ce) |
+| Tue, 06 Jan 2026 10:46:53 GMT | Yahoo Plus: When Cybercrime Becomes Murder | Oge Samuel Okonkwo | [Read More](https://medium.com/p/db67ffe5eab3) |
+| Tue, 06 Jan 2026 10:44:20 GMT | Decoding the Dahua 2449 Series: A Guide to HFW, HDW, AS, and IL Models | Tavan CCTV | [Read More](https://medium.com/p/998ace86d7bc) |
 | Tue, 06 Jan 2026 10:40:26 GMT | Navigating the Cyber Landscape: A Guide to Modern Security Roles | Laaguidi Yassine | [Read More](https://medium.com/p/f60112a739a2) |
 | Tue, 06 Jan 2026 10:40:23 GMT | Top 10 OSINT Tools for Fraud Detection & Risk Intelligence in 2026 — With Real-World Insights from… | Sheevum Goel | [Read More](https://medium.com/p/b80e78aea9ce) |
 | Tue, 06 Jan 2026 10:36:19 GMT | Otherworld Legends Mod Apk | Game4u | [Read More](https://medium.com/p/1635b0858dd1) |
@@ -98,19 +114,3 @@ The Engineering Foundation of Trust and Security in APIs | Sandali Jayaweera | [
 | Tue, 06 Jan 2026 06:59:22 GMT | Google Dorks 2025 Edition: 150+ Dorks & Tools for Ethical Hackers and Pentesters | Very Lazy Tech | [Read More](https://medium.com/p/20415d44859a) |
 | Tue, 06 Jan 2026 06:58:22 GMT | Total Security Solutions India: Building Safer Businesses with Advanced Electronic Security… | Ciss India | [Read More](https://medium.com/p/d5450cc03869) |
 | Tue, 06 Jan 2026 06:57:26 GMT | ​Почему запуск xStocks от STON.fi это важное событие? | Mazankwaran | [Read More](https://medium.com/p/b37a32339cad) |
-| Tue, 06 Jan 2026 06:47:35 GMT | Tai Badminton Blitz Mod APK Vo Han Tien | Apkpuredev | [Read More](https://medium.com/p/fb7a39bd56bf) |
-| Tue, 06 Jan 2026 06:44:14 GMT | Hands-On Android Security Testing in AndroGoat —Insecure Data Storage | Hammam Awis Zukimi | [Read More](https://medium.com/p/ca0673a4d753) |
-| Tue, 06 Jan 2026 06:43:44 GMT | How Malware Sneaks In Through Everyday Downloads | Ask IT Support | [Read More](https://medium.com/p/8a5a34d932e1) |
-| Tue, 06 Jan 2026 06:43:04 GMT | FortiGate ile Lab Ortamında Ağ Güvenliği Deneyimi | Nilay UYSAL | [Read More](https://medium.com/p/bb9ed95b2330) |
-| Tue, 06 Jan 2026 06:40:23 GMT | Boom Barrier System: Meaning, Working & Smart Security Benefits | Himoto | [Read More](https://medium.com/p/1ed125f571ba) |
-| Tue, 06 Jan 2026 06:35:52 GMT | Brave Browser Keeps Closing Tabs on You? You Aren’t Crazy. | Shashwat | [Read More](https://medium.com/p/16ec51102acc) |
-| Tue, 06 Jan 2026 06:32:53 GMT | The Role of Quantum Computing in Cybersecurity: Hype or Reality | Payoda Technology Inc | [Read More](https://medium.com/p/e81917fa55c9) |
-| Tue, 06 Jan 2026 06:27:02 GMT | One Post Away From Being Exposed | dedo | [Read More](https://medium.com/p/586c0d415f98) |
-| Tue, 06 Jan 2026 06:24:45 GMT | Beginner Mistakes to Avoid in Bug Bounty (So You Don’t Quit Too Early) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/b1c4127eaac5) |
-| Tue, 06 Jan 2026 06:23:07 GMT | Cyber Insurance Underwriting: Navigating Challenges and Opportunities in an Era of Evolving Threats… | Ignatius Wang | [Read More](https://medium.com/p/fcbbd554612e) |
-| Tue, 06 Jan 2026 06:19:15 GMT | PANDUAN LENGKAP: MEMBANGUN ACTIVE DIRECTORY LAB | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/bfa328b0610f) |
-| Tue, 06 Jan 2026 06:16:25 GMT | Browser-Based kubectl Access: Managing Kubernetes Without Bastion Hosts or Heavy Tools | Zs Robert | [Read More](https://medium.com/p/1b6c939ce8ee) |
-| Tue, 06 Jan 2026 06:16:07 GMT | Why Cybersecurity in Healthcare Matters More Today Than Ever | Yash Patel | [Read More](https://medium.com/p/1da074c8bdb0) |
-| Tue, 06 Jan 2026 06:14:47 GMT | Passwords Didn’t Fail All at Once. They Just Stopped Making Sense. | CodeWithYog | [Read More](https://medium.com/p/e9699062d6db) |
-| Tue, 06 Jan 2026 06:14:06 GMT | Building Cyber Confidence Across Enterprise Networks | Kadhijahafiya | [Read More](https://medium.com/p/ad934001ca99) |
-| Tue, 06 Jan 2026 06:11:49 GMT | Data Backup on Windows Pro, File History & Backup Types: A Full VirtualBox Lab Walkthrough. | Declan | [Read More](https://medium.com/p/527a4b521f5e) |
