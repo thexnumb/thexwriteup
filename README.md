@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 20:42:20 GMT | Venezuela’s Port Collapse Is a Security Crisis, Not Just an Infrastructure Problem | Heesham Naji | [Read More](https://medium.com/p/2a3aa3b3a5ba) |
+| Tue, 06 Jan 2026 20:41:09 GMT | How a Late-Night Scroll Turned Into an Unexpected XSS Discovery | Ashutosh Anand | [Read More](https://medium.com/p/bcfcf4014958) |
+| Tue, 06 Jan 2026 20:31:25 GMT | How to Create a Cybersecurity Home Lab: A Beginner Tutorial for Students | Dhyaandk | [Read More](https://medium.com/p/fa86f1f053cd) |
+| Tue, 06 Jan 2026 20:27:18 GMT | How a Simple HPP Bug Earned $700 on Twitter | ab.infosec | [Read More](https://medium.com/p/e5bb3a356c05) |
+| Tue, 06 Jan 2026 20:26:49 GMT | A Smarter Way to Store Sensitive Data | One Step Ahead | [Read More](https://medium.com/p/c20f73a2b70c) |
 | Tue, 06 Jan 2026 20:16:02 GMT | Cracking “Blog”: A Deep Dive into WordPress Exploitation and SUID Binary Analysis | IshhIshneet | [Read More](https://medium.com/p/06ff56bebd95) |
+| Tue, 06 Jan 2026 20:12:05 GMT | Understanding Persistence Techniques in Penetration Testing | Jay Vanyi | [Read More](https://medium.com/p/4428c419fd4c) |
 | Tue, 06 Jan 2026 20:09:49 GMT | They Don’t Hack In Anymore. They Log In: Why Identity Sprawl Is Blinding the SOC | Denny Roger | [Read More](https://medium.com/p/d16290fc46f3) |
 | Tue, 06 Jan 2026 20:09:11 GMT | When Antivirus Fails: Detecting C2 Activity with Wazuh and Security Onion | Liam smydo | [Read More](https://medium.com/p/cd6211ab17a1) |
 | Tue, 06 Jan 2026 20:08:32 GMT | Vulnerability Data Enrichment for CVE Records: 263 CNAs on the Enrichment Recognition List for… | CVE Program Blog | [Read More](https://medium.com/p/06596aa34b80) |
@@ -95,6 +101,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 Jan 2026 15:38:11 GMT | From Alerts to Cases with MCP, TheHive, and Wazuh | Yash Patel | [Read More](https://medium.com/p/1b618b5d8ad2) |
 | Tue, 06 Jan 2026 15:37:42 GMT | Tcpdump: Seeing the Network the Way It Really Works | Little_Sun4lower | [Read More](https://medium.com/p/13f52805b0dc) |
 | Tue, 06 Jan 2026 15:30:08 GMT | Evil Twin Attacks — When Your Network Betrays You | Nisarg Patel | [Read More](https://medium.com/p/b253a6d6d7dc) |
+| Tue, 06 Jan 2026 15:29:55 GMT | Lab: Web cache poisoning via a fat GET request - Portswigger | L4V4NY4  AGR3 | [Read More](https://medium.com/p/26092ca92558) |
 | Tue, 06 Jan 2026 15:24:14 GMT | Door Wide Open: One crook, 50 companies, and a password problem | Sudarshan | [Read More](https://medium.com/p/6225651ec5fb) |
 | Tue, 06 Jan 2026 15:17:29 GMT | Garage Door Security Tips for Every Homeowner | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/2fbdb67efef8) |
 | Tue, 06 Jan 2026 15:14:03 GMT | GhostPairing: The New Silent WhatsApp Hijack Scam Putting Your Chats at Risk. | eL Njas!™ | [Read More](https://medium.com/p/67bec5d51e13) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 Jan 2026 15:03:44 GMT | Managing a Home Lab with Portainer, PiHole, and Nginx-Proxy | Josh Beck | [Read More](https://medium.com/p/ec70324c4584) |
 | Tue, 06 Jan 2026 15:02:29 GMT | Cyber Briefing: 2025.01.06 | CyberMaterial | [Read More](https://medium.com/p/9dee509f9997) |
 | Tue, 06 Jan 2026 15:01:22 GMT | Here Are the Five Top Security Threats from 2025 | Financial Poise | [Read More](https://medium.com/p/de74415d9d47) |
-| Tue, 06 Jan 2026 15:00:36 GMT | From Ransomware to Sabotage: Why Europe Is Now a Live Cyber Battlefield | Abatis ABTU | [Read More](https://medium.com/p/023119ad6c2f) |
-| Tue, 06 Jan 2026 14:59:24 GMT | Cybersecurity in the Age of AI: Enterprises will need to buy new software in the Agentic Era | Clementine Gazay | [Read More](https://medium.com/p/1d76dc0f7222) |
-| Tue, 06 Jan 2026 14:32:45 GMT | How Google Search Results Can Trap You With a Poisoned ChatGPT Tutorial (10 mins Defense Plan) | Mohamed Bakry | [Read More](https://medium.com/p/98d5ac83da3d) |
-| Tue, 06 Jan 2026 14:32:44 GMT | Capturing Screens and Injecting Keyloggers Using MITM Framework: A Step-by-Step Guide | Vignesh R | [Read More](https://medium.com/p/0aa83b56d462) |
-| Tue, 06 Jan 2026 14:31:25 GMT | How to Tell if svchost is Loading Malicious DLLs | Huzefa dahodwala | [Read More](https://medium.com/p/6818222410c8) |
-| Tue, 06 Jan 2026 14:29:10 GMT | The Silent Risk of AI Model Reuse Across Plants | Muhammad Ali Khan | [Read More](https://medium.com/p/b71c9547ee15) |
-| Tue, 06 Jan 2026 14:21:28 GMT | Announcing Our Investment in Ciphero | Peri Ehlman | [Read More](https://medium.com/p/ac1da0e3c662) |
