@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 14:32:45 GMT | How Google Search Results Can Trap You With a Poisoned ChatGPT Tutorial (10 mins Defense Plan) | Mohamed Bakry | [Read More](https://medium.com/p/98d5ac83da3d) |
+| Tue, 06 Jan 2026 14:32:44 GMT | Capturing Screens and Injecting Keyloggers Using MITM Framework: A Step-by-Step Guide | Vignesh R | [Read More](https://medium.com/p/0aa83b56d462) |
+| Tue, 06 Jan 2026 14:31:25 GMT | How to Tell if svchost is Loading Malicious DLLs | Huzefa dahodwala | [Read More](https://medium.com/p/6818222410c8) |
+| Tue, 06 Jan 2026 14:29:10 GMT | The Silent Risk of AI Model Reuse Across Plants | Muhammad Ali Khan | [Read More](https://medium.com/p/b71c9547ee15) |
+| Tue, 06 Jan 2026 14:21:28 GMT | Announcing Our Investment in Ciphero | Peri Ehlman | [Read More](https://medium.com/p/ac1da0e3c662) |
+| Tue, 06 Jan 2026 14:19:58 GMT | Homograph Attacks: Why You Can No Longer Trust Your Own Eyes | UncovAI | [Read More](https://medium.com/p/6a882011f446) |
+| Tue, 06 Jan 2026 14:19:19 GMT | Why Security Needs A Unified AI-Native Risk Platform | Moni | [Read More](https://medium.com/p/ee70039853be) |
 | Tue, 06 Jan 2026 14:07:04 GMT | Building Custom Threat Detection Rules in AWS Using EventBridge and CloudTrail | Davebhargavi | [Read More](https://medium.com/p/1b38f54ae487) |
+| Tue, 06 Jan 2026 14:06:58 GMT | Sicherheitsdienst Berlin Zuverlässige professionelle Sicherheit | Binteazam | [Read More](https://medium.com/p/acef7e5adc9a) |
 | Tue, 06 Jan 2026 14:06:41 GMT | Azure Landing Zone Explained: Building a Secure and Scalable Cloud Foundation in 2026 | Techridge Solutions | [Read More](https://medium.com/p/379a13096f38) |
 | Tue, 06 Jan 2026 14:02:29 GMT | Why Modern Web Apps Fail at Authorization Long Before Exploitation Begins | Tyreek Haynes | [Read More](https://medium.com/p/2eb6d0890669) |
 | Tue, 06 Jan 2026 14:02:28 GMT | Containment vs Control: Why Agency Needs a Ward, and Accountability Needs a Principal | Paul Knowles | [Read More](https://medium.com/p/b9e681b9c1ff) |
@@ -106,11 +114,3 @@ The Engineering Foundation of Trust and Security in APIs | Sandali Jayaweera | [
 | Tue, 06 Jan 2026 10:00:41 GMT | Passkeys Aren’t the Security Dream After All | Crystal Crowder | [Read More](https://medium.com/p/f24fe915cb73) |
 | Tue, 06 Jan 2026 10:00:15 GMT | Implementing ISO 27001, 27701, and 42001? | Adeoluwa Obadofin | [Read More](https://medium.com/p/3da540edc2cd) |
 | Tue, 06 Jan 2026 09:59:07 GMT | Best Fire and Safety Company in Kerala (2026): How to Choose the Right One | Berkshire Hathaway | [Read More](https://medium.com/p/f0027ff72389) |
-| Tue, 06 Jan 2026 09:57:48 GMT | Attacks on the OSI Model | CybeCloud | [Read More](https://medium.com/p/0bc6474b032f) |
-| Tue, 06 Jan 2026 09:56:26 GMT | API Keys vs JWT vs OAuth: The Complete Decision Framework | Yash Batra | [Read More](https://medium.com/p/3e434beca42a) |
-| Tue, 06 Jan 2026 09:54:00 GMT | The Best Cheat for Foxhole: Melonity Foxhole Review | Mark Hertz | [Read More](https://medium.com/p/1986126c2754) |
-| Tue, 06 Jan 2026 09:47:38 GMT | Why VAPT Services in Indonesia Are Essential for Digital Risk Management | Prakash Factosecure | [Read More](https://medium.com/p/f254bca89109) |
-| Tue, 06 Jan 2026 09:42:34 GMT | The Future of Cybersecurity: Key Trends Shaping 2026 and Beyond | Medora Grasser | [Read More](https://medium.com/p/58a288631bb4) |
-| Tue, 06 Jan 2026 09:38:35 GMT | BYOD in 2026: Balancing Flexibility and Security in the Modern Workplace | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/769954226fb8) |
-| Tue, 06 Jan 2026 09:37:51 GMT | TryHackMe — Commited | FAIZ AIDIL BAIHAQI | [Read More](https://medium.com/p/5c9c9aed1ca8) |
-| Tue, 06 Jan 2026 09:36:31 GMT | AI Security Newsletter — December 2025 | Tal Eliyahu | [Read More](https://medium.com/p/f75804d29f78) |
