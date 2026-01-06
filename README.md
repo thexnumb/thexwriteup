@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 07:44:04 GMT | Weekly Threat Intelligence Report 29 Dec 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/a7ef9b61233e) |
+| Tue, 06 Jan 2026 07:39:30 GMT | Bypassing DOCTYPE Filters: XInclude XXE Exploitation | Tanmay Bhattacharjee | [Read More](https://medium.com/p/251bccbd0463) |
+| Tue, 06 Jan 2026 07:31:47 GMT | Why Most Async Code Passes Tests but Can Fail in Production | Rahulsalvi2k7 | [Read More](https://medium.com/p/3ce469592b1b) |
+| Tue, 06 Jan 2026 07:28:15 GMT | 2026 New Chapter: From Web Dev to Cybersecurity | Ibashisha A. Marbaniang | [Read More](https://medium.com/p/a53ed9d6c444) |
+| Tue, 06 Jan 2026 07:27:21 GMT | The Silent Guardian in Your Living Room: Why ‘Serverless’ is the Future of Privacy | SAYCOIN | [Read More](https://medium.com/p/949ba8864d73) |
+| Tue, 06 Jan 2026 07:27:15 GMT | How Capstone Projects in Cybersecurity Lead to Direct Job Offers in USA | Hazel Gomez | [Read More](https://medium.com/p/93886ac09396) |
+| Tue, 06 Jan 2026 07:26:59 GMT | AI Security Threats You Should Know | Sharif Hassan | [Read More](https://medium.com/p/049eede49439) |
+| Tue, 06 Jan 2026 07:19:17 GMT | ArcSource Consulting | ArcSource Consulting | [Read More](https://medium.com/p/c8116c211687) |
+| Tue, 06 Jan 2026 07:15:15 GMT | TryHackMe Bash Scripting | Ufuk Yaman | [Read More](https://medium.com/p/704d98a26840) |
+| Tue, 06 Jan 2026 07:14:34 GMT | The Skins We Outgrow | Sujata | [Read More](https://medium.com/p/454402b2e371) |
 | Tue, 06 Jan 2026 07:12:32 GMT | GROUND ZERO: WEB3 SPOT-NODE PLATFORM WHITE NOTE | Jon B | [Read More](https://medium.com/p/56349874f707) |
 | Tue, 06 Jan 2026 07:12:04 GMT | Acronis Cyber Protection in Sharjah — Complete Security, Backup & Recovery for Modern Businesses | costtocost | [Read More](https://medium.com/p/0f17314a7446) |
 | Tue, 06 Jan 2026 07:10:00 GMT | Mac Antivirus Keeps WhatsApp on Mobile Free from Cyber Trouble | Siyanoav | [Read More](https://medium.com/p/5321ee5ac391) |
@@ -104,13 +114,3 @@ Organization: Codevirus… | Ankit rai | [Read More](https://medium.com/p/f640a5
 | Mon, 05 Jan 2026 23:35:45 GMT | No Missiles. No Troops. Still an Attack. | Khushdeep Sharma | [Read More](https://medium.com/p/92799e74507b) |
 | Mon, 05 Jan 2026 23:30:41 GMT | What We Tell Others, and What We Do Ourselves | AfterRainWrites | [Read More](https://medium.com/p/34eefa507a77) |
 | Mon, 05 Jan 2026 23:06:30 GMT | Tryhackme:SimpleCTF Writeup | Sacramar | [Read More](https://medium.com/p/05ffadf9ceea) |
-| Mon, 05 Jan 2026 22:54:09 GMT | A Practical Guide to Building Solid Back-End APIs | Muhammad Qitmeer | [Read More](https://medium.com/p/dc2224db4038) |
-| Mon, 05 Jan 2026 22:36:44 GMT | IT Managed Services in Fontana, California Help Minimize the Financial Fallout of Cyberattacks | Zeta Sky | [Read More](https://medium.com/p/11aa8d2b562d) |
-| Mon, 05 Jan 2026 22:28:30 GMT | The Top 5 Emerging Cyber Threat Issues for 2026 — And What 2020–2025 Taught Us About the Next Wave… | gm0 | [Read More](https://medium.com/p/208c5e639aa6) |
-| Mon, 05 Jan 2026 22:15:11 GMT | How a Simple GET Request Led to a $500 CSRF Bounty‍ | ab.infosec | [Read More](https://medium.com/p/c927a6b216ef) |
-| Mon, 05 Jan 2026 22:02:46 GMT | Log-to-Action | Jake Berkowsky | [Read More](https://medium.com/p/862e4a0da54d) |
-| Mon, 05 Jan 2026 21:48:14 GMT | Why Most Developers Struggle to Get Jobs and How to Actually Fix It | Sheikh Mubashir | [Read More](https://medium.com/p/c6009bdb6ad0) |
-| Mon, 05 Jan 2026 21:46:54 GMT | Securing AI & LLM Backends: OWASP Top 10 for LLMs Without the Hype | The Cache Cowgirl | [Read More](https://medium.com/p/6d47cdd01b78) |
-| Mon, 05 Jan 2026 21:44:45 GMT | SQL injection UNION attack, determining the number of columns returned by the query | scriptpy | [Read More](https://medium.com/p/b610ea09802a) |
-| Mon, 05 Jan 2026 21:38:01 GMT | Reducing Device Correlation on ESP32 Networks (Part 2) | Tyreek Haynes | [Read More](https://medium.com/p/739583a184f6) |
-| Mon, 05 Jan 2026 21:24:12 GMT | Port of Secrets — SSRF Exploitation & Internal Service Discovery | AMAN KUMAR | [Read More](https://medium.com/p/7901374eb09c) |
