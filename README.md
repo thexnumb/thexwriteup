@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 15:17:29 GMT | Garage Door Security Tips for Every Homeowner | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/2fbdb67efef8) |
+| Tue, 06 Jan 2026 15:14:03 GMT | GhostPairing: The New Silent WhatsApp Hijack Scam Putting Your Chats at Risk. | eL Njas!™ | [Read More](https://medium.com/p/67bec5d51e13) |
+| Tue, 06 Jan 2026 15:13:20 GMT | From Cybersecurity Budgets to Clinical Risk: Applying Machine Learning to Real-World Decision… | Md Maksudul Amin | [Read More](https://medium.com/p/05857ff5da55) |
+| Tue, 06 Jan 2026 15:09:21 GMT | “Savior of Israel”? | M.BROSH | [Read More](https://medium.com/p/09bcfc8fe782) |
+| Tue, 06 Jan 2026 15:07:49 GMT | 殭屍漏洞的逆襲：深度解析 Fortinet SSL VPN CVE-2020–12812 於 2025 年末的捲土重來與台灣資安防禦啟示錄 | p1x06u9 | [Read More](https://medium.com/p/13bd6ccf3710) |
+| Tue, 06 Jan 2026 15:04:52 GMT | QRadar SIEM Explained: What You Need to Know | Ankit Bandu Jungade | [Read More](https://medium.com/p/6b2247d53844) |
+| Tue, 06 Jan 2026 15:03:44 GMT | Managing a Home Lab with Portainer, PiHole, and Nginx-Proxy | Josh Beck | [Read More](https://medium.com/p/ec70324c4584) |
+| Tue, 06 Jan 2026 15:02:29 GMT | Cyber Briefing: 2025.01.06 | CyberMaterial | [Read More](https://medium.com/p/9dee509f9997) |
+| Tue, 06 Jan 2026 15:01:22 GMT | Here Are the Five Top Security Threats from 2025 | Financial Poise | [Read More](https://medium.com/p/de74415d9d47) |
+| Tue, 06 Jan 2026 15:00:36 GMT | From Ransomware to Sabotage: Why Europe Is Now a Live Cyber Battlefield | Abatis ABTU | [Read More](https://medium.com/p/023119ad6c2f) |
+| Tue, 06 Jan 2026 14:59:24 GMT | Cybersecurity in the Age of AI: Enterprises will need to buy new software in the Agentic Era | Clementine Gazay | [Read More](https://medium.com/p/1d76dc0f7222) |
 | Tue, 06 Jan 2026 14:32:45 GMT | How Google Search Results Can Trap You With a Poisoned ChatGPT Tutorial (10 mins Defense Plan) | Mohamed Bakry | [Read More](https://medium.com/p/98d5ac83da3d) |
 | Tue, 06 Jan 2026 14:32:44 GMT | Capturing Screens and Injecting Keyloggers Using MITM Framework: A Step-by-Step Guide | Vignesh R | [Read More](https://medium.com/p/0aa83b56d462) |
 | Tue, 06 Jan 2026 14:31:25 GMT | How to Tell if svchost is Loading Malicious DLLs | Huzefa dahodwala | [Read More](https://medium.com/p/6818222410c8) |
@@ -101,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 Jan 2026 10:28:16 GMT | Berlin in the Dark — And Manifesto That Raises More Questions Than Answers | Dr. Hendrik Schnack | [Read More](https://medium.com/p/ec348ed8b5c1) |
 | Tue, 06 Jan 2026 10:27:14 GMT | Ethical Hacking Career Options for Freshers | Hadiyayazeen | [Read More](https://medium.com/p/89ca1d23e709) |
 | Tue, 06 Jan 2026 10:22:45 GMT | What Recruiters Look for in a Full Stack Developer Portfolio | NS Academy | [Read More](https://medium.com/p/a3b604ee8cf7) |
-| Tue, 06 Jan 2026 10:20:29 GMT | A Ghana Bank Hit & Africa’s Digital Defenses | O. J. Okpabi | [Read More](https://medium.com/p/cf6fef49ddcd) |
-| Tue, 06 Jan 2026 10:12:51 GMT | University of Phoenix Heist & 3.5 Million Lives Through Oracle Flaw | O. J. Okpabi | [Read More](https://medium.com/p/ab878b9eb277) |
-| Tue, 06 Jan 2026 10:08:55 GMT | CTEM Playbook: Reduce Risk Before Attackers Find It | Chitrakshi | [Read More](https://medium.com/p/b9d6d94a614d) |
-| Tue, 06 Jan 2026 10:07:33 GMT | Phishing from the Defensive Side: Seeing What the Attacker Hopes You Miss
-(Final Article in the… | Cyber Timi | [Read More](https://medium.com/p/a2cd35bfefac) |
-| Tue, 06 Jan 2026 10:07:14 GMT | Disk Partitioning — From Zero to Mastery | SWAN | [Read More](https://medium.com/p/9d4827006d80) |
-| Tue, 06 Jan 2026 10:02:42 GMT | Phase 02 Begins Building the Secure Business Management System | CYBER CYMRU | [Read More](https://medium.com/p/8fd35a23bd75) |
-| Tue, 06 Jan 2026 10:02:35 GMT | Three-Legged Authentication: 
-The Engineering Foundation of Trust and Security in APIs | Sandali Jayaweera | [Read More](https://medium.com/p/6a4389278d85) |
-| Tue, 06 Jan 2026 10:00:51 GMT | Healthcare Is Failing Patients on Data Security, and the Breaches Prove It | Travis Ray Caverhill | [Read More](https://medium.com/p/98ffe5504f61) |
-| Tue, 06 Jan 2026 10:00:41 GMT | Passkeys Aren’t the Security Dream After All | Crystal Crowder | [Read More](https://medium.com/p/f24fe915cb73) |
-| Tue, 06 Jan 2026 10:00:15 GMT | Implementing ISO 27001, 27701, and 42001? | Adeoluwa Obadofin | [Read More](https://medium.com/p/3da540edc2cd) |
-| Tue, 06 Jan 2026 09:59:07 GMT | Best Fire and Safety Company in Kerala (2026): How to Choose the Right One | Berkshire Hathaway | [Read More](https://medium.com/p/f0027ff72389) |
