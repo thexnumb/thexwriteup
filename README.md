@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 19:34:43 GMT | Solving Crack the Gate 1 picoCTF by CMU Africa | Sudi Mukora | [Read More](https://medium.com/p/2abad53243c9) |
+| Tue, 06 Jan 2026 19:28:42 GMT | Planning for Post-Quantum Cryptography: From Policy Mandate to Practical Action — The Australian… | SOCFortress | [Read More](https://medium.com/p/cefb22ff7d0b) |
+| Tue, 06 Jan 2026 19:28:18 GMT | ️ Defensive / Blue-Team Angle | ghostyjoe | [Read More](https://medium.com/p/0b9074541fd7) |
+| Tue, 06 Jan 2026 19:26:37 GMT | The Coming Cryptography Shift: Why Cybersecurity & GRC Will Define the Next Decade | Astro's world | [Read More](https://medium.com/p/46b66d224261) |
+| Tue, 06 Jan 2026 19:23:33 GMT | How a WhatsApp Message Travels Across the Internet | Manav Nagdukiya | [Read More](https://medium.com/p/44c701d5f723) |
 | Tue, 06 Jan 2026 19:03:10 GMT | XXE Bypass CTF Challange (Bugforge) | blackm4c | [Read More](https://medium.com/p/120d56b7e9a5) |
 | Tue, 06 Jan 2026 18:59:00 GMT | Brooklyn Nine Nine walkthrough | Crystal_Cascade | [Read More](https://medium.com/p/753bf8598897) |
+| Tue, 06 Jan 2026 18:56:39 GMT | Learning from the old Exynos Trustlet bug | Aung Khant Myo | [Read More](https://medium.com/p/60e61fd87e30) |
 | Tue, 06 Jan 2026 18:49:50 GMT | La loi 05–20 | Fadwa Darfaoui | [Read More](https://medium.com/p/0a953099aba1) |
 | Tue, 06 Jan 2026 18:47:49 GMT | Model Context Protocol (MCP) — Part 1: Why It’s Powerful and Why It’s Risky | Shishirhebbar | [Read More](https://medium.com/p/a65d2023405a) |
 | Tue, 06 Jan 2026 18:47:03 GMT | The Art of Being Lazy | Matthew Stevens | [Read More](https://medium.com/p/8d8aa5c4f658) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 Jan 2026 14:02:28 GMT | Containment vs Control: Why Agency Needs a Ward, and Accountability Needs a Principal | Paul Knowles | [Read More](https://medium.com/p/b9e681b9c1ff) |
 | Tue, 06 Jan 2026 14:02:28 GMT | Most People Hear About Quantum Computing — Few Understand How It Actually Works | zakieandiko | [Read More](https://medium.com/p/2cf13eb10f59) |
 | Tue, 06 Jan 2026 14:00:54 GMT | OPSEC: Only for Hacking | Nexamos | [Read More](https://medium.com/p/986e9c313070) |
-| Tue, 06 Jan 2026 14:00:25 GMT | Your Code Dependencies Stole Your Secrets: Strengthening a Modern NPM Supply Chain (Part 1) | Anurag Mewar | [Read More](https://medium.com/p/a8096cdbd886) |
-| Tue, 06 Jan 2026 13:56:16 GMT | Case File: 0x04 — Operation “Blackout & Backdoors” | The Knight | [Read More](https://medium.com/p/005640fc98db) |
-| Tue, 06 Jan 2026 13:41:11 GMT | Why Proactive VAPT Is the Foundation of Cyber Risk Management in the UAE | ANSI Technologies | [Read More](https://medium.com/p/79fb62817679) |
-| Tue, 06 Jan 2026 13:33:45 GMT | Why Frontend Bugs Only Appear After Deployment | Kevin - MERN Stack Developer | [Read More](https://medium.com/p/0404b30bcf58) |
-| Tue, 06 Jan 2026 13:32:47 GMT | From Partner Search to Pig Butchering: Part 1 | Cyb3rhawk | [Read More](https://medium.com/p/72466f0b577f) |
-| Tue, 06 Jan 2026 13:32:47 GMT | Managing the Agentic Blast Radius in Multi-Agent Systems(OWASP 2026) | Parminder Singh | [Read More](https://medium.com/p/7f2a84337d8d) |
