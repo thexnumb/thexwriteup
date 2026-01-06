@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 10:12:51 GMT | University of Phoenix Heist & 3.5 Million Lives Through Oracle Flaw | O. J. Okpabi | [Read More](https://medium.com/p/ab878b9eb277) |
+| Tue, 06 Jan 2026 10:08:55 GMT | CTEM Playbook: Reduce Risk Before Attackers Find It | Chitrakshi | [Read More](https://medium.com/p/b9d6d94a614d) |
+| Tue, 06 Jan 2026 10:07:33 GMT | Phishing from the Defensive Side: Seeing What the Attacker Hopes You Miss
+(Final Article in the… | Cyber Timi | [Read More](https://medium.com/p/a2cd35bfefac) |
+| Tue, 06 Jan 2026 10:07:14 GMT | Disk Partitioning — From Zero to Mastery | SWAN | [Read More](https://medium.com/p/9d4827006d80) |
+| Tue, 06 Jan 2026 10:02:42 GMT | Phase 02 Begins Building the Secure Business Management System | CYBER CYMRU | [Read More](https://medium.com/p/8fd35a23bd75) |
+| Tue, 06 Jan 2026 10:02:35 GMT | Three-Legged Authentication: 
+The Engineering Foundation of Trust and Security in APIs | Sandali Jayaweera | [Read More](https://medium.com/p/6a4389278d85) |
+| Tue, 06 Jan 2026 10:00:51 GMT | Healthcare Is Failing Patients on Data Security, and the Breaches Prove It | Travis Ray Caverhill | [Read More](https://medium.com/p/98ffe5504f61) |
+| Tue, 06 Jan 2026 10:00:41 GMT | Passkeys Aren’t the Security Dream After All | Crystal Crowder | [Read More](https://medium.com/p/f24fe915cb73) |
+| Tue, 06 Jan 2026 10:00:15 GMT | Implementing ISO 27001, 27701, and 42001? | Adeoluwa Obadofin | [Read More](https://medium.com/p/3da540edc2cd) |
+| Tue, 06 Jan 2026 09:59:07 GMT | Best Fire and Safety Company in Kerala (2026): How to Choose the Right One | Berkshire Hathaway | [Read More](https://medium.com/p/f0027ff72389) |
+| Tue, 06 Jan 2026 09:57:48 GMT | Attacks on the OSI Model | CybeCloud | [Read More](https://medium.com/p/0bc6474b032f) |
+| Tue, 06 Jan 2026 09:56:26 GMT | API Keys vs JWT vs OAuth: The Complete Decision Framework | Yash Batra | [Read More](https://medium.com/p/3e434beca42a) |
+| Tue, 06 Jan 2026 09:54:00 GMT | The Best Cheat for Foxhole: Melonity Foxhole Review | Mark Hertz | [Read More](https://medium.com/p/1986126c2754) |
+| Tue, 06 Jan 2026 09:47:38 GMT | Why VAPT Services in Indonesia Are Essential for Digital Risk Management | Prakash Factosecure | [Read More](https://medium.com/p/f254bca89109) |
 | Tue, 06 Jan 2026 09:42:34 GMT | The Future of Cybersecurity: Key Trends Shaping 2026 and Beyond | Medora Grasser | [Read More](https://medium.com/p/58a288631bb4) |
 | Tue, 06 Jan 2026 09:38:35 GMT | BYOD in 2026: Balancing Flexibility and Security in the Modern Workplace | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/769954226fb8) |
 | Tue, 06 Jan 2026 09:37:51 GMT | TryHackMe — Commited | FAIZ AIDIL BAIHAQI | [Read More](https://medium.com/p/5c9c9aed1ca8) |
@@ -98,19 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 Jan 2026 05:34:21 GMT | Top 10 IT Companies in Hyderabad: Updated List, Salaries & Career Guide | ESSEIndia Insights | [Read More](https://medium.com/p/91ba1db75a63) |
 | Tue, 06 Jan 2026 05:31:50 GMT | The Recon Mistake 90% of Hackers Make ‍ | Vipul Sonule | [Read More](https://medium.com/p/52723b69b154) |
 | Tue, 06 Jan 2026 05:30:12 GMT | Build Core Cyber Defense Skills — Ethical Hacking Foundation Certification | Adhiraj Kasabe | [Read More](https://medium.com/p/e2a4f5179e82) |
-| Tue, 06 Jan 2026 05:30:00 GMT | (CSP) Common Bypass Techniques fo | Rishav anand | [Read More](https://medium.com/p/c890144e4432) |
-| Tue, 06 Jan 2026 05:29:45 GMT | The 4 Core Components of Data Security Management in 2025 (and Why They Matter) | Aslamsyed | [Read More](https://medium.com/p/98754554e823) |
-| Tue, 06 Jan 2026 05:29:09 GMT | ☕ Master CISSP Domain 4: 40 Coffee Shot Questions (Part 1 of 2) | Pushpak Sharma | [Read More](https://medium.com/p/ed07e34d7114) |
-| Tue, 06 Jan 2026 05:14:51 GMT | Why Tech Quizzes Matter More Than Degrees in 2026
-Author: Ankit Rai
-Organization: Codevirus… | Ankit rai | [Read More](https://medium.com/p/f640a5e98ecf) |
-| Tue, 06 Jan 2026 05:11:58 GMT | My first bounty from Hackerone - $100 Code Injection on AI bot | StvRoot | [Read More](https://medium.com/p/620a7e3f2ba4) |
-| Tue, 06 Jan 2026 04:59:55 GMT | Bypass OTP 4 Digit Menggunakan Burpsuite | Agil Jibrin | [Read More](https://medium.com/p/cbc89078512a) |
-| Tue, 06 Jan 2026 04:47:58 GMT | What are cookies? | Hari Sharma | [Read More](https://medium.com/p/283d127ad96b) |
-| Tue, 06 Jan 2026 04:47:34 GMT | From Obfuscated JS to Valid Invite Code: A Real‑World Walkthrough | virexil.null | [Read More](https://medium.com/p/bc85d36c90ac) |
-| Tue, 06 Jan 2026 04:45:31 GMT | The Silent Guardian: A Deep Dive into Fail2ban for Server Hardening | Awais Akram | [Read More](https://medium.com/p/3a3879e13bad) |
-| Tue, 06 Jan 2026 04:36:55 GMT | Vulnerability Disclosure -Business logic: Application Restriction Bypass @ Zoho Application Control… | Kartik Lalan | [Read More](https://medium.com/p/a0ac15960923) |
-| Tue, 06 Jan 2026 04:35:05 GMT | The Evolution of Single Sign-On (SSO): From Password Fatigue to Zero Trust | Geeky Vartika | [Read More](https://medium.com/p/43d63ca85024) |
-| Tue, 06 Jan 2026 04:32:44 GMT | Detection Engineering: Solving Alert Fatigue at the Source | Shubh Gupta | [Read More](https://medium.com/p/a49a19bf1dab) |
-| Tue, 06 Jan 2026 04:32:27 GMT | System Information | Hendra Maulana | [Read More](https://medium.com/p/08c37e4b145e) |
-| Tue, 06 Jan 2026 04:31:09 GMT | MikroTik site to site IPsec VPN setup | Ernest Marvin Franco | [Read More](https://medium.com/p/d8d50d1de6a6) |
