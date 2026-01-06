@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 19:03:10 GMT | XXE Bypass CTF Challange (Bugforge) | blackm4c | [Read More](https://medium.com/p/120d56b7e9a5) |
+| Tue, 06 Jan 2026 18:59:00 GMT | Brooklyn Nine Nine walkthrough | Crystal_Cascade | [Read More](https://medium.com/p/753bf8598897) |
+| Tue, 06 Jan 2026 18:49:50 GMT | La loi 05–20 | Fadwa Darfaoui | [Read More](https://medium.com/p/0a953099aba1) |
+| Tue, 06 Jan 2026 18:47:49 GMT | Model Context Protocol (MCP) — Part 1: Why It’s Powerful and Why It’s Risky | Shishirhebbar | [Read More](https://medium.com/p/a65d2023405a) |
+| Tue, 06 Jan 2026 18:47:03 GMT | The Art of Being Lazy | Matthew Stevens | [Read More](https://medium.com/p/8d8aa5c4f658) |
+| Tue, 06 Jan 2026 18:38:31 GMT | The Role of Blockchain Explorers in Cryptocurrency Investigations | Satyam | [Read More](https://medium.com/p/ce0bbc8d4162) |
+| Tue, 06 Jan 2026 18:31:45 GMT | Ghost in the Machine: Bypassing Authentication to Access Live Ship Feeds and GPS | hacker_might | [Read More](https://medium.com/p/7f83c1790645) |
 | Tue, 06 Jan 2026 18:24:48 GMT | Why Every Developer Needs to Have a Basic Background on Cybersecurity | Roya Kais | [Read More](https://medium.com/p/11045d2b1c30) |
 | Tue, 06 Jan 2026 18:21:03 GMT | How I found a Race condition on Like Function | Zodiac | [Read More](https://medium.com/p/7f236537b7fc) |
 | Tue, 06 Jan 2026 18:12:36 GMT | Common Myths Beginners Believe About Cybersecurity | Quadri Sulaimon - CyberOps | [Read More](https://medium.com/p/6c6b06c75705) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 Jan 2026 13:33:45 GMT | Why Frontend Bugs Only Appear After Deployment | Kevin - MERN Stack Developer | [Read More](https://medium.com/p/0404b30bcf58) |
 | Tue, 06 Jan 2026 13:32:47 GMT | From Partner Search to Pig Butchering: Part 1 | Cyb3rhawk | [Read More](https://medium.com/p/72466f0b577f) |
 | Tue, 06 Jan 2026 13:32:47 GMT | Managing the Agentic Blast Radius in Multi-Agent Systems(OWASP 2026) | Parminder Singh | [Read More](https://medium.com/p/7f2a84337d8d) |
-| Tue, 06 Jan 2026 13:29:50 GMT | Hack The Box (HTB) Walkthrough Active | Sourabh Sharma | [Read More](https://medium.com/p/1c7048467a2e) |
-| Tue, 06 Jan 2026 13:28:47 GMT | Security at scale: Preventing thousands of vulnerabilities without developer friction | Rodrigo Fernandez Apas | [Read More](https://medium.com/p/b991d049c543) |
-| Tue, 06 Jan 2026 13:26:57 GMT | 2025: A Pivotal Year for Crypto Security & AML — A Quppy AML Bot Retrospective | QuppyAMLBOT | [Read More](https://medium.com/p/ab033cae01e3) |
-| Tue, 06 Jan 2026 13:24:24 GMT | BYOD Policy | Mudassirsoomro | [Read More](https://medium.com/p/cc8fc665d5ae) |
-| Tue, 06 Jan 2026 13:21:20 GMT | The Growing Importance of VAPT for Businesses Operating in the UAE | ANSI Technologies | [Read More](https://medium.com/p/4ead88d5150a) |
-| Tue, 06 Jan 2026 13:16:53 GMT | Quantum Threats, Plain Answers | Plaintext with Rich | [Read More](https://medium.com/p/f9b3c29a7eb1) |
-| Tue, 06 Jan 2026 13:16:25 GMT | ️ Malware Analysis Explained: A Beginner-Friendly Guide for Cybersecurity Students | Arshdeep Singh | [Read More](https://medium.com/p/0c59a8462b4a) |
