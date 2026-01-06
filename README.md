@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 01:51:24 GMT | JavaScript Analysis & Burp Suite Techniques That Actually Work | Monika sharma | [Read More](https://medium.com/p/d9c26823c219) |
+| Tue, 06 Jan 2026 01:43:38 GMT | Gemini Enterprise + Microsoft 365: The “Secure Broker” Model for OneDrive, Outlook, and SharePoint | Manoj Thammu | [Read More](https://medium.com/p/7ad87a351b26) |
+| Tue, 06 Jan 2026 01:42:25 GMT | CISSP Domain 4 Mastery Series- Part 2: Firewall Architecture & Types | Pushpak Sharma | [Read More](https://medium.com/p/b46b741c5d38) |
+| Tue, 06 Jan 2026 01:22:45 GMT | The Psychology of Lost Love: Who Hurts More After a Breakup? | Chantima Boon | [Read More](https://medium.com/p/0ed66b7702fa) |
+| Tue, 06 Jan 2026 01:19:36 GMT | TryHackMe: Biohazard Writeup | cbev | [Read More](https://medium.com/p/4c2364536880) |
+| Tue, 06 Jan 2026 01:01:44 GMT | Neighbour TryHackMe Write UP | cat0x01 | [Read More](https://medium.com/p/488b42bb3d90) |
+| Tue, 06 Jan 2026 00:55:46 GMT | Security-First Web Development: Building Resilient Applications | Nayan Goel | [Read More](https://medium.com/p/c0e9e4867195) |
+| Tue, 06 Jan 2026 00:37:50 GMT | VVS Stealer: New Obfuscated Python Malware Targets Discord Ecosystem | IndigoINT | [Read More](https://medium.com/p/aac61b3b0495) |
+| Tue, 06 Jan 2026 00:31:42 GMT | A Cyberpunk Take on CRUD: Building a WiFi Credential Webhook with .NET 9, Kestrel, and SQLite | hardrive9000 | [Read More](https://medium.com/p/76ef03c4d84e) |
+| Tue, 06 Jan 2026 00:30:10 GMT | Practical website vulnerability scanning for SaaS founders and small businesses | Ahad | [Read More](https://medium.com/p/405237fdb456) |
+| Tue, 06 Jan 2026 00:28:08 GMT | Wazuh Rollover Policy | Vigan | [Read More](https://medium.com/p/cc86d1287075) |
+| Tue, 06 Jan 2026 00:02:30 GMT | Guía de Nmap para Bug Bounty: Escaneo de Puertos y Evasión de WAF | JPablo13 | [Read More](https://medium.com/p/db84daed00b8) |
+| Mon, 05 Jan 2026 23:55:36 GMT | This Google Workspace Tool Might Replace Your Password Manager | Cyber-AppSec | [Read More](https://medium.com/p/4199f7b98a1f) |
+| Mon, 05 Jan 2026 23:55:12 GMT | Lab: Authentication bypass via flawed state machine | Songül Kızılay Özügürler | [Read More](https://medium.com/p/2e9328604ba9) |
+| Mon, 05 Jan 2026 23:54:57 GMT | Claude AI thinks it sees a ‘hidden’ or semi obscure tech company consortium, while another AI… | Berend Watchus | [Read More](https://medium.com/p/f1f9b694ca4e) |
+| Mon, 05 Jan 2026 23:41:14 GMT | 3 Free European Email Providers Built for Privacy | Özgür Karataş | [Read More](https://medium.com/p/8f245b907a8a) |
 | Mon, 05 Jan 2026 23:41:12 GMT | When Cognition Becomes the Attack Surface | Erik Gallmann | [Read More](https://medium.com/p/61a29af09045) |
 | Mon, 05 Jan 2026 23:35:45 GMT | No Missiles. No Troops. Still an Attack. | Khushdeep Sharma | [Read More](https://medium.com/p/92799e74507b) |
 | Mon, 05 Jan 2026 23:30:41 GMT | What We Tell Others, and What We Do Ourselves | AfterRainWrites | [Read More](https://medium.com/p/34eefa507a77) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 17:29:24 GMT | Become an investigator on hack the box with sherlock category — CVE-2025–14847 | Michael Harms | [Read More](https://medium.com/p/b3e13a57277b) |
 | Mon, 05 Jan 2026 17:24:51 GMT | Cheesy Does It Bugforge Daily CTF Challange | blackm4c | [Read More](https://medium.com/p/b6720563e3ba) |
 | Mon, 05 Jan 2026 17:24:11 GMT | Breaking the Same-Origin Policy: A Dive into a CORS Misconfiguration | Ehtesham Ul Haq | [Read More](https://medium.com/p/b6174b0abee6) |
-| Mon, 05 Jan 2026 17:14:35 GMT | Login Liberty | Dr. Shashi Karhail | [Read More](https://medium.com/p/97b2a17c0851) |
-| Mon, 05 Jan 2026 17:10:28 GMT | Open Source Hacking — Breaking AstroJs | Monish Basaniwal | [Read More](https://medium.com/p/c33050386915) |
-| Mon, 05 Jan 2026 17:01:35 GMT | SantaStealer: A New Malware Targeting Browsers and Crypto Wallets | Tech Intel | [Read More](https://medium.com/p/511b6208b9db) |
-| Mon, 05 Jan 2026 16:55:20 GMT | ⚡ REBRAND: Architecting the Hybrid Front — From Corpo to Corpo-Operator ⚡ | Rhyu Stryker | [Read More](https://medium.com/p/a190430deaa6) |
-| Mon, 05 Jan 2026 16:52:35 GMT | Security Onion 2.4 on VMware Complete Install Guide (Beginner-Friendly) | Dhruvil  Patel | [Read More](https://medium.com/p/8f229546ab8b) |
-| Mon, 05 Jan 2026 16:51:49 GMT | Ai powered Threat Detection and behavioral analytics : Smart, adaptive, and context-aware. | Cybervolt | [Read More](https://medium.com/p/fee942c8fc06) |
-| Mon, 05 Jan 2026 16:51:03 GMT | Till You Find Something To Live For | Aastha Shukla | [Read More](https://medium.com/p/b15ad87e2285) |
-| Mon, 05 Jan 2026 16:50:24 GMT | It’s 2025, and the offensive security landscape is changing faster than ever. | Cybervolt | [Read More](https://medium.com/p/b86c311770a1) |
-| Mon, 05 Jan 2026 16:47:50 GMT | The Man Who Shook a Superpower | Fareed Masood | [Read More](https://medium.com/p/c06ef66a9d53) |
-| Mon, 05 Jan 2026 16:43:56 GMT | Security Skills No One Teaches: Reading Packets, Thinking in Flows | Gajanan Tayde | [Read More](https://medium.com/p/ef2500018f20) |
-| Mon, 05 Jan 2026 16:41:19 GMT | From Hubs to Firewalls: The Key Devices That Power Each Layer of the OSI Model | Paradise technologies Inc | [Read More](https://medium.com/p/3441baa6bd83) |
-| Mon, 05 Jan 2026 16:32:32 GMT | Troll3 | Hackbyknowledge | [Read More](https://medium.com/p/14cbbf28addc) |
-| Mon, 05 Jan 2026 16:24:59 GMT | ️ FortiGate Lab — Firewall Policy Oluşturma ve Trafik Kontrolü | Esra Tosun | [Read More](https://medium.com/p/945cf0554502) |
-| Mon, 05 Jan 2026 16:20:51 GMT | The Dangers of Microsoft Defaults: Lessons from a Decade in the MSP World | Chase Sims | [Read More](https://medium.com/p/8483a6719265) |
-| Mon, 05 Jan 2026 16:19:45 GMT | Security Didn’t Fail in 2025: Execution Did | Really Bad Security | [Read More](https://medium.com/p/13f634cc9535) |
-| Mon, 05 Jan 2026 16:18:38 GMT | 5 KQL Queries to Slash Your Containment Time in Microsoft Sentinel | Matt Swann | [Read More](https://medium.com/p/57bb81b52551) |
