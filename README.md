@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 11:19:25 GMT | Hire a Hacker Online Safely: What It Really Means and How to Do It Right | Rebecca Smith | [Read More](https://medium.com/p/3faac1ccdeb5) |
+| Tue, 06 Jan 2026 11:18:59 GMT | #2 Désérialisation explication | Gaby zaafrani | [Read More](https://medium.com/p/1636169847a9) |
+| Tue, 06 Jan 2026 11:18:51 GMT | Cryptocurrency and Terror Financing: Tracking Bitcoin to Boko Haram | Oge Samuel Okonkwo | [Read More](https://medium.com/p/3c765f4aa2a1) |
+| Tue, 06 Jan 2026 11:18:13 GMT | Flutter app to avoid CWE-384 (Session Fixation) while keeping good UX | Flutter Guru | [Read More](https://medium.com/p/cd0f9a9ea88b) |
 | Tue, 06 Jan 2026 11:18:12 GMT | How Hexaview Builds Secure, Compliant AI Agents for Regulated Industries Using Agentforce | Ishika Verma | [Read More](https://medium.com/p/1084a5f5b54a) |
+| Tue, 06 Jan 2026 11:15:41 GMT | From Curiosity to Certification: My eJPT Journey | Teboho Twala jnr | [Read More](https://medium.com/p/a9a383a7d4cc) |
 | Tue, 06 Jan 2026 11:15:17 GMT | Why Python Matters in Cybersecurity: An Abstract Perspective | Anam Khan | [Read More](https://medium.com/p/0a48857fcfc4) |
 | Tue, 06 Jan 2026 11:05:47 GMT | Shadow AI: Why making people afraid doesn't make them secure | Charles Anthony Browne | [Read More](https://medium.com/p/cc0b2cf94087) |
 | Tue, 06 Jan 2026 11:05:37 GMT | # ️ Designing My First CTF: Lessons Learned and How You Can Build Yours | Roshan Rajbanshi | [Read More](https://medium.com/p/d67b90e0a4a1) |
@@ -109,8 +114,3 @@ The Engineering Foundation of Trust and Security in APIs | Sandali Jayaweera | [
 | Tue, 06 Jan 2026 07:12:04 GMT | Acronis Cyber Protection in Sharjah — Complete Security, Backup & Recovery for Modern Businesses | costtocost | [Read More](https://medium.com/p/0f17314a7446) |
 | Tue, 06 Jan 2026 07:10:00 GMT | Mac Antivirus Keeps WhatsApp on Mobile Free from Cyber Trouble | Siyanoav | [Read More](https://medium.com/p/5321ee5ac391) |
 | Tue, 06 Jan 2026 07:04:05 GMT | Critical React Server Components Vulnerability (CVE-2025–55182): What Developers Need to Fix Now | Mediusware Ltd. | [Read More](https://medium.com/p/a8e36ce173ae) |
-| Tue, 06 Jan 2026 07:03:51 GMT | The ‘Aha’ Moment: Explaining NTLMv2 Through a Wireshark CTF | PocketLearner | [Read More](https://medium.com/p/03d69ab18a88) |
-| Tue, 06 Jan 2026 07:02:11 GMT | Hack The Box — Shocker - Pentest Walkthrough & Defensive Takeaways | khalifa_farhat | [Read More](https://medium.com/p/21e68d7b5cfb) |
-| Tue, 06 Jan 2026 06:59:22 GMT | Google Dorks 2025 Edition: 150+ Dorks & Tools for Ethical Hackers and Pentesters | Very Lazy Tech | [Read More](https://medium.com/p/20415d44859a) |
-| Tue, 06 Jan 2026 06:58:22 GMT | Total Security Solutions India: Building Safer Businesses with Advanced Electronic Security… | Ciss India | [Read More](https://medium.com/p/d5450cc03869) |
-| Tue, 06 Jan 2026 06:57:26 GMT | ​Почему запуск xStocks от STON.fi это важное событие? | Mazankwaran | [Read More](https://medium.com/p/b37a32339cad) |
