@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 09:22:06 GMT | HTB Pentester Path — Footprinting Easy Lab | Varkeythms | [Read More](https://medium.com/p/fcc2ef9324e4) |
+| Tue, 06 Jan 2026 09:19:21 GMT | How to Fix Any WordPress Technical Issue: A Step-by-Step Troubleshooting Guide | feenanoor | [Read More](https://medium.com/p/fec9889232aa) |
+| Tue, 06 Jan 2026 09:13:11 GMT | Giới thiệu Công ty Bảo vệ Ngày & Đêm — Chi Nhánh Tây Bắc Sài Gòn | Bảo vệ Ngày & Đêm Tây Bắc SG | [Read More](https://medium.com/p/7fc2e8cdc6e8) |
+| Tue, 06 Jan 2026 09:09:23 GMT | PoLP Fiction: When Too Much Access Gets Messy | Redfox Security | [Read More](https://medium.com/p/cef665444a04) |
+| Tue, 06 Jan 2026 09:07:11 GMT | Capturing Live Network Traffic with tcpdump: | Humphrey Swanzy Quaicoe | [Read More](https://medium.com/p/990d28b9f9d0) |
+| Tue, 06 Jan 2026 09:03:47 GMT | Alliance and Strategic Ambiguity: South Korea’s Security Position between The United States and… | We Are Living in Art ᝰ✍ | [Read More](https://medium.com/p/5a640c7c5efa) |
+| Tue, 06 Jan 2026 09:03:19 GMT | TryHackMe Threat Hunting Simulator — Health Hazard | Syed Ali Bin Mohammad | [Read More](https://medium.com/p/6099c108a2c7) |
+| Tue, 06 Jan 2026 09:02:35 GMT | Bug Bounty Shortcut: Skip Recon and Start With Real Credentials | Alexandre Vandamme | [Read More](https://medium.com/p/e1397f7c49f7) |
+| Tue, 06 Jan 2026 09:00:57 GMT | Passkeys Are Quietly Ending Passwords | Logic Over Latte | [Read More](https://medium.com/p/75d97a5d7476) |
+| Tue, 06 Jan 2026 09:00:22 GMT | When Code Becomes Contract, and Hackers Come Knocking | MayhemCode | [Read More](https://medium.com/p/a059a5781656) |
+| Tue, 06 Jan 2026 08:54:53 GMT | A Massive Cyber Attack Haunting Anyone — Here’s How to at Least Shield Yourself | Angga Wibowo | [Read More](https://medium.com/p/ebfdc474f1f7) |
+| Tue, 06 Jan 2026 08:49:46 GMT | Facebook Automation + Proxies: A Practical Setup Guide for Marketers | ProxiesThatWork | [Read More](https://medium.com/p/98d0911f14aa) |
+| Tue, 06 Jan 2026 08:48:15 GMT | The UX Paradox in IAM: Security That Users Actually Use | Steve Anderson | [Read More](https://medium.com/p/ba08a5676d76) |
+| Tue, 06 Jan 2026 08:47:53 GMT | Cloud Security Services: Protecting Your Digital Assets in a Cloud-First World | Devarshi Acharya | [Read More](https://medium.com/p/4f8895726f9d) |
+| Tue, 06 Jan 2026 08:47:10 GMT | AI-Generated Social Engineering: The Evolution of Human Manipulation | Mercy Ajayi | [Read More](https://medium.com/p/f63ab991ec7d) |
+| Tue, 06 Jan 2026 08:43:22 GMT | Cybersecurity Is No Longer a Technical Problem | Prerna Shukla | [Read More](https://medium.com/p/3be9f2c4aabb) |
 | Tue, 06 Jan 2026 08:28:22 GMT | How Does Ransomware Work | Digital Duffer | [Read More](https://medium.com/p/6ad467d4c2f4) |
 | Tue, 06 Jan 2026 08:27:47 GMT | Internet Data Security in 2026: Emerging Cyber Threats and How to Protect Your Data | Bhagya Sandakelum | [Read More](https://medium.com/p/7786ccf1756d) |
 | Tue, 06 Jan 2026 08:26:51 GMT | Understanding Local File Inclusion (LFI) & Directory Traversal Attacks | Shayaan Khan | [Read More](https://medium.com/p/f8bbbbb04c17) |
@@ -98,19 +114,3 @@ Organization: Codevirus… | Ankit rai | [Read More](https://medium.com/p/f640a5
 | Tue, 06 Jan 2026 03:06:33 GMT | MITRE ATT&CK Techniques Explained Simply (For SOC Analysts) | Jenishjoel | [Read More](https://medium.com/p/7e84074840c0) |
 | Tue, 06 Jan 2026 03:03:35 GMT | The Blind Customer: Securing Cost Cap & Performance in F1’s 2026 Active Aero Era | Timothy D. Harmon, CISSP | [Read More](https://medium.com/p/c13d77d5aa95) |
 | Tue, 06 Jan 2026 03:03:05 GMT | Path Traversal vulnerability and how to prevent it | Rémy Villulles | [Read More](https://medium.com/p/c6793f3c05ff) |
-| Tue, 06 Jan 2026 02:59:52 GMT | What is Builders Risk Insurance Policy? | Auswide Insurance Brokers | [Read More](https://medium.com/p/b65325a7cf14) |
-| Tue, 06 Jan 2026 02:38:53 GMT | How to Secure Active Directory Domain Controllers: Top 10 Microsoft‑Recommended Best Practices | Kevin Kueck | [Read More](https://medium.com/p/a9e7bd52bf56) |
-| Tue, 06 Jan 2026 02:37:20 GMT | 30 December 2025: A State of Grace | Ashwin kalla | [Read More](https://medium.com/p/4690fe7b6f1c) |
-| Tue, 06 Jan 2026 02:30:55 GMT | Tuesday Morning Threat Report: Jan 6, 2026 | Mark Maguire | [Read More](https://medium.com/p/58710c50b87d) |
-| Tue, 06 Jan 2026 02:22:12 GMT | Stop Drowning in Papers: An AI Workflow from a Nature Journal (IF 41.7) | Koii | [Read More](https://medium.com/p/f3ec358068ca) |
-| Tue, 06 Jan 2026 02:17:45 GMT | Manual SQL Injection Using HackBar (Cyberfox) Complete Beginner Guide | Purushotham.R | [Read More](https://medium.com/p/4fe12e331345) |
-| Tue, 06 Jan 2026 01:51:24 GMT | JavaScript Analysis & Burp Suite Techniques That Actually Work | Monika sharma | [Read More](https://medium.com/p/d9c26823c219) |
-| Tue, 06 Jan 2026 01:51:19 GMT | Weaponizing HTTP Headers: The Reconnaissance Phase | Martin Simonyan | [Read More](https://medium.com/p/7bfaac86774b) |
-| Tue, 06 Jan 2026 01:43:38 GMT | Gemini Enterprise + Microsoft 365: The “Secure Broker” Model for OneDrive, Outlook, and SharePoint | Manoj Thammu | [Read More](https://medium.com/p/7ad87a351b26) |
-| Tue, 06 Jan 2026 01:42:25 GMT | CISSP Domain 4 Mastery Series- Part 2: Firewall Architecture & Types | Pushpak Sharma | [Read More](https://medium.com/p/b46b741c5d38) |
-| Tue, 06 Jan 2026 01:22:45 GMT | The Psychology of Lost Love: Who Hurts More After a Breakup? | Chantima Boon | [Read More](https://medium.com/p/0ed66b7702fa) |
-| Tue, 06 Jan 2026 01:19:36 GMT | TryHackMe: Biohazard Writeup | cbev | [Read More](https://medium.com/p/4c2364536880) |
-| Tue, 06 Jan 2026 01:01:44 GMT | Neighbour TryHackMe Write UP | cat0x01 | [Read More](https://medium.com/p/488b42bb3d90) |
-| Tue, 06 Jan 2026 00:55:46 GMT | Security-First Web Development: Building Resilient Applications | Nayan Goel | [Read More](https://medium.com/p/c0e9e4867195) |
-| Tue, 06 Jan 2026 00:37:50 GMT | VVS Stealer: New Obfuscated Python Malware Targets Discord Ecosystem | IndigoINT | [Read More](https://medium.com/p/aac61b3b0495) |
-| Tue, 06 Jan 2026 00:31:42 GMT | A Cyberpunk Take on CRUD: Building a WiFi Credential Webhook with .NET 9, Kestrel, and SQLite | hardrive9000 | [Read More](https://medium.com/p/76ef03c4d84e) |
