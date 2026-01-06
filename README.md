@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 12:35:25 GMT | CISA’s KEV Catalog in 2025: What Exploited Vulnerabilities Reveal About the Modern Threat Landscape | gm0 | [Read More](https://medium.com/p/f02ef11b62e2) |
+| Tue, 06 Jan 2026 12:25:43 GMT | “Bug Bounty Bootcamp #10: The Hacker’s Guide to HTTP — Decoding Every Request and Response” | Aman Sharma | [Read More](https://medium.com/p/618e36047c54) |
+| Tue, 06 Jan 2026 12:21:59 GMT | How to optimize the security of a website created with Ruby on Rails ? | Bertrand Bichat | [Read More](https://medium.com/p/13ae11168363) |
+| Tue, 06 Jan 2026 12:17:15 GMT | File Upload Vulnerabilities | Cybernight | [Read More](https://medium.com/p/a63f742e9bbf) |
+| Tue, 06 Jan 2026 12:13:44 GMT | Beyond the Basics: 4 AI Image Tips I Wish I Knew Sooner | MilankumarParmar | [Read More](https://medium.com/p/c7a19579270f) |
+| Tue, 06 Jan 2026 12:11:56 GMT | Choosing silence | Rahul Gupta | [Read More](https://medium.com/p/d0ea9d108dc3) |
+| Tue, 06 Jan 2026 12:08:28 GMT | Cybersecurity Awareness Training: What Most Beginners Overlook | Elearning Seoswift | [Read More](https://medium.com/p/631fdcbd289f) |
+| Tue, 06 Jan 2026 12:03:03 GMT | The Privacy Black Hole: Why Registering on TraderKnows is a Security Risk | Bittam | [Read More](https://medium.com/p/5e0144b2db1c) |
+| Tue, 06 Jan 2026 12:02:28 GMT | Android’s 2026 Nightmare: A Framework Zero-Day and the Weaponization of Trust | Threat Road | [Read More](https://medium.com/p/e5e8d877cbbc) |
+| Tue, 06 Jan 2026 12:00:30 GMT | Security Starts With a Test, Not a Firewall | Coding Creed Technologies | [Read More](https://medium.com/p/ec4c4f942162) |
+| Tue, 06 Jan 2026 11:58:45 GMT | Computers, routers, and servers aren’t “set it and forget it” tools. | Century Solutions Group | [Read More](https://medium.com/p/514de5c4b630) |
+| Tue, 06 Jan 2026 11:45:24 GMT | Building an Extremely Vulnerable Ubuntu 24.04 Server Lab (Bonus: Full PT with Hexstrike) | Andrey Pautov | [Read More](https://medium.com/p/90034032775b) |
+| Tue, 06 Jan 2026 11:45:06 GMT | Lab Walkthrough: Brute-Forcing a Stay-Logged-In Cookie | CyberSec Xploit - Prasangam | [Read More](https://medium.com/p/b7d53f596102) |
+| Tue, 06 Jan 2026 11:44:03 GMT | Pinging your iPhone: What it Reveals About LAN Security | Umar Al-Mahfuz | [Read More](https://medium.com/p/9d13c22116c0) |
+| Tue, 06 Jan 2026 11:41:50 GMT | Designing SION Education: From Concept to Prototype | Charleneathena | [Read More](https://medium.com/p/16db24b1f9dd) |
+| Tue, 06 Jan 2026 11:40:26 GMT | Between Wanting and Running | Engineer | [Read More](https://medium.com/p/69dcac5eb2ae) |
+| Tue, 06 Jan 2026 11:35:46 GMT | Zero Day Hunting — Techniques | Sakib Haque Zisan | [Read More](https://medium.com/p/d1dcc0105af9) |
 | Tue, 06 Jan 2026 11:19:25 GMT | Hire a Hacker Online Safely: What It Really Means and How to Do It Right | Rebecca Smith | [Read More](https://medium.com/p/3faac1ccdeb5) |
 | Tue, 06 Jan 2026 11:18:59 GMT | #2 Désérialisation explication | Gaby zaafrani | [Read More](https://medium.com/p/1636169847a9) |
 | Tue, 06 Jan 2026 11:18:51 GMT | Cryptocurrency and Terror Financing: Tracking Bitcoin to Boko Haram | Oge Samuel Okonkwo | [Read More](https://medium.com/p/3c765f4aa2a1) |
@@ -97,20 +114,3 @@ The Engineering Foundation of Trust and Security in APIs | Sandali Jayaweera | [
 | Tue, 06 Jan 2026 08:01:34 GMT | Where Cyber Meets Liability: Integrating Coverages | Armin Mehraeen | [Read More](https://medium.com/p/64bc535dd55c) |
 | Tue, 06 Jan 2026 07:59:38 GMT | Designing the Cyber Insurance Unit: An Organizational Blueprint | Armin Mehraeen | [Read More](https://medium.com/p/b8fa73908308) |
 | Tue, 06 Jan 2026 07:57:33 GMT | Why Stuxnet Still Matters in 2026 | David SEHYEON Baek | [Read More](https://medium.com/p/c29cfe820194) |
-| Tue, 06 Jan 2026 07:56:30 GMT | Commercial Spyware Is Becoming More Accessible, Raising Growing Concerns | David SEHYEON Baek | [Read More](https://medium.com/p/90d000a7da26) |
-| Tue, 06 Jan 2026 07:54:19 GMT | Command Injection by Design: When GitHub Actions Turns Metadata into Code | Berk Dedekargınoğlu | [Read More](https://medium.com/p/aa644d396fb1) |
-| Tue, 06 Jan 2026 07:51:06 GMT | MCP’s Dark Side: Security Disasters & Lessons from Rapid Growth (Part 2 of 2) | Amrendra Vimal | [Read More](https://medium.com/p/f0433849c742) |
-| Tue, 06 Jan 2026 07:44:04 GMT | Weekly Threat Intelligence Report 29 Dec 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/a7ef9b61233e) |
-| Tue, 06 Jan 2026 07:39:30 GMT | Bypassing DOCTYPE Filters: XInclude XXE Exploitation | Tanmay Bhattacharjee | [Read More](https://medium.com/p/251bccbd0463) |
-| Tue, 06 Jan 2026 07:31:47 GMT | Why Most Async Code Passes Tests but Can Fail in Production | Rahulsalvi2k7 | [Read More](https://medium.com/p/3ce469592b1b) |
-| Tue, 06 Jan 2026 07:28:15 GMT | 2026 New Chapter: From Web Dev to Cybersecurity | Ibashisha A. Marbaniang | [Read More](https://medium.com/p/a53ed9d6c444) |
-| Tue, 06 Jan 2026 07:27:21 GMT | The Silent Guardian in Your Living Room: Why ‘Serverless’ is the Future of Privacy | SAYCOIN | [Read More](https://medium.com/p/949ba8864d73) |
-| Tue, 06 Jan 2026 07:27:15 GMT | How Capstone Projects in Cybersecurity Lead to Direct Job Offers in USA | Hazel Gomez | [Read More](https://medium.com/p/93886ac09396) |
-| Tue, 06 Jan 2026 07:26:59 GMT | AI Security Threats You Should Know | Sharif Hassan | [Read More](https://medium.com/p/049eede49439) |
-| Tue, 06 Jan 2026 07:19:17 GMT | ArcSource Consulting | ArcSource Consulting | [Read More](https://medium.com/p/c8116c211687) |
-| Tue, 06 Jan 2026 07:15:15 GMT | TryHackMe Bash Scripting | Ufuk Yaman | [Read More](https://medium.com/p/704d98a26840) |
-| Tue, 06 Jan 2026 07:14:34 GMT | The Skins We Outgrow | Sujata | [Read More](https://medium.com/p/454402b2e371) |
-| Tue, 06 Jan 2026 07:12:32 GMT | GROUND ZERO: WEB3 SPOT-NODE PLATFORM WHITE NOTE | Jon B | [Read More](https://medium.com/p/56349874f707) |
-| Tue, 06 Jan 2026 07:12:04 GMT | Acronis Cyber Protection in Sharjah — Complete Security, Backup & Recovery for Modern Businesses | costtocost | [Read More](https://medium.com/p/0f17314a7446) |
-| Tue, 06 Jan 2026 07:10:00 GMT | Mac Antivirus Keeps WhatsApp on Mobile Free from Cyber Trouble | Siyanoav | [Read More](https://medium.com/p/5321ee5ac391) |
-| Tue, 06 Jan 2026 07:04:05 GMT | Critical React Server Components Vulnerability (CVE-2025–55182): What Developers Need to Fix Now | Mediusware Ltd. | [Read More](https://medium.com/p/a8e36ce173ae) |
