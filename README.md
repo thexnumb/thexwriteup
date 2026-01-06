@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 14:07:04 GMT | Building Custom Threat Detection Rules in AWS Using EventBridge and CloudTrail | Davebhargavi | [Read More](https://medium.com/p/1b38f54ae487) |
+| Tue, 06 Jan 2026 14:06:41 GMT | Azure Landing Zone Explained: Building a Secure and Scalable Cloud Foundation in 2026 | Techridge Solutions | [Read More](https://medium.com/p/379a13096f38) |
+| Tue, 06 Jan 2026 14:02:29 GMT | Why Modern Web Apps Fail at Authorization Long Before Exploitation Begins | Tyreek Haynes | [Read More](https://medium.com/p/2eb6d0890669) |
+| Tue, 06 Jan 2026 14:02:28 GMT | Containment vs Control: Why Agency Needs a Ward, and Accountability Needs a Principal | Paul Knowles | [Read More](https://medium.com/p/b9e681b9c1ff) |
+| Tue, 06 Jan 2026 14:02:28 GMT | Most People Hear About Quantum Computing — Few Understand How It Actually Works | zakieandiko | [Read More](https://medium.com/p/2cf13eb10f59) |
+| Tue, 06 Jan 2026 14:00:54 GMT | OPSEC: Only for Hacking | Nexamos | [Read More](https://medium.com/p/986e9c313070) |
+| Tue, 06 Jan 2026 14:00:25 GMT | Your Code Dependencies Stole Your Secrets: Strengthening a Modern NPM Supply Chain (Part 1) | Anurag Mewar | [Read More](https://medium.com/p/a8096cdbd886) |
+| Tue, 06 Jan 2026 13:56:16 GMT | Case File: 0x04 — Operation “Blackout & Backdoors” | The Knight | [Read More](https://medium.com/p/005640fc98db) |
+| Tue, 06 Jan 2026 13:41:11 GMT | Why Proactive VAPT Is the Foundation of Cyber Risk Management in the UAE | ANSI Technologies | [Read More](https://medium.com/p/79fb62817679) |
+| Tue, 06 Jan 2026 13:33:45 GMT | Why Frontend Bugs Only Appear After Deployment | Kevin - MERN Stack Developer | [Read More](https://medium.com/p/0404b30bcf58) |
+| Tue, 06 Jan 2026 13:32:47 GMT | From Partner Search to Pig Butchering: Part 1 | Cyb3rhawk | [Read More](https://medium.com/p/72466f0b577f) |
+| Tue, 06 Jan 2026 13:32:47 GMT | Managing the Agentic Blast Radius in Multi-Agent Systems(OWASP 2026) | Parminder Singh | [Read More](https://medium.com/p/7f2a84337d8d) |
 | Tue, 06 Jan 2026 13:29:50 GMT | Hack The Box (HTB) Walkthrough Active | Sourabh Sharma | [Read More](https://medium.com/p/1c7048467a2e) |
 | Tue, 06 Jan 2026 13:28:47 GMT | Security at scale: Preventing thousands of vulnerabilities without developer friction | Rodrigo Fernandez Apas | [Read More](https://medium.com/p/b991d049c543) |
 | Tue, 06 Jan 2026 13:26:57 GMT | 2025: A Pivotal Year for Crypto Security & AML — A Quppy AML Bot Retrospective | QuppyAMLBOT | [Read More](https://medium.com/p/ab033cae01e3) |
@@ -102,15 +114,3 @@ The Engineering Foundation of Trust and Security in APIs | Sandali Jayaweera | [
 | Tue, 06 Jan 2026 09:38:35 GMT | BYOD in 2026: Balancing Flexibility and Security in the Modern Workplace | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/769954226fb8) |
 | Tue, 06 Jan 2026 09:37:51 GMT | TryHackMe — Commited | FAIZ AIDIL BAIHAQI | [Read More](https://medium.com/p/5c9c9aed1ca8) |
 | Tue, 06 Jan 2026 09:36:31 GMT | AI Security Newsletter — December 2025 | Tal Eliyahu | [Read More](https://medium.com/p/f75804d29f78) |
-| Tue, 06 Jan 2026 09:36:13 GMT | From Firefighting to Future-Proofing: The Mindset Shift | Garima Gupta | [Read More](https://medium.com/p/6f705f0f7ae8) |
-| Tue, 06 Jan 2026 09:35:11 GMT | My Very First Write-up! | JC2122 | [Read More](https://medium.com/p/8f43f8d8f4a1) |
-| Tue, 06 Jan 2026 09:32:23 GMT | I Left My Router Password as “admin” for 3 Days - Here’s What Hackers Did to My Network | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/e68fbff5cdf8) |
-| Tue, 06 Jan 2026 09:31:49 GMT | Mengapa Konfigurasi Cookie Itu Penting: Memahami Risiko Cookie Tanpa Secure & HttpOnly Flag | Maulana Alamsyah | [Read More](https://medium.com/p/93b88a85e316) |
-| Tue, 06 Jan 2026 09:30:24 GMT | Why Energy Sector Employers Are Prioritizing Cyber Skills Like Never Before | Rahman Iqbal | [Read More](https://medium.com/p/81e856168093) |
-| Tue, 06 Jan 2026 09:25:56 GMT | When the Sandworm Came for My Secrets: Lessons from Shai-Hulud 2.0 | Russ Mckendrick | [Read More](https://medium.com/p/2ffdd016ad9a) |
-| Tue, 06 Jan 2026 09:23:08 GMT | Our Strength Comes From Vulnerability, Not Pride | Ali Raza Jatoi | [Read More](https://medium.com/p/fce97a5bec1c) |
-| Tue, 06 Jan 2026 09:22:50 GMT | SOC 2 Audit Gaps: How Auditors Identify Control Weaknesses | SecureSlate | [Read More](https://medium.com/p/f972a80ebbf4) |
-| Tue, 06 Jan 2026 09:22:06 GMT | HTB Pentester Path — Footprinting Easy Lab | Varkeythms | [Read More](https://medium.com/p/fcc2ef9324e4) |
-| Tue, 06 Jan 2026 09:19:21 GMT | How to Fix Any WordPress Technical Issue: A Step-by-Step Troubleshooting Guide | feenanoor | [Read More](https://medium.com/p/fec9889232aa) |
-| Tue, 06 Jan 2026 09:19:12 GMT | OFWEB CyberSecurity Framework by 0trust0day | 0trust0day | [Read More](https://medium.com/p/9607d5e12dc7) |
-| Tue, 06 Jan 2026 09:13:11 GMT | Giới thiệu Công ty Bảo vệ Ngày & Đêm — Chi Nhánh Tây Bắc Sài Gòn | Bảo vệ Ngày & Đêm Tây Bắc SG | [Read More](https://medium.com/p/7fc2e8cdc6e8) |
