@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 23:15:01 GMT | Advent of Cyber — Day 6: Malware Analysis — Egg-xecutable | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/0566d2011f64) |
+| Tue, 06 Jan 2026 23:11:57 GMT | Advent of Cyber — Day 5: IDOR — Santa’s Little IDOR | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/65097f41096d) |
+| Tue, 06 Jan 2026 22:59:27 GMT | Alleged NordVPN Data Breach: Why Development Environments Are the New Attack Surface | Cyber-AppSec | [Read More](https://medium.com/p/1e87e6c63697) |
+| Tue, 06 Jan 2026 22:53:30 GMT | The Cord-Cutting Revolution: How North Americans Are Taking Control of Their Entertainment in 2026 | Uranusxtv | [Read More](https://medium.com/p/fb65d4e76da0) |
 | Tue, 06 Jan 2026 22:29:01 GMT | Deploying Wazuh SIEM: A Hands-On SOC Project for Cybersecurity Freshers | Om Gohil | [Read More](https://medium.com/p/b696193c2ed3) |
 | Tue, 06 Jan 2026 22:25:58 GMT | Website Security Best Practice List | Sunny Side Up | [Read More](https://medium.com/p/4ebca8bfb95f) |
 | Tue, 06 Jan 2026 22:07:43 GMT | The FAFO Framework: Fast Adoption, Future Accountability | David Anderson | [Read More](https://medium.com/p/4f99f3a042a9) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 Jan 2026 15:57:17 GMT | Bandit Level 11 to Level 12 | Sivanesan M | [Read More](https://medium.com/p/00c652045461) |
 | Tue, 06 Jan 2026 15:51:38 GMT | Navigating the Tokenization Shift: A Compliance-First Policy Framework | Ahmed S Ali | [Read More](https://medium.com/p/0a18df4dac92) |
 | Tue, 06 Jan 2026 15:49:55 GMT | Active Directory Certificate Services Exploitation 1–4 | 0xb0z | [Read More](https://medium.com/p/1b715ae50d57) |
-| Tue, 06 Jan 2026 15:49:50 GMT | My Cybersecurity Internship Journey with Oasis Infobyte | Asleshasethy | [Read More](https://medium.com/p/499745602948) |
-| Tue, 06 Jan 2026 15:46:50 GMT | [DEEP RESEARCH] Token Factory: The 5 Costliest US Breaches of 2025 | Wes Young | [Read More](https://medium.com/p/718f2f889159) |
-| Tue, 06 Jan 2026 15:46:37 GMT | How One “Safe” Optimization Feature Became a Critical Security Failure ⚙️ | Iski | [Read More](https://medium.com/p/55b00dc462ec) |
-| Tue, 06 Jan 2026 15:45:14 GMT | Unpacking Microsoft Defender for Office 365: A 30-Day SOC Triage Series | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/9c34ded75f04) |
