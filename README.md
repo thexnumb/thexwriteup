@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 09:42:34 GMT | The Future of Cybersecurity: Key Trends Shaping 2026 and Beyond | Medora Grasser | [Read More](https://medium.com/p/58a288631bb4) |
+| Tue, 06 Jan 2026 09:38:35 GMT | BYOD in 2026: Balancing Flexibility and Security in the Modern Workplace | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/769954226fb8) |
+| Tue, 06 Jan 2026 09:37:51 GMT | TryHackMe — Commited | FAIZ AIDIL BAIHAQI | [Read More](https://medium.com/p/5c9c9aed1ca8) |
+| Tue, 06 Jan 2026 09:36:31 GMT | AI Security Newsletter — December 2025 | Tal Eliyahu | [Read More](https://medium.com/p/f75804d29f78) |
+| Tue, 06 Jan 2026 09:36:13 GMT | From Firefighting to Future-Proofing: The Mindset Shift | Garima Gupta | [Read More](https://medium.com/p/6f705f0f7ae8) |
+| Tue, 06 Jan 2026 09:35:11 GMT | My Very First Write-up! | JC2122 | [Read More](https://medium.com/p/8f43f8d8f4a1) |
+| Tue, 06 Jan 2026 09:32:23 GMT | I Left My Router Password as “admin” for 3 Days - Here’s What Hackers Did to My Network | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/e68fbff5cdf8) |
+| Tue, 06 Jan 2026 09:31:49 GMT | Mengapa Konfigurasi Cookie Itu Penting: Memahami Risiko Cookie Tanpa Secure & HttpOnly Flag | Maulana Alamsyah | [Read More](https://medium.com/p/93b88a85e316) |
+| Tue, 06 Jan 2026 09:30:24 GMT | Why Energy Sector Employers Are Prioritizing Cyber Skills Like Never Before | Rahman Iqbal | [Read More](https://medium.com/p/81e856168093) |
+| Tue, 06 Jan 2026 09:25:56 GMT | When the Sandworm Came for My Secrets: Lessons from Shai-Hulud 2.0 | Russ Mckendrick | [Read More](https://medium.com/p/2ffdd016ad9a) |
+| Tue, 06 Jan 2026 09:23:08 GMT | Our Strength Comes From Vulnerability, Not Pride | Ali Raza Jatoi | [Read More](https://medium.com/p/fce97a5bec1c) |
+| Tue, 06 Jan 2026 09:22:50 GMT | SOC 2 Audit Gaps: How Auditors Identify Control Weaknesses | SecureSlate | [Read More](https://medium.com/p/f972a80ebbf4) |
 | Tue, 06 Jan 2026 09:22:06 GMT | HTB Pentester Path — Footprinting Easy Lab | Varkeythms | [Read More](https://medium.com/p/fcc2ef9324e4) |
 | Tue, 06 Jan 2026 09:19:21 GMT | How to Fix Any WordPress Technical Issue: A Step-by-Step Troubleshooting Guide | feenanoor | [Read More](https://medium.com/p/fec9889232aa) |
+| Tue, 06 Jan 2026 09:19:12 GMT | OFWEB CyberSecurity Framework by 0trust0day | 0trust0day | [Read More](https://medium.com/p/9607d5e12dc7) |
 | Tue, 06 Jan 2026 09:13:11 GMT | Giới thiệu Công ty Bảo vệ Ngày & Đêm — Chi Nhánh Tây Bắc Sài Gòn | Bảo vệ Ngày & Đêm Tây Bắc SG | [Read More](https://medium.com/p/7fc2e8cdc6e8) |
 | Tue, 06 Jan 2026 09:09:23 GMT | PoLP Fiction: When Too Much Access Gets Messy | Redfox Security | [Read More](https://medium.com/p/cef665444a04) |
 | Tue, 06 Jan 2026 09:07:11 GMT | Capturing Live Network Traffic with tcpdump: | Humphrey Swanzy Quaicoe | [Read More](https://medium.com/p/990d28b9f9d0) |
@@ -101,16 +114,3 @@ Organization: Codevirus… | Ankit rai | [Read More](https://medium.com/p/f640a5
 | Tue, 06 Jan 2026 04:32:44 GMT | Detection Engineering: Solving Alert Fatigue at the Source | Shubh Gupta | [Read More](https://medium.com/p/a49a19bf1dab) |
 | Tue, 06 Jan 2026 04:32:27 GMT | System Information | Hendra Maulana | [Read More](https://medium.com/p/08c37e4b145e) |
 | Tue, 06 Jan 2026 04:31:09 GMT | MikroTik site to site IPsec VPN setup | Ernest Marvin Franco | [Read More](https://medium.com/p/d8d50d1de6a6) |
-| Tue, 06 Jan 2026 04:28:08 GMT | OverTheWire Bandit (Day 07): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/bfc591a7d10a) |
-| Tue, 06 Jan 2026 04:12:47 GMT | Kioptrix Level 1 Guide | n1ck | [Read More](https://medium.com/p/1bfc84d10620) |
-| Tue, 06 Jan 2026 04:02:25 GMT | 7 Quiet Signs a Chain Is Enterprise-Ready | Vectorlane | [Read More](https://medium.com/p/f6d95a372fec) |
-| Tue, 06 Jan 2026 03:49:49 GMT | Network and Communications Security Part 2: Mapping Vulnerabilities to the OSI Model | Manubhav Sharma | [Read More](https://medium.com/p/3839a0d1d879) |
-| Tue, 06 Jan 2026 03:48:22 GMT | The Dormant Hacker: Why My 20-Year Detour Only Made Me Sharper | Anthony Depaz | [Read More](https://medium.com/p/e18358f5bd82) |
-| Tue, 06 Jan 2026 03:45:59 GMT | Substitute Authorizer for Approval Templates in SAP B1 version 10 | Hendra Maulana | [Read More](https://medium.com/p/1d369930cd69) |
-| Tue, 06 Jan 2026 03:42:56 GMT | CTO In Action: A Practical Framework for Evaluating Effectiveness and ROI | Blog Chip | [Read More](https://medium.com/p/54ff545a95db) |
-| Tue, 06 Jan 2026 03:32:26 GMT | When “Fixing an Error” Becomes the Mistake: Inside the ClickFix and DarkGate Campaign | Deven Chhajed | [Read More](https://medium.com/p/27c73ccd19cf) |
-| Tue, 06 Jan 2026 03:31:50 GMT | Congratulations, You’re Almost Rich | Dr. Thomas Jreige | [Read More](https://medium.com/p/3382b07d9ddd) |
-| Tue, 06 Jan 2026 03:12:31 GMT | Real-World Security Scenarios and Learning Notes (SOC Perspective) | Jenishjoel | [Read More](https://medium.com/p/088b4388c49a) |
-| Tue, 06 Jan 2026 03:06:33 GMT | MITRE ATT&CK Techniques Explained Simply (For SOC Analysts) | Jenishjoel | [Read More](https://medium.com/p/7e84074840c0) |
-| Tue, 06 Jan 2026 03:03:35 GMT | The Blind Customer: Securing Cost Cap & Performance in F1’s 2026 Active Aero Era | Timothy D. Harmon, CISSP | [Read More](https://medium.com/p/c13d77d5aa95) |
-| Tue, 06 Jan 2026 03:03:05 GMT | Path Traversal vulnerability and how to prevent it | Rémy Villulles | [Read More](https://medium.com/p/c6793f3c05ff) |
