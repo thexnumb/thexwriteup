@@ -12,9 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 22:07:43 GMT | The FAFO Framework: Fast Adoption, Future Accountability | David Anderson | [Read More](https://medium.com/p/4f99f3a042a9) |
+| Tue, 06 Jan 2026 22:02:57 GMT | THM: Snapped Phish-ing Line Walkthrough | Jennifer Gentry | [Read More](https://medium.com/p/15184a6d0354) |
+| Tue, 06 Jan 2026 21:52:19 GMT | # The Caracas Kill Chain Went Dark. That’s the Story. | Oscar The Golden Goofball | [Read More](https://medium.com/p/2121258d272f) |
+| Tue, 06 Jan 2026 21:46:08 GMT | Introduction To Cybersecurity - What is Cybersecurity in 2026 | Shahzaib | [Read More](https://medium.com/p/7512e51910c9) |
+| Tue, 06 Jan 2026 21:44:48 GMT | The Credential Economy: Infostealers and the Industrialization of Access | xoelrdgz | [Read More](https://medium.com/p/961a5bedb379) |
+| Tue, 06 Jan 2026 21:35:41 GMT | The Silent Struggle of a Cybersecurity Student: How I Lost My Way in Cybersecurity and What It… | i4m_x | [Read More](https://medium.com/p/5d5f8955d8f2) |
 | Tue, 06 Jan 2026 21:33:33 GMT | Have You Ever Opened Google Drive and Found Someone Else’s Files? | Ashutosh Anand | [Read More](https://medium.com/p/c50ca3f5fc59) |
 | Tue, 06 Jan 2026 21:25:03 GMT | Databases Under Siege: December 2025 Threat Report Reveals Tactical Pivot from Remote Access to… | Px Mx | [Read More](https://medium.com/p/b582dedcf2a8) |
 | Tue, 06 Jan 2026 21:23:11 GMT | Linux Networking Explained: Hardware, Drivers, IP Configuration & Troubleshooting (Step-by-Step) | Tushar jadhav | [Read More](https://medium.com/p/1fa1d16d90a2) |
+| Tue, 06 Jan 2026 21:23:00 GMT | When a Web Form Becomes an Email Impersonation Engine | Mohamednaddaa | [Read More](https://medium.com/p/999e64f79d07) |
 | Tue, 06 Jan 2026 21:17:35 GMT | Why Traditional Security Tools Can’t Detect LLM Attacks | David Anderson | [Read More](https://medium.com/p/4a37dd63b631) |
 | Tue, 06 Jan 2026 21:10:34 GMT | Blackhat Hackers vs Ethical Hackers - Cybersecurity Tutorial | Shahzaib | [Read More](https://medium.com/p/d87164ab1b27) |
 | Tue, 06 Jan 2026 21:00:17 GMT | Case Studies: Building Effective Timelines with Plaso (Log2Timeline) | Dean | [Read More](https://medium.com/p/55e3d299c7d1) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 Jan 2026 15:45:14 GMT | Unpacking Microsoft Defender for Office 365: A 30-Day SOC Triage Series | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/9c34ded75f04) |
 | Tue, 06 Jan 2026 15:40:27 GMT | Managed Services & Cybersecurity in 2026: What’s Evolving, What’s Staying, and What’s Next | Paradise technologies Inc | [Read More](https://medium.com/p/2bc294c2a00e) |
 | Tue, 06 Jan 2026 15:40:25 GMT | The 2023 jabber.ru Attack Exposes a Critical Cloudflare Flaw in 2025 | David Osipov | [Read More](https://medium.com/p/3331a6d671ea) |
-| Tue, 06 Jan 2026 15:39:41 GMT | The Decorator Pattern Nobody Talks About: 5 Real-World Uses in Modern Java | Jitin Kayyala | [Read More](https://medium.com/p/459d5eaec63b) |
-| Tue, 06 Jan 2026 15:38:11 GMT | From Alerts to Cases with MCP, TheHive, and Wazuh | Yash Patel | [Read More](https://medium.com/p/1b618b5d8ad2) |
-| Tue, 06 Jan 2026 15:37:42 GMT | Tcpdump: Seeing the Network the Way It Really Works | Little_Sun4lower | [Read More](https://medium.com/p/13f52805b0dc) |
-| Tue, 06 Jan 2026 15:30:08 GMT | Evil Twin Attacks — When Your Network Betrays You | Nisarg Patel | [Read More](https://medium.com/p/b253a6d6d7dc) |
-| Tue, 06 Jan 2026 15:29:55 GMT | Lab: Web cache poisoning via a fat GET request - Portswigger | L4V4NY4  AGR3 | [Read More](https://medium.com/p/26092ca92558) |
-| Tue, 06 Jan 2026 15:24:14 GMT | Door Wide Open: One crook, 50 companies, and a password problem | Sudarshan | [Read More](https://medium.com/p/6225651ec5fb) |
-| Tue, 06 Jan 2026 15:17:29 GMT | Garage Door Security Tips for Every Homeowner | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/2fbdb67efef8) |
