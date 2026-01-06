@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 04:36:55 GMT | Vulnerability Disclosure -Business logic: Application Restriction Bypass @ Zoho Application Control… | Kartik Lalan | [Read More](https://medium.com/p/a0ac15960923) |
+| Tue, 06 Jan 2026 04:32:27 GMT | System Information | Hendra Maulana | [Read More](https://medium.com/p/08c37e4b145e) |
+| Tue, 06 Jan 2026 04:12:47 GMT | Kioptrix Level 1 Guide | n1ck | [Read More](https://medium.com/p/1bfc84d10620) |
+| Tue, 06 Jan 2026 04:02:25 GMT | 7 Quiet Signs a Chain Is Enterprise-Ready | Vectorlane | [Read More](https://medium.com/p/f6d95a372fec) |
+| Tue, 06 Jan 2026 03:49:49 GMT | Network and Communications Security Part 2: Mapping Vulnerabilities to the OSI Model | Manubhav Sharma | [Read More](https://medium.com/p/3839a0d1d879) |
+| Tue, 06 Jan 2026 03:48:22 GMT | The Dormant Hacker: Why My 20-Year Detour Only Made Me Sharper | Anthony Depaz | [Read More](https://medium.com/p/e18358f5bd82) |
+| Tue, 06 Jan 2026 03:45:59 GMT | Substitute Authorizer for Approval Templates in SAP B1 version 10 | Hendra Maulana | [Read More](https://medium.com/p/1d369930cd69) |
+| Tue, 06 Jan 2026 03:42:56 GMT | CTO In Action: A Practical Framework for Evaluating Effectiveness and ROI | Blog Chip | [Read More](https://medium.com/p/54ff545a95db) |
+| Tue, 06 Jan 2026 03:32:26 GMT | When “Fixing an Error” Becomes the Mistake: Inside the ClickFix and DarkGate Campaign | Deven Chhajed | [Read More](https://medium.com/p/27c73ccd19cf) |
+| Tue, 06 Jan 2026 03:31:50 GMT | Congratulations, You’re Almost Rich | Dr. Thomas Jreige | [Read More](https://medium.com/p/3382b07d9ddd) |
 | Tue, 06 Jan 2026 03:12:31 GMT | Real-World Security Scenarios and Learning Notes (SOC Perspective) | Jenishjoel | [Read More](https://medium.com/p/088b4388c49a) |
 | Tue, 06 Jan 2026 03:06:33 GMT | MITRE ATT&CK Techniques Explained Simply (For SOC Analysts) | Jenishjoel | [Read More](https://medium.com/p/7e84074840c0) |
 | Tue, 06 Jan 2026 03:03:35 GMT | The Blind Customer: Securing Cost Cap & Performance in F1’s 2026 Active Aero Era | Timothy D. Harmon, CISSP | [Read More](https://medium.com/p/c13d77d5aa95) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 18:12:04 GMT | I Abhor LinkedIn, Do You? | Briana Derry, MBA | [Read More](https://medium.com/p/158fb06631ec) |
 | Mon, 05 Jan 2026 18:10:34 GMT | Building an Extremely Vulnerable Windows 10 Lab: A Step-by-Step Guide (Bonus:Full PT with… | Andrey Pautov | [Read More](https://medium.com/p/9290d388744c) |
 | Mon, 05 Jan 2026 18:09:23 GMT | The IAM Blind Spot Everyone Is Ignoring: Non-Human Identities Are Taking Over | Sunnysinha | [Read More](https://medium.com/p/994a5b9f6136) |
-| Mon, 05 Jan 2026 18:08:17 GMT | Aster THM Room write-up | Mudiuth | [Read More](https://medium.com/p/a30571f188d0) |
-| Mon, 05 Jan 2026 18:06:19 GMT | Security Access Management: Methods and Best Practices | Joven A Rodrigues | [Read More](https://medium.com/p/997ebdf5bc1f) |
-| Mon, 05 Jan 2026 18:00:13 GMT | Abusing Client Controlled Authorization State to Achieve Privilege Escalation in Modern Web… | Jawad Momani | [Read More](https://medium.com/p/47e3a443e7d9) |
-| Mon, 05 Jan 2026 17:59:18 GMT | Security Often Fails Where Trust Is Assumed | Nikitha Srinivasan | [Read More](https://medium.com/p/d47d89de9936) |
-| Mon, 05 Jan 2026 17:57:11 GMT | Lab: Insufficient workflow validation | Songül Kızılay Özügürler | [Read More](https://medium.com/p/94b7f069fbec) |
-| Mon, 05 Jan 2026 17:52:14 GMT | Try Hack Me- 0dayWalkthrough | PulseEinher | [Read More](https://medium.com/p/786a155ce23e) |
-| Mon, 05 Jan 2026 17:46:37 GMT | How To Hire A Hacker | Arlo Cox | [Read More](https://medium.com/p/5b8715c0ce1e) |
-| Mon, 05 Jan 2026 17:45:35 GMT | Years in Security Engineering — and I’m Still Learning Every Day | Surya Naga Sesank Munukutla | [Read More](https://medium.com/p/289f1e74966e) |
-| Mon, 05 Jan 2026 17:44:17 GMT | How To Hire A Hacker | Arlo Cox | [Read More](https://medium.com/p/0eb37627d294) |
-| Mon, 05 Jan 2026 17:43:02 GMT | ️ Part 7: The Stealth Safety Net — Global Interceptors, Silent Logging, and UI Toasts | Sidharth S | [Read More](https://medium.com/p/13fd4f0e9333) |
