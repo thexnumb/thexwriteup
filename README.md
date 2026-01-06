@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 05:41:51 GMT | Building an OSINT-Based Data Breach Exposure Monitor Using FastAPI (Day 1) | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/1e775c43f780) |
+| Tue, 06 Jan 2026 05:36:02 GMT | Managed Security Services Thane Mumbai: Strengthening Business Cybersecurity in a Digital World | Maxatlasofficial | [Read More](https://medium.com/p/bef4728d600f) |
+| Tue, 06 Jan 2026 05:36:01 GMT | Why Most DDoS Protection Makes Game Servers Slower | Serververse | [Read More](https://medium.com/p/b0d18d1d6762) |
+| Tue, 06 Jan 2026 05:34:21 GMT | Top 10 IT Companies in Hyderabad: Updated List, Salaries & Career Guide | ESSEIndia Insights | [Read More](https://medium.com/p/91ba1db75a63) |
+| Tue, 06 Jan 2026 05:31:50 GMT | The Recon Mistake 90% of Hackers Make ‍ | Vipul Sonule | [Read More](https://medium.com/p/52723b69b154) |
+| Tue, 06 Jan 2026 05:30:12 GMT | Build Core Cyber Defense Skills — Ethical Hacking Foundation Certification | Adhiraj Kasabe | [Read More](https://medium.com/p/e2a4f5179e82) |
+| Tue, 06 Jan 2026 05:30:00 GMT | (CSP) Common Bypass Techniques fo | Rishav anand | [Read More](https://medium.com/p/c890144e4432) |
+| Tue, 06 Jan 2026 05:29:45 GMT | The 4 Core Components of Data Security Management in 2025 (and Why They Matter) | Aslamsyed | [Read More](https://medium.com/p/98754554e823) |
+| Tue, 06 Jan 2026 05:29:09 GMT | ☕ Master CISSP Domain 4: 40 Coffee Shot Questions (Part 1 of 2) | Pushpak Sharma | [Read More](https://medium.com/p/ed07e34d7114) |
+| Tue, 06 Jan 2026 05:14:51 GMT | Why Tech Quizzes Matter More Than Degrees in 2026
+Author: Ankit Rai
+Organization: Codevirus… | Ankit rai | [Read More](https://medium.com/p/f640a5e98ecf) |
 | Tue, 06 Jan 2026 05:11:58 GMT | My first bounty from Hackerone - $100 Code Injection on AI bot | StvRoot | [Read More](https://medium.com/p/620a7e3f2ba4) |
 | Tue, 06 Jan 2026 04:59:55 GMT | Bypass OTP 4 Digit Menggunakan Burpsuite | Agil Jibrin | [Read More](https://medium.com/p/cbc89078512a) |
 | Tue, 06 Jan 2026 04:47:58 GMT | What are cookies? | Hari Sharma | [Read More](https://medium.com/p/283d127ad96b) |
@@ -102,13 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 19:27:47 GMT | Why Homemade WiFi Hacking Devices Keep Winning | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/d54ff7ea882a) |
 | Mon, 05 Jan 2026 19:24:43 GMT | Technical Investigation Report: Salat Stealer (Salat-family) Analysis | Augustine Sito | [Read More](https://medium.com/p/6da3950c7330) |
 | Mon, 05 Jan 2026 19:22:00 GMT | 2026: El Año de la Autonomía | Fabian Bozoglilanian | [Read More](https://medium.com/p/f8e667b7f2c5) |
-| Mon, 05 Jan 2026 19:18:08 GMT | Bypassing File Upload Whitelists to Achieve RCE | Yehya Hamdy Shehata | [Read More](https://medium.com/p/e237b46974a9) |
-| Mon, 05 Jan 2026 19:04:05 GMT | A Beginner’s Timeline: From Booking Your Course to Your First Shift | Jfk Tech | [Read More](https://medium.com/p/4b3ead251747) |
-| Mon, 05 Jan 2026 19:02:25 GMT | The Internet Is Not Safe for Children — And Most Parents Don’t Realize It | K. Middleton | [Read More](https://medium.com/p/9d9784d073b8) |
-| Mon, 05 Jan 2026 18:57:08 GMT | Part2: Drift, AI, and Accountability: Building Explainable Security Infrastructure | Salwan Mohamed | [Read More](https://medium.com/p/b419c95e27d3) |
-| Mon, 05 Jan 2026 18:56:51 GMT | Setting Up Security Onion in Oracle Virtual Box | Aadit Nair | [Read More](https://medium.com/p/56125da2fa86) |
-| Mon, 05 Jan 2026 18:55:59 GMT | Essential IT Services Every Small Business in Green Bay Should Prioritize | RhumBu LLC - IT Services & Managed Solutions | [Read More](https://medium.com/p/ba1c4fda19d2) |
-| Mon, 05 Jan 2026 18:46:16 GMT | HeartBleed Zafiyeti | Mehmet Ali Gülyurdu | [Read More](https://medium.com/p/f8a40c3b014d) |
-| Mon, 05 Jan 2026 18:44:05 GMT | SearXNG vs Brave Search: Control or Convenience for Privacy-Minded Teams | BiyteLüm | [Read More](https://medium.com/p/6064a30c28cf) |
-| Mon, 05 Jan 2026 18:40:15 GMT | Why Do Big Companies Put an API Gateway in Front of Every Microservice? | Anuragkumbhare | [Read More](https://medium.com/p/ba5e0f94133e) |
-| Mon, 05 Jan 2026 18:35:33 GMT | Symfonos: 4 — Complete Walkthrough (Beginner-Friendly) - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/161bc5d179f7) |
