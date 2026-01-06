@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 08:28:22 GMT | How Does Ransomware Work | Digital Duffer | [Read More](https://medium.com/p/6ad467d4c2f4) |
+| Tue, 06 Jan 2026 08:27:47 GMT | Internet Data Security in 2026: Emerging Cyber Threats and How to Protect Your Data | Bhagya Sandakelum | [Read More](https://medium.com/p/7786ccf1756d) |
+| Tue, 06 Jan 2026 08:26:51 GMT | Understanding Local File Inclusion (LFI) & Directory Traversal Attacks | Shayaan Khan | [Read More](https://medium.com/p/f8bbbbb04c17) |
+| Tue, 06 Jan 2026 08:15:30 GMT | Cybersecurity Threats Are After You | Saima Akther✨ | [Read More](https://medium.com/p/2afeca9a6054) |
+| Tue, 06 Jan 2026 08:07:29 GMT | OAuth 2.0: Stop Exposing Browser Auth Parameters and Client Secrets! | Saphynogenov | [Read More](https://medium.com/p/f29fbdefb2fe) |
+| Tue, 06 Jan 2026 08:01:34 GMT | Where Cyber Meets Liability: Integrating Coverages | Armin Mehraeen | [Read More](https://medium.com/p/64bc535dd55c) |
+| Tue, 06 Jan 2026 07:59:38 GMT | Designing the Cyber Insurance Unit: An Organizational Blueprint | Armin Mehraeen | [Read More](https://medium.com/p/b8fa73908308) |
+| Tue, 06 Jan 2026 07:57:33 GMT | Why Stuxnet Still Matters in 2026 | David SEHYEON Baek | [Read More](https://medium.com/p/c29cfe820194) |
+| Tue, 06 Jan 2026 07:56:30 GMT | Commercial Spyware Is Becoming More Accessible, Raising Growing Concerns | David SEHYEON Baek | [Read More](https://medium.com/p/90d000a7da26) |
+| Tue, 06 Jan 2026 07:54:19 GMT | Command Injection by Design: When GitHub Actions Turns Metadata into Code | Berk Dedekargınoğlu | [Read More](https://medium.com/p/aa644d396fb1) |
+| Tue, 06 Jan 2026 07:51:06 GMT | MCP’s Dark Side: Security Disasters & Lessons from Rapid Growth (Part 2 of 2) | Amrendra Vimal | [Read More](https://medium.com/p/f0433849c742) |
 | Tue, 06 Jan 2026 07:44:04 GMT | Weekly Threat Intelligence Report 29 Dec 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/a7ef9b61233e) |
 | Tue, 06 Jan 2026 07:39:30 GMT | Bypassing DOCTYPE Filters: XInclude XXE Exploitation | Tanmay Bhattacharjee | [Read More](https://medium.com/p/251bccbd0463) |
 | Tue, 06 Jan 2026 07:31:47 GMT | Why Most Async Code Passes Tests but Can Fail in Production | Rahulsalvi2k7 | [Read More](https://medium.com/p/3ce469592b1b) |
@@ -103,14 +114,3 @@ Organization: Codevirus… | Ankit rai | [Read More](https://medium.com/p/f640a5
 | Tue, 06 Jan 2026 00:55:46 GMT | Security-First Web Development: Building Resilient Applications | Nayan Goel | [Read More](https://medium.com/p/c0e9e4867195) |
 | Tue, 06 Jan 2026 00:37:50 GMT | VVS Stealer: New Obfuscated Python Malware Targets Discord Ecosystem | IndigoINT | [Read More](https://medium.com/p/aac61b3b0495) |
 | Tue, 06 Jan 2026 00:31:42 GMT | A Cyberpunk Take on CRUD: Building a WiFi Credential Webhook with .NET 9, Kestrel, and SQLite | hardrive9000 | [Read More](https://medium.com/p/76ef03c4d84e) |
-| Tue, 06 Jan 2026 00:30:10 GMT | Practical website vulnerability scanning for SaaS founders and small businesses | Ahad | [Read More](https://medium.com/p/405237fdb456) |
-| Tue, 06 Jan 2026 00:28:08 GMT | Wazuh Rollover Policy | Vigan | [Read More](https://medium.com/p/cc86d1287075) |
-| Tue, 06 Jan 2026 00:02:30 GMT | Guía de Nmap para Bug Bounty: Escaneo de Puertos y Evasión de WAF | JPablo13 | [Read More](https://medium.com/p/db84daed00b8) |
-| Mon, 05 Jan 2026 23:55:36 GMT | This Google Workspace Tool Might Replace Your Password Manager | Cyber-AppSec | [Read More](https://medium.com/p/4199f7b98a1f) |
-| Mon, 05 Jan 2026 23:55:12 GMT | Lab: Authentication bypass via flawed state machine | Songül Kızılay Özügürler | [Read More](https://medium.com/p/2e9328604ba9) |
-| Mon, 05 Jan 2026 23:54:57 GMT | Claude AI thinks it sees a ‘hidden’ or semi obscure tech company consortium, while another AI… | Berend Watchus | [Read More](https://medium.com/p/f1f9b694ca4e) |
-| Mon, 05 Jan 2026 23:41:14 GMT | 3 Free European Email Providers Built for Privacy | Özgür Karataş | [Read More](https://medium.com/p/8f245b907a8a) |
-| Mon, 05 Jan 2026 23:41:12 GMT | When Cognition Becomes the Attack Surface | Erik Gallmann | [Read More](https://medium.com/p/61a29af09045) |
-| Mon, 05 Jan 2026 23:35:45 GMT | No Missiles. No Troops. Still an Attack. | Khushdeep Sharma | [Read More](https://medium.com/p/92799e74507b) |
-| Mon, 05 Jan 2026 23:30:41 GMT | What We Tell Others, and What We Do Ourselves | AfterRainWrites | [Read More](https://medium.com/p/34eefa507a77) |
-| Mon, 05 Jan 2026 23:06:30 GMT | Tryhackme:SimpleCTF Writeup | Sacramar | [Read More](https://medium.com/p/05ffadf9ceea) |
