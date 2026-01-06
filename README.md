@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 05:11:58 GMT | My first bounty from Hackerone - $100 Code Injection on AI bot | StvRoot | [Read More](https://medium.com/p/620a7e3f2ba4) |
+| Tue, 06 Jan 2026 04:59:55 GMT | Bypass OTP 4 Digit Menggunakan Burpsuite | Agil Jibrin | [Read More](https://medium.com/p/cbc89078512a) |
+| Tue, 06 Jan 2026 04:47:58 GMT | What are cookies? | Hari Sharma | [Read More](https://medium.com/p/283d127ad96b) |
+| Tue, 06 Jan 2026 04:47:34 GMT | From Obfuscated JS to Valid Invite Code: A Real‑World Walkthrough | virexil.null | [Read More](https://medium.com/p/bc85d36c90ac) |
+| Tue, 06 Jan 2026 04:45:31 GMT | The Silent Guardian: A Deep Dive into Fail2ban for Server Hardening | Awais Akram | [Read More](https://medium.com/p/3a3879e13bad) |
 | Tue, 06 Jan 2026 04:36:55 GMT | Vulnerability Disclosure -Business logic: Application Restriction Bypass @ Zoho Application Control… | Kartik Lalan | [Read More](https://medium.com/p/a0ac15960923) |
+| Tue, 06 Jan 2026 04:35:05 GMT | The Evolution of Single Sign-On (SSO): From Password Fatigue to Zero Trust | Geeky Vartika | [Read More](https://medium.com/p/43d63ca85024) |
+| Tue, 06 Jan 2026 04:32:44 GMT | Detection Engineering: Solving Alert Fatigue at the Source | Shubh Gupta | [Read More](https://medium.com/p/a49a19bf1dab) |
 | Tue, 06 Jan 2026 04:32:27 GMT | System Information | Hendra Maulana | [Read More](https://medium.com/p/08c37e4b145e) |
+| Tue, 06 Jan 2026 04:31:09 GMT | MikroTik site to site IPsec VPN setup | Ernest Marvin Franco | [Read More](https://medium.com/p/d8d50d1de6a6) |
+| Tue, 06 Jan 2026 04:28:08 GMT | OverTheWire Bandit (Day 07): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/bfc591a7d10a) |
 | Tue, 06 Jan 2026 04:12:47 GMT | Kioptrix Level 1 Guide | n1ck | [Read More](https://medium.com/p/1bfc84d10620) |
 | Tue, 06 Jan 2026 04:02:25 GMT | 7 Quiet Signs a Chain Is Enterprise-Ready | Vectorlane | [Read More](https://medium.com/p/f6d95a372fec) |
 | Tue, 06 Jan 2026 03:49:49 GMT | Network and Communications Security Part 2: Mapping Vulnerabilities to the OSI Model | Manubhav Sharma | [Read More](https://medium.com/p/3839a0d1d879) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 18:44:05 GMT | SearXNG vs Brave Search: Control or Convenience for Privacy-Minded Teams | BiyteLüm | [Read More](https://medium.com/p/6064a30c28cf) |
 | Mon, 05 Jan 2026 18:40:15 GMT | Why Do Big Companies Put an API Gateway in Front of Every Microservice? | Anuragkumbhare | [Read More](https://medium.com/p/ba5e0f94133e) |
 | Mon, 05 Jan 2026 18:35:33 GMT | Symfonos: 4 — Complete Walkthrough (Beginner-Friendly) - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/161bc5d179f7) |
-| Mon, 05 Jan 2026 18:34:10 GMT | Protecting Data in a Coastal City: Cybersecurity Policies | DIVYANSH JAISWAL | [Read More](https://medium.com/p/3a24672f3678) |
-| Mon, 05 Jan 2026 18:31:52 GMT | Mastering Web Applications: A Journey from URLs to HTTP Handshakes | Shamir Ajmir Khan | [Read More](https://medium.com/p/584a53366378) |
-| Mon, 05 Jan 2026 18:31:25 GMT | Automating Active Directory Account Disablement After Failed Login Attempts (Wazuh + Graylog +… | SOCFortress | [Read More](https://medium.com/p/9b639f719632) |
-| Mon, 05 Jan 2026 18:30:35 GMT | Edge AI Is the Next Big Hardware War | Logic Over Latte | [Read More](https://medium.com/p/406da7d2b01c) |
-| Mon, 05 Jan 2026 18:28:54 GMT | Brauchst du wirklich einen Passwortmanager? | Benjamin Lembcke | [Read More](https://medium.com/p/1fb6bc9c876c) |
-| Mon, 05 Jan 2026 18:20:00 GMT | How Prepared Is Your Company? A Realistic Cybersecurity Reality Check | Cordula Boeck | [Read More](https://medium.com/p/03e34cf29af5) |
-| Mon, 05 Jan 2026 18:12:04 GMT | I Abhor LinkedIn, Do You? | Briana Derry, MBA | [Read More](https://medium.com/p/158fb06631ec) |
-| Mon, 05 Jan 2026 18:10:34 GMT | Building an Extremely Vulnerable Windows 10 Lab: A Step-by-Step Guide (Bonus:Full PT with… | Andrey Pautov | [Read More](https://medium.com/p/9290d388744c) |
-| Mon, 05 Jan 2026 18:09:23 GMT | The IAM Blind Spot Everyone Is Ignoring: Non-Human Identities Are Taking Over | Sunnysinha | [Read More](https://medium.com/p/994a5b9f6136) |
