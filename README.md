@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 03:12:31 GMT | Real-World Security Scenarios and Learning Notes (SOC Perspective) | Jenishjoel | [Read More](https://medium.com/p/088b4388c49a) |
+| Tue, 06 Jan 2026 03:06:33 GMT | MITRE ATT&CK Techniques Explained Simply (For SOC Analysts) | Jenishjoel | [Read More](https://medium.com/p/7e84074840c0) |
+| Tue, 06 Jan 2026 03:03:35 GMT | The Blind Customer: Securing Cost Cap & Performance in F1’s 2026 Active Aero Era | Timothy D. Harmon, CISSP | [Read More](https://medium.com/p/c13d77d5aa95) |
+| Tue, 06 Jan 2026 03:03:05 GMT | Path Traversal vulnerability and how to prevent it | Rémy Villulles | [Read More](https://medium.com/p/c6793f3c05ff) |
+| Tue, 06 Jan 2026 02:59:52 GMT | What is Builders Risk Insurance Policy? | Auswide Insurance Brokers | [Read More](https://medium.com/p/b65325a7cf14) |
+| Tue, 06 Jan 2026 02:38:53 GMT | How to Secure Active Directory Domain Controllers: Top 10 Microsoft‑Recommended Best Practices | Kevin Kueck | [Read More](https://medium.com/p/a9e7bd52bf56) |
+| Tue, 06 Jan 2026 02:37:20 GMT | 30 December 2025: A State of Grace | Ashwin kalla | [Read More](https://medium.com/p/4690fe7b6f1c) |
+| Tue, 06 Jan 2026 02:30:55 GMT | Tuesday Morning Threat Report: Jan 6, 2026 | Mark Maguire | [Read More](https://medium.com/p/58710c50b87d) |
+| Tue, 06 Jan 2026 02:22:12 GMT | Stop Drowning in Papers: An AI Workflow from a Nature Journal (IF 41.7) | Koii | [Read More](https://medium.com/p/f3ec358068ca) |
+| Tue, 06 Jan 2026 02:17:45 GMT | Manual SQL Injection Using HackBar (Cyberfox) Complete Beginner Guide | Purushotham.R | [Read More](https://medium.com/p/4fe12e331345) |
 | Tue, 06 Jan 2026 01:51:24 GMT | JavaScript Analysis & Burp Suite Techniques That Actually Work | Monika sharma | [Read More](https://medium.com/p/d9c26823c219) |
+| Tue, 06 Jan 2026 01:51:19 GMT | Weaponizing HTTP Headers: The Reconnaissance Phase | Martin Simonyan | [Read More](https://medium.com/p/7bfaac86774b) |
 | Tue, 06 Jan 2026 01:43:38 GMT | Gemini Enterprise + Microsoft 365: The “Secure Broker” Model for OneDrive, Outlook, and SharePoint | Manoj Thammu | [Read More](https://medium.com/p/7ad87a351b26) |
 | Tue, 06 Jan 2026 01:42:25 GMT | CISSP Domain 4 Mastery Series- Part 2: Firewall Architecture & Types | Pushpak Sharma | [Read More](https://medium.com/p/b46b741c5d38) |
 | Tue, 06 Jan 2026 01:22:45 GMT | The Psychology of Lost Love: Who Hurts More After a Breakup? | Chantima Boon | [Read More](https://medium.com/p/0ed66b7702fa) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 05 Jan 2026 17:45:35 GMT | Years in Security Engineering — and I’m Still Learning Every Day | Surya Naga Sesank Munukutla | [Read More](https://medium.com/p/289f1e74966e) |
 | Mon, 05 Jan 2026 17:44:17 GMT | How To Hire A Hacker | Arlo Cox | [Read More](https://medium.com/p/0eb37627d294) |
 | Mon, 05 Jan 2026 17:43:02 GMT | ️ Part 7: The Stealth Safety Net — Global Interceptors, Silent Logging, and UI Toasts | Sidharth S | [Read More](https://medium.com/p/13fd4f0e9333) |
-| Mon, 05 Jan 2026 17:40:54 GMT | Exposure | I.M.Writing | [Read More](https://medium.com/p/330a7dba02a8) |
-| Mon, 05 Jan 2026 17:38:45 GMT | How I Built Intelligent Systems: My Journey into AI Automation | William Brown | [Read More](https://medium.com/p/c8be2178a078) |
-| Mon, 05 Jan 2026 17:37:00 GMT | Inside Linux TCP: From Handshake to Reset or Close | Bidhan Khatri | [Read More](https://medium.com/p/7a0fc5d515b7) |
-| Mon, 05 Jan 2026 17:34:32 GMT | PicoCTF Writeup — Ph4nt0m 1ntrud3r | acon | [Read More](https://medium.com/p/db88d243d661) |
-| Mon, 05 Jan 2026 17:31:34 GMT | Baseline Linux Server Hardening & Exposure Validation | Surya Naga Sesank Munukutla | [Read More](https://medium.com/p/e89564b85e17) |
-| Mon, 05 Jan 2026 17:31:32 GMT | The Tech Trap: Why “Auto-Pilot” Doesn’t Work | Teona | [Read More](https://medium.com/p/8ea1e3d2daf8) |
-| Mon, 05 Jan 2026 17:30:34 GMT | How to Deal with a Snapped Key in Lock: Quick Help from Trusted Locksmiths | The Lock Specialist Ltd | [Read More](https://medium.com/p/80ee7d7f9d4f) |
-| Mon, 05 Jan 2026 17:30:14 GMT | Reliable Locksmith Assistance Across London by The Lock Specialist Ltd | The Lock Specialist Ltd | [Read More](https://medium.com/p/f2752dcf2a78) |
-| Mon, 05 Jan 2026 17:29:24 GMT | Become an investigator on hack the box with sherlock category — CVE-2025–14847 | Michael Harms | [Read More](https://medium.com/p/b3e13a57277b) |
-| Mon, 05 Jan 2026 17:24:51 GMT | Cheesy Does It Bugforge Daily CTF Challange | blackm4c | [Read More](https://medium.com/p/b6720563e3ba) |
-| Mon, 05 Jan 2026 17:24:11 GMT | Breaking the Same-Origin Policy: A Dive into a CORS Misconfiguration | Ehtesham Ul Haq | [Read More](https://medium.com/p/b6174b0abee6) |
