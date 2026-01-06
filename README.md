@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 10:40:26 GMT | Navigating the Cyber Landscape: A Guide to Modern Security Roles | Laaguidi Yassine | [Read More](https://medium.com/p/f60112a739a2) |
+| Tue, 06 Jan 2026 10:40:23 GMT | Top 10 OSINT Tools for Fraud Detection & Risk Intelligence in 2026 — With Real-World Insights from… | Sheevum Goel | [Read More](https://medium.com/p/b80e78aea9ce) |
+| Tue, 06 Jan 2026 10:36:19 GMT | Otherworld Legends Mod Apk | Game4u | [Read More](https://medium.com/p/1635b0858dd1) |
+| Tue, 06 Jan 2026 10:35:41 GMT | What Board Members Should Understand About Cyber Risk | Digital Defense | [Read More](https://medium.com/p/9d36aa8bde80) |
+| Tue, 06 Jan 2026 10:32:31 GMT | AI SOC Isn’t Dead. Unsupervised AI Was the Problem. | Graylog | [Read More](https://medium.com/p/b3e1bee68a96) |
+| Tue, 06 Jan 2026 10:30:32 GMT | PWN104 — TryHackMe | SilentHex | [Read More](https://medium.com/p/fdc2a48b991e) |
+| Tue, 06 Jan 2026 10:29:13 GMT | When Everything Looks Like a Deepfake | Mikhaylo Pavlyuk | [Read More](https://medium.com/p/53bd00a148a5) |
+| Tue, 06 Jan 2026 10:28:16 GMT | Berlin in the Dark — And Manifesto That Raises More Questions Than Answers | Dr. Hendrik Schnack | [Read More](https://medium.com/p/ec348ed8b5c1) |
+| Tue, 06 Jan 2026 10:27:14 GMT | Ethical Hacking Career Options for Freshers | Hadiyayazeen | [Read More](https://medium.com/p/89ca1d23e709) |
+| Tue, 06 Jan 2026 10:22:45 GMT | What Recruiters Look for in a Full Stack Developer Portfolio | NS Academy | [Read More](https://medium.com/p/a3b604ee8cf7) |
+| Tue, 06 Jan 2026 10:20:29 GMT | A Ghana Bank Hit & Africa’s Digital Defenses | O. J. Okpabi | [Read More](https://medium.com/p/cf6fef49ddcd) |
 | Tue, 06 Jan 2026 10:12:51 GMT | University of Phoenix Heist & 3.5 Million Lives Through Oracle Flaw | O. J. Okpabi | [Read More](https://medium.com/p/ab878b9eb277) |
 | Tue, 06 Jan 2026 10:08:55 GMT | CTEM Playbook: Reduce Risk Before Attackers Find It | Chitrakshi | [Read More](https://medium.com/p/b9d6d94a614d) |
 | Tue, 06 Jan 2026 10:07:33 GMT | Phishing from the Defensive Side: Seeing What the Attacker Hopes You Miss
@@ -103,14 +114,3 @@ The Engineering Foundation of Trust and Security in APIs | Sandali Jayaweera | [
 | Tue, 06 Jan 2026 06:14:47 GMT | Passwords Didn’t Fail All at Once. They Just Stopped Making Sense. | CodeWithYog | [Read More](https://medium.com/p/e9699062d6db) |
 | Tue, 06 Jan 2026 06:14:06 GMT | Building Cyber Confidence Across Enterprise Networks | Kadhijahafiya | [Read More](https://medium.com/p/ad934001ca99) |
 | Tue, 06 Jan 2026 06:11:49 GMT | Data Backup on Windows Pro, File History & Backup Types: A Full VirtualBox Lab Walkthrough. | Declan | [Read More](https://medium.com/p/527a4b521f5e) |
-| Tue, 06 Jan 2026 06:09:11 GMT | From Recon Burnout to Automation: How I Built My First Bug Bounty Tool | Captain Rogers | [Read More](https://medium.com/p/e6b8aec6e32f) |
-| Tue, 06 Jan 2026 06:07:07 GMT | ️ TCS HackQuest Season 10 — Round 1 Write-Up | sushi | [Read More](https://medium.com/p/99562df8c524) |
-| Tue, 06 Jan 2026 06:06:19 GMT | Breaking the Web (Part 8): Sensitive Data Exposure — When Secrets Leak | Mohammed Fahad | [Read More](https://medium.com/p/7f42cd64a063) |
-| Tue, 06 Jan 2026 06:02:27 GMT | Siber Güvenlik 101: Dijital Dünyada Kendinizi Nasıl Korursunuz? | Zerioth Cypher Evidence | [Read More](https://medium.com/p/183205971811) |
-| Tue, 06 Jan 2026 05:53:45 GMT | Google Cloud Red Team Professional certification — Review | marianita_cloud | [Read More](https://medium.com/p/2da49b98f34a) |
-| Tue, 06 Jan 2026 05:41:51 GMT | Building an OSINT-Based Data Breach Exposure Monitor Using FastAPI (Day 1) | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/1e775c43f780) |
-| Tue, 06 Jan 2026 05:36:02 GMT | Managed Security Services Thane Mumbai: Strengthening Business Cybersecurity in a Digital World | Maxatlasofficial | [Read More](https://medium.com/p/bef4728d600f) |
-| Tue, 06 Jan 2026 05:36:01 GMT | Why Most DDoS Protection Makes Game Servers Slower | Serververse | [Read More](https://medium.com/p/b0d18d1d6762) |
-| Tue, 06 Jan 2026 05:34:21 GMT | Top 10 IT Companies in Hyderabad: Updated List, Salaries & Career Guide | ESSEIndia Insights | [Read More](https://medium.com/p/91ba1db75a63) |
-| Tue, 06 Jan 2026 05:31:50 GMT | The Recon Mistake 90% of Hackers Make ‍ | Vipul Sonule | [Read More](https://medium.com/p/52723b69b154) |
-| Tue, 06 Jan 2026 05:30:12 GMT | Build Core Cyber Defense Skills — Ethical Hacking Foundation Certification | Adhiraj Kasabe | [Read More](https://medium.com/p/e2a4f5179e82) |
