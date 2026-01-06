@@ -12,8 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 16:30:19 GMT | Try Hack Me- Biohazard Walkthrough | PulseEinher | [Read More](https://medium.com/p/48c840f59485) |
+| Tue, 06 Jan 2026 16:25:19 GMT | AWS’s New AI “Frontier” Security Reviewer | Mr.Vardhan | [Read More](https://medium.com/p/e54d813082d4) |
+| Tue, 06 Jan 2026 16:20:41 GMT | Active Directory Pentesting in 2026: Why It Still Matters and How to Master It. | Ali bin azam | [Read More](https://medium.com/p/8341ac9706a2) |
+| Tue, 06 Jan 2026 16:19:23 GMT | Security-First Laravel Development in 2026: Defensive Coding Practices | ElevenDev MuslimCoder | [Read More](https://medium.com/p/fb1cfbd21c53) |
+| Tue, 06 Jan 2026 16:17:34 GMT | Hydra — Online Password Brute-Forcing - Hands-On Practice | DeshmukhVinit | [Read More](https://medium.com/p/3dc4676ac097) |
+| Tue, 06 Jan 2026 16:17:04 GMT | Cyber Risk in 2026: How Organizations Can Stay Ahead | Aku | [Read More](https://medium.com/p/e944ba67a349) |
+| Tue, 06 Jan 2026 16:14:30 GMT | Writing: A Silent Exposé | THE WRITER’S LENS | [Read More](https://medium.com/p/f17f58aee804) |
+| Tue, 06 Jan 2026 16:12:22 GMT | How to Recover an Instagram ID
+1️⃣ Using “Forgot Password” | Ethical Hacker | [Read More](https://medium.com/p/d5054ae2bbc3) |
+| Tue, 06 Jan 2026 16:10:52 GMT | Day 1 in Cybersecurity: My Introduction to Ethical Hacking | Mohammad-AL-Momani | [Read More](https://medium.com/p/56df09ea2fa3) |
+| Tue, 06 Jan 2026 16:02:51 GMT | Is BTC really PRIVATE, ANONYMOUS, and SECURE? — Watch Out Bitcoin Panel | Pablo F. Iglesias | [Read More](https://medium.com/p/4ba26ddd1d4c) |
+| Tue, 06 Jan 2026 16:01:50 GMT | Why a $25 M5StickC Plus Stack Outclasses the $250 Flipper Zero: Evaluating the M5StickC Plus | MR EFF3CT 007 | [Read More](https://medium.com/p/a5d51802fbe9) |
+| Tue, 06 Jan 2026 15:59:26 GMT | Launching a new era of learning with The Technovation Hub. | The Technovation Hub | [Read More](https://medium.com/p/06fde60b1d19) |
+| Tue, 06 Jan 2026 15:58:27 GMT | The UK Government Wants My Passport to View Reddit, But Won’t Fix My ISP’s Broken Parental Controls | Mikey Banner | [Read More](https://medium.com/p/0bb57447e875) |
+| Tue, 06 Jan 2026 15:57:17 GMT | Bandit Level 11 to Level 12 | Sivanesan M | [Read More](https://medium.com/p/00c652045461) |
+| Tue, 06 Jan 2026 15:51:38 GMT | Navigating the Tokenization Shift: A Compliance-First Policy Framework | Ahmed S Ali | [Read More](https://medium.com/p/0a18df4dac92) |
+| Tue, 06 Jan 2026 15:49:55 GMT | Active Directory Certificate Services Exploitation 1–4 | 0xb0z | [Read More](https://medium.com/p/1b715ae50d57) |
+| Tue, 06 Jan 2026 15:49:50 GMT | My Cybersecurity Internship Journey with Oasis Infobyte | Asleshasethy | [Read More](https://medium.com/p/499745602948) |
 | Tue, 06 Jan 2026 15:46:50 GMT | [DEEP RESEARCH] Token Factory: The 5 Costliest US Breaches of 2025 | Wes Young | [Read More](https://medium.com/p/718f2f889159) |
 | Tue, 06 Jan 2026 15:46:37 GMT | How One “Safe” Optimization Feature Became a Critical Security Failure ⚙️ | Iski | [Read More](https://medium.com/p/55b00dc462ec) |
+| Tue, 06 Jan 2026 15:45:14 GMT | Unpacking Microsoft Defender for Office 365: A 30-Day SOC Triage Series | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/9c34ded75f04) |
 | Tue, 06 Jan 2026 15:40:27 GMT | Managed Services & Cybersecurity in 2026: What’s Evolving, What’s Staying, and What’s Next | Paradise technologies Inc | [Read More](https://medium.com/p/2bc294c2a00e) |
 | Tue, 06 Jan 2026 15:40:25 GMT | The 2023 jabber.ru Attack Exposes a Critical Cloudflare Flaw in 2025 | David Osipov | [Read More](https://medium.com/p/3331a6d671ea) |
 | Tue, 06 Jan 2026 15:39:41 GMT | The Decorator Pattern Nobody Talks About: 5 Real-World Uses in Modern Java | Jitin Kayyala | [Read More](https://medium.com/p/459d5eaec63b) |
@@ -94,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 Jan 2026 11:19:25 GMT | Hire a Hacker Online Safely: What It Really Means and How to Do It Right | Rebecca Smith | [Read More](https://medium.com/p/3faac1ccdeb5) |
 | Tue, 06 Jan 2026 11:18:59 GMT | #2 Désérialisation explication | Gaby zaafrani | [Read More](https://medium.com/p/1636169847a9) |
 | Tue, 06 Jan 2026 11:18:51 GMT | Cryptocurrency and Terror Financing: Tracking Bitcoin to Boko Haram | Oge Samuel Okonkwo | [Read More](https://medium.com/p/3c765f4aa2a1) |
-| Tue, 06 Jan 2026 11:18:13 GMT | Flutter app to avoid CWE-384 (Session Fixation) while keeping good UX | Flutter Guru | [Read More](https://medium.com/p/cd0f9a9ea88b) |
-| Tue, 06 Jan 2026 11:18:12 GMT | How Hexaview Builds Secure, Compliant AI Agents for Regulated Industries Using Agentforce | Ishika Verma | [Read More](https://medium.com/p/1084a5f5b54a) |
-| Tue, 06 Jan 2026 11:15:41 GMT | From Curiosity to Certification: My eJPT Journey | Teboho Twala jnr | [Read More](https://medium.com/p/a9a383a7d4cc) |
-| Tue, 06 Jan 2026 11:15:17 GMT | Why Python Matters in Cybersecurity: An Abstract Perspective | Anam Khan | [Read More](https://medium.com/p/0a48857fcfc4) |
-| Tue, 06 Jan 2026 11:05:47 GMT | Shadow AI: Why making people afraid doesn't make them secure | Charles Anthony Browne | [Read More](https://medium.com/p/cc0b2cf94087) |
-| Tue, 06 Jan 2026 11:05:37 GMT | # ️ Designing My First CTF: Lessons Learned and How You Can Build Yours | Roshan Rajbanshi | [Read More](https://medium.com/p/d67b90e0a4a1) |
-| Tue, 06 Jan 2026 11:02:28 GMT | Release Notes: AI Sigma Rules, Live Threat Landscape & 1,700+ New Detections | ANY.RUN | [Read More](https://medium.com/p/47dda932ffd1) |
-| Tue, 06 Jan 2026 11:00:28 GMT | Financial Fraud Detection: Protecting Businesses from Digital Threats | SADI AI | [Read More](https://medium.com/p/32d9360d8fd4) |
-| Tue, 06 Jan 2026 10:58:33 GMT | Best Toll-Free Service Provider in Vietnam | Ashutosh Mallik | [Read More](https://medium.com/p/2a0af3a47e17) |
-| Tue, 06 Jan 2026 10:56:15 GMT | AWS Pentesting for Beginners: Think Like a Cloud Attacker | Motasem Hamdan | [Read More](https://medium.com/p/1398a24779c8) |
-| Tue, 06 Jan 2026 10:55:54 GMT | Associative: A Premier Cross Platform Application Development Company in Pune, India | Chaitanyachavan | [Read More](https://medium.com/p/f0f4e7bcb8d1) |
-| Tue, 06 Jan 2026 10:54:19 GMT | How Cybersecurity Professionals Can Increase Their Income in 2026 (Not Their Salary) | EINITIAL24 | [Read More](https://medium.com/p/644dd486604c) |
-| Tue, 06 Jan 2026 10:53:46 GMT | Tales of CWE-384 and Android Apps | Yash Virendra Prajapati | [Read More](https://medium.com/p/e8a66e35f6df) |
-| Tue, 06 Jan 2026 10:53:22 GMT | Top 10 Cybersecurity Companies In Thailand 2026 | QualysecEurope | [Read More](https://medium.com/p/211854b0117d) |
-| Tue, 06 Jan 2026 10:51:05 GMT | Clash of Clans MOD APK | genzvnmod | [Read More](https://medium.com/p/978b4aa4c64d) |
-| Tue, 06 Jan 2026 10:48:01 GMT | Zig Signatures (Ed25519 and ECDSA) | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/e2d3984694ce) |
-| Tue, 06 Jan 2026 10:46:53 GMT | Yahoo Plus: When Cybercrime Becomes Murder | Oge Samuel Okonkwo | [Read More](https://medium.com/p/db67ffe5eab3) |
-| Tue, 06 Jan 2026 10:44:20 GMT | Decoding the Dahua 2449 Series: A Guide to HFW, HDW, AS, and IL Models | Tavan CCTV | [Read More](https://medium.com/p/998ace86d7bc) |
