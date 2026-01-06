@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 23:33:27 GMT | Agent T TryHackMe Write UP | cat0x01 | [Read More](https://medium.com/p/251d767d5bd0) |
+| Tue, 06 Jan 2026 23:28:18 GMT | CVE Program to Normalize Formatting of Date/Time Fields Across Historical CVE Records Beginning in… | CVE Program Blog | [Read More](https://medium.com/p/a1dacd5637fa) |
+| Tue, 06 Jan 2026 23:24:31 GMT | Top Breaches in Cyber Security in 2025 — upcoming live panel | Matthew.Rosenquist | [Read More](https://medium.com/p/f64d84fd4489) |
+| Tue, 06 Jan 2026 23:21:51 GMT | Your Company’s Identity Problem (And Why It’s Going to Get Worse) | Rekuway | [Read More](https://medium.com/p/757bbd963c88) |
 | Tue, 06 Jan 2026 23:15:01 GMT | Advent of Cyber — Day 6: Malware Analysis — Egg-xecutable | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/0566d2011f64) |
 | Tue, 06 Jan 2026 23:11:57 GMT | Advent of Cyber — Day 5: IDOR — Santa’s Little IDOR | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/65097f41096d) |
 | Tue, 06 Jan 2026 22:59:27 GMT | Alleged NordVPN Data Breach: Why Development Environments Are the New Attack Surface | Cyber-AppSec | [Read More](https://medium.com/p/1e87e6c63697) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 Jan 2026 16:02:51 GMT | Is BTC really PRIVATE, ANONYMOUS, and SECURE? — Watch Out Bitcoin Panel | Pablo F. Iglesias | [Read More](https://medium.com/p/4ba26ddd1d4c) |
 | Tue, 06 Jan 2026 16:01:50 GMT | Why a $25 M5StickC Plus Stack Outclasses the $250 Flipper Zero: Evaluating the M5StickC Plus | MR EFF3CT 007 | [Read More](https://medium.com/p/a5d51802fbe9) |
 | Tue, 06 Jan 2026 15:59:26 GMT | Launching a new era of learning with The Technovation Hub. | The Technovation Hub | [Read More](https://medium.com/p/06fde60b1d19) |
-| Tue, 06 Jan 2026 15:58:27 GMT | The UK Government Wants My Passport to View Reddit, But Won’t Fix My ISP’s Broken Parental Controls | Mikey Banner | [Read More](https://medium.com/p/0bb57447e875) |
-| Tue, 06 Jan 2026 15:57:17 GMT | Bandit Level 11 to Level 12 | Sivanesan M | [Read More](https://medium.com/p/00c652045461) |
-| Tue, 06 Jan 2026 15:51:38 GMT | Navigating the Tokenization Shift: A Compliance-First Policy Framework | Ahmed S Ali | [Read More](https://medium.com/p/0a18df4dac92) |
-| Tue, 06 Jan 2026 15:49:55 GMT | Active Directory Certificate Services Exploitation 1–4 | 0xb0z | [Read More](https://medium.com/p/1b715ae50d57) |
