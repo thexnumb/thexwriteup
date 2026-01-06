@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 06:27:02 GMT | One Post Away From Being Exposed | dedo | [Read More](https://medium.com/p/586c0d415f98) |
+| Tue, 06 Jan 2026 06:24:45 GMT | Beginner Mistakes to Avoid in Bug Bounty (So You Don’t Quit Too Early) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/b1c4127eaac5) |
+| Tue, 06 Jan 2026 06:23:07 GMT | Cyber Insurance Underwriting: Navigating Challenges and Opportunities in an Era of Evolving Threats… | Ignatius Wang | [Read More](https://medium.com/p/fcbbd554612e) |
+| Tue, 06 Jan 2026 06:19:15 GMT | PANDUAN LENGKAP: MEMBANGUN ACTIVE DIRECTORY LAB | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/bfa328b0610f) |
+| Tue, 06 Jan 2026 06:16:25 GMT | Browser-Based kubectl Access: Managing Kubernetes Without Bastion Hosts or Heavy Tools | Zs Robert | [Read More](https://medium.com/p/1b6c939ce8ee) |
+| Tue, 06 Jan 2026 06:16:07 GMT | Why Cybersecurity in Healthcare Matters More Today Than Ever | Yash Patel | [Read More](https://medium.com/p/1da074c8bdb0) |
+| Tue, 06 Jan 2026 06:14:47 GMT | Passwords Didn’t Fail All at Once. They Just Stopped Making Sense. | CodeWithYog | [Read More](https://medium.com/p/e9699062d6db) |
+| Tue, 06 Jan 2026 06:14:06 GMT | Building Cyber Confidence Across Enterprise Networks | Kadhijahafiya | [Read More](https://medium.com/p/ad934001ca99) |
+| Tue, 06 Jan 2026 06:11:49 GMT | Data Backup on Windows Pro, File History & Backup Types: A Full VirtualBox Lab Walkthrough. | Declan | [Read More](https://medium.com/p/527a4b521f5e) |
+| Tue, 06 Jan 2026 06:09:11 GMT | From Recon Burnout to Automation: How I Built My First Bug Bounty Tool | Captain Rogers | [Read More](https://medium.com/p/e6b8aec6e32f) |
+| Tue, 06 Jan 2026 06:07:07 GMT | ️ TCS HackQuest Season 10 — Round 1 Write-Up | sushi | [Read More](https://medium.com/p/99562df8c524) |
+| Tue, 06 Jan 2026 06:06:19 GMT | Breaking the Web (Part 8): Sensitive Data Exposure — When Secrets Leak | Mohammed Fahad | [Read More](https://medium.com/p/7f42cd64a063) |
+| Tue, 06 Jan 2026 06:02:27 GMT | Siber Güvenlik 101: Dijital Dünyada Kendinizi Nasıl Korursunuz? | Zerioth Cypher Evidence | [Read More](https://medium.com/p/183205971811) |
+| Tue, 06 Jan 2026 05:53:45 GMT | Google Cloud Red Team Professional certification — Review | marianita_cloud | [Read More](https://medium.com/p/2da49b98f34a) |
 | Tue, 06 Jan 2026 05:41:51 GMT | Building an OSINT-Based Data Breach Exposure Monitor Using FastAPI (Day 1) | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/1e775c43f780) |
 | Tue, 06 Jan 2026 05:36:02 GMT | Managed Security Services Thane Mumbai: Strengthening Business Cybersecurity in a Digital World | Maxatlasofficial | [Read More](https://medium.com/p/bef4728d600f) |
 | Tue, 06 Jan 2026 05:36:01 GMT | Why Most DDoS Protection Makes Game Servers Slower | Serververse | [Read More](https://medium.com/p/b0d18d1d6762) |
@@ -100,17 +114,3 @@ Organization: Codevirus… | Ankit rai | [Read More](https://medium.com/p/f640a5
 | Mon, 05 Jan 2026 20:17:00 GMT | AresGPT: Decision-Making with Red Teaming Strategies | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/7de4a1dad59f) |
 | Mon, 05 Jan 2026 20:13:42 GMT | Trojanizer Explained: How Fake Installers Really Work | ghostyjoe | [Read More](https://medium.com/p/348c96b9c41e) |
 | Mon, 05 Jan 2026 20:12:54 GMT | The Renaissance of Injection: Architecting Resilience in LLM‑to‑SQL Systems | Sunil Gentyala | [Read More](https://medium.com/p/b6ad272329a2) |
-| Mon, 05 Jan 2026 20:11:28 GMT | Cybersecurity Analyst — Career Path & Salaries (2026) | Franklin Rhodes | [Read More](https://medium.com/p/5fde41c135a6) |
-| Mon, 05 Jan 2026 20:02:21 GMT | 2026: Understanding Cybersecurity, Projects, and Leadership Through Stories and Systems | Oluwadamilare Adeosun | [Read More](https://medium.com/p/dd2dedfa271a) |
-| Mon, 05 Jan 2026 20:00:43 GMT | CrowdStrike, AWS, and NVIDIA assemble the 2026 cybersecurity cohort | Nathaniel Niyazov | [Read More](https://medium.com/p/aec293cff99e) |
-| Mon, 05 Jan 2026 19:59:41 GMT | Beyond the Toolset: Advanced Red Teaming via LotL and WMI Persistence | Guilherme Mury | [Read More](https://medium.com/p/30c35c28762d) |
-| Mon, 05 Jan 2026 19:55:36 GMT | AI Security Isn’t Bullshit. But We’re Securing the Wrong Thing. | David Campbell | [Read More](https://medium.com/p/b925d04b517a) |
-| Mon, 05 Jan 2026 19:54:34 GMT | Lab 03–01 : When Malware Fights Back — Analyzing Poison Ivy’s Anti-VM Evasion | Ramadhan Zome | [Read More](https://medium.com/p/42b56b9119cc) |
-| Mon, 05 Jan 2026 19:49:39 GMT | Hackeado por ser Eficiente☠️(Parte 2) | Saulo Briceño Wong | [Read More](https://medium.com/p/8190603e5db8) |
-| Mon, 05 Jan 2026 19:45:56 GMT | Implementing Robust File Integrity Monitoring (FIM) with Wazuh. | Wilklins Nyatteng | [Read More](https://medium.com/p/19dcf89829c9) |
-| Mon, 05 Jan 2026 19:45:11 GMT | The Manipulation Guard: Implementing APM in Lending Protocols | Nathan Ramli | [Read More](https://medium.com/p/c2841ceb9f5a) |
-| Mon, 05 Jan 2026 19:34:21 GMT | Android Reconnaissance Methodology: A Systematic Approach to Mobile Device Information Gathering | N0aziXss | [Read More](https://medium.com/p/c03e52ebbc91) |
-| Mon, 05 Jan 2026 19:30:17 GMT | The software ‘landscape’ is becoming an ‘ocean’ | Rob Manson | [Read More](https://medium.com/p/deff9e139452) |
-| Mon, 05 Jan 2026 19:27:47 GMT | Why Homemade WiFi Hacking Devices Keep Winning | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/d54ff7ea882a) |
-| Mon, 05 Jan 2026 19:24:43 GMT | Technical Investigation Report: Salat Stealer (Salat-family) Analysis | Augustine Sito | [Read More](https://medium.com/p/6da3950c7330) |
-| Mon, 05 Jan 2026 19:22:00 GMT | 2026: El Año de la Autonomía | Fabian Bozoglilanian | [Read More](https://medium.com/p/f8e667b7f2c5) |
