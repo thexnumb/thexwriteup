@@ -12,9 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 15:46:50 GMT | [DEEP RESEARCH] Token Factory: The 5 Costliest US Breaches of 2025 | Wes Young | [Read More](https://medium.com/p/718f2f889159) |
+| Tue, 06 Jan 2026 15:46:37 GMT | How One “Safe” Optimization Feature Became a Critical Security Failure ⚙️ | Iski | [Read More](https://medium.com/p/55b00dc462ec) |
+| Tue, 06 Jan 2026 15:40:27 GMT | Managed Services & Cybersecurity in 2026: What’s Evolving, What’s Staying, and What’s Next | Paradise technologies Inc | [Read More](https://medium.com/p/2bc294c2a00e) |
+| Tue, 06 Jan 2026 15:40:25 GMT | The 2023 jabber.ru Attack Exposes a Critical Cloudflare Flaw in 2025 | David Osipov | [Read More](https://medium.com/p/3331a6d671ea) |
+| Tue, 06 Jan 2026 15:39:41 GMT | The Decorator Pattern Nobody Talks About: 5 Real-World Uses in Modern Java | Jitin Kayyala | [Read More](https://medium.com/p/459d5eaec63b) |
+| Tue, 06 Jan 2026 15:38:11 GMT | From Alerts to Cases with MCP, TheHive, and Wazuh | Yash Patel | [Read More](https://medium.com/p/1b618b5d8ad2) |
+| Tue, 06 Jan 2026 15:37:42 GMT | Tcpdump: Seeing the Network the Way It Really Works | Little_Sun4lower | [Read More](https://medium.com/p/13f52805b0dc) |
+| Tue, 06 Jan 2026 15:30:08 GMT | Evil Twin Attacks — When Your Network Betrays You | Nisarg Patel | [Read More](https://medium.com/p/b253a6d6d7dc) |
+| Tue, 06 Jan 2026 15:24:14 GMT | Door Wide Open: One crook, 50 companies, and a password problem | Sudarshan | [Read More](https://medium.com/p/6225651ec5fb) |
 | Tue, 06 Jan 2026 15:17:29 GMT | Garage Door Security Tips for Every Homeowner | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/2fbdb67efef8) |
 | Tue, 06 Jan 2026 15:14:03 GMT | GhostPairing: The New Silent WhatsApp Hijack Scam Putting Your Chats at Risk. | eL Njas!™ | [Read More](https://medium.com/p/67bec5d51e13) |
 | Tue, 06 Jan 2026 15:13:20 GMT | From Cybersecurity Budgets to Clinical Risk: Applying Machine Learning to Real-World Decision… | Md Maksudul Amin | [Read More](https://medium.com/p/05857ff5da55) |
+| Tue, 06 Jan 2026 15:13:01 GMT | I Wasted 3 Years on EDR for Kubernetes. Here’s What Actually Works. | Jonathan Kaftzan | [Read More](https://medium.com/p/0fbb816cbe41) |
 | Tue, 06 Jan 2026 15:09:21 GMT | “Savior of Israel”? | M.BROSH | [Read More](https://medium.com/p/09bcfc8fe782) |
 | Tue, 06 Jan 2026 15:07:49 GMT | 殭屍漏洞的逆襲：深度解析 Fortinet SSL VPN CVE-2020–12812 於 2025 年末的捲土重來與台灣資安防禦啟示錄 | p1x06u9 | [Read More](https://medium.com/p/13bd6ccf3710) |
 | Tue, 06 Jan 2026 15:04:52 GMT | QRadar SIEM Explained: What You Need to Know | Ankit Bandu Jungade | [Read More](https://medium.com/p/6b2247d53844) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 Jan 2026 10:48:01 GMT | Zig Signatures (Ed25519 and ECDSA) | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/e2d3984694ce) |
 | Tue, 06 Jan 2026 10:46:53 GMT | Yahoo Plus: When Cybercrime Becomes Murder | Oge Samuel Okonkwo | [Read More](https://medium.com/p/db67ffe5eab3) |
 | Tue, 06 Jan 2026 10:44:20 GMT | Decoding the Dahua 2449 Series: A Guide to HFW, HDW, AS, and IL Models | Tavan CCTV | [Read More](https://medium.com/p/998ace86d7bc) |
-| Tue, 06 Jan 2026 10:40:26 GMT | Navigating the Cyber Landscape: A Guide to Modern Security Roles | Laaguidi Yassine | [Read More](https://medium.com/p/f60112a739a2) |
-| Tue, 06 Jan 2026 10:40:23 GMT | Top 10 OSINT Tools for Fraud Detection & Risk Intelligence in 2026 — With Real-World Insights from… | Sheevum Goel | [Read More](https://medium.com/p/b80e78aea9ce) |
-| Tue, 06 Jan 2026 10:36:19 GMT | Otherworld Legends Mod Apk | Game4u | [Read More](https://medium.com/p/1635b0858dd1) |
-| Tue, 06 Jan 2026 10:35:41 GMT | What Board Members Should Understand About Cyber Risk | Digital Defense | [Read More](https://medium.com/p/9d36aa8bde80) |
-| Tue, 06 Jan 2026 10:32:31 GMT | AI SOC Isn’t Dead. Unsupervised AI Was the Problem. | Graylog | [Read More](https://medium.com/p/b3e1bee68a96) |
-| Tue, 06 Jan 2026 10:30:32 GMT | PWN104 — TryHackMe | SilentHex | [Read More](https://medium.com/p/fdc2a48b991e) |
-| Tue, 06 Jan 2026 10:29:13 GMT | When Everything Looks Like a Deepfake | Mikhaylo Pavlyuk | [Read More](https://medium.com/p/53bd00a148a5) |
-| Tue, 06 Jan 2026 10:28:16 GMT | Berlin in the Dark — And Manifesto That Raises More Questions Than Answers | Dr. Hendrik Schnack | [Read More](https://medium.com/p/ec348ed8b5c1) |
-| Tue, 06 Jan 2026 10:27:14 GMT | Ethical Hacking Career Options for Freshers | Hadiyayazeen | [Read More](https://medium.com/p/89ca1d23e709) |
-| Tue, 06 Jan 2026 10:22:45 GMT | What Recruiters Look for in a Full Stack Developer Portfolio | NS Academy | [Read More](https://medium.com/p/a3b604ee8cf7) |
