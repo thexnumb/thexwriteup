@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 17:44:58 GMT | Trump, NATO, and the Cost of Transactional Power | Dhruv Tripathi | [Read More](https://medium.com/p/def522cb1c36) |
+| Tue, 06 Jan 2026 17:42:10 GMT | The Internship Gap Nobody Warned Me About: A Cybersecurity Reality Check | Soumyadipta Birabar | [Read More](https://medium.com/p/a5eef08fc931) |
+| Tue, 06 Jan 2026 17:41:06 GMT | The Milliseconds That Exposed a Global Spy | Peter Sikabonyi | [Read More](https://medium.com/p/499a7b84bdd5) |
+| Tue, 06 Jan 2026 17:32:48 GMT | Kant’s Imperatives: Ethics and Compliance in the Digital Age | Brian Haman, PhD | [Read More](https://medium.com/p/dd8ff5c52731) |
+| Tue, 06 Jan 2026 17:30:40 GMT | React2Shell: When Perfect CVSS Scores Meet Messy Reality | Soumyadipta Birabar | [Read More](https://medium.com/p/53b08c77d9c7) |
+| Tue, 06 Jan 2026 17:30:26 GMT | Evaluating Google’s Acquisition of Wiz: A Case Study | Sanhith Reddy | [Read More](https://medium.com/p/ee6fe7fb57b5) |
+| Tue, 06 Jan 2026 17:26:38 GMT | The Future of Cybersecurity: Emerging Technologies, Evolving Threats, and Strategic Responses | Kay | [Read More](https://medium.com/p/1cfe4b1e5ad2) |
+| Tue, 06 Jan 2026 17:24:48 GMT | We Tried Bolting DAST onto a Pure Kanban Flow — Here’s the Honest Play-by-Play | Faisal haque | [Read More](https://medium.com/p/ef24ac20b1a8) |
 | Tue, 06 Jan 2026 17:22:57 GMT | Plan. Rehearse. Rehearse. Rehearse. Execute. | Mohan Thomas | [Read More](https://medium.com/p/a5c1965d4736) |
+| Tue, 06 Jan 2026 17:22:44 GMT | Anonymous | The Messy Middle | [Read More](https://medium.com/p/727a9f33e3f3) |
 | Tue, 06 Jan 2026 17:16:51 GMT | Meet Strix, the ‘Evil’ Open-Source AI Pentester That Tells the Truth | Andy Afrizal | [Read More](https://medium.com/p/4b25da13f993) |
 | Tue, 06 Jan 2026 17:12:41 GMT | pFo (preparingForOSCP) Series — 1 - kioptrixLv1 | Sarp A. A. | [Read More](https://medium.com/p/4d5a62978866) |
 | Tue, 06 Jan 2026 17:11:23 GMT | Infostealers Are Turning Legitimate Business Websites Into Malware Factories | Tech Intel | [Read More](https://medium.com/p/d9933e9ed123) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 Jan 2026 13:02:28 GMT | Secure API Design: Lessons I Learned From Real Production Systems | AngsCode | [Read More](https://medium.com/p/7601ac69028d) |
 | Tue, 06 Jan 2026 13:01:47 GMT | Google SecOps & Operational Data: Monitoring the skies overhead | Mike | [Read More](https://medium.com/p/a70601f4daf8) |
 | Tue, 06 Jan 2026 13:01:32 GMT | Siber Savaşın Anatomisi #3: Dijital Ayak İzleri ve OSINT Dünyası | Batuhan Çetin | [Read More](https://medium.com/p/5e6ea15d8594) |
-| Tue, 06 Jan 2026 13:01:31 GMT | John the Ripper: More Than a Password Cracker — Understanding the Logic Behind It | Gajanan Tayde | [Read More](https://medium.com/p/5a010e4aa94e) |
-| Tue, 06 Jan 2026 12:57:13 GMT | Why Intelligent Automation Is Replacing Hiring in High-Growth Startups | Samuel Orubuloye | [Read More](https://medium.com/p/9fe3e7c5d972) |
-| Tue, 06 Jan 2026 12:55:46 GMT | Best Random Password Generator Online: Create Secure Passwords Effortlessly | Sandeep Sharma | [Read More](https://medium.com/p/4692c874b726) |
-| Tue, 06 Jan 2026 12:52:02 GMT | Master Cybersecurity with Expert-Led Courses | Kunal Arora | [Read More](https://medium.com/p/24f8294bc446) |
-| Tue, 06 Jan 2026 12:35:25 GMT | CISA’s KEV Catalog in 2025: What Exploited Vulnerabilities Reveal About the Modern Threat Landscape | gm0 | [Read More](https://medium.com/p/f02ef11b62e2) |
-| Tue, 06 Jan 2026 12:25:43 GMT | “Bug Bounty Bootcamp #10: The Hacker’s Guide to HTTP — Decoding Every Request and Response” | Aman Sharma | [Read More](https://medium.com/p/618e36047c54) |
-| Tue, 06 Jan 2026 12:21:59 GMT | How to optimize the security of a website created with Ruby on Rails ? | Bertrand Bichat | [Read More](https://medium.com/p/13ae11168363) |
-| Tue, 06 Jan 2026 12:17:15 GMT | File Upload Vulnerabilities | Cybernight | [Read More](https://medium.com/p/a63f742e9bbf) |
-| Tue, 06 Jan 2026 12:13:44 GMT | Beyond the Basics: 4 AI Image Tips I Wish I Knew Sooner | MilankumarParmar | [Read More](https://medium.com/p/c7a19579270f) |
