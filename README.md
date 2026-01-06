@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 21:17:35 GMT | Why Traditional Security Tools Can’t Detect LLM Attacks | David Anderson | [Read More](https://medium.com/p/4a37dd63b631) |
+| Tue, 06 Jan 2026 21:10:34 GMT | Blackhat Hackers vs Ethical Hackers - Cybersecurity Tutorial | Shahzaib | [Read More](https://medium.com/p/d87164ab1b27) |
+| Tue, 06 Jan 2026 21:00:17 GMT | Case Studies: Building Effective Timelines with Plaso (Log2Timeline) | Dean | [Read More](https://medium.com/p/55e3d299c7d1) |
+| Tue, 06 Jan 2026 20:50:00 GMT | The Linux Security Journey — Suricata | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/723f41ac798d) |
+| Tue, 06 Jan 2026 20:46:34 GMT | The Defender’s Era: Navigating the 4.8 Million Professional Gap in Cybersecurity | Eva Lau | [Read More](https://medium.com/p/09125a538142) |
+| Tue, 06 Jan 2026 20:44:00 GMT | Automated Guest User Governance in Microsoft Entra ID Using Terms of Use | Ashiqur Bhuiya | [Read More](https://medium.com/p/b9c54e27326c) |
 | Tue, 06 Jan 2026 20:42:20 GMT | Venezuela’s Port Collapse Is a Security Crisis, Not Just an Infrastructure Problem | Heesham Naji | [Read More](https://medium.com/p/2a3aa3b3a5ba) |
 | Tue, 06 Jan 2026 20:41:09 GMT | How a Late-Night Scroll Turned Into an Unexpected XSS Discovery | Ashutosh Anand | [Read More](https://medium.com/p/bcfcf4014958) |
 | Tue, 06 Jan 2026 20:31:25 GMT | How to Create a Cybersecurity Home Lab: A Beginner Tutorial for Students | Dhyaandk | [Read More](https://medium.com/p/fa86f1f053cd) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 Jan 2026 15:14:03 GMT | GhostPairing: The New Silent WhatsApp Hijack Scam Putting Your Chats at Risk. | eL Njas!™ | [Read More](https://medium.com/p/67bec5d51e13) |
 | Tue, 06 Jan 2026 15:13:20 GMT | From Cybersecurity Budgets to Clinical Risk: Applying Machine Learning to Real-World Decision… | Md Maksudul Amin | [Read More](https://medium.com/p/05857ff5da55) |
 | Tue, 06 Jan 2026 15:13:01 GMT | I Wasted 3 Years on EDR for Kubernetes. Here’s What Actually Works. | Jonathan Kaftzan | [Read More](https://medium.com/p/0fbb816cbe41) |
-| Tue, 06 Jan 2026 15:09:21 GMT | “Savior of Israel”? | M.BROSH | [Read More](https://medium.com/p/09bcfc8fe782) |
-| Tue, 06 Jan 2026 15:07:49 GMT | 殭屍漏洞的逆襲：深度解析 Fortinet SSL VPN CVE-2020–12812 於 2025 年末的捲土重來與台灣資安防禦啟示錄 | p1x06u9 | [Read More](https://medium.com/p/13bd6ccf3710) |
-| Tue, 06 Jan 2026 15:04:52 GMT | QRadar SIEM Explained: What You Need to Know | Ankit Bandu Jungade | [Read More](https://medium.com/p/6b2247d53844) |
-| Tue, 06 Jan 2026 15:03:44 GMT | Managing a Home Lab with Portainer, PiHole, and Nginx-Proxy | Josh Beck | [Read More](https://medium.com/p/ec70324c4584) |
-| Tue, 06 Jan 2026 15:02:29 GMT | Cyber Briefing: 2025.01.06 | CyberMaterial | [Read More](https://medium.com/p/9dee509f9997) |
-| Tue, 06 Jan 2026 15:01:22 GMT | Here Are the Five Top Security Threats from 2025 | Financial Poise | [Read More](https://medium.com/p/de74415d9d47) |
