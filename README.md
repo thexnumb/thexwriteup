@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 20:16:02 GMT | Cracking “Blog”: A Deep Dive into WordPress Exploitation and SUID Binary Analysis | IshhIshneet | [Read More](https://medium.com/p/06ff56bebd95) |
+| Tue, 06 Jan 2026 20:09:49 GMT | They Don’t Hack In Anymore. They Log In: Why Identity Sprawl Is Blinding the SOC | Denny Roger | [Read More](https://medium.com/p/d16290fc46f3) |
+| Tue, 06 Jan 2026 20:09:11 GMT | When Antivirus Fails: Detecting C2 Activity with Wazuh and Security Onion | Liam smydo | [Read More](https://medium.com/p/cd6211ab17a1) |
+| Tue, 06 Jan 2026 20:08:32 GMT | Vulnerability Data Enrichment for CVE Records: 263 CNAs on the Enrichment Recognition List for… | CVE Program Blog | [Read More](https://medium.com/p/06596aa34b80) |
+| Tue, 06 Jan 2026 20:03:21 GMT | OSINT Araşdırmaları: Maltego, Shodan və Digər Alətlərlə Rəqəmsal İz Axtarışı (2026) | cybershieldy.com | [Read More](https://medium.com/p/0b5ff1697718) |
+| Tue, 06 Jan 2026 20:01:56 GMT | How Multi-Agent Systems Can Defend Against AI-Powered Attacks?? | Dikshith | [Read More](https://medium.com/p/df1a7c56d620) |
+| Tue, 06 Jan 2026 19:59:10 GMT | 2026 Cybersecurity Prediction #2 — AI Accelerates Vulnerability Exploitation | Matthew.Rosenquist | [Read More](https://medium.com/p/c729ec150f1b) |
+| Tue, 06 Jan 2026 19:49:12 GMT | Unlocking Linux Process Power:Part4 Detaching Processes and Understanding Limits | MR.7 | [Read More](https://medium.com/p/930bfcd939fb) |
+| Tue, 06 Jan 2026 19:39:51 GMT | How to Become a Penetration Tester in 2026 (A No-Fluff  Roadmap) | Ulrich Swart | [Read More](https://medium.com/p/4ff386bf3aa0) |
 | Tue, 06 Jan 2026 19:34:43 GMT | Solving Crack the Gate 1 picoCTF by CMU Africa | Sudi Mukora | [Read More](https://medium.com/p/2abad53243c9) |
 | Tue, 06 Jan 2026 19:28:42 GMT | Planning for Post-Quantum Cryptography: From Policy Mandate to Practical Action — The Australian… | SOCFortress | [Read More](https://medium.com/p/cefb22ff7d0b) |
 | Tue, 06 Jan 2026 19:28:18 GMT | ️ Defensive / Blue-Team Angle | ghostyjoe | [Read More](https://medium.com/p/0b9074541fd7) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 Jan 2026 14:31:25 GMT | How to Tell if svchost is Loading Malicious DLLs | Huzefa dahodwala | [Read More](https://medium.com/p/6818222410c8) |
 | Tue, 06 Jan 2026 14:29:10 GMT | The Silent Risk of AI Model Reuse Across Plants | Muhammad Ali Khan | [Read More](https://medium.com/p/b71c9547ee15) |
 | Tue, 06 Jan 2026 14:21:28 GMT | Announcing Our Investment in Ciphero | Peri Ehlman | [Read More](https://medium.com/p/ac1da0e3c662) |
-| Tue, 06 Jan 2026 14:19:58 GMT | Homograph Attacks: Why You Can No Longer Trust Your Own Eyes | UncovAI | [Read More](https://medium.com/p/6a882011f446) |
-| Tue, 06 Jan 2026 14:19:19 GMT | Why Security Needs A Unified AI-Native Risk Platform | Moni | [Read More](https://medium.com/p/ee70039853be) |
-| Tue, 06 Jan 2026 14:07:04 GMT | Building Custom Threat Detection Rules in AWS Using EventBridge and CloudTrail | Davebhargavi | [Read More](https://medium.com/p/1b38f54ae487) |
-| Tue, 06 Jan 2026 14:06:58 GMT | Sicherheitsdienst Berlin Zuverlässige professionelle Sicherheit | Binteazam | [Read More](https://medium.com/p/acef7e5adc9a) |
-| Tue, 06 Jan 2026 14:06:41 GMT | Azure Landing Zone Explained: Building a Secure and Scalable Cloud Foundation in 2026 | Techridge Solutions | [Read More](https://medium.com/p/379a13096f38) |
-| Tue, 06 Jan 2026 14:02:29 GMT | Why Modern Web Apps Fail at Authorization Long Before Exploitation Begins | Tyreek Haynes | [Read More](https://medium.com/p/2eb6d0890669) |
-| Tue, 06 Jan 2026 14:02:28 GMT | Containment vs Control: Why Agency Needs a Ward, and Accountability Needs a Principal | Paul Knowles | [Read More](https://medium.com/p/b9e681b9c1ff) |
-| Tue, 06 Jan 2026 14:02:28 GMT | Most People Hear About Quantum Computing — Few Understand How It Actually Works | zakieandiko | [Read More](https://medium.com/p/2cf13eb10f59) |
-| Tue, 06 Jan 2026 14:00:54 GMT | OPSEC: Only for Hacking | Nexamos | [Read More](https://medium.com/p/986e9c313070) |
