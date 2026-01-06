@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 21:33:33 GMT | Have You Ever Opened Google Drive and Found Someone Else’s Files? | Ashutosh Anand | [Read More](https://medium.com/p/c50ca3f5fc59) |
+| Tue, 06 Jan 2026 21:25:03 GMT | Databases Under Siege: December 2025 Threat Report Reveals Tactical Pivot from Remote Access to… | Px Mx | [Read More](https://medium.com/p/b582dedcf2a8) |
+| Tue, 06 Jan 2026 21:23:11 GMT | Linux Networking Explained: Hardware, Drivers, IP Configuration & Troubleshooting (Step-by-Step) | Tushar jadhav | [Read More](https://medium.com/p/1fa1d16d90a2) |
 | Tue, 06 Jan 2026 21:17:35 GMT | Why Traditional Security Tools Can’t Detect LLM Attacks | David Anderson | [Read More](https://medium.com/p/4a37dd63b631) |
 | Tue, 06 Jan 2026 21:10:34 GMT | Blackhat Hackers vs Ethical Hackers - Cybersecurity Tutorial | Shahzaib | [Read More](https://medium.com/p/d87164ab1b27) |
 | Tue, 06 Jan 2026 21:00:17 GMT | Case Studies: Building Effective Timelines with Plaso (Log2Timeline) | Dean | [Read More](https://medium.com/p/55e3d299c7d1) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 Jan 2026 15:29:55 GMT | Lab: Web cache poisoning via a fat GET request - Portswigger | L4V4NY4  AGR3 | [Read More](https://medium.com/p/26092ca92558) |
 | Tue, 06 Jan 2026 15:24:14 GMT | Door Wide Open: One crook, 50 companies, and a password problem | Sudarshan | [Read More](https://medium.com/p/6225651ec5fb) |
 | Tue, 06 Jan 2026 15:17:29 GMT | Garage Door Security Tips for Every Homeowner | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/2fbdb67efef8) |
-| Tue, 06 Jan 2026 15:14:03 GMT | GhostPairing: The New Silent WhatsApp Hijack Scam Putting Your Chats at Risk. | eL Njas!™ | [Read More](https://medium.com/p/67bec5d51e13) |
-| Tue, 06 Jan 2026 15:13:20 GMT | From Cybersecurity Budgets to Clinical Risk: Applying Machine Learning to Real-World Decision… | Md Maksudul Amin | [Read More](https://medium.com/p/05857ff5da55) |
-| Tue, 06 Jan 2026 15:13:01 GMT | I Wasted 3 Years on EDR for Kubernetes. Here’s What Actually Works. | Jonathan Kaftzan | [Read More](https://medium.com/p/0fbb816cbe41) |
