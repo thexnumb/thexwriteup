@@ -12,10 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 17:22:57 GMT | Plan. Rehearse. Rehearse. Rehearse. Execute. | Mohan Thomas | [Read More](https://medium.com/p/a5c1965d4736) |
+| Tue, 06 Jan 2026 17:16:51 GMT | Meet Strix, the ‘Evil’ Open-Source AI Pentester That Tells the Truth | Andy Afrizal | [Read More](https://medium.com/p/4b25da13f993) |
+| Tue, 06 Jan 2026 17:12:41 GMT | pFo (preparingForOSCP) Series — 1 - kioptrixLv1 | Sarp A. A. | [Read More](https://medium.com/p/4d5a62978866) |
+| Tue, 06 Jan 2026 17:11:23 GMT | Infostealers Are Turning Legitimate Business Websites Into Malware Factories | Tech Intel | [Read More](https://medium.com/p/d9933e9ed123) |
+| Tue, 06 Jan 2026 17:09:56 GMT | The Strategic Palette: Driving UX Through Color Theory | Dhivy Ananth | [Read More](https://medium.com/p/f742357768b0) |
+| Tue, 06 Jan 2026 17:07:30 GMT | HTB Challenge on Firmware analyzing | Shubhash | [Read More](https://medium.com/p/b1e5ea2ab08d) |
+| Tue, 06 Jan 2026 17:02:35 GMT | BlueKeep Zafiyeti | Mehmet Ali Gülyurdu | [Read More](https://medium.com/p/07141801ce49) |
+| Tue, 06 Jan 2026 17:00:46 GMT | Blockchain Applications in Security Frameworks: Revolutionizing Digital Trust | Fospertise | [Read More](https://medium.com/p/234539a9b782) |
+| Tue, 06 Jan 2026 16:49:10 GMT | The Privacy Fortress: Why Your Business Data Belongs on Your Own Private AI Server | Florid Maclean | [Read More](https://medium.com/p/b7a191026942) |
+| Tue, 06 Jan 2026 16:45:38 GMT | Day 5 — Why Organizations Need a SOC (and What a SOC Is Really Capable Of) | Drishti Pandey | [Read More](https://medium.com/p/db85ea3d5d52) |
+| Tue, 06 Jan 2026 16:43:06 GMT | CSRF(Cross-Site Scripting) vs XSS (using cookies) | Piyali Das | [Read More](https://medium.com/p/1189d3b7fc7e) |
+| Tue, 06 Jan 2026 16:40:58 GMT | KALI LINUX OSINT 2025 Domine Inteligência de Fontes Abertas com Ferramentas de Alta Performance | Diego Rodrigues | [Read More](https://medium.com/p/2b86c62a2a4a) |
+| Tue, 06 Jan 2026 16:40:14 GMT | Chinese cyberattacks on Taiwan infrastructure averaged 2.6 million a day in 2025, report says | Defence Affairs & Analysis | [Read More](https://medium.com/p/7f37ea371317) |
+| Tue, 06 Jan 2026 16:40:05 GMT | Why Caching Makes Bugs Harder to Find in Spring Boot | Lakshika | [Read More](https://medium.com/p/6c5826962820) |
+| Tue, 06 Jan 2026 16:34:59 GMT | But Who Will Shave My Left Leg? | Linda A Metzler | [Read More](https://medium.com/p/63b446e49d13) |
+| Tue, 06 Jan 2026 16:32:22 GMT | NSI Experts Weigh In: U.S. National Security Challenges in 2026 | National Security Institute | [Read More](https://medium.com/p/cee1ce8fb808) |
 | Tue, 06 Jan 2026 16:30:19 GMT | Try Hack Me- Biohazard Walkthrough | PulseEinher | [Read More](https://medium.com/p/48c840f59485) |
 | Tue, 06 Jan 2026 16:25:19 GMT | AWS’s New AI “Frontier” Security Reviewer | Mr.Vardhan | [Read More](https://medium.com/p/e54d813082d4) |
 | Tue, 06 Jan 2026 16:20:41 GMT | Active Directory Pentesting in 2026: Why It Still Matters and How to Master It. | Ali bin azam | [Read More](https://medium.com/p/8341ac9706a2) |
 | Tue, 06 Jan 2026 16:19:23 GMT | Security-First Laravel Development in 2026: Defensive Coding Practices | ElevenDev MuslimCoder | [Read More](https://medium.com/p/fb1cfbd21c53) |
+| Tue, 06 Jan 2026 16:18:17 GMT | Day 3 Writing to Process my Thoughts | silentink | [Read More](https://medium.com/p/2dc860c000ce) |
 | Tue, 06 Jan 2026 16:17:34 GMT | Hydra — Online Password Brute-Forcing - Hands-On Practice | DeshmukhVinit | [Read More](https://medium.com/p/3dc4676ac097) |
 | Tue, 06 Jan 2026 16:17:04 GMT | Cyber Risk in 2026: How Organizations Can Stay Ahead | Aku | [Read More](https://medium.com/p/e944ba67a349) |
 | Tue, 06 Jan 2026 16:14:30 GMT | Writing: A Silent Exposé | THE WRITER’S LENS | [Read More](https://medium.com/p/f17f58aee804) |
@@ -96,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 Jan 2026 12:21:59 GMT | How to optimize the security of a website created with Ruby on Rails ? | Bertrand Bichat | [Read More](https://medium.com/p/13ae11168363) |
 | Tue, 06 Jan 2026 12:17:15 GMT | File Upload Vulnerabilities | Cybernight | [Read More](https://medium.com/p/a63f742e9bbf) |
 | Tue, 06 Jan 2026 12:13:44 GMT | Beyond the Basics: 4 AI Image Tips I Wish I Knew Sooner | MilankumarParmar | [Read More](https://medium.com/p/c7a19579270f) |
-| Tue, 06 Jan 2026 12:11:56 GMT | Choosing silence | Rahul Gupta | [Read More](https://medium.com/p/d0ea9d108dc3) |
-| Tue, 06 Jan 2026 12:08:28 GMT | Cybersecurity Awareness Training: What Most Beginners Overlook | Elearning Seoswift | [Read More](https://medium.com/p/631fdcbd289f) |
-| Tue, 06 Jan 2026 12:03:03 GMT | The Privacy Black Hole: Why Registering on TraderKnows is a Security Risk | Bittam | [Read More](https://medium.com/p/5e0144b2db1c) |
-| Tue, 06 Jan 2026 12:02:28 GMT | Android’s 2026 Nightmare: A Framework Zero-Day and the Weaponization of Trust | Threat Road | [Read More](https://medium.com/p/e5e8d877cbbc) |
-| Tue, 06 Jan 2026 12:02:25 GMT | Is Your AI Chat Tracking You? Why OKARA AI’s “Zero-Access” Model Hits Different | AI Benchmarked | [Read More](https://medium.com/p/392918f110c4) |
-| Tue, 06 Jan 2026 12:00:30 GMT | Security Starts With a Test, Not a Firewall | Coding Creed Technologies | [Read More](https://medium.com/p/ec4c4f942162) |
-| Tue, 06 Jan 2026 11:58:45 GMT | Computers, routers, and servers aren’t “set it and forget it” tools. | Century Solutions Group | [Read More](https://medium.com/p/514de5c4b630) |
-| Tue, 06 Jan 2026 11:45:24 GMT | Building an Extremely Vulnerable Ubuntu 24.04 Server Lab (Bonus: Full PT with Hexstrike) | Andrey Pautov | [Read More](https://medium.com/p/90034032775b) |
-| Tue, 06 Jan 2026 11:45:06 GMT | Lab Walkthrough: Brute-Forcing a Stay-Logged-In Cookie | CyberSec Xploit - Prasangam | [Read More](https://medium.com/p/b7d53f596102) |
-| Tue, 06 Jan 2026 11:44:03 GMT | Pinging your iPhone: What it Reveals About LAN Security | Umar Al-Mahfuz | [Read More](https://medium.com/p/9d13c22116c0) |
-| Tue, 06 Jan 2026 11:41:50 GMT | Designing SION Education: From Concept to Prototype | Charleneathena | [Read More](https://medium.com/p/16db24b1f9dd) |
-| Tue, 06 Jan 2026 11:40:26 GMT | Between Wanting and Running | Engineer | [Read More](https://medium.com/p/69dcac5eb2ae) |
-| Tue, 06 Jan 2026 11:35:46 GMT | Zero Day Hunting — Techniques | Sakib Haque Zisan | [Read More](https://medium.com/p/d1dcc0105af9) |
-| Tue, 06 Jan 2026 11:23:43 GMT | #3 Deserialisation exemple | Gaby zaafrani | [Read More](https://medium.com/p/8de634647212) |
-| Tue, 06 Jan 2026 11:19:25 GMT | Hire a Hacker Online Safely: What It Really Means and How to Do It Right | Rebecca Smith | [Read More](https://medium.com/p/3faac1ccdeb5) |
-| Tue, 06 Jan 2026 11:18:59 GMT | #2 Désérialisation explication | Gaby zaafrani | [Read More](https://medium.com/p/1636169847a9) |
-| Tue, 06 Jan 2026 11:18:51 GMT | Cryptocurrency and Terror Financing: Tracking Bitcoin to Boko Haram | Oge Samuel Okonkwo | [Read More](https://medium.com/p/3c765f4aa2a1) |
