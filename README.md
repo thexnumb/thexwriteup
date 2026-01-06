@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 18:24:48 GMT | Why Every Developer Needs to Have a Basic Background on Cybersecurity | Roya Kais | [Read More](https://medium.com/p/11045d2b1c30) |
+| Tue, 06 Jan 2026 18:21:03 GMT | How I found a Race condition on Like Function | Zodiac | [Read More](https://medium.com/p/7f236537b7fc) |
+| Tue, 06 Jan 2026 18:12:36 GMT | Common Myths Beginners Believe About Cybersecurity | Quadri Sulaimon - CyberOps | [Read More](https://medium.com/p/6c6b06c75705) |
+| Tue, 06 Jan 2026 18:11:19 GMT | Configure snort rules in order to detect following attacks | Vanshika Parikh | [Read More](https://medium.com/p/689e425a4600) |
+| Tue, 06 Jan 2026 18:09:55 GMT | “Implementation of LAN and Wireless Network with Firewall and IDS” | Vanshika Parikh | [Read More](https://medium.com/p/0291bf6a82f8) |
+| Tue, 06 Jan 2026 17:55:45 GMT | Please, Can I Just Resign From Adulthood for 10 Minutes? | Avadhesh S Shekhawat | [Read More](https://medium.com/p/a2d913c22ef3) |
+| Tue, 06 Jan 2026 17:52:20 GMT | Why Many Cybersecurity Candidates Fail Interviews | Muhammad Kashif | [Read More](https://medium.com/p/0e819c8afd23) |
+| Tue, 06 Jan 2026 17:51:32 GMT | OSI Model: The backbone of the Network Communication | Sankalp Bansal | [Read More](https://medium.com/p/5daa8a699de9) |
 | Tue, 06 Jan 2026 17:44:58 GMT | Trump, NATO, and the Cost of Transactional Power | Dhruv Tripathi | [Read More](https://medium.com/p/def522cb1c36) |
 | Tue, 06 Jan 2026 17:42:10 GMT | The Internship Gap Nobody Warned Me About: A Cybersecurity Reality Check | Soumyadipta Birabar | [Read More](https://medium.com/p/a5eef08fc931) |
 | Tue, 06 Jan 2026 17:41:06 GMT | The Milliseconds That Exposed a Global Spy | Peter Sikabonyi | [Read More](https://medium.com/p/499a7b84bdd5) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 Jan 2026 13:21:20 GMT | The Growing Importance of VAPT for Businesses Operating in the UAE | ANSI Technologies | [Read More](https://medium.com/p/4ead88d5150a) |
 | Tue, 06 Jan 2026 13:16:53 GMT | Quantum Threats, Plain Answers | Plaintext with Rich | [Read More](https://medium.com/p/f9b3c29a7eb1) |
 | Tue, 06 Jan 2026 13:16:25 GMT | ️ Malware Analysis Explained: A Beginner-Friendly Guide for Cybersecurity Students | Arshdeep Singh | [Read More](https://medium.com/p/0c59a8462b4a) |
-| Tue, 06 Jan 2026 13:10:30 GMT | How Smart Carbon Monoxide Monitoring Systems Improve Home Safety in Texas | Sukks | [Read More](https://medium.com/p/78a6649c2209) |
-| Tue, 06 Jan 2026 13:09:57 GMT | From Endpoints to Exploits: API Security Notes | ShiftLeftSec | [Read More](https://medium.com/p/35cddc040310) |
-| Tue, 06 Jan 2026 13:07:34 GMT | Why Role-Based Access Control Isn’t Enough (And What to Do About It) | Dipankar Sethi | [Read More](https://medium.com/p/fc0e257a388f) |
-| Tue, 06 Jan 2026 13:02:31 GMT | Authentication Solves Entry. It Does Not Solve Authority. | John Tischler | [Read More](https://medium.com/p/3b05ebf396e5) |
-| Tue, 06 Jan 2026 13:02:31 GMT | Why “No Suspicious Logs” Is the Most Dangerous Finding | Faruk Ahmed | [Read More](https://medium.com/p/4a2ca15b9ea5) |
-| Tue, 06 Jan 2026 13:02:28 GMT | Secure API Design: Lessons I Learned From Real Production Systems | AngsCode | [Read More](https://medium.com/p/7601ac69028d) |
-| Tue, 06 Jan 2026 13:01:47 GMT | Google SecOps & Operational Data: Monitoring the skies overhead | Mike | [Read More](https://medium.com/p/a70601f4daf8) |
-| Tue, 06 Jan 2026 13:01:32 GMT | Siber Savaşın Anatomisi #3: Dijital Ayak İzleri ve OSINT Dünyası | Batuhan Çetin | [Read More](https://medium.com/p/5e6ea15d8594) |
