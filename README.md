@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 22:29:01 GMT | Deploying Wazuh SIEM: A Hands-On SOC Project for Cybersecurity Freshers | Om Gohil | [Read More](https://medium.com/p/b696193c2ed3) |
+| Tue, 06 Jan 2026 22:25:58 GMT | Website Security Best Practice List | Sunny Side Up | [Read More](https://medium.com/p/4ebca8bfb95f) |
 | Tue, 06 Jan 2026 22:07:43 GMT | The FAFO Framework: Fast Adoption, Future Accountability | David Anderson | [Read More](https://medium.com/p/4f99f3a042a9) |
 | Tue, 06 Jan 2026 22:02:57 GMT | THM: Snapped Phish-ing Line Walkthrough | Jennifer Gentry | [Read More](https://medium.com/p/15184a6d0354) |
 | Tue, 06 Jan 2026 21:52:19 GMT | # The Caracas Kill Chain Went Dark. That’s the Story. | Oscar The Golden Goofball | [Read More](https://medium.com/p/2121258d272f) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 Jan 2026 15:46:50 GMT | [DEEP RESEARCH] Token Factory: The 5 Costliest US Breaches of 2025 | Wes Young | [Read More](https://medium.com/p/718f2f889159) |
 | Tue, 06 Jan 2026 15:46:37 GMT | How One “Safe” Optimization Feature Became a Critical Security Failure ⚙️ | Iski | [Read More](https://medium.com/p/55b00dc462ec) |
 | Tue, 06 Jan 2026 15:45:14 GMT | Unpacking Microsoft Defender for Office 365: A 30-Day SOC Triage Series | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/9c34ded75f04) |
-| Tue, 06 Jan 2026 15:40:27 GMT | Managed Services & Cybersecurity in 2026: What’s Evolving, What’s Staying, and What’s Next | Paradise technologies Inc | [Read More](https://medium.com/p/2bc294c2a00e) |
-| Tue, 06 Jan 2026 15:40:25 GMT | The 2023 jabber.ru Attack Exposes a Critical Cloudflare Flaw in 2025 | David Osipov | [Read More](https://medium.com/p/3331a6d671ea) |
