@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 06 Jan 2026 07:12:32 GMT | GROUND ZERO: WEB3 SPOT-NODE PLATFORM WHITE NOTE | Jon B | [Read More](https://medium.com/p/56349874f707) |
+| Tue, 06 Jan 2026 07:12:04 GMT | Acronis Cyber Protection in Sharjah — Complete Security, Backup & Recovery for Modern Businesses | costtocost | [Read More](https://medium.com/p/0f17314a7446) |
+| Tue, 06 Jan 2026 07:10:00 GMT | Mac Antivirus Keeps WhatsApp on Mobile Free from Cyber Trouble | Siyanoav | [Read More](https://medium.com/p/5321ee5ac391) |
+| Tue, 06 Jan 2026 07:04:05 GMT | Critical React Server Components Vulnerability (CVE-2025–55182): What Developers Need to Fix Now | Mediusware Ltd. | [Read More](https://medium.com/p/a8e36ce173ae) |
+| Tue, 06 Jan 2026 07:03:51 GMT | The ‘Aha’ Moment: Explaining NTLMv2 Through a Wireshark CTF | PocketLearner | [Read More](https://medium.com/p/03d69ab18a88) |
+| Tue, 06 Jan 2026 07:02:11 GMT | Hack The Box — Shocker - Pentest Walkthrough & Defensive Takeaways | khalifa_farhat | [Read More](https://medium.com/p/21e68d7b5cfb) |
+| Tue, 06 Jan 2026 06:59:22 GMT | Google Dorks 2025 Edition: 150+ Dorks & Tools for Ethical Hackers and Pentesters | Very Lazy Tech | [Read More](https://medium.com/p/20415d44859a) |
+| Tue, 06 Jan 2026 06:58:22 GMT | Total Security Solutions India: Building Safer Businesses with Advanced Electronic Security… | Ciss India | [Read More](https://medium.com/p/d5450cc03869) |
+| Tue, 06 Jan 2026 06:57:26 GMT | ​Почему запуск xStocks от STON.fi это важное событие? | Mazankwaran | [Read More](https://medium.com/p/b37a32339cad) |
+| Tue, 06 Jan 2026 06:47:35 GMT | Tai Badminton Blitz Mod APK Vo Han Tien | Apkpuredev | [Read More](https://medium.com/p/fb7a39bd56bf) |
+| Tue, 06 Jan 2026 06:44:14 GMT | Hands-On Android Security Testing in AndroGoat —Insecure Data Storage | Hammam Awis Zukimi | [Read More](https://medium.com/p/ca0673a4d753) |
+| Tue, 06 Jan 2026 06:43:44 GMT | How Malware Sneaks In Through Everyday Downloads | Ask IT Support | [Read More](https://medium.com/p/8a5a34d932e1) |
+| Tue, 06 Jan 2026 06:43:04 GMT | FortiGate ile Lab Ortamında Ağ Güvenliği Deneyimi | Nilay UYSAL | [Read More](https://medium.com/p/bb9ed95b2330) |
+| Tue, 06 Jan 2026 06:40:23 GMT | Boom Barrier System: Meaning, Working & Smart Security Benefits | Himoto | [Read More](https://medium.com/p/1ed125f571ba) |
+| Tue, 06 Jan 2026 06:35:52 GMT | Brave Browser Keeps Closing Tabs on You? You Aren’t Crazy. | Shashwat | [Read More](https://medium.com/p/16ec51102acc) |
+| Tue, 06 Jan 2026 06:32:53 GMT | The Role of Quantum Computing in Cybersecurity: Hype or Reality | Payoda Technology Inc | [Read More](https://medium.com/p/e81917fa55c9) |
 | Tue, 06 Jan 2026 06:27:02 GMT | One Post Away From Being Exposed | dedo | [Read More](https://medium.com/p/586c0d415f98) |
 | Tue, 06 Jan 2026 06:24:45 GMT | Beginner Mistakes to Avoid in Bug Bounty (So You Don’t Quit Too Early) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/b1c4127eaac5) |
 | Tue, 06 Jan 2026 06:23:07 GMT | Cyber Insurance Underwriting: Navigating Challenges and Opportunities in an Era of Evolving Threats… | Ignatius Wang | [Read More](https://medium.com/p/fcbbd554612e) |
@@ -98,19 +114,3 @@ Organization: Codevirus… | Ankit rai | [Read More](https://medium.com/p/f640a5
 | Mon, 05 Jan 2026 21:44:45 GMT | SQL injection UNION attack, determining the number of columns returned by the query | scriptpy | [Read More](https://medium.com/p/b610ea09802a) |
 | Mon, 05 Jan 2026 21:38:01 GMT | Reducing Device Correlation on ESP32 Networks (Part 2) | Tyreek Haynes | [Read More](https://medium.com/p/739583a184f6) |
 | Mon, 05 Jan 2026 21:24:12 GMT | Port of Secrets — SSRF Exploitation & Internal Service Discovery | AMAN KUMAR | [Read More](https://medium.com/p/7901374eb09c) |
-| Mon, 05 Jan 2026 21:19:25 GMT | Analyzing the UnrealIRCd Backdoor Vulnerability in a Controlled Lab Environment | SimpleTecBro | [Read More](https://medium.com/p/82fb561a2ecb) |
-| Mon, 05 Jan 2026 21:18:36 GMT | Reducing Wireless Observability on ESP32 Devices | Tyreek Haynes | [Read More](https://medium.com/p/1060377184d6) |
-| Mon, 05 Jan 2026 20:56:21 GMT | Hello world! | Saurabh Shintre | [Read More](https://medium.com/p/9490df0d8025) |
-| Mon, 05 Jan 2026 20:55:04 GMT | Security by Design: como eu penso segurança em e-commerce B2C na AWS sem matar escala nem conversão | Rodrigo Vitorelli | [Read More](https://medium.com/p/ae27532aedfa) |
-| Mon, 05 Jan 2026 20:51:01 GMT | Register Now for “CVE/FIRST VulnCon 2026” on April 13–16, 2026! | CVE Program Blog | [Read More](https://medium.com/p/fa27673ab427) |
-| Mon, 05 Jan 2026 20:45:00 GMT | Idris Elba’s Wax Double Unlocked His iPhone, Raising Big Questions for Face ID and Biometric… | ElviraKHWATENGE | [Read More](https://medium.com/p/9033d7f0b6a6) |
-| Mon, 05 Jan 2026 20:42:28 GMT | Junk#2 | Ayush Singh | [Read More](https://medium.com/p/9db488dfc61e) |
-| Mon, 05 Jan 2026 20:33:15 GMT | Using burpsuite to perform an intruder attack. | Aadit Nair | [Read More](https://medium.com/p/7c8859bb7a3d) |
-| Mon, 05 Jan 2026 20:32:24 GMT | K8s-Dashboard-Manager: Zero Trust Access with Teleport | Omar Din | [Read More](https://medium.com/p/f38b0ad8b206) |
-| Mon, 05 Jan 2026 20:31:36 GMT | Key Differences Between Security Guarding and Door Supervisor Qualifications | Quiz Training | [Read More](https://medium.com/p/115488fd754f) |
-| Mon, 05 Jan 2026 20:29:45 GMT | Beyond the Toolset: Advanced Red Teaming via LotL and WMI Persistence | Guilherme Mury | [Read More](https://medium.com/p/5bb8fd4e0ced) |
-| Mon, 05 Jan 2026 20:22:44 GMT | Facing off with Gandalf Level 5 | Kimberly Ordel | [Read More](https://medium.com/p/2040a3d21b6f) |
-| Mon, 05 Jan 2026 20:20:20 GMT | Bölüm 1 — Katmanlı Blockchain Güvenlik Mimarisi | Tolunay Karaduman | [Read More](https://medium.com/p/ff455ece48c2) |
-| Mon, 05 Jan 2026 20:17:00 GMT | AresGPT: Decision-Making with Red Teaming Strategies | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/7de4a1dad59f) |
-| Mon, 05 Jan 2026 20:13:42 GMT | Trojanizer Explained: How Fake Installers Really Work | ghostyjoe | [Read More](https://medium.com/p/348c96b9c41e) |
-| Mon, 05 Jan 2026 20:12:54 GMT | The Renaissance of Injection: Architecting Resilience in LLM‑to‑SQL Systems | Sunil Gentyala | [Read More](https://medium.com/p/b6ad272329a2) |
