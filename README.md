@@ -12,10 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 Jan 2026 07:18:50 GMT | EventID 304 -SOC326 -Impersonating Domain MX Record Change Detected | Soumodeep Das | [Read More](https://medium.com/p/e7f725e108bf) |
+| Wed, 07 Jan 2026 07:16:45 GMT | Python Login Defense on PyPI | Py-Core Python Programming | [Read More](https://medium.com/p/eb94a300772b) |
+| Wed, 07 Jan 2026 07:12:48 GMT | OSCP+ While Working Full Time: A Realistic Preparation Journey | Emrecan Sadikogullari | [Read More](https://medium.com/p/4680bd75a6e3) |
+| Wed, 07 Jan 2026 07:11:20 GMT | Adaptive Security Frameworks for Dynamic Cyber Threat Mitigation | Durga Bramarambika Sailaja Varri | [Read More](https://medium.com/p/c97fe23794ab) |
+| Wed, 07 Jan 2026 07:05:48 GMT | MITRE — Writeup | Mahir | [Read More](https://medium.com/p/deed77bf19aa) |
+| Wed, 07 Jan 2026 07:04:03 GMT | Learning Cyber Security — One Day at a Time (While Working Full-Time) | Sarath Surendran C M | [Read More](https://medium.com/p/df5043fd3803) |
+| Wed, 07 Jan 2026 07:04:02 GMT | RealTime Software Training in Nagercoil | Kalaijclick | [Read More](https://medium.com/p/f4783d4ea5b9) |
+| Wed, 07 Jan 2026 07:03:22 GMT | Easy IDOR CTF Challange (Bugforge) | blackm4c | [Read More](https://medium.com/p/7b63959194c2) |
+| Wed, 07 Jan 2026 07:02:26 GMT | Digital Footprints: The Subtle Pieces of Information We Leave Online Without Realizing | Grace Chukwunta | [Read More](https://medium.com/p/d31830eadd5f) |
+| Wed, 07 Jan 2026 06:53:26 GMT | IDS and IPS Configuration Using Suricata (Ubuntu + Kali Lab) | Al-Ameen Azeef | [Read More](https://medium.com/p/e18626444379) |
+| Wed, 07 Jan 2026 06:52:52 GMT | We Just Gave AI Hands. Now What? | Myra Jarenga | [Read More](https://medium.com/p/d25661d12180) |
+| Wed, 07 Jan 2026 06:41:20 GMT | ASP.NET Development Company in 2026 | Abhishek Kumar | [Read More](https://medium.com/p/adea94411bc5) |
+| Wed, 07 Jan 2026 06:41:00 GMT | ประจำวันพุธที่ 7 มกราคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/197ca9b1ca25) |
 | Wed, 07 Jan 2026 06:35:40 GMT | CVE-2025–14847 (MongoBleed): An Analysis of MongoDB Memory Leakage and Attack Surface Mitigation | Criminal IP | [Read More](https://medium.com/p/b9bca17590a1) |
 | Wed, 07 Jan 2026 06:34:25 GMT | OSI Model Attacks: How Hackers Target Every Layer Explained | ɧrιsнi rajeeѵ | [Read More](https://medium.com/p/090bb85ebb4b) |
 | Wed, 07 Jan 2026 06:31:10 GMT | ️ Turning a Linux Server into a Privacy-Focused NVR (No Cloud, No SD Cards) | Ammar Cader | [Read More](https://medium.com/p/4a4c3634b9dd) |
 | Wed, 07 Jan 2026 06:29:55 GMT | Official Walkthrough Of TryHackMe Room — Eliteconquerorz | Eliteconquerorz | [Read More](https://medium.com/p/4daf7273a18a) |
+| Wed, 07 Jan 2026 06:27:27 GMT | ONLINE ETHICAL HACKING COURSE IN CALICUT | Kaiproctor | [Read More](https://medium.com/p/b604de9fe91c) |
 | Wed, 07 Jan 2026 06:24:32 GMT | OverTheWire Bandit (Day 09): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/783fd6af9b57) |
 | Wed, 07 Jan 2026 06:09:02 GMT | Nmap 101: From Zero to Hero in Network Scanning & Discovery | Eren Ergen | [Read More](https://medium.com/p/684501c1273e) |
 | Wed, 07 Jan 2026 06:08:57 GMT | Subdomain Takeover in 2025  — New Methods + Tools | Vipul Sonule | [Read More](https://medium.com/p/dba94ba02121) |
@@ -30,6 +44,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 05:09:56 GMT | How I built my portfolio website for (almost) free in 2 hours | Vuusale | [Read More](https://medium.com/p/ec9c7d1a3415) |
 | Wed, 07 Jan 2026 05:02:48 GMT | Light Out, 7B (Part 7) | edarit | [Read More](https://medium.com/p/8ac25f5b65c5) |
 | Wed, 07 Jan 2026 05:02:48 GMT | Building a Resilient Cloud Infrastructure — Insights from F9 Infotech Experts | F9 Infotech | [Read More](https://medium.com/p/3233cb713f4e) |
+| Wed, 07 Jan 2026 05:02:45 GMT | App and Browser Permissions: A Safety Awareness Guide | Adhin V S | [Read More](https://medium.com/p/d6c628ae8573) |
 | Wed, 07 Jan 2026 04:59:55 GMT | The Complete Enterprise Guide to Cloud, Virtualization, Cybersecurity, Backup & Modern… | F9 Infotech | [Read More](https://medium.com/p/b311337af5be) |
 | Wed, 07 Jan 2026 04:52:21 GMT | Investigating a Command Injection Attack (Let’sDefend SOC Lab) | Akashwaris | [Read More](https://medium.com/p/afee489ed71a) |
 | Wed, 07 Jan 2026 04:44:30 GMT | Until You Get the Bill: A Security Reality Check | JackyNote | [Read More](https://medium.com/p/5bbacf2ccd9b) |
@@ -98,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 Jan 2026 21:10:34 GMT | Blackhat Hackers vs Ethical Hackers - Cybersecurity Tutorial | Shahzaib | [Read More](https://medium.com/p/d87164ab1b27) |
 | Tue, 06 Jan 2026 21:00:17 GMT | Case Studies: Building Effective Timelines with Plaso (Log2Timeline) | Dean | [Read More](https://medium.com/p/55e3d299c7d1) |
 | Tue, 06 Jan 2026 20:50:00 GMT | The Linux Security Journey — Suricata | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/723f41ac798d) |
-| Tue, 06 Jan 2026 20:46:34 GMT | The Defender’s Era: Navigating the 4.8 Million Professional Gap in Cybersecurity | Eva Lau | [Read More](https://medium.com/p/09125a538142) |
-| Tue, 06 Jan 2026 20:44:00 GMT | Automated Guest User Governance in Microsoft Entra ID Using Terms of Use | Ashiqur Bhuiya | [Read More](https://medium.com/p/b9c54e27326c) |
-| Tue, 06 Jan 2026 20:42:20 GMT | Venezuela’s Port Collapse Is a Security Crisis, Not Just an Infrastructure Problem | Heesham Naji | [Read More](https://medium.com/p/2a3aa3b3a5ba) |
-| Tue, 06 Jan 2026 20:41:09 GMT | How a Late-Night Scroll Turned Into an Unexpected XSS Discovery | Ashutosh Anand | [Read More](https://medium.com/p/bcfcf4014958) |
-| Tue, 06 Jan 2026 20:31:25 GMT | How to Create a Cybersecurity Home Lab: A Beginner Tutorial for Students | Dhyaandk | [Read More](https://medium.com/p/fa86f1f053cd) |
-| Tue, 06 Jan 2026 20:27:18 GMT | How a Simple HPP Bug Earned $700 on Twitter | ab.infosec | [Read More](https://medium.com/p/e5bb3a356c05) |
-| Tue, 06 Jan 2026 20:26:49 GMT | A Smarter Way to Store Sensitive Data | One Step Ahead | [Read More](https://medium.com/p/c20f73a2b70c) |
-| Tue, 06 Jan 2026 20:16:02 GMT | Cracking “Blog”: A Deep Dive into WordPress Exploitation and SUID Binary Analysis | IshhIshneet | [Read More](https://medium.com/p/06ff56bebd95) |
-| Tue, 06 Jan 2026 20:12:05 GMT | Understanding Persistence Techniques in Penetration Testing | Jay Vanyi | [Read More](https://medium.com/p/4428c419fd4c) |
-| Tue, 06 Jan 2026 20:09:49 GMT | They Don’t Hack In Anymore. They Log In: Why Identity Sprawl Is Blinding the SOC | Denny Roger | [Read More](https://medium.com/p/d16290fc46f3) |
-| Tue, 06 Jan 2026 20:09:11 GMT | When Antivirus Fails: Detecting C2 Activity with Wazuh and Security Onion | Liam smydo | [Read More](https://medium.com/p/cd6211ab17a1) |
-| Tue, 06 Jan 2026 20:08:32 GMT | Vulnerability Data Enrichment for CVE Records: 263 CNAs on the Enrichment Recognition List for… | CVE Program Blog | [Read More](https://medium.com/p/06596aa34b80) |
-| Tue, 06 Jan 2026 20:03:21 GMT | OSINT Araşdırmaları: Maltego, Shodan və Digər Alətlərlə Rəqəmsal İz Axtarışı (2026) | cybershieldy.com | [Read More](https://medium.com/p/0b5ff1697718) |
-| Tue, 06 Jan 2026 20:01:56 GMT | How Multi-Agent Systems Can Defend Against AI-Powered Attacks?? | Dikshith | [Read More](https://medium.com/p/df1a7c56d620) |
-| Tue, 06 Jan 2026 19:59:10 GMT | 2026 Cybersecurity Prediction #2 — AI Accelerates Vulnerability Exploitation | Matthew.Rosenquist | [Read More](https://medium.com/p/c729ec150f1b) |
