@@ -12,10 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 Jan 2026 10:36:21 GMT | Ledger Crypto Wallet Customer Data Breach via Global-e | Ted Quek | [Read More](https://medium.com/p/ae73f039b2f9) |
+| Wed, 07 Jan 2026 10:33:50 GMT | ️ TryHackMe Attacktive Directory Walkthrough | Rootseekerx0x | [Read More](https://medium.com/p/dd42f3f61842) |
 | Wed, 07 Jan 2026 10:22:56 GMT | Cyber Kill Chain Nedir? | Arda Derya | [Read More](https://medium.com/p/4a93a3482d53) |
 | Wed, 07 Jan 2026 10:22:27 GMT | How I Almost Broke My Linux System — And What Every Beginner Must Know | Ryvok.Brondich | [Read More](https://medium.com/p/695e4ffca062) |
 | Wed, 07 Jan 2026 10:21:16 GMT | How Malware Actually Executes on Windows (No Hollywood BS) | Yua Mikanana | [Read More](https://medium.com/p/4eda47404a53) |
 | Wed, 07 Jan 2026 10:19:58 GMT | A Strategic Analysis of Honeypot Ecosystems, Active Defense Methodologies, and Operational Efficacy… | David SEHYEON Baek | [Read More](https://medium.com/p/5ce552d30f2c) |
+| Wed, 07 Jan 2026 10:13:53 GMT | Top Vulnerability Threat Management Trends to Watch in 2026 | Andrea Smith | [Read More](https://medium.com/p/27204537831c) |
 | Wed, 07 Jan 2026 10:08:38 GMT | A Practical Guide to Safely Connecting APIs with Large Language Models | Authorshivani | [Read More](https://medium.com/p/0c51a5a699a5) |
 | Wed, 07 Jan 2026 10:06:39 GMT | OTP Bypass in Email Verification via Response Manipulation During 2FA Setup Leading to Pre-Account… | 1yz02 | [Read More](https://medium.com/p/d008aae2bcff) |
 | Wed, 07 Jan 2026 09:55:35 GMT | Why Blocking Ports Isn’t Enough When Names Tell the Story | Fateyaly | [Read More](https://medium.com/p/9aa922de6fe1) |
@@ -41,6 +44,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 09:04:34 GMT | Beyond Connectivity: Why the SECURET Quantum Smart TV is a Masterclass in “Empathetic Tech” | Quantarium | [Read More](https://medium.com/p/ce3ac35dd85a) |
 | Wed, 07 Jan 2026 09:03:10 GMT | Your AI Coding Assistant Isn’t a Tool. It’s Infrastructure. | Denny Roger | [Read More](https://medium.com/p/0bea380f9b73) |
 | Wed, 07 Jan 2026 09:02:46 GMT | One Leaked Password, 47 Valid Logins: How Credential Reuse Kills Companies | Alexandre Vandamme | [Read More](https://medium.com/p/050bad59fedf) |
+| Wed, 07 Jan 2026 09:02:42 GMT | Teknologi Game Online dan Perubahan Cara Manusia Berpikir di Era Digital | Ninja388official | [Read More](https://medium.com/p/a4504beaf951) |
 | Wed, 07 Jan 2026 08:51:29 GMT | The End of Compromise: Why Your Next Smart TV Must Be Serverless | SAYCOIN | [Read More](https://medium.com/p/bdd779febf50) |
 | Wed, 07 Jan 2026 08:46:20 GMT | Preparing Pre-Teens for Online Learning and Homework Independence | Edwin Odoyo | [Read More](https://medium.com/p/2ce1411f7381) |
 | Wed, 07 Jan 2026 08:38:58 GMT | Understanding LLMNR & NBT-NS Poisoning in Active Directory (Hands-on Learning) | Krish Gupta | [Read More](https://medium.com/p/d18a49e25a1a) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 03:32:28 GMT | From Breach Detection to Risk Intelligence: Building a Secure Exposure Monitoring Engine (Day 2) | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/707b44398165) |
 | Wed, 07 Jan 2026 03:29:11 GMT | How I mitigated bot attacks using Go, Nginx, and Cloudflare | Vedant Pandey | [Read More](https://medium.com/p/1dc45c218d3f) |
 | Wed, 07 Jan 2026 03:27:29 GMT | Automating HackerOne Scope Parsing with qsv for Bug Bounty Recon | Sam Hilliard | [Read More](https://medium.com/p/84bc770ed73c) |
-| Wed, 07 Jan 2026 03:16:57 GMT | What the WIRED Subscriber Leak Reveals About Modern Systems | Deven Chhajed | [Read More](https://medium.com/p/8d55e177bc7a) |
-| Wed, 07 Jan 2026 03:12:53 GMT | Hack Supreme Duelist Stickman | Apkpuredev | [Read More](https://medium.com/p/a775efede51a) |
-| Wed, 07 Jan 2026 03:08:44 GMT | 2560萬美元蒸發！從 Grok 裸照門看 Deepfake 滅頂災難 | p1x06u9 | [Read More](https://medium.com/p/30cd89255d02) |
-| Wed, 07 Jan 2026 03:04:45 GMT | The Six-Month Gap - Dog Years | Julio Oña | [Read More](https://medium.com/p/a79df5f57309) |
