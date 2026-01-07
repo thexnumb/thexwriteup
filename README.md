@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 Jan 2026 17:41:18 GMT | Sysmon investigation walkthrough, using Event Viewer and PowerShell | Citadel Cybersec | [Read More](https://medium.com/p/c3315456efca) |
+| Wed, 07 Jan 2026 17:37:21 GMT | AI Didn’t Break Digital Products. We Designed Them to Fail. | Khushdeep Sharma | [Read More](https://medium.com/p/f48a0b6d0efc) |
+| Wed, 07 Jan 2026 17:35:11 GMT | WhatsApp Verification Code Phishing: Technical Breakdown of a Low-Effort, High-Impact Hack. | M. Thibaut | [Read More](https://medium.com/p/d2d12e03978c) |
 | Wed, 07 Jan 2026 17:24:22 GMT | “Bug Bounty Bootcamp #11: Hands-On HTTP — Using Proxy Tools to See, Intercept, and Weaponize Every… | Aman Sharma | [Read More](https://medium.com/p/121c1afb4bf5) |
 | Wed, 07 Jan 2026 17:23:48 GMT | Why Encrypted Password Storage Still Fails — Lessons from Chrome’s Design | Cybernight | [Read More](https://medium.com/p/a9ff5ed560df) |
 | Wed, 07 Jan 2026 17:22:34 GMT | I Was Logged Out — But the API Still Trusted Me | Iski | [Read More](https://medium.com/p/85ebbe020544) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 12:22:27 GMT | Understanding Mobile App Security Without Confusion | Vineet Singh Solanki | [Read More](https://medium.com/p/335ad1d1a368) |
 | Wed, 07 Jan 2026 12:21:32 GMT | Build a Hacker Dashboard: 15 Essential Tools for Real-Time Target Monitoring | Very Lazy Tech | [Read More](https://medium.com/p/37650d5dc6d1) |
 | Wed, 07 Jan 2026 12:19:16 GMT | Breaking Into Cybersecurity in 2026: A Realistic Guide | Beri Contraster | [Read More](https://medium.com/p/98fb00923e2e) |
-| Wed, 07 Jan 2026 12:18:41 GMT | ️ Troubleshooting Kali Linux: How I Broke My Kali Linux Internet (And the 4-Hour Journey to Fix… | Swetlana Jha | [Read More](https://medium.com/p/c87b75f8f867) |
-| Wed, 07 Jan 2026 12:17:14 GMT | 3500$ Bug: Hacking Akamai ARL | Anonymous Traiger | [Read More](https://medium.com/p/621c26e706b8) |
-| Wed, 07 Jan 2026 12:16:04 GMT | API Exploitation For Bug Bounty- Hacktricks | Zodiac Hacker | [Read More](https://medium.com/p/0682ed17c8f0) |
