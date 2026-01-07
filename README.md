@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 Jan 2026 05:40:07 GMT | Benefits of Remote Camera Monitoring Services | Marcela John | [Read More](https://medium.com/p/5d8766bd2657) |
+| Wed, 07 Jan 2026 05:26:04 GMT | A.I. Dependency or Obsession? | D.M. | [Read More](https://medium.com/p/659f7488aee5) |
 | Wed, 07 Jan 2026 05:10:30 GMT | How to Speed up Disaster Recovery with Effective Incident Response | NetWitness | [Read More](https://medium.com/p/22b07e314c40) |
 | Wed, 07 Jan 2026 05:09:56 GMT | How I built my portfolio website for (almost) free in 2 hours | Vuusale | [Read More](https://medium.com/p/ec9c7d1a3415) |
 | Wed, 07 Jan 2026 05:02:48 GMT | Light Out, 7B (Part 7) | edarit | [Read More](https://medium.com/p/8ac25f5b65c5) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 Jan 2026 18:56:39 GMT | Learning from the old Exynos Trustlet bug | Aung Khant Myo | [Read More](https://medium.com/p/60e61fd87e30) |
 | Tue, 06 Jan 2026 18:49:50 GMT | La loi 05–20 | Fadwa Darfaoui | [Read More](https://medium.com/p/0a953099aba1) |
 | Tue, 06 Jan 2026 18:47:49 GMT | Model Context Protocol (MCP) — Part 1: Why It’s Powerful and Why It’s Risky | Shishirhebbar | [Read More](https://medium.com/p/a65d2023405a) |
-| Tue, 06 Jan 2026 18:47:03 GMT | The Art of Being Lazy | Matthew Stevens | [Read More](https://medium.com/p/8d8aa5c4f658) |
-| Tue, 06 Jan 2026 18:38:31 GMT | The Role of Blockchain Explorers in Cryptocurrency Investigations | Satyam | [Read More](https://medium.com/p/ce0bbc8d4162) |
