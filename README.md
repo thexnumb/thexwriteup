@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 Jan 2026 14:20:44 GMT | Case File: 0x05 — Operation “Cold Steel” | The Knight | [Read More](https://medium.com/p/5d7b3ba0a78a) |
+| Wed, 07 Jan 2026 14:15:57 GMT | Post-Quantum Cryptography and the Quiet Redesign of Financial Trust | John V. Levonick | [Read More](https://medium.com/p/e2756e930e5f) |
+| Wed, 07 Jan 2026 14:11:11 GMT | Everything You Need to Become a Professional Manual Bug Bounty Hunter | CaptinSHArky(Mahdi) | [Read More](https://medium.com/p/45e67a9effe6) |
+| Wed, 07 Jan 2026 14:10:16 GMT | AIin Our Team as We Work on Design Thinking Approach | Paul James Crook | [Read More](https://medium.com/p/3d05e039ed60) |
+| Wed, 07 Jan 2026 14:09:09 GMT | WINDOWS UNIVERSAL FORWARDER | JahdiSec | [Read More](https://medium.com/p/a0e78f5bd495) |
+| Wed, 07 Jan 2026 14:08:53 GMT | Cloud Computing Isn’t Expensive Your Architecture Is | Mughira Ahmed | [Read More](https://medium.com/p/890f3078daf8) |
+| Wed, 07 Jan 2026 14:08:47 GMT | What is Cyber Attack ? | Bibesh pokharel | [Read More](https://medium.com/p/b2619a5ace6b) |
+| Wed, 07 Jan 2026 14:01:02 GMT | What PortSwigger’s LLM Lab 1 Taught Me About Excessive Agency in AI Systems | Antariksha Akhilesh Sharma | [Read More](https://medium.com/p/481628af171f) |
+| Wed, 07 Jan 2026 13:59:49 GMT | TryHackMe Writeup: Year of the Dog | Berkay AĞGÜL | [Read More](https://medium.com/p/cf1cf5662f26) |
+| Wed, 07 Jan 2026 13:58:56 GMT | HTB Usage : Mon expérience | Simon Maciag | [Read More](https://medium.com/p/af18a9f4bd5e) |
+| Wed, 07 Jan 2026 13:57:24 GMT | Why the UK’s New Cyber Action Plan is a Masterclass in Moving Goalposts | Clement Saudu | [Read More](https://medium.com/p/9cab1a16a748) |
+| Wed, 07 Jan 2026 13:57:18 GMT | Breizh CTF - Authentification | SPIDER1SEC | [Read More](https://medium.com/p/9707750140bc) |
+| Wed, 07 Jan 2026 13:48:15 GMT | OffSec PG: Inclusiveness Write-Up | Emre ASLAN | [Read More](https://medium.com/p/fc37555a1cb5) |
 | Wed, 07 Jan 2026 13:36:43 GMT | Taiwan Reports Tenfold Surge in Chinese Cyberattacks on Energy Infrastructure | Technijian | [Read More](https://medium.com/p/38e95d93da46) |
 | Wed, 07 Jan 2026 13:32:26 GMT | From Startup to Unicorn: A Blueprint for Secure Enterprise Architecture | Eber Cruz | [Read More](https://medium.com/p/4ddbd2c0bfa0) |
 | Wed, 07 Jan 2026 13:26:36 GMT | Almost done with your Bachelor's or Master's in Cybersecurity: Interview Prep 01 | Sristi Mitra | [Read More](https://medium.com/p/650977a7861d) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 08:36:29 GMT | School and Campus Security Market: Trends, Innovations, and Safer Learning Environments | Marrtin Olivia | [Read More](https://medium.com/p/52c5747f96d3) |
 | Wed, 07 Jan 2026 08:16:15 GMT | JWT Attacks - Foundational | Amrsmooke | [Read More](https://medium.com/p/07efea0a7a10) |
 | Wed, 07 Jan 2026 08:12:10 GMT | Buda — Write-Up (The Hackers Labs) | ManuM0re | [Read More](https://medium.com/p/ccf7f16bd509) |
-| Wed, 07 Jan 2026 08:02:35 GMT | Fragility of Humanness | Lisa Jones | [Read More](https://medium.com/p/601252a7eccf) |
-| Wed, 07 Jan 2026 07:58:06 GMT | Menggunakan Wordlist Kustom dan Ekstensi File dengan Feroxbuster | Ginda Sundara | [Read More](https://medium.com/p/96e55bc5f132) |
-| Wed, 07 Jan 2026 07:54:40 GMT | Sama Saudi | itbutler0077 | [Read More](https://medium.com/p/802ef7d7266a) |
-| Wed, 07 Jan 2026 07:50:38 GMT | Brand Protection | itbutler0077 | [Read More](https://medium.com/p/e2b357f47bb8) |
-| Wed, 07 Jan 2026 07:40:55 GMT | Advanced Antivirus for Windows to Defend Against New Threats | Siyanoav | [Read More](https://medium.com/p/f1547544ab11) |
-| Wed, 07 Jan 2026 07:35:00 GMT | [Relevant]  —  Windows Server 2016 Exploitation via IIS Enumeration, Credential Disclosure, and… | Bash Overflow | [Read More](https://medium.com/p/518ca3f4a66e) |
-| Wed, 07 Jan 2026 07:25:02 GMT | Why Your Website Needs a CDN? The Ultimate Guide to Speed and Security | Tharusha kavinda | [Read More](https://medium.com/p/47658aa182e3) |
-| Wed, 07 Jan 2026 07:18:50 GMT | EventID 304 -SOC326 -Impersonating Domain MX Record Change Detected | Soumodeep Das | [Read More](https://medium.com/p/e7f725e108bf) |
-| Wed, 07 Jan 2026 07:16:45 GMT | Python Login Defense on PyPI | Py-Core Python Programming | [Read More](https://medium.com/p/eb94a300772b) |
-| Wed, 07 Jan 2026 07:12:48 GMT | OSCP+ While Working Full Time: A Realistic Preparation Journey | Emrecan Sadikogullari | [Read More](https://medium.com/p/4680bd75a6e3) |
-| Wed, 07 Jan 2026 07:11:20 GMT | Adaptive Security Frameworks for Dynamic Cyber Threat Mitigation | Durga Bramarambika Sailaja Varri | [Read More](https://medium.com/p/c97fe23794ab) |
-| Wed, 07 Jan 2026 07:05:48 GMT | MITRE — Writeup | Mahir | [Read More](https://medium.com/p/deed77bf19aa) |
-| Wed, 07 Jan 2026 07:04:03 GMT | Learning Cyber Security — One Day at a Time (While Working Full-Time) | Sarath Surendran C M | [Read More](https://medium.com/p/df5043fd3803) |
