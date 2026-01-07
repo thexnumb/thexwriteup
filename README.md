@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 Jan 2026 20:06:17 GMT | Building a SOC from Scratch: The Part Tutorials Never Show | Lakshan Sameera (Sameer) | [Read More](https://medium.com/p/80655b2332fd) |
+| Wed, 07 Jan 2026 20:03:09 GMT | The Loneliness of Loving Deeply: When You’re Built for Depth in a World Addicted to Surface | ☽Karlee Alyssa | [Read More](https://medium.com/p/069b8f9aa938) |
+| Wed, 07 Jan 2026 19:56:01 GMT | Where Vendor Risk Hides in Justice Organizations and How to Find It Before It Finds Your Clients | Tyson Martin | [Read More](https://medium.com/p/4d47184d389c) |
+| Wed, 07 Jan 2026 19:49:12 GMT | Invert Binary Tree — Why the Simplest Problems Matter | Error | [Read More](https://medium.com/p/0a4cb9a1fbb1) |
+| Wed, 07 Jan 2026 19:44:17 GMT | I Am Scared | Eco Maven | [Read More](https://medium.com/p/ac0b2b5ecfb6) |
 | Wed, 07 Jan 2026 19:40:33 GMT | IP Addressing: How Devices Identify Each Other on the Internet | Vaishnavid | [Read More](https://medium.com/p/384903f0a0d6) |
 | Wed, 07 Jan 2026 19:40:29 GMT | n8n RCE 101: Analyzing CVE-2025–68613 | Lior Ben Moha | [Read More](https://medium.com/p/5c1be8b6dca6) |
 | Wed, 07 Jan 2026 19:38:04 GMT | Common OT Attacks: From Stuxnet to FrostyGoop | urjasec | [Read More](https://medium.com/p/8c5d5219c97c) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 14:44:46 GMT | TalkTalk Cyber Attack — 2015 | VIGNESH | [Read More](https://medium.com/p/5e7c216ee711) |
 | Wed, 07 Jan 2026 14:42:45 GMT | Analyzing CVE-2025–37164 | Vinicius Domingos | [Read More](https://medium.com/p/71e4712f35e3) |
 | Wed, 07 Jan 2026 14:40:39 GMT | Can I Contact Yahoo Customer Service Number Australia | Customer Support Information | [Read More](https://medium.com/p/8587ec9f2e4b) |
-| Wed, 07 Jan 2026 14:32:45 GMT | 31093Lack of Secure Update Mechanism | SerialHacker | [Read More](https://medium.com/p/adbd86245a75) |
-| Wed, 07 Jan 2026 14:32:04 GMT | How Do I do this?? | ciira | [Read More](https://medium.com/p/01e43469a304) |
-| Wed, 07 Jan 2026 14:31:51 GMT | La historia de YouAreAnIdiot, el virus en Adobe Flash que se convirtió en una broma pesada | Tiziano Mass | [Read More](https://medium.com/p/21effc9b92b4) |
-| Wed, 07 Jan 2026 14:28:45 GMT | Prompt Injection: Input-Based Security Vulnerabilities in Large Language Models | Irem Bezci | [Read More](https://medium.com/p/ee2c759644cc) |
-| Wed, 07 Jan 2026 14:20:44 GMT | Case File: 0x05 — Operation “Cold Steel” | The Knight | [Read More](https://medium.com/p/5d7b3ba0a78a) |
