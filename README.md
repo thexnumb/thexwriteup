@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 Jan 2026 17:24:22 GMT | “Bug Bounty Bootcamp #11: Hands-On HTTP — Using Proxy Tools to See, Intercept, and Weaponize Every… | Aman Sharma | [Read More](https://medium.com/p/121c1afb4bf5) |
+| Wed, 07 Jan 2026 17:23:48 GMT | Why Encrypted Password Storage Still Fails — Lessons from Chrome’s Design | Cybernight | [Read More](https://medium.com/p/a9ff5ed560df) |
+| Wed, 07 Jan 2026 17:22:34 GMT | I Was Logged Out — But the API Still Trusted Me | Iski | [Read More](https://medium.com/p/85ebbe020544) |
+| Wed, 07 Jan 2026 17:22:31 GMT | Hacking a Cyber security career-part 2 | Oscar Okwero | [Read More](https://medium.com/p/e63055094972) |
+| Wed, 07 Jan 2026 17:12:36 GMT | I Don’t Even Know If My Life Is A Movie Or It Is Written By God | Pajay Haykins | [Read More](https://medium.com/p/21b06482fd94) |
+| Wed, 07 Jan 2026 17:08:00 GMT | Try Hack Me- Boiler CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/463818626de4) |
+| Wed, 07 Jan 2026 17:06:12 GMT | The Psychology Behind Dark Web Scams: Why People Fall for Them | Tor BBB | [Read More](https://medium.com/p/52b1f1de5394) |
+| Wed, 07 Jan 2026 17:05:44 GMT | TryHackMe — Opacity Writeup | alda69 | [Read More](https://medium.com/p/d0a8eb22883f) |
+| Wed, 07 Jan 2026 17:03:05 GMT | Zero-Click Attacks Explained: How Messaging Apps Are Compromised Without User Interaction | Mohammed Lorans Alsalama | [Read More](https://medium.com/p/8f9c013e52b8) |
+| Wed, 07 Jan 2026 17:02:47 GMT | Twin CVSS 10.0 bugs turn n8n workflows into an attacker’s playground | Sudarshan | [Read More](https://medium.com/p/ee81145089c6) |
+| Wed, 07 Jan 2026 16:55:16 GMT | Android Pentesting Lab — Part 0: Ultimate Setup Guide (2026) | Mscmkn | [Read More](https://medium.com/p/b268ec231e5c) |
+| Wed, 07 Jan 2026 16:44:49 GMT | Why SQL Injection is Still the Web’s Most Dangerous “Zombie” Bug | Alouli Mohamed Zaid | [Read More](https://medium.com/p/58b679a72c89) |
+| Wed, 07 Jan 2026 16:43:50 GMT | How Terrorists Weaponised #BringBackOurGirls: The Dark Side of Viral Campaigns | Oge Samuel Okonkwo | [Read More](https://medium.com/p/105de25a5ff0) |
+| Wed, 07 Jan 2026 16:35:52 GMT | Today was my first Cyber Security class. | Aliyan Ali | [Read More](https://medium.com/p/49b6a84da854) |
+| Wed, 07 Jan 2026 16:35:01 GMT | How I Found Broken Authentication and Authorization on a Website | Shir0E | [Read More](https://medium.com/p/378db3f2aaea) |
+| Wed, 07 Jan 2026 16:32:28 GMT | The Balance That Chooses for You | Sylvie | [Read More](https://medium.com/p/17aabb8265c4) |
 | Wed, 07 Jan 2026 16:27:57 GMT | Under the Hood of IAST and RASP. How instrumentation actually works | Javi D R | [Read More](https://medium.com/p/47511ebeeec5) |
 | Wed, 07 Jan 2026 16:27:31 GMT | Blurams Camera Review: Are Blurams Security Cameras Worth Buying in 2025? | Narjis Arshad | [Read More](https://medium.com/p/5afdabb6bec9) |
 | Wed, 07 Jan 2026 16:25:03 GMT | How I Passed the PNPT in 2026 — Lessons, Methodology, and Advice. | Eziyo | [Read More](https://medium.com/p/36ba8f68b5b7) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 12:18:41 GMT | ️ Troubleshooting Kali Linux: How I Broke My Kali Linux Internet (And the 4-Hour Journey to Fix… | Swetlana Jha | [Read More](https://medium.com/p/c87b75f8f867) |
 | Wed, 07 Jan 2026 12:17:14 GMT | 3500$ Bug: Hacking Akamai ARL | Anonymous Traiger | [Read More](https://medium.com/p/621c26e706b8) |
 | Wed, 07 Jan 2026 12:16:04 GMT | API Exploitation For Bug Bounty- Hacktricks | Zodiac Hacker | [Read More](https://medium.com/p/0682ed17c8f0) |
-| Wed, 07 Jan 2026 12:14:30 GMT | How ZeroThreat Helps Regulated Industries Prevent Fines, Breaches, and Audit Delays | Kate Bennett | [Read More](https://medium.com/p/041f349acd3a) |
-| Wed, 07 Jan 2026 12:08:58 GMT | Understanding Cryptography | Saran Aadithyan | [Read More](https://medium.com/p/8f9d9d2263d3) |
-| Wed, 07 Jan 2026 12:07:26 GMT | Leading Speech Service Company in Vietnam | Ashutosh Mallik | [Read More](https://medium.com/p/f7bd387e857f) |
-| Wed, 07 Jan 2026 12:04:40 GMT | Injecting DLLs in Rust: A Hands-On Guide to Classic Remote Thread Injection | Maverick | [Read More](https://medium.com/p/23b8cd084af2) |
-| Wed, 07 Jan 2026 12:02:45 GMT | Writing a Local-First Bot Instead of a SaaS | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/292044c0afd7) |
-| Wed, 07 Jan 2026 11:56:41 GMT | Why Beginner Websites Get Hacked (And How to Stop It) | Ryvok.Brondich | [Read More](https://medium.com/p/5d95100e5848) |
-| Wed, 07 Jan 2026 11:51:56 GMT | What Are SOC Services in South Africa and How Do They Strengthen Cybersecurity? | Prakash Factosecure | [Read More](https://medium.com/p/6c7026bf40ef) |
-| Wed, 07 Jan 2026 11:48:47 GMT | DOM XSS Lab 3 & 4: Anatomy of document.write and innerHTML Attacks(Portswigger) | Sanjivani Dobhal | [Read More](https://medium.com/p/72b167455dc6) |
-| Wed, 07 Jan 2026 11:39:18 GMT | The “Unzip” of Death: Why Using Your Old WinRAR Is a Dangerous Trap | Shadhujan Jeyachandran | [Read More](https://medium.com/p/18203a2c9fff) |
-| Wed, 07 Jan 2026 11:35:33 GMT | Why Authentication Is More Fragile Than Most People Think | Ramesh Salve | [Read More](https://medium.com/p/e2151e55df27) |
-| Wed, 07 Jan 2026 11:32:34 GMT | COMO EU DESCROBRI O QUE É PCI-DSS DA PIOR FORMA POSSÍVEL | Eduardo Costa Nuansambu | [Read More](https://medium.com/p/e48014ceadc3) |
-| Wed, 07 Jan 2026 11:32:00 GMT | Offensive Security Introduction | Elizabeth (Libby) | [Read More](https://medium.com/p/6c6674c8968b) |
-| Wed, 07 Jan 2026 11:30:00 GMT | Why Managed IT Services Are Becoming a Business Essential | Prohash Technologies | [Read More](https://medium.com/p/f654bf3de123) |
-| Wed, 07 Jan 2026 11:25:51 GMT | Part 3 : Oversharing-Feeding the AI Beast | Protégé IGDTUW | [Read More](https://medium.com/p/7a9fdbb3dde7) |
-| Wed, 07 Jan 2026 11:22:02 GMT | Reliable Managed IT Infrastructure Services Provider in India | Samvaskaran | [Read More](https://medium.com/p/a315e3fe5e97) |
-| Wed, 07 Jan 2026 11:08:25 GMT | Two Requests, One Bug: How Race Conditions Break Server Security | Cybernight | [Read More](https://medium.com/p/850f6963b3ad) |
