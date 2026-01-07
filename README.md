@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 Jan 2026 01:47:29 GMT | The basics of Linux Privilege Escalation | Mauricio Antonio | [Read More](https://medium.com/p/4d3b9b93f0c3) |
+| Wed, 07 Jan 2026 01:32:27 GMT | React2Shell CVE -2025–55182 Tryhackme Walkthrough | Mainekhacker | [Read More](https://medium.com/p/eb40b8c092b8) |
+| Wed, 07 Jan 2026 01:23:49 GMT | Physical Security Tools for Digital Safety | Özgür Karataş | [Read More](https://medium.com/p/74e0dfc2a090) |
+| Wed, 07 Jan 2026 01:13:38 GMT | JTAG Is the Quietest Backdoor You’ve Never Logged | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/380ea0c8d38e) |
+| Wed, 07 Jan 2026 01:12:32 GMT | The Foundation Layer: Why AI Systems Need Cryptographic DNA | John Black | [Read More](https://medium.com/p/0a4e3b5891ee) |
+| Wed, 07 Jan 2026 00:58:19 GMT | Why Your Cache Rules are Leaking User Data (Web Cache Deception) | Nullifiedsec | [Read More](https://medium.com/p/af3b0ee28496) |
+| Wed, 07 Jan 2026 00:45:04 GMT | How to Secure Your Phone and Accounts: A Step-by-Step Recovery Guide | Your IT and Tech Mates | [Read More](https://medium.com/p/e848f337a306) |
+| Wed, 07 Jan 2026 00:32:40 GMT | 58 Cybersecurity Questions Every Beginner Should Know | SeQEW | [Read More](https://medium.com/p/808319ad0229) |
+| Wed, 07 Jan 2026 00:31:17 GMT | Meditations on the Future of #AI – [AI-MED-001: Don’t Be the Horse] | Marco Essomba | [Read More](https://medium.com/p/8fc5c5a0e47e) |
+| Wed, 07 Jan 2026 00:29:18 GMT | Mutual TLS (mTLS) Authentication — A Complete Guide | Tiexin Guo | [Read More](https://medium.com/p/e5736c4dd3ee) |
+| Wed, 07 Jan 2026 00:15:02 GMT | Tanuki -Writeup | 7s26Simon | [Read More](https://medium.com/p/d1e1d40f1339) |
+| Wed, 07 Jan 2026 00:02:26 GMT | The Most Powerful Weapon in Cybersecurity Starts as a Basic Laptop | Jojuwale | [Read More](https://medium.com/p/60b97de0231a) |
+| Wed, 07 Jan 2026 00:02:25 GMT | Nmap Guide for Bug Bounty: Port Scanning and WAF Evasion | JPablo13 | [Read More](https://medium.com/p/9e0ea69f3377) |
+| Tue, 06 Jan 2026 23:54:59 GMT | The Day You Lose Everything — and How to Make Sure It Never Happens | Rekuway | [Read More](https://medium.com/p/6001e6c76488) |
+| Tue, 06 Jan 2026 23:46:52 GMT | Cybersecurity in 2026 and Beyond: Everything Has Already Changed | Vatsal Gupta | [Read More](https://medium.com/p/6ac98483332d) |
 | Tue, 06 Jan 2026 23:33:27 GMT | Agent T TryHackMe Write UP | cat0x01 | [Read More](https://medium.com/p/251d767d5bd0) |
 | Tue, 06 Jan 2026 23:28:18 GMT | CVE Program to Normalize Formatting of Date/Time Fields Across Historical CVE Records Beginning in… | CVE Program Blog | [Read More](https://medium.com/p/a1dacd5637fa) |
 | Tue, 06 Jan 2026 23:24:31 GMT | Top Breaches in Cyber Security in 2025 — upcoming live panel | Matthew.Rosenquist | [Read More](https://medium.com/p/f64d84fd4489) |
@@ -97,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 Jan 2026 16:40:58 GMT | KALI LINUX OSINT 2025 Domine Inteligência de Fontes Abertas com Ferramentas de Alta Performance | Diego Rodrigues | [Read More](https://medium.com/p/2b86c62a2a4a) |
 | Tue, 06 Jan 2026 16:40:14 GMT | Chinese cyberattacks on Taiwan infrastructure averaged 2.6 million a day in 2025, report says | Defence Affairs & Analysis | [Read More](https://medium.com/p/7f37ea371317) |
 | Tue, 06 Jan 2026 16:40:05 GMT | Why Caching Makes Bugs Harder to Find in Spring Boot | Lakshika | [Read More](https://medium.com/p/6c5826962820) |
-| Tue, 06 Jan 2026 16:34:59 GMT | But Who Will Shave My Left Leg? | Linda A Metzler | [Read More](https://medium.com/p/63b446e49d13) |
-| Tue, 06 Jan 2026 16:32:22 GMT | NSI Experts Weigh In: U.S. National Security Challenges in 2026 | National Security Institute | [Read More](https://medium.com/p/cee1ce8fb808) |
-| Tue, 06 Jan 2026 16:30:19 GMT | Try Hack Me- Biohazard Walkthrough | PulseEinher | [Read More](https://medium.com/p/48c840f59485) |
-| Tue, 06 Jan 2026 16:25:19 GMT | AWS’s New AI “Frontier” Security Reviewer | Mr.Vardhan | [Read More](https://medium.com/p/e54d813082d4) |
-| Tue, 06 Jan 2026 16:20:41 GMT | Active Directory Pentesting in 2026: Why It Still Matters and How to Master It. | Ali bin azam | [Read More](https://medium.com/p/8341ac9706a2) |
-| Tue, 06 Jan 2026 16:19:23 GMT | Security-First Laravel Development in 2026: Defensive Coding Practices | ElevenDev MuslimCoder | [Read More](https://medium.com/p/fb1cfbd21c53) |
-| Tue, 06 Jan 2026 16:18:17 GMT | Day 3 Writing to Process my Thoughts | silentink | [Read More](https://medium.com/p/2dc860c000ce) |
-| Tue, 06 Jan 2026 16:17:34 GMT | Hydra — Online Password Brute-Forcing - Hands-On Practice | DeshmukhVinit | [Read More](https://medium.com/p/3dc4676ac097) |
-| Tue, 06 Jan 2026 16:17:04 GMT | Cyber Risk in 2026: How Organizations Can Stay Ahead | Aku | [Read More](https://medium.com/p/e944ba67a349) |
-| Tue, 06 Jan 2026 16:14:30 GMT | Writing: A Silent Exposé | THE WRITER’S LENS | [Read More](https://medium.com/p/f17f58aee804) |
-| Tue, 06 Jan 2026 16:12:22 GMT | How to Recover an Instagram ID
-1️⃣ Using “Forgot Password” | Ethical Hacker | [Read More](https://medium.com/p/d5054ae2bbc3) |
-| Tue, 06 Jan 2026 16:10:52 GMT | Day 1 in Cybersecurity: My Introduction to Ethical Hacking | Mohammad-AL-Momani | [Read More](https://medium.com/p/56df09ea2fa3) |
-| Tue, 06 Jan 2026 16:02:51 GMT | Is BTC really PRIVATE, ANONYMOUS, and SECURE? — Watch Out Bitcoin Panel | Pablo F. Iglesias | [Read More](https://medium.com/p/4ba26ddd1d4c) |
-| Tue, 06 Jan 2026 16:01:50 GMT | Why a $25 M5StickC Plus Stack Outclasses the $250 Flipper Zero: Evaluating the M5StickC Plus | MR EFF3CT 007 | [Read More](https://medium.com/p/a5d51802fbe9) |
-| Tue, 06 Jan 2026 15:59:26 GMT | Launching a new era of learning with The Technovation Hub. | The Technovation Hub | [Read More](https://medium.com/p/06fde60b1d19) |
