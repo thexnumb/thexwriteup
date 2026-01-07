@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 Jan 2026 18:19:03 GMT | A Mentor Who Sold $20M+ in Digital Products Changed How I View Marketing Forever | Sathish Tadaka | [Read More](https://medium.com/p/4ad5946455a4) |
+| Wed, 07 Jan 2026 18:18:28 GMT | Lab Practice vs Theory: How Hackers Really Learn | Hadiyayazeen | [Read More](https://medium.com/p/0dc1bff1af0a) |
+| Wed, 07 Jan 2026 18:08:02 GMT | The Problem with Traditional OT Risk Assessments | Stuart King | [Read More](https://medium.com/p/f4dac2918b12) |
+| Wed, 07 Jan 2026 18:05:17 GMT | The Agentic Architect Series: Part 3 | Imran Siddique | [Read More](https://medium.com/p/c162c9ccd959) |
+| Wed, 07 Jan 2026 18:02:50 GMT | Part 1 — Let’s Build Your Own Home or Cloud Web Server Together | Firat Gulec | [Read More](https://medium.com/p/08b1940ee4db) |
+| Wed, 07 Jan 2026 17:58:34 GMT | Ethical Hacking in 2026: Latest Trends Shaping Cybersecurity’s Future | Hadiyayazeen | [Read More](https://medium.com/p/bdd07b7c7ae4) |
+| Wed, 07 Jan 2026 17:57:06 GMT | Your MFA Isn’t Protecting You Anymore (And Here’s Why) | Soumyadipta Birabar | [Read More](https://medium.com/p/87863165d770) |
+| Wed, 07 Jan 2026 17:57:04 GMT | CIA Triad | Soumya Sri | [Read More](https://medium.com/p/8a76b8407878) |
+| Wed, 07 Jan 2026 17:57:03 GMT | Understanding Common Cookie Attributes (With Simple Security Explanations) | Shayaan Khan | [Read More](https://medium.com/p/1572bd417783) |
+| Wed, 07 Jan 2026 17:55:53 GMT | Why Small Businesses Are the Most Overlooked Targets of Cyberwarfare? | Himanshu Chaudhary | [Read More](https://medium.com/p/09f6cf8078ac) |
+| Wed, 07 Jan 2026 17:54:28 GMT | Insider Threats Are Now the Fastest-Growing Cargo Theft Method, And Your “Verified” Carriers Might… | Heesham Naji | [Read More](https://medium.com/p/4026beb37d3a) |
+| Wed, 07 Jan 2026 17:46:47 GMT | Internal TryHackMe | Ankit Dhaka | [Read More](https://medium.com/p/714b0a7f9a3d) |
+| Wed, 07 Jan 2026 17:46:06 GMT | CourseCareers: Unlock Your Potential with Our Courses | Wifi Mochi | [Read More](https://medium.com/p/e442bc3719bc) |
+| Wed, 07 Jan 2026 17:43:39 GMT | The first major vulnerability in React Server Components isn’t just a bug; it’s a wake-up call for… | Webstack | [Read More](https://medium.com/p/62edc46ff4f9) |
+| Wed, 07 Jan 2026 17:42:33 GMT | Google Cloud Is Being Abused to Steal Microsoft 365 Credentials | Chetan Seripally | [Read More](https://medium.com/p/69b941160d63) |
 | Wed, 07 Jan 2026 17:41:18 GMT | Sysmon investigation walkthrough, using Event Viewer and PowerShell | Citadel Cybersec | [Read More](https://medium.com/p/c3315456efca) |
 | Wed, 07 Jan 2026 17:37:21 GMT | AI Didn’t Break Digital Products. We Designed Them to Fail. | Khushdeep Sharma | [Read More](https://medium.com/p/f48a0b6d0efc) |
 | Wed, 07 Jan 2026 17:35:11 GMT | WhatsApp Verification Code Phishing: Technical Breakdown of a Low-Effort, High-Impact Hack. | M. Thibaut | [Read More](https://medium.com/p/d2d12e03978c) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 13:12:44 GMT | KOSPI 4,500 & The Return of the Shipbuilders: Is This 2007 All Over Again? | Jo's Biz Note | [Read More](https://medium.com/p/0b1b85903221) |
 | Wed, 07 Jan 2026 13:10:47 GMT | Cyber Risk Is Business Risk — What Organizations Need to Understand | Digital Defense | [Read More](https://medium.com/p/40b1b1a19946) |
 | Wed, 07 Jan 2026 13:10:30 GMT | Securing Apps with Crypto Architecture Kit in HarmonyOS Next | Emine İNAN | [Read More](https://medium.com/p/9da89da3d56d) |
-| Wed, 07 Jan 2026 13:05:40 GMT | Nmap Without Mystery: From Basics to Advanced Network Reconnaissance | Nexamos | [Read More](https://medium.com/p/0dd37c69a9fb) |
-| Wed, 07 Jan 2026 13:03:29 GMT | THE $300M MISTAKE: WHY META’S NIGERIAN LANGUAGE MODERATION FAILURE COST MORE THAN YOUR ENTIRE CVE… | Oge Samuel Okonkwo | [Read More](https://medium.com/p/5fd6cc973cec) |
-| Wed, 07 Jan 2026 12:58:05 GMT | Why Understanding Authentication & Authorization Architecture Is Essential Before Hunting Logic… | MouhibMahadbi | [Read More](https://medium.com/p/2d5e0a0cfd1e) |
-| Wed, 07 Jan 2026 12:54:33 GMT | Advance certification in Cyber Law & Regulations | Selinemir | [Read More](https://medium.com/p/3eeb95a5ed73) |
-| Wed, 07 Jan 2026 12:49:56 GMT | The Zero Trust Mindset | Laaguidi Yassine | [Read More](https://medium.com/p/7dbb7e937aa5) |
-| Wed, 07 Jan 2026 12:35:14 GMT | ISO 27001 Risk Management: Processes, Documentation, and Auditor Expectations | SecureSlate | [Read More](https://medium.com/p/c31ae1e6115c) |
-| Wed, 07 Jan 2026 12:32:54 GMT | The 2026 Guide to Agentic AI Security : Navigating the OWASP Top 10 | Soubhik Ghosh | [Read More](https://medium.com/p/c4fd8c7024fa) |
-| Wed, 07 Jan 2026 12:32:46 GMT | Terraform 1.10: Ephemeral Values — Finally, Secrets That Don’t Live in Your State File | Kawaldeep Singh | [Read More](https://medium.com/p/b4401b95a36c) |
-| Wed, 07 Jan 2026 12:32:46 GMT | The Post-Labor Dev Era | Lawrence Aiello | [Read More](https://medium.com/p/8d071b04f9bd) |
-| Wed, 07 Jan 2026 12:32:39 GMT | A Simple Host Header Bug That Leads to Admin Takeover | Nidhi kathayat | [Read More](https://medium.com/p/b9b9c9f65429) |
-| Wed, 07 Jan 2026 12:30:17 GMT | Compliance Audit: Using Oceka Exchange Metrics to Assess Unregulated Platform Risks | Certification Flow Laboratories | [Read More](https://medium.com/p/190029808367) |
-| Wed, 07 Jan 2026 12:28:42 GMT | Boosting Manufacturing Efficiency with AI-Powered Surveillance | Dolon Ghosh | [Read More](https://medium.com/p/59c79a15e70f) |
-| Wed, 07 Jan 2026 12:22:27 GMT | Understanding Mobile App Security Without Confusion | Vineet Singh Solanki | [Read More](https://medium.com/p/335ad1d1a368) |
-| Wed, 07 Jan 2026 12:21:32 GMT | Build a Hacker Dashboard: 15 Essential Tools for Real-Time Target Monitoring | Very Lazy Tech | [Read More](https://medium.com/p/37650d5dc6d1) |
-| Wed, 07 Jan 2026 12:19:16 GMT | Breaking Into Cybersecurity in 2026: A Realistic Guide | Beri Contraster | [Read More](https://medium.com/p/98fb00923e2e) |
