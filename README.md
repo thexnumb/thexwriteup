@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 Jan 2026 21:11:48 GMT | My Journey Into Cybersecurity: Learning SOC Fundamentals as a Beginner | GRACE MAKINDE | [Read More](https://medium.com/p/47bfd3262fca) |
+| Wed, 07 Jan 2026 21:05:52 GMT | Understanding CVE-2026–21877: Critical RCE Flaw in n8n and What It Means for Your Automation Stack | Khaleel Khan | [Read More](https://medium.com/p/86df08a46e05) |
+| Wed, 07 Jan 2026 20:51:07 GMT | Wonderland Walkthrough — A Curious Journey from Rabbit Holes to Root | IshhIshneet | [Read More](https://medium.com/p/7e00d24075b3) |
+| Wed, 07 Jan 2026 20:43:07 GMT | Zero Trust 2.0: Combating Deepfakes | Valdez Ladd | [Read More](https://medium.com/p/d1ddab27939c) |
 | Wed, 07 Jan 2026 20:31:17 GMT | Runtime Governance 101: The Critical Role of Runtime Governance in Securing Agentic AI | Rampart AI™ | [Read More](https://medium.com/p/1588bd1ae2bb) |
 | Wed, 07 Jan 2026 20:06:17 GMT | Building a SOC from Scratch: The Part Tutorials Never Show | Lakshan Sameera (Sameer) | [Read More](https://medium.com/p/80655b2332fd) |
 | Wed, 07 Jan 2026 20:03:09 GMT | The Loneliness of Loving Deeply: When You’re Built for Depth in a World Addicted to Surface | ☽Karlee Alyssa | [Read More](https://medium.com/p/069b8f9aa938) |
@@ -70,6 +74,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 16:55:16 GMT | Android Pentesting Lab — Part 0: Ultimate Setup Guide (2026) | Mscmkn | [Read More](https://medium.com/p/b268ec231e5c) |
 | Wed, 07 Jan 2026 16:44:49 GMT | Why SQL Injection is Still the Web’s Most Dangerous “Zombie” Bug | Alouli Mohamed Zaid | [Read More](https://medium.com/p/58b679a72c89) |
 | Wed, 07 Jan 2026 16:43:50 GMT | How Terrorists Weaponised #BringBackOurGirls: The Dark Side of Viral Campaigns | Oge Samuel Okonkwo | [Read More](https://medium.com/p/105de25a5ff0) |
+| Wed, 07 Jan 2026 16:36:17 GMT | Hack DJI Mini 3 : L’échec de mes attaques Replay et GPS Spoofing. | RAPATT | [Read More](https://medium.com/p/1d8a0462cd71) |
 | Wed, 07 Jan 2026 16:35:52 GMT | Today was my first Cyber Security class. | Aliyan Ali | [Read More](https://medium.com/p/49b6a84da854) |
 | Wed, 07 Jan 2026 16:35:01 GMT | How I Found Broken Authentication and Authorization on a Website | Shir0E | [Read More](https://medium.com/p/378db3f2aaea) |
 | Wed, 07 Jan 2026 16:32:28 GMT | The Balance That Chooses for You | Sylvie | [Read More](https://medium.com/p/17aabb8265c4) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 14:57:00 GMT | ️DC: 1 — Complete Walkthrough (Beginner-Friendly) - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/9cede4e346d9) |
 | Wed, 07 Jan 2026 14:55:21 GMT | The Worst Web3 Hacks of 2025: $4.2 Billion Vanished in 10 Months | Gloria C. Chimelu | [Read More](https://medium.com/p/8f8a90aa22a1) |
 | Wed, 07 Jan 2026 14:52:46 GMT | How Do I Contact McAfee Support Number Australia | Customer Support Information | [Read More](https://medium.com/p/fc3d2eacac8a) |
-| Wed, 07 Jan 2026 14:49:09 GMT | SQL Injection Explained Using SQLMap (Beginner Guide) | Amrit Kashyap | [Read More](https://medium.com/p/3624283f7927) |
-| Wed, 07 Jan 2026 14:49:06 GMT | The Fastest Way to Validate External Python Modules | Maikel Mardjan | [Read More](https://medium.com/p/eec8aa90f181) |
-| Wed, 07 Jan 2026 14:45:34 GMT | Automated Penetration Testing: The Silver Bullet That Isn’t | Artids | [Read More](https://medium.com/p/b567602a1583) |
-| Wed, 07 Jan 2026 14:44:46 GMT | TalkTalk Cyber Attack — 2015 | VIGNESH | [Read More](https://medium.com/p/5e7c216ee711) |
-| Wed, 07 Jan 2026 14:42:45 GMT | Analyzing CVE-2025–37164 | Vinicius Domingos | [Read More](https://medium.com/p/71e4712f35e3) |
