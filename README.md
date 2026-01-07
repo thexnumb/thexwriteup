@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 Jan 2026 18:53:25 GMT | Looking Back at 2025’s Cybersecurity Landscape: Key Trends to Watch in 2026 | Costin Raiu | [Read More](https://medium.com/p/25d27a3b2b1c) |
+| Wed, 07 Jan 2026 18:51:02 GMT | Engineering Cryptography for the Post-Quantum Era | SOCFortress | [Read More](https://medium.com/p/4ec1fa50ab64) |
+| Wed, 07 Jan 2026 18:48:52 GMT | Network Security: Building Digital Fortresses in an Interconnected World | Faysal Ahmed | [Read More](https://medium.com/p/25e13a358f6e) |
+| Wed, 07 Jan 2026 18:44:42 GMT | Bug Bounty: Unico IDtech’s Journey So Far | Victor Theobaldo | [Read More](https://medium.com/p/d7926eb65d06) |
+| Wed, 07 Jan 2026 18:39:56 GMT | Fundamentos de SOC (Security Operations Center): Estrutura, Pilares e Ferramentas | Felippo Ferreira | [Read More](https://medium.com/p/1e0499a5c051) |
+| Wed, 07 Jan 2026 18:38:48 GMT | Why Input Validation Is Important For Securing Web Applications… | Soham Kholapure | [Read More](https://medium.com/p/cd1807274016) |
+| Wed, 07 Jan 2026 18:38:06 GMT | BCV Leads Exein’s €100 MM Growth Round to Secure the World’s Connected Devices | Amy Wang | [Read More](https://medium.com/p/c82d52ff719d) |
+| Wed, 07 Jan 2026 18:38:05 GMT | Best of Both Worlds: EthoGPT Ethics and AresGPT Defense | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/4ac435fc56d0) |
+| Wed, 07 Jan 2026 18:37:40 GMT | Cyberattacks strike UAE warns | Defence Affairs & Analysis | [Read More](https://medium.com/p/a2f908731302) |
+| Wed, 07 Jan 2026 18:34:29 GMT | Exported Components - Kickin’ Down the Doors Devs Left Unlocked | Slayer | [Read More](https://medium.com/p/cfd5d34bbac0) |
+| Wed, 07 Jan 2026 18:28:47 GMT | How CAPTCHA Works | Kaveeshapiumini | [Read More](https://medium.com/p/78e39d40efb1) |
+| Wed, 07 Jan 2026 18:28:22 GMT | The End of the Password? A Deep Dive into Passkeys | Jordan Gutt | [Read More](https://medium.com/p/460b0b584e2d) |
 | Wed, 07 Jan 2026 18:19:03 GMT | A Mentor Who Sold $20M+ in Digital Products Changed How I View Marketing Forever | Sathish Tadaka | [Read More](https://medium.com/p/4ad5946455a4) |
 | Wed, 07 Jan 2026 18:18:28 GMT | Lab Practice vs Theory: How Hackers Really Learn | Hadiyayazeen | [Read More](https://medium.com/p/0dc1bff1af0a) |
 | Wed, 07 Jan 2026 18:08:02 GMT | The Problem with Traditional OT Risk Assessments | Stuart King | [Read More](https://medium.com/p/f4dac2918b12) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 14:01:02 GMT | What PortSwigger’s LLM Lab 1 Taught Me About Excessive Agency in AI Systems | Antariksha Akhilesh Sharma | [Read More](https://medium.com/p/481628af171f) |
 | Wed, 07 Jan 2026 13:59:49 GMT | TryHackMe Writeup: Year of the Dog | Berkay AĞGÜL | [Read More](https://medium.com/p/cf1cf5662f26) |
 | Wed, 07 Jan 2026 13:58:56 GMT | HTB Usage : Mon expérience | Simon Maciag | [Read More](https://medium.com/p/af18a9f4bd5e) |
-| Wed, 07 Jan 2026 13:57:24 GMT | Why the UK’s New Cyber Action Plan is a Masterclass in Moving Goalposts | Clement Saudu | [Read More](https://medium.com/p/9cab1a16a748) |
-| Wed, 07 Jan 2026 13:57:18 GMT | Breizh CTF - Authentification | SPIDER1SEC | [Read More](https://medium.com/p/9707750140bc) |
-| Wed, 07 Jan 2026 13:48:15 GMT | OffSec PG: Inclusiveness Write-Up | Emre ASLAN | [Read More](https://medium.com/p/fc37555a1cb5) |
-| Wed, 07 Jan 2026 13:36:43 GMT | Taiwan Reports Tenfold Surge in Chinese Cyberattacks on Energy Infrastructure | Technijian | [Read More](https://medium.com/p/38e95d93da46) |
-| Wed, 07 Jan 2026 13:32:26 GMT | From Startup to Unicorn: A Blueprint for Secure Enterprise Architecture | Eber Cruz | [Read More](https://medium.com/p/4ddbd2c0bfa0) |
-| Wed, 07 Jan 2026 13:26:36 GMT | Almost done with your Bachelor's or Master's in Cybersecurity: Interview Prep 01 | Sristi Mitra | [Read More](https://medium.com/p/650977a7861d) |
-| Wed, 07 Jan 2026 13:21:43 GMT | Should I? Or Nevermind: The One Click That Could Change Your Life | kensho | [Read More](https://medium.com/p/0b80da9cdd1f) |
-| Wed, 07 Jan 2026 13:14:48 GMT | Teaching AI to Think Like a Cybersecurity Expert | Berend Watchus | [Read More](https://medium.com/p/26e3d2b56117) |
-| Wed, 07 Jan 2026 13:14:30 GMT | Fake calendar invites hijacking your schedule? Steps to remove them and prevent future attacks. | Karl Buhl | [Read More](https://medium.com/p/54ba1d01c522) |
-| Wed, 07 Jan 2026 13:12:44 GMT | KOSPI 4,500 & The Return of the Shipbuilders: Is This 2007 All Over Again? | Jo's Biz Note | [Read More](https://medium.com/p/0b1b85903221) |
-| Wed, 07 Jan 2026 13:10:47 GMT | Cyber Risk Is Business Risk — What Organizations Need to Understand | Digital Defense | [Read More](https://medium.com/p/40b1b1a19946) |
-| Wed, 07 Jan 2026 13:10:30 GMT | Securing Apps with Crypto Architecture Kit in HarmonyOS Next | Emine İNAN | [Read More](https://medium.com/p/9da89da3d56d) |
