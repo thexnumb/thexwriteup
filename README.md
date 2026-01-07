@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 Jan 2026 08:16:15 GMT | JWT Attacks - Foundational | Amrsmooke | [Read More](https://medium.com/p/07efea0a7a10) |
+| Wed, 07 Jan 2026 08:12:10 GMT | Buda — Write-Up (The Hackers Labs) | ManuM0re | [Read More](https://medium.com/p/ccf7f16bd509) |
+| Wed, 07 Jan 2026 08:02:35 GMT | Fragility of Humanness | Lisa Jones | [Read More](https://medium.com/p/601252a7eccf) |
+| Wed, 07 Jan 2026 07:54:40 GMT | Sama Saudi | itbutler0077 | [Read More](https://medium.com/p/802ef7d7266a) |
+| Wed, 07 Jan 2026 07:50:38 GMT | Brand Protection | itbutler0077 | [Read More](https://medium.com/p/e2b357f47bb8) |
+| Wed, 07 Jan 2026 07:40:55 GMT | Advanced Antivirus for Windows to Defend Against New Threats | Siyanoav | [Read More](https://medium.com/p/f1547544ab11) |
 | Wed, 07 Jan 2026 07:35:00 GMT | [Relevant]  —  Windows Server 2016 Exploitation via IIS Enumeration, Credential Disclosure, and… | Bash Overflow | [Read More](https://medium.com/p/518ca3f4a66e) |
 | Wed, 07 Jan 2026 07:25:02 GMT | Why Your Website Needs a CDN? The Ultimate Guide to Speed and Security | Tharusha kavinda | [Read More](https://medium.com/p/47658aa182e3) |
 | Wed, 07 Jan 2026 07:18:50 GMT | EventID 304 -SOC326 -Impersonating Domain MX Record Change Detected | Soumodeep Das | [Read More](https://medium.com/p/e7f725e108bf) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 Jan 2026 21:46:08 GMT | Introduction To Cybersecurity - What is Cybersecurity in 2026 | Shahzaib | [Read More](https://medium.com/p/7512e51910c9) |
 | Tue, 06 Jan 2026 21:44:48 GMT | The Credential Economy: Infostealers and the Industrialization of Access | xoelrdgz | [Read More](https://medium.com/p/961a5bedb379) |
 | Tue, 06 Jan 2026 21:35:41 GMT | The Silent Struggle of a Cybersecurity Student: How I Lost My Way in Cybersecurity and What It… | i4m_x | [Read More](https://medium.com/p/5d5f8955d8f2) |
-| Tue, 06 Jan 2026 21:33:33 GMT | Have You Ever Opened Google Drive and Found Someone Else’s Files? | Ashutosh Anand | [Read More](https://medium.com/p/c50ca3f5fc59) |
-| Tue, 06 Jan 2026 21:25:03 GMT | Databases Under Siege: December 2025 Threat Report Reveals Tactical Pivot from Remote Access to… | Px Mx | [Read More](https://medium.com/p/b582dedcf2a8) |
-| Tue, 06 Jan 2026 21:23:11 GMT | Linux Networking Explained: Hardware, Drivers, IP Configuration & Troubleshooting (Step-by-Step) | Tushar jadhav | [Read More](https://medium.com/p/1fa1d16d90a2) |
-| Tue, 06 Jan 2026 21:23:00 GMT | When a Web Form Becomes an Email Impersonation Engine | Mohamednaddaa | [Read More](https://medium.com/p/999e64f79d07) |
-| Tue, 06 Jan 2026 21:17:35 GMT | Why Traditional Security Tools Can’t Detect LLM Attacks | David Anderson | [Read More](https://medium.com/p/4a37dd63b631) |
-| Tue, 06 Jan 2026 21:10:34 GMT | Blackhat Hackers vs Ethical Hackers - Cybersecurity Tutorial | Shahzaib | [Read More](https://medium.com/p/d87164ab1b27) |
