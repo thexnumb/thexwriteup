@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 Jan 2026 07:35:00 GMT | [Relevant]  —  Windows Server 2016 Exploitation via IIS Enumeration, Credential Disclosure, and… | Bash Overflow | [Read More](https://medium.com/p/518ca3f4a66e) |
+| Wed, 07 Jan 2026 07:25:02 GMT | Why Your Website Needs a CDN? The Ultimate Guide to Speed and Security | Tharusha kavinda | [Read More](https://medium.com/p/47658aa182e3) |
 | Wed, 07 Jan 2026 07:18:50 GMT | EventID 304 -SOC326 -Impersonating Domain MX Record Change Detected | Soumodeep Das | [Read More](https://medium.com/p/e7f725e108bf) |
 | Wed, 07 Jan 2026 07:16:45 GMT | Python Login Defense on PyPI | Py-Core Python Programming | [Read More](https://medium.com/p/eb94a300772b) |
 | Wed, 07 Jan 2026 07:12:48 GMT | OSCP+ While Working Full Time: A Realistic Preparation Journey | Emrecan Sadikogullari | [Read More](https://medium.com/p/4680bd75a6e3) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 Jan 2026 21:23:00 GMT | When a Web Form Becomes an Email Impersonation Engine | Mohamednaddaa | [Read More](https://medium.com/p/999e64f79d07) |
 | Tue, 06 Jan 2026 21:17:35 GMT | Why Traditional Security Tools Can’t Detect LLM Attacks | David Anderson | [Read More](https://medium.com/p/4a37dd63b631) |
 | Tue, 06 Jan 2026 21:10:34 GMT | Blackhat Hackers vs Ethical Hackers - Cybersecurity Tutorial | Shahzaib | [Read More](https://medium.com/p/d87164ab1b27) |
-| Tue, 06 Jan 2026 21:00:17 GMT | Case Studies: Building Effective Timelines with Plaso (Log2Timeline) | Dean | [Read More](https://medium.com/p/55e3d299c7d1) |
-| Tue, 06 Jan 2026 20:50:00 GMT | The Linux Security Journey — Suricata | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/723f41ac798d) |
