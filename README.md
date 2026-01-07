@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 Jan 2026 13:36:43 GMT | Taiwan Reports Tenfold Surge in Chinese Cyberattacks on Energy Infrastructure | Technijian | [Read More](https://medium.com/p/38e95d93da46) |
+| Wed, 07 Jan 2026 13:32:26 GMT | From Startup to Unicorn: A Blueprint for Secure Enterprise Architecture | Eber Cruz | [Read More](https://medium.com/p/4ddbd2c0bfa0) |
+| Wed, 07 Jan 2026 13:26:36 GMT | Almost done with your Bachelor's or Master's in Cybersecurity: Interview Prep 01 | Sristi Mitra | [Read More](https://medium.com/p/650977a7861d) |
+| Wed, 07 Jan 2026 13:21:43 GMT | Should I? Or Nevermind: The One Click That Could Change Your Life | kensho | [Read More](https://medium.com/p/0b80da9cdd1f) |
+| Wed, 07 Jan 2026 13:14:48 GMT | Teaching AI to Think Like a Cybersecurity Expert | Berend Watchus | [Read More](https://medium.com/p/26e3d2b56117) |
+| Wed, 07 Jan 2026 13:14:30 GMT | Fake calendar invites hijacking your schedule? Steps to remove them and prevent future attacks. | Karl Buhl | [Read More](https://medium.com/p/54ba1d01c522) |
+| Wed, 07 Jan 2026 13:12:44 GMT | KOSPI 4,500 & The Return of the Shipbuilders: Is This 2007 All Over Again? | Jo's Biz Note | [Read More](https://medium.com/p/0b1b85903221) |
+| Wed, 07 Jan 2026 13:10:47 GMT | Cyber Risk Is Business Risk — What Organizations Need to Understand | Digital Defense | [Read More](https://medium.com/p/40b1b1a19946) |
+| Wed, 07 Jan 2026 13:10:30 GMT | Securing Apps with Crypto Architecture Kit in HarmonyOS Next | Emine İNAN | [Read More](https://medium.com/p/9da89da3d56d) |
+| Wed, 07 Jan 2026 13:05:40 GMT | Nmap Without Mystery: From Basics to Advanced Network Reconnaissance | Nexamos | [Read More](https://medium.com/p/0dd37c69a9fb) |
+| Wed, 07 Jan 2026 13:03:29 GMT | THE $300M MISTAKE: WHY META’S NIGERIAN LANGUAGE MODERATION FAILURE COST MORE THAN YOUR ENTIRE CVE… | Oge Samuel Okonkwo | [Read More](https://medium.com/p/5fd6cc973cec) |
+| Wed, 07 Jan 2026 12:58:05 GMT | Why Understanding Authentication & Authorization Architecture Is Essential Before Hunting Logic… | MouhibMahadbi | [Read More](https://medium.com/p/2d5e0a0cfd1e) |
+| Wed, 07 Jan 2026 12:54:33 GMT | Advance certification in Cyber Law & Regulations | Selinemir | [Read More](https://medium.com/p/3eeb95a5ed73) |
+| Wed, 07 Jan 2026 12:49:56 GMT | The Zero Trust Mindset | Laaguidi Yassine | [Read More](https://medium.com/p/7dbb7e937aa5) |
 | Wed, 07 Jan 2026 12:35:14 GMT | ISO 27001 Risk Management: Processes, Documentation, and Auditor Expectations | SecureSlate | [Read More](https://medium.com/p/c31ae1e6115c) |
 | Wed, 07 Jan 2026 12:32:54 GMT | The 2026 Guide to Agentic AI Security : Navigating the OWASP Top 10 | Soubhik Ghosh | [Read More](https://medium.com/p/c4fd8c7024fa) |
 | Wed, 07 Jan 2026 12:32:46 GMT | Terraform 1.10: Ephemeral Values — Finally, Secrets That Don’t Live in Your State File | Kawaldeep Singh | [Read More](https://medium.com/p/b4401b95a36c) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 07:11:20 GMT | Adaptive Security Frameworks for Dynamic Cyber Threat Mitigation | Durga Bramarambika Sailaja Varri | [Read More](https://medium.com/p/c97fe23794ab) |
 | Wed, 07 Jan 2026 07:05:48 GMT | MITRE — Writeup | Mahir | [Read More](https://medium.com/p/deed77bf19aa) |
 | Wed, 07 Jan 2026 07:04:03 GMT | Learning Cyber Security — One Day at a Time (While Working Full-Time) | Sarath Surendran C M | [Read More](https://medium.com/p/df5043fd3803) |
-| Wed, 07 Jan 2026 07:04:02 GMT | RealTime Software Training in Nagercoil | Kalaijclick | [Read More](https://medium.com/p/f4783d4ea5b9) |
-| Wed, 07 Jan 2026 07:03:22 GMT | Easy IDOR CTF Challange (Bugforge) | blackm4c | [Read More](https://medium.com/p/7b63959194c2) |
-| Wed, 07 Jan 2026 07:02:26 GMT | Digital Footprints: The Subtle Pieces of Information We Leave Online Without Realizing | Grace Chukwunta | [Read More](https://medium.com/p/d31830eadd5f) |
-| Wed, 07 Jan 2026 06:53:26 GMT | IDS and IPS Configuration Using Suricata (Ubuntu + Kali Lab) | Al-Ameen Azeef | [Read More](https://medium.com/p/e18626444379) |
-| Wed, 07 Jan 2026 06:52:52 GMT | We Just Gave AI Hands. Now What? | Myra Jarenga | [Read More](https://medium.com/p/d25661d12180) |
-| Wed, 07 Jan 2026 06:41:20 GMT | ASP.NET Development Company in 2026 | Abhishek Kumar | [Read More](https://medium.com/p/adea94411bc5) |
-| Wed, 07 Jan 2026 06:41:00 GMT | ประจำวันพุธที่ 7 มกราคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/197ca9b1ca25) |
-| Wed, 07 Jan 2026 06:35:40 GMT | CVE-2025–14847 (MongoBleed): An Analysis of MongoDB Memory Leakage and Attack Surface Mitigation | Criminal IP | [Read More](https://medium.com/p/b9bca17590a1) |
-| Wed, 07 Jan 2026 06:34:25 GMT | OSI Model Attacks: How Hackers Target Every Layer Explained | ɧrιsнi rajeeѵ | [Read More](https://medium.com/p/090bb85ebb4b) |
-| Wed, 07 Jan 2026 06:31:10 GMT | ️ Turning a Linux Server into a Privacy-Focused NVR (No Cloud, No SD Cards) | Ammar Cader | [Read More](https://medium.com/p/4a4c3634b9dd) |
-| Wed, 07 Jan 2026 06:29:55 GMT | Official Walkthrough Of TryHackMe Room — Eliteconquerorz | Eliteconquerorz | [Read More](https://medium.com/p/4daf7273a18a) |
-| Wed, 07 Jan 2026 06:27:27 GMT | ONLINE ETHICAL HACKING COURSE IN CALICUT | Kaiproctor | [Read More](https://medium.com/p/b604de9fe91c) |
-| Wed, 07 Jan 2026 06:24:32 GMT | OverTheWire Bandit (Day 09): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/783fd6af9b57) |
-| Wed, 07 Jan 2026 06:09:02 GMT | Nmap 101: From Zero to Hero in Network Scanning & Discovery | Eren Ergen | [Read More](https://medium.com/p/684501c1273e) |
