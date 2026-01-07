@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 Jan 2026 12:35:14 GMT | ISO 27001 Risk Management: Processes, Documentation, and Auditor Expectations | SecureSlate | [Read More](https://medium.com/p/c31ae1e6115c) |
+| Wed, 07 Jan 2026 12:32:54 GMT | The 2026 Guide to Agentic AI Security : Navigating the OWASP Top 10 | Soubhik Ghosh | [Read More](https://medium.com/p/c4fd8c7024fa) |
+| Wed, 07 Jan 2026 12:32:46 GMT | Terraform 1.10: Ephemeral Values — Finally, Secrets That Don’t Live in Your State File | Kawaldeep Singh | [Read More](https://medium.com/p/b4401b95a36c) |
+| Wed, 07 Jan 2026 12:32:46 GMT | The Post-Labor Dev Era | Lawrence Aiello | [Read More](https://medium.com/p/8d071b04f9bd) |
+| Wed, 07 Jan 2026 12:32:39 GMT | A Simple Host Header Bug That Leads to Admin Takeover | Nidhi kathayat | [Read More](https://medium.com/p/b9b9c9f65429) |
+| Wed, 07 Jan 2026 12:30:17 GMT | Compliance Audit: Using Oceka Exchange Metrics to Assess Unregulated Platform Risks | Certification Flow Laboratories | [Read More](https://medium.com/p/190029808367) |
+| Wed, 07 Jan 2026 12:28:42 GMT | Boosting Manufacturing Efficiency with AI-Powered Surveillance | Dolon Ghosh | [Read More](https://medium.com/p/59c79a15e70f) |
+| Wed, 07 Jan 2026 12:22:27 GMT | Understanding Mobile App Security Without Confusion | Vineet Singh Solanki | [Read More](https://medium.com/p/335ad1d1a368) |
+| Wed, 07 Jan 2026 12:21:32 GMT | Build a Hacker Dashboard: 15 Essential Tools for Real-Time Target Monitoring | Very Lazy Tech | [Read More](https://medium.com/p/37650d5dc6d1) |
+| Wed, 07 Jan 2026 12:19:16 GMT | Breaking Into Cybersecurity in 2026: A Realistic Guide | Beri Contraster | [Read More](https://medium.com/p/98fb00923e2e) |
+| Wed, 07 Jan 2026 12:18:41 GMT | ️ Troubleshooting Kali Linux: How I Broke My Kali Linux Internet (And the 4-Hour Journey to Fix… | Swetlana Jha | [Read More](https://medium.com/p/c87b75f8f867) |
+| Wed, 07 Jan 2026 12:17:14 GMT | 3500$ Bug: Hacking Akamai ARL | Anonymous Traiger | [Read More](https://medium.com/p/621c26e706b8) |
+| Wed, 07 Jan 2026 12:16:04 GMT | API Exploitation For Bug Bounty- Hacktricks | Zodiac Hacker | [Read More](https://medium.com/p/0682ed17c8f0) |
+| Wed, 07 Jan 2026 12:14:30 GMT | How ZeroThreat Helps Regulated Industries Prevent Fines, Breaches, and Audit Delays | Kate Bennett | [Read More](https://medium.com/p/041f349acd3a) |
+| Wed, 07 Jan 2026 12:08:58 GMT | Understanding Cryptography | Saran Aadithyan | [Read More](https://medium.com/p/8f9d9d2263d3) |
+| Wed, 07 Jan 2026 12:07:26 GMT | Leading Speech Service Company in Vietnam | Ashutosh Mallik | [Read More](https://medium.com/p/f7bd387e857f) |
+| Wed, 07 Jan 2026 12:04:40 GMT | Injecting DLLs in Rust: A Hands-On Guide to Classic Remote Thread Injection | Maverick | [Read More](https://medium.com/p/23b8cd084af2) |
+| Wed, 07 Jan 2026 12:02:45 GMT | Writing a Local-First Bot Instead of a SaaS | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/292044c0afd7) |
+| Wed, 07 Jan 2026 11:56:41 GMT | Why Beginner Websites Get Hacked (And How to Stop It) | Ryvok.Brondich | [Read More](https://medium.com/p/5d95100e5848) |
+| Wed, 07 Jan 2026 11:51:56 GMT | What Are SOC Services in South Africa and How Do They Strengthen Cybersecurity? | Prakash Factosecure | [Read More](https://medium.com/p/6c7026bf40ef) |
+| Wed, 07 Jan 2026 11:48:47 GMT | DOM XSS Lab 3 & 4: Anatomy of document.write and innerHTML Attacks(Portswigger) | Sanjivani Dobhal | [Read More](https://medium.com/p/72b167455dc6) |
+| Wed, 07 Jan 2026 11:39:18 GMT | The “Unzip” of Death: Why Using Your Old WinRAR Is a Dangerous Trap | Shadhujan Jeyachandran | [Read More](https://medium.com/p/18203a2c9fff) |
+| Wed, 07 Jan 2026 11:35:33 GMT | Why Authentication Is More Fragile Than Most People Think | Ramesh Salve | [Read More](https://medium.com/p/e2151e55df27) |
+| Wed, 07 Jan 2026 11:32:34 GMT | COMO EU DESCROBRI O QUE É PCI-DSS DA PIOR FORMA POSSÍVEL | Eduardo Costa Nuansambu | [Read More](https://medium.com/p/e48014ceadc3) |
 | Wed, 07 Jan 2026 11:32:00 GMT | Offensive Security Introduction | Elizabeth (Libby) | [Read More](https://medium.com/p/6c6674c8968b) |
 | Wed, 07 Jan 2026 11:30:00 GMT | Why Managed IT Services Are Becoming a Business Essential | Prohash Technologies | [Read More](https://medium.com/p/f654bf3de123) |
 | Wed, 07 Jan 2026 11:25:51 GMT | Part 3 : Oversharing-Feeding the AI Beast | Protégé IGDTUW | [Read More](https://medium.com/p/7a9fdbb3dde7) |
@@ -88,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 06:27:27 GMT | ONLINE ETHICAL HACKING COURSE IN CALICUT | Kaiproctor | [Read More](https://medium.com/p/b604de9fe91c) |
 | Wed, 07 Jan 2026 06:24:32 GMT | OverTheWire Bandit (Day 09): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/783fd6af9b57) |
 | Wed, 07 Jan 2026 06:09:02 GMT | Nmap 101: From Zero to Hero in Network Scanning & Discovery | Eren Ergen | [Read More](https://medium.com/p/684501c1273e) |
-| Wed, 07 Jan 2026 06:08:57 GMT | Subdomain Takeover in 2025  — New Methods + Tools | Vipul Sonule | [Read More](https://medium.com/p/dba94ba02121) |
-| Wed, 07 Jan 2026 06:02:53 GMT | Fortress-Level Security for Energy Networks | Kadhijahafiya | [Read More](https://medium.com/p/d0edb669885d) |
-| Wed, 07 Jan 2026 06:02:39 GMT | OverTheWire Bandit (Day 08): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/fc2b7a9ca907) |
-| Wed, 07 Jan 2026 06:01:01 GMT | CompTIA CySA+ (CS0–003): How to Prepare and Actually Understand It | Eshaan Solshe | [Read More](https://medium.com/p/536b46956685) |
-| Wed, 07 Jan 2026 05:51:48 GMT | Investigating a Cross-Site Scripting (XSS) Attempt in Let’sDefend SOC Lab | Akashwaris | [Read More](https://medium.com/p/f51dc63b26c7) |
-| Wed, 07 Jan 2026 05:49:11 GMT | UNDERSTANDING CONTENT SECURITY POLICY (CSP): YOUR WEB APPLICATION’s DEFENSE AGAINST XSS ATTACKS. | Wnellygrace | [Read More](https://medium.com/p/764259513829) |
-| Wed, 07 Jan 2026 05:40:07 GMT | Benefits of Remote Camera Monitoring Services | Marcela John | [Read More](https://medium.com/p/5d8766bd2657) |
-| Wed, 07 Jan 2026 05:26:04 GMT | A.I. Dependency or Obsession? | D.M. | [Read More](https://medium.com/p/659f7488aee5) |
-| Wed, 07 Jan 2026 05:10:30 GMT | How to Speed up Disaster Recovery with Effective Incident Response | NetWitness | [Read More](https://medium.com/p/22b07e314c40) |
-| Wed, 07 Jan 2026 05:09:56 GMT | How I built my portfolio website for (almost) free in 2 hours | Vuusale | [Read More](https://medium.com/p/ec9c7d1a3415) |
-| Wed, 07 Jan 2026 05:02:48 GMT | Light Out, 7B (Part 7) | edarit | [Read More](https://medium.com/p/8ac25f5b65c5) |
-| Wed, 07 Jan 2026 05:02:48 GMT | Building a Resilient Cloud Infrastructure — Insights from F9 Infotech Experts | F9 Infotech | [Read More](https://medium.com/p/3233cb713f4e) |
-| Wed, 07 Jan 2026 05:02:45 GMT | App and Browser Permissions: A Safety Awareness Guide | Adhin V S | [Read More](https://medium.com/p/d6c628ae8573) |
-| Wed, 07 Jan 2026 04:59:55 GMT | The Complete Enterprise Guide to Cloud, Virtualization, Cybersecurity, Backup & Modern… | F9 Infotech | [Read More](https://medium.com/p/b311337af5be) |
-| Wed, 07 Jan 2026 04:52:21 GMT | Investigating a Command Injection Attack (Let’sDefend SOC Lab) | Akashwaris | [Read More](https://medium.com/p/afee489ed71a) |
-| Wed, 07 Jan 2026 04:44:30 GMT | Until You Get the Bill: A Security Reality Check | JackyNote | [Read More](https://medium.com/p/5bbacf2ccd9b) |
-| Wed, 07 Jan 2026 04:43:35 GMT | AI Strategy Consulting: How Companies Build Scalable, Ethical & Future-Ready AI Ecosystems | BayOne | [Read More](https://medium.com/p/c3ef72ed8075) |
-| Wed, 07 Jan 2026 04:37:32 GMT | Um pai amoroso direciona | Filipe André Gaio | [Read More](https://medium.com/p/21c3ca8044e2) |
-| Wed, 07 Jan 2026 04:33:56 GMT | IT Asset Management Best Practices for Maximizing ROI | Emergys | [Read More](https://medium.com/p/9f6bca0f1545) |
-| Wed, 07 Jan 2026 04:23:04 GMT | The Linux Security Journey — Fail2Ban | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/10c8da33d46f) |
-| Wed, 07 Jan 2026 04:20:52 GMT | Farming Simulator 20 Mod APK | GOCMOD | [Read More](https://medium.com/p/e62004e5b9ea) |
-| Wed, 07 Jan 2026 04:20:30 GMT | Tutorial 3 PortSwigger Lab: Reflected XSS into HTML context with nothing encoded | Diva Rizky Alfitrah | [Read More](https://medium.com/p/57513cfbf25f) |
-| Wed, 07 Jan 2026 04:17:26 GMT | Threat Modeling for Developers | Imasha Weerakoon | [Read More](https://medium.com/p/b8824d0fe2b8) |
-| Wed, 07 Jan 2026 04:14:50 GMT | From Code to Compromise 
- A Simple Guide to Jenkins, Docker, and GitHub in Bug Bounty | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/cf69c0ce0216) |
