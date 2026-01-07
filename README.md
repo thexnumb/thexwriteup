@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 Jan 2026 23:11:14 GMT | CISSP Domain 4 Mastery Series - Part 3: Network Cables, Transmission Media & IPSec | Pushpak Sharma | [Read More](https://medium.com/p/06b3839e5f6e) |
+| Wed, 07 Jan 2026 23:06:25 GMT | * "My First Step on Medium: Discovering Writing" | Michaël AGBOWOU | [Read More](https://medium.com/p/e73afa2aab11) |
+| Wed, 07 Jan 2026 23:04:57 GMT | Logic Has Words for Everything…. | The_Ifeoluwa_Joshua | [Read More](https://medium.com/p/c060334bcafa) |
+| Wed, 07 Jan 2026 22:55:03 GMT | "MY FIRST STEP ON MEDIUM: DISCOVERING WRITING" | Michaël AGBOWOU | [Read More](https://medium.com/p/2209b97550e7) |
 | Wed, 07 Jan 2026 22:42:44 GMT | How IT Management Services in Fontana Support Cyber Insurance Readiness | Zeta Sky | [Read More](https://medium.com/p/f1302fe3ad1c) |
 | Wed, 07 Jan 2026 22:40:15 GMT | 代碼裡的「內鬼」：拆解 Lotusbail 假冒 WhatsApp API 事件，與我們脆弱不堪的 NPM 供應鏈 | p1x06u9 | [Read More](https://medium.com/p/fe6ab9c6c4f8) |
 | Wed, 07 Jan 2026 22:33:50 GMT | Just do it | Agustina Falero | [Read More](https://medium.com/p/6c50766a8fd1) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 15:41:07 GMT | Answering the Question: “How do we constrain agents to mirroring user-permissions WHEN all our data… | Nwosu Rosemary | [Read More](https://medium.com/p/8e20ff5cac06) |
 | Wed, 07 Jan 2026 15:40:44 GMT | So, “Shift-Left” Failed. What Comes Next? | Ali Naqvi | [Read More](https://medium.com/p/e6df66ee277a) |
 | Wed, 07 Jan 2026 15:38:52 GMT | CTO Survival Guide: Architecture, Chaos, Hiring, and AI in Real Production | Andrew Ghostyuhin | [Read More](https://medium.com/p/1d293cd0e599) |
-| Wed, 07 Jan 2026 15:38:16 GMT | Strategic Importance of Application Maintenance | Elena Mia | [Read More](https://medium.com/p/b0af22879d48) |
-| Wed, 07 Jan 2026 15:37:40 GMT | Unpacking Microsoft Defender for Office 365: Day 2 SOC Triage — Preset Security Policies (Standard… | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/9921a376466d) |
-| Wed, 07 Jan 2026 15:35:15 GMT | When Reality Can Be Fabricated: How AI Is Powering a New Era of Cybercrime | Pranav Khankriyal | [Read More](https://medium.com/p/559c65d06c0b) |
-| Wed, 07 Jan 2026 15:32:50 GMT | Ethical Hacking Tool for Hackers | Mainekhacker | [Read More](https://medium.com/p/ec4ccc4e7995) |
