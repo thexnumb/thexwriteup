@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 Jan 2026 03:32:31 GMT | CreThe Real Fix Isn’t Upgrading a Package. It’s Shrinking “Detect → Patch → Verify.” | Kedar Kulkarni | [Read More](https://medium.com/p/0620419a6e61) |
+| Wed, 07 Jan 2026 03:32:28 GMT | From Breach Detection to Risk Intelligence: Building a Secure Exposure Monitoring Engine (Day 2) | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/707b44398165) |
+| Wed, 07 Jan 2026 03:29:11 GMT | How I mitigated bot attacks using Go, Nginx, and Cloudflare | Vedant Pandey | [Read More](https://medium.com/p/1dc45c218d3f) |
+| Wed, 07 Jan 2026 03:16:57 GMT | What the WIRED Subscriber Leak Reveals About Modern Systems | Deven Chhajed | [Read More](https://medium.com/p/8d55e177bc7a) |
+| Wed, 07 Jan 2026 03:12:53 GMT | Hack Supreme Duelist Stickman | Apkpuredev | [Read More](https://medium.com/p/a775efede51a) |
+| Wed, 07 Jan 2026 03:08:44 GMT | 2560萬美元蒸發！從 Grok 裸照門看 Deepfake 滅頂災難 | p1x06u9 | [Read More](https://medium.com/p/30cd89255d02) |
+| Wed, 07 Jan 2026 03:04:45 GMT | The Six-Month Gap - Dog Years | Julio Oña | [Read More](https://medium.com/p/a79df5f57309) |
+| Wed, 07 Jan 2026 02:00:39 GMT | Boogeyman 2: Memory Forensics, Malicious Macros, and C2 Discovery with Volatility | OwlPharaoh | [Read More](https://medium.com/p/b5c0e58b93bb) |
+| Wed, 07 Jan 2026 01:53:29 GMT | “I Destroyed Months of Your Work in Seconds”: When AI Goes Rogue and Deletes Everything | John Black | [Read More](https://medium.com/p/d683eca5b965) |
 | Wed, 07 Jan 2026 01:47:29 GMT | The basics of Linux Privilege Escalation | Mauricio Antonio | [Read More](https://medium.com/p/4d3b9b93f0c3) |
 | Wed, 07 Jan 2026 01:32:27 GMT | React2Shell CVE -2025–55182 Tryhackme Walkthrough | Mainekhacker | [Read More](https://medium.com/p/eb40b8c092b8) |
 | Wed, 07 Jan 2026 01:23:49 GMT | Physical Security Tools for Digital Safety | Özgür Karataş | [Read More](https://medium.com/p/74e0dfc2a090) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 Jan 2026 17:12:41 GMT | pFo (preparingForOSCP) Series — 1 - kioptrixLv1 | Sarp A. A. | [Read More](https://medium.com/p/4d5a62978866) |
 | Tue, 06 Jan 2026 17:11:23 GMT | Infostealers Are Turning Legitimate Business Websites Into Malware Factories | Tech Intel | [Read More](https://medium.com/p/d9933e9ed123) |
 | Tue, 06 Jan 2026 17:09:56 GMT | The Strategic Palette: Driving UX Through Color Theory | Dhivy Ananth | [Read More](https://medium.com/p/f742357768b0) |
-| Tue, 06 Jan 2026 17:07:30 GMT | HTB Challenge on Firmware analyzing | Shubhash | [Read More](https://medium.com/p/b1e5ea2ab08d) |
-| Tue, 06 Jan 2026 17:02:35 GMT | BlueKeep Zafiyeti | Mehmet Ali Gülyurdu | [Read More](https://medium.com/p/07141801ce49) |
-| Tue, 06 Jan 2026 17:00:46 GMT | Blockchain Applications in Security Frameworks: Revolutionizing Digital Trust | Fospertise | [Read More](https://medium.com/p/234539a9b782) |
-| Tue, 06 Jan 2026 16:49:10 GMT | The Privacy Fortress: Why Your Business Data Belongs on Your Own Private AI Server | Florid Maclean | [Read More](https://medium.com/p/b7a191026942) |
-| Tue, 06 Jan 2026 16:45:38 GMT | Day 5 — Why Organizations Need a SOC (and What a SOC Is Really Capable Of) | Drishti Pandey | [Read More](https://medium.com/p/db85ea3d5d52) |
-| Tue, 06 Jan 2026 16:43:06 GMT | CSRF(Cross-Site Scripting) vs XSS (using cookies) | Piyali Das | [Read More](https://medium.com/p/1189d3b7fc7e) |
-| Tue, 06 Jan 2026 16:40:58 GMT | KALI LINUX OSINT 2025 Domine Inteligência de Fontes Abertas com Ferramentas de Alta Performance | Diego Rodrigues | [Read More](https://medium.com/p/2b86c62a2a4a) |
-| Tue, 06 Jan 2026 16:40:14 GMT | Chinese cyberattacks on Taiwan infrastructure averaged 2.6 million a day in 2025, report says | Defence Affairs & Analysis | [Read More](https://medium.com/p/7f37ea371317) |
-| Tue, 06 Jan 2026 16:40:05 GMT | Why Caching Makes Bugs Harder to Find in Spring Boot | Lakshika | [Read More](https://medium.com/p/6c5826962820) |
