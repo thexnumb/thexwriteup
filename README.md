@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 Jan 2026 09:21:12 GMT | Lab: Infinite money logic flaw | Songül Kızılay Özügürler | [Read More](https://medium.com/p/657460cc6f32) |
+| Wed, 07 Jan 2026 09:21:01 GMT | Lab: Flawed enforcement of business rules | Songül Kızılay Özügürler | [Read More](https://medium.com/p/220d95b7fbb2) |
+| Wed, 07 Jan 2026 09:17:45 GMT | Learning Through the Noise: Preparing for CPTS and Facing Imposter Syndrome | Kizito Arinze Chukwu | [Read More](https://medium.com/p/41fbd49b75a3) |
+| Wed, 07 Jan 2026 09:16:32 GMT | Digital Twin Security: Protecting Virtual Models of Energy Operations | Rahman Iqbal | [Read More](https://medium.com/p/6514021438a1) |
+| Wed, 07 Jan 2026 09:16:28 GMT | Cloud Bills and Circus Fatigue: The Fall and Potential Rise of the In-House Developer | Namir Sagheenanajar | [Read More](https://medium.com/p/049503ed2582) |
+| Wed, 07 Jan 2026 09:14:28 GMT | Exploiting Unvalidated Redirects for XSS | Eduard Krivanek | [Read More](https://medium.com/p/9ae6c213c4e1) |
+| Wed, 07 Jan 2026 09:12:56 GMT | Network Forensics Explained: How Investigators Analyze Network Attacks | Nadataufikk | [Read More](https://medium.com/p/10d09aebaf64) |
+| Wed, 07 Jan 2026 09:05:57 GMT | What Wireless Interference and Jamming Taught Me About Real-World Attacks | Michael Preston | [Read More](https://medium.com/p/ee45c11368c5) |
+| Wed, 07 Jan 2026 09:04:34 GMT | Beyond Connectivity: Why the SECURET Quantum Smart TV is a Masterclass in “Empathetic Tech” | Quantarium | [Read More](https://medium.com/p/ce3ac35dd85a) |
+| Wed, 07 Jan 2026 09:03:10 GMT | Your AI Coding Assistant Isn’t a Tool. It’s Infrastructure. | Denny Roger | [Read More](https://medium.com/p/0bea380f9b73) |
+| Wed, 07 Jan 2026 09:02:46 GMT | One Leaked Password, 47 Valid Logins: How Credential Reuse Kills Companies | Alexandre Vandamme | [Read More](https://medium.com/p/050bad59fedf) |
+| Wed, 07 Jan 2026 08:51:29 GMT | The End of Compromise: Why Your Next Smart TV Must Be Serverless | SAYCOIN | [Read More](https://medium.com/p/bdd779febf50) |
+| Wed, 07 Jan 2026 08:46:20 GMT | Preparing Pre-Teens for Online Learning and Homework Independence | Edwin Odoyo | [Read More](https://medium.com/p/2ce1411f7381) |
+| Wed, 07 Jan 2026 08:38:58 GMT | Understanding LLMNR & NBT-NS Poisoning in Active Directory (Hands-on Learning) | Krish Gupta | [Read More](https://medium.com/p/d18a49e25a1a) |
+| Wed, 07 Jan 2026 08:36:29 GMT | School and Campus Security Market: Trends, Innovations, and Safer Learning Environments | Marrtin Olivia | [Read More](https://medium.com/p/52c5747f96d3) |
 | Wed, 07 Jan 2026 08:16:15 GMT | JWT Attacks - Foundational | Amrsmooke | [Read More](https://medium.com/p/07efea0a7a10) |
 | Wed, 07 Jan 2026 08:12:10 GMT | Buda — Write-Up (The Hackers Labs) | ManuM0re | [Read More](https://medium.com/p/ccf7f16bd509) |
 | Wed, 07 Jan 2026 08:02:35 GMT | Fragility of Humanness | Lisa Jones | [Read More](https://medium.com/p/601252a7eccf) |
@@ -98,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 Jan 2026 23:54:59 GMT | The Day You Lose Everything — and How to Make Sure It Never Happens | Rekuway | [Read More](https://medium.com/p/6001e6c76488) |
 | Tue, 06 Jan 2026 23:46:52 GMT | Cybersecurity in 2026 and Beyond: Everything Has Already Changed | Vatsal Gupta | [Read More](https://medium.com/p/6ac98483332d) |
 | Tue, 06 Jan 2026 23:33:27 GMT | Agent T TryHackMe Write UP | cat0x01 | [Read More](https://medium.com/p/251d767d5bd0) |
-| Tue, 06 Jan 2026 23:28:18 GMT | CVE Program to Normalize Formatting of Date/Time Fields Across Historical CVE Records Beginning in… | CVE Program Blog | [Read More](https://medium.com/p/a1dacd5637fa) |
-| Tue, 06 Jan 2026 23:24:31 GMT | Top Breaches in Cyber Security in 2025 — upcoming live panel | Matthew.Rosenquist | [Read More](https://medium.com/p/f64d84fd4489) |
-| Tue, 06 Jan 2026 23:21:51 GMT | Your Company’s Identity Problem (And Why It’s Going to Get Worse) | Rekuway | [Read More](https://medium.com/p/757bbd963c88) |
-| Tue, 06 Jan 2026 23:15:01 GMT | Advent of Cyber — Day 6: Malware Analysis — Egg-xecutable | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/0566d2011f64) |
-| Tue, 06 Jan 2026 23:11:57 GMT | Advent of Cyber — Day 5: IDOR — Santa’s Little IDOR | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/65097f41096d) |
-| Tue, 06 Jan 2026 22:59:27 GMT | Alleged NordVPN Data Breach: Why Development Environments Are the New Attack Surface | Cyber-AppSec | [Read More](https://medium.com/p/1e87e6c63697) |
-| Tue, 06 Jan 2026 22:53:30 GMT | The Cord-Cutting Revolution: How North Americans Are Taking Control of Their Entertainment in 2026 | Uranusxtv | [Read More](https://medium.com/p/fb65d4e76da0) |
-| Tue, 06 Jan 2026 22:29:01 GMT | Deploying Wazuh SIEM: A Hands-On SOC Project for Cybersecurity Freshers | Om Gohil | [Read More](https://medium.com/p/b696193c2ed3) |
-| Tue, 06 Jan 2026 22:25:58 GMT | Website Security Best Practice List | Sunny Side Up | [Read More](https://medium.com/p/4ebca8bfb95f) |
-| Tue, 06 Jan 2026 22:07:43 GMT | The FAFO Framework: Fast Adoption, Future Accountability | David Anderson | [Read More](https://medium.com/p/4f99f3a042a9) |
-| Tue, 06 Jan 2026 22:02:57 GMT | THM: Snapped Phish-ing Line Walkthrough | Jennifer Gentry | [Read More](https://medium.com/p/15184a6d0354) |
-| Tue, 06 Jan 2026 21:52:19 GMT | # The Caracas Kill Chain Went Dark. That’s the Story. | Oscar The Golden Goofball | [Read More](https://medium.com/p/2121258d272f) |
-| Tue, 06 Jan 2026 21:46:08 GMT | Introduction To Cybersecurity - What is Cybersecurity in 2026 | Shahzaib | [Read More](https://medium.com/p/7512e51910c9) |
-| Tue, 06 Jan 2026 21:44:48 GMT | The Credential Economy: Infostealers and the Industrialization of Access | xoelrdgz | [Read More](https://medium.com/p/961a5bedb379) |
-| Tue, 06 Jan 2026 21:35:41 GMT | The Silent Struggle of a Cybersecurity Student: How I Lost My Way in Cybersecurity and What It… | i4m_x | [Read More](https://medium.com/p/5d5f8955d8f2) |
