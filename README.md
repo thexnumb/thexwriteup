@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 Jan 2026 11:08:25 GMT | Two Requests, One Bug: How Race Conditions Break Server Security | Cybernight | [Read More](https://medium.com/p/850f6963b3ad) |
+| Wed, 07 Jan 2026 11:05:56 GMT | Part 4 : Simple Shields-How to Protect Yourself | Protégé IGDTUW | [Read More](https://medium.com/p/a86607407185) |
+| Wed, 07 Jan 2026 10:50:47 GMT | 15 Free OSINT Tools That Reveal Everything Online (2026 Guide) | Hartarto | [Read More](https://medium.com/p/8d74162d70ec) |
+| Wed, 07 Jan 2026 10:45:13 GMT | Walkthrough: Retrieving Hidden Data with SQL Injection | Miftahunnaufal Hidayat | [Read More](https://medium.com/p/e9a5d184ea14) |
+| Wed, 07 Jan 2026 10:44:31 GMT | Is a Machine Learning Diploma Worth it? Career Opportunities, Salary & More | cyber security Updates | [Read More](https://medium.com/p/067549942876) |
+| Wed, 07 Jan 2026 10:43:14 GMT | How Data Removal Really Works And Why It Matters in 2026 | EraseMe | [Read More](https://medium.com/p/b225ce57a262) |
 | Wed, 07 Jan 2026 10:36:21 GMT | Ledger Crypto Wallet Customer Data Breach via Global-e | Ted Quek | [Read More](https://medium.com/p/ae73f039b2f9) |
 | Wed, 07 Jan 2026 10:33:50 GMT | ️ TryHackMe Attacktive Directory Walkthrough | Rootseekerx0x | [Read More](https://medium.com/p/dd42f3f61842) |
 | Wed, 07 Jan 2026 10:22:56 GMT | Cyber Kill Chain Nedir? | Arda Derya | [Read More](https://medium.com/p/4a93a3482d53) |
@@ -52,6 +58,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 08:16:15 GMT | JWT Attacks - Foundational | Amrsmooke | [Read More](https://medium.com/p/07efea0a7a10) |
 | Wed, 07 Jan 2026 08:12:10 GMT | Buda — Write-Up (The Hackers Labs) | ManuM0re | [Read More](https://medium.com/p/ccf7f16bd509) |
 | Wed, 07 Jan 2026 08:02:35 GMT | Fragility of Humanness | Lisa Jones | [Read More](https://medium.com/p/601252a7eccf) |
+| Wed, 07 Jan 2026 07:58:06 GMT | Menggunakan Wordlist Kustom dan Ekstensi File dengan Feroxbuster | Ginda Sundara | [Read More](https://medium.com/p/96e55bc5f132) |
 | Wed, 07 Jan 2026 07:54:40 GMT | Sama Saudi | itbutler0077 | [Read More](https://medium.com/p/802ef7d7266a) |
 | Wed, 07 Jan 2026 07:50:38 GMT | Brand Protection | itbutler0077 | [Read More](https://medium.com/p/e2b357f47bb8) |
 | Wed, 07 Jan 2026 07:40:55 GMT | Advanced Antivirus for Windows to Defend Against New Threats | Siyanoav | [Read More](https://medium.com/p/f1547544ab11) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 03:57:58 GMT | Go Security Minefield: Escaping SSRF, Injection, and Deserialization Traps | Ade Mawan | [Read More](https://medium.com/p/beeded3228a8) |
 | Wed, 07 Jan 2026 03:48:35 GMT | From Code to Cloud: How App Security Audits Protect Your Digital Assets | Smart City System - HR Software - HRMS - Payroll | [Read More](https://medium.com/p/73acfeb39a65) |
 | Wed, 07 Jan 2026 03:44:47 GMT | KodeKloud AWS Challenge — Day 15: Creating an EBS Snapshot | Kishor Bhairat | [Read More](https://medium.com/p/c37522e22b95) |
-| Wed, 07 Jan 2026 03:42:33 GMT | The Hidden AI Risk You Can’t Afford to Ignore | Neova Solutions | [Read More](https://medium.com/p/12a9e9c58e51) |
-| Wed, 07 Jan 2026 03:42:13 GMT | 2026 Techniques to find Hidden Bugcrowd & HackerOne Programs | Abhirup Konwar | [Read More](https://medium.com/p/cad9f24c2a9f) |
-| Wed, 07 Jan 2026 03:36:58 GMT | HIV/AIDS: Understanding the Disease, Breaking the Stigma, and Building a Healthier Future | Valenyasmine | [Read More](https://medium.com/p/a4e73aad68d4) |
-| Wed, 07 Jan 2026 03:32:31 GMT | CreThe Real Fix Isn’t Upgrading a Package. It’s Shrinking “Detect → Patch → Verify.” | Kedar Kulkarni | [Read More](https://medium.com/p/0620419a6e61) |
-| Wed, 07 Jan 2026 03:32:28 GMT | From Breach Detection to Risk Intelligence: Building a Secure Exposure Monitoring Engine (Day 2) | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/707b44398165) |
-| Wed, 07 Jan 2026 03:29:11 GMT | How I mitigated bot attacks using Go, Nginx, and Cloudflare | Vedant Pandey | [Read More](https://medium.com/p/1dc45c218d3f) |
-| Wed, 07 Jan 2026 03:27:29 GMT | Automating HackerOne Scope Parsing with qsv for Bug Bounty Recon | Sam Hilliard | [Read More](https://medium.com/p/84bc770ed73c) |
