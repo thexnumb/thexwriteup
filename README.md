@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 Jan 2026 15:45:51 GMT | How I Found A Windows RCE | Imad Husanovic | [Read More](https://medium.com/p/c8551c6a6042) |
+| Wed, 07 Jan 2026 15:43:05 GMT | AWS Client VPN Endpoint Setup: A Comprehensive Guide | Moiz Ali Moomin | [Read More](https://medium.com/p/aec56a578548) |
+| Wed, 07 Jan 2026 15:40:44 GMT | So, “Shift-Left” Failed. What Comes Next? | Ali Naqvi | [Read More](https://medium.com/p/e6df66ee277a) |
+| Wed, 07 Jan 2026 15:38:16 GMT | Strategic Importance of Application Maintenance | Elena Mia | [Read More](https://medium.com/p/b0af22879d48) |
+| Wed, 07 Jan 2026 15:35:15 GMT | When Reality Can Be Fabricated: How AI Is Powering a New Era of Cybercrime | Pranav Khankriyal | [Read More](https://medium.com/p/559c65d06c0b) |
+| Wed, 07 Jan 2026 15:32:50 GMT | Ethical Hacking Tool for Hackers | Mainekhacker | [Read More](https://medium.com/p/ec4ccc4e7995) |
+| Wed, 07 Jan 2026 15:30:50 GMT | Chaining Legacy Misconfigurations and IDOR to Access Sensitive User Operations | Usama Zahoor | [Read More](https://medium.com/p/cb30c72a8367) |
 | Wed, 07 Jan 2026 15:25:44 GMT | How to Lock Down Your Browser in 15 Minutes | Sam Writes Security | [Read More](https://medium.com/p/2e70c4abc28d) |
 | Wed, 07 Jan 2026 15:15:38 GMT | McAfee Total Protection 1-PC Key Until 2027: Long-Term Cybersecurity for Safe & Secure Computing | Cheapersgame | [Read More](https://medium.com/p/f04ca1a552d4) |
 | Wed, 07 Jan 2026 15:11:58 GMT | Why Annual Security Audits Are No Longer Enough | Tech Word | [Read More](https://medium.com/p/91d6cf2cd445) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 09:54:52 GMT | Unmask Privileged Access in Azure : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/995d5f392909) |
 | Wed, 07 Jan 2026 09:54:14 GMT | Security and Privacy in AI: Building Trustworthy AI Systems | Surendra Jagadeesh | [Read More](https://medium.com/p/93dcce0c5ffb) |
 | Wed, 07 Jan 2026 09:53:14 GMT | Bir Sistemi Güvenli Yapan 3 Şey: CIA Triad Nedir? | Arda Derya | [Read More](https://medium.com/p/fcc55e51fcfa) |
-| Wed, 07 Jan 2026 09:48:59 GMT | Security in AI: Architecting Zero-Trust Generative AI on AWS | Dhanisha Sharma | [Read More](https://medium.com/p/b0fb97eb1563) |
-| Wed, 07 Jan 2026 09:48:41 GMT | How to Monitor a Mobile Phone Legally and Responsibly | Rebecca Smith | [Read More](https://medium.com/p/5c7cd21989d0) |
-| Wed, 07 Jan 2026 09:44:12 GMT | Kali Linux 2025.2: What’s New, Why It Matters, and How to Install It | Cybervolt | [Read More](https://medium.com/p/3da4787fb2da) |
-| Wed, 07 Jan 2026 09:41:13 GMT | Automating Power BI Dataset Refresh with Microsoft Fabric UDFs and Azure Key Vault | Riccardo Perico | [Read More](https://medium.com/p/0050922a7ac3) |
-| Wed, 07 Jan 2026 09:40:13 GMT | Managed IT Service Provider in Ghana — Tarika Group | Tarikagroup | [Read More](https://medium.com/p/d9da2e8bfd75) |
-| Wed, 07 Jan 2026 09:38:30 GMT | How I Found 13 Bugs Using Just 3 Recon Tools — No Browser, Just Burp at the End | Cybervolt | [Read More](https://medium.com/p/46549a149b86) |
-| Wed, 07 Jan 2026 09:34:57 GMT | What Is DNS Footprinting? | Anandhu Kannan | [Read More](https://medium.com/p/04c035125875) |
