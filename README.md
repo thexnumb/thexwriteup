@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 Jan 2026 15:25:44 GMT | How to Lock Down Your Browser in 15 Minutes | Sam Writes Security | [Read More](https://medium.com/p/2e70c4abc28d) |
+| Wed, 07 Jan 2026 15:15:38 GMT | McAfee Total Protection 1-PC Key Until 2027: Long-Term Cybersecurity for Safe & Secure Computing | Cheapersgame | [Read More](https://medium.com/p/f04ca1a552d4) |
+| Wed, 07 Jan 2026 15:11:58 GMT | Why Annual Security Audits Are No Longer Enough | Tech Word | [Read More](https://medium.com/p/91d6cf2cd445) |
+| Wed, 07 Jan 2026 15:04:26 GMT | India’s Cybersecurity Laws : Explained Simply | Poornima Gontiya | [Read More](https://medium.com/p/c915a683b71b) |
+| Wed, 07 Jan 2026 15:02:56 GMT | Cyber Briefing: 2026.01.07 | CyberMaterial | [Read More](https://medium.com/p/ed687f7f9c4e) |
+| Wed, 07 Jan 2026 15:01:57 GMT | Ports, Not Power Stations: Why Logistics Is the Real Cyber Battleground | Abatis ABTU | [Read More](https://medium.com/p/eb83895105c2) |
+| Wed, 07 Jan 2026 15:01:41 GMT | Why Waiting for the Next Audit Can Put Your Business at Risk | Tech Word | [Read More](https://medium.com/p/c43fc9a842b6) |
+| Wed, 07 Jan 2026 14:57:00 GMT | ️DC: 1 — Complete Walkthrough (Beginner-Friendly) - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/9cede4e346d9) |
+| Wed, 07 Jan 2026 14:55:21 GMT | The Worst Web3 Hacks of 2025: $4.2 Billion Vanished in 10 Months | Gloria C. Chimelu | [Read More](https://medium.com/p/8f8a90aa22a1) |
+| Wed, 07 Jan 2026 14:52:46 GMT | How Do I Contact McAfee Support Number Australia | Customer Support Information | [Read More](https://medium.com/p/fc3d2eacac8a) |
+| Wed, 07 Jan 2026 14:49:09 GMT | SQL Injection Explained Using SQLMap (Beginner Guide) | Amrit Kashyap | [Read More](https://medium.com/p/3624283f7927) |
+| Wed, 07 Jan 2026 14:49:06 GMT | The Fastest Way to Validate External Python Modules | Maikel Mardjan | [Read More](https://medium.com/p/eec8aa90f181) |
+| Wed, 07 Jan 2026 14:45:34 GMT | Automated Penetration Testing: The Silver Bullet That Isn’t | Artids | [Read More](https://medium.com/p/b567602a1583) |
 | Wed, 07 Jan 2026 14:42:45 GMT | Analyzing CVE-2025–37164 | Vinicius Domingos | [Read More](https://medium.com/p/71e4712f35e3) |
 | Wed, 07 Jan 2026 14:40:39 GMT | Can I Contact Yahoo Customer Service Number Australia | Customer Support Information | [Read More](https://medium.com/p/8587ec9f2e4b) |
 | Wed, 07 Jan 2026 14:32:45 GMT | 31093Lack of Secure Update Mechanism | SerialHacker | [Read More](https://medium.com/p/adbd86245a75) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 09:40:13 GMT | Managed IT Service Provider in Ghana — Tarika Group | Tarikagroup | [Read More](https://medium.com/p/d9da2e8bfd75) |
 | Wed, 07 Jan 2026 09:38:30 GMT | How I Found 13 Bugs Using Just 3 Recon Tools — No Browser, Just Burp at the End | Cybervolt | [Read More](https://medium.com/p/46549a149b86) |
 | Wed, 07 Jan 2026 09:34:57 GMT | What Is DNS Footprinting? | Anandhu Kannan | [Read More](https://medium.com/p/04c035125875) |
-| Wed, 07 Jan 2026 09:30:59 GMT | Vertical Privilege Escalation: How I Gain Full Admin Account Takeover | Mahmoud Khalid | [Read More](https://medium.com/p/51805827e831) |
-| Wed, 07 Jan 2026 09:21:12 GMT | Lab: Infinite money logic flaw | Songül Kızılay Özügürler | [Read More](https://medium.com/p/657460cc6f32) |
-| Wed, 07 Jan 2026 09:21:01 GMT | Lab: Flawed enforcement of business rules | Songül Kızılay Özügürler | [Read More](https://medium.com/p/220d95b7fbb2) |
-| Wed, 07 Jan 2026 09:17:45 GMT | Learning Through the Noise: Preparing for CPTS and Facing Imposter Syndrome | Kizito Arinze Chukwu | [Read More](https://medium.com/p/41fbd49b75a3) |
-| Wed, 07 Jan 2026 09:16:32 GMT | Digital Twin Security: Protecting Virtual Models of Energy Operations | Rahman Iqbal | [Read More](https://medium.com/p/6514021438a1) |
-| Wed, 07 Jan 2026 09:16:28 GMT | Cloud Bills and Circus Fatigue: The Fall and Potential Rise of the In-House Developer | Namir Sagheenanajar | [Read More](https://medium.com/p/049503ed2582) |
-| Wed, 07 Jan 2026 09:14:28 GMT | Exploiting Unvalidated Redirects for XSS | Eduard Krivanek | [Read More](https://medium.com/p/9ae6c213c4e1) |
-| Wed, 07 Jan 2026 09:12:56 GMT | Network Forensics Explained: How Investigators Analyze Network Attacks | Nadataufikk | [Read More](https://medium.com/p/10d09aebaf64) |
-| Wed, 07 Jan 2026 09:05:57 GMT | What Wireless Interference and Jamming Taught Me About Real-World Attacks | Michael Preston | [Read More](https://medium.com/p/ee45c11368c5) |
-| Wed, 07 Jan 2026 09:04:34 GMT | Beyond Connectivity: Why the SECURET Quantum Smart TV is a Masterclass in “Empathetic Tech” | Quantarium | [Read More](https://medium.com/p/ce3ac35dd85a) |
-| Wed, 07 Jan 2026 09:03:10 GMT | Your AI Coding Assistant Isn’t a Tool. It’s Infrastructure. | Denny Roger | [Read More](https://medium.com/p/0bea380f9b73) |
-| Wed, 07 Jan 2026 09:02:46 GMT | One Leaked Password, 47 Valid Logins: How Credential Reuse Kills Companies | Alexandre Vandamme | [Read More](https://medium.com/p/050bad59fedf) |
-| Wed, 07 Jan 2026 09:02:42 GMT | Teknologi Game Online dan Perubahan Cara Manusia Berpikir di Era Digital | Ninja388official | [Read More](https://medium.com/p/a4504beaf951) |
