@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 Jan 2026 06:35:40 GMT | CVE-2025–14847 (MongoBleed): An Analysis of MongoDB Memory Leakage and Attack Surface Mitigation | Criminal IP | [Read More](https://medium.com/p/b9bca17590a1) |
+| Wed, 07 Jan 2026 06:34:25 GMT | OSI Model Attacks: How Hackers Target Every Layer Explained | ɧrιsнi rajeeѵ | [Read More](https://medium.com/p/090bb85ebb4b) |
+| Wed, 07 Jan 2026 06:31:10 GMT | ️ Turning a Linux Server into a Privacy-Focused NVR (No Cloud, No SD Cards) | Ammar Cader | [Read More](https://medium.com/p/4a4c3634b9dd) |
+| Wed, 07 Jan 2026 06:29:55 GMT | Official Walkthrough Of TryHackMe Room — Eliteconquerorz | Eliteconquerorz | [Read More](https://medium.com/p/4daf7273a18a) |
+| Wed, 07 Jan 2026 06:24:32 GMT | OverTheWire Bandit (Day 09): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/783fd6af9b57) |
+| Wed, 07 Jan 2026 06:09:02 GMT | Nmap 101: From Zero to Hero in Network Scanning & Discovery | Eren Ergen | [Read More](https://medium.com/p/684501c1273e) |
+| Wed, 07 Jan 2026 06:08:57 GMT | Subdomain Takeover in 2025  — New Methods + Tools | Vipul Sonule | [Read More](https://medium.com/p/dba94ba02121) |
+| Wed, 07 Jan 2026 06:02:53 GMT | Fortress-Level Security for Energy Networks | Kadhijahafiya | [Read More](https://medium.com/p/d0edb669885d) |
+| Wed, 07 Jan 2026 06:02:39 GMT | OverTheWire Bandit (Day 08): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/fc2b7a9ca907) |
+| Wed, 07 Jan 2026 06:01:01 GMT | CompTIA CySA+ (CS0–003): How to Prepare and Actually Understand It | Eshaan Solshe | [Read More](https://medium.com/p/536b46956685) |
+| Wed, 07 Jan 2026 05:51:48 GMT | Investigating a Cross-Site Scripting (XSS) Attempt in Let’sDefend SOC Lab | Akashwaris | [Read More](https://medium.com/p/f51dc63b26c7) |
+| Wed, 07 Jan 2026 05:49:11 GMT | UNDERSTANDING CONTENT SECURITY POLICY (CSP): YOUR WEB APPLICATION’s DEFENSE AGAINST XSS ATTACKS. | Wnellygrace | [Read More](https://medium.com/p/764259513829) |
 | Wed, 07 Jan 2026 05:40:07 GMT | Benefits of Remote Camera Monitoring Services | Marcela John | [Read More](https://medium.com/p/5d8766bd2657) |
 | Wed, 07 Jan 2026 05:26:04 GMT | A.I. Dependency or Obsession? | D.M. | [Read More](https://medium.com/p/659f7488aee5) |
 | Wed, 07 Jan 2026 05:10:30 GMT | How to Speed up Disaster Recovery with Effective Incident Response | NetWitness | [Read More](https://medium.com/p/22b07e314c40) |
@@ -101,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 Jan 2026 20:03:21 GMT | OSINT Araşdırmaları: Maltego, Shodan və Digər Alətlərlə Rəqəmsal İz Axtarışı (2026) | cybershieldy.com | [Read More](https://medium.com/p/0b5ff1697718) |
 | Tue, 06 Jan 2026 20:01:56 GMT | How Multi-Agent Systems Can Defend Against AI-Powered Attacks?? | Dikshith | [Read More](https://medium.com/p/df1a7c56d620) |
 | Tue, 06 Jan 2026 19:59:10 GMT | 2026 Cybersecurity Prediction #2 — AI Accelerates Vulnerability Exploitation | Matthew.Rosenquist | [Read More](https://medium.com/p/c729ec150f1b) |
-| Tue, 06 Jan 2026 19:49:12 GMT | Unlocking Linux Process Power:Part4 Detaching Processes and Understanding Limits | MR.7 | [Read More](https://medium.com/p/930bfcd939fb) |
-| Tue, 06 Jan 2026 19:39:51 GMT | How to Become a Penetration Tester in 2026 (A No-Fluff  Roadmap) | Ulrich Swart | [Read More](https://medium.com/p/4ff386bf3aa0) |
-| Tue, 06 Jan 2026 19:34:43 GMT | Solving Crack the Gate 1 picoCTF by CMU Africa | Sudi Mukora | [Read More](https://medium.com/p/2abad53243c9) |
-| Tue, 06 Jan 2026 19:28:42 GMT | Planning for Post-Quantum Cryptography: From Policy Mandate to Practical Action — The Australian… | SOCFortress | [Read More](https://medium.com/p/cefb22ff7d0b) |
-| Tue, 06 Jan 2026 19:28:18 GMT | ️ Defensive / Blue-Team Angle | ghostyjoe | [Read More](https://medium.com/p/0b9074541fd7) |
-| Tue, 06 Jan 2026 19:26:37 GMT | The Coming Cryptography Shift: Why Cybersecurity & GRC Will Define the Next Decade | Astro's world | [Read More](https://medium.com/p/46b66d224261) |
-| Tue, 06 Jan 2026 19:23:33 GMT | How a WhatsApp Message Travels Across the Internet | Manav Nagdukiya | [Read More](https://medium.com/p/44c701d5f723) |
-| Tue, 06 Jan 2026 19:03:10 GMT | XXE Bypass CTF Challange (Bugforge) | blackm4c | [Read More](https://medium.com/p/120d56b7e9a5) |
-| Tue, 06 Jan 2026 18:59:00 GMT | Brooklyn Nine Nine walkthrough | Crystal_Cascade | [Read More](https://medium.com/p/753bf8598897) |
-| Tue, 06 Jan 2026 18:56:39 GMT | Learning from the old Exynos Trustlet bug | Aung Khant Myo | [Read More](https://medium.com/p/60e61fd87e30) |
-| Tue, 06 Jan 2026 18:49:50 GMT | La loi 05–20 | Fadwa Darfaoui | [Read More](https://medium.com/p/0a953099aba1) |
-| Tue, 06 Jan 2026 18:47:49 GMT | Model Context Protocol (MCP) — Part 1: Why It’s Powerful and Why It’s Risky | Shishirhebbar | [Read More](https://medium.com/p/a65d2023405a) |
