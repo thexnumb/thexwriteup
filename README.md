@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 Jan 2026 10:22:56 GMT | Cyber Kill Chain Nedir? | Arda Derya | [Read More](https://medium.com/p/4a93a3482d53) |
+| Wed, 07 Jan 2026 10:22:27 GMT | How I Almost Broke My Linux System — And What Every Beginner Must Know | Ryvok.Brondich | [Read More](https://medium.com/p/695e4ffca062) |
+| Wed, 07 Jan 2026 10:21:16 GMT | How Malware Actually Executes on Windows (No Hollywood BS) | Yua Mikanana | [Read More](https://medium.com/p/4eda47404a53) |
+| Wed, 07 Jan 2026 10:19:58 GMT | A Strategic Analysis of Honeypot Ecosystems, Active Defense Methodologies, and Operational Efficacy… | David SEHYEON Baek | [Read More](https://medium.com/p/5ce552d30f2c) |
+| Wed, 07 Jan 2026 10:08:38 GMT | A Practical Guide to Safely Connecting APIs with Large Language Models | Authorshivani | [Read More](https://medium.com/p/0c51a5a699a5) |
+| Wed, 07 Jan 2026 10:06:39 GMT | OTP Bypass in Email Verification via Response Manipulation During 2FA Setup Leading to Pre-Account… | 1yz02 | [Read More](https://medium.com/p/d008aae2bcff) |
+| Wed, 07 Jan 2026 09:55:35 GMT | Why Blocking Ports Isn’t Enough When Names Tell the Story | Fateyaly | [Read More](https://medium.com/p/9aa922de6fe1) |
+| Wed, 07 Jan 2026 09:54:52 GMT | Unmask Privileged Access in Azure : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/995d5f392909) |
+| Wed, 07 Jan 2026 09:54:14 GMT | Security and Privacy in AI: Building Trustworthy AI Systems | Surendra Jagadeesh | [Read More](https://medium.com/p/93dcce0c5ffb) |
+| Wed, 07 Jan 2026 09:53:14 GMT | Bir Sistemi Güvenli Yapan 3 Şey: CIA Triad Nedir? | Arda Derya | [Read More](https://medium.com/p/fcc55e51fcfa) |
+| Wed, 07 Jan 2026 09:48:59 GMT | Security in AI: Architecting Zero-Trust Generative AI on AWS | Dhanisha Sharma | [Read More](https://medium.com/p/b0fb97eb1563) |
+| Wed, 07 Jan 2026 09:48:41 GMT | How to Monitor a Mobile Phone Legally and Responsibly | Rebecca Smith | [Read More](https://medium.com/p/5c7cd21989d0) |
+| Wed, 07 Jan 2026 09:44:12 GMT | Kali Linux 2025.2: What’s New, Why It Matters, and How to Install It | Cybervolt | [Read More](https://medium.com/p/3da4787fb2da) |
+| Wed, 07 Jan 2026 09:41:13 GMT | Automating Power BI Dataset Refresh with Microsoft Fabric UDFs and Azure Key Vault | Riccardo Perico | [Read More](https://medium.com/p/0050922a7ac3) |
+| Wed, 07 Jan 2026 09:40:13 GMT | Managed IT Service Provider in Ghana — Tarika Group | Tarikagroup | [Read More](https://medium.com/p/d9da2e8bfd75) |
+| Wed, 07 Jan 2026 09:38:30 GMT | How I Found 13 Bugs Using Just 3 Recon Tools — No Browser, Just Burp at the End | Cybervolt | [Read More](https://medium.com/p/46549a149b86) |
+| Wed, 07 Jan 2026 09:34:57 GMT | What Is DNS Footprinting? | Anandhu Kannan | [Read More](https://medium.com/p/04c035125875) |
+| Wed, 07 Jan 2026 09:30:59 GMT | Vertical Privilege Escalation: How I Gain Full Admin Account Takeover | Mahmoud Khalid | [Read More](https://medium.com/p/51805827e831) |
 | Wed, 07 Jan 2026 09:21:12 GMT | Lab: Infinite money logic flaw | Songül Kızılay Özügürler | [Read More](https://medium.com/p/657460cc6f32) |
 | Wed, 07 Jan 2026 09:21:01 GMT | Lab: Flawed enforcement of business rules | Songül Kızılay Özügürler | [Read More](https://medium.com/p/220d95b7fbb2) |
 | Wed, 07 Jan 2026 09:17:45 GMT | Learning Through the Noise: Preparing for CPTS and Facing Imposter Syndrome | Kizito Arinze Chukwu | [Read More](https://medium.com/p/41fbd49b75a3) |
@@ -95,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 03:12:53 GMT | Hack Supreme Duelist Stickman | Apkpuredev | [Read More](https://medium.com/p/a775efede51a) |
 | Wed, 07 Jan 2026 03:08:44 GMT | 2560萬美元蒸發！從 Grok 裸照門看 Deepfake 滅頂災難 | p1x06u9 | [Read More](https://medium.com/p/30cd89255d02) |
 | Wed, 07 Jan 2026 03:04:45 GMT | The Six-Month Gap - Dog Years | Julio Oña | [Read More](https://medium.com/p/a79df5f57309) |
-| Wed, 07 Jan 2026 02:00:39 GMT | Boogeyman 2: Memory Forensics, Malicious Macros, and C2 Discovery with Volatility | OwlPharaoh | [Read More](https://medium.com/p/b5c0e58b93bb) |
-| Wed, 07 Jan 2026 01:53:29 GMT | “I Destroyed Months of Your Work in Seconds”: When AI Goes Rogue and Deletes Everything | John Black | [Read More](https://medium.com/p/d683eca5b965) |
-| Wed, 07 Jan 2026 01:47:29 GMT | The basics of Linux Privilege Escalation | Mauricio Antonio | [Read More](https://medium.com/p/4d3b9b93f0c3) |
-| Wed, 07 Jan 2026 01:32:27 GMT | React2Shell CVE -2025–55182 Tryhackme Walkthrough | Mainekhacker | [Read More](https://medium.com/p/eb40b8c092b8) |
-| Wed, 07 Jan 2026 01:23:49 GMT | Physical Security Tools for Digital Safety | Özgür Karataş | [Read More](https://medium.com/p/74e0dfc2a090) |
-| Wed, 07 Jan 2026 01:13:38 GMT | JTAG Is the Quietest Backdoor You’ve Never Logged | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/380ea0c8d38e) |
-| Wed, 07 Jan 2026 01:12:32 GMT | The Foundation Layer: Why AI Systems Need Cryptographic DNA | John Black | [Read More](https://medium.com/p/0a4e3b5891ee) |
-| Wed, 07 Jan 2026 00:58:19 GMT | Why Your Cache Rules are Leaking User Data (Web Cache Deception) | Nullifiedsec | [Read More](https://medium.com/p/af3b0ee28496) |
-| Wed, 07 Jan 2026 00:45:04 GMT | How to Secure Your Phone and Accounts: A Step-by-Step Recovery Guide | Your IT and Tech Mates | [Read More](https://medium.com/p/e848f337a306) |
-| Wed, 07 Jan 2026 00:32:40 GMT | 58 Cybersecurity Questions Every Beginner Should Know | SeQEW | [Read More](https://medium.com/p/808319ad0229) |
-| Wed, 07 Jan 2026 00:31:17 GMT | Meditations on the Future of #AI – [AI-MED-001: Don’t Be the Horse] | Marco Essomba | [Read More](https://medium.com/p/8fc5c5a0e47e) |
-| Wed, 07 Jan 2026 00:29:18 GMT | Mutual TLS (mTLS) Authentication — A Complete Guide | Tiexin Guo | [Read More](https://medium.com/p/e5736c4dd3ee) |
-| Wed, 07 Jan 2026 00:15:02 GMT | Tanuki -Writeup | 7s26Simon | [Read More](https://medium.com/p/d1e1d40f1339) |
-| Wed, 07 Jan 2026 00:02:26 GMT | The Most Powerful Weapon in Cybersecurity Starts as a Basic Laptop | Jojuwale | [Read More](https://medium.com/p/60b97de0231a) |
-| Wed, 07 Jan 2026 00:02:25 GMT | Nmap Guide for Bug Bounty: Port Scanning and WAF Evasion | JPablo13 | [Read More](https://medium.com/p/9e0ea69f3377) |
-| Tue, 06 Jan 2026 23:54:59 GMT | The Day You Lose Everything — and How to Make Sure It Never Happens | Rekuway | [Read More](https://medium.com/p/6001e6c76488) |
-| Tue, 06 Jan 2026 23:46:52 GMT | Cybersecurity in 2026 and Beyond: Everything Has Already Changed | Vatsal Gupta | [Read More](https://medium.com/p/6ac98483332d) |
-| Tue, 06 Jan 2026 23:33:27 GMT | Agent T TryHackMe Write UP | cat0x01 | [Read More](https://medium.com/p/251d767d5bd0) |
