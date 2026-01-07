@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 Jan 2026 23:26:19 GMT | Rethinking Policies and Permissions in IoT Security with Blockchain | Mohsin Khan | [Read More](https://medium.com/p/4ca1fd83b58c) |
+| Wed, 07 Jan 2026 23:13:42 GMT | I Passed FinOps Practitioner. These Are the Notes That Actually Matter. | Kamil Ousta | [Read More](https://medium.com/p/78b6cc5dfe6d) |
 | Wed, 07 Jan 2026 23:11:14 GMT | CISSP Domain 4 Mastery Series - Part 3: Network Cables, Transmission Media & IPSec | Pushpak Sharma | [Read More](https://medium.com/p/06b3839e5f6e) |
 | Wed, 07 Jan 2026 23:06:25 GMT | * "My First Step on Medium: Discovering Writing" | Michaël AGBOWOU | [Read More](https://medium.com/p/e73afa2aab11) |
 | Wed, 07 Jan 2026 23:04:57 GMT | Logic Has Words for Everything…. | The_Ifeoluwa_Joshua | [Read More](https://medium.com/p/c060334bcafa) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 15:45:51 GMT | How I Found A Windows RCE | Imad Husanovic | [Read More](https://medium.com/p/c8551c6a6042) |
 | Wed, 07 Jan 2026 15:43:05 GMT | AWS Client VPN Endpoint Setup: A Comprehensive Guide | Moiz Ali Moomin | [Read More](https://medium.com/p/aec56a578548) |
 | Wed, 07 Jan 2026 15:41:07 GMT | Answering the Question: “How do we constrain agents to mirroring user-permissions WHEN all our data… | Nwosu Rosemary | [Read More](https://medium.com/p/8e20ff5cac06) |
-| Wed, 07 Jan 2026 15:40:44 GMT | So, “Shift-Left” Failed. What Comes Next? | Ali Naqvi | [Read More](https://medium.com/p/e6df66ee277a) |
-| Wed, 07 Jan 2026 15:38:52 GMT | CTO Survival Guide: Architecture, Chaos, Hiring, and AI in Real Production | Andrew Ghostyuhin | [Read More](https://medium.com/p/1d293cd0e599) |
