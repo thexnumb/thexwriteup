@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 Jan 2026 22:42:44 GMT | How IT Management Services in Fontana Support Cyber Insurance Readiness | Zeta Sky | [Read More](https://medium.com/p/f1302fe3ad1c) |
+| Wed, 07 Jan 2026 22:40:15 GMT | 代碼裡的「內鬼」：拆解 Lotusbail 假冒 WhatsApp API 事件，與我們脆弱不堪的 NPM 供應鏈 | p1x06u9 | [Read More](https://medium.com/p/fe6ab9c6c4f8) |
+| Wed, 07 Jan 2026 22:33:50 GMT | Just do it | Agustina Falero | [Read More](https://medium.com/p/6c50766a8fd1) |
+| Wed, 07 Jan 2026 22:32:16 GMT | Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users | Cyber-AppSec | [Read More](https://medium.com/p/d4618a34df17) |
+| Wed, 07 Jan 2026 22:30:20 GMT | VaMPI- API Penetration Test Report (Week 1) | Stella Obatoye | [Read More](https://medium.com/p/30d2bac926b6) |
+| Wed, 07 Jan 2026 22:15:19 GMT | Passkeys vs Passwords: How to Switch to Safer Passwordless Login (2026 Guide) | QuarkAndCode | [Read More](https://medium.com/p/69c6f13c21aa) |
 | Wed, 07 Jan 2026 22:08:44 GMT | The Impact of 5G and High-Speed Internet on Pakistan’s Call Center Sector | J Telemarketing | [Read More](https://medium.com/p/3c46cc5c87e0) |
 | Wed, 07 Jan 2026 22:08:16 GMT | Here’s What You’ll Learn If You Join Us for Launch Week | Fook Hwa Tan | [Read More](https://medium.com/p/ee13f6f58a5e) |
 | Wed, 07 Jan 2026 22:07:14 GMT | I’ve Been Quietly Working on Something… Here’s a Hint | Fook Hwa Tan | [Read More](https://medium.com/p/0d74a28cbb63) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 15:37:40 GMT | Unpacking Microsoft Defender for Office 365: Day 2 SOC Triage — Preset Security Policies (Standard… | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/9921a376466d) |
 | Wed, 07 Jan 2026 15:35:15 GMT | When Reality Can Be Fabricated: How AI Is Powering a New Era of Cybercrime | Pranav Khankriyal | [Read More](https://medium.com/p/559c65d06c0b) |
 | Wed, 07 Jan 2026 15:32:50 GMT | Ethical Hacking Tool for Hackers | Mainekhacker | [Read More](https://medium.com/p/ec4ccc4e7995) |
-| Wed, 07 Jan 2026 15:30:50 GMT | Chaining Legacy Misconfigurations and IDOR to Access Sensitive User Operations | Usama Zahoor | [Read More](https://medium.com/p/cb30c72a8367) |
-| Wed, 07 Jan 2026 15:25:44 GMT | How to Lock Down Your Browser in 15 Minutes | Sam Writes Security | [Read More](https://medium.com/p/2e70c4abc28d) |
-| Wed, 07 Jan 2026 15:15:38 GMT | McAfee Total Protection 1-PC Key Until 2027: Long-Term Cybersecurity for Safe & Secure Computing | Cheapersgame | [Read More](https://medium.com/p/f04ca1a552d4) |
-| Wed, 07 Jan 2026 15:11:58 GMT | Why Annual Security Audits Are No Longer Enough | Tech Word | [Read More](https://medium.com/p/91d6cf2cd445) |
-| Wed, 07 Jan 2026 15:04:26 GMT | India’s Cybersecurity Laws : Explained Simply | Poornima Gontiya | [Read More](https://medium.com/p/c915a683b71b) |
-| Wed, 07 Jan 2026 15:02:56 GMT | Cyber Briefing: 2026.01.07 | CyberMaterial | [Read More](https://medium.com/p/ed687f7f9c4e) |
