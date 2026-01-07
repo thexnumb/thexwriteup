@@ -12,10 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 Jan 2026 16:27:57 GMT | Under the Hood of IAST and RASP. How instrumentation actually works | Javi D R | [Read More](https://medium.com/p/47511ebeeec5) |
+| Wed, 07 Jan 2026 16:27:31 GMT | Blurams Camera Review: Are Blurams Security Cameras Worth Buying in 2025? | Narjis Arshad | [Read More](https://medium.com/p/5afdabb6bec9) |
+| Wed, 07 Jan 2026 16:25:03 GMT | How I Passed the PNPT in 2026 — Lessons, Methodology, and Advice. | Eziyo | [Read More](https://medium.com/p/36ba8f68b5b7) |
+| Wed, 07 Jan 2026 16:23:58 GMT | TryHackMe: Summit | Cyberpatriot | [Read More](https://medium.com/p/bbe042150e7b) |
+| Wed, 07 Jan 2026 16:21:52 GMT | Confidential Computing: The Next Frontier of Data Security in 2026 | Techridge Solutions | [Read More](https://medium.com/p/067a0a14bd76) |
+| Wed, 07 Jan 2026 16:18:57 GMT | Why Most ‘Secure Applications’ Aren’t Actually Secure | Nightz | [Read More](https://medium.com/p/7dc7aa3fe5d6) |
+| Wed, 07 Jan 2026 16:12:49 GMT | Protecting Your Employees’ Identity (And Yours, Too) | Digital Uppercut | [Read More](https://medium.com/p/c0365e7146d1) |
+| Wed, 07 Jan 2026 16:10:12 GMT | SOC 2 Compliance Made Simple: IT Controls Every Business Needs in 2026 | Technijian | [Read More](https://medium.com/p/3de023e847a0) |
+| Wed, 07 Jan 2026 16:07:00 GMT | The Anatomy of Modern Cyber Threat Campaigns | Jay Vanyi | [Read More](https://medium.com/p/14eb8a9e8168) |
+| Wed, 07 Jan 2026 16:06:03 GMT | The Backend & Frontend Logic Behind SimpleJWT: Best Practices for Security | E. Conscience | [Read More](https://medium.com/p/f13b3f46ee12) |
+| Wed, 07 Jan 2026 15:59:41 GMT | How Hacks Can Make You the Cybercrime Victim Twice | Digital Uppercut | [Read More](https://medium.com/p/8b8635a17923) |
+| Wed, 07 Jan 2026 15:59:18 GMT | The Truth About Password Managers: Security Requires More Than a Tool | Cordula Boeck | [Read More](https://medium.com/p/6fb3aa7e536c) |
+| Wed, 07 Jan 2026 15:56:05 GMT | Securing MCP Servers: A Practical Guide with Keycloak (using create-mcp-server) | Ali Ibrahim | [Read More](https://medium.com/p/c1f10dbb4a0b) |
+| Wed, 07 Jan 2026 15:47:34 GMT | Hunting Malware in Network Traffic (Wireshark) | Oluwadamilare Adeosun | [Read More](https://medium.com/p/26517d7bba36) |
 | Wed, 07 Jan 2026 15:45:51 GMT | How I Found A Windows RCE | Imad Husanovic | [Read More](https://medium.com/p/c8551c6a6042) |
 | Wed, 07 Jan 2026 15:43:05 GMT | AWS Client VPN Endpoint Setup: A Comprehensive Guide | Moiz Ali Moomin | [Read More](https://medium.com/p/aec56a578548) |
+| Wed, 07 Jan 2026 15:41:07 GMT | Answering the Question: “How do we constrain agents to mirroring user-permissions WHEN all our data… | Nwosu Rosemary | [Read More](https://medium.com/p/8e20ff5cac06) |
 | Wed, 07 Jan 2026 15:40:44 GMT | So, “Shift-Left” Failed. What Comes Next? | Ali Naqvi | [Read More](https://medium.com/p/e6df66ee277a) |
+| Wed, 07 Jan 2026 15:38:52 GMT | CTO Survival Guide: Architecture, Chaos, Hiring, and AI in Real Production | Andrew Ghostyuhin | [Read More](https://medium.com/p/1d293cd0e599) |
 | Wed, 07 Jan 2026 15:38:16 GMT | Strategic Importance of Application Maintenance | Elena Mia | [Read More](https://medium.com/p/b0af22879d48) |
+| Wed, 07 Jan 2026 15:37:40 GMT | Unpacking Microsoft Defender for Office 365: Day 2 SOC Triage — Preset Security Policies (Standard… | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/9921a376466d) |
 | Wed, 07 Jan 2026 15:35:15 GMT | When Reality Can Be Fabricated: How AI Is Powering a New Era of Cybercrime | Pranav Khankriyal | [Read More](https://medium.com/p/559c65d06c0b) |
 | Wed, 07 Jan 2026 15:32:50 GMT | Ethical Hacking Tool for Hackers | Mainekhacker | [Read More](https://medium.com/p/ec4ccc4e7995) |
 | Wed, 07 Jan 2026 15:30:50 GMT | Chaining Legacy Misconfigurations and IDOR to Access Sensitive User Operations | Usama Zahoor | [Read More](https://medium.com/p/cb30c72a8367) |
@@ -32,6 +49,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 14:49:09 GMT | SQL Injection Explained Using SQLMap (Beginner Guide) | Amrit Kashyap | [Read More](https://medium.com/p/3624283f7927) |
 | Wed, 07 Jan 2026 14:49:06 GMT | The Fastest Way to Validate External Python Modules | Maikel Mardjan | [Read More](https://medium.com/p/eec8aa90f181) |
 | Wed, 07 Jan 2026 14:45:34 GMT | Automated Penetration Testing: The Silver Bullet That Isn’t | Artids | [Read More](https://medium.com/p/b567602a1583) |
+| Wed, 07 Jan 2026 14:44:46 GMT | TalkTalk Cyber Attack — 2015 | VIGNESH | [Read More](https://medium.com/p/5e7c216ee711) |
 | Wed, 07 Jan 2026 14:42:45 GMT | Analyzing CVE-2025–37164 | Vinicius Domingos | [Read More](https://medium.com/p/71e4712f35e3) |
 | Wed, 07 Jan 2026 14:40:39 GMT | Can I Contact Yahoo Customer Service Number Australia | Customer Support Information | [Read More](https://medium.com/p/8587ec9f2e4b) |
 | Wed, 07 Jan 2026 14:32:45 GMT | 31093Lack of Secure Update Mechanism | SerialHacker | [Read More](https://medium.com/p/adbd86245a75) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 11:25:51 GMT | Part 3 : Oversharing-Feeding the AI Beast | Protégé IGDTUW | [Read More](https://medium.com/p/7a9fdbb3dde7) |
 | Wed, 07 Jan 2026 11:22:02 GMT | Reliable Managed IT Infrastructure Services Provider in India | Samvaskaran | [Read More](https://medium.com/p/a315e3fe5e97) |
 | Wed, 07 Jan 2026 11:08:25 GMT | Two Requests, One Bug: How Race Conditions Break Server Security | Cybernight | [Read More](https://medium.com/p/850f6963b3ad) |
-| Wed, 07 Jan 2026 11:05:56 GMT | Part 4 : Simple Shields-How to Protect Yourself | Protégé IGDTUW | [Read More](https://medium.com/p/a86607407185) |
-| Wed, 07 Jan 2026 10:50:47 GMT | 15 Free OSINT Tools That Reveal Everything Online (2026 Guide) | Hartarto | [Read More](https://medium.com/p/8d74162d70ec) |
-| Wed, 07 Jan 2026 10:45:13 GMT | Walkthrough: Retrieving Hidden Data with SQL Injection | Miftahunnaufal Hidayat | [Read More](https://medium.com/p/e9a5d184ea14) |
-| Wed, 07 Jan 2026 10:44:31 GMT | Is a Machine Learning Diploma Worth it? Career Opportunities, Salary & More | cyber security Updates | [Read More](https://medium.com/p/067549942876) |
-| Wed, 07 Jan 2026 10:43:14 GMT | How Data Removal Really Works And Why It Matters in 2026 | EraseMe | [Read More](https://medium.com/p/b225ce57a262) |
-| Wed, 07 Jan 2026 10:36:21 GMT | Ledger Crypto Wallet Customer Data Breach via Global-e | Ted Quek | [Read More](https://medium.com/p/ae73f039b2f9) |
-| Wed, 07 Jan 2026 10:33:50 GMT | ️ TryHackMe Attacktive Directory Walkthrough | Rootseekerx0x | [Read More](https://medium.com/p/dd42f3f61842) |
-| Wed, 07 Jan 2026 10:22:56 GMT | Cyber Kill Chain Nedir? | Arda Derya | [Read More](https://medium.com/p/4a93a3482d53) |
-| Wed, 07 Jan 2026 10:22:27 GMT | How I Almost Broke My Linux System — And What Every Beginner Must Know | Ryvok.Brondich | [Read More](https://medium.com/p/695e4ffca062) |
-| Wed, 07 Jan 2026 10:21:16 GMT | How Malware Actually Executes on Windows (No Hollywood BS) | Yua Mikanana | [Read More](https://medium.com/p/4eda47404a53) |
-| Wed, 07 Jan 2026 10:19:58 GMT | A Strategic Analysis of Honeypot Ecosystems, Active Defense Methodologies, and Operational Efficacy… | David SEHYEON Baek | [Read More](https://medium.com/p/5ce552d30f2c) |
-| Wed, 07 Jan 2026 10:13:53 GMT | Top Vulnerability Threat Management Trends to Watch in 2026 | Andrea Smith | [Read More](https://medium.com/p/27204537831c) |
-| Wed, 07 Jan 2026 10:08:38 GMT | A Practical Guide to Safely Connecting APIs with Large Language Models | Authorshivani | [Read More](https://medium.com/p/0c51a5a699a5) |
-| Wed, 07 Jan 2026 10:06:39 GMT | OTP Bypass in Email Verification via Response Manipulation During 2FA Setup Leading to Pre-Account… | 1yz02 | [Read More](https://medium.com/p/d008aae2bcff) |
-| Wed, 07 Jan 2026 09:55:35 GMT | Why Blocking Ports Isn’t Enough When Names Tell the Story | Fateyaly | [Read More](https://medium.com/p/9aa922de6fe1) |
-| Wed, 07 Jan 2026 09:54:52 GMT | Unmask Privileged Access in Azure : Pwned-Labs Walkthrough | Maverick | [Read More](https://medium.com/p/995d5f392909) |
-| Wed, 07 Jan 2026 09:54:14 GMT | Security and Privacy in AI: Building Trustworthy AI Systems | Surendra Jagadeesh | [Read More](https://medium.com/p/93dcce0c5ffb) |
-| Wed, 07 Jan 2026 09:53:14 GMT | Bir Sistemi Güvenli Yapan 3 Şey: CIA Triad Nedir? | Arda Derya | [Read More](https://medium.com/p/fcc55e51fcfa) |
