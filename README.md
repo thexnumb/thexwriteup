@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 Jan 2026 05:10:30 GMT | How to Speed up Disaster Recovery with Effective Incident Response | NetWitness | [Read More](https://medium.com/p/22b07e314c40) |
+| Wed, 07 Jan 2026 05:09:56 GMT | How I built my portfolio website for (almost) free in 2 hours | Vuusale | [Read More](https://medium.com/p/ec9c7d1a3415) |
+| Wed, 07 Jan 2026 05:02:48 GMT | Light Out, 7B (Part 7) | edarit | [Read More](https://medium.com/p/8ac25f5b65c5) |
+| Wed, 07 Jan 2026 05:02:48 GMT | Building a Resilient Cloud Infrastructure — Insights from F9 Infotech Experts | F9 Infotech | [Read More](https://medium.com/p/3233cb713f4e) |
+| Wed, 07 Jan 2026 04:59:55 GMT | The Complete Enterprise Guide to Cloud, Virtualization, Cybersecurity, Backup & Modern… | F9 Infotech | [Read More](https://medium.com/p/b311337af5be) |
+| Wed, 07 Jan 2026 04:52:21 GMT | Investigating a Command Injection Attack (Let’sDefend SOC Lab) | Akashwaris | [Read More](https://medium.com/p/afee489ed71a) |
+| Wed, 07 Jan 2026 04:44:30 GMT | Until You Get the Bill: A Security Reality Check | JackyNote | [Read More](https://medium.com/p/5bbacf2ccd9b) |
+| Wed, 07 Jan 2026 04:43:35 GMT | AI Strategy Consulting: How Companies Build Scalable, Ethical & Future-Ready AI Ecosystems | BayOne | [Read More](https://medium.com/p/c3ef72ed8075) |
+| Wed, 07 Jan 2026 04:37:32 GMT | Um pai amoroso direciona | Filipe André Gaio | [Read More](https://medium.com/p/21c3ca8044e2) |
+| Wed, 07 Jan 2026 04:33:56 GMT | IT Asset Management Best Practices for Maximizing ROI | Emergys | [Read More](https://medium.com/p/9f6bca0f1545) |
 | Wed, 07 Jan 2026 04:23:04 GMT | The Linux Security Journey — Fail2Ban | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/10c8da33d46f) |
 | Wed, 07 Jan 2026 04:20:52 GMT | Farming Simulator 20 Mod APK | GOCMOD | [Read More](https://medium.com/p/e62004e5b9ea) |
 | Wed, 07 Jan 2026 04:20:30 GMT | Tutorial 3 PortSwigger Lab: Reflected XSS into HTML context with nothing encoded | Diva Rizky Alfitrah | [Read More](https://medium.com/p/57513cfbf25f) |
@@ -103,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 Jan 2026 18:47:49 GMT | Model Context Protocol (MCP) — Part 1: Why It’s Powerful and Why It’s Risky | Shishirhebbar | [Read More](https://medium.com/p/a65d2023405a) |
 | Tue, 06 Jan 2026 18:47:03 GMT | The Art of Being Lazy | Matthew Stevens | [Read More](https://medium.com/p/8d8aa5c4f658) |
 | Tue, 06 Jan 2026 18:38:31 GMT | The Role of Blockchain Explorers in Cryptocurrency Investigations | Satyam | [Read More](https://medium.com/p/ce0bbc8d4162) |
-| Tue, 06 Jan 2026 18:31:45 GMT | Ghost in the Machine: Bypassing Authentication to Access Live Ship Feeds and GPS | hacker_might | [Read More](https://medium.com/p/7f83c1790645) |
-| Tue, 06 Jan 2026 18:24:48 GMT | Why Every Developer Needs to Have a Basic Background on Cybersecurity | Roya Kais | [Read More](https://medium.com/p/11045d2b1c30) |
-| Tue, 06 Jan 2026 18:21:03 GMT | How I found a Race condition on Like Function | Zodiac | [Read More](https://medium.com/p/7f236537b7fc) |
-| Tue, 06 Jan 2026 18:12:36 GMT | Common Myths Beginners Believe About Cybersecurity | Quadri Sulaimon - CyberOps | [Read More](https://medium.com/p/6c6b06c75705) |
-| Tue, 06 Jan 2026 18:11:19 GMT | Configure snort rules in order to detect following attacks | Vanshika Parikh | [Read More](https://medium.com/p/689e425a4600) |
-| Tue, 06 Jan 2026 18:09:55 GMT | “Implementation of LAN and Wireless Network with Firewall and IDS” | Vanshika Parikh | [Read More](https://medium.com/p/0291bf6a82f8) |
-| Tue, 06 Jan 2026 17:55:45 GMT | Please, Can I Just Resign From Adulthood for 10 Minutes? | Avadhesh S Shekhawat | [Read More](https://medium.com/p/a2d913c22ef3) |
-| Tue, 06 Jan 2026 17:52:20 GMT | Why Many Cybersecurity Candidates Fail Interviews | Muhammad Kashif | [Read More](https://medium.com/p/0e819c8afd23) |
-| Tue, 06 Jan 2026 17:51:32 GMT | OSI Model: The backbone of the Network Communication | Sankalp Bansal | [Read More](https://medium.com/p/5daa8a699de9) |
-| Tue, 06 Jan 2026 17:44:58 GMT | Trump, NATO, and the Cost of Transactional Power | Dhruv Tripathi | [Read More](https://medium.com/p/def522cb1c36) |
