@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 Jan 2026 20:31:17 GMT | Runtime Governance 101: The Critical Role of Runtime Governance in Securing Agentic AI | Rampart AI™ | [Read More](https://medium.com/p/1588bd1ae2bb) |
 | Wed, 07 Jan 2026 20:06:17 GMT | Building a SOC from Scratch: The Part Tutorials Never Show | Lakshan Sameera (Sameer) | [Read More](https://medium.com/p/80655b2332fd) |
 | Wed, 07 Jan 2026 20:03:09 GMT | The Loneliness of Loving Deeply: When You’re Built for Depth in a World Addicted to Surface | ☽Karlee Alyssa | [Read More](https://medium.com/p/069b8f9aa938) |
 | Wed, 07 Jan 2026 19:56:01 GMT | Where Vendor Risk Hides in Justice Organizations and How to Find It Before It Finds Your Clients | Tyson Martin | [Read More](https://medium.com/p/4d47184d389c) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 14:45:34 GMT | Automated Penetration Testing: The Silver Bullet That Isn’t | Artids | [Read More](https://medium.com/p/b567602a1583) |
 | Wed, 07 Jan 2026 14:44:46 GMT | TalkTalk Cyber Attack — 2015 | VIGNESH | [Read More](https://medium.com/p/5e7c216ee711) |
 | Wed, 07 Jan 2026 14:42:45 GMT | Analyzing CVE-2025–37164 | Vinicius Domingos | [Read More](https://medium.com/p/71e4712f35e3) |
-| Wed, 07 Jan 2026 14:40:39 GMT | Can I Contact Yahoo Customer Service Number Australia | Customer Support Information | [Read More](https://medium.com/p/8587ec9f2e4b) |
