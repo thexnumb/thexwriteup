@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 Jan 2026 14:42:45 GMT | Analyzing CVE-2025–37164 | Vinicius Domingos | [Read More](https://medium.com/p/71e4712f35e3) |
+| Wed, 07 Jan 2026 14:40:39 GMT | Can I Contact Yahoo Customer Service Number Australia | Customer Support Information | [Read More](https://medium.com/p/8587ec9f2e4b) |
+| Wed, 07 Jan 2026 14:32:45 GMT | 31093Lack of Secure Update Mechanism | SerialHacker | [Read More](https://medium.com/p/adbd86245a75) |
+| Wed, 07 Jan 2026 14:32:04 GMT | How Do I do this?? | ciira | [Read More](https://medium.com/p/01e43469a304) |
+| Wed, 07 Jan 2026 14:31:51 GMT | La historia de YouAreAnIdiot, el virus en Adobe Flash que se convirtió en una broma pesada | Tiziano Mass | [Read More](https://medium.com/p/21effc9b92b4) |
+| Wed, 07 Jan 2026 14:28:45 GMT | Prompt Injection: Input-Based Security Vulnerabilities in Large Language Models | Irem Bezci | [Read More](https://medium.com/p/ee2c759644cc) |
 | Wed, 07 Jan 2026 14:20:44 GMT | Case File: 0x05 — Operation “Cold Steel” | The Knight | [Read More](https://medium.com/p/5d7b3ba0a78a) |
 | Wed, 07 Jan 2026 14:15:57 GMT | Post-Quantum Cryptography and the Quiet Redesign of Financial Trust | John V. Levonick | [Read More](https://medium.com/p/e2756e930e5f) |
 | Wed, 07 Jan 2026 14:11:11 GMT | Everything You Need to Become a Professional Manual Bug Bounty Hunter | CaptinSHArky(Mahdi) | [Read More](https://medium.com/p/45e67a9effe6) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 09:03:10 GMT | Your AI Coding Assistant Isn’t a Tool. It’s Infrastructure. | Denny Roger | [Read More](https://medium.com/p/0bea380f9b73) |
 | Wed, 07 Jan 2026 09:02:46 GMT | One Leaked Password, 47 Valid Logins: How Credential Reuse Kills Companies | Alexandre Vandamme | [Read More](https://medium.com/p/050bad59fedf) |
 | Wed, 07 Jan 2026 09:02:42 GMT | Teknologi Game Online dan Perubahan Cara Manusia Berpikir di Era Digital | Ninja388official | [Read More](https://medium.com/p/a4504beaf951) |
-| Wed, 07 Jan 2026 08:51:29 GMT | The End of Compromise: Why Your Next Smart TV Must Be Serverless | SAYCOIN | [Read More](https://medium.com/p/bdd779febf50) |
-| Wed, 07 Jan 2026 08:46:20 GMT | Preparing Pre-Teens for Online Learning and Homework Independence | Edwin Odoyo | [Read More](https://medium.com/p/2ce1411f7381) |
-| Wed, 07 Jan 2026 08:38:58 GMT | Understanding LLMNR & NBT-NS Poisoning in Active Directory (Hands-on Learning) | Krish Gupta | [Read More](https://medium.com/p/d18a49e25a1a) |
-| Wed, 07 Jan 2026 08:36:29 GMT | School and Campus Security Market: Trends, Innovations, and Safer Learning Environments | Marrtin Olivia | [Read More](https://medium.com/p/52c5747f96d3) |
-| Wed, 07 Jan 2026 08:16:15 GMT | JWT Attacks - Foundational | Amrsmooke | [Read More](https://medium.com/p/07efea0a7a10) |
-| Wed, 07 Jan 2026 08:12:10 GMT | Buda — Write-Up (The Hackers Labs) | ManuM0re | [Read More](https://medium.com/p/ccf7f16bd509) |
