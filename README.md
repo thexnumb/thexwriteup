@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 Jan 2026 11:32:00 GMT | Offensive Security Introduction | Elizabeth (Libby) | [Read More](https://medium.com/p/6c6674c8968b) |
+| Wed, 07 Jan 2026 11:30:00 GMT | Why Managed IT Services Are Becoming a Business Essential | Prohash Technologies | [Read More](https://medium.com/p/f654bf3de123) |
+| Wed, 07 Jan 2026 11:25:51 GMT | Part 3 : Oversharing-Feeding the AI Beast | Protégé IGDTUW | [Read More](https://medium.com/p/7a9fdbb3dde7) |
+| Wed, 07 Jan 2026 11:22:02 GMT | Reliable Managed IT Infrastructure Services Provider in India | Samvaskaran | [Read More](https://medium.com/p/a315e3fe5e97) |
 | Wed, 07 Jan 2026 11:08:25 GMT | Two Requests, One Bug: How Race Conditions Break Server Security | Cybernight | [Read More](https://medium.com/p/850f6963b3ad) |
 | Wed, 07 Jan 2026 11:05:56 GMT | Part 4 : Simple Shields-How to Protect Yourself | Protégé IGDTUW | [Read More](https://medium.com/p/a86607407185) |
 | Wed, 07 Jan 2026 10:50:47 GMT | 15 Free OSINT Tools That Reveal Everything Online (2026 Guide) | Hartarto | [Read More](https://medium.com/p/8d74162d70ec) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 04:17:26 GMT | Threat Modeling for Developers | Imasha Weerakoon | [Read More](https://medium.com/p/b8824d0fe2b8) |
 | Wed, 07 Jan 2026 04:14:50 GMT | From Code to Compromise 
  A Simple Guide to Jenkins, Docker, and GitHub in Bug Bounty | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/cf69c0ce0216) |
-| Wed, 07 Jan 2026 04:00:22 GMT | Configure Snort to Detect MITM — ARP Poisoning Attack | Ankit M | [Read More](https://medium.com/p/a1f27c575353) |
-| Wed, 07 Jan 2026 03:57:58 GMT | Go Security Minefield: Escaping SSRF, Injection, and Deserialization Traps | Ade Mawan | [Read More](https://medium.com/p/beeded3228a8) |
-| Wed, 07 Jan 2026 03:48:35 GMT | From Code to Cloud: How App Security Audits Protect Your Digital Assets | Smart City System - HR Software - HRMS - Payroll | [Read More](https://medium.com/p/73acfeb39a65) |
-| Wed, 07 Jan 2026 03:44:47 GMT | KodeKloud AWS Challenge — Day 15: Creating an EBS Snapshot | Kishor Bhairat | [Read More](https://medium.com/p/c37522e22b95) |
