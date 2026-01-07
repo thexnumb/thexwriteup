@@ -12,9 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 Jan 2026 04:23:04 GMT | The Linux Security Journey — Fail2Ban | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/10c8da33d46f) |
+| Wed, 07 Jan 2026 04:20:52 GMT | Farming Simulator 20 Mod APK | GOCMOD | [Read More](https://medium.com/p/e62004e5b9ea) |
+| Wed, 07 Jan 2026 04:20:30 GMT | Tutorial 3 PortSwigger Lab: Reflected XSS into HTML context with nothing encoded | Diva Rizky Alfitrah | [Read More](https://medium.com/p/57513cfbf25f) |
+| Wed, 07 Jan 2026 04:17:26 GMT | Threat Modeling for Developers | Imasha Weerakoon | [Read More](https://medium.com/p/b8824d0fe2b8) |
+| Wed, 07 Jan 2026 04:14:50 GMT | From Code to Compromise 
+ A Simple Guide to Jenkins, Docker, and GitHub in Bug Bounty | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/cf69c0ce0216) |
+| Wed, 07 Jan 2026 04:00:22 GMT | Configure Snort to Detect MITM — ARP Poisoning Attack | Ankit M | [Read More](https://medium.com/p/a1f27c575353) |
+| Wed, 07 Jan 2026 03:57:58 GMT | Go Security Minefield: Escaping SSRF, Injection, and Deserialization Traps | Ade Mawan | [Read More](https://medium.com/p/beeded3228a8) |
+| Wed, 07 Jan 2026 03:48:35 GMT | From Code to Cloud: How App Security Audits Protect Your Digital Assets | Smart City System - HR Software - HRMS - Payroll | [Read More](https://medium.com/p/73acfeb39a65) |
+| Wed, 07 Jan 2026 03:44:47 GMT | KodeKloud AWS Challenge — Day 15: Creating an EBS Snapshot | Kishor Bhairat | [Read More](https://medium.com/p/c37522e22b95) |
+| Wed, 07 Jan 2026 03:42:33 GMT | The Hidden AI Risk You Can’t Afford to Ignore | Neova Solutions | [Read More](https://medium.com/p/12a9e9c58e51) |
+| Wed, 07 Jan 2026 03:42:13 GMT | 2026 Techniques to find Hidden Bugcrowd & HackerOne Programs | Abhirup Konwar | [Read More](https://medium.com/p/cad9f24c2a9f) |
+| Wed, 07 Jan 2026 03:36:58 GMT | HIV/AIDS: Understanding the Disease, Breaking the Stigma, and Building a Healthier Future | Valenyasmine | [Read More](https://medium.com/p/a4e73aad68d4) |
 | Wed, 07 Jan 2026 03:32:31 GMT | CreThe Real Fix Isn’t Upgrading a Package. It’s Shrinking “Detect → Patch → Verify.” | Kedar Kulkarni | [Read More](https://medium.com/p/0620419a6e61) |
 | Wed, 07 Jan 2026 03:32:28 GMT | From Breach Detection to Risk Intelligence: Building a Secure Exposure Monitoring Engine (Day 2) | THM{0x416469747961204D6163686972616A75} | [Read More](https://medium.com/p/707b44398165) |
 | Wed, 07 Jan 2026 03:29:11 GMT | How I mitigated bot attacks using Go, Nginx, and Cloudflare | Vedant Pandey | [Read More](https://medium.com/p/1dc45c218d3f) |
+| Wed, 07 Jan 2026 03:27:29 GMT | Automating HackerOne Scope Parsing with qsv for Bug Bounty Recon | Sam Hilliard | [Read More](https://medium.com/p/84bc770ed73c) |
 | Wed, 07 Jan 2026 03:16:57 GMT | What the WIRED Subscriber Leak Reveals About Modern Systems | Deven Chhajed | [Read More](https://medium.com/p/8d55e177bc7a) |
 | Wed, 07 Jan 2026 03:12:53 GMT | Hack Supreme Duelist Stickman | Apkpuredev | [Read More](https://medium.com/p/a775efede51a) |
 | Wed, 07 Jan 2026 03:08:44 GMT | 2560萬美元蒸發！從 Grok 裸照門看 Deepfake 滅頂災難 | p1x06u9 | [Read More](https://medium.com/p/30cd89255d02) |
@@ -99,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 06 Jan 2026 17:52:20 GMT | Why Many Cybersecurity Candidates Fail Interviews | Muhammad Kashif | [Read More](https://medium.com/p/0e819c8afd23) |
 | Tue, 06 Jan 2026 17:51:32 GMT | OSI Model: The backbone of the Network Communication | Sankalp Bansal | [Read More](https://medium.com/p/5daa8a699de9) |
 | Tue, 06 Jan 2026 17:44:58 GMT | Trump, NATO, and the Cost of Transactional Power | Dhruv Tripathi | [Read More](https://medium.com/p/def522cb1c36) |
-| Tue, 06 Jan 2026 17:42:10 GMT | The Internship Gap Nobody Warned Me About: A Cybersecurity Reality Check | Soumyadipta Birabar | [Read More](https://medium.com/p/a5eef08fc931) |
-| Tue, 06 Jan 2026 17:41:06 GMT | The Milliseconds That Exposed a Global Spy | Peter Sikabonyi | [Read More](https://medium.com/p/499a7b84bdd5) |
-| Tue, 06 Jan 2026 17:32:48 GMT | Kant’s Imperatives: Ethics and Compliance in the Digital Age | Brian Haman, PhD | [Read More](https://medium.com/p/dd8ff5c52731) |
-| Tue, 06 Jan 2026 17:30:40 GMT | React2Shell: When Perfect CVSS Scores Meet Messy Reality | Soumyadipta Birabar | [Read More](https://medium.com/p/53b08c77d9c7) |
-| Tue, 06 Jan 2026 17:30:26 GMT | Evaluating Google’s Acquisition of Wiz: A Case Study | Sanhith Reddy | [Read More](https://medium.com/p/ee6fe7fb57b5) |
-| Tue, 06 Jan 2026 17:26:38 GMT | The Future of Cybersecurity: Emerging Technologies, Evolving Threats, and Strategic Responses | Kay | [Read More](https://medium.com/p/1cfe4b1e5ad2) |
-| Tue, 06 Jan 2026 17:24:48 GMT | We Tried Bolting DAST onto a Pure Kanban Flow — Here’s the Honest Play-by-Play | Faisal haque | [Read More](https://medium.com/p/ef24ac20b1a8) |
-| Tue, 06 Jan 2026 17:22:57 GMT | Plan. Rehearse. Rehearse. Rehearse. Execute. | Mohan Thomas | [Read More](https://medium.com/p/a5c1965d4736) |
-| Tue, 06 Jan 2026 17:22:44 GMT | Anonymous | The Messy Middle | [Read More](https://medium.com/p/727a9f33e3f3) |
-| Tue, 06 Jan 2026 17:16:51 GMT | Meet Strix, the ‘Evil’ Open-Source AI Pentester That Tells the Truth | Andy Afrizal | [Read More](https://medium.com/p/4b25da13f993) |
-| Tue, 06 Jan 2026 17:12:41 GMT | pFo (preparingForOSCP) Series — 1 - kioptrixLv1 | Sarp A. A. | [Read More](https://medium.com/p/4d5a62978866) |
-| Tue, 06 Jan 2026 17:11:23 GMT | Infostealers Are Turning Legitimate Business Websites Into Malware Factories | Tech Intel | [Read More](https://medium.com/p/d9933e9ed123) |
-| Tue, 06 Jan 2026 17:09:56 GMT | The Strategic Palette: Driving UX Through Color Theory | Dhivy Ananth | [Read More](https://medium.com/p/f742357768b0) |
