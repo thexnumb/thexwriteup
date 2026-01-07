@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 07 Jan 2026 19:40:33 GMT | IP Addressing: How Devices Identify Each Other on the Internet | Vaishnavid | [Read More](https://medium.com/p/384903f0a0d6) |
+| Wed, 07 Jan 2026 19:40:29 GMT | n8n RCE 101: Analyzing CVE-2025–68613 | Lior Ben Moha | [Read More](https://medium.com/p/5c1be8b6dca6) |
+| Wed, 07 Jan 2026 19:38:04 GMT | Common OT Attacks: From Stuxnet to FrostyGoop | urjasec | [Read More](https://medium.com/p/8c5d5219c97c) |
+| Wed, 07 Jan 2026 19:35:20 GMT | Managing a Home Lab with Portainer, PiHole, and Nginx-Proxy (Part 2) — VPN Container Connection… | Josh Beck | [Read More](https://medium.com/p/1c011f20efbd) |
+| Wed, 07 Jan 2026 19:29:09 GMT | Unmasking the Ledger: A Comprehensive Guide to Graph Theory in Cryptocurrency Network Analysis | Satyam | [Read More](https://medium.com/p/bb73bfd3b3d1) |
+| Wed, 07 Jan 2026 19:20:50 GMT | My First TryHackMe Lab: An Introduction to Offensive Security | Grace Jaman | [Read More](https://medium.com/p/a3d429b723d1) |
+| Wed, 07 Jan 2026 19:20:37 GMT | How to Prove Something Actually Happened — The Epistemic Suite | Lauri Korpela | [Read More](https://medium.com/p/fd1081de62f0) |
+| Wed, 07 Jan 2026 19:15:09 GMT | Wordpress Has a Security Problem | CJ | [Read More](https://medium.com/p/76d9587bc7a8) |
+| Wed, 07 Jan 2026 19:12:48 GMT | This Open-Source Project Is Redefining How Cyber Risk Should Be Managed!! | cybrNK | [Read More](https://medium.com/p/bc62d525e49b) |
 | Wed, 07 Jan 2026 18:53:25 GMT | Looking Back at 2025’s Cybersecurity Landscape: Key Trends to Watch in 2026 | Costin Raiu | [Read More](https://medium.com/p/25d27a3b2b1c) |
 | Wed, 07 Jan 2026 18:51:02 GMT | Engineering Cryptography for the Post-Quantum Era | SOCFortress | [Read More](https://medium.com/p/4ec1fa50ab64) |
 | Wed, 07 Jan 2026 18:48:52 GMT | Network Security: Building Digital Fortresses in an Interconnected World | Faysal Ahmed | [Read More](https://medium.com/p/25e13a358f6e) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 14:31:51 GMT | La historia de YouAreAnIdiot, el virus en Adobe Flash que se convirtió en una broma pesada | Tiziano Mass | [Read More](https://medium.com/p/21effc9b92b4) |
 | Wed, 07 Jan 2026 14:28:45 GMT | Prompt Injection: Input-Based Security Vulnerabilities in Large Language Models | Irem Bezci | [Read More](https://medium.com/p/ee2c759644cc) |
 | Wed, 07 Jan 2026 14:20:44 GMT | Case File: 0x05 — Operation “Cold Steel” | The Knight | [Read More](https://medium.com/p/5d7b3ba0a78a) |
-| Wed, 07 Jan 2026 14:15:57 GMT | Post-Quantum Cryptography and the Quiet Redesign of Financial Trust | John V. Levonick | [Read More](https://medium.com/p/e2756e930e5f) |
-| Wed, 07 Jan 2026 14:11:11 GMT | Everything You Need to Become a Professional Manual Bug Bounty Hunter | CaptinSHArky(Mahdi) | [Read More](https://medium.com/p/45e67a9effe6) |
-| Wed, 07 Jan 2026 14:10:16 GMT | AIin Our Team as We Work on Design Thinking Approach | Paul James Crook | [Read More](https://medium.com/p/3d05e039ed60) |
-| Wed, 07 Jan 2026 14:09:09 GMT | WINDOWS UNIVERSAL FORWARDER | JahdiSec | [Read More](https://medium.com/p/a0e78f5bd495) |
-| Wed, 07 Jan 2026 14:08:53 GMT | Cloud Computing Isn’t Expensive Your Architecture Is | Mughira Ahmed | [Read More](https://medium.com/p/890f3078daf8) |
-| Wed, 07 Jan 2026 14:08:47 GMT | What is Cyber Attack ? | Bibesh pokharel | [Read More](https://medium.com/p/b2619a5ace6b) |
-| Wed, 07 Jan 2026 14:01:02 GMT | What PortSwigger’s LLM Lab 1 Taught Me About Excessive Agency in AI Systems | Antariksha Akhilesh Sharma | [Read More](https://medium.com/p/481628af171f) |
-| Wed, 07 Jan 2026 13:59:49 GMT | TryHackMe Writeup: Year of the Dog | Berkay AĞGÜL | [Read More](https://medium.com/p/cf1cf5662f26) |
-| Wed, 07 Jan 2026 13:58:56 GMT | HTB Usage : Mon expérience | Simon Maciag | [Read More](https://medium.com/p/af18a9f4bd5e) |
