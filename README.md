@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 23:22:21 GMT | # The $5 Wrench Problem: Why Your Encryption Doesn’t Protect You | Teycir | [Read More](https://medium.com/p/07fa36aebc1b) |
+| Thu, 08 Jan 2026 23:17:49 GMT | How to Install Findomain on Termux | BUG HUNTER NEWBIE INDONESIA | [Read More](https://medium.com/p/419a0da47b20) |
+| Thu, 08 Jan 2026 23:09:17 GMT | What Is a Vulnerability? A Practical Breakdown for a Digital World | Chris Hogan | [Read More](https://medium.com/p/bb7759fa47d2) |
 | Thu, 08 Jan 2026 23:03:48 GMT | When a USB Keyboard Becomes a Root Shell: A Walkthrough of the Exploit | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/76a99fe3ed93) |
 | Thu, 08 Jan 2026 23:02:25 GMT | The Future of Cybersecurity Includes Non-Human Employees | Cyber-AppSec | [Read More](https://medium.com/p/b53784489daa) |
 | Thu, 08 Jan 2026 22:51:46 GMT | New to Fiverr? Don’t fall for the “Click to Receive Order” Scam in your inbox. | Kavini Kushani | [Read More](https://medium.com/p/d3cc7882da56) |
@@ -113,6 +116,3 @@ Room: https://tryhackme.com/room/hydra | Hadeshuntx | [Read More](https://medium
 | Thu, 08 Jan 2026 15:41:12 GMT | 217,000+ VNC Attack Attempts Observed on a Public Honeypot in 10+ days | berke bodur | [Read More](https://medium.com/p/4e6be8f55487) |
 | Thu, 08 Jan 2026 15:40:43 GMT | How GRC Platforms Drastically Reduce Compliance Costs | CyRAACS | [Read More](https://medium.com/p/6ed6aaacd6f7) |
 | Thu, 08 Jan 2026 15:39:32 GMT | Infinity Learning lab: Function’s Backdoor Route — Writeup | Hubert | [Read More](https://medium.com/p/e0dad4748968) |
-| Thu, 08 Jan 2026 15:38:18 GMT | Public Wi-Fi Can Hack You Without Touching Your Phone | Aditya Kumar Singh | [Read More](https://medium.com/p/10d240e6b72d) |
-| Thu, 08 Jan 2026 15:37:11 GMT | Armed Security Guard Dallas | US guard security company | [Read More](https://medium.com/p/1096e3f4a63a) |
-| Thu, 08 Jan 2026 15:35:27 GMT | ArchaCTF_2026 - DDJ WY HACKER | !US3R | [Read More](https://medium.com/p/dafb3726992d) |
