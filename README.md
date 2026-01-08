@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 16:23:52 GMT | I Passed CompTIA Security+ (800/900) : What I Learned Beyond the Exam | Sayak Mukherjee | [Read More](https://medium.com/p/392ea5e861ab) |
+| Thu, 08 Jan 2026 16:22:18 GMT | Claimed Breach, Contested Reality | Decentr | [Read More](https://medium.com/p/5ea6a925f776) |
+| Thu, 08 Jan 2026 16:17:17 GMT | Ghost in the Pocket: The end of the cloud and the rise of sovereign AI | Sam.KL | [Read More](https://medium.com/p/203fad24d1fe) |
+| Thu, 08 Jan 2026 16:13:23 GMT | Jeffrey Cudicio: From the Manager’s Chair to the Applicant’s Chair: My 11-Year Reality Check | Jeffrey Cudicio | [Read More](https://medium.com/p/ed5679f370e4) |
+| Thu, 08 Jan 2026 16:12:06 GMT | Why Cybersecurity Belongs in Business Strategy | Digital Defense | [Read More](https://medium.com/p/37ff16263f21) |
+| Thu, 08 Jan 2026 16:11:51 GMT | PicoCTF: Obedient Cat | Levi Spellmeyer | [Read More](https://medium.com/p/9c4e7ccadb82) |
+| Thu, 08 Jan 2026 16:07:20 GMT | 20. I Thought Strength Meant Hiding My Struggles | Roj Ink | [Read More](https://medium.com/p/6dd9f688a56f) |
+| Thu, 08 Jan 2026 16:01:37 GMT | Network Security Fundamentals: Traffic Analysis & Hardening | Oluwadamilare Adeosun | [Read More](https://medium.com/p/efd60f9704e0) |
+| Thu, 08 Jan 2026 15:55:29 GMT | Comprehensive Open Redirect Methodology: From Discovery to Advanced Exploitation | N0aziXss | [Read More](https://medium.com/p/da0fc5a2bb67) |
+| Thu, 08 Jan 2026 15:49:52 GMT | 10 Android Security Settings You Should Enable in 2026 to Protect Your Data | Configr Technologies | [Read More](https://medium.com/p/6da62d1d6235) |
 | Thu, 08 Jan 2026 15:49:32 GMT | Day 5 — Revisiting Networking Fundamentals the Way Security Engineers Actually Use Them | NineTales | [Read More](https://medium.com/p/b75668255ca4) |
+| Thu, 08 Jan 2026 15:49:23 GMT | FICTION | Ekta Kamble | [Read More](https://medium.com/p/30082ed7e90e) |
 | Thu, 08 Jan 2026 15:47:02 GMT | [FORECAST] CoPhish: The Microsoft Copilot Link That Hands Over Your OAuth Tokens | Wes Young | [Read More](https://medium.com/p/8a2b159a378d) |
 | Thu, 08 Jan 2026 15:45:50 GMT | SecurityOnion — Installation on VMware [Home Lab] | DeshmukhVinit | [Read More](https://medium.com/p/61882d4f378f) |
 | Thu, 08 Jan 2026 15:43:20 GMT | CVE‑2026‑21858: “Ni8mare”: Unauthenticated RCE in n8n | gm0 | [Read More](https://medium.com/p/1433d28e436f) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 Jan 2026 11:15:10 GMT | AI Security Digest — Week 1, 2026 | Tal Eliyahu | [Read More](https://medium.com/p/dda459d01b0b) |
 | Thu, 08 Jan 2026 11:14:43 GMT | The AI Privacy Paradox: Why You Should Stop Renting a “Glass House” for Your Data | ServerMO | [Read More](https://medium.com/p/f98c707f57d6) |
 | Thu, 08 Jan 2026 11:12:50 GMT | Part 2 : Why Passwords Are Dying (And What’s Next) | Protégé IGDTUW | [Read More](https://medium.com/p/127dcdb9f8ad) |
-| Thu, 08 Jan 2026 11:02:48 GMT | 5 Ways MSSPs Can Win Clients in 2026 | ANY.RUN | [Read More](https://medium.com/p/f1c5956633f8) |
-| Thu, 08 Jan 2026 10:59:10 GMT | 7 january at fanatic. | lebord du chagrin | [Read More](https://medium.com/p/715f49821ede) |
-| Thu, 08 Jan 2026 10:56:20 GMT | Why Cloud Video Surveillance Is Becoming Essential for US Enterprises | VMukti Solutions | [Read More](https://medium.com/p/a9b8e6273708) |
-| Thu, 08 Jan 2026 10:55:48 GMT | Public Wi-Fi Security: Stay Safe While Using Free Internet | Manudybala | [Read More](https://medium.com/p/9c13b118053d) |
-| Thu, 08 Jan 2026 10:52:32 GMT | Ni8mare Vulnerability in n8n: Critical CVSS 10.0 Upgrade to 1.121.0 or Higher Immediately | Amit Shukla | [Read More](https://medium.com/p/255d74d77b8a) |
-| Thu, 08 Jan 2026 10:47:40 GMT | WPA Handshake Cracking — Breaking the Password Barrier | Nisarg Patel | [Read More](https://medium.com/p/1abc1d1eaa9a) |
-| Thu, 08 Jan 2026 10:33:54 GMT | Cyber Law Explained Simply : A Beginner’s Guide to Staying Safe Online | Chhavipreet Kaur | [Read More](https://medium.com/p/4b6de7011ecd) |
-| Thu, 08 Jan 2026 10:33:07 GMT | MQTT Security Is Broken: How Adaptive Honeypots Expose Real IIoT Attacks | Piyali | [Read More](https://medium.com/p/e1763d9502b4) |
-| Thu, 08 Jan 2026 10:11:18 GMT | When Search Results Become A Cybersecurity Risk | Gautam Mengle | [Read More](https://medium.com/p/0ec93d425cef) |
-| Thu, 08 Jan 2026 10:04:37 GMT | The OWASP Top 10 for Agentic AI: Complete Security Guide (2026) | Ana Bildea, PhD | [Read More](https://medium.com/p/9e36849f78ca) |
-| Thu, 08 Jan 2026 09:56:58 GMT | Best Ethical Hacking Training in Hindi 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/6b3eea7ef435) |
