@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 04:38:04 GMT | Only a Part | Martin Jakarta | [Read More](https://medium.com/p/14f7f74da4fe) |
+| Thu, 08 Jan 2026 04:09:46 GMT | The feeling of not knowing what to write, but the desire to write is there. | Chloe | [Read More](https://medium.com/p/e301910e70f4) |
+| Thu, 08 Jan 2026 04:05:13 GMT | JWT vs OAuth: Why Everyone Argues, and Almost Everyone Is Slightly Wrong | Dulaj Thiwanka | [Read More](https://medium.com/p/0f77469491ec) |
+| Thu, 08 Jan 2026 04:01:35 GMT | Penetration Testing Services: 7 Powerful Reasons They Protect Your Business From Hidden Cyber… | Maxatlasofficial | [Read More](https://medium.com/p/7c4f0157a8ab) |
+| Thu, 08 Jan 2026 03:56:54 GMT | Ni8mare: Unauthenticated RCE in n8n (CVE-2026–21858) | Praveen Malhan | [Read More](https://medium.com/p/ed8976ce716d) |
+| Thu, 08 Jan 2026 03:56:44 GMT | 7 Crypto Recovery Scams That Tricked Victims Twice (Real Cases & How to Avoid Them) | Knowledge Crypticles | [Read More](https://medium.com/p/815047171150) |
+| Thu, 08 Jan 2026 03:53:13 GMT | OWASP API Top 10 — Mass Assignment Explained Through a Practical Flask Lab | 0xMiawChan | [Read More](https://medium.com/p/d881aa73c9b2) |
+| Thu, 08 Jan 2026 03:52:37 GMT | Making Peace With My Useless Hobbies | HlameMastar | [Read More](https://medium.com/p/82dc4e654e04) |
+| Thu, 08 Jan 2026 03:32:47 GMT | The Truth Behind the Breach: How Windows Event Logs Expose Real-World Attacks | Deven Chhajed | [Read More](https://medium.com/p/9511c11057bb) |
 | Thu, 08 Jan 2026 03:32:44 GMT | Network and Communications Security Part 3: Core Defenses and Traffic Flows, Explained Simply | Manubhav Sharma | [Read More](https://medium.com/p/5589222c4f47) |
 | Thu, 08 Jan 2026 03:28:33 GMT | Why Spotify’s latest problem could change music forever | Abstract Mind | [Read More](https://medium.com/p/51eedbfa48db) |
 | Thu, 08 Jan 2026 03:25:36 GMT | Monitoring Guest Privacy — Our Short-Term Rental’s Camera Disclosure Statement | Thomas Pease | [Read More](https://medium.com/p/1c4763cd8fe6) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 17:57:04 GMT | CIA Triad | Soumya Sri | [Read More](https://medium.com/p/8a76b8407878) |
 | Wed, 07 Jan 2026 17:57:03 GMT | Understanding Common Cookie Attributes (With Simple Security Explanations) | Shayaan Khan | [Read More](https://medium.com/p/1572bd417783) |
 | Wed, 07 Jan 2026 17:55:53 GMT | Why Small Businesses Are the Most Overlooked Targets of Cyberwarfare? | Himanshu Chaudhary | [Read More](https://medium.com/p/09f6cf8078ac) |
-| Wed, 07 Jan 2026 17:54:28 GMT | Insider Threats Are Now the Fastest-Growing Cargo Theft Method, And Your “Verified” Carriers Might… | Heesham Naji | [Read More](https://medium.com/p/4026beb37d3a) |
-| Wed, 07 Jan 2026 17:46:47 GMT | Internal TryHackMe | Ankit Dhaka | [Read More](https://medium.com/p/714b0a7f9a3d) |
-| Wed, 07 Jan 2026 17:46:06 GMT | CourseCareers: Unlock Your Potential with Our Courses | Wifi Mochi | [Read More](https://medium.com/p/e442bc3719bc) |
-| Wed, 07 Jan 2026 17:43:39 GMT | The first major vulnerability in React Server Components isn’t just a bug; it’s a wake-up call for… | Webstack | [Read More](https://medium.com/p/62edc46ff4f9) |
-| Wed, 07 Jan 2026 17:42:33 GMT | Google Cloud Is Being Abused to Steal Microsoft 365 Credentials | Chetan Seripally | [Read More](https://medium.com/p/69b941160d63) |
-| Wed, 07 Jan 2026 17:41:18 GMT | Sysmon investigation walkthrough, using Event Viewer and PowerShell | Citadel Cybersec | [Read More](https://medium.com/p/c3315456efca) |
-| Wed, 07 Jan 2026 17:37:21 GMT | AI Didn’t Break Digital Products. We Designed Them to Fail. | Khushdeep Sharma | [Read More](https://medium.com/p/f48a0b6d0efc) |
-| Wed, 07 Jan 2026 17:35:11 GMT | WhatsApp Verification Code Phishing: Technical Breakdown of a Low-Effort, High-Impact Hack. | M. Thibaut | [Read More](https://medium.com/p/d2d12e03978c) |
-| Wed, 07 Jan 2026 17:24:22 GMT | “Bug Bounty Bootcamp #11: Hands-On HTTP — Using Proxy Tools to See, Intercept, and Weaponize Every… | Aman Sharma | [Read More](https://medium.com/p/121c1afb4bf5) |
