@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 21:17:11 GMT | Iran’s IPv6 Blackout: How a Country Can Quietly Disconnect the Modern Internet. | 1nf1n1ty | [Read More](https://medium.com/p/2ae840e6a538) |
+| Thu, 08 Jan 2026 21:04:37 GMT | Advanced Cryptographic Key Management | Esra Kayhan | [Read More](https://medium.com/p/400ee0d7af90) |
+| Thu, 08 Jan 2026 20:51:08 GMT | Password Policy Bypass: Missing Server-Side Validation | Sushil Ram | [Read More](https://medium.com/p/947e91c8390e) |
+| Thu, 08 Jan 2026 20:44:56 GMT | How Multi-Point Locking Systems Improve Window Security? | EcoTech Windows | [Read More](https://medium.com/p/db2c4c19cd15) |
+| Thu, 08 Jan 2026 20:36:31 GMT | Universal Formal Complaint I Did | Jon B | [Read More](https://medium.com/p/ae30a99ab8b6) |
 | Thu, 08 Jan 2026 20:18:53 GMT | Hackers aren’t your only threat. In 2026, Authorities are just as dangerous. | Routerfishers | [Read More](https://medium.com/p/bd62b837a116) |
 | Thu, 08 Jan 2026 20:08:20 GMT | FW-Backfiring: Why “Sending Attacks Back to the Source” Is a Bad Idea | Derek Johnston | [Read More](https://medium.com/p/664bc1f454f3) |
 | Thu, 08 Jan 2026 20:03:50 GMT | Anatomy of Failure: How One Click Destroys Years of Anonymity | Jayson Morale | [Read More](https://medium.com/p/50bc12e00b95) |
@@ -109,10 +114,5 @@ Room: https://tryhackme.com/room/hydra | Hadeshuntx | [Read More](https://medium
 | Thu, 08 Jan 2026 14:59:55 GMT | När systemen börjar agera | Anders Carlius | [Read More](https://medium.com/p/70cc4f8ffbbc) |
 | Thu, 08 Jan 2026 14:59:53 GMT | Authentication Bypass, Command Injection Vulnerability, and Race Condition in GL.iNet | Aleksa Zatezalo | [Read More](https://medium.com/p/e6d67d81ee51) |
 | Thu, 08 Jan 2026 14:56:56 GMT | How Much Does the Cybersecurity Services Cost?(2026 Updated Guide by AI4IT Services LLC) | Ai4it Services LLC | [Read More](https://medium.com/p/308a3ff5f2f1) |
+| Thu, 08 Jan 2026 14:51:06 GMT | Trust Wallet, Port3, Gana Payment: $10.3M | Olympix | [Read More](https://medium.com/p/5eb94e0cacbb) |
 | Thu, 08 Jan 2026 14:50:15 GMT | TryHackMe Smol Room / WordPress Penetration Testing | Md. Raihan | [Read More](https://medium.com/p/71475cb64506) |
-| Thu, 08 Jan 2026 14:42:53 GMT | “Mother’s Retirement Home: Son’s Villa Dream Forces a Mother to Secure Her Future” | kate spider | [Read More](https://medium.com/p/1e84a7ee904b) |
-| Thu, 08 Jan 2026 14:42:38 GMT | The AI Bubble: A Tech Revolution or a Financial Time Bomb? | Joe | [Read More](https://medium.com/p/3dba2798ec6c) |
-| Thu, 08 Jan 2026 14:40:48 GMT | Cyber Security: Threats, Vulnerabilities & Countermeasures | Fiza saleem | [Read More](https://medium.com/p/69d9c270861a) |
-| Thu, 08 Jan 2026 14:37:46 GMT | Logic Flaw to Race Condition to Four Digit Bounty | PARADOX | [Read More](https://medium.com/p/34bef38493a3) |
-| Thu, 08 Jan 2026 14:35:38 GMT | What Breaks When You Apply Cloud Security Concepts to Industrial Environments | Maxi | [Read More](https://medium.com/p/69cd5de95925) |
-| Thu, 08 Jan 2026 14:34:14 GMT | HexStrike + Cursor (MCP): From Single Target → Full Subnet Compromise (Lab PT Walkthrough) | Andrey Pautov | [Read More](https://medium.com/p/f2e1fd793ad7) |
