@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 08:20:23 GMT | GITHUB STUDENT PACK — A TICKET TO STARTING YOUR JOURNEY IN CYBERSECURITY 2026 | Joanorifha | [Read More](https://medium.com/p/fd06d803719c) |
+| Thu, 08 Jan 2026 08:18:21 GMT | Beyond Testing to Continuity: My Transition from QA Lead to Manager Application Support. | Abhinav Acharya | [Read More](https://medium.com/p/af4a82511705) |
+| Thu, 08 Jan 2026 08:17:21 GMT | Compliance Shouldn’t Be a Fire Drill: A Guide to Automated SIEM Engineering | Gwen | [Read More](https://medium.com/p/7d684431c402) |
+| Thu, 08 Jan 2026 08:07:37 GMT | Hay Day Mod APK | GOCMOD | [Read More](https://medium.com/p/13bde4bec1e7) |
+| Thu, 08 Jan 2026 08:02:50 GMT | Building a Multi-Layered Cybersecurity Home Lab: A Deep Dive into Suricata & Wazuh | T A N I S H | [Read More](https://medium.com/p/2435de66b30b) |
+| Thu, 08 Jan 2026 07:58:00 GMT | OAuth 2.0 Device Authorization Grant | Florian Röser | [Read More](https://medium.com/p/e7f4a026f0eb) |
+| Thu, 08 Jan 2026 07:52:55 GMT | AWhat Working With Azure Taught Me About Real-World Security By Yusha Kahn | Yusha_kahn | [Read More](https://medium.com/p/6efad5865bbc) |
+| Thu, 08 Jan 2026 07:49:43 GMT | My PJPT exam experience 2026 | Gothos | [Read More](https://medium.com/p/cd23a36ced95) |
+| Thu, 08 Jan 2026 07:49:41 GMT | From Fear to Freedom: My Dance with the Unknown | Ana D. | [Read More](https://medium.com/p/8481391b4f17) |
+| Thu, 08 Jan 2026 07:48:46 GMT | Antivirus for Windows That Simplifies Security for Everyone | Siyanoav | [Read More](https://medium.com/p/cc946c867aa8) |
+| Thu, 08 Jan 2026 07:46:43 GMT | I Thought XSS Was Easy…Until Nothing Worked | Namya | [Read More](https://medium.com/p/1188c949b358) |
+| Thu, 08 Jan 2026 07:45:56 GMT | CryptoCurrency Security Standard (CCSS): They made a playbook to secure your crypto? | Aniruddha Dhumal | [Read More](https://medium.com/p/25c3db61f5e9) |
 | Thu, 08 Jan 2026 07:43:44 GMT | 2025 TryHackMe Precap: How 212 Days of Hacking Rewired My Thinking | Pronoy Chandra Day | [Read More](https://medium.com/p/f283c04613fb) |
 | Thu, 08 Jan 2026 07:37:38 GMT | Complete Online Artificial Intelligence Course for Beginners to Advanced | cyber security Updates | [Read More](https://medium.com/p/4260af0c00e1) |
 | Thu, 08 Jan 2026 07:32:45 GMT | 7 Risks “AI + Token” Teams Are Underestimating | Quellin | [Read More](https://medium.com/p/65e7ed5cad5c) |
@@ -59,6 +71,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 Jan 2026 04:33:01 GMT | 10 Hard-Won Lessons Web3 Earned the Hard Way | Duckweave | [Read More](https://medium.com/p/ff10368851c9) |
 | Thu, 08 Jan 2026 04:32:51 GMT | When AI Becomes an Actor, Not a Typist | Hash Block | [Read More](https://medium.com/p/8ae5b669274b) |
 | Thu, 08 Jan 2026 04:32:42 GMT | The “Blind Sniper” Attack: Spamming Thousands of Users Without Knowing Their Email Addresses | Zer0Figure | [Read More](https://medium.com/p/4d62ac327410) |
+| Thu, 08 Jan 2026 04:22:22 GMT | Saat Sistem Tumbang: Panduan Strategis Menangani Major Incident di Ruang Perang IT | Zaskia Maharani Puspita Dewi | [Read More](https://medium.com/p/74f76c32f4e4) |
 | Thu, 08 Jan 2026 04:09:46 GMT | The feeling of not knowing what to write, but the desire to write is there. | Chloe | [Read More](https://medium.com/p/e301910e70f4) |
 | Thu, 08 Jan 2026 04:05:13 GMT | JWT vs OAuth: Why Everyone Argues, and Almost Everyone Is Slightly Wrong | Dulaj Thiwanka | [Read More](https://medium.com/p/0f77469491ec) |
 | Thu, 08 Jan 2026 04:01:35 GMT | Penetration Testing Services: 7 Powerful Reasons They Protect Your Business From Hidden Cyber… | Maxatlasofficial | [Read More](https://medium.com/p/7c4f0157a8ab) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 23:59:46 GMT | That One Glorifying Trait… | Vibha vikas | [Read More](https://medium.com/p/363f2e5daf81) |
 | Wed, 07 Jan 2026 23:58:46 GMT | Technical Debt Is Not a Code Problem. It’s a Business Drag. | Nikolay Gekht | [Read More](https://medium.com/p/8e3475e71d55) |
 | Wed, 07 Jan 2026 23:57:11 GMT | How I Would Build a Video System That Actually Helps People | Siddhesh Jadhav | [Read More](https://medium.com/p/890927d986cf) |
-| Wed, 07 Jan 2026 23:30:25 GMT | Why AI QA Engineers Are Replacing Traditional Testing Teams in 2026 | Marcus Avangard | [Read More](https://medium.com/p/773db3e4131a) |
-| Wed, 07 Jan 2026 23:26:19 GMT | Rethinking Policies and Permissions in IoT Security with Blockchain | Mohsin Khan | [Read More](https://medium.com/p/4ca1fd83b58c) |
-| Wed, 07 Jan 2026 23:13:42 GMT | I Passed FinOps Practitioner. These Are the Notes That Actually Matter. | Kamil Ousta | [Read More](https://medium.com/p/78b6cc5dfe6d) |
-| Wed, 07 Jan 2026 23:11:14 GMT | CISSP Domain 4 Mastery Series - Part 3: Network Cables, Transmission Media & IPSec | Pushpak Sharma | [Read More](https://medium.com/p/06b3839e5f6e) |
-| Wed, 07 Jan 2026 23:06:25 GMT | * "My First Step on Medium: Discovering Writing" | Michaël AGBOWOU | [Read More](https://medium.com/p/e73afa2aab11) |
-| Wed, 07 Jan 2026 23:04:57 GMT | Logic Has Words for Everything…. | The_Ifeoluwa_Joshua | [Read More](https://medium.com/p/c060334bcafa) |
-| Wed, 07 Jan 2026 22:55:03 GMT | "MY FIRST STEP ON MEDIUM: DISCOVERING WRITING" | Michaël AGBOWOU | [Read More](https://medium.com/p/2209b97550e7) |
-| Wed, 07 Jan 2026 22:42:44 GMT | How IT Management Services in Fontana Support Cyber Insurance Readiness | Zeta Sky | [Read More](https://medium.com/p/f1302fe3ad1c) |
-| Wed, 07 Jan 2026 22:40:15 GMT | 代碼裡的「內鬼」：拆解 Lotusbail 假冒 WhatsApp API 事件，與我們脆弱不堪的 NPM 供應鏈 | p1x06u9 | [Read More](https://medium.com/p/fe6ab9c6c4f8) |
-| Wed, 07 Jan 2026 22:33:50 GMT | Just do it | Agustina Falero | [Read More](https://medium.com/p/6c50766a8fd1) |
-| Wed, 07 Jan 2026 22:32:16 GMT | Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users | Cyber-AppSec | [Read More](https://medium.com/p/d4618a34df17) |
-| Wed, 07 Jan 2026 22:30:20 GMT | VaMPI- API Penetration Test Report (Week 1) | Stella Obatoye | [Read More](https://medium.com/p/30d2bac926b6) |
-| Wed, 07 Jan 2026 22:15:19 GMT | Passkeys vs Passwords: How to Switch to Safer Passwordless Login (2026 Guide) | QuarkAndCode | [Read More](https://medium.com/p/69c6f13c21aa) |
