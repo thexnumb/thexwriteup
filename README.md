@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 14:22:04 GMT | Image XSS ATTACK on Exif.tools - Hacking exif.tools via image injection by CYBER KALKI #Livepoc | ElonMuskTheAntichrist | [Read More](https://medium.com/p/250f19afa866) |
+| Thu, 08 Jan 2026 14:14:39 GMT | Privacy in 2026: Why It Matters More Than Ever | Infinity Matrix | [Read More](https://medium.com/p/cf2a1c73df15) |
+| Thu, 08 Jan 2026 14:06:29 GMT | Akamai WAF Bypass: Escalating SSRF into Internal Port Scanning | toast | [Read More](https://medium.com/p/fc78402f94e7) |
+| Thu, 08 Jan 2026 14:05:29 GMT | The Silent Failure of Real SOCs When Feeding External Telemetry into CrowdStrike | Pablo Echeverria | [Read More](https://medium.com/p/f966d8e72c82) |
+| Thu, 08 Jan 2026 14:02:54 GMT | The best cybersecurity stories of 2025 | Costin Raiu | [Read More](https://medium.com/p/13e111bf358a) |
+| Thu, 08 Jan 2026 14:02:50 GMT | Digital Travel App TripBFF Exposed Location Data Way Too Accurately | Jonathan Leitschuh | [Read More](https://medium.com/p/524cd0792a7d) |
+| Thu, 08 Jan 2026 13:58:53 GMT | Cybersecurity in 2026: How Businesses Must Adapt to an AI-Driven Threat Landscape | Techridge Solutions | [Read More](https://medium.com/p/773a36ea1605) |
+| Thu, 08 Jan 2026 13:57:31 GMT | When One Transaction Runs Twice: How Drosera Stops Cloning Attacks | 0x_taohid | [Read More](https://medium.com/p/619fffcf1725) |
+| Thu, 08 Jan 2026 13:50:12 GMT | Stolen Data Can Now Be Used to Break AI Models on Purpose | Chetan Seripally | [Read More](https://medium.com/p/b1c0663bc227) |
+| Thu, 08 Jan 2026 13:46:28 GMT | Why Top Mobile Performing Testing Services Matter Before Your App Goes Live | Achana prashanth | [Read More](https://medium.com/p/e755ca57e929) |
+| Thu, 08 Jan 2026 13:37:48 GMT | My Next Step into Bharat Electronics Limited (BEL)— Big Lessons in Cybersecurity | Tech Researcher | [Read More](https://medium.com/p/a87c2b798b78) |
 | Thu, 08 Jan 2026 13:31:15 GMT | Automating SQL Injection with sqlmap A Practical Guide | Purushotham.R | [Read More](https://medium.com/p/c22df8e5d593) |
 | Thu, 08 Jan 2026 13:29:54 GMT | Hardening CSP the OWASP Way: | th3.d1p4k | [Read More](https://medium.com/p/2c710856e029) |
 | Thu, 08 Jan 2026 13:24:27 GMT | Why Your Power Plant’s AI Might Be Lying to You (And How to Catch It) | KrishKuchroo | [Read More](https://medium.com/p/ec388a6db72c) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 Jan 2026 07:30:02 GMT | 5 Pillars of Information Security Explained Through Architecture-Driven Learning | Satender Kumar | [Read More](https://medium.com/p/80636a4a9685) |
 | Thu, 08 Jan 2026 07:29:51 GMT | What is IDS (Intrusion Detection System), and how does it protect networks? | Trust Consulting Services | [Read More](https://medium.com/p/7218ae2127d4) |
 | Thu, 08 Jan 2026 07:29:50 GMT | ประจำวันพฤหัสบดีที่ 8 มกราคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/4a980722410e) |
-| Thu, 08 Jan 2026 07:24:54 GMT | Smarter Managed IT Support Sydney Teams Rely On | Any network | [Read More](https://medium.com/p/5c6107d959e6) |
-| Thu, 08 Jan 2026 07:21:07 GMT | Critical n8n Security Vulnerability (CVE-2026–21858) Demands Immediate Action | Dhanush N | [Read More](https://medium.com/p/c4bd95b5d93c) |
-| Thu, 08 Jan 2026 07:20:41 GMT | You Should Do Something Really, Really Hard This Year | Vijay Kumar Gupta | [Read More](https://medium.com/p/0524d58aa45f) |
-| Thu, 08 Jan 2026 07:15:17 GMT | DAY 2: Subnet Mask & Binary Basics — My Understanding So Far (TCM Course) | Mohammad-AL-Momani | [Read More](https://medium.com/p/66f43e252da7) |
-| Thu, 08 Jan 2026 07:10:27 GMT | Spring Boot Security with JWT — Production-Ready Setup (No Theory) | Gain Java Knowledge | [Read More](https://medium.com/p/b1031125a680) |
-| Thu, 08 Jan 2026 07:10:04 GMT | Is WhatsApp Really End-to-End Encrypted — Or Just a Marketing Claim? | Ankit rai | [Read More](https://medium.com/p/878eefb17740) |
-| Thu, 08 Jan 2026 07:09:51 GMT | Password Generator Words: Your Ultimate Guide to Secure Passphrases | Sandeep Sharma | [Read More](https://medium.com/p/6c15aeb4f3f7) |
-| Thu, 08 Jan 2026 07:09:24 GMT | T pros up at night. | Very Lazy Tech | [Read More](https://medium.com/p/f1aa0af9aec5) |
-| Thu, 08 Jan 2026 07:06:22 GMT | I Tested Multiple Password Generators — Most Are Unsafe, Here’s What Actually Works | Sandeep Sharma | [Read More](https://medium.com/p/ad179dc6e1c1) |
-| Thu, 08 Jan 2026 07:03:37 GMT | DIY Rubber Ducky: Generic USB Flash Drive | Allen Ace | [Read More](https://medium.com/p/391ad84476cb) |
-| Thu, 08 Jan 2026 06:59:29 GMT | Analyzing a Legacy VNC Authentication Weakness in a Controlled Lab Environment | Tejas Kamble | [Read More](https://medium.com/p/c0b45fad41ab) |
