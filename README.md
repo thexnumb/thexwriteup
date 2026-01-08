@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 22:18:32 GMT | You Asked, We Answered: Everything About Cyber Resilience Navigator | Fook Hwa Tan | [Read More](https://medium.com/p/2ffbb959aca6) |
+| Thu, 08 Jan 2026 22:17:07 GMT | It’s Here: Cyber Resilience Navigator Is Now Live | Fook Hwa Tan | [Read More](https://medium.com/p/4af28fa9bc24) |
+| Thu, 08 Jan 2026 22:09:19 GMT | End-to-End RMF Lifecycle. The ISSO Role at Each Phase | Babux | [Read More](https://medium.com/p/f751646a63c3) |
+| Thu, 08 Jan 2026 22:07:18 GMT | Evasive Remote Memory Write | S12 - 0x12Dark Development | [Read More](https://medium.com/p/22e6ddc89517) |
+| Thu, 08 Jan 2026 21:57:49 GMT | CORS Explained Without Pain | Stoic Engineer | [Read More](https://medium.com/p/59aceb743ba7) |
+| Thu, 08 Jan 2026 21:57:36 GMT | I Built a Digital Forensics Toolkit in Python So You Don’t Have To Guess | Samuel Selasi | [Read More](https://medium.com/p/2e2379539fc2) |
+| Thu, 08 Jan 2026 21:57:31 GMT | Mr. Robot CTF | Edasu ŞENTÜRK | [Read More](https://medium.com/p/fd3c19745ac1) |
+| Thu, 08 Jan 2026 21:49:46 GMT | The Death of the Ticket: How AI is Redefining Security Engineering for SMBs | Alex Farhadi | [Read More](https://medium.com/p/f88e188093d4) |
 | Thu, 08 Jan 2026 21:17:11 GMT | Iran’s IPv6 Blackout: How a Country Can Quietly Disconnect the Modern Internet. | 1nf1n1ty | [Read More](https://medium.com/p/2ae840e6a538) |
 | Thu, 08 Jan 2026 21:04:37 GMT | Advanced Cryptographic Key Management | Esra Kayhan | [Read More](https://medium.com/p/400ee0d7af90) |
 | Thu, 08 Jan 2026 20:51:08 GMT | Password Policy Bypass: Missing Server-Side Validation | Sushil Ram | [Read More](https://medium.com/p/947e91c8390e) |
@@ -108,11 +116,3 @@ Room: https://tryhackme.com/room/hydra | Hadeshuntx | [Read More](https://medium
 | Thu, 08 Jan 2026 15:19:54 GMT | OWASP Top 10:2025 — A Complete Guide for Developers | Aman verma | [Read More](https://medium.com/p/2d44fa1dadd8) |
 | Thu, 08 Jan 2026 15:16:08 GMT | I Found a P2 Bug on a Live Target Using a CTF Trick—You Won’t Believe This. | Rajankumarbarik | [Read More](https://medium.com/p/105f8f807373) |
 | Thu, 08 Jan 2026 15:02:58 GMT | Cyber Briefing: 2026.01.08 | CyberMaterial | [Read More](https://medium.com/p/138943f8b093) |
-| Thu, 08 Jan 2026 15:02:57 GMT | The Dark Side of WebGPU Nobody Is Talking About | Bhavyansh | [Read More](https://medium.com/p/28e2903234da) |
-| Thu, 08 Jan 2026 15:00:47 GMT | After the Warnings: Is Europe Ready for the Asymmetric Cyber Conflict It Is Already In? | Abatis ABTU | [Read More](https://medium.com/p/0aa13ad2e3ca) |
-| Thu, 08 Jan 2026 15:00:05 GMT | Critical Authentication Bypass Vulnerability in GL.iNet GL-AXT1800 Router Firmware | Aleksa Zatezalo | [Read More](https://medium.com/p/f19442ca721d) |
-| Thu, 08 Jan 2026 14:59:55 GMT | När systemen börjar agera | Anders Carlius | [Read More](https://medium.com/p/70cc4f8ffbbc) |
-| Thu, 08 Jan 2026 14:59:53 GMT | Authentication Bypass, Command Injection Vulnerability, and Race Condition in GL.iNet | Aleksa Zatezalo | [Read More](https://medium.com/p/e6d67d81ee51) |
-| Thu, 08 Jan 2026 14:56:56 GMT | How Much Does the Cybersecurity Services Cost?(2026 Updated Guide by AI4IT Services LLC) | Ai4it Services LLC | [Read More](https://medium.com/p/308a3ff5f2f1) |
-| Thu, 08 Jan 2026 14:51:06 GMT | Trust Wallet, Port3, Gana Payment: $10.3M | Olympix | [Read More](https://medium.com/p/5eb94e0cacbb) |
-| Thu, 08 Jan 2026 14:50:15 GMT | TryHackMe Smol Room / WordPress Penetration Testing | Md. Raihan | [Read More](https://medium.com/p/71475cb64506) |
