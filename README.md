@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 07:43:44 GMT | 2025 TryHackMe Precap: How 212 Days of Hacking Rewired My Thinking | Pronoy Chandra Day | [Read More](https://medium.com/p/f283c04613fb) |
+| Thu, 08 Jan 2026 07:37:38 GMT | Complete Online Artificial Intelligence Course for Beginners to Advanced | cyber security Updates | [Read More](https://medium.com/p/4260af0c00e1) |
+| Thu, 08 Jan 2026 07:32:45 GMT | 7 Risks “AI + Token” Teams Are Underestimating | Quellin | [Read More](https://medium.com/p/65e7ed5cad5c) |
+| Thu, 08 Jan 2026 07:31:53 GMT | How a Simple DMARC Check Can Save Your Domain from Being Weaponized | Everywebtool | [Read More](https://medium.com/p/25c37f3bfd76) |
+| Thu, 08 Jan 2026 07:30:02 GMT | 5 Pillars of Information Security Explained Through Architecture-Driven Learning | Satender Kumar | [Read More](https://medium.com/p/80636a4a9685) |
+| Thu, 08 Jan 2026 07:29:51 GMT | What is IDS (Intrusion Detection System), and how does it protect networks? | Trust Consulting Services | [Read More](https://medium.com/p/7218ae2127d4) |
+| Thu, 08 Jan 2026 07:29:50 GMT | ประจำวันพฤหัสบดีที่ 8 มกราคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/4a980722410e) |
+| Thu, 08 Jan 2026 07:24:54 GMT | Smarter Managed IT Support Sydney Teams Rely On | Any network | [Read More](https://medium.com/p/5c6107d959e6) |
+| Thu, 08 Jan 2026 07:21:07 GMT | Critical n8n Security Vulnerability (CVE-2026–21858) Demands Immediate Action | Dhanush N | [Read More](https://medium.com/p/c4bd95b5d93c) |
+| Thu, 08 Jan 2026 07:20:41 GMT | You Should Do Something Really, Really Hard This Year | Vijay Kumar Gupta | [Read More](https://medium.com/p/0524d58aa45f) |
 | Thu, 08 Jan 2026 07:15:17 GMT | DAY 2: Subnet Mask & Binary Basics — My Understanding So Far (TCM Course) | Mohammad-AL-Momani | [Read More](https://medium.com/p/66f43e252da7) |
 | Thu, 08 Jan 2026 07:10:27 GMT | Spring Boot Security with JWT — Production-Ready Setup (No Theory) | Gain Java Knowledge | [Read More](https://medium.com/p/b1031125a680) |
 | Thu, 08 Jan 2026 07:10:04 GMT | Is WhatsApp Really End-to-End Encrypted — Or Just a Marketing Claim? | Ankit rai | [Read More](https://medium.com/p/878eefb17740) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 22:32:16 GMT | Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users | Cyber-AppSec | [Read More](https://medium.com/p/d4618a34df17) |
 | Wed, 07 Jan 2026 22:30:20 GMT | VaMPI- API Penetration Test Report (Week 1) | Stella Obatoye | [Read More](https://medium.com/p/30d2bac926b6) |
 | Wed, 07 Jan 2026 22:15:19 GMT | Passkeys vs Passwords: How to Switch to Safer Passwordless Login (2026 Guide) | QuarkAndCode | [Read More](https://medium.com/p/69c6f13c21aa) |
-| Wed, 07 Jan 2026 22:08:44 GMT | The Impact of 5G and High-Speed Internet on Pakistan’s Call Center Sector | J Telemarketing | [Read More](https://medium.com/p/3c46cc5c87e0) |
-| Wed, 07 Jan 2026 22:08:16 GMT | Here’s What You’ll Learn If You Join Us for Launch Week | Fook Hwa Tan | [Read More](https://medium.com/p/ee13f6f58a5e) |
-| Wed, 07 Jan 2026 22:07:14 GMT | I’ve Been Quietly Working on Something… Here’s a Hint | Fook Hwa Tan | [Read More](https://medium.com/p/0d74a28cbb63) |
-| Wed, 07 Jan 2026 22:05:24 GMT | Teaching AI to Think Like a Cybersecurity Expert | Berend Watchus | [Read More](https://medium.com/p/abfd61715abc) |
-| Wed, 07 Jan 2026 21:49:30 GMT | Zero-Click Hacks: The Invisible Threat Already in Your Pocket | K_Anik | [Read More](https://medium.com/p/9e7094fd8982) |
-| Wed, 07 Jan 2026 21:11:48 GMT | My Journey Into Cybersecurity: Learning SOC Fundamentals as a Beginner | GRACE MAKINDE | [Read More](https://medium.com/p/47bfd3262fca) |
-| Wed, 07 Jan 2026 21:05:52 GMT | Understanding CVE-2026–21877: Critical RCE Flaw in n8n and What It Means for Your Automation Stack | Khaleel Khan | [Read More](https://medium.com/p/86df08a46e05) |
-| Wed, 07 Jan 2026 20:51:07 GMT | Wonderland Walkthrough — A Curious Journey from Rabbit Holes to Root | IshhIshneet | [Read More](https://medium.com/p/7e00d24075b3) |
-| Wed, 07 Jan 2026 20:43:07 GMT | Zero Trust 2.0: Combating Deepfakes | Valdez Ladd | [Read More](https://medium.com/p/d1ddab27939c) |
-| Wed, 07 Jan 2026 20:31:17 GMT | Runtime Governance 101: The Critical Role of Runtime Governance in Securing Agentic AI | Rampart AI™ | [Read More](https://medium.com/p/1588bd1ae2bb) |
