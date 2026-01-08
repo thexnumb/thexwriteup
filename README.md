@@ -12,7 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 12:45:03 GMT | A Deep Dive into OSI Model Attack Vectors | Cyber Phantom | [Read More](https://medium.com/p/5f03f455dfbd) |
+| Thu, 08 Jan 2026 12:40:22 GMT | Securing the Stochastic : A Field Guide to the OWASP LLM Top 10 | Harsh Kahate | [Read More](https://medium.com/p/6419e2c5a974) |
+| Thu, 08 Jan 2026 12:38:53 GMT | Best Components of Data Security NHS: Step-by-Step Guide | Mariaharger | [Read More](https://medium.com/p/d0577b79f101) |
+| Thu, 08 Jan 2026 12:37:46 GMT | Session Hijacking Explained: How Hackers Take Over Accounts Without Passwords(CEH Perspective) | Cyber Wolf | [Read More](https://medium.com/p/482cd594b400) |
+| Thu, 08 Jan 2026 12:36:38 GMT | Use-After-Free, ASLR Bypass, and a Practical Binary Exploitation CTF | tganga36 | [Read More](https://medium.com/p/9b20af1f864f) |
+| Thu, 08 Jan 2026 12:34:02 GMT | PostgreSQL Roles and Permissions Explained | Mohit sharma | [Read More](https://medium.com/p/4a98794eb263) |
+| Thu, 08 Jan 2026 12:30:23 GMT | Threat Analysis: Deconstructing a Cloudflare-Tunneled PowerShell RAT | Kiama Kareithi | [Read More](https://medium.com/p/1551d22a7a74) |
+| Thu, 08 Jan 2026 12:26:40 GMT | Security 101: Building Secure Software from the Ground Up | Kunal Sinha | [Read More](https://medium.com/p/ff27cd803e7b) |
+| Thu, 08 Jan 2026 12:25:13 GMT | 2025: The Year Cybersecurity Became a Platform Play | Thomas Patterson | [Read More](https://medium.com/p/5bdcdc7586cd) |
+| Thu, 08 Jan 2026 12:24:29 GMT | What Is a 24/7 Managed SOC and Why Your Business Needs One | Eventus Security Private Limited | [Read More](https://medium.com/p/c3b09d0a2c51) |
+| Thu, 08 Jan 2026 12:14:33 GMT | Why Full-Color Night Vision is the New Standard in Security: A Deep Dive into Dahua’s 2449 Series | Tavan CCTV | [Read More](https://medium.com/p/60def195dcd4) |
+| Thu, 08 Jan 2026 12:14:14 GMT | When Digital Wealth Meets Physical Violence: What Switzerland Must Understand | 0NE - C L A V I | [Read More](https://medium.com/p/87b8d22898d8) |
+| Thu, 08 Jan 2026 12:10:20 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/9b5b05cee78e) |
+| Thu, 08 Jan 2026 12:06:28 GMT | A Day That Changed How I See Web Security | Omkar Joshi | [Read More](https://medium.com/p/38e260458967) |
+| Thu, 08 Jan 2026 12:02:49 GMT | How Your Cross-Platform Identity Betrays You | Ingvar Pavlovich | [Read More](https://medium.com/p/94854530aae3) |
+| Thu, 08 Jan 2026 12:02:49 GMT | Understanding CWE-315: Cleartext Storage of Sensitive Information in a Cookie | Walter Moar | [Read More](https://medium.com/p/22af98e92497) |
+| Thu, 08 Jan 2026 11:57:32 GMT | 50+ AI Security Interview Questions & Answers for 2026 | Practical DevSecOps | [Read More](https://medium.com/p/482ca509b04f) |
+| Thu, 08 Jan 2026 11:51:26 GMT | Zigbee Security Deep Dive: An IoT Pentester’s Perspective | eSecForte Technologies | [Read More](https://medium.com/p/e29f26ad7041) |
+| Thu, 08 Jan 2026 11:48:49 GMT | Infinity Learning lab — On-Premise-22: CrushFTP Walk-through | 4b3in_ | [Read More](https://medium.com/p/6db07aaffb77) |
+| Thu, 08 Jan 2026 11:46:17 GMT | 8kSec — Ultimate AI Essay Grader Writeup | L0WK3Y | [Read More](https://medium.com/p/111846a77280) |
+| Thu, 08 Jan 2026 11:43:09 GMT | GDPR is necessary, ISO 27001 is what makes security real | Albert Minguell | [Read More](https://medium.com/p/b2800cb7788c) |
 | Thu, 08 Jan 2026 11:35:37 GMT | 4 Practices Every Developer Should Follow to Improve Application Security | SeQEW | [Read More](https://medium.com/p/28ed20b19bcf) |
+| Thu, 08 Jan 2026 11:34:05 GMT | Installing CCTV in Dubai? This Mistake Can Cost You Big | Abhilashtec | [Read More](https://medium.com/p/da997ba389a0) |
 | Thu, 08 Jan 2026 11:22:06 GMT | How Organizations Can Successfully Pass Cybersecurity Audits | Rahman Iqbal | [Read More](https://medium.com/p/bad2c17d897b) |
 | Thu, 08 Jan 2026 11:16:23 GMT | Elasticsearch-9200!! | Rela Lumbini | [Read More](https://medium.com/p/81754fceb810) |
 | Thu, 08 Jan 2026 11:15:10 GMT | AI Security Digest — Week 1, 2026 | Tal Eliyahu | [Read More](https://medium.com/p/dda459d01b0b) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 Jan 2026 05:51:49 GMT | Nmap Demonstration using Metasploitable2 | Ankit M | [Read More](https://medium.com/p/7c4243c9abeb) |
 | Thu, 08 Jan 2026 05:38:18 GMT | Secure Network Architecture — Writeup | Mahir | [Read More](https://medium.com/p/3375d4cd02d6) |
 | Thu, 08 Jan 2026 05:21:58 GMT | Cybersecurity Awareness Training: Why Every Employee Needs It in 2026 | Elearning serv | [Read More](https://medium.com/p/6e0680292883) |
-| Thu, 08 Jan 2026 05:20:49 GMT | Custom UPX Trojan TH! | Aufa Rifqi | [Read More](https://medium.com/p/5a755c2b2855) |
-| Thu, 08 Jan 2026 05:16:10 GMT | Designing Cloud Security on Purpose | Nichelle Fields | [Read More](https://medium.com/p/191f2c7f83ad) |
-| Thu, 08 Jan 2026 05:13:19 GMT | Microsoft 365 E3 vs E5 DLP: What Actually Changes in Real Life | Suraj Kumar | [Read More](https://medium.com/p/d0aaf809a62c) |
-| Thu, 08 Jan 2026 05:13:07 GMT | Is Threat Exposure Management Replacing Traditional Vulnerability Management? | Lakshita Gulliya | [Read More](https://medium.com/p/038409528b28) |
-| Thu, 08 Jan 2026 05:09:29 GMT | The Life of a Bug: From “It Works on My Machine” to the Myth of Zero-Bugs | Sashini Ishara | [Read More](https://medium.com/p/5b61b05a38ac) |
-| Thu, 08 Jan 2026 05:07:43 GMT | Quietly Rejected | Martin Jakarta | [Read More](https://medium.com/p/81ff36134166) |
-| Thu, 08 Jan 2026 05:02:05 GMT | Encoding vs Encryption | Ashishsinghu | [Read More](https://medium.com/p/2f0b4a68a864) |
-| Thu, 08 Jan 2026 04:39:35 GMT | The Impact of Law Enforcement on the USA and the World | Williampetty | [Read More](https://medium.com/p/10026661043a) |
-| Thu, 08 Jan 2026 04:38:04 GMT | Only a Part | Martin Jakarta | [Read More](https://medium.com/p/14f7f74da4fe) |
-| Thu, 08 Jan 2026 04:35:33 GMT | Tieu Tuyet Linh Chu Mod APK | Apkpuredev | [Read More](https://medium.com/p/0f372d1abc19) |
-| Thu, 08 Jan 2026 04:35:18 GMT | Identity-Driven Cyber Defense Strategies for Small and Mid-Sized Organizations | Vijilan | [Read More](https://medium.com/p/95b4bb506360) |
-| Thu, 08 Jan 2026 04:33:01 GMT | 10 Hard-Won Lessons Web3 Earned the Hard Way | Duckweave | [Read More](https://medium.com/p/ff10368851c9) |
-| Thu, 08 Jan 2026 04:32:51 GMT | When AI Becomes an Actor, Not a Typist | Hash Block | [Read More](https://medium.com/p/8ae5b669274b) |
-| Thu, 08 Jan 2026 04:32:42 GMT | The “Blind Sniper” Attack: Spamming Thousands of Users Without Knowing Their Email Addresses | Zer0Figure | [Read More](https://medium.com/p/4d62ac327410) |
-| Thu, 08 Jan 2026 04:22:22 GMT | Saat Sistem Tumbang: Panduan Strategis Menangani Major Incident di Ruang Perang IT | Zaskia Maharani Puspita Dewi | [Read More](https://medium.com/p/74f76c32f4e4) |
-| Thu, 08 Jan 2026 04:09:46 GMT | The feeling of not knowing what to write, but the desire to write is there. | Chloe | [Read More](https://medium.com/p/e301910e70f4) |
-| Thu, 08 Jan 2026 04:05:13 GMT | JWT vs OAuth: Why Everyone Argues, and Almost Everyone Is Slightly Wrong | Dulaj Thiwanka | [Read More](https://medium.com/p/0f77469491ec) |
-| Thu, 08 Jan 2026 04:01:35 GMT | Penetration Testing Services: 7 Powerful Reasons They Protect Your Business From Hidden Cyber… | Maxatlasofficial | [Read More](https://medium.com/p/7c4f0157a8ab) |
-| Thu, 08 Jan 2026 03:56:54 GMT | Ni8mare: Unauthenticated RCE in n8n (CVE-2026–21858) | Praveen Malhan | [Read More](https://medium.com/p/ed8976ce716d) |
-| Thu, 08 Jan 2026 03:56:44 GMT | 7 Crypto Recovery Scams That Tricked Victims Twice (Real Cases & How to Avoid Them) | Knowledge Crypticles | [Read More](https://medium.com/p/815047171150) |
-| Thu, 08 Jan 2026 03:53:13 GMT | OWASP API Top 10 — Mass Assignment Explained Through a Practical Flask Lab | 0xMiawChan | [Read More](https://medium.com/p/d881aa73c9b2) |
-| Thu, 08 Jan 2026 03:52:37 GMT | Making Peace With My Useless Hobbies | HlameMastar | [Read More](https://medium.com/p/82dc4e654e04) |
