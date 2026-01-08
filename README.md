@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 01:42:11 GMT | TryHackMe: Willow Writeup | cbev | [Read More](https://medium.com/p/fb1247fd385d) |
+| Thu, 08 Jan 2026 01:42:04 GMT | Private Endpoint DNS Explained: How Name Resolution Really Works in Azure | Alberto Credmann Beniste | [Read More](https://medium.com/p/0fc91e34ebf0) |
+| Thu, 08 Jan 2026 01:32:45 GMT | n8n Signed Webhooks + mTLS: Zero-Trust Integrations Across SaaS Boundaries | Bytecraft | [Read More](https://medium.com/p/1d63217f7936) |
+| Thu, 08 Jan 2026 01:31:53 GMT | Cybersecurity in Aviation | Aman Shekhar | [Read More](https://medium.com/p/b808f399576a) |
+| Thu, 08 Jan 2026 01:22:44 GMT | Why Women Feel compelled to Own Homes: Security, Independence, and the Pursuit of Belonging | Hanpis | [Read More](https://medium.com/p/267a262686b2) |
+| Thu, 08 Jan 2026 01:21:05 GMT | Resilient Cryptographic Architecture for Global Enterprises | Sandiego Stein | [Read More](https://medium.com/p/b6a9318fc169) |
+| Thu, 08 Jan 2026 01:12:02 GMT | Is Cracked-Software a Better Alternative in this Weak of Economy? | Andika Pratama | [Read More](https://medium.com/p/78c102fb5ede) |
+| Thu, 08 Jan 2026 01:05:56 GMT | As AI Moves Into Government, National Security Enters A New Era In 2026 | Moni | [Read More](https://medium.com/p/9f04539beec5) |
+| Thu, 08 Jan 2026 01:02:44 GMT | Wireshark Deep Dive: Extracting Evidence from Network Traffic | Cybersecurity Simplified | [Read More](https://medium.com/p/e8ab043b686b) |
+| Thu, 08 Jan 2026 00:48:59 GMT | Lo-Fi TryHackMe Write UP | cat0x01 | [Read More](https://medium.com/p/a0a7e0e12f60) |
+| Thu, 08 Jan 2026 00:17:54 GMT | One Deepfake Every 60 Seconds: Inside the AI Abuse Crisis That Money Still Rewards | Zoom In AI | [Read More](https://medium.com/p/9d5000c48552) |
+| Thu, 08 Jan 2026 00:17:05 GMT | Your Data Is Exposed Online Here Is How To Reduce Risk | Geoffrey Wenger | [Read More](https://medium.com/p/759ad5c4cf44) |
+| Thu, 08 Jan 2026 00:15:00 GMT | Building Trust in Financial Email Systems: A Dual-Layer AI Framework for Detecting Pre-Encryption… | Cynthia Ifebi | [Read More](https://medium.com/p/79cb831fc008) |
+| Thu, 08 Jan 2026 00:02:40 GMT | Ambient Authority Confusion : Redefining the Confused Deputy Problem for AI Agents | Vikas Malik | [Read More](https://medium.com/p/f779fefe380d) |
+| Wed, 07 Jan 2026 23:59:46 GMT | That One Glorifying Trait… | Vibha vikas | [Read More](https://medium.com/p/363f2e5daf81) |
+| Wed, 07 Jan 2026 23:58:46 GMT | Technical Debt Is Not a Code Problem. It’s a Business Drag. | Nikolay Gekht | [Read More](https://medium.com/p/8e3475e71d55) |
+| Wed, 07 Jan 2026 23:57:11 GMT | How I Would Build a Video System That Actually Helps People | Siddhesh Jadhav | [Read More](https://medium.com/p/890927d986cf) |
+| Wed, 07 Jan 2026 23:30:25 GMT | Why AI QA Engineers Are Replacing Traditional Testing Teams in 2026 | Marcus Avangard | [Read More](https://medium.com/p/773db3e4131a) |
 | Wed, 07 Jan 2026 23:26:19 GMT | Rethinking Policies and Permissions in IoT Security with Blockchain | Mohsin Khan | [Read More](https://medium.com/p/4ca1fd83b58c) |
 | Wed, 07 Jan 2026 23:13:42 GMT | I Passed FinOps Practitioner. These Are the Notes That Actually Matter. | Kamil Ousta | [Read More](https://medium.com/p/78b6cc5dfe6d) |
 | Wed, 07 Jan 2026 23:11:14 GMT | CISSP Domain 4 Mastery Series - Part 3: Network Cables, Transmission Media & IPSec | Pushpak Sharma | [Read More](https://medium.com/p/06b3839e5f6e) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 16:36:17 GMT | Hack DJI Mini 3 : L’échec de mes attaques Replay et GPS Spoofing. | RAPATT | [Read More](https://medium.com/p/1d8a0462cd71) |
 | Wed, 07 Jan 2026 16:35:52 GMT | Today was my first Cyber Security class. | Aliyan Ali | [Read More](https://medium.com/p/49b6a84da854) |
 | Wed, 07 Jan 2026 16:35:01 GMT | How I Found Broken Authentication and Authorization on a Website | Shir0E | [Read More](https://medium.com/p/378db3f2aaea) |
-| Wed, 07 Jan 2026 16:32:28 GMT | The Balance That Chooses for You | Sylvie | [Read More](https://medium.com/p/17aabb8265c4) |
-| Wed, 07 Jan 2026 16:27:57 GMT | Under the Hood of IAST and RASP. How instrumentation actually works | Javi D R | [Read More](https://medium.com/p/47511ebeeec5) |
-| Wed, 07 Jan 2026 16:27:31 GMT | Blurams Camera Review: Are Blurams Security Cameras Worth Buying in 2025? | Narjis Arshad | [Read More](https://medium.com/p/5afdabb6bec9) |
-| Wed, 07 Jan 2026 16:25:03 GMT | How I Passed the PNPT in 2026 — Lessons, Methodology, and Advice. | Eziyo | [Read More](https://medium.com/p/36ba8f68b5b7) |
-| Wed, 07 Jan 2026 16:23:58 GMT | TryHackMe: Summit | Cyberpatriot | [Read More](https://medium.com/p/bbe042150e7b) |
-| Wed, 07 Jan 2026 16:21:52 GMT | Confidential Computing: The Next Frontier of Data Security in 2026 | Techridge Solutions | [Read More](https://medium.com/p/067a0a14bd76) |
-| Wed, 07 Jan 2026 16:18:57 GMT | Why Most ‘Secure Applications’ Aren’t Actually Secure | Nightz | [Read More](https://medium.com/p/7dc7aa3fe5d6) |
-| Wed, 07 Jan 2026 16:12:49 GMT | Protecting Your Employees’ Identity (And Yours, Too) | Digital Uppercut | [Read More](https://medium.com/p/c0365e7146d1) |
-| Wed, 07 Jan 2026 16:10:12 GMT | SOC 2 Compliance Made Simple: IT Controls Every Business Needs in 2026 | Technijian | [Read More](https://medium.com/p/3de023e847a0) |
-| Wed, 07 Jan 2026 16:07:00 GMT | The Anatomy of Modern Cyber Threat Campaigns | Jay Vanyi | [Read More](https://medium.com/p/14eb8a9e8168) |
-| Wed, 07 Jan 2026 16:06:03 GMT | The Backend & Frontend Logic Behind SimpleJWT: Best Practices for Security | E. Conscience | [Read More](https://medium.com/p/f13b3f46ee12) |
-| Wed, 07 Jan 2026 15:59:41 GMT | How Hacks Can Make You the Cybercrime Victim Twice | Digital Uppercut | [Read More](https://medium.com/p/8b8635a17923) |
-| Wed, 07 Jan 2026 15:59:18 GMT | The Truth About Password Managers: Security Requires More Than a Tool | Cordula Boeck | [Read More](https://medium.com/p/6fb3aa7e536c) |
-| Wed, 07 Jan 2026 15:56:05 GMT | Securing MCP Servers: A Practical Guide with Keycloak (using create-mcp-server) | Ali Ibrahim | [Read More](https://medium.com/p/c1f10dbb4a0b) |
-| Wed, 07 Jan 2026 15:47:34 GMT | Hunting Malware in Network Traffic (Wireshark) | Oluwadamilare Adeosun | [Read More](https://medium.com/p/26517d7bba36) |
-| Wed, 07 Jan 2026 15:45:51 GMT | How I Found A Windows RCE | Imad Husanovic | [Read More](https://medium.com/p/c8551c6a6042) |
-| Wed, 07 Jan 2026 15:43:05 GMT | AWS Client VPN Endpoint Setup: A Comprehensive Guide | Moiz Ali Moomin | [Read More](https://medium.com/p/aec56a578548) |
-| Wed, 07 Jan 2026 15:41:07 GMT | Answering the Question: “How do we constrain agents to mirroring user-permissions WHEN all our data… | Nwosu Rosemary | [Read More](https://medium.com/p/8e20ff5cac06) |
