@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 15:19:54 GMT | OWASP Top 10:2025 — A Complete Guide for Developers | Aman verma | [Read More](https://medium.com/p/2d44fa1dadd8) |
+| Thu, 08 Jan 2026 15:16:08 GMT | I Found a P2 Bug on a Live Target Using a CTF Trick—You Won’t Believe This. | Rajankumarbarik | [Read More](https://medium.com/p/105f8f807373) |
+| Thu, 08 Jan 2026 15:02:58 GMT | Cyber Briefing: 2026.01.08 | CyberMaterial | [Read More](https://medium.com/p/138943f8b093) |
+| Thu, 08 Jan 2026 15:02:57 GMT | The Dark Side of WebGPU Nobody Is Talking About | Bhavyansh | [Read More](https://medium.com/p/28e2903234da) |
+| Thu, 08 Jan 2026 15:00:47 GMT | After the Warnings: Is Europe Ready for the Asymmetric Cyber Conflict It Is Already In? | Abatis ABTU | [Read More](https://medium.com/p/0aa13ad2e3ca) |
+| Thu, 08 Jan 2026 15:00:05 GMT | Critical Authentication Bypass Vulnerability in GL.iNet GL-AXT1800 Router Firmware | Aleksa Zatezalo | [Read More](https://medium.com/p/f19442ca721d) |
+| Thu, 08 Jan 2026 14:59:55 GMT | När systemen börjar agera | Anders Carlius | [Read More](https://medium.com/p/70cc4f8ffbbc) |
+| Thu, 08 Jan 2026 14:59:53 GMT | Authentication Bypass, Command Injection Vulnerability, and Race Condition in GL.iNet | Aleksa Zatezalo | [Read More](https://medium.com/p/e6d67d81ee51) |
+| Thu, 08 Jan 2026 14:56:56 GMT | How Much Does the Cybersecurity Services Cost?(2026 Updated Guide by AI4IT Services LLC) | Ai4it Services LLC | [Read More](https://medium.com/p/308a3ff5f2f1) |
+| Thu, 08 Jan 2026 14:50:15 GMT | TryHackMe Smol Room / WordPress Penetration Testing | Md. Raihan | [Read More](https://medium.com/p/71475cb64506) |
+| Thu, 08 Jan 2026 14:42:53 GMT | “Mother’s Retirement Home: Son’s Villa Dream Forces a Mother to Secure Her Future” | kate spider | [Read More](https://medium.com/p/1e84a7ee904b) |
 | Thu, 08 Jan 2026 14:42:38 GMT | The AI Bubble: A Tech Revolution or a Financial Time Bomb? | Joe | [Read More](https://medium.com/p/3dba2798ec6c) |
 | Thu, 08 Jan 2026 14:40:48 GMT | Cyber Security: Threats, Vulnerabilities & Countermeasures | Fiza saleem | [Read More](https://medium.com/p/69d9c270861a) |
 | Thu, 08 Jan 2026 14:37:46 GMT | Logic Flaw to Race Condition to Four Digit Bounty | PARADOX | [Read More](https://medium.com/p/34bef38493a3) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 Jan 2026 09:02:46 GMT | Learning Elastic Security: How Data Structure Shapes SIEM Analysis | Gifty Boakye | [Read More](https://medium.com/p/04896a9c0241) |
 | Thu, 08 Jan 2026 08:57:02 GMT | The 2026 B2B Buyer Journey: Why Middle-of-Funnel Content Decides Outcomes | Yuvi | [Read More](https://medium.com/p/63381b813fef) |
 | Thu, 08 Jan 2026 08:51:39 GMT | Electronic Security Solutions: Building Safer Businesses with Total Security Solutions | Ciss India | [Read More](https://medium.com/p/20140f19dcd5) |
-| Thu, 08 Jan 2026 08:49:42 GMT | Your Voice Is Now a Password: How to Beat Deepfake and Voice-Cloning Scams in 2026 | Germano Costi | [Read More](https://medium.com/p/ca092735ea5a) |
-| Thu, 08 Jan 2026 08:41:47 GMT | iCloud Hijack - Hire Professional Hacker | BlackHat | [Read More](https://medium.com/p/9c69c04d901c) |
-| Thu, 08 Jan 2026 08:20:23 GMT | GITHUB STUDENT PACK — A TICKET TO STARTING YOUR JOURNEY IN CYBERSECURITY 2026 | Joanorifha | [Read More](https://medium.com/p/fd06d803719c) |
-| Thu, 08 Jan 2026 08:18:21 GMT | Beyond Testing to Continuity: My Transition from QA Lead to Manager Application Support. | Abhinav Acharya | [Read More](https://medium.com/p/af4a82511705) |
-| Thu, 08 Jan 2026 08:17:21 GMT | Compliance Shouldn’t Be a Fire Drill: A Guide to Automated SIEM Engineering | Gwen | [Read More](https://medium.com/p/7d684431c402) |
-| Thu, 08 Jan 2026 08:07:37 GMT | Hay Day Mod APK | GOCMOD | [Read More](https://medium.com/p/13bde4bec1e7) |
-| Thu, 08 Jan 2026 08:02:50 GMT | Building a Multi-Layered Cybersecurity Home Lab: A Deep Dive into Suricata & Wazuh | T A N I S H | [Read More](https://medium.com/p/2435de66b30b) |
-| Thu, 08 Jan 2026 07:58:00 GMT | OAuth 2.0 Device Authorization Grant | Florian Röser | [Read More](https://medium.com/p/e7f4a026f0eb) |
-| Thu, 08 Jan 2026 07:52:55 GMT | AWhat Working With Azure Taught Me About Real-World Security By Yusha Kahn | Yusha_kahn | [Read More](https://medium.com/p/6efad5865bbc) |
-| Thu, 08 Jan 2026 07:49:43 GMT | My PJPT exam experience 2026 | Gothos | [Read More](https://medium.com/p/cd23a36ced95) |
-| Thu, 08 Jan 2026 07:49:41 GMT | From Fear to Freedom: My Dance with the Unknown | Ana D. | [Read More](https://medium.com/p/8481391b4f17) |
