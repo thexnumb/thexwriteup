@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 13:31:15 GMT | Automating SQL Injection with sqlmap A Practical Guide | Purushotham.R | [Read More](https://medium.com/p/c22df8e5d593) |
+| Thu, 08 Jan 2026 13:29:54 GMT | Hardening CSP the OWASP Way: | th3.d1p4k | [Read More](https://medium.com/p/2c710856e029) |
+| Thu, 08 Jan 2026 13:24:27 GMT | Why Your Power Plant’s AI Might Be Lying to You (And How to Catch It) | KrishKuchroo | [Read More](https://medium.com/p/ec388a6db72c) |
+| Thu, 08 Jan 2026 13:23:36 GMT | The ROI of Resilience: Why UAE Boards Are Still Getting Cybersecurity Wrong in 2026 | teclogia | [Read More](https://medium.com/p/6bd291533dec) |
+| Thu, 08 Jan 2026 13:20:28 GMT | Overwhelmed with Log Management Hassle? Discover Effective SIEM Strategies | NetWitness | [Read More](https://medium.com/p/154b8e7cef90) |
+| Thu, 08 Jan 2026 13:18:46 GMT | RAG Security 4: How FHE Changes Incident Paths — and What Still Remains | inkme | [Read More](https://medium.com/p/6edc53daf093) |
+| Thu, 08 Jan 2026 13:15:10 GMT | Software That Only “Works” Is Not Enough | Douglas Brum | [Read More](https://medium.com/p/4e3cacb833af) |
+| Thu, 08 Jan 2026 13:10:46 GMT | The Structural Vulnerability of Dubai’s SMEs: Why IT Security Remains Elusive in 2026 | teclogia | [Read More](https://medium.com/p/8b720c8b2b47) |
+| Thu, 08 Jan 2026 13:08:05 GMT | Alex Chriss Paypal Ceo Sensitive Data PII LEAK by Cyber Kalki | ElonMuskTheAntichrist | [Read More](https://medium.com/p/70b8610f9c7e) |
+| Thu, 08 Jan 2026 13:02:50 GMT | Digital Amputation: Rebuilding Identity When Systems Fail You | Rob - The Holistic Nomad | [Read More](https://medium.com/p/9c27375b6e17) |
+| Thu, 08 Jan 2026 13:02:48 GMT | Linux Security Habit #15: I Never Trust a “Clean” lastlog Output | Faruk Ahmed | [Read More](https://medium.com/p/2d9a142bf29c) |
+| Thu, 08 Jan 2026 12:58:20 GMT | What if Trump Wants Greenland (the Space Force’s ‘Top of the World’) for Other Reasons? | Jacqui Day | [Read More](https://medium.com/p/25ec6ef0b7cd) |
+| Thu, 08 Jan 2026 12:52:46 GMT | “Port Scanning Analysis Using Nmap: Understanding the Output and Its Implications for Network… | Habibi | [Read More](https://medium.com/p/bfbe66917934) |
 | Thu, 08 Jan 2026 12:45:03 GMT | A Deep Dive into OSI Model Attack Vectors | Cyber Phantom | [Read More](https://medium.com/p/5f03f455dfbd) |
 | Thu, 08 Jan 2026 12:40:22 GMT | Securing the Stochastic : A Field Guide to the OWASP LLM Top 10 | Harsh Kahate | [Read More](https://medium.com/p/6419e2c5a974) |
 | Thu, 08 Jan 2026 12:38:53 GMT | Best Components of Data Security NHS: Step-by-Step Guide | Mariaharger | [Read More](https://medium.com/p/d0577b79f101) |
@@ -33,6 +46,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 Jan 2026 11:48:49 GMT | Infinity Learning lab — On-Premise-22: CrushFTP Walk-through | 4b3in_ | [Read More](https://medium.com/p/6db07aaffb77) |
 | Thu, 08 Jan 2026 11:46:17 GMT | 8kSec — Ultimate AI Essay Grader Writeup | L0WK3Y | [Read More](https://medium.com/p/111846a77280) |
 | Thu, 08 Jan 2026 11:43:09 GMT | GDPR is necessary, ISO 27001 is what makes security real | Albert Minguell | [Read More](https://medium.com/p/b2800cb7788c) |
+| Thu, 08 Jan 2026 11:41:45 GMT | OT Cyber Security Services in Canada for Industrial Businesses | Arista Cyber | [Read More](https://medium.com/p/7f559ed37c1c) |
 | Thu, 08 Jan 2026 11:35:37 GMT | 4 Practices Every Developer Should Follow to Improve Application Security | SeQEW | [Read More](https://medium.com/p/28ed20b19bcf) |
 | Thu, 08 Jan 2026 11:34:05 GMT | Installing CCTV in Dubai? This Mistake Can Cost You Big | Abhilashtec | [Read More](https://medium.com/p/da997ba389a0) |
 | Thu, 08 Jan 2026 11:22:06 GMT | How Organizations Can Successfully Pass Cybersecurity Audits | Rahman Iqbal | [Read More](https://medium.com/p/bad2c17d897b) |
@@ -40,6 +54,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 Jan 2026 11:15:10 GMT | AI Security Digest — Week 1, 2026 | Tal Eliyahu | [Read More](https://medium.com/p/dda459d01b0b) |
 | Thu, 08 Jan 2026 11:14:43 GMT | The AI Privacy Paradox: Why You Should Stop Renting a “Glass House” for Your Data | ServerMO | [Read More](https://medium.com/p/f98c707f57d6) |
 | Thu, 08 Jan 2026 11:12:50 GMT | Part 2 : Why Passwords Are Dying (And What’s Next) | Protégé IGDTUW | [Read More](https://medium.com/p/127dcdb9f8ad) |
+| Thu, 08 Jan 2026 11:02:48 GMT | 5 Ways MSSPs Can Win Clients in 2026 | ANY.RUN | [Read More](https://medium.com/p/f1c5956633f8) |
 | Thu, 08 Jan 2026 10:59:10 GMT | 7 january at fanatic. | lebord du chagrin | [Read More](https://medium.com/p/715f49821ede) |
 | Thu, 08 Jan 2026 10:56:20 GMT | Why Cloud Video Surveillance Is Becoming Essential for US Enterprises | VMukti Solutions | [Read More](https://medium.com/p/a9b8e6273708) |
 | Thu, 08 Jan 2026 10:55:48 GMT | Public Wi-Fi Security: Stay Safe While Using Free Internet | Manudybala | [Read More](https://medium.com/p/9c13b118053d) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 Jan 2026 07:06:22 GMT | I Tested Multiple Password Generators — Most Are Unsafe, Here’s What Actually Works | Sandeep Sharma | [Read More](https://medium.com/p/ad179dc6e1c1) |
 | Thu, 08 Jan 2026 07:03:37 GMT | DIY Rubber Ducky: Generic USB Flash Drive | Allen Ace | [Read More](https://medium.com/p/391ad84476cb) |
 | Thu, 08 Jan 2026 06:59:29 GMT | Analyzing a Legacy VNC Authentication Weakness in a Controlled Lab Environment | Tejas Kamble | [Read More](https://medium.com/p/c0b45fad41ab) |
-| Thu, 08 Jan 2026 06:56:56 GMT | THE FOUNDATION OF MODERN CYBER SECURITY, CLOUD, AND VIRTUALIZATION | F9 Infotech | [Read More](https://medium.com/p/108b83791c15) |
-| Thu, 08 Jan 2026 06:44:47 GMT | APT35 (Charming Kitten): İran Devrim Muhafızları Bağlantılı Siber Casusluk Grubunun Türkiye Odaklı… | Beyza Sıla Gökmen | [Read More](https://medium.com/p/92a6a8e94e44) |
-| Thu, 08 Jan 2026 06:41:11 GMT | Ethical Hacking Fundamentals: What I Learned as a CEH  Student. | Syber Security  beginner. | [Read More](https://medium.com/p/7e0fa168fb20) |
-| Thu, 08 Jan 2026 06:28:07 GMT | Why WebAuthn Feels Easy — Until You Try to Ship It | Dqj | [Read More](https://medium.com/p/ea2c6352617f) |
-| Thu, 08 Jan 2026 06:27:26 GMT | Light Out, 7B (Part 8) | edarit | [Read More](https://medium.com/p/5ff55cc142ff) |
-| Thu, 08 Jan 2026 06:26:57 GMT | Hands-On Android Security Testing in AndroGoat — Input Validation | Hammam Awis Zukimi | [Read More](https://medium.com/p/b9c8ea7bdde6) |
-| Thu, 08 Jan 2026 06:25:20 GMT | Tutorial 4 PortSwigger Lab: Stored XSS into HTML context with nothing encoded | Diva Rizky Alfitrah | [Read More](https://medium.com/p/e9a16d7aa89a) |
-| Thu, 08 Jan 2026 06:21:21 GMT | “Don’t Break It” vs “It’s Already Broken” — Life Between Cyber and Software Friends | Kirushalini | [Read More](https://medium.com/p/ec5480dd4f9e) |
-| Thu, 08 Jan 2026 06:12:20 GMT | Exploring the Best Flipper Zero Alternatives for Hardware Security | T-Jay Bautista | [Read More](https://medium.com/p/73fbf7e6085b) |
-| Thu, 08 Jan 2026 06:11:10 GMT | Cost, Speed, and Quality: Evaluating Indian DevOps Vendors for Your Business | Quadrant IT Services | [Read More](https://medium.com/p/96699426d4db) |
-| Thu, 08 Jan 2026 06:05:54 GMT | The Daily Tech Digest: 08 January 2026 | Souren Stepanyan | [Read More](https://medium.com/p/b81b37bddc72) |
-| Thu, 08 Jan 2026 05:53:10 GMT | Active Directory: Fundamental kirish va arxitektura | Mukhammadiyev | [Read More](https://medium.com/p/8ebf418f0bb2) |
-| Thu, 08 Jan 2026 05:51:49 GMT | Nmap Demonstration using Metasploitable2 | Ankit M | [Read More](https://medium.com/p/7c4243c9abeb) |
-| Thu, 08 Jan 2026 05:38:18 GMT | Secure Network Architecture — Writeup | Mahir | [Read More](https://medium.com/p/3375d4cd02d6) |
-| Thu, 08 Jan 2026 05:21:58 GMT | Cybersecurity Awareness Training: Why Every Employee Needs It in 2026 | Elearning serv | [Read More](https://medium.com/p/6e0680292883) |
