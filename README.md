@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 11:16:23 GMT | Elasticsearch-9200!! | Rela Lumbini | [Read More](https://medium.com/p/81754fceb810) |
+| Thu, 08 Jan 2026 11:15:10 GMT | AI Security Digest — Week 1, 2026 | Tal Eliyahu | [Read More](https://medium.com/p/dda459d01b0b) |
+| Thu, 08 Jan 2026 11:14:43 GMT | The AI Privacy Paradox: Why You Should Stop Renting a “Glass House” for Your Data | ServerMO | [Read More](https://medium.com/p/f98c707f57d6) |
+| Thu, 08 Jan 2026 11:12:50 GMT | Part 2 : Why Passwords Are Dying (And What’s Next) | Protégé IGDTUW | [Read More](https://medium.com/p/127dcdb9f8ad) |
+| Thu, 08 Jan 2026 10:59:10 GMT | 7 january at fanatic. | lebord du chagrin | [Read More](https://medium.com/p/715f49821ede) |
+| Thu, 08 Jan 2026 10:56:20 GMT | Why Cloud Video Surveillance Is Becoming Essential for US Enterprises | VMukti Solutions | [Read More](https://medium.com/p/a9b8e6273708) |
+| Thu, 08 Jan 2026 10:55:48 GMT | Public Wi-Fi Security: Stay Safe While Using Free Internet | Manudybala | [Read More](https://medium.com/p/9c13b118053d) |
+| Thu, 08 Jan 2026 10:52:32 GMT | Ni8mare Vulnerability in n8n: Critical CVSS 10.0 Upgrade to 1.121.0 or Higher Immediately | Amit Shukla | [Read More](https://medium.com/p/255d74d77b8a) |
+| Thu, 08 Jan 2026 10:47:40 GMT | WPA Handshake Cracking — Breaking the Password Barrier | Nisarg Patel | [Read More](https://medium.com/p/1abc1d1eaa9a) |
 | Thu, 08 Jan 2026 10:33:54 GMT | Cyber Law Explained Simply : A Beginner’s Guide to Staying Safe Online | Chhavipreet Kaur | [Read More](https://medium.com/p/4b6de7011ecd) |
 | Thu, 08 Jan 2026 10:33:07 GMT | MQTT Security Is Broken: How Adaptive Honeypots Expose Real IIoT Attacks | Piyali | [Read More](https://medium.com/p/e1763d9502b4) |
 | Thu, 08 Jan 2026 10:11:18 GMT | When Search Results Become A Cybersecurity Risk | Gautam Mengle | [Read More](https://medium.com/p/0ec93d425cef) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 Jan 2026 03:52:37 GMT | Making Peace With My Useless Hobbies | HlameMastar | [Read More](https://medium.com/p/82dc4e654e04) |
 | Thu, 08 Jan 2026 03:32:47 GMT | The Truth Behind the Breach: How Windows Event Logs Expose Real-World Attacks | Deven Chhajed | [Read More](https://medium.com/p/9511c11057bb) |
 | Thu, 08 Jan 2026 03:32:44 GMT | Network and Communications Security Part 3: Core Defenses and Traffic Flows, Explained Simply | Manubhav Sharma | [Read More](https://medium.com/p/5589222c4f47) |
-| Thu, 08 Jan 2026 03:28:33 GMT | Why Spotify’s latest problem could change music forever | Abstract Mind | [Read More](https://medium.com/p/51eedbfa48db) |
-| Thu, 08 Jan 2026 03:25:36 GMT | Monitoring Guest Privacy — Our Short-Term Rental’s Camera Disclosure Statement | Thomas Pease | [Read More](https://medium.com/p/1c4763cd8fe6) |
-| Thu, 08 Jan 2026 03:23:48 GMT | Tech Myths Everyone Still Believes (And Why They’re Wrong) | Hameedduke | [Read More](https://medium.com/p/fc905118fca0) |
-| Thu, 08 Jan 2026 03:23:09 GMT | Recruiting Google Gemini’s Email Summarizer as a Phishing Aid | Mike Sheward | [Read More](https://medium.com/p/417055295ba7) |
-| Thu, 08 Jan 2026 03:22:08 GMT | Portswigger Web Security Academy Lab: Username enumeration via response timing | Baskoroido | [Read More](https://medium.com/p/1f27b50be438) |
-| Thu, 08 Jan 2026 03:15:12 GMT | Token Leakage in Password Reset Flows | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/88ca87e0adca) |
-| Thu, 08 Jan 2026 03:10:36 GMT | Teramind’s Top 30 2025 Future of Security Awards | Matthew.Rosenquist | [Read More](https://medium.com/p/5001491dfdc8) |
-| Thu, 08 Jan 2026 03:03:55 GMT | The AI Tools That Startups and Smart Developers Use Before Things Break in 2026 | Ankit Goyal | [Read More](https://medium.com/p/32cb05a63e79) |
-| Thu, 08 Jan 2026 02:39:04 GMT | By Sebastion Mauldin | Secured By Sebastion | [Read More](https://medium.com/p/5b6be4be3036) |
