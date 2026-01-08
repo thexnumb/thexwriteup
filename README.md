@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 10:11:18 GMT | When Search Results Become A Cybersecurity Risk | Gautam Mengle | [Read More](https://medium.com/p/0ec93d425cef) |
+| Thu, 08 Jan 2026 10:04:37 GMT | The OWASP Top 10 for Agentic AI: Complete Security Guide (2026) | Ana Bildea, PhD | [Read More](https://medium.com/p/9e36849f78ca) |
+| Thu, 08 Jan 2026 09:56:58 GMT | Best Ethical Hacking Training in Hindi 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/6b3eea7ef435) |
+| Thu, 08 Jan 2026 09:51:45 GMT | I built a Firewall that speaks English because I hate YAML!! | Sini T P | [Read More](https://medium.com/p/2850feffa8b8) |
+| Thu, 08 Jan 2026 09:44:58 GMT | Automation Gone Wrong: n8n’s Perfect 10s, Space Agency Drama, and the Living Dead of D-Link | Threat Road | [Read More](https://medium.com/p/7da952f4fa57) |
+| Thu, 08 Jan 2026 09:43:22 GMT | Offensive Web Pentesting Bootcamp | Dallen Sadru | [Read More](https://medium.com/p/fb61e98bf9a4) |
+| Thu, 08 Jan 2026 09:38:18 GMT | Using Git Commits as a Persistence Mechanism | Chicken0248 | [Read More](https://medium.com/p/c44a0ee22068) |
+| Thu, 08 Jan 2026 09:37:27 GMT | How to remove a hacker from my phone? 4-step emergency guide | Safelyo Global | [Read More](https://medium.com/p/2f9a4484f4a3) |
+| Thu, 08 Jan 2026 09:34:23 GMT | Review of HTB Certified Web Exploitation Specialist (HTB CWES, formerly CBBH) certification | Ramazan | [Read More](https://medium.com/p/5f2eb78d2b1d) |
+| Thu, 08 Jan 2026 09:32:43 GMT | I Watched 17 Startups Die From Cyberattacks. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/bebad8d21509) |
 | Thu, 08 Jan 2026 09:24:26 GMT | When the Privacy Tool Has a Privacy Problem: Finding My First XSS Vulnerability | Madanu Akash | [Read More](https://medium.com/p/3d1a28678378) |
 | Thu, 08 Jan 2026 09:24:06 GMT | The Startup Lifeline | Oladipo Taiwo Olamide(Lolu_Everywhere) | [Read More](https://medium.com/p/5be272e92240) |
 | Thu, 08 Jan 2026 09:21:04 GMT | Open Source AI PenTest & Red Team: Challenges, free tools, comparisons, and practical use cases! | Nothing Cyber [NC] | [Read More](https://medium.com/p/705730238666) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 Jan 2026 02:39:04 GMT | By Sebastion Mauldin | Secured By Sebastion | [Read More](https://medium.com/p/5b6be4be3036) |
 | Thu, 08 Jan 2026 02:34:03 GMT | Why most AI agent guardrails fail in production [Part 1] | Jesse | [Read More](https://medium.com/p/3faf47f3f397) |
 | Thu, 08 Jan 2026 02:25:24 GMT | LangChain Serialization Vulnerabilities: When LLMs Generate Exploits | David Anderson | [Read More](https://medium.com/p/16e4f1882001) |
-| Thu, 08 Jan 2026 02:25:19 GMT | The Security Problem Every SaaS Company Has But Won’t Talk About | David Anderson | [Read More](https://medium.com/p/6c2a49e55491) |
-| Thu, 08 Jan 2026 02:13:32 GMT | Why Most Security Failures Are Actually Trust Failures | Mohamed Fatheem | [Read More](https://medium.com/p/978c26a40b79) |
-| Thu, 08 Jan 2026 02:11:31 GMT | PowerShell Automation for DISA STIG Compliance | Dany Christel | [Read More](https://medium.com/p/ed65ec538104) |
-| Thu, 08 Jan 2026 01:42:11 GMT | TryHackMe: Willow Writeup | cbev | [Read More](https://medium.com/p/fb1247fd385d) |
-| Thu, 08 Jan 2026 01:42:04 GMT | Private Endpoint DNS Explained: How Name Resolution Really Works in Azure | Alberto Credmann Beniste | [Read More](https://medium.com/p/0fc91e34ebf0) |
-| Thu, 08 Jan 2026 01:32:45 GMT | n8n Signed Webhooks + mTLS: Zero-Trust Integrations Across SaaS Boundaries | Bytecraft | [Read More](https://medium.com/p/1d63217f7936) |
-| Thu, 08 Jan 2026 01:31:53 GMT | Cybersecurity in Aviation | Aman Shekhar | [Read More](https://medium.com/p/b808f399576a) |
-| Thu, 08 Jan 2026 01:22:44 GMT | Why Women Feel compelled to Own Homes: Security, Independence, and the Pursuit of Belonging | Hanpis | [Read More](https://medium.com/p/267a262686b2) |
-| Thu, 08 Jan 2026 01:21:05 GMT | Resilient Cryptographic Architecture for Global Enterprises | Sandiego Stein | [Read More](https://medium.com/p/b6a9318fc169) |
-| Thu, 08 Jan 2026 01:12:02 GMT | Is Cracked-Software a Better Alternative in this Weak of Economy? | Andika Pratama | [Read More](https://medium.com/p/78c102fb5ede) |
