@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 23:03:48 GMT | When a USB Keyboard Becomes a Root Shell: A Walkthrough of the Exploit | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/76a99fe3ed93) |
+| Thu, 08 Jan 2026 23:02:25 GMT | The Future of Cybersecurity Includes Non-Human Employees | Cyber-AppSec | [Read More](https://medium.com/p/b53784489daa) |
+| Thu, 08 Jan 2026 22:51:46 GMT | New to Fiverr? Don’t fall for the “Click to Receive Order” Scam in your inbox. | Kavini Kushani | [Read More](https://medium.com/p/d3cc7882da56) |
+| Thu, 08 Jan 2026 22:42:44 GMT | How to Install Subfinder on Termux | BUG HUNTER NEWBIE INDONESIA | [Read More](https://medium.com/p/43ca31b6ba3d) |
 | Thu, 08 Jan 2026 22:24:48 GMT | The Bucket Is Overflowing | Elysa Lily | [Read More](https://medium.com/p/a6993ce9e24a) |
 | Thu, 08 Jan 2026 22:18:32 GMT | You Asked, We Answered: Everything About Cyber Resilience Navigator | Fook Hwa Tan | [Read More](https://medium.com/p/2ffbb959aca6) |
 | Thu, 08 Jan 2026 22:17:07 GMT | It’s Here: Cyber Resilience Navigator Is Now Live | Fook Hwa Tan | [Read More](https://medium.com/p/4af28fa9bc24) |
@@ -112,7 +116,3 @@ Room: https://tryhackme.com/room/hydra | Hadeshuntx | [Read More](https://medium
 | Thu, 08 Jan 2026 15:38:18 GMT | Public Wi-Fi Can Hack You Without Touching Your Phone | Aditya Kumar Singh | [Read More](https://medium.com/p/10d240e6b72d) |
 | Thu, 08 Jan 2026 15:37:11 GMT | Armed Security Guard Dallas | US guard security company | [Read More](https://medium.com/p/1096e3f4a63a) |
 | Thu, 08 Jan 2026 15:35:27 GMT | ArchaCTF_2026 - DDJ WY HACKER | !US3R | [Read More](https://medium.com/p/dafb3726992d) |
-| Thu, 08 Jan 2026 15:31:18 GMT | Fixing APT Repository Warnings in Kali Linux | Cbrnex | [Read More](https://medium.com/p/ab1282d66023) |
-| Thu, 08 Jan 2026 15:24:15 GMT | Android Pentesting — Part 1: Getting Started with a Vulnerable Android App | Mscmkn | [Read More](https://medium.com/p/869c3eb4b98c) |
-| Thu, 08 Jan 2026 15:19:54 GMT | OWASP Top 10:2025 — A Complete Guide for Developers | Aman verma | [Read More](https://medium.com/p/2d44fa1dadd8) |
-| Thu, 08 Jan 2026 15:16:08 GMT | I Found a P2 Bug on a Live Target Using a CTF Trick—You Won’t Believe This. | Rajankumarbarik | [Read More](https://medium.com/p/105f8f807373) |
