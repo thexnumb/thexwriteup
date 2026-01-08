@@ -12,10 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 05:38:18 GMT | Secure Network Architecture — Writeup | Mahir | [Read More](https://medium.com/p/3375d4cd02d6) |
+| Thu, 08 Jan 2026 05:21:58 GMT | Cybersecurity Awareness Training: Why Every Employee Needs It in 2026 | Elearning serv | [Read More](https://medium.com/p/6e0680292883) |
+| Thu, 08 Jan 2026 05:20:49 GMT | Custom UPX Trojan TH! | Aufa Rifqi | [Read More](https://medium.com/p/5a755c2b2855) |
+| Thu, 08 Jan 2026 05:16:10 GMT | Designing Cloud Security on Purpose | Nichelle Fields | [Read More](https://medium.com/p/191f2c7f83ad) |
 | Thu, 08 Jan 2026 05:13:19 GMT | Microsoft 365 E3 vs E5 DLP: What Actually Changes in Real Life | Suraj Kumar | [Read More](https://medium.com/p/d0aaf809a62c) |
 | Thu, 08 Jan 2026 05:13:07 GMT | Is Threat Exposure Management Replacing Traditional Vulnerability Management? | Lakshita Gulliya | [Read More](https://medium.com/p/038409528b28) |
 | Thu, 08 Jan 2026 05:09:29 GMT | The Life of a Bug: From “It Works on My Machine” to the Myth of Zero-Bugs | Sashini Ishara | [Read More](https://medium.com/p/5b61b05a38ac) |
 | Thu, 08 Jan 2026 05:07:43 GMT | Quietly Rejected | Martin Jakarta | [Read More](https://medium.com/p/81ff36134166) |
+| Thu, 08 Jan 2026 05:02:05 GMT | Encoding vs Encryption | Ashishsinghu | [Read More](https://medium.com/p/2f0b4a68a864) |
 | Thu, 08 Jan 2026 04:39:35 GMT | The Impact of Law Enforcement on the USA and the World | Williampetty | [Read More](https://medium.com/p/10026661043a) |
 | Thu, 08 Jan 2026 04:38:04 GMT | Only a Part | Martin Jakarta | [Read More](https://medium.com/p/14f7f74da4fe) |
 | Thu, 08 Jan 2026 04:35:33 GMT | Tieu Tuyet Linh Chu Mod APK | Apkpuredev | [Read More](https://medium.com/p/0f372d1abc19) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 18:39:56 GMT | Fundamentos de SOC (Security Operations Center): Estrutura, Pilares e Ferramentas | Felippo Ferreira | [Read More](https://medium.com/p/1e0499a5c051) |
 | Wed, 07 Jan 2026 18:38:48 GMT | Why Input Validation Is Important For Securing Web Applications… | Soham Kholapure | [Read More](https://medium.com/p/cd1807274016) |
 | Wed, 07 Jan 2026 18:38:06 GMT | BCV Leads Exein’s €100 MM Growth Round to Secure the World’s Connected Devices | Amy Wang | [Read More](https://medium.com/p/c82d52ff719d) |
-| Wed, 07 Jan 2026 18:38:05 GMT | Best of Both Worlds: EthoGPT Ethics and AresGPT Defense | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/4ac435fc56d0) |
-| Wed, 07 Jan 2026 18:37:40 GMT | Cyberattacks strike UAE warns | Defence Affairs & Analysis | [Read More](https://medium.com/p/a2f908731302) |
-| Wed, 07 Jan 2026 18:34:29 GMT | Exported Components - Kickin’ Down the Doors Devs Left Unlocked | Slayer | [Read More](https://medium.com/p/cfd5d34bbac0) |
-| Wed, 07 Jan 2026 18:28:47 GMT | How CAPTCHA Works | Kaveeshapiumini | [Read More](https://medium.com/p/78e39d40efb1) |
-| Wed, 07 Jan 2026 18:28:22 GMT | The End of the Password? A Deep Dive into Passkeys | Jordan Gutt | [Read More](https://medium.com/p/460b0b584e2d) |
