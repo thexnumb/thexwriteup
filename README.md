@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 11:35:37 GMT | 4 Practices Every Developer Should Follow to Improve Application Security | SeQEW | [Read More](https://medium.com/p/28ed20b19bcf) |
+| Thu, 08 Jan 2026 11:22:06 GMT | How Organizations Can Successfully Pass Cybersecurity Audits | Rahman Iqbal | [Read More](https://medium.com/p/bad2c17d897b) |
 | Thu, 08 Jan 2026 11:16:23 GMT | Elasticsearch-9200!! | Rela Lumbini | [Read More](https://medium.com/p/81754fceb810) |
 | Thu, 08 Jan 2026 11:15:10 GMT | AI Security Digest — Week 1, 2026 | Tal Eliyahu | [Read More](https://medium.com/p/dda459d01b0b) |
 | Thu, 08 Jan 2026 11:14:43 GMT | The AI Privacy Paradox: Why You Should Stop Renting a “Glass House” for Your Data | ServerMO | [Read More](https://medium.com/p/f98c707f57d6) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 Jan 2026 03:56:44 GMT | 7 Crypto Recovery Scams That Tricked Victims Twice (Real Cases & How to Avoid Them) | Knowledge Crypticles | [Read More](https://medium.com/p/815047171150) |
 | Thu, 08 Jan 2026 03:53:13 GMT | OWASP API Top 10 — Mass Assignment Explained Through a Practical Flask Lab | 0xMiawChan | [Read More](https://medium.com/p/d881aa73c9b2) |
 | Thu, 08 Jan 2026 03:52:37 GMT | Making Peace With My Useless Hobbies | HlameMastar | [Read More](https://medium.com/p/82dc4e654e04) |
-| Thu, 08 Jan 2026 03:32:47 GMT | The Truth Behind the Breach: How Windows Event Logs Expose Real-World Attacks | Deven Chhajed | [Read More](https://medium.com/p/9511c11057bb) |
-| Thu, 08 Jan 2026 03:32:44 GMT | Network and Communications Security Part 3: Core Defenses and Traffic Flows, Explained Simply | Manubhav Sharma | [Read More](https://medium.com/p/5589222c4f47) |
