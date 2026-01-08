@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 05:13:19 GMT | Microsoft 365 E3 vs E5 DLP: What Actually Changes in Real Life | Suraj Kumar | [Read More](https://medium.com/p/d0aaf809a62c) |
+| Thu, 08 Jan 2026 05:13:07 GMT | Is Threat Exposure Management Replacing Traditional Vulnerability Management? | Lakshita Gulliya | [Read More](https://medium.com/p/038409528b28) |
+| Thu, 08 Jan 2026 05:09:29 GMT | The Life of a Bug: From “It Works on My Machine” to the Myth of Zero-Bugs | Sashini Ishara | [Read More](https://medium.com/p/5b61b05a38ac) |
+| Thu, 08 Jan 2026 05:07:43 GMT | Quietly Rejected | Martin Jakarta | [Read More](https://medium.com/p/81ff36134166) |
+| Thu, 08 Jan 2026 04:39:35 GMT | The Impact of Law Enforcement on the USA and the World | Williampetty | [Read More](https://medium.com/p/10026661043a) |
 | Thu, 08 Jan 2026 04:38:04 GMT | Only a Part | Martin Jakarta | [Read More](https://medium.com/p/14f7f74da4fe) |
+| Thu, 08 Jan 2026 04:35:33 GMT | Tieu Tuyet Linh Chu Mod APK | Apkpuredev | [Read More](https://medium.com/p/0f372d1abc19) |
+| Thu, 08 Jan 2026 04:35:18 GMT | Identity-Driven Cyber Defense Strategies for Small and Mid-Sized Organizations | Vijilan | [Read More](https://medium.com/p/95b4bb506360) |
+| Thu, 08 Jan 2026 04:33:01 GMT | 10 Hard-Won Lessons Web3 Earned the Hard Way | Duckweave | [Read More](https://medium.com/p/ff10368851c9) |
+| Thu, 08 Jan 2026 04:32:51 GMT | When AI Becomes an Actor, Not a Typist | Hash Block | [Read More](https://medium.com/p/8ae5b669274b) |
+| Thu, 08 Jan 2026 04:32:42 GMT | The “Blind Sniper” Attack: Spamming Thousands of Users Without Knowing Their Email Addresses | Zer0Figure | [Read More](https://medium.com/p/4d62ac327410) |
 | Thu, 08 Jan 2026 04:09:46 GMT | The feeling of not knowing what to write, but the desire to write is there. | Chloe | [Read More](https://medium.com/p/e301910e70f4) |
 | Thu, 08 Jan 2026 04:05:13 GMT | JWT vs OAuth: Why Everyone Argues, and Almost Everyone Is Slightly Wrong | Dulaj Thiwanka | [Read More](https://medium.com/p/0f77469491ec) |
 | Thu, 08 Jan 2026 04:01:35 GMT | Penetration Testing Services: 7 Powerful Reasons They Protect Your Business From Hidden Cyber… | Maxatlasofficial | [Read More](https://medium.com/p/7c4f0157a8ab) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 18:34:29 GMT | Exported Components - Kickin’ Down the Doors Devs Left Unlocked | Slayer | [Read More](https://medium.com/p/cfd5d34bbac0) |
 | Wed, 07 Jan 2026 18:28:47 GMT | How CAPTCHA Works | Kaveeshapiumini | [Read More](https://medium.com/p/78e39d40efb1) |
 | Wed, 07 Jan 2026 18:28:22 GMT | The End of the Password? A Deep Dive into Passkeys | Jordan Gutt | [Read More](https://medium.com/p/460b0b584e2d) |
-| Wed, 07 Jan 2026 18:19:03 GMT | A Mentor Who Sold $20M+ in Digital Products Changed How I View Marketing Forever | Sathish Tadaka | [Read More](https://medium.com/p/4ad5946455a4) |
-| Wed, 07 Jan 2026 18:18:28 GMT | Lab Practice vs Theory: How Hackers Really Learn | Hadiyayazeen | [Read More](https://medium.com/p/0dc1bff1af0a) |
-| Wed, 07 Jan 2026 18:08:02 GMT | The Problem with Traditional OT Risk Assessments | Stuart King | [Read More](https://medium.com/p/f4dac2918b12) |
-| Wed, 07 Jan 2026 18:05:17 GMT | The Agentic Architect Series: Part 3 | Imran Siddique | [Read More](https://medium.com/p/c162c9ccd959) |
-| Wed, 07 Jan 2026 18:02:50 GMT | Part 1 — Let’s Build Your Own Home or Cloud Web Server Together | Firat Gulec | [Read More](https://medium.com/p/08b1940ee4db) |
-| Wed, 07 Jan 2026 17:58:34 GMT | Ethical Hacking in 2026: Latest Trends Shaping Cybersecurity’s Future | Hadiyayazeen | [Read More](https://medium.com/p/bdd07b7c7ae4) |
-| Wed, 07 Jan 2026 17:57:06 GMT | Your MFA Isn’t Protecting You Anymore (And Here’s Why) | Soumyadipta Birabar | [Read More](https://medium.com/p/87863165d770) |
-| Wed, 07 Jan 2026 17:57:04 GMT | CIA Triad | Soumya Sri | [Read More](https://medium.com/p/8a76b8407878) |
-| Wed, 07 Jan 2026 17:57:03 GMT | Understanding Common Cookie Attributes (With Simple Security Explanations) | Shayaan Khan | [Read More](https://medium.com/p/1572bd417783) |
-| Wed, 07 Jan 2026 17:55:53 GMT | Why Small Businesses Are the Most Overlooked Targets of Cyberwarfare? | Himanshu Chaudhary | [Read More](https://medium.com/p/09f6cf8078ac) |
