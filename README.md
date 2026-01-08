@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 22:24:48 GMT | The Bucket Is Overflowing | Elysa Lily | [Read More](https://medium.com/p/a6993ce9e24a) |
 | Thu, 08 Jan 2026 22:18:32 GMT | You Asked, We Answered: Everything About Cyber Resilience Navigator | Fook Hwa Tan | [Read More](https://medium.com/p/2ffbb959aca6) |
 | Thu, 08 Jan 2026 22:17:07 GMT | It’s Here: Cyber Resilience Navigator Is Now Live | Fook Hwa Tan | [Read More](https://medium.com/p/4af28fa9bc24) |
 | Thu, 08 Jan 2026 22:09:19 GMT | End-to-End RMF Lifecycle. The ISSO Role at Each Phase | Babux | [Read More](https://medium.com/p/f751646a63c3) |
@@ -115,4 +116,3 @@ Room: https://tryhackme.com/room/hydra | Hadeshuntx | [Read More](https://medium
 | Thu, 08 Jan 2026 15:24:15 GMT | Android Pentesting — Part 1: Getting Started with a Vulnerable Android App | Mscmkn | [Read More](https://medium.com/p/869c3eb4b98c) |
 | Thu, 08 Jan 2026 15:19:54 GMT | OWASP Top 10:2025 — A Complete Guide for Developers | Aman verma | [Read More](https://medium.com/p/2d44fa1dadd8) |
 | Thu, 08 Jan 2026 15:16:08 GMT | I Found a P2 Bug on a Live Target Using a CTF Trick—You Won’t Believe This. | Rajankumarbarik | [Read More](https://medium.com/p/105f8f807373) |
-| Thu, 08 Jan 2026 15:02:58 GMT | Cyber Briefing: 2026.01.08 | CyberMaterial | [Read More](https://medium.com/p/138943f8b093) |
