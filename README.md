@@ -12,13 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 14:42:38 GMT | The AI Bubble: A Tech Revolution or a Financial Time Bomb? | Joe | [Read More](https://medium.com/p/3dba2798ec6c) |
+| Thu, 08 Jan 2026 14:40:48 GMT | Cyber Security: Threats, Vulnerabilities & Countermeasures | Fiza saleem | [Read More](https://medium.com/p/69d9c270861a) |
+| Thu, 08 Jan 2026 14:37:46 GMT | Logic Flaw to Race Condition to Four Digit Bounty | PARADOX | [Read More](https://medium.com/p/34bef38493a3) |
+| Thu, 08 Jan 2026 14:35:38 GMT | What Breaks When You Apply Cloud Security Concepts to Industrial Environments | Maxi | [Read More](https://medium.com/p/69cd5de95925) |
+| Thu, 08 Jan 2026 14:34:14 GMT | HexStrike + Cursor (MCP): From Single Target → Full Subnet Compromise (Lab PT Walkthrough) | Andrey Pautov | [Read More](https://medium.com/p/f2e1fd793ad7) |
+| Thu, 08 Jan 2026 14:32:47 GMT | A Comprehensive Guide to Hooking Clients to BEEF and Stealing Passwords | Vignesh R | [Read More](https://medium.com/p/80878c601c78) |
+| Thu, 08 Jan 2026 14:29:51 GMT | TheHackersLabs — Brócoli | APS88 | [Read More](https://medium.com/p/24784fba47fc) |
+| Thu, 08 Jan 2026 14:24:25 GMT | An LLM Driven Multiagent Framework for Detecting Chat-Based Insider Threats | Terrence Cai | [Read More](https://medium.com/p/69690f5e9630) |
 | Thu, 08 Jan 2026 14:22:04 GMT | Image XSS ATTACK on Exif.tools - Hacking exif.tools via image injection by CYBER KALKI #Livepoc | ElonMuskTheAntichrist | [Read More](https://medium.com/p/250f19afa866) |
+| Thu, 08 Jan 2026 14:20:46 GMT | The $100,000 Question: How CMMC Certification Is Reshaping the Defense Industrial Base | Lizzy J. | [Read More](https://medium.com/p/82e5a642027c) |
 | Thu, 08 Jan 2026 14:14:39 GMT | Privacy in 2026: Why It Matters More Than Ever | Infinity Matrix | [Read More](https://medium.com/p/cf2a1c73df15) |
 | Thu, 08 Jan 2026 14:06:29 GMT | Akamai WAF Bypass: Escalating SSRF into Internal Port Scanning | toast | [Read More](https://medium.com/p/fc78402f94e7) |
 | Thu, 08 Jan 2026 14:05:29 GMT | The Silent Failure of Real SOCs When Feeding External Telemetry into CrowdStrike | Pablo Echeverria | [Read More](https://medium.com/p/f966d8e72c82) |
 | Thu, 08 Jan 2026 14:02:54 GMT | The best cybersecurity stories of 2025 | Costin Raiu | [Read More](https://medium.com/p/13e111bf358a) |
 | Thu, 08 Jan 2026 14:02:50 GMT | Digital Travel App TripBFF Exposed Location Data Way Too Accurately | Jonathan Leitschuh | [Read More](https://medium.com/p/524cd0792a7d) |
 | Thu, 08 Jan 2026 13:58:53 GMT | Cybersecurity in 2026: How Businesses Must Adapt to an AI-Driven Threat Landscape | Techridge Solutions | [Read More](https://medium.com/p/773a36ea1605) |
+| Thu, 08 Jan 2026 13:58:32 GMT | IT’de 10 Yıl: Bir Puzzle’ın Parçalarını Birleştirmek | Göktuğ Doğan | [Read More](https://medium.com/p/02aa70b2f7a9) |
 | Thu, 08 Jan 2026 13:57:31 GMT | When One Transaction Runs Twice: How Drosera Stops Cloning Attacks | 0x_taohid | [Read More](https://medium.com/p/619fffcf1725) |
 | Thu, 08 Jan 2026 13:50:12 GMT | Stolen Data Can Now Be Used to Break AI Models on Purpose | Chetan Seripally | [Read More](https://medium.com/p/b1c0663bc227) |
 | Thu, 08 Jan 2026 13:46:28 GMT | Why Top Mobile Performing Testing Services Matter Before Your App Goes Live | Achana prashanth | [Read More](https://medium.com/p/e755ca57e929) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 Jan 2026 07:52:55 GMT | AWhat Working With Azure Taught Me About Real-World Security By Yusha Kahn | Yusha_kahn | [Read More](https://medium.com/p/6efad5865bbc) |
 | Thu, 08 Jan 2026 07:49:43 GMT | My PJPT exam experience 2026 | Gothos | [Read More](https://medium.com/p/cd23a36ced95) |
 | Thu, 08 Jan 2026 07:49:41 GMT | From Fear to Freedom: My Dance with the Unknown | Ana D. | [Read More](https://medium.com/p/8481391b4f17) |
-| Thu, 08 Jan 2026 07:48:46 GMT | Antivirus for Windows That Simplifies Security for Everyone | Siyanoav | [Read More](https://medium.com/p/cc946c867aa8) |
-| Thu, 08 Jan 2026 07:46:43 GMT | I Thought XSS Was Easy…Until Nothing Worked | Namya | [Read More](https://medium.com/p/1188c949b358) |
-| Thu, 08 Jan 2026 07:45:56 GMT | CryptoCurrency Security Standard (CCSS): They made a playbook to secure your crypto? | Aniruddha Dhumal | [Read More](https://medium.com/p/25c3db61f5e9) |
-| Thu, 08 Jan 2026 07:43:44 GMT | 2025 TryHackMe Precap: How 212 Days of Hacking Rewired My Thinking | Pronoy Chandra Day | [Read More](https://medium.com/p/f283c04613fb) |
-| Thu, 08 Jan 2026 07:37:38 GMT | Complete Online Artificial Intelligence Course for Beginners to Advanced | cyber security Updates | [Read More](https://medium.com/p/4260af0c00e1) |
-| Thu, 08 Jan 2026 07:32:45 GMT | 7 Risks “AI + Token” Teams Are Underestimating | Quellin | [Read More](https://medium.com/p/65e7ed5cad5c) |
-| Thu, 08 Jan 2026 07:31:53 GMT | How a Simple DMARC Check Can Save Your Domain from Being Weaponized | Everywebtool | [Read More](https://medium.com/p/25c37f3bfd76) |
-| Thu, 08 Jan 2026 07:30:02 GMT | 5 Pillars of Information Security Explained Through Architecture-Driven Learning | Satender Kumar | [Read More](https://medium.com/p/80636a4a9685) |
-| Thu, 08 Jan 2026 07:29:51 GMT | What is IDS (Intrusion Detection System), and how does it protect networks? | Trust Consulting Services | [Read More](https://medium.com/p/7218ae2127d4) |
-| Thu, 08 Jan 2026 07:29:50 GMT | ประจำวันพฤหัสบดีที่ 8 มกราคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/4a980722410e) |
