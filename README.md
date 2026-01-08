@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 15:49:32 GMT | Day 5 — Revisiting Networking Fundamentals the Way Security Engineers Actually Use Them | NineTales | [Read More](https://medium.com/p/b75668255ca4) |
+| Thu, 08 Jan 2026 15:47:02 GMT | [FORECAST] CoPhish: The Microsoft Copilot Link That Hands Over Your OAuth Tokens | Wes Young | [Read More](https://medium.com/p/8a2b159a378d) |
+| Thu, 08 Jan 2026 15:45:50 GMT | SecurityOnion — Installation on VMware [Home Lab] | DeshmukhVinit | [Read More](https://medium.com/p/61882d4f378f) |
+| Thu, 08 Jan 2026 15:43:20 GMT | CVE‑2026‑21858: “Ni8mare”: Unauthenticated RCE in n8n | gm0 | [Read More](https://medium.com/p/1433d28e436f) |
+| Thu, 08 Jan 2026 15:42:52 GMT | How I Secured My FastAPI Backend API in 5 Simple Steps | Khondaker Rifat-E-Rahman | [Read More](https://medium.com/p/6bd568db916e) |
+| Thu, 08 Jan 2026 15:42:51 GMT | Garage Door Spring Replacement: Signs You Need to Watch For | Up & Down Garage Door Services | [Read More](https://medium.com/p/1911bd0ee811) |
+| Thu, 08 Jan 2026 15:41:49 GMT | How a Quiet Debug Endpoint Sparked a Major Mobile App Data Leak | 1$ Mistake | [Read More](https://medium.com/p/4be0e5b1c030) |
+| Thu, 08 Jan 2026 15:41:12 GMT | 217,000+ VNC Attack Attempts Observed on a Public Honeypot in 10+ days | berke bodur | [Read More](https://medium.com/p/4e6be8f55487) |
+| Thu, 08 Jan 2026 15:40:43 GMT | How GRC Platforms Drastically Reduce Compliance Costs | CyRAACS | [Read More](https://medium.com/p/6ed6aaacd6f7) |
+| Thu, 08 Jan 2026 15:39:32 GMT | Infinity Learning lab: Function’s Backdoor Route — Writeup | Hubert | [Read More](https://medium.com/p/e0dad4748968) |
+| Thu, 08 Jan 2026 15:38:18 GMT | Public Wi-Fi Can Hack You Without Touching Your Phone | Aditya Kumar Singh | [Read More](https://medium.com/p/10d240e6b72d) |
+| Thu, 08 Jan 2026 15:37:11 GMT | Armed Security Guard Dallas | US guard security company | [Read More](https://medium.com/p/1096e3f4a63a) |
+| Thu, 08 Jan 2026 15:35:27 GMT | ArchaCTF_2026 - DDJ WY HACKER | !US3R | [Read More](https://medium.com/p/dafb3726992d) |
+| Thu, 08 Jan 2026 15:31:18 GMT | Fixing APT Repository Warnings in Kali Linux | Cbrnex | [Read More](https://medium.com/p/ab1282d66023) |
+| Thu, 08 Jan 2026 15:24:15 GMT | Android Pentesting — Part 1: Getting Started with a Vulnerable Android App | Mscmkn | [Read More](https://medium.com/p/869c3eb4b98c) |
 | Thu, 08 Jan 2026 15:19:54 GMT | OWASP Top 10:2025 — A Complete Guide for Developers | Aman verma | [Read More](https://medium.com/p/2d44fa1dadd8) |
 | Thu, 08 Jan 2026 15:16:08 GMT | I Found a P2 Bug on a Live Target Using a CTF Trick—You Won’t Believe This. | Rajankumarbarik | [Read More](https://medium.com/p/105f8f807373) |
 | Thu, 08 Jan 2026 15:02:58 GMT | Cyber Briefing: 2026.01.08 | CyberMaterial | [Read More](https://medium.com/p/138943f8b093) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 Jan 2026 10:11:18 GMT | When Search Results Become A Cybersecurity Risk | Gautam Mengle | [Read More](https://medium.com/p/0ec93d425cef) |
 | Thu, 08 Jan 2026 10:04:37 GMT | The OWASP Top 10 for Agentic AI: Complete Security Guide (2026) | Ana Bildea, PhD | [Read More](https://medium.com/p/9e36849f78ca) |
 | Thu, 08 Jan 2026 09:56:58 GMT | Best Ethical Hacking Training in Hindi 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/6b3eea7ef435) |
-| Thu, 08 Jan 2026 09:51:45 GMT | I built a Firewall that speaks English because I hate YAML!! | Sini T P | [Read More](https://medium.com/p/2850feffa8b8) |
-| Thu, 08 Jan 2026 09:44:58 GMT | Automation Gone Wrong: n8n’s Perfect 10s, Space Agency Drama, and the Living Dead of D-Link | Threat Road | [Read More](https://medium.com/p/7da952f4fa57) |
-| Thu, 08 Jan 2026 09:43:22 GMT | Offensive Web Pentesting Bootcamp | Dallen Sadru | [Read More](https://medium.com/p/fb61e98bf9a4) |
-| Thu, 08 Jan 2026 09:38:18 GMT | Using Git Commits as a Persistence Mechanism | Chicken0248 | [Read More](https://medium.com/p/c44a0ee22068) |
-| Thu, 08 Jan 2026 09:37:27 GMT | How to remove a hacker from my phone? 4-step emergency guide | Safelyo Global | [Read More](https://medium.com/p/2f9a4484f4a3) |
-| Thu, 08 Jan 2026 09:34:23 GMT | Review of HTB Certified Web Exploitation Specialist (HTB CWES, formerly CBBH) certification | Ramazan | [Read More](https://medium.com/p/5f2eb78d2b1d) |
-| Thu, 08 Jan 2026 09:32:43 GMT | I Watched 17 Startups Die From Cyberattacks. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/bebad8d21509) |
-| Thu, 08 Jan 2026 09:24:26 GMT | When the Privacy Tool Has a Privacy Problem: Finding My First XSS Vulnerability | Madanu Akash | [Read More](https://medium.com/p/3d1a28678378) |
-| Thu, 08 Jan 2026 09:24:06 GMT | The Startup Lifeline | Oladipo Taiwo Olamide(Lolu_Everywhere) | [Read More](https://medium.com/p/5be272e92240) |
-| Thu, 08 Jan 2026 09:21:04 GMT | Open Source AI PenTest & Red Team: Challenges, free tools, comparisons, and practical use cases! | Nothing Cyber [NC] | [Read More](https://medium.com/p/705730238666) |
-| Thu, 08 Jan 2026 09:06:54 GMT | Hands-On Android Security Testing in AndroGoat — Network Intercepting | Hammam Awis Zukimi | [Read More](https://medium.com/p/eda7500f9592) |
-| Thu, 08 Jan 2026 09:02:50 GMT | The 60-Second Check That Found 200+ Exposed Employees at a Fortune 500 | Alexandre Vandamme | [Read More](https://medium.com/p/8184a5cdf5e2) |
-| Thu, 08 Jan 2026 09:02:46 GMT | Learning Elastic Security: How Data Structure Shapes SIEM Analysis | Gifty Boakye | [Read More](https://medium.com/p/04896a9c0241) |
-| Thu, 08 Jan 2026 08:57:02 GMT | The 2026 B2B Buyer Journey: Why Middle-of-Funnel Content Decides Outcomes | Yuvi | [Read More](https://medium.com/p/63381b813fef) |
-| Thu, 08 Jan 2026 08:51:39 GMT | Electronic Security Solutions: Building Safer Businesses with Total Security Solutions | Ciss India | [Read More](https://medium.com/p/20140f19dcd5) |
