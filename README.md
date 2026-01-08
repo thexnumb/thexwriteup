@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 19:24:15 GMT | Privileged Access Management in the Age of Agentic AI: Recognizing and Securing a New Identity Type | vinay vasanth | [Read More](https://medium.com/p/1a6af8054f5f) |
 | Thu, 08 Jan 2026 19:15:49 GMT | Windows Server 2025 Üzerinde Hyper-V ile Sanallaştırma Altyapısı | Hakan ÇEVİK | [Read More](https://medium.com/p/9a1b9946c2e5) |
 | Thu, 08 Jan 2026 19:15:43 GMT | You Won’t Believe These 6 Labs That Hack Your Cloud in Minutes! | cybrNK | [Read More](https://medium.com/p/07e97eb9e8c9) |
 | Thu, 08 Jan 2026 19:07:43 GMT | Offsec Funbox Rookie Writeup | sabR | [Read More](https://medium.com/p/9dc762110adf) |
@@ -115,4 +116,3 @@ Room: https://tryhackme.com/room/hydra | Hadeshuntx | [Read More](https://medium
 | Thu, 08 Jan 2026 14:05:29 GMT | The Silent Failure of Real SOCs When Feeding External Telemetry into CrowdStrike | Pablo Echeverria | [Read More](https://medium.com/p/f966d8e72c82) |
 | Thu, 08 Jan 2026 14:02:54 GMT | The best cybersecurity stories of 2025 | Costin Raiu | [Read More](https://medium.com/p/13e111bf358a) |
 | Thu, 08 Jan 2026 14:02:50 GMT | Digital Travel App TripBFF Exposed Location Data Way Too Accurately | Jonathan Leitschuh | [Read More](https://medium.com/p/524cd0792a7d) |
-| Thu, 08 Jan 2026 13:58:53 GMT | Cybersecurity in 2026: How Businesses Must Adapt to an AI-Driven Threat Landscape | Techridge Solutions | [Read More](https://medium.com/p/773a36ea1605) |
