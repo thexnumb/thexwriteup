@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 10:33:54 GMT | Cyber Law Explained Simply : A Beginner’s Guide to Staying Safe Online | Chhavipreet Kaur | [Read More](https://medium.com/p/4b6de7011ecd) |
+| Thu, 08 Jan 2026 10:33:07 GMT | MQTT Security Is Broken: How Adaptive Honeypots Expose Real IIoT Attacks | Piyali | [Read More](https://medium.com/p/e1763d9502b4) |
 | Thu, 08 Jan 2026 10:11:18 GMT | When Search Results Become A Cybersecurity Risk | Gautam Mengle | [Read More](https://medium.com/p/0ec93d425cef) |
 | Thu, 08 Jan 2026 10:04:37 GMT | The OWASP Top 10 for Agentic AI: Complete Security Guide (2026) | Ana Bildea, PhD | [Read More](https://medium.com/p/9e36849f78ca) |
 | Thu, 08 Jan 2026 09:56:58 GMT | Best Ethical Hacking Training in Hindi 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/6b3eea7ef435) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 Jan 2026 03:10:36 GMT | Teramind’s Top 30 2025 Future of Security Awards | Matthew.Rosenquist | [Read More](https://medium.com/p/5001491dfdc8) |
 | Thu, 08 Jan 2026 03:03:55 GMT | The AI Tools That Startups and Smart Developers Use Before Things Break in 2026 | Ankit Goyal | [Read More](https://medium.com/p/32cb05a63e79) |
 | Thu, 08 Jan 2026 02:39:04 GMT | By Sebastion Mauldin | Secured By Sebastion | [Read More](https://medium.com/p/5b6be4be3036) |
-| Thu, 08 Jan 2026 02:34:03 GMT | Why most AI agent guardrails fail in production [Part 1] | Jesse | [Read More](https://medium.com/p/3faf47f3f397) |
-| Thu, 08 Jan 2026 02:25:24 GMT | LangChain Serialization Vulnerabilities: When LLMs Generate Exploits | David Anderson | [Read More](https://medium.com/p/16e4f1882001) |
