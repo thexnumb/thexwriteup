@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 03:32:44 GMT | Network and Communications Security Part 3: Core Defenses and Traffic Flows, Explained Simply | Manubhav Sharma | [Read More](https://medium.com/p/5589222c4f47) |
+| Thu, 08 Jan 2026 03:28:33 GMT | Why Spotify’s latest problem could change music forever | Abstract Mind | [Read More](https://medium.com/p/51eedbfa48db) |
+| Thu, 08 Jan 2026 03:25:36 GMT | Monitoring Guest Privacy — Our Short-Term Rental’s Camera Disclosure Statement | Thomas Pease | [Read More](https://medium.com/p/1c4763cd8fe6) |
+| Thu, 08 Jan 2026 03:23:48 GMT | Tech Myths Everyone Still Believes (And Why They’re Wrong) | Hameedduke | [Read More](https://medium.com/p/fc905118fca0) |
+| Thu, 08 Jan 2026 03:23:09 GMT | Recruiting Google Gemini’s Email Summarizer as a Phishing Aid | Mike Sheward | [Read More](https://medium.com/p/417055295ba7) |
+| Thu, 08 Jan 2026 03:22:08 GMT | Portswigger Web Security Academy Lab: Username enumeration via response timing | Baskoroido | [Read More](https://medium.com/p/1f27b50be438) |
+| Thu, 08 Jan 2026 03:15:12 GMT | Token Leakage in Password Reset Flows | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/88ca87e0adca) |
+| Thu, 08 Jan 2026 03:10:36 GMT | Teramind’s Top 30 2025 Future of Security Awards | Matthew.Rosenquist | [Read More](https://medium.com/p/5001491dfdc8) |
+| Thu, 08 Jan 2026 03:03:55 GMT | The AI Tools That Startups and Smart Developers Use Before Things Break in 2026 | Ankit Goyal | [Read More](https://medium.com/p/32cb05a63e79) |
+| Thu, 08 Jan 2026 02:39:04 GMT | By Sebastion Mauldin | Secured By Sebastion | [Read More](https://medium.com/p/5b6be4be3036) |
+| Thu, 08 Jan 2026 02:34:03 GMT | Why most AI agent guardrails fail in production [Part 1] | Jesse | [Read More](https://medium.com/p/3faf47f3f397) |
+| Thu, 08 Jan 2026 02:25:24 GMT | LangChain Serialization Vulnerabilities: When LLMs Generate Exploits | David Anderson | [Read More](https://medium.com/p/16e4f1882001) |
+| Thu, 08 Jan 2026 02:25:19 GMT | The Security Problem Every SaaS Company Has But Won’t Talk About | David Anderson | [Read More](https://medium.com/p/6c2a49e55491) |
+| Thu, 08 Jan 2026 02:13:32 GMT | Why Most Security Failures Are Actually Trust Failures | Mohamed Fatheem | [Read More](https://medium.com/p/978c26a40b79) |
+| Thu, 08 Jan 2026 02:11:31 GMT | PowerShell Automation for DISA STIG Compliance | Dany Christel | [Read More](https://medium.com/p/ed65ec538104) |
 | Thu, 08 Jan 2026 01:42:11 GMT | TryHackMe: Willow Writeup | cbev | [Read More](https://medium.com/p/fb1247fd385d) |
 | Thu, 08 Jan 2026 01:42:04 GMT | Private Endpoint DNS Explained: How Name Resolution Really Works in Azure | Alberto Credmann Beniste | [Read More](https://medium.com/p/0fc91e34ebf0) |
 | Thu, 08 Jan 2026 01:32:45 GMT | n8n Signed Webhooks + mTLS: Zero-Trust Integrations Across SaaS Boundaries | Bytecraft | [Read More](https://medium.com/p/1d63217f7936) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 17:37:21 GMT | AI Didn’t Break Digital Products. We Designed Them to Fail. | Khushdeep Sharma | [Read More](https://medium.com/p/f48a0b6d0efc) |
 | Wed, 07 Jan 2026 17:35:11 GMT | WhatsApp Verification Code Phishing: Technical Breakdown of a Low-Effort, High-Impact Hack. | M. Thibaut | [Read More](https://medium.com/p/d2d12e03978c) |
 | Wed, 07 Jan 2026 17:24:22 GMT | “Bug Bounty Bootcamp #11: Hands-On HTTP — Using Proxy Tools to See, Intercept, and Weaponize Every… | Aman Sharma | [Read More](https://medium.com/p/121c1afb4bf5) |
-| Wed, 07 Jan 2026 17:23:48 GMT | Why Encrypted Password Storage Still Fails — Lessons from Chrome’s Design | Cybernight | [Read More](https://medium.com/p/a9ff5ed560df) |
-| Wed, 07 Jan 2026 17:22:34 GMT | I Was Logged Out — But the API Still Trusted Me | Iski | [Read More](https://medium.com/p/85ebbe020544) |
-| Wed, 07 Jan 2026 17:22:31 GMT | Hacking a Cyber security career-part 2 | Oscar Okwero | [Read More](https://medium.com/p/e63055094972) |
-| Wed, 07 Jan 2026 17:12:36 GMT | I Don’t Even Know If My Life Is A Movie Or It Is Written By God | Pajay Haykins | [Read More](https://medium.com/p/21b06482fd94) |
-| Wed, 07 Jan 2026 17:08:00 GMT | Try Hack Me- Boiler CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/463818626de4) |
-| Wed, 07 Jan 2026 17:06:12 GMT | The Psychology Behind Dark Web Scams: Why People Fall for Them | Tor BBB | [Read More](https://medium.com/p/52b1f1de5394) |
-| Wed, 07 Jan 2026 17:05:44 GMT | TryHackMe — Opacity Writeup | alda69 | [Read More](https://medium.com/p/d0a8eb22883f) |
-| Wed, 07 Jan 2026 17:03:05 GMT | Zero-Click Attacks Explained: How Messaging Apps Are Compromised Without User Interaction | Mohammed Lorans Alsalama | [Read More](https://medium.com/p/8f9c013e52b8) |
-| Wed, 07 Jan 2026 17:02:47 GMT | Twin CVSS 10.0 bugs turn n8n workflows into an attacker’s playground | Sudarshan | [Read More](https://medium.com/p/ee81145089c6) |
-| Wed, 07 Jan 2026 16:55:16 GMT | Android Pentesting Lab — Part 0: Ultimate Setup Guide (2026) | Mscmkn | [Read More](https://medium.com/p/b268ec231e5c) |
-| Wed, 07 Jan 2026 16:44:49 GMT | Why SQL Injection is Still the Web’s Most Dangerous “Zombie” Bug | Alouli Mohamed Zaid | [Read More](https://medium.com/p/58b679a72c89) |
-| Wed, 07 Jan 2026 16:43:50 GMT | How Terrorists Weaponised #BringBackOurGirls: The Dark Side of Viral Campaigns | Oge Samuel Okonkwo | [Read More](https://medium.com/p/105de25a5ff0) |
-| Wed, 07 Jan 2026 16:36:17 GMT | Hack DJI Mini 3 : L’échec de mes attaques Replay et GPS Spoofing. | RAPATT | [Read More](https://medium.com/p/1d8a0462cd71) |
-| Wed, 07 Jan 2026 16:35:52 GMT | Today was my first Cyber Security class. | Aliyan Ali | [Read More](https://medium.com/p/49b6a84da854) |
-| Wed, 07 Jan 2026 16:35:01 GMT | How I Found Broken Authentication and Authorization on a Website | Shir0E | [Read More](https://medium.com/p/378db3f2aaea) |
