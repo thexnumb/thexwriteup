@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 20:18:53 GMT | Hackers aren’t your only threat. In 2026, Authorities are just as dangerous. | Routerfishers | [Read More](https://medium.com/p/bd62b837a116) |
 | Thu, 08 Jan 2026 20:08:20 GMT | FW-Backfiring: Why “Sending Attacks Back to the Source” Is a Bad Idea | Derek Johnston | [Read More](https://medium.com/p/664bc1f454f3) |
 | Thu, 08 Jan 2026 20:03:50 GMT | Anatomy of Failure: How One Click Destroys Years of Anonymity | Jayson Morale | [Read More](https://medium.com/p/50bc12e00b95) |
 | Thu, 08 Jan 2026 19:56:30 GMT | MFA Is Not Enough: How MFA Phishing Works in Real Life | Ozkan Sonmez | [Read More](https://medium.com/p/ceb25b50b183) |
@@ -115,4 +116,3 @@ Room: https://tryhackme.com/room/hydra | Hadeshuntx | [Read More](https://medium
 | Thu, 08 Jan 2026 14:37:46 GMT | Logic Flaw to Race Condition to Four Digit Bounty | PARADOX | [Read More](https://medium.com/p/34bef38493a3) |
 | Thu, 08 Jan 2026 14:35:38 GMT | What Breaks When You Apply Cloud Security Concepts to Industrial Environments | Maxi | [Read More](https://medium.com/p/69cd5de95925) |
 | Thu, 08 Jan 2026 14:34:14 GMT | HexStrike + Cursor (MCP): From Single Target → Full Subnet Compromise (Lab PT Walkthrough) | Andrey Pautov | [Read More](https://medium.com/p/f2e1fd793ad7) |
-| Thu, 08 Jan 2026 14:32:47 GMT | A Comprehensive Guide to Hooking Clients to BEEF and Stealing Passwords | Vignesh R | [Read More](https://medium.com/p/80878c601c78) |
