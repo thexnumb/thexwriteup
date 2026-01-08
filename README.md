@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 09:24:26 GMT | When the Privacy Tool Has a Privacy Problem: Finding My First XSS Vulnerability | Madanu Akash | [Read More](https://medium.com/p/3d1a28678378) |
+| Thu, 08 Jan 2026 09:24:06 GMT | The Startup Lifeline | Oladipo Taiwo Olamide(Lolu_Everywhere) | [Read More](https://medium.com/p/5be272e92240) |
+| Thu, 08 Jan 2026 09:21:04 GMT | Open Source AI PenTest & Red Team: Challenges, free tools, comparisons, and practical use cases! | Nothing Cyber [NC] | [Read More](https://medium.com/p/705730238666) |
+| Thu, 08 Jan 2026 09:06:54 GMT | Hands-On Android Security Testing in AndroGoat — Network Intercepting | Hammam Awis Zukimi | [Read More](https://medium.com/p/eda7500f9592) |
+| Thu, 08 Jan 2026 09:02:50 GMT | The 60-Second Check That Found 200+ Exposed Employees at a Fortune 500 | Alexandre Vandamme | [Read More](https://medium.com/p/8184a5cdf5e2) |
+| Thu, 08 Jan 2026 09:02:46 GMT | Learning Elastic Security: How Data Structure Shapes SIEM Analysis | Gifty Boakye | [Read More](https://medium.com/p/04896a9c0241) |
+| Thu, 08 Jan 2026 08:57:02 GMT | The 2026 B2B Buyer Journey: Why Middle-of-Funnel Content Decides Outcomes | Yuvi | [Read More](https://medium.com/p/63381b813fef) |
+| Thu, 08 Jan 2026 08:51:39 GMT | Electronic Security Solutions: Building Safer Businesses with Total Security Solutions | Ciss India | [Read More](https://medium.com/p/20140f19dcd5) |
+| Thu, 08 Jan 2026 08:49:42 GMT | Your Voice Is Now a Password: How to Beat Deepfake and Voice-Cloning Scams in 2026 | Germano Costi | [Read More](https://medium.com/p/ca092735ea5a) |
+| Thu, 08 Jan 2026 08:41:47 GMT | iCloud Hijack - Hire Professional Hacker | BlackHat | [Read More](https://medium.com/p/9c69c04d901c) |
 | Thu, 08 Jan 2026 08:20:23 GMT | GITHUB STUDENT PACK — A TICKET TO STARTING YOUR JOURNEY IN CYBERSECURITY 2026 | Joanorifha | [Read More](https://medium.com/p/fd06d803719c) |
 | Thu, 08 Jan 2026 08:18:21 GMT | Beyond Testing to Continuity: My Transition from QA Lead to Manager Application Support. | Abhinav Acharya | [Read More](https://medium.com/p/af4a82511705) |
 | Thu, 08 Jan 2026 08:17:21 GMT | Compliance Shouldn’t Be a Fire Drill: A Guide to Automated SIEM Engineering | Gwen | [Read More](https://medium.com/p/7d684431c402) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 Jan 2026 01:22:44 GMT | Why Women Feel compelled to Own Homes: Security, Independence, and the Pursuit of Belonging | Hanpis | [Read More](https://medium.com/p/267a262686b2) |
 | Thu, 08 Jan 2026 01:21:05 GMT | Resilient Cryptographic Architecture for Global Enterprises | Sandiego Stein | [Read More](https://medium.com/p/b6a9318fc169) |
 | Thu, 08 Jan 2026 01:12:02 GMT | Is Cracked-Software a Better Alternative in this Weak of Economy? | Andika Pratama | [Read More](https://medium.com/p/78c102fb5ede) |
-| Thu, 08 Jan 2026 01:05:56 GMT | As AI Moves Into Government, National Security Enters A New Era In 2026 | Moni | [Read More](https://medium.com/p/9f04539beec5) |
-| Thu, 08 Jan 2026 01:02:44 GMT | Wireshark Deep Dive: Extracting Evidence from Network Traffic | Cybersecurity Simplified | [Read More](https://medium.com/p/e8ab043b686b) |
-| Thu, 08 Jan 2026 00:48:59 GMT | Lo-Fi TryHackMe Write UP | cat0x01 | [Read More](https://medium.com/p/a0a7e0e12f60) |
-| Thu, 08 Jan 2026 00:17:54 GMT | One Deepfake Every 60 Seconds: Inside the AI Abuse Crisis That Money Still Rewards | Zoom In AI | [Read More](https://medium.com/p/9d5000c48552) |
-| Thu, 08 Jan 2026 00:17:05 GMT | Your Data Is Exposed Online Here Is How To Reduce Risk | Geoffrey Wenger | [Read More](https://medium.com/p/759ad5c4cf44) |
-| Thu, 08 Jan 2026 00:15:00 GMT | Building Trust in Financial Email Systems: A Dual-Layer AI Framework for Detecting Pre-Encryption… | Cynthia Ifebi | [Read More](https://medium.com/p/79cb831fc008) |
-| Thu, 08 Jan 2026 00:02:40 GMT | Ambient Authority Confusion : Redefining the Confused Deputy Problem for AI Agents | Vikas Malik | [Read More](https://medium.com/p/f779fefe380d) |
-| Wed, 07 Jan 2026 23:59:46 GMT | That One Glorifying Trait… | Vibha vikas | [Read More](https://medium.com/p/363f2e5daf81) |
-| Wed, 07 Jan 2026 23:58:46 GMT | Technical Debt Is Not a Code Problem. It’s a Business Drag. | Nikolay Gekht | [Read More](https://medium.com/p/8e3475e71d55) |
-| Wed, 07 Jan 2026 23:57:11 GMT | How I Would Build a Video System That Actually Helps People | Siddhesh Jadhav | [Read More](https://medium.com/p/890927d986cf) |
