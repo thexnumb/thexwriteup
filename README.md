@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 17:21:23 GMT | Why ORMs Hide Performance Bugs in Spring Boot (And How They Sneak into Production) | Lakshika | [Read More](https://medium.com/p/4875c6218e4f) |
+| Thu, 08 Jan 2026 17:17:19 GMT | When AI Becomes Infrastructure — The Collapse of Traditional Cybersecurity Boundaries | Muhammad Ali Khan | [Read More](https://medium.com/p/fc0bd3406063) |
+| Thu, 08 Jan 2026 17:02:07 GMT | Sanity Test、Smoke Test、Regression Test 的比喻 | 思維舞步 MindSteps | [Read More](https://medium.com/p/1cb07f79d8ac) |
+| Thu, 08 Jan 2026 16:54:36 GMT | Hoops on the Horizon | Hatteras Hoops | [Read More](https://medium.com/p/38dc6052a546) |
+| Thu, 08 Jan 2026 16:52:34 GMT | n8n Vulnerabilities: When Automation Workflows Become Exploitable | Aastha Thakker | [Read More](https://medium.com/p/f7c95b4e4ec8) |
+| Thu, 08 Jan 2026 16:50:55 GMT | Mass YouTube Livestream Hijacking & Cryptocurrency Giveaway Scam Using Impersonation and Fake… | Dave Christian | [Read More](https://medium.com/p/959a9c4824a1) |
+| Thu, 08 Jan 2026 16:48:52 GMT | TryHackMe Hydra — A Professional Walkthrough
+Room: https://tryhackme.com/room/hydra | Hadeshuntx | [Read More](https://medium.com/p/a34ccd80ef8f) |
+| Thu, 08 Jan 2026 16:43:32 GMT | Breaking Down a Broken Authentication Design in FreshRSS | Vedic_error | [Read More](https://medium.com/p/214e4bd39ed4) |
+| Thu, 08 Jan 2026 16:30:40 GMT | SOC Detection and Log Analysis Lab Using Wazuh SIEM | bakmietunggu | [Read More](https://medium.com/p/f5bd3b12e89e) |
+| Thu, 08 Jan 2026 16:27:15 GMT | MCP: Between Standardization and the New AI “Spaghetti Code” | Sergio Toro | [Read More](https://medium.com/p/50441dc0ddac) |
+| Thu, 08 Jan 2026 16:24:50 GMT | I’m Too Small to Be a Hacker” — The Most Expensive Mistake in the Middle Class | Cordula Boeck | [Read More](https://medium.com/p/55cb73fbaa52) |
 | Thu, 08 Jan 2026 16:23:52 GMT | I Passed CompTIA Security+ (800/900) : What I Learned Beyond the Exam | Sayak Mukherjee | [Read More](https://medium.com/p/392ea5e861ab) |
 | Thu, 08 Jan 2026 16:22:18 GMT | Claimed Breach, Contested Reality | Decentr | [Read More](https://medium.com/p/5ea6a925f776) |
 | Thu, 08 Jan 2026 16:17:17 GMT | Ghost in the Pocket: The end of the cloud and the rise of sovereign AI | Sam.KL | [Read More](https://medium.com/p/203fad24d1fe) |
@@ -101,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 Jan 2026 12:02:49 GMT | Understanding CWE-315: Cleartext Storage of Sensitive Information in a Cookie | Walter Moar | [Read More](https://medium.com/p/22af98e92497) |
 | Thu, 08 Jan 2026 11:57:32 GMT | 50+ AI Security Interview Questions & Answers for 2026 | Practical DevSecOps | [Read More](https://medium.com/p/482ca509b04f) |
 | Thu, 08 Jan 2026 11:51:26 GMT | Zigbee Security Deep Dive: An IoT Pentester’s Perspective | eSecForte Technologies | [Read More](https://medium.com/p/e29f26ad7041) |
-| Thu, 08 Jan 2026 11:48:49 GMT | Infinity Learning lab — On-Premise-22: CrushFTP Walk-through | 4b3in_ | [Read More](https://medium.com/p/6db07aaffb77) |
-| Thu, 08 Jan 2026 11:46:17 GMT | 8kSec — Ultimate AI Essay Grader Writeup | L0WK3Y | [Read More](https://medium.com/p/111846a77280) |
-| Thu, 08 Jan 2026 11:43:09 GMT | GDPR is necessary, ISO 27001 is what makes security real | Albert Minguell | [Read More](https://medium.com/p/b2800cb7788c) |
-| Thu, 08 Jan 2026 11:41:45 GMT | OT Cyber Security Services in Canada for Industrial Businesses | Arista Cyber | [Read More](https://medium.com/p/7f559ed37c1c) |
-| Thu, 08 Jan 2026 11:35:37 GMT | 4 Practices Every Developer Should Follow to Improve Application Security | SeQEW | [Read More](https://medium.com/p/28ed20b19bcf) |
-| Thu, 08 Jan 2026 11:34:05 GMT | Installing CCTV in Dubai? This Mistake Can Cost You Big | Abhilashtec | [Read More](https://medium.com/p/da997ba389a0) |
-| Thu, 08 Jan 2026 11:22:06 GMT | How Organizations Can Successfully Pass Cybersecurity Audits | Rahman Iqbal | [Read More](https://medium.com/p/bad2c17d897b) |
-| Thu, 08 Jan 2026 11:16:23 GMT | Elasticsearch-9200!! | Rela Lumbini | [Read More](https://medium.com/p/81754fceb810) |
-| Thu, 08 Jan 2026 11:15:10 GMT | AI Security Digest — Week 1, 2026 | Tal Eliyahu | [Read More](https://medium.com/p/dda459d01b0b) |
-| Thu, 08 Jan 2026 11:14:43 GMT | The AI Privacy Paradox: Why You Should Stop Renting a “Glass House” for Your Data | ServerMO | [Read More](https://medium.com/p/f98c707f57d6) |
-| Thu, 08 Jan 2026 11:12:50 GMT | Part 2 : Why Passwords Are Dying (And What’s Next) | Protégé IGDTUW | [Read More](https://medium.com/p/127dcdb9f8ad) |
