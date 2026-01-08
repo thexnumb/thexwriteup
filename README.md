@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 18:13:42 GMT | Technology 2026: The Year Words Became Intelligent | Shetty21me | [Read More](https://medium.com/p/15fa3aab1451) |
+| Thu, 08 Jan 2026 18:12:42 GMT | CopyPasta IDOR — BugForge Daily Challenge | 0ber1n | [Read More](https://medium.com/p/f81fbf944245) |
+| Thu, 08 Jan 2026 18:02:59 GMT | THM - Boogeyman 1 | Francesco Pastore | [Read More](https://medium.com/p/1f294f2b3b27) |
+| Thu, 08 Jan 2026 18:02:39 GMT | # TryHackMe: RootMe Write-up 
+**Machine Name:** RootMe 
+**Difficulty:** Easy 
+**Platform:**… | Rishith soni | [Read More](https://medium.com/p/1f635c4a81ad) |
+| Thu, 08 Jan 2026 18:02:06 GMT | One Forgotten Subdomain, Thousands of User Records — A Recon Story | Iski | [Read More](https://medium.com/p/6dcde55aaa7c) |
+| Thu, 08 Jan 2026 17:59:25 GMT | Archa CTF [2026] — Ghost Stallion | 3Bytes | [Read More](https://medium.com/p/1ba6e3438033) |
+| Thu, 08 Jan 2026 17:58:20 GMT | ️‍♂️Cybersecurity Insights: How Hackers Think to Protect Systems | Aliyan Ali | [Read More](https://medium.com/p/d68d48b3272b) |
+| Thu, 08 Jan 2026 17:56:45 GMT | CVE-2025–51414:Unrestricted file upload in Online Course Registration v3.1 | Tanush Kushwah | [Read More](https://medium.com/p/bd8b839be1d7) |
+| Thu, 08 Jan 2026 17:54:10 GMT | From Edge to Cloud: Pivoting to AWS via Compromised IoT Greengrass Devices | Arun Nair | [Read More](https://medium.com/p/657ba4927ca8) |
+| Thu, 08 Jan 2026 17:52:53 GMT | The Interface Singularity: When Your Messenger Became Your Bank | Hitcaff | [Read More](https://medium.com/p/89b972e048e7) |
+| Thu, 08 Jan 2026 17:50:34 GMT | Feedback-Driven Iteration and Fully Local webapp pentesting AI agent: Achieving ~78% on XBOW… | Yassine | [Read More](https://medium.com/p/199ef719bf01) |
 | Thu, 08 Jan 2026 17:42:15 GMT | Why Cybersecurity Is a Top Priority for Businesses in the UAE? | NSREEM | [Read More](https://medium.com/p/03fce00375dd) |
 | Thu, 08 Jan 2026 17:41:48 GMT | What Information Can You Extract From Just An Email Address | Abhay Parashar | [Read More](https://medium.com/p/38a673d09bfb) |
 | Thu, 08 Jan 2026 17:38:51 GMT | Designing a FedRAMP High Security Data Lake on AWS GovCloud | Ophir Zahavi | [Read More](https://medium.com/p/b59d1c80ddbe) |
@@ -102,14 +116,3 @@ Room: https://tryhackme.com/room/hydra | Hadeshuntx | [Read More](https://medium
 | Thu, 08 Jan 2026 13:02:48 GMT | Linux Security Habit #15: I Never Trust a “Clean” lastlog Output | Faruk Ahmed | [Read More](https://medium.com/p/2d9a142bf29c) |
 | Thu, 08 Jan 2026 12:58:20 GMT | What if Trump Wants Greenland (the Space Force’s ‘Top of the World’) for Other Reasons? | Jacqui Day | [Read More](https://medium.com/p/25ec6ef0b7cd) |
 | Thu, 08 Jan 2026 12:52:46 GMT | “Port Scanning Analysis Using Nmap: Understanding the Output and Its Implications for Network… | Habibi | [Read More](https://medium.com/p/bfbe66917934) |
-| Thu, 08 Jan 2026 12:45:03 GMT | A Deep Dive into OSI Model Attack Vectors | Cyber Phantom | [Read More](https://medium.com/p/5f03f455dfbd) |
-| Thu, 08 Jan 2026 12:40:22 GMT | Securing the Stochastic : A Field Guide to the OWASP LLM Top 10 | Harsh Kahate | [Read More](https://medium.com/p/6419e2c5a974) |
-| Thu, 08 Jan 2026 12:38:53 GMT | Best Components of Data Security NHS: Step-by-Step Guide | Mariaharger | [Read More](https://medium.com/p/d0577b79f101) |
-| Thu, 08 Jan 2026 12:37:46 GMT | Session Hijacking Explained: How Hackers Take Over Accounts Without Passwords(CEH Perspective) | Cyber Wolf | [Read More](https://medium.com/p/482cd594b400) |
-| Thu, 08 Jan 2026 12:36:38 GMT | Use-After-Free, ASLR Bypass, and a Practical Binary Exploitation CTF | tganga36 | [Read More](https://medium.com/p/9b20af1f864f) |
-| Thu, 08 Jan 2026 12:34:02 GMT | PostgreSQL Roles and Permissions Explained | Mohit sharma | [Read More](https://medium.com/p/4a98794eb263) |
-| Thu, 08 Jan 2026 12:30:23 GMT | Threat Analysis: Deconstructing a Cloudflare-Tunneled PowerShell RAT | Kiama Kareithi | [Read More](https://medium.com/p/1551d22a7a74) |
-| Thu, 08 Jan 2026 12:26:40 GMT | Security 101: Building Secure Software from the Ground Up | Kunal Sinha | [Read More](https://medium.com/p/ff27cd803e7b) |
-| Thu, 08 Jan 2026 12:25:13 GMT | 2025: The Year Cybersecurity Became a Platform Play | Thomas Patterson | [Read More](https://medium.com/p/5bdcdc7586cd) |
-| Thu, 08 Jan 2026 12:24:29 GMT | What Is a 24/7 Managed SOC and Why Your Business Needs One | Eventus Security Private Limited | [Read More](https://medium.com/p/c3b09d0a2c51) |
-| Thu, 08 Jan 2026 12:14:33 GMT | Why Full-Color Night Vision is the New Standard in Security: A Deep Dive into Dahua’s 2449 Series | Tavan CCTV | [Read More](https://medium.com/p/60def195dcd4) |
