@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 19:15:49 GMT | Windows Server 2025 Üzerinde Hyper-V ile Sanallaştırma Altyapısı | Hakan ÇEVİK | [Read More](https://medium.com/p/9a1b9946c2e5) |
+| Thu, 08 Jan 2026 19:15:43 GMT | You Won’t Believe These 6 Labs That Hack Your Cloud in Minutes! | cybrNK | [Read More](https://medium.com/p/07e97eb9e8c9) |
+| Thu, 08 Jan 2026 19:07:43 GMT | Offsec Funbox Rookie Writeup | sabR | [Read More](https://medium.com/p/9dc762110adf) |
+| Thu, 08 Jan 2026 19:07:29 GMT | Hashing | Techwin Cyber | [Read More](https://medium.com/p/20e425e7cb76) |
+| Thu, 08 Jan 2026 19:02:44 GMT | Anti-Phishing | Iram Jack | [Read More](https://medium.com/p/5bb6e261b641) |
+| Thu, 08 Jan 2026 19:01:49 GMT | Breaking into IoT Security: My Review of the Practical IoT Pentest Associate (PIPA) | Krishna | [Read More](https://medium.com/p/85e43123852c) |
+| Thu, 08 Jan 2026 19:01:16 GMT | DOM XSS in jQuery anchor href attribute sink using location.search source (Portswigger lab 5) | Sanjivani Dobhal | [Read More](https://medium.com/p/bc63bb7083f6) |
+| Thu, 08 Jan 2026 18:57:11 GMT | The Air Is Hostile by Default: A Realistic Guide to Wi Fi Hacking and Wireless Survival | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/8f1f9a70e3ef) |
+| Thu, 08 Jan 2026 18:54:55 GMT | Akamai Noname — Kong Gateway Entegrasyonu ile API Güvenliğini Güçlendirmek | Burak Akdogan | [Read More](https://medium.com/p/8a55cc666ecd) |
+| Thu, 08 Jan 2026 18:50:15 GMT | Digital forensics: M57.biz -Investigating the case of corporate exfiltration | _hime | [Read More](https://medium.com/p/d3107c235bb7) |
+| Thu, 08 Jan 2026 18:47:23 GMT | How Attackers Are Using Google Cloud to Send Phishing Emails | CipherX9F Security | [Read More](https://medium.com/p/973e3f2a4128) |
+| Thu, 08 Jan 2026 18:45:10 GMT | Interview saved by Claude Code — I Almost Got Hacked by a “Job Offer” on LinkedIn | Andreas Abros | [Read More](https://medium.com/p/bef811d1e058) |
+| Thu, 08 Jan 2026 18:44:14 GMT | Fusion Centers: When NOC and SOC Stop Fighting and Start Seeing the Whole Attack | Denny Roger | [Read More](https://medium.com/p/e5aac1ba2ba6) |
+| Thu, 08 Jan 2026 18:39:48 GMT | Pentest Sadece Dışarıdan mı Yapılır? External-Internal Pentest Nedir? | Zekikayaalp | [Read More](https://medium.com/p/78065e7ee0cc) |
+| Thu, 08 Jan 2026 18:36:03 GMT | Cassandra Backups with Medusa: A Stage-by-Stage Guide to Permissions and Access Control | kumar bharath | [Read More](https://medium.com/p/ffc503811ae8) |
+| Thu, 08 Jan 2026 18:32:55 GMT | Central Asia Just Solved Its Bloodiest Border Without Moscow or Beijing | Vivek Anand | [Read More](https://medium.com/p/527250564642) |
+| Thu, 08 Jan 2026 18:31:12 GMT | Best Unarmed Security Guard Dallas | US guard security company | [Read More](https://medium.com/p/9b7d2806a359) |
+| Thu, 08 Jan 2026 18:28:27 GMT | Canada Prepares | Debborah Donnelly | [Read More](https://medium.com/p/c2c4f4720b67) |
 | Thu, 08 Jan 2026 18:13:42 GMT | Technology 2026: The Year Words Became Intelligent | Shetty21me | [Read More](https://medium.com/p/15fa3aab1451) |
 | Thu, 08 Jan 2026 18:12:42 GMT | CopyPasta IDOR — BugForge Daily Challenge | 0ber1n | [Read More](https://medium.com/p/f81fbf944245) |
 | Thu, 08 Jan 2026 18:02:59 GMT | THM - Boogeyman 1 | Francesco Pastore | [Read More](https://medium.com/p/1f294f2b3b27) |
@@ -98,21 +116,3 @@ Room: https://tryhackme.com/room/hydra | Hadeshuntx | [Read More](https://medium
 | Thu, 08 Jan 2026 14:02:54 GMT | The best cybersecurity stories of 2025 | Costin Raiu | [Read More](https://medium.com/p/13e111bf358a) |
 | Thu, 08 Jan 2026 14:02:50 GMT | Digital Travel App TripBFF Exposed Location Data Way Too Accurately | Jonathan Leitschuh | [Read More](https://medium.com/p/524cd0792a7d) |
 | Thu, 08 Jan 2026 13:58:53 GMT | Cybersecurity in 2026: How Businesses Must Adapt to an AI-Driven Threat Landscape | Techridge Solutions | [Read More](https://medium.com/p/773a36ea1605) |
-| Thu, 08 Jan 2026 13:58:32 GMT | IT’de 10 Yıl: Bir Puzzle’ın Parçalarını Birleştirmek | Göktuğ Doğan | [Read More](https://medium.com/p/02aa70b2f7a9) |
-| Thu, 08 Jan 2026 13:57:31 GMT | When One Transaction Runs Twice: How Drosera Stops Cloning Attacks | 0x_taohid | [Read More](https://medium.com/p/619fffcf1725) |
-| Thu, 08 Jan 2026 13:50:12 GMT | Stolen Data Can Now Be Used to Break AI Models on Purpose | Chetan Seripally | [Read More](https://medium.com/p/b1c0663bc227) |
-| Thu, 08 Jan 2026 13:46:28 GMT | Why Top Mobile Performing Testing Services Matter Before Your App Goes Live | Achana prashanth | [Read More](https://medium.com/p/e755ca57e929) |
-| Thu, 08 Jan 2026 13:37:48 GMT | My Next Step into Bharat Electronics Limited (BEL)— Big Lessons in Cybersecurity | Tech Researcher | [Read More](https://medium.com/p/a87c2b798b78) |
-| Thu, 08 Jan 2026 13:31:15 GMT | Automating SQL Injection with sqlmap A Practical Guide | Purushotham.R | [Read More](https://medium.com/p/c22df8e5d593) |
-| Thu, 08 Jan 2026 13:29:54 GMT | Hardening CSP the OWASP Way: | th3.d1p4k | [Read More](https://medium.com/p/2c710856e029) |
-| Thu, 08 Jan 2026 13:24:27 GMT | Why Your Power Plant’s AI Might Be Lying to You (And How to Catch It) | KrishKuchroo | [Read More](https://medium.com/p/ec388a6db72c) |
-| Thu, 08 Jan 2026 13:23:36 GMT | The ROI of Resilience: Why UAE Boards Are Still Getting Cybersecurity Wrong in 2026 | teclogia | [Read More](https://medium.com/p/6bd291533dec) |
-| Thu, 08 Jan 2026 13:20:28 GMT | Overwhelmed with Log Management Hassle? Discover Effective SIEM Strategies | NetWitness | [Read More](https://medium.com/p/154b8e7cef90) |
-| Thu, 08 Jan 2026 13:18:46 GMT | RAG Security 4: How FHE Changes Incident Paths — and What Still Remains | inkme | [Read More](https://medium.com/p/6edc53daf093) |
-| Thu, 08 Jan 2026 13:15:10 GMT | Software That Only “Works” Is Not Enough | Douglas Brum | [Read More](https://medium.com/p/4e3cacb833af) |
-| Thu, 08 Jan 2026 13:10:46 GMT | The Structural Vulnerability of Dubai’s SMEs: Why IT Security Remains Elusive in 2026 | teclogia | [Read More](https://medium.com/p/8b720c8b2b47) |
-| Thu, 08 Jan 2026 13:08:05 GMT | Alex Chriss Paypal Ceo Sensitive Data PII LEAK by Cyber Kalki | ElonMuskTheAntichrist | [Read More](https://medium.com/p/70b8610f9c7e) |
-| Thu, 08 Jan 2026 13:02:50 GMT | Digital Amputation: Rebuilding Identity When Systems Fail You | Rob - The Holistic Nomad | [Read More](https://medium.com/p/9c27375b6e17) |
-| Thu, 08 Jan 2026 13:02:48 GMT | Linux Security Habit #15: I Never Trust a “Clean” lastlog Output | Faruk Ahmed | [Read More](https://medium.com/p/2d9a142bf29c) |
-| Thu, 08 Jan 2026 12:58:20 GMT | What if Trump Wants Greenland (the Space Force’s ‘Top of the World’) for Other Reasons? | Jacqui Day | [Read More](https://medium.com/p/25ec6ef0b7cd) |
-| Thu, 08 Jan 2026 12:52:46 GMT | “Port Scanning Analysis Using Nmap: Understanding the Output and Its Implications for Network… | Habibi | [Read More](https://medium.com/p/bfbe66917934) |
