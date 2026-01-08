@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 20:08:20 GMT | FW-Backfiring: Why “Sending Attacks Back to the Source” Is a Bad Idea | Derek Johnston | [Read More](https://medium.com/p/664bc1f454f3) |
+| Thu, 08 Jan 2026 20:03:50 GMT | Anatomy of Failure: How One Click Destroys Years of Anonymity | Jayson Morale | [Read More](https://medium.com/p/50bc12e00b95) |
+| Thu, 08 Jan 2026 19:56:30 GMT | MFA Is Not Enough: How MFA Phishing Works in Real Life | Ozkan Sonmez | [Read More](https://medium.com/p/ceb25b50b183) |
+| Thu, 08 Jan 2026 19:50:48 GMT | A Data-Driven Analysis of PyCon Talks on security | Maikel Mardjan | [Read More](https://medium.com/p/0b35e39e34cf) |
+| Thu, 08 Jan 2026 19:44:33 GMT | Shamir’s Secret Sharing: Why It Matters and How to Use It to Protect Sensitive Data | DevOpsIsRil | [Read More](https://medium.com/p/59608bf6fec1) |
+| Thu, 08 Jan 2026 19:44:33 GMT | Cloud Migration in 2026: Security, Downtime, and the Cost of Delay | Consilien | [Read More](https://medium.com/p/f7cab4c225a0) |
+| Thu, 08 Jan 2026 19:41:00 GMT | How To Zoom Safely | Digital Uppercut | [Read More](https://medium.com/p/da3460c1ea30) |
+| Thu, 08 Jan 2026 19:40:36 GMT | Mastering OAuth2 in Spring Boot 4: Auto Token Refresh and Production-Ready Config | Samarth Arun Narula | [Read More](https://medium.com/p/9752b15cedc2) |
+| Thu, 08 Jan 2026 19:35:51 GMT | Docker Bug: Docker Desktop Crash on macOS: Understanding the Host Network & iptables Bug | Chinmay Shringi | [Read More](https://medium.com/p/3d3fc2884149) |
 | Thu, 08 Jan 2026 19:24:15 GMT | Privileged Access Management in the Age of Agentic AI: Recognizing and Securing a New Identity Type | vinay vasanth | [Read More](https://medium.com/p/1a6af8054f5f) |
 | Thu, 08 Jan 2026 19:15:49 GMT | Windows Server 2025 Üzerinde Hyper-V ile Sanallaştırma Altyapısı | Hakan ÇEVİK | [Read More](https://medium.com/p/9a1b9946c2e5) |
 | Thu, 08 Jan 2026 19:15:43 GMT | You Won’t Believe These 6 Labs That Hack Your Cloud in Minutes! | cybrNK | [Read More](https://medium.com/p/07e97eb9e8c9) |
@@ -107,12 +116,3 @@ Room: https://tryhackme.com/room/hydra | Hadeshuntx | [Read More](https://medium
 | Thu, 08 Jan 2026 14:35:38 GMT | What Breaks When You Apply Cloud Security Concepts to Industrial Environments | Maxi | [Read More](https://medium.com/p/69cd5de95925) |
 | Thu, 08 Jan 2026 14:34:14 GMT | HexStrike + Cursor (MCP): From Single Target → Full Subnet Compromise (Lab PT Walkthrough) | Andrey Pautov | [Read More](https://medium.com/p/f2e1fd793ad7) |
 | Thu, 08 Jan 2026 14:32:47 GMT | A Comprehensive Guide to Hooking Clients to BEEF and Stealing Passwords | Vignesh R | [Read More](https://medium.com/p/80878c601c78) |
-| Thu, 08 Jan 2026 14:29:51 GMT | TheHackersLabs — Brócoli | APS88 | [Read More](https://medium.com/p/24784fba47fc) |
-| Thu, 08 Jan 2026 14:24:25 GMT | An LLM Driven Multiagent Framework for Detecting Chat-Based Insider Threats | Terrence Cai | [Read More](https://medium.com/p/69690f5e9630) |
-| Thu, 08 Jan 2026 14:22:04 GMT | Image XSS ATTACK on Exif.tools - Hacking exif.tools via image injection by CYBER KALKI #Livepoc | ElonMuskTheAntichrist | [Read More](https://medium.com/p/250f19afa866) |
-| Thu, 08 Jan 2026 14:20:46 GMT | The $100,000 Question: How CMMC Certification Is Reshaping the Defense Industrial Base | Lizzy J. | [Read More](https://medium.com/p/82e5a642027c) |
-| Thu, 08 Jan 2026 14:14:39 GMT | Privacy in 2026: Why It Matters More Than Ever | Infinity Matrix | [Read More](https://medium.com/p/cf2a1c73df15) |
-| Thu, 08 Jan 2026 14:06:29 GMT | Akamai WAF Bypass: Escalating SSRF into Internal Port Scanning | toast | [Read More](https://medium.com/p/fc78402f94e7) |
-| Thu, 08 Jan 2026 14:05:29 GMT | The Silent Failure of Real SOCs When Feeding External Telemetry into CrowdStrike | Pablo Echeverria | [Read More](https://medium.com/p/f966d8e72c82) |
-| Thu, 08 Jan 2026 14:02:54 GMT | The best cybersecurity stories of 2025 | Costin Raiu | [Read More](https://medium.com/p/13e111bf358a) |
-| Thu, 08 Jan 2026 14:02:50 GMT | Digital Travel App TripBFF Exposed Location Data Way Too Accurately | Jonathan Leitschuh | [Read More](https://medium.com/p/524cd0792a7d) |
