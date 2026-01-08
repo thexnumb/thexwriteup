@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 17:42:15 GMT | Why Cybersecurity Is a Top Priority for Businesses in the UAE? | NSREEM | [Read More](https://medium.com/p/03fce00375dd) |
+| Thu, 08 Jan 2026 17:41:48 GMT | What Information Can You Extract From Just An Email Address | Abhay Parashar | [Read More](https://medium.com/p/38a673d09bfb) |
+| Thu, 08 Jan 2026 17:38:51 GMT | Designing a FedRAMP High Security Data Lake on AWS GovCloud | Ophir Zahavi | [Read More](https://medium.com/p/b59d1c80ddbe) |
+| Thu, 08 Jan 2026 17:37:13 GMT | Strong Home Computers That Keep Remote Work Running Smoothly | Geoffrey Wenger | [Read More](https://medium.com/p/eb242d5b0458) |
+| Thu, 08 Jan 2026 17:34:23 GMT | TryHackMe - Searchlight — IMINT - WriteUp | Axoloth | [Read More](https://medium.com/p/26aa12d6acdf) |
+| Thu, 08 Jan 2026 17:33:41 GMT | S&S — The entrepreneurs.. the story begins. | Rajesh Bhaskaran | [Read More](https://medium.com/p/92619ebeb5a4) |
+| Thu, 08 Jan 2026 17:26:46 GMT | How Project Managers Work With Cybersecurity Professionals | Ifeanyi Ejikeme | [Read More](https://medium.com/p/eec296c7bac6) |
 | Thu, 08 Jan 2026 17:21:23 GMT | Why ORMs Hide Performance Bugs in Spring Boot (And How They Sneak into Production) | Lakshika | [Read More](https://medium.com/p/4875c6218e4f) |
 | Thu, 08 Jan 2026 17:17:19 GMT | When AI Becomes Infrastructure — The Collapse of Traditional Cybersecurity Boundaries | Muhammad Ali Khan | [Read More](https://medium.com/p/fc0bd3406063) |
 | Thu, 08 Jan 2026 17:02:07 GMT | Sanity Test、Smoke Test、Regression Test 的比喻 | 思維舞步 MindSteps | [Read More](https://medium.com/p/1cb07f79d8ac) |
@@ -106,10 +113,3 @@ Room: https://tryhackme.com/room/hydra | Hadeshuntx | [Read More](https://medium
 | Thu, 08 Jan 2026 12:25:13 GMT | 2025: The Year Cybersecurity Became a Platform Play | Thomas Patterson | [Read More](https://medium.com/p/5bdcdc7586cd) |
 | Thu, 08 Jan 2026 12:24:29 GMT | What Is a 24/7 Managed SOC and Why Your Business Needs One | Eventus Security Private Limited | [Read More](https://medium.com/p/c3b09d0a2c51) |
 | Thu, 08 Jan 2026 12:14:33 GMT | Why Full-Color Night Vision is the New Standard in Security: A Deep Dive into Dahua’s 2449 Series | Tavan CCTV | [Read More](https://medium.com/p/60def195dcd4) |
-| Thu, 08 Jan 2026 12:14:14 GMT | When Digital Wealth Meets Physical Violence: What Switzerland Must Understand | 0NE - C L A V I | [Read More](https://medium.com/p/87b8d22898d8) |
-| Thu, 08 Jan 2026 12:10:20 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/9b5b05cee78e) |
-| Thu, 08 Jan 2026 12:06:28 GMT | A Day That Changed How I See Web Security | Omkar Joshi | [Read More](https://medium.com/p/38e260458967) |
-| Thu, 08 Jan 2026 12:02:49 GMT | How Your Cross-Platform Identity Betrays You | Ingvar Pavlovich | [Read More](https://medium.com/p/94854530aae3) |
-| Thu, 08 Jan 2026 12:02:49 GMT | Understanding CWE-315: Cleartext Storage of Sensitive Information in a Cookie | Walter Moar | [Read More](https://medium.com/p/22af98e92497) |
-| Thu, 08 Jan 2026 11:57:32 GMT | 50+ AI Security Interview Questions & Answers for 2026 | Practical DevSecOps | [Read More](https://medium.com/p/482ca509b04f) |
-| Thu, 08 Jan 2026 11:51:26 GMT | Zigbee Security Deep Dive: An IoT Pentester’s Perspective | eSecForte Technologies | [Read More](https://medium.com/p/e29f26ad7041) |
