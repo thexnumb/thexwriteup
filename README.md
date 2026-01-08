@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 07:15:17 GMT | DAY 2: Subnet Mask & Binary Basics — My Understanding So Far (TCM Course) | Mohammad-AL-Momani | [Read More](https://medium.com/p/66f43e252da7) |
+| Thu, 08 Jan 2026 07:10:27 GMT | Spring Boot Security with JWT — Production-Ready Setup (No Theory) | Gain Java Knowledge | [Read More](https://medium.com/p/b1031125a680) |
+| Thu, 08 Jan 2026 07:10:04 GMT | Is WhatsApp Really End-to-End Encrypted — Or Just a Marketing Claim? | Ankit rai | [Read More](https://medium.com/p/878eefb17740) |
+| Thu, 08 Jan 2026 07:09:51 GMT | Password Generator Words: Your Ultimate Guide to Secure Passphrases | Sandeep Sharma | [Read More](https://medium.com/p/6c15aeb4f3f7) |
+| Thu, 08 Jan 2026 07:09:24 GMT | T pros up at night. | Very Lazy Tech | [Read More](https://medium.com/p/f1aa0af9aec5) |
+| Thu, 08 Jan 2026 07:06:22 GMT | I Tested Multiple Password Generators — Most Are Unsafe, Here’s What Actually Works | Sandeep Sharma | [Read More](https://medium.com/p/ad179dc6e1c1) |
+| Thu, 08 Jan 2026 07:03:37 GMT | DIY Rubber Ducky: Generic USB Flash Drive | Allen Ace | [Read More](https://medium.com/p/391ad84476cb) |
+| Thu, 08 Jan 2026 06:59:29 GMT | Analyzing a Legacy VNC Authentication Weakness in a Controlled Lab Environment | Tejas Kamble | [Read More](https://medium.com/p/c0b45fad41ab) |
+| Thu, 08 Jan 2026 06:56:56 GMT | THE FOUNDATION OF MODERN CYBER SECURITY, CLOUD, AND VIRTUALIZATION | F9 Infotech | [Read More](https://medium.com/p/108b83791c15) |
+| Thu, 08 Jan 2026 06:44:47 GMT | APT35 (Charming Kitten): İran Devrim Muhafızları Bağlantılı Siber Casusluk Grubunun Türkiye Odaklı… | Beyza Sıla Gökmen | [Read More](https://medium.com/p/92a6a8e94e44) |
+| Thu, 08 Jan 2026 06:41:11 GMT | Ethical Hacking Fundamentals: What I Learned as a CEH  Student. | Syber Security  beginner. | [Read More](https://medium.com/p/7e0fa168fb20) |
 | Thu, 08 Jan 2026 06:28:07 GMT | Why WebAuthn Feels Easy — Until You Try to Ship It | Dqj | [Read More](https://medium.com/p/ea2c6352617f) |
 | Thu, 08 Jan 2026 06:27:26 GMT | Light Out, 7B (Part 8) | edarit | [Read More](https://medium.com/p/5ff55cc142ff) |
 | Thu, 08 Jan 2026 06:26:57 GMT | Hands-On Android Security Testing in AndroGoat — Input Validation | Hammam Awis Zukimi | [Read More](https://medium.com/p/b9c8ea7bdde6) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 20:51:07 GMT | Wonderland Walkthrough — A Curious Journey from Rabbit Holes to Root | IshhIshneet | [Read More](https://medium.com/p/7e00d24075b3) |
 | Wed, 07 Jan 2026 20:43:07 GMT | Zero Trust 2.0: Combating Deepfakes | Valdez Ladd | [Read More](https://medium.com/p/d1ddab27939c) |
 | Wed, 07 Jan 2026 20:31:17 GMT | Runtime Governance 101: The Critical Role of Runtime Governance in Securing Agentic AI | Rampart AI™ | [Read More](https://medium.com/p/1588bd1ae2bb) |
-| Wed, 07 Jan 2026 20:06:17 GMT | Building a SOC from Scratch: The Part Tutorials Never Show | Lakshan Sameera (Sameer) | [Read More](https://medium.com/p/80655b2332fd) |
-| Wed, 07 Jan 2026 20:03:09 GMT | The Loneliness of Loving Deeply: When You’re Built for Depth in a World Addicted to Surface | ☽Karlee Alyssa | [Read More](https://medium.com/p/069b8f9aa938) |
-| Wed, 07 Jan 2026 19:56:01 GMT | Where Vendor Risk Hides in Justice Organizations and How to Find It Before It Finds Your Clients | Tyson Martin | [Read More](https://medium.com/p/4d47184d389c) |
-| Wed, 07 Jan 2026 19:49:12 GMT | Invert Binary Tree — Why the Simplest Problems Matter | Error | [Read More](https://medium.com/p/0a4cb9a1fbb1) |
-| Wed, 07 Jan 2026 19:44:17 GMT | I Am Scared | Eco Maven | [Read More](https://medium.com/p/ac0b2b5ecfb6) |
-| Wed, 07 Jan 2026 19:40:33 GMT | IP Addressing: How Devices Identify Each Other on the Internet | Vaishnavid | [Read More](https://medium.com/p/384903f0a0d6) |
-| Wed, 07 Jan 2026 19:40:29 GMT | n8n RCE 101: Analyzing CVE-2025–68613 | Lior Ben Moha | [Read More](https://medium.com/p/5c1be8b6dca6) |
-| Wed, 07 Jan 2026 19:38:04 GMT | Common OT Attacks: From Stuxnet to FrostyGoop | urjasec | [Read More](https://medium.com/p/8c5d5219c97c) |
-| Wed, 07 Jan 2026 19:35:20 GMT | Managing a Home Lab with Portainer, PiHole, and Nginx-Proxy (Part 2) — VPN Container Connection… | Josh Beck | [Read More](https://medium.com/p/1c011f20efbd) |
-| Wed, 07 Jan 2026 19:29:09 GMT | Unmasking the Ledger: A Comprehensive Guide to Graph Theory in Cryptocurrency Network Analysis | Satyam | [Read More](https://medium.com/p/bb73bfd3b3d1) |
-| Wed, 07 Jan 2026 19:20:50 GMT | My First TryHackMe Lab: An Introduction to Offensive Security | Grace Jaman | [Read More](https://medium.com/p/a3d429b723d1) |
