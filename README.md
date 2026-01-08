@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 08 Jan 2026 06:28:07 GMT | Why WebAuthn Feels Easy — Until You Try to Ship It | Dqj | [Read More](https://medium.com/p/ea2c6352617f) |
+| Thu, 08 Jan 2026 06:27:26 GMT | Light Out, 7B (Part 8) | edarit | [Read More](https://medium.com/p/5ff55cc142ff) |
+| Thu, 08 Jan 2026 06:26:57 GMT | Hands-On Android Security Testing in AndroGoat — Input Validation | Hammam Awis Zukimi | [Read More](https://medium.com/p/b9c8ea7bdde6) |
+| Thu, 08 Jan 2026 06:25:20 GMT | Tutorial 4 PortSwigger Lab: Stored XSS into HTML context with nothing encoded | Diva Rizky Alfitrah | [Read More](https://medium.com/p/e9a16d7aa89a) |
+| Thu, 08 Jan 2026 06:21:21 GMT | “Don’t Break It” vs “It’s Already Broken” — Life Between Cyber and Software Friends | Kirushalini | [Read More](https://medium.com/p/ec5480dd4f9e) |
+| Thu, 08 Jan 2026 06:12:20 GMT | Exploring the Best Flipper Zero Alternatives for Hardware Security | T-Jay Bautista | [Read More](https://medium.com/p/73fbf7e6085b) |
+| Thu, 08 Jan 2026 06:11:10 GMT | Cost, Speed, and Quality: Evaluating Indian DevOps Vendors for Your Business | Quadrant IT Services | [Read More](https://medium.com/p/96699426d4db) |
+| Thu, 08 Jan 2026 06:05:54 GMT | The Daily Tech Digest: 08 January 2026 | Souren Stepanyan | [Read More](https://medium.com/p/b81b37bddc72) |
+| Thu, 08 Jan 2026 05:53:10 GMT | Active Directory: Fundamental kirish va arxitektura | Mukhammadiyev | [Read More](https://medium.com/p/8ebf418f0bb2) |
+| Thu, 08 Jan 2026 05:51:49 GMT | Nmap Demonstration using Metasploitable2 | Ankit M | [Read More](https://medium.com/p/7c4243c9abeb) |
 | Thu, 08 Jan 2026 05:38:18 GMT | Secure Network Architecture — Writeup | Mahir | [Read More](https://medium.com/p/3375d4cd02d6) |
 | Thu, 08 Jan 2026 05:21:58 GMT | Cybersecurity Awareness Training: Why Every Employee Needs It in 2026 | Elearning serv | [Read More](https://medium.com/p/6e0680292883) |
 | Thu, 08 Jan 2026 05:20:49 GMT | Custom UPX Trojan TH! | Aufa Rifqi | [Read More](https://medium.com/p/5a755c2b2855) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 07 Jan 2026 19:35:20 GMT | Managing a Home Lab with Portainer, PiHole, and Nginx-Proxy (Part 2) — VPN Container Connection… | Josh Beck | [Read More](https://medium.com/p/1c011f20efbd) |
 | Wed, 07 Jan 2026 19:29:09 GMT | Unmasking the Ledger: A Comprehensive Guide to Graph Theory in Cryptocurrency Network Analysis | Satyam | [Read More](https://medium.com/p/bb73bfd3b3d1) |
 | Wed, 07 Jan 2026 19:20:50 GMT | My First TryHackMe Lab: An Introduction to Offensive Security | Grace Jaman | [Read More](https://medium.com/p/a3d429b723d1) |
-| Wed, 07 Jan 2026 19:20:37 GMT | How to Prove Something Actually Happened — The Epistemic Suite | Lauri Korpela | [Read More](https://medium.com/p/fd1081de62f0) |
-| Wed, 07 Jan 2026 19:15:09 GMT | Wordpress Has a Security Problem | CJ | [Read More](https://medium.com/p/76d9587bc7a8) |
-| Wed, 07 Jan 2026 19:12:48 GMT | This Open-Source Project Is Redefining How Cyber Risk Should Be Managed!! | cybrNK | [Read More](https://medium.com/p/bc62d525e49b) |
-| Wed, 07 Jan 2026 18:53:25 GMT | Looking Back at 2025’s Cybersecurity Landscape: Key Trends to Watch in 2026 | Costin Raiu | [Read More](https://medium.com/p/25d27a3b2b1c) |
-| Wed, 07 Jan 2026 18:51:02 GMT | Engineering Cryptography for the Post-Quantum Era | SOCFortress | [Read More](https://medium.com/p/4ec1fa50ab64) |
-| Wed, 07 Jan 2026 18:48:52 GMT | Network Security: Building Digital Fortresses in an Interconnected World | Faysal Ahmed | [Read More](https://medium.com/p/25e13a358f6e) |
-| Wed, 07 Jan 2026 18:44:42 GMT | Bug Bounty: Unico IDtech’s Journey So Far | Victor Theobaldo | [Read More](https://medium.com/p/d7926eb65d06) |
-| Wed, 07 Jan 2026 18:39:56 GMT | Fundamentos de SOC (Security Operations Center): Estrutura, Pilares e Ferramentas | Felippo Ferreira | [Read More](https://medium.com/p/1e0499a5c051) |
-| Wed, 07 Jan 2026 18:38:48 GMT | Why Input Validation Is Important For Securing Web Applications… | Soham Kholapure | [Read More](https://medium.com/p/cd1807274016) |
-| Wed, 07 Jan 2026 18:38:06 GMT | BCV Leads Exein’s €100 MM Growth Round to Secure the World’s Connected Devices | Amy Wang | [Read More](https://medium.com/p/c82d52ff719d) |
