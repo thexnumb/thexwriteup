@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 17:11:08 GMT | Synchrony Infosec University Hackathon, Round 1 CTF Write‑Up | Bish | [Read More](https://medium.com/p/3061f721f252) |
+| Fri, 09 Jan 2026 17:07:26 GMT | End-to-End Spring Security: What Really Happens When Your API Is Hit (Spring Boot Series-10) | Asutosh Nayak | [Read More](https://medium.com/p/ce70c96d1e45) |
+| Fri, 09 Jan 2026 17:06:48 GMT | ZombieAgent: The ChatGPT bug that refuses to die | Sudarshan | [Read More](https://medium.com/p/d2d96c1f6cf8) |
+| Fri, 09 Jan 2026 17:05:15 GMT | Dig Dug | Karim Hesham | [Read More](https://medium.com/p/d8d05ceeb836) |
+| Fri, 09 Jan 2026 16:51:06 GMT | Day 6 — Inside a SOC: Team Structure, L1 Analyst Workflow, and My First URL Investigation | Drishti Pandey | [Read More](https://medium.com/p/f250dbc62e2f) |
+| Fri, 09 Jan 2026 16:50:53 GMT | Mandiant Attack Cycle Nedir? Siber Saldırıların Adım Adım İncelenmesi | Arda Derya | [Read More](https://medium.com/p/1b60c8994a1a) |
+| Fri, 09 Jan 2026 16:50:34 GMT | MITRE ATT&CK Matrix: Saldırganlar Nasıl Düşünür , Biz Nasıl Anlarız? | Arda Derya | [Read More](https://medium.com/p/7077a2088902) |
+| Fri, 09 Jan 2026 16:49:44 GMT | The Cat-and-Mouse Crap Between Greedy Websites and Adblockers: | Hugh Jorgen | [Read More](https://medium.com/p/ff556eb99cbe) |
+| Fri, 09 Jan 2026 16:42:57 GMT | You wouldn’t wanna escape this security ni8mare: Exploiting n8n CVE-2026–21858 & CVE-2025–68613 | Sachin      Verlekar | [Read More](https://medium.com/p/615064b8f942) |
+| Fri, 09 Jan 2026 16:42:27 GMT | Ethical Hacking: | Tahir | [Read More](https://medium.com/p/e65230c3a576) |
+| Fri, 09 Jan 2026 16:27:51 GMT | ️DC: 3 — Complete Walkthrough (Beginner-Friendly) - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/0a4114fa385e) |
 | Fri, 09 Jan 2026 16:21:42 GMT | To Someone Who Cares | Aastha Shukla | [Read More](https://medium.com/p/f990608aa150) |
 | Fri, 09 Jan 2026 16:19:54 GMT | Exploring Activity Timeline — A Glimpse of Data Forensic | Ankit M | [Read More](https://medium.com/p/b8af5fd3dd0d) |
 | Fri, 09 Jan 2026 16:15:03 GMT | Passwordless Isn’t the Future It’s Already Here (And IAM Is Being Rewritten) | Sunnysinha | [Read More](https://medium.com/p/8ddfe2cb87e7) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 11:50:01 GMT | Outsourcing Done Right: Benefits, Risks, and How to Avoid Costly Mistakes | Ivan Matolinets | [Read More](https://medium.com/p/709f647f07e4) |
 | Fri, 09 Jan 2026 11:47:33 GMT | Simple MFA Bypass in Login and Registration — $500 Reward | <h1>ayman</h1> Amer‬‏ | [Read More](https://medium.com/p/1b86edfc1104) |
 | Fri, 09 Jan 2026 11:44:45 GMT | Bankacılıkta DWDM: Gerçek Zamanlı Paranın Sessiz Omurgası | Kutay Şenol | [Read More](https://medium.com/p/cbaa5bc47a1f) |
-| Fri, 09 Jan 2026 11:43:35 GMT | Carding (credit card theft) in 2026 — where criminal activity vectors are shifting | 0trust0day | [Read More](https://medium.com/p/c6a5415f9521) |
-| Fri, 09 Jan 2026 11:30:37 GMT | How Penetration Testing Services Help You Stay One Step Ahead of Cybercriminals | SmartCLOUD Australia | [Read More](https://medium.com/p/ecdf9f110e16) |
-| Fri, 09 Jan 2026 11:28:52 GMT | Fundamentals of Cybersecurity: What Actually Keeps Systems Safe | raksha001 | [Read More](https://medium.com/p/241ed5275d54) |
-| Fri, 09 Jan 2026 11:22:38 GMT | Pickle Rick — TryHackMe Walkthrough | Rishith soni | [Read More](https://medium.com/p/b0bd3b4961d4) |
-| Fri, 09 Jan 2026 11:22:01 GMT | Data Privacy Is No Longer a Legal Problem — It’s a QA Problem | dhanashekar krishna | [Read More](https://medium.com/p/2ede074da423) |
-| Fri, 09 Jan 2026 11:20:47 GMT | Global Security: Bending, Not Breaking | T Lewis | [Read More](https://medium.com/p/a8780988b64c) |
-| Fri, 09 Jan 2026 11:20:17 GMT | Top 5 Reasons Why BBA in Information Technology Is the Perfect Launchpad for an AI Career | SICSR Pune | [Read More](https://medium.com/p/7c95fdcf4b50) |
-| Fri, 09 Jan 2026 11:20:15 GMT | Ethical Hacking Fundamentals: Scope, Ethics, and Cyber Attack Lifecycle | Ahmad Jutt | [Read More](https://medium.com/p/9e8f655a8554) |
-| Fri, 09 Jan 2026 11:19:16 GMT | Industry-Focused IT Training Programs: Build Skills That Lead to Real Careers | Swhizztechnlogies | [Read More](https://medium.com/p/603b913645fc) |
-| Fri, 09 Jan 2026 11:12:17 GMT | I’m interested in writing about technology, personal growth, and real-life experiences. | Ermiyas Amare | [Read More](https://medium.com/p/c678fe94f704) |
-| Fri, 09 Jan 2026 11:11:06 GMT | The Complete Guide to Privacy-First Online Tools in 2026 | Azeem Mustafa | [Read More](https://medium.com/p/ae2408c0838f) |
