@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 22:17:26 GMT | Essential Windows Command-Line Defenses Against Hackers | MDLICXV | [Read More](https://medium.com/p/a728f64135e4) |
+| Fri, 09 Jan 2026 22:10:00 GMT | Building your own AI SOC? Here’s how to succeed | monzy merza | [Read More](https://medium.com/p/52fdbe19f453) |
+| Fri, 09 Jan 2026 22:06:31 GMT | DFIR Report: MeteorHit — Indra Lab | Khoa | [Read More](https://medium.com/p/f491129543d2) |
+| Fri, 09 Jan 2026 22:04:40 GMT | How I Won $100K in Meta’s Bug Bounty: A Penetration Tester’s Journey | Cybervolt | [Read More](https://medium.com/p/089aca9b7fe0) |
+| Fri, 09 Jan 2026 22:03:55 GMT | Pigeon Thief Story: Legality & Metadata, Let’s Play Detective! | Alborz Nazari | [Read More](https://medium.com/p/502390fc586a) |
+| Fri, 09 Jan 2026 22:03:13 GMT | Intro to web hacking | TheNotorious | [Read More](https://medium.com/p/eeae1d1c4e5f) |
+| Fri, 09 Jan 2026 21:43:47 GMT | Vulnerability Management Isn’t Just Scanning | Gayatri Nakar | [Read More](https://medium.com/p/6049f3007925) |
+| Fri, 09 Jan 2026 21:43:31 GMT | Securing Your Secrets in Go: From DIY Disaster to Production-Ready | Mickael Stanislas | [Read More](https://medium.com/p/3804eaf5e35a) |
+| Fri, 09 Jan 2026 21:39:20 GMT | Brooklyn Nine Nine TryHackMe Write UP | cat0x01 | [Read More](https://medium.com/p/dff233ed4b01) |
+| Fri, 09 Jan 2026 21:35:33 GMT | I Watched an AI Agent Delete Customer Data. Nobody Got Fired. | Naveen C | [Read More](https://medium.com/p/f22518904431) |
+| Fri, 09 Jan 2026 21:34:15 GMT | Lessons Learned from a SOAR Engineer: Series Intro | Joshua Campbell | [Read More](https://medium.com/p/f1bf666216fa) |
 | Fri, 09 Jan 2026 21:31:13 GMT | How I Went From ‘I’m Not a Hardware Person’ to Reverse Engineering Devices | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/536b4f6f8692) |
 | Fri, 09 Jan 2026 21:30:58 GMT | Coming Soon: Life as a Former Computer Hacker | Clacroix | [Read More](https://medium.com/p/bbde228e15fa) |
 | Fri, 09 Jan 2026 21:21:22 GMT | The Dark Side of AI: 10 Attacks You Need to Know About | Dhilip Narayan Srinivasan | [Read More](https://medium.com/p/af77e40ca676) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 15:11:48 GMT | Zomato Ceo Deepinder Goyal and other Billionaires PAN NUMBER Sensitive PII Leak by Cyber Kalki | ElonMuskTheAntichrist | [Read More](https://medium.com/p/86bf8a327c1e) |
 | Fri, 09 Jan 2026 15:10:05 GMT | 別等到 2027！歐盟 CRA 第 14 條漏洞通報 2026 年先開跑 | 老喬筆記 | [Read More](https://medium.com/p/2c7f2ab5e3d4) |
 | Fri, 09 Jan 2026 15:09:35 GMT | Exploring Android Application Vulnerabilities Through Hands-On Testing with AndroGoat | Hammam Awis Zukimi | [Read More](https://medium.com/p/8845e4719a36) |
-| Fri, 09 Jan 2026 15:08:17 GMT | IDOR: Insecure Direct Object Reference Writeup TryHackme | Lakshay Nimwal | [Read More](https://medium.com/p/b5f8ec5f65d7) |
-| Fri, 09 Jan 2026 15:05:35 GMT | Hands-On Android Security Testing in AndroGoat — Binary Patching | Hammam Awis Zukimi | [Read More](https://medium.com/p/5ad41787e0d9) |
-| Fri, 09 Jan 2026 15:03:38 GMT | Hands-On Network Intrusion Detection and Traffic Analysis Using Snort | Janmejaysinh ThinkLab | [Read More](https://medium.com/p/22f8df3910f1) |
-| Fri, 09 Jan 2026 15:02:50 GMT | Cyber Briefing: 2025.01.09 | CyberMaterial | [Read More](https://medium.com/p/724a723cd1e4) |
-| Fri, 09 Jan 2026 14:59:34 GMT | ChatGPT vs Perplexity: Who Wins for SDLC Bugs, APIs & Code Fixes? | Muhammad Burhan Chughtai | [Read More](https://medium.com/p/7c5bdb521a60) |
-| Fri, 09 Jan 2026 14:52:03 GMT | What Is V2V Technology? | Intellibytes | [Read More](https://medium.com/p/b89ce7bb01c2) |
-| Fri, 09 Jan 2026 14:50:56 GMT | Why most businesses don’t actually need a “unique” backend | OneEntry Platform | [Read More](https://medium.com/p/da8b057af812) |
-| Fri, 09 Jan 2026 14:41:46 GMT | [HackTheBox — Machine] Postman (Blind Writeup) | 0xr35p3c7 | [Read More](https://medium.com/p/e0b306fc4f91) |
-| Fri, 09 Jan 2026 14:33:00 GMT | Using MITMf Against Real Networks: A Comprehensive Guide | Vignesh R | [Read More](https://medium.com/p/a43f80dd1d56) |
-| Fri, 09 Jan 2026 14:31:17 GMT | IOCS 2025 and the End of Tool-First Operations: Five Signals for the Next Era of I&O | saliljk@gmail.com | [Read More](https://medium.com/p/d105aac3395f) |
-| Fri, 09 Jan 2026 14:29:00 GMT | Müasir Kibertəhlükələrin Anatomiyası | Cavidtaqiyev | [Read More](https://medium.com/p/9c99edf24c21) |
