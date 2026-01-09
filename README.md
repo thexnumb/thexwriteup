@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 01:48:26 GMT | The Modern Developer’s Guide to Cryptography: The Boring, Safe, Correct Choices | Astro's world | [Read More](https://medium.com/p/91a5960817d7) |
+| Fri, 09 Jan 2026 01:30:04 GMT | The End of “Seeing Is Believing” | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/8ebfe5aa7935) |
+| Fri, 09 Jan 2026 01:20:01 GMT | Privacy-First Genomic Analysis: Securing  DNA Data in U.S. Healthcare with Federated Learning | Nilansh Upadhyay | [Read More](https://medium.com/p/0c2fe181bdef) |
+| Fri, 09 Jan 2026 00:54:56 GMT | The Phishing Pond TryHackMe WriteUP | cat0x01 | [Read More](https://medium.com/p/e567f89ef25f) |
+| Fri, 09 Jan 2026 00:44:25 GMT | THE CONSENT DOCTRINE FOR HUMAN AI COGNITIVE SYSTEMS | Matthew Wood | [Read More](https://medium.com/p/1eb85ba70212) |
+| Fri, 09 Jan 2026 00:24:54 GMT | Why router Firmware update i | Techwizs | [Read More](https://medium.com/p/b8a3b81ac2b1) |
+| Fri, 09 Jan 2026 00:07:07 GMT | The Open-Source Wallet: Why Seeing the Code Isn’t Optional Anymore | Sergey Golubev (Сергей Голубев) | [Read More](https://medium.com/p/87ee390b9406) |
+| Fri, 09 Jan 2026 00:06:18 GMT | cyberTalents (exploiting LDAP injection) | Viodex | [Read More](https://medium.com/p/da909b9492a1) |
+| Fri, 09 Jan 2026 00:05:13 GMT | NIST Issues Preliminary Draft of Cyber AI Profile, a Framework Poised To Alter Security Operations… | Financial Poise | [Read More](https://medium.com/p/68efe1536198) |
+| Fri, 09 Jan 2026 00:02:47 GMT | Guía de Commix: Automatización de OS Command Injection en Bug Bounty | JPablo13 | [Read More](https://medium.com/p/809e73a7db4f) |
+| Thu, 08 Jan 2026 23:49:51 GMT | Security Jobs in Edmonton — Join World Guardian Security Services | Hirasarfraz | [Read More](https://medium.com/p/0fc2f391b176) |
+| Thu, 08 Jan 2026 23:49:13 GMT | How to Prevent Brute-Force Attacks in MySQL Using Connection Control | Matheus dos Santos | [Read More](https://medium.com/p/2baa8f839a7f) |
+| Thu, 08 Jan 2026 23:29:48 GMT | Stop Rebuilding Auth From Scratch | Kone | [Read More](https://medium.com/p/12e451df45f0) |
 | Thu, 08 Jan 2026 23:22:21 GMT | # The $5 Wrench Problem: Why Your Encryption Doesn’t Protect You | Teycir | [Read More](https://medium.com/p/07fa36aebc1b) |
 | Thu, 08 Jan 2026 23:17:49 GMT | How to Install Findomain on Termux | BUG HUNTER NEWBIE INDONESIA | [Read More](https://medium.com/p/419a0da47b20) |
 | Thu, 08 Jan 2026 23:09:17 GMT | What Is a Vulnerability? A Practical Breakdown for a Digital World | Chris Hogan | [Read More](https://medium.com/p/bb7759fa47d2) |
@@ -103,16 +116,3 @@ Room: https://tryhackme.com/room/hydra | Hadeshuntx | [Read More](https://medium
 | Thu, 08 Jan 2026 16:11:51 GMT | PicoCTF: Obedient Cat | Levi Spellmeyer | [Read More](https://medium.com/p/9c4e7ccadb82) |
 | Thu, 08 Jan 2026 16:07:20 GMT | 20. I Thought Strength Meant Hiding My Struggles | Roj Ink | [Read More](https://medium.com/p/6dd9f688a56f) |
 | Thu, 08 Jan 2026 16:01:37 GMT | Network Security Fundamentals: Traffic Analysis & Hardening | Oluwadamilare Adeosun | [Read More](https://medium.com/p/efd60f9704e0) |
-| Thu, 08 Jan 2026 15:55:29 GMT | Comprehensive Open Redirect Methodology: From Discovery to Advanced Exploitation | N0aziXss | [Read More](https://medium.com/p/da0fc5a2bb67) |
-| Thu, 08 Jan 2026 15:49:52 GMT | 10 Android Security Settings You Should Enable in 2026 to Protect Your Data | Configr Technologies | [Read More](https://medium.com/p/6da62d1d6235) |
-| Thu, 08 Jan 2026 15:49:32 GMT | Day 5 — Revisiting Networking Fundamentals the Way Security Engineers Actually Use Them | NineTales | [Read More](https://medium.com/p/b75668255ca4) |
-| Thu, 08 Jan 2026 15:49:23 GMT | FICTION | Ekta Kamble | [Read More](https://medium.com/p/30082ed7e90e) |
-| Thu, 08 Jan 2026 15:47:02 GMT | [FORECAST] CoPhish: The Microsoft Copilot Link That Hands Over Your OAuth Tokens | Wes Young | [Read More](https://medium.com/p/8a2b159a378d) |
-| Thu, 08 Jan 2026 15:45:50 GMT | SecurityOnion — Installation on VMware [Home Lab] | DeshmukhVinit | [Read More](https://medium.com/p/61882d4f378f) |
-| Thu, 08 Jan 2026 15:43:20 GMT | CVE‑2026‑21858: “Ni8mare”: Unauthenticated RCE in n8n | gm0 | [Read More](https://medium.com/p/1433d28e436f) |
-| Thu, 08 Jan 2026 15:42:52 GMT | How I Secured My FastAPI Backend API in 5 Simple Steps | Khondaker Rifat-E-Rahman | [Read More](https://medium.com/p/6bd568db916e) |
-| Thu, 08 Jan 2026 15:42:51 GMT | Garage Door Spring Replacement: Signs You Need to Watch For | Up & Down Garage Door Services | [Read More](https://medium.com/p/1911bd0ee811) |
-| Thu, 08 Jan 2026 15:41:49 GMT | How a Quiet Debug Endpoint Sparked a Major Mobile App Data Leak | 1$ Mistake | [Read More](https://medium.com/p/4be0e5b1c030) |
-| Thu, 08 Jan 2026 15:41:12 GMT | 217,000+ VNC Attack Attempts Observed on a Public Honeypot in 10+ days | berke bodur | [Read More](https://medium.com/p/4e6be8f55487) |
-| Thu, 08 Jan 2026 15:40:43 GMT | How GRC Platforms Drastically Reduce Compliance Costs | CyRAACS | [Read More](https://medium.com/p/6ed6aaacd6f7) |
-| Thu, 08 Jan 2026 15:39:32 GMT | Infinity Learning lab: Function’s Backdoor Route — Writeup | Hubert | [Read More](https://medium.com/p/e0dad4748968) |
