@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 09:27:32 GMT | THM - Boogeyman 2 | Francesco Pastore | [Read More](https://medium.com/p/9f95c8637e66) |
+| Fri, 09 Jan 2026 09:23:00 GMT | Modern Cybersecurity: Simple Facts Every Business Leader Should Know | Wolf Communication Pvt Ltd | [Read More](https://medium.com/p/7545e9bdf523) |
+| Fri, 09 Jan 2026 09:21:49 GMT | The Hidden Costs of Managing Cybersecurity Without a Dedicated Security Partner | Gavin Ellis | [Read More](https://medium.com/p/3f195ae03082) |
+| Fri, 09 Jan 2026 09:13:09 GMT | AI-Driven Ethical Hacking by AAVETech: A Globally Recognized Cybersecurity Mission | Akash PS - Elite Ethical Hacker | [Read More](https://medium.com/p/f0b0aa358e71) |
+| Fri, 09 Jan 2026 09:12:12 GMT | The Science of Fairness: Verifying Stochastic Integrity in Distributed Systems (2026) | Holeinone | [Read More](https://medium.com/p/ea7df947deb9) |
+| Fri, 09 Jan 2026 09:08:13 GMT | Hunting Living off the Land Attacks with Wazuh | Enes Cayvarli | [Read More](https://medium.com/p/0cbe0b7f51d5) |
+| Fri, 09 Jan 2026 09:06:31 GMT | ZTNA: Ultimate Zero Trust Network Access Guide 2026 | Snskies | [Read More](https://medium.com/p/43911ce5e13f) |
+| Fri, 09 Jan 2026 09:06:20 GMT | AI Security and Data Protection: Best Practices for Trustworthy AI | Jay | [Read More](https://medium.com/p/efc77367aed7) |
+| Fri, 09 Jan 2026 09:03:00 GMT | Hack Magica.io APK | genzvnmod | [Read More](https://medium.com/p/9a1d310a1671) |
+| Fri, 09 Jan 2026 09:02:56 GMT | The House Bag | Rosa Diaz-Casal | [Read More](https://medium.com/p/10ce138f2003) |
+| Fri, 09 Jan 2026 09:02:55 GMT | Red Teamers: Stop Guessing Passwords, Start With What’s Already Leaked | Alexandre Vandamme | [Read More](https://medium.com/p/bd47b8afac3e) |
+| Fri, 09 Jan 2026 08:59:29 GMT | Your Password Can Be Stolen. Your Passkey Can’t. Here’s Why. | Shripad Khandare | [Read More](https://medium.com/p/d7a8952f4ddd) |
+| Fri, 09 Jan 2026 08:54:39 GMT | SOC138 — Detected Suspicious Xls File | Mmohammadsalman | [Read More](https://medium.com/p/da89378a3d80) |
+| Fri, 09 Jan 2026 08:54:12 GMT | Light Out, 7B (Part 9) | edarit | [Read More](https://medium.com/p/b26b29298fac) |
+| Fri, 09 Jan 2026 08:43:53 GMT | Why Master Tech is Dubai’s Top Choice for Smart Home Security Solutions | Mastertechnovision | [Read More](https://medium.com/p/18172530408c) |
+| Fri, 09 Jan 2026 08:43:04 GMT | Why Startups Need Regular Security Patching | DC9India | [Read More](https://medium.com/p/7462cb77a9c0) |
+| Fri, 09 Jan 2026 08:32:19 GMT | Part 3: DOA Based Authentication is SpringBoot: A Comprehensive Guide | Sarveshkhamkar | [Read More](https://medium.com/p/69ffea35872f) |
 | Fri, 09 Jan 2026 08:29:51 GMT | The Quiet Problem Most Content Never Solves — What Really Happens After People Land on Your Page | Danny Robin | [Read More](https://medium.com/p/002cf12c38ac) |
 | Fri, 09 Jan 2026 08:28:55 GMT | Kibo Modz FF APK | GOCMOD | [Read More](https://medium.com/p/76237e83fc2c) |
 | Fri, 09 Jan 2026 08:20:14 GMT | Comparative Analysis of Encryption Protocols | Esra Kayhan | [Read More](https://medium.com/p/fe7fa251116e) |
@@ -96,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 02:50:07 GMT | DLP 101: A Basic Explainer | Dhruv Jalota | [Read More](https://medium.com/p/dbe349ea3af2) |
 | Fri, 09 Jan 2026 02:49:12 GMT | Getting Started with DirBuster: The Fast Lane to Hidden Directories in Cybersecurity | Cybeague Technologies | [Read More](https://medium.com/p/a8d2d3acfcfa) |
 | Fri, 09 Jan 2026 02:45:28 GMT | Riding Through Loss: A Motorbike, a Stranger, and a Morning That Changed Me | Putri | [Read More](https://medium.com/p/1214830d1bc1) |
-| Fri, 09 Jan 2026 02:33:14 GMT | Phones, IP Addresses, and a False Sense of PrivacyWhy Hiding Your IP on Mobile Is Harder Than Most… | MostLogin Anti-detect Browser | [Read More](https://medium.com/p/f2ab98f8ee4b) |
-| Fri, 09 Jan 2026 02:23:41 GMT | Security 101: Beyond TLS — The Fascinating World of Asymmetric Cryptography | Kunal Sinha | [Read More](https://medium.com/p/764c068240a6) |
-| Fri, 09 Jan 2026 02:14:29 GMT | “You’re Absolutely Right! I Shouldn’t Read Your .env” — reads it anyway | MANGO byte | [Read More](https://medium.com/p/370fab1b4ce0) |
-| Fri, 09 Jan 2026 02:13:37 GMT | Pre-Inference Governance:
-Why Cybersecurity Fails Before Code Runs | Mounir Akarkach | [Read More](https://medium.com/p/2f8df843119b) |
-| Fri, 09 Jan 2026 02:06:02 GMT | Saat Lead Berkualitas menjadi Keunggulan Komptetitif: Peran The Teh Group dalam Mendorong Sales | The Teh Group News | [Read More](https://medium.com/p/7bb09d856e95) |
-| Fri, 09 Jan 2026 01:48:26 GMT | The Modern Developer’s Guide to Cryptography: The Boring, Safe, Correct Choices | Astro's world | [Read More](https://medium.com/p/91a5960817d7) |
-| Fri, 09 Jan 2026 01:30:04 GMT | The End of “Seeing Is Believing” | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/8ebfe5aa7935) |
-| Fri, 09 Jan 2026 01:20:01 GMT | Privacy-First Genomic Analysis: Securing  DNA Data in U.S. Healthcare with Federated Learning | Nilansh Upadhyay | [Read More](https://medium.com/p/0c2fe181bdef) |
-| Fri, 09 Jan 2026 00:54:56 GMT | The Phishing Pond TryHackMe WriteUP | cat0x01 | [Read More](https://medium.com/p/e567f89ef25f) |
-| Fri, 09 Jan 2026 00:44:25 GMT | THE CONSENT DOCTRINE FOR HUMAN AI COGNITIVE SYSTEMS | Matthew Wood | [Read More](https://medium.com/p/1eb85ba70212) |
-| Fri, 09 Jan 2026 00:24:54 GMT | Why router Firmware update i | Techwizs | [Read More](https://medium.com/p/b8a3b81ac2b1) |
-| Fri, 09 Jan 2026 00:07:07 GMT | The Open-Source Wallet: Why Seeing the Code Isn’t Optional Anymore | Sergey Golubev (Сергей Голубев) | [Read More](https://medium.com/p/87ee390b9406) |
-| Fri, 09 Jan 2026 00:06:18 GMT | cyberTalents (exploiting LDAP injection) | Viodex | [Read More](https://medium.com/p/da909b9492a1) |
-| Fri, 09 Jan 2026 00:05:13 GMT | NIST Issues Preliminary Draft of Cyber AI Profile, a Framework Poised To Alter Security Operations… | Financial Poise | [Read More](https://medium.com/p/68efe1536198) |
-| Fri, 09 Jan 2026 00:02:47 GMT | Guía de Commix: Automatización de OS Command Injection en Bug Bounty | JPablo13 | [Read More](https://medium.com/p/809e73a7db4f) |
-| Thu, 08 Jan 2026 23:49:51 GMT | Security Jobs in Edmonton — Join World Guardian Security Services | Hirasarfraz | [Read More](https://medium.com/p/0fc2f391b176) |
-| Thu, 08 Jan 2026 23:49:13 GMT | How to Prevent Brute-Force Attacks in MySQL Using Connection Control | Matheus dos Santos | [Read More](https://medium.com/p/2baa8f839a7f) |
