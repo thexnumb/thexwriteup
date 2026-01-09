@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 21:31:13 GMT | How I Went From ‘I’m Not a Hardware Person’ to Reverse Engineering Devices | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/536b4f6f8692) |
+| Fri, 09 Jan 2026 21:30:58 GMT | Coming Soon: Life as a Former Computer Hacker | Clacroix | [Read More](https://medium.com/p/bbde228e15fa) |
+| Fri, 09 Jan 2026 21:21:22 GMT | The Dark Side of AI: 10 Attacks You Need to Know About | Dhilip Narayan Srinivasan | [Read More](https://medium.com/p/af77e40ca676) |
+| Fri, 09 Jan 2026 21:21:10 GMT | One Click. One App. A Lifetime of Savings Gone! | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/485825133d84) |
 | Fri, 09 Jan 2026 21:10:16 GMT | Insider Threats Explained: Why Training Your Team is Non-Negotiable | Kenn Anderson, Jr. | [Read More](https://medium.com/p/f5c967068cca) |
 | Fri, 09 Jan 2026 21:06:01 GMT | Understanding AWS WAF Architecture and Request Inspection | Shivanshu Sharma | [Read More](https://medium.com/p/4452eb059d0a) |
 | Fri, 09 Jan 2026 21:05:13 GMT | Your Car’s Biggest Blind Spot Isn’t on the Road — It’s in the Code. | Semih Araz | [Read More](https://medium.com/p/366118276bbf) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 14:33:00 GMT | Using MITMf Against Real Networks: A Comprehensive Guide | Vignesh R | [Read More](https://medium.com/p/a43f80dd1d56) |
 | Fri, 09 Jan 2026 14:31:17 GMT | IOCS 2025 and the End of Tool-First Operations: Five Signals for the Next Era of I&O | saliljk@gmail.com | [Read More](https://medium.com/p/d105aac3395f) |
 | Fri, 09 Jan 2026 14:29:00 GMT | Müasir Kibertəhlükələrin Anatomiyası | Cavidtaqiyev | [Read More](https://medium.com/p/9c99edf24c21) |
-| Fri, 09 Jan 2026 14:26:53 GMT | Cybersecurity & Web3 — The Architectural Pivot  From Perimeter to Protocol | Abubakar Ogirima | [Read More](https://medium.com/p/c105af6f36c7) |
-| Fri, 09 Jan 2026 14:22:46 GMT | Why Crypto Crime Victims Prefer to Stay Silent | David SEHYEON Baek | [Read More](https://medium.com/p/c8f5d2e3aa75) |
-| Fri, 09 Jan 2026 14:21:43 GMT | CTF Writeup: Breaking the Cave Lab through LFI and SUID Misconfigurations | Ankush Prasad Sah | [Read More](https://medium.com/p/54fb132050c5) |
-| Fri, 09 Jan 2026 14:14:09 GMT | A 2009 PowerPoint Bug Is Back in 2026: Why “Old CVEs” Still Beat Modern Defenses | Suleiman Tawil | [Read More](https://medium.com/p/ee53600783c9) |
