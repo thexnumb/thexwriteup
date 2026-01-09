@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 20:34:21 GMT | What Is a Local Tradition in Omuooke That Has Adapted in a Surprising Way Because of New Technology? | ROYAL FAMILY NEWS UPDATE | [Read More](https://medium.com/p/81ffc2393a7a) |
+| Fri, 09 Jan 2026 20:27:00 GMT | THE INTEGRITY COLLAPSE | Pravesh Sharma | [Read More](https://medium.com/p/7f2196bc9dec) |
+| Fri, 09 Jan 2026 20:13:54 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/d6a851c96c19) |
 | Fri, 09 Jan 2026 20:13:49 GMT | music mosaic | Srinidhi Ravi | [Read More](https://medium.com/p/d3ffcf95b329) |
 | Fri, 09 Jan 2026 20:12:48 GMT | How Cybercrime is Changing With COVID-19 | Digital Uppercut | [Read More](https://medium.com/p/73bdbf13a325) |
 | Fri, 09 Jan 2026 20:12:15 GMT | THE ULTIMATE OSI MODEL MASTERY GUIDE | hareem khan | [Read More](https://medium.com/p/6e82709981d7) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 14:05:06 GMT | My Friendly Beginner’s Guide to the 8 CISSP Security Domains | Carlo Tasca | [Read More](https://medium.com/p/32c1a8b6e01e) |
 | Fri, 09 Jan 2026 14:03:04 GMT | UART Debug Isn’t Harmless: Serial Port Privilege Escalation in Hikvision DVRs | Aaronjjose | [Read More](https://medium.com/p/f907995fb89a) |
 | Fri, 09 Jan 2026 14:02:10 GMT | Authorization Failures in Authenticated APIs A Practical Analysis | Jawad Momani | [Read More](https://medium.com/p/c6b4395f6bf1) |
-| Fri, 09 Jan 2026 14:01:56 GMT | Inside RiskShield: A Low-Latency Velocity Rules Layer for Real-Time Payment Fraud Detection (Part… | Prashant Maroti | [Read More](https://medium.com/p/afc9107458f6) |
-| Fri, 09 Jan 2026 13:53:07 GMT | OverTheWire Bandit (Day 10): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/08598d500631) |
-| Fri, 09 Jan 2026 13:49:07 GMT | Cyber Incident ≠ Cyberwar: Why Most Organizations Still Get It Wrong | Abdullah Zulkifli | [Read More](https://medium.com/p/8801b7b015db) |
