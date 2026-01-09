@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 18:27:15 GMT | How to Spot Fake or Impersonation Profiles Online | Social Searcher | [Read More](https://medium.com/p/90cdc7e959de) |
+| Fri, 09 Jan 2026 18:05:25 GMT | Exploring NSUDO to better filter unwanted port 443 activity on windows 11 | William Ashley | [Read More](https://medium.com/p/dd273b4c7d8c) |
+| Fri, 09 Jan 2026 18:03:33 GMT | Ethical Hacking — A Simple Story | Ahmed Naeem | [Read More](https://medium.com/p/052ce22a3eca) |
+| Fri, 09 Jan 2026 17:59:11 GMT | Why DMCA-Aware Offshore Hosting Matters in a Privacy-First Internet | SemayraHost | [Read More](https://medium.com/p/3bc15ea72cf1) |
+| Fri, 09 Jan 2026 17:50:58 GMT | The Silent Threat Lurking in Your Inbox: Promptware and Indirect Prompt Injection Attacks | Himansu Saha | [Read More](https://medium.com/p/e4dff1fb015e) |
+| Fri, 09 Jan 2026 17:49:05 GMT | Why Security Should Be Planned Before Scaling, Not After | Digital Defense | [Read More](https://medium.com/p/19ea404c19e4) |
+| Fri, 09 Jan 2026 17:47:11 GMT | How I Hacked My College’s Website and Found a CVE Affecting 100+ Institutions across India | Mohammed Afnaan Ahmed | [Read More](https://medium.com/p/29b3c8266a11) |
+| Fri, 09 Jan 2026 17:44:10 GMT | What the Louvre Heist Teaches Us About Cybersecurity | Emory French | [Read More](https://medium.com/p/2e5bfedc40fa) |
+| Fri, 09 Jan 2026 17:42:52 GMT | Soft-Fail Security Tips That Protect PHP Without Breaking UX | Asian Digital Hub | [Read More](https://medium.com/p/bef92b67a67e) |
 | Fri, 09 Jan 2026 17:40:50 GMT | 10 Essential Cybersecurity Questions Everyone Should Know (PART -2 ) | Abdul Ahad | [Read More](https://medium.com/p/e11ed95090b8) |
 | Fri, 09 Jan 2026 17:40:42 GMT | Byaku: Automation of recon for bug hunting and vibe coding | Alberto Villasante | [Read More](https://medium.com/p/71fe424ef4d3) |
 | Fri, 09 Jan 2026 17:27:07 GMT | DOM XSS Using jQuery Selector & hashchange — When # Becomes Dangerous(PortSwigger lab 6) | Sanjivani Dobhal | [Read More](https://medium.com/p/fcd66262ccb1) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 12:39:15 GMT | Weekly Update | Techwin Cyber | [Read More](https://medium.com/p/68f6873beb8c) |
 | Fri, 09 Jan 2026 12:36:30 GMT | Security and Compliance in Customer Service Platforms: What Today’s Businesses Can’t Ignore | David | [Read More](https://medium.com/p/f4051938a6ec) |
 | Fri, 09 Jan 2026 12:26:21 GMT | Measuring Alert Effectiveness to Secure EVM Contracts | Mkapoor | [Read More](https://medium.com/p/be2050dfeca3) |
-| Fri, 09 Jan 2026 12:24:33 GMT | Live on Stage, a Hacktivist Erased Three White Supremacist Platforms | A.L. Bellettiere (Anna Louise Bellettiere-Kuyper) | [Read More](https://medium.com/p/e64e51cf99d2) |
-| Fri, 09 Jan 2026 12:22:50 GMT | AI Attacks vs. AI Defenses: The SOC Analyst’s Role Is Transforming | Thomas Patterson | [Read More](https://medium.com/p/71ee4a44ad21) |
-| Fri, 09 Jan 2026 12:21:01 GMT | Professional Security Services in Canada by World Guardian | world guardian | [Read More](https://medium.com/p/82f7629f2721) |
-| Fri, 09 Jan 2026 12:17:57 GMT | Why the Safest Systems Are the Most Observed | Systems Philosophy | [Read More](https://medium.com/p/1c84a0ff9a2b) |
-| Fri, 09 Jan 2026 12:13:09 GMT | Stop Scams Before They Stop Business | Jim Katzaman - Get Out of Debt | [Read More](https://medium.com/p/cde1bd508bb6) |
-| Fri, 09 Jan 2026 12:03:29 GMT | Cyber Security Services for Modern Enterprises | Reflect security solutions | [Read More](https://medium.com/p/2b022315680f) |
-| Fri, 09 Jan 2026 12:00:28 GMT | In Healthcare, “Secure Enough” Isn’t Enough: Why Your Practice Is at Risk | Emilia Carol | [Read More](https://medium.com/p/1c435c2cad79) |
-| Fri, 09 Jan 2026 12:00:27 GMT | Access Control | Cybernight | [Read More](https://medium.com/p/a30be9649fc1) |
-| Fri, 09 Jan 2026 11:53:54 GMT | The Evolution of Antivirus: A Key Pillar of Modern Cybersecurity | Medessa | [Read More](https://medium.com/p/0a6fbea97e1d) |
