@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 07:03:39 GMT | Dude Theft Wars Theartpics Mod Apk | Bandisharecx | [Read More](https://medium.com/p/2af5d5b45bed) |
+| Fri, 09 Jan 2026 07:00:52 GMT | Expert’s explanation: Hello World in Java | Om Sao | [Read More](https://medium.com/p/61c83d344317) |
+| Fri, 09 Jan 2026 07:00:04 GMT | Are Private Conversations Now An Ad Space? | Bill Urrutia | [Read More](https://medium.com/p/dc2923755a56) |
+| Fri, 09 Jan 2026 06:58:12 GMT | Why Warren Pulley’s Books Are Essential Reading for Security Professionals: An E-E-A-T Analysis | CrisisWire Threat Assessment Management | [Read More](https://medium.com/p/5d9ba0a7a9ee) |
+| Fri, 09 Jan 2026 06:50:19 GMT | A Practical Guide to Passing ISACA AI Fundamentals (No AI Background Required) | SS | [Read More](https://medium.com/p/476526692096) |
+| Fri, 09 Jan 2026 06:47:15 GMT | Total Security Solutions India: The Future of Electronic Security Solutions | Ciss India | [Read More](https://medium.com/p/52862b935e39) |
+| Fri, 09 Jan 2026 06:46:43 GMT | Cyber Security Certification Why It Matters for Modern Organizations | Siri | [Read More](https://medium.com/p/0e3913347cfb) |
+| Fri, 09 Jan 2026 06:44:47 GMT | Day 84- Introduction to Microsoft Defender XDR for beginners | unica 02 | [Read More](https://medium.com/p/627567ac6453) |
+| Fri, 09 Jan 2026 06:41:27 GMT | Weekly Threat Intelligence Report 5 Jan 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/1b4d18198eca) |
+| Fri, 09 Jan 2026 06:36:49 GMT | BitForge (PG Practice) — From Git Exposure to Root Compromise | Balaji_21 | [Read More](https://medium.com/p/ce320cbf182b) |
+| Fri, 09 Jan 2026 06:33:33 GMT | Practical Examples of Risk Mitigation in High-Stakes Environments | Rahman Iqbal | [Read More](https://medium.com/p/cbe013b063b9) |
+| Fri, 09 Jan 2026 06:33:06 GMT | SQL Injection: The Digital Magic Trick That Everyone Should Understand | Cybersecure | [Read More](https://medium.com/p/42d88fdd9c2c) |
 | Fri, 09 Jan 2026 06:32:55 GMT | Broken Access Control: The Most Exploited OWASP Web App Risk | bektiaw | [Read More](https://medium.com/p/a22e532f2c99) |
+| Fri, 09 Jan 2026 06:31:28 GMT | Real Case Studies on How Technology impacts enterprises for the good | Team Insnapsys | [Read More](https://medium.com/p/4eb1d0e67557) |
 | Fri, 09 Jan 2026 06:29:32 GMT | The Shadow AI Threat: Is Your Company’s Data Leaking into Public Models? | Florid Maclean | [Read More](https://medium.com/p/9c31bf36cba9) |
 | Fri, 09 Jan 2026 06:24:57 GMT | ETHICAL HACKING IN BANKING , E-COMMERCE , HEALTH CARE INDUSTRIES | Kaiproctor | [Read More](https://medium.com/p/1bcffe995b92) |
 | Fri, 09 Jan 2026 06:24:23 GMT | The Linux Security Journey — Firejail | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/8015af2471e9) |
@@ -100,16 +113,3 @@ Why Cybersecurity Fails Before Code Runs | Mounir Akarkach | [Read More](https:/
 | Thu, 08 Jan 2026 20:08:20 GMT | FW-Backfiring: Why “Sending Attacks Back to the Source” Is a Bad Idea | Derek Johnston | [Read More](https://medium.com/p/664bc1f454f3) |
 | Thu, 08 Jan 2026 20:03:50 GMT | Anatomy of Failure: How One Click Destroys Years of Anonymity | Jayson Morale | [Read More](https://medium.com/p/50bc12e00b95) |
 | Thu, 08 Jan 2026 19:56:30 GMT | MFA Is Not Enough: How MFA Phishing Works in Real Life | Ozkan Sonmez | [Read More](https://medium.com/p/ceb25b50b183) |
-| Thu, 08 Jan 2026 19:50:48 GMT | A Data-Driven Analysis of PyCon Talks on security | Maikel Mardjan | [Read More](https://medium.com/p/0b35e39e34cf) |
-| Thu, 08 Jan 2026 19:44:33 GMT | Shamir’s Secret Sharing: Why It Matters and How to Use It to Protect Sensitive Data | DevOpsIsRil | [Read More](https://medium.com/p/59608bf6fec1) |
-| Thu, 08 Jan 2026 19:44:33 GMT | Cloud Migration in 2026: Security, Downtime, and the Cost of Delay | Consilien | [Read More](https://medium.com/p/f7cab4c225a0) |
-| Thu, 08 Jan 2026 19:41:00 GMT | How To Zoom Safely | Digital Uppercut | [Read More](https://medium.com/p/da3460c1ea30) |
-| Thu, 08 Jan 2026 19:40:36 GMT | Mastering OAuth2 in Spring Boot 4: Auto Token Refresh and Production-Ready Config | Samarth Arun Narula | [Read More](https://medium.com/p/9752b15cedc2) |
-| Thu, 08 Jan 2026 19:35:51 GMT | Docker Bug: Docker Desktop Crash on macOS: Understanding the Host Network & iptables Bug | Chinmay Shringi | [Read More](https://medium.com/p/3d3fc2884149) |
-| Thu, 08 Jan 2026 19:24:15 GMT | Privileged Access Management in the Age of Agentic AI: Recognizing and Securing a New Identity Type | vinay vasanth | [Read More](https://medium.com/p/1a6af8054f5f) |
-| Thu, 08 Jan 2026 19:15:49 GMT | Windows Server 2025 Üzerinde Hyper-V ile Sanallaştırma Altyapısı | Hakan ÇEVİK | [Read More](https://medium.com/p/9a1b9946c2e5) |
-| Thu, 08 Jan 2026 19:15:43 GMT | You Won’t Believe These 6 Labs That Hack Your Cloud in Minutes! | cybrNK | [Read More](https://medium.com/p/07e97eb9e8c9) |
-| Thu, 08 Jan 2026 19:07:43 GMT | Offsec Funbox Rookie Writeup | sabR | [Read More](https://medium.com/p/9dc762110adf) |
-| Thu, 08 Jan 2026 19:07:29 GMT | Hashing | Techwin Cyber | [Read More](https://medium.com/p/20e425e7cb76) |
-| Thu, 08 Jan 2026 19:02:44 GMT | Anti-Phishing | Iram Jack | [Read More](https://medium.com/p/5bb6e261b641) |
-| Thu, 08 Jan 2026 19:01:49 GMT | Breaking into IoT Security: My Review of the Practical IoT Pentest Associate (PIPA) | Krishna | [Read More](https://medium.com/p/85e43123852c) |
