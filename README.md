@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 06:32:55 GMT | Broken Access Control: The Most Exploited OWASP Web App Risk | bektiaw | [Read More](https://medium.com/p/a22e532f2c99) |
+| Fri, 09 Jan 2026 06:29:32 GMT | The Shadow AI Threat: Is Your Company’s Data Leaking into Public Models? | Florid Maclean | [Read More](https://medium.com/p/9c31bf36cba9) |
+| Fri, 09 Jan 2026 06:24:57 GMT | ETHICAL HACKING IN BANKING , E-COMMERCE , HEALTH CARE INDUSTRIES | Kaiproctor | [Read More](https://medium.com/p/1bcffe995b92) |
+| Fri, 09 Jan 2026 06:24:23 GMT | The Linux Security Journey — Firejail | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/8015af2471e9) |
+| Fri, 09 Jan 2026 06:24:00 GMT | How I dump the company database using SQL injection | Jagadeeshan | [Read More](https://medium.com/p/f10bd3c45ade) |
+| Fri, 09 Jan 2026 06:17:51 GMT | How Insiders Work in Cybercrime | David SEHYEON Baek | [Read More](https://medium.com/p/86d80af9647e) |
+| Fri, 09 Jan 2026 06:16:08 GMT | How Small Satellite Constellations Enable Continuous Earth Observation | Polimote | [Read More](https://medium.com/p/8624a7ee3913) |
+| Fri, 09 Jan 2026 06:11:26 GMT | From Vibe Coding to Threat Hunting: How I Built a Honeypot That Caught the Mirai Botnet | Rootsploit | [Read More](https://medium.com/p/a38a4f04e112) |
+| Fri, 09 Jan 2026 06:11:22 GMT | The Automotive Industry Is Moving Fast Toward Smart Cars — But Security Must Keep Up!!! | Bhawini. | [Read More](https://medium.com/p/3e755de0c82d) |
+| Fri, 09 Jan 2026 06:05:27 GMT | How to Keep Your Website Secure and Updated | Hannah Grace | [Read More](https://medium.com/p/f76d574f0d4f) |
+| Fri, 09 Jan 2026 06:00:11 GMT | The 72-Hour Window: Why Speed Matters in Behavioral Threat Assessment | CrisisWire Threat Assessment Management | [Read More](https://medium.com/p/3e0771f34a54) |
+| Fri, 09 Jan 2026 05:54:12 GMT | USPD Hack: Details & Questions | DataFinnovation - ChainArgos  - 4AC | [Read More](https://medium.com/p/a6d8a4315131) |
+| Fri, 09 Jan 2026 05:50:02 GMT | Caches, Edge, and Exploits | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/67db17b5fa6b) |
 | Fri, 09 Jan 2026 05:42:08 GMT | Safety First: How We Protect Every “Buddy” on the Road | BuddyRide Official | [Read More](https://medium.com/p/80d004993776) |
 | Fri, 09 Jan 2026 05:36:53 GMT | CISSP Domain 4 Mastery Series - Part 4: VPN Technologies & Authentication Protocols | Pushpak Sharma | [Read More](https://medium.com/p/955cfcdc683a) |
 | Fri, 09 Jan 2026 05:33:01 GMT | This Simple Password Trick Cost DoorDash Millions in Data | MyNextDeveloper | [Read More](https://medium.com/p/7835f2655624) |
@@ -100,16 +113,3 @@ Why Cybersecurity Fails Before Code Runs | Mounir Akarkach | [Read More](https:/
 | Thu, 08 Jan 2026 19:07:29 GMT | Hashing | Techwin Cyber | [Read More](https://medium.com/p/20e425e7cb76) |
 | Thu, 08 Jan 2026 19:02:44 GMT | Anti-Phishing | Iram Jack | [Read More](https://medium.com/p/5bb6e261b641) |
 | Thu, 08 Jan 2026 19:01:49 GMT | Breaking into IoT Security: My Review of the Practical IoT Pentest Associate (PIPA) | Krishna | [Read More](https://medium.com/p/85e43123852c) |
-| Thu, 08 Jan 2026 19:01:16 GMT | DOM XSS in jQuery anchor href attribute sink using location.search source (Portswigger lab 5) | Sanjivani Dobhal | [Read More](https://medium.com/p/bc63bb7083f6) |
-| Thu, 08 Jan 2026 18:57:11 GMT | The Air Is Hostile by Default: A Realistic Guide to Wi Fi Hacking and Wireless Survival | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/8f1f9a70e3ef) |
-| Thu, 08 Jan 2026 18:54:55 GMT | Akamai Noname — Kong Gateway Entegrasyonu ile API Güvenliğini Güçlendirmek | Burak Akdogan | [Read More](https://medium.com/p/8a55cc666ecd) |
-| Thu, 08 Jan 2026 18:50:15 GMT | Digital forensics: M57.biz -Investigating the case of corporate exfiltration | _hime | [Read More](https://medium.com/p/d3107c235bb7) |
-| Thu, 08 Jan 2026 18:47:23 GMT | How Attackers Are Using Google Cloud to Send Phishing Emails | CipherX9F Security | [Read More](https://medium.com/p/973e3f2a4128) |
-| Thu, 08 Jan 2026 18:45:10 GMT | Interview saved by Claude Code — I Almost Got Hacked by a “Job Offer” on LinkedIn | Andreas Abros | [Read More](https://medium.com/p/bef811d1e058) |
-| Thu, 08 Jan 2026 18:44:14 GMT | Fusion Centers: When NOC and SOC Stop Fighting and Start Seeing the Whole Attack | Denny Roger | [Read More](https://medium.com/p/e5aac1ba2ba6) |
-| Thu, 08 Jan 2026 18:39:48 GMT | Pentest Sadece Dışarıdan mı Yapılır? External-Internal Pentest Nedir? | Zekikayaalp | [Read More](https://medium.com/p/78065e7ee0cc) |
-| Thu, 08 Jan 2026 18:36:03 GMT | Cassandra Backups with Medusa: A Stage-by-Stage Guide to Permissions and Access Control | kumar bharath | [Read More](https://medium.com/p/ffc503811ae8) |
-| Thu, 08 Jan 2026 18:32:55 GMT | Central Asia Just Solved Its Bloodiest Border Without Moscow or Beijing | Vivek Anand | [Read More](https://medium.com/p/527250564642) |
-| Thu, 08 Jan 2026 18:31:12 GMT | Best Unarmed Security Guard Dallas | US guard security company | [Read More](https://medium.com/p/9b7d2806a359) |
-| Thu, 08 Jan 2026 18:28:27 GMT | Canada Prepares | Debborah Donnelly | [Read More](https://medium.com/p/c2c4f4720b67) |
-| Thu, 08 Jan 2026 18:13:42 GMT | Technology 2026: The Year Words Became Intelligent | Shetty21me | [Read More](https://medium.com/p/15fa3aab1451) |
