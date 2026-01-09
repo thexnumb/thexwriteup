@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 19:25:27 GMT | ️DC: 4 — Complete Walkthrough (Beginner-Friendly) - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/d33275fe08b8) |
+| Fri, 09 Jan 2026 19:19:08 GMT | Securing SSH Access to AWS EC2: From Perimeter Controls to Detection | Surya Naga Sesank Munukutla | [Read More](https://medium.com/p/b313e152aa8f) |
 | Fri, 09 Jan 2026 19:08:42 GMT | When a Break-down Leads to a Break-Out | Laura DeMaisBerg | [Read More](https://medium.com/p/4fbb5cd1bbfc) |
 | Fri, 09 Jan 2026 19:04:08 GMT | Linux broke me not the target | Manoj Nepal | [Read More](https://medium.com/p/c2ce94c9a999) |
 | Fri, 09 Jan 2026 19:03:37 GMT | AuthZen, Cedar, OPA, and Zanzibar-style FGA | Zeigeist | [Read More](https://medium.com/p/f72bd1c51395) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 13:14:28 GMT | US Tech Force is Hiring 1,000 AI Experts at $195K | TrendScribe | [Read More](https://medium.com/p/3844cb87a91a) |
 | Fri, 09 Jan 2026 13:13:36 GMT | Advent of Cyber — Day 10: SOC Alert Triaging — Tinsel Triage | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/e7ebf8790314) |
 | Fri, 09 Jan 2026 13:11:53 GMT | Advent of Cyber — Day 9: Passwords — A Cracking Christmas | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/ca0293436d70) |
-| Fri, 09 Jan 2026 13:10:01 GMT | Google Antigravity adds Sonatype security screening | Nanthakumar | [Read More](https://medium.com/p/a1c10cd32a0c) |
-| Fri, 09 Jan 2026 13:06:58 GMT | A Beginner’s Guide to the OAuth 2.0 JWT Bearer Flow | Namrata | [Read More](https://medium.com/p/41b072db934d) |
