@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 16:21:42 GMT | To Someone Who Cares | Aastha Shukla | [Read More](https://medium.com/p/f990608aa150) |
+| Fri, 09 Jan 2026 16:19:54 GMT | Exploring Activity Timeline — A Glimpse of Data Forensic | Ankit M | [Read More](https://medium.com/p/b8af5fd3dd0d) |
+| Fri, 09 Jan 2026 16:15:03 GMT | Passwordless Isn’t the Future It’s Already Here (And IAM Is Being Rewritten) | Sunnysinha | [Read More](https://medium.com/p/8ddfe2cb87e7) |
+| Fri, 09 Jan 2026 16:14:41 GMT | Next-Gen Cybersecurity with AI: How Intelligent Defense Is Redefining Digital Safety | Data Matric | [Read More](https://medium.com/p/6c0182e8d48e) |
+| Fri, 09 Jan 2026 16:14:05 GMT | Cybersecurity 2026: The Biggest Risks for Businesses — and How to Protect Your Company | Cordula Boeck | [Read More](https://medium.com/p/70efe8e18862) |
+| Fri, 09 Jan 2026 16:09:22 GMT | How to Rekey a Kwikset Smart Lock: A Professional Guide | Sure Lock & Key LLC | [Read More](https://medium.com/p/2ade7556f7c6) |
+| Fri, 09 Jan 2026 16:03:27 GMT | Quo vadis? (ECSC 2024 (Italy)) — cryptohack | SPIDER1SEC | [Read More](https://medium.com/p/70cd091be2b8) |
+| Fri, 09 Jan 2026 16:02:08 GMT | AI-Driven Defense Ecosystems: How Autonomous Response Is Redefining Cybersecurity in 2026 | IT_Engineer | [Read More](https://medium.com/p/e4c4c6eec69e) |
+| Fri, 09 Jan 2026 16:02:01 GMT | OverTheWire Bandit Level 12 → Level 13 : When Data Lies About What It Is | Sivanesan M | [Read More](https://medium.com/p/23ee22621454) |
+| Fri, 09 Jan 2026 16:01:58 GMT | Reflecting with AI: My Experiment in building a Digital Accountability Partner [Part 1] | Clement Leong | [Read More](https://medium.com/p/60c8cf2f728d) |
+| Fri, 09 Jan 2026 15:57:50 GMT | Comprehensive Python Roadmap 2026: Mastering Fundamentals to Future Trends | Maha K | [Read More](https://medium.com/p/174dbed32bb4) |
+| Fri, 09 Jan 2026 15:56:17 GMT | Why a UPI OSINT Tool Cannot (and Should Not) Exist | Secuverse | [Read More](https://medium.com/p/48a1425b9876) |
+| Fri, 09 Jan 2026 15:55:21 GMT | Security 101: Building Trust in a Digital World — Understanding Digital Certificates | Kunal Sinha | [Read More](https://medium.com/p/f84f86206c8a) |
 | Fri, 09 Jan 2026 15:39:03 GMT | “Bug Bounty Bootcamp #12: Hacking Through Regex — How Bad Pattern Matching Creates Critical… | Aman Sharma | [Read More](https://medium.com/p/b92b68eb77c0) |
 | Fri, 09 Jan 2026 15:36:38 GMT | SSRF in PDF Generators | Fatimahasan | [Read More](https://medium.com/p/900de19572d3) |
 | Fri, 09 Jan 2026 15:27:18 GMT | The Intricacies of Sensitive Data Protection: 5 Hard-Earned Lessons | SecGuy | [Read More](https://medium.com/p/4ffb882e9117) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 11:19:16 GMT | Industry-Focused IT Training Programs: Build Skills That Lead to Real Careers | Swhizztechnlogies | [Read More](https://medium.com/p/603b913645fc) |
 | Fri, 09 Jan 2026 11:12:17 GMT | I’m interested in writing about technology, personal growth, and real-life experiences. | Ermiyas Amare | [Read More](https://medium.com/p/c678fe94f704) |
 | Fri, 09 Jan 2026 11:11:06 GMT | The Complete Guide to Privacy-First Online Tools in 2026 | Azeem Mustafa | [Read More](https://medium.com/p/ae2408c0838f) |
-| Fri, 09 Jan 2026 11:04:05 GMT | Cloud Computing for Beginners: A Simple Guide to Getting Started. | Justice Atulaegwu | [Read More](https://medium.com/p/c5f20657d426) |
-| Fri, 09 Jan 2026 11:02:45 GMT | Glitchcraft and the Joy of Breaking Perfect Things | Franziska "Ziska" Fink | [Read More](https://medium.com/p/544f8fe5a22d) |
-| Fri, 09 Jan 2026 11:02:41 GMT | Implementing Azure Entra ID SSO Authentication for Linux Applications: A Complete Guide | Krunal Bansod | [Read More](https://medium.com/p/ec348f0954e6) |
-| Fri, 09 Jan 2026 10:58:09 GMT | Chaos Monkey: The Crazy Netflix Tool That Keeps Your Binge Safe | Amal | [Read More](https://medium.com/p/6249c10e4450) |
-| Fri, 09 Jan 2026 10:57:58 GMT | ️ Cybersecurity Basics: Ethical Hacking, Attack Lifecycle, and Modern Defense | Kashish Zara | [Read More](https://medium.com/p/776900ec0f0c) |
-| Fri, 09 Jan 2026 10:54:14 GMT | File Path Traversal, Validation of Start of Path | Bash Overflow | [Read More](https://medium.com/p/71134f2e366b) |
-| Fri, 09 Jan 2026 10:44:21 GMT | How Do I Contact AVG Support Number UK | Zuerevalexander | [Read More](https://medium.com/p/80c9a010f124) |
-| Fri, 09 Jan 2026 10:39:18 GMT | Sanctuary | Ayomide Ojekunle | [Read More](https://medium.com/p/324681e21adf) |
-| Fri, 09 Jan 2026 10:39:10 GMT | TryHackMe: Net Sec Challenge | JC2122 | [Read More](https://medium.com/p/29c66d19ffb6) |
-| Fri, 09 Jan 2026 10:36:30 GMT | : … | Mario Candela | [Read More](https://medium.com/p/fd0c78a70677) |
-| Fri, 09 Jan 2026 10:35:47 GMT | How Do I Call McAfee Support Number UK | Zuerevalexander | [Read More](https://medium.com/p/3979562cf3e2) |
-| Fri, 09 Jan 2026 10:34:39 GMT | 10 Pentest Findings That Instantly Impress Clients: Step-by-Step Guide for Security Pros | Very Lazy Tech | [Read More](https://medium.com/p/f3a68c1d355a) |
-| Fri, 09 Jan 2026 10:32:28 GMT | OSI Model vs TCP/IP Model — Explained with Real-World Examples | Shalu | [Read More](https://medium.com/p/dd1b2395954f) |
