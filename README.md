@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 23:19:15 GMT | A Simple Shopify Open Redirect That Paid $500 ‍ | ab.infosec | [Read More](https://medium.com/p/1b358ce0969a) |
+| Fri, 09 Jan 2026 23:00:04 GMT | How I Passed ISC2 CC After Failing Twice | Roberto Junior | [Read More](https://medium.com/p/ca4dae232227) |
 | Fri, 09 Jan 2026 22:36:46 GMT | The Safest Record Is the One You Never Collected | Tyson Martin | [Read More](https://medium.com/p/488f0abbae3b) |
 | Fri, 09 Jan 2026 22:36:33 GMT | Shadow AI Is Still Everywhere — And It’s Putting Enterprises at Risk | Cyber-AppSec | [Read More](https://medium.com/p/88bf8a0fa2a6) |
 | Fri, 09 Jan 2026 22:33:41 GMT | Rangeforce : REvil Ransomeware Detection & Response | Pwnedproof | [Read More](https://medium.com/p/35992addd4d9) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 15:27:18 GMT | The Intricacies of Sensitive Data Protection: 5 Hard-Earned Lessons | SecGuy | [Read More](https://medium.com/p/4ffb882e9117) |
 | Fri, 09 Jan 2026 15:26:07 GMT | A Guide to Safe Festive Shopping | Mr Technology | [Read More](https://medium.com/p/528e28124726) |
 | Fri, 09 Jan 2026 15:25:47 GMT | Cracking the Split-APK Code | bineeg | [Read More](https://medium.com/p/100af6bfebe1) |
-| Fri, 09 Jan 2026 15:25:32 GMT | n8n 2.0 Will Break Your Workflows | Najeeb W | [Read More](https://medium.com/p/eaef1e3cc578) |
-| Fri, 09 Jan 2026 15:22:07 GMT | Nmap: Setup, Core Scans, and Practical Use Cases | Little_Sun4lower | [Read More](https://medium.com/p/6578b58b2073) |
