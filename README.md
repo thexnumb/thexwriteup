@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 11:30:37 GMT | How Penetration Testing Services Help You Stay One Step Ahead of Cybercriminals | SmartCLOUD Australia | [Read More](https://medium.com/p/ecdf9f110e16) |
+| Fri, 09 Jan 2026 11:28:52 GMT | Fundamentals of Cybersecurity: What Actually Keeps Systems Safe | raksha001 | [Read More](https://medium.com/p/241ed5275d54) |
+| Fri, 09 Jan 2026 11:22:38 GMT | Pickle Rick — TryHackMe Walkthrough | Rishith soni | [Read More](https://medium.com/p/b0bd3b4961d4) |
+| Fri, 09 Jan 2026 11:22:01 GMT | Data Privacy Is No Longer a Legal Problem — It’s a QA Problem | dhanashekar krishna | [Read More](https://medium.com/p/2ede074da423) |
+| Fri, 09 Jan 2026 11:20:47 GMT | Global Security: Bending, Not Breaking | T Lewis | [Read More](https://medium.com/p/a8780988b64c) |
+| Fri, 09 Jan 2026 11:20:17 GMT | Top 5 Reasons Why BBA in Information Technology Is the Perfect Launchpad for an AI Career | SICSR Pune | [Read More](https://medium.com/p/7c95fdcf4b50) |
 | Fri, 09 Jan 2026 11:20:15 GMT | Ethical Hacking Fundamentals: Scope, Ethics, and Cyber Attack Lifecycle | Ahmad Jutt | [Read More](https://medium.com/p/9e8f655a8554) |
+| Fri, 09 Jan 2026 11:19:16 GMT | Industry-Focused IT Training Programs: Build Skills That Lead to Real Careers | Swhizztechnlogies | [Read More](https://medium.com/p/603b913645fc) |
 | Fri, 09 Jan 2026 11:12:17 GMT | I’m interested in writing about technology, personal growth, and real-life experiences. | Ermiyas Amare | [Read More](https://medium.com/p/c678fe94f704) |
+| Fri, 09 Jan 2026 11:11:06 GMT | The Complete Guide to Privacy-First Online Tools in 2026 | Azeem Mustafa | [Read More](https://medium.com/p/ae2408c0838f) |
 | Fri, 09 Jan 2026 11:04:05 GMT | Cloud Computing for Beginners: A Simple Guide to Getting Started. | Justice Atulaegwu | [Read More](https://medium.com/p/c5f20657d426) |
 | Fri, 09 Jan 2026 11:02:45 GMT | Glitchcraft and the Joy of Breaking Perfect Things | Franziska "Ziska" Fink | [Read More](https://medium.com/p/544f8fe5a22d) |
 | Fri, 09 Jan 2026 11:02:41 GMT | Implementing Azure Entra ID SSO Authentication for Linux Applications: A Complete Guide | Krunal Bansod | [Read More](https://medium.com/p/ec348f0954e6) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 06:24:57 GMT | ETHICAL HACKING IN BANKING , E-COMMERCE , HEALTH CARE INDUSTRIES | Kaiproctor | [Read More](https://medium.com/p/1bcffe995b92) |
 | Fri, 09 Jan 2026 06:24:23 GMT | The Linux Security Journey — Firejail | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/8015af2471e9) |
 | Fri, 09 Jan 2026 06:24:00 GMT | How I dump the company database using SQL injection | Jagadeeshan | [Read More](https://medium.com/p/f10bd3c45ade) |
-| Fri, 09 Jan 2026 06:17:51 GMT | How Insiders Work in Cybercrime | David SEHYEON Baek | [Read More](https://medium.com/p/86d80af9647e) |
-| Fri, 09 Jan 2026 06:16:08 GMT | How Small Satellite Constellations Enable Continuous Earth Observation | Polimote | [Read More](https://medium.com/p/8624a7ee3913) |
-| Fri, 09 Jan 2026 06:11:26 GMT | From Vibe Coding to Threat Hunting: How I Built a Honeypot That Caught the Mirai Botnet | Rootsploit | [Read More](https://medium.com/p/a38a4f04e112) |
-| Fri, 09 Jan 2026 06:11:22 GMT | The Automotive Industry Is Moving Fast Toward Smart Cars — But Security Must Keep Up!!! | Bhawini. | [Read More](https://medium.com/p/3e755de0c82d) |
-| Fri, 09 Jan 2026 06:05:27 GMT | How to Keep Your Website Secure and Updated | Hannah Grace | [Read More](https://medium.com/p/f76d574f0d4f) |
-| Fri, 09 Jan 2026 06:00:11 GMT | The 72-Hour Window: Why Speed Matters in Behavioral Threat Assessment | CrisisWire Threat Assessment Management | [Read More](https://medium.com/p/3e0771f34a54) |
-| Fri, 09 Jan 2026 05:54:12 GMT | USPD Hack: Details & Questions | DataFinnovation - ChainArgos  - 4AC | [Read More](https://medium.com/p/a6d8a4315131) |
-| Fri, 09 Jan 2026 05:50:02 GMT | Caches, Edge, and Exploits | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/67db17b5fa6b) |
