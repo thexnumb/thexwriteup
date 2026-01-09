@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 21:10:16 GMT | Insider Threats Explained: Why Training Your Team is Non-Negotiable | Kenn Anderson, Jr. | [Read More](https://medium.com/p/f5c967068cca) |
+| Fri, 09 Jan 2026 21:06:01 GMT | Understanding AWS WAF Architecture and Request Inspection | Shivanshu Sharma | [Read More](https://medium.com/p/4452eb059d0a) |
+| Fri, 09 Jan 2026 21:05:13 GMT | Your Car’s Biggest Blind Spot Isn’t on the Road — It’s in the Code. | Semih Araz | [Read More](https://medium.com/p/366118276bbf) |
+| Fri, 09 Jan 2026 20:43:23 GMT | Beyond the Green Checkmark: The Case for Semantic Static Analysis in Flutter | Saropa Contacts News | [Read More](https://medium.com/p/a592942d4460) |
 | Fri, 09 Jan 2026 20:34:21 GMT | What Is a Local Tradition in Omuooke That Has Adapted in a Surprising Way Because of New Technology? | ROYAL FAMILY NEWS UPDATE | [Read More](https://medium.com/p/81ffc2393a7a) |
 | Fri, 09 Jan 2026 20:27:00 GMT | THE INTEGRITY COLLAPSE | Pravesh Sharma | [Read More](https://medium.com/p/7f2196bc9dec) |
 | Fri, 09 Jan 2026 20:13:54 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/d6a851c96c19) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 14:22:46 GMT | Why Crypto Crime Victims Prefer to Stay Silent | David SEHYEON Baek | [Read More](https://medium.com/p/c8f5d2e3aa75) |
 | Fri, 09 Jan 2026 14:21:43 GMT | CTF Writeup: Breaking the Cave Lab through LFI and SUID Misconfigurations | Ankush Prasad Sah | [Read More](https://medium.com/p/54fb132050c5) |
 | Fri, 09 Jan 2026 14:14:09 GMT | A 2009 PowerPoint Bug Is Back in 2026: Why “Old CVEs” Still Beat Modern Defenses | Suleiman Tawil | [Read More](https://medium.com/p/ee53600783c9) |
-| Fri, 09 Jan 2026 14:10:26 GMT | How to Hypothetically Secure $1 Billion in Bitcoin | Neil Chandler | [Read More](https://medium.com/p/6158d06df994) |
-| Fri, 09 Jan 2026 14:05:06 GMT | My Friendly Beginner’s Guide to the 8 CISSP Security Domains | Carlo Tasca | [Read More](https://medium.com/p/32c1a8b6e01e) |
-| Fri, 09 Jan 2026 14:03:04 GMT | UART Debug Isn’t Harmless: Serial Port Privilege Escalation in Hikvision DVRs | Aaronjjose | [Read More](https://medium.com/p/f907995fb89a) |
-| Fri, 09 Jan 2026 14:02:10 GMT | Authorization Failures in Authenticated APIs A Practical Analysis | Jawad Momani | [Read More](https://medium.com/p/c6b4395f6bf1) |
