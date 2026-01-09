@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 10:13:21 GMT | Poisoned Credentials — SOC Analyst Walkthrough (Blue Team CTF) | Al-Ameen Azeef | [Read More](https://medium.com/p/ebf8962bbf8d) |
+| Fri, 09 Jan 2026 10:04:25 GMT | Are AI Chatbots the New S3? | Kishor balan | [Read More](https://medium.com/p/f782b8e90701) |
+| Fri, 09 Jan 2026 09:55:24 GMT | VAPT Services in Saudi Arabia for Banks, Fintech & Financial Institutions | Prakash Factosecure | [Read More](https://medium.com/p/5aa65247a964) |
+| Fri, 09 Jan 2026 09:54:35 GMT | Platforms for receiving OTPs are under pressure | NNayak | [Read More](https://medium.com/p/7ae4e1a3a746) |
+| Fri, 09 Jan 2026 09:53:53 GMT | Http Response Manipulation | Neeraj kath | [Read More](https://medium.com/p/b5d56176b024) |
+| Fri, 09 Jan 2026 09:51:40 GMT | The Day a DNS Misconfiguration Took Down an Entire Environment | Fateyaly | [Read More](https://medium.com/p/fa1dbe1b1f09) |
+| Fri, 09 Jan 2026 09:50:35 GMT | Is HIPAA-Compliance the Final Boss for LLM Scalability? - The Daily Tech Digest: 09 January 2026 | Souren Stepanyan | [Read More](https://medium.com/p/bc3c645b42de) |
+| Fri, 09 Jan 2026 09:47:59 GMT | Part 4:Configuring Spring Security Filter Chain: A Deep Dive into Custom Security Filters | Sarveshkhamkar | [Read More](https://medium.com/p/a27d73f14f17) |
+| Fri, 09 Jan 2026 09:47:48 GMT | HOPING I GIVE MYSELF THE CHANCE TO LIVE | Oni | [Read More](https://medium.com/p/f18b28598630) |
+| Fri, 09 Jan 2026 09:46:55 GMT | Most People Lose Crypto Because They Pick the Wrong Wallet!!! | - Crypto - Health - Cyber - Tech | [Read More](https://medium.com/p/7b8adb7fb894) |
+| Fri, 09 Jan 2026 09:43:13 GMT | The AI Revolution Will Feel Like Freedom, Until Human Nature Kicks In | Remis Haroon | [Read More](https://medium.com/p/22f117e7fd0f) |
+| Fri, 09 Jan 2026 09:40:15 GMT | Night Adventure Mod Apk | Game4u | [Read More](https://medium.com/p/8ec8fa00a38c) |
+| Fri, 09 Jan 2026 09:33:25 GMT | Shadow AI Models in Finance Teams: The Hidden Security Debt Nobody Is Tracking | Michael Adedeji | [Read More](https://medium.com/p/1ba9c865f64a) |
+| Fri, 09 Jan 2026 09:32:47 GMT | Fine-Tuning’s Dark Side: When “Custom” Turns Harmful | Quaxel | [Read More](https://medium.com/p/9f6cb68bc78b) |
+| Fri, 09 Jan 2026 09:30:48 GMT | Protecting Generative AI in Production: Defeating Prompt Injection Without Breaking User Experience… | Arch | [Read More](https://medium.com/p/67d31c2cd56d) |
 | Fri, 09 Jan 2026 09:27:32 GMT | THM - Boogeyman 2 | Francesco Pastore | [Read More](https://medium.com/p/9f95c8637e66) |
 | Fri, 09 Jan 2026 09:23:00 GMT | Modern Cybersecurity: Simple Facts Every Business Leader Should Know | Wolf Communication Pvt Ltd | [Read More](https://medium.com/p/7545e9bdf523) |
 | Fri, 09 Jan 2026 09:21:49 GMT | The Hidden Costs of Managing Cybersecurity Without a Dedicated Security Partner | Gavin Ellis | [Read More](https://medium.com/p/3f195ae03082) |
@@ -98,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 04:59:02 GMT | Strengthen Cyber Defense Fundamentals — Ethical Hacking Foundation Certification | Adhiraj Kasabe | [Read More](https://medium.com/p/663ddd22e971) |
 | Fri, 09 Jan 2026 04:52:40 GMT | Logların İzinde: Ransomware Senaryosu | Ali Ekber KARA | [Read More](https://medium.com/p/6db3da7f5160) |
 | Fri, 09 Jan 2026 04:34:14 GMT | Vulnerability Assessment Services: A Proactive Approach to Modern Cybersecurity | Maxatlasofficial | [Read More](https://medium.com/p/8a1754e6f8f0) |
-| Fri, 09 Jan 2026 04:31:52 GMT | Microsoft Defender Is Not “Just Antivirus” — And That Misunderstanding Is Costing Organizations | Suraj Kumar | [Read More](https://medium.com/p/c1ceaa5ea593) |
-| Fri, 09 Jan 2026 04:24:18 GMT | The Truth Engine: Inside the SVARAEL-SRAL Consensus Protocol | SVARAEL(SRAL) | [Read More](https://medium.com/p/e0a76ef7b761) |
-| Fri, 09 Jan 2026 04:21:20 GMT | Understanding File Upload Bypass Using Filename Truncation (#) | Cyber MeowX | [Read More](https://medium.com/p/9fb33af1333c) |
-| Fri, 09 Jan 2026 04:15:45 GMT | Cybersecurity in the Modern World: From Awareness to Action | Soumendu Manna | [Read More](https://medium.com/p/9847d48e1ff0) |
-| Fri, 09 Jan 2026 03:42:15 GMT | Apple issues warning to all 1.8bn iPhone users over ‘extremely sophisticated attack | Abstract Mind | [Read More](https://medium.com/p/a0b374cff7f2) |
-| Fri, 09 Jan 2026 03:35:21 GMT | What this document means to me is that I know what has happened to me and I’m grateful it happened… | The Comforter aka Captain Spock | [Read More](https://medium.com/p/2aa7bf46a908) |
-| Fri, 09 Jan 2026 03:32:44 GMT | How TrafficBotPro Simulates Real User Behavior for SEO | Cyplia Fr | [Read More](https://medium.com/p/044f4e28624c) |
-| Fri, 09 Jan 2026 02:56:09 GMT | Why Access to Information Still Feels Like Magic | Praise Okaegbu-Wali | [Read More](https://medium.com/p/9c1bb5d1882d) |
-| Fri, 09 Jan 2026 02:54:57 GMT | WannaCry | Leisha  B. | [Read More](https://medium.com/p/f97dbc8ac460) |
-| Fri, 09 Jan 2026 02:52:51 GMT | An IAM Brief | Dhruv Jalota | [Read More](https://medium.com/p/c7bf0e3629b6) |
-| Fri, 09 Jan 2026 02:50:30 GMT | How Scammers Target Malaysians: Insights and Defensive OSINT Practices | Pwnedproof | [Read More](https://medium.com/p/62cfa5375acb) |
-| Fri, 09 Jan 2026 02:50:16 GMT | Unleashing the Power of DirBuster: Advanced Recon Techniques for Professional Pentesters | Cybeague Technologies | [Read More](https://medium.com/p/ffe5d0d1ef32) |
-| Fri, 09 Jan 2026 02:50:07 GMT | DLP 101: A Basic Explainer | Dhruv Jalota | [Read More](https://medium.com/p/dbe349ea3af2) |
-| Fri, 09 Jan 2026 02:49:12 GMT | Getting Started with DirBuster: The Fast Lane to Hidden Directories in Cybersecurity | Cybeague Technologies | [Read More](https://medium.com/p/a8d2d3acfcfa) |
-| Fri, 09 Jan 2026 02:45:28 GMT | Riding Through Loss: A Motorbike, a Stranger, and a Morning That Changed Me | Putri | [Read More](https://medium.com/p/1214830d1bc1) |
