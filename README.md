@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 04:34:14 GMT | Vulnerability Assessment Services: A Proactive Approach to Modern Cybersecurity | Maxatlasofficial | [Read More](https://medium.com/p/8a1754e6f8f0) |
+| Fri, 09 Jan 2026 04:31:52 GMT | Microsoft Defender Is Not “Just Antivirus” — And That Misunderstanding Is Costing Organizations | Suraj Kumar | [Read More](https://medium.com/p/c1ceaa5ea593) |
+| Fri, 09 Jan 2026 04:24:18 GMT | The Truth Engine: Inside the SVARAEL-SRAL Consensus Protocol | SVARAEL(SRAL) | [Read More](https://medium.com/p/e0a76ef7b761) |
+| Fri, 09 Jan 2026 04:21:20 GMT | Understanding File Upload Bypass Using Filename Truncation (#) | Cyber MeowX | [Read More](https://medium.com/p/9fb33af1333c) |
+| Fri, 09 Jan 2026 04:15:45 GMT | Cybersecurity in the Modern World: From Awareness to Action | Soumendu Manna | [Read More](https://medium.com/p/9847d48e1ff0) |
+| Fri, 09 Jan 2026 03:42:15 GMT | Apple issues warning to all 1.8bn iPhone users over ‘extremely sophisticated attack | Abstract Mind | [Read More](https://medium.com/p/a0b374cff7f2) |
+| Fri, 09 Jan 2026 03:35:21 GMT | What this document means to me is that I know what has happened to me and I’m grateful it happened… | The Comforter aka Captain Spock | [Read More](https://medium.com/p/2aa7bf46a908) |
 | Fri, 09 Jan 2026 03:32:44 GMT | How TrafficBotPro Simulates Real User Behavior for SEO | Cyplia Fr | [Read More](https://medium.com/p/044f4e28624c) |
 | Fri, 09 Jan 2026 02:56:09 GMT | Why Access to Information Still Feels Like Magic | Praise Okaegbu-Wali | [Read More](https://medium.com/p/9c1bb5d1882d) |
 | Fri, 09 Jan 2026 02:54:57 GMT | WannaCry | Leisha  B. | [Read More](https://medium.com/p/f97dbc8ac460) |
@@ -109,10 +116,3 @@ Why Cybersecurity Fails Before Code Runs | Mounir Akarkach | [Read More](https:/
 | Thu, 08 Jan 2026 17:38:51 GMT | Designing a FedRAMP High Security Data Lake on AWS GovCloud | Ophir Zahavi | [Read More](https://medium.com/p/b59d1c80ddbe) |
 | Thu, 08 Jan 2026 17:37:13 GMT | Strong Home Computers That Keep Remote Work Running Smoothly | Geoffrey Wenger | [Read More](https://medium.com/p/eb242d5b0458) |
 | Thu, 08 Jan 2026 17:34:23 GMT | TryHackMe - Searchlight — IMINT - WriteUp | Axoloth | [Read More](https://medium.com/p/26aa12d6acdf) |
-| Thu, 08 Jan 2026 17:33:41 GMT | S&S — The entrepreneurs.. the story begins. | Rajesh Bhaskaran | [Read More](https://medium.com/p/92619ebeb5a4) |
-| Thu, 08 Jan 2026 17:26:46 GMT | How Project Managers Work With Cybersecurity Professionals | Ifeanyi Ejikeme | [Read More](https://medium.com/p/eec296c7bac6) |
-| Thu, 08 Jan 2026 17:21:23 GMT | Why ORMs Hide Performance Bugs in Spring Boot (And How They Sneak into Production) | Lakshika | [Read More](https://medium.com/p/4875c6218e4f) |
-| Thu, 08 Jan 2026 17:17:19 GMT | When AI Becomes Infrastructure — The Collapse of Traditional Cybersecurity Boundaries | Muhammad Ali Khan | [Read More](https://medium.com/p/fc0bd3406063) |
-| Thu, 08 Jan 2026 17:02:07 GMT | Sanity Test、Smoke Test、Regression Test 的比喻 | 思維舞步 MindSteps | [Read More](https://medium.com/p/1cb07f79d8ac) |
-| Thu, 08 Jan 2026 16:54:36 GMT | Hoops on the Horizon | Hatteras Hoops | [Read More](https://medium.com/p/38dc6052a546) |
-| Thu, 08 Jan 2026 16:52:34 GMT | n8n Vulnerabilities: When Automation Workflows Become Exploitable | Aastha Thakker | [Read More](https://medium.com/p/f7c95b4e4ec8) |
