@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 22:36:46 GMT | The Safest Record Is the One You Never Collected | Tyson Martin | [Read More](https://medium.com/p/488f0abbae3b) |
+| Fri, 09 Jan 2026 22:36:33 GMT | Shadow AI Is Still Everywhere — And It’s Putting Enterprises at Risk | Cyber-AppSec | [Read More](https://medium.com/p/88bf8a0fa2a6) |
+| Fri, 09 Jan 2026 22:33:41 GMT | Rangeforce : REvil Ransomeware Detection & Response | Pwnedproof | [Read More](https://medium.com/p/35992addd4d9) |
+| Fri, 09 Jan 2026 22:29:39 GMT | Lacroix v. | Clacroix | [Read More](https://medium.com/p/eb37fa71908f) |
 | Fri, 09 Jan 2026 22:17:26 GMT | Essential Windows Command-Line Defenses Against Hackers | MDLICXV | [Read More](https://medium.com/p/a728f64135e4) |
 | Fri, 09 Jan 2026 22:10:00 GMT | Building your own AI SOC? Here’s how to succeed | monzy merza | [Read More](https://medium.com/p/52fdbe19f453) |
 | Fri, 09 Jan 2026 22:06:31 GMT | DFIR Report: MeteorHit — Indra Lab | Khoa | [Read More](https://medium.com/p/f491129543d2) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 15:25:47 GMT | Cracking the Split-APK Code | bineeg | [Read More](https://medium.com/p/100af6bfebe1) |
 | Fri, 09 Jan 2026 15:25:32 GMT | n8n 2.0 Will Break Your Workflows | Najeeb W | [Read More](https://medium.com/p/eaef1e3cc578) |
 | Fri, 09 Jan 2026 15:22:07 GMT | Nmap: Setup, Core Scans, and Practical Use Cases | Little_Sun4lower | [Read More](https://medium.com/p/6578b58b2073) |
-| Fri, 09 Jan 2026 15:17:38 GMT | Cybersecurity News Review — Week 2 (2026) | Mladen Kirilov | [Read More](https://medium.com/p/4c977ab6cef5) |
-| Fri, 09 Jan 2026 15:11:48 GMT | Zomato Ceo Deepinder Goyal and other Billionaires PAN NUMBER Sensitive PII Leak by Cyber Kalki | ElonMuskTheAntichrist | [Read More](https://medium.com/p/86bf8a327c1e) |
-| Fri, 09 Jan 2026 15:10:05 GMT | 別等到 2027！歐盟 CRA 第 14 條漏洞通報 2026 年先開跑 | 老喬筆記 | [Read More](https://medium.com/p/2c7f2ab5e3d4) |
-| Fri, 09 Jan 2026 15:09:35 GMT | Exploring Android Application Vulnerabilities Through Hands-On Testing with AndroGoat | Hammam Awis Zukimi | [Read More](https://medium.com/p/8845e4719a36) |
