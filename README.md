@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 05:42:08 GMT | Safety First: How We Protect Every “Buddy” on the Road | BuddyRide Official | [Read More](https://medium.com/p/80d004993776) |
+| Fri, 09 Jan 2026 05:36:53 GMT | CISSP Domain 4 Mastery Series - Part 4: VPN Technologies & Authentication Protocols | Pushpak Sharma | [Read More](https://medium.com/p/955cfcdc683a) |
+| Fri, 09 Jan 2026 05:33:01 GMT | This Simple Password Trick Cost DoorDash Millions in Data | MyNextDeveloper | [Read More](https://medium.com/p/7835f2655624) |
+| Fri, 09 Jan 2026 05:29:59 GMT | When AI Becomes a Weapon: The Disturbing Reality of Grok’s Deepfake Crisis | Proditive - Smart Apps . Maximum Productivity | [Read More](https://medium.com/p/4863c15783d7) |
+| Fri, 09 Jan 2026 05:26:21 GMT | I asked | Martin Jakarta | [Read More](https://medium.com/p/24a169bb9ac3) |
 | Fri, 09 Jan 2026 05:19:02 GMT | Backend Security Basics (Part 2): Data Protection, Configuration, and Secure Operations | Silversky Technology | [Read More](https://medium.com/p/6f87e8b7e76e) |
 | Fri, 09 Jan 2026 05:17:50 GMT | n8n CVE-2026–21858 (“Ni8mare”) | SOCFortress | [Read More](https://medium.com/p/a656405fccce) |
 | Fri, 09 Jan 2026 05:17:11 GMT | Protecting Energy Supply Chains With Cyber Risk Accreditation | Kadhijahafiya | [Read More](https://medium.com/p/6f81d833e4b4) |
@@ -108,11 +113,3 @@ Why Cybersecurity Fails Before Code Runs | Mounir Akarkach | [Read More](https:/
 | Thu, 08 Jan 2026 18:31:12 GMT | Best Unarmed Security Guard Dallas | US guard security company | [Read More](https://medium.com/p/9b7d2806a359) |
 | Thu, 08 Jan 2026 18:28:27 GMT | Canada Prepares | Debborah Donnelly | [Read More](https://medium.com/p/c2c4f4720b67) |
 | Thu, 08 Jan 2026 18:13:42 GMT | Technology 2026: The Year Words Became Intelligent | Shetty21me | [Read More](https://medium.com/p/15fa3aab1451) |
-| Thu, 08 Jan 2026 18:12:42 GMT | CopyPasta IDOR — BugForge Daily Challenge | 0ber1n | [Read More](https://medium.com/p/f81fbf944245) |
-| Thu, 08 Jan 2026 18:02:59 GMT | THM - Boogeyman 1 | Francesco Pastore | [Read More](https://medium.com/p/1f294f2b3b27) |
-| Thu, 08 Jan 2026 18:02:39 GMT | # TryHackMe: RootMe Write-up 
-**Machine Name:** RootMe 
-**Difficulty:** Easy 
-**Platform:**… | Rishith soni | [Read More](https://medium.com/p/1f635c4a81ad) |
-| Thu, 08 Jan 2026 18:02:06 GMT | One Forgotten Subdomain, Thousands of User Records — A Recon Story | Iski | [Read More](https://medium.com/p/6dcde55aaa7c) |
-| Thu, 08 Jan 2026 17:59:25 GMT | Archa CTF [2026] — Ghost Stallion | 3Bytes | [Read More](https://medium.com/p/1ba6e3438033) |
