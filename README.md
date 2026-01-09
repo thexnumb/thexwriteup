@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 17:40:50 GMT | 10 Essential Cybersecurity Questions Everyone Should Know (PART -2 ) | Abdul Ahad | [Read More](https://medium.com/p/e11ed95090b8) |
+| Fri, 09 Jan 2026 17:40:42 GMT | Byaku: Automation of recon for bug hunting and vibe coding | Alberto Villasante | [Read More](https://medium.com/p/71fe424ef4d3) |
+| Fri, 09 Jan 2026 17:27:07 GMT | DOM XSS Using jQuery Selector & hashchange — When # Becomes Dangerous(PortSwigger lab 6) | Sanjivani Dobhal | [Read More](https://medium.com/p/fcd66262ccb1) |
+| Fri, 09 Jan 2026 17:22:03 GMT | The Architect’s Reality: What Zero Trust Actually Looks Like Inside UAE SMEs | teclogia | [Read More](https://medium.com/p/679dcbe91954) |
+| Fri, 09 Jan 2026 17:13:19 GMT | Hacker Gözünden Modern Web | Eren GEZEN | [Read More](https://medium.com/p/213c01c1ad1c) |
 | Fri, 09 Jan 2026 17:11:08 GMT | Synchrony Infosec University Hackathon, Round 1 CTF Write‑Up | Bish | [Read More](https://medium.com/p/3061f721f252) |
 | Fri, 09 Jan 2026 17:07:26 GMT | End-to-End Spring Security: What Really Happens When Your API Is Hit (Spring Boot Series-10) | Asutosh Nayak | [Read More](https://medium.com/p/ce70c96d1e45) |
 | Fri, 09 Jan 2026 17:06:48 GMT | ZombieAgent: The ChatGPT bug that refuses to die | Sudarshan | [Read More](https://medium.com/p/d2d96c1f6cf8) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 12:00:28 GMT | In Healthcare, “Secure Enough” Isn’t Enough: Why Your Practice Is at Risk | Emilia Carol | [Read More](https://medium.com/p/1c435c2cad79) |
 | Fri, 09 Jan 2026 12:00:27 GMT | Access Control | Cybernight | [Read More](https://medium.com/p/a30be9649fc1) |
 | Fri, 09 Jan 2026 11:53:54 GMT | The Evolution of Antivirus: A Key Pillar of Modern Cybersecurity | Medessa | [Read More](https://medium.com/p/0a6fbea97e1d) |
-| Fri, 09 Jan 2026 11:51:53 GMT | What Happens When Your Most Valuable Assets Belong to Someone Else | 0NE - C L A V I | [Read More](https://medium.com/p/0cd3f1f49ad8) |
-| Fri, 09 Jan 2026 11:51:03 GMT | The Remote Security Audit: A 5-Step Hardening Guide for Distributed Teams | OBED ONYEDIKA INYA | [Read More](https://medium.com/p/e1d98ad04879) |
-| Fri, 09 Jan 2026 11:50:01 GMT | Outsourcing Done Right: Benefits, Risks, and How to Avoid Costly Mistakes | Ivan Matolinets | [Read More](https://medium.com/p/709f647f07e4) |
-| Fri, 09 Jan 2026 11:47:33 GMT | Simple MFA Bypass in Login and Registration — $500 Reward | <h1>ayman</h1> Amer‬‏ | [Read More](https://medium.com/p/1b86edfc1104) |
-| Fri, 09 Jan 2026 11:44:45 GMT | Bankacılıkta DWDM: Gerçek Zamanlı Paranın Sessiz Omurgası | Kutay Şenol | [Read More](https://medium.com/p/cbaa5bc47a1f) |
