@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 20:13:49 GMT | music mosaic | Srinidhi Ravi | [Read More](https://medium.com/p/d3ffcf95b329) |
+| Fri, 09 Jan 2026 20:12:48 GMT | How Cybercrime is Changing With COVID-19 | Digital Uppercut | [Read More](https://medium.com/p/73bdbf13a325) |
+| Fri, 09 Jan 2026 20:12:15 GMT | THE ULTIMATE OSI MODEL MASTERY GUIDE | hareem khan | [Read More](https://medium.com/p/6e82709981d7) |
+| Fri, 09 Jan 2026 20:11:42 GMT | Remote Worker Security Becomes Critical | Digital Uppercut | [Read More](https://medium.com/p/7032b12a2267) |
+| Fri, 09 Jan 2026 20:11:16 GMT | React2Shell: When Frameworks Become Attack Vectors | xoelrdgz | [Read More](https://medium.com/p/46225fd50d49) |
+| Fri, 09 Jan 2026 20:04:12 GMT | Notes from Building a Mini Server (Confusion to Responsibility) | Rajvaibhav | [Read More](https://medium.com/p/eba56dd6f344) |
+| Fri, 09 Jan 2026 19:55:04 GMT | Why Tech Engineers Should Write About Their Learning & Experience Journey — January 2026 (Blogs) | Kamalpreet KAUR MARTINEZ | [Read More](https://medium.com/p/1a37ec6e1c43) |
+| Fri, 09 Jan 2026 19:50:43 GMT | Shady Oaks Financial (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/d5b07ca09eb9) |
+| Fri, 09 Jan 2026 19:46:11 GMT | Day 154 — Why Ransomware Is Usually Detected Too Late? | Jinay | [Read More](https://medium.com/p/2111bfbbd312) |
+| Fri, 09 Jan 2026 19:40:01 GMT | HexTree Intent Attack Surface — Android Pentesting Walkthrough | d4vnull | [Read More](https://medium.com/p/47d975606711) |
+| Fri, 09 Jan 2026 19:38:45 GMT | DockerLabs Writeup — Wargames (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/2aeb0f78404b) |
+| Fri, 09 Jan 2026 19:38:18 GMT | The Power of Cybersecurity: Beyond What You’ve Heard | Zhenwarx | [Read More](https://medium.com/p/23dd15f63a79) |
+| Fri, 09 Jan 2026 19:34:23 GMT | My First Critical Bounty: How I Went From robots.txt to Full Admin Access. | Johnson (Root) | [Read More](https://medium.com/p/322ae07f1247) |
+| Fri, 09 Jan 2026 19:30:06 GMT | Write-ups - ArchaCTF_2026 | !US3R | [Read More](https://medium.com/p/dbe087a12d11) |
 | Fri, 09 Jan 2026 19:25:27 GMT | ️DC: 4 — Complete Walkthrough (Beginner-Friendly) - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/d33275fe08b8) |
 | Fri, 09 Jan 2026 19:19:08 GMT | Securing SSH Access to AWS EC2: From Perimeter Controls to Detection | Surya Naga Sesank Munukutla | [Read More](https://medium.com/p/b313e152aa8f) |
 | Fri, 09 Jan 2026 19:08:42 GMT | When a Break-down Leads to a Break-Out | Laura DeMaisBerg | [Read More](https://medium.com/p/4fbb5cd1bbfc) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 14:01:56 GMT | Inside RiskShield: A Low-Latency Velocity Rules Layer for Real-Time Payment Fraud Detection (Part… | Prashant Maroti | [Read More](https://medium.com/p/afc9107458f6) |
 | Fri, 09 Jan 2026 13:53:07 GMT | OverTheWire Bandit (Day 10): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/08598d500631) |
 | Fri, 09 Jan 2026 13:49:07 GMT | Cyber Incident ≠ Cyberwar: Why Most Organizations Still Get It Wrong | Abdullah Zulkifli | [Read More](https://medium.com/p/8801b7b015db) |
-| Fri, 09 Jan 2026 13:46:44 GMT | Elderly Scam Warning: Square Dance Partner Gifted Me $3,000 Gold Bracelet — Police Involved | kitty | [Read More](https://medium.com/p/bf1400e144fe) |
-| Fri, 09 Jan 2026 13:45:42 GMT | Social Engineering: The Most Dangerous Attack Vector Isn’t Technical — It’s Human | Nexamos | [Read More](https://medium.com/p/ca03c4968415) |
-| Fri, 09 Jan 2026 13:45:07 GMT | JWT and PASETO: Choosing the Right Token for Secure Authentication | IBRAHEEM | [Read More](https://medium.com/p/b4430166e85d) |
-| Fri, 09 Jan 2026 13:38:31 GMT | SonarQube-9000. | Rela Lumbini | [Read More](https://medium.com/p/d87cf3744189) |
-| Fri, 09 Jan 2026 13:36:51 GMT | The 2026 Cybersecurity Career Architecture: A Strategic Roadmap for Emerging Professionals | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/e3f0bfffa1be) |
-| Fri, 09 Jan 2026 13:36:41 GMT | CVE‑2025‑52691: A CVSS 10.0 SmarterMail RCE That Demands Immediate Attention | gm0 | [Read More](https://medium.com/p/360cb2d9d9b5) |
-| Fri, 09 Jan 2026 13:32:50 GMT | Self-Hosting n8n for Privacy Without Losing Sleep | Modexa | [Read More](https://medium.com/p/3041ca809e13) |
-| Fri, 09 Jan 2026 13:28:46 GMT | How to query DynamoDB Data using SQLite | Sameer | [Read More](https://medium.com/p/8357fbe39e63) |
-| Fri, 09 Jan 2026 13:23:03 GMT | New GoBruteforcer Attack Wave Targets Crypto and Blockchain Projects | Technijian | [Read More](https://medium.com/p/67ca69ab2264) |
-| Fri, 09 Jan 2026 13:19:18 GMT | Active Exploits Across Legacy and Modern Stacks | Loginsoft | [Read More](https://medium.com/p/ac18596b64fc) |
-| Fri, 09 Jan 2026 13:16:54 GMT | From Shared Secrets To Secure Proof: Why Passkeys Win | Plaintext with Rich | [Read More](https://medium.com/p/cc5e6f6c0b0a) |
-| Fri, 09 Jan 2026 13:14:28 GMT | US Tech Force is Hiring 1,000 AI Experts at $195K | TrendScribe | [Read More](https://medium.com/p/3844cb87a91a) |
-| Fri, 09 Jan 2026 13:13:36 GMT | Advent of Cyber — Day 10: SOC Alert Triaging — Tinsel Triage | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/e7ebf8790314) |
-| Fri, 09 Jan 2026 13:11:53 GMT | Advent of Cyber — Day 9: Passwords — A Cracking Christmas | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/ca0293436d70) |
