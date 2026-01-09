@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 08:29:51 GMT | The Quiet Problem Most Content Never Solves — What Really Happens After People Land on Your Page | Danny Robin | [Read More](https://medium.com/p/002cf12c38ac) |
+| Fri, 09 Jan 2026 08:28:55 GMT | Kibo Modz FF APK | GOCMOD | [Read More](https://medium.com/p/76237e83fc2c) |
+| Fri, 09 Jan 2026 08:20:14 GMT | Comparative Analysis of Encryption Protocols | Esra Kayhan | [Read More](https://medium.com/p/fe7fa251116e) |
+| Fri, 09 Jan 2026 08:13:14 GMT | ‍Information Security in the AI Era: Cyber Threats and Defences | Fiza saleem | [Read More](https://medium.com/p/ca2ed4bdcb02) |
+| Fri, 09 Jan 2026 08:12:46 GMT | Paradise Lost: Microsoft’s Power Moves with Power Apps | Namir Sagheenanajar | [Read More](https://medium.com/p/0813c02bfc6f) |
+| Fri, 09 Jan 2026 08:06:45 GMT | Top Machine Learning Interview Questions for Freshers in 2026 | cyber security Updates | [Read More](https://medium.com/p/141c212efbae) |
+| Fri, 09 Jan 2026 08:00:25 GMT | How to Hide a Page in WordPress: 4 Methods You Can Use Today | Hamza Hanif | [Read More](https://medium.com/p/3451cf00236b) |
+| Fri, 09 Jan 2026 08:00:19 GMT | … | Akansha | [Read More](https://medium.com/p/401deaa7d495) |
+| Fri, 09 Jan 2026 07:55:21 GMT | Mendeteksi n8n yang Terbuka Secara Aman CVE-2026–21858 + CVE-2025–68613 | Ginda Sundara | [Read More](https://medium.com/p/1eec78e61b81) |
+| Fri, 09 Jan 2026 07:55:05 GMT | Why SOC-as-a-Service is the New Standard for Cybersecurity in the UAE | Clouds Dubai | [Read More](https://medium.com/p/9d3fe45acc84) |
+| Fri, 09 Jan 2026 07:49:26 GMT | WhatsApp Downloads Trigger New Need for Antivirus for Windows | Siyanoav | [Read More](https://medium.com/p/9fb78a4b2d67) |
+| Fri, 09 Jan 2026 07:48:58 GMT | What Cybersecurity Hygiene Really Means | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/f92e5988bcfd) |
+| Fri, 09 Jan 2026 07:48:41 GMT | Android Emulator Setup for PenTest Using Mumu | Rafel | [Read More](https://medium.com/p/b13e0f12128b) |
+| Fri, 09 Jan 2026 07:42:15 GMT | Building a Secure Linux Server Baseline for Enterprise | Majidbasharat | [Read More](https://medium.com/p/8da76b121514) |
+| Fri, 09 Jan 2026 07:38:53 GMT | Windows Forensics Projects for Beginners: A Practical Entry into DFIR! | Nothing Cyber [NC] | [Read More](https://medium.com/p/2f7f55983756) |
 | Fri, 09 Jan 2026 07:37:50 GMT | JWT Attack CTF Challenge (Bugforge) | blackm4c | [Read More](https://medium.com/p/82fc762fe229) |
 | Fri, 09 Jan 2026 07:37:06 GMT | ประจำวันศุกร์ที่ 9 มกราคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/8736f2b8a22c) |
 | Fri, 09 Jan 2026 07:36:25 GMT | The WhatsApp Worm That Turns Your Contacts Into an Attack Chain: Inside Brazil’s Astaroth Banking… | Germano Costi | [Read More](https://medium.com/p/51df83c07487) |
@@ -99,18 +114,3 @@ Why Cybersecurity Fails Before Code Runs | Mounir Akarkach | [Read More](https:/
 | Fri, 09 Jan 2026 00:02:47 GMT | Guía de Commix: Automatización de OS Command Injection en Bug Bounty | JPablo13 | [Read More](https://medium.com/p/809e73a7db4f) |
 | Thu, 08 Jan 2026 23:49:51 GMT | Security Jobs in Edmonton — Join World Guardian Security Services | Hirasarfraz | [Read More](https://medium.com/p/0fc2f391b176) |
 | Thu, 08 Jan 2026 23:49:13 GMT | How to Prevent Brute-Force Attacks in MySQL Using Connection Control | Matheus dos Santos | [Read More](https://medium.com/p/2baa8f839a7f) |
-| Thu, 08 Jan 2026 23:29:48 GMT | Stop Rebuilding Auth From Scratch | Kone | [Read More](https://medium.com/p/12e451df45f0) |
-| Thu, 08 Jan 2026 23:22:21 GMT | # The $5 Wrench Problem: Why Your Encryption Doesn’t Protect You | Teycir | [Read More](https://medium.com/p/07fa36aebc1b) |
-| Thu, 08 Jan 2026 23:17:49 GMT | How to Install Findomain on Termux | BUG HUNTER NEWBIE INDONESIA | [Read More](https://medium.com/p/419a0da47b20) |
-| Thu, 08 Jan 2026 23:09:17 GMT | What Is a Vulnerability? A Practical Breakdown for a Digital World | Chris Hogan | [Read More](https://medium.com/p/bb7759fa47d2) |
-| Thu, 08 Jan 2026 23:03:48 GMT | When a USB Keyboard Becomes a Root Shell: A Walkthrough of the Exploit | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/76a99fe3ed93) |
-| Thu, 08 Jan 2026 23:02:25 GMT | The Future of Cybersecurity Includes Non-Human Employees | Cyber-AppSec | [Read More](https://medium.com/p/b53784489daa) |
-| Thu, 08 Jan 2026 22:51:46 GMT | New to Fiverr? Don’t fall for the “Click to Receive Order” Scam in your inbox. | Kavini Kushani | [Read More](https://medium.com/p/d3cc7882da56) |
-| Thu, 08 Jan 2026 22:42:44 GMT | How to Install Subfinder on Termux | BUG HUNTER NEWBIE INDONESIA | [Read More](https://medium.com/p/43ca31b6ba3d) |
-| Thu, 08 Jan 2026 22:24:48 GMT | The Bucket Is Overflowing | Elysa Lily | [Read More](https://medium.com/p/a6993ce9e24a) |
-| Thu, 08 Jan 2026 22:18:32 GMT | You Asked, We Answered: Everything About Cyber Resilience Navigator | Fook Hwa Tan | [Read More](https://medium.com/p/2ffbb959aca6) |
-| Thu, 08 Jan 2026 22:17:07 GMT | It’s Here: Cyber Resilience Navigator Is Now Live | Fook Hwa Tan | [Read More](https://medium.com/p/4af28fa9bc24) |
-| Thu, 08 Jan 2026 22:09:19 GMT | End-to-End RMF Lifecycle. The ISSO Role at Each Phase | Babux | [Read More](https://medium.com/p/f751646a63c3) |
-| Thu, 08 Jan 2026 22:07:18 GMT | Evasive Remote Memory Write | S12 - 0x12Dark Development | [Read More](https://medium.com/p/22e6ddc89517) |
-| Thu, 08 Jan 2026 21:57:49 GMT | CORS Explained Without Pain | Stoic Engineer | [Read More](https://medium.com/p/59aceb743ba7) |
-| Thu, 08 Jan 2026 21:57:36 GMT | I Built a Digital Forensics Toolkit in Python So You Don’t Have To Guess | Samuel Selasi | [Read More](https://medium.com/p/2e2379539fc2) |
