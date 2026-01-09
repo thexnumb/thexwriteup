@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 12:41:40 GMT | Penetration Testing for Business Cybersecurity in Dubai | Saaiye IT | [Read More](https://medium.com/p/4ee27fc173f2) |
+| Fri, 09 Jan 2026 12:39:15 GMT | Weekly Update | Techwin Cyber | [Read More](https://medium.com/p/68f6873beb8c) |
+| Fri, 09 Jan 2026 12:36:30 GMT | Security and Compliance in Customer Service Platforms: What Today’s Businesses Can’t Ignore | David | [Read More](https://medium.com/p/f4051938a6ec) |
+| Fri, 09 Jan 2026 12:26:21 GMT | Measuring Alert Effectiveness to Secure EVM Contracts | Mkapoor | [Read More](https://medium.com/p/be2050dfeca3) |
+| Fri, 09 Jan 2026 12:24:33 GMT | Live on Stage, a Hacktivist Erased Three White Supremacist Platforms | A.L. Bellettiere (Anna Louise Bellettiere-Kuyper) | [Read More](https://medium.com/p/e64e51cf99d2) |
+| Fri, 09 Jan 2026 12:22:50 GMT | AI Attacks vs. AI Defenses: The SOC Analyst’s Role Is Transforming | Thomas Patterson | [Read More](https://medium.com/p/71ee4a44ad21) |
+| Fri, 09 Jan 2026 12:21:01 GMT | Professional Security Services in Canada by World Guardian | world guardian | [Read More](https://medium.com/p/82f7629f2721) |
+| Fri, 09 Jan 2026 12:17:57 GMT | Why the Safest Systems Are the Most Observed | Systems Philosophy | [Read More](https://medium.com/p/1c84a0ff9a2b) |
+| Fri, 09 Jan 2026 12:13:09 GMT | Stop Scams Before They Stop Business | Jim Katzaman - Get Out of Debt | [Read More](https://medium.com/p/cde1bd508bb6) |
+| Fri, 09 Jan 2026 12:03:29 GMT | Cyber Security Services for Modern Enterprises | Reflect security solutions | [Read More](https://medium.com/p/2b022315680f) |
+| Fri, 09 Jan 2026 12:00:28 GMT | In Healthcare, “Secure Enough” Isn’t Enough: Why Your Practice Is at Risk | Emilia Carol | [Read More](https://medium.com/p/1c435c2cad79) |
+| Fri, 09 Jan 2026 12:00:27 GMT | Access Control | Cybernight | [Read More](https://medium.com/p/a30be9649fc1) |
+| Fri, 09 Jan 2026 11:53:54 GMT | The Evolution of Antivirus: A Key Pillar of Modern Cybersecurity | Medessa | [Read More](https://medium.com/p/0a6fbea97e1d) |
+| Fri, 09 Jan 2026 11:51:53 GMT | What Happens When Your Most Valuable Assets Belong to Someone Else | 0NE - C L A V I | [Read More](https://medium.com/p/0cd3f1f49ad8) |
+| Fri, 09 Jan 2026 11:51:03 GMT | The Remote Security Audit: A 5-Step Hardening Guide for Distributed Teams | OBED ONYEDIKA INYA | [Read More](https://medium.com/p/e1d98ad04879) |
+| Fri, 09 Jan 2026 11:50:01 GMT | Outsourcing Done Right: Benefits, Risks, and How to Avoid Costly Mistakes | Ivan Matolinets | [Read More](https://medium.com/p/709f647f07e4) |
+| Fri, 09 Jan 2026 11:47:33 GMT | Simple MFA Bypass in Login and Registration — $500 Reward | <h1>ayman</h1> Amer‬‏ | [Read More](https://medium.com/p/1b86edfc1104) |
+| Fri, 09 Jan 2026 11:44:45 GMT | Bankacılıkta DWDM: Gerçek Zamanlı Paranın Sessiz Omurgası | Kutay Şenol | [Read More](https://medium.com/p/cbaa5bc47a1f) |
+| Fri, 09 Jan 2026 11:43:35 GMT | Carding (credit card theft) in 2026 — where criminal activity vectors are shifting | 0trust0day | [Read More](https://medium.com/p/c6a5415f9521) |
 | Fri, 09 Jan 2026 11:30:37 GMT | How Penetration Testing Services Help You Stay One Step Ahead of Cybercriminals | SmartCLOUD Australia | [Read More](https://medium.com/p/ecdf9f110e16) |
 | Fri, 09 Jan 2026 11:28:52 GMT | Fundamentals of Cybersecurity: What Actually Keeps Systems Safe | raksha001 | [Read More](https://medium.com/p/241ed5275d54) |
 | Fri, 09 Jan 2026 11:22:38 GMT | Pickle Rick — TryHackMe Walkthrough | Rishith soni | [Read More](https://medium.com/p/b0bd3b4961d4) |
@@ -94,22 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 07:26:50 GMT | Starting Bug Bounty With Zero Knowledge? Here’s the Exact Roadmap to Your First Valid Report | Vivek PS | [Read More](https://medium.com/p/774e4d923289) |
 | Fri, 09 Jan 2026 07:26:00 GMT | إجراءات هامة لزواج وطلاق الأجانب والمغتربين والمقيمين داخل الأردن
 في عالم سريع التغير، حيث اختصر… | Best Family Law Firm in Amman Jordan - Ahmed | [Read More](https://medium.com/p/fae087600a89) |
-| Fri, 09 Jan 2026 07:13:56 GMT | Agency vs In-House: Hiring the Best Flutter Developers | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/ae48d74705d9) |
-| Fri, 09 Jan 2026 07:03:39 GMT | Dude Theft Wars Theartpics Mod Apk | Bandisharecx | [Read More](https://medium.com/p/2af5d5b45bed) |
-| Fri, 09 Jan 2026 07:00:52 GMT | Expert’s explanation: Hello World in Java | Om Sao | [Read More](https://medium.com/p/61c83d344317) |
-| Fri, 09 Jan 2026 07:00:04 GMT | Are Private Conversations Now An Ad Space? | Bill Urrutia | [Read More](https://medium.com/p/dc2923755a56) |
-| Fri, 09 Jan 2026 06:58:12 GMT | Why Warren Pulley’s Books Are Essential Reading for Security Professionals: An E-E-A-T Analysis | CrisisWire Threat Assessment Management | [Read More](https://medium.com/p/5d9ba0a7a9ee) |
-| Fri, 09 Jan 2026 06:50:19 GMT | A Practical Guide to Passing ISACA AI Fundamentals (No AI Background Required) | SS | [Read More](https://medium.com/p/476526692096) |
-| Fri, 09 Jan 2026 06:47:15 GMT | Total Security Solutions India: The Future of Electronic Security Solutions | Ciss India | [Read More](https://medium.com/p/52862b935e39) |
-| Fri, 09 Jan 2026 06:46:43 GMT | Cyber Security Certification Why It Matters for Modern Organizations | Siri | [Read More](https://medium.com/p/0e3913347cfb) |
-| Fri, 09 Jan 2026 06:44:47 GMT | Day 84- Introduction to Microsoft Defender XDR for beginners | unica 02 | [Read More](https://medium.com/p/627567ac6453) |
-| Fri, 09 Jan 2026 06:41:27 GMT | Weekly Threat Intelligence Report 5 Jan 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/1b4d18198eca) |
-| Fri, 09 Jan 2026 06:36:49 GMT | BitForge (PG Practice) — From Git Exposure to Root Compromise | Balaji_21 | [Read More](https://medium.com/p/ce320cbf182b) |
-| Fri, 09 Jan 2026 06:33:33 GMT | Practical Examples of Risk Mitigation in High-Stakes Environments | Rahman Iqbal | [Read More](https://medium.com/p/cbe013b063b9) |
-| Fri, 09 Jan 2026 06:33:06 GMT | SQL Injection: The Digital Magic Trick That Everyone Should Understand | Cybersecure | [Read More](https://medium.com/p/42d88fdd9c2c) |
-| Fri, 09 Jan 2026 06:32:55 GMT | Broken Access Control: The Most Exploited OWASP Web App Risk | bektiaw | [Read More](https://medium.com/p/a22e532f2c99) |
-| Fri, 09 Jan 2026 06:31:28 GMT | Real Case Studies on How Technology impacts enterprises for the good | Team Insnapsys | [Read More](https://medium.com/p/4eb1d0e67557) |
-| Fri, 09 Jan 2026 06:29:32 GMT | The Shadow AI Threat: Is Your Company’s Data Leaking into Public Models? | Florid Maclean | [Read More](https://medium.com/p/9c31bf36cba9) |
-| Fri, 09 Jan 2026 06:24:57 GMT | ETHICAL HACKING IN BANKING , E-COMMERCE , HEALTH CARE INDUSTRIES | Kaiproctor | [Read More](https://medium.com/p/1bcffe995b92) |
-| Fri, 09 Jan 2026 06:24:23 GMT | The Linux Security Journey — Firejail | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/8015af2471e9) |
-| Fri, 09 Jan 2026 06:24:00 GMT | How I dump the company database using SQL injection | Jagadeeshan | [Read More](https://medium.com/p/f10bd3c45ade) |
