@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 07:37:50 GMT | JWT Attack CTF Challenge (Bugforge) | blackm4c | [Read More](https://medium.com/p/82fc762fe229) |
+| Fri, 09 Jan 2026 07:37:06 GMT | ประจำวันศุกร์ที่ 9 มกราคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/8736f2b8a22c) |
+| Fri, 09 Jan 2026 07:36:25 GMT | The WhatsApp Worm That Turns Your Contacts Into an Attack Chain: Inside Brazil’s Astaroth Banking… | Germano Costi | [Read More](https://medium.com/p/51df83c07487) |
+| Fri, 09 Jan 2026 07:36:21 GMT | To the Stranger – Whom I Wish I Could’ve Known Better. | sh*twriting | [Read More](https://medium.com/p/7a7348d2523a) |
+| Fri, 09 Jan 2026 07:35:57 GMT | TryHackMe — Internal Lab Walkthrough | Ankit | [Read More](https://medium.com/p/1756d576a972) |
+| Fri, 09 Jan 2026 07:35:40 GMT | Reliable IT Support Services in Campbelltown | Any network | [Read More](https://medium.com/p/659a327db303) |
+| Fri, 09 Jan 2026 07:34:00 GMT | The Corix Partners Friday Reading List — January 9, 2026 | JC Gaillard | [Read More](https://medium.com/p/94ed6374e522) |
+| Fri, 09 Jan 2026 07:32:46 GMT | Information not Money | Ogunranti Adebayo Moses | [Read More](https://medium.com/p/8db46b7dba3f) |
+| Fri, 09 Jan 2026 07:26:50 GMT | Starting Bug Bounty With Zero Knowledge? Here’s the Exact Roadmap to Your First Valid Report | Vivek PS | [Read More](https://medium.com/p/774e4d923289) |
+| Fri, 09 Jan 2026 07:26:00 GMT | إجراءات هامة لزواج وطلاق الأجانب والمغتربين والمقيمين داخل الأردن
+في عالم سريع التغير، حيث اختصر… | Best Family Law Firm in Amman Jordan - Ahmed | [Read More](https://medium.com/p/fae087600a89) |
+| Fri, 09 Jan 2026 07:13:56 GMT | Agency vs In-House: Hiring the Best Flutter Developers | iFlair Web Technologies Pvt Ltd | [Read More](https://medium.com/p/ae48d74705d9) |
 | Fri, 09 Jan 2026 07:03:39 GMT | Dude Theft Wars Theartpics Mod Apk | Bandisharecx | [Read More](https://medium.com/p/2af5d5b45bed) |
 | Fri, 09 Jan 2026 07:00:52 GMT | Expert’s explanation: Hello World in Java | Om Sao | [Read More](https://medium.com/p/61c83d344317) |
 | Fri, 09 Jan 2026 07:00:04 GMT | Are Private Conversations Now An Ad Space? | Bill Urrutia | [Read More](https://medium.com/p/dc2923755a56) |
@@ -102,14 +114,3 @@ Why Cybersecurity Fails Before Code Runs | Mounir Akarkach | [Read More](https:/
 | Thu, 08 Jan 2026 22:07:18 GMT | Evasive Remote Memory Write | S12 - 0x12Dark Development | [Read More](https://medium.com/p/22e6ddc89517) |
 | Thu, 08 Jan 2026 21:57:49 GMT | CORS Explained Without Pain | Stoic Engineer | [Read More](https://medium.com/p/59aceb743ba7) |
 | Thu, 08 Jan 2026 21:57:36 GMT | I Built a Digital Forensics Toolkit in Python So You Don’t Have To Guess | Samuel Selasi | [Read More](https://medium.com/p/2e2379539fc2) |
-| Thu, 08 Jan 2026 21:57:31 GMT | Mr. Robot CTF | Edasu ŞENTÜRK | [Read More](https://medium.com/p/fd3c19745ac1) |
-| Thu, 08 Jan 2026 21:49:46 GMT | The Death of the Ticket: How AI is Redefining Security Engineering for SMBs | Alex Farhadi | [Read More](https://medium.com/p/f88e188093d4) |
-| Thu, 08 Jan 2026 21:17:11 GMT | Iran’s IPv6 Blackout: How a Country Can Quietly Disconnect the Modern Internet. | 1nf1n1ty | [Read More](https://medium.com/p/2ae840e6a538) |
-| Thu, 08 Jan 2026 21:04:37 GMT | Advanced Cryptographic Key Management | Esra Kayhan | [Read More](https://medium.com/p/400ee0d7af90) |
-| Thu, 08 Jan 2026 20:51:08 GMT | Password Policy Bypass: Missing Server-Side Validation | Sushil Ram | [Read More](https://medium.com/p/947e91c8390e) |
-| Thu, 08 Jan 2026 20:44:56 GMT | How Multi-Point Locking Systems Improve Window Security? | EcoTech Windows | [Read More](https://medium.com/p/db2c4c19cd15) |
-| Thu, 08 Jan 2026 20:36:31 GMT | Universal Formal Complaint I Did | Jon B | [Read More](https://medium.com/p/ae30a99ab8b6) |
-| Thu, 08 Jan 2026 20:18:53 GMT | Hackers aren’t your only threat. In 2026, Authorities are just as dangerous. | Routerfishers | [Read More](https://medium.com/p/bd62b837a116) |
-| Thu, 08 Jan 2026 20:08:20 GMT | FW-Backfiring: Why “Sending Attacks Back to the Source” Is a Bad Idea | Derek Johnston | [Read More](https://medium.com/p/664bc1f454f3) |
-| Thu, 08 Jan 2026 20:03:50 GMT | Anatomy of Failure: How One Click Destroys Years of Anonymity | Jayson Morale | [Read More](https://medium.com/p/50bc12e00b95) |
-| Thu, 08 Jan 2026 19:56:30 GMT | MFA Is Not Enough: How MFA Phishing Works in Real Life | Ozkan Sonmez | [Read More](https://medium.com/p/ceb25b50b183) |
