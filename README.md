@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 03:32:44 GMT | How TrafficBotPro Simulates Real User Behavior for SEO | Cyplia Fr | [Read More](https://medium.com/p/044f4e28624c) |
+| Fri, 09 Jan 2026 02:56:09 GMT | Why Access to Information Still Feels Like Magic | Praise Okaegbu-Wali | [Read More](https://medium.com/p/9c1bb5d1882d) |
+| Fri, 09 Jan 2026 02:54:57 GMT | WannaCry | Leisha  B. | [Read More](https://medium.com/p/f97dbc8ac460) |
+| Fri, 09 Jan 2026 02:52:51 GMT | An IAM Brief | Dhruv Jalota | [Read More](https://medium.com/p/c7bf0e3629b6) |
+| Fri, 09 Jan 2026 02:50:30 GMT | How Scammers Target Malaysians: Insights and Defensive OSINT Practices | Pwnedproof | [Read More](https://medium.com/p/62cfa5375acb) |
+| Fri, 09 Jan 2026 02:50:16 GMT | Unleashing the Power of DirBuster: Advanced Recon Techniques for Professional Pentesters | Cybeague Technologies | [Read More](https://medium.com/p/ffe5d0d1ef32) |
+| Fri, 09 Jan 2026 02:50:07 GMT | DLP 101: A Basic Explainer | Dhruv Jalota | [Read More](https://medium.com/p/dbe349ea3af2) |
+| Fri, 09 Jan 2026 02:49:12 GMT | Getting Started with DirBuster: The Fast Lane to Hidden Directories in Cybersecurity | Cybeague Technologies | [Read More](https://medium.com/p/a8d2d3acfcfa) |
+| Fri, 09 Jan 2026 02:45:28 GMT | Riding Through Loss: A Motorbike, a Stranger, and a Morning That Changed Me | Putri | [Read More](https://medium.com/p/1214830d1bc1) |
+| Fri, 09 Jan 2026 02:33:14 GMT | Phones, IP Addresses, and a False Sense of PrivacyWhy Hiding Your IP on Mobile Is Harder Than Most… | MostLogin Anti-detect Browser | [Read More](https://medium.com/p/f2ab98f8ee4b) |
+| Fri, 09 Jan 2026 02:23:41 GMT | Security 101: Beyond TLS — The Fascinating World of Asymmetric Cryptography | Kunal Sinha | [Read More](https://medium.com/p/764c068240a6) |
+| Fri, 09 Jan 2026 02:14:29 GMT | “You’re Absolutely Right! I Shouldn’t Read Your .env” — reads it anyway | MANGO byte | [Read More](https://medium.com/p/370fab1b4ce0) |
+| Fri, 09 Jan 2026 02:13:37 GMT | Pre-Inference Governance:
+Why Cybersecurity Fails Before Code Runs | Mounir Akarkach | [Read More](https://medium.com/p/2f8df843119b) |
+| Fri, 09 Jan 2026 02:06:02 GMT | Saat Lead Berkualitas menjadi Keunggulan Komptetitif: Peran The Teh Group dalam Mendorong Sales | The Teh Group News | [Read More](https://medium.com/p/7bb09d856e95) |
 | Fri, 09 Jan 2026 01:48:26 GMT | The Modern Developer’s Guide to Cryptography: The Boring, Safe, Correct Choices | Astro's world | [Read More](https://medium.com/p/91a5960817d7) |
 | Fri, 09 Jan 2026 01:30:04 GMT | The End of “Seeing Is Believing” | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/8ebfe5aa7935) |
 | Fri, 09 Jan 2026 01:20:01 GMT | Privacy-First Genomic Analysis: Securing  DNA Data in U.S. Healthcare with Federated Learning | Nilansh Upadhyay | [Read More](https://medium.com/p/0c2fe181bdef) |
@@ -101,18 +116,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 08 Jan 2026 17:02:07 GMT | Sanity Test、Smoke Test、Regression Test 的比喻 | 思維舞步 MindSteps | [Read More](https://medium.com/p/1cb07f79d8ac) |
 | Thu, 08 Jan 2026 16:54:36 GMT | Hoops on the Horizon | Hatteras Hoops | [Read More](https://medium.com/p/38dc6052a546) |
 | Thu, 08 Jan 2026 16:52:34 GMT | n8n Vulnerabilities: When Automation Workflows Become Exploitable | Aastha Thakker | [Read More](https://medium.com/p/f7c95b4e4ec8) |
-| Thu, 08 Jan 2026 16:50:55 GMT | Mass YouTube Livestream Hijacking & Cryptocurrency Giveaway Scam Using Impersonation and Fake… | Dave Christian | [Read More](https://medium.com/p/959a9c4824a1) |
-| Thu, 08 Jan 2026 16:48:52 GMT | TryHackMe Hydra — A Professional Walkthrough
-Room: https://tryhackme.com/room/hydra | Hadeshuntx | [Read More](https://medium.com/p/a34ccd80ef8f) |
-| Thu, 08 Jan 2026 16:43:32 GMT | Breaking Down a Broken Authentication Design in FreshRSS | Vedic_error | [Read More](https://medium.com/p/214e4bd39ed4) |
-| Thu, 08 Jan 2026 16:30:40 GMT | SOC Detection and Log Analysis Lab Using Wazuh SIEM | bakmietunggu | [Read More](https://medium.com/p/f5bd3b12e89e) |
-| Thu, 08 Jan 2026 16:27:15 GMT | MCP: Between Standardization and the New AI “Spaghetti Code” | Sergio Toro | [Read More](https://medium.com/p/50441dc0ddac) |
-| Thu, 08 Jan 2026 16:24:50 GMT | I’m Too Small to Be a Hacker” — The Most Expensive Mistake in the Middle Class | Cordula Boeck | [Read More](https://medium.com/p/55cb73fbaa52) |
-| Thu, 08 Jan 2026 16:23:52 GMT | I Passed CompTIA Security+ (800/900) : What I Learned Beyond the Exam | Sayak Mukherjee | [Read More](https://medium.com/p/392ea5e861ab) |
-| Thu, 08 Jan 2026 16:22:18 GMT | Claimed Breach, Contested Reality | Decentr | [Read More](https://medium.com/p/5ea6a925f776) |
-| Thu, 08 Jan 2026 16:17:17 GMT | Ghost in the Pocket: The end of the cloud and the rise of sovereign AI | Sam.KL | [Read More](https://medium.com/p/203fad24d1fe) |
-| Thu, 08 Jan 2026 16:13:23 GMT | Jeffrey Cudicio: From the Manager’s Chair to the Applicant’s Chair: My 11-Year Reality Check | Jeffrey Cudicio | [Read More](https://medium.com/p/ed5679f370e4) |
-| Thu, 08 Jan 2026 16:12:06 GMT | Why Cybersecurity Belongs in Business Strategy | Digital Defense | [Read More](https://medium.com/p/37ff16263f21) |
-| Thu, 08 Jan 2026 16:11:51 GMT | PicoCTF: Obedient Cat | Levi Spellmeyer | [Read More](https://medium.com/p/9c4e7ccadb82) |
-| Thu, 08 Jan 2026 16:07:20 GMT | 20. I Thought Strength Meant Hiding My Struggles | Roj Ink | [Read More](https://medium.com/p/6dd9f688a56f) |
-| Thu, 08 Jan 2026 16:01:37 GMT | Network Security Fundamentals: Traffic Analysis & Hardening | Oluwadamilare Adeosun | [Read More](https://medium.com/p/efd60f9704e0) |
