@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 13:28:46 GMT | How to query DynamoDB Data using SQLite | Sameer | [Read More](https://medium.com/p/8357fbe39e63) |
+| Fri, 09 Jan 2026 13:23:03 GMT | New GoBruteforcer Attack Wave Targets Crypto and Blockchain Projects | Technijian | [Read More](https://medium.com/p/67ca69ab2264) |
+| Fri, 09 Jan 2026 13:19:18 GMT | Active Exploits Across Legacy and Modern Stacks | Loginsoft | [Read More](https://medium.com/p/ac18596b64fc) |
+| Fri, 09 Jan 2026 13:16:54 GMT | From Shared Secrets To Secure Proof: Why Passkeys Win | Plaintext with Rich | [Read More](https://medium.com/p/cc5e6f6c0b0a) |
+| Fri, 09 Jan 2026 13:14:28 GMT | US Tech Force is Hiring 1,000 AI Experts at $195K | TrendScribe | [Read More](https://medium.com/p/3844cb87a91a) |
+| Fri, 09 Jan 2026 13:13:36 GMT | Advent of Cyber — Day 10: SOC Alert Triaging — Tinsel Triage | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/e7ebf8790314) |
+| Fri, 09 Jan 2026 13:11:53 GMT | Advent of Cyber — Day 9: Passwords — A Cracking Christmas | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/ca0293436d70) |
+| Fri, 09 Jan 2026 13:10:01 GMT | Google Antigravity adds Sonatype security screening | Nanthakumar | [Read More](https://medium.com/p/a1c10cd32a0c) |
+| Fri, 09 Jan 2026 13:06:58 GMT | A Beginner’s Guide to the OAuth 2.0 JWT Bearer Flow | Namrata | [Read More](https://medium.com/p/41b072db934d) |
+| Fri, 09 Jan 2026 13:05:25 GMT | Cybersecurity courses in Kochi | Fordot Real | [Read More](https://medium.com/p/279204eeb7c6) |
+| Fri, 09 Jan 2026 13:02:53 GMT | Mistakes I Made While Building Production APIs (So You Don’t Have To) | AngsCode | [Read More](https://medium.com/p/a366f1642556) |
+| Fri, 09 Jan 2026 13:02:53 GMT | The Cybersecurity Booklist: 11 Must-Reads for 2026 from The Three Buddy Problem Podcast | Costin Raiu | [Read More](https://medium.com/p/ef8216958bd3) |
+| Fri, 09 Jan 2026 12:58:30 GMT | The Hidden Cyber Risks UAE Organizations Miss Without Regular VAPT | ANSI Technologies | [Read More](https://medium.com/p/713e9e058b48) |
+| Fri, 09 Jan 2026 12:57:59 GMT | Why Regular VAPT Is the Only Reliable Way to Understand Cyber Risk in the UAE | ANSI Technologies | [Read More](https://medium.com/p/25f6b7e5fcc0) |
+| Fri, 09 Jan 2026 12:54:59 GMT | For the lonely and struggling hearts | kasiye | [Read More](https://medium.com/p/fccaf66365fa) |
+| Fri, 09 Jan 2026 12:48:36 GMT | Keeping Your Computer Safe: Practical Protective Measures Using Windows Command Line | MDLICXV | [Read More](https://medium.com/p/7c5de42433f1) |
+| Fri, 09 Jan 2026 12:48:25 GMT | Empire Breakout: VulnHub CTF Walkthrough | Vivek Goswami | [Read More](https://medium.com/p/fe86785fddc8) |
 | Fri, 09 Jan 2026 12:41:40 GMT | Penetration Testing for Business Cybersecurity in Dubai | Saaiye IT | [Read More](https://medium.com/p/4ee27fc173f2) |
 | Fri, 09 Jan 2026 12:39:15 GMT | Weekly Update | Techwin Cyber | [Read More](https://medium.com/p/68f6873beb8c) |
 | Fri, 09 Jan 2026 12:36:30 GMT | Security and Compliance in Customer Service Platforms: What Today’s Businesses Can’t Ignore | David | [Read More](https://medium.com/p/f4051938a6ec) |
@@ -95,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 08:06:45 GMT | Top Machine Learning Interview Questions for Freshers in 2026 | cyber security Updates | [Read More](https://medium.com/p/141c212efbae) |
 | Fri, 09 Jan 2026 08:00:25 GMT | How to Hide a Page in WordPress: 4 Methods You Can Use Today | Hamza Hanif | [Read More](https://medium.com/p/3451cf00236b) |
 | Fri, 09 Jan 2026 08:00:19 GMT | … | Akansha | [Read More](https://medium.com/p/401deaa7d495) |
-| Fri, 09 Jan 2026 07:55:21 GMT | Mendeteksi n8n yang Terbuka Secara Aman CVE-2026–21858 + CVE-2025–68613 | Ginda Sundara | [Read More](https://medium.com/p/1eec78e61b81) |
-| Fri, 09 Jan 2026 07:55:05 GMT | Why SOC-as-a-Service is the New Standard for Cybersecurity in the UAE | Clouds Dubai | [Read More](https://medium.com/p/9d3fe45acc84) |
-| Fri, 09 Jan 2026 07:49:26 GMT | WhatsApp Downloads Trigger New Need for Antivirus for Windows | Siyanoav | [Read More](https://medium.com/p/9fb78a4b2d67) |
-| Fri, 09 Jan 2026 07:48:58 GMT | What Cybersecurity Hygiene Really Means | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/f92e5988bcfd) |
-| Fri, 09 Jan 2026 07:48:41 GMT | Android Emulator Setup for PenTest Using Mumu | Rafel | [Read More](https://medium.com/p/b13e0f12128b) |
-| Fri, 09 Jan 2026 07:42:15 GMT | Building a Secure Linux Server Baseline for Enterprise | Majidbasharat | [Read More](https://medium.com/p/8da76b121514) |
-| Fri, 09 Jan 2026 07:38:53 GMT | Windows Forensics Projects for Beginners: A Practical Entry into DFIR! | Nothing Cyber [NC] | [Read More](https://medium.com/p/2f7f55983756) |
-| Fri, 09 Jan 2026 07:37:50 GMT | JWT Attack CTF Challenge (Bugforge) | blackm4c | [Read More](https://medium.com/p/82fc762fe229) |
-| Fri, 09 Jan 2026 07:37:06 GMT | ประจำวันศุกร์ที่ 9 มกราคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/8736f2b8a22c) |
-| Fri, 09 Jan 2026 07:36:25 GMT | The WhatsApp Worm That Turns Your Contacts Into an Attack Chain: Inside Brazil’s Astaroth Banking… | Germano Costi | [Read More](https://medium.com/p/51df83c07487) |
-| Fri, 09 Jan 2026 07:36:21 GMT | To the Stranger – Whom I Wish I Could’ve Known Better. | sh*twriting | [Read More](https://medium.com/p/7a7348d2523a) |
-| Fri, 09 Jan 2026 07:35:57 GMT | TryHackMe — Internal Lab Walkthrough | Ankit | [Read More](https://medium.com/p/1756d576a972) |
-| Fri, 09 Jan 2026 07:35:40 GMT | Reliable IT Support Services in Campbelltown | Any network | [Read More](https://medium.com/p/659a327db303) |
-| Fri, 09 Jan 2026 07:34:00 GMT | The Corix Partners Friday Reading List — January 9, 2026 | JC Gaillard | [Read More](https://medium.com/p/94ed6374e522) |
-| Fri, 09 Jan 2026 07:32:46 GMT | Information not Money | Ogunranti Adebayo Moses | [Read More](https://medium.com/p/8db46b7dba3f) |
-| Fri, 09 Jan 2026 07:26:50 GMT | Starting Bug Bounty With Zero Knowledge? Here’s the Exact Roadmap to Your First Valid Report | Vivek PS | [Read More](https://medium.com/p/774e4d923289) |
-| Fri, 09 Jan 2026 07:26:00 GMT | إجراءات هامة لزواج وطلاق الأجانب والمغتربين والمقيمين داخل الأردن
-في عالم سريع التغير، حيث اختصر… | Best Family Law Firm in Amman Jordan - Ahmed | [Read More](https://medium.com/p/fae087600a89) |
