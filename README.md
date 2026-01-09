@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 15:39:03 GMT | “Bug Bounty Bootcamp #12: Hacking Through Regex — How Bad Pattern Matching Creates Critical… | Aman Sharma | [Read More](https://medium.com/p/b92b68eb77c0) |
+| Fri, 09 Jan 2026 15:36:38 GMT | SSRF in PDF Generators | Fatimahasan | [Read More](https://medium.com/p/900de19572d3) |
+| Fri, 09 Jan 2026 15:27:18 GMT | The Intricacies of Sensitive Data Protection: 5 Hard-Earned Lessons | SecGuy | [Read More](https://medium.com/p/4ffb882e9117) |
 | Fri, 09 Jan 2026 15:26:07 GMT | A Guide to Safe Festive Shopping | Mr Technology | [Read More](https://medium.com/p/528e28124726) |
+| Fri, 09 Jan 2026 15:25:47 GMT | Cracking the Split-APK Code | bineeg | [Read More](https://medium.com/p/100af6bfebe1) |
 | Fri, 09 Jan 2026 15:25:32 GMT | n8n 2.0 Will Break Your Workflows | Najeeb W | [Read More](https://medium.com/p/eaef1e3cc578) |
 | Fri, 09 Jan 2026 15:22:07 GMT | Nmap: Setup, Core Scans, and Practical Use Cases | Little_Sun4lower | [Read More](https://medium.com/p/6578b58b2073) |
 | Fri, 09 Jan 2026 15:17:38 GMT | Cybersecurity News Review — Week 2 (2026) | Mladen Kirilov | [Read More](https://medium.com/p/4c977ab6cef5) |
@@ -60,6 +64,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 13:05:25 GMT | Cybersecurity courses in Kochi | Fordot Real | [Read More](https://medium.com/p/279204eeb7c6) |
 | Fri, 09 Jan 2026 13:02:53 GMT | Mistakes I Made While Building Production APIs (So You Don’t Have To) | AngsCode | [Read More](https://medium.com/p/a366f1642556) |
 | Fri, 09 Jan 2026 13:02:53 GMT | The Cybersecurity Booklist: 11 Must-Reads for 2026 from The Three Buddy Problem Podcast | Costin Raiu | [Read More](https://medium.com/p/ef8216958bd3) |
+| Fri, 09 Jan 2026 13:00:26 GMT | Trustee: The AI that helps you avoid online scams, before it’s too late | Trustee | [Read More](https://medium.com/p/b77cece6fc08) |
 | Fri, 09 Jan 2026 12:58:30 GMT | The Hidden Cyber Risks UAE Organizations Miss Without Regular VAPT | ANSI Technologies | [Read More](https://medium.com/p/713e9e058b48) |
 | Fri, 09 Jan 2026 12:57:59 GMT | Why Regular VAPT Is the Only Reliable Way to Understand Cyber Risk in the UAE | ANSI Technologies | [Read More](https://medium.com/p/25f6b7e5fcc0) |
 | Fri, 09 Jan 2026 12:54:59 GMT | For the lonely and struggling hearts | kasiye | [Read More](https://medium.com/p/fccaf66365fa) |
@@ -103,12 +108,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 10:44:21 GMT | How Do I Contact AVG Support Number UK | Zuerevalexander | [Read More](https://medium.com/p/80c9a010f124) |
 | Fri, 09 Jan 2026 10:39:18 GMT | Sanctuary | Ayomide Ojekunle | [Read More](https://medium.com/p/324681e21adf) |
 | Fri, 09 Jan 2026 10:39:10 GMT | TryHackMe: Net Sec Challenge | JC2122 | [Read More](https://medium.com/p/29c66d19ffb6) |
+| Fri, 09 Jan 2026 10:36:30 GMT | : … | Mario Candela | [Read More](https://medium.com/p/fd0c78a70677) |
 | Fri, 09 Jan 2026 10:35:47 GMT | How Do I Call McAfee Support Number UK | Zuerevalexander | [Read More](https://medium.com/p/3979562cf3e2) |
 | Fri, 09 Jan 2026 10:34:39 GMT | 10 Pentest Findings That Instantly Impress Clients: Step-by-Step Guide for Security Pros | Very Lazy Tech | [Read More](https://medium.com/p/f3a68c1d355a) |
 | Fri, 09 Jan 2026 10:32:28 GMT | OSI Model vs TCP/IP Model — Explained with Real-World Examples | Shalu | [Read More](https://medium.com/p/dd1b2395954f) |
-| Fri, 09 Jan 2026 10:27:20 GMT | Top 10 Ethical Hacking Tools Every Cybersecurity Professional Should Learn | Sikhasinghh | [Read More](https://medium.com/p/671907bb707f) |
-| Fri, 09 Jan 2026 10:13:21 GMT | Poisoned Credentials — SOC Analyst Walkthrough (Blue Team CTF) | Al-Ameen Azeef | [Read More](https://medium.com/p/ebf8962bbf8d) |
-| Fri, 09 Jan 2026 10:04:25 GMT | Are AI Chatbots the New S3? | Kishor balan | [Read More](https://medium.com/p/f782b8e90701) |
-| Fri, 09 Jan 2026 10:03:47 GMT | ด่วน! ช่องโหว่ RCE ใน Veeam Backup & Replication เสี่ยงต่อการถูกเข้าควบคุมระบบสำรองข้อมูล | ThaiCERT By NCSA | [Read More](https://medium.com/p/d229c06c12ef) |
-| Fri, 09 Jan 2026 09:55:24 GMT | VAPT Services in Saudi Arabia for Banks, Fintech & Financial Institutions | Prakash Factosecure | [Read More](https://medium.com/p/5aa65247a964) |
-| Fri, 09 Jan 2026 09:54:35 GMT | Platforms for receiving OTPs are under pressure | NNayak | [Read More](https://medium.com/p/7ae4e1a3a746) |
