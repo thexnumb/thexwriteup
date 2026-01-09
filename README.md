@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 11:20:15 GMT | Ethical Hacking Fundamentals: Scope, Ethics, and Cyber Attack Lifecycle | Ahmad Jutt | [Read More](https://medium.com/p/9e8f655a8554) |
+| Fri, 09 Jan 2026 11:12:17 GMT | I’m interested in writing about technology, personal growth, and real-life experiences. | Ermiyas Amare | [Read More](https://medium.com/p/c678fe94f704) |
+| Fri, 09 Jan 2026 11:04:05 GMT | Cloud Computing for Beginners: A Simple Guide to Getting Started. | Justice Atulaegwu | [Read More](https://medium.com/p/c5f20657d426) |
+| Fri, 09 Jan 2026 11:02:45 GMT | Glitchcraft and the Joy of Breaking Perfect Things | Franziska "Ziska" Fink | [Read More](https://medium.com/p/544f8fe5a22d) |
+| Fri, 09 Jan 2026 11:02:41 GMT | Implementing Azure Entra ID SSO Authentication for Linux Applications: A Complete Guide | Krunal Bansod | [Read More](https://medium.com/p/ec348f0954e6) |
+| Fri, 09 Jan 2026 10:58:09 GMT | Chaos Monkey: The Crazy Netflix Tool That Keeps Your Binge Safe | Amal | [Read More](https://medium.com/p/6249c10e4450) |
+| Fri, 09 Jan 2026 10:57:58 GMT | ️ Cybersecurity Basics: Ethical Hacking, Attack Lifecycle, and Modern Defense | Kashish Zara | [Read More](https://medium.com/p/776900ec0f0c) |
+| Fri, 09 Jan 2026 10:54:14 GMT | File Path Traversal, Validation of Start of Path | Bash Overflow | [Read More](https://medium.com/p/71134f2e366b) |
+| Fri, 09 Jan 2026 10:44:21 GMT | How Do I Contact AVG Support Number UK | Zuerevalexander | [Read More](https://medium.com/p/80c9a010f124) |
+| Fri, 09 Jan 2026 10:39:18 GMT | Sanctuary | Ayomide Ojekunle | [Read More](https://medium.com/p/324681e21adf) |
 | Fri, 09 Jan 2026 10:39:10 GMT | TryHackMe: Net Sec Challenge | JC2122 | [Read More](https://medium.com/p/29c66d19ffb6) |
 | Fri, 09 Jan 2026 10:35:47 GMT | How Do I Call McAfee Support Number UK | Zuerevalexander | [Read More](https://medium.com/p/3979562cf3e2) |
 | Fri, 09 Jan 2026 10:34:39 GMT | 10 Pentest Findings That Instantly Impress Clients: Step-by-Step Guide for Security Pros | Very Lazy Tech | [Read More](https://medium.com/p/f3a68c1d355a) |
@@ -103,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 06:00:11 GMT | The 72-Hour Window: Why Speed Matters in Behavioral Threat Assessment | CrisisWire Threat Assessment Management | [Read More](https://medium.com/p/3e0771f34a54) |
 | Fri, 09 Jan 2026 05:54:12 GMT | USPD Hack: Details & Questions | DataFinnovation - ChainArgos  - 4AC | [Read More](https://medium.com/p/a6d8a4315131) |
 | Fri, 09 Jan 2026 05:50:02 GMT | Caches, Edge, and Exploits | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/67db17b5fa6b) |
-| Fri, 09 Jan 2026 05:42:08 GMT | Safety First: How We Protect Every “Buddy” on the Road | BuddyRide Official | [Read More](https://medium.com/p/80d004993776) |
-| Fri, 09 Jan 2026 05:36:53 GMT | CISSP Domain 4 Mastery Series - Part 4: VPN Technologies & Authentication Protocols | Pushpak Sharma | [Read More](https://medium.com/p/955cfcdc683a) |
-| Fri, 09 Jan 2026 05:33:01 GMT | This Simple Password Trick Cost DoorDash Millions in Data | MyNextDeveloper | [Read More](https://medium.com/p/7835f2655624) |
-| Fri, 09 Jan 2026 05:29:59 GMT | When AI Becomes a Weapon: The Disturbing Reality of Grok’s Deepfake Crisis | Proditive - Smart Apps . Maximum Productivity | [Read More](https://medium.com/p/4863c15783d7) |
-| Fri, 09 Jan 2026 05:26:21 GMT | I asked | Martin Jakarta | [Read More](https://medium.com/p/24a169bb9ac3) |
-| Fri, 09 Jan 2026 05:19:02 GMT | Backend Security Basics (Part 2): Data Protection, Configuration, and Secure Operations | Silversky Technology | [Read More](https://medium.com/p/6f87e8b7e76e) |
-| Fri, 09 Jan 2026 05:17:50 GMT | n8n CVE-2026–21858 (“Ni8mare”) | SOCFortress | [Read More](https://medium.com/p/a656405fccce) |
-| Fri, 09 Jan 2026 05:17:11 GMT | Protecting Energy Supply Chains With Cyber Risk Accreditation | Kadhijahafiya | [Read More](https://medium.com/p/6f81d833e4b4) |
-| Fri, 09 Jan 2026 05:14:05 GMT | CVE-2025–61882 Explained: Why Cyber Security Testing Can’t Be Ignored | Pynesec | [Read More](https://medium.com/p/86e89f016c02) |
-| Fri, 09 Jan 2026 05:13:46 GMT | The 10 Commandments of Azure Security Architecture | Stephane Eyskens | [Read More](https://medium.com/p/4be9af396e9e) |
