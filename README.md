@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 15:26:07 GMT | A Guide to Safe Festive Shopping | Mr Technology | [Read More](https://medium.com/p/528e28124726) |
+| Fri, 09 Jan 2026 15:25:32 GMT | n8n 2.0 Will Break Your Workflows | Najeeb W | [Read More](https://medium.com/p/eaef1e3cc578) |
+| Fri, 09 Jan 2026 15:22:07 GMT | Nmap: Setup, Core Scans, and Practical Use Cases | Little_Sun4lower | [Read More](https://medium.com/p/6578b58b2073) |
+| Fri, 09 Jan 2026 15:17:38 GMT | Cybersecurity News Review — Week 2 (2026) | Mladen Kirilov | [Read More](https://medium.com/p/4c977ab6cef5) |
+| Fri, 09 Jan 2026 15:11:48 GMT | Zomato Ceo Deepinder Goyal and other Billionaires PAN NUMBER Sensitive PII Leak by Cyber Kalki | ElonMuskTheAntichrist | [Read More](https://medium.com/p/86bf8a327c1e) |
+| Fri, 09 Jan 2026 15:10:05 GMT | 別等到 2027！歐盟 CRA 第 14 條漏洞通報 2026 年先開跑 | 老喬筆記 | [Read More](https://medium.com/p/2c7f2ab5e3d4) |
+| Fri, 09 Jan 2026 15:09:35 GMT | Exploring Android Application Vulnerabilities Through Hands-On Testing with AndroGoat | Hammam Awis Zukimi | [Read More](https://medium.com/p/8845e4719a36) |
+| Fri, 09 Jan 2026 15:08:17 GMT | IDOR: Insecure Direct Object Reference Writeup TryHackme | Lakshay Nimwal | [Read More](https://medium.com/p/b5f8ec5f65d7) |
+| Fri, 09 Jan 2026 15:05:35 GMT | Hands-On Android Security Testing in AndroGoat — Binary Patching | Hammam Awis Zukimi | [Read More](https://medium.com/p/5ad41787e0d9) |
+| Fri, 09 Jan 2026 15:03:38 GMT | Hands-On Network Intrusion Detection and Traffic Analysis Using Snort | Janmejaysinh ThinkLab | [Read More](https://medium.com/p/22f8df3910f1) |
+| Fri, 09 Jan 2026 15:02:50 GMT | Cyber Briefing: 2025.01.09 | CyberMaterial | [Read More](https://medium.com/p/724a723cd1e4) |
+| Fri, 09 Jan 2026 14:59:34 GMT | ChatGPT vs Perplexity: Who Wins for SDLC Bugs, APIs & Code Fixes? | Muhammad Burhan Chughtai | [Read More](https://medium.com/p/7c5bdb521a60) |
+| Fri, 09 Jan 2026 14:52:03 GMT | What Is V2V Technology? | Intellibytes | [Read More](https://medium.com/p/b89ce7bb01c2) |
+| Fri, 09 Jan 2026 14:50:56 GMT | Why most businesses don’t actually need a “unique” backend | OneEntry Platform | [Read More](https://medium.com/p/da8b057af812) |
 | Fri, 09 Jan 2026 14:41:46 GMT | [HackTheBox — Machine] Postman (Blind Writeup) | 0xr35p3c7 | [Read More](https://medium.com/p/e0b306fc4f91) |
 | Fri, 09 Jan 2026 14:33:00 GMT | Using MITMf Against Real Networks: A Comprehensive Guide | Vignesh R | [Read More](https://medium.com/p/a43f80dd1d56) |
 | Fri, 09 Jan 2026 14:31:17 GMT | IOCS 2025 and the End of Tool-First Operations: Five Signals for the Next Era of I&O | saliljk@gmail.com | [Read More](https://medium.com/p/d105aac3395f) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 10:03:47 GMT | ด่วน! ช่องโหว่ RCE ใน Veeam Backup & Replication เสี่ยงต่อการถูกเข้าควบคุมระบบสำรองข้อมูล | ThaiCERT By NCSA | [Read More](https://medium.com/p/d229c06c12ef) |
 | Fri, 09 Jan 2026 09:55:24 GMT | VAPT Services in Saudi Arabia for Banks, Fintech & Financial Institutions | Prakash Factosecure | [Read More](https://medium.com/p/5aa65247a964) |
 | Fri, 09 Jan 2026 09:54:35 GMT | Platforms for receiving OTPs are under pressure | NNayak | [Read More](https://medium.com/p/7ae4e1a3a746) |
-| Fri, 09 Jan 2026 09:53:53 GMT | Http Response Manipulation | Neeraj kath | [Read More](https://medium.com/p/b5d56176b024) |
-| Fri, 09 Jan 2026 09:51:40 GMT | The Day a DNS Misconfiguration Took Down an Entire Environment | Fateyaly | [Read More](https://medium.com/p/fa1dbe1b1f09) |
-| Fri, 09 Jan 2026 09:50:35 GMT | Is HIPAA-Compliance the Final Boss for LLM Scalability? - The Daily Tech Digest: 09 January 2026 | Souren Stepanyan | [Read More](https://medium.com/p/bc3c645b42de) |
-| Fri, 09 Jan 2026 09:47:59 GMT | Part 4:Configuring Spring Security Filter Chain: A Deep Dive into Custom Security Filters | Sarveshkhamkar | [Read More](https://medium.com/p/a27d73f14f17) |
-| Fri, 09 Jan 2026 09:47:48 GMT | HOPING I GIVE MYSELF THE CHANCE TO LIVE | Oni | [Read More](https://medium.com/p/f18b28598630) |
-| Fri, 09 Jan 2026 09:46:55 GMT | Most People Lose Crypto Because They Pick the Wrong Wallet!!! | - Crypto - Health - Cyber - Tech | [Read More](https://medium.com/p/7b8adb7fb894) |
-| Fri, 09 Jan 2026 09:43:13 GMT | The AI Revolution Will Feel Like Freedom, Until Human Nature Kicks In | Remis Haroon | [Read More](https://medium.com/p/22f117e7fd0f) |
-| Fri, 09 Jan 2026 09:40:15 GMT | Night Adventure Mod Apk | Game4u | [Read More](https://medium.com/p/8ec8fa00a38c) |
-| Fri, 09 Jan 2026 09:33:25 GMT | Shadow AI Models in Finance Teams: The Hidden Security Debt Nobody Is Tracking | Michael Adedeji | [Read More](https://medium.com/p/1ba9c865f64a) |
-| Fri, 09 Jan 2026 09:32:47 GMT | Fine-Tuning’s Dark Side: When “Custom” Turns Harmful | Quaxel | [Read More](https://medium.com/p/9f6cb68bc78b) |
-| Fri, 09 Jan 2026 09:30:48 GMT | Protecting Generative AI in Production: Defeating Prompt Injection Without Breaking User Experience… | Arch | [Read More](https://medium.com/p/67d31c2cd56d) |
-| Fri, 09 Jan 2026 09:27:32 GMT | THM - Boogeyman 2 | Francesco Pastore | [Read More](https://medium.com/p/9f95c8637e66) |
-| Fri, 09 Jan 2026 09:23:00 GMT | Modern Cybersecurity: Simple Facts Every Business Leader Should Know | Wolf Communication Pvt Ltd | [Read More](https://medium.com/p/7545e9bdf523) |
-| Fri, 09 Jan 2026 09:21:49 GMT | The Hidden Costs of Managing Cybersecurity Without a Dedicated Security Partner | Gavin Ellis | [Read More](https://medium.com/p/3f195ae03082) |
