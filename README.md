@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 14:22:46 GMT | Why Crypto Crime Victims Prefer to Stay Silent | David SEHYEON Baek | [Read More](https://medium.com/p/c8f5d2e3aa75) |
+| Fri, 09 Jan 2026 14:21:43 GMT | CTF Writeup: Breaking the Cave Lab through LFI and SUID Misconfigurations | Ankush Prasad Sah | [Read More](https://medium.com/p/54fb132050c5) |
+| Fri, 09 Jan 2026 14:14:09 GMT | A 2009 PowerPoint Bug Is Back in 2026: Why “Old CVEs” Still Beat Modern Defenses | Suleiman Tawil | [Read More](https://medium.com/p/ee53600783c9) |
+| Fri, 09 Jan 2026 14:10:26 GMT | How to Hypothetically Secure $1 Billion in Bitcoin | Neil Chandler | [Read More](https://medium.com/p/6158d06df994) |
+| Fri, 09 Jan 2026 14:05:06 GMT | My Friendly Beginner’s Guide to the 8 CISSP Security Domains | Carlo Tasca | [Read More](https://medium.com/p/32c1a8b6e01e) |
+| Fri, 09 Jan 2026 14:03:04 GMT | UART Debug Isn’t Harmless: Serial Port Privilege Escalation in Hikvision DVRs | Aaronjjose | [Read More](https://medium.com/p/f907995fb89a) |
+| Fri, 09 Jan 2026 14:02:10 GMT | Authorization Failures in Authenticated APIs A Practical Analysis | Jawad Momani | [Read More](https://medium.com/p/c6b4395f6bf1) |
+| Fri, 09 Jan 2026 14:01:56 GMT | Inside RiskShield: A Low-Latency Velocity Rules Layer for Real-Time Payment Fraud Detection (Part… | Prashant Maroti | [Read More](https://medium.com/p/afc9107458f6) |
+| Fri, 09 Jan 2026 13:53:07 GMT | OverTheWire Bandit (Day 10): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/08598d500631) |
+| Fri, 09 Jan 2026 13:49:07 GMT | Cyber Incident ≠ Cyberwar: Why Most Organizations Still Get It Wrong | Abdullah Zulkifli | [Read More](https://medium.com/p/8801b7b015db) |
+| Fri, 09 Jan 2026 13:46:44 GMT | Elderly Scam Warning: Square Dance Partner Gifted Me $3,000 Gold Bracelet — Police Involved | kitty | [Read More](https://medium.com/p/bf1400e144fe) |
+| Fri, 09 Jan 2026 13:45:42 GMT | Social Engineering: The Most Dangerous Attack Vector Isn’t Technical — It’s Human | Nexamos | [Read More](https://medium.com/p/ca03c4968415) |
+| Fri, 09 Jan 2026 13:45:07 GMT | JWT and PASETO: Choosing the Right Token for Secure Authentication | IBRAHEEM | [Read More](https://medium.com/p/b4430166e85d) |
+| Fri, 09 Jan 2026 13:38:31 GMT | SonarQube-9000. | Rela Lumbini | [Read More](https://medium.com/p/d87cf3744189) |
+| Fri, 09 Jan 2026 13:36:51 GMT | The 2026 Cybersecurity Career Architecture: A Strategic Roadmap for Emerging Professionals | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/e3f0bfffa1be) |
+| Fri, 09 Jan 2026 13:36:41 GMT | CVE‑2025‑52691: A CVSS 10.0 SmarterMail RCE That Demands Immediate Attention | gm0 | [Read More](https://medium.com/p/360cb2d9d9b5) |
+| Fri, 09 Jan 2026 13:32:50 GMT | Self-Hosting n8n for Privacy Without Losing Sleep | Modexa | [Read More](https://medium.com/p/3041ca809e13) |
 | Fri, 09 Jan 2026 13:28:46 GMT | How to query DynamoDB Data using SQLite | Sameer | [Read More](https://medium.com/p/8357fbe39e63) |
 | Fri, 09 Jan 2026 13:23:03 GMT | New GoBruteforcer Attack Wave Targets Crypto and Blockchain Projects | Technijian | [Read More](https://medium.com/p/67ca69ab2264) |
 | Fri, 09 Jan 2026 13:19:18 GMT | Active Exploits Across Legacy and Modern Stacks | Loginsoft | [Read More](https://medium.com/p/ac18596b64fc) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 09:08:13 GMT | Hunting Living off the Land Attacks with Wazuh | Enes Cayvarli | [Read More](https://medium.com/p/0cbe0b7f51d5) |
 | Fri, 09 Jan 2026 09:06:31 GMT | ZTNA: Ultimate Zero Trust Network Access Guide 2026 | Snskies | [Read More](https://medium.com/p/43911ce5e13f) |
 | Fri, 09 Jan 2026 09:06:20 GMT | AI Security and Data Protection: Best Practices for Trustworthy AI | Jay | [Read More](https://medium.com/p/efc77367aed7) |
-| Fri, 09 Jan 2026 09:03:00 GMT | Hack Magica.io APK | genzvnmod | [Read More](https://medium.com/p/9a1d310a1671) |
-| Fri, 09 Jan 2026 09:02:56 GMT | The House Bag | Rosa Diaz-Casal | [Read More](https://medium.com/p/10ce138f2003) |
-| Fri, 09 Jan 2026 09:02:55 GMT | Red Teamers: Stop Guessing Passwords, Start With What’s Already Leaked | Alexandre Vandamme | [Read More](https://medium.com/p/bd47b8afac3e) |
-| Fri, 09 Jan 2026 08:59:29 GMT | Your Password Can Be Stolen. Your Passkey Can’t. Here’s Why. | Shripad Khandare | [Read More](https://medium.com/p/d7a8952f4ddd) |
-| Fri, 09 Jan 2026 08:54:39 GMT | SOC138 — Detected Suspicious Xls File | Mmohammadsalman | [Read More](https://medium.com/p/da89378a3d80) |
-| Fri, 09 Jan 2026 08:54:12 GMT | Light Out, 7B (Part 9) | edarit | [Read More](https://medium.com/p/b26b29298fac) |
-| Fri, 09 Jan 2026 08:43:53 GMT | Why Master Tech is Dubai’s Top Choice for Smart Home Security Solutions | Mastertechnovision | [Read More](https://medium.com/p/18172530408c) |
-| Fri, 09 Jan 2026 08:43:04 GMT | Why Startups Need Regular Security Patching | DC9India | [Read More](https://medium.com/p/7462cb77a9c0) |
-| Fri, 09 Jan 2026 08:32:19 GMT | Part 3: DOA Based Authentication is SpringBoot: A Comprehensive Guide | Sarveshkhamkar | [Read More](https://medium.com/p/69ffea35872f) |
-| Fri, 09 Jan 2026 08:29:51 GMT | The Quiet Problem Most Content Never Solves — What Really Happens After People Land on Your Page | Danny Robin | [Read More](https://medium.com/p/002cf12c38ac) |
-| Fri, 09 Jan 2026 08:28:55 GMT | Kibo Modz FF APK | GOCMOD | [Read More](https://medium.com/p/76237e83fc2c) |
-| Fri, 09 Jan 2026 08:20:14 GMT | Comparative Analysis of Encryption Protocols | Esra Kayhan | [Read More](https://medium.com/p/fe7fa251116e) |
-| Fri, 09 Jan 2026 08:13:14 GMT | ‍Information Security in the AI Era: Cyber Threats and Defences | Fiza saleem | [Read More](https://medium.com/p/ca2ed4bdcb02) |
-| Fri, 09 Jan 2026 08:12:46 GMT | Paradise Lost: Microsoft’s Power Moves with Power Apps | Namir Sagheenanajar | [Read More](https://medium.com/p/0813c02bfc6f) |
-| Fri, 09 Jan 2026 08:06:45 GMT | Top Machine Learning Interview Questions for Freshers in 2026 | cyber security Updates | [Read More](https://medium.com/p/141c212efbae) |
-| Fri, 09 Jan 2026 08:00:25 GMT | How to Hide a Page in WordPress: 4 Methods You Can Use Today | Hamza Hanif | [Read More](https://medium.com/p/3451cf00236b) |
-| Fri, 09 Jan 2026 08:00:19 GMT | … | Akansha | [Read More](https://medium.com/p/401deaa7d495) |
