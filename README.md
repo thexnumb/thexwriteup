@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 10:39:10 GMT | TryHackMe: Net Sec Challenge | JC2122 | [Read More](https://medium.com/p/29c66d19ffb6) |
+| Fri, 09 Jan 2026 10:35:47 GMT | How Do I Call McAfee Support Number UK | Zuerevalexander | [Read More](https://medium.com/p/3979562cf3e2) |
+| Fri, 09 Jan 2026 10:34:39 GMT | 10 Pentest Findings That Instantly Impress Clients: Step-by-Step Guide for Security Pros | Very Lazy Tech | [Read More](https://medium.com/p/f3a68c1d355a) |
+| Fri, 09 Jan 2026 10:32:28 GMT | OSI Model vs TCP/IP Model — Explained with Real-World Examples | Shalu | [Read More](https://medium.com/p/dd1b2395954f) |
+| Fri, 09 Jan 2026 10:27:20 GMT | Top 10 Ethical Hacking Tools Every Cybersecurity Professional Should Learn | Sikhasinghh | [Read More](https://medium.com/p/671907bb707f) |
 | Fri, 09 Jan 2026 10:13:21 GMT | Poisoned Credentials — SOC Analyst Walkthrough (Blue Team CTF) | Al-Ameen Azeef | [Read More](https://medium.com/p/ebf8962bbf8d) |
 | Fri, 09 Jan 2026 10:04:25 GMT | Are AI Chatbots the New S3? | Kishor balan | [Read More](https://medium.com/p/f782b8e90701) |
+| Fri, 09 Jan 2026 10:03:47 GMT | ด่วน! ช่องโหว่ RCE ใน Veeam Backup & Replication เสี่ยงต่อการถูกเข้าควบคุมระบบสำรองข้อมูล | ThaiCERT By NCSA | [Read More](https://medium.com/p/d229c06c12ef) |
 | Fri, 09 Jan 2026 09:55:24 GMT | VAPT Services in Saudi Arabia for Banks, Fintech & Financial Institutions | Prakash Factosecure | [Read More](https://medium.com/p/5aa65247a964) |
 | Fri, 09 Jan 2026 09:54:35 GMT | Platforms for receiving OTPs are under pressure | NNayak | [Read More](https://medium.com/p/7ae4e1a3a746) |
 | Fri, 09 Jan 2026 09:53:53 GMT | Http Response Manipulation | Neeraj kath | [Read More](https://medium.com/p/b5d56176b024) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 05:17:11 GMT | Protecting Energy Supply Chains With Cyber Risk Accreditation | Kadhijahafiya | [Read More](https://medium.com/p/6f81d833e4b4) |
 | Fri, 09 Jan 2026 05:14:05 GMT | CVE-2025–61882 Explained: Why Cyber Security Testing Can’t Be Ignored | Pynesec | [Read More](https://medium.com/p/86e89f016c02) |
 | Fri, 09 Jan 2026 05:13:46 GMT | The 10 Commandments of Azure Security Architecture | Stephane Eyskens | [Read More](https://medium.com/p/4be9af396e9e) |
-| Fri, 09 Jan 2026 05:09:39 GMT | Is Denmark Really Letting People Copyright Their Face, Voice & Body? | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/9194a60d5891) |
-| Fri, 09 Jan 2026 05:07:38 GMT | IDOR in 2026: Same Bug, Bigger Damage — 10 GB of Chat History (Dating Application) | Gokuleswaran B | [Read More](https://medium.com/p/60f72a71be85) |
-| Fri, 09 Jan 2026 05:02:56 GMT | Mastering the Art of Cybersecurity: 10 Critical Skills for Safeguarding Digital Assets in the Era… | Manish Amarnani | [Read More](https://medium.com/p/31767b210991) |
-| Fri, 09 Jan 2026 04:59:02 GMT | Strengthen Cyber Defense Fundamentals — Ethical Hacking Foundation Certification | Adhiraj Kasabe | [Read More](https://medium.com/p/663ddd22e971) |
-| Fri, 09 Jan 2026 04:52:40 GMT | Logların İzinde: Ransomware Senaryosu | Ali Ekber KARA | [Read More](https://medium.com/p/6db3da7f5160) |
-| Fri, 09 Jan 2026 04:34:14 GMT | Vulnerability Assessment Services: A Proactive Approach to Modern Cybersecurity | Maxatlasofficial | [Read More](https://medium.com/p/8a1754e6f8f0) |
