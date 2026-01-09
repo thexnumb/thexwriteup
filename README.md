@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 23:39:27 GMT | Happy New Year 2025  — Welcome Back! Let’s Talk About the Updated OWASP Top 10 | Yamini Yadav_369 | [Read More](https://medium.com/p/b0fba21c197a) |
+| Fri, 09 Jan 2026 23:39:19 GMT | Hacking Humans | Lukasz Wierzbicki | [Read More](https://medium.com/p/c791f5b55b96) |
 | Fri, 09 Jan 2026 23:19:15 GMT | A Simple Shopify Open Redirect That Paid $500 ‍ | ab.infosec | [Read More](https://medium.com/p/1b358ce0969a) |
 | Fri, 09 Jan 2026 23:00:04 GMT | How I Passed ISC2 CC After Failing Twice | Roberto Junior | [Read More](https://medium.com/p/ca4dae232227) |
 | Fri, 09 Jan 2026 22:36:46 GMT | The Safest Record Is the One You Never Collected | Tyson Martin | [Read More](https://medium.com/p/488f0abbae3b) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 15:39:03 GMT | “Bug Bounty Bootcamp #12: Hacking Through Regex — How Bad Pattern Matching Creates Critical… | Aman Sharma | [Read More](https://medium.com/p/b92b68eb77c0) |
 | Fri, 09 Jan 2026 15:36:38 GMT | SSRF in PDF Generators | Fatimahasan | [Read More](https://medium.com/p/900de19572d3) |
 | Fri, 09 Jan 2026 15:27:18 GMT | The Intricacies of Sensitive Data Protection: 5 Hard-Earned Lessons | SecGuy | [Read More](https://medium.com/p/4ffb882e9117) |
-| Fri, 09 Jan 2026 15:26:07 GMT | A Guide to Safe Festive Shopping | Mr Technology | [Read More](https://medium.com/p/528e28124726) |
-| Fri, 09 Jan 2026 15:25:47 GMT | Cracking the Split-APK Code | bineeg | [Read More](https://medium.com/p/100af6bfebe1) |
