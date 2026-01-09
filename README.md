@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 05:19:02 GMT | Backend Security Basics (Part 2): Data Protection, Configuration, and Secure Operations | Silversky Technology | [Read More](https://medium.com/p/6f87e8b7e76e) |
+| Fri, 09 Jan 2026 05:17:50 GMT | n8n CVE-2026–21858 (“Ni8mare”) | SOCFortress | [Read More](https://medium.com/p/a656405fccce) |
+| Fri, 09 Jan 2026 05:17:11 GMT | Protecting Energy Supply Chains With Cyber Risk Accreditation | Kadhijahafiya | [Read More](https://medium.com/p/6f81d833e4b4) |
+| Fri, 09 Jan 2026 05:14:05 GMT | CVE-2025–61882 Explained: Why Cyber Security Testing Can’t Be Ignored | Pynesec | [Read More](https://medium.com/p/86e89f016c02) |
+| Fri, 09 Jan 2026 05:13:46 GMT | The 10 Commandments of Azure Security Architecture | Stephane Eyskens | [Read More](https://medium.com/p/4be9af396e9e) |
+| Fri, 09 Jan 2026 05:09:39 GMT | Is Denmark Really Letting People Copyright Their Face, Voice & Body? | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/9194a60d5891) |
+| Fri, 09 Jan 2026 05:07:38 GMT | IDOR in 2026: Same Bug, Bigger Damage — 10 GB of Chat History (Dating Application) | Gokuleswaran B | [Read More](https://medium.com/p/60f72a71be85) |
+| Fri, 09 Jan 2026 05:02:56 GMT | Mastering the Art of Cybersecurity: 10 Critical Skills for Safeguarding Digital Assets in the Era… | Manish Amarnani | [Read More](https://medium.com/p/31767b210991) |
+| Fri, 09 Jan 2026 04:59:02 GMT | Strengthen Cyber Defense Fundamentals — Ethical Hacking Foundation Certification | Adhiraj Kasabe | [Read More](https://medium.com/p/663ddd22e971) |
+| Fri, 09 Jan 2026 04:52:40 GMT | Logların İzinde: Ransomware Senaryosu | Ali Ekber KARA | [Read More](https://medium.com/p/6db3da7f5160) |
 | Fri, 09 Jan 2026 04:34:14 GMT | Vulnerability Assessment Services: A Proactive Approach to Modern Cybersecurity | Maxatlasofficial | [Read More](https://medium.com/p/8a1754e6f8f0) |
 | Fri, 09 Jan 2026 04:31:52 GMT | Microsoft Defender Is Not “Just Antivirus” — And That Misunderstanding Is Costing Organizations | Suraj Kumar | [Read More](https://medium.com/p/c1ceaa5ea593) |
 | Fri, 09 Jan 2026 04:24:18 GMT | The Truth Engine: Inside the SVARAEL-SRAL Consensus Protocol | SVARAEL(SRAL) | [Read More](https://medium.com/p/e0a76ef7b761) |
@@ -106,13 +116,3 @@ Why Cybersecurity Fails Before Code Runs | Mounir Akarkach | [Read More](https:/
 **Platform:**… | Rishith soni | [Read More](https://medium.com/p/1f635c4a81ad) |
 | Thu, 08 Jan 2026 18:02:06 GMT | One Forgotten Subdomain, Thousands of User Records — A Recon Story | Iski | [Read More](https://medium.com/p/6dcde55aaa7c) |
 | Thu, 08 Jan 2026 17:59:25 GMT | Archa CTF [2026] — Ghost Stallion | 3Bytes | [Read More](https://medium.com/p/1ba6e3438033) |
-| Thu, 08 Jan 2026 17:58:20 GMT | ️‍♂️Cybersecurity Insights: How Hackers Think to Protect Systems | Aliyan Ali | [Read More](https://medium.com/p/d68d48b3272b) |
-| Thu, 08 Jan 2026 17:56:45 GMT | CVE-2025–51414:Unrestricted file upload in Online Course Registration v3.1 | Tanush Kushwah | [Read More](https://medium.com/p/bd8b839be1d7) |
-| Thu, 08 Jan 2026 17:54:10 GMT | From Edge to Cloud: Pivoting to AWS via Compromised IoT Greengrass Devices | Arun Nair | [Read More](https://medium.com/p/657ba4927ca8) |
-| Thu, 08 Jan 2026 17:52:53 GMT | The Interface Singularity: When Your Messenger Became Your Bank | Hitcaff | [Read More](https://medium.com/p/89b972e048e7) |
-| Thu, 08 Jan 2026 17:50:34 GMT | Feedback-Driven Iteration and Fully Local webapp pentesting AI agent: Achieving ~78% on XBOW… | Yassine | [Read More](https://medium.com/p/199ef719bf01) |
-| Thu, 08 Jan 2026 17:42:15 GMT | Why Cybersecurity Is a Top Priority for Businesses in the UAE? | NSREEM | [Read More](https://medium.com/p/03fce00375dd) |
-| Thu, 08 Jan 2026 17:41:48 GMT | What Information Can You Extract From Just An Email Address | Abhay Parashar | [Read More](https://medium.com/p/38a673d09bfb) |
-| Thu, 08 Jan 2026 17:38:51 GMT | Designing a FedRAMP High Security Data Lake on AWS GovCloud | Ophir Zahavi | [Read More](https://medium.com/p/b59d1c80ddbe) |
-| Thu, 08 Jan 2026 17:37:13 GMT | Strong Home Computers That Keep Remote Work Running Smoothly | Geoffrey Wenger | [Read More](https://medium.com/p/eb242d5b0458) |
-| Thu, 08 Jan 2026 17:34:23 GMT | TryHackMe - Searchlight — IMINT - WriteUp | Axoloth | [Read More](https://medium.com/p/26aa12d6acdf) |
