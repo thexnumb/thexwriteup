@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 19:08:42 GMT | When a Break-down Leads to a Break-Out | Laura DeMaisBerg | [Read More](https://medium.com/p/4fbb5cd1bbfc) |
+| Fri, 09 Jan 2026 19:04:08 GMT | Linux broke me not the target | Manoj Nepal | [Read More](https://medium.com/p/c2ce94c9a999) |
+| Fri, 09 Jan 2026 19:03:37 GMT | AuthZen, Cedar, OPA, and Zanzibar-style FGA | Zeigeist | [Read More](https://medium.com/p/f72bd1c51395) |
+| Fri, 09 Jan 2026 19:02:47 GMT | The Ultimate React Native Security Guide: Protect Your App Like a Pro (2026 Edition) | Arslan Shaukat | [Read More](https://medium.com/p/25c0eed54238) |
+| Fri, 09 Jan 2026 19:01:58 GMT | Luxury Hotel Security Officer Job 2026 in Singapore Central Region. Apply Today | Mazdori Kamao | [Read More](https://medium.com/p/c6400d624cf8) |
+| Fri, 09 Jan 2026 19:01:39 GMT | Creating a Vulnerable Windows Network Share | Johnny Meintel | [Read More](https://medium.com/p/fd43ec5bf8f4) |
+| Fri, 09 Jan 2026 18:53:37 GMT | Agentic SOC Isn’t a Magic Robot. It’s an Operating Model. | Denny Roger | [Read More](https://medium.com/p/31087594bb12) |
+| Fri, 09 Jan 2026 18:52:30 GMT | Designing Solutions That Survive Reality: 7 Architecture Principles That Actually Matter | Sandeep Kumar Maylavaram | [Read More](https://medium.com/p/00a20d65e791) |
+| Fri, 09 Jan 2026 18:48:30 GMT | C0M-0lhO CTFs Write-Ups: Flags with Original Sources | StrangeRwhite | [Read More](https://medium.com/p/e2d28dcccace) |
+| Fri, 09 Jan 2026 18:46:39 GMT | The security Guard’s Nightly Patrol ended in my wet pussy | Johnson Kelly❤️ | [Read More](https://medium.com/p/6034278e2f3b) |
+| Fri, 09 Jan 2026 18:43:33 GMT | Security Without Proof Is Just a Belief System | Gary Michael Weiner | [Read More](https://medium.com/p/59cf150cfa91) |
+| Fri, 09 Jan 2026 18:39:49 GMT | Gitxray v1.0.20: Inferring Timezones for Contributors, Commit Pattern Analysis, and more. | Kulkan Security | [Read More](https://medium.com/p/f49cd4e35862) |
 | Fri, 09 Jan 2026 18:27:15 GMT | How to Spot Fake or Impersonation Profiles Online | Social Searcher | [Read More](https://medium.com/p/90cdc7e959de) |
 | Fri, 09 Jan 2026 18:05:25 GMT | Exploring NSUDO to better filter unwanted port 443 activity on windows 11 | William Ashley | [Read More](https://medium.com/p/dd273b4c7d8c) |
 | Fri, 09 Jan 2026 18:03:33 GMT | Ethical Hacking — A Simple Story | Ahmed Naeem | [Read More](https://medium.com/p/052ce22a3eca) |
@@ -30,6 +42,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 17:07:26 GMT | End-to-End Spring Security: What Really Happens When Your API Is Hit (Spring Boot Series-10) | Asutosh Nayak | [Read More](https://medium.com/p/ce70c96d1e45) |
 | Fri, 09 Jan 2026 17:06:48 GMT | ZombieAgent: The ChatGPT bug that refuses to die | Sudarshan | [Read More](https://medium.com/p/d2d96c1f6cf8) |
 | Fri, 09 Jan 2026 17:05:15 GMT | Dig Dug | Karim Hesham | [Read More](https://medium.com/p/d8d05ceeb836) |
+| Fri, 09 Jan 2026 16:55:43 GMT | Nama Elit, UI Sulit | mznhnryu | [Read More](https://medium.com/p/c9eb047c63c6) |
 | Fri, 09 Jan 2026 16:51:06 GMT | Day 6 — Inside a SOC: Team Structure, L1 Analyst Workflow, and My First URL Investigation | Drishti Pandey | [Read More](https://medium.com/p/f250dbc62e2f) |
 | Fri, 09 Jan 2026 16:50:53 GMT | Mandiant Attack Cycle Nedir? Siber Saldırıların Adım Adım İncelenmesi | Arda Derya | [Read More](https://medium.com/p/1b60c8994a1a) |
 | Fri, 09 Jan 2026 16:50:34 GMT | MITRE ATT&CK Matrix: Saldırganlar Nasıl Düşünür , Biz Nasıl Anlarız? | Arda Derya | [Read More](https://medium.com/p/7077a2088902) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 13:11:53 GMT | Advent of Cyber — Day 9: Passwords — A Cracking Christmas | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/ca0293436d70) |
 | Fri, 09 Jan 2026 13:10:01 GMT | Google Antigravity adds Sonatype security screening | Nanthakumar | [Read More](https://medium.com/p/a1c10cd32a0c) |
 | Fri, 09 Jan 2026 13:06:58 GMT | A Beginner’s Guide to the OAuth 2.0 JWT Bearer Flow | Namrata | [Read More](https://medium.com/p/41b072db934d) |
-| Fri, 09 Jan 2026 13:05:25 GMT | Cybersecurity courses in Kochi | Fordot Real | [Read More](https://medium.com/p/279204eeb7c6) |
-| Fri, 09 Jan 2026 13:02:53 GMT | Mistakes I Made While Building Production APIs (So You Don’t Have To) | AngsCode | [Read More](https://medium.com/p/a366f1642556) |
-| Fri, 09 Jan 2026 13:02:53 GMT | The Cybersecurity Booklist: 11 Must-Reads for 2026 from The Three Buddy Problem Podcast | Costin Raiu | [Read More](https://medium.com/p/ef8216958bd3) |
-| Fri, 09 Jan 2026 13:00:26 GMT | Trustee: The AI that helps you avoid online scams, before it’s too late | Trustee | [Read More](https://medium.com/p/b77cece6fc08) |
-| Fri, 09 Jan 2026 12:58:30 GMT | The Hidden Cyber Risks UAE Organizations Miss Without Regular VAPT | ANSI Technologies | [Read More](https://medium.com/p/713e9e058b48) |
-| Fri, 09 Jan 2026 12:57:59 GMT | Why Regular VAPT Is the Only Reliable Way to Understand Cyber Risk in the UAE | ANSI Technologies | [Read More](https://medium.com/p/25f6b7e5fcc0) |
-| Fri, 09 Jan 2026 12:54:59 GMT | For the lonely and struggling hearts | kasiye | [Read More](https://medium.com/p/fccaf66365fa) |
-| Fri, 09 Jan 2026 12:48:36 GMT | Keeping Your Computer Safe: Practical Protective Measures Using Windows Command Line | MDLICXV | [Read More](https://medium.com/p/7c5de42433f1) |
-| Fri, 09 Jan 2026 12:48:25 GMT | Empire Breakout: VulnHub CTF Walkthrough | Vivek Goswami | [Read More](https://medium.com/p/fe86785fddc8) |
-| Fri, 09 Jan 2026 12:41:40 GMT | Penetration Testing for Business Cybersecurity in Dubai | Saaiye IT | [Read More](https://medium.com/p/4ee27fc173f2) |
-| Fri, 09 Jan 2026 12:39:15 GMT | Weekly Update | Techwin Cyber | [Read More](https://medium.com/p/68f6873beb8c) |
-| Fri, 09 Jan 2026 12:36:30 GMT | Security and Compliance in Customer Service Platforms: What Today’s Businesses Can’t Ignore | David | [Read More](https://medium.com/p/f4051938a6ec) |
-| Fri, 09 Jan 2026 12:26:21 GMT | Measuring Alert Effectiveness to Secure EVM Contracts | Mkapoor | [Read More](https://medium.com/p/be2050dfeca3) |
