@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 09 Jan 2026 14:41:46 GMT | [HackTheBox — Machine] Postman (Blind Writeup) | 0xr35p3c7 | [Read More](https://medium.com/p/e0b306fc4f91) |
+| Fri, 09 Jan 2026 14:33:00 GMT | Using MITMf Against Real Networks: A Comprehensive Guide | Vignesh R | [Read More](https://medium.com/p/a43f80dd1d56) |
+| Fri, 09 Jan 2026 14:31:17 GMT | IOCS 2025 and the End of Tool-First Operations: Five Signals for the Next Era of I&O | saliljk@gmail.com | [Read More](https://medium.com/p/d105aac3395f) |
+| Fri, 09 Jan 2026 14:29:00 GMT | Müasir Kibertəhlükələrin Anatomiyası | Cavidtaqiyev | [Read More](https://medium.com/p/9c99edf24c21) |
+| Fri, 09 Jan 2026 14:26:53 GMT | Cybersecurity & Web3 — The Architectural Pivot  From Perimeter to Protocol | Abubakar Ogirima | [Read More](https://medium.com/p/c105af6f36c7) |
 | Fri, 09 Jan 2026 14:22:46 GMT | Why Crypto Crime Victims Prefer to Stay Silent | David SEHYEON Baek | [Read More](https://medium.com/p/c8f5d2e3aa75) |
 | Fri, 09 Jan 2026 14:21:43 GMT | CTF Writeup: Breaking the Cave Lab through LFI and SUID Misconfigurations | Ankush Prasad Sah | [Read More](https://medium.com/p/54fb132050c5) |
 | Fri, 09 Jan 2026 14:14:09 GMT | A 2009 PowerPoint Bug Is Back in 2026: Why “Old CVEs” Still Beat Modern Defenses | Suleiman Tawil | [Read More](https://medium.com/p/ee53600783c9) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 09:27:32 GMT | THM - Boogeyman 2 | Francesco Pastore | [Read More](https://medium.com/p/9f95c8637e66) |
 | Fri, 09 Jan 2026 09:23:00 GMT | Modern Cybersecurity: Simple Facts Every Business Leader Should Know | Wolf Communication Pvt Ltd | [Read More](https://medium.com/p/7545e9bdf523) |
 | Fri, 09 Jan 2026 09:21:49 GMT | The Hidden Costs of Managing Cybersecurity Without a Dedicated Security Partner | Gavin Ellis | [Read More](https://medium.com/p/3f195ae03082) |
-| Fri, 09 Jan 2026 09:13:09 GMT | AI-Driven Ethical Hacking by AAVETech: A Globally Recognized Cybersecurity Mission | Akash PS - Elite Ethical Hacker | [Read More](https://medium.com/p/f0b0aa358e71) |
-| Fri, 09 Jan 2026 09:12:12 GMT | The Science of Fairness: Verifying Stochastic Integrity in Distributed Systems (2026) | Holeinone | [Read More](https://medium.com/p/ea7df947deb9) |
-| Fri, 09 Jan 2026 09:08:13 GMT | Hunting Living off the Land Attacks with Wazuh | Enes Cayvarli | [Read More](https://medium.com/p/0cbe0b7f51d5) |
-| Fri, 09 Jan 2026 09:06:31 GMT | ZTNA: Ultimate Zero Trust Network Access Guide 2026 | Snskies | [Read More](https://medium.com/p/43911ce5e13f) |
-| Fri, 09 Jan 2026 09:06:20 GMT | AI Security and Data Protection: Best Practices for Trustworthy AI | Jay | [Read More](https://medium.com/p/efc77367aed7) |
