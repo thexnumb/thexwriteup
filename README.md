@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 19:34:25 GMT | Active Directory Attack Path Visualisation & Threat Detection System | Abhishek Yadav | [Read More](https://medium.com/p/e41f87b4b68c) |
+| Sat, 10 Jan 2026 19:30:59 GMT | 17.5 Million Instagram Users Hit by Fresh Data Leak — What Happened, What Was Taken, and What You… | Faisal haque | [Read More](https://medium.com/p/ca66d9802cd6) |
+| Sat, 10 Jan 2026 19:28:25 GMT | How Foreign Bots and Fake Outrage Are Turning Americans Against Their Own Country And What You Can… | Infinite Solutions by J. I. Memphis | [Read More](https://medium.com/p/f2ad31e6ceb8) |
+| Sat, 10 Jan 2026 19:21:34 GMT | Kali Linux Lab Home lab — Part 1 | Jacob Ferguson | [Read More](https://medium.com/p/4402655dbaa2) |
+| Sat, 10 Jan 2026 19:20:05 GMT | Cybersecurity Essentials: Exploring Zphisher for Ethical Hacking. | Ceo Defender | [Read More](https://medium.com/p/bcb4377ec3cd) |
 | Sat, 10 Jan 2026 19:11:11 GMT | AWS Privilege Escalation Walkthrough | Spookz | [Read More](https://medium.com/p/f991a431c5bf) |
 | Sat, 10 Jan 2026 19:00:27 GMT | Lazy Admin Walkthrough | Abdelrabo%00 | [Read More](https://medium.com/p/38e1a4e2fc7f) |
 | Sat, 10 Jan 2026 18:59:52 GMT | Why Bayes’ Theorem Should Belong in Every Cybersec Analyst’s Toolkit | Dominik M | [Read More](https://medium.com/p/a7e19e541c67) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 Jan 2026 12:18:26 GMT | How I Passed SY0–701 Security+ Using Officaial SkillCertExams Dumps | Javov | [Read More](https://medium.com/p/8306457d9ecb) |
 | Sat, 10 Jan 2026 12:11:16 GMT | “Just give them SSH” — The Five Words That Ruin My Day | Kunal Ghosh | [Read More](https://medium.com/p/c8fffaee9018) |
 | Sat, 10 Jan 2026 12:03:00 GMT | SQL Injection in OopsSec Store: From Dropdown to Database Dump | OopsSec Store | [Read More](https://medium.com/p/d801ee99684a) |
-| Sat, 10 Jan 2026 12:02:51 GMT | Pourquoi tant de débutants en cybersécurité recommencent chaque année ? | nullbyte | [Read More](https://medium.com/p/1669781ae59b) |
-| Sat, 10 Jan 2026 12:00:12 GMT | Cybersecurity Implications of Exposing Sensitive Financial Information Online | Akanbi Paul Favour | [Read More](https://medium.com/p/1dd1978eae56) |
-| Sat, 10 Jan 2026 11:59:42 GMT | TryHackMe Walkthrough: Undefined Lab Writeup | Ankush Prasad Sah | [Read More](https://medium.com/p/59612373a6ac) |
-| Sat, 10 Jan 2026 11:58:44 GMT | Zero Trust Architecture (ZTA): A Practical and Strategic Approach to Securing Modern Networks | Medessa | [Read More](https://medium.com/p/0a92b9b27c44) |
-| Sat, 10 Jan 2026 11:51:02 GMT | Conquering Cybersecurity Capstone Challenges: A Hands-On Journey in Ethical Hacking | Seun odebode | [Read More](https://medium.com/p/12de6ced2b0b) |
