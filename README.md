@@ -12,8 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 01:48:13 GMT | How we brought mathematically verifiable audit trails to the edge — and why it matters for the… | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/04b4b5936539) |
+| Sat, 10 Jan 2026 01:47:50 GMT | Microservices or Monolith? A Practical Guide to Choosing the Right Architecture | Sameena Begam Savukath Ali | [Read More](https://medium.com/p/112ea1789500) |
+| Sat, 10 Jan 2026 01:44:32 GMT | Why No-API, local-first recon will be the weapon of choice in 2026 | Prism Recon | [Read More](https://medium.com/p/fe69883feac2) |
+| Sat, 10 Jan 2026 01:41:01 GMT | Cybersecurity Starts at Hiring, Not at Departure | Rahid Alekberli | [Read More](https://medium.com/p/e10b4b21da8a) |
+| Sat, 10 Jan 2026 01:40:58 GMT | Which Bugs to Hunt for in 2026 | Appsec.pt | [Read More](https://medium.com/p/9359d33b0f57) |
+| Sat, 10 Jan 2026 01:40:51 GMT | HEY @BigTech DUDES GUESS WHAT, THEY ARE ABOUT TO TERMINATE MY SISTERS PARENTAL RIGHTS FOREVER!!! | May May | [Read More](https://medium.com/p/a99cb8323850) |
+| Sat, 10 Jan 2026 01:09:42 GMT | Does VPN use more data? Yes, and here’s why | Millie Bobby | [Read More](https://medium.com/p/7addff6527c4) |
+| Sat, 10 Jan 2026 01:02:46 GMT | Top 10 Reasons to Pick Vault Enterprise and/or HCP Vault | Raymon Epping | [Read More](https://medium.com/p/00006c06309c) |
+| Sat, 10 Jan 2026 00:34:47 GMT | Bug Bounty Hunters: Hunt this bug in 2026 | Jeosantos | [Read More](https://medium.com/p/368a740c8d8f) |
+| Sat, 10 Jan 2026 00:32:44 GMT | Wireshark Traffic Analysis Lab — HackTheBox | Cybersecurity Simplified | [Read More](https://medium.com/p/9e4785ed65c6) |
+| Sat, 10 Jan 2026 00:09:56 GMT | Common Security Bugs in Go — Part 2: Filesystem & Input Handling | Dhruv Gundecha | [Read More](https://medium.com/p/f998149d6864) |
+| Sat, 10 Jan 2026 00:06:45 GMT | Antarctica Knows Our Names | Pricelesspeace | [Read More](https://medium.com/p/20e0622f8a2d) |
+| Sat, 10 Jan 2026 00:02:48 GMT | Commix Guide: Automating OS Command Injection in Bug Bounty | JPablo13 | [Read More](https://medium.com/p/26735e722fe4) |
+| Fri, 09 Jan 2026 23:59:35 GMT | 3 Habits for a Safer Online Life | Daria Michajlova | [Read More](https://medium.com/p/6116db4884d1) |
+| Fri, 09 Jan 2026 23:47:33 GMT | Knife: The Invisible Wound in the Supply Chain | Nicholas Mullenski | [Read More](https://medium.com/p/5a2df1d3683d) |
+| Fri, 09 Jan 2026 23:44:02 GMT | CVE‑2026‑21876: A Critical Multipart Parsing Flaw in OWASP Core Rule Set | gm0 | [Read More](https://medium.com/p/ef9cc11a7338) |
+| Fri, 09 Jan 2026 23:39:33 GMT | Breaking Password Reset Logic: A Comprehensive Exploitation Guide | Fuzzyy Duck | [Read More](https://medium.com/p/3c626aedb0fa) |
 | Fri, 09 Jan 2026 23:39:27 GMT | Happy New Year 2025  — Welcome Back! Let’s Talk About the Updated OWASP Top 10 | Yamini Yadav_369 | [Read More](https://medium.com/p/b0fba21c197a) |
 | Fri, 09 Jan 2026 23:39:19 GMT | Hacking Humans | Lukasz Wierzbicki | [Read More](https://medium.com/p/c791f5b55b96) |
+| Fri, 09 Jan 2026 23:39:13 GMT | A List of Every Cybersecurity Abbreviation There Is (Part 1) | Raymond Ebonine | [Read More](https://medium.com/p/c359f0b4e2ee) |
+| Fri, 09 Jan 2026 23:34:27 GMT | Zero-Knowledge Proof Fundamentals | Esra Kayhan | [Read More](https://medium.com/p/d19ca6578a22) |
 | Fri, 09 Jan 2026 23:19:15 GMT | A Simple Shopify Open Redirect That Paid $500 ‍ | ab.infosec | [Read More](https://medium.com/p/1b358ce0969a) |
 | Fri, 09 Jan 2026 23:00:04 GMT | How I Passed ISC2 CC After Failing Twice | Roberto Junior | [Read More](https://medium.com/p/ca4dae232227) |
 | Fri, 09 Jan 2026 22:36:46 GMT | The Safest Record Is the One You Never Collected | Tyson Martin | [Read More](https://medium.com/p/488f0abbae3b) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 16:50:53 GMT | Mandiant Attack Cycle Nedir? Siber Saldırıların Adım Adım İncelenmesi | Arda Derya | [Read More](https://medium.com/p/1b60c8994a1a) |
 | Fri, 09 Jan 2026 16:50:34 GMT | MITRE ATT&CK Matrix: Saldırganlar Nasıl Düşünür , Biz Nasıl Anlarız? | Arda Derya | [Read More](https://medium.com/p/7077a2088902) |
 | Fri, 09 Jan 2026 16:49:44 GMT | The Cat-and-Mouse Crap Between Greedy Websites and Adblockers: | Hugh Jorgen | [Read More](https://medium.com/p/ff556eb99cbe) |
-| Fri, 09 Jan 2026 16:42:57 GMT | You wouldn’t wanna escape this security ni8mare: Exploiting n8n CVE-2026–21858 & CVE-2025–68613 | Sachin      Verlekar | [Read More](https://medium.com/p/615064b8f942) |
-| Fri, 09 Jan 2026 16:42:27 GMT | Ethical Hacking: | Tahir | [Read More](https://medium.com/p/e65230c3a576) |
-| Fri, 09 Jan 2026 16:27:51 GMT | ️DC: 3 — Complete Walkthrough (Beginner-Friendly) - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/0a4114fa385e) |
-| Fri, 09 Jan 2026 16:21:42 GMT | To Someone Who Cares | Aastha Shukla | [Read More](https://medium.com/p/f990608aa150) |
-| Fri, 09 Jan 2026 16:19:54 GMT | Exploring Activity Timeline — A Glimpse of Data Forensic | Ankit M | [Read More](https://medium.com/p/b8af5fd3dd0d) |
-| Fri, 09 Jan 2026 16:15:03 GMT | Passwordless Isn’t the Future It’s Already Here (And IAM Is Being Rewritten) | Sunnysinha | [Read More](https://medium.com/p/8ddfe2cb87e7) |
-| Fri, 09 Jan 2026 16:14:41 GMT | Next-Gen Cybersecurity with AI: How Intelligent Defense Is Redefining Digital Safety | Data Matric | [Read More](https://medium.com/p/6c0182e8d48e) |
-| Fri, 09 Jan 2026 16:14:05 GMT | Cybersecurity 2026: The Biggest Risks for Businesses — and How to Protect Your Company | Cordula Boeck | [Read More](https://medium.com/p/70efe8e18862) |
-| Fri, 09 Jan 2026 16:09:22 GMT | How to Rekey a Kwikset Smart Lock: A Professional Guide | Sure Lock & Key LLC | [Read More](https://medium.com/p/2ade7556f7c6) |
-| Fri, 09 Jan 2026 16:03:27 GMT | Quo vadis? (ECSC 2024 (Italy)) — cryptohack | SPIDER1SEC | [Read More](https://medium.com/p/70cd091be2b8) |
-| Fri, 09 Jan 2026 16:02:08 GMT | AI-Driven Defense Ecosystems: How Autonomous Response Is Redefining Cybersecurity in 2026 | IT_Engineer | [Read More](https://medium.com/p/e4c4c6eec69e) |
-| Fri, 09 Jan 2026 16:02:01 GMT | OverTheWire Bandit Level 12 → Level 13 : When Data Lies About What It Is | Sivanesan M | [Read More](https://medium.com/p/23ee22621454) |
-| Fri, 09 Jan 2026 16:01:58 GMT | Reflecting with AI: My Experiment in building a Digital Accountability Partner [Part 1] | Clement Leong | [Read More](https://medium.com/p/60c8cf2f728d) |
-| Fri, 09 Jan 2026 15:57:50 GMT | Comprehensive Python Roadmap 2026: Mastering Fundamentals to Future Trends | Maha K | [Read More](https://medium.com/p/174dbed32bb4) |
-| Fri, 09 Jan 2026 15:56:17 GMT | Why a UPI OSINT Tool Cannot (and Should Not) Exist | Secuverse | [Read More](https://medium.com/p/48a1425b9876) |
-| Fri, 09 Jan 2026 15:55:21 GMT | Security 101: Building Trust in a Digital World — Understanding Digital Certificates | Kunal Sinha | [Read More](https://medium.com/p/f84f86206c8a) |
-| Fri, 09 Jan 2026 15:39:03 GMT | “Bug Bounty Bootcamp #12: Hacking Through Regex — How Bad Pattern Matching Creates Critical… | Aman Sharma | [Read More](https://medium.com/p/b92b68eb77c0) |
-| Fri, 09 Jan 2026 15:36:38 GMT | SSRF in PDF Generators | Fatimahasan | [Read More](https://medium.com/p/900de19572d3) |
-| Fri, 09 Jan 2026 15:27:18 GMT | The Intricacies of Sensitive Data Protection: 5 Hard-Earned Lessons | SecGuy | [Read More](https://medium.com/p/4ffb882e9117) |
