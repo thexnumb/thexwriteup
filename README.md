@@ -12,11 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 05:42:23 GMT | Business Logic Flaws: The Vulnerability That Thinks Like a Human | Deezacker | [Read More](https://medium.com/p/04c88583b1c0) |
+| Sat, 10 Jan 2026 05:28:06 GMT | Security Mistakes Frontend Engineers Make (Even at Senior Level) | Sameer Thite | [Read More](https://medium.com/p/bef4180f2e92) |
+| Sat, 10 Jan 2026 05:19:31 GMT | PJPT Exam Review: What to Expect From TCM Security’s Practical Junior Penetration Tester… | VulnKraft | [Read More](https://medium.com/p/257dd8a104df) |
 | Sat, 10 Jan 2026 05:09:46 GMT | Why Campus Ambassador Programs and Internships Are the Real Career Advantage for Students… | Ankit rai | [Read More](https://medium.com/p/0648eeb2caaf) |
 | Sat, 10 Jan 2026 05:07:16 GMT | PNPT Exam Review: What the Exam Is Really Like | VulnKraft | [Read More](https://medium.com/p/85ab99037683) |
 | Sat, 10 Jan 2026 05:06:42 GMT | APICrash writeup — YesWeHack dojo | B13ss3d | [Read More](https://medium.com/p/d62236c5c717) |
 | Sat, 10 Jan 2026 05:06:28 GMT | APICrash writeup — YesWeHack dojo | B13ss3d | [Read More](https://medium.com/p/d44e660fea49) |
+| Sat, 10 Jan 2026 05:03:45 GMT | Lab:Web cache poisoning via an unkeyed query parameter - Portswigger | L4V4NY4  AGR3 | [Read More](https://medium.com/p/3a19663c8e8a) |
 | Sat, 10 Jan 2026 05:03:09 GMT | Why Sites Get Hacked: 7 Top Causes of Website Malware Infections | interdata-vn | [Read More](https://medium.com/p/0437b154788c) |
+| Sat, 10 Jan 2026 04:56:57 GMT | [TryHackMe Write-up] Airplane | lunagotpwned | [Read More](https://medium.com/p/e9e0673d4a1b) |
 | Sat, 10 Jan 2026 04:56:52 GMT | AI-Powered Safety in Logistics: How Smart Warehouses Are Transforming Operations? | Dolon Ghosh | [Read More](https://medium.com/p/d7f9f934b8fb) |
 | Sat, 10 Jan 2026 04:54:37 GMT | Data does not Lie, but Probability DOES!!! | Seth J | [Read More](https://medium.com/p/1f544bfd53b7) |
 | Sat, 10 Jan 2026 04:53:37 GMT | Authentication vs Authorization: Kenapa Login Saja Tidak Cukup? | IMVANZ | [Read More](https://medium.com/p/3e808d78a9ab) |
@@ -90,6 +95,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 21:10:16 GMT | Insider Threats Explained: Why Training Your Team is Non-Negotiable | Kenn Anderson, Jr. | [Read More](https://medium.com/p/f5c967068cca) |
 | Fri, 09 Jan 2026 21:06:01 GMT | Understanding AWS WAF Architecture and Request Inspection | Shivanshu Sharma | [Read More](https://medium.com/p/4452eb059d0a) |
 | Fri, 09 Jan 2026 21:05:13 GMT | Your Car’s Biggest Blind Spot Isn’t on the Road — It’s in the Code. | Semih Araz | [Read More](https://medium.com/p/366118276bbf) |
+| Fri, 09 Jan 2026 20:52:08 GMT | Identidade verdadeira em Cristo | Filipe André Gaio | [Read More](https://medium.com/p/ea096667dfb9) |
 | Fri, 09 Jan 2026 20:43:23 GMT | Beyond the Green Checkmark: The Case for Semantic Static Analysis in Flutter | Saropa Contacts News | [Read More](https://medium.com/p/a592942d4460) |
 | Fri, 09 Jan 2026 20:34:21 GMT | What Is a Local Tradition in Omuooke That Has Adapted in a Surprising Way Because of New Technology? | ROYAL FAMILY NEWS UPDATE | [Read More](https://medium.com/p/81ffc2393a7a) |
 | Fri, 09 Jan 2026 20:27:00 GMT | THE INTEGRITY COLLAPSE | Pravesh Sharma | [Read More](https://medium.com/p/7f2196bc9dec) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 19:40:01 GMT | HexTree Intent Attack Surface — Android Pentesting Walkthrough | d4vnull | [Read More](https://medium.com/p/47d975606711) |
 | Fri, 09 Jan 2026 19:38:45 GMT | DockerLabs Writeup — Wargames (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/2aeb0f78404b) |
 | Fri, 09 Jan 2026 19:38:18 GMT | The Power of Cybersecurity: Beyond What You’ve Heard | Zhenwarx | [Read More](https://medium.com/p/23dd15f63a79) |
-| Fri, 09 Jan 2026 19:34:23 GMT | My First Critical Bounty: How I Went From robots.txt to Full Admin Access. | Johnson (Root) | [Read More](https://medium.com/p/322ae07f1247) |
-| Fri, 09 Jan 2026 19:30:06 GMT | Write-ups - ArchaCTF_2026 | !US3R | [Read More](https://medium.com/p/dbe087a12d11) |
-| Fri, 09 Jan 2026 19:25:27 GMT | ️DC: 4 — Complete Walkthrough (Beginner-Friendly) - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/d33275fe08b8) |
-| Fri, 09 Jan 2026 19:19:08 GMT | Securing SSH Access to AWS EC2: From Perimeter Controls to Detection | Surya Naga Sesank Munukutla | [Read More](https://medium.com/p/b313e152aa8f) |
-| Fri, 09 Jan 2026 19:08:42 GMT | When a Break-down Leads to a Break-Out | Laura DeMaisBerg | [Read More](https://medium.com/p/4fbb5cd1bbfc) |
-| Fri, 09 Jan 2026 19:04:08 GMT | Linux broke me not the target | Manoj Nepal | [Read More](https://medium.com/p/c2ce94c9a999) |
