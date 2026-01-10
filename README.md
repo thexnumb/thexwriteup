@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 08:46:33 GMT | Making Sense of Cyber Laws in India: Chapter One | Vasuki | [Read More](https://medium.com/p/63a062547811) |
+| Sat, 10 Jan 2026 08:39:49 GMT | Trust at the Core: How Technology and People Build Cyber Resilience | Mehran Muslimi | [Read More](https://medium.com/p/34f5cf7e6c5e) |
+| Sat, 10 Jan 2026 08:21:24 GMT | The ‘Temporary’ Test Account That Became Permanent Access: How One Small Oversight Led to System… | 1$ Mistake | [Read More](https://medium.com/p/f2c684bd10f6) |
+| Sat, 10 Jan 2026 08:21:24 GMT | Path for IT or Cyber | Zeeshan Punjwani | [Read More](https://medium.com/p/c2d822439d27) |
 | Sat, 10 Jan 2026 08:15:48 GMT | Microsoft Word Just Fixed a Very Annoying Problem | Faizanansari | [Read More](https://medium.com/p/a827a70cd844) |
 | Sat, 10 Jan 2026 08:15:26 GMT | Bug Bounty Tools: A Practical List of Old & New Tools Real Hackers Use | Monika sharma | [Read More](https://medium.com/p/bbf7eb7009f8) |
 | Sat, 10 Jan 2026 08:06:11 GMT | How to Stop Caring About What People Think | Vijay Kumar Gupta | [Read More](https://medium.com/p/15c5feac93fc) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 23:00:04 GMT | How I Passed ISC2 CC After Failing Twice | Roberto Junior | [Read More](https://medium.com/p/ca4dae232227) |
 | Fri, 09 Jan 2026 22:36:46 GMT | The Safest Record Is the One You Never Collected | Tyson Martin | [Read More](https://medium.com/p/488f0abbae3b) |
 | Fri, 09 Jan 2026 22:36:33 GMT | Shadow AI Is Still Everywhere — And It’s Putting Enterprises at Risk | Cyber-AppSec | [Read More](https://medium.com/p/88bf8a0fa2a6) |
-| Fri, 09 Jan 2026 22:33:41 GMT | Rangeforce : REvil Ransomeware Detection & Response | Pwnedproof | [Read More](https://medium.com/p/35992addd4d9) |
-| Fri, 09 Jan 2026 22:29:39 GMT | Lacroix v. | Clacroix | [Read More](https://medium.com/p/eb37fa71908f) |
-| Fri, 09 Jan 2026 22:17:26 GMT | Essential Windows Command-Line Defenses Against Hackers | MDLICXV | [Read More](https://medium.com/p/a728f64135e4) |
-| Fri, 09 Jan 2026 22:10:00 GMT | Building your own AI SOC? Here’s how to succeed | monzy merza | [Read More](https://medium.com/p/52fdbe19f453) |
