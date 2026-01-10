@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 10:24:00 GMT | What is Zero Trust Architecture ? | Anmol Singh Yadav | [Read More](https://medium.com/p/28fd6a6c55e7) |
+| Sat, 10 Jan 2026 10:21:19 GMT | eJPT - Vulnerability Assessment CTF | Francesco Pastore | [Read More](https://medium.com/p/041cb275e60b) |
 | Sat, 10 Jan 2026 10:13:32 GMT | CISA at a Crossroads: National Security in 2026 | Krishna M S | [Read More](https://medium.com/p/8ee5f05121dc) |
 | Sat, 10 Jan 2026 10:07:19 GMT | ❌ Why Most People Fail in Cybersecurity Even After Learning Tools | Sooraj Pandey | [Read More](https://medium.com/p/8283c7fb3b7c) |
 | Sat, 10 Jan 2026 10:06:52 GMT | Hands‑On Cybersecurity Projects: Threat Detection, Penetration Testing & Malware Analysis | Sadikaljarif | [Read More](https://medium.com/p/1c96406d1e1b) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 Jan 2026 01:48:13 GMT | How we brought mathematically verifiable audit trails to the edge — and why it matters for the… | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/04b4b5936539) |
 | Sat, 10 Jan 2026 01:47:50 GMT | Microservices or Monolith? A Practical Guide to Choosing the Right Architecture | Sameena Begam Savukath Ali | [Read More](https://medium.com/p/112ea1789500) |
 | Sat, 10 Jan 2026 01:44:32 GMT | Why No-API, local-first recon will be the weapon of choice in 2026 | Prism Recon | [Read More](https://medium.com/p/fe69883feac2) |
-| Sat, 10 Jan 2026 01:41:01 GMT | Cybersecurity Starts at Hiring, Not at Departure | Rahid Alekberli | [Read More](https://medium.com/p/e10b4b21da8a) |
-| Sat, 10 Jan 2026 01:40:58 GMT | Which Bugs to Hunt for in 2026 | Appsec.pt | [Read More](https://medium.com/p/9359d33b0f57) |
