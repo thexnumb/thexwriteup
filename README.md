@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 16:37:42 GMT | Introduction | Zbyte | [Read More](https://medium.com/p/edc1811f2079) |
+| Sat, 10 Jan 2026 16:32:10 GMT | Back to Basics #7: Internet Protocol (IPv4) | Norman Kolarikkal | [Read More](https://medium.com/p/4858e81166de) |
+| Sat, 10 Jan 2026 16:30:47 GMT | ✍ Security and Governance in MCP — Permissions, Isolation, Sandboxing, Auditing, and Enterprise… | Jyoti Dabass, Ph.D. | [Read More](https://medium.com/p/7b476cb8657c) |
+| Sat, 10 Jan 2026 16:30:06 GMT | Attacking and Defending a Windows Network Share | Johnny Meintel | [Read More](https://medium.com/p/ff61b8d4cb7b) |
+| Sat, 10 Jan 2026 16:28:35 GMT | Mr. Robot no TryHackme | Matheus Viana | [Read More](https://medium.com/p/e3a41b0553ca) |
+| Sat, 10 Jan 2026 16:26:19 GMT | Cyber Counterintelligence The Art of Digital Deception | Odai Mherat | [Read More](https://medium.com/p/14683c0b4b23) |
 | Sat, 10 Jan 2026 16:23:44 GMT | Install & Configure OpenVAS on a MacBook (macOS) Using Docker Desktop — Step-by-Step Guide | Tanveer Ahmed | [Read More](https://medium.com/p/1396ae394f3e) |
+| Sat, 10 Jan 2026 16:20:20 GMT | TryHackMe — Blog Room Walkthrough | Ankit | [Read More](https://medium.com/p/be641ea301eb) |
 | Sat, 10 Jan 2026 16:16:09 GMT | Offencive Security Intro | Notalive | [Read More](https://medium.com/p/063943d93c8f) |
 | Sat, 10 Jan 2026 16:00:01 GMT | Entry Points into Cybersecurity: Early Career Advice for Beginners Worldwide | Victoria Coker | [Read More](https://medium.com/p/514d811f29ac) |
 | Sat, 10 Jan 2026 15:59:26 GMT | OSINT Under the Hood: Learning from the Best — Top Resources to Follow | Rabail Zaheer | [Read More](https://medium.com/p/5df338027565) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 Jan 2026 09:30:04 GMT | Authentication Bypass via JWT Replay Leading to Account Takeover | Redhound | [Read More](https://medium.com/p/da7bf8fc125c) |
 | Sat, 10 Jan 2026 09:21:24 GMT | PowerShell for Pentesters notes — TryHackMe | Jose Praveen | [Read More](https://medium.com/p/a9ce8454b6ca) |
 | Sat, 10 Jan 2026 09:11:05 GMT | Why Modern Businesses Must Choose Advanced Network Security | StandaloneDigitech | [Read More](https://medium.com/p/a6e48eafe4c4) |
-| Sat, 10 Jan 2026 09:04:57 GMT | Will AI Replace Ethical Hackers? The Truth About Cybersecurity in the Age of LLMs | Axoloth | [Read More](https://medium.com/p/62b52a033854) |
-| Sat, 10 Jan 2026 09:03:04 GMT | Your CEO’s Password Is Probably in a Stealer Log Right Now | Alexandre Vandamme | [Read More](https://medium.com/p/f9da3a0da32d) |
-| Sat, 10 Jan 2026 08:54:41 GMT | Inside the “MAESTRO” VM Escape: How Attackers Turned a Guest VM Into Full ESXi Control | Germano Costi | [Read More](https://medium.com/p/c83f5946073e) |
-| Sat, 10 Jan 2026 08:52:38 GMT | AWhat Makes SiyanoAV Different in Antivirus for Windows | Siyanoav | [Read More](https://medium.com/p/65f756678f9e) |
-| Sat, 10 Jan 2026 08:51:39 GMT | We Are Shipping More Features and Creating Worse Software | Sowndapan | [Read More](https://medium.com/p/71b5d0e2279e) |
-| Sat, 10 Jan 2026 08:46:33 GMT | Making Sense of Cyber Laws in India: Chapter One | Vasuki | [Read More](https://medium.com/p/63a062547811) |
-| Sat, 10 Jan 2026 08:44:19 GMT | Writing Penetration Test Reports | Teri Radichel | [Read More](https://medium.com/p/2d021ad54e83) |
