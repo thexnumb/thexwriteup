@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 19:11:11 GMT | AWS Privilege Escalation Walkthrough | Spookz | [Read More](https://medium.com/p/f991a431c5bf) |
+| Sat, 10 Jan 2026 19:00:27 GMT | Lazy Admin Walkthrough | Abdelrabo%00 | [Read More](https://medium.com/p/38e1a4e2fc7f) |
+| Sat, 10 Jan 2026 18:59:52 GMT | Why Bayes’ Theorem Should Belong in Every Cybersec Analyst’s Toolkit | Dominik M | [Read More](https://medium.com/p/a7e19e541c67) |
+| Sat, 10 Jan 2026 18:59:13 GMT | Networking Fundamentals That Power the Internet | Gatecrasher01 | [Read More](https://medium.com/p/0619765b32ea) |
+| Sat, 10 Jan 2026 18:52:08 GMT | Aseel alternatives to GoFundMe,FundRaisup,Muslimi and Etsy | Faiz ul Qadir Sahib Zada | [Read More](https://medium.com/p/e90aff9e000f) |
+| Sat, 10 Jan 2026 18:39:19 GMT | ️DC: 5— Complete Walkthrough (Beginner-Friendly) - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/a6b9b3b9c845) |
+| Sat, 10 Jan 2026 18:35:06 GMT | How Registry Edits Wreck Windows And How To Fix Real Slowdowns | Geoffrey Wenger | [Read More](https://medium.com/p/802a67c3a453) |
+| Sat, 10 Jan 2026 18:32:50 GMT | Nietzsche’s Will to Power: Adaptability and Resilience in Cybersecurity Practices | Brian Haman, PhD | [Read More](https://medium.com/p/6937593f6f92) |
 | Sat, 10 Jan 2026 18:23:01 GMT | Creating a Flexible IT Strategy That Keeps Up With Change | NordicX | [Read More](https://medium.com/p/4ec959832a9f) |
+| Sat, 10 Jan 2026 18:22:30 GMT | What I Learned from 10 Days of Running an MYSQL Honeypot | berke bodur | [Read More](https://medium.com/p/dc4d35a45d21) |
 | Sat, 10 Jan 2026 18:12:54 GMT | How I secure my Mac when working from a café | Natalie Polly | [Read More](https://medium.com/p/a5209ea25b93) |
 | Sat, 10 Jan 2026 18:04:13 GMT | The Dark Web Dump Was Old — The Vulnerability Wasn’t ️ | Iski | [Read More](https://medium.com/p/f0c4a2df8171) |
 | Sat, 10 Jan 2026 18:04:04 GMT | Ottergram Writeup (BugForge) | 7s26Simon | [Read More](https://medium.com/p/7e048a3db854) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 Jan 2026 11:59:42 GMT | TryHackMe Walkthrough: Undefined Lab Writeup | Ankush Prasad Sah | [Read More](https://medium.com/p/59612373a6ac) |
 | Sat, 10 Jan 2026 11:58:44 GMT | Zero Trust Architecture (ZTA): A Practical and Strategic Approach to Securing Modern Networks | Medessa | [Read More](https://medium.com/p/0a92b9b27c44) |
 | Sat, 10 Jan 2026 11:51:02 GMT | Conquering Cybersecurity Capstone Challenges: A Hands-On Journey in Ethical Hacking | Seun odebode | [Read More](https://medium.com/p/12de6ced2b0b) |
-| Sat, 10 Jan 2026 11:35:07 GMT | Linux System Hardening — Writeup | Mahir | [Read More](https://medium.com/p/9654a98cf05e) |
-| Sat, 10 Jan 2026 11:21:59 GMT | The €400 Bug - VPN/Geo Location Bypass | Umanhonlen Gabriel | [Read More](https://medium.com/p/0e9a6d26dd37) |
-| Sat, 10 Jan 2026 11:21:47 GMT | The Hidden Cost of Convenience in Centralized Wallets | OG Global News | [Read More](https://medium.com/p/8ff8350960a2) |
-| Sat, 10 Jan 2026 11:09:41 GMT | Exposing “myspeedpost.com” India Post Scam | ARoy | [Read More](https://medium.com/p/c8aec5e8e5c2) |
-| Sat, 10 Jan 2026 11:06:24 GMT | Enumeration Is King: Why Every Real Compromise Starts Before the Exploit | Yua Mikanana | [Read More](https://medium.com/p/e5953341214d) |
-| Sat, 10 Jan 2026 11:02:00 GMT | ICICI Pru Smart Kid 360 | Garima Patel | [Read More](https://medium.com/p/ea0e0cd6f595) |
-| Sat, 10 Jan 2026 10:55:56 GMT | Length Extraction Attacks - Tryhackme Walkthrough | Rahul Kumar | [Read More](https://medium.com/p/0fec2fabdbb9) |
-| Sat, 10 Jan 2026 10:55:47 GMT | Password Generator Google: Secure Your Online World with Strong Random Passwords | Sandeep Sharma | [Read More](https://medium.com/p/32fb337b040e) |
-| Sat, 10 Jan 2026 10:55:03 GMT | Privileged Identity Management (PIM): Who Should Hold the Keys — and When? | Bhagyalakshmi k raju | [Read More](https://medium.com/p/dd0f92aae8cc) |
