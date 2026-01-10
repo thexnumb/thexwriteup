@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 17:39:46 GMT | My Learning Journey | Adeoluwa Obadofin | [Read More](https://medium.com/p/b8770e14963b) |
+| Sat, 10 Jan 2026 17:36:09 GMT | Microservice：從技術到比喻的全面理解 | 思維舞步 MindSteps | [Read More](https://medium.com/p/ee4eea43d3d2) |
+| Sat, 10 Jan 2026 17:30:53 GMT | Wifi Security Checker | Widyamagdalena | [Read More](https://medium.com/p/cb3a9fe3e60b) |
+| Sat, 10 Jan 2026 17:29:24 GMT | The Invisible Bouncer: How OAuth 2.0 PKCE Secures Your Modern Applications | Manmohanaeir | [Read More](https://medium.com/p/c9c5f14b7fc5) |
+| Sat, 10 Jan 2026 17:23:06 GMT | Over 126,000 Tech Jobs Gone in 2025 — These 7 Skills Are Now “Untouchable” | Kavishka .S. Didulantha | [Read More](https://medium.com/p/bbff1e387210) |
 | Sat, 10 Jan 2026 17:19:10 GMT | All About Onions, No not that eating Onion. | Dharanragunathan | [Read More](https://medium.com/p/6bb506a290e8) |
+| Sat, 10 Jan 2026 17:12:13 GMT | A 9.8 CVSS Vulnerability Exposes Trend Micro Apex Central to Remote Code Execution | Chetan Seripally | [Read More](https://medium.com/p/de167dbc3d0e) |
 | Sat, 10 Jan 2026 16:55:28 GMT | Incident Response Hands-On Exercise 1 | Allen Ace | [Read More](https://medium.com/p/4058ca01d3b2) |
 | Sat, 10 Jan 2026 16:47:33 GMT | 幽靈代碼與人性邊界：從 Character.AI 悲劇看企業 AI 客服的「揭露義務」與技術防禦實戰 | p1x06u9 | [Read More](https://medium.com/p/7ba54037b7fd) |
 | Sat, 10 Jan 2026 16:44:51 GMT | Automating HackerOne Program Updates with Telegram Notifications | Zbyte | [Read More](https://medium.com/p/7f1c8e0e29ef) |
@@ -33,6 +39,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 Jan 2026 15:48:04 GMT | Le Web3 : un écosystème à sécuriser de bout en bout | Sébastien Martin | [Read More](https://medium.com/p/89528c06cf75) |
 | Sat, 10 Jan 2026 15:46:12 GMT | 17.5M Instagram 帳號外洩：別再說這是 Meta 的鍋，這是你的「端點治理」災難 | p1x06u9 | [Read More](https://medium.com/p/1bede1b0d00a) |
 | Sat, 10 Jan 2026 15:44:09 GMT | Is It Possible to Be Completely Anonymous on the Internet? | root0emir | [Read More](https://medium.com/p/900df4ad2107) |
+| Sat, 10 Jan 2026 15:40:33 GMT | How Browsers Track You Without Cookies | The Daily Technology | [Read More](https://medium.com/p/534aba7e4269) |
 | Sat, 10 Jan 2026 15:24:48 GMT | Anti-Debugging: PEB!BeingDebugged | Athis SN | [Read More](https://medium.com/p/00465e83f7ad) |
 | Sat, 10 Jan 2026 15:17:07 GMT | Post 9: Evolution of IT (Part 3): Becoming the Business | SattiData | [Read More](https://medium.com/p/274764dec578) |
 | Sat, 10 Jan 2026 15:15:09 GMT | How Learning Python Changed the Way I Approach Electronics | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/e0aa67eeb47a) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 Jan 2026 10:13:32 GMT | CISA at a Crossroads: National Security in 2026 | Krishna M S | [Read More](https://medium.com/p/8ee5f05121dc) |
 | Sat, 10 Jan 2026 10:07:19 GMT | ❌ Why Most People Fail in Cybersecurity Even After Learning Tools | Sooraj Pandey | [Read More](https://medium.com/p/8283c7fb3b7c) |
 | Sat, 10 Jan 2026 10:06:52 GMT | Hands‑On Cybersecurity Projects: Threat Detection, Penetration Testing & Malware Analysis | Sadikaljarif | [Read More](https://medium.com/p/1c96406d1e1b) |
-| Sat, 10 Jan 2026 10:06:35 GMT | Secure the Glue 1: Rapid risk Assessment for N8N workflow | praveen raj | [Read More](https://medium.com/p/5e9e16079e67) |
-| Sat, 10 Jan 2026 09:54:32 GMT | The TupleHash: A NIST Standard | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/116d947e03f8) |
-| Sat, 10 Jan 2026 09:53:47 GMT | “It Was the Best Security Investment We’ve Made” — What Early Clients Are Saying | Fook Hwa Tan | [Read More](https://medium.com/p/764370eb29ac) |
-| Sat, 10 Jan 2026 09:51:32 GMT | The Go Context Mistakes Everyone Makes And How to Fix Them Cleanly | Renaldi Purwanto | [Read More](https://medium.com/p/d1ed0a9bfda6) |
-| Sat, 10 Jan 2026 09:51:19 GMT | OverTheWire Bandit (Day 11): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/97260b937f84) |
-| Sat, 10 Jan 2026 09:44:27 GMT | Cybersecurity Isn’t Hard — The Way We Teach It ,Is | Satyam Pathania | [Read More](https://medium.com/p/708353a5c1ff) |
-| Sat, 10 Jan 2026 09:41:48 GMT | Trusted Cyber Security course in kochi | Aswin Dotin | [Read More](https://medium.com/p/4bfb9d38c3ca) |
