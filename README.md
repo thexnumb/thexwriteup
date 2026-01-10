@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 14:36:54 GMT | Cybersecurity & Ethical Hacking Roadmap 2026 | Mainekhacker | [Read More](https://medium.com/p/66153c3f8d07) |
+| Sat, 10 Jan 2026 14:32:46 GMT | Wireshark: An Overview and Its Use in MITM Attacks | Vignesh R | [Read More](https://medium.com/p/470d44823f2e) |
+| Sat, 10 Jan 2026 14:32:23 GMT | Don’t Know What To Do | Hira | [Read More](https://medium.com/p/b4203332a3d0) |
+| Sat, 10 Jan 2026 14:26:25 GMT | PCI DSS Compliance Readiness for an Ethical E-Commerce Brand | Safiyyah OA | [Read More](https://medium.com/p/5431d31db532) |
+| Sat, 10 Jan 2026 14:19:15 GMT | Introduction to Incident Response | Allen Ace | [Read More](https://medium.com/p/b36e501001f8) |
 | Sat, 10 Jan 2026 14:18:20 GMT | F5 Cyber Attack — 2024/2025 | VIGNESH | [Read More](https://medium.com/p/85d5e282e943) |
 | Sat, 10 Jan 2026 14:17:46 GMT | OSINT for Beginners: Learn Cybersecurity Like a Digital Detective ️‍♂️ | Rutiktarle | [Read More](https://medium.com/p/056c3070e2ff) |
 | Sat, 10 Jan 2026 14:12:01 GMT | How I Won a $2,000 Bug Bounty Using Only Nmap | Cybervolt | [Read More](https://medium.com/p/45086c5e9ac3) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 Jan 2026 06:35:49 GMT | My Address Book Is Safer Than Password Managers | Ivan Junior | [Read More](https://medium.com/p/c036a9a91422) |
 | Sat, 10 Jan 2026 06:35:31 GMT | Keamanan Akun Game Online dan Literasi Digital di Era Modern | LISBON138 Official | [Read More](https://medium.com/p/38fe92d5f167) |
 | Sat, 10 Jan 2026 06:32:44 GMT | AWS Security Agent-Penetration Testing Overview | Sena Yakut | [Read More](https://medium.com/p/e05cc62ce4f6) |
-| Sat, 10 Jan 2026 06:32:11 GMT | The Linux Security Journey — /etc/shadow (Shadowed Password File) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f815b9d5e6a0) |
-| Sat, 10 Jan 2026 06:29:07 GMT | What the Internet Sees Before an Attacker Strikes: Lessons from External Penetration Testing | Khan | [Read More](https://medium.com/p/884ea0b3a75c) |
-| Sat, 10 Jan 2026 06:24:33 GMT | Networking Basics: A Beginner’s Guide to IP Addresses & Key Components. | Syber Security beginner. | [Read More](https://medium.com/p/730d16ae410d) |
-| Sat, 10 Jan 2026 06:23:40 GMT | On-Premise-01 Challenge — Writeup | Parth Dobariya | [Read More](https://medium.com/p/bf1f94dee9c5) |
-| Sat, 10 Jan 2026 06:23:18 GMT | The Shield in the Shadows: How Ethical Hackers Defend Businesses and Digital Users | Hadiyayazeen | [Read More](https://medium.com/p/be6b6fbf00e8) |
