@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 03:15:04 GMT | Why Tech & Cyber “News” Fails — And What Real Intelligence Looks Like | NeuralKitPro | [Read More](https://medium.com/p/a1220ed13f64) |
+| Sat, 10 Jan 2026 03:03:16 GMT | Why critical thinking is a core UX skill in Cybersecurity. | Niharika Naidu | [Read More](https://medium.com/p/02eaee83a695) |
+| Sat, 10 Jan 2026 02:52:12 GMT | The Patch Management Process | Dhruv Jalota | [Read More](https://medium.com/p/84cf5632e432) |
+| Sat, 10 Jan 2026 02:50:54 GMT | Unlocking the Power of CUpp: Advanced Password Profiling for Red Team Operations | Cybeague Technologies | [Read More](https://medium.com/p/e6ec2c12dd51) |
+| Sat, 10 Jan 2026 02:49:58 GMT | Getting Started with CUpp: The Fast Lane to Smart Password Wordlists | Cybeague Technologies | [Read More](https://medium.com/p/ab1920e6cdcd) |
+| Sat, 10 Jan 2026 02:49:28 GMT | Assessing Wi-Fi Security with Rogue AP Simulations | Hackers Things | [Read More](https://medium.com/p/d03536a9dee9) |
+| Sat, 10 Jan 2026 02:48:58 GMT | How I Started a Bug-Bounty Career in 2026 — A Practical Roadmap | Hackers Things | [Read More](https://medium.com/p/8bfd844d6a44) |
+| Sat, 10 Jan 2026 02:30:22 GMT | Rising Risks As AI Reshapes Modern Cyberattacks | Geoffrey Wenger | [Read More](https://medium.com/p/e914a59c7492) |
+| Sat, 10 Jan 2026 02:13:10 GMT | When Understanding Becomes the Payload | Erik Gallmann | [Read More](https://medium.com/p/cada47ee6a8e) |
+| Sat, 10 Jan 2026 02:09:57 GMT | Is Secure by Design an illusion? | Rohan Pal | [Read More](https://medium.com/p/ec94547597bd) |
+| Sat, 10 Jan 2026 01:57:11 GMT | What Actually Happens After a Security Alert Is Triggered? | Sruthi Punugu | [Read More](https://medium.com/p/90261493b5c3) |
 | Sat, 10 Jan 2026 01:48:13 GMT | How we brought mathematically verifiable audit trails to the edge — and why it matters for the… | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/04b4b5936539) |
 | Sat, 10 Jan 2026 01:47:50 GMT | Microservices or Monolith? A Practical Guide to Choosing the Right Architecture | Sameena Begam Savukath Ali | [Read More](https://medium.com/p/112ea1789500) |
 | Sat, 10 Jan 2026 01:44:32 GMT | Why No-API, local-first recon will be the weapon of choice in 2026 | Prism Recon | [Read More](https://medium.com/p/fe69883feac2) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 17:40:50 GMT | 10 Essential Cybersecurity Questions Everyone Should Know (PART -2 ) | Abdul Ahad | [Read More](https://medium.com/p/e11ed95090b8) |
 | Fri, 09 Jan 2026 17:40:42 GMT | Byaku: Automation of recon for bug hunting and vibe coding | Alberto Villasante | [Read More](https://medium.com/p/71fe424ef4d3) |
 | Fri, 09 Jan 2026 17:27:07 GMT | DOM XSS Using jQuery Selector & hashchange — When # Becomes Dangerous(PortSwigger lab 6) | Sanjivani Dobhal | [Read More](https://medium.com/p/fcd66262ccb1) |
-| Fri, 09 Jan 2026 17:22:03 GMT | The Architect’s Reality: What Zero Trust Actually Looks Like Inside UAE SMEs | teclogia | [Read More](https://medium.com/p/679dcbe91954) |
-| Fri, 09 Jan 2026 17:13:19 GMT | Hacker Gözünden Modern Web | Eren GEZEN | [Read More](https://medium.com/p/213c01c1ad1c) |
-| Fri, 09 Jan 2026 17:11:08 GMT | Synchrony Infosec University Hackathon, Round 1 CTF Write‑Up | Bish | [Read More](https://medium.com/p/3061f721f252) |
-| Fri, 09 Jan 2026 17:07:26 GMT | End-to-End Spring Security: What Really Happens When Your API Is Hit (Spring Boot Series-10) | Asutosh Nayak | [Read More](https://medium.com/p/ce70c96d1e45) |
-| Fri, 09 Jan 2026 17:06:48 GMT | ZombieAgent: The ChatGPT bug that refuses to die | Sudarshan | [Read More](https://medium.com/p/d2d96c1f6cf8) |
-| Fri, 09 Jan 2026 17:05:15 GMT | Dig Dug | Karim Hesham | [Read More](https://medium.com/p/d8d05ceeb836) |
-| Fri, 09 Jan 2026 16:55:43 GMT | Nama Elit, UI Sulit | mznhnryu | [Read More](https://medium.com/p/c9eb047c63c6) |
-| Fri, 09 Jan 2026 16:51:06 GMT | Day 6 — Inside a SOC: Team Structure, L1 Analyst Workflow, and My First URL Investigation | Drishti Pandey | [Read More](https://medium.com/p/f250dbc62e2f) |
-| Fri, 09 Jan 2026 16:50:53 GMT | Mandiant Attack Cycle Nedir? Siber Saldırıların Adım Adım İncelenmesi | Arda Derya | [Read More](https://medium.com/p/1b60c8994a1a) |
-| Fri, 09 Jan 2026 16:50:34 GMT | MITRE ATT&CK Matrix: Saldırganlar Nasıl Düşünür , Biz Nasıl Anlarız? | Arda Derya | [Read More](https://medium.com/p/7077a2088902) |
-| Fri, 09 Jan 2026 16:49:44 GMT | The Cat-and-Mouse Crap Between Greedy Websites and Adblockers: | Hugh Jorgen | [Read More](https://medium.com/p/ff556eb99cbe) |
