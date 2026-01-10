@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 08:15:48 GMT | Microsoft Word Just Fixed a Very Annoying Problem | Faizanansari | [Read More](https://medium.com/p/a827a70cd844) |
+| Sat, 10 Jan 2026 08:15:26 GMT | Bug Bounty Tools: A Practical List of Old & New Tools Real Hackers Use | Monika sharma | [Read More](https://medium.com/p/bbf7eb7009f8) |
+| Sat, 10 Jan 2026 08:06:11 GMT | How to Stop Caring About What People Think | Vijay Kumar Gupta | [Read More](https://medium.com/p/15c5feac93fc) |
+| Sat, 10 Jan 2026 08:02:49 GMT | Samba Active Directory Domain Controller (Linux): What to Do When Impacket & BloodHound Don’t Work | Anezaneo | [Read More](https://medium.com/p/1faee4828d5b) |
+| Sat, 10 Jan 2026 07:54:42 GMT | Canonical \mathbb{N}^\mathbb{R} (Nick-space) | Nicholas Angell | [Read More](https://medium.com/p/03feba03bb38) |
 | Sat, 10 Jan 2026 07:22:10 GMT | JWT at Shady Oaks Financial — BugForge Daily Challenge | 0ber1n | [Read More](https://medium.com/p/00ba2ddd52a2) |
 | Sat, 10 Jan 2026 07:21:56 GMT | Ace Racer Mod APK | Bandisharecx | [Read More](https://medium.com/p/9a0e0f741e21) |
 | Sat, 10 Jan 2026 07:19:51 GMT | AI Pentesting Methodology — Tryhackme - BankGPT | Rahul Singh Chauhan | [Read More](https://medium.com/p/1c24df63d1e7) |
@@ -22,6 +27,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 Jan 2026 06:36:34 GMT | Strange Hair cuts and Yoga pants are over in Tech nerds | Sparc Mint | [Read More](https://medium.com/p/986a0c32f4c4) |
 | Sat, 10 Jan 2026 06:36:12 GMT | Microsoft Security Tools for Enterprises: Enhancing Windows 11 Security Features | Laurel Blackburn | [Read More](https://medium.com/p/a99890b7610c) |
 | Sat, 10 Jan 2026 06:35:49 GMT | My Address Book Is Safer Than Password Managers | Ivan Junior | [Read More](https://medium.com/p/c036a9a91422) |
+| Sat, 10 Jan 2026 06:35:31 GMT | Keamanan Akun Game Online dan Literasi Digital di Era Modern | LISBON138 Official | [Read More](https://medium.com/p/38fe92d5f167) |
 | Sat, 10 Jan 2026 06:32:44 GMT | AWS Security Agent-Penetration Testing Overview | Sena Yakut | [Read More](https://medium.com/p/e05cc62ce4f6) |
 | Sat, 10 Jan 2026 06:32:11 GMT | The Linux Security Journey — /etc/shadow (Shadowed Password File) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f815b9d5e6a0) |
 | Sat, 10 Jan 2026 06:29:07 GMT | What the Internet Sees Before an Attacker Strikes: Lessons from External Penetration Testing | Khan | [Read More](https://medium.com/p/884ea0b3a75c) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 22:29:39 GMT | Lacroix v. | Clacroix | [Read More](https://medium.com/p/eb37fa71908f) |
 | Fri, 09 Jan 2026 22:17:26 GMT | Essential Windows Command-Line Defenses Against Hackers | MDLICXV | [Read More](https://medium.com/p/a728f64135e4) |
 | Fri, 09 Jan 2026 22:10:00 GMT | Building your own AI SOC? Here’s how to succeed | monzy merza | [Read More](https://medium.com/p/52fdbe19f453) |
-| Fri, 09 Jan 2026 22:06:31 GMT | DFIR Report: MeteorHit — Indra Lab | Khoa | [Read More](https://medium.com/p/f491129543d2) |
-| Fri, 09 Jan 2026 22:04:40 GMT | How I Won $100K in Meta’s Bug Bounty: A Penetration Tester’s Journey | Cybervolt | [Read More](https://medium.com/p/089aca9b7fe0) |
-| Fri, 09 Jan 2026 22:03:55 GMT | Pigeon Thief Story: Legality & Metadata, Let’s Play Detective! | Alborz Nazari | [Read More](https://medium.com/p/502390fc586a) |
-| Fri, 09 Jan 2026 22:03:13 GMT | Intro to web hacking | TheNotorious | [Read More](https://medium.com/p/eeae1d1c4e5f) |
-| Fri, 09 Jan 2026 21:43:47 GMT | Vulnerability Management Isn’t Just Scanning | Gayatri Nakar | [Read More](https://medium.com/p/6049f3007925) |
-| Fri, 09 Jan 2026 21:43:31 GMT | Securing Your Secrets in Go: From DIY Disaster to Production-Ready | Mickael Stanislas | [Read More](https://medium.com/p/3804eaf5e35a) |
