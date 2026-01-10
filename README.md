@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 16:23:44 GMT | Install & Configure OpenVAS on a MacBook (macOS) Using Docker Desktop — Step-by-Step Guide | Tanveer Ahmed | [Read More](https://medium.com/p/1396ae394f3e) |
+| Sat, 10 Jan 2026 16:16:09 GMT | Offencive Security Intro | Notalive | [Read More](https://medium.com/p/063943d93c8f) |
+| Sat, 10 Jan 2026 16:00:01 GMT | Entry Points into Cybersecurity: Early Career Advice for Beginners Worldwide | Victoria Coker | [Read More](https://medium.com/p/514d811f29ac) |
+| Sat, 10 Jan 2026 15:59:26 GMT | OSINT Under the Hood: Learning from the Best — Top Resources to Follow | Rabail Zaheer | [Read More](https://medium.com/p/5df338027565) |
+| Sat, 10 Jan 2026 15:53:51 GMT | Building AI Agents That Survive Reality: A 2026 Engineer’s Journey — Day 9 | Sateesh Valluru | [Read More](https://medium.com/p/8f9cd52297b9) |
+| Sat, 10 Jan 2026 15:49:52 GMT | Arduino | Timmy | [Read More](https://medium.com/p/40f9207477ed) |
+| Sat, 10 Jan 2026 15:48:04 GMT | Le Web3 : un écosystème à sécuriser de bout en bout | Sébastien Martin | [Read More](https://medium.com/p/89528c06cf75) |
+| Sat, 10 Jan 2026 15:46:12 GMT | 17.5M Instagram 帳號外洩：別再說這是 Meta 的鍋，這是你的「端點治理」災難 | p1x06u9 | [Read More](https://medium.com/p/1bede1b0d00a) |
+| Sat, 10 Jan 2026 15:44:09 GMT | Is It Possible to Be Completely Anonymous on the Internet? | root0emir | [Read More](https://medium.com/p/900df4ad2107) |
 | Sat, 10 Jan 2026 15:24:48 GMT | Anti-Debugging: PEB!BeingDebugged | Athis SN | [Read More](https://medium.com/p/00465e83f7ad) |
 | Sat, 10 Jan 2026 15:17:07 GMT | Post 9: Evolution of IT (Part 3): Becoming the Business | SattiData | [Read More](https://medium.com/p/274764dec578) |
 | Sat, 10 Jan 2026 15:15:09 GMT | How Learning Python Changed the Way I Approach Electronics | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/e0aa67eeb47a) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 Jan 2026 08:51:39 GMT | We Are Shipping More Features and Creating Worse Software | Sowndapan | [Read More](https://medium.com/p/71b5d0e2279e) |
 | Sat, 10 Jan 2026 08:46:33 GMT | Making Sense of Cyber Laws in India: Chapter One | Vasuki | [Read More](https://medium.com/p/63a062547811) |
 | Sat, 10 Jan 2026 08:44:19 GMT | Writing Penetration Test Reports | Teri Radichel | [Read More](https://medium.com/p/2d021ad54e83) |
-| Sat, 10 Jan 2026 08:39:49 GMT | Trust at the Core: How Technology and People Build Cyber Resilience | Mehran Muslimi | [Read More](https://medium.com/p/34f5cf7e6c5e) |
-| Sat, 10 Jan 2026 08:27:10 GMT | Patterns | sturmwind | [Read More](https://medium.com/p/72c28b6c6704) |
-| Sat, 10 Jan 2026 08:21:24 GMT | The ‘Temporary’ Test Account That Became Permanent Access: How One Small Oversight Led to System… | 1$ Mistake | [Read More](https://medium.com/p/f2c684bd10f6) |
-| Sat, 10 Jan 2026 08:21:24 GMT | Path for IT or Cyber | Zeeshan Punjwani | [Read More](https://medium.com/p/c2d822439d27) |
-| Sat, 10 Jan 2026 08:15:48 GMT | Microsoft Word Just Fixed a Very Annoying Problem | Faizanansari | [Read More](https://medium.com/p/a827a70cd844) |
-| Sat, 10 Jan 2026 08:15:26 GMT | Bug Bounty Tools: A Practical List of Old & New Tools Real Hackers Use | Monika sharma | [Read More](https://medium.com/p/bbf7eb7009f8) |
-| Sat, 10 Jan 2026 08:06:11 GMT | How to Stop Caring About What People Think | Vijay Kumar Gupta | [Read More](https://medium.com/p/15c5feac93fc) |
-| Sat, 10 Jan 2026 08:02:49 GMT | Samba Active Directory Domain Controller (Linux): What to Do When Impacket & BloodHound Don’t Work | Anezaneo | [Read More](https://medium.com/p/1faee4828d5b) |
-| Sat, 10 Jan 2026 07:54:42 GMT | Canonical \mathbb{N}^\mathbb{R} (Nick-space) | Nicholas Angell | [Read More](https://medium.com/p/03feba03bb38) |
