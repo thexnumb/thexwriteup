@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 09:21:24 GMT | PowerShell for Pentesters notes — TryHackMe | Jose Praveen | [Read More](https://medium.com/p/a9ce8454b6ca) |
+| Sat, 10 Jan 2026 09:11:05 GMT | Why Modern Businesses Must Choose Advanced Network Security | StandaloneDigitech | [Read More](https://medium.com/p/a6e48eafe4c4) |
+| Sat, 10 Jan 2026 09:04:57 GMT | Will AI Replace Ethical Hackers? The Truth About Cybersecurity in the Age of LLMs | Axoloth | [Read More](https://medium.com/p/62b52a033854) |
+| Sat, 10 Jan 2026 09:03:04 GMT | Your CEO’s Password Is Probably in a Stealer Log Right Now | Alexandre Vandamme | [Read More](https://medium.com/p/f9da3a0da32d) |
+| Sat, 10 Jan 2026 08:54:41 GMT | Inside the “MAESTRO” VM Escape: How Attackers Turned a Guest VM Into Full ESXi Control | Germano Costi | [Read More](https://medium.com/p/c83f5946073e) |
+| Sat, 10 Jan 2026 08:52:38 GMT | AWhat Makes SiyanoAV Different in Antivirus for Windows | Siyanoav | [Read More](https://medium.com/p/65f756678f9e) |
 | Sat, 10 Jan 2026 08:46:33 GMT | Making Sense of Cyber Laws in India: Chapter One | Vasuki | [Read More](https://medium.com/p/63a062547811) |
+| Sat, 10 Jan 2026 08:44:19 GMT | Writing Penetration Test Reports | Teri Radichel | [Read More](https://medium.com/p/2d021ad54e83) |
 | Sat, 10 Jan 2026 08:39:49 GMT | Trust at the Core: How Technology and People Build Cyber Resilience | Mehran Muslimi | [Read More](https://medium.com/p/34f5cf7e6c5e) |
 | Sat, 10 Jan 2026 08:21:24 GMT | The ‘Temporary’ Test Account That Became Permanent Access: How One Small Oversight Led to System… | 1$ Mistake | [Read More](https://medium.com/p/f2c684bd10f6) |
 | Sat, 10 Jan 2026 08:21:24 GMT | Path for IT or Cyber | Zeeshan Punjwani | [Read More](https://medium.com/p/c2d822439d27) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 23:44:02 GMT | CVE‑2026‑21876: A Critical Multipart Parsing Flaw in OWASP Core Rule Set | gm0 | [Read More](https://medium.com/p/ef9cc11a7338) |
 | Fri, 09 Jan 2026 23:39:33 GMT | Breaking Password Reset Logic: A Comprehensive Exploitation Guide | Fuzzyy Duck | [Read More](https://medium.com/p/3c626aedb0fa) |
 | Fri, 09 Jan 2026 23:39:27 GMT | Happy New Year 2025  — Welcome Back! Let’s Talk About the Updated OWASP Top 10 | Yamini Yadav_369 | [Read More](https://medium.com/p/b0fba21c197a) |
-| Fri, 09 Jan 2026 23:39:19 GMT | Hacking Humans | Lukasz Wierzbicki | [Read More](https://medium.com/p/c791f5b55b96) |
-| Fri, 09 Jan 2026 23:39:13 GMT | A List of Every Cybersecurity Abbreviation There Is (Part 1) | Raymond Ebonine | [Read More](https://medium.com/p/c359f0b4e2ee) |
-| Fri, 09 Jan 2026 23:34:27 GMT | Zero-Knowledge Proof Fundamentals | Esra Kayhan | [Read More](https://medium.com/p/d19ca6578a22) |
-| Fri, 09 Jan 2026 23:19:15 GMT | A Simple Shopify Open Redirect That Paid $500 ‍ | ab.infosec | [Read More](https://medium.com/p/1b358ce0969a) |
-| Fri, 09 Jan 2026 23:00:04 GMT | How I Passed ISC2 CC After Failing Twice | Roberto Junior | [Read More](https://medium.com/p/ca4dae232227) |
-| Fri, 09 Jan 2026 22:36:46 GMT | The Safest Record Is the One You Never Collected | Tyson Martin | [Read More](https://medium.com/p/488f0abbae3b) |
-| Fri, 09 Jan 2026 22:36:33 GMT | Shadow AI Is Still Everywhere — And It’s Putting Enterprises at Risk | Cyber-AppSec | [Read More](https://medium.com/p/88bf8a0fa2a6) |
