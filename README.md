@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 22:30:20 GMT | Vulnyx “Exec” CTF Writeup | sabR | [Read More](https://medium.com/p/9663b63caa71) |
+| Sat, 10 Jan 2026 22:22:20 GMT | Hands‑On CAN Bus Practical Using Free Tools (Step‑by‑Step, Legal & Safe) | Kirthi | [Read More](https://medium.com/p/84fac302e560) |
 | Sat, 10 Jan 2026 22:15:00 GMT | Cybersecurity Is an Ocean: Why Ethical Hacking Alone Is Not Enough for Beginners | Sudheesh | [Read More](https://medium.com/p/100cb8494c3c) |
 | Sat, 10 Jan 2026 21:55:29 GMT | Building My First DHCP Network in Cisco Packet Tracer | Grace Jaman | [Read More](https://medium.com/p/2f71d68126f8) |
 | Sat, 10 Jan 2026 21:40:18 GMT | Questioning Objectivity: A Critical Analysis of “Expert Reviews” in Online Dating Sites | AKUMAAYORI | [Read More](https://medium.com/p/44d2b3d3ef7b) |
@@ -65,6 +67,7 @@ The digital world makes life easier… | Victor Samuel-Columbus | [Read More](ht
 | Sat, 10 Jan 2026 17:38:16 GMT | Authentication vs Authorization: Why AuthZ Is No Longer Optional | Zeigeist | [Read More](https://medium.com/p/df4132d65ca4) |
 | Sat, 10 Jan 2026 17:36:09 GMT | Microservice：從技術到比喻的全面理解 | 思維舞步 MindSteps | [Read More](https://medium.com/p/ee4eea43d3d2) |
 | Sat, 10 Jan 2026 17:30:53 GMT | Wifi Security Checker | Widyamagdalena | [Read More](https://medium.com/p/cb3a9fe3e60b) |
+| Sat, 10 Jan 2026 17:29:52 GMT | React2Shell (CVE-2025–55182): From React Server Components to Unauthenticated RCE | Mr. Spider | [Read More](https://medium.com/p/b8f63b93a31f) |
 | Sat, 10 Jan 2026 17:29:24 GMT | The Invisible Bouncer: How OAuth 2.0 PKCE Secures Your Modern Applications | Manmohanaeir | [Read More](https://medium.com/p/c9c5f14b7fc5) |
 | Sat, 10 Jan 2026 17:23:06 GMT | Over 126,000 Tech Jobs Gone in 2025 — These 7 Skills Are Now “Untouchable” | Kavishka .S. Didulantha | [Read More](https://medium.com/p/bbff1e387210) |
 | Sat, 10 Jan 2026 17:19:10 GMT | All About Onions, No not that eating Onion. | Dharanragunathan | [Read More](https://medium.com/p/6bb506a290e8) |
@@ -110,6 +113,3 @@ The digital world makes life easier… | Victor Samuel-Columbus | [Read More](ht
 | Sat, 10 Jan 2026 14:18:20 GMT | F5 Cyber Attack — 2024/2025 | VIGNESH | [Read More](https://medium.com/p/85d5e282e943) |
 | Sat, 10 Jan 2026 14:17:46 GMT | OSINT for Beginners: Learn Cybersecurity Like a Digital Detective ️‍♂️ | Rutiktarle | [Read More](https://medium.com/p/056c3070e2ff) |
 | Sat, 10 Jan 2026 14:12:01 GMT | How I Won a $2,000 Bug Bounty Using Only Nmap | Cybervolt | [Read More](https://medium.com/p/45086c5e9ac3) |
-| Sat, 10 Jan 2026 14:11:07 GMT | Cybersecurity Jobs Without Experience: How to Start Your Career | Victoria C | [Read More](https://medium.com/p/41c7e1ff343f) |
-| Sat, 10 Jan 2026 14:09:09 GMT | Best Security Features Crypto Exchanges Are Prioritizing in 2026 | Safiyyah | [Read More](https://medium.com/p/f7480d09c3dc) |
-| Sat, 10 Jan 2026 14:05:56 GMT | From Reconnaissance to Exploitation: My ParoCyber Final Penetration Testing Capstone | Claudius Thompson | [Read More](https://medium.com/p/eb2e4f18b1e7) |
