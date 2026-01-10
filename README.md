@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 10:13:32 GMT | CISA at a Crossroads: National Security in 2026 | Krishna M S | [Read More](https://medium.com/p/8ee5f05121dc) |
+| Sat, 10 Jan 2026 10:07:19 GMT | ❌ Why Most People Fail in Cybersecurity Even After Learning Tools | Sooraj Pandey | [Read More](https://medium.com/p/8283c7fb3b7c) |
+| Sat, 10 Jan 2026 10:06:52 GMT | Hands‑On Cybersecurity Projects: Threat Detection, Penetration Testing & Malware Analysis | Sadikaljarif | [Read More](https://medium.com/p/1c96406d1e1b) |
+| Sat, 10 Jan 2026 10:06:35 GMT | Secure the Glue 1: Rapid risk Assessment for N8N workflow | praveen raj | [Read More](https://medium.com/p/5e9e16079e67) |
+| Sat, 10 Jan 2026 09:54:32 GMT | The TupleHash: A NIST Standard | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/116d947e03f8) |
+| Sat, 10 Jan 2026 09:53:47 GMT | “It Was the Best Security Investment We’ve Made” — What Early Clients Are Saying | Fook Hwa Tan | [Read More](https://medium.com/p/764370eb29ac) |
+| Sat, 10 Jan 2026 09:51:32 GMT | The Go Context Mistakes Everyone Makes And How to Fix Them Cleanly | Renaldi Purwanto | [Read More](https://medium.com/p/d1ed0a9bfda6) |
+| Sat, 10 Jan 2026 09:51:19 GMT | OverTheWire Bandit (Day 11): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/97260b937f84) |
+| Sat, 10 Jan 2026 09:44:27 GMT | Cybersecurity Isn’t Hard — The Way We Teach It ,Is | Satyam Pathania | [Read More](https://medium.com/p/708353a5c1ff) |
+| Sat, 10 Jan 2026 09:41:48 GMT | Trusted Cyber Security course in kochi | Aswin Dotin | [Read More](https://medium.com/p/4bfb9d38c3ca) |
 | Sat, 10 Jan 2026 09:33:53 GMT | Understanding HTTP Status Codes | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/479d607534c1) |
 | Sat, 10 Jan 2026 09:30:55 GMT | The Invisible Breach: Why Your Encrypted Data is Already Being Stolen | Krishna M S | [Read More](https://medium.com/p/0f3c91b15814) |
 | Sat, 10 Jan 2026 09:30:04 GMT | Authentication Bypass via JWT Replay Leading to Account Takeover | Redhound | [Read More](https://medium.com/p/da7bf8fc125c) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 Jan 2026 01:44:32 GMT | Why No-API, local-first recon will be the weapon of choice in 2026 | Prism Recon | [Read More](https://medium.com/p/fe69883feac2) |
 | Sat, 10 Jan 2026 01:41:01 GMT | Cybersecurity Starts at Hiring, Not at Departure | Rahid Alekberli | [Read More](https://medium.com/p/e10b4b21da8a) |
 | Sat, 10 Jan 2026 01:40:58 GMT | Which Bugs to Hunt for in 2026 | Appsec.pt | [Read More](https://medium.com/p/9359d33b0f57) |
-| Sat, 10 Jan 2026 01:40:51 GMT | HEY @BigTech DUDES GUESS WHAT, THEY ARE ABOUT TO TERMINATE MY SISTERS PARENTAL RIGHTS FOREVER!!! | May May | [Read More](https://medium.com/p/a99cb8323850) |
-| Sat, 10 Jan 2026 01:09:42 GMT | Does VPN use more data? Yes, and here’s why | Millie Bobby | [Read More](https://medium.com/p/7addff6527c4) |
-| Sat, 10 Jan 2026 01:02:46 GMT | Top 10 Reasons to Pick Vault Enterprise and/or HCP Vault | Raymon Epping | [Read More](https://medium.com/p/00006c06309c) |
-| Sat, 10 Jan 2026 00:34:47 GMT | Bug Bounty Hunters: Hunt this bug in 2026 | Jeosantos | [Read More](https://medium.com/p/368a740c8d8f) |
-| Sat, 10 Jan 2026 00:32:44 GMT | Wireshark Traffic Analysis Lab — HackTheBox | Cybersecurity Simplified | [Read More](https://medium.com/p/9e4785ed65c6) |
-| Sat, 10 Jan 2026 00:09:56 GMT | Common Security Bugs in Go — Part 2: Filesystem & Input Handling | Dhruv Gundecha | [Read More](https://medium.com/p/f998149d6864) |
-| Sat, 10 Jan 2026 00:06:45 GMT | Antarctica Knows Our Names | Pricelesspeace | [Read More](https://medium.com/p/20e0622f8a2d) |
-| Sat, 10 Jan 2026 00:02:48 GMT | Commix Guide: Automating OS Command Injection in Bug Bounty | JPablo13 | [Read More](https://medium.com/p/26735e722fe4) |
-| Fri, 09 Jan 2026 23:59:35 GMT | 3 Habits for a Safer Online Life | Daria Michajlova | [Read More](https://medium.com/p/6116db4884d1) |
-| Fri, 09 Jan 2026 23:47:33 GMT | Knife: The Invisible Wound in the Supply Chain | Nicholas Mullenski | [Read More](https://medium.com/p/5a2df1d3683d) |
