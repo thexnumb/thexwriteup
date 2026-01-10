@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 20:06:59 GMT | How I Bypassed Premium Content to Download Movies for Free Via Token Refresh Abuse | Muhammad Zain | [Read More](https://medium.com/p/5fbbb66a30f6) |
+| Sat, 10 Jan 2026 19:59:05 GMT | The Text Message That Ended the Illusion of “Closeness” | Aysun Mete | [Read More](https://medium.com/p/ec2cdedea3f5) |
+| Sat, 10 Jan 2026 19:58:14 GMT | Mastering Seccomp Filters in Production Environments | Linux Guide | [Read More](https://medium.com/p/bc49ea2c8c72) |
+| Sat, 10 Jan 2026 19:57:52 GMT | Cache Poisoning: The Silent Web Attack You Need to Know About | Martin Simonyan | [Read More](https://medium.com/p/09c024910bb4) |
+| Sat, 10 Jan 2026 19:57:47 GMT | $22,300 Bug Bounty: Cloning Private GitLab Repositories via Import Feature | Monika sharma | [Read More](https://medium.com/p/15bcabb62530) |
+| Sat, 10 Jan 2026 19:55:12 GMT | Sistemlerin “Niyetini” Okumak: IDDP (Intent Drift Detection Platform) ile Tanışın | Tolga Çelik | [Read More](https://medium.com/p/62662bdcc8ef) |
+| Sat, 10 Jan 2026 19:52:21 GMT | From Chaos to Elegance: How Design Patterns Secretly Enforce SOLID Principles | Jitin Kayyala | [Read More](https://medium.com/p/aa7105db099f) |
+| Sat, 10 Jan 2026 19:48:55 GMT | 17.5 Million Instagram Accounts Just Got Leaked and Meta is Silent | Yakhilesh | [Read More](https://medium.com/p/a05cc887e7e9) |
+| Sat, 10 Jan 2026 19:47:57 GMT | Modernizing the SOC with an AI-Based Virtual Security Analyst | Little_Sun4lower | [Read More](https://medium.com/p/e420f93f6484) |
+| Sat, 10 Jan 2026 19:47:20 GMT | The Lopsided Risk Dynamic of AI Agent Deployments | David Anderson | [Read More](https://medium.com/p/53aac7bdfd21) |
+| Sat, 10 Jan 2026 19:47:05 GMT | 86% of Organizations Delayed AI Deployments Due to Security | David Anderson | [Read More](https://medium.com/p/ef09fc5608cf) |
+| Sat, 10 Jan 2026 19:39:58 GMT | The $4.5 Million Hardware Store That Wasn’t: Inside LA’s August Cargo Theft Bust | Heesham Naji | [Read More](https://medium.com/p/ca8bd0b2d439) |
 | Sat, 10 Jan 2026 19:34:25 GMT | Active Directory Attack Path Visualisation & Threat Detection System | Abhishek Yadav | [Read More](https://medium.com/p/e41f87b4b68c) |
+| Sat, 10 Jan 2026 19:31:45 GMT | What Happens When You Let Life Flip You | The Veiled Versifier | [Read More](https://medium.com/p/aabde17636c6) |
 | Sat, 10 Jan 2026 19:30:59 GMT | 17.5 Million Instagram Users Hit by Fresh Data Leak — What Happened, What Was Taken, and What You… | Faisal haque | [Read More](https://medium.com/p/ca66d9802cd6) |
 | Sat, 10 Jan 2026 19:28:25 GMT | How Foreign Bots and Fake Outrage Are Turning Americans Against Their Own Country And What You Can… | Infinite Solutions by J. I. Memphis | [Read More](https://medium.com/p/f2ad31e6ceb8) |
 | Sat, 10 Jan 2026 19:21:34 GMT | Kali Linux Lab Home lab — Part 1 | Jacob Ferguson | [Read More](https://medium.com/p/4402655dbaa2) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 Jan 2026 13:05:07 GMT | Visual Password Generation Made Simple | Imagepassword | [Read More](https://medium.com/p/cb2bdac33623) |
 | Sat, 10 Jan 2026 13:03:04 GMT | Submission Guideline | Tal Eliyahu | [Read More](https://medium.com/p/5f5406d4b362) |
 | Sat, 10 Jan 2026 13:03:02 GMT | Sherlock tool — find username on social media | Vishalraj | [Read More](https://medium.com/p/8b53bfa361db) |
-| Sat, 10 Jan 2026 13:00:30 GMT | How I Built a Home SIEM Lab and Detected Brute Force Attack | Dwolf | [Read More](https://medium.com/p/7185ac00d70a) |
-| Sat, 10 Jan 2026 12:56:32 GMT | Cobalt Strike Advanced DATA - Red Team Operations + Command & Control Guide | Your Cheat Sheet | [Read More](https://medium.com/p/8c61490b6d7f) |
-| Sat, 10 Jan 2026 12:56:17 GMT | TheHackersLabs — Mermelada [Write-Up] | APS88 | [Read More](https://medium.com/p/2db325ff01cc) |
-| Sat, 10 Jan 2026 12:54:26 GMT | Software Supply Chain Security for Modern Teams (2026): SBOM, CI/CD Hardening, and Third-Party Risk | Attractor | [Read More](https://medium.com/p/a90793875ba8) |
-| Sat, 10 Jan 2026 12:51:35 GMT | When Three Words Crashed the Internet | Daren Diaz | [Read More](https://medium.com/p/288338c45725) |
-| Sat, 10 Jan 2026 12:44:48 GMT | OSI Model — Security Risks Associated with each Layers | Ankit M | [Read More](https://medium.com/p/2948a79d3f46) |
-| Sat, 10 Jan 2026 12:38:29 GMT | LLM & AI Agent Security (2026): Prompt Injection, Data Leakage, and Production Guardrails | Attractor | [Read More](https://medium.com/p/c9996c6dd5f9) |
-| Sat, 10 Jan 2026 12:37:42 GMT | Deep dive into AnyDesk Investigation & Forensics on Windows | Chicken0248 | [Read More](https://medium.com/p/24dc531bcc78) |
-| Sat, 10 Jan 2026 12:36:40 GMT | Getting Started with grep in Linux (Day 11 of 30-Day grep Mastery Series) | Visir | [Read More](https://medium.com/p/9297e6812eef) |
-| Sat, 10 Jan 2026 12:33:42 GMT | Generative AI Misuse: Detection, Mitigation, and Responsible Deployment | rafflesia Khan | [Read More](https://medium.com/p/10fa62614fe3) |
-| Sat, 10 Jan 2026 12:18:26 GMT | How I Passed SY0–701 Security+ Using Officaial SkillCertExams Dumps | Javov | [Read More](https://medium.com/p/8306457d9ecb) |
-| Sat, 10 Jan 2026 12:11:16 GMT | “Just give them SSH” — The Five Words That Ruin My Day | Kunal Ghosh | [Read More](https://medium.com/p/c8fffaee9018) |
-| Sat, 10 Jan 2026 12:03:00 GMT | SQL Injection in OopsSec Store: From Dropdown to Database Dump | OopsSec Store | [Read More](https://medium.com/p/d801ee99684a) |
