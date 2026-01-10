@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 23:13:35 GMT | 15 Seconds to the First Attack: Myth or Reality of Website Launches in 2026 | 0trust0day | [Read More](https://medium.com/p/9ecf50ff5640) |
+| Sat, 10 Jan 2026 22:55:46 GMT | Social Engineering: The Art of Bypassing the Human Firewall | root0emir | [Read More](https://medium.com/p/d284e3dde96e) |
+| Sat, 10 Jan 2026 22:54:07 GMT | Cryptographic Security in Backup Systems: Protecting the Final Stronghold of Data | Esra Kayhan | [Read More](https://medium.com/p/d371be23a2b9) |
+| Sat, 10 Jan 2026 22:41:53 GMT | Document, Don’t Just Experience | Techinfo | [Read More](https://medium.com/p/f22ae37c9a42) |
 | Sat, 10 Jan 2026 22:30:20 GMT | Vulnyx “Exec” CTF Writeup | sabR | [Read More](https://medium.com/p/9663b63caa71) |
 | Sat, 10 Jan 2026 22:22:20 GMT | Hands‑On CAN Bus Practical Using Free Tools (Step‑by‑Step, Legal & Safe) | Kirthi | [Read More](https://medium.com/p/84fac302e560) |
 | Sat, 10 Jan 2026 22:15:00 GMT | Cybersecurity Is an Ocean: Why Ethical Hacking Alone Is Not Enough for Beginners | Sudheesh | [Read More](https://medium.com/p/100cb8494c3c) |
@@ -109,7 +113,3 @@ The digital world makes life easier… | Victor Samuel-Columbus | [Read More](ht
 | Sat, 10 Jan 2026 14:32:46 GMT | Wireshark: An Overview and Its Use in MITM Attacks | Vignesh R | [Read More](https://medium.com/p/470d44823f2e) |
 | Sat, 10 Jan 2026 14:32:23 GMT | Don’t Know What To Do | Hira | [Read More](https://medium.com/p/b4203332a3d0) |
 | Sat, 10 Jan 2026 14:26:25 GMT | PCI DSS Compliance Readiness for an Ethical E-Commerce Brand | Safiyyah OA | [Read More](https://medium.com/p/5431d31db532) |
-| Sat, 10 Jan 2026 14:19:15 GMT | Introduction to Incident Response | Allen Ace | [Read More](https://medium.com/p/b36e501001f8) |
-| Sat, 10 Jan 2026 14:18:20 GMT | F5 Cyber Attack — 2024/2025 | VIGNESH | [Read More](https://medium.com/p/85d5e282e943) |
-| Sat, 10 Jan 2026 14:17:46 GMT | OSINT for Beginners: Learn Cybersecurity Like a Digital Detective ️‍♂️ | Rutiktarle | [Read More](https://medium.com/p/056c3070e2ff) |
-| Sat, 10 Jan 2026 14:12:01 GMT | How I Won a $2,000 Bug Bounty Using Only Nmap | Cybervolt | [Read More](https://medium.com/p/45086c5e9ac3) |
