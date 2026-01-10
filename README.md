@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 20:59:17 GMT | GraphQL Introspection Query Enabled Vuln CTF Challenge | blackm4c | [Read More](https://medium.com/p/902f6dec2a64) |
+| Sat, 10 Jan 2026 20:56:26 GMT | Cybersecurity Is No Longer Optional — Here’s Why It Matters
+The digital world makes life easier… | Victor Samuel-Columbus | [Read More](https://medium.com/p/b72952c58e9a) |
+| Sat, 10 Jan 2026 20:53:13 GMT | (Part 15) Mastering GitHub Copilot Series: Real-World Ops — Using Copilot to Level Up Your IaC Game | Nick | [Read More](https://medium.com/p/7feaa1533257) |
+| Sat, 10 Jan 2026 20:46:53 GMT | How i was able to delete any user account i wanted from the application :) | aiden0x | [Read More](https://medium.com/p/44426f78a70a) |
 | Sat, 10 Jan 2026 20:06:59 GMT | How I Bypassed Premium Content to Download Movies for Free Via Token Refresh Abuse | Muhammad Zain | [Read More](https://medium.com/p/5fbbb66a30f6) |
 | Sat, 10 Jan 2026 19:59:05 GMT | The Text Message That Ended the Illusion of “Closeness” | Aysun Mete | [Read More](https://medium.com/p/ec2cdedea3f5) |
 | Sat, 10 Jan 2026 19:58:14 GMT | Mastering Seccomp Filters in Production Environments | Linux Guide | [Read More](https://medium.com/p/bc49ea2c8c72) |
@@ -108,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 Jan 2026 13:22:14 GMT | Windows 11 Pro vs Home: Why File Sharing Fails and How to Fix It Properly | Kishan T A | [Read More](https://medium.com/p/c41463661486) |
 | Sat, 10 Jan 2026 13:19:44 GMT | Top Web Penetration Testing Services in Canada - PlutoSec | Plutosec Cyber Security | [Read More](https://medium.com/p/cf518a31fe60) |
 | Sat, 10 Jan 2026 13:16:20 GMT | JWT Part Authentication in Spring Boot: A Complete Implementation Guide | Sarveshkhamkar | [Read More](https://medium.com/p/5a9277d42ed4) |
-| Sat, 10 Jan 2026 13:13:35 GMT | Hack My School: What This Search Really Means For Education and Cybersecurity | Rebecca Smith | [Read More](https://medium.com/p/14ac390363a0) |
-| Sat, 10 Jan 2026 13:05:07 GMT | Visual Password Generation Made Simple | Imagepassword | [Read More](https://medium.com/p/cb2bdac33623) |
-| Sat, 10 Jan 2026 13:03:04 GMT | Submission Guideline | Tal Eliyahu | [Read More](https://medium.com/p/5f5406d4b362) |
-| Sat, 10 Jan 2026 13:03:02 GMT | Sherlock tool — find username on social media | Vishalraj | [Read More](https://medium.com/p/8b53bfa361db) |
