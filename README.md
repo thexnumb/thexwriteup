@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 05:09:46 GMT | Why Campus Ambassador Programs and Internships Are the Real Career Advantage for Students… | Ankit rai | [Read More](https://medium.com/p/0648eeb2caaf) |
+| Sat, 10 Jan 2026 05:07:16 GMT | PNPT Exam Review: What the Exam Is Really Like | VulnKraft | [Read More](https://medium.com/p/85ab99037683) |
+| Sat, 10 Jan 2026 05:06:42 GMT | APICrash writeup — YesWeHack dojo | B13ss3d | [Read More](https://medium.com/p/d62236c5c717) |
+| Sat, 10 Jan 2026 05:06:28 GMT | APICrash writeup — YesWeHack dojo | B13ss3d | [Read More](https://medium.com/p/d44e660fea49) |
+| Sat, 10 Jan 2026 05:03:09 GMT | Why Sites Get Hacked: 7 Top Causes of Website Malware Infections | interdata-vn | [Read More](https://medium.com/p/0437b154788c) |
+| Sat, 10 Jan 2026 04:56:52 GMT | AI-Powered Safety in Logistics: How Smart Warehouses Are Transforming Operations? | Dolon Ghosh | [Read More](https://medium.com/p/d7f9f934b8fb) |
+| Sat, 10 Jan 2026 04:54:37 GMT | Data does not Lie, but Probability DOES!!! | Seth J | [Read More](https://medium.com/p/1f544bfd53b7) |
+| Sat, 10 Jan 2026 04:53:37 GMT | Authentication vs Authorization: Kenapa Login Saja Tidak Cukup? | IMVANZ | [Read More](https://medium.com/p/3e808d78a9ab) |
+| Sat, 10 Jan 2026 04:51:52 GMT | Why Freight Broker Survival Now Depends on Fraud Prevention | Heesham Naji | [Read More](https://medium.com/p/7d8d30273edb) |
 | Sat, 10 Jan 2026 04:42:22 GMT | Why testing password policies matters in advanced web application penetration testing | Marwan Alsaifi | [Read More](https://medium.com/p/ff0944627f5c) |
 | Sat, 10 Jan 2026 04:35:06 GMT | Cybersecurity for Enterprises: 7 Powerful Strategies for a Safer, Smarter Digital Future | Maxatlasofficial | [Read More](https://medium.com/p/f5979edee636) |
 | Sat, 10 Jan 2026 04:32:53 GMT | How the NSA Hacked Huawei: Operation Shotgiant | AYMAN PATIL | [Read More](https://medium.com/p/638aff115b4a) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 19:19:08 GMT | Securing SSH Access to AWS EC2: From Perimeter Controls to Detection | Surya Naga Sesank Munukutla | [Read More](https://medium.com/p/b313e152aa8f) |
 | Fri, 09 Jan 2026 19:08:42 GMT | When a Break-down Leads to a Break-Out | Laura DeMaisBerg | [Read More](https://medium.com/p/4fbb5cd1bbfc) |
 | Fri, 09 Jan 2026 19:04:08 GMT | Linux broke me not the target | Manoj Nepal | [Read More](https://medium.com/p/c2ce94c9a999) |
-| Fri, 09 Jan 2026 19:03:37 GMT | AuthZen, Cedar, OPA, and Zanzibar-style FGA | Zeigeist | [Read More](https://medium.com/p/f72bd1c51395) |
-| Fri, 09 Jan 2026 19:02:47 GMT | The Ultimate React Native Security Guide: Protect Your App Like a Pro (2026 Edition) | Arslan Shaukat | [Read More](https://medium.com/p/25c0eed54238) |
-| Fri, 09 Jan 2026 19:01:58 GMT | Luxury Hotel Security Officer Job 2026 in Singapore Central Region. Apply Today | Mazdori Kamao | [Read More](https://medium.com/p/c6400d624cf8) |
-| Fri, 09 Jan 2026 19:01:39 GMT | Creating a Vulnerable Windows Network Share | Johnny Meintel | [Read More](https://medium.com/p/fd43ec5bf8f4) |
-| Fri, 09 Jan 2026 18:53:37 GMT | Agentic SOC Isn’t a Magic Robot. It’s an Operating Model. | Denny Roger | [Read More](https://medium.com/p/31087594bb12) |
-| Fri, 09 Jan 2026 18:52:30 GMT | Designing Solutions That Survive Reality: 7 Architecture Principles That Actually Matter | Sandeep Kumar Maylavaram | [Read More](https://medium.com/p/00a20d65e791) |
-| Fri, 09 Jan 2026 18:48:30 GMT | C0M-0lhO CTFs Write-Ups: Flags with Original Sources | StrangeRwhite | [Read More](https://medium.com/p/e2d28dcccace) |
-| Fri, 09 Jan 2026 18:46:39 GMT | The security Guard’s Nightly Patrol ended in my wet pussy | Johnson Kelly❤️ | [Read More](https://medium.com/p/6034278e2f3b) |
-| Fri, 09 Jan 2026 18:43:33 GMT | Security Without Proof Is Just a Belief System | Gary Michael Weiner | [Read More](https://medium.com/p/59cf150cfa91) |
