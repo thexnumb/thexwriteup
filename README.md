@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 04:42:22 GMT | Why testing password policies matters in advanced web application penetration testing | Marwan Alsaifi | [Read More](https://medium.com/p/ff0944627f5c) |
+| Sat, 10 Jan 2026 04:35:06 GMT | Cybersecurity for Enterprises: 7 Powerful Strategies for a Safer, Smarter Digital Future | Maxatlasofficial | [Read More](https://medium.com/p/f5979edee636) |
+| Sat, 10 Jan 2026 04:32:53 GMT | How the NSA Hacked Huawei: Operation Shotgiant | AYMAN PATIL | [Read More](https://medium.com/p/638aff115b4a) |
+| Sat, 10 Jan 2026 04:27:59 GMT | AWS Security Agent: Disruptive Innovation in Application Security or Marketing Buzz? | Xaferima | [Read More](https://medium.com/p/bc57dff89a98) |
+| Sat, 10 Jan 2026 04:26:35 GMT | Hack The Gioi Hai Tac | Apkpuredev | [Read More](https://medium.com/p/6a96922f2e86) |
+| Sat, 10 Jan 2026 04:02:46 GMT | Penetration Testing on AWS Cloud | Saria Mubeen | [Read More](https://medium.com/p/1d35d8a1f7d4) |
+| Sat, 10 Jan 2026 04:01:41 GMT | I Checked How Many Companies Track Me Online. The Number Was 847. | Ashley M. | [Read More](https://medium.com/p/9e10c5c16462) |
 | Sat, 10 Jan 2026 03:53:09 GMT | Dark Web Explained for Beginners (With Real Examples) | Tech Word | [Read More](https://medium.com/p/e510f1659201) |
 | Sat, 10 Jan 2026 03:51:04 GMT | How Your Mobile Apps Track You Even When Closed: Understanding the Hidden Cyber Threats | Tech Word | [Read More](https://medium.com/p/53ade153ef68) |
 | Sat, 10 Jan 2026 03:32:49 GMT | When Your Car Becomes a Computer: Understanding the Real Risks of Dashboard Hacking | Deven Chhajed | [Read More](https://medium.com/p/fc4cd65f6ea3) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 18:48:30 GMT | C0M-0lhO CTFs Write-Ups: Flags with Original Sources | StrangeRwhite | [Read More](https://medium.com/p/e2d28dcccace) |
 | Fri, 09 Jan 2026 18:46:39 GMT | The security Guard’s Nightly Patrol ended in my wet pussy | Johnson Kelly❤️ | [Read More](https://medium.com/p/6034278e2f3b) |
 | Fri, 09 Jan 2026 18:43:33 GMT | Security Without Proof Is Just a Belief System | Gary Michael Weiner | [Read More](https://medium.com/p/59cf150cfa91) |
-| Fri, 09 Jan 2026 18:39:49 GMT | Gitxray v1.0.20: Inferring Timezones for Contributors, Commit Pattern Analysis, and more. | Kulkan Security | [Read More](https://medium.com/p/f49cd4e35862) |
-| Fri, 09 Jan 2026 18:27:15 GMT | How to Spot Fake or Impersonation Profiles Online | Social Searcher | [Read More](https://medium.com/p/90cdc7e959de) |
-| Fri, 09 Jan 2026 18:05:25 GMT | Exploring NSUDO to better filter unwanted port 443 activity on windows 11 | William Ashley | [Read More](https://medium.com/p/dd273b4c7d8c) |
-| Fri, 09 Jan 2026 18:03:33 GMT | Ethical Hacking — A Simple Story | Ahmed Naeem | [Read More](https://medium.com/p/052ce22a3eca) |
-| Fri, 09 Jan 2026 17:59:11 GMT | Why DMCA-Aware Offshore Hosting Matters in a Privacy-First Internet | SemayraHost | [Read More](https://medium.com/p/3bc15ea72cf1) |
-| Fri, 09 Jan 2026 17:50:58 GMT | The Silent Threat Lurking in Your Inbox: Promptware and Indirect Prompt Injection Attacks | Himansu Saha | [Read More](https://medium.com/p/e4dff1fb015e) |
-| Fri, 09 Jan 2026 17:49:05 GMT | Why Security Should Be Planned Before Scaling, Not After | Digital Defense | [Read More](https://medium.com/p/19ea404c19e4) |
