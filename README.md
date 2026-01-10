@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 07:19:51 GMT | AI Pentesting Methodology — Tryhackme - BankGPT | Rahul Singh Chauhan | [Read More](https://medium.com/p/1c24df63d1e7) |
+| Sat, 10 Jan 2026 07:02:54 GMT | How a Simple Email List Got Me My First Bug Bounty | Suvraj | [Read More](https://medium.com/p/0fe69dfc66b2) |
+| Sat, 10 Jan 2026 06:47:36 GMT | Ethical Hacking Roadmap for 2026: From ZERO to PRO | Surajbaishya | [Read More](https://medium.com/p/b80840dd8919) |
+| Sat, 10 Jan 2026 06:45:08 GMT | Chatbot AI sebagai assistant pentest | Kelompok 4 | [Read More](https://medium.com/p/494aedd0443c) |
+| Sat, 10 Jan 2026 06:39:36 GMT | How to Use LLMs For Hacking - Bug Bounty Tips | Alham Rizvi(ExoidSec) | [Read More](https://medium.com/p/df39c94ac2e6) |
+| Sat, 10 Jan 2026 06:36:34 GMT | Strange Hair cuts and Yoga pants are over in Tech nerds | Sparc Mint | [Read More](https://medium.com/p/986a0c32f4c4) |
+| Sat, 10 Jan 2026 06:36:12 GMT | Microsoft Security Tools for Enterprises: Enhancing Windows 11 Security Features | Laurel Blackburn | [Read More](https://medium.com/p/a99890b7610c) |
+| Sat, 10 Jan 2026 06:35:49 GMT | My Address Book Is Safer Than Password Managers | Ivan Junior | [Read More](https://medium.com/p/c036a9a91422) |
+| Sat, 10 Jan 2026 06:32:44 GMT | AWS Security Agent-Penetration Testing Overview | Sena Yakut | [Read More](https://medium.com/p/e05cc62ce4f6) |
+| Sat, 10 Jan 2026 06:32:11 GMT | The Linux Security Journey — /etc/shadow (Shadowed Password File) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f815b9d5e6a0) |
 | Sat, 10 Jan 2026 06:29:07 GMT | What the Internet Sees Before an Attacker Strikes: Lessons from External Penetration Testing | Khan | [Read More](https://medium.com/p/884ea0b3a75c) |
 | Sat, 10 Jan 2026 06:24:33 GMT | Networking Basics: A Beginner’s Guide to IP Addresses & Key Components. | Syber Security beginner. | [Read More](https://medium.com/p/730d16ae410d) |
 | Sat, 10 Jan 2026 06:23:40 GMT | On-Premise-01 Challenge — Writeup | Parth Dobariya | [Read More](https://medium.com/p/bf1f94dee9c5) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 21:43:31 GMT | Securing Your Secrets in Go: From DIY Disaster to Production-Ready | Mickael Stanislas | [Read More](https://medium.com/p/3804eaf5e35a) |
 | Fri, 09 Jan 2026 21:39:20 GMT | Brooklyn Nine Nine TryHackMe Write UP | cat0x01 | [Read More](https://medium.com/p/dff233ed4b01) |
 | Fri, 09 Jan 2026 21:35:33 GMT | I Watched an AI Agent Delete Customer Data. Nobody Got Fired. | Naveen C | [Read More](https://medium.com/p/f22518904431) |
-| Fri, 09 Jan 2026 21:34:15 GMT | Lessons Learned from a SOAR Engineer: Series Intro | Joshua Campbell | [Read More](https://medium.com/p/f1bf666216fa) |
-| Fri, 09 Jan 2026 21:31:13 GMT | How I Went From ‘I’m Not a Hardware Person’ to Reverse Engineering Devices | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/536b4f6f8692) |
-| Fri, 09 Jan 2026 21:30:58 GMT | Coming Soon: Life as a Former Computer Hacker | Clacroix | [Read More](https://medium.com/p/bbde228e15fa) |
-| Fri, 09 Jan 2026 21:21:22 GMT | The Dark Side of AI: 10 Attacks You Need to Know About | Dhilip Narayan Srinivasan | [Read More](https://medium.com/p/af77e40ca676) |
-| Fri, 09 Jan 2026 21:21:10 GMT | One Click. One App. A Lifetime of Savings Gone! | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/485825133d84) |
-| Fri, 09 Jan 2026 21:10:16 GMT | Insider Threats Explained: Why Training Your Team is Non-Negotiable | Kenn Anderson, Jr. | [Read More](https://medium.com/p/f5c967068cca) |
-| Fri, 09 Jan 2026 21:06:01 GMT | Understanding AWS WAF Architecture and Request Inspection | Shivanshu Sharma | [Read More](https://medium.com/p/4452eb059d0a) |
-| Fri, 09 Jan 2026 21:05:13 GMT | Your Car’s Biggest Blind Spot Isn’t on the Road — It’s in the Code. | Semih Araz | [Read More](https://medium.com/p/366118276bbf) |
-| Fri, 09 Jan 2026 20:52:08 GMT | Identidade verdadeira em Cristo | Filipe André Gaio | [Read More](https://medium.com/p/ea096667dfb9) |
-| Fri, 09 Jan 2026 20:43:23 GMT | Beyond the Green Checkmark: The Case for Semantic Static Analysis in Flutter | Saropa Contacts News | [Read More](https://medium.com/p/a592942d4460) |
