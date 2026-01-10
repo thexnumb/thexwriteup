@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 09:33:53 GMT | Understanding HTTP Status Codes | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/479d607534c1) |
+| Sat, 10 Jan 2026 09:30:55 GMT | The Invisible Breach: Why Your Encrypted Data is Already Being Stolen | Krishna M S | [Read More](https://medium.com/p/0f3c91b15814) |
+| Sat, 10 Jan 2026 09:30:04 GMT | Authentication Bypass via JWT Replay Leading to Account Takeover | Redhound | [Read More](https://medium.com/p/da7bf8fc125c) |
 | Sat, 10 Jan 2026 09:21:24 GMT | PowerShell for Pentesters notes — TryHackMe | Jose Praveen | [Read More](https://medium.com/p/a9ce8454b6ca) |
 | Sat, 10 Jan 2026 09:11:05 GMT | Why Modern Businesses Must Choose Advanced Network Security | StandaloneDigitech | [Read More](https://medium.com/p/a6e48eafe4c4) |
 | Sat, 10 Jan 2026 09:04:57 GMT | Will AI Replace Ethical Hackers? The Truth About Cybersecurity in the Age of LLMs | Axoloth | [Read More](https://medium.com/p/62b52a033854) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 Jan 2026 00:02:48 GMT | Commix Guide: Automating OS Command Injection in Bug Bounty | JPablo13 | [Read More](https://medium.com/p/26735e722fe4) |
 | Fri, 09 Jan 2026 23:59:35 GMT | 3 Habits for a Safer Online Life | Daria Michajlova | [Read More](https://medium.com/p/6116db4884d1) |
 | Fri, 09 Jan 2026 23:47:33 GMT | Knife: The Invisible Wound in the Supply Chain | Nicholas Mullenski | [Read More](https://medium.com/p/5a2df1d3683d) |
-| Fri, 09 Jan 2026 23:44:02 GMT | CVE‑2026‑21876: A Critical Multipart Parsing Flaw in OWASP Core Rule Set | gm0 | [Read More](https://medium.com/p/ef9cc11a7338) |
-| Fri, 09 Jan 2026 23:39:33 GMT | Breaking Password Reset Logic: A Comprehensive Exploitation Guide | Fuzzyy Duck | [Read More](https://medium.com/p/3c626aedb0fa) |
-| Fri, 09 Jan 2026 23:39:27 GMT | Happy New Year 2025  — Welcome Back! Let’s Talk About the Updated OWASP Top 10 | Yamini Yadav_369 | [Read More](https://medium.com/p/b0fba21c197a) |
