@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 07:22:10 GMT | JWT at Shady Oaks Financial — BugForge Daily Challenge | 0ber1n | [Read More](https://medium.com/p/00ba2ddd52a2) |
+| Sat, 10 Jan 2026 07:21:56 GMT | Ace Racer Mod APK | Bandisharecx | [Read More](https://medium.com/p/9a0e0f741e21) |
 | Sat, 10 Jan 2026 07:19:51 GMT | AI Pentesting Methodology — Tryhackme - BankGPT | Rahul Singh Chauhan | [Read More](https://medium.com/p/1c24df63d1e7) |
 | Sat, 10 Jan 2026 07:02:54 GMT | How a Simple Email List Got Me My First Bug Bounty | Suvraj | [Read More](https://medium.com/p/0fe69dfc66b2) |
 | Sat, 10 Jan 2026 06:47:36 GMT | Ethical Hacking Roadmap for 2026: From ZERO to PRO | Surajbaishya | [Read More](https://medium.com/p/b80840dd8919) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 22:03:13 GMT | Intro to web hacking | TheNotorious | [Read More](https://medium.com/p/eeae1d1c4e5f) |
 | Fri, 09 Jan 2026 21:43:47 GMT | Vulnerability Management Isn’t Just Scanning | Gayatri Nakar | [Read More](https://medium.com/p/6049f3007925) |
 | Fri, 09 Jan 2026 21:43:31 GMT | Securing Your Secrets in Go: From DIY Disaster to Production-Ready | Mickael Stanislas | [Read More](https://medium.com/p/3804eaf5e35a) |
-| Fri, 09 Jan 2026 21:39:20 GMT | Brooklyn Nine Nine TryHackMe Write UP | cat0x01 | [Read More](https://medium.com/p/dff233ed4b01) |
-| Fri, 09 Jan 2026 21:35:33 GMT | I Watched an AI Agent Delete Customer Data. Nobody Got Fired. | Naveen C | [Read More](https://medium.com/p/f22518904431) |
