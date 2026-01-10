@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 21:33:14 GMT | One difficult virtual machine startup Problem: The quest to find a solution | Umar Al-Mahfuz | [Read More](https://medium.com/p/1c100c953591) |
+| Sat, 10 Jan 2026 21:27:29 GMT | Advent of Cyber — Day 12: Phishing — Phishmas Greetings | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/9e34e1487413) |
+| Sat, 10 Jan 2026 21:27:07 GMT | Securing AI Systems: The New Frontier of Cybersecurity | Nayan Goel | [Read More](https://medium.com/p/525a5844a3fc) |
+| Sat, 10 Jan 2026 21:23:31 GMT | Advent of Cyber — Day 11: XSS — Merry XSSMas | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/087c9a2d4e44) |
+| Sat, 10 Jan 2026 21:21:51 GMT | How to Check a Hash Value with PowerShell | Ryan Revell | [Read More](https://medium.com/p/0f87f1583fde) |
 | Sat, 10 Jan 2026 20:59:17 GMT | GraphQL Introspection Query Enabled Vuln CTF Challenge | blackm4c | [Read More](https://medium.com/p/902f6dec2a64) |
 | Sat, 10 Jan 2026 20:56:26 GMT | Cybersecurity Is No Longer Optional — Here’s Why It Matters
 The digital world makes life easier… | Victor Samuel-Columbus | [Read More](https://medium.com/p/b72952c58e9a) |
@@ -108,8 +113,3 @@ The digital world makes life easier… | Victor Samuel-Columbus | [Read More](ht
 | Sat, 10 Jan 2026 13:58:09 GMT | Tony99 Server Status: How to Bypass Connection Latency (Updated Jan 2026) | Aussie Pokies Bonus | [Read More](https://medium.com/p/2c9396e6355d) |
 | Sat, 10 Jan 2026 13:54:00 GMT | Don’t Wait for a Breach: Secure Your Systems with Professional Penetration Testing | Plutosec Cyber Security | [Read More](https://medium.com/p/8cabba5180eb) |
 | Sat, 10 Jan 2026 13:45:44 GMT | Demystifying Cyber Attack Terminology a.k.a…..what the heck do these words mean | Kevin Kelly | [Read More](https://medium.com/p/83d2ca4191af) |
-| Sat, 10 Jan 2026 13:37:42 GMT | Application Security:Password Salts and Rainbow Tables | Vikas Taank | [Read More](https://medium.com/p/46403314d3a4) |
-| Sat, 10 Jan 2026 13:27:30 GMT | Basic Networking Concepts | Anila Ashraf | [Read More](https://medium.com/p/41ed7b937b07) |
-| Sat, 10 Jan 2026 13:22:14 GMT | Windows 11 Pro vs Home: Why File Sharing Fails and How to Fix It Properly | Kishan T A | [Read More](https://medium.com/p/c41463661486) |
-| Sat, 10 Jan 2026 13:19:44 GMT | Top Web Penetration Testing Services in Canada - PlutoSec | Plutosec Cyber Security | [Read More](https://medium.com/p/cf518a31fe60) |
-| Sat, 10 Jan 2026 13:16:20 GMT | JWT Part Authentication in Spring Boot: A Complete Implementation Guide | Sarveshkhamkar | [Read More](https://medium.com/p/5a9277d42ed4) |
