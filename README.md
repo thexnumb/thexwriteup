@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 12:38:29 GMT | LLM & AI Agent Security (2026): Prompt Injection, Data Leakage, and Production Guardrails | Attractor | [Read More](https://medium.com/p/c9996c6dd5f9) |
+| Sat, 10 Jan 2026 12:33:42 GMT | Generative AI Misuse: Detection, Mitigation, and Responsible Deployment | rafflesia Khan | [Read More](https://medium.com/p/10fa62614fe3) |
+| Sat, 10 Jan 2026 12:18:26 GMT | How I Passed SY0–701 Security+ Using Officaial SkillCertExams Dumps | Javov | [Read More](https://medium.com/p/8306457d9ecb) |
+| Sat, 10 Jan 2026 12:11:16 GMT | “Just give them SSH” — The Five Words That Ruin My Day | Kunal Ghosh | [Read More](https://medium.com/p/c8fffaee9018) |
+| Sat, 10 Jan 2026 12:03:00 GMT | SQL Injection in OopsSec Store: From Dropdown to Database Dump | OopsSec Store | [Read More](https://medium.com/p/d801ee99684a) |
+| Sat, 10 Jan 2026 12:02:51 GMT | Pourquoi tant de débutants en cybersécurité recommencent chaque année ? | nullbyte | [Read More](https://medium.com/p/1669781ae59b) |
+| Sat, 10 Jan 2026 12:00:12 GMT | Cybersecurity Implications of Exposing Sensitive Financial Information Online | Akanbi Paul Favour | [Read More](https://medium.com/p/1dd1978eae56) |
+| Sat, 10 Jan 2026 11:59:42 GMT | TryHackMe Walkthrough: Undefined Lab Writeup | Ankush Prasad Sah | [Read More](https://medium.com/p/59612373a6ac) |
+| Sat, 10 Jan 2026 11:58:44 GMT | Zero Trust Architecture (ZTA): A Practical and Strategic Approach to Securing Modern Networks | Medessa | [Read More](https://medium.com/p/0a92b9b27c44) |
+| Sat, 10 Jan 2026 11:51:02 GMT | Conquering Cybersecurity Capstone Challenges: A Hands-On Journey in Ethical Hacking | Seun odebode | [Read More](https://medium.com/p/12de6ced2b0b) |
+| Sat, 10 Jan 2026 11:35:07 GMT | Linux System Hardening — Writeup | Mahir | [Read More](https://medium.com/p/9654a98cf05e) |
 | Sat, 10 Jan 2026 11:21:59 GMT | The €400 Bug - VPN/Geo Location Bypass | Umanhonlen Gabriel | [Read More](https://medium.com/p/0e9a6d26dd37) |
 | Sat, 10 Jan 2026 11:21:47 GMT | The Hidden Cost of Convenience in Centralized Wallets | OG Global News | [Read More](https://medium.com/p/8ff8350960a2) |
 | Sat, 10 Jan 2026 11:09:41 GMT | Exposing “myspeedpost.com” India Post Scam | ARoy | [Read More](https://medium.com/p/c8aec5e8e5c2) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 Jan 2026 04:35:06 GMT | Cybersecurity for Enterprises: 7 Powerful Strategies for a Safer, Smarter Digital Future | Maxatlasofficial | [Read More](https://medium.com/p/f5979edee636) |
 | Sat, 10 Jan 2026 04:32:53 GMT | How the NSA Hacked Huawei: Operation Shotgiant | AYMAN PATIL | [Read More](https://medium.com/p/638aff115b4a) |
 | Sat, 10 Jan 2026 04:27:59 GMT | AWS Security Agent: Disruptive Innovation in Application Security or Marketing Buzz? | Xaferima | [Read More](https://medium.com/p/bc57dff89a98) |
-| Sat, 10 Jan 2026 04:26:35 GMT | Hack The Gioi Hai Tac | Apkpuredev | [Read More](https://medium.com/p/6a96922f2e86) |
-| Sat, 10 Jan 2026 04:02:46 GMT | Penetration Testing on AWS Cloud | Saria Mubeen | [Read More](https://medium.com/p/1d35d8a1f7d4) |
-| Sat, 10 Jan 2026 04:01:41 GMT | I Checked How Many Companies Track Me Online. The Number Was 847. | Ashley M. | [Read More](https://medium.com/p/9e10c5c16462) |
-| Sat, 10 Jan 2026 03:53:09 GMT | Dark Web Explained for Beginners (With Real Examples) | Tech Word | [Read More](https://medium.com/p/e510f1659201) |
-| Sat, 10 Jan 2026 03:51:04 GMT | How Your Mobile Apps Track You Even When Closed: Understanding the Hidden Cyber Threats | Tech Word | [Read More](https://medium.com/p/53ade153ef68) |
-| Sat, 10 Jan 2026 03:32:49 GMT | When Your Car Becomes a Computer: Understanding the Real Risks of Dashboard Hacking | Deven Chhajed | [Read More](https://medium.com/p/fc4cd65f6ea3) |
-| Sat, 10 Jan 2026 03:32:49 GMT | Getting Started with grep in Linux (Day 10 of 30-Day grep Mastery Series) | Visir | [Read More](https://medium.com/p/c4e67961e923) |
-| Sat, 10 Jan 2026 03:24:55 GMT | Traffic-Sentinel: Building an Explainable, Log-Based Web Security Detection System Without a WAF | Arittroskr | [Read More](https://medium.com/p/5df73a128c83) |
-| Sat, 10 Jan 2026 03:23:29 GMT | How Kerberos Authentication Works — End to End | Paritosh | [Read More](https://medium.com/p/aa114d46d124) |
-| Sat, 10 Jan 2026 03:15:04 GMT | Why Tech & Cyber “News” Fails — And What Real Intelligence Looks Like | NeuralKitPro | [Read More](https://medium.com/p/a1220ed13f64) |
-| Sat, 10 Jan 2026 03:03:16 GMT | Why critical thinking is a core UX skill in Cybersecurity. | Niharika Naidu | [Read More](https://medium.com/p/02eaee83a695) |
