@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 06:29:07 GMT | What the Internet Sees Before an Attacker Strikes: Lessons from External Penetration Testing | Khan | [Read More](https://medium.com/p/884ea0b3a75c) |
+| Sat, 10 Jan 2026 06:24:33 GMT | Networking Basics: A Beginner’s Guide to IP Addresses & Key Components. | Syber Security beginner. | [Read More](https://medium.com/p/730d16ae410d) |
+| Sat, 10 Jan 2026 06:23:40 GMT | On-Premise-01 Challenge — Writeup | Parth Dobariya | [Read More](https://medium.com/p/bf1f94dee9c5) |
+| Sat, 10 Jan 2026 06:23:18 GMT | The Shield in the Shadows: How Ethical Hackers Defend Businesses and Digital Users | Hadiyayazeen | [Read More](https://medium.com/p/be6b6fbf00e8) |
+| Sat, 10 Jan 2026 06:11:14 GMT | Santa’s Byte-Level Bookkeeping: Solving pwn.college Day 01 | Eeshan Agrawal | [Read More](https://medium.com/p/757469859b80) |
+| Sat, 10 Jan 2026 06:04:45 GMT | How to Spot an Exchange with the Best Security Features | CryptoAlphas | [Read More](https://medium.com/p/9c1eaa5dab4c) |
+| Sat, 10 Jan 2026 06:03:48 GMT | Some basics commands of Linux | Vishalraj | [Read More](https://medium.com/p/28b63e8a5491) |
+| Sat, 10 Jan 2026 06:02:48 GMT | Mavi Takım: Siber Savunmanın Sessiz Kahramanları | Zerioth Cypher Evidence | [Read More](https://medium.com/p/5b7c8cd7dfa2) |
+| Sat, 10 Jan 2026 05:59:14 GMT | How Modern Cyber Strategies Are Leaving Critical Infrastructure in the Shadows | CCD-IS | [Read More](https://medium.com/p/ada70579edae) |
+| Sat, 10 Jan 2026 05:52:55 GMT | File Path Traversal, Validation of File Extension with Null Byte Bypass | Bash Overflow | [Read More](https://medium.com/p/7eeabc0ad3b1) |
+| Sat, 10 Jan 2026 05:51:18 GMT | Multitasking Is Quietly Killing Your Bug Bounty Results | Gl1tch | [Read More](https://medium.com/p/9c08d04f653d) |
+| Sat, 10 Jan 2026 05:51:16 GMT | How to Start Coding, Crack the Job, and Survive in a World Full of AI, Layoffs, and Pressure.. | Shubham Vartak | [Read More](https://medium.com/p/6badcddf60f5) |
+| Sat, 10 Jan 2026 05:47:11 GMT | Hidden Performance Killers Installed Alongside Free Software | Ask IT Support | [Read More](https://medium.com/p/cbbef9dbba03) |
+| Sat, 10 Jan 2026 05:44:36 GMT | HackQuest Season 10 — Round: My Take | Akhilesh Singh | [Read More](https://medium.com/p/7658f4cb475c) |
+| Sat, 10 Jan 2026 05:42:49 GMT | Ethical Hacker vs Cyber Criminal: What’s the Difference? | Hadiyayazeen | [Read More](https://medium.com/p/279ef1e4209f) |
 | Sat, 10 Jan 2026 05:42:23 GMT | Business Logic Flaws: The Vulnerability That Thinks Like a Human | Deezacker | [Read More](https://medium.com/p/04c88583b1c0) |
 | Sat, 10 Jan 2026 05:28:06 GMT | Security Mistakes Frontend Engineers Make (Even at Senior Level) | Sameer Thite | [Read More](https://medium.com/p/bef4180f2e92) |
 | Sat, 10 Jan 2026 05:19:31 GMT | PJPT Exam Review: What to Expect From TCM Security’s Practical Junior Penetration Tester… | VulnKraft | [Read More](https://medium.com/p/257dd8a104df) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 21:05:13 GMT | Your Car’s Biggest Blind Spot Isn’t on the Road — It’s in the Code. | Semih Araz | [Read More](https://medium.com/p/366118276bbf) |
 | Fri, 09 Jan 2026 20:52:08 GMT | Identidade verdadeira em Cristo | Filipe André Gaio | [Read More](https://medium.com/p/ea096667dfb9) |
 | Fri, 09 Jan 2026 20:43:23 GMT | Beyond the Green Checkmark: The Case for Semantic Static Analysis in Flutter | Saropa Contacts News | [Read More](https://medium.com/p/a592942d4460) |
-| Fri, 09 Jan 2026 20:34:21 GMT | What Is a Local Tradition in Omuooke That Has Adapted in a Surprising Way Because of New Technology? | ROYAL FAMILY NEWS UPDATE | [Read More](https://medium.com/p/81ffc2393a7a) |
-| Fri, 09 Jan 2026 20:27:00 GMT | THE INTEGRITY COLLAPSE | Pravesh Sharma | [Read More](https://medium.com/p/7f2196bc9dec) |
-| Fri, 09 Jan 2026 20:13:54 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/d6a851c96c19) |
-| Fri, 09 Jan 2026 20:13:49 GMT | music mosaic | Srinidhi Ravi | [Read More](https://medium.com/p/d3ffcf95b329) |
-| Fri, 09 Jan 2026 20:12:48 GMT | How Cybercrime is Changing With COVID-19 | Digital Uppercut | [Read More](https://medium.com/p/73bdbf13a325) |
-| Fri, 09 Jan 2026 20:12:15 GMT | THE ULTIMATE OSI MODEL MASTERY GUIDE | hareem khan | [Read More](https://medium.com/p/6e82709981d7) |
-| Fri, 09 Jan 2026 20:11:42 GMT | Remote Worker Security Becomes Critical | Digital Uppercut | [Read More](https://medium.com/p/7032b12a2267) |
-| Fri, 09 Jan 2026 20:11:16 GMT | React2Shell: When Frameworks Become Attack Vectors | xoelrdgz | [Read More](https://medium.com/p/46225fd50d49) |
-| Fri, 09 Jan 2026 20:04:12 GMT | Notes from Building a Mini Server (Confusion to Responsibility) | Rajvaibhav | [Read More](https://medium.com/p/eba56dd6f344) |
-| Fri, 09 Jan 2026 19:55:04 GMT | Why Tech Engineers Should Write About Their Learning & Experience Journey — January 2026 (Blogs) | Kamalpreet KAUR MARTINEZ | [Read More](https://medium.com/p/1a37ec6e1c43) |
-| Fri, 09 Jan 2026 19:50:43 GMT | Shady Oaks Financial (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/d5b07ca09eb9) |
-| Fri, 09 Jan 2026 19:46:11 GMT | Day 154 — Why Ransomware Is Usually Detected Too Late? | Jinay | [Read More](https://medium.com/p/2111bfbbd312) |
-| Fri, 09 Jan 2026 19:40:01 GMT | HexTree Intent Attack Surface — Android Pentesting Walkthrough | d4vnull | [Read More](https://medium.com/p/47d975606711) |
-| Fri, 09 Jan 2026 19:38:45 GMT | DockerLabs Writeup — Wargames (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/2aeb0f78404b) |
-| Fri, 09 Jan 2026 19:38:18 GMT | The Power of Cybersecurity: Beyond What You’ve Heard | Zhenwarx | [Read More](https://medium.com/p/23dd15f63a79) |
