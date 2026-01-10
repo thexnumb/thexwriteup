@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 13:16:20 GMT | JWT Part Authentication in Spring Boot: A Complete Implementation Guide | Sarveshkhamkar | [Read More](https://medium.com/p/5a9277d42ed4) |
+| Sat, 10 Jan 2026 13:13:35 GMT | Hack My School: What This Search Really Means For Education and Cybersecurity | Rebecca Smith | [Read More](https://medium.com/p/14ac390363a0) |
+| Sat, 10 Jan 2026 13:05:07 GMT | Visual Password Generation Made Simple | Imagepassword | [Read More](https://medium.com/p/cb2bdac33623) |
+| Sat, 10 Jan 2026 13:03:04 GMT | Submission Guideline | Tal Eliyahu | [Read More](https://medium.com/p/5f5406d4b362) |
+| Sat, 10 Jan 2026 13:03:02 GMT | Sherlock tool — find username on social media | Vishalraj | [Read More](https://medium.com/p/8b53bfa361db) |
+| Sat, 10 Jan 2026 13:00:30 GMT | How I Built a Home SIEM Lab and Detected Brute Force Attack | Dwolf | [Read More](https://medium.com/p/7185ac00d70a) |
+| Sat, 10 Jan 2026 12:56:32 GMT | Cobalt Strike Advanced DATA - Red Team Operations + Command & Control Guide | Your Cheat Sheet | [Read More](https://medium.com/p/8c61490b6d7f) |
+| Sat, 10 Jan 2026 12:56:17 GMT | TheHackersLabs — Mermelada [Write-Up] | APS88 | [Read More](https://medium.com/p/2db325ff01cc) |
+| Sat, 10 Jan 2026 12:54:26 GMT | Software Supply Chain Security for Modern Teams (2026): SBOM, CI/CD Hardening, and Third-Party Risk | Attractor | [Read More](https://medium.com/p/a90793875ba8) |
+| Sat, 10 Jan 2026 12:51:35 GMT | When Three Words Crashed the Internet | Daren Diaz | [Read More](https://medium.com/p/288338c45725) |
+| Sat, 10 Jan 2026 12:44:48 GMT | OSI Model — Security Risks Associated with each Layers | Ankit M | [Read More](https://medium.com/p/2948a79d3f46) |
 | Sat, 10 Jan 2026 12:38:29 GMT | LLM & AI Agent Security (2026): Prompt Injection, Data Leakage, and Production Guardrails | Attractor | [Read More](https://medium.com/p/c9996c6dd5f9) |
+| Sat, 10 Jan 2026 12:37:42 GMT | Deep dive into AnyDesk Investigation & Forensics on Windows | Chicken0248 | [Read More](https://medium.com/p/24dc531bcc78) |
+| Sat, 10 Jan 2026 12:36:40 GMT | Getting Started with grep in Linux (Day 11 of 30-Day grep Mastery Series) | Visir | [Read More](https://medium.com/p/9297e6812eef) |
 | Sat, 10 Jan 2026 12:33:42 GMT | Generative AI Misuse: Detection, Mitigation, and Responsible Deployment | rafflesia Khan | [Read More](https://medium.com/p/10fa62614fe3) |
 | Sat, 10 Jan 2026 12:18:26 GMT | How I Passed SY0–701 Security+ Using Officaial SkillCertExams Dumps | Javov | [Read More](https://medium.com/p/8306457d9ecb) |
 | Sat, 10 Jan 2026 12:11:16 GMT | “Just give them SSH” — The Five Words That Ruin My Day | Kunal Ghosh | [Read More](https://medium.com/p/c8fffaee9018) |
@@ -59,6 +72,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 Jan 2026 08:46:33 GMT | Making Sense of Cyber Laws in India: Chapter One | Vasuki | [Read More](https://medium.com/p/63a062547811) |
 | Sat, 10 Jan 2026 08:44:19 GMT | Writing Penetration Test Reports | Teri Radichel | [Read More](https://medium.com/p/2d021ad54e83) |
 | Sat, 10 Jan 2026 08:39:49 GMT | Trust at the Core: How Technology and People Build Cyber Resilience | Mehran Muslimi | [Read More](https://medium.com/p/34f5cf7e6c5e) |
+| Sat, 10 Jan 2026 08:27:10 GMT | Patterns | sturmwind | [Read More](https://medium.com/p/72c28b6c6704) |
 | Sat, 10 Jan 2026 08:21:24 GMT | The ‘Temporary’ Test Account That Became Permanent Access: How One Small Oversight Led to System… | 1$ Mistake | [Read More](https://medium.com/p/f2c684bd10f6) |
 | Sat, 10 Jan 2026 08:21:24 GMT | Path for IT or Cyber | Zeeshan Punjwani | [Read More](https://medium.com/p/c2d822439d27) |
 | Sat, 10 Jan 2026 08:15:48 GMT | Microsoft Word Just Fixed a Very Annoying Problem | Faizanansari | [Read More](https://medium.com/p/a827a70cd844) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 Jan 2026 05:28:06 GMT | Security Mistakes Frontend Engineers Make (Even at Senior Level) | Sameer Thite | [Read More](https://medium.com/p/bef4180f2e92) |
 | Sat, 10 Jan 2026 05:19:31 GMT | PJPT Exam Review: What to Expect From TCM Security’s Practical Junior Penetration Tester… | VulnKraft | [Read More](https://medium.com/p/257dd8a104df) |
 | Sat, 10 Jan 2026 05:09:46 GMT | Why Campus Ambassador Programs and Internships Are the Real Career Advantage for Students… | Ankit rai | [Read More](https://medium.com/p/0648eeb2caaf) |
-| Sat, 10 Jan 2026 05:07:16 GMT | PNPT Exam Review: What the Exam Is Really Like | VulnKraft | [Read More](https://medium.com/p/85ab99037683) |
-| Sat, 10 Jan 2026 05:06:42 GMT | APICrash writeup — YesWeHack dojo | B13ss3d | [Read More](https://medium.com/p/d62236c5c717) |
-| Sat, 10 Jan 2026 05:06:28 GMT | APICrash writeup — YesWeHack dojo | B13ss3d | [Read More](https://medium.com/p/d44e660fea49) |
-| Sat, 10 Jan 2026 05:03:45 GMT | Lab:Web cache poisoning via an unkeyed query parameter - Portswigger | L4V4NY4  AGR3 | [Read More](https://medium.com/p/3a19663c8e8a) |
-| Sat, 10 Jan 2026 05:03:09 GMT | Why Sites Get Hacked: 7 Top Causes of Website Malware Infections | interdata-vn | [Read More](https://medium.com/p/0437b154788c) |
-| Sat, 10 Jan 2026 04:56:57 GMT | [TryHackMe Write-up] Airplane | lunagotpwned | [Read More](https://medium.com/p/e9e0673d4a1b) |
-| Sat, 10 Jan 2026 04:56:52 GMT | AI-Powered Safety in Logistics: How Smart Warehouses Are Transforming Operations? | Dolon Ghosh | [Read More](https://medium.com/p/d7f9f934b8fb) |
-| Sat, 10 Jan 2026 04:54:37 GMT | Data does not Lie, but Probability DOES!!! | Seth J | [Read More](https://medium.com/p/1f544bfd53b7) |
-| Sat, 10 Jan 2026 04:53:37 GMT | Authentication vs Authorization: Kenapa Login Saja Tidak Cukup? | IMVANZ | [Read More](https://medium.com/p/3e808d78a9ab) |
-| Sat, 10 Jan 2026 04:51:52 GMT | Why Freight Broker Survival Now Depends on Fraud Prevention | Heesham Naji | [Read More](https://medium.com/p/7d8d30273edb) |
-| Sat, 10 Jan 2026 04:42:22 GMT | Why testing password policies matters in advanced web application penetration testing | Marwan Alsaifi | [Read More](https://medium.com/p/ff0944627f5c) |
-| Sat, 10 Jan 2026 04:35:06 GMT | Cybersecurity for Enterprises: 7 Powerful Strategies for a Safer, Smarter Digital Future | Maxatlasofficial | [Read More](https://medium.com/p/f5979edee636) |
-| Sat, 10 Jan 2026 04:32:53 GMT | How the NSA Hacked Huawei: Operation Shotgiant | AYMAN PATIL | [Read More](https://medium.com/p/638aff115b4a) |
-| Sat, 10 Jan 2026 04:27:59 GMT | AWS Security Agent: Disruptive Innovation in Application Security or Marketing Buzz? | Xaferima | [Read More](https://medium.com/p/bc57dff89a98) |
