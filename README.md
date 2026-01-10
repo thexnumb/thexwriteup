@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 23:32:09 GMT | safehavenhack Telegram - Official Contact @safehavenhack | Safehavenhack | [Read More](https://medium.com/p/b6e27af7c71b) |
+| Sat, 10 Jan 2026 23:22:25 GMT | Network Fundamentals: Comprehensive Technical Guide | Mert Baykal | [Read More](https://medium.com/p/3ca1eeded610) |
 | Sat, 10 Jan 2026 23:13:35 GMT | 15 Seconds to the First Attack: Myth or Reality of Website Launches in 2026 | 0trust0day | [Read More](https://medium.com/p/9ecf50ff5640) |
+| Sat, 10 Jan 2026 23:12:27 GMT | Linux Isn’t Just an Operating System — It’s Permission to Understand Your Machine | Ryvok.Brondich | [Read More](https://medium.com/p/db768fe9a6ee) |
 | Sat, 10 Jan 2026 22:55:46 GMT | Social Engineering: The Art of Bypassing the Human Firewall | root0emir | [Read More](https://medium.com/p/d284e3dde96e) |
 | Sat, 10 Jan 2026 22:54:07 GMT | Cryptographic Security in Backup Systems: Protecting the Final Stronghold of Data | Esra Kayhan | [Read More](https://medium.com/p/d371be23a2b9) |
 | Sat, 10 Jan 2026 22:41:53 GMT | Document, Don’t Just Experience | Techinfo | [Read More](https://medium.com/p/f22ae37c9a42) |
@@ -110,6 +113,3 @@ The digital world makes life easier… | Victor Samuel-Columbus | [Read More](ht
 | Sat, 10 Jan 2026 14:56:25 GMT | Instagram Data Breach Alert: Millions of User Details Reportedly at Risk | Modern Men: Tech, Skin & Life — by Nisar | [Read More](https://medium.com/p/0fe10206d921) |
 | Sat, 10 Jan 2026 14:40:57 GMT | การทำ HTTPS ให้ Local Server (เมื่อ Let’s Encrypt ใช้ไม่ได้) | Narongsak Pumpasert | [Read More](https://medium.com/p/88283e946fb2) |
 | Sat, 10 Jan 2026 14:36:54 GMT | Cybersecurity & Ethical Hacking Roadmap 2026 | Mainekhacker | [Read More](https://medium.com/p/66153c3f8d07) |
-| Sat, 10 Jan 2026 14:32:46 GMT | Wireshark: An Overview and Its Use in MITM Attacks | Vignesh R | [Read More](https://medium.com/p/470d44823f2e) |
-| Sat, 10 Jan 2026 14:32:23 GMT | Don’t Know What To Do | Hira | [Read More](https://medium.com/p/b4203332a3d0) |
-| Sat, 10 Jan 2026 14:26:25 GMT | PCI DSS Compliance Readiness for an Ethical E-Commerce Brand | Safiyyah OA | [Read More](https://medium.com/p/5431d31db532) |
