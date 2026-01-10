@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 18:23:01 GMT | Creating a Flexible IT Strategy That Keeps Up With Change | NordicX | [Read More](https://medium.com/p/4ec959832a9f) |
+| Sat, 10 Jan 2026 18:12:54 GMT | How I secure my Mac when working from a café | Natalie Polly | [Read More](https://medium.com/p/a5209ea25b93) |
+| Sat, 10 Jan 2026 18:04:13 GMT | The Dark Web Dump Was Old — The Vulnerability Wasn’t ️ | Iski | [Read More](https://medium.com/p/f0c4a2df8171) |
+| Sat, 10 Jan 2026 18:04:04 GMT | Ottergram Writeup (BugForge) | 7s26Simon | [Read More](https://medium.com/p/7e048a3db854) |
+| Sat, 10 Jan 2026 18:02:46 GMT | Previous — HackTheBox Walkthrough | Maksim Hayder | [Read More](https://medium.com/p/591d4f8b3718) |
+| Sat, 10 Jan 2026 17:59:58 GMT | Why Sharing State Is the Real Performance Bug | TheOpinionatedDev | [Read More](https://medium.com/p/71cb65f1f064) |
+| Sat, 10 Jan 2026 17:52:34 GMT | How End-to-End Encryption Works in WhatsApp ? | Hridyansh | [Read More](https://medium.com/p/d0e96d7fbabf) |
+| Sat, 10 Jan 2026 17:45:07 GMT | Securing Your Brand in AI | ReSO AI | [Read More](https://medium.com/p/3090b5282b59) |
 | Sat, 10 Jan 2026 17:39:46 GMT | My Learning Journey | Adeoluwa Obadofin | [Read More](https://medium.com/p/b8770e14963b) |
+| Sat, 10 Jan 2026 17:38:16 GMT | Authentication vs Authorization: Why AuthZ Is No Longer Optional | Zeigeist | [Read More](https://medium.com/p/df4132d65ca4) |
 | Sat, 10 Jan 2026 17:36:09 GMT | Microservice：從技術到比喻的全面理解 | 思維舞步 MindSteps | [Read More](https://medium.com/p/ee4eea43d3d2) |
 | Sat, 10 Jan 2026 17:30:53 GMT | Wifi Security Checker | Widyamagdalena | [Read More](https://medium.com/p/cb3a9fe3e60b) |
 | Sat, 10 Jan 2026 17:29:24 GMT | The Invisible Bouncer: How OAuth 2.0 PKCE Secures Your Modern Applications | Manmohanaeir | [Read More](https://medium.com/p/c9c5f14b7fc5) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 Jan 2026 10:55:56 GMT | Length Extraction Attacks - Tryhackme Walkthrough | Rahul Kumar | [Read More](https://medium.com/p/0fec2fabdbb9) |
 | Sat, 10 Jan 2026 10:55:47 GMT | Password Generator Google: Secure Your Online World with Strong Random Passwords | Sandeep Sharma | [Read More](https://medium.com/p/32fb337b040e) |
 | Sat, 10 Jan 2026 10:55:03 GMT | Privileged Identity Management (PIM): Who Should Hold the Keys — and When? | Bhagyalakshmi k raju | [Read More](https://medium.com/p/dd0f92aae8cc) |
-| Sat, 10 Jan 2026 10:52:51 GMT | Password Generator LastPass: Secure Your Online World with Strong Passwords | Sandeep Sharma | [Read More](https://medium.com/p/6b605103806c) |
-| Sat, 10 Jan 2026 10:48:44 GMT | Released a book “A Practical Introduction to OSS Bug Hunting” | morioka12 | [Read More](https://medium.com/p/dd59fd7e9213) |
-| Sat, 10 Jan 2026 10:39:01 GMT | I Built a Pastebin Where Even I Can’t Read Your Data | Ishan Naik | [Read More](https://medium.com/p/f6658b8c12d6) |
-| Sat, 10 Jan 2026 10:33:35 GMT | Allsafe Android Pentesting — Part 2: Exploiting Insecure Logging | Mscmkn | [Read More](https://medium.com/p/523030790dd9) |
-| Sat, 10 Jan 2026 10:24:00 GMT | What is Zero Trust Architecture ? | Anmol Singh Yadav | [Read More](https://medium.com/p/28fd6a6c55e7) |
-| Sat, 10 Jan 2026 10:21:19 GMT | eJPT - Vulnerability Assessment CTF | Francesco Pastore | [Read More](https://medium.com/p/041cb275e60b) |
-| Sat, 10 Jan 2026 10:13:32 GMT | CISA at a Crossroads: National Security in 2026 | Krishna M S | [Read More](https://medium.com/p/8ee5f05121dc) |
-| Sat, 10 Jan 2026 10:07:19 GMT | ❌ Why Most People Fail in Cybersecurity Even After Learning Tools | Sooraj Pandey | [Read More](https://medium.com/p/8283c7fb3b7c) |
-| Sat, 10 Jan 2026 10:06:52 GMT | Hands‑On Cybersecurity Projects: Threat Detection, Penetration Testing & Malware Analysis | Sadikaljarif | [Read More](https://medium.com/p/1c96406d1e1b) |
