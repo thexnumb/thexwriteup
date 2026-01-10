@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 15:12:13 GMT | How a Simple Business Logic Flaw Caused an Account Lockout DoS | christos dimitropoulos | [Read More](https://medium.com/p/c6b66bd2e3d0) |
+| Sat, 10 Jan 2026 15:08:55 GMT | The Economics of Silence | Michael Ndubuaku | [Read More](https://medium.com/p/5f45f6f9e64a) |
+| Sat, 10 Jan 2026 15:07:12 GMT | The Cybersecurity Industry Is Being Rewired for 2026 | Taimur Ijlal | [Read More](https://medium.com/p/f6e37f11a2a4) |
+| Sat, 10 Jan 2026 15:06:01 GMT | Cipher Suites Demystified: How HTTPS Really Stays Secure | Suraj Bhandari | [Read More](https://medium.com/p/11c032ed3bff) |
+| Sat, 10 Jan 2026 15:04:45 GMT | IP Addressing & Subnetting Made Easy (No Math Fear) | Shalu | [Read More](https://medium.com/p/1a63eca0eddb) |
+| Sat, 10 Jan 2026 15:02:55 GMT | Reino Unido anuncia un plan de fortalecimiento en materia de ciberseguridad dentro del sector… | Tiziano Mass | [Read More](https://medium.com/p/eae191a31dd0) |
+| Sat, 10 Jan 2026 14:58:46 GMT | Rooting the Samsung Galaxy A25 in 2026: A Practical Guide | Tushar Saini | [Read More](https://medium.com/p/2400204471b0) |
+| Sat, 10 Jan 2026 14:56:25 GMT | Instagram Data Breach Alert: Millions of User Details Reportedly at Risk | Modern Men: Tech, Skin & Life — by Nisar | [Read More](https://medium.com/p/0fe10206d921) |
+| Sat, 10 Jan 2026 14:40:57 GMT | การทำ HTTPS ให้ Local Server (เมื่อ Let’s Encrypt ใช้ไม่ได้) | Narongsak Pumpasert | [Read More](https://medium.com/p/88283e946fb2) |
 | Sat, 10 Jan 2026 14:36:54 GMT | Cybersecurity & Ethical Hacking Roadmap 2026 | Mainekhacker | [Read More](https://medium.com/p/66153c3f8d07) |
 | Sat, 10 Jan 2026 14:32:46 GMT | Wireshark: An Overview and Its Use in MITM Attacks | Vignesh R | [Read More](https://medium.com/p/470d44823f2e) |
 | Sat, 10 Jan 2026 14:32:23 GMT | Don’t Know What To Do | Hira | [Read More](https://medium.com/p/b4203332a3d0) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 Jan 2026 07:22:10 GMT | JWT at Shady Oaks Financial — BugForge Daily Challenge | 0ber1n | [Read More](https://medium.com/p/00ba2ddd52a2) |
 | Sat, 10 Jan 2026 07:21:56 GMT | Ace Racer Mod APK | Bandisharecx | [Read More](https://medium.com/p/9a0e0f741e21) |
 | Sat, 10 Jan 2026 07:19:51 GMT | AI Pentesting Methodology — Tryhackme - BankGPT | Rahul Singh Chauhan | [Read More](https://medium.com/p/1c24df63d1e7) |
-| Sat, 10 Jan 2026 07:02:54 GMT | How a Simple Email List Got Me My First Bug Bounty | Suvraj | [Read More](https://medium.com/p/0fe69dfc66b2) |
-| Sat, 10 Jan 2026 06:47:36 GMT | Ethical Hacking Roadmap for 2026: From ZERO to PRO | Surajbaishya | [Read More](https://medium.com/p/b80840dd8919) |
-| Sat, 10 Jan 2026 06:45:08 GMT | Chatbot AI sebagai assistant pentest | Kelompok 4 | [Read More](https://medium.com/p/494aedd0443c) |
-| Sat, 10 Jan 2026 06:39:36 GMT | How to Use LLMs For Hacking - Bug Bounty Tips | Alham Rizvi(ExoidSec) | [Read More](https://medium.com/p/df39c94ac2e6) |
-| Sat, 10 Jan 2026 06:36:34 GMT | Strange Hair cuts and Yoga pants are over in Tech nerds | Sparc Mint | [Read More](https://medium.com/p/986a0c32f4c4) |
-| Sat, 10 Jan 2026 06:36:12 GMT | Microsoft Security Tools for Enterprises: Enhancing Windows 11 Security Features | Laurel Blackburn | [Read More](https://medium.com/p/a99890b7610c) |
-| Sat, 10 Jan 2026 06:35:49 GMT | My Address Book Is Safer Than Password Managers | Ivan Junior | [Read More](https://medium.com/p/c036a9a91422) |
-| Sat, 10 Jan 2026 06:35:31 GMT | Keamanan Akun Game Online dan Literasi Digital di Era Modern | LISBON138 Official | [Read More](https://medium.com/p/38fe92d5f167) |
-| Sat, 10 Jan 2026 06:32:44 GMT | AWS Security Agent-Penetration Testing Overview | Sena Yakut | [Read More](https://medium.com/p/e05cc62ce4f6) |
