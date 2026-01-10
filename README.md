@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 14:18:20 GMT | F5 Cyber Attack — 2024/2025 | VIGNESH | [Read More](https://medium.com/p/85d5e282e943) |
+| Sat, 10 Jan 2026 14:17:46 GMT | OSINT for Beginners: Learn Cybersecurity Like a Digital Detective ️‍♂️ | Rutiktarle | [Read More](https://medium.com/p/056c3070e2ff) |
+| Sat, 10 Jan 2026 14:12:01 GMT | How I Won a $2,000 Bug Bounty Using Only Nmap | Cybervolt | [Read More](https://medium.com/p/45086c5e9ac3) |
+| Sat, 10 Jan 2026 14:11:07 GMT | Cybersecurity Jobs Without Experience: How to Start Your Career | Victoria C | [Read More](https://medium.com/p/41c7e1ff343f) |
+| Sat, 10 Jan 2026 14:09:09 GMT | Best Security Features Crypto Exchanges Are Prioritizing in 2026 | Safiyyah | [Read More](https://medium.com/p/f7480d09c3dc) |
+| Sat, 10 Jan 2026 14:05:56 GMT | From Reconnaissance to Exploitation: My ParoCyber Final Penetration Testing Capstone | Claudius Thompson | [Read More](https://medium.com/p/eb2e4f18b1e7) |
+| Sat, 10 Jan 2026 14:03:14 GMT | The 7 Skills Every Cybersecurity Engineer Needs in 2025 — And How to Learn Them | Cyber Tsunami | [Read More](https://medium.com/p/2e2bf1abcc50) |
+| Sat, 10 Jan 2026 13:58:09 GMT | Tony99 Server Status: How to Bypass Connection Latency (Updated Jan 2026) | Aussie Pokies Bonus | [Read More](https://medium.com/p/2c9396e6355d) |
+| Sat, 10 Jan 2026 13:54:00 GMT | Don’t Wait for a Breach: Secure Your Systems with Professional Penetration Testing | Plutosec Cyber Security | [Read More](https://medium.com/p/8cabba5180eb) |
+| Sat, 10 Jan 2026 13:45:44 GMT | Demystifying Cyber Attack Terminology a.k.a…..what the heck do these words mean | Kevin Kelly | [Read More](https://medium.com/p/83d2ca4191af) |
+| Sat, 10 Jan 2026 13:37:42 GMT | Application Security:Password Salts and Rainbow Tables | Vikas Taank | [Read More](https://medium.com/p/46403314d3a4) |
+| Sat, 10 Jan 2026 13:27:30 GMT | Basic Networking Concepts | Anila Ashraf | [Read More](https://medium.com/p/41ed7b937b07) |
+| Sat, 10 Jan 2026 13:22:14 GMT | Windows 11 Pro vs Home: Why File Sharing Fails and How to Fix It Properly | Kishan T A | [Read More](https://medium.com/p/c41463661486) |
+| Sat, 10 Jan 2026 13:19:44 GMT | Top Web Penetration Testing Services in Canada - PlutoSec | Plutosec Cyber Security | [Read More](https://medium.com/p/cf518a31fe60) |
 | Sat, 10 Jan 2026 13:16:20 GMT | JWT Part Authentication in Spring Boot: A Complete Implementation Guide | Sarveshkhamkar | [Read More](https://medium.com/p/5a9277d42ed4) |
 | Sat, 10 Jan 2026 13:13:35 GMT | Hack My School: What This Search Really Means For Education and Cybersecurity | Rebecca Smith | [Read More](https://medium.com/p/14ac390363a0) |
 | Sat, 10 Jan 2026 13:05:07 GMT | Visual Password Generation Made Simple | Imagepassword | [Read More](https://medium.com/p/cb2bdac33623) |
@@ -69,6 +83,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 Jan 2026 09:03:04 GMT | Your CEO’s Password Is Probably in a Stealer Log Right Now | Alexandre Vandamme | [Read More](https://medium.com/p/f9da3a0da32d) |
 | Sat, 10 Jan 2026 08:54:41 GMT | Inside the “MAESTRO” VM Escape: How Attackers Turned a Guest VM Into Full ESXi Control | Germano Costi | [Read More](https://medium.com/p/c83f5946073e) |
 | Sat, 10 Jan 2026 08:52:38 GMT | AWhat Makes SiyanoAV Different in Antivirus for Windows | Siyanoav | [Read More](https://medium.com/p/65f756678f9e) |
+| Sat, 10 Jan 2026 08:51:39 GMT | We Are Shipping More Features and Creating Worse Software | Sowndapan | [Read More](https://medium.com/p/71b5d0e2279e) |
 | Sat, 10 Jan 2026 08:46:33 GMT | Making Sense of Cyber Laws in India: Chapter One | Vasuki | [Read More](https://medium.com/p/63a062547811) |
 | Sat, 10 Jan 2026 08:44:19 GMT | Writing Penetration Test Reports | Teri Radichel | [Read More](https://medium.com/p/2d021ad54e83) |
 | Sat, 10 Jan 2026 08:39:49 GMT | Trust at the Core: How Technology and People Build Cyber Resilience | Mehran Muslimi | [Read More](https://medium.com/p/34f5cf7e6c5e) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 Jan 2026 06:24:33 GMT | Networking Basics: A Beginner’s Guide to IP Addresses & Key Components. | Syber Security beginner. | [Read More](https://medium.com/p/730d16ae410d) |
 | Sat, 10 Jan 2026 06:23:40 GMT | On-Premise-01 Challenge — Writeup | Parth Dobariya | [Read More](https://medium.com/p/bf1f94dee9c5) |
 | Sat, 10 Jan 2026 06:23:18 GMT | The Shield in the Shadows: How Ethical Hackers Defend Businesses and Digital Users | Hadiyayazeen | [Read More](https://medium.com/p/be6b6fbf00e8) |
-| Sat, 10 Jan 2026 06:11:14 GMT | Santa’s Byte-Level Bookkeeping: Solving pwn.college Day 01 | Eeshan Agrawal | [Read More](https://medium.com/p/757469859b80) |
-| Sat, 10 Jan 2026 06:04:45 GMT | How to Spot an Exchange with the Best Security Features | CryptoAlphas | [Read More](https://medium.com/p/9c1eaa5dab4c) |
-| Sat, 10 Jan 2026 06:03:48 GMT | Some basics commands of Linux | Vishalraj | [Read More](https://medium.com/p/28b63e8a5491) |
-| Sat, 10 Jan 2026 06:02:48 GMT | Mavi Takım: Siber Savunmanın Sessiz Kahramanları | Zerioth Cypher Evidence | [Read More](https://medium.com/p/5b7c8cd7dfa2) |
-| Sat, 10 Jan 2026 05:59:14 GMT | How Modern Cyber Strategies Are Leaving Critical Infrastructure in the Shadows | CCD-IS | [Read More](https://medium.com/p/ada70579edae) |
-| Sat, 10 Jan 2026 05:52:55 GMT | File Path Traversal, Validation of File Extension with Null Byte Bypass | Bash Overflow | [Read More](https://medium.com/p/7eeabc0ad3b1) |
-| Sat, 10 Jan 2026 05:51:18 GMT | Multitasking Is Quietly Killing Your Bug Bounty Results | Gl1tch | [Read More](https://medium.com/p/9c08d04f653d) |
-| Sat, 10 Jan 2026 05:51:16 GMT | How to Start Coding, Crack the Job, and Survive in a World Full of AI, Layoffs, and Pressure.. | Shubham Vartak | [Read More](https://medium.com/p/6badcddf60f5) |
-| Sat, 10 Jan 2026 05:47:11 GMT | Hidden Performance Killers Installed Alongside Free Software | Ask IT Support | [Read More](https://medium.com/p/cbbef9dbba03) |
-| Sat, 10 Jan 2026 05:44:36 GMT | HackQuest Season 10 — Round: My Take | Akhilesh Singh | [Read More](https://medium.com/p/7658f4cb475c) |
-| Sat, 10 Jan 2026 05:42:49 GMT | Ethical Hacker vs Cyber Criminal: What’s the Difference? | Hadiyayazeen | [Read More](https://medium.com/p/279ef1e4209f) |
-| Sat, 10 Jan 2026 05:42:23 GMT | Business Logic Flaws: The Vulnerability That Thinks Like a Human | Deezacker | [Read More](https://medium.com/p/04c88583b1c0) |
-| Sat, 10 Jan 2026 05:28:06 GMT | Security Mistakes Frontend Engineers Make (Even at Senior Level) | Sameer Thite | [Read More](https://medium.com/p/bef4180f2e92) |
-| Sat, 10 Jan 2026 05:19:31 GMT | PJPT Exam Review: What to Expect From TCM Security’s Practical Junior Penetration Tester… | VulnKraft | [Read More](https://medium.com/p/257dd8a104df) |
-| Sat, 10 Jan 2026 05:09:46 GMT | Why Campus Ambassador Programs and Internships Are the Real Career Advantage for Students… | Ankit rai | [Read More](https://medium.com/p/0648eeb2caaf) |
