@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 03:53:09 GMT | Dark Web Explained for Beginners (With Real Examples) | Tech Word | [Read More](https://medium.com/p/e510f1659201) |
+| Sat, 10 Jan 2026 03:51:04 GMT | How Your Mobile Apps Track You Even When Closed: Understanding the Hidden Cyber Threats | Tech Word | [Read More](https://medium.com/p/53ade153ef68) |
+| Sat, 10 Jan 2026 03:32:49 GMT | When Your Car Becomes a Computer: Understanding the Real Risks of Dashboard Hacking | Deven Chhajed | [Read More](https://medium.com/p/fc4cd65f6ea3) |
+| Sat, 10 Jan 2026 03:32:49 GMT | Getting Started with grep in Linux (Day 10 of 30-Day grep Mastery Series) | Visir | [Read More](https://medium.com/p/c4e67961e923) |
+| Sat, 10 Jan 2026 03:24:55 GMT | Traffic-Sentinel: Building an Explainable, Log-Based Web Security Detection System Without a WAF | Arittroskr | [Read More](https://medium.com/p/5df73a128c83) |
+| Sat, 10 Jan 2026 03:23:29 GMT | How Kerberos Authentication Works — End to End | Paritosh | [Read More](https://medium.com/p/aa114d46d124) |
 | Sat, 10 Jan 2026 03:15:04 GMT | Why Tech & Cyber “News” Fails — And What Real Intelligence Looks Like | NeuralKitPro | [Read More](https://medium.com/p/a1220ed13f64) |
 | Sat, 10 Jan 2026 03:03:16 GMT | Why critical thinking is a core UX skill in Cybersecurity. | Niharika Naidu | [Read More](https://medium.com/p/02eaee83a695) |
 | Sat, 10 Jan 2026 02:52:12 GMT | The Patch Management Process | Dhruv Jalota | [Read More](https://medium.com/p/84cf5632e432) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 09 Jan 2026 17:59:11 GMT | Why DMCA-Aware Offshore Hosting Matters in a Privacy-First Internet | SemayraHost | [Read More](https://medium.com/p/3bc15ea72cf1) |
 | Fri, 09 Jan 2026 17:50:58 GMT | The Silent Threat Lurking in Your Inbox: Promptware and Indirect Prompt Injection Attacks | Himansu Saha | [Read More](https://medium.com/p/e4dff1fb015e) |
 | Fri, 09 Jan 2026 17:49:05 GMT | Why Security Should Be Planned Before Scaling, Not After | Digital Defense | [Read More](https://medium.com/p/19ea404c19e4) |
-| Fri, 09 Jan 2026 17:47:11 GMT | How I Hacked My College’s Website and Found a CVE Affecting 100+ Institutions across India | Mohammed Afnaan Ahmed | [Read More](https://medium.com/p/29b3c8266a11) |
-| Fri, 09 Jan 2026 17:44:10 GMT | What the Louvre Heist Teaches Us About Cybersecurity | Emory French | [Read More](https://medium.com/p/2e5bfedc40fa) |
-| Fri, 09 Jan 2026 17:42:52 GMT | Soft-Fail Security Tips That Protect PHP Without Breaking UX | Asian Digital Hub | [Read More](https://medium.com/p/bef92b67a67e) |
-| Fri, 09 Jan 2026 17:40:50 GMT | 10 Essential Cybersecurity Questions Everyone Should Know (PART -2 ) | Abdul Ahad | [Read More](https://medium.com/p/e11ed95090b8) |
-| Fri, 09 Jan 2026 17:40:42 GMT | Byaku: Automation of recon for bug hunting and vibe coding | Alberto Villasante | [Read More](https://medium.com/p/71fe424ef4d3) |
-| Fri, 09 Jan 2026 17:27:07 GMT | DOM XSS Using jQuery Selector & hashchange — When # Becomes Dangerous(PortSwigger lab 6) | Sanjivani Dobhal | [Read More](https://medium.com/p/fcd66262ccb1) |
