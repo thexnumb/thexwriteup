@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 11:21:59 GMT | The €400 Bug - VPN/Geo Location Bypass | Umanhonlen Gabriel | [Read More](https://medium.com/p/0e9a6d26dd37) |
+| Sat, 10 Jan 2026 11:21:47 GMT | The Hidden Cost of Convenience in Centralized Wallets | OG Global News | [Read More](https://medium.com/p/8ff8350960a2) |
 | Sat, 10 Jan 2026 11:09:41 GMT | Exposing “myspeedpost.com” India Post Scam | ARoy | [Read More](https://medium.com/p/c8aec5e8e5c2) |
 | Sat, 10 Jan 2026 11:06:24 GMT | Enumeration Is King: Why Every Real Compromise Starts Before the Exploit | Yua Mikanana | [Read More](https://medium.com/p/e5953341214d) |
 | Sat, 10 Jan 2026 11:02:00 GMT | ICICI Pru Smart Kid 360 | Garima Patel | [Read More](https://medium.com/p/ea0e0cd6f595) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 Jan 2026 03:23:29 GMT | How Kerberos Authentication Works — End to End | Paritosh | [Read More](https://medium.com/p/aa114d46d124) |
 | Sat, 10 Jan 2026 03:15:04 GMT | Why Tech & Cyber “News” Fails — And What Real Intelligence Looks Like | NeuralKitPro | [Read More](https://medium.com/p/a1220ed13f64) |
 | Sat, 10 Jan 2026 03:03:16 GMT | Why critical thinking is a core UX skill in Cybersecurity. | Niharika Naidu | [Read More](https://medium.com/p/02eaee83a695) |
-| Sat, 10 Jan 2026 02:52:12 GMT | The Patch Management Process | Dhruv Jalota | [Read More](https://medium.com/p/84cf5632e432) |
-| Sat, 10 Jan 2026 02:50:54 GMT | Unlocking the Power of CUpp: Advanced Password Profiling for Red Team Operations | Cybeague Technologies | [Read More](https://medium.com/p/e6ec2c12dd51) |
