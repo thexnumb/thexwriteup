@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 15:24:48 GMT | Anti-Debugging: PEB!BeingDebugged | Athis SN | [Read More](https://medium.com/p/00465e83f7ad) |
+| Sat, 10 Jan 2026 15:17:07 GMT | Post 9: Evolution of IT (Part 3): Becoming the Business | SattiData | [Read More](https://medium.com/p/274764dec578) |
+| Sat, 10 Jan 2026 15:15:09 GMT | How Learning Python Changed the Way I Approach Electronics | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/e0aa67eeb47a) |
 | Sat, 10 Jan 2026 15:12:13 GMT | How a Simple Business Logic Flaw Caused an Account Lockout DoS | christos dimitropoulos | [Read More](https://medium.com/p/c6b66bd2e3d0) |
 | Sat, 10 Jan 2026 15:08:55 GMT | The Economics of Silence | Michael Ndubuaku | [Read More](https://medium.com/p/5f45f6f9e64a) |
 | Sat, 10 Jan 2026 15:07:12 GMT | The Cybersecurity Industry Is Being Rewired for 2026 | Taimur Ijlal | [Read More](https://medium.com/p/f6e37f11a2a4) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 Jan 2026 08:06:11 GMT | How to Stop Caring About What People Think | Vijay Kumar Gupta | [Read More](https://medium.com/p/15c5feac93fc) |
 | Sat, 10 Jan 2026 08:02:49 GMT | Samba Active Directory Domain Controller (Linux): What to Do When Impacket & BloodHound Don’t Work | Anezaneo | [Read More](https://medium.com/p/1faee4828d5b) |
 | Sat, 10 Jan 2026 07:54:42 GMT | Canonical \mathbb{N}^\mathbb{R} (Nick-space) | Nicholas Angell | [Read More](https://medium.com/p/03feba03bb38) |
-| Sat, 10 Jan 2026 07:22:10 GMT | JWT at Shady Oaks Financial — BugForge Daily Challenge | 0ber1n | [Read More](https://medium.com/p/00ba2ddd52a2) |
-| Sat, 10 Jan 2026 07:21:56 GMT | Ace Racer Mod APK | Bandisharecx | [Read More](https://medium.com/p/9a0e0f741e21) |
-| Sat, 10 Jan 2026 07:19:51 GMT | AI Pentesting Methodology — Tryhackme - BankGPT | Rahul Singh Chauhan | [Read More](https://medium.com/p/1c24df63d1e7) |
