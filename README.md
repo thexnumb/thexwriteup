@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 17:19:10 GMT | All About Onions, No not that eating Onion. | Dharanragunathan | [Read More](https://medium.com/p/6bb506a290e8) |
+| Sat, 10 Jan 2026 16:55:28 GMT | Incident Response Hands-On Exercise 1 | Allen Ace | [Read More](https://medium.com/p/4058ca01d3b2) |
+| Sat, 10 Jan 2026 16:47:33 GMT | 幽靈代碼與人性邊界：從 Character.AI 悲劇看企業 AI 客服的「揭露義務」與技術防禦實戰 | p1x06u9 | [Read More](https://medium.com/p/7ba54037b7fd) |
+| Sat, 10 Jan 2026 16:44:51 GMT | Automating HackerOne Program Updates with Telegram Notifications | Zbyte | [Read More](https://medium.com/p/7f1c8e0e29ef) |
+| Sat, 10 Jan 2026 16:39:01 GMT | How a Windows PC Can Be Turned into a Full SIEM Using Wazuh and WSL2 | Mercury | [Read More](https://medium.com/p/fb044908653d) |
 | Sat, 10 Jan 2026 16:37:42 GMT | Introduction | Zbyte | [Read More](https://medium.com/p/edc1811f2079) |
 | Sat, 10 Jan 2026 16:32:10 GMT | Back to Basics #7: Internet Protocol (IPv4) | Norman Kolarikkal | [Read More](https://medium.com/p/4858e81166de) |
 | Sat, 10 Jan 2026 16:30:47 GMT | ✍ Security and Governance in MCP — Permissions, Isolation, Sandboxing, Auditing, and Enterprise… | Jyoti Dabass, Ph.D. | [Read More](https://medium.com/p/7b476cb8657c) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 Jan 2026 09:51:19 GMT | OverTheWire Bandit (Day 11): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/97260b937f84) |
 | Sat, 10 Jan 2026 09:44:27 GMT | Cybersecurity Isn’t Hard — The Way We Teach It ,Is | Satyam Pathania | [Read More](https://medium.com/p/708353a5c1ff) |
 | Sat, 10 Jan 2026 09:41:48 GMT | Trusted Cyber Security course in kochi | Aswin Dotin | [Read More](https://medium.com/p/4bfb9d38c3ca) |
-| Sat, 10 Jan 2026 09:33:53 GMT | Understanding HTTP Status Codes | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/479d607534c1) |
-| Sat, 10 Jan 2026 09:30:55 GMT | The Invisible Breach: Why Your Encrypted Data is Already Being Stolen | Krishna M S | [Read More](https://medium.com/p/0f3c91b15814) |
-| Sat, 10 Jan 2026 09:30:04 GMT | Authentication Bypass via JWT Replay Leading to Account Takeover | Redhound | [Read More](https://medium.com/p/da7bf8fc125c) |
-| Sat, 10 Jan 2026 09:21:24 GMT | PowerShell for Pentesters notes — TryHackMe | Jose Praveen | [Read More](https://medium.com/p/a9ce8454b6ca) |
-| Sat, 10 Jan 2026 09:11:05 GMT | Why Modern Businesses Must Choose Advanced Network Security | StandaloneDigitech | [Read More](https://medium.com/p/a6e48eafe4c4) |
