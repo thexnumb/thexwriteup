@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 11:09:41 GMT | Exposing “myspeedpost.com” India Post Scam | ARoy | [Read More](https://medium.com/p/c8aec5e8e5c2) |
+| Sat, 10 Jan 2026 11:06:24 GMT | Enumeration Is King: Why Every Real Compromise Starts Before the Exploit | Yua Mikanana | [Read More](https://medium.com/p/e5953341214d) |
+| Sat, 10 Jan 2026 11:02:00 GMT | ICICI Pru Smart Kid 360 | Garima Patel | [Read More](https://medium.com/p/ea0e0cd6f595) |
+| Sat, 10 Jan 2026 10:55:56 GMT | Length Extraction Attacks - Tryhackme Walkthrough | Rahul Kumar | [Read More](https://medium.com/p/0fec2fabdbb9) |
+| Sat, 10 Jan 2026 10:55:47 GMT | Password Generator Google: Secure Your Online World with Strong Random Passwords | Sandeep Sharma | [Read More](https://medium.com/p/32fb337b040e) |
+| Sat, 10 Jan 2026 10:55:03 GMT | Privileged Identity Management (PIM): Who Should Hold the Keys — and When? | Bhagyalakshmi k raju | [Read More](https://medium.com/p/dd0f92aae8cc) |
+| Sat, 10 Jan 2026 10:52:51 GMT | Password Generator LastPass: Secure Your Online World with Strong Passwords | Sandeep Sharma | [Read More](https://medium.com/p/6b605103806c) |
+| Sat, 10 Jan 2026 10:48:44 GMT | Released a book “A Practical Introduction to OSS Bug Hunting” | morioka12 | [Read More](https://medium.com/p/dd59fd7e9213) |
+| Sat, 10 Jan 2026 10:39:01 GMT | I Built a Pastebin Where Even I Can’t Read Your Data | Ishan Naik | [Read More](https://medium.com/p/f6658b8c12d6) |
+| Sat, 10 Jan 2026 10:33:35 GMT | Allsafe Android Pentesting — Part 2: Exploiting Insecure Logging | Mscmkn | [Read More](https://medium.com/p/523030790dd9) |
 | Sat, 10 Jan 2026 10:24:00 GMT | What is Zero Trust Architecture ? | Anmol Singh Yadav | [Read More](https://medium.com/p/28fd6a6c55e7) |
 | Sat, 10 Jan 2026 10:21:19 GMT | eJPT - Vulnerability Assessment CTF | Francesco Pastore | [Read More](https://medium.com/p/041cb275e60b) |
 | Sat, 10 Jan 2026 10:13:32 GMT | CISA at a Crossroads: National Security in 2026 | Krishna M S | [Read More](https://medium.com/p/8ee5f05121dc) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 10 Jan 2026 03:03:16 GMT | Why critical thinking is a core UX skill in Cybersecurity. | Niharika Naidu | [Read More](https://medium.com/p/02eaee83a695) |
 | Sat, 10 Jan 2026 02:52:12 GMT | The Patch Management Process | Dhruv Jalota | [Read More](https://medium.com/p/84cf5632e432) |
 | Sat, 10 Jan 2026 02:50:54 GMT | Unlocking the Power of CUpp: Advanced Password Profiling for Red Team Operations | Cybeague Technologies | [Read More](https://medium.com/p/e6ec2c12dd51) |
-| Sat, 10 Jan 2026 02:49:58 GMT | Getting Started with CUpp: The Fast Lane to Smart Password Wordlists | Cybeague Technologies | [Read More](https://medium.com/p/ab1920e6cdcd) |
-| Sat, 10 Jan 2026 02:49:28 GMT | Assessing Wi-Fi Security with Rogue AP Simulations | Hackers Things | [Read More](https://medium.com/p/d03536a9dee9) |
-| Sat, 10 Jan 2026 02:48:58 GMT | How I Started a Bug-Bounty Career in 2026 — A Practical Roadmap | Hackers Things | [Read More](https://medium.com/p/8bfd844d6a44) |
-| Sat, 10 Jan 2026 02:30:22 GMT | Rising Risks As AI Reshapes Modern Cyberattacks | Geoffrey Wenger | [Read More](https://medium.com/p/e914a59c7492) |
-| Sat, 10 Jan 2026 02:13:10 GMT | When Understanding Becomes the Payload | Erik Gallmann | [Read More](https://medium.com/p/cada47ee6a8e) |
-| Sat, 10 Jan 2026 02:09:57 GMT | Is Secure by Design an illusion? | Rohan Pal | [Read More](https://medium.com/p/ec94547597bd) |
-| Sat, 10 Jan 2026 01:57:11 GMT | What Actually Happens After a Security Alert Is Triggered? | Sruthi Punugu | [Read More](https://medium.com/p/90261493b5c3) |
-| Sat, 10 Jan 2026 01:48:13 GMT | How we brought mathematically verifiable audit trails to the edge — and why it matters for the… | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/04b4b5936539) |
-| Sat, 10 Jan 2026 01:47:50 GMT | Microservices or Monolith? A Practical Guide to Choosing the Right Architecture | Sameena Begam Savukath Ali | [Read More](https://medium.com/p/112ea1789500) |
-| Sat, 10 Jan 2026 01:44:32 GMT | Why No-API, local-first recon will be the weapon of choice in 2026 | Prism Recon | [Read More](https://medium.com/p/fe69883feac2) |
