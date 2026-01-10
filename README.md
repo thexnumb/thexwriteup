@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 10 Jan 2026 22:15:00 GMT | Cybersecurity Is an Ocean: Why Ethical Hacking Alone Is Not Enough for Beginners | Sudheesh | [Read More](https://medium.com/p/100cb8494c3c) |
+| Sat, 10 Jan 2026 21:55:29 GMT | Building My First DHCP Network in Cisco Packet Tracer | Grace Jaman | [Read More](https://medium.com/p/2f71d68126f8) |
+| Sat, 10 Jan 2026 21:40:18 GMT | Questioning Objectivity: A Critical Analysis of “Expert Reviews” in Online Dating Sites | AKUMAAYORI | [Read More](https://medium.com/p/44d2b3d3ef7b) |
 | Sat, 10 Jan 2026 21:33:14 GMT | One difficult virtual machine startup Problem: The quest to find a solution | Umar Al-Mahfuz | [Read More](https://medium.com/p/1c100c953591) |
 | Sat, 10 Jan 2026 21:27:29 GMT | Advent of Cyber — Day 12: Phishing — Phishmas Greetings | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/9e34e1487413) |
 | Sat, 10 Jan 2026 21:27:07 GMT | Securing AI Systems: The New Frontier of Cybersecurity | Nayan Goel | [Read More](https://medium.com/p/525a5844a3fc) |
@@ -57,6 +60,7 @@ The digital world makes life easier… | Victor Samuel-Columbus | [Read More](ht
 | Sat, 10 Jan 2026 17:59:58 GMT | Why Sharing State Is the Real Performance Bug | TheOpinionatedDev | [Read More](https://medium.com/p/71cb65f1f064) |
 | Sat, 10 Jan 2026 17:52:34 GMT | How End-to-End Encryption Works in WhatsApp ? | Hridyansh | [Read More](https://medium.com/p/d0e96d7fbabf) |
 | Sat, 10 Jan 2026 17:45:07 GMT | Securing Your Brand in AI | ReSO AI | [Read More](https://medium.com/p/3090b5282b59) |
+| Sat, 10 Jan 2026 17:42:14 GMT | How End-to-End Encryption Works in WhatsApp ? | Hridyansh | [Read More](https://medium.com/p/ff1217422aa5) |
 | Sat, 10 Jan 2026 17:39:46 GMT | My Learning Journey | Adeoluwa Obadofin | [Read More](https://medium.com/p/b8770e14963b) |
 | Sat, 10 Jan 2026 17:38:16 GMT | Authentication vs Authorization: Why AuthZ Is No Longer Optional | Zeigeist | [Read More](https://medium.com/p/df4132d65ca4) |
 | Sat, 10 Jan 2026 17:36:09 GMT | Microservice：從技術到比喻的全面理解 | 思維舞步 MindSteps | [Read More](https://medium.com/p/ee4eea43d3d2) |
@@ -109,7 +113,3 @@ The digital world makes life easier… | Victor Samuel-Columbus | [Read More](ht
 | Sat, 10 Jan 2026 14:11:07 GMT | Cybersecurity Jobs Without Experience: How to Start Your Career | Victoria C | [Read More](https://medium.com/p/41c7e1ff343f) |
 | Sat, 10 Jan 2026 14:09:09 GMT | Best Security Features Crypto Exchanges Are Prioritizing in 2026 | Safiyyah | [Read More](https://medium.com/p/f7480d09c3dc) |
 | Sat, 10 Jan 2026 14:05:56 GMT | From Reconnaissance to Exploitation: My ParoCyber Final Penetration Testing Capstone | Claudius Thompson | [Read More](https://medium.com/p/eb2e4f18b1e7) |
-| Sat, 10 Jan 2026 14:03:14 GMT | The 7 Skills Every Cybersecurity Engineer Needs in 2025 — And How to Learn Them | Cyber Tsunami | [Read More](https://medium.com/p/2e2bf1abcc50) |
-| Sat, 10 Jan 2026 13:58:09 GMT | Tony99 Server Status: How to Bypass Connection Latency (Updated Jan 2026) | Aussie Pokies Bonus | [Read More](https://medium.com/p/2c9396e6355d) |
-| Sat, 10 Jan 2026 13:54:00 GMT | Don’t Wait for a Breach: Secure Your Systems with Professional Penetration Testing | Plutosec Cyber Security | [Read More](https://medium.com/p/8cabba5180eb) |
-| Sat, 10 Jan 2026 13:45:44 GMT | Demystifying Cyber Attack Terminology a.k.a…..what the heck do these words mean | Kevin Kelly | [Read More](https://medium.com/p/83d2ca4191af) |
