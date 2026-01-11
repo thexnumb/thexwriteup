@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 07:16:27 GMT | Networking Essentials For Cyber security | Fiza saleem | [Read More](https://medium.com/p/d13f77dc8414) |
+| Sun, 11 Jan 2026 07:01:01 GMT | Medusa: The Powerful Parallel Brute-Forcing Tool Every Pentester Should Know | XoX | [Read More](https://medium.com/p/079b06264b28) |
+| Sun, 11 Jan 2026 06:47:54 GMT | 스타트업 엔지니어의 DB 접근제어 솔루션 도입기 | 이진만 (Jamie) | [Read More](https://medium.com/p/0318e5ae7d8b) |
+| Sun, 11 Jan 2026 06:33:27 GMT | Beginners Guide to Setup your “GF” !! | Sakib Haque Zisan | [Read More](https://medium.com/p/3a5fca7e6edf) |
+| Sun, 11 Jan 2026 06:29:59 GMT | [TryHackMe] Intro to Logs | Vikram Budania | [Read More](https://medium.com/p/727d8932ed07) |
 | Sun, 11 Jan 2026 06:21:24 GMT | Instagram’s 17.5M Data Leak: What It Really Means for Your Security and Digital Trust | Priyanka | [Read More](https://medium.com/p/9310aa159bc8) |
 | Sun, 11 Jan 2026 06:02:49 GMT | Mass Assignment: Insecure Binder Configuration — SSC Fortify Security Findings Analysis — Part 6 | Okan Yurt | [Read More](https://medium.com/p/68e0da5b6eb3) |
 | Sun, 11 Jan 2026 05:57:09 GMT | Threat Hunting & Log Monitoring Lab using ELK Stack with Geo-Location (Step-by-Step Guide) | Abhinsubej | [Read More](https://medium.com/p/303af5401a59) |
@@ -65,6 +70,7 @@ If you are searching for the best… | Ankit rai | [Read More](https://medium.co
 | Sat, 10 Jan 2026 22:55:46 GMT | Social Engineering: The Art of Bypassing the Human Firewall | root0emir | [Read More](https://medium.com/p/d284e3dde96e) |
 | Sat, 10 Jan 2026 22:54:07 GMT | Cryptographic Security in Backup Systems: Protecting the Final Stronghold of Data | Esra Kayhan | [Read More](https://medium.com/p/d371be23a2b9) |
 | Sat, 10 Jan 2026 22:41:53 GMT | Document, Don’t Just Experience | Techinfo | [Read More](https://medium.com/p/f22ae37c9a42) |
+| Sat, 10 Jan 2026 22:39:32 GMT | TOP WEB challenge -- FahemSec | Salma Muhamed | [Read More](https://medium.com/p/fde09f1217bb) |
 | Sat, 10 Jan 2026 22:30:20 GMT | Vulnyx “Exec” CTF Writeup | sabR | [Read More](https://medium.com/p/9663b63caa71) |
 | Sat, 10 Jan 2026 22:22:20 GMT | Hands‑On CAN Bus Practical Using Free Tools (Step‑by‑Step, Legal & Safe) | Kirthi | [Read More](https://medium.com/p/84fac302e560) |
 | Sat, 10 Jan 2026 22:15:00 GMT | Cybersecurity Is an Ocean: Why Ethical Hacking Alone Is Not Enough for Beginners | Sudheesh | [Read More](https://medium.com/p/100cb8494c3c) |
@@ -108,9 +114,3 @@ The digital world makes life easier… | Victor Samuel-Columbus | [Read More](ht
 | Sat, 10 Jan 2026 18:32:50 GMT | Nietzsche’s Will to Power: Adaptability and Resilience in Cybersecurity Practices | Brian Haman, PhD | [Read More](https://medium.com/p/6937593f6f92) |
 | Sat, 10 Jan 2026 18:23:01 GMT | Creating a Flexible IT Strategy That Keeps Up With Change | NordicX | [Read More](https://medium.com/p/4ec959832a9f) |
 | Sat, 10 Jan 2026 18:22:30 GMT | What I Learned from 10 Days of Running an MYSQL Honeypot | berke bodur | [Read More](https://medium.com/p/dc4d35a45d21) |
-| Sat, 10 Jan 2026 18:12:54 GMT | How I secure my Mac when working from a café | Natalie Polly | [Read More](https://medium.com/p/a5209ea25b93) |
-| Sat, 10 Jan 2026 18:04:13 GMT | The Dark Web Dump Was Old — The Vulnerability Wasn’t ️ | Iski | [Read More](https://medium.com/p/f0c4a2df8171) |
-| Sat, 10 Jan 2026 18:04:04 GMT | Ottergram Writeup (BugForge) | 7s26Simon | [Read More](https://medium.com/p/7e048a3db854) |
-| Sat, 10 Jan 2026 18:02:46 GMT | Previous — HackTheBox Walkthrough | Maksim Hayder | [Read More](https://medium.com/p/591d4f8b3718) |
-| Sat, 10 Jan 2026 17:59:58 GMT | Why Sharing State Is the Real Performance Bug | TheOpinionatedDev | [Read More](https://medium.com/p/71cb65f1f064) |
-| Sat, 10 Jan 2026 17:52:34 GMT | How End-to-End Encryption Works in WhatsApp ? | Hridyansh | [Read More](https://medium.com/p/d0e96d7fbabf) |
