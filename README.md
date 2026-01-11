@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 06:21:24 GMT | Instagram’s 17.5M Data Leak: What It Really Means for Your Security and Digital Trust | Priyanka | [Read More](https://medium.com/p/9310aa159bc8) |
+| Sun, 11 Jan 2026 06:02:49 GMT | Mass Assignment: Insecure Binder Configuration — SSC Fortify Security Findings Analysis — Part 6 | Okan Yurt | [Read More](https://medium.com/p/68e0da5b6eb3) |
+| Sun, 11 Jan 2026 05:57:09 GMT | Threat Hunting & Log Monitoring Lab using ELK Stack with Geo-Location (Step-by-Step Guide) | Abhinsubej | [Read More](https://medium.com/p/303af5401a59) |
+| Sun, 11 Jan 2026 05:54:57 GMT | Top 5 Best Summer Training Institutes in Lucknow (2026 Edition)
+If you are searching for the best… | Ankit rai | [Read More](https://medium.com/p/ec5ce4b8fc5c) |
+| Sun, 11 Jan 2026 05:42:12 GMT | What Is a Passkey? | REIMAGINES | [Read More](https://medium.com/p/e42e90f0976f) |
 | Sun, 11 Jan 2026 05:37:29 GMT | Man-in-the-Middle Attacks: The Invisible Eavesdropper Between You and the Internet | Satyam Singh | [Read More](https://medium.com/p/c0d479bd8786) |
 | Sun, 11 Jan 2026 05:32:48 GMT | 7 iPhone Security Settings You Should Turn on Right Now | Tsumit | [Read More](https://medium.com/p/4f2ac480185a) |
 | Sun, 11 Jan 2026 05:17:09 GMT | VulnOS v2 — VulnHub Walkthrough | Al Arisyi | [Read More](https://medium.com/p/2277e648e741) |
@@ -108,8 +114,3 @@ The digital world makes life easier… | Victor Samuel-Columbus | [Read More](ht
 | Sat, 10 Jan 2026 18:02:46 GMT | Previous — HackTheBox Walkthrough | Maksim Hayder | [Read More](https://medium.com/p/591d4f8b3718) |
 | Sat, 10 Jan 2026 17:59:58 GMT | Why Sharing State Is the Real Performance Bug | TheOpinionatedDev | [Read More](https://medium.com/p/71cb65f1f064) |
 | Sat, 10 Jan 2026 17:52:34 GMT | How End-to-End Encryption Works in WhatsApp ? | Hridyansh | [Read More](https://medium.com/p/d0e96d7fbabf) |
-| Sat, 10 Jan 2026 17:45:07 GMT | Securing Your Brand in AI | ReSO AI | [Read More](https://medium.com/p/3090b5282b59) |
-| Sat, 10 Jan 2026 17:42:14 GMT | How End-to-End Encryption Works in WhatsApp ? | Hridyansh | [Read More](https://medium.com/p/ff1217422aa5) |
-| Sat, 10 Jan 2026 17:39:46 GMT | My Learning Journey | Adeoluwa Obadofin | [Read More](https://medium.com/p/b8770e14963b) |
-| Sat, 10 Jan 2026 17:38:16 GMT | Authentication vs Authorization: Why AuthZ Is No Longer Optional | Zeigeist | [Read More](https://medium.com/p/df4132d65ca4) |
-| Sat, 10 Jan 2026 17:36:09 GMT | Microservice：從技術到比喻的全面理解 | 思維舞步 MindSteps | [Read More](https://medium.com/p/ee4eea43d3d2) |
