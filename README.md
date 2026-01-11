@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 22:59:20 GMT | Security Shorts Volume 1 — Defence in Depth for Blockchain | L Strawbridge | [Read More](https://medium.com/p/d2586e20dc58) |
+| Sun, 11 Jan 2026 22:55:23 GMT | Fortigate Installation (VM) | Mehmet Ali Gülyurdu | [Read More](https://medium.com/p/b8d312c465fa) |
+| Sun, 11 Jan 2026 22:55:15 GMT | Professional Ethical Hacking & Digital Investigation Services. | Private-hackers.com | [Read More](https://medium.com/p/dfe556433b74) |
+| Sun, 11 Jan 2026 22:48:50 GMT | To Be Seen | Savannah Gilmore | [Read More](https://medium.com/p/a3ba6509ffad) |
 | Sun, 11 Jan 2026 22:43:18 GMT | 30 Days of Red Team: Day 15 — Credential Harvesting | Maxwell Cross | [Read More](https://medium.com/p/829737ccc5e6) |
 | Sun, 11 Jan 2026 22:36:22 GMT | The Hidden Dangers of Multi-Agent Systems: A case study of Critical Vulnerabilities in Production… | Priyanka Chakraborti | [Read More](https://medium.com/p/21c6abc990d2) |
 | Sun, 11 Jan 2026 22:33:27 GMT | Architecting for Uncertainty | Amit Tomar | [Read More](https://medium.com/p/2548f1ab94fc) |
@@ -111,7 +115,3 @@ Its compression. | R. D. | [Read More](https://medium.com/p/99bbec9316e7) |
 | Sun, 11 Jan 2026 15:46:01 GMT | Cyrethium / Securonis Archive : Technical Evolution of a Privacy-Centric Linux Distribution | root0emir | [Read More](https://medium.com/p/d9b362f53a8e) |
 | Sun, 11 Jan 2026 15:43:16 GMT | Furhire Writeup (BugForge) | 7s26Simon | [Read More](https://medium.com/p/83a1be8dee83) |
 | Sun, 11 Jan 2026 15:32:49 GMT | 4 AI & Dev Tools That Changed My Life (And Saved Me 20+ Hours a Week) | Sumit Sharma | [Read More](https://medium.com/p/3c1feec4b699) |
-| Sun, 11 Jan 2026 15:28:36 GMT | This Endpoint Was “Read-Only” — Until I Read Everything | Iski | [Read More](https://medium.com/p/c157154bdb99) |
-| Sun, 11 Jan 2026 15:28:12 GMT | Transient Parades | Niraah RI | [Read More](https://medium.com/p/055fd111c111) |
-| Sun, 11 Jan 2026 15:27:49 GMT | First Internal VM Network | Techwin Cyber | [Read More](https://medium.com/p/f84e1eebd41d) |
-| Sun, 11 Jan 2026 15:20:14 GMT | Minimum Depth of Binary Tree — Why “Minimum” Is Trickier Than It Sounds | Error | [Read More](https://medium.com/p/30057e92733b) |
