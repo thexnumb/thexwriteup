@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 15:32:49 GMT | 4 AI & Dev Tools That Changed My Life (And Saved Me 20+ Hours a Week) | Sumit Sharma | [Read More](https://medium.com/p/3c1feec4b699) |
+| Sun, 11 Jan 2026 15:28:36 GMT | This Endpoint Was “Read-Only” — Until I Read Everything | Iski | [Read More](https://medium.com/p/c157154bdb99) |
+| Sun, 11 Jan 2026 15:28:12 GMT | Transient Parades | Niraah RI | [Read More](https://medium.com/p/055fd111c111) |
+| Sun, 11 Jan 2026 15:27:49 GMT | First Internal VM Network | Techwin Cyber | [Read More](https://medium.com/p/f84e1eebd41d) |
+| Sun, 11 Jan 2026 15:20:14 GMT | Minimum Depth of Binary Tree — Why “Minimum” Is Trickier Than It Sounds | Error | [Read More](https://medium.com/p/30057e92733b) |
+| Sun, 11 Jan 2026 15:15:48 GMT | RELEVANT- TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/17e479a19896) |
 | Sun, 11 Jan 2026 15:09:16 GMT | DNSSEC: Build a Chain of Trust to Stop DNS Attacks | Olha Stefanishyna | [Read More](https://medium.com/p/b1fe32ec464d) |
 | Sun, 11 Jan 2026 15:08:52 GMT | SHAKE and cSHAKE | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/34ee5619679f) |
 | Sun, 11 Jan 2026 15:08:22 GMT | The Myth of Runtime Protection: How Instrumentation Quietly Wins | Ahmed Hesham | [Read More](https://medium.com/p/3fbeaa08fb06) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 11 Jan 2026 08:01:00 GMT | From Frontend to Firewalls | Faria Ejaz | [Read More](https://medium.com/p/e079181a9adf) |
 | Sun, 11 Jan 2026 07:55:17 GMT | A Furry SQLi with BugForge | 0ber1n | [Read More](https://medium.com/p/1e8e479d4c4f) |
 | Sun, 11 Jan 2026 07:53:57 GMT | Geopolitical Drivers and Cyber Statecraft in the U.S. Intervention in Venezuela | BeGoodToAll | [Read More](https://medium.com/p/a967a6a1fc40) |
-| Sun, 11 Jan 2026 07:42:01 GMT | Diploma in Artificial Intelligence After 10th [Updated 2026] | Manisha Chaudhary | [Read More](https://medium.com/p/e63d7d5e6a8e) |
-| Sun, 11 Jan 2026 07:16:27 GMT | Networking Essentials For Cyber security | Fiza saleem | [Read More](https://medium.com/p/d13f77dc8414) |
-| Sun, 11 Jan 2026 07:01:01 GMT | Medusa: The Powerful Parallel Brute-Forcing Tool Every Pentester Should Know | XoX | [Read More](https://medium.com/p/079b06264b28) |
-| Sun, 11 Jan 2026 06:47:54 GMT | 스타트업 엔지니어의 DB 접근제어 솔루션 도입기 | 이진만 (Jamie) | [Read More](https://medium.com/p/0318e5ae7d8b) |
-| Sun, 11 Jan 2026 06:33:27 GMT | Beginners Guide to Setup your “GF” !! | Sakib Haque Zisan | [Read More](https://medium.com/p/3a5fca7e6edf) |
-| Sun, 11 Jan 2026 06:29:59 GMT | [TryHackMe] Intro to Logs | Vikram Budania | [Read More](https://medium.com/p/727d8932ed07) |
