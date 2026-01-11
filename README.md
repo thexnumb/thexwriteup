@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 12:43:40 GMT | Local File Inclusion(LFI) Vulnerability | Md. Raihan | [Read More](https://medium.com/p/30da50aef6bf) |
+| Sun, 11 Jan 2026 12:30:49 GMT | Architecting Secure Data Transfers: A Guide for Fintech SaaS Platforms | Ravi | [Read More](https://medium.com/p/ec3c632919b1) |
+| Sun, 11 Jan 2026 12:14:24 GMT | SOC Roles in the Blue Team (L1 & L2) — A Complete, Extended Walkthrough | rootRS7 | [Read More](https://medium.com/p/19df12011bbb) |
+| Sun, 11 Jan 2026 12:12:00 GMT | HexStrike + Cursor for OSINT: From One Email to a Full Exposure Map | Andrey Pautov | [Read More](https://medium.com/p/ffdfc7ba1b30) |
+| Sun, 11 Jan 2026 12:09:14 GMT | AyScroll: Making Scrolling Meaningful Again | Mayank Kumar Jha | [Read More](https://medium.com/p/17bddc91842c) |
+| Sun, 11 Jan 2026 12:01:57 GMT | Zero-Touch, High-Security: Onboarding Tenants to Modern Fintech Platforms | Ravi | [Read More](https://medium.com/p/8c9ba60ba724) |
+| Sun, 11 Jan 2026 11:58:56 GMT | Race condition leading to multiple refunds and cash re | Excessium | [Read More](https://medium.com/p/bdcf890cafca) |
+| Sun, 11 Jan 2026 11:50:55 GMT | Go Reflection for Metaprogramming: Building Generic Code Using reflect | Ade Mawan | [Read More](https://medium.com/p/8d157ab51db6) |
+| Sun, 11 Jan 2026 11:46:12 GMT | How Much Data Do Google and Meta Really Know About You | Tech Word | [Read More](https://medium.com/p/1920cb386c7e) |
+| Sun, 11 Jan 2026 11:44:26 GMT | Cyber Crime Complaint Process in India | Tech Word | [Read More](https://medium.com/p/7baae4d955d5) |
+| Sun, 11 Jan 2026 11:40:11 GMT | AI Agents Need Deterministic Control — Not Better Prompts | Shawn K. Reilly | [Read More](https://medium.com/p/702f1a21a293) |
+| Sun, 11 Jan 2026 11:40:02 GMT | Business logic flaw leading to product depletion | Excessium | [Read More](https://medium.com/p/6cfbc7ecda66) |
+| Sun, 11 Jan 2026 11:34:33 GMT | Understanding Zero Trust Tunneling for Secure Software Development | Aransiola Ayodele | [Read More](https://medium.com/p/33cb1cf88eb9) |
+| Sun, 11 Jan 2026 11:31:14 GMT | The Crow’s Hunt #01: Persistencia Silenciosa — Cazando Extensiones Maliciosas (T1176) | FeCeSociety | [Read More](https://medium.com/p/1e112dd76001) |
 | Sun, 11 Jan 2026 11:26:59 GMT | Python for Pentesters: 15 Real Bug-Finding Scripts You Can Use Today | Very Lazy Tech | [Read More](https://medium.com/p/4ac22fcb5e13) |
 | Sun, 11 Jan 2026 11:20:54 GMT | RAIT-CTF (2026) | popo | [Read More](https://medium.com/p/4ec46241b31e) |
 | Sun, 11 Jan 2026 11:19:38 GMT | From Information to Intelligence: A Practical Understanding of OSINT (Trace Labs OSINT Educational… | Adonis john | [Read More](https://medium.com/p/91356c1bf706) |
@@ -99,17 +113,3 @@ If you are searching for the best… | Ankit rai | [Read More](https://medium.co
 | Sun, 11 Jan 2026 02:45:54 GMT | Threat Management as Frontend Engineer — XSS | ZIS | [Read More](https://medium.com/p/a9b4259a53d7) |
 | Sun, 11 Jan 2026 02:40:04 GMT | Same God, New Year. | India Janeè | [Read More](https://medium.com/p/8ebb9fb6e2a1) |
 | Sun, 11 Jan 2026 02:25:47 GMT | Why Wrench Attacks Against Crypto Owners Will Increase | David SEHYEON Baek | [Read More](https://medium.com/p/84e162998072) |
-| Sun, 11 Jan 2026 02:22:01 GMT | Dare to Live in an Era Where Private Data Is Endlessly Recycled Through Criminal Hands, Forever | David SEHYEON Baek | [Read More](https://medium.com/p/57d2d5d925ff) |
-| Sun, 11 Jan 2026 02:14:31 GMT | Otters and GraphQL — Bugforge Daily | 0ber1n | [Read More](https://medium.com/p/3b6caf832053) |
-| Sun, 11 Jan 2026 02:09:30 GMT | Manage My Health breach: a practical NZ guide to compensation | JP Caparas | [Read More](https://medium.com/p/e60c49e6829d) |
-| Sun, 11 Jan 2026 01:51:55 GMT | After the Grok Incident: Why AI Must Prove What It Did Not Generate | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/e7d79fda0bf1) |
-| Sun, 11 Jan 2026 01:51:33 GMT | WireGuard VPN on Raspberry Pi: Your Personal Secure Gateway | Rocky Chen | [Read More](https://medium.com/p/8c742c1596ed) |
-| Sun, 11 Jan 2026 01:29:47 GMT | Google Dorking: A Powerful Search Technique | Albertstive | [Read More](https://medium.com/p/1d775cd4d3bc) |
-| Sun, 11 Jan 2026 01:22:03 GMT | Most People Still Get Password Security Wrong (Here’s How to Fix It) | Michael Kendrick | [Read More](https://medium.com/p/19b84d3e016c) |
-| Sun, 11 Jan 2026 01:14:16 GMT | Before Networking, Before Compute: Why Cloud Architecture Starts With Identity | Moyinoluwa Adegbolu | [Read More](https://medium.com/p/f3a03dd0f0c6) |
-| Sun, 11 Jan 2026 01:01:09 GMT | How to install and setup Teamviewer Remote desktop client | Jared Douville | [Read More](https://medium.com/p/c3548ed939c3) |
-| Sun, 11 Jan 2026 00:46:54 GMT | Wgel CTF TryHackMe Write UP | cat0x01 | [Read More](https://medium.com/p/2312dfd96792) |
-| Sun, 11 Jan 2026 00:43:21 GMT | Go’s Eternal Dilemma: When Will We Get Proper Enums and Union Types? | Wesley Wei | [Read More](https://medium.com/p/140c4925a9dd) |
-| Sun, 11 Jan 2026 00:28:36 GMT | Pilots Suck | Audric Osei | [Read More](https://medium.com/p/5d5dedd85731) |
-| Sun, 11 Jan 2026 00:20:13 GMT | Android Services Attack Surface | Hossam Shaalan | [Read More](https://medium.com/p/20d9134748f5) |
-| Sun, 11 Jan 2026 00:13:05 GMT | The Impossible Quest for Untraceable Communication | Mahadevadityamukhiya | [Read More](https://medium.com/p/726ac13b13a9) |
