@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 08:40:35 GMT | HOW TO RECOVER LOST PASSWORD TO YOUR ACCOUNT | Usamalik | [Read More](https://medium.com/p/3d2cb770eaa4) |
+| Sun, 11 Jan 2026 08:37:45 GMT | Followers Don’t Build Brands. Relationships Do. | Vijay Kumar Gupta | [Read More](https://medium.com/p/eec45bb9142f) |
+| Sun, 11 Jan 2026 08:35:47 GMT | 401/403 Bypass | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/e81ff93a9abe) |
+| Sun, 11 Jan 2026 08:34:10 GMT | Seasons, Silence, and Starting Over | Selina Moore Isenhart | [Read More](https://medium.com/p/c156cea83bfb) |
+| Sun, 11 Jan 2026 08:32:47 GMT | 一文搞懂 Kubernetes：Minikube、Cluster 與 TLS 憑證全攻略 | 靈芝 LING-ZHI | [Read More](https://medium.com/p/fd97859e872f) |
+| Sun, 11 Jan 2026 08:31:37 GMT | The Ghost of Yes | Beautiful Haunts | [Read More](https://medium.com/p/f5b1d8d42dd5) |
 | Sun, 11 Jan 2026 08:28:14 GMT | JSON Web Token (JWT) — Why, How, Structure, Attacks & Defenses | Suraj Bhandari | [Read More](https://medium.com/p/11a238cebfff) |
+| Sun, 11 Jan 2026 08:28:12 GMT | Sentinel: An Identity Provider with Auth 2.0 and OIDC Framework | Samyak Choudhary | [Read More](https://medium.com/p/0d091f574f3e) |
 | Sun, 11 Jan 2026 08:19:46 GMT | How to pass the PNPT (2026) | mr-3 | [Read More](https://medium.com/p/9144d37aae3e) |
 | Sun, 11 Jan 2026 08:12:55 GMT | Never Talk to a Spammers Again: The iOS 26 Setting That Kills Spam Forever. | apple inside | [Read More](https://medium.com/p/a76051e59ea4) |
 | Sun, 11 Jan 2026 08:09:40 GMT | For Growth PMs in early 2026, focus on AI-driven personalization, deep customer feedback loops… | Ravikant Vishwakarma | [Read More](https://medium.com/p/80023f72e30b) |
@@ -107,10 +114,3 @@ The digital world makes life easier… | Victor Samuel-Columbus | [Read More](ht
 | Sat, 10 Jan 2026 19:48:55 GMT | 17.5 Million Instagram Accounts Just Got Leaked and Meta is Silent | Yakhilesh | [Read More](https://medium.com/p/a05cc887e7e9) |
 | Sat, 10 Jan 2026 19:47:57 GMT | Modernizing the SOC with an AI-Based Virtual Security Analyst | Little_Sun4lower | [Read More](https://medium.com/p/e420f93f6484) |
 | Sat, 10 Jan 2026 19:47:20 GMT | The Lopsided Risk Dynamic of AI Agent Deployments | David Anderson | [Read More](https://medium.com/p/53aac7bdfd21) |
-| Sat, 10 Jan 2026 19:47:05 GMT | 86% of Organizations Delayed AI Deployments Due to Security | David Anderson | [Read More](https://medium.com/p/ef09fc5608cf) |
-| Sat, 10 Jan 2026 19:39:58 GMT | The $4.5 Million Hardware Store That Wasn’t: Inside LA’s August Cargo Theft Bust | Heesham Naji | [Read More](https://medium.com/p/ca8bd0b2d439) |
-| Sat, 10 Jan 2026 19:34:25 GMT | Active Directory Attack Path Visualisation & Threat Detection System | Abhishek Yadav | [Read More](https://medium.com/p/e41f87b4b68c) |
-| Sat, 10 Jan 2026 19:31:45 GMT | What Happens When You Let Life Flip You | The Veiled Versifier | [Read More](https://medium.com/p/aabde17636c6) |
-| Sat, 10 Jan 2026 19:30:59 GMT | 17.5 Million Instagram Users Hit by Fresh Data Leak — What Happened, What Was Taken, and What You… | Faisal haque | [Read More](https://medium.com/p/ca66d9802cd6) |
-| Sat, 10 Jan 2026 19:28:25 GMT | How Foreign Bots and Fake Outrage Are Turning Americans Against Their Own Country And What You Can… | Infinite Solutions by J. I. Memphis | [Read More](https://medium.com/p/f2ad31e6ceb8) |
-| Sat, 10 Jan 2026 19:21:34 GMT | Kali Linux Lab Home lab — Part 1 | Jacob Ferguson | [Read More](https://medium.com/p/4402655dbaa2) |
