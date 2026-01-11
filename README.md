@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 15:09:16 GMT | DNSSEC: Build a Chain of Trust to Stop DNS Attacks | Olha Stefanishyna | [Read More](https://medium.com/p/b1fe32ec464d) |
+| Sun, 11 Jan 2026 15:08:52 GMT | SHAKE and cSHAKE | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/34ee5619679f) |
+| Sun, 11 Jan 2026 15:08:22 GMT | The Myth of Runtime Protection: How Instrumentation Quietly Wins | Ahmed Hesham | [Read More](https://medium.com/p/3fbeaa08fb06) |
+| Sun, 11 Jan 2026 15:06:34 GMT | Special Financial Zone Meets Global Crypto Trading | GGEX | [Read More](https://medium.com/p/128e8205d845) |
+| Sun, 11 Jan 2026 14:59:36 GMT | Write-up: VulnNet Active lab on THM | cLODIUS cOCK | [Read More](https://medium.com/p/107886a6e3fd) |
 | Sun, 11 Jan 2026 14:39:33 GMT | Zero Click ATO via Systemic Mass Assignment: The Phantom Hand | Jawad Momani | [Read More](https://medium.com/p/af4f6ce11788) |
 | Sun, 11 Jan 2026 14:36:02 GMT | Stop Using Kubernetes Dashboard | Dhanush N | [Read More](https://medium.com/p/60b16e9beb68) |
 | Sun, 11 Jan 2026 14:32:27 GMT | Why Your New WhatsApp Group is a Blank Slate (and Instagram’s Isn’t) | Muskan | [Read More](https://medium.com/p/e16265674918) |
@@ -107,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 11 Jan 2026 06:47:54 GMT | 스타트업 엔지니어의 DB 접근제어 솔루션 도입기 | 이진만 (Jamie) | [Read More](https://medium.com/p/0318e5ae7d8b) |
 | Sun, 11 Jan 2026 06:33:27 GMT | Beginners Guide to Setup your “GF” !! | Sakib Haque Zisan | [Read More](https://medium.com/p/3a5fca7e6edf) |
 | Sun, 11 Jan 2026 06:29:59 GMT | [TryHackMe] Intro to Logs | Vikram Budania | [Read More](https://medium.com/p/727d8932ed07) |
-| Sun, 11 Jan 2026 06:21:24 GMT | Instagram’s 17.5M Data Leak: What It Really Means for Your Security and Digital Trust | Priyanka | [Read More](https://medium.com/p/9310aa159bc8) |
-| Sun, 11 Jan 2026 06:02:49 GMT | Mass Assignment: Insecure Binder Configuration — SSC Fortify Security Findings Analysis — Part 6 | Okan Yurt | [Read More](https://medium.com/p/68e0da5b6eb3) |
-| Sun, 11 Jan 2026 05:57:09 GMT | Threat Hunting & Log Monitoring Lab using ELK Stack with Geo-Location (Step-by-Step Guide) | Abhinsubej | [Read More](https://medium.com/p/303af5401a59) |
-| Sun, 11 Jan 2026 05:54:57 GMT | Top 5 Best Summer Training Institutes in Lucknow (2026 Edition)
-If you are searching for the best… | Ankit rai | [Read More](https://medium.com/p/ec5ce4b8fc5c) |
-| Sun, 11 Jan 2026 05:42:12 GMT | What Is a Passkey? | REIMAGINES | [Read More](https://medium.com/p/e42e90f0976f) |
