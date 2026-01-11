@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 13:27:45 GMT | A Tiny CORS Header That Quietly Undid Years of Security Work | 1$ Mistake | [Read More](https://medium.com/p/cdb7d04069eb) |
+| Sun, 11 Jan 2026 13:20:02 GMT | Padelify — THM Writeup | Avyukt Security | [Read More](https://medium.com/p/5f30dd31009f) |
+| Sun, 11 Jan 2026 13:16:17 GMT | OSWE Hazırlık İlk Makine — SecureCode WriteUp | OnurDemir-Dev | [Read More](https://medium.com/p/db08018c3bc4) |
+| Sun, 11 Jan 2026 13:11:32 GMT | Understanding Scams — Chapter One | Truality.Finance/.Mental/.Legalese/.Unfiltered | [Read More](https://medium.com/p/5859cf3ce5a7) |
+| Sun, 11 Jan 2026 13:09:04 GMT | ️ Custom Exploit Development: A Journey into the Depths of Memory | Esra Kayhan | [Read More](https://medium.com/p/c8d2eaab5702) |
+| Sun, 11 Jan 2026 12:53:58 GMT | UofTCTF : WriteUp — Baby Bof | t3chw1z4rd | [Read More](https://medium.com/p/1bce604a25ce) |
+| Sun, 11 Jan 2026 12:49:11 GMT | Everything About Cloud Bucket Hacking ( S3 & GCS & Azure & Firebase ) | Anas NadY | [Read More](https://medium.com/p/c027e9441ff9) |
 | Sun, 11 Jan 2026 12:43:40 GMT | Local File Inclusion(LFI) Vulnerability | Md. Raihan | [Read More](https://medium.com/p/30da50aef6bf) |
 | Sun, 11 Jan 2026 12:30:49 GMT | Architecting Secure Data Transfers: A Guide for Fintech SaaS Platforms | Ravi | [Read More](https://medium.com/p/ec3c632919b1) |
 | Sun, 11 Jan 2026 12:14:24 GMT | SOC Roles in the Blue Team (L1 & L2) — A Complete, Extended Walkthrough | rootRS7 | [Read More](https://medium.com/p/19df12011bbb) |
@@ -106,10 +113,3 @@ If you are searching for the best… | Ankit rai | [Read More](https://medium.co
 | Sun, 11 Jan 2026 03:28:07 GMT | THM-BankGPT Writeup Walkthrough | Sandeep Singh Sethi | [Read More](https://medium.com/p/4fc4fc5d604f) |
 | Sun, 11 Jan 2026 03:17:54 GMT | TryHackMe: Iron Corp Writeup | cbev | [Read More](https://medium.com/p/f8e128444551) |
 | Sun, 11 Jan 2026 03:01:20 GMT | 100 Everyday Security Risks People Don’t Realize Can Compromise Them | Jess Hernandez | [Read More](https://medium.com/p/a5ea1467ae95) |
-| Sun, 11 Jan 2026 02:55:23 GMT | Can an Average Student Learn Ethical Hacking in 2026? | Saravana Kumar | [Read More](https://medium.com/p/9e0905b6be4b) |
-| Sun, 11 Jan 2026 02:51:14 GMT | 30 Days of Red Team: Day 14 — Week 2 Integration Lab | Maxwell Cross | [Read More](https://medium.com/p/f5b1d39d8942) |
-| Sun, 11 Jan 2026 02:50:57 GMT | Unlocking the Power of CeWL: Advanced Recon & Wordlist Engineering for Real-World Pentesting | Cybeague Technologies | [Read More](https://medium.com/p/556b27573c4f) |
-| Sun, 11 Jan 2026 02:50:00 GMT | Getting Started with CeWL: Build Custom Wordlists Like a Cybersecurity Pro (Even as a Beginner) | Cybeague Technologies | [Read More](https://medium.com/p/abe7e1025211) |
-| Sun, 11 Jan 2026 02:45:54 GMT | Threat Management as Frontend Engineer — XSS | ZIS | [Read More](https://medium.com/p/a9b4259a53d7) |
-| Sun, 11 Jan 2026 02:40:04 GMT | Same God, New Year. | India Janeè | [Read More](https://medium.com/p/8ebb9fb6e2a1) |
-| Sun, 11 Jan 2026 02:25:47 GMT | Why Wrench Attacks Against Crypto Owners Will Increase | David SEHYEON Baek | [Read More](https://medium.com/p/84e162998072) |
