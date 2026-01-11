@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 17:26:31 GMT | How DNS Works and Reconnaissance Techniques | mohandika | [Read More](https://medium.com/p/d266659c679c) |
+| Sun, 11 Jan 2026 17:21:09 GMT | Web Security Part 2: Practical Tools to Improve Security | Alabi Temitope David | [Read More](https://medium.com/p/1d287b000b39) |
+| Sun, 11 Jan 2026 17:19:54 GMT | Proving Grounds - Zab | jniket | [Read More](https://medium.com/p/12d864d557a5) |
+| Sun, 11 Jan 2026 17:19:10 GMT | Week 2 Linux Internals and the Assumptions We Carry Into Security | Sujhal Gurav | [Read More](https://medium.com/p/cc1fdf2e4c0a) |
+| Sun, 11 Jan 2026 17:13:28 GMT | The Pulse of Reality: Geometric Logic and the Mastery of Probability in 2026’s Quantum Gateways | Shreya Palase | [Read More](https://medium.com/p/ea7718c1c2ac) |
 | Sun, 11 Jan 2026 17:12:11 GMT | Why Candidates Struggle to Explain Forward vs. Reverse Proxy in Interviews? | Sonia | [Read More](https://medium.com/p/542eb31e2bbb) |
 | Sun, 11 Jan 2026 17:10:54 GMT | “Bug Bounty Bootcamp #13: Open Redirects — The Hacker’s Ultimate ‘Force Multiplier’” | Aman Sharma | [Read More](https://medium.com/p/bdab5f50c81d) |
 | Sun, 11 Jan 2026 17:08:10 GMT | Unmasking “Sp1ritFyre” — The MSP Data Breach Investigation | Eeshan Agrawal | [Read More](https://medium.com/p/77d3db68c11b) |
@@ -41,6 +46,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 11 Jan 2026 15:08:52 GMT | SHAKE and cSHAKE | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/34ee5619679f) |
 | Sun, 11 Jan 2026 15:08:22 GMT | The Myth of Runtime Protection: How Instrumentation Quietly Wins | Ahmed Hesham | [Read More](https://medium.com/p/3fbeaa08fb06) |
 | Sun, 11 Jan 2026 15:06:34 GMT | Special Financial Zone Meets Global Crypto Trading | GGEX | [Read More](https://medium.com/p/128e8205d845) |
+| Sun, 11 Jan 2026 15:03:51 GMT | Security Is Not Optional: How Small Stores Get Hacked Every Day | Rejve Rahman | [Read More](https://medium.com/p/e6e2ae32b350) |
 | Sun, 11 Jan 2026 14:59:36 GMT | Write-up: VulnNet Active lab on THM | cLODIUS cOCK | [Read More](https://medium.com/p/107886a6e3fd) |
 | Sun, 11 Jan 2026 14:39:33 GMT | Zero Click ATO via Systemic Mass Assignment: The Phantom Hand | Jawad Momani | [Read More](https://medium.com/p/af4f6ce11788) |
 | Sun, 11 Jan 2026 14:36:02 GMT | Stop Using Kubernetes Dashboard | Dhanush N | [Read More](https://medium.com/p/60b16e9beb68) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 11 Jan 2026 09:24:19 GMT | Studying IT at University? | Zeeshan Punjwani | [Read More](https://medium.com/p/5a03afe7a478) |
 | Sun, 11 Jan 2026 09:17:44 GMT | TryHackMe: Jack Writeup | cbev | [Read More](https://medium.com/p/511efd5fad3b) |
 | Sun, 11 Jan 2026 09:16:10 GMT | How to do Kerberoasting and AS-REP Roasting | Zoroya | [Read More](https://medium.com/p/e3a176c0d851) |
-| Sun, 11 Jan 2026 09:14:45 GMT | Install dan Penggunaan Bettercap Bahasa Indo | Hananda Gagas | [Read More](https://medium.com/p/09ebd289a8bb) |
-| Sun, 11 Jan 2026 09:10:26 GMT | Production Websites vs. Other Websites: A Cybersecurity Perspective | Tandelpruthvi | [Read More](https://medium.com/p/e96033419a18) |
-| Sun, 11 Jan 2026 09:02:51 GMT | .blend malware found taking advantage of Blender’s python script auto execution setting | Le Noctambule | [Read More](https://medium.com/p/866f8cf533d4) |
-| Sun, 11 Jan 2026 09:02:49 GMT | Bug Bounty Report Template: Turn Leaked Credentials Into P1s | Alexandre Vandamme | [Read More](https://medium.com/p/5f114904ecda) |
-| Sun, 11 Jan 2026 08:55:17 GMT | THE TWITTER BITCOIN SCAM: | Megha Sajeev | [Read More](https://medium.com/p/90c048809603) |
-| Sun, 11 Jan 2026 08:55:12 GMT | Saudi PDPL: The Deadline Is Over. Your Business MUST Comply. | Sahl - GRC with AI | [Read More](https://medium.com/p/5bd797d904d9) |
