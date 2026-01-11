@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 09:17:44 GMT | TryHackMe: Jack Writeup | cbev | [Read More](https://medium.com/p/511efd5fad3b) |
+| Sun, 11 Jan 2026 09:16:10 GMT | How to do Kerberoasting and AS-REP Roasting | Zoroya | [Read More](https://medium.com/p/e3a176c0d851) |
+| Sun, 11 Jan 2026 09:14:45 GMT | Install dan Penggunaan Bettercap Bahasa Indo | Hananda Gagas | [Read More](https://medium.com/p/09ebd289a8bb) |
+| Sun, 11 Jan 2026 09:10:26 GMT | Production Websites vs. Other Websites: A Cybersecurity Perspective | Tandelpruthvi | [Read More](https://medium.com/p/e96033419a18) |
+| Sun, 11 Jan 2026 09:02:51 GMT | .blend malware found taking advantage of Blender’s python script auto execution setting | Le Noctambule | [Read More](https://medium.com/p/866f8cf533d4) |
+| Sun, 11 Jan 2026 09:02:49 GMT | Bug Bounty Report Template: Turn Leaked Credentials Into P1s | Alexandre Vandamme | [Read More](https://medium.com/p/5f114904ecda) |
+| Sun, 11 Jan 2026 08:55:17 GMT | THE TWITTER BITCOIN SCAM: | Megha Sajeev | [Read More](https://medium.com/p/90c048809603) |
+| Sun, 11 Jan 2026 08:55:12 GMT | Saudi PDPL: The Deadline Is Over. Your Business MUST Comply. | Sahl - GRC with AI | [Read More](https://medium.com/p/5bd797d904d9) |
+| Sun, 11 Jan 2026 08:54:29 GMT | JWT Authentication Bypass Via Weak Signing Key | Amrsmooke | [Read More](https://medium.com/p/22ab5a3d425c) |
+| Sun, 11 Jan 2026 08:49:25 GMT | Automating the Cybersecurity News: How I Saved 30 Minutes Every Day | Neetrox | [Read More](https://medium.com/p/708b710448d7) |
 | Sun, 11 Jan 2026 08:40:35 GMT | HOW TO RECOVER LOST PASSWORD TO YOUR ACCOUNT | Usamalik | [Read More](https://medium.com/p/3d2cb770eaa4) |
 | Sun, 11 Jan 2026 08:37:45 GMT | Followers Don’t Build Brands. Relationships Do. | Vijay Kumar Gupta | [Read More](https://medium.com/p/eec45bb9142f) |
 | Sun, 11 Jan 2026 08:35:47 GMT | 401/403 Bypass | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/e81ff93a9abe) |
@@ -104,13 +114,3 @@ If you are searching for the best… | Ankit rai | [Read More](https://medium.co
 The digital world makes life easier… | Victor Samuel-Columbus | [Read More](https://medium.com/p/b72952c58e9a) |
 | Sat, 10 Jan 2026 20:53:13 GMT | (Part 15) Mastering GitHub Copilot Series: Real-World Ops — Using Copilot to Level Up Your IaC Game | Nick | [Read More](https://medium.com/p/7feaa1533257) |
 | Sat, 10 Jan 2026 20:46:53 GMT | How i was able to delete any user account i wanted from the application :) | aiden0x | [Read More](https://medium.com/p/44426f78a70a) |
-| Sat, 10 Jan 2026 20:06:59 GMT | How I Bypassed Premium Content to Download Movies for Free Via Token Refresh Abuse | Muhammad Zain | [Read More](https://medium.com/p/5fbbb66a30f6) |
-| Sat, 10 Jan 2026 19:59:05 GMT | The Text Message That Ended the Illusion of “Closeness” | Aysun Mete | [Read More](https://medium.com/p/ec2cdedea3f5) |
-| Sat, 10 Jan 2026 19:58:14 GMT | Mastering Seccomp Filters in Production Environments | Linux Guide | [Read More](https://medium.com/p/bc49ea2c8c72) |
-| Sat, 10 Jan 2026 19:57:52 GMT | Cache Poisoning: The Silent Web Attack You Need to Know About | Martin Simonyan | [Read More](https://medium.com/p/09c024910bb4) |
-| Sat, 10 Jan 2026 19:57:47 GMT | $22,300 Bug Bounty: Cloning Private GitLab Repositories via Import Feature | Monika sharma | [Read More](https://medium.com/p/15bcabb62530) |
-| Sat, 10 Jan 2026 19:55:12 GMT | Sistemlerin “Niyetini” Okumak: IDDP (Intent Drift Detection Platform) ile Tanışın | Tolga Çelik | [Read More](https://medium.com/p/62662bdcc8ef) |
-| Sat, 10 Jan 2026 19:52:21 GMT | From Chaos to Elegance: How Design Patterns Secretly Enforce SOLID Principles | Jitin Kayyala | [Read More](https://medium.com/p/aa7105db099f) |
-| Sat, 10 Jan 2026 19:48:55 GMT | 17.5 Million Instagram Accounts Just Got Leaked and Meta is Silent | Yakhilesh | [Read More](https://medium.com/p/a05cc887e7e9) |
-| Sat, 10 Jan 2026 19:47:57 GMT | Modernizing the SOC with an AI-Based Virtual Security Analyst | Little_Sun4lower | [Read More](https://medium.com/p/e420f93f6484) |
-| Sat, 10 Jan 2026 19:47:20 GMT | The Lopsided Risk Dynamic of AI Agent Deployments | David Anderson | [Read More](https://medium.com/p/53aac7bdfd21) |
