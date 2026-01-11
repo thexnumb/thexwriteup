@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 16:37:33 GMT | 17.5 Million Instagram Users Affected by Data Leak, Cybersecurity Firm Warns | Thenewsstrike | [Read More](https://medium.com/p/c209d6c30020) |
+| Sun, 11 Jan 2026 16:34:43 GMT | Security in System Design — A Village Story Every Engineer Will Understand | raghvendra dixit | [Read More](https://medium.com/p/12c11ca20ddc) |
+| Sun, 11 Jan 2026 16:33:43 GMT | Hardening SSO to Turn Chaos into Control and Keep Business Alive | Medjue Gore | [Read More](https://medium.com/p/38f746749242) |
 | Sun, 11 Jan 2026 16:13:16 GMT | The React Security Winter: Navigating the 2025–2026 Vulnerability Wave | Sanniv Bhaiya | [Read More](https://medium.com/p/507d74292a43) |
 | Sun, 11 Jan 2026 16:09:45 GMT | Analysis as the Core Component of Intelligence and Counterintelligence Support in High-Risk… | Andrey Spiridonov | [Read More](https://medium.com/p/659492d665d6) |
 | Sun, 11 Jan 2026 16:09:38 GMT | Operating Systems | Joyii | [Read More](https://medium.com/p/d0e34b5b2f70) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 11 Jan 2026 08:35:47 GMT | 401/403 Bypass | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/e81ff93a9abe) |
 | Sun, 11 Jan 2026 08:34:10 GMT | Seasons, Silence, and Starting Over | Selina Moore Isenhart | [Read More](https://medium.com/p/c156cea83bfb) |
 | Sun, 11 Jan 2026 08:32:47 GMT | 一文搞懂 Kubernetes：Minikube、Cluster 與 TLS 憑證全攻略 | 靈芝 LING-ZHI | [Read More](https://medium.com/p/fd97859e872f) |
-| Sun, 11 Jan 2026 08:31:37 GMT | The Ghost of Yes | Beautiful Haunts | [Read More](https://medium.com/p/f5b1d8d42dd5) |
-| Sun, 11 Jan 2026 08:28:14 GMT | JSON Web Token (JWT) — Why, How, Structure, Attacks & Defenses | Suraj Bhandari | [Read More](https://medium.com/p/11a238cebfff) |
-| Sun, 11 Jan 2026 08:28:12 GMT | Sentinel: An Identity Provider with Auth 2.0 and OIDC Framework | Samyak Choudhary | [Read More](https://medium.com/p/0d091f574f3e) |
