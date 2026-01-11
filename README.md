@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 17:12:11 GMT | Why Candidates Struggle to Explain Forward vs. Reverse Proxy in Interviews? | Sonia | [Read More](https://medium.com/p/542eb31e2bbb) |
+| Sun, 11 Jan 2026 17:10:54 GMT | “Bug Bounty Bootcamp #13: Open Redirects — The Hacker’s Ultimate ‘Force Multiplier’” | Aman Sharma | [Read More](https://medium.com/p/bdab5f50c81d) |
+| Sun, 11 Jan 2026 17:08:10 GMT | Unmasking “Sp1ritFyre” — The MSP Data Breach Investigation | Eeshan Agrawal | [Read More](https://medium.com/p/77d3db68c11b) |
+| Sun, 11 Jan 2026 17:06:58 GMT | Exploit Weak Bucket Policies for Privileged Access | Reju Kole | [Read More](https://medium.com/p/54ccf5ecb5a9) |
+| Sun, 11 Jan 2026 17:01:46 GMT | Beyond IP Addresses: Why You Need TLS Fingerprinting | Meiyappan Kannappa | [Read More](https://medium.com/p/8c71d81e0b3b) |
+| Sun, 11 Jan 2026 16:57:36 GMT | Construyendo un laboratorio SOC con Wazuh: objetivos, arquitectura y aprendizaje | killex007 | [Read More](https://medium.com/p/ae5c8c1af3f2) |
+| Sun, 11 Jan 2026 16:52:13 GMT | Bypassing Windows Defender via Character Encoding Techniques | Tyreek Haynes | [Read More](https://medium.com/p/d5e55909933b) |
 | Sun, 11 Jan 2026 16:37:33 GMT | 17.5 Million Instagram Users Affected by Data Leak, Cybersecurity Firm Warns | Thenewsstrike | [Read More](https://medium.com/p/c209d6c30020) |
 | Sun, 11 Jan 2026 16:34:43 GMT | Security in System Design — A Village Story Every Engineer Will Understand | raghvendra dixit | [Read More](https://medium.com/p/12c11ca20ddc) |
 | Sun, 11 Jan 2026 16:33:43 GMT | Hardening SSO to Turn Chaos into Control and Keep Business Alive | Medjue Gore | [Read More](https://medium.com/p/38f746749242) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 11 Jan 2026 09:02:49 GMT | Bug Bounty Report Template: Turn Leaked Credentials Into P1s | Alexandre Vandamme | [Read More](https://medium.com/p/5f114904ecda) |
 | Sun, 11 Jan 2026 08:55:17 GMT | THE TWITTER BITCOIN SCAM: | Megha Sajeev | [Read More](https://medium.com/p/90c048809603) |
 | Sun, 11 Jan 2026 08:55:12 GMT | Saudi PDPL: The Deadline Is Over. Your Business MUST Comply. | Sahl - GRC with AI | [Read More](https://medium.com/p/5bd797d904d9) |
-| Sun, 11 Jan 2026 08:54:29 GMT | JWT Authentication Bypass Via Weak Signing Key | Amrsmooke | [Read More](https://medium.com/p/22ab5a3d425c) |
-| Sun, 11 Jan 2026 08:49:25 GMT | Automating the Cybersecurity News: How I Saved 30 Minutes Every Day | Neetrox | [Read More](https://medium.com/p/708b710448d7) |
-| Sun, 11 Jan 2026 08:40:35 GMT | HOW TO RECOVER LOST PASSWORD TO YOUR ACCOUNT | Usamalik | [Read More](https://medium.com/p/3d2cb770eaa4) |
-| Sun, 11 Jan 2026 08:37:45 GMT | Followers Don’t Build Brands. Relationships Do. | Vijay Kumar Gupta | [Read More](https://medium.com/p/eec45bb9142f) |
-| Sun, 11 Jan 2026 08:35:47 GMT | 401/403 Bypass | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/e81ff93a9abe) |
-| Sun, 11 Jan 2026 08:34:10 GMT | Seasons, Silence, and Starting Over | Selina Moore Isenhart | [Read More](https://medium.com/p/c156cea83bfb) |
-| Sun, 11 Jan 2026 08:32:47 GMT | 一文搞懂 Kubernetes：Minikube、Cluster 與 TLS 憑證全攻略 | 靈芝 LING-ZHI | [Read More](https://medium.com/p/fd97859e872f) |
