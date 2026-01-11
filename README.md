@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 05:37:29 GMT | Man-in-the-Middle Attacks: The Invisible Eavesdropper Between You and the Internet | Satyam Singh | [Read More](https://medium.com/p/c0d479bd8786) |
+| Sun, 11 Jan 2026 05:32:48 GMT | 7 iPhone Security Settings You Should Turn on Right Now | Tsumit | [Read More](https://medium.com/p/4f2ac480185a) |
 | Sun, 11 Jan 2026 05:17:09 GMT | VulnOS v2 — VulnHub Walkthrough | Al Arisyi | [Read More](https://medium.com/p/2277e648e741) |
 | Sun, 11 Jan 2026 05:02:46 GMT | AWS Security Hub | Saria Mubeen | [Read More](https://medium.com/p/8561d721b731) |
 | Sun, 11 Jan 2026 05:02:25 GMT | First Learn, Then Earn: My Day 1 Journey into Bug Bounty Hunting | Faizan Nazir | [Read More](https://medium.com/p/aa02808d28bb) |
@@ -111,5 +113,3 @@ The digital world makes life easier… | Victor Samuel-Columbus | [Read More](ht
 | Sat, 10 Jan 2026 17:39:46 GMT | My Learning Journey | Adeoluwa Obadofin | [Read More](https://medium.com/p/b8770e14963b) |
 | Sat, 10 Jan 2026 17:38:16 GMT | Authentication vs Authorization: Why AuthZ Is No Longer Optional | Zeigeist | [Read More](https://medium.com/p/df4132d65ca4) |
 | Sat, 10 Jan 2026 17:36:09 GMT | Microservice：從技術到比喻的全面理解 | 思維舞步 MindSteps | [Read More](https://medium.com/p/ee4eea43d3d2) |
-| Sat, 10 Jan 2026 17:30:53 GMT | Wifi Security Checker | Widyamagdalena | [Read More](https://medium.com/p/cb3a9fe3e60b) |
-| Sat, 10 Jan 2026 17:29:52 GMT | React2Shell (CVE-2025–55182): From React Server Components to Unauthenticated RCE | Mr. Spider | [Read More](https://medium.com/p/b8f63b93a31f) |
