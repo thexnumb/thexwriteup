@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 21:27:51 GMT | Advent of Cyber — Day 13 — YARA Rules: YARA Mean One! | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/d6f87b0bcafe) |
+| Sun, 11 Jan 2026 21:20:03 GMT | Operation Endgame: The fall of DanaBot | dovidee | [Read More](https://medium.com/p/4c98068050a0) |
+| Sun, 11 Jan 2026 21:15:38 GMT | Why Millions Still Search for CCleaner Download in 2026 | SAWAHITS | [Read More](https://medium.com/p/dc5823267f9a) |
 | Sun, 11 Jan 2026 21:12:59 GMT | Mastering Mac Performance When Memory Pressure Slows You Down | Geoffrey Wenger | [Read More](https://medium.com/p/195679dc8d9e) |
 | Sun, 11 Jan 2026 20:57:09 GMT | Continuous Threat Modeling for Internet-Scale Backend Platforms | Luigi Iacuaniello | [Read More](https://medium.com/p/b256acfbcf6d) |
 | Sun, 11 Jan 2026 20:54:23 GMT | API Gateway vs Caddy: Security and Reliability in Modern Web Application Development | Alexander Ilves | [Read More](https://medium.com/p/7652847cd43b) |
@@ -23,6 +26,7 @@ A list of the latest fetched articles from RSS feeds.
 ​By Nauman… | NaumanShafique | [Read More](https://medium.com/p/5abb541630ea) |
 | Sun, 11 Jan 2026 20:29:00 GMT | I came, I vibe-coded, and I learned things YOU should know about | BowTiesAreCool | [Read More](https://medium.com/p/599c8b789df8) |
 | Sun, 11 Jan 2026 20:28:54 GMT | Anonymous FTP to Root: A Complete Linux Privilege Escalation Walkthrough | IshhIshneet | [Read More](https://medium.com/p/6115d7a871a6) |
+| Sun, 11 Jan 2026 20:26:42 GMT | Live: ‘discussing how to get internet in Iran’: US clandestine/spec ops channel | Berend Watchus | [Read More](https://medium.com/p/eb6cdbef2397) |
 | Sun, 11 Jan 2026 20:26:35 GMT | The Asymmetry of Nonsense: Why Modern Discourse is Losing the War Against Brandolini’s Law | DésinfoLogie | [Read More](https://medium.com/p/9461454905d7) |
 | Sun, 11 Jan 2026 20:17:21 GMT | DOMESTIC LOBBYING AND JURISDICTIONAL SOVEREIGNTY IN FOREIGN POLICY | Statecraft & Syntax | [Read More](https://medium.com/p/6bc10fc556b3) |
 | Sun, 11 Jan 2026 20:12:49 GMT | Getting Started with ESP32/ESP8266: Installing the CP210x USB Driver (Windows & Ubuntu) | Jared Douville | [Read More](https://medium.com/p/b5d5d3ab298e) |
@@ -111,7 +115,3 @@ Its compression. | R. D. | [Read More](https://medium.com/p/99bbec9316e7) |
 | Sun, 11 Jan 2026 14:39:33 GMT | Zero Click ATO via Systemic Mass Assignment: The Phantom Hand | Jawad Momani | [Read More](https://medium.com/p/af4f6ce11788) |
 | Sun, 11 Jan 2026 14:36:02 GMT | Stop Using Kubernetes Dashboard | Dhanush N | [Read More](https://medium.com/p/60b16e9beb68) |
 | Sun, 11 Jan 2026 14:32:27 GMT | Why Your New WhatsApp Group is a Blank Slate (and Instagram’s Isn’t) | Muskan | [Read More](https://medium.com/p/e16265674918) |
-| Sun, 11 Jan 2026 14:31:14 GMT | Unarmed Security Guard in Houston | Security Houston | [Read More](https://medium.com/p/3386a124c5f7) |
-| Sun, 11 Jan 2026 14:21:46 GMT | Building the Ultimate Android Bug Bounty Lab: The Network Nightmare (Part 3) | Rezaul Hasan | [Read More](https://medium.com/p/6ee9c01ee189) |
-| Sun, 11 Jan 2026 14:12:47 GMT | Signals We Miss: The Small Signs That Reveal Big Truths About People | Rowan Vale | [Read More](https://medium.com/p/0f1002fdddb2) |
-| Sun, 11 Jan 2026 14:07:06 GMT | How I Passed the eMAPT Certification (January 2026) | Marco Alfan | [Read More](https://medium.com/p/705829ebc87d) |
