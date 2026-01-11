@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 05:17:09 GMT | VulnOS v2 — VulnHub Walkthrough | Al Arisyi | [Read More](https://medium.com/p/2277e648e741) |
+| Sun, 11 Jan 2026 05:02:46 GMT | AWS Security Hub | Saria Mubeen | [Read More](https://medium.com/p/8561d721b731) |
+| Sun, 11 Jan 2026 05:02:25 GMT | First Learn, Then Earn: My Day 1 Journey into Bug Bounty Hunting | Faizan Nazir | [Read More](https://medium.com/p/aa02808d28bb) |
+| Sun, 11 Jan 2026 04:58:15 GMT | I Turned an EXE Into Music (and it actually tells you something) | RezSat (Yehan Wasura) | [Read More](https://medium.com/p/27e3d1e86fe5) |
+| Sun, 11 Jan 2026 04:54:40 GMT | I Trust Math, But I Don’t Trust People: Why I Built ROOM-39 | thatredhoodedguy | [Read More](https://medium.com/p/11cf8c63273d) |
 | Sun, 11 Jan 2026 04:42:01 GMT | Bypassing SSRF Protections: A $10,000 Lesson from Slack | Abhishek meena | [Read More](https://medium.com/p/6cff022a44a6) |
 | Sun, 11 Jan 2026 04:35:29 GMT | The Architecture of Zero Trust: Why We Built ROOM-39 as an iOS PWA | thatredhoodedguy | [Read More](https://medium.com/p/ef5e20559009) |
 | Sun, 11 Jan 2026 04:02:50 GMT | How AI is Used in Cybersecurity | Martin Summer | [Read More](https://medium.com/p/2eed3a08ceb3) |
@@ -108,8 +113,3 @@ The digital world makes life easier… | Victor Samuel-Columbus | [Read More](ht
 | Sat, 10 Jan 2026 17:36:09 GMT | Microservice：從技術到比喻的全面理解 | 思維舞步 MindSteps | [Read More](https://medium.com/p/ee4eea43d3d2) |
 | Sat, 10 Jan 2026 17:30:53 GMT | Wifi Security Checker | Widyamagdalena | [Read More](https://medium.com/p/cb3a9fe3e60b) |
 | Sat, 10 Jan 2026 17:29:52 GMT | React2Shell (CVE-2025–55182): From React Server Components to Unauthenticated RCE | Mr. Spider | [Read More](https://medium.com/p/b8f63b93a31f) |
-| Sat, 10 Jan 2026 17:29:24 GMT | The Invisible Bouncer: How OAuth 2.0 PKCE Secures Your Modern Applications | Manmohanaeir | [Read More](https://medium.com/p/c9c5f14b7fc5) |
-| Sat, 10 Jan 2026 17:23:06 GMT | Over 126,000 Tech Jobs Gone in 2025 — These 7 Skills Are Now “Untouchable” | Kavishka .S. Didulantha | [Read More](https://medium.com/p/bbff1e387210) |
-| Sat, 10 Jan 2026 17:19:10 GMT | All About Onions, No not that eating Onion. | Dharanragunathan | [Read More](https://medium.com/p/6bb506a290e8) |
-| Sat, 10 Jan 2026 17:12:13 GMT | A 9.8 CVSS Vulnerability Exposes Trend Micro Apex Central to Remote Code Execution | Chetan Seripally | [Read More](https://medium.com/p/de167dbc3d0e) |
-| Sat, 10 Jan 2026 16:55:28 GMT | Incident Response Hands-On Exercise 1 | Allen Ace | [Read More](https://medium.com/p/4058ca01d3b2) |
