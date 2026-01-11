@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 04:42:01 GMT | Bypassing SSRF Protections: A $10,000 Lesson from Slack | Abhishek meena | [Read More](https://medium.com/p/6cff022a44a6) |
+| Sun, 11 Jan 2026 04:35:29 GMT | The Architecture of Zero Trust: Why We Built ROOM-39 as an iOS PWA | thatredhoodedguy | [Read More](https://medium.com/p/ef5e20559009) |
+| Sun, 11 Jan 2026 04:02:50 GMT | How AI is Used in Cybersecurity | Martin Summer | [Read More](https://medium.com/p/2eed3a08ceb3) |
+| Sun, 11 Jan 2026 03:59:52 GMT | Cyber Sherlock Weekly Update: 11 January 2026 | Sujon Al Mamun | [Read More](https://medium.com/p/cf5182195412) |
+| Sun, 11 Jan 2026 03:58:32 GMT | ClickFix Is Rising — And It’s Scarily Brilliant | Paritosh | [Read More](https://medium.com/p/f50ec380377a) |
 | Sun, 11 Jan 2026 03:32:47 GMT | MacSync Malware: When Trusted macOS Apps Become the Threat | Deven Chhajed | [Read More](https://medium.com/p/db2896a03b33) |
 | Sun, 11 Jan 2026 03:28:07 GMT | THM-BankGPT Writeup Walkthrough | Sandeep Singh Sethi | [Read More](https://medium.com/p/4fc4fc5d604f) |
 | Sun, 11 Jan 2026 03:17:54 GMT | TryHackMe: Iron Corp Writeup | cbev | [Read More](https://medium.com/p/f8e128444551) |
@@ -108,8 +113,3 @@ The digital world makes life easier… | Victor Samuel-Columbus | [Read More](ht
 | Sat, 10 Jan 2026 17:19:10 GMT | All About Onions, No not that eating Onion. | Dharanragunathan | [Read More](https://medium.com/p/6bb506a290e8) |
 | Sat, 10 Jan 2026 17:12:13 GMT | A 9.8 CVSS Vulnerability Exposes Trend Micro Apex Central to Remote Code Execution | Chetan Seripally | [Read More](https://medium.com/p/de167dbc3d0e) |
 | Sat, 10 Jan 2026 16:55:28 GMT | Incident Response Hands-On Exercise 1 | Allen Ace | [Read More](https://medium.com/p/4058ca01d3b2) |
-| Sat, 10 Jan 2026 16:47:33 GMT | 幽靈代碼與人性邊界：從 Character.AI 悲劇看企業 AI 客服的「揭露義務」與技術防禦實戰 | p1x06u9 | [Read More](https://medium.com/p/7ba54037b7fd) |
-| Sat, 10 Jan 2026 16:44:51 GMT | Automating HackerOne Program Updates with Telegram Notifications | Zbyte | [Read More](https://medium.com/p/7f1c8e0e29ef) |
-| Sat, 10 Jan 2026 16:39:01 GMT | How a Windows PC Can Be Turned into a Full SIEM Using Wazuh and WSL2 | Mercury | [Read More](https://medium.com/p/fb044908653d) |
-| Sat, 10 Jan 2026 16:37:42 GMT | Introduction | Zbyte | [Read More](https://medium.com/p/edc1811f2079) |
-| Sat, 10 Jan 2026 16:32:10 GMT | Back to Basics #7: Internet Protocol (IPv4) | Norman Kolarikkal | [Read More](https://medium.com/p/4858e81166de) |
