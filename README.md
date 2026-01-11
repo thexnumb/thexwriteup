@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 11:26:59 GMT | Python for Pentesters: 15 Real Bug-Finding Scripts You Can Use Today | Very Lazy Tech | [Read More](https://medium.com/p/4ac22fcb5e13) |
+| Sun, 11 Jan 2026 11:20:54 GMT | RAIT-CTF (2026) | popo | [Read More](https://medium.com/p/4ec46241b31e) |
+| Sun, 11 Jan 2026 11:19:38 GMT | From Information to Intelligence: A Practical Understanding of OSINT (Trace Labs OSINT Educational… | Adonis john | [Read More](https://medium.com/p/91356c1bf706) |
 | Sun, 11 Jan 2026 11:09:52 GMT | The Algorithmic Art of Debugging: Beyond Breakpoints and Print Statements | Md Shoriful Islam Ashiq | [Read More](https://medium.com/p/e27b38e7cb34) |
 | Sun, 11 Jan 2026 10:58:46 GMT | Living Off the Land in OT Environments | urjasec | [Read More](https://medium.com/p/e66a541d1e07) |
 | Sun, 11 Jan 2026 10:51:54 GMT | Cloudsek CTF Writeup_2 (2025) | popo | [Read More](https://medium.com/p/8ea8b89536c7) |
@@ -110,6 +113,3 @@ If you are searching for the best… | Ankit rai | [Read More](https://medium.co
 | Sun, 11 Jan 2026 00:28:36 GMT | Pilots Suck | Audric Osei | [Read More](https://medium.com/p/5d5dedd85731) |
 | Sun, 11 Jan 2026 00:20:13 GMT | Android Services Attack Surface | Hossam Shaalan | [Read More](https://medium.com/p/20d9134748f5) |
 | Sun, 11 Jan 2026 00:13:05 GMT | The Impossible Quest for Untraceable Communication | Mahadevadityamukhiya | [Read More](https://medium.com/p/726ac13b13a9) |
-| Sun, 11 Jan 2026 00:00:06 GMT | How Illinois Exposed 700,000 Healthcare Records: An Architecture Failure, Not a Hack | John The CEO, AI-Enabled Solution Strategist | [Read More](https://medium.com/p/db854e61b82d) |
-| Sat, 10 Jan 2026 23:58:08 GMT | Hacking the ‘Disaster Prepper’ Paradigm: Ep. #4 — When Analog > Digital | z3r0trust | [Read More](https://medium.com/p/c46cb30a3fa4) |
-| Sat, 10 Jan 2026 23:54:41 GMT | How I Caught a $13k/month Job Phishing Scam in Under 3 Minutes (Step-by-Step Guide) | Ib2dk | [Read More](https://medium.com/p/4212269362dd) |
