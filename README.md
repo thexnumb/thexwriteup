@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 19:21:29 GMT | Building a Secure DevOps CI/CD Pipeline | Samy H. | [Read More](https://medium.com/p/5a34c221cde5) |
+| Sun, 11 Jan 2026 19:16:55 GMT | Everything About Keylogger | Sunil Ch | [Read More](https://medium.com/p/5367f5c8a756) |
 | Sun, 11 Jan 2026 19:03:57 GMT | Muslim Powers Unite: The Saudi-Pakistan Defence Pact | Dr. Ahmad Haroon | [Read More](https://medium.com/p/c7e659867868) |
 | Sun, 11 Jan 2026 19:03:43 GMT | How a Trusted University Domain Was Abused for SEO Poisoning — Without Being “Hacked” | Julien | [Read More](https://medium.com/p/f8b09c014731) |
 | Sun, 11 Jan 2026 19:02:48 GMT | Week 4: Building the Agent (Python/Bash Log Collector) | scriptpy | [Read More](https://medium.com/p/1383b65629bf) |
@@ -61,6 +63,7 @@ Its compression. | R. D. | [Read More](https://medium.com/p/99bbec9316e7) |
 | Sun, 11 Jan 2026 16:37:33 GMT | 17.5 Million Instagram Users Affected by Data Leak, Cybersecurity Firm Warns | Thenewsstrike | [Read More](https://medium.com/p/c209d6c30020) |
 | Sun, 11 Jan 2026 16:34:43 GMT | Security in System Design — A Village Story Every Engineer Will Understand | raghvendra dixit | [Read More](https://medium.com/p/12c11ca20ddc) |
 | Sun, 11 Jan 2026 16:33:43 GMT | Hardening SSO to Turn Chaos into Control and Keep Business Alive | Medjue Gore | [Read More](https://medium.com/p/38f746749242) |
+| Sun, 11 Jan 2026 16:22:52 GMT | (CVE-2026-0830) AWS Kiro GitLab Helper Remote Code Execution | Dhiraj | [Read More](https://medium.com/p/1f826469228d) |
 | Sun, 11 Jan 2026 16:13:16 GMT | The React Security Winter: Navigating the 2025–2026 Vulnerability Wave | Sanniv Bhaiya | [Read More](https://medium.com/p/507d74292a43) |
 | Sun, 11 Jan 2026 16:09:45 GMT | Analysis as the Core Component of Intelligence and Counterintelligence Support in High-Risk… | Andrey Spiridonov | [Read More](https://medium.com/p/659492d665d6) |
 | Sun, 11 Jan 2026 16:09:38 GMT | Operating Systems | Joyii | [Read More](https://medium.com/p/d0e34b5b2f70) |
@@ -111,6 +114,3 @@ Its compression. | R. D. | [Read More](https://medium.com/p/99bbec9316e7) |
 | Sun, 11 Jan 2026 12:12:00 GMT | HexStrike + Cursor for OSINT: From One Email to a Full Exposure Map | Andrey Pautov | [Read More](https://medium.com/p/ffdfc7ba1b30) |
 | Sun, 11 Jan 2026 12:09:14 GMT | AyScroll: Making Scrolling Meaningful Again | Mayank Kumar Jha | [Read More](https://medium.com/p/17bddc91842c) |
 | Sun, 11 Jan 2026 12:01:57 GMT | Zero-Touch, High-Security: Onboarding Tenants to Modern Fintech Platforms | Ravi | [Read More](https://medium.com/p/8c9ba60ba724) |
-| Sun, 11 Jan 2026 11:58:56 GMT | Race condition leading to multiple refunds and cash re | Excessium | [Read More](https://medium.com/p/bdcf890cafca) |
-| Sun, 11 Jan 2026 11:50:55 GMT | Go Reflection for Metaprogramming: Building Generic Code Using reflect | Ade Mawan | [Read More](https://medium.com/p/8d157ab51db6) |
-| Sun, 11 Jan 2026 11:46:12 GMT | How Much Data Do Google and Meta Really Know About You | Tech Word | [Read More](https://medium.com/p/1920cb386c7e) |
