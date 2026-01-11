@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 20:42:56 GMT | AI is Not a Translator, It’s Your Chief of Staff: How I Won a 120-Hour Logical War Against Apple | Ryuzaburo | [Read More](https://medium.com/p/38ed58a2a2fa) |
+| Sun, 11 Jan 2026 20:38:18 GMT | THE DIGITAL GHOSTS: Investigating the Global Syndicate Behind 'Carded' Electronics
+​By Nauman… | NaumanShafique | [Read More](https://medium.com/p/5abb541630ea) |
+| Sun, 11 Jan 2026 20:29:00 GMT | I came, I vibe-coded, and I learned things YOU should know about | BowTiesAreCool | [Read More](https://medium.com/p/599c8b789df8) |
+| Sun, 11 Jan 2026 20:28:54 GMT | Anonymous FTP to Root: A Complete Linux Privilege Escalation Walkthrough | IshhIshneet | [Read More](https://medium.com/p/6115d7a871a6) |
+| Sun, 11 Jan 2026 20:26:35 GMT | The Asymmetry of Nonsense: Why Modern Discourse is Losing the War Against Brandolini’s Law | DésinfoLogie | [Read More](https://medium.com/p/9461454905d7) |
 | Sun, 11 Jan 2026 20:17:21 GMT | DOMESTIC LOBBYING AND JURISDICTIONAL SOVEREIGNTY IN FOREIGN POLICY | Statecraft & Syntax | [Read More](https://medium.com/p/6bc10fc556b3) |
 | Sun, 11 Jan 2026 20:12:49 GMT | Getting Started with ESP32/ESP8266: Installing the CP210x USB Driver (Windows & Ubuntu) | Jared Douville | [Read More](https://medium.com/p/b5d5d3ab298e) |
 | Sun, 11 Jan 2026 20:06:47 GMT | When Authorization Breaches Availability: Analyzing the 27.2KB iCloud Sync Corruption with AI | Ryuzaburo | [Read More](https://medium.com/p/f02e81b0cc3f) |
@@ -109,8 +115,3 @@ Its compression. | R. D. | [Read More](https://medium.com/p/99bbec9316e7) |
 | Sun, 11 Jan 2026 13:54:48 GMT | Investment Thesis — The future of IT Services | Abhijit Raghunathan | [Read More](https://medium.com/p/322bd1a5e60a) |
 | Sun, 11 Jan 2026 13:46:18 GMT | HTML Smuggling | NITYA NAND JHA(Shunux) | [Read More](https://medium.com/p/291fd5d32025) |
 | Sun, 11 Jan 2026 13:46:11 GMT | Hackers Exploiting VMware ESXi for gaining RCE | Akchhat | [Read More](https://medium.com/p/1999621a05ea) |
-| Sun, 11 Jan 2026 13:43:08 GMT | Membangun Arsitektur Dua Web Server dengan Satu Database Terpusat Menggunakan Ubuntu Server… | Dimas Putra Winanto | [Read More](https://medium.com/p/c1a3d0c7d813) |
-| Sun, 11 Jan 2026 13:38:17 GMT | MOST COMMON AND UNCOMMON VULNERABILITIES I HAVE UNCOVERED IN SOME E-COMMERCE WEBSITES | Maxwell | [Read More](https://medium.com/p/3360e658005d) |
-| Sun, 11 Jan 2026 13:27:45 GMT | A Tiny CORS Header That Quietly Undid Years of Security Work | 1$ Mistake | [Read More](https://medium.com/p/cdb7d04069eb) |
-| Sun, 11 Jan 2026 13:26:47 GMT | Digital biometrics: The verified human and the end of anonymity | Teodor Dumitrache | [Read More](https://medium.com/p/f655b0e0cfa1) |
-| Sun, 11 Jan 2026 13:20:02 GMT | Padelify — THM Writeup | Avyukt Security | [Read More](https://medium.com/p/5f30dd31009f) |
