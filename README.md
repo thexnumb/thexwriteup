@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 10:41:42 GMT | 7 Powerful DORA 2026 Evidence Pack Steps for SaaS | Pentest_Testing_Corp | [Read More](https://medium.com/p/0f95b05bde42) |
+| Sun, 11 Jan 2026 10:29:10 GMT | # IoT Ev Cihazları Necə Hacklənir? | cybershieldy.com | [Read More](https://medium.com/p/e5fc34f7a90e) |
 | Sun, 11 Jan 2026 10:22:56 GMT | Protect your Microsoft External ID tenant using Web Application Firewall! | Brian Veldman | [Read More](https://medium.com/p/6c9863f9d2b5) |
 | Sun, 11 Jan 2026 10:22:30 GMT | 17.5 Million Instagram Accounts Just Got Hacked — Is Yours One of Them? | Abdul Ahad | [Read More](https://medium.com/p/96ee9ebd3ac1) |
 | Sun, 11 Jan 2026 10:20:05 GMT | How I Discovered 15 Critical Vulnerabilities in 2 Months: Complete IDOR Exploitation Guide | Chetan Biranje | [Read More](https://medium.com/p/3d016c9ea0f2) |
@@ -111,5 +113,3 @@ If you are searching for the best… | Ankit rai | [Read More](https://medium.co
 | Sat, 10 Jan 2026 23:13:35 GMT | 15 Seconds to the First Attack: Myth or Reality of Website Launches in 2026 | 0trust0day | [Read More](https://medium.com/p/9ecf50ff5640) |
 | Sat, 10 Jan 2026 23:12:27 GMT | Linux Isn’t Just an Operating System — It’s Permission to Understand Your Machine | Ryvok.Brondich | [Read More](https://medium.com/p/db768fe9a6ee) |
 | Sat, 10 Jan 2026 22:55:46 GMT | Social Engineering: The Art of Bypassing the Human Firewall | root0emir | [Read More](https://medium.com/p/d284e3dde96e) |
-| Sat, 10 Jan 2026 22:54:07 GMT | Cryptographic Security in Backup Systems: Protecting the Final Stronghold of Data | Esra Kayhan | [Read More](https://medium.com/p/d371be23a2b9) |
-| Sat, 10 Jan 2026 22:41:53 GMT | Document, Don’t Just Experience | Techinfo | [Read More](https://medium.com/p/f22ae37c9a42) |
