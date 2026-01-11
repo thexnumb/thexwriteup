@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 20:17:21 GMT | DOMESTIC LOBBYING AND JURISDICTIONAL SOVEREIGNTY IN FOREIGN POLICY | Statecraft & Syntax | [Read More](https://medium.com/p/6bc10fc556b3) |
+| Sun, 11 Jan 2026 20:12:49 GMT | Getting Started with ESP32/ESP8266: Installing the CP210x USB Driver (Windows & Ubuntu) | Jared Douville | [Read More](https://medium.com/p/b5d5d3ab298e) |
+| Sun, 11 Jan 2026 20:06:47 GMT | When Authorization Breaches Availability: Analyzing the 27.2KB iCloud Sync Corruption with AI | Ryuzaburo | [Read More](https://medium.com/p/f02e81b0cc3f) |
+| Sun, 11 Jan 2026 20:02:48 GMT | The Three Decisions You Make Before Ransomware Hits | Tyson Martin | [Read More](https://medium.com/p/9e94d7407e50) |
+| Sun, 11 Jan 2026 19:56:53 GMT | Networking Fundamentals for Cybersecurity (CEH Perspective) | Kashish Zara | [Read More](https://medium.com/p/22ec12cba047) |
+| Sun, 11 Jan 2026 19:56:20 GMT | Command Injection - TryHackMe Walkthrough | AJ GUIN | [Read More](https://medium.com/p/e8b567e39f4b) |
+| Sun, 11 Jan 2026 19:50:59 GMT | You Don’t Know What You Want, but You Know Exactly What You’re Avoiding. | SinghArchives | [Read More](https://medium.com/p/ca255315889d) |
+| Sun, 11 Jan 2026 19:43:24 GMT | Iman Saadeh: from teenage tech prodigy to best‑selling storyteller | Maria Smith | [Read More](https://medium.com/p/13dae44c3e28) |
+| Sun, 11 Jan 2026 19:40:38 GMT | SSH Fingerprint. What is it? Why we need it? Why we accept it? What it helps in? How to Verify it? | Prakher Singhal | [Read More](https://medium.com/p/50706eb617bb) |
+| Sun, 11 Jan 2026 19:37:26 GMT | The Threat Brief — Jan 12 2026 | James Mockford | [Read More](https://medium.com/p/25657d25f7cb) |
+| Sun, 11 Jan 2026 19:37:01 GMT | Understanding Error, Defect, Bug, and Failure in Software Engineering (with Real Examples) | raw-hitt | [Read More](https://medium.com/p/396c1cfee773) |
 | Sun, 11 Jan 2026 19:21:29 GMT | Building a Secure DevOps CI/CD Pipeline | Samy H. | [Read More](https://medium.com/p/5a34c221cde5) |
 | Sun, 11 Jan 2026 19:16:55 GMT | Everything About Keylogger | Sunil Ch | [Read More](https://medium.com/p/5367f5c8a756) |
 | Sun, 11 Jan 2026 19:03:57 GMT | Muslim Powers Unite: The Saudi-Pakistan Defence Pact | Dr. Ahmad Haroon | [Read More](https://medium.com/p/c7e659867868) |
@@ -103,14 +114,3 @@ Its compression. | R. D. | [Read More](https://medium.com/p/99bbec9316e7) |
 | Sun, 11 Jan 2026 13:27:45 GMT | A Tiny CORS Header That Quietly Undid Years of Security Work | 1$ Mistake | [Read More](https://medium.com/p/cdb7d04069eb) |
 | Sun, 11 Jan 2026 13:26:47 GMT | Digital biometrics: The verified human and the end of anonymity | Teodor Dumitrache | [Read More](https://medium.com/p/f655b0e0cfa1) |
 | Sun, 11 Jan 2026 13:20:02 GMT | Padelify — THM Writeup | Avyukt Security | [Read More](https://medium.com/p/5f30dd31009f) |
-| Sun, 11 Jan 2026 13:16:17 GMT | OSWE Hazırlık İlk Makine — SecureCode WriteUp | OnurDemir-Dev | [Read More](https://medium.com/p/db08018c3bc4) |
-| Sun, 11 Jan 2026 13:11:32 GMT | Understanding Scams — Chapter One | Truality.Finance/.Mental/.Legalese/.Unfiltered | [Read More](https://medium.com/p/5859cf3ce5a7) |
-| Sun, 11 Jan 2026 13:09:04 GMT | ️ Custom Exploit Development: A Journey into the Depths of Memory | Esra Kayhan | [Read More](https://medium.com/p/c8d2eaab5702) |
-| Sun, 11 Jan 2026 12:53:58 GMT | UofTCTF : WriteUp — Baby Bof | t3chw1z4rd | [Read More](https://medium.com/p/1bce604a25ce) |
-| Sun, 11 Jan 2026 12:49:11 GMT | Everything About Cloud Bucket Hacking ( S3 & GCS & Azure & Firebase ) | Anas NadY | [Read More](https://medium.com/p/c027e9441ff9) |
-| Sun, 11 Jan 2026 12:43:40 GMT | Local File Inclusion(LFI) Vulnerability | Md. Raihan | [Read More](https://medium.com/p/30da50aef6bf) |
-| Sun, 11 Jan 2026 12:30:49 GMT | Architecting Secure Data Transfers: A Guide for Fintech SaaS Platforms | Ravi | [Read More](https://medium.com/p/ec3c632919b1) |
-| Sun, 11 Jan 2026 12:14:24 GMT | SOC Roles in the Blue Team (L1 & L2) — A Complete, Extended Walkthrough | rootRS7 | [Read More](https://medium.com/p/19df12011bbb) |
-| Sun, 11 Jan 2026 12:12:00 GMT | HexStrike + Cursor for OSINT: From One Email to a Full Exposure Map | Andrey Pautov | [Read More](https://medium.com/p/ffdfc7ba1b30) |
-| Sun, 11 Jan 2026 12:09:14 GMT | AyScroll: Making Scrolling Meaningful Again | Mayank Kumar Jha | [Read More](https://medium.com/p/17bddc91842c) |
-| Sun, 11 Jan 2026 12:01:57 GMT | Zero-Touch, High-Security: Onboarding Tenants to Modern Fintech Platforms | Ravi | [Read More](https://medium.com/p/8c9ba60ba724) |
