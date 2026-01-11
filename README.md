@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 14:39:33 GMT | Zero Click ATO via Systemic Mass Assignment: The Phantom Hand | Jawad Momani | [Read More](https://medium.com/p/af4f6ce11788) |
+| Sun, 11 Jan 2026 14:36:02 GMT | Stop Using Kubernetes Dashboard | Dhanush N | [Read More](https://medium.com/p/60b16e9beb68) |
+| Sun, 11 Jan 2026 14:32:27 GMT | Why Your New WhatsApp Group is a Blank Slate (and Instagram’s Isn’t) | Muskan | [Read More](https://medium.com/p/e16265674918) |
+| Sun, 11 Jan 2026 14:31:14 GMT | Unarmed Security Guard in Houston | Security Houston | [Read More](https://medium.com/p/3386a124c5f7) |
+| Sun, 11 Jan 2026 14:21:46 GMT | Building the Ultimate Android Bug Bounty Lab: The Network Nightmare (Part 3) | Rezaul Hasan | [Read More](https://medium.com/p/6ee9c01ee189) |
+| Sun, 11 Jan 2026 14:12:47 GMT | Signals We Miss: The Small Signs That Reveal Big Truths About People | Rowan Vale | [Read More](https://medium.com/p/0f1002fdddb2) |
 | Sun, 11 Jan 2026 14:07:06 GMT | How I Passed the eMAPT Certification (January 2026) | Marco Alfan | [Read More](https://medium.com/p/705829ebc87d) |
 | Sun, 11 Jan 2026 14:05:12 GMT | Mirror-Dog:A TCP stream replay attack analysis and exploitation verification tool. | Мартин. | [Read More](https://medium.com/p/e6e7244ca8b0) |
 | Sun, 11 Jan 2026 13:59:41 GMT | Broken Access Control Is a Trust Problem | Cleo | [Read More](https://medium.com/p/e46d0dba0687) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 11 Jan 2026 05:54:57 GMT | Top 5 Best Summer Training Institutes in Lucknow (2026 Edition)
 If you are searching for the best… | Ankit rai | [Read More](https://medium.com/p/ec5ce4b8fc5c) |
 | Sun, 11 Jan 2026 05:42:12 GMT | What Is a Passkey? | REIMAGINES | [Read More](https://medium.com/p/e42e90f0976f) |
-| Sun, 11 Jan 2026 05:37:29 GMT | Man-in-the-Middle Attacks: The Invisible Eavesdropper Between You and the Internet | Satyam Singh | [Read More](https://medium.com/p/c0d479bd8786) |
-| Sun, 11 Jan 2026 05:32:48 GMT | 7 iPhone Security Settings You Should Turn on Right Now | Tsumit | [Read More](https://medium.com/p/4f2ac480185a) |
-| Sun, 11 Jan 2026 05:17:09 GMT | VulnOS v2 — VulnHub Walkthrough | Al Arisyi | [Read More](https://medium.com/p/2277e648e741) |
-| Sun, 11 Jan 2026 05:02:46 GMT | AWS Security Hub | Saria Mubeen | [Read More](https://medium.com/p/8561d721b731) |
-| Sun, 11 Jan 2026 05:02:25 GMT | First Learn, Then Earn: My Day 1 Journey into Bug Bounty Hunting | Faizan Nazir | [Read More](https://medium.com/p/aa02808d28bb) |
-| Sun, 11 Jan 2026 04:58:15 GMT | I Turned an EXE Into Music (and it actually tells you something) | RezSat (Yehan Wasura) | [Read More](https://medium.com/p/27e3d1e86fe5) |
