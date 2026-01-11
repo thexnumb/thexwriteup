@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 18:26:20 GMT | Title: 2 Simple Ways to Protect Your Digital Life in 2026
+​In 2026, our lives are more connected to… | Tech Insights by Trishan | [Read More](https://medium.com/p/3e1709a675a7) |
+| Sun, 11 Jan 2026 18:24:13 GMT | 5 Alarming Lessons From a Single Click on an “I’m Not a Robot” Box | Tech Security | [Read More](https://medium.com/p/34f259cfb9e0) |
+| Sun, 11 Jan 2026 18:19:41 GMT | Try Hack Me- Develpy CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/8a643b93e7cc) |
+| Sun, 11 Jan 2026 18:16:11 GMT | Web Application Penetration Report | Nashra | [Read More](https://medium.com/p/92dc2d48cfdf) |
+| Sun, 11 Jan 2026 18:14:29 GMT | When They Build the Honeypot, Guess Who’ll Take the Sting? | MoUMMM | [Read More](https://medium.com/p/895ff1dfdc65) |
+| Sun, 11 Jan 2026 18:11:02 GMT | IP and Domain Threat Intel. TryHackMe Walkthrough | Lintu Oommen | [Read More](https://medium.com/p/45f8a0a03cfa) |
+| Sun, 11 Jan 2026 18:10:58 GMT | TheHackersLabs — Cold Fear [Write-Up] | APS88 | [Read More](https://medium.com/p/99949ae4195f) |
+| Sun, 11 Jan 2026 18:10:27 GMT | Breaking AI’s Vicious Security Cycle: Why AI Security Guardrails Keep Failing | Jason Connerty | [Read More](https://medium.com/p/e967f9d64fde) |
+| Sun, 11 Jan 2026 18:04:04 GMT | Stop Jumping to Controls: How to Have Better Risk Conversations | Jesse Nelson | [Read More](https://medium.com/p/5f1ee96a601f) |
+| Sun, 11 Jan 2026 17:58:04 GMT | Spring Boot Security in 2026: Build JWT Authentication the RIGHT Way (Without Overengineering) | CodeTalks | [Read More](https://medium.com/p/24b373338570) |
+| Sun, 11 Jan 2026 17:56:33 GMT | 5 Identity Theft Red Flags | Michael Kendrick | [Read More](https://medium.com/p/69ffc6649102) |
+| Sun, 11 Jan 2026 17:54:46 GMT | Silence is not peace. 
+Its compression. | R. D. | [Read More](https://medium.com/p/99bbec9316e7) |
+| Sun, 11 Jan 2026 17:51:44 GMT | How I Built Keycloak Audit Logging That Actually Works | Rio Wiraldhani | [Read More](https://medium.com/p/25eab4f17a57) |
+| Sun, 11 Jan 2026 17:51:39 GMT | How I Built Keycloak Audit Logging That Actually Works | Rio Wiraldhani | [Read More](https://medium.com/p/0933ec04c995) |
+| Sun, 11 Jan 2026 17:49:36 GMT | Finding Remote Code Execution in Google: A Bug Hunter’s Story | zabit majeed | [Read More](https://medium.com/p/7b22656ecf6b) |
+| Sun, 11 Jan 2026 17:41:37 GMT | CloudGoat Beanstalk Secrets Walkthrough | Spookz | [Read More](https://medium.com/p/aee3c92d9d29) |
+| Sun, 11 Jan 2026 17:39:50 GMT | DNS Explained: Complete Guide to Domain Name System (2026) | Gatecrasher01 | [Read More](https://medium.com/p/95f35ff57b5f) |
+| Sun, 11 Jan 2026 17:37:36 GMT | Repository Pattern的理解 | 思維舞步 MindSteps | [Read More](https://medium.com/p/5f0fb12d384f) |
 | Sun, 11 Jan 2026 17:26:31 GMT | How DNS Works and Reconnaissance Techniques | mohandika | [Read More](https://medium.com/p/d266659c679c) |
 | Sun, 11 Jan 2026 17:21:09 GMT | Web Security Part 2: Practical Tools to Improve Security | Alabi Temitope David | [Read More](https://medium.com/p/1d287b000b39) |
 | Sun, 11 Jan 2026 17:19:54 GMT | Proving Grounds - Zab | jniket | [Read More](https://medium.com/p/12d864d557a5) |
@@ -94,21 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 11 Jan 2026 10:48:25 GMT | Armed Security Guard in Houston | Security Houston | [Read More](https://medium.com/p/b3ebcd45af85) |
 | Sun, 11 Jan 2026 10:46:35 GMT | TryHackMe - Easy Peasy CTF — Walkthrough by venkateshpatil | Venkateshpatil | [Read More](https://medium.com/p/42213cf9ebcd) |
 | Sun, 11 Jan 2026 10:41:42 GMT | 7 Powerful DORA 2026 Evidence Pack Steps for SaaS | Pentest_Testing_Corp | [Read More](https://medium.com/p/0f95b05bde42) |
-| Sun, 11 Jan 2026 10:29:10 GMT | # IoT Ev Cihazları Necə Hacklənir? | cybershieldy.com | [Read More](https://medium.com/p/e5fc34f7a90e) |
-| Sun, 11 Jan 2026 10:22:56 GMT | Protect your Microsoft External ID tenant using Web Application Firewall! | Brian Veldman | [Read More](https://medium.com/p/6c9863f9d2b5) |
-| Sun, 11 Jan 2026 10:22:30 GMT | 17.5 Million Instagram Accounts Just Got Hacked — Is Yours One of Them? | Abdul Ahad | [Read More](https://medium.com/p/96ee9ebd3ac1) |
-| Sun, 11 Jan 2026 10:20:05 GMT | How I Discovered 15 Critical Vulnerabilities in 2 Months: Complete IDOR Exploitation Guide | Chetan Biranje | [Read More](https://medium.com/p/3d016c9ea0f2) |
-| Sun, 11 Jan 2026 10:19:38 GMT | Completing Advent of Cyber 2025: Building My Foundation in Offensive Security. | M o $ t a | [Read More](https://medium.com/p/c65bd45461a1) |
-| Sun, 11 Jan 2026 10:17:22 GMT | JWT Is Not Encryption: The Hidden Security Misunderstanding Putting Your Data at Risk | Syed Raza | [Read More](https://medium.com/p/36b57c7b47e9) |
-| Sun, 11 Jan 2026 10:14:58 GMT | When the Internet Goes Dark: Technology, Power, and the Human Cost of Silence | En0cH | [Read More](https://medium.com/p/10d762c9f4f8) |
-| Sun, 11 Jan 2026 10:14:20 GMT | Why “Invite-Only” Crypto Platforms Trigger My Security Red Flags (A Technical Case Study) | Cassian Vale | [Read More](https://medium.com/p/db6252d585fc) |
-| Sun, 11 Jan 2026 10:09:16 GMT | From Pentest Findings to Falsifiable, Reproducible Proof | Andreas | [Read More](https://medium.com/p/b0265b9396e7) |
-| Sun, 11 Jan 2026 10:08:41 GMT | Skills Assessment — Footprinting Labs (Easy, Medium, Hard) | Ayush gangani | [Read More](https://medium.com/p/c119ca5f0b35) |
-| Sun, 11 Jan 2026 09:40:40 GMT | Previous Writeup (HackTheBox Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/d79dcc929496) |
-| Sun, 11 Jan 2026 09:35:22 GMT | Understanding Two-Tier Architecture in Cloud Computing (AWS) | Shashank Ray | [Read More](https://medium.com/p/035c670890ef) |
-| Sun, 11 Jan 2026 09:28:35 GMT | COMPLETE ROADMAP OF CYBERSECURITY (IN DEPTH) | Cypher2Pass | [Read More](https://medium.com/p/19ec71b2c38b) |
-| Sun, 11 Jan 2026 09:27:39 GMT | SQL Injection & SQLMap: Learning the Hard Truth About Databases the Right Way | Gajanan Tayde | [Read More](https://medium.com/p/1280cc7a288d) |
-| Sun, 11 Jan 2026 09:26:25 GMT | Consistency Over Motivation: A Lesson I Learned the Hard Way | Preetyyyy | [Read More](https://medium.com/p/09f0d1918f97) |
-| Sun, 11 Jan 2026 09:24:19 GMT | Studying IT at University? | Zeeshan Punjwani | [Read More](https://medium.com/p/5a03afe7a478) |
-| Sun, 11 Jan 2026 09:17:44 GMT | TryHackMe: Jack Writeup | cbev | [Read More](https://medium.com/p/511efd5fad3b) |
-| Sun, 11 Jan 2026 09:16:10 GMT | How to do Kerberoasting and AS-REP Roasting | Zoroya | [Read More](https://medium.com/p/e3a176c0d851) |
