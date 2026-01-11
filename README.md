@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 22:43:18 GMT | 30 Days of Red Team: Day 15 — Credential Harvesting | Maxwell Cross | [Read More](https://medium.com/p/829737ccc5e6) |
+| Sun, 11 Jan 2026 22:36:22 GMT | The Hidden Dangers of Multi-Agent Systems: A case study of Critical Vulnerabilities in Production… | Priyanka Chakraborti | [Read More](https://medium.com/p/21c6abc990d2) |
+| Sun, 11 Jan 2026 22:33:27 GMT | Architecting for Uncertainty | Amit Tomar | [Read More](https://medium.com/p/2548f1ab94fc) |
 | Sun, 11 Jan 2026 22:11:49 GMT | Beyond IDOR: Discovering a Stored XSS in a Vulnerable Web Platform | mv999exe | [Read More](https://medium.com/p/3644bdb67a2e) |
 | Sun, 11 Jan 2026 22:03:37 GMT | Thread Name Calling DLL Injection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/cd50147a96b5) |
 | Sun, 11 Jan 2026 22:01:55 GMT | Cybersecurity for the Soul: Protecting Our Digital and Emotional Boundaries | gershblumstein | [Read More](https://medium.com/p/bd94dbd37071) |
@@ -112,6 +115,3 @@ Its compression. | R. D. | [Read More](https://medium.com/p/99bbec9316e7) |
 | Sun, 11 Jan 2026 15:28:12 GMT | Transient Parades | Niraah RI | [Read More](https://medium.com/p/055fd111c111) |
 | Sun, 11 Jan 2026 15:27:49 GMT | First Internal VM Network | Techwin Cyber | [Read More](https://medium.com/p/f84e1eebd41d) |
 | Sun, 11 Jan 2026 15:20:14 GMT | Minimum Depth of Binary Tree — Why “Minimum” Is Trickier Than It Sounds | Error | [Read More](https://medium.com/p/30057e92733b) |
-| Sun, 11 Jan 2026 15:15:48 GMT | RELEVANT- TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/17e479a19896) |
-| Sun, 11 Jan 2026 15:09:16 GMT | DNSSEC: Build a Chain of Trust to Stop DNS Attacks | Olha Stefanishyna | [Read More](https://medium.com/p/b1fe32ec464d) |
-| Sun, 11 Jan 2026 15:08:52 GMT | SHAKE and cSHAKE | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/34ee5619679f) |
