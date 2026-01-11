@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 22:11:49 GMT | Beyond IDOR: Discovering a Stored XSS in a Vulnerable Web Platform | mv999exe | [Read More](https://medium.com/p/3644bdb67a2e) |
+| Sun, 11 Jan 2026 22:03:37 GMT | Thread Name Calling DLL Injection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/cd50147a96b5) |
+| Sun, 11 Jan 2026 22:01:55 GMT | Cybersecurity for the Soul: Protecting Our Digital and Emotional Boundaries | gershblumstein | [Read More](https://medium.com/p/bd94dbd37071) |
+| Sun, 11 Jan 2026 21:50:53 GMT | When Consciousness Becomes a Stage | OlhosDeAguiaDivino | [Read More](https://medium.com/p/d3b6fcfe54b7) |
+| Sun, 11 Jan 2026 21:49:31 GMT | No Computer? No Problem. The Ultimate Guide to Termux Hacking | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/0eb333384926) |
+| Sun, 11 Jan 2026 21:43:55 GMT | Back to Basics: How I took over an account with a simple ID change (IDOR) | mv999exe | [Read More](https://medium.com/p/b82960cafd3c) |
+| Sun, 11 Jan 2026 21:29:09 GMT | Advent of Cyber — Day 14 — Containers: DoorDasher’s Demise | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/5a5ff640ec8f) |
 | Sun, 11 Jan 2026 21:27:51 GMT | Advent of Cyber — Day 13 — YARA Rules: YARA Mean One! | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/d6f87b0bcafe) |
 | Sun, 11 Jan 2026 21:20:03 GMT | Operation Endgame: The fall of DanaBot | dovidee | [Read More](https://medium.com/p/4c98068050a0) |
 | Sun, 11 Jan 2026 21:15:38 GMT | Why Millions Still Search for CCleaner Download in 2026 | SAWAHITS | [Read More](https://medium.com/p/dc5823267f9a) |
@@ -108,10 +115,3 @@ Its compression. | R. D. | [Read More](https://medium.com/p/99bbec9316e7) |
 | Sun, 11 Jan 2026 15:15:48 GMT | RELEVANT- TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/17e479a19896) |
 | Sun, 11 Jan 2026 15:09:16 GMT | DNSSEC: Build a Chain of Trust to Stop DNS Attacks | Olha Stefanishyna | [Read More](https://medium.com/p/b1fe32ec464d) |
 | Sun, 11 Jan 2026 15:08:52 GMT | SHAKE and cSHAKE | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/34ee5619679f) |
-| Sun, 11 Jan 2026 15:08:22 GMT | The Myth of Runtime Protection: How Instrumentation Quietly Wins | Ahmed Hesham | [Read More](https://medium.com/p/3fbeaa08fb06) |
-| Sun, 11 Jan 2026 15:06:34 GMT | Special Financial Zone Meets Global Crypto Trading | GGEX | [Read More](https://medium.com/p/128e8205d845) |
-| Sun, 11 Jan 2026 15:03:51 GMT | Security Is Not Optional: How Small Stores Get Hacked Every Day | Rejve Rahman | [Read More](https://medium.com/p/e6e2ae32b350) |
-| Sun, 11 Jan 2026 14:59:36 GMT | Write-up: VulnNet Active lab on THM | cLODIUS cOCK | [Read More](https://medium.com/p/107886a6e3fd) |
-| Sun, 11 Jan 2026 14:39:33 GMT | Zero Click ATO via Systemic Mass Assignment: The Phantom Hand | Jawad Momani | [Read More](https://medium.com/p/af4f6ce11788) |
-| Sun, 11 Jan 2026 14:36:02 GMT | Stop Using Kubernetes Dashboard | Dhanush N | [Read More](https://medium.com/p/60b16e9beb68) |
-| Sun, 11 Jan 2026 14:32:27 GMT | Why Your New WhatsApp Group is a Blank Slate (and Instagram’s Isn’t) | Muskan | [Read More](https://medium.com/p/e16265674918) |
