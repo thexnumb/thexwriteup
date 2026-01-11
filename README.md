@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 09:28:35 GMT | COMPLETE ROADMAP OF CYBERSECURITY (IN DEPTH) | Cypher2Pass | [Read More](https://medium.com/p/19ec71b2c38b) |
+| Sun, 11 Jan 2026 09:27:39 GMT | SQL Injection & SQLMap: Learning the Hard Truth About Databases the Right Way | Gajanan Tayde | [Read More](https://medium.com/p/1280cc7a288d) |
+| Sun, 11 Jan 2026 09:26:25 GMT | Consistency Over Motivation: A Lesson I Learned the Hard Way | Preetyyyy | [Read More](https://medium.com/p/09f0d1918f97) |
+| Sun, 11 Jan 2026 09:24:19 GMT | Studying IT at University? | Zeeshan Punjwani | [Read More](https://medium.com/p/5a03afe7a478) |
 | Sun, 11 Jan 2026 09:17:44 GMT | TryHackMe: Jack Writeup | cbev | [Read More](https://medium.com/p/511efd5fad3b) |
 | Sun, 11 Jan 2026 09:16:10 GMT | How to do Kerberoasting and AS-REP Roasting | Zoroya | [Read More](https://medium.com/p/e3a176c0d851) |
 | Sun, 11 Jan 2026 09:14:45 GMT | Install dan Penggunaan Bettercap Bahasa Indo | Hananda Gagas | [Read More](https://medium.com/p/09ebd289a8bb) |
@@ -109,8 +113,3 @@ If you are searching for the best… | Ankit rai | [Read More](https://medium.co
 | Sat, 10 Jan 2026 21:27:07 GMT | Securing AI Systems: The New Frontier of Cybersecurity | Nayan Goel | [Read More](https://medium.com/p/525a5844a3fc) |
 | Sat, 10 Jan 2026 21:23:31 GMT | Advent of Cyber — Day 11: XSS — Merry XSSMas | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/087c9a2d4e44) |
 | Sat, 10 Jan 2026 21:21:51 GMT | How to Check a Hash Value with PowerShell | Ryan Revell | [Read More](https://medium.com/p/0f87f1583fde) |
-| Sat, 10 Jan 2026 20:59:17 GMT | GraphQL Introspection Query Enabled Vuln CTF Challenge | blackm4c | [Read More](https://medium.com/p/902f6dec2a64) |
-| Sat, 10 Jan 2026 20:56:26 GMT | Cybersecurity Is No Longer Optional — Here’s Why It Matters
-The digital world makes life easier… | Victor Samuel-Columbus | [Read More](https://medium.com/p/b72952c58e9a) |
-| Sat, 10 Jan 2026 20:53:13 GMT | (Part 15) Mastering GitHub Copilot Series: Real-World Ops — Using Copilot to Level Up Your IaC Game | Nick | [Read More](https://medium.com/p/7feaa1533257) |
-| Sat, 10 Jan 2026 20:46:53 GMT | How i was able to delete any user account i wanted from the application :) | aiden0x | [Read More](https://medium.com/p/44426f78a70a) |
