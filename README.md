@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 03:32:47 GMT | MacSync Malware: When Trusted macOS Apps Become the Threat | Deven Chhajed | [Read More](https://medium.com/p/db2896a03b33) |
+| Sun, 11 Jan 2026 03:28:07 GMT | THM-BankGPT Writeup Walkthrough | Sandeep Singh Sethi | [Read More](https://medium.com/p/4fc4fc5d604f) |
+| Sun, 11 Jan 2026 03:17:54 GMT | TryHackMe: Iron Corp Writeup | cbev | [Read More](https://medium.com/p/f8e128444551) |
+| Sun, 11 Jan 2026 03:01:20 GMT | 100 Everyday Security Risks People Don’t Realize Can Compromise Them | Jess Hernandez | [Read More](https://medium.com/p/a5ea1467ae95) |
+| Sun, 11 Jan 2026 02:55:23 GMT | Can an Average Student Learn Ethical Hacking in 2026? | Saravana Kumar | [Read More](https://medium.com/p/9e0905b6be4b) |
+| Sun, 11 Jan 2026 02:51:14 GMT | 30 Days of Red Team: Day 14 — Week 2 Integration Lab | Maxwell Cross | [Read More](https://medium.com/p/f5b1d39d8942) |
+| Sun, 11 Jan 2026 02:50:57 GMT | Unlocking the Power of CeWL: Advanced Recon & Wordlist Engineering for Real-World Pentesting | Cybeague Technologies | [Read More](https://medium.com/p/556b27573c4f) |
+| Sun, 11 Jan 2026 02:50:00 GMT | Getting Started with CeWL: Build Custom Wordlists Like a Cybersecurity Pro (Even as a Beginner) | Cybeague Technologies | [Read More](https://medium.com/p/abe7e1025211) |
+| Sun, 11 Jan 2026 02:45:54 GMT | Threat Management as Frontend Engineer — XSS | ZIS | [Read More](https://medium.com/p/a9b4259a53d7) |
+| Sun, 11 Jan 2026 02:40:04 GMT | Same God, New Year. | India Janeè | [Read More](https://medium.com/p/8ebb9fb6e2a1) |
+| Sun, 11 Jan 2026 02:25:47 GMT | Why Wrench Attacks Against Crypto Owners Will Increase | David SEHYEON Baek | [Read More](https://medium.com/p/84e162998072) |
+| Sun, 11 Jan 2026 02:22:01 GMT | Dare to Live in an Era Where Private Data Is Endlessly Recycled Through Criminal Hands, Forever | David SEHYEON Baek | [Read More](https://medium.com/p/57d2d5d925ff) |
+| Sun, 11 Jan 2026 02:14:31 GMT | Otters and GraphQL — Bugforge Daily | 0ber1n | [Read More](https://medium.com/p/3b6caf832053) |
+| Sun, 11 Jan 2026 02:09:30 GMT | Manage My Health breach: a practical NZ guide to compensation | JP Caparas | [Read More](https://medium.com/p/e60c49e6829d) |
 | Sun, 11 Jan 2026 01:51:55 GMT | After the Grok Incident: Why AI Must Prove What It Did Not Generate | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/e7d79fda0bf1) |
 | Sun, 11 Jan 2026 01:51:33 GMT | WireGuard VPN on Raspberry Pi: Your Personal Secure Gateway | Rocky Chen | [Read More](https://medium.com/p/8c742c1596ed) |
 | Sun, 11 Jan 2026 01:29:47 GMT | Google Dorking: A Powerful Search Technique | Albertstive | [Read More](https://medium.com/p/1d775cd4d3bc) |
@@ -99,17 +113,3 @@ The digital world makes life easier… | Victor Samuel-Columbus | [Read More](ht
 | Sat, 10 Jan 2026 16:39:01 GMT | How a Windows PC Can Be Turned into a Full SIEM Using Wazuh and WSL2 | Mercury | [Read More](https://medium.com/p/fb044908653d) |
 | Sat, 10 Jan 2026 16:37:42 GMT | Introduction | Zbyte | [Read More](https://medium.com/p/edc1811f2079) |
 | Sat, 10 Jan 2026 16:32:10 GMT | Back to Basics #7: Internet Protocol (IPv4) | Norman Kolarikkal | [Read More](https://medium.com/p/4858e81166de) |
-| Sat, 10 Jan 2026 16:30:47 GMT | ✍ Security and Governance in MCP — Permissions, Isolation, Sandboxing, Auditing, and Enterprise… | Jyoti Dabass, Ph.D. | [Read More](https://medium.com/p/7b476cb8657c) |
-| Sat, 10 Jan 2026 16:30:06 GMT | Attacking and Defending a Windows Network Share | Johnny Meintel | [Read More](https://medium.com/p/ff61b8d4cb7b) |
-| Sat, 10 Jan 2026 16:28:35 GMT | Mr. Robot no TryHackme | Matheus Viana | [Read More](https://medium.com/p/e3a41b0553ca) |
-| Sat, 10 Jan 2026 16:26:19 GMT | Cyber Counterintelligence The Art of Digital Deception | Odai Mherat | [Read More](https://medium.com/p/14683c0b4b23) |
-| Sat, 10 Jan 2026 16:23:44 GMT | Install & Configure OpenVAS on a MacBook (macOS) Using Docker Desktop — Step-by-Step Guide | Tanveer Ahmed | [Read More](https://medium.com/p/1396ae394f3e) |
-| Sat, 10 Jan 2026 16:20:20 GMT | TryHackMe — Blog Room Walkthrough | Ankit | [Read More](https://medium.com/p/be641ea301eb) |
-| Sat, 10 Jan 2026 16:16:09 GMT | Offencive Security Intro | Notalive | [Read More](https://medium.com/p/063943d93c8f) |
-| Sat, 10 Jan 2026 16:00:01 GMT | Entry Points into Cybersecurity: Early Career Advice for Beginners Worldwide | Victoria Coker | [Read More](https://medium.com/p/514d811f29ac) |
-| Sat, 10 Jan 2026 15:59:26 GMT | OSINT Under the Hood: Learning from the Best — Top Resources to Follow | Rabail Zaheer | [Read More](https://medium.com/p/5df338027565) |
-| Sat, 10 Jan 2026 15:53:51 GMT | Building AI Agents That Survive Reality: A 2026 Engineer’s Journey — Day 9 | Sateesh Valluru | [Read More](https://medium.com/p/8f9cd52297b9) |
-| Sat, 10 Jan 2026 15:49:52 GMT | Arduino | Timmy | [Read More](https://medium.com/p/40f9207477ed) |
-| Sat, 10 Jan 2026 15:48:04 GMT | Le Web3 : un écosystème à sécuriser de bout en bout | Sébastien Martin | [Read More](https://medium.com/p/89528c06cf75) |
-| Sat, 10 Jan 2026 15:46:12 GMT | 17.5M Instagram 帳號外洩：別再說這是 Meta 的鍋，這是你的「端點治理」災難 | p1x06u9 | [Read More](https://medium.com/p/1bede1b0d00a) |
-| Sat, 10 Jan 2026 15:44:09 GMT | Is It Possible to Be Completely Anonymous on the Internet? | root0emir | [Read More](https://medium.com/p/900df4ad2107) |
