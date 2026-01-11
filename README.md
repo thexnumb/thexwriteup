@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 01:51:55 GMT | After the Grok Incident: Why AI Must Prove What It Did Not Generate | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/e7d79fda0bf1) |
+| Sun, 11 Jan 2026 01:51:33 GMT | WireGuard VPN on Raspberry Pi: Your Personal Secure Gateway | Rocky Chen | [Read More](https://medium.com/p/8c742c1596ed) |
+| Sun, 11 Jan 2026 01:29:47 GMT | Google Dorking: A Powerful Search Technique | Albertstive | [Read More](https://medium.com/p/1d775cd4d3bc) |
+| Sun, 11 Jan 2026 01:22:03 GMT | Most People Still Get Password Security Wrong (Here’s How to Fix It) | Michael Kendrick | [Read More](https://medium.com/p/19b84d3e016c) |
+| Sun, 11 Jan 2026 01:14:16 GMT | Before Networking, Before Compute: Why Cloud Architecture Starts With Identity | Moyinoluwa Adegbolu | [Read More](https://medium.com/p/f3a03dd0f0c6) |
+| Sun, 11 Jan 2026 01:01:09 GMT | How to install and setup Teamviewer Remote desktop client | Jared Douville | [Read More](https://medium.com/p/c3548ed939c3) |
+| Sun, 11 Jan 2026 00:46:54 GMT | Wgel CTF TryHackMe Write UP | cat0x01 | [Read More](https://medium.com/p/2312dfd96792) |
+| Sun, 11 Jan 2026 00:43:21 GMT | Go’s Eternal Dilemma: When Will We Get Proper Enums and Union Types? | Wesley Wei | [Read More](https://medium.com/p/140c4925a9dd) |
+| Sun, 11 Jan 2026 00:28:36 GMT | Pilots Suck | Audric Osei | [Read More](https://medium.com/p/5d5dedd85731) |
+| Sun, 11 Jan 2026 00:20:13 GMT | Android Services Attack Surface | Hossam Shaalan | [Read More](https://medium.com/p/20d9134748f5) |
+| Sun, 11 Jan 2026 00:13:05 GMT | The Impossible Quest for Untraceable Communication | Mahadevadityamukhiya | [Read More](https://medium.com/p/726ac13b13a9) |
+| Sun, 11 Jan 2026 00:00:06 GMT | How Illinois Exposed 700,000 Healthcare Records: An Architecture Failure, Not a Hack | John The CEO, AI-Enabled Solution Strategist | [Read More](https://medium.com/p/db854e61b82d) |
+| Sat, 10 Jan 2026 23:58:08 GMT | Hacking the ‘Disaster Prepper’ Paradigm: Ep. #4 — When Analog > Digital | z3r0trust | [Read More](https://medium.com/p/c46cb30a3fa4) |
+| Sat, 10 Jan 2026 23:54:41 GMT | How I Caught a $13k/month Job Phishing Scam in Under 3 Minutes (Step-by-Step Guide) | Ib2dk | [Read More](https://medium.com/p/4212269362dd) |
 | Sat, 10 Jan 2026 23:32:09 GMT | safehavenhack Telegram - Official Contact @safehavenhack | Safehavenhack | [Read More](https://medium.com/p/b6e27af7c71b) |
 | Sat, 10 Jan 2026 23:22:25 GMT | Network Fundamentals: Comprehensive Technical Guide | Mert Baykal | [Read More](https://medium.com/p/3ca1eeded610) |
 | Sat, 10 Jan 2026 23:13:35 GMT | 15 Seconds to the First Attack: Myth or Reality of Website Launches in 2026 | 0trust0day | [Read More](https://medium.com/p/9ecf50ff5640) |
@@ -99,17 +113,3 @@ The digital world makes life easier… | Victor Samuel-Columbus | [Read More](ht
 | Sat, 10 Jan 2026 15:48:04 GMT | Le Web3 : un écosystème à sécuriser de bout en bout | Sébastien Martin | [Read More](https://medium.com/p/89528c06cf75) |
 | Sat, 10 Jan 2026 15:46:12 GMT | 17.5M Instagram 帳號外洩：別再說這是 Meta 的鍋，這是你的「端點治理」災難 | p1x06u9 | [Read More](https://medium.com/p/1bede1b0d00a) |
 | Sat, 10 Jan 2026 15:44:09 GMT | Is It Possible to Be Completely Anonymous on the Internet? | root0emir | [Read More](https://medium.com/p/900df4ad2107) |
-| Sat, 10 Jan 2026 15:40:33 GMT | How Browsers Track You Without Cookies | The Daily Technology | [Read More](https://medium.com/p/534aba7e4269) |
-| Sat, 10 Jan 2026 15:24:48 GMT | Anti-Debugging: PEB!BeingDebugged | Athis SN | [Read More](https://medium.com/p/00465e83f7ad) |
-| Sat, 10 Jan 2026 15:17:07 GMT | Post 9: Evolution of IT (Part 3): Becoming the Business | SattiData | [Read More](https://medium.com/p/274764dec578) |
-| Sat, 10 Jan 2026 15:15:09 GMT | How Learning Python Changed the Way I Approach Electronics | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/e0aa67eeb47a) |
-| Sat, 10 Jan 2026 15:12:13 GMT | How a Simple Business Logic Flaw Caused an Account Lockout DoS | christos dimitropoulos | [Read More](https://medium.com/p/c6b66bd2e3d0) |
-| Sat, 10 Jan 2026 15:08:55 GMT | The Economics of Silence | Michael Ndubuaku | [Read More](https://medium.com/p/5f45f6f9e64a) |
-| Sat, 10 Jan 2026 15:07:12 GMT | The Cybersecurity Industry Is Being Rewired for 2026 | Taimur Ijlal | [Read More](https://medium.com/p/f6e37f11a2a4) |
-| Sat, 10 Jan 2026 15:06:01 GMT | Cipher Suites Demystified: How HTTPS Really Stays Secure | Suraj Bhandari | [Read More](https://medium.com/p/11c032ed3bff) |
-| Sat, 10 Jan 2026 15:04:45 GMT | IP Addressing & Subnetting Made Easy (No Math Fear) | Shalu | [Read More](https://medium.com/p/1a63eca0eddb) |
-| Sat, 10 Jan 2026 15:02:55 GMT | Reino Unido anuncia un plan de fortalecimiento en materia de ciberseguridad dentro del sector… | Tiziano Mass | [Read More](https://medium.com/p/eae191a31dd0) |
-| Sat, 10 Jan 2026 14:58:46 GMT | Rooting the Samsung Galaxy A25 in 2026: A Practical Guide | Tushar Saini | [Read More](https://medium.com/p/2400204471b0) |
-| Sat, 10 Jan 2026 14:56:25 GMT | Instagram Data Breach Alert: Millions of User Details Reportedly at Risk | Modern Men: Tech, Skin & Life — by Nisar | [Read More](https://medium.com/p/0fe10206d921) |
-| Sat, 10 Jan 2026 14:40:57 GMT | การทำ HTTPS ให้ Local Server (เมื่อ Let’s Encrypt ใช้ไม่ได้) | Narongsak Pumpasert | [Read More](https://medium.com/p/88283e946fb2) |
-| Sat, 10 Jan 2026 14:36:54 GMT | Cybersecurity & Ethical Hacking Roadmap 2026 | Mainekhacker | [Read More](https://medium.com/p/66153c3f8d07) |
