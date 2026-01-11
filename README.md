@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 11:09:52 GMT | The Algorithmic Art of Debugging: Beyond Breakpoints and Print Statements | Md Shoriful Islam Ashiq | [Read More](https://medium.com/p/e27b38e7cb34) |
+| Sun, 11 Jan 2026 10:58:46 GMT | Living Off the Land in OT Environments | urjasec | [Read More](https://medium.com/p/e66a541d1e07) |
+| Sun, 11 Jan 2026 10:51:54 GMT | Cloudsek CTF Writeup_2 (2025) | popo | [Read More](https://medium.com/p/8ea8b89536c7) |
+| Sun, 11 Jan 2026 10:48:25 GMT | Armed Security Guard in Houston | Security Houston | [Read More](https://medium.com/p/b3ebcd45af85) |
+| Sun, 11 Jan 2026 10:46:35 GMT | TryHackMe - Easy Peasy CTF — Walkthrough by venkateshpatil | Venkateshpatil | [Read More](https://medium.com/p/42213cf9ebcd) |
 | Sun, 11 Jan 2026 10:41:42 GMT | 7 Powerful DORA 2026 Evidence Pack Steps for SaaS | Pentest_Testing_Corp | [Read More](https://medium.com/p/0f95b05bde42) |
 | Sun, 11 Jan 2026 10:29:10 GMT | # IoT Ev Cihazları Necə Hacklənir? | cybershieldy.com | [Read More](https://medium.com/p/e5fc34f7a90e) |
 | Sun, 11 Jan 2026 10:22:56 GMT | Protect your Microsoft External ID tenant using Web Application Firewall! | Brian Veldman | [Read More](https://medium.com/p/6c9863f9d2b5) |
@@ -108,8 +113,3 @@ If you are searching for the best… | Ankit rai | [Read More](https://medium.co
 | Sun, 11 Jan 2026 00:00:06 GMT | How Illinois Exposed 700,000 Healthcare Records: An Architecture Failure, Not a Hack | John The CEO, AI-Enabled Solution Strategist | [Read More](https://medium.com/p/db854e61b82d) |
 | Sat, 10 Jan 2026 23:58:08 GMT | Hacking the ‘Disaster Prepper’ Paradigm: Ep. #4 — When Analog > Digital | z3r0trust | [Read More](https://medium.com/p/c46cb30a3fa4) |
 | Sat, 10 Jan 2026 23:54:41 GMT | How I Caught a $13k/month Job Phishing Scam in Under 3 Minutes (Step-by-Step Guide) | Ib2dk | [Read More](https://medium.com/p/4212269362dd) |
-| Sat, 10 Jan 2026 23:32:09 GMT | safehavenhack Telegram - Official Contact @safehavenhack | Safehavenhack | [Read More](https://medium.com/p/b6e27af7c71b) |
-| Sat, 10 Jan 2026 23:22:25 GMT | Network Fundamentals: Comprehensive Technical Guide | Mert Baykal | [Read More](https://medium.com/p/3ca1eeded610) |
-| Sat, 10 Jan 2026 23:13:35 GMT | 15 Seconds to the First Attack: Myth or Reality of Website Launches in 2026 | 0trust0day | [Read More](https://medium.com/p/9ecf50ff5640) |
-| Sat, 10 Jan 2026 23:12:27 GMT | Linux Isn’t Just an Operating System — It’s Permission to Understand Your Machine | Ryvok.Brondich | [Read More](https://medium.com/p/db768fe9a6ee) |
-| Sat, 10 Jan 2026 22:55:46 GMT | Social Engineering: The Art of Bypassing the Human Firewall | root0emir | [Read More](https://medium.com/p/d284e3dde96e) |
