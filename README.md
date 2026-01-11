@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 23:26:36 GMT | Beyond the Perimeter: Analyzing IAM Credential Exfiltration and Metadata Exploitation via OWASP… | Samuel Nartey | [Read More](https://medium.com/p/302ce3395ce7) |
 | Sun, 11 Jan 2026 22:59:20 GMT | Security Shorts Volume 1 — Defence in Depth for Blockchain | L Strawbridge | [Read More](https://medium.com/p/d2586e20dc58) |
 | Sun, 11 Jan 2026 22:55:23 GMT | Fortigate Installation (VM) | Mehmet Ali Gülyurdu | [Read More](https://medium.com/p/b8d312c465fa) |
 | Sun, 11 Jan 2026 22:55:15 GMT | Professional Ethical Hacking & Digital Investigation Services. | Private-hackers.com | [Read More](https://medium.com/p/dfe556433b74) |
@@ -114,4 +115,3 @@ Its compression. | R. D. | [Read More](https://medium.com/p/99bbec9316e7) |
 | Sun, 11 Jan 2026 15:52:44 GMT | Subnetting Without Fear (Simple Math, Real Examples) | Shalu | [Read More](https://medium.com/p/2911894d8bea) |
 | Sun, 11 Jan 2026 15:46:01 GMT | Cyrethium / Securonis Archive : Technical Evolution of a Privacy-Centric Linux Distribution | root0emir | [Read More](https://medium.com/p/d9b362f53a8e) |
 | Sun, 11 Jan 2026 15:43:16 GMT | Furhire Writeup (BugForge) | 7s26Simon | [Read More](https://medium.com/p/83a1be8dee83) |
-| Sun, 11 Jan 2026 15:32:49 GMT | 4 AI & Dev Tools That Changed My Life (And Saved Me 20+ Hours a Week) | Sumit Sharma | [Read More](https://medium.com/p/3c1feec4b699) |
