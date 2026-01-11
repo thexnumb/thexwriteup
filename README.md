@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 14:07:06 GMT | How I Passed the eMAPT Certification (January 2026) | Marco Alfan | [Read More](https://medium.com/p/705829ebc87d) |
+| Sun, 11 Jan 2026 14:05:12 GMT | Mirror-Dog:A TCP stream replay attack analysis and exploitation verification tool. | Мартин. | [Read More](https://medium.com/p/e6e7244ca8b0) |
+| Sun, 11 Jan 2026 13:59:41 GMT | Broken Access Control Is a Trust Problem | Cleo | [Read More](https://medium.com/p/e46d0dba0687) |
+| Sun, 11 Jan 2026 13:56:01 GMT | হ্যাশ বনাম এনক্রিপশন | MD.Moniruzzaman ShadhiN | [Read More](https://medium.com/p/71f1fa7d37d1) |
+| Sun, 11 Jan 2026 13:54:48 GMT | Investment Thesis — The future of IT Services | Abhijit Raghunathan | [Read More](https://medium.com/p/322bd1a5e60a) |
+| Sun, 11 Jan 2026 13:46:18 GMT | HTML Smuggling | NITYA NAND JHA(Shunux) | [Read More](https://medium.com/p/291fd5d32025) |
+| Sun, 11 Jan 2026 13:46:11 GMT | Hackers Exploiting VMware ESXi for gaining RCE | Akchhat | [Read More](https://medium.com/p/1999621a05ea) |
+| Sun, 11 Jan 2026 13:43:08 GMT | Membangun Arsitektur Dua Web Server dengan Satu Database Terpusat Menggunakan Ubuntu Server… | Dimas Putra Winanto | [Read More](https://medium.com/p/c1a3d0c7d813) |
+| Sun, 11 Jan 2026 13:38:17 GMT | MOST COMMON AND UNCOMMON VULNERABILITIES I HAVE UNCOVERED IN SOME E-COMMERCE WEBSITES | Maxwell | [Read More](https://medium.com/p/3360e658005d) |
 | Sun, 11 Jan 2026 13:27:45 GMT | A Tiny CORS Header That Quietly Undid Years of Security Work | 1$ Mistake | [Read More](https://medium.com/p/cdb7d04069eb) |
+| Sun, 11 Jan 2026 13:26:47 GMT | Digital biometrics: The verified human and the end of anonymity | Teodor Dumitrache | [Read More](https://medium.com/p/f655b0e0cfa1) |
 | Sun, 11 Jan 2026 13:20:02 GMT | Padelify — THM Writeup | Avyukt Security | [Read More](https://medium.com/p/5f30dd31009f) |
 | Sun, 11 Jan 2026 13:16:17 GMT | OSWE Hazırlık İlk Makine — SecureCode WriteUp | OnurDemir-Dev | [Read More](https://medium.com/p/db08018c3bc4) |
 | Sun, 11 Jan 2026 13:11:32 GMT | Understanding Scams — Chapter One | Truality.Finance/.Mental/.Legalese/.Unfiltered | [Read More](https://medium.com/p/5859cf3ce5a7) |
@@ -103,13 +113,3 @@ If you are searching for the best… | Ankit rai | [Read More](https://medium.co
 | Sun, 11 Jan 2026 05:02:46 GMT | AWS Security Hub | Saria Mubeen | [Read More](https://medium.com/p/8561d721b731) |
 | Sun, 11 Jan 2026 05:02:25 GMT | First Learn, Then Earn: My Day 1 Journey into Bug Bounty Hunting | Faizan Nazir | [Read More](https://medium.com/p/aa02808d28bb) |
 | Sun, 11 Jan 2026 04:58:15 GMT | I Turned an EXE Into Music (and it actually tells you something) | RezSat (Yehan Wasura) | [Read More](https://medium.com/p/27e3d1e86fe5) |
-| Sun, 11 Jan 2026 04:54:40 GMT | I Trust Math, But I Don’t Trust People: Why I Built ROOM-39 | thatredhoodedguy | [Read More](https://medium.com/p/11cf8c63273d) |
-| Sun, 11 Jan 2026 04:42:01 GMT | Bypassing SSRF Protections: A $10,000 Lesson from Slack | Abhishek meena | [Read More](https://medium.com/p/6cff022a44a6) |
-| Sun, 11 Jan 2026 04:35:29 GMT | The Architecture of Zero Trust: Why We Built ROOM-39 as an iOS PWA | thatredhoodedguy | [Read More](https://medium.com/p/ef5e20559009) |
-| Sun, 11 Jan 2026 04:02:50 GMT | How AI is Used in Cybersecurity | Martin Summer | [Read More](https://medium.com/p/2eed3a08ceb3) |
-| Sun, 11 Jan 2026 03:59:52 GMT | Cyber Sherlock Weekly Update: 11 January 2026 | Sujon Al Mamun | [Read More](https://medium.com/p/cf5182195412) |
-| Sun, 11 Jan 2026 03:58:32 GMT | ClickFix Is Rising — And It’s Scarily Brilliant | Paritosh | [Read More](https://medium.com/p/f50ec380377a) |
-| Sun, 11 Jan 2026 03:32:47 GMT | MacSync Malware: When Trusted macOS Apps Become the Threat | Deven Chhajed | [Read More](https://medium.com/p/db2896a03b33) |
-| Sun, 11 Jan 2026 03:28:07 GMT | THM-BankGPT Writeup Walkthrough | Sandeep Singh Sethi | [Read More](https://medium.com/p/4fc4fc5d604f) |
-| Sun, 11 Jan 2026 03:17:54 GMT | TryHackMe: Iron Corp Writeup | cbev | [Read More](https://medium.com/p/f8e128444551) |
-| Sun, 11 Jan 2026 03:01:20 GMT | 100 Everyday Security Risks People Don’t Realize Can Compromise Them | Jess Hernandez | [Read More](https://medium.com/p/a5ea1467ae95) |
