@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 08:28:14 GMT | JSON Web Token (JWT) — Why, How, Structure, Attacks & Defenses | Suraj Bhandari | [Read More](https://medium.com/p/11a238cebfff) |
+| Sun, 11 Jan 2026 08:19:46 GMT | How to pass the PNPT (2026) | mr-3 | [Read More](https://medium.com/p/9144d37aae3e) |
+| Sun, 11 Jan 2026 08:12:55 GMT | Never Talk to a Spammers Again: The iOS 26 Setting That Kills Spam Forever. | apple inside | [Read More](https://medium.com/p/a76051e59ea4) |
+| Sun, 11 Jan 2026 08:09:40 GMT | For Growth PMs in early 2026, focus on AI-driven personalization, deep customer feedback loops… | Ravikant Vishwakarma | [Read More](https://medium.com/p/80023f72e30b) |
+| Sun, 11 Jan 2026 08:08:07 GMT | SYSTEM ONLINE: ByteMeCTF Registration is Officially OPEN! | OWASP PCCoE | [Read More](https://medium.com/p/03d92567466b) |
+| Sun, 11 Jan 2026 08:02:47 GMT | [PortSwigger] [Apprentice] Lab: CSRF vulnerability with no defenses | Javiki | [Read More](https://medium.com/p/e0fb7a009e43) |
+| Sun, 11 Jan 2026 08:02:46 GMT | The State of Deepfakes in 2026: Why Seeing is No Longer Believing | MayhemCode | [Read More](https://medium.com/p/6cf12316649d) |
+| Sun, 11 Jan 2026 08:01:00 GMT | From Frontend to Firewalls | Faria Ejaz | [Read More](https://medium.com/p/e079181a9adf) |
+| Sun, 11 Jan 2026 07:55:17 GMT | A Furry SQLi with BugForge | 0ber1n | [Read More](https://medium.com/p/1e8e479d4c4f) |
+| Sun, 11 Jan 2026 07:53:57 GMT | Geopolitical Drivers and Cyber Statecraft in the U.S. Intervention in Venezuela | BeGoodToAll | [Read More](https://medium.com/p/a967a6a1fc40) |
+| Sun, 11 Jan 2026 07:42:01 GMT | Diploma in Artificial Intelligence After 10th [Updated 2026] | Manisha Chaudhary | [Read More](https://medium.com/p/e63d7d5e6a8e) |
 | Sun, 11 Jan 2026 07:16:27 GMT | Networking Essentials For Cyber security | Fiza saleem | [Read More](https://medium.com/p/d13f77dc8414) |
 | Sun, 11 Jan 2026 07:01:01 GMT | Medusa: The Powerful Parallel Brute-Forcing Tool Every Pentester Should Know | XoX | [Read More](https://medium.com/p/079b06264b28) |
 | Sun, 11 Jan 2026 06:47:54 GMT | 스타트업 엔지니어의 DB 접근제어 솔루션 도입기 | 이진만 (Jamie) | [Read More](https://medium.com/p/0318e5ae7d8b) |
@@ -103,14 +114,3 @@ The digital world makes life easier… | Victor Samuel-Columbus | [Read More](ht
 | Sat, 10 Jan 2026 19:30:59 GMT | 17.5 Million Instagram Users Hit by Fresh Data Leak — What Happened, What Was Taken, and What You… | Faisal haque | [Read More](https://medium.com/p/ca66d9802cd6) |
 | Sat, 10 Jan 2026 19:28:25 GMT | How Foreign Bots and Fake Outrage Are Turning Americans Against Their Own Country And What You Can… | Infinite Solutions by J. I. Memphis | [Read More](https://medium.com/p/f2ad31e6ceb8) |
 | Sat, 10 Jan 2026 19:21:34 GMT | Kali Linux Lab Home lab — Part 1 | Jacob Ferguson | [Read More](https://medium.com/p/4402655dbaa2) |
-| Sat, 10 Jan 2026 19:20:05 GMT | Cybersecurity Essentials: Exploring Zphisher for Ethical Hacking. | Ceo Defender | [Read More](https://medium.com/p/bcb4377ec3cd) |
-| Sat, 10 Jan 2026 19:11:11 GMT | AWS Privilege Escalation Walkthrough | Spookz | [Read More](https://medium.com/p/f991a431c5bf) |
-| Sat, 10 Jan 2026 19:00:27 GMT | Lazy Admin Walkthrough | Abdelrabo%00 | [Read More](https://medium.com/p/38e1a4e2fc7f) |
-| Sat, 10 Jan 2026 18:59:52 GMT | Why Bayes’ Theorem Should Belong in Every Cybersec Analyst’s Toolkit | Dominik M | [Read More](https://medium.com/p/a7e19e541c67) |
-| Sat, 10 Jan 2026 18:59:13 GMT | Networking Fundamentals That Power the Internet | Gatecrasher01 | [Read More](https://medium.com/p/0619765b32ea) |
-| Sat, 10 Jan 2026 18:52:08 GMT | Aseel alternatives to GoFundMe,FundRaisup,Muslimi and Etsy | Faiz ul Qadir Sahib Zada | [Read More](https://medium.com/p/e90aff9e000f) |
-| Sat, 10 Jan 2026 18:39:19 GMT | ️DC: 5— Complete Walkthrough (Beginner-Friendly) - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/a6b9b3b9c845) |
-| Sat, 10 Jan 2026 18:35:06 GMT | How Registry Edits Wreck Windows And How To Fix Real Slowdowns | Geoffrey Wenger | [Read More](https://medium.com/p/802a67c3a453) |
-| Sat, 10 Jan 2026 18:32:50 GMT | Nietzsche’s Will to Power: Adaptability and Resilience in Cybersecurity Practices | Brian Haman, PhD | [Read More](https://medium.com/p/6937593f6f92) |
-| Sat, 10 Jan 2026 18:23:01 GMT | Creating a Flexible IT Strategy That Keeps Up With Change | NordicX | [Read More](https://medium.com/p/4ec959832a9f) |
-| Sat, 10 Jan 2026 18:22:30 GMT | What I Learned from 10 Days of Running an MYSQL Honeypot | berke bodur | [Read More](https://medium.com/p/dc4d35a45d21) |
