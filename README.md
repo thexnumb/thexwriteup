@@ -12,8 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 19:03:57 GMT | Muslim Powers Unite: The Saudi-Pakistan Defence Pact | Dr. Ahmad Haroon | [Read More](https://medium.com/p/c7e659867868) |
+| Sun, 11 Jan 2026 19:03:43 GMT | How a Trusted University Domain Was Abused for SEO Poisoning — Without Being “Hacked” | Julien | [Read More](https://medium.com/p/f8b09c014731) |
+| Sun, 11 Jan 2026 19:02:48 GMT | Week 4: Building the Agent (Python/Bash Log Collector) | scriptpy | [Read More](https://medium.com/p/1383b65629bf) |
+| Sun, 11 Jan 2026 19:02:47 GMT | Anti-Malware | Iram Jack | [Read More](https://medium.com/p/ad8a5ac63863) |
+| Sun, 11 Jan 2026 18:56:24 GMT | Advancing Cyber Threat Intelligence for Rapid Exploitation Response: A Unified, Decision-Ready CTI… | Sai Teja Kotagiri | [Read More](https://medium.com/p/4671c5048a4d) |
+| Sun, 11 Jan 2026 18:52:34 GMT | Building a SOC-Level Active Directory Detection & SOAR Automation Lab (Step-by-Step) | Misbah waraich | [Read More](https://medium.com/p/6416414a1a29) |
+| Sun, 11 Jan 2026 18:50:29 GMT | The Dark Side of Artificial Intelligence Nobody Wants to Talk About | Oghenetega Oraka | [Read More](https://medium.com/p/c143ee6db01a) |
+| Sun, 11 Jan 2026 18:49:52 GMT | Got A Password Reset Email From Instagram? This Might Be Why… | RayasWeb | [Read More](https://medium.com/p/7b3ae4b8a2e6) |
+| Sun, 11 Jan 2026 18:49:26 GMT | Ramping Up XC, No Matter Where the App Lives | Trevor Patch | [Read More](https://medium.com/p/cb8e60547ff7) |
+| Sun, 11 Jan 2026 18:46:53 GMT | Why ETL Pipelines Fail in Production (And How to Debug Them Systematically) | Tejas Pundpal | [Read More](https://medium.com/p/f5f3b001f664) |
+| Sun, 11 Jan 2026 18:40:07 GMT | Why Multi-Factor Authentication Isn’t Enough Anymore: Exploring MFA Bypass Techniques | Cyber_Phoenix | [Read More](https://medium.com/p/b3a7f06167b0) |
+| Sun, 11 Jan 2026 18:38:29 GMT | Essential Wazuh Strategies for Cloud Workload Protection | Wilklins Nyatteng | [Read More](https://medium.com/p/a12f40c15ae9) |
+| Sun, 11 Jan 2026 18:36:38 GMT | Breaking into DVWA | Oluwadamilare Adeosun | [Read More](https://medium.com/p/b01bb249f3d1) |
 | Sun, 11 Jan 2026 18:26:20 GMT | Title: 2 Simple Ways to Protect Your Digital Life in 2026
 ​In 2026, our lives are more connected to… | Tech Insights by Trishan | [Read More](https://medium.com/p/3e1709a675a7) |
+| Sun, 11 Jan 2026 18:25:41 GMT | The Hardest Part of AI Isn’t the Model — It’s Everything Around It | Marton Schneider | [Read More](https://medium.com/p/b00cca9cbdcd) |
 | Sun, 11 Jan 2026 18:24:13 GMT | 5 Alarming Lessons From a Single Click on an “I’m Not a Robot” Box | Tech Security | [Read More](https://medium.com/p/34f259cfb9e0) |
 | Sun, 11 Jan 2026 18:19:41 GMT | Try Hack Me- Develpy CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/8a643b93e7cc) |
 | Sun, 11 Jan 2026 18:16:11 GMT | Web Application Penetration Report | Nashra | [Read More](https://medium.com/p/92dc2d48cfdf) |
@@ -100,17 +114,3 @@ Its compression. | R. D. | [Read More](https://medium.com/p/99bbec9316e7) |
 | Sun, 11 Jan 2026 11:58:56 GMT | Race condition leading to multiple refunds and cash re | Excessium | [Read More](https://medium.com/p/bdcf890cafca) |
 | Sun, 11 Jan 2026 11:50:55 GMT | Go Reflection for Metaprogramming: Building Generic Code Using reflect | Ade Mawan | [Read More](https://medium.com/p/8d157ab51db6) |
 | Sun, 11 Jan 2026 11:46:12 GMT | How Much Data Do Google and Meta Really Know About You | Tech Word | [Read More](https://medium.com/p/1920cb386c7e) |
-| Sun, 11 Jan 2026 11:44:26 GMT | Cyber Crime Complaint Process in India | Tech Word | [Read More](https://medium.com/p/7baae4d955d5) |
-| Sun, 11 Jan 2026 11:40:11 GMT | AI Agents Need Deterministic Control — Not Better Prompts | Shawn K. Reilly | [Read More](https://medium.com/p/702f1a21a293) |
-| Sun, 11 Jan 2026 11:40:02 GMT | Business logic flaw leading to product depletion | Excessium | [Read More](https://medium.com/p/6cfbc7ecda66) |
-| Sun, 11 Jan 2026 11:34:33 GMT | Understanding Zero Trust Tunneling for Secure Software Development | Aransiola Ayodele | [Read More](https://medium.com/p/33cb1cf88eb9) |
-| Sun, 11 Jan 2026 11:31:14 GMT | The Crow’s Hunt #01: Persistencia Silenciosa — Cazando Extensiones Maliciosas (T1176) | FeCeSociety | [Read More](https://medium.com/p/1e112dd76001) |
-| Sun, 11 Jan 2026 11:26:59 GMT | Python for Pentesters: 15 Real Bug-Finding Scripts You Can Use Today | Very Lazy Tech | [Read More](https://medium.com/p/4ac22fcb5e13) |
-| Sun, 11 Jan 2026 11:20:54 GMT | RAIT-CTF (2026) | popo | [Read More](https://medium.com/p/4ec46241b31e) |
-| Sun, 11 Jan 2026 11:19:38 GMT | From Information to Intelligence: A Practical Understanding of OSINT (Trace Labs OSINT Educational… | Adonis john | [Read More](https://medium.com/p/91356c1bf706) |
-| Sun, 11 Jan 2026 11:09:52 GMT | The Algorithmic Art of Debugging: Beyond Breakpoints and Print Statements | Md Shoriful Islam Ashiq | [Read More](https://medium.com/p/e27b38e7cb34) |
-| Sun, 11 Jan 2026 10:58:46 GMT | Living Off the Land in OT Environments | urjasec | [Read More](https://medium.com/p/e66a541d1e07) |
-| Sun, 11 Jan 2026 10:51:54 GMT | Cloudsek CTF Writeup_2 (2025) | popo | [Read More](https://medium.com/p/8ea8b89536c7) |
-| Sun, 11 Jan 2026 10:48:25 GMT | Armed Security Guard in Houston | Security Houston | [Read More](https://medium.com/p/b3ebcd45af85) |
-| Sun, 11 Jan 2026 10:46:35 GMT | TryHackMe - Easy Peasy CTF — Walkthrough by venkateshpatil | Venkateshpatil | [Read More](https://medium.com/p/42213cf9ebcd) |
-| Sun, 11 Jan 2026 10:41:42 GMT | 7 Powerful DORA 2026 Evidence Pack Steps for SaaS | Pentest_Testing_Corp | [Read More](https://medium.com/p/0f95b05bde42) |
