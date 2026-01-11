@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 21:12:59 GMT | Mastering Mac Performance When Memory Pressure Slows You Down | Geoffrey Wenger | [Read More](https://medium.com/p/195679dc8d9e) |
+| Sun, 11 Jan 2026 20:57:09 GMT | Continuous Threat Modeling for Internet-Scale Backend Platforms | Luigi Iacuaniello | [Read More](https://medium.com/p/b256acfbcf6d) |
+| Sun, 11 Jan 2026 20:54:23 GMT | API Gateway vs Caddy: Security and Reliability in Modern Web Application Development | Alexander Ilves | [Read More](https://medium.com/p/7652847cd43b) |
+| Sun, 11 Jan 2026 20:53:49 GMT | I came, I vibe-coded, and I learned things YOU should know about | BowTiesAreCool | [Read More](https://medium.com/p/727588a0f7f3) |
+| Sun, 11 Jan 2026 20:50:00 GMT | [Writeup] Proving Grounds: Flu (Linux) | Bassey Ekemini E | [Read More](https://medium.com/p/b233528a8698) |
 | Sun, 11 Jan 2026 20:42:56 GMT | AI is Not a Translator, It’s Your Chief of Staff: How I Won a 120-Hour Logical War Against Apple | Ryuzaburo | [Read More](https://medium.com/p/38ed58a2a2fa) |
+| Sun, 11 Jan 2026 20:39:33 GMT | IMPORTANT — PLEASE READ | International Cowboy Planet | [Read More](https://medium.com/p/a46222a5b412) |
 | Sun, 11 Jan 2026 20:38:18 GMT | THE DIGITAL GHOSTS: Investigating the Global Syndicate Behind 'Carded' Electronics
 ​By Nauman… | NaumanShafique | [Read More](https://medium.com/p/5abb541630ea) |
 | Sun, 11 Jan 2026 20:29:00 GMT | I came, I vibe-coded, and I learned things YOU should know about | BowTiesAreCool | [Read More](https://medium.com/p/599c8b789df8) |
@@ -109,9 +115,3 @@ Its compression. | R. D. | [Read More](https://medium.com/p/99bbec9316e7) |
 | Sun, 11 Jan 2026 14:21:46 GMT | Building the Ultimate Android Bug Bounty Lab: The Network Nightmare (Part 3) | Rezaul Hasan | [Read More](https://medium.com/p/6ee9c01ee189) |
 | Sun, 11 Jan 2026 14:12:47 GMT | Signals We Miss: The Small Signs That Reveal Big Truths About People | Rowan Vale | [Read More](https://medium.com/p/0f1002fdddb2) |
 | Sun, 11 Jan 2026 14:07:06 GMT | How I Passed the eMAPT Certification (January 2026) | Marco Alfan | [Read More](https://medium.com/p/705829ebc87d) |
-| Sun, 11 Jan 2026 14:05:12 GMT | Mirror-Dog:A TCP stream replay attack analysis and exploitation verification tool. | Мартин. | [Read More](https://medium.com/p/e6e7244ca8b0) |
-| Sun, 11 Jan 2026 13:59:41 GMT | Broken Access Control Is a Trust Problem | Cleo | [Read More](https://medium.com/p/e46d0dba0687) |
-| Sun, 11 Jan 2026 13:56:01 GMT | হ্যাশ বনাম এনক্রিপশন | MD.Moniruzzaman ShadhiN | [Read More](https://medium.com/p/71f1fa7d37d1) |
-| Sun, 11 Jan 2026 13:54:48 GMT | Investment Thesis — The future of IT Services | Abhijit Raghunathan | [Read More](https://medium.com/p/322bd1a5e60a) |
-| Sun, 11 Jan 2026 13:46:18 GMT | HTML Smuggling | NITYA NAND JHA(Shunux) | [Read More](https://medium.com/p/291fd5d32025) |
-| Sun, 11 Jan 2026 13:46:11 GMT | Hackers Exploiting VMware ESXi for gaining RCE | Akchhat | [Read More](https://medium.com/p/1999621a05ea) |
