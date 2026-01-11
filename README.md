@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 10:22:56 GMT | Protect your Microsoft External ID tenant using Web Application Firewall! | Brian Veldman | [Read More](https://medium.com/p/6c9863f9d2b5) |
+| Sun, 11 Jan 2026 10:22:30 GMT | 17.5 Million Instagram Accounts Just Got Hacked — Is Yours One of Them? | Abdul Ahad | [Read More](https://medium.com/p/96ee9ebd3ac1) |
+| Sun, 11 Jan 2026 10:20:05 GMT | How I Discovered 15 Critical Vulnerabilities in 2 Months: Complete IDOR Exploitation Guide | Chetan Biranje | [Read More](https://medium.com/p/3d016c9ea0f2) |
+| Sun, 11 Jan 2026 10:19:38 GMT | Completing Advent of Cyber 2025: Building My Foundation in Offensive Security. | M o $ t a | [Read More](https://medium.com/p/c65bd45461a1) |
+| Sun, 11 Jan 2026 10:17:22 GMT | JWT Is Not Encryption: The Hidden Security Misunderstanding Putting Your Data at Risk | Syed Raza | [Read More](https://medium.com/p/36b57c7b47e9) |
+| Sun, 11 Jan 2026 10:14:58 GMT | When the Internet Goes Dark: Technology, Power, and the Human Cost of Silence | En0cH | [Read More](https://medium.com/p/10d762c9f4f8) |
+| Sun, 11 Jan 2026 10:14:20 GMT | Why “Invite-Only” Crypto Platforms Trigger My Security Red Flags (A Technical Case Study) | Cassian Vale | [Read More](https://medium.com/p/db6252d585fc) |
+| Sun, 11 Jan 2026 10:09:16 GMT | From Pentest Findings to Falsifiable, Reproducible Proof | Andreas | [Read More](https://medium.com/p/b0265b9396e7) |
+| Sun, 11 Jan 2026 10:08:41 GMT | Skills Assessment — Footprinting Labs (Easy, Medium, Hard) | Ayush gangani | [Read More](https://medium.com/p/c119ca5f0b35) |
+| Sun, 11 Jan 2026 09:40:40 GMT | Previous Writeup (HackTheBox Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/d79dcc929496) |
+| Sun, 11 Jan 2026 09:35:22 GMT | Understanding Two-Tier Architecture in Cloud Computing (AWS) | Shashank Ray | [Read More](https://medium.com/p/035c670890ef) |
 | Sun, 11 Jan 2026 09:28:35 GMT | COMPLETE ROADMAP OF CYBERSECURITY (IN DEPTH) | Cypher2Pass | [Read More](https://medium.com/p/19ec71b2c38b) |
 | Sun, 11 Jan 2026 09:27:39 GMT | SQL Injection & SQLMap: Learning the Hard Truth About Databases the Right Way | Gajanan Tayde | [Read More](https://medium.com/p/1280cc7a288d) |
 | Sun, 11 Jan 2026 09:26:25 GMT | Consistency Over Motivation: A Lesson I Learned the Hard Way | Preetyyyy | [Read More](https://medium.com/p/09f0d1918f97) |
@@ -102,14 +113,3 @@ If you are searching for the best… | Ankit rai | [Read More](https://medium.co
 | Sat, 10 Jan 2026 22:55:46 GMT | Social Engineering: The Art of Bypassing the Human Firewall | root0emir | [Read More](https://medium.com/p/d284e3dde96e) |
 | Sat, 10 Jan 2026 22:54:07 GMT | Cryptographic Security in Backup Systems: Protecting the Final Stronghold of Data | Esra Kayhan | [Read More](https://medium.com/p/d371be23a2b9) |
 | Sat, 10 Jan 2026 22:41:53 GMT | Document, Don’t Just Experience | Techinfo | [Read More](https://medium.com/p/f22ae37c9a42) |
-| Sat, 10 Jan 2026 22:39:32 GMT | TOP WEB challenge -- FahemSec | Salma Muhamed | [Read More](https://medium.com/p/fde09f1217bb) |
-| Sat, 10 Jan 2026 22:30:20 GMT | Vulnyx “Exec” CTF Writeup | sabR | [Read More](https://medium.com/p/9663b63caa71) |
-| Sat, 10 Jan 2026 22:22:20 GMT | Hands‑On CAN Bus Practical Using Free Tools (Step‑by‑Step, Legal & Safe) | Kirthi | [Read More](https://medium.com/p/84fac302e560) |
-| Sat, 10 Jan 2026 22:15:00 GMT | Cybersecurity Is an Ocean: Why Ethical Hacking Alone Is Not Enough for Beginners | Sudheesh | [Read More](https://medium.com/p/100cb8494c3c) |
-| Sat, 10 Jan 2026 21:55:29 GMT | Building My First DHCP Network in Cisco Packet Tracer | Grace Jaman | [Read More](https://medium.com/p/2f71d68126f8) |
-| Sat, 10 Jan 2026 21:40:18 GMT | Questioning Objectivity: A Critical Analysis of “Expert Reviews” in Online Dating Sites | AKUMAAYORI | [Read More](https://medium.com/p/44d2b3d3ef7b) |
-| Sat, 10 Jan 2026 21:33:14 GMT | One difficult virtual machine startup Problem: The quest to find a solution | Umar Al-Mahfuz | [Read More](https://medium.com/p/1c100c953591) |
-| Sat, 10 Jan 2026 21:27:29 GMT | Advent of Cyber — Day 12: Phishing — Phishmas Greetings | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/9e34e1487413) |
-| Sat, 10 Jan 2026 21:27:07 GMT | Securing AI Systems: The New Frontier of Cybersecurity | Nayan Goel | [Read More](https://medium.com/p/525a5844a3fc) |
-| Sat, 10 Jan 2026 21:23:31 GMT | Advent of Cyber — Day 11: XSS — Merry XSSMas | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/087c9a2d4e44) |
-| Sat, 10 Jan 2026 21:21:51 GMT | How to Check a Hash Value with PowerShell | Ryan Revell | [Read More](https://medium.com/p/0f87f1583fde) |
