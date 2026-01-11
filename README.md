@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 11 Jan 2026 16:13:16 GMT | The React Security Winter: Navigating the 2025–2026 Vulnerability Wave | Sanniv Bhaiya | [Read More](https://medium.com/p/507d74292a43) |
+| Sun, 11 Jan 2026 16:09:45 GMT | Analysis as the Core Component of Intelligence and Counterintelligence Support in High-Risk… | Andrey Spiridonov | [Read More](https://medium.com/p/659492d665d6) |
+| Sun, 11 Jan 2026 16:09:38 GMT | Operating Systems | Joyii | [Read More](https://medium.com/p/d0e34b5b2f70) |
+| Sun, 11 Jan 2026 16:02:48 GMT | Why “Trusted Devices” Can Quietly Become a Security Risk Over Time | Grace Chukwunta | [Read More](https://medium.com/p/75ca289801ad) |
+| Sun, 11 Jan 2026 15:54:02 GMT | BUSINESS LOGIC ISSUES | Cybernight | [Read More](https://medium.com/p/54f9962267e5) |
+| Sun, 11 Jan 2026 15:53:21 GMT | Strong Password Generator: Your Ultimate Guide to Secure Online Protection | Sandeep Sharma | [Read More](https://medium.com/p/ce8d96272f2a) |
+| Sun, 11 Jan 2026 15:52:44 GMT | Subnetting Without Fear (Simple Math, Real Examples) | Shalu | [Read More](https://medium.com/p/2911894d8bea) |
+| Sun, 11 Jan 2026 15:46:01 GMT | Cyrethium / Securonis Archive : Technical Evolution of a Privacy-Centric Linux Distribution | root0emir | [Read More](https://medium.com/p/d9b362f53a8e) |
+| Sun, 11 Jan 2026 15:43:16 GMT | Furhire Writeup (BugForge) | 7s26Simon | [Read More](https://medium.com/p/83a1be8dee83) |
 | Sun, 11 Jan 2026 15:32:49 GMT | 4 AI & Dev Tools That Changed My Life (And Saved Me 20+ Hours a Week) | Sumit Sharma | [Read More](https://medium.com/p/3c1feec4b699) |
 | Sun, 11 Jan 2026 15:28:36 GMT | This Endpoint Was “Read-Only” — Until I Read Everything | Iski | [Read More](https://medium.com/p/c157154bdb99) |
 | Sun, 11 Jan 2026 15:28:12 GMT | Transient Parades | Niraah RI | [Read More](https://medium.com/p/055fd111c111) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 11 Jan 2026 08:31:37 GMT | The Ghost of Yes | Beautiful Haunts | [Read More](https://medium.com/p/f5b1d8d42dd5) |
 | Sun, 11 Jan 2026 08:28:14 GMT | JSON Web Token (JWT) — Why, How, Structure, Attacks & Defenses | Suraj Bhandari | [Read More](https://medium.com/p/11a238cebfff) |
 | Sun, 11 Jan 2026 08:28:12 GMT | Sentinel: An Identity Provider with Auth 2.0 and OIDC Framework | Samyak Choudhary | [Read More](https://medium.com/p/0d091f574f3e) |
-| Sun, 11 Jan 2026 08:19:46 GMT | How to pass the PNPT (2026) | mr-3 | [Read More](https://medium.com/p/9144d37aae3e) |
-| Sun, 11 Jan 2026 08:12:55 GMT | Never Talk to a Spammers Again: The iOS 26 Setting That Kills Spam Forever. | apple inside | [Read More](https://medium.com/p/a76051e59ea4) |
-| Sun, 11 Jan 2026 08:09:40 GMT | For Growth PMs in early 2026, focus on AI-driven personalization, deep customer feedback loops… | Ravikant Vishwakarma | [Read More](https://medium.com/p/80023f72e30b) |
-| Sun, 11 Jan 2026 08:08:07 GMT | SYSTEM ONLINE: ByteMeCTF Registration is Officially OPEN! | OWASP PCCoE | [Read More](https://medium.com/p/03d92567466b) |
-| Sun, 11 Jan 2026 08:02:47 GMT | [PortSwigger] [Apprentice] Lab: CSRF vulnerability with no defenses | Javiki | [Read More](https://medium.com/p/e0fb7a009e43) |
-| Sun, 11 Jan 2026 08:02:46 GMT | The State of Deepfakes in 2026: Why Seeing is No Longer Believing | MayhemCode | [Read More](https://medium.com/p/6cf12316649d) |
-| Sun, 11 Jan 2026 08:01:00 GMT | From Frontend to Firewalls | Faria Ejaz | [Read More](https://medium.com/p/e079181a9adf) |
-| Sun, 11 Jan 2026 07:55:17 GMT | A Furry SQLi with BugForge | 0ber1n | [Read More](https://medium.com/p/1e8e479d4c4f) |
-| Sun, 11 Jan 2026 07:53:57 GMT | Geopolitical Drivers and Cyber Statecraft in the U.S. Intervention in Venezuela | BeGoodToAll | [Read More](https://medium.com/p/a967a6a1fc40) |
