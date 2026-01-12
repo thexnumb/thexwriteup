@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 22:34:04 GMT | Fellow.ai Is SOC 2, HIPAA, GDPR, and CCPA Compliant: Here’s What That Means for You | Manuela Bárcenas | [Read More](https://medium.com/p/36b352da504a) |
+| Mon, 12 Jan 2026 22:17:22 GMT | Dig Dug TryHackMe Write UP | cat0x01 | [Read More](https://medium.com/p/0d8ee652c775) |
 | Mon, 12 Jan 2026 22:09:28 GMT | The C4 Model for Data Architects, with Databricks and Unity Catalog — The Operating Model | Dominic K | [Read More](https://medium.com/p/a05f1d19f7c7) |
 | Mon, 12 Jan 2026 21:47:16 GMT | The 2026 Production Checklist: 5 Things Your Next.js VPS Deployment is Missing | Florid Maclean | [Read More](https://medium.com/p/f31e87be885c) |
 | Mon, 12 Jan 2026 21:45:42 GMT | Network Security: A Practical, Expert Guide to Protecting Modern Digital Infrastructure | Arbsbuy LLC | [Read More](https://medium.com/p/b597f9a0e2a1) |
@@ -113,5 +115,3 @@ Most people think cyber attacks happen only… | Samandar Qosimov | [Read More](
 | Mon, 12 Jan 2026 16:15:33 GMT | Intelligence — Hack The Box | JY00X3 | [Read More](https://medium.com/p/1df96554c70b) |
 | Mon, 12 Jan 2026 16:14:42 GMT | Can I Contact McAfee Customer Service Number UK | Zuerevalexander | [Read More](https://medium.com/p/a8db87bff558) |
 | Mon, 12 Jan 2026 16:12:44 GMT | Hackviser Linux temelleri sınav makinesi çözümü | Zeynep Keman | [Read More](https://medium.com/p/073cf1984175) |
-| Mon, 12 Jan 2026 16:12:08 GMT | Why We Believe Security Shouldn’t Be Pay-to-Play | SOCFortress | [Read More](https://medium.com/p/935db4660d25) |
-| Mon, 12 Jan 2026 15:49:28 GMT | Moving mutable tags to immutable trust using digests | Christian Frank Johannsen | [Read More](https://medium.com/p/2d945f799d72) |
