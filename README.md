@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 03:33:26 GMT | Residential vs Datacenter Proxies: What Detection Systems Look For | Nilanka Wijemuni | [Read More](https://medium.com/p/09baf67c707b) |
+| Mon, 12 Jan 2026 03:32:03 GMT | Technical Analysis of an Sagerunex Backdoor Variant | Robert | [Read More](https://medium.com/p/5d70f1a89488) |
+| Mon, 12 Jan 2026 03:29:25 GMT | Installing Security Onion in VirtualBox: A Complete Beginner’s Guide | Mavanidharmik | [Read More](https://medium.com/p/9e83d0ed3d7d) |
+| Mon, 12 Jan 2026 03:19:15 GMT | Security 101: The Mutual Handshake — Understanding mTLS and Two-Way Trust | Kunal Sinha | [Read More](https://medium.com/p/abe73d020ec8) |
+| Mon, 12 Jan 2026 03:13:45 GMT | 受夠了 Keycloak 的複雜？黑馬 Authentik 會是你的輕量級救星嗎？ | Ossie | [Read More](https://medium.com/p/5842f5e4e90e) |
+| Mon, 12 Jan 2026 03:07:08 GMT | What Changed This Week in AI Accountability (And Why It Actually Matters) | A D | [Read More](https://medium.com/p/7da5a3ab33da) |
+| Mon, 12 Jan 2026 03:00:52 GMT | “Private Mode” is a lie. Here is how I actually stopped AI from training on my life. | Volture Luxe | [Read More](https://medium.com/p/c210495284c7) |
+| Mon, 12 Jan 2026 02:58:54 GMT | AI-Assisted Reverse Engineering & Analysis | Paritosh | [Read More](https://medium.com/p/5352014bb350) |
+| Mon, 12 Jan 2026 02:51:06 GMT | Unlocking the Power of Crunch: Advanced Wordlist Crafting for Professional Pentesters ⚙️ | Cybeague Technologies | [Read More](https://medium.com/p/ce0c363572c9) |
+| Mon, 12 Jan 2026 02:50:03 GMT | Getting Started with Crunch: The Fast Lane to Smart Wordlist Generation | Cybeague Technologies | [Read More](https://medium.com/p/68f9038a859c) |
+| Mon, 12 Jan 2026 02:45:10 GMT | Stop Your Boss From Spying: The Best Webcam Covers and Privacy Screens | Paul Jacky | [Read More](https://medium.com/p/b44d441bb839) |
+| Mon, 12 Jan 2026 02:26:35 GMT | Change Your IP Address Every 3 Seconds: How IP Rotation Protects Your Privacy | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/8183b9a02a74) |
+| Mon, 12 Jan 2026 02:11:16 GMT | Bruteforce Helper tool by Ryan Cham Rui Yang | Ryan Cham Rui Yang | [Read More](https://medium.com/p/5402dec1c744) |
 | Mon, 12 Jan 2026 01:30:14 GMT | ☕ Master CISSP Domain 4: 40 Coffee Shot Questions (Part 2 of 2) | Pushpak Sharma | [Read More](https://medium.com/p/c075a3ace2f2) |
 | Mon, 12 Jan 2026 01:21:52 GMT | Hi Everyone! | Andrew Zhen | [Read More](https://medium.com/p/aba19818676a) |
 | Mon, 12 Jan 2026 01:06:53 GMT | The Honest Mechanic’s Trust: A Second Marriage Story of Love and Security | kate spider | [Read More](https://medium.com/p/ea6964940031) |
@@ -102,16 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 Its compression. | R. D. | [Read More](https://medium.com/p/99bbec9316e7) |
 | Sun, 11 Jan 2026 17:51:44 GMT | How I Built Keycloak Audit Logging That Actually Works | Rio Wiraldhani | [Read More](https://medium.com/p/25eab4f17a57) |
 | Sun, 11 Jan 2026 17:51:39 GMT | How I Built Keycloak Audit Logging That Actually Works | Rio Wiraldhani | [Read More](https://medium.com/p/0933ec04c995) |
-| Sun, 11 Jan 2026 17:49:36 GMT | Finding Remote Code Execution in Google: A Bug Hunter’s Story | zabit majeed | [Read More](https://medium.com/p/7b22656ecf6b) |
-| Sun, 11 Jan 2026 17:41:37 GMT | CloudGoat Beanstalk Secrets Walkthrough | Spookz | [Read More](https://medium.com/p/aee3c92d9d29) |
-| Sun, 11 Jan 2026 17:39:50 GMT | DNS Explained: Complete Guide to Domain Name System (2026) | Gatecrasher01 | [Read More](https://medium.com/p/95f35ff57b5f) |
-| Sun, 11 Jan 2026 17:37:36 GMT | Repository Pattern的理解 | 思維舞步 MindSteps | [Read More](https://medium.com/p/5f0fb12d384f) |
-| Sun, 11 Jan 2026 17:26:31 GMT | How DNS Works and Reconnaissance Techniques | mohandika | [Read More](https://medium.com/p/d266659c679c) |
-| Sun, 11 Jan 2026 17:21:09 GMT | Web Security Part 2: Practical Tools to Improve Security | Alabi Temitope David | [Read More](https://medium.com/p/1d287b000b39) |
-| Sun, 11 Jan 2026 17:19:54 GMT | Proving Grounds - Zab | jniket | [Read More](https://medium.com/p/12d864d557a5) |
-| Sun, 11 Jan 2026 17:19:10 GMT | Week 2 Linux Internals and the Assumptions We Carry Into Security | Sujhal Gurav | [Read More](https://medium.com/p/cc1fdf2e4c0a) |
-| Sun, 11 Jan 2026 17:13:28 GMT | The Pulse of Reality: Geometric Logic and the Mastery of Probability in 2026’s Quantum Gateways | Shreya Palase | [Read More](https://medium.com/p/ea7718c1c2ac) |
-| Sun, 11 Jan 2026 17:12:11 GMT | Why Candidates Struggle to Explain Forward vs. Reverse Proxy in Interviews? | Sonia | [Read More](https://medium.com/p/542eb31e2bbb) |
-| Sun, 11 Jan 2026 17:10:54 GMT | “Bug Bounty Bootcamp #13: Open Redirects — The Hacker’s Ultimate ‘Force Multiplier’” | Aman Sharma | [Read More](https://medium.com/p/bdab5f50c81d) |
-| Sun, 11 Jan 2026 17:08:10 GMT | Unmasking “Sp1ritFyre” — The MSP Data Breach Investigation | Eeshan Agrawal | [Read More](https://medium.com/p/77d3db68c11b) |
-| Sun, 11 Jan 2026 17:06:58 GMT | Exploit Weak Bucket Policies for Privileged Access | Reju Kole | [Read More](https://medium.com/p/54ccf5ecb5a9) |
