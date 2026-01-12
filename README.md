@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 23:27:31 GMT | The Development, Applications, and Future of AI Music | WANG HAO | [Read More](https://medium.com/p/2127ca9a12bd) |
+| Mon, 12 Jan 2026 23:22:46 GMT | Chaining Vulnerabilities | Tony | [Read More](https://medium.com/p/5e999c8b32de) |
 | Mon, 12 Jan 2026 23:14:00 GMT | Why Cybersecurity Is Everyone’s Problem, Not Just IT? | It's Alghifari | [Read More](https://medium.com/p/fe690ba1e5d8) |
 | Mon, 12 Jan 2026 23:02:53 GMT | Reminder: Your Medium Folder Names Are Visible to Authors | Berend Watchus | [Read More](https://medium.com/p/6d335ade9f7b) |
 | Mon, 12 Jan 2026 22:50:55 GMT | When Trust Becomes the Attack Vector: Understanding Supply Chain Attacks in AppSec | Mansi Mahamuni | [Read More](https://medium.com/p/87f0f2c44bb3) |
@@ -113,5 +115,3 @@ Most people think cyber attacks happen only… | Samandar Qosimov | [Read More](
 | Mon, 12 Jan 2026 16:38:50 GMT | The Ephialtes Edge: Why Thermopylae Proves Your Firewall Will Fail | Levente Simon | [Read More](https://medium.com/p/cdbfe819b423) |
 | Mon, 12 Jan 2026 16:34:22 GMT | ️Offensive vs Defensive Security: Основи та Ролі | Erina Elder | [Read More](https://medium.com/p/2c4bdf16193e) |
 | Mon, 12 Jan 2026 16:32:43 GMT | Cybersecurity Skills That Will Be Mandatory in 2026 | 4Achievers | [Read More](https://medium.com/p/ed3b74b7a3f8) |
-| Mon, 12 Jan 2026 16:32:20 GMT | The Human Factor in Cybersecurity: People Are the Strongest Asset, Yet the Weakest Link | Ganesh | [Read More](https://medium.com/p/f9dc960994cc) |
-| Mon, 12 Jan 2026 16:30:53 GMT | CPTS (Certified Penetration Testing Specialist) A Honest Review | Hamood Naseer Al-Marhoubi | [Read More](https://medium.com/p/b6904e845791) |
