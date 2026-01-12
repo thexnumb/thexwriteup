@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 07:44:04 GMT | Invite Only. TryHackMe Walkthrough | Lintu Oommen | [Read More](https://medium.com/p/e951df12d533) |
+| Mon, 12 Jan 2026 07:40:54 GMT | “Going Against the (Appropriate) Flow: A Contextual Integrity Approach to Privacy Policy Analysis”… | Alif Hadiyanto | [Read More](https://medium.com/p/8a122065fbbb) |
+| Mon, 12 Jan 2026 07:33:37 GMT | 12 Powerful Ways They’re Transforming Learning in 2026 | School of Coding & AI | [Read More](https://medium.com/p/bd24ab432043) |
+| Mon, 12 Jan 2026 07:33:27 GMT | “Confidante: Usable Encrypted Email — A Case Study With Lawyers and Journalists” oleh Ada Lerner… | Alif Hadiyanto | [Read More](https://medium.com/p/63871563e529) |
+| Mon, 12 Jan 2026 07:31:26 GMT | Linux Command for Beginners | KISHORE S | [Read More](https://medium.com/p/1ae946a6caac) |
 | Mon, 12 Jan 2026 07:24:23 GMT | Custom Automation Made Simple — Hire N8N Developer | n8ndevelopers | [Read More](https://medium.com/p/99d0c77231b8) |
 | Mon, 12 Jan 2026 07:13:58 GMT | Fixing S3 Security Issues: A Practical Remediation Guide | Tarek CHEIKH | [Read More](https://medium.com/p/203088323b4d) |
 | Mon, 12 Jan 2026 07:13:57 GMT | I Built a Free AWS IAM Activity Tracker Because CloudTrail Alone Isn’t Enough | Tarek CHEIKH | [Read More](https://medium.com/p/a9e81fd762f2) |
@@ -64,6 +69,7 @@ As part of our ongoing… | Ankit rai | [Read More](https://medium.com/p/d0fd40a
 | Mon, 12 Jan 2026 04:50:06 GMT | Inside the 17.5 Million Instagram Data Exposure | Deven Chhajed | [Read More](https://medium.com/p/4237b07b9449) |
 | Mon, 12 Jan 2026 04:44:05 GMT | Zero Trust Architecture: The Future of Cybersecurity | Devarshi Acharya | [Read More](https://medium.com/p/0ca4e3349638) |
 | Mon, 12 Jan 2026 04:42:52 GMT | Active directory hacking part 2 | Jwegrzyn | [Read More](https://medium.com/p/b450a9b9069d) |
+| Mon, 12 Jan 2026 04:34:29 GMT | XFS: El tendón de Aquiles de los Cajeros Automáticos | Carlos Pastrana | [Read More](https://medium.com/p/0779d0e00985) |
 | Mon, 12 Jan 2026 04:33:43 GMT | Why Breach and Attack Simulation Drives Action | Digital Duffer | [Read More](https://medium.com/p/efe550f95fad) |
 | Mon, 12 Jan 2026 04:32:21 GMT | Breach and Attack Simulation | Digital Duffer | [Read More](https://medium.com/p/cf3df4a3e8a4) |
 | Mon, 12 Jan 2026 04:30:18 GMT | Securing the Future of the UAE: Techfra Solutions Integrates Safety and Innovation | techfra solutions | [Read More](https://medium.com/p/733fb3511c05) |
@@ -107,9 +113,3 @@ As part of our ongoing… | Ankit rai | [Read More](https://medium.com/p/d0fd40a
 | Sun, 11 Jan 2026 23:47:59 GMT | Cloud SIEM & SOC Operations Project — Microsoft Sentinel + Defender XDR. | Ib2dk | [Read More](https://medium.com/p/036fb752eaef) |
 | Sun, 11 Jan 2026 23:47:30 GMT | Defense-in-Depth for AI Agents: Why Input Security Isn’t Enough | David Anderson | [Read More](https://medium.com/p/ba310c50a3f1) |
 | Sun, 11 Jan 2026 23:35:40 GMT | I turned a $10 ESP32-C6 into a real-time Internet & DNS diagnostics node. | Fahim Rahman | [Read More](https://medium.com/p/6a76596d7d99) |
-| Sun, 11 Jan 2026 23:31:41 GMT | Comprehensive & Rigorous VAPT Framework for Next.js Applications | Mohammad Abir Abbas | [Read More](https://medium.com/p/fa437b3b5e55) |
-| Sun, 11 Jan 2026 23:26:36 GMT | Beyond the Perimeter: Analyzing IAM Credential Exfiltration and Metadata Exploitation via OWASP… | Samuel Nartey | [Read More](https://medium.com/p/302ce3395ce7) |
-| Sun, 11 Jan 2026 22:59:20 GMT | Security Shorts Volume 1 — Defence in Depth for Blockchain | L Strawbridge | [Read More](https://medium.com/p/d2586e20dc58) |
-| Sun, 11 Jan 2026 22:55:23 GMT | Fortigate Installation (VM) | Mehmet Ali Gülyurdu | [Read More](https://medium.com/p/b8d312c465fa) |
-| Sun, 11 Jan 2026 22:55:15 GMT | Professional Ethical Hacking & Digital Investigation Services. | Private-hackers.com | [Read More](https://medium.com/p/dfe556433b74) |
-| Sun, 11 Jan 2026 22:48:50 GMT | To Be Seen | Savannah Gilmore | [Read More](https://medium.com/p/a3ba6509ffad) |
