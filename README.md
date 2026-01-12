@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 14:46:14 GMT | The “New” OWASP Top 10: Why We’re Treating “Insecure Design” as a Personal Attack | Rebecca Cottignies | [Read More](https://medium.com/p/8ee9ca066164) |
+| Mon, 12 Jan 2026 14:42:27 GMT | Where Responsible AI Theory Fails Under Pressure | Rajendra Medhi | [Read More](https://medium.com/p/d31c9afe3838) |
+| Mon, 12 Jan 2026 14:39:19 GMT | Cybersecurity in 2026: AI, Zero Trust & the New Age of Automated Attacks | Niharika | [Read More](https://medium.com/p/b1648ff44e02) |
+| Mon, 12 Jan 2026 14:32:45 GMT | Capturing Passwords and Cookies in the Network: A Comprehensive Guide to Using Wireshark | Vignesh R | [Read More](https://medium.com/p/f50ceae5867a) |
+| Mon, 12 Jan 2026 14:27:10 GMT | From CES to the Living Room: AI, Convenience, and Risk | Jeff Kingsland | [Read More](https://medium.com/p/552e4b4484ba) |
 | Mon, 12 Jan 2026 14:10:56 GMT | SOS: Your Google Drive Files May Visible to Everyone  (Fix This Now) | Duaa Al hassan | [Read More](https://medium.com/p/49927c417045) |
+| Mon, 12 Jan 2026 14:09:36 GMT | STOLEN TOKENS, NOT STOLEN PASSWORDS: Why Token Protection Is the Third Zero Trust Pillar in… | JoaoP. | [Read More](https://medium.com/p/97b92bd9e29b) |
 | Mon, 12 Jan 2026 14:03:06 GMT | How I Use Bash Scripts to Protect My Home Network — You Can Too | Cyber Tsunami | [Read More](https://medium.com/p/704f251454c0) |
 | Mon, 12 Jan 2026 13:50:50 GMT | Do We Really Understand What a Vulnerability Is? | MouhibMahadbi | [Read More](https://medium.com/p/91f858d4aa91) |
 | Mon, 12 Jan 2026 13:50:16 GMT | Why Africa Must Prepare for Post-Quantum Cybersecurity Now | Tim Murkomen | [Read More](https://medium.com/p/933a6e324e66) |
@@ -50,6 +56,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 Jan 2026 12:06:40 GMT | Some women lie about their real Age. | Ashley Baddie ❣️ | [Read More](https://medium.com/p/2a6082661306) |
 | Mon, 12 Jan 2026 12:02:55 GMT | Writeup for picoCTF challenge “Cookie Monster Secret Recipe” | Walter Moar | [Read More](https://medium.com/p/becc9aac787c) |
 | Mon, 12 Jan 2026 12:00:54 GMT | Blockchain & Crypto Cybersecurity in 2026 | David SEHYEON Baek | [Read More](https://medium.com/p/ed1c32f1b83a) |
+| Mon, 12 Jan 2026 11:58:39 GMT | Perkembangan Teknologi Informasi dan Tantangannya di Era Digital | pltys.a | [Read More](https://medium.com/p/d76769062d97) |
 | Mon, 12 Jan 2026 11:47:07 GMT | DMZ : KURUMSAL KALENİN DİJİTAL HİSARI | Hsdfsmvu | [Read More](https://medium.com/p/afd59b76a2f5) |
 | Mon, 12 Jan 2026 11:45:58 GMT | How Professional Security Camera Installation Improves Safety | ArcEye Defense of St. Louis | [Read More](https://medium.com/p/6f7d6124f27b) |
 | Mon, 12 Jan 2026 11:41:56 GMT | Why the Human Mind Is the Weakest Link in Cybersecurity | Sooraj Pandey | [Read More](https://medium.com/p/8b6fa318e06f) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 Jan 2026 09:18:31 GMT | France Just Released Data on Political Islam That Should Make Every Democracy Uncomfortable | Ryan Anderson | [Read More](https://medium.com/p/58fa2da2e6bc) |
 | Mon, 12 Jan 2026 09:16:53 GMT | The Future of AI in Web Security: Redefining Threat Detection | Nakiboddin Saiyad | [Read More](https://medium.com/p/d9a04276adbb) |
 | Mon, 12 Jan 2026 09:16:37 GMT | 100 Days of Cyber: What I Learned — And Where We’re Heading | Fook Hwa Tan | [Read More](https://medium.com/p/a14652506bc6) |
-| Mon, 12 Jan 2026 09:12:15 GMT | Industrial Site Security in 2026: Why Regular Reviews Matter More Than Ever | ICORP Security | [Read More](https://medium.com/p/d31d72d6d0b5) |
-| Mon, 12 Jan 2026 09:07:37 GMT | Skills Assesment on Hack The Box lab : SQL Injections Fundamental — medium difficulty | Eddyrakotobe | [Read More](https://medium.com/p/694dae3f57c7) |
-| Mon, 12 Jan 2026 09:07:26 GMT | Trust, Transparency, And Security: Insights From The Instagram Incident | Redfox Security | [Read More](https://medium.com/p/68782aaa7374) |
-| Mon, 12 Jan 2026 09:01:29 GMT | OWASP Top Ten 2025 for Web Applications | ShiftLeftSec | [Read More](https://medium.com/p/3b885dd21032) |
-| Mon, 12 Jan 2026 08:56:37 GMT | From Raw Data to Business Decisions: Your Organization Makes Data an Asset or Liability. | Daniel | [Read More](https://medium.com/p/3749863eb052) |
-| Mon, 12 Jan 2026 08:56:33 GMT | Linux Commands: A Complete Beginner’s Guide | Anila Ashraf | [Read More](https://medium.com/p/cd8fd633e195) |
-| Mon, 12 Jan 2026 08:42:39 GMT | Capcut Pro Apk | genzvnmod | [Read More](https://medium.com/p/c0e93d7e0f1d) |
