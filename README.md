@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 08:31:41 GMT | Ransomware in 2026: What Changed? | Shruti Saxena | [Read More](https://medium.com/p/8293096700b2) |
+| Mon, 12 Jan 2026 08:29:06 GMT | Bus Simulator Vietnam Apk | Game4u | [Read More](https://medium.com/p/b3fbb212b289) |
+| Mon, 12 Jan 2026 08:28:53 GMT | Agentic AI 2026 represents a significant evolution from conventional AI systems. | RankRise1 | [Read More](https://medium.com/p/c7c1cd00e786) |
+| Mon, 12 Jan 2026 08:26:27 GMT | Innovation in Disconnected Networks: How We Streamline Apps with Electron.js | Natalie Tan | [Read More](https://medium.com/p/0d1c93e9ec00) |
+| Mon, 12 Jan 2026 08:25:23 GMT | The Tiny Auth Misstep That Hid a Login Bypass for Three Years | 1$ Mistake | [Read More](https://medium.com/p/fa8bb31e4034) |
+| Mon, 12 Jan 2026 08:22:11 GMT | Goodbye Cypher, Hello LDAP: Querying Neo4j with Neo4LDAP | Alejandro Rivera León | [Read More](https://medium.com/p/5e6466426a01) |
+| Mon, 12 Jan 2026 08:20:03 GMT | Security Operations Center Basics Part-1 | Soham Dhamale | [Read More](https://medium.com/p/e385b2123a1e) |
+| Mon, 12 Jan 2026 08:17:12 GMT | How Outsourcing PCI SSF Fuels Fintech Growth? | Supun Harshana | [Read More](https://medium.com/p/31d24559cba2) |
+| Mon, 12 Jan 2026 08:16:52 GMT | AI Firewalls: The Ultimate Defense for Fintech Innovation | Roshankappala | [Read More](https://medium.com/p/cb376d21d616) |
+| Mon, 12 Jan 2026 08:13:05 GMT | The Becoming Journal — Why I Started This | Clark P. | [Read More](https://medium.com/p/17ca12d401da) |
+| Mon, 12 Jan 2026 08:10:56 GMT | Scraping Isn’t a Breach — But It Doesn’t Matter | Denny Roger | [Read More](https://medium.com/p/308d640474d9) |
+| Mon, 12 Jan 2026 08:10:39 GMT | FaceB Account Got Hacked. When a Game Turned into a Nightmare | Faseeh Zulqernain | [Read More](https://medium.com/p/dd15d08a8d3d) |
+| Mon, 12 Jan 2026 08:09:32 GMT | 7 Mistakes You’re Making with Cybersecurity Training in 2026 (and How Ransomware Groups Exploit… | Dr.  Mack Jackson Jr | [Read More](https://medium.com/p/57cbbfaaaaac) |
+| Mon, 12 Jan 2026 08:09:10 GMT | How Reliable IT Keeps Manufacturing Production Running 24×7 | DC9India | [Read More](https://medium.com/p/583caa3172aa) |
+| Mon, 12 Jan 2026 08:02:57 GMT | CVE-2026–0625 Explained: How to Secure D-Link DSL Routers Before It’s Too Late | Motasem Hamdan | [Read More](https://medium.com/p/eeee045cad70) |
+| Mon, 12 Jan 2026 08:02:02 GMT | Transform Your Computer Security With Antivirus for Windows | Siyanoav | [Read More](https://medium.com/p/a6a6dfcdd63d) |
+| Mon, 12 Jan 2026 07:58:17 GMT | Top 50 SOC Analyst Interview Questions and Answers (2026 Updated) | Manisha Chaudhary | [Read More](https://medium.com/p/334ad1afb943) |
+| Mon, 12 Jan 2026 07:49:35 GMT | Day 2 of the Bug Bounty Bootcamp: Learning Scope, Recon & Smart Targeting | Faizan Nazir | [Read More](https://medium.com/p/11fd85874b2a) |
+| Mon, 12 Jan 2026 07:46:57 GMT | React2Shell turned the harmless OopsSec Store page into full server access | OopsSec Store | [Read More](https://medium.com/p/2e42cf0faede) |
 | Mon, 12 Jan 2026 07:44:04 GMT | Invite Only. TryHackMe Walkthrough | Lintu Oommen | [Read More](https://medium.com/p/e951df12d533) |
 | Mon, 12 Jan 2026 07:40:54 GMT | “Going Against the (Appropriate) Flow: A Contextual Integrity Approach to Privacy Policy Analysis”… | Alif Hadiyanto | [Read More](https://medium.com/p/8a122065fbbb) |
 | Mon, 12 Jan 2026 07:33:37 GMT | 12 Powerful Ways They’re Transforming Learning in 2026 | School of Coding & AI | [Read More](https://medium.com/p/bd24ab432043) |
@@ -94,22 +113,3 @@ As part of our ongoing… | Ankit rai | [Read More](https://medium.com/p/d0fd40a
 | Mon, 12 Jan 2026 02:58:54 GMT | AI-Assisted Reverse Engineering & Analysis | Paritosh | [Read More](https://medium.com/p/5352014bb350) |
 | Mon, 12 Jan 2026 02:51:06 GMT | Unlocking the Power of Crunch: Advanced Wordlist Crafting for Professional Pentesters ⚙️ | Cybeague Technologies | [Read More](https://medium.com/p/ce0c363572c9) |
 | Mon, 12 Jan 2026 02:50:03 GMT | Getting Started with Crunch: The Fast Lane to Smart Wordlist Generation | Cybeague Technologies | [Read More](https://medium.com/p/68f9038a859c) |
-| Mon, 12 Jan 2026 02:45:10 GMT | Stop Your Boss From Spying: The Best Webcam Covers and Privacy Screens | Paul Jacky | [Read More](https://medium.com/p/b44d441bb839) |
-| Mon, 12 Jan 2026 02:37:39 GMT | Enjoy 60% Off Domain Purchases at GoDaddy | Estelaluo | [Read More](https://medium.com/p/4be79853c5a7) |
-| Mon, 12 Jan 2026 02:26:35 GMT | Change Your IP Address Every 3 Seconds: How IP Rotation Protects Your Privacy | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/8183b9a02a74) |
-| Mon, 12 Jan 2026 02:11:16 GMT | Bruteforce Helper tool by Ryan Cham Rui Yang | Ryan Cham Rui Yang | [Read More](https://medium.com/p/5402dec1c744) |
-| Mon, 12 Jan 2026 01:30:14 GMT | ☕ Master CISSP Domain 4: 40 Coffee Shot Questions (Part 2 of 2) | Pushpak Sharma | [Read More](https://medium.com/p/c075a3ace2f2) |
-| Mon, 12 Jan 2026 01:21:52 GMT | Hi Everyone! | Andrew Zhen | [Read More](https://medium.com/p/aba19818676a) |
-| Mon, 12 Jan 2026 01:06:53 GMT | The Honest Mechanic’s Trust: A Second Marriage Story of Love and Security | kate spider | [Read More](https://medium.com/p/ea6964940031) |
-| Mon, 12 Jan 2026 00:58:29 GMT | Device Control to Digital Experience | Venkat teja Peram | [Read More](https://medium.com/p/d2a87f0c1b90) |
-| Mon, 12 Jan 2026 00:48:40 GMT | Is your phone hacked? Warning signs to know | Techwizs | [Read More](https://medium.com/p/b281c40bd0ac) |
-| Mon, 12 Jan 2026 00:38:37 GMT | Threat Modeling Guide: STRIDE, Data Flow Diagrams, Risk Ranking & Mitigations | QuarkAndCode | [Read More](https://medium.com/p/3b4d38613205) |
-| Mon, 12 Jan 2026 00:30:49 GMT | From 550 to 5,500 TPS: Beating TLS Fragmentation in an eBPF Data Path | Apurv Garg | [Read More](https://medium.com/p/49f4d4a12eac) |
-| Mon, 12 Jan 2026 00:17:39 GMT | VulnBank — FahemSec Web Challenge | محمد بن إبراهيم | [Read More](https://medium.com/p/052d97561cbf) |
-| Mon, 12 Jan 2026 00:03:04 GMT | padlock | Bob Withers | [Read More](https://medium.com/p/15d33eaf5577) |
-| Mon, 12 Jan 2026 00:02:50 GMT | LetsDefend — LDAP Enumeration Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/d0a732690d96) |
-| Mon, 12 Jan 2026 00:02:22 GMT | How “Red Teams” Keep Your Data Safe (Legally) | Jialei Q. | [Read More](https://medium.com/p/de4c5d3c5dbb) |
-| Sun, 11 Jan 2026 23:48:09 GMT | The SIEM Blind Spot: Why Traditional Security Tools Miss LLM Attacks | David Anderson | [Read More](https://medium.com/p/3c193e830dbf) |
-| Sun, 11 Jan 2026 23:47:59 GMT | Cloud SIEM & SOC Operations Project — Microsoft Sentinel + Defender XDR. | Ib2dk | [Read More](https://medium.com/p/036fb752eaef) |
-| Sun, 11 Jan 2026 23:47:30 GMT | Defense-in-Depth for AI Agents: Why Input Security Isn’t Enough | David Anderson | [Read More](https://medium.com/p/ba310c50a3f1) |
-| Sun, 11 Jan 2026 23:35:40 GMT | I turned a $10 ESP32-C6 into a real-time Internet & DNS diagnostics node. | Fahim Rahman | [Read More](https://medium.com/p/6a76596d7d99) |
