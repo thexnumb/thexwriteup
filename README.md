@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 23:14:00 GMT | Why Cybersecurity Is Everyone’s Problem, Not Just IT? | It's Alghifari | [Read More](https://medium.com/p/fe690ba1e5d8) |
+| Mon, 12 Jan 2026 23:02:53 GMT | Reminder: Your Medium Folder Names Are Visible to Authors | Berend Watchus | [Read More](https://medium.com/p/6d335ade9f7b) |
+| Mon, 12 Jan 2026 22:50:55 GMT | When Trust Becomes the Attack Vector: Understanding Supply Chain Attacks in AppSec | Mansi Mahamuni | [Read More](https://medium.com/p/87f0f2c44bb3) |
+| Mon, 12 Jan 2026 22:48:50 GMT | Cybersecurity in 2026: A Three-Front War (AI, Geopolitics, Fraud) | Denny Roger | [Read More](https://medium.com/p/69834f2f520c) |
+| Mon, 12 Jan 2026 22:44:40 GMT | Your Instagram Data May Already Be for Sale…! | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/e3c52cd4e1f7) |
 | Mon, 12 Jan 2026 22:34:04 GMT | Fellow.ai Is SOC 2, HIPAA, GDPR, and CCPA Compliant: Here’s What That Means for You | Manuela Bárcenas | [Read More](https://medium.com/p/36b352da504a) |
 | Mon, 12 Jan 2026 22:17:22 GMT | Dig Dug TryHackMe Write UP | cat0x01 | [Read More](https://medium.com/p/0d8ee652c775) |
 | Mon, 12 Jan 2026 22:09:28 GMT | The C4 Model for Data Architects, with Databricks and Unity Catalog — The Operating Model | Dominic K | [Read More](https://medium.com/p/a05f1d19f7c7) |
@@ -110,8 +115,3 @@ Most people think cyber attacks happen only… | Samandar Qosimov | [Read More](
 | Mon, 12 Jan 2026 16:32:43 GMT | Cybersecurity Skills That Will Be Mandatory in 2026 | 4Achievers | [Read More](https://medium.com/p/ed3b74b7a3f8) |
 | Mon, 12 Jan 2026 16:32:20 GMT | The Human Factor in Cybersecurity: People Are the Strongest Asset, Yet the Weakest Link | Ganesh | [Read More](https://medium.com/p/f9dc960994cc) |
 | Mon, 12 Jan 2026 16:30:53 GMT | CPTS (Certified Penetration Testing Specialist) A Honest Review | Hamood Naseer Al-Marhoubi | [Read More](https://medium.com/p/b6904e845791) |
-| Mon, 12 Jan 2026 16:20:33 GMT | Unpacking Microsoft Defender for Office 365: Day 4 SOC Triage—Microsoft Security Exposure… | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/f9c48140db0b) |
-| Mon, 12 Jan 2026 16:20:05 GMT | Cloud Security in 2026: How Organizations Can Protect Data in a Multi-Cloud World | Techridge Solutions | [Read More](https://medium.com/p/02733ee50f1c) |
-| Mon, 12 Jan 2026 16:15:33 GMT | Intelligence — Hack The Box | JY00X3 | [Read More](https://medium.com/p/1df96554c70b) |
-| Mon, 12 Jan 2026 16:14:42 GMT | Can I Contact McAfee Customer Service Number UK | Zuerevalexander | [Read More](https://medium.com/p/a8db87bff558) |
-| Mon, 12 Jan 2026 16:12:44 GMT | Hackviser Linux temelleri sınav makinesi çözümü | Zeynep Keman | [Read More](https://medium.com/p/073cf1984175) |
