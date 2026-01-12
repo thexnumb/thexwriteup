@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 17:41:46 GMT | Bypassing Email Verification via OAuth Misconfiguration | Samet Yiğit | [Read More](https://medium.com/p/cad488c15f2f) |
+| Mon, 12 Jan 2026 17:31:49 GMT | Complete Spring Security Flow: From Request to Response (Part-2) (Spring Boot Series-11) | Asutosh Nayak | [Read More](https://medium.com/p/d360a5d22cd5) |
+| Mon, 12 Jan 2026 17:31:24 GMT | I Found a Scam on Facebook That Targets Bookworms | Jasmin James | [Read More](https://medium.com/p/56662a2cdae6) |
+| Mon, 12 Jan 2026 17:31:06 GMT | Set It and Forget It Cybersecurity? | Digital Uppercut | [Read More](https://medium.com/p/3207fea16346) |
+| Mon, 12 Jan 2026 17:28:59 GMT | Rethinking Browser Security: Inside Atakama’s Evolving DNS Approach | ATAKAMA | [Read More](https://medium.com/p/839a2bd297f4) |
+| Mon, 12 Jan 2026 17:27:59 GMT | ️DC: 6— Complete Walkthrough (Beginner-Friendly) - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/fd8fbb516b82) |
+| Mon, 12 Jan 2026 17:26:43 GMT | Vibe Coding Is Opening the Door for Hackers And Most Developers Don’t See It Coming | The Talent Daily | [Read More](https://medium.com/p/5b0f56117248) |
+| Mon, 12 Jan 2026 17:26:37 GMT | Learning Bash Scripting as a Cyber Security professional — Day 1 | Rue | [Read More](https://medium.com/p/65b56d001ebc) |
 | Mon, 12 Jan 2026 17:21:03 GMT | Why Cybersecurity Needs Hypergame Theory, Not Just Nash Equilibria | Berend Watchus | [Read More](https://medium.com/p/75eac3b4f856) |
 | Mon, 12 Jan 2026 17:16:48 GMT | 4 Shocking Signs He’s Truly Devoted to You (Not Just Playing) | Kay Young | [Read More](https://medium.com/p/f9197710258c) |
 | Mon, 12 Jan 2026 17:08:31 GMT | The Future of Secure Access with Managed Identities and Workload Identity Federation | Brian Veldman | [Read More](https://medium.com/p/8e2199650135) |
@@ -105,11 +113,3 @@ Most people think cyber attacks happen only… | Samandar Qosimov | [Read More](
 | Mon, 12 Jan 2026 12:33:01 GMT | Complete Guide to PostgreSQL RLS in Django: Multi-Tenant Security 2026 | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/874deafe877f) |
 | Mon, 12 Jan 2026 12:29:43 GMT | Allsafe Android Pentesting — Part 3: Hunting Hardcoded Credentials | Mscmkn | [Read More](https://medium.com/p/a946d1375e79) |
 | Mon, 12 Jan 2026 12:27:36 GMT | How To Secure Your Kubernetes Cluster: 9 Proven Practices That Actually Work Let’s Talk About… | Omar ELFarsaoui | [Read More](https://medium.com/p/f7092db2d531) |
-| Mon, 12 Jan 2026 12:25:34 GMT | The Rise of Shadow AI: What Netskope’s 2026 Report Means for GRC Teams | Brittney Ginther | [Read More](https://medium.com/p/e813102d17fb) |
-| Mon, 12 Jan 2026 12:24:45 GMT | The Danger of ‘Yes-AI’ at the Workplace: A Guide for Compliance and Operations Leaders | Taras Kovalchuk | [Read More](https://medium.com/p/08426e700bec) |
-| Mon, 12 Jan 2026 12:18:08 GMT | Recon Hunting en Bug Bounty | Mazinger | [Read More](https://medium.com/p/7b215e2572b1) |
-| Mon, 12 Jan 2026 12:12:30 GMT | Implementing Secure Boot and Silicon-level Cybersecurity in IoT and Embedded Devices? | Epteck GmbH | [Read More](https://medium.com/p/a6572a08eed8) |
-| Mon, 12 Jan 2026 12:06:40 GMT | Some women lie about their real Age. | Ashley Baddie ❣️ | [Read More](https://medium.com/p/2a6082661306) |
-| Mon, 12 Jan 2026 12:02:55 GMT | Writeup for picoCTF challenge “Cookie Monster Secret Recipe” | Walter Moar | [Read More](https://medium.com/p/becc9aac787c) |
-| Mon, 12 Jan 2026 12:00:54 GMT | Blockchain & Crypto Cybersecurity in 2026 | David SEHYEON Baek | [Read More](https://medium.com/p/ed1c32f1b83a) |
-| Mon, 12 Jan 2026 11:58:39 GMT | Perkembangan Teknologi Informasi dan Tantangannya di Era Digital | pltys.a | [Read More](https://medium.com/p/d76769062d97) |
