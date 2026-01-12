@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 09:30:16 GMT | Hands-On Threat Hunting on AWS Using Athena & VPC Flow Logs | Davebhargavi | [Read More](https://medium.com/p/cee69fc9e3df) |
+| Mon, 12 Jan 2026 09:26:29 GMT | IP Whitelist Bypass via Partial String Matching in n8n Webhook Node (CVE-2025–68949) | Berk Dedekargınoğlu | [Read More](https://medium.com/p/9a63b4500c74) |
+| Mon, 12 Jan 2026 09:25:41 GMT | Uoft CTF “Symbol of Hope” challenge Write-up | Zyres | [Read More](https://medium.com/p/7167ed99b141) |
+| Mon, 12 Jan 2026 09:23:00 GMT | Surge in “ClickFix” Fileless Attacks Leveraging LOLBins on Windows | Yeshu Wanjari | [Read More](https://medium.com/p/78be68fa5b22) |
+| Mon, 12 Jan 2026 09:21:30 GMT | The Things I Don’t Say | thethingsidontsay | [Read More](https://medium.com/p/17f776a1a64a) |
+| Mon, 12 Jan 2026 09:20:45 GMT | TryHackMe: K2 (Middle Camp) Writeup | cbev | [Read More](https://medium.com/p/31a9efb886cc) |
+| Mon, 12 Jan 2026 09:18:40 GMT | Total Security Solutions India: Building Safer Spaces with Advanced Electronic Security Solutions | Ciss India | [Read More](https://medium.com/p/03286e10c735) |
+| Mon, 12 Jan 2026 09:18:31 GMT | France Just Released Data on Political Islam That Should Make Every Democracy Uncomfortable | Ryan Anderson | [Read More](https://medium.com/p/58fa2da2e6bc) |
+| Mon, 12 Jan 2026 09:16:53 GMT | The Future of AI in Web Security: Redefining Threat Detection | Nakiboddin Saiyad | [Read More](https://medium.com/p/d9a04276adbb) |
+| Mon, 12 Jan 2026 09:16:37 GMT | 100 Days of Cyber: What I Learned — And Where We’re Heading | Fook Hwa Tan | [Read More](https://medium.com/p/a14652506bc6) |
+| Mon, 12 Jan 2026 09:12:15 GMT | Industrial Site Security in 2026: Why Regular Reviews Matter More Than Ever | ICORP Security | [Read More](https://medium.com/p/d31d72d6d0b5) |
+| Mon, 12 Jan 2026 09:07:37 GMT | Skills Assesment on Hack The Box lab : SQL Injections Fundamental — medium difficulty | Eddyrakotobe | [Read More](https://medium.com/p/694dae3f57c7) |
+| Mon, 12 Jan 2026 09:07:26 GMT | Trust, Transparency, And Security: Insights From The Instagram Incident | Redfox Security | [Read More](https://medium.com/p/68782aaa7374) |
+| Mon, 12 Jan 2026 09:01:29 GMT | OWASP Top Ten 2025 for Web Applications | ShiftLeftSec | [Read More](https://medium.com/p/3b885dd21032) |
+| Mon, 12 Jan 2026 08:56:37 GMT | From Raw Data to Business Decisions: Your Organization Makes Data an Asset or Liability. | Daniel | [Read More](https://medium.com/p/3749863eb052) |
+| Mon, 12 Jan 2026 08:56:33 GMT | Linux Commands: A Complete Beginner’s Guide | Anila Ashraf | [Read More](https://medium.com/p/cd8fd633e195) |
+| Mon, 12 Jan 2026 08:42:39 GMT | Capcut Pro Apk | genzvnmod | [Read More](https://medium.com/p/c0e93d7e0f1d) |
+| Mon, 12 Jan 2026 08:42:00 GMT | Vibe Coder’s Security Mistakes | Abhirup Konwar | [Read More](https://medium.com/p/514089b135dd) |
+| Mon, 12 Jan 2026 08:33:54 GMT | Greenland isn’t the periphery. It’s the world’s crossroads | Jacek Sumislawski | [Read More](https://medium.com/p/d8c7243c2d62) |
 | Mon, 12 Jan 2026 08:31:41 GMT | Ransomware in 2026: What Changed? | Shruti Saxena | [Read More](https://medium.com/p/8293096700b2) |
 | Mon, 12 Jan 2026 08:29:06 GMT | Bus Simulator Vietnam Apk | Game4u | [Read More](https://medium.com/p/b3fbb212b289) |
 | Mon, 12 Jan 2026 08:28:53 GMT | Agentic AI 2026 represents a significant evolution from conventional AI systems. | RankRise1 | [Read More](https://medium.com/p/c7c1cd00e786) |
@@ -94,22 +113,3 @@ As part of our ongoing… | Ankit rai | [Read More](https://medium.com/p/d0fd40a
 | Mon, 12 Jan 2026 04:30:18 GMT | Securing the Future of the UAE: Techfra Solutions Integrates Safety and Innovation | techfra solutions | [Read More](https://medium.com/p/733fb3511c05) |
 | Mon, 12 Jan 2026 04:27:20 GMT | Security 101: Certificate Pinning — When Trust Isn’t Enough | Kunal Sinha | [Read More](https://medium.com/p/8dfc5f1e67a2) |
 | Mon, 12 Jan 2026 04:23:25 GMT | Dissecting the Modbus PDU | ThatOTSecurityGuy | [Read More](https://medium.com/p/034068f23a34) |
-| Mon, 12 Jan 2026 04:17:53 GMT | The ‘Old’ Bug That Won’t Die: Why 10,000+ Fortinet Firewalls Are Still at Risk in 2026 | Manubhav Sharma | [Read More](https://medium.com/p/a3f61bea2187) |
-| Mon, 12 Jan 2026 04:17:32 GMT | Cybersec Ledger January 11, 2026 | Tier Zero Defense | [Read More](https://medium.com/p/d36fab67e1ca) |
-| Mon, 12 Jan 2026 04:14:31 GMT | Malops: Singularity | Cwrw | [Read More](https://medium.com/p/b3653d8fb3be) |
-| Mon, 12 Jan 2026 04:11:26 GMT | Day 6 —  Understanding Web Applications Like a Security Engineer: Attacks, Defenses, and… | NineTales | [Read More](https://medium.com/p/068e9ce6e9fe) |
-| Mon, 12 Jan 2026 04:08:12 GMT | When IT Documentation Is Missing, Risk Takes Over | Zikrullah Danish | [Read More](https://medium.com/p/4e0ce0fb83e1) |
-| Mon, 12 Jan 2026 04:04:29 GMT | Shot of SQL at the Cafe Club — BugForge Daily | 0ber1n | [Read More](https://medium.com/p/8718c4e55a97) |
-| Mon, 12 Jan 2026 04:03:51 GMT | Secure API Key Handling in Android: What Actually Works | Ogak Dev | [Read More](https://medium.com/p/c80286be7e52) |
-| Mon, 12 Jan 2026 03:58:16 GMT | Understanding the Importance of Services Enumeration in Ethical Hacking | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/2248e7533a63) |
-| Mon, 12 Jan 2026 03:57:27 GMT | Strong, Until Nightfall | Unspokenby.P | [Read More](https://medium.com/p/008106e0f5ac) |
-| Mon, 12 Jan 2026 03:33:26 GMT | Residential vs Datacenter Proxies: What Detection Systems Look For | Nilanka Wijemuni | [Read More](https://medium.com/p/09baf67c707b) |
-| Mon, 12 Jan 2026 03:32:03 GMT | Technical Analysis of an Sagerunex Backdoor Variant | Robert | [Read More](https://medium.com/p/5d70f1a89488) |
-| Mon, 12 Jan 2026 03:29:25 GMT | Installing Security Onion in VirtualBox: A Complete Beginner’s Guide | Mavanidharmik | [Read More](https://medium.com/p/9e83d0ed3d7d) |
-| Mon, 12 Jan 2026 03:19:15 GMT | Security 101: The Mutual Handshake — Understanding mTLS and Two-Way Trust | Kunal Sinha | [Read More](https://medium.com/p/abe73d020ec8) |
-| Mon, 12 Jan 2026 03:13:45 GMT | 受夠了 Keycloak 的複雜？黑馬 Authentik 會是你的輕量級救星嗎？ | Ossie | [Read More](https://medium.com/p/5842f5e4e90e) |
-| Mon, 12 Jan 2026 03:07:08 GMT | What Changed This Week in AI Accountability (And Why It Actually Matters) | A D | [Read More](https://medium.com/p/7da5a3ab33da) |
-| Mon, 12 Jan 2026 03:00:52 GMT | “Private Mode” is a lie. Here is how I actually stopped AI from training on my life. | Volture Luxe | [Read More](https://medium.com/p/c210495284c7) |
-| Mon, 12 Jan 2026 02:58:54 GMT | AI-Assisted Reverse Engineering & Analysis | Paritosh | [Read More](https://medium.com/p/5352014bb350) |
-| Mon, 12 Jan 2026 02:51:06 GMT | Unlocking the Power of Crunch: Advanced Wordlist Crafting for Professional Pentesters ⚙️ | Cybeague Technologies | [Read More](https://medium.com/p/ce0c363572c9) |
-| Mon, 12 Jan 2026 02:50:03 GMT | Getting Started with Crunch: The Fast Lane to Smart Wordlist Generation | Cybeague Technologies | [Read More](https://medium.com/p/68f9038a859c) |
