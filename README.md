@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 06:31:00 GMT | Day 85- Mitigating Incidents using Microsoft defender for beginners | unica 02 | [Read More](https://medium.com/p/9a20a2d1f543) |
+| Mon, 12 Jan 2026 06:22:30 GMT | Key Strategies to Optimize IT Operations for Companies in Riyadh | Rahman Iqbal | [Read More](https://medium.com/p/95053b2b94c2) |
+| Mon, 12 Jan 2026 06:22:24 GMT | Cyber Risk Quantification: When Security Data Can’t Drive Decisions | Zeron | [Read More](https://medium.com/p/81002793469a) |
+| Mon, 12 Jan 2026 06:17:53 GMT | Eleven Plus Mock Tests & HBS Classroom Exam Prep | Elevenplus Euphoria | [Read More](https://medium.com/p/12640d1cbfdb) |
+| Mon, 12 Jan 2026 06:15:36 GMT | 2026 Freight Prediction: Insurance Will Force the Security Reckoning the Industry Keeps Avoiding | Heesham Naji | [Read More](https://medium.com/p/e08c3962c6a2) |
+| Mon, 12 Jan 2026 06:08:57 GMT | Content Security Policy (CSP) Explained: Simple Guide for XSS Defense | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/5ebf67612351) |
+| Mon, 12 Jan 2026 06:05:58 GMT | How I Got My First Bug Bounty (And What I’d Do Differently) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/ffab3dfbc5cb) |
+| Mon, 12 Jan 2026 06:02:54 GMT | The Hydra of Modern Identity — Why IAM Feels So Hard | Dilanka Muthukumarana | [Read More](https://medium.com/p/867839c2ee77) |
+| Mon, 12 Jan 2026 06:02:54 GMT | Light Out, 7B (Part 10) | edarit | [Read More](https://medium.com/p/2f7c505eec97) |
+| Mon, 12 Jan 2026 06:00:37 GMT | I’ am new in crypto, please how i send my 5,000 USDT from قصق wallet to Binances?That | Joelle luxer | [Read More](https://medium.com/p/8816035102d0) |
+| Mon, 12 Jan 2026 05:58:43 GMT | The AI Project: Cybersecurity Prodigy | Alwin_Seb | [Read More](https://medium.com/p/8432e4e5307a) |
+| Mon, 12 Jan 2026 05:56:01 GMT | AWS Incident Response Playbook: Handling Compromised Resources Step by Step | Saria Mubeen | [Read More](https://medium.com/p/16a773edd3ac) |
+| Mon, 12 Jan 2026 05:53:19 GMT | My First Bug Bounty Report After CEH and What It Taught Me | Iamdawoodayub | [Read More](https://medium.com/p/12587d23f169) |
+| Mon, 12 Jan 2026 05:43:54 GMT | Mastering IT Regulations for Saudi Enterprises | Kadhijahafiya | [Read More](https://medium.com/p/07ec34bc0eb9) |
+| Mon, 12 Jan 2026 05:43:52 GMT | Unraveling Digital Privacy: Key Tech Terms Explained | Valentin Podkamennyi | [Read More](https://medium.com/p/0e2272f13e9f) |
+| Mon, 12 Jan 2026 05:42:36 GMT | 2025 iOS Security Guide With Code Examples: Swift & SwiftUI Checklist Every iOS Developer Must Know | Gaurav Tak | [Read More](https://medium.com/p/d35acf060fe4) |
+| Mon, 12 Jan 2026 05:42:26 GMT | Top 10 Tips for Node.js Zero-Trust Implementation | Arunangshu Das | [Read More](https://medium.com/p/d928f6fefeb3) |
+| Mon, 12 Jan 2026 05:41:36 GMT | Four Everyday Authentication Mechanisms, Explained Like You’re Building a Real System | Double Pointer | [Read More](https://medium.com/p/b8bcddb75ec3) |
+| Mon, 12 Jan 2026 05:41:24 GMT | Securing Modern Web Apps Against XSS, CSRF, and the “New” Web | Praxen | [Read More](https://medium.com/p/1c696ecc3a37) |
+| Mon, 12 Jan 2026 05:40:41 GMT | The “Denial of Wallet” Race Condition: How I Bypassed Transaction Limits (And Got Rejected) | Zer0Figure | [Read More](https://medium.com/p/546598a25a23) |
 | Mon, 12 Jan 2026 05:29:44 GMT | Why Internship Drives Are Exposing the Biggest Skill Gap in Indian Students
 As part of our ongoing… | Ankit rai | [Read More](https://medium.com/p/d0fd40a09924) |
 | Mon, 12 Jan 2026 05:14:32 GMT | When AI Systems Fail: The Critical Role of Containment, Recovery & Forensic Readiness | John Black | [Read More](https://medium.com/p/ccdd52ee1b8d) |
@@ -93,24 +113,3 @@ As part of our ongoing… | Ankit rai | [Read More](https://medium.com/p/d0fd40a
 | Sun, 11 Jan 2026 20:57:09 GMT | Continuous Threat Modeling for Internet-Scale Backend Platforms | Luigi Iacuaniello | [Read More](https://medium.com/p/b256acfbcf6d) |
 | Sun, 11 Jan 2026 20:54:23 GMT | API Gateway vs Caddy: Security and Reliability in Modern Web Application Development | Alexander Ilves | [Read More](https://medium.com/p/7652847cd43b) |
 | Sun, 11 Jan 2026 20:53:49 GMT | I came, I vibe-coded, and I learned things YOU should know about | BowTiesAreCool | [Read More](https://medium.com/p/727588a0f7f3) |
-| Sun, 11 Jan 2026 20:50:00 GMT | [Writeup] Proving Grounds: Flu (Linux) | Bassey Ekemini E | [Read More](https://medium.com/p/b233528a8698) |
-| Sun, 11 Jan 2026 20:42:56 GMT | AI is Not a Translator, It’s Your Chief of Staff: How I Won a 120-Hour Logical War Against Apple | Ryuzaburo | [Read More](https://medium.com/p/38ed58a2a2fa) |
-| Sun, 11 Jan 2026 20:39:33 GMT | IMPORTANT — PLEASE READ | International Cowboy Planet | [Read More](https://medium.com/p/a46222a5b412) |
-| Sun, 11 Jan 2026 20:38:18 GMT | THE DIGITAL GHOSTS: Investigating the Global Syndicate Behind 'Carded' Electronics
-​By Nauman… | NaumanShafique | [Read More](https://medium.com/p/5abb541630ea) |
-| Sun, 11 Jan 2026 20:29:00 GMT | I came, I vibe-coded, and I learned things YOU should know about | BowTiesAreCool | [Read More](https://medium.com/p/599c8b789df8) |
-| Sun, 11 Jan 2026 20:28:54 GMT | Anonymous FTP to Root: A Complete Linux Privilege Escalation Walkthrough | IshhIshneet | [Read More](https://medium.com/p/6115d7a871a6) |
-| Sun, 11 Jan 2026 20:26:42 GMT | Live: ‘discussing how to get internet in Iran’: US clandestine/spec ops channel | Berend Watchus | [Read More](https://medium.com/p/eb6cdbef2397) |
-| Sun, 11 Jan 2026 20:26:35 GMT | The Asymmetry of Nonsense: Why Modern Discourse is Losing the War Against Brandolini’s Law | DésinfoLogie | [Read More](https://medium.com/p/9461454905d7) |
-| Sun, 11 Jan 2026 20:17:21 GMT | DOMESTIC LOBBYING AND JURISDICTIONAL SOVEREIGNTY IN FOREIGN POLICY | Statecraft & Syntax | [Read More](https://medium.com/p/6bc10fc556b3) |
-| Sun, 11 Jan 2026 20:12:49 GMT | Getting Started with ESP32/ESP8266: Installing the CP210x USB Driver (Windows & Ubuntu) | Jared Douville | [Read More](https://medium.com/p/b5d5d3ab298e) |
-| Sun, 11 Jan 2026 20:06:47 GMT | When Authorization Breaches Availability: Analyzing the 27.2KB iCloud Sync Corruption with AI | Ryuzaburo | [Read More](https://medium.com/p/f02e81b0cc3f) |
-| Sun, 11 Jan 2026 20:02:48 GMT | The Three Decisions You Make Before Ransomware Hits | Tyson Martin | [Read More](https://medium.com/p/9e94d7407e50) |
-| Sun, 11 Jan 2026 19:56:53 GMT | Networking Fundamentals for Cybersecurity (CEH Perspective) | Kashish Zara | [Read More](https://medium.com/p/22ec12cba047) |
-| Sun, 11 Jan 2026 19:56:20 GMT | Command Injection - TryHackMe Walkthrough | AJ GUIN | [Read More](https://medium.com/p/e8b567e39f4b) |
-| Sun, 11 Jan 2026 19:50:59 GMT | You Don’t Know What You Want, but You Know Exactly What You’re Avoiding. | SinghArchives | [Read More](https://medium.com/p/ca255315889d) |
-| Sun, 11 Jan 2026 19:43:24 GMT | Iman Saadeh: from teenage tech prodigy to best‑selling storyteller | Maria Smith | [Read More](https://medium.com/p/13dae44c3e28) |
-| Sun, 11 Jan 2026 19:40:38 GMT | SSH Fingerprint. What is it? Why we need it? Why we accept it? What it helps in? How to Verify it? | Prakher Singhal | [Read More](https://medium.com/p/50706eb617bb) |
-| Sun, 11 Jan 2026 19:37:26 GMT | The Threat Brief — Jan 12 2026 | James Mockford | [Read More](https://medium.com/p/25657d25f7cb) |
-| Sun, 11 Jan 2026 19:37:01 GMT | Understanding Error, Defect, Bug, and Failure in Software Engineering (with Real Examples) | raw-hitt | [Read More](https://medium.com/p/396c1cfee773) |
-| Sun, 11 Jan 2026 19:21:29 GMT | Building a Secure DevOps CI/CD Pipeline | Samy H. | [Read More](https://medium.com/p/5a34c221cde5) |
