@@ -12,8 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 13:32:45 GMT | Linux Security Habit #16: I Freeze File Metadata Before Reading a Single Log | Faruk Ahmed | [Read More](https://medium.com/p/df099f25a71f) |
+| Mon, 12 Jan 2026 13:27:35 GMT | From Failure to $32,000: My Bug Bounty Journey | iamgk808 | [Read More](https://medium.com/p/84eac429e2d0) |
+| Mon, 12 Jan 2026 13:26:49 GMT | If a Threat Hit Today, Would You See It Coming? | OnPar Technologies | [Read More](https://medium.com/p/3dd7f1beaffe) |
+| Mon, 12 Jan 2026 13:26:42 GMT | ️ PROTOCOL BREACH: Engineering Total Domain Compromise on HTB Escape | Nicholas Mullenski | [Read More](https://medium.com/p/350ecacf457c) |
+| Mon, 12 Jan 2026 13:25:29 GMT | How To Recover Lost Or Scammed Cryptocurrency Visit OPTIMISTIC HACKER GAIUS | Jamesdalot | [Read More](https://medium.com/p/11010ac4b200) |
+| Mon, 12 Jan 2026 13:15:21 GMT | PlayStation Games Aren’t Just Games — They’re Emotional Worlds We Live In | Motherlandlove | [Read More](https://medium.com/p/5ae19c6a27e6) |
+| Mon, 12 Jan 2026 13:14:23 GMT | Performance vs Protection in Real Systems: What Developers Must Choose? | Ade Mawan | [Read More](https://medium.com/p/464c69d2277c) |
+| Mon, 12 Jan 2026 13:12:31 GMT | SQL injection UNION attack, retrieving data from other tables( Portswigger Lab) | Rachael Muga | [Read More](https://medium.com/p/27e73fd32ba0) |
+| Mon, 12 Jan 2026 13:12:17 GMT | Why TikTok Shop Automation Doesn't Work for Most Sellers? | WebBee Global | [Read More](https://medium.com/p/c741bf3a9942) |
+| Mon, 12 Jan 2026 13:11:47 GMT | Beware Chat Leaks: Designing an LLM System for Banking Insider Threat Detection | Terrence Cai | [Read More](https://medium.com/p/d8543cf2d6ff) |
+| Mon, 12 Jan 2026 13:02:54 GMT | Why We Need an Agnostic Functional Model for Application-Centric Architecture | Trevor Patch | [Read More](https://medium.com/p/3700aa5f650c) |
+| Mon, 12 Jan 2026 13:02:23 GMT | Instagram Denies Breach Amid Claims of 17 Million Account Data Leak: What You Need to Know | Technijian | [Read More](https://medium.com/p/91b46d8ffbff) |
+| Mon, 12 Jan 2026 12:59:44 GMT | Modern AppSec Must Respect Data Residency. ZeroThreat Makes That Practical | Kate Bennett | [Read More](https://medium.com/p/d6f90bcf5d4e) |
+| Mon, 12 Jan 2026 12:53:57 GMT | The Ignorance Paradox in Vibe Coding (And Why It Exists in the Real World Too) | Pedroza | [Read More](https://medium.com/p/a0d148bef9a7) |
 | Mon, 12 Jan 2026 12:46:06 GMT | AlNafi AI vs Albert Jacquard | MUHAMMAD UZAIR | [Read More](https://medium.com/p/d1d855b3a2f9) |
 | Mon, 12 Jan 2026 12:45:09 GMT | Business Logic CTF Challenge BugForge: Cheesy Does It | ShadeHwak | [Read More](https://medium.com/p/25ef6ceb8172) |
+| Mon, 12 Jan 2026 12:44:15 GMT | iPhone 17e launching as soon as next month: Here are five upgrades to look forward to | Motherlandlove | [Read More](https://medium.com/p/68068832a893) |
 | Mon, 12 Jan 2026 12:42:05 GMT | Modern Parking Enforcement Software for Multi-Shift Teams | ParqEx | [Read More](https://medium.com/p/529118083e82) |
 | Mon, 12 Jan 2026 12:40:55 GMT | RST TI Report Digest: 12 Jan 2026 | RST Cloud | [Read More](https://medium.com/p/405e28a2e9e5) |
 | Mon, 12 Jan 2026 12:39:53 GMT | 30 Days of Red Team: Day 15.5 — Mid-Series Checkpoint | Maxwell Cross | [Read More](https://medium.com/p/d07bd3495dcf) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 Jan 2026 08:31:41 GMT | Ransomware in 2026: What Changed? | Shruti Saxena | [Read More](https://medium.com/p/8293096700b2) |
 | Mon, 12 Jan 2026 08:29:06 GMT | Bus Simulator Vietnam Apk | Game4u | [Read More](https://medium.com/p/b3fbb212b289) |
 | Mon, 12 Jan 2026 08:28:53 GMT | Agentic AI 2026 represents a significant evolution from conventional AI systems. | RankRise1 | [Read More](https://medium.com/p/c7c1cd00e786) |
-| Mon, 12 Jan 2026 08:26:27 GMT | Innovation in Disconnected Networks: How We Streamline Apps with Electron.js | Natalie Tan | [Read More](https://medium.com/p/0d1c93e9ec00) |
-| Mon, 12 Jan 2026 08:25:23 GMT | The Tiny Auth Misstep That Hid a Login Bypass for Three Years | 1$ Mistake | [Read More](https://medium.com/p/fa8bb31e4034) |
-| Mon, 12 Jan 2026 08:22:11 GMT | Goodbye Cypher, Hello LDAP: Querying Neo4j with Neo4LDAP | Alejandro Rivera León | [Read More](https://medium.com/p/5e6466426a01) |
-| Mon, 12 Jan 2026 08:20:03 GMT | Security Operations Center Basics Part-1 | Soham Dhamale | [Read More](https://medium.com/p/e385b2123a1e) |
-| Mon, 12 Jan 2026 08:17:12 GMT | How Outsourcing PCI SSF Fuels Fintech Growth? | Supun Harshana | [Read More](https://medium.com/p/31d24559cba2) |
-| Mon, 12 Jan 2026 08:16:52 GMT | AI Firewalls: The Ultimate Defense for Fintech Innovation | Roshankappala | [Read More](https://medium.com/p/cb376d21d616) |
-| Mon, 12 Jan 2026 08:13:05 GMT | The Becoming Journal — Why I Started This | Clark P. | [Read More](https://medium.com/p/17ca12d401da) |
-| Mon, 12 Jan 2026 08:10:56 GMT | Scraping Isn’t a Breach — But It Doesn’t Matter | Denny Roger | [Read More](https://medium.com/p/308d640474d9) |
-| Mon, 12 Jan 2026 08:10:39 GMT | FaceB Account Got Hacked. When a Game Turned into a Nightmare | Faseeh Zulqernain | [Read More](https://medium.com/p/dd15d08a8d3d) |
-| Mon, 12 Jan 2026 08:09:32 GMT | 7 Mistakes You’re Making with Cybersecurity Training in 2026 (and How Ransomware Groups Exploit… | Dr.  Mack Jackson Jr | [Read More](https://medium.com/p/57cbbfaaaaac) |
-| Mon, 12 Jan 2026 08:09:10 GMT | How Reliable IT Keeps Manufacturing Production Running 24×7 | DC9India | [Read More](https://medium.com/p/583caa3172aa) |
-| Mon, 12 Jan 2026 08:02:57 GMT | CVE-2026–0625 Explained: How to Secure D-Link DSL Routers Before It’s Too Late | Motasem Hamdan | [Read More](https://medium.com/p/eeee045cad70) |
-| Mon, 12 Jan 2026 08:02:02 GMT | Transform Your Computer Security With Antivirus for Windows | Siyanoav | [Read More](https://medium.com/p/a6a6dfcdd63d) |
-| Mon, 12 Jan 2026 07:58:17 GMT | Top 50 SOC Analyst Interview Questions and Answers (2026 Updated) | Manisha Chaudhary | [Read More](https://medium.com/p/334ad1afb943) |
-| Mon, 12 Jan 2026 07:49:35 GMT | Day 2 of the Bug Bounty Bootcamp: Learning Scope, Recon & Smart Targeting | Faizan Nazir | [Read More](https://medium.com/p/11fd85874b2a) |
