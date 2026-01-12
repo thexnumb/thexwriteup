@@ -12,9 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 20:18:26 GMT | Why Telecommunications Companies Are Primary Targets for State-Sponsored Hackers | David SEHYEON Baek | [Read More](https://medium.com/p/271a3d607cbc) |
+| Mon, 12 Jan 2026 20:16:46 GMT | Security That Works: Why Your Controls Keep Failing and How to Fix Them | Tyson Martin | [Read More](https://medium.com/p/8485cc6829af) |
+| Mon, 12 Jan 2026 20:07:28 GMT | This Bug Bounty Recon is much PEAKKK!!!!!! | Alham Rizvi(ExoidSec) | [Read More](https://medium.com/p/05581c02486e) |
+| Mon, 12 Jan 2026 20:06:09 GMT | Splunk — Tutorial Completo | YHONATAN LEONARDO | [Read More](https://medium.com/p/13496a02ca32) |
+| Mon, 12 Jan 2026 20:00:00 GMT | Trust-On-First-Scan (TOFS): A Security Model for QR Codes
+By Colten Jacob - January 2026
+Abstract… | J Colten | [Read More](https://medium.com/p/80f3d8bac769) |
+| Mon, 12 Jan 2026 19:57:14 GMT | Bir Hacker’ın Oyun Alanı: Hibrit Sızma Testi Laboratuvarında Adım Adım Pentest | Arda | [Read More](https://medium.com/p/aecd9cada80b) |
+| Mon, 12 Jan 2026 19:56:33 GMT | Build your Off-Grid AI, No Internet Needed. | Ehsan | [Read More](https://medium.com/p/3ca217709a15) |
+| Mon, 12 Jan 2026 19:43:41 GMT | Cybersecurity Basics: The Roadmap I Wish I Had When I Started | Thapaswin | [Read More](https://medium.com/p/9853b4e23238) |
+| Mon, 12 Jan 2026 19:42:52 GMT | The Security Industry’s Addiction with Buying New Toys | Really Bad Security | [Read More](https://medium.com/p/59cdfeec3f13) |
 | Mon, 12 Jan 2026 19:37:29 GMT | How I recovered my lost cryptocurrency from a scam company. | Vincent Gamba | [Read More](https://medium.com/p/3086674a7e62) |
 | Mon, 12 Jan 2026 19:35:40 GMT | # Stop Wasting Hours Setting Up Your Parrot OS — Here’s an Open Source Tool That Does It in Minutes | Zahradeen Muazu | [Read More](https://medium.com/p/a92ab6d834c3) |
 | Mon, 12 Jan 2026 19:35:38 GMT | Cyber Threat Intelligence: A Practical Guide to All Methods | ZaslonX - Cybersecurity | [Read More](https://medium.com/p/80e1bd91fcd8) |
+| Mon, 12 Jan 2026 19:33:41 GMT | About “The Information..everywhere”: From Hesse to Locke | Claudia Lai Seung | [Read More](https://medium.com/p/c86199a930ad) |
 | Mon, 12 Jan 2026 19:32:50 GMT | INE / eJPT / Assessment Methodologies: Footprinting and Scanning CTF 1 | Salihugurlu | [Read More](https://medium.com/p/c4e2458bfb06) |
 | Mon, 12 Jan 2026 19:29:37 GMT | She, the Fear | Fabiana Tavares | [Read More](https://medium.com/p/c7073dc7c71a) |
 | Mon, 12 Jan 2026 19:27:51 GMT | How a Unified Security Platform Strengthens Your Information Security Management System | Teona | [Read More](https://medium.com/p/7f9c0586ea06) |
@@ -31,6 +43,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 Jan 2026 19:05:12 GMT | Hacker At Work:Recon Workflow Process | ghostyjoe | [Read More](https://medium.com/p/ad056880a271) |
 | Mon, 12 Jan 2026 19:03:17 GMT | Anti-Bot | Iram Jack | [Read More](https://medium.com/p/ab9a4fe8687d) |
 | Mon, 12 Jan 2026 19:01:13 GMT | Void — Hackviser Real-World Scenario Walkthrough | Hussein 404 | [Read More](https://medium.com/p/555d90edf623) |
+| Mon, 12 Jan 2026 18:56:21 GMT | Siber Güvenlik Laboratuvarı Notları: Teorik Temeller, Araçlar ve Metodolojiler | Arda | [Read More](https://medium.com/p/625169a1640c) |
 | Mon, 12 Jan 2026 18:56:10 GMT | Lab: Authentication bypass via encryption oracle | Songül Kızılay Özügürler | [Read More](https://medium.com/p/dcab43bb72b4) |
 | Mon, 12 Jan 2026 18:48:06 GMT | Default to Delete: How New Operating Systems Are Reversing 50 Years of Design | Kihara Kimachia | [Read More](https://medium.com/p/04aeaba8df7c) |
 | Mon, 12 Jan 2026 18:44:57 GMT | Upcoming Go Security Releases | ASAcrew Blog | [Read More](https://medium.com/p/b7618d0b19c9) |
@@ -102,14 +115,3 @@ Most people think cyber attacks happen only… | Samandar Qosimov | [Read More](
 | Mon, 12 Jan 2026 15:25:01 GMT | Next in AI: Issue #84 | Sam Ghosh | [Read More](https://medium.com/p/22d9d9cb40f3) |
 | Mon, 12 Jan 2026 15:24:07 GMT | The Night My Network Finally Lit Up | Prashanthyadav Pittakala | [Read More](https://medium.com/p/fe35b78dd1e5) |
 | Mon, 12 Jan 2026 15:21:44 GMT | Enhance Bulk Account Creation and Management with PVACreator | Estefanydarryl | [Read More](https://medium.com/p/c4cd62c63aab) |
-| Mon, 12 Jan 2026 15:20:54 GMT | Homelander Security Audit: Summary and Outcomes | MEV-X | [Read More](https://medium.com/p/a1847828f730) |
-| Mon, 12 Jan 2026 15:15:38 GMT | When 200 OK Lies: Breaking Down WAF Soft-404 Deception in Real-World Bug Bounty | Prince T Philip | [Read More](https://medium.com/p/083178a27322) |
-| Mon, 12 Jan 2026 15:13:16 GMT | Run your Local Desktop AI Agents at Zero Cost with UI-TARS-Desktop Agents and LM studio | Mariem Jabloun | [Read More](https://medium.com/p/0631b01844b1) |
-| Mon, 12 Jan 2026 15:10:01 GMT | Hack The Box — Timelapse | JY00X3 | [Read More](https://medium.com/p/ca29acb5b1b5) |
-| Mon, 12 Jan 2026 15:06:02 GMT | ☢️ Devel: Anonymous FTP to Kernel Exploitation | Nicholas Mullenski | [Read More](https://medium.com/p/388c1468dfd3) |
-| Mon, 12 Jan 2026 15:04:36 GMT | ModStealer Proves Web3’s Real Attack Surface Is Your Wallet, Not Your Chain | Abatis ABTU | [Read More](https://medium.com/p/1fe1bf4e69d5) |
-| Mon, 12 Jan 2026 15:03:13 GMT | JWTs Are Not Enough: Why We Moved to Macaroons for Distributed Auth | The Speed Engineer | [Read More](https://medium.com/p/dfd62099a6fe) |
-| Mon, 12 Jan 2026 15:03:13 GMT | How Moving Snowflake Service Accounts From Passwords to Key-Pair Auth (and NSP Rules) Stopped an… | Vedprakash | [Read More](https://medium.com/p/97306b0d948a) |
-| Mon, 12 Jan 2026 15:03:13 GMT | The Coming War Won’t Be with Tanks and Guns | Tom Hanratty | [Read More](https://medium.com/p/833eac055f2a) |
-| Mon, 12 Jan 2026 15:03:07 GMT | Cyber Briefing: 2026.01.12 | CyberMaterial | [Read More](https://medium.com/p/2b8183cb7d13) |
-| Mon, 12 Jan 2026 14:55:24 GMT | I Built a Simpler FoxyProxy Alternative — Here’s Why | Eragon Kashyap | [Read More](https://medium.com/p/0c5ca3e2d3b2) |
