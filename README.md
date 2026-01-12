@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 17:21:03 GMT | Why Cybersecurity Needs Hypergame Theory, Not Just Nash Equilibria | Berend Watchus | [Read More](https://medium.com/p/75eac3b4f856) |
+| Mon, 12 Jan 2026 17:16:48 GMT | 4 Shocking Signs He’s Truly Devoted to You (Not Just Playing) | Kay Young | [Read More](https://medium.com/p/f9197710258c) |
+| Mon, 12 Jan 2026 17:08:31 GMT | The Future of Secure Access with Managed Identities and Workload Identity Federation | Brian Veldman | [Read More](https://medium.com/p/8e2199650135) |
+| Mon, 12 Jan 2026 17:06:40 GMT | Kibana port — 5601! | Rela Lumbini | [Read More](https://medium.com/p/dbd340595fed) |
+| Mon, 12 Jan 2026 17:06:33 GMT | Top 6 Password Managers Compared: Which One Keeps You Safest in 2026? | Cordula Boeck | [Read More](https://medium.com/p/f441718a5359) |
+| Mon, 12 Jan 2026 17:05:45 GMT | “Bug Bounty Bootcamp #14: Your First XSS Find — A Step-by-Step Hunter’s Methodology” | Aman Sharma | [Read More](https://medium.com/p/097b4639bf46) |
+| Mon, 12 Jan 2026 17:05:00 GMT | How People Get Tricked Online (And Don’t Even Notice)
+Most people think cyber attacks happen only… | Samandar Qosimov | [Read More](https://medium.com/p/6f081d751e6b) |
+| Mon, 12 Jan 2026 17:03:35 GMT | My Experience with an Amazon Brushing Scam | Emory French | [Read More](https://medium.com/p/05ed10cb8adb) |
+| Mon, 12 Jan 2026 17:03:33 GMT | Web Application Security Testing: Ensuring Safe Digital Experiences | Practical Logix | [Read More](https://medium.com/p/f33bd2b2a4c5) |
+| Mon, 12 Jan 2026 17:03:24 GMT | Anatomy of a Cyber Attack: From First Click to Full Breach | Digital Defense | [Read More](https://medium.com/p/6c06b6d140c9) |
+| Mon, 12 Jan 2026 16:55:18 GMT | Try Hack Me- ColddBox CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/5ba4a924935a) |
 | Mon, 12 Jan 2026 16:52:28 GMT | What Happens If a Quantum Computer Cracks Blockchain Encryption? | Bobby Andrews | [Read More](https://medium.com/p/9382c4686337) |
+| Mon, 12 Jan 2026 16:51:36 GMT | “Beautiful Confusion” became the, Boundless Claim. | Sneha Bhoine | [Read More](https://medium.com/p/f61b5793fa6e) |
 | Mon, 12 Jan 2026 16:50:28 GMT | What’s Next for the Cloud? 10 Key Trends Shaping Business Strategy in 2026 | Paradise technologies Inc | [Read More](https://medium.com/p/e546884d1686) |
 | Mon, 12 Jan 2026 16:45:48 GMT | Using Programmatic Access in Snowflake | Jon Roberts | [Read More](https://medium.com/p/4bf03e876847) |
 | Mon, 12 Jan 2026 16:45:07 GMT | The Wrench | Banhisekha | [Read More](https://medium.com/p/4c850735fdcb) |
@@ -100,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 Jan 2026 12:02:55 GMT | Writeup for picoCTF challenge “Cookie Monster Secret Recipe” | Walter Moar | [Read More](https://medium.com/p/becc9aac787c) |
 | Mon, 12 Jan 2026 12:00:54 GMT | Blockchain & Crypto Cybersecurity in 2026 | David SEHYEON Baek | [Read More](https://medium.com/p/ed1c32f1b83a) |
 | Mon, 12 Jan 2026 11:58:39 GMT | Perkembangan Teknologi Informasi dan Tantangannya di Era Digital | pltys.a | [Read More](https://medium.com/p/d76769062d97) |
-| Mon, 12 Jan 2026 11:47:07 GMT | DMZ : KURUMSAL KALENİN DİJİTAL HİSARI | Hsdfsmvu | [Read More](https://medium.com/p/afd59b76a2f5) |
-| Mon, 12 Jan 2026 11:45:58 GMT | How Professional Security Camera Installation Improves Safety | ArcEye Defense of St. Louis | [Read More](https://medium.com/p/6f7d6124f27b) |
-| Mon, 12 Jan 2026 11:41:56 GMT | Why the Human Mind Is the Weakest Link in Cybersecurity | Sooraj Pandey | [Read More](https://medium.com/p/8b6fa318e06f) |
-| Mon, 12 Jan 2026 11:38:03 GMT | How Startup Product Development Is Becoming a Competitive Advantage | Bluetris Technologies | [Read More](https://medium.com/p/a62e97447223) |
-| Mon, 12 Jan 2026 11:37:27 GMT | ISO 27001 Explained: Everything You Need to Know | Azeezah | [Read More](https://medium.com/p/7dff64b1be3e) |
-| Mon, 12 Jan 2026 11:32:48 GMT | The Beginner’s Guide to OSINT: 8 Essential Tools to Start Your Investigation Journey | Adonis john | [Read More](https://medium.com/p/a27805e488a4) |
-| Mon, 12 Jan 2026 11:19:49 GMT | Day 3 | Mohammad-AL-Momani | [Read More](https://medium.com/p/2b5fc13c54d9) |
-| Mon, 12 Jan 2026 11:14:36 GMT | AI sets odds of XRP hitting $10 in 2026 | Motherlandlove | [Read More](https://medium.com/p/35098d0964a1) |
-| Mon, 12 Jan 2026 11:11:57 GMT | Beware of Online Relationship Scams — How Digital Romance Turns Into a Trap | Mr Technology | [Read More](https://medium.com/p/d1ed9dff047e) |
-| Mon, 12 Jan 2026 11:00:46 GMT | Enhancing AEM Adaptive Forms PWA with Biometric Authentication | Ayush Mishra | [Read More](https://medium.com/p/1ef7ea8f2b7d) |
-| Mon, 12 Jan 2026 11:00:07 GMT | The Reverse Turing Paradox: Why We Must Stop Testing Minds and Start Testing Physics | Dino Demetriou | [Read More](https://medium.com/p/d6166c74ab48) |
-| Mon, 12 Jan 2026 10:53:48 GMT | How Safe Are Your Living and Working Spaces from Pests? | western Pest services | [Read More](https://medium.com/p/56e681d056b0) |
