@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 10:16:22 GMT | I Searched 5 Fortune 500 Domains and Found 12,000+ Exposed Employees in 10 Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/90dc1596d6cb) |
+| Mon, 12 Jan 2026 10:15:26 GMT | Hidden IT Costs UAE Businesses Face When Support is Reactive Instead of Proactive | Liberty Computer System | [Read More](https://medium.com/p/d5cf31e7ea8e) |
+| Mon, 12 Jan 2026 10:09:03 GMT | Why Cyber Security Is a High-Paying Career in Chandigarh & Mohali | solitaire projects | [Read More](https://medium.com/p/26b9a1507de9) |
+| Mon, 12 Jan 2026 10:07:31 GMT | Garmin inReach security: Insecure Link Design and User Data Privacy (Part I) | Llorenç | [Read More](https://medium.com/p/f572a47c34e1) |
+| Mon, 12 Jan 2026 10:06:46 GMT | How Attackers Bypass SSL Pinning in Android (And How to Defend Against It) | Riyas Pullur | [Read More](https://medium.com/p/9359d8a3e2a9) |
+| Mon, 12 Jan 2026 10:05:52 GMT | How Attackers Bypass SSL Pinning in Android (And How to Defend Against It) [Free version ] | Riyas Pullur | [Read More](https://medium.com/p/08e94018688c) |
+| Mon, 12 Jan 2026 10:02:36 GMT | Weakness Protocols and N | Jenishjoel | [Read More](https://medium.com/p/cd30eb6c1ab1) |
+| Mon, 12 Jan 2026 10:01:54 GMT | Why Firewalls Are No Longer Just Network Devices — They Are Business Risk Controls | ANSI Technologies | [Read More](https://medium.com/p/6f1a8826e180) |
+| Mon, 12 Jan 2026 09:57:12 GMT | CTF Challenge: API Price Manipulation via Parameter Tampering | blackm4c | [Read More](https://medium.com/p/5bb3c645f198) |
+| Mon, 12 Jan 2026 09:51:01 GMT | 8 Types of Penetration Testing (Penetrasyon Testi Türleri) | Arda Derya | [Read More](https://medium.com/p/642f3fd4bd6f) |
+| Mon, 12 Jan 2026 09:47:14 GMT | Indian Government Clarifies Its Stand on Smartphone Source Code Sharing Reports | Aura Tech Insight | [Read More](https://medium.com/p/52de0ec7620b) |
+| Mon, 12 Jan 2026 09:47:11 GMT | When Agents Go Rogue: Moving Beyond Traditional IAM to Secure the Era of Autonomous AI | Eyal Nayowitz | [Read More](https://medium.com/p/1e95a5ae0575) |
+| Mon, 12 Jan 2026 09:43:42 GMT | Building the Next Generation of AI Starts With the Right Foundation | aispotlightshow | [Read More](https://medium.com/p/39846f171766) |
+| Mon, 12 Jan 2026 09:43:39 GMT | How I Found 124,000 Leaked PII Records in AT&T | 0xMicho | [Read More](https://medium.com/p/2929374de1f8) |
+| Mon, 12 Jan 2026 09:43:09 GMT | From Floppy Disks to Data Hoovers: The 40-Year Journey That Turned Your Car Into a Spy | Santhosh Adiga U | [Read More](https://medium.com/p/0c4e91da9a6c) |
+| Mon, 12 Jan 2026 09:37:57 GMT | Congress Gets Pwned: Salt Typhoon’s Deep Dive, Iran’s Rusty RAT, and the Instagram “Non-Breach” | Threat Road | [Read More](https://medium.com/p/67dcc3791146) |
 | Mon, 12 Jan 2026 09:30:16 GMT | Hands-On Threat Hunting on AWS Using Athena & VPC Flow Logs | Davebhargavi | [Read More](https://medium.com/p/cee69fc9e3df) |
 | Mon, 12 Jan 2026 09:26:29 GMT | IP Whitelist Bypass via Partial String Matching in n8n Webhook Node (CVE-2025–68949) | Berk Dedekargınoğlu | [Read More](https://medium.com/p/9a63b4500c74) |
 | Mon, 12 Jan 2026 09:25:41 GMT | Uoft CTF “Symbol of Hope” challenge Write-up | Zyres | [Read More](https://medium.com/p/7167ed99b141) |
@@ -30,6 +46,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 Jan 2026 08:56:33 GMT | Linux Commands: A Complete Beginner’s Guide | Anila Ashraf | [Read More](https://medium.com/p/cd8fd633e195) |
 | Mon, 12 Jan 2026 08:42:39 GMT | Capcut Pro Apk | genzvnmod | [Read More](https://medium.com/p/c0e93d7e0f1d) |
 | Mon, 12 Jan 2026 08:42:00 GMT | Vibe Coder’s Security Mistakes | Abhirup Konwar | [Read More](https://medium.com/p/514089b135dd) |
+| Mon, 12 Jan 2026 08:39:44 GMT | ColdFusion RCE (Remote Code Execution) Vulnerabilities: A Proactive Defense Guide | Deepak Purohit | [Read More](https://medium.com/p/1edec28370a3) |
 | Mon, 12 Jan 2026 08:33:54 GMT | Greenland isn’t the periphery. It’s the world’s crossroads | Jacek Sumislawski | [Read More](https://medium.com/p/d8c7243c2d62) |
 | Mon, 12 Jan 2026 08:31:41 GMT | Ransomware in 2026: What Changed? | Shruti Saxena | [Read More](https://medium.com/p/8293096700b2) |
 | Mon, 12 Jan 2026 08:29:06 GMT | Bus Simulator Vietnam Apk | Game4u | [Read More](https://medium.com/p/b3fbb212b289) |
@@ -96,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 As part of our ongoing… | Ankit rai | [Read More](https://medium.com/p/d0fd40a09924) |
 | Mon, 12 Jan 2026 05:14:32 GMT | When AI Systems Fail: The Critical Role of Containment, Recovery & Forensic Readiness | John Black | [Read More](https://medium.com/p/ccdd52ee1b8d) |
 | Mon, 12 Jan 2026 05:14:23 GMT | The Linux Security Journey — firetools | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/737e9ebdcfa2) |
-| Mon, 12 Jan 2026 05:13:11 GMT | Stop Hardcoding Secrets in Flutter | Yash Patel | [Read More](https://medium.com/p/59b796aea5d3) |
-| Mon, 12 Jan 2026 05:12:22 GMT | Hackers Infected the Wrong Girlfriend | Fareed Masood | [Read More](https://medium.com/p/602b48102299) |
-| Mon, 12 Jan 2026 05:10:29 GMT | Segmentasi Citra Menggunakan Adaptive Thresholding | Almas Indhar Amanullah | [Read More](https://medium.com/p/6e51e2686c03) |
-| Mon, 12 Jan 2026 05:08:49 GMT | Demonstrating a Windows Pre-Authentication Weakness: PoC | Sunkara Yashwanth | [Read More](https://medium.com/p/928539940868) |
-| Mon, 12 Jan 2026 05:04:04 GMT | Deteksi Tepi Citra Menggunakan Operator Sobel dan Canny | Almas Indhar Amanullah | [Read More](https://medium.com/p/9ba7f782db92) |
-| Mon, 12 Jan 2026 05:03:15 GMT | Bus Simulator Ultimate Mod APK | GOCMOD | [Read More](https://medium.com/p/5a9da8182090) |
-| Mon, 12 Jan 2026 04:59:49 GMT | Guide to Authentication and Session Management Vulnerabilities Part-2 | rr-1k | [Read More](https://medium.com/p/b5be690e4585) |
-| Mon, 12 Jan 2026 04:53:43 GMT | How to Protect Against Ransomware Attacks | Maxatlasofficial | [Read More](https://medium.com/p/527130930e0c) |
-| Mon, 12 Jan 2026 04:50:06 GMT | Inside the 17.5 Million Instagram Data Exposure | Deven Chhajed | [Read More](https://medium.com/p/4237b07b9449) |
-| Mon, 12 Jan 2026 04:44:05 GMT | Zero Trust Architecture: The Future of Cybersecurity | Devarshi Acharya | [Read More](https://medium.com/p/0ca4e3349638) |
-| Mon, 12 Jan 2026 04:42:52 GMT | Active directory hacking part 2 | Jwegrzyn | [Read More](https://medium.com/p/b450a9b9069d) |
-| Mon, 12 Jan 2026 04:34:29 GMT | XFS: El tendón de Aquiles de los Cajeros Automáticos | Carlos Pastrana | [Read More](https://medium.com/p/0779d0e00985) |
-| Mon, 12 Jan 2026 04:33:43 GMT | Why Breach and Attack Simulation Drives Action | Digital Duffer | [Read More](https://medium.com/p/efe550f95fad) |
-| Mon, 12 Jan 2026 04:32:21 GMT | Breach and Attack Simulation | Digital Duffer | [Read More](https://medium.com/p/cf3df4a3e8a4) |
-| Mon, 12 Jan 2026 04:30:18 GMT | Securing the Future of the UAE: Techfra Solutions Integrates Safety and Innovation | techfra solutions | [Read More](https://medium.com/p/733fb3511c05) |
-| Mon, 12 Jan 2026 04:27:20 GMT | Security 101: Certificate Pinning — When Trust Isn’t Enough | Kunal Sinha | [Read More](https://medium.com/p/8dfc5f1e67a2) |
-| Mon, 12 Jan 2026 04:23:25 GMT | Dissecting the Modbus PDU | ThatOTSecurityGuy | [Read More](https://medium.com/p/034068f23a34) |
