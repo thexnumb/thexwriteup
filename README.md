@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 05:29:44 GMT | Why Internship Drives Are Exposing the Biggest Skill Gap in Indian Students
+As part of our ongoing… | Ankit rai | [Read More](https://medium.com/p/d0fd40a09924) |
+| Mon, 12 Jan 2026 05:14:32 GMT | When AI Systems Fail: The Critical Role of Containment, Recovery & Forensic Readiness | John Black | [Read More](https://medium.com/p/ccdd52ee1b8d) |
+| Mon, 12 Jan 2026 05:14:23 GMT | The Linux Security Journey — firetools | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/737e9ebdcfa2) |
+| Mon, 12 Jan 2026 05:13:11 GMT | Stop Hardcoding Secrets in Flutter | Yash Patel | [Read More](https://medium.com/p/59b796aea5d3) |
+| Mon, 12 Jan 2026 05:12:22 GMT | Hackers Infected the Wrong Girlfriend | Fareed Masood | [Read More](https://medium.com/p/602b48102299) |
+| Mon, 12 Jan 2026 05:10:29 GMT | Segmentasi Citra Menggunakan Adaptive Thresholding | Almas Indhar Amanullah | [Read More](https://medium.com/p/6e51e2686c03) |
+| Mon, 12 Jan 2026 05:08:49 GMT | Demonstrating a Windows Pre-Authentication Weakness: PoC | Sunkara Yashwanth | [Read More](https://medium.com/p/928539940868) |
+| Mon, 12 Jan 2026 05:04:04 GMT | Deteksi Tepi Citra Menggunakan Operator Sobel dan Canny | Almas Indhar Amanullah | [Read More](https://medium.com/p/9ba7f782db92) |
+| Mon, 12 Jan 2026 05:03:15 GMT | Bus Simulator Ultimate Mod APK | GOCMOD | [Read More](https://medium.com/p/5a9da8182090) |
+| Mon, 12 Jan 2026 04:59:49 GMT | Guide to Authentication and Session Management Vulnerabilities Part-2 | rr-1k | [Read More](https://medium.com/p/b5be690e4585) |
+| Mon, 12 Jan 2026 04:53:43 GMT | How to Protect Against Ransomware Attacks | Maxatlasofficial | [Read More](https://medium.com/p/527130930e0c) |
+| Mon, 12 Jan 2026 04:50:06 GMT | Inside the 17.5 Million Instagram Data Exposure | Deven Chhajed | [Read More](https://medium.com/p/4237b07b9449) |
 | Mon, 12 Jan 2026 04:44:05 GMT | Zero Trust Architecture: The Future of Cybersecurity | Devarshi Acharya | [Read More](https://medium.com/p/0ca4e3349638) |
 | Mon, 12 Jan 2026 04:42:52 GMT | Active directory hacking part 2 | Jwegrzyn | [Read More](https://medium.com/p/b450a9b9069d) |
 | Mon, 12 Jan 2026 04:33:43 GMT | Why Breach and Attack Simulation Drives Action | Digital Duffer | [Read More](https://medium.com/p/efe550f95fad) |
@@ -101,15 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 11 Jan 2026 19:37:26 GMT | The Threat Brief — Jan 12 2026 | James Mockford | [Read More](https://medium.com/p/25657d25f7cb) |
 | Sun, 11 Jan 2026 19:37:01 GMT | Understanding Error, Defect, Bug, and Failure in Software Engineering (with Real Examples) | raw-hitt | [Read More](https://medium.com/p/396c1cfee773) |
 | Sun, 11 Jan 2026 19:21:29 GMT | Building a Secure DevOps CI/CD Pipeline | Samy H. | [Read More](https://medium.com/p/5a34c221cde5) |
-| Sun, 11 Jan 2026 19:16:55 GMT | Everything About Keylogger | Sunil Ch | [Read More](https://medium.com/p/5367f5c8a756) |
-| Sun, 11 Jan 2026 19:03:57 GMT | Muslim Powers Unite: The Saudi-Pakistan Defence Pact | Dr. Ahmad Haroon | [Read More](https://medium.com/p/c7e659867868) |
-| Sun, 11 Jan 2026 19:03:43 GMT | How a Trusted University Domain Was Abused for SEO Poisoning — Without Being “Hacked” | Julien | [Read More](https://medium.com/p/f8b09c014731) |
-| Sun, 11 Jan 2026 19:02:48 GMT | Week 4: Building the Agent (Python/Bash Log Collector) | scriptpy | [Read More](https://medium.com/p/1383b65629bf) |
-| Sun, 11 Jan 2026 19:02:47 GMT | Anti-Malware | Iram Jack | [Read More](https://medium.com/p/ad8a5ac63863) |
-| Sun, 11 Jan 2026 18:56:24 GMT | Advancing Cyber Threat Intelligence for Rapid Exploitation Response: A Unified, Decision-Ready CTI… | Sai Teja Kotagiri | [Read More](https://medium.com/p/4671c5048a4d) |
-| Sun, 11 Jan 2026 18:52:34 GMT | Building a SOC-Level Active Directory Detection & SOAR Automation Lab (Step-by-Step) | Misbah waraich | [Read More](https://medium.com/p/6416414a1a29) |
-| Sun, 11 Jan 2026 18:50:29 GMT | The Dark Side of Artificial Intelligence Nobody Wants to Talk About | Oghenetega Oraka | [Read More](https://medium.com/p/c143ee6db01a) |
-| Sun, 11 Jan 2026 18:49:52 GMT | Got A Password Reset Email From Instagram? This Might Be Why… | RayasWeb | [Read More](https://medium.com/p/7b3ae4b8a2e6) |
-| Sun, 11 Jan 2026 18:49:26 GMT | Ramping Up XC, No Matter Where the App Lives | Trevor Patch | [Read More](https://medium.com/p/cb8e60547ff7) |
-| Sun, 11 Jan 2026 18:46:53 GMT | Why ETL Pipelines Fail in Production (And How to Debug Them Systematically) | Tejas Pundpal | [Read More](https://medium.com/p/f5f3b001f664) |
-| Sun, 11 Jan 2026 18:40:07 GMT | Why Multi-Factor Authentication Isn’t Enough Anymore: Exploring MFA Bypass Techniques | Cyber_Phoenix | [Read More](https://medium.com/p/b3a7f06167b0) |
