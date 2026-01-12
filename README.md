@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 18:21:22 GMT | Information Gathering’s Assessment | db1M | [Read More](https://medium.com/p/6dd784e3be52) |
+| Mon, 12 Jan 2026 18:15:30 GMT | NodeLLM 1.5.0: Putting Security in the Driver’s Seat | Shaiju Edakulangara | [Read More](https://medium.com/p/472c0a84e14a) |
+| Mon, 12 Jan 2026 18:09:26 GMT | Common Web Vulnerabilities and How Modern Applications Prevent Them | Farhan Nasir | [Read More](https://medium.com/p/946fa563fe12) |
+| Mon, 12 Jan 2026 18:07:43 GMT | Best Home Security Camera Without Subscription: Smart Protection Without Monthly Fees | Narjis Arshad | [Read More](https://medium.com/p/747c09289bde) |
+| Mon, 12 Jan 2026 18:06:03 GMT | Go: a garbage collector where you least expect it | Nina Pakshina | [Read More](https://medium.com/p/7a85e5c689d0) |
+| Mon, 12 Jan 2026 18:02:59 GMT | We Built the System That Proves Whether Security Actually Works | Rocko Development LLC | [Read More](https://medium.com/p/ceee39cb59df) |
+| Mon, 12 Jan 2026 17:54:47 GMT | The “Big Flat Network”: How I Pivoted Through an ISP’s Infrastructure to Compromise Thousands of… | M Umer | [Read More](https://medium.com/p/4cd83dba69d5) |
+| Mon, 12 Jan 2026 17:50:15 GMT | I Almost Fell for a “Last Wish” Scam : Here’s What You Need to Know | Om Shree | [Read More](https://medium.com/p/c093ed100fc6) |
+| Mon, 12 Jan 2026 17:49:22 GMT | Cybersecurity Prediction 4: Threat Actor Lineup Shifts | Matthew.Rosenquist | [Read More](https://medium.com/p/e0f6c4be8994) |
+| Mon, 12 Jan 2026 17:48:15 GMT | The Internet Is a Single Point of Failure | MoogleTechnology Canada | [Read More](https://medium.com/p/d3b719cd5f07) |
+| Mon, 12 Jan 2026 17:44:55 GMT | Professional Security Guard Services in Canada | world guardian | [Read More](https://medium.com/p/5123d1c29f65) |
+| Mon, 12 Jan 2026 17:44:03 GMT | These Common Frontend Mistakes Make Your App an Easy Target for Hackers | Ededet John | [Read More](https://medium.com/p/24467735a263) |
 | Mon, 12 Jan 2026 17:41:46 GMT | Bypassing Email Verification via OAuth Misconfiguration | Samet Yiğit | [Read More](https://medium.com/p/cad488c15f2f) |
+| Mon, 12 Jan 2026 17:35:22 GMT | Mr. Heater Portable Buddy Heater Reviews | Narjis Arshad | [Read More](https://medium.com/p/56a789ff311c) |
 | Mon, 12 Jan 2026 17:31:49 GMT | Complete Spring Security Flow: From Request to Response (Part-2) (Spring Boot Series-11) | Asutosh Nayak | [Read More](https://medium.com/p/d360a5d22cd5) |
 | Mon, 12 Jan 2026 17:31:24 GMT | I Found a Scam on Facebook That Targets Bookworms | Jasmin James | [Read More](https://medium.com/p/56662a2cdae6) |
 | Mon, 12 Jan 2026 17:31:06 GMT | Set It and Forget It Cybersecurity? | Digital Uppercut | [Read More](https://medium.com/p/3207fea16346) |
@@ -100,16 +113,3 @@ Most people think cyber attacks happen only… | Samandar Qosimov | [Read More](
 | Mon, 12 Jan 2026 13:11:47 GMT | Beware Chat Leaks: Designing an LLM System for Banking Insider Threat Detection | Terrence Cai | [Read More](https://medium.com/p/d8543cf2d6ff) |
 | Mon, 12 Jan 2026 13:02:54 GMT | Why We Need an Agnostic Functional Model for Application-Centric Architecture | Trevor Patch | [Read More](https://medium.com/p/3700aa5f650c) |
 | Mon, 12 Jan 2026 13:02:23 GMT | Instagram Denies Breach Amid Claims of 17 Million Account Data Leak: What You Need to Know | Technijian | [Read More](https://medium.com/p/91b46d8ffbff) |
-| Mon, 12 Jan 2026 12:59:44 GMT | Modern AppSec Must Respect Data Residency. ZeroThreat Makes That Practical | Kate Bennett | [Read More](https://medium.com/p/d6f90bcf5d4e) |
-| Mon, 12 Jan 2026 12:53:57 GMT | The Ignorance Paradox in Vibe Coding (And Why It Exists in the Real World Too) | Pedroza | [Read More](https://medium.com/p/a0d148bef9a7) |
-| Mon, 12 Jan 2026 12:46:06 GMT | AlNafi AI vs Albert Jacquard | MUHAMMAD UZAIR | [Read More](https://medium.com/p/d1d855b3a2f9) |
-| Mon, 12 Jan 2026 12:45:09 GMT | Business Logic CTF Challenge BugForge: Cheesy Does It | ShadeHwak | [Read More](https://medium.com/p/25ef6ceb8172) |
-| Mon, 12 Jan 2026 12:44:15 GMT | iPhone 17e launching as soon as next month: Here are five upgrades to look forward to | Motherlandlove | [Read More](https://medium.com/p/68068832a893) |
-| Mon, 12 Jan 2026 12:42:05 GMT | Modern Parking Enforcement Software for Multi-Shift Teams | ParqEx | [Read More](https://medium.com/p/529118083e82) |
-| Mon, 12 Jan 2026 12:40:55 GMT | RST TI Report Digest: 12 Jan 2026 | RST Cloud | [Read More](https://medium.com/p/405e28a2e9e5) |
-| Mon, 12 Jan 2026 12:39:53 GMT | 30 Days of Red Team: Day 15.5 — Mid-Series Checkpoint | Maxwell Cross | [Read More](https://medium.com/p/d07bd3495dcf) |
-| Mon, 12 Jan 2026 12:38:54 GMT | Managed Cyber Security Services in Morocco for 24/7 Protection | Prakash Factosecure | [Read More](https://medium.com/p/3cdb9f372206) |
-| Mon, 12 Jan 2026 12:38:36 GMT | How to Become a Cyber Security Architect? Career Roadmap (2026) | Manisha Chaudhary | [Read More](https://medium.com/p/dfc961f272d5) |
-| Mon, 12 Jan 2026 12:33:01 GMT | Complete Guide to PostgreSQL RLS in Django: Multi-Tenant Security 2026 | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/874deafe877f) |
-| Mon, 12 Jan 2026 12:29:43 GMT | Allsafe Android Pentesting — Part 3: Hunting Hardcoded Credentials | Mscmkn | [Read More](https://medium.com/p/a946d1375e79) |
-| Mon, 12 Jan 2026 12:27:36 GMT | How To Secure Your Kubernetes Cluster: 9 Proven Practices That Actually Work Let’s Talk About… | Omar ELFarsaoui | [Read More](https://medium.com/p/f7092db2d531) |
