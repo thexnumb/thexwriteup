@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 10:42:57 GMT | Building a Network-Wide Parental Control System: A Practical Guide with Ubuntu Server and Pi-hole | Eyob Million | [Read More](https://medium.com/p/d51efe632c23) |
+| Mon, 12 Jan 2026 10:42:51 GMT | Mr. Robot CTF — TryHackMe Walkthrough | Jobin Mathew | [Read More](https://medium.com/p/fb3933e06423) |
+| Mon, 12 Jan 2026 10:42:05 GMT | How to Track a Mobile Phone Location Legally and Responsibly | Rebecca Smith | [Read More](https://medium.com/p/e5f00dfe0de9) |
+| Mon, 12 Jan 2026 10:41:25 GMT | Top 5 Cybersecurity Mistakes Putting Your Business at Risk in 2026 | aliveallenb2bblogs | [Read More](https://medium.com/p/e85637fba2d5) |
+| Mon, 12 Jan 2026 10:39:30 GMT | HTB Write-up: Cascade — LDAP Custom Attributes, .NET Reversing, and AD Recycle Bin Abuse | thebugitself | [Read More](https://medium.com/p/b82769074e5f) |
+| Mon, 12 Jan 2026 10:36:59 GMT | ️‍♂️ Traffic Analysis Walkthrough: Investigating a Phishing-Led Malware Infection Using Wireshark | Jyothsna | [Read More](https://medium.com/p/03d33629346e) |
+| Mon, 12 Jan 2026 10:32:51 GMT | Best Tech Courses to Learn in Nigeria During and After NYSC (2026 Guide) | ECR Academy | [Read More](https://medium.com/p/c2a95e77e1a0) |
+| Mon, 12 Jan 2026 10:30:13 GMT | SQL Injection UNION Attacks: Determining the Number of Columns | Rachael Muga | [Read More](https://medium.com/p/e311a738ac85) |
+| Mon, 12 Jan 2026 10:29:42 GMT | The Conversations We Start but Never Finish | Aishwarya | [Read More](https://medium.com/p/e5b45192ebc0) |
+| Mon, 12 Jan 2026 10:22:37 GMT | Why Firewalls Alone Don’t Fail — Poor Strategy Does | ANSI Technologies | [Read More](https://medium.com/p/ab0b06c7891c) |
+| Mon, 12 Jan 2026 10:19:37 GMT | Constitutional Classifiers and their Role in LLM Safety | Debal B | [Read More](https://medium.com/p/f925f3748953) |
 | Mon, 12 Jan 2026 10:16:22 GMT | I Searched 5 Fortune 500 Domains and Found 12,000+ Exposed Employees in 10 Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/90dc1596d6cb) |
 | Mon, 12 Jan 2026 10:15:26 GMT | Hidden IT Costs UAE Businesses Face When Support is Reactive Instead of Proactive | Liberty Computer System | [Read More](https://medium.com/p/d5cf31e7ea8e) |
 | Mon, 12 Jan 2026 10:09:03 GMT | Why Cyber Security Is a High-Paying Career in Chandigarh & Mohali | solitaire projects | [Read More](https://medium.com/p/26b9a1507de9) |
@@ -101,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 Jan 2026 06:00:37 GMT | I’ am new in crypto, please how i send my 5,000 USDT from قصق wallet to Binances?That | Joelle luxer | [Read More](https://medium.com/p/8816035102d0) |
 | Mon, 12 Jan 2026 05:58:43 GMT | The AI Project: Cybersecurity Prodigy | Alwin_Seb | [Read More](https://medium.com/p/8432e4e5307a) |
 | Mon, 12 Jan 2026 05:56:01 GMT | AWS Incident Response Playbook: Handling Compromised Resources Step by Step | Saria Mubeen | [Read More](https://medium.com/p/16a773edd3ac) |
-| Mon, 12 Jan 2026 05:53:19 GMT | My First Bug Bounty Report After CEH and What It Taught Me | Iamdawoodayub | [Read More](https://medium.com/p/12587d23f169) |
-| Mon, 12 Jan 2026 05:43:54 GMT | Mastering IT Regulations for Saudi Enterprises | Kadhijahafiya | [Read More](https://medium.com/p/07ec34bc0eb9) |
-| Mon, 12 Jan 2026 05:43:52 GMT | Unraveling Digital Privacy: Key Tech Terms Explained | Valentin Podkamennyi | [Read More](https://medium.com/p/0e2272f13e9f) |
-| Mon, 12 Jan 2026 05:42:36 GMT | 2025 iOS Security Guide With Code Examples: Swift & SwiftUI Checklist Every iOS Developer Must Know | Gaurav Tak | [Read More](https://medium.com/p/d35acf060fe4) |
-| Mon, 12 Jan 2026 05:42:26 GMT | Top 10 Tips for Node.js Zero-Trust Implementation | Arunangshu Das | [Read More](https://medium.com/p/d928f6fefeb3) |
-| Mon, 12 Jan 2026 05:41:36 GMT | Four Everyday Authentication Mechanisms, Explained Like You’re Building a Real System | Double Pointer | [Read More](https://medium.com/p/b8bcddb75ec3) |
-| Mon, 12 Jan 2026 05:41:24 GMT | Securing Modern Web Apps Against XSS, CSRF, and the “New” Web | Praxen | [Read More](https://medium.com/p/1c696ecc3a37) |
-| Mon, 12 Jan 2026 05:40:41 GMT | The “Denial of Wallet” Race Condition: How I Bypassed Transaction Limits (And Got Rejected) | Zer0Figure | [Read More](https://medium.com/p/546598a25a23) |
-| Mon, 12 Jan 2026 05:29:44 GMT | Why Internship Drives Are Exposing the Biggest Skill Gap in Indian Students
-As part of our ongoing… | Ankit rai | [Read More](https://medium.com/p/d0fd40a09924) |
-| Mon, 12 Jan 2026 05:14:32 GMT | When AI Systems Fail: The Critical Role of Containment, Recovery & Forensic Readiness | John Black | [Read More](https://medium.com/p/ccdd52ee1b8d) |
-| Mon, 12 Jan 2026 05:14:23 GMT | The Linux Security Journey — firetools | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/737e9ebdcfa2) |
