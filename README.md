@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 12:46:06 GMT | AlNafi AI vs Albert Jacquard | MUHAMMAD UZAIR | [Read More](https://medium.com/p/d1d855b3a2f9) |
+| Mon, 12 Jan 2026 12:45:09 GMT | Business Logic CTF Challenge BugForge: Cheesy Does It | ShadeHwak | [Read More](https://medium.com/p/25ef6ceb8172) |
+| Mon, 12 Jan 2026 12:42:05 GMT | Modern Parking Enforcement Software for Multi-Shift Teams | ParqEx | [Read More](https://medium.com/p/529118083e82) |
+| Mon, 12 Jan 2026 12:40:55 GMT | RST TI Report Digest: 12 Jan 2026 | RST Cloud | [Read More](https://medium.com/p/405e28a2e9e5) |
+| Mon, 12 Jan 2026 12:39:53 GMT | 30 Days of Red Team: Day 15.5 — Mid-Series Checkpoint | Maxwell Cross | [Read More](https://medium.com/p/d07bd3495dcf) |
+| Mon, 12 Jan 2026 12:38:54 GMT | Managed Cyber Security Services in Morocco for 24/7 Protection | Prakash Factosecure | [Read More](https://medium.com/p/3cdb9f372206) |
+| Mon, 12 Jan 2026 12:38:36 GMT | How to Become a Cyber Security Architect? Career Roadmap (2026) | Manisha Chaudhary | [Read More](https://medium.com/p/dfc961f272d5) |
+| Mon, 12 Jan 2026 12:33:01 GMT | Complete Guide to PostgreSQL RLS in Django: Multi-Tenant Security 2026 | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/874deafe877f) |
+| Mon, 12 Jan 2026 12:29:43 GMT | Allsafe Android Pentesting — Part 3: Hunting Hardcoded Credentials | Mscmkn | [Read More](https://medium.com/p/a946d1375e79) |
+| Mon, 12 Jan 2026 12:27:36 GMT | How To Secure Your Kubernetes Cluster: 9 Proven Practices That Actually Work Let’s Talk About… | Omar ELFarsaoui | [Read More](https://medium.com/p/f7092db2d531) |
+| Mon, 12 Jan 2026 12:25:34 GMT | The Rise of Shadow AI: What Netskope’s 2026 Report Means for GRC Teams | Brittney Ginther | [Read More](https://medium.com/p/e813102d17fb) |
+| Mon, 12 Jan 2026 12:24:45 GMT | The Danger of ‘Yes-AI’ at the Workplace: A Guide for Compliance and Operations Leaders | Taras Kovalchuk | [Read More](https://medium.com/p/08426e700bec) |
+| Mon, 12 Jan 2026 12:18:08 GMT | Recon Hunting en Bug Bounty | Mazinger | [Read More](https://medium.com/p/7b215e2572b1) |
+| Mon, 12 Jan 2026 12:12:30 GMT | Implementing Secure Boot and Silicon-level Cybersecurity in IoT and Embedded Devices? | Epteck GmbH | [Read More](https://medium.com/p/a6572a08eed8) |
+| Mon, 12 Jan 2026 12:06:40 GMT | Some women lie about their real Age. | Ashley Baddie ❣️ | [Read More](https://medium.com/p/2a6082661306) |
+| Mon, 12 Jan 2026 12:02:55 GMT | Writeup for picoCTF challenge “Cookie Monster Secret Recipe” | Walter Moar | [Read More](https://medium.com/p/becc9aac787c) |
+| Mon, 12 Jan 2026 12:00:54 GMT | Blockchain & Crypto Cybersecurity in 2026 | David SEHYEON Baek | [Read More](https://medium.com/p/ed1c32f1b83a) |
+| Mon, 12 Jan 2026 11:47:07 GMT | DMZ : KURUMSAL KALENİN DİJİTAL HİSARI | Hsdfsmvu | [Read More](https://medium.com/p/afd59b76a2f5) |
+| Mon, 12 Jan 2026 11:45:58 GMT | How Professional Security Camera Installation Improves Safety | ArcEye Defense of St. Louis | [Read More](https://medium.com/p/6f7d6124f27b) |
+| Mon, 12 Jan 2026 11:41:56 GMT | Why the Human Mind Is the Weakest Link in Cybersecurity | Sooraj Pandey | [Read More](https://medium.com/p/8b6fa318e06f) |
+| Mon, 12 Jan 2026 11:38:03 GMT | How Startup Product Development Is Becoming a Competitive Advantage | Bluetris Technologies | [Read More](https://medium.com/p/a62e97447223) |
 | Mon, 12 Jan 2026 11:37:27 GMT | ISO 27001 Explained: Everything You Need to Know | Azeezah | [Read More](https://medium.com/p/7dff64b1be3e) |
 | Mon, 12 Jan 2026 11:32:48 GMT | The Beginner’s Guide to OSINT: 8 Essential Tools to Start Your Investigation Journey | Adonis john | [Read More](https://medium.com/p/a27805e488a4) |
 | Mon, 12 Jan 2026 11:19:49 GMT | Day 3 | Mohammad-AL-Momani | [Read More](https://medium.com/p/2b5fc13c54d9) |
@@ -29,6 +50,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 Jan 2026 10:42:51 GMT | Mr. Robot CTF — TryHackMe Walkthrough | Jobin Mathew | [Read More](https://medium.com/p/fb3933e06423) |
 | Mon, 12 Jan 2026 10:42:05 GMT | How to Track a Mobile Phone Location Legally and Responsibly | Rebecca Smith | [Read More](https://medium.com/p/e5f00dfe0de9) |
 | Mon, 12 Jan 2026 10:41:25 GMT | Top 5 Cybersecurity Mistakes Putting Your Business at Risk in 2026 | aliveallenb2bblogs | [Read More](https://medium.com/p/e85637fba2d5) |
+| Mon, 12 Jan 2026 10:40:26 GMT | Cyber Security: Protecting Data in the Digital World | Sureshbhagath | [Read More](https://medium.com/p/f88c4ea5330b) |
 | Mon, 12 Jan 2026 10:39:30 GMT | HTB Write-up: Cascade — LDAP Custom Attributes, .NET Reversing, and AD Recycle Bin Abuse | thebugitself | [Read More](https://medium.com/p/b82769074e5f) |
 | Mon, 12 Jan 2026 10:36:59 GMT | ️‍♂️ Traffic Analysis Walkthrough: Investigating a Phishing-Led Malware Infection Using Wireshark | Jyothsna | [Read More](https://medium.com/p/03d33629346e) |
 | Mon, 12 Jan 2026 10:32:51 GMT | Best Tech Courses to Learn in Nigeria During and After NYSC (2026 Guide) | ECR Academy | [Read More](https://medium.com/p/c2a95e77e1a0) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 Jan 2026 08:02:02 GMT | Transform Your Computer Security With Antivirus for Windows | Siyanoav | [Read More](https://medium.com/p/a6a6dfcdd63d) |
 | Mon, 12 Jan 2026 07:58:17 GMT | Top 50 SOC Analyst Interview Questions and Answers (2026 Updated) | Manisha Chaudhary | [Read More](https://medium.com/p/334ad1afb943) |
 | Mon, 12 Jan 2026 07:49:35 GMT | Day 2 of the Bug Bounty Bootcamp: Learning Scope, Recon & Smart Targeting | Faizan Nazir | [Read More](https://medium.com/p/11fd85874b2a) |
-| Mon, 12 Jan 2026 07:46:57 GMT | React2Shell turned the harmless OopsSec Store page into full server access | OopsSec Store | [Read More](https://medium.com/p/2e42cf0faede) |
-| Mon, 12 Jan 2026 07:44:04 GMT | Invite Only. TryHackMe Walkthrough | Lintu Oommen | [Read More](https://medium.com/p/e951df12d533) |
-| Mon, 12 Jan 2026 07:40:54 GMT | “Going Against the (Appropriate) Flow: A Contextual Integrity Approach to Privacy Policy Analysis”… | Alif Hadiyanto | [Read More](https://medium.com/p/8a122065fbbb) |
-| Mon, 12 Jan 2026 07:33:37 GMT | 12 Powerful Ways They’re Transforming Learning in 2026 | School of Coding & AI | [Read More](https://medium.com/p/bd24ab432043) |
-| Mon, 12 Jan 2026 07:33:27 GMT | “Confidante: Usable Encrypted Email — A Case Study With Lawyers and Journalists” oleh Ada Lerner… | Alif Hadiyanto | [Read More](https://medium.com/p/63871563e529) |
-| Mon, 12 Jan 2026 07:31:26 GMT | Linux Command for Beginners | KISHORE S | [Read More](https://medium.com/p/1ae946a6caac) |
-| Mon, 12 Jan 2026 07:24:23 GMT | Custom Automation Made Simple — Hire N8N Developer | n8ndevelopers | [Read More](https://medium.com/p/99d0c77231b8) |
-| Mon, 12 Jan 2026 07:13:58 GMT | Fixing S3 Security Issues: A Practical Remediation Guide | Tarek CHEIKH | [Read More](https://medium.com/p/203088323b4d) |
-| Mon, 12 Jan 2026 07:13:57 GMT | I Built a Free AWS IAM Activity Tracker Because CloudTrail Alone Isn’t Enough | Tarek CHEIKH | [Read More](https://medium.com/p/a9e81fd762f2) |
-| Mon, 12 Jan 2026 07:09:35 GMT | Why Most People Don’t Understand Real Cybersecurity (And How Enterprises Actually Protect… | A Govindarajan | [Read More](https://medium.com/p/802b28647d33) |
-| Mon, 12 Jan 2026 07:09:05 GMT | M&S Cyberattack: A £100 Million Wake-Up Call on Cybersecurity and Resilience | RSVR Tech | [Read More](https://medium.com/p/f1617b61602e) |
-| Mon, 12 Jan 2026 07:08:48 GMT | Node.js Authentication Is Easy — Until Security Matters | Webstack | [Read More](https://medium.com/p/a72bb5f07571) |
-| Mon, 12 Jan 2026 07:08:25 GMT | Secure Your Home with Crimsafe Window Screens | Gold Coast Security Screens | [Read More](https://medium.com/p/fb1119b8aa3d) |
-| Mon, 12 Jan 2026 07:05:55 GMT | Amsi’yi anlamak | Ege | [Read More](https://medium.com/p/90a562970508) |
-| Mon, 12 Jan 2026 07:02:51 GMT | I'm Tired, But Here | Amuda Rukayat (rukeiyahh) | [Read More](https://medium.com/p/5a86cf0b29a5) |
-| Mon, 12 Jan 2026 06:59:51 GMT | CRYPTO LORD | Usamalik | [Read More](https://medium.com/p/10477d576c09) |
-| Mon, 12 Jan 2026 06:58:56 GMT | Internet of [Stranger] Things: OT, ICS Cybersecurity Challenges and Free Training Resources! | Nothing Cyber [NC] | [Read More](https://medium.com/p/52d8e0d3f367) |
-| Mon, 12 Jan 2026 06:57:01 GMT | Instagram Wasn’t “Hacked.” So Why Did Millions Panic? | Prerna Shukla | [Read More](https://medium.com/p/0044f86c3996) |
-| Mon, 12 Jan 2026 06:56:21 GMT | Networking Protocols | Anila Ashraf | [Read More](https://medium.com/p/59194c095051) |
-| Mon, 12 Jan 2026 06:42:12 GMT | Minecraft 1.21.44 APK | Bandisharecx | [Read More](https://medium.com/p/9fec18de0715) |
-| Mon, 12 Jan 2026 06:41:49 GMT | Closing 2025 making 4300$ USD and participating of the SABF (South american Business Forum) | Ivan Bernardo Pedrazas Rodriguez | [Read More](https://medium.com/p/8a4f94490a39) |
-| Mon, 12 Jan 2026 06:40:33 GMT | Hexaview’s Salesforce QA & Security Framework: Ensuring Zero-Defect, Zero-Drift CRM Deployments | Taniya sharma | [Read More](https://medium.com/p/4a52ebcbbb23) |
