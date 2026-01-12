@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 14:10:56 GMT | SOS: Your Google Drive Files May Visible to Everyone  (Fix This Now) | Duaa Al hassan | [Read More](https://medium.com/p/49927c417045) |
+| Mon, 12 Jan 2026 14:03:06 GMT | How I Use Bash Scripts to Protect My Home Network — You Can Too | Cyber Tsunami | [Read More](https://medium.com/p/704f251454c0) |
+| Mon, 12 Jan 2026 13:50:50 GMT | Do We Really Understand What a Vulnerability Is? | MouhibMahadbi | [Read More](https://medium.com/p/91f858d4aa91) |
+| Mon, 12 Jan 2026 13:50:16 GMT | Why Africa Must Prepare for Post-Quantum Cybersecurity Now | Tim Murkomen | [Read More](https://medium.com/p/933a6e324e66) |
+| Mon, 12 Jan 2026 13:46:46 GMT | An analysis of the BreachForums leak(s) | Costin Raiu | [Read More](https://medium.com/p/55539f6c18df) |
+| Mon, 12 Jan 2026 13:40:46 GMT | Applying OWASP Security Practices in the Banking Domain | Dasun Chathuranga | [Read More](https://medium.com/p/881c60b7f7fb) |
 | Mon, 12 Jan 2026 13:32:45 GMT | Linux Security Habit #16: I Freeze File Metadata Before Reading a Single Log | Faruk Ahmed | [Read More](https://medium.com/p/df099f25a71f) |
 | Mon, 12 Jan 2026 13:27:35 GMT | From Failure to $32,000: My Bug Bounty Journey | iamgk808 | [Read More](https://medium.com/p/84eac429e2d0) |
 | Mon, 12 Jan 2026 13:26:49 GMT | If a Threat Hit Today, Would You See It Coming? | OnPar Technologies | [Read More](https://medium.com/p/3dd7f1beaffe) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 Jan 2026 08:56:37 GMT | From Raw Data to Business Decisions: Your Organization Makes Data an Asset or Liability. | Daniel | [Read More](https://medium.com/p/3749863eb052) |
 | Mon, 12 Jan 2026 08:56:33 GMT | Linux Commands: A Complete Beginner’s Guide | Anila Ashraf | [Read More](https://medium.com/p/cd8fd633e195) |
 | Mon, 12 Jan 2026 08:42:39 GMT | Capcut Pro Apk | genzvnmod | [Read More](https://medium.com/p/c0e93d7e0f1d) |
-| Mon, 12 Jan 2026 08:42:00 GMT | Vibe Coder’s Security Mistakes | Abhirup Konwar | [Read More](https://medium.com/p/514089b135dd) |
-| Mon, 12 Jan 2026 08:39:44 GMT | ColdFusion RCE (Remote Code Execution) Vulnerabilities: A Proactive Defense Guide | Deepak Purohit | [Read More](https://medium.com/p/1edec28370a3) |
-| Mon, 12 Jan 2026 08:33:54 GMT | Greenland isn’t the periphery. It’s the world’s crossroads | Jacek Sumislawski | [Read More](https://medium.com/p/d8c7243c2d62) |
-| Mon, 12 Jan 2026 08:31:41 GMT | Ransomware in 2026: What Changed? | Shruti Saxena | [Read More](https://medium.com/p/8293096700b2) |
-| Mon, 12 Jan 2026 08:29:06 GMT | Bus Simulator Vietnam Apk | Game4u | [Read More](https://medium.com/p/b3fbb212b289) |
-| Mon, 12 Jan 2026 08:28:53 GMT | Agentic AI 2026 represents a significant evolution from conventional AI systems. | RankRise1 | [Read More](https://medium.com/p/c7c1cd00e786) |
