@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 16:20:33 GMT | Unpacking Microsoft Defender for Office 365: Day 4 SOC Triage—Microsoft Security Exposure… | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/f9c48140db0b) |
+| Mon, 12 Jan 2026 16:20:05 GMT | Cloud Security in 2026: How Organizations Can Protect Data in a Multi-Cloud World | Techridge Solutions | [Read More](https://medium.com/p/02733ee50f1c) |
+| Mon, 12 Jan 2026 16:15:33 GMT | Intelligence — Hack The Box | JY00X3 | [Read More](https://medium.com/p/1df96554c70b) |
+| Mon, 12 Jan 2026 16:14:42 GMT | Can I Contact McAfee Customer Service Number UK | Zuerevalexander | [Read More](https://medium.com/p/a8db87bff558) |
+| Mon, 12 Jan 2026 16:12:44 GMT | Hackviser Linux temelleri sınav makinesi çözümü | Zeynep Keman | [Read More](https://medium.com/p/073cf1984175) |
+| Mon, 12 Jan 2026 16:12:08 GMT | Why We Believe Security Shouldn’t Be Pay-to-Play | SOCFortress | [Read More](https://medium.com/p/935db4660d25) |
+| Mon, 12 Jan 2026 15:49:28 GMT | Moving mutable tags to immutable trust using digests | Christian Frank Johannsen | [Read More](https://medium.com/p/2d945f799d72) |
 | Mon, 12 Jan 2026 15:46:49 GMT | Login Liberty: Securing Identity in the Age of Modern Cyber Attacks | Dr. Shashi Karhail | [Read More](https://medium.com/p/d4a94024aa15) |
 | Mon, 12 Jan 2026 15:35:27 GMT | Stop Trusting Your Prompts: A Cryptographic Approach to LLM Security | Anuraag Khare | [Read More](https://medium.com/p/349320324182) |
 | Mon, 12 Jan 2026 15:34:58 GMT | Authentication vs Authorization: Modern Best Practices Every Developer Should Know | SOVANNARO | [Read More](https://medium.com/p/31531f9246f9) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 Jan 2026 10:36:59 GMT | ️‍♂️ Traffic Analysis Walkthrough: Investigating a Phishing-Led Malware Infection Using Wireshark | Jyothsna | [Read More](https://medium.com/p/03d33629346e) |
 | Mon, 12 Jan 2026 10:32:51 GMT | Best Tech Courses to Learn in Nigeria During and After NYSC (2026 Guide) | ECR Academy | [Read More](https://medium.com/p/c2a95e77e1a0) |
 | Mon, 12 Jan 2026 10:30:13 GMT | SQL Injection UNION Attacks: Determining the Number of Columns | Rachael Muga | [Read More](https://medium.com/p/e311a738ac85) |
-| Mon, 12 Jan 2026 10:29:42 GMT | The Conversations We Start but Never Finish | Aishwarya | [Read More](https://medium.com/p/e5b45192ebc0) |
-| Mon, 12 Jan 2026 10:22:37 GMT | Why Firewalls Alone Don’t Fail — Poor Strategy Does | ANSI Technologies | [Read More](https://medium.com/p/ab0b06c7891c) |
-| Mon, 12 Jan 2026 10:19:37 GMT | Constitutional Classifiers and their Role in LLM Safety | Debal B | [Read More](https://medium.com/p/f925f3748953) |
-| Mon, 12 Jan 2026 10:16:22 GMT | I Searched 5 Fortune 500 Domains and Found 12,000+ Exposed Employees in 10 Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/90dc1596d6cb) |
-| Mon, 12 Jan 2026 10:15:26 GMT | Hidden IT Costs UAE Businesses Face When Support is Reactive Instead of Proactive | Liberty Computer System | [Read More](https://medium.com/p/d5cf31e7ea8e) |
-| Mon, 12 Jan 2026 10:09:03 GMT | Why Cyber Security Is a High-Paying Career in Chandigarh & Mohali | solitaire projects | [Read More](https://medium.com/p/26b9a1507de9) |
-| Mon, 12 Jan 2026 10:07:31 GMT | Garmin inReach security: Insecure Link Design and User Data Privacy (Part I) | Llorenç | [Read More](https://medium.com/p/f572a47c34e1) |
