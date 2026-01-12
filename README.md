@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 11:19:49 GMT | Day 3 | Mohammad-AL-Momani | [Read More](https://medium.com/p/2b5fc13c54d9) |
+| Mon, 12 Jan 2026 11:11:57 GMT | Beware of Online Relationship Scams — How Digital Romance Turns Into a Trap | Mr Technology | [Read More](https://medium.com/p/d1ed9dff047e) |
+| Mon, 12 Jan 2026 11:00:46 GMT | Enhancing AEM Adaptive Forms PWA with Biometric Authentication | Ayush Mishra | [Read More](https://medium.com/p/1ef7ea8f2b7d) |
+| Mon, 12 Jan 2026 11:00:07 GMT | The Reverse Turing Paradox: Why We Must Stop Testing Minds and Start Testing Physics | Dino Demetriou | [Read More](https://medium.com/p/d6166c74ab48) |
+| Mon, 12 Jan 2026 10:53:48 GMT | How Safe Are Your Living and Working Spaces from Pests? | western Pest services | [Read More](https://medium.com/p/56e681d056b0) |
+| Mon, 12 Jan 2026 10:53:25 GMT | Is MSc Information Security at Royal Holloway a Good Course? (2024/25) | Aimee Liu | [Read More](https://medium.com/p/a0b9763776d4) |
+| Mon, 12 Jan 2026 10:52:49 GMT | Top 26 Cryptocurrency Risks and Mistakes in 2026 | H-X Technologies | [Read More](https://medium.com/p/2789fe9d99ae) |
+| Mon, 12 Jan 2026 10:52:32 GMT | Instagram Says “No Breach,” But Millions Got Password Reset Emails — Here’s What You Can Do | Valerie | [Read More](https://medium.com/p/8676292d978a) |
+| Mon, 12 Jan 2026 10:47:47 GMT | Fixing “Groups & Sites” Option Grayed Out in Sensitivity Labels: A Complete Guide | Ahmed Monsri | [Read More](https://medium.com/p/d4c503964fd1) |
+| Mon, 12 Jan 2026 10:46:47 GMT | The Billion-Dollar Blackout: AI’s Clumsy Quest to Hoard Your Electricity | Namir Sagheenanajar | [Read More](https://medium.com/p/91a29ec76140) |
 | Mon, 12 Jan 2026 10:42:57 GMT | Building a Network-Wide Parental Control System: A Practical Guide with Ubuntu Server and Pi-hole | Eyob Million | [Read More](https://medium.com/p/d51efe632c23) |
 | Mon, 12 Jan 2026 10:42:51 GMT | Mr. Robot CTF — TryHackMe Walkthrough | Jobin Mathew | [Read More](https://medium.com/p/fb3933e06423) |
 | Mon, 12 Jan 2026 10:42:05 GMT | How to Track a Mobile Phone Location Legally and Responsibly | Rebecca Smith | [Read More](https://medium.com/p/e5f00dfe0de9) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 Jan 2026 06:31:25 GMT | TryHackMe: K2 (Base Camp) Writeup | cbev | [Read More](https://medium.com/p/62c456f8f0ea) |
 | Mon, 12 Jan 2026 06:31:00 GMT | Day 85- Mitigating Incidents using Microsoft defender for beginners | unica 02 | [Read More](https://medium.com/p/9a20a2d1f543) |
 | Mon, 12 Jan 2026 06:22:30 GMT | Key Strategies to Optimize IT Operations for Companies in Riyadh | Rahman Iqbal | [Read More](https://medium.com/p/95053b2b94c2) |
-| Mon, 12 Jan 2026 06:22:24 GMT | Cyber Risk Quantification: When Security Data Can’t Drive Decisions | Zeron | [Read More](https://medium.com/p/81002793469a) |
-| Mon, 12 Jan 2026 06:17:53 GMT | Eleven Plus Mock Tests & HBS Classroom Exam Prep | Elevenplus Euphoria | [Read More](https://medium.com/p/12640d1cbfdb) |
-| Mon, 12 Jan 2026 06:15:36 GMT | 2026 Freight Prediction: Insurance Will Force the Security Reckoning the Industry Keeps Avoiding | Heesham Naji | [Read More](https://medium.com/p/e08c3962c6a2) |
-| Mon, 12 Jan 2026 06:08:57 GMT | Content Security Policy (CSP) Explained: Simple Guide for XSS Defense | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/5ebf67612351) |
-| Mon, 12 Jan 2026 06:05:58 GMT | How I Got My First Bug Bounty (And What I’d Do Differently) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/ffab3dfbc5cb) |
-| Mon, 12 Jan 2026 06:02:54 GMT | The Hydra of Modern Identity — Why IAM Feels So Hard | Dilanka Muthukumarana | [Read More](https://medium.com/p/867839c2ee77) |
-| Mon, 12 Jan 2026 06:02:54 GMT | Light Out, 7B (Part 10) | edarit | [Read More](https://medium.com/p/2f7c505eec97) |
-| Mon, 12 Jan 2026 06:00:37 GMT | I’ am new in crypto, please how i send my 5,000 USDT from قصق wallet to Binances?That | Joelle luxer | [Read More](https://medium.com/p/8816035102d0) |
-| Mon, 12 Jan 2026 05:58:43 GMT | The AI Project: Cybersecurity Prodigy | Alwin_Seb | [Read More](https://medium.com/p/8432e4e5307a) |
-| Mon, 12 Jan 2026 05:56:01 GMT | AWS Incident Response Playbook: Handling Compromised Resources Step by Step | Saria Mubeen | [Read More](https://medium.com/p/16a773edd3ac) |
