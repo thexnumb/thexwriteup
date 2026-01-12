@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 11:37:27 GMT | ISO 27001 Explained: Everything You Need to Know | Azeezah | [Read More](https://medium.com/p/7dff64b1be3e) |
+| Mon, 12 Jan 2026 11:32:48 GMT | The Beginner’s Guide to OSINT: 8 Essential Tools to Start Your Investigation Journey | Adonis john | [Read More](https://medium.com/p/a27805e488a4) |
 | Mon, 12 Jan 2026 11:19:49 GMT | Day 3 | Mohammad-AL-Momani | [Read More](https://medium.com/p/2b5fc13c54d9) |
+| Mon, 12 Jan 2026 11:14:36 GMT | AI sets odds of XRP hitting $10 in 2026 | Motherlandlove | [Read More](https://medium.com/p/35098d0964a1) |
 | Mon, 12 Jan 2026 11:11:57 GMT | Beware of Online Relationship Scams — How Digital Romance Turns Into a Trap | Mr Technology | [Read More](https://medium.com/p/d1ed9dff047e) |
 | Mon, 12 Jan 2026 11:00:46 GMT | Enhancing AEM Adaptive Forms PWA with Biometric Authentication | Ayush Mishra | [Read More](https://medium.com/p/1ef7ea8f2b7d) |
 | Mon, 12 Jan 2026 11:00:07 GMT | The Reverse Turing Paradox: Why We Must Stop Testing Minds and Start Testing Physics | Dino Demetriou | [Read More](https://medium.com/p/d6166c74ab48) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 Jan 2026 06:42:12 GMT | Minecraft 1.21.44 APK | Bandisharecx | [Read More](https://medium.com/p/9fec18de0715) |
 | Mon, 12 Jan 2026 06:41:49 GMT | Closing 2025 making 4300$ USD and participating of the SABF (South american Business Forum) | Ivan Bernardo Pedrazas Rodriguez | [Read More](https://medium.com/p/8a4f94490a39) |
 | Mon, 12 Jan 2026 06:40:33 GMT | Hexaview’s Salesforce QA & Security Framework: Ensuring Zero-Defect, Zero-Drift CRM Deployments | Taniya sharma | [Read More](https://medium.com/p/4a52ebcbbb23) |
-| Mon, 12 Jan 2026 06:31:25 GMT | TryHackMe: K2 (Base Camp) Writeup | cbev | [Read More](https://medium.com/p/62c456f8f0ea) |
-| Mon, 12 Jan 2026 06:31:00 GMT | Day 85- Mitigating Incidents using Microsoft defender for beginners | unica 02 | [Read More](https://medium.com/p/9a20a2d1f543) |
-| Mon, 12 Jan 2026 06:22:30 GMT | Key Strategies to Optimize IT Operations for Companies in Riyadh | Rahman Iqbal | [Read More](https://medium.com/p/95053b2b94c2) |
