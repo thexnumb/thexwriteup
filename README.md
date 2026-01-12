@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 07:24:23 GMT | Custom Automation Made Simple — Hire N8N Developer | n8ndevelopers | [Read More](https://medium.com/p/99d0c77231b8) |
+| Mon, 12 Jan 2026 07:13:58 GMT | Fixing S3 Security Issues: A Practical Remediation Guide | Tarek CHEIKH | [Read More](https://medium.com/p/203088323b4d) |
+| Mon, 12 Jan 2026 07:13:57 GMT | I Built a Free AWS IAM Activity Tracker Because CloudTrail Alone Isn’t Enough | Tarek CHEIKH | [Read More](https://medium.com/p/a9e81fd762f2) |
+| Mon, 12 Jan 2026 07:09:35 GMT | Why Most People Don’t Understand Real Cybersecurity (And How Enterprises Actually Protect… | A Govindarajan | [Read More](https://medium.com/p/802b28647d33) |
+| Mon, 12 Jan 2026 07:09:05 GMT | M&S Cyberattack: A £100 Million Wake-Up Call on Cybersecurity and Resilience | RSVR Tech | [Read More](https://medium.com/p/f1617b61602e) |
+| Mon, 12 Jan 2026 07:08:48 GMT | Node.js Authentication Is Easy — Until Security Matters | Webstack | [Read More](https://medium.com/p/a72bb5f07571) |
+| Mon, 12 Jan 2026 07:08:25 GMT | Secure Your Home with Crimsafe Window Screens | Gold Coast Security Screens | [Read More](https://medium.com/p/fb1119b8aa3d) |
+| Mon, 12 Jan 2026 07:05:55 GMT | Amsi’yi anlamak | Ege | [Read More](https://medium.com/p/90a562970508) |
+| Mon, 12 Jan 2026 07:02:51 GMT | I'm Tired, But Here | Amuda Rukayat (rukeiyahh) | [Read More](https://medium.com/p/5a86cf0b29a5) |
+| Mon, 12 Jan 2026 06:59:51 GMT | CRYPTO LORD | Usamalik | [Read More](https://medium.com/p/10477d576c09) |
+| Mon, 12 Jan 2026 06:58:56 GMT | Internet of [Stranger] Things: OT, ICS Cybersecurity Challenges and Free Training Resources! | Nothing Cyber [NC] | [Read More](https://medium.com/p/52d8e0d3f367) |
+| Mon, 12 Jan 2026 06:57:01 GMT | Instagram Wasn’t “Hacked.” So Why Did Millions Panic? | Prerna Shukla | [Read More](https://medium.com/p/0044f86c3996) |
+| Mon, 12 Jan 2026 06:56:21 GMT | Networking Protocols | Anila Ashraf | [Read More](https://medium.com/p/59194c095051) |
+| Mon, 12 Jan 2026 06:42:12 GMT | Minecraft 1.21.44 APK | Bandisharecx | [Read More](https://medium.com/p/9fec18de0715) |
+| Mon, 12 Jan 2026 06:41:49 GMT | Closing 2025 making 4300$ USD and participating of the SABF (South american Business Forum) | Ivan Bernardo Pedrazas Rodriguez | [Read More](https://medium.com/p/8a4f94490a39) |
+| Mon, 12 Jan 2026 06:40:33 GMT | Hexaview’s Salesforce QA & Security Framework: Ensuring Zero-Defect, Zero-Drift CRM Deployments | Taniya sharma | [Read More](https://medium.com/p/4a52ebcbbb23) |
+| Mon, 12 Jan 2026 06:31:25 GMT | TryHackMe: K2 (Base Camp) Writeup | cbev | [Read More](https://medium.com/p/62c456f8f0ea) |
 | Mon, 12 Jan 2026 06:31:00 GMT | Day 85- Mitigating Incidents using Microsoft defender for beginners | unica 02 | [Read More](https://medium.com/p/9a20a2d1f543) |
 | Mon, 12 Jan 2026 06:22:30 GMT | Key Strategies to Optimize IT Operations for Companies in Riyadh | Rahman Iqbal | [Read More](https://medium.com/p/95053b2b94c2) |
 | Mon, 12 Jan 2026 06:22:24 GMT | Cyber Risk Quantification: When Security Data Can’t Drive Decisions | Zeron | [Read More](https://medium.com/p/81002793469a) |
@@ -96,20 +113,3 @@ As part of our ongoing… | Ankit rai | [Read More](https://medium.com/p/d0fd40a
 | Sun, 11 Jan 2026 22:55:23 GMT | Fortigate Installation (VM) | Mehmet Ali Gülyurdu | [Read More](https://medium.com/p/b8d312c465fa) |
 | Sun, 11 Jan 2026 22:55:15 GMT | Professional Ethical Hacking & Digital Investigation Services. | Private-hackers.com | [Read More](https://medium.com/p/dfe556433b74) |
 | Sun, 11 Jan 2026 22:48:50 GMT | To Be Seen | Savannah Gilmore | [Read More](https://medium.com/p/a3ba6509ffad) |
-| Sun, 11 Jan 2026 22:43:18 GMT | 30 Days of Red Team: Day 15 — Credential Harvesting | Maxwell Cross | [Read More](https://medium.com/p/829737ccc5e6) |
-| Sun, 11 Jan 2026 22:36:22 GMT | The Hidden Dangers of Multi-Agent Systems: A case study of Critical Vulnerabilities in Production… | Priyanka Chakraborti | [Read More](https://medium.com/p/21c6abc990d2) |
-| Sun, 11 Jan 2026 22:33:27 GMT | Architecting for Uncertainty | Amit Tomar | [Read More](https://medium.com/p/2548f1ab94fc) |
-| Sun, 11 Jan 2026 22:11:49 GMT | Beyond IDOR: Discovering a Stored XSS in a Vulnerable Web Platform | mv999exe | [Read More](https://medium.com/p/3644bdb67a2e) |
-| Sun, 11 Jan 2026 22:03:37 GMT | Thread Name Calling DLL Injection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/cd50147a96b5) |
-| Sun, 11 Jan 2026 22:01:55 GMT | Cybersecurity for the Soul: Protecting Our Digital and Emotional Boundaries | gershblumstein | [Read More](https://medium.com/p/bd94dbd37071) |
-| Sun, 11 Jan 2026 21:50:53 GMT | When Consciousness Becomes a Stage | OlhosDeAguiaDivino | [Read More](https://medium.com/p/d3b6fcfe54b7) |
-| Sun, 11 Jan 2026 21:49:31 GMT | No Computer? No Problem. The Ultimate Guide to Termux Hacking | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/0eb333384926) |
-| Sun, 11 Jan 2026 21:43:55 GMT | Back to Basics: How I took over an account with a simple ID change (IDOR) | mv999exe | [Read More](https://medium.com/p/b82960cafd3c) |
-| Sun, 11 Jan 2026 21:29:09 GMT | Advent of Cyber — Day 14 — Containers: DoorDasher’s Demise | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/5a5ff640ec8f) |
-| Sun, 11 Jan 2026 21:27:51 GMT | Advent of Cyber — Day 13 — YARA Rules: YARA Mean One! | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/d6f87b0bcafe) |
-| Sun, 11 Jan 2026 21:20:03 GMT | Operation Endgame: The fall of DanaBot | dovidee | [Read More](https://medium.com/p/4c98068050a0) |
-| Sun, 11 Jan 2026 21:15:38 GMT | Why Millions Still Search for CCleaner Download in 2026 | SAWAHITS | [Read More](https://medium.com/p/dc5823267f9a) |
-| Sun, 11 Jan 2026 21:12:59 GMT | Mastering Mac Performance When Memory Pressure Slows You Down | Geoffrey Wenger | [Read More](https://medium.com/p/195679dc8d9e) |
-| Sun, 11 Jan 2026 20:57:09 GMT | Continuous Threat Modeling for Internet-Scale Backend Platforms | Luigi Iacuaniello | [Read More](https://medium.com/p/b256acfbcf6d) |
-| Sun, 11 Jan 2026 20:54:23 GMT | API Gateway vs Caddy: Security and Reliability in Modern Web Application Development | Alexander Ilves | [Read More](https://medium.com/p/7652847cd43b) |
-| Sun, 11 Jan 2026 20:53:49 GMT | I came, I vibe-coded, and I learned things YOU should know about | BowTiesAreCool | [Read More](https://medium.com/p/727588a0f7f3) |
