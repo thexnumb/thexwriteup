@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 21:37:07 GMT | Ni8mare (CVE-2026–21858) | IndigoINT | [Read More](https://medium.com/p/2c667e4a4fa4) |
+| Mon, 12 Jan 2026 21:19:39 GMT | 0day-CTF | guyvolvo | [Read More](https://medium.com/p/898eb2d3478d) |
 | Mon, 12 Jan 2026 21:01:33 GMT | Hunting Lazarus: Inside the Contagious Interview C2 Infrastructure | Red Asgard | [Read More](https://medium.com/p/435375a5c66d) |
 | Mon, 12 Jan 2026 20:52:26 GMT | Your IDE Might Betray You Before You Run Anything | Ryan W | [Read More](https://medium.com/p/da937667ecea) |
 | Mon, 12 Jan 2026 20:40:12 GMT | Write-up: Enterprise lab on THM | cLODIUS cOCK | [Read More](https://medium.com/p/63549fc930bf) |
@@ -113,5 +115,3 @@ Most people think cyber attacks happen only… | Samandar Qosimov | [Read More](
 | Mon, 12 Jan 2026 15:35:27 GMT | Stop Trusting Your Prompts: A Cryptographic Approach to LLM Security | Anuraag Khare | [Read More](https://medium.com/p/349320324182) |
 | Mon, 12 Jan 2026 15:34:58 GMT | Authentication vs Authorization: Modern Best Practices Every Developer Should Know | SOVANNARO | [Read More](https://medium.com/p/31531f9246f9) |
 | Mon, 12 Jan 2026 15:33:52 GMT | Google’s Willow Quantum Chip: The Beginning of a New Computational Age | Tech Intel | [Read More](https://medium.com/p/655077181fcf) |
-| Mon, 12 Jan 2026 15:31:52 GMT | Master Ethical Hacking in 2026 - A Complete Guide With No Cost and No Login Required | Amir Faysal | [Read More](https://medium.com/p/23b76797a6f3) |
-| Mon, 12 Jan 2026 15:30:51 GMT | How Hackers Redirect Users to Fake Websites using Pharming | SeQEW | [Read More](https://medium.com/p/2e1e51ad531d) |
