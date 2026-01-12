@@ -12,8 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 19:37:29 GMT | How I recovered my lost cryptocurrency from a scam company. | Vincent Gamba | [Read More](https://medium.com/p/3086674a7e62) |
+| Mon, 12 Jan 2026 19:35:40 GMT | # Stop Wasting Hours Setting Up Your Parrot OS — Here’s an Open Source Tool That Does It in Minutes | Zahradeen Muazu | [Read More](https://medium.com/p/a92ab6d834c3) |
+| Mon, 12 Jan 2026 19:35:38 GMT | Cyber Threat Intelligence: A Practical Guide to All Methods | ZaslonX - Cybersecurity | [Read More](https://medium.com/p/80e1bd91fcd8) |
+| Mon, 12 Jan 2026 19:32:50 GMT | INE / eJPT / Assessment Methodologies: Footprinting and Scanning CTF 1 | Salihugurlu | [Read More](https://medium.com/p/c4e2458bfb06) |
+| Mon, 12 Jan 2026 19:29:37 GMT | She, the Fear | Fabiana Tavares | [Read More](https://medium.com/p/c7073dc7c71a) |
+| Mon, 12 Jan 2026 19:27:51 GMT | How a Unified Security Platform Strengthens Your Information Security Management System | Teona | [Read More](https://medium.com/p/7f9c0586ea06) |
+| Mon, 12 Jan 2026 19:26:49 GMT | Modern Vulnerability Management & Penetration Testing Services | IT_Engineer | [Read More](https://medium.com/p/eedb47de4405) |
+| Mon, 12 Jan 2026 19:25:45 GMT | What is Cyber Security ? | Tharindu Viduranga | [Read More](https://medium.com/p/08c63c54d347) |
+| Mon, 12 Jan 2026 19:24:13 GMT | How Deepfakes and AI Agents Are Rewriting Risk Transfer & Insurance | Valdez Ladd | [Read More](https://medium.com/p/f32819d3ce5e) |
+| Mon, 12 Jan 2026 19:19:10 GMT | AI Adoption Turned IT & Security Analysts into Babysitters | Graylog | [Read More](https://medium.com/p/0e815a0cd3b4) |
 | Mon, 12 Jan 2026 19:19:08 GMT | Threat Modeling (with Chickens) | Aaron Weaver | [Read More](https://medium.com/p/4de5ead1528d) |
 | Mon, 12 Jan 2026 19:18:17 GMT | Keep Your Devices Safe From Misleading System Optimizer Apps | Geoffrey Wenger | [Read More](https://medium.com/p/0403e64c3663) |
+| Mon, 12 Jan 2026 19:17:02 GMT | Hands-On Exploitation of CVE-2025–54918 | Yousof Nahya | [Read More](https://medium.com/p/cf376ebb40e1) |
+| Mon, 12 Jan 2026 19:17:01 GMT | The Fortress of DeFi: Why $VEC is Built to Last ️ | VelaCore | [Read More](https://medium.com/p/a4ff7b075849) |
 | Mon, 12 Jan 2026 19:16:47 GMT | Rivalry — Hackviser Real-World Scenario Walkthrough | Hussein 404 | [Read More](https://medium.com/p/276134f182eb) |
 | Mon, 12 Jan 2026 19:08:44 GMT | My Code Broke. This Simple Trick Saved Me | Imran Khan | [Read More](https://medium.com/p/c178c61c87f6) |
 | Mon, 12 Jan 2026 19:05:12 GMT | Hacker At Work:Recon Workflow Process | ghostyjoe | [Read More](https://medium.com/p/ad056880a271) |
@@ -101,15 +113,3 @@ Most people think cyber attacks happen only… | Samandar Qosimov | [Read More](
 | Mon, 12 Jan 2026 15:03:13 GMT | The Coming War Won’t Be with Tanks and Guns | Tom Hanratty | [Read More](https://medium.com/p/833eac055f2a) |
 | Mon, 12 Jan 2026 15:03:07 GMT | Cyber Briefing: 2026.01.12 | CyberMaterial | [Read More](https://medium.com/p/2b8183cb7d13) |
 | Mon, 12 Jan 2026 14:55:24 GMT | I Built a Simpler FoxyProxy Alternative — Here’s Why | Eragon Kashyap | [Read More](https://medium.com/p/0c5ca3e2d3b2) |
-| Mon, 12 Jan 2026 14:51:11 GMT | Feedback: A Journey Toward Leadership | Bronze | [Read More](https://medium.com/p/c87ef7a4f239) |
-| Mon, 12 Jan 2026 14:46:14 GMT | The “New” OWASP Top 10: Why We’re Treating “Insecure Design” as a Personal Attack | Rebecca Cottignies | [Read More](https://medium.com/p/8ee9ca066164) |
-| Mon, 12 Jan 2026 14:42:27 GMT | Where Responsible AI Theory Fails Under Pressure | Rajendra Medhi | [Read More](https://medium.com/p/d31c9afe3838) |
-| Mon, 12 Jan 2026 14:39:19 GMT | Cybersecurity in 2026: AI, Zero Trust & the New Age of Automated Attacks | Niharika | [Read More](https://medium.com/p/b1648ff44e02) |
-| Mon, 12 Jan 2026 14:32:45 GMT | Capturing Passwords and Cookies in the Network: A Comprehensive Guide to Using Wireshark | Vignesh R | [Read More](https://medium.com/p/f50ceae5867a) |
-| Mon, 12 Jan 2026 14:27:10 GMT | From CES to the Living Room: AI, Convenience, and Risk | Jeff Kingsland | [Read More](https://medium.com/p/552e4b4484ba) |
-| Mon, 12 Jan 2026 14:10:56 GMT | SOS: Your Google Drive Files May Visible to Everyone  (Fix This Now) | Duaa Al hassan | [Read More](https://medium.com/p/49927c417045) |
-| Mon, 12 Jan 2026 14:09:36 GMT | STOLEN TOKENS, NOT STOLEN PASSWORDS: Why Token Protection Is the Third Zero Trust Pillar in… | JoaoP. | [Read More](https://medium.com/p/97b92bd9e29b) |
-| Mon, 12 Jan 2026 14:03:06 GMT | How I Use Bash Scripts to Protect My Home Network — You Can Too | Cyber Tsunami | [Read More](https://medium.com/p/704f251454c0) |
-| Mon, 12 Jan 2026 13:50:50 GMT | Do We Really Understand What a Vulnerability Is? | MouhibMahadbi | [Read More](https://medium.com/p/91f858d4aa91) |
-| Mon, 12 Jan 2026 13:50:16 GMT | Why Africa Must Prepare for Post-Quantum Cybersecurity Now | Tim Murkomen | [Read More](https://medium.com/p/933a6e324e66) |
-| Mon, 12 Jan 2026 13:46:46 GMT | An analysis of the BreachForums leak(s) | Costin Raiu | [Read More](https://medium.com/p/55539f6c18df) |
