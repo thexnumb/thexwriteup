@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 19:19:08 GMT | Threat Modeling (with Chickens) | Aaron Weaver | [Read More](https://medium.com/p/4de5ead1528d) |
+| Mon, 12 Jan 2026 19:18:17 GMT | Keep Your Devices Safe From Misleading System Optimizer Apps | Geoffrey Wenger | [Read More](https://medium.com/p/0403e64c3663) |
+| Mon, 12 Jan 2026 19:16:47 GMT | Rivalry — Hackviser Real-World Scenario Walkthrough | Hussein 404 | [Read More](https://medium.com/p/276134f182eb) |
+| Mon, 12 Jan 2026 19:08:44 GMT | My Code Broke. This Simple Trick Saved Me | Imran Khan | [Read More](https://medium.com/p/c178c61c87f6) |
+| Mon, 12 Jan 2026 19:05:12 GMT | Hacker At Work:Recon Workflow Process | ghostyjoe | [Read More](https://medium.com/p/ad056880a271) |
+| Mon, 12 Jan 2026 19:03:17 GMT | Anti-Bot | Iram Jack | [Read More](https://medium.com/p/ab9a4fe8687d) |
+| Mon, 12 Jan 2026 19:01:13 GMT | Void — Hackviser Real-World Scenario Walkthrough | Hussein 404 | [Read More](https://medium.com/p/555d90edf623) |
+| Mon, 12 Jan 2026 18:56:10 GMT | Lab: Authentication bypass via encryption oracle | Songül Kızılay Özügürler | [Read More](https://medium.com/p/dcab43bb72b4) |
+| Mon, 12 Jan 2026 18:48:06 GMT | Default to Delete: How New Operating Systems Are Reversing 50 Years of Design | Kihara Kimachia | [Read More](https://medium.com/p/04aeaba8df7c) |
+| Mon, 12 Jan 2026 18:44:57 GMT | Upcoming Go Security Releases | ASAcrew Blog | [Read More](https://medium.com/p/b7618d0b19c9) |
+| Mon, 12 Jan 2026 18:44:53 GMT | Outdated (Proving Grounds Practice Box) | Adam Bartlett | [Read More](https://medium.com/p/3fd2eb819e79) |
+| Mon, 12 Jan 2026 18:40:22 GMT | HTB — Agile Writeup | Ayça Gül | [Read More](https://medium.com/p/d269f798b8cc) |
+| Mon, 12 Jan 2026 18:37:37 GMT | The Bug Bounty Toolkit (2026): Tools, Workflows, and Real-World Recon That Actually Finds Bugs | ghostyjoe | [Read More](https://medium.com/p/bb880a407be6) |
 | Mon, 12 Jan 2026 18:21:22 GMT | Information Gathering’s Assessment | db1M | [Read More](https://medium.com/p/6dd784e3be52) |
 | Mon, 12 Jan 2026 18:15:30 GMT | NodeLLM 1.5.0: Putting Security in the Driver’s Seat | Shaiju Edakulangara | [Read More](https://medium.com/p/472c0a84e14a) |
 | Mon, 12 Jan 2026 18:09:26 GMT | Common Web Vulnerabilities and How Modern Applications Prevent Them | Farhan Nasir | [Read More](https://medium.com/p/946fa563fe12) |
@@ -100,16 +113,3 @@ Most people think cyber attacks happen only… | Samandar Qosimov | [Read More](
 | Mon, 12 Jan 2026 13:50:50 GMT | Do We Really Understand What a Vulnerability Is? | MouhibMahadbi | [Read More](https://medium.com/p/91f858d4aa91) |
 | Mon, 12 Jan 2026 13:50:16 GMT | Why Africa Must Prepare for Post-Quantum Cybersecurity Now | Tim Murkomen | [Read More](https://medium.com/p/933a6e324e66) |
 | Mon, 12 Jan 2026 13:46:46 GMT | An analysis of the BreachForums leak(s) | Costin Raiu | [Read More](https://medium.com/p/55539f6c18df) |
-| Mon, 12 Jan 2026 13:40:46 GMT | Applying OWASP Security Practices in the Banking Domain | Dasun Chathuranga | [Read More](https://medium.com/p/881c60b7f7fb) |
-| Mon, 12 Jan 2026 13:32:45 GMT | Linux Security Habit #16: I Freeze File Metadata Before Reading a Single Log | Faruk Ahmed | [Read More](https://medium.com/p/df099f25a71f) |
-| Mon, 12 Jan 2026 13:27:35 GMT | From Failure to $32,000: My Bug Bounty Journey | iamgk808 | [Read More](https://medium.com/p/84eac429e2d0) |
-| Mon, 12 Jan 2026 13:26:49 GMT | If a Threat Hit Today, Would You See It Coming? | OnPar Technologies | [Read More](https://medium.com/p/3dd7f1beaffe) |
-| Mon, 12 Jan 2026 13:26:42 GMT | ️ PROTOCOL BREACH: Engineering Total Domain Compromise on HTB Escape | Nicholas Mullenski | [Read More](https://medium.com/p/350ecacf457c) |
-| Mon, 12 Jan 2026 13:25:29 GMT | How To Recover Lost Or Scammed Cryptocurrency Visit OPTIMISTIC HACKER GAIUS | Jamesdalot | [Read More](https://medium.com/p/11010ac4b200) |
-| Mon, 12 Jan 2026 13:15:21 GMT | PlayStation Games Aren’t Just Games — They’re Emotional Worlds We Live In | Motherlandlove | [Read More](https://medium.com/p/5ae19c6a27e6) |
-| Mon, 12 Jan 2026 13:14:23 GMT | Performance vs Protection in Real Systems: What Developers Must Choose? | Ade Mawan | [Read More](https://medium.com/p/464c69d2277c) |
-| Mon, 12 Jan 2026 13:12:31 GMT | SQL injection UNION attack, retrieving data from other tables( Portswigger Lab) | Rachael Muga | [Read More](https://medium.com/p/27e73fd32ba0) |
-| Mon, 12 Jan 2026 13:12:17 GMT | Why TikTok Shop Automation Doesn't Work for Most Sellers? | WebBee Global | [Read More](https://medium.com/p/c741bf3a9942) |
-| Mon, 12 Jan 2026 13:11:47 GMT | Beware Chat Leaks: Designing an LLM System for Banking Insider Threat Detection | Terrence Cai | [Read More](https://medium.com/p/d8543cf2d6ff) |
-| Mon, 12 Jan 2026 13:02:54 GMT | Why We Need an Agnostic Functional Model for Application-Centric Architecture | Trevor Patch | [Read More](https://medium.com/p/3700aa5f650c) |
-| Mon, 12 Jan 2026 13:02:23 GMT | Instagram Denies Breach Amid Claims of 17 Million Account Data Leak: What You Need to Know | Technijian | [Read More](https://medium.com/p/91b46d8ffbff) |
