@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 04:44:05 GMT | Zero Trust Architecture: The Future of Cybersecurity | Devarshi Acharya | [Read More](https://medium.com/p/0ca4e3349638) |
+| Mon, 12 Jan 2026 04:42:52 GMT | Active directory hacking part 2 | Jwegrzyn | [Read More](https://medium.com/p/b450a9b9069d) |
+| Mon, 12 Jan 2026 04:33:43 GMT | Why Breach and Attack Simulation Drives Action | Digital Duffer | [Read More](https://medium.com/p/efe550f95fad) |
+| Mon, 12 Jan 2026 04:32:21 GMT | Breach and Attack Simulation | Digital Duffer | [Read More](https://medium.com/p/cf3df4a3e8a4) |
+| Mon, 12 Jan 2026 04:30:18 GMT | Securing the Future of the UAE: Techfra Solutions Integrates Safety and Innovation | techfra solutions | [Read More](https://medium.com/p/733fb3511c05) |
+| Mon, 12 Jan 2026 04:27:20 GMT | Security 101: Certificate Pinning — When Trust Isn’t Enough | Kunal Sinha | [Read More](https://medium.com/p/8dfc5f1e67a2) |
+| Mon, 12 Jan 2026 04:23:25 GMT | Dissecting the Modbus PDU | ThatOTSecurityGuy | [Read More](https://medium.com/p/034068f23a34) |
+| Mon, 12 Jan 2026 04:17:53 GMT | The ‘Old’ Bug That Won’t Die: Why 10,000+ Fortinet Firewalls Are Still at Risk in 2026 | Manubhav Sharma | [Read More](https://medium.com/p/a3f61bea2187) |
+| Mon, 12 Jan 2026 04:17:32 GMT | Cybersec Ledger January 11, 2026 | Tier Zero Defense | [Read More](https://medium.com/p/d36fab67e1ca) |
+| Mon, 12 Jan 2026 04:14:31 GMT | Malops: Singularity | Cwrw | [Read More](https://medium.com/p/b3653d8fb3be) |
+| Mon, 12 Jan 2026 04:11:26 GMT | Day 6 —  Understanding Web Applications Like a Security Engineer: Attacks, Defenses, and… | NineTales | [Read More](https://medium.com/p/068e9ce6e9fe) |
+| Mon, 12 Jan 2026 04:08:12 GMT | When IT Documentation Is Missing, Risk Takes Over | Zikrullah Danish | [Read More](https://medium.com/p/4e0ce0fb83e1) |
+| Mon, 12 Jan 2026 04:04:29 GMT | Shot of SQL at the Cafe Club — BugForge Daily | 0ber1n | [Read More](https://medium.com/p/8718c4e55a97) |
+| Mon, 12 Jan 2026 04:03:51 GMT | Secure API Key Handling in Android: What Actually Works | Ogak Dev | [Read More](https://medium.com/p/c80286be7e52) |
+| Mon, 12 Jan 2026 03:58:16 GMT | Understanding the Importance of Services Enumeration in Ethical Hacking | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/2248e7533a63) |
+| Mon, 12 Jan 2026 03:57:27 GMT | Strong, Until Nightfall | Unspokenby.P | [Read More](https://medium.com/p/008106e0f5ac) |
 | Mon, 12 Jan 2026 03:33:26 GMT | Residential vs Datacenter Proxies: What Detection Systems Look For | Nilanka Wijemuni | [Read More](https://medium.com/p/09baf67c707b) |
 | Mon, 12 Jan 2026 03:32:03 GMT | Technical Analysis of an Sagerunex Backdoor Variant | Robert | [Read More](https://medium.com/p/5d70f1a89488) |
 | Mon, 12 Jan 2026 03:29:25 GMT | Installing Security Onion in VirtualBox: A Complete Beginner’s Guide | Mavanidharmik | [Read More](https://medium.com/p/9e83d0ed3d7d) |
@@ -23,6 +39,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 Jan 2026 02:51:06 GMT | Unlocking the Power of Crunch: Advanced Wordlist Crafting for Professional Pentesters ⚙️ | Cybeague Technologies | [Read More](https://medium.com/p/ce0c363572c9) |
 | Mon, 12 Jan 2026 02:50:03 GMT | Getting Started with Crunch: The Fast Lane to Smart Wordlist Generation | Cybeague Technologies | [Read More](https://medium.com/p/68f9038a859c) |
 | Mon, 12 Jan 2026 02:45:10 GMT | Stop Your Boss From Spying: The Best Webcam Covers and Privacy Screens | Paul Jacky | [Read More](https://medium.com/p/b44d441bb839) |
+| Mon, 12 Jan 2026 02:37:39 GMT | Enjoy 60% Off Domain Purchases at GoDaddy | Estelaluo | [Read More](https://medium.com/p/4be79853c5a7) |
 | Mon, 12 Jan 2026 02:26:35 GMT | Change Your IP Address Every 3 Seconds: How IP Rotation Protects Your Privacy | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/8183b9a02a74) |
 | Mon, 12 Jan 2026 02:11:16 GMT | Bruteforce Helper tool by Ryan Cham Rui Yang | Ryan Cham Rui Yang | [Read More](https://medium.com/p/5402dec1c744) |
 | Mon, 12 Jan 2026 01:30:14 GMT | ☕ Master CISSP Domain 4: 40 Coffee Shot Questions (Part 2 of 2) | Pushpak Sharma | [Read More](https://medium.com/p/c075a3ace2f2) |
@@ -96,22 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 11 Jan 2026 18:49:26 GMT | Ramping Up XC, No Matter Where the App Lives | Trevor Patch | [Read More](https://medium.com/p/cb8e60547ff7) |
 | Sun, 11 Jan 2026 18:46:53 GMT | Why ETL Pipelines Fail in Production (And How to Debug Them Systematically) | Tejas Pundpal | [Read More](https://medium.com/p/f5f3b001f664) |
 | Sun, 11 Jan 2026 18:40:07 GMT | Why Multi-Factor Authentication Isn’t Enough Anymore: Exploring MFA Bypass Techniques | Cyber_Phoenix | [Read More](https://medium.com/p/b3a7f06167b0) |
-| Sun, 11 Jan 2026 18:38:29 GMT | Essential Wazuh Strategies for Cloud Workload Protection | Wilklins Nyatteng | [Read More](https://medium.com/p/a12f40c15ae9) |
-| Sun, 11 Jan 2026 18:36:38 GMT | Breaking into DVWA | Oluwadamilare Adeosun | [Read More](https://medium.com/p/b01bb249f3d1) |
-| Sun, 11 Jan 2026 18:26:20 GMT | Title: 2 Simple Ways to Protect Your Digital Life in 2026
-​In 2026, our lives are more connected to… | Tech Insights by Trishan | [Read More](https://medium.com/p/3e1709a675a7) |
-| Sun, 11 Jan 2026 18:25:41 GMT | The Hardest Part of AI Isn’t the Model — It’s Everything Around It | Marton Schneider | [Read More](https://medium.com/p/b00cca9cbdcd) |
-| Sun, 11 Jan 2026 18:24:13 GMT | 5 Alarming Lessons From a Single Click on an “I’m Not a Robot” Box | Tech Security | [Read More](https://medium.com/p/34f259cfb9e0) |
-| Sun, 11 Jan 2026 18:19:41 GMT | Try Hack Me- Develpy CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/8a643b93e7cc) |
-| Sun, 11 Jan 2026 18:16:11 GMT | Web Application Penetration Report | Nashra | [Read More](https://medium.com/p/92dc2d48cfdf) |
-| Sun, 11 Jan 2026 18:14:29 GMT | When They Build the Honeypot, Guess Who’ll Take the Sting? | MoUMMM | [Read More](https://medium.com/p/895ff1dfdc65) |
-| Sun, 11 Jan 2026 18:11:02 GMT | IP and Domain Threat Intel. TryHackMe Walkthrough | Lintu Oommen | [Read More](https://medium.com/p/45f8a0a03cfa) |
-| Sun, 11 Jan 2026 18:10:58 GMT | TheHackersLabs — Cold Fear [Write-Up] | APS88 | [Read More](https://medium.com/p/99949ae4195f) |
-| Sun, 11 Jan 2026 18:10:27 GMT | Breaking AI’s Vicious Security Cycle: Why AI Security Guardrails Keep Failing | Jason Connerty | [Read More](https://medium.com/p/e967f9d64fde) |
-| Sun, 11 Jan 2026 18:04:04 GMT | Stop Jumping to Controls: How to Have Better Risk Conversations | Jesse Nelson | [Read More](https://medium.com/p/5f1ee96a601f) |
-| Sun, 11 Jan 2026 17:58:04 GMT | Spring Boot Security in 2026: Build JWT Authentication the RIGHT Way (Without Overengineering) | CodeTalks | [Read More](https://medium.com/p/24b373338570) |
-| Sun, 11 Jan 2026 17:56:33 GMT | 5 Identity Theft Red Flags | Michael Kendrick | [Read More](https://medium.com/p/69ffc6649102) |
-| Sun, 11 Jan 2026 17:54:46 GMT | Silence is not peace. 
-Its compression. | R. D. | [Read More](https://medium.com/p/99bbec9316e7) |
-| Sun, 11 Jan 2026 17:51:44 GMT | How I Built Keycloak Audit Logging That Actually Works | Rio Wiraldhani | [Read More](https://medium.com/p/25eab4f17a57) |
-| Sun, 11 Jan 2026 17:51:39 GMT | How I Built Keycloak Audit Logging That Actually Works | Rio Wiraldhani | [Read More](https://medium.com/p/0933ec04c995) |
