@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 15:46:49 GMT | Login Liberty: Securing Identity in the Age of Modern Cyber Attacks | Dr. Shashi Karhail | [Read More](https://medium.com/p/d4a94024aa15) |
+| Mon, 12 Jan 2026 15:35:27 GMT | Stop Trusting Your Prompts: A Cryptographic Approach to LLM Security | Anuraag Khare | [Read More](https://medium.com/p/349320324182) |
+| Mon, 12 Jan 2026 15:34:58 GMT | Authentication vs Authorization: Modern Best Practices Every Developer Should Know | SOVANNARO | [Read More](https://medium.com/p/31531f9246f9) |
+| Mon, 12 Jan 2026 15:33:52 GMT | Google’s Willow Quantum Chip: The Beginning of a New Computational Age | Tech Intel | [Read More](https://medium.com/p/655077181fcf) |
+| Mon, 12 Jan 2026 15:31:52 GMT | Master Ethical Hacking in 2026 - A Complete Guide With No Cost and No Login Required | Amir Faysal | [Read More](https://medium.com/p/23b76797a6f3) |
+| Mon, 12 Jan 2026 15:30:51 GMT | How Hackers Redirect Users to Fake Websites using Pharming | SeQEW | [Read More](https://medium.com/p/2e1e51ad531d) |
+| Mon, 12 Jan 2026 15:30:08 GMT | Building a Mini SOC: Detecting and Responding to Network Attacks Using Suricata and Splunk | Kate Amarachukwu Igwilo | [Read More](https://medium.com/p/56d0d6649e32) |
+| Mon, 12 Jan 2026 15:25:01 GMT | Next in AI: Issue #84 | Sam Ghosh | [Read More](https://medium.com/p/22d9d9cb40f3) |
+| Mon, 12 Jan 2026 15:24:07 GMT | The Night My Network Finally Lit Up | Prashanthyadav Pittakala | [Read More](https://medium.com/p/fe35b78dd1e5) |
+| Mon, 12 Jan 2026 15:21:44 GMT | Enhance Bulk Account Creation and Management with PVACreator | Estefanydarryl | [Read More](https://medium.com/p/c4cd62c63aab) |
 | Mon, 12 Jan 2026 15:20:54 GMT | Homelander Security Audit: Summary and Outcomes | MEV-X | [Read More](https://medium.com/p/a1847828f730) |
 | Mon, 12 Jan 2026 15:15:38 GMT | When 200 OK Lies: Breaking Down WAF Soft-404 Deception in Real-World Bug Bounty | Prince T Philip | [Read More](https://medium.com/p/083178a27322) |
 | Mon, 12 Jan 2026 15:13:16 GMT | Run your Local Desktop AI Agents at Zero Cost with UI-TARS-Desktop Agents and LM studio | Mariem Jabloun | [Read More](https://medium.com/p/0631b01844b1) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 Jan 2026 10:15:26 GMT | Hidden IT Costs UAE Businesses Face When Support is Reactive Instead of Proactive | Liberty Computer System | [Read More](https://medium.com/p/d5cf31e7ea8e) |
 | Mon, 12 Jan 2026 10:09:03 GMT | Why Cyber Security Is a High-Paying Career in Chandigarh & Mohali | solitaire projects | [Read More](https://medium.com/p/26b9a1507de9) |
 | Mon, 12 Jan 2026 10:07:31 GMT | Garmin inReach security: Insecure Link Design and User Data Privacy (Part I) | Llorenç | [Read More](https://medium.com/p/f572a47c34e1) |
-| Mon, 12 Jan 2026 10:06:46 GMT | How Attackers Bypass SSL Pinning in Android (And How to Defend Against It) | Riyas Pullur | [Read More](https://medium.com/p/9359d8a3e2a9) |
-| Mon, 12 Jan 2026 10:05:52 GMT | How Attackers Bypass SSL Pinning in Android (And How to Defend Against It) [Free version ] | Riyas Pullur | [Read More](https://medium.com/p/08e94018688c) |
-| Mon, 12 Jan 2026 10:02:36 GMT | Weakness Protocols and N | Jenishjoel | [Read More](https://medium.com/p/cd30eb6c1ab1) |
-| Mon, 12 Jan 2026 10:01:54 GMT | Why Firewalls Are No Longer Just Network Devices — They Are Business Risk Controls | ANSI Technologies | [Read More](https://medium.com/p/6f1a8826e180) |
-| Mon, 12 Jan 2026 09:57:12 GMT | CTF Challenge: API Price Manipulation via Parameter Tampering | blackm4c | [Read More](https://medium.com/p/5bb3c645f198) |
-| Mon, 12 Jan 2026 09:51:01 GMT | 8 Types of Penetration Testing (Penetrasyon Testi Türleri) | Arda Derya | [Read More](https://medium.com/p/642f3fd4bd6f) |
-| Mon, 12 Jan 2026 09:47:14 GMT | Indian Government Clarifies Its Stand on Smartphone Source Code Sharing Reports | Aura Tech Insight | [Read More](https://medium.com/p/52de0ec7620b) |
-| Mon, 12 Jan 2026 09:47:11 GMT | When Agents Go Rogue: Moving Beyond Traditional IAM to Secure the Era of Autonomous AI | Eyal Nayowitz | [Read More](https://medium.com/p/1e95a5ae0575) |
-| Mon, 12 Jan 2026 09:43:42 GMT | Building the Next Generation of AI Starts With the Right Foundation | aispotlightshow | [Read More](https://medium.com/p/39846f171766) |
-| Mon, 12 Jan 2026 09:43:39 GMT | How I Found 124,000 Leaked PII Records in AT&T | 0xMicho | [Read More](https://medium.com/p/2929374de1f8) |
