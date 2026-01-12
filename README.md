@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 01:30:14 GMT | ☕ Master CISSP Domain 4: 40 Coffee Shot Questions (Part 2 of 2) | Pushpak Sharma | [Read More](https://medium.com/p/c075a3ace2f2) |
+| Mon, 12 Jan 2026 01:21:52 GMT | Hi Everyone! | Andrew Zhen | [Read More](https://medium.com/p/aba19818676a) |
+| Mon, 12 Jan 2026 01:06:53 GMT | The Honest Mechanic’s Trust: A Second Marriage Story of Love and Security | kate spider | [Read More](https://medium.com/p/ea6964940031) |
+| Mon, 12 Jan 2026 00:58:29 GMT | Device Control to Digital Experience | Venkat teja Peram | [Read More](https://medium.com/p/d2a87f0c1b90) |
+| Mon, 12 Jan 2026 00:48:40 GMT | Is your phone hacked? Warning signs to know | Techwizs | [Read More](https://medium.com/p/b281c40bd0ac) |
+| Mon, 12 Jan 2026 00:38:37 GMT | Threat Modeling Guide: STRIDE, Data Flow Diagrams, Risk Ranking & Mitigations | QuarkAndCode | [Read More](https://medium.com/p/3b4d38613205) |
+| Mon, 12 Jan 2026 00:30:49 GMT | From 550 to 5,500 TPS: Beating TLS Fragmentation in an eBPF Data Path | Apurv Garg | [Read More](https://medium.com/p/49f4d4a12eac) |
+| Mon, 12 Jan 2026 00:17:39 GMT | VulnBank — FahemSec Web Challenge | محمد بن إبراهيم | [Read More](https://medium.com/p/052d97561cbf) |
+| Mon, 12 Jan 2026 00:03:04 GMT | padlock | Bob Withers | [Read More](https://medium.com/p/15d33eaf5577) |
+| Mon, 12 Jan 2026 00:02:50 GMT | LetsDefend — LDAP Enumeration Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/d0a732690d96) |
+| Mon, 12 Jan 2026 00:02:22 GMT | How “Red Teams” Keep Your Data Safe (Legally) | Jialei Q. | [Read More](https://medium.com/p/de4c5d3c5dbb) |
+| Sun, 11 Jan 2026 23:48:09 GMT | The SIEM Blind Spot: Why Traditional Security Tools Miss LLM Attacks | David Anderson | [Read More](https://medium.com/p/3c193e830dbf) |
+| Sun, 11 Jan 2026 23:47:59 GMT | Cloud SIEM & SOC Operations Project — Microsoft Sentinel + Defender XDR. | Ib2dk | [Read More](https://medium.com/p/036fb752eaef) |
+| Sun, 11 Jan 2026 23:47:30 GMT | Defense-in-Depth for AI Agents: Why Input Security Isn’t Enough | David Anderson | [Read More](https://medium.com/p/ba310c50a3f1) |
+| Sun, 11 Jan 2026 23:35:40 GMT | I turned a $10 ESP32-C6 into a real-time Internet & DNS diagnostics node. | Fahim Rahman | [Read More](https://medium.com/p/6a76596d7d99) |
+| Sun, 11 Jan 2026 23:31:41 GMT | Comprehensive & Rigorous VAPT Framework for Next.js Applications | Mohammad Abir Abbas | [Read More](https://medium.com/p/fa437b3b5e55) |
 | Sun, 11 Jan 2026 23:26:36 GMT | Beyond the Perimeter: Analyzing IAM Credential Exfiltration and Metadata Exploitation via OWASP… | Samuel Nartey | [Read More](https://medium.com/p/302ce3395ce7) |
 | Sun, 11 Jan 2026 22:59:20 GMT | Security Shorts Volume 1 — Defence in Depth for Blockchain | L Strawbridge | [Read More](https://medium.com/p/d2586e20dc58) |
 | Sun, 11 Jan 2026 22:55:23 GMT | Fortigate Installation (VM) | Mehmet Ali Gülyurdu | [Read More](https://medium.com/p/b8d312c465fa) |
@@ -99,19 +115,3 @@ Its compression. | R. D. | [Read More](https://medium.com/p/99bbec9316e7) |
 | Sun, 11 Jan 2026 17:10:54 GMT | “Bug Bounty Bootcamp #13: Open Redirects — The Hacker’s Ultimate ‘Force Multiplier’” | Aman Sharma | [Read More](https://medium.com/p/bdab5f50c81d) |
 | Sun, 11 Jan 2026 17:08:10 GMT | Unmasking “Sp1ritFyre” — The MSP Data Breach Investigation | Eeshan Agrawal | [Read More](https://medium.com/p/77d3db68c11b) |
 | Sun, 11 Jan 2026 17:06:58 GMT | Exploit Weak Bucket Policies for Privileged Access | Reju Kole | [Read More](https://medium.com/p/54ccf5ecb5a9) |
-| Sun, 11 Jan 2026 17:01:46 GMT | Beyond IP Addresses: Why You Need TLS Fingerprinting | Meiyappan Kannappa | [Read More](https://medium.com/p/8c71d81e0b3b) |
-| Sun, 11 Jan 2026 16:57:36 GMT | Construyendo un laboratorio SOC con Wazuh: objetivos, arquitectura y aprendizaje | killex007 | [Read More](https://medium.com/p/ae5c8c1af3f2) |
-| Sun, 11 Jan 2026 16:52:13 GMT | Bypassing Windows Defender via Character Encoding Techniques | Tyreek Haynes | [Read More](https://medium.com/p/d5e55909933b) |
-| Sun, 11 Jan 2026 16:37:33 GMT | 17.5 Million Instagram Users Affected by Data Leak, Cybersecurity Firm Warns | Thenewsstrike | [Read More](https://medium.com/p/c209d6c30020) |
-| Sun, 11 Jan 2026 16:34:43 GMT | Security in System Design — A Village Story Every Engineer Will Understand | raghvendra dixit | [Read More](https://medium.com/p/12c11ca20ddc) |
-| Sun, 11 Jan 2026 16:33:43 GMT | Hardening SSO to Turn Chaos into Control and Keep Business Alive | Medjue Gore | [Read More](https://medium.com/p/38f746749242) |
-| Sun, 11 Jan 2026 16:22:52 GMT | (CVE-2026-0830) AWS Kiro GitLab Helper Remote Code Execution | Dhiraj | [Read More](https://medium.com/p/1f826469228d) |
-| Sun, 11 Jan 2026 16:13:16 GMT | The React Security Winter: Navigating the 2025–2026 Vulnerability Wave | Sanniv Bhaiya | [Read More](https://medium.com/p/507d74292a43) |
-| Sun, 11 Jan 2026 16:09:45 GMT | Analysis as the Core Component of Intelligence and Counterintelligence Support in High-Risk… | Andrey Spiridonov | [Read More](https://medium.com/p/659492d665d6) |
-| Sun, 11 Jan 2026 16:09:38 GMT | Operating Systems | Joyii | [Read More](https://medium.com/p/d0e34b5b2f70) |
-| Sun, 11 Jan 2026 16:02:48 GMT | Why “Trusted Devices” Can Quietly Become a Security Risk Over Time | Grace Chukwunta | [Read More](https://medium.com/p/75ca289801ad) |
-| Sun, 11 Jan 2026 15:54:02 GMT | BUSINESS LOGIC ISSUES | Cybernight | [Read More](https://medium.com/p/54f9962267e5) |
-| Sun, 11 Jan 2026 15:53:21 GMT | Strong Password Generator: Your Ultimate Guide to Secure Online Protection | Sandeep Sharma | [Read More](https://medium.com/p/ce8d96272f2a) |
-| Sun, 11 Jan 2026 15:52:44 GMT | Subnetting Without Fear (Simple Math, Real Examples) | Shalu | [Read More](https://medium.com/p/2911894d8bea) |
-| Sun, 11 Jan 2026 15:46:01 GMT | Cyrethium / Securonis Archive : Technical Evolution of a Privacy-Centric Linux Distribution | root0emir | [Read More](https://medium.com/p/d9b362f53a8e) |
-| Sun, 11 Jan 2026 15:43:16 GMT | Furhire Writeup (BugForge) | 7s26Simon | [Read More](https://medium.com/p/83a1be8dee83) |
