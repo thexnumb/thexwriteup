@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 16:52:28 GMT | What Happens If a Quantum Computer Cracks Blockchain Encryption? | Bobby Andrews | [Read More](https://medium.com/p/9382c4686337) |
+| Mon, 12 Jan 2026 16:50:28 GMT | What’s Next for the Cloud? 10 Key Trends Shaping Business Strategy in 2026 | Paradise technologies Inc | [Read More](https://medium.com/p/e546884d1686) |
+| Mon, 12 Jan 2026 16:45:48 GMT | Using Programmatic Access in Snowflake | Jon Roberts | [Read More](https://medium.com/p/4bf03e876847) |
+| Mon, 12 Jan 2026 16:45:07 GMT | The Wrench | Banhisekha | [Read More](https://medium.com/p/4c850735fdcb) |
+| Mon, 12 Jan 2026 16:43:12 GMT | Cybersecurity SaaS: Why AI-Driven Threat Detection Is Becoming Non-Negotiable | CodeByUmar | [Read More](https://medium.com/p/fb62d5e65837) |
+| Mon, 12 Jan 2026 16:42:47 GMT | #16- Kali Linux — Services and Other Tools: The Glue of a Kali Environment | SDNTechForum | [Read More](https://medium.com/p/b7c63f47e537) |
+| Mon, 12 Jan 2026 16:42:16 GMT | The Importance of Penetration Testing: Protecting Your Business from Cyber Threats in Canada | Plutosec Cyber Security | [Read More](https://medium.com/p/2c417b2c3e22) |
+| Mon, 12 Jan 2026 16:40:24 GMT | BreachForums Gets Breached. Again. | Sudarshan | [Read More](https://medium.com/p/80fc53d762e9) |
+| Mon, 12 Jan 2026 16:39:29 GMT | A Practical Look at File Password Cracking Using John | Janmejaysinh ThinkLab | [Read More](https://medium.com/p/60a34ce5ca98) |
+| Mon, 12 Jan 2026 16:38:50 GMT | The Ephialtes Edge: Why Thermopylae Proves Your Firewall Will Fail | Levente Simon | [Read More](https://medium.com/p/cdbfe819b423) |
+| Mon, 12 Jan 2026 16:34:22 GMT | ️Offensive vs Defensive Security: Основи та Ролі | Erina Elder | [Read More](https://medium.com/p/2c4bdf16193e) |
+| Mon, 12 Jan 2026 16:32:43 GMT | Cybersecurity Skills That Will Be Mandatory in 2026 | 4Achievers | [Read More](https://medium.com/p/ed3b74b7a3f8) |
+| Mon, 12 Jan 2026 16:32:20 GMT | The Human Factor in Cybersecurity: People Are the Strongest Asset, Yet the Weakest Link | Ganesh | [Read More](https://medium.com/p/f9dc960994cc) |
+| Mon, 12 Jan 2026 16:30:53 GMT | CPTS (Certified Penetration Testing Specialist) A Honest Review | Hamood Naseer Al-Marhoubi | [Read More](https://medium.com/p/b6904e845791) |
 | Mon, 12 Jan 2026 16:20:33 GMT | Unpacking Microsoft Defender for Office 365: Day 4 SOC Triage—Microsoft Security Exposure… | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/f9c48140db0b) |
 | Mon, 12 Jan 2026 16:20:05 GMT | Cloud Security in 2026: How Organizations Can Protect Data in a Multi-Cloud World | Techridge Solutions | [Read More](https://medium.com/p/02733ee50f1c) |
 | Mon, 12 Jan 2026 16:15:33 GMT | Intelligence — Hack The Box | JY00X3 | [Read More](https://medium.com/p/1df96554c70b) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 Jan 2026 11:00:46 GMT | Enhancing AEM Adaptive Forms PWA with Biometric Authentication | Ayush Mishra | [Read More](https://medium.com/p/1ef7ea8f2b7d) |
 | Mon, 12 Jan 2026 11:00:07 GMT | The Reverse Turing Paradox: Why We Must Stop Testing Minds and Start Testing Physics | Dino Demetriou | [Read More](https://medium.com/p/d6166c74ab48) |
 | Mon, 12 Jan 2026 10:53:48 GMT | How Safe Are Your Living and Working Spaces from Pests? | western Pest services | [Read More](https://medium.com/p/56e681d056b0) |
-| Mon, 12 Jan 2026 10:53:25 GMT | Is MSc Information Security at Royal Holloway a Good Course? (2024/25) | Aimee Liu | [Read More](https://medium.com/p/a0b9763776d4) |
-| Mon, 12 Jan 2026 10:52:49 GMT | Top 26 Cryptocurrency Risks and Mistakes in 2026 | H-X Technologies | [Read More](https://medium.com/p/2789fe9d99ae) |
-| Mon, 12 Jan 2026 10:52:32 GMT | Instagram Says “No Breach,” But Millions Got Password Reset Emails — Here’s What You Can Do | Valerie | [Read More](https://medium.com/p/8676292d978a) |
-| Mon, 12 Jan 2026 10:47:47 GMT | Fixing “Groups & Sites” Option Grayed Out in Sensitivity Labels: A Complete Guide | Ahmed Monsri | [Read More](https://medium.com/p/d4c503964fd1) |
-| Mon, 12 Jan 2026 10:46:47 GMT | The Billion-Dollar Blackout: AI’s Clumsy Quest to Hoard Your Electricity | Namir Sagheenanajar | [Read More](https://medium.com/p/91a29ec76140) |
-| Mon, 12 Jan 2026 10:42:57 GMT | Building a Network-Wide Parental Control System: A Practical Guide with Ubuntu Server and Pi-hole | Eyob Million | [Read More](https://medium.com/p/d51efe632c23) |
-| Mon, 12 Jan 2026 10:42:51 GMT | Mr. Robot CTF — TryHackMe Walkthrough | Jobin Mathew | [Read More](https://medium.com/p/fb3933e06423) |
-| Mon, 12 Jan 2026 10:42:05 GMT | How to Track a Mobile Phone Location Legally and Responsibly | Rebecca Smith | [Read More](https://medium.com/p/e5f00dfe0de9) |
-| Mon, 12 Jan 2026 10:41:25 GMT | Top 5 Cybersecurity Mistakes Putting Your Business at Risk in 2026 | aliveallenb2bblogs | [Read More](https://medium.com/p/e85637fba2d5) |
-| Mon, 12 Jan 2026 10:40:26 GMT | Cyber Security: Protecting Data in the Digital World | Sureshbhagath | [Read More](https://medium.com/p/f88c4ea5330b) |
-| Mon, 12 Jan 2026 10:39:30 GMT | HTB Write-up: Cascade — LDAP Custom Attributes, .NET Reversing, and AD Recycle Bin Abuse | thebugitself | [Read More](https://medium.com/p/b82769074e5f) |
-| Mon, 12 Jan 2026 10:36:59 GMT | ️‍♂️ Traffic Analysis Walkthrough: Investigating a Phishing-Led Malware Infection Using Wireshark | Jyothsna | [Read More](https://medium.com/p/03d33629346e) |
-| Mon, 12 Jan 2026 10:32:51 GMT | Best Tech Courses to Learn in Nigeria During and After NYSC (2026 Guide) | ECR Academy | [Read More](https://medium.com/p/c2a95e77e1a0) |
-| Mon, 12 Jan 2026 10:30:13 GMT | SQL Injection UNION Attacks: Determining the Number of Columns | Rachael Muga | [Read More](https://medium.com/p/e311a738ac85) |
