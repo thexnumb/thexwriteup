@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 20:40:12 GMT | Write-up: Enterprise lab on THM | cLODIUS cOCK | [Read More](https://medium.com/p/63549fc930bf) |
+| Mon, 12 Jan 2026 20:33:36 GMT | Day 4: Users and Privileges in Linux | Mohammad-AL-Momani | [Read More](https://medium.com/p/b97d752d57dd) |
 | Mon, 12 Jan 2026 20:18:26 GMT | Why Telecommunications Companies Are Primary Targets for State-Sponsored Hackers | David SEHYEON Baek | [Read More](https://medium.com/p/271a3d607cbc) |
 | Mon, 12 Jan 2026 20:16:46 GMT | Security That Works: Why Your Controls Keep Failing and How to Fix Them | Tyson Martin | [Read More](https://medium.com/p/8485cc6829af) |
 | Mon, 12 Jan 2026 20:07:28 GMT | This Bug Bounty Recon is much PEAKKK!!!!!! | Alham Rizvi(ExoidSec) | [Read More](https://medium.com/p/05581c02486e) |
@@ -113,5 +115,3 @@ Most people think cyber attacks happen only… | Samandar Qosimov | [Read More](
 | Mon, 12 Jan 2026 15:30:51 GMT | How Hackers Redirect Users to Fake Websites using Pharming | SeQEW | [Read More](https://medium.com/p/2e1e51ad531d) |
 | Mon, 12 Jan 2026 15:30:08 GMT | Building a Mini SOC: Detecting and Responding to Network Attacks Using Suricata and Splunk | Kate Amarachukwu Igwilo | [Read More](https://medium.com/p/56d0d6649e32) |
 | Mon, 12 Jan 2026 15:25:01 GMT | Next in AI: Issue #84 | Sam Ghosh | [Read More](https://medium.com/p/22d9d9cb40f3) |
-| Mon, 12 Jan 2026 15:24:07 GMT | The Night My Network Finally Lit Up | Prashanthyadav Pittakala | [Read More](https://medium.com/p/fe35b78dd1e5) |
-| Mon, 12 Jan 2026 15:21:44 GMT | Enhance Bulk Account Creation and Management with PVACreator | Estefanydarryl | [Read More](https://medium.com/p/c4cd62c63aab) |
