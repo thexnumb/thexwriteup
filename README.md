@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 22:09:28 GMT | The C4 Model for Data Architects, with Databricks and Unity Catalog — The Operating Model | Dominic K | [Read More](https://medium.com/p/a05f1d19f7c7) |
+| Mon, 12 Jan 2026 21:47:16 GMT | The 2026 Production Checklist: 5 Things Your Next.js VPS Deployment is Missing | Florid Maclean | [Read More](https://medium.com/p/f31e87be885c) |
+| Mon, 12 Jan 2026 21:45:42 GMT | Network Security: A Practical, Expert Guide to Protecting Modern Digital Infrastructure | Arbsbuy LLC | [Read More](https://medium.com/p/b597f9a0e2a1) |
+| Mon, 12 Jan 2026 21:41:56 GMT | Threat Modeling: The Most Underrated Skill in Cybersecurity | DevTutorials | [Read More](https://medium.com/p/68df9f96f8d4) |
 | Mon, 12 Jan 2026 21:37:07 GMT | Ni8mare (CVE-2026–21858) | IndigoINT | [Read More](https://medium.com/p/2c667e4a4fa4) |
 | Mon, 12 Jan 2026 21:19:39 GMT | 0day-CTF | guyvolvo | [Read More](https://medium.com/p/898eb2d3478d) |
 | Mon, 12 Jan 2026 21:01:33 GMT | Hunting Lazarus: Inside the Contagious Interview C2 Infrastructure | Red Asgard | [Read More](https://medium.com/p/435375a5c66d) |
@@ -111,7 +115,3 @@ Most people think cyber attacks happen only… | Samandar Qosimov | [Read More](
 | Mon, 12 Jan 2026 16:12:44 GMT | Hackviser Linux temelleri sınav makinesi çözümü | Zeynep Keman | [Read More](https://medium.com/p/073cf1984175) |
 | Mon, 12 Jan 2026 16:12:08 GMT | Why We Believe Security Shouldn’t Be Pay-to-Play | SOCFortress | [Read More](https://medium.com/p/935db4660d25) |
 | Mon, 12 Jan 2026 15:49:28 GMT | Moving mutable tags to immutable trust using digests | Christian Frank Johannsen | [Read More](https://medium.com/p/2d945f799d72) |
-| Mon, 12 Jan 2026 15:46:49 GMT | Login Liberty: Securing Identity in the Age of Modern Cyber Attacks | Dr. Shashi Karhail | [Read More](https://medium.com/p/d4a94024aa15) |
-| Mon, 12 Jan 2026 15:35:27 GMT | Stop Trusting Your Prompts: A Cryptographic Approach to LLM Security | Anuraag Khare | [Read More](https://medium.com/p/349320324182) |
-| Mon, 12 Jan 2026 15:34:58 GMT | Authentication vs Authorization: Modern Best Practices Every Developer Should Know | SOVANNARO | [Read More](https://medium.com/p/31531f9246f9) |
-| Mon, 12 Jan 2026 15:33:52 GMT | Google’s Willow Quantum Chip: The Beginning of a New Computational Age | Tech Intel | [Read More](https://medium.com/p/655077181fcf) |
