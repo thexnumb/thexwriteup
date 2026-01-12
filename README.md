@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 12 Jan 2026 15:20:54 GMT | Homelander Security Audit: Summary and Outcomes | MEV-X | [Read More](https://medium.com/p/a1847828f730) |
+| Mon, 12 Jan 2026 15:15:38 GMT | When 200 OK Lies: Breaking Down WAF Soft-404 Deception in Real-World Bug Bounty | Prince T Philip | [Read More](https://medium.com/p/083178a27322) |
+| Mon, 12 Jan 2026 15:13:16 GMT | Run your Local Desktop AI Agents at Zero Cost with UI-TARS-Desktop Agents and LM studio | Mariem Jabloun | [Read More](https://medium.com/p/0631b01844b1) |
+| Mon, 12 Jan 2026 15:10:01 GMT | Hack The Box — Timelapse | JY00X3 | [Read More](https://medium.com/p/ca29acb5b1b5) |
+| Mon, 12 Jan 2026 15:06:02 GMT | ☢️ Devel: Anonymous FTP to Kernel Exploitation | Nicholas Mullenski | [Read More](https://medium.com/p/388c1468dfd3) |
+| Mon, 12 Jan 2026 15:04:36 GMT | ModStealer Proves Web3’s Real Attack Surface Is Your Wallet, Not Your Chain | Abatis ABTU | [Read More](https://medium.com/p/1fe1bf4e69d5) |
+| Mon, 12 Jan 2026 15:03:13 GMT | JWTs Are Not Enough: Why We Moved to Macaroons for Distributed Auth | The Speed Engineer | [Read More](https://medium.com/p/dfd62099a6fe) |
+| Mon, 12 Jan 2026 15:03:13 GMT | How Moving Snowflake Service Accounts From Passwords to Key-Pair Auth (and NSP Rules) Stopped an… | Vedprakash | [Read More](https://medium.com/p/97306b0d948a) |
+| Mon, 12 Jan 2026 15:03:13 GMT | The Coming War Won’t Be with Tanks and Guns | Tom Hanratty | [Read More](https://medium.com/p/833eac055f2a) |
+| Mon, 12 Jan 2026 15:03:07 GMT | Cyber Briefing: 2026.01.12 | CyberMaterial | [Read More](https://medium.com/p/2b8183cb7d13) |
+| Mon, 12 Jan 2026 14:55:24 GMT | I Built a Simpler FoxyProxy Alternative — Here’s Why | Eragon Kashyap | [Read More](https://medium.com/p/0c5ca3e2d3b2) |
+| Mon, 12 Jan 2026 14:51:11 GMT | Feedback: A Journey Toward Leadership | Bronze | [Read More](https://medium.com/p/c87ef7a4f239) |
 | Mon, 12 Jan 2026 14:46:14 GMT | The “New” OWASP Top 10: Why We’re Treating “Insecure Design” as a Personal Attack | Rebecca Cottignies | [Read More](https://medium.com/p/8ee9ca066164) |
 | Mon, 12 Jan 2026 14:42:27 GMT | Where Responsible AI Theory Fails Under Pressure | Rajendra Medhi | [Read More](https://medium.com/p/d31c9afe3838) |
 | Mon, 12 Jan 2026 14:39:19 GMT | Cybersecurity in 2026: AI, Zero Trust & the New Age of Automated Attacks | Niharika | [Read More](https://medium.com/p/b1648ff44e02) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 Jan 2026 09:47:11 GMT | When Agents Go Rogue: Moving Beyond Traditional IAM to Secure the Era of Autonomous AI | Eyal Nayowitz | [Read More](https://medium.com/p/1e95a5ae0575) |
 | Mon, 12 Jan 2026 09:43:42 GMT | Building the Next Generation of AI Starts With the Right Foundation | aispotlightshow | [Read More](https://medium.com/p/39846f171766) |
 | Mon, 12 Jan 2026 09:43:39 GMT | How I Found 124,000 Leaked PII Records in AT&T | 0xMicho | [Read More](https://medium.com/p/2929374de1f8) |
-| Mon, 12 Jan 2026 09:43:09 GMT | From Floppy Disks to Data Hoovers: The 40-Year Journey That Turned Your Car Into a Spy | Santhosh Adiga U | [Read More](https://medium.com/p/0c4e91da9a6c) |
-| Mon, 12 Jan 2026 09:37:57 GMT | Congress Gets Pwned: Salt Typhoon’s Deep Dive, Iran’s Rusty RAT, and the Instagram “Non-Breach” | Threat Road | [Read More](https://medium.com/p/67dcc3791146) |
-| Mon, 12 Jan 2026 09:30:16 GMT | Hands-On Threat Hunting on AWS Using Athena & VPC Flow Logs | Davebhargavi | [Read More](https://medium.com/p/cee69fc9e3df) |
-| Mon, 12 Jan 2026 09:26:29 GMT | IP Whitelist Bypass via Partial String Matching in n8n Webhook Node (CVE-2025–68949) | Berk Dedekargınoğlu | [Read More](https://medium.com/p/9a63b4500c74) |
-| Mon, 12 Jan 2026 09:25:41 GMT | Uoft CTF “Symbol of Hope” challenge Write-up | Zyres | [Read More](https://medium.com/p/7167ed99b141) |
-| Mon, 12 Jan 2026 09:23:00 GMT | Surge in “ClickFix” Fileless Attacks Leveraging LOLBins on Windows | Yeshu Wanjari | [Read More](https://medium.com/p/78be68fa5b22) |
-| Mon, 12 Jan 2026 09:21:30 GMT | The Things I Don’t Say | thethingsidontsay | [Read More](https://medium.com/p/17f776a1a64a) |
-| Mon, 12 Jan 2026 09:20:45 GMT | TryHackMe: K2 (Middle Camp) Writeup | cbev | [Read More](https://medium.com/p/31a9efb886cc) |
-| Mon, 12 Jan 2026 09:18:40 GMT | Total Security Solutions India: Building Safer Spaces with Advanced Electronic Security Solutions | Ciss India | [Read More](https://medium.com/p/03286e10c735) |
-| Mon, 12 Jan 2026 09:18:31 GMT | France Just Released Data on Political Islam That Should Make Every Democracy Uncomfortable | Ryan Anderson | [Read More](https://medium.com/p/58fa2da2e6bc) |
-| Mon, 12 Jan 2026 09:16:53 GMT | The Future of AI in Web Security: Redefining Threat Detection | Nakiboddin Saiyad | [Read More](https://medium.com/p/d9a04276adbb) |
-| Mon, 12 Jan 2026 09:16:37 GMT | 100 Days of Cyber: What I Learned — And Where We’re Heading | Fook Hwa Tan | [Read More](https://medium.com/p/a14652506bc6) |
