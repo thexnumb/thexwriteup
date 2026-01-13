@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 Jan 2026 23:17:48 GMT | Attack Surface Starts With Exposure | 0ps3c | [Read More](https://medium.com/p/363887cd44ef) |
+| Tue, 13 Jan 2026 23:17:43 GMT | Do Not Trust These Emails: A Guide to Spotting Modern Scams | Bless Samwel Siyovelwa | [Read More](https://medium.com/p/549967db6937) |
+| Tue, 13 Jan 2026 23:05:13 GMT | IPC via Message Queue | S12 - 0x12Dark Development | [Read More](https://medium.com/p/f383674da77f) |
+| Tue, 13 Jan 2026 23:03:16 GMT | Advent of Cyber — Day 16 — Forensics: Registry Furensics | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/2815bc2c6629) |
+| Tue, 13 Jan 2026 23:02:09 GMT | The End of “Seeing Is Believing” | Cyber-AppSec | [Read More](https://medium.com/p/d382ae3b47be) |
+| Tue, 13 Jan 2026 22:55:47 GMT | Your Digital Life Is Like a House. How Many Doors Are Open? | Tracy | [Read More](https://medium.com/p/3dd17f4c8464) |
+| Tue, 13 Jan 2026 22:53:42 GMT | Onion Hidden Service Hardening: Strategies Against DDoS and IP Leaks | root0emir | [Read More](https://medium.com/p/7a746988a95c) |
+| Tue, 13 Jan 2026 22:53:37 GMT | Advent of Cyber — Day 15 — Web Attack Forensics: Drone Alone | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/2d6116dc2c5e) |
 | Tue, 13 Jan 2026 22:17:31 GMT | Keycloak Authentication Flows: The Engine Behind Your Login Experience | Florian Röser | [Read More](https://medium.com/p/fd3a7e8aa383) |
 | Tue, 13 Jan 2026 22:09:30 GMT | From 403 Forbidden to $$$$ How a Simple Extension Bypass Led to Unauthenticated Access to Private… | KiRaaDx | [Read More](https://medium.com/p/f1f4633b82dc) |
 | Tue, 13 Jan 2026 21:55:50 GMT | FotoForensics | Mazinmattar | [Read More](https://medium.com/p/2870da94c4f5) |
@@ -105,11 +113,3 @@ Starting Out: The First… | Urooj Zeeshan | [Read More](https://medium.com/p/98
 | Tue, 13 Jan 2026 16:16:02 GMT | Skip the Swift & Kotlin Drama: Build Native‑Feeling Mobile Apps with JavaScript | Jitin Kayyala | [Read More](https://medium.com/p/3ccdff42f187) |
 | Tue, 13 Jan 2026 16:14:16 GMT | TryHackMe, What is Networking? | Asjamil | [Read More](https://medium.com/p/fbc466dfe67a) |
 | Tue, 13 Jan 2026 16:02:59 GMT | How AI Voice Cloning Works When All It Gets Is 3 Seconds | MayhemCode | [Read More](https://medium.com/p/f054f82213b0) |
-| Tue, 13 Jan 2026 16:02:25 GMT | SOC167 — LS Command Detected in Requested URL | Wrench | [Read More](https://medium.com/p/0bb44637f073) |
-| Tue, 13 Jan 2026 16:02:04 GMT | PUPPY.HTB — Active Directory | JY00X3 | [Read More](https://medium.com/p/83a21daf86f1) |
-| Tue, 13 Jan 2026 15:50:08 GMT | Secure Password Reset: Tokens, Expiry, and System Design Best Practices | Visakh Vijayan | [Read More](https://medium.com/p/337c6161af5a) |
-| Tue, 13 Jan 2026 15:46:47 GMT | Deepfake BEC & Payment Diversion: The Q1 2026 Fraud PIR You Can’t Defer | Wes Young | [Read More](https://medium.com/p/1534d05e1a7c) |
-| Tue, 13 Jan 2026 15:44:19 GMT | Digital Danger: How Cyber Crime is Advancing in 2026 — Threats, Tactics & Real-World Impact | Himanshu Bhatt | [Read More](https://medium.com/p/8f43839e4430) |
-| Tue, 13 Jan 2026 15:43:17 GMT | How to Hack WhatsApp: What’s Actually Possible, What’s Not, and What You Should Know | Rebecca Smith | [Read More](https://medium.com/p/1b8e603984d2) |
-| Tue, 13 Jan 2026 15:35:52 GMT | 7 Shockingly Simple AI Automations That Saved Me 20+ Hours a Week | Mahad Nadeem | [Read More](https://medium.com/p/6fb1c8b18b57) |
-| Tue, 13 Jan 2026 15:34:40 GMT | The Rising Security Challenges of Microservices in the Cloud | Emmanuel Olu-Ajayi | [Read More](https://medium.com/p/d04805186a79) |
