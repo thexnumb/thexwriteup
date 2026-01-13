@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 Jan 2026 14:44:22 GMT | In an era where cyber threats are evolving at the speed of AI, the "digital fence" of yesterday is… | Roshankappala | [Read More](https://medium.com/p/c59b8d455dee) |
+| Tue, 13 Jan 2026 14:43:01 GMT | Common Node.js Security Vulnerabilities & Prevention Strategies | Manish Prasad | [Read More](https://medium.com/p/52a41ade7a0b) |
+| Tue, 13 Jan 2026 14:42:10 GMT | What It Feels Like to Be Real Around the Wrong People | Oany | [Read More](https://medium.com/p/80dd61aea078) |
+| Tue, 13 Jan 2026 14:41:44 GMT | The Informal Economy in Cameroon and the Role of Context-Aware Digital Solutions. | Fritz Akam | [Read More](https://medium.com/p/2eda4727d7da) |
+| Tue, 13 Jan 2026 14:38:22 GMT | Passing the PNPT: A Practical Perspective on Modern Pentesting | Ivaylo Ivanov | [Read More](https://medium.com/p/adbdb34210ea) |
+| Tue, 13 Jan 2026 14:32:49 GMT | How to Create an Undetectable Backdoor: A Step-by-Step Guide | Vignesh R | [Read More](https://medium.com/p/ba336b805856) |
+| Tue, 13 Jan 2026 14:32:00 GMT | SimpleCTF | Rue | [Read More](https://medium.com/p/a730c4c2fc43) |
+| Tue, 13 Jan 2026 14:27:08 GMT | We don’t just “fix computers” — We produce uptime | Century Solutions Group | [Read More](https://medium.com/p/a2f57ef8c087) |
 | Tue, 13 Jan 2026 14:19:09 GMT | CIA TRIAD: Siber Güvenliğin Üç Temel İlkesi | dilan alpaltun | [Read More](https://medium.com/p/ee309ea22e2a) |
 | Tue, 13 Jan 2026 14:17:45 GMT | How to Use Role-Based Access Control (RBAC) on Servers | Smit Pipaliya | [Read More](https://medium.com/p/5a8abd2ec7a8) |
 | Tue, 13 Jan 2026 14:16:04 GMT | DNS Resolution Process: Step-by-Step from Client to Authoritative DNS | Barbaros Küçükpınar | [Read More](https://medium.com/p/6fd6e644a4d4) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 Jan 2026 08:31:22 GMT | The Hidden Strength Behind Fast Websites: Reliable Hosting That Doesn’t Break Your Budget | Mary Thomas | [Read More](https://medium.com/p/0aa7a02bad9b) |
 | Tue, 13 Jan 2026 08:29:56 GMT | Membangun Well-Architect SIEM 3: Penerapan Kriptografi dalam Aplikasi Test-bed | Lulu | [Read More](https://medium.com/p/dd279ac09df3) |
 | Tue, 13 Jan 2026 08:25:06 GMT | Nvidia H200: No Upfront Payments-Good News for AI Builders! | Motherlandlove | [Read More](https://medium.com/p/b0da34ce523e) |
-| Tue, 13 Jan 2026 08:13:04 GMT | DORA in Control: Professional Overview | Viktor Davydych | [Read More](https://medium.com/p/0f5929a3a856) |
-| Tue, 13 Jan 2026 08:12:57 GMT | ATM Penetration Testing & Security Assessment -Free Course | Nothing Cyber [NC] | [Read More](https://medium.com/p/b0c15d4870dd) |
-| Tue, 13 Jan 2026 08:11:00 GMT | Cowork: Anthropic’s AI Revolution for Non-Coders | Motherlandlove | [Read More](https://medium.com/p/6860ef77b19d) |
-| Tue, 13 Jan 2026 08:06:09 GMT | When Security Broke Compliance: A Real AWS WAF Lesson from a Google Play Rejection | kranthi kiran | [Read More](https://medium.com/p/55c4cb71a706) |
-| Tue, 13 Jan 2026 08:06:07 GMT | Data Protection in Amazon S3 | Hina Atif | [Read More](https://medium.com/p/438ca9b7b7c3) |
-| Tue, 13 Jan 2026 08:05:53 GMT | API Recon Deep Dive: How to Discover Docs, Endpoints, and Hidden Parameters | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/0a7d12eced64) |
-| Tue, 13 Jan 2026 07:57:21 GMT | HTB — Meow - Very Easy - Linux | kingc06bra | [Read More](https://medium.com/p/d0a3a5736e28) |
-| Tue, 13 Jan 2026 07:56:30 GMT | Front-end Security: Common Mistakes, Real Risks, and How to Fix Them | Akshay S | [Read More](https://medium.com/p/0b946f5622a7) |
