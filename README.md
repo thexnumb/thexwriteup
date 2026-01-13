@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 Jan 2026 15:35:52 GMT | 7 Shockingly Simple AI Automations That Saved Me 20+ Hours a Week | Mahad Nadeem | [Read More](https://medium.com/p/6fb1c8b18b57) |
+| Tue, 13 Jan 2026 15:34:40 GMT | The Rising Security Challenges of Microservices in the Cloud | Emmanuel Olu-Ajayi | [Read More](https://medium.com/p/d04805186a79) |
+| Tue, 13 Jan 2026 15:34:02 GMT | “Bug Bounty Bootcamp #15: Beyond <script>alert(1)</script>—Mastering Diverse XSS Execution Vectors” | Aman Sharma | [Read More](https://medium.com/p/d4d133972725) |
 | Tue, 13 Jan 2026 15:24:58 GMT | The Client-side Is Not a Boundary | Adebayo | [Read More](https://medium.com/p/cdac4653460e) |
 | Tue, 13 Jan 2026 15:24:36 GMT | API Gateway Design Patterns: The Bouncer That Keeps Your System Sane | Jitin Kayyala | [Read More](https://medium.com/p/98b20cad9f0b) |
 | Tue, 13 Jan 2026 15:21:42 GMT | NEW YEAR CTF: WRITEUP CHALLENGE1 CRYPTO ) | marlithor_cyber | [Read More](https://medium.com/p/6e3b9ee2c235) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 Jan 2026 09:24:52 GMT | Cavemen Used Facial Recognition | IREX Ethical AI | [Read More](https://medium.com/p/797af7f1a45b) |
 | Tue, 13 Jan 2026 09:23:00 GMT | Who’s Watching While You Type? | Redfox Security | [Read More](https://medium.com/p/e423d6eadafe) |
 | Tue, 13 Jan 2026 09:22:08 GMT | The “Inspector Gadget” Hack: How I Bypassed Federal Authentication by Deleting a Popup | Zer0Figure | [Read More](https://medium.com/p/03dd897177fe) |
-| Tue, 13 Jan 2026 09:22:01 GMT | The Day AI Defeated Google (As Its Own Owner) | AI 404 | [Read More](https://medium.com/p/2fc1372cd2cc) |
-| Tue, 13 Jan 2026 09:21:27 GMT | Addressing Challenges and Risks in eKYC Implementations | Digichorus Technologies Pvt. LTD. | [Read More](https://medium.com/p/10468419bdc3) |
-| Tue, 13 Jan 2026 09:20:53 GMT | TryHackMe: Jurassic Park Writeup | cbev | [Read More](https://medium.com/p/37e32b13bcc8) |
