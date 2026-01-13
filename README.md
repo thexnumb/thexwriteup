@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 Jan 2026 20:39:16 GMT | Dig Dug: TryHackMe WriteUp | Bridget | [Read More](https://medium.com/p/ef09e9c27f40) |
+| Tue, 13 Jan 2026 20:34:50 GMT | Answering Most Asked Questions About the Dark Web | Abhay Parashar | [Read More](https://medium.com/p/6991633f8248) |
+| Tue, 13 Jan 2026 20:23:51 GMT | Man-in-the-Middle (MITM) Saldırıları | Romanzeb | [Read More](https://medium.com/p/dd46500897c9) |
+| Tue, 13 Jan 2026 20:20:28 GMT | Attacktive Directory TryHackME walkthrough | Nishchay Manhas | [Read More](https://medium.com/p/7b3fe49ae308) |
 | Tue, 13 Jan 2026 20:14:34 GMT | The Auto-Update You Trusted Just Got Weaponized | Liam | [Read More](https://medium.com/p/540feeae236f) |
 | Tue, 13 Jan 2026 20:04:07 GMT | Top 5 AI Tools Every Bug Bounty Hunter Should Know | Shahzaib | [Read More](https://medium.com/p/1d7638598f74) |
 | Tue, 13 Jan 2026 19:54:19 GMT | The Role of Home Monitoring in Emergency Response and Safety | Alex Bryn | [Read More](https://medium.com/p/0bf8b6cb7355) |
@@ -109,7 +113,3 @@ Starting Out: The First… | Urooj Zeeshan | [Read More](https://medium.com/p/98
 | Tue, 13 Jan 2026 14:41:44 GMT | The Informal Economy in Cameroon and the Role of Context-Aware Digital Solutions. | Fritz Akam | [Read More](https://medium.com/p/2eda4727d7da) |
 | Tue, 13 Jan 2026 14:38:22 GMT | Passing the PNPT: A Practical Perspective on Modern Pentesting | Ivaylo Ivanov | [Read More](https://medium.com/p/adbdb34210ea) |
 | Tue, 13 Jan 2026 14:32:49 GMT | How to Create an Undetectable Backdoor: A Step-by-Step Guide | Vignesh R | [Read More](https://medium.com/p/ba336b805856) |
-| Tue, 13 Jan 2026 14:32:00 GMT | SimpleCTF | Rue | [Read More](https://medium.com/p/a730c4c2fc43) |
-| Tue, 13 Jan 2026 14:27:08 GMT | We don’t just “fix computers” — We produce uptime | Century Solutions Group | [Read More](https://medium.com/p/a2f57ef8c087) |
-| Tue, 13 Jan 2026 14:19:09 GMT | CIA TRIAD: Siber Güvenliğin Üç Temel İlkesi | dilan alpaltun | [Read More](https://medium.com/p/ee309ea22e2a) |
-| Tue, 13 Jan 2026 14:17:45 GMT | How to Use Role-Based Access Control (RBAC) on Servers | Smit Pipaliya | [Read More](https://medium.com/p/5a8abd2ec7a8) |
