@@ -12,9 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 Jan 2026 10:18:21 GMT | Internet Safety for Teens | Zeeko | [Read More](https://medium.com/p/ba10749f6ee2) |
+| Tue, 13 Jan 2026 10:13:29 GMT | Artificial Intelligence: Complete AI Training for Beginners to Experts | Manisha Chaudhary | [Read More](https://medium.com/p/c84235ebb9c9) |
+| Tue, 13 Jan 2026 10:10:57 GMT | Extropy Security Bytes: w1 & w2, 2026 | Extropy.IO | [Read More](https://medium.com/p/0e5121069482) |
+| Tue, 13 Jan 2026 10:08:34 GMT | Cyber Security Services in Tunisia: A Complete Guide for 2026 | Prakash Factosecure | [Read More](https://medium.com/p/63edb406417d) |
+| Tue, 13 Jan 2026 10:08:23 GMT | Secure Systems or Secure Users? | Edasu Semetay | [Read More](https://medium.com/p/c26170198d4f) |
+| Tue, 13 Jan 2026 10:05:54 GMT | AI and the Death of Search: What Happens When We Stop Googling? | SensEI | [Read More](https://medium.com/p/c378a9ab902d) |
+| Tue, 13 Jan 2026 10:04:32 GMT | Why Your Legitimate Emails Are Landing in Spam (And How to Fix It in Seconds) | Everywebtool | [Read More](https://medium.com/p/a411854bbc53) |
+| Tue, 13 Jan 2026 10:03:09 GMT | Bug Bounty Report Template: How I Document Credential Leaks for P1 Submissions | Alexandre Vandamme | [Read More](https://medium.com/p/60a9226649cd) |
+| Tue, 13 Jan 2026 09:59:44 GMT | سنگین مقدمات میں مطلوب دو اشتہاری ملزمان عمان سے گرفتار، اسلام آباد منتقل | Malik Sarfraz Hussain Awan | [Read More](https://medium.com/p/96f5e07e6096) |
+| Tue, 13 Jan 2026 09:55:43 GMT | The Pink Ranger Who Deleted Hate: The First Real Case Study of AI Hacktivism | Kuldeepsinh Jadeja | [Read More](https://medium.com/p/870b27fb3dac) |
+| Tue, 13 Jan 2026 09:54:08 GMT | What is a Web Cache Deception? | Gohar Ghukasyan | [Read More](https://medium.com/p/101cb24f7a39) |
+| Tue, 13 Jan 2026 09:51:59 GMT | Last Day On Earth Mod Apk | Game4u | [Read More](https://medium.com/p/84d99f043ce3) |
+| Tue, 13 Jan 2026 09:45:31 GMT | Daily PortSwigger Academy Lab Walkthrough: SQLi & CSS | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/8da9838ac46e) |
+| Tue, 13 Jan 2026 09:34:27 GMT | Hack Dragon City | genzvnmod | [Read More](https://medium.com/p/382a4f4b227d) |
+| Tue, 13 Jan 2026 09:31:41 GMT | How will this cybersecurity course benefit me in the long term | tedorahackeracademy | [Read More](https://medium.com/p/3df16b01a13c) |
+| Tue, 13 Jan 2026 09:25:12 GMT | What are the top use cases of Generative AI that GCCs in India are scaling across functions like… | Sansovi GCC | [Read More](https://medium.com/p/33bd3a1ecf07) |
 | Tue, 13 Jan 2026 09:24:52 GMT | Cavemen Used Facial Recognition | IREX Ethical AI | [Read More](https://medium.com/p/797af7f1a45b) |
 | Tue, 13 Jan 2026 09:23:00 GMT | Who’s Watching While You Type? | Redfox Security | [Read More](https://medium.com/p/e423d6eadafe) |
 | Tue, 13 Jan 2026 09:22:08 GMT | The “Inspector Gadget” Hack: How I Bypassed Federal Authentication by Deleting a Popup | Zer0Figure | [Read More](https://medium.com/p/03dd897177fe) |
+| Tue, 13 Jan 2026 09:21:27 GMT | Addressing Challenges and Risks in eKYC Implementations | Digichorus Technologies Pvt. LTD. | [Read More](https://medium.com/p/10468419bdc3) |
 | Tue, 13 Jan 2026 09:20:53 GMT | TryHackMe: Jurassic Park Writeup | cbev | [Read More](https://medium.com/p/37e32b13bcc8) |
 | Tue, 13 Jan 2026 09:07:34 GMT | Cryptography Testing Dengan OXTRACE v5.0 | Ginda Sundara | [Read More](https://medium.com/p/b1f974dc47a0) |
 | Tue, 13 Jan 2026 09:02:08 GMT | Veriden Savunmaya: Siber Tehdit İstihbaratının Stratejik Rolü | Ziya Gokalp | [Read More](https://medium.com/p/66eef30c7a2f) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 Jan 2026 04:42:05 GMT | Japan Will Not Return to the Past– A Nation Standing at a Crossroads of Choice — | Toshi & Mina(AI) LAB | [Read More](https://medium.com/p/05a07f6062ff) |
 | Tue, 13 Jan 2026 04:37:30 GMT | How Do LLMs and AI Systems Become Vulnerable to Cyber Attacks? | Modern Security | [Read More](https://medium.com/p/ae84498a003e) |
 | Tue, 13 Jan 2026 04:36:22 GMT | Building a Practical AFIS(Automated Fingerprint Identification System) I: Pipeline | SpaceIO | [Read More](https://medium.com/p/22a2332fb8fe) |
-| Tue, 13 Jan 2026 04:31:39 GMT | Enhance Your Home Security with Crimsafe Screen Doors | Gold Coast Security Screens | [Read More](https://medium.com/p/1ee9b8c5b462) |
-| Tue, 13 Jan 2026 04:10:35 GMT | Day 7 — Understanding Infrastructure Security: From Virtual Machines to Cloud Attacks | NineTales | [Read More](https://medium.com/p/e6b7991c130b) |
-| Tue, 13 Jan 2026 04:10:16 GMT | CyberDev News Corner Weekly Brief | Devore McIntosh | [Read More](https://medium.com/p/8a9992e2b44d) |
-| Tue, 13 Jan 2026 04:08:38 GMT | Malware Analysis: Understanding Malicious Code to Defend Better | BAVANA SRI CHANDANA G | [Read More](https://medium.com/p/c046bfe0ceba) |
-| Tue, 13 Jan 2026 03:45:31 GMT | OverTheWire Bandit (Day 12): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/4a2b4a73fdec) |
-| Tue, 13 Jan 2026 03:42:48 GMT | Your Java File Upload Is a Security Risk. | DevLogic - Engineering Thinking | [Read More](https://medium.com/p/ec7a924ccfdc) |
-| Tue, 13 Jan 2026 03:42:48 GMT | Hack Dead Rails | Apkpuredev | [Read More](https://medium.com/p/8ee14f519b7a) |
-| Tue, 13 Jan 2026 03:32:49 GMT | The ClickFix Illusion: How “Fixing” an Error Hands Over Your System | Deven Chhajed | [Read More](https://medium.com/p/115684eec7fc) |
-| Tue, 13 Jan 2026 03:22:49 GMT | Blockchain Wallet Development Challenges: Balancing UX with Security | TheExchain | [Read More](https://medium.com/p/363bceeec1d5) |
-| Tue, 13 Jan 2026 03:06:55 GMT | Reconstructing Adversary Activity from Visual Artifacts: RDP Bitmap Cache Forensics | seif | [Read More](https://medium.com/p/6fe68b7f6314) |
-| Tue, 13 Jan 2026 02:59:12 GMT | Zero Trust That Learns: From Static Policy Enforcement to Decision-Driven Security | Zeigeist | [Read More](https://medium.com/p/9cb2a1ea5282) |
-| Tue, 13 Jan 2026 02:51:13 GMT | Unlocking the Power of Hydra: Advanced Credential Attacks for Real Pentesters | Cybeague Technologies | [Read More](https://medium.com/p/2a8fcca97f2c) |
-| Tue, 13 Jan 2026 02:50:18 GMT | Getting Started With Hydra: The Fast Track to Password Cracking Basics | Cybeague Technologies | [Read More](https://medium.com/p/5b556c8735d0) |
-| Tue, 13 Jan 2026 02:42:02 GMT | Emerging Operator “0-P” Announces c0bra-ransomware | Cybersec News | [Read More](https://medium.com/p/8a8b72860ff1) |
-| Tue, 13 Jan 2026 02:36:25 GMT | The “Hard Crunchy Shell” is Dead: Why Your Internal Network Should Be Treated as Public | Cyberbali | [Read More](https://medium.com/p/b9f3a2518426) |
-| Tue, 13 Jan 2026 02:34:03 GMT | $2,000 Bug Bounty: Turning a Peer Discovery Protocol Into a DDoS Weapon | Monika sharma | [Read More](https://medium.com/p/8da81beea96d) |
-| Tue, 13 Jan 2026 02:33:55 GMT | A Practical cURL Methodology for Security Testing — Part 1: Observation | Martin Simonyan | [Read More](https://medium.com/p/570a43fee895) |
