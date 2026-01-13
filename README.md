@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 Jan 2026 21:43:18 GMT | The Oldest and Largest Impact Crater on Earth | Abdul | [Read More](https://medium.com/p/d1690974dfb4) |
+| Tue, 13 Jan 2026 21:34:44 GMT | When ‘Dead’ Pets Come Back to Life: A Bug I Found on a Pet Platform | SK3PT1K3R | [Read More](https://medium.com/p/97b1aac7de73) |
+| Tue, 13 Jan 2026 21:26:57 GMT | Cybersecurity in 2026: The Attacks You Never See Coming | Abdul Ahad | [Read More](https://medium.com/p/cb5d995f722c) |
+| Tue, 13 Jan 2026 21:19:19 GMT | Shadow Track — Hackviser Real-World Scenario Walkthrough | Hussein 404 | [Read More](https://medium.com/p/a46eea4414ec) |
 | Tue, 13 Jan 2026 21:18:59 GMT | Data Heist — Hackviser Real-World Scenario Walkthrough | Hussein 404 | [Read More](https://medium.com/p/37418c3e8b3b) |
 | Tue, 13 Jan 2026 21:12:13 GMT | iOS Jailbreak Detection: Security in Banking Applications | aybarska | [Read More](https://medium.com/p/382cec1de559) |
 | Tue, 13 Jan 2026 21:12:12 GMT | AI SOC Is Real — But It Only Automates What You’ve Already Systematized | Denny Roger | [Read More](https://medium.com/p/992116983fec) |
@@ -85,6 +89,7 @@ Starting Out: The First… | Urooj Zeeshan | [Read More](https://medium.com/p/98
 | Tue, 13 Jan 2026 17:01:30 GMT | From Lab Benchmarks to Live Pen Tests: The Rise of Agentic AI in Cyber Offense | Veronika Aleksova | [Read More](https://medium.com/p/a1b1358fec6b) |
 | Tue, 13 Jan 2026 16:43:19 GMT | How a “Temporary Fix” Became a Permanent Security Disaster | Iski | [Read More](https://medium.com/p/be5e9b8b2694) |
 | Tue, 13 Jan 2026 16:36:27 GMT | Crypto Heists | So Cleva | [Read More](https://medium.com/p/448ebe4878f7) |
+| Tue, 13 Jan 2026 16:36:06 GMT | Implementación de un Honeypot con T-Pot para detección y análisis de ataques. | Eric Cabrera Cruz | [Read More](https://medium.com/p/f1bfcea483a8) |
 | Tue, 13 Jan 2026 16:35:48 GMT | The Cryptography Journey — OCSP (Online Certification Status Protocol) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/ac9a1055e9c7) |
 | Tue, 13 Jan 2026 16:31:08 GMT | Hacking Humans: How I Learned That You Are the Vulnerability | HEKKO | [Read More](https://medium.com/p/78db9510a7c5) |
 | Tue, 13 Jan 2026 16:24:48 GMT | Testing PSPDFKit License Validity via Client-Side PoC | WHO AM I ? | [Read More](https://medium.com/p/a5b7e53026c9) |
@@ -108,8 +113,3 @@ Starting Out: The First… | Urooj Zeeshan | [Read More](https://medium.com/p/98
 | Tue, 13 Jan 2026 15:19:41 GMT | How I Supercharged Wazuh SIEM with AI Using Claude Desktop (MCP Integration) | MOAMEN REZK | [Read More](https://medium.com/p/70a973488477) |
 | Tue, 13 Jan 2026 15:16:47 GMT | Confidently Wrong in Subtle Ways | Roger Gale | [Read More](https://medium.com/p/f755fa725723) |
 | Tue, 13 Jan 2026 15:16:38 GMT | The Growing Risk of Ransomware-as-a-Service (RaaS): Why It’s a National Security Issue | Suman Panta | [Read More](https://medium.com/p/e71b44fbb1c3) |
-| Tue, 13 Jan 2026 15:07:07 GMT | hkjljk | Dotafap@King | [Read More](https://medium.com/p/245f500504d2) |
-| Tue, 13 Jan 2026 15:07:04 GMT | RITA in the Real World: Installing It on Windows Without Losing Your Sanity | Pablo Echeverria | [Read More](https://medium.com/p/8e4e508d2aee) |
-| Tue, 13 Jan 2026 15:02:58 GMT | Cyber Briefing: 2026.01.13 | CyberMaterial | [Read More](https://medium.com/p/5e829aabf9a4) |
-| Tue, 13 Jan 2026 15:02:24 GMT | I Clicked the Link. 47 Seconds Later, Hackers Were In My Account. | Deepak Sharma | [Read More](https://medium.com/p/9a537cc00292) |
-| Tue, 13 Jan 2026 14:54:45 GMT | Why Digital Password Security Matters More Than Ever | Berk Behcet Gerek | [Read More](https://medium.com/p/2729d5672579) |
