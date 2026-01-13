@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 Jan 2026 07:27:44 GMT | The Code We Can’t Secure: Why Cybersecurity Is About to Become the Hottest Career in Tech | JP Caparas | [Read More](https://medium.com/p/1f4f466d5c38) |
+| Tue, 13 Jan 2026 07:25:57 GMT | How Web Design Choices Affect Website Security | Akrutimainwork | [Read More](https://medium.com/p/f0843a951b92) |
+| Tue, 13 Jan 2026 07:24:59 GMT | Minecraft 1.20.41 APK | Bandisharecx | [Read More](https://medium.com/p/ecf177019565) |
 | Tue, 13 Jan 2026 07:17:35 GMT | Android Security: What I Learned While Decompiling Our ‘Secured’ Production App? | Shubham Kumar Gupta | [Read More](https://medium.com/p/0bb234d76699) |
 | Tue, 13 Jan 2026 07:17:27 GMT | 10 Psychology-Based Detection Tactics Blue Teams Use: Master How Defenders Outsmart Attackers | Very Lazy Tech | [Read More](https://medium.com/p/f5b0ee45a301) |
 | Tue, 13 Jan 2026 07:15:10 GMT | Nmap vs Masscan vs Rustscan: Myths and Facts | 2s1one | [Read More](https://medium.com/p/62a9b462241e) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 Jan 2026 21:41:56 GMT | Threat Modeling: The Most Underrated Skill in Cybersecurity | DevTutorials | [Read More](https://medium.com/p/68df9f96f8d4) |
 | Mon, 12 Jan 2026 21:37:07 GMT | Ni8mare (CVE-2026–21858) | IndigoINT | [Read More](https://medium.com/p/2c667e4a4fa4) |
 | Mon, 12 Jan 2026 21:19:39 GMT | 0day-CTF | guyvolvo | [Read More](https://medium.com/p/898eb2d3478d) |
-| Mon, 12 Jan 2026 21:01:33 GMT | Hunting Lazarus: Inside the Contagious Interview C2 Infrastructure | Red Asgard | [Read More](https://medium.com/p/435375a5c66d) |
-| Mon, 12 Jan 2026 20:52:26 GMT | Your IDE Might Betray You Before You Run Anything | Ryan W | [Read More](https://medium.com/p/da937667ecea) |
-| Mon, 12 Jan 2026 20:40:12 GMT | Write-up: Enterprise lab on THM | cLODIUS cOCK | [Read More](https://medium.com/p/63549fc930bf) |
