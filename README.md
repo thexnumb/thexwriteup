@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 Jan 2026 09:24:52 GMT | Cavemen Used Facial Recognition | IREX Ethical AI | [Read More](https://medium.com/p/797af7f1a45b) |
+| Tue, 13 Jan 2026 09:23:00 GMT | Who’s Watching While You Type? | Redfox Security | [Read More](https://medium.com/p/e423d6eadafe) |
+| Tue, 13 Jan 2026 09:22:08 GMT | The “Inspector Gadget” Hack: How I Bypassed Federal Authentication by Deleting a Popup | Zer0Figure | [Read More](https://medium.com/p/03dd897177fe) |
+| Tue, 13 Jan 2026 09:20:53 GMT | TryHackMe: Jurassic Park Writeup | cbev | [Read More](https://medium.com/p/37e32b13bcc8) |
+| Tue, 13 Jan 2026 09:07:34 GMT | Cryptography Testing Dengan OXTRACE v5.0 | Ginda Sundara | [Read More](https://medium.com/p/b1f974dc47a0) |
+| Tue, 13 Jan 2026 09:02:08 GMT | Veriden Savunmaya: Siber Tehdit İstihbaratının Stratejik Rolü | Ziya Gokalp | [Read More](https://medium.com/p/66eef30c7a2f) |
+| Tue, 13 Jan 2026 09:01:55 GMT | Best CCTV System in UAE for Smart & Reliable Security | techfra solutions | [Read More](https://medium.com/p/8bfce73d0890) |
+| Tue, 13 Jan 2026 08:58:17 GMT | 數萬美金的學費：只是「打開資料夾」，資深開發者為何瞬間破防？ | p1x06u9 | [Read More](https://medium.com/p/ca18bbbe197d) |
+| Tue, 13 Jan 2026 08:50:27 GMT | Why SOC Sovereignty Is No Longer Optional — Global and INDIA perspective | Ashok Sharma | [Read More](https://medium.com/p/48f87e8f129c) |
+| Tue, 13 Jan 2026 08:48:42 GMT | Instagram says there’s been “no breach” despite password reset requests | Bintu's Art and Everything | [Read More](https://medium.com/p/b9215e0eb979) |
+| Tue, 13 Jan 2026 08:48:14 GMT | Antivirus for WindowsWhat SiyanoAV Delivers in 2026 Through Antivirus for Windows | Siyanoav | [Read More](https://medium.com/p/2c2e48f8e4cd) |
+| Tue, 13 Jan 2026 08:42:36 GMT | Architecture Decides the Blast Radius | Jurgen Allewijn | [Read More](https://medium.com/p/1b7259ddc3a7) |
+| Tue, 13 Jan 2026 08:40:05 GMT | Cryptography as the Backbone of a Well-Architected SIEM | Azen | [Read More](https://medium.com/p/93769ede2dec) |
+| Tue, 13 Jan 2026 08:35:22 GMT | OpenAI Buys Health AI Startup Torch for $100M! | Motherlandlove | [Read More](https://medium.com/p/3da5baebe7c4) |
+| Tue, 13 Jan 2026 08:31:22 GMT | The Hidden Strength Behind Fast Websites: Reliable Hosting That Doesn’t Break Your Budget | Mary Thomas | [Read More](https://medium.com/p/0aa7a02bad9b) |
+| Tue, 13 Jan 2026 08:29:56 GMT | Membangun Well-Architect SIEM 3: Penerapan Kriptografi dalam Aplikasi Test-bed | Lulu | [Read More](https://medium.com/p/dd279ac09df3) |
+| Tue, 13 Jan 2026 08:25:06 GMT | Nvidia H200: No Upfront Payments-Good News for AI Builders! | Motherlandlove | [Read More](https://medium.com/p/b0da34ce523e) |
 | Tue, 13 Jan 2026 08:13:04 GMT | DORA in Control: Professional Overview | Viktor Davydych | [Read More](https://medium.com/p/0f5929a3a856) |
 | Tue, 13 Jan 2026 08:12:57 GMT | ATM Penetration Testing & Security Assessment -Free Course | Nothing Cyber [NC] | [Read More](https://medium.com/p/b0c15d4870dd) |
 | Tue, 13 Jan 2026 08:11:00 GMT | Cowork: Anthropic’s AI Revolution for Non-Coders | Motherlandlove | [Read More](https://medium.com/p/6860ef77b19d) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 Jan 2026 02:36:25 GMT | The “Hard Crunchy Shell” is Dead: Why Your Internal Network Should Be Treated as Public | Cyberbali | [Read More](https://medium.com/p/b9f3a2518426) |
 | Tue, 13 Jan 2026 02:34:03 GMT | $2,000 Bug Bounty: Turning a Peer Discovery Protocol Into a DDoS Weapon | Monika sharma | [Read More](https://medium.com/p/8da81beea96d) |
 | Tue, 13 Jan 2026 02:33:55 GMT | A Practical cURL Methodology for Security Testing — Part 1: Observation | Martin Simonyan | [Read More](https://medium.com/p/570a43fee895) |
-| Tue, 13 Jan 2026 02:26:21 GMT | A Season of Borrowed Quiet | emberlines | [Read More](https://medium.com/p/1e727af1aa27) |
-| Tue, 13 Jan 2026 02:13:07 GMT | Tuesday Morning Threat Report: Jan 13, 2026 | Mark Maguire | [Read More](https://medium.com/p/f64e21186442) |
-| Tue, 13 Jan 2026 02:00:58 GMT | Why I Designed My Home Lab Like an Enterprise Network | CompliantEnough504 | [Read More](https://medium.com/p/2111630bba7f) |
-| Tue, 13 Jan 2026 01:47:11 GMT | Love Letters I Never Wrote | Deyanira Perdomo Cuéllar | [Read More](https://medium.com/p/6d29e291dc82) |
-| Tue, 13 Jan 2026 01:46:03 GMT | Hacker101 Micro-CMS v1 — CTF Walkthrough | Jeffrey Dikewonsi | [Read More](https://medium.com/p/1b0b6bf119f8) |
-| Tue, 13 Jan 2026 01:20:35 GMT | WSUS over HTTPS? Still Secure? Think Again… | Mohammed ElKhateb | [Read More](https://medium.com/p/b4e346b68467) |
-| Tue, 13 Jan 2026 00:40:35 GMT | Bypassing Two-Factor Authentication via Password Reset Functionality | WHO AM I ? | [Read More](https://medium.com/p/8ab02e8acdb4) |
-| Tue, 13 Jan 2026 00:38:35 GMT | How to Document a SQL Database (A Clear, Practical Guide) | Dennis Duke | [Read More](https://medium.com/p/46655d59d265) |
-| Tue, 13 Jan 2026 00:37:24 GMT | Menambah kolom UDF di SAP B1 | Hendra Maulana | [Read More](https://medium.com/p/a611b35d6198) |
-| Tue, 13 Jan 2026 00:34:56 GMT | Google’s New Android Update Locks Your Apps And Hides Your Messages | Moni | [Read More](https://medium.com/p/16c061e25078) |
-| Tue, 13 Jan 2026 00:30:25 GMT | The Two Sides of Vulnerability | FaithOverFears | [Read More](https://medium.com/p/858e046747ba) |
-| Tue, 13 Jan 2026 00:21:21 GMT | Stop Overpaying for Antivirus: 5 Free Tools That Work Better | Muneeb - Budget Tech Buddy | [Read More](https://medium.com/p/d4d49430af8f) |
-| Tue, 13 Jan 2026 00:15:23 GMT | IPV6'nın Potansiyel Tehlikesi | Eren | [Read More](https://medium.com/p/79077ade06c3) |
-| Tue, 13 Jan 2026 00:12:47 GMT | Breaking Trust at the Core: Kerberos Authentication Flow and Common Roasting Attacks | Eray Yavuz | [Read More](https://medium.com/p/bd4422630c58) |
-| Tue, 13 Jan 2026 00:08:12 GMT | 2026. The year of IoT vs. National Security | Dan Berte | [Read More](https://medium.com/p/904f1bdff2e0) |
-| Tue, 13 Jan 2026 00:02:56 GMT | Masscan vs. Nmap: Guía de Escaneo de Puertos para Bug Bounty | JPablo13 | [Read More](https://medium.com/p/41701604d001) |
-| Tue, 13 Jan 2026 00:02:43 GMT | Anatomy of a Breach: From Public Web Server to Internal Data Exfiltration | 0xPmCr | [Read More](https://medium.com/p/2894aac6180d) |
