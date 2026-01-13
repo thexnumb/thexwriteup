@@ -12,9 +12,34 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 Jan 2026 13:41:20 GMT | SISTEM INFORMASI | Adhitya Wisnu Priambadha | [Read More](https://medium.com/p/7e5eb814b9ff) |
+| Tue, 13 Jan 2026 13:39:26 GMT | The Perpetuity in Yearning for Softness: For every little girl that never got to feel held | An Opinionated Brown Girl | [Read More](https://medium.com/p/29a1608e2999) |
+| Tue, 13 Jan 2026 13:37:13 GMT | If You’re Building a Cybersecurity Career Like It’s 2019, You’re Already Behind. | Taimur Ijlal | [Read More](https://medium.com/p/26006495cec8) |
+| Tue, 13 Jan 2026 13:31:27 GMT | # Why Ad Blockers Are Now a Security Mandate (2026 Edition) | Avlix Group | [Read More](https://medium.com/p/5fceff491892) |
+| Tue, 13 Jan 2026 13:30:22 GMT | Cybersecurity Awareness: Why It Matters in Today’s Digital World | Karthik M | [Read More](https://medium.com/p/e3e21c0bd34a) |
+| Tue, 13 Jan 2026 13:29:17 GMT | The Nuclear Risks of Regime Change in Iran | T Lewis | [Read More](https://medium.com/p/ed8070ee4ef0) |
+| Tue, 13 Jan 2026 13:28:25 GMT | Setup Environment Android untuk Mobile Pentest: Emulator, ADB, dan Burp Suite (Step-by-step) | Alfandiwijaya | [Read More](https://medium.com/p/b14bd5e02e35) |
+| Tue, 13 Jan 2026 13:27:13 GMT | Hacking “Time”: When Critical Infrastructure Forgets to Set a Password | hacker_might | [Read More](https://medium.com/p/7641c2b87f73) |
+| Tue, 13 Jan 2026 13:26:09 GMT | The Deletion Paradox: Mengapa Tombol “Delete” Justru Menjadi Ancaman Terbesar Privasi Anda | Roxasdarkseeker | [Read More](https://medium.com/p/a8641a155539) |
+| Tue, 13 Jan 2026 13:24:42 GMT | Practical Mobile Traffic Interception | Just Mobile Security | [Read More](https://medium.com/p/1481e33d974e) |
+| Tue, 13 Jan 2026 13:20:14 GMT | Camping in the UAE: A Realistic Guide for First-Time and Weekend Campers. | Outdoorlifedubai | [Read More](https://medium.com/p/dde4ac7a0a80) |
+| Tue, 13 Jan 2026 13:19:53 GMT | The Silent Threat in MLOps: Why Your AI Model Needs a Firewall | Arsenii Brazhnyk | [Read More](https://medium.com/p/efab5acab00d) |
+| Tue, 13 Jan 2026 13:14:07 GMT | Browser-in-Browser Scam Now Used by Facebook Login Thieves to Steal Credentials | Technijian | [Read More](https://medium.com/p/4af6a3aeee69) |
+| Tue, 13 Jan 2026 13:12:57 GMT | Basic Pentesting 1 (lab) Walkthrough: Exploiting FTP, SSH & WordPress | SUSHANT TELRANDHE | [Read More](https://medium.com/p/fc504247d4f9) |
+| Tue, 13 Jan 2026 13:12:43 GMT | I Didn’t Use eval()… But CSP Thought I Did. Here’s What Really Happened | Mohammed Nabahin | [Read More](https://medium.com/p/05754d92112c) |
+| Tue, 13 Jan 2026 13:11:30 GMT | Catch Me If You Can: Building an “Offensive” Anti-Theft System for Windows | Utkarsh Srivastava | [Read More](https://medium.com/p/58e65fc4c672) |
+| Tue, 13 Jan 2026 13:09:45 GMT | Ethical Proxy Use in 2026 | Teodoradehanyns | [Read More](https://medium.com/p/7fe9eccf54d1) |
+| Tue, 13 Jan 2026 13:05:17 GMT | Day5: Common Network Commands Explained | Mohammad-AL-Momani | [Read More](https://medium.com/p/38bf976676c0) |
+| Tue, 13 Jan 2026 13:05:08 GMT | Remote Security Agent Oklahoma: A Smarter Way to Protect Your Property | Overwatch Technologies | [Read More](https://medium.com/p/b360b96d8971) |
+| Tue, 13 Jan 2026 13:03:00 GMT | 5 Walletless Logins Users Actually Trusted | Hash Block | [Read More](https://medium.com/p/8d2d603f1bda) |
+| Tue, 13 Jan 2026 13:02:57 GMT | Hacking the Hackers | Br0k3n_1337 Aka Sourav Khan | [Read More](https://medium.com/p/bd34031b8b53) |
+| Tue, 13 Jan 2026 13:02:52 GMT | 5 Wallet Safety Patterns That Stop Silent Drains | Bhagya Rana | [Read More](https://medium.com/p/b877ba8cc917) |
+| Tue, 13 Jan 2026 12:55:25 GMT | How Web3 Is Becoming the Backend of Digital Trust | Samuel Orubuloye | [Read More](https://medium.com/p/7e363c5df98b) |
+| Tue, 13 Jan 2026 12:53:07 GMT | The Top 3 Most Devastating Cyberattacks in History — Explained | pdfalltools.com | [Read More](https://medium.com/p/0ce2727e0238) |
 | Tue, 13 Jan 2026 12:44:54 GMT | Part 1: Spring Security Setup in Spring Boot MVC with Thymeleaf | Manuel Hernandez Zemljic | [Read More](https://medium.com/p/06629d41962b) |
 | Tue, 13 Jan 2026 12:30:02 GMT | Hardware Hacking A Scrap Hikvision 4‑port Po E Switch (DS-3E0105P-E) | Aaronjjose | [Read More](https://medium.com/p/d59200e5a08d) |
 | Tue, 13 Jan 2026 12:16:06 GMT | TryHackMe Phishing Unfolding: Detecting Base64 and DNS Exfiltration with Splunk | Elmin Farzaliyev | [Read More](https://medium.com/p/15aa351e842b) |
+| Tue, 13 Jan 2026 12:14:55 GMT | Teknologi Digital dan Masa Depan Pembagian Waris Islam di Indonesia | Desiiii | [Read More](https://medium.com/p/0928fc3b4c53) |
 | Tue, 13 Jan 2026 11:57:45 GMT | Bug Report Nasıl Yazılır? (Geliştiricilerin İşini Kolaylaştıran Rehber) | Vidius Project | [Read More](https://medium.com/p/1fc517870ae2) |
 | Tue, 13 Jan 2026 11:53:22 GMT | AI in Cybersecurity: Applications, Benefits, Tools, and Trends | Simplilearn | [Read More](https://medium.com/p/f6229159d561) |
 | Tue, 13 Jan 2026 11:46:16 GMT | How One Test Led Me to a Critical P1 Account Takeover (ATO) Bug on Bugcrowd | Rajankumarbarik | [Read More](https://medium.com/p/831370edc8e9) |
@@ -51,6 +76,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 Jan 2026 09:24:52 GMT | Cavemen Used Facial Recognition | IREX Ethical AI | [Read More](https://medium.com/p/797af7f1a45b) |
 | Tue, 13 Jan 2026 09:23:00 GMT | Who’s Watching While You Type? | Redfox Security | [Read More](https://medium.com/p/e423d6eadafe) |
 | Tue, 13 Jan 2026 09:22:08 GMT | The “Inspector Gadget” Hack: How I Bypassed Federal Authentication by Deleting a Popup | Zer0Figure | [Read More](https://medium.com/p/03dd897177fe) |
+| Tue, 13 Jan 2026 09:22:01 GMT | The Day AI Defeated Google (As Its Own Owner) | AI 404 | [Read More](https://medium.com/p/2fc1372cd2cc) |
 | Tue, 13 Jan 2026 09:21:27 GMT | Addressing Challenges and Risks in eKYC Implementations | Digichorus Technologies Pvt. LTD. | [Read More](https://medium.com/p/10468419bdc3) |
 | Tue, 13 Jan 2026 09:20:53 GMT | TryHackMe: Jurassic Park Writeup | cbev | [Read More](https://medium.com/p/37e32b13bcc8) |
 | Tue, 13 Jan 2026 09:07:34 GMT | Cryptography Testing Dengan OXTRACE v5.0 | Ginda Sundara | [Read More](https://medium.com/p/b1f974dc47a0) |
@@ -86,29 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 Jan 2026 07:40:42 GMT | Protecting Privacy: A Beginner’s Guide to Anonymizing Data with Microsoft Presidio | Hitendri Bomble | [Read More](https://medium.com/p/aa0b66474e54) |
 | Tue, 13 Jan 2026 07:27:44 GMT | The Code We Can’t Secure: Why Cybersecurity Is About to Become the Hottest Career in Tech | JP Caparas | [Read More](https://medium.com/p/1f4f466d5c38) |
 | Tue, 13 Jan 2026 07:25:57 GMT | How Web Design Choices Affect Website Security | Akrutimainwork | [Read More](https://medium.com/p/f0843a951b92) |
-| Tue, 13 Jan 2026 07:24:59 GMT | Minecraft 1.20.41 APK | Bandisharecx | [Read More](https://medium.com/p/ecf177019565) |
-| Tue, 13 Jan 2026 07:17:35 GMT | Android Security: What I Learned While Decompiling Our ‘Secured’ Production App? | Shubham Kumar Gupta | [Read More](https://medium.com/p/0bb234d76699) |
-| Tue, 13 Jan 2026 07:17:27 GMT | 10 Psychology-Based Detection Tactics Blue Teams Use: Master How Defenders Outsmart Attackers | Very Lazy Tech | [Read More](https://medium.com/p/f5b0ee45a301) |
-| Tue, 13 Jan 2026 07:15:10 GMT | Nmap vs Masscan vs Rustscan: Myths and Facts | 2s1one | [Read More](https://medium.com/p/62a9b462241e) |
-| Tue, 13 Jan 2026 07:05:01 GMT | DIGITAL SOVEREIGNTY, CYBER WAR, AND GEOPOLITICS: THE NEW SPACE OF POWER. | Marco Mizzau | [Read More](https://medium.com/p/c590a6aadde8) |
-| Tue, 13 Jan 2026 07:04:41 GMT | Local Locksmith Services Designed for London Properties | N1locksmithsltd | [Read More](https://medium.com/p/dc5d548efb94) |
-| Tue, 13 Jan 2026 06:59:48 GMT | Securing the Digital Border: A Deep Dive into Cyber ​​Security | Poddar Group of Institutions | [Read More](https://medium.com/p/b0db16ac9d41) |
-| Tue, 13 Jan 2026 06:56:27 GMT | Cap — HackTheBox Writeup: Machine Walkthrough | Kizito Arinze Chukwu | [Read More](https://medium.com/p/ec828619b47a) |
-| Tue, 13 Jan 2026 06:53:22 GMT | Managed IT Security in 2026: What Brisbane Companies Must Prioritise | Elevate | [Read More](https://medium.com/p/776246bd4b6b) |
-| Tue, 13 Jan 2026 06:45:46 GMT | Aimlock FF APK | GOCMOD | [Read More](https://medium.com/p/5556e43ed310) |
-| Tue, 13 Jan 2026 06:45:27 GMT | Expertise in Safeguarding Industrial Digital Assets | Kadhijahafiya | [Read More](https://medium.com/p/0824d67d6f7f) |
-| Tue, 13 Jan 2026 06:43:16 GMT | How I Try to Love Me | Viola Laika | [Read More](https://medium.com/p/e9f132fb02af) |
-| Tue, 13 Jan 2026 06:42:09 GMT | React2Shell: The “Perfect 10” Vulnerability That Shook the React Ecosystem | Pawan Dhanapala | [Read More](https://medium.com/p/d926d7b196fa) |
-| Tue, 13 Jan 2026 06:38:22 GMT | Security Service - Make Easy | K2q official | [Read More](https://medium.com/p/a6bb1d3f4604) |
-| Tue, 13 Jan 2026 06:38:13 GMT | Preparing a New Security Standard for the Quantum Computing Era | SAYCOIN | [Read More](https://medium.com/p/838c3eaa99fa) |
-| Tue, 13 Jan 2026 06:32:47 GMT | Bulutta Güvenlik Kimin Sorumluluğu? | Hakan Ozdem | [Read More](https://medium.com/p/0dd07025c903) |
-| Tue, 13 Jan 2026 06:29:54 GMT | CYBER SECURITY. | Chauhanreena | [Read More](https://medium.com/p/7abf3e5cd980) |
-| Tue, 13 Jan 2026 06:27:19 GMT | What Is CompTIA PenTest+ and Why Is It a Smart Cybersecurity Career Move? | Nyra | [Read More](https://medium.com/p/7ce838c0de6e) |
-| Tue, 13 Jan 2026 06:26:55 GMT | I Followed a DNS Query and Ended Up Somewhere I Didn’t Expect | Fateyaly | [Read More](https://medium.com/p/915d16a644e3) |
-| Tue, 13 Jan 2026 06:21:21 GMT | When a Checkout Page Leaks Your Session | Monika sharma | [Read More](https://medium.com/p/f08885668ae7) |
-| Tue, 13 Jan 2026 06:14:29 GMT | How to Hack | Red | [Read More](https://medium.com/p/f5bfdbafe938) |
-| Tue, 13 Jan 2026 06:02:05 GMT | Exploiting Common Web Vulnerabilities (Part 1) | N0H4TS | [Read More](https://medium.com/p/d978806d2193) |
-| Tue, 13 Jan 2026 06:00:08 GMT | Secure Home Networking: Basic Steps Every Family Should Follow | Ask IT Support | [Read More](https://medium.com/p/61631ef23d53) |
-| Tue, 13 Jan 2026 05:56:23 GMT | Data Security in 2026: Protecting Your Business in a Digital World | DataGators Scraping Enterprise | [Read More](https://medium.com/p/28bb0cdf0416) |
-| Tue, 13 Jan 2026 05:43:47 GMT | Top 10 Vector Databases | CuriousDev | [Read More](https://medium.com/p/d3240d3fd316) |
-| Tue, 13 Jan 2026 05:42:43 GMT | Will AI Agents Kill the Checkout Button? - The Daily Tech Digest: 13 January 2026 | Souren Stepanyan | [Read More](https://medium.com/p/690df98faaa5) |
