@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 Jan 2026 12:44:54 GMT | Part 1: Spring Security Setup in Spring Boot MVC with Thymeleaf | Manuel Hernandez Zemljic | [Read More](https://medium.com/p/06629d41962b) |
+| Tue, 13 Jan 2026 12:30:02 GMT | Hardware Hacking A Scrap Hikvision 4‑port Po E Switch (DS-3E0105P-E) | Aaronjjose | [Read More](https://medium.com/p/d59200e5a08d) |
+| Tue, 13 Jan 2026 12:16:06 GMT | TryHackMe Phishing Unfolding: Detecting Base64 and DNS Exfiltration with Splunk | Elmin Farzaliyev | [Read More](https://medium.com/p/15aa351e842b) |
+| Tue, 13 Jan 2026 11:57:45 GMT | Bug Report Nasıl Yazılır? (Geliştiricilerin İşini Kolaylaştıran Rehber) | Vidius Project | [Read More](https://medium.com/p/1fc517870ae2) |
+| Tue, 13 Jan 2026 11:53:22 GMT | AI in Cybersecurity: Applications, Benefits, Tools, and Trends | Simplilearn | [Read More](https://medium.com/p/f6229159d561) |
+| Tue, 13 Jan 2026 11:46:16 GMT | How One Test Led Me to a Critical P1 Account Takeover (ATO) Bug on Bugcrowd | Rajankumarbarik | [Read More](https://medium.com/p/831370edc8e9) |
+| Tue, 13 Jan 2026 11:44:39 GMT | My Journey into Technology and Cybersecurity | Maryjudith Chidinma Ogunaka | [Read More](https://medium.com/p/be216437f065) |
+| Tue, 13 Jan 2026 11:43:03 GMT | No Pressure. The Two Words That Can Cost You Everything | Danny Wsol | [Read More](https://medium.com/p/ad8472af2066) |
+| Tue, 13 Jan 2026 11:41:33 GMT | Private Equity 2026 Playbook: Buy MSPs, Build Platforms | Thomas Patterson | [Read More](https://medium.com/p/a69fe973182b) |
+| Tue, 13 Jan 2026 11:40:01 GMT | The AI Agent Security Crisis of 2026: Your Enterprise Is Already Exposed (And the 3 Companies… | Travel4Fun4U | [Read More](https://medium.com/p/f7a7fe31eb8c) |
 | Tue, 13 Jan 2026 11:31:35 GMT | From $6.46B to $13.8B: Communication Interface Market’s 10% CAGR Surge | Sam Karan | [Read More](https://medium.com/p/f86ad8476a3b) |
 | Tue, 13 Jan 2026 11:29:20 GMT | VulnNet: Active Writeup (TryHackMe Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/2be425ed12a0) |
 | Tue, 13 Jan 2026 11:12:09 GMT | Designing APIs for Large-Scale IoT Systems | Nimesh Nagar | [Read More](https://medium.com/p/12bf65d804d3) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 Jan 2026 05:56:23 GMT | Data Security in 2026: Protecting Your Business in a Digital World | DataGators Scraping Enterprise | [Read More](https://medium.com/p/28bb0cdf0416) |
 | Tue, 13 Jan 2026 05:43:47 GMT | Top 10 Vector Databases | CuriousDev | [Read More](https://medium.com/p/d3240d3fd316) |
 | Tue, 13 Jan 2026 05:42:43 GMT | Will AI Agents Kill the Checkout Button? - The Daily Tech Digest: 13 January 2026 | Souren Stepanyan | [Read More](https://medium.com/p/690df98faaa5) |
-| Tue, 13 Jan 2026 05:40:53 GMT | Web Application Firewall (WAF): What, Why, When and Which? | Sajidur Rahman | [Read More](https://medium.com/p/1a88e8e85e76) |
-| Tue, 13 Jan 2026 05:40:02 GMT | The Illusion of Control: Why We Think Our Data Is Safe When It Isn’t | Hritam Dutta | [Read More](https://medium.com/p/07fbdbcd3de4) |
-| Tue, 13 Jan 2026 05:35:27 GMT | Active Directory Hardening — Writeup | Mahir | [Read More](https://medium.com/p/ff607d74ca1c) |
-| Tue, 13 Jan 2026 05:35:20 GMT | Cyber Security Certification Cost in India: A Complete Guide 2026 | ISIT Consultants Pvt  Ltd | [Read More](https://medium.com/p/5db653c435bf) |
-| Tue, 13 Jan 2026 05:35:10 GMT | From KYC to KYA (Know Your Agent): Securing Agent Identity through Geography and Time | Satelite | [Read More](https://medium.com/p/8e8ee7d1bde7) |
-| Tue, 13 Jan 2026 05:32:40 GMT | ⚠ Redis Batch Deadlock — A Hidden Async Bug | Abul Hasnat Mahraz | [Read More](https://medium.com/p/61b92a2c9a88) |
-| Tue, 13 Jan 2026 05:32:15 GMT | I Googled My Own Name and Found My ChatGPT History. | Tanvir Al Mahmud | [Read More](https://medium.com/p/2356cba7a2a7) |
-| Tue, 13 Jan 2026 05:27:13 GMT | Computing with Cloud | Jatin  yadav | [Read More](https://medium.com/p/b8fcf7534ed3) |
-| Tue, 13 Jan 2026 05:25:41 GMT | Introducing ALS — A new Security Protocol for MCP | Shawn K. Reilly | [Read More](https://medium.com/p/d0c0dfe97ef5) |
-| Tue, 13 Jan 2026 05:13:40 GMT | Request Authenticity Checks in PHP That Don’t Use Tokens | Asian Digital Hub | [Read More](https://medium.com/p/71fc043905d7) |
