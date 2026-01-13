@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 Jan 2026 08:13:04 GMT | DORA in Control: Professional Overview | Viktor Davydych | [Read More](https://medium.com/p/0f5929a3a856) |
+| Tue, 13 Jan 2026 08:12:57 GMT | ATM Penetration Testing & Security Assessment -Free Course | Nothing Cyber [NC] | [Read More](https://medium.com/p/b0c15d4870dd) |
+| Tue, 13 Jan 2026 08:11:00 GMT | Cowork: Anthropic’s AI Revolution for Non-Coders | Motherlandlove | [Read More](https://medium.com/p/6860ef77b19d) |
+| Tue, 13 Jan 2026 08:06:09 GMT | When Security Broke Compliance: A Real AWS WAF Lesson from a Google Play Rejection | kranthi kiran | [Read More](https://medium.com/p/55c4cb71a706) |
+| Tue, 13 Jan 2026 08:06:07 GMT | Data Protection in Amazon S3 | Hina Atif | [Read More](https://medium.com/p/438ca9b7b7c3) |
+| Tue, 13 Jan 2026 08:05:53 GMT | API Recon Deep Dive: How to Discover Docs, Endpoints, and Hidden Parameters | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/0a7d12eced64) |
+| Tue, 13 Jan 2026 07:57:21 GMT | HTB — Meow - Very Easy - Linux | kingc06bra | [Read More](https://medium.com/p/d0a3a5736e28) |
+| Tue, 13 Jan 2026 07:56:30 GMT | Front-end Security: Common Mistakes, Real Risks, and How to Fix Them | Akshay S | [Read More](https://medium.com/p/0b946f5622a7) |
+| Tue, 13 Jan 2026 07:55:09 GMT | Why Cybersecurity Matters More Than Ever | SODST | [Read More](https://medium.com/p/bbcd02ac6c17) |
+| Tue, 13 Jan 2026 07:54:39 GMT | Top 10 Cybersecurity Certifications for Career Growth | Bluecodesecurity | [Read More](https://medium.com/p/a409a08f5129) |
+| Tue, 13 Jan 2026 07:53:15 GMT | DevSecOps Pipeline: Güvenlik Odaklı CI/CD Mimarisi | Dehaberkin | [Read More](https://medium.com/p/f0e4fd438b4d) |
+| Tue, 13 Jan 2026 07:52:07 GMT | Top Cybersecurity Best Practices for Businesses in 2026 | CyberAube Technologies | [Read More](https://medium.com/p/798d35da51b4) |
+| Tue, 13 Jan 2026 07:51:47 GMT | TryHackMe: K2 (The Summit) Writeup | cbev | [Read More](https://medium.com/p/9eac3ec6a438) |
+| Tue, 13 Jan 2026 07:50:34 GMT | Introducing RiskScan PRO v2.0.0 — Professional File Risk Assessment Tool | Mate Technologies | [Read More](https://medium.com/p/b5bafce33edb) |
+| Tue, 13 Jan 2026 07:46:47 GMT | Forging a JWT to Break Into the OopsSec Store Admin Panel | OopsSec Store | [Read More](https://medium.com/p/cf233d47f014) |
+| Tue, 13 Jan 2026 07:43:56 GMT | When To Upgrade Your IT Systems? | HostNOC | [Read More](https://medium.com/p/70dfa47dd809) |
+| Tue, 13 Jan 2026 07:40:56 GMT | Istio mTLS Explained: Securing Service-to-Service Traffic in Kubernetes | Trivikram V | [Read More](https://medium.com/p/c3d850dfd9b2) |
+| Tue, 13 Jan 2026 07:40:42 GMT | Protecting Privacy: A Beginner’s Guide to Anonymizing Data with Microsoft Presidio | Hitendri Bomble | [Read More](https://medium.com/p/aa0b66474e54) |
 | Tue, 13 Jan 2026 07:27:44 GMT | The Code We Can’t Secure: Why Cybersecurity Is About to Become the Hottest Career in Tech | JP Caparas | [Read More](https://medium.com/p/1f4f466d5c38) |
 | Tue, 13 Jan 2026 07:25:57 GMT | How Web Design Choices Affect Website Security | Akrutimainwork | [Read More](https://medium.com/p/f0843a951b92) |
 | Tue, 13 Jan 2026 07:24:59 GMT | Minecraft 1.20.41 APK | Bandisharecx | [Read More](https://medium.com/p/ecf177019565) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 Jan 2026 00:08:12 GMT | 2026. The year of IoT vs. National Security | Dan Berte | [Read More](https://medium.com/p/904f1bdff2e0) |
 | Tue, 13 Jan 2026 00:02:56 GMT | Masscan vs. Nmap: Guía de Escaneo de Puertos para Bug Bounty | JPablo13 | [Read More](https://medium.com/p/41701604d001) |
 | Tue, 13 Jan 2026 00:02:43 GMT | Anatomy of a Breach: From Public Web Server to Internal Data Exfiltration | 0xPmCr | [Read More](https://medium.com/p/2894aac6180d) |
-| Mon, 12 Jan 2026 23:56:37 GMT | Antarctic Infrastructure Security: Domestic Search and Access Standards | Dr Francesco Dergano | [Read More](https://medium.com/p/e3a5b3d63cea) |
-| Mon, 12 Jan 2026 23:56:35 GMT | Tryhackme “Lazy Admin” Writeup | sabR | [Read More](https://medium.com/p/4180346b0c2a) |
-| Mon, 12 Jan 2026 23:33:02 GMT | Cyber Risk in 2026: Why Security, Geopolitics and AI Are No Longer Separate Problems | Cyber-AppSec | [Read More](https://medium.com/p/3739f2eae94d) |
-| Mon, 12 Jan 2026 23:27:31 GMT | The Development, Applications, and Future of AI Music | WANG HAO | [Read More](https://medium.com/p/2127ca9a12bd) |
-| Mon, 12 Jan 2026 23:22:46 GMT | Chaining Vulnerabilities | Tony | [Read More](https://medium.com/p/5e999c8b32de) |
-| Mon, 12 Jan 2026 23:14:00 GMT | Why Cybersecurity Is Everyone’s Problem, Not Just IT? | It's Alghifari | [Read More](https://medium.com/p/fe690ba1e5d8) |
-| Mon, 12 Jan 2026 23:02:53 GMT | Reminder: Your Medium Folder Names Are Visible to Authors | Berend Watchus | [Read More](https://medium.com/p/6d335ade9f7b) |
-| Mon, 12 Jan 2026 22:50:55 GMT | When Trust Becomes the Attack Vector: Understanding Supply Chain Attacks in AppSec | Mansi Mahamuni | [Read More](https://medium.com/p/87f0f2c44bb3) |
-| Mon, 12 Jan 2026 22:48:50 GMT | Cybersecurity in 2026: A Three-Front War (AI, Geopolitics, Fraud) | Denny Roger | [Read More](https://medium.com/p/69834f2f520c) |
-| Mon, 12 Jan 2026 22:44:40 GMT | Your Instagram Data May Already Be for Sale…! | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/e3c52cd4e1f7) |
-| Mon, 12 Jan 2026 22:34:04 GMT | Fellow.ai Is SOC 2, HIPAA, GDPR, and CCPA Compliant: Here’s What That Means for You | Manuela Bárcenas | [Read More](https://medium.com/p/36b352da504a) |
-| Mon, 12 Jan 2026 22:17:22 GMT | Dig Dug TryHackMe Write UP | cat0x01 | [Read More](https://medium.com/p/0d8ee652c775) |
-| Mon, 12 Jan 2026 22:09:28 GMT | The C4 Model for Data Architects, with Databricks and Unity Catalog — The Operating Model | Dominic K | [Read More](https://medium.com/p/a05f1d19f7c7) |
-| Mon, 12 Jan 2026 21:47:16 GMT | The 2026 Production Checklist: 5 Things Your Next.js VPS Deployment is Missing | Florid Maclean | [Read More](https://medium.com/p/f31e87be885c) |
-| Mon, 12 Jan 2026 21:45:42 GMT | Network Security: A Practical, Expert Guide to Protecting Modern Digital Infrastructure | Arbsbuy LLC | [Read More](https://medium.com/p/b597f9a0e2a1) |
-| Mon, 12 Jan 2026 21:41:56 GMT | Threat Modeling: The Most Underrated Skill in Cybersecurity | DevTutorials | [Read More](https://medium.com/p/68df9f96f8d4) |
-| Mon, 12 Jan 2026 21:37:07 GMT | Ni8mare (CVE-2026–21858) | IndigoINT | [Read More](https://medium.com/p/2c667e4a4fa4) |
-| Mon, 12 Jan 2026 21:19:39 GMT | 0day-CTF | guyvolvo | [Read More](https://medium.com/p/898eb2d3478d) |
