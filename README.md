@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 Jan 2026 11:31:35 GMT | From $6.46B to $13.8B: Communication Interface Market’s 10% CAGR Surge | Sam Karan | [Read More](https://medium.com/p/f86ad8476a3b) |
+| Tue, 13 Jan 2026 11:29:20 GMT | VulnNet: Active Writeup (TryHackMe Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/2be425ed12a0) |
 | Tue, 13 Jan 2026 11:12:09 GMT | Designing APIs for Large-Scale IoT Systems | Nimesh Nagar | [Read More](https://medium.com/p/12bf65d804d3) |
+| Tue, 13 Jan 2026 11:05:21 GMT | Siber Güvenlik: Dijital Dünyada Güvende Kalmak Mümkün mü? | HSD Osmaniye Korkut Ata Üniversitesi | [Read More](https://medium.com/p/e8eb174f4581) |
 | Tue, 13 Jan 2026 10:43:45 GMT | Security บทที่ 1 | Pruek Tanvorakul | [Read More](https://medium.com/p/54caa6e3248e) |
 | Tue, 13 Jan 2026 10:42:15 GMT | Unmasking Critical RCE Flaws in the World’s Most Popular Orchestrator | Niyati Daftary | [Read More](https://medium.com/p/b91e828974c6) |
 | Tue, 13 Jan 2026 10:40:15 GMT | Unmasking a LinkedIn Job Scam: A Cybersecurity Job Seeker’s Investigation | LearnWithMe | [Read More](https://medium.com/p/8b0b6e3c16ee) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 Jan 2026 05:27:13 GMT | Computing with Cloud | Jatin  yadav | [Read More](https://medium.com/p/b8fcf7534ed3) |
 | Tue, 13 Jan 2026 05:25:41 GMT | Introducing ALS — A new Security Protocol for MCP | Shawn K. Reilly | [Read More](https://medium.com/p/d0c0dfe97ef5) |
 | Tue, 13 Jan 2026 05:13:40 GMT | Request Authenticity Checks in PHP That Don’t Use Tokens | Asian Digital Hub | [Read More](https://medium.com/p/71fc043905d7) |
-| Tue, 13 Jan 2026 05:13:31 GMT | Enterprise IT Modernization: Cloud Transformation, Data Protection, and Cyber-Resilient Operations | F9 Infotech | [Read More](https://medium.com/p/4ecb4dd8d2d4) |
-| Tue, 13 Jan 2026 05:12:03 GMT | The Zero-Trust Gap: Why Identity Is Not Governance in Agentic AI | Vuyyuru Kiran | [Read More](https://medium.com/p/2d408a33c45a) |
-| Tue, 13 Jan 2026 05:04:56 GMT | Remote Code Execution (RCE) Zafiyeti | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/5463e687a27f) |
