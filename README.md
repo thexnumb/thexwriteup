@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 Jan 2026 14:19:09 GMT | CIA TRIAD: Siber Güvenliğin Üç Temel İlkesi | dilan alpaltun | [Read More](https://medium.com/p/ee309ea22e2a) |
+| Tue, 13 Jan 2026 14:17:45 GMT | How to Use Role-Based Access Control (RBAC) on Servers | Smit Pipaliya | [Read More](https://medium.com/p/5a8abd2ec7a8) |
+| Tue, 13 Jan 2026 14:16:04 GMT | DNS Resolution Process: Step-by-Step from Client to Authoritative DNS | Barbaros Küçükpınar | [Read More](https://medium.com/p/6fd6e644a4d4) |
+| Tue, 13 Jan 2026 14:14:53 GMT | Why Attack Paths Matter More Than Vulnerabilities | Gary S Mullen | [Read More](https://medium.com/p/63b6cb984ccc) |
+| Tue, 13 Jan 2026 14:05:33 GMT | FROM student TO ADMIN HAVE FULL CONTROL UNIVERSITY WEBSITE | PX1 | [Read More](https://medium.com/p/a366d2b168b7) |
+| Tue, 13 Jan 2026 14:03:52 GMT | A Realistic Walkthrough of a Ransomware Attack | Digital Defense | [Read More](https://medium.com/p/507466a5d821) |
+| Tue, 13 Jan 2026 13:55:42 GMT | CVE Hunting via Github Dorking | Abhirup Konwar | [Read More](https://medium.com/p/f94c187f3ee7) |
+| Tue, 13 Jan 2026 13:52:07 GMT | P4X: The Greatest Hacker in History? A One-Man Cyberwar That Shut Down a Nation’s Internet | Aqilnazim | [Read More](https://medium.com/p/ea518782fb51) |
+| Tue, 13 Jan 2026 13:51:30 GMT | The Most Dangerous Phishing Tool EVER Created: Spiderman | Aqilnazim | [Read More](https://medium.com/p/e900c23f560c) |
+| Tue, 13 Jan 2026 13:50:56 GMT | 幽靈買手與信任崩塌：Google 通用商務協議 (UCP) 下的台灣資安風暴深度報告 | p1x06u9 | [Read More](https://medium.com/p/0b59aec0da31) |
+| Tue, 13 Jan 2026 13:49:32 GMT | The Calm Before the Storm | VIGNESH | [Read More](https://medium.com/p/28708010072d) |
+| Tue, 13 Jan 2026 13:45:50 GMT | What’s Happening in Iran? | Costin Raiu | [Read More](https://medium.com/p/93cc103863ab) |
 | Tue, 13 Jan 2026 13:41:20 GMT | SISTEM INFORMASI | Adhitya Wisnu Priambadha | [Read More](https://medium.com/p/7e5eb814b9ff) |
 | Tue, 13 Jan 2026 13:39:26 GMT | The Perpetuity in Yearning for Softness: For every little girl that never got to feel held | An Opinionated Brown Girl | [Read More](https://medium.com/p/29a1608e2999) |
 | Tue, 13 Jan 2026 13:37:13 GMT | If You’re Building a Cybersecurity Career Like It’s 2019, You’re Already Behind. | Taimur Ijlal | [Read More](https://medium.com/p/26006495cec8) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 Jan 2026 08:05:53 GMT | API Recon Deep Dive: How to Discover Docs, Endpoints, and Hidden Parameters | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/0a7d12eced64) |
 | Tue, 13 Jan 2026 07:57:21 GMT | HTB — Meow - Very Easy - Linux | kingc06bra | [Read More](https://medium.com/p/d0a3a5736e28) |
 | Tue, 13 Jan 2026 07:56:30 GMT | Front-end Security: Common Mistakes, Real Risks, and How to Fix Them | Akshay S | [Read More](https://medium.com/p/0b946f5622a7) |
-| Tue, 13 Jan 2026 07:55:09 GMT | Why Cybersecurity Matters More Than Ever | SODST | [Read More](https://medium.com/p/bbcd02ac6c17) |
-| Tue, 13 Jan 2026 07:54:39 GMT | Top 10 Cybersecurity Certifications for Career Growth | Bluecodesecurity | [Read More](https://medium.com/p/a409a08f5129) |
-| Tue, 13 Jan 2026 07:53:15 GMT | DevSecOps Pipeline: Güvenlik Odaklı CI/CD Mimarisi | Dehaberkin | [Read More](https://medium.com/p/f0e4fd438b4d) |
-| Tue, 13 Jan 2026 07:52:07 GMT | Top Cybersecurity Best Practices for Businesses in 2026 | CyberAube Technologies | [Read More](https://medium.com/p/798d35da51b4) |
-| Tue, 13 Jan 2026 07:51:47 GMT | TryHackMe: K2 (The Summit) Writeup | cbev | [Read More](https://medium.com/p/9eac3ec6a438) |
-| Tue, 13 Jan 2026 07:50:34 GMT | Introducing RiskScan PRO v2.0.0 — Professional File Risk Assessment Tool | Mate Technologies | [Read More](https://medium.com/p/b5bafce33edb) |
-| Tue, 13 Jan 2026 07:46:47 GMT | Forging a JWT to Break Into the OopsSec Store Admin Panel | OopsSec Store | [Read More](https://medium.com/p/cf233d47f014) |
-| Tue, 13 Jan 2026 07:43:56 GMT | When To Upgrade Your IT Systems? | HostNOC | [Read More](https://medium.com/p/70dfa47dd809) |
-| Tue, 13 Jan 2026 07:40:56 GMT | Istio mTLS Explained: Securing Service-to-Service Traffic in Kubernetes | Trivikram V | [Read More](https://medium.com/p/c3d850dfd9b2) |
-| Tue, 13 Jan 2026 07:40:42 GMT | Protecting Privacy: A Beginner’s Guide to Anonymizing Data with Microsoft Presidio | Hitendri Bomble | [Read More](https://medium.com/p/aa0b66474e54) |
-| Tue, 13 Jan 2026 07:27:44 GMT | The Code We Can’t Secure: Why Cybersecurity Is About to Become the Hottest Career in Tech | JP Caparas | [Read More](https://medium.com/p/1f4f466d5c38) |
-| Tue, 13 Jan 2026 07:25:57 GMT | How Web Design Choices Affect Website Security | Akrutimainwork | [Read More](https://medium.com/p/f0843a951b92) |
