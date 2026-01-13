@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 Jan 2026 16:24:48 GMT | Testing PSPDFKit License Validity via Client-Side PoC | WHO AM I ? | [Read More](https://medium.com/p/a5b7e53026c9) |
+| Tue, 13 Jan 2026 16:24:20 GMT | Secure Client-Side Storage: AES-256 Encrypted Cookies with HMAC Tamper Detection | Aryak Lahane | [Read More](https://medium.com/p/bcf7579c5961) |
+| Tue, 13 Jan 2026 16:18:39 GMT | Bypassing XSS Protection: Thinking Beyond <script>‍ | ab.infosec | [Read More](https://medium.com/p/775ff6e5ef62) |
+| Tue, 13 Jan 2026 16:16:02 GMT | Skip the Swift & Kotlin Drama: Build Native‑Feeling Mobile Apps with JavaScript | Jitin Kayyala | [Read More](https://medium.com/p/3ccdff42f187) |
+| Tue, 13 Jan 2026 16:14:16 GMT | TryHackMe, What is Networking? | Asjamil | [Read More](https://medium.com/p/fbc466dfe67a) |
+| Tue, 13 Jan 2026 16:02:59 GMT | How AI Voice Cloning Works When All It Gets Is 3 Seconds | MayhemCode | [Read More](https://medium.com/p/f054f82213b0) |
+| Tue, 13 Jan 2026 16:02:25 GMT | SOC167 — LS Command Detected in Requested URL | Wrench | [Read More](https://medium.com/p/0bb44637f073) |
+| Tue, 13 Jan 2026 16:02:04 GMT | PUPPY.HTB — Active Directory | JY00X3 | [Read More](https://medium.com/p/83a21daf86f1) |
+| Tue, 13 Jan 2026 15:50:08 GMT | Secure Password Reset: Tokens, Expiry, and System Design Best Practices | Visakh Vijayan | [Read More](https://medium.com/p/337c6161af5a) |
+| Tue, 13 Jan 2026 15:46:47 GMT | Deepfake BEC & Payment Diversion: The Q1 2026 Fraud PIR You Can’t Defer | Wes Young | [Read More](https://medium.com/p/1534d05e1a7c) |
+| Tue, 13 Jan 2026 15:44:19 GMT | Digital Danger: How Cyber Crime is Advancing in 2026 — Threats, Tactics & Real-World Impact | Himanshu Bhatt | [Read More](https://medium.com/p/8f43839e4430) |
+| Tue, 13 Jan 2026 15:43:17 GMT | How to Hack WhatsApp: What’s Actually Possible, What’s Not, and What You Should Know | Rebecca Smith | [Read More](https://medium.com/p/1b8e603984d2) |
 | Tue, 13 Jan 2026 15:35:52 GMT | 7 Shockingly Simple AI Automations That Saved Me 20+ Hours a Week | Mahad Nadeem | [Read More](https://medium.com/p/6fb1c8b18b57) |
 | Tue, 13 Jan 2026 15:34:40 GMT | The Rising Security Challenges of Microservices in the Cloud | Emmanuel Olu-Ajayi | [Read More](https://medium.com/p/d04805186a79) |
 | Tue, 13 Jan 2026 15:34:02 GMT | “Bug Bounty Bootcamp #15: Beyond <script>alert(1)</script>—Mastering Diverse XSS Execution Vectors” | Aman Sharma | [Read More](https://medium.com/p/d4d133972725) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 Jan 2026 10:05:54 GMT | AI and the Death of Search: What Happens When We Stop Googling? | SensEI | [Read More](https://medium.com/p/c378a9ab902d) |
 | Tue, 13 Jan 2026 10:04:32 GMT | Why Your Legitimate Emails Are Landing in Spam (And How to Fix It in Seconds) | Everywebtool | [Read More](https://medium.com/p/a411854bbc53) |
 | Tue, 13 Jan 2026 10:03:09 GMT | Bug Bounty Report Template: How I Document Credential Leaks for P1 Submissions | Alexandre Vandamme | [Read More](https://medium.com/p/60a9226649cd) |
-| Tue, 13 Jan 2026 09:59:44 GMT | سنگین مقدمات میں مطلوب دو اشتہاری ملزمان عمان سے گرفتار، اسلام آباد منتقل | Malik Sarfraz Hussain Awan | [Read More](https://medium.com/p/96f5e07e6096) |
-| Tue, 13 Jan 2026 09:55:43 GMT | The Pink Ranger Who Deleted Hate: The First Real Case Study of AI Hacktivism | Kuldeepsinh Jadeja | [Read More](https://medium.com/p/870b27fb3dac) |
-| Tue, 13 Jan 2026 09:54:08 GMT | What is a Web Cache Deception? | Gohar Ghukasyan | [Read More](https://medium.com/p/101cb24f7a39) |
-| Tue, 13 Jan 2026 09:51:59 GMT | Last Day On Earth Mod Apk | Game4u | [Read More](https://medium.com/p/84d99f043ce3) |
-| Tue, 13 Jan 2026 09:45:31 GMT | Daily PortSwigger Academy Lab Walkthrough: SQLi & CSS | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/8da9838ac46e) |
-| Tue, 13 Jan 2026 09:34:34 GMT | Smart Benefits of Live Remote Video Monitoring Services for Protection | Reliable Security Staffing | [Read More](https://medium.com/p/3c9f2dedbad9) |
-| Tue, 13 Jan 2026 09:34:27 GMT | Hack Dragon City | genzvnmod | [Read More](https://medium.com/p/382a4f4b227d) |
-| Tue, 13 Jan 2026 09:31:41 GMT | How will this cybersecurity course benefit me in the long term | tedorahackeracademy | [Read More](https://medium.com/p/3df16b01a13c) |
-| Tue, 13 Jan 2026 09:25:12 GMT | What are the top use cases of Generative AI that GCCs in India are scaling across functions like… | Sansovi GCC | [Read More](https://medium.com/p/33bd3a1ecf07) |
-| Tue, 13 Jan 2026 09:24:52 GMT | Cavemen Used Facial Recognition | IREX Ethical AI | [Read More](https://medium.com/p/797af7f1a45b) |
-| Tue, 13 Jan 2026 09:23:00 GMT | Who’s Watching While You Type? | Redfox Security | [Read More](https://medium.com/p/e423d6eadafe) |
-| Tue, 13 Jan 2026 09:22:08 GMT | The “Inspector Gadget” Hack: How I Bypassed Federal Authentication by Deleting a Popup | Zer0Figure | [Read More](https://medium.com/p/03dd897177fe) |
