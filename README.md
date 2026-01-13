@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 Jan 2026 05:42:43 GMT | Will AI Agents Kill the Checkout Button? - The Daily Tech Digest: 13 January 2026 | Souren Stepanyan | [Read More](https://medium.com/p/690df98faaa5) |
+| Tue, 13 Jan 2026 05:40:02 GMT | The Illusion of Control: Why We Think Our Data Is Safe When It Isn’t | Hritam Dutta | [Read More](https://medium.com/p/07fbdbcd3de4) |
+| Tue, 13 Jan 2026 05:35:27 GMT | Active Directory Hardening — Writeup | Mahir | [Read More](https://medium.com/p/ff607d74ca1c) |
+| Tue, 13 Jan 2026 05:35:20 GMT | Cyber Security Certification Cost in India: A Complete Guide 2026 | ISIT Consultants Pvt  Ltd | [Read More](https://medium.com/p/5db653c435bf) |
+| Tue, 13 Jan 2026 05:35:10 GMT | From KYC to KYA (Know Your Agent): Securing Agent Identity through Geography and Time | Satelite | [Read More](https://medium.com/p/8e8ee7d1bde7) |
+| Tue, 13 Jan 2026 05:32:40 GMT | ⚠ Redis Batch Deadlock — A Hidden Async Bug | Abul Hasnat Mahraz | [Read More](https://medium.com/p/61b92a2c9a88) |
+| Tue, 13 Jan 2026 05:32:15 GMT | I Googled My Own Name and Found My ChatGPT History. | Tanvir Al Mahmud | [Read More](https://medium.com/p/2356cba7a2a7) |
+| Tue, 13 Jan 2026 05:27:13 GMT | Computing with Cloud | Jatin  yadav | [Read More](https://medium.com/p/b8fcf7534ed3) |
 | Tue, 13 Jan 2026 05:25:41 GMT | Introducing ALS — A new Security Protocol for MCP | Shawn K. Reilly | [Read More](https://medium.com/p/d0c0dfe97ef5) |
 | Tue, 13 Jan 2026 05:13:40 GMT | Request Authenticity Checks in PHP That Don’t Use Tokens | Asian Digital Hub | [Read More](https://medium.com/p/71fc043905d7) |
 | Tue, 13 Jan 2026 05:13:31 GMT | Enterprise IT Modernization: Cloud Transformation, Data Protection, and Cyber-Resilient Operations | F9 Infotech | [Read More](https://medium.com/p/4ecb4dd8d2d4) |
@@ -106,11 +114,3 @@ Abstract… | J Colten | [Read More](https://medium.com/p/80f3d8bac769) |
 | Mon, 12 Jan 2026 19:18:17 GMT | Keep Your Devices Safe From Misleading System Optimizer Apps | Geoffrey Wenger | [Read More](https://medium.com/p/0403e64c3663) |
 | Mon, 12 Jan 2026 19:17:02 GMT | Hands-On Exploitation of CVE-2025–54918 | Yousof Nahya | [Read More](https://medium.com/p/cf376ebb40e1) |
 | Mon, 12 Jan 2026 19:17:01 GMT | The Fortress of DeFi: Why $VEC is Built to Last ️ | VelaCore | [Read More](https://medium.com/p/a4ff7b075849) |
-| Mon, 12 Jan 2026 19:16:47 GMT | Rivalry — Hackviser Real-World Scenario Walkthrough | Hussein 404 | [Read More](https://medium.com/p/276134f182eb) |
-| Mon, 12 Jan 2026 19:08:44 GMT | My Code Broke. This Simple Trick Saved Me | Imran Khan | [Read More](https://medium.com/p/c178c61c87f6) |
-| Mon, 12 Jan 2026 19:05:12 GMT | Hacker At Work:Recon Workflow Process | ghostyjoe | [Read More](https://medium.com/p/ad056880a271) |
-| Mon, 12 Jan 2026 19:03:17 GMT | Anti-Bot | Iram Jack | [Read More](https://medium.com/p/ab9a4fe8687d) |
-| Mon, 12 Jan 2026 19:01:13 GMT | Void — Hackviser Real-World Scenario Walkthrough | Hussein 404 | [Read More](https://medium.com/p/555d90edf623) |
-| Mon, 12 Jan 2026 18:56:21 GMT | Siber Güvenlik Laboratuvarı Notları: Teorik Temeller, Araçlar ve Metodolojiler | Arda | [Read More](https://medium.com/p/625169a1640c) |
-| Mon, 12 Jan 2026 18:56:10 GMT | Lab: Authentication bypass via encryption oracle | Songül Kızılay Özügürler | [Read More](https://medium.com/p/dcab43bb72b4) |
-| Mon, 12 Jan 2026 18:48:06 GMT | Default to Delete: How New Operating Systems Are Reversing 50 Years of Design | Kihara Kimachia | [Read More](https://medium.com/p/04aeaba8df7c) |
