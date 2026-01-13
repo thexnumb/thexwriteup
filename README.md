@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 Jan 2026 10:28:17 GMT | Total Security Solutions India: Advanced Electronic Security Solutions for Modern Protection | Ciss India | [Read More](https://medium.com/p/111e87ca744c) |
+| Tue, 13 Jan 2026 10:26:30 GMT | Zero Trust on AWS: Designing Workloads That Assume Breach (and Survive It) | Rupam Jha | [Read More](https://medium.com/p/0bbe136923da) |
 | Tue, 13 Jan 2026 10:18:21 GMT | Internet Safety for Teens | Zeeko | [Read More](https://medium.com/p/ba10749f6ee2) |
 | Tue, 13 Jan 2026 10:13:29 GMT | Artificial Intelligence: Complete AI Training for Beginners to Experts | Manisha Chaudhary | [Read More](https://medium.com/p/c84235ebb9c9) |
 | Tue, 13 Jan 2026 10:10:57 GMT | Extropy Security Bytes: w1 & w2, 2026 | Extropy.IO | [Read More](https://medium.com/p/0e5121069482) |
@@ -25,6 +27,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 Jan 2026 09:54:08 GMT | What is a Web Cache Deception? | Gohar Ghukasyan | [Read More](https://medium.com/p/101cb24f7a39) |
 | Tue, 13 Jan 2026 09:51:59 GMT | Last Day On Earth Mod Apk | Game4u | [Read More](https://medium.com/p/84d99f043ce3) |
 | Tue, 13 Jan 2026 09:45:31 GMT | Daily PortSwigger Academy Lab Walkthrough: SQLi & CSS | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/8da9838ac46e) |
+| Tue, 13 Jan 2026 09:34:34 GMT | Smart Benefits of Live Remote Video Monitoring Services for Protection | Reliable Security Staffing | [Read More](https://medium.com/p/3c9f2dedbad9) |
 | Tue, 13 Jan 2026 09:34:27 GMT | Hack Dragon City | genzvnmod | [Read More](https://medium.com/p/382a4f4b227d) |
 | Tue, 13 Jan 2026 09:31:41 GMT | How will this cybersecurity course benefit me in the long term | tedorahackeracademy | [Read More](https://medium.com/p/3df16b01a13c) |
 | Tue, 13 Jan 2026 09:25:12 GMT | What are the top use cases of Generative AI that GCCs in India are scaling across functions like… | Sansovi GCC | [Read More](https://medium.com/p/33bd3a1ecf07) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 Jan 2026 04:50:31 GMT | Building A SOC — AT — HOME (part 1) | Amalkhabbou | [Read More](https://medium.com/p/f736bf13db26) |
 | Tue, 13 Jan 2026 04:47:03 GMT | NiceNIC Exposed: The ICANN-Accredited Registrar Powering the World’s Cybercriminal Ecosystem | PhishDestroy | [Read More](https://medium.com/p/4e4996452e03) |
 | Tue, 13 Jan 2026 04:45:51 GMT | Cybersecurity Strategies for Remote Work Environments That Actually Work | Maxatlasofficial | [Read More](https://medium.com/p/80d5d66894f7) |
-| Tue, 13 Jan 2026 04:42:05 GMT | Japan Will Not Return to the Past– A Nation Standing at a Crossroads of Choice — | Toshi & Mina(AI) LAB | [Read More](https://medium.com/p/05a07f6062ff) |
-| Tue, 13 Jan 2026 04:37:30 GMT | How Do LLMs and AI Systems Become Vulnerable to Cyber Attacks? | Modern Security | [Read More](https://medium.com/p/ae84498a003e) |
-| Tue, 13 Jan 2026 04:36:22 GMT | Building a Practical AFIS(Automated Fingerprint Identification System) I: Pipeline | SpaceIO | [Read More](https://medium.com/p/22a2332fb8fe) |
