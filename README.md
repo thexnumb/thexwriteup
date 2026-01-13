@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 Jan 2026 01:47:11 GMT | Love Letters I Never Wrote | Deyanira Perdomo Cuéllar | [Read More](https://medium.com/p/6d29e291dc82) |
+| Tue, 13 Jan 2026 01:46:03 GMT | Hacker101 Micro-CMS v1 — CTF Walkthrough | Jeffrey Dikewonsi | [Read More](https://medium.com/p/1b0b6bf119f8) |
+| Tue, 13 Jan 2026 01:20:35 GMT | WSUS over HTTPS? Still Secure? Think Again… | Mohammed ElKhateb | [Read More](https://medium.com/p/b4e346b68467) |
+| Tue, 13 Jan 2026 00:40:35 GMT | Bypassing Two-Factor Authentication via Password Reset Functionality | WHO AM I ? | [Read More](https://medium.com/p/8ab02e8acdb4) |
+| Tue, 13 Jan 2026 00:38:35 GMT | How to Document a SQL Database (A Clear, Practical Guide) | Dennis Duke | [Read More](https://medium.com/p/46655d59d265) |
+| Tue, 13 Jan 2026 00:37:24 GMT | Menambah kolom UDF di SAP B1 | Hendra Maulana | [Read More](https://medium.com/p/a611b35d6198) |
+| Tue, 13 Jan 2026 00:34:56 GMT | Google’s New Android Update Locks Your Apps And Hides Your Messages | Moni | [Read More](https://medium.com/p/16c061e25078) |
+| Tue, 13 Jan 2026 00:30:25 GMT | The Two Sides of Vulnerability | FaithOverFears | [Read More](https://medium.com/p/858e046747ba) |
+| Tue, 13 Jan 2026 00:21:21 GMT | Stop Overpaying for Antivirus: 5 Free Tools That Work Better | Muneeb - Budget Tech Buddy | [Read More](https://medium.com/p/d4d49430af8f) |
+| Tue, 13 Jan 2026 00:15:23 GMT | IPV6'nın Potansiyel Tehlikesi | Eren | [Read More](https://medium.com/p/79077ade06c3) |
+| Tue, 13 Jan 2026 00:12:47 GMT | Breaking Trust at the Core: Kerberos Authentication Flow and Common Roasting Attacks | Eray Yavuz | [Read More](https://medium.com/p/bd4422630c58) |
+| Tue, 13 Jan 2026 00:08:12 GMT | 2026. The year of IoT vs. National Security | Dan Berte | [Read More](https://medium.com/p/904f1bdff2e0) |
+| Tue, 13 Jan 2026 00:02:56 GMT | Masscan vs. Nmap: Guía de Escaneo de Puertos para Bug Bounty | JPablo13 | [Read More](https://medium.com/p/41701604d001) |
+| Tue, 13 Jan 2026 00:02:43 GMT | Anatomy of a Breach: From Public Web Server to Internal Data Exfiltration | 0xPmCr | [Read More](https://medium.com/p/2894aac6180d) |
+| Mon, 12 Jan 2026 23:56:37 GMT | Antarctic Infrastructure Security: Domestic Search and Access Standards | Dr Francesco Dergano | [Read More](https://medium.com/p/e3a5b3d63cea) |
+| Mon, 12 Jan 2026 23:56:35 GMT | Tryhackme “Lazy Admin” Writeup | sabR | [Read More](https://medium.com/p/4180346b0c2a) |
+| Mon, 12 Jan 2026 23:33:02 GMT | Cyber Risk in 2026: Why Security, Geopolitics and AI Are No Longer Separate Problems | Cyber-AppSec | [Read More](https://medium.com/p/3739f2eae94d) |
 | Mon, 12 Jan 2026 23:27:31 GMT | The Development, Applications, and Future of AI Music | WANG HAO | [Read More](https://medium.com/p/2127ca9a12bd) |
 | Mon, 12 Jan 2026 23:22:46 GMT | Chaining Vulnerabilities | Tony | [Read More](https://medium.com/p/5e999c8b32de) |
 | Mon, 12 Jan 2026 23:14:00 GMT | Why Cybersecurity Is Everyone’s Problem, Not Just IT? | It's Alghifari | [Read More](https://medium.com/p/fe690ba1e5d8) |
@@ -98,20 +115,3 @@ Abstract… | J Colten | [Read More](https://medium.com/p/80f3d8bac769) |
 | Mon, 12 Jan 2026 17:05:45 GMT | “Bug Bounty Bootcamp #14: Your First XSS Find — A Step-by-Step Hunter’s Methodology” | Aman Sharma | [Read More](https://medium.com/p/097b4639bf46) |
 | Mon, 12 Jan 2026 17:05:00 GMT | How People Get Tricked Online (And Don’t Even Notice)
 Most people think cyber attacks happen only… | Samandar Qosimov | [Read More](https://medium.com/p/6f081d751e6b) |
-| Mon, 12 Jan 2026 17:03:35 GMT | My Experience with an Amazon Brushing Scam | Emory French | [Read More](https://medium.com/p/05ed10cb8adb) |
-| Mon, 12 Jan 2026 17:03:33 GMT | Web Application Security Testing: Ensuring Safe Digital Experiences | Practical Logix | [Read More](https://medium.com/p/f33bd2b2a4c5) |
-| Mon, 12 Jan 2026 17:03:24 GMT | Anatomy of a Cyber Attack: From First Click to Full Breach | Digital Defense | [Read More](https://medium.com/p/6c06b6d140c9) |
-| Mon, 12 Jan 2026 16:55:18 GMT | Try Hack Me- ColddBox CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/5ba4a924935a) |
-| Mon, 12 Jan 2026 16:52:28 GMT | What Happens If a Quantum Computer Cracks Blockchain Encryption? | Bobby Andrews | [Read More](https://medium.com/p/9382c4686337) |
-| Mon, 12 Jan 2026 16:51:36 GMT | “Beautiful Confusion” became the, Boundless Claim. | Sneha Bhoine | [Read More](https://medium.com/p/f61b5793fa6e) |
-| Mon, 12 Jan 2026 16:50:28 GMT | What’s Next for the Cloud? 10 Key Trends Shaping Business Strategy in 2026 | Paradise technologies Inc | [Read More](https://medium.com/p/e546884d1686) |
-| Mon, 12 Jan 2026 16:45:48 GMT | Using Programmatic Access in Snowflake | Jon Roberts | [Read More](https://medium.com/p/4bf03e876847) |
-| Mon, 12 Jan 2026 16:45:07 GMT | The Wrench | Banhisekha | [Read More](https://medium.com/p/4c850735fdcb) |
-| Mon, 12 Jan 2026 16:43:12 GMT | Cybersecurity SaaS: Why AI-Driven Threat Detection Is Becoming Non-Negotiable | CodeByUmar | [Read More](https://medium.com/p/fb62d5e65837) |
-| Mon, 12 Jan 2026 16:42:47 GMT | #16- Kali Linux — Services and Other Tools: The Glue of a Kali Environment | SDNTechForum | [Read More](https://medium.com/p/b7c63f47e537) |
-| Mon, 12 Jan 2026 16:42:16 GMT | The Importance of Penetration Testing: Protecting Your Business from Cyber Threats in Canada | Plutosec Cyber Security | [Read More](https://medium.com/p/2c417b2c3e22) |
-| Mon, 12 Jan 2026 16:40:24 GMT | BreachForums Gets Breached. Again. | Sudarshan | [Read More](https://medium.com/p/80fc53d762e9) |
-| Mon, 12 Jan 2026 16:39:29 GMT | A Practical Look at File Password Cracking Using John | Janmejaysinh ThinkLab | [Read More](https://medium.com/p/60a34ce5ca98) |
-| Mon, 12 Jan 2026 16:38:50 GMT | The Ephialtes Edge: Why Thermopylae Proves Your Firewall Will Fail | Levente Simon | [Read More](https://medium.com/p/cdbfe819b423) |
-| Mon, 12 Jan 2026 16:34:22 GMT | ️Offensive vs Defensive Security: Основи та Ролі | Erina Elder | [Read More](https://medium.com/p/2c4bdf16193e) |
-| Mon, 12 Jan 2026 16:32:43 GMT | Cybersecurity Skills That Will Be Mandatory in 2026 | 4Achievers | [Read More](https://medium.com/p/ed3b74b7a3f8) |
