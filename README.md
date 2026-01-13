@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 Jan 2026 15:24:58 GMT | The Client-side Is Not a Boundary | Adebayo | [Read More](https://medium.com/p/cdac4653460e) |
+| Tue, 13 Jan 2026 15:24:36 GMT | API Gateway Design Patterns: The Bouncer That Keeps Your System Sane | Jitin Kayyala | [Read More](https://medium.com/p/98b20cad9f0b) |
+| Tue, 13 Jan 2026 15:21:42 GMT | NEW YEAR CTF: WRITEUP CHALLENGE1 CRYPTO ) | marlithor_cyber | [Read More](https://medium.com/p/6e3b9ee2c235) |
+| Tue, 13 Jan 2026 15:19:41 GMT | How I Supercharged Wazuh SIEM with AI Using Claude Desktop (MCP Integration) | MOAMEN REZK | [Read More](https://medium.com/p/70a973488477) |
+| Tue, 13 Jan 2026 15:16:47 GMT | Confidently Wrong in Subtle Ways | Roger Gale | [Read More](https://medium.com/p/f755fa725723) |
+| Tue, 13 Jan 2026 15:16:38 GMT | The Growing Risk of Ransomware-as-a-Service (RaaS): Why It’s a National Security Issue | Suman Panta | [Read More](https://medium.com/p/e71b44fbb1c3) |
+| Tue, 13 Jan 2026 15:07:07 GMT | hkjljk | Dotafap@King | [Read More](https://medium.com/p/245f500504d2) |
+| Tue, 13 Jan 2026 15:07:04 GMT | RITA in the Real World: Installing It on Windows Without Losing Your Sanity | Pablo Echeverria | [Read More](https://medium.com/p/8e4e508d2aee) |
+| Tue, 13 Jan 2026 15:02:58 GMT | Cyber Briefing: 2026.01.13 | CyberMaterial | [Read More](https://medium.com/p/5e829aabf9a4) |
+| Tue, 13 Jan 2026 15:02:24 GMT | I Clicked the Link. 47 Seconds Later, Hackers Were In My Account. | Deepak Sharma | [Read More](https://medium.com/p/9a537cc00292) |
+| Tue, 13 Jan 2026 14:54:45 GMT | Why Digital Password Security Matters More Than Ever | Berk Behcet Gerek | [Read More](https://medium.com/p/2729d5672579) |
+| Tue, 13 Jan 2026 14:54:25 GMT | Cyber Security Foundation Series — Computer Networking Part -02 OSI and TCP/IP model | Kamal Kishor Mahto | [Read More](https://medium.com/p/7ddcca28869a) |
+| Tue, 13 Jan 2026 14:47:05 GMT | Building a Cybersecurity Lab in AWS Part 2: Networking and Firewall | Charles Christiansen | [Read More](https://medium.com/p/f550c457f45c) |
 | Tue, 13 Jan 2026 14:44:22 GMT | In an era where cyber threats are evolving at the speed of AI, the "digital fence" of yesterday is… | Roshankappala | [Read More](https://medium.com/p/c59b8d455dee) |
 | Tue, 13 Jan 2026 14:43:01 GMT | Common Node.js Security Vulnerabilities & Prevention Strategies | Manish Prasad | [Read More](https://medium.com/p/52a41ade7a0b) |
 | Tue, 13 Jan 2026 14:42:10 GMT | What It Feels Like to Be Real Around the Wrong People | Oany | [Read More](https://medium.com/p/80dd61aea078) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 Jan 2026 09:22:01 GMT | The Day AI Defeated Google (As Its Own Owner) | AI 404 | [Read More](https://medium.com/p/2fc1372cd2cc) |
 | Tue, 13 Jan 2026 09:21:27 GMT | Addressing Challenges and Risks in eKYC Implementations | Digichorus Technologies Pvt. LTD. | [Read More](https://medium.com/p/10468419bdc3) |
 | Tue, 13 Jan 2026 09:20:53 GMT | TryHackMe: Jurassic Park Writeup | cbev | [Read More](https://medium.com/p/37e32b13bcc8) |
-| Tue, 13 Jan 2026 09:07:34 GMT | Cryptography Testing Dengan OXTRACE v5.0 | Ginda Sundara | [Read More](https://medium.com/p/b1f974dc47a0) |
-| Tue, 13 Jan 2026 09:02:08 GMT | Veriden Savunmaya: Siber Tehdit İstihbaratının Stratejik Rolü | Ziya Gokalp | [Read More](https://medium.com/p/66eef30c7a2f) |
-| Tue, 13 Jan 2026 09:01:55 GMT | Best CCTV System in UAE for Smart & Reliable Security | techfra solutions | [Read More](https://medium.com/p/8bfce73d0890) |
-| Tue, 13 Jan 2026 08:58:17 GMT | 數萬美金的學費：只是「打開資料夾」，資深開發者為何瞬間破防？ | p1x06u9 | [Read More](https://medium.com/p/ca18bbbe197d) |
-| Tue, 13 Jan 2026 08:50:27 GMT | Why SOC Sovereignty Is No Longer Optional — Global and INDIA perspective | Ashok Sharma | [Read More](https://medium.com/p/48f87e8f129c) |
-| Tue, 13 Jan 2026 08:48:42 GMT | Instagram says there’s been “no breach” despite password reset requests | Bintu's Art and Everything | [Read More](https://medium.com/p/b9215e0eb979) |
-| Tue, 13 Jan 2026 08:48:14 GMT | Antivirus for WindowsWhat SiyanoAV Delivers in 2026 Through Antivirus for Windows | Siyanoav | [Read More](https://medium.com/p/2c2e48f8e4cd) |
-| Tue, 13 Jan 2026 08:42:36 GMT | Architecture Decides the Blast Radius | Jurgen Allewijn | [Read More](https://medium.com/p/1b7259ddc3a7) |
-| Tue, 13 Jan 2026 08:40:05 GMT | Cryptography as the Backbone of a Well-Architected SIEM | Azen | [Read More](https://medium.com/p/93769ede2dec) |
-| Tue, 13 Jan 2026 08:35:22 GMT | OpenAI Buys Health AI Startup Torch for $100M! | Motherlandlove | [Read More](https://medium.com/p/3da5baebe7c4) |
-| Tue, 13 Jan 2026 08:31:22 GMT | The Hidden Strength Behind Fast Websites: Reliable Hosting That Doesn’t Break Your Budget | Mary Thomas | [Read More](https://medium.com/p/0aa7a02bad9b) |
-| Tue, 13 Jan 2026 08:29:56 GMT | Membangun Well-Architect SIEM 3: Penerapan Kriptografi dalam Aplikasi Test-bed | Lulu | [Read More](https://medium.com/p/dd279ac09df3) |
-| Tue, 13 Jan 2026 08:25:06 GMT | Nvidia H200: No Upfront Payments-Good News for AI Builders! | Motherlandlove | [Read More](https://medium.com/p/b0da34ce523e) |
