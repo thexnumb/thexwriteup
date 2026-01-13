@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 Jan 2026 11:12:09 GMT | Designing APIs for Large-Scale IoT Systems | Nimesh Nagar | [Read More](https://medium.com/p/12bf65d804d3) |
+| Tue, 13 Jan 2026 10:43:45 GMT | Security บทที่ 1 | Pruek Tanvorakul | [Read More](https://medium.com/p/54caa6e3248e) |
+| Tue, 13 Jan 2026 10:42:15 GMT | Unmasking Critical RCE Flaws in the World’s Most Popular Orchestrator | Niyati Daftary | [Read More](https://medium.com/p/b91e828974c6) |
+| Tue, 13 Jan 2026 10:40:15 GMT | Unmasking a LinkedIn Job Scam: A Cybersecurity Job Seeker’s Investigation | LearnWithMe | [Read More](https://medium.com/p/8b0b6e3c16ee) |
 | Tue, 13 Jan 2026 10:28:17 GMT | Total Security Solutions India: Advanced Electronic Security Solutions for Modern Protection | Ciss India | [Read More](https://medium.com/p/111e87ca744c) |
 | Tue, 13 Jan 2026 10:26:30 GMT | Zero Trust on AWS: Designing Workloads That Assume Breach (and Survive It) | Rupam Jha | [Read More](https://medium.com/p/0bbe136923da) |
 | Tue, 13 Jan 2026 10:18:21 GMT | Internet Safety for Teens | Zeeko | [Read More](https://medium.com/p/ba10749f6ee2) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 Jan 2026 05:13:31 GMT | Enterprise IT Modernization: Cloud Transformation, Data Protection, and Cyber-Resilient Operations | F9 Infotech | [Read More](https://medium.com/p/4ecb4dd8d2d4) |
 | Tue, 13 Jan 2026 05:12:03 GMT | The Zero-Trust Gap: Why Identity Is Not Governance in Agentic AI | Vuyyuru Kiran | [Read More](https://medium.com/p/2d408a33c45a) |
 | Tue, 13 Jan 2026 05:04:56 GMT | Remote Code Execution (RCE) Zafiyeti | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/5463e687a27f) |
-| Tue, 13 Jan 2026 04:58:49 GMT | Enterprise IT Transformation: Virtualization, Cloud Modernization, Security, Data Protection | F9 Infotech | [Read More](https://medium.com/p/290319fecac8) |
-| Tue, 13 Jan 2026 04:50:31 GMT | Building A SOC — AT — HOME (part 1) | Amalkhabbou | [Read More](https://medium.com/p/f736bf13db26) |
-| Tue, 13 Jan 2026 04:47:03 GMT | NiceNIC Exposed: The ICANN-Accredited Registrar Powering the World’s Cybercriminal Ecosystem | PhishDestroy | [Read More](https://medium.com/p/4e4996452e03) |
-| Tue, 13 Jan 2026 04:45:51 GMT | Cybersecurity Strategies for Remote Work Environments That Actually Work | Maxatlasofficial | [Read More](https://medium.com/p/80d5d66894f7) |
