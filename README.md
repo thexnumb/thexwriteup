@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 Jan 2026 23:36:24 GMT | Boas práticas: heróis ou vilãs | Bernardo Marcondes | [Read More](https://medium.com/p/17409a156842) |
+| Tue, 13 Jan 2026 23:33:19 GMT | The Skills Gap No One Is Addressing: Why Cybersecurity and Data Analytics Are Becoming the New… | Abdalla Gadalla | [Read More](https://medium.com/p/9f223d6dae07) |
+| Tue, 13 Jan 2026 23:32:49 GMT | Can you Realistcally Hack a Wifi Network In 2026 — I Tried. | Alex Grande | [Read More](https://medium.com/p/b56d9623c967) |
+| Tue, 13 Jan 2026 23:32:07 GMT | Cybersecurity Ethical Hacking — Discover the Top 3 Career Strategies for Career Advancement | Franklin Rhodes | [Read More](https://medium.com/p/d1d4ec31a1d9) |
+| Tue, 13 Jan 2026 23:28:00 GMT | How IDS, IPS, and Load Balancing Detection Tools Work in Penetration Testing | mohandika | [Read More](https://medium.com/p/239fbd4e8132) |
+| Tue, 13 Jan 2026 23:26:56 GMT | [Part 17] AI Governance & Ethics in Cybersecurity: Who Watches the Watchers? | Cyberkech | [Read More](https://medium.com/p/83b7f25e50b8) |
+| Tue, 13 Jan 2026 23:24:35 GMT | Targeted LinkedIn Phishing Attempt | Samuel George | [Read More](https://medium.com/p/8fb8044a93c3) |
 | Tue, 13 Jan 2026 23:17:48 GMT | Attack Surface Starts With Exposure | 0ps3c | [Read More](https://medium.com/p/363887cd44ef) |
 | Tue, 13 Jan 2026 23:17:43 GMT | Do Not Trust These Emails: A Guide to Spotting Modern Scams | Bless Samwel Siyovelwa | [Read More](https://medium.com/p/549967db6937) |
 | Tue, 13 Jan 2026 23:05:13 GMT | IPC via Message Queue | S12 - 0x12Dark Development | [Read More](https://medium.com/p/f383674da77f) |
@@ -106,10 +113,3 @@ Starting Out: The First… | Urooj Zeeshan | [Read More](https://medium.com/p/98
 | Tue, 13 Jan 2026 16:36:27 GMT | Crypto Heists | So Cleva | [Read More](https://medium.com/p/448ebe4878f7) |
 | Tue, 13 Jan 2026 16:36:06 GMT | Implementación de un Honeypot con T-Pot para detección y análisis de ataques. | Eric Cabrera Cruz | [Read More](https://medium.com/p/f1bfcea483a8) |
 | Tue, 13 Jan 2026 16:35:48 GMT | The Cryptography Journey — OCSP (Online Certification Status Protocol) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/ac9a1055e9c7) |
-| Tue, 13 Jan 2026 16:31:08 GMT | Hacking Humans: How I Learned That You Are the Vulnerability | HEKKO | [Read More](https://medium.com/p/78db9510a7c5) |
-| Tue, 13 Jan 2026 16:24:48 GMT | Testing PSPDFKit License Validity via Client-Side PoC | WHO AM I ? | [Read More](https://medium.com/p/a5b7e53026c9) |
-| Tue, 13 Jan 2026 16:24:20 GMT | Secure Client-Side Storage: AES-256 Encrypted Cookies with HMAC Tamper Detection | Aryak Lahane | [Read More](https://medium.com/p/bcf7579c5961) |
-| Tue, 13 Jan 2026 16:18:39 GMT | Bypassing XSS Protection: Thinking Beyond <script>‍ | ab.infosec | [Read More](https://medium.com/p/775ff6e5ef62) |
-| Tue, 13 Jan 2026 16:16:02 GMT | Skip the Swift & Kotlin Drama: Build Native‑Feeling Mobile Apps with JavaScript | Jitin Kayyala | [Read More](https://medium.com/p/3ccdff42f187) |
-| Tue, 13 Jan 2026 16:14:16 GMT | TryHackMe, What is Networking? | Asjamil | [Read More](https://medium.com/p/fbc466dfe67a) |
-| Tue, 13 Jan 2026 16:02:59 GMT | How AI Voice Cloning Works When All It Gets Is 3 Seconds | MayhemCode | [Read More](https://medium.com/p/f054f82213b0) |
