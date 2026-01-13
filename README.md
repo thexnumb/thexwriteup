@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 Jan 2026 20:14:34 GMT | The Auto-Update You Trusted Just Got Weaponized | Liam | [Read More](https://medium.com/p/540feeae236f) |
+| Tue, 13 Jan 2026 20:04:07 GMT | Top 5 AI Tools Every Bug Bounty Hunter Should Know | Shahzaib | [Read More](https://medium.com/p/1d7638598f74) |
+| Tue, 13 Jan 2026 19:54:19 GMT | The Role of Home Monitoring in Emergency Response and Safety | Alex Bryn | [Read More](https://medium.com/p/0bf8b6cb7355) |
+| Tue, 13 Jan 2026 19:48:44 GMT | Pentagon AI Shift: Why Military Data Is Moving to Grok & Google | Kartikeya Mishra | [Read More](https://medium.com/p/11321a21c9fd) |
+| Tue, 13 Jan 2026 19:43:08 GMT | When “Excellent Security” Still Fails: A Real-World SSRF Lesson | Tyreek Haynes | [Read More](https://medium.com/p/536643368a29) |
+| Tue, 13 Jan 2026 19:42:10 GMT | Lab: Bypassing access controls using email address parsing discrepancies | Songül Kızılay Özügürler | [Read More](https://medium.com/p/836c99d4c7f8) |
 | Tue, 13 Jan 2026 19:32:30 GMT | How Telegram Clicks Can Leak Your Real IP? | Мартин. | [Read More](https://medium.com/p/2670f7970f44) |
 | Tue, 13 Jan 2026 19:29:19 GMT | Understanding Forced Browsing Risks in Web Applications | Sahil Sharma | [Read More](https://medium.com/p/14d49dadce04) |
 | Tue, 13 Jan 2026 19:21:59 GMT | Authentication Made Easy: Sessions, Cookies & Tokens | Mukti Mishra | [Read More](https://medium.com/p/16b5434e0b1a) |
@@ -107,9 +113,3 @@ Starting Out: The First… | Urooj Zeeshan | [Read More](https://medium.com/p/98
 | Tue, 13 Jan 2026 14:27:08 GMT | We don’t just “fix computers” — We produce uptime | Century Solutions Group | [Read More](https://medium.com/p/a2f57ef8c087) |
 | Tue, 13 Jan 2026 14:19:09 GMT | CIA TRIAD: Siber Güvenliğin Üç Temel İlkesi | dilan alpaltun | [Read More](https://medium.com/p/ee309ea22e2a) |
 | Tue, 13 Jan 2026 14:17:45 GMT | How to Use Role-Based Access Control (RBAC) on Servers | Smit Pipaliya | [Read More](https://medium.com/p/5a8abd2ec7a8) |
-| Tue, 13 Jan 2026 14:16:04 GMT | DNS Resolution Process: Step-by-Step from Client to Authoritative DNS | Barbaros Küçükpınar | [Read More](https://medium.com/p/6fd6e644a4d4) |
-| Tue, 13 Jan 2026 14:14:53 GMT | Why Attack Paths Matter More Than Vulnerabilities | Gary S Mullen | [Read More](https://medium.com/p/63b6cb984ccc) |
-| Tue, 13 Jan 2026 14:05:33 GMT | FROM student TO ADMIN HAVE FULL CONTROL UNIVERSITY WEBSITE | PX1 | [Read More](https://medium.com/p/a366d2b168b7) |
-| Tue, 13 Jan 2026 14:03:52 GMT | A Realistic Walkthrough of a Ransomware Attack | Digital Defense | [Read More](https://medium.com/p/507466a5d821) |
-| Tue, 13 Jan 2026 13:55:42 GMT | CVE Hunting via Github Dorking | Abhirup Konwar | [Read More](https://medium.com/p/f94c187f3ee7) |
-| Tue, 13 Jan 2026 13:52:07 GMT | P4X: The Greatest Hacker in History? A One-Man Cyberwar That Shut Down a Nation’s Internet | Aqilnazim | [Read More](https://medium.com/p/ea518782fb51) |
