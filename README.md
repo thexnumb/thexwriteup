@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 Jan 2026 17:12:28 GMT | DONALD TRUMP : LEADER OR DICTATOR! | Abhinav Vig | [Read More](https://medium.com/p/a9e7e66a1506) |
+| Tue, 13 Jan 2026 17:12:05 GMT | The 10-Minute Security Check That Actually Prevents Breaches (Designed for Small Businesses) | Ajekigbe Michael. A | [Read More](https://medium.com/p/11e5a615632f) |
+| Tue, 13 Jan 2026 17:10:55 GMT | The Day I Realized Cyber Security Isn’t About Technology | Er Dhaval Ramani | [Read More](https://medium.com/p/2af7b0c47f15) |
+| Tue, 13 Jan 2026 17:09:22 GMT | I Used to Waste 20 Minutes Daily on Password Issues. Here’s What Fixed It. | Samantha Robinson | [Read More](https://medium.com/p/b6b3a2e37276) |
+| Tue, 13 Jan 2026 17:06:59 GMT | Stealth in Layers: How Threat Actors Are Using a Sophisticated Loader to Drive Targeted Email… | Tech Security | [Read More](https://medium.com/p/0b6978e0987a) |
+| Tue, 13 Jan 2026 17:06:55 GMT | War in slippers and low-cost security | Alicia Asín Pérez | [Read More](https://medium.com/p/68973e8f7162) |
+| Tue, 13 Jan 2026 17:05:38 GMT | No spidey sense, just my guts: How i accidentally bought a VPS for €0.01 | PevinKumar A | [Read More](https://medium.com/p/d22b433e79ed) |
+| Tue, 13 Jan 2026 17:03:12 GMT | Cloud Utilities, Telemetry And The Silent Threat To User Privacy | Geoffrey Wenger | [Read More](https://medium.com/p/559b0a381d32) |
+| Tue, 13 Jan 2026 17:03:03 GMT | CyberPulse Weekly Awareness Pack | Devore McIntosh | [Read More](https://medium.com/p/16fffdf2a46e) |
+| Tue, 13 Jan 2026 17:01:30 GMT | From Lab Benchmarks to Live Pen Tests: The Rise of Agentic AI in Cyber Offense | Veronika Aleksova | [Read More](https://medium.com/p/a1b1358fec6b) |
+| Tue, 13 Jan 2026 16:43:19 GMT | How a “Temporary Fix” Became a Permanent Security Disaster | Iski | [Read More](https://medium.com/p/be5e9b8b2694) |
+| Tue, 13 Jan 2026 16:36:27 GMT | Crypto Heists | So Cleva | [Read More](https://medium.com/p/448ebe4878f7) |
+| Tue, 13 Jan 2026 16:35:48 GMT | The Cryptography Journey — OCSP (Online Certification Status Protocol) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/ac9a1055e9c7) |
+| Tue, 13 Jan 2026 16:31:08 GMT | Hacking Humans: How I Learned That You Are the Vulnerability | HEKKO | [Read More](https://medium.com/p/78db9510a7c5) |
 | Tue, 13 Jan 2026 16:24:48 GMT | Testing PSPDFKit License Validity via Client-Side PoC | WHO AM I ? | [Read More](https://medium.com/p/a5b7e53026c9) |
 | Tue, 13 Jan 2026 16:24:20 GMT | Secure Client-Side Storage: AES-256 Encrypted Cookies with HMAC Tamper Detection | Aryak Lahane | [Read More](https://medium.com/p/bcf7579c5961) |
 | Tue, 13 Jan 2026 16:18:39 GMT | Bypassing XSS Protection: Thinking Beyond <script>‍ | ab.infosec | [Read More](https://medium.com/p/775ff6e5ef62) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 Jan 2026 11:31:35 GMT | From $6.46B to $13.8B: Communication Interface Market’s 10% CAGR Surge | Sam Karan | [Read More](https://medium.com/p/f86ad8476a3b) |
 | Tue, 13 Jan 2026 11:29:20 GMT | VulnNet: Active Writeup (TryHackMe Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/2be425ed12a0) |
 | Tue, 13 Jan 2026 11:12:09 GMT | Designing APIs for Large-Scale IoT Systems | Nimesh Nagar | [Read More](https://medium.com/p/12bf65d804d3) |
-| Tue, 13 Jan 2026 11:05:21 GMT | Siber Güvenlik: Dijital Dünyada Güvende Kalmak Mümkün mü? | HSD Osmaniye Korkut Ata Üniversitesi | [Read More](https://medium.com/p/e8eb174f4581) |
-| Tue, 13 Jan 2026 10:43:45 GMT | Security บทที่ 1 | Pruek Tanvorakul | [Read More](https://medium.com/p/54caa6e3248e) |
-| Tue, 13 Jan 2026 10:42:15 GMT | Unmasking Critical RCE Flaws in the World’s Most Popular Orchestrator | Niyati Daftary | [Read More](https://medium.com/p/b91e828974c6) |
-| Tue, 13 Jan 2026 10:40:15 GMT | Unmasking a LinkedIn Job Scam: A Cybersecurity Job Seeker’s Investigation | LearnWithMe | [Read More](https://medium.com/p/8b0b6e3c16ee) |
-| Tue, 13 Jan 2026 10:28:17 GMT | Total Security Solutions India: Advanced Electronic Security Solutions for Modern Protection | Ciss India | [Read More](https://medium.com/p/111e87ca744c) |
-| Tue, 13 Jan 2026 10:26:30 GMT | Zero Trust on AWS: Designing Workloads That Assume Breach (and Survive It) | Rupam Jha | [Read More](https://medium.com/p/0bbe136923da) |
-| Tue, 13 Jan 2026 10:18:21 GMT | Internet Safety for Teens | Zeeko | [Read More](https://medium.com/p/ba10749f6ee2) |
-| Tue, 13 Jan 2026 10:13:29 GMT | Artificial Intelligence: Complete AI Training for Beginners to Experts | Manisha Chaudhary | [Read More](https://medium.com/p/c84235ebb9c9) |
-| Tue, 13 Jan 2026 10:10:57 GMT | Extropy Security Bytes: w1 & w2, 2026 | Extropy.IO | [Read More](https://medium.com/p/0e5121069482) |
-| Tue, 13 Jan 2026 10:08:34 GMT | Cyber Security Services in Tunisia: A Complete Guide for 2026 | Prakash Factosecure | [Read More](https://medium.com/p/63edb406417d) |
-| Tue, 13 Jan 2026 10:08:23 GMT | Secure Systems or Secure Users? | Edasu Semetay | [Read More](https://medium.com/p/c26170198d4f) |
-| Tue, 13 Jan 2026 10:05:54 GMT | AI and the Death of Search: What Happens When We Stop Googling? | SensEI | [Read More](https://medium.com/p/c378a9ab902d) |
-| Tue, 13 Jan 2026 10:04:32 GMT | Why Your Legitimate Emails Are Landing in Spam (And How to Fix It in Seconds) | Everywebtool | [Read More](https://medium.com/p/a411854bbc53) |
-| Tue, 13 Jan 2026 10:03:09 GMT | Bug Bounty Report Template: How I Document Credential Leaks for P1 Submissions | Alexandre Vandamme | [Read More](https://medium.com/p/60a9226649cd) |
