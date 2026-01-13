@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 Jan 2026 19:32:30 GMT | How Telegram Clicks Can Leak Your Real IP? | Мартин. | [Read More](https://medium.com/p/2670f7970f44) |
+| Tue, 13 Jan 2026 19:29:19 GMT | Understanding Forced Browsing Risks in Web Applications | Sahil Sharma | [Read More](https://medium.com/p/14d49dadce04) |
 | Tue, 13 Jan 2026 19:21:59 GMT | Authentication Made Easy: Sessions, Cookies & Tokens | Mukti Mishra | [Read More](https://medium.com/p/16b5434e0b1a) |
+| Tue, 13 Jan 2026 19:20:30 GMT | Creating a Agentic SOC | Kushagra | [Read More](https://medium.com/p/890b01a9b000) |
+| Tue, 13 Jan 2026 19:18:27 GMT | Why Free VPNs Are a Bad Idea for Gaming (Risk & Speed Analysis) | Sheep Design | [Read More](https://medium.com/p/674c08e944f6) |
+| Tue, 13 Jan 2026 19:18:07 GMT | My Journey as a University Student: Learning, Growing, and Dreaming Big
+Starting Out: The First… | Urooj Zeeshan | [Read More](https://medium.com/p/98f27c3aac88) |
 | Tue, 13 Jan 2026 19:16:07 GMT | Pentest raporu mu, o da ne? | Zekikayaalp | [Read More](https://medium.com/p/4a4e6697afd2) |
 | Tue, 13 Jan 2026 19:02:46 GMT | Securing AI Agents Without Slowing Innovation | Sandip Patel | [Read More](https://medium.com/p/52d32ea9d04e) |
 | Tue, 13 Jan 2026 19:02:46 GMT | Anti-Spam | Iram Jack | [Read More](https://medium.com/p/e7a4e4bc56c0) |
@@ -107,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 Jan 2026 14:03:52 GMT | A Realistic Walkthrough of a Ransomware Attack | Digital Defense | [Read More](https://medium.com/p/507466a5d821) |
 | Tue, 13 Jan 2026 13:55:42 GMT | CVE Hunting via Github Dorking | Abhirup Konwar | [Read More](https://medium.com/p/f94c187f3ee7) |
 | Tue, 13 Jan 2026 13:52:07 GMT | P4X: The Greatest Hacker in History? A One-Man Cyberwar That Shut Down a Nation’s Internet | Aqilnazim | [Read More](https://medium.com/p/ea518782fb51) |
-| Tue, 13 Jan 2026 13:51:30 GMT | The Most Dangerous Phishing Tool EVER Created: Spiderman | Aqilnazim | [Read More](https://medium.com/p/e900c23f560c) |
-| Tue, 13 Jan 2026 13:50:56 GMT | 幽靈買手與信任崩塌：Google 通用商務協議 (UCP) 下的台灣資安風暴深度報告 | p1x06u9 | [Read More](https://medium.com/p/0b59aec0da31) |
-| Tue, 13 Jan 2026 13:49:32 GMT | The Calm Before the Storm | VIGNESH | [Read More](https://medium.com/p/28708010072d) |
-| Tue, 13 Jan 2026 13:45:50 GMT | What’s Happening in Iran? | Costin Raiu | [Read More](https://medium.com/p/93cc103863ab) |
-| Tue, 13 Jan 2026 13:41:20 GMT | SISTEM INFORMASI | Adhitya Wisnu Priambadha | [Read More](https://medium.com/p/7e5eb814b9ff) |
