@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 Jan 2026 04:31:39 GMT | Enhance Your Home Security with Crimsafe Screen Doors | Gold Coast Security Screens | [Read More](https://medium.com/p/1ee9b8c5b462) |
+| Tue, 13 Jan 2026 04:10:35 GMT | Day 7 — Understanding Infrastructure Security: From Virtual Machines to Cloud Attacks | NineTales | [Read More](https://medium.com/p/e6b7991c130b) |
+| Tue, 13 Jan 2026 04:10:16 GMT | CyberDev News Corner Weekly Brief | Devore McIntosh | [Read More](https://medium.com/p/8a9992e2b44d) |
+| Tue, 13 Jan 2026 04:08:38 GMT | Malware Analysis: Understanding Malicious Code to Defend Better | BAVANA SRI CHANDANA G | [Read More](https://medium.com/p/c046bfe0ceba) |
+| Tue, 13 Jan 2026 03:45:31 GMT | OverTheWire Bandit (Day 12): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/4a2b4a73fdec) |
+| Tue, 13 Jan 2026 03:42:48 GMT | Your Java File Upload Is a Security Risk. | DevLogic - Engineering Thinking | [Read More](https://medium.com/p/ec7a924ccfdc) |
+| Tue, 13 Jan 2026 03:42:48 GMT | Hack Dead Rails | Apkpuredev | [Read More](https://medium.com/p/8ee14f519b7a) |
+| Tue, 13 Jan 2026 03:32:49 GMT | The ClickFix Illusion: How “Fixing” an Error Hands Over Your System | Deven Chhajed | [Read More](https://medium.com/p/115684eec7fc) |
 | Tue, 13 Jan 2026 03:22:49 GMT | Blockchain Wallet Development Challenges: Balancing UX with Security | TheExchain | [Read More](https://medium.com/p/363bceeec1d5) |
 | Tue, 13 Jan 2026 03:06:55 GMT | Reconstructing Adversary Activity from Visual Artifacts: RDP Bitmap Cache Forensics | seif | [Read More](https://medium.com/p/6fe68b7f6314) |
 | Tue, 13 Jan 2026 02:59:12 GMT | Zero Trust That Learns: From Static Policy Enforcement to Decision-Driven Security | Zeigeist | [Read More](https://medium.com/p/9cb2a1ea5282) |
@@ -106,11 +114,3 @@ Abstract… | J Colten | [Read More](https://medium.com/p/80f3d8bac769) |
 | Mon, 12 Jan 2026 18:02:59 GMT | We Built the System That Proves Whether Security Actually Works | Rocko Development LLC | [Read More](https://medium.com/p/ceee39cb59df) |
 | Mon, 12 Jan 2026 17:54:47 GMT | The “Big Flat Network”: How I Pivoted Through an ISP’s Infrastructure to Compromise Thousands of… | M Umer | [Read More](https://medium.com/p/4cd83dba69d5) |
 | Mon, 12 Jan 2026 17:50:15 GMT | I Almost Fell for a “Last Wish” Scam : Here’s What You Need to Know | Om Shree | [Read More](https://medium.com/p/c093ed100fc6) |
-| Mon, 12 Jan 2026 17:49:22 GMT | Cybersecurity Prediction 4: Threat Actor Lineup Shifts | Matthew.Rosenquist | [Read More](https://medium.com/p/e0f6c4be8994) |
-| Mon, 12 Jan 2026 17:48:15 GMT | The Internet Is a Single Point of Failure | MoogleTechnology Canada | [Read More](https://medium.com/p/d3b719cd5f07) |
-| Mon, 12 Jan 2026 17:44:55 GMT | Professional Security Guard Services in Canada | world guardian | [Read More](https://medium.com/p/5123d1c29f65) |
-| Mon, 12 Jan 2026 17:44:03 GMT | These Common Frontend Mistakes Make Your App an Easy Target for Hackers | Ededet John | [Read More](https://medium.com/p/24467735a263) |
-| Mon, 12 Jan 2026 17:41:46 GMT | Bypassing Email Verification via OAuth Misconfiguration | Samet Yiğit | [Read More](https://medium.com/p/cad488c15f2f) |
-| Mon, 12 Jan 2026 17:35:22 GMT | Mr. Heater Portable Buddy Heater Reviews | Narjis Arshad | [Read More](https://medium.com/p/56a789ff311c) |
-| Mon, 12 Jan 2026 17:31:49 GMT | Complete Spring Security Flow: From Request to Response (Part-2) (Spring Boot Series-11) | Asutosh Nayak | [Read More](https://medium.com/p/d360a5d22cd5) |
-| Mon, 12 Jan 2026 17:31:24 GMT | I Found a Scam on Facebook That Targets Bookworms | Jasmin James | [Read More](https://medium.com/p/56662a2cdae6) |
