@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 Jan 2026 19:21:59 GMT | Authentication Made Easy: Sessions, Cookies & Tokens | Mukti Mishra | [Read More](https://medium.com/p/16b5434e0b1a) |
+| Tue, 13 Jan 2026 19:16:07 GMT | Pentest raporu mu, o da ne? | Zekikayaalp | [Read More](https://medium.com/p/4a4e6697afd2) |
+| Tue, 13 Jan 2026 19:02:46 GMT | Securing AI Agents Without Slowing Innovation | Sandip Patel | [Read More](https://medium.com/p/52d32ea9d04e) |
+| Tue, 13 Jan 2026 19:02:46 GMT | Anti-Spam | Iram Jack | [Read More](https://medium.com/p/e7a4e4bc56c0) |
+| Tue, 13 Jan 2026 19:01:27 GMT | [AD攻防] AS-REP Roasting 攻擊 | 陳禹璿 | [Read More](https://medium.com/p/89d24a52c013) |
+| Tue, 13 Jan 2026 19:00:53 GMT | I Received My Own Personal Details From a Telegram Stranger — Here’s the Truth | Pradhan's Fintech | [Read More](https://medium.com/p/7bd744f3500b) |
+| Tue, 13 Jan 2026 18:51:59 GMT | OverTheWire Bandit (Day 13): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/581d1b5546ef) |
+| Tue, 13 Jan 2026 18:46:58 GMT | How to Get Scammed (by DPRK Hackers) | OZ | [Read More](https://medium.com/p/b2f7588aea76) |
+| Tue, 13 Jan 2026 18:46:51 GMT | The Future of IoT in 2026: Trends, Security, and Business Impact | Techridge Solutions | [Read More](https://medium.com/p/1fe7861b4091) |
+| Tue, 13 Jan 2026 18:39:00 GMT | How I Found a Critical Biometric 2FA Bypass… and Lost the Bounty | LETCHU PKT | [Read More](https://medium.com/p/9c38441640c4) |
+| Tue, 13 Jan 2026 18:38:52 GMT | Day 3 of Learning AWS: Elastic IP and Elastic Block Storage | Muhammad Kashif | [Read More](https://medium.com/p/df72bcb50e3c) |
+| Tue, 13 Jan 2026 18:36:46 GMT | Quasitek Solutions Gulf: Empowering the Next Generation of GCC Businesses | Quasitek Solutions | [Read More](https://medium.com/p/fda97e6e99b2) |
+| Tue, 13 Jan 2026 18:29:57 GMT | Attack that can shutdown your network (SNMP) — Phase 1 | Shaik afrid | [Read More](https://medium.com/p/4daf22bcbf7c) |
 | Tue, 13 Jan 2026 18:24:42 GMT | Cyber Security Solutions in India & Dubai | Lumiversesolution | [Read More](https://medium.com/p/e595dc3726ee) |
 | Tue, 13 Jan 2026 18:23:00 GMT | Breaking AES with Bits and Volts: A Guide to Side-Channel Attacks (Part A) | Sanjana | [Read More](https://medium.com/p/d01445dc6f9c) |
 | Tue, 13 Jan 2026 18:21:19 GMT | Phishing Email Analysis — A Blue Team Labs Online Case Study. | Umang Mishra | [Read More](https://medium.com/p/336d350af34a) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 Jan 2026 13:49:32 GMT | The Calm Before the Storm | VIGNESH | [Read More](https://medium.com/p/28708010072d) |
 | Tue, 13 Jan 2026 13:45:50 GMT | What’s Happening in Iran? | Costin Raiu | [Read More](https://medium.com/p/93cc103863ab) |
 | Tue, 13 Jan 2026 13:41:20 GMT | SISTEM INFORMASI | Adhitya Wisnu Priambadha | [Read More](https://medium.com/p/7e5eb814b9ff) |
-| Tue, 13 Jan 2026 13:39:26 GMT | The Perpetuity in Yearning for Softness: For every little girl that never got to feel held | An Opinionated Brown Girl | [Read More](https://medium.com/p/29a1608e2999) |
-| Tue, 13 Jan 2026 13:37:13 GMT | If You’re Building a Cybersecurity Career Like It’s 2019, You’re Already Behind. | Taimur Ijlal | [Read More](https://medium.com/p/26006495cec8) |
-| Tue, 13 Jan 2026 13:31:27 GMT | # Why Ad Blockers Are Now a Security Mandate (2026 Edition) | Avlix Group | [Read More](https://medium.com/p/5fceff491892) |
-| Tue, 13 Jan 2026 13:30:22 GMT | Cybersecurity Awareness: Why It Matters in Today’s Digital World | Karthik M | [Read More](https://medium.com/p/e3e21c0bd34a) |
-| Tue, 13 Jan 2026 13:29:17 GMT | The Nuclear Risks of Regime Change in Iran | T Lewis | [Read More](https://medium.com/p/ed8070ee4ef0) |
-| Tue, 13 Jan 2026 13:28:25 GMT | Setup Environment Android untuk Mobile Pentest: Emulator, ADB, dan Burp Suite (Step-by-step) | Alfandiwijaya | [Read More](https://medium.com/p/b14bd5e02e35) |
-| Tue, 13 Jan 2026 13:27:13 GMT | Hacking “Time”: When Critical Infrastructure Forgets to Set a Password | hacker_might | [Read More](https://medium.com/p/7641c2b87f73) |
-| Tue, 13 Jan 2026 13:26:09 GMT | The Deletion Paradox: Mengapa Tombol “Delete” Justru Menjadi Ancaman Terbesar Privasi Anda | Roxasdarkseeker | [Read More](https://medium.com/p/a8641a155539) |
-| Tue, 13 Jan 2026 13:24:42 GMT | Practical Mobile Traffic Interception | Just Mobile Security | [Read More](https://medium.com/p/1481e33d974e) |
-| Tue, 13 Jan 2026 13:20:14 GMT | Camping in the UAE: A Realistic Guide for First-Time and Weekend Campers. | Outdoorlifedubai | [Read More](https://medium.com/p/dde4ac7a0a80) |
-| Tue, 13 Jan 2026 13:19:53 GMT | The Silent Threat in MLOps: Why Your AI Model Needs a Firewall | Arsenii Brazhnyk | [Read More](https://medium.com/p/efab5acab00d) |
-| Tue, 13 Jan 2026 13:14:07 GMT | Browser-in-Browser Scam Now Used by Facebook Login Thieves to Steal Credentials | Technijian | [Read More](https://medium.com/p/4af6a3aeee69) |
-| Tue, 13 Jan 2026 13:12:57 GMT | Basic Pentesting 1 (lab) Walkthrough: Exploiting FTP, SSH & WordPress | SUSHANT TELRANDHE | [Read More](https://medium.com/p/fc504247d4f9) |
