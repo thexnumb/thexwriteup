@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 Jan 2026 17:41:43 GMT | A UN Peacekeeping Mandate for Ukraine Isn’t Idealism — It’s Operational Durability | Parker Jansen | [Read More](https://medium.com/p/ba81c9735e97) |
+| Tue, 13 Jan 2026 17:41:08 GMT | The Immutable Witness: How Blockchain Identity Systems are Rewriting the Rules on Financial Crime | Satyam | [Read More](https://medium.com/p/d5969a041989) |
+| Tue, 13 Jan 2026 17:29:33 GMT | The Ransomware Cartel: A Million Pounds Business | Sharwari Dali | [Read More](https://medium.com/p/635a50eab9d7) |
+| Tue, 13 Jan 2026 17:19:34 GMT | Army Dog Center Islamabad 03009195279 | Army Dog Center Rawalpindi 03009195279 | [Read More](https://medium.com/p/dbf7e6b6d4fc) |
+| Tue, 13 Jan 2026 17:18:39 GMT | OSINT Tools and Techniques | ZaslonX - Cybersecurity | [Read More](https://medium.com/p/526ac1b9413a) |
 | Tue, 13 Jan 2026 17:12:28 GMT | DONALD TRUMP : LEADER OR DICTATOR! | Abhinav Vig | [Read More](https://medium.com/p/a9e7e66a1506) |
 | Tue, 13 Jan 2026 17:12:05 GMT | The 10-Minute Security Check That Actually Prevents Breaches (Designed for Small Businesses) | Ajekigbe Michael. A | [Read More](https://medium.com/p/11e5a615632f) |
 | Tue, 13 Jan 2026 17:10:55 GMT | The Day I Realized Cyber Security Isn’t About Technology | Er Dhaval Ramani | [Read More](https://medium.com/p/2af7b0c47f15) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 Jan 2026 11:46:16 GMT | How One Test Led Me to a Critical P1 Account Takeover (ATO) Bug on Bugcrowd | Rajankumarbarik | [Read More](https://medium.com/p/831370edc8e9) |
 | Tue, 13 Jan 2026 11:44:39 GMT | My Journey into Technology and Cybersecurity | Maryjudith Chidinma Ogunaka | [Read More](https://medium.com/p/be216437f065) |
 | Tue, 13 Jan 2026 11:43:03 GMT | No Pressure. The Two Words That Can Cost You Everything | Danny Wsol | [Read More](https://medium.com/p/ad8472af2066) |
-| Tue, 13 Jan 2026 11:41:33 GMT | Private Equity 2026 Playbook: Buy MSPs, Build Platforms | Thomas Patterson | [Read More](https://medium.com/p/a69fe973182b) |
-| Tue, 13 Jan 2026 11:40:01 GMT | The AI Agent Security Crisis of 2026: Your Enterprise Is Already Exposed (And the 3 Companies… | Travel4Fun4U | [Read More](https://medium.com/p/f7a7fe31eb8c) |
-| Tue, 13 Jan 2026 11:31:35 GMT | From $6.46B to $13.8B: Communication Interface Market’s 10% CAGR Surge | Sam Karan | [Read More](https://medium.com/p/f86ad8476a3b) |
-| Tue, 13 Jan 2026 11:29:20 GMT | VulnNet: Active Writeup (TryHackMe Medium Machine) | Ivan Daňo | [Read More](https://medium.com/p/2be425ed12a0) |
-| Tue, 13 Jan 2026 11:12:09 GMT | Designing APIs for Large-Scale IoT Systems | Nimesh Nagar | [Read More](https://medium.com/p/12bf65d804d3) |
