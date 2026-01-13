@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 Jan 2026 06:29:54 GMT | CYBER SECURITY. | Chauhanreena | [Read More](https://medium.com/p/7abf3e5cd980) |
+| Tue, 13 Jan 2026 06:27:19 GMT | What Is CompTIA PenTest+ and Why Is It a Smart Cybersecurity Career Move? | Nyra | [Read More](https://medium.com/p/7ce838c0de6e) |
+| Tue, 13 Jan 2026 06:26:55 GMT | I Followed a DNS Query and Ended Up Somewhere I Didn’t Expect | Fateyaly | [Read More](https://medium.com/p/915d16a644e3) |
+| Tue, 13 Jan 2026 06:21:21 GMT | When a Checkout Page Leaks Your Session | Monika sharma | [Read More](https://medium.com/p/f08885668ae7) |
+| Tue, 13 Jan 2026 06:14:29 GMT | How to Hack | Red | [Read More](https://medium.com/p/f5bfdbafe938) |
+| Tue, 13 Jan 2026 06:02:05 GMT | Exploiting Common Web Vulnerabilities (Part 1) | N0H4TS | [Read More](https://medium.com/p/d978806d2193) |
+| Tue, 13 Jan 2026 06:00:08 GMT | Secure Home Networking: Basic Steps Every Family Should Follow | Ask IT Support | [Read More](https://medium.com/p/61631ef23d53) |
+| Tue, 13 Jan 2026 05:56:23 GMT | Data Security in 2026: Protecting Your Business in a Digital World | DataGators Scraping Enterprise | [Read More](https://medium.com/p/28bb0cdf0416) |
+| Tue, 13 Jan 2026 05:43:47 GMT | Top 10 Vector Databases | CuriousDev | [Read More](https://medium.com/p/d3240d3fd316) |
 | Tue, 13 Jan 2026 05:42:43 GMT | Will AI Agents Kill the Checkout Button? - The Daily Tech Digest: 13 January 2026 | Souren Stepanyan | [Read More](https://medium.com/p/690df98faaa5) |
+| Tue, 13 Jan 2026 05:40:53 GMT | Web Application Firewall (WAF): What, Why, When and Which? | Sajidur Rahman | [Read More](https://medium.com/p/1a88e8e85e76) |
 | Tue, 13 Jan 2026 05:40:02 GMT | The Illusion of Control: Why We Think Our Data Is Safe When It Isn’t | Hritam Dutta | [Read More](https://medium.com/p/07fbdbcd3de4) |
 | Tue, 13 Jan 2026 05:35:27 GMT | Active Directory Hardening — Writeup | Mahir | [Read More](https://medium.com/p/ff607d74ca1c) |
 | Tue, 13 Jan 2026 05:35:20 GMT | Cyber Security Certification Cost in India: A Complete Guide 2026 | ISIT Consultants Pvt  Ltd | [Read More](https://medium.com/p/5db653c435bf) |
@@ -104,13 +114,3 @@ Abstract… | J Colten | [Read More](https://medium.com/p/80f3d8bac769) |
 | Mon, 12 Jan 2026 19:35:38 GMT | Cyber Threat Intelligence: A Practical Guide to All Methods | ZaslonX - Cybersecurity | [Read More](https://medium.com/p/80e1bd91fcd8) |
 | Mon, 12 Jan 2026 19:33:41 GMT | About “The Information..everywhere”: From Hesse to Locke | Claudia Lai Seung | [Read More](https://medium.com/p/c86199a930ad) |
 | Mon, 12 Jan 2026 19:32:50 GMT | INE / eJPT / Assessment Methodologies: Footprinting and Scanning CTF 1 | Salihugurlu | [Read More](https://medium.com/p/c4e2458bfb06) |
-| Mon, 12 Jan 2026 19:29:37 GMT | She, the Fear | Fabiana Tavares | [Read More](https://medium.com/p/c7073dc7c71a) |
-| Mon, 12 Jan 2026 19:27:51 GMT | How a Unified Security Platform Strengthens Your Information Security Management System | Teona | [Read More](https://medium.com/p/7f9c0586ea06) |
-| Mon, 12 Jan 2026 19:26:49 GMT | Modern Vulnerability Management & Penetration Testing Services | IT_Engineer | [Read More](https://medium.com/p/eedb47de4405) |
-| Mon, 12 Jan 2026 19:25:45 GMT | What is Cyber Security ? | Tharindu Viduranga | [Read More](https://medium.com/p/08c63c54d347) |
-| Mon, 12 Jan 2026 19:24:13 GMT | How Deepfakes and AI Agents Are Rewriting Risk Transfer & Insurance | Valdez Ladd | [Read More](https://medium.com/p/f32819d3ce5e) |
-| Mon, 12 Jan 2026 19:19:10 GMT | AI Adoption Turned IT & Security Analysts into Babysitters | Graylog | [Read More](https://medium.com/p/0e815a0cd3b4) |
-| Mon, 12 Jan 2026 19:19:08 GMT | Threat Modeling (with Chickens) | Aaron Weaver | [Read More](https://medium.com/p/4de5ead1528d) |
-| Mon, 12 Jan 2026 19:18:17 GMT | Keep Your Devices Safe From Misleading System Optimizer Apps | Geoffrey Wenger | [Read More](https://medium.com/p/0403e64c3663) |
-| Mon, 12 Jan 2026 19:17:02 GMT | Hands-On Exploitation of CVE-2025–54918 | Yousof Nahya | [Read More](https://medium.com/p/cf376ebb40e1) |
-| Mon, 12 Jan 2026 19:17:01 GMT | The Fortress of DeFi: Why $VEC is Built to Last ️ | VelaCore | [Read More](https://medium.com/p/a4ff7b075849) |
