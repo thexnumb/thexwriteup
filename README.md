@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 Jan 2026 07:17:35 GMT | Android Security: What I Learned While Decompiling Our ‘Secured’ Production App? | Shubham Kumar Gupta | [Read More](https://medium.com/p/0bb234d76699) |
+| Tue, 13 Jan 2026 07:17:27 GMT | 10 Psychology-Based Detection Tactics Blue Teams Use: Master How Defenders Outsmart Attackers | Very Lazy Tech | [Read More](https://medium.com/p/f5b0ee45a301) |
+| Tue, 13 Jan 2026 07:15:10 GMT | Nmap vs Masscan vs Rustscan: Myths and Facts | 2s1one | [Read More](https://medium.com/p/62a9b462241e) |
+| Tue, 13 Jan 2026 07:05:01 GMT | DIGITAL SOVEREIGNTY, CYBER WAR, AND GEOPOLITICS: THE NEW SPACE OF POWER. | Marco Mizzau | [Read More](https://medium.com/p/c590a6aadde8) |
+| Tue, 13 Jan 2026 07:04:41 GMT | Local Locksmith Services Designed for London Properties | N1locksmithsltd | [Read More](https://medium.com/p/dc5d548efb94) |
+| Tue, 13 Jan 2026 06:59:48 GMT | Securing the Digital Border: A Deep Dive into Cyber ​​Security | Poddar Group of Institutions | [Read More](https://medium.com/p/b0db16ac9d41) |
+| Tue, 13 Jan 2026 06:56:27 GMT | Cap — HackTheBox Writeup: Machine Walkthrough | Kizito Arinze Chukwu | [Read More](https://medium.com/p/ec828619b47a) |
+| Tue, 13 Jan 2026 06:53:22 GMT | Managed IT Security in 2026: What Brisbane Companies Must Prioritise | Elevate | [Read More](https://medium.com/p/776246bd4b6b) |
+| Tue, 13 Jan 2026 06:45:46 GMT | Aimlock FF APK | GOCMOD | [Read More](https://medium.com/p/5556e43ed310) |
+| Tue, 13 Jan 2026 06:45:27 GMT | Expertise in Safeguarding Industrial Digital Assets | Kadhijahafiya | [Read More](https://medium.com/p/0824d67d6f7f) |
+| Tue, 13 Jan 2026 06:43:16 GMT | How I Try to Love Me | Viola Laika | [Read More](https://medium.com/p/e9f132fb02af) |
+| Tue, 13 Jan 2026 06:42:09 GMT | React2Shell: The “Perfect 10” Vulnerability That Shook the React Ecosystem | Pawan Dhanapala | [Read More](https://medium.com/p/d926d7b196fa) |
+| Tue, 13 Jan 2026 06:38:22 GMT | Security Service - Make Easy | K2q official | [Read More](https://medium.com/p/a6bb1d3f4604) |
+| Tue, 13 Jan 2026 06:38:13 GMT | Preparing a New Security Standard for the Quantum Computing Era | SAYCOIN | [Read More](https://medium.com/p/838c3eaa99fa) |
+| Tue, 13 Jan 2026 06:32:47 GMT | Bulutta Güvenlik Kimin Sorumluluğu? | Hakan Ozdem | [Read More](https://medium.com/p/0dd07025c903) |
 | Tue, 13 Jan 2026 06:29:54 GMT | CYBER SECURITY. | Chauhanreena | [Read More](https://medium.com/p/7abf3e5cd980) |
 | Tue, 13 Jan 2026 06:27:19 GMT | What Is CompTIA PenTest+ and Why Is It a Smart Cybersecurity Career Move? | Nyra | [Read More](https://medium.com/p/7ce838c0de6e) |
 | Tue, 13 Jan 2026 06:26:55 GMT | I Followed a DNS Query and Ended Up Somewhere I Didn’t Expect | Fateyaly | [Read More](https://medium.com/p/915d16a644e3) |
@@ -97,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 12 Jan 2026 21:01:33 GMT | Hunting Lazarus: Inside the Contagious Interview C2 Infrastructure | Red Asgard | [Read More](https://medium.com/p/435375a5c66d) |
 | Mon, 12 Jan 2026 20:52:26 GMT | Your IDE Might Betray You Before You Run Anything | Ryan W | [Read More](https://medium.com/p/da937667ecea) |
 | Mon, 12 Jan 2026 20:40:12 GMT | Write-up: Enterprise lab on THM | cLODIUS cOCK | [Read More](https://medium.com/p/63549fc930bf) |
-| Mon, 12 Jan 2026 20:33:36 GMT | Day 4: Users and Privileges in Linux | Mohammad-AL-Momani | [Read More](https://medium.com/p/b97d752d57dd) |
-| Mon, 12 Jan 2026 20:18:26 GMT | Why Telecommunications Companies Are Primary Targets for State-Sponsored Hackers | David SEHYEON Baek | [Read More](https://medium.com/p/271a3d607cbc) |
-| Mon, 12 Jan 2026 20:16:46 GMT | Security That Works: Why Your Controls Keep Failing and How to Fix Them | Tyson Martin | [Read More](https://medium.com/p/8485cc6829af) |
-| Mon, 12 Jan 2026 20:07:28 GMT | This Bug Bounty Recon is much PEAKKK!!!!!! | Alham Rizvi(ExoidSec) | [Read More](https://medium.com/p/05581c02486e) |
-| Mon, 12 Jan 2026 20:06:09 GMT | Splunk — Tutorial Completo | YHONATAN LEONARDO | [Read More](https://medium.com/p/13496a02ca32) |
-| Mon, 12 Jan 2026 20:00:00 GMT | Trust-On-First-Scan (TOFS): A Security Model for QR Codes
-By Colten Jacob - January 2026
-Abstract… | J Colten | [Read More](https://medium.com/p/80f3d8bac769) |
-| Mon, 12 Jan 2026 19:57:14 GMT | Bir Hacker’ın Oyun Alanı: Hibrit Sızma Testi Laboratuvarında Adım Adım Pentest | Arda | [Read More](https://medium.com/p/aecd9cada80b) |
-| Mon, 12 Jan 2026 19:56:33 GMT | Build your Off-Grid AI, No Internet Needed. | Ehsan | [Read More](https://medium.com/p/3ca217709a15) |
-| Mon, 12 Jan 2026 19:43:41 GMT | Cybersecurity Basics: The Roadmap I Wish I Had When I Started | Thapaswin | [Read More](https://medium.com/p/9853b4e23238) |
-| Mon, 12 Jan 2026 19:42:52 GMT | The Security Industry’s Addiction with Buying New Toys | Really Bad Security | [Read More](https://medium.com/p/59cdfeec3f13) |
-| Mon, 12 Jan 2026 19:37:29 GMT | How I recovered my lost cryptocurrency from a scam company. | Vincent Gamba | [Read More](https://medium.com/p/3086674a7e62) |
-| Mon, 12 Jan 2026 19:35:40 GMT | # Stop Wasting Hours Setting Up Your Parrot OS — Here’s an Open Source Tool That Does It in Minutes | Zahradeen Muazu | [Read More](https://medium.com/p/a92ab6d834c3) |
-| Mon, 12 Jan 2026 19:35:38 GMT | Cyber Threat Intelligence: A Practical Guide to All Methods | ZaslonX - Cybersecurity | [Read More](https://medium.com/p/80e1bd91fcd8) |
-| Mon, 12 Jan 2026 19:33:41 GMT | About “The Information..everywhere”: From Hesse to Locke | Claudia Lai Seung | [Read More](https://medium.com/p/c86199a930ad) |
-| Mon, 12 Jan 2026 19:32:50 GMT | INE / eJPT / Assessment Methodologies: Footprinting and Scanning CTF 1 | Salihugurlu | [Read More](https://medium.com/p/c4e2458bfb06) |
