@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 Jan 2026 05:25:41 GMT | Introducing ALS — A new Security Protocol for MCP | Shawn K. Reilly | [Read More](https://medium.com/p/d0c0dfe97ef5) |
+| Tue, 13 Jan 2026 05:13:40 GMT | Request Authenticity Checks in PHP That Don’t Use Tokens | Asian Digital Hub | [Read More](https://medium.com/p/71fc043905d7) |
+| Tue, 13 Jan 2026 05:13:31 GMT | Enterprise IT Modernization: Cloud Transformation, Data Protection, and Cyber-Resilient Operations | F9 Infotech | [Read More](https://medium.com/p/4ecb4dd8d2d4) |
+| Tue, 13 Jan 2026 05:12:03 GMT | The Zero-Trust Gap: Why Identity Is Not Governance in Agentic AI | Vuyyuru Kiran | [Read More](https://medium.com/p/2d408a33c45a) |
+| Tue, 13 Jan 2026 05:04:56 GMT | Remote Code Execution (RCE) Zafiyeti | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/5463e687a27f) |
+| Tue, 13 Jan 2026 04:58:49 GMT | Enterprise IT Transformation: Virtualization, Cloud Modernization, Security, Data Protection | F9 Infotech | [Read More](https://medium.com/p/290319fecac8) |
+| Tue, 13 Jan 2026 04:50:31 GMT | Building A SOC — AT — HOME (part 1) | Amalkhabbou | [Read More](https://medium.com/p/f736bf13db26) |
+| Tue, 13 Jan 2026 04:47:03 GMT | NiceNIC Exposed: The ICANN-Accredited Registrar Powering the World’s Cybercriminal Ecosystem | PhishDestroy | [Read More](https://medium.com/p/4e4996452e03) |
+| Tue, 13 Jan 2026 04:45:51 GMT | Cybersecurity Strategies for Remote Work Environments That Actually Work | Maxatlasofficial | [Read More](https://medium.com/p/80d5d66894f7) |
+| Tue, 13 Jan 2026 04:42:05 GMT | Japan Will Not Return to the Past– A Nation Standing at a Crossroads of Choice — | Toshi & Mina(AI) LAB | [Read More](https://medium.com/p/05a07f6062ff) |
+| Tue, 13 Jan 2026 04:37:30 GMT | How Do LLMs and AI Systems Become Vulnerable to Cyber Attacks? | Modern Security | [Read More](https://medium.com/p/ae84498a003e) |
+| Tue, 13 Jan 2026 04:36:22 GMT | Building a Practical AFIS(Automated Fingerprint Identification System) I: Pipeline | SpaceIO | [Read More](https://medium.com/p/22a2332fb8fe) |
 | Tue, 13 Jan 2026 04:31:39 GMT | Enhance Your Home Security with Crimsafe Screen Doors | Gold Coast Security Screens | [Read More](https://medium.com/p/1ee9b8c5b462) |
 | Tue, 13 Jan 2026 04:10:35 GMT | Day 7 — Understanding Infrastructure Security: From Virtual Machines to Cloud Attacks | NineTales | [Read More](https://medium.com/p/e6b7991c130b) |
 | Tue, 13 Jan 2026 04:10:16 GMT | CyberDev News Corner Weekly Brief | Devore McIntosh | [Read More](https://medium.com/p/8a9992e2b44d) |
@@ -102,15 +114,3 @@ Abstract… | J Colten | [Read More](https://medium.com/p/80f3d8bac769) |
 | Mon, 12 Jan 2026 18:56:21 GMT | Siber Güvenlik Laboratuvarı Notları: Teorik Temeller, Araçlar ve Metodolojiler | Arda | [Read More](https://medium.com/p/625169a1640c) |
 | Mon, 12 Jan 2026 18:56:10 GMT | Lab: Authentication bypass via encryption oracle | Songül Kızılay Özügürler | [Read More](https://medium.com/p/dcab43bb72b4) |
 | Mon, 12 Jan 2026 18:48:06 GMT | Default to Delete: How New Operating Systems Are Reversing 50 Years of Design | Kihara Kimachia | [Read More](https://medium.com/p/04aeaba8df7c) |
-| Mon, 12 Jan 2026 18:44:57 GMT | Upcoming Go Security Releases | ASAcrew Blog | [Read More](https://medium.com/p/b7618d0b19c9) |
-| Mon, 12 Jan 2026 18:44:53 GMT | Outdated (Proving Grounds Practice Box) | Adam Bartlett | [Read More](https://medium.com/p/3fd2eb819e79) |
-| Mon, 12 Jan 2026 18:40:22 GMT | HTB — Agile Writeup | Ayça Gül | [Read More](https://medium.com/p/d269f798b8cc) |
-| Mon, 12 Jan 2026 18:37:37 GMT | The Bug Bounty Toolkit (2026): Tools, Workflows, and Real-World Recon That Actually Finds Bugs | ghostyjoe | [Read More](https://medium.com/p/bb880a407be6) |
-| Mon, 12 Jan 2026 18:21:22 GMT | Information Gathering’s Assessment | db1M | [Read More](https://medium.com/p/6dd784e3be52) |
-| Mon, 12 Jan 2026 18:15:30 GMT | NodeLLM 1.5.0: Putting Security in the Driver’s Seat | Shaiju Edakulangara | [Read More](https://medium.com/p/472c0a84e14a) |
-| Mon, 12 Jan 2026 18:09:26 GMT | Common Web Vulnerabilities and How Modern Applications Prevent Them | Farhan Nasir | [Read More](https://medium.com/p/946fa563fe12) |
-| Mon, 12 Jan 2026 18:07:43 GMT | Best Home Security Camera Without Subscription: Smart Protection Without Monthly Fees | Narjis Arshad | [Read More](https://medium.com/p/747c09289bde) |
-| Mon, 12 Jan 2026 18:06:03 GMT | Go: a garbage collector where you least expect it | Nina Pakshina | [Read More](https://medium.com/p/7a85e5c689d0) |
-| Mon, 12 Jan 2026 18:02:59 GMT | We Built the System That Proves Whether Security Actually Works | Rocko Development LLC | [Read More](https://medium.com/p/ceee39cb59df) |
-| Mon, 12 Jan 2026 17:54:47 GMT | The “Big Flat Network”: How I Pivoted Through an ISP’s Infrastructure to Compromise Thousands of… | M Umer | [Read More](https://medium.com/p/4cd83dba69d5) |
-| Mon, 12 Jan 2026 17:50:15 GMT | I Almost Fell for a “Last Wish” Scam : Here’s What You Need to Know | Om Shree | [Read More](https://medium.com/p/c093ed100fc6) |
