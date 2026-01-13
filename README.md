@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 Jan 2026 22:17:31 GMT | Keycloak Authentication Flows: The Engine Behind Your Login Experience | Florian Röser | [Read More](https://medium.com/p/fd3a7e8aa383) |
+| Tue, 13 Jan 2026 22:09:30 GMT | From 403 Forbidden to $$$$ How a Simple Extension Bypass Led to Unauthenticated Access to Private… | KiRaaDx | [Read More](https://medium.com/p/f1f4633b82dc) |
+| Tue, 13 Jan 2026 21:55:50 GMT | FotoForensics | Mazinmattar | [Read More](https://medium.com/p/2870da94c4f5) |
+| Tue, 13 Jan 2026 21:55:08 GMT | Безпека Windows️ | Fl4g Hunt3r Project | [Read More](https://medium.com/p/95f503f17379) |
+| Tue, 13 Jan 2026 21:54:29 GMT | RUN REPORT: Gmail Support Scam — What happened & what I changed because of it | Robert Hildebrandt | [Read More](https://medium.com/p/a7419393c7bc) |
+| Tue, 13 Jan 2026 21:47:23 GMT | The Real Bottleneck in ML Pipelines Is Coordination, Not Models | Luis M | [Read More](https://medium.com/p/02c80c42bbd9) |
 | Tue, 13 Jan 2026 21:43:18 GMT | The Oldest and Largest Impact Crater on Earth | Abdul | [Read More](https://medium.com/p/d1690974dfb4) |
+| Tue, 13 Jan 2026 21:38:42 GMT | From Interview to Incident Response: How a Fake Job Turned Into a Cyberattack | Sakthi | [Read More](https://medium.com/p/b8d54f26dcea) |
 | Tue, 13 Jan 2026 21:34:44 GMT | When ‘Dead’ Pets Come Back to Life: A Bug I Found on a Pet Platform | SK3PT1K3R | [Read More](https://medium.com/p/97b1aac7de73) |
 | Tue, 13 Jan 2026 21:26:57 GMT | Cybersecurity in 2026: The Attacks You Never See Coming | Abdul Ahad | [Read More](https://medium.com/p/cb5d995f722c) |
 | Tue, 13 Jan 2026 21:19:19 GMT | Shadow Track — Hackviser Real-World Scenario Walkthrough | Hussein 404 | [Read More](https://medium.com/p/a46eea4414ec) |
@@ -106,10 +113,3 @@ Starting Out: The First… | Urooj Zeeshan | [Read More](https://medium.com/p/98
 | Tue, 13 Jan 2026 15:43:17 GMT | How to Hack WhatsApp: What’s Actually Possible, What’s Not, and What You Should Know | Rebecca Smith | [Read More](https://medium.com/p/1b8e603984d2) |
 | Tue, 13 Jan 2026 15:35:52 GMT | 7 Shockingly Simple AI Automations That Saved Me 20+ Hours a Week | Mahad Nadeem | [Read More](https://medium.com/p/6fb1c8b18b57) |
 | Tue, 13 Jan 2026 15:34:40 GMT | The Rising Security Challenges of Microservices in the Cloud | Emmanuel Olu-Ajayi | [Read More](https://medium.com/p/d04805186a79) |
-| Tue, 13 Jan 2026 15:34:02 GMT | “Bug Bounty Bootcamp #15: Beyond <script>alert(1)</script>—Mastering Diverse XSS Execution Vectors” | Aman Sharma | [Read More](https://medium.com/p/d4d133972725) |
-| Tue, 13 Jan 2026 15:24:58 GMT | The Client-side Is Not a Boundary | Adebayo | [Read More](https://medium.com/p/cdac4653460e) |
-| Tue, 13 Jan 2026 15:24:36 GMT | API Gateway Design Patterns: The Bouncer That Keeps Your System Sane | Jitin Kayyala | [Read More](https://medium.com/p/98b20cad9f0b) |
-| Tue, 13 Jan 2026 15:21:42 GMT | NEW YEAR CTF: WRITEUP CHALLENGE1 CRYPTO ) | marlithor_cyber | [Read More](https://medium.com/p/6e3b9ee2c235) |
-| Tue, 13 Jan 2026 15:19:41 GMT | How I Supercharged Wazuh SIEM with AI Using Claude Desktop (MCP Integration) | MOAMEN REZK | [Read More](https://medium.com/p/70a973488477) |
-| Tue, 13 Jan 2026 15:16:47 GMT | Confidently Wrong in Subtle Ways | Roger Gale | [Read More](https://medium.com/p/f755fa725723) |
-| Tue, 13 Jan 2026 15:16:38 GMT | The Growing Risk of Ransomware-as-a-Service (RaaS): Why It’s a National Security Issue | Suman Panta | [Read More](https://medium.com/p/e71b44fbb1c3) |
