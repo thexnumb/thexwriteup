@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 13 Jan 2026 21:18:59 GMT | Data Heist — Hackviser Real-World Scenario Walkthrough | Hussein 404 | [Read More](https://medium.com/p/37418c3e8b3b) |
+| Tue, 13 Jan 2026 21:12:13 GMT | iOS Jailbreak Detection: Security in Banking Applications | aybarska | [Read More](https://medium.com/p/382cec1de559) |
+| Tue, 13 Jan 2026 21:12:12 GMT | AI SOC Is Real — But It Only Automates What You’ve Already Systematized | Denny Roger | [Read More](https://medium.com/p/992116983fec) |
+| Tue, 13 Jan 2026 21:08:46 GMT | What Happens When Password Managers Get Hacked? | MoogleTechnology Canada | [Read More](https://medium.com/p/92eb06b2a300) |
+| Tue, 13 Jan 2026 21:08:06 GMT | Network Security in Cloud Computing: What to Know | Digital Uppercut | [Read More](https://medium.com/p/1005a1c85c9a) |
+| Tue, 13 Jan 2026 21:03:29 GMT | About Cyber security: Protecting Your Digital Life Every Day | Sourav Krishnan | [Read More](https://medium.com/p/7068d222f3fa) |
+| Tue, 13 Jan 2026 20:57:42 GMT | A beginner’s journey through KodeKloud’s 100 Days of Cloud Challenge | Awuor.tech | [Read More](https://medium.com/p/9c34d3962dc7) |
+| Tue, 13 Jan 2026 20:52:10 GMT | Структура операційної системи Windows. Файлові системи️ | Fl4g Hunt3r Project | [Read More](https://medium.com/p/de092262d0f3) |
 | Tue, 13 Jan 2026 20:39:16 GMT | Dig Dug: TryHackMe WriteUp | Bridget | [Read More](https://medium.com/p/ef09e9c27f40) |
 | Tue, 13 Jan 2026 20:34:50 GMT | Answering Most Asked Questions About the Dark Web | Abhay Parashar | [Read More](https://medium.com/p/6991633f8248) |
 | Tue, 13 Jan 2026 20:23:51 GMT | Man-in-the-Middle (MITM) Saldırıları | Romanzeb | [Read More](https://medium.com/p/dd46500897c9) |
@@ -105,11 +113,3 @@ Starting Out: The First… | Urooj Zeeshan | [Read More](https://medium.com/p/98
 | Tue, 13 Jan 2026 15:02:58 GMT | Cyber Briefing: 2026.01.13 | CyberMaterial | [Read More](https://medium.com/p/5e829aabf9a4) |
 | Tue, 13 Jan 2026 15:02:24 GMT | I Clicked the Link. 47 Seconds Later, Hackers Were In My Account. | Deepak Sharma | [Read More](https://medium.com/p/9a537cc00292) |
 | Tue, 13 Jan 2026 14:54:45 GMT | Why Digital Password Security Matters More Than Ever | Berk Behcet Gerek | [Read More](https://medium.com/p/2729d5672579) |
-| Tue, 13 Jan 2026 14:54:25 GMT | Cyber Security Foundation Series — Computer Networking Part -02 OSI and TCP/IP model | Kamal Kishor Mahto | [Read More](https://medium.com/p/7ddcca28869a) |
-| Tue, 13 Jan 2026 14:47:05 GMT | Building a Cybersecurity Lab in AWS Part 2: Networking and Firewall | Charles Christiansen | [Read More](https://medium.com/p/f550c457f45c) |
-| Tue, 13 Jan 2026 14:44:22 GMT | In an era where cyber threats are evolving at the speed of AI, the "digital fence" of yesterday is… | Roshankappala | [Read More](https://medium.com/p/c59b8d455dee) |
-| Tue, 13 Jan 2026 14:43:01 GMT | Common Node.js Security Vulnerabilities & Prevention Strategies | Manish Prasad | [Read More](https://medium.com/p/52a41ade7a0b) |
-| Tue, 13 Jan 2026 14:42:10 GMT | What It Feels Like to Be Real Around the Wrong People | Oany | [Read More](https://medium.com/p/80dd61aea078) |
-| Tue, 13 Jan 2026 14:41:44 GMT | The Informal Economy in Cameroon and the Role of Context-Aware Digital Solutions. | Fritz Akam | [Read More](https://medium.com/p/2eda4727d7da) |
-| Tue, 13 Jan 2026 14:38:22 GMT | Passing the PNPT: A Practical Perspective on Modern Pentesting | Ivaylo Ivanov | [Read More](https://medium.com/p/adbdb34210ea) |
-| Tue, 13 Jan 2026 14:32:49 GMT | How to Create an Undetectable Backdoor: A Step-by-Step Guide | Vignesh R | [Read More](https://medium.com/p/ba336b805856) |
