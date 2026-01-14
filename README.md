@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 Jan 2026 01:45:30 GMT | How To Support Yahoo Customer Service Number UK | Zuerevalexander | [Read More](https://medium.com/p/4a73ae9adce8) |
+| Wed, 14 Jan 2026 01:38:03 GMT | How To Support McAfee Customer Service Number Australia | Customer Support Information | [Read More](https://medium.com/p/ab774179f9f6) |
+| Wed, 14 Jan 2026 01:31:04 GMT | Automating the Enterprise SOC: How I Built a Detection Pipeline with Splunk, n8n, and Active… | Aniket Agarwal | [Read More](https://medium.com/p/8cf2dd254e6c) |
+| Wed, 14 Jan 2026 01:25:41 GMT | byp4ss3d — picoCTF 2025 Writeup | Musthofa Kamaluddin | [Read More](https://medium.com/p/e41811723392) |
+| Wed, 14 Jan 2026 01:17:15 GMT | Achieved 198k LinkedIn Followers | Matthew.Rosenquist | [Read More](https://medium.com/p/964b9d9f8728) |
+| Wed, 14 Jan 2026 00:51:09 GMT | How I Built a SOC Lab in My Bedroom | Abimanyu A | [Read More](https://medium.com/p/17093e739b71) |
+| Wed, 14 Jan 2026 00:48:21 GMT | SBOMs vs Asset Inventories: Bridging the Visibility Gap in Software Security | Praveen Malhan | [Read More](https://medium.com/p/e42964280e13) |
+| Wed, 14 Jan 2026 00:48:01 GMT | When the Terminator Stops Being Fiction | Dr. Thomas Jreige | [Read More](https://medium.com/p/2e518e986f85) |
+| Wed, 14 Jan 2026 00:47:18 GMT | Malware Development with NIM — Malicious Self-Replication | Edgar Huemac Sanchez Hernandez | [Read More](https://medium.com/p/5781af6ccb09) |
+| Wed, 14 Jan 2026 00:47:06 GMT | How to Secure a Linux System in 20 Minutes | Sam Writes Security | [Read More](https://medium.com/p/1d4ccabce95f) |
+| Wed, 14 Jan 2026 00:37:41 GMT | Beyond the Process: The Three Pillars of Threat Modeling | Mudassir Syed | [Read More](https://medium.com/p/a359676befbb) |
+| Wed, 14 Jan 2026 00:15:59 GMT | ScreenConnect Vulnerability | Mehmet Ali Gülyurdu | [Read More](https://medium.com/p/4b69fbc8562c) |
+| Wed, 14 Jan 2026 00:02:50 GMT | Masscan vs. Nmap: Port Scanning Guide for Bug Bounty | JPablo13 | [Read More](https://medium.com/p/7b4c93f0acc3) |
+| Tue, 13 Jan 2026 23:56:42 GMT | n8n Workflow Automation Platform Affected by Remote Code Execution Vulnerability (CVE-2025–68613) | Criminal IP | [Read More](https://medium.com/p/aa26a24e9a0e) |
 | Tue, 13 Jan 2026 23:36:24 GMT | Boas práticas: heróis ou vilãs | Bernardo Marcondes | [Read More](https://medium.com/p/17409a156842) |
 | Tue, 13 Jan 2026 23:33:19 GMT | The Skills Gap No One Is Addressing: Why Cybersecurity and Data Analytics Are Becoming the New… | Abdalla Gadalla | [Read More](https://medium.com/p/9f223d6dae07) |
 | Tue, 13 Jan 2026 23:32:49 GMT | Can you Realistcally Hack a Wifi Network In 2026 — I Tried. | Alex Grande | [Read More](https://medium.com/p/b56d9623c967) |
@@ -99,17 +113,3 @@ Starting Out: The First… | Urooj Zeeshan | [Read More](https://medium.com/p/98
 | Tue, 13 Jan 2026 17:29:33 GMT | The Ransomware Cartel: A Million Pounds Business | Sharwari Dali | [Read More](https://medium.com/p/635a50eab9d7) |
 | Tue, 13 Jan 2026 17:19:34 GMT | Army Dog Center Islamabad 03009195279 | Army Dog Center Rawalpindi 03009195279 | [Read More](https://medium.com/p/dbf7e6b6d4fc) |
 | Tue, 13 Jan 2026 17:18:39 GMT | OSINT Tools and Techniques | ZaslonX - Cybersecurity | [Read More](https://medium.com/p/526ac1b9413a) |
-| Tue, 13 Jan 2026 17:12:28 GMT | DONALD TRUMP : LEADER OR DICTATOR! | Abhinav Vig | [Read More](https://medium.com/p/a9e7e66a1506) |
-| Tue, 13 Jan 2026 17:12:05 GMT | The 10-Minute Security Check That Actually Prevents Breaches (Designed for Small Businesses) | Ajekigbe Michael. A | [Read More](https://medium.com/p/11e5a615632f) |
-| Tue, 13 Jan 2026 17:10:55 GMT | The Day I Realized Cyber Security Isn’t About Technology | Er Dhaval Ramani | [Read More](https://medium.com/p/2af7b0c47f15) |
-| Tue, 13 Jan 2026 17:09:22 GMT | I Used to Waste 20 Minutes Daily on Password Issues. Here’s What Fixed It. | Samantha Robinson | [Read More](https://medium.com/p/b6b3a2e37276) |
-| Tue, 13 Jan 2026 17:06:59 GMT | Stealth in Layers: How Threat Actors Are Using a Sophisticated Loader to Drive Targeted Email… | Tech Security | [Read More](https://medium.com/p/0b6978e0987a) |
-| Tue, 13 Jan 2026 17:06:55 GMT | War in slippers and low-cost security | Alicia Asín Pérez | [Read More](https://medium.com/p/68973e8f7162) |
-| Tue, 13 Jan 2026 17:05:38 GMT | No spidey sense, just my guts: How i accidentally bought a VPS for €0.01 | PevinKumar A | [Read More](https://medium.com/p/d22b433e79ed) |
-| Tue, 13 Jan 2026 17:03:12 GMT | Cloud Utilities, Telemetry And The Silent Threat To User Privacy | Geoffrey Wenger | [Read More](https://medium.com/p/559b0a381d32) |
-| Tue, 13 Jan 2026 17:03:03 GMT | CyberPulse Weekly Awareness Pack | Devore McIntosh | [Read More](https://medium.com/p/16fffdf2a46e) |
-| Tue, 13 Jan 2026 17:01:30 GMT | From Lab Benchmarks to Live Pen Tests: The Rise of Agentic AI in Cyber Offense | Veronika Aleksova | [Read More](https://medium.com/p/a1b1358fec6b) |
-| Tue, 13 Jan 2026 16:43:19 GMT | How a “Temporary Fix” Became a Permanent Security Disaster | Iski | [Read More](https://medium.com/p/be5e9b8b2694) |
-| Tue, 13 Jan 2026 16:36:27 GMT | Crypto Heists | So Cleva | [Read More](https://medium.com/p/448ebe4878f7) |
-| Tue, 13 Jan 2026 16:36:06 GMT | Implementación de un Honeypot con T-Pot para detección y análisis de ataques. | Eric Cabrera Cruz | [Read More](https://medium.com/p/f1bfcea483a8) |
-| Tue, 13 Jan 2026 16:35:48 GMT | The Cryptography Journey — OCSP (Online Certification Status Protocol) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/ac9a1055e9c7) |
