@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 Jan 2026 22:45:12 GMT | How an LLM is making my bulletproof casual game | Benjamin Jordan | [Read More](https://medium.com/p/e986c4844c1f) |
+| Wed, 14 Jan 2026 22:44:52 GMT | LetsTechTogether: Free Tech Support Drop-In | letstechtogether | [Read More](https://medium.com/p/f27ede20440c) |
+| Wed, 14 Jan 2026 22:32:04 GMT | 30 Days of Red Team: Day 16 — Windows Privilege Escalation | Maxwell Cross | [Read More](https://medium.com/p/9a2ed6f64791) |
+| Wed, 14 Jan 2026 22:31:28 GMT | Forays into Threat Intelligence — Part Deux — Lazarus, here we come! | Vishwa T | [Read More](https://medium.com/p/49e1361729f4) |
+| Wed, 14 Jan 2026 22:21:19 GMT | Fortress Protocol: Building a Secure, Private, and Inclusive Digital Future | Fortress Protocol | [Read More](https://medium.com/p/9bc19584ea68) |
+| Wed, 14 Jan 2026 22:17:15 GMT | GSEC Yolculuğu #2: Kablolardan Sinyallere — L1 ve L2 Dünyası | Ata Erdemir | [Read More](https://medium.com/p/86085fb2b28a) |
 | Wed, 14 Jan 2026 21:41:19 GMT | DNS Log Analysis using Splunk | Jason Hoskins Jr. | [Read More](https://medium.com/p/cd5a18f47aca) |
 | Wed, 14 Jan 2026 21:38:51 GMT | How Security Teams Can Use Shodan.io to See What Attackers See | Mohsin Khan | [Read More](https://medium.com/p/8f06d5b5d424) |
 | Wed, 14 Jan 2026 21:34:54 GMT | How to Protect Yourself From Malicious Links and Online Scams | Ifebuche Juliet | [Read More](https://medium.com/p/f1cf80238274) |
@@ -107,9 +113,3 @@ Every morning at 7:15, the same bus stopped at the same corner. | Sakhi Writes |
 | Wed, 14 Jan 2026 16:20:56 GMT | Firewalls — Writeup | Mahir | [Read More](https://medium.com/p/c93e929d7a44) |
 | Wed, 14 Jan 2026 16:04:31 GMT | Wars Are Becoming Optimization Problems | Om mishra | [Read More](https://medium.com/p/d47d6832af3f) |
 | Wed, 14 Jan 2026 16:00:33 GMT | Smart Shop Security That Works Even Without Internet | Mhrhelal | [Read More](https://medium.com/p/39a87b14c814) |
-| Wed, 14 Jan 2026 15:50:09 GMT | Infant Pulse Oximeter: Normal SpO₂ Levels & When to Worry | PURE HEALTH BLOGS | [Read More](https://medium.com/p/e7083914b48e) |
-| Wed, 14 Jan 2026 15:47:51 GMT | Congratulations! You’ve been promoted to Family CISO! | Aaron Strong | [Read More](https://medium.com/p/59c2d16a3449) |
-| Wed, 14 Jan 2026 15:43:10 GMT | Instead, start teaching them, make it personal, make it a conversation, make it relatable – | Aaron Strong | [Read More](https://medium.com/p/9780687906c0) |
-| Wed, 14 Jan 2026 15:40:01 GMT | Why Wireshark Finally Made Sense: TryHackMe, College, and the Right Pace | Crystal_cascade14 | [Read More](https://medium.com/p/29b8e12c23e9) |
-| Wed, 14 Jan 2026 15:37:55 GMT | Critical Sudo Vulnerabilities — CVE-2025–32462 and CVE-2025–32463 | Lakshan Sameera | [Read More](https://medium.com/p/0ee43d15f942) |
-| Wed, 14 Jan 2026 15:31:59 GMT | Data brokers sell your private information: How data removal services optimize opting out | Karl Buhl | [Read More](https://medium.com/p/a61c0512708a) |
