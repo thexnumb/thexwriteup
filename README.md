@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 Jan 2026 17:23:13 GMT | Ethical Hacking Course in Trivandrum : A Practical Way Into a High Demand Cyber Security Career | Vazeem Akram | [Read More](https://medium.com/p/39fe025171b0) |
+| Wed, 14 Jan 2026 17:12:31 GMT | New MacSync Malware Variant Bypasses macOS Gatekeeper Using Apple-Signed Disguise | Tech Intel | [Read More](https://medium.com/p/11c4632a37b7) |
+| Wed, 14 Jan 2026 17:10:06 GMT | Vibe Coding Will Kill Your App (Unless You Do This) | DigitalNomad | [Read More](https://medium.com/p/2657a5f62693) |
+| Wed, 14 Jan 2026 17:02:50 GMT | Building an AWS GuardDuty SIEM Pipeline into Splunk (S3 + SQS) + SOC Dashboard | Lakshan Sameera (Sameer) | [Read More](https://medium.com/p/784d31db9ce7) |
+| Wed, 14 Jan 2026 17:02:41 GMT | CVE-2026–20805: An Actively Exploited Windows Zero-Day Vulnerability Explained | Sneha | [Read More](https://medium.com/p/239f8139f9c1) |
+| Wed, 14 Jan 2026 17:02:24 GMT | Security Analysis and Hardening of a Flask-SQLite Student Management System | Moreno Cello Rhythm | [Read More](https://medium.com/p/a9fa7db07d5a) |
+| Wed, 14 Jan 2026 16:58:34 GMT | Open Redirect to XSS | Samet Yiğit | [Read More](https://medium.com/p/3a579bf64ed2) |
+| Wed, 14 Jan 2026 16:57:57 GMT | Why Granularity Is Everything in Memory Encryption | Superasystem Inc. | [Read More](https://medium.com/p/6feb9954fc51) |
+| Wed, 14 Jan 2026 16:57:04 GMT | How Programming Saved My Life (And Why IT Stopped Valuing The Minds That Built It) | RandyWritesProcedurally | [Read More](https://medium.com/p/a45db214b09d) |
+| Wed, 14 Jan 2026 16:53:31 GMT | Anthem-TryHackMe | Asjamil | [Read More](https://medium.com/p/69bc1a2da7c5) |
+| Wed, 14 Jan 2026 16:49:49 GMT | Aggregator Pattern：微服務中的資訊櫃台 | 思維舞步 MindSteps | [Read More](https://medium.com/p/4477a721bb49) |
+| Wed, 14 Jan 2026 16:49:44 GMT | Try Hack Me- HA Joker CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/967cf3d97e45) |
+| Wed, 14 Jan 2026 16:47:13 GMT | The Fear Isn’t Being Judged. It’s Being Seen | LASO Hypnosis | [Read More](https://medium.com/p/3d372b6f5e56) |
+| Wed, 14 Jan 2026 16:45:31 GMT | How Much Time Does it REALLY Take to Learn Hacking? | Axoloth | [Read More](https://medium.com/p/12014eb5e1bf) |
+| Wed, 14 Jan 2026 16:40:32 GMT | Key Features to Look for in Security Guard Services in Woodland Hills for Medical Centers | Reliable Security Services Blog | [Read More](https://medium.com/p/ff46bb68483c) |
+| Wed, 14 Jan 2026 16:35:36 GMT | When ChatGPT Becomes the Attacker: How New AI Flaws Exposed Gmail, Outlook, and GitHub Data | Tech Intel | [Read More](https://medium.com/p/eac8d5464c9e) |
+| Wed, 14 Jan 2026 16:34:54 GMT | My First XSS: How Simple Automation Helped Me Find It | AhmedAbdelaziz | [Read More](https://medium.com/p/2d6d3f6143f4) |
+| Wed, 14 Jan 2026 16:33:08 GMT | The Death of Privacy in the “Always-On” Future | Del Schlangen | [Read More](https://medium.com/p/1933824cd481) |
+| Wed, 14 Jan 2026 16:32:05 GMT | How Security Guard Services in Tarzana Protect Retail Spaces Effectively? | Reliable Security Services Blog | [Read More](https://medium.com/p/6e82dec06365) |
+| Wed, 14 Jan 2026 16:30:33 GMT | Kahve İçerken Hacklenmek | HSD ATLAS | [Read More](https://medium.com/p/1a20938cb9b3) |
 | Wed, 14 Jan 2026 16:30:21 GMT | How Attackers Move Inside a Network Once They’re In | Digital Defense | [Read More](https://medium.com/p/b6ec4d3d5bb4) |
 | Wed, 14 Jan 2026 16:24:19 GMT | Why Most Organizations Are Still Vulnerable, Even After Running Vulnerability Scans? | Livindu Peiris | [Read More](https://medium.com/p/9ed1b5b17148) |
 | Wed, 14 Jan 2026 16:21:57 GMT | The Future of Cybersecurity in 2026: Threats, Trends, and Protection Strategies | Techridge Solutions | [Read More](https://medium.com/p/6a097df17cd5) |
@@ -93,23 +113,3 @@ The Internet of Things (IoT) has… | Ankit rai | [Read More](https://medium.com
 | Wed, 14 Jan 2026 11:49:28 GMT | Decision Framework: SOC 2 or ISO 27001? | Consulting4sec | [Read More](https://medium.com/p/d65f000e833b) |
 | Wed, 14 Jan 2026 11:48:36 GMT | Building the Ultimate Android Bug Bounty Lab: Target Recon, Native Crashes, and Static Analysis… | Rezaul Hasan | [Read More](https://medium.com/p/ddddea479dfb) |
 | Wed, 14 Jan 2026 11:44:35 GMT | Darkweb Vendor Imposter Scams: How Fake Sellers Manipulate Trust | Tor BBB | [Read More](https://medium.com/p/1154aeb791d6) |
-| Wed, 14 Jan 2026 11:43:41 GMT | Top-Rated AWS Associate Training Institute in Delhi | cybersecuritycourse | [Read More](https://medium.com/p/117ad91623c5) |
-| Wed, 14 Jan 2026 11:40:20 GMT | 3 Sneaky Ways People Are Tricking AI Resume Scanners (And How Well It Works) | gayatri r | [Read More](https://medium.com/p/e21553845fad) |
-| Wed, 14 Jan 2026 11:36:17 GMT | How Cybersecurity Consulting Services Strengthen Your Security Strategy | SmartCLOUD Australia | [Read More](https://medium.com/p/c5030bdb0ada) |
-| Wed, 14 Jan 2026 11:36:04 GMT | From Normal to Malicious: Understanding Network Traffic with Wireshark | Mafika Seranyane | [Read More](https://medium.com/p/32f4b7376f27) |
-| Wed, 14 Jan 2026 11:35:34 GMT | Pentest PostgreSQL : le “petit port” qui cache parfois un gros incident. | Naïm Aouaichia | [Read More](https://medium.com/p/668f3d6eb1cf) |
-| Wed, 14 Jan 2026 11:35:02 GMT | Allsafe Android Pentesting — Part 4: Firebase Database Insecure Rules | Mscmkn | [Read More](https://medium.com/p/f23dae468460) |
-| Wed, 14 Jan 2026 11:30:33 GMT | Banking Series CTF — Hints and Solutions | Invariant0 | [Read More](https://medium.com/p/da3187f418c8) |
-| Wed, 14 Jan 2026 11:30:22 GMT | How Pro Hackers Test Internal Subdomains (admin, stage, dev) Without “Hacking.” | NullSec | [Read More](https://medium.com/p/311059a35fe2) |
-| Wed, 14 Jan 2026 11:29:59 GMT | Adapting Agile Frameworks for Artificial Intelligence and Blockchain Projects: Challenges and… | WajeehaKF.official | [Read More](https://medium.com/p/6537098c1b98) |
-| Wed, 14 Jan 2026 11:17:47 GMT | SSL Pinning: How does it actually prevent MitM Attacks | Darshan Miskin | [Read More](https://medium.com/p/4a75c99d11a7) |
-| Wed, 14 Jan 2026 11:10:59 GMT | When MFA Trusts the Wrong Identity: A Lazy Afternoon Pentest | Rahul M S | [Read More](https://medium.com/p/e518ea202f1d) |
-| Wed, 14 Jan 2026 11:09:06 GMT | Why Small Progress Is Better Than No Progress at All | SIMPLE ARTICAL | [Read More](https://medium.com/p/34dc959b45d6) |
-| Wed, 14 Jan 2026 11:09:00 GMT | illegal tears | JIA’s diary | [Read More](https://medium.com/p/5547deaa3fc9) |
-| Wed, 14 Jan 2026 11:04:38 GMT | Perfect Scores, Real Losses: Why Static Token Scanners Keep Missing Rug Pulls | TestMachine.ai | [Read More](https://medium.com/p/1b8ef75027f0) |
-| Wed, 14 Jan 2026 11:03:57 GMT | Why SaaS Breaches in 2026 Will Come From APIs You Didn’t Test? | Microscan Communications | [Read More](https://medium.com/p/034d32fb0c9c) |
-| Wed, 14 Jan 2026 10:59:19 GMT | Day 6 :File Management and Service Control | Mohammad-AL-Momani | [Read More](https://medium.com/p/3511b82f3e44) |
-| Wed, 14 Jan 2026 10:42:02 GMT | VoidLink Malware: The Advanced Threat Targeting Linux Cloud | Technijian | [Read More](https://medium.com/p/b7d9f8c17149) |
-| Wed, 14 Jan 2026 10:41:10 GMT | 7 duties of a security personnel: what do they do, and why organizations need them | Trust Consulting Services | [Read More](https://medium.com/p/d6c94c7c52d6) |
-| Wed, 14 Jan 2026 10:34:12 GMT | Certified Cybersecurity Technician (CCT) | Ryan Brooks | [Read More](https://medium.com/p/70ded4f1e03a) |
-| Wed, 14 Jan 2026 10:34:03 GMT | From Service Exploit to SYSTEM: Why “Low-Priv” on Windows Is Often a Lie | Yua Mikanana | [Read More](https://medium.com/p/84ee3ade067f) |
