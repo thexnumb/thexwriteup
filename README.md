@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 Jan 2026 07:36:12 GMT | Why I Recommend NordVPN as a BS Cyber Security Student (And Who Actually Needs It) | Minisky | [Read More](https://medium.com/p/42585adc06bf) |
+| Wed, 14 Jan 2026 07:32:50 GMT | Understanding How People Share Passwords in Collectivist Contexts | Andy Afrizal | [Read More](https://medium.com/p/e4ca63064326) |
+| Wed, 14 Jan 2026 07:32:47 GMT | Data Security in Microsoft Fabric | Sam Campitiello | [Read More](https://medium.com/p/9f32b4fb3075) |
+| Wed, 14 Jan 2026 07:32:47 GMT | LLM Backends Need Permissions, Not Prompts: Capability-Based Tooling, Sandboxing, and Audit Trails | Codastra | [Read More](https://medium.com/p/06426c9a9e7b) |
+| Wed, 14 Jan 2026 07:27:06 GMT | Why 50,000+ TPS Is the New Standard for Credential Verification | JadeQuest | [Read More](https://medium.com/p/04b1df657090) |
 | Wed, 14 Jan 2026 07:16:59 GMT | When Kites Fly, So Do Phishing Attacks: Makarsankranti from a Red Team Perspective | Krutik Thakar — Secure Developer - VAPT Associate | [Read More](https://medium.com/p/c953a2f957eb) |
 | Wed, 14 Jan 2026 07:13:27 GMT | He Left the Seat Empty
 Every morning at 7:15, the same bus stopped at the same corner. | Sakhi Writes | [Read More](https://medium.com/p/0b3625efef3d) |
@@ -108,8 +113,3 @@ Every morning at 7:15, the same bus stopped at the same corner. | Sakhi Writes |
 | Tue, 13 Jan 2026 21:54:29 GMT | RUN REPORT: Gmail Support Scam — What happened & what I changed because of it | Robert Hildebrandt | [Read More](https://medium.com/p/a7419393c7bc) |
 | Tue, 13 Jan 2026 21:47:23 GMT | The Real Bottleneck in ML Pipelines Is Coordination, Not Models | Luis M | [Read More](https://medium.com/p/02c80c42bbd9) |
 | Tue, 13 Jan 2026 21:43:18 GMT | The Oldest and Largest Impact Crater on Earth | Abdul | [Read More](https://medium.com/p/d1690974dfb4) |
-| Tue, 13 Jan 2026 21:38:42 GMT | From Interview to Incident Response: How a Fake Job Turned Into a Cyberattack | Sakthi | [Read More](https://medium.com/p/b8d54f26dcea) |
-| Tue, 13 Jan 2026 21:34:44 GMT | When ‘Dead’ Pets Come Back to Life: A Bug I Found on a Pet Platform | SK3PT1K3R | [Read More](https://medium.com/p/97b1aac7de73) |
-| Tue, 13 Jan 2026 21:26:57 GMT | Cybersecurity in 2026: The Attacks You Never See Coming | Abdul Ahad | [Read More](https://medium.com/p/cb5d995f722c) |
-| Tue, 13 Jan 2026 21:19:19 GMT | Shadow Track — Hackviser Real-World Scenario Walkthrough | Hussein 404 | [Read More](https://medium.com/p/a46eea4414ec) |
-| Tue, 13 Jan 2026 21:18:59 GMT | Data Heist — Hackviser Real-World Scenario Walkthrough | Hussein 404 | [Read More](https://medium.com/p/37418c3e8b3b) |
