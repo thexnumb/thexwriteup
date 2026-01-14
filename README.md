@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 Jan 2026 20:13:53 GMT | Strong, or just Numb? | Sahilsoujani | [Read More](https://medium.com/p/81976c3f1db2) |
+| Wed, 14 Jan 2026 20:07:52 GMT | He Left the Seat Empty
+Every morning at 7:15, the same bus stopped at the same corner. | Sakhi Writes | [Read More](https://medium.com/p/a049a8b1cd34) |
+| Wed, 14 Jan 2026 20:05:43 GMT | One VPN, Total Freedom: The Power of NordVPN | Mastani | [Read More](https://medium.com/p/0e98b823ec21) |
+| Wed, 14 Jan 2026 20:01:47 GMT | Apple To Introduce Liquid Authenticate to iOS27 | NTTP | [Read More](https://medium.com/p/a53e16607ec6) |
+| Wed, 14 Jan 2026 19:57:31 GMT | Why ARM Chips Are Replacing x86 | Logic Over Latte | [Read More](https://medium.com/p/7ad7908ffb3a) |
+| Wed, 14 Jan 2026 19:52:29 GMT | Why Millions Trust NordVPN to Stay Anonymous Online | Mastani | [Read More](https://medium.com/p/ba78d90a9240) |
+| Wed, 14 Jan 2026 19:46:57 GMT | Musk’s AI tool Grok will be integrated into Pentagon networks, pete hegseth | Defence Affairs & Analysis By (DAM) | [Read More](https://medium.com/p/40a3e67c2341) |
+| Wed, 14 Jan 2026 19:42:20 GMT | UK OSINT CTF Walkthrough: Tracing “Asset Echo” — A Full Beginner‑Friendly Investigation | Azutech | [Read More](https://medium.com/p/63bf3eb084ba) |
+| Wed, 14 Jan 2026 19:42:19 GMT | Understanding Network Ports and Protocols | Aliyan Ali | [Read More](https://medium.com/p/2d2f5d8bdd2d) |
+| Wed, 14 Jan 2026 19:39:48 GMT | Digital Forensic Investigation: Evidence Integrity Verification and Timeline Reconstruction of a… | Daifullah Noor Azmi | [Read More](https://medium.com/p/dbbc4f437fec) |
 | Wed, 14 Jan 2026 19:25:34 GMT | Pass SC-900 with These 100% Verified Exam Questions | Kiran Krishnakumar | [Read More](https://medium.com/p/efe630d76cbd) |
 | Wed, 14 Jan 2026 19:25:26 GMT | From Spear Phishing to Persistence: An APT Attack Analysis Using MITRE ATT&CK | Hacer Dalkiran | [Read More](https://medium.com/p/d14d1acffdfe) |
 | Wed, 14 Jan 2026 19:24:42 GMT | Why Choosing the Right SAP Service Provider Accelerates Enterprise Growth | 2isolutions Inc. USA | [Read More](https://medium.com/p/012c17ab64f9) |
@@ -103,13 +114,3 @@ The Internet of Things (IoT) has… | Ankit rai | [Read More](https://medium.com
 | Wed, 14 Jan 2026 14:28:14 GMT | ERP RFP Integration: How to Avoid Risks and Pick the Right System | EwelinaOsadchuk | [Read More](https://medium.com/p/274af255cda7) |
 | Wed, 14 Jan 2026 14:22:31 GMT | How to Use AI in Business: Practical Steps, Tools, and Benefits | EwelinaOsadchuk | [Read More](https://medium.com/p/37ee5c155a5b) |
 | Wed, 14 Jan 2026 14:20:13 GMT | Low-Budget Aquaculture Setup: How I Started Fish Farming with Minimal Money | Rodiat Akinbani | [Read More](https://medium.com/p/86d1f778195e) |
-| Wed, 14 Jan 2026 14:20:12 GMT | What Grok Told Me About Elon Musk and the Danger of Worldview Capture | Vanessa Victoria Morales | [Read More](https://medium.com/p/116caa622856) |
-| Wed, 14 Jan 2026 14:17:25 GMT | Top 10 Django Security Best Practices for 2026 (Post-Patch Edition) | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/3d1e7d868ae4) |
-| Wed, 14 Jan 2026 14:08:33 GMT | 2025 Annual Report: 153 Publicly Disclosed Vulnerabilities & 0 False Positives | ZAST AI | [Read More](https://medium.com/p/ba70aaefcca8) |
-| Wed, 14 Jan 2026 14:06:07 GMT | Beyond Alert Chasing: The Detection Engineering Mindset for Modern SIEM | Zyad Waleed Elzyat | [Read More](https://medium.com/p/17e46f7058f6) |
-| Wed, 14 Jan 2026 14:04:53 GMT | New Front Line How NATO Is Turning Cyberspace into Battlefield | Bill Galston | [Read More](https://medium.com/p/69ad77de4a27) |
-| Wed, 14 Jan 2026 14:03:49 GMT | AI Must Not Act Before Judgment | Christopher Caruso | [Read More](https://medium.com/p/dea467d28a8d) |
-| Wed, 14 Jan 2026 14:01:43 GMT | Unhinged or Not | Noriko Yanyan | [Read More](https://medium.com/p/1f11806f8d5a) |
-| Wed, 14 Jan 2026 14:01:23 GMT | Borrowing Security Automation Practices from the Best | h@shtalk | [Read More](https://medium.com/p/41477b71335b) |
-| Wed, 14 Jan 2026 13:51:27 GMT | MongoBleed Explained in Plain English | Faisal Feroz | [Read More](https://medium.com/p/6d7b909f17fe) |
-| Wed, 14 Jan 2026 13:49:26 GMT | Failed Mindset: Compliance-First Security | Ismayil Zeynalov | [Read More](https://medium.com/p/65ee22fc3bf4) |
