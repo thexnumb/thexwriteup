@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 Jan 2026 14:20:12 GMT | What Grok Told Me About Elon Musk and the Danger of Worldview Capture | Vanessa Victoria Morales | [Read More](https://medium.com/p/116caa622856) |
+| Wed, 14 Jan 2026 14:17:25 GMT | Top 10 Django Security Best Practices for 2026 (Post-Patch Edition) | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/3d1e7d868ae4) |
+| Wed, 14 Jan 2026 14:08:33 GMT | 2025 Annual Report: 153 Publicly Disclosed Vulnerabilities & 0 False Positives | ZAST AI | [Read More](https://medium.com/p/ba70aaefcca8) |
+| Wed, 14 Jan 2026 14:06:07 GMT | Beyond Alert Chasing: The Detection Engineering Mindset for Modern SIEM | Zyad Waleed Elzyat | [Read More](https://medium.com/p/17e46f7058f6) |
+| Wed, 14 Jan 2026 14:04:53 GMT | New Front Line How NATO Is Turning Cyberspace into Battlefield | Bill Galston | [Read More](https://medium.com/p/69ad77de4a27) |
+| Wed, 14 Jan 2026 14:03:49 GMT | AI Must Not Act Before Judgment | Christopher Caruso | [Read More](https://medium.com/p/dea467d28a8d) |
+| Wed, 14 Jan 2026 14:01:43 GMT | Unhinged or Not | Noriko Yanyan | [Read More](https://medium.com/p/1f11806f8d5a) |
+| Wed, 14 Jan 2026 14:01:23 GMT | Borrowing Security Automation Practices from the Best | h@shtalk | [Read More](https://medium.com/p/41477b71335b) |
+| Wed, 14 Jan 2026 13:51:27 GMT | MongoBleed Explained in Plain English | Faisal Feroz | [Read More](https://medium.com/p/6d7b909f17fe) |
+| Wed, 14 Jan 2026 13:49:26 GMT | Failed Mindset: Compliance-First Security | Ismayil Zeynalov | [Read More](https://medium.com/p/65ee22fc3bf4) |
+| Wed, 14 Jan 2026 13:49:15 GMT | Stop paying thousands for your education! | The Technovation Hub | [Read More](https://medium.com/p/461c400daf63) |
+| Wed, 14 Jan 2026 13:48:22 GMT | We All Say “WAF”, But What Is It Really? | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/84f11116411d) |
 | Wed, 14 Jan 2026 13:39:18 GMT | How to Choose the Best Security Companies Near Me for Reliable Protection | Security services Near Me | [Read More](https://medium.com/p/63e895db0bb7) |
+| Wed, 14 Jan 2026 13:39:14 GMT | ARINC 429 Bus: Mark 33 DITS — Case Study | Journal of Landing Across Linguistic Foreground | [Read More](https://medium.com/p/f1693064344b) |
+| Wed, 14 Jan 2026 13:37:47 GMT | SQL Injection (SQLi) — Notlarım | Songül Kızılay Özügürler | [Read More](https://medium.com/p/6431eb4bcdda) |
+| Wed, 14 Jan 2026 13:37:31 GMT | Padding Oracles — Write-up (TryHackMe) | Ajay | [Read More](https://medium.com/p/f6c33df845fd) |
 | Wed, 14 Jan 2026 13:36:56 GMT | My Journey Into Penetration Testing | WHHacker | [Read More](https://medium.com/p/52ade7425e0d) |
 | Wed, 14 Jan 2026 13:30:35 GMT | Second-Order SQL Injection | Seiki Rowins Bie | [Read More](https://medium.com/p/99ea28977e22) |
 | Wed, 14 Jan 2026 13:28:48 GMT | How to Properly Gaining Access into System and Target’s Network — Post-Exploitation | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/dc2d1ac6257d) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 Jan 2026 08:32:23 GMT | Minecraft 1.21.50 APK | Bandisharecx | [Read More](https://medium.com/p/8e5f0fc1d4eb) |
 | Wed, 14 Jan 2026 08:32:17 GMT | What Is Cybersecurity Today? (Spoiler: Not What It Used to Be) | Cedrick FOKO | [Read More](https://medium.com/p/80e80856b2df) |
 | Wed, 14 Jan 2026 08:31:35 GMT | Broken Gates: Why OWASP #1 (Access Control) Is the Hottest Ticket in Bug Bounty | Nicholas Mullenski | [Read More](https://medium.com/p/86df2210d3c0) |
-| Wed, 14 Jan 2026 08:29:26 GMT | Ethical OSINT & Red Team Recon on Snapchat | Snooptsz | [Read More](https://medium.com/p/2f928611c8f1) |
-| Wed, 14 Jan 2026 08:19:13 GMT | Risk & Mitigations for LLMs and GENAI Apps: Part 1 — The Reality! | Nothing Cyber [NC] | [Read More](https://medium.com/p/188c69ef0595) |
-| Wed, 14 Jan 2026 08:18:24 GMT | Weekly Threat Intelligence Report 12  Jan 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/21f745f65806) |
-| Wed, 14 Jan 2026 08:16:06 GMT | Basic Knowledge of Cyber Security ✅ | Ahmed | [Read More](https://medium.com/p/90c389f39ac8) |
-| Wed, 14 Jan 2026 08:11:35 GMT | TryHackMe: Watcher Writeup | cbev | [Read More](https://medium.com/p/b00c182b780f) |
-| Wed, 14 Jan 2026 08:08:02 GMT | With AI coding agents on the offence and on the defence, the internet has become a battlefield. | Gerald Maria Dekkers | [Read More](https://medium.com/p/1e9138a8a8c9) |
-| Wed, 14 Jan 2026 08:06:06 GMT | Trust Architecture Failure with OWASP Violations in ING’s Digital Banking Flows (Public Version) | 0trust0day | [Read More](https://medium.com/p/9f57df352864) |
-| Wed, 14 Jan 2026 08:02:32 GMT | The Definitive Guide to Conducting a Cybersecurity Audit Using NIST CSF 2.0 (2026 Edition) | Divyesh Vaishnav | [Read More](https://medium.com/p/07907417d81c) |
-| Wed, 14 Jan 2026 08:01:21 GMT | Uchiha APK | GOCMOD | [Read More](https://medium.com/p/82cc08f941bd) |
-| Wed, 14 Jan 2026 08:01:03 GMT | 21 Misconfigurations That Led to Domain Takeovers | Very Lazy Tech | [Read More](https://medium.com/p/6281bf8791b8) |
-| Wed, 14 Jan 2026 07:57:10 GMT | Android Pentesting Lab Setup 101: A Complete Guide on Kali Linux (Android 12) | Muhammad Fikri Sidik | [Read More](https://medium.com/p/ad63fb7a69a2) |
-| Wed, 14 Jan 2026 07:56:59 GMT | When Phishers Get Phished Back: A SOC-Style Response That Ends Campaigns | ghostyjoe | [Read More](https://medium.com/p/f63918e38164) |
-| Wed, 14 Jan 2026 07:51:40 GMT | Eu só consigo acertar um alvo se conseguir visualizá-lo. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/1995e6852d56) |
-| Wed, 14 Jan 2026 07:51:38 GMT | Cybersecurity Is Breaking in Predictable Patterns | Prerna Shukla | [Read More](https://medium.com/p/dab5fb19d5da) |
-| Wed, 14 Jan 2026 07:44:28 GMT | Beyond the War on Terror: Unraveling Years of West-Islam Confrontation and Cooperation | MASUM BILLAH | [Read More](https://medium.com/p/843741fcde76) |
