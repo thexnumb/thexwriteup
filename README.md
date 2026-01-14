@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 Jan 2026 12:45:08 GMT | Hack The Box — Previous Machine Walk-through | SubhaDip | [Read More](https://medium.com/p/6fd93d79fd63) |
+| Wed, 14 Jan 2026 12:42:43 GMT | PNPT Exam Review 2026 — Passed on My First Attempt in Under 24 Hours | Talha Khatib | [Read More](https://medium.com/p/7f3d4625c013) |
+| Wed, 14 Jan 2026 12:27:06 GMT | Cyber Security Course in Bangalore | sharanya das | [Read More](https://medium.com/p/9a46495be789) |
+| Wed, 14 Jan 2026 12:22:53 GMT | The Invisible Heist at Checkout: Magecart’s 2026 Playbook Is Already Here | Thomas Patterson | [Read More](https://medium.com/p/02131e7f3575) |
+| Wed, 14 Jan 2026 12:21:42 GMT | Feeling: The Cost of Being Alive /// Hissetmek: Canlılığın Bedeli | Melike Balkın Karakaya | [Read More](https://medium.com/p/18daca7937d3) |
+| Wed, 14 Jan 2026 12:17:58 GMT | Building “SOS Guardian”: A Mobile Safety App with Firebase, Twilio, and Expo | 0xKali | [Read More](https://medium.com/p/9dd08a73da3f) |
+| Wed, 14 Jan 2026 12:17:29 GMT | Protect your Django API with Smart Ratelimiting (Async + Redis) ️ | Shkeiryasser | [Read More](https://medium.com/p/76ee67dab616) |
+| Wed, 14 Jan 2026 12:16:47 GMT | SOC342 — CVE‑2025‑53770 SharePoint ToolShell Auth Bypass and RCE | Wrench | [Read More](https://medium.com/p/bf3a023c08d8) |
+| Wed, 14 Jan 2026 12:12:15 GMT | OSINT in Industrial Energy: Securing Offshore Wind Frams | Maxi | [Read More](https://medium.com/p/78da1efab0ad) |
+| Wed, 14 Jan 2026 12:09:30 GMT | Information Technology Degree and Career Opportunities | Releatednews | [Read More](https://medium.com/p/4a32f63a42b5) |
+| Wed, 14 Jan 2026 12:03:43 GMT | AI‑Driven Cybersecurity: Protecting the Future of Digital Businesses | Bizstarttech | [Read More](https://medium.com/p/6b742b9030ad) |
+| Wed, 14 Jan 2026 12:03:20 GMT | Why OT Cyber Security Services in Canada Are Critical for Industrial Safety | Arista Cyber | [Read More](https://medium.com/p/4f776781392d) |
+| Wed, 14 Jan 2026 12:00:44 GMT | # Antivirus və Firewall Sistemləri Necə İşləyir? | cybershieldy.com | [Read More](https://medium.com/p/421ba67acf27) |
+| Wed, 14 Jan 2026 11:54:48 GMT | API Pentest Techniques: Securing the Backdoor of Modern Applications | Esra Kayhan | [Read More](https://medium.com/p/ac6b1c541411) |
+| Wed, 14 Jan 2026 11:52:43 GMT | CVE‑2025‑52691: The SmarterMail Zero‑Auth File Upload Leading to Full RCE | gm0 | [Read More](https://medium.com/p/86e80caedff0) |
+| Wed, 14 Jan 2026 11:51:40 GMT | ️ Custom Exploit Development: A Journey into the Depths of Memory | Esra Kayhan | [Read More](https://medium.com/p/1e8176b60968) |
+| Wed, 14 Jan 2026 11:51:33 GMT | Cloud Security Challenges in a Multi‑Cloud World (2026) | Thinuri Wickramarachchi | [Read More](https://medium.com/p/41de572dec44) |
+| Wed, 14 Jan 2026 11:49:28 GMT | Decision Framework: SOC 2 or ISO 27001? | Consulting4sec | [Read More](https://medium.com/p/d65f000e833b) |
+| Wed, 14 Jan 2026 11:48:36 GMT | Building the Ultimate Android Bug Bounty Lab: Target Recon, Native Crashes, and Static Analysis… | Rezaul Hasan | [Read More](https://medium.com/p/ddddea479dfb) |
+| Wed, 14 Jan 2026 11:44:35 GMT | Darkweb Vendor Imposter Scams: How Fake Sellers Manipulate Trust | Tor BBB | [Read More](https://medium.com/p/1154aeb791d6) |
+| Wed, 14 Jan 2026 11:43:41 GMT | Top-Rated AWS Associate Training Institute in Delhi | cybersecuritycourse | [Read More](https://medium.com/p/117ad91623c5) |
+| Wed, 14 Jan 2026 11:40:20 GMT | 3 Sneaky Ways People Are Tricking AI Resume Scanners (And How Well It Works) | gayatri r | [Read More](https://medium.com/p/e21553845fad) |
 | Wed, 14 Jan 2026 11:36:17 GMT | How Cybersecurity Consulting Services Strengthen Your Security Strategy | SmartCLOUD Australia | [Read More](https://medium.com/p/c5030bdb0ada) |
 | Wed, 14 Jan 2026 11:36:04 GMT | From Normal to Malicious: Understanding Network Traffic with Wireshark | Mafika Seranyane | [Read More](https://medium.com/p/32f4b7376f27) |
 | Wed, 14 Jan 2026 11:35:34 GMT | Pentest PostgreSQL : le “petit port” qui cache parfois un gros incident. | Naïm Aouaichia | [Read More](https://medium.com/p/668f3d6eb1cf) |
@@ -91,25 +113,3 @@ Every morning at 7:15, the same bus stopped at the same corner. | Sakhi Writes |
 | Wed, 14 Jan 2026 07:09:22 GMT | Will AI Save or Sink Healthcare? - The Daily Tech Digest: 14 January 2026 | Souren Stepanyan | [Read More](https://medium.com/p/4c2852e5e58a) |
 | Wed, 14 Jan 2026 07:09:04 GMT | APT41: TOUGHPROGRESS Malware Analysis | Siddharth Avi Singh | [Read More](https://medium.com/p/bf27aaf3d3a0) |
 | Wed, 14 Jan 2026 06:59:48 GMT | Kimwolf Android Botnet Report | Threatsys Technologies Pvt Ltd | [Read More](https://medium.com/p/d239e433658c) |
-| Wed, 14 Jan 2026 06:57:13 GMT | Cloud Security: Best Practices to Protect Data in the Cloud | Intelikk | [Read More](https://medium.com/p/3054236c74d6) |
-| Wed, 14 Jan 2026 06:54:10 GMT | Best Online Networking Training Course in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/5163ffb9577d) |
-| Wed, 14 Jan 2026 06:49:53 GMT | Why Small Businesses Should Care About Cybersecurity (From a Beginner’s Perspective) | Sandra Aganyi | [Read More](https://medium.com/p/b95031e9ed65) |
-| Wed, 14 Jan 2026 06:45:27 GMT | agent security might be a thing! | Himanshu Dubey | [Read More](https://medium.com/p/eee1664f14d6) |
-| Wed, 14 Jan 2026 06:41:30 GMT | OWASP Top 10 Security Risks: Personal Study Notes | Kienlt | [Read More](https://medium.com/p/c0c103c66fb5) |
-| Wed, 14 Jan 2026 06:37:39 GMT | JAVA-COLLECTION_E-8 | Aman Verma | [Read More](https://medium.com/p/982d4cdd0db1) |
-| Wed, 14 Jan 2026 06:25:41 GMT | Ignite Your 2026 Growth: Why Cloud Transformation Services Are Your Enterprise Game-Changer | Emily Harper | [Read More](https://medium.com/p/1dddf29e7471) |
-| Wed, 14 Jan 2026 06:22:15 GMT | Por que sua VPN morre no Baldur’s Gate 3? Uma investigação sobre MTU e Relays | Thiago Menezes | [Read More](https://medium.com/p/7e2a304e1ff0) |
-| Wed, 14 Jan 2026 06:15:08 GMT | Easy 3 Digit Bounty: A Silent Takeover Flaw $$$ | VANSH | [Read More](https://medium.com/p/0ec4f69a36fe) |
-| Wed, 14 Jan 2026 06:03:44 GMT | Vulnerability. | Tanya L. | [Read More](https://medium.com/p/6b72466cd46d) |
-| Wed, 14 Jan 2026 06:03:02 GMT | How Secure Software Practices Protect Business Reputation | Ask IT Support | [Read More](https://medium.com/p/e61a09ef9aab) |
-| Wed, 14 Jan 2026 05:56:40 GMT | Android Pentesting Part 1: Fundamentals | Rahul M S | [Read More](https://medium.com/p/dcc0363cf5f0) |
-| Wed, 14 Jan 2026 05:55:28 GMT | Why Traffic Marshal Services Matter Most During Peak Traffic Hours | Jane Tang | [Read More](https://medium.com/p/2ae759b16942) |
-| Wed, 14 Jan 2026 05:53:36 GMT | IDOR, YOU-DOR, WE ALL DOR for BugForge | 0ber1n | [Read More](https://medium.com/p/de80e7598f78) |
-| Wed, 14 Jan 2026 05:49:52 GMT | Why Basic Cybersecurity is Your New Essential Digital Life Skill | Simeon A. Adedokun | [Read More](https://medium.com/p/6b2799a9e1cd) |
-| Wed, 14 Jan 2026 05:21:03 GMT | Event Security in Houston | Security Houston | [Read More](https://medium.com/p/a46e8658ec95) |
-| Wed, 14 Jan 2026 05:20:24 GMT | Linux Cassandra Security Hardening: Authentication, Authorization, Encryption, and Auditing | JIN | [Read More](https://medium.com/p/bf4f7cd5c985) |
-| Wed, 14 Jan 2026 05:20:24 GMT | Professional Security Guards in Dubai: Roles, Benefits, Costs & How to Choose the Right Provider | MEBS Facility Services | [Read More](https://medium.com/p/339feb32bb92) |
-| Wed, 14 Jan 2026 05:19:07 GMT | ETHICAL HACKER FOR HIRE | Usamalik | [Read More](https://medium.com/p/008d1af590ea) |
-| Wed, 14 Jan 2026 05:16:11 GMT | Turn Your Android Phone Into a Pentesting Suite (No Root Required) | gecr07 | [Read More](https://medium.com/p/62b3f098356c) |
-| Wed, 14 Jan 2026 05:04:42 GMT | Are We Reaching a Digital Tipping Point? Trust, AI, and the Future of Doing Business | Niko Antonogiannis | [Read More](https://medium.com/p/7e204391eb8f) |
-| Wed, 14 Jan 2026 05:03:01 GMT | Splunk: Corelight - Trickbot CTF Write-Up | Jenny | [Read More](https://medium.com/p/d862da23bd0e) |
