@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 Jan 2026 14:40:29 GMT | From Shops to Offices: Why Security Screen Doors Are Becoming a Must-Have | Chloe Taylor | [Read More](https://medium.com/p/a4a9ba90c0c6) |
+| Wed, 14 Jan 2026 14:38:37 GMT | Not a “Replacement,” but an “Overlay” — Strengthening Existing Wallets with the Ultimate Defense | Satelite | [Read More](https://medium.com/p/accc538ac492) |
+| Wed, 14 Jan 2026 14:37:14 GMT | If you weren’t here tomorrow, would your crypto be lost with you? | Bitzo | [Read More](https://medium.com/p/6f7879f7f094) |
+| Wed, 14 Jan 2026 14:35:59 GMT | Why IoT Security Is the Next Major Cybersecurity Challenge
+The Internet of Things (IoT) has… | Ankit rai | [Read More](https://medium.com/p/544d9984acb1) |
+| Wed, 14 Jan 2026 14:35:21 GMT | Cheaper Is Slower, Slower Is Expensive: The Executive Math in Offshore Software Development | Namir Sagheenanajar | [Read More](https://medium.com/p/a9cb888e8416) |
+| Wed, 14 Jan 2026 14:34:26 GMT | When AI Agents Obey the Wrong Master | Niv Rabin | [Read More](https://medium.com/p/913aff17e3ed) |
+| Wed, 14 Jan 2026 14:32:59 GMT | Setting Up and Listening for Incoming Connections: A Complete Guide to Testing Backdoors | Vignesh R | [Read More](https://medium.com/p/bf75bce389f1) |
+| Wed, 14 Jan 2026 14:32:32 GMT | Windows Processes & Threads — A Practical Introduction for Offensive Developers | Cyberlairs | [Read More](https://medium.com/p/71bde3d51258) |
+| Wed, 14 Jan 2026 14:31:41 GMT | If Your Cloud Security Projects Look Like Tutorials, You’re Doing It Wrong. | Taimur Ijlal | [Read More](https://medium.com/p/7682fc27f6c9) |
+| Wed, 14 Jan 2026 14:29:10 GMT | How Randomness Actually Secures HTTPS (Explained Simply) | Nannuri Manoj | [Read More](https://medium.com/p/8ff711b48e16) |
+| Wed, 14 Jan 2026 14:28:14 GMT | ERP RFP Integration: How to Avoid Risks and Pick the Right System | EwelinaOsadchuk | [Read More](https://medium.com/p/274af255cda7) |
+| Wed, 14 Jan 2026 14:22:31 GMT | How to Use AI in Business: Practical Steps, Tools, and Benefits | EwelinaOsadchuk | [Read More](https://medium.com/p/37ee5c155a5b) |
+| Wed, 14 Jan 2026 14:20:13 GMT | Low-Budget Aquaculture Setup: How I Started Fish Farming with Minimal Money | Rodiat Akinbani | [Read More](https://medium.com/p/86d1f778195e) |
 | Wed, 14 Jan 2026 14:20:12 GMT | What Grok Told Me About Elon Musk and the Danger of Worldview Capture | Vanessa Victoria Morales | [Read More](https://medium.com/p/116caa622856) |
 | Wed, 14 Jan 2026 14:17:25 GMT | Top 10 Django Security Best Practices for 2026 (Post-Patch Edition) | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/3d1e7d868ae4) |
 | Wed, 14 Jan 2026 14:08:33 GMT | 2025 Annual Report: 153 Publicly Disclosed Vulnerabilities & 0 False Positives | ZAST AI | [Read More](https://medium.com/p/ba70aaefcca8) |
@@ -99,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 Jan 2026 09:47:00 GMT | What is the difference between IT consulting and tech consulting? | Black Birdit | [Read More](https://medium.com/p/89fbd0439937) |
 | Wed, 14 Jan 2026 09:35:09 GMT | ISO 27701 PIMS vs GDPR: Understanding the Relationship | Kartiksharma | [Read More](https://medium.com/p/9cbb6c439bf8) |
 | Wed, 14 Jan 2026 09:33:01 GMT | The UK Government Just Killed iCloud’s Best Security Feature - Here’s What It Means for Your Files | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/e125e2acdba9) |
-| Wed, 14 Jan 2026 09:18:13 GMT | The Birthday Trick Hackers Use To Break Security | Redfox Security | [Read More](https://medium.com/p/571005c86438) |
-| Wed, 14 Jan 2026 09:15:15 GMT | Sustainable AI Initiatives and the Next Phase of Responsible Enterprise Intelligence | Kaopiz Global | [Read More](https://medium.com/p/e0933120c5ea) |
-| Wed, 14 Jan 2026 09:13:18 GMT | Yesterday I went to a kirana store with my cousin. She’s 12 (Gen Alpha). | Legally Psyched- briefs, breakdown & burnt coffee | [Read More](https://medium.com/p/92b95cc08971) |
-| Wed, 14 Jan 2026 09:12:28 GMT | Love or Loot? My Crash Course in Campus Cybercrime. | Steph | [Read More](https://medium.com/p/2e064f485757) |
-| Wed, 14 Jan 2026 09:11:04 GMT | From Game Theory to Artificial Intelligence and Cybersecurity | Ziya Gokalp | [Read More](https://medium.com/p/57417629de04) |
-| Wed, 14 Jan 2026 09:09:22 GMT | Modern Çağda Espiyonaj: İnsan İstihbaratından Siber Operasyonlara | Ziya Gokalp | [Read More](https://medium.com/p/6e4b7ba89b19) |
-| Wed, 14 Jan 2026 09:06:30 GMT | Lab: Web cache poisoning via an unkeyed query string - Portswiger | L4V4NY4  AGR3 | [Read More](https://medium.com/p/e8d7c271008e) |
-| Wed, 14 Jan 2026 09:02:55 GMT | Stealer Logs Explained: Why Your Password Was Stolen Without Anyone Hacking You | Alexandre Vandamme | [Read More](https://medium.com/p/7347abf9fe1b) |
-| Wed, 14 Jan 2026 08:56:53 GMT | How IoT Devices Get Hacked and How to Prevent It? | Meerab Khan | [Read More](https://medium.com/p/48f2164e73a3) |
-| Wed, 14 Jan 2026 08:40:27 GMT | DPoP Nonce | Takahiko Kawasaki | [Read More](https://medium.com/p/9787b9d276d1) |
-| Wed, 14 Jan 2026 08:32:23 GMT | Minecraft 1.21.50 APK | Bandisharecx | [Read More](https://medium.com/p/8e5f0fc1d4eb) |
-| Wed, 14 Jan 2026 08:32:17 GMT | What Is Cybersecurity Today? (Spoiler: Not What It Used to Be) | Cedrick FOKO | [Read More](https://medium.com/p/80e80856b2df) |
-| Wed, 14 Jan 2026 08:31:35 GMT | Broken Gates: Why OWASP #1 (Access Control) Is the Hottest Ticket in Bug Bounty | Nicholas Mullenski | [Read More](https://medium.com/p/86df2210d3c0) |
