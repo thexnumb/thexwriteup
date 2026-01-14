@@ -12,14 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 Jan 2026 23:06:01 GMT | TINY THINGS WITH SHARP EDGES | Ink & Ember ️ | [Read More](https://medium.com/p/381553837cfa) |
+| Wed, 14 Jan 2026 23:03:15 GMT | FAANG Is a Career Trap, Not a Dream Job | Logic Over Latte | [Read More](https://medium.com/p/65e470b22b35) |
+| Wed, 14 Jan 2026 23:01:22 GMT | Password Checker | Aaronashley | [Read More](https://medium.com/p/9bd119509928) |
+| Wed, 14 Jan 2026 23:01:20 GMT | Does Compliance Really Make your Organization Safer? | Citiz3n | [Read More](https://medium.com/p/f1a41fbb7625) |
 | Wed, 14 Jan 2026 22:45:12 GMT | How an LLM is making my bulletproof casual game | Benjamin Jordan | [Read More](https://medium.com/p/e986c4844c1f) |
 | Wed, 14 Jan 2026 22:44:52 GMT | LetsTechTogether: Free Tech Support Drop-In | letstechtogether | [Read More](https://medium.com/p/f27ede20440c) |
+| Wed, 14 Jan 2026 22:42:35 GMT | Part 1. ​If Tomorrow There Is Still Us | Kata.Q | [Read More](https://medium.com/p/5373112ae69d) |
 | Wed, 14 Jan 2026 22:32:04 GMT | 30 Days of Red Team: Day 16 — Windows Privilege Escalation | Maxwell Cross | [Read More](https://medium.com/p/9a2ed6f64791) |
 | Wed, 14 Jan 2026 22:31:28 GMT | Forays into Threat Intelligence — Part Deux — Lazarus, here we come! | Vishwa T | [Read More](https://medium.com/p/49e1361729f4) |
 | Wed, 14 Jan 2026 22:21:19 GMT | Fortress Protocol: Building a Secure, Private, and Inclusive Digital Future | Fortress Protocol | [Read More](https://medium.com/p/9bc19584ea68) |
 | Wed, 14 Jan 2026 22:17:15 GMT | GSEC Yolculuğu #2: Kablolardan Sinyallere — L1 ve L2 Dünyası | Ata Erdemir | [Read More](https://medium.com/p/86085fb2b28a) |
 | Wed, 14 Jan 2026 21:41:19 GMT | DNS Log Analysis using Splunk | Jason Hoskins Jr. | [Read More](https://medium.com/p/cd5a18f47aca) |
 | Wed, 14 Jan 2026 21:38:51 GMT | How Security Teams Can Use Shodan.io to See What Attackers See | Mohsin Khan | [Read More](https://medium.com/p/8f06d5b5d424) |
+| Wed, 14 Jan 2026 21:37:20 GMT | I Watched My Boyfriend Get Scammed While Job Hunting. Then I Built a Way to Fight Back. | Aubrey | [Read More](https://medium.com/p/cb0ac23456af) |
 | Wed, 14 Jan 2026 21:34:54 GMT | How to Protect Yourself From Malicious Links and Online Scams | Ifebuche Juliet | [Read More](https://medium.com/p/f1cf80238274) |
 | Wed, 14 Jan 2026 21:34:48 GMT | Hacked Despite 2FA: My LinkedIn Hack Lessons | Ebube Nwankwo | [Read More](https://medium.com/p/d1bb6b8fd8cd) |
 | Wed, 14 Jan 2026 21:29:05 GMT | Why I Built VaultKey Offline Password Manager (And Why I Resisted It for a Long Time) | MoogleTechnology Canada | [Read More](https://medium.com/p/4e615f880845) |
@@ -107,9 +113,3 @@ Every morning at 7:15, the same bus stopped at the same corner. | Sakhi Writes |
 | Wed, 14 Jan 2026 16:33:08 GMT | The Death of Privacy in the “Always-On” Future | Del Schlangen | [Read More](https://medium.com/p/1933824cd481) |
 | Wed, 14 Jan 2026 16:32:05 GMT | How Security Guard Services in Tarzana Protect Retail Spaces Effectively? | Reliable Security Services Blog | [Read More](https://medium.com/p/6e82dec06365) |
 | Wed, 14 Jan 2026 16:30:33 GMT | Kahve İçerken Hacklenmek | HSD ATLAS | [Read More](https://medium.com/p/1a20938cb9b3) |
-| Wed, 14 Jan 2026 16:30:21 GMT | How Attackers Move Inside a Network Once They’re In | Digital Defense | [Read More](https://medium.com/p/b6ec4d3d5bb4) |
-| Wed, 14 Jan 2026 16:24:19 GMT | Why Most Organizations Are Still Vulnerable, Even After Running Vulnerability Scans? | Livindu Peiris | [Read More](https://medium.com/p/9ed1b5b17148) |
-| Wed, 14 Jan 2026 16:21:57 GMT | The Future of Cybersecurity in 2026: Threats, Trends, and Protection Strategies | Techridge Solutions | [Read More](https://medium.com/p/6a097df17cd5) |
-| Wed, 14 Jan 2026 16:20:56 GMT | Firewalls — Writeup | Mahir | [Read More](https://medium.com/p/c93e929d7a44) |
-| Wed, 14 Jan 2026 16:04:31 GMT | Wars Are Becoming Optimization Problems | Om mishra | [Read More](https://medium.com/p/d47d6832af3f) |
-| Wed, 14 Jan 2026 16:00:33 GMT | Smart Shop Security That Works Even Without Internet | Mhrhelal | [Read More](https://medium.com/p/39a87b14c814) |
