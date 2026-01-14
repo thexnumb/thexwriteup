@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 Jan 2026 04:42:12 GMT | Securing the Build: A Deep Dive into a Symlink Race Condition in Google’s Distroless | Anandppatil | [Read More](https://medium.com/p/997157d9c965) |
+| Wed, 14 Jan 2026 04:16:42 GMT | Hack Gangstar Vegas | Apkpuredev | [Read More](https://medium.com/p/bacebb80f743) |
+| Wed, 14 Jan 2026 04:14:16 GMT | How I Found a Critical SSRF (Very Easily) Through Redirect Bypass | Be nice insabat | [Read More](https://medium.com/p/1bddcc068984) |
+| Wed, 14 Jan 2026 04:12:48 GMT | How AI Will Reshape Industries in the Next 10 Years | Shahzad Ahmad | [Read More](https://medium.com/p/9c812a2df62e) |
+| Wed, 14 Jan 2026 04:08:57 GMT | Log Analysis with SIEM. TryHackMe Walkthrough. | Lintu Oommen | [Read More](https://medium.com/p/e5d3b910b2e1) |
+| Wed, 14 Jan 2026 04:03:30 GMT | CISO Red-Teams the AI Tools to Protect the Company | Matthew.Rosenquist | [Read More](https://medium.com/p/36f888fa2aea) |
+| Wed, 14 Jan 2026 03:58:29 GMT | How to Stop Your NL2SQL Agents From Crashing in Production: The Worker-Pool Pattern | Nadeem Khan(NK) | [Read More](https://medium.com/p/f575c832af69) |
 | Wed, 14 Jan 2026 03:50:37 GMT | Cloudbric Mask Global Service Launch | Cloudbric | [Read More](https://medium.com/p/6ee4d2b5180d) |
 | Wed, 14 Jan 2026 03:50:06 GMT | 영상/사진 비식별화 서비스(Cloudbric Mask) 글로벌 서비스 오픈 | Cloudbric | [Read More](https://medium.com/p/07438ff1746e) |
 | Wed, 14 Jan 2026 03:48:18 GMT | OverTheWire Bandit (Day 14): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/083e5bdb721c) |
@@ -106,10 +113,3 @@ Starting Out: The First… | Urooj Zeeshan | [Read More](https://medium.com/p/98
 | Tue, 13 Jan 2026 18:46:51 GMT | The Future of IoT in 2026: Trends, Security, and Business Impact | Techridge Solutions | [Read More](https://medium.com/p/1fe7861b4091) |
 | Tue, 13 Jan 2026 18:39:00 GMT | How I Found a Critical Biometric 2FA Bypass… and Lost the Bounty | LETCHU PKT | [Read More](https://medium.com/p/9c38441640c4) |
 | Tue, 13 Jan 2026 18:38:52 GMT | Day 3 of Learning AWS: Elastic IP and Elastic Block Storage | Muhammad Kashif | [Read More](https://medium.com/p/df72bcb50e3c) |
-| Tue, 13 Jan 2026 18:36:46 GMT | Quasitek Solutions Gulf: Empowering the Next Generation of GCC Businesses | Quasitek Solutions | [Read More](https://medium.com/p/fda97e6e99b2) |
-| Tue, 13 Jan 2026 18:29:57 GMT | Attack that can shutdown your network (SNMP) — Phase 1 | Shaik afrid | [Read More](https://medium.com/p/4daf22bcbf7c) |
-| Tue, 13 Jan 2026 18:24:42 GMT | Cyber Security Solutions in India & Dubai | Lumiversesolution | [Read More](https://medium.com/p/e595dc3726ee) |
-| Tue, 13 Jan 2026 18:23:00 GMT | Breaking AES with Bits and Volts: A Guide to Side-Channel Attacks (Part A) | Sanjana | [Read More](https://medium.com/p/d01445dc6f9c) |
-| Tue, 13 Jan 2026 18:21:19 GMT | Phishing Email Analysis — A Blue Team Labs Online Case Study. | Umang Mishra | [Read More](https://medium.com/p/336d350af34a) |
-| Tue, 13 Jan 2026 18:20:53 GMT | The Digital Renaissance: Navigating the Future of Education and Literacy | Simeon A. Adedokun | [Read More](https://medium.com/p/fbf6e26340c9) |
-| Tue, 13 Jan 2026 18:20:28 GMT | Day 1- CEH V13 Cybersecurity Learning Journey | Arun kumar G | [Read More](https://medium.com/p/8fdb2dc30f49) |
