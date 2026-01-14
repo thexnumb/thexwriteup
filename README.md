@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 Jan 2026 03:50:37 GMT | Cloudbric Mask Global Service Launch | Cloudbric | [Read More](https://medium.com/p/6ee4d2b5180d) |
+| Wed, 14 Jan 2026 03:50:06 GMT | 영상/사진 비식별화 서비스(Cloudbric Mask) 글로벌 서비스 오픈 | Cloudbric | [Read More](https://medium.com/p/07438ff1746e) |
+| Wed, 14 Jan 2026 03:48:18 GMT | OverTheWire Bandit (Day 14): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/083e5bdb721c) |
+| Wed, 14 Jan 2026 03:45:53 GMT | So I Turned My Vinyl Records Into Passwords | d.io.nh | [Read More](https://medium.com/p/2ceebbf383b5) |
+| Wed, 14 Jan 2026 03:40:18 GMT | Malspam Campaign Abusing Microsoft Outlook to Deploy LogMeIn GoToResolve RMM | Regan Temudo | [Read More](https://medium.com/p/0dacc8bf7f17) |
+| Wed, 14 Jan 2026 03:40:03 GMT | OSINT Under the Hood: Landing the Job and showcasing Your OSINT Skills | Rabail Zaheer | [Read More](https://medium.com/p/5e585b1e1595) |
+| Wed, 14 Jan 2026 03:39:51 GMT | How AI Is Transforming Security Analysis in Modern Java Systems | Mustapha Aitigunaoun | [Read More](https://medium.com/p/51346501d892) |
+| Wed, 14 Jan 2026 03:39:44 GMT | A List of Every Cybersecurity Abbreviation There Is (Part 2) | Raymond Ebonine | [Read More](https://medium.com/p/78afb70d9cdd) |
+| Wed, 14 Jan 2026 03:39:31 GMT | Tools that bug bounty hunter should know for Beginner | Mainekhacker | [Read More](https://medium.com/p/47b41969bee9) |
+| Wed, 14 Jan 2026 03:36:36 GMT | Apple Just Admitted It Can’t Build AI (And Paid Google $1 Billion to Fix It) | Ronald Kimmons | [Read More](https://medium.com/p/e2f5146dd725) |
+| Wed, 14 Jan 2026 03:32:48 GMT | 6 Common SSRF Risks in Node.js | Arunangshu Das | [Read More](https://medium.com/p/515c243d100a) |
+| Wed, 14 Jan 2026 03:11:52 GMT | Bad Bed Bugs | Orion O'Connor | [Read More](https://medium.com/p/82464b40d6f1) |
+| Wed, 14 Jan 2026 02:59:13 GMT | Tai The Spike — Volleyball Story Hack Cau Thu Moi Nhat | TaiModApk | [Read More](https://medium.com/p/a44172d780c7) |
+| Wed, 14 Jan 2026 02:53:23 GMT | Zero Trust Is Not a Product: How Most Companies Get It Wrong | Paritosh | [Read More](https://medium.com/p/70d09e2b3107) |
+| Wed, 14 Jan 2026 02:49:15 GMT | Connecting to the Internet — Network Series 5 | Mr.Cool | [Read More](https://medium.com/p/da6d72c45b5e) |
+| Wed, 14 Jan 2026 02:23:22 GMT | Designing the Authorization Data Cube: Turning Access Decisions Into Learning? | Zeigeist | [Read More](https://medium.com/p/a93e00ff7292) |
+| Wed, 14 Jan 2026 02:22:38 GMT | AI, Edge, and Security Redefine Infrastructure Management | Valentin Podkamennyi | [Read More](https://medium.com/p/de7ff67c9f89) |
+| Wed, 14 Jan 2026 02:19:56 GMT | CVEs as “Feature Catalogs”: The Terrifying Reality of Automated, Version-Specific Exploit Kits… | Ryu360 | [Read More](https://medium.com/p/5194b31bd7c8) |
+| Wed, 14 Jan 2026 01:53:57 GMT | Can I Contact AVG Customer Service Number UK | Zuerevalexander | [Read More](https://medium.com/p/7c22d46b47c5) |
 | Wed, 14 Jan 2026 01:45:30 GMT | How To Support Yahoo Customer Service Number UK | Zuerevalexander | [Read More](https://medium.com/p/4a73ae9adce8) |
 | Wed, 14 Jan 2026 01:38:03 GMT | How To Support McAfee Customer Service Number Australia | Customer Support Information | [Read More](https://medium.com/p/ab774179f9f6) |
 | Wed, 14 Jan 2026 01:31:04 GMT | Automating the Enterprise SOC: How I Built a Detection Pipeline with Splunk, n8n, and Active… | Aniket Agarwal | [Read More](https://medium.com/p/8cf2dd254e6c) |
@@ -94,22 +113,3 @@ Starting Out: The First… | Urooj Zeeshan | [Read More](https://medium.com/p/98
 | Tue, 13 Jan 2026 18:21:19 GMT | Phishing Email Analysis — A Blue Team Labs Online Case Study. | Umang Mishra | [Read More](https://medium.com/p/336d350af34a) |
 | Tue, 13 Jan 2026 18:20:53 GMT | The Digital Renaissance: Navigating the Future of Education and Literacy | Simeon A. Adedokun | [Read More](https://medium.com/p/fbf6e26340c9) |
 | Tue, 13 Jan 2026 18:20:28 GMT | Day 1- CEH V13 Cybersecurity Learning Journey | Arun kumar G | [Read More](https://medium.com/p/8fdb2dc30f49) |
-| Tue, 13 Jan 2026 18:19:10 GMT | Stop Building Capabilities. Start Measuring Probabilities. | Mikhaylo Pavlyuk | [Read More](https://medium.com/p/b785b805c6f0) |
-| Tue, 13 Jan 2026 18:17:02 GMT | Troubleshooting Splunk Enterprise on Apple M4 Silicon(Parallels) : A Technical Guide | Kavinda De Alwis | [Read More](https://medium.com/p/a5deec1db97a) |
-| Tue, 13 Jan 2026 18:16:29 GMT | Impacket Developer Guide. Part 3. Make your own Lateral Movement | CICADA8 | [Read More](https://medium.com/p/a2f8181f657b) |
-| Tue, 13 Jan 2026 18:13:39 GMT | WEB3 Security Trivia Night on Our Discord! | Radcipher | [Read More](https://medium.com/p/05189007b825) |
-| Tue, 13 Jan 2026 18:09:55 GMT | Why Being Honest Feels More Dangerous Than Being Lonely | Healing Out Loud | [Read More](https://medium.com/p/d95e222b1b71) |
-| Tue, 13 Jan 2026 18:08:04 GMT | Key Highlights for the 2026 Cybersecurity Forecast | TechDemocracy | [Read More](https://medium.com/p/c7cc2780a4da) |
-| Tue, 13 Jan 2026 18:07:59 GMT | MFA Is Only as Strong as Its Implementation | Abduhalim Beknazarov | [Read More](https://medium.com/p/ea5565a9f6ad) |
-| Tue, 13 Jan 2026 18:05:37 GMT | In Memoriam - Dog Years | Julio Oña | [Read More](https://medium.com/p/2bd1ce53ac60) |
-| Tue, 13 Jan 2026 18:05:26 GMT | Why Agentic AI Needs a Safety Case, Not Just a Security Model | Muhammad Ali Khan | [Read More](https://medium.com/p/fa40140b1b0c) |
-| Tue, 13 Jan 2026 18:03:46 GMT | Building a Realistic Windows Server 2019 Security Lab (AD, DNS, DHCP, FTP, SMTP & VPN) | Sujal Adhikari | [Read More](https://medium.com/p/3dc055ab5fee) |
-| Tue, 13 Jan 2026 17:59:37 GMT | Dumping Full db through Apache superset | Ahmed Algohary | [Read More](https://medium.com/p/4d3b6dd25fa9) |
-| Tue, 13 Jan 2026 17:59:03 GMT | Try Hack Me- HaskHell CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/9a154c5094b6) |
-| Tue, 13 Jan 2026 17:57:24 GMT | Don’t let phishers fake-login your Facebook face | Sudarshan | [Read More](https://medium.com/p/5b549cd0efd1) |
-| Tue, 13 Jan 2026 17:42:44 GMT | Turning QR Codes into Offline, Verifiable Image Files: QPI — QR Pixel Imaging | J Colten | [Read More](https://medium.com/p/5404e46754d0) |
-| Tue, 13 Jan 2026 17:41:43 GMT | A UN Peacekeeping Mandate for Ukraine Isn’t Idealism — It’s Operational Durability | Parker Jansen | [Read More](https://medium.com/p/ba81c9735e97) |
-| Tue, 13 Jan 2026 17:41:08 GMT | The Immutable Witness: How Blockchain Identity Systems are Rewriting the Rules on Financial Crime | Satyam | [Read More](https://medium.com/p/d5969a041989) |
-| Tue, 13 Jan 2026 17:29:33 GMT | The Ransomware Cartel: A Million Pounds Business | Sharwari Dali | [Read More](https://medium.com/p/635a50eab9d7) |
-| Tue, 13 Jan 2026 17:19:34 GMT | Army Dog Center Islamabad 03009195279 | Army Dog Center Rawalpindi 03009195279 | [Read More](https://medium.com/p/dbf7e6b6d4fc) |
-| Tue, 13 Jan 2026 17:18:39 GMT | OSINT Tools and Techniques | ZaslonX - Cybersecurity | [Read More](https://medium.com/p/526ac1b9413a) |
