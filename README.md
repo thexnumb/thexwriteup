@@ -12,14 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 Jan 2026 18:32:12 GMT | Red Teaming em IA: aplicando o NIST AI RMF com Promptfoo no Amazon Bedrock | Mauro Camargo | [Read More](https://medium.com/p/497c3c19559a) |
+| Wed, 14 Jan 2026 18:28:06 GMT | CORS Issues in Spring Boot and How I Fix Them in Real Projects | Er Alice Paul | [Read More](https://medium.com/p/f75812dcfa5c) |
+| Wed, 14 Jan 2026 18:25:14 GMT | A 5-Day Bug Bounty Hunt on a Telecom Target: From Recon to RXSS and Open Redirect | SpiX-7 | [Read More](https://medium.com/p/119a27f8e37b) |
+| Wed, 14 Jan 2026 18:23:50 GMT | Secure Kubernetes Deployment Guide (Self-Managed) — Part I | SOCFortress | [Read More](https://medium.com/p/a3f205972648) |
+| Wed, 14 Jan 2026 18:17:37 GMT | Legacy Domains: The Backdoor in Your Signed URL Strategy | Omer Itach | [Read More](https://medium.com/p/598f921d3b85) |
+| Wed, 14 Jan 2026 18:09:55 GMT | Host Header Injection: A Practical Methodology for Security Testing | Israel Aráoz Severiche | [Read More](https://medium.com/p/c5dab8abf2cf) |
+| Wed, 14 Jan 2026 18:08:44 GMT | The Post-Cloud Era: Why 2026 is the Year of “Small Data” and the Zero-Trust Edge | Ali Zafar | [Read More](https://medium.com/p/5f9eb23361ca) |
+| Wed, 14 Jan 2026 18:00:21 GMT | Security Analysis and Program Hardening on a Flask–SQLite CRUD App | Daifullah Noor Azmi | [Read More](https://medium.com/p/88376338fe06) |
+| Wed, 14 Jan 2026 17:56:30 GMT | 25 Most Common Penetration Testing Interview Questions You Need to Know | The Daily Cyber News | [Read More](https://medium.com/p/58535b87ba45) |
+| Wed, 14 Jan 2026 17:53:12 GMT | Vein Biometrics: A New U.S. Patent Strengthens the Security of Sensitive IT Environments | Global ID | [Read More](https://medium.com/p/a999bbf73bd5) |
+| Wed, 14 Jan 2026 17:48:43 GMT | Saudi PDPL: Are You In Scope? What Every C-Level Needs to Know | Sahl - GRC with AI | [Read More](https://medium.com/p/568cda97416c) |
+| Wed, 14 Jan 2026 17:46:49 GMT | Ni8mare: Unmasking the Ghost in the Workflow (CVE-2026–21858) | Mr.MELVIN | [Read More](https://medium.com/p/1d73a49fec78) |
+| Wed, 14 Jan 2026 17:45:00 GMT | Web Application Security Testing: Ensuring Safe Digital Experiences | Practical Logix | [Read More](https://medium.com/p/49e7d499f569) |
 | Wed, 14 Jan 2026 17:44:20 GMT | Website Security Scanning Tools: A Practical Guide to 15 Free and Open-Source Options | Ewan Mak | [Read More](https://medium.com/p/b9f2f93408fe) |
+| Wed, 14 Jan 2026 17:43:35 GMT | Linux Isn’t Just Free Software—It’s Quiet Rebellion | Proditive - Smart Apps . Maximum Productivity | [Read More](https://medium.com/p/7b9f9cb5ddd3) |
 | Wed, 14 Jan 2026 17:42:49 GMT | Bug bite dream. | Narendhar Venkatesan | [Read More](https://medium.com/p/a9799b52e1e0) |
+| Wed, 14 Jan 2026 17:39:54 GMT | The 2026 Guide to landing a tech role | CheddarB0b42 | [Read More](https://medium.com/p/3b5e5d681c39) |
 | Wed, 14 Jan 2026 17:39:32 GMT | ️DC: 7— Complete Walkthrough (Beginner-Friendly) - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/e8462d342044) |
 | Wed, 14 Jan 2026 17:36:31 GMT | Dating.com and AmoLatina: When “Dating” Is Just Paid Virtual Conversation | AKUMAAYORI | [Read More](https://medium.com/p/c3f5d2b5379b) |
 | Wed, 14 Jan 2026 17:36:09 GMT | Why Thinking Like an Attacker Changes Everything in Cybersecurity | Daniel Isaac E | [Read More](https://medium.com/p/3cbcf6061d34) |
 | Wed, 14 Jan 2026 17:34:10 GMT | Behind the EV Charging: Who is a CPO and Why Cybersecurity Matters More Than Ever? | BaudSkidNinja | [Read More](https://medium.com/p/d975cf1ecb6f) |
 | Wed, 14 Jan 2026 17:32:42 GMT | Jailbreak Detection Bypass Using LLDB: No Escape—iOS Jailbreak Detection Challenge | Kyrillos nady | [Read More](https://medium.com/p/881fd8e89ed0) |
 | Wed, 14 Jan 2026 17:30:02 GMT | Post-quantum Readiness for Long-Retention Public Records | Letro | [Read More](https://medium.com/p/da95118efef8) |
+| Wed, 14 Jan 2026 17:27:18 GMT | “You Have 24 Hours”: The Email That Almost Made Me Panic — And What I Learned About Copyright… | Jithin Sanal | [Read More](https://medium.com/p/012f8058c46e) |
 | Wed, 14 Jan 2026 17:24:08 GMT | Security Camera Installation: A Quiet Guardian for Homes and Businesses | Alex Bryn | [Read More](https://medium.com/p/7907907831a3) |
 | Wed, 14 Jan 2026 17:23:13 GMT | Ethical Hacking Course in Trivandrum : A Practical Way Into a High Demand Cyber Security Career | Vazeem Akram | [Read More](https://medium.com/p/39fe025171b0) |
 | Wed, 14 Jan 2026 17:12:31 GMT | New MacSync Malware Variant Bypasses macOS Gatekeeper Using Apple-Signed Disguise | Tech Intel | [Read More](https://medium.com/p/11c4632a37b7) |
@@ -97,19 +113,3 @@ The Internet of Things (IoT) has… | Ankit rai | [Read More](https://medium.com
 | Wed, 14 Jan 2026 13:25:23 GMT | Cybersecurity — Firewall Configuration Review: A Hands-On Example | Rahul Singh Chauhan | [Read More](https://medium.com/p/5213f7f00f4f) |
 | Wed, 14 Jan 2026 13:16:33 GMT | Hidden Security Vulnerabilities in a Simple Machine Learning Pipeline | VINAYAK KUMAR | [Read More](https://medium.com/p/647f5b8decaf) |
 | Wed, 14 Jan 2026 13:13:03 GMT | Most System Failures Start as Small Exceptions | Mwenda Kelvin | [Read More](https://medium.com/p/4723965403d3) |
-| Wed, 14 Jan 2026 13:07:12 GMT | Be selfish and choose you. | Ihuoma ❤️ | [Read More](https://medium.com/p/3e2cbf00b055) |
-| Wed, 14 Jan 2026 13:06:26 GMT | CVE‑2026‑22781: TinyWeb’s Critical OS Command Injection Flaw | gm0 | [Read More](https://medium.com/p/884702d15c98) |
-| Wed, 14 Jan 2026 13:05:17 GMT | Mental Health in 2026 [Trends, Tips & Tools You Need] | Mr.Ali | [Read More](https://medium.com/p/7095398e340d) |
-| Wed, 14 Jan 2026 13:00:45 GMT | Web Security 101: Authentication 1.0 | Bit by Bit | [Read More](https://medium.com/p/3ba0a7fe9f7f) |
-| Wed, 14 Jan 2026 13:00:35 GMT | Network Detection and Response (NDR) Solutions Health Check | NetWitness | [Read More](https://medium.com/p/01deaebd498b) |
-| Wed, 14 Jan 2026 12:45:08 GMT | Hack The Box — Previous Machine Walk-through | SubhaDip | [Read More](https://medium.com/p/6fd93d79fd63) |
-| Wed, 14 Jan 2026 12:42:43 GMT | PNPT Exam Review 2026 — Passed on My First Attempt in Under 24 Hours | Talha Khatib | [Read More](https://medium.com/p/7f3d4625c013) |
-| Wed, 14 Jan 2026 12:27:06 GMT | Cyber Security Course in Bangalore | sharanya das | [Read More](https://medium.com/p/9a46495be789) |
-| Wed, 14 Jan 2026 12:22:53 GMT | The Invisible Heist at Checkout: Magecart’s 2026 Playbook Is Already Here | Thomas Patterson | [Read More](https://medium.com/p/02131e7f3575) |
-| Wed, 14 Jan 2026 12:21:42 GMT | Feeling: The Cost of Being Alive /// Hissetmek: Canlılığın Bedeli | Melike Balkın Karakaya | [Read More](https://medium.com/p/18daca7937d3) |
-| Wed, 14 Jan 2026 12:17:58 GMT | Building “SOS Guardian”: A Mobile Safety App with Firebase, Twilio, and Expo | 0xKali | [Read More](https://medium.com/p/9dd08a73da3f) |
-| Wed, 14 Jan 2026 12:17:29 GMT | Protect your Django API with Smart Ratelimiting (Async + Redis) ️ | Shkeiryasser | [Read More](https://medium.com/p/76ee67dab616) |
-| Wed, 14 Jan 2026 12:16:47 GMT | SOC342 — CVE‑2025‑53770 SharePoint ToolShell Auth Bypass and RCE | Wrench | [Read More](https://medium.com/p/bf3a023c08d8) |
-| Wed, 14 Jan 2026 12:12:15 GMT | OSINT in Industrial Energy: Securing Offshore Wind Frams | Maxi | [Read More](https://medium.com/p/78da1efab0ad) |
-| Wed, 14 Jan 2026 12:09:30 GMT | Information Technology Degree and Career Opportunities | Releatednews | [Read More](https://medium.com/p/4a32f63a42b5) |
-| Wed, 14 Jan 2026 12:03:43 GMT | AI‑Driven Cybersecurity: Protecting the Future of Digital Businesses | Bizstarttech | [Read More](https://medium.com/p/6b742b9030ad) |
