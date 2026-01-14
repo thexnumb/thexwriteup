@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 Jan 2026 07:16:59 GMT | When Kites Fly, So Do Phishing Attacks: Makarsankranti from a Red Team Perspective | Krutik Thakar — Secure Developer - VAPT Associate | [Read More](https://medium.com/p/c953a2f957eb) |
+| Wed, 14 Jan 2026 07:13:27 GMT | He Left the Seat Empty
+Every morning at 7:15, the same bus stopped at the same corner. | Sakhi Writes | [Read More](https://medium.com/p/0b3625efef3d) |
+| Wed, 14 Jan 2026 07:11:56 GMT | Everyday Computer Safety Simplified by Antivirus for Windows | Siyanoav | [Read More](https://medium.com/p/3b4ac322eeb8) |
+| Wed, 14 Jan 2026 07:09:22 GMT | Will AI Save or Sink Healthcare? - The Daily Tech Digest: 14 January 2026 | Souren Stepanyan | [Read More](https://medium.com/p/4c2852e5e58a) |
+| Wed, 14 Jan 2026 07:09:04 GMT | APT41: TOUGHPROGRESS Malware Analysis | Siddharth Avi Singh | [Read More](https://medium.com/p/bf27aaf3d3a0) |
+| Wed, 14 Jan 2026 06:59:48 GMT | Kimwolf Android Botnet Report | Threatsys Technologies Pvt Ltd | [Read More](https://medium.com/p/d239e433658c) |
+| Wed, 14 Jan 2026 06:57:13 GMT | Cloud Security: Best Practices to Protect Data in the Cloud | Intelikk | [Read More](https://medium.com/p/3054236c74d6) |
+| Wed, 14 Jan 2026 06:54:10 GMT | Best Online Networking Training Course in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/5163ffb9577d) |
+| Wed, 14 Jan 2026 06:49:53 GMT | Why Small Businesses Should Care About Cybersecurity (From a Beginner’s Perspective) | Sandra Aganyi | [Read More](https://medium.com/p/b95031e9ed65) |
+| Wed, 14 Jan 2026 06:45:27 GMT | agent security might be a thing! | Himanshu Dubey | [Read More](https://medium.com/p/eee1664f14d6) |
+| Wed, 14 Jan 2026 06:41:30 GMT | OWASP Top 10 Security Risks: Personal Study Notes | Kienlt | [Read More](https://medium.com/p/c0c103c66fb5) |
 | Wed, 14 Jan 2026 06:37:39 GMT | JAVA-COLLECTION_E-8 | Aman Verma | [Read More](https://medium.com/p/982d4cdd0db1) |
 | Wed, 14 Jan 2026 06:25:41 GMT | Ignite Your 2026 Growth: Why Cloud Transformation Services Are Your Enterprise Game-Changer | Emily Harper | [Read More](https://medium.com/p/1dddf29e7471) |
+| Wed, 14 Jan 2026 06:22:15 GMT | Por que sua VPN morre no Baldur’s Gate 3? Uma investigação sobre MTU e Relays | Thiago Menezes | [Read More](https://medium.com/p/7e2a304e1ff0) |
 | Wed, 14 Jan 2026 06:15:08 GMT | Easy 3 Digit Bounty: A Silent Takeover Flaw $$$ | VANSH | [Read More](https://medium.com/p/0ec4f69a36fe) |
 | Wed, 14 Jan 2026 06:03:44 GMT | Vulnerability. | Tanya L. | [Read More](https://medium.com/p/6b72466cd46d) |
 | Wed, 14 Jan 2026 06:03:02 GMT | How Secure Software Practices Protect Business Reputation | Ask IT Support | [Read More](https://medium.com/p/e61a09ef9aab) |
@@ -100,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 Jan 2026 21:26:57 GMT | Cybersecurity in 2026: The Attacks You Never See Coming | Abdul Ahad | [Read More](https://medium.com/p/cb5d995f722c) |
 | Tue, 13 Jan 2026 21:19:19 GMT | Shadow Track — Hackviser Real-World Scenario Walkthrough | Hussein 404 | [Read More](https://medium.com/p/a46eea4414ec) |
 | Tue, 13 Jan 2026 21:18:59 GMT | Data Heist — Hackviser Real-World Scenario Walkthrough | Hussein 404 | [Read More](https://medium.com/p/37418c3e8b3b) |
-| Tue, 13 Jan 2026 21:12:13 GMT | iOS Jailbreak Detection: Security in Banking Applications | aybarska | [Read More](https://medium.com/p/382cec1de559) |
-| Tue, 13 Jan 2026 21:12:12 GMT | AI SOC Is Real — But It Only Automates What You’ve Already Systematized | Denny Roger | [Read More](https://medium.com/p/992116983fec) |
-| Tue, 13 Jan 2026 21:08:46 GMT | What Happens When Password Managers Get Hacked? | MoogleTechnology Canada | [Read More](https://medium.com/p/92eb06b2a300) |
-| Tue, 13 Jan 2026 21:08:06 GMT | Network Security in Cloud Computing: What to Know | Digital Uppercut | [Read More](https://medium.com/p/1005a1c85c9a) |
-| Tue, 13 Jan 2026 21:03:29 GMT | About Cyber security: Protecting Your Digital Life Every Day | Sourav Krishnan | [Read More](https://medium.com/p/7068d222f3fa) |
-| Tue, 13 Jan 2026 20:57:42 GMT | A beginner’s journey through KodeKloud’s 100 Days of Cloud Challenge | Awuor.tech | [Read More](https://medium.com/p/9c34d3962dc7) |
-| Tue, 13 Jan 2026 20:52:10 GMT | Структура операційної системи Windows. Файлові системи️ | Fl4g Hunt3r Project | [Read More](https://medium.com/p/de092262d0f3) |
-| Tue, 13 Jan 2026 20:39:16 GMT | Dig Dug: TryHackMe WriteUp | Bridget | [Read More](https://medium.com/p/ef09e9c27f40) |
-| Tue, 13 Jan 2026 20:34:50 GMT | Answering Most Asked Questions About the Dark Web | Abhay Parashar | [Read More](https://medium.com/p/6991633f8248) |
-| Tue, 13 Jan 2026 20:23:51 GMT | Man-in-the-Middle (MITM) Saldırıları | Romanzeb | [Read More](https://medium.com/p/dd46500897c9) |
-| Tue, 13 Jan 2026 20:20:28 GMT | Attacktive Directory TryHackME walkthrough | Nishchay Manhas | [Read More](https://medium.com/p/7b3fe49ae308) |
-| Tue, 13 Jan 2026 20:14:34 GMT | The Auto-Update You Trusted Just Got Weaponized | Liam | [Read More](https://medium.com/p/540feeae236f) |
