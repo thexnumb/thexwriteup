@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 Jan 2026 20:40:50 GMT | Why Cloud Vaults Fail When You Need Them Most | MoogleTechnology Canada | [Read More](https://medium.com/p/c674fa9773ed) |
+| Wed, 14 Jan 2026 20:26:32 GMT | TheHackersLabs — Castor [WriteUp] | APS88 | [Read More](https://medium.com/p/121ecf7121f0) |
+| Wed, 14 Jan 2026 20:20:50 GMT | I Built a Basic Branch Office LAN in Cisco Packet Tracer | Grace Jaman | [Read More](https://medium.com/p/ce534ba20cd5) |
 | Wed, 14 Jan 2026 20:13:53 GMT | Strong, or just Numb? | Sahilsoujani | [Read More](https://medium.com/p/81976c3f1db2) |
 | Wed, 14 Jan 2026 20:07:52 GMT | He Left the Seat Empty
 Every morning at 7:15, the same bus stopped at the same corner. | Sakhi Writes | [Read More](https://medium.com/p/a049a8b1cd34) |
@@ -111,6 +114,3 @@ The Internet of Things (IoT) has… | Ankit rai | [Read More](https://medium.com
 | Wed, 14 Jan 2026 14:32:32 GMT | Windows Processes & Threads — A Practical Introduction for Offensive Developers | Cyberlairs | [Read More](https://medium.com/p/71bde3d51258) |
 | Wed, 14 Jan 2026 14:31:41 GMT | If Your Cloud Security Projects Look Like Tutorials, You’re Doing It Wrong. | Taimur Ijlal | [Read More](https://medium.com/p/7682fc27f6c9) |
 | Wed, 14 Jan 2026 14:29:10 GMT | How Randomness Actually Secures HTTPS (Explained Simply) | Nannuri Manoj | [Read More](https://medium.com/p/8ff711b48e16) |
-| Wed, 14 Jan 2026 14:28:14 GMT | ERP RFP Integration: How to Avoid Risks and Pick the Right System | EwelinaOsadchuk | [Read More](https://medium.com/p/274af255cda7) |
-| Wed, 14 Jan 2026 14:22:31 GMT | How to Use AI in Business: Practical Steps, Tools, and Benefits | EwelinaOsadchuk | [Read More](https://medium.com/p/37ee5c155a5b) |
-| Wed, 14 Jan 2026 14:20:13 GMT | Low-Budget Aquaculture Setup: How I Started Fish Farming with Minimal Money | Rodiat Akinbani | [Read More](https://medium.com/p/86d1f778195e) |
