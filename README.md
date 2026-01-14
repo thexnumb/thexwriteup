@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 Jan 2026 19:25:34 GMT | Pass SC-900 with These 100% Verified Exam Questions | Kiran Krishnakumar | [Read More](https://medium.com/p/efe630d76cbd) |
+| Wed, 14 Jan 2026 19:25:26 GMT | From Spear Phishing to Persistence: An APT Attack Analysis Using MITRE ATT&CK | Hacer Dalkiran | [Read More](https://medium.com/p/d14d1acffdfe) |
+| Wed, 14 Jan 2026 19:24:42 GMT | Why Choosing the Right SAP Service Provider Accelerates Enterprise Growth | 2isolutions Inc. USA | [Read More](https://medium.com/p/012c17ab64f9) |
+| Wed, 14 Jan 2026 19:21:40 GMT | From 8GB Flash Drives to 5G Cloud Sovereignty: The 2026 Tech Landscape. | pulsebangladesh | [Read More](https://medium.com/p/5a4515a83e64) |
 | Wed, 14 Jan 2026 19:18:57 GMT | Born to Watch ️CCTVs | Pramodh | [Read More](https://medium.com/p/1694a5306834) |
 | Wed, 14 Jan 2026 19:17:23 GMT | Security and Compliance in RMM | Brintha Kumaresan | [Read More](https://medium.com/p/fc7e6a6dc016) |
 | Wed, 14 Jan 2026 19:12:40 GMT | SUID Permission — The Silent Door to Privilege Escalation | PriOFF | [Read More](https://medium.com/p/7d2f91af9ec2) |
@@ -109,7 +113,3 @@ The Internet of Things (IoT) has… | Ankit rai | [Read More](https://medium.com
 | Wed, 14 Jan 2026 14:01:23 GMT | Borrowing Security Automation Practices from the Best | h@shtalk | [Read More](https://medium.com/p/41477b71335b) |
 | Wed, 14 Jan 2026 13:51:27 GMT | MongoBleed Explained in Plain English | Faisal Feroz | [Read More](https://medium.com/p/6d7b909f17fe) |
 | Wed, 14 Jan 2026 13:49:26 GMT | Failed Mindset: Compliance-First Security | Ismayil Zeynalov | [Read More](https://medium.com/p/65ee22fc3bf4) |
-| Wed, 14 Jan 2026 13:49:15 GMT | Stop paying thousands for your education! | The Technovation Hub | [Read More](https://medium.com/p/461c400daf63) |
-| Wed, 14 Jan 2026 13:48:22 GMT | We All Say “WAF”, But What Is It Really? | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/84f11116411d) |
-| Wed, 14 Jan 2026 13:39:18 GMT | How to Choose the Best Security Companies Near Me for Reliable Protection | Security services Near Me | [Read More](https://medium.com/p/63e895db0bb7) |
-| Wed, 14 Jan 2026 13:39:14 GMT | ARINC 429 Bus: Mark 33 DITS — Case Study | Journal of Landing Across Linguistic Foreground | [Read More](https://medium.com/p/f1693064344b) |
