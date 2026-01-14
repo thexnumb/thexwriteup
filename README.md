@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 Jan 2026 08:19:13 GMT | Risk & Mitigations for LLMs and GENAI Apps: Part 1 — The Reality! | Nothing Cyber [NC] | [Read More](https://medium.com/p/188c69ef0595) |
+| Wed, 14 Jan 2026 08:18:24 GMT | Weekly Threat Intelligence Report 12  Jan 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/21f745f65806) |
+| Wed, 14 Jan 2026 08:16:06 GMT | Basic Knowledge of Cyber Security ✅ | Ahmed | [Read More](https://medium.com/p/90c389f39ac8) |
+| Wed, 14 Jan 2026 08:11:35 GMT | TryHackMe: Watcher Writeup | cbev | [Read More](https://medium.com/p/b00c182b780f) |
+| Wed, 14 Jan 2026 08:08:02 GMT | With AI coding agents on the offence and on the defence, the internet has become a battlefield. | Gerald Maria Dekkers | [Read More](https://medium.com/p/1e9138a8a8c9) |
+| Wed, 14 Jan 2026 08:06:06 GMT | Trust Architecture Failure with OWASP Violations in ING’s Digital Banking Flows (Public Version) | 0trust0day | [Read More](https://medium.com/p/9f57df352864) |
+| Wed, 14 Jan 2026 08:02:32 GMT | The Definitive Guide to Conducting a Cybersecurity Audit Using NIST CSF 2.0 (2026 Edition) | Divyesh Vaishnav | [Read More](https://medium.com/p/07907417d81c) |
+| Wed, 14 Jan 2026 08:01:21 GMT | Uchiha APK | GOCMOD | [Read More](https://medium.com/p/82cc08f941bd) |
+| Wed, 14 Jan 2026 08:01:03 GMT | 21 Misconfigurations That Led to Domain Takeovers | Very Lazy Tech | [Read More](https://medium.com/p/6281bf8791b8) |
+| Wed, 14 Jan 2026 07:57:10 GMT | Android Pentesting Lab Setup 101: A Complete Guide on Kali Linux (Android 12) | Muhammad Fikri Sidik | [Read More](https://medium.com/p/ad63fb7a69a2) |
+| Wed, 14 Jan 2026 07:56:59 GMT | When Phishers Get Phished Back: A SOC-Style Response That Ends Campaigns | ghostyjoe | [Read More](https://medium.com/p/f63918e38164) |
+| Wed, 14 Jan 2026 07:51:40 GMT | Eu só consigo acertar um alvo se conseguir visualizá-lo. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/1995e6852d56) |
+| Wed, 14 Jan 2026 07:51:38 GMT | Cybersecurity Is Breaking in Predictable Patterns | Prerna Shukla | [Read More](https://medium.com/p/dab5fb19d5da) |
+| Wed, 14 Jan 2026 07:44:28 GMT | Beyond the War on Terror: Unraveling Years of West-Islam Confrontation and Cooperation | MASUM BILLAH | [Read More](https://medium.com/p/843741fcde76) |
+| Wed, 14 Jan 2026 07:37:51 GMT | How Event Security Services in Singapore Improve Overall Event Management | Jane Tang | [Read More](https://medium.com/p/b9a69b1533b3) |
 | Wed, 14 Jan 2026 07:36:12 GMT | Why I Recommend NordVPN as a BS Cyber Security Student (And Who Actually Needs It) | Minisky | [Read More](https://medium.com/p/42585adc06bf) |
 | Wed, 14 Jan 2026 07:32:50 GMT | Understanding How People Share Passwords in Collectivist Contexts | Andy Afrizal | [Read More](https://medium.com/p/e4ca63064326) |
 | Wed, 14 Jan 2026 07:32:47 GMT | Data Security in Microsoft Fabric | Sam Campitiello | [Read More](https://medium.com/p/9f32b4fb3075) |
@@ -98,18 +113,3 @@ Every morning at 7:15, the same bus stopped at the same corner. | Sakhi Writes |
 | Tue, 13 Jan 2026 23:28:00 GMT | How IDS, IPS, and Load Balancing Detection Tools Work in Penetration Testing | mohandika | [Read More](https://medium.com/p/239fbd4e8132) |
 | Tue, 13 Jan 2026 23:26:56 GMT | [Part 17] AI Governance & Ethics in Cybersecurity: Who Watches the Watchers? | Cyberkech | [Read More](https://medium.com/p/83b7f25e50b8) |
 | Tue, 13 Jan 2026 23:24:35 GMT | Targeted LinkedIn Phishing Attempt | Samuel George | [Read More](https://medium.com/p/8fb8044a93c3) |
-| Tue, 13 Jan 2026 23:17:48 GMT | Attack Surface Starts With Exposure | 0ps3c | [Read More](https://medium.com/p/363887cd44ef) |
-| Tue, 13 Jan 2026 23:17:43 GMT | Do Not Trust These Emails: A Guide to Spotting Modern Scams | Bless Samwel Siyovelwa | [Read More](https://medium.com/p/549967db6937) |
-| Tue, 13 Jan 2026 23:05:13 GMT | IPC via Message Queue | S12 - 0x12Dark Development | [Read More](https://medium.com/p/f383674da77f) |
-| Tue, 13 Jan 2026 23:03:16 GMT | Advent of Cyber — Day 16 — Forensics: Registry Furensics | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/2815bc2c6629) |
-| Tue, 13 Jan 2026 23:02:09 GMT | The End of “Seeing Is Believing” | Cyber-AppSec | [Read More](https://medium.com/p/d382ae3b47be) |
-| Tue, 13 Jan 2026 22:55:47 GMT | Your Digital Life Is Like a House. How Many Doors Are Open? | Tracy | [Read More](https://medium.com/p/3dd17f4c8464) |
-| Tue, 13 Jan 2026 22:53:42 GMT | Onion Hidden Service Hardening: Strategies Against DDoS and IP Leaks | root0emir | [Read More](https://medium.com/p/7a746988a95c) |
-| Tue, 13 Jan 2026 22:53:37 GMT | Advent of Cyber — Day 15 — Web Attack Forensics: Drone Alone | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/2d6116dc2c5e) |
-| Tue, 13 Jan 2026 22:17:31 GMT | Keycloak Authentication Flows: The Engine Behind Your Login Experience | Florian Röser | [Read More](https://medium.com/p/fd3a7e8aa383) |
-| Tue, 13 Jan 2026 22:09:30 GMT | From 403 Forbidden to $$$$ How a Simple Extension Bypass Led to Unauthenticated Access to Private… | KiRaaDx | [Read More](https://medium.com/p/f1f4633b82dc) |
-| Tue, 13 Jan 2026 21:55:50 GMT | FotoForensics | Mazinmattar | [Read More](https://medium.com/p/2870da94c4f5) |
-| Tue, 13 Jan 2026 21:55:08 GMT | Безпека Windows️ | Fl4g Hunt3r Project | [Read More](https://medium.com/p/95f503f17379) |
-| Tue, 13 Jan 2026 21:54:29 GMT | RUN REPORT: Gmail Support Scam — What happened & what I changed because of it | Robert Hildebrandt | [Read More](https://medium.com/p/a7419393c7bc) |
-| Tue, 13 Jan 2026 21:47:23 GMT | The Real Bottleneck in ML Pipelines Is Coordination, Not Models | Luis M | [Read More](https://medium.com/p/02c80c42bbd9) |
-| Tue, 13 Jan 2026 21:43:18 GMT | The Oldest and Largest Impact Crater on Earth | Abdul | [Read More](https://medium.com/p/d1690974dfb4) |
