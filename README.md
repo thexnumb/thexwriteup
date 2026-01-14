@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 Jan 2026 05:21:03 GMT | Event Security in Houston | Security Houston | [Read More](https://medium.com/p/a46e8658ec95) |
+| Wed, 14 Jan 2026 05:20:24 GMT | Linux Cassandra Security Hardening: Authentication, Authorization, Encryption, and Auditing | JIN | [Read More](https://medium.com/p/bf4f7cd5c985) |
+| Wed, 14 Jan 2026 05:20:24 GMT | Professional Security Guards in Dubai: Roles, Benefits, Costs & How to Choose the Right Provider | MEBS Facility Services | [Read More](https://medium.com/p/339feb32bb92) |
+| Wed, 14 Jan 2026 05:19:07 GMT | ETHICAL HACKER FOR HIRE | Usamalik | [Read More](https://medium.com/p/008d1af590ea) |
+| Wed, 14 Jan 2026 05:16:11 GMT | Turn Your Android Phone Into a Pentesting Suite (No Root Required) | gecr07 | [Read More](https://medium.com/p/62b3f098356c) |
+| Wed, 14 Jan 2026 05:04:42 GMT | Are We Reaching a Digital Tipping Point? Trust, AI, and the Future of Doing Business | Niko Antonogiannis | [Read More](https://medium.com/p/7e204391eb8f) |
+| Wed, 14 Jan 2026 05:03:01 GMT | Splunk: Corelight - Trickbot CTF Write-Up | Jenny | [Read More](https://medium.com/p/d862da23bd0e) |
+| Wed, 14 Jan 2026 05:01:29 GMT | I Built a Lightweight Port Scanner Because Nmap Isn’t Always the Right Tool | Mate Technologies | [Read More](https://medium.com/p/a335e10c268a) |
+| Wed, 14 Jan 2026 04:59:11 GMT | When Trust Becomes the Threat: A New Phishing Attack Impersonating DocuSign | Deven Chhajed | [Read More](https://medium.com/p/cb40fbb85504) |
+| Wed, 14 Jan 2026 04:44:40 GMT | Commercial Security in Houston | Security Houston | [Read More](https://medium.com/p/5ec73cc1a1a7) |
 | Wed, 14 Jan 2026 04:42:12 GMT | Securing the Build: A Deep Dive into a Symlink Race Condition in Google’s Distroless | Anandppatil | [Read More](https://medium.com/p/997157d9c965) |
+| Wed, 14 Jan 2026 04:41:54 GMT | Defend Your Digital Assets: A Guide to Website Cyber Security | Aftab Rehman | [Read More](https://medium.com/p/0bb9f447c1f7) |
+| Wed, 14 Jan 2026 04:41:30 GMT | Why I’m Paying Attention to Cybersecurity News (and Why This Blog Exists) | Hector Garcia | [Read More](https://medium.com/p/1c5d3a172ff7) |
 | Wed, 14 Jan 2026 04:16:42 GMT | Hack Gangstar Vegas | Apkpuredev | [Read More](https://medium.com/p/bacebb80f743) |
 | Wed, 14 Jan 2026 04:14:16 GMT | How I Found a Critical SSRF (Very Easily) Through Redirect Bypass | Be nice insabat | [Read More](https://medium.com/p/1bddcc068984) |
 | Wed, 14 Jan 2026 04:12:48 GMT | How AI Will Reshape Industries in the Next 10 Years | Shahzad Ahmad | [Read More](https://medium.com/p/9c812a2df62e) |
@@ -100,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 Jan 2026 19:29:19 GMT | Understanding Forced Browsing Risks in Web Applications | Sahil Sharma | [Read More](https://medium.com/p/14d49dadce04) |
 | Tue, 13 Jan 2026 19:21:59 GMT | Authentication Made Easy: Sessions, Cookies & Tokens | Mukti Mishra | [Read More](https://medium.com/p/16b5434e0b1a) |
 | Tue, 13 Jan 2026 19:20:30 GMT | Creating a Agentic SOC | Kushagra | [Read More](https://medium.com/p/890b01a9b000) |
-| Tue, 13 Jan 2026 19:18:27 GMT | Why Free VPNs Are a Bad Idea for Gaming (Risk & Speed Analysis) | Sheep Design | [Read More](https://medium.com/p/674c08e944f6) |
-| Tue, 13 Jan 2026 19:18:07 GMT | My Journey as a University Student: Learning, Growing, and Dreaming Big
-Starting Out: The First… | Urooj Zeeshan | [Read More](https://medium.com/p/98f27c3aac88) |
-| Tue, 13 Jan 2026 19:16:07 GMT | Pentest raporu mu, o da ne? | Zekikayaalp | [Read More](https://medium.com/p/4a4e6697afd2) |
-| Tue, 13 Jan 2026 19:02:46 GMT | Securing AI Agents Without Slowing Innovation | Sandip Patel | [Read More](https://medium.com/p/52d32ea9d04e) |
-| Tue, 13 Jan 2026 19:02:46 GMT | Anti-Spam | Iram Jack | [Read More](https://medium.com/p/e7a4e4bc56c0) |
-| Tue, 13 Jan 2026 19:01:27 GMT | [AD攻防] AS-REP Roasting 攻擊 | 陳禹璿 | [Read More](https://medium.com/p/89d24a52c013) |
-| Tue, 13 Jan 2026 19:00:53 GMT | I Received My Own Personal Details From a Telegram Stranger — Here’s the Truth | Pradhan's Fintech | [Read More](https://medium.com/p/7bd744f3500b) |
-| Tue, 13 Jan 2026 18:51:59 GMT | OverTheWire Bandit (Day 13): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/581d1b5546ef) |
-| Tue, 13 Jan 2026 18:46:58 GMT | How to Get Scammed (by DPRK Hackers) | OZ | [Read More](https://medium.com/p/b2f7588aea76) |
-| Tue, 13 Jan 2026 18:46:51 GMT | The Future of IoT in 2026: Trends, Security, and Business Impact | Techridge Solutions | [Read More](https://medium.com/p/1fe7861b4091) |
-| Tue, 13 Jan 2026 18:39:00 GMT | How I Found a Critical Biometric 2FA Bypass… and Lost the Bounty | LETCHU PKT | [Read More](https://medium.com/p/9c38441640c4) |
-| Tue, 13 Jan 2026 18:38:52 GMT | Day 3 of Learning AWS: Elastic IP and Elastic Block Storage | Muhammad Kashif | [Read More](https://medium.com/p/df72bcb50e3c) |
