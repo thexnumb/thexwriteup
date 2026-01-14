@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 Jan 2026 15:02:48 GMT | CloudGoat AWS SNS Secrets Walkthrough | Spookz | [Read More](https://medium.com/p/65ffffe5cab5) |
+| Wed, 14 Jan 2026 15:01:06 GMT | Revolutionizing GRC: Leveraging Snowflake as Your Compliance Engine | Vince Luongo | [Read More](https://medium.com/p/3438cf08cd08) |
+| Wed, 14 Jan 2026 15:01:05 GMT | Cyber Briefing: 2026.01.14 | CyberMaterial | [Read More](https://medium.com/p/a7a723e94ecb) |
+| Wed, 14 Jan 2026 14:52:40 GMT | 82% of Organizations Were Breached Through Containers | inboryn | [Read More](https://medium.com/p/cca97f7b753b) |
 | Wed, 14 Jan 2026 14:40:29 GMT | From Shops to Offices: Why Security Screen Doors Are Becoming a Must-Have | Chloe Taylor | [Read More](https://medium.com/p/a4a9ba90c0c6) |
 | Wed, 14 Jan 2026 14:38:37 GMT | Not a “Replacement,” but an “Overlay” — Strengthening Existing Wallets with the Ultimate Defense | Satelite | [Read More](https://medium.com/p/accc538ac492) |
 | Wed, 14 Jan 2026 14:37:14 GMT | If you weren’t here tomorrow, would your crypto be lost with you? | Bitzo | [Read More](https://medium.com/p/6f7879f7f094) |
@@ -109,7 +113,3 @@ The Internet of Things (IoT) has… | Ankit rai | [Read More](https://medium.com
 | Wed, 14 Jan 2026 09:50:46 GMT | No Click, No Run — Automatic Malware Execution Hidden in a VSCode Project | Evgenii | [Read More](https://medium.com/p/e56da0ed4220) |
 | Wed, 14 Jan 2026 09:48:30 GMT | The Anatomy of S3 Security: 22 Checks That Stand Between You and a Data Breach | Tarek CHEIKH | [Read More](https://medium.com/p/738f075a1771) |
 | Wed, 14 Jan 2026 09:48:12 GMT | Building an S3 Security Scanner: From Frustration to Open Source | Tarek CHEIKH | [Read More](https://medium.com/p/59db9167b829) |
-| Wed, 14 Jan 2026 09:47:12 GMT | ประจำวันพุธที่ 14 มกราคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/c29e95a45294) |
-| Wed, 14 Jan 2026 09:47:00 GMT | What is the difference between IT consulting and tech consulting? | Black Birdit | [Read More](https://medium.com/p/89fbd0439937) |
-| Wed, 14 Jan 2026 09:35:09 GMT | ISO 27701 PIMS vs GDPR: Understanding the Relationship | Kartiksharma | [Read More](https://medium.com/p/9cbb6c439bf8) |
-| Wed, 14 Jan 2026 09:33:01 GMT | The UK Government Just Killed iCloud’s Best Security Feature - Here’s What It Means for Your Files | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/e125e2acdba9) |
