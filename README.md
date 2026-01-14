@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 Jan 2026 23:31:50 GMT | Security Analysis and Hardening of a Python Web Application | William Azaria Simanjuntak | [Read More](https://medium.com/p/89f0521d6e83) |
+| Wed, 14 Jan 2026 23:30:20 GMT | Stop Letting Slow Computers Drain Your Time And Budget | Geoffrey Wenger | [Read More](https://medium.com/p/f7b048df410b) |
+| Wed, 14 Jan 2026 23:21:09 GMT | HTB Labs — Tier 1 — “Crocodile” Machine Walkthrough - By: CyberAlp0 | Mohamed Maher | [Read More](https://medium.com/p/a4954ef382f2) |
 | Wed, 14 Jan 2026 23:06:01 GMT | TINY THINGS WITH SHARP EDGES | Ink & Ember ️ | [Read More](https://medium.com/p/381553837cfa) |
 | Wed, 14 Jan 2026 23:03:15 GMT | FAANG Is a Career Trap, Not a Dream Job | Logic Over Latte | [Read More](https://medium.com/p/65e470b22b35) |
 | Wed, 14 Jan 2026 23:01:22 GMT | Password Checker | Aaronashley | [Read More](https://medium.com/p/9bd119509928) |
@@ -110,6 +113,3 @@ Every morning at 7:15, the same bus stopped at the same corner. | Sakhi Writes |
 | Wed, 14 Jan 2026 16:40:32 GMT | Key Features to Look for in Security Guard Services in Woodland Hills for Medical Centers | Reliable Security Services Blog | [Read More](https://medium.com/p/ff46bb68483c) |
 | Wed, 14 Jan 2026 16:35:36 GMT | When ChatGPT Becomes the Attacker: How New AI Flaws Exposed Gmail, Outlook, and GitHub Data | Tech Intel | [Read More](https://medium.com/p/eac8d5464c9e) |
 | Wed, 14 Jan 2026 16:34:54 GMT | My First XSS: How Simple Automation Helped Me Find It | AhmedAbdelaziz | [Read More](https://medium.com/p/2d6d3f6143f4) |
-| Wed, 14 Jan 2026 16:33:08 GMT | The Death of Privacy in the “Always-On” Future | Del Schlangen | [Read More](https://medium.com/p/1933824cd481) |
-| Wed, 14 Jan 2026 16:32:05 GMT | How Security Guard Services in Tarzana Protect Retail Spaces Effectively? | Reliable Security Services Blog | [Read More](https://medium.com/p/6e82dec06365) |
-| Wed, 14 Jan 2026 16:30:33 GMT | Kahve İçerken Hacklenmek | HSD ATLAS | [Read More](https://medium.com/p/1a20938cb9b3) |
