@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 Jan 2026 06:37:39 GMT | JAVA-COLLECTION_E-8 | Aman Verma | [Read More](https://medium.com/p/982d4cdd0db1) |
+| Wed, 14 Jan 2026 06:25:41 GMT | Ignite Your 2026 Growth: Why Cloud Transformation Services Are Your Enterprise Game-Changer | Emily Harper | [Read More](https://medium.com/p/1dddf29e7471) |
+| Wed, 14 Jan 2026 06:15:08 GMT | Easy 3 Digit Bounty: A Silent Takeover Flaw $$$ | VANSH | [Read More](https://medium.com/p/0ec4f69a36fe) |
+| Wed, 14 Jan 2026 06:03:44 GMT | Vulnerability. | Tanya L. | [Read More](https://medium.com/p/6b72466cd46d) |
+| Wed, 14 Jan 2026 06:03:02 GMT | How Secure Software Practices Protect Business Reputation | Ask IT Support | [Read More](https://medium.com/p/e61a09ef9aab) |
+| Wed, 14 Jan 2026 05:56:40 GMT | Android Pentesting Part 1: Fundamentals | Rahul M S | [Read More](https://medium.com/p/dcc0363cf5f0) |
+| Wed, 14 Jan 2026 05:55:28 GMT | Why Traffic Marshal Services Matter Most During Peak Traffic Hours | Jane Tang | [Read More](https://medium.com/p/2ae759b16942) |
+| Wed, 14 Jan 2026 05:53:36 GMT | IDOR, YOU-DOR, WE ALL DOR for BugForge | 0ber1n | [Read More](https://medium.com/p/de80e7598f78) |
+| Wed, 14 Jan 2026 05:49:52 GMT | Why Basic Cybersecurity is Your New Essential Digital Life Skill | Simeon A. Adedokun | [Read More](https://medium.com/p/6b2799a9e1cd) |
 | Wed, 14 Jan 2026 05:21:03 GMT | Event Security in Houston | Security Houston | [Read More](https://medium.com/p/a46e8658ec95) |
 | Wed, 14 Jan 2026 05:20:24 GMT | Linux Cassandra Security Hardening: Authentication, Authorization, Encryption, and Auditing | JIN | [Read More](https://medium.com/p/bf4f7cd5c985) |
 | Wed, 14 Jan 2026 05:20:24 GMT | Professional Security Guards in Dubai: Roles, Benefits, Costs & How to Choose the Right Provider | MEBS Facility Services | [Read More](https://medium.com/p/339feb32bb92) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 13 Jan 2026 20:23:51 GMT | Man-in-the-Middle (MITM) Saldırıları | Romanzeb | [Read More](https://medium.com/p/dd46500897c9) |
 | Tue, 13 Jan 2026 20:20:28 GMT | Attacktive Directory TryHackME walkthrough | Nishchay Manhas | [Read More](https://medium.com/p/7b3fe49ae308) |
 | Tue, 13 Jan 2026 20:14:34 GMT | The Auto-Update You Trusted Just Got Weaponized | Liam | [Read More](https://medium.com/p/540feeae236f) |
-| Tue, 13 Jan 2026 20:04:07 GMT | Top 5 AI Tools Every Bug Bounty Hunter Should Know | Shahzaib | [Read More](https://medium.com/p/1d7638598f74) |
-| Tue, 13 Jan 2026 19:54:19 GMT | The Role of Home Monitoring in Emergency Response and Safety | Alex Bryn | [Read More](https://medium.com/p/0bf8b6cb7355) |
-| Tue, 13 Jan 2026 19:48:44 GMT | Pentagon AI Shift: Why Military Data Is Moving to Grok & Google | Kartikeya Mishra | [Read More](https://medium.com/p/11321a21c9fd) |
-| Tue, 13 Jan 2026 19:43:08 GMT | When “Excellent Security” Still Fails: A Real-World SSRF Lesson | Tyreek Haynes | [Read More](https://medium.com/p/536643368a29) |
-| Tue, 13 Jan 2026 19:42:10 GMT | Lab: Bypassing access controls using email address parsing discrepancies | Songül Kızılay Özügürler | [Read More](https://medium.com/p/836c99d4c7f8) |
-| Tue, 13 Jan 2026 19:32:30 GMT | How Telegram Clicks Can Leak Your Real IP? | Мартин. | [Read More](https://medium.com/p/2670f7970f44) |
-| Tue, 13 Jan 2026 19:29:19 GMT | Understanding Forced Browsing Risks in Web Applications | Sahil Sharma | [Read More](https://medium.com/p/14d49dadce04) |
-| Tue, 13 Jan 2026 19:21:59 GMT | Authentication Made Easy: Sessions, Cookies & Tokens | Mukti Mishra | [Read More](https://medium.com/p/16b5434e0b1a) |
-| Tue, 13 Jan 2026 19:20:30 GMT | Creating a Agentic SOC | Kushagra | [Read More](https://medium.com/p/890b01a9b000) |
