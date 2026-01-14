@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 Jan 2026 10:21:17 GMT | Vulnerability in Broadcom chipset causes network disruption and client disconnection on wireless… | Re: News | [Read More](https://medium.com/p/10a77c3a0992) |
+| Wed, 14 Jan 2026 10:19:15 GMT | Importance of ISO Certification for Cyber Security | Sqccertification | [Read More](https://medium.com/p/06cf7103db5d) |
+| Wed, 14 Jan 2026 10:18:43 GMT | Developing an Information Security Management System (ISMS) Policy | Adeoluwa Obadofin | [Read More](https://medium.com/p/53c633c383cf) |
+| Wed, 14 Jan 2026 10:14:37 GMT | How centralized is DeFi, really? Peeling back the layers of power | Shift | [Read More](https://medium.com/p/6679c7b34e33) |
+| Wed, 14 Jan 2026 10:12:21 GMT | Republic Day, Security, and the Psychology of Possessions | Ramesh Raj | [Read More](https://medium.com/p/a2d922b1a5b5) |
+| Wed, 14 Jan 2026 10:06:34 GMT | The Polyglot Defender: Why Code is Your Best Weapon in Cybersecurity | Aravind S Narayan | [Read More](https://medium.com/p/5e6bebe27bf3) |
+| Wed, 14 Jan 2026 10:03:22 GMT | Apakah Foto & Video di Sosmed Masih Bisa Dipercaya? | Panjat4d Tech & AI | [Read More](https://medium.com/p/fdde9b7655a1) |
+| Wed, 14 Jan 2026 09:57:09 GMT | Why Thermal Imaging Is Becoming Essential for Modern Field Professionals | Night Vision 4 Less | [Read More](https://medium.com/p/fe62a5808aaa) |
+| Wed, 14 Jan 2026 09:54:45 GMT | Cybersecurity Leadership in the Public Sector | Basir | [Read More](https://medium.com/p/8c56c95edf94) |
+| Wed, 14 Jan 2026 09:50:46 GMT | No Click, No Run — Automatic Malware Execution Hidden in a VSCode Project | Evgenii | [Read More](https://medium.com/p/e56da0ed4220) |
+| Wed, 14 Jan 2026 09:48:30 GMT | The Anatomy of S3 Security: 22 Checks That Stand Between You and a Data Breach | Tarek CHEIKH | [Read More](https://medium.com/p/738f075a1771) |
+| Wed, 14 Jan 2026 09:48:12 GMT | Building an S3 Security Scanner: From Frustration to Open Source | Tarek CHEIKH | [Read More](https://medium.com/p/59db9167b829) |
+| Wed, 14 Jan 2026 09:47:12 GMT | ประจำวันพุธที่ 14 มกราคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/c29e95a45294) |
+| Wed, 14 Jan 2026 09:47:00 GMT | What is the difference between IT consulting and tech consulting? | Black Birdit | [Read More](https://medium.com/p/89fbd0439937) |
+| Wed, 14 Jan 2026 09:35:09 GMT | ISO 27701 PIMS vs GDPR: Understanding the Relationship | Kartiksharma | [Read More](https://medium.com/p/9cbb6c439bf8) |
+| Wed, 14 Jan 2026 09:33:01 GMT | The UK Government Just Killed iCloud’s Best Security Feature - Here’s What It Means for Your Files | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/e125e2acdba9) |
 | Wed, 14 Jan 2026 09:18:13 GMT | The Birthday Trick Hackers Use To Break Security | Redfox Security | [Read More](https://medium.com/p/571005c86438) |
 | Wed, 14 Jan 2026 09:15:15 GMT | Sustainable AI Initiatives and the Next Phase of Responsible Enterprise Intelligence | Kaopiz Global | [Read More](https://medium.com/p/e0933120c5ea) |
 | Wed, 14 Jan 2026 09:13:18 GMT | Yesterday I went to a kirana store with my cousin. She’s 12 (Gen Alpha). | Legally Psyched- briefs, breakdown & burnt coffee | [Read More](https://medium.com/p/92b95cc08971) |
@@ -97,19 +113,3 @@ Every morning at 7:15, the same bus stopped at the same corner. | Sakhi Writes |
 | Wed, 14 Jan 2026 03:39:31 GMT | Tools that bug bounty hunter should know for Beginner | Mainekhacker | [Read More](https://medium.com/p/47b41969bee9) |
 | Wed, 14 Jan 2026 03:36:36 GMT | Apple Just Admitted It Can’t Build AI (And Paid Google $1 Billion to Fix It) | Ronald Kimmons | [Read More](https://medium.com/p/e2f5146dd725) |
 | Wed, 14 Jan 2026 03:32:48 GMT | 6 Common SSRF Risks in Node.js | Arunangshu Das | [Read More](https://medium.com/p/515c243d100a) |
-| Wed, 14 Jan 2026 03:11:52 GMT | Bad Bed Bugs | Orion O'Connor | [Read More](https://medium.com/p/82464b40d6f1) |
-| Wed, 14 Jan 2026 02:59:13 GMT | Tai The Spike — Volleyball Story Hack Cau Thu Moi Nhat | TaiModApk | [Read More](https://medium.com/p/a44172d780c7) |
-| Wed, 14 Jan 2026 02:53:23 GMT | Zero Trust Is Not a Product: How Most Companies Get It Wrong | Paritosh | [Read More](https://medium.com/p/70d09e2b3107) |
-| Wed, 14 Jan 2026 02:49:15 GMT | Connecting to the Internet — Network Series 5 | Mr.Cool | [Read More](https://medium.com/p/da6d72c45b5e) |
-| Wed, 14 Jan 2026 02:23:22 GMT | Designing the Authorization Data Cube: Turning Access Decisions Into Learning? | Zeigeist | [Read More](https://medium.com/p/a93e00ff7292) |
-| Wed, 14 Jan 2026 02:22:38 GMT | AI, Edge, and Security Redefine Infrastructure Management | Valentin Podkamennyi | [Read More](https://medium.com/p/de7ff67c9f89) |
-| Wed, 14 Jan 2026 02:19:56 GMT | CVEs as “Feature Catalogs”: The Terrifying Reality of Automated, Version-Specific Exploit Kits… | Ryu360 | [Read More](https://medium.com/p/5194b31bd7c8) |
-| Wed, 14 Jan 2026 01:53:57 GMT | Can I Contact AVG Customer Service Number UK | Zuerevalexander | [Read More](https://medium.com/p/7c22d46b47c5) |
-| Wed, 14 Jan 2026 01:45:30 GMT | How To Support Yahoo Customer Service Number UK | Zuerevalexander | [Read More](https://medium.com/p/4a73ae9adce8) |
-| Wed, 14 Jan 2026 01:38:03 GMT | How To Support McAfee Customer Service Number Australia | Customer Support Information | [Read More](https://medium.com/p/ab774179f9f6) |
-| Wed, 14 Jan 2026 01:31:04 GMT | Automating the Enterprise SOC: How I Built a Detection Pipeline with Splunk, n8n, and Active… | Aniket Agarwal | [Read More](https://medium.com/p/8cf2dd254e6c) |
-| Wed, 14 Jan 2026 01:25:41 GMT | byp4ss3d — picoCTF 2025 Writeup | Musthofa Kamaluddin | [Read More](https://medium.com/p/e41811723392) |
-| Wed, 14 Jan 2026 01:17:15 GMT | Achieved 198k LinkedIn Followers | Matthew.Rosenquist | [Read More](https://medium.com/p/964b9d9f8728) |
-| Wed, 14 Jan 2026 00:51:09 GMT | How I Built a SOC Lab in My Bedroom | Abimanyu A | [Read More](https://medium.com/p/17093e739b71) |
-| Wed, 14 Jan 2026 00:48:21 GMT | SBOMs vs Asset Inventories: Bridging the Visibility Gap in Software Security | Praveen Malhan | [Read More](https://medium.com/p/e42964280e13) |
-| Wed, 14 Jan 2026 00:48:01 GMT | When the Terminator Stops Being Fiction | Dr. Thomas Jreige | [Read More](https://medium.com/p/2e518e986f85) |
