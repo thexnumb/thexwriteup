@@ -12,11 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 Jan 2026 16:30:21 GMT | How Attackers Move Inside a Network Once They’re In | Digital Defense | [Read More](https://medium.com/p/b6ec4d3d5bb4) |
+| Wed, 14 Jan 2026 16:24:19 GMT | Why Most Organizations Are Still Vulnerable, Even After Running Vulnerability Scans? | Livindu Peiris | [Read More](https://medium.com/p/9ed1b5b17148) |
+| Wed, 14 Jan 2026 16:21:57 GMT | The Future of Cybersecurity in 2026: Threats, Trends, and Protection Strategies | Techridge Solutions | [Read More](https://medium.com/p/6a097df17cd5) |
+| Wed, 14 Jan 2026 16:20:56 GMT | Firewalls — Writeup | Mahir | [Read More](https://medium.com/p/c93e929d7a44) |
+| Wed, 14 Jan 2026 16:04:31 GMT | Wars Are Becoming Optimization Problems | Om mishra | [Read More](https://medium.com/p/d47d6832af3f) |
+| Wed, 14 Jan 2026 16:00:33 GMT | Smart Shop Security That Works Even Without Internet | Mhrhelal | [Read More](https://medium.com/p/39a87b14c814) |
+| Wed, 14 Jan 2026 15:50:09 GMT | Infant Pulse Oximeter: Normal SpO₂ Levels & When to Worry | PURE HEALTH BLOGS | [Read More](https://medium.com/p/e7083914b48e) |
+| Wed, 14 Jan 2026 15:47:51 GMT | Congratulations! You’ve been promoted to Family CISO! | Aaron Strong | [Read More](https://medium.com/p/59c2d16a3449) |
 | Wed, 14 Jan 2026 15:43:10 GMT | Instead, start teaching them, make it personal, make it a conversation, make it relatable – | Aaron Strong | [Read More](https://medium.com/p/9780687906c0) |
 | Wed, 14 Jan 2026 15:40:01 GMT | Why Wireshark Finally Made Sense: TryHackMe, College, and the Right Pace | Crystal_cascade14 | [Read More](https://medium.com/p/29b8e12c23e9) |
+| Wed, 14 Jan 2026 15:37:55 GMT | Critical Sudo Vulnerabilities — CVE-2025–32462 and CVE-2025–32463 | Lakshan Sameera | [Read More](https://medium.com/p/0ee43d15f942) |
 | Wed, 14 Jan 2026 15:31:59 GMT | Data brokers sell your private information: How data removal services optimize opting out | Karl Buhl | [Read More](https://medium.com/p/a61c0512708a) |
+| Wed, 14 Jan 2026 15:30:13 GMT | The Cost of Treating Security as Infrastructure | Reyanshicodes | [Read More](https://medium.com/p/47a9e7207fda) |
 | Wed, 14 Jan 2026 15:29:55 GMT | Why Every Node.js Developer Needs to Update Right Now (CVE-2025–59466) | Dhanush N | [Read More](https://medium.com/p/1c1306e3099a) |
 | Wed, 14 Jan 2026 15:15:18 GMT | How to Secure Your IT Department: A Comprehensive Guide | Doctor IT Services - Managed IT Service Provider | [Read More](https://medium.com/p/038e7d24dc91) |
+| Wed, 14 Jan 2026 15:12:23 GMT | Why Proper Pentest Scoping Determines Project Success | Sachin Sawant | [Read More](https://medium.com/p/b8916975e596) |
 | Wed, 14 Jan 2026 15:02:48 GMT | CloudGoat AWS SNS Secrets Walkthrough | Spookz | [Read More](https://medium.com/p/65ffffe5cab5) |
 | Wed, 14 Jan 2026 15:01:06 GMT | Revolutionizing GRC: Leveraging Snowflake as Your Compliance Engine | Vince Luongo | [Read More](https://medium.com/p/3438cf08cd08) |
 | Wed, 14 Jan 2026 15:01:05 GMT | Cyber Briefing: 2026.01.14 | CyberMaterial | [Read More](https://medium.com/p/a7a723e94ecb) |
@@ -102,14 +113,3 @@ The Internet of Things (IoT) has… | Ankit rai | [Read More](https://medium.com
 | Wed, 14 Jan 2026 10:41:10 GMT | 7 duties of a security personnel: what do they do, and why organizations need them | Trust Consulting Services | [Read More](https://medium.com/p/d6c94c7c52d6) |
 | Wed, 14 Jan 2026 10:34:12 GMT | Certified Cybersecurity Technician (CCT) | Ryan Brooks | [Read More](https://medium.com/p/70ded4f1e03a) |
 | Wed, 14 Jan 2026 10:34:03 GMT | From Service Exploit to SYSTEM: Why “Low-Priv” on Windows Is Often a Lie | Yua Mikanana | [Read More](https://medium.com/p/84ee3ade067f) |
-| Wed, 14 Jan 2026 10:28:50 GMT | The Science of Unpredictability: Architecting NIST-Compliant CSPRNG for Distributed Systems | Jinpyo181 | [Read More](https://medium.com/p/07475d9eeaec) |
-| Wed, 14 Jan 2026 10:27:29 GMT | SOC vs MDR Costs: Analyst Time and Infrastructure Dominate | Graylog | [Read More](https://medium.com/p/84cc44a3befc) |
-| Wed, 14 Jan 2026 10:25:19 GMT | All Important Network Types Explained — A Complete Beginner to Pro Guide | Shadow Attackers | [Read More](https://medium.com/p/07c427b62dc1) |
-| Wed, 14 Jan 2026 10:21:17 GMT | Vulnerability in Broadcom chipset causes network disruption and client disconnection on wireless… | Re: News | [Read More](https://medium.com/p/10a77c3a0992) |
-| Wed, 14 Jan 2026 10:19:15 GMT | Importance of ISO Certification for Cyber Security | Sqccertification | [Read More](https://medium.com/p/06cf7103db5d) |
-| Wed, 14 Jan 2026 10:18:43 GMT | Developing an Information Security Management System (ISMS) Policy | Adeoluwa Obadofin | [Read More](https://medium.com/p/53c633c383cf) |
-| Wed, 14 Jan 2026 10:17:55 GMT | Top Security Awareness Training Solutions for 2026 | Keepnet Labs | [Read More](https://medium.com/p/3435bab377e3) |
-| Wed, 14 Jan 2026 10:14:37 GMT | How centralized is DeFi, really? Peeling back the layers of power | Shift | [Read More](https://medium.com/p/6679c7b34e33) |
-| Wed, 14 Jan 2026 10:12:21 GMT | Republic Day, Security, and the Psychology of Possessions | Ramesh Raj | [Read More](https://medium.com/p/a2d922b1a5b5) |
-| Wed, 14 Jan 2026 10:06:34 GMT | The Polyglot Defender: Why Code is Your Best Weapon in Cybersecurity | Aravind S Narayan | [Read More](https://medium.com/p/5e6bebe27bf3) |
-| Wed, 14 Jan 2026 10:03:22 GMT | Apakah Foto & Video di Sosmed Masih Bisa Dipercaya? | Panjat4d Tech & AI | [Read More](https://medium.com/p/fdde9b7655a1) |
