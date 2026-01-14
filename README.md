@@ -12,10 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 Jan 2026 19:18:57 GMT | Born to Watch ️CCTVs | Pramodh | [Read More](https://medium.com/p/1694a5306834) |
+| Wed, 14 Jan 2026 19:17:23 GMT | Security and Compliance in RMM | Brintha Kumaresan | [Read More](https://medium.com/p/fc7e6a6dc016) |
+| Wed, 14 Jan 2026 19:12:40 GMT | SUID Permission — The Silent Door to Privilege Escalation | PriOFF | [Read More](https://medium.com/p/7d2f91af9ec2) |
+| Wed, 14 Jan 2026 19:02:48 GMT | Anti-Tampering | Iram Jack | [Read More](https://medium.com/p/4ab109761624) |
+| Wed, 14 Jan 2026 19:00:22 GMT | The Spy, the Zen Master, and the Birth of Cybernetic Psyops: Uncovering the Secret OSS Network | Julian Soloninka | [Read More](https://medium.com/p/f36e47ac0f22) |
+| Wed, 14 Jan 2026 18:41:55 GMT | KVKK Uyumlu SQL Veri İletimi: Güvenli Sorgu Sonucu Yönetimi | SQL CHANGE GUARD | [Read More](https://medium.com/p/6b60fc26eaed) |
+| Wed, 14 Jan 2026 18:39:03 GMT | Security Analysis and Program Hardening | Muhammad Ridwan Cahyadi | [Read More](https://medium.com/p/b92016e8365d) |
 | Wed, 14 Jan 2026 18:32:12 GMT | Red Teaming em IA: aplicando o NIST AI RMF com Promptfoo no Amazon Bedrock | Mauro Camargo | [Read More](https://medium.com/p/497c3c19559a) |
 | Wed, 14 Jan 2026 18:28:06 GMT | CORS Issues in Spring Boot and How I Fix Them in Real Projects | Er Alice Paul | [Read More](https://medium.com/p/f75812dcfa5c) |
 | Wed, 14 Jan 2026 18:25:14 GMT | A 5-Day Bug Bounty Hunt on a Telecom Target: From Recon to RXSS and Open Redirect | SpiX-7 | [Read More](https://medium.com/p/119a27f8e37b) |
 | Wed, 14 Jan 2026 18:23:50 GMT | Secure Kubernetes Deployment Guide (Self-Managed) — Part I | SOCFortress | [Read More](https://medium.com/p/a3f205972648) |
+| Wed, 14 Jan 2026 18:19:13 GMT | Why Execution Boundaries Matter More Than AI Guardrails | ziling-failcore | [Read More](https://medium.com/p/99b3c6d52e4f) |
 | Wed, 14 Jan 2026 18:17:37 GMT | Legacy Domains: The Backdoor in Your Signed URL Strategy | Omer Itach | [Read More](https://medium.com/p/598f921d3b85) |
 | Wed, 14 Jan 2026 18:09:55 GMT | Host Header Injection: A Practical Methodology for Security Testing | Israel Aráoz Severiche | [Read More](https://medium.com/p/c5dab8abf2cf) |
 | Wed, 14 Jan 2026 18:08:44 GMT | The Post-Cloud Era: Why 2026 is the Year of “Small Data” and the Zero-Trust Edge | Ali Zafar | [Read More](https://medium.com/p/5f9eb23361ca) |
@@ -105,11 +113,3 @@ The Internet of Things (IoT) has… | Ankit rai | [Read More](https://medium.com
 | Wed, 14 Jan 2026 13:48:22 GMT | We All Say “WAF”, But What Is It Really? | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/84f11116411d) |
 | Wed, 14 Jan 2026 13:39:18 GMT | How to Choose the Best Security Companies Near Me for Reliable Protection | Security services Near Me | [Read More](https://medium.com/p/63e895db0bb7) |
 | Wed, 14 Jan 2026 13:39:14 GMT | ARINC 429 Bus: Mark 33 DITS — Case Study | Journal of Landing Across Linguistic Foreground | [Read More](https://medium.com/p/f1693064344b) |
-| Wed, 14 Jan 2026 13:37:47 GMT | SQL Injection (SQLi) — Notlarım | Songül Kızılay Özügürler | [Read More](https://medium.com/p/6431eb4bcdda) |
-| Wed, 14 Jan 2026 13:37:31 GMT | Padding Oracles — Write-up (TryHackMe) | Ajay | [Read More](https://medium.com/p/f6c33df845fd) |
-| Wed, 14 Jan 2026 13:36:56 GMT | My Journey Into Penetration Testing | WHHacker | [Read More](https://medium.com/p/52ade7425e0d) |
-| Wed, 14 Jan 2026 13:30:35 GMT | Second-Order SQL Injection | Seiki Rowins Bie | [Read More](https://medium.com/p/99ea28977e22) |
-| Wed, 14 Jan 2026 13:28:48 GMT | How to Properly Gaining Access into System and Target’s Network — Post-Exploitation | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/dc2d1ac6257d) |
-| Wed, 14 Jan 2026 13:25:23 GMT | Cybersecurity — Firewall Configuration Review: A Hands-On Example | Rahul Singh Chauhan | [Read More](https://medium.com/p/5213f7f00f4f) |
-| Wed, 14 Jan 2026 13:16:33 GMT | Hidden Security Vulnerabilities in a Simple Machine Learning Pipeline | VINAYAK KUMAR | [Read More](https://medium.com/p/647f5b8decaf) |
-| Wed, 14 Jan 2026 13:13:03 GMT | Most System Failures Start as Small Exceptions | Mwenda Kelvin | [Read More](https://medium.com/p/4723965403d3) |
