@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 Jan 2026 09:18:13 GMT | The Birthday Trick Hackers Use To Break Security | Redfox Security | [Read More](https://medium.com/p/571005c86438) |
+| Wed, 14 Jan 2026 09:15:15 GMT | Sustainable AI Initiatives and the Next Phase of Responsible Enterprise Intelligence | Kaopiz Global | [Read More](https://medium.com/p/e0933120c5ea) |
+| Wed, 14 Jan 2026 09:13:18 GMT | Yesterday I went to a kirana store with my cousin. She’s 12 (Gen Alpha). | Legally Psyched- briefs, breakdown & burnt coffee | [Read More](https://medium.com/p/92b95cc08971) |
+| Wed, 14 Jan 2026 09:12:28 GMT | Love or Loot? My Crash Course in Campus Cybercrime. | Steph | [Read More](https://medium.com/p/2e064f485757) |
+| Wed, 14 Jan 2026 09:11:04 GMT | From Game Theory to Artificial Intelligence and Cybersecurity | Ziya Gokalp | [Read More](https://medium.com/p/57417629de04) |
+| Wed, 14 Jan 2026 09:09:22 GMT | Modern Çağda Espiyonaj: İnsan İstihbaratından Siber Operasyonlara | Ziya Gokalp | [Read More](https://medium.com/p/6e4b7ba89b19) |
+| Wed, 14 Jan 2026 09:02:55 GMT | Stealer Logs Explained: Why Your Password Was Stolen Without Anyone Hacking You | Alexandre Vandamme | [Read More](https://medium.com/p/7347abf9fe1b) |
+| Wed, 14 Jan 2026 08:56:53 GMT | How IoT Devices Get Hacked and How to Prevent It? | Meerab Khan | [Read More](https://medium.com/p/48f2164e73a3) |
+| Wed, 14 Jan 2026 08:40:27 GMT | DPoP Nonce | Takahiko Kawasaki | [Read More](https://medium.com/p/9787b9d276d1) |
+| Wed, 14 Jan 2026 08:32:23 GMT | Minecraft 1.21.50 APK | Bandisharecx | [Read More](https://medium.com/p/8e5f0fc1d4eb) |
+| Wed, 14 Jan 2026 08:32:17 GMT | What Is Cybersecurity Today? (Spoiler: Not What It Used to Be) | Cedrick FOKO | [Read More](https://medium.com/p/80e80856b2df) |
+| Wed, 14 Jan 2026 08:31:35 GMT | Broken Gates: Why OWASP #1 (Access Control) Is the Hottest Ticket in Bug Bounty | Nicholas Mullenski | [Read More](https://medium.com/p/86df2210d3c0) |
+| Wed, 14 Jan 2026 08:29:26 GMT | Ethical OSINT & Red Team Recon on Snapchat | Snooptsz | [Read More](https://medium.com/p/2f928611c8f1) |
 | Wed, 14 Jan 2026 08:19:13 GMT | Risk & Mitigations for LLMs and GENAI Apps: Part 1 — The Reality! | Nothing Cyber [NC] | [Read More](https://medium.com/p/188c69ef0595) |
 | Wed, 14 Jan 2026 08:18:24 GMT | Weekly Threat Intelligence Report 12  Jan 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/21f745f65806) |
 | Wed, 14 Jan 2026 08:16:06 GMT | Basic Knowledge of Cyber Security ✅ | Ahmed | [Read More](https://medium.com/p/90c389f39ac8) |
@@ -100,16 +113,3 @@ Every morning at 7:15, the same bus stopped at the same corner. | Sakhi Writes |
 | Wed, 14 Jan 2026 00:51:09 GMT | How I Built a SOC Lab in My Bedroom | Abimanyu A | [Read More](https://medium.com/p/17093e739b71) |
 | Wed, 14 Jan 2026 00:48:21 GMT | SBOMs vs Asset Inventories: Bridging the Visibility Gap in Software Security | Praveen Malhan | [Read More](https://medium.com/p/e42964280e13) |
 | Wed, 14 Jan 2026 00:48:01 GMT | When the Terminator Stops Being Fiction | Dr. Thomas Jreige | [Read More](https://medium.com/p/2e518e986f85) |
-| Wed, 14 Jan 2026 00:47:18 GMT | Malware Development with NIM — Malicious Self-Replication | Edgar Huemac Sanchez Hernandez | [Read More](https://medium.com/p/5781af6ccb09) |
-| Wed, 14 Jan 2026 00:47:06 GMT | How to Secure a Linux System in 20 Minutes | Sam Writes Security | [Read More](https://medium.com/p/1d4ccabce95f) |
-| Wed, 14 Jan 2026 00:37:41 GMT | Beyond the Process: The Three Pillars of Threat Modeling | Mudassir Syed | [Read More](https://medium.com/p/a359676befbb) |
-| Wed, 14 Jan 2026 00:15:59 GMT | ScreenConnect Vulnerability | Mehmet Ali Gülyurdu | [Read More](https://medium.com/p/4b69fbc8562c) |
-| Wed, 14 Jan 2026 00:02:50 GMT | Masscan vs. Nmap: Port Scanning Guide for Bug Bounty | JPablo13 | [Read More](https://medium.com/p/7b4c93f0acc3) |
-| Tue, 13 Jan 2026 23:56:42 GMT | n8n Workflow Automation Platform Affected by Remote Code Execution Vulnerability (CVE-2025–68613) | Criminal IP | [Read More](https://medium.com/p/aa26a24e9a0e) |
-| Tue, 13 Jan 2026 23:36:24 GMT | Boas práticas: heróis ou vilãs | Bernardo Marcondes | [Read More](https://medium.com/p/17409a156842) |
-| Tue, 13 Jan 2026 23:33:19 GMT | The Skills Gap No One Is Addressing: Why Cybersecurity and Data Analytics Are Becoming the New… | Abdalla Gadalla | [Read More](https://medium.com/p/9f223d6dae07) |
-| Tue, 13 Jan 2026 23:32:49 GMT | Can you Realistcally Hack a Wifi Network In 2026 — I Tried. | Alex Grande | [Read More](https://medium.com/p/b56d9623c967) |
-| Tue, 13 Jan 2026 23:32:07 GMT | Cybersecurity Ethical Hacking — Discover the Top 3 Career Strategies for Career Advancement | Franklin Rhodes | [Read More](https://medium.com/p/d1d4ec31a1d9) |
-| Tue, 13 Jan 2026 23:28:00 GMT | How IDS, IPS, and Load Balancing Detection Tools Work in Penetration Testing | mohandika | [Read More](https://medium.com/p/239fbd4e8132) |
-| Tue, 13 Jan 2026 23:26:56 GMT | [Part 17] AI Governance & Ethics in Cybersecurity: Who Watches the Watchers? | Cyberkech | [Read More](https://medium.com/p/83b7f25e50b8) |
-| Tue, 13 Jan 2026 23:24:35 GMT | Targeted LinkedIn Phishing Attempt | Samuel George | [Read More](https://medium.com/p/8fb8044a93c3) |
