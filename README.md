@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 Jan 2026 11:17:47 GMT | SSL Pinning: How does it actually prevent MitM Attacks | Darshan Miskin | [Read More](https://medium.com/p/4a75c99d11a7) |
+| Wed, 14 Jan 2026 11:10:59 GMT | When MFA Trusts the Wrong Identity: A Lazy Afternoon Pentest | Rahul M S | [Read More](https://medium.com/p/e518ea202f1d) |
+| Wed, 14 Jan 2026 11:09:06 GMT | Why Small Progress Is Better Than No Progress at All | SIMPLE ARTICAL | [Read More](https://medium.com/p/34dc959b45d6) |
+| Wed, 14 Jan 2026 11:09:00 GMT | illegal tears | JIA’s diary | [Read More](https://medium.com/p/5547deaa3fc9) |
+| Wed, 14 Jan 2026 11:04:38 GMT | Perfect Scores, Real Losses: Why Static Token Scanners Keep Missing Rug Pulls | TestMachine.ai | [Read More](https://medium.com/p/1b8ef75027f0) |
+| Wed, 14 Jan 2026 11:03:57 GMT | Why SaaS Breaches in 2026 Will Come From APIs You Didn’t Test? | Microscan Communications | [Read More](https://medium.com/p/034d32fb0c9c) |
+| Wed, 14 Jan 2026 10:59:19 GMT | Day 6 :File Management and Service Control | Mohammad-AL-Momani | [Read More](https://medium.com/p/3511b82f3e44) |
 | Wed, 14 Jan 2026 10:42:02 GMT | VoidLink Malware: The Advanced Threat Targeting Linux Cloud | Technijian | [Read More](https://medium.com/p/b7d9f8c17149) |
 | Wed, 14 Jan 2026 10:41:10 GMT | 7 duties of a security personnel: what do they do, and why organizations need them | Trust Consulting Services | [Read More](https://medium.com/p/d6c94c7c52d6) |
 | Wed, 14 Jan 2026 10:34:12 GMT | Certified Cybersecurity Technician (CCT) | Ryan Brooks | [Read More](https://medium.com/p/70ded4f1e03a) |
@@ -106,10 +113,3 @@ Every morning at 7:15, the same bus stopped at the same corner. | Sakhi Writes |
 | Wed, 14 Jan 2026 04:41:30 GMT | Why I’m Paying Attention to Cybersecurity News (and Why This Blog Exists) | Hector Garcia | [Read More](https://medium.com/p/1c5d3a172ff7) |
 | Wed, 14 Jan 2026 04:16:42 GMT | Hack Gangstar Vegas | Apkpuredev | [Read More](https://medium.com/p/bacebb80f743) |
 | Wed, 14 Jan 2026 04:14:16 GMT | How I Found a Critical SSRF (Very Easily) Through Redirect Bypass | Be nice insabat | [Read More](https://medium.com/p/1bddcc068984) |
-| Wed, 14 Jan 2026 04:12:48 GMT | How AI Will Reshape Industries in the Next 10 Years | Shahzad Ahmad | [Read More](https://medium.com/p/9c812a2df62e) |
-| Wed, 14 Jan 2026 04:08:57 GMT | Log Analysis with SIEM. TryHackMe Walkthrough. | Lintu Oommen | [Read More](https://medium.com/p/e5d3b910b2e1) |
-| Wed, 14 Jan 2026 04:03:30 GMT | CISO Red-Teams the AI Tools to Protect the Company | Matthew.Rosenquist | [Read More](https://medium.com/p/36f888fa2aea) |
-| Wed, 14 Jan 2026 03:58:29 GMT | How to Stop Your NL2SQL Agents From Crashing in Production: The Worker-Pool Pattern | Nadeem Khan(NK) | [Read More](https://medium.com/p/f575c832af69) |
-| Wed, 14 Jan 2026 03:50:37 GMT | Cloudbric Mask Global Service Launch | Cloudbric | [Read More](https://medium.com/p/6ee4d2b5180d) |
-| Wed, 14 Jan 2026 03:50:06 GMT | 영상/사진 비식별화 서비스(Cloudbric Mask) 글로벌 서비스 오픈 | Cloudbric | [Read More](https://medium.com/p/07438ff1746e) |
-| Wed, 14 Jan 2026 03:48:18 GMT | OverTheWire Bandit (Day 14): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/083e5bdb721c) |
