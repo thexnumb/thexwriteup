@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 Jan 2026 11:36:17 GMT | How Cybersecurity Consulting Services Strengthen Your Security Strategy | SmartCLOUD Australia | [Read More](https://medium.com/p/c5030bdb0ada) |
+| Wed, 14 Jan 2026 11:36:04 GMT | From Normal to Malicious: Understanding Network Traffic with Wireshark | Mafika Seranyane | [Read More](https://medium.com/p/32f4b7376f27) |
+| Wed, 14 Jan 2026 11:35:34 GMT | Pentest PostgreSQL : le “petit port” qui cache parfois un gros incident. | Naïm Aouaichia | [Read More](https://medium.com/p/668f3d6eb1cf) |
+| Wed, 14 Jan 2026 11:35:02 GMT | Allsafe Android Pentesting — Part 4: Firebase Database Insecure Rules | Mscmkn | [Read More](https://medium.com/p/f23dae468460) |
+| Wed, 14 Jan 2026 11:30:33 GMT | Banking Series CTF — Hints and Solutions | Invariant0 | [Read More](https://medium.com/p/da3187f418c8) |
+| Wed, 14 Jan 2026 11:30:22 GMT | How Pro Hackers Test Internal Subdomains (admin, stage, dev) Without “Hacking.” | NullSec | [Read More](https://medium.com/p/311059a35fe2) |
+| Wed, 14 Jan 2026 11:29:59 GMT | Adapting Agile Frameworks for Artificial Intelligence and Blockchain Projects: Challenges and… | WajeehaKF.official | [Read More](https://medium.com/p/6537098c1b98) |
 | Wed, 14 Jan 2026 11:17:47 GMT | SSL Pinning: How does it actually prevent MitM Attacks | Darshan Miskin | [Read More](https://medium.com/p/4a75c99d11a7) |
 | Wed, 14 Jan 2026 11:10:59 GMT | When MFA Trusts the Wrong Identity: A Lazy Afternoon Pentest | Rahul M S | [Read More](https://medium.com/p/e518ea202f1d) |
 | Wed, 14 Jan 2026 11:09:06 GMT | Why Small Progress Is Better Than No Progress at All | SIMPLE ARTICAL | [Read More](https://medium.com/p/34dc959b45d6) |
@@ -49,6 +56,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 Jan 2026 09:12:28 GMT | Love or Loot? My Crash Course in Campus Cybercrime. | Steph | [Read More](https://medium.com/p/2e064f485757) |
 | Wed, 14 Jan 2026 09:11:04 GMT | From Game Theory to Artificial Intelligence and Cybersecurity | Ziya Gokalp | [Read More](https://medium.com/p/57417629de04) |
 | Wed, 14 Jan 2026 09:09:22 GMT | Modern Çağda Espiyonaj: İnsan İstihbaratından Siber Operasyonlara | Ziya Gokalp | [Read More](https://medium.com/p/6e4b7ba89b19) |
+| Wed, 14 Jan 2026 09:06:30 GMT | Lab: Web cache poisoning via an unkeyed query string - Portswiger | L4V4NY4  AGR3 | [Read More](https://medium.com/p/e8d7c271008e) |
 | Wed, 14 Jan 2026 09:02:55 GMT | Stealer Logs Explained: Why Your Password Was Stolen Without Anyone Hacking You | Alexandre Vandamme | [Read More](https://medium.com/p/7347abf9fe1b) |
 | Wed, 14 Jan 2026 08:56:53 GMT | How IoT Devices Get Hacked and How to Prevent It? | Meerab Khan | [Read More](https://medium.com/p/48f2164e73a3) |
 | Wed, 14 Jan 2026 08:40:27 GMT | DPoP Nonce | Takahiko Kawasaki | [Read More](https://medium.com/p/9787b9d276d1) |
@@ -105,11 +113,3 @@ Every morning at 7:15, the same bus stopped at the same corner. | Sakhi Writes |
 | Wed, 14 Jan 2026 05:16:11 GMT | Turn Your Android Phone Into a Pentesting Suite (No Root Required) | gecr07 | [Read More](https://medium.com/p/62b3f098356c) |
 | Wed, 14 Jan 2026 05:04:42 GMT | Are We Reaching a Digital Tipping Point? Trust, AI, and the Future of Doing Business | Niko Antonogiannis | [Read More](https://medium.com/p/7e204391eb8f) |
 | Wed, 14 Jan 2026 05:03:01 GMT | Splunk: Corelight - Trickbot CTF Write-Up | Jenny | [Read More](https://medium.com/p/d862da23bd0e) |
-| Wed, 14 Jan 2026 05:01:29 GMT | I Built a Lightweight Port Scanner Because Nmap Isn’t Always the Right Tool | Mate Technologies | [Read More](https://medium.com/p/a335e10c268a) |
-| Wed, 14 Jan 2026 04:59:11 GMT | When Trust Becomes the Threat: A New Phishing Attack Impersonating DocuSign | Deven Chhajed | [Read More](https://medium.com/p/cb40fbb85504) |
-| Wed, 14 Jan 2026 04:44:40 GMT | Commercial Security in Houston | Security Houston | [Read More](https://medium.com/p/5ec73cc1a1a7) |
-| Wed, 14 Jan 2026 04:42:12 GMT | Securing the Build: A Deep Dive into a Symlink Race Condition in Google’s Distroless | Anandppatil | [Read More](https://medium.com/p/997157d9c965) |
-| Wed, 14 Jan 2026 04:41:54 GMT | Defend Your Digital Assets: A Guide to Website Cyber Security | Aftab Rehman | [Read More](https://medium.com/p/0bb9f447c1f7) |
-| Wed, 14 Jan 2026 04:41:30 GMT | Why I’m Paying Attention to Cybersecurity News (and Why This Blog Exists) | Hector Garcia | [Read More](https://medium.com/p/1c5d3a172ff7) |
-| Wed, 14 Jan 2026 04:16:42 GMT | Hack Gangstar Vegas | Apkpuredev | [Read More](https://medium.com/p/bacebb80f743) |
-| Wed, 14 Jan 2026 04:14:16 GMT | How I Found a Critical SSRF (Very Easily) Through Redirect Bypass | Be nice insabat | [Read More](https://medium.com/p/1bddcc068984) |
