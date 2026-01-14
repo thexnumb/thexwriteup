@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 Jan 2026 21:41:19 GMT | DNS Log Analysis using Splunk | Jason Hoskins Jr. | [Read More](https://medium.com/p/cd5a18f47aca) |
+| Wed, 14 Jan 2026 21:38:51 GMT | How Security Teams Can Use Shodan.io to See What Attackers See | Mohsin Khan | [Read More](https://medium.com/p/8f06d5b5d424) |
+| Wed, 14 Jan 2026 21:34:54 GMT | How to Protect Yourself From Malicious Links and Online Scams | Ifebuche Juliet | [Read More](https://medium.com/p/f1cf80238274) |
+| Wed, 14 Jan 2026 21:34:48 GMT | Hacked Despite 2FA: My LinkedIn Hack Lessons | Ebube Nwankwo | [Read More](https://medium.com/p/d1bb6b8fd8cd) |
+| Wed, 14 Jan 2026 21:29:05 GMT | Why I Built VaultKey Offline Password Manager (And Why I Resisted It for a Long Time) | MoogleTechnology Canada | [Read More](https://medium.com/p/4e615f880845) |
+| Wed, 14 Jan 2026 21:28:51 GMT | Anthropic Didn’t Donate to Python. They Paid a Ransom. | Ferid Brković | [Read More](https://medium.com/p/e8719888dbe5) |
+| Wed, 14 Jan 2026 21:24:20 GMT | Beyond the Exit: The Sovereign Architect – Building an Enduring Empire of Systems, Not Just… | Serin Noman ✨ | [Read More](https://medium.com/p/7cb1357ddcbd) |
+| Wed, 14 Jan 2026 21:20:18 GMT | How I almost got hacked by a “recruiter”. | Ben | [Read More](https://medium.com/p/c520b4a779ef) |
+| Wed, 14 Jan 2026 21:19:08 GMT | Security Analysis and Program Hardening of a Web-Based Student Management Application | Rafiiunfaadi | [Read More](https://medium.com/p/c3c76a566b1b) |
+| Wed, 14 Jan 2026 21:18:33 GMT | Digital Forensic Investigation of Insider Data Leakage Using Disk Image and Chat Log Analysis | Rafiiunfaadi | [Read More](https://medium.com/p/71a23af6cc23) |
+| Wed, 14 Jan 2026 21:12:32 GMT | Security Analysis and Hardening of a Flask-SQLite Student Management System | Nazario Jose Valente | [Read More](https://medium.com/p/20db6fca64a8) |
 | Wed, 14 Jan 2026 21:11:28 GMT | Tesla Autopilot | Leisha  B. | [Read More](https://medium.com/p/70b15668390a) |
 | Wed, 14 Jan 2026 21:07:36 GMT | Confidence is a Performance. No One is Actually Self-Assured​ | Gumral Huseinzade | [Read More](https://medium.com/p/cd7758ba9ad6) |
 | Wed, 14 Jan 2026 20:50:12 GMT | FortiSIEM Architecture | Barbaros Küçükpınar | [Read More](https://medium.com/p/34a86e3e8a6e) |
@@ -41,6 +52,7 @@ Every morning at 7:15, the same bus stopped at the same corner. | Sakhi Writes |
 | Wed, 14 Jan 2026 19:12:40 GMT | SUID Permission — The Silent Door to Privilege Escalation | PriOFF | [Read More](https://medium.com/p/7d2f91af9ec2) |
 | Wed, 14 Jan 2026 19:02:48 GMT | Anti-Tampering | Iram Jack | [Read More](https://medium.com/p/4ab109761624) |
 | Wed, 14 Jan 2026 19:00:22 GMT | The Spy, the Zen Master, and the Birth of Cybernetic Psyops: Uncovering the Secret OSS Network | Julian Soloninka | [Read More](https://medium.com/p/f36e47ac0f22) |
+| Wed, 14 Jan 2026 18:52:56 GMT | Memahami Perintah `free`: Memantau Penggunaan Memori di Linux | Andi Almafhum | [Read More](https://medium.com/p/23b8f3f9c11b) |
 | Wed, 14 Jan 2026 18:41:55 GMT | KVKK Uyumlu SQL Veri İletimi: Güvenli Sorgu Sonucu Yönetimi | SQL CHANGE GUARD | [Read More](https://medium.com/p/6b60fc26eaed) |
 | Wed, 14 Jan 2026 18:39:03 GMT | Security Analysis and Program Hardening | Muhammad Ridwan Cahyadi | [Read More](https://medium.com/p/b92016e8365d) |
 | Wed, 14 Jan 2026 18:32:12 GMT | Red Teaming em IA: aplicando o NIST AI RMF com Promptfoo no Amazon Bedrock | Mauro Camargo | [Read More](https://medium.com/p/497c3c19559a) |
@@ -101,16 +113,3 @@ Every morning at 7:15, the same bus stopped at the same corner. | Sakhi Writes |
 | Wed, 14 Jan 2026 15:40:01 GMT | Why Wireshark Finally Made Sense: TryHackMe, College, and the Right Pace | Crystal_cascade14 | [Read More](https://medium.com/p/29b8e12c23e9) |
 | Wed, 14 Jan 2026 15:37:55 GMT | Critical Sudo Vulnerabilities — CVE-2025–32462 and CVE-2025–32463 | Lakshan Sameera | [Read More](https://medium.com/p/0ee43d15f942) |
 | Wed, 14 Jan 2026 15:31:59 GMT | Data brokers sell your private information: How data removal services optimize opting out | Karl Buhl | [Read More](https://medium.com/p/a61c0512708a) |
-| Wed, 14 Jan 2026 15:30:13 GMT | The Cost of Treating Security as Infrastructure | Reyanshicodes | [Read More](https://medium.com/p/47a9e7207fda) |
-| Wed, 14 Jan 2026 15:29:55 GMT | Why Every Node.js Developer Needs to Update Right Now (CVE-2025–59466) | Dhanush N | [Read More](https://medium.com/p/1c1306e3099a) |
-| Wed, 14 Jan 2026 15:15:18 GMT | How to Secure Your IT Department: A Comprehensive Guide | Doctor IT Services - Managed IT Service Provider | [Read More](https://medium.com/p/038e7d24dc91) |
-| Wed, 14 Jan 2026 15:12:23 GMT | Why Proper Pentest Scoping Determines Project Success | Sachin Sawant | [Read More](https://medium.com/p/b8916975e596) |
-| Wed, 14 Jan 2026 15:02:48 GMT | CloudGoat AWS SNS Secrets Walkthrough | Spookz | [Read More](https://medium.com/p/65ffffe5cab5) |
-| Wed, 14 Jan 2026 15:01:06 GMT | Revolutionizing GRC: Leveraging Snowflake as Your Compliance Engine | Vince Luongo | [Read More](https://medium.com/p/3438cf08cd08) |
-| Wed, 14 Jan 2026 15:01:05 GMT | Cyber Briefing: 2026.01.14 | CyberMaterial | [Read More](https://medium.com/p/a7a723e94ecb) |
-| Wed, 14 Jan 2026 14:52:40 GMT | 82% of Organizations Were Breached Through Containers | inboryn | [Read More](https://medium.com/p/cca97f7b753b) |
-| Wed, 14 Jan 2026 14:40:29 GMT | From Shops to Offices: Why Security Screen Doors Are Becoming a Must-Have | Chloe Taylor | [Read More](https://medium.com/p/a4a9ba90c0c6) |
-| Wed, 14 Jan 2026 14:38:37 GMT | Not a “Replacement,” but an “Overlay” — Strengthening Existing Wallets with the Ultimate Defense | Satelite | [Read More](https://medium.com/p/accc538ac492) |
-| Wed, 14 Jan 2026 14:37:14 GMT | If you weren’t here tomorrow, would your crypto be lost with you? | Bitzo | [Read More](https://medium.com/p/6f7879f7f094) |
-| Wed, 14 Jan 2026 14:35:59 GMT | Why IoT Security Is the Next Major Cybersecurity Challenge
-The Internet of Things (IoT) has… | Ankit rai | [Read More](https://medium.com/p/544d9984acb1) |
