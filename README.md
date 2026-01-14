@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 Jan 2026 15:43:10 GMT | Instead, start teaching them, make it personal, make it a conversation, make it relatable – | Aaron Strong | [Read More](https://medium.com/p/9780687906c0) |
+| Wed, 14 Jan 2026 15:40:01 GMT | Why Wireshark Finally Made Sense: TryHackMe, College, and the Right Pace | Crystal_cascade14 | [Read More](https://medium.com/p/29b8e12c23e9) |
+| Wed, 14 Jan 2026 15:31:59 GMT | Data brokers sell your private information: How data removal services optimize opting out | Karl Buhl | [Read More](https://medium.com/p/a61c0512708a) |
+| Wed, 14 Jan 2026 15:29:55 GMT | Why Every Node.js Developer Needs to Update Right Now (CVE-2025–59466) | Dhanush N | [Read More](https://medium.com/p/1c1306e3099a) |
+| Wed, 14 Jan 2026 15:15:18 GMT | How to Secure Your IT Department: A Comprehensive Guide | Doctor IT Services - Managed IT Service Provider | [Read More](https://medium.com/p/038e7d24dc91) |
 | Wed, 14 Jan 2026 15:02:48 GMT | CloudGoat AWS SNS Secrets Walkthrough | Spookz | [Read More](https://medium.com/p/65ffffe5cab5) |
 | Wed, 14 Jan 2026 15:01:06 GMT | Revolutionizing GRC: Leveraging Snowflake as Your Compliance Engine | Vince Luongo | [Read More](https://medium.com/p/3438cf08cd08) |
 | Wed, 14 Jan 2026 15:01:05 GMT | Cyber Briefing: 2026.01.14 | CyberMaterial | [Read More](https://medium.com/p/a7a723e94ecb) |
@@ -108,8 +113,3 @@ The Internet of Things (IoT) has… | Ankit rai | [Read More](https://medium.com
 | Wed, 14 Jan 2026 10:12:21 GMT | Republic Day, Security, and the Psychology of Possessions | Ramesh Raj | [Read More](https://medium.com/p/a2d922b1a5b5) |
 | Wed, 14 Jan 2026 10:06:34 GMT | The Polyglot Defender: Why Code is Your Best Weapon in Cybersecurity | Aravind S Narayan | [Read More](https://medium.com/p/5e6bebe27bf3) |
 | Wed, 14 Jan 2026 10:03:22 GMT | Apakah Foto & Video di Sosmed Masih Bisa Dipercaya? | Panjat4d Tech & AI | [Read More](https://medium.com/p/fdde9b7655a1) |
-| Wed, 14 Jan 2026 09:57:09 GMT | Why Thermal Imaging Is Becoming Essential for Modern Field Professionals | Night Vision 4 Less | [Read More](https://medium.com/p/fe62a5808aaa) |
-| Wed, 14 Jan 2026 09:54:45 GMT | Cybersecurity Leadership in the Public Sector | Basir | [Read More](https://medium.com/p/8c56c95edf94) |
-| Wed, 14 Jan 2026 09:50:46 GMT | No Click, No Run — Automatic Malware Execution Hidden in a VSCode Project | Evgenii | [Read More](https://medium.com/p/e56da0ed4220) |
-| Wed, 14 Jan 2026 09:48:30 GMT | The Anatomy of S3 Security: 22 Checks That Stand Between You and a Data Breach | Tarek CHEIKH | [Read More](https://medium.com/p/738f075a1771) |
-| Wed, 14 Jan 2026 09:48:12 GMT | Building an S3 Security Scanner: From Frustration to Open Source | Tarek CHEIKH | [Read More](https://medium.com/p/59db9167b829) |
