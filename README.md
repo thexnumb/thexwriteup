@@ -12,9 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 Jan 2026 10:42:02 GMT | VoidLink Malware: The Advanced Threat Targeting Linux Cloud | Technijian | [Read More](https://medium.com/p/b7d9f8c17149) |
+| Wed, 14 Jan 2026 10:41:10 GMT | 7 duties of a security personnel: what do they do, and why organizations need them | Trust Consulting Services | [Read More](https://medium.com/p/d6c94c7c52d6) |
+| Wed, 14 Jan 2026 10:34:12 GMT | Certified Cybersecurity Technician (CCT) | Ryan Brooks | [Read More](https://medium.com/p/70ded4f1e03a) |
+| Wed, 14 Jan 2026 10:34:03 GMT | From Service Exploit to SYSTEM: Why “Low-Priv” on Windows Is Often a Lie | Yua Mikanana | [Read More](https://medium.com/p/84ee3ade067f) |
+| Wed, 14 Jan 2026 10:28:50 GMT | The Science of Unpredictability: Architecting NIST-Compliant CSPRNG for Distributed Systems | Jinpyo181 | [Read More](https://medium.com/p/07475d9eeaec) |
+| Wed, 14 Jan 2026 10:27:29 GMT | SOC vs MDR Costs: Analyst Time and Infrastructure Dominate | Graylog | [Read More](https://medium.com/p/84cc44a3befc) |
+| Wed, 14 Jan 2026 10:25:19 GMT | All Important Network Types Explained — A Complete Beginner to Pro Guide | Shadow Attackers | [Read More](https://medium.com/p/07c427b62dc1) |
 | Wed, 14 Jan 2026 10:21:17 GMT | Vulnerability in Broadcom chipset causes network disruption and client disconnection on wireless… | Re: News | [Read More](https://medium.com/p/10a77c3a0992) |
 | Wed, 14 Jan 2026 10:19:15 GMT | Importance of ISO Certification for Cyber Security | Sqccertification | [Read More](https://medium.com/p/06cf7103db5d) |
 | Wed, 14 Jan 2026 10:18:43 GMT | Developing an Information Security Management System (ISMS) Policy | Adeoluwa Obadofin | [Read More](https://medium.com/p/53c633c383cf) |
+| Wed, 14 Jan 2026 10:17:55 GMT | Top Security Awareness Training Solutions for 2026 | Keepnet Labs | [Read More](https://medium.com/p/3435bab377e3) |
 | Wed, 14 Jan 2026 10:14:37 GMT | How centralized is DeFi, really? Peeling back the layers of power | Shift | [Read More](https://medium.com/p/6679c7b34e33) |
 | Wed, 14 Jan 2026 10:12:21 GMT | Republic Day, Security, and the Psychology of Possessions | Ramesh Raj | [Read More](https://medium.com/p/a2d922b1a5b5) |
 | Wed, 14 Jan 2026 10:06:34 GMT | The Polyglot Defender: Why Code is Your Best Weapon in Cybersecurity | Aravind S Narayan | [Read More](https://medium.com/p/5e6bebe27bf3) |
@@ -105,11 +113,3 @@ Every morning at 7:15, the same bus stopped at the same corner. | Sakhi Writes |
 | Wed, 14 Jan 2026 03:50:37 GMT | Cloudbric Mask Global Service Launch | Cloudbric | [Read More](https://medium.com/p/6ee4d2b5180d) |
 | Wed, 14 Jan 2026 03:50:06 GMT | 영상/사진 비식별화 서비스(Cloudbric Mask) 글로벌 서비스 오픈 | Cloudbric | [Read More](https://medium.com/p/07438ff1746e) |
 | Wed, 14 Jan 2026 03:48:18 GMT | OverTheWire Bandit (Day 14): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/083e5bdb721c) |
-| Wed, 14 Jan 2026 03:45:53 GMT | So I Turned My Vinyl Records Into Passwords | d.io.nh | [Read More](https://medium.com/p/2ceebbf383b5) |
-| Wed, 14 Jan 2026 03:40:18 GMT | Malspam Campaign Abusing Microsoft Outlook to Deploy LogMeIn GoToResolve RMM | Regan Temudo | [Read More](https://medium.com/p/0dacc8bf7f17) |
-| Wed, 14 Jan 2026 03:40:03 GMT | OSINT Under the Hood: Landing the Job and showcasing Your OSINT Skills | Rabail Zaheer | [Read More](https://medium.com/p/5e585b1e1595) |
-| Wed, 14 Jan 2026 03:39:51 GMT | How AI Is Transforming Security Analysis in Modern Java Systems | Mustapha Aitigunaoun | [Read More](https://medium.com/p/51346501d892) |
-| Wed, 14 Jan 2026 03:39:44 GMT | A List of Every Cybersecurity Abbreviation There Is (Part 2) | Raymond Ebonine | [Read More](https://medium.com/p/78afb70d9cdd) |
-| Wed, 14 Jan 2026 03:39:31 GMT | Tools that bug bounty hunter should know for Beginner | Mainekhacker | [Read More](https://medium.com/p/47b41969bee9) |
-| Wed, 14 Jan 2026 03:36:36 GMT | Apple Just Admitted It Can’t Build AI (And Paid Google $1 Billion to Fix It) | Ronald Kimmons | [Read More](https://medium.com/p/e2f5146dd725) |
-| Wed, 14 Jan 2026 03:32:48 GMT | 6 Common SSRF Risks in Node.js | Arunangshu Das | [Read More](https://medium.com/p/515c243d100a) |
