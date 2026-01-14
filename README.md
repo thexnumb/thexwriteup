@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 Jan 2026 13:39:18 GMT | How to Choose the Best Security Companies Near Me for Reliable Protection | Security services Near Me | [Read More](https://medium.com/p/63e895db0bb7) |
+| Wed, 14 Jan 2026 13:36:56 GMT | My Journey Into Penetration Testing | WHHacker | [Read More](https://medium.com/p/52ade7425e0d) |
+| Wed, 14 Jan 2026 13:30:35 GMT | Second-Order SQL Injection | Seiki Rowins Bie | [Read More](https://medium.com/p/99ea28977e22) |
+| Wed, 14 Jan 2026 13:28:48 GMT | How to Properly Gaining Access into System and Target’s Network — Post-Exploitation | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/dc2d1ac6257d) |
+| Wed, 14 Jan 2026 13:25:23 GMT | Cybersecurity — Firewall Configuration Review: A Hands-On Example | Rahul Singh Chauhan | [Read More](https://medium.com/p/5213f7f00f4f) |
+| Wed, 14 Jan 2026 13:16:33 GMT | Hidden Security Vulnerabilities in a Simple Machine Learning Pipeline | VINAYAK KUMAR | [Read More](https://medium.com/p/647f5b8decaf) |
+| Wed, 14 Jan 2026 13:13:03 GMT | Most System Failures Start as Small Exceptions | Mwenda Kelvin | [Read More](https://medium.com/p/4723965403d3) |
+| Wed, 14 Jan 2026 13:07:12 GMT | Be selfish and choose you. | Ihuoma ❤️ | [Read More](https://medium.com/p/3e2cbf00b055) |
+| Wed, 14 Jan 2026 13:06:26 GMT | CVE‑2026‑22781: TinyWeb’s Critical OS Command Injection Flaw | gm0 | [Read More](https://medium.com/p/884702d15c98) |
+| Wed, 14 Jan 2026 13:05:17 GMT | Mental Health in 2026 [Trends, Tips & Tools You Need] | Mr.Ali | [Read More](https://medium.com/p/7095398e340d) |
+| Wed, 14 Jan 2026 13:00:45 GMT | Web Security 101: Authentication 1.0 | Bit by Bit | [Read More](https://medium.com/p/3ba0a7fe9f7f) |
+| Wed, 14 Jan 2026 13:00:35 GMT | Network Detection and Response (NDR) Solutions Health Check | NetWitness | [Read More](https://medium.com/p/01deaebd498b) |
 | Wed, 14 Jan 2026 12:45:08 GMT | Hack The Box — Previous Machine Walk-through | SubhaDip | [Read More](https://medium.com/p/6fd93d79fd63) |
 | Wed, 14 Jan 2026 12:42:43 GMT | PNPT Exam Review 2026 — Passed on My First Attempt in Under 24 Hours | Talha Khatib | [Read More](https://medium.com/p/7f3d4625c013) |
 | Wed, 14 Jan 2026 12:27:06 GMT | Cyber Security Course in Bangalore | sharanya das | [Read More](https://medium.com/p/9a46495be789) |
@@ -100,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 Jan 2026 07:51:40 GMT | Eu só consigo acertar um alvo se conseguir visualizá-lo. | Lucas Aryel Rodrigues Mayer | [Read More](https://medium.com/p/1995e6852d56) |
 | Wed, 14 Jan 2026 07:51:38 GMT | Cybersecurity Is Breaking in Predictable Patterns | Prerna Shukla | [Read More](https://medium.com/p/dab5fb19d5da) |
 | Wed, 14 Jan 2026 07:44:28 GMT | Beyond the War on Terror: Unraveling Years of West-Islam Confrontation and Cooperation | MASUM BILLAH | [Read More](https://medium.com/p/843741fcde76) |
-| Wed, 14 Jan 2026 07:37:51 GMT | How Event Security Services in Singapore Improve Overall Event Management | Jane Tang | [Read More](https://medium.com/p/b9a69b1533b3) |
-| Wed, 14 Jan 2026 07:36:12 GMT | Why I Recommend NordVPN as a BS Cyber Security Student (And Who Actually Needs It) | Minisky | [Read More](https://medium.com/p/42585adc06bf) |
-| Wed, 14 Jan 2026 07:32:50 GMT | Understanding How People Share Passwords in Collectivist Contexts | Andy Afrizal | [Read More](https://medium.com/p/e4ca63064326) |
-| Wed, 14 Jan 2026 07:32:47 GMT | Data Security in Microsoft Fabric | Sam Campitiello | [Read More](https://medium.com/p/9f32b4fb3075) |
-| Wed, 14 Jan 2026 07:32:47 GMT | LLM Backends Need Permissions, Not Prompts: Capability-Based Tooling, Sandboxing, and Audit Trails | Codastra | [Read More](https://medium.com/p/06426c9a9e7b) |
-| Wed, 14 Jan 2026 07:27:06 GMT | Why 50,000+ TPS Is the New Standard for Credential Verification | JadeQuest | [Read More](https://medium.com/p/04b1df657090) |
-| Wed, 14 Jan 2026 07:16:59 GMT | When Kites Fly, So Do Phishing Attacks: Makarsankranti from a Red Team Perspective | Krutik Thakar — Secure Developer - VAPT Associate | [Read More](https://medium.com/p/c953a2f957eb) |
-| Wed, 14 Jan 2026 07:13:27 GMT | He Left the Seat Empty
-Every morning at 7:15, the same bus stopped at the same corner. | Sakhi Writes | [Read More](https://medium.com/p/0b3625efef3d) |
-| Wed, 14 Jan 2026 07:11:56 GMT | Everyday Computer Safety Simplified by Antivirus for Windows | Siyanoav | [Read More](https://medium.com/p/3b4ac322eeb8) |
-| Wed, 14 Jan 2026 07:09:22 GMT | Will AI Save or Sink Healthcare? - The Daily Tech Digest: 14 January 2026 | Souren Stepanyan | [Read More](https://medium.com/p/4c2852e5e58a) |
-| Wed, 14 Jan 2026 07:09:04 GMT | APT41: TOUGHPROGRESS Malware Analysis | Siddharth Avi Singh | [Read More](https://medium.com/p/bf27aaf3d3a0) |
-| Wed, 14 Jan 2026 06:59:48 GMT | Kimwolf Android Botnet Report | Threatsys Technologies Pvt Ltd | [Read More](https://medium.com/p/d239e433658c) |
