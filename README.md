@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 Jan 2026 21:11:28 GMT | Tesla Autopilot | Leisha  B. | [Read More](https://medium.com/p/70b15668390a) |
+| Wed, 14 Jan 2026 21:07:36 GMT | Confidence is a Performance. No One is Actually Self-Assured​ | Gumral Huseinzade | [Read More](https://medium.com/p/cd7758ba9ad6) |
+| Wed, 14 Jan 2026 20:50:12 GMT | FortiSIEM Architecture | Barbaros Küçükpınar | [Read More](https://medium.com/p/34a86e3e8a6e) |
+| Wed, 14 Jan 2026 20:42:50 GMT | FortiSIEM Mimarisi | Barbaros Küçükpınar | [Read More](https://medium.com/p/b007f05d26ea) |
+| Wed, 14 Jan 2026 20:42:29 GMT | An SSRF Sink You’re Probably Skipping (It Earned Me $700 in Bounties) | Thomas A. | [Read More](https://medium.com/p/438231ab5205) |
 | Wed, 14 Jan 2026 20:40:50 GMT | Why Cloud Vaults Fail When You Need Them Most | MoogleTechnology Canada | [Read More](https://medium.com/p/c674fa9773ed) |
+| Wed, 14 Jan 2026 20:38:08 GMT | TryHackMe : Blue Machine Writeup | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/14bf8ddb91e4) |
 | Wed, 14 Jan 2026 20:26:32 GMT | TheHackersLabs — Castor [WriteUp] | APS88 | [Read More](https://medium.com/p/121ecf7121f0) |
 | Wed, 14 Jan 2026 20:20:50 GMT | I Built a Basic Branch Office LAN in Cisco Packet Tracer | Grace Jaman | [Read More](https://medium.com/p/ce534ba20cd5) |
 | Wed, 14 Jan 2026 20:13:53 GMT | Strong, or just Numb? | Sahilsoujani | [Read More](https://medium.com/p/81976c3f1db2) |
@@ -108,9 +114,3 @@ Every morning at 7:15, the same bus stopped at the same corner. | Sakhi Writes |
 | Wed, 14 Jan 2026 14:37:14 GMT | If you weren’t here tomorrow, would your crypto be lost with you? | Bitzo | [Read More](https://medium.com/p/6f7879f7f094) |
 | Wed, 14 Jan 2026 14:35:59 GMT | Why IoT Security Is the Next Major Cybersecurity Challenge
 The Internet of Things (IoT) has… | Ankit rai | [Read More](https://medium.com/p/544d9984acb1) |
-| Wed, 14 Jan 2026 14:35:21 GMT | Cheaper Is Slower, Slower Is Expensive: The Executive Math in Offshore Software Development | Namir Sagheenanajar | [Read More](https://medium.com/p/a9cb888e8416) |
-| Wed, 14 Jan 2026 14:34:26 GMT | When AI Agents Obey the Wrong Master | Niv Rabin | [Read More](https://medium.com/p/913aff17e3ed) |
-| Wed, 14 Jan 2026 14:32:59 GMT | Setting Up and Listening for Incoming Connections: A Complete Guide to Testing Backdoors | Vignesh R | [Read More](https://medium.com/p/bf75bce389f1) |
-| Wed, 14 Jan 2026 14:32:32 GMT | Windows Processes & Threads — A Practical Introduction for Offensive Developers | Cyberlairs | [Read More](https://medium.com/p/71bde3d51258) |
-| Wed, 14 Jan 2026 14:31:41 GMT | If Your Cloud Security Projects Look Like Tutorials, You’re Doing It Wrong. | Taimur Ijlal | [Read More](https://medium.com/p/7682fc27f6c9) |
-| Wed, 14 Jan 2026 14:29:10 GMT | How Randomness Actually Secures HTTPS (Explained Simply) | Nannuri Manoj | [Read More](https://medium.com/p/8ff711b48e16) |
