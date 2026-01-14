@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 14 Jan 2026 17:44:20 GMT | Website Security Scanning Tools: A Practical Guide to 15 Free and Open-Source Options | Ewan Mak | [Read More](https://medium.com/p/b9f2f93408fe) |
+| Wed, 14 Jan 2026 17:42:49 GMT | Bug bite dream. | Narendhar Venkatesan | [Read More](https://medium.com/p/a9799b52e1e0) |
+| Wed, 14 Jan 2026 17:39:32 GMT | ️DC: 7— Complete Walkthrough (Beginner-Friendly) - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/e8462d342044) |
+| Wed, 14 Jan 2026 17:36:31 GMT | Dating.com and AmoLatina: When “Dating” Is Just Paid Virtual Conversation | AKUMAAYORI | [Read More](https://medium.com/p/c3f5d2b5379b) |
+| Wed, 14 Jan 2026 17:36:09 GMT | Why Thinking Like an Attacker Changes Everything in Cybersecurity | Daniel Isaac E | [Read More](https://medium.com/p/3cbcf6061d34) |
+| Wed, 14 Jan 2026 17:34:10 GMT | Behind the EV Charging: Who is a CPO and Why Cybersecurity Matters More Than Ever? | BaudSkidNinja | [Read More](https://medium.com/p/d975cf1ecb6f) |
+| Wed, 14 Jan 2026 17:32:42 GMT | Jailbreak Detection Bypass Using LLDB: No Escape—iOS Jailbreak Detection Challenge | Kyrillos nady | [Read More](https://medium.com/p/881fd8e89ed0) |
+| Wed, 14 Jan 2026 17:30:02 GMT | Post-quantum Readiness for Long-Retention Public Records | Letro | [Read More](https://medium.com/p/da95118efef8) |
+| Wed, 14 Jan 2026 17:24:08 GMT | Security Camera Installation: A Quiet Guardian for Homes and Businesses | Alex Bryn | [Read More](https://medium.com/p/7907907831a3) |
 | Wed, 14 Jan 2026 17:23:13 GMT | Ethical Hacking Course in Trivandrum : A Practical Way Into a High Demand Cyber Security Career | Vazeem Akram | [Read More](https://medium.com/p/39fe025171b0) |
 | Wed, 14 Jan 2026 17:12:31 GMT | New MacSync Malware Variant Bypasses macOS Gatekeeper Using Apple-Signed Disguise | Tech Intel | [Read More](https://medium.com/p/11c4632a37b7) |
 | Wed, 14 Jan 2026 17:10:06 GMT | Vibe Coding Will Kill Your App (Unless You Do This) | DigitalNomad | [Read More](https://medium.com/p/2657a5f62693) |
@@ -104,12 +113,3 @@ The Internet of Things (IoT) has… | Ankit rai | [Read More](https://medium.com
 | Wed, 14 Jan 2026 12:12:15 GMT | OSINT in Industrial Energy: Securing Offshore Wind Frams | Maxi | [Read More](https://medium.com/p/78da1efab0ad) |
 | Wed, 14 Jan 2026 12:09:30 GMT | Information Technology Degree and Career Opportunities | Releatednews | [Read More](https://medium.com/p/4a32f63a42b5) |
 | Wed, 14 Jan 2026 12:03:43 GMT | AI‑Driven Cybersecurity: Protecting the Future of Digital Businesses | Bizstarttech | [Read More](https://medium.com/p/6b742b9030ad) |
-| Wed, 14 Jan 2026 12:03:20 GMT | Why OT Cyber Security Services in Canada Are Critical for Industrial Safety | Arista Cyber | [Read More](https://medium.com/p/4f776781392d) |
-| Wed, 14 Jan 2026 12:00:44 GMT | # Antivirus və Firewall Sistemləri Necə İşləyir? | cybershieldy.com | [Read More](https://medium.com/p/421ba67acf27) |
-| Wed, 14 Jan 2026 11:54:48 GMT | API Pentest Techniques: Securing the Backdoor of Modern Applications | Esra Kayhan | [Read More](https://medium.com/p/ac6b1c541411) |
-| Wed, 14 Jan 2026 11:52:43 GMT | CVE‑2025‑52691: The SmarterMail Zero‑Auth File Upload Leading to Full RCE | gm0 | [Read More](https://medium.com/p/86e80caedff0) |
-| Wed, 14 Jan 2026 11:51:40 GMT | ️ Custom Exploit Development: A Journey into the Depths of Memory | Esra Kayhan | [Read More](https://medium.com/p/1e8176b60968) |
-| Wed, 14 Jan 2026 11:51:33 GMT | Cloud Security Challenges in a Multi‑Cloud World (2026) | Thinuri Wickramarachchi | [Read More](https://medium.com/p/41de572dec44) |
-| Wed, 14 Jan 2026 11:49:28 GMT | Decision Framework: SOC 2 or ISO 27001? | Consulting4sec | [Read More](https://medium.com/p/d65f000e833b) |
-| Wed, 14 Jan 2026 11:48:36 GMT | Building the Ultimate Android Bug Bounty Lab: Target Recon, Native Crashes, and Static Analysis… | Rezaul Hasan | [Read More](https://medium.com/p/ddddea479dfb) |
-| Wed, 14 Jan 2026 11:44:35 GMT | Darkweb Vendor Imposter Scams: How Fake Sellers Manipulate Trust | Tor BBB | [Read More](https://medium.com/p/1154aeb791d6) |
