@@ -12,9 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 Jan 2026 06:29:43 GMT | How To Host Your Own CTF | Amrit Arora - NoobMaster | [Read More](https://medium.com/p/6eb2c1d1a43f) |
+| Thu, 15 Jan 2026 06:24:08 GMT | OAuth 2.0: The Most Misunderstood Security Layer in Modern Apps | Arun Kumar | [Read More](https://medium.com/p/64b226df3599) |
+| Thu, 15 Jan 2026 06:15:01 GMT | Network Device Hardening — Writeup | Mahir | [Read More](https://medium.com/p/22498a2915a2) |
+| Thu, 15 Jan 2026 06:13:04 GMT | How Cybersecurity Keeps the Internet Safe | Adasmadasu | [Read More](https://medium.com/p/ecfdfa2278d4) |
+| Thu, 15 Jan 2026 06:00:13 GMT | The Day the “Security Janitor” Quit | Aravind S Narayan | [Read More](https://medium.com/p/dbd958fcfb43) |
+| Thu, 15 Jan 2026 05:50:05 GMT | Google’s Personal AI vs. OpenAI’s Brain Drain - The Daily Tech Digest: 15 January 2026 | Souren Stepanyan | [Read More](https://medium.com/p/ec84e487c787) |
 | Thu, 15 Jan 2026 05:44:13 GMT | Enterprise IT Transformation with Cloud, Containers, Virtualization, Security, and Data Protection… | F9 Infotech | [Read More](https://medium.com/p/0c15af8647e7) |
 | Thu, 15 Jan 2026 05:43:27 GMT | Blockchain Software Development in 2026: The Infrastructure Behind a Trustless Digital Economy | Devarshi Acharya | [Read More](https://medium.com/p/58a75948daf5) |
 | Thu, 15 Jan 2026 05:35:01 GMT | The 2026 E-commerce Security Framework: AI-Augmented Checklist for Developers | Mohammad Abir Abbas | [Read More](https://medium.com/p/57943c412e95) |
+| Thu, 15 Jan 2026 05:28:47 GMT | Cómo la IA transformó mi forma de trabajar y pensar como ingeniero | frangelbarrera | [Read More](https://medium.com/p/7340c20d0a0d) |
 | Thu, 15 Jan 2026 05:25:32 GMT | Why I stopped decoding JWTs online (and built my own tool) | Maxim Dmitriychuk | [Read More](https://medium.com/p/8972318157e8) |
 | Thu, 15 Jan 2026 05:21:46 GMT | Security Services in Baytown | Security Houston | [Read More](https://medium.com/p/4c0cbfb7097c) |
 | Thu, 15 Jan 2026 05:20:47 GMT | Data Management Solutions - Data Management Solutions Fort Myers & Data Management Solutions… | Gainside | [Read More](https://medium.com/p/dd18a82d43cc) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 Jan 2026 20:13:53 GMT | Strong, or just Numb? | Sahilsoujani | [Read More](https://medium.com/p/81976c3f1db2) |
 | Wed, 14 Jan 2026 20:07:52 GMT | He Left the Seat Empty
 Every morning at 7:15, the same bus stopped at the same corner. | Sakhi Writes | [Read More](https://medium.com/p/a049a8b1cd34) |
-| Wed, 14 Jan 2026 20:05:43 GMT | One VPN, Total Freedom: The Power of NordVPN | Mastani | [Read More](https://medium.com/p/0e98b823ec21) |
-| Wed, 14 Jan 2026 20:01:47 GMT | Apple To Introduce Liquid Authenticate to iOS27 | NTTP | [Read More](https://medium.com/p/a53e16607ec6) |
-| Wed, 14 Jan 2026 19:57:31 GMT | Why ARM Chips Are Replacing x86 | Logic Over Latte | [Read More](https://medium.com/p/7ad7908ffb3a) |
-| Wed, 14 Jan 2026 19:52:29 GMT | Why Millions Trust NordVPN to Stay Anonymous Online | Mastani | [Read More](https://medium.com/p/ba78d90a9240) |
-| Wed, 14 Jan 2026 19:46:57 GMT | Musk’s AI tool Grok will be integrated into Pentagon networks, pete hegseth | Defence Affairs & Analysis By (DAM) | [Read More](https://medium.com/p/40a3e67c2341) |
-| Wed, 14 Jan 2026 19:42:20 GMT | UK OSINT CTF Walkthrough: Tracing “Asset Echo” — A Full Beginner‑Friendly Investigation | Azutech | [Read More](https://medium.com/p/63bf3eb084ba) |
-| Wed, 14 Jan 2026 19:42:19 GMT | Understanding Network Ports and Protocols | Aliyan Ali | [Read More](https://medium.com/p/2d2f5d8bdd2d) |
