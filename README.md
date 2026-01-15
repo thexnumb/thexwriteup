@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 Jan 2026 20:22:33 GMT | How Ransomware Attacks Spread and How to Protect Yourself | Princely Alafe | [Read More](https://medium.com/p/597d9813c281) |
+| Thu, 15 Jan 2026 20:11:23 GMT | Building a Malware Analysis Lab: A Threat Hunter’s Perspective (Part 1) | Ajith Chandran | [Read More](https://medium.com/p/6fde2ee77f91) |
+| Thu, 15 Jan 2026 20:08:23 GMT | 264 Vulnerabilities in This Week’s Wordfence Intelligence WordPress Vulnerability Report (January… | Wordfence | [Read More](https://medium.com/p/4a9cd236946b) |
+| Thu, 15 Jan 2026 20:07:51 GMT | Getting Started with CAI Framework: Building Multi-Agent Systems in Minutes | MrGood | [Read More](https://medium.com/p/ae350232775a) |
+| Thu, 15 Jan 2026 20:03:50 GMT | Trump on a Mission to Destabilize the Middle East | mahwish qayyum | [Read More](https://medium.com/p/5ffc22057c0e) |
+| Thu, 15 Jan 2026 20:00:58 GMT | XOR’un Labirenti | Onurgorur | [Read More](https://medium.com/p/266be36f1ba7) |
+| Thu, 15 Jan 2026 19:46:54 GMT | 4 Marriage Fears Every Woman Has — And Why They’re Absolutely Valid | Claire Moore | [Read More](https://medium.com/p/53a093a14b05) |
+| Thu, 15 Jan 2026 19:42:24 GMT | Linux for Networking and Cloud Security: A Practical Learning Guide | Safwan Tahmid | [Read More](https://medium.com/p/34f955227b13) |
+| Thu, 15 Jan 2026 19:41:57 GMT | Attacktive Directory TryHackMe Walkthrough - Active Directory Kerberos Exploitation | Mohamed Rashith S | [Read More](https://medium.com/p/baffcf1b6c46) |
+| Thu, 15 Jan 2026 19:36:14 GMT | windows hashes ( for offensive security ) | Osec | [Read More](https://medium.com/p/ed12828dff08) |
 | Thu, 15 Jan 2026 19:36:06 GMT | GSEC Yolculuğu #3: Ağ Katmanının Kalbine İniş — IP ve ICMP | Ata Erdemir | [Read More](https://medium.com/p/2430eda4d452) |
 | Thu, 15 Jan 2026 19:35:12 GMT | How to Spot an AI-Generated Scam: Protect Yourself in the Digital Age | Cyberspace Bulletin | [Read More](https://medium.com/p/e608527b1e08) |
 | Thu, 15 Jan 2026 19:30:28 GMT | Antiscam.uz — founder’s project (infectuz) | infectuz | [Read More](https://medium.com/p/08d549a6e4c1) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 Jan 2026 14:26:35 GMT | Linux PrivEsc: Readable /etc/shadow | Emre ASLAN | [Read More](https://medium.com/p/809c2beea13f) |
 | Thu, 15 Jan 2026 14:09:01 GMT | SENTINEX v1.0.0 — A Stealth-Focused Windows Reconnaissance Framework | Piyusha Akash | [Read More](https://medium.com/p/98f2a7afd9c1) |
 | Thu, 15 Jan 2026 13:59:17 GMT | Hartley: Decimal Logarithmic Unit — Case Study | Journal of Landing Across Linguistic Foreground | [Read More](https://medium.com/p/b90c2e11be64) |
-| Thu, 15 Jan 2026 13:56:43 GMT | Short-Link Chaining as a Traceability Failure | 3gi3 | [Read More](https://medium.com/p/af773a863d42) |
-| Thu, 15 Jan 2026 13:55:43 GMT | Why I Went Silent | Yu | [Read More](https://medium.com/p/dcd08e25c742) |
-| Thu, 15 Jan 2026 13:55:34 GMT | What’s a cyber commonplace book? | Angela | [Read More](https://medium.com/p/ee246502d5c6) |
-| Thu, 15 Jan 2026 13:51:10 GMT | Understanding how authenticator apps generate OTPs offline | Khyrulbashar | [Read More](https://medium.com/p/1efb5cb68b39) |
-| Thu, 15 Jan 2026 13:48:37 GMT | Exploiting Capabilities: A Walkthrough of the Empire: Breakout Machine | Kiama Kareithi | [Read More](https://medium.com/p/54ce03fb054e) |
-| Thu, 15 Jan 2026 13:47:24 GMT | Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | Songül Kızılay Özügürler | [Read More](https://medium.com/p/fa70a496a7f8) |
-| Thu, 15 Jan 2026 13:47:13 GMT | A Late-Night Security Mystery: A Mendix Story | Narendran Jaganathan | [Read More](https://medium.com/p/17fe1e643260) |
-| Thu, 15 Jan 2026 13:46:34 GMT | How Professional Security Services Improve Safety in Commercial Properties | world guardian | [Read More](https://medium.com/p/21f220a8a09e) |
-| Thu, 15 Jan 2026 13:41:29 GMT | A Beginner’s Honest Guide to Ethical Hacking With Python | Vignesh Selvaraj | [Read More](https://medium.com/p/4568d56b8b69) |
-| Thu, 15 Jan 2026 13:38:54 GMT | VHost Discovery for Bug Bounty Hunters | 3eyedraven | [Read More](https://medium.com/p/8ad2f1caa83d) |
