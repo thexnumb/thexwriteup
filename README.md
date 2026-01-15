@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 Jan 2026 21:36:42 GMT | How do I feel about finding bugs as my meal? | Imran Niaz | [Read More](https://medium.com/p/0e88a6a32bec) |
+| Thu, 15 Jan 2026 21:33:40 GMT | Cybersecurity for Business Owners in 2026: A Practical Guide to Protecting Your Data | RayasWeb | [Read More](https://medium.com/p/cb5a2b4efc4b) |
+| Thu, 15 Jan 2026 21:31:52 GMT | The Real Attack Surface of Code-Executing LLMs: A Gemini Code Execution Case Study | Ömer Bilgin Bilgili | [Read More](https://medium.com/p/467767c324f4) |
+| Thu, 15 Jan 2026 21:29:22 GMT | Local Compute, Local Action: Building a UI Agent in the Basement | Diogoneno | [Read More](https://medium.com/p/4872bf7b76a3) |
+| Thu, 15 Jan 2026 21:27:52 GMT | Decentr and the Future of Privacy: Why Decentralized VPNs Matter Now | Decentr | [Read More](https://medium.com/p/37470d565f01) |
+| Thu, 15 Jan 2026 21:21:44 GMT | Escaping the Corridor — TryHackMe: A Guide to IDOR and MD5 Obfuscation | Hemantha Krishna Challa | [Read More](https://medium.com/p/57895514ef63) |
 | Thu, 15 Jan 2026 21:11:34 GMT | A Subtle Merkle Tree Vulnerability in Bitcoin (And How It Was Fixed) | Thrishalmadasu | [Read More](https://medium.com/p/b41fa68aa283) |
 | Thu, 15 Jan 2026 21:04:09 GMT | Build A Computer That Never Fails When Everything Is On The Line | Geoffrey Wenger | [Read More](https://medium.com/p/9a83eb2e593b) |
 | Thu, 15 Jan 2026 20:54:59 GMT | Data Poisoning in Machine Learning: Why and How People Manipulate Training Data | Stephanie Kirmer | [Read More](https://medium.com/p/3c947e4825df) |
@@ -47,6 +53,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 Jan 2026 18:51:31 GMT | Chain Exploitation in Web Pentesting ️ | Esra Kayhan | [Read More](https://medium.com/p/ef776dc44a87) |
 | Thu, 15 Jan 2026 18:49:58 GMT | AI vs. AI: The Autonomous Arms Race of 2026 | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/41dc4639c4da) |
 | Thu, 15 Jan 2026 18:44:48 GMT | The Hidden Backbone of the Internet: Why S3 Security Should Keep You Up at Night | Tarek CHEIKH | [Read More](https://medium.com/p/4dd8d8d67b90) |
+| Thu, 15 Jan 2026 18:44:04 GMT | Why Immediate System Shutdowns Often Make Ransomware Incidents Worse | Cordula Boeck | [Read More](https://medium.com/p/36a80471fe16) |
 | Thu, 15 Jan 2026 18:41:13 GMT | CIA and AAA in Cybersecurity: Clear Definitions, Differences, Examples, and Tools | Dennis Duke | [Read More](https://medium.com/p/9e0bf61e744d) |
 | Thu, 15 Jan 2026 18:36:44 GMT | The ServiceNow AI Vulnerability: What Went Wrong and How to Secure Your AI Agents | Abdel Sy Fane | [Read More](https://medium.com/p/75c4040777f6) |
 | Thu, 15 Jan 2026 18:34:41 GMT | Building a USB Rubber Ducky with Arduino Leonardo with Cursor. | Andrey Pautov | [Read More](https://medium.com/p/a23dd64d1bbe) |
@@ -60,6 +67,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 Jan 2026 17:58:45 GMT | CyberChef: The Basics - TryHackMe Writeup | Debmalya Mondal⚡ | [Read More](https://medium.com/p/4aaa2595d7ea) |
 | Thu, 15 Jan 2026 17:52:30 GMT | OWASP Juice Shop: Docker Üzerinde Kurulum (Windows) | Volkan Yılmaz | [Read More](https://medium.com/p/ed6ee6fd4221) |
 | Thu, 15 Jan 2026 17:50:48 GMT | Windows Management Instrumentation (WMI) | Fl4g Hunt3r Project | [Read More](https://medium.com/p/5d86c2dc4bcb) |
+| Thu, 15 Jan 2026 17:49:31 GMT | Static Malware Analysis — A Beginner-Friendly Step-by-Step Practical Guide | Jyothsna | [Read More](https://medium.com/p/dcbaec22fd7c) |
 | Thu, 15 Jan 2026 17:45:33 GMT | Supercharge Burp Suite: A Practical Mini‑Stack of Extensions for Bug Hunters | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/d488ea237b31) |
 | Thu, 15 Jan 2026 17:40:31 GMT | CTEM Phase 2: Discovery - The Age of Attack Surface Management | Sahil Malvi | [Read More](https://medium.com/p/7d8e87b0cdbd) |
 | Thu, 15 Jan 2026 17:37:18 GMT | Asking for Help (Va’era) | Rabbi Menachem Creditor | [Read More](https://medium.com/p/1368273eb088) |
@@ -75,6 +83,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 Jan 2026 17:04:36 GMT | I Evaluated Enterprise Auth for a SaaS App and Here’s My Honest Take on WorkOS AuthKit + Radar | Andrew Baisden | [Read More](https://medium.com/p/57405d0ecd1e) |
 | Thu, 15 Jan 2026 17:03:58 GMT | The Complete Guide to Becoming a Cybersecurity Writer (Updated for 2026) | Taimur Ijlal | [Read More](https://medium.com/p/eae0d767b068) |
 | Thu, 15 Jan 2026 16:59:19 GMT | When BIOS unlock is the only real fix (and why software won’t help) | Andrew | [Read More](https://medium.com/p/86b78f4ffc01) |
+| Thu, 15 Jan 2026 16:54:38 GMT | Yearn Finance, TMXTribe, Prism Protocol: $10.5M | Olympix | [Read More](https://medium.com/p/7db99548feb3) |
 | Thu, 15 Jan 2026 16:54:08 GMT | White Hat vs Black Hat vs Grey Hat! | Shahzaib | [Read More](https://medium.com/p/abb2b3d3bfae) |
 | Thu, 15 Jan 2026 16:41:26 GMT | Are you using the right browser? | Joseph Peter | [Read More](https://medium.com/p/4a2c9a4c6c19) |
 | Thu, 15 Jan 2026 16:41:23 GMT | Web Fuzzing Assessment [HTB] | db1M | [Read More](https://medium.com/p/52ff0d701537) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 Jan 2026 15:25:28 GMT | Security 101: Understanding CORS and the Same-Origin Policy | Kunal Sinha | [Read More](https://medium.com/p/19b9852a90cd) |
 | Thu, 15 Jan 2026 15:24:03 GMT | NCAE C2Games MiniHacks Challenge CTF Walkthrough Part 3 - Trivia | Samuel McLamb | [Read More](https://medium.com/p/710d11c6ccdc) |
 | Thu, 15 Jan 2026 15:21:38 GMT | Deepfakes and Digital Trust: How to Protect Your Online Identity in 2026 | NextGenScribbles | [Read More](https://medium.com/p/0cfbec84e060) |
-| Thu, 15 Jan 2026 15:19:13 GMT | Heads Up: Your CISSP “Short-Cut” Might Be Expiring in April 2026! | Mayur Pahwa | [Read More](https://medium.com/p/c648137064c4) |
-| Thu, 15 Jan 2026 15:16:03 GMT | Why API Gateways Are Critical for Securing Public APIs | Maryblessing | [Read More](https://medium.com/p/affaf171785b) |
-| Thu, 15 Jan 2026 15:14:52 GMT | Ağ Taşıma Güvenliği Mimarisi: SSL/TLS | Alperkandemir | [Read More](https://medium.com/p/5e0fcb80dc8e) |
-| Thu, 15 Jan 2026 15:04:09 GMT | ​3 AI Tools Every Freelance Creative Should Be Using in 2026 | NextGenScribbles | [Read More](https://medium.com/p/7b3c26b0e645) |
-| Thu, 15 Jan 2026 15:03:29 GMT | Beyond the Nonce: Securing React Apps in the Age of Agentic AI | Kushal | [Read More](https://medium.com/p/cb6ca3694ebb) |
-| Thu, 15 Jan 2026 15:02:53 GMT | Cyber Briefing: 2026.01.15 | CyberMaterial | [Read More](https://medium.com/p/96b0ad381733) |
-| Thu, 15 Jan 2026 14:51:38 GMT | Why HTTPS Is Mandatory: Understanding the Backbone of Web Security | Ayoub Taouam | [Read More](https://medium.com/p/850c7974a23e) |
-| Thu, 15 Jan 2026 14:48:28 GMT | New LummaStealer With 9 Payloads Exposed !!!! | Aufa Rifqi | [Read More](https://medium.com/p/ee9c6e58fff4) |
-| Thu, 15 Jan 2026 14:45:52 GMT | XSS Attacks: A Practical Methodology for Security Testing | Israel Aráoz Severiche | [Read More](https://medium.com/p/6bff4d0fae1e) |
