@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 Jan 2026 11:35:51 GMT | The Hidden Cost of a Cyber Attack: What Leaders Often Realize Too Late | Taiyab Lokhandwala | [Read More](https://medium.com/p/5ae3de4b1405) |
+| Thu, 15 Jan 2026 11:24:45 GMT | Kiro AI Agent: The Next Evolution in Autonomous Software Development | Emad Mohamed | [Read More](https://medium.com/p/2876272286d6) |
+| Thu, 15 Jan 2026 11:21:43 GMT | How to Choose the Best Network Scanner App for Android | Sameer Khandelwal | [Read More](https://medium.com/p/ed7377c2c51b) |
+| Thu, 15 Jan 2026 11:18:20 GMT | Cybersecurity Certifications with Transfotech Academy Online Courses in 2026 | Transfotech Academy | [Read More](https://medium.com/p/d3851745a7fa) |
 | Thu, 15 Jan 2026 11:10:24 GMT | flAWS.cloud Level 1 & 2: Hacking Misconfigured S3 Buckets | Samyakt Jain | [Read More](https://medium.com/p/7f4350887215) |
 | Thu, 15 Jan 2026 11:08:26 GMT | How to Stay Safe Using Online Banking Security Methods | Khalidhasnainareeb | [Read More](https://medium.com/p/94c5986ede26) |
+| Thu, 15 Jan 2026 11:03:00 GMT | ANY.RUN & Tines: Scale SOC and Meet SLAs with Powerful Automation | ANY.RUN | [Read More](https://medium.com/p/9be0a55795c6) |
 | Thu, 15 Jan 2026 11:02:56 GMT | Top 5 Wallet Recovery Methods People Actually Used | Modexa | [Read More](https://medium.com/p/1757f1d52e39) |
 | Thu, 15 Jan 2026 11:02:56 GMT | Welcome to The PAC — The PAC #001 | Faith Obafemi | [Read More](https://medium.com/p/9eb8c4dccb99) |
 | Thu, 15 Jan 2026 11:02:56 GMT | Signal Jamming: The hack that is illegal in most countries | T-Jay Bautista | [Read More](https://medium.com/p/b132a1194e12) |
@@ -108,8 +113,3 @@ Social media is no longer just a… | Ankit rai | [Read More](https://medium.com
 | Thu, 15 Jan 2026 05:10:08 GMT | Hunting Brute-Force VPN Access with Splunk | Nima Bargestan | [Read More](https://medium.com/p/6e5726111306) |
 | Thu, 15 Jan 2026 05:07:59 GMT | Secure Your Space, Automate Your Life: Why Techfra Solutions is the UAE’s Trusted Choice for Smart… | techfra solutions | [Read More](https://medium.com/p/b68a11e16f4a) |
 | Thu, 15 Jan 2026 05:03:00 GMT | Security Services in Pasadena | Security Houston | [Read More](https://medium.com/p/09085204fee9) |
-| Thu, 15 Jan 2026 04:55:21 GMT | From “Looks Legit” to “Definitely Malicious”: Header Analysis Explained | Paritosh | [Read More](https://medium.com/p/4d1255f6473e) |
-| Thu, 15 Jan 2026 04:54:23 GMT | Madness-TryHackMe | Asjamil | [Read More](https://medium.com/p/010e2327880b) |
-| Thu, 15 Jan 2026 04:51:49 GMT | Security Analysis and Hardening | Nesha | [Read More](https://medium.com/p/943414cb39fa) |
-| Thu, 15 Jan 2026 04:45:14 GMT | Digital Forensic Investigation: Evidence Integrity Verification and Timeline Reconstruction of a… | Sora | [Read More](https://medium.com/p/0aa33297c6da) |
-| Thu, 15 Jan 2026 04:42:08 GMT | Securing JWT in Production: What Matters Beyond RS256 | Anvisha | [Read More](https://medium.com/p/1849e2553572) |
