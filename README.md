@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 Jan 2026 15:26:34 GMT | XSS and CSRF Vulnerabilities in Spring Boot: Detection and Prevention Guide | Ahmet Emre DEMİRŞEN | [Read More](https://medium.com/p/f0d7f8fdd1e2) |
+| Thu, 15 Jan 2026 15:25:28 GMT | Security 101: Understanding CORS and the Same-Origin Policy | Kunal Sinha | [Read More](https://medium.com/p/19b9852a90cd) |
+| Thu, 15 Jan 2026 15:19:13 GMT | Heads Up: Your CISSP “Short-Cut” Might Be Expiring in April 2026! | Mayur Pahwa | [Read More](https://medium.com/p/c648137064c4) |
+| Thu, 15 Jan 2026 15:16:03 GMT | Why API Gateways Are Critical for Securing Public APIs | Maryblessing | [Read More](https://medium.com/p/affaf171785b) |
+| Thu, 15 Jan 2026 15:14:52 GMT | Ağ Taşıma Güvenliği Mimarisi: SSL/TLS | Alperkandemir | [Read More](https://medium.com/p/5e0fcb80dc8e) |
+| Thu, 15 Jan 2026 15:04:09 GMT | ​3 AI Tools Every Freelance Creative Should Be Using in 2026 | NextGenScribbles | [Read More](https://medium.com/p/7b3c26b0e645) |
+| Thu, 15 Jan 2026 15:03:29 GMT | Beyond the Nonce: Securing React Apps in the Age of Agentic AI | Kushal | [Read More](https://medium.com/p/cb6ca3694ebb) |
+| Thu, 15 Jan 2026 15:02:53 GMT | Cyber Briefing: 2026.01.15 | CyberMaterial | [Read More](https://medium.com/p/96b0ad381733) |
+| Thu, 15 Jan 2026 14:51:38 GMT | Why HTTPS Is Mandatory: Understanding the Backbone of Web Security | Ayoub Taouam | [Read More](https://medium.com/p/850c7974a23e) |
 | Thu, 15 Jan 2026 14:48:28 GMT | New LummaStealer With 9 Payloads Exposed !!!! | Aufa Rifqi | [Read More](https://medium.com/p/ee9c6e58fff4) |
 | Thu, 15 Jan 2026 14:45:52 GMT | XSS Attacks: A Practical Methodology for Security Testing | Israel Aráoz Severiche | [Read More](https://medium.com/p/6bff4d0fae1e) |
 | Thu, 15 Jan 2026 14:45:10 GMT | The Complete (Failed) Guide to ASP.NET ViewState Exploitation | Dipesh Paul | [Read More](https://medium.com/p/1a582471fc59) |
@@ -103,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 Jan 2026 09:45:43 GMT | Information Security on behalf of Business Continuity | Ziya Gokalp | [Read More](https://medium.com/p/22fec2c72fac) |
 | Thu, 15 Jan 2026 09:45:14 GMT | Decision Making Battle Between Attacker and Defender: Game Theory in Cybersecurity | Ziya Gokalp | [Read More](https://medium.com/p/32f86844c919) |
 | Thu, 15 Jan 2026 09:41:22 GMT | The Visual Ghost: How a Single Unicode Character Led to a Critical Account Takeover | Be nice insabat | [Read More](https://medium.com/p/84e620ff908f) |
-| Thu, 15 Jan 2026 09:33:02 GMT | How I Secured My Entire Digital Life in 24 Hours? | Team TIE | [Read More](https://medium.com/p/65fc2e55005d) |
-| Thu, 15 Jan 2026 09:29:52 GMT | Governance, Risk, & Compliance (WGU D486) | Irene A. Gil | [Read More](https://medium.com/p/92d26de8911f) |
-| Thu, 15 Jan 2026 09:29:45 GMT | Network Security Services for Businesses: A Complete Guide | Preemptive Technofield | [Read More](https://medium.com/p/11e9657a5f44) |
-| Thu, 15 Jan 2026 09:26:02 GMT | From Productivity to Proximity Risk: The Business Case Against Unchecked AI Agents | Shivanshi Kapoor | [Read More](https://medium.com/p/938057480813) |
-| Thu, 15 Jan 2026 09:24:57 GMT | Learning the Difference Between Intimacy and Attachment | FromPaule | [Read More](https://medium.com/p/05f12e8a5d92) |
-| Thu, 15 Jan 2026 09:04:57 GMT | Behind The Screens: The Ultimate Guide To Mobile Application Security Testing | Redfox Security | [Read More](https://medium.com/p/b0f6bd01cd56) |
-| Thu, 15 Jan 2026 09:03:48 GMT | How Social Media Impacts Daily Work and Life: A Reality Check
-Social media is no longer just a… | Ankit rai | [Read More](https://medium.com/p/1401cf1bdc6e) |
-| Thu, 15 Jan 2026 09:02:52 GMT | Your SOC Is Missing This: How Stealer Logs Bypass Your Breach Monitoring Tools | Alexandre Vandamme | [Read More](https://medium.com/p/d4e3fdc8f43d) |
-| Thu, 15 Jan 2026 09:02:42 GMT | What problems does Saferloop solve for parents worried about online safety? | Smith Williams | [Read More](https://medium.com/p/fe5d1543daae) |
