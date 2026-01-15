@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 Jan 2026 13:32:28 GMT | AI’s Dark Side: How AI-Powered Threats Will Hit WordPress Sites in 2026 (And How to Fight Back) | Mahbubul Haque | [Read More](https://medium.com/p/520567c321da) |
+| Thu, 15 Jan 2026 13:31:43 GMT | CSRF : The Silent Attack Most People Don’t Notice | Gajanan Tayde | [Read More](https://medium.com/p/5e37b3a93759) |
+| Thu, 15 Jan 2026 13:30:59 GMT | How to Hack Mobile Phones: The Reality Behind the Search | Rebecca Smith | [Read More](https://medium.com/p/a5e85838dc7b) |
+| Thu, 15 Jan 2026 13:26:58 GMT | Automated SOC Incident Response Pipeline with Wazuh, TheHive & Shuffle | Misbah waraich | [Read More](https://medium.com/p/94d6307b1e3f) |
+| Thu, 15 Jan 2026 13:22:27 GMT | Linux Post-Exploitation 101: What I Do First When I Get a Linux Shell | Al3xx | [Read More](https://medium.com/p/b5f25daec2bb) |
+| Thu, 15 Jan 2026 13:14:50 GMT | The FBI’s Most Wanted Hacker They Can’t Catch: Maksim Viktorovich Yakubets | Aqilnazim | [Read More](https://medium.com/p/d3dad4059215) |
+| Thu, 15 Jan 2026 13:10:33 GMT | Book Review 2-THE ANDROID MALWARE HANDBOOK: Detection and Analysis by Human and Machine | Muhammet Tan | [Read More](https://medium.com/p/82b788a85e13) |
+| Thu, 15 Jan 2026 13:08:04 GMT | April 16, 2024 Issue XXV | CB Bowman-Ottomanelli,  MCEC, BCC, CMC, CVP, CVF | [Read More](https://medium.com/p/65875648febd) |
+| Thu, 15 Jan 2026 13:07:30 GMT | RBAC, ABAC, PBAC — and Why Your Auth Model Quietly Shapes Your System | VevZ | [Read More](https://medium.com/p/0b91859037d8) |
+| Thu, 15 Jan 2026 13:03:19 GMT | Understanding FCA Compliance: Why Penetration Testing Is Critical for Financial Firms | QualysecEurope | [Read More](https://medium.com/p/f5ec497e3575) |
+| Thu, 15 Jan 2026 13:02:52 GMT | Linux Security Habit #17: I Treat SSH Noise as an Early Warning System | Faruk Ahmed | [Read More](https://medium.com/p/2ebf6cb946c7) |
+| Thu, 15 Jan 2026 13:02:50 GMT | Web3 Teams Are Changing — Quietly, Fundamentally | Vectorlane | [Read More](https://medium.com/p/62462c921e19) |
+| Thu, 15 Jan 2026 13:02:50 GMT | The Compliance Talks Teams Keep Dodging | Modexa | [Read More](https://medium.com/p/137e5e27b50e) |
+| Thu, 15 Jan 2026 12:58:08 GMT | What is OCSP (Online Certificate Status Protocol)? | Dinu Gitlan | [Read More](https://medium.com/p/d1c6be7f3600) |
+| Thu, 15 Jan 2026 12:54:40 GMT | Associative: Your Trusted Custom Software Application Development Company in Pune, India | Chaitanyachavan | [Read More](https://medium.com/p/a269a22f3795) |
 | Thu, 15 Jan 2026 12:39:48 GMT | Kth Largest Element in a Stream — Why a Heap Beats Sorting Every Time | Error | [Read More](https://medium.com/p/3854471c59c8) |
 | Thu, 15 Jan 2026 12:32:58 GMT | You Don’t Get Hacked First — You Get Comfortable | Alolika Ghosh | [Read More](https://medium.com/p/222a024a29c3) |
 | Thu, 15 Jan 2026 12:32:31 GMT | Why PortPDF is Different from Other PDF Tools | Anuj Thakur (India) | [Read More](https://medium.com/p/d50f03b0bc1a) |
@@ -98,18 +113,3 @@ Social media is no longer just a… | Ankit rai | [Read More](https://medium.com
 | Thu, 15 Jan 2026 07:36:42 GMT | VulnLab: SQL Injection | CyberSam | [Read More](https://medium.com/p/288db94a644c) |
 | Thu, 15 Jan 2026 07:32:11 GMT | Why Critical Systems Fail and How Monitoring Teams Stop It Before It Happens | Gavin Ellis | [Read More](https://medium.com/p/1eaf8e2d0eef) |
 | Thu, 15 Jan 2026 07:26:16 GMT | Statement from the CEO of Luxota on Regional Developments and Business Continuity | Luxota Technologies Group | [Read More](https://medium.com/p/5f77d2ca2580) |
-| Thu, 15 Jan 2026 07:23:34 GMT | Preemptive Cybersecurity and Intelligent Defense: Celebrating Solutions That Predict and Prevent | Fluxx Events | [Read More](https://medium.com/p/dff4e507cdc5) |
-| Thu, 15 Jan 2026 07:23:12 GMT | How to Exploit JWT Tokens with Weak Signing Keys (Step-by-Step Guide) | CyberSec Xploit - Prasangam | [Read More](https://medium.com/p/c4876c51db43) |
-| Thu, 15 Jan 2026 07:22:46 GMT | Building a Hands-On SIEM Lab for Security Monitoring Using Wazuh | Michael Jan Tangalin | [Read More](https://medium.com/p/38d42102f427) |
-| Thu, 15 Jan 2026 07:14:20 GMT | Part -2 (React2Shell): Understanding a Critical React Server Components Vulnerability | Nithishraina | [Read More](https://medium.com/p/4bd94d04ebbb) |
-| Thu, 15 Jan 2026 07:10:59 GMT | Highest Paying Cybersecurity Careers in 2026 (What Actually Pays, Not the Hype) | Muhammad Haider Tallal | [Read More](https://medium.com/p/343a40fb4fc5) |
-| Thu, 15 Jan 2026 07:09:25 GMT | Monthly Threat Actor Group Intelligence Report, December 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/2623fb8cbe78) |
-| Thu, 15 Jan 2026 07:02:58 GMT | Part I: Vault PKI on My Machine | Raymon Epping | [Read More](https://medium.com/p/a4743151b017) |
-| Thu, 15 Jan 2026 07:00:49 GMT | Autonomous Espionage and the “Original Sin” of AI | Eude Tech | [Read More](https://medium.com/p/991a7e263135) |
-| Thu, 15 Jan 2026 06:55:38 GMT | The Supreme Court Just Left $130 Billion Hanging. Here’s What It Means for Freight. | Heesham Naji | [Read More](https://medium.com/p/aced1a3527ac) |
-| Thu, 15 Jan 2026 06:43:19 GMT | Why Businesses Worldwide Trust Quasitek Solutions for Digital Marketing Success | Quasitek Solutions | [Read More](https://medium.com/p/1e38bc488638) |
-| Thu, 15 Jan 2026 06:41:42 GMT | Advanced Diploma in Information Technology — Build a Future-Ready Tech Career | AIST | [Read More](https://medium.com/p/dfbfcbbb0f12) |
-| Thu, 15 Jan 2026 06:41:20 GMT | API Security: A Step-by-Step Guide to Understanding Vulnerabilities, Attacks, and Defenses | Rambe Rakha | [Read More](https://medium.com/p/4f57adfeac08) |
-| Thu, 15 Jan 2026 06:39:14 GMT | How to Choose the Best Cyber Security College | ritik | [Read More](https://medium.com/p/ebf1d7e4f5e7) |
-| Thu, 15 Jan 2026 06:37:12 GMT | Securing AI Agents with Information Flow Control (Part III) | Ofir Yakovian | [Read More](https://medium.com/p/76891bbde968) |
-| Thu, 15 Jan 2026 06:29:43 GMT | How To Host Your Own CTF | Amrit Arora - NoobMaster | [Read More](https://medium.com/p/6eb2c1d1a43f) |
