@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 Jan 2026 19:23:15 GMT | XOR’un Labirenti | Onurgorur | [Read More](https://medium.com/p/b179f36aa3e5) |
+| Thu, 15 Jan 2026 19:19:51 GMT | How to Protect Production Environment from Ransomware | Concourse Hosting | [Read More](https://medium.com/p/4f473c181a42) |
+| Thu, 15 Jan 2026 19:11:51 GMT | Secure file upload validation in .NET: A layered approach | Christian Haase | [Read More](https://medium.com/p/e77c9d9433e3) |
+| Thu, 15 Jan 2026 19:08:55 GMT | I’m About to Tell You Things You Were Never Supposed to Know About Yourself | KV | [Read More](https://medium.com/p/0251f1bc259a) |
+| Thu, 15 Jan 2026 19:07:57 GMT | In January 2026, cybersecurity firm Malwarebytes and various reports identified a dataset… | Abrar Alee | [Read More](https://medium.com/p/7212c3c539d3) |
+| Thu, 15 Jan 2026 19:03:19 GMT | Anti-Spoofing | Iram Jack | [Read More](https://medium.com/p/de2bf57bda8d) |
+| Thu, 15 Jan 2026 18:57:03 GMT | “Bug Bounty Bootcamp #16: Stored & Blind XSS — The ‘Time Bomb’ and ‘Message in a Bottle’ of Web… | Aman Sharma | [Read More](https://medium.com/p/fc4366929393) |
+| Thu, 15 Jan 2026 18:54:06 GMT | Secure Kubernetes Deployment Guide (Self-Managed) — Part II | SOCFortress | [Read More](https://medium.com/p/ba7d5b8a7b03) |
+| Thu, 15 Jan 2026 18:51:51 GMT | Kerberoasting: Targeting Service Accounts in Active Directory | Esra Kayhan | [Read More](https://medium.com/p/92862d63c4fa) |
+| Thu, 15 Jan 2026 18:51:31 GMT | Chain Exploitation in Web Pentesting ️ | Esra Kayhan | [Read More](https://medium.com/p/ef776dc44a87) |
+| Thu, 15 Jan 2026 18:49:58 GMT | AI vs. AI: The Autonomous Arms Race of 2026 | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/41dc4639c4da) |
+| Thu, 15 Jan 2026 18:44:48 GMT | The Hidden Backbone of the Internet: Why S3 Security Should Keep You Up at Night | Tarek CHEIKH | [Read More](https://medium.com/p/4dd8d8d67b90) |
+| Thu, 15 Jan 2026 18:41:13 GMT | CIA and AAA in Cybersecurity: Clear Definitions, Differences, Examples, and Tools | Dennis Duke | [Read More](https://medium.com/p/9e0bf61e744d) |
+| Thu, 15 Jan 2026 18:36:44 GMT | The ServiceNow AI Vulnerability: What Went Wrong and How to Secure Your AI Agents | Abdel Sy Fane | [Read More](https://medium.com/p/75c4040777f6) |
 | Thu, 15 Jan 2026 18:34:41 GMT | Building a USB Rubber Ducky with Arduino Leonardo with Cursor. | Andrey Pautov | [Read More](https://medium.com/p/a23dd64d1bbe) |
 | Thu, 15 Jan 2026 18:33:39 GMT | Why I Wiped the Crack and Went Back to “Community” by Choice (The Full Story) | Mohamed Hwedy | [Read More](https://medium.com/p/35c992397313) |
 | Thu, 15 Jan 2026 18:28:53 GMT | 10 Network Cabling Trends to Watch in 2026 | Jordanh | [Read More](https://medium.com/p/e31aacc7b370) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 Jan 2026 13:32:55 GMT | Britain Just Ghosted China’s Nuclear Link — With a One-Line Bill | Vivek Anand | [Read More](https://medium.com/p/78e8084e639a) |
 | Thu, 15 Jan 2026 13:32:28 GMT | AI’s Dark Side: How AI-Powered Threats Will Hit WordPress Sites in 2026 (And How to Fight Back) | Mahbubul Haque | [Read More](https://medium.com/p/520567c321da) |
 | Thu, 15 Jan 2026 13:31:43 GMT | CSRF : The Silent Attack Most People Don’t Notice | Gajanan Tayde | [Read More](https://medium.com/p/5e37b3a93759) |
-| Thu, 15 Jan 2026 13:30:59 GMT | How to Hack Mobile Phones: The Reality Behind the Search | Rebecca Smith | [Read More](https://medium.com/p/a5e85838dc7b) |
-| Thu, 15 Jan 2026 13:26:58 GMT | Automated SOC Incident Response Pipeline with Wazuh, TheHive & Shuffle | Misbah waraich | [Read More](https://medium.com/p/94d6307b1e3f) |
-| Thu, 15 Jan 2026 13:22:27 GMT | Linux Post-Exploitation 101: What I Do First When I Get a Linux Shell | Al3xx | [Read More](https://medium.com/p/b5f25daec2bb) |
-| Thu, 15 Jan 2026 13:14:50 GMT | The FBI’s Most Wanted Hacker They Can’t Catch: Maksim Viktorovich Yakubets | Aqilnazim | [Read More](https://medium.com/p/d3dad4059215) |
-| Thu, 15 Jan 2026 13:10:33 GMT | Book Review 2-THE ANDROID MALWARE HANDBOOK: Detection and Analysis by Human and Machine | Muhammet Tan | [Read More](https://medium.com/p/82b788a85e13) |
-| Thu, 15 Jan 2026 13:08:04 GMT | April 16, 2024 Issue XXV | CB Bowman-Ottomanelli,  MCEC, BCC, CMC, CVP, CVF | [Read More](https://medium.com/p/65875648febd) |
-| Thu, 15 Jan 2026 13:07:30 GMT | RBAC, ABAC, PBAC — and Why Your Auth Model Quietly Shapes Your System | VevZ | [Read More](https://medium.com/p/0b91859037d8) |
-| Thu, 15 Jan 2026 13:03:19 GMT | Understanding FCA Compliance: Why Penetration Testing Is Critical for Financial Firms | QualysecEurope | [Read More](https://medium.com/p/f5ec497e3575) |
-| Thu, 15 Jan 2026 13:02:52 GMT | Linux Security Habit #17: I Treat SSH Noise as an Early Warning System | Faruk Ahmed | [Read More](https://medium.com/p/2ebf6cb946c7) |
-| Thu, 15 Jan 2026 13:02:50 GMT | Web3 Teams Are Changing — Quietly, Fundamentally | Vectorlane | [Read More](https://medium.com/p/62462c921e19) |
-| Thu, 15 Jan 2026 13:02:50 GMT | The Compliance Talks Teams Keep Dodging | Modexa | [Read More](https://medium.com/p/137e5e27b50e) |
-| Thu, 15 Jan 2026 12:58:08 GMT | What is OCSP (Online Certificate Status Protocol)? | Dinu Gitlan | [Read More](https://medium.com/p/d1c6be7f3600) |
-| Thu, 15 Jan 2026 12:54:40 GMT | Associative: Your Trusted Custom Software Application Development Company in Pune, India | Chaitanyachavan | [Read More](https://medium.com/p/a269a22f3795) |
-| Thu, 15 Jan 2026 12:39:48 GMT | Kth Largest Element in a Stream — Why a Heap Beats Sorting Every Time | Error | [Read More](https://medium.com/p/3854471c59c8) |
