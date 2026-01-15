@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 Jan 2026 19:36:06 GMT | GSEC Yolculuğu #3: Ağ Katmanının Kalbine İniş — IP ve ICMP | Ata Erdemir | [Read More](https://medium.com/p/2430eda4d452) |
+| Thu, 15 Jan 2026 19:35:12 GMT | How to Spot an AI-Generated Scam: Protect Yourself in the Digital Age | Cyberspace Bulletin | [Read More](https://medium.com/p/e608527b1e08) |
+| Thu, 15 Jan 2026 19:30:28 GMT | Antiscam.uz — founder’s project (infectuz) | infectuz | [Read More](https://medium.com/p/08d549a6e4c1) |
 | Thu, 15 Jan 2026 19:23:15 GMT | XOR’un Labirenti | Onurgorur | [Read More](https://medium.com/p/b179f36aa3e5) |
 | Thu, 15 Jan 2026 19:19:51 GMT | How to Protect Production Environment from Ransomware | Concourse Hosting | [Read More](https://medium.com/p/4f473c181a42) |
 | Thu, 15 Jan 2026 19:11:51 GMT | Secure file upload validation in .NET: A layered approach | Christian Haase | [Read More](https://medium.com/p/e77c9d9433e3) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 Jan 2026 13:46:34 GMT | How Professional Security Services Improve Safety in Commercial Properties | world guardian | [Read More](https://medium.com/p/21f220a8a09e) |
 | Thu, 15 Jan 2026 13:41:29 GMT | A Beginner’s Honest Guide to Ethical Hacking With Python | Vignesh Selvaraj | [Read More](https://medium.com/p/4568d56b8b69) |
 | Thu, 15 Jan 2026 13:38:54 GMT | VHost Discovery for Bug Bounty Hunters | 3eyedraven | [Read More](https://medium.com/p/8ad2f1caa83d) |
-| Thu, 15 Jan 2026 13:32:55 GMT | Britain Just Ghosted China’s Nuclear Link — With a One-Line Bill | Vivek Anand | [Read More](https://medium.com/p/78e8084e639a) |
-| Thu, 15 Jan 2026 13:32:28 GMT | AI’s Dark Side: How AI-Powered Threats Will Hit WordPress Sites in 2026 (And How to Fight Back) | Mahbubul Haque | [Read More](https://medium.com/p/520567c321da) |
-| Thu, 15 Jan 2026 13:31:43 GMT | CSRF : The Silent Attack Most People Don’t Notice | Gajanan Tayde | [Read More](https://medium.com/p/5e37b3a93759) |
