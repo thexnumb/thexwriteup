@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 Jan 2026 18:34:41 GMT | Building a USB Rubber Ducky with Arduino Leonardo with Cursor. | Andrey Pautov | [Read More](https://medium.com/p/a23dd64d1bbe) |
+| Thu, 15 Jan 2026 18:33:39 GMT | Why I Wiped the Crack and Went Back to “Community” by Choice (The Full Story) | Mohamed Hwedy | [Read More](https://medium.com/p/35c992397313) |
+| Thu, 15 Jan 2026 18:28:53 GMT | 10 Network Cabling Trends to Watch in 2026 | Jordanh | [Read More](https://medium.com/p/e31aacc7b370) |
+| Thu, 15 Jan 2026 18:19:14 GMT | The Complete Guide to Mobile Phone Data Recovery: What Really Happens When You Lose Your Data | Shamir Ajmir Khan | [Read More](https://medium.com/p/ab68de5e8a84) |
+| Thu, 15 Jan 2026 18:05:46 GMT | The AI “Red Pill”: The Rising Threat of LLM Jailbreaking | Lumae | [Read More](https://medium.com/p/4a2fb336990d) |
+| Thu, 15 Jan 2026 18:05:45 GMT | Your MCP Setup Is a Security Nightmare. Here’s the Fix. | Can Demir | [Read More](https://medium.com/p/76ae27c210e4) |
+| Thu, 15 Jan 2026 18:02:52 GMT | The First 5 Steps to Your Cybersecurity Career | Emir Yusuf Nural | [Read More](https://medium.com/p/7a60fc440f0e) |
+| Thu, 15 Jan 2026 18:00:03 GMT | Uploading Massive Files Without Breaking Your App: A Guide to Streaming & Chunking in JavaScript | Jitin Kayyala | [Read More](https://medium.com/p/d1185252bb46) |
+| Thu, 15 Jan 2026 17:58:45 GMT | CyberChef: The Basics - TryHackMe Writeup | Debmalya Mondal⚡ | [Read More](https://medium.com/p/4aaa2595d7ea) |
+| Thu, 15 Jan 2026 17:52:30 GMT | OWASP Juice Shop: Docker Üzerinde Kurulum (Windows) | Volkan Yılmaz | [Read More](https://medium.com/p/ed6ee6fd4221) |
+| Thu, 15 Jan 2026 17:50:48 GMT | Windows Management Instrumentation (WMI) | Fl4g Hunt3r Project | [Read More](https://medium.com/p/5d86c2dc4bcb) |
+| Thu, 15 Jan 2026 17:45:33 GMT | Supercharge Burp Suite: A Practical Mini‑Stack of Extensions for Bug Hunters | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/d488ea237b31) |
+| Thu, 15 Jan 2026 17:40:31 GMT | CTEM Phase 2: Discovery - The Age of Attack Surface Management | Sahil Malvi | [Read More](https://medium.com/p/7d8e87b0cdbd) |
+| Thu, 15 Jan 2026 17:37:18 GMT | Asking for Help (Va’era) | Rabbi Menachem Creditor | [Read More](https://medium.com/p/1368273eb088) |
+| Thu, 15 Jan 2026 17:35:16 GMT | For someone who did not try, I always knew I wanted more. | deersigh | [Read More](https://medium.com/p/bc9c173a7feb) |
+| Thu, 15 Jan 2026 17:32:51 GMT | API Security, Fast and Slow: How I Stopped Chasing Checklists and Started Thinking Like an Attacker | Morgan Ellis | [Read More](https://medium.com/p/f583d2bc122c) |
+| Thu, 15 Jan 2026 17:30:47 GMT | History of the Camera | Alex Bryn | [Read More](https://medium.com/p/a15d9c3aa362) |
 | Thu, 15 Jan 2026 17:25:38 GMT | SOC Level 1 - Junior Security Analyst Intro - Walkthrough - by | Mayank Shukla | [Read More](https://medium.com/p/6504524fda2a) |
 | Thu, 15 Jan 2026 17:21:33 GMT | Your Google Account Is the Master Key to Your Digital Life: Here’s How to Protect It | Dr. Ernesto Lee | [Read More](https://medium.com/p/53d5924bc819) |
 | Thu, 15 Jan 2026 17:18:40 GMT | How to Program a Garage Door Keypad: Step-by-Step Guide | Up & Down Garage Door Services | [Read More](https://medium.com/p/f14fe52083c6) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 Jan 2026 12:58:08 GMT | What is OCSP (Online Certificate Status Protocol)? | Dinu Gitlan | [Read More](https://medium.com/p/d1c6be7f3600) |
 | Thu, 15 Jan 2026 12:54:40 GMT | Associative: Your Trusted Custom Software Application Development Company in Pune, India | Chaitanyachavan | [Read More](https://medium.com/p/a269a22f3795) |
 | Thu, 15 Jan 2026 12:39:48 GMT | Kth Largest Element in a Stream — Why a Heap Beats Sorting Every Time | Error | [Read More](https://medium.com/p/3854471c59c8) |
-| Thu, 15 Jan 2026 12:32:58 GMT | You Don’t Get Hacked First — You Get Comfortable | Alolika Ghosh | [Read More](https://medium.com/p/222a024a29c3) |
-| Thu, 15 Jan 2026 12:32:31 GMT | Why PortPDF is Different from Other PDF Tools | Anuj Thakur (India) | [Read More](https://medium.com/p/d50f03b0bc1a) |
-| Thu, 15 Jan 2026 12:31:42 GMT | Audio Conference Bridge in Vietnam | Ashutosh Mallik | [Read More](https://medium.com/p/1a494b565831) |
-| Thu, 15 Jan 2026 12:31:09 GMT | Risk Scoring With AI: How SMEs Can Build Lightweight Cyber-Risk Engines Without Enterprise Budgets. | Michael Adedeji | [Read More](https://medium.com/p/6ac180c291fb) |
-| Thu, 15 Jan 2026 12:30:44 GMT | Documentação Ritual — EVM ++ | Thomas Fiorio | [Read More](https://medium.com/p/1444e7cd18d2) |
-| Thu, 15 Jan 2026 12:30:01 GMT | THE DARK SIDE OF SOCIAL MEDIA ALGORITHM | Akinkunmi Seyi | [Read More](https://medium.com/p/f9b552a73d78) |
-| Thu, 15 Jan 2026 12:24:45 GMT | A Practical Guide to SOC Compliance for Global Service Organizations | Eventus Security Private Limited | [Read More](https://medium.com/p/b4b108329947) |
-| Thu, 15 Jan 2026 12:24:23 GMT | Making the Impossible Possible: How I Made the One-Time Pad Practical for the Internet Age | Wasif Faisal | [Read More](https://medium.com/p/b9a95355b7be) |
-| Thu, 15 Jan 2026 12:17:56 GMT | When a Shellcode Alert Is Just Windows Being Windows | Sarosh | [Read More](https://medium.com/p/f42e3964d49e) |
-| Thu, 15 Jan 2026 12:11:10 GMT | GenAI can fix the IT productivity paradox | Ascendion | [Read More](https://medium.com/p/8f2b54a076ab) |
-| Thu, 15 Jan 2026 12:08:25 GMT | Crypto Trading Platforms With Best Security Infrastructure | Thomas Gunner | [Read More](https://medium.com/p/c6b01a2d4d3b) |
-| Thu, 15 Jan 2026 12:02:48 GMT | Understanding CWE-565: Reliance on Cookies without Validation and Integrity Checking | Walter Moar | [Read More](https://medium.com/p/eeeabf7195ff) |
-| Thu, 15 Jan 2026 12:01:47 GMT | So You Want to Be a "Blue Team" Analyst? Start Here | Adeleye Joshua | [Read More](https://medium.com/p/107c30294e87) |
-| Thu, 15 Jan 2026 12:00:50 GMT | flA.cloud Level 1 & 2: Hacking Misconfigured S3 Buckets | Samyakt Jain | [Read More](https://medium.com/p/bce22d171279) |
-| Thu, 15 Jan 2026 11:57:12 GMT | How I Found a P2 Broken Access Control Bug via a Tokenized URL | Sivasankar Das | [Read More](https://medium.com/p/f4d48e26a022) |
-| Thu, 15 Jan 2026 11:52:41 GMT | A tool that integrates SCCM nodes into Bloodhound | Adeel Bin Hassan | [Read More](https://medium.com/p/9b1213017aae) |
-| Thu, 15 Jan 2026 11:50:56 GMT | CVE-2025-64155: Fortinet FortiSIEM Argument Injection to Remote Code Execution | Adeel Bin Hassan | [Read More](https://medium.com/p/b086e264775d) |
