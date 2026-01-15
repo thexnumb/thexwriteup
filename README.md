@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 Jan 2026 14:09:01 GMT | SENTINEX v1.0.0 — A Stealth-Focused Windows Reconnaissance Framework | Piyusha Akash | [Read More](https://medium.com/p/98f2a7afd9c1) |
+| Thu, 15 Jan 2026 13:59:17 GMT | Hartley: Decimal Logarithmic Unit — Case Study | Journal of Landing Across Linguistic Foreground | [Read More](https://medium.com/p/b90c2e11be64) |
+| Thu, 15 Jan 2026 13:56:43 GMT | Short-Link Chaining as a Traceability Failure | 3gi3 | [Read More](https://medium.com/p/af773a863d42) |
+| Thu, 15 Jan 2026 13:55:43 GMT | Why I Went Silent | Yu | [Read More](https://medium.com/p/dcd08e25c742) |
+| Thu, 15 Jan 2026 13:55:34 GMT | What’s a cyber commonplace book? | Angela | [Read More](https://medium.com/p/ee246502d5c6) |
+| Thu, 15 Jan 2026 13:51:10 GMT | Understanding how authenticator apps generate OTPs offline | Khyrulbashar | [Read More](https://medium.com/p/1efb5cb68b39) |
+| Thu, 15 Jan 2026 13:48:37 GMT | Exploiting Capabilities: A Walkthrough of the Empire: Breakout Machine | Kiama Kareithi | [Read More](https://medium.com/p/54ce03fb054e) |
+| Thu, 15 Jan 2026 13:47:24 GMT | Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | Songül Kızılay Özügürler | [Read More](https://medium.com/p/fa70a496a7f8) |
+| Thu, 15 Jan 2026 13:47:13 GMT | A Late-Night Security Mystery: A Mendix Story | Narendran Jaganathan | [Read More](https://medium.com/p/17fe1e643260) |
+| Thu, 15 Jan 2026 13:46:34 GMT | How Professional Security Services Improve Safety in Commercial Properties | world guardian | [Read More](https://medium.com/p/21f220a8a09e) |
+| Thu, 15 Jan 2026 13:41:29 GMT | A Beginner’s Honest Guide to Ethical Hacking With Python | Vignesh Selvaraj | [Read More](https://medium.com/p/4568d56b8b69) |
+| Thu, 15 Jan 2026 13:38:54 GMT | VHost Discovery for Bug Bounty Hunters | 3eyedraven | [Read More](https://medium.com/p/8ad2f1caa83d) |
+| Thu, 15 Jan 2026 13:32:55 GMT | Britain Just Ghosted China’s Nuclear Link — With a One-Line Bill | Vivek Anand | [Read More](https://medium.com/p/78e8084e639a) |
 | Thu, 15 Jan 2026 13:32:28 GMT | AI’s Dark Side: How AI-Powered Threats Will Hit WordPress Sites in 2026 (And How to Fight Back) | Mahbubul Haque | [Read More](https://medium.com/p/520567c321da) |
 | Thu, 15 Jan 2026 13:31:43 GMT | CSRF : The Silent Attack Most People Don’t Notice | Gajanan Tayde | [Read More](https://medium.com/p/5e37b3a93759) |
 | Thu, 15 Jan 2026 13:30:59 GMT | How to Hack Mobile Phones: The Reality Behind the Search | Rebecca Smith | [Read More](https://medium.com/p/a5e85838dc7b) |
@@ -100,16 +113,3 @@ Social media is no longer just a… | Ankit rai | [Read More](https://medium.com
 | Thu, 15 Jan 2026 08:25:05 GMT | Hacking Time Itself: UofTCTF 2026 “Guess the Number” Writeup | Nicholas Mullenski | [Read More](https://medium.com/p/7ccd4651e72d) |
 | Thu, 15 Jan 2026 08:24:56 GMT | 30 High-Value Google Dorks for OSINT | Abhay Parashar | [Read More](https://medium.com/p/78f31ec865d8) |
 | Thu, 15 Jan 2026 08:24:19 GMT | Challenges Faced by the Indonesian Army (TNI AD) in the Case Study of Illegal Wildlife Trade in… | Laras Asi | [Read More](https://medium.com/p/071bdb5c6f37) |
-| Thu, 15 Jan 2026 08:24:07 GMT | The recurring identity crisis and old lessons for the AI era | Ivan Shkvarun | [Read More](https://medium.com/p/8477ccb558a8) |
-| Thu, 15 Jan 2026 08:19:51 GMT | Analysis of DWM Information Disclosure Zero-Day Vulnerability (CVE-2026–20805) | NSHC ThreatRecon Team | [Read More](https://medium.com/p/67ff9fb32635) |
-| Thu, 15 Jan 2026 08:16:25 GMT | Zero Trust Security for Distributed Tech Teams: A Comprehensive 2026 Guide | 23 Yab | [Read More](https://medium.com/p/ed3921b0841d) |
-| Thu, 15 Jan 2026 08:14:47 GMT | Hacker101 CTF Write-up: Micro-CMS v1 | tijulkabir | [Read More](https://medium.com/p/ebcd8179f1d6) |
-| Thu, 15 Jan 2026 08:13:54 GMT | What Is a Video File Format? Explained in Simple Words | Subhojit Mondal | [Read More](https://medium.com/p/99d4cc7cf522) |
-| Thu, 15 Jan 2026 08:01:07 GMT | Residential Security Services in Dubai — Protecting Homes with Magnum Security | Magnum Security | [Read More](https://medium.com/p/6ad0c5e69ad8) |
-| Thu, 15 Jan 2026 07:56:21 GMT | Why Password Length Limits Are a Security Requirement, Not a UX Choice | Abhishek Kumar | [Read More](https://medium.com/p/1dd1489fd6b0) |
-| Thu, 15 Jan 2026 07:51:54 GMT | I Didn’t Bypass Security — I Followed the Workflow Too Literally | Iski | [Read More](https://medium.com/p/db6097198a4d) |
-| Thu, 15 Jan 2026 07:46:53 GMT | Stealing Admin Access With a Single Extra JSON Field | OopsSec Store | [Read More](https://medium.com/p/cc5c726fb084) |
-| Thu, 15 Jan 2026 07:42:36 GMT | 5 Critical Fixes for Trend Micro Apex Central CVE-2025–69258 | Pentest_Testing_Corp | [Read More](https://medium.com/p/f109372a4c7e) |
-| Thu, 15 Jan 2026 07:36:42 GMT | VulnLab: SQL Injection | CyberSam | [Read More](https://medium.com/p/288db94a644c) |
-| Thu, 15 Jan 2026 07:32:11 GMT | Why Critical Systems Fail and How Monitoring Teams Stop It Before It Happens | Gavin Ellis | [Read More](https://medium.com/p/1eaf8e2d0eef) |
-| Thu, 15 Jan 2026 07:26:16 GMT | Statement from the CEO of Luxota on Regional Developments and Business Continuity | Luxota Technologies Group | [Read More](https://medium.com/p/5f77d2ca2580) |
