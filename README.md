@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 Jan 2026 07:42:36 GMT | 5 Critical Fixes for Trend Micro Apex Central CVE-2025–69258 | Pentest_Testing_Corp | [Read More](https://medium.com/p/f109372a4c7e) |
+| Thu, 15 Jan 2026 07:36:42 GMT | VulnLab: SQL Injection | CyberSam | [Read More](https://medium.com/p/288db94a644c) |
+| Thu, 15 Jan 2026 07:32:11 GMT | Why Critical Systems Fail and How Monitoring Teams Stop It Before It Happens | Gavin Ellis | [Read More](https://medium.com/p/1eaf8e2d0eef) |
+| Thu, 15 Jan 2026 07:26:16 GMT | Statement from the CEO of Luxota on Regional Developments and Business Continuity | Luxota Technologies Group | [Read More](https://medium.com/p/5f77d2ca2580) |
 | Thu, 15 Jan 2026 07:23:34 GMT | Preemptive Cybersecurity and Intelligent Defense: Celebrating Solutions That Predict and Prevent | Fluxx Events | [Read More](https://medium.com/p/dff4e507cdc5) |
 | Thu, 15 Jan 2026 07:23:12 GMT | How to Exploit JWT Tokens with Weak Signing Keys (Step-by-Step Guide) | CyberSec Xploit - Prasangam | [Read More](https://medium.com/p/c4876c51db43) |
+| Thu, 15 Jan 2026 07:22:46 GMT | Building a Hands-On SIEM Lab for Security Monitoring Using Wazuh | Michael Jan Tangalin | [Read More](https://medium.com/p/38d42102f427) |
 | Thu, 15 Jan 2026 07:14:20 GMT | Part -2 (React2Shell): Understanding a Critical React Server Components Vulnerability | Nithishraina | [Read More](https://medium.com/p/4bd94d04ebbb) |
 | Thu, 15 Jan 2026 07:10:59 GMT | Highest Paying Cybersecurity Careers in 2026 (What Actually Pays, Not the Hype) | Muhammad Haider Tallal | [Read More](https://medium.com/p/343a40fb4fc5) |
 | Thu, 15 Jan 2026 07:09:25 GMT | Monthly Threat Actor Group Intelligence Report, December 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/2623fb8cbe78) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 Jan 2026 21:41:19 GMT | DNS Log Analysis using Splunk | Jason Hoskins Jr. | [Read More](https://medium.com/p/cd5a18f47aca) |
 | Wed, 14 Jan 2026 21:38:51 GMT | How Security Teams Can Use Shodan.io to See What Attackers See | Mohsin Khan | [Read More](https://medium.com/p/8f06d5b5d424) |
 | Wed, 14 Jan 2026 21:37:20 GMT | I Watched My Boyfriend Get Scammed While Job Hunting. Then I Built a Way to Fight Back. | Aubrey | [Read More](https://medium.com/p/cb0ac23456af) |
-| Wed, 14 Jan 2026 21:34:54 GMT | How to Protect Yourself From Malicious Links and Online Scams | Ifebuche Juliet | [Read More](https://medium.com/p/f1cf80238274) |
-| Wed, 14 Jan 2026 21:34:48 GMT | Hacked Despite 2FA: My LinkedIn Hack Lessons | Ebube Nwankwo | [Read More](https://medium.com/p/d1bb6b8fd8cd) |
-| Wed, 14 Jan 2026 21:29:05 GMT | Why I Built VaultKey Offline Password Manager (And Why I Resisted It for a Long Time) | MoogleTechnology Canada | [Read More](https://medium.com/p/4e615f880845) |
-| Wed, 14 Jan 2026 21:28:51 GMT | Anthropic Didn’t Donate to Python. They Paid a Ransom. | Ferid Brković | [Read More](https://medium.com/p/e8719888dbe5) |
-| Wed, 14 Jan 2026 21:24:20 GMT | Beyond the Exit: The Sovereign Architect – Building an Enduring Empire of Systems, Not Just… | Serin Noman ✨ | [Read More](https://medium.com/p/7cb1357ddcbd) |
