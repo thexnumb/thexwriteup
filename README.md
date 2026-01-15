@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 Jan 2026 20:29:29 GMT | How the Latest Banking Malware is Targeting Users | Princely Alafe | [Read More](https://medium.com/p/38f586a70336) |
+| Thu, 15 Jan 2026 20:27:39 GMT | The Death of Traditional Threat Intelligence (And What Comes Next) | Vito Rallo | [Read More](https://medium.com/p/0949750c3940) |
+| Thu, 15 Jan 2026 20:26:46 GMT | Cold water | Fabiana Tavares | [Read More](https://medium.com/p/3cdf876d5000) |
 | Thu, 15 Jan 2026 20:22:33 GMT | How Ransomware Attacks Spread and How to Protect Yourself | Princely Alafe | [Read More](https://medium.com/p/597d9813c281) |
+| Thu, 15 Jan 2026 20:19:20 GMT | Put It Out There | Maryanne Pope | [Read More](https://medium.com/p/2132e592d1ba) |
 | Thu, 15 Jan 2026 20:11:23 GMT | Building a Malware Analysis Lab: A Threat Hunter’s Perspective (Part 1) | Ajith Chandran | [Read More](https://medium.com/p/6fde2ee77f91) |
 | Thu, 15 Jan 2026 20:08:23 GMT | 264 Vulnerabilities in This Week’s Wordfence Intelligence WordPress Vulnerability Report (January… | Wordfence | [Read More](https://medium.com/p/4a9cd236946b) |
 | Thu, 15 Jan 2026 20:07:51 GMT | Getting Started with CAI Framework: Building Multi-Agent Systems in Minutes | MrGood | [Read More](https://medium.com/p/ae350232775a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 Jan 2026 14:38:34 GMT | Nationwide Verizon Outage Sparks Frustration and Chaos for Millions | Motherlandlove | [Read More](https://medium.com/p/7b5a1d62ec0d) |
 | Thu, 15 Jan 2026 14:33:04 GMT | The Best Encryption Algorithm in 2026: How Secure Messaging Apps Protect Your Data | WibeIT Application | [Read More](https://medium.com/p/926a346e7920) |
 | Thu, 15 Jan 2026 14:31:57 GMT | Darknet Forums vs Marketplaces: How They Really Differ | Tor BBB | [Read More](https://medium.com/p/d1b60af120cb) |
-| Thu, 15 Jan 2026 14:31:15 GMT | Top Penetration Testing Company in Canada: Safeguarding Your Business Against Real Cyber Threats | Plutosec Cyber Security | [Read More](https://medium.com/p/ac2ee3f9d6fc) |
-| Thu, 15 Jan 2026 14:26:35 GMT | Linux PrivEsc: Readable /etc/shadow | Emre ASLAN | [Read More](https://medium.com/p/809c2beea13f) |
-| Thu, 15 Jan 2026 14:09:01 GMT | SENTINEX v1.0.0 — A Stealth-Focused Windows Reconnaissance Framework | Piyusha Akash | [Read More](https://medium.com/p/98f2a7afd9c1) |
-| Thu, 15 Jan 2026 13:59:17 GMT | Hartley: Decimal Logarithmic Unit — Case Study | Journal of Landing Across Linguistic Foreground | [Read More](https://medium.com/p/b90c2e11be64) |
