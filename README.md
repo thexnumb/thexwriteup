@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 Jan 2026 09:04:57 GMT | Behind The Screens: The Ultimate Guide To Mobile Application Security Testing | Redfox Security | [Read More](https://medium.com/p/b0f6bd01cd56) |
+| Thu, 15 Jan 2026 09:03:48 GMT | How Social Media Impacts Daily Work and Life: A Reality Check
+Social media is no longer just a… | Ankit rai | [Read More](https://medium.com/p/1401cf1bdc6e) |
+| Thu, 15 Jan 2026 09:02:52 GMT | Your SOC Is Missing This: How Stealer Logs Bypass Your Breach Monitoring Tools | Alexandre Vandamme | [Read More](https://medium.com/p/d4e3fdc8f43d) |
+| Thu, 15 Jan 2026 09:02:42 GMT | What problems does Saferloop solve for parents worried about online safety? | Smith Williams | [Read More](https://medium.com/p/fe5d1543daae) |
+| Thu, 15 Jan 2026 08:56:27 GMT | Bed Bugs? No Chance | Authorvoicehub | [Read More](https://medium.com/p/09e5d6ea0fd4) |
+| Thu, 15 Jan 2026 08:55:09 GMT | How I Bought a $1400 Jacket for Free Using a Business Logic Flaw | Aashif | [Read More](https://medium.com/p/3b60b31252d0) |
+| Thu, 15 Jan 2026 08:51:11 GMT | Why Your Password Isn’t Enough (And What Actually Works) | Mercy Ajayi | [Read More](https://medium.com/p/357f4d643445) |
+| Thu, 15 Jan 2026 08:45:52 GMT | Pastebin: A Simple Tool Turned Security Blind Spot | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/2cbd0f6b9cf3) |
 | Thu, 15 Jan 2026 08:28:20 GMT | A Quiet Look at Luxembourg’s Internet-Facing Footprint | Bob (intx) | [Read More](https://medium.com/p/db316935f6be) |
 | Thu, 15 Jan 2026 08:25:46 GMT | Mastering SQLMap and Ghauri: A Practical Guide to WAF Bypass Techniques | Unknown | [Read More](https://medium.com/p/1aaa9eee9d32) |
 | Thu, 15 Jan 2026 08:25:05 GMT | Hacking Time Itself: UofTCTF 2026 “Guess the Number” Writeup | Nicholas Mullenski | [Read More](https://medium.com/p/7ccd4651e72d) |
@@ -104,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 Jan 2026 00:52:20 GMT | AI Is Getting Better at Hacking. That Changes Everything. | Cyber-AppSec | [Read More](https://medium.com/p/a61304c50092) |
 | Thu, 15 Jan 2026 00:48:58 GMT | As Europe’s Security Frays, Politics Moves Right | Faustin Mark (A&P) | [Read More](https://medium.com/p/b25ea0a2b8e4) |
 | Thu, 15 Jan 2026 00:43:36 GMT | The OSI of Mind: Securing Human-AI Interfaces | Kevin | [Read More](https://medium.com/p/3ca381b95c29) |
-| Thu, 15 Jan 2026 00:41:47 GMT | Security Analysis and Hardening of a Flask-SQLite Student Management System | Adhyatma Davu | [Read More](https://medium.com/p/4f15088ee2b3) |
-| Thu, 15 Jan 2026 00:26:21 GMT | Digital Forensic Investigation of an Insider Data Leakage Incident | Hibrizykavin | [Read More](https://medium.com/p/521fb20f5f09) |
-| Wed, 14 Jan 2026 23:54:37 GMT | Case Study: Digital Forensics Investigation of an Insider Data Breach | William Azaria Simanjuntak | [Read More](https://medium.com/p/cbab21f1921a) |
-| Wed, 14 Jan 2026 23:36:17 GMT | The Security Challenges of VoIP: Risks, Attacks, and Protections | Raviteja Mureboina | [Read More](https://medium.com/p/0eb5e69ae501) |
-| Wed, 14 Jan 2026 23:35:10 GMT | Which Cybersecurity Certifications Matter in 2026 | Irene A. Gil | [Read More](https://medium.com/p/7c60b7d9799a) |
-| Wed, 14 Jan 2026 23:31:50 GMT | Security Analysis and Hardening of a Python Web Application | William Azaria Simanjuntak | [Read More](https://medium.com/p/89f0521d6e83) |
-| Wed, 14 Jan 2026 23:30:20 GMT | Stop Letting Slow Computers Drain Your Time And Budget | Geoffrey Wenger | [Read More](https://medium.com/p/f7b048df410b) |
-| Wed, 14 Jan 2026 23:21:09 GMT | HTB Labs — Tier 1 — “Crocodile” Machine Walkthrough - By: CyberAlp0 | Mohamed Maher | [Read More](https://medium.com/p/a4954ef382f2) |
