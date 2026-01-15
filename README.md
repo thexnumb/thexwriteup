@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 Jan 2026 11:10:24 GMT | flAWS.cloud Level 1 & 2: Hacking Misconfigured S3 Buckets | Samyakt Jain | [Read More](https://medium.com/p/7f4350887215) |
+| Thu, 15 Jan 2026 11:08:26 GMT | How to Stay Safe Using Online Banking Security Methods | Khalidhasnainareeb | [Read More](https://medium.com/p/94c5986ede26) |
+| Thu, 15 Jan 2026 11:02:56 GMT | Top 5 Wallet Recovery Methods People Actually Used | Modexa | [Read More](https://medium.com/p/1757f1d52e39) |
+| Thu, 15 Jan 2026 11:02:56 GMT | Welcome to The PAC — The PAC #001 | Faith Obafemi | [Read More](https://medium.com/p/9eb8c4dccb99) |
+| Thu, 15 Jan 2026 11:02:56 GMT | Signal Jamming: The hack that is illegal in most countries | T-Jay Bautista | [Read More](https://medium.com/p/b132a1194e12) |
+| Thu, 15 Jan 2026 11:01:09 GMT | Loginal — A Lightweight, AI-Friendly SOC for Threat Hunters | Alareqi | [Read More](https://medium.com/p/422a91925f9d) |
+| Thu, 15 Jan 2026 10:59:00 GMT | I Tested How Exposed My Online Life Really Was | O. J. Okpabi | [Read More](https://medium.com/p/9aa47216a67b) |
+| Thu, 15 Jan 2026 10:57:42 GMT | Cybersecurity Courses in India: Eligibility and Essential Skills You Need | Futurism Xpro | [Read More](https://medium.com/p/9502521229d4) |
+| Thu, 15 Jan 2026 10:55:48 GMT | SQL Injection UNION Attack: Retrieving Multiple Values in a Single Column (Portswigger Lab) | Rachael Muga | [Read More](https://medium.com/p/21ae92c51e7c) |
+| Thu, 15 Jan 2026 10:54:42 GMT | The Privacy Paradox: Why We Fear the Surveillance We Already Accept | 0NE - C L A V I | [Read More](https://medium.com/p/683b9c957eb3) |
+| Thu, 15 Jan 2026 10:51:54 GMT | Deepfake Scams in Politics & Finance: A Cybersecurity Nightmare | Geeta University | [Read More](https://medium.com/p/d6285b213cd6) |
+| Thu, 15 Jan 2026 10:51:00 GMT | Networking Concepts You Must Know to Learn Cybersecurity | Shalu | [Read More](https://medium.com/p/a6c1a8d07330) |
+| Thu, 15 Jan 2026 10:48:31 GMT | Modern Exposure Management for Today’s Expanding Digital Environments | Vijilan | [Read More](https://medium.com/p/bf1bcf6c5379) |
+| Thu, 15 Jan 2026 10:43:10 GMT | Breaching the UAE: Real-World Penetration Testing Against Modern Hackers | Clouds Dubai | [Read More](https://medium.com/p/fa2996497b12) |
+| Thu, 15 Jan 2026 10:41:33 GMT | CES 2026 - A Full Independent System in a Thumb-Sized Device | TrustKernel | [Read More](https://medium.com/p/120bb60969f3) |
 | Thu, 15 Jan 2026 10:32:47 GMT | Study in Australia — World-Class International Universities Await | royalinternational | [Read More](https://medium.com/p/f2d2ccf4abc4) |
 | Thu, 15 Jan 2026 10:24:03 GMT | Why Python Is the Best Way to Start Ethical Hacking (Especially If You’re a Beginner) | Vignesh Selvaraj | [Read More](https://medium.com/p/46b5cb54658c) |
 | Thu, 15 Jan 2026 10:23:31 GMT | Professional Security Guard Services for Residential & Commercial Needs | Secure 24 Seven | [Read More](https://medium.com/p/4771bad6585e) |
@@ -98,18 +113,3 @@ Social media is no longer just a… | Ankit rai | [Read More](https://medium.com
 | Thu, 15 Jan 2026 04:51:49 GMT | Security Analysis and Hardening | Nesha | [Read More](https://medium.com/p/943414cb39fa) |
 | Thu, 15 Jan 2026 04:45:14 GMT | Digital Forensic Investigation: Evidence Integrity Verification and Timeline Reconstruction of a… | Sora | [Read More](https://medium.com/p/0aa33297c6da) |
 | Thu, 15 Jan 2026 04:42:08 GMT | Securing JWT in Production: What Matters Beyond RS256 | Anvisha | [Read More](https://medium.com/p/1849e2553572) |
-| Thu, 15 Jan 2026 04:37:20 GMT | Dynamic Analysis & Instrumentation Android: Setup MobSF, Frida, Objection, dan Reflutter | Alfandiwijaya | [Read More](https://medium.com/p/f5b80218e139) |
-| Thu, 15 Jan 2026 04:32:45 GMT | Why AI is bad | Mika | [Read More](https://medium.com/p/5ea405454cee) |
-| Thu, 15 Jan 2026 04:32:10 GMT | Identity and Access Management (IAM): 7 Powerful Benefits That Secure the Future of Digital Trust | Maxatlasofficial | [Read More](https://medium.com/p/eb53530f089b) |
-| Thu, 15 Jan 2026 04:22:38 GMT | Security Analysis and Program Hardening | Sora | [Read More](https://medium.com/p/7c1f16528487) |
-| Thu, 15 Jan 2026 04:14:38 GMT | VPS for Media: A Comprehensive Guide | HostNOC | [Read More](https://medium.com/p/25ca16accb48) |
-| Thu, 15 Jan 2026 04:09:50 GMT | AI Hacking Lab | Dael Chávez | [Read More](https://medium.com/p/7aca30ee37a2) |
-| Thu, 15 Jan 2026 04:07:32 GMT | Security Analysis and Program Hardening of a Flask–SQLite Student Management System | Hibrizykavin | [Read More](https://medium.com/p/eb3050098fd0) |
-| Thu, 15 Jan 2026 04:03:57 GMT | The Internet’s Greatest Mystery How an Anonymous Puzzle Hunted the World’s Smartest Minds And Then… | Mark L. Hill | [Read More](https://medium.com/p/fa952dd9e917) |
-| Thu, 15 Jan 2026 03:58:24 GMT | Alert Triage With Splunk. TryHackMe Walkthrough. | Lintu Oommen | [Read More](https://medium.com/p/b3162b3493ba) |
-| Thu, 15 Jan 2026 03:39:22 GMT | Poetic Romance With AI | damn_daniel_2000 | [Read More](https://medium.com/p/be546ef43d85) |
-| Thu, 15 Jan 2026 03:38:49 GMT | The Unlocked Vault: How Venezuela’s Government Exposed 188GB of Sensitive Data Through Basic… | Ringmast4r | [Read More](https://medium.com/p/31dd9e80df6e) |
-| Thu, 15 Jan 2026 03:32:48 GMT | Network and Communications Security Part 4: IP Address Classes, Explained Without the Headache | Manubhav Sharma | [Read More](https://medium.com/p/66015a49ffc6) |
-| Thu, 15 Jan 2026 03:32:48 GMT | Python + uv + Rye Reproducible Envs: Lockfiles, Hashes, and Supply-Chain Hygiene | Nikulsinh Rajput | [Read More](https://medium.com/p/5f639335278e) |
-| Thu, 15 Jan 2026 03:31:33 GMT | The Chronobiotic Edge: Mastering Advanced Productivity in the Age of AI | Riza Rajajowas | [Read More](https://medium.com/p/e37a0cbb4e04) |
-| Thu, 15 Jan 2026 03:16:57 GMT | Inside LinkedIn’s Latest Phishing Campaign: How Comment-Based Impersonation and URL Shortening Are… | Deven Chhajed | [Read More](https://medium.com/p/6e2592a570be) |
