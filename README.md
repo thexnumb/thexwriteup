@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 Jan 2026 15:50:50 GMT | The Night the Server Didn’t Panic | George William Amalan | [Read More](https://medium.com/p/187e979a7aa4) |
+| Thu, 15 Jan 2026 15:50:35 GMT | Stop Training Your Employees… It Isn’t Working | Aaron Strong | [Read More](https://medium.com/p/88f869c47380) |
+| Thu, 15 Jan 2026 15:46:59 GMT | Iran’s Internet Went to Zero on Jan 8 — Will Account Takeovers Spike in the Next 2–3 Weeks? | Wes Young | [Read More](https://medium.com/p/6afbf41261fd) |
+| Thu, 15 Jan 2026 15:44:32 GMT | PhantomBlogger: Automating Red Team Infrastructure with local LLMs | Walter "walula" Scitta | [Read More](https://medium.com/p/b4f895908509) |
+| Thu, 15 Jan 2026 15:32:48 GMT | Security best practices in Umami codebase — part 1.0 | Ramu Narasinga | [Read More](https://medium.com/p/33c7b62ebec1) |
+| Thu, 15 Jan 2026 15:27:31 GMT | Same honey. Different excuse. | MoUMMM | [Read More](https://medium.com/p/8ade559a2237) |
+| Thu, 15 Jan 2026 15:27:06 GMT | More Than Just Storage: The Art of Building Your Own Crypto Wallet | John Galt | [Read More](https://medium.com/p/3e4a656a7f81) |
 | Thu, 15 Jan 2026 15:26:34 GMT | XSS and CSRF Vulnerabilities in Spring Boot: Detection and Prevention Guide | Ahmet Emre DEMİRŞEN | [Read More](https://medium.com/p/f0d7f8fdd1e2) |
 | Thu, 15 Jan 2026 15:25:28 GMT | Security 101: Understanding CORS and the Same-Origin Policy | Kunal Sinha | [Read More](https://medium.com/p/19b9852a90cd) |
+| Thu, 15 Jan 2026 15:24:03 GMT | NCAE C2Games MiniHacks Challenge CTF Walkthrough Part 3 - Trivia | Samuel McLamb | [Read More](https://medium.com/p/710d11c6ccdc) |
+| Thu, 15 Jan 2026 15:21:38 GMT | Deepfakes and Digital Trust: How to Protect Your Online Identity in 2026 | NextGenScribbles | [Read More](https://medium.com/p/0cfbec84e060) |
 | Thu, 15 Jan 2026 15:19:13 GMT | Heads Up: Your CISSP “Short-Cut” Might Be Expiring in April 2026! | Mayur Pahwa | [Read More](https://medium.com/p/c648137064c4) |
 | Thu, 15 Jan 2026 15:16:03 GMT | Why API Gateways Are Critical for Securing Public APIs | Maryblessing | [Read More](https://medium.com/p/affaf171785b) |
 | Thu, 15 Jan 2026 15:14:52 GMT | Ağ Taşıma Güvenliği Mimarisi: SSL/TLS | Alperkandemir | [Read More](https://medium.com/p/5e0fcb80dc8e) |
@@ -26,6 +35,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 Jan 2026 14:45:10 GMT | The Complete (Failed) Guide to ASP.NET ViewState Exploitation | Dipesh Paul | [Read More](https://medium.com/p/1a582471fc59) |
 | Thu, 15 Jan 2026 14:40:10 GMT | Fortinet ออกอัปเดตแก้ไขช่องโหว่ในผลิตภัณฑ์ FortiSIEM และ FortiFone | ThaiCERT By NCSA | [Read More](https://medium.com/p/cebdca3ad22e) |
 | Thu, 15 Jan 2026 14:40:05 GMT | “Gaining Access: Understanding System and Network Access Processes After Service Enumeration” | Habibi | [Read More](https://medium.com/p/a4f2df41468a) |
+| Thu, 15 Jan 2026 14:38:34 GMT | Nationwide Verizon Outage Sparks Frustration and Chaos for Millions | Motherlandlove | [Read More](https://medium.com/p/7b5a1d62ec0d) |
 | Thu, 15 Jan 2026 14:33:04 GMT | The Best Encryption Algorithm in 2026: How Secure Messaging Apps Protect Your Data | WibeIT Application | [Read More](https://medium.com/p/926a346e7920) |
 | Thu, 15 Jan 2026 14:31:57 GMT | Darknet Forums vs Marketplaces: How They Really Differ | Tor BBB | [Read More](https://medium.com/p/d1b60af120cb) |
 | Thu, 15 Jan 2026 14:31:15 GMT | Top Penetration Testing Company in Canada: Safeguarding Your Business Against Real Cyber Threats | Plutosec Cyber Security | [Read More](https://medium.com/p/ac2ee3f9d6fc) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 Jan 2026 10:23:31 GMT | Professional Security Guard Services for Residential & Commercial Needs | Secure 24 Seven | [Read More](https://medium.com/p/4771bad6585e) |
 | Thu, 15 Jan 2026 10:22:53 GMT | Top 10 AI Cyber Security Tools to Protect Your Organisation in 2026 | cyber security Updates | [Read More](https://medium.com/p/cd516d48b26c) |
 | Thu, 15 Jan 2026 10:13:15 GMT | Search HTB: A Complete Walkthrough | Legenddhruv | [Read More](https://medium.com/p/fe81ba31bf5a) |
-| Thu, 15 Jan 2026 10:05:06 GMT | Technical Whitepaper: The EIN Framework | Zeyd Aar Team Algo | [Read More](https://medium.com/p/483f09a0d3c8) |
-| Thu, 15 Jan 2026 10:01:30 GMT | The Hidden Price of Data Breaches | Hays Communication | [Read More](https://medium.com/p/c5e351d6a2c8) |
-| Thu, 15 Jan 2026 10:00:39 GMT | A Web2.5 Vulnerability Story | Bogdan Kondratev | [Read More](https://medium.com/p/3d0cc5a4d58f) |
-| Thu, 15 Jan 2026 09:54:02 GMT | Write-up: Relevant lab on THM | cLODIUS cOCK | [Read More](https://medium.com/p/cea454c3f3a6) |
-| Thu, 15 Jan 2026 09:52:51 GMT | An Image That Shares Grief Through Helpless Eyes | Sugunbhaskar | [Read More](https://medium.com/p/283b7393e662) |
-| Thu, 15 Jan 2026 09:52:14 GMT | Penetration Tester Career Guide: From Curious Beginner to Pro Ethical Hacker | Bugitrix | [Read More](https://medium.com/p/b097fc66b8fd) |
-| Thu, 15 Jan 2026 09:47:20 GMT | Beyond Time Travel: Why Snowflake’s New Immutable Backups Are a Game Changer for Cyber-Resilience | Pascal Pfäffle | [Read More](https://medium.com/p/221a00f7af1e) |
-| Thu, 15 Jan 2026 09:45:43 GMT | Information Security on behalf of Business Continuity | Ziya Gokalp | [Read More](https://medium.com/p/22fec2c72fac) |
-| Thu, 15 Jan 2026 09:45:14 GMT | Decision Making Battle Between Attacker and Defender: Game Theory in Cybersecurity | Ziya Gokalp | [Read More](https://medium.com/p/32f86844c919) |
-| Thu, 15 Jan 2026 09:41:22 GMT | The Visual Ghost: How a Single Unicode Character Led to a Critical Account Takeover | Be nice insabat | [Read More](https://medium.com/p/84e620ff908f) |
