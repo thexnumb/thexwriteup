@@ -12,10 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 Jan 2026 07:23:34 GMT | Preemptive Cybersecurity and Intelligent Defense: Celebrating Solutions That Predict and Prevent | Fluxx Events | [Read More](https://medium.com/p/dff4e507cdc5) |
+| Thu, 15 Jan 2026 07:23:12 GMT | How to Exploit JWT Tokens with Weak Signing Keys (Step-by-Step Guide) | CyberSec Xploit - Prasangam | [Read More](https://medium.com/p/c4876c51db43) |
+| Thu, 15 Jan 2026 07:14:20 GMT | Part -2 (React2Shell): Understanding a Critical React Server Components Vulnerability | Nithishraina | [Read More](https://medium.com/p/4bd94d04ebbb) |
+| Thu, 15 Jan 2026 07:10:59 GMT | Highest Paying Cybersecurity Careers in 2026 (What Actually Pays, Not the Hype) | Muhammad Haider Tallal | [Read More](https://medium.com/p/343a40fb4fc5) |
+| Thu, 15 Jan 2026 07:09:25 GMT | Monthly Threat Actor Group Intelligence Report, December 2025 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/2623fb8cbe78) |
+| Thu, 15 Jan 2026 07:02:58 GMT | Part I: Vault PKI on My Machine | Raymon Epping | [Read More](https://medium.com/p/a4743151b017) |
+| Thu, 15 Jan 2026 07:00:49 GMT | Autonomous Espionage and the “Original Sin” of AI | Eude Tech | [Read More](https://medium.com/p/991a7e263135) |
+| Thu, 15 Jan 2026 06:55:38 GMT | The Supreme Court Just Left $130 Billion Hanging. Here’s What It Means for Freight. | Heesham Naji | [Read More](https://medium.com/p/aced1a3527ac) |
+| Thu, 15 Jan 2026 06:43:19 GMT | Why Businesses Worldwide Trust Quasitek Solutions for Digital Marketing Success | Quasitek Solutions | [Read More](https://medium.com/p/1e38bc488638) |
+| Thu, 15 Jan 2026 06:41:42 GMT | Advanced Diploma in Information Technology — Build a Future-Ready Tech Career | AIST | [Read More](https://medium.com/p/dfbfcbbb0f12) |
+| Thu, 15 Jan 2026 06:41:20 GMT | API Security: A Step-by-Step Guide to Understanding Vulnerabilities, Attacks, and Defenses | Rambe Rakha | [Read More](https://medium.com/p/4f57adfeac08) |
+| Thu, 15 Jan 2026 06:39:14 GMT | How to Choose the Best Cyber Security College | ritik | [Read More](https://medium.com/p/ebf1d7e4f5e7) |
+| Thu, 15 Jan 2026 06:37:12 GMT | Securing AI Agents with Information Flow Control (Part III) | Ofir Yakovian | [Read More](https://medium.com/p/76891bbde968) |
 | Thu, 15 Jan 2026 06:29:43 GMT | How To Host Your Own CTF | Amrit Arora - NoobMaster | [Read More](https://medium.com/p/6eb2c1d1a43f) |
+| Thu, 15 Jan 2026 06:24:15 GMT | Four Common Web3 Vulnerabilities of 2025 — And How to Avoid Them | Godwinjohn | [Read More](https://medium.com/p/508227a61d29) |
 | Thu, 15 Jan 2026 06:24:08 GMT | OAuth 2.0: The Most Misunderstood Security Layer in Modern Apps | Arun Kumar | [Read More](https://medium.com/p/64b226df3599) |
 | Thu, 15 Jan 2026 06:15:01 GMT | Network Device Hardening — Writeup | Mahir | [Read More](https://medium.com/p/22498a2915a2) |
 | Thu, 15 Jan 2026 06:13:04 GMT | How Cybersecurity Keeps the Internet Safe | Adasmadasu | [Read More](https://medium.com/p/ecfdfa2278d4) |
+| Thu, 15 Jan 2026 06:03:49 GMT | ประจำวันพฤหัสบดีที่ 15 มกราคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/76b1332bbaff) |
 | Thu, 15 Jan 2026 06:00:13 GMT | The Day the “Security Janitor” Quit | Aravind S Narayan | [Read More](https://medium.com/p/dbd958fcfb43) |
 | Thu, 15 Jan 2026 05:50:05 GMT | Google’s Personal AI vs. OpenAI’s Brain Drain - The Daily Tech Digest: 15 January 2026 | Souren Stepanyan | [Read More](https://medium.com/p/ec84e487c787) |
 | Thu, 15 Jan 2026 05:44:13 GMT | Enterprise IT Transformation with Cloud, Containers, Virtualization, Security, and Data Protection… | F9 Infotech | [Read More](https://medium.com/p/0c15af8647e7) |
@@ -97,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 Jan 2026 21:29:05 GMT | Why I Built VaultKey Offline Password Manager (And Why I Resisted It for a Long Time) | MoogleTechnology Canada | [Read More](https://medium.com/p/4e615f880845) |
 | Wed, 14 Jan 2026 21:28:51 GMT | Anthropic Didn’t Donate to Python. They Paid a Ransom. | Ferid Brković | [Read More](https://medium.com/p/e8719888dbe5) |
 | Wed, 14 Jan 2026 21:24:20 GMT | Beyond the Exit: The Sovereign Architect – Building an Enduring Empire of Systems, Not Just… | Serin Noman ✨ | [Read More](https://medium.com/p/7cb1357ddcbd) |
-| Wed, 14 Jan 2026 21:20:18 GMT | How I almost got hacked by a “recruiter”. | Ben | [Read More](https://medium.com/p/c520b4a779ef) |
-| Wed, 14 Jan 2026 21:19:08 GMT | Security Analysis and Program Hardening of a Web-Based Student Management Application | Rafiiunfaadi | [Read More](https://medium.com/p/c3c76a566b1b) |
-| Wed, 14 Jan 2026 21:18:33 GMT | Digital Forensic Investigation of Insider Data Leakage Using Disk Image and Chat Log Analysis | Rafiiunfaadi | [Read More](https://medium.com/p/71a23af6cc23) |
-| Wed, 14 Jan 2026 21:12:32 GMT | Security Analysis and Hardening of a Flask-SQLite Student Management System | Nazario Jose Valente | [Read More](https://medium.com/p/20db6fca64a8) |
-| Wed, 14 Jan 2026 21:11:28 GMT | Tesla Autopilot | Leisha  B. | [Read More](https://medium.com/p/70b15668390a) |
-| Wed, 14 Jan 2026 21:07:36 GMT | Confidence is a Performance. No One is Actually Self-Assured​ | Gumral Huseinzade | [Read More](https://medium.com/p/cd7758ba9ad6) |
-| Wed, 14 Jan 2026 20:50:12 GMT | FortiSIEM Architecture | Barbaros Küçükpınar | [Read More](https://medium.com/p/34a86e3e8a6e) |
-| Wed, 14 Jan 2026 20:42:50 GMT | FortiSIEM Mimarisi | Barbaros Küçükpınar | [Read More](https://medium.com/p/b007f05d26ea) |
-| Wed, 14 Jan 2026 20:42:29 GMT | An SSRF Sink You’re Probably Skipping (It Earned Me $700 in Bounties) | Thomas A. | [Read More](https://medium.com/p/438231ab5205) |
-| Wed, 14 Jan 2026 20:40:50 GMT | Why Cloud Vaults Fail When You Need Them Most | MoogleTechnology Canada | [Read More](https://medium.com/p/c674fa9773ed) |
-| Wed, 14 Jan 2026 20:38:08 GMT | TryHackMe : Blue Machine Writeup | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/14bf8ddb91e4) |
-| Wed, 14 Jan 2026 20:26:32 GMT | TheHackersLabs — Castor [WriteUp] | APS88 | [Read More](https://medium.com/p/121ecf7121f0) |
-| Wed, 14 Jan 2026 20:20:50 GMT | I Built a Basic Branch Office LAN in Cisco Packet Tracer | Grace Jaman | [Read More](https://medium.com/p/ce534ba20cd5) |
-| Wed, 14 Jan 2026 20:13:53 GMT | Strong, or just Numb? | Sahilsoujani | [Read More](https://medium.com/p/81976c3f1db2) |
-| Wed, 14 Jan 2026 20:07:52 GMT | He Left the Seat Empty
-Every morning at 7:15, the same bus stopped at the same corner. | Sakhi Writes | [Read More](https://medium.com/p/a049a8b1cd34) |
