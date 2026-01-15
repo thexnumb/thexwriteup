@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 Jan 2026 21:58:49 GMT | From File Upload to Remote Code Execution (byp4ss3d) | Gregory Kovalchuk | [Read More](https://medium.com/p/5858636f015d) |
+| Thu, 15 Jan 2026 21:53:31 GMT | BreachForum is New victim of hackers. | KiLo "HaCK3r " Cantrell | [Read More](https://medium.com/p/d782c2ad11b0) |
+| Thu, 15 Jan 2026 21:52:47 GMT | Hackthebox Module: Password Attacks - Windows Credential Manager Exploitation | Sunain | [Read More](https://medium.com/p/dea98865b381) |
 | Thu, 15 Jan 2026 21:36:42 GMT | How do I feel about finding bugs as my meal? | Imran Niaz | [Read More](https://medium.com/p/0e88a6a32bec) |
 | Thu, 15 Jan 2026 21:33:40 GMT | Cybersecurity for Business Owners in 2026: A Practical Guide to Protecting Your Data | RayasWeb | [Read More](https://medium.com/p/cb5a2b4efc4b) |
 | Thu, 15 Jan 2026 21:31:52 GMT | The Real Attack Surface of Code-Executing LLMs: A Gemini Code Execution Case Study | Ömer Bilgin Bilgili | [Read More](https://medium.com/p/467767c324f4) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 Jan 2026 15:27:31 GMT | Same honey. Different excuse. | MoUMMM | [Read More](https://medium.com/p/8ade559a2237) |
 | Thu, 15 Jan 2026 15:27:06 GMT | More Than Just Storage: The Art of Building Your Own Crypto Wallet | John Galt | [Read More](https://medium.com/p/3e4a656a7f81) |
 | Thu, 15 Jan 2026 15:26:34 GMT | XSS and CSRF Vulnerabilities in Spring Boot: Detection and Prevention Guide | Ahmet Emre DEMİRŞEN | [Read More](https://medium.com/p/f0d7f8fdd1e2) |
-| Thu, 15 Jan 2026 15:25:28 GMT | Security 101: Understanding CORS and the Same-Origin Policy | Kunal Sinha | [Read More](https://medium.com/p/19b9852a90cd) |
-| Thu, 15 Jan 2026 15:24:03 GMT | NCAE C2Games MiniHacks Challenge CTF Walkthrough Part 3 - Trivia | Samuel McLamb | [Read More](https://medium.com/p/710d11c6ccdc) |
-| Thu, 15 Jan 2026 15:21:38 GMT | Deepfakes and Digital Trust: How to Protect Your Online Identity in 2026 | NextGenScribbles | [Read More](https://medium.com/p/0cfbec84e060) |
