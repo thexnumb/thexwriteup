@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 Jan 2026 04:22:38 GMT | Security Analysis and Program Hardening | Sora | [Read More](https://medium.com/p/7c1f16528487) |
+| Thu, 15 Jan 2026 04:14:38 GMT | VPS for Media: A Comprehensive Guide | HostNOC | [Read More](https://medium.com/p/25ca16accb48) |
+| Thu, 15 Jan 2026 04:09:50 GMT | AI Hacking Lab | Dael Chávez | [Read More](https://medium.com/p/7aca30ee37a2) |
+| Thu, 15 Jan 2026 04:07:32 GMT | Security Analysis and Program Hardening of a Flask–SQLite Student Management System | Hibrizykavin | [Read More](https://medium.com/p/eb3050098fd0) |
+| Thu, 15 Jan 2026 04:03:57 GMT | The Internet’s Greatest Mystery How an Anonymous Puzzle Hunted the World’s Smartest Minds And Then… | Mark L. Hill | [Read More](https://medium.com/p/fa952dd9e917) |
+| Thu, 15 Jan 2026 03:58:24 GMT | Alert Triage With Splunk. TryHackMe Walkthrough. | Lintu Oommen | [Read More](https://medium.com/p/b3162b3493ba) |
+| Thu, 15 Jan 2026 03:39:22 GMT | Poetic Romance With AI | damn_daniel_2000 | [Read More](https://medium.com/p/be546ef43d85) |
+| Thu, 15 Jan 2026 03:38:49 GMT | The Unlocked Vault: How Venezuela’s Government Exposed 188GB of Sensitive Data Through Basic… | Ringmast4r | [Read More](https://medium.com/p/31dd9e80df6e) |
+| Thu, 15 Jan 2026 03:32:48 GMT | Network and Communications Security Part 4: IP Address Classes, Explained Without the Headache | Manubhav Sharma | [Read More](https://medium.com/p/66015a49ffc6) |
+| Thu, 15 Jan 2026 03:32:48 GMT | Python + uv + Rye Reproducible Envs: Lockfiles, Hashes, and Supply-Chain Hygiene | Nikulsinh Rajput | [Read More](https://medium.com/p/5f639335278e) |
+| Thu, 15 Jan 2026 03:31:33 GMT | The Chronobiotic Edge: Mastering Advanced Productivity in the Age of AI | Riza Rajajowas | [Read More](https://medium.com/p/e37a0cbb4e04) |
+| Thu, 15 Jan 2026 03:16:57 GMT | Inside LinkedIn’s Latest Phishing Campaign: How Comment-Based Impersonation and URL Shortening Are… | Deven Chhajed | [Read More](https://medium.com/p/6e2592a570be) |
+| Thu, 15 Jan 2026 03:10:52 GMT | Why Your Personal Email is a Security Risk (And How to Fix It) | Md Bayezid Bostami | [Read More](https://medium.com/p/a2c190605ea7) |
+| Thu, 15 Jan 2026 02:58:04 GMT | Reducing CVEs with Docker Hardening Image (DHI): A Best Practice for Secure Containersintro | Khun Kasidej | [Read More](https://medium.com/p/c5317b5e2986) |
+| Thu, 15 Jan 2026 02:55:55 GMT | Vibe Coding Is Breaking Your App | Sonu Yadav | [Read More](https://medium.com/p/1d1448728183) |
+| Thu, 15 Jan 2026 02:53:51 GMT | Mitigating Common Web Vulnerabilities in a Flask CRUD Application: A Security Analysis | Dionisius felysto | [Read More](https://medium.com/p/50a2cb5852fb) |
+| Thu, 15 Jan 2026 02:50:38 GMT | The difference between having a job and looking for a job in 5 simple observations | Lylo Sy Trotta | [Read More](https://medium.com/p/d2cec33858ca) |
+| Thu, 15 Jan 2026 02:42:05 GMT | When Vulnerability Is Turned Into a Product | Caleb Dempsey | [Read More](https://medium.com/p/5cd2f669cfe0) |
+| Thu, 15 Jan 2026 02:38:52 GMT | Sc0rp10n, el grupo hacker menos precavido. | Nescoroco | [Read More](https://medium.com/p/9e81325b1787) |
+| Thu, 15 Jan 2026 02:30:11 GMT | The "OS" War: What OpenAI and Anthropic’s Healthcare Launches Really Mean | MD Sejon Sardar | [Read More](https://medium.com/p/e80795a1b05a) |
+| Thu, 15 Jan 2026 02:21:24 GMT | How To Support AVG Customer Service Number UK | Zuerevalexander | [Read More](https://medium.com/p/974853569929) |
+| Thu, 15 Jan 2026 02:15:16 GMT | How Do I Contact McAfee Support Number UK | Zuerevalexander | [Read More](https://medium.com/p/ef956ac17cc8) |
+| Thu, 15 Jan 2026 02:07:11 GMT | Hashing vs Encoding: Differences, Applications, and Their Critical Role in Cybersecurity | Wnellygrace | [Read More](https://medium.com/p/765ba73f5d36) |
 | Thu, 15 Jan 2026 01:39:11 GMT | TryHackMe: Year of the Rabbit Writeup | cbev | [Read More](https://medium.com/p/5e33bec8e8f6) |
 | Thu, 15 Jan 2026 01:22:51 GMT | The Almanac: From Ancient Star Charts to Today’s Digital World | Richard P. Toister, Ph.D. | [Read More](https://medium.com/p/ab9b6ae5eb9e) |
 | Thu, 15 Jan 2026 01:12:48 GMT | When Love Meets Reality: Why I Stopped Believing in Words | Xiaochen | [Read More](https://medium.com/p/4d7c53655c60) |
@@ -90,26 +113,3 @@ Every morning at 7:15, the same bus stopped at the same corner. | Sakhi Writes |
 | Wed, 14 Jan 2026 18:23:50 GMT | Secure Kubernetes Deployment Guide (Self-Managed) — Part I | SOCFortress | [Read More](https://medium.com/p/a3f205972648) |
 | Wed, 14 Jan 2026 18:19:13 GMT | Why Execution Boundaries Matter More Than AI Guardrails | ziling-failcore | [Read More](https://medium.com/p/99b3c6d52e4f) |
 | Wed, 14 Jan 2026 18:17:37 GMT | Legacy Domains: The Backdoor in Your Signed URL Strategy | Omer Itach | [Read More](https://medium.com/p/598f921d3b85) |
-| Wed, 14 Jan 2026 18:09:55 GMT | Host Header Injection: A Practical Methodology for Security Testing | Israel Aráoz Severiche | [Read More](https://medium.com/p/c5dab8abf2cf) |
-| Wed, 14 Jan 2026 18:08:44 GMT | The Post-Cloud Era: Why 2026 is the Year of “Small Data” and the Zero-Trust Edge | Ali Zafar | [Read More](https://medium.com/p/5f9eb23361ca) |
-| Wed, 14 Jan 2026 18:00:21 GMT | Security Analysis and Program Hardening on a Flask–SQLite CRUD App | Daifullah Noor Azmi | [Read More](https://medium.com/p/88376338fe06) |
-| Wed, 14 Jan 2026 17:56:30 GMT | 25 Most Common Penetration Testing Interview Questions You Need to Know | The Daily Cyber News | [Read More](https://medium.com/p/58535b87ba45) |
-| Wed, 14 Jan 2026 17:53:12 GMT | Vein Biometrics: A New U.S. Patent Strengthens the Security of Sensitive IT Environments | Global ID | [Read More](https://medium.com/p/a999bbf73bd5) |
-| Wed, 14 Jan 2026 17:48:43 GMT | Saudi PDPL: Are You In Scope? What Every C-Level Needs to Know | Sahl - GRC with AI | [Read More](https://medium.com/p/568cda97416c) |
-| Wed, 14 Jan 2026 17:46:49 GMT | Ni8mare: Unmasking the Ghost in the Workflow (CVE-2026–21858) | Mr.MELVIN | [Read More](https://medium.com/p/1d73a49fec78) |
-| Wed, 14 Jan 2026 17:45:00 GMT | Web Application Security Testing: Ensuring Safe Digital Experiences | Practical Logix | [Read More](https://medium.com/p/49e7d499f569) |
-| Wed, 14 Jan 2026 17:44:20 GMT | Website Security Scanning Tools: A Practical Guide to 15 Free and Open-Source Options | Ewan Mak | [Read More](https://medium.com/p/b9f2f93408fe) |
-| Wed, 14 Jan 2026 17:43:35 GMT | Linux Isn’t Just Free Software—It’s Quiet Rebellion | Proditive - Smart Apps . Maximum Productivity | [Read More](https://medium.com/p/7b9f9cb5ddd3) |
-| Wed, 14 Jan 2026 17:42:49 GMT | Bug bite dream. | Narendhar Venkatesan | [Read More](https://medium.com/p/a9799b52e1e0) |
-| Wed, 14 Jan 2026 17:39:54 GMT | The 2026 Guide to landing a tech role | CheddarB0b42 | [Read More](https://medium.com/p/3b5e5d681c39) |
-| Wed, 14 Jan 2026 17:39:32 GMT | ️DC: 7— Complete Walkthrough (Beginner-Friendly) - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/e8462d342044) |
-| Wed, 14 Jan 2026 17:36:31 GMT | Dating.com and AmoLatina: When “Dating” Is Just Paid Virtual Conversation | AKUMAAYORI | [Read More](https://medium.com/p/c3f5d2b5379b) |
-| Wed, 14 Jan 2026 17:36:09 GMT | Why Thinking Like an Attacker Changes Everything in Cybersecurity | Daniel Isaac E | [Read More](https://medium.com/p/3cbcf6061d34) |
-| Wed, 14 Jan 2026 17:34:10 GMT | Behind the EV Charging: Who is a CPO and Why Cybersecurity Matters More Than Ever? | BaudSkidNinja | [Read More](https://medium.com/p/d975cf1ecb6f) |
-| Wed, 14 Jan 2026 17:32:42 GMT | Jailbreak Detection Bypass Using LLDB: No Escape—iOS Jailbreak Detection Challenge | Kyrillos nady | [Read More](https://medium.com/p/881fd8e89ed0) |
-| Wed, 14 Jan 2026 17:30:02 GMT | Post-quantum Readiness for Long-Retention Public Records | Letro | [Read More](https://medium.com/p/da95118efef8) |
-| Wed, 14 Jan 2026 17:27:18 GMT | “You Have 24 Hours”: The Email That Almost Made Me Panic — And What I Learned About Copyright… | Jithin Sanal | [Read More](https://medium.com/p/012f8058c46e) |
-| Wed, 14 Jan 2026 17:24:08 GMT | Security Camera Installation: A Quiet Guardian for Homes and Businesses | Alex Bryn | [Read More](https://medium.com/p/7907907831a3) |
-| Wed, 14 Jan 2026 17:23:13 GMT | Ethical Hacking Course in Trivandrum : A Practical Way Into a High Demand Cyber Security Career | Vazeem Akram | [Read More](https://medium.com/p/39fe025171b0) |
-| Wed, 14 Jan 2026 17:12:31 GMT | New MacSync Malware Variant Bypasses macOS Gatekeeper Using Apple-Signed Disguise | Tech Intel | [Read More](https://medium.com/p/11c4632a37b7) |
-| Wed, 14 Jan 2026 17:10:06 GMT | Vibe Coding Will Kill Your App (Unless You Do This) | DigitalNomad | [Read More](https://medium.com/p/2657a5f62693) |
