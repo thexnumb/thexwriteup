@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 Jan 2026 08:28:20 GMT | A Quiet Look at Luxembourg’s Internet-Facing Footprint | Bob (intx) | [Read More](https://medium.com/p/db316935f6be) |
+| Thu, 15 Jan 2026 08:25:46 GMT | Mastering SQLMap and Ghauri: A Practical Guide to WAF Bypass Techniques | Unknown | [Read More](https://medium.com/p/1aaa9eee9d32) |
+| Thu, 15 Jan 2026 08:25:05 GMT | Hacking Time Itself: UofTCTF 2026 “Guess the Number” Writeup | Nicholas Mullenski | [Read More](https://medium.com/p/7ccd4651e72d) |
+| Thu, 15 Jan 2026 08:24:56 GMT | 30 High-Value Google Dorks for OSINT | Abhay Parashar | [Read More](https://medium.com/p/78f31ec865d8) |
+| Thu, 15 Jan 2026 08:24:19 GMT | Challenges Faced by the Indonesian Army (TNI AD) in the Case Study of Illegal Wildlife Trade in… | Laras Asi | [Read More](https://medium.com/p/071bdb5c6f37) |
+| Thu, 15 Jan 2026 08:24:07 GMT | The recurring identity crisis and old lessons for the AI era | Ivan Shkvarun | [Read More](https://medium.com/p/8477ccb558a8) |
+| Thu, 15 Jan 2026 08:19:51 GMT | Analysis of DWM Information Disclosure Zero-Day Vulnerability (CVE-2026–20805) | NSHC ThreatRecon Team | [Read More](https://medium.com/p/67ff9fb32635) |
+| Thu, 15 Jan 2026 08:16:25 GMT | Zero Trust Security for Distributed Tech Teams: A Comprehensive 2026 Guide | 23 Yab | [Read More](https://medium.com/p/ed3921b0841d) |
+| Thu, 15 Jan 2026 08:14:47 GMT | Hacker101 CTF Write-up: Micro-CMS v1 | tijulkabir | [Read More](https://medium.com/p/ebcd8179f1d6) |
+| Thu, 15 Jan 2026 08:13:54 GMT | What Is a Video File Format? Explained in Simple Words | Subhojit Mondal | [Read More](https://medium.com/p/99d4cc7cf522) |
+| Thu, 15 Jan 2026 08:01:07 GMT | Residential Security Services in Dubai — Protecting Homes with Magnum Security | Magnum Security | [Read More](https://medium.com/p/6ad0c5e69ad8) |
+| Thu, 15 Jan 2026 07:56:21 GMT | Why Password Length Limits Are a Security Requirement, Not a UX Choice | Abhishek Kumar | [Read More](https://medium.com/p/1dd1489fd6b0) |
+| Thu, 15 Jan 2026 07:51:54 GMT | I Didn’t Bypass Security — I Followed the Workflow Too Literally | Iski | [Read More](https://medium.com/p/db6097198a4d) |
+| Thu, 15 Jan 2026 07:46:53 GMT | Stealing Admin Access With a Single Extra JSON Field | OopsSec Store | [Read More](https://medium.com/p/cc5c726fb084) |
 | Thu, 15 Jan 2026 07:42:36 GMT | 5 Critical Fixes for Trend Micro Apex Central CVE-2025–69258 | Pentest_Testing_Corp | [Read More](https://medium.com/p/f109372a4c7e) |
 | Thu, 15 Jan 2026 07:36:42 GMT | VulnLab: SQL Injection | CyberSam | [Read More](https://medium.com/p/288db94a644c) |
 | Thu, 15 Jan 2026 07:32:11 GMT | Why Critical Systems Fail and How Monitoring Teams Stop It Before It Happens | Gavin Ellis | [Read More](https://medium.com/p/1eaf8e2d0eef) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 14 Jan 2026 23:31:50 GMT | Security Analysis and Hardening of a Python Web Application | William Azaria Simanjuntak | [Read More](https://medium.com/p/89f0521d6e83) |
 | Wed, 14 Jan 2026 23:30:20 GMT | Stop Letting Slow Computers Drain Your Time And Budget | Geoffrey Wenger | [Read More](https://medium.com/p/f7b048df410b) |
 | Wed, 14 Jan 2026 23:21:09 GMT | HTB Labs — Tier 1 — “Crocodile” Machine Walkthrough - By: CyberAlp0 | Mohamed Maher | [Read More](https://medium.com/p/a4954ef382f2) |
-| Wed, 14 Jan 2026 23:06:01 GMT | TINY THINGS WITH SHARP EDGES | Ink & Ember ️ | [Read More](https://medium.com/p/381553837cfa) |
-| Wed, 14 Jan 2026 23:03:15 GMT | FAANG Is a Career Trap, Not a Dream Job | Logic Over Latte | [Read More](https://medium.com/p/65e470b22b35) |
-| Wed, 14 Jan 2026 23:01:22 GMT | Password Checker | Aaronashley | [Read More](https://medium.com/p/9bd119509928) |
-| Wed, 14 Jan 2026 23:01:20 GMT | Does Compliance Really Make your Organization Safer? | Citiz3n | [Read More](https://medium.com/p/f1a41fbb7625) |
-| Wed, 14 Jan 2026 22:45:12 GMT | How an LLM is making my bulletproof casual game | Benjamin Jordan | [Read More](https://medium.com/p/e986c4844c1f) |
-| Wed, 14 Jan 2026 22:44:52 GMT | LetsTechTogether: Free Tech Support Drop-In | letstechtogether | [Read More](https://medium.com/p/f27ede20440c) |
-| Wed, 14 Jan 2026 22:42:35 GMT | Part 1. ​If Tomorrow There Is Still Us | Kata.Q | [Read More](https://medium.com/p/5373112ae69d) |
-| Wed, 14 Jan 2026 22:32:04 GMT | 30 Days of Red Team: Day 16 — Windows Privilege Escalation | Maxwell Cross | [Read More](https://medium.com/p/9a2ed6f64791) |
-| Wed, 14 Jan 2026 22:31:28 GMT | Forays into Threat Intelligence — Part Deux — Lazarus, here we come! | Vishwa T | [Read More](https://medium.com/p/49e1361729f4) |
-| Wed, 14 Jan 2026 22:21:19 GMT | Fortress Protocol: Building a Secure, Private, and Inclusive Digital Future | Fortress Protocol | [Read More](https://medium.com/p/9bc19584ea68) |
-| Wed, 14 Jan 2026 22:17:15 GMT | GSEC Yolculuğu #2: Kablolardan Sinyallere — L1 ve L2 Dünyası | Ata Erdemir | [Read More](https://medium.com/p/86085fb2b28a) |
-| Wed, 14 Jan 2026 21:41:19 GMT | DNS Log Analysis using Splunk | Jason Hoskins Jr. | [Read More](https://medium.com/p/cd5a18f47aca) |
-| Wed, 14 Jan 2026 21:38:51 GMT | How Security Teams Can Use Shodan.io to See What Attackers See | Mohsin Khan | [Read More](https://medium.com/p/8f06d5b5d424) |
-| Wed, 14 Jan 2026 21:37:20 GMT | I Watched My Boyfriend Get Scammed While Job Hunting. Then I Built a Way to Fight Back. | Aubrey | [Read More](https://medium.com/p/cb0ac23456af) |
