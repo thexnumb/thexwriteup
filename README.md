@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 Jan 2026 05:44:13 GMT | Enterprise IT Transformation with Cloud, Containers, Virtualization, Security, and Data Protection… | F9 Infotech | [Read More](https://medium.com/p/0c15af8647e7) |
+| Thu, 15 Jan 2026 05:43:27 GMT | Blockchain Software Development in 2026: The Infrastructure Behind a Trustless Digital Economy | Devarshi Acharya | [Read More](https://medium.com/p/58a75948daf5) |
+| Thu, 15 Jan 2026 05:35:01 GMT | The 2026 E-commerce Security Framework: AI-Augmented Checklist for Developers | Mohammad Abir Abbas | [Read More](https://medium.com/p/57943c412e95) |
+| Thu, 15 Jan 2026 05:25:32 GMT | Why I stopped decoding JWTs online (and built my own tool) | Maxim Dmitriychuk | [Read More](https://medium.com/p/8972318157e8) |
 | Thu, 15 Jan 2026 05:21:46 GMT | Security Services in Baytown | Security Houston | [Read More](https://medium.com/p/4c0cbfb7097c) |
+| Thu, 15 Jan 2026 05:20:47 GMT | Data Management Solutions - Data Management Solutions Fort Myers & Data Management Solutions… | Gainside | [Read More](https://medium.com/p/dd18a82d43cc) |
 | Thu, 15 Jan 2026 05:10:26 GMT | Steganography & Digital Watermarking: How Attackers Hide Data in Plain Sight | Daniel Isaac E | [Read More](https://medium.com/p/6c437df312a6) |
 | Thu, 15 Jan 2026 05:10:19 GMT | What Is Cyber Security? A Simple Guide for Beginners. | Cyberwithswe | [Read More](https://medium.com/p/e623bad4d399) |
 | Thu, 15 Jan 2026 05:10:08 GMT | Hunting Brute-Force VPN Access with Splunk | Nima Bargestan | [Read More](https://medium.com/p/6e5726111306) |
@@ -108,8 +113,3 @@ Every morning at 7:15, the same bus stopped at the same corner. | Sakhi Writes |
 | Wed, 14 Jan 2026 19:46:57 GMT | Musk’s AI tool Grok will be integrated into Pentagon networks, pete hegseth | Defence Affairs & Analysis By (DAM) | [Read More](https://medium.com/p/40a3e67c2341) |
 | Wed, 14 Jan 2026 19:42:20 GMT | UK OSINT CTF Walkthrough: Tracing “Asset Echo” — A Full Beginner‑Friendly Investigation | Azutech | [Read More](https://medium.com/p/63bf3eb084ba) |
 | Wed, 14 Jan 2026 19:42:19 GMT | Understanding Network Ports and Protocols | Aliyan Ali | [Read More](https://medium.com/p/2d2f5d8bdd2d) |
-| Wed, 14 Jan 2026 19:39:48 GMT | Digital Forensic Investigation: Evidence Integrity Verification and Timeline Reconstruction of a… | Daifullah Noor Azmi | [Read More](https://medium.com/p/dbbc4f437fec) |
-| Wed, 14 Jan 2026 19:25:34 GMT | Pass SC-900 with These 100% Verified Exam Questions | Kiran Krishnakumar | [Read More](https://medium.com/p/efe630d76cbd) |
-| Wed, 14 Jan 2026 19:25:26 GMT | From Spear Phishing to Persistence: An APT Attack Analysis Using MITRE ATT&CK | Hacer Dalkiran | [Read More](https://medium.com/p/d14d1acffdfe) |
-| Wed, 14 Jan 2026 19:24:42 GMT | Why Choosing the Right SAP Service Provider Accelerates Enterprise Growth | 2isolutions Inc. USA | [Read More](https://medium.com/p/012c17ab64f9) |
-| Wed, 14 Jan 2026 19:21:40 GMT | From 8GB Flash Drives to 5G Cloud Sovereignty: The 2026 Tech Landscape. | pulsebangladesh | [Read More](https://medium.com/p/5a4515a83e64) |
