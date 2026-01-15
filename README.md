@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 Jan 2026 23:30:40 GMT | Your Business Runs on IT… Even When You’re Not Thinking About It | Janeel Abrahams | [Read More](https://medium.com/p/4d13742a3d5a) |
+| Thu, 15 Jan 2026 23:17:14 GMT | Tired of Playing IT Guy When You Should Be Running Your Business? | Janeel Abrahams | [Read More](https://medium.com/p/692e58a5160f) |
 | Thu, 15 Jan 2026 23:04:44 GMT | Custom DLL Loading Technique in Windows | S12 - 0x12Dark Development | [Read More](https://medium.com/p/c84ba0496a6f) |
 | Thu, 15 Jan 2026 23:03:22 GMT | The Identity Apocalypse: How Deepfakes Redefined Truth in 2026 | Mahnoor | [Read More](https://medium.com/p/8f0bfe97f207) |
 | Thu, 15 Jan 2026 22:50:59 GMT | Browse Faster, Safer, Smarter with NordVPN | Genelia | [Read More](https://medium.com/p/8767b3625ae2) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 Jan 2026 16:00:21 GMT | FinOps Explained for Business Leaders: A Practical Guide to Controlling Cloud Costs in 2026 | IT_Engineer | [Read More](https://medium.com/p/0cc76d49e9d1) |
 | Thu, 15 Jan 2026 15:59:39 GMT | China’s Cloud Ninja that thinks faster than your EDR | Sudarshan | [Read More](https://medium.com/p/ec7bc63b08ac) |
 | Thu, 15 Jan 2026 15:57:12 GMT | Beyond Fail2ban: How CrowdSec Revolutionizes VM Server Security with Collective Intelligence | Sriranjan Kapilan | [Read More](https://medium.com/p/1a9f5fd25def) |
-| Thu, 15 Jan 2026 15:55:34 GMT | From Permanence to Presence: Why Messaging Is Splitting Between WhatsApp and Snapchat | Sidhantchaurasiya | [Read More](https://medium.com/p/6af60a1daa55) |
-| Thu, 15 Jan 2026 15:54:13 GMT | Tool Vendors vs Control Vendors: Two Very Different Threat Models | Muhammad Ali Khan | [Read More](https://medium.com/p/126b206e0235) |
