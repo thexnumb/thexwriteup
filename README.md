@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 Jan 2026 16:41:26 GMT | Are you using the right browser? | Joseph Peter | [Read More](https://medium.com/p/4a2c9a4c6c19) |
+| Thu, 15 Jan 2026 16:41:23 GMT | Web Fuzzing Assessment [HTB] | db1M | [Read More](https://medium.com/p/52ff0d701537) |
+| Thu, 15 Jan 2026 16:29:07 GMT | OpenAlt 2025 očima KISK studentky | Kateřina Holíková | [Read More](https://medium.com/p/fa45bdcbc154) |
+| Thu, 15 Jan 2026 16:25:28 GMT | OWASP Top 10: Learn It the Hard Way-A01: Broken Access Control | Amey Rugge | [Read More](https://medium.com/p/37147c9fe8c0) |
+| Thu, 15 Jan 2026 16:22:18 GMT | Fuzzing 101: Crashing Xpdf & Analyzing CVE-2019–13288 | Lior Ben Moha | [Read More](https://medium.com/p/e89d59164db9) |
+| Thu, 15 Jan 2026 16:11:54 GMT | Why Most Cyber Breaches Go Unnoticed for So Long | Digital Defense | [Read More](https://medium.com/p/f6e2af1040ee) |
+| Thu, 15 Jan 2026 16:07:18 GMT | Hacking the Hardware Gap: Performance on a Poverty Budget | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/73a94df9000b) |
+| Thu, 15 Jan 2026 16:00:21 GMT | FinOps Explained for Business Leaders: A Practical Guide to Controlling Cloud Costs in 2026 | IT_Engineer | [Read More](https://medium.com/p/0cc76d49e9d1) |
+| Thu, 15 Jan 2026 15:59:39 GMT | China’s Cloud Ninja that thinks faster than your EDR | Sudarshan | [Read More](https://medium.com/p/ec7bc63b08ac) |
+| Thu, 15 Jan 2026 15:57:12 GMT | Beyond Fail2ban: How CrowdSec Revolutionizes VM Server Security with Collective Intelligence | Sriranjan Kapilan | [Read More](https://medium.com/p/1a9f5fd25def) |
+| Thu, 15 Jan 2026 15:55:34 GMT | From Permanence to Presence: Why Messaging Is Splitting Between WhatsApp and Snapchat | Sidhantchaurasiya | [Read More](https://medium.com/p/6af60a1daa55) |
+| Thu, 15 Jan 2026 15:54:13 GMT | Tool Vendors vs Control Vendors: Two Very Different Threat Models | Muhammad Ali Khan | [Read More](https://medium.com/p/126b206e0235) |
+| Thu, 15 Jan 2026 15:53:51 GMT | The Password Conspiracy: Are We Truly in Control of Our Digital Keys? | Tria Tempora | [Read More](https://medium.com/p/d00496c166c7) |
+| Thu, 15 Jan 2026 15:52:12 GMT | 3 Ways You Are Accidentally Doxxing Yourself Every Day. | Krishna M S | [Read More](https://medium.com/p/c8c8723dc57c) |
+| Thu, 15 Jan 2026 15:52:01 GMT | IP Address Classes Explained: What’s Changing with Wi-Fi Standards, and Do Business & Personal IPs… | Paradise technologies Inc | [Read More](https://medium.com/p/5329ef5c8cef) |
 | Thu, 15 Jan 2026 15:50:50 GMT | The Night the Server Didn’t Panic | George William Amalan | [Read More](https://medium.com/p/187e979a7aa4) |
 | Thu, 15 Jan 2026 15:50:35 GMT | Stop Training Your Employees… It Isn’t Working | Aaron Strong | [Read More](https://medium.com/p/88f869c47380) |
 | Thu, 15 Jan 2026 15:46:59 GMT | Iran’s Internet Went to Zero on Jan 8 — Will Account Takeovers Spike in the Next 2–3 Weeks? | Wes Young | [Read More](https://medium.com/p/6afbf41261fd) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 Jan 2026 11:02:56 GMT | Top 5 Wallet Recovery Methods People Actually Used | Modexa | [Read More](https://medium.com/p/1757f1d52e39) |
 | Thu, 15 Jan 2026 11:02:56 GMT | Welcome to The PAC — The PAC #001 | Faith Obafemi | [Read More](https://medium.com/p/9eb8c4dccb99) |
 | Thu, 15 Jan 2026 11:02:56 GMT | Signal Jamming: The hack that is illegal in most countries | T-Jay Bautista | [Read More](https://medium.com/p/b132a1194e12) |
-| Thu, 15 Jan 2026 11:01:09 GMT | Loginal — A Lightweight, AI-Friendly SOC for Threat Hunters | Alareqi | [Read More](https://medium.com/p/422a91925f9d) |
-| Thu, 15 Jan 2026 10:59:00 GMT | I Tested How Exposed My Online Life Really Was | O. J. Okpabi | [Read More](https://medium.com/p/9aa47216a67b) |
-| Thu, 15 Jan 2026 10:57:42 GMT | Cybersecurity Courses in India: Eligibility and Essential Skills You Need | Futurism Xpro | [Read More](https://medium.com/p/9502521229d4) |
-| Thu, 15 Jan 2026 10:55:48 GMT | SQL Injection UNION Attack: Retrieving Multiple Values in a Single Column (Portswigger Lab) | Rachael Muga | [Read More](https://medium.com/p/21ae92c51e7c) |
-| Thu, 15 Jan 2026 10:54:42 GMT | The Privacy Paradox: Why We Fear the Surveillance We Already Accept | 0NE - C L A V I | [Read More](https://medium.com/p/683b9c957eb3) |
-| Thu, 15 Jan 2026 10:51:54 GMT | Deepfake Scams in Politics & Finance: A Cybersecurity Nightmare | Geeta University | [Read More](https://medium.com/p/d6285b213cd6) |
-| Thu, 15 Jan 2026 10:51:00 GMT | Networking Concepts You Must Know to Learn Cybersecurity | Shalu | [Read More](https://medium.com/p/a6c1a8d07330) |
-| Thu, 15 Jan 2026 10:48:31 GMT | Modern Exposure Management for Today’s Expanding Digital Environments | Vijilan | [Read More](https://medium.com/p/bf1bcf6c5379) |
-| Thu, 15 Jan 2026 10:43:10 GMT | Breaching the UAE: Real-World Penetration Testing Against Modern Hackers | Clouds Dubai | [Read More](https://medium.com/p/fa2996497b12) |
-| Thu, 15 Jan 2026 10:41:33 GMT | CES 2026 - A Full Independent System in a Thumb-Sized Device | TrustKernel | [Read More](https://medium.com/p/120bb60969f3) |
-| Thu, 15 Jan 2026 10:32:47 GMT | Study in Australia — World-Class International Universities Await | royalinternational | [Read More](https://medium.com/p/f2d2ccf4abc4) |
-| Thu, 15 Jan 2026 10:24:03 GMT | Why Python Is the Best Way to Start Ethical Hacking (Especially If You’re a Beginner) | Vignesh Selvaraj | [Read More](https://medium.com/p/46b5cb54658c) |
-| Thu, 15 Jan 2026 10:23:31 GMT | Professional Security Guard Services for Residential & Commercial Needs | Secure 24 Seven | [Read More](https://medium.com/p/4771bad6585e) |
-| Thu, 15 Jan 2026 10:22:53 GMT | Top 10 AI Cyber Security Tools to Protect Your Organisation in 2026 | cyber security Updates | [Read More](https://medium.com/p/cd516d48b26c) |
-| Thu, 15 Jan 2026 10:13:15 GMT | Search HTB: A Complete Walkthrough | Legenddhruv | [Read More](https://medium.com/p/fe81ba31bf5a) |
