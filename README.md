@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 Jan 2026 14:48:28 GMT | New LummaStealer With 9 Payloads Exposed !!!! | Aufa Rifqi | [Read More](https://medium.com/p/ee9c6e58fff4) |
+| Thu, 15 Jan 2026 14:45:52 GMT | XSS Attacks: A Practical Methodology for Security Testing | Israel Aráoz Severiche | [Read More](https://medium.com/p/6bff4d0fae1e) |
+| Thu, 15 Jan 2026 14:45:10 GMT | The Complete (Failed) Guide to ASP.NET ViewState Exploitation | Dipesh Paul | [Read More](https://medium.com/p/1a582471fc59) |
+| Thu, 15 Jan 2026 14:40:10 GMT | Fortinet ออกอัปเดตแก้ไขช่องโหว่ในผลิตภัณฑ์ FortiSIEM และ FortiFone | ThaiCERT By NCSA | [Read More](https://medium.com/p/cebdca3ad22e) |
+| Thu, 15 Jan 2026 14:40:05 GMT | “Gaining Access: Understanding System and Network Access Processes After Service Enumeration” | Habibi | [Read More](https://medium.com/p/a4f2df41468a) |
+| Thu, 15 Jan 2026 14:33:04 GMT | The Best Encryption Algorithm in 2026: How Secure Messaging Apps Protect Your Data | WibeIT Application | [Read More](https://medium.com/p/926a346e7920) |
+| Thu, 15 Jan 2026 14:31:57 GMT | Darknet Forums vs Marketplaces: How They Really Differ | Tor BBB | [Read More](https://medium.com/p/d1b60af120cb) |
+| Thu, 15 Jan 2026 14:31:15 GMT | Top Penetration Testing Company in Canada: Safeguarding Your Business Against Real Cyber Threats | Plutosec Cyber Security | [Read More](https://medium.com/p/ac2ee3f9d6fc) |
+| Thu, 15 Jan 2026 14:26:35 GMT | Linux PrivEsc: Readable /etc/shadow | Emre ASLAN | [Read More](https://medium.com/p/809c2beea13f) |
 | Thu, 15 Jan 2026 14:09:01 GMT | SENTINEX v1.0.0 — A Stealth-Focused Windows Reconnaissance Framework | Piyusha Akash | [Read More](https://medium.com/p/98f2a7afd9c1) |
 | Thu, 15 Jan 2026 13:59:17 GMT | Hartley: Decimal Logarithmic Unit — Case Study | Journal of Landing Across Linguistic Foreground | [Read More](https://medium.com/p/b90c2e11be64) |
 | Thu, 15 Jan 2026 13:56:43 GMT | Short-Link Chaining as a Traceability Failure | 3gi3 | [Read More](https://medium.com/p/af773a863d42) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 Social media is no longer just a… | Ankit rai | [Read More](https://medium.com/p/1401cf1bdc6e) |
 | Thu, 15 Jan 2026 09:02:52 GMT | Your SOC Is Missing This: How Stealer Logs Bypass Your Breach Monitoring Tools | Alexandre Vandamme | [Read More](https://medium.com/p/d4e3fdc8f43d) |
 | Thu, 15 Jan 2026 09:02:42 GMT | What problems does Saferloop solve for parents worried about online safety? | Smith Williams | [Read More](https://medium.com/p/fe5d1543daae) |
-| Thu, 15 Jan 2026 08:56:27 GMT | Bed Bugs? No Chance | Authorvoicehub | [Read More](https://medium.com/p/09e5d6ea0fd4) |
-| Thu, 15 Jan 2026 08:55:09 GMT | How I Bought a $1400 Jacket for Free Using a Business Logic Flaw | Aashif | [Read More](https://medium.com/p/3b60b31252d0) |
-| Thu, 15 Jan 2026 08:51:11 GMT | Why Your Password Isn’t Enough (And What Actually Works) | Mercy Ajayi | [Read More](https://medium.com/p/357f4d643445) |
-| Thu, 15 Jan 2026 08:45:52 GMT | Pastebin: A Simple Tool Turned Security Blind Spot | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/2cbd0f6b9cf3) |
-| Thu, 15 Jan 2026 08:28:20 GMT | A Quiet Look at Luxembourg’s Internet-Facing Footprint | Bob (intx) | [Read More](https://medium.com/p/db316935f6be) |
-| Thu, 15 Jan 2026 08:25:46 GMT | Mastering SQLMap and Ghauri: A Practical Guide to WAF Bypass Techniques | Unknown | [Read More](https://medium.com/p/1aaa9eee9d32) |
-| Thu, 15 Jan 2026 08:25:05 GMT | Hacking Time Itself: UofTCTF 2026 “Guess the Number” Writeup | Nicholas Mullenski | [Read More](https://medium.com/p/7ccd4651e72d) |
-| Thu, 15 Jan 2026 08:24:56 GMT | 30 High-Value Google Dorks for OSINT | Abhay Parashar | [Read More](https://medium.com/p/78f31ec865d8) |
-| Thu, 15 Jan 2026 08:24:19 GMT | Challenges Faced by the Indonesian Army (TNI AD) in the Case Study of Illegal Wildlife Trade in… | Laras Asi | [Read More](https://medium.com/p/071bdb5c6f37) |
