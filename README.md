@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 Jan 2026 23:04:44 GMT | Custom DLL Loading Technique in Windows | S12 - 0x12Dark Development | [Read More](https://medium.com/p/c84ba0496a6f) |
+| Thu, 15 Jan 2026 23:03:22 GMT | The Identity Apocalypse: How Deepfakes Redefined Truth in 2026 | Mahnoor | [Read More](https://medium.com/p/8f0bfe97f207) |
+| Thu, 15 Jan 2026 22:50:59 GMT | Browse Faster, Safer, Smarter with NordVPN | Genelia | [Read More](https://medium.com/p/8767b3625ae2) |
+| Thu, 15 Jan 2026 22:47:29 GMT | Out the Back Window | Barbara Carter | [Read More](https://medium.com/p/437c643d70dc) |
 | Thu, 15 Jan 2026 22:43:04 GMT | AI Agents Are Becoming Privilege Escalation Paths | Cyber-AppSec | [Read More](https://medium.com/p/4f072e3741b4) |
 | Thu, 15 Jan 2026 22:41:09 GMT | Eurail Investigates Security Incident Involving Potential Exfiltration of Customer Data | RealSec.io | [Read More](https://medium.com/p/6f128482a9e8) |
 | Thu, 15 Jan 2026 22:33:34 GMT | INNER SADNESS #4 | Isaac | [Read More](https://medium.com/p/3f7036c2a59b) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 Jan 2026 15:57:12 GMT | Beyond Fail2ban: How CrowdSec Revolutionizes VM Server Security with Collective Intelligence | Sriranjan Kapilan | [Read More](https://medium.com/p/1a9f5fd25def) |
 | Thu, 15 Jan 2026 15:55:34 GMT | From Permanence to Presence: Why Messaging Is Splitting Between WhatsApp and Snapchat | Sidhantchaurasiya | [Read More](https://medium.com/p/6af60a1daa55) |
 | Thu, 15 Jan 2026 15:54:13 GMT | Tool Vendors vs Control Vendors: Two Very Different Threat Models | Muhammad Ali Khan | [Read More](https://medium.com/p/126b206e0235) |
-| Thu, 15 Jan 2026 15:53:51 GMT | The Password Conspiracy: Are We Truly in Control of Our Digital Keys? | Tria Tempora | [Read More](https://medium.com/p/d00496c166c7) |
-| Thu, 15 Jan 2026 15:52:12 GMT | 3 Ways You Are Accidentally Doxxing Yourself Every Day. | Krishna M S | [Read More](https://medium.com/p/c8c8723dc57c) |
-| Thu, 15 Jan 2026 15:52:01 GMT | IP Address Classes Explained: What’s Changing with Wi-Fi Standards, and Do Business & Personal IPs… | Paradise technologies Inc | [Read More](https://medium.com/p/5329ef5c8cef) |
-| Thu, 15 Jan 2026 15:50:50 GMT | The Night the Server Didn’t Panic | George William Amalan | [Read More](https://medium.com/p/187e979a7aa4) |
