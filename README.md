@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 Jan 2026 17:25:38 GMT | SOC Level 1 - Junior Security Analyst Intro - Walkthrough - by | Mayank Shukla | [Read More](https://medium.com/p/6504524fda2a) |
+| Thu, 15 Jan 2026 17:21:33 GMT | Your Google Account Is the Master Key to Your Digital Life: Here’s How to Protect It | Dr. Ernesto Lee | [Read More](https://medium.com/p/53d5924bc819) |
+| Thu, 15 Jan 2026 17:18:40 GMT | How to Program a Garage Door Keypad: Step-by-Step Guide | Up & Down Garage Door Services | [Read More](https://medium.com/p/f14fe52083c6) |
+| Thu, 15 Jan 2026 17:12:34 GMT | Sunset: Nightfall Vulnhub Walkthrough | Ankit | [Read More](https://medium.com/p/690724ec99fd) |
+| Thu, 15 Jan 2026 17:11:41 GMT | Front-End Security Risks and Defense Approaches in Web Applications | Huseyn Farid | [Read More](https://medium.com/p/45efc7743cf7) |
+| Thu, 15 Jan 2026 17:08:19 GMT | How a Simple Misconfiguration in the Invitation Link Led Me to Full Account Takeover | sudo | [Read More](https://medium.com/p/e56d84e9e9f1) |
+| Thu, 15 Jan 2026 17:04:36 GMT | I Evaluated Enterprise Auth for a SaaS App and Here’s My Honest Take on WorkOS AuthKit + Radar | Andrew Baisden | [Read More](https://medium.com/p/57405d0ecd1e) |
+| Thu, 15 Jan 2026 17:03:58 GMT | The Complete Guide to Becoming a Cybersecurity Writer (Updated for 2026) | Taimur Ijlal | [Read More](https://medium.com/p/eae0d767b068) |
+| Thu, 15 Jan 2026 16:59:19 GMT | When BIOS unlock is the only real fix (and why software won’t help) | Andrew | [Read More](https://medium.com/p/86b78f4ffc01) |
+| Thu, 15 Jan 2026 16:54:08 GMT | White Hat vs Black Hat vs Grey Hat! | Shahzaib | [Read More](https://medium.com/p/abb2b3d3bfae) |
 | Thu, 15 Jan 2026 16:41:26 GMT | Are you using the right browser? | Joseph Peter | [Read More](https://medium.com/p/4a2c9a4c6c19) |
 | Thu, 15 Jan 2026 16:41:23 GMT | Web Fuzzing Assessment [HTB] | db1M | [Read More](https://medium.com/p/52ff0d701537) |
+| Thu, 15 Jan 2026 16:40:14 GMT | PicoCTF: Super SSH | Levi Spellmeyer | [Read More](https://medium.com/p/17a1cfe0c118) |
 | Thu, 15 Jan 2026 16:29:07 GMT | OpenAlt 2025 očima KISK studentky | Kateřina Holíková | [Read More](https://medium.com/p/fa45bdcbc154) |
 | Thu, 15 Jan 2026 16:25:28 GMT | OWASP Top 10: Learn It the Hard Way-A01: Broken Access Control | Amey Rugge | [Read More](https://medium.com/p/37147c9fe8c0) |
 | Thu, 15 Jan 2026 16:22:18 GMT | Fuzzing 101: Crashing Xpdf & Analyzing CVE-2019–13288 | Lior Ben Moha | [Read More](https://medium.com/p/e89d59164db9) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 Jan 2026 11:57:12 GMT | How I Found a P2 Broken Access Control Bug via a Tokenized URL | Sivasankar Das | [Read More](https://medium.com/p/f4d48e26a022) |
 | Thu, 15 Jan 2026 11:52:41 GMT | A tool that integrates SCCM nodes into Bloodhound | Adeel Bin Hassan | [Read More](https://medium.com/p/9b1213017aae) |
 | Thu, 15 Jan 2026 11:50:56 GMT | CVE-2025-64155: Fortinet FortiSIEM Argument Injection to Remote Code Execution | Adeel Bin Hassan | [Read More](https://medium.com/p/b086e264775d) |
-| Thu, 15 Jan 2026 11:46:13 GMT | Responding to Network Security Incidents: A Beginner-Friendly Guide | Nisa | [Read More](https://medium.com/p/eb78fe817cf0) |
-| Thu, 15 Jan 2026 11:35:51 GMT | The Hidden Cost of a Cyber Attack: What Leaders Often Realize Too Late | Taiyab Lokhandwala | [Read More](https://medium.com/p/5ae3de4b1405) |
-| Thu, 15 Jan 2026 11:24:45 GMT | Kiro AI Agent: The Next Evolution in Autonomous Software Development | Emad Mohamed | [Read More](https://medium.com/p/2876272286d6) |
-| Thu, 15 Jan 2026 11:21:43 GMT | How to Choose the Best Network Scanner App for Android | Sameer Khandelwal | [Read More](https://medium.com/p/ed7377c2c51b) |
-| Thu, 15 Jan 2026 11:18:20 GMT | Cybersecurity Certifications with Transfotech Academy Online Courses in 2026 | Transfotech Academy | [Read More](https://medium.com/p/d3851745a7fa) |
-| Thu, 15 Jan 2026 11:10:24 GMT | flAWS.cloud Level 1 & 2: Hacking Misconfigured S3 Buckets | Samyakt Jain | [Read More](https://medium.com/p/7f4350887215) |
-| Thu, 15 Jan 2026 11:08:26 GMT | How to Stay Safe Using Online Banking Security Methods | Khalidhasnainareeb | [Read More](https://medium.com/p/94c5986ede26) |
-| Thu, 15 Jan 2026 11:03:00 GMT | ANY.RUN & Tines: Scale SOC and Meet SLAs with Powerful Automation | ANY.RUN | [Read More](https://medium.com/p/9be0a55795c6) |
-| Thu, 15 Jan 2026 11:02:56 GMT | Top 5 Wallet Recovery Methods People Actually Used | Modexa | [Read More](https://medium.com/p/1757f1d52e39) |
-| Thu, 15 Jan 2026 11:02:56 GMT | Welcome to The PAC — The PAC #001 | Faith Obafemi | [Read More](https://medium.com/p/9eb8c4dccb99) |
-| Thu, 15 Jan 2026 11:02:56 GMT | Signal Jamming: The hack that is illegal in most countries | T-Jay Bautista | [Read More](https://medium.com/p/b132a1194e12) |
