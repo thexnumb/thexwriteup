@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 Jan 2026 12:39:48 GMT | Kth Largest Element in a Stream — Why a Heap Beats Sorting Every Time | Error | [Read More](https://medium.com/p/3854471c59c8) |
+| Thu, 15 Jan 2026 12:32:58 GMT | You Don’t Get Hacked First — You Get Comfortable | Alolika Ghosh | [Read More](https://medium.com/p/222a024a29c3) |
+| Thu, 15 Jan 2026 12:32:31 GMT | Why PortPDF is Different from Other PDF Tools | Anuj Thakur (India) | [Read More](https://medium.com/p/d50f03b0bc1a) |
+| Thu, 15 Jan 2026 12:31:42 GMT | Audio Conference Bridge in Vietnam | Ashutosh Mallik | [Read More](https://medium.com/p/1a494b565831) |
+| Thu, 15 Jan 2026 12:31:09 GMT | Risk Scoring With AI: How SMEs Can Build Lightweight Cyber-Risk Engines Without Enterprise Budgets. | Michael Adedeji | [Read More](https://medium.com/p/6ac180c291fb) |
+| Thu, 15 Jan 2026 12:30:44 GMT | Documentação Ritual — EVM ++ | Thomas Fiorio | [Read More](https://medium.com/p/1444e7cd18d2) |
+| Thu, 15 Jan 2026 12:30:01 GMT | THE DARK SIDE OF SOCIAL MEDIA ALGORITHM | Akinkunmi Seyi | [Read More](https://medium.com/p/f9b552a73d78) |
+| Thu, 15 Jan 2026 12:24:45 GMT | A Practical Guide to SOC Compliance for Global Service Organizations | Eventus Security Private Limited | [Read More](https://medium.com/p/b4b108329947) |
+| Thu, 15 Jan 2026 12:24:23 GMT | Making the Impossible Possible: How I Made the One-Time Pad Practical for the Internet Age | Wasif Faisal | [Read More](https://medium.com/p/b9a95355b7be) |
+| Thu, 15 Jan 2026 12:17:56 GMT | When a Shellcode Alert Is Just Windows Being Windows | Sarosh | [Read More](https://medium.com/p/f42e3964d49e) |
+| Thu, 15 Jan 2026 12:11:10 GMT | GenAI can fix the IT productivity paradox | Ascendion | [Read More](https://medium.com/p/8f2b54a076ab) |
+| Thu, 15 Jan 2026 12:08:25 GMT | Crypto Trading Platforms With Best Security Infrastructure | Thomas Gunner | [Read More](https://medium.com/p/c6b01a2d4d3b) |
+| Thu, 15 Jan 2026 12:02:48 GMT | Understanding CWE-565: Reliance on Cookies without Validation and Integrity Checking | Walter Moar | [Read More](https://medium.com/p/eeeabf7195ff) |
+| Thu, 15 Jan 2026 12:01:47 GMT | So You Want to Be a "Blue Team" Analyst? Start Here | Adeleye Joshua | [Read More](https://medium.com/p/107c30294e87) |
+| Thu, 15 Jan 2026 12:00:50 GMT | flA.cloud Level 1 & 2: Hacking Misconfigured S3 Buckets | Samyakt Jain | [Read More](https://medium.com/p/bce22d171279) |
+| Thu, 15 Jan 2026 11:57:12 GMT | How I Found a P2 Broken Access Control Bug via a Tokenized URL | Sivasankar Das | [Read More](https://medium.com/p/f4d48e26a022) |
+| Thu, 15 Jan 2026 11:52:41 GMT | A tool that integrates SCCM nodes into Bloodhound | Adeel Bin Hassan | [Read More](https://medium.com/p/9b1213017aae) |
+| Thu, 15 Jan 2026 11:50:56 GMT | CVE-2025-64155: Fortinet FortiSIEM Argument Injection to Remote Code Execution | Adeel Bin Hassan | [Read More](https://medium.com/p/b086e264775d) |
+| Thu, 15 Jan 2026 11:46:13 GMT | Responding to Network Security Incidents: A Beginner-Friendly Guide | Nisa | [Read More](https://medium.com/p/eb78fe817cf0) |
 | Thu, 15 Jan 2026 11:35:51 GMT | The Hidden Cost of a Cyber Attack: What Leaders Often Realize Too Late | Taiyab Lokhandwala | [Read More](https://medium.com/p/5ae3de4b1405) |
 | Thu, 15 Jan 2026 11:24:45 GMT | Kiro AI Agent: The Next Evolution in Autonomous Software Development | Emad Mohamed | [Read More](https://medium.com/p/2876272286d6) |
 | Thu, 15 Jan 2026 11:21:43 GMT | How to Choose the Best Network Scanner App for Android | Sameer Khandelwal | [Read More](https://medium.com/p/ed7377c2c51b) |
@@ -94,22 +113,3 @@ Social media is no longer just a… | Ankit rai | [Read More](https://medium.com
 | Thu, 15 Jan 2026 06:39:14 GMT | How to Choose the Best Cyber Security College | ritik | [Read More](https://medium.com/p/ebf1d7e4f5e7) |
 | Thu, 15 Jan 2026 06:37:12 GMT | Securing AI Agents with Information Flow Control (Part III) | Ofir Yakovian | [Read More](https://medium.com/p/76891bbde968) |
 | Thu, 15 Jan 2026 06:29:43 GMT | How To Host Your Own CTF | Amrit Arora - NoobMaster | [Read More](https://medium.com/p/6eb2c1d1a43f) |
-| Thu, 15 Jan 2026 06:24:15 GMT | Four Common Web3 Vulnerabilities of 2025 — And How to Avoid Them | Godwinjohn | [Read More](https://medium.com/p/508227a61d29) |
-| Thu, 15 Jan 2026 06:24:08 GMT | OAuth 2.0: The Most Misunderstood Security Layer in Modern Apps | Arun Kumar | [Read More](https://medium.com/p/64b226df3599) |
-| Thu, 15 Jan 2026 06:15:01 GMT | Network Device Hardening — Writeup | Mahir | [Read More](https://medium.com/p/22498a2915a2) |
-| Thu, 15 Jan 2026 06:13:04 GMT | How Cybersecurity Keeps the Internet Safe | Adasmadasu | [Read More](https://medium.com/p/ecfdfa2278d4) |
-| Thu, 15 Jan 2026 06:03:49 GMT | ประจำวันพฤหัสบดีที่ 15 มกราคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/76b1332bbaff) |
-| Thu, 15 Jan 2026 06:00:13 GMT | The Day the “Security Janitor” Quit | Aravind S Narayan | [Read More](https://medium.com/p/dbd958fcfb43) |
-| Thu, 15 Jan 2026 05:50:05 GMT | Google’s Personal AI vs. OpenAI’s Brain Drain - The Daily Tech Digest: 15 January 2026 | Souren Stepanyan | [Read More](https://medium.com/p/ec84e487c787) |
-| Thu, 15 Jan 2026 05:44:13 GMT | Enterprise IT Transformation with Cloud, Containers, Virtualization, Security, and Data Protection… | F9 Infotech | [Read More](https://medium.com/p/0c15af8647e7) |
-| Thu, 15 Jan 2026 05:43:27 GMT | Blockchain Software Development in 2026: The Infrastructure Behind a Trustless Digital Economy | Devarshi Acharya | [Read More](https://medium.com/p/58a75948daf5) |
-| Thu, 15 Jan 2026 05:35:01 GMT | The 2026 E-commerce Security Framework: AI-Augmented Checklist for Developers | Mohammad Abir Abbas | [Read More](https://medium.com/p/57943c412e95) |
-| Thu, 15 Jan 2026 05:28:47 GMT | Cómo la IA transformó mi forma de trabajar y pensar como ingeniero | frangelbarrera | [Read More](https://medium.com/p/7340c20d0a0d) |
-| Thu, 15 Jan 2026 05:25:32 GMT | Why I stopped decoding JWTs online (and built my own tool) | Maxim Dmitriychuk | [Read More](https://medium.com/p/8972318157e8) |
-| Thu, 15 Jan 2026 05:21:46 GMT | Security Services in Baytown | Security Houston | [Read More](https://medium.com/p/4c0cbfb7097c) |
-| Thu, 15 Jan 2026 05:20:47 GMT | Data Management Solutions - Data Management Solutions Fort Myers & Data Management Solutions… | Gainside | [Read More](https://medium.com/p/dd18a82d43cc) |
-| Thu, 15 Jan 2026 05:10:26 GMT | Steganography & Digital Watermarking: How Attackers Hide Data in Plain Sight | Daniel Isaac E | [Read More](https://medium.com/p/6c437df312a6) |
-| Thu, 15 Jan 2026 05:10:19 GMT | What Is Cyber Security? A Simple Guide for Beginners. | Cyberwithswe | [Read More](https://medium.com/p/e623bad4d399) |
-| Thu, 15 Jan 2026 05:10:08 GMT | Hunting Brute-Force VPN Access with Splunk | Nima Bargestan | [Read More](https://medium.com/p/6e5726111306) |
-| Thu, 15 Jan 2026 05:07:59 GMT | Secure Your Space, Automate Your Life: Why Techfra Solutions is the UAE’s Trusted Choice for Smart… | techfra solutions | [Read More](https://medium.com/p/b68a11e16f4a) |
-| Thu, 15 Jan 2026 05:03:00 GMT | Security Services in Pasadena | Security Houston | [Read More](https://medium.com/p/09085204fee9) |
