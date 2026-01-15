@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 Jan 2026 21:11:34 GMT | A Subtle Merkle Tree Vulnerability in Bitcoin (And How It Was Fixed) | Thrishalmadasu | [Read More](https://medium.com/p/b41fa68aa283) |
+| Thu, 15 Jan 2026 21:04:09 GMT | Build A Computer That Never Fails When Everything Is On The Line | Geoffrey Wenger | [Read More](https://medium.com/p/9a83eb2e593b) |
+| Thu, 15 Jan 2026 20:54:59 GMT | Data Poisoning in Machine Learning: Why and How People Manipulate Training Data | Stephanie Kirmer | [Read More](https://medium.com/p/3c947e4825df) |
+| Thu, 15 Jan 2026 20:49:24 GMT | Hello every one I have Summarized Computer Architecture course on parts This is First Part : | Triple_H14 | [Read More](https://medium.com/p/f50808c9ce37) |
+| Thu, 15 Jan 2026 20:49:17 GMT | How to Improve Your Spring API with Rate Limiting. | Vijcoelho | [Read More](https://medium.com/p/d033018af323) |
+| Thu, 15 Jan 2026 20:42:32 GMT | A Hands-On Ethical Hacking Capstone: SQL Injection, Web Misconfigurations, SMB Exploits, and PCAP… | Edwin Atali | [Read More](https://medium.com/p/788999b432c8) |
 | Thu, 15 Jan 2026 20:29:29 GMT | How the Latest Banking Malware is Targeting Users | Princely Alafe | [Read More](https://medium.com/p/38f586a70336) |
 | Thu, 15 Jan 2026 20:27:39 GMT | The Death of Traditional Threat Intelligence (And What Comes Next) | Vito Rallo | [Read More](https://medium.com/p/0949750c3940) |
 | Thu, 15 Jan 2026 20:26:46 GMT | Cold water | Fabiana Tavares | [Read More](https://medium.com/p/3cdf876d5000) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 Jan 2026 14:51:38 GMT | Why HTTPS Is Mandatory: Understanding the Backbone of Web Security | Ayoub Taouam | [Read More](https://medium.com/p/850c7974a23e) |
 | Thu, 15 Jan 2026 14:48:28 GMT | New LummaStealer With 9 Payloads Exposed !!!! | Aufa Rifqi | [Read More](https://medium.com/p/ee9c6e58fff4) |
 | Thu, 15 Jan 2026 14:45:52 GMT | XSS Attacks: A Practical Methodology for Security Testing | Israel Aráoz Severiche | [Read More](https://medium.com/p/6bff4d0fae1e) |
-| Thu, 15 Jan 2026 14:45:10 GMT | The Complete (Failed) Guide to ASP.NET ViewState Exploitation | Dipesh Paul | [Read More](https://medium.com/p/1a582471fc59) |
-| Thu, 15 Jan 2026 14:40:10 GMT | Fortinet ออกอัปเดตแก้ไขช่องโหว่ในผลิตภัณฑ์ FortiSIEM และ FortiFone | ThaiCERT By NCSA | [Read More](https://medium.com/p/cebdca3ad22e) |
-| Thu, 15 Jan 2026 14:40:05 GMT | “Gaining Access: Understanding System and Network Access Processes After Service Enumeration” | Habibi | [Read More](https://medium.com/p/a4f2df41468a) |
-| Thu, 15 Jan 2026 14:38:34 GMT | Nationwide Verizon Outage Sparks Frustration and Chaos for Millions | Motherlandlove | [Read More](https://medium.com/p/7b5a1d62ec0d) |
-| Thu, 15 Jan 2026 14:33:04 GMT | The Best Encryption Algorithm in 2026: How Secure Messaging Apps Protect Your Data | WibeIT Application | [Read More](https://medium.com/p/926a346e7920) |
-| Thu, 15 Jan 2026 14:31:57 GMT | Darknet Forums vs Marketplaces: How They Really Differ | Tor BBB | [Read More](https://medium.com/p/d1b60af120cb) |
