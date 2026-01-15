@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 Jan 2026 22:43:04 GMT | AI Agents Are Becoming Privilege Escalation Paths | Cyber-AppSec | [Read More](https://medium.com/p/4f072e3741b4) |
+| Thu, 15 Jan 2026 22:41:09 GMT | Eurail Investigates Security Incident Involving Potential Exfiltration of Customer Data | RealSec.io | [Read More](https://medium.com/p/6f128482a9e8) |
+| Thu, 15 Jan 2026 22:33:34 GMT | INNER SADNESS #4 | Isaac | [Read More](https://medium.com/p/3f7036c2a59b) |
+| Thu, 15 Jan 2026 22:25:21 GMT | How Strong Is North Korea, Really? | Uriya | [Read More](https://medium.com/p/2d6ccfbfe983) |
+| Thu, 15 Jan 2026 22:24:49 GMT | ​I was sitting in a Starbucks at 2:00 AM, staring at a screen until my eyes bled. | Chinedu adinuso | [Read More](https://medium.com/p/96c7a74be730) |
+| Thu, 15 Jan 2026 22:22:10 GMT | Categories of Controls in Cybersecurity: A Practical, Easy-to-Understand Guide | Dennis Duke | [Read More](https://medium.com/p/7e459e2a84de) |
+| Thu, 15 Jan 2026 22:14:34 GMT | Let’s Encrypt SSL on Shared cPanel Hosting (Without Certbot) — With Auto Renewal | Masuk Helal Anik | [Read More](https://medium.com/p/d453c9d8d28d) |
 | Thu, 15 Jan 2026 21:58:49 GMT | From File Upload to Remote Code Execution (byp4ss3d) | Gregory Kovalchuk | [Read More](https://medium.com/p/5858636f015d) |
 | Thu, 15 Jan 2026 21:53:31 GMT | BreachForum is New victim of hackers. | KiLo "HaCK3r " Cantrell | [Read More](https://medium.com/p/d782c2ad11b0) |
 | Thu, 15 Jan 2026 21:52:47 GMT | Hackthebox Module: Password Attacks - Windows Credential Manager Exploitation | Sunain | [Read More](https://medium.com/p/dea98865b381) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 Jan 2026 15:52:12 GMT | 3 Ways You Are Accidentally Doxxing Yourself Every Day. | Krishna M S | [Read More](https://medium.com/p/c8c8723dc57c) |
 | Thu, 15 Jan 2026 15:52:01 GMT | IP Address Classes Explained: What’s Changing with Wi-Fi Standards, and Do Business & Personal IPs… | Paradise technologies Inc | [Read More](https://medium.com/p/5329ef5c8cef) |
 | Thu, 15 Jan 2026 15:50:50 GMT | The Night the Server Didn’t Panic | George William Amalan | [Read More](https://medium.com/p/187e979a7aa4) |
-| Thu, 15 Jan 2026 15:50:35 GMT | Stop Training Your Employees… It Isn’t Working | Aaron Strong | [Read More](https://medium.com/p/88f869c47380) |
-| Thu, 15 Jan 2026 15:46:59 GMT | Iran’s Internet Went to Zero on Jan 8 — Will Account Takeovers Spike in the Next 2–3 Weeks? | Wes Young | [Read More](https://medium.com/p/6afbf41261fd) |
-| Thu, 15 Jan 2026 15:44:32 GMT | PhantomBlogger: Automating Red Team Infrastructure with local LLMs | Walter "walula" Scitta | [Read More](https://medium.com/p/b4f895908509) |
-| Thu, 15 Jan 2026 15:32:48 GMT | Security best practices in Umami codebase — part 1.0 | Ramu Narasinga | [Read More](https://medium.com/p/33c7b62ebec1) |
-| Thu, 15 Jan 2026 15:27:31 GMT | Same honey. Different excuse. | MoUMMM | [Read More](https://medium.com/p/8ade559a2237) |
-| Thu, 15 Jan 2026 15:27:06 GMT | More Than Just Storage: The Art of Building Your Own Crypto Wallet | John Galt | [Read More](https://medium.com/p/3e4a656a7f81) |
-| Thu, 15 Jan 2026 15:26:34 GMT | XSS and CSRF Vulnerabilities in Spring Boot: Detection and Prevention Guide | Ahmet Emre DEMİRŞEN | [Read More](https://medium.com/p/f0d7f8fdd1e2) |
