@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 Jan 2026 05:21:46 GMT | Security Services in Baytown | Security Houston | [Read More](https://medium.com/p/4c0cbfb7097c) |
+| Thu, 15 Jan 2026 05:10:26 GMT | Steganography & Digital Watermarking: How Attackers Hide Data in Plain Sight | Daniel Isaac E | [Read More](https://medium.com/p/6c437df312a6) |
+| Thu, 15 Jan 2026 05:10:19 GMT | What Is Cyber Security? A Simple Guide for Beginners. | Cyberwithswe | [Read More](https://medium.com/p/e623bad4d399) |
+| Thu, 15 Jan 2026 05:10:08 GMT | Hunting Brute-Force VPN Access with Splunk | Nima Bargestan | [Read More](https://medium.com/p/6e5726111306) |
+| Thu, 15 Jan 2026 05:07:59 GMT | Secure Your Space, Automate Your Life: Why Techfra Solutions is the UAE’s Trusted Choice for Smart… | techfra solutions | [Read More](https://medium.com/p/b68a11e16f4a) |
+| Thu, 15 Jan 2026 05:03:00 GMT | Security Services in Pasadena | Security Houston | [Read More](https://medium.com/p/09085204fee9) |
+| Thu, 15 Jan 2026 04:55:21 GMT | From “Looks Legit” to “Definitely Malicious”: Header Analysis Explained | Paritosh | [Read More](https://medium.com/p/4d1255f6473e) |
+| Thu, 15 Jan 2026 04:54:23 GMT | Madness-TryHackMe | Asjamil | [Read More](https://medium.com/p/010e2327880b) |
+| Thu, 15 Jan 2026 04:51:49 GMT | Security Analysis and Hardening | Nesha | [Read More](https://medium.com/p/943414cb39fa) |
+| Thu, 15 Jan 2026 04:45:14 GMT | Digital Forensic Investigation: Evidence Integrity Verification and Timeline Reconstruction of a… | Sora | [Read More](https://medium.com/p/0aa33297c6da) |
+| Thu, 15 Jan 2026 04:42:08 GMT | Securing JWT in Production: What Matters Beyond RS256 | Anvisha | [Read More](https://medium.com/p/1849e2553572) |
+| Thu, 15 Jan 2026 04:37:20 GMT | Dynamic Analysis & Instrumentation Android: Setup MobSF, Frida, Objection, dan Reflutter | Alfandiwijaya | [Read More](https://medium.com/p/f5b80218e139) |
+| Thu, 15 Jan 2026 04:32:45 GMT | Why AI is bad | Mika | [Read More](https://medium.com/p/5ea405454cee) |
+| Thu, 15 Jan 2026 04:32:10 GMT | Identity and Access Management (IAM): 7 Powerful Benefits That Secure the Future of Digital Trust | Maxatlasofficial | [Read More](https://medium.com/p/eb53530f089b) |
 | Thu, 15 Jan 2026 04:22:38 GMT | Security Analysis and Program Hardening | Sora | [Read More](https://medium.com/p/7c1f16528487) |
 | Thu, 15 Jan 2026 04:14:38 GMT | VPS for Media: A Comprehensive Guide | HostNOC | [Read More](https://medium.com/p/25ca16accb48) |
 | Thu, 15 Jan 2026 04:09:50 GMT | AI Hacking Lab | Dael Chávez | [Read More](https://medium.com/p/7aca30ee37a2) |
@@ -99,17 +113,3 @@ Every morning at 7:15, the same bus stopped at the same corner. | Sakhi Writes |
 | Wed, 14 Jan 2026 19:25:26 GMT | From Spear Phishing to Persistence: An APT Attack Analysis Using MITRE ATT&CK | Hacer Dalkiran | [Read More](https://medium.com/p/d14d1acffdfe) |
 | Wed, 14 Jan 2026 19:24:42 GMT | Why Choosing the Right SAP Service Provider Accelerates Enterprise Growth | 2isolutions Inc. USA | [Read More](https://medium.com/p/012c17ab64f9) |
 | Wed, 14 Jan 2026 19:21:40 GMT | From 8GB Flash Drives to 5G Cloud Sovereignty: The 2026 Tech Landscape. | pulsebangladesh | [Read More](https://medium.com/p/5a4515a83e64) |
-| Wed, 14 Jan 2026 19:18:57 GMT | Born to Watch ️CCTVs | Pramodh | [Read More](https://medium.com/p/1694a5306834) |
-| Wed, 14 Jan 2026 19:17:23 GMT | Security and Compliance in RMM | Brintha Kumaresan | [Read More](https://medium.com/p/fc7e6a6dc016) |
-| Wed, 14 Jan 2026 19:12:40 GMT | SUID Permission — The Silent Door to Privilege Escalation | PriOFF | [Read More](https://medium.com/p/7d2f91af9ec2) |
-| Wed, 14 Jan 2026 19:02:48 GMT | Anti-Tampering | Iram Jack | [Read More](https://medium.com/p/4ab109761624) |
-| Wed, 14 Jan 2026 19:00:22 GMT | The Spy, the Zen Master, and the Birth of Cybernetic Psyops: Uncovering the Secret OSS Network | Julian Soloninka | [Read More](https://medium.com/p/f36e47ac0f22) |
-| Wed, 14 Jan 2026 18:52:56 GMT | Memahami Perintah `free`: Memantau Penggunaan Memori di Linux | Andi Almafhum | [Read More](https://medium.com/p/23b8f3f9c11b) |
-| Wed, 14 Jan 2026 18:41:55 GMT | KVKK Uyumlu SQL Veri İletimi: Güvenli Sorgu Sonucu Yönetimi | SQL CHANGE GUARD | [Read More](https://medium.com/p/6b60fc26eaed) |
-| Wed, 14 Jan 2026 18:39:03 GMT | Security Analysis and Program Hardening | Muhammad Ridwan Cahyadi | [Read More](https://medium.com/p/b92016e8365d) |
-| Wed, 14 Jan 2026 18:32:12 GMT | Red Teaming em IA: aplicando o NIST AI RMF com Promptfoo no Amazon Bedrock | Mauro Camargo | [Read More](https://medium.com/p/497c3c19559a) |
-| Wed, 14 Jan 2026 18:28:06 GMT | CORS Issues in Spring Boot and How I Fix Them in Real Projects | Er Alice Paul | [Read More](https://medium.com/p/f75812dcfa5c) |
-| Wed, 14 Jan 2026 18:25:14 GMT | A 5-Day Bug Bounty Hunt on a Telecom Target: From Recon to RXSS and Open Redirect | SpiX-7 | [Read More](https://medium.com/p/119a27f8e37b) |
-| Wed, 14 Jan 2026 18:23:50 GMT | Secure Kubernetes Deployment Guide (Self-Managed) — Part I | SOCFortress | [Read More](https://medium.com/p/a3f205972648) |
-| Wed, 14 Jan 2026 18:19:13 GMT | Why Execution Boundaries Matter More Than AI Guardrails | ziling-failcore | [Read More](https://medium.com/p/99b3c6d52e4f) |
-| Wed, 14 Jan 2026 18:17:37 GMT | Legacy Domains: The Backdoor in Your Signed URL Strategy | Omer Itach | [Read More](https://medium.com/p/598f921d3b85) |
