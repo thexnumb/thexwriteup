@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 Jan 2026 01:39:11 GMT | TryHackMe: Year of the Rabbit Writeup | cbev | [Read More](https://medium.com/p/5e33bec8e8f6) |
+| Thu, 15 Jan 2026 01:22:51 GMT | The Almanac: From Ancient Star Charts to Today’s Digital World | Richard P. Toister, Ph.D. | [Read More](https://medium.com/p/ab9b6ae5eb9e) |
+| Thu, 15 Jan 2026 01:12:48 GMT | When Love Meets Reality: Why I Stopped Believing in Words | Xiaochen | [Read More](https://medium.com/p/4d7c53655c60) |
+| Thu, 15 Jan 2026 00:58:01 GMT | Why We Built a Zero-Knowledge Architecture for Health Data | EgnaFlex Inc. | [Read More](https://medium.com/p/b2c28bc338f2) |
+| Thu, 15 Jan 2026 00:53:47 GMT | 2026 OSINT Tool for Data Visualization | Horus | [Read More](https://medium.com/p/fb86eb5fbad1) |
+| Thu, 15 Jan 2026 00:52:54 GMT | Digital Forensic Investigation | Adhyatma Davu | [Read More](https://medium.com/p/1fc69fc3eef6) |
+| Thu, 15 Jan 2026 00:52:20 GMT | AI Is Getting Better at Hacking. That Changes Everything. | Cyber-AppSec | [Read More](https://medium.com/p/a61304c50092) |
+| Thu, 15 Jan 2026 00:48:58 GMT | As Europe’s Security Frays, Politics Moves Right | Faustin Mark (A&P) | [Read More](https://medium.com/p/b25ea0a2b8e4) |
+| Thu, 15 Jan 2026 00:43:36 GMT | The OSI of Mind: Securing Human-AI Interfaces | Kevin | [Read More](https://medium.com/p/3ca381b95c29) |
+| Thu, 15 Jan 2026 00:41:47 GMT | Security Analysis and Hardening of a Flask-SQLite Student Management System | Adhyatma Davu | [Read More](https://medium.com/p/4f15088ee2b3) |
+| Thu, 15 Jan 2026 00:26:21 GMT | Digital Forensic Investigation of an Insider Data Leakage Incident | Hibrizykavin | [Read More](https://medium.com/p/521fb20f5f09) |
+| Wed, 14 Jan 2026 23:54:37 GMT | Case Study: Digital Forensics Investigation of an Insider Data Breach | William Azaria Simanjuntak | [Read More](https://medium.com/p/cbab21f1921a) |
+| Wed, 14 Jan 2026 23:36:17 GMT | The Security Challenges of VoIP: Risks, Attacks, and Protections | Raviteja Mureboina | [Read More](https://medium.com/p/0eb5e69ae501) |
+| Wed, 14 Jan 2026 23:35:10 GMT | Which Cybersecurity Certifications Matter in 2026 | Irene A. Gil | [Read More](https://medium.com/p/7c60b7d9799a) |
 | Wed, 14 Jan 2026 23:31:50 GMT | Security Analysis and Hardening of a Python Web Application | William Azaria Simanjuntak | [Read More](https://medium.com/p/89f0521d6e83) |
 | Wed, 14 Jan 2026 23:30:20 GMT | Stop Letting Slow Computers Drain Your Time And Budget | Geoffrey Wenger | [Read More](https://medium.com/p/f7b048df410b) |
 | Wed, 14 Jan 2026 23:21:09 GMT | HTB Labs — Tier 1 — “Crocodile” Machine Walkthrough - By: CyberAlp0 | Mohamed Maher | [Read More](https://medium.com/p/a4954ef382f2) |
@@ -99,17 +113,3 @@ Every morning at 7:15, the same bus stopped at the same corner. | Sakhi Writes |
 | Wed, 14 Jan 2026 17:23:13 GMT | Ethical Hacking Course in Trivandrum : A Practical Way Into a High Demand Cyber Security Career | Vazeem Akram | [Read More](https://medium.com/p/39fe025171b0) |
 | Wed, 14 Jan 2026 17:12:31 GMT | New MacSync Malware Variant Bypasses macOS Gatekeeper Using Apple-Signed Disguise | Tech Intel | [Read More](https://medium.com/p/11c4632a37b7) |
 | Wed, 14 Jan 2026 17:10:06 GMT | Vibe Coding Will Kill Your App (Unless You Do This) | DigitalNomad | [Read More](https://medium.com/p/2657a5f62693) |
-| Wed, 14 Jan 2026 17:02:50 GMT | Building an AWS GuardDuty SIEM Pipeline into Splunk (S3 + SQS) + SOC Dashboard | Lakshan Sameera (Sameer) | [Read More](https://medium.com/p/784d31db9ce7) |
-| Wed, 14 Jan 2026 17:02:41 GMT | CVE-2026–20805: An Actively Exploited Windows Zero-Day Vulnerability Explained | Sneha | [Read More](https://medium.com/p/239f8139f9c1) |
-| Wed, 14 Jan 2026 17:02:24 GMT | Security Analysis and Hardening of a Flask-SQLite Student Management System | Moreno Cello Rhythm | [Read More](https://medium.com/p/a9fa7db07d5a) |
-| Wed, 14 Jan 2026 16:58:34 GMT | Open Redirect to XSS | Samet Yiğit | [Read More](https://medium.com/p/3a579bf64ed2) |
-| Wed, 14 Jan 2026 16:57:57 GMT | Why Granularity Is Everything in Memory Encryption | Superasystem Inc. | [Read More](https://medium.com/p/6feb9954fc51) |
-| Wed, 14 Jan 2026 16:57:04 GMT | How Programming Saved My Life (And Why IT Stopped Valuing The Minds That Built It) | RandyWritesProcedurally | [Read More](https://medium.com/p/a45db214b09d) |
-| Wed, 14 Jan 2026 16:53:31 GMT | Anthem-TryHackMe | Asjamil | [Read More](https://medium.com/p/69bc1a2da7c5) |
-| Wed, 14 Jan 2026 16:49:49 GMT | Aggregator Pattern：微服務中的資訊櫃台 | 思維舞步 MindSteps | [Read More](https://medium.com/p/4477a721bb49) |
-| Wed, 14 Jan 2026 16:49:44 GMT | Try Hack Me- HA Joker CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/967cf3d97e45) |
-| Wed, 14 Jan 2026 16:47:13 GMT | The Fear Isn’t Being Judged. It’s Being Seen | LASO Hypnosis | [Read More](https://medium.com/p/3d372b6f5e56) |
-| Wed, 14 Jan 2026 16:45:31 GMT | How Much Time Does it REALLY Take to Learn Hacking? | Axoloth | [Read More](https://medium.com/p/12014eb5e1bf) |
-| Wed, 14 Jan 2026 16:40:32 GMT | Key Features to Look for in Security Guard Services in Woodland Hills for Medical Centers | Reliable Security Services Blog | [Read More](https://medium.com/p/ff46bb68483c) |
-| Wed, 14 Jan 2026 16:35:36 GMT | When ChatGPT Becomes the Attacker: How New AI Flaws Exposed Gmail, Outlook, and GitHub Data | Tech Intel | [Read More](https://medium.com/p/eac8d5464c9e) |
-| Wed, 14 Jan 2026 16:34:54 GMT | My First XSS: How Simple Automation Helped Me Find It | AhmedAbdelaziz | [Read More](https://medium.com/p/2d6d3f6143f4) |
