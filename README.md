@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 15 Jan 2026 10:13:15 GMT | Search HTB: A Complete Walkthrough | Legenddhruv | [Read More](https://medium.com/p/fe81ba31bf5a) |
+| Thu, 15 Jan 2026 10:05:06 GMT | Technical Whitepaper: The EIN Framework | Zeyd Aar Team Algo | [Read More](https://medium.com/p/483f09a0d3c8) |
+| Thu, 15 Jan 2026 10:01:30 GMT | The Hidden Price of Data Breaches | Hays Communication | [Read More](https://medium.com/p/c5e351d6a2c8) |
+| Thu, 15 Jan 2026 10:00:39 GMT | A Web2.5 Vulnerability Story | Bogdan Kondratev | [Read More](https://medium.com/p/3d0cc5a4d58f) |
+| Thu, 15 Jan 2026 09:54:02 GMT | Write-up: Relevant lab on THM | cLODIUS cOCK | [Read More](https://medium.com/p/cea454c3f3a6) |
+| Thu, 15 Jan 2026 09:52:51 GMT | An Image That Shares Grief Through Helpless Eyes | Sugunbhaskar | [Read More](https://medium.com/p/283b7393e662) |
+| Thu, 15 Jan 2026 09:52:14 GMT | Penetration Tester Career Guide: From Curious Beginner to Pro Ethical Hacker | Bugitrix | [Read More](https://medium.com/p/b097fc66b8fd) |
+| Thu, 15 Jan 2026 09:47:20 GMT | Beyond Time Travel: Why Snowflake’s New Immutable Backups Are a Game Changer for Cyber-Resilience | Pascal Pfäffle | [Read More](https://medium.com/p/221a00f7af1e) |
+| Thu, 15 Jan 2026 09:45:43 GMT | Information Security on behalf of Business Continuity | Ziya Gokalp | [Read More](https://medium.com/p/22fec2c72fac) |
+| Thu, 15 Jan 2026 09:45:14 GMT | Decision Making Battle Between Attacker and Defender: Game Theory in Cybersecurity | Ziya Gokalp | [Read More](https://medium.com/p/32f86844c919) |
+| Thu, 15 Jan 2026 09:41:22 GMT | The Visual Ghost: How a Single Unicode Character Led to a Critical Account Takeover | Be nice insabat | [Read More](https://medium.com/p/84e620ff908f) |
+| Thu, 15 Jan 2026 09:33:02 GMT | How I Secured My Entire Digital Life in 24 Hours? | Team TIE | [Read More](https://medium.com/p/65fc2e55005d) |
+| Thu, 15 Jan 2026 09:29:52 GMT | Governance, Risk, & Compliance (WGU D486) | Irene A. Gil | [Read More](https://medium.com/p/92d26de8911f) |
+| Thu, 15 Jan 2026 09:29:45 GMT | Network Security Services for Businesses: A Complete Guide | Preemptive Technofield | [Read More](https://medium.com/p/11e9657a5f44) |
+| Thu, 15 Jan 2026 09:26:02 GMT | From Productivity to Proximity Risk: The Business Case Against Unchecked AI Agents | Shivanshi Kapoor | [Read More](https://medium.com/p/938057480813) |
+| Thu, 15 Jan 2026 09:24:57 GMT | Learning the Difference Between Intimacy and Attachment | FromPaule | [Read More](https://medium.com/p/05f12e8a5d92) |
 | Thu, 15 Jan 2026 09:04:57 GMT | Behind The Screens: The Ultimate Guide To Mobile Application Security Testing | Redfox Security | [Read More](https://medium.com/p/b0f6bd01cd56) |
 | Thu, 15 Jan 2026 09:03:48 GMT | How Social Media Impacts Daily Work and Life: A Reality Check
 Social media is no longer just a… | Ankit rai | [Read More](https://medium.com/p/1401cf1bdc6e) |
@@ -97,19 +113,3 @@ Social media is no longer just a… | Ankit rai | [Read More](https://medium.com
 | Thu, 15 Jan 2026 02:58:04 GMT | Reducing CVEs with Docker Hardening Image (DHI): A Best Practice for Secure Containersintro | Khun Kasidej | [Read More](https://medium.com/p/c5317b5e2986) |
 | Thu, 15 Jan 2026 02:55:55 GMT | Vibe Coding Is Breaking Your App | Sonu Yadav | [Read More](https://medium.com/p/1d1448728183) |
 | Thu, 15 Jan 2026 02:53:51 GMT | Mitigating Common Web Vulnerabilities in a Flask CRUD Application: A Security Analysis | Dionisius felysto | [Read More](https://medium.com/p/50a2cb5852fb) |
-| Thu, 15 Jan 2026 02:50:38 GMT | The difference between having a job and looking for a job in 5 simple observations | Lylo Sy Trotta | [Read More](https://medium.com/p/d2cec33858ca) |
-| Thu, 15 Jan 2026 02:42:05 GMT | When Vulnerability Is Turned Into a Product | Caleb Dempsey | [Read More](https://medium.com/p/5cd2f669cfe0) |
-| Thu, 15 Jan 2026 02:38:52 GMT | Sc0rp10n, el grupo hacker menos precavido. | Nescoroco | [Read More](https://medium.com/p/9e81325b1787) |
-| Thu, 15 Jan 2026 02:30:11 GMT | The "OS" War: What OpenAI and Anthropic’s Healthcare Launches Really Mean | MD Sejon Sardar | [Read More](https://medium.com/p/e80795a1b05a) |
-| Thu, 15 Jan 2026 02:21:24 GMT | How To Support AVG Customer Service Number UK | Zuerevalexander | [Read More](https://medium.com/p/974853569929) |
-| Thu, 15 Jan 2026 02:15:16 GMT | How Do I Contact McAfee Support Number UK | Zuerevalexander | [Read More](https://medium.com/p/ef956ac17cc8) |
-| Thu, 15 Jan 2026 02:07:11 GMT | Hashing vs Encoding: Differences, Applications, and Their Critical Role in Cybersecurity | Wnellygrace | [Read More](https://medium.com/p/765ba73f5d36) |
-| Thu, 15 Jan 2026 01:39:11 GMT | TryHackMe: Year of the Rabbit Writeup | cbev | [Read More](https://medium.com/p/5e33bec8e8f6) |
-| Thu, 15 Jan 2026 01:22:51 GMT | The Almanac: From Ancient Star Charts to Today’s Digital World | Richard P. Toister, Ph.D. | [Read More](https://medium.com/p/ab9b6ae5eb9e) |
-| Thu, 15 Jan 2026 01:12:48 GMT | When Love Meets Reality: Why I Stopped Believing in Words | Xiaochen | [Read More](https://medium.com/p/4d7c53655c60) |
-| Thu, 15 Jan 2026 00:58:01 GMT | Why We Built a Zero-Knowledge Architecture for Health Data | EgnaFlex Inc. | [Read More](https://medium.com/p/b2c28bc338f2) |
-| Thu, 15 Jan 2026 00:53:47 GMT | 2026 OSINT Tool for Data Visualization | Horus | [Read More](https://medium.com/p/fb86eb5fbad1) |
-| Thu, 15 Jan 2026 00:52:54 GMT | Digital Forensic Investigation | Adhyatma Davu | [Read More](https://medium.com/p/1fc69fc3eef6) |
-| Thu, 15 Jan 2026 00:52:20 GMT | AI Is Getting Better at Hacking. That Changes Everything. | Cyber-AppSec | [Read More](https://medium.com/p/a61304c50092) |
-| Thu, 15 Jan 2026 00:48:58 GMT | As Europe’s Security Frays, Politics Moves Right | Faustin Mark (A&P) | [Read More](https://medium.com/p/b25ea0a2b8e4) |
-| Thu, 15 Jan 2026 00:43:36 GMT | The OSI of Mind: Securing Human-AI Interfaces | Kevin | [Read More](https://medium.com/p/3ca381b95c29) |
