@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 Jan 2026 14:34:51 GMT | Journey into cyber security | cybersapho | [Read More](https://medium.com/p/09536aebbc21) |
+| Fri, 16 Jan 2026 14:32:00 GMT | Creating a Fake Update to Hack Any Device on the Network | Vignesh R | [Read More](https://medium.com/p/6a25aa6b6682) |
+| Fri, 16 Jan 2026 14:31:59 GMT | AI Is Finding Bugs Faster Than Humans — Is This the End of Manual Testing? | Code AI ML | [Read More](https://medium.com/p/4787fc549489) |
+| Fri, 16 Jan 2026 14:31:59 GMT | Family Secrets You Must Never Share — Protect Your Privacy from Betrayal | Daphne Laffer | [Read More](https://medium.com/p/34ebc5b2605a) |
+| Fri, 16 Jan 2026 14:30:36 GMT | A Week of Active Exploitation and Fake Exploits Trap | Loginsoft | [Read More](https://medium.com/p/840930ac0a12) |
+| Fri, 16 Jan 2026 14:27:48 GMT | How to Hack an Android Phone: What People Really Mean | Rebecca Smith | [Read More](https://medium.com/p/393319eaf302) |
 | Fri, 16 Jan 2026 14:18:00 GMT | Basic Pentesting-TryHackMe | Asjamil | [Read More](https://medium.com/p/ae107dfca846) |
+| Fri, 16 Jan 2026 14:16:02 GMT | Claude Code 2.1: The AI Tool That Writes 90% of Its Own Code | Delanoe Pirard | [Read More](https://medium.com/p/16e084fd5be0) |
 | Fri, 16 Jan 2026 14:07:49 GMT | Do You Really Need a University Degree to Work in Tech | Praise John | [Read More](https://medium.com/p/74950bdaced5) |
 | Fri, 16 Jan 2026 14:02:37 GMT | CISSP Domain 6: Security Assessment and Testing - PART 1 | Pushpak Sharma | [Read More](https://medium.com/p/80c9704274e5) |
 | Fri, 16 Jan 2026 13:51:21 GMT | 解き方 PicoCTF Crack the Gate 1 | AmberHelm | [Read More](https://medium.com/p/611d3af300b6) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 Jan 2026 08:24:49 GMT | Hack The Box — Expressway Machine Walkthrough | SubhaDip | [Read More](https://medium.com/p/3847c308b339) |
 | Fri, 16 Jan 2026 08:21:54 GMT | Reconnaissance (Before the Breach: A Hacker’s First Move — Mastering Reconnaissance Techniques) | Mert Baykal | [Read More](https://medium.com/p/22a349483930) |
 | Fri, 16 Jan 2026 08:20:43 GMT | Ödeme Sistemlerinin Geleceği: Daha Hızlı, Daha Akıllı…Peki Daha Güvenli mi? | Alper Özyurt | [Read More](https://medium.com/p/89927e9507d6) |
-| Fri, 16 Jan 2026 08:16:50 GMT | Docker Isn’t Secure by Default, Here’s Why Podman Wins | Mehdi BAFDIL | [Read More](https://medium.com/p/1bf1cf2feaee) |
-| Fri, 16 Jan 2026 08:16:49 GMT | Shocking Data Leaked: 40% of iPhone Users are Refusing to Leave iOS 18. | apple inside | [Read More](https://medium.com/p/8f6fd343e836) |
-| Fri, 16 Jan 2026 08:08:17 GMT | Kali Linux, Web Hardening, and Risk Analysis: A Full‑Stack Cybersecurity Exercise | Chinedum Udenkwo | [Read More](https://medium.com/p/85a83f71422c) |
-| Fri, 16 Jan 2026 08:06:50 GMT | The Silent Death of Your WordPress Site: Why Maintenance is Your Business Insurance in 2026 | Kozakweb | [Read More](https://medium.com/p/1c487204b977) |
-| Fri, 16 Jan 2026 08:06:42 GMT | Scanning & Enumeration | Mert Baykal | [Read More](https://medium.com/p/e0040bfa4691) |
-| Fri, 16 Jan 2026 08:06:31 GMT | Uncovering App Registrations in Azure: A Red Team Perspective | Sidhantchaurasiya | [Read More](https://medium.com/p/6d60ddd2cf8c) |
-| Fri, 16 Jan 2026 08:05:47 GMT | A Mother’s Love | Oluwhitney | [Read More](https://medium.com/p/5e4a26172532) |
