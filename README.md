@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 Jan 2026 22:44:00 GMT | Healthcare Cybersecurity Is Different: Here’s Why Attacks Hurt More (and What Works) | Kaushik Muthukumaran | [Read More](https://medium.com/p/7db1aed98220) |
+| Fri, 16 Jan 2026 22:41:54 GMT | Host & Network Penetration Testing: Post-Exploitation CTF 1 | Khalil | [Read More](https://medium.com/p/fb7fa3e6714a) |
+| Fri, 16 Jan 2026 22:33:23 GMT | Why Tools Don’t Make You Dangerous in Cybersecurity | Sunera Ranasooriya | [Read More](https://medium.com/p/5c8d4bcadcfb) |
+| Fri, 16 Jan 2026 22:22:40 GMT | All You Need to Know About Azure PIM | Manish Karki | [Read More](https://medium.com/p/6d93a9e44b4f) |
+| Fri, 16 Jan 2026 22:22:28 GMT | OpenAI's new professional worrier | Anastasios Antoniadis | [Read More](https://medium.com/p/7befea73f772) |
+| Fri, 16 Jan 2026 22:17:47 GMT | The API Explosion: 3 Steps to Hardening Your ‘Shadow APIs’ Before Attackers Do | John Muconto | [Read More](https://medium.com/p/5fc61e965895) |
 | Fri, 16 Jan 2026 22:16:55 GMT | The Dynamics of Iraq’s National Security: What Awaits the Next Government? | Dr. SAIFALDIN Z.  AL-DARRAJI | [Read More](https://medium.com/p/8a72afea4141) |
 | Fri, 16 Jan 2026 22:04:56 GMT | AI Security isn’t a New Problem. It’s the Same Problem we Keep Refusing to Solve. | Jeffrey W. Brown | [Read More](https://medium.com/p/e125b5d70d85) |
 | Fri, 16 Jan 2026 21:57:56 GMT | From Perimeter Security to Practical Zero Trust: A Real-World Approach for Modern Networks | Shahzad Ayub | [Read More](https://medium.com/p/dfeffd8b0e7f) |
@@ -107,9 +113,3 @@ Amazing content! | Alborz Nazari | [Read More](https://medium.com/p/078ed8cdef4c
 | Fri, 16 Jan 2026 14:27:48 GMT | How to Hack an Android Phone: What People Really Mean | Rebecca Smith | [Read More](https://medium.com/p/393319eaf302) |
 | Fri, 16 Jan 2026 14:18:00 GMT | Basic Pentesting-TryHackMe | Asjamil | [Read More](https://medium.com/p/ae107dfca846) |
 | Fri, 16 Jan 2026 14:16:02 GMT | Claude Code 2.1: The AI Tool That Writes 90% of Its Own Code | Delanoe Pirard | [Read More](https://medium.com/p/16e084fd5be0) |
-| Fri, 16 Jan 2026 14:07:49 GMT | Do You Really Need a University Degree to Work in Tech | Praise John | [Read More](https://medium.com/p/74950bdaced5) |
-| Fri, 16 Jan 2026 14:02:37 GMT | CISSP Domain 6: Security Assessment and Testing - PART 1 | Pushpak Sharma | [Read More](https://medium.com/p/80c9704274e5) |
-| Fri, 16 Jan 2026 13:51:21 GMT | 解き方 PicoCTF Crack the Gate 1 | AmberHelm | [Read More](https://medium.com/p/611d3af300b6) |
-| Fri, 16 Jan 2026 13:44:06 GMT | Security Awareness Training Complete Guide 2026 | Keepnet Labs | [Read More](https://medium.com/p/719d2d604049) |
-| Fri, 16 Jan 2026 13:41:48 GMT | First Reverse Engineering Challenge | Abdellah Elyazidi | [Read More](https://medium.com/p/2542bebd1a91) |
-| Fri, 16 Jan 2026 13:36:35 GMT | A Beginner’s Guide to ISACA Certification Exams | Careertechnology | [Read More](https://medium.com/p/46eec015e651) |
