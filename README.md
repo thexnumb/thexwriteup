@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 Jan 2026 01:43:00 GMT | A New Security Paradigm in the Quantum Era | Quantarium | [Read More](https://medium.com/p/e3295e7fabf1) |
+| Fri, 16 Jan 2026 01:33:30 GMT | Critical n8n vulnerability — CVE-2026–21858 (CVSS 10.0) | Michael Harms | [Read More](https://medium.com/p/c566f2b3e65d) |
+| Fri, 16 Jan 2026 01:32:58 GMT | The Digital Strategist: When Your Firewall Becomes Your Weakness | Steven Chin | [Read More](https://medium.com/p/f37532338c80) |
+| Fri, 16 Jan 2026 01:14:29 GMT | The Day “Trust Us” Died: Why AI Needs a Flight Recorder | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/3a9ca0b90c9d) |
+| Fri, 16 Jan 2026 00:12:48 GMT | When She Demanded Her Name on the Deed, This Mother-in-Law Ended the Engagement | Lilyana | [Read More](https://medium.com/p/5a2abb5c8de9) |
+| Fri, 16 Jan 2026 00:10:58 GMT | Your AI Feature Is Probably Vulnerable (And You Might Not Know It Yet) | Matt | [Read More](https://medium.com/p/ec8a77446ab9) |
+| Fri, 16 Jan 2026 00:02:50 GMT | Seguridad Web: Guía de Explotación de Métodos HTTP y Bypass de WAF | JPablo13 | [Read More](https://medium.com/p/a6e02f537826) |
+| Fri, 16 Jan 2026 00:02:24 GMT | Windows Server: Building an AD Homelab | Shamar Isaac | [Read More](https://medium.com/p/4b1729920af7) |
+| Fri, 16 Jan 2026 00:01:08 GMT | [Sakana AI & MIT] Digital Red Queen: 대규모 언어 모델을 활용한 코어 워(Core War)에서의 적대적 프로그램 진화 | YouShin kim | [Read More](https://medium.com/p/e7015390415b) |
+| Thu, 15 Jan 2026 23:56:12 GMT | Tokens as Sandboxes: A 3D Model for Mobile App Security | eugenio andrieu | [Read More](https://medium.com/p/4a832f251b46) |
+| Thu, 15 Jan 2026 23:54:34 GMT | You’ve Been Hacked, Now What? A Step-By-Step Guide | Emory French | [Read More](https://medium.com/p/0e3576597e3a) |
+| Thu, 15 Jan 2026 23:51:09 GMT | MCPing Your Product: From Strategy to Execution in Weeks | Pradeep GanapathyRaj | [Read More](https://medium.com/p/52d05f5f65dd) |
+| Thu, 15 Jan 2026 23:47:08 GMT | APRENDA AUTOPSY: Domine Análise Forense Digital, Recuperação de Evidências e Investigação de… | Diego Rodrigues | [Read More](https://medium.com/p/4fd8cd9417f2) |
+| Thu, 15 Jan 2026 23:43:40 GMT | KALI LINUX FORENSE DIGITAL 2025: Domine Técnicas, Ferramentas e Protocolos para Investigações em… | Diego Rodrigues | [Read More](https://medium.com/p/a66a78b4ceae) |
 | Thu, 15 Jan 2026 23:30:40 GMT | Your Business Runs on IT… Even When You’re Not Thinking About It | Janeel Abrahams | [Read More](https://medium.com/p/4d13742a3d5a) |
 | Thu, 15 Jan 2026 23:17:14 GMT | Tired of Playing IT Guy When You Should Be Running Your Business? | Janeel Abrahams | [Read More](https://medium.com/p/692e58a5160f) |
 | Thu, 15 Jan 2026 23:04:44 GMT | Custom DLL Loading Technique in Windows | S12 - 0x12Dark Development | [Read More](https://medium.com/p/c84ba0496a6f) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 Jan 2026 17:08:19 GMT | How a Simple Misconfiguration in the Invitation Link Led Me to Full Account Takeover | sudo | [Read More](https://medium.com/p/e56d84e9e9f1) |
 | Thu, 15 Jan 2026 17:04:36 GMT | I Evaluated Enterprise Auth for a SaaS App and Here’s My Honest Take on WorkOS AuthKit + Radar | Andrew Baisden | [Read More](https://medium.com/p/57405d0ecd1e) |
 | Thu, 15 Jan 2026 17:03:58 GMT | The Complete Guide to Becoming a Cybersecurity Writer (Updated for 2026) | Taimur Ijlal | [Read More](https://medium.com/p/eae0d767b068) |
-| Thu, 15 Jan 2026 16:59:19 GMT | When BIOS unlock is the only real fix (and why software won’t help) | Andrew | [Read More](https://medium.com/p/86b78f4ffc01) |
-| Thu, 15 Jan 2026 16:54:38 GMT | Yearn Finance, TMXTribe, Prism Protocol: $10.5M | Olympix | [Read More](https://medium.com/p/7db99548feb3) |
-| Thu, 15 Jan 2026 16:54:08 GMT | White Hat vs Black Hat vs Grey Hat! | Shahzaib | [Read More](https://medium.com/p/abb2b3d3bfae) |
-| Thu, 15 Jan 2026 16:41:26 GMT | Are you using the right browser? | Joseph Peter | [Read More](https://medium.com/p/4a2c9a4c6c19) |
-| Thu, 15 Jan 2026 16:41:23 GMT | Web Fuzzing Assessment [HTB] | db1M | [Read More](https://medium.com/p/52ff0d701537) |
-| Thu, 15 Jan 2026 16:40:14 GMT | PicoCTF: Super SSH | Levi Spellmeyer | [Read More](https://medium.com/p/17a1cfe0c118) |
-| Thu, 15 Jan 2026 16:29:07 GMT | OpenAlt 2025 očima KISK studentky | Kateřina Holíková | [Read More](https://medium.com/p/fa45bdcbc154) |
-| Thu, 15 Jan 2026 16:25:28 GMT | OWASP Top 10: Learn It the Hard Way-A01: Broken Access Control | Amey Rugge | [Read More](https://medium.com/p/37147c9fe8c0) |
-| Thu, 15 Jan 2026 16:22:18 GMT | Fuzzing 101: Crashing Xpdf & Analyzing CVE-2019–13288 | Lior Ben Moha | [Read More](https://medium.com/p/e89d59164db9) |
-| Thu, 15 Jan 2026 16:11:54 GMT | Why Most Cyber Breaches Go Unnoticed for So Long | Digital Defense | [Read More](https://medium.com/p/f6e2af1040ee) |
-| Thu, 15 Jan 2026 16:07:18 GMT | Hacking the Hardware Gap: Performance on a Poverty Budget | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/73a94df9000b) |
-| Thu, 15 Jan 2026 16:00:21 GMT | FinOps Explained for Business Leaders: A Practical Guide to Controlling Cloud Costs in 2026 | IT_Engineer | [Read More](https://medium.com/p/0cc76d49e9d1) |
-| Thu, 15 Jan 2026 15:59:39 GMT | China’s Cloud Ninja that thinks faster than your EDR | Sudarshan | [Read More](https://medium.com/p/ec7bc63b08ac) |
-| Thu, 15 Jan 2026 15:57:12 GMT | Beyond Fail2ban: How CrowdSec Revolutionizes VM Server Security with Collective Intelligence | Sriranjan Kapilan | [Read More](https://medium.com/p/1a9f5fd25def) |
