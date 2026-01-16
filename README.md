@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 Jan 2026 16:12:20 GMT | QRadar Dominance in Modern SOC Architectures: Technical Superiority and Strategic Realities | Ali Okan Yüksel | [Read More](https://medium.com/p/5dc6e216b397) |
+| Fri, 16 Jan 2026 16:08:02 GMT | Agentic AI in penetration testing | Andrea Valle | [Read More](https://medium.com/p/da0f182d6fb0) |
+| Fri, 16 Jan 2026 16:01:54 GMT | How to Share Secrets Securely: One-Time Links That Self-Destruct | Dan Wagner | [Read More](https://medium.com/p/7fbd5caa99f6) |
+| Fri, 16 Jan 2026 16:01:15 GMT | Linux Basic Commands for Beginners: Essential Commands Every Beginner Should Learn | Shadow Attackers | [Read More](https://medium.com/p/67884aff0c63) |
+| Fri, 16 Jan 2026 15:54:21 GMT | Securing AI Agents: Monitoring for Threats You Can’t Unit Test | Michael Hannecke | [Read More](https://medium.com/p/0674d4a3c762) |
+| Fri, 16 Jan 2026 15:54:20 GMT | The Surveillance Cartel | Erik Blair | [Read More](https://medium.com/p/4cea89040d2f) |
+| Fri, 16 Jan 2026 15:37:58 GMT | IAM in the Age of AI: Why Identity Governance Must Evolve Beyond Humans | Sunnysinha | [Read More](https://medium.com/p/809b33651087) |
 | Fri, 16 Jan 2026 15:32:08 GMT | Security best practices in Umami codebase — part 1.1 | Ramu Narasinga | [Read More](https://medium.com/p/ff42a9734828) |
 | Fri, 16 Jan 2026 15:27:30 GMT | Breaking E-Commerce: How Client-Side Price Manipulation Lets You Pay Whatever You Want | OopsSec Store | [Read More](https://medium.com/p/6b78b0fac2b9) |
 | Fri, 16 Jan 2026 15:20:09 GMT | “Bug Bounty Bootcamp #17: Mastering Blind XSS — Unleash the Hidden Predator That Devours Admin… | Aman Sharma | [Read More](https://medium.com/p/4d2753520212) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 Jan 2026 09:42:16 GMT | Top Home Safes Companies & How to Compare Them (2026) | ARJUN CK | [Read More](https://medium.com/p/3cd9f8feb297) |
 | Fri, 16 Jan 2026 09:37:30 GMT | API Playbook | Harshitaa Ashish | [Read More](https://medium.com/p/598b54fc219e) |
 | Fri, 16 Jan 2026 09:32:42 GMT | IPSec The Hidden Security Layer of the Internet | Bervice | [Read More](https://medium.com/p/4f03f12bb942) |
-| Fri, 16 Jan 2026 09:31:57 GMT | I Spent 40 Hours Comparing Security Training Vendors - Here’s Why Your “Cheap” Option Will Cost You… | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/3b20fceade12) |
-| Fri, 16 Jan 2026 09:25:31 GMT | Host Discovery | TheCyberNirvana | [Read More](https://medium.com/p/68d7c038fcdb) |
-| Fri, 16 Jan 2026 09:24:23 GMT | Red Teaming in the Cloud: How To Simulate Real Threats And Secure Your Infrastructure | Redfox Security | [Read More](https://medium.com/p/6d81516ee5f5) |
-| Fri, 16 Jan 2026 09:22:24 GMT | “Why Losing a Bag Feels Worse Than Losing Money” | Ramesh Raj | [Read More](https://medium.com/p/eebec548fd6f) |
-| Fri, 16 Jan 2026 09:17:00 GMT | Managed Security Service Provider Benefits for Firms | Sophia Clarke | [Read More](https://medium.com/p/94a188aa4449) |
-| Fri, 16 Jan 2026 09:13:26 GMT | Free Article: The Direct to SIEM Trap (Part 1 — Un-unified Schemas) | Michael B | [Read More](https://medium.com/p/5a5f91d7b232) |
-| Fri, 16 Jan 2026 09:11:14 GMT | Incident Response: Hands-On Lab 2 | Allen Ace | [Read More](https://medium.com/p/742bfde9f0a2) |
