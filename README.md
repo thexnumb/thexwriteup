@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 Jan 2026 10:16:01 GMT | Topics in Artificial Intelligence: Complete Guide | Manisha Chaudhary | [Read More](https://medium.com/p/c5a14c9af8d3) |
+| Fri, 16 Jan 2026 10:14:10 GMT | Why Total Security Solutions Are Essential in Today’s Rapidly Evolving World | Ciss India | [Read More](https://medium.com/p/c4d31b324d8f) |
+| Fri, 16 Jan 2026 10:00:33 GMT | Skeptiva Wins Startup of the Year: Why On-Edge AI is the Future of Anti-Phishing | Nils Hammar | [Read More](https://medium.com/p/18141a56f5fe) |
+| Fri, 16 Jan 2026 10:00:02 GMT | How to Build an Effective Cloud Incident Response Plan in KSA | Rahman Iqbal | [Read More](https://medium.com/p/b29145a87104) |
+| Fri, 16 Jan 2026 09:59:03 GMT | How Can UK Manufacturers Prepare for Defence Cyber Certification | Luke Appleby | [Read More](https://medium.com/p/7efa08711e8f) |
+| Fri, 16 Jan 2026 09:56:41 GMT | The Illusion Of Privacy In Web3 | Sisi | [Read More](https://medium.com/p/2c04a45f123a) |
+| Fri, 16 Jan 2026 09:55:15 GMT | The Most Dangerous Defensive Security Mistakes (And How to Fix Them Like a Pro) | Bugitrix | [Read More](https://medium.com/p/f332b66328d5) |
 | Fri, 16 Jan 2026 09:46:05 GMT | OT Cybersecurity Services in Saudi Arabia: Securing Industrial Systems Against Modern Cyber Threats | Invictux - OT Cybersecurity Solutions | [Read More](https://medium.com/p/eac041e6513c) |
+| Fri, 16 Jan 2026 09:42:16 GMT | Top Home Safes Companies & How to Compare Them (2026) | ARJUN CK | [Read More](https://medium.com/p/3cd9f8feb297) |
 | Fri, 16 Jan 2026 09:37:30 GMT | API Playbook | Harshitaa Ashish | [Read More](https://medium.com/p/598b54fc219e) |
 | Fri, 16 Jan 2026 09:32:42 GMT | IPSec The Hidden Security Layer of the Internet | Bervice | [Read More](https://medium.com/p/4f03f12bb942) |
 | Fri, 16 Jan 2026 09:31:57 GMT | I Spent 40 Hours Comparing Security Training Vendors - Here’s Why Your “Cheap” Option Will Cost You… | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/3b20fceade12) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 Jan 2026 02:47:06 GMT | THE CLARITY ACT | Prakruthi Rao Rambhatla | [Read More](https://medium.com/p/587603c78810) |
 | Fri, 16 Jan 2026 02:32:04 GMT | Phishing Attacks in 2026 - Latest Threats, Deepfake Scams, and How to Stay Protected | Succedence | [Read More](https://medium.com/p/e38cd8dc1b18) |
 | Fri, 16 Jan 2026 02:28:09 GMT | If You Had to Secure a Company With Only 5 Tools, What Would They Be? | Paritosh | [Read More](https://medium.com/p/83ef3e6220b3) |
-| Fri, 16 Jan 2026 02:17:44 GMT | The $75 Billion Ghost: Anatomy of the ‘Pig Butchering’ Scam | Dr. Hayder Al-Hasani | [Read More](https://medium.com/p/468126c385ca) |
-| Fri, 16 Jan 2026 02:16:46 GMT | Why Automation Is Becoming Essential for Ethereum and How Drosera Fits In | Hikay_smart | [Read More](https://medium.com/p/94c63f673252) |
-| Fri, 16 Jan 2026 02:16:05 GMT | Your Brain Needs a Firewall — Here’s What It Would Look Like | Kevin | [Read More](https://medium.com/p/87b46d292219) |
-| Fri, 16 Jan 2026 02:12:51 GMT | Speedtest.net Privacy Issue: Why Sharing Your Results Can Expose Your IP | Alanbiju | [Read More](https://medium.com/p/aedf54ce5f39) |
-| Fri, 16 Jan 2026 02:02:51 GMT | Why most AI agent guardrails fail in production [Part 2] | Veilfire | [Read More](https://medium.com/p/cdb87317358d) |
-| Fri, 16 Jan 2026 02:00:29 GMT | Day in the Life of a Support Engineer! | James "Chris" Robertson | [Read More](https://medium.com/p/746772518d98) |
-| Fri, 16 Jan 2026 01:43:00 GMT | A New Security Paradigm in the Quantum Era | Quantarium | [Read More](https://medium.com/p/e3295e7fabf1) |
-| Fri, 16 Jan 2026 01:33:30 GMT | Critical n8n vulnerability — CVE-2026–21858 (CVSS 10.0) | Michael Harms | [Read More](https://medium.com/p/c566f2b3e65d) |
