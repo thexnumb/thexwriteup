@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 Jan 2026 11:39:12 GMT | Informasi, Imitasi, dan Impresi. | Fauzan Shidiq | [Read More](https://medium.com/p/cb09d216865f) |
+| Fri, 16 Jan 2026 11:28:48 GMT | Cryptography as the Backbone of a Well-Architected SIEM | Azen | [Read More](https://medium.com/p/5850f88e3c9c) |
+| Fri, 16 Jan 2026 11:26:51 GMT | How I bypass Rate limit via IP rotation allow restriction bypass | JEETPAL | [Read More](https://medium.com/p/7af709f2d0fc) |
+| Fri, 16 Jan 2026 11:23:15 GMT | IDS & IPS Explained — How Hackers Detect, Evade, and Defend Against Intrusions (CEH Guide) | Cyber Wolf | [Read More](https://medium.com/p/1cc7681994ce) |
+| Fri, 16 Jan 2026 11:21:08 GMT | Firewall Fundamentals - TryHackMe Writeup (Notes) | Debmalya Mondal⚡ | [Read More](https://medium.com/p/d5e0a66395c5) |
+| Fri, 16 Jan 2026 11:20:04 GMT | Top Cybersecurity Companies Leading the Fight Against Modern Threats | SmartCLOUD Australia | [Read More](https://medium.com/p/44aa51fe1cbc) |
 | Fri, 16 Jan 2026 11:07:17 GMT | Acme Seals Launches Rhino Seal — Strength Meets Value | Michael | [Read More](https://medium.com/p/9de569361c2a) |
 | Fri, 16 Jan 2026 11:05:38 GMT | AI Governance for SOC Teams: Four Operational Questions You Can Answer This Week | Denny Roger | [Read More](https://medium.com/p/b461a5d520b2) |
 | Fri, 16 Jan 2026 11:02:30 GMT | Why Writing Without Emotion Feels Artificial | THE WRITER’S LENS | [Read More](https://medium.com/p/12ebb39bf7ca) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 Jan 2026 05:05:49 GMT | New year, new security habits | HackersPrey | [Read More](https://medium.com/p/ac9deb3d11c3) |
 | Fri, 16 Jan 2026 05:04:21 GMT | SOC as a Service: Meaning, Definition, and How It Works | Reghu Mohandas | [Read More](https://medium.com/p/336860769493) |
 | Fri, 16 Jan 2026 04:57:27 GMT | Deep Dive into Seccomp Filters on Linux Systems | Linux Guide | [Read More](https://medium.com/p/dc97758145d2) |
-| Fri, 16 Jan 2026 04:47:41 GMT | Return2Libc Technique (Binary Exploitation) | Aditya Bhos | [Read More](https://medium.com/p/acf02ab3b4ec) |
-| Fri, 16 Jan 2026 04:37:56 GMT | Mobile App Security Checklist Every Team Should Follow in 2026 | AcmeMinds | [Read More](https://medium.com/p/9faf3aa61ac0) |
-| Fri, 16 Jan 2026 04:32:58 GMT | 5 Protocol Reputation Signals Partners Notice First | Praxen | [Read More](https://medium.com/p/6b3afbdd0377) |
-| Fri, 16 Jan 2026 04:32:58 GMT | Helping Tech-Founders build Secure Businesses without Breaking the Bank | Aditya Anand | [Read More](https://medium.com/p/db6bb7cac210) |
-| Fri, 16 Jan 2026 04:32:00 GMT | Vulnerability Pipelines | Zach Griffin | [Read More](https://medium.com/p/43a90c514919) |
-| Fri, 16 Jan 2026 04:25:34 GMT | Over 9,000 Cyber Attacks Since 2022: New Study Reveals Strategies to Protect Digital Media… | Mr. Galal Homouda | [Read More](https://medium.com/p/5b5aae419914) |
