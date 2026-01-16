@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 Jan 2026 14:18:00 GMT | Basic Pentesting-TryHackMe | Asjamil | [Read More](https://medium.com/p/ae107dfca846) |
+| Fri, 16 Jan 2026 14:07:49 GMT | Do You Really Need a University Degree to Work in Tech | Praise John | [Read More](https://medium.com/p/74950bdaced5) |
+| Fri, 16 Jan 2026 14:02:37 GMT | CISSP Domain 6: Security Assessment and Testing - PART 1 | Pushpak Sharma | [Read More](https://medium.com/p/80c9704274e5) |
+| Fri, 16 Jan 2026 13:51:21 GMT | 解き方 PicoCTF Crack the Gate 1 | AmberHelm | [Read More](https://medium.com/p/611d3af300b6) |
+| Fri, 16 Jan 2026 13:44:06 GMT | Security Awareness Training Complete Guide 2026 | Keepnet Labs | [Read More](https://medium.com/p/719d2d604049) |
+| Fri, 16 Jan 2026 13:41:48 GMT | First Reverse Engineering Challenge | Abdellah Elyazidi | [Read More](https://medium.com/p/2542bebd1a91) |
+| Fri, 16 Jan 2026 13:36:35 GMT | A Beginner’s Guide to ISACA Certification Exams | Careertechnology | [Read More](https://medium.com/p/46eec015e651) |
+| Fri, 16 Jan 2026 13:34:25 GMT | Resident Evil Requiem: The Final Battle for Humanity’s Soul | Motherlandlove | [Read More](https://medium.com/p/ff6807871319) |
 | Fri, 16 Jan 2026 13:25:32 GMT | The Impact of AI on Software Development Services in 2026 | Ruhan Tiwari | [Read More](https://medium.com/p/1450a3140799) |
 | Fri, 16 Jan 2026 13:23:32 GMT | Bob’s Advance Garage Doors | Bob's Advance Garage Doors | [Read More](https://medium.com/p/d52fbb57be00) |
 | Fri, 16 Jan 2026 13:23:22 GMT | Membangun SIEM Well‑Architected: Penerapan Kriptografi di Proyek RKS PBL‑310 | Abdillah Farrel Syahrevi | [Read More](https://medium.com/p/ab2bcb0a6766) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 Jan 2026 08:06:42 GMT | Scanning & Enumeration | Mert Baykal | [Read More](https://medium.com/p/e0040bfa4691) |
 | Fri, 16 Jan 2026 08:06:31 GMT | Uncovering App Registrations in Azure: A Red Team Perspective | Sidhantchaurasiya | [Read More](https://medium.com/p/6d60ddd2cf8c) |
 | Fri, 16 Jan 2026 08:05:47 GMT | A Mother’s Love | Oluwhitney | [Read More](https://medium.com/p/5e4a26172532) |
-| Fri, 16 Jan 2026 08:03:51 GMT | When the Camera Looks into the Internet and the Internet Looks Back into the Camera | SmartVision | [Read More](https://medium.com/p/04d1466d639b) |
-| Fri, 16 Jan 2026 08:02:54 GMT | Part II: Rotation Receipts and CRL Proof | Raymon Epping | [Read More](https://medium.com/p/41b70e527a95) |
-| Fri, 16 Jan 2026 08:01:18 GMT | Advanced Safe AI Request Handling Architecture | Faisal Aziaz | [Read More](https://medium.com/p/6abe2709ebae) |
-| Fri, 16 Jan 2026 07:55:32 GMT | Dedicated Server with Unlimited Bandwidth: Everything You Need To Know | HostNOC | [Read More](https://medium.com/p/7a8061ec07d5) |
-| Fri, 16 Jan 2026 07:55:27 GMT | How the Capital One Breach Still Teaches Us Today: Lessons From a Real Attack and a Vulnerable Bank… | Chinedum Udenkwo | [Read More](https://medium.com/p/098bc209746d) |
-| Fri, 16 Jan 2026 07:48:02 GMT | OSI Layers & Cyber Attacks: Understanding Security from Physical Cables to Web Applications | Vijay Kumar Gupta | [Read More](https://medium.com/p/4c2158c67ee0) |
-| Fri, 16 Jan 2026 07:47:45 GMT | “Recording Completion” Feature: A Technical Solution for Ensuring Video Recording Integrity in… | Alice-Daxunview | [Read More](https://medium.com/p/a73d79a27702) |
-| Fri, 16 Jan 2026 07:39:27 GMT | Why Businesses Need Managed Security Services for Compliance and Audit Readiness | Gavin Ellis | [Read More](https://medium.com/p/e7d2f0a5436b) |
