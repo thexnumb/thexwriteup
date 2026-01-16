@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 Jan 2026 05:43:49 GMT | Shift Left Is Dead — Shift Smart: What Enterprises Should Actually Do | Aarsh Chaurasia | [Read More](https://medium.com/p/eab9a5287662) |
+| Fri, 16 Jan 2026 05:42:22 GMT | Real Flash Crypto 2026. | FLASH_CRYPTO | [Read More](https://medium.com/p/1e9a7b0588b2) |
+| Fri, 16 Jan 2026 05:35:26 GMT | SILPH: In-Memory Windows SAM/LSA Dumping with Indirect Syscalls — A Practical Deep Dive | Yua Mikanana | [Read More](https://medium.com/p/b59b1daa742d) |
+| Fri, 16 Jan 2026 05:26:54 GMT | Why SaaS Companies Are Turning to Mobile VMDR Tool? | Kartiksharma | [Read More](https://medium.com/p/648b0b8a368a) |
+| Fri, 16 Jan 2026 05:24:53 GMT | I Never Shared My Number — Then Why Am I Getting So Many Fraud Calls?” | Ankit rai | [Read More](https://medium.com/p/cb1a011ad1cb) |
+| Fri, 16 Jan 2026 05:24:25 GMT | Copilot’s “One-Click” Nightmare - The Daily Tech Digest: 16 January 2026 | Souren Stepanyan | [Read More](https://medium.com/p/bf70e87d9308) |
 | Fri, 16 Jan 2026 05:19:23 GMT | Potential for iPhone eKYC/Face ID Hacking: How “Passcode Shouldering,” “Selfies,” and a Few Minutes… | Ryu360 | [Read More](https://medium.com/p/a235ec87c19a) |
 | Fri, 16 Jan 2026 05:16:17 GMT | The Importance of Cybersecurity Awareness Training for Employees | Maxatlasofficial | [Read More](https://medium.com/p/f448ec84eb0b) |
 | Fri, 16 Jan 2026 05:12:31 GMT | 48,000 CVEs and Counting: Why Understanding Vulnerabilities Has Never Been More Critical | Nehan Wijayagunarathna | [Read More](https://medium.com/p/1697a5306c2a) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 Jan 2026 19:36:14 GMT | windows hashes ( for offensive security ) | Osec | [Read More](https://medium.com/p/ed12828dff08) |
 | Thu, 15 Jan 2026 19:36:06 GMT | GSEC Yolculuğu #3: Ağ Katmanının Kalbine İniş — IP ve ICMP | Ata Erdemir | [Read More](https://medium.com/p/2430eda4d452) |
 | Thu, 15 Jan 2026 19:35:12 GMT | How to Spot an AI-Generated Scam: Protect Yourself in the Digital Age | Cyberspace Bulletin | [Read More](https://medium.com/p/e608527b1e08) |
-| Thu, 15 Jan 2026 19:30:28 GMT | Antiscam.uz — founder’s project (infectuz) | infectuz | [Read More](https://medium.com/p/08d549a6e4c1) |
-| Thu, 15 Jan 2026 19:23:15 GMT | XOR’un Labirenti | Onurgorur | [Read More](https://medium.com/p/b179f36aa3e5) |
-| Thu, 15 Jan 2026 19:19:51 GMT | How to Protect Production Environment from Ransomware | Concourse Hosting | [Read More](https://medium.com/p/4f473c181a42) |
-| Thu, 15 Jan 2026 19:11:51 GMT | Secure file upload validation in .NET: A layered approach | Christian Haase | [Read More](https://medium.com/p/e77c9d9433e3) |
-| Thu, 15 Jan 2026 19:08:55 GMT | I’m About to Tell You Things You Were Never Supposed to Know About Yourself | KV | [Read More](https://medium.com/p/0251f1bc259a) |
-| Thu, 15 Jan 2026 19:07:57 GMT | In January 2026, cybersecurity firm Malwarebytes and various reports identified a dataset… | Abrar Alee | [Read More](https://medium.com/p/7212c3c539d3) |
