@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 Jan 2026 19:37:35 GMT | “Think Your Password Is Strong?’’ John the Ripper Might Disagree. | Leaving Nadir | [Read More](https://medium.com/p/1344bb6778c9) |
+| Fri, 16 Jan 2026 19:32:12 GMT | Some brilliant content that has to be fully taken with patience and learning.
+Amazing content! | Alborz Nazari | [Read More](https://medium.com/p/078ed8cdef4c) |
+| Fri, 16 Jan 2026 19:22:54 GMT | From SQL to Root: PostgreSQL (pg_write_server_files in | Oz | [Read More](https://medium.com/p/10732c237ec1) |
+| Fri, 16 Jan 2026 19:22:14 GMT | Security 101: The One HTTP Header That Stops Code Injection Attacks | Kunal Sinha | [Read More](https://medium.com/p/bca4de7920d5) |
+| Fri, 16 Jan 2026 19:18:50 GMT | Lab: SQL injection vulnerability allowing login bypass | Songül Kızılay Özügürler | [Read More](https://medium.com/p/cb52d007d51e) |
+| Fri, 16 Jan 2026 19:13:34 GMT | API Gateway Security | Prettycybergirl | [Read More](https://medium.com/p/2ef0582deaf9) |
 | Fri, 16 Jan 2026 19:06:45 GMT | AI-Powered Cybersecurity Threat Detection 2026: How Self-Learning Models Are Replacing Traditional… | Ashok Verma | [Read More](https://medium.com/p/8635bf39c976) |
 | Fri, 16 Jan 2026 19:06:44 GMT | Golden Ticket Attack Analysis: Total Dominion and Persistence in Active Directory | Esra Kayhan | [Read More](https://medium.com/p/deb53b367ebc) |
 | Fri, 16 Jan 2026 19:04:58 GMT | Understanding Active Directory as a Network Penetration Tester | Victor Aaron Winnercoz | [Read More](https://medium.com/p/a14df1aa7257) |
@@ -106,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 Jan 2026 12:08:49 GMT | The Case of the Curious Code: A Reverse Engineering Detective Story | VulnerabilityIntel | [Read More](https://medium.com/p/56e666d27d9f) |
 | Fri, 16 Jan 2026 12:06:49 GMT | Grubhub Data Breach: What Customers Need to Know About the Security Incident | Technijian | [Read More](https://medium.com/p/586edaa95a52) |
 | Fri, 16 Jan 2026 12:02:27 GMT | Networking Services / Protocols for Ethical Hackers & Cybersecurity | Mainekhacker | [Read More](https://medium.com/p/9e5d6383cd00) |
-| Fri, 16 Jan 2026 11:59:24 GMT | Agentic AI in Cybersecurity: The Good, The Bad, and The Really Bad | Rick Spair | [Read More](https://medium.com/p/4e8d9d5a1b14) |
-| Fri, 16 Jan 2026 11:56:57 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/7ad50d432da8) |
-| Fri, 16 Jan 2026 11:56:17 GMT | Protecting PII: Using Fernet and Vault to Secure User Data in Python | Felix E. | [Read More](https://medium.com/p/aff8d12da8ec) |
-| Fri, 16 Jan 2026 11:52:46 GMT | How DevOps automation accelerates product delivery | Medessa | [Read More](https://medium.com/p/1d90a4641bdb) |
-| Fri, 16 Jan 2026 11:51:31 GMT | Setup Game of Active Directory(GOAD) with Wazuh on Windows Host | Ayanyemi Joel | [Read More](https://medium.com/p/82375f773d6d) |
-| Fri, 16 Jan 2026 11:47:00 GMT | Mastering Session Control in Microsoft Defender for Cloud Apps | Defend Microsoft365 now! | [Read More](https://medium.com/p/ebbd5024070b) |
