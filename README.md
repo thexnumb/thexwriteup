@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 Jan 2026 22:16:55 GMT | The Dynamics of Iraq’s National Security: What Awaits the Next Government? | Dr. SAIFALDIN Z.  AL-DARRAJI | [Read More](https://medium.com/p/8a72afea4141) |
+| Fri, 16 Jan 2026 22:04:56 GMT | AI Security isn’t a New Problem. It’s the Same Problem we Keep Refusing to Solve. | Jeffrey W. Brown | [Read More](https://medium.com/p/e125b5d70d85) |
+| Fri, 16 Jan 2026 21:57:56 GMT | From Perimeter Security to Practical Zero Trust: A Real-World Approach for Modern Networks | Shahzad Ayub | [Read More](https://medium.com/p/dfeffd8b0e7f) |
+| Fri, 16 Jan 2026 21:55:44 GMT | Shadow Work, Discomfort, and Tarot | Ali Owl Rising | [Read More](https://medium.com/p/d782188238b4) |
+| Fri, 16 Jan 2026 21:46:36 GMT | Day 18 — Obfuscation: The Egg Shell File | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/a91f6cd42d0b) |
+| Fri, 16 Jan 2026 21:46:04 GMT | ThugSquad: Mysterious Russian Cybercrime Group | Jasper Chippindall | [Read More](https://medium.com/p/b4f57d65df81) |
+| Fri, 16 Jan 2026 21:43:26 GMT | Day 17 — CyberChef: Hoperation Save McSkidy | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/930e74f0931a) |
 | Fri, 16 Jan 2026 21:38:09 GMT | CloudGoat AWS Key Rotation | Spookz | [Read More](https://medium.com/p/afdd37114679) |
+| Fri, 16 Jan 2026 21:34:03 GMT | xozyl and AbuseFraud: Inside an Unknown Cybercrime Group | Jasper Chippindall | [Read More](https://medium.com/p/7da68e53b06d) |
 | Fri, 16 Jan 2026 21:33:11 GMT | Beyond Autonomy: The Role of Guardrails in Agentic AI | Rampart AI™ | [Read More](https://medium.com/p/aaaace097de4) |
 | Fri, 16 Jan 2026 21:26:50 GMT | If I Were Attacking Your Company, Here’s Where I’d Start | JSOC IT BLOG | [Read More](https://medium.com/p/16a3cd370972) |
 | Fri, 16 Jan 2026 21:20:50 GMT | The segmentation that works blueprint: what to decide first (so you don’t waste 12 months) | Fook Hwa Tan | [Read More](https://medium.com/p/9d8bdd088544) |
@@ -105,11 +113,3 @@ Amazing content! | Alborz Nazari | [Read More](https://medium.com/p/078ed8cdef4c
 | Fri, 16 Jan 2026 13:44:06 GMT | Security Awareness Training Complete Guide 2026 | Keepnet Labs | [Read More](https://medium.com/p/719d2d604049) |
 | Fri, 16 Jan 2026 13:41:48 GMT | First Reverse Engineering Challenge | Abdellah Elyazidi | [Read More](https://medium.com/p/2542bebd1a91) |
 | Fri, 16 Jan 2026 13:36:35 GMT | A Beginner’s Guide to ISACA Certification Exams | Careertechnology | [Read More](https://medium.com/p/46eec015e651) |
-| Fri, 16 Jan 2026 13:34:25 GMT | Resident Evil Requiem: The Final Battle for Humanity’s Soul | Motherlandlove | [Read More](https://medium.com/p/ff6807871319) |
-| Fri, 16 Jan 2026 13:25:32 GMT | The Impact of AI on Software Development Services in 2026 | Ruhan Tiwari | [Read More](https://medium.com/p/1450a3140799) |
-| Fri, 16 Jan 2026 13:23:32 GMT | Bob’s Advance Garage Doors | Bob's Advance Garage Doors | [Read More](https://medium.com/p/d52fbb57be00) |
-| Fri, 16 Jan 2026 13:23:22 GMT | Membangun SIEM Well‑Architected: Penerapan Kriptografi di Proyek RKS PBL‑310 | Abdillah Farrel Syahrevi | [Read More](https://medium.com/p/ab2bcb0a6766) |
-| Fri, 16 Jan 2026 13:21:28 GMT | The Hackers Labs Writeup — Mermelada (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/0345949a5460) |
-| Fri, 16 Jan 2026 13:21:13 GMT | PASS + GnuPG + Git | Bruce Wen | [Read More](https://medium.com/p/f847fa080c13) |
-| Fri, 16 Jan 2026 13:20:29 GMT | A Drone in the Snow: Beginner’s Guide to Forensics (with AI) | Nilesh Kumar | [Read More](https://medium.com/p/373e7fd63261) |
-| Fri, 16 Jan 2026 13:19:40 GMT | What are The Challenges and Considerations in Turnkey Projects | Blokotech | [Read More](https://medium.com/p/95ce3b9389a7) |
