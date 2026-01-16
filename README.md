@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 Jan 2026 17:14:21 GMT | Unpacking Microsoft Defender for Office 365: Day 5 SOC Triage—Email Authentication Deep Dive (SPF… | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/f19d5d1d350e) |
+| Fri, 16 Jan 2026 17:11:31 GMT | Security Isn’t Broken — Our Assumptions Are | Daniel Isaac E | [Read More](https://medium.com/p/278de0e19629) |
+| Fri, 16 Jan 2026 17:08:40 GMT | Upcoming Live Presentation: Five actionable password tips to improve your cyber-defenses | Karl Buhl | [Read More](https://medium.com/p/5ad68d3fefe5) |
+| Fri, 16 Jan 2026 17:05:12 GMT | Beyond the Buzzwords: A closer look at “Zero Trust” security | aditya | [Read More](https://medium.com/p/deb1e667a12c) |
+| Fri, 16 Jan 2026 17:02:30 GMT | The “Smart” Failure: When SOTA Models Lie to Please You | Ashutosh | [Read More](https://medium.com/p/2d2b4af244c5) |
+| Fri, 16 Jan 2026 16:59:04 GMT | Back to Basics I: Windows Processes, Authentication, and Investigations | Hariharan | [Read More](https://medium.com/p/b30462a78b2c) |
+| Fri, 16 Jan 2026 16:49:08 GMT | Cybersecurity News Review — Week 3 (2026) | Mladen Kirilov | [Read More](https://medium.com/p/8064ac299b32) |
+| Fri, 16 Jan 2026 16:46:58 GMT | How to Secure Your Home Wi-Fi for Free: A Step-by-Step Guide | Muneeb - Budget Tech Buddy | [Read More](https://medium.com/p/c6daf670e2d0) |
+| Fri, 16 Jan 2026 16:46:58 GMT | What Information Can You Extract From Just An IP Address | Abhay Parashar | [Read More](https://medium.com/p/e917f1dd464e) |
+| Fri, 16 Jan 2026 16:38:54 GMT | Why cyberattacks are successful: Understanding the real causes (Part 1 of 4) | Cordula Boeck | [Read More](https://medium.com/p/301f866dfa26) |
+| Fri, 16 Jan 2026 16:38:01 GMT | How Cursor AI Became My Full-Stack Development Partner: From Arduino Code to Visual Validation | Andrey Pautov | [Read More](https://medium.com/p/47fcccb9c845) |
+| Fri, 16 Jan 2026 16:35:26 GMT | Ethical Hacking: Turning Curiosity into Responsible Security Skills | Will Gall | [Read More](https://medium.com/p/2b5399c1949b) |
+| Fri, 16 Jan 2026 16:32:17 GMT | Email Scam With A Human Touch | Elizabeth Emerald | [Read More](https://medium.com/p/596ce0c4483a) |
+| Fri, 16 Jan 2026 16:22:47 GMT | Top AI Skills and Careers to Master in 2026 | Faraz Weerabangsa | [Read More](https://medium.com/p/30070fe9c3a5) |
 | Fri, 16 Jan 2026 16:12:20 GMT | QRadar Dominance in Modern SOC Architectures: Technical Superiority and Strategic Realities | Ali Okan Yüksel | [Read More](https://medium.com/p/5dc6e216b397) |
 | Fri, 16 Jan 2026 16:08:02 GMT | Agentic AI in penetration testing | Andrea Valle | [Read More](https://medium.com/p/da0f182d6fb0) |
 | Fri, 16 Jan 2026 16:01:54 GMT | How to Share Secrets Securely: One-Time Links That Self-Destruct | Dan Wagner | [Read More](https://medium.com/p/7fbd5caa99f6) |
@@ -84,6 +98,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 Jan 2026 11:28:48 GMT | Cryptography as the Backbone of a Well-Architected SIEM | Azen | [Read More](https://medium.com/p/5850f88e3c9c) |
 | Fri, 16 Jan 2026 11:26:51 GMT | How I bypass Rate limit via IP rotation allow restriction bypass | JEETPAL | [Read More](https://medium.com/p/7af709f2d0fc) |
 | Fri, 16 Jan 2026 11:23:15 GMT | IDS & IPS Explained — How Hackers Detect, Evade, and Defend Against Intrusions (CEH Guide) | Cyber Wolf | [Read More](https://medium.com/p/1cc7681994ce) |
+| Fri, 16 Jan 2026 11:22:07 GMT | Mengenal Istilah Vulnerabilty di Dunia Cyber | Reyza Maulana Putra | [Read More](https://medium.com/p/924aed6ca48d) |
 | Fri, 16 Jan 2026 11:21:08 GMT | Firewall Fundamentals - TryHackMe Writeup (Notes) | Debmalya Mondal⚡ | [Read More](https://medium.com/p/d5e0a66395c5) |
 | Fri, 16 Jan 2026 11:20:04 GMT | Top Cybersecurity Companies Leading the Fight Against Modern Threats | SmartCLOUD Australia | [Read More](https://medium.com/p/44aa51fe1cbc) |
 | Fri, 16 Jan 2026 11:07:17 GMT | Acme Seals Launches Rhino Seal — Strength Meets Value | Michael | [Read More](https://medium.com/p/9de569361c2a) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 Jan 2026 10:41:19 GMT | Supply Chain Attacks Are Deepening: The F5 Networks Case and Early Detection Through Open Source… | INTELON | [Read More](https://medium.com/p/2890fd498362) |
 | Fri, 16 Jan 2026 10:40:02 GMT | John the Ripper: Setup, Core Functions, and Real-World Use Cases | Little_Sun4lower | [Read More](https://medium.com/p/33fa1d9c2ba7) |
 | Fri, 16 Jan 2026 10:39:52 GMT | AI-Powered OSINT | INTELON | [Read More](https://medium.com/p/b7a04ca0d1b6) |
-| Fri, 16 Jan 2026 10:39:21 GMT | IITM’s Shaastra CTF 2026 — Finals | Navin Kumar | [Read More](https://medium.com/p/e4df4d801785) |
-| Fri, 16 Jan 2026 10:32:27 GMT | How Ranked Positional Weight Turns Shop Floor Chaos into Shop Floor Symphony with C# | Namir Sagheenanajar | [Read More](https://medium.com/p/4ef3872aaaa4) |
-| Fri, 16 Jan 2026 10:28:38 GMT | Rules of Engagement — Structuring a Legally Safe Pentest Contract | Sachin Sawant | [Read More](https://medium.com/p/9f2e971dfe32) |
-| Fri, 16 Jan 2026 10:19:44 GMT | How to Build a Modern Malware Analysis Lab (2026 Guide) | Pratik Gurav | [Read More](https://medium.com/p/bfb1cba76283) |
-| Fri, 16 Jan 2026 10:16:01 GMT | Topics in Artificial Intelligence: Complete Guide | Manisha Chaudhary | [Read More](https://medium.com/p/c5a14c9af8d3) |
-| Fri, 16 Jan 2026 10:14:10 GMT | Why Total Security Solutions Are Essential in Today’s Rapidly Evolving World | Ciss India | [Read More](https://medium.com/p/c4d31b324d8f) |
-| Fri, 16 Jan 2026 10:00:33 GMT | Skeptiva Wins Startup of the Year: Why On-Edge AI is the Future of Anti-Phishing | Nils Hammar | [Read More](https://medium.com/p/18141a56f5fe) |
-| Fri, 16 Jan 2026 10:00:02 GMT | How to Build an Effective Cloud Incident Response Plan in KSA | Rahman Iqbal | [Read More](https://medium.com/p/b29145a87104) |
-| Fri, 16 Jan 2026 09:59:03 GMT | How Can UK Manufacturers Prepare for Defence Cyber Certification | Luke Appleby | [Read More](https://medium.com/p/7efa08711e8f) |
-| Fri, 16 Jan 2026 09:56:41 GMT | The Illusion Of Privacy In Web3 | Sisi | [Read More](https://medium.com/p/2c04a45f123a) |
-| Fri, 16 Jan 2026 09:55:15 GMT | The Most Dangerous Defensive Security Mistakes (And How to Fix Them Like a Pro) | Bugitrix | [Read More](https://medium.com/p/f332b66328d5) |
-| Fri, 16 Jan 2026 09:46:05 GMT | OT Cybersecurity Services in Saudi Arabia: Securing Industrial Systems Against Modern Cyber Threats | Invictux - OT Cybersecurity Solutions | [Read More](https://medium.com/p/eac041e6513c) |
-| Fri, 16 Jan 2026 09:42:16 GMT | Top Home Safes Companies & How to Compare Them (2026) | ARJUN CK | [Read More](https://medium.com/p/3cd9f8feb297) |
-| Fri, 16 Jan 2026 09:37:30 GMT | API Playbook | Harshitaa Ashish | [Read More](https://medium.com/p/598b54fc219e) |
-| Fri, 16 Jan 2026 09:32:42 GMT | IPSec The Hidden Security Layer of the Internet | Bervice | [Read More](https://medium.com/p/4f03f12bb942) |
