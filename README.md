@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 Jan 2026 15:20:09 GMT | “Bug Bounty Bootcamp #17: Mastering Blind XSS — Unleash the Hidden Predator That Devours Admin… | Aman Sharma | [Read More](https://medium.com/p/4d2753520212) |
+| Fri, 16 Jan 2026 15:11:03 GMT | ApiFort API Recorder | Apifort | [Read More](https://medium.com/p/2944b10eb4a5) |
+| Fri, 16 Jan 2026 15:04:26 GMT | Identity isn’t a Component of Security. It is Security. | Turing Tower | [Read More](https://medium.com/p/9a9d3d50659b) |
+| Fri, 16 Jan 2026 15:03:47 GMT | When Account Recovery Windows Close Before Users Know They’re Compromised: A Roblox Case Study | Dustin | [Read More](https://medium.com/p/95d3f65899a8) |
+| Fri, 16 Jan 2026 15:02:14 GMT | Deepfake and Social Engineering 2.0: The New Era of Digital Deception | Emir Yusuf Nural | [Read More](https://medium.com/p/bb84fec48e7c) |
+| Fri, 16 Jan 2026 15:02:13 GMT | Cyber Briefing: 2026.01.16 | CyberMaterial | [Read More](https://medium.com/p/00e5b03bed2f) |
+| Fri, 16 Jan 2026 15:00:24 GMT | Basic Linux Terminal Commands | Aliyan Ali | [Read More](https://medium.com/p/9415016a57fc) |
+| Fri, 16 Jan 2026 14:56:42 GMT | Google Cybersecurity Professional Certificate Review: Honest Experience from a CS Student | Asad Sayyad | [Read More](https://medium.com/p/72bae4ab31f0) |
+| Fri, 16 Jan 2026 14:50:20 GMT | Reverse Engineering I²C EEPROM Configuration on a Hikvision PoE Switch | Aaronjjose | [Read More](https://medium.com/p/b14ca67c5d31) |
+| Fri, 16 Jan 2026 14:42:09 GMT | PBL 320 — Pengembangan Well-Architected Infrastructure SIEM dengan Agregasi Cyber Threat… | Defriyani Siregar | [Read More](https://medium.com/p/cc9c14d030a2) |
 | Fri, 16 Jan 2026 14:34:51 GMT | Journey into cyber security | cybersapho | [Read More](https://medium.com/p/09536aebbc21) |
 | Fri, 16 Jan 2026 14:32:00 GMT | Creating a Fake Update to Hack Any Device on the Network | Vignesh R | [Read More](https://medium.com/p/6a25aa6b6682) |
 | Fri, 16 Jan 2026 14:31:59 GMT | AI Is Finding Bugs Faster Than Humans — Is This the End of Manual Testing? | Code AI ML | [Read More](https://medium.com/p/4787fc549489) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 Jan 2026 09:11:14 GMT | Incident Response: Hands-On Lab 2 | Allen Ace | [Read More](https://medium.com/p/742bfde9f0a2) |
 | Fri, 16 Jan 2026 09:02:05 GMT | Domain Search to Alert Pipeline: Set Up 24/7 Leak Monitoring in 5 Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/9dd026a356a9) |
 | Fri, 16 Jan 2026 09:00:34 GMT | Techniques to Integrate Authentication and Authorization in Spring Boot Using Keycloak Admin Client… | Anh Trần Tuấn | [Read More](https://medium.com/p/d3ea01b4d18c) |
-| Fri, 16 Jan 2026 08:56:53 GMT | How Boards Really Decide During a Ransomware Attack | Motasem Hamdan | [Read More](https://medium.com/p/2bd700f15115) |
-| Fri, 16 Jan 2026 08:56:10 GMT | Security’s Silent Tax: Is Your Tooling Just “Attention Farming” Your Engineers? | PilotNathan | [Read More](https://medium.com/p/2dfea119e9ce) |
-| Fri, 16 Jan 2026 08:51:32 GMT | Novel Technique to Bypass Firewall (403 Bypass) | Rahul Singh Chauhan | [Read More](https://medium.com/p/4c1b1d31edb2) |
-| Fri, 16 Jan 2026 08:37:25 GMT | Security Is Not a Feature, It’s an Attitude: Why We Decided to Kill the Server | SAYCOIN | [Read More](https://medium.com/p/2fe05173fd76) |
-| Fri, 16 Jan 2026 08:34:49 GMT | Cloud Infrastructure Vulnerabilities in 2026: How Ethical Hackers Are Thinking Ahead | Bugitrix | [Read More](https://medium.com/p/9c08604c1053) |
-| Fri, 16 Jan 2026 08:30:35 GMT | Designing IAM Least Privilege for EC2: From Zero Access to Auditable Enforcement | Surya Naga Sesank Munukutla | [Read More](https://medium.com/p/e1bd12e55b8c) |
-| Fri, 16 Jan 2026 08:29:23 GMT | HTML Basics | Dev kaushik | [Read More](https://medium.com/p/dbfd8726142a) |
-| Fri, 16 Jan 2026 08:24:49 GMT | Hack The Box — Expressway Machine Walkthrough | SubhaDip | [Read More](https://medium.com/p/3847c308b339) |
-| Fri, 16 Jan 2026 08:21:54 GMT | Reconnaissance (Before the Breach: A Hacker’s First Move — Mastering Reconnaissance Techniques) | Mert Baykal | [Read More](https://medium.com/p/22a349483930) |
-| Fri, 16 Jan 2026 08:20:43 GMT | Ödeme Sistemlerinin Geleceği: Daha Hızlı, Daha Akıllı…Peki Daha Güvenli mi? | Alper Özyurt | [Read More](https://medium.com/p/89927e9507d6) |
