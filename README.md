@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 Jan 2026 10:44:28 GMT | Your Smart Safety Net: How AI is Protecting and Simplifying Web3 | STON.fi | [Read More](https://medium.com/p/6e3d5d7a4a4c) |
+| Fri, 16 Jan 2026 10:41:19 GMT | Supply Chain Attacks Are Deepening: The F5 Networks Case and Early Detection Through Open Source… | INTELON | [Read More](https://medium.com/p/2890fd498362) |
+| Fri, 16 Jan 2026 10:40:02 GMT | John the Ripper: Setup, Core Functions, and Real-World Use Cases | Little_Sun4lower | [Read More](https://medium.com/p/33fa1d9c2ba7) |
+| Fri, 16 Jan 2026 10:39:52 GMT | AI-Powered OSINT | INTELON | [Read More](https://medium.com/p/b7a04ca0d1b6) |
+| Fri, 16 Jan 2026 10:39:21 GMT | IITM’s Shaastra CTF 2026 — Finals | Navin Kumar | [Read More](https://medium.com/p/e4df4d801785) |
+| Fri, 16 Jan 2026 10:32:27 GMT | How Ranked Positional Weight Turns Shop Floor Chaos into Shop Floor Symphony with C# | Namir Sagheenanajar | [Read More](https://medium.com/p/4ef3872aaaa4) |
+| Fri, 16 Jan 2026 10:28:38 GMT | Rules of Engagement — Structuring a Legally Safe Pentest Contract | Sachin Sawant | [Read More](https://medium.com/p/9f2e971dfe32) |
+| Fri, 16 Jan 2026 10:19:44 GMT | How to Build a Modern Malware Analysis Lab (2026 Guide) | Pratik Gurav | [Read More](https://medium.com/p/bfb1cba76283) |
 | Fri, 16 Jan 2026 10:16:01 GMT | Topics in Artificial Intelligence: Complete Guide | Manisha Chaudhary | [Read More](https://medium.com/p/c5a14c9af8d3) |
 | Fri, 16 Jan 2026 10:14:10 GMT | Why Total Security Solutions Are Essential in Today’s Rapidly Evolving World | Ciss India | [Read More](https://medium.com/p/c4d31b324d8f) |
 | Fri, 16 Jan 2026 10:00:33 GMT | Skeptiva Wins Startup of the Year: Why On-Edge AI is the Future of Anti-Phishing | Nils Hammar | [Read More](https://medium.com/p/18141a56f5fe) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 Jan 2026 04:03:54 GMT | Farewell — THM Writeup | Avyukt Security | [Read More](https://medium.com/p/9fb5a7c50fe3) |
 | Fri, 16 Jan 2026 04:03:27 GMT | AI Agents Don’t Quite Work Yet, But Betting Against Them Is Short-Sighted | Ronald Kimmons | [Read More](https://medium.com/p/d3c0d8ed3b13) |
 | Fri, 16 Jan 2026 03:52:23 GMT | AI Asset Inventory: What Counts as an AI Asset? | Viren Choudhari | [Read More](https://medium.com/p/8e2ab5c7c4fd) |
-| Fri, 16 Jan 2026 03:39:30 GMT | How We Use AWS in Data Engineering (Part 2) | Amey Patki | [Read More](https://medium.com/p/e8495cb46cef) |
-| Fri, 16 Jan 2026 03:32:49 GMT | Why India Has Become the World’s Prime Target for Mobile Cyber Attacks | Deven Chhajed | [Read More](https://medium.com/p/93a7f8cd8c62) |
-| Fri, 16 Jan 2026 03:32:49 GMT | Introducing Meta Infinium — Innovation In Every Byte | Meta Infinium | [Read More](https://medium.com/p/284391badc8a) |
-| Fri, 16 Jan 2026 03:14:56 GMT | OverTheWire Bandit (Day 15): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/33888eb9eec5) |
-| Fri, 16 Jan 2026 02:57:01 GMT | Skip 4 years of theory — build real DevOps skills now | MUHAMMAD UZAIR | [Read More](https://medium.com/p/e063b42f6f81) |
-| Fri, 16 Jan 2026 02:47:06 GMT | THE CLARITY ACT | Prakruthi Rao Rambhatla | [Read More](https://medium.com/p/587603c78810) |
-| Fri, 16 Jan 2026 02:32:04 GMT | Phishing Attacks in 2026 - Latest Threats, Deepfake Scams, and How to Stay Protected | Succedence | [Read More](https://medium.com/p/e38cd8dc1b18) |
-| Fri, 16 Jan 2026 02:28:09 GMT | If You Had to Secure a Company With Only 5 Tools, What Would They Be? | Paritosh | [Read More](https://medium.com/p/83ef3e6220b3) |
