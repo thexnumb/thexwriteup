@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 Jan 2026 15:32:08 GMT | Security best practices in Umami codebase — part 1.1 | Ramu Narasinga | [Read More](https://medium.com/p/ff42a9734828) |
+| Fri, 16 Jan 2026 15:27:30 GMT | Breaking E-Commerce: How Client-Side Price Manipulation Lets You Pay Whatever You Want | OopsSec Store | [Read More](https://medium.com/p/6b78b0fac2b9) |
 | Fri, 16 Jan 2026 15:20:09 GMT | “Bug Bounty Bootcamp #17: Mastering Blind XSS — Unleash the Hidden Predator That Devours Admin… | Aman Sharma | [Read More](https://medium.com/p/4d2753520212) |
 | Fri, 16 Jan 2026 15:11:03 GMT | ApiFort API Recorder | Apifort | [Read More](https://medium.com/p/2944b10eb4a5) |
 | Fri, 16 Jan 2026 15:04:26 GMT | Identity isn’t a Component of Security. It is Security. | Turing Tower | [Read More](https://medium.com/p/9a9d3d50659b) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 Jan 2026 09:17:00 GMT | Managed Security Service Provider Benefits for Firms | Sophia Clarke | [Read More](https://medium.com/p/94a188aa4449) |
 | Fri, 16 Jan 2026 09:13:26 GMT | Free Article: The Direct to SIEM Trap (Part 1 — Un-unified Schemas) | Michael B | [Read More](https://medium.com/p/5a5f91d7b232) |
 | Fri, 16 Jan 2026 09:11:14 GMT | Incident Response: Hands-On Lab 2 | Allen Ace | [Read More](https://medium.com/p/742bfde9f0a2) |
-| Fri, 16 Jan 2026 09:02:05 GMT | Domain Search to Alert Pipeline: Set Up 24/7 Leak Monitoring in 5 Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/9dd026a356a9) |
-| Fri, 16 Jan 2026 09:00:34 GMT | Techniques to Integrate Authentication and Authorization in Spring Boot Using Keycloak Admin Client… | Anh Trần Tuấn | [Read More](https://medium.com/p/d3ea01b4d18c) |
