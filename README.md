@@ -12,9 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 Jan 2026 23:08:23 GMT | Mastering iOS Pentesting: Part 1 — Jailbreaking Your Devices (Dopamine & palera1n) | Faris Faisal 0xFF | [Read More](https://medium.com/p/200ae1dc7542) |
+| Fri, 16 Jan 2026 22:54:13 GMT | The Silicon Shield: Analyzing the U.S.-Israel | CCD-IS | [Read More](https://medium.com/p/6ac816f6fb70) |
+| Fri, 16 Jan 2026 22:51:08 GMT | 9 Cybersecurity Questions that Define a CISO | Matthew.Rosenquist | [Read More](https://medium.com/p/0cd5f5be1bc8) |
 | Fri, 16 Jan 2026 22:44:00 GMT | Healthcare Cybersecurity Is Different: Here’s Why Attacks Hurt More (and What Works) | Kaushik Muthukumaran | [Read More](https://medium.com/p/7db1aed98220) |
 | Fri, 16 Jan 2026 22:41:54 GMT | Host & Network Penetration Testing: Post-Exploitation CTF 1 | Khalil | [Read More](https://medium.com/p/fb7fa3e6714a) |
 | Fri, 16 Jan 2026 22:33:23 GMT | Why Tools Don’t Make You Dangerous in Cybersecurity | Sunera Ranasooriya | [Read More](https://medium.com/p/5c8d4bcadcfb) |
+| Fri, 16 Jan 2026 22:33:01 GMT | Common Security Issues in Node.js Applications | Volodymyr Loban | [Read More](https://medium.com/p/51d334d42223) |
 | Fri, 16 Jan 2026 22:22:40 GMT | All You Need to Know About Azure PIM | Manish Karki | [Read More](https://medium.com/p/6d93a9e44b4f) |
 | Fri, 16 Jan 2026 22:22:28 GMT | OpenAI's new professional worrier | Anastasios Antoniadis | [Read More](https://medium.com/p/7befea73f772) |
 | Fri, 16 Jan 2026 22:17:47 GMT | The API Explosion: 3 Steps to Hardening Your ‘Shadow APIs’ Before Attackers Do | John Muconto | [Read More](https://medium.com/p/5fc61e965895) |
@@ -109,7 +113,3 @@ Amazing content! | Alborz Nazari | [Read More](https://medium.com/p/078ed8cdef4c
 | Fri, 16 Jan 2026 14:32:00 GMT | Creating a Fake Update to Hack Any Device on the Network | Vignesh R | [Read More](https://medium.com/p/6a25aa6b6682) |
 | Fri, 16 Jan 2026 14:31:59 GMT | AI Is Finding Bugs Faster Than Humans — Is This the End of Manual Testing? | Code AI ML | [Read More](https://medium.com/p/4787fc549489) |
 | Fri, 16 Jan 2026 14:31:59 GMT | Family Secrets You Must Never Share — Protect Your Privacy from Betrayal | Daphne Laffer | [Read More](https://medium.com/p/34ebc5b2605a) |
-| Fri, 16 Jan 2026 14:30:36 GMT | A Week of Active Exploitation and Fake Exploits Trap | Loginsoft | [Read More](https://medium.com/p/840930ac0a12) |
-| Fri, 16 Jan 2026 14:27:48 GMT | How to Hack an Android Phone: What People Really Mean | Rebecca Smith | [Read More](https://medium.com/p/393319eaf302) |
-| Fri, 16 Jan 2026 14:18:00 GMT | Basic Pentesting-TryHackMe | Asjamil | [Read More](https://medium.com/p/ae107dfca846) |
-| Fri, 16 Jan 2026 14:16:02 GMT | Claude Code 2.1: The AI Tool That Writes 90% of Its Own Code | Delanoe Pirard | [Read More](https://medium.com/p/16e084fd5be0) |
