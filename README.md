@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 Jan 2026 07:16:48 GMT | The Real Marriage Killers: 3 Things That Hurt More Than Cheating | Daisy Lewis | [Read More](https://medium.com/p/c9ecfd1061bc) |
+| Fri, 16 Jan 2026 07:13:55 GMT | LLMs and GENAI Apps: Risk & Mitigations — Part 3: Sensitive Information Disclosure! | Nothing Cyber [NC] | [Read More](https://medium.com/p/c8820f8a52b2) |
+| Fri, 16 Jan 2026 07:08:27 GMT | The Corix Partners Friday Reading List — January 16, 2026 | JC Gaillard | [Read More](https://medium.com/p/eac185bf7ae1) |
+| Fri, 16 Jan 2026 06:56:40 GMT | Congress Just Got Serious About Cargo Theft. Here’s What the Industry Still Has to Fix. | Heesham Naji | [Read More](https://medium.com/p/82027c7ad7d0) |
+| Fri, 16 Jan 2026 06:55:34 GMT | Think You Own Your Car But The Car Knows Better | O. J. Okpabi | [Read More](https://medium.com/p/2d4301f38661) |
+| Fri, 16 Jan 2026 06:48:39 GMT | Security scanning of build/deployments/applications is not optional anymore | DARK_STATION | [Read More](https://medium.com/p/ec4a680e9bf1) |
+| Fri, 16 Jan 2026 06:40:46 GMT | What are the Duties of a Virtual Doorman? Best Practices | Doris William | [Read More](https://medium.com/p/dc837dba784f) |
+| Fri, 16 Jan 2026 06:39:38 GMT | Building REST APIs with a Security‑First IAM Design— Not “Just Add MFA” | Binod Mahto | [Read More](https://medium.com/p/3597b8b3e229) |
+| Fri, 16 Jan 2026 06:38:11 GMT | ประจำวันศุกร์ที่ 16 มกราคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/2f2251e85ff1) |
 | Fri, 16 Jan 2026 06:31:00 GMT | How AI-Powered Fast Network Scanners Are Changing Cyber Defense? | Meerab Khan | [Read More](https://medium.com/p/5f45317cfcae) |
 | Fri, 16 Jan 2026 06:29:15 GMT | How to Add Password Request to WordPress Protected Page [3 Easy Steps] | Hamza Hanif | [Read More](https://medium.com/p/3618b7f01fc7) |
 | Fri, 16 Jan 2026 06:14:56 GMT | Understanding CVE-2025–59466: Critical Node.js Denial of Service Vulnerability | Narendra Singh Chandrawat | [Read More](https://medium.com/p/6e84544ba02e) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 Jan 2026 21:11:34 GMT | A Subtle Merkle Tree Vulnerability in Bitcoin (And How It Was Fixed) | Thrishalmadasu | [Read More](https://medium.com/p/b41fa68aa283) |
 | Thu, 15 Jan 2026 21:04:09 GMT | Build A Computer That Never Fails When Everything Is On The Line | Geoffrey Wenger | [Read More](https://medium.com/p/9a83eb2e593b) |
 | Thu, 15 Jan 2026 20:54:59 GMT | Data Poisoning in Machine Learning: Why and How People Manipulate Training Data | Stephanie Kirmer | [Read More](https://medium.com/p/3c947e4825df) |
-| Thu, 15 Jan 2026 20:49:24 GMT | Hello every one I have Summarized Computer Architecture course on parts This is First Part : | Triple_H14 | [Read More](https://medium.com/p/f50808c9ce37) |
-| Thu, 15 Jan 2026 20:49:17 GMT | How to Improve Your Spring API with Rate Limiting. | Vijcoelho | [Read More](https://medium.com/p/d033018af323) |
-| Thu, 15 Jan 2026 20:42:32 GMT | A Hands-On Ethical Hacking Capstone: SQL Injection, Web Misconfigurations, SMB Exploits, and PCAP… | Edwin Atali | [Read More](https://medium.com/p/788999b432c8) |
-| Thu, 15 Jan 2026 20:29:29 GMT | How the Latest Banking Malware is Targeting Users | Princely Alafe | [Read More](https://medium.com/p/38f586a70336) |
-| Thu, 15 Jan 2026 20:27:39 GMT | The Death of Traditional Threat Intelligence (And What Comes Next) | Vito Rallo | [Read More](https://medium.com/p/0949750c3940) |
-| Thu, 15 Jan 2026 20:26:46 GMT | Cold water | Fabiana Tavares | [Read More](https://medium.com/p/3cdf876d5000) |
-| Thu, 15 Jan 2026 20:22:33 GMT | How Ransomware Attacks Spread and How to Protect Yourself | Princely Alafe | [Read More](https://medium.com/p/597d9813c281) |
-| Thu, 15 Jan 2026 20:19:20 GMT | Put It Out There | Maryanne Pope | [Read More](https://medium.com/p/2132e592d1ba) |
-| Thu, 15 Jan 2026 20:11:23 GMT | Building a Malware Analysis Lab: A Threat Hunter’s Perspective (Part 1) | Ajith Chandran | [Read More](https://medium.com/p/6fde2ee77f91) |
