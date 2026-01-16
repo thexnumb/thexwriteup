@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 Jan 2026 17:44:20 GMT | Why Cybersecurity? The Question That Changed My Tech Journey. | Gracié | [Read More](https://medium.com/p/3f5f785b490f) |
+| Fri, 16 Jan 2026 17:26:38 GMT | That S3 Bucket Leak? Totally Preventable | Nicholas Browdues | [Read More](https://medium.com/p/5df427997824) |
 | Fri, 16 Jan 2026 17:14:21 GMT | Unpacking Microsoft Defender for Office 365: Day 5 SOC Triage—Email Authentication Deep Dive (SPF… | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/f19d5d1d350e) |
 | Fri, 16 Jan 2026 17:11:31 GMT | Security Isn’t Broken — Our Assumptions Are | Daniel Isaac E | [Read More](https://medium.com/p/278de0e19629) |
 | Fri, 16 Jan 2026 17:08:40 GMT | Upcoming Live Presentation: Five actionable password tips to improve your cyber-defenses | Karl Buhl | [Read More](https://medium.com/p/5ad68d3fefe5) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 Jan 2026 10:51:30 GMT | Inside the Traffic: What I Learned Analyzing a Vulnerable Bank With Burp Suite and Wireshark | Chinedum Udenkwo | [Read More](https://medium.com/p/2f13d594035b) |
 | Fri, 16 Jan 2026 10:44:28 GMT | Your Smart Safety Net: How AI is Protecting and Simplifying Web3 | STON.fi | [Read More](https://medium.com/p/6e3d5d7a4a4c) |
 | Fri, 16 Jan 2026 10:41:19 GMT | Supply Chain Attacks Are Deepening: The F5 Networks Case and Early Detection Through Open Source… | INTELON | [Read More](https://medium.com/p/2890fd498362) |
-| Fri, 16 Jan 2026 10:40:02 GMT | John the Ripper: Setup, Core Functions, and Real-World Use Cases | Little_Sun4lower | [Read More](https://medium.com/p/33fa1d9c2ba7) |
-| Fri, 16 Jan 2026 10:39:52 GMT | AI-Powered OSINT | INTELON | [Read More](https://medium.com/p/b7a04ca0d1b6) |
