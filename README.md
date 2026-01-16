@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 Jan 2026 09:46:05 GMT | OT Cybersecurity Services in Saudi Arabia: Securing Industrial Systems Against Modern Cyber Threats | Invictux - OT Cybersecurity Solutions | [Read More](https://medium.com/p/eac041e6513c) |
+| Fri, 16 Jan 2026 09:37:30 GMT | API Playbook | Harshitaa Ashish | [Read More](https://medium.com/p/598b54fc219e) |
+| Fri, 16 Jan 2026 09:32:42 GMT | IPSec The Hidden Security Layer of the Internet | Bervice | [Read More](https://medium.com/p/4f03f12bb942) |
+| Fri, 16 Jan 2026 09:31:57 GMT | I Spent 40 Hours Comparing Security Training Vendors - Here’s Why Your “Cheap” Option Will Cost You… | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/3b20fceade12) |
+| Fri, 16 Jan 2026 09:25:31 GMT | Host Discovery | TheCyberNirvana | [Read More](https://medium.com/p/68d7c038fcdb) |
+| Fri, 16 Jan 2026 09:24:23 GMT | Red Teaming in the Cloud: How To Simulate Real Threats And Secure Your Infrastructure | Redfox Security | [Read More](https://medium.com/p/6d81516ee5f5) |
 | Fri, 16 Jan 2026 09:22:24 GMT | “Why Losing a Bag Feels Worse Than Losing Money” | Ramesh Raj | [Read More](https://medium.com/p/eebec548fd6f) |
 | Fri, 16 Jan 2026 09:17:00 GMT | Managed Security Service Provider Benefits for Firms | Sophia Clarke | [Read More](https://medium.com/p/94a188aa4449) |
 | Fri, 16 Jan 2026 09:13:26 GMT | Free Article: The Direct to SIEM Trap (Part 1 — Un-unified Schemas) | Michael B | [Read More](https://medium.com/p/5a5f91d7b232) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 Jan 2026 02:00:29 GMT | Day in the Life of a Support Engineer! | James "Chris" Robertson | [Read More](https://medium.com/p/746772518d98) |
 | Fri, 16 Jan 2026 01:43:00 GMT | A New Security Paradigm in the Quantum Era | Quantarium | [Read More](https://medium.com/p/e3295e7fabf1) |
 | Fri, 16 Jan 2026 01:33:30 GMT | Critical n8n vulnerability — CVE-2026–21858 (CVSS 10.0) | Michael Harms | [Read More](https://medium.com/p/c566f2b3e65d) |
-| Fri, 16 Jan 2026 01:32:58 GMT | The Digital Strategist: When Your Firewall Becomes Your Weakness | Steven Chin | [Read More](https://medium.com/p/f37532338c80) |
-| Fri, 16 Jan 2026 01:14:29 GMT | The Day “Trust Us” Died: Why AI Needs a Flight Recorder | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/3a9ca0b90c9d) |
-| Fri, 16 Jan 2026 00:15:55 GMT | CAMBIO DE PARADIGMA — Seguridad de las Comunicaciones en Sistemas Modernos | Fernando Flores Alvarado | [Read More](https://medium.com/p/b5429d16547d) |
-| Fri, 16 Jan 2026 00:12:48 GMT | When She Demanded Her Name on the Deed, This Mother-in-Law Ended the Engagement | Lilyana | [Read More](https://medium.com/p/5a2abb5c8de9) |
-| Fri, 16 Jan 2026 00:10:58 GMT | Your AI Feature Is Probably Vulnerable (And You Might Not Know It Yet) | Matt | [Read More](https://medium.com/p/ec8a77446ab9) |
-| Fri, 16 Jan 2026 00:02:50 GMT | Seguridad Web: Guía de Explotación de Métodos HTTP y Bypass de WAF | JPablo13 | [Read More](https://medium.com/p/a6e02f537826) |
