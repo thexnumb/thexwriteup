@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 Jan 2026 13:25:32 GMT | The Impact of AI on Software Development Services in 2026 | Ruhan Tiwari | [Read More](https://medium.com/p/1450a3140799) |
+| Fri, 16 Jan 2026 13:23:32 GMT | Bob’s Advance Garage Doors | Bob's Advance Garage Doors | [Read More](https://medium.com/p/d52fbb57be00) |
+| Fri, 16 Jan 2026 13:23:22 GMT | Membangun SIEM Well‑Architected: Penerapan Kriptografi di Proyek RKS PBL‑310 | Abdillah Farrel Syahrevi | [Read More](https://medium.com/p/ab2bcb0a6766) |
+| Fri, 16 Jan 2026 13:21:28 GMT | The Hackers Labs Writeup — Mermelada (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/0345949a5460) |
+| Fri, 16 Jan 2026 13:21:13 GMT | PASS + GnuPG + Git | Bruce Wen | [Read More](https://medium.com/p/f847fa080c13) |
+| Fri, 16 Jan 2026 13:20:29 GMT | A Drone in the Snow: Beginner’s Guide to Forensics (with AI) | Nilesh Kumar | [Read More](https://medium.com/p/373e7fd63261) |
+| Fri, 16 Jan 2026 13:19:40 GMT | What are The Challenges and Considerations in Turnkey Projects | Blokotech | [Read More](https://medium.com/p/95ce3b9389a7) |
+| Fri, 16 Jan 2026 13:18:32 GMT | Exposing the Swapzone malware before it ever reaches you | Mohammed Dief | [Read More](https://medium.com/p/869ce543723a) |
+| Fri, 16 Jan 2026 13:17:04 GMT | Cloud Security Without The Panic | Plaintext with Rich | [Read More](https://medium.com/p/fe42ef0d068f) |
+| Fri, 16 Jan 2026 13:17:03 GMT | When Capability Ships Before Governance | Christopher Caruso | [Read More](https://medium.com/p/30021c1846de) |
+| Fri, 16 Jan 2026 13:01:43 GMT | Exploiting Time-Sensitive Vulnerabilities: A Practical Walkthrough (PortSwigger Lab) | RootHawk | [Read More](https://medium.com/p/4be6ddd1789e) |
+| Fri, 16 Jan 2026 12:59:30 GMT | Burp Suite in 2026: Why It’s Still the Heart of Web Application Security | Niharika | [Read More](https://medium.com/p/3b2d54e5cc30) |
+| Fri, 16 Jan 2026 12:57:25 GMT | MasterTech CCTV Installation: Keeping Dubai Homes and Offices Secure | Mastertechnovision | [Read More](https://medium.com/p/fad3a5be4d22) |
+| Fri, 16 Jan 2026 12:56:50 GMT | What Boards Will Expect from Cyber Risk Assessments in 2026 | Graylog | [Read More](https://medium.com/p/e91558e27c83) |
+| Fri, 16 Jan 2026 12:55:44 GMT | Is Your Office Ready for Automation? Here’s How MasterTech Can Help in Dubai | Mastertechnovision | [Read More](https://medium.com/p/360c04ccd7b7) |
+| Fri, 16 Jan 2026 12:50:38 GMT | File Inclusion Tryhackme — (Tryhackme Challenge) | Panglimaizza | [Read More](https://medium.com/p/44a731560fea) |
+| Fri, 16 Jan 2026 12:49:16 GMT | Web Application Security: Hands-On Practice (Chapter 5 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/f28cc20be10d) |
 | Fri, 16 Jan 2026 12:42:56 GMT | How to start Cybersecurity ?? | S  a r v e s h | [Read More](https://medium.com/p/48076bce18f4) |
 | Fri, 16 Jan 2026 12:42:19 GMT | What “Securing Offensively” Means in the Real World | Digital Defense | [Read More](https://medium.com/p/ef9abfe969b6) |
 | Fri, 16 Jan 2026 12:36:32 GMT | OT Cyber Security Services in Ontario: Protecting Canada’s Critical Infrastructure | Arista Cyber | [Read More](https://medium.com/p/4b65cd6b1c17) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 Jan 2026 07:48:02 GMT | OSI Layers & Cyber Attacks: Understanding Security from Physical Cables to Web Applications | Vijay Kumar Gupta | [Read More](https://medium.com/p/4c2158c67ee0) |
 | Fri, 16 Jan 2026 07:47:45 GMT | “Recording Completion” Feature: A Technical Solution for Ensuring Video Recording Integrity in… | Alice-Daxunview | [Read More](https://medium.com/p/a73d79a27702) |
 | Fri, 16 Jan 2026 07:39:27 GMT | Why Businesses Need Managed Security Services for Compliance and Audit Readiness | Gavin Ellis | [Read More](https://medium.com/p/e7d2f0a5436b) |
-| Fri, 16 Jan 2026 07:28:06 GMT | Vulnerability Assessment & Penetration Testing in 2026: Why Businesses Can’t Afford Blind Spots… | Devarshi Acharya | [Read More](https://medium.com/p/fd6560f136d1) |
-| Fri, 16 Jan 2026 07:25:32 GMT | 7 Rental Scams in Malta (And How I Used Data to Spot Them) | Anselme X A Gouanou | [Read More](https://medium.com/p/b2f279be9b9f) |
-| Fri, 16 Jan 2026 07:16:48 GMT | The Real Marriage Killers: 3 Things That Hurt More Than Cheating | Daisy Lewis | [Read More](https://medium.com/p/c9ecfd1061bc) |
-| Fri, 16 Jan 2026 07:13:55 GMT | LLMs and GENAI Apps: Risk & Mitigations — Part 3: Sensitive Information Disclosure! | Nothing Cyber [NC] | [Read More](https://medium.com/p/c8820f8a52b2) |
-| Fri, 16 Jan 2026 07:08:27 GMT | The Corix Partners Friday Reading List — January 16, 2026 | JC Gaillard | [Read More](https://medium.com/p/eac185bf7ae1) |
-| Fri, 16 Jan 2026 06:56:40 GMT | Congress Just Got Serious About Cargo Theft. Here’s What the Industry Still Has to Fix. | Heesham Naji | [Read More](https://medium.com/p/82027c7ad7d0) |
-| Fri, 16 Jan 2026 06:55:34 GMT | Think You Own Your Car But The Car Knows Better | O. J. Okpabi | [Read More](https://medium.com/p/2d4301f38661) |
-| Fri, 16 Jan 2026 06:48:39 GMT | Security scanning of build/deployments/applications is not optional anymore | DARK_STATION | [Read More](https://medium.com/p/ec4a680e9bf1) |
-| Fri, 16 Jan 2026 06:40:46 GMT | What are the Duties of a Virtual Doorman? Best Practices | Doris William | [Read More](https://medium.com/p/dc837dba784f) |
-| Fri, 16 Jan 2026 06:39:38 GMT | Building REST APIs with a Security‑First IAM Design— Not “Just Add MFA” | Binod Mahto | [Read More](https://medium.com/p/3597b8b3e229) |
-| Fri, 16 Jan 2026 06:38:11 GMT | ประจำวันศุกร์ที่ 16 มกราคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/2f2251e85ff1) |
-| Fri, 16 Jan 2026 06:31:00 GMT | How AI-Powered Fast Network Scanners Are Changing Cyber Defense? | Meerab Khan | [Read More](https://medium.com/p/5f45317cfcae) |
-| Fri, 16 Jan 2026 06:29:15 GMT | How to Add Password Request to WordPress Protected Page [3 Easy Steps] | Hamza Hanif | [Read More](https://medium.com/p/3618b7f01fc7) |
-| Fri, 16 Jan 2026 06:14:56 GMT | Understanding CVE-2025–59466: Critical Node.js Denial of Service Vulnerability | Narendra Singh Chandrawat | [Read More](https://medium.com/p/6e84544ba02e) |
-| Fri, 16 Jan 2026 06:13:17 GMT | A Technical Assessment of the Ormix Architecture and Compliance | Certification Flow Laboratories | [Read More](https://medium.com/p/0c93d77d8eed) |
-| Fri, 16 Jan 2026 06:13:04 GMT | The Most Dangerous Thing in Cybersecurity Is Feeling “Done” | Fateyaly | [Read More](https://medium.com/p/e51e86bc890c) |
-| Fri, 16 Jan 2026 06:11:27 GMT | Hundreds of Wallets Drained: What Happened and What You Should Know | Lillian Hocker | [Read More](https://medium.com/p/67a649f1f585) |
