@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 Jan 2026 19:06:45 GMT | AI-Powered Cybersecurity Threat Detection 2026: How Self-Learning Models Are Replacing Traditional… | Ashok Verma | [Read More](https://medium.com/p/8635bf39c976) |
+| Fri, 16 Jan 2026 19:06:44 GMT | Golden Ticket Attack Analysis: Total Dominion and Persistence in Active Directory | Esra Kayhan | [Read More](https://medium.com/p/deb53b367ebc) |
+| Fri, 16 Jan 2026 19:04:58 GMT | Understanding Active Directory as a Network Penetration Tester | Victor Aaron Winnercoz | [Read More](https://medium.com/p/a14df1aa7257) |
+| Fri, 16 Jan 2026 19:01:58 GMT | Anti-Cheat in Gaming | Iram Jack | [Read More](https://medium.com/p/24fc18b7676b) |
+| Fri, 16 Jan 2026 18:45:29 GMT | CTF Starter Pack (Web) | Fl4g Hunt3r Project | [Read More](https://medium.com/p/178b201a132e) |
+| Fri, 16 Jan 2026 18:43:13 GMT | Identity Shield 2026: Day 1—Where Cybersecurity Meets Innovation (And I’m Already Hooked!) | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/7e36076fb5c4) |
+| Fri, 16 Jan 2026 18:36:11 GMT | Understanding SSRF: How Hackers Turn Your Server Into a Secret Proxy | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/f50fb65e612e) |
+| Fri, 16 Jan 2026 18:28:56 GMT | Conference Whispers: CES 2026 | Doreen Galli, Ph.D. MBA | [Read More](https://medium.com/p/babc6f41f3ea) |
+| Fri, 16 Jan 2026 18:27:23 GMT | Secure Kubernetes Deployment Guide (Self-Managed) — Part III | SOCFortress | [Read More](https://medium.com/p/32ad318d9952) |
 | Fri, 16 Jan 2026 18:22:41 GMT | Try Hack Me- Mnemonic CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/2c14acc0014b) |
 | Fri, 16 Jan 2026 18:08:11 GMT | Enterprise Cybersecurity Deployment Guide | Shandeep KM | [Read More](https://medium.com/p/87447f9f967c) |
 | Fri, 16 Jan 2026 18:03:41 GMT | Types of Security Camera | Alex Bryn | [Read More](https://medium.com/p/63d65156ae50) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 Jan 2026 11:52:46 GMT | How DevOps automation accelerates product delivery | Medessa | [Read More](https://medium.com/p/1d90a4641bdb) |
 | Fri, 16 Jan 2026 11:51:31 GMT | Setup Game of Active Directory(GOAD) with Wazuh on Windows Host | Ayanyemi Joel | [Read More](https://medium.com/p/82375f773d6d) |
 | Fri, 16 Jan 2026 11:47:00 GMT | Mastering Session Control in Microsoft Defender for Cloud Apps | Defend Microsoft365 now! | [Read More](https://medium.com/p/ebbd5024070b) |
-| Fri, 16 Jan 2026 11:39:12 GMT | Informasi, Imitasi, dan Impresi. | Fauzan Shidiq | [Read More](https://medium.com/p/cb09d216865f) |
-| Fri, 16 Jan 2026 11:28:48 GMT | Cryptography as the Backbone of a Well-Architected SIEM | Azen | [Read More](https://medium.com/p/5850f88e3c9c) |
-| Fri, 16 Jan 2026 11:26:51 GMT | How I bypass Rate limit via IP rotation allow restriction bypass | JEETPAL | [Read More](https://medium.com/p/7af709f2d0fc) |
-| Fri, 16 Jan 2026 11:23:15 GMT | IDS & IPS Explained — How Hackers Detect, Evade, and Defend Against Intrusions (CEH Guide) | Cyber Wolf | [Read More](https://medium.com/p/1cc7681994ce) |
-| Fri, 16 Jan 2026 11:22:07 GMT | Mengenal Istilah Vulnerabilty di Dunia Cyber | Reyza Maulana Putra | [Read More](https://medium.com/p/924aed6ca48d) |
-| Fri, 16 Jan 2026 11:21:08 GMT | Firewall Fundamentals - TryHackMe Writeup (Notes) | Debmalya Mondal⚡ | [Read More](https://medium.com/p/d5e0a66395c5) |
-| Fri, 16 Jan 2026 11:20:04 GMT | Top Cybersecurity Companies Leading the Fight Against Modern Threats | SmartCLOUD Australia | [Read More](https://medium.com/p/44aa51fe1cbc) |
-| Fri, 16 Jan 2026 11:07:17 GMT | Acme Seals Launches Rhino Seal — Strength Meets Value | Michael | [Read More](https://medium.com/p/9de569361c2a) |
-| Fri, 16 Jan 2026 11:05:38 GMT | AI Governance for SOC Teams: Four Operational Questions You Can Answer This Week | Denny Roger | [Read More](https://medium.com/p/b461a5d520b2) |
