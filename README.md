@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 Jan 2026 04:32:58 GMT | 5 Protocol Reputation Signals Partners Notice First | Praxen | [Read More](https://medium.com/p/6b3afbdd0377) |
+| Fri, 16 Jan 2026 04:32:00 GMT | Vulnerability Pipelines | Zach Griffin | [Read More](https://medium.com/p/43a90c514919) |
+| Fri, 16 Jan 2026 04:25:34 GMT | Over 9,000 Cyber Attacks Since 2022: New Study Reveals Strategies to Protect Digital Media… | Mr. Galal Homouda | [Read More](https://medium.com/p/5b5aae419914) |
+| Fri, 16 Jan 2026 04:24:26 GMT | Learning Cybersecurity (CEH) from Zero: Key Networking Protocols and Ports | Syber Security beginner. | [Read More](https://medium.com/p/23d5c669fadc) |
+| Fri, 16 Jan 2026 04:16:05 GMT | Two high-severity OpenCode flaws let websites write code to your machine - CVE-2026–22813… | Michael Harms | [Read More](https://medium.com/p/326c5293917d) |
+| Fri, 16 Jan 2026 04:16:03 GMT | CISSP Domain 5: Your Complete Guide to Acing Identity & Access Management | Pushpak Sharma | [Read More](https://medium.com/p/03b988e842b4) |
+| Fri, 16 Jan 2026 04:13:45 GMT | The Four Pillars of the AI-Ready Enterprise: From Data Modernization to Trusted Intelligence | Aroon Kumar | [Read More](https://medium.com/p/81e56837464f) |
+| Fri, 16 Jan 2026 04:03:54 GMT | Farewell — THM Writeup | Avyukt Security | [Read More](https://medium.com/p/9fb5a7c50fe3) |
+| Fri, 16 Jan 2026 04:03:27 GMT | AI Agents Don’t Quite Work Yet, But Betting Against Them Is Short-Sighted | Ronald Kimmons | [Read More](https://medium.com/p/d3c0d8ed3b13) |
+| Fri, 16 Jan 2026 03:52:23 GMT | AI Asset Inventory: What Counts as an AI Asset? | Viren Choudhari | [Read More](https://medium.com/p/8e2ab5c7c4fd) |
+| Fri, 16 Jan 2026 03:39:30 GMT | How We Use AWS in Data Engineering (Part 2) | Amey Patki | [Read More](https://medium.com/p/e8495cb46cef) |
+| Fri, 16 Jan 2026 03:32:49 GMT | Why India Has Become the World’s Prime Target for Mobile Cyber Attacks | Deven Chhajed | [Read More](https://medium.com/p/93a7f8cd8c62) |
+| Fri, 16 Jan 2026 03:32:49 GMT | Introducing Meta Infinium — Innovation In Every Byte | Meta Infinium | [Read More](https://medium.com/p/284391badc8a) |
 | Fri, 16 Jan 2026 03:14:56 GMT | OverTheWire Bandit (Day 15): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/33888eb9eec5) |
 | Fri, 16 Jan 2026 02:57:01 GMT | Skip 4 years of theory — build real DevOps skills now | MUHAMMAD UZAIR | [Read More](https://medium.com/p/e063b42f6f81) |
 | Fri, 16 Jan 2026 02:47:06 GMT | THE CLARITY ACT | Prakruthi Rao Rambhatla | [Read More](https://medium.com/p/587603c78810) |
@@ -27,6 +40,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 Jan 2026 01:33:30 GMT | Critical n8n vulnerability — CVE-2026–21858 (CVSS 10.0) | Michael Harms | [Read More](https://medium.com/p/c566f2b3e65d) |
 | Fri, 16 Jan 2026 01:32:58 GMT | The Digital Strategist: When Your Firewall Becomes Your Weakness | Steven Chin | [Read More](https://medium.com/p/f37532338c80) |
 | Fri, 16 Jan 2026 01:14:29 GMT | The Day “Trust Us” Died: Why AI Needs a Flight Recorder | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/3a9ca0b90c9d) |
+| Fri, 16 Jan 2026 00:15:55 GMT | CAMBIO DE PARADIGMA — Seguridad de las Comunicaciones en Sistemas Modernos | Fernando Flores Alvarado | [Read More](https://medium.com/p/b5429d16547d) |
 | Fri, 16 Jan 2026 00:12:48 GMT | When She Demanded Her Name on the Deed, This Mother-in-Law Ended the Engagement | Lilyana | [Read More](https://medium.com/p/5a2abb5c8de9) |
 | Fri, 16 Jan 2026 00:10:58 GMT | Your AI Feature Is Probably Vulnerable (And You Might Not Know It Yet) | Matt | [Read More](https://medium.com/p/ec8a77446ab9) |
 | Fri, 16 Jan 2026 00:02:50 GMT | Seguridad Web: Guía de Explotación de Métodos HTTP y Bypass de WAF | JPablo13 | [Read More](https://medium.com/p/a6e02f537826) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 Jan 2026 18:44:04 GMT | Why Immediate System Shutdowns Often Make Ransomware Incidents Worse | Cordula Boeck | [Read More](https://medium.com/p/36a80471fe16) |
 | Thu, 15 Jan 2026 18:41:13 GMT | CIA and AAA in Cybersecurity: Clear Definitions, Differences, Examples, and Tools | Dennis Duke | [Read More](https://medium.com/p/9e0bf61e744d) |
 | Thu, 15 Jan 2026 18:36:44 GMT | The ServiceNow AI Vulnerability: What Went Wrong and How to Secure Your AI Agents | Abdel Sy Fane | [Read More](https://medium.com/p/75c4040777f6) |
-| Thu, 15 Jan 2026 18:34:41 GMT | Building a USB Rubber Ducky with Arduino Leonardo with Cursor. | Andrey Pautov | [Read More](https://medium.com/p/a23dd64d1bbe) |
-| Thu, 15 Jan 2026 18:33:39 GMT | Why I Wiped the Crack and Went Back to “Community” by Choice (The Full Story) | Mohamed Hwedy | [Read More](https://medium.com/p/35c992397313) |
-| Thu, 15 Jan 2026 18:28:53 GMT | 10 Network Cabling Trends to Watch in 2026 | Jordanh | [Read More](https://medium.com/p/e31aacc7b370) |
-| Thu, 15 Jan 2026 18:19:14 GMT | The Complete Guide to Mobile Phone Data Recovery: What Really Happens When You Lose Your Data | Shamir Ajmir Khan | [Read More](https://medium.com/p/ab68de5e8a84) |
-| Thu, 15 Jan 2026 18:05:46 GMT | The AI “Red Pill”: The Rising Threat of LLM Jailbreaking | Lumae | [Read More](https://medium.com/p/4a2fb336990d) |
-| Thu, 15 Jan 2026 18:05:45 GMT | Your MCP Setup Is a Security Nightmare. Here’s the Fix. | Can Demir | [Read More](https://medium.com/p/76ae27c210e4) |
-| Thu, 15 Jan 2026 18:02:52 GMT | The First 5 Steps to Your Cybersecurity Career | Emir Yusuf Nural | [Read More](https://medium.com/p/7a60fc440f0e) |
-| Thu, 15 Jan 2026 18:00:03 GMT | Uploading Massive Files Without Breaking Your App: A Guide to Streaming & Chunking in JavaScript | Jitin Kayyala | [Read More](https://medium.com/p/d1185252bb46) |
-| Thu, 15 Jan 2026 17:58:45 GMT | CyberChef: The Basics - TryHackMe Writeup | Debmalya Mondal⚡ | [Read More](https://medium.com/p/4aaa2595d7ea) |
-| Thu, 15 Jan 2026 17:52:30 GMT | OWASP Juice Shop: Docker Üzerinde Kurulum (Windows) | Volkan Yılmaz | [Read More](https://medium.com/p/ed6ee6fd4221) |
-| Thu, 15 Jan 2026 17:50:48 GMT | Windows Management Instrumentation (WMI) | Fl4g Hunt3r Project | [Read More](https://medium.com/p/5d86c2dc4bcb) |
-| Thu, 15 Jan 2026 17:49:31 GMT | Static Malware Analysis — A Beginner-Friendly Step-by-Step Practical Guide | Jyothsna | [Read More](https://medium.com/p/dcbaec22fd7c) |
-| Thu, 15 Jan 2026 17:45:33 GMT | Supercharge Burp Suite: A Practical Mini‑Stack of Extensions for Bug Hunters | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/d488ea237b31) |
-| Thu, 15 Jan 2026 17:40:31 GMT | CTEM Phase 2: Discovery - The Age of Attack Surface Management | Sahil Malvi | [Read More](https://medium.com/p/7d8e87b0cdbd) |
