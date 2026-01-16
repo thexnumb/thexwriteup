@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 Jan 2026 12:42:56 GMT | How to start Cybersecurity ?? | S  a r v e s h | [Read More](https://medium.com/p/48076bce18f4) |
+| Fri, 16 Jan 2026 12:42:19 GMT | What “Securing Offensively” Means in the Real World | Digital Defense | [Read More](https://medium.com/p/ef9abfe969b6) |
+| Fri, 16 Jan 2026 12:36:32 GMT | OT Cyber Security Services in Ontario: Protecting Canada’s Critical Infrastructure | Arista Cyber | [Read More](https://medium.com/p/4b65cd6b1c17) |
+| Fri, 16 Jan 2026 12:26:59 GMT | Could a Career in Security Be Manchester’s Best-Kept Secret? | courses4u | [Read More](https://medium.com/p/83efa4df855f) |
+| Fri, 16 Jan 2026 12:21:49 GMT | Splunk vs. ELK in 2026: Why Your Choice Could Define Your SOC’s Survival | Misbah waraich | [Read More](https://medium.com/p/e6ea4f95059d) |
+| Fri, 16 Jan 2026 12:21:45 GMT | Why I Switched from Software Engineering to AppSec (And Why You Might Too) | Nabil Mouzouna نبيل مزونة | [Read More](https://medium.com/p/bb787f6d0ac7) |
+| Fri, 16 Jan 2026 12:12:36 GMT | Introduction to Artificial Intelligence: A Detailed Beginner-to-Advanced Guide | Manisha Chaudhary | [Read More](https://medium.com/p/c5323e20f040) |
+| Fri, 16 Jan 2026 12:09:40 GMT | The solution is to be in love with yourself. | Ihuoma ❤️ | [Read More](https://medium.com/p/43919b4f2a4d) |
+| Fri, 16 Jan 2026 12:08:49 GMT | The Case of the Curious Code: A Reverse Engineering Detective Story | VulnerabilityIntel | [Read More](https://medium.com/p/56e666d27d9f) |
+| Fri, 16 Jan 2026 12:06:49 GMT | Grubhub Data Breach: What Customers Need to Know About the Security Incident | Technijian | [Read More](https://medium.com/p/586edaa95a52) |
+| Fri, 16 Jan 2026 12:02:27 GMT | Networking Services / Protocols for Ethical Hackers & Cybersecurity | Mainekhacker | [Read More](https://medium.com/p/9e5d6383cd00) |
+| Fri, 16 Jan 2026 11:59:24 GMT | Agentic AI in Cybersecurity: The Good, The Bad, and The Really Bad | Rick Spair | [Read More](https://medium.com/p/4e8d9d5a1b14) |
+| Fri, 16 Jan 2026 11:56:57 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/7ad50d432da8) |
+| Fri, 16 Jan 2026 11:56:17 GMT | Protecting PII: Using Fernet and Vault to Secure User Data in Python | Felix E. | [Read More](https://medium.com/p/aff8d12da8ec) |
+| Fri, 16 Jan 2026 11:52:46 GMT | How DevOps automation accelerates product delivery | Medessa | [Read More](https://medium.com/p/1d90a4641bdb) |
+| Fri, 16 Jan 2026 11:51:31 GMT | Setup Game of Active Directory(GOAD) with Wazuh on Windows Host | Ayanyemi Joel | [Read More](https://medium.com/p/82375f773d6d) |
+| Fri, 16 Jan 2026 11:47:00 GMT | Mastering Session Control in Microsoft Defender for Cloud Apps | Defend Microsoft365 now! | [Read More](https://medium.com/p/ebbd5024070b) |
 | Fri, 16 Jan 2026 11:39:12 GMT | Informasi, Imitasi, dan Impresi. | Fauzan Shidiq | [Read More](https://medium.com/p/cb09d216865f) |
 | Fri, 16 Jan 2026 11:28:48 GMT | Cryptography as the Backbone of a Well-Architected SIEM | Azen | [Read More](https://medium.com/p/5850f88e3c9c) |
 | Fri, 16 Jan 2026 11:26:51 GMT | How I bypass Rate limit via IP rotation allow restriction bypass | JEETPAL | [Read More](https://medium.com/p/7af709f2d0fc) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 Jan 2026 06:13:17 GMT | A Technical Assessment of the Ormix Architecture and Compliance | Certification Flow Laboratories | [Read More](https://medium.com/p/0c93d77d8eed) |
 | Fri, 16 Jan 2026 06:13:04 GMT | The Most Dangerous Thing in Cybersecurity Is Feeling “Done” | Fateyaly | [Read More](https://medium.com/p/e51e86bc890c) |
 | Fri, 16 Jan 2026 06:11:27 GMT | Hundreds of Wallets Drained: What Happened and What You Should Know | Lillian Hocker | [Read More](https://medium.com/p/67a649f1f585) |
-| Fri, 16 Jan 2026 06:08:47 GMT | Why Your API Isn’t Ready for the AI Revolution (And It’s Not About the LLM) | Aravind S Narayan | [Read More](https://medium.com/p/109a9ceefb2b) |
-| Fri, 16 Jan 2026 06:03:12 GMT | Ransomware Prevention 101: What Really Works | Cloudbric VPN | [Read More](https://medium.com/p/0791d2e1a591) |
-| Fri, 16 Jan 2026 05:58:53 GMT | FortiNet Firewall Training Online: Master Policies, VPNs, NAT & Threat Protection | Network Kings | [Read More](https://medium.com/p/f65457116c11) |
-| Fri, 16 Jan 2026 05:47:10 GMT | Why Network Planning Matters More Than Router Brand | Ask IT Support | [Read More](https://medium.com/p/debac9b15638) |
-| Fri, 16 Jan 2026 05:43:49 GMT | Shift Left Is Dead — Shift Smart: What Enterprises Should Actually Do | Aarsh Chaurasia | [Read More](https://medium.com/p/eab9a5287662) |
-| Fri, 16 Jan 2026 05:42:22 GMT | Real Flash Crypto 2026. | FLASH_CRYPTO | [Read More](https://medium.com/p/1e9a7b0588b2) |
-| Fri, 16 Jan 2026 05:35:26 GMT | SILPH: In-Memory Windows SAM/LSA Dumping with Indirect Syscalls — A Practical Deep Dive | Yua Mikanana | [Read More](https://medium.com/p/b59b1daa742d) |
-| Fri, 16 Jan 2026 05:26:54 GMT | Why SaaS Companies Are Turning to Mobile VMDR Tool? | Kartiksharma | [Read More](https://medium.com/p/648b0b8a368a) |
-| Fri, 16 Jan 2026 05:24:53 GMT | I Never Shared My Number — Then Why Am I Getting So Many Fraud Calls?” | Ankit rai | [Read More](https://medium.com/p/cb1a011ad1cb) |
-| Fri, 16 Jan 2026 05:24:25 GMT | Copilot’s “One-Click” Nightmare - The Daily Tech Digest: 16 January 2026 | Souren Stepanyan | [Read More](https://medium.com/p/bf70e87d9308) |
-| Fri, 16 Jan 2026 05:19:23 GMT | Potential for iPhone eKYC/Face ID Hacking: How “Passcode Shouldering,” “Selfies,” and a Few Minutes… | Ryu360 | [Read More](https://medium.com/p/a235ec87c19a) |
-| Fri, 16 Jan 2026 05:16:17 GMT | The Importance of Cybersecurity Awareness Training for Employees | Maxatlasofficial | [Read More](https://medium.com/p/f448ec84eb0b) |
-| Fri, 16 Jan 2026 05:12:31 GMT | 48,000 CVEs and Counting: Why Understanding Vulnerabilities Has Never Been More Critical | Nehan Wijayagunarathna | [Read More](https://medium.com/p/1697a5306c2a) |
-| Fri, 16 Jan 2026 05:07:04 GMT | The State of Industry 4.0 in 2026: What’s Next for Manufacturing? | SYNCTEL TECHNOLOGIES PRIVATE LIMITED | [Read More](https://medium.com/p/f871ea75e0e9) |
-| Fri, 16 Jan 2026 05:05:49 GMT | New year, new security habits | HackersPrey | [Read More](https://medium.com/p/ac9deb3d11c3) |
-| Fri, 16 Jan 2026 05:04:21 GMT | SOC as a Service: Meaning, Definition, and How It Works | Reghu Mohandas | [Read More](https://medium.com/p/336860769493) |
-| Fri, 16 Jan 2026 04:57:27 GMT | Deep Dive into Seccomp Filters on Linux Systems | Linux Guide | [Read More](https://medium.com/p/dc97758145d2) |
