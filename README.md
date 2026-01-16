@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 Jan 2026 03:14:56 GMT | OverTheWire Bandit (Day 15): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/33888eb9eec5) |
+| Fri, 16 Jan 2026 02:57:01 GMT | Skip 4 years of theory — build real DevOps skills now | MUHAMMAD UZAIR | [Read More](https://medium.com/p/e063b42f6f81) |
+| Fri, 16 Jan 2026 02:47:06 GMT | THE CLARITY ACT | Prakruthi Rao Rambhatla | [Read More](https://medium.com/p/587603c78810) |
+| Fri, 16 Jan 2026 02:32:04 GMT | Phishing Attacks in 2026 - Latest Threats, Deepfake Scams, and How to Stay Protected | Succedence | [Read More](https://medium.com/p/e38cd8dc1b18) |
+| Fri, 16 Jan 2026 02:28:09 GMT | If You Had to Secure a Company With Only 5 Tools, What Would They Be? | Paritosh | [Read More](https://medium.com/p/83ef3e6220b3) |
+| Fri, 16 Jan 2026 02:17:44 GMT | The $75 Billion Ghost: Anatomy of the ‘Pig Butchering’ Scam | Dr. Hayder Al-Hasani | [Read More](https://medium.com/p/468126c385ca) |
+| Fri, 16 Jan 2026 02:16:46 GMT | Why Automation Is Becoming Essential for Ethereum and How Drosera Fits In | Hikay_smart | [Read More](https://medium.com/p/94c63f673252) |
+| Fri, 16 Jan 2026 02:16:05 GMT | Your Brain Needs a Firewall — Here’s What It Would Look Like | Kevin | [Read More](https://medium.com/p/87b46d292219) |
+| Fri, 16 Jan 2026 02:12:51 GMT | Speedtest.net Privacy Issue: Why Sharing Your Results Can Expose Your IP | Alanbiju | [Read More](https://medium.com/p/aedf54ce5f39) |
+| Fri, 16 Jan 2026 02:02:51 GMT | Why most AI agent guardrails fail in production [Part 2] | Veilfire | [Read More](https://medium.com/p/cdb87317358d) |
+| Fri, 16 Jan 2026 02:00:29 GMT | Day in the Life of a Support Engineer! | James "Chris" Robertson | [Read More](https://medium.com/p/746772518d98) |
 | Fri, 16 Jan 2026 01:43:00 GMT | A New Security Paradigm in the Quantum Era | Quantarium | [Read More](https://medium.com/p/e3295e7fabf1) |
 | Fri, 16 Jan 2026 01:33:30 GMT | Critical n8n vulnerability — CVE-2026–21858 (CVSS 10.0) | Michael Harms | [Read More](https://medium.com/p/c566f2b3e65d) |
 | Fri, 16 Jan 2026 01:32:58 GMT | The Digital Strategist: When Your Firewall Becomes Your Weakness | Steven Chin | [Read More](https://medium.com/p/f37532338c80) |
@@ -44,6 +55,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 Jan 2026 21:52:47 GMT | Hackthebox Module: Password Attacks - Windows Credential Manager Exploitation | Sunain | [Read More](https://medium.com/p/dea98865b381) |
 | Thu, 15 Jan 2026 21:36:42 GMT | How do I feel about finding bugs as my meal? | Imran Niaz | [Read More](https://medium.com/p/0e88a6a32bec) |
 | Thu, 15 Jan 2026 21:33:40 GMT | Cybersecurity for Business Owners in 2026: A Practical Guide to Protecting Your Data | RayasWeb | [Read More](https://medium.com/p/cb5a2b4efc4b) |
+| Thu, 15 Jan 2026 21:31:56 GMT | The Real Attack Surface of Code-Executing LLMs: A Gemini Code Execution Case Study | Ali  Kandemir | [Read More](https://medium.com/p/7dddb91507a0) |
 | Thu, 15 Jan 2026 21:31:52 GMT | The Real Attack Surface of Code-Executing LLMs: A Gemini Code Execution Case Study | Ömer Bilgin Bilgili | [Read More](https://medium.com/p/467767c324f4) |
 | Thu, 15 Jan 2026 21:29:22 GMT | Local Compute, Local Action: Building a UI Agent in the Basement | Diogoneno | [Read More](https://medium.com/p/4872bf7b76a3) |
 | Thu, 15 Jan 2026 21:27:52 GMT | Decentr and the Future of Privacy: Why Decentralized VPNs Matter Now | Decentr | [Read More](https://medium.com/p/37470d565f01) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 Jan 2026 17:49:31 GMT | Static Malware Analysis — A Beginner-Friendly Step-by-Step Practical Guide | Jyothsna | [Read More](https://medium.com/p/dcbaec22fd7c) |
 | Thu, 15 Jan 2026 17:45:33 GMT | Supercharge Burp Suite: A Practical Mini‑Stack of Extensions for Bug Hunters | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/d488ea237b31) |
 | Thu, 15 Jan 2026 17:40:31 GMT | CTEM Phase 2: Discovery - The Age of Attack Surface Management | Sahil Malvi | [Read More](https://medium.com/p/7d8e87b0cdbd) |
-| Thu, 15 Jan 2026 17:37:18 GMT | Asking for Help (Va’era) | Rabbi Menachem Creditor | [Read More](https://medium.com/p/1368273eb088) |
-| Thu, 15 Jan 2026 17:35:16 GMT | For someone who did not try, I always knew I wanted more. | deersigh | [Read More](https://medium.com/p/bc9c173a7feb) |
-| Thu, 15 Jan 2026 17:32:51 GMT | API Security, Fast and Slow: How I Stopped Chasing Checklists and Started Thinking Like an Attacker | Morgan Ellis | [Read More](https://medium.com/p/f583d2bc122c) |
-| Thu, 15 Jan 2026 17:30:47 GMT | History of the Camera | Alex Bryn | [Read More](https://medium.com/p/a15d9c3aa362) |
-| Thu, 15 Jan 2026 17:25:38 GMT | SOC Level 1 - Junior Security Analyst Intro - Walkthrough - by | Mayank Shukla | [Read More](https://medium.com/p/6504524fda2a) |
-| Thu, 15 Jan 2026 17:21:33 GMT | Your Google Account Is the Master Key to Your Digital Life: Here’s How to Protect It | Dr. Ernesto Lee | [Read More](https://medium.com/p/53d5924bc819) |
-| Thu, 15 Jan 2026 17:18:40 GMT | How to Program a Garage Door Keypad: Step-by-Step Guide | Up & Down Garage Door Services | [Read More](https://medium.com/p/f14fe52083c6) |
-| Thu, 15 Jan 2026 17:12:34 GMT | Sunset: Nightfall Vulnhub Walkthrough | Ankit | [Read More](https://medium.com/p/690724ec99fd) |
-| Thu, 15 Jan 2026 17:11:41 GMT | Front-End Security Risks and Defense Approaches in Web Applications | Huseyn Farid | [Read More](https://medium.com/p/45efc7743cf7) |
-| Thu, 15 Jan 2026 17:08:19 GMT | How a Simple Misconfiguration in the Invitation Link Led Me to Full Account Takeover | sudo | [Read More](https://medium.com/p/e56d84e9e9f1) |
-| Thu, 15 Jan 2026 17:04:36 GMT | I Evaluated Enterprise Auth for a SaaS App and Here’s My Honest Take on WorkOS AuthKit + Radar | Andrew Baisden | [Read More](https://medium.com/p/57405d0ecd1e) |
-| Thu, 15 Jan 2026 17:03:58 GMT | The Complete Guide to Becoming a Cybersecurity Writer (Updated for 2026) | Taimur Ijlal | [Read More](https://medium.com/p/eae0d767b068) |
