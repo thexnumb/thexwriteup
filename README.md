@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 Jan 2026 08:30:35 GMT | Designing IAM Least Privilege for EC2: From Zero Access to Auditable Enforcement | Surya Naga Sesank Munukutla | [Read More](https://medium.com/p/e1bd12e55b8c) |
+| Fri, 16 Jan 2026 08:24:49 GMT | Hack The Box — Expressway Machine Walkthrough | SubhaDip | [Read More](https://medium.com/p/3847c308b339) |
+| Fri, 16 Jan 2026 08:21:54 GMT | Reconnaissance (Before the Breach: A Hacker’s First Move — Mastering Reconnaissance Techniques) | Mert Baykal | [Read More](https://medium.com/p/22a349483930) |
+| Fri, 16 Jan 2026 08:20:43 GMT | Ödeme Sistemlerinin Geleceği: Daha Hızlı, Daha Akıllı…Peki Daha Güvenli mi? | Alper Özyurt | [Read More](https://medium.com/p/89927e9507d6) |
+| Fri, 16 Jan 2026 08:16:50 GMT | Docker Isn’t Secure by Default, Here’s Why Podman Wins | Mehdi BAFDIL | [Read More](https://medium.com/p/1bf1cf2feaee) |
+| Fri, 16 Jan 2026 08:16:49 GMT | Shocking Data Leaked: 40% of iPhone Users are Refusing to Leave iOS 18. | apple inside | [Read More](https://medium.com/p/8f6fd343e836) |
+| Fri, 16 Jan 2026 08:08:17 GMT | Kali Linux, Web Hardening, and Risk Analysis: A Full‑Stack Cybersecurity Exercise | Chinedum Udenkwo | [Read More](https://medium.com/p/85a83f71422c) |
+| Fri, 16 Jan 2026 08:06:50 GMT | The Silent Death of Your WordPress Site: Why Maintenance is Your Business Insurance in 2026 | Kozakweb | [Read More](https://medium.com/p/1c487204b977) |
+| Fri, 16 Jan 2026 08:06:42 GMT | Scanning & Enumeration | Mert Baykal | [Read More](https://medium.com/p/e0040bfa4691) |
+| Fri, 16 Jan 2026 08:06:31 GMT | Uncovering App Registrations in Azure: A Red Team Perspective | Sidhantchaurasiya | [Read More](https://medium.com/p/6d60ddd2cf8c) |
+| Fri, 16 Jan 2026 08:05:47 GMT | A Mother’s Love | Oluwhitney | [Read More](https://medium.com/p/5e4a26172532) |
+| Fri, 16 Jan 2026 08:03:51 GMT | When the Camera Looks into the Internet and the Internet Looks Back into the Camera | SmartVision | [Read More](https://medium.com/p/04d1466d639b) |
+| Fri, 16 Jan 2026 08:02:54 GMT | Part II: Rotation Receipts and CRL Proof | Raymon Epping | [Read More](https://medium.com/p/41b70e527a95) |
+| Fri, 16 Jan 2026 08:01:18 GMT | Advanced Safe AI Request Handling Architecture | Faisal Aziaz | [Read More](https://medium.com/p/6abe2709ebae) |
+| Fri, 16 Jan 2026 07:55:32 GMT | Dedicated Server with Unlimited Bandwidth: Everything You Need To Know | HostNOC | [Read More](https://medium.com/p/7a8061ec07d5) |
+| Fri, 16 Jan 2026 07:55:27 GMT | How the Capital One Breach Still Teaches Us Today: Lessons From a Real Attack and a Vulnerable Bank… | Chinedum Udenkwo | [Read More](https://medium.com/p/098bc209746d) |
+| Fri, 16 Jan 2026 07:48:02 GMT | OSI Layers & Cyber Attacks: Understanding Security from Physical Cables to Web Applications | Vijay Kumar Gupta | [Read More](https://medium.com/p/4c2158c67ee0) |
+| Fri, 16 Jan 2026 07:47:45 GMT | “Recording Completion” Feature: A Technical Solution for Ensuring Video Recording Integrity in… | Alice-Daxunview | [Read More](https://medium.com/p/a73d79a27702) |
+| Fri, 16 Jan 2026 07:39:27 GMT | Why Businesses Need Managed Security Services for Compliance and Audit Readiness | Gavin Ellis | [Read More](https://medium.com/p/e7d2f0a5436b) |
 | Fri, 16 Jan 2026 07:28:06 GMT | Vulnerability Assessment & Penetration Testing in 2026: Why Businesses Can’t Afford Blind Spots… | Devarshi Acharya | [Read More](https://medium.com/p/fd6560f136d1) |
 | Fri, 16 Jan 2026 07:25:32 GMT | 7 Rental Scams in Malta (And How I Used Data to Spot Them) | Anselme X A Gouanou | [Read More](https://medium.com/p/b2f279be9b9f) |
 | Fri, 16 Jan 2026 07:16:48 GMT | The Real Marriage Killers: 3 Things That Hurt More Than Cheating | Daisy Lewis | [Read More](https://medium.com/p/c9ecfd1061bc) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 Jan 2026 23:04:44 GMT | Custom DLL Loading Technique in Windows | S12 - 0x12Dark Development | [Read More](https://medium.com/p/c84ba0496a6f) |
 | Thu, 15 Jan 2026 23:03:22 GMT | The Identity Apocalypse: How Deepfakes Redefined Truth in 2026 | Mahnoor | [Read More](https://medium.com/p/8f0bfe97f207) |
 | Thu, 15 Jan 2026 22:50:59 GMT | Browse Faster, Safer, Smarter with NordVPN | Genelia | [Read More](https://medium.com/p/8767b3625ae2) |
-| Thu, 15 Jan 2026 22:47:29 GMT | Out the Back Window | Barbara Carter | [Read More](https://medium.com/p/437c643d70dc) |
-| Thu, 15 Jan 2026 22:43:04 GMT | AI Agents Are Becoming Privilege Escalation Paths | Cyber-AppSec | [Read More](https://medium.com/p/4f072e3741b4) |
-| Thu, 15 Jan 2026 22:41:09 GMT | Eurail Investigates Security Incident Involving Potential Exfiltration of Customer Data | RealSec.io | [Read More](https://medium.com/p/6f128482a9e8) |
-| Thu, 15 Jan 2026 22:33:34 GMT | INNER SADNESS #4 | Isaac | [Read More](https://medium.com/p/3f7036c2a59b) |
-| Thu, 15 Jan 2026 22:25:21 GMT | How Strong Is North Korea, Really? | Uriya | [Read More](https://medium.com/p/2d6ccfbfe983) |
-| Thu, 15 Jan 2026 22:24:49 GMT | ​I was sitting in a Starbucks at 2:00 AM, staring at a screen until my eyes bled. | Chinedu adinuso | [Read More](https://medium.com/p/96c7a74be730) |
-| Thu, 15 Jan 2026 22:22:10 GMT | Categories of Controls in Cybersecurity: A Practical, Easy-to-Understand Guide | Dennis Duke | [Read More](https://medium.com/p/7e459e2a84de) |
-| Thu, 15 Jan 2026 22:14:34 GMT | Let’s Encrypt SSL on Shared cPanel Hosting (Without Certbot) — With Auto Renewal | Masuk Helal Anik | [Read More](https://medium.com/p/d453c9d8d28d) |
-| Thu, 15 Jan 2026 21:58:49 GMT | From File Upload to Remote Code Execution (byp4ss3d) | Gregory Kovalchuk | [Read More](https://medium.com/p/5858636f015d) |
-| Thu, 15 Jan 2026 21:53:31 GMT | BreachForum is New victim of hackers. | KiLo "HaCK3r " Cantrell | [Read More](https://medium.com/p/d782c2ad11b0) |
-| Thu, 15 Jan 2026 21:52:47 GMT | Hackthebox Module: Password Attacks - Windows Credential Manager Exploitation | Sunain | [Read More](https://medium.com/p/dea98865b381) |
-| Thu, 15 Jan 2026 21:36:42 GMT | How do I feel about finding bugs as my meal? | Imran Niaz | [Read More](https://medium.com/p/0e88a6a32bec) |
-| Thu, 15 Jan 2026 21:33:40 GMT | Cybersecurity for Business Owners in 2026: A Practical Guide to Protecting Your Data | RayasWeb | [Read More](https://medium.com/p/cb5a2b4efc4b) |
-| Thu, 15 Jan 2026 21:31:56 GMT | The Real Attack Surface of Code-Executing LLMs: A Gemini Code Execution Case Study | Ali  Kandemir | [Read More](https://medium.com/p/7dddb91507a0) |
-| Thu, 15 Jan 2026 21:31:52 GMT | The Real Attack Surface of Code-Executing LLMs: A Gemini Code Execution Case Study | Ömer Bilgin Bilgili | [Read More](https://medium.com/p/467767c324f4) |
-| Thu, 15 Jan 2026 21:29:22 GMT | Local Compute, Local Action: Building a UI Agent in the Basement | Diogoneno | [Read More](https://medium.com/p/4872bf7b76a3) |
-| Thu, 15 Jan 2026 21:27:52 GMT | Decentr and the Future of Privacy: Why Decentralized VPNs Matter Now | Decentr | [Read More](https://medium.com/p/37470d565f01) |
-| Thu, 15 Jan 2026 21:21:44 GMT | Escaping the Corridor — TryHackMe: A Guide to IDOR and MD5 Obfuscation | Hemantha Krishna Challa | [Read More](https://medium.com/p/57895514ef63) |
-| Thu, 15 Jan 2026 21:11:34 GMT | A Subtle Merkle Tree Vulnerability in Bitcoin (And How It Was Fixed) | Thrishalmadasu | [Read More](https://medium.com/p/b41fa68aa283) |
