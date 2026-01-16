@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 Jan 2026 09:22:24 GMT | “Why Losing a Bag Feels Worse Than Losing Money” | Ramesh Raj | [Read More](https://medium.com/p/eebec548fd6f) |
+| Fri, 16 Jan 2026 09:17:00 GMT | Managed Security Service Provider Benefits for Firms | Sophia Clarke | [Read More](https://medium.com/p/94a188aa4449) |
+| Fri, 16 Jan 2026 09:13:26 GMT | Free Article: The Direct to SIEM Trap (Part 1 — Un-unified Schemas) | Michael B | [Read More](https://medium.com/p/5a5f91d7b232) |
+| Fri, 16 Jan 2026 09:11:14 GMT | Incident Response: Hands-On Lab 2 | Allen Ace | [Read More](https://medium.com/p/742bfde9f0a2) |
+| Fri, 16 Jan 2026 09:02:05 GMT | Domain Search to Alert Pipeline: Set Up 24/7 Leak Monitoring in 5 Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/9dd026a356a9) |
+| Fri, 16 Jan 2026 09:00:34 GMT | Techniques to Integrate Authentication and Authorization in Spring Boot Using Keycloak Admin Client… | Anh Trần Tuấn | [Read More](https://medium.com/p/d3ea01b4d18c) |
+| Fri, 16 Jan 2026 08:56:53 GMT | How Boards Really Decide During a Ransomware Attack | Motasem Hamdan | [Read More](https://medium.com/p/2bd700f15115) |
+| Fri, 16 Jan 2026 08:56:10 GMT | Security’s Silent Tax: Is Your Tooling Just “Attention Farming” Your Engineers? | PilotNathan | [Read More](https://medium.com/p/2dfea119e9ce) |
+| Fri, 16 Jan 2026 08:51:32 GMT | Novel Technique to Bypass Firewall (403 Bypass) | Rahul Singh Chauhan | [Read More](https://medium.com/p/4c1b1d31edb2) |
+| Fri, 16 Jan 2026 08:37:25 GMT | Security Is Not a Feature, It’s an Attitude: Why We Decided to Kill the Server | SAYCOIN | [Read More](https://medium.com/p/2fe05173fd76) |
+| Fri, 16 Jan 2026 08:34:49 GMT | Cloud Infrastructure Vulnerabilities in 2026: How Ethical Hackers Are Thinking Ahead | Bugitrix | [Read More](https://medium.com/p/9c08604c1053) |
 | Fri, 16 Jan 2026 08:30:35 GMT | Designing IAM Least Privilege for EC2: From Zero Access to Auditable Enforcement | Surya Naga Sesank Munukutla | [Read More](https://medium.com/p/e1bd12e55b8c) |
+| Fri, 16 Jan 2026 08:29:23 GMT | HTML Basics | Dev kaushik | [Read More](https://medium.com/p/dbfd8726142a) |
 | Fri, 16 Jan 2026 08:24:49 GMT | Hack The Box — Expressway Machine Walkthrough | SubhaDip | [Read More](https://medium.com/p/3847c308b339) |
 | Fri, 16 Jan 2026 08:21:54 GMT | Reconnaissance (Before the Breach: A Hacker’s First Move — Mastering Reconnaissance Techniques) | Mert Baykal | [Read More](https://medium.com/p/22a349483930) |
 | Fri, 16 Jan 2026 08:20:43 GMT | Ödeme Sistemlerinin Geleceği: Daha Hızlı, Daha Akıllı…Peki Daha Güvenli mi? | Alper Özyurt | [Read More](https://medium.com/p/89927e9507d6) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 Jan 2026 00:12:48 GMT | When She Demanded Her Name on the Deed, This Mother-in-Law Ended the Engagement | Lilyana | [Read More](https://medium.com/p/5a2abb5c8de9) |
 | Fri, 16 Jan 2026 00:10:58 GMT | Your AI Feature Is Probably Vulnerable (And You Might Not Know It Yet) | Matt | [Read More](https://medium.com/p/ec8a77446ab9) |
 | Fri, 16 Jan 2026 00:02:50 GMT | Seguridad Web: Guía de Explotación de Métodos HTTP y Bypass de WAF | JPablo13 | [Read More](https://medium.com/p/a6e02f537826) |
-| Fri, 16 Jan 2026 00:02:24 GMT | Windows Server: Building an AD Homelab | Shamar Isaac | [Read More](https://medium.com/p/4b1729920af7) |
-| Fri, 16 Jan 2026 00:01:08 GMT | [Sakana AI & MIT] Digital Red Queen: 대규모 언어 모델을 활용한 코어 워(Core War)에서의 적대적 프로그램 진화 | YouShin kim | [Read More](https://medium.com/p/e7015390415b) |
-| Thu, 15 Jan 2026 23:56:12 GMT | Tokens as Sandboxes: A 3D Model for Mobile App Security | eugenio andrieu | [Read More](https://medium.com/p/4a832f251b46) |
-| Thu, 15 Jan 2026 23:54:34 GMT | You’ve Been Hacked, Now What? A Step-By-Step Guide | Emory French | [Read More](https://medium.com/p/0e3576597e3a) |
-| Thu, 15 Jan 2026 23:51:09 GMT | MCPing Your Product: From Strategy to Execution in Weeks | Pradeep GanapathyRaj | [Read More](https://medium.com/p/52d05f5f65dd) |
-| Thu, 15 Jan 2026 23:47:08 GMT | APRENDA AUTOPSY: Domine Análise Forense Digital, Recuperação de Evidências e Investigação de… | Diego Rodrigues | [Read More](https://medium.com/p/4fd8cd9417f2) |
-| Thu, 15 Jan 2026 23:43:40 GMT | KALI LINUX FORENSE DIGITAL 2025: Domine Técnicas, Ferramentas e Protocolos para Investigações em… | Diego Rodrigues | [Read More](https://medium.com/p/a66a78b4ceae) |
-| Thu, 15 Jan 2026 23:30:40 GMT | Your Business Runs on IT… Even When You’re Not Thinking About It | Janeel Abrahams | [Read More](https://medium.com/p/4d13742a3d5a) |
-| Thu, 15 Jan 2026 23:17:14 GMT | Tired of Playing IT Guy When You Should Be Running Your Business? | Janeel Abrahams | [Read More](https://medium.com/p/692e58a5160f) |
-| Thu, 15 Jan 2026 23:04:44 GMT | Custom DLL Loading Technique in Windows | S12 - 0x12Dark Development | [Read More](https://medium.com/p/c84ba0496a6f) |
-| Thu, 15 Jan 2026 23:03:22 GMT | The Identity Apocalypse: How Deepfakes Redefined Truth in 2026 | Mahnoor | [Read More](https://medium.com/p/8f0bfe97f207) |
-| Thu, 15 Jan 2026 22:50:59 GMT | Browse Faster, Safer, Smarter with NordVPN | Genelia | [Read More](https://medium.com/p/8767b3625ae2) |
