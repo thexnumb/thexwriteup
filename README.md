@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 Jan 2026 23:37:28 GMT | Your Brain Has a Spam Filter. Can We Reverse-Engineer It? | Kevin | [Read More](https://medium.com/p/799da714238e) |
+| Fri, 16 Jan 2026 23:25:45 GMT | “Instagram Breach… or Not?” | Ogechi Ifeanyi Chime | [Read More](https://medium.com/p/9b3002ecaf06) |
+| Fri, 16 Jan 2026 23:13:58 GMT | We’re Moving Too Fast, and AI Barbarians Are at the Gate | Joseph Mann | [Read More](https://medium.com/p/1975eb34fc55) |
 | Fri, 16 Jan 2026 23:08:23 GMT | Mastering iOS Pentesting: Part 1 — Jailbreaking Your Devices (Dopamine & palera1n) | Faris Faisal 0xFF | [Read More](https://medium.com/p/200ae1dc7542) |
 | Fri, 16 Jan 2026 22:54:13 GMT | The Silicon Shield: Analyzing the U.S.-Israel | CCD-IS | [Read More](https://medium.com/p/6ac816f6fb70) |
 | Fri, 16 Jan 2026 22:51:08 GMT | 9 Cybersecurity Questions that Define a CISO | Matthew.Rosenquist | [Read More](https://medium.com/p/0cd5f5be1bc8) |
@@ -110,6 +113,3 @@ Amazing content! | Alborz Nazari | [Read More](https://medium.com/p/078ed8cdef4c
 | Fri, 16 Jan 2026 14:50:20 GMT | Reverse Engineering I²C EEPROM Configuration on a Hikvision PoE Switch | Aaronjjose | [Read More](https://medium.com/p/b14ca67c5d31) |
 | Fri, 16 Jan 2026 14:42:09 GMT | PBL 320 — Pengembangan Well-Architected Infrastructure SIEM dengan Agregasi Cyber Threat… | Defriyani Siregar | [Read More](https://medium.com/p/cc9c14d030a2) |
 | Fri, 16 Jan 2026 14:34:51 GMT | Journey into cyber security | cybersapho | [Read More](https://medium.com/p/09536aebbc21) |
-| Fri, 16 Jan 2026 14:32:00 GMT | Creating a Fake Update to Hack Any Device on the Network | Vignesh R | [Read More](https://medium.com/p/6a25aa6b6682) |
-| Fri, 16 Jan 2026 14:31:59 GMT | AI Is Finding Bugs Faster Than Humans — Is This the End of Manual Testing? | Code AI ML | [Read More](https://medium.com/p/4787fc549489) |
-| Fri, 16 Jan 2026 14:31:59 GMT | Family Secrets You Must Never Share — Protect Your Privacy from Betrayal | Daphne Laffer | [Read More](https://medium.com/p/34ebc5b2605a) |
