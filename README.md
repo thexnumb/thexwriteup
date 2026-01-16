@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 Jan 2026 11:07:17 GMT | Acme Seals Launches Rhino Seal — Strength Meets Value | Michael | [Read More](https://medium.com/p/9de569361c2a) |
+| Fri, 16 Jan 2026 11:05:38 GMT | AI Governance for SOC Teams: Four Operational Questions You Can Answer This Week | Denny Roger | [Read More](https://medium.com/p/b461a5d520b2) |
+| Fri, 16 Jan 2026 11:02:30 GMT | Why Writing Without Emotion Feels Artificial | THE WRITER’S LENS | [Read More](https://medium.com/p/12ebb39bf7ca) |
+| Fri, 16 Jan 2026 11:02:30 GMT | The Secret Life of Handheld Ghosts | Franziska "Ziska" Fink | [Read More](https://medium.com/p/59cd223191ec) |
+| Fri, 16 Jan 2026 11:01:46 GMT | Why Data Duplication Is a Feature, Not a Bug (Spring Boot Reality) | akash | [Read More](https://medium.com/p/080ec9487366) |
+| Fri, 16 Jan 2026 10:57:25 GMT | Hunting the Lazarus Group: A Walkthrough of HTB’s Dream-Job Lab By Samuel Adetola | Samuel ADETOLA | [Read More](https://medium.com/p/f13fa0100469) |
+| Fri, 16 Jan 2026 10:51:30 GMT | Inside the Traffic: What I Learned Analyzing a Vulnerable Bank With Burp Suite and Wireshark | Chinedum Udenkwo | [Read More](https://medium.com/p/2f13d594035b) |
 | Fri, 16 Jan 2026 10:44:28 GMT | Your Smart Safety Net: How AI is Protecting and Simplifying Web3 | STON.fi | [Read More](https://medium.com/p/6e3d5d7a4a4c) |
 | Fri, 16 Jan 2026 10:41:19 GMT | Supply Chain Attacks Are Deepening: The F5 Networks Case and Early Detection Through Open Source… | INTELON | [Read More](https://medium.com/p/2890fd498362) |
 | Fri, 16 Jan 2026 10:40:02 GMT | John the Ripper: Setup, Core Functions, and Real-World Use Cases | Little_Sun4lower | [Read More](https://medium.com/p/33fa1d9c2ba7) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 Jan 2026 04:32:58 GMT | Helping Tech-Founders build Secure Businesses without Breaking the Bank | Aditya Anand | [Read More](https://medium.com/p/db6bb7cac210) |
 | Fri, 16 Jan 2026 04:32:00 GMT | Vulnerability Pipelines | Zach Griffin | [Read More](https://medium.com/p/43a90c514919) |
 | Fri, 16 Jan 2026 04:25:34 GMT | Over 9,000 Cyber Attacks Since 2022: New Study Reveals Strategies to Protect Digital Media… | Mr. Galal Homouda | [Read More](https://medium.com/p/5b5aae419914) |
-| Fri, 16 Jan 2026 04:24:26 GMT | Learning Cybersecurity (CEH) from Zero: Key Networking Protocols and Ports | Syber Security beginner. | [Read More](https://medium.com/p/23d5c669fadc) |
-| Fri, 16 Jan 2026 04:16:05 GMT | Two high-severity OpenCode flaws let websites write code to your machine - CVE-2026–22813… | Michael Harms | [Read More](https://medium.com/p/326c5293917d) |
-| Fri, 16 Jan 2026 04:16:03 GMT | CISSP Domain 5: Your Complete Guide to Acing Identity & Access Management | Pushpak Sharma | [Read More](https://medium.com/p/03b988e842b4) |
-| Fri, 16 Jan 2026 04:13:45 GMT | The Four Pillars of the AI-Ready Enterprise: From Data Modernization to Trusted Intelligence | Aroon Kumar | [Read More](https://medium.com/p/81e56837464f) |
-| Fri, 16 Jan 2026 04:03:54 GMT | Farewell — THM Writeup | Avyukt Security | [Read More](https://medium.com/p/9fb5a7c50fe3) |
-| Fri, 16 Jan 2026 04:03:27 GMT | AI Agents Don’t Quite Work Yet, But Betting Against Them Is Short-Sighted | Ronald Kimmons | [Read More](https://medium.com/p/d3c0d8ed3b13) |
-| Fri, 16 Jan 2026 03:52:23 GMT | AI Asset Inventory: What Counts as an AI Asset? | Viren Choudhari | [Read More](https://medium.com/p/8e2ab5c7c4fd) |
