@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 Jan 2026 21:38:09 GMT | CloudGoat AWS Key Rotation | Spookz | [Read More](https://medium.com/p/afdd37114679) |
+| Fri, 16 Jan 2026 21:33:11 GMT | Beyond Autonomy: The Role of Guardrails in Agentic AI | Rampart AI™ | [Read More](https://medium.com/p/aaaace097de4) |
+| Fri, 16 Jan 2026 21:26:50 GMT | If I Were Attacking Your Company, Here’s Where I’d Start | JSOC IT BLOG | [Read More](https://medium.com/p/16a3cd370972) |
+| Fri, 16 Jan 2026 21:20:50 GMT | The segmentation that works blueprint: what to decide first (so you don’t waste 12 months) | Fook Hwa Tan | [Read More](https://medium.com/p/9d8bdd088544) |
+| Fri, 16 Jan 2026 21:17:05 GMT | The New Standard of Digital Trust: Why Rankiteo is a Game-Changer | Jeremy C | [Read More](https://medium.com/p/22eb5e93c1b0) |
 | Fri, 16 Jan 2026 21:02:21 GMT | Brute-it | Jadem Yasser | [Read More](https://medium.com/p/bb0b5a9989e7) |
 | Fri, 16 Jan 2026 20:38:16 GMT | The New Rules of Cybersecurity: Why 2026 Changes Everything | Anjali Gopinadhan Nair | [Read More](https://medium.com/p/5f4df833017c) |
 | Fri, 16 Jan 2026 20:36:32 GMT | When Luigi Hunts Malware | cybertactic | [Read More](https://medium.com/p/02160b9c8ad0) |
@@ -108,8 +113,3 @@ Amazing content! | Alborz Nazari | [Read More](https://medium.com/p/078ed8cdef4c
 | Fri, 16 Jan 2026 13:21:13 GMT | PASS + GnuPG + Git | Bruce Wen | [Read More](https://medium.com/p/f847fa080c13) |
 | Fri, 16 Jan 2026 13:20:29 GMT | A Drone in the Snow: Beginner’s Guide to Forensics (with AI) | Nilesh Kumar | [Read More](https://medium.com/p/373e7fd63261) |
 | Fri, 16 Jan 2026 13:19:40 GMT | What are The Challenges and Considerations in Turnkey Projects | Blokotech | [Read More](https://medium.com/p/95ce3b9389a7) |
-| Fri, 16 Jan 2026 13:18:32 GMT | Exposing the Swapzone malware before it ever reaches you | Mohammed Dief | [Read More](https://medium.com/p/869ce543723a) |
-| Fri, 16 Jan 2026 13:17:04 GMT | Cloud Security Without The Panic | Plaintext with Rich | [Read More](https://medium.com/p/fe42ef0d068f) |
-| Fri, 16 Jan 2026 13:17:03 GMT | When Capability Ships Before Governance | Christopher Caruso | [Read More](https://medium.com/p/30021c1846de) |
-| Fri, 16 Jan 2026 13:01:43 GMT | Exploiting Time-Sensitive Vulnerabilities: A Practical Walkthrough (PortSwigger Lab) | RootHawk | [Read More](https://medium.com/p/4be6ddd1789e) |
-| Fri, 16 Jan 2026 12:59:30 GMT | Burp Suite in 2026: Why It’s Still the Heart of Web Application Security | Niharika | [Read More](https://medium.com/p/3b2d54e5cc30) |
