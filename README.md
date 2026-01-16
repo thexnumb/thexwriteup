@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 Jan 2026 05:19:23 GMT | Potential for iPhone eKYC/Face ID Hacking: How “Passcode Shouldering,” “Selfies,” and a Few Minutes… | Ryu360 | [Read More](https://medium.com/p/a235ec87c19a) |
+| Fri, 16 Jan 2026 05:16:17 GMT | The Importance of Cybersecurity Awareness Training for Employees | Maxatlasofficial | [Read More](https://medium.com/p/f448ec84eb0b) |
+| Fri, 16 Jan 2026 05:12:31 GMT | 48,000 CVEs and Counting: Why Understanding Vulnerabilities Has Never Been More Critical | Nehan Wijayagunarathna | [Read More](https://medium.com/p/1697a5306c2a) |
+| Fri, 16 Jan 2026 05:07:04 GMT | The State of Industry 4.0 in 2026: What’s Next for Manufacturing? | SYNCTEL TECHNOLOGIES PRIVATE LIMITED | [Read More](https://medium.com/p/f871ea75e0e9) |
+| Fri, 16 Jan 2026 05:05:49 GMT | New year, new security habits | HackersPrey | [Read More](https://medium.com/p/ac9deb3d11c3) |
+| Fri, 16 Jan 2026 05:04:21 GMT | SOC as a Service: Meaning, Definition, and How It Works | Reghu Mohandas | [Read More](https://medium.com/p/336860769493) |
+| Fri, 16 Jan 2026 04:57:27 GMT | Deep Dive into Seccomp Filters on Linux Systems | Linux Guide | [Read More](https://medium.com/p/dc97758145d2) |
+| Fri, 16 Jan 2026 04:47:41 GMT | Return2Libc Technique (Binary Exploitation) | Aditya Bhos | [Read More](https://medium.com/p/acf02ab3b4ec) |
+| Fri, 16 Jan 2026 04:37:56 GMT | Mobile App Security Checklist Every Team Should Follow in 2026 | AcmeMinds | [Read More](https://medium.com/p/9faf3aa61ac0) |
 | Fri, 16 Jan 2026 04:32:58 GMT | 5 Protocol Reputation Signals Partners Notice First | Praxen | [Read More](https://medium.com/p/6b3afbdd0377) |
+| Fri, 16 Jan 2026 04:32:58 GMT | Helping Tech-Founders build Secure Businesses without Breaking the Bank | Aditya Anand | [Read More](https://medium.com/p/db6bb7cac210) |
 | Fri, 16 Jan 2026 04:32:00 GMT | Vulnerability Pipelines | Zach Griffin | [Read More](https://medium.com/p/43a90c514919) |
 | Fri, 16 Jan 2026 04:25:34 GMT | Over 9,000 Cyber Attacks Since 2022: New Study Reveals Strategies to Protect Digital Media… | Mr. Galal Homouda | [Read More](https://medium.com/p/5b5aae419914) |
 | Fri, 16 Jan 2026 04:24:26 GMT | Learning Cybersecurity (CEH) from Zero: Key Networking Protocols and Ports | Syber Security beginner. | [Read More](https://medium.com/p/23d5c669fadc) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 Jan 2026 19:11:51 GMT | Secure file upload validation in .NET: A layered approach | Christian Haase | [Read More](https://medium.com/p/e77c9d9433e3) |
 | Thu, 15 Jan 2026 19:08:55 GMT | I’m About to Tell You Things You Were Never Supposed to Know About Yourself | KV | [Read More](https://medium.com/p/0251f1bc259a) |
 | Thu, 15 Jan 2026 19:07:57 GMT | In January 2026, cybersecurity firm Malwarebytes and various reports identified a dataset… | Abrar Alee | [Read More](https://medium.com/p/7212c3c539d3) |
-| Thu, 15 Jan 2026 19:03:19 GMT | Anti-Spoofing | Iram Jack | [Read More](https://medium.com/p/de2bf57bda8d) |
-| Thu, 15 Jan 2026 18:57:03 GMT | “Bug Bounty Bootcamp #16: Stored & Blind XSS — The ‘Time Bomb’ and ‘Message in a Bottle’ of Web… | Aman Sharma | [Read More](https://medium.com/p/fc4366929393) |
-| Thu, 15 Jan 2026 18:54:06 GMT | Secure Kubernetes Deployment Guide (Self-Managed) — Part II | SOCFortress | [Read More](https://medium.com/p/ba7d5b8a7b03) |
-| Thu, 15 Jan 2026 18:51:51 GMT | Kerberoasting: Targeting Service Accounts in Active Directory | Esra Kayhan | [Read More](https://medium.com/p/92862d63c4fa) |
-| Thu, 15 Jan 2026 18:51:31 GMT | Chain Exploitation in Web Pentesting ️ | Esra Kayhan | [Read More](https://medium.com/p/ef776dc44a87) |
-| Thu, 15 Jan 2026 18:49:58 GMT | AI vs. AI: The Autonomous Arms Race of 2026 | M.A.G - Cybersecurity - F. Policy - Music - Tech - | [Read More](https://medium.com/p/41dc4639c4da) |
-| Thu, 15 Jan 2026 18:44:48 GMT | The Hidden Backbone of the Internet: Why S3 Security Should Keep You Up at Night | Tarek CHEIKH | [Read More](https://medium.com/p/4dd8d8d67b90) |
-| Thu, 15 Jan 2026 18:44:04 GMT | Why Immediate System Shutdowns Often Make Ransomware Incidents Worse | Cordula Boeck | [Read More](https://medium.com/p/36a80471fe16) |
-| Thu, 15 Jan 2026 18:41:13 GMT | CIA and AAA in Cybersecurity: Clear Definitions, Differences, Examples, and Tools | Dennis Duke | [Read More](https://medium.com/p/9e0bf61e744d) |
-| Thu, 15 Jan 2026 18:36:44 GMT | The ServiceNow AI Vulnerability: What Went Wrong and How to Secure Your AI Agents | Abdel Sy Fane | [Read More](https://medium.com/p/75c4040777f6) |
