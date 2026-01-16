@@ -12,9 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 Jan 2026 20:22:54 GMT | I’m studying for the Security+ exam. | Josiah Blanchette | [Read More](https://medium.com/p/b6f0f7d38df2) |
+| Fri, 16 Jan 2026 20:20:51 GMT | Quand Luigi chasse les malwares | cybertactic | [Read More](https://medium.com/p/ff11b0f2dff8) |
+| Fri, 16 Jan 2026 20:14:47 GMT | Owasp top10:2025 Vulnerabilities Explained With Examples Part 1 | stealb0ss | [Read More](https://medium.com/p/086a4561d261) |
+| Fri, 16 Jan 2026 19:55:26 GMT | TryHackMe Writeup: Archangel | Berkay AĞGÜL | [Read More](https://medium.com/p/7299ebe4f12f) |
+| Fri, 16 Jan 2026 19:53:46 GMT | I Sat In My Car After Work And Wrote This… | Okuruesther | [Read More](https://medium.com/p/10915ba9b16a) |
+| Fri, 16 Jan 2026 19:52:57 GMT | Common Online Privacy Mistakes Most People Make. | Iosifberg | [Read More](https://medium.com/p/910aeaad8d38) |
+| Fri, 16 Jan 2026 19:51:16 GMT | Cyber Incident Response Training: The Definitive Guide for 2026 | IT_Engineer | [Read More](https://medium.com/p/7a95bff854d4) |
+| Fri, 16 Jan 2026 19:49:49 GMT | What is AWS EC2? | Vishishtadilsara | [Read More](https://medium.com/p/e66de1298cd3) |
+| Fri, 16 Jan 2026 19:46:23 GMT | TryHackMe - SSTI - WriteUp | Axoloth | [Read More](https://medium.com/p/296a8794acea) |
+| Fri, 16 Jan 2026 19:38:11 GMT | What It Means When Someone Believes in You | Rahul Gupta | [Read More](https://medium.com/p/553fe0c65d74) |
 | Fri, 16 Jan 2026 19:37:35 GMT | “Think Your Password Is Strong?’’ John the Ripper Might Disagree. | Leaving Nadir | [Read More](https://medium.com/p/1344bb6778c9) |
 | Fri, 16 Jan 2026 19:32:12 GMT | Some brilliant content that has to be fully taken with patience and learning.
 Amazing content! | Alborz Nazari | [Read More](https://medium.com/p/078ed8cdef4c) |
+| Fri, 16 Jan 2026 19:26:47 GMT | How to Secure pip install and Protect Your Python Supply Chain (with pipq) | Livrädo Sandoval | [Read More](https://medium.com/p/67aa6dc91685) |
 | Fri, 16 Jan 2026 19:22:54 GMT | From SQL to Root: PostgreSQL (pg_write_server_files in | Oz | [Read More](https://medium.com/p/10732c237ec1) |
 | Fri, 16 Jan 2026 19:22:14 GMT | Security 101: The One HTTP Header That Stops Code Injection Attacks | Kunal Sinha | [Read More](https://medium.com/p/bca4de7920d5) |
 | Fri, 16 Jan 2026 19:18:50 GMT | Lab: SQL injection vulnerability allowing login bypass | Songül Kızılay Özügürler | [Read More](https://medium.com/p/cb52d007d51e) |
@@ -102,14 +113,3 @@ Amazing content! | Alborz Nazari | [Read More](https://medium.com/p/078ed8cdef4c
 | Fri, 16 Jan 2026 12:55:44 GMT | Is Your Office Ready for Automation? Here’s How MasterTech Can Help in Dubai | Mastertechnovision | [Read More](https://medium.com/p/360c04ccd7b7) |
 | Fri, 16 Jan 2026 12:50:38 GMT | File Inclusion Tryhackme — (Tryhackme Challenge) | Panglimaizza | [Read More](https://medium.com/p/44a731560fea) |
 | Fri, 16 Jan 2026 12:49:16 GMT | Web Application Security: Hands-On Practice (Chapter 5 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/f28cc20be10d) |
-| Fri, 16 Jan 2026 12:42:56 GMT | How to start Cybersecurity ?? | S  a r v e s h | [Read More](https://medium.com/p/48076bce18f4) |
-| Fri, 16 Jan 2026 12:42:19 GMT | What “Securing Offensively” Means in the Real World | Digital Defense | [Read More](https://medium.com/p/ef9abfe969b6) |
-| Fri, 16 Jan 2026 12:36:32 GMT | OT Cyber Security Services in Ontario: Protecting Canada’s Critical Infrastructure | Arista Cyber | [Read More](https://medium.com/p/4b65cd6b1c17) |
-| Fri, 16 Jan 2026 12:26:59 GMT | Could a Career in Security Be Manchester’s Best-Kept Secret? | courses4u | [Read More](https://medium.com/p/83efa4df855f) |
-| Fri, 16 Jan 2026 12:21:49 GMT | Splunk vs. ELK in 2026: Why Your Choice Could Define Your SOC’s Survival | Misbah waraich | [Read More](https://medium.com/p/e6ea4f95059d) |
-| Fri, 16 Jan 2026 12:21:45 GMT | Why I Switched from Software Engineering to AppSec (And Why You Might Too) | Nabil Mouzouna نبيل مزونة | [Read More](https://medium.com/p/bb787f6d0ac7) |
-| Fri, 16 Jan 2026 12:12:36 GMT | Introduction to Artificial Intelligence: A Detailed Beginner-to-Advanced Guide | Manisha Chaudhary | [Read More](https://medium.com/p/c5323e20f040) |
-| Fri, 16 Jan 2026 12:09:40 GMT | The solution is to be in love with yourself. | Ihuoma ❤️ | [Read More](https://medium.com/p/43919b4f2a4d) |
-| Fri, 16 Jan 2026 12:08:49 GMT | The Case of the Curious Code: A Reverse Engineering Detective Story | VulnerabilityIntel | [Read More](https://medium.com/p/56e666d27d9f) |
-| Fri, 16 Jan 2026 12:06:49 GMT | Grubhub Data Breach: What Customers Need to Know About the Security Incident | Technijian | [Read More](https://medium.com/p/586edaa95a52) |
-| Fri, 16 Jan 2026 12:02:27 GMT | Networking Services / Protocols for Ethical Hackers & Cybersecurity | Mainekhacker | [Read More](https://medium.com/p/9e5d6383cd00) |
