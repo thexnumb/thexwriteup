@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 Jan 2026 21:02:21 GMT | Brute-it | Jadem Yasser | [Read More](https://medium.com/p/bb0b5a9989e7) |
 | Fri, 16 Jan 2026 20:38:16 GMT | The New Rules of Cybersecurity: Why 2026 Changes Everything | Anjali Gopinadhan Nair | [Read More](https://medium.com/p/5f4df833017c) |
 | Fri, 16 Jan 2026 20:36:32 GMT | When Luigi Hunts Malware | cybertactic | [Read More](https://medium.com/p/02160b9c8ad0) |
 | Fri, 16 Jan 2026 20:30:13 GMT | I Work From Coffee Shops Every Day. My Browser Had to Adapt. | Abigail Harris | [Read More](https://medium.com/p/1cd80b204125) |
@@ -112,4 +113,3 @@ Amazing content! | Alborz Nazari | [Read More](https://medium.com/p/078ed8cdef4c
 | Fri, 16 Jan 2026 13:17:03 GMT | When Capability Ships Before Governance | Christopher Caruso | [Read More](https://medium.com/p/30021c1846de) |
 | Fri, 16 Jan 2026 13:01:43 GMT | Exploiting Time-Sensitive Vulnerabilities: A Practical Walkthrough (PortSwigger Lab) | RootHawk | [Read More](https://medium.com/p/4be6ddd1789e) |
 | Fri, 16 Jan 2026 12:59:30 GMT | Burp Suite in 2026: Why It’s Still the Heart of Web Application Security | Niharika | [Read More](https://medium.com/p/3b2d54e5cc30) |
-| Fri, 16 Jan 2026 12:57:25 GMT | MasterTech CCTV Installation: Keeping Dubai Homes and Offices Secure | Mastertechnovision | [Read More](https://medium.com/p/fad3a5be4d22) |
