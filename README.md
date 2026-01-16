@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 16 Jan 2026 07:28:06 GMT | Vulnerability Assessment & Penetration Testing in 2026: Why Businesses Can’t Afford Blind Spots… | Devarshi Acharya | [Read More](https://medium.com/p/fd6560f136d1) |
+| Fri, 16 Jan 2026 07:25:32 GMT | 7 Rental Scams in Malta (And How I Used Data to Spot Them) | Anselme X A Gouanou | [Read More](https://medium.com/p/b2f279be9b9f) |
 | Fri, 16 Jan 2026 07:16:48 GMT | The Real Marriage Killers: 3 Things That Hurt More Than Cheating | Daisy Lewis | [Read More](https://medium.com/p/c9ecfd1061bc) |
 | Fri, 16 Jan 2026 07:13:55 GMT | LLMs and GENAI Apps: Risk & Mitigations — Part 3: Sensitive Information Disclosure! | Nothing Cyber [NC] | [Read More](https://medium.com/p/c8820f8a52b2) |
 | Fri, 16 Jan 2026 07:08:27 GMT | The Corix Partners Friday Reading List — January 16, 2026 | JC Gaillard | [Read More](https://medium.com/p/eac185bf7ae1) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 15 Jan 2026 21:27:52 GMT | Decentr and the Future of Privacy: Why Decentralized VPNs Matter Now | Decentr | [Read More](https://medium.com/p/37470d565f01) |
 | Thu, 15 Jan 2026 21:21:44 GMT | Escaping the Corridor — TryHackMe: A Guide to IDOR and MD5 Obfuscation | Hemantha Krishna Challa | [Read More](https://medium.com/p/57895514ef63) |
 | Thu, 15 Jan 2026 21:11:34 GMT | A Subtle Merkle Tree Vulnerability in Bitcoin (And How It Was Fixed) | Thrishalmadasu | [Read More](https://medium.com/p/b41fa68aa283) |
-| Thu, 15 Jan 2026 21:04:09 GMT | Build A Computer That Never Fails When Everything Is On The Line | Geoffrey Wenger | [Read More](https://medium.com/p/9a83eb2e593b) |
-| Thu, 15 Jan 2026 20:54:59 GMT | Data Poisoning in Machine Learning: Why and How People Manipulate Training Data | Stephanie Kirmer | [Read More](https://medium.com/p/3c947e4825df) |
