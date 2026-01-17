@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 Jan 2026 07:12:34 GMT | The One-Prompt PT Lab: Autonomous Android Security Research with Cursor AI | Andrey Pautov | [Read More](https://medium.com/p/b96ed2053071) |
+| Sat, 17 Jan 2026 07:07:01 GMT | Zero Trust Security Model Why Every Business Needs It | Sureshbhagath | [Read More](https://medium.com/p/e6096f07c943) |
+| Sat, 17 Jan 2026 07:06:34 GMT | Executive VIP Protection & Security in Dallas | US guard security company | [Read More](https://medium.com/p/aa0891919d54) |
+| Sat, 17 Jan 2026 07:05:48 GMT | Pindah dari Windows Ke Mac OS | Kerlaa | [Read More](https://medium.com/p/8b724d577e54) |
+| Sat, 17 Jan 2026 07:03:29 GMT | So You Caught the Packets. Now What? A Quick Guide to Reading WiFi PCAPs Without Lying to Yourself | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/89cfe50b1f0a) |
+| Sat, 17 Jan 2026 07:00:20 GMT | The Cryptography Concept Journey — RA (Registration Authority) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/e82d85512a1f) |
+| Sat, 17 Jan 2026 06:52:16 GMT | Why Cybersecurity Is More About People Than Technology | Abdul Ahad | [Read More](https://medium.com/p/9cacd320140e) |
+| Sat, 17 Jan 2026 06:49:40 GMT | -Cyber Security Solutions for Small Business: Practical Protection Against Modern Risks | Reflect security solutions | [Read More](https://medium.com/p/5bf97a831162) |
+| Sat, 17 Jan 2026 06:43:43 GMT | Security Services in Pearland | Security Houston | [Read More](https://medium.com/p/8fc927450de5) |
+| Sat, 17 Jan 2026 06:40:52 GMT | WhisperPair (CVE‑2025‑36911): Bluetooth Earbuds Vulnerability Explained | Zyberwalls | [Read More](https://medium.com/p/03561d106484) |
+| Sat, 17 Jan 2026 06:31:59 GMT | Why Your Developer Tools Shouldn’t Phone Home | The Dev Suite | [Read More](https://medium.com/p/1b042c0dd12e) |
+| Sat, 17 Jan 2026 06:31:50 GMT | 2025藍隊之路-HTB CDSA 心得分享 | segalee | [Read More](https://medium.com/p/54d9f382ae2c) |
+| Sat, 17 Jan 2026 06:28:04 GMT | # How Cybercrime Threatens Our Future | ritesh | [Read More](https://medium.com/p/312b935dd23a) |
 | Sat, 17 Jan 2026 06:21:43 GMT | Zionist Security Doctrine: Zero Tolerance | Shéa | [Read More](https://medium.com/p/7e80813687c0) |
 | Sat, 17 Jan 2026 06:12:05 GMT | My House Chips Were Deactivated: 5 Steps to Reclaim Digital Sovereignty | Hakan Yilmaz | [Read More](https://medium.com/p/b3d477499edf) |
 | Sat, 17 Jan 2026 06:10:34 GMT | Importance of Password Management in the Digital Age: How Passmanai.org Prevents Data Breaches | Passman AI | [Read More](https://medium.com/p/a6db1646baa9) |
@@ -101,16 +114,3 @@ Telegram was created to offer… | Ankit rai | [Read More](https://medium.com/p/
 | Fri, 16 Jan 2026 19:32:12 GMT | Some brilliant content that has to be fully taken with patience and learning.
 Amazing content! | Alborz Nazari | [Read More](https://medium.com/p/078ed8cdef4c) |
 | Fri, 16 Jan 2026 19:26:47 GMT | How to Secure pip install and Protect Your Python Supply Chain (with pipq) | Livrädo Sandoval | [Read More](https://medium.com/p/67aa6dc91685) |
-| Fri, 16 Jan 2026 19:22:54 GMT | From SQL to Root: PostgreSQL (pg_write_server_files in | Oz | [Read More](https://medium.com/p/10732c237ec1) |
-| Fri, 16 Jan 2026 19:22:14 GMT | Security 101: The One HTTP Header That Stops Code Injection Attacks | Kunal Sinha | [Read More](https://medium.com/p/bca4de7920d5) |
-| Fri, 16 Jan 2026 19:18:50 GMT | Lab: SQL injection vulnerability allowing login bypass | Songül Kızılay Özügürler | [Read More](https://medium.com/p/cb52d007d51e) |
-| Fri, 16 Jan 2026 19:13:34 GMT | API Gateway Security | Prettycybergirl | [Read More](https://medium.com/p/2ef0582deaf9) |
-| Fri, 16 Jan 2026 19:06:45 GMT | AI-Powered Cybersecurity Threat Detection 2026: How Self-Learning Models Are Replacing Traditional… | Ashok Verma | [Read More](https://medium.com/p/8635bf39c976) |
-| Fri, 16 Jan 2026 19:06:44 GMT | Golden Ticket Attack Analysis: Total Dominion and Persistence in Active Directory | Esra Kayhan | [Read More](https://medium.com/p/deb53b367ebc) |
-| Fri, 16 Jan 2026 19:04:58 GMT | Understanding Active Directory as a Network Penetration Tester | Victor Aaron Winnercoz | [Read More](https://medium.com/p/a14df1aa7257) |
-| Fri, 16 Jan 2026 19:01:58 GMT | Anti-Cheat in Gaming | Iram Jack | [Read More](https://medium.com/p/24fc18b7676b) |
-| Fri, 16 Jan 2026 18:45:29 GMT | CTF Starter Pack (Web) | Fl4g Hunt3r Project | [Read More](https://medium.com/p/178b201a132e) |
-| Fri, 16 Jan 2026 18:43:13 GMT | Identity Shield 2026: Day 1—Where Cybersecurity Meets Innovation (And I’m Already Hooked!) | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/7e36076fb5c4) |
-| Fri, 16 Jan 2026 18:36:11 GMT | Understanding SSRF: How Hackers Turn Your Server Into a Secret Proxy | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/f50fb65e612e) |
-| Fri, 16 Jan 2026 18:28:56 GMT | Conference Whispers: CES 2026 | Doreen Galli, Ph.D. MBA | [Read More](https://medium.com/p/babc6f41f3ea) |
-| Fri, 16 Jan 2026 18:27:23 GMT | Secure Kubernetes Deployment Guide (Self-Managed) — Part III | SOCFortress | [Read More](https://medium.com/p/32ad318d9952) |
