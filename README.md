@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 Jan 2026 03:01:12 GMT | Applications, drop your PINs | Pavel Lahoda | [Read More](https://medium.com/p/75bfee66c921) |
+| Sat, 17 Jan 2026 02:52:05 GMT | I Audited a Loan App and Found the Keys to the Kingdom | Nahyan Jahromi | [Read More](https://medium.com/p/869d17d0e54f) |
+| Sat, 17 Jan 2026 01:55:12 GMT | If MFA Is Required, Passkeys Are Simply More Ergonomic | Selorm Adjabeng | [Read More](https://medium.com/p/560006517258) |
 | Sat, 17 Jan 2026 01:33:05 GMT | Heartbleed Never Really Left: Why MongoBleed Is a Wake-Up Call | Selorm Adjabeng | [Read More](https://medium.com/p/2114f3f3cd96) |
 | Sat, 17 Jan 2026 01:32:35 GMT | ArchiMate philosophy and Behavior Driven Development | Andrey Lebedev | [Read More](https://medium.com/p/3dcf2b62353e) |
 | Sat, 17 Jan 2026 01:14:53 GMT | Balancing UX Functions with Information Security Requirements | Ziya Gokalp | [Read More](https://medium.com/p/f726ef2ee831) |
@@ -110,6 +113,3 @@ Amazing content! | Alborz Nazari | [Read More](https://medium.com/p/078ed8cdef4c
 | Fri, 16 Jan 2026 15:54:21 GMT | Securing AI Agents: Monitoring for Threats You Can’t Unit Test | Michael Hannecke | [Read More](https://medium.com/p/0674d4a3c762) |
 | Fri, 16 Jan 2026 15:54:20 GMT | The Surveillance Cartel | Erik Blair | [Read More](https://medium.com/p/4cea89040d2f) |
 | Fri, 16 Jan 2026 15:37:58 GMT | IAM in the Age of AI: Why Identity Governance Must Evolve Beyond Humans | Sunnysinha | [Read More](https://medium.com/p/809b33651087) |
-| Fri, 16 Jan 2026 15:32:08 GMT | Security best practices in Umami codebase — part 1.1 | Ramu Narasinga | [Read More](https://medium.com/p/ff42a9734828) |
-| Fri, 16 Jan 2026 15:27:30 GMT | Breaking E-Commerce: How Client-Side Price Manipulation Lets You Pay Whatever You Want | OopsSec Store | [Read More](https://medium.com/p/6b78b0fac2b9) |
-| Fri, 16 Jan 2026 15:20:09 GMT | “Bug Bounty Bootcamp #17: Mastering Blind XSS — Unleash the Hidden Predator That Devours Admin… | Aman Sharma | [Read More](https://medium.com/p/4d2753520212) |
