@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 Jan 2026 11:28:25 GMT | Write-up: Internal lab (Hard) on THM | cLODIUS cOCK | [Read More](https://medium.com/p/2faaafecf453) |
+| Sat, 17 Jan 2026 11:25:03 GMT | How a WannaCry Sample Hid its payload inside a Password Protected | Ben Rubin (Zedocun) | [Read More](https://medium.com/p/5d1b63483ef4) |
+| Sat, 17 Jan 2026 11:21:25 GMT | Weaponizing NotebookLM: How a “Harmless” Intent Can Silently Brick Your System Storage | Sandiyo Christan | [Read More](https://medium.com/p/293df02fe891) |
+| Sat, 17 Jan 2026 11:18:57 GMT | What “Affordable” Hosting Should Actually Look Like in 2026? | Andy | [Read More](https://medium.com/p/99f17eef9fc6) |
 | Sat, 17 Jan 2026 11:03:01 GMT | Linux Post-Exploitation 102: Breaking Out and Moving Up | Al3xx | [Read More](https://medium.com/p/bd3e27667292) |
 | Sat, 17 Jan 2026 11:02:58 GMT | A Simple IDOR That Ignored Platform Logic | Parth Narula | [Read More](https://medium.com/p/09bf86a8bf1d) |
 | Sat, 17 Jan 2026 10:46:36 GMT | The lazy method I use to learn bug bounty hunting | RicOnTech | [Read More](https://medium.com/p/0221184842e8) |
@@ -109,7 +113,3 @@ Telegram was created to offer… | Ankit rai | [Read More](https://medium.com/p/
 | Sat, 17 Jan 2026 01:10:38 GMT | DefenceNet: The Link You Didn’t Mean to Open | Datacove.ai | [Read More](https://medium.com/p/867382db5089) |
 | Sat, 17 Jan 2026 01:04:10 GMT | TOR Browser 101: How It Works, Why It Matters, and How to Get Started | Crypto Writer Dude | [Read More](https://medium.com/p/45795d324625) |
 | Sat, 17 Jan 2026 00:31:15 GMT | Understanding FIPS 202: The Design of Keccak, SHA-3, and SHAKE | Deeptiman Pattnaik | [Read More](https://medium.com/p/aaad72608cc9) |
-| Sat, 17 Jan 2026 00:22:19 GMT | Integrating Flatsat with COSMOS C3: A Flexible Ground Segment for Hacking and Mission Ops | PWNSAT | [Read More](https://medium.com/p/a13ded9d138a) |
-| Sat, 17 Jan 2026 00:03:14 GMT | Web Security: Guide to Exploiting HTTP Methods and Bypassing WAFs | JPablo13 | [Read More](https://medium.com/p/08edb18cc6b9) |
-| Fri, 16 Jan 2026 23:52:12 GMT | Model Security Is the Wrong Frame | Cyber-AppSec | [Read More](https://medium.com/p/c3931a79924b) |
-| Fri, 16 Jan 2026 23:37:28 GMT | Your Brain Has a Spam Filter. Can We Reverse-Engineer It? | Kevin | [Read More](https://medium.com/p/799da714238e) |
