@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 Jan 2026 03:46:45 GMT | Space Hacking: The Final Frontier of Cyber Warfare | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/8b179f02fd2e) |
+| Sat, 17 Jan 2026 03:43:20 GMT | Most Beginners Learn Ethical Hacking the Wrong Way — Python Fixed That for Me | Vignesh Selvaraj | [Read More](https://medium.com/p/a51750ebd241) |
+| Sat, 17 Jan 2026 03:25:41 GMT | Why Authentication and Authorization Must Be Centralized in Microservices | Anand | [Read More](https://medium.com/p/d9990c7b708d) |
+| Sat, 17 Jan 2026 03:18:18 GMT | The Real Reason Encryption Is Mandatory in Enterprise Java Microservices | Anand | [Read More](https://medium.com/p/cd9ee5f769b0) |
 | Sat, 17 Jan 2026 03:01:12 GMT | Applications, drop your PINs | Pavel Lahoda | [Read More](https://medium.com/p/75bfee66c921) |
 | Sat, 17 Jan 2026 02:52:05 GMT | I Audited a Loan App and Found the Keys to the Kingdom | Nahyan Jahromi | [Read More](https://medium.com/p/869d17d0e54f) |
 | Sat, 17 Jan 2026 01:55:12 GMT | If MFA Is Required, Passkeys Are Simply More Ergonomic | Selorm Adjabeng | [Read More](https://medium.com/p/560006517258) |
@@ -65,6 +69,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 16 Jan 2026 19:51:16 GMT | Cyber Incident Response Training: The Definitive Guide for 2026 | IT_Engineer | [Read More](https://medium.com/p/7a95bff854d4) |
 | Fri, 16 Jan 2026 19:49:49 GMT | What is AWS EC2? | Vishishtadilsara | [Read More](https://medium.com/p/e66de1298cd3) |
 | Fri, 16 Jan 2026 19:46:23 GMT | TryHackMe - SSTI - WriteUp | Axoloth | [Read More](https://medium.com/p/296a8794acea) |
+| Fri, 16 Jan 2026 19:41:42 GMT | Critical OpenKM Zero-Day Enables Full Server Takeover (No Patch Available) | Terra System Labs | [Read More](https://medium.com/p/ea5f1a0d1b9a) |
 | Fri, 16 Jan 2026 19:38:11 GMT | What It Means When Someone Believes in You | Rahul Gupta | [Read More](https://medium.com/p/553fe0c65d74) |
 | Fri, 16 Jan 2026 19:37:35 GMT | “Think Your Password Is Strong?’’ John the Ripper Might Disagree. | Leaving Nadir | [Read More](https://medium.com/p/1344bb6778c9) |
 | Fri, 16 Jan 2026 19:32:12 GMT | Some brilliant content that has to be fully taken with patience and learning.
@@ -108,8 +113,3 @@ Amazing content! | Alborz Nazari | [Read More](https://medium.com/p/078ed8cdef4c
 | Fri, 16 Jan 2026 16:22:47 GMT | Top AI Skills and Careers to Master in 2026 | Faraz Weerabangsa | [Read More](https://medium.com/p/30070fe9c3a5) |
 | Fri, 16 Jan 2026 16:12:20 GMT | QRadar Dominance in Modern SOC Architectures: Technical Superiority and Strategic Realities | Ali Okan Yüksel | [Read More](https://medium.com/p/5dc6e216b397) |
 | Fri, 16 Jan 2026 16:08:02 GMT | Agentic AI in penetration testing | Andrea Valle | [Read More](https://medium.com/p/da0f182d6fb0) |
-| Fri, 16 Jan 2026 16:01:54 GMT | How to Share Secrets Securely: One-Time Links That Self-Destruct | Dan Wagner | [Read More](https://medium.com/p/7fbd5caa99f6) |
-| Fri, 16 Jan 2026 16:01:15 GMT | Linux Basic Commands for Beginners: Essential Commands Every Beginner Should Learn | Shadow Attackers | [Read More](https://medium.com/p/67884aff0c63) |
-| Fri, 16 Jan 2026 15:54:21 GMT | Securing AI Agents: Monitoring for Threats You Can’t Unit Test | Michael Hannecke | [Read More](https://medium.com/p/0674d4a3c762) |
-| Fri, 16 Jan 2026 15:54:20 GMT | The Surveillance Cartel | Erik Blair | [Read More](https://medium.com/p/4cea89040d2f) |
-| Fri, 16 Jan 2026 15:37:58 GMT | IAM in the Age of AI: Why Identity Governance Must Evolve Beyond Humans | Sunnysinha | [Read More](https://medium.com/p/809b33651087) |
