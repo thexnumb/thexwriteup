@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 Jan 2026 08:26:56 GMT | Zero Trust for Network Engineers: Practical Implementation Beyond the Buzzword | Hmbali | [Read More](https://medium.com/p/a8225e75e477) |
+| Sat, 17 Jan 2026 08:23:26 GMT | Stop Polling Like It’s 2005: Build Real-Time Apps with WebSockets | Jitin Kayyala | [Read More](https://medium.com/p/57c8c8a5f3bd) |
+| Sat, 17 Jan 2026 08:14:45 GMT | Real-Time Cyber Threat Intelligence Sharing Without Blockchain Bottlenecks | Dr. Ayaz H. Khan | [Read More](https://medium.com/p/25b2e42cea75) |
+| Sat, 17 Jan 2026 08:11:34 GMT | Should you deploy Security Copilot with Zero Trust? | Yash Mudaliar | [Read More](https://medium.com/p/c3e28f529bb8) |
+| Sat, 17 Jan 2026 08:07:09 GMT | Don't be a generalist | Inspiraller | [Read More](https://medium.com/p/187d641d2b25) |
+| Sat, 17 Jan 2026 08:04:33 GMT | SkiaHelios: Accelerating Windows DFIR with Polars and Automated Timeline Analysis | schutzz | [Read More](https://medium.com/p/72b756baff32) |
+| Sat, 17 Jan 2026 08:01:58 GMT | Part III: Certificate as a Service (CaaS) | Raymon Epping | [Read More](https://medium.com/p/64ab2d031793) |
+| Sat, 17 Jan 2026 08:00:56 GMT | The Role of a Technologist vs Engineer vs Developer: Key Differences Explained | Dennis Duke | [Read More](https://medium.com/p/c44e12321325) |
+| Sat, 17 Jan 2026 07:56:26 GMT | From .env Files to IAM-Controlled Secrets with AWS SSM Parameter Store | Silversky Technology | [Read More](https://medium.com/p/25ad3d436d79) |
+| Sat, 17 Jan 2026 07:51:21 GMT | Responsible AI Has Become a Buzzword — Here’s How Security Teams Can Make It Real | Taimur Ijlal | [Read More](https://medium.com/p/d0458328218a) |
+| Sat, 17 Jan 2026 07:50:57 GMT | ⚡ PowerShell-Based Red Team Techniques — In-Depth Guide ⚡ | Esra Kayhan | [Read More](https://medium.com/p/6b27043ff608) |
+| Sat, 17 Jan 2026 07:44:23 GMT | Google Dorks to Find SQL Injection Vulnerable Websites | Mr Abdullah | [Read More](https://medium.com/p/6eaf49f9d0c9) |
+| Sat, 17 Jan 2026 07:35:32 GMT | Use Composer like Pro in 2026 | Jerome D | [Read More](https://medium.com/p/f65a7eaa2633) |
+| Sat, 17 Jan 2026 07:33:35 GMT | GDPR as a Blueprint for Risk-Aware Architecture | Anton Minin Baranovskii | [Read More](https://medium.com/p/d8f811d1ec1a) |
 | Sat, 17 Jan 2026 07:23:17 GMT | HTB Titanic Room Walkthrough/Explanation | Bcourt | [Read More](https://medium.com/p/51d1863d869c) |
 | Sat, 17 Jan 2026 07:14:59 GMT | What is artificial intelligence and machine learning in simple words | cyber security Updates | [Read More](https://medium.com/p/1739d15046ac) |
 | Sat, 17 Jan 2026 07:12:34 GMT | The One-Prompt PT Lab: Autonomous Android Security Research with Cursor AI | Andrey Pautov | [Read More](https://medium.com/p/b96ed2053071) |
@@ -99,17 +113,3 @@ Telegram was created to offer… | Ankit rai | [Read More](https://medium.com/p/
 | Fri, 16 Jan 2026 21:02:21 GMT | Brute-it | Jadem Yasser | [Read More](https://medium.com/p/bb0b5a9989e7) |
 | Fri, 16 Jan 2026 20:38:16 GMT | The New Rules of Cybersecurity: Why 2026 Changes Everything | Anjali Gopinadhan Nair | [Read More](https://medium.com/p/5f4df833017c) |
 | Fri, 16 Jan 2026 20:36:32 GMT | When Luigi Hunts Malware | cybertactic | [Read More](https://medium.com/p/02160b9c8ad0) |
-| Fri, 16 Jan 2026 20:30:13 GMT | I Work From Coffee Shops Every Day. My Browser Had to Adapt. | Abigail Harris | [Read More](https://medium.com/p/1cd80b204125) |
-| Fri, 16 Jan 2026 20:27:35 GMT | I stayed until I couldn’t recognize myself | Ashanti Loveee | [Read More](https://medium.com/p/aab6d0d4de90) |
-| Fri, 16 Jan 2026 20:22:54 GMT | I’m studying for the Security+ exam. | Josiah Blanchette | [Read More](https://medium.com/p/b6f0f7d38df2) |
-| Fri, 16 Jan 2026 20:20:51 GMT | Quand Luigi chasse les malwares | cybertactic | [Read More](https://medium.com/p/ff11b0f2dff8) |
-| Fri, 16 Jan 2026 20:14:47 GMT | Owasp top10:2025 Vulnerabilities Explained With Examples Part 1 | stealb0ss | [Read More](https://medium.com/p/086a4561d261) |
-| Fri, 16 Jan 2026 19:55:26 GMT | TryHackMe Writeup: Archangel | Berkay AĞGÜL | [Read More](https://medium.com/p/7299ebe4f12f) |
-| Fri, 16 Jan 2026 19:53:46 GMT | I Sat In My Car After Work And Wrote This… | Okuruesther | [Read More](https://medium.com/p/10915ba9b16a) |
-| Fri, 16 Jan 2026 19:52:57 GMT | Common Online Privacy Mistakes Most People Make. | Iosifberg | [Read More](https://medium.com/p/910aeaad8d38) |
-| Fri, 16 Jan 2026 19:51:16 GMT | Cyber Incident Response Training: The Definitive Guide for 2026 | IT_Engineer | [Read More](https://medium.com/p/7a95bff854d4) |
-| Fri, 16 Jan 2026 19:49:49 GMT | What is AWS EC2? | Vishishtadilsara | [Read More](https://medium.com/p/e66de1298cd3) |
-| Fri, 16 Jan 2026 19:46:23 GMT | TryHackMe - SSTI - WriteUp | Axoloth | [Read More](https://medium.com/p/296a8794acea) |
-| Fri, 16 Jan 2026 19:41:42 GMT | Critical OpenKM Zero-Day Enables Full Server Takeover (No Patch Available) | Terra System Labs | [Read More](https://medium.com/p/ea5f1a0d1b9a) |
-| Fri, 16 Jan 2026 19:38:11 GMT | What It Means When Someone Believes in You | Rahul Gupta | [Read More](https://medium.com/p/553fe0c65d74) |
-| Fri, 16 Jan 2026 19:37:35 GMT | “Think Your Password Is Strong?’’ John the Ripper Might Disagree. | Leaving Nadir | [Read More](https://medium.com/p/1344bb6778c9) |
