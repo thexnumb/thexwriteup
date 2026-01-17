@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 Jan 2026 13:28:19 GMT | Passkeys in Practice: Secure Authentication Without Passwords | Chitwan | [Read More](https://medium.com/p/7235ebfe8557) |
+| Sat, 17 Jan 2026 13:22:23 GMT | Writeup Appointment — Hack The Box | RavenBreach | [Read More](https://medium.com/p/76adcf30e7bd) |
+| Sat, 17 Jan 2026 13:10:39 GMT | Finding a $600 Remote Code Execution (RCE) on an E-Commerce Platform | Cybervolt | [Read More](https://medium.com/p/4fcb483778be) |
+| Sat, 17 Jan 2026 13:03:23 GMT | Malware Traffic Analysis: It’s a trap! | dovidee | [Read More](https://medium.com/p/3e65f89d5ddc) |
+| Sat, 17 Jan 2026 12:53:52 GMT | What Internet Traffic Looks Like on an Exposed Redis Service | berke bodur | [Read More](https://medium.com/p/056ebf0dc852) |
+| Sat, 17 Jan 2026 12:49:12 GMT | Stop Repeating Tasks — Let SOAR Simplify Your Security Workflow | Misbah waraich | [Read More](https://medium.com/p/03f253bcc982) |
+| Sat, 17 Jan 2026 12:39:55 GMT | It’s Never “Just” a Password | Marc-André Lanciault | [Read More](https://medium.com/p/488fde52d8fa) |
+| Sat, 17 Jan 2026 12:37:35 GMT | OSINT for Beginners: How Security Teams Use Public Data to Stop Attacks | CEOofNOTHING | [Read More](https://medium.com/p/8a2701c39d91) |
 | Sat, 17 Jan 2026 12:31:32 GMT | Setup Android pentest environment on ubuntu 22.04 | Risalahqolbu | [Read More](https://medium.com/p/e3695c56a172) |
 | Sat, 17 Jan 2026 12:25:50 GMT | What Is the Difference Between AI and ML? — Full Guide 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/f673b579b33d) |
 | Sat, 17 Jan 2026 12:13:49 GMT | How Choosing the Right Wordlist Can Make or Break a Bug Bounty. | Lopseg | [Read More](https://medium.com/p/f2684b8fdabd) |
@@ -104,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 05:04:54 GMT | They Plugged In a USB Cable — and Lost Their Business by Lunch: A Malicious BadUSB Attack Explained | Noel | [Read More](https://medium.com/p/dbded78176ae) |
 | Sat, 17 Jan 2026 05:04:49 GMT | Should You Still Choose Cybersecurity in 2026? | Shahzaib | [Read More](https://medium.com/p/58dfdedbe442) |
 | Sat, 17 Jan 2026 05:02:56 GMT | Mass Assignment leads to Account Takeover and DoS | Rahul Singh Chauhan | [Read More](https://medium.com/p/32132ee92486) |
-| Sat, 17 Jan 2026 05:01:59 GMT | Cybersecurity Is a Money Skill — Here’s Why Developers Ignore It | Ms. Byte Dev | [Read More](https://medium.com/p/637eb975c098) |
-| Sat, 17 Jan 2026 05:00:24 GMT | How Telegram Is Being Used by Scammers to Run Silent Digital Crimes
-Telegram was created to offer… | Ankit rai | [Read More](https://medium.com/p/6e3205eb8f17) |
-| Sat, 17 Jan 2026 04:59:54 GMT | Swiss Knife of the Pen-Tester,  Practical Burp Suite Methodology — Part 1 | Martin Simonyan | [Read More](https://medium.com/p/cc20777c71d7) |
-| Sat, 17 Jan 2026 04:59:48 GMT | ️ The Skeleton Key in Your Pocket: Mastering the iCopy-XS (Part 1 of 5) | Nicholas Mullenski | [Read More](https://medium.com/p/e7a32af5a8d1) |
-| Sat, 17 Jan 2026 04:56:36 GMT | How to Actually Learn Hacking in 2026 — A Practical Guide | Satyam Pathania | [Read More](https://medium.com/p/37da2146d472) |
-| Sat, 17 Jan 2026 04:56:23 GMT | $3,500 Shopify Partners Bug: Become “Owner” Without Verifying the Email | Monika sharma | [Read More](https://medium.com/p/936999f2dccd) |
-| Sat, 17 Jan 2026 04:54:58 GMT | Breaking Rate Limiting: Where It Breaks and How Attackers Bypass It | Fuzzyy Duck | [Read More](https://medium.com/p/a1fdd8099caf) |
-| Sat, 17 Jan 2026 04:46:22 GMT | The Dark Web Is Not What You Think | Satyam Pathania | [Read More](https://medium.com/p/7d133a04b3ae) |
