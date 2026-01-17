@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 Jan 2026 14:38:04 GMT | Adapter Pattern: Bridging Incompatible Worlds (Without Losing Your Mind) | Jitin Kayyala | [Read More](https://medium.com/p/c58151e11a18) |
+| Sat, 17 Jan 2026 14:35:43 GMT | Black IP : Network Intelligence Tool | Abhirup Konwar | [Read More](https://medium.com/p/1188bfa1591c) |
+| Sat, 17 Jan 2026 14:31:59 GMT | Detecting ARP Poisoning Attacks: A Comprehensive Guide | Vignesh R | [Read More](https://medium.com/p/415b1f3a1d61) |
+| Sat, 17 Jan 2026 14:26:26 GMT | Building Pinterest Boards for Lives I Will Never Lead | Roshni Ojha | [Read More](https://medium.com/p/b27b1860e4d4) |
+| Sat, 17 Jan 2026 14:21:27 GMT | SentinelOne Vigilance MDR: How It’s Quietly Changing the Way SOCs Work | Dean | [Read More](https://medium.com/p/48afc0ed242e) |
 | Sat, 17 Jan 2026 14:13:19 GMT | My Udemy courses (and coupon codes) | John Bandler | [Read More](https://medium.com/p/6706f7d595b0) |
 | Sat, 17 Jan 2026 14:11:20 GMT | How React got hacked | Alexandre C. Santos | [Read More](https://medium.com/p/984fc7e8bd25) |
 | Sat, 17 Jan 2026 14:05:23 GMT | Good Strategy, Real Leadership: Reflections from a Security Executive in the Making | Jesse Nelson | [Read More](https://medium.com/p/88a6f168a14d) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 06:31:50 GMT | 2025藍隊之路-HTB CDSA 心得分享 | segalee | [Read More](https://medium.com/p/54d9f382ae2c) |
 | Sat, 17 Jan 2026 06:28:04 GMT | # How Cybercrime Threatens Our Future | ritesh | [Read More](https://medium.com/p/312b935dd23a) |
 | Sat, 17 Jan 2026 06:21:43 GMT | Zionist Security Doctrine: Zero Tolerance | Shéa | [Read More](https://medium.com/p/7e80813687c0) |
-| Sat, 17 Jan 2026 06:12:05 GMT | My House Chips Were Deactivated: 5 Steps to Reclaim Digital Sovereignty | Hakan Yilmaz | [Read More](https://medium.com/p/b3d477499edf) |
-| Sat, 17 Jan 2026 06:10:34 GMT | Importance of Password Management in the Digital Age: How Passmanai.org Prevents Data Breaches | Passman AI | [Read More](https://medium.com/p/a6db1646baa9) |
-| Sat, 17 Jan 2026 06:06:53 GMT | From Logs to Alerts: Building an SSH Brute-Force Detection System with Splunk | Aisha B. B | [Read More](https://medium.com/p/586056d7019f) |
-| Sat, 17 Jan 2026 06:03:28 GMT | How I Found My First Valid Bug Without Any Paid Tools | Er Dhaval Ramani | [Read More](https://medium.com/p/84d5db2738fd) |
-| Sat, 17 Jan 2026 05:57:00 GMT | Open Fire(base): How I Dumped a Company’s Database with Just a Browser | Nahyan Jahromi | [Read More](https://medium.com/p/1ba17abf98a6) |
