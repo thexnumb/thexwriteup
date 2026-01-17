@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 Jan 2026 20:01:22 GMT | Stop Idle Overload And Restore A Quiet Reliable Windows PC! | Geoffrey Wenger | [Read More](https://medium.com/p/02a55c0c333b) |
+| Sat, 17 Jan 2026 19:55:04 GMT | ANTHEM TryHackMe Writeup/Walkthrough | sudo_0xksh | [Read More](https://medium.com/p/40c7c20a1802) |
+| Sat, 17 Jan 2026 19:49:47 GMT | Agent Sudo THM Writeup/Walkthrough | sudo_0xksh | [Read More](https://medium.com/p/c788c40a88c0) |
+| Sat, 17 Jan 2026 19:33:52 GMT | Secure Kubernetes Deployment Guide (Self-Managed) — Part IV | SOCFortress | [Read More](https://medium.com/p/a09a3099b8b7) |
 | Sat, 17 Jan 2026 19:28:40 GMT | “And Then There Were None”: Achieving My PNPT in 2025! | Jinendar Kothari | [Read More](https://medium.com/p/232845854815) |
 | Sat, 17 Jan 2026 19:28:22 GMT | Linux Privilege Escalation: The Path from Low-Privilege to Root | Esra Kayhan | [Read More](https://medium.com/p/a635b58bbe3d) |
 | Sat, 17 Jan 2026 19:27:28 GMT | Azure WAF Setup with Simple Web App Service | Siddharth D | [Read More](https://medium.com/p/f9113fda7229) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 12:37:35 GMT | OSINT for Beginners: How Security Teams Use Public Data to Stop Attacks | CEOofNOTHING | [Read More](https://medium.com/p/8a2701c39d91) |
 | Sat, 17 Jan 2026 12:31:32 GMT | Setup Android pentest environment on ubuntu 22.04 | Risalahqolbu | [Read More](https://medium.com/p/e3695c56a172) |
 | Sat, 17 Jan 2026 12:25:50 GMT | What Is the Difference Between AI and ML? — Full Guide 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/f673b579b33d) |
-| Sat, 17 Jan 2026 12:13:49 GMT | How Choosing the Right Wordlist Can Make or Break a Bug Bounty. | Lopseg | [Read More](https://medium.com/p/f2684b8fdabd) |
-| Sat, 17 Jan 2026 12:10:48 GMT | Lab: Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and… | KRY | [Read More](https://medium.com/p/27ee7876e930) |
-| Sat, 17 Jan 2026 12:09:53 GMT | Building LLM Guardrails for High-Stakes Security: A Banking Case Study on Insider Threat Detection | Terrence Cai | [Read More](https://medium.com/p/bdfc084226fc) |
-| Sat, 17 Jan 2026 12:09:50 GMT | TCS HackQuest Season 10 — Round 2 Writeup | TraceX0 | [Read More](https://medium.com/p/81d0f8895b65) |
