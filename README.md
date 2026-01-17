@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 Jan 2026 14:13:19 GMT | My Udemy courses (and coupon codes) | John Bandler | [Read More](https://medium.com/p/6706f7d595b0) |
+| Sat, 17 Jan 2026 14:11:20 GMT | How React got hacked | Alexandre C. Santos | [Read More](https://medium.com/p/984fc7e8bd25) |
+| Sat, 17 Jan 2026 14:05:23 GMT | Good Strategy, Real Leadership: Reflections from a Security Executive in the Making | Jesse Nelson | [Read More](https://medium.com/p/88a6f168a14d) |
+| Sat, 17 Jan 2026 14:02:30 GMT | My Team Offered to Work FREE After CEO Chose Claude Code — Here’s What Happened Next | Is It Vritra - SDE I | [Read More](https://medium.com/p/be89ffbf39d6) |
+| Sat, 17 Jan 2026 13:49:05 GMT | Understanding ISO Certifications: A Beginner-Friendly Guide | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/52434160d115) |
 | Sat, 17 Jan 2026 13:36:58 GMT | Digital Signatures, Certificates & Keystores Explained for Java Developers | Suraj Bhandari | [Read More](https://medium.com/p/06346cd70985) |
 | Sat, 17 Jan 2026 13:36:03 GMT | Is Your Digital Life Really Safe ? | Techy Mecha | [Read More](https://medium.com/p/b57bbe54947a) |
 | Sat, 17 Jan 2026 13:35:58 GMT | Lake Charles, LA ~ Home Security Systems | Home & Garden Shows | [Read More](https://medium.com/p/f3999550e2c6) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 06:06:53 GMT | From Logs to Alerts: Building an SSH Brute-Force Detection System with Splunk | Aisha B. B | [Read More](https://medium.com/p/586056d7019f) |
 | Sat, 17 Jan 2026 06:03:28 GMT | How I Found My First Valid Bug Without Any Paid Tools | Er Dhaval Ramani | [Read More](https://medium.com/p/84d5db2738fd) |
 | Sat, 17 Jan 2026 05:57:00 GMT | Open Fire(base): How I Dumped a Company’s Database with Just a Browser | Nahyan Jahromi | [Read More](https://medium.com/p/1ba17abf98a6) |
-| Sat, 17 Jan 2026 05:56:23 GMT | Design First, Host Smarter: The Setup Most Creators Discover Too Late | Janet Watson | [Read More](https://medium.com/p/3bac30b79fa0) |
-| Sat, 17 Jan 2026 05:49:19 GMT | Top Cyber Security Course in Kerala - Kochi - Offenso Academy | Ajal Workspace | [Read More](https://medium.com/p/e323dbff83a0) |
-| Sat, 17 Jan 2026 05:17:45 GMT | Wazuh: The Open-Source SIEM That Beats Splunk (And It’s Completely Free) | inboryn | [Read More](https://medium.com/p/5f7edc8c4c7e) |
-| Sat, 17 Jan 2026 05:07:55 GMT | Best Security Services in Haryana — Lakshay Security & Placement Services | Lakshay Security | [Read More](https://medium.com/p/e9830bd39919) |
-| Sat, 17 Jan 2026 05:06:55 GMT | Two OAuth 2.0 Specs You Should Know About: Token Exchange and JWT Bearer Grant | Florian Röser | [Read More](https://medium.com/p/4c9c56299130) |
