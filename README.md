@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 Jan 2026 09:17:03 GMT | What Information Can You Extract From Just a Domain | Abhay Parashar | [Read More](https://medium.com/p/0cd022d84bb2) |
 | Sat, 17 Jan 2026 09:09:36 GMT | The “Catgirl” Pivot: How Akira Affiliates Are Weaponizing Commodity RAT Infrastructure in 2026 | Rhishav Kanjilal | [Read More](https://medium.com/p/85c2f54eb72a) |
 | Sat, 17 Jan 2026 09:09:07 GMT | Blancco Datenlöschung erklärt: Sichere IT-Entsorgung mit Second IT | Second IT | [Read More](https://medium.com/p/360701524759) |
 | Sat, 17 Jan 2026 09:02:10 GMT | Cloud Keys to the Kingdom” | Sidhantchaurasiya | [Read More](https://medium.com/p/f1ac25073e68) |
@@ -112,4 +113,3 @@ Telegram was created to offer… | Ankit rai | [Read More](https://medium.com/p/
 | Fri, 16 Jan 2026 22:04:56 GMT | AI Security isn’t a New Problem. It’s the Same Problem we Keep Refusing to Solve. | Jeffrey W. Brown | [Read More](https://medium.com/p/e125b5d70d85) |
 | Fri, 16 Jan 2026 21:57:56 GMT | From Perimeter Security to Practical Zero Trust: A Real-World Approach for Modern Networks | Shahzad Ayub | [Read More](https://medium.com/p/dfeffd8b0e7f) |
 | Fri, 16 Jan 2026 21:55:44 GMT | Shadow Work, Discomfort, and Tarot | Ali Owl Rising | [Read More](https://medium.com/p/d782188238b4) |
-| Fri, 16 Jan 2026 21:46:36 GMT | Day 18 — Obfuscation: The Egg Shell File | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/a91f6cd42d0b) |
