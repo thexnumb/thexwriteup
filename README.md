@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 Jan 2026 17:15:52 GMT | Why Security Controls Fail Before an Attacker Even Tries | Tyreek Haynes | [Read More](https://medium.com/p/858050451cb8) |
+| Sat, 17 Jan 2026 16:57:31 GMT | What I Found While Analyzing a Fake Banking App | Adwaith S | [Read More](https://medium.com/p/7b495558c7ff) |
+| Sat, 17 Jan 2026 16:54:12 GMT | Master API Security: I Built a Vulnerable Lab for Beginners (VulnShop) | Sreejihkn | [Read More](https://medium.com/p/3c4ec0bc0da0) |
+| Sat, 17 Jan 2026 16:47:09 GMT | CTF — Basic Pentesting | Marduk I Am | [Read More](https://medium.com/p/2d3d56aaeb52) |
 | Sat, 17 Jan 2026 16:28:04 GMT | LetsDefend: SOC138 — Detected Suspicious Xls File — EventID: 77 - Walkthrough | Beatriz Gomes | [Read More](https://medium.com/p/daefe5f7580e) |
 | Sat, 17 Jan 2026 16:27:31 GMT | Reverse-Engineering Anomalous Effects: The Dual-Use Risks of Comms Infrastructure. | NT | [Read More](https://medium.com/p/0430920ba2df) |
 | Sat, 17 Jan 2026 16:25:49 GMT | Cyber Law, Ethical Hacking and Penetration Testing | Nukhbasoomro | [Read More](https://medium.com/p/15a061db8cd8) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 09:01:58 GMT | The Employee Who Leaked 200 Corporate Logins From His Personal Laptop | Alexandre Vandamme | [Read More](https://medium.com/p/d6a338e8dd5a) |
 | Sat, 17 Jan 2026 09:00:15 GMT | Techniques to Securely Connect Java Applications to Cloud Databases Using Service Accounts and… | Anh Trần Tuấn | [Read More](https://medium.com/p/ee1b8fccc40a) |
 | Sat, 17 Jan 2026 08:55:52 GMT | ICS FuelStation Challenge — LetsDefend | Patrick Abou Nakoul | [Read More](https://medium.com/p/481149bd0230) |
-| Sat, 17 Jan 2026 08:44:02 GMT | The Quiet Collapse of Hierarchy | Aaron Sempf | [Read More](https://medium.com/p/58d8b0da42f3) |
-| Sat, 17 Jan 2026 08:28:36 GMT | Whoer.net Isn’t the Only Option: I Tested 5 Real Alternatives | MostLogin Anti-detect Browser | [Read More](https://medium.com/p/cc6b06a45c90) |
-| Sat, 17 Jan 2026 08:26:56 GMT | Zero Trust for Network Engineers: Practical Implementation Beyond the Buzzword | Hmbali | [Read More](https://medium.com/p/a8225e75e477) |
-| Sat, 17 Jan 2026 08:23:45 GMT | Node.js Security Issue Alert 2026: Is Your React.js/Next.js App Crashing Silently? | Azad Ansari | [Read More](https://medium.com/p/58743404ab85) |
