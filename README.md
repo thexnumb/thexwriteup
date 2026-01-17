@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 Jan 2026 23:10:11 GMT | The Zero Trust Dev Environment: No More Secrets in Your .env Files! | Georg Nelles | [Read More](https://medium.com/p/532ee8eddeeb) |
+| Sat, 17 Jan 2026 23:08:04 GMT | Password Managers for Seniors: Why You Need One (And How to Set It Up in 10 Minutes) | Carson Pietruszynski | [Read More](https://medium.com/p/5722a4e6c7e6) |
+| Sat, 17 Jan 2026 23:05:30 GMT | Why the #1 Vulnerability Isn’t About Hacking, It’s About Walking Through Open Doors | Wnellygrace | [Read More](https://medium.com/p/f1081785b951) |
+| Sat, 17 Jan 2026 23:03:18 GMT | Nested Comment Bypass file upload | Muhammad Syahrul Haniawan | [Read More](https://medium.com/p/a0878f7a9aaf) |
+| Sat, 17 Jan 2026 23:02:05 GMT | Why Companionship Scares Some People (As Much As Loneliness Does to Others) | Yllin | [Read More](https://medium.com/p/14b0fa7804db) |
+| Sat, 17 Jan 2026 22:46:13 GMT | Neural Ransomware Isn’t Science Fiction | Kevin | [Read More](https://medium.com/p/e3f9efe4ffb1) |
+| Sat, 17 Jan 2026 22:44:56 GMT | Cloud Forensics: How to Secure Digital Evidence in the Cloud | Venedix Systems, Berlin | [Read More](https://medium.com/p/c98869de031e) |
 | Sat, 17 Jan 2026 21:32:54 GMT | The Scam That Almost Got Me at 70 — And How I Fought Back | gershblumstein | [Read More](https://medium.com/p/821a1b82af33) |
 | Sat, 17 Jan 2026 21:26:41 GMT | ⚡ Stop Hackers Cold with NordVPN Security | Genelia | [Read More](https://medium.com/p/0d258694169f) |
 | Sat, 17 Jan 2026 20:48:20 GMT | SSTI Explained: HTB Hacknet Walkthrough | Motasem Hamdan | [Read More](https://medium.com/p/36909cf2cdb1) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 14:21:27 GMT | SentinelOne Vigilance MDR: How It’s Quietly Changing the Way SOCs Work | Dean | [Read More](https://medium.com/p/48afc0ed242e) |
 | Sat, 17 Jan 2026 14:13:19 GMT | My Udemy courses (and coupon codes) | John Bandler | [Read More](https://medium.com/p/6706f7d595b0) |
 | Sat, 17 Jan 2026 14:11:20 GMT | How React got hacked | Alexandre C. Santos | [Read More](https://medium.com/p/984fc7e8bd25) |
-| Sat, 17 Jan 2026 14:05:23 GMT | Good Strategy, Real Leadership: Reflections from a Security Executive in the Making | Jesse Nelson | [Read More](https://medium.com/p/88a6f168a14d) |
-| Sat, 17 Jan 2026 14:02:30 GMT | My Team Offered to Work FREE After CEO Chose Claude Code — Here’s What Happened Next | Is It Vritra - SDE I | [Read More](https://medium.com/p/be89ffbf39d6) |
-| Sat, 17 Jan 2026 13:49:05 GMT | Understanding ISO Certifications: A Beginner-Friendly Guide | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/52434160d115) |
-| Sat, 17 Jan 2026 13:36:58 GMT | Digital Signatures, Certificates & Keystores Explained for Java Developers | Suraj Bhandari | [Read More](https://medium.com/p/06346cd70985) |
-| Sat, 17 Jan 2026 13:36:03 GMT | Is Your Digital Life Really Safe ? | Techy Mecha | [Read More](https://medium.com/p/b57bbe54947a) |
-| Sat, 17 Jan 2026 13:35:58 GMT | Lake Charles, LA ~ Home Security Systems | Home & Garden Shows | [Read More](https://medium.com/p/f3999550e2c6) |
-| Sat, 17 Jan 2026 13:28:19 GMT | Passkeys in Practice: Secure Authentication Without Passwords | Chitwan | [Read More](https://medium.com/p/7235ebfe8557) |
