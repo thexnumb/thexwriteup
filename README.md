@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 Jan 2026 12:31:32 GMT | Setup Android pentest environment on ubuntu 22.04 | Risalahqolbu | [Read More](https://medium.com/p/e3695c56a172) |
+| Sat, 17 Jan 2026 12:25:50 GMT | What Is the Difference Between AI and ML? — Full Guide 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/f673b579b33d) |
+| Sat, 17 Jan 2026 12:13:49 GMT | How Choosing the Right Wordlist Can Make or Break a Bug Bounty. | Lopseg | [Read More](https://medium.com/p/f2684b8fdabd) |
+| Sat, 17 Jan 2026 12:10:48 GMT | Lab: Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and… | KRY | [Read More](https://medium.com/p/27ee7876e930) |
+| Sat, 17 Jan 2026 12:09:53 GMT | Building LLM Guardrails for High-Stakes Security: A Banking Case Study on Insider Threat Detection | Terrence Cai | [Read More](https://medium.com/p/bdfc084226fc) |
+| Sat, 17 Jan 2026 12:09:50 GMT | TCS HackQuest Season 10 — Round 2 Writeup | TraceX0 | [Read More](https://medium.com/p/81d0f8895b65) |
+| Sat, 17 Jan 2026 12:09:04 GMT | Secrets, Credentials, and Secure Data Pipeline Design | The Data Forge | [Read More](https://medium.com/p/edd14fff1145) |
+| Sat, 17 Jan 2026 12:07:57 GMT | Lab: Reflected XSS into a JavaScript string with single quote and backslash escaped | KRY | [Read More](https://medium.com/p/73b92da50bdf) |
+| Sat, 17 Jan 2026 12:04:11 GMT | Incident Response Hands-on 3 | Allen Ace | [Read More](https://medium.com/p/8cf2a65afcb2) |
+| Sat, 17 Jan 2026 12:01:58 GMT | How Government Data Leaks End Up on the Dark Web | Tor BBB | [Read More](https://medium.com/p/e5049664adab) |
+| Sat, 17 Jan 2026 11:59:31 GMT | Unlock the Power of AI with the Ultimate Tools Directory. | Sagar Shewale | [Read More](https://medium.com/p/4859b56d06f5) |
+| Sat, 17 Jan 2026 11:59:27 GMT | How JS Analysis Led to PII Disclosure | Rahul Singh Chauhan | [Read More](https://medium.com/p/02763f49108e) |
+| Sat, 17 Jan 2026 11:56:22 GMT | Web Server Security — Attacks, Tools & Defense (CEH Guide for Ethical Hackers) | Cyber Wolf | [Read More](https://medium.com/p/47ab93867b65) |
+| Sat, 17 Jan 2026 11:51:38 GMT | The metaphor that led my pen— My Moon | Laasya Kannepalli | [Read More](https://medium.com/p/b7b1df5db05b) |
+| Sat, 17 Jan 2026 11:51:37 GMT | The Angular Bug That Only Appeared on Slow Phones | Computer Architect | [Read More](https://medium.com/p/ae4606fdadd2) |
+| Sat, 17 Jan 2026 11:46:33 GMT | Join Our Cybersecurity WhatsApp Group! | Mirmahmood | [Read More](https://medium.com/p/3e6f7c1d0191) |
+| Sat, 17 Jan 2026 11:45:55 GMT | Mobile Patrol Services for Enhanced Safety and Monitoring | Travel time | [Read More](https://medium.com/p/edfaab05438f) |
 | Sat, 17 Jan 2026 11:28:25 GMT | Write-up: Internal lab (Hard) on THM | cLODIUS cOCK | [Read More](https://medium.com/p/2faaafecf453) |
 | Sat, 17 Jan 2026 11:25:03 GMT | How a WannaCry Sample Hid its payload inside a Password Protected | Ben Rubin (Zedocun) | [Read More](https://medium.com/p/5d1b63483ef4) |
 | Sat, 17 Jan 2026 11:21:25 GMT | Weaponizing NotebookLM: How a “Harmless” Intent Can Silently Brick Your System Storage | Sandiyo Christan | [Read More](https://medium.com/p/293df02fe891) |
@@ -96,20 +113,3 @@ Telegram was created to offer… | Ankit rai | [Read More](https://medium.com/p/
 | Sat, 17 Jan 2026 04:56:23 GMT | $3,500 Shopify Partners Bug: Become “Owner” Without Verifying the Email | Monika sharma | [Read More](https://medium.com/p/936999f2dccd) |
 | Sat, 17 Jan 2026 04:54:58 GMT | Breaking Rate Limiting: Where It Breaks and How Attackers Bypass It | Fuzzyy Duck | [Read More](https://medium.com/p/a1fdd8099caf) |
 | Sat, 17 Jan 2026 04:46:22 GMT | The Dark Web Is Not What You Think | Satyam Pathania | [Read More](https://medium.com/p/7d133a04b3ae) |
-| Sat, 17 Jan 2026 04:26:58 GMT | Why Big Tech No Longer Hires “Smart” Developers | Logic Over Latte | [Read More](https://medium.com/p/814acebfb3f6) |
-| Sat, 17 Jan 2026 04:15:50 GMT | Cybersecurity Isn’t Broken. We Just Don’t Take It Seriously. | Sclov Beycn | [Read More](https://medium.com/p/8d32e305d6ee) |
-| Sat, 17 Jan 2026 03:46:45 GMT | Space Hacking: The Final Frontier of Cyber Warfare | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/8b179f02fd2e) |
-| Sat, 17 Jan 2026 03:43:20 GMT | Most Beginners Learn Ethical Hacking the Wrong Way — Python Fixed That for Me | Vignesh Selvaraj | [Read More](https://medium.com/p/a51750ebd241) |
-| Sat, 17 Jan 2026 03:29:05 GMT | Update on my journey from CEH v12 (student) to … | SHIKE ACHUMI | [Read More](https://medium.com/p/6172d5eaf469) |
-| Sat, 17 Jan 2026 03:25:41 GMT | Why Authentication and Authorization Must Be Centralized in Microservices | Anand | [Read More](https://medium.com/p/d9990c7b708d) |
-| Sat, 17 Jan 2026 03:18:18 GMT | The Real Reason Encryption Is Mandatory in Enterprise Java Microservices | Anand | [Read More](https://medium.com/p/cd9ee5f769b0) |
-| Sat, 17 Jan 2026 03:01:12 GMT | Applications, drop your PINs | Pavel Lahoda | [Read More](https://medium.com/p/75bfee66c921) |
-| Sat, 17 Jan 2026 02:52:05 GMT | I Audited a Loan App and Found the Keys to the Kingdom | Nahyan Jahromi | [Read More](https://medium.com/p/869d17d0e54f) |
-| Sat, 17 Jan 2026 01:55:12 GMT | If MFA Is Required, Passkeys Are Simply More Ergonomic | Selorm Adjabeng | [Read More](https://medium.com/p/560006517258) |
-| Sat, 17 Jan 2026 01:33:05 GMT | Heartbleed Never Really Left: Why MongoBleed Is a Wake-Up Call | Selorm Adjabeng | [Read More](https://medium.com/p/2114f3f3cd96) |
-| Sat, 17 Jan 2026 01:32:35 GMT | ArchiMate philosophy and Behavior Driven Development | Andrey Lebedev | [Read More](https://medium.com/p/3dcf2b62353e) |
-| Sat, 17 Jan 2026 01:14:53 GMT | Balancing UX Functions with Information Security Requirements | Ziya Gokalp | [Read More](https://medium.com/p/f726ef2ee831) |
-| Sat, 17 Jan 2026 01:14:30 GMT | The Future Value-Driven Data Analytics Method: Augmented Analytics | Ziya Gokalp | [Read More](https://medium.com/p/64c45a9a00e1) |
-| Sat, 17 Jan 2026 01:10:38 GMT | DefenceNet: The Link You Didn’t Mean to Open | Datacove.ai | [Read More](https://medium.com/p/867382db5089) |
-| Sat, 17 Jan 2026 01:04:10 GMT | TOR Browser 101: How It Works, Why It Matters, and How to Get Started | Crypto Writer Dude | [Read More](https://medium.com/p/45795d324625) |
-| Sat, 17 Jan 2026 00:31:15 GMT | Understanding FIPS 202: The Design of Keccak, SHA-3, and SHAKE | Deeptiman Pattnaik | [Read More](https://medium.com/p/aaad72608cc9) |
