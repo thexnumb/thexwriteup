@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 Jan 2026 16:24:26 GMT | A fresh start | On The Edge | [Read More](https://medium.com/p/a810a8c4f778) |
+| Sat, 17 Jan 2026 16:21:14 GMT | Practical Roadmap for Learning File Upload Vulnerabilities | Daniel Hammoud | [Read More](https://medium.com/p/ff2bf04db0df) |
+| Sat, 17 Jan 2026 16:18:39 GMT | Write-up: Retro lab (Hard) on THM | cLODIUS cOCK | [Read More](https://medium.com/p/5747e6d3062f) |
+| Sat, 17 Jan 2026 16:11:56 GMT | I Blocked Anime Websites Like a Pro (and My Sister is Not Happy ) | Swetha | [Read More](https://medium.com/p/052fb070fe04) |
+| Sat, 17 Jan 2026 16:10:15 GMT | WhisperPair: When Your Bluetooth Headphones Become Someone Else’s Listening Device | Harsh Raj Singhania | [Read More](https://medium.com/p/9a060d8a066a) |
+| Sat, 17 Jan 2026 16:09:40 GMT | So You Got HACKED, Whose Fault Is It? | Janith Malinga | [Read More](https://medium.com/p/f383046f4ebe) |
+| Sat, 17 Jan 2026 16:00:54 GMT | The Approval That Never Asked Again | Rjay Solamo | [Read More](https://medium.com/p/751da172b488) |
+| Sat, 17 Jan 2026 15:58:18 GMT | Web Security for Beginners: How the web works and the roadmap | Sahineliyev | [Read More](https://medium.com/p/33c7a1d2a734) |
+| Sat, 17 Jan 2026 15:57:08 GMT | The Prompt Injection Problem: Why Your AI Assistant Might Be Working Against You | Soumyadipta Birabar | [Read More](https://medium.com/p/3995ada79639) |
+| Sat, 17 Jan 2026 15:52:11 GMT | KRIPTOGRAFI TERAPAN — PBL RKS-305 | Verawati Panjaitan | [Read More](https://medium.com/p/47ce462b7f0a) |
+| Sat, 17 Jan 2026 15:47:12 GMT | Using a Golang Shellcode Loader with Sliver C2 for Evasion | lainkusanagi | [Read More](https://medium.com/p/43a95f5ebc35) |
+| Sat, 17 Jan 2026 15:39:01 GMT | How Phishing Affects iPhone Users And Why Apple Security Isn’t Enough | Rebecca Smith | [Read More](https://medium.com/p/f249c2e0f8f5) |
+| Sat, 17 Jan 2026 15:37:43 GMT | Authentication vs Authorization: The Security Difference Most People Miss | Codeandcontext | [Read More](https://medium.com/p/ae3694061d14) |
+| Sat, 17 Jan 2026 15:32:43 GMT | CVE-2025-53770: Unauthenticated Remote Code Execution in Microsoft SharePoint Server | CipherX9F Security | [Read More](https://medium.com/p/fd5dc5cccfe7) |
+| Sat, 17 Jan 2026 15:31:13 GMT | How Cybersecurity Training Helps Employees and the People of Saudi Arabia | SecureLink | [Read More](https://medium.com/p/e6ff8ad7f13f) |
 | Sat, 17 Jan 2026 15:20:11 GMT | The Bug That Taught Me More Than Any Course | Nabil Mouzouna نبيل مزونة | [Read More](https://medium.com/p/96f7d2b2fc9a) |
 | Sat, 17 Jan 2026 15:08:15 GMT | TryHackMe Writeup: JPGChat | Berkay AĞGÜL | [Read More](https://medium.com/p/3c4f51344749) |
 | Sat, 17 Jan 2026 15:07:44 GMT | An AI Thought-Experiment I Didn’t Expect | Maithilee Singh | [Read More](https://medium.com/p/2a9eb6a678a0) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 08:16:21 GMT | Event Security Dallas | US guard security company | [Read More](https://medium.com/p/aef5c07ca127) |
 | Sat, 17 Jan 2026 08:14:45 GMT | Real-Time Cyber Threat Intelligence Sharing Without Blockchain Bottlenecks | Dr. Ayaz H. Khan | [Read More](https://medium.com/p/25b2e42cea75) |
 | Sat, 17 Jan 2026 08:11:34 GMT | Should you deploy Security Copilot with Zero Trust? | Yash Mudaliar | [Read More](https://medium.com/p/c3e28f529bb8) |
-| Sat, 17 Jan 2026 08:07:09 GMT | Don't be a generalist | Inspiraller | [Read More](https://medium.com/p/187d641d2b25) |
-| Sat, 17 Jan 2026 08:04:33 GMT | SkiaHelios: Accelerating Windows DFIR with Polars and Automated Timeline Analysis | schutzz | [Read More](https://medium.com/p/72b756baff32) |
-| Sat, 17 Jan 2026 08:01:58 GMT | Part III: Certificate as a Service (CaaS) | Raymon Epping | [Read More](https://medium.com/p/64ab2d031793) |
-| Sat, 17 Jan 2026 08:00:56 GMT | The Role of a Technologist vs Engineer vs Developer: Key Differences Explained | Dennis Duke | [Read More](https://medium.com/p/c44e12321325) |
-| Sat, 17 Jan 2026 07:56:26 GMT | From .env Files to IAM-Controlled Secrets with AWS SSM Parameter Store | Silversky Technology | [Read More](https://medium.com/p/25ad3d436d79) |
-| Sat, 17 Jan 2026 07:51:21 GMT | Responsible AI Has Become a Buzzword — Here’s How Security Teams Can Make It Real | Taimur Ijlal | [Read More](https://medium.com/p/d0458328218a) |
-| Sat, 17 Jan 2026 07:50:57 GMT | ⚡ PowerShell-Based Red Team Techniques — In-Depth Guide ⚡ | Esra Kayhan | [Read More](https://medium.com/p/6b27043ff608) |
-| Sat, 17 Jan 2026 07:44:23 GMT | Google Dorks to Find SQL Injection Vulnerable Websites | Mr Abdullah | [Read More](https://medium.com/p/6eaf49f9d0c9) |
-| Sat, 17 Jan 2026 07:35:32 GMT | Use Composer like Pro in 2026 | Jerome D | [Read More](https://medium.com/p/f65a7eaa2633) |
-| Sat, 17 Jan 2026 07:33:35 GMT | GDPR as a Blueprint for Risk-Aware Architecture | Anton Minin Baranovskii | [Read More](https://medium.com/p/d8f811d1ec1a) |
-| Sat, 17 Jan 2026 07:23:17 GMT | HTB Titanic Room Walkthrough/Explanation | Bcourt | [Read More](https://medium.com/p/51d1863d869c) |
-| Sat, 17 Jan 2026 07:14:59 GMT | What is artificial intelligence and machine learning in simple words | cyber security Updates | [Read More](https://medium.com/p/1739d15046ac) |
-| Sat, 17 Jan 2026 07:12:34 GMT | The One-Prompt PT Lab: Autonomous Android Security Research with Cursor AI | Andrey Pautov | [Read More](https://medium.com/p/b96ed2053071) |
-| Sat, 17 Jan 2026 07:07:01 GMT | Zero Trust Security Model Why Every Business Needs It | Sureshbhagath | [Read More](https://medium.com/p/e6096f07c943) |
-| Sat, 17 Jan 2026 07:06:34 GMT | Executive VIP Protection & Security in Dallas | US guard security company | [Read More](https://medium.com/p/aa0891919d54) |
