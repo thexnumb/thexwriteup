@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 Jan 2026 10:16:37 GMT | SQL Injection Didn’t Die, It Got Smarter with AI | Through Smriti's Lens | [Read More](https://medium.com/p/fe21ac195be9) |
+| Sat, 17 Jan 2026 10:01:43 GMT | Don’t Become a Cybersecurity Engineer in 2026! | Dhanush N | [Read More](https://medium.com/p/dea9f19fb6df) |
+| Sat, 17 Jan 2026 09:55:08 GMT | Even in failure there can be Nobility! | Sparc Mint | [Read More](https://medium.com/p/f3a4f29001c0) |
+| Sat, 17 Jan 2026 09:41:04 GMT | Lapisan Keamanan Terluar untuk Situs WordPress | Alfan Mohammad | [Read More](https://medium.com/p/9e1f5f38f840) |
+| Sat, 17 Jan 2026 09:32:41 GMT | Building a Complete Home Lab: Wazuh SIEM, pfSense Firewall, and Attack Detection Using Kali Linux | Ishaan | [Read More](https://medium.com/p/191d86ae12a5) |
+| Sat, 17 Jan 2026 09:30:39 GMT | Coding Agents. The Insider Threat You Installed Yourself | Thomas Roccia | [Read More](https://medium.com/p/35644a1d5409) |
 | Sat, 17 Jan 2026 09:17:03 GMT | What Information Can You Extract From Just a Domain | Abhay Parashar | [Read More](https://medium.com/p/0cd022d84bb2) |
 | Sat, 17 Jan 2026 09:09:36 GMT | The “Catgirl” Pivot: How Akira Affiliates Are Weaponizing Commodity RAT Infrastructure in 2026 | Rhishav Kanjilal | [Read More](https://medium.com/p/85c2f54eb72a) |
 | Sat, 17 Jan 2026 09:09:07 GMT | Blancco Datenlöschung erklärt: Sichere IT-Entsorgung mit Second IT | Second IT | [Read More](https://medium.com/p/360701524759) |
@@ -107,9 +113,3 @@ Telegram was created to offer… | Ankit rai | [Read More](https://medium.com/p/
 | Fri, 16 Jan 2026 22:33:23 GMT | Why Tools Don’t Make You Dangerous in Cybersecurity | Sunera Ranasooriya | [Read More](https://medium.com/p/5c8d4bcadcfb) |
 | Fri, 16 Jan 2026 22:33:01 GMT | Common Security Issues in Node.js Applications | Volodymyr Loban | [Read More](https://medium.com/p/51d334d42223) |
 | Fri, 16 Jan 2026 22:22:40 GMT | All You Need to Know About Azure PIM | Manish Karki | [Read More](https://medium.com/p/6d93a9e44b4f) |
-| Fri, 16 Jan 2026 22:22:28 GMT | OpenAI's new professional worrier | Anastasios Antoniadis | [Read More](https://medium.com/p/7befea73f772) |
-| Fri, 16 Jan 2026 22:17:47 GMT | The API Explosion: 3 Steps to Hardening Your ‘Shadow APIs’ Before Attackers Do | John Muconto | [Read More](https://medium.com/p/5fc61e965895) |
-| Fri, 16 Jan 2026 22:16:55 GMT | The Dynamics of Iraq’s National Security: What Awaits the Next Government? | Dr. SAIFALDIN Z.  AL-DARRAJI | [Read More](https://medium.com/p/8a72afea4141) |
-| Fri, 16 Jan 2026 22:04:56 GMT | AI Security isn’t a New Problem. It’s the Same Problem we Keep Refusing to Solve. | Jeffrey W. Brown | [Read More](https://medium.com/p/e125b5d70d85) |
-| Fri, 16 Jan 2026 21:57:56 GMT | From Perimeter Security to Practical Zero Trust: A Real-World Approach for Modern Networks | Shahzad Ayub | [Read More](https://medium.com/p/dfeffd8b0e7f) |
-| Fri, 16 Jan 2026 21:55:44 GMT | Shadow Work, Discomfort, and Tarot | Ali Owl Rising | [Read More](https://medium.com/p/d782188238b4) |
