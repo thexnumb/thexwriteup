@@ -12,10 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 Jan 2026 18:24:46 GMT | Security Metrics Are Lying to Us | Assafkip | [Read More](https://medium.com/p/eadd4e0c0d64) |
+| Sat, 17 Jan 2026 18:23:08 GMT | Cyber Law in Bangladesh (2026) | Kazi Sabbir | [Read More](https://medium.com/p/fa1cd6b468c2) |
+| Sat, 17 Jan 2026 18:16:43 GMT | Why Encryption Alone Doesn’t Make Systems Secure | Daniel Isaac E | [Read More](https://medium.com/p/0cbd3cd4cb0b) |
+| Sat, 17 Jan 2026 18:13:47 GMT | XSS Payload Crafting and WAF Bypass: A Beginner‑Friendly Guide | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/781de268fa68) |
+| Sat, 17 Jan 2026 18:13:42 GMT | Cybersecurity in the Digital Age: Protecting Yourself and Your Community | Alex Musyoki | [Read More](https://medium.com/p/32bd8c70f7b6) |
+| Sat, 17 Jan 2026 18:12:27 GMT | Secure Your GitOps Pipeline: Complete Guide to Sealed Secrets with Argo CD | Abdeltawab Wagieh | [Read More](https://medium.com/p/de2d063113c8) |
+| Sat, 17 Jan 2026 18:12:12 GMT | When Trust Outlives the Math That Made It | Vasant Bhadauria | [Read More](https://medium.com/p/ebedf5159a10) |
+| Sat, 17 Jan 2026 18:03:21 GMT | What Are Command and Control (C2) Servers and Why Do They Matter? | Bishal Poudel | [Read More](https://medium.com/p/3e62af254200) |
+| Sat, 17 Jan 2026 17:55:00 GMT | Lessons From A Cleared Cybersecurity Internship at NWIC Pacific | Tyreek Haynes | [Read More](https://medium.com/p/98c9541c7e7a) |
+| Sat, 17 Jan 2026 17:53:59 GMT | Your Cosmic Conspirator | muuunniverse. | [Read More](https://medium.com/p/0b7efe6e99b4) |
+| Sat, 17 Jan 2026 17:52:32 GMT | Exploiting SSRF in OopsSec Store to Access Internal Pages | OopsSec Store | [Read More](https://medium.com/p/3f1b6d2163c6) |
+| Sat, 17 Jan 2026 17:51:02 GMT | Lab: SQL injection UNION attack, determining the number of columns returned by the query | Songül Kızılay Özügürler | [Read More](https://medium.com/p/8eaf99659788) |
+| Sat, 17 Jan 2026 17:49:16 GMT | ️ Your Digital Shield: How NordVPN Protects You | Genelia | [Read More](https://medium.com/p/60ec3de79566) |
+| Sat, 17 Jan 2026 17:42:35 GMT | How a Base64 Image API Turned a Trusted Cloud Bucket into an Attacker’s CDN | Supun Halangoda (Suppa) | [Read More](https://medium.com/p/aa1470de09c0) |
+| Sat, 17 Jan 2026 17:40:20 GMT | [AD攻防] Kerberoasting 攻擊 | 陳禹璿 | [Read More](https://medium.com/p/7e483c377093) |
+| Sat, 17 Jan 2026 17:39:04 GMT | The Ghost in the Machine: How to Breach Any Online Python IDE | SilentExploit | [Read More](https://medium.com/p/bfef1b454dbd) |
+| Sat, 17 Jan 2026 17:37:46 GMT | How to Shoot Sharp Photos on Your Phone in Low Light | Motherlandlove | [Read More](https://medium.com/p/b1c87b4a7c8e) |
+| Sat, 17 Jan 2026 17:35:38 GMT | Top 10 Gadgets That Stole the Spotlight at CES 2026 | Contact Techfusiondaily | [Read More](https://medium.com/p/c9fb47b49140) |
 | Sat, 17 Jan 2026 17:30:07 GMT | Ethical Hacking & Penetration Testing — Complete | Nukhbasoomro | [Read More](https://medium.com/p/b59a41898090) |
 | Sat, 17 Jan 2026 17:21:49 GMT | Securing the Mesh: Advanced Threat Modeling with STRIDE for Distributed Systems | Vaibhav Tiwari | [Read More](https://medium.com/p/afbf25584781) |
 | Sat, 17 Jan 2026 17:17:55 GMT | GSEC Yolculuğu #4: Trafiğin Mimarları — TCP, UDP ve Portlar | Ata Erdemir | [Read More](https://medium.com/p/d75775a12f61) |
 | Sat, 17 Jan 2026 17:15:52 GMT | Why Security Controls Fail Before an Attacker Even Tries | Tyreek Haynes | [Read More](https://medium.com/p/858050451cb8) |
+| Sat, 17 Jan 2026 17:07:01 GMT | Entity Framework：程式與資料庫之間的翻譯官 | 思維舞步 MindSteps | [Read More](https://medium.com/p/f0a2b6b278ef) |
 | Sat, 17 Jan 2026 16:57:31 GMT | What I Found While Analyzing a Fake Banking App | Adwaith S | [Read More](https://medium.com/p/7b495558c7ff) |
 | Sat, 17 Jan 2026 16:54:12 GMT | Master API Security: I Built a Vulnerable Lab for Beginners (VulnShop) | Sreejihkn | [Read More](https://medium.com/p/3c4ec0bc0da0) |
 | Sat, 17 Jan 2026 16:47:09 GMT | CTF — Basic Pentesting | Marduk I Am | [Read More](https://medium.com/p/2d3d56aaeb52) |
@@ -45,6 +64,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 15:02:32 GMT | How to Clear Gmail Clutter Once and for All: The Secret Button in Your Account | raccooni4ka | [Read More](https://medium.com/p/b546e78b480c) |
 | Sat, 17 Jan 2026 15:02:09 GMT | When Web3 Breaks in Public: 10 Survival Lessons | Syntal | [Read More](https://medium.com/p/9805f63ebc9b) |
 | Sat, 17 Jan 2026 15:02:08 GMT | The 10 Web3 Risks Worth Taking (and Avoiding) | Vectorlane | [Read More](https://medium.com/p/9a4a0c9cb2a7) |
+| Sat, 17 Jan 2026 15:02:08 GMT | Instagram deniega la filtración de datos que habría afectado a 17 millones de usuarios | Tiziano Mass | [Read More](https://medium.com/p/108cd1f5be9c) |
 | Sat, 17 Jan 2026 15:01:29 GMT | Building a Self-Governing Cloud with Real-Time AI on AWS | Ashish Kasaudhan | [Read More](https://medium.com/p/f69b2ba35367) |
 | Sat, 17 Jan 2026 14:58:12 GMT | Day 8 — Cloud Attack Scenarios Every Security Engineer Must Understand (How Breaches Really Happen) | NineTales | [Read More](https://medium.com/p/53c489ed9f8b) |
 | Sat, 17 Jan 2026 14:57:21 GMT | Security บทที่ 5 | Pruek Tanvorakul | [Read More](https://medium.com/p/90f1648e6004) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 11:25:03 GMT | How a WannaCry Sample Hid its payload inside a Password Protected | Ben Rubin (Zedocun) | [Read More](https://medium.com/p/5d1b63483ef4) |
 | Sat, 17 Jan 2026 11:21:25 GMT | Weaponizing NotebookLM: How a “Harmless” Intent Can Silently Brick Your System Storage | Sandiyo Christan | [Read More](https://medium.com/p/293df02fe891) |
 | Sat, 17 Jan 2026 11:18:57 GMT | What “Affordable” Hosting Should Actually Look Like in 2026? | Andy | [Read More](https://medium.com/p/99f17eef9fc6) |
-| Sat, 17 Jan 2026 11:03:01 GMT | Linux Post-Exploitation 102: Breaking Out and Moving Up | Al3xx | [Read More](https://medium.com/p/bd3e27667292) |
-| Sat, 17 Jan 2026 11:02:58 GMT | A Simple IDOR That Ignored Platform Logic | Parth Narula | [Read More](https://medium.com/p/09bf86a8bf1d) |
-| Sat, 17 Jan 2026 10:46:36 GMT | The lazy method I use to learn bug bounty hunting | RicOnTech | [Read More](https://medium.com/p/0221184842e8) |
-| Sat, 17 Jan 2026 10:35:22 GMT | STDIN: The Most Dangerous Feature You Ignore | Avinash Pawar | [Read More](https://medium.com/p/dde37b01a634) |
-| Sat, 17 Jan 2026 10:33:14 GMT | Two Scorpios | Last Viktor | [Read More](https://medium.com/p/0005d12737e0) |
-| Sat, 17 Jan 2026 10:33:08 GMT | Why I Belong in Toptal’s Elite DevOps and Security Engineering Network | Anthony Okeke | [Read More](https://medium.com/p/6e2455b78dd3) |
-| Sat, 17 Jan 2026 10:31:07 GMT | Cybersecurity Is Over-Engineered (And That’s a Problem) | Paritosh | [Read More](https://medium.com/p/4454073d300c) |
-| Sat, 17 Jan 2026 10:25:26 GMT | Cybersecurity for Solopreneurs: Protecting Data from Deepfakes | AgileWoW | [Read More](https://medium.com/p/e3e02fe5e952) |
-| Sat, 17 Jan 2026 10:24:44 GMT | Solving Ali Hadi Challenge #1 in 60 Seconds: Phishing, Webshells, and Timeline Reconstruction with… | schutzz | [Read More](https://medium.com/p/0522de672d2e) |
-| Sat, 17 Jan 2026 10:21:09 GMT | Silence the Noise, Amplify the Signal: A Modern Linux Security Logging Stack with Ansible | Sinan ŞAHİN | [Read More](https://medium.com/p/3a5ae89fbb94) |
-| Sat, 17 Jan 2026 10:16:37 GMT | SQL Injection Didn’t Die, It Got Smarter with AI | Through Smriti's Lens | [Read More](https://medium.com/p/fe21ac195be9) |
-| Sat, 17 Jan 2026 10:01:43 GMT | Don’t Become a Cybersecurity Engineer in 2026! | Dhanush N | [Read More](https://medium.com/p/dea9f19fb6df) |
-| Sat, 17 Jan 2026 09:55:08 GMT | Even in failure there can be Nobility! | Sparc Mint | [Read More](https://medium.com/p/f3a4f29001c0) |
-| Sat, 17 Jan 2026 09:41:04 GMT | Lapisan Keamanan Terluar untuk Situs WordPress | Alfan Mohammad | [Read More](https://medium.com/p/9e1f5f38f840) |
-| Sat, 17 Jan 2026 09:32:41 GMT | Building a Complete Home Lab: Wazuh SIEM, pfSense Firewall, and Attack Detection Using Kali Linux | Ishaan | [Read More](https://medium.com/p/191d86ae12a5) |
-| Sat, 17 Jan 2026 09:30:39 GMT | Coding Agents. The Insider Threat You Installed Yourself | Thomas Roccia | [Read More](https://medium.com/p/35644a1d5409) |
-| Sat, 17 Jan 2026 09:17:03 GMT | What Information Can You Extract From Just a Domain | Abhay Parashar | [Read More](https://medium.com/p/0cd022d84bb2) |
-| Sat, 17 Jan 2026 09:09:36 GMT | The “Catgirl” Pivot: How Akira Affiliates Are Weaponizing Commodity RAT Infrastructure in 2026 | Rhishav Kanjilal | [Read More](https://medium.com/p/85c2f54eb72a) |
-| Sat, 17 Jan 2026 09:09:07 GMT | Blancco Datenlöschung erklärt: Sichere IT-Entsorgung mit Second IT | Second IT | [Read More](https://medium.com/p/360701524759) |
-| Sat, 17 Jan 2026 09:02:10 GMT | Cloud Keys to the Kingdom” | Sidhantchaurasiya | [Read More](https://medium.com/p/f1ac25073e68) |
