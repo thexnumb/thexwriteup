@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 Jan 2026 07:23:17 GMT | HTB Titanic Room Walkthrough/Explanation | Bcourt | [Read More](https://medium.com/p/51d1863d869c) |
+| Sat, 17 Jan 2026 07:14:59 GMT | What is artificial intelligence and machine learning in simple words | cyber security Updates | [Read More](https://medium.com/p/1739d15046ac) |
 | Sat, 17 Jan 2026 07:12:34 GMT | The One-Prompt PT Lab: Autonomous Android Security Research with Cursor AI | Andrey Pautov | [Read More](https://medium.com/p/b96ed2053071) |
 | Sat, 17 Jan 2026 07:07:01 GMT | Zero Trust Security Model Why Every Business Needs It | Sureshbhagath | [Read More](https://medium.com/p/e6096f07c943) |
 | Sat, 17 Jan 2026 07:06:34 GMT | Executive VIP Protection & Security in Dallas | US guard security company | [Read More](https://medium.com/p/aa0891919d54) |
@@ -111,6 +113,3 @@ Telegram was created to offer… | Ankit rai | [Read More](https://medium.com/p/
 | Fri, 16 Jan 2026 19:41:42 GMT | Critical OpenKM Zero-Day Enables Full Server Takeover (No Patch Available) | Terra System Labs | [Read More](https://medium.com/p/ea5f1a0d1b9a) |
 | Fri, 16 Jan 2026 19:38:11 GMT | What It Means When Someone Believes in You | Rahul Gupta | [Read More](https://medium.com/p/553fe0c65d74) |
 | Fri, 16 Jan 2026 19:37:35 GMT | “Think Your Password Is Strong?’’ John the Ripper Might Disagree. | Leaving Nadir | [Read More](https://medium.com/p/1344bb6778c9) |
-| Fri, 16 Jan 2026 19:32:12 GMT | Some brilliant content that has to be fully taken with patience and learning.
-Amazing content! | Alborz Nazari | [Read More](https://medium.com/p/078ed8cdef4c) |
-| Fri, 16 Jan 2026 19:26:47 GMT | How to Secure pip install and Protect Your Python Supply Chain (with pipq) | Livrädo Sandoval | [Read More](https://medium.com/p/67aa6dc91685) |
