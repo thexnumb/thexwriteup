@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 Jan 2026 10:35:22 GMT | STDIN: The Most Dangerous Feature You Ignore | Avinash Pawar | [Read More](https://medium.com/p/dde37b01a634) |
+| Sat, 17 Jan 2026 10:33:14 GMT | Two Scorpios | Last Viktor | [Read More](https://medium.com/p/0005d12737e0) |
+| Sat, 17 Jan 2026 10:33:08 GMT | Why I Belong in Toptal’s Elite DevOps and Security Engineering Network | Anthony Okeke | [Read More](https://medium.com/p/6e2455b78dd3) |
+| Sat, 17 Jan 2026 10:31:07 GMT | Cybersecurity Is Over-Engineered (And That’s a Problem) | Paritosh | [Read More](https://medium.com/p/4454073d300c) |
+| Sat, 17 Jan 2026 10:25:26 GMT | Cybersecurity for Solopreneurs: Protecting Data from Deepfakes | AgileWoW | [Read More](https://medium.com/p/e3e02fe5e952) |
+| Sat, 17 Jan 2026 10:24:44 GMT | Solving Ali Hadi Challenge #1 in 60 Seconds: Phishing, Webshells, and Timeline Reconstruction with… | schutzz | [Read More](https://medium.com/p/0522de672d2e) |
+| Sat, 17 Jan 2026 10:21:09 GMT | Silence the Noise, Amplify the Signal: A Modern Linux Security Logging Stack with Ansible | Sinan ŞAHİN | [Read More](https://medium.com/p/3a5ae89fbb94) |
 | Sat, 17 Jan 2026 10:16:37 GMT | SQL Injection Didn’t Die, It Got Smarter with AI | Through Smriti's Lens | [Read More](https://medium.com/p/fe21ac195be9) |
 | Sat, 17 Jan 2026 10:01:43 GMT | Don’t Become a Cybersecurity Engineer in 2026! | Dhanush N | [Read More](https://medium.com/p/dea9f19fb6df) |
 | Sat, 17 Jan 2026 09:55:08 GMT | Even in failure there can be Nobility! | Sparc Mint | [Read More](https://medium.com/p/f3a4f29001c0) |
@@ -106,10 +113,3 @@ Telegram was created to offer… | Ankit rai | [Read More](https://medium.com/p/
 | Fri, 16 Jan 2026 23:25:45 GMT | “Instagram Breach… or Not?” | Ogechi Ifeanyi Chime | [Read More](https://medium.com/p/9b3002ecaf06) |
 | Fri, 16 Jan 2026 23:13:58 GMT | We’re Moving Too Fast, and AI Barbarians Are at the Gate | Joseph Mann | [Read More](https://medium.com/p/1975eb34fc55) |
 | Fri, 16 Jan 2026 23:08:23 GMT | Mastering iOS Pentesting: Part 1 — Jailbreaking Your Devices (Dopamine & palera1n) | Faris Faisal 0xFF | [Read More](https://medium.com/p/200ae1dc7542) |
-| Fri, 16 Jan 2026 22:54:13 GMT | The Silicon Shield: Analyzing the U.S.-Israel | CCD-IS | [Read More](https://medium.com/p/6ac816f6fb70) |
-| Fri, 16 Jan 2026 22:51:08 GMT | 9 Cybersecurity Questions that Define a CISO | Matthew.Rosenquist | [Read More](https://medium.com/p/0cd5f5be1bc8) |
-| Fri, 16 Jan 2026 22:44:00 GMT | Healthcare Cybersecurity Is Different: Here’s Why Attacks Hurt More (and What Works) | Kaushik Muthukumaran | [Read More](https://medium.com/p/7db1aed98220) |
-| Fri, 16 Jan 2026 22:41:54 GMT | Host & Network Penetration Testing: Post-Exploitation CTF 1 | Khalil | [Read More](https://medium.com/p/fb7fa3e6714a) |
-| Fri, 16 Jan 2026 22:33:23 GMT | Why Tools Don’t Make You Dangerous in Cybersecurity | Sunera Ranasooriya | [Read More](https://medium.com/p/5c8d4bcadcfb) |
-| Fri, 16 Jan 2026 22:33:01 GMT | Common Security Issues in Node.js Applications | Volodymyr Loban | [Read More](https://medium.com/p/51d334d42223) |
-| Fri, 16 Jan 2026 22:22:40 GMT | All You Need to Know About Azure PIM | Manish Karki | [Read More](https://medium.com/p/6d93a9e44b4f) |
