@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 Jan 2026 20:39:22 GMT | Learning About Invertebrates and Food | Abhik Chowdhury | [Read More](https://medium.com/p/b0c2000305ee) |
+| Sat, 17 Jan 2026 20:26:14 GMT | Hidden in the Source: Discovering Reflected XSS via Manual Code Review | Samet Yiğit | [Read More](https://medium.com/p/c2a697d9d8c1) |
+| Sat, 17 Jan 2026 20:25:10 GMT | The Double Life of Your JPEGs: Privacy Leaks and Hidden Payloads | Xiao Paw | [Read More](https://medium.com/p/cda20970108b) |
+| Sat, 17 Jan 2026 20:23:49 GMT | Your Kenmore Washer Is Not Dead. It Just Needs a Proper Reset | Techelectroniclive | [Read More](https://medium.com/p/9700a9956685) |
+| Sat, 17 Jan 2026 20:20:25 GMT | When Your AI Negotiates Against You | Valdez Ladd | [Read More](https://medium.com/p/3e3ef6f07d2f) |
 | Sat, 17 Jan 2026 20:01:22 GMT | Stop Idle Overload And Restore A Quiet Reliable Windows PC! | Geoffrey Wenger | [Read More](https://medium.com/p/02a55c0c333b) |
 | Sat, 17 Jan 2026 19:55:04 GMT | ANTHEM TryHackMe Writeup/Walkthrough | sudo_0xksh | [Read More](https://medium.com/p/40c7c20a1802) |
 | Sat, 17 Jan 2026 19:49:47 GMT | Agent Sudo THM Writeup/Walkthrough | sudo_0xksh | [Read More](https://medium.com/p/c788c40a88c0) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 13:10:39 GMT | Finding a $600 Remote Code Execution (RCE) on an E-Commerce Platform | Cybervolt | [Read More](https://medium.com/p/4fcb483778be) |
 | Sat, 17 Jan 2026 13:03:23 GMT | Malware Traffic Analysis: It’s a trap! | dovidee | [Read More](https://medium.com/p/3e65f89d5ddc) |
 | Sat, 17 Jan 2026 12:53:52 GMT | What Internet Traffic Looks Like on an Exposed Redis Service | berke bodur | [Read More](https://medium.com/p/056ebf0dc852) |
-| Sat, 17 Jan 2026 12:49:12 GMT | Stop Repeating Tasks — Let SOAR Simplify Your Security Workflow | Misbah waraich | [Read More](https://medium.com/p/03f253bcc982) |
-| Sat, 17 Jan 2026 12:39:55 GMT | It’s Never “Just” a Password | Marc-André Lanciault | [Read More](https://medium.com/p/488fde52d8fa) |
-| Sat, 17 Jan 2026 12:37:35 GMT | OSINT for Beginners: How Security Teams Use Public Data to Stop Attacks | CEOofNOTHING | [Read More](https://medium.com/p/8a2701c39d91) |
-| Sat, 17 Jan 2026 12:31:32 GMT | Setup Android pentest environment on ubuntu 22.04 | Risalahqolbu | [Read More](https://medium.com/p/e3695c56a172) |
-| Sat, 17 Jan 2026 12:25:50 GMT | What Is the Difference Between AI and ML? — Full Guide 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/f673b579b33d) |
