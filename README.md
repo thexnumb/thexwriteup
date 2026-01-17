@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 Jan 2026 19:28:40 GMT | “And Then There Were None”: Achieving My PNPT in 2025! | Jinendar Kothari | [Read More](https://medium.com/p/232845854815) |
+| Sat, 17 Jan 2026 19:28:22 GMT | Linux Privilege Escalation: The Path from Low-Privilege to Root | Esra Kayhan | [Read More](https://medium.com/p/a635b58bbe3d) |
+| Sat, 17 Jan 2026 19:27:28 GMT | Azure WAF Setup with Simple Web App Service | Siddharth D | [Read More](https://medium.com/p/f9113fda7229) |
+| Sat, 17 Jan 2026 19:26:47 GMT | Rootkits: The Malware That Doesn’t Want Fame, It Wants Control | TheCyberAryan | [Read More](https://medium.com/p/260d143cebd6) |
+| Sat, 17 Jan 2026 19:21:08 GMT | IDOR Vulnerability: A Critical Risk in Web Application Security Testing | sayeedTestOps | [Read More](https://medium.com/p/ee6013dcb19f) |
 | Sat, 17 Jan 2026 19:15:56 GMT | How my valid critical bug got rejected | TheCyberAryan | [Read More](https://medium.com/p/cf8213c5ed4e) |
 | Sat, 17 Jan 2026 19:06:39 GMT | How I Discovered a Dependency Confusion Vulnerability in a Ruby Application Leading to RCE | Ahmed Tarek | [Read More](https://medium.com/p/9dd4c6b28127) |
 | Sat, 17 Jan 2026 19:06:03 GMT | PII Protection Laws Your Product Must Obey (Whether You Like It or Not) | Shubh Pundir | [Read More](https://medium.com/p/a34ac0af8c3d) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 12:10:48 GMT | Lab: Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and… | KRY | [Read More](https://medium.com/p/27ee7876e930) |
 | Sat, 17 Jan 2026 12:09:53 GMT | Building LLM Guardrails for High-Stakes Security: A Banking Case Study on Insider Threat Detection | Terrence Cai | [Read More](https://medium.com/p/bdfc084226fc) |
 | Sat, 17 Jan 2026 12:09:50 GMT | TCS HackQuest Season 10 — Round 2 Writeup | TraceX0 | [Read More](https://medium.com/p/81d0f8895b65) |
-| Sat, 17 Jan 2026 12:09:04 GMT | Secrets, Credentials, and Secure Data Pipeline Design | The Data Forge | [Read More](https://medium.com/p/edd14fff1145) |
-| Sat, 17 Jan 2026 12:07:57 GMT | Lab: Reflected XSS into a JavaScript string with single quote and backslash escaped | KRY | [Read More](https://medium.com/p/73b92da50bdf) |
-| Sat, 17 Jan 2026 12:04:11 GMT | Incident Response Hands-on 3 | Allen Ace | [Read More](https://medium.com/p/8cf2a65afcb2) |
-| Sat, 17 Jan 2026 12:01:58 GMT | How Government Data Leaks End Up on the Dark Web | Tor BBB | [Read More](https://medium.com/p/e5049664adab) |
-| Sat, 17 Jan 2026 11:59:31 GMT | Unlock the Power of AI with the Ultimate Tools Directory. | Sagar Shewale | [Read More](https://medium.com/p/4859b56d06f5) |
