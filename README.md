@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 Jan 2026 05:17:45 GMT | Wazuh: The Open-Source SIEM That Beats Splunk (And It’s Completely Free) | inboryn | [Read More](https://medium.com/p/5f7edc8c4c7e) |
+| Sat, 17 Jan 2026 05:07:55 GMT | Best Security Services in Haryana — Lakshay Security & Placement Services | Lakshay Security | [Read More](https://medium.com/p/e9830bd39919) |
+| Sat, 17 Jan 2026 05:06:55 GMT | Two OAuth 2.0 Specs You Should Know About: Token Exchange and JWT Bearer Grant | Florian Röser | [Read More](https://medium.com/p/4c9c56299130) |
+| Sat, 17 Jan 2026 05:04:54 GMT | They Plugged In a USB Cable — and Lost Their Business by Lunch: A Malicious BadUSB Attack Explained | Noel | [Read More](https://medium.com/p/dbded78176ae) |
+| Sat, 17 Jan 2026 05:04:49 GMT | Should You Still Choose Cybersecurity in 2026? | Shahzaib | [Read More](https://medium.com/p/58dfdedbe442) |
+| Sat, 17 Jan 2026 05:02:56 GMT | Mass Assignment leads to Account Takeover and DoS | Rahul Singh Chauhan | [Read More](https://medium.com/p/32132ee92486) |
+| Sat, 17 Jan 2026 05:01:59 GMT | Cybersecurity Is a Money Skill — Here’s Why Developers Ignore It | Ms. Byte Dev | [Read More](https://medium.com/p/637eb975c098) |
+| Sat, 17 Jan 2026 05:00:24 GMT | How Telegram Is Being Used by Scammers to Run Silent Digital Crimes
+Telegram was created to offer… | Ankit rai | [Read More](https://medium.com/p/6e3205eb8f17) |
+| Sat, 17 Jan 2026 04:59:54 GMT | Swiss Knife of the Pen-Tester,  Practical Burp Suite Methodology — Part 1 | Martin Simonyan | [Read More](https://medium.com/p/cc20777c71d7) |
+| Sat, 17 Jan 2026 04:59:48 GMT | ️ The Skeleton Key in Your Pocket: Mastering the iCopy-XS (Part 1 of 5) | Nicholas Mullenski | [Read More](https://medium.com/p/e7a32af5a8d1) |
+| Sat, 17 Jan 2026 04:56:36 GMT | How to Actually Learn Hacking in 2026 — A Practical Guide | Satyam Pathania | [Read More](https://medium.com/p/37da2146d472) |
+| Sat, 17 Jan 2026 04:56:23 GMT | $3,500 Shopify Partners Bug: Become “Owner” Without Verifying the Email | Monika sharma | [Read More](https://medium.com/p/936999f2dccd) |
+| Sat, 17 Jan 2026 04:54:58 GMT | Breaking Rate Limiting: Where It Breaks and How Attackers Bypass It | Fuzzyy Duck | [Read More](https://medium.com/p/a1fdd8099caf) |
 | Sat, 17 Jan 2026 04:46:22 GMT | The Dark Web Is Not What You Think | Satyam Pathania | [Read More](https://medium.com/p/7d133a04b3ae) |
 | Sat, 17 Jan 2026 04:26:58 GMT | Why Big Tech No Longer Hires “Smart” Developers | Logic Over Latte | [Read More](https://medium.com/p/814acebfb3f6) |
 | Sat, 17 Jan 2026 04:15:50 GMT | Cybersecurity Isn’t Broken. We Just Don’t Take It Seriously. | Sclov Beycn | [Read More](https://medium.com/p/8d32e305d6ee) |
@@ -100,16 +114,3 @@ Amazing content! | Alborz Nazari | [Read More](https://medium.com/p/078ed8cdef4c
 | Fri, 16 Jan 2026 17:51:35 GMT | Android Security: mobsfscan | Matthew Dolan | [Read More](https://medium.com/p/7cd9f52e19a0) |
 | Fri, 16 Jan 2026 17:50:27 GMT | What is Cybersecurity? A Complete Beginner’s Guide | Nishubirla | [Read More](https://medium.com/p/281809a1f4ee) |
 | Fri, 16 Jan 2026 17:44:20 GMT | Why Cybersecurity? The Question That Changed My Tech Journey. | Gracié | [Read More](https://medium.com/p/3f5f785b490f) |
-| Fri, 16 Jan 2026 17:26:38 GMT | That S3 Bucket Leak? Totally Preventable | Nicholas Browdues | [Read More](https://medium.com/p/5df427997824) |
-| Fri, 16 Jan 2026 17:14:21 GMT | Unpacking Microsoft Defender for Office 365: Day 5 SOC Triage—Email Authentication Deep Dive (SPF… | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/f19d5d1d350e) |
-| Fri, 16 Jan 2026 17:11:31 GMT | Security Isn’t Broken — Our Assumptions Are | Daniel Isaac E | [Read More](https://medium.com/p/278de0e19629) |
-| Fri, 16 Jan 2026 17:08:40 GMT | Upcoming Live Presentation: Five actionable password tips to improve your cyber-defenses | Karl Buhl | [Read More](https://medium.com/p/5ad68d3fefe5) |
-| Fri, 16 Jan 2026 17:05:12 GMT | Beyond the Buzzwords: A closer look at “Zero Trust” security | aditya | [Read More](https://medium.com/p/deb1e667a12c) |
-| Fri, 16 Jan 2026 17:02:30 GMT | The “Smart” Failure: When SOTA Models Lie to Please You | Ashutosh | [Read More](https://medium.com/p/2d2b4af244c5) |
-| Fri, 16 Jan 2026 16:59:04 GMT | Back to Basics I: Windows Processes, Authentication, and Investigations | Hariharan | [Read More](https://medium.com/p/b30462a78b2c) |
-| Fri, 16 Jan 2026 16:49:08 GMT | Cybersecurity News Review — Week 3 (2026) | Mladen Kirilov | [Read More](https://medium.com/p/8064ac299b32) |
-| Fri, 16 Jan 2026 16:46:58 GMT | How to Secure Your Home Wi-Fi for Free: A Step-by-Step Guide | Muneeb - Budget Tech Buddy | [Read More](https://medium.com/p/c6daf670e2d0) |
-| Fri, 16 Jan 2026 16:46:58 GMT | What Information Can You Extract From Just An IP Address | Abhay Parashar | [Read More](https://medium.com/p/e917f1dd464e) |
-| Fri, 16 Jan 2026 16:38:54 GMT | Why cyberattacks are successful: Understanding the real causes (Part 1 of 4) | Cordula Boeck | [Read More](https://medium.com/p/301f866dfa26) |
-| Fri, 16 Jan 2026 16:38:01 GMT | How Cursor AI Became My Full-Stack Development Partner: From Arduino Code to Visual Validation | Andrey Pautov | [Read More](https://medium.com/p/47fcccb9c845) |
-| Fri, 16 Jan 2026 16:35:26 GMT | Ethical Hacking: Turning Curiosity into Responsible Security Skills | Will Gall | [Read More](https://medium.com/p/2b5399c1949b) |
