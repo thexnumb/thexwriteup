@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 Jan 2026 19:15:56 GMT | How my valid critical bug got rejected | TheCyberAryan | [Read More](https://medium.com/p/cf8213c5ed4e) |
+| Sat, 17 Jan 2026 19:06:39 GMT | How I Discovered a Dependency Confusion Vulnerability in a Ruby Application Leading to RCE | Ahmed Tarek | [Read More](https://medium.com/p/9dd4c6b28127) |
+| Sat, 17 Jan 2026 19:06:03 GMT | PII Protection Laws Your Product Must Obey (Whether You Like It or Not) | Shubh Pundir | [Read More](https://medium.com/p/a34ac0af8c3d) |
+| Sat, 17 Jan 2026 19:02:10 GMT | Anti-Scraping | Iram Jack | [Read More](https://medium.com/p/418f809b5085) |
+| Sat, 17 Jan 2026 18:58:36 GMT | The $15,000 Acid Bath: Visualizing Hardware Implants | Kevin O'Connor | [Read More](https://medium.com/p/57e0640c4ac3) |
+| Sat, 17 Jan 2026 18:52:14 GMT | The Secret Life of GitOps: Why Your Credentials Crisis Demands a Strategy-First Approach | Salwan Mohamed | [Read More](https://medium.com/p/3b08c426339d) |
+| Sat, 17 Jan 2026 18:49:06 GMT | Choosing the Best Professional CMMC Compliance Services in Silver Spring, MD | GDMktgAG | [Read More](https://medium.com/p/b4728970d147) |
+| Sat, 17 Jan 2026 18:45:29 GMT | Day 158 — Detecting Human-Operated Ransomware Before Encryption: Scope, Constraints, and… | Jinay | [Read More](https://medium.com/p/c07304d12157) |
+| Sat, 17 Jan 2026 18:43:01 GMT | TCS HackQuest Season 10 — Round 2: Walkthrough | Arnav Vaidya | [Read More](https://medium.com/p/17139324c2d8) |
+| Sat, 17 Jan 2026 18:28:38 GMT | How I Cracked the eCPPTv3 at 16 | Joel Morillas Pagan (Ghxstsec) | [Read More](https://medium.com/p/cf962bb095fd) |
 | Sat, 17 Jan 2026 18:24:46 GMT | Security Metrics Are Lying to Us | Assafkip | [Read More](https://medium.com/p/eadd4e0c0d64) |
 | Sat, 17 Jan 2026 18:23:08 GMT | Cyber Law in Bangladesh (2026) | Kazi Sabbir | [Read More](https://medium.com/p/fa1cd6b468c2) |
 | Sat, 17 Jan 2026 18:16:43 GMT | Why Encryption Alone Doesn’t Make Systems Secure | Daniel Isaac E | [Read More](https://medium.com/p/0cbd3cd4cb0b) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 12:04:11 GMT | Incident Response Hands-on 3 | Allen Ace | [Read More](https://medium.com/p/8cf2a65afcb2) |
 | Sat, 17 Jan 2026 12:01:58 GMT | How Government Data Leaks End Up on the Dark Web | Tor BBB | [Read More](https://medium.com/p/e5049664adab) |
 | Sat, 17 Jan 2026 11:59:31 GMT | Unlock the Power of AI with the Ultimate Tools Directory. | Sagar Shewale | [Read More](https://medium.com/p/4859b56d06f5) |
-| Sat, 17 Jan 2026 11:59:27 GMT | How JS Analysis Led to PII Disclosure | Rahul Singh Chauhan | [Read More](https://medium.com/p/02763f49108e) |
-| Sat, 17 Jan 2026 11:56:22 GMT | Web Server Security — Attacks, Tools & Defense (CEH Guide for Ethical Hackers) | Cyber Wolf | [Read More](https://medium.com/p/47ab93867b65) |
-| Sat, 17 Jan 2026 11:51:38 GMT | The metaphor that led my pen— My Moon | Laasya Kannepalli | [Read More](https://medium.com/p/b7b1df5db05b) |
-| Sat, 17 Jan 2026 11:51:37 GMT | The Angular Bug That Only Appeared on Slow Phones | Computer Architect | [Read More](https://medium.com/p/ae4606fdadd2) |
-| Sat, 17 Jan 2026 11:46:33 GMT | Join Our Cybersecurity WhatsApp Group! | Mirmahmood | [Read More](https://medium.com/p/3e6f7c1d0191) |
-| Sat, 17 Jan 2026 11:45:55 GMT | Mobile Patrol Services for Enhanced Safety and Monitoring | Travel time | [Read More](https://medium.com/p/edfaab05438f) |
-| Sat, 17 Jan 2026 11:28:25 GMT | Write-up: Internal lab (Hard) on THM | cLODIUS cOCK | [Read More](https://medium.com/p/2faaafecf453) |
-| Sat, 17 Jan 2026 11:25:03 GMT | How a WannaCry Sample Hid its payload inside a Password Protected | Ben Rubin (Zedocun) | [Read More](https://medium.com/p/5d1b63483ef4) |
-| Sat, 17 Jan 2026 11:21:25 GMT | Weaponizing NotebookLM: How a “Harmless” Intent Can Silently Brick Your System Storage | Sandiyo Christan | [Read More](https://medium.com/p/293df02fe891) |
-| Sat, 17 Jan 2026 11:18:57 GMT | What “Affordable” Hosting Should Actually Look Like in 2026? | Andy | [Read More](https://medium.com/p/99f17eef9fc6) |
