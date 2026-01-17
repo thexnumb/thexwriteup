@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 Jan 2026 01:33:05 GMT | Heartbleed Never Really Left: Why MongoBleed Is a Wake-Up Call | Selorm Adjabeng | [Read More](https://medium.com/p/2114f3f3cd96) |
+| Sat, 17 Jan 2026 01:32:35 GMT | ArchiMate philosophy and Behavior Driven Development | Andrey Lebedev | [Read More](https://medium.com/p/3dcf2b62353e) |
+| Sat, 17 Jan 2026 01:14:53 GMT | Balancing UX Functions with Information Security Requirements | Ziya Gokalp | [Read More](https://medium.com/p/f726ef2ee831) |
+| Sat, 17 Jan 2026 01:14:30 GMT | The Future Value-Driven Data Analytics Method: Augmented Analytics | Ziya Gokalp | [Read More](https://medium.com/p/64c45a9a00e1) |
+| Sat, 17 Jan 2026 01:10:38 GMT | DefenceNet: The Link You Didn’t Mean to Open | Datacove.ai | [Read More](https://medium.com/p/867382db5089) |
+| Sat, 17 Jan 2026 01:04:10 GMT | TOR Browser 101: How It Works, Why It Matters, and How to Get Started | Crypto Writer Dude | [Read More](https://medium.com/p/45795d324625) |
+| Sat, 17 Jan 2026 00:31:15 GMT | Understanding FIPS 202: The Design of Keccak, SHA-3, and SHAKE | Deeptiman Pattnaik | [Read More](https://medium.com/p/aaad72608cc9) |
+| Sat, 17 Jan 2026 00:22:19 GMT | Integrating Flatsat with COSMOS C3: A Flexible Ground Segment for Hacking and Mission Ops | PWNSAT | [Read More](https://medium.com/p/a13ded9d138a) |
+| Sat, 17 Jan 2026 00:03:14 GMT | Web Security: Guide to Exploiting HTTP Methods and Bypassing WAFs | JPablo13 | [Read More](https://medium.com/p/08edb18cc6b9) |
+| Fri, 16 Jan 2026 23:52:12 GMT | Model Security Is the Wrong Frame | Cyber-AppSec | [Read More](https://medium.com/p/c3931a79924b) |
 | Fri, 16 Jan 2026 23:37:28 GMT | Your Brain Has a Spam Filter. Can We Reverse-Engineer It? | Kevin | [Read More](https://medium.com/p/799da714238e) |
 | Fri, 16 Jan 2026 23:25:45 GMT | “Instagram Breach… or Not?” | Ogechi Ifeanyi Chime | [Read More](https://medium.com/p/9b3002ecaf06) |
 | Fri, 16 Jan 2026 23:13:58 GMT | We’re Moving Too Fast, and AI Barbarians Are at the Gate | Joseph Mann | [Read More](https://medium.com/p/1975eb34fc55) |
@@ -103,13 +113,3 @@ Amazing content! | Alborz Nazari | [Read More](https://medium.com/p/078ed8cdef4c
 | Fri, 16 Jan 2026 15:32:08 GMT | Security best practices in Umami codebase — part 1.1 | Ramu Narasinga | [Read More](https://medium.com/p/ff42a9734828) |
 | Fri, 16 Jan 2026 15:27:30 GMT | Breaking E-Commerce: How Client-Side Price Manipulation Lets You Pay Whatever You Want | OopsSec Store | [Read More](https://medium.com/p/6b78b0fac2b9) |
 | Fri, 16 Jan 2026 15:20:09 GMT | “Bug Bounty Bootcamp #17: Mastering Blind XSS — Unleash the Hidden Predator That Devours Admin… | Aman Sharma | [Read More](https://medium.com/p/4d2753520212) |
-| Fri, 16 Jan 2026 15:11:03 GMT | ApiFort API Recorder | Apifort | [Read More](https://medium.com/p/2944b10eb4a5) |
-| Fri, 16 Jan 2026 15:04:26 GMT | Identity isn’t a Component of Security. It is Security. | Turing Tower | [Read More](https://medium.com/p/9a9d3d50659b) |
-| Fri, 16 Jan 2026 15:03:47 GMT | When Account Recovery Windows Close Before Users Know They’re Compromised: A Roblox Case Study | Dustin | [Read More](https://medium.com/p/95d3f65899a8) |
-| Fri, 16 Jan 2026 15:02:14 GMT | Deepfake and Social Engineering 2.0: The New Era of Digital Deception | Emir Yusuf Nural | [Read More](https://medium.com/p/bb84fec48e7c) |
-| Fri, 16 Jan 2026 15:02:13 GMT | Cyber Briefing: 2026.01.16 | CyberMaterial | [Read More](https://medium.com/p/00e5b03bed2f) |
-| Fri, 16 Jan 2026 15:00:24 GMT | Basic Linux Terminal Commands | Aliyan Ali | [Read More](https://medium.com/p/9415016a57fc) |
-| Fri, 16 Jan 2026 14:56:42 GMT | Google Cybersecurity Professional Certificate Review: Honest Experience from a CS Student | Asad Sayyad | [Read More](https://medium.com/p/72bae4ab31f0) |
-| Fri, 16 Jan 2026 14:50:20 GMT | Reverse Engineering I²C EEPROM Configuration on a Hikvision PoE Switch | Aaronjjose | [Read More](https://medium.com/p/b14ca67c5d31) |
-| Fri, 16 Jan 2026 14:42:09 GMT | PBL 320 — Pengembangan Well-Architected Infrastructure SIEM dengan Agregasi Cyber Threat… | Defriyani Siregar | [Read More](https://medium.com/p/cc9c14d030a2) |
-| Fri, 16 Jan 2026 14:34:51 GMT | Journey into cyber security | cybersapho | [Read More](https://medium.com/p/09536aebbc21) |
