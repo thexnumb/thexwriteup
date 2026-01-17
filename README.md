@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 Jan 2026 20:48:20 GMT | SSTI Explained: HTB Hacknet Walkthrough | Motasem Hamdan | [Read More](https://medium.com/p/36909cf2cdb1) |
+| Sat, 17 Jan 2026 20:46:45 GMT | Whispered Fears | L.A. | [Read More](https://medium.com/p/18fe13096482) |
 | Sat, 17 Jan 2026 20:39:22 GMT | Learning About Invertebrates and Food | Abhik Chowdhury | [Read More](https://medium.com/p/b0c2000305ee) |
 | Sat, 17 Jan 2026 20:26:14 GMT | Hidden in the Source: Discovering Reflected XSS via Manual Code Review | Samet Yiğit | [Read More](https://medium.com/p/c2a697d9d8c1) |
 | Sat, 17 Jan 2026 20:25:10 GMT | The Double Life of Your JPEGs: Privacy Leaks and Hidden Payloads | Xiao Paw | [Read More](https://medium.com/p/cda20970108b) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 13:28:19 GMT | Passkeys in Practice: Secure Authentication Without Passwords | Chitwan | [Read More](https://medium.com/p/7235ebfe8557) |
 | Sat, 17 Jan 2026 13:22:23 GMT | Writeup Appointment — Hack The Box | RavenBreach | [Read More](https://medium.com/p/76adcf30e7bd) |
 | Sat, 17 Jan 2026 13:10:39 GMT | Finding a $600 Remote Code Execution (RCE) on an E-Commerce Platform | Cybervolt | [Read More](https://medium.com/p/4fcb483778be) |
-| Sat, 17 Jan 2026 13:03:23 GMT | Malware Traffic Analysis: It’s a trap! | dovidee | [Read More](https://medium.com/p/3e65f89d5ddc) |
-| Sat, 17 Jan 2026 12:53:52 GMT | What Internet Traffic Looks Like on an Exposed Redis Service | berke bodur | [Read More](https://medium.com/p/056ebf0dc852) |
