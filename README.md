@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 Jan 2026 15:20:11 GMT | The Bug That Taught Me More Than Any Course | Nabil Mouzouna نبيل مزونة | [Read More](https://medium.com/p/96f7d2b2fc9a) |
+| Sat, 17 Jan 2026 15:08:15 GMT | TryHackMe Writeup: JPGChat | Berkay AĞGÜL | [Read More](https://medium.com/p/3c4f51344749) |
+| Sat, 17 Jan 2026 15:07:44 GMT | An AI Thought-Experiment I Didn’t Expect | Maithilee Singh | [Read More](https://medium.com/p/2a9eb6a678a0) |
+| Sat, 17 Jan 2026 15:02:32 GMT | How to Clear Gmail Clutter Once and for All: The Secret Button in Your Account | raccooni4ka | [Read More](https://medium.com/p/b546e78b480c) |
+| Sat, 17 Jan 2026 15:02:09 GMT | When Web3 Breaks in Public: 10 Survival Lessons | Syntal | [Read More](https://medium.com/p/9805f63ebc9b) |
+| Sat, 17 Jan 2026 15:02:08 GMT | The 10 Web3 Risks Worth Taking (and Avoiding) | Vectorlane | [Read More](https://medium.com/p/9a4a0c9cb2a7) |
+| Sat, 17 Jan 2026 15:01:29 GMT | Building a Self-Governing Cloud with Real-Time AI on AWS | Ashish Kasaudhan | [Read More](https://medium.com/p/f69b2ba35367) |
+| Sat, 17 Jan 2026 14:58:12 GMT | Day 8 — Cloud Attack Scenarios Every Security Engineer Must Understand (How Breaches Really Happen) | NineTales | [Read More](https://medium.com/p/53c489ed9f8b) |
+| Sat, 17 Jan 2026 14:57:21 GMT | Security บทที่ 5 | Pruek Tanvorakul | [Read More](https://medium.com/p/90f1648e6004) |
+| Sat, 17 Jan 2026 14:50:33 GMT | Bypassing Authentication Schema as an Expert | Marwan Alsaifi | [Read More](https://medium.com/p/f10c69fe8422) |
+| Sat, 17 Jan 2026 14:39:25 GMT | Layered Obfuscation and Execution Gating in a JavaScript Loader | Ante Popic | [Read More](https://medium.com/p/8d21c9fb14d6) |
 | Sat, 17 Jan 2026 14:38:04 GMT | Adapter Pattern: Bridging Incompatible Worlds (Without Losing Your Mind) | Jitin Kayyala | [Read More](https://medium.com/p/c58151e11a18) |
 | Sat, 17 Jan 2026 14:35:43 GMT | Black IP : Network Intelligence Tool | Abhirup Konwar | [Read More](https://medium.com/p/1188bfa1591c) |
 | Sat, 17 Jan 2026 14:31:59 GMT | Detecting ARP Poisoning Attacks: A Comprehensive Guide | Vignesh R | [Read More](https://medium.com/p/415b1f3a1d61) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 07:12:34 GMT | The One-Prompt PT Lab: Autonomous Android Security Research with Cursor AI | Andrey Pautov | [Read More](https://medium.com/p/b96ed2053071) |
 | Sat, 17 Jan 2026 07:07:01 GMT | Zero Trust Security Model Why Every Business Needs It | Sureshbhagath | [Read More](https://medium.com/p/e6096f07c943) |
 | Sat, 17 Jan 2026 07:06:34 GMT | Executive VIP Protection & Security in Dallas | US guard security company | [Read More](https://medium.com/p/aa0891919d54) |
-| Sat, 17 Jan 2026 07:05:48 GMT | Pindah dari Windows Ke Mac OS | Kerlaa | [Read More](https://medium.com/p/8b724d577e54) |
-| Sat, 17 Jan 2026 07:03:29 GMT | So You Caught the Packets. Now What? A Quick Guide to Reading WiFi PCAPs Without Lying to Yourself | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/89cfe50b1f0a) |
-| Sat, 17 Jan 2026 07:00:20 GMT | The Cryptography Concept Journey — RA (Registration Authority) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/e82d85512a1f) |
-| Sat, 17 Jan 2026 06:52:16 GMT | Why Cybersecurity Is More About People Than Technology | Abdul Ahad | [Read More](https://medium.com/p/9cacd320140e) |
-| Sat, 17 Jan 2026 06:49:40 GMT | -Cyber Security Solutions for Small Business: Practical Protection Against Modern Risks | Reflect security solutions | [Read More](https://medium.com/p/5bf97a831162) |
-| Sat, 17 Jan 2026 06:43:43 GMT | Security Services in Pearland | Security Houston | [Read More](https://medium.com/p/8fc927450de5) |
-| Sat, 17 Jan 2026 06:40:52 GMT | WhisperPair (CVE‑2025‑36911): Bluetooth Earbuds Vulnerability Explained | Zyberwalls | [Read More](https://medium.com/p/03561d106484) |
-| Sat, 17 Jan 2026 06:31:59 GMT | Why Your Developer Tools Shouldn’t Phone Home | The Dev Suite | [Read More](https://medium.com/p/1b042c0dd12e) |
-| Sat, 17 Jan 2026 06:31:50 GMT | 2025藍隊之路-HTB CDSA 心得分享 | segalee | [Read More](https://medium.com/p/54d9f382ae2c) |
-| Sat, 17 Jan 2026 06:28:04 GMT | # How Cybercrime Threatens Our Future | ritesh | [Read More](https://medium.com/p/312b935dd23a) |
-| Sat, 17 Jan 2026 06:21:43 GMT | Zionist Security Doctrine: Zero Tolerance | Shéa | [Read More](https://medium.com/p/7e80813687c0) |
