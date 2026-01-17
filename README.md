@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 Jan 2026 13:36:58 GMT | Digital Signatures, Certificates & Keystores Explained for Java Developers | Suraj Bhandari | [Read More](https://medium.com/p/06346cd70985) |
+| Sat, 17 Jan 2026 13:36:03 GMT | Is Your Digital Life Really Safe ? | Techy Mecha | [Read More](https://medium.com/p/b57bbe54947a) |
+| Sat, 17 Jan 2026 13:35:58 GMT | Lake Charles, LA ~ Home Security Systems | Home & Garden Shows | [Read More](https://medium.com/p/f3999550e2c6) |
 | Sat, 17 Jan 2026 13:28:19 GMT | Passkeys in Practice: Secure Authentication Without Passwords | Chitwan | [Read More](https://medium.com/p/7235ebfe8557) |
 | Sat, 17 Jan 2026 13:22:23 GMT | Writeup Appointment — Hack The Box | RavenBreach | [Read More](https://medium.com/p/76adcf30e7bd) |
 | Sat, 17 Jan 2026 13:10:39 GMT | Finding a $600 Remote Code Execution (RCE) on an E-Commerce Platform | Cybervolt | [Read More](https://medium.com/p/4fcb483778be) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 05:17:45 GMT | Wazuh: The Open-Source SIEM That Beats Splunk (And It’s Completely Free) | inboryn | [Read More](https://medium.com/p/5f7edc8c4c7e) |
 | Sat, 17 Jan 2026 05:07:55 GMT | Best Security Services in Haryana — Lakshay Security & Placement Services | Lakshay Security | [Read More](https://medium.com/p/e9830bd39919) |
 | Sat, 17 Jan 2026 05:06:55 GMT | Two OAuth 2.0 Specs You Should Know About: Token Exchange and JWT Bearer Grant | Florian Röser | [Read More](https://medium.com/p/4c9c56299130) |
-| Sat, 17 Jan 2026 05:04:54 GMT | They Plugged In a USB Cable — and Lost Their Business by Lunch: A Malicious BadUSB Attack Explained | Noel | [Read More](https://medium.com/p/dbded78176ae) |
-| Sat, 17 Jan 2026 05:04:49 GMT | Should You Still Choose Cybersecurity in 2026? | Shahzaib | [Read More](https://medium.com/p/58dfdedbe442) |
-| Sat, 17 Jan 2026 05:02:56 GMT | Mass Assignment leads to Account Takeover and DoS | Rahul Singh Chauhan | [Read More](https://medium.com/p/32132ee92486) |
