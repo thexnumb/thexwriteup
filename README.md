@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 Jan 2026 11:03:01 GMT | Linux Post-Exploitation 102: Breaking Out and Moving Up | Al3xx | [Read More](https://medium.com/p/bd3e27667292) |
+| Sat, 17 Jan 2026 11:02:58 GMT | A Simple IDOR That Ignored Platform Logic | Parth Narula | [Read More](https://medium.com/p/09bf86a8bf1d) |
+| Sat, 17 Jan 2026 10:46:36 GMT | The lazy method I use to learn bug bounty hunting | RicOnTech | [Read More](https://medium.com/p/0221184842e8) |
 | Sat, 17 Jan 2026 10:35:22 GMT | STDIN: The Most Dangerous Feature You Ignore | Avinash Pawar | [Read More](https://medium.com/p/dde37b01a634) |
 | Sat, 17 Jan 2026 10:33:14 GMT | Two Scorpios | Last Viktor | [Read More](https://medium.com/p/0005d12737e0) |
 | Sat, 17 Jan 2026 10:33:08 GMT | Why I Belong in Toptal’s Elite DevOps and Security Engineering Network | Anthony Okeke | [Read More](https://medium.com/p/6e2455b78dd3) |
@@ -110,6 +113,3 @@ Telegram was created to offer… | Ankit rai | [Read More](https://medium.com/p/
 | Sat, 17 Jan 2026 00:03:14 GMT | Web Security: Guide to Exploiting HTTP Methods and Bypassing WAFs | JPablo13 | [Read More](https://medium.com/p/08edb18cc6b9) |
 | Fri, 16 Jan 2026 23:52:12 GMT | Model Security Is the Wrong Frame | Cyber-AppSec | [Read More](https://medium.com/p/c3931a79924b) |
 | Fri, 16 Jan 2026 23:37:28 GMT | Your Brain Has a Spam Filter. Can We Reverse-Engineer It? | Kevin | [Read More](https://medium.com/p/799da714238e) |
-| Fri, 16 Jan 2026 23:25:45 GMT | “Instagram Breach… or Not?” | Ogechi Ifeanyi Chime | [Read More](https://medium.com/p/9b3002ecaf06) |
-| Fri, 16 Jan 2026 23:13:58 GMT | We’re Moving Too Fast, and AI Barbarians Are at the Gate | Joseph Mann | [Read More](https://medium.com/p/1975eb34fc55) |
-| Fri, 16 Jan 2026 23:08:23 GMT | Mastering iOS Pentesting: Part 1 — Jailbreaking Your Devices (Dopamine & palera1n) | Faris Faisal 0xFF | [Read More](https://medium.com/p/200ae1dc7542) |
