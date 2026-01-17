@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 Jan 2026 08:44:02 GMT | The Quiet Collapse of Hierarchy | Aaron Sempf | [Read More](https://medium.com/p/58d8b0da42f3) |
+| Sat, 17 Jan 2026 08:28:36 GMT | Whoer.net Isn’t the Only Option: I Tested 5 Real Alternatives | MostLogin Anti-detect Browser | [Read More](https://medium.com/p/cc6b06a45c90) |
 | Sat, 17 Jan 2026 08:26:56 GMT | Zero Trust for Network Engineers: Practical Implementation Beyond the Buzzword | Hmbali | [Read More](https://medium.com/p/a8225e75e477) |
+| Sat, 17 Jan 2026 08:23:45 GMT | Node.js Security Issue Alert 2026: Is Your React.js/Next.js App Crashing Silently? | Azad Ansari | [Read More](https://medium.com/p/58743404ab85) |
 | Sat, 17 Jan 2026 08:23:26 GMT | Stop Polling Like It’s 2005: Build Real-Time Apps with WebSockets | Jitin Kayyala | [Read More](https://medium.com/p/57c8c8a5f3bd) |
+| Sat, 17 Jan 2026 08:16:21 GMT | Event Security Dallas | US guard security company | [Read More](https://medium.com/p/aef5c07ca127) |
 | Sat, 17 Jan 2026 08:14:45 GMT | Real-Time Cyber Threat Intelligence Sharing Without Blockchain Bottlenecks | Dr. Ayaz H. Khan | [Read More](https://medium.com/p/25b2e42cea75) |
 | Sat, 17 Jan 2026 08:11:34 GMT | Should you deploy Security Copilot with Zero Trust? | Yash Mudaliar | [Read More](https://medium.com/p/c3e28f529bb8) |
 | Sat, 17 Jan 2026 08:07:09 GMT | Don't be a generalist | Inspiraller | [Read More](https://medium.com/p/187d641d2b25) |
@@ -109,7 +113,3 @@ Telegram was created to offer… | Ankit rai | [Read More](https://medium.com/p/
 | Fri, 16 Jan 2026 21:33:11 GMT | Beyond Autonomy: The Role of Guardrails in Agentic AI | Rampart AI™ | [Read More](https://medium.com/p/aaaace097de4) |
 | Fri, 16 Jan 2026 21:26:50 GMT | If I Were Attacking Your Company, Here’s Where I’d Start | JSOC IT BLOG | [Read More](https://medium.com/p/16a3cd370972) |
 | Fri, 16 Jan 2026 21:20:50 GMT | The segmentation that works blueprint: what to decide first (so you don’t waste 12 months) | Fook Hwa Tan | [Read More](https://medium.com/p/9d8bdd088544) |
-| Fri, 16 Jan 2026 21:17:05 GMT | The New Standard of Digital Trust: Why Rankiteo is a Game-Changer | Jeremy C | [Read More](https://medium.com/p/22eb5e93c1b0) |
-| Fri, 16 Jan 2026 21:02:21 GMT | Brute-it | Jadem Yasser | [Read More](https://medium.com/p/bb0b5a9989e7) |
-| Fri, 16 Jan 2026 20:38:16 GMT | The New Rules of Cybersecurity: Why 2026 Changes Everything | Anjali Gopinadhan Nair | [Read More](https://medium.com/p/5f4df833017c) |
-| Fri, 16 Jan 2026 20:36:32 GMT | When Luigi Hunts Malware | cybertactic | [Read More](https://medium.com/p/02160b9c8ad0) |
