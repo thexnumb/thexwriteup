@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 Jan 2026 17:30:07 GMT | Ethical Hacking & Penetration Testing — Complete | Nukhbasoomro | [Read More](https://medium.com/p/b59a41898090) |
+| Sat, 17 Jan 2026 17:21:49 GMT | Securing the Mesh: Advanced Threat Modeling with STRIDE for Distributed Systems | Vaibhav Tiwari | [Read More](https://medium.com/p/afbf25584781) |
+| Sat, 17 Jan 2026 17:17:55 GMT | GSEC Yolculuğu #4: Trafiğin Mimarları — TCP, UDP ve Portlar | Ata Erdemir | [Read More](https://medium.com/p/d75775a12f61) |
 | Sat, 17 Jan 2026 17:15:52 GMT | Why Security Controls Fail Before an Attacker Even Tries | Tyreek Haynes | [Read More](https://medium.com/p/858050451cb8) |
 | Sat, 17 Jan 2026 16:57:31 GMT | What I Found While Analyzing a Fake Banking App | Adwaith S | [Read More](https://medium.com/p/7b495558c7ff) |
 | Sat, 17 Jan 2026 16:54:12 GMT | Master API Security: I Built a Vulnerable Lab for Beginners (VulnShop) | Sreejihkn | [Read More](https://medium.com/p/3c4ec0bc0da0) |
@@ -22,6 +25,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 16:24:26 GMT | A fresh start | On The Edge | [Read More](https://medium.com/p/a810a8c4f778) |
 | Sat, 17 Jan 2026 16:21:14 GMT | Practical Roadmap for Learning File Upload Vulnerabilities | Daniel Hammoud | [Read More](https://medium.com/p/ff2bf04db0df) |
 | Sat, 17 Jan 2026 16:19:36 GMT | 2026 IT Readiness A Year End Cybersecurity Checklist - Aspire Transforms | Thomas Carter | [Read More](https://medium.com/p/789e5c4068c2) |
+| Sat, 17 Jan 2026 16:18:43 GMT | Bahaya ‘Real-Time Deepfake’ di Video Call: Cara Membedakan Teman Asli dan Palsu | SkripIn | [Read More](https://medium.com/p/64bbda379484) |
 | Sat, 17 Jan 2026 16:18:39 GMT | Write-up: Retro lab (Hard) on THM | cLODIUS cOCK | [Read More](https://medium.com/p/5747e6d3062f) |
 | Sat, 17 Jan 2026 16:11:56 GMT | I Blocked Anime Websites Like a Pro (and My Sister is Not Happy ) | Swetha | [Read More](https://medium.com/p/052fb070fe04) |
 | Sat, 17 Jan 2026 16:10:15 GMT | WhisperPair: When Your Bluetooth Headphones Become Someone Else’s Listening Device | Harsh Raj Singhania | [Read More](https://medium.com/p/9a060d8a066a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 09:09:36 GMT | The “Catgirl” Pivot: How Akira Affiliates Are Weaponizing Commodity RAT Infrastructure in 2026 | Rhishav Kanjilal | [Read More](https://medium.com/p/85c2f54eb72a) |
 | Sat, 17 Jan 2026 09:09:07 GMT | Blancco Datenlöschung erklärt: Sichere IT-Entsorgung mit Second IT | Second IT | [Read More](https://medium.com/p/360701524759) |
 | Sat, 17 Jan 2026 09:02:10 GMT | Cloud Keys to the Kingdom” | Sidhantchaurasiya | [Read More](https://medium.com/p/f1ac25073e68) |
-| Sat, 17 Jan 2026 09:02:09 GMT | TCS HackQuest Season 10 — Round 1: Walkthrough | Arnav Vaidya | [Read More](https://medium.com/p/6caf62a82be7) |
-| Sat, 17 Jan 2026 09:01:58 GMT | The Employee Who Leaked 200 Corporate Logins From His Personal Laptop | Alexandre Vandamme | [Read More](https://medium.com/p/d6a338e8dd5a) |
-| Sat, 17 Jan 2026 09:00:15 GMT | Techniques to Securely Connect Java Applications to Cloud Databases Using Service Accounts and… | Anh Trần Tuấn | [Read More](https://medium.com/p/ee1b8fccc40a) |
-| Sat, 17 Jan 2026 08:55:52 GMT | ICS FuelStation Challenge — LetsDefend | Patrick Abou Nakoul | [Read More](https://medium.com/p/481149bd0230) |
