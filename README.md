@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 Jan 2026 09:09:36 GMT | The “Catgirl” Pivot: How Akira Affiliates Are Weaponizing Commodity RAT Infrastructure in 2026 | Rhishav Kanjilal | [Read More](https://medium.com/p/85c2f54eb72a) |
+| Sat, 17 Jan 2026 09:09:07 GMT | Blancco Datenlöschung erklärt: Sichere IT-Entsorgung mit Second IT | Second IT | [Read More](https://medium.com/p/360701524759) |
+| Sat, 17 Jan 2026 09:02:10 GMT | Cloud Keys to the Kingdom” | Sidhantchaurasiya | [Read More](https://medium.com/p/f1ac25073e68) |
+| Sat, 17 Jan 2026 09:02:09 GMT | TCS HackQuest Season 10 — Round 1: Walkthrough | Arnav Vaidya | [Read More](https://medium.com/p/6caf62a82be7) |
+| Sat, 17 Jan 2026 09:01:58 GMT | The Employee Who Leaked 200 Corporate Logins From His Personal Laptop | Alexandre Vandamme | [Read More](https://medium.com/p/d6a338e8dd5a) |
+| Sat, 17 Jan 2026 09:00:15 GMT | Techniques to Securely Connect Java Applications to Cloud Databases Using Service Accounts and… | Anh Trần Tuấn | [Read More](https://medium.com/p/ee1b8fccc40a) |
+| Sat, 17 Jan 2026 08:55:52 GMT | ICS FuelStation Challenge — LetsDefend | Patrick Abou Nakoul | [Read More](https://medium.com/p/481149bd0230) |
 | Sat, 17 Jan 2026 08:44:02 GMT | The Quiet Collapse of Hierarchy | Aaron Sempf | [Read More](https://medium.com/p/58d8b0da42f3) |
 | Sat, 17 Jan 2026 08:28:36 GMT | Whoer.net Isn’t the Only Option: I Tested 5 Real Alternatives | MostLogin Anti-detect Browser | [Read More](https://medium.com/p/cc6b06a45c90) |
 | Sat, 17 Jan 2026 08:26:56 GMT | Zero Trust for Network Engineers: Practical Implementation Beyond the Buzzword | Hmbali | [Read More](https://medium.com/p/a8225e75e477) |
@@ -106,10 +113,3 @@ Telegram was created to offer… | Ankit rai | [Read More](https://medium.com/p/
 | Fri, 16 Jan 2026 21:57:56 GMT | From Perimeter Security to Practical Zero Trust: A Real-World Approach for Modern Networks | Shahzad Ayub | [Read More](https://medium.com/p/dfeffd8b0e7f) |
 | Fri, 16 Jan 2026 21:55:44 GMT | Shadow Work, Discomfort, and Tarot | Ali Owl Rising | [Read More](https://medium.com/p/d782188238b4) |
 | Fri, 16 Jan 2026 21:46:36 GMT | Day 18 — Obfuscation: The Egg Shell File | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/a91f6cd42d0b) |
-| Fri, 16 Jan 2026 21:46:04 GMT | ThugSquad: Mysterious Russian Cybercrime Group | Jasper Chippindall | [Read More](https://medium.com/p/b4f57d65df81) |
-| Fri, 16 Jan 2026 21:43:26 GMT | Day 17 — CyberChef: Hoperation Save McSkidy | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/930e74f0931a) |
-| Fri, 16 Jan 2026 21:38:09 GMT | CloudGoat AWS Key Rotation | Spookz | [Read More](https://medium.com/p/afdd37114679) |
-| Fri, 16 Jan 2026 21:34:03 GMT | xozyl and AbuseFraud: Inside an Unknown Cybercrime Group | Jasper Chippindall | [Read More](https://medium.com/p/7da68e53b06d) |
-| Fri, 16 Jan 2026 21:33:11 GMT | Beyond Autonomy: The Role of Guardrails in Agentic AI | Rampart AI™ | [Read More](https://medium.com/p/aaaace097de4) |
-| Fri, 16 Jan 2026 21:26:50 GMT | If I Were Attacking Your Company, Here’s Where I’d Start | JSOC IT BLOG | [Read More](https://medium.com/p/16a3cd370972) |
-| Fri, 16 Jan 2026 21:20:50 GMT | The segmentation that works blueprint: what to decide first (so you don’t waste 12 months) | Fook Hwa Tan | [Read More](https://medium.com/p/9d8bdd088544) |
