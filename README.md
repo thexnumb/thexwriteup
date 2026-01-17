@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 Jan 2026 16:28:04 GMT | LetsDefend: SOC138 — Detected Suspicious Xls File — EventID: 77 - Walkthrough | Beatriz Gomes | [Read More](https://medium.com/p/daefe5f7580e) |
+| Sat, 17 Jan 2026 16:27:31 GMT | Reverse-Engineering Anomalous Effects: The Dual-Use Risks of Comms Infrastructure. | NT | [Read More](https://medium.com/p/0430920ba2df) |
+| Sat, 17 Jan 2026 16:25:49 GMT | Cyber Law, Ethical Hacking and Penetration Testing | Nukhbasoomro | [Read More](https://medium.com/p/15a061db8cd8) |
 | Sat, 17 Jan 2026 16:24:26 GMT | A fresh start | On The Edge | [Read More](https://medium.com/p/a810a8c4f778) |
 | Sat, 17 Jan 2026 16:21:14 GMT | Practical Roadmap for Learning File Upload Vulnerabilities | Daniel Hammoud | [Read More](https://medium.com/p/ff2bf04db0df) |
+| Sat, 17 Jan 2026 16:19:36 GMT | 2026 IT Readiness A Year End Cybersecurity Checklist - Aspire Transforms | Thomas Carter | [Read More](https://medium.com/p/789e5c4068c2) |
 | Sat, 17 Jan 2026 16:18:39 GMT | Write-up: Retro lab (Hard) on THM | cLODIUS cOCK | [Read More](https://medium.com/p/5747e6d3062f) |
 | Sat, 17 Jan 2026 16:11:56 GMT | I Blocked Anime Websites Like a Pro (and My Sister is Not Happy ) | Swetha | [Read More](https://medium.com/p/052fb070fe04) |
 | Sat, 17 Jan 2026 16:10:15 GMT | WhisperPair: When Your Bluetooth Headphones Become Someone Else’s Listening Device | Harsh Raj Singhania | [Read More](https://medium.com/p/9a060d8a066a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 08:28:36 GMT | Whoer.net Isn’t the Only Option: I Tested 5 Real Alternatives | MostLogin Anti-detect Browser | [Read More](https://medium.com/p/cc6b06a45c90) |
 | Sat, 17 Jan 2026 08:26:56 GMT | Zero Trust for Network Engineers: Practical Implementation Beyond the Buzzword | Hmbali | [Read More](https://medium.com/p/a8225e75e477) |
 | Sat, 17 Jan 2026 08:23:45 GMT | Node.js Security Issue Alert 2026: Is Your React.js/Next.js App Crashing Silently? | Azad Ansari | [Read More](https://medium.com/p/58743404ab85) |
-| Sat, 17 Jan 2026 08:23:26 GMT | Stop Polling Like It’s 2005: Build Real-Time Apps with WebSockets | Jitin Kayyala | [Read More](https://medium.com/p/57c8c8a5f3bd) |
-| Sat, 17 Jan 2026 08:16:21 GMT | Event Security Dallas | US guard security company | [Read More](https://medium.com/p/aef5c07ca127) |
-| Sat, 17 Jan 2026 08:14:45 GMT | Real-Time Cyber Threat Intelligence Sharing Without Blockchain Bottlenecks | Dr. Ayaz H. Khan | [Read More](https://medium.com/p/25b2e42cea75) |
-| Sat, 17 Jan 2026 08:11:34 GMT | Should you deploy Security Copilot with Zero Trust? | Yash Mudaliar | [Read More](https://medium.com/p/c3e28f529bb8) |
