@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 17 Jan 2026 04:46:22 GMT | The Dark Web Is Not What You Think | Satyam Pathania | [Read More](https://medium.com/p/7d133a04b3ae) |
+| Sat, 17 Jan 2026 04:26:58 GMT | Why Big Tech No Longer Hires “Smart” Developers | Logic Over Latte | [Read More](https://medium.com/p/814acebfb3f6) |
+| Sat, 17 Jan 2026 04:15:50 GMT | Cybersecurity Isn’t Broken. We Just Don’t Take It Seriously. | Sclov Beycn | [Read More](https://medium.com/p/8d32e305d6ee) |
 | Sat, 17 Jan 2026 03:46:45 GMT | Space Hacking: The Final Frontier of Cyber Warfare | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/8b179f02fd2e) |
 | Sat, 17 Jan 2026 03:43:20 GMT | Most Beginners Learn Ethical Hacking the Wrong Way — Python Fixed That for Me | Vignesh Selvaraj | [Read More](https://medium.com/p/a51750ebd241) |
+| Sat, 17 Jan 2026 03:29:05 GMT | Update on my journey from CEH v12 (student) to … | SHIKE ACHUMI | [Read More](https://medium.com/p/6172d5eaf469) |
 | Sat, 17 Jan 2026 03:25:41 GMT | Why Authentication and Authorization Must Be Centralized in Microservices | Anand | [Read More](https://medium.com/p/d9990c7b708d) |
 | Sat, 17 Jan 2026 03:18:18 GMT | The Real Reason Encryption Is Mandatory in Enterprise Java Microservices | Anand | [Read More](https://medium.com/p/cd9ee5f769b0) |
 | Sat, 17 Jan 2026 03:01:12 GMT | Applications, drop your PINs | Pavel Lahoda | [Read More](https://medium.com/p/75bfee66c921) |
@@ -109,7 +113,3 @@ Amazing content! | Alborz Nazari | [Read More](https://medium.com/p/078ed8cdef4c
 | Fri, 16 Jan 2026 16:38:54 GMT | Why cyberattacks are successful: Understanding the real causes (Part 1 of 4) | Cordula Boeck | [Read More](https://medium.com/p/301f866dfa26) |
 | Fri, 16 Jan 2026 16:38:01 GMT | How Cursor AI Became My Full-Stack Development Partner: From Arduino Code to Visual Validation | Andrey Pautov | [Read More](https://medium.com/p/47fcccb9c845) |
 | Fri, 16 Jan 2026 16:35:26 GMT | Ethical Hacking: Turning Curiosity into Responsible Security Skills | Will Gall | [Read More](https://medium.com/p/2b5399c1949b) |
-| Fri, 16 Jan 2026 16:32:17 GMT | Email Scam With A Human Touch | Elizabeth Emerald | [Read More](https://medium.com/p/596ce0c4483a) |
-| Fri, 16 Jan 2026 16:22:47 GMT | Top AI Skills and Careers to Master in 2026 | Faraz Weerabangsa | [Read More](https://medium.com/p/30070fe9c3a5) |
-| Fri, 16 Jan 2026 16:12:20 GMT | QRadar Dominance in Modern SOC Architectures: Technical Superiority and Strategic Realities | Ali Okan Yüksel | [Read More](https://medium.com/p/5dc6e216b397) |
-| Fri, 16 Jan 2026 16:08:02 GMT | Agentic AI in penetration testing | Andrea Valle | [Read More](https://medium.com/p/da0f182d6fb0) |
