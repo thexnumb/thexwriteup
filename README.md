@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 04:32:47 GMT | OverTheWire Bandit (Day 16): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/536318e90ce5) |
+| Sun, 18 Jan 2026 04:32:13 GMT | “Sir, This Is the Income Tax Department. You Are Under Digital Arrest.” | H R SHAH | [Read More](https://medium.com/p/a5c9390cc119) |
+| Sun, 18 Jan 2026 04:31:02 GMT | Hello World | Brad | [Read More](https://medium.com/p/4c075fdc7f2a) |
+| Sun, 18 Jan 2026 04:12:03 GMT | I Wore Concealer to Hide Boxing | Pugil.Writes | [Read More](https://medium.com/p/3b03a415587b) |
+| Sun, 18 Jan 2026 04:06:43 GMT | Understanding Phishing: What It Is and Why It Matters | Md. Abrar Shahriar | [Read More](https://medium.com/p/d9ac7a59a1f2) |
+| Sun, 18 Jan 2026 03:59:23 GMT | Beyond the Network: Cracking the Application and the Human Firewall | Keith Gabriel | [Read More](https://medium.com/p/6976686bd1b4) |
 | Sun, 18 Jan 2026 03:49:54 GMT | Speaking in Binary — Packet Crafting & Manipulation with Scapy | KOJO | [Read More](https://medium.com/p/290130813dc4) |
+| Sun, 18 Jan 2026 03:49:25 GMT | WAFs Made Simple: Why They Can’t Block Everything (And How They Really Work) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/0a1d689f5590) |
 | Sun, 18 Jan 2026 03:47:40 GMT | Digital Cartography — Mapping the Attack Surface with Nmap | KOJO | [Read More](https://medium.com/p/de83988093a3) |
 | Sun, 18 Jan 2026 03:37:50 GMT | 7 pillars of Cybersecurity : CIA vs IAAA | JH Ko | [Read More](https://medium.com/p/76338ec164d2) |
 | Sun, 18 Jan 2026 03:31:59 GMT | When Encryption Isn’t the End of Privacy: A Look at WhatsApp Metadata | Deven Chhajed | [Read More](https://medium.com/p/76fb6e4d9299) |
@@ -27,6 +34,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 Jan 2026 01:41:40 GMT | From Data to Defense: The Strategic Role of Cyber Threat Intelligence | Ziya Gokalp | [Read More](https://medium.com/p/02c690039262) |
 | Sun, 18 Jan 2026 01:12:25 GMT | Segmentation: The Network’s Secret Weapon | Raviteja Mureboina | [Read More](https://medium.com/p/a74a740c1f12) |
 | Sun, 18 Jan 2026 01:08:30 GMT | AI Is the New Attack Surface in the cloud. | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/150b61436ef5) |
+| Sun, 18 Jan 2026 00:46:33 GMT | Hackear la Física, no la Matemática: Cómo construí un simulador de Ataque de Canal Lateral (SCA) en… | Methodwhite | [Read More](https://medium.com/p/5ff582353de6) |
 | Sun, 18 Jan 2026 00:46:28 GMT | Mastering iOS Pentesting: Part 2 — Shell Access, File Transfers, IPA-App Signing, TrollStore & IPA… | Faris Faisal 0xFF | [Read More](https://medium.com/p/1dcf484b5036) |
 | Sun, 18 Jan 2026 00:43:25 GMT | Fun Fact: Your Brain Learns Languages Like Music | Contact Techfusiondaily | [Read More](https://medium.com/p/ddbec6d022c5) |
 | Sun, 18 Jan 2026 00:40:03 GMT | What Is Cloud + AI Security? And Why Traditional Cloud Security Is No Longer Enough | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/414323e8b916) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 16:25:49 GMT | Cyber Law, Ethical Hacking and Penetration Testing | Nukhbasoomro | [Read More](https://medium.com/p/15a061db8cd8) |
 | Sat, 17 Jan 2026 16:24:26 GMT | A fresh start | On The Edge | [Read More](https://medium.com/p/a810a8c4f778) |
 | Sat, 17 Jan 2026 16:21:14 GMT | Practical Roadmap for Learning File Upload Vulnerabilities | Daniel Hammoud | [Read More](https://medium.com/p/ff2bf04db0df) |
-| Sat, 17 Jan 2026 16:19:36 GMT | 2026 IT Readiness A Year End Cybersecurity Checklist - Aspire Transforms | Thomas Carter | [Read More](https://medium.com/p/789e5c4068c2) |
-| Sat, 17 Jan 2026 16:18:43 GMT | Bahaya ‘Real-Time Deepfake’ di Video Call: Cara Membedakan Teman Asli dan Palsu | SkripIn | [Read More](https://medium.com/p/64bbda379484) |
-| Sat, 17 Jan 2026 16:18:39 GMT | Write-up: Retro lab (Hard) on THM | cLODIUS cOCK | [Read More](https://medium.com/p/5747e6d3062f) |
-| Sat, 17 Jan 2026 16:11:56 GMT | I Blocked Anime Websites Like a Pro (and My Sister is Not Happy ) | Swetha | [Read More](https://medium.com/p/052fb070fe04) |
-| Sat, 17 Jan 2026 16:10:15 GMT | WhisperPair: When Your Bluetooth Headphones Become Someone Else’s Listening Device | Harsh Raj Singhania | [Read More](https://medium.com/p/9a060d8a066a) |
-| Sat, 17 Jan 2026 16:09:40 GMT | So You Got HACKED, Whose Fault Is It? | Janith Malinga | [Read More](https://medium.com/p/f383046f4ebe) |
-| Sat, 17 Jan 2026 16:00:54 GMT | The Approval That Never Asked Again | Rjay Solamo | [Read More](https://medium.com/p/751da172b488) |
-| Sat, 17 Jan 2026 15:58:18 GMT | Web Security for Beginners: How the web works and the roadmap | Sahineliyev | [Read More](https://medium.com/p/33c7a1d2a734) |
