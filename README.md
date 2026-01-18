@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 15:36:59 GMT | Day 1.compTIA security+ | Newtongurung | [Read More](https://medium.com/p/96b48f3c2358) |
+| Sun, 18 Jan 2026 15:30:37 GMT | App Store Utilities Undermine Reliable System Maintenance | Geoffrey Wenger | [Read More](https://medium.com/p/ec677a929e75) |
+| Sun, 18 Jan 2026 15:30:07 GMT | What specific deliverables are included in a Pro plan report? | Arte Archives | [Read More](https://medium.com/p/a3d876f6cbad) |
+| Sun, 18 Jan 2026 15:26:59 GMT | NATO 2035: The Strategic Imperative of a Cognitive Architecture | R.K.D. K. | [Read More](https://medium.com/p/70e75d65904c) |
+| Sun, 18 Jan 2026 15:25:22 GMT | TOP SECRET  Israel  China and US  Kill Chip Kill Switch Technology - The Trojan… | ElonMuskTheAntichrist | [Read More](https://medium.com/p/698af2898559) |
+| Sun, 18 Jan 2026 15:21:19 GMT | Things You Must Secure Before Deploying a Backend to Production | Shivam Bhadani | [Read More](https://medium.com/p/1eeb641cdf4b) |
+| Sun, 18 Jan 2026 15:10:30 GMT | Veritas: Bridging the Gap Between Digital Forensics and Explainable AI | Aayan Rashid | [Read More](https://medium.com/p/b996128a548b) |
 | Sun, 18 Jan 2026 15:02:30 GMT | Shadow AI and API Vulnerabilities: The Invisible Wound of Modern Enterprises | Emir Yusuf Nural | [Read More](https://medium.com/p/c6745771b980) |
 | Sun, 18 Jan 2026 14:57:59 GMT | Wachtwoord: 12345 (column) | Johan van de Beek (DjoeGio's Marginalia) | [Read More](https://medium.com/p/09fe2fd2dc4e) |
 | Sun, 18 Jan 2026 14:56:40 GMT | Firewalls & Segmentation: Building Digital Walls That Actually Work | Satyam Singh | [Read More](https://medium.com/p/457ec70fb6a2) |
@@ -106,10 +113,3 @@ Life is an intricate tapestry woven from countless… | Umarfaruq | [Read More](
 | Sun, 18 Jan 2026 07:06:39 GMT | Cybersecurity: Phishing — How to Protect Yourself from Online Scams — | Md. Abrar Shahriar | [Read More](https://medium.com/p/ce142e17b526) |
 | Sun, 18 Jan 2026 07:06:09 GMT | Why Hugging Face Became a Core Part of My AI Learning Journey | PantaVenkatesh | [Read More](https://medium.com/p/364c38b976fc) |
 | Sun, 18 Jan 2026 06:54:38 GMT | I Found a Backdoor in a “Job Interview” Codebase: A Recruitment Scam Targeting Developers & QA… | Kennedy Owiro | [Read More](https://medium.com/p/3fee114ab656) |
-| Sun, 18 Jan 2026 06:35:17 GMT | Instagram account takeover via Meta Pixel script abuse | Adeel Bin Hassan | [Read More](https://medium.com/p/60ce234dec35) |
-| Sun, 18 Jan 2026 06:28:26 GMT | Let Things Hurt | ZA | [Read More](https://medium.com/p/7e0a40d1475f) |
-| Sun, 18 Jan 2026 06:19:36 GMT | The Windows Security Journey — SID History | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/43196e912c0d) |
-| Sun, 18 Jan 2026 06:12:28 GMT | Static Malware Analysis: How to Peek Inside Malware Without Running It | Paritosh | [Read More](https://medium.com/p/c9cd2d603762) |
-| Sun, 18 Jan 2026 06:10:48 GMT | Root Me(XSS Stored 1) | Zon-Salon | [Read More](https://medium.com/p/fbdc6186cfd7) |
-| Sun, 18 Jan 2026 06:07:35 GMT | Root Me — XSS Stored 1 | LiGhTZod | [Read More](https://medium.com/p/d308be1ad04f) |
-| Sun, 18 Jan 2026 05:58:52 GMT | Why Input Validation Fails in Real-World Applications | Raj K | [Read More](https://medium.com/p/cb5614c08c90) |
