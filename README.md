@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 08:45:49 GMT | I Replied to Dozens of LinkedIn Messages — Then I Realised Many Accounts Were Compromised | Ismail Kt | [Read More](https://medium.com/p/555dcb5ae4f5) |
+| Sun, 18 Jan 2026 08:32:57 GMT | Climate Justice Is an Investment in Peace and Security | Neha Grace | [Read More](https://medium.com/p/b00ae45a2742) |
+| Sun, 18 Jan 2026 08:29:50 GMT | Your Headphones Can Track and Spy on You — WhisperPair | Patrik Žák | [Read More](https://medium.com/p/547c2315462a) |
+| Sun, 18 Jan 2026 08:28:50 GMT | 7 Critical Fixes: Policy Enforcement in WebView | Pentest_Testing_Corp | [Read More](https://medium.com/p/e75d46eef6d4) |
 | Sun, 18 Jan 2026 08:26:00 GMT | Critical Blind Time-Based Injection Hiding Behind Normal Responses | Xynos | [Read More](https://medium.com/p/c229b5956bd3) |
 | Sun, 18 Jan 2026 08:18:06 GMT | The Best Free Cybersecurity Tools for Blue Teams and Red Teams (And How Pros Actually Use Them) | Bugitrix | [Read More](https://medium.com/p/474b04836c99) |
 | Sun, 18 Jan 2026 08:15:04 GMT | Broken Math: Exploiting Business Logic for Price Manipulation | Samet Yiğit | [Read More](https://medium.com/p/ad52f1c47f3a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 19:06:03 GMT | PII Protection Laws Your Product Must Obey (Whether You Like It or Not) | Shubh Pundir | [Read More](https://medium.com/p/a34ac0af8c3d) |
 | Sat, 17 Jan 2026 19:02:10 GMT | Anti-Scraping | Iram Jack | [Read More](https://medium.com/p/418f809b5085) |
 | Sat, 17 Jan 2026 18:58:36 GMT | The $15,000 Acid Bath: Visualizing Hardware Implants | Kevin O'Connor | [Read More](https://medium.com/p/57e0640c4ac3) |
-| Sat, 17 Jan 2026 18:52:14 GMT | The Secret Life of GitOps: Why Your Credentials Crisis Demands a Strategy-First Approach | Salwan Mohamed | [Read More](https://medium.com/p/3b08c426339d) |
-| Sat, 17 Jan 2026 18:49:06 GMT | Choosing the Best Professional CMMC Compliance Services in Silver Spring, MD | GDMktgAG | [Read More](https://medium.com/p/b4728970d147) |
-| Sat, 17 Jan 2026 18:45:29 GMT | Day 158 — Detecting Human-Operated Ransomware Before Encryption: Scope, Constraints, and… | Jinay | [Read More](https://medium.com/p/c07304d12157) |
-| Sat, 17 Jan 2026 18:43:01 GMT | TCS HackQuest Season 10 — Round 2: Walkthrough | Arnav Vaidya | [Read More](https://medium.com/p/17139324c2d8) |
