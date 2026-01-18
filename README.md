@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 20:20:47 GMT | Breaking and Finding Vulnerabilities: My Cybersecurity Capstone Project | Maria Sagwa | [Read More](https://medium.com/p/aeb22606c988) |
+| Sun, 18 Jan 2026 20:15:40 GMT | ️ DNS Data Exfiltration: Silently Bypassing Firewalls | Esra Kayhan | [Read More](https://medium.com/p/bc30df332685) |
+| Sun, 18 Jan 2026 20:13:55 GMT | My favorite mobile game is Puzzle. | Megersa Siraj Omer | [Read More](https://medium.com/p/62ae9eddb993) |
+| Sun, 18 Jan 2026 20:00:53 GMT | Web Pentesting 101: Documenting a Successful Stored XSS Attack Chain | Attah Sosah | [Read More](https://medium.com/p/690b1d8c92ef) |
+| Sun, 18 Jan 2026 19:56:27 GMT | Web Application Firewall Detection — WAFW00F | mohandika | [Read More](https://medium.com/p/aa4245b211bc) |
+| Sun, 18 Jan 2026 19:49:33 GMT | Real-Time GPS & Activity Monitoring in Security Management: 2026 Guide | Teona | [Read More](https://medium.com/p/ca802b425fb1) |
+| Sun, 18 Jan 2026 19:47:59 GMT | Why Most Advanced Technologies Fail Outside the Lab | Faisal Asif | [Read More](https://medium.com/p/5f9fa666ea79) |
+| Sun, 18 Jan 2026 19:47:05 GMT | Simple Logic Breaks Big Systems: The Contract That Ended Before It Started | default_0x | [Read More](https://medium.com/p/28dd3230ba34) |
+| Sun, 18 Jan 2026 19:43:44 GMT | Bounty Hacker Walkthrough | Abdelrabo%00 | [Read More](https://medium.com/p/92c1ab955c23) |
 | Sun, 18 Jan 2026 19:37:52 GMT | An Introduction to EDR: | Ahmad Khaled | [Read More](https://medium.com/p/9fd7cade736c) |
 | Sun, 18 Jan 2026 19:31:01 GMT | How to install Ubuntu 24.04 LTS in VirtualBox 2026 | Bob Malin | [Read More](https://medium.com/p/e23244b8d5ba) |
 | Sun, 18 Jan 2026 19:16:54 GMT | I Build Systems That Can Be Researched, Governed, Manufactured, and Trusted | Faisal Asif | [Read More](https://medium.com/p/c65d5a6740e1) |
@@ -104,13 +113,3 @@ For years, cybersecurity… | Ankit rai | [Read More](https://medium.com/p/d9678
 | Sun, 18 Jan 2026 12:25:50 GMT | AI Pentesting Methodology for Beginners (Part I) | Rahul Singh Chauhan | [Read More](https://medium.com/p/797d5854a687) |
 | Sun, 18 Jan 2026 12:20:41 GMT | CSP (Content Security Policy): The XSS Kill Switch | Krishnabokefod | [Read More](https://medium.com/p/3fbc92eb8bcc) |
 | Sun, 18 Jan 2026 12:16:06 GMT | Basic Kali Linux Commands for Ethical Hacking (Part -5) | Akhil Thakur | [Read More](https://medium.com/p/84662149c7e6) |
-| Sun, 18 Jan 2026 12:15:42 GMT | Fire Watch Security Guard Dallas | US guard security company | [Read More](https://medium.com/p/6085438461e8) |
-| Sun, 18 Jan 2026 12:00:56 GMT | Unmasking the MAFFIA: A Deep Dive into the 5-Stage FormBook Fileless Kill-Chain | Macs-Hit | [Read More](https://medium.com/p/24a18b9f7732) |
-| Sun, 18 Jan 2026 12:00:56 GMT | Creepy Things Ur WhatsApp Reveals | cybrNK | [Read More](https://medium.com/p/0aceac111845) |
-| Sun, 18 Jan 2026 11:54:07 GMT | Solving Ali Hadi Challenge #2 in 60 Seconds: Time Paradoxes, Wipers, and “Cat-Lure” Phishing | schutzz | [Read More](https://medium.com/p/b9aa4c845645) |
-| Sun, 18 Jan 2026 11:51:46 GMT | Your Android Is A Hidden Linux Powerhouse!! | cybrNK | [Read More](https://medium.com/p/e7d17f6a60fc) |
-| Sun, 18 Jan 2026 11:44:37 GMT | Life: The Art of Embracing Every Moment
-Life is an intricate tapestry woven from countless… | Umarfaruq | [Read More](https://medium.com/p/812f45e2ef8a) |
-| Sun, 18 Jan 2026 11:40:39 GMT | LetsDefend — SOC 336 — Windows OLE Zero-Click RCE Exploitation Detected (CVE-2025–21298) | Owais Ali Khan | [Read More](https://medium.com/p/ea800c770c91) |
-| Sun, 18 Jan 2026 11:35:56 GMT | Shellcode Development: Directly Commanding the CPU | Esra Kayhan | [Read More](https://medium.com/p/918000b58851) |
-| Sun, 18 Jan 2026 11:33:38 GMT | A Closer Look at USeP’s Online Enrollment System from an I.T. Student’s Perspective | Adrian Labisores | [Read More](https://medium.com/p/5e72bb1bd86e) |
