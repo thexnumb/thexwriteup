@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 09:17:23 GMT | Secure AWS Access in GitLab CI/CD Using OIDC: A Complete Guide | Parag Patil | [Read More](https://medium.com/p/60df38946945) |
+| Sun, 18 Jan 2026 09:16:53 GMT | How I’d Start Bug Bounty Hunting in 2026 — a Practical 90-Day Plan | Hackers Things | [Read More](https://medium.com/p/d49042c59597) |
+| Sun, 18 Jan 2026 09:01:59 GMT | From One Leaked Password to Full Company Breach: A Real Attack Chain | Alexandre Vandamme | [Read More](https://medium.com/p/43e9d281e5b9) |
+| Sun, 18 Jan 2026 08:52:34 GMT | The First Jazz Class of 2026: Glimmers, Trust and the Joy of Showing Up | Adeliah Jacobs | [Read More](https://medium.com/p/578d2ae613f0) |
+| Sun, 18 Jan 2026 08:47:20 GMT | The Weight Of Worthlessness | Kassey's Dreams & Realities Ink. | [Read More](https://medium.com/p/10228b91f0a8) |
 | Sun, 18 Jan 2026 08:45:49 GMT | I Replied to Dozens of LinkedIn Messages — Then I Realised Many Accounts Were Compromised | Ismail Kt | [Read More](https://medium.com/p/555dcb5ae4f5) |
 | Sun, 18 Jan 2026 08:32:57 GMT | Climate Justice Is an Investment in Peace and Security | Neha Grace | [Read More](https://medium.com/p/b00ae45a2742) |
 | Sun, 18 Jan 2026 08:29:50 GMT | Your Headphones Can Track and Spy on You — WhisperPair | Patrik Žák | [Read More](https://medium.com/p/547c2315462a) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 19:27:28 GMT | Azure WAF Setup with Simple Web App Service | Siddharth D | [Read More](https://medium.com/p/f9113fda7229) |
 | Sat, 17 Jan 2026 19:26:47 GMT | Rootkits: The Malware That Doesn’t Want Fame, It Wants Control | TheCyberAryan | [Read More](https://medium.com/p/260d143cebd6) |
 | Sat, 17 Jan 2026 19:21:08 GMT | IDOR Vulnerability: A Critical Risk in Web Application Security Testing | sayeedTestOps | [Read More](https://medium.com/p/ee6013dcb19f) |
-| Sat, 17 Jan 2026 19:15:56 GMT | How my valid critical bug got rejected | TheCyberAryan | [Read More](https://medium.com/p/cf8213c5ed4e) |
-| Sat, 17 Jan 2026 19:06:39 GMT | How I Discovered a Dependency Confusion Vulnerability in a Ruby Application Leading to RCE | Ahmed Tarek | [Read More](https://medium.com/p/9dd4c6b28127) |
-| Sat, 17 Jan 2026 19:06:03 GMT | PII Protection Laws Your Product Must Obey (Whether You Like It or Not) | Shubh Pundir | [Read More](https://medium.com/p/a34ac0af8c3d) |
-| Sat, 17 Jan 2026 19:02:10 GMT | Anti-Scraping | Iram Jack | [Read More](https://medium.com/p/418f809b5085) |
-| Sat, 17 Jan 2026 18:58:36 GMT | The $15,000 Acid Bath: Visualizing Hardware Implants | Kevin O'Connor | [Read More](https://medium.com/p/57e0640c4ac3) |
