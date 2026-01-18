@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 19:37:52 GMT | An Introduction to EDR: | Ahmad Khaled | [Read More](https://medium.com/p/9fd7cade736c) |
+| Sun, 18 Jan 2026 19:31:01 GMT | How to install Ubuntu 24.04 LTS in VirtualBox 2026 | Bob Malin | [Read More](https://medium.com/p/e23244b8d5ba) |
+| Sun, 18 Jan 2026 19:16:54 GMT | I Build Systems That Can Be Researched, Governed, Manufactured, and Trusted | Faisal Asif | [Read More](https://medium.com/p/c65d5a6740e1) |
+| Sun, 18 Jan 2026 19:10:49 GMT | A letter to Vulnerability | Latoria | [Read More](https://medium.com/p/8fd87e3e23f0) |
 | Sun, 18 Jan 2026 19:01:59 GMT | Anti-Exploit | Iram Jack | [Read More](https://medium.com/p/b5548e51ea18) |
 | Sun, 18 Jan 2026 19:01:59 GMT | Learning SQL in 20 Hours — Day 14: Window Functions | Kalpesh Bhangare | [Read More](https://medium.com/p/843c4c1c82b0) |
 | Sun, 18 Jan 2026 18:38:33 GMT | Not everything we long for is something we truly need. | Anshita Dubey | [Read More](https://medium.com/p/0ca9ee90f8c4) |
@@ -110,7 +114,3 @@ Life is an intricate tapestry woven from countless… | Umarfaruq | [Read More](
 | Sun, 18 Jan 2026 11:40:39 GMT | LetsDefend — SOC 336 — Windows OLE Zero-Click RCE Exploitation Detected (CVE-2025–21298) | Owais Ali Khan | [Read More](https://medium.com/p/ea800c770c91) |
 | Sun, 18 Jan 2026 11:35:56 GMT | Shellcode Development: Directly Commanding the CPU | Esra Kayhan | [Read More](https://medium.com/p/918000b58851) |
 | Sun, 18 Jan 2026 11:33:38 GMT | A Closer Look at USeP’s Online Enrollment System from an I.T. Student’s Perspective | Adrian Labisores | [Read More](https://medium.com/p/5e72bb1bd86e) |
-| Sun, 18 Jan 2026 11:28:35 GMT | FROM PHYSICAL TO APPLICATION: UNDERSTANDING THE OSI MODEL | frosang Tamang | [Read More](https://medium.com/p/976ed077dea7) |
-| Sun, 18 Jan 2026 11:21:37 GMT | The Ultimate OSI Model Troubleshooting Cheat Sheet | Very Lazy Tech | [Read More](https://medium.com/p/3a0222f39d0b) |
-| Sun, 18 Jan 2026 11:18:38 GMT | Unrestricted File Upload Leads to Stored XSS, SSRF, and Phishing | Indrajeet | [Read More](https://medium.com/p/08e14c6e6907) |
-| Sun, 18 Jan 2026 11:09:51 GMT | TryHackMe - Offensive Security Intro - WriteUp | Axoloth | [Read More](https://medium.com/p/e45a6dfd265a) |
