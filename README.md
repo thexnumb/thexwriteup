@@ -12,9 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 14:06:01 GMT | 17.5 Million Accounts Compromised via Instagram Data Breach | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/37f506d21859) |
+| Sun, 18 Jan 2026 14:05:50 GMT | What If Anyone Could Sign Legal Documents Using Your Email Address? | 0xMoussa | [Read More](https://medium.com/p/5377628abc0f) |
+| Sun, 18 Jan 2026 14:02:05 GMT | Password Reset Token Misconfiguration Leading to Pre-Account Takeover and Account Deletion | 0xMo7areb | [Read More](https://medium.com/p/8f344cb0e9d6) |
+| Sun, 18 Jan 2026 13:59:38 GMT | Cyborg — THM Writeups | Alts | [Read More](https://medium.com/p/0d38c32ef8b7) |
+| Sun, 18 Jan 2026 13:59:12 GMT | Understanding AWS Security | Haitham Mamdouh | [Read More](https://medium.com/p/3afa3c11abf2) |
+| Sun, 18 Jan 2026 13:52:37 GMT | I Explored an Open-Source Repo and Accidentally Found the Future of Security Automation | Samuelrt | [Read More](https://medium.com/p/a54377f2e2c1) |
+| Sun, 18 Jan 2026 13:51:59 GMT | Certificate Authorities Explained: Why the Internet Trusts Them | Suraj Bhandari | [Read More](https://medium.com/p/2200ad28b809) |
 | Sun, 18 Jan 2026 13:45:46 GMT | Safewallet javascript compromise analysis on Bybit multisig attack | 0xundef | [Read More](https://medium.com/p/f142b4bab109) |
 | Sun, 18 Jan 2026 13:41:15 GMT | Struggles of Bug Bounty | CosmicByte | [Read More](https://medium.com/p/2ea53f5854b5) |
 | Sun, 18 Jan 2026 13:40:31 GMT | BankGPT — TryHackMe - Shiv Kumar - Medium | Shiv Kumar | [Read More](https://medium.com/p/540fe438f227) |
+| Sun, 18 Jan 2026 13:37:50 GMT | Phishing 101: A URL Can Be a Trap? | Angela Oryza | [Read More](https://medium.com/p/a946248f2578) |
 | Sun, 18 Jan 2026 13:30:58 GMT | Raster.finance Review: High-Yield Revolution or Sophisticated Crypto Scam? | TheDigitalGuard | [Read More](https://medium.com/p/8e35a855710b) |
 | Sun, 18 Jan 2026 13:28:05 GMT | Erebus RAT Native C++: Technical Analysis & Architecture Review | Nemessagod | [Read More](https://medium.com/p/1a83bb59fd2d) |
 | Sun, 18 Jan 2026 13:23:30 GMT | If Knowing Is Part of Self-Awareness | AfterRainWrites | [Read More](https://medium.com/p/3240321485dd) |
@@ -105,11 +113,3 @@ Life is an intricate tapestry woven from countless… | Umarfaruq | [Read More](
 | Sun, 18 Jan 2026 05:02:05 GMT | Hello my name is… (Part 3) | Kurb4n | [Read More](https://medium.com/p/a7bb4ff50f7b) |
 | Sun, 18 Jan 2026 04:53:35 GMT | I Reverse-Engineered the ‘Free Movie App’ I Used for 2 Years. The Results Were Terrifying | Pinki Singh | [Read More](https://medium.com/p/98796cef6837) |
 | Sun, 18 Jan 2026 04:40:41 GMT | Strip Tease | Su ☆ | [Read More](https://medium.com/p/e069e136104a) |
-| Sun, 18 Jan 2026 04:32:47 GMT | OverTheWire Bandit (Day 16): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/536318e90ce5) |
-| Sun, 18 Jan 2026 04:32:13 GMT | “Sir, This Is the Income Tax Department. You Are Under Digital Arrest.” | H R SHAH | [Read More](https://medium.com/p/a5c9390cc119) |
-| Sun, 18 Jan 2026 04:32:10 GMT | 5 Lessons From Protocols That Came Back Stronger | Velorum | [Read More](https://medium.com/p/7d31d810a29c) |
-| Sun, 18 Jan 2026 04:31:02 GMT | Hello World | Brad | [Read More](https://medium.com/p/4c075fdc7f2a) |
-| Sun, 18 Jan 2026 04:12:03 GMT | I Wore Concealer to Hide Boxing | Pugil.Writes | [Read More](https://medium.com/p/3b03a415587b) |
-| Sun, 18 Jan 2026 04:06:43 GMT | Understanding Phishing: What It Is and Why It Matters | Md. Abrar Shahriar | [Read More](https://medium.com/p/d9ac7a59a1f2) |
-| Sun, 18 Jan 2026 03:59:23 GMT | Beyond the Network: Cracking the Application and the Human Firewall | Keith Gabriel | [Read More](https://medium.com/p/6976686bd1b4) |
-| Sun, 18 Jan 2026 03:49:54 GMT | Speaking in Binary — Packet Crafting & Manipulation with Scapy | KOJO | [Read More](https://medium.com/p/290130813dc4) |
