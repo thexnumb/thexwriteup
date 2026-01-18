@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 22:24:02 GMT | Why Hiring a Security Company in Houston Is a Smart Move | Evan Raahil | [Read More](https://medium.com/p/659ba69a6966) |
+| Sun, 18 Jan 2026 22:18:00 GMT | Welcome to my space :) | Hobin Rood | [Read More](https://medium.com/p/92b0e3cbc25f) |
 | Sun, 18 Jan 2026 22:16:16 GMT | Phishing Simulator | Aaronashley | [Read More](https://medium.com/p/0a147c5b8f13) |
 | Sun, 18 Jan 2026 22:07:40 GMT | Design and Implementation of a Scalable and Secure Enterprise Network | Blessing-Igboanusi | [Read More](https://medium.com/p/0fb1633097b5) |
 | Sun, 18 Jan 2026 22:01:29 GMT | Hardware Hacking Attacks That Start at the Silicon Level | Bervice | [Read More](https://medium.com/p/41d1608ca36a) |
@@ -111,5 +113,3 @@ For years, cybersecurity… | Ankit rai | [Read More](https://medium.com/p/d9678
 | Sun, 18 Jan 2026 14:24:14 GMT | SOC Workflow Explained: How Cyber Attacks Are Detected and Stopped | Abhinsubej | [Read More](https://medium.com/p/c20ba8f34fee) |
 | Sun, 18 Jan 2026 14:06:01 GMT | 17.5 Million Accounts Compromised via Instagram Data Breach | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/37f506d21859) |
 | Sun, 18 Jan 2026 14:05:50 GMT | What If Anyone Could Sign Legal Documents Using Your Email Address? | 0xMoussa | [Read More](https://medium.com/p/5377628abc0f) |
-| Sun, 18 Jan 2026 14:02:05 GMT | Password Reset Token Misconfiguration Leading to Pre-Account Takeover and Account Deletion | 0xMo7areb | [Read More](https://medium.com/p/8f344cb0e9d6) |
-| Sun, 18 Jan 2026 13:59:38 GMT | Cyborg — THM Writeups | Alts | [Read More](https://medium.com/p/0d38c32ef8b7) |
