@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 13:14:30 GMT | Why Thrillers Explain Geopolitics Better Than Cable News, and Where Did We Go Wrong? | Money, Geopolitics & Oil | [Read More](https://medium.com/p/ea3f906dae7b) |
+| Sun, 18 Jan 2026 13:14:25 GMT | The Risk of Vulnerability (and the Risk of Avoiding It) | Suzanne Butler | [Read More](https://medium.com/p/415f085d0a07) |
+| Sun, 18 Jan 2026 13:10:07 GMT | Scaling Enterprise Security Reviews with AI: From Architecture to Pull Requests | Srinivasan Chinnachamy | [Read More](https://medium.com/p/9a6ff064b626) |
+| Sun, 18 Jan 2026 12:57:53 GMT | 16TB 資料外洩與 50 家企業的噩夢：Zestix 憑證濫用與 EFSS 雲端防禦全解構 | p1x06u9 | [Read More](https://medium.com/p/34da107d9408) |
+| Sun, 18 Jan 2026 12:55:12 GMT | The Kubernetes Attack That Security Tools Missed | Jonathan Kaftzan | [Read More](https://medium.com/p/be2c0ca65025) |
+| Sun, 18 Jan 2026 12:49:57 GMT | Zafiyet Tarama aracı Nessus | Azat Dicle | [Read More](https://medium.com/p/90b1ed678364) |
+| Sun, 18 Jan 2026 12:49:16 GMT | Загальні терміни та програми в пентестингу | Fl4g Hunt3r Project | [Read More](https://medium.com/p/83f27156e6a9) |
 | Sun, 18 Jan 2026 12:44:03 GMT | Quick Cloudflare hardening tip for anyone running Linux + UFW | Blake Welsh | [Read More](https://medium.com/p/7e53771409a0) |
+| Sun, 18 Jan 2026 12:39:16 GMT | Best AI & Machine Learning Courses in India | Manisha Chaudhary | [Read More](https://medium.com/p/332911600cfc) |
 | Sun, 18 Jan 2026 12:30:40 GMT | JWT Header Parameters Injections - jwk - jku- Kid | Amrsmooke | [Read More](https://medium.com/p/0ab5c80a711e) |
 | Sun, 18 Jan 2026 12:29:52 GMT | Kubernetes Security Best Practices 2026: Beyond the Basics | Krishna Fattepurkar | [Read More](https://medium.com/p/cfe93639a328) |
 | Sun, 18 Jan 2026 12:25:50 GMT | AI Pentesting Methodology for Beginners (Part I) | Rahul Singh Chauhan | [Read More](https://medium.com/p/797d5854a687) |
@@ -105,11 +113,3 @@ Life is an intricate tapestry woven from countless… | Umarfaruq | [Read More](
 | Sun, 18 Jan 2026 03:26:57 GMT | Information Warfare as a Tool of Modern Conflicts | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/0c7d4b021c23) |
 | Sun, 18 Jan 2026 03:09:58 GMT | Cyberwarfare and the Capture of Nicolás Maduro | Nina Baksh | [Read More](https://medium.com/p/e8cde7c97964) |
 | Sun, 18 Jan 2026 02:47:18 GMT | 潛伏在便利背後的大手：阿里巴巴「千問 App」代理式 AI (Agentic AI) 的深度剖析 | p1x06u9 | [Read More](https://medium.com/p/5368af8d802f) |
-| Sun, 18 Jan 2026 02:37:53 GMT | OWASP ZAP Lab: 3 Web Security Lessons Every Hacker Needs | Ebenezer Boateng Agyekum | [Read More](https://medium.com/p/954a4abd7a89) |
-| Sun, 18 Jan 2026 02:31:57 GMT | Static v/s Dynamic Malware Analysis: When to Use What | Pratik Gurav | [Read More](https://medium.com/p/3fd5711aa5cc) |
-| Sun, 18 Jan 2026 02:04:56 GMT | Nouvel outil — loi25.certi360.com | Patrick Boucher | [Read More](https://medium.com/p/230a9bc49c0b) |
-| Sun, 18 Jan 2026 01:59:35 GMT | Google’s Free Offer For 2 Billion Gmail Users Should You Upgrade? | Moni | [Read More](https://medium.com/p/83fa402430d3) |
-| Sun, 18 Jan 2026 01:42:05 GMT | Espionage in the Modern Age: From Human Intelligence to Cyber Operations | Ziya Gokalp | [Read More](https://medium.com/p/17f0c0cca486) |
-| Sun, 18 Jan 2026 01:41:40 GMT | From Data to Defense: The Strategic Role of Cyber Threat Intelligence | Ziya Gokalp | [Read More](https://medium.com/p/02c690039262) |
-| Sun, 18 Jan 2026 01:12:25 GMT | Segmentation: The Network’s Secret Weapon | Raviteja Mureboina | [Read More](https://medium.com/p/a74a740c1f12) |
-| Sun, 18 Jan 2026 01:08:30 GMT | AI Is the New Attack Surface in the cloud. | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/150b61436ef5) |
