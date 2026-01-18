@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 10:58:06 GMT | Digital Infrastructure Audit: The LongAsia Domain and Data Consistency | Certification Flow Laboratories | [Read More](https://medium.com/p/00dcc53a0d70) |
+| Sun, 18 Jan 2026 10:53:30 GMT | Linux File Permissions & chmod — Explained in a Simple Human Way | Shadow Attackers | [Read More](https://medium.com/p/6f2c9511070a) |
+| Sun, 18 Jan 2026 10:45:48 GMT | Is ChatGPT AI or Machine Learning? | cyber security Updates | [Read More](https://medium.com/p/fa112c59d4d6) |
+| Sun, 18 Jan 2026 10:45:17 GMT | Hacksmarter — Lumon Industries — EN | DobTheRob | [Read More](https://medium.com/p/4c239ae67034) |
+| Sun, 18 Jan 2026 10:38:18 GMT | Construction site security services Dallas | US guard security company | [Read More](https://medium.com/p/e05d010b8f78) |
 | Sun, 18 Jan 2026 10:31:56 GMT | Crypto Wallet Security (2026 Guide): How to Stop Scams and Protect Your Assets | Aquads.xyz | [Read More](https://medium.com/p/aeca5831a6af) |
 | Sun, 18 Jan 2026 10:23:19 GMT | The Untold Story of Russian Hacking | Hiren Rathod | [Read More](https://medium.com/p/88e812e097a1) |
 | Sun, 18 Jan 2026 10:22:54 GMT | 2026’s New Stack: Decentralized AI, Regulated Crypto, and the Death of “Just Vibes” | ABV | [Read More](https://medium.com/p/a9189508ca20) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 22:46:13 GMT | Neural Ransomware Isn’t Science Fiction | Kevin | [Read More](https://medium.com/p/e3f9efe4ffb1) |
 | Sat, 17 Jan 2026 22:44:56 GMT | Cloud Forensics: How to Secure Digital Evidence in the Cloud | Venedix Systems, Berlin | [Read More](https://medium.com/p/c98869de031e) |
 | Sat, 17 Jan 2026 21:32:54 GMT | The Scam That Almost Got Me at 70 — And How I Fought Back | gershblumstein | [Read More](https://medium.com/p/821a1b82af33) |
-| Sat, 17 Jan 2026 21:26:41 GMT | ⚡ Stop Hackers Cold with NordVPN Security | Genelia | [Read More](https://medium.com/p/0d258694169f) |
-| Sat, 17 Jan 2026 20:48:20 GMT | SSTI Explained: HTB Hacknet Walkthrough | Motasem Hamdan | [Read More](https://medium.com/p/36909cf2cdb1) |
-| Sat, 17 Jan 2026 20:46:45 GMT | Whispered Fears | L.A. | [Read More](https://medium.com/p/18fe13096482) |
-| Sat, 17 Jan 2026 20:39:22 GMT | Learning About Invertebrates and Food | Abhik Chowdhury | [Read More](https://medium.com/p/b0c2000305ee) |
-| Sat, 17 Jan 2026 20:26:14 GMT | Hidden in the Source: Discovering Reflected XSS via Manual Code Review | Samet Yiğit | [Read More](https://medium.com/p/c2a697d9d8c1) |
