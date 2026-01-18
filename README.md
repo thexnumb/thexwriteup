@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 01:42:05 GMT | Espionage in the Modern Age: From Human Intelligence to Cyber Operations | Ziya Gokalp | [Read More](https://medium.com/p/17f0c0cca486) |
+| Sun, 18 Jan 2026 01:41:40 GMT | From Data to Defense: The Strategic Role of Cyber Threat Intelligence | Ziya Gokalp | [Read More](https://medium.com/p/02c690039262) |
+| Sun, 18 Jan 2026 01:12:25 GMT | Segmentation: The Network’s Secret Weapon | Raviteja Mureboina | [Read More](https://medium.com/p/a74a740c1f12) |
+| Sun, 18 Jan 2026 01:08:30 GMT | AI Is the New Attack Surface in the cloud. | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/150b61436ef5) |
+| Sun, 18 Jan 2026 00:46:28 GMT | Mastering iOS Pentesting: Part 2 — Shell Access, File Transfers, IPA-App Signing, TrollStore & IPA… | Faris Faisal 0xFF | [Read More](https://medium.com/p/1dcf484b5036) |
+| Sun, 18 Jan 2026 00:43:25 GMT | Fun Fact: Your Brain Learns Languages Like Music | Contact Techfusiondaily | [Read More](https://medium.com/p/ddbec6d022c5) |
+| Sun, 18 Jan 2026 00:40:03 GMT | What Is Cloud + AI Security? And Why Traditional Cloud Security Is No Longer Enough | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/414323e8b916) |
+| Sun, 18 Jan 2026 00:31:59 GMT | Spring Security Annotations Explained with Examples (Spring Boot) | Code With Sunil - Code Smarter, not harder | [Read More](https://medium.com/p/12c31217839d) |
+| Sun, 18 Jan 2026 00:22:38 GMT | Banner5 Ekstensi Wajib untuk Laravel Developer | NaikinSkill | [Read More](https://medium.com/p/60e5bea95673) |
+| Sun, 18 Jan 2026 00:21:05 GMT | Most tech companies don’t have a technology problem. They have a coordination problem. | Bijay Pathak | [Read More](https://medium.com/p/69bf96c9076b) |
+| Sat, 17 Jan 2026 23:54:43 GMT | 10 Must-Know Malware Analysis Interview Questions (with Scenario-Based Answers) | Vikas Singh Panwar | [Read More](https://medium.com/p/87967e51cb04) |
+| Sat, 17 Jan 2026 23:45:06 GMT | Rust Password Manager: Designing an Encrypted Vault from Scratch — Part 1 — EN | Hamza Es Sadik | [Read More](https://medium.com/p/7aef592bb4d0) |
 | Sat, 17 Jan 2026 23:27:38 GMT | Private Mailbox Rental Service in Edison, NJ — Safe, Secure & Convenient | Edisonpackandship | [Read More](https://medium.com/p/d3a387987045) |
 | Sat, 17 Jan 2026 23:26:32 GMT | Why IoT Security Research Lives at the Intersection of RF and Cybersecurity | Michael Preston | [Read More](https://medium.com/p/a660d6bb3dfc) |
 | Sat, 17 Jan 2026 23:20:37 GMT | Here’s an article I wrote about. AI in every day! | Salonista Cynthia | [Read More](https://medium.com/p/44b21157bda5) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 15:08:15 GMT | TryHackMe Writeup: JPGChat | Berkay AĞGÜL | [Read More](https://medium.com/p/3c4f51344749) |
 | Sat, 17 Jan 2026 15:07:44 GMT | An AI Thought-Experiment I Didn’t Expect | Maithilee Singh | [Read More](https://medium.com/p/2a9eb6a678a0) |
 | Sat, 17 Jan 2026 15:02:32 GMT | How to Clear Gmail Clutter Once and for All: The Secret Button in Your Account | raccooni4ka | [Read More](https://medium.com/p/b546e78b480c) |
-| Sat, 17 Jan 2026 15:02:09 GMT | When Web3 Breaks in Public: 10 Survival Lessons | Syntal | [Read More](https://medium.com/p/9805f63ebc9b) |
-| Sat, 17 Jan 2026 15:02:08 GMT | The 10 Web3 Risks Worth Taking (and Avoiding) | Vectorlane | [Read More](https://medium.com/p/9a4a0c9cb2a7) |
-| Sat, 17 Jan 2026 15:02:08 GMT | Instagram deniega la filtración de datos que habría afectado a 17 millones de usuarios | Tiziano Mass | [Read More](https://medium.com/p/108cd1f5be9c) |
-| Sat, 17 Jan 2026 15:01:29 GMT | Building a Self-Governing Cloud with Real-Time AI on AWS | Ashish Kasaudhan | [Read More](https://medium.com/p/f69b2ba35367) |
-| Sat, 17 Jan 2026 14:58:12 GMT | Day 8 — Cloud Attack Scenarios Every Security Engineer Must Understand (How Breaches Really Happen) | NineTales | [Read More](https://medium.com/p/53c489ed9f8b) |
-| Sat, 17 Jan 2026 14:57:21 GMT | Security บทที่ 5 | Pruek Tanvorakul | [Read More](https://medium.com/p/90f1648e6004) |
-| Sat, 17 Jan 2026 14:50:33 GMT | Bypassing Authentication Schema as an Expert | Marwan Alsaifi | [Read More](https://medium.com/p/f10c69fe8422) |
-| Sat, 17 Jan 2026 14:39:25 GMT | Layered Obfuscation and Execution Gating in a JavaScript Loader | Ante Popic | [Read More](https://medium.com/p/8d21c9fb14d6) |
-| Sat, 17 Jan 2026 14:38:04 GMT | Adapter Pattern: Bridging Incompatible Worlds (Without Losing Your Mind) | Jitin Kayyala | [Read More](https://medium.com/p/c58151e11a18) |
-| Sat, 17 Jan 2026 14:35:43 GMT | Black IP : Network Intelligence Tool | Abhirup Konwar | [Read More](https://medium.com/p/1188bfa1591c) |
-| Sat, 17 Jan 2026 14:31:59 GMT | Detecting ARP Poisoning Attacks: A Comprehensive Guide | Vignesh R | [Read More](https://medium.com/p/415b1f3a1d61) |
-| Sat, 17 Jan 2026 14:26:26 GMT | Building Pinterest Boards for Lives I Will Never Lead | Roshni Ojha | [Read More](https://medium.com/p/b27b1860e4d4) |
