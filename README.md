@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 03:49:54 GMT | Speaking in Binary — Packet Crafting & Manipulation with Scapy | KOJO | [Read More](https://medium.com/p/290130813dc4) |
+| Sun, 18 Jan 2026 03:47:40 GMT | Digital Cartography — Mapping the Attack Surface with Nmap | KOJO | [Read More](https://medium.com/p/de83988093a3) |
+| Sun, 18 Jan 2026 03:37:50 GMT | 7 pillars of Cybersecurity : CIA vs IAAA | JH Ko | [Read More](https://medium.com/p/76338ec164d2) |
+| Sun, 18 Jan 2026 03:31:59 GMT | When Encryption Isn’t the End of Privacy: A Look at WhatsApp Metadata | Deven Chhajed | [Read More](https://medium.com/p/76fb6e4d9299) |
+| Sun, 18 Jan 2026 03:26:57 GMT | Information Warfare as a Tool of Modern Conflicts | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/0c7d4b021c23) |
+| Sun, 18 Jan 2026 03:09:58 GMT | Cyberwarfare and the Capture of Nicolás Maduro | Nina Baksh | [Read More](https://medium.com/p/e8cde7c97964) |
+| Sun, 18 Jan 2026 02:47:18 GMT | 潛伏在便利背後的大手：阿里巴巴「千問 App」代理式 AI (Agentic AI) 的深度剖析 | p1x06u9 | [Read More](https://medium.com/p/5368af8d802f) |
+| Sun, 18 Jan 2026 02:37:53 GMT | OWASP ZAP Lab: 3 Web Security Lessons Every Hacker Needs | Ebenezer Boateng Agyekum | [Read More](https://medium.com/p/954a4abd7a89) |
+| Sun, 18 Jan 2026 02:31:57 GMT | Static v/s Dynamic Malware Analysis: When to Use What | Pratik Gurav | [Read More](https://medium.com/p/3fd5711aa5cc) |
+| Sun, 18 Jan 2026 02:04:56 GMT | Nouvel outil — loi25.certi360.com | Patrick Boucher | [Read More](https://medium.com/p/230a9bc49c0b) |
+| Sun, 18 Jan 2026 01:59:35 GMT | Google’s Free Offer For 2 Billion Gmail Users Should You Upgrade? | Moni | [Read More](https://medium.com/p/83fa402430d3) |
 | Sun, 18 Jan 2026 01:42:05 GMT | Espionage in the Modern Age: From Human Intelligence to Cyber Operations | Ziya Gokalp | [Read More](https://medium.com/p/17f0c0cca486) |
 | Sun, 18 Jan 2026 01:41:40 GMT | From Data to Defense: The Strategic Role of Cyber Threat Intelligence | Ziya Gokalp | [Read More](https://medium.com/p/02c690039262) |
 | Sun, 18 Jan 2026 01:12:25 GMT | Segmentation: The Network’s Secret Weapon | Raviteja Mureboina | [Read More](https://medium.com/p/a74a740c1f12) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 16:09:40 GMT | So You Got HACKED, Whose Fault Is It? | Janith Malinga | [Read More](https://medium.com/p/f383046f4ebe) |
 | Sat, 17 Jan 2026 16:00:54 GMT | The Approval That Never Asked Again | Rjay Solamo | [Read More](https://medium.com/p/751da172b488) |
 | Sat, 17 Jan 2026 15:58:18 GMT | Web Security for Beginners: How the web works and the roadmap | Sahineliyev | [Read More](https://medium.com/p/33c7a1d2a734) |
-| Sat, 17 Jan 2026 15:57:08 GMT | The Prompt Injection Problem: Why Your AI Assistant Might Be Working Against You | Soumyadipta Birabar | [Read More](https://medium.com/p/3995ada79639) |
-| Sat, 17 Jan 2026 15:52:11 GMT | KRIPTOGRAFI TERAPAN — PBL RKS-305 | Verawati Panjaitan | [Read More](https://medium.com/p/47ce462b7f0a) |
-| Sat, 17 Jan 2026 15:47:12 GMT | Using a Golang Shellcode Loader with Sliver C2 for Evasion | lainkusanagi | [Read More](https://medium.com/p/43a95f5ebc35) |
-| Sat, 17 Jan 2026 15:39:01 GMT | How Phishing Affects iPhone Users And Why Apple Security Isn’t Enough | Rebecca Smith | [Read More](https://medium.com/p/f249c2e0f8f5) |
-| Sat, 17 Jan 2026 15:37:43 GMT | Authentication vs Authorization: The Security Difference Most People Miss | Codeandcontext | [Read More](https://medium.com/p/ae3694061d14) |
-| Sat, 17 Jan 2026 15:32:43 GMT | CVE-2025-53770: Unauthenticated Remote Code Execution in Microsoft SharePoint Server | CipherX9F Security | [Read More](https://medium.com/p/fd5dc5cccfe7) |
-| Sat, 17 Jan 2026 15:31:13 GMT | How Cybersecurity Training Helps Employees and the People of Saudi Arabia | SecureLink | [Read More](https://medium.com/p/e6ff8ad7f13f) |
-| Sat, 17 Jan 2026 15:20:11 GMT | The Bug That Taught Me More Than Any Course | Nabil Mouzouna نبيل مزونة | [Read More](https://medium.com/p/96f7d2b2fc9a) |
-| Sat, 17 Jan 2026 15:08:15 GMT | TryHackMe Writeup: JPGChat | Berkay AĞGÜL | [Read More](https://medium.com/p/3c4f51344749) |
-| Sat, 17 Jan 2026 15:07:44 GMT | An AI Thought-Experiment I Didn’t Expect | Maithilee Singh | [Read More](https://medium.com/p/2a9eb6a678a0) |
-| Sat, 17 Jan 2026 15:02:32 GMT | How to Clear Gmail Clutter Once and for All: The Secret Button in Your Account | raccooni4ka | [Read More](https://medium.com/p/b546e78b480c) |
