@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 14:32:26 GMT | Detecting Suspicious Activities Using Wireshark: A Comprehensive Guide | Vignesh R | [Read More](https://medium.com/p/16ac55ab8159) |
+| Sun, 18 Jan 2026 14:24:14 GMT | SOC Workflow Explained: How Cyber Attacks Are Detected and Stopped | Abhinsubej | [Read More](https://medium.com/p/c20ba8f34fee) |
 | Sun, 18 Jan 2026 14:06:01 GMT | 17.5 Million Accounts Compromised via Instagram Data Breach | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/37f506d21859) |
 | Sun, 18 Jan 2026 14:05:50 GMT | What If Anyone Could Sign Legal Documents Using Your Email Address? | 0xMoussa | [Read More](https://medium.com/p/5377628abc0f) |
 | Sun, 18 Jan 2026 14:02:05 GMT | Password Reset Token Misconfiguration Leading to Pre-Account Takeover and Account Deletion | 0xMo7areb | [Read More](https://medium.com/p/8f344cb0e9d6) |
@@ -111,5 +113,3 @@ Life is an intricate tapestry woven from countless… | Umarfaruq | [Read More](
 | Sun, 18 Jan 2026 05:05:43 GMT | Handshakes in the Dark | Amit Tomar | [Read More](https://medium.com/p/c4d15d917d79) |
 | Sun, 18 Jan 2026 05:04:27 GMT | Building an AI Security Tool with Claude: A 4-Layer Defense Against Prompt Injection | Ali Serdar Çarlı | [Read More](https://medium.com/p/a64a9e2fac68) |
 | Sun, 18 Jan 2026 05:02:05 GMT | Hello my name is… (Part 3) | Kurb4n | [Read More](https://medium.com/p/a7bb4ff50f7b) |
-| Sun, 18 Jan 2026 04:53:35 GMT | I Reverse-Engineered the ‘Free Movie App’ I Used for 2 Years. The Results Were Terrifying | Pinki Singh | [Read More](https://medium.com/p/98796cef6837) |
-| Sun, 18 Jan 2026 04:40:41 GMT | Strip Tease | Su ☆ | [Read More](https://medium.com/p/e069e136104a) |
