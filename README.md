@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 05:46:26 GMT | From Java to Python: A Developer’s Journey | Ranjithu | [Read More](https://medium.com/p/c47c2fed8e94) |
 | Sun, 18 Jan 2026 05:09:42 GMT | Why Ransomware Demands Your Attention | Digital Duffer | [Read More](https://medium.com/p/1346b65da552) |
 | Sun, 18 Jan 2026 05:07:36 GMT | What is Ransomware in Cybersecurity | Digital Duffer | [Read More](https://medium.com/p/92168611c98a) |
 | Sun, 18 Jan 2026 05:05:43 GMT | Handshakes in the Dark | Amit Tomar | [Read More](https://medium.com/p/c4d15d917d79) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 17:21:49 GMT | Securing the Mesh: Advanced Threat Modeling with STRIDE for Distributed Systems | Vaibhav Tiwari | [Read More](https://medium.com/p/afbf25584781) |
 | Sat, 17 Jan 2026 17:17:55 GMT | GSEC Yolculuğu #4: Trafiğin Mimarları — TCP, UDP ve Portlar | Ata Erdemir | [Read More](https://medium.com/p/d75775a12f61) |
 | Sat, 17 Jan 2026 17:15:52 GMT | Why Security Controls Fail Before an Attacker Even Tries | Tyreek Haynes | [Read More](https://medium.com/p/858050451cb8) |
-| Sat, 17 Jan 2026 17:07:01 GMT | Entity Framework：程式與資料庫之間的翻譯官 | 思維舞步 MindSteps | [Read More](https://medium.com/p/f0a2b6b278ef) |
