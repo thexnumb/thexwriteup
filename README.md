@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 09:34:55 GMT | [HackSmarter.org Write-up] Anomaly (Jenkins, Keytab, ADCS ESC1) | Chicken0248 | [Read More](https://medium.com/p/fe852c632435) |
+| Sun, 18 Jan 2026 09:34:40 GMT | [HackSmarter.org Write-up] Talisman (Oracle CloudBeaver, Script replacement) | Chicken0248 | [Read More](https://medium.com/p/54a8f76ac53d) |
+| Sun, 18 Jan 2026 09:31:59 GMT | The Free Security Stack Nobody Tells You About: How I Built Enterprise-Level Threat Intelligence on… | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/e8998945f7e3) |
+| Sun, 18 Jan 2026 09:31:59 GMT | PicoCTF Easy Forensics Challenges - Part(1/4) | iIyas | [Read More](https://medium.com/p/09e195110e6c) |
 | Sun, 18 Jan 2026 09:17:23 GMT | Secure AWS Access in GitLab CI/CD Using OIDC: A Complete Guide | Parag Patil | [Read More](https://medium.com/p/60df38946945) |
 | Sun, 18 Jan 2026 09:16:53 GMT | How I’d Start Bug Bounty Hunting in 2026 — a Practical 90-Day Plan | Hackers Things | [Read More](https://medium.com/p/d49042c59597) |
 | Sun, 18 Jan 2026 09:01:59 GMT | From One Leaked Password to Full Company Breach: A Real Attack Chain | Alexandre Vandamme | [Read More](https://medium.com/p/43e9d281e5b9) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 19:49:47 GMT | Agent Sudo THM Writeup/Walkthrough | sudo_0xksh | [Read More](https://medium.com/p/c788c40a88c0) |
 | Sat, 17 Jan 2026 19:33:52 GMT | Secure Kubernetes Deployment Guide (Self-Managed) — Part IV | SOCFortress | [Read More](https://medium.com/p/a09a3099b8b7) |
 | Sat, 17 Jan 2026 19:28:40 GMT | “And Then There Were None”: Achieving My PNPT in 2025! | Jinendar Kothari | [Read More](https://medium.com/p/232845854815) |
-| Sat, 17 Jan 2026 19:28:22 GMT | Linux Privilege Escalation: The Path from Low-Privilege to Root | Esra Kayhan | [Read More](https://medium.com/p/a635b58bbe3d) |
-| Sat, 17 Jan 2026 19:27:28 GMT | Azure WAF Setup with Simple Web App Service | Siddharth D | [Read More](https://medium.com/p/f9113fda7229) |
-| Sat, 17 Jan 2026 19:26:47 GMT | Rootkits: The Malware That Doesn’t Want Fame, It Wants Control | TheCyberAryan | [Read More](https://medium.com/p/260d143cebd6) |
-| Sat, 17 Jan 2026 19:21:08 GMT | IDOR Vulnerability: A Critical Risk in Web Application Security Testing | sayeedTestOps | [Read More](https://medium.com/p/ee6013dcb19f) |
