@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 08:26:00 GMT | Critical Blind Time-Based Injection Hiding Behind Normal Responses | Xynos | [Read More](https://medium.com/p/c229b5956bd3) |
+| Sun, 18 Jan 2026 08:18:06 GMT | The Best Free Cybersecurity Tools for Blue Teams and Red Teams (And How Pros Actually Use Them) | Bugitrix | [Read More](https://medium.com/p/474b04836c99) |
+| Sun, 18 Jan 2026 08:15:04 GMT | Broken Math: Exploiting Business Logic for Price Manipulation | Samet Yiğit | [Read More](https://medium.com/p/ad52f1c47f3a) |
+| Sun, 18 Jan 2026 08:06:58 GMT | Why This Blog Exists | Cyberspace Bulletin | [Read More](https://medium.com/p/64df8fa19b3c) |
+| Sun, 18 Jan 2026 08:04:15 GMT | You Don’t Need to Be an AI Expert to Start Building with AI | PantaVenkatesh | [Read More](https://medium.com/p/3a39e9e59d81) |
+| Sun, 18 Jan 2026 08:03:13 GMT | In the age of microsegmentation enforcement in hours, are you still shutting down operations? | Agnidipta Sarkar | [Read More](https://medium.com/p/0f84f25d149c) |
+| Sun, 18 Jan 2026 08:01:58 GMT | Part IV: Why Vault Enterprise for Certificate as a Service | Raymon Epping | [Read More](https://medium.com/p/8393c02ab17b) |
+| Sun, 18 Jan 2026 08:01:27 GMT | The Mirror Effect of Leadership: How Our Thinking Becomes Products, Teams, and Now — AI | Bibhu Ashish Panda | [Read More](https://medium.com/p/ca4aeba05347) |
+| Sun, 18 Jan 2026 07:50:29 GMT | When Rate Limits Lie: A Quiet Path to Account Takeover | PevinKumar A | [Read More](https://medium.com/p/8004000afe01) |
+| Sun, 18 Jan 2026 07:43:08 GMT | Recover a Gmail Account Without Recovery Email or Phone Number in 2026 | Muhammad Haider Tallal | [Read More](https://medium.com/p/301d7d9440f9) |
+| Sun, 18 Jan 2026 07:29:48 GMT | The Virus Codex | Claudia G. Petersen | [Read More](https://medium.com/p/6986cc175eb6) |
+| Sun, 18 Jan 2026 07:28:38 GMT | Next.js: CVE-2025–29927 -TryHackMe WriteUp | Bridget | [Read More](https://medium.com/p/b120c81f8fd8) |
 | Sun, 18 Jan 2026 07:06:39 GMT | Cybersecurity: Phishing — How to Protect Yourself from Online Scams — | Md. Abrar Shahriar | [Read More](https://medium.com/p/ce142e17b526) |
 | Sun, 18 Jan 2026 07:06:09 GMT | Why Hugging Face Became a Core Part of My AI Learning Journey | PantaVenkatesh | [Read More](https://medium.com/p/364c38b976fc) |
 | Sun, 18 Jan 2026 06:54:38 GMT | I Found a Backdoor in a “Job Interview” Codebase: A Recruitment Scam Targeting Developers & QA… | Kennedy Owiro | [Read More](https://medium.com/p/3fee114ab656) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 18:49:06 GMT | Choosing the Best Professional CMMC Compliance Services in Silver Spring, MD | GDMktgAG | [Read More](https://medium.com/p/b4728970d147) |
 | Sat, 17 Jan 2026 18:45:29 GMT | Day 158 — Detecting Human-Operated Ransomware Before Encryption: Scope, Constraints, and… | Jinay | [Read More](https://medium.com/p/c07304d12157) |
 | Sat, 17 Jan 2026 18:43:01 GMT | TCS HackQuest Season 10 — Round 2: Walkthrough | Arnav Vaidya | [Read More](https://medium.com/p/17139324c2d8) |
-| Sat, 17 Jan 2026 18:28:38 GMT | How I Cracked the eCPPTv3 at 16 | Joel Morillas Pagan (Ghxstsec) | [Read More](https://medium.com/p/cf962bb095fd) |
-| Sat, 17 Jan 2026 18:24:46 GMT | Security Metrics Are Lying to Us | Assafkip | [Read More](https://medium.com/p/eadd4e0c0d64) |
-| Sat, 17 Jan 2026 18:23:08 GMT | Cyber Law in Bangladesh (2026) | Kazi Sabbir | [Read More](https://medium.com/p/fa1cd6b468c2) |
-| Sat, 17 Jan 2026 18:16:43 GMT | Why Encryption Alone Doesn’t Make Systems Secure | Daniel Isaac E | [Read More](https://medium.com/p/0cbd3cd4cb0b) |
-| Sat, 17 Jan 2026 18:13:47 GMT | XSS Payload Crafting and WAF Bypass: A Beginner‑Friendly Guide | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/781de268fa68) |
-| Sat, 17 Jan 2026 18:13:42 GMT | Cybersecurity in the Digital Age: Protecting Yourself and Your Community | Alex Musyoki | [Read More](https://medium.com/p/32bd8c70f7b6) |
-| Sat, 17 Jan 2026 18:12:27 GMT | Secure Your GitOps Pipeline: Complete Guide to Sealed Secrets with Argo CD | Abdeltawab Wagieh | [Read More](https://medium.com/p/de2d063113c8) |
-| Sat, 17 Jan 2026 18:12:12 GMT | When Trust Outlives the Math That Made It | Vasant Bhadauria | [Read More](https://medium.com/p/ebedf5159a10) |
-| Sat, 17 Jan 2026 18:03:21 GMT | What Are Command and Control (C2) Servers and Why Do They Matter? | Bishal Poudel | [Read More](https://medium.com/p/3e62af254200) |
-| Sat, 17 Jan 2026 17:55:00 GMT | Lessons From A Cleared Cybersecurity Internship at NWIC Pacific | Tyreek Haynes | [Read More](https://medium.com/p/98c9541c7e7a) |
-| Sat, 17 Jan 2026 17:53:59 GMT | Your Cosmic Conspirator | muuunniverse. | [Read More](https://medium.com/p/0b7efe6e99b4) |
-| Sat, 17 Jan 2026 17:52:32 GMT | Exploiting SSRF in OopsSec Store to Access Internal Pages | OopsSec Store | [Read More](https://medium.com/p/3f1b6d2163c6) |
