@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 16:46:40 GMT | I finally forced myself to start DSA(Here’s what 20 problems taught me) | Daivik S Gokhale | [Read More](https://medium.com/p/6738b5d165c7) |
+| Sun, 18 Jan 2026 16:32:14 GMT | Entering The Dark Web | Nxgprince | [Read More](https://medium.com/p/3a7f4de59fbe) |
 | Sun, 18 Jan 2026 16:22:17 GMT | HackerOne HTML Injection Fix Bypass‍ | ab.infosec | [Read More](https://medium.com/p/9aef7806cebc) |
 | Sun, 18 Jan 2026 16:19:24 GMT | Cybersec and Troy | Lucas Haddad Vieira | [Read More](https://medium.com/p/980dcc13eae7) |
 | Sun, 18 Jan 2026 16:16:47 GMT | DDoS Attack — Distributed Denial-of-Service | Topnotch | [Read More](https://medium.com/p/230fe81eefa6) |
@@ -111,5 +113,3 @@ Life is an intricate tapestry woven from countless… | Umarfaruq | [Read More](
 | Sun, 18 Jan 2026 08:52:34 GMT | The First Jazz Class of 2026: Glimmers, Trust and the Joy of Showing Up | Adeliah Jacobs | [Read More](https://medium.com/p/578d2ae613f0) |
 | Sun, 18 Jan 2026 08:47:20 GMT | The Weight Of Worthlessness | Kassey's Dreams & Realities Ink. | [Read More](https://medium.com/p/10228b91f0a8) |
 | Sun, 18 Jan 2026 08:45:49 GMT | I Replied to Dozens of LinkedIn Messages — Then I Realised Many Accounts Were Compromised | Ismail Kt | [Read More](https://medium.com/p/555dcb5ae4f5) |
-| Sun, 18 Jan 2026 08:32:57 GMT | Climate Justice Is an Investment in Peace and Security | Neha Grace | [Read More](https://medium.com/p/b00ae45a2742) |
-| Sun, 18 Jan 2026 08:29:50 GMT | Your Headphones Can Track and Spy on You — WhisperPair | Patrik Žák | [Read More](https://medium.com/p/547c2315462a) |
