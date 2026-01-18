@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 10:17:56 GMT | How Darkweb Vendor Trust Actually Forms | Tor BBB | [Read More](https://medium.com/p/18626231704e) |
+| Sun, 18 Jan 2026 10:14:00 GMT | Online safety Tips for students | Cyberwithswe | [Read More](https://medium.com/p/76c8d098d07b) |
+| Sun, 18 Jan 2026 10:04:08 GMT | ASP.NET MVC Bad Practices: Model With Required Non-Nullable Property — Part 7 | Okan Yurt | [Read More](https://medium.com/p/047cc23072e1) |
+| Sun, 18 Jan 2026 09:38:15 GMT | How To Hire A Hacker To Change Your University Grades | Darksynthhacker | [Read More](https://medium.com/p/7b9d33886c17) |
 | Sun, 18 Jan 2026 09:34:55 GMT | [HackSmarter.org Write-up] Anomaly (Jenkins, Keytab, ADCS ESC1) | Chicken0248 | [Read More](https://medium.com/p/fe852c632435) |
 | Sun, 18 Jan 2026 09:34:40 GMT | [HackSmarter.org Write-up] Talisman (Oracle CloudBeaver, Script replacement) | Chicken0248 | [Read More](https://medium.com/p/54a8f76ac53d) |
 | Sun, 18 Jan 2026 09:31:59 GMT | The Free Security Stack Nobody Tells You About: How I Built Enterprise-Level Threat Intelligence on… | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/e8998945f7e3) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 20:23:49 GMT | Your Kenmore Washer Is Not Dead. It Just Needs a Proper Reset | Techelectroniclive | [Read More](https://medium.com/p/9700a9956685) |
 | Sat, 17 Jan 2026 20:20:25 GMT | When Your AI Negotiates Against You | Valdez Ladd | [Read More](https://medium.com/p/3e3ef6f07d2f) |
 | Sat, 17 Jan 2026 20:01:22 GMT | Stop Idle Overload And Restore A Quiet Reliable Windows PC! | Geoffrey Wenger | [Read More](https://medium.com/p/02a55c0c333b) |
-| Sat, 17 Jan 2026 19:55:04 GMT | ANTHEM TryHackMe Writeup/Walkthrough | sudo_0xksh | [Read More](https://medium.com/p/40c7c20a1802) |
-| Sat, 17 Jan 2026 19:49:47 GMT | Agent Sudo THM Writeup/Walkthrough | sudo_0xksh | [Read More](https://medium.com/p/c788c40a88c0) |
-| Sat, 17 Jan 2026 19:33:52 GMT | Secure Kubernetes Deployment Guide (Self-Managed) — Part IV | SOCFortress | [Read More](https://medium.com/p/a09a3099b8b7) |
-| Sat, 17 Jan 2026 19:28:40 GMT | “And Then There Were None”: Achieving My PNPT in 2025! | Jinendar Kothari | [Read More](https://medium.com/p/232845854815) |
