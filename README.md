@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 06:19:36 GMT | The Windows Security Journey — SID History | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/43196e912c0d) |
+| Sun, 18 Jan 2026 06:12:28 GMT | Static Malware Analysis: How to Peek Inside Malware Without Running It | Paritosh | [Read More](https://medium.com/p/c9cd2d603762) |
+| Sun, 18 Jan 2026 06:10:48 GMT | Root Me(XSS Stored 1) | Zon-Salon | [Read More](https://medium.com/p/fbdc6186cfd7) |
+| Sun, 18 Jan 2026 06:07:35 GMT | Root Me — XSS Stored 1 | LiGhTZod | [Read More](https://medium.com/p/d308be1ad04f) |
+| Sun, 18 Jan 2026 05:58:52 GMT | Why Input Validation Fails in Real-World Applications | Raj K | [Read More](https://medium.com/p/cb5614c08c90) |
+| Sun, 18 Jan 2026 05:51:54 GMT | Accounts for Everything | G H | [Read More](https://medium.com/p/83060fdecbfd) |
 | Sun, 18 Jan 2026 05:46:26 GMT | From Java to Python: A Developer’s Journey | Ranjithu | [Read More](https://medium.com/p/c47c2fed8e94) |
 | Sun, 18 Jan 2026 05:09:42 GMT | Why Ransomware Demands Your Attention | Digital Duffer | [Read More](https://medium.com/p/1346b65da552) |
 | Sun, 18 Jan 2026 05:07:36 GMT | What is Ransomware in Cybersecurity | Digital Duffer | [Read More](https://medium.com/p/92168611c98a) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 17:42:35 GMT | How a Base64 Image API Turned a Trusted Cloud Bucket into an Attacker’s CDN | Supun Halangoda (Suppa) | [Read More](https://medium.com/p/aa1470de09c0) |
 | Sat, 17 Jan 2026 17:40:20 GMT | [AD攻防] Kerberoasting 攻擊 | 陳禹璿 | [Read More](https://medium.com/p/7e483c377093) |
 | Sat, 17 Jan 2026 17:39:04 GMT | The Ghost in the Machine: How to Breach Any Online Python IDE | SilentExploit | [Read More](https://medium.com/p/bfef1b454dbd) |
-| Sat, 17 Jan 2026 17:37:46 GMT | How to Shoot Sharp Photos on Your Phone in Low Light | Motherlandlove | [Read More](https://medium.com/p/b1c87b4a7c8e) |
-| Sat, 17 Jan 2026 17:35:38 GMT | Top 10 Gadgets That Stole the Spotlight at CES 2026 | Contact Techfusiondaily | [Read More](https://medium.com/p/c9fb47b49140) |
-| Sat, 17 Jan 2026 17:30:07 GMT | Ethical Hacking & Penetration Testing — Complete | Nukhbasoomro | [Read More](https://medium.com/p/b59a41898090) |
-| Sat, 17 Jan 2026 17:21:49 GMT | Securing the Mesh: Advanced Threat Modeling with STRIDE for Distributed Systems | Vaibhav Tiwari | [Read More](https://medium.com/p/afbf25584781) |
-| Sat, 17 Jan 2026 17:17:55 GMT | GSEC Yolculuğu #4: Trafiğin Mimarları — TCP, UDP ve Portlar | Ata Erdemir | [Read More](https://medium.com/p/d75775a12f61) |
-| Sat, 17 Jan 2026 17:15:52 GMT | Why Security Controls Fail Before an Attacker Even Tries | Tyreek Haynes | [Read More](https://medium.com/p/858050451cb8) |
