@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 17:05:23 GMT | Report Writing | Allen Ace | [Read More](https://medium.com/p/d96c96d2e42d) |
+| Sun, 18 Jan 2026 17:05:12 GMT | Why the US and Europe Are Shifting Back to Offline Hacking & Cybersecurity
+For years, cybersecurity… | Ankit rai | [Read More](https://medium.com/p/d96782d5d3a9) |
+| Sun, 18 Jan 2026 17:00:48 GMT | How Attackers Think About Trust (And Defenders Don’t) | Daniel Isaac E | [Read More](https://medium.com/p/43b00ca0a263) |
+| Sun, 18 Jan 2026 16:56:42 GMT | Dynamic Analysis & Instrumentation Android | mdan | [Read More](https://medium.com/p/1b6654a745f5) |
 | Sun, 18 Jan 2026 16:46:40 GMT | I finally forced myself to start DSA(Here’s what 20 problems taught me) | Daivik S Gokhale | [Read More](https://medium.com/p/6738b5d165c7) |
+| Sun, 18 Jan 2026 16:42:38 GMT | Form-Based Authentication: Best Practices for Secure Login Systems | Shalu | [Read More](https://medium.com/p/46f4d7925b87) |
 | Sun, 18 Jan 2026 16:32:14 GMT | Entering The Dark Web | Nxgprince | [Read More](https://medium.com/p/3a7f4de59fbe) |
 | Sun, 18 Jan 2026 16:22:17 GMT | HackerOne HTML Injection Fix Bypass‍ | ab.infosec | [Read More](https://medium.com/p/9aef7806cebc) |
 | Sun, 18 Jan 2026 16:19:24 GMT | Cybersec and Troy | Lucas Haddad Vieira | [Read More](https://medium.com/p/980dcc13eae7) |
@@ -108,8 +114,3 @@ Life is an intricate tapestry woven from countless… | Umarfaruq | [Read More](
 | Sun, 18 Jan 2026 09:31:59 GMT | The Free Security Stack Nobody Tells You About: How I Built Enterprise-Level Threat Intelligence on… | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/e8998945f7e3) |
 | Sun, 18 Jan 2026 09:31:59 GMT | PicoCTF Easy Forensics Challenges - Part(1/4) | iIyas | [Read More](https://medium.com/p/09e195110e6c) |
 | Sun, 18 Jan 2026 09:17:23 GMT | Secure AWS Access in GitLab CI/CD Using OIDC: A Complete Guide | Parag Patil | [Read More](https://medium.com/p/60df38946945) |
-| Sun, 18 Jan 2026 09:16:53 GMT | How I’d Start Bug Bounty Hunting in 2026 — a Practical 90-Day Plan | Hackers Things | [Read More](https://medium.com/p/d49042c59597) |
-| Sun, 18 Jan 2026 09:01:59 GMT | From One Leaked Password to Full Company Breach: A Real Attack Chain | Alexandre Vandamme | [Read More](https://medium.com/p/43e9d281e5b9) |
-| Sun, 18 Jan 2026 08:52:34 GMT | The First Jazz Class of 2026: Glimmers, Trust and the Joy of Showing Up | Adeliah Jacobs | [Read More](https://medium.com/p/578d2ae613f0) |
-| Sun, 18 Jan 2026 08:47:20 GMT | The Weight Of Worthlessness | Kassey's Dreams & Realities Ink. | [Read More](https://medium.com/p/10228b91f0a8) |
-| Sun, 18 Jan 2026 08:45:49 GMT | I Replied to Dozens of LinkedIn Messages — Then I Realised Many Accounts Were Compromised | Ismail Kt | [Read More](https://medium.com/p/555dcb5ae4f5) |
