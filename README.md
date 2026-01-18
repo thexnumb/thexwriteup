@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 19:01:59 GMT | Anti-Exploit | Iram Jack | [Read More](https://medium.com/p/b5548e51ea18) |
+| Sun, 18 Jan 2026 19:01:59 GMT | Learning SQL in 20 Hours — Day 14: Window Functions | Kalpesh Bhangare | [Read More](https://medium.com/p/843c4c1c82b0) |
+| Sun, 18 Jan 2026 18:38:33 GMT | Not everything we long for is something we truly need. | Anshita Dubey | [Read More](https://medium.com/p/0ca9ee90f8c4) |
+| Sun, 18 Jan 2026 18:36:58 GMT | The DNS Query I Almost Ignored | ATAF | [Read More](https://medium.com/p/b5113e61c950) |
+| Sun, 18 Jan 2026 18:33:16 GMT | [AD攻防]Golden Ticket手法 | 陳禹璿 | [Read More](https://medium.com/p/4ac75910a71a) |
+| Sun, 18 Jan 2026 18:32:10 GMT | How Hackers Actually Break Web Apps in 2026 | Code Catalyst | [Read More](https://medium.com/p/986466bebc44) |
+| Sun, 18 Jan 2026 18:31:08 GMT | Takeover CTF | Rue | [Read More](https://medium.com/p/e768d5631810) |
+| Sun, 18 Jan 2026 18:24:09 GMT | Building a Zero-Knowledge Authentication System in Go (Without Ever Sending Passwords) | Md. Mehedi Hasan | [Read More](https://medium.com/p/358c21279cee) |
 | Sun, 18 Jan 2026 18:21:13 GMT | Sécuriser nos clusters Kubernetes on-premise | Thibault Buze | [Read More](https://medium.com/p/8418e1940388) |
 | Sun, 18 Jan 2026 18:18:09 GMT | A Single Image Triggered the Greatest Mystery in Internet History — And No One Ever Solved It | Nazrul Islam Rana | [Read More](https://medium.com/p/ce47e39631d5) |
 | Sun, 18 Jan 2026 18:14:32 GMT | 10 Conversations Defining the Future of AI, Cyber, and Conflict | Chris Kubecka de Medina | [Read More](https://medium.com/p/93e4ba5cc662) |
@@ -106,11 +114,3 @@ Life is an intricate tapestry woven from countless… | Umarfaruq | [Read More](
 | Sun, 18 Jan 2026 11:21:37 GMT | The Ultimate OSI Model Troubleshooting Cheat Sheet | Very Lazy Tech | [Read More](https://medium.com/p/3a0222f39d0b) |
 | Sun, 18 Jan 2026 11:18:38 GMT | Unrestricted File Upload Leads to Stored XSS, SSRF, and Phishing | Indrajeet | [Read More](https://medium.com/p/08e14c6e6907) |
 | Sun, 18 Jan 2026 11:09:51 GMT | TryHackMe - Offensive Security Intro - WriteUp | Axoloth | [Read More](https://medium.com/p/e45a6dfd265a) |
-| Sun, 18 Jan 2026 11:08:25 GMT | Breaking Order Privacy with IDOR in OopsSec Store | OopsSec Store | [Read More](https://medium.com/p/9f479f9354fb) |
-| Sun, 18 Jan 2026 10:58:06 GMT | Digital Infrastructure Audit: The LongAsia Domain and Data Consistency | Certification Flow Laboratories | [Read More](https://medium.com/p/00dcc53a0d70) |
-| Sun, 18 Jan 2026 10:53:30 GMT | Linux File Permissions & chmod — Explained in a Simple Human Way | Shadow Attackers | [Read More](https://medium.com/p/6f2c9511070a) |
-| Sun, 18 Jan 2026 10:45:48 GMT | Is ChatGPT AI or Machine Learning? | cyber security Updates | [Read More](https://medium.com/p/fa112c59d4d6) |
-| Sun, 18 Jan 2026 10:45:17 GMT | Hacksmarter — Lumon Industries — EN | DobTheRob | [Read More](https://medium.com/p/4c239ae67034) |
-| Sun, 18 Jan 2026 10:38:18 GMT | Construction site security services Dallas | US guard security company | [Read More](https://medium.com/p/e05d010b8f78) |
-| Sun, 18 Jan 2026 10:31:56 GMT | Crypto Wallet Security (2026 Guide): How to Stop Scams and Protect Your Assets | Aquads.xyz | [Read More](https://medium.com/p/aeca5831a6af) |
-| Sun, 18 Jan 2026 10:23:19 GMT | The Untold Story of Russian Hacking | Hiren Rathod | [Read More](https://medium.com/p/88e812e097a1) |
