@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 12:44:03 GMT | Quick Cloudflare hardening tip for anyone running Linux + UFW | Blake Welsh | [Read More](https://medium.com/p/7e53771409a0) |
+| Sun, 18 Jan 2026 12:30:40 GMT | JWT Header Parameters Injections - jwk - jku- Kid | Amrsmooke | [Read More](https://medium.com/p/0ab5c80a711e) |
+| Sun, 18 Jan 2026 12:29:52 GMT | Kubernetes Security Best Practices 2026: Beyond the Basics | Krishna Fattepurkar | [Read More](https://medium.com/p/cfe93639a328) |
+| Sun, 18 Jan 2026 12:25:50 GMT | AI Pentesting Methodology for Beginners (Part I) | Rahul Singh Chauhan | [Read More](https://medium.com/p/797d5854a687) |
+| Sun, 18 Jan 2026 12:20:41 GMT | CSP (Content Security Policy): The XSS Kill Switch | Krishnabokefod | [Read More](https://medium.com/p/3fbc92eb8bcc) |
+| Sun, 18 Jan 2026 12:16:06 GMT | Basic Kali Linux Commands for Ethical Hacking (Part -5) | Akhil Thakur | [Read More](https://medium.com/p/84662149c7e6) |
+| Sun, 18 Jan 2026 12:15:42 GMT | Fire Watch Security Guard Dallas | US guard security company | [Read More](https://medium.com/p/6085438461e8) |
+| Sun, 18 Jan 2026 12:00:56 GMT | Unmasking the MAFFIA: A Deep Dive into the 5-Stage FormBook Fileless Kill-Chain | Macs-Hit | [Read More](https://medium.com/p/24a18b9f7732) |
+| Sun, 18 Jan 2026 12:00:56 GMT | Creepy Things Ur WhatsApp Reveals | cybrNK | [Read More](https://medium.com/p/0aceac111845) |
+| Sun, 18 Jan 2026 11:54:07 GMT | Solving Ali Hadi Challenge #2 in 60 Seconds: Time Paradoxes, Wipers, and “Cat-Lure” Phishing | schutzz | [Read More](https://medium.com/p/b9aa4c845645) |
+| Sun, 18 Jan 2026 11:51:46 GMT | Your Android Is A Hidden Linux Powerhouse!! | cybrNK | [Read More](https://medium.com/p/e7d17f6a60fc) |
+| Sun, 18 Jan 2026 11:44:37 GMT | Life: The Art of Embracing Every Moment
+Life is an intricate tapestry woven from countless… | Umarfaruq | [Read More](https://medium.com/p/812f45e2ef8a) |
+| Sun, 18 Jan 2026 11:40:39 GMT | LetsDefend — SOC 336 — Windows OLE Zero-Click RCE Exploitation Detected (CVE-2025–21298) | Owais Ali Khan | [Read More](https://medium.com/p/ea800c770c91) |
+| Sun, 18 Jan 2026 11:35:56 GMT | Shellcode Development: Directly Commanding the CPU | Esra Kayhan | [Read More](https://medium.com/p/918000b58851) |
+| Sun, 18 Jan 2026 11:33:38 GMT | A Closer Look at USeP’s Online Enrollment System from an I.T. Student’s Perspective | Adrian Labisores | [Read More](https://medium.com/p/5e72bb1bd86e) |
 | Sun, 18 Jan 2026 11:28:35 GMT | FROM PHYSICAL TO APPLICATION: UNDERSTANDING THE OSI MODEL | frosang Tamang | [Read More](https://medium.com/p/976ed077dea7) |
 | Sun, 18 Jan 2026 11:21:37 GMT | The Ultimate OSI Model Troubleshooting Cheat Sheet | Very Lazy Tech | [Read More](https://medium.com/p/3a0222f39d0b) |
 | Sun, 18 Jan 2026 11:18:38 GMT | Unrestricted File Upload Leads to Stored XSS, SSRF, and Phishing | Indrajeet | [Read More](https://medium.com/p/08e14c6e6907) |
@@ -97,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 Jan 2026 01:41:40 GMT | From Data to Defense: The Strategic Role of Cyber Threat Intelligence | Ziya Gokalp | [Read More](https://medium.com/p/02c690039262) |
 | Sun, 18 Jan 2026 01:12:25 GMT | Segmentation: The Network’s Secret Weapon | Raviteja Mureboina | [Read More](https://medium.com/p/a74a740c1f12) |
 | Sun, 18 Jan 2026 01:08:30 GMT | AI Is the New Attack Surface in the cloud. | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/150b61436ef5) |
-| Sun, 18 Jan 2026 00:46:33 GMT | Hackear la Física, no la Matemática: Cómo construí un simulador de Ataque de Canal Lateral (SCA) en… | Methodwhite | [Read More](https://medium.com/p/5ff582353de6) |
-| Sun, 18 Jan 2026 00:46:28 GMT | Mastering iOS Pentesting: Part 2 — Shell Access, File Transfers, IPA-App Signing, TrollStore & IPA… | Faris Faisal 0xFF | [Read More](https://medium.com/p/1dcf484b5036) |
-| Sun, 18 Jan 2026 00:43:25 GMT | Fun Fact: Your Brain Learns Languages Like Music | Contact Techfusiondaily | [Read More](https://medium.com/p/ddbec6d022c5) |
-| Sun, 18 Jan 2026 00:40:03 GMT | What Is Cloud + AI Security? And Why Traditional Cloud Security Is No Longer Enough | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/414323e8b916) |
-| Sun, 18 Jan 2026 00:31:59 GMT | Spring Security Annotations Explained with Examples (Spring Boot) | Code With Sunil - Code Smarter, not harder | [Read More](https://medium.com/p/12c31217839d) |
-| Sun, 18 Jan 2026 00:22:38 GMT | Banner5 Ekstensi Wajib untuk Laravel Developer | NaikinSkill | [Read More](https://medium.com/p/60e5bea95673) |
-| Sun, 18 Jan 2026 00:21:05 GMT | Most tech companies don’t have a technology problem. They have a coordination problem. | Bijay Pathak | [Read More](https://medium.com/p/69bf96c9076b) |
-| Sat, 17 Jan 2026 23:54:43 GMT | 10 Must-Know Malware Analysis Interview Questions (with Scenario-Based Answers) | Vikas Singh Panwar | [Read More](https://medium.com/p/87967e51cb04) |
-| Sat, 17 Jan 2026 23:45:06 GMT | Rust Password Manager: Designing an Encrypted Vault from Scratch — Part 1 — EN | Hamza Es Sadik | [Read More](https://medium.com/p/7aef592bb4d0) |
-| Sat, 17 Jan 2026 23:27:38 GMT | Private Mailbox Rental Service in Edison, NJ — Safe, Secure & Convenient | Edisonpackandship | [Read More](https://medium.com/p/d3a387987045) |
-| Sat, 17 Jan 2026 23:26:32 GMT | Why IoT Security Research Lives at the Intersection of RF and Cybersecurity | Michael Preston | [Read More](https://medium.com/p/a660d6bb3dfc) |
-| Sat, 17 Jan 2026 23:20:37 GMT | Here’s an article I wrote about. AI in every day! | Salonista Cynthia | [Read More](https://medium.com/p/44b21157bda5) |
-| Sat, 17 Jan 2026 23:10:11 GMT | The Zero Trust Dev Environment: No More Secrets in Your .env Files! | Georg Nelles | [Read More](https://medium.com/p/532ee8eddeeb) |
-| Sat, 17 Jan 2026 23:08:04 GMT | Password Managers for Seniors: Why You Need One (And How to Set It Up in 10 Minutes) | Carson Pietruszynski | [Read More](https://medium.com/p/5722a4e6c7e6) |
-| Sat, 17 Jan 2026 23:05:30 GMT | Why the #1 Vulnerability Isn’t About Hacking, It’s About Walking Through Open Doors | Wnellygrace | [Read More](https://medium.com/p/f1081785b951) |
