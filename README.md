@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 18:21:13 GMT | Sécuriser nos clusters Kubernetes on-premise | Thibault Buze | [Read More](https://medium.com/p/8418e1940388) |
+| Sun, 18 Jan 2026 18:18:09 GMT | A Single Image Triggered the Greatest Mystery in Internet History — And No One Ever Solved It | Nazrul Islam Rana | [Read More](https://medium.com/p/ce47e39631d5) |
+| Sun, 18 Jan 2026 18:14:32 GMT | 10 Conversations Defining the Future of AI, Cyber, and Conflict | Chris Kubecka de Medina | [Read More](https://medium.com/p/93e4ba5cc662) |
+| Sun, 18 Jan 2026 18:11:21 GMT | The Two-Layer Approach to AI Observability: Why Application + Network Monitoring Isn’t Optional… | Gorisariaabhishek | [Read More](https://medium.com/p/aee63183c539) |
+| Sun, 18 Jan 2026 18:06:31 GMT | How Hackers Think | Catherine Ma | [Read More](https://medium.com/p/2ea1989220b3) |
+| Sun, 18 Jan 2026 18:01:51 GMT | How Hackers Actually Think: | Abdul Ahad | [Read More](https://medium.com/p/8fe7a3a94e0c) |
+| Sun, 18 Jan 2026 17:53:45 GMT | Ghost in the Machine: 6 Shocking Ways Your Operating System Tracks Your Every Move | Omega | [Read More](https://medium.com/p/5ae372a79e1f) |
 | Sun, 18 Jan 2026 17:33:54 GMT | Starting Your Bug Bounty Journey: Tips for Beginners | Nayan Ghimire | [Read More](https://medium.com/p/88a41eab150c) |
 | Sun, 18 Jan 2026 17:27:09 GMT | Сканування сервісів з nmap | Fl4g Hunt3r Project | [Read More](https://medium.com/p/6f38307ee8ca) |
 | Sun, 18 Jan 2026 17:16:14 GMT | The Future of African Leadership Is Digital & Security Is Governance | Tim Murkomen | [Read More](https://medium.com/p/60bf21acda02) |
@@ -23,6 +30,7 @@ For years, cybersecurity… | Ankit rai | [Read More](https://medium.com/p/d9678
 | Sun, 18 Jan 2026 16:46:40 GMT | I finally forced myself to start DSA(Here’s what 20 problems taught me) | Daivik S Gokhale | [Read More](https://medium.com/p/6738b5d165c7) |
 | Sun, 18 Jan 2026 16:42:38 GMT | Form-Based Authentication: Best Practices for Secure Login Systems | Shalu | [Read More](https://medium.com/p/46f4d7925b87) |
 | Sun, 18 Jan 2026 16:32:14 GMT | Entering The Dark Web | Nxgprince | [Read More](https://medium.com/p/3a7f4de59fbe) |
+| Sun, 18 Jan 2026 16:26:13 GMT | The Security Checklist Every LLM-Generated App Needs Before Launch | Keshav Raj | [Read More](https://medium.com/p/81e67e604d1e) |
 | Sun, 18 Jan 2026 16:22:17 GMT | HackerOne HTML Injection Fix Bypass‍ | ab.infosec | [Read More](https://medium.com/p/9aef7806cebc) |
 | Sun, 18 Jan 2026 16:19:24 GMT | Cybersec and Troy | Lucas Haddad Vieira | [Read More](https://medium.com/p/980dcc13eae7) |
 | Sun, 18 Jan 2026 16:16:47 GMT | DDoS Attack — Distributed Denial-of-Service | Topnotch | [Read More](https://medium.com/p/230fe81eefa6) |
@@ -106,11 +114,3 @@ Life is an intricate tapestry woven from countless… | Umarfaruq | [Read More](
 | Sun, 18 Jan 2026 10:38:18 GMT | Construction site security services Dallas | US guard security company | [Read More](https://medium.com/p/e05d010b8f78) |
 | Sun, 18 Jan 2026 10:31:56 GMT | Crypto Wallet Security (2026 Guide): How to Stop Scams and Protect Your Assets | Aquads.xyz | [Read More](https://medium.com/p/aeca5831a6af) |
 | Sun, 18 Jan 2026 10:23:19 GMT | The Untold Story of Russian Hacking | Hiren Rathod | [Read More](https://medium.com/p/88e812e097a1) |
-| Sun, 18 Jan 2026 10:22:54 GMT | 2026’s New Stack: Decentralized AI, Regulated Crypto, and the Death of “Just Vibes” | ABV | [Read More](https://medium.com/p/a9189508ca20) |
-| Sun, 18 Jan 2026 10:17:56 GMT | How Darkweb Vendor Trust Actually Forms | Tor BBB | [Read More](https://medium.com/p/18626231704e) |
-| Sun, 18 Jan 2026 10:16:58 GMT | Why Young People Act Nonchalant in Relationships (Modern Dating Explained) | Ahmaky Love | [Read More](https://medium.com/p/360dadc5a060) |
-| Sun, 18 Jan 2026 10:14:00 GMT | Online safety Tips for students | Cyberwithswe | [Read More](https://medium.com/p/76c8d098d07b) |
-| Sun, 18 Jan 2026 10:04:08 GMT | ASP.NET MVC Bad Practices: Model With Required Non-Nullable Property — Part 7 | Okan Yurt | [Read More](https://medium.com/p/047cc23072e1) |
-| Sun, 18 Jan 2026 09:38:15 GMT | How To Hire A Hacker To Change Your University Grades | Darksynthhacker | [Read More](https://medium.com/p/7b9d33886c17) |
-| Sun, 18 Jan 2026 09:34:55 GMT | [HackSmarter.org Write-up] Anomaly (Jenkins, Keytab, ADCS ESC1) | Chicken0248 | [Read More](https://medium.com/p/fe852c632435) |
-| Sun, 18 Jan 2026 09:34:40 GMT | [HackSmarter.org Write-up] Talisman (Oracle CloudBeaver, Script replacement) | Chicken0248 | [Read More](https://medium.com/p/54a8f76ac53d) |
