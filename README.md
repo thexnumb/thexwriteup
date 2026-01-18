@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 07:06:39 GMT | Cybersecurity: Phishing — How to Protect Yourself from Online Scams — | Md. Abrar Shahriar | [Read More](https://medium.com/p/ce142e17b526) |
+| Sun, 18 Jan 2026 07:06:09 GMT | Why Hugging Face Became a Core Part of My AI Learning Journey | PantaVenkatesh | [Read More](https://medium.com/p/364c38b976fc) |
+| Sun, 18 Jan 2026 06:54:38 GMT | I Found a Backdoor in a “Job Interview” Codebase: A Recruitment Scam Targeting Developers & QA… | Kennedy Owiro | [Read More](https://medium.com/p/3fee114ab656) |
+| Sun, 18 Jan 2026 06:35:17 GMT | Instagram account takeover via Meta Pixel script abuse | Adeel Bin Hassan | [Read More](https://medium.com/p/60ce234dec35) |
+| Sun, 18 Jan 2026 06:28:26 GMT | Let Things Hurt | ZA | [Read More](https://medium.com/p/7e0a40d1475f) |
 | Sun, 18 Jan 2026 06:19:36 GMT | The Windows Security Journey — SID History | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/43196e912c0d) |
 | Sun, 18 Jan 2026 06:12:28 GMT | Static Malware Analysis: How to Peek Inside Malware Without Running It | Paritosh | [Read More](https://medium.com/p/c9cd2d603762) |
 | Sun, 18 Jan 2026 06:10:48 GMT | Root Me(XSS Stored 1) | Zon-Salon | [Read More](https://medium.com/p/fbdc6186cfd7) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 17:55:00 GMT | Lessons From A Cleared Cybersecurity Internship at NWIC Pacific | Tyreek Haynes | [Read More](https://medium.com/p/98c9541c7e7a) |
 | Sat, 17 Jan 2026 17:53:59 GMT | Your Cosmic Conspirator | muuunniverse. | [Read More](https://medium.com/p/0b7efe6e99b4) |
 | Sat, 17 Jan 2026 17:52:32 GMT | Exploiting SSRF in OopsSec Store to Access Internal Pages | OopsSec Store | [Read More](https://medium.com/p/3f1b6d2163c6) |
-| Sat, 17 Jan 2026 17:51:02 GMT | Lab: SQL injection UNION attack, determining the number of columns returned by the query | Songül Kızılay Özügürler | [Read More](https://medium.com/p/8eaf99659788) |
-| Sat, 17 Jan 2026 17:49:16 GMT | ️ Your Digital Shield: How NordVPN Protects You | Genelia | [Read More](https://medium.com/p/60ec3de79566) |
-| Sat, 17 Jan 2026 17:42:35 GMT | How a Base64 Image API Turned a Trusted Cloud Bucket into an Attacker’s CDN | Supun Halangoda (Suppa) | [Read More](https://medium.com/p/aa1470de09c0) |
-| Sat, 17 Jan 2026 17:40:20 GMT | [AD攻防] Kerberoasting 攻擊 | 陳禹璿 | [Read More](https://medium.com/p/7e483c377093) |
-| Sat, 17 Jan 2026 17:39:04 GMT | The Ghost in the Machine: How to Breach Any Online Python IDE | SilentExploit | [Read More](https://medium.com/p/bfef1b454dbd) |
