@@ -12,9 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 20:28:02 GMT | Lab: Reflected XSS into HTML context with nothing encoded | Mylescorey | [Read More](https://medium.com/p/ec6b3cac0fa5) |
 | Sun, 18 Jan 2026 20:20:47 GMT | Breaking and Finding Vulnerabilities: My Cybersecurity Capstone Project | Maria Sagwa | [Read More](https://medium.com/p/aeb22606c988) |
+| Sun, 18 Jan 2026 20:18:11 GMT | Attackers Don’t Break In… They Log In | Taf Muko | [Read More](https://medium.com/p/8623fb7cf411) |
 | Sun, 18 Jan 2026 20:15:40 GMT | ️ DNS Data Exfiltration: Silently Bypassing Firewalls | Esra Kayhan | [Read More](https://medium.com/p/bc30df332685) |
 | Sun, 18 Jan 2026 20:13:55 GMT | My favorite mobile game is Puzzle. | Megersa Siraj Omer | [Read More](https://medium.com/p/62ae9eddb993) |
+| Sun, 18 Jan 2026 20:09:31 GMT | NIS2, DORA, AI Act : arrêtez l’attentisme, unifiez vos contrôles | Anthony Vandepeutte - Noctu@edu | [Read More](https://medium.com/p/1f9b2b18daf5) |
 | Sun, 18 Jan 2026 20:00:53 GMT | Web Pentesting 101: Documenting a Successful Stored XSS Attack Chain | Attah Sosah | [Read More](https://medium.com/p/690b1d8c92ef) |
 | Sun, 18 Jan 2026 19:56:27 GMT | Web Application Firewall Detection — WAFW00F | mohandika | [Read More](https://medium.com/p/aa4245b211bc) |
 | Sun, 18 Jan 2026 19:49:33 GMT | Real-Time GPS & Activity Monitoring in Security Management: 2026 Guide | Teona | [Read More](https://medium.com/p/ca802b425fb1) |
@@ -23,6 +26,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 Jan 2026 19:43:44 GMT | Bounty Hacker Walkthrough | Abdelrabo%00 | [Read More](https://medium.com/p/92c1ab955c23) |
 | Sun, 18 Jan 2026 19:37:52 GMT | An Introduction to EDR: | Ahmad Khaled | [Read More](https://medium.com/p/9fd7cade736c) |
 | Sun, 18 Jan 2026 19:31:01 GMT | How to install Ubuntu 24.04 LTS in VirtualBox 2026 | Bob Malin | [Read More](https://medium.com/p/e23244b8d5ba) |
+| Sun, 18 Jan 2026 19:25:58 GMT | Hackers Don’t Break In Anymore | Mughira Ahmed | [Read More](https://medium.com/p/b3b763ef3343) |
 | Sun, 18 Jan 2026 19:16:54 GMT | I Build Systems That Can Be Researched, Governed, Manufactured, and Trusted | Faisal Asif | [Read More](https://medium.com/p/c65d5a6740e1) |
 | Sun, 18 Jan 2026 19:10:49 GMT | A letter to Vulnerability | Latoria | [Read More](https://medium.com/p/8fd87e3e23f0) |
 | Sun, 18 Jan 2026 19:01:59 GMT | Anti-Exploit | Iram Jack | [Read More](https://medium.com/p/b5548e51ea18) |
@@ -34,6 +38,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 Jan 2026 18:31:08 GMT | Takeover CTF | Rue | [Read More](https://medium.com/p/e768d5631810) |
 | Sun, 18 Jan 2026 18:24:09 GMT | Building a Zero-Knowledge Authentication System in Go (Without Ever Sending Passwords) | Md. Mehedi Hasan | [Read More](https://medium.com/p/358c21279cee) |
 | Sun, 18 Jan 2026 18:21:13 GMT | Sécuriser nos clusters Kubernetes on-premise | Thibault Buze | [Read More](https://medium.com/p/8418e1940388) |
+| Sun, 18 Jan 2026 18:19:03 GMT | [Writeup] Proving Grounds: Pyloader (Linux) | Bassey Ekemini E | [Read More](https://medium.com/p/d159e1d0d99c) |
 | Sun, 18 Jan 2026 18:18:09 GMT | A Single Image Triggered the Greatest Mystery in Internet History — And No One Ever Solved It | Nazrul Islam Rana | [Read More](https://medium.com/p/ce47e39631d5) |
 | Sun, 18 Jan 2026 18:14:32 GMT | 10 Conversations Defining the Future of AI, Cyber, and Conflict | Chris Kubecka de Medina | [Read More](https://medium.com/p/93e4ba5cc662) |
 | Sun, 18 Jan 2026 18:11:21 GMT | The Two-Layer Approach to AI Observability: Why Application + Network Monitoring Isn’t Optional… | Gorisariaabhishek | [Read More](https://medium.com/p/aee63183c539) |
@@ -108,8 +113,3 @@ For years, cybersecurity… | Ankit rai | [Read More](https://medium.com/p/d9678
 | Sun, 18 Jan 2026 12:49:16 GMT | Загальні терміни та програми в пентестингу | Fl4g Hunt3r Project | [Read More](https://medium.com/p/83f27156e6a9) |
 | Sun, 18 Jan 2026 12:44:03 GMT | Quick Cloudflare hardening tip for anyone running Linux + UFW | Blake Welsh | [Read More](https://medium.com/p/7e53771409a0) |
 | Sun, 18 Jan 2026 12:39:16 GMT | Best AI & Machine Learning Courses in India | Manisha Chaudhary | [Read More](https://medium.com/p/332911600cfc) |
-| Sun, 18 Jan 2026 12:30:40 GMT | JWT Header Parameters Injections - jwk - jku- Kid | Amrsmooke | [Read More](https://medium.com/p/0ab5c80a711e) |
-| Sun, 18 Jan 2026 12:29:52 GMT | Kubernetes Security Best Practices 2026: Beyond the Basics | Krishna Fattepurkar | [Read More](https://medium.com/p/cfe93639a328) |
-| Sun, 18 Jan 2026 12:25:50 GMT | AI Pentesting Methodology for Beginners (Part I) | Rahul Singh Chauhan | [Read More](https://medium.com/p/797d5854a687) |
-| Sun, 18 Jan 2026 12:20:41 GMT | CSP (Content Security Policy): The XSS Kill Switch | Krishnabokefod | [Read More](https://medium.com/p/3fbc92eb8bcc) |
-| Sun, 18 Jan 2026 12:16:06 GMT | Basic Kali Linux Commands for Ethical Hacking (Part -5) | Akhil Thakur | [Read More](https://medium.com/p/84662149c7e6) |
