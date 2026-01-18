@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 05:09:42 GMT | Why Ransomware Demands Your Attention | Digital Duffer | [Read More](https://medium.com/p/1346b65da552) |
+| Sun, 18 Jan 2026 05:07:36 GMT | What is Ransomware in Cybersecurity | Digital Duffer | [Read More](https://medium.com/p/92168611c98a) |
+| Sun, 18 Jan 2026 05:05:43 GMT | Handshakes in the Dark | Amit Tomar | [Read More](https://medium.com/p/c4d15d917d79) |
+| Sun, 18 Jan 2026 05:04:27 GMT | Building an AI Security Tool with Claude: A 4-Layer Defense Against Prompt Injection | Ali Serdar Çarlı | [Read More](https://medium.com/p/a64a9e2fac68) |
+| Sun, 18 Jan 2026 05:02:05 GMT | Hello my name is… (Part 3) | Kurb4n | [Read More](https://medium.com/p/a7bb4ff50f7b) |
+| Sun, 18 Jan 2026 04:53:35 GMT | I Reverse-Engineered the ‘Free Movie App’ I Used for 2 Years. The Results Were Terrifying | Pinki Singh | [Read More](https://medium.com/p/98796cef6837) |
+| Sun, 18 Jan 2026 04:40:41 GMT | Strip Tease | Su ☆ | [Read More](https://medium.com/p/e069e136104a) |
 | Sun, 18 Jan 2026 04:32:47 GMT | OverTheWire Bandit (Day 16): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/536318e90ce5) |
 | Sun, 18 Jan 2026 04:32:13 GMT | “Sir, This Is the Income Tax Department. You Are Under Digital Arrest.” | H R SHAH | [Read More](https://medium.com/p/a5c9390cc119) |
+| Sun, 18 Jan 2026 04:32:10 GMT | 5 Lessons From Protocols That Came Back Stronger | Velorum | [Read More](https://medium.com/p/7d31d810a29c) |
 | Sun, 18 Jan 2026 04:31:02 GMT | Hello World | Brad | [Read More](https://medium.com/p/4c075fdc7f2a) |
 | Sun, 18 Jan 2026 04:12:03 GMT | I Wore Concealer to Hide Boxing | Pugil.Writes | [Read More](https://medium.com/p/3b03a415587b) |
 | Sun, 18 Jan 2026 04:06:43 GMT | Understanding Phishing: What It Is and Why It Matters | Md. Abrar Shahriar | [Read More](https://medium.com/p/d9ac7a59a1f2) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 17:17:55 GMT | GSEC Yolculuğu #4: Trafiğin Mimarları — TCP, UDP ve Portlar | Ata Erdemir | [Read More](https://medium.com/p/d75775a12f61) |
 | Sat, 17 Jan 2026 17:15:52 GMT | Why Security Controls Fail Before an Attacker Even Tries | Tyreek Haynes | [Read More](https://medium.com/p/858050451cb8) |
 | Sat, 17 Jan 2026 17:07:01 GMT | Entity Framework：程式與資料庫之間的翻譯官 | 思維舞步 MindSteps | [Read More](https://medium.com/p/f0a2b6b278ef) |
-| Sat, 17 Jan 2026 16:57:31 GMT | What I Found While Analyzing a Fake Banking App | Adwaith S | [Read More](https://medium.com/p/7b495558c7ff) |
-| Sat, 17 Jan 2026 16:54:12 GMT | Master API Security: I Built a Vulnerable Lab for Beginners (VulnShop) | Sreejihkn | [Read More](https://medium.com/p/3c4ec0bc0da0) |
-| Sat, 17 Jan 2026 16:47:09 GMT | CTF — Basic Pentesting | Marduk I Am | [Read More](https://medium.com/p/2d3d56aaeb52) |
-| Sat, 17 Jan 2026 16:28:04 GMT | LetsDefend: SOC138 — Detected Suspicious Xls File — EventID: 77 - Walkthrough | Beatriz Gomes | [Read More](https://medium.com/p/daefe5f7580e) |
-| Sat, 17 Jan 2026 16:27:31 GMT | Reverse-Engineering Anomalous Effects: The Dual-Use Risks of Comms Infrastructure. | NT | [Read More](https://medium.com/p/0430920ba2df) |
-| Sat, 17 Jan 2026 16:25:49 GMT | Cyber Law, Ethical Hacking and Penetration Testing | Nukhbasoomro | [Read More](https://medium.com/p/15a061db8cd8) |
-| Sat, 17 Jan 2026 16:24:26 GMT | A fresh start | On The Edge | [Read More](https://medium.com/p/a810a8c4f778) |
-| Sat, 17 Jan 2026 16:21:14 GMT | Practical Roadmap for Learning File Upload Vulnerabilities | Daniel Hammoud | [Read More](https://medium.com/p/ff2bf04db0df) |
