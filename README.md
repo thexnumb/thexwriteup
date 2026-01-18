@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 23:26:20 GMT | Android Security in the Age of Jetpack Compose: From Task Hijacking to Tapjacking | Roman Speranskii | [Read More](https://medium.com/p/edbbc78be943) |
 | Sun, 18 Jan 2026 23:11:49 GMT | Beyond the Noise: Why I Built VedicRecon (and Why Reconnaissance Needs to Change) | Vedic_error | [Read More](https://medium.com/p/e7d5cb307430) |
 | Sun, 18 Jan 2026 22:49:52 GMT | Understanding Android Developer Verification | Kayvan Kaseb | [Read More](https://medium.com/p/e918deaa281e) |
 | Sun, 18 Jan 2026 22:24:02 GMT | Why Hiring a Security Company in Houston Is a Smart Move | Evan Raahil | [Read More](https://medium.com/p/659ba69a6966) |
@@ -112,4 +113,3 @@ For years, cybersecurity… | Ankit rai | [Read More](https://medium.com/p/d9678
 | Sun, 18 Jan 2026 14:44:12 GMT | How I Fixed a Stuck Security Onion Without Reinstalling | Ib2dk | [Read More](https://medium.com/p/bba957415bea) |
 | Sun, 18 Jan 2026 14:37:01 GMT | HackTheBox — Wonky AES | SPIDER1SEC | [Read More](https://medium.com/p/1c94e0f94666) |
 | Sun, 18 Jan 2026 14:32:26 GMT | Detecting Suspicious Activities Using Wireshark: A Comprehensive Guide | Vignesh R | [Read More](https://medium.com/p/16ac55ab8159) |
-| Sun, 18 Jan 2026 14:24:14 GMT | SOC Workflow Explained: How Cyber Attacks Are Detected and Stopped | Abhinsubej | [Read More](https://medium.com/p/c20ba8f34fee) |
