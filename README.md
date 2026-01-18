@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 13:45:46 GMT | Safewallet javascript compromise analysis on Bybit multisig attack | 0xundef | [Read More](https://medium.com/p/f142b4bab109) |
+| Sun, 18 Jan 2026 13:41:15 GMT | Struggles of Bug Bounty | CosmicByte | [Read More](https://medium.com/p/2ea53f5854b5) |
+| Sun, 18 Jan 2026 13:40:31 GMT | BankGPT — TryHackMe - Shiv Kumar - Medium | Shiv Kumar | [Read More](https://medium.com/p/540fe438f227) |
+| Sun, 18 Jan 2026 13:30:58 GMT | Raster.finance Review: High-Yield Revolution or Sophisticated Crypto Scam? | TheDigitalGuard | [Read More](https://medium.com/p/8e35a855710b) |
+| Sun, 18 Jan 2026 13:28:05 GMT | Erebus RAT Native C++: Technical Analysis & Architecture Review | Nemessagod | [Read More](https://medium.com/p/1a83bb59fd2d) |
+| Sun, 18 Jan 2026 13:23:30 GMT | If Knowing Is Part of Self-Awareness | AfterRainWrites | [Read More](https://medium.com/p/3240321485dd) |
+| Sun, 18 Jan 2026 13:17:04 GMT | AresGPT & AthenaGPT: Rise of Strategic AI Agents | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/80e3c3639aef) |
 | Sun, 18 Jan 2026 13:14:30 GMT | Why Thrillers Explain Geopolitics Better Than Cable News, and Where Did We Go Wrong? | Money, Geopolitics & Oil | [Read More](https://medium.com/p/ea3f906dae7b) |
 | Sun, 18 Jan 2026 13:14:25 GMT | The Risk of Vulnerability (and the Risk of Avoiding It) | Suzanne Butler | [Read More](https://medium.com/p/415f085d0a07) |
 | Sun, 18 Jan 2026 13:10:07 GMT | Scaling Enterprise Security Reviews with AI: From Architecture to Pull Requests | Srinivasan Chinnachamy | [Read More](https://medium.com/p/9a6ff064b626) |
@@ -106,10 +113,3 @@ Life is an intricate tapestry woven from countless… | Umarfaruq | [Read More](
 | Sun, 18 Jan 2026 04:06:43 GMT | Understanding Phishing: What It Is and Why It Matters | Md. Abrar Shahriar | [Read More](https://medium.com/p/d9ac7a59a1f2) |
 | Sun, 18 Jan 2026 03:59:23 GMT | Beyond the Network: Cracking the Application and the Human Firewall | Keith Gabriel | [Read More](https://medium.com/p/6976686bd1b4) |
 | Sun, 18 Jan 2026 03:49:54 GMT | Speaking in Binary — Packet Crafting & Manipulation with Scapy | KOJO | [Read More](https://medium.com/p/290130813dc4) |
-| Sun, 18 Jan 2026 03:49:25 GMT | WAFs Made Simple: Why They Can’t Block Everything (And How They Really Work) | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/0a1d689f5590) |
-| Sun, 18 Jan 2026 03:47:40 GMT | Digital Cartography — Mapping the Attack Surface with Nmap | KOJO | [Read More](https://medium.com/p/de83988093a3) |
-| Sun, 18 Jan 2026 03:37:50 GMT | 7 pillars of Cybersecurity : CIA vs IAAA | JH Ko | [Read More](https://medium.com/p/76338ec164d2) |
-| Sun, 18 Jan 2026 03:31:59 GMT | When Encryption Isn’t the End of Privacy: A Look at WhatsApp Metadata | Deven Chhajed | [Read More](https://medium.com/p/76fb6e4d9299) |
-| Sun, 18 Jan 2026 03:26:57 GMT | Information Warfare as a Tool of Modern Conflicts | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/0c7d4b021c23) |
-| Sun, 18 Jan 2026 03:09:58 GMT | Cyberwarfare and the Capture of Nicolás Maduro | Nina Baksh | [Read More](https://medium.com/p/e8cde7c97964) |
-| Sun, 18 Jan 2026 02:47:18 GMT | 潛伏在便利背後的大手：阿里巴巴「千問 App」代理式 AI (Agentic AI) 的深度剖析 | p1x06u9 | [Read More](https://medium.com/p/5368af8d802f) |
