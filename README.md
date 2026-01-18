@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 21:15:25 GMT | Schneider’s Unlocked Keypad: Giving the Lua Shell a Warm Welcome | hacker_might | [Read More](https://medium.com/p/15788b2404f7) |
+| Sun, 18 Jan 2026 21:08:00 GMT | The Hacking Tool Chronicles: Dirb | z3r0trust | [Read More](https://medium.com/p/c4a8112604a4) |
+| Sun, 18 Jan 2026 21:06:05 GMT | Dynamic & Static Analysis Android: Praktik Mobile Pentest Menggunakan MobSF, Frida, dan Objection | Nanda Cahya Septiawan | [Read More](https://medium.com/p/41ed320a3cc7) |
+| Sun, 18 Jan 2026 20:57:00 GMT | Secure Kubernetes Deployment Guide (Self-Managed) — Part V | SOCFortress | [Read More](https://medium.com/p/3b2b26468ff5) |
+| Sun, 18 Jan 2026 20:54:13 GMT | CISSP Domain 6: Security Assessment and Testing - PART 2 | Pushpak Sharma | [Read More](https://medium.com/p/4173cc642cbc) |
+| Sun, 18 Jan 2026 20:35:06 GMT | Operando un Exit Node de Tor durante un año: observaciones técnicas desde el borde de la red | Nahum Deavila | [Read More](https://medium.com/p/ec27f9356b2f) |
 | Sun, 18 Jan 2026 20:28:02 GMT | Lab: Reflected XSS into HTML context with nothing encoded | Mylescorey | [Read More](https://medium.com/p/ec6b3cac0fa5) |
 | Sun, 18 Jan 2026 20:20:47 GMT | Breaking and Finding Vulnerabilities: My Cybersecurity Capstone Project | Maria Sagwa | [Read More](https://medium.com/p/aeb22606c988) |
 | Sun, 18 Jan 2026 20:18:11 GMT | Attackers Don’t Break In… They Log In | Taf Muko | [Read More](https://medium.com/p/8623fb7cf411) |
@@ -107,9 +113,3 @@ For years, cybersecurity… | Ankit rai | [Read More](https://medium.com/p/d9678
 | Sun, 18 Jan 2026 13:14:30 GMT | Why Thrillers Explain Geopolitics Better Than Cable News, and Where Did We Go Wrong? | Money, Geopolitics & Oil | [Read More](https://medium.com/p/ea3f906dae7b) |
 | Sun, 18 Jan 2026 13:14:25 GMT | The Risk of Vulnerability (and the Risk of Avoiding It) | Suzanne Butler | [Read More](https://medium.com/p/415f085d0a07) |
 | Sun, 18 Jan 2026 13:10:07 GMT | Scaling Enterprise Security Reviews with AI: From Architecture to Pull Requests | Srinivasan Chinnachamy | [Read More](https://medium.com/p/9a6ff064b626) |
-| Sun, 18 Jan 2026 12:57:53 GMT | 16TB 資料外洩與 50 家企業的噩夢：Zestix 憑證濫用與 EFSS 雲端防禦全解構 | p1x06u9 | [Read More](https://medium.com/p/34da107d9408) |
-| Sun, 18 Jan 2026 12:55:12 GMT | The Kubernetes Attack That Security Tools Missed | Jonathan Kaftzan | [Read More](https://medium.com/p/be2c0ca65025) |
-| Sun, 18 Jan 2026 12:49:57 GMT | Zafiyet Tarama aracı Nessus | Azat Dicle | [Read More](https://medium.com/p/90b1ed678364) |
-| Sun, 18 Jan 2026 12:49:16 GMT | Загальні терміни та програми в пентестингу | Fl4g Hunt3r Project | [Read More](https://medium.com/p/83f27156e6a9) |
-| Sun, 18 Jan 2026 12:44:03 GMT | Quick Cloudflare hardening tip for anyone running Linux + UFW | Blake Welsh | [Read More](https://medium.com/p/7e53771409a0) |
-| Sun, 18 Jan 2026 12:39:16 GMT | Best AI & Machine Learning Courses in India | Manisha Chaudhary | [Read More](https://medium.com/p/332911600cfc) |
