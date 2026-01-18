@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 22:16:16 GMT | Phishing Simulator | Aaronashley | [Read More](https://medium.com/p/0a147c5b8f13) |
+| Sun, 18 Jan 2026 22:07:40 GMT | Design and Implementation of a Scalable and Secure Enterprise Network | Blessing-Igboanusi | [Read More](https://medium.com/p/0fb1633097b5) |
+| Sun, 18 Jan 2026 22:01:29 GMT | Hardware Hacking Attacks That Start at the Silicon Level | Bervice | [Read More](https://medium.com/p/41d1608ca36a) |
+| Sun, 18 Jan 2026 21:52:51 GMT | Inter Process Communication with RPC | S12 - 0x12Dark Development | [Read More](https://medium.com/p/2addfaa57a24) |
+| Sun, 18 Jan 2026 21:44:19 GMT | How My Mother’s Nagging Turned Into an Accidental Malware & Forensics Case | Aviral | [Read More](https://medium.com/p/0957c760d8ac) |
+| Sun, 18 Jan 2026 21:41:44 GMT | Attack and Defense. A Brief Human History, from Stones to AI | Alessandro Bruschieri | [Read More](https://medium.com/p/a7cdb78e11c5) |
 | Sun, 18 Jan 2026 21:37:38 GMT | Metasploit দিয়ে এক্সপ্লয়টিং: সিকিউরিটি অ্যানালিস্টদের জন্য সহজ গাইড | SecurityMindPro | [Read More](https://medium.com/p/b31d46ef1be1) |
+| Sun, 18 Jan 2026 21:36:41 GMT | ওয়েব অ্যাপ্লিকেশন পেনটেস্টিংয়ে রিকন টুলসের ব্যবহার: একটি পূর্ণাঙ্গ গাইড | SecurityMindPro | [Read More](https://medium.com/p/4074030c6ba5) |
 | Sun, 18 Jan 2026 21:35:48 GMT | Understanding The Rising Threat of Supply Chain Attacks in Artificial Intelligence | Will Giles - Cybersecurity | [Read More](https://medium.com/p/b74a653a7a5b) |
 | Sun, 18 Jan 2026 21:35:34 GMT | Burp Suite Basics: A Beginner-Friendly Guide | Satyam Pathania | [Read More](https://medium.com/p/961711c32c1a) |
 | Sun, 18 Jan 2026 21:27:01 GMT | “Relevant” ctf - TryHackMe- Complete detailed walkthrough- (Token Impersonation, PrintSpoofer.exe, | Nishchay Manhas | [Read More](https://medium.com/p/3dd386f8889d) |
@@ -106,10 +113,3 @@ For years, cybersecurity… | Ankit rai | [Read More](https://medium.com/p/d9678
 | Sun, 18 Jan 2026 14:05:50 GMT | What If Anyone Could Sign Legal Documents Using Your Email Address? | 0xMoussa | [Read More](https://medium.com/p/5377628abc0f) |
 | Sun, 18 Jan 2026 14:02:05 GMT | Password Reset Token Misconfiguration Leading to Pre-Account Takeover and Account Deletion | 0xMo7areb | [Read More](https://medium.com/p/8f344cb0e9d6) |
 | Sun, 18 Jan 2026 13:59:38 GMT | Cyborg — THM Writeups | Alts | [Read More](https://medium.com/p/0d38c32ef8b7) |
-| Sun, 18 Jan 2026 13:59:12 GMT | Understanding AWS Security | Haitham Mamdouh | [Read More](https://medium.com/p/3afa3c11abf2) |
-| Sun, 18 Jan 2026 13:52:37 GMT | I Explored an Open-Source Repo and Accidentally Found the Future of Security Automation | Samuelrt | [Read More](https://medium.com/p/a54377f2e2c1) |
-| Sun, 18 Jan 2026 13:51:59 GMT | Certificate Authorities Explained: Why the Internet Trusts Them | Suraj Bhandari | [Read More](https://medium.com/p/2200ad28b809) |
-| Sun, 18 Jan 2026 13:45:46 GMT | Safewallet javascript compromise analysis on Bybit multisig attack | 0xundef | [Read More](https://medium.com/p/f142b4bab109) |
-| Sun, 18 Jan 2026 13:41:15 GMT | Struggles of Bug Bounty | CosmicByte | [Read More](https://medium.com/p/2ea53f5854b5) |
-| Sun, 18 Jan 2026 13:40:31 GMT | BankGPT — TryHackMe - Shiv Kumar - Medium | Shiv Kumar | [Read More](https://medium.com/p/540fe438f227) |
-| Sun, 18 Jan 2026 13:37:50 GMT | Phishing 101: A URL Can Be a Trap? | Angela Oryza | [Read More](https://medium.com/p/a946248f2578) |
