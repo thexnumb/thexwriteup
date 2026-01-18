@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 11:28:35 GMT | FROM PHYSICAL TO APPLICATION: UNDERSTANDING THE OSI MODEL | frosang Tamang | [Read More](https://medium.com/p/976ed077dea7) |
+| Sun, 18 Jan 2026 11:21:37 GMT | The Ultimate OSI Model Troubleshooting Cheat Sheet | Very Lazy Tech | [Read More](https://medium.com/p/3a0222f39d0b) |
+| Sun, 18 Jan 2026 11:18:38 GMT | Unrestricted File Upload Leads to Stored XSS, SSRF, and Phishing | Indrajeet | [Read More](https://medium.com/p/08e14c6e6907) |
+| Sun, 18 Jan 2026 11:09:51 GMT | TryHackMe - Offensive Security Intro - WriteUp | Axoloth | [Read More](https://medium.com/p/e45a6dfd265a) |
+| Sun, 18 Jan 2026 11:08:25 GMT | Breaking Order Privacy with IDOR in OopsSec Store | OopsSec Store | [Read More](https://medium.com/p/9f479f9354fb) |
 | Sun, 18 Jan 2026 10:58:06 GMT | Digital Infrastructure Audit: The LongAsia Domain and Data Consistency | Certification Flow Laboratories | [Read More](https://medium.com/p/00dcc53a0d70) |
 | Sun, 18 Jan 2026 10:53:30 GMT | Linux File Permissions & chmod — Explained in a Simple Human Way | Shadow Attackers | [Read More](https://medium.com/p/6f2c9511070a) |
 | Sun, 18 Jan 2026 10:45:48 GMT | Is ChatGPT AI or Machine Learning? | cyber security Updates | [Read More](https://medium.com/p/fa112c59d4d6) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 23:10:11 GMT | The Zero Trust Dev Environment: No More Secrets in Your .env Files! | Georg Nelles | [Read More](https://medium.com/p/532ee8eddeeb) |
 | Sat, 17 Jan 2026 23:08:04 GMT | Password Managers for Seniors: Why You Need One (And How to Set It Up in 10 Minutes) | Carson Pietruszynski | [Read More](https://medium.com/p/5722a4e6c7e6) |
 | Sat, 17 Jan 2026 23:05:30 GMT | Why the #1 Vulnerability Isn’t About Hacking, It’s About Walking Through Open Doors | Wnellygrace | [Read More](https://medium.com/p/f1081785b951) |
-| Sat, 17 Jan 2026 23:03:18 GMT | Nested Comment Bypass file upload | Muhammad Syahrul Haniawan | [Read More](https://medium.com/p/a0878f7a9aaf) |
-| Sat, 17 Jan 2026 23:02:05 GMT | Why Companionship Scares Some People (As Much As Loneliness Does to Others) | Yllin | [Read More](https://medium.com/p/14b0fa7804db) |
-| Sat, 17 Jan 2026 22:46:13 GMT | Neural Ransomware Isn’t Science Fiction | Kevin | [Read More](https://medium.com/p/e3f9efe4ffb1) |
-| Sat, 17 Jan 2026 22:44:56 GMT | Cloud Forensics: How to Secure Digital Evidence in the Cloud | Venedix Systems, Berlin | [Read More](https://medium.com/p/c98869de031e) |
-| Sat, 17 Jan 2026 21:32:54 GMT | The Scam That Almost Got Me at 70 — And How I Fought Back | gershblumstein | [Read More](https://medium.com/p/821a1b82af33) |
