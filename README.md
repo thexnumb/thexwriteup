@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 15:02:30 GMT | Shadow AI and API Vulnerabilities: The Invisible Wound of Modern Enterprises | Emir Yusuf Nural | [Read More](https://medium.com/p/c6745771b980) |
+| Sun, 18 Jan 2026 14:57:59 GMT | Wachtwoord: 12345 (column) | Johan van de Beek (DjoeGio's Marginalia) | [Read More](https://medium.com/p/09fe2fd2dc4e) |
+| Sun, 18 Jan 2026 14:56:40 GMT | Firewalls & Segmentation: Building Digital Walls That Actually Work | Satyam Singh | [Read More](https://medium.com/p/457ec70fb6a2) |
+| Sun, 18 Jan 2026 14:51:42 GMT | Listening to Light- The Complete Engineering Guide to Laser Acoustic Surveillance Technology | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/14a19b7f34e6) |
+| Sun, 18 Jan 2026 14:50:54 GMT | The Guts to Call it Weak | Unwritten Waves | [Read More](https://medium.com/p/60b3bd5cd65b) |
+| Sun, 18 Jan 2026 14:44:12 GMT | How I Fixed a Stuck Security Onion Without Reinstalling | Ib2dk | [Read More](https://medium.com/p/bba957415bea) |
+| Sun, 18 Jan 2026 14:37:01 GMT | HackTheBox — Wonky AES | SPIDER1SEC | [Read More](https://medium.com/p/1c94e0f94666) |
 | Sun, 18 Jan 2026 14:32:26 GMT | Detecting Suspicious Activities Using Wireshark: A Comprehensive Guide | Vignesh R | [Read More](https://medium.com/p/16ac55ab8159) |
 | Sun, 18 Jan 2026 14:24:14 GMT | SOC Workflow Explained: How Cyber Attacks Are Detected and Stopped | Abhinsubej | [Read More](https://medium.com/p/c20ba8f34fee) |
 | Sun, 18 Jan 2026 14:06:01 GMT | 17.5 Million Accounts Compromised via Instagram Data Breach | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/37f506d21859) |
@@ -106,10 +113,3 @@ Life is an intricate tapestry woven from countless… | Umarfaruq | [Read More](
 | Sun, 18 Jan 2026 06:10:48 GMT | Root Me(XSS Stored 1) | Zon-Salon | [Read More](https://medium.com/p/fbdc6186cfd7) |
 | Sun, 18 Jan 2026 06:07:35 GMT | Root Me — XSS Stored 1 | LiGhTZod | [Read More](https://medium.com/p/d308be1ad04f) |
 | Sun, 18 Jan 2026 05:58:52 GMT | Why Input Validation Fails in Real-World Applications | Raj K | [Read More](https://medium.com/p/cb5614c08c90) |
-| Sun, 18 Jan 2026 05:51:54 GMT | Accounts for Everything | G H | [Read More](https://medium.com/p/83060fdecbfd) |
-| Sun, 18 Jan 2026 05:46:26 GMT | From Java to Python: A Developer’s Journey | Ranjithu | [Read More](https://medium.com/p/c47c2fed8e94) |
-| Sun, 18 Jan 2026 05:09:42 GMT | Why Ransomware Demands Your Attention | Digital Duffer | [Read More](https://medium.com/p/1346b65da552) |
-| Sun, 18 Jan 2026 05:07:36 GMT | What is Ransomware in Cybersecurity | Digital Duffer | [Read More](https://medium.com/p/92168611c98a) |
-| Sun, 18 Jan 2026 05:05:43 GMT | Handshakes in the Dark | Amit Tomar | [Read More](https://medium.com/p/c4d15d917d79) |
-| Sun, 18 Jan 2026 05:04:27 GMT | Building an AI Security Tool with Claude: A 4-Layer Defense Against Prompt Injection | Ali Serdar Çarlı | [Read More](https://medium.com/p/a64a9e2fac68) |
-| Sun, 18 Jan 2026 05:02:05 GMT | Hello my name is… (Part 3) | Kurb4n | [Read More](https://medium.com/p/a7bb4ff50f7b) |
