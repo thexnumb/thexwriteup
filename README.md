@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 10:31:56 GMT | Crypto Wallet Security (2026 Guide): How to Stop Scams and Protect Your Assets | Aquads.xyz | [Read More](https://medium.com/p/aeca5831a6af) |
+| Sun, 18 Jan 2026 10:23:19 GMT | The Untold Story of Russian Hacking | Hiren Rathod | [Read More](https://medium.com/p/88e812e097a1) |
+| Sun, 18 Jan 2026 10:22:54 GMT | 2026’s New Stack: Decentralized AI, Regulated Crypto, and the Death of “Just Vibes” | ABV | [Read More](https://medium.com/p/a9189508ca20) |
 | Sun, 18 Jan 2026 10:17:56 GMT | How Darkweb Vendor Trust Actually Forms | Tor BBB | [Read More](https://medium.com/p/18626231704e) |
+| Sun, 18 Jan 2026 10:16:58 GMT | Why Young People Act Nonchalant in Relationships (Modern Dating Explained) | Ahmaky Love | [Read More](https://medium.com/p/360dadc5a060) |
 | Sun, 18 Jan 2026 10:14:00 GMT | Online safety Tips for students | Cyberwithswe | [Read More](https://medium.com/p/76c8d098d07b) |
 | Sun, 18 Jan 2026 10:04:08 GMT | ASP.NET MVC Bad Practices: Model With Required Non-Nullable Property — Part 7 | Okan Yurt | [Read More](https://medium.com/p/047cc23072e1) |
 | Sun, 18 Jan 2026 09:38:15 GMT | How To Hire A Hacker To Change Your University Grades | Darksynthhacker | [Read More](https://medium.com/p/7b9d33886c17) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 17 Jan 2026 20:46:45 GMT | Whispered Fears | L.A. | [Read More](https://medium.com/p/18fe13096482) |
 | Sat, 17 Jan 2026 20:39:22 GMT | Learning About Invertebrates and Food | Abhik Chowdhury | [Read More](https://medium.com/p/b0c2000305ee) |
 | Sat, 17 Jan 2026 20:26:14 GMT | Hidden in the Source: Discovering Reflected XSS via Manual Code Review | Samet Yiğit | [Read More](https://medium.com/p/c2a697d9d8c1) |
-| Sat, 17 Jan 2026 20:25:10 GMT | The Double Life of Your JPEGs: Privacy Leaks and Hidden Payloads | Xiao Paw | [Read More](https://medium.com/p/cda20970108b) |
-| Sat, 17 Jan 2026 20:23:49 GMT | Your Kenmore Washer Is Not Dead. It Just Needs a Proper Reset | Techelectroniclive | [Read More](https://medium.com/p/9700a9956685) |
-| Sat, 17 Jan 2026 20:20:25 GMT | When Your AI Negotiates Against You | Valdez Ladd | [Read More](https://medium.com/p/3e3ef6f07d2f) |
-| Sat, 17 Jan 2026 20:01:22 GMT | Stop Idle Overload And Restore A Quiet Reliable Windows PC! | Geoffrey Wenger | [Read More](https://medium.com/p/02a55c0c333b) |
