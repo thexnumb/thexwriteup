@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 17:33:54 GMT | Starting Your Bug Bounty Journey: Tips for Beginners | Nayan Ghimire | [Read More](https://medium.com/p/88a41eab150c) |
+| Sun, 18 Jan 2026 17:27:09 GMT | Сканування сервісів з nmap | Fl4g Hunt3r Project | [Read More](https://medium.com/p/6f38307ee8ca) |
+| Sun, 18 Jan 2026 17:16:14 GMT | The Future of African Leadership Is Digital & Security Is Governance | Tim Murkomen | [Read More](https://medium.com/p/60bf21acda02) |
 | Sun, 18 Jan 2026 17:05:23 GMT | Report Writing | Allen Ace | [Read More](https://medium.com/p/d96c96d2e42d) |
 | Sun, 18 Jan 2026 17:05:12 GMT | Why the US and Europe Are Shifting Back to Offline Hacking & Cybersecurity
 For years, cybersecurity… | Ankit rai | [Read More](https://medium.com/p/d96782d5d3a9) |
@@ -111,6 +114,3 @@ Life is an intricate tapestry woven from countless… | Umarfaruq | [Read More](
 | Sun, 18 Jan 2026 09:38:15 GMT | How To Hire A Hacker To Change Your University Grades | Darksynthhacker | [Read More](https://medium.com/p/7b9d33886c17) |
 | Sun, 18 Jan 2026 09:34:55 GMT | [HackSmarter.org Write-up] Anomaly (Jenkins, Keytab, ADCS ESC1) | Chicken0248 | [Read More](https://medium.com/p/fe852c632435) |
 | Sun, 18 Jan 2026 09:34:40 GMT | [HackSmarter.org Write-up] Talisman (Oracle CloudBeaver, Script replacement) | Chicken0248 | [Read More](https://medium.com/p/54a8f76ac53d) |
-| Sun, 18 Jan 2026 09:31:59 GMT | The Free Security Stack Nobody Tells You About: How I Built Enterprise-Level Threat Intelligence on… | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/e8998945f7e3) |
-| Sun, 18 Jan 2026 09:31:59 GMT | PicoCTF Easy Forensics Challenges - Part(1/4) | iIyas | [Read More](https://medium.com/p/09e195110e6c) |
-| Sun, 18 Jan 2026 09:17:23 GMT | Secure AWS Access in GitLab CI/CD Using OIDC: A Complete Guide | Parag Patil | [Read More](https://medium.com/p/60df38946945) |
