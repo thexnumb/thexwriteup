@@ -12,9 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 16:22:17 GMT | HackerOne HTML Injection Fix Bypass‍ | ab.infosec | [Read More](https://medium.com/p/9aef7806cebc) |
+| Sun, 18 Jan 2026 16:19:24 GMT | Cybersec and Troy | Lucas Haddad Vieira | [Read More](https://medium.com/p/980dcc13eae7) |
+| Sun, 18 Jan 2026 16:16:47 GMT | DDoS Attack — Distributed Denial-of-Service | Topnotch | [Read More](https://medium.com/p/230fe81eefa6) |
+| Sun, 18 Jan 2026 16:16:44 GMT | On policymaking and beyond for AI, CySec, Tech, and Talent in Pakistan: Reflections on an online… | Sage Khan | [Read More](https://medium.com/p/e84a1ecbe175) |
+| Sun, 18 Jan 2026 16:15:07 GMT | Can Smartphones Be Surveilled? Separating Security Facts from Digital Myths | Rebecca Smith | [Read More](https://medium.com/p/5d27238c6392) |
+| Sun, 18 Jan 2026 16:14:49 GMT | A Practical Way to Check If Your Linux System Has Been Touched | Sam Writes Security | [Read More](https://medium.com/p/9aa314274b68) |
+| Sun, 18 Jan 2026 16:14:35 GMT | Design-Level Stored XSS in Matomo i18n Rendering | D7 | [Read More](https://medium.com/p/aa305d7f88bc) |
+| Sun, 18 Jan 2026 16:01:27 GMT | How 12Testers Replaces ‘Luck’ with Data-Driven Testing !!! | Kaizen Works | [Read More](https://medium.com/p/436b88ce6d77) |
+| Sun, 18 Jan 2026 15:58:47 GMT | I Broke and Rebuilt My SOC Home Lab — This Is My Centralized Monitoring & Detection Pipeline | Ib2dk | [Read More](https://medium.com/p/9c374cbaa6e2) |
+| Sun, 18 Jan 2026 15:51:46 GMT | ️‍♂️ How I Run Burp Suite in the Background Without Breaking My Browser (Firefox Setup) | ghostyjoe | [Read More](https://medium.com/p/c5f71703a0bd) |
+| Sun, 18 Jan 2026 15:50:50 GMT | Why is PAM Not Enough? | John Down | [Read More](https://medium.com/p/878d91bceb7a) |
+| Sun, 18 Jan 2026 15:49:22 GMT | ID Parametresi Üzerinden Yetki Aşımı /IDOR | Zekikayaalp | [Read More](https://medium.com/p/9fd6f2364fd3) |
+| Sun, 18 Jan 2026 15:46:10 GMT | The Ultimate Guide to AI tools for SEO | Dipesh Ramteke | [Read More](https://medium.com/p/9fd2359a7b4f) |
+| Sun, 18 Jan 2026 15:44:42 GMT | CIA’s Chinese Recruitment Videos Look Like Romance Scams Here’s Why It Matters | Nanmoon | [Read More](https://medium.com/p/d2381070f2a9) |
+| Sun, 18 Jan 2026 15:41:46 GMT | SQL Injection: Root Causes Developers Miss and Pentesters Exploit | Gokul | [Read More](https://medium.com/p/7ed11bc1dad2) |
 | Sun, 18 Jan 2026 15:36:59 GMT | Day 1.compTIA security+ | Newtongurung | [Read More](https://medium.com/p/96b48f3c2358) |
 | Sun, 18 Jan 2026 15:30:37 GMT | App Store Utilities Undermine Reliable System Maintenance | Geoffrey Wenger | [Read More](https://medium.com/p/ec677a929e75) |
 | Sun, 18 Jan 2026 15:30:07 GMT | What specific deliverables are included in a Pro plan report? | Arte Archives | [Read More](https://medium.com/p/a3d876f6cbad) |
+| Sun, 18 Jan 2026 15:27:46 GMT | I’ll get older, but your lover stays my age. | yna | [Read More](https://medium.com/p/cf83ec36da82) |
 | Sun, 18 Jan 2026 15:26:59 GMT | NATO 2035: The Strategic Imperative of a Cognitive Architecture | R.K.D. K. | [Read More](https://medium.com/p/70e75d65904c) |
 | Sun, 18 Jan 2026 15:25:22 GMT | TOP SECRET  Israel  China and US  Kill Chip Kill Switch Technology - The Trojan… | ElonMuskTheAntichrist | [Read More](https://medium.com/p/698af2898559) |
 | Sun, 18 Jan 2026 15:21:19 GMT | Things You Must Secure Before Deploying a Backend to Production | Shivam Bhadani | [Read More](https://medium.com/p/1eeb641cdf4b) |
@@ -97,19 +113,3 @@ Life is an intricate tapestry woven from countless… | Umarfaruq | [Read More](
 | Sun, 18 Jan 2026 08:45:49 GMT | I Replied to Dozens of LinkedIn Messages — Then I Realised Many Accounts Were Compromised | Ismail Kt | [Read More](https://medium.com/p/555dcb5ae4f5) |
 | Sun, 18 Jan 2026 08:32:57 GMT | Climate Justice Is an Investment in Peace and Security | Neha Grace | [Read More](https://medium.com/p/b00ae45a2742) |
 | Sun, 18 Jan 2026 08:29:50 GMT | Your Headphones Can Track and Spy on You — WhisperPair | Patrik Žák | [Read More](https://medium.com/p/547c2315462a) |
-| Sun, 18 Jan 2026 08:28:50 GMT | 7 Critical Fixes: Policy Enforcement in WebView | Pentest_Testing_Corp | [Read More](https://medium.com/p/e75d46eef6d4) |
-| Sun, 18 Jan 2026 08:26:00 GMT | Critical Blind Time-Based Injection Hiding Behind Normal Responses | Xynos | [Read More](https://medium.com/p/c229b5956bd3) |
-| Sun, 18 Jan 2026 08:18:06 GMT | The Best Free Cybersecurity Tools for Blue Teams and Red Teams (And How Pros Actually Use Them) | Bugitrix | [Read More](https://medium.com/p/474b04836c99) |
-| Sun, 18 Jan 2026 08:15:04 GMT | Broken Math: Exploiting Business Logic for Price Manipulation | Samet Yiğit | [Read More](https://medium.com/p/ad52f1c47f3a) |
-| Sun, 18 Jan 2026 08:06:58 GMT | Why This Blog Exists | Cyberspace Bulletin | [Read More](https://medium.com/p/64df8fa19b3c) |
-| Sun, 18 Jan 2026 08:04:15 GMT | You Don’t Need to Be an AI Expert to Start Building with AI | PantaVenkatesh | [Read More](https://medium.com/p/3a39e9e59d81) |
-| Sun, 18 Jan 2026 08:03:13 GMT | In the age of microsegmentation enforcement in hours, are you still shutting down operations? | Agnidipta Sarkar | [Read More](https://medium.com/p/0f84f25d149c) |
-| Sun, 18 Jan 2026 08:01:58 GMT | Part IV: Why Vault Enterprise for Certificate as a Service | Raymon Epping | [Read More](https://medium.com/p/8393c02ab17b) |
-| Sun, 18 Jan 2026 08:01:27 GMT | The Mirror Effect of Leadership: How Our Thinking Becomes Products, Teams, and Now — AI | Bibhu Ashish Panda | [Read More](https://medium.com/p/ca4aeba05347) |
-| Sun, 18 Jan 2026 07:50:29 GMT | When Rate Limits Lie: A Quiet Path to Account Takeover | PevinKumar A | [Read More](https://medium.com/p/8004000afe01) |
-| Sun, 18 Jan 2026 07:43:08 GMT | Recover a Gmail Account Without Recovery Email or Phone Number in 2026 | Muhammad Haider Tallal | [Read More](https://medium.com/p/301d7d9440f9) |
-| Sun, 18 Jan 2026 07:29:48 GMT | The Virus Codex | Claudia G. Petersen | [Read More](https://medium.com/p/6986cc175eb6) |
-| Sun, 18 Jan 2026 07:28:38 GMT | Next.js: CVE-2025–29927 -TryHackMe WriteUp | Bridget | [Read More](https://medium.com/p/b120c81f8fd8) |
-| Sun, 18 Jan 2026 07:06:39 GMT | Cybersecurity: Phishing — How to Protect Yourself from Online Scams — | Md. Abrar Shahriar | [Read More](https://medium.com/p/ce142e17b526) |
-| Sun, 18 Jan 2026 07:06:09 GMT | Why Hugging Face Became a Core Part of My AI Learning Journey | PantaVenkatesh | [Read More](https://medium.com/p/364c38b976fc) |
-| Sun, 18 Jan 2026 06:54:38 GMT | I Found a Backdoor in a “Job Interview” Codebase: A Recruitment Scam Targeting Developers & QA… | Kennedy Owiro | [Read More](https://medium.com/p/3fee114ab656) |
