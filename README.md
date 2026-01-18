@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 18 Jan 2026 21:37:38 GMT | Metasploit দিয়ে এক্সপ্লয়টিং: সিকিউরিটি অ্যানালিস্টদের জন্য সহজ গাইড | SecurityMindPro | [Read More](https://medium.com/p/b31d46ef1be1) |
+| Sun, 18 Jan 2026 21:35:48 GMT | Understanding The Rising Threat of Supply Chain Attacks in Artificial Intelligence | Will Giles - Cybersecurity | [Read More](https://medium.com/p/b74a653a7a5b) |
+| Sun, 18 Jan 2026 21:35:34 GMT | Burp Suite Basics: A Beginner-Friendly Guide | Satyam Pathania | [Read More](https://medium.com/p/961711c32c1a) |
+| Sun, 18 Jan 2026 21:27:01 GMT | “Relevant” ctf - TryHackMe- Complete detailed walkthrough- (Token Impersonation, PrintSpoofer.exe, | Nishchay Manhas | [Read More](https://medium.com/p/3dd386f8889d) |
+| Sun, 18 Jan 2026 21:26:45 GMT | The Secret Weapon for Online Privacy: NordVPN | Genelia | [Read More](https://medium.com/p/a2dc72254c5e) |
+| Sun, 18 Jan 2026 21:26:00 GMT | Smart Internet Users Choose NordVPN — Here’s Why | Genelia | [Read More](https://medium.com/p/15696e8f0a55) |
+| Sun, 18 Jan 2026 21:17:19 GMT | For 11 Minutes, the Internet Trusted a Lie — and No Firewall Noticed | Liam | [Read More](https://medium.com/p/a3fa4cdbff05) |
 | Sun, 18 Jan 2026 21:15:25 GMT | Schneider’s Unlocked Keypad: Giving the Lua Shell a Warm Welcome | hacker_might | [Read More](https://medium.com/p/15788b2404f7) |
 | Sun, 18 Jan 2026 21:08:00 GMT | The Hacking Tool Chronicles: Dirb | z3r0trust | [Read More](https://medium.com/p/c4a8112604a4) |
 | Sun, 18 Jan 2026 21:06:05 GMT | Dynamic & Static Analysis Android: Praktik Mobile Pentest Menggunakan MobSF, Frida, dan Objection | Nanda Cahya Septiawan | [Read More](https://medium.com/p/41ed320a3cc7) |
@@ -106,10 +113,3 @@ For years, cybersecurity… | Ankit rai | [Read More](https://medium.com/p/d9678
 | Sun, 18 Jan 2026 13:41:15 GMT | Struggles of Bug Bounty | CosmicByte | [Read More](https://medium.com/p/2ea53f5854b5) |
 | Sun, 18 Jan 2026 13:40:31 GMT | BankGPT — TryHackMe - Shiv Kumar - Medium | Shiv Kumar | [Read More](https://medium.com/p/540fe438f227) |
 | Sun, 18 Jan 2026 13:37:50 GMT | Phishing 101: A URL Can Be a Trap? | Angela Oryza | [Read More](https://medium.com/p/a946248f2578) |
-| Sun, 18 Jan 2026 13:30:58 GMT | Raster.finance Review: High-Yield Revolution or Sophisticated Crypto Scam? | TheDigitalGuard | [Read More](https://medium.com/p/8e35a855710b) |
-| Sun, 18 Jan 2026 13:28:05 GMT | Erebus RAT Native C++: Technical Analysis & Architecture Review | Nemessagod | [Read More](https://medium.com/p/1a83bb59fd2d) |
-| Sun, 18 Jan 2026 13:23:30 GMT | If Knowing Is Part of Self-Awareness | AfterRainWrites | [Read More](https://medium.com/p/3240321485dd) |
-| Sun, 18 Jan 2026 13:17:04 GMT | AresGPT & AthenaGPT: Rise of Strategic AI Agents | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/80e3c3639aef) |
-| Sun, 18 Jan 2026 13:14:30 GMT | Why Thrillers Explain Geopolitics Better Than Cable News, and Where Did We Go Wrong? | Money, Geopolitics & Oil | [Read More](https://medium.com/p/ea3f906dae7b) |
-| Sun, 18 Jan 2026 13:14:25 GMT | The Risk of Vulnerability (and the Risk of Avoiding It) | Suzanne Butler | [Read More](https://medium.com/p/415f085d0a07) |
-| Sun, 18 Jan 2026 13:10:07 GMT | Scaling Enterprise Security Reviews with AI: From Architecture to Pull Requests | Srinivasan Chinnachamy | [Read More](https://medium.com/p/9a6ff064b626) |
