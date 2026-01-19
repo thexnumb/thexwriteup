@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 Jan 2026 14:22:06 GMT | Why Your CTI Team Can’t Keep Up (And How Data Engineering for CTI Fixes It) | Adam Goss | [Read More](https://medium.com/p/efd4e6ce6fee) |
+| Mon, 19 Jan 2026 14:20:26 GMT | How to Change the Combination on a Cannon Safe - Safe Guide | Sure Lock & Key LLC | [Read More](https://medium.com/p/a3fb1e1c30bf) |
+| Mon, 19 Jan 2026 14:18:12 GMT | CrashFix / ClickFix / KongTuke (404 TDS, Chaya_002, LandUpdate808, TAG-124) and ModeloRAT: The… | Germano Costi | [Read More](https://medium.com/p/be9a1f8e80c1) |
+| Mon, 19 Jan 2026 14:15:31 GMT | Telegram Proxy Links: A Client-Side IP Exposure Risk Hiding Behind Username-Like Appearance | maddy | [Read More](https://medium.com/p/682a2a6920e2) |
+| Mon, 19 Jan 2026 14:04:48 GMT | When Forensics Is Not About Math, but About Thinking | Nuha Choeiiam | [Read More](https://medium.com/p/692176433135) |
+| Mon, 19 Jan 2026 14:02:32 GMT | The Illusion of AI Security | Nwosu Rosemary | [Read More](https://medium.com/p/a26d81178231) |
+| Mon, 19 Jan 2026 14:01:32 GMT | Email Splitting Attack | Marc I | [Read More](https://medium.com/p/087ad8a596f3) |
+| Mon, 19 Jan 2026 13:57:07 GMT | Why Traditional Spam Filters No Longer Stop Targeted Email Attacks? | Aysha Saifi | [Read More](https://medium.com/p/265f413976d6) |
+| Mon, 19 Jan 2026 13:54:58 GMT | Web Security — SOP CORS , S | AYA | [Read More](https://medium.com/p/13d461d63cca) |
+| Mon, 19 Jan 2026 13:54:34 GMT | The OSI model is understood with the journey of a WhatsApp “Hi” through 7 layers of OSI. | Gaurang | [Read More](https://medium.com/p/0ee3a645a271) |
+| Mon, 19 Jan 2026 13:52:59 GMT | The World of Cybersecurity | Paukhankhual Hangsing | [Read More](https://medium.com/p/d507d944037c) |
+| Mon, 19 Jan 2026 13:50:50 GMT | Surviving the AI Cyber Threat A Practical Guide to Defense | Najeeb W | [Read More](https://medium.com/p/ca6e4ce23f57) |
 | Mon, 19 Jan 2026 13:47:20 GMT | Why Retractions Are Now a Feature, Not a Failure, of Scientific Publishing | Kirby Proffitt | [Read More](https://medium.com/p/47b7c52e461f) |
+| Mon, 19 Jan 2026 13:46:58 GMT | Cyber Sherlock Weekly Update: 19 January 2026 | Sujon Al Mamun | [Read More](https://medium.com/p/226b6f3e1248) |
+| Mon, 19 Jan 2026 13:43:50 GMT | F5 BIG-IP Breach: Timeline, Impact, and Lessons | VenariX, Inc. | [Read More](https://medium.com/p/7b7722287d61) |
+| Mon, 19 Jan 2026 13:39:13 GMT | Microsoft Confirms Emergency Updates For Most Windows PCs | Moni | [Read More](https://medium.com/p/2e6b0c46e4e2) |
 | Mon, 19 Jan 2026 13:32:42 GMT | Secure Linux Server : Monitoring System Integrity with AIDE | bektiaw | [Read More](https://medium.com/p/34ba289611b5) |
 | Mon, 19 Jan 2026 13:29:44 GMT | WAF Bypass Made Simple: A Practical Checklist for Testers and Bug Hunters | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/18da199faf9c) |
 | Mon, 19 Jan 2026 13:29:04 GMT | Why Every Dev Team Needs SAST + DAST in 2026 (Use these open source tools!) | Tyler Hudson | [Read More](https://medium.com/p/e14435a2c798) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 08:48:34 GMT | Shocking!! 10 Vulnerabilities Found In Almost Every Pentest | Redfox Security | [Read More](https://medium.com/p/00924aa0e712) |
 | Mon, 19 Jan 2026 08:42:55 GMT | SQL Injection (Section 1) — Day 1 | Belajar Siber Cyberilma | [Read More](https://medium.com/p/b73fbdc73f5b) |
 | Mon, 19 Jan 2026 08:31:57 GMT | G Suite vs Office 365: What’s the Best for Your Business Needs? | EINITIAL24 | [Read More](https://medium.com/p/23dfc6356c3a) |
-| Mon, 19 Jan 2026 08:28:56 GMT | PicoCTF: PIE_TIME Walkthrough | Gray_ | [Read More](https://medium.com/p/765b17d0aba6) |
-| Mon, 19 Jan 2026 08:24:33 GMT | Malware‑as‑a‑Service: How Cybercrime Turned Into a Subscription Business | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/dacab6d5c311) |
-| Mon, 19 Jan 2026 08:21:20 GMT | My First CTF | Manoj Nepal | [Read More](https://medium.com/p/5b2bc8cfd303) |
-| Mon, 19 Jan 2026 08:15:40 GMT | Cryptocurrency Feels Legit Now. That’s What Worries Me.!!!! | - Crypto - Health - Cyber - Tech | [Read More](https://medium.com/p/f37df42a6933) |
-| Mon, 19 Jan 2026 08:14:51 GMT | The $7.99 False Identity | Andrei Savine | [Read More](https://medium.com/p/cdc079231534) |
-| Mon, 19 Jan 2026 08:13:28 GMT | Zero Trust After Quantum — an architectural risk CISOs are missing | Mahfuzur Rahman | [Read More](https://medium.com/p/f3959135e67c) |
-| Mon, 19 Jan 2026 08:07:07 GMT | Cybersecurity Course — Lesson 1 | Cyberspace Bulletin | [Read More](https://medium.com/p/285a06d500a7) |
-| Mon, 19 Jan 2026 07:50:55 GMT | Sample Incident Response Report | Allen Ace | [Read More](https://medium.com/p/5f1e5367c80c) |
-| Mon, 19 Jan 2026 07:48:05 GMT | Unauthenticated Remote Code Execution in n8n: Dissecting CVE-2026–21858 (“Ni8mare”) +… | Lakshan Sameera | [Read More](https://medium.com/p/1b72c1b99d80) |
-| Mon, 19 Jan 2026 07:47:32 GMT | Supreme Duelist Stickman Mod APK | Bandisharecx | [Read More](https://medium.com/p/9e98d17805f1) |
-| Mon, 19 Jan 2026 07:42:50 GMT | Top 10 IT Companies in Bangalore For Freshers (2026 Updated List) | esseindiablog | [Read More](https://medium.com/p/5cf4730d26da) |
-| Mon, 19 Jan 2026 07:36:28 GMT | Eagle Fire-Resistant Safes - Certified Protection for Critical Documents | ARJUN CK | [Read More](https://medium.com/p/13829b22b750) |
-| Mon, 19 Jan 2026 07:26:55 GMT | The Art of the Pilot: A Strategic Blueprint for Flawless Ad/ Hybrid joined devices to Entra ID… | Jack Nelson | [Read More](https://medium.com/p/b9e6e34d05f1) |
-| Mon, 19 Jan 2026 07:26:50 GMT | The Hidden Threading Pitfall in Multi-Agent AI Systems | Muhammed Agbaje | [Read More](https://medium.com/p/b5f93fbcaf06) |
-| Mon, 19 Jan 2026 07:24:19 GMT | Your Computer Can Change Data Without Telling You - And Linux Allows It | Fazal PS | [Read More](https://medium.com/p/c4067399e9e9) |
