@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 Jan 2026 16:31:59 GMT | MITRE Caldera: Orchestrating the Complete Attack Lifecycle | SDNTechForum | [Read More](https://medium.com/p/ccca5043ac0f) |
+| Mon, 19 Jan 2026 16:25:55 GMT | Social Engineering in 2026 Is Mostly About Timing | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/7f1197f914b4) |
+| Mon, 19 Jan 2026 16:21:29 GMT | The Fast and the fur[IO]us : Ai drift | Douglas Jackson | [Read More](https://medium.com/p/314c1e0f3155) |
+| Mon, 19 Jan 2026 16:21:05 GMT | The IOC is dead, long live the IOB! | Damag3dRoot | [Read More](https://medium.com/p/38d9fced530e) |
+| Mon, 19 Jan 2026 16:19:59 GMT | AI agents are the next serious risk to business data security | hubbertsmith | [Read More](https://medium.com/p/ea95feeff3b3) |
+| Mon, 19 Jan 2026 16:16:03 GMT | Networking Basics | Muhammadsaad | [Read More](https://medium.com/p/e12167254193) |
+| Mon, 19 Jan 2026 16:15:11 GMT | The Convergence of Safety & Security in Industrial AI | Kevin O'Connor | [Read More](https://medium.com/p/22f4fcc8a4c8) |
+| Mon, 19 Jan 2026 16:03:05 GMT | Tokyo Ghoul TryHackMe Walkthrough | Latif Praditya | [Read More](https://medium.com/p/de9e6419b387) |
+| Mon, 19 Jan 2026 15:59:21 GMT | Build a Handwriting Scanner using Flutter, Firebase, and Gemini | Bo Hellgren | [Read More](https://medium.com/p/f06c5bf9bd69) |
+| Mon, 19 Jan 2026 15:58:20 GMT | From JS File to Jailbreak: How Frontend Code Gave Me Backend Access | Iski | [Read More](https://medium.com/p/5b4974d06b63) |
+| Mon, 19 Jan 2026 15:53:38 GMT | Mitigating Phishing Threats with Browsermon’s URL Classification Service (UCS) | Emankhalid | [Read More](https://medium.com/p/ebb2a71630eb) |
+| Mon, 19 Jan 2026 15:47:52 GMT | Penetration Tester vs SOC Analyst | Shahzaib | [Read More](https://medium.com/p/6167ac4b6e84) |
+| Mon, 19 Jan 2026 15:47:18 GMT | AI in Cybersecurity: What Works, New Risks and How to Stay Safe | Xaltius | [Read More](https://medium.com/p/26d5371690cf) |
+| Mon, 19 Jan 2026 15:46:21 GMT | Absolute Ownership vs. Diffused Responsibility in Software Development | Namir Sagheenanajar | [Read More](https://medium.com/p/e3bb962878ec) |
+| Mon, 19 Jan 2026 15:43:39 GMT | Zero Trust in Practice: Implementing NIST SP 800–207 Across the CISA Maturity Pillars | Chris Yeung | [Read More](https://medium.com/p/134d27a0ebe0) |
+| Mon, 19 Jan 2026 15:35:43 GMT | VicsTown Bug Repellent: Witch Hazel And Essential Oils, Not Mystery Chemicals | Victoria Dean | [Read More](https://medium.com/p/1295a690db51) |
+| Mon, 19 Jan 2026 15:28:32 GMT | I Believed Movie Hackers, Then I Studied Cybersecurity | David Dimanochie | [Read More](https://medium.com/p/19be5a9b29f6) |
 | Mon, 19 Jan 2026 15:28:08 GMT | How iPhones Really Get Compromised and Why Hacking One Is Not What Most People Think | Rebecca Smith | [Read More](https://medium.com/p/27f7e134bb9f) |
 | Mon, 19 Jan 2026 15:24:03 GMT | Defence Robots Need Noise-Cancelling Headphones | Erkan Yalcinkaya | [Read More](https://medium.com/p/e2d5d002d19c) |
 | Mon, 19 Jan 2026 15:23:00 GMT | TCS HackQuest Season 10 — A Personal Experience | Jainil Borisagar | [Read More](https://medium.com/p/1aa45232a036) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 11:02:01 GMT | The Agent Reliability Stack That Actually Works | Bhagya Rana | [Read More](https://medium.com/p/5ca1f51627ae) |
 | Mon, 19 Jan 2026 11:01:46 GMT | Managed Cyber Security Services for safer operations | YesIT Services | [Read More](https://medium.com/p/e7fb5c2e800f) |
 | Mon, 19 Jan 2026 10:54:30 GMT | Your 5-Step Checklist for Rapid Cybersecurity Deployment | Anshul Goyal | [Read More](https://medium.com/p/dfac97f49726) |
-| Mon, 19 Jan 2026 10:54:12 GMT | Web security 101: Part 1 -How the Web Works (The Security Perspective) | Nithishraina | [Read More](https://medium.com/p/1cf7e8202753) |
-| Mon, 19 Jan 2026 10:47:35 GMT | Living Off the Land And Living Above UAC | Samora Tandon | [Read More](https://medium.com/p/6a66738d225c) |
-| Mon, 19 Jan 2026 10:40:48 GMT | SQL Injection Union Attack: Querying the Database Type and Version (Portswigger Lab) | Rachael Muga | [Read More](https://medium.com/p/f84544885955) |
-| Mon, 19 Jan 2026 10:37:14 GMT | Top 10 Managed Cybersecurity Providers in Riverside in 2026 | Managed IT Services | [Read More](https://medium.com/p/c34b3d5dda16) |
-| Mon, 19 Jan 2026 10:34:16 GMT | Why Businesses Need Cybersecurity Software Solutions to Stay Ahead of Threats: | Next Zen Minds | [Read More](https://medium.com/p/0a77324c90b7) |
-| Mon, 19 Jan 2026 10:29:36 GMT | How to Start Learning Tech From Zero (A Beginner’s Guide) | Josephvivian | [Read More](https://medium.com/p/cc346f4f207f) |
-| Mon, 19 Jan 2026 10:24:03 GMT | ⚖️ Digital Signature — Your Online Handshake | Legal Mind with Food & Nutrition Expertise | [Read More](https://medium.com/p/3388f0ffdbf8) |
-| Mon, 19 Jan 2026 10:21:57 GMT | Dear followers and readers, I’ve moved to Substack. I can explain… | Samuel Brice | [Read More](https://medium.com/p/a1b183d552cc) |
-| Mon, 19 Jan 2026 10:20:12 GMT | TryHackMe Phishing Unfolding: Detecting Base64 and DNS Exfiltration with Splunk. | Nuran Abdulhamidov | [Read More](https://medium.com/p/4519d12bce96) |
-| Mon, 19 Jan 2026 10:19:27 GMT | Development of Mobile Application: How to Pick the Best Development Team | Joy Hawkins | [Read More](https://medium.com/p/343caa5b99fc) |
-| Mon, 19 Jan 2026 10:12:31 GMT | Next-Generation Distributed Security with Two Cards: An Introduction | numa | [Read More](https://medium.com/p/76728fc8ffee) |
-| Mon, 19 Jan 2026 10:12:23 GMT | Mastering File & Image Forensics in CTF Challenges | Swetha | [Read More](https://medium.com/p/90ec56eea7ee) |
-| Mon, 19 Jan 2026 10:11:59 GMT | AI-Powered Cyber Attacks & Defense | Fareed Masood | [Read More](https://medium.com/p/2bc10b4af84b) |
-| Mon, 19 Jan 2026 10:11:59 GMT | Corporate Greed Chronicles: Staff as a Service at Sapiens International | Namir Sagheenanajar | [Read More](https://medium.com/p/45bb4382ef2b) |
-| Mon, 19 Jan 2026 10:09:10 GMT | GitHub Search Syntax for Finding Leaked API Keys, Secrets, and Tokens | Vlad Rosca | [Read More](https://medium.com/p/c7f826d7bae8) |
-| Mon, 19 Jan 2026 10:06:44 GMT | How to Check SPF Records Online: Validate Email Authentication in Seconds | Everywebtool | [Read More](https://medium.com/p/57afaee6f76b) |
-| Mon, 19 Jan 2026 10:03:19 GMT | I will do resume writing, engineering resume, tech resume IT resume professional resume | ADEKUNLE ORINA | [Read More](https://medium.com/p/01118c984c84) |
