@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 Jan 2026 15:28:08 GMT | How iPhones Really Get Compromised and Why Hacking One Is Not What Most People Think | Rebecca Smith | [Read More](https://medium.com/p/27f7e134bb9f) |
+| Mon, 19 Jan 2026 15:24:03 GMT | Defence Robots Need Noise-Cancelling Headphones | Erkan Yalcinkaya | [Read More](https://medium.com/p/e2d5d002d19c) |
+| Mon, 19 Jan 2026 15:23:00 GMT | TCS HackQuest Season 10 — A Personal Experience | Jainil Borisagar | [Read More](https://medium.com/p/1aa45232a036) |
+| Mon, 19 Jan 2026 15:13:08 GMT | How to Perform a Basic Health Check on a FortiGate Firewall | Drissi Ismail | [Read More](https://medium.com/p/a52c4fdf73ff) |
+| Mon, 19 Jan 2026 15:10:45 GMT | Post 10: Software development life cycle (SDLC) | Satti Data | [Read More](https://medium.com/p/873be7f64997) |
+| Mon, 19 Jan 2026 15:09:50 GMT | ICS Cybersecurity in Transport Infrastructure | Muhammad Ali Khan | [Read More](https://medium.com/p/1ceba7b7e415) |
+| Mon, 19 Jan 2026 15:07:29 GMT | Why Your Business Needs Cybersecurity Compliance | Digital Uppercut | [Read More](https://medium.com/p/04b8a3db413b) |
+| Mon, 19 Jan 2026 15:06:38 GMT | The Most Overlooked Identity Risk Isn’t the CEO’s Account | Dr. Shashi Karhail | [Read More](https://medium.com/p/b3ca75316bdf) |
+| Mon, 19 Jan 2026 15:03:09 GMT | Cyber Briefing: 2026.01.19 | CyberMaterial | [Read More](https://medium.com/p/12756d0b6f00) |
+| Mon, 19 Jan 2026 14:56:52 GMT | Fix Spinning Mac Beachballs Before Work Suffers | Geoffrey Wenger | [Read More](https://medium.com/p/d60ce14e6f0e) |
+| Mon, 19 Jan 2026 14:53:23 GMT | “Bug Bounty Bootcamp #18: Demystifying Content Security Policy (CSP) — The Ultimate Bypass… | Aman Sharma | [Read More](https://medium.com/p/cb79b1d89e19) |
 | Mon, 19 Jan 2026 14:49:51 GMT | Reflections Through the Stars: My Connection to Sailor Moon, Galaxia, Saturn, and Black Lady… | Harold Alfonso Perez-Cerna | [Read More](https://medium.com/p/3b90a0010aa1) |
 | Mon, 19 Jan 2026 14:33:25 GMT | AI-Driven Reconnaissance: The New Frontier of OSINT for the Modern Hacker | Keyur | [Read More](https://medium.com/p/d4bf7e780159) |
 | Mon, 19 Jan 2026 14:33:15 GMT | AWS Cloud Pentesting Roadmap: A Practical Path Built on Understanding and Practice | Muhammad Elgllad | [Read More](https://medium.com/p/06a89611797c) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 10:09:10 GMT | GitHub Search Syntax for Finding Leaked API Keys, Secrets, and Tokens | Vlad Rosca | [Read More](https://medium.com/p/c7f826d7bae8) |
 | Mon, 19 Jan 2026 10:06:44 GMT | How to Check SPF Records Online: Validate Email Authentication in Seconds | Everywebtool | [Read More](https://medium.com/p/57afaee6f76b) |
 | Mon, 19 Jan 2026 10:03:19 GMT | I will do resume writing, engineering resume, tech resume IT resume professional resume | ADEKUNLE ORINA | [Read More](https://medium.com/p/01118c984c84) |
-| Mon, 19 Jan 2026 09:54:38 GMT | Introduction to Active Directory Penetration Testing by The Range Village @ Div0 (17/01/26)… | Cy3erS@up | [Read More](https://medium.com/p/cdb9b593a141) |
-| Mon, 19 Jan 2026 09:49:42 GMT | VAPT 2026: Why Traditional Security Testing Is No Longer Enough | Devarshi Acharya | [Read More](https://medium.com/p/aa56811a4bf6) |
-| Mon, 19 Jan 2026 09:49:36 GMT | Cybersecurity: My Journey from “Password123” to Professional Certification | Sanya Sachdeva | [Read More](https://medium.com/p/286a825b1ee2) |
-| Mon, 19 Jan 2026 09:46:55 GMT | ShellGYM [Online Session]by KKTAN — Set up your Active Directory & Common misconfiguration | Cy3erS@up | [Read More](https://medium.com/p/5c64c68aa82a) |
-| Mon, 19 Jan 2026 09:44:31 GMT | Trusted Security & IoT Solutions Company in the UAE | Tekshoyabeelyas | [Read More](https://medium.com/p/1313a990806a) |
-| Mon, 19 Jan 2026 09:30:14 GMT | Samsung S23 Ultra: Guía definitiva para configurar NetHunter (Android 14 Fix) | JanCSG | [Read More](https://medium.com/p/8d7250b8521e) |
-| Mon, 19 Jan 2026 09:25:25 GMT | Cybersecurity And IT Support Services In Dubai 2026 | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/c6005d15d53f) |
-| Mon, 19 Jan 2026 09:16:24 GMT | Is AI taking all the jobs in cybersecurity? | Stephen Chapendama | [Read More](https://medium.com/p/2e5a8fe824ea) |
-| Mon, 19 Jan 2026 09:14:33 GMT | Tech Cold War 2026: China’s Cybersecurity Software Ban Tests U.S.–China | eL Njas!™ | [Read More](https://medium.com/p/d25b98d408ea) |
-| Mon, 19 Jan 2026 09:12:32 GMT | SeClip: Safe & Secure Clipboard Extension for Android | kuroappworks | [Read More](https://medium.com/p/a0475d0ba918) |
-| Mon, 19 Jan 2026 08:59:18 GMT | How a simple password reset led to a complete account takeover | Jimmy | [Read More](https://medium.com/p/2cd56639d150) |
