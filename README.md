@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 Jan 2026 18:35:30 GMT | A Routine Click Revealed a Production Smell I Couldn’t Ignore | The Latency Gambler | [Read More](https://medium.com/p/c1cf26be7493) |
+| Mon, 19 Jan 2026 18:24:29 GMT | Analyzing 15 Days of Telnet Honeypot Data: | berke bodur | [Read More](https://medium.com/p/de007ca66d0c) |
+| Mon, 19 Jan 2026 18:17:22 GMT | Linux Privilege Escalation: 30 Days of Red Team (Day 17) | Maxwell Cross | [Read More](https://medium.com/p/08f832131043) |
+| Mon, 19 Jan 2026 18:12:08 GMT | Using AI Security Agents in CI/CD: From Scanners to Systems | Bobin Rajan | [Read More](https://medium.com/p/6828b9ccfa56) |
+| Mon, 19 Jan 2026 18:08:55 GMT | BITCOIN RECOVERY EXPERT FOR HIRE | Lebaq | [Read More](https://medium.com/p/0f7e5bb322c2) |
+| Mon, 19 Jan 2026 18:04:20 GMT | Find if Path Exists in Graph — Why Connectivity Is the Real Question | Error | [Read More](https://medium.com/p/8313f41b9efd) |
+| Mon, 19 Jan 2026 18:03:47 GMT | Discord Temp Number : The Fastest & Cheapest Way to Verify Discord in 2026 | Jean Cristalain | [Read More](https://medium.com/p/b2d345835d67) |
+| Mon, 19 Jan 2026 18:01:57 GMT | US Small Businesses — Please invest in Cybersecurity and Network Hardening | Tyler Hudson | [Read More](https://medium.com/p/1729c9b76bc3) |
+| Mon, 19 Jan 2026 18:01:19 GMT | Understanding Cybersecurity Risks: Why Investors Can No Longer Treat Them as Secondary | Anjli Jain | [Read More](https://medium.com/p/771c8cbdf116) |
+| Mon, 19 Jan 2026 17:56:21 GMT | OSINT: The Secret Weapon for Every Ethical Hacker (And Why You’re Doing it Wrong) | Axoloth | [Read More](https://medium.com/p/9e8e57e71ac1) |
+| Mon, 19 Jan 2026 17:52:07 GMT | ️ The Ultimate Burp Suite User Guide | ghostyjoe | [Read More](https://medium.com/p/f88cab47aac4) |
+| Mon, 19 Jan 2026 17:48:40 GMT | BUCKETS OF POISON: USING S3 BUCKETS TO EXPLOIT HUMANS | Sp1d3rM | [Read More](https://medium.com/p/271fda69bf0f) |
+| Mon, 19 Jan 2026 17:45:54 GMT | UX is the Bridge to Customer Loyalty | Dhivy Ananth | [Read More](https://medium.com/p/5e3801732ee0) |
 | Mon, 19 Jan 2026 17:40:39 GMT | Pandemic Unemployment Assistance Fraud: Zero Trust (Part 1) | Chris Perkins | [Read More](https://medium.com/p/733cf4e39b06) |
 | Mon, 19 Jan 2026 17:39:09 GMT | The New Travel Booking Email Scam Isn’t Clever. It’s Just Well Timed. | Really Bad Security | [Read More](https://medium.com/p/6a839492dbb2) |
 | Mon, 19 Jan 2026 17:37:09 GMT | Why the 2016 comeback has people questioning AI | Angelou Masters Jr | [Read More](https://medium.com/p/14c9c474107e) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 13:09:46 GMT | The AI Revolution in Cybersecurity | Andrey Pautov | [Read More](https://medium.com/p/31e44704d51a) |
 | Mon, 19 Jan 2026 13:06:11 GMT | How Hexaview Builds Scalable Data & AI Systems Using Cloud-Native Services? | Ishika Verma | [Read More](https://medium.com/p/88152fa6bd9f) |
 | Mon, 19 Jan 2026 13:04:54 GMT | Active Directory Enumeration In-Depth Guide | Esra Kayhan | [Read More](https://medium.com/p/e33504774607) |
-| Mon, 19 Jan 2026 13:04:51 GMT | I Have Feelings. I Just Don’t Know Where to Put Them | Yve | [Read More](https://medium.com/p/432e7c41f6dc) |
-| Mon, 19 Jan 2026 13:03:03 GMT | The Day I Stopped Translating Myself: Why Being an Imposter Finally Burned Me Out | Nikole | [Read More](https://medium.com/p/c1d448c7f43d) |
-| Mon, 19 Jan 2026 13:03:02 GMT | Linux Security Habit #18: I Always Ask One Question First — “Does This Server Still Behave Like… | Faruk Ahmed | [Read More](https://medium.com/p/a14bea61c4a0) |
-| Mon, 19 Jan 2026 13:02:57 GMT | SIEM in 2026: From Log Management to Intelligent Security Operations | NetWitness | [Read More](https://medium.com/p/a25381411287) |
-| Mon, 19 Jan 2026 13:01:36 GMT | I Clicked In Expecting “Bitunix Scam” Energy and Got a Surprisingly Normal Experience | Adedayo Adebayo | [Read More](https://medium.com/p/52d98208e2a0) |
-| Mon, 19 Jan 2026 12:57:32 GMT | What do we know about the hack of Iranian state television broadcaster IRIB | Costin Raiu | [Read More](https://medium.com/p/95f772923cc7) |
-| Mon, 19 Jan 2026 12:55:49 GMT | The Courage To Be Vulnerable: A Superstar's Battle Against Mental Health Stigma | Justine Jacob | [Read More](https://medium.com/p/85f4795fb6c6) |
-| Mon, 19 Jan 2026 12:49:26 GMT | SQL Injection uAttack: Listing the Contents of the Database {Non-Oracle Databases}(Portswigger Lab) | Rachael Muga | [Read More](https://medium.com/p/b96dbe7855a7) |
-| Mon, 19 Jan 2026 12:40:49 GMT | Part 3 — Intercepting HTTPS Traffic, Bypassing Certificate Pinning & Flutter Protections (Testing… | Faris Faisal 0xFF | [Read More](https://medium.com/p/ba9557cef992) |
-| Mon, 19 Jan 2026 12:40:15 GMT | Dynamic Malware Analysis: Watching Malware Show Its True Colors | Paritosh | [Read More](https://medium.com/p/8e73d53a418c) |
-| Mon, 19 Jan 2026 12:38:08 GMT | Basic Kali -Linux Commands for Ethical Hacking (Part-7) | Akhil Thakur | [Read More](https://medium.com/p/e60695133263) |
-| Mon, 19 Jan 2026 12:34:28 GMT | The Art of Digital Espionage: OSNIT, Footprinting, and Reconnaissance in Cybersecurity | Tahir | [Read More](https://medium.com/p/a6a76275f166) |
-| Mon, 19 Jan 2026 12:33:23 GMT | CISSP Exam Explained: A Friendly Guide for Beginners | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/74aa497b959d) |
