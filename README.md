@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 Jan 2026 04:54:30 GMT | Light Out, 7B (Part 17) | edarit | [Read More](https://medium.com/p/7e12f1d31e2e) |
+| Mon, 19 Jan 2026 04:44:56 GMT | Came to Compete. Left With Questions. (T.A.M.I.N.G ICTFF8 Grand Final) | WanTan | [Read More](https://medium.com/p/bf81d234843f) |
+| Mon, 19 Jan 2026 04:44:51 GMT | AWS CLI Apache EC2 Deployment: Secure Build, AMI Baseline and Teardown | CoffeeCloud Series | [Read More](https://medium.com/p/b726a0b1c24a) |
+| Mon, 19 Jan 2026 04:33:07 GMT | The Cybersecurity Roadmap 2026: The Death of the “Click-Ops” Analyst | Abhijith Soman | [Read More](https://medium.com/p/ac76aec150f7) |
+| Mon, 19 Jan 2026 04:30:25 GMT | Laravel Security Checklist: 17 Ways to Protect Your App from Hackers | Developer Awam | [Read More](https://medium.com/p/3599de1d2271) |
+| Mon, 19 Jan 2026 04:24:37 GMT | ด่วน Cisco ประกาศออกแพตช์แก้ไขช่องโหว่ Zero-Day ช่องโหว่ CVE-2025–20393 ซึ่งมีระดับความรุนแรงสูงสุด… | ThaiCERT By NCSA | [Read More](https://medium.com/p/48e731b36d1b) |
 | Mon, 19 Jan 2026 03:57:14 GMT | The Experience Barrier Is Crumbling in the AI Era | Chier Hu | [Read More](https://medium.com/p/62589fbddca0) |
+| Mon, 19 Jan 2026 03:56:58 GMT | 7 AI-Powered Cyber Attacks Every Business Must Prepare For | Souradip Pal | [Read More](https://medium.com/p/c894d72e6c63) |
 | Mon, 19 Jan 2026 03:33:42 GMT | Ethical Hacking Capstone Complete: Mastering SQLi, Web Exploits, SMB & PCAP Analysis | Ebenezer Boateng Agyekum | [Read More](https://medium.com/p/ae63dd77f9a7) |
 | Mon, 19 Jan 2026 03:32:05 GMT | A Simple Cybersecurity Learning Path for College Students (No Noise) | Manubhav Sharma | [Read More](https://medium.com/p/858309826801) |
 | Mon, 19 Jan 2026 03:31:11 GMT | Unlocking the Power of Hashcat: Advanced Cracking Techniques for Real-World Pentesting | Cybeague Technologies | [Read More](https://medium.com/p/57aa2cd9601f) |
@@ -105,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 Jan 2026 17:33:54 GMT | Starting Your Bug Bounty Journey: Tips for Beginners | Nayan Ghimire | [Read More](https://medium.com/p/88a41eab150c) |
 | Sun, 18 Jan 2026 17:27:09 GMT | Сканування сервісів з nmap | Fl4g Hunt3r Project | [Read More](https://medium.com/p/6f38307ee8ca) |
 | Sun, 18 Jan 2026 17:16:14 GMT | The Future of African Leadership Is Digital & Security Is Governance | Tim Murkomen | [Read More](https://medium.com/p/60bf21acda02) |
-| Sun, 18 Jan 2026 17:05:23 GMT | Report Writing | Allen Ace | [Read More](https://medium.com/p/d96c96d2e42d) |
-| Sun, 18 Jan 2026 17:05:12 GMT | Why the US and Europe Are Shifting Back to Offline Hacking & Cybersecurity
-For years, cybersecurity… | Ankit rai | [Read More](https://medium.com/p/d96782d5d3a9) |
-| Sun, 18 Jan 2026 17:00:48 GMT | How Attackers Think About Trust (And Defenders Don’t) | Daniel Isaac E | [Read More](https://medium.com/p/43b00ca0a263) |
-| Sun, 18 Jan 2026 16:56:42 GMT | Dynamic Analysis & Instrumentation Android | mdan | [Read More](https://medium.com/p/1b6654a745f5) |
-| Sun, 18 Jan 2026 16:46:40 GMT | I finally forced myself to start DSA(Here’s what 20 problems taught me) | Daivik S Gokhale | [Read More](https://medium.com/p/6738b5d165c7) |
-| Sun, 18 Jan 2026 16:42:38 GMT | Form-Based Authentication: Best Practices for Secure Login Systems | Shalu | [Read More](https://medium.com/p/46f4d7925b87) |
-| Sun, 18 Jan 2026 16:32:14 GMT | Entering The Dark Web | Nxgprince | [Read More](https://medium.com/p/3a7f4de59fbe) |
