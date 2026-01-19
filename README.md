@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 Jan 2026 14:49:51 GMT | Reflections Through the Stars: My Connection to Sailor Moon, Galaxia, Saturn, and Black Lady… | Harold Alfonso Perez-Cerna | [Read More](https://medium.com/p/3b90a0010aa1) |
+| Mon, 19 Jan 2026 14:33:25 GMT | AI-Driven Reconnaissance: The New Frontier of OSINT for the Modern Hacker | Keyur | [Read More](https://medium.com/p/d4bf7e780159) |
+| Mon, 19 Jan 2026 14:33:15 GMT | AWS Cloud Pentesting Roadmap: A Practical Path Built on Understanding and Practice | Muhammad Elgllad | [Read More](https://medium.com/p/06a89611797c) |
+| Mon, 19 Jan 2026 14:31:59 GMT | Mastering Ethical Hacking: A Comprehensive Course Overview | Vignesh R | [Read More](https://medium.com/p/39056a20d8ca) |
+| Mon, 19 Jan 2026 14:28:30 GMT | How to Stop Directory Traversal Attacks in Python | Maikel Mardjan | [Read More](https://medium.com/p/13888ca0b2ee) |
+| Mon, 19 Jan 2026 14:27:46 GMT | Discover the Best Tips and Guides on TechWirePro in 2026 | Jannat AS | [Read More](https://medium.com/p/c1414dc4a719) |
 | Mon, 19 Jan 2026 14:22:06 GMT | Why Your CTI Team Can’t Keep Up (And How Data Engineering for CTI Fixes It) | Adam Goss | [Read More](https://medium.com/p/efd4e6ce6fee) |
 | Mon, 19 Jan 2026 14:20:26 GMT | How to Change the Combination on a Cannon Safe - Safe Guide | Sure Lock & Key LLC | [Read More](https://medium.com/p/a3fb1e1c30bf) |
 | Mon, 19 Jan 2026 14:18:12 GMT | CrashFix / ClickFix / KongTuke (404 TDS, Chaya_002, LandUpdate808, TAG-124) and ModeloRAT: The… | Germano Costi | [Read More](https://medium.com/p/be9a1f8e80c1) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 09:14:33 GMT | Tech Cold War 2026: China’s Cybersecurity Software Ban Tests U.S.–China | eL Njas!™ | [Read More](https://medium.com/p/d25b98d408ea) |
 | Mon, 19 Jan 2026 09:12:32 GMT | SeClip: Safe & Secure Clipboard Extension for Android | kuroappworks | [Read More](https://medium.com/p/a0475d0ba918) |
 | Mon, 19 Jan 2026 08:59:18 GMT | How a simple password reset led to a complete account takeover | Jimmy | [Read More](https://medium.com/p/2cd56639d150) |
-| Mon, 19 Jan 2026 08:57:46 GMT | Building the C9 Tactical Command Ecosystem: How I Merged Hardware & Data to Hack Esports Strategy | Suvadip Pramanik | [Read More](https://medium.com/p/684565f0854f) |
-| Mon, 19 Jan 2026 08:53:08 GMT | Bilgi Nasıl Toplanır ve Güce Dönüşür: İstihbarat Toplama Disiplinleri | Ziya Gokalp | [Read More](https://medium.com/p/814a6f6ca6b5) |
-| Mon, 19 Jan 2026 08:52:16 GMT | TSCM & Red Team: The Hidden Battlefield of Intelligence | Ziya Gokalp | [Read More](https://medium.com/p/ce780205540a) |
-| Mon, 19 Jan 2026 08:48:34 GMT | Shocking!! 10 Vulnerabilities Found In Almost Every Pentest | Redfox Security | [Read More](https://medium.com/p/00924aa0e712) |
-| Mon, 19 Jan 2026 08:42:55 GMT | SQL Injection (Section 1) — Day 1 | Belajar Siber Cyberilma | [Read More](https://medium.com/p/b73fbdc73f5b) |
-| Mon, 19 Jan 2026 08:31:57 GMT | G Suite vs Office 365: What’s the Best for Your Business Needs? | EINITIAL24 | [Read More](https://medium.com/p/23dfc6356c3a) |
