@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 Jan 2026 19:21:25 GMT | CloudGoat AWS iam_privesc_by_rollback Walkthrough | Spookz | [Read More](https://medium.com/p/5b90deffaa80) |
+| Mon, 19 Jan 2026 19:19:12 GMT | My First Step into Cybersecurity: Real Talk | P Sam Tarun | [Read More](https://medium.com/p/610c1147334f) |
+| Mon, 19 Jan 2026 19:16:53 GMT | Engineering Ultra-Stealth Covert Communication in VoLTE via Silence Period Dynamics | Reza Harirchian | [Read More](https://medium.com/p/a79f663598b0) |
+| Mon, 19 Jan 2026 19:16:36 GMT | The Complete Guide to HTB’s Login Brute Forcing Module (Everything You Need to Know)https://academy. | Faisal Shahzad | [Read More](https://medium.com/p/d0322aef0b84) |
 | Mon, 19 Jan 2026 19:13:03 GMT | An Analysis of the Next Ten Years of Cybersecurity: 2026–2036 | Laura Garcia | [Read More](https://medium.com/p/f6df127cd7f5) |
 | Mon, 19 Jan 2026 19:08:30 GMT | Explorando uma “Chain”: Cache Poisoning + OpenID Misconfiguration = ATO | Wesley "dk4trin" Santos | [Read More](https://medium.com/p/65a5f4210887) |
 | Mon, 19 Jan 2026 19:02:00 GMT | Anti-Spyware | Iram Jack | [Read More](https://medium.com/p/e66be24ece37) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 13:52:59 GMT | The World of Cybersecurity | Paukhankhual Hangsing | [Read More](https://medium.com/p/d507d944037c) |
 | Mon, 19 Jan 2026 13:50:50 GMT | Surviving the AI Cyber Threat A Practical Guide to Defense | Najeeb W | [Read More](https://medium.com/p/ca6e4ce23f57) |
 | Mon, 19 Jan 2026 13:47:20 GMT | Why Retractions Are Now a Feature, Not a Failure, of Scientific Publishing | Kirby Proffitt | [Read More](https://medium.com/p/47b7c52e461f) |
-| Mon, 19 Jan 2026 13:46:58 GMT | Cyber Sherlock Weekly Update: 19 January 2026 | Sujon Al Mamun | [Read More](https://medium.com/p/226b6f3e1248) |
-| Mon, 19 Jan 2026 13:43:50 GMT | F5 BIG-IP Breach: Timeline, Impact, and Lessons | VenariX, Inc. | [Read More](https://medium.com/p/7b7722287d61) |
-| Mon, 19 Jan 2026 13:39:13 GMT | Microsoft Confirms Emergency Updates For Most Windows PCs | Moni | [Read More](https://medium.com/p/2e6b0c46e4e2) |
-| Mon, 19 Jan 2026 13:32:42 GMT | Secure Linux Server : Monitoring System Integrity with AIDE | bektiaw | [Read More](https://medium.com/p/34ba289611b5) |
