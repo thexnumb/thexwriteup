@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 Jan 2026 20:51:59 GMT | Огляд методів веб-розвідки (web enumeration) | Fl4g Hunt3r Project | [Read More](https://medium.com/p/b7b117689cb5) |
+| Mon, 19 Jan 2026 20:51:51 GMT | How Do Security Guard Services in West Covina Handle Visitor Management? | GuardLine Chronicles | [Read More](https://medium.com/p/21d6e22bef3f) |
+| Mon, 19 Jan 2026 20:49:51 GMT | Agentic Cybersecurity: The Atlantis Cyber Reasoning System | J Xie | [Read More](https://medium.com/p/f4db53d6a0a6) |
+| Mon, 19 Jan 2026 20:49:01 GMT | Windows Privilege Escalation Scenarios — In-Depth Guide | Esra Kayhan | [Read More](https://medium.com/p/395e849fbd9e) |
+| Mon, 19 Jan 2026 20:46:09 GMT | Bug Bounty Learning Journey — From Day 8–15 | Anshkamra | [Read More](https://medium.com/p/e96c2669141c) |
 | Mon, 19 Jan 2026 20:42:08 GMT | 6 Mistakes That Will Make You an Unemployed CS Graduate | Mohamed Salman Paris M | [Read More](https://medium.com/p/ab2750b8703e) |
 | Mon, 19 Jan 2026 20:41:33 GMT | From Risk to Infinite Opportunity: Navigating the Quantum Era | Saisimhan | [Read More](https://medium.com/p/ee3a9d8b44ac) |
 | Mon, 19 Jan 2026 20:40:16 GMT | Why Behaviour Improvements Are Missing from Performance Reviews (And Why That’s a Problem) | Steve Anderson | [Read More](https://medium.com/p/5ec09a17de92) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 15:07:29 GMT | Why Your Business Needs Cybersecurity Compliance | Digital Uppercut | [Read More](https://medium.com/p/04b8a3db413b) |
 | Mon, 19 Jan 2026 15:06:38 GMT | The Most Overlooked Identity Risk Isn’t the CEO’s Account | Dr. Shashi Karhail | [Read More](https://medium.com/p/b3ca75316bdf) |
 | Mon, 19 Jan 2026 15:03:09 GMT | Cyber Briefing: 2026.01.19 | CyberMaterial | [Read More](https://medium.com/p/12756d0b6f00) |
-| Mon, 19 Jan 2026 14:56:52 GMT | Fix Spinning Mac Beachballs Before Work Suffers | Geoffrey Wenger | [Read More](https://medium.com/p/d60ce14e6f0e) |
-| Mon, 19 Jan 2026 14:53:23 GMT | “Bug Bounty Bootcamp #18: Demystifying Content Security Policy (CSP) — The Ultimate Bypass… | Aman Sharma | [Read More](https://medium.com/p/cb79b1d89e19) |
-| Mon, 19 Jan 2026 14:49:51 GMT | Reflections Through the Stars: My Connection to Sailor Moon, Galaxia, Saturn, and Black Lady… | Harold Alfonso Perez-Cerna | [Read More](https://medium.com/p/3b90a0010aa1) |
-| Mon, 19 Jan 2026 14:33:25 GMT | AI-Driven Reconnaissance: The New Frontier of OSINT for the Modern Hacker | Keyur | [Read More](https://medium.com/p/d4bf7e780159) |
-| Mon, 19 Jan 2026 14:33:15 GMT | AWS Cloud Pentesting Roadmap: A Practical Path Built on Understanding and Practice | Muhammad Elgllad | [Read More](https://medium.com/p/06a89611797c) |
