@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 Jan 2026 20:42:08 GMT | 6 Mistakes That Will Make You an Unemployed CS Graduate | Mohamed Salman Paris M | [Read More](https://medium.com/p/ab2750b8703e) |
+| Mon, 19 Jan 2026 20:41:33 GMT | From Risk to Infinite Opportunity: Navigating the Quantum Era | Saisimhan | [Read More](https://medium.com/p/ee3a9d8b44ac) |
+| Mon, 19 Jan 2026 20:40:16 GMT | Why Behaviour Improvements Are Missing from Performance Reviews (And Why That’s a Problem) | Steve Anderson | [Read More](https://medium.com/p/5ec09a17de92) |
+| Mon, 19 Jan 2026 20:36:46 GMT | 0-Documenting my Cyber Security Journey | Zamam Wasim | [Read More](https://medium.com/p/e74fb2c70b9b) |
+| Mon, 19 Jan 2026 20:29:57 GMT | My Bug Bounty Learning Journey (Day 1–7) | Anshkamra | [Read More](https://medium.com/p/8b3b6697cf73) |
+| Mon, 19 Jan 2026 20:27:20 GMT | How to Share Secrets Securely and Simply with One-Time Secret | Andrei Trukhin | [Read More](https://medium.com/p/a452d904c56d) |
+| Mon, 19 Jan 2026 20:23:04 GMT | Safari Surveillance: A Reflection on Seeing and Being Seen in Kruger National Park | Julie Terebkov | [Read More](https://medium.com/p/e4cff34ae2f6) |
 | Mon, 19 Jan 2026 20:12:27 GMT | BAC Portswigger Labs | Vcasseb | [Read More](https://medium.com/p/9776206ed55b) |
 | Mon, 19 Jan 2026 20:11:52 GMT | PentestAgent: Revolutionizing Offensive Security with AI | MrGood | [Read More](https://medium.com/p/57e4f113c9ed) |
 | Mon, 19 Jan 2026 20:08:02 GMT | Elevate Your Hacking Skills: Top Cybersecurity Discord Servers to Join Today | Smert | [Read More](https://medium.com/p/d7d5d93a4276) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 14:49:51 GMT | Reflections Through the Stars: My Connection to Sailor Moon, Galaxia, Saturn, and Black Lady… | Harold Alfonso Perez-Cerna | [Read More](https://medium.com/p/3b90a0010aa1) |
 | Mon, 19 Jan 2026 14:33:25 GMT | AI-Driven Reconnaissance: The New Frontier of OSINT for the Modern Hacker | Keyur | [Read More](https://medium.com/p/d4bf7e780159) |
 | Mon, 19 Jan 2026 14:33:15 GMT | AWS Cloud Pentesting Roadmap: A Practical Path Built on Understanding and Practice | Muhammad Elgllad | [Read More](https://medium.com/p/06a89611797c) |
-| Mon, 19 Jan 2026 14:31:59 GMT | Mastering Ethical Hacking: A Comprehensive Course Overview | Vignesh R | [Read More](https://medium.com/p/39056a20d8ca) |
-| Mon, 19 Jan 2026 14:28:30 GMT | How to Stop Directory Traversal Attacks in Python | Maikel Mardjan | [Read More](https://medium.com/p/13888ca0b2ee) |
-| Mon, 19 Jan 2026 14:27:46 GMT | Discover the Best Tips and Guides on TechWirePro in 2026 | Jannat AS | [Read More](https://medium.com/p/c1414dc4a719) |
-| Mon, 19 Jan 2026 14:22:06 GMT | Why Your CTI Team Can’t Keep Up (And How Data Engineering for CTI Fixes It) | Adam Goss | [Read More](https://medium.com/p/efd4e6ce6fee) |
-| Mon, 19 Jan 2026 14:20:26 GMT | How to Change the Combination on a Cannon Safe - Safe Guide | Sure Lock & Key LLC | [Read More](https://medium.com/p/a3fb1e1c30bf) |
-| Mon, 19 Jan 2026 14:18:12 GMT | CrashFix / ClickFix / KongTuke (404 TDS, Chaya_002, LandUpdate808, TAG-124) and ModeloRAT: The… | Germano Costi | [Read More](https://medium.com/p/be9a1f8e80c1) |
-| Mon, 19 Jan 2026 14:15:31 GMT | Telegram Proxy Links: A Client-Side IP Exposure Risk Hiding Behind Username-Like Appearance | maddy | [Read More](https://medium.com/p/682a2a6920e2) |
