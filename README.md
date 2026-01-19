@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 Jan 2026 03:57:14 GMT | The Experience Barrier Is Crumbling in the AI Era | Chier Hu | [Read More](https://medium.com/p/62589fbddca0) |
+| Mon, 19 Jan 2026 03:33:42 GMT | Ethical Hacking Capstone Complete: Mastering SQLi, Web Exploits, SMB & PCAP Analysis | Ebenezer Boateng Agyekum | [Read More](https://medium.com/p/ae63dd77f9a7) |
+| Mon, 19 Jan 2026 03:32:05 GMT | A Simple Cybersecurity Learning Path for College Students (No Noise) | Manubhav Sharma | [Read More](https://medium.com/p/858309826801) |
+| Mon, 19 Jan 2026 03:31:11 GMT | Unlocking the Power of Hashcat: Advanced Cracking Techniques for Real-World Pentesting | Cybeague Technologies | [Read More](https://medium.com/p/57aa2cd9601f) |
+| Mon, 19 Jan 2026 03:30:17 GMT | Getting Started with Hashcat: Your Fast Track Into Password Cracking Basics | Cybeague Technologies | [Read More](https://medium.com/p/fa1bc90eef9d) |
+| Mon, 19 Jan 2026 03:27:14 GMT | Why Zippers Are No Longer Enough — The Rise of Fingerprint-Secured Everyday Carry | WIWU GLOBAL | [Read More](https://medium.com/p/9943a1852e95) |
+| Mon, 19 Jan 2026 03:26:36 GMT | Cyber Kill Chain & MITRE ATT&CK Explained — A SOC Analyst’s Deep Dive | ARCHANA P | [Read More](https://medium.com/p/dead0c33ce13) |
+| Mon, 19 Jan 2026 03:07:31 GMT | Learning Kali Linux Basics - My First Step in Cybersecurity (CEH) | Syber Security beginner. | [Read More](https://medium.com/p/edf32afeeaf7) |
+| Mon, 19 Jan 2026 03:06:49 GMT | Splunk: Corelight - Zeek and Suricata CTF Write-Up | Jenny | [Read More](https://medium.com/p/5d91b9bda1df) |
+| Mon, 19 Jan 2026 02:44:05 GMT | Kubernetes RBAC Explained Simply (And Why Most Clusters Are Over-Privileged) | Giri Babu | [Read More](https://medium.com/p/3821ab49d3dc) |
+| Mon, 19 Jan 2026 02:42:32 GMT | Tải Hack Angry Birds 2 Mod Vô Hạn Tiền, Đá Quý, Năng Lượng | TaiModApk | [Read More](https://medium.com/p/7b9a0c30f653) |
+| Mon, 19 Jan 2026 02:35:57 GMT | The Day You Can’t Believe Your Eyes: Welcome to the Era of Synthetic Deception | TheTechGuy | [Read More](https://medium.com/p/b1ba27873875) |
+| Mon, 19 Jan 2026 02:27:15 GMT | RootMe — TryHackMe Room Walkthrough | Hemantha Krishna Challa | [Read More](https://medium.com/p/5afa0746d7d1) |
+| Mon, 19 Jan 2026 02:06:51 GMT | What BodySnatcher Teaches Us About the Agent Identity Gap | AstraSync AI | [Read More](https://medium.com/p/c69d3af7297d) |
 | Mon, 19 Jan 2026 01:59:36 GMT | Accidental Intelligence: Grokking and the Thin Red Line to Insecurity | Luis Vizcaya | [Read More](https://medium.com/p/8e7b7c843e1b) |
 | Mon, 19 Jan 2026 01:46:30 GMT | The Inescapable Wired Future: Always Connected, No Turning Back | Infinite Solutions by J. I. Memphis | [Read More](https://medium.com/p/30f443c3ef9a) |
 | Mon, 19 Jan 2026 01:34:43 GMT | It’s 10:00, Do You Know Where Your Personal Information Is? | Larrylambert | [Read More](https://medium.com/p/5ff7975a039c) |
@@ -32,6 +46,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 Jan 2026 23:26:20 GMT | Android Security in the Age of Jetpack Compose: From Task Hijacking to Tapjacking | Roman Speranskii | [Read More](https://medium.com/p/edbbc78be943) |
 | Sun, 18 Jan 2026 23:11:49 GMT | Beyond the Noise: Why I Built VedicRecon (and Why Reconnaissance Needs to Change) | Vedic_error | [Read More](https://medium.com/p/e7d5cb307430) |
 | Sun, 18 Jan 2026 22:49:52 GMT | Understanding Android Developer Verification | Kayvan Kaseb | [Read More](https://medium.com/p/e918deaa281e) |
+| Sun, 18 Jan 2026 22:32:58 GMT | How HTTP actually works? | Atharv Tripathi | [Read More](https://medium.com/p/fe1ba11b30bb) |
 | Sun, 18 Jan 2026 22:24:02 GMT | Why Hiring a Security Company in Houston Is a Smart Move | Evan Raahil | [Read More](https://medium.com/p/659ba69a6966) |
 | Sun, 18 Jan 2026 22:18:00 GMT | Welcome to my space :) | Hobin Rood | [Read More](https://medium.com/p/92b0e3cbc25f) |
 | Sun, 18 Jan 2026 22:16:16 GMT | Phishing Simulator | Aaronashley | [Read More](https://medium.com/p/0a147c5b8f13) |
@@ -98,18 +113,3 @@ For years, cybersecurity… | Ankit rai | [Read More](https://medium.com/p/d9678
 | Sun, 18 Jan 2026 16:46:40 GMT | I finally forced myself to start DSA(Here’s what 20 problems taught me) | Daivik S Gokhale | [Read More](https://medium.com/p/6738b5d165c7) |
 | Sun, 18 Jan 2026 16:42:38 GMT | Form-Based Authentication: Best Practices for Secure Login Systems | Shalu | [Read More](https://medium.com/p/46f4d7925b87) |
 | Sun, 18 Jan 2026 16:32:14 GMT | Entering The Dark Web | Nxgprince | [Read More](https://medium.com/p/3a7f4de59fbe) |
-| Sun, 18 Jan 2026 16:26:13 GMT | The Security Checklist Every LLM-Generated App Needs Before Launch | Keshav Raj | [Read More](https://medium.com/p/81e67e604d1e) |
-| Sun, 18 Jan 2026 16:22:17 GMT | HackerOne HTML Injection Fix Bypass‍ | ab.infosec | [Read More](https://medium.com/p/9aef7806cebc) |
-| Sun, 18 Jan 2026 16:19:24 GMT | Cybersec and Troy | Lucas Haddad Vieira | [Read More](https://medium.com/p/980dcc13eae7) |
-| Sun, 18 Jan 2026 16:16:47 GMT | DDoS Attack — Distributed Denial-of-Service | Topnotch | [Read More](https://medium.com/p/230fe81eefa6) |
-| Sun, 18 Jan 2026 16:16:44 GMT | On policymaking and beyond for AI, CySec, Tech, and Talent in Pakistan: Reflections on an online… | Sage Khan | [Read More](https://medium.com/p/e84a1ecbe175) |
-| Sun, 18 Jan 2026 16:15:07 GMT | Can Smartphones Be Surveilled? Separating Security Facts from Digital Myths | Rebecca Smith | [Read More](https://medium.com/p/5d27238c6392) |
-| Sun, 18 Jan 2026 16:14:49 GMT | A Practical Way to Check If Your Linux System Has Been Touched | Sam Writes Security | [Read More](https://medium.com/p/9aa314274b68) |
-| Sun, 18 Jan 2026 16:14:35 GMT | Design-Level Stored XSS in Matomo i18n Rendering | D7 | [Read More](https://medium.com/p/aa305d7f88bc) |
-| Sun, 18 Jan 2026 16:01:27 GMT | How 12Testers Replaces ‘Luck’ with Data-Driven Testing !!! | Kaizen Works | [Read More](https://medium.com/p/436b88ce6d77) |
-| Sun, 18 Jan 2026 15:58:47 GMT | I Broke and Rebuilt My SOC Home Lab — This Is My Centralized Monitoring & Detection Pipeline | Ib2dk | [Read More](https://medium.com/p/9c374cbaa6e2) |
-| Sun, 18 Jan 2026 15:51:46 GMT | ️‍♂️ How I Run Burp Suite in the Background Without Breaking My Browser (Firefox Setup) | ghostyjoe | [Read More](https://medium.com/p/c5f71703a0bd) |
-| Sun, 18 Jan 2026 15:50:50 GMT | Why is PAM Not Enough? | John Down | [Read More](https://medium.com/p/878d91bceb7a) |
-| Sun, 18 Jan 2026 15:49:22 GMT | ID Parametresi Üzerinden Yetki Aşımı /IDOR | Zekikayaalp | [Read More](https://medium.com/p/9fd6f2364fd3) |
-| Sun, 18 Jan 2026 15:46:10 GMT | The Ultimate Guide to AI tools for SEO | Dipesh Ramteke | [Read More](https://medium.com/p/9fd2359a7b4f) |
-| Sun, 18 Jan 2026 15:44:42 GMT | CIA’s Chinese Recruitment Videos Look Like Romance Scams Here’s Why It Matters | Nanmoon | [Read More](https://medium.com/p/d2381070f2a9) |
