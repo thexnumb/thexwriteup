@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 Jan 2026 01:59:36 GMT | Accidental Intelligence: Grokking and the Thin Red Line to Insecurity | Luis Vizcaya | [Read More](https://medium.com/p/8e7b7c843e1b) |
+| Mon, 19 Jan 2026 01:46:30 GMT | The Inescapable Wired Future: Always Connected, No Turning Back | Infinite Solutions by J. I. Memphis | [Read More](https://medium.com/p/30f443c3ef9a) |
+| Mon, 19 Jan 2026 01:34:43 GMT | It’s 10:00, Do You Know Where Your Personal Information Is? | Larrylambert | [Read More](https://medium.com/p/5ff7975a039c) |
+| Mon, 19 Jan 2026 01:31:59 GMT | Your Python Code Isn’t as Safe as You Think: 9 Security Mistakes (With Real Fixes) | Muhammad Qasim | [Read More](https://medium.com/p/5345c6f82c56) |
+| Mon, 19 Jan 2026 01:31:25 GMT | Saved by Kindness | Pam Ahern | [Read More](https://medium.com/p/606613eb9c75) |
+| Mon, 19 Jan 2026 01:23:15 GMT | Vulnerability Management Program in Practice | Dany Christel | [Read More](https://medium.com/p/67ce8ac955e9) |
+| Mon, 19 Jan 2026 01:03:19 GMT | TechNova Solutions Expansion: A Hands-On Active Directory Administration and Security Lab Using AWS… | Aadeyemikazeem | [Read More](https://medium.com/p/737f1622857b) |
+| Mon, 19 Jan 2026 00:41:49 GMT | Anti-Looter Kit Review: A Simple and Effective Way to Protect Your Home | Anti-Looter Kit | [Read More](https://medium.com/p/27eb634cb700) |
+| Mon, 19 Jan 2026 00:40:12 GMT | A Lawyer Narrates How Her Nude Photos Are All Over the Internet | Chaudhry Awais Ahmed | [Read More](https://medium.com/p/87fd1c0dc5d9) |
+| Mon, 19 Jan 2026 00:38:20 GMT | Something subtle shifted in AI policy, and it matters because we’re no longer talking about ideas… | A D | [Read More](https://medium.com/p/f4a9c943a189) |
+| Mon, 19 Jan 2026 00:30:29 GMT | Hola Mundo | Carlos CM | [Read More](https://medium.com/p/2b7abd385f6a) |
+| Mon, 19 Jan 2026 00:29:06 GMT | SSTI1 (PicoCTF) | Destripador | [Read More](https://medium.com/p/c22a5405d6b6) |
+| Mon, 19 Jan 2026 00:28:21 GMT | Inside the Mind of a Scammer: Tactics, Scripts, and Emotional Hooks | Richard Buchfink | [Read More](https://medium.com/p/d81434f28888) |
+| Mon, 19 Jan 2026 00:19:38 GMT | The Human Firewall, Part 2: When Love and Trust Get Hacked | Victor Yan | [Read More](https://medium.com/p/13de3d6b29c0) |
+| Mon, 19 Jan 2026 00:02:01 GMT | LetsDefend — Golden Ticket Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/f9e6bf032223) |
+| Sun, 18 Jan 2026 23:49:02 GMT | Lessons Learned from Running a Full Web App Vulnerability Scan with OWASP ZAP | Isaac Edzie | [Read More](https://medium.com/p/e4091f8d9093) |
+| Sun, 18 Jan 2026 23:32:59 GMT | Blind SQL Injection: A Hands-On Lab Walkthrough | SilentExploit | [Read More](https://medium.com/p/a2894dd18511) |
 | Sun, 18 Jan 2026 23:26:20 GMT | Android Security in the Age of Jetpack Compose: From Task Hijacking to Tapjacking | Roman Speranskii | [Read More](https://medium.com/p/edbbc78be943) |
 | Sun, 18 Jan 2026 23:11:49 GMT | Beyond the Noise: Why I Built VedicRecon (and Why Reconnaissance Needs to Change) | Vedic_error | [Read More](https://medium.com/p/e7d5cb307430) |
 | Sun, 18 Jan 2026 22:49:52 GMT | Understanding Android Developer Verification | Kayvan Kaseb | [Read More](https://medium.com/p/e918deaa281e) |
@@ -96,20 +113,3 @@ For years, cybersecurity… | Ankit rai | [Read More](https://medium.com/p/d9678
 | Sun, 18 Jan 2026 15:49:22 GMT | ID Parametresi Üzerinden Yetki Aşımı /IDOR | Zekikayaalp | [Read More](https://medium.com/p/9fd6f2364fd3) |
 | Sun, 18 Jan 2026 15:46:10 GMT | The Ultimate Guide to AI tools for SEO | Dipesh Ramteke | [Read More](https://medium.com/p/9fd2359a7b4f) |
 | Sun, 18 Jan 2026 15:44:42 GMT | CIA’s Chinese Recruitment Videos Look Like Romance Scams Here’s Why It Matters | Nanmoon | [Read More](https://medium.com/p/d2381070f2a9) |
-| Sun, 18 Jan 2026 15:41:46 GMT | SQL Injection: Root Causes Developers Miss and Pentesters Exploit | Gokul | [Read More](https://medium.com/p/7ed11bc1dad2) |
-| Sun, 18 Jan 2026 15:36:59 GMT | Day 1.compTIA security+ | Newtongurung | [Read More](https://medium.com/p/96b48f3c2358) |
-| Sun, 18 Jan 2026 15:30:37 GMT | App Store Utilities Undermine Reliable System Maintenance | Geoffrey Wenger | [Read More](https://medium.com/p/ec677a929e75) |
-| Sun, 18 Jan 2026 15:30:07 GMT | What specific deliverables are included in a Pro plan report? | Arte Archives | [Read More](https://medium.com/p/a3d876f6cbad) |
-| Sun, 18 Jan 2026 15:27:46 GMT | I’ll get older, but your lover stays my age. | yna | [Read More](https://medium.com/p/cf83ec36da82) |
-| Sun, 18 Jan 2026 15:26:59 GMT | NATO 2035: The Strategic Imperative of a Cognitive Architecture | R.K.D. K. | [Read More](https://medium.com/p/70e75d65904c) |
-| Sun, 18 Jan 2026 15:25:22 GMT | TOP SECRET  Israel  China and US  Kill Chip Kill Switch Technology - The Trojan… | ElonMuskTheAntichrist | [Read More](https://medium.com/p/698af2898559) |
-| Sun, 18 Jan 2026 15:21:19 GMT | Things You Must Secure Before Deploying a Backend to Production | Shivam Bhadani | [Read More](https://medium.com/p/1eeb641cdf4b) |
-| Sun, 18 Jan 2026 15:10:30 GMT | Veritas: Bridging the Gap Between Digital Forensics and Explainable AI | Aayan Rashid | [Read More](https://medium.com/p/b996128a548b) |
-| Sun, 18 Jan 2026 15:02:30 GMT | Shadow AI and API Vulnerabilities: The Invisible Wound of Modern Enterprises | Emir Yusuf Nural | [Read More](https://medium.com/p/c6745771b980) |
-| Sun, 18 Jan 2026 14:57:59 GMT | Wachtwoord: 12345 (column) | Johan van de Beek (DjoeGio's Marginalia) | [Read More](https://medium.com/p/09fe2fd2dc4e) |
-| Sun, 18 Jan 2026 14:56:40 GMT | Firewalls & Segmentation: Building Digital Walls That Actually Work | Satyam Singh | [Read More](https://medium.com/p/457ec70fb6a2) |
-| Sun, 18 Jan 2026 14:51:42 GMT | Listening to Light- The Complete Engineering Guide to Laser Acoustic Surveillance Technology | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/14a19b7f34e6) |
-| Sun, 18 Jan 2026 14:50:54 GMT | The Guts to Call it Weak | Unwritten Waves | [Read More](https://medium.com/p/60b3bd5cd65b) |
-| Sun, 18 Jan 2026 14:44:12 GMT | How I Fixed a Stuck Security Onion Without Reinstalling | Ib2dk | [Read More](https://medium.com/p/bba957415bea) |
-| Sun, 18 Jan 2026 14:37:01 GMT | HackTheBox — Wonky AES | SPIDER1SEC | [Read More](https://medium.com/p/1c94e0f94666) |
-| Sun, 18 Jan 2026 14:32:26 GMT | Detecting Suspicious Activities Using Wireshark: A Comprehensive Guide | Vignesh R | [Read More](https://medium.com/p/16ac55ab8159) |
