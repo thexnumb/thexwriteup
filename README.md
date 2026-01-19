@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 Jan 2026 08:21:20 GMT | My First CTF | Manoj Nepal | [Read More](https://medium.com/p/5b2bc8cfd303) |
+| Mon, 19 Jan 2026 08:15:40 GMT | Cryptocurrency Feels Legit Now. That’s What Worries Me.!!!! | - Crypto - Health - Cyber - Tech | [Read More](https://medium.com/p/f37df42a6933) |
+| Mon, 19 Jan 2026 08:14:51 GMT | The $7.99 False Identity | Andrei Savine | [Read More](https://medium.com/p/cdc079231534) |
+| Mon, 19 Jan 2026 08:13:28 GMT | Zero Trust After Quantum — an architectural risk CISOs are missing | Mahfuzur Rahman | [Read More](https://medium.com/p/f3959135e67c) |
+| Mon, 19 Jan 2026 08:07:07 GMT | Cybersecurity Course — Lesson 1 | Cyberspace Bulletin | [Read More](https://medium.com/p/285a06d500a7) |
+| Mon, 19 Jan 2026 07:50:55 GMT | Sample Incident Response Report | Allen Ace | [Read More](https://medium.com/p/5f1e5367c80c) |
+| Mon, 19 Jan 2026 07:48:05 GMT | Unauthenticated Remote Code Execution in n8n: Dissecting CVE-2026–21858 (“Ni8mare”) +… | Lakshan Sameera | [Read More](https://medium.com/p/1b72c1b99d80) |
+| Mon, 19 Jan 2026 07:47:32 GMT | Supreme Duelist Stickman Mod APK | Bandisharecx | [Read More](https://medium.com/p/9e98d17805f1) |
+| Mon, 19 Jan 2026 07:42:50 GMT | Top 10 IT Companies in Bangalore For Freshers (2026 Updated List) | esseindiablog | [Read More](https://medium.com/p/5cf4730d26da) |
+| Mon, 19 Jan 2026 07:36:28 GMT | Eagle Fire-Resistant Safes - Certified Protection for Critical Documents | ARJUN CK | [Read More](https://medium.com/p/13829b22b750) |
+| Mon, 19 Jan 2026 07:26:55 GMT | The Art of the Pilot: A Strategic Blueprint for Flawless Ad/ Hybrid joined devices to Entra ID… | Jack Nelson | [Read More](https://medium.com/p/b9e6e34d05f1) |
+| Mon, 19 Jan 2026 07:26:50 GMT | The Hidden Threading Pitfall in Multi-Agent AI Systems | Muhammed Agbaje | [Read More](https://medium.com/p/b5f93fbcaf06) |
 | Mon, 19 Jan 2026 07:24:19 GMT | Your Computer Can Change Data Without Telling You - And Linux Allows It | Fazal PS | [Read More](https://medium.com/p/c4067399e9e9) |
 | Mon, 19 Jan 2026 07:15:20 GMT | Common Types of Cyber Threats You Should Know | Nishubirla | [Read More](https://medium.com/p/908baa7945f3) |
 | Mon, 19 Jan 2026 07:12:32 GMT | Threads Beats X, Sequoia Backs Rivals, and AI Enters the Operating Room - The Daily Tech Digest: 19… | Souren Stepanyan | [Read More](https://medium.com/p/eb0c05d90a09) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 Jan 2026 21:51:31 GMT | [Rabbit Store]  —  JWT Manipulation, SSRF, SSTI Leading to RCE and Root Access via a Vulnerable… | Bash Overflow | [Read More](https://medium.com/p/88a7a53f2109) |
 | Sun, 18 Jan 2026 21:44:19 GMT | How My Mother’s Nagging Turned Into an Accidental Malware & Forensics Case | Aviral | [Read More](https://medium.com/p/0957c760d8ac) |
 | Sun, 18 Jan 2026 21:41:44 GMT | Attack and Defense. A Brief Human History, from Stones to AI | Alessandro Bruschieri | [Read More](https://medium.com/p/a7cdb78e11c5) |
-| Sun, 18 Jan 2026 21:37:38 GMT | Metasploit দিয়ে এক্সপ্লয়টিং: সিকিউরিটি অ্যানালিস্টদের জন্য সহজ গাইড | SecurityMindPro | [Read More](https://medium.com/p/b31d46ef1be1) |
-| Sun, 18 Jan 2026 21:36:41 GMT | ওয়েব অ্যাপ্লিকেশন পেনটেস্টিংয়ে রিকন টুলসের ব্যবহার: একটি পূর্ণাঙ্গ গাইড | SecurityMindPro | [Read More](https://medium.com/p/4074030c6ba5) |
-| Sun, 18 Jan 2026 21:35:48 GMT | Understanding The Rising Threat of Supply Chain Attacks in Artificial Intelligence | Will Giles - Cybersecurity | [Read More](https://medium.com/p/b74a653a7a5b) |
-| Sun, 18 Jan 2026 21:35:34 GMT | Burp Suite Basics: A Beginner-Friendly Guide | Satyam Pathania | [Read More](https://medium.com/p/961711c32c1a) |
-| Sun, 18 Jan 2026 21:27:01 GMT | “Relevant” ctf - TryHackMe- Complete detailed walkthrough- (Token Impersonation, PrintSpoofer.exe, | Nishchay Manhas | [Read More](https://medium.com/p/3dd386f8889d) |
-| Sun, 18 Jan 2026 21:26:45 GMT | The Secret Weapon for Online Privacy: NordVPN | Genelia | [Read More](https://medium.com/p/a2dc72254c5e) |
-| Sun, 18 Jan 2026 21:26:00 GMT | Smart Internet Users Choose NordVPN — Here’s Why | Genelia | [Read More](https://medium.com/p/15696e8f0a55) |
-| Sun, 18 Jan 2026 21:17:19 GMT | For 11 Minutes, the Internet Trusted a Lie — and No Firewall Noticed | Liam | [Read More](https://medium.com/p/a3fa4cdbff05) |
-| Sun, 18 Jan 2026 21:15:25 GMT | Schneider’s Unlocked Keypad: Giving the Lua Shell a Warm Welcome | hacker_might | [Read More](https://medium.com/p/15788b2404f7) |
-| Sun, 18 Jan 2026 21:08:00 GMT | The Hacking Tool Chronicles: Dirb | z3r0trust | [Read More](https://medium.com/p/c4a8112604a4) |
-| Sun, 18 Jan 2026 21:06:05 GMT | Dynamic & Static Analysis Android: Praktik Mobile Pentest Menggunakan MobSF, Frida, dan Objection | Nanda Cahya Septiawan | [Read More](https://medium.com/p/41ed320a3cc7) |
-| Sun, 18 Jan 2026 20:57:00 GMT | Secure Kubernetes Deployment Guide (Self-Managed) — Part V | SOCFortress | [Read More](https://medium.com/p/3b2b26468ff5) |
