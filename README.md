@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 Jan 2026 20:12:27 GMT | BAC Portswigger Labs | Vcasseb | [Read More](https://medium.com/p/9776206ed55b) |
+| Mon, 19 Jan 2026 20:11:52 GMT | PentestAgent: Revolutionizing Offensive Security with AI | MrGood | [Read More](https://medium.com/p/57e4f113c9ed) |
+| Mon, 19 Jan 2026 20:08:02 GMT | Elevate Your Hacking Skills: Top Cybersecurity Discord Servers to Join Today | Smert | [Read More](https://medium.com/p/d7d5d93a4276) |
+| Mon, 19 Jan 2026 20:07:25 GMT | Environmental Fingerprinting: Identifying Network Infrastructure from PCAP Analysis | Chrissa Constantine (a.k.a. T3mp3st) | [Read More](https://medium.com/p/d1e1d514eede) |
+| Mon, 19 Jan 2026 20:05:48 GMT | VAPT Report Example | Aryan Sharma | [Read More](https://medium.com/p/f8440a9735c1) |
+| Mon, 19 Jan 2026 19:59:56 GMT | Why I Wrote My Own DFIR Code Instead of Using Professional Tools | Musa Ndlala | [Read More](https://medium.com/p/bac2456416f2) |
+| Mon, 19 Jan 2026 19:50:40 GMT | when you aren’t fed love on a silver spoon, you learn to lick it off knives. | yna | [Read More](https://medium.com/p/3aeb2e6cd45a) |
+| Mon, 19 Jan 2026 19:48:07 GMT | Chaining SQL Injection and Weak MD5 Hashing to Own the Admin Account | OopsSec Store | [Read More](https://medium.com/p/66f88c116fcb) |
+| Mon, 19 Jan 2026 19:40:15 GMT | Offensive Pentesting - Mr Robot CTF — TryHackMe - By Shiv Kumar - Walkthrough- Medium | Shiv Kumar | [Read More](https://medium.com/p/a90f4b475625) |
 | Mon, 19 Jan 2026 19:21:25 GMT | CloudGoat AWS iam_privesc_by_rollback Walkthrough | Spookz | [Read More](https://medium.com/p/5b90deffaa80) |
 | Mon, 19 Jan 2026 19:19:12 GMT | My First Step into Cybersecurity: Real Talk | P Sam Tarun | [Read More](https://medium.com/p/610c1147334f) |
 | Mon, 19 Jan 2026 19:16:53 GMT | Engineering Ultra-Stealth Covert Communication in VoLTE via Silence Period Dynamics | Reza Harirchian | [Read More](https://medium.com/p/a79f663598b0) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 14:20:26 GMT | How to Change the Combination on a Cannon Safe - Safe Guide | Sure Lock & Key LLC | [Read More](https://medium.com/p/a3fb1e1c30bf) |
 | Mon, 19 Jan 2026 14:18:12 GMT | CrashFix / ClickFix / KongTuke (404 TDS, Chaya_002, LandUpdate808, TAG-124) and ModeloRAT: The… | Germano Costi | [Read More](https://medium.com/p/be9a1f8e80c1) |
 | Mon, 19 Jan 2026 14:15:31 GMT | Telegram Proxy Links: A Client-Side IP Exposure Risk Hiding Behind Username-Like Appearance | maddy | [Read More](https://medium.com/p/682a2a6920e2) |
-| Mon, 19 Jan 2026 14:04:48 GMT | When Forensics Is Not About Math, but About Thinking | Nuha Choeiiam | [Read More](https://medium.com/p/692176433135) |
-| Mon, 19 Jan 2026 14:02:32 GMT | The Illusion of AI Security | Nwosu Rosemary | [Read More](https://medium.com/p/a26d81178231) |
-| Mon, 19 Jan 2026 14:01:32 GMT | Email Splitting Attack | Marc I | [Read More](https://medium.com/p/087ad8a596f3) |
-| Mon, 19 Jan 2026 13:57:07 GMT | Why Traditional Spam Filters No Longer Stop Targeted Email Attacks? | Aysha Saifi | [Read More](https://medium.com/p/265f413976d6) |
-| Mon, 19 Jan 2026 13:54:58 GMT | Web Security — SOP CORS , S | AYA | [Read More](https://medium.com/p/13d461d63cca) |
-| Mon, 19 Jan 2026 13:54:34 GMT | The OSI model is understood with the journey of a WhatsApp “Hi” through 7 layers of OSI. | Gaurang | [Read More](https://medium.com/p/0ee3a645a271) |
-| Mon, 19 Jan 2026 13:52:59 GMT | The World of Cybersecurity | Paukhankhual Hangsing | [Read More](https://medium.com/p/d507d944037c) |
-| Mon, 19 Jan 2026 13:50:50 GMT | Surviving the AI Cyber Threat A Practical Guide to Defense | Najeeb W | [Read More](https://medium.com/p/ca6e4ce23f57) |
-| Mon, 19 Jan 2026 13:47:20 GMT | Why Retractions Are Now a Feature, Not a Failure, of Scientific Publishing | Kirby Proffitt | [Read More](https://medium.com/p/47b7c52e461f) |
