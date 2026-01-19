@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 Jan 2026 17:40:39 GMT | Pandemic Unemployment Assistance Fraud: Zero Trust (Part 1) | Chris Perkins | [Read More](https://medium.com/p/733cf4e39b06) |
+| Mon, 19 Jan 2026 17:39:09 GMT | The New Travel Booking Email Scam Isn’t Clever. It’s Just Well Timed. | Really Bad Security | [Read More](https://medium.com/p/6a839492dbb2) |
+| Mon, 19 Jan 2026 17:37:09 GMT | Why the 2016 comeback has people questioning AI | Angelou Masters Jr | [Read More](https://medium.com/p/14c9c474107e) |
+| Mon, 19 Jan 2026 17:37:05 GMT | I Thought CORS Was Just a Header — Until It Broke My Security | Code Catalyst | [Read More](https://medium.com/p/06e28b82594b) |
+| Mon, 19 Jan 2026 17:37:05 GMT | Murals In Nature Reserve | Christine Morris Ph.D. | [Read More](https://medium.com/p/025592bf64e4) |
+| Mon, 19 Jan 2026 17:36:36 GMT | Pandemic Unemployment Assistance Fraud | Chris Perkins | [Read More](https://medium.com/p/10fa84912efc) |
+| Mon, 19 Jan 2026 17:35:40 GMT | Poisoned Pipelines: The AI Supply Chain Attack That Doesn’t Crash Anything | Phil Stafford | [Read More](https://medium.com/p/93d4a665239e) |
 | Mon, 19 Jan 2026 17:14:13 GMT | 5 Cybersecurity Myths That Refuse to Die | Abdul Ahad | [Read More](https://medium.com/p/892fe40254f9) |
 | Mon, 19 Jan 2026 17:09:49 GMT | Recover password from DELTA DOPSoft 4 .dpa | biero llagas | [Read More](https://medium.com/p/d65ee08823bc) |
 | Mon, 19 Jan 2026 17:08:56 GMT | How to Defend Against 5 Types of Threat Actors — Cybersecurity Unlocked Ep. 9 | Yash Kitey | [Read More](https://medium.com/p/12141aa79468) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 12:38:08 GMT | Basic Kali -Linux Commands for Ethical Hacking (Part-7) | Akhil Thakur | [Read More](https://medium.com/p/e60695133263) |
 | Mon, 19 Jan 2026 12:34:28 GMT | The Art of Digital Espionage: OSNIT, Footprinting, and Reconnaissance in Cybersecurity | Tahir | [Read More](https://medium.com/p/a6a76275f166) |
 | Mon, 19 Jan 2026 12:33:23 GMT | CISSP Exam Explained: A Friendly Guide for Beginners | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/74aa497b959d) |
-| Mon, 19 Jan 2026 12:32:32 GMT | Vocabulary Deep Dive—Issue #11 | Sri Murthy | [Read More](https://medium.com/p/20abb6a29216) |
-| Mon, 19 Jan 2026 12:22:22 GMT | Race Conditions in Web Apps: The Bug Class Nobody Tests For | Nabil Mouzouna نبيل مزونة | [Read More](https://medium.com/p/1253b47c2d3b) |
-| Mon, 19 Jan 2026 12:15:40 GMT | Evil-GPT v2 — TryHackMe CTF Walkthrough | Karim Hesham | [Read More](https://medium.com/p/283e19991b3a) |
-| Mon, 19 Jan 2026 12:13:29 GMT | Why Background Screening Should Start Before the Interview | Oneverify | [Read More](https://medium.com/p/c85a783fce19) |
-| Mon, 19 Jan 2026 12:07:09 GMT | A Guide to Cyber Security Governance for Australian Business Owners | Future IT Services | [Read More](https://medium.com/p/893814edf397) |
-| Mon, 19 Jan 2026 12:06:41 GMT | Performance Benchmarking of POX, Ryu, HPE-VAN, OpenDaylight, and ONOS Controllers Based on QoS… | OxMotaw3 | [Read More](https://medium.com/p/13498d3b6c7f) |
-| Mon, 19 Jan 2026 12:04:22 GMT | The Future of Cloud Native: Security as Code | Nopsa Ventures | [Read More](https://medium.com/p/501cf0a90956) |
