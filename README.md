@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 Jan 2026 21:30:24 GMT | The Most Fragile Link in the Digital World | Michael Zibulevsky | [Read More](https://medium.com/p/c3479f27a28d) |
+| Mon, 19 Jan 2026 21:22:27 GMT | Типи оболонок (shells) | Fl4g Hunt3r Project | [Read More](https://medium.com/p/3de3d96477eb) |
+| Mon, 19 Jan 2026 21:22:16 GMT | 6 AI cybersecurity projects to build your portfolio in 2026 (that aren’t basic) | h@shtalk | [Read More](https://medium.com/p/57e6be5d5ece) |
+| Mon, 19 Jan 2026 21:20:26 GMT | RST TI Report Digest: 19 Jan 2026 | RST Cloud | [Read More](https://medium.com/p/d00bf0692bcd) |
 | Mon, 19 Jan 2026 20:51:59 GMT | Огляд методів веб-розвідки (web enumeration) | Fl4g Hunt3r Project | [Read More](https://medium.com/p/b7b117689cb5) |
 | Mon, 19 Jan 2026 20:51:51 GMT | How Do Security Guard Services in West Covina Handle Visitor Management? | GuardLine Chronicles | [Read More](https://medium.com/p/21d6e22bef3f) |
 | Mon, 19 Jan 2026 20:49:51 GMT | Agentic Cybersecurity: The Atlantis Cyber Reasoning System | J Xie | [Read More](https://medium.com/p/f4db53d6a0a6) |
@@ -21,6 +25,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 20:41:33 GMT | From Risk to Infinite Opportunity: Navigating the Quantum Era | Saisimhan | [Read More](https://medium.com/p/ee3a9d8b44ac) |
 | Mon, 19 Jan 2026 20:40:16 GMT | Why Behaviour Improvements Are Missing from Performance Reviews (And Why That’s a Problem) | Steve Anderson | [Read More](https://medium.com/p/5ec09a17de92) |
 | Mon, 19 Jan 2026 20:36:46 GMT | 0-Documenting my Cyber Security Journey | Zamam Wasim | [Read More](https://medium.com/p/e74fb2c70b9b) |
+| Mon, 19 Jan 2026 20:30:51 GMT | OSINT: Why “Deleted” Doesn’t Mean Gone | Smert | [Read More](https://medium.com/p/12a038e714f8) |
 | Mon, 19 Jan 2026 20:29:57 GMT | My Bug Bounty Learning Journey (Day 1–7) | Anshkamra | [Read More](https://medium.com/p/8b3b6697cf73) |
 | Mon, 19 Jan 2026 20:27:20 GMT | How to Share Secrets Securely and Simply with One-Time Secret | Andrei Trukhin | [Read More](https://medium.com/p/a452d904c56d) |
 | Mon, 19 Jan 2026 20:23:04 GMT | Safari Surveillance: A Reflection on Seeing and Being Seen in Kruger National Park | Julie Terebkov | [Read More](https://medium.com/p/e4cff34ae2f6) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 15:24:03 GMT | Defence Robots Need Noise-Cancelling Headphones | Erkan Yalcinkaya | [Read More](https://medium.com/p/e2d5d002d19c) |
 | Mon, 19 Jan 2026 15:23:00 GMT | TCS HackQuest Season 10 — A Personal Experience | Jainil Borisagar | [Read More](https://medium.com/p/1aa45232a036) |
 | Mon, 19 Jan 2026 15:13:08 GMT | How to Perform a Basic Health Check on a FortiGate Firewall | Drissi Ismail | [Read More](https://medium.com/p/a52c4fdf73ff) |
-| Mon, 19 Jan 2026 15:10:45 GMT | Post 10: Software development life cycle (SDLC) | Satti Data | [Read More](https://medium.com/p/873be7f64997) |
-| Mon, 19 Jan 2026 15:09:50 GMT | ICS Cybersecurity in Transport Infrastructure | Muhammad Ali Khan | [Read More](https://medium.com/p/1ceba7b7e415) |
-| Mon, 19 Jan 2026 15:07:29 GMT | Why Your Business Needs Cybersecurity Compliance | Digital Uppercut | [Read More](https://medium.com/p/04b8a3db413b) |
-| Mon, 19 Jan 2026 15:06:38 GMT | The Most Overlooked Identity Risk Isn’t the CEO’s Account | Dr. Shashi Karhail | [Read More](https://medium.com/p/b3ca75316bdf) |
-| Mon, 19 Jan 2026 15:03:09 GMT | Cyber Briefing: 2026.01.19 | CyberMaterial | [Read More](https://medium.com/p/12756d0b6f00) |
