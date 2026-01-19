@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 Jan 2026 19:13:03 GMT | An Analysis of the Next Ten Years of Cybersecurity: 2026–2036 | Laura Garcia | [Read More](https://medium.com/p/f6df127cd7f5) |
+| Mon, 19 Jan 2026 19:08:30 GMT | Explorando uma “Chain”: Cache Poisoning + OpenID Misconfiguration = ATO | Wesley "dk4trin" Santos | [Read More](https://medium.com/p/65a5f4210887) |
+| Mon, 19 Jan 2026 19:02:00 GMT | Anti-Spyware | Iram Jack | [Read More](https://medium.com/p/e66be24ece37) |
+| Mon, 19 Jan 2026 19:01:16 GMT | QUIC Forensics Using Initial Packets: Hunting Clues in Encrypted Traffic | Fatima Zakir | [Read More](https://medium.com/p/b3712c6477be) |
+| Mon, 19 Jan 2026 18:56:18 GMT | Types of Footprinting in Cyber Security — Passive vs Active Explained | Shadow Attackers | [Read More](https://medium.com/p/799342ed8ac0) |
+| Mon, 19 Jan 2026 18:43:34 GMT | How Emails Really Work: A Simple Guide to Sending from Gmail to Hotmail | ANJAN SHARMA | [Read More](https://medium.com/p/9fa6f213e313) |
+| Mon, 19 Jan 2026 18:42:16 GMT | 4 AI Conversation Hacks to Save You the Headache | Manpreet Singh | [Read More](https://medium.com/p/7b5c02a85aa5) |
+| Mon, 19 Jan 2026 18:35:49 GMT | Lab: Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single… | KRY | [Read More](https://medium.com/p/a9668548e194) |
 | Mon, 19 Jan 2026 18:35:30 GMT | A Routine Click Revealed a Production Smell I Couldn’t Ignore | The Latency Gambler | [Read More](https://medium.com/p/c1cf26be7493) |
+| Mon, 19 Jan 2026 18:34:10 GMT | Breaking into Orbit: A CloudSEK CTF Web Exploitation Walkthrough | sushi | [Read More](https://medium.com/p/b5b24249607e) |
+| Mon, 19 Jan 2026 18:33:52 GMT | Why Phishing Still Works (Even If You Know About It) | PriOFF | [Read More](https://medium.com/p/74a0b4c2b8f5) |
+| Mon, 19 Jan 2026 18:30:55 GMT | Understanding Modern DDoS Attacks: Detection, Botnets, and Adaptive Defense Strategies | Erik soto | [Read More](https://medium.com/p/453bfcbcaeba) |
 | Mon, 19 Jan 2026 18:24:29 GMT | Analyzing 15 Days of Telnet Honeypot Data: | berke bodur | [Read More](https://medium.com/p/de007ca66d0c) |
 | Mon, 19 Jan 2026 18:17:22 GMT | Linux Privilege Escalation: 30 Days of Red Team (Day 17) | Maxwell Cross | [Read More](https://medium.com/p/08f832131043) |
 | Mon, 19 Jan 2026 18:12:08 GMT | Using AI Security Agents in CI/CD: From Scanners to Systems | Bobin Rajan | [Read More](https://medium.com/p/6828b9ccfa56) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 13:43:50 GMT | F5 BIG-IP Breach: Timeline, Impact, and Lessons | VenariX, Inc. | [Read More](https://medium.com/p/7b7722287d61) |
 | Mon, 19 Jan 2026 13:39:13 GMT | Microsoft Confirms Emergency Updates For Most Windows PCs | Moni | [Read More](https://medium.com/p/2e6b0c46e4e2) |
 | Mon, 19 Jan 2026 13:32:42 GMT | Secure Linux Server : Monitoring System Integrity with AIDE | bektiaw | [Read More](https://medium.com/p/34ba289611b5) |
-| Mon, 19 Jan 2026 13:29:44 GMT | WAF Bypass Made Simple: A Practical Checklist for Testers and Bug Hunters | Muhammed Asfan - Cybersecurity Analyst | [Read More](https://medium.com/p/18da199faf9c) |
-| Mon, 19 Jan 2026 13:29:04 GMT | Why Every Dev Team Needs SAST + DAST in 2026 (Use these open source tools!) | Tyler Hudson | [Read More](https://medium.com/p/e14435a2c798) |
-| Mon, 19 Jan 2026 13:19:31 GMT | Workaround to : version `GLIBC_X.X` not found | x02sec | [Read More](https://medium.com/p/af8f34827640) |
-| Mon, 19 Jan 2026 13:19:05 GMT | Cyber Consultation Services: A Practical Guide to Reducing Business Risk (Canada & USA) | Plutosec Cyber Security | [Read More](https://medium.com/p/6ca9d77128cf) |
-| Mon, 19 Jan 2026 13:17:22 GMT | Why Network Security Should Be Your Small Business’s Top Priority in 2026 | SMBs IT Solutions | [Read More](https://medium.com/p/f06ca5b65b17) |
-| Mon, 19 Jan 2026 13:16:37 GMT | Let me say something that might sound familiar. | Aderinsola Amode | [Read More](https://medium.com/p/68772c9c7e9c) |
-| Mon, 19 Jan 2026 13:14:13 GMT | Brooklyn Nine-Nine — THM Writeup/Walkthrough | sudo_0xksh | [Read More](https://medium.com/p/34de0de492a4) |
-| Mon, 19 Jan 2026 13:13:10 GMT | Bounty Hacker — THM Writeup / Walkthrough | sudo_0xksh | [Read More](https://medium.com/p/025d5cc47b60) |
-| Mon, 19 Jan 2026 13:09:46 GMT | The AI Revolution in Cybersecurity | Andrey Pautov | [Read More](https://medium.com/p/31e44704d51a) |
-| Mon, 19 Jan 2026 13:06:11 GMT | How Hexaview Builds Scalable Data & AI Systems Using Cloud-Native Services? | Ishika Verma | [Read More](https://medium.com/p/88152fa6bd9f) |
-| Mon, 19 Jan 2026 13:04:54 GMT | Active Directory Enumeration In-Depth Guide | Esra Kayhan | [Read More](https://medium.com/p/e33504774607) |
