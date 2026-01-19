@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 Jan 2026 07:24:19 GMT | Your Computer Can Change Data Without Telling You - And Linux Allows It | Fazal PS | [Read More](https://medium.com/p/c4067399e9e9) |
+| Mon, 19 Jan 2026 07:15:20 GMT | Common Types of Cyber Threats You Should Know | Nishubirla | [Read More](https://medium.com/p/908baa7945f3) |
+| Mon, 19 Jan 2026 07:12:32 GMT | Threads Beats X, Sequoia Backs Rivals, and AI Enters the Operating Room - The Daily Tech Digest: 19… | Souren Stepanyan | [Read More](https://medium.com/p/eb0c05d90a09) |
+| Mon, 19 Jan 2026 07:08:26 GMT | Insecure Direct Object Reference Allows Cross-Organization Resource Disclosure | mmnahian | [Read More](https://medium.com/p/dd737604d714) |
+| Mon, 19 Jan 2026 07:08:24 GMT | Remote File Inclusion (RFI) | Fahd Mohamed | [Read More](https://medium.com/p/a5a3289c6dc0) |
+| Mon, 19 Jan 2026 07:02:04 GMT | This is why your AI platform on Azure needs a Landing Zone | Brian Veldman | [Read More](https://medium.com/p/58620ef94fa5) |
+| Mon, 19 Jan 2026 06:49:46 GMT | The Growing Importance of Electronic Security Solutions in a Rapidly Evolving India | Ciss India | [Read More](https://medium.com/p/89076a68719a) |
+| Mon, 19 Jan 2026 06:44:50 GMT | Cyber Security Solutions for a Safer Digital World | zynextro | [Read More](https://medium.com/p/06424d26da5a) |
+| Mon, 19 Jan 2026 06:42:25 GMT | Day 9 — OAuth, Bearer Tokens, and Why “It’s Just a Token” Is a Dangerous Thought | NineTales | [Read More](https://medium.com/p/f4429ff70da2) |
 | Mon, 19 Jan 2026 06:38:12 GMT | Turning Red Teaming Assessment Into Measurable Security Confidence | Digital Duffer | [Read More](https://medium.com/p/e1198eb4a86a) |
 | Mon, 19 Jan 2026 06:37:06 GMT | Why Your React App Is a Goldmine for Hackers | Code Catalyst | [Read More](https://medium.com/p/78a2f5975506) |
 | Mon, 19 Jan 2026 06:33:00 GMT | Session-Based Authentication VS Token-Based Authentication | Tamjidahmed | [Read More](https://medium.com/p/1192bc45f4d5) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 Jan 2026 21:08:00 GMT | The Hacking Tool Chronicles: Dirb | z3r0trust | [Read More](https://medium.com/p/c4a8112604a4) |
 | Sun, 18 Jan 2026 21:06:05 GMT | Dynamic & Static Analysis Android: Praktik Mobile Pentest Menggunakan MobSF, Frida, dan Objection | Nanda Cahya Septiawan | [Read More](https://medium.com/p/41ed320a3cc7) |
 | Sun, 18 Jan 2026 20:57:00 GMT | Secure Kubernetes Deployment Guide (Self-Managed) — Part V | SOCFortress | [Read More](https://medium.com/p/3b2b26468ff5) |
-| Sun, 18 Jan 2026 20:54:13 GMT | CISSP Domain 6: Security Assessment and Testing - PART 2 | Pushpak Sharma | [Read More](https://medium.com/p/4173cc642cbc) |
-| Sun, 18 Jan 2026 20:35:06 GMT | Operando un Exit Node de Tor durante un año: observaciones técnicas desde el borde de la red | Nahum Deavila | [Read More](https://medium.com/p/ec27f9356b2f) |
-| Sun, 18 Jan 2026 20:28:02 GMT | Lab: Reflected XSS into HTML context with nothing encoded | Mylescorey | [Read More](https://medium.com/p/ec6b3cac0fa5) |
-| Sun, 18 Jan 2026 20:20:47 GMT | Breaking and Finding Vulnerabilities: My Cybersecurity Capstone Project | Maria Sagwa | [Read More](https://medium.com/p/aeb22606c988) |
-| Sun, 18 Jan 2026 20:18:11 GMT | Attackers Don’t Break In… They Log In | Taf Muko | [Read More](https://medium.com/p/8623fb7cf411) |
-| Sun, 18 Jan 2026 20:15:40 GMT | ️ DNS Data Exfiltration: Silently Bypassing Firewalls | Esra Kayhan | [Read More](https://medium.com/p/bc30df332685) |
-| Sun, 18 Jan 2026 20:13:55 GMT | My favorite mobile game is Puzzle. | Megersa Siraj Omer | [Read More](https://medium.com/p/62ae9eddb993) |
-| Sun, 18 Jan 2026 20:09:31 GMT | NIS2, DORA, AI Act : arrêtez l’attentisme, unifiez vos contrôles | Anthony Vandepeutte - Noctu@edu | [Read More](https://medium.com/p/1f9b2b18daf5) |
-| Sun, 18 Jan 2026 20:00:53 GMT | Web Pentesting 101: Documenting a Successful Stored XSS Attack Chain | Attah Sosah | [Read More](https://medium.com/p/690b1d8c92ef) |
