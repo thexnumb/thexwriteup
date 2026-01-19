@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 Jan 2026 12:49:26 GMT | SQL Injection uAttack: Listing the Contents of the Database {Non-Oracle Databases}(Portswigger Lab) | Rachael Muga | [Read More](https://medium.com/p/b96dbe7855a7) |
+| Mon, 19 Jan 2026 12:40:49 GMT | Part 3 — Intercepting HTTPS Traffic, Bypassing Certificate Pinning & Flutter Protections (Testing… | Faris Faisal 0xFF | [Read More](https://medium.com/p/ba9557cef992) |
+| Mon, 19 Jan 2026 12:40:15 GMT | Dynamic Malware Analysis: Watching Malware Show Its True Colors | Paritosh | [Read More](https://medium.com/p/8e73d53a418c) |
+| Mon, 19 Jan 2026 12:38:08 GMT | Basic Kali -Linux Commands for Ethical Hacking (Part-7) | Akhil Thakur | [Read More](https://medium.com/p/e60695133263) |
+| Mon, 19 Jan 2026 12:34:28 GMT | The Art of Digital Espionage: OSNIT, Footprinting, and Reconnaissance in Cybersecurity | Tahir | [Read More](https://medium.com/p/a6a76275f166) |
+| Mon, 19 Jan 2026 12:33:23 GMT | CISSP Exam Explained: A Friendly Guide for Beginners | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/74aa497b959d) |
+| Mon, 19 Jan 2026 12:32:32 GMT | Vocabulary Deep Dive—Issue #11 | Sri Murthy | [Read More](https://medium.com/p/20abb6a29216) |
+| Mon, 19 Jan 2026 12:22:22 GMT | Race Conditions in Web Apps: The Bug Class Nobody Tests For | Nabil Mouzouna نبيل مزونة | [Read More](https://medium.com/p/1253b47c2d3b) |
+| Mon, 19 Jan 2026 12:15:40 GMT | Evil-GPT v2 — TryHackMe CTF Walkthrough | Karim Hesham | [Read More](https://medium.com/p/283e19991b3a) |
+| Mon, 19 Jan 2026 12:13:29 GMT | Why Background Screening Should Start Before the Interview | Oneverify | [Read More](https://medium.com/p/c85a783fce19) |
+| Mon, 19 Jan 2026 12:07:09 GMT | A Guide to Cyber Security Governance for Australian Business Owners | Future IT Services | [Read More](https://medium.com/p/893814edf397) |
+| Mon, 19 Jan 2026 12:06:41 GMT | Performance Benchmarking of POX, Ryu, HPE-VAN, OpenDaylight, and ONOS Controllers Based on QoS… | OxMotaw3 | [Read More](https://medium.com/p/13498d3b6c7f) |
+| Mon, 19 Jan 2026 12:04:22 GMT | The Future of Cloud Native: Security as Code | Nopsa Ventures | [Read More](https://medium.com/p/501cf0a90956) |
+| Mon, 19 Jan 2026 12:02:05 GMT | Secure Your Site | Emily Chan | [Read More](https://medium.com/p/b9ce96a85edf) |
+| Mon, 19 Jan 2026 12:02:01 GMT | Understanding CWE-472: External Control of Assumed-Immutable Web Parameter | Walter Moar | [Read More](https://medium.com/p/98c15bd8f38b) |
+| Mon, 19 Jan 2026 11:55:08 GMT | Enforcement Partner Onboarding Made Easy | ParqEx | [Read More](https://medium.com/p/9ad3a0701f03) |
+| Mon, 19 Jan 2026 11:51:01 GMT | Importance of ISO/IEC 27001 Certification | Sqccertification | [Read More](https://medium.com/p/44c2cf502009) |
+| Mon, 19 Jan 2026 11:45:37 GMT | I Analyzed a Malware Sample — Understanding the Attacker’s Decisions, Not Just the Code | Ahmed A. Ibrahim - Offensive Security Researcher | [Read More](https://medium.com/p/4affc1df922b) |
+| Mon, 19 Jan 2026 11:44:25 GMT | My OPSEC Journey: Fascinated by Evasion Techniques (CRTL → (OSEP) → CETP → MalDev → ODPC) | Tera | [Read More](https://medium.com/p/394854f67f17) |
 | Mon, 19 Jan 2026 11:41:22 GMT | From Filtering to Control: Inside Iran’s Near-Offline Internet Architecture (2021–2026) | Reza Harirchian | [Read More](https://medium.com/p/3076818c8b59) |
 | Mon, 19 Jan 2026 11:38:56 GMT | Food Security | Theunitedindian | [Read More](https://medium.com/p/0c9bfb6124f0) |
 | Mon, 19 Jan 2026 11:38:27 GMT | Cloud Infrastructure Management Services in India — Enabling Secure & Scalable IT Operations | Samvaskaran | [Read More](https://medium.com/p/91ad9a6e5bb6) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 06:04:46 GMT | Hack Free Fire Max | Apkpuredev | [Read More](https://medium.com/p/4cb132e41e76) |
 | Mon, 19 Jan 2026 06:01:23 GMT | AI Tools Are Overdelivering Results, And Nobody’s Talking About It. | Sai Mohit Kumar Kilaru | [Read More](https://medium.com/p/29dd48bb50b5) |
 | Mon, 19 Jan 2026 05:58:52 GMT | Integrating New Relic in a Ruby on Rails Application (The Right Way) | Ravi Prakash | [Read More](https://medium.com/p/d6bc6e51a032) |
-| Mon, 19 Jan 2026 05:58:29 GMT | Cyberbullying Severity Detection Using Transformer-Based NLP: From Classical ML to BERT, Ensembles… | Rahul Sharma | [Read More](https://medium.com/p/91231117acde) |
-| Mon, 19 Jan 2026 05:53:23 GMT | LLMs and GENAI Apps: Risk & Mitigations — Part 3: Supply Chain! | Nothing Cyber [NC] | [Read More](https://medium.com/p/7438266c763d) |
-| Mon, 19 Jan 2026 05:49:58 GMT | Cuentas Sock Puppet | Mariana | [Read More](https://medium.com/p/441d79e37bd6) |
-| Mon, 19 Jan 2026 05:48:53 GMT | What is a Zero Day Vulnerability? | Kalyani Kakarla | [Read More](https://medium.com/p/4d72e9db3308) |
-| Mon, 19 Jan 2026 05:46:30 GMT | 硬體錢包也無法防範的人性漏洞：一起 2.82 億美元的社交工程攻擊解析 | Crypt0Sophie | [Read More](https://medium.com/p/15082af74cf5) |
-| Mon, 19 Jan 2026 05:45:46 GMT | Building a Production-Grade Homelab: My Journey into DevOps Through Real Systems | Syed Hussaini | [Read More](https://medium.com/p/2613da2483e9) |
-| Mon, 19 Jan 2026 05:23:20 GMT | head-dump (Pico CTF) | Destripador | [Read More](https://medium.com/p/da5f2400dd50) |
-| Mon, 19 Jan 2026 05:23:08 GMT | Day 86: Walk me through an alert-for beginners | unica 02 | [Read More](https://medium.com/p/6fe8b875691c) |
-| Mon, 19 Jan 2026 05:22:38 GMT | Introduction: The Illusion of Biometric Security | Ryu360 | [Read More](https://medium.com/p/42876161b618) |
-| Mon, 19 Jan 2026 05:17:32 GMT | Apache: The Web Server That Built the Internet! | Rela Lumbini | [Read More](https://medium.com/p/65659ae785d2) |
-| Mon, 19 Jan 2026 05:14:22 GMT | Hello. My names Allison, I'm 27 and I have scoliosis. | Allison kerr-scullion | [Read More](https://medium.com/p/52adae10bca6) |
-| Mon, 19 Jan 2026 05:10:48 GMT | Browsed HTB | rooter | [Read More](https://medium.com/p/29920a9d1a40) |
-| Mon, 19 Jan 2026 05:09:47 GMT | Why Nmap Feels Like X-Ray Vision the First Time You Use It Properly | Fateyaly | [Read More](https://medium.com/p/0327f68837a4) |
-| Mon, 19 Jan 2026 05:01:31 GMT | How Can You Find the Best CCTV System in UAE and Best Security Camera in UAE ? | techfra solutions | [Read More](https://medium.com/p/edad80895d25) |
-| Mon, 19 Jan 2026 05:00:24 GMT | The Best C# PDF Libraries in 2025: An In-Depth Guide for .NET Developers | Ahmad Sohail | [Read More](https://medium.com/p/4ffec3cfe055) |
-| Mon, 19 Jan 2026 04:54:30 GMT | Light Out, 7B (Part 17) | edarit | [Read More](https://medium.com/p/7e12f1d31e2e) |
-| Mon, 19 Jan 2026 04:52:54 GMT | Future-Ready Enterprise IT Through Cloud, Virtualization, Containers, Security, and Data Resilience | F9 Infotech | [Read More](https://medium.com/p/24ef014a8c3e) |
-| Mon, 19 Jan 2026 04:44:56 GMT | Came to Compete. Left With Questions. (T.A.M.I.N.G ICTFF8 Grand Final) | WanTan | [Read More](https://medium.com/p/bf81d234843f) |
-| Mon, 19 Jan 2026 04:44:51 GMT | AWS CLI Apache EC2 Deployment: Secure Build, AMI Baseline and Teardown | CoffeeCloud Series | [Read More](https://medium.com/p/b726a0b1c24a) |
