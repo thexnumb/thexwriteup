@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 Jan 2026 09:30:14 GMT | Samsung S23 Ultra: Guía definitiva para configurar NetHunter (Android 14 Fix) | JanCSG | [Read More](https://medium.com/p/8d7250b8521e) |
+| Mon, 19 Jan 2026 09:25:25 GMT | Cybersecurity And IT Support Services In Dubai 2026 | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/c6005d15d53f) |
+| Mon, 19 Jan 2026 09:16:24 GMT | Is AI taking all the jobs in cybersecurity? | Stephen Chapendama | [Read More](https://medium.com/p/2e5a8fe824ea) |
+| Mon, 19 Jan 2026 09:14:33 GMT | Tech Cold War 2026: China’s Cybersecurity Software Ban Tests U.S.–China | eL Njas!™ | [Read More](https://medium.com/p/d25b98d408ea) |
+| Mon, 19 Jan 2026 09:12:32 GMT | SeClip: Safe & Secure Clipboard Extension for Android | kuroappworks | [Read More](https://medium.com/p/a0475d0ba918) |
+| Mon, 19 Jan 2026 08:59:18 GMT | How a simple password reset led to a complete account takeover | Jimmy | [Read More](https://medium.com/p/2cd56639d150) |
+| Mon, 19 Jan 2026 08:57:46 GMT | Building the C9 Tactical Command Ecosystem: How I Merged Hardware & Data to Hack Esports Strategy | Suvadip Pramanik | [Read More](https://medium.com/p/684565f0854f) |
+| Mon, 19 Jan 2026 08:53:08 GMT | Bilgi Nasıl Toplanır ve Güce Dönüşür: İstihbarat Toplama Disiplinleri | Ziya Gokalp | [Read More](https://medium.com/p/814a6f6ca6b5) |
+| Mon, 19 Jan 2026 08:52:16 GMT | TSCM & Red Team: The Hidden Battlefield of Intelligence | Ziya Gokalp | [Read More](https://medium.com/p/ce780205540a) |
+| Mon, 19 Jan 2026 08:48:34 GMT | Shocking!! 10 Vulnerabilities Found In Almost Every Pentest | Redfox Security | [Read More](https://medium.com/p/00924aa0e712) |
+| Mon, 19 Jan 2026 08:42:55 GMT | SQL Injection (Section 1) — Day 1 | Belajar Siber Cyberilma | [Read More](https://medium.com/p/b73fbdc73f5b) |
+| Mon, 19 Jan 2026 08:31:57 GMT | G Suite vs Office 365: What’s the Best for Your Business Needs? | EINITIAL24 | [Read More](https://medium.com/p/23dfc6356c3a) |
+| Mon, 19 Jan 2026 08:28:56 GMT | PicoCTF: PIE_TIME Walkthrough | Gray_ | [Read More](https://medium.com/p/765b17d0aba6) |
+| Mon, 19 Jan 2026 08:24:33 GMT | Malware‑as‑a‑Service: How Cybercrime Turned Into a Subscription Business | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/dacab6d5c311) |
 | Mon, 19 Jan 2026 08:21:20 GMT | My First CTF | Manoj Nepal | [Read More](https://medium.com/p/5b2bc8cfd303) |
 | Mon, 19 Jan 2026 08:15:40 GMT | Cryptocurrency Feels Legit Now. That’s What Worries Me.!!!! | - Crypto - Health - Cyber - Tech | [Read More](https://medium.com/p/f37df42a6933) |
 | Mon, 19 Jan 2026 08:14:51 GMT | The $7.99 False Identity | Andrei Savine | [Read More](https://medium.com/p/cdc079231534) |
@@ -73,6 +87,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 03:32:05 GMT | A Simple Cybersecurity Learning Path for College Students (No Noise) | Manubhav Sharma | [Read More](https://medium.com/p/858309826801) |
 | Mon, 19 Jan 2026 03:31:11 GMT | Unlocking the Power of Hashcat: Advanced Cracking Techniques for Real-World Pentesting | Cybeague Technologies | [Read More](https://medium.com/p/57aa2cd9601f) |
 | Mon, 19 Jan 2026 03:30:17 GMT | Getting Started with Hashcat: Your Fast Track Into Password Cracking Basics | Cybeague Technologies | [Read More](https://medium.com/p/fa1bc90eef9d) |
+| Mon, 19 Jan 2026 03:29:36 GMT | Host & Network Penetration Testing: Post-Exploitation CTF 2 | Khalil | [Read More](https://medium.com/p/b9bcf52b7027) |
 | Mon, 19 Jan 2026 03:27:14 GMT | Why Zippers Are No Longer Enough — The Rise of Fingerprint-Secured Everyday Carry | WIWU GLOBAL | [Read More](https://medium.com/p/9943a1852e95) |
 | Mon, 19 Jan 2026 03:26:36 GMT | Cyber Kill Chain & MITRE ATT&CK Explained — A SOC Analyst’s Deep Dive | ARCHANA P | [Read More](https://medium.com/p/dead0c33ce13) |
 | Mon, 19 Jan 2026 03:07:31 GMT | Learning Kali Linux Basics - My First Step in Cybersecurity (CEH) | Syber Security beginner. | [Read More](https://medium.com/p/edf32afeeaf7) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 00:28:21 GMT | Inside the Mind of a Scammer: Tactics, Scripts, and Emotional Hooks | Richard Buchfink | [Read More](https://medium.com/p/d81434f28888) |
 | Mon, 19 Jan 2026 00:19:38 GMT | The Human Firewall, Part 2: When Love and Trust Get Hacked | Victor Yan | [Read More](https://medium.com/p/13de3d6b29c0) |
 | Mon, 19 Jan 2026 00:02:01 GMT | LetsDefend — Golden Ticket Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/f9e6bf032223) |
-| Sun, 18 Jan 2026 23:49:02 GMT | Lessons Learned from Running a Full Web App Vulnerability Scan with OWASP ZAP | Isaac Edzie | [Read More](https://medium.com/p/e4091f8d9093) |
-| Sun, 18 Jan 2026 23:32:59 GMT | Blind SQL Injection: A Hands-On Lab Walkthrough | SilentExploit | [Read More](https://medium.com/p/a2894dd18511) |
-| Sun, 18 Jan 2026 23:26:20 GMT | Android Security in the Age of Jetpack Compose: From Task Hijacking to Tapjacking | Roman Speranskii | [Read More](https://medium.com/p/edbbc78be943) |
-| Sun, 18 Jan 2026 23:11:49 GMT | Beyond the Noise: Why I Built VedicRecon (and Why Reconnaissance Needs to Change) | Vedic_error | [Read More](https://medium.com/p/e7d5cb307430) |
-| Sun, 18 Jan 2026 22:49:52 GMT | Understanding Android Developer Verification | Kayvan Kaseb | [Read More](https://medium.com/p/e918deaa281e) |
-| Sun, 18 Jan 2026 22:32:58 GMT | How HTTP actually works? | Atharv Tripathi | [Read More](https://medium.com/p/fe1ba11b30bb) |
-| Sun, 18 Jan 2026 22:24:02 GMT | Why Hiring a Security Company in Houston Is a Smart Move | Evan Raahil | [Read More](https://medium.com/p/659ba69a6966) |
-| Sun, 18 Jan 2026 22:18:00 GMT | Welcome to my space :) | Hobin Rood | [Read More](https://medium.com/p/92b0e3cbc25f) |
-| Sun, 18 Jan 2026 22:16:16 GMT | Phishing Simulator | Aaronashley | [Read More](https://medium.com/p/0a147c5b8f13) |
-| Sun, 18 Jan 2026 22:07:40 GMT | Design and Implementation of a Scalable and Secure Enterprise Network | Blessing-Igboanusi | [Read More](https://medium.com/p/0fb1633097b5) |
-| Sun, 18 Jan 2026 22:01:29 GMT | Hardware Hacking Attacks That Start at the Silicon Level | Bervice | [Read More](https://medium.com/p/41d1608ca36a) |
-| Sun, 18 Jan 2026 21:52:51 GMT | Inter Process Communication with RPC | S12 - 0x12Dark Development | [Read More](https://medium.com/p/2addfaa57a24) |
-| Sun, 18 Jan 2026 21:51:31 GMT | [Rabbit Store]  —  JWT Manipulation, SSRF, SSTI Leading to RCE and Root Access via a Vulnerable… | Bash Overflow | [Read More](https://medium.com/p/88a7a53f2109) |
-| Sun, 18 Jan 2026 21:44:19 GMT | How My Mother’s Nagging Turned Into an Accidental Malware & Forensics Case | Aviral | [Read More](https://medium.com/p/0957c760d8ac) |
-| Sun, 18 Jan 2026 21:41:44 GMT | Attack and Defense. A Brief Human History, from Stones to AI | Alessandro Bruschieri | [Read More](https://medium.com/p/a7cdb78e11c5) |
