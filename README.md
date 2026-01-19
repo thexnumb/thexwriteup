@@ -12,9 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 Jan 2026 11:11:40 GMT | Trójmorze a stara UE: realne różnice w podejściu do obronności | Dorothy Duck | [Read More](https://medium.com/p/febedbc5e243) |
+| Mon, 19 Jan 2026 11:08:15 GMT | What Do We Deserve? | Kassey's Dreams & Realities Ink. | [Read More](https://medium.com/p/0785041dbafc) |
+| Mon, 19 Jan 2026 11:05:03 GMT | From Bottlenecks to Built‑In Security: Reading the Industry’s Shift | Purple Security | [Read More](https://medium.com/p/1d53b37d99fb) |
+| Mon, 19 Jan 2026 11:02:07 GMT | Web Security 101: Part 2 -Input Is the Root of All Attacks | Nithishraina | [Read More](https://medium.com/p/7d4e1f0b6634) |
+| Mon, 19 Jan 2026 11:02:01 GMT | The Agent Reliability Stack That Actually Works | Bhagya Rana | [Read More](https://medium.com/p/5ca1f51627ae) |
+| Mon, 19 Jan 2026 11:01:46 GMT | Managed Cyber Security Services for safer operations | YesIT Services | [Read More](https://medium.com/p/e7fb5c2e800f) |
+| Mon, 19 Jan 2026 10:54:30 GMT | Your 5-Step Checklist for Rapid Cybersecurity Deployment | Anshul Goyal | [Read More](https://medium.com/p/dfac97f49726) |
+| Mon, 19 Jan 2026 10:54:12 GMT | Web security 101: Part 1 -How the Web Works (The Security Perspective) | Nithishraina | [Read More](https://medium.com/p/1cf7e8202753) |
+| Mon, 19 Jan 2026 10:47:35 GMT | Living Off the Land And Living Above UAC | Samora Tandon | [Read More](https://medium.com/p/6a66738d225c) |
+| Mon, 19 Jan 2026 10:40:48 GMT | SQL Injection Union Attack: Querying the Database Type and Version (Portswigger Lab) | Rachael Muga | [Read More](https://medium.com/p/f84544885955) |
+| Mon, 19 Jan 2026 10:37:14 GMT | Top 10 Managed Cybersecurity Providers in Riverside in 2026 | Managed IT Services | [Read More](https://medium.com/p/c34b3d5dda16) |
+| Mon, 19 Jan 2026 10:34:16 GMT | Why Businesses Need Cybersecurity Software Solutions to Stay Ahead of Threats: | Next Zen Minds | [Read More](https://medium.com/p/0a77324c90b7) |
+| Mon, 19 Jan 2026 10:29:36 GMT | How to Start Learning Tech From Zero (A Beginner’s Guide) | Josephvivian | [Read More](https://medium.com/p/cc346f4f207f) |
 | Mon, 19 Jan 2026 10:24:03 GMT | ⚖️ Digital Signature — Your Online Handshake | Legal Mind with Food & Nutrition Expertise | [Read More](https://medium.com/p/3388f0ffdbf8) |
 | Mon, 19 Jan 2026 10:21:57 GMT | Dear followers and readers, I’ve moved to Substack. I can explain… | Samuel Brice | [Read More](https://medium.com/p/a1b183d552cc) |
 | Mon, 19 Jan 2026 10:20:12 GMT | TryHackMe Phishing Unfolding: Detecting Base64 and DNS Exfiltration with Splunk. | Nuran Abdulhamidov | [Read More](https://medium.com/p/4519d12bce96) |
+| Mon, 19 Jan 2026 10:19:27 GMT | Development of Mobile Application: How to Pick the Best Development Team | Joy Hawkins | [Read More](https://medium.com/p/343caa5b99fc) |
 | Mon, 19 Jan 2026 10:12:31 GMT | Next-Generation Distributed Security with Two Cards: An Introduction | numa | [Read More](https://medium.com/p/76728fc8ffee) |
 | Mon, 19 Jan 2026 10:12:23 GMT | Mastering File & Image Forensics in CTF Challenges | Swetha | [Read More](https://medium.com/p/90ec56eea7ee) |
 | Mon, 19 Jan 2026 10:11:59 GMT | AI-Powered Cyber Attacks & Defense | Fareed Masood | [Read More](https://medium.com/p/2bc10b4af84b) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 04:24:37 GMT | ด่วน Cisco ประกาศออกแพตช์แก้ไขช่องโหว่ Zero-Day ช่องโหว่ CVE-2025–20393 ซึ่งมีระดับความรุนแรงสูงสุด… | ThaiCERT By NCSA | [Read More](https://medium.com/p/48e731b36d1b) |
 | Mon, 19 Jan 2026 03:57:14 GMT | The Experience Barrier Is Crumbling in the AI Era | Chier Hu | [Read More](https://medium.com/p/62589fbddca0) |
 | Mon, 19 Jan 2026 03:56:58 GMT | 7 AI-Powered Cyber Attacks Every Business Must Prepare For | Souradip Pal | [Read More](https://medium.com/p/c894d72e6c63) |
-| Mon, 19 Jan 2026 03:33:42 GMT | Ethical Hacking Capstone Complete: Mastering SQLi, Web Exploits, SMB & PCAP Analysis | Ebenezer Boateng Agyekum | [Read More](https://medium.com/p/ae63dd77f9a7) |
-| Mon, 19 Jan 2026 03:32:05 GMT | A Simple Cybersecurity Learning Path for College Students (No Noise) | Manubhav Sharma | [Read More](https://medium.com/p/858309826801) |
-| Mon, 19 Jan 2026 03:31:11 GMT | Unlocking the Power of Hashcat: Advanced Cracking Techniques for Real-World Pentesting | Cybeague Technologies | [Read More](https://medium.com/p/57aa2cd9601f) |
-| Mon, 19 Jan 2026 03:30:17 GMT | Getting Started with Hashcat: Your Fast Track Into Password Cracking Basics | Cybeague Technologies | [Read More](https://medium.com/p/fa1bc90eef9d) |
-| Mon, 19 Jan 2026 03:29:36 GMT | Host & Network Penetration Testing: Post-Exploitation CTF 2 | Khalil | [Read More](https://medium.com/p/b9bcf52b7027) |
-| Mon, 19 Jan 2026 03:27:14 GMT | Why Zippers Are No Longer Enough — The Rise of Fingerprint-Secured Everyday Carry | WIWU GLOBAL | [Read More](https://medium.com/p/9943a1852e95) |
-| Mon, 19 Jan 2026 03:26:36 GMT | Cyber Kill Chain & MITRE ATT&CK Explained — A SOC Analyst’s Deep Dive | ARCHANA P | [Read More](https://medium.com/p/dead0c33ce13) |
-| Mon, 19 Jan 2026 03:07:31 GMT | Learning Kali Linux Basics - My First Step in Cybersecurity (CEH) | Syber Security beginner. | [Read More](https://medium.com/p/edf32afeeaf7) |
-| Mon, 19 Jan 2026 03:06:49 GMT | Splunk: Corelight - Zeek and Suricata CTF Write-Up | Jenny | [Read More](https://medium.com/p/5d91b9bda1df) |
-| Mon, 19 Jan 2026 02:44:05 GMT | Kubernetes RBAC Explained Simply (And Why Most Clusters Are Over-Privileged) | Giri Babu | [Read More](https://medium.com/p/3821ab49d3dc) |
-| Mon, 19 Jan 2026 02:42:32 GMT | Tải Hack Angry Birds 2 Mod Vô Hạn Tiền, Đá Quý, Năng Lượng | TaiModApk | [Read More](https://medium.com/p/7b9a0c30f653) |
-| Mon, 19 Jan 2026 02:35:57 GMT | The Day You Can’t Believe Your Eyes: Welcome to the Era of Synthetic Deception | TheTechGuy | [Read More](https://medium.com/p/b1ba27873875) |
-| Mon, 19 Jan 2026 02:27:15 GMT | RootMe — TryHackMe Room Walkthrough | Hemantha Krishna Challa | [Read More](https://medium.com/p/5afa0746d7d1) |
-| Mon, 19 Jan 2026 02:06:51 GMT | What BodySnatcher Teaches Us About the Agent Identity Gap | AstraSync AI | [Read More](https://medium.com/p/c69d3af7297d) |
