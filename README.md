@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 Jan 2026 11:41:22 GMT | From Filtering to Control: Inside Iran’s Near-Offline Internet Architecture (2021–2026) | Reza Harirchian | [Read More](https://medium.com/p/3076818c8b59) |
+| Mon, 19 Jan 2026 11:38:56 GMT | Food Security | Theunitedindian | [Read More](https://medium.com/p/0c9bfb6124f0) |
+| Mon, 19 Jan 2026 11:38:27 GMT | Cloud Infrastructure Management Services in India — Enabling Secure & Scalable IT Operations | Samvaskaran | [Read More](https://medium.com/p/91ad9a6e5bb6) |
+| Mon, 19 Jan 2026 11:32:04 GMT | How Compliance Protects Fintech Businesses | Sparkle Web | [Read More](https://medium.com/p/d8418deeace4) |
+| Mon, 19 Jan 2026 11:21:06 GMT | A Comprehensive Analysis of Cybersecurity Compliance: Comparing Policies, Standards, Laws, and Key… | Fasieha Mehar | [Read More](https://medium.com/p/f0ab45da2279) |
 | Mon, 19 Jan 2026 11:11:40 GMT | Trójmorze a stara UE: realne różnice w podejściu do obronności | Dorothy Duck | [Read More](https://medium.com/p/febedbc5e243) |
 | Mon, 19 Jan 2026 11:08:15 GMT | What Do We Deserve? | Kassey's Dreams & Realities Ink. | [Read More](https://medium.com/p/0785041dbafc) |
 | Mon, 19 Jan 2026 11:05:03 GMT | From Bottlenecks to Built‑In Security: Reading the Industry’s Shift | Purple Security | [Read More](https://medium.com/p/1d53b37d99fb) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 04:52:54 GMT | Future-Ready Enterprise IT Through Cloud, Virtualization, Containers, Security, and Data Resilience | F9 Infotech | [Read More](https://medium.com/p/24ef014a8c3e) |
 | Mon, 19 Jan 2026 04:44:56 GMT | Came to Compete. Left With Questions. (T.A.M.I.N.G ICTFF8 Grand Final) | WanTan | [Read More](https://medium.com/p/bf81d234843f) |
 | Mon, 19 Jan 2026 04:44:51 GMT | AWS CLI Apache EC2 Deployment: Secure Build, AMI Baseline and Teardown | CoffeeCloud Series | [Read More](https://medium.com/p/b726a0b1c24a) |
-| Mon, 19 Jan 2026 04:33:07 GMT | The Cybersecurity Roadmap 2026: The Death of the “Click-Ops” Analyst | Abhijith Soman | [Read More](https://medium.com/p/ac76aec150f7) |
-| Mon, 19 Jan 2026 04:30:25 GMT | Laravel Security Checklist: 17 Ways to Protect Your App from Hackers | Developer Awam | [Read More](https://medium.com/p/3599de1d2271) |
-| Mon, 19 Jan 2026 04:24:37 GMT | ด่วน Cisco ประกาศออกแพตช์แก้ไขช่องโหว่ Zero-Day ช่องโหว่ CVE-2025–20393 ซึ่งมีระดับความรุนแรงสูงสุด… | ThaiCERT By NCSA | [Read More](https://medium.com/p/48e731b36d1b) |
-| Mon, 19 Jan 2026 03:57:14 GMT | The Experience Barrier Is Crumbling in the AI Era | Chier Hu | [Read More](https://medium.com/p/62589fbddca0) |
-| Mon, 19 Jan 2026 03:56:58 GMT | 7 AI-Powered Cyber Attacks Every Business Must Prepare For | Souradip Pal | [Read More](https://medium.com/p/c894d72e6c63) |
