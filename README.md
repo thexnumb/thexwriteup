@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 Jan 2026 10:24:03 GMT | ⚖️ Digital Signature — Your Online Handshake | Legal Mind with Food & Nutrition Expertise | [Read More](https://medium.com/p/3388f0ffdbf8) |
+| Mon, 19 Jan 2026 10:21:57 GMT | Dear followers and readers, I’ve moved to Substack. I can explain… | Samuel Brice | [Read More](https://medium.com/p/a1b183d552cc) |
+| Mon, 19 Jan 2026 10:20:12 GMT | TryHackMe Phishing Unfolding: Detecting Base64 and DNS Exfiltration with Splunk. | Nuran Abdulhamidov | [Read More](https://medium.com/p/4519d12bce96) |
+| Mon, 19 Jan 2026 10:12:31 GMT | Next-Generation Distributed Security with Two Cards: An Introduction | numa | [Read More](https://medium.com/p/76728fc8ffee) |
+| Mon, 19 Jan 2026 10:12:23 GMT | Mastering File & Image Forensics in CTF Challenges | Swetha | [Read More](https://medium.com/p/90ec56eea7ee) |
+| Mon, 19 Jan 2026 10:11:59 GMT | AI-Powered Cyber Attacks & Defense | Fareed Masood | [Read More](https://medium.com/p/2bc10b4af84b) |
+| Mon, 19 Jan 2026 10:11:59 GMT | Corporate Greed Chronicles: Staff as a Service at Sapiens International | Namir Sagheenanajar | [Read More](https://medium.com/p/45bb4382ef2b) |
+| Mon, 19 Jan 2026 10:09:10 GMT | GitHub Search Syntax for Finding Leaked API Keys, Secrets, and Tokens | Vlad Rosca | [Read More](https://medium.com/p/c7f826d7bae8) |
+| Mon, 19 Jan 2026 10:06:44 GMT | How to Check SPF Records Online: Validate Email Authentication in Seconds | Everywebtool | [Read More](https://medium.com/p/57afaee6f76b) |
+| Mon, 19 Jan 2026 10:03:19 GMT | I will do resume writing, engineering resume, tech resume IT resume professional resume | ADEKUNLE ORINA | [Read More](https://medium.com/p/01118c984c84) |
+| Mon, 19 Jan 2026 09:54:38 GMT | Introduction to Active Directory Penetration Testing by The Range Village @ Div0 (17/01/26)… | Cy3erS@up | [Read More](https://medium.com/p/cdb9b593a141) |
+| Mon, 19 Jan 2026 09:49:42 GMT | VAPT 2026: Why Traditional Security Testing Is No Longer Enough | Devarshi Acharya | [Read More](https://medium.com/p/aa56811a4bf6) |
+| Mon, 19 Jan 2026 09:49:36 GMT | Cybersecurity: My Journey from “Password123” to Professional Certification | Sanya Sachdeva | [Read More](https://medium.com/p/286a825b1ee2) |
+| Mon, 19 Jan 2026 09:46:55 GMT | ShellGYM [Online Session]by KKTAN — Set up your Active Directory & Common misconfiguration | Cy3erS@up | [Read More](https://medium.com/p/5c64c68aa82a) |
+| Mon, 19 Jan 2026 09:44:31 GMT | Trusted Security & IoT Solutions Company in the UAE | Tekshoyabeelyas | [Read More](https://medium.com/p/1313a990806a) |
 | Mon, 19 Jan 2026 09:30:14 GMT | Samsung S23 Ultra: Guía definitiva para configurar NetHunter (Android 14 Fix) | JanCSG | [Read More](https://medium.com/p/8d7250b8521e) |
 | Mon, 19 Jan 2026 09:25:25 GMT | Cybersecurity And IT Support Services In Dubai 2026 | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/c6005d15d53f) |
 | Mon, 19 Jan 2026 09:16:24 GMT | Is AI taking all the jobs in cybersecurity? | Stephen Chapendama | [Read More](https://medium.com/p/2e5a8fe824ea) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 02:35:57 GMT | The Day You Can’t Believe Your Eyes: Welcome to the Era of Synthetic Deception | TheTechGuy | [Read More](https://medium.com/p/b1ba27873875) |
 | Mon, 19 Jan 2026 02:27:15 GMT | RootMe — TryHackMe Room Walkthrough | Hemantha Krishna Challa | [Read More](https://medium.com/p/5afa0746d7d1) |
 | Mon, 19 Jan 2026 02:06:51 GMT | What BodySnatcher Teaches Us About the Agent Identity Gap | AstraSync AI | [Read More](https://medium.com/p/c69d3af7297d) |
-| Mon, 19 Jan 2026 01:59:36 GMT | Accidental Intelligence: Grokking and the Thin Red Line to Insecurity | Luis Vizcaya | [Read More](https://medium.com/p/8e7b7c843e1b) |
-| Mon, 19 Jan 2026 01:46:30 GMT | The Inescapable Wired Future: Always Connected, No Turning Back | Infinite Solutions by J. I. Memphis | [Read More](https://medium.com/p/30f443c3ef9a) |
-| Mon, 19 Jan 2026 01:34:43 GMT | It’s 10:00, Do You Know Where Your Personal Information Is? | Larrylambert | [Read More](https://medium.com/p/5ff7975a039c) |
-| Mon, 19 Jan 2026 01:31:59 GMT | Your Python Code Isn’t as Safe as You Think: 9 Security Mistakes (With Real Fixes) | Muhammad Qasim | [Read More](https://medium.com/p/5345c6f82c56) |
-| Mon, 19 Jan 2026 01:31:25 GMT | Saved by Kindness | Pam Ahern | [Read More](https://medium.com/p/606613eb9c75) |
-| Mon, 19 Jan 2026 01:23:15 GMT | Vulnerability Management Program in Practice | Dany Christel | [Read More](https://medium.com/p/67ce8ac955e9) |
-| Mon, 19 Jan 2026 01:03:19 GMT | TechNova Solutions Expansion: A Hands-On Active Directory Administration and Security Lab Using AWS… | Aadeyemikazeem | [Read More](https://medium.com/p/737f1622857b) |
-| Mon, 19 Jan 2026 00:41:49 GMT | Anti-Looter Kit Review: A Simple and Effective Way to Protect Your Home | Anti-Looter Kit | [Read More](https://medium.com/p/27eb634cb700) |
-| Mon, 19 Jan 2026 00:40:12 GMT | A Lawyer Narrates How Her Nude Photos Are All Over the Internet | Chaudhry Awais Ahmed | [Read More](https://medium.com/p/87fd1c0dc5d9) |
-| Mon, 19 Jan 2026 00:38:20 GMT | Something subtle shifted in AI policy, and it matters because we’re no longer talking about ideas… | A D | [Read More](https://medium.com/p/f4a9c943a189) |
-| Mon, 19 Jan 2026 00:30:29 GMT | Hola Mundo | Carlos CM | [Read More](https://medium.com/p/2b7abd385f6a) |
-| Mon, 19 Jan 2026 00:29:06 GMT | SSTI1 (PicoCTF) | Destripador | [Read More](https://medium.com/p/c22a5405d6b6) |
-| Mon, 19 Jan 2026 00:28:21 GMT | Inside the Mind of a Scammer: Tactics, Scripts, and Emotional Hooks | Richard Buchfink | [Read More](https://medium.com/p/d81434f28888) |
-| Mon, 19 Jan 2026 00:19:38 GMT | The Human Firewall, Part 2: When Love and Trust Get Hacked | Victor Yan | [Read More](https://medium.com/p/13de3d6b29c0) |
-| Mon, 19 Jan 2026 00:02:01 GMT | LetsDefend — Golden Ticket Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/f9e6bf032223) |
