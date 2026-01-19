@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 Jan 2026 23:18:27 GMT | Hacking Windows Server: Why Your File Server is a Backdoor | Nicholas Mullenski | [Read More](https://medium.com/p/df3e0e634e98) |
 | Mon, 19 Jan 2026 22:47:16 GMT | A Single Entra ID Alert Can Be the Start of a Major Incident | Davidtolu | [Read More](https://medium.com/p/edd4606e7d20) |
 | Mon, 19 Jan 2026 22:36:57 GMT | The Need to Be Seen (and the Fear of Being Exposed) | Literary Fave | [Read More](https://medium.com/p/6835b02fe0e4) |
 | Mon, 19 Jan 2026 22:35:28 GMT | How Much Does a Penetration Test Actually Cost? | Eric Smith | [Read More](https://medium.com/p/231dc742dfcb) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 16:31:59 GMT | MITRE Caldera: Orchestrating the Complete Attack Lifecycle | SDNTechForum | [Read More](https://medium.com/p/ccca5043ac0f) |
 | Mon, 19 Jan 2026 16:30:35 GMT | The Difference Between Finding Vulnerabilities and Understanding Risk | Digital Defense | [Read More](https://medium.com/p/0fd52bff8598) |
 | Mon, 19 Jan 2026 16:25:55 GMT | Social Engineering in 2026 Is Mostly About Timing | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/7f1197f914b4) |
-| Mon, 19 Jan 2026 16:21:29 GMT | The Fast and the fur[IO]us : Ai drift | Douglas Jackson | [Read More](https://medium.com/p/314c1e0f3155) |
