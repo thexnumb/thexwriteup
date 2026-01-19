@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 Jan 2026 22:13:04 GMT | The Hidden Equation Your Brain Runs On And Why It Matters | Kevin | [Read More](https://medium.com/p/5be5598eac1f) |
+| Mon, 19 Jan 2026 22:11:06 GMT | Week 11: Cloud Security Basics and Best Practices | Donovan Brown | [Read More](https://medium.com/p/ea9e4c459a2c) |
+| Mon, 19 Jan 2026 22:08:12 GMT | Odysafe CTI Platform: The Open-Source Tool That Actually Simplifies IOC Management | ShadowBlue | [Read More](https://medium.com/p/a91077b17ee6) |
+| Mon, 19 Jan 2026 22:06:34 GMT | Enforcing Resource Integrity Checks in Applications - The Silver Bullet | Mr. Robot.txt | [Read More](https://medium.com/p/33838c2df08c) |
+| Mon, 19 Jan 2026 22:03:59 GMT | Microsegmentation: The Next Evolution of Network Security | Raviteja Mureboina | [Read More](https://medium.com/p/830037f78a7f) |
+| Mon, 19 Jan 2026 22:03:38 GMT | Cybersecurity ethics and the security of information in a global posture | Joe Alongi | [Read More](https://medium.com/p/4e68fa49a9e0) |
+| Mon, 19 Jan 2026 22:02:49 GMT | I Asked an AI About Its Security Policies: It Gave Me the API Key | Onurcan Genç | [Read More](https://medium.com/p/784292d728dd) |
+| Mon, 19 Jan 2026 22:00:29 GMT | EscapeRoom Lab — Write-up | 0xTT-byte | [Read More](https://medium.com/p/d96ae88e5edc) |
+| Mon, 19 Jan 2026 21:53:21 GMT | Day 20 — Race Conditions — Toy to The World | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/5c621815c9ac) |
+| Mon, 19 Jan 2026 21:49:27 GMT | Day 19 — ICS / ModbusClaus for Concern | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/87d8f5b0ac7e) |
+| Mon, 19 Jan 2026 21:48:10 GMT | Digital Resilience Is a Leadership Discipline, Not a Security Program | Faraz Ishaq | [Read More](https://medium.com/p/fda8d6070248) |
+| Mon, 19 Jan 2026 21:40:24 GMT | Cloud Security Impact on U.S. Business Growth and Enterprise Strategy in 2025 | Jemii Zied | [Read More](https://medium.com/p/c20579fc8ee2) |
+| Mon, 19 Jan 2026 21:39:43 GMT | Zero Trust is a Topology Change, not an Identity Layer | Levente Simon | [Read More](https://medium.com/p/c78b8273cf8e) |
+| Mon, 19 Jan 2026 21:39:04 GMT | Haskhell Write-up | Tanuik Kendrick | [Read More](https://medium.com/p/1700d924dc2e) |
 | Mon, 19 Jan 2026 21:30:24 GMT | The Most Fragile Link in the Digital World | Michael Zibulevsky | [Read More](https://medium.com/p/c3479f27a28d) |
 | Mon, 19 Jan 2026 21:22:27 GMT | Типи оболонок (shells) | Fl4g Hunt3r Project | [Read More](https://medium.com/p/3de3d96477eb) |
 | Mon, 19 Jan 2026 21:22:16 GMT | 6 AI cybersecurity projects to build your portfolio in 2026 (that aren’t basic) | h@shtalk | [Read More](https://medium.com/p/57e6be5d5ece) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 16:19:59 GMT | AI agents are the next serious risk to business data security | hubbertsmith | [Read More](https://medium.com/p/ea95feeff3b3) |
 | Mon, 19 Jan 2026 16:16:03 GMT | Networking Basics | Muhammadsaad | [Read More](https://medium.com/p/e12167254193) |
 | Mon, 19 Jan 2026 16:15:11 GMT | The Convergence of Safety & Security in Industrial AI | Kevin O'Connor | [Read More](https://medium.com/p/22f4fcc8a4c8) |
-| Mon, 19 Jan 2026 16:03:05 GMT | Tokyo Ghoul TryHackMe Walkthrough | Latif Praditya | [Read More](https://medium.com/p/de9e6419b387) |
-| Mon, 19 Jan 2026 15:59:21 GMT | Build a Handwriting Scanner using Flutter, Firebase, and Gemini | Bo Hellgren | [Read More](https://medium.com/p/f06c5bf9bd69) |
-| Mon, 19 Jan 2026 15:58:20 GMT | From JS File to Jailbreak: How Frontend Code Gave Me Backend Access | Iski | [Read More](https://medium.com/p/5b4974d06b63) |
-| Mon, 19 Jan 2026 15:53:38 GMT | Mitigating Phishing Threats with Browsermon’s URL Classification Service (UCS) | Emankhalid | [Read More](https://medium.com/p/ebb2a71630eb) |
-| Mon, 19 Jan 2026 15:47:52 GMT | Penetration Tester vs SOC Analyst | Shahzaib | [Read More](https://medium.com/p/6167ac4b6e84) |
-| Mon, 19 Jan 2026 15:47:18 GMT | AI in Cybersecurity: What Works, New Risks and How to Stay Safe | Xaltius | [Read More](https://medium.com/p/26d5371690cf) |
-| Mon, 19 Jan 2026 15:46:21 GMT | Absolute Ownership vs. Diffused Responsibility in Software Development | Namir Sagheenanajar | [Read More](https://medium.com/p/e3bb962878ec) |
-| Mon, 19 Jan 2026 15:43:39 GMT | Zero Trust in Practice: Implementing NIST SP 800–207 Across the CISA Maturity Pillars | Chris Yeung | [Read More](https://medium.com/p/134d27a0ebe0) |
-| Mon, 19 Jan 2026 15:35:43 GMT | VicsTown Bug Repellent: Witch Hazel And Essential Oils, Not Mystery Chemicals | Victoria Dean | [Read More](https://medium.com/p/1295a690db51) |
-| Mon, 19 Jan 2026 15:28:32 GMT | I Believed Movie Hackers, Then I Studied Cybersecurity | David Dimanochie | [Read More](https://medium.com/p/19be5a9b29f6) |
-| Mon, 19 Jan 2026 15:28:08 GMT | How iPhones Really Get Compromised and Why Hacking One Is Not What Most People Think | Rebecca Smith | [Read More](https://medium.com/p/27f7e134bb9f) |
-| Mon, 19 Jan 2026 15:24:03 GMT | Defence Robots Need Noise-Cancelling Headphones | Erkan Yalcinkaya | [Read More](https://medium.com/p/e2d5d002d19c) |
-| Mon, 19 Jan 2026 15:23:00 GMT | TCS HackQuest Season 10 — A Personal Experience | Jainil Borisagar | [Read More](https://medium.com/p/1aa45232a036) |
-| Mon, 19 Jan 2026 15:13:08 GMT | How to Perform a Basic Health Check on a FortiGate Firewall | Drissi Ismail | [Read More](https://medium.com/p/a52c4fdf73ff) |
