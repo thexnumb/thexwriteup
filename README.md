@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 Jan 2026 22:47:16 GMT | A Single Entra ID Alert Can Be the Start of a Major Incident | Davidtolu | [Read More](https://medium.com/p/edd4606e7d20) |
 | Mon, 19 Jan 2026 22:36:57 GMT | The Need to Be Seen (and the Fear of Being Exposed) | Literary Fave | [Read More](https://medium.com/p/6835b02fe0e4) |
 | Mon, 19 Jan 2026 22:35:28 GMT | How Much Does a Penetration Test Actually Cost? | Eric Smith | [Read More](https://medium.com/p/231dc742dfcb) |
 | Mon, 19 Jan 2026 22:13:04 GMT | The Hidden Equation Your Brain Runs On And Why It Matters | Kevin | [Read More](https://medium.com/p/5be5598eac1f) |
@@ -20,6 +21,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 22:06:34 GMT | Enforcing Resource Integrity Checks in Applications - The Silver Bullet | Mr. Robot.txt | [Read More](https://medium.com/p/33838c2df08c) |
 | Mon, 19 Jan 2026 22:03:59 GMT | Microsegmentation: The Next Evolution of Network Security | Raviteja Mureboina | [Read More](https://medium.com/p/830037f78a7f) |
 | Mon, 19 Jan 2026 22:03:38 GMT | Cybersecurity ethics and the security of information in a global posture | Joe Alongi | [Read More](https://medium.com/p/4e68fa49a9e0) |
+| Mon, 19 Jan 2026 22:03:15 GMT | Building a Threat Detection Lab: Integrating Wazuh, Suricata, and Virus Total | Anjolaoluwa Adegbite | [Read More](https://medium.com/p/a60bc03000e0) |
 | Mon, 19 Jan 2026 22:02:49 GMT | I Asked an AI About Its Security Policies: It Gave Me the API Key | Onurcan Genç | [Read More](https://medium.com/p/784292d728dd) |
 | Mon, 19 Jan 2026 22:00:29 GMT | EscapeRoom Lab — Write-up | 0xTT-byte | [Read More](https://medium.com/p/d96ae88e5edc) |
 | Mon, 19 Jan 2026 21:53:21 GMT | Day 20 — Race Conditions — Toy to The World | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/5c621815c9ac) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 16:30:35 GMT | The Difference Between Finding Vulnerabilities and Understanding Risk | Digital Defense | [Read More](https://medium.com/p/0fd52bff8598) |
 | Mon, 19 Jan 2026 16:25:55 GMT | Social Engineering in 2026 Is Mostly About Timing | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/7f1197f914b4) |
 | Mon, 19 Jan 2026 16:21:29 GMT | The Fast and the fur[IO]us : Ai drift | Douglas Jackson | [Read More](https://medium.com/p/314c1e0f3155) |
-| Mon, 19 Jan 2026 16:21:05 GMT | The IOC is dead, long live the IOB! | Damag3dRoot | [Read More](https://medium.com/p/38d9fced530e) |
-| Mon, 19 Jan 2026 16:19:59 GMT | AI agents are the next serious risk to business data security | hubbertsmith | [Read More](https://medium.com/p/ea95feeff3b3) |
