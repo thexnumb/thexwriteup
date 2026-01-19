@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 Jan 2026 22:36:57 GMT | The Need to Be Seen (and the Fear of Being Exposed) | Literary Fave | [Read More](https://medium.com/p/6835b02fe0e4) |
+| Mon, 19 Jan 2026 22:35:28 GMT | How Much Does a Penetration Test Actually Cost? | Eric Smith | [Read More](https://medium.com/p/231dc742dfcb) |
 | Mon, 19 Jan 2026 22:13:04 GMT | The Hidden Equation Your Brain Runs On And Why It Matters | Kevin | [Read More](https://medium.com/p/5be5598eac1f) |
 | Mon, 19 Jan 2026 22:11:06 GMT | Week 11: Cloud Security Basics and Best Practices | Donovan Brown | [Read More](https://medium.com/p/ea9e4c459a2c) |
 | Mon, 19 Jan 2026 22:08:12 GMT | Odysafe CTI Platform: The Open-Source Tool That Actually Simplifies IOC Management | ShadowBlue | [Read More](https://medium.com/p/a91077b17ee6) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 16:21:29 GMT | The Fast and the fur[IO]us : Ai drift | Douglas Jackson | [Read More](https://medium.com/p/314c1e0f3155) |
 | Mon, 19 Jan 2026 16:21:05 GMT | The IOC is dead, long live the IOB! | Damag3dRoot | [Read More](https://medium.com/p/38d9fced530e) |
 | Mon, 19 Jan 2026 16:19:59 GMT | AI agents are the next serious risk to business data security | hubbertsmith | [Read More](https://medium.com/p/ea95feeff3b3) |
-| Mon, 19 Jan 2026 16:16:03 GMT | Networking Basics | Muhammadsaad | [Read More](https://medium.com/p/e12167254193) |
-| Mon, 19 Jan 2026 16:15:11 GMT | The Convergence of Safety & Security in Industrial AI | Kevin O'Connor | [Read More](https://medium.com/p/22f4fcc8a4c8) |
