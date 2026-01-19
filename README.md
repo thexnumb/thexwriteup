@@ -12,7 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 Jan 2026 17:14:13 GMT | 5 Cybersecurity Myths That Refuse to Die | Abdul Ahad | [Read More](https://medium.com/p/892fe40254f9) |
+| Mon, 19 Jan 2026 17:09:49 GMT | Recover password from DELTA DOPSoft 4 .dpa | biero llagas | [Read More](https://medium.com/p/d65ee08823bc) |
+| Mon, 19 Jan 2026 17:08:56 GMT | How to Defend Against 5 Types of Threat Actors — Cybersecurity Unlocked Ep. 9 | Yash Kitey | [Read More](https://medium.com/p/12141aa79468) |
+| Mon, 19 Jan 2026 17:05:51 GMT | The Crypto-Scam Wave: A Case Study on Instagram Account Hijacking & Mitigation | Yafi Fadhali Korn | [Read More](https://medium.com/p/c6d535cf81eb) |
+| Mon, 19 Jan 2026 17:03:37 GMT | Your LLM Is Not Broken ,  Your AI System is | Gajanan Tayde | [Read More](https://medium.com/p/0bbeca18cfb0) |
+| Mon, 19 Jan 2026 17:02:01 GMT | Security in the Agent Era | Web3.com Ventures | [Read More](https://medium.com/p/987c52db5eab) |
+| Mon, 19 Jan 2026 17:02:00 GMT | Build a Secure Sandbox for Your AI Agent | Digvijay Mahapatra | [Read More](https://medium.com/p/dd67185e4761) |
+| Mon, 19 Jan 2026 17:01:59 GMT | Le piège du “toujours pas prêt” chez les autodidactes en cybersécurité | nullbyte | [Read More](https://medium.com/p/3f4eb321b6cc) |
+| Mon, 19 Jan 2026 16:54:56 GMT | The Growing Threat of Data Leakage in Generative AI Apps | Gaurav Roy CTO, Masters - BS-Cyber-Sec - MIT - LPU | [Read More](https://medium.com/p/636f99b49aa8) |
+| Mon, 19 Jan 2026 16:53:53 GMT | Where NetFlow Either Shines or Struggles | Dean | [Read More](https://medium.com/p/7e5daefc2e44) |
+| Mon, 19 Jan 2026 16:52:48 GMT | Malicious Chrome Extensions Are Taking Over Enterprise HR and ERP Systems | Chetan Seripally | [Read More](https://medium.com/p/8bf119701ad7) |
+| Mon, 19 Jan 2026 16:50:28 GMT | Inside the eCPPTv3: Exam Review (2026) and tips [EN] | Joel Morillas Pagan (Ghxstsec) | [Read More](https://medium.com/p/7e51d30c5409) |
+| Mon, 19 Jan 2026 16:49:59 GMT | Ready for Anything: A ‘When, Not If’ Approach to Enterprise Resilience | marcus evans online events | [Read More](https://medium.com/p/3cf59a0c1671) |
+| Mon, 19 Jan 2026 16:40:07 GMT | Deepfake fraud in 2026: Why voices and videos can no longer be trusted | Cordula Boeck | [Read More](https://medium.com/p/e804fd21d420) |
+| Mon, 19 Jan 2026 16:37:57 GMT | What Actually Happens After Initial Access? | Daniel Isaac E | [Read More](https://medium.com/p/62b75bc47fe4) |
+| Mon, 19 Jan 2026 16:33:47 GMT | Cyber Highlights of the Week (Jan 12–18, 2026): Everything You Need to Know | Pallavi S V | [Read More](https://medium.com/p/b8bdefb39f5b) |
+| Mon, 19 Jan 2026 16:32:07 GMT | AWS European Sovereign Cloud Goes Live — What It Means for Your Compliance Strategy | inboryn | [Read More](https://medium.com/p/90782973f2a0) |
 | Mon, 19 Jan 2026 16:31:59 GMT | MITRE Caldera: Orchestrating the Complete Attack Lifecycle | SDNTechForum | [Read More](https://medium.com/p/ccca5043ac0f) |
+| Mon, 19 Jan 2026 16:30:35 GMT | The Difference Between Finding Vulnerabilities and Understanding Risk | Digital Defense | [Read More](https://medium.com/p/0fd52bff8598) |
 | Mon, 19 Jan 2026 16:25:55 GMT | Social Engineering in 2026 Is Mostly About Timing | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/7f1197f914b4) |
 | Mon, 19 Jan 2026 16:21:29 GMT | The Fast and the fur[IO]us : Ai drift | Douglas Jackson | [Read More](https://medium.com/p/314c1e0f3155) |
 | Mon, 19 Jan 2026 16:21:05 GMT | The IOC is dead, long live the IOB! | Damag3dRoot | [Read More](https://medium.com/p/38d9fced530e) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 12:07:09 GMT | A Guide to Cyber Security Governance for Australian Business Owners | Future IT Services | [Read More](https://medium.com/p/893814edf397) |
 | Mon, 19 Jan 2026 12:06:41 GMT | Performance Benchmarking of POX, Ryu, HPE-VAN, OpenDaylight, and ONOS Controllers Based on QoS… | OxMotaw3 | [Read More](https://medium.com/p/13498d3b6c7f) |
 | Mon, 19 Jan 2026 12:04:22 GMT | The Future of Cloud Native: Security as Code | Nopsa Ventures | [Read More](https://medium.com/p/501cf0a90956) |
-| Mon, 19 Jan 2026 12:02:05 GMT | Secure Your Site | Emily Chan | [Read More](https://medium.com/p/b9ce96a85edf) |
-| Mon, 19 Jan 2026 12:02:01 GMT | Understanding CWE-472: External Control of Assumed-Immutable Web Parameter | Walter Moar | [Read More](https://medium.com/p/98c15bd8f38b) |
-| Mon, 19 Jan 2026 11:55:08 GMT | Enforcement Partner Onboarding Made Easy | ParqEx | [Read More](https://medium.com/p/9ad3a0701f03) |
-| Mon, 19 Jan 2026 11:51:01 GMT | Importance of ISO/IEC 27001 Certification | Sqccertification | [Read More](https://medium.com/p/44c2cf502009) |
-| Mon, 19 Jan 2026 11:45:37 GMT | I Analyzed a Malware Sample — Understanding the Attacker’s Decisions, Not Just the Code | Ahmed A. Ibrahim - Offensive Security Researcher | [Read More](https://medium.com/p/4affc1df922b) |
-| Mon, 19 Jan 2026 11:44:25 GMT | My OPSEC Journey: Fascinated by Evasion Techniques (CRTL → (OSEP) → CETP → MalDev → ODPC) | Tera | [Read More](https://medium.com/p/394854f67f17) |
-| Mon, 19 Jan 2026 11:41:22 GMT | From Filtering to Control: Inside Iran’s Near-Offline Internet Architecture (2021–2026) | Reza Harirchian | [Read More](https://medium.com/p/3076818c8b59) |
-| Mon, 19 Jan 2026 11:38:56 GMT | Food Security | Theunitedindian | [Read More](https://medium.com/p/0c9bfb6124f0) |
-| Mon, 19 Jan 2026 11:38:27 GMT | Cloud Infrastructure Management Services in India — Enabling Secure & Scalable IT Operations | Samvaskaran | [Read More](https://medium.com/p/91ad9a6e5bb6) |
-| Mon, 19 Jan 2026 11:32:04 GMT | How Compliance Protects Fintech Businesses | Sparkle Web | [Read More](https://medium.com/p/d8418deeace4) |
-| Mon, 19 Jan 2026 11:21:06 GMT | A Comprehensive Analysis of Cybersecurity Compliance: Comparing Policies, Standards, Laws, and Key… | Fasieha Mehar | [Read More](https://medium.com/p/f0ab45da2279) |
-| Mon, 19 Jan 2026 11:11:40 GMT | Trójmorze a stara UE: realne różnice w podejściu do obronności | Dorothy Duck | [Read More](https://medium.com/p/febedbc5e243) |
-| Mon, 19 Jan 2026 11:08:15 GMT | What Do We Deserve? | Kassey's Dreams & Realities Ink. | [Read More](https://medium.com/p/0785041dbafc) |
-| Mon, 19 Jan 2026 11:05:03 GMT | From Bottlenecks to Built‑In Security: Reading the Industry’s Shift | Purple Security | [Read More](https://medium.com/p/1d53b37d99fb) |
-| Mon, 19 Jan 2026 11:02:07 GMT | Web Security 101: Part 2 -Input Is the Root of All Attacks | Nithishraina | [Read More](https://medium.com/p/7d4e1f0b6634) |
-| Mon, 19 Jan 2026 11:02:01 GMT | The Agent Reliability Stack That Actually Works | Bhagya Rana | [Read More](https://medium.com/p/5ca1f51627ae) |
-| Mon, 19 Jan 2026 11:01:46 GMT | Managed Cyber Security Services for safer operations | YesIT Services | [Read More](https://medium.com/p/e7fb5c2e800f) |
-| Mon, 19 Jan 2026 10:54:30 GMT | Your 5-Step Checklist for Rapid Cybersecurity Deployment | Anshul Goyal | [Read More](https://medium.com/p/dfac97f49726) |
