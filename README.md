@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 Jan 2026 06:38:12 GMT | Turning Red Teaming Assessment Into Measurable Security Confidence | Digital Duffer | [Read More](https://medium.com/p/e1198eb4a86a) |
+| Mon, 19 Jan 2026 06:37:06 GMT | Why Your React App Is a Goldmine for Hackers | Code Catalyst | [Read More](https://medium.com/p/78a2f5975506) |
+| Mon, 19 Jan 2026 06:33:00 GMT | Session-Based Authentication VS Token-Based Authentication | Tamjidahmed | [Read More](https://medium.com/p/1192bc45f4d5) |
+| Mon, 19 Jan 2026 06:29:09 GMT | The Biggest Beginner Mistake in SOC: Ignoring Networking | Faizan Nazir | [Read More](https://medium.com/p/f0d30ab6dc06) |
+| Mon, 19 Jan 2026 06:28:22 GMT | PortSwigger: Access Control Exploitation | Sandeepsisodiya | [Read More](https://medium.com/p/b4651edae9ca) |
+| Mon, 19 Jan 2026 06:16:58 GMT | Constantly Curious: Who’s Minding the Store? | OSINT Amy | [Read More](https://medium.com/p/11b6e9c57bd1) |
+| Mon, 19 Jan 2026 06:15:47 GMT | Cool GitHub Repos for DevOps, Engineers, IT Professionals, Infrastructure, and More - Part IV —… | Haim Cohen | [Read More](https://medium.com/p/3c68de1c485f) |
+| Mon, 19 Jan 2026 06:12:51 GMT | The Friends Who Saved Me — and the Ones I’m Learning to Let Go Of | Mammon | [Read More](https://medium.com/p/4be9a9740729) |
+| Mon, 19 Jan 2026 06:07:57 GMT | When Trusted Tools Turn Risky: How VS Code Forks Exposed Developers to Extension Attacks | Deven Chhajed | [Read More](https://medium.com/p/1eda51928b83) |
+| Mon, 19 Jan 2026 06:04:46 GMT | Hack Free Fire Max | Apkpuredev | [Read More](https://medium.com/p/4cb132e41e76) |
+| Mon, 19 Jan 2026 06:01:23 GMT | AI Tools Are Overdelivering Results, And Nobody’s Talking About It. | Sai Mohit Kumar Kilaru | [Read More](https://medium.com/p/29dd48bb50b5) |
+| Mon, 19 Jan 2026 05:58:52 GMT | Integrating New Relic in a Ruby on Rails Application (The Right Way) | Ravi Prakash | [Read More](https://medium.com/p/d6bc6e51a032) |
+| Mon, 19 Jan 2026 05:58:29 GMT | Cyberbullying Severity Detection Using Transformer-Based NLP: From Classical ML to BERT, Ensembles… | Rahul Sharma | [Read More](https://medium.com/p/91231117acde) |
+| Mon, 19 Jan 2026 05:53:23 GMT | LLMs and GENAI Apps: Risk & Mitigations — Part 3: Supply Chain! | Nothing Cyber [NC] | [Read More](https://medium.com/p/7438266c763d) |
+| Mon, 19 Jan 2026 05:49:58 GMT | Cuentas Sock Puppet | Mariana | [Read More](https://medium.com/p/441d79e37bd6) |
+| Mon, 19 Jan 2026 05:48:53 GMT | What is a Zero Day Vulnerability? | Kalyani Kakarla | [Read More](https://medium.com/p/4d72e9db3308) |
+| Mon, 19 Jan 2026 05:46:30 GMT | 硬體錢包也無法防範的人性漏洞：一起 2.82 億美元的社交工程攻擊解析 | Crypt0Sophie | [Read More](https://medium.com/p/15082af74cf5) |
 | Mon, 19 Jan 2026 05:45:46 GMT | Building a Production-Grade Homelab: My Journey into DevOps Through Real Systems | Syed Hussaini | [Read More](https://medium.com/p/2613da2483e9) |
 | Mon, 19 Jan 2026 05:23:20 GMT | head-dump (Pico CTF) | Destripador | [Read More](https://medium.com/p/da5f2400dd50) |
 | Mon, 19 Jan 2026 05:23:08 GMT | Day 86: Walk me through an alert-for beginners | unica 02 | [Read More](https://medium.com/p/6fe8b875691c) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 Jan 2026 20:13:55 GMT | My favorite mobile game is Puzzle. | Megersa Siraj Omer | [Read More](https://medium.com/p/62ae9eddb993) |
 | Sun, 18 Jan 2026 20:09:31 GMT | NIS2, DORA, AI Act : arrêtez l’attentisme, unifiez vos contrôles | Anthony Vandepeutte - Noctu@edu | [Read More](https://medium.com/p/1f9b2b18daf5) |
 | Sun, 18 Jan 2026 20:00:53 GMT | Web Pentesting 101: Documenting a Successful Stored XSS Attack Chain | Attah Sosah | [Read More](https://medium.com/p/690b1d8c92ef) |
-| Sun, 18 Jan 2026 19:56:27 GMT | Web Application Firewall Detection — WAFW00F | mohandika | [Read More](https://medium.com/p/aa4245b211bc) |
-| Sun, 18 Jan 2026 19:49:33 GMT | Real-Time GPS & Activity Monitoring in Security Management: 2026 Guide | Teona | [Read More](https://medium.com/p/ca802b425fb1) |
-| Sun, 18 Jan 2026 19:47:59 GMT | Why Most Advanced Technologies Fail Outside the Lab | Faisal Asif | [Read More](https://medium.com/p/5f9fa666ea79) |
-| Sun, 18 Jan 2026 19:47:05 GMT | Simple Logic Breaks Big Systems: The Contract That Ended Before It Started | default_0x | [Read More](https://medium.com/p/28dd3230ba34) |
-| Sun, 18 Jan 2026 19:43:44 GMT | Bounty Hacker Walkthrough | Abdelrabo%00 | [Read More](https://medium.com/p/92c1ab955c23) |
-| Sun, 18 Jan 2026 19:37:52 GMT | An Introduction to EDR: | Ahmad Khaled | [Read More](https://medium.com/p/9fd7cade736c) |
-| Sun, 18 Jan 2026 19:31:01 GMT | How to install Ubuntu 24.04 LTS in VirtualBox 2026 | Bob Malin | [Read More](https://medium.com/p/e23244b8d5ba) |
-| Sun, 18 Jan 2026 19:25:58 GMT | Hackers Don’t Break In Anymore | Mughira Ahmed | [Read More](https://medium.com/p/b3b763ef3343) |
-| Sun, 18 Jan 2026 19:16:54 GMT | I Build Systems That Can Be Researched, Governed, Manufactured, and Trusted | Faisal Asif | [Read More](https://medium.com/p/c65d5a6740e1) |
-| Sun, 18 Jan 2026 19:10:49 GMT | A letter to Vulnerability | Latoria | [Read More](https://medium.com/p/8fd87e3e23f0) |
-| Sun, 18 Jan 2026 19:01:59 GMT | Anti-Exploit | Iram Jack | [Read More](https://medium.com/p/b5548e51ea18) |
-| Sun, 18 Jan 2026 19:01:59 GMT | Learning SQL in 20 Hours — Day 14: Window Functions | Kalpesh Bhangare | [Read More](https://medium.com/p/843c4c1c82b0) |
-| Sun, 18 Jan 2026 18:38:33 GMT | Not everything we long for is something we truly need. | Anshita Dubey | [Read More](https://medium.com/p/0ca9ee90f8c4) |
-| Sun, 18 Jan 2026 18:36:58 GMT | The DNS Query I Almost Ignored | ATAF | [Read More](https://medium.com/p/b5113e61c950) |
-| Sun, 18 Jan 2026 18:33:16 GMT | [AD攻防]Golden Ticket手法 | 陳禹璿 | [Read More](https://medium.com/p/4ac75910a71a) |
-| Sun, 18 Jan 2026 18:32:10 GMT | How Hackers Actually Break Web Apps in 2026 | Code Catalyst | [Read More](https://medium.com/p/986466bebc44) |
-| Sun, 18 Jan 2026 18:31:08 GMT | Takeover CTF | Rue | [Read More](https://medium.com/p/e768d5631810) |
