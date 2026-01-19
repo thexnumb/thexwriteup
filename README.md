@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 19 Jan 2026 05:45:46 GMT | Building a Production-Grade Homelab: My Journey into DevOps Through Real Systems | Syed Hussaini | [Read More](https://medium.com/p/2613da2483e9) |
+| Mon, 19 Jan 2026 05:23:20 GMT | head-dump (Pico CTF) | Destripador | [Read More](https://medium.com/p/da5f2400dd50) |
+| Mon, 19 Jan 2026 05:23:08 GMT | Day 86: Walk me through an alert-for beginners | unica 02 | [Read More](https://medium.com/p/6fe8b875691c) |
+| Mon, 19 Jan 2026 05:22:38 GMT | Introduction: The Illusion of Biometric Security | Ryu360 | [Read More](https://medium.com/p/42876161b618) |
+| Mon, 19 Jan 2026 05:17:32 GMT | Apache: The Web Server That Built the Internet! | Rela Lumbini | [Read More](https://medium.com/p/65659ae785d2) |
+| Mon, 19 Jan 2026 05:14:22 GMT | Hello. My names Allison, I'm 27 and I have scoliosis. | Allison kerr-scullion | [Read More](https://medium.com/p/52adae10bca6) |
+| Mon, 19 Jan 2026 05:10:48 GMT | Browsed HTB | rooter | [Read More](https://medium.com/p/29920a9d1a40) |
+| Mon, 19 Jan 2026 05:09:47 GMT | Why Nmap Feels Like X-Ray Vision the First Time You Use It Properly | Fateyaly | [Read More](https://medium.com/p/0327f68837a4) |
+| Mon, 19 Jan 2026 05:01:31 GMT | How Can You Find the Best CCTV System in UAE and Best Security Camera in UAE ? | techfra solutions | [Read More](https://medium.com/p/edad80895d25) |
+| Mon, 19 Jan 2026 05:00:24 GMT | The Best C# PDF Libraries in 2025: An In-Depth Guide for .NET Developers | Ahmad Sohail | [Read More](https://medium.com/p/4ffec3cfe055) |
 | Mon, 19 Jan 2026 04:54:30 GMT | Light Out, 7B (Part 17) | edarit | [Read More](https://medium.com/p/7e12f1d31e2e) |
+| Mon, 19 Jan 2026 04:52:54 GMT | Future-Ready Enterprise IT Through Cloud, Virtualization, Containers, Security, and Data Resilience | F9 Infotech | [Read More](https://medium.com/p/24ef014a8c3e) |
 | Mon, 19 Jan 2026 04:44:56 GMT | Came to Compete. Left With Questions. (T.A.M.I.N.G ICTFF8 Grand Final) | WanTan | [Read More](https://medium.com/p/bf81d234843f) |
 | Mon, 19 Jan 2026 04:44:51 GMT | AWS CLI Apache EC2 Deployment: Secure Build, AMI Baseline and Teardown | CoffeeCloud Series | [Read More](https://medium.com/p/b726a0b1c24a) |
 | Mon, 19 Jan 2026 04:33:07 GMT | The Cybersecurity Roadmap 2026: The Death of the “Click-Ops” Analyst | Abhijith Soman | [Read More](https://medium.com/p/ac76aec150f7) |
@@ -60,6 +71,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 Jan 2026 22:07:40 GMT | Design and Implementation of a Scalable and Secure Enterprise Network | Blessing-Igboanusi | [Read More](https://medium.com/p/0fb1633097b5) |
 | Sun, 18 Jan 2026 22:01:29 GMT | Hardware Hacking Attacks That Start at the Silicon Level | Bervice | [Read More](https://medium.com/p/41d1608ca36a) |
 | Sun, 18 Jan 2026 21:52:51 GMT | Inter Process Communication with RPC | S12 - 0x12Dark Development | [Read More](https://medium.com/p/2addfaa57a24) |
+| Sun, 18 Jan 2026 21:51:31 GMT | [Rabbit Store]  —  JWT Manipulation, SSRF, SSTI Leading to RCE and Root Access via a Vulnerable… | Bash Overflow | [Read More](https://medium.com/p/88a7a53f2109) |
 | Sun, 18 Jan 2026 21:44:19 GMT | How My Mother’s Nagging Turned Into an Accidental Malware & Forensics Case | Aviral | [Read More](https://medium.com/p/0957c760d8ac) |
 | Sun, 18 Jan 2026 21:41:44 GMT | Attack and Defense. A Brief Human History, from Stones to AI | Alessandro Bruschieri | [Read More](https://medium.com/p/a7cdb78e11c5) |
 | Sun, 18 Jan 2026 21:37:38 GMT | Metasploit দিয়ে এক্সপ্লয়টিং: সিকিউরিটি অ্যানালিস্টদের জন্য সহজ গাইড | SecurityMindPro | [Read More](https://medium.com/p/b31d46ef1be1) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 18 Jan 2026 18:33:16 GMT | [AD攻防]Golden Ticket手法 | 陳禹璿 | [Read More](https://medium.com/p/4ac75910a71a) |
 | Sun, 18 Jan 2026 18:32:10 GMT | How Hackers Actually Break Web Apps in 2026 | Code Catalyst | [Read More](https://medium.com/p/986466bebc44) |
 | Sun, 18 Jan 2026 18:31:08 GMT | Takeover CTF | Rue | [Read More](https://medium.com/p/e768d5631810) |
-| Sun, 18 Jan 2026 18:24:09 GMT | Building a Zero-Knowledge Authentication System in Go (Without Ever Sending Passwords) | Md. Mehedi Hasan | [Read More](https://medium.com/p/358c21279cee) |
-| Sun, 18 Jan 2026 18:21:13 GMT | Sécuriser nos clusters Kubernetes on-premise | Thibault Buze | [Read More](https://medium.com/p/8418e1940388) |
-| Sun, 18 Jan 2026 18:19:03 GMT | [Writeup] Proving Grounds: Pyloader (Linux) | Bassey Ekemini E | [Read More](https://medium.com/p/d159e1d0d99c) |
-| Sun, 18 Jan 2026 18:18:09 GMT | A Single Image Triggered the Greatest Mystery in Internet History — And No One Ever Solved It | Nazrul Islam Rana | [Read More](https://medium.com/p/ce47e39631d5) |
-| Sun, 18 Jan 2026 18:14:32 GMT | 10 Conversations Defining the Future of AI, Cyber, and Conflict | Chris Kubecka de Medina | [Read More](https://medium.com/p/93e4ba5cc662) |
-| Sun, 18 Jan 2026 18:11:21 GMT | The Two-Layer Approach to AI Observability: Why Application + Network Monitoring Isn’t Optional… | Gorisariaabhishek | [Read More](https://medium.com/p/aee63183c539) |
-| Sun, 18 Jan 2026 18:06:31 GMT | How Hackers Think | Catherine Ma | [Read More](https://medium.com/p/2ea1989220b3) |
-| Sun, 18 Jan 2026 18:01:51 GMT | How Hackers Actually Think: | Abdul Ahad | [Read More](https://medium.com/p/8fe7a3a94e0c) |
-| Sun, 18 Jan 2026 17:53:45 GMT | Ghost in the Machine: 6 Shocking Ways Your Operating System Tracks Your Every Move | Omega | [Read More](https://medium.com/p/5ae372a79e1f) |
-| Sun, 18 Jan 2026 17:33:54 GMT | Starting Your Bug Bounty Journey: Tips for Beginners | Nayan Ghimire | [Read More](https://medium.com/p/88a41eab150c) |
-| Sun, 18 Jan 2026 17:27:09 GMT | Сканування сервісів з nmap | Fl4g Hunt3r Project | [Read More](https://medium.com/p/6f38307ee8ca) |
-| Sun, 18 Jan 2026 17:16:14 GMT | The Future of African Leadership Is Digital & Security Is Governance | Tim Murkomen | [Read More](https://medium.com/p/60bf21acda02) |
