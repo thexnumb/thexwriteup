@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 Jan 2026 12:52:00 GMT | The Hidden Power of Shame and How Parents Can Transform It | Emberhart | [Read More](https://medium.com/p/9adb6f520724) |
+| Tue, 20 Jan 2026 12:49:49 GMT | SD-WAN: The Smart Network Layer Powering Modern Digital Businesses | Zefai Insights | [Read More](https://medium.com/p/3f2edd55f342) |
+| Tue, 20 Jan 2026 12:49:34 GMT | DOM-Based XSS: From Browser Logic to Bounty | Jayesh kunwal | [Read More](https://medium.com/p/70cf4d94f694) |
+| Tue, 20 Jan 2026 12:41:22 GMT | What Really Happens During a Darknet Market Shutdown? | Tor BBB | [Read More](https://medium.com/p/184ef1b88cfc) |
+| Tue, 20 Jan 2026 12:40:34 GMT | AI Coding Tools Require Developers to Become Better Managers and Spec Writers | Techsankar | [Read More](https://medium.com/p/580e8dc0b997) |
+| Tue, 20 Jan 2026 12:38:41 GMT | Can a Phone Really Be Hacked Using Just a Mobile Number? | Rebecca Smith | [Read More](https://medium.com/p/039af482a89f) |
+| Tue, 20 Jan 2026 12:36:56 GMT | The Architecture of Observation: Information Entropy and the Visual Interface | Akam Okokon-Teunissen | [Read More](https://medium.com/p/00d52d412482) |
+| Tue, 20 Jan 2026 12:36:03 GMT | What Really Happens When You Type a URL in Your Browser | Shalu | [Read More](https://medium.com/p/a6c8d3b56e4d) |
+| Tue, 20 Jan 2026 12:36:01 GMT | What Comes After AI in Cybersecurity Is Controlled Autonomy | Graylog | [Read More](https://medium.com/p/d4690e912729) |
+| Tue, 20 Jan 2026 12:34:50 GMT | MicroVMs for protecting agentic AI — a solution for an uprising security risk | Michael Harms | [Read More](https://medium.com/p/7b33b7ac525f) |
+| Tue, 20 Jan 2026 12:33:00 GMT | Vocabulary Deep Dive—Issue #12 | Sri Murthy | [Read More](https://medium.com/p/505172bc1ce6) |
+| Tue, 20 Jan 2026 12:30:19 GMT | Biyolojik Ağın Çöküşü: Neden Tüm Portlar Aynı Anda Kapanıyor? | Huseyin Talha Turkdogan, MSc | [Read More](https://medium.com/p/a2b510723f1d) |
+| Tue, 20 Jan 2026 12:14:44 GMT | Detecting MQTT Abuse in the Wild: Lessons from an Adaptive IIoT Honeypot | Piyali Datta | [Read More](https://medium.com/p/4e46037c69f6) |
+| Tue, 20 Jan 2026 12:11:48 GMT | CrashFix Attacks: New Browser-Crashing Malware Threatens Users and Organizations | Technijian | [Read More](https://medium.com/p/f36883425a72) |
+| Tue, 20 Jan 2026 12:04:57 GMT | Anthropic’s New Research: AI Personality Drift — A Risk You Need to Know. | Suleiman Tawil | [Read More](https://medium.com/p/39549e8e4e4f) |
 | Tue, 20 Jan 2026 11:34:36 GMT | Cybersecurity Consultant Services: Protecting Your Business in the Digital Age | SmartCLOUD Australia | [Read More](https://medium.com/p/83c8ec123826) |
 | Tue, 20 Jan 2026 11:33:26 GMT | Red Teaming Is Not About Breaking In — It’s About Proving What Actually Breaks | Delferd Neon | [Read More](https://medium.com/p/38d0960c2fad) |
 | Tue, 20 Jan 2026 11:31:54 GMT | Ethical Hacking Fundamentals | BismaAhsan | [Read More](https://medium.com/p/0c536a03377d) |
@@ -97,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 Jan 2026 06:48:54 GMT | The Invisible You: Your Personal Data is More Exposed Than You Think | Vidoq | [Read More](https://medium.com/p/9eb57a98ec81) |
 | Tue, 20 Jan 2026 06:48:21 GMT | Professional Denver Roofer & San Antonio Roofer You Can Rely On | Kidd Roofing | [Read More](https://medium.com/p/c6a7817640ba) |
 | Tue, 20 Jan 2026 06:47:07 GMT | Programming Tech That Ages Well Versus Tools That Rot Fast | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/aa4649511d46) |
-| Tue, 20 Jan 2026 06:33:12 GMT | When AI Agents Go Rogue - The Daily Tech Digest: 20 January 2026 | Souren Stepanyan | [Read More](https://medium.com/p/e8f272619e9b) |
-| Tue, 20 Jan 2026 06:29:44 GMT | “When Being Sick Makes Me Needier” | ilpa mutiarasari | [Read More](https://medium.com/p/47416ba44778) |
-| Tue, 20 Jan 2026 06:17:00 GMT | IAM 101: The Reality, The Hype, and Why “Identity” is the New Firewall | Abhijith Soman | [Read More](https://medium.com/p/83d6a49021cb) |
-| Tue, 20 Jan 2026 06:09:18 GMT | Cyber Fraud Help Desk: Get Trusted Support Against Online Scams with SADI | SADI AI | [Read More](https://medium.com/p/0f1b10d63af6) |
-| Tue, 20 Jan 2026 06:08:45 GMT | Fixing “No Space Left on Device” in a VirtualBox Ubuntu VM (for Splunk Labs) | Jason Hoskins Jr. | [Read More](https://medium.com/p/0be914714d41) |
-| Tue, 20 Jan 2026 06:08:05 GMT | VPS for Gaming: The Ultimate Guide | HostNOC | [Read More](https://medium.com/p/5dd3aa526163) |
-| Tue, 20 Jan 2026 06:02:00 GMT | Static vs Dynamic IP: The Difference That Silently Shapes Your Internet | Arash Hadad | [Read More](https://medium.com/p/ad279ba4f8cc) |
-| Tue, 20 Jan 2026 05:53:41 GMT | Security Can’t Be a Final Check in Enterprise Application Testing | Colleen Sylvia | [Read More](https://medium.com/p/b5838047fb10) |
-| Tue, 20 Jan 2026 05:53:23 GMT | Cybersecurity Is No Longer Optional for Growing Businesses in Mangalore | StandaloneDigitech | [Read More](https://medium.com/p/3e3b035c7201) |
-| Tue, 20 Jan 2026 05:50:21 GMT | Infrastructure as Code: manual to Automation. | MananK | [Read More](https://medium.com/p/21182305b247) |
-| Tue, 20 Jan 2026 05:40:11 GMT | How Cybersecurity Frameworks Fit Together (Not Just What They Are) — 
-(Threat → Weakness →… | Macky  (TheNMAPGuy)  Matsunaga | [Read More](https://medium.com/p/ab6509e4edd2) |
-| Tue, 20 Jan 2026 05:36:02 GMT | Types of Security Alerts in a SOC: What They Mean and How Analysts Respond | ARCHANA P | [Read More](https://medium.com/p/90bad13ef8ea) |
-| Tue, 20 Jan 2026 05:32:43 GMT | The Windows Security Journey — AppContainer | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/15a65f291167) |
-| Tue, 20 Jan 2026 05:28:00 GMT | IT Compliance Services in Hartford - it security compliance & it compliance services | Gainside | [Read More](https://medium.com/p/79a1adeb894e) |
-| Tue, 20 Jan 2026 05:16:56 GMT | Protocols and Servers 1 & 2 — Writeup | Mahir | [Read More](https://medium.com/p/e05c7efcb0d9) |
