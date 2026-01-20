@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 Jan 2026 20:00:02 GMT | That doesn’t seem right… How I found a high severity authentication bypass on Skins.com | Roland | [Read More](https://medium.com/p/dea21f1715e4) |
+| Tue, 20 Jan 2026 19:48:49 GMT | When Confidential Computing Fails? | Hsiao C Yang | [Read More](https://medium.com/p/6c24679690a1) |
+| Tue, 20 Jan 2026 19:48:19 GMT | CVE-2025–50154 Windows Exploit | Мартин. | [Read More](https://medium.com/p/13cf5f729608) |
+| Tue, 20 Jan 2026 19:43:34 GMT | Conditional Computing | Hsiao C Yang | [Read More](https://medium.com/p/748ef3422b98) |
+| Tue, 20 Jan 2026 19:40:26 GMT | A Practical Cybersecurity Briefing for Business Decision Makers | Cordula Boeck | [Read More](https://medium.com/p/de75c725498b) |
+| Tue, 20 Jan 2026 19:36:31 GMT | Walking An Application Room | Salah Algarhy | [Read More](https://medium.com/p/17b346e61647) |
+| Tue, 20 Jan 2026 19:36:14 GMT | How I Check Password Strength Before Using Any New Account | Sadique Mannan | [Read More](https://medium.com/p/5ca8c1f01c72) |
+| Tue, 20 Jan 2026 19:30:51 GMT | Strong Primes in Cryptography: What They Are, Why They Matter, and How They Protect Modern Security | Dennis Duke | [Read More](https://medium.com/p/dcb3bd381d0b) |
+| Tue, 20 Jan 2026 19:28:48 GMT | Different Types of Cookies in IT: A Complete Guide for Developers, Businesses, and Users | Dennis Duke | [Read More](https://medium.com/p/c57730c46472) |
+| Tue, 20 Jan 2026 19:25:16 GMT | Network Security Essentials - THM | Isiah | [Read More](https://medium.com/p/7f532d5f90e4) |
+| Tue, 20 Jan 2026 19:21:16 GMT | When Pre-Boot Security Fails Open. A Physical Pentest of a Certified Laptop | pohackontas | [Read More](https://medium.com/p/529653f436c7) |
+| Tue, 20 Jan 2026 19:03:45 GMT | $70,000 from a Simple 2FA Bypass: A Lesson in Observation Over Exploits | Aman Bhuiyan | [Read More](https://medium.com/p/10902b4253a7) |
+| Tue, 20 Jan 2026 19:00:15 GMT | Hire a Hacker to Catch Cheating Spouse | The Trusted H | [Read More](https://medium.com/p/27b48fa3a64f) |
+| Tue, 20 Jan 2026 18:59:42 GMT | Digital Forensics Challenge: Basics, Mounting & Analyzing Disk Images (Day 1) | Niklas Heringer | [Read More](https://medium.com/p/4843d7a2cd64) |
+| Tue, 20 Jan 2026 18:58:53 GMT | The Top 5 Scripting Languages for “Ethical” Hacking (or otherwise) | Travis Ray Caverhill | [Read More](https://medium.com/p/298fb6ebd2fd) |
+| Tue, 20 Jan 2026 18:57:55 GMT | OWASP Mobile Security Guide: For React Native Developers | Barış Kandemir | [Read More](https://medium.com/p/31770fcbc2f1) |
+| Tue, 20 Jan 2026 18:52:00 GMT | Can Hackers Attack Quantum Computers Across Time and Space? The Truth Is Far More Terrifying | Kevin Qi | [Read More](https://medium.com/p/d74e41a2223a) |
+| Tue, 20 Jan 2026 18:50:23 GMT | WAFs Don’t Own Origin Boundaries — System Administrators Do | Juan David Correa Landreau | [Read More](https://medium.com/p/4f7b42b50c15) |
+| Tue, 20 Jan 2026 18:49:24 GMT | Who Remains? | Cheyanne Burnett | [Read More](https://medium.com/p/09f67aeeab7e) |
+| Tue, 20 Jan 2026 18:40:15 GMT | Mobil Uygulama Güvenliğine Giriş: OWASP Mobile Top 10 Nedir? | Barış Kandemir | [Read More](https://medium.com/p/c32ff852d972) |
+| Tue, 20 Jan 2026 18:39:48 GMT | Beginner’s Guide Part 1: Building an AI Non- GUI Pentest Lab with Ollama & HexStrike AI | Omarataallah | [Read More](https://medium.com/p/b7f461cce2a9) |
 | Tue, 20 Jan 2026 18:35:55 GMT | How I Discovered a Legacy SOAP API Vulnerability in a University ERP | Abhishek pawar | [Read More](https://medium.com/p/19b35b91950b) |
 | Tue, 20 Jan 2026 18:28:35 GMT | Secure Kubernetes Deployment Guide (Self-Managed) — Part VII | SOCFortress | [Read More](https://medium.com/p/e03136a730e1) |
 | Tue, 20 Jan 2026 18:27:50 GMT | Introducing > PowerShell.Exposed | Alex Teixeira | [Read More](https://medium.com/p/4974fe712117) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 Jan 2026 14:02:13 GMT | The Cost of Hiding: Why Your Relationship Needs More Truth, Not Less | Dominica Applegate | [Read More](https://medium.com/p/e0992e5704ea) |
 | Tue, 20 Jan 2026 14:02:07 GMT | Why Your Multi-Factor Authentication is a Sitting Duck: Lessons from Asahi Group | Satelite | [Read More](https://medium.com/p/c817f2b5ae37) |
 | Tue, 20 Jan 2026 14:01:15 GMT | Incident Response Explained: How SOC Teams Handle Cyber Attacks Step by Step | Abhinsubej | [Read More](https://medium.com/p/b9b3d33c3011) |
-| Tue, 20 Jan 2026 14:00:34 GMT | Stop Leaking Your API Keys: Implementing a Next-Level GraphQL Proxy | Awixor | [Read More](https://medium.com/p/1828ac517a47) |
-| Tue, 20 Jan 2026 13:47:09 GMT | Session vs Token Authentication: Technical Trade-offs Analysis | Nabil Mouzouna نبيل مزونة | [Read More](https://medium.com/p/0fa4e57db52f) |
-| Tue, 20 Jan 2026 13:45:39 GMT | 1.2 Billion LinkedIn Users Put On Alert After Policy Violation Threat | Moni | [Read More](https://medium.com/p/bcd50aa0e8b1) |
-| Tue, 20 Jan 2026 13:44:32 GMT | From Job Hunting to Bug Hunting: Discovering an SQL Injection Vulnerability | Wonde D | [Read More](https://medium.com/p/922c3cbc95a8) |
-| Tue, 20 Jan 2026 13:38:37 GMT | Cybersecurity Training Center and Consulting Company in Maryland | Cybersectc | [Read More](https://medium.com/p/4a1e1c3e88e0) |
-| Tue, 20 Jan 2026 13:38:32 GMT | Fluffy — Hack The Box Write-Up | JY00X3 | [Read More](https://medium.com/p/f9b584305ea8) |
-| Tue, 20 Jan 2026 13:36:38 GMT | Custom Garage Doors for Unique Homes - 24H Garage Doors | 24H Garage Doors | [Read More](https://medium.com/p/94eab74024df) |
-| Tue, 20 Jan 2026 13:33:11 GMT | Entry-Level ISC² Certifications: Where to Start Your Cybersecurity Journey | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/c2ccfcf68bb6) |
-| Tue, 20 Jan 2026 13:28:36 GMT | WIZ Cloud Security Championship — Breaking The Barriers Entra ID CTF Walkthrough | Cyberguy | [Read More](https://medium.com/p/e1695750e765) |
-| Tue, 20 Jan 2026 13:18:02 GMT | SQLi | Paukhankhual Hangsing | [Read More](https://medium.com/p/d16e92a2fad4) |
-| Tue, 20 Jan 2026 13:17:06 GMT | Should democratic governments use AI driven robots at political protests, when weighing the… | Nemanja Vuksanovic | [Read More](https://medium.com/p/02c8e922740f) |
-| Tue, 20 Jan 2026 13:15:45 GMT | The SIEM–SOC Connection: How Raw Logs Become Real-World Incidents | SAI PRASAD | [Read More](https://medium.com/p/46f9a7275a3e) |
-| Tue, 20 Jan 2026 13:08:17 GMT | Another MDR Acquisition: Consolidating Risk or Capability? | Thomas Patterson | [Read More](https://medium.com/p/f16d98b0db6e) |
-| Tue, 20 Jan 2026 13:03:38 GMT | ESCAPE.htb — Full Write-Up | JY00X3 | [Read More](https://medium.com/p/b93b48487c8a) |
-| Tue, 20 Jan 2026 13:03:37 GMT | What is Ethical Hacking in Cyber Security? | Brillica Services | [Read More](https://medium.com/p/a9ab63ecfe39) |
-| Tue, 20 Jan 2026 13:03:16 GMT | Enterprise AI in 2026: Why CIOs Must Shift from Innovation to Stewardship | Prashant Vithlani | [Read More](https://medium.com/p/71fb6d713d19) |
-| Tue, 20 Jan 2026 13:03:15 GMT | The Confidence Gap Is the Real Ransomware Threat | Faraz Ishaq | [Read More](https://medium.com/p/3e5865102215) |
-| Tue, 20 Jan 2026 13:02:29 GMT | Self Improvement Is a Daily Choice, Not a One-Time Decision | SIMPLE ARTICAL | [Read More](https://medium.com/p/5f20ee7318e7) |
-| Tue, 20 Jan 2026 13:01:50 GMT | Azure Governance that scales: guardrails for fast and safe delivery | Radu Vunvulea | [Read More](https://medium.com/p/2c9121cbd4ff) |
-| Tue, 20 Jan 2026 12:52:00 GMT | The Hidden Power of Shame and How Parents Can Transform It | Emberhart | [Read More](https://medium.com/p/9adb6f520724) |
-| Tue, 20 Jan 2026 12:49:49 GMT | SD-WAN: The Smart Network Layer Powering Modern Digital Businesses | Zefai Insights | [Read More](https://medium.com/p/3f2edd55f342) |
