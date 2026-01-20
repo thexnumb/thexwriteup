@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 Jan 2026 20:46:21 GMT | Day 161 — Building a Reliable Windows Process Monitoring Layer | Jinay | [Read More](https://medium.com/p/b36e5fdbb489) |
+| Tue, 20 Jan 2026 20:39:10 GMT | CYBER KILL CHAIN: Kurumların Dijital Savunma Haritası | dilan alpaltun | [Read More](https://medium.com/p/297090ad2366) |
+| Tue, 20 Jan 2026 20:38:52 GMT | Day 16–17 of Bug Bounty Journey : Understanding Nmap Like a Hacker | Anshkamra | [Read More](https://medium.com/p/0489f655b4be) |
+| Tue, 20 Jan 2026 20:35:37 GMT | Why Annual Risk Assessments Are Already Outdated | JSOC IT BLOG | [Read More](https://medium.com/p/bf9ffac59eaa) |
+| Tue, 20 Jan 2026 20:32:17 GMT | EEPROM vs FRAM in Embedded Systems: Dumping and Correlating PoE Configuration on a Hikvision Switch | Aaronjjose | [Read More](https://medium.com/p/e677d3f9efea) |
+| Tue, 20 Jan 2026 20:21:07 GMT | Cyber Psalm I: The Scroll of Vigilance: A sacred chant for the age of Algorithms | gershblumstein | [Read More](https://medium.com/p/92c800b2d4e4) |
+| Tue, 20 Jan 2026 20:12:04 GMT | Mastering WordPress Plugin Best Practices: Security, i18n, and Performance for Beginners | Shahibur Rahman | [Read More](https://medium.com/p/387f65331128) |
 | Tue, 20 Jan 2026 20:00:02 GMT | That doesn’t seem right… How I found a high severity authentication bypass on Skins.com | Roland | [Read More](https://medium.com/p/dea21f1715e4) |
 | Tue, 20 Jan 2026 19:48:49 GMT | When Confidential Computing Fails? | Hsiao C Yang | [Read More](https://medium.com/p/6c24679690a1) |
 | Tue, 20 Jan 2026 19:48:19 GMT | CVE-2025–50154 Windows Exploit | Мартин. | [Read More](https://medium.com/p/13cf5f729608) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 Jan 2026 14:23:15 GMT | OTP Is Not Security Anymore — Awareness Is | Ankit rai | [Read More](https://medium.com/p/632cd812ac89) |
 | Tue, 20 Jan 2026 14:22:23 GMT | Why Modern Security Requires an Attacker’s Perspective | Digital Defense | [Read More](https://medium.com/p/36d6ffdfb2be) |
 | Tue, 20 Jan 2026 14:20:23 GMT | Data Security in 2026: Strategies Businesses Must Adopt to Protect Critical Information | Techridge Solutions | [Read More](https://medium.com/p/078cbf8752d5) |
-| Tue, 20 Jan 2026 14:20:17 GMT | API Hacking for Bug Bounty: A Complete Beginner-to-Advanced Guide | BugHunter’s Journal | [Read More](https://medium.com/p/a8b34704d816) |
-| Tue, 20 Jan 2026 14:12:35 GMT | Hacknet | S3b4sTi4n | [Read More](https://medium.com/p/ca549ad58722) |
-| Tue, 20 Jan 2026 14:05:26 GMT | 5 LeakRadar Searches That Lead to P1 Bug Bounty Reports | Alexandre Vandamme | [Read More](https://medium.com/p/7d3f0646cda4) |
-| Tue, 20 Jan 2026 14:05:14 GMT | Try Hack Me Room: Agent Sudo | codingbolt | [Read More](https://medium.com/p/291d3e8dbe5b) |
-| Tue, 20 Jan 2026 14:02:13 GMT | The Cost of Hiding: Why Your Relationship Needs More Truth, Not Less | Dominica Applegate | [Read More](https://medium.com/p/e0992e5704ea) |
-| Tue, 20 Jan 2026 14:02:07 GMT | Why Your Multi-Factor Authentication is a Sitting Duck: Lessons from Asahi Group | Satelite | [Read More](https://medium.com/p/c817f2b5ae37) |
-| Tue, 20 Jan 2026 14:01:15 GMT | Incident Response Explained: How SOC Teams Handle Cyber Attacks Step by Step | Abhinsubej | [Read More](https://medium.com/p/b9b3d33c3011) |
