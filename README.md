@@ -12,9 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 Jan 2026 06:33:12 GMT | When AI Agents Go Rogue - The Daily Tech Digest: 20 January 2026 | Souren Stepanyan | [Read More](https://medium.com/p/e8f272619e9b) |
+| Tue, 20 Jan 2026 06:17:00 GMT | IAM 101: The Reality, The Hype, and Why “Identity” is the New Firewall | Abhijith Soman | [Read More](https://medium.com/p/83d6a49021cb) |
+| Tue, 20 Jan 2026 06:09:18 GMT | Cyber Fraud Help Desk: Get Trusted Support Against Online Scams with SADI | SADI AI | [Read More](https://medium.com/p/0f1b10d63af6) |
+| Tue, 20 Jan 2026 06:08:45 GMT | Fixing “No Space Left on Device” in a VirtualBox Ubuntu VM (for Splunk Labs) | Jason Hoskins Jr. | [Read More](https://medium.com/p/0be914714d41) |
+| Tue, 20 Jan 2026 06:08:05 GMT | VPS for Gaming: The Ultimate Guide | HostNOC | [Read More](https://medium.com/p/5dd3aa526163) |
+| Tue, 20 Jan 2026 06:02:00 GMT | Static vs Dynamic IP: The Difference That Silently Shapes Your Internet | Arash Hadad | [Read More](https://medium.com/p/ad279ba4f8cc) |
+| Tue, 20 Jan 2026 05:53:41 GMT | Security Can’t Be a Final Check in Enterprise Application Testing | Colleen Sylvia | [Read More](https://medium.com/p/b5838047fb10) |
+| Tue, 20 Jan 2026 05:53:23 GMT | Cybersecurity Is No Longer Optional for Growing Businesses in Mangalore | StandaloneDigitech | [Read More](https://medium.com/p/3e3b035c7201) |
+| Tue, 20 Jan 2026 05:50:21 GMT | Infrastructure as Code: manual to Automation. | MananK | [Read More](https://medium.com/p/21182305b247) |
+| Tue, 20 Jan 2026 05:40:11 GMT | How Cybersecurity Frameworks Fit Together (Not Just What They Are) — 
+(Threat → Weakness →… | Macky  (TheNMAPGuy)  Matsunaga | [Read More](https://medium.com/p/ab6509e4edd2) |
+| Tue, 20 Jan 2026 05:36:02 GMT | Types of Security Alerts in a SOC: What They Mean and How Analysts Respond | ARCHANA P | [Read More](https://medium.com/p/90bad13ef8ea) |
+| Tue, 20 Jan 2026 05:32:43 GMT | The Windows Security Journey — AppContainer | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/15a65f291167) |
+| Tue, 20 Jan 2026 05:28:00 GMT | IT Compliance Services in Hartford - it security compliance & it compliance services | Gainside | [Read More](https://medium.com/p/79a1adeb894e) |
 | Tue, 20 Jan 2026 05:16:56 GMT | Protocols and Servers 1 & 2 — Writeup | Mahir | [Read More](https://medium.com/p/e05c7efcb0d9) |
 | Tue, 20 Jan 2026 05:16:04 GMT | Enterprise Cloud Modernization with Docker, Kubernetes, Google Cloud & Data Governance | F9 Infotech | [Read More](https://medium.com/p/53437bd866ca) |
 | Tue, 20 Jan 2026 05:14:01 GMT | Can AI rewrite itself into near sentience and obscure provenance? | Melaine Chan | [Read More](https://medium.com/p/43a41c820c04) |
+| Tue, 20 Jan 2026 04:59:31 GMT | 10 Essential Firewatch Security Measures to Keep Sites Safe 24/7 | Reliable Security Staffing | [Read More](https://medium.com/p/fadb00dc83ae) |
 | Tue, 20 Jan 2026 04:57:38 GMT | CISSP Domain 6: Security Assessment and Testing | Pushpak Sharma | [Read More](https://medium.com/p/26fb61230c43) |
 | Tue, 20 Jan 2026 04:56:46 GMT | FFUF for subdomain enumeration | R0dss | [Read More](https://medium.com/p/6a444d420d3a) |
 | Tue, 20 Jan 2026 04:55:42 GMT | Lo-Fi Writeup | Parthbaldha | [Read More](https://medium.com/p/309e160d1837) |
@@ -98,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 21:22:27 GMT | Типи оболонок (shells) | Fl4g Hunt3r Project | [Read More](https://medium.com/p/3de3d96477eb) |
 | Mon, 19 Jan 2026 21:22:16 GMT | 6 AI cybersecurity projects to build your portfolio in 2026 (that aren’t basic) | h@shtalk | [Read More](https://medium.com/p/57e6be5d5ece) |
 | Mon, 19 Jan 2026 21:20:26 GMT | RST TI Report Digest: 19 Jan 2026 | RST Cloud | [Read More](https://medium.com/p/d00bf0692bcd) |
-| Mon, 19 Jan 2026 20:51:59 GMT | Огляд методів веб-розвідки (web enumeration) | Fl4g Hunt3r Project | [Read More](https://medium.com/p/b7b117689cb5) |
-| Mon, 19 Jan 2026 20:51:51 GMT | How Do Security Guard Services in West Covina Handle Visitor Management? | GuardLine Chronicles | [Read More](https://medium.com/p/21d6e22bef3f) |
-| Mon, 19 Jan 2026 20:49:51 GMT | Agentic Cybersecurity: The Atlantis Cyber Reasoning System | J Xie | [Read More](https://medium.com/p/f4db53d6a0a6) |
-| Mon, 19 Jan 2026 20:49:01 GMT | Windows Privilege Escalation Scenarios — In-Depth Guide | Esra Kayhan | [Read More](https://medium.com/p/395e849fbd9e) |
-| Mon, 19 Jan 2026 20:46:09 GMT | Bug Bounty Learning Journey — From Day 8–15 | Anshkamra | [Read More](https://medium.com/p/e96c2669141c) |
-| Mon, 19 Jan 2026 20:42:08 GMT | 6 Mistakes That Will Make You an Unemployed CS Graduate | Mohamed Salman Paris M | [Read More](https://medium.com/p/ab2750b8703e) |
-| Mon, 19 Jan 2026 20:41:33 GMT | From Risk to Infinite Opportunity: Navigating the Quantum Era | Saisimhan | [Read More](https://medium.com/p/ee3a9d8b44ac) |
-| Mon, 19 Jan 2026 20:40:16 GMT | Why Behaviour Improvements Are Missing from Performance Reviews (And Why That’s a Problem) | Steve Anderson | [Read More](https://medium.com/p/5ec09a17de92) |
-| Mon, 19 Jan 2026 20:36:46 GMT | 0-Documenting my Cyber Security Journey | Zamam Wasim | [Read More](https://medium.com/p/e74fb2c70b9b) |
-| Mon, 19 Jan 2026 20:30:51 GMT | OSINT: Why “Deleted” Doesn’t Mean Gone | Smert | [Read More](https://medium.com/p/12a038e714f8) |
-| Mon, 19 Jan 2026 20:29:57 GMT | My Bug Bounty Learning Journey (Day 1–7) | Anshkamra | [Read More](https://medium.com/p/8b3b6697cf73) |
-| Mon, 19 Jan 2026 20:27:20 GMT | How to Share Secrets Securely and Simply with One-Time Secret | Andrei Trukhin | [Read More](https://medium.com/p/a452d904c56d) |
-| Mon, 19 Jan 2026 20:23:04 GMT | Safari Surveillance: A Reflection on Seeing and Being Seen in Kruger National Park | Julie Terebkov | [Read More](https://medium.com/p/e4cff34ae2f6) |
-| Mon, 19 Jan 2026 20:12:27 GMT | BAC Portswigger Labs | Vcasseb | [Read More](https://medium.com/p/9776206ed55b) |
