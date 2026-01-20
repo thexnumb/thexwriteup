@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 Jan 2026 03:32:24 GMT | Cracking Password-Protected ZIP Files Using Fcrackzip on Metasploitable 2 | Cybeague Technologies | [Read More](https://medium.com/p/9eb78ac6503f) |
+| Tue, 20 Jan 2026 03:31:27 GMT | Medusa Brute Force Attack on Metasploitable 2 | Cybeague Technologies | [Read More](https://medium.com/p/cc6202ec3709) |
+| Tue, 20 Jan 2026 03:26:57 GMT | The Cost of Silence | Kiki Yulia | [Read More](https://medium.com/p/dd20d2d94f1b) |
+| Tue, 20 Jan 2026 03:14:48 GMT | IPs, Python style pt. 1 | Michael Orozco-Fletcher | [Read More](https://medium.com/p/ce226c45d1a0) |
+| Tue, 20 Jan 2026 03:12:08 GMT | How to Download the Official Windows 10 ISO File (Directly from Microsoft) | Rashmin Gimhani | [Read More](https://medium.com/p/b228faec1c25) |
+| Tue, 20 Jan 2026 03:09:25 GMT | Skip 4 years in Japan — get AI Operations ready in 18 months | MUHAMMAD UZAIR | [Read More](https://medium.com/p/516d7bc7404f) |
+| Tue, 20 Jan 2026 03:02:06 GMT | Why Firewalls Are No Longer the Center of Security | The Default Gateway | [Read More](https://medium.com/p/db039d79f108) |
+| Tue, 20 Jan 2026 02:55:56 GMT | A Practical Way to Learn Reverse Engineering (Without Getting Overwhelmed) | Paritosh | [Read More](https://medium.com/p/85f290581580) |
+| Tue, 20 Jan 2026 02:52:49 GMT | How to Get Help in Linux Without Memorizing Commands — Linux Series | p314d0 | [Read More](https://medium.com/p/70bcdba73b07) |
+| Tue, 20 Jan 2026 02:30:24 GMT | declined invites | Jordan Breaux | [Read More](https://medium.com/p/cc8854223e66) |
+| Tue, 20 Jan 2026 02:21:49 GMT | I bypassed Guardrails to Perform Prompt Injection | Rahul Singh Chauhan | [Read More](https://medium.com/p/8081195b8018) |
+| Tue, 20 Jan 2026 02:21:01 GMT | Building a Strong Reconnaissance Strategy with Nmap and OSINT | Shahzaib | [Read More](https://medium.com/p/a9c223085c7b) |
+| Tue, 20 Jan 2026 02:20:51 GMT | Cloudflare HTTP Log Analysis using Splunk | Jason Hoskins Jr. | [Read More](https://medium.com/p/9932ead032f3) |
+| Tue, 20 Jan 2026 02:10:10 GMT | Threat Intelligence Stack for a Solo SOC Analyst (Free Only) | Regan Temudo | [Read More](https://medium.com/p/83b594c27908) |
+| Tue, 20 Jan 2026 02:09:53 GMT | $500 Bug Bounty: Bulk Endpoint Leaks Report Disclosure State | Monika sharma | [Read More](https://medium.com/p/e7305af1e853) |
+| Tue, 20 Jan 2026 02:09:46 GMT | A List of Every Cybersecurity Abbreviation There Is (Part 3) | Raymond Ebonine | [Read More](https://medium.com/p/4b37d784d045) |
+| Tue, 20 Jan 2026 02:05:02 GMT | Cybersecurity Researcher & Tech Writer | Ahmed Mohamed Ibrahim Abdelhamed Mohamed | [Read More](https://medium.com/p/2df2548bd70a) |
+| Tue, 20 Jan 2026 01:49:53 GMT | What is Veracode? | Kaushal Vasava | [Read More](https://medium.com/p/cf99dee04c7c) |
+| Tue, 20 Jan 2026 01:47:30 GMT | Tuesday Morning Threat Report: Jan 20, 2026 | Mark Maguire | [Read More](https://medium.com/p/f59329c35d20) |
 | Tue, 20 Jan 2026 01:21:52 GMT | 6-Day and IP Address Certificates Are Generally Available | Aman Shekhar | [Read More](https://medium.com/p/f11e8f1b05c2) |
 | Tue, 20 Jan 2026 01:19:12 GMT | “As a cybersecurity specialist, I’ve seen how one vulnerability can ruin a business. | Ahmed Abdelhamed | [Read More](https://medium.com/p/9decbac23629) |
 | Tue, 20 Jan 2026 01:15:44 GMT | The Death of Privacy: Why I Built a Calculator That Hides Your Secrets | thatredhoodedguy | [Read More](https://medium.com/p/1242e95225d4) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 18:33:52 GMT | Why Phishing Still Works (Even If You Know About It) | PriOFF | [Read More](https://medium.com/p/74a0b4c2b8f5) |
 | Mon, 19 Jan 2026 18:30:55 GMT | Understanding Modern DDoS Attacks: Detection, Botnets, and Adaptive Defense Strategies | Erik soto | [Read More](https://medium.com/p/453bfcbcaeba) |
 | Mon, 19 Jan 2026 18:24:29 GMT | Analyzing 15 Days of Telnet Honeypot Data: | berke bodur | [Read More](https://medium.com/p/de007ca66d0c) |
-| Mon, 19 Jan 2026 18:17:22 GMT | Linux Privilege Escalation: 30 Days of Red Team (Day 17) | Maxwell Cross | [Read More](https://medium.com/p/08f832131043) |
-| Mon, 19 Jan 2026 18:12:08 GMT | Using AI Security Agents in CI/CD: From Scanners to Systems | Bobin Rajan | [Read More](https://medium.com/p/6828b9ccfa56) |
-| Mon, 19 Jan 2026 18:08:55 GMT | BITCOIN RECOVERY EXPERT FOR HIRE | Lebaq | [Read More](https://medium.com/p/0f7e5bb322c2) |
-| Mon, 19 Jan 2026 18:04:20 GMT | Find if Path Exists in Graph — Why Connectivity Is the Real Question | Error | [Read More](https://medium.com/p/8313f41b9efd) |
-| Mon, 19 Jan 2026 18:03:47 GMT | Discord Temp Number : The Fastest & Cheapest Way to Verify Discord in 2026 | Jean Cristalain | [Read More](https://medium.com/p/b2d345835d67) |
-| Mon, 19 Jan 2026 18:01:57 GMT | US Small Businesses — Please invest in Cybersecurity and Network Hardening | Tyler Hudson | [Read More](https://medium.com/p/1729c9b76bc3) |
-| Mon, 19 Jan 2026 18:01:19 GMT | Understanding Cybersecurity Risks: Why Investors Can No Longer Treat Them as Secondary | Anjli Jain | [Read More](https://medium.com/p/771c8cbdf116) |
-| Mon, 19 Jan 2026 17:56:21 GMT | OSINT: The Secret Weapon for Every Ethical Hacker (And Why You’re Doing it Wrong) | Axoloth | [Read More](https://medium.com/p/9e8e57e71ac1) |
-| Mon, 19 Jan 2026 17:52:07 GMT | ️ The Ultimate Burp Suite User Guide | ghostyjoe | [Read More](https://medium.com/p/f88cab47aac4) |
-| Mon, 19 Jan 2026 17:48:40 GMT | BUCKETS OF POISON: USING S3 BUCKETS TO EXPLOIT HUMANS | Sp1d3rM | [Read More](https://medium.com/p/271fda69bf0f) |
-| Mon, 19 Jan 2026 17:45:54 GMT | UX is the Bridge to Customer Loyalty | Dhivy Ananth | [Read More](https://medium.com/p/5e3801732ee0) |
-| Mon, 19 Jan 2026 17:40:39 GMT | Pandemic Unemployment Assistance Fraud: Zero Trust (Part 1) | Chris Perkins | [Read More](https://medium.com/p/733cf4e39b06) |
-| Mon, 19 Jan 2026 17:39:09 GMT | The New Travel Booking Email Scam Isn’t Clever. It’s Just Well Timed. | Really Bad Security | [Read More](https://medium.com/p/6a839492dbb2) |
-| Mon, 19 Jan 2026 17:37:09 GMT | Why the 2016 comeback has people questioning AI | Angelou Masters Jr | [Read More](https://medium.com/p/14c9c474107e) |
-| Mon, 19 Jan 2026 17:37:05 GMT | I Thought CORS Was Just a Header — Until It Broke My Security | Code Catalyst | [Read More](https://medium.com/p/06e28b82594b) |
-| Mon, 19 Jan 2026 17:37:05 GMT | Murals In Nature Reserve | Christine Morris Ph.D. | [Read More](https://medium.com/p/025592bf64e4) |
-| Mon, 19 Jan 2026 17:36:36 GMT | Pandemic Unemployment Assistance Fraud | Chris Perkins | [Read More](https://medium.com/p/10fa84912efc) |
-| Mon, 19 Jan 2026 17:35:40 GMT | Poisoned Pipelines: The AI Supply Chain Attack That Doesn’t Crash Anything | Phil Stafford | [Read More](https://medium.com/p/93d4a665239e) |
-| Mon, 19 Jan 2026 17:14:13 GMT | 5 Cybersecurity Myths That Refuse to Die | Abdul Ahad | [Read More](https://medium.com/p/892fe40254f9) |
