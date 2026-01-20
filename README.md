@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 Jan 2026 13:47:09 GMT | Session vs Token Authentication: Technical Trade-offs Analysis | Nabil Mouzouna نبيل مزونة | [Read More](https://medium.com/p/0fa4e57db52f) |
+| Tue, 20 Jan 2026 13:45:39 GMT | 1.2 Billion LinkedIn Users Put On Alert After Policy Violation Threat | Moni | [Read More](https://medium.com/p/bcd50aa0e8b1) |
+| Tue, 20 Jan 2026 13:38:32 GMT | Fluffy — Hack The Box Write-Up | JY00X3 | [Read More](https://medium.com/p/f9b584305ea8) |
+| Tue, 20 Jan 2026 13:36:38 GMT | Custom Garage Doors for Unique Homes - 24H Garage Doors | 24H Garage Doors | [Read More](https://medium.com/p/94eab74024df) |
+| Tue, 20 Jan 2026 13:33:11 GMT | Entry-Level ISC² Certifications: Where to Start Your Cybersecurity Journey | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/c2ccfcf68bb6) |
+| Tue, 20 Jan 2026 13:28:36 GMT | WIZ Cloud Security Championship — Breaking The Barriers Entra ID CTF Walkthrough | Cyberguy | [Read More](https://medium.com/p/e1695750e765) |
+| Tue, 20 Jan 2026 13:18:02 GMT | SQLi | Paukhankhual Hangsing | [Read More](https://medium.com/p/d16e92a2fad4) |
+| Tue, 20 Jan 2026 13:17:06 GMT | Should democratic governments use AI driven robots at political protests, when weighing the… | Nemanja Vuksanovic | [Read More](https://medium.com/p/02c8e922740f) |
+| Tue, 20 Jan 2026 13:15:45 GMT | The SIEM–SOC Connection: How Raw Logs Become Real-World Incidents | SAI PRASAD | [Read More](https://medium.com/p/46f9a7275a3e) |
+| Tue, 20 Jan 2026 13:08:17 GMT | Another MDR Acquisition: Consolidating Risk or Capability? | Thomas Patterson | [Read More](https://medium.com/p/f16d98b0db6e) |
+| Tue, 20 Jan 2026 13:03:38 GMT | ESCAPE.htb — Full Write-Up | JY00X3 | [Read More](https://medium.com/p/b93b48487c8a) |
+| Tue, 20 Jan 2026 13:03:37 GMT | What is Ethical Hacking in Cyber Security? | Brillica Services | [Read More](https://medium.com/p/a9ab63ecfe39) |
+| Tue, 20 Jan 2026 13:03:16 GMT | Enterprise AI in 2026: Why CIOs Must Shift from Innovation to Stewardship | Prashant Vithlani | [Read More](https://medium.com/p/71fb6d713d19) |
+| Tue, 20 Jan 2026 13:03:15 GMT | The Confidence Gap Is the Real Ransomware Threat | Faraz Ishaq | [Read More](https://medium.com/p/3e5865102215) |
+| Tue, 20 Jan 2026 13:02:29 GMT | Self Improvement Is a Daily Choice, Not a One-Time Decision | SIMPLE ARTICAL | [Read More](https://medium.com/p/5f20ee7318e7) |
+| Tue, 20 Jan 2026 13:01:50 GMT | Azure Governance that scales: guardrails for fast and safe delivery | Radu Vunvulea | [Read More](https://medium.com/p/2c9121cbd4ff) |
 | Tue, 20 Jan 2026 12:52:00 GMT | The Hidden Power of Shame and How Parents Can Transform It | Emberhart | [Read More](https://medium.com/p/9adb6f520724) |
 | Tue, 20 Jan 2026 12:49:49 GMT | SD-WAN: The Smart Network Layer Powering Modern Digital Businesses | Zefai Insights | [Read More](https://medium.com/p/3f2edd55f342) |
 | Tue, 20 Jan 2026 12:49:34 GMT | DOM-Based XSS: From Browser Logic to Bounty | Jayesh kunwal | [Read More](https://medium.com/p/70cf4d94f694) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 Jan 2026 07:38:47 GMT | Auditly — Enterprise Python Dependency Vulnerability Scanner | Krishna Tadi | [Read More](https://medium.com/p/38be26a548ab) |
 | Tue, 20 Jan 2026 07:36:01 GMT | SSDeep vs TLSH vs Imphash: Choosing the Right Fuzzy Hash for Malware Detection | ShadowBlue | [Read More](https://medium.com/p/6f614a1c8d9c) |
 | Tue, 20 Jan 2026 07:32:00 GMT | NestJS Auth: Sessions vs JWTs (The Real Tradeoffs) | Bhagya Rana | [Read More](https://medium.com/p/ca5950bbeb58) |
-| Tue, 20 Jan 2026 07:26:41 GMT | Account recovery is about access. Trust recovery is about a person. | Mikhaylo Pavlyuk | [Read More](https://medium.com/p/fb86f43fb2b0) |
-| Tue, 20 Jan 2026 07:26:29 GMT | What Banks Taught Me About Secure Software Development | Adrian W | [Read More](https://medium.com/p/e5613143f5e4) |
-| Tue, 20 Jan 2026 07:26:22 GMT | Why Digital Growth Fails Without Clear Strategy | BASEEL PARTNERS LLP | [Read More](https://medium.com/p/f2b0f01931b1) |
-| Tue, 20 Jan 2026 07:25:39 GMT | Youtube Thumbnail Downloader Chrome Extensions | Josecabralesdev | [Read More](https://medium.com/p/d3be610fe23e) |
-| Tue, 20 Jan 2026 07:25:24 GMT | 7 Trends Shaping the Cybersecurity Landscape in 2026 for Strategic Resilience | QNu Labs | [Read More](https://medium.com/p/907f728a58b4) |
-| Tue, 20 Jan 2026 07:21:33 GMT | How I “Hacked” 10+ Companies in 30 Minutes (By Clicking ‘Sign Up’) | Majid Mohammed | [Read More](https://medium.com/p/a55141584d35) |
-| Tue, 20 Jan 2026 07:20:47 GMT | How Network Support Drives Cost-Efficient IT Operations for Growing Businesses | Gavin Ellis | [Read More](https://medium.com/p/e7c6d4692669) |
-| Tue, 20 Jan 2026 07:15:38 GMT | … | Macky  (TheNMAPGuy)  Matsunaga | [Read More](https://medium.com/p/fbfe57fae815) |
-| Tue, 20 Jan 2026 07:12:16 GMT | Redefining Freedom this Republic Day: Why the Fingerlock Leather Backpack is the Future of Secure… | Ramesh Raj | [Read More](https://medium.com/p/2f2fc557babd) |
-| Tue, 20 Jan 2026 07:11:37 GMT | The Quiet Kind of Crying | Prachi Chauhan | [Read More](https://medium.com/p/b75dd60ea6b2) |
-| Tue, 20 Jan 2026 07:07:40 GMT | Writers Can Use AI to Write? An Opinionated Guide to AI Use | Basit Ali | [Read More](https://medium.com/p/f36a1ffa7c8f) |
-| Tue, 20 Jan 2026 07:00:03 GMT | Total Security Solutions: The Future of Electronic Security Solutions in a Rapidly Growing World | Ciss India | [Read More](https://medium.com/p/af487c6265a1) |
-| Tue, 20 Jan 2026 06:49:51 GMT | Web Decode (Easy) | Destripador | [Read More](https://medium.com/p/b192fa84d09b) |
-| Tue, 20 Jan 2026 06:48:54 GMT | The Invisible You: Your Personal Data is More Exposed Than You Think | Vidoq | [Read More](https://medium.com/p/9eb57a98ec81) |
-| Tue, 20 Jan 2026 06:48:21 GMT | Professional Denver Roofer & San Antonio Roofer You Can Rely On | Kidd Roofing | [Read More](https://medium.com/p/c6a7817640ba) |
-| Tue, 20 Jan 2026 06:47:07 GMT | Programming Tech That Ages Well Versus Tools That Rot Fast | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/aa4649511d46) |
