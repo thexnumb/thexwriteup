@@ -12,8 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 Jan 2026 14:32:19 GMT | Hacking a Windows 10 Computer and Accessing the Webcam: A Course Teaser | Vignesh R | [Read More](https://medium.com/p/385d8fe5aaec) |
+| Tue, 20 Jan 2026 14:30:44 GMT | Entenda sobre CORS (Cross-Origin Resource Sharing) | Priscilla Oliveira | [Read More](https://medium.com/p/ffd4a22d7a04) |
+| Tue, 20 Jan 2026 14:23:15 GMT | OTP Is Not Security Anymore — Awareness Is | Ankit rai | [Read More](https://medium.com/p/632cd812ac89) |
+| Tue, 20 Jan 2026 14:22:23 GMT | Why Modern Security Requires an Attacker’s Perspective | Digital Defense | [Read More](https://medium.com/p/36d6ffdfb2be) |
+| Tue, 20 Jan 2026 14:20:23 GMT | Data Security in 2026: Strategies Businesses Must Adopt to Protect Critical Information | Techridge Solutions | [Read More](https://medium.com/p/078cbf8752d5) |
+| Tue, 20 Jan 2026 14:20:17 GMT | API Hacking for Bug Bounty: A Complete Beginner-to-Advanced Guide | BugHunter’s Journal | [Read More](https://medium.com/p/a8b34704d816) |
+| Tue, 20 Jan 2026 14:12:35 GMT | Hacknet | S3b4sTi4n | [Read More](https://medium.com/p/ca549ad58722) |
+| Tue, 20 Jan 2026 14:05:26 GMT | 5 LeakRadar Searches That Lead to P1 Bug Bounty Reports | Alexandre Vandamme | [Read More](https://medium.com/p/7d3f0646cda4) |
+| Tue, 20 Jan 2026 14:05:14 GMT | Try Hack Me Room: Agent Sudo | codingbolt | [Read More](https://medium.com/p/291d3e8dbe5b) |
+| Tue, 20 Jan 2026 14:02:13 GMT | The Cost of Hiding: Why Your Relationship Needs More Truth, Not Less | Dominica Applegate | [Read More](https://medium.com/p/e0992e5704ea) |
+| Tue, 20 Jan 2026 14:02:07 GMT | Why Your Multi-Factor Authentication is a Sitting Duck: Lessons from Asahi Group | Satelite | [Read More](https://medium.com/p/c817f2b5ae37) |
+| Tue, 20 Jan 2026 14:01:15 GMT | Incident Response Explained: How SOC Teams Handle Cyber Attacks Step by Step | Abhinsubej | [Read More](https://medium.com/p/b9b3d33c3011) |
+| Tue, 20 Jan 2026 14:00:34 GMT | Stop Leaking Your API Keys: Implementing a Next-Level GraphQL Proxy | Awixor | [Read More](https://medium.com/p/1828ac517a47) |
 | Tue, 20 Jan 2026 13:47:09 GMT | Session vs Token Authentication: Technical Trade-offs Analysis | Nabil Mouzouna نبيل مزونة | [Read More](https://medium.com/p/0fa4e57db52f) |
 | Tue, 20 Jan 2026 13:45:39 GMT | 1.2 Billion LinkedIn Users Put On Alert After Policy Violation Threat | Moni | [Read More](https://medium.com/p/bcd50aa0e8b1) |
+| Tue, 20 Jan 2026 13:44:32 GMT | From Job Hunting to Bug Hunting: Discovering an SQL Injection Vulnerability | Wonde D | [Read More](https://medium.com/p/922c3cbc95a8) |
+| Tue, 20 Jan 2026 13:38:37 GMT | Cybersecurity Training Center and Consulting Company in Maryland | Cybersectc | [Read More](https://medium.com/p/4a1e1c3e88e0) |
 | Tue, 20 Jan 2026 13:38:32 GMT | Fluffy — Hack The Box Write-Up | JY00X3 | [Read More](https://medium.com/p/f9b584305ea8) |
 | Tue, 20 Jan 2026 13:36:38 GMT | Custom Garage Doors for Unique Homes - 24H Garage Doors | 24H Garage Doors | [Read More](https://medium.com/p/94eab74024df) |
 | Tue, 20 Jan 2026 13:33:11 GMT | Entry-Level ISC² Certifications: Where to Start Your Cybersecurity Journey | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/c2ccfcf68bb6) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 Jan 2026 08:23:15 GMT | Best AI and Machine Learning Courses in Delhi (2026 Complete Guide) | Manisha Chaudhary | [Read More](https://medium.com/p/9f96709173bb) |
 | Tue, 20 Jan 2026 08:21:56 GMT | All Major OSINT Tools on the Internet (2026 Edition) | Nazrul Islam Rana | [Read More](https://medium.com/p/5268b5c349b3) |
 | Tue, 20 Jan 2026 08:21:46 GMT | Types of Fire Fighting Systems Used in Kerala Buildings | Berkshire Hathaway | [Read More](https://medium.com/p/7c42fb5a8067) |
-| Tue, 20 Jan 2026 08:18:47 GMT | App Development CompanyApp Development Company: Building Scalable, User-Centric Digital Solutions | Webmobril Technology | [Read More](https://medium.com/p/1251151c6743) |
-| Tue, 20 Jan 2026 08:18:13 GMT | LLMs and GENAI Apps: Risk & Mitigations — Part 5: Data & Model Poisoning! | Nothing Cyber [NC] | [Read More](https://medium.com/p/28bfc670b45c) |
-| Tue, 20 Jan 2026 08:15:53 GMT | eKYC is Not Authentication: Why “Identity Verification” Fails to Provide “Identity Assurance” | Ryu360 | [Read More](https://medium.com/p/52502a2de20a) |
-| Tue, 20 Jan 2026 08:14:07 GMT | Face ID Is Not the Lock — It’s the Handle | Ryu360 | [Read More](https://medium.com/p/8a76b0990dd7) |
-| Tue, 20 Jan 2026 08:02:01 GMT | What to Expect From Professional Security Solutions in Singapore | Jane Tang | [Read More](https://medium.com/p/fc741020976f) |
-| Tue, 20 Jan 2026 07:59:56 GMT | Windows Sunucularda SIEM Log Entegrasyonu İçin Otomatik Yapılandırma (Server 2008–2025 Uyumlu) | Sinan ŞAHİN | [Read More](https://medium.com/p/7832279bfff1) |
-| Tue, 20 Jan 2026 07:56:24 GMT | Automating AI Red Teaming with Microsoft PyRIT: A Deep Dive | Sankalp Salve | [Read More](https://medium.com/p/ce18d0bd8d44) |
-| Tue, 20 Jan 2026 07:52:52 GMT | Solo mission in a dark room | Adeboye Salisu | [Read More](https://medium.com/p/7736608f9459) |
-| Tue, 20 Jan 2026 07:52:16 GMT | ️DC: 8— Complete Walkthrough (Beginner-Friendly) - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/eb86a5d3ab89) |
-| Tue, 20 Jan 2026 07:51:58 GMT | The Modern Choice: Beyond the Perimeter: Building a Pure Cloud Identity Security Stack for 2026 | Jack Nelson | [Read More](https://medium.com/p/7f92df0710cf) |
-| Tue, 20 Jan 2026 07:50:06 GMT | JWT Authentication Bypass via Algorithm Confusion | CyberSec Xploit - Prasangam | [Read More](https://medium.com/p/0a563c2a47c4) |
-| Tue, 20 Jan 2026 07:48:11 GMT | 9 Powerful BEC Forensics Checks in 30 Minutes | Pentest_Testing_Corp | [Read More](https://medium.com/p/c8a273475217) |
-| Tue, 20 Jan 2026 07:38:47 GMT | Auditly — Enterprise Python Dependency Vulnerability Scanner | Krishna Tadi | [Read More](https://medium.com/p/38be26a548ab) |
-| Tue, 20 Jan 2026 07:36:01 GMT | SSDeep vs TLSH vs Imphash: Choosing the Right Fuzzy Hash for Malware Detection | ShadowBlue | [Read More](https://medium.com/p/6f614a1c8d9c) |
-| Tue, 20 Jan 2026 07:32:00 GMT | NestJS Auth: Sessions vs JWTs (The Real Tradeoffs) | Bhagya Rana | [Read More](https://medium.com/p/ca5950bbeb58) |
