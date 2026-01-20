@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 Jan 2026 23:40:21 GMT | The Policy Paradox - Dog Years | Julio Oña | [Read More](https://medium.com/p/fc5edb5a74d0) |
+| Tue, 20 Jan 2026 23:30:33 GMT | Why Most Django Projects Fail in Production (And How to Fix Yours) | Dythonai Innovations and Technologies | [Read More](https://medium.com/p/482668e4bcb6) |
+| Tue, 20 Jan 2026 23:26:34 GMT | WEEKLY BLOG | Melissa Porter | [Read More](https://medium.com/p/7cb99f413a18) |
 | Tue, 20 Jan 2026 23:23:22 GMT | Payload Obfuscation Techniques — Making the Invisible Stay Invisible | Esra Kayhan | [Read More](https://medium.com/p/a57da0315d2d) |
 | Tue, 20 Jan 2026 23:22:57 GMT | Offensive Forensics — In-Depth Guide | Esra Kayhan | [Read More](https://medium.com/p/5d4f05be6691) |
 | Tue, 20 Jan 2026 23:19:22 GMT | 17.5 Million Users Exposed: The Structural Failure of Instagram’s Business Logic (Full Report) | Saad Khalid | [Read More](https://medium.com/p/d3f3f01f5beb) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 Jan 2026 15:56:40 GMT | Data Breach at Trusting Corp Affects a Zillion Users | Cyn Hutchinson JD | [Read More](https://medium.com/p/4bef0f9260f3) |
 | Tue, 20 Jan 2026 15:47:08 GMT | [FORECAST] Integrator CI/CD Compromise by End-2026? | Wes Young | [Read More](https://medium.com/p/8395bff21efc) |
 | Tue, 20 Jan 2026 15:40:53 GMT | 11.6.1-packet-tracer-switch-security-configuration | Nicksondiazm | [Read More](https://medium.com/p/13fde18c4cae) |
-| Tue, 20 Jan 2026 15:40:49 GMT | Top 6 Linux Text Manipulation Commands You’ll Use Every Day | CyberRabbit | [Read More](https://medium.com/p/7c96a8fd9e68) |
-| Tue, 20 Jan 2026 15:31:24 GMT | Drosera Network Proactive Security for Live Ethereum Protocols | Emiratecex | [Read More](https://medium.com/p/b3a96f20c19b) |
-| Tue, 20 Jan 2026 15:28:52 GMT | The People Who Make Me Feel Safe | Ronnie Charrier | [Read More](https://medium.com/p/6e7127c8f807) |
