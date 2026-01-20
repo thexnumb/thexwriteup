@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 Jan 2026 05:16:56 GMT | Protocols and Servers 1 & 2 — Writeup | Mahir | [Read More](https://medium.com/p/e05c7efcb0d9) |
+| Tue, 20 Jan 2026 05:16:04 GMT | Enterprise Cloud Modernization with Docker, Kubernetes, Google Cloud & Data Governance | F9 Infotech | [Read More](https://medium.com/p/53437bd866ca) |
+| Tue, 20 Jan 2026 05:14:01 GMT | Can AI rewrite itself into near sentience and obscure provenance? | Melaine Chan | [Read More](https://medium.com/p/43a41c820c04) |
+| Tue, 20 Jan 2026 04:57:38 GMT | CISSP Domain 6: Security Assessment and Testing | Pushpak Sharma | [Read More](https://medium.com/p/26fb61230c43) |
+| Tue, 20 Jan 2026 04:56:46 GMT | FFUF for subdomain enumeration | R0dss | [Read More](https://medium.com/p/6a444d420d3a) |
+| Tue, 20 Jan 2026 04:55:42 GMT | Lo-Fi Writeup | Parthbaldha | [Read More](https://medium.com/p/309e160d1837) |
+| Tue, 20 Jan 2026 04:53:11 GMT | Ethical Hacking Skills Every Cybersecurity Professional Must Have in 2026 | Anaynams | [Read More](https://medium.com/p/f3aa6d231c99) |
+| Tue, 20 Jan 2026 04:52:46 GMT | How to Fix the iThemes Security Email Not Sending Issue [Step-by-Step] | Hamza Hanif | [Read More](https://medium.com/p/112d73751825) |
+| Tue, 20 Jan 2026 04:52:45 GMT | How Does Security Awareness Training Mitigate Human Risk? | Gainside | [Read More](https://medium.com/p/ef5cdacfe73e) |
+| Tue, 20 Jan 2026 04:49:36 GMT | Kali Linux Beyond Basics: Advanced Commands Every Cybersecurity Student Should Know | Namratamali | [Read More](https://medium.com/p/c557c5e08b10) |
 | Tue, 20 Jan 2026 04:47:25 GMT | AVON: Stop Cyber-Bullying and Sucide save lives, become a hero. | AvemPierce | [Read More](https://medium.com/p/f65b0daceb7d) |
+| Tue, 20 Jan 2026 04:40:23 GMT | Detecção de Ataques no SSH: Análise de Logs e Mitigação (Blue Team) | Matheus Viana | [Read More](https://medium.com/p/14b567a1a2a6) |
 | Tue, 20 Jan 2026 04:40:14 GMT | Pico Bank Write Up - Pico CTF | Masyhudi Affandi | [Read More](https://medium.com/p/bd6cb3c9d980) |
 | Tue, 20 Jan 2026 04:38:54 GMT | Bad 2 Bad: Apocalypse Mod APK | Apkpuredev | [Read More](https://medium.com/p/dac261b8ada8) |
 | Tue, 20 Jan 2026 04:32:04 GMT | Unmasking the Binary: A Guide to Essential Malware Analysis Tools | Pratik Gurav | [Read More](https://medium.com/p/01fcb68454a0) |
@@ -64,6 +75,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 23:47:16 GMT | The Breach Begins: Why You Need to Be Here | Iron-Breach | [Read More](https://medium.com/p/aa44ea786ae8) |
 | Mon, 19 Jan 2026 23:44:37 GMT | The Ghost Password : How a Design Flaw Led to Full Account Takeover (ATO) | xlr9 | [Read More](https://medium.com/p/52b7c1ca94fa) |
 | Mon, 19 Jan 2026 23:18:27 GMT | Hacking Windows Server: Why Your File Server is a Backdoor | Nicholas Mullenski | [Read More](https://medium.com/p/df3e0e634e98) |
+| Mon, 19 Jan 2026 23:02:34 GMT | Implementación de un Agente Centinela para Infraestructura PaaS usando MCP (1/3) | Yancel Salinas | [Read More](https://medium.com/p/4384b04a8ff5) |
 | Mon, 19 Jan 2026 22:47:16 GMT | A Single Entra ID Alert Can Be the Start of a Major Incident | Davidtolu | [Read More](https://medium.com/p/edd4606e7d20) |
 | Mon, 19 Jan 2026 22:36:57 GMT | The Need to Be Seen (and the Fear of Being Exposed) | Literary Fave | [Read More](https://medium.com/p/6835b02fe0e4) |
 | Mon, 19 Jan 2026 22:35:28 GMT | How Much Does a Penetration Test Actually Cost? | Eric Smith | [Read More](https://medium.com/p/231dc742dfcb) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 20:27:20 GMT | How to Share Secrets Securely and Simply with One-Time Secret | Andrei Trukhin | [Read More](https://medium.com/p/a452d904c56d) |
 | Mon, 19 Jan 2026 20:23:04 GMT | Safari Surveillance: A Reflection on Seeing and Being Seen in Kruger National Park | Julie Terebkov | [Read More](https://medium.com/p/e4cff34ae2f6) |
 | Mon, 19 Jan 2026 20:12:27 GMT | BAC Portswigger Labs | Vcasseb | [Read More](https://medium.com/p/9776206ed55b) |
-| Mon, 19 Jan 2026 20:11:52 GMT | PentestAgent: Revolutionizing Offensive Security with AI | MrGood | [Read More](https://medium.com/p/57e4f113c9ed) |
-| Mon, 19 Jan 2026 20:08:02 GMT | Elevate Your Hacking Skills: Top Cybersecurity Discord Servers to Join Today | Smert | [Read More](https://medium.com/p/d7d5d93a4276) |
-| Mon, 19 Jan 2026 20:07:25 GMT | Environmental Fingerprinting: Identifying Network Infrastructure from PCAP Analysis | Chrissa Constantine (a.k.a. T3mp3st) | [Read More](https://medium.com/p/d1e1d514eede) |
-| Mon, 19 Jan 2026 20:05:48 GMT | VAPT Report Example | Aryan Sharma | [Read More](https://medium.com/p/f8440a9735c1) |
-| Mon, 19 Jan 2026 19:59:56 GMT | Why I Wrote My Own DFIR Code Instead of Using Professional Tools | Musa Ndlala | [Read More](https://medium.com/p/bac2456416f2) |
-| Mon, 19 Jan 2026 19:50:40 GMT | when you aren’t fed love on a silver spoon, you learn to lick it off knives. | yna | [Read More](https://medium.com/p/3aeb2e6cd45a) |
-| Mon, 19 Jan 2026 19:48:07 GMT | Chaining SQL Injection and Weak MD5 Hashing to Own the Admin Account | OopsSec Store | [Read More](https://medium.com/p/66f88c116fcb) |
-| Mon, 19 Jan 2026 19:40:15 GMT | Offensive Pentesting - Mr Robot CTF — TryHackMe - By Shiv Kumar - Walkthrough- Medium | Shiv Kumar | [Read More](https://medium.com/p/a90f4b475625) |
-| Mon, 19 Jan 2026 19:21:25 GMT | CloudGoat AWS iam_privesc_by_rollback Walkthrough | Spookz | [Read More](https://medium.com/p/5b90deffaa80) |
-| Mon, 19 Jan 2026 19:19:12 GMT | My First Step into Cybersecurity: Real Talk | P Sam Tarun | [Read More](https://medium.com/p/610c1147334f) |
-| Mon, 19 Jan 2026 19:16:53 GMT | Engineering Ultra-Stealth Covert Communication in VoLTE via Silence Period Dynamics | Reza Harirchian | [Read More](https://medium.com/p/a79f663598b0) |
-| Mon, 19 Jan 2026 19:16:36 GMT | The Complete Guide to HTB’s Login Brute Forcing Module (Everything You Need to Know)https://academy. | Faisal Shahzad | [Read More](https://medium.com/p/d0322aef0b84) |
