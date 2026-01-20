@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 Jan 2026 21:23:14 GMT | TryHackMe Basic Pentesting: Fuerza Bruta y Escalada de Privilegios. | Jonathan Sebastian Pastas | [Read More](https://medium.com/p/53b29bebe48b) |
+| Tue, 20 Jan 2026 21:22:53 GMT | AI Computer Use Agents on PiKVM: Advancing Autonomy in Physical Computing | Kwaw Fletcher Frimpong | [Read More](https://medium.com/p/4e36387539e6) |
+| Tue, 20 Jan 2026 21:20:00 GMT | USDT RECOVERY EXPERT | ISLA ROSE | [Read More](https://medium.com/p/c4daf12cb4be) |
+| Tue, 20 Jan 2026 21:02:59 GMT | Bypassing Frida: Advanced Frida Detection Bypass — Part 1 | Haxymad | [Read More](https://medium.com/p/cc7c1dfbad9d) |
+| Tue, 20 Jan 2026 21:00:31 GMT | How to complete sunset:1 CTF challenge | Bibin | [Read More](https://medium.com/p/e02a27602132) |
+| Tue, 20 Jan 2026 20:55:27 GMT | The Autonomous Immunity System of Web3 | Cynos Protocol | [Read More](https://medium.com/p/e6d3493ca841) |
 | Tue, 20 Jan 2026 20:46:21 GMT | Day 161 — Building a Reliable Windows Process Monitoring Layer | Jinay | [Read More](https://medium.com/p/b36e5fdbb489) |
 | Tue, 20 Jan 2026 20:39:10 GMT | CYBER KILL CHAIN: Kurumların Dijital Savunma Haritası | dilan alpaltun | [Read More](https://medium.com/p/297090ad2366) |
 | Tue, 20 Jan 2026 20:38:52 GMT | Day 16–17 of Bug Bounty Journey : Understanding Nmap Like a Hacker | Anshkamra | [Read More](https://medium.com/p/0489f655b4be) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 Jan 2026 14:50:15 GMT | Understanding SMB Relay Attacks: Abusing NTLM with DNS and ARP Spoofing | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/26f4c50cffe3) |
 | Tue, 20 Jan 2026 14:37:36 GMT | Automating Tor Hidden Services for Red Team Infrastructure | Rafikdz | [Read More](https://medium.com/p/58cc6c12d468) |
 | Tue, 20 Jan 2026 14:36:59 GMT | The Minimum Security Checklist Every Web App Must Have | Code Catalyst | [Read More](https://medium.com/p/a246ecca516c) |
-| Tue, 20 Jan 2026 14:32:19 GMT | Hacking a Windows 10 Computer and Accessing the Webcam: A Course Teaser | Vignesh R | [Read More](https://medium.com/p/385d8fe5aaec) |
-| Tue, 20 Jan 2026 14:30:44 GMT | Entenda sobre CORS (Cross-Origin Resource Sharing) | Priscilla Oliveira | [Read More](https://medium.com/p/ffd4a22d7a04) |
-| Tue, 20 Jan 2026 14:24:55 GMT | The more convenient a security setting is, the more important it is to understand when and where it… | uttam | [Read More](https://medium.com/p/c0e62118c488) |
-| Tue, 20 Jan 2026 14:23:15 GMT | OTP Is Not Security Anymore — Awareness Is | Ankit rai | [Read More](https://medium.com/p/632cd812ac89) |
-| Tue, 20 Jan 2026 14:22:23 GMT | Why Modern Security Requires an Attacker’s Perspective | Digital Defense | [Read More](https://medium.com/p/36d6ffdfb2be) |
-| Tue, 20 Jan 2026 14:20:23 GMT | Data Security in 2026: Strategies Businesses Must Adopt to Protect Critical Information | Techridge Solutions | [Read More](https://medium.com/p/078cbf8752d5) |
