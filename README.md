@@ -12,8 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 Jan 2026 10:25:08 GMT | Bitunix = безопасно. Глубокий разбор защиты биржи. | Zava | [Read More](https://medium.com/p/6cf1ea4f838a) |
+| Tue, 20 Jan 2026 10:14:20 GMT | ecurBitBridge: The Authentication Nightmare That Led Me to Build a Better Solution | Muhammad Ateeb Aslam | [Read More](https://medium.com/p/1f1197468d8a) |
+| Tue, 20 Jan 2026 10:12:03 GMT | Why people aren’t interested in things neither get bored. | Rabiashaheenarif | [Read More](https://medium.com/p/0d3d0d822f44) |
+| Tue, 20 Jan 2026 10:11:59 GMT | Someone Can Pretend to Be You Online — And You Won’t Even Know | The Techie Indian | [Read More](https://medium.com/p/a9c5c0b7b9ce) |
+| Tue, 20 Jan 2026 09:59:00 GMT | Fake WordPress Domain Renewal Emails: A Quiet Scam You Shouldn’t Ignore | Deven Chhajed | [Read More](https://medium.com/p/9d4b59b04822) |
+| Tue, 20 Jan 2026 09:54:16 GMT | How Device Trust Score Prevents Fraud in Real Time | Mohsin Ansari | [Read More](https://medium.com/p/c389bf4efdf0) |
+| Tue, 20 Jan 2026 09:47:48 GMT | The Vulnerability Window Just Collapsed. Is Your Security Team Moving at Machine Speed? | Mercy Ajayi | [Read More](https://medium.com/p/cacafa5f4f2f) |
+| Tue, 20 Jan 2026 09:45:27 GMT | What To Do After Buying A VPS | Imron Madani | [Read More](https://medium.com/p/dec7d9c1694b) |
+| Tue, 20 Jan 2026 09:43:31 GMT | How Ransomware Attacks Have Evolved | Nexviax Technologies | [Read More](https://medium.com/p/6fd3bfff222f) |
+| Tue, 20 Jan 2026 09:42:04 GMT | The Logic of the Loop: Python for Networkers | Odunuga Abd fattah | [Read More](https://medium.com/p/0e18074670e2) |
+| Tue, 20 Jan 2026 09:40:05 GMT | “Your AI Is a Security Nightmare — And Most Companies Don’t Even Realize It” | ghostyjoe | [Read More](https://medium.com/p/19bbd9dd7bfb) |
+| Tue, 20 Jan 2026 09:32:16 GMT | Asia’s “Greenland Moment”: Preparing for a Post-American Security Order | MASUM BILLAH | [Read More](https://medium.com/p/19d54f728a0d) |
+| Tue, 20 Jan 2026 09:30:41 GMT | Bitunix: The Safest Exchange of 2026 | Olof Hakansson | [Read More](https://medium.com/p/2791c8c2f572) |
 | Tue, 20 Jan 2026 09:28:37 GMT | DOM-Based Open Redirection | Bash Overflow | [Read More](https://medium.com/p/27f87d761ff9) |
 | Tue, 20 Jan 2026 09:26:36 GMT | A Practical Security Checklist for Web, Firmware, and LLM Assessments: SecCheckmate(Open Source) | Amitishacked | [Read More](https://medium.com/p/d1128d2ac907) |
+| Tue, 20 Jan 2026 09:26:19 GMT | Security Services in Grand Prairie | US guard security company | [Read More](https://medium.com/p/78f82ac53188) |
+| Tue, 20 Jan 2026 09:23:53 GMT | Bonjour service on Windows11 | 0xLuk3 | [Read More](https://medium.com/p/6af02df596ee) |
 | Tue, 20 Jan 2026 09:16:19 GMT | [Writeup] Proving Grounds: Plum (Linux) | Bassey Ekemini E | [Read More](https://medium.com/p/19b53a57ae33) |
 | Tue, 20 Jan 2026 09:15:58 GMT | From Recon To Response: OSINT’s Role In Cyber Defense | Redfox Security | [Read More](https://medium.com/p/fa0d82af790d) |
 | Tue, 20 Jan 2026 09:13:57 GMT | Dijital Tehditlerin İnsani Yüzü: HUMINT, Siber Tehdit İstihbaratı ve Siber Terörizm | Ziya Gokalp | [Read More](https://medium.com/p/29a2c1997656) |
@@ -98,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 Jan 2026 04:32:04 GMT | Unmasking the Binary: A Guide to Essential Malware Analysis Tools | Pratik Gurav | [Read More](https://medium.com/p/01fcb68454a0) |
 | Tue, 20 Jan 2026 04:28:39 GMT | Fortifying the Extended Team: A Governance Framework for Staff Augmentation in BFSI | Riparna Roy Chowdhury | [Read More](https://medium.com/p/dfbc9c99f7d2) |
 | Tue, 20 Jan 2026 04:19:53 GMT | Building a Threat Model Before You Start Testing | Sachin Sawant | [Read More](https://medium.com/p/e0468d6ba49d) |
-| Tue, 20 Jan 2026 04:19:28 GMT | OverTheWire Bandit (Day 18): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/67e68069a686) |
-| Tue, 20 Jan 2026 04:02:54 GMT | The Clippy Comeback: How a Forgotten Paperclip Became the Face of Protest Against Big Tech’s… | Infinite Solutions by J. I. Memphis | [Read More](https://medium.com/p/4fffad20c7dd) |
-| Tue, 20 Jan 2026 03:55:46 GMT | Sun Tzu on Cybersecurity Leadership | Miles Fisher | [Read More](https://medium.com/p/e8fa8c5885fc) |
-| Tue, 20 Jan 2026 03:49:56 GMT | I Hope Knowing Me Doesn’t Lead to Loving Me Less | Mardiana Ayu | [Read More](https://medium.com/p/1c25c53aad75) |
-| Tue, 20 Jan 2026 03:46:08 GMT | Is Your Phone Being Tracked? Here’s How to Find Out Before It’s Too Late | Hameedduke | [Read More](https://medium.com/p/0b26923f4a52) |
-| Tue, 20 Jan 2026 03:43:39 GMT | Why I Finally Kicked Ring to the Curb After 4 Years — and Why You Should Too | Behind The Build | [Read More](https://medium.com/p/304fbbff0e0b) |
-| Tue, 20 Jan 2026 03:43:10 GMT | Beyond GPS, How a European Satellite Alliance is Paving the Way for Ubiquitous IoT and 6G | Aldi Syaputra | [Read More](https://medium.com/p/cc439307e7fb) |
-| Tue, 20 Jan 2026 03:32:24 GMT | Cracking Password-Protected ZIP Files Using Fcrackzip on Metasploitable 2 | Cybeague Technologies | [Read More](https://medium.com/p/9eb78ac6503f) |
-| Tue, 20 Jan 2026 03:31:27 GMT | Medusa Brute Force Attack on Metasploitable 2 | Cybeague Technologies | [Read More](https://medium.com/p/cc6202ec3709) |
-| Tue, 20 Jan 2026 03:26:57 GMT | The Cost of Silence | Kiki Yulia | [Read More](https://medium.com/p/dd20d2d94f1b) |
-| Tue, 20 Jan 2026 03:14:48 GMT | IPs, Python style pt. 1 | Michael Orozco-Fletcher | [Read More](https://medium.com/p/ce226c45d1a0) |
-| Tue, 20 Jan 2026 03:12:08 GMT | How to Download the Official Windows 10 ISO File (Directly from Microsoft) | Rashmin Gimhani | [Read More](https://medium.com/p/b228faec1c25) |
-| Tue, 20 Jan 2026 03:09:25 GMT | Skip 4 years in Japan — get AI Operations ready in 18 months | MUHAMMAD UZAIR | [Read More](https://medium.com/p/516d7bc7404f) |
-| Tue, 20 Jan 2026 03:02:06 GMT | Why Firewalls Are No Longer the Center of Security | The Default Gateway | [Read More](https://medium.com/p/db039d79f108) |
-| Tue, 20 Jan 2026 02:55:56 GMT | A Practical Way to Learn Reverse Engineering (Without Getting Overwhelmed) | Paritosh | [Read More](https://medium.com/p/85f290581580) |
