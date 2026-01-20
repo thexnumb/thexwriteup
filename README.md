@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 Jan 2026 22:20:02 GMT | I Built a System That Hides Encrypted Messages Inside Legal Chess Games | Atharva Sen Barai | [Read More](https://medium.com/p/1821eb1c92b3) |
+| Tue, 20 Jan 2026 22:17:13 GMT | Why every iPhone user should update to iOS 26 now: a plain language guide | Scott Hynd | [Read More](https://medium.com/p/ea6644319681) |
+| Tue, 20 Jan 2026 22:11:35 GMT | How AI is reshaping the way we Investigate and Defend against Cyber Attacks | Ib2dk | [Read More](https://medium.com/p/b30918367676) |
+| Tue, 20 Jan 2026 21:59:28 GMT | Pickle Rick (CTF Walkthrough) | Marduk I Am | [Read More](https://medium.com/p/023a7bfac72b) |
+| Tue, 20 Jan 2026 21:59:02 GMT | AI Needs Better Mental Models, Not More Controls | Donovan_Distracted | [Read More](https://medium.com/p/5a5b5908ff6e) |
+| Tue, 20 Jan 2026 21:55:23 GMT | To Live Fully Is to Risk Exposure. | Athena ˚˖ִ໋❀ | [Read More](https://medium.com/p/e081b85e22ce) |
+| Tue, 20 Jan 2026 21:45:59 GMT | Vulgarizar o amor | Filipe André Gaio | [Read More](https://medium.com/p/b7fad7700603) |
 | Tue, 20 Jan 2026 21:25:48 GMT | “From the fracture, we can build something better, stronger, and more just” | Bart Édes | [Read More](https://medium.com/p/996f476caf96) |
 | Tue, 20 Jan 2026 21:23:14 GMT | TryHackMe Basic Pentesting: Fuerza Bruta y Escalada de Privilegios. | Jonathan Sebastian Pastas | [Read More](https://medium.com/p/53b29bebe48b) |
 | Tue, 20 Jan 2026 21:22:53 GMT | AI Computer Use Agents on PiKVM: Advancing Autonomy in Physical Computing | Kwaw Fletcher Frimpong | [Read More](https://medium.com/p/4e36387539e6) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 Jan 2026 15:02:02 GMT | IAM is Finally Breaking and Agents are the Tipping Point | Jesse Scott | [Read More](https://medium.com/p/4e7309f3e9dd) |
 | Tue, 20 Jan 2026 15:02:01 GMT | 5 Cybersecurity Skills That Pay Without Certifications | Ms. Byte Dev | [Read More](https://medium.com/p/427dedf0ad03) |
 | Tue, 20 Jan 2026 15:00:51 GMT | The Real Complexity Behind Building Your Own Digital Asset Vault | John Galt | [Read More](https://medium.com/p/bea8410ce71b) |
-| Tue, 20 Jan 2026 14:58:18 GMT | HTB Legacy Machine Walkthrough | Brian Courtney | [Read More](https://medium.com/p/0b35f494643a) |
-| Tue, 20 Jan 2026 14:55:21 GMT | The Psychology of Cybersecurity: Why Humans Remain the Weakest Link | Succedence | [Read More](https://medium.com/p/65d06539be8d) |
-| Tue, 20 Jan 2026 14:54:17 GMT | The “Triple Threat” of 2026: Why Your AI Workforce Is Your Biggest Security Blind Spot | Ken Buckler | [Read More](https://medium.com/p/4615f69bfc51) |
-| Tue, 20 Jan 2026 14:51:45 GMT | Office Politics Is a Bigger Skill Than Coding in IT | Karthick Dk | [Read More](https://medium.com/p/a3b3c29115c8) |
-| Tue, 20 Jan 2026 14:51:16 GMT | How Attackers Abuse Microsoft Infrastructure — And Why Most SOCs Misread the Results | Pablo Echeverria | [Read More](https://medium.com/p/cc8f177c88e3) |
-| Tue, 20 Jan 2026 14:50:22 GMT | Restore Windows Explorer Stability Without Full Reinstalls | Geoffrey Wenger | [Read More](https://medium.com/p/05758f2e82d3) |
-| Tue, 20 Jan 2026 14:50:15 GMT | Understanding SMB Relay Attacks: Abusing NTLM with DNS and ARP Spoofing | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/26f4c50cffe3) |
