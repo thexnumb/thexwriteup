@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 Jan 2026 08:28:28 GMT | From Idea to App (How Digital Teams Build Smarter Platforms) | Tech and Marketing Journal | [Read More](https://medium.com/p/67effb1a0955) |
+| Tue, 20 Jan 2026 08:25:26 GMT | How to Spot a Liar in 3 Questions (Without Them Knowing) | Vijay Kumar Gupta | [Read More](https://medium.com/p/f776d03d3bea) |
+| Tue, 20 Jan 2026 08:24:00 GMT | Dynamic Obfuscation: Random Class Name Generation | zerg 1111 | [Read More](https://medium.com/p/9feb8fa3fc23) |
+| Tue, 20 Jan 2026 08:23:15 GMT | Best AI and Machine Learning Courses in Delhi (2026 Complete Guide) | Manisha Chaudhary | [Read More](https://medium.com/p/9f96709173bb) |
+| Tue, 20 Jan 2026 08:21:56 GMT | All Major OSINT Tools on the Internet (2026 Edition) | Nazrul Islam Rana | [Read More](https://medium.com/p/5268b5c349b3) |
+| Tue, 20 Jan 2026 08:21:46 GMT | Types of Fire Fighting Systems Used in Kerala Buildings | Berkshire Hathaway | [Read More](https://medium.com/p/7c42fb5a8067) |
+| Tue, 20 Jan 2026 08:18:47 GMT | App Development CompanyApp Development Company: Building Scalable, User-Centric Digital Solutions | Webmobril Technology | [Read More](https://medium.com/p/1251151c6743) |
+| Tue, 20 Jan 2026 08:18:13 GMT | LLMs and GENAI Apps: Risk & Mitigations — Part 5: Data & Model Poisoning! | Nothing Cyber [NC] | [Read More](https://medium.com/p/28bfc670b45c) |
+| Tue, 20 Jan 2026 08:15:53 GMT | eKYC is Not Authentication: Why “Identity Verification” Fails to Provide “Identity Assurance” | Ryu360 | [Read More](https://medium.com/p/52502a2de20a) |
+| Tue, 20 Jan 2026 08:14:07 GMT | Face ID Is Not the Lock — It’s the Handle | Ryu360 | [Read More](https://medium.com/p/8a76b0990dd7) |
+| Tue, 20 Jan 2026 08:02:01 GMT | What to Expect From Professional Security Solutions in Singapore | Jane Tang | [Read More](https://medium.com/p/fc741020976f) |
+| Tue, 20 Jan 2026 07:59:56 GMT | Windows Sunucularda SIEM Log Entegrasyonu İçin Otomatik Yapılandırma (Server 2008–2025 Uyumlu) | Sinan ŞAHİN | [Read More](https://medium.com/p/7832279bfff1) |
+| Tue, 20 Jan 2026 07:56:24 GMT | Automating AI Red Teaming with Microsoft PyRIT: A Deep Dive | Sankalp Salve | [Read More](https://medium.com/p/ce18d0bd8d44) |
+| Tue, 20 Jan 2026 07:52:52 GMT | Solo mission in a dark room | Adeboye Salisu | [Read More](https://medium.com/p/7736608f9459) |
+| Tue, 20 Jan 2026 07:52:16 GMT | ️DC: 8— Complete Walkthrough (Beginner-Friendly) - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/eb86a5d3ab89) |
+| Tue, 20 Jan 2026 07:51:58 GMT | The Modern Choice: Beyond the Perimeter: Building a Pure Cloud Identity Security Stack for 2026 | Jack Nelson | [Read More](https://medium.com/p/7f92df0710cf) |
 | Tue, 20 Jan 2026 07:50:06 GMT | JWT Authentication Bypass via Algorithm Confusion | CyberSec Xploit - Prasangam | [Read More](https://medium.com/p/0a563c2a47c4) |
 | Tue, 20 Jan 2026 07:48:11 GMT | 9 Powerful BEC Forensics Checks in 30 Minutes | Pentest_Testing_Corp | [Read More](https://medium.com/p/c8a273475217) |
 | Tue, 20 Jan 2026 07:38:47 GMT | Auditly — Enterprise Python Dependency Vulnerability Scanner | Krishna Tadi | [Read More](https://medium.com/p/38be26a548ab) |
@@ -97,19 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 Jan 2026 01:15:44 GMT | The Death of Privacy: Why I Built a Calculator That Hides Your Secrets | thatredhoodedguy | [Read More](https://medium.com/p/1242e95225d4) |
 | Tue, 20 Jan 2026 01:07:52 GMT | Koobface: Blueprints for a Social Botnet | Daniel Iwugo | [Read More](https://medium.com/p/a6144c5ff03d) |
 | Tue, 20 Jan 2026 01:07:29 GMT | 100,000 WordPress Sites Affected by Privilege Escalation Vulnerability in Advanced Custom Fields… | Wordfence | [Read More](https://medium.com/p/8fff7697fed4) |
-| Tue, 20 Jan 2026 01:07:07 GMT | Building an Azure Cloud Security Detection Lab with Microsoft Sentinel: A Hands-On Guide | Eric Clark | [Read More](https://medium.com/p/05c87724ff36) |
-| Tue, 20 Jan 2026 01:06:57 GMT | Windows AD: File Shares | Shamar Isaac | [Read More](https://medium.com/p/fb92137af822) |
-| Tue, 20 Jan 2026 01:04:50 GMT | CVE-2026–21876: Critical WAF Bypass Explained | Eric Blancas | [Read More](https://medium.com/p/56cb2f4e7326) |
-| Tue, 20 Jan 2026 01:01:59 GMT | Social Engineering | Nithin | [Read More](https://medium.com/p/570511f3cf5e) |
-| Tue, 20 Jan 2026 00:57:43 GMT | Corrupted Dependency | Thiago Holmes | [Read More](https://medium.com/p/c19944031694) |
-| Tue, 20 Jan 2026 00:55:58 GMT | Design Assumptions that Age Into Exploits | Daniel Londoño B. | [Read More](https://medium.com/p/f2a7900f317c) |
-| Tue, 20 Jan 2026 00:49:57 GMT | Did Aliens Help Shape Ancient History? | Abdul | [Read More](https://medium.com/p/877faaeab82d) |
-| Tue, 20 Jan 2026 00:49:26 GMT | Unauthenticated Client-Side Prize Manipulation Vulnerability in Spin Wheel plugin | jsonc | [Read More](https://medium.com/p/a4423c12280a) |
-| Tue, 20 Jan 2026 00:38:58 GMT | Building a Recon Toolkit with Docker | Sam Hilliard | [Read More](https://medium.com/p/ec14e556f858) |
-| Tue, 20 Jan 2026 00:26:42 GMT | Breaking Authentication Without Brute Force: A Pentester’s Perspective | Michael Preston | [Read More](https://medium.com/p/19cda79f5038) |
-| Tue, 20 Jan 2026 00:02:01 GMT | Guía Maestra de Headers HTTP para Bug Bounty: Técnicas de Explotación y Bypass | JPablo13 | [Read More](https://medium.com/p/c95c265b11fb) |
-| Mon, 19 Jan 2026 23:53:19 GMT | Extra SID, Extra Trouble | DuckWrites | [Read More](https://medium.com/p/5328741d4037) |
-| Mon, 19 Jan 2026 23:47:16 GMT | The Breach Begins: Why You Need to Be Here | Iron-Breach | [Read More](https://medium.com/p/aa44ea786ae8) |
-| Mon, 19 Jan 2026 23:44:37 GMT | The Ghost Password : How a Design Flaw Led to Full Account Takeover (ATO) | xlr9 | [Read More](https://medium.com/p/52b7c1ca94fa) |
-| Mon, 19 Jan 2026 23:18:27 GMT | Hacking Windows Server: Why Your File Server is a Backdoor | Nicholas Mullenski | [Read More](https://medium.com/p/df3e0e634e98) |
-| Mon, 19 Jan 2026 23:02:34 GMT | Implementación de un Agente Centinela para Infraestructura PaaS usando MCP (1/3) | Yancel Salinas | [Read More](https://medium.com/p/4384b04a8ff5) |
