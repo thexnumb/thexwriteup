@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 Jan 2026 17:29:13 GMT | 5 Best Wireless Hidden Nanny Cams with Audio for Peace of Mind at Home | Narjis Arshad | [Read More](https://medium.com/p/54a6d5965efd) |
+| Tue, 20 Jan 2026 17:25:55 GMT | NextJS 15/16 Production Hardening [Part 6] | Ketan Chavan | [Read More](https://medium.com/p/771f69ec02ef) |
+| Tue, 20 Jan 2026 17:15:21 GMT | Coming up at Tech Weekend January 2026 | Founders Village | [Read More](https://medium.com/p/78f2c1ad01aa) |
+| Tue, 20 Jan 2026 17:09:37 GMT | Good at Puzzles? Cybersecurity and Ethical Hacking Might Be Your Career | Appli - College Applications App | [Read More](https://medium.com/p/dab02ea7e1e8) |
+| Tue, 20 Jan 2026 17:07:34 GMT | How to Budget and Choose the Best Annual PCI Compliance Software for Your Small Business | Emory French | [Read More](https://medium.com/p/7ace5a77ed8c) |
+| Tue, 20 Jan 2026 17:02:02 GMT | Logs, Alerts, and SIEM: How Security Teams Detect and Understand Attacks | Sruthi Punugu | [Read More](https://medium.com/p/329979bb692c) |
+| Tue, 20 Jan 2026 17:01:52 GMT | Why Most Security Monitoring Fails (And Attackers Know It) | Daniel Isaac E | [Read More](https://medium.com/p/358fe599330e) |
+| Tue, 20 Jan 2026 16:58:51 GMT | TryHackMe RootMe — Walkthrough | Jobin Mathew | [Read More](https://medium.com/p/8fbca81a46c2) |
+| Tue, 20 Jan 2026 16:56:12 GMT | Glyphe — How to Use It Today | Brandin Tancredi | [Read More](https://medium.com/p/063b77195909) |
+| Tue, 20 Jan 2026 16:55:59 GMT | Security Company in Irving | US guard security company | [Read More](https://medium.com/p/91afdab36e6d) |
+| Tue, 20 Jan 2026 16:53:32 GMT | Networking Basics — 2 | Muhammadsaad | [Read More](https://medium.com/p/47f177098d78) |
+| Tue, 20 Jan 2026 16:47:08 GMT | Security trade-offs in remote and ephemeral execution environments | Akshat Joshi | [Read More](https://medium.com/p/96d1b2549056) |
+| Tue, 20 Jan 2026 16:47:06 GMT | Mon site a‑t‑il vraiment besoin d’une bannière de consentement? | Patrick Boucher | [Read More](https://medium.com/p/56cdd1206c3f) |
+| Tue, 20 Jan 2026 16:45:41 GMT | Kali Linux vs Kali Purple vs Kali NetHunter: A Penetration Tester’s Perspective | Cybervolt | [Read More](https://medium.com/p/db8e288ac721) |
+| Tue, 20 Jan 2026 16:44:54 GMT | What Information Can You Extract From Just a Hash | Abhay Parashar | [Read More](https://medium.com/p/67755f25eecc) |
 | Tue, 20 Jan 2026 16:29:18 GMT | The New Security Paradigm: Protecting Multi-Agent AI Systems in Production | BigCodeGen | [Read More](https://medium.com/p/366525a1db7c) |
 | Tue, 20 Jan 2026 16:29:02 GMT | CVE-2025–66202: URL Double Encoding Bypass Lab | Josh Beck | [Read More](https://medium.com/p/40ecd6d6820a) |
 | Tue, 20 Jan 2026 16:22:47 GMT | Auto JAIL for SPAMERS | Nemanja Maki Maric | [Read More](https://medium.com/p/108238626e4a) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 Jan 2026 11:31:54 GMT | Ethical Hacking Fundamentals | BismaAhsan | [Read More](https://medium.com/p/0c536a03377d) |
 | Tue, 20 Jan 2026 11:30:33 GMT | Where to Hire Hackers Without Getting Scammed | Cyber Tech Solutions | [Read More](https://medium.com/p/25cdc79cc67f) |
 | Tue, 20 Jan 2026 11:15:46 GMT | Web Application Security: Attacks, OWASP, Tools & Learning Platforms (Ethical Hacking Guide) | Cyber Wolf | [Read More](https://medium.com/p/71d2dd595d07) |
-| Tue, 20 Jan 2026 11:11:41 GMT | How to Contact an Hacker Online (Safely) | Cyber Tech Solutions | [Read More](https://medium.com/p/566be97df1c8) |
-| Tue, 20 Jan 2026 11:10:13 GMT | Independent Audit: The MagnafxPro Regulatory and Legitimacy Report | Certification Flow Laboratories | [Read More](https://medium.com/p/a0e9f3b305ab) |
-| Tue, 20 Jan 2026 11:06:28 GMT | The Skills That Will Actually Make You a Better Hacker / Red Teamer in 2026 | Yua Mikanana | [Read More](https://medium.com/p/6bf6bd2fcf4c) |
-| Tue, 20 Jan 2026 11:04:04 GMT | Managed Cybersecurity Services: How Businesses Can Stay Secure in 2026 | Preemptive Technofield | [Read More](https://medium.com/p/c9bf2a040aa3) |
-| Tue, 20 Jan 2026 11:02:49 GMT | Introduction to Cybersecurity | BismaAhsan | [Read More](https://medium.com/p/a351bc730839) |
-| Tue, 20 Jan 2026 11:01:02 GMT | The Cybersecurity Skills I’d NEVER Learn Again in 2026 | Motasem Hamdan | [Read More](https://medium.com/p/1100d895f03a) |
-| Tue, 20 Jan 2026 10:49:54 GMT | Why I’m 16 and Building Explainable AI — A Letter to the Systems I’ll Inherit | Shivansh Arora | [Read More](https://medium.com/p/482026fa5f36) |
-| Tue, 20 Jan 2026 10:48:49 GMT | Why Your Crypto Wallet Can Show Money You Can’t Spend | Crypto Savvy | [Read More](https://medium.com/p/6e6501a8b750) |
-| Tue, 20 Jan 2026 10:38:03 GMT | What is IT Consulting? Why Businesses Can’t Ignore It in 2026 | Hassan Isa'ac Ambi | [Read More](https://medium.com/p/6b44e7c5b3a1) |
-| Tue, 20 Jan 2026 10:33:32 GMT | RFID Wallets Explained: Why UK Men Need Digital Protection in 2026 | Valtengear | [Read More](https://medium.com/p/fedcd6b80360) |
-| Tue, 20 Jan 2026 10:32:31 GMT | Google Play Integrity API in Android: Lessons from Real-World App Security | Pinankh Patel | [Read More](https://medium.com/p/9b488d904f85) |
-| Tue, 20 Jan 2026 10:31:51 GMT | 12 Browser Security Settings You Must Change Now | Amit Gorai | [Read More](https://medium.com/p/1cd00b5c5d1c) |
-| Tue, 20 Jan 2026 10:25:08 GMT | Bitunix = безопасно. Глубокий разбор защиты биржи. | Zava | [Read More](https://medium.com/p/6cf1ea4f838a) |
-| Tue, 20 Jan 2026 10:14:20 GMT | ecurBitBridge: The Authentication Nightmare That Led Me to Build a Better Solution | Muhammad Ateeb Aslam | [Read More](https://medium.com/p/1f1197468d8a) |
-| Tue, 20 Jan 2026 10:12:03 GMT | Why people aren’t interested in things neither get bored. | Rabiashaheenarif | [Read More](https://medium.com/p/0d3d0d822f44) |
