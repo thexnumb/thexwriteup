@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 Jan 2026 09:28:37 GMT | DOM-Based Open Redirection | Bash Overflow | [Read More](https://medium.com/p/27f87d761ff9) |
+| Tue, 20 Jan 2026 09:26:36 GMT | A Practical Security Checklist for Web, Firmware, and LLM Assessments: SecCheckmate(Open Source) | Amitishacked | [Read More](https://medium.com/p/d1128d2ac907) |
+| Tue, 20 Jan 2026 09:16:19 GMT | [Writeup] Proving Grounds: Plum (Linux) | Bassey Ekemini E | [Read More](https://medium.com/p/19b53a57ae33) |
+| Tue, 20 Jan 2026 09:15:58 GMT | From Recon To Response: OSINT’s Role In Cyber Defense | Redfox Security | [Read More](https://medium.com/p/fa0d82af790d) |
+| Tue, 20 Jan 2026 09:13:57 GMT | Dijital Tehditlerin İnsani Yüzü: HUMINT, Siber Tehdit İstihbaratı ve Siber Terörizm | Ziya Gokalp | [Read More](https://medium.com/p/29a2c1997656) |
+| Tue, 20 Jan 2026 09:13:24 GMT | Intelligence Collection Disciplines: How Information Becomes Power | Ziya Gokalp | [Read More](https://medium.com/p/9259c145f44f) |
+| Tue, 20 Jan 2026 09:12:01 GMT | Vos fichiers partagés en ligne alimentent peut-être des IA sans votre consentement | Stephane | [Read More](https://medium.com/p/8be114104384) |
+| Tue, 20 Jan 2026 09:03:30 GMT | HOW ILLICIT ARMS FUELS MASS KILLINGS IN NIGERIA Nigeria’s recurring waves of mass killings… | Glorykuyahar | [Read More](https://medium.com/p/395a82fd3d5f) |
+| Tue, 20 Jan 2026 09:03:17 GMT | Stop Uploading Your Private Files! Here’s How to Watermark PDFs Safely in Seconds | Nasaj – Developer & Creator of NasajTools | [Read More](https://medium.com/p/dda4ac142d4c) |
+| Tue, 20 Jan 2026 09:02:03 GMT | ATT&CK v18: “Do we actually have the logs?” | Sebastien Lehuede | [Read More](https://medium.com/p/2b4addb98e77) |
+| Tue, 20 Jan 2026 09:02:01 GMT | Ukraine War: The Lesser-Known News 1/20/26 | Kevin Fitzgerald | [Read More](https://medium.com/p/b91679712132) |
+| Tue, 20 Jan 2026 08:56:44 GMT | BUSINESS LOGIC FLAWS | KLEAP Institute of Information Security | [Read More](https://medium.com/p/c1ac06f1ca55) |
+| Tue, 20 Jan 2026 08:51:06 GMT | Securing Angular Apps: Insights from a Decade of Frontend Engineering | Sowndarya Kurri | [Read More](https://medium.com/p/e579565f5722) |
+| Tue, 20 Jan 2026 08:50:00 GMT | SWIMMER OSINT CTF 2026: Writeup | CYB3R-BO1 | [Read More](https://medium.com/p/4b84403620b0) |
+| Tue, 20 Jan 2026 08:48:26 GMT | What Is a Man-in-the-Middle (MITM) Attack and How It Works | BHARGAV SANDILYA | [Read More](https://medium.com/p/9663b7049afb) |
+| Tue, 20 Jan 2026 08:42:01 GMT | Why Las Vegas Businesses Need Professional Security Patrol Services | Palisade Defense | [Read More](https://medium.com/p/b5c8a57fc669) |
 | Tue, 20 Jan 2026 08:28:28 GMT | From Idea to App (How Digital Teams Build Smarter Platforms) | Tech and Marketing Journal | [Read More](https://medium.com/p/67effb1a0955) |
 | Tue, 20 Jan 2026 08:25:26 GMT | How to Spot a Liar in 3 Questions (Without Them Knowing) | Vijay Kumar Gupta | [Read More](https://medium.com/p/f776d03d3bea) |
 | Tue, 20 Jan 2026 08:24:00 GMT | Dynamic Obfuscation: Random Class Name Generation | zerg 1111 | [Read More](https://medium.com/p/9feb8fa3fc23) |
@@ -97,19 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 Jan 2026 03:09:25 GMT | Skip 4 years in Japan — get AI Operations ready in 18 months | MUHAMMAD UZAIR | [Read More](https://medium.com/p/516d7bc7404f) |
 | Tue, 20 Jan 2026 03:02:06 GMT | Why Firewalls Are No Longer the Center of Security | The Default Gateway | [Read More](https://medium.com/p/db039d79f108) |
 | Tue, 20 Jan 2026 02:55:56 GMT | A Practical Way to Learn Reverse Engineering (Without Getting Overwhelmed) | Paritosh | [Read More](https://medium.com/p/85f290581580) |
-| Tue, 20 Jan 2026 02:52:49 GMT | How to Get Help in Linux Without Memorizing Commands — Linux Series | p314d0 | [Read More](https://medium.com/p/70bcdba73b07) |
-| Tue, 20 Jan 2026 02:30:24 GMT | declined invites | Jordan Breaux | [Read More](https://medium.com/p/cc8854223e66) |
-| Tue, 20 Jan 2026 02:21:49 GMT | I bypassed Guardrails to Perform Prompt Injection | Rahul Singh Chauhan | [Read More](https://medium.com/p/8081195b8018) |
-| Tue, 20 Jan 2026 02:21:01 GMT | Building a Strong Reconnaissance Strategy with Nmap and OSINT | Shahzaib | [Read More](https://medium.com/p/a9c223085c7b) |
-| Tue, 20 Jan 2026 02:20:51 GMT | Cloudflare HTTP Log Analysis using Splunk | Jason Hoskins Jr. | [Read More](https://medium.com/p/9932ead032f3) |
-| Tue, 20 Jan 2026 02:10:10 GMT | Threat Intelligence Stack for a Solo SOC Analyst (Free Only) | Regan Temudo | [Read More](https://medium.com/p/83b594c27908) |
-| Tue, 20 Jan 2026 02:09:53 GMT | $500 Bug Bounty: Bulk Endpoint Leaks Report Disclosure State | Monika sharma | [Read More](https://medium.com/p/e7305af1e853) |
-| Tue, 20 Jan 2026 02:09:46 GMT | A List of Every Cybersecurity Abbreviation There Is (Part 3) | Raymond Ebonine | [Read More](https://medium.com/p/4b37d784d045) |
-| Tue, 20 Jan 2026 02:05:02 GMT | Cybersecurity Researcher & Tech Writer | Ahmed Mohamed Ibrahim Abdelhamed Mohamed | [Read More](https://medium.com/p/2df2548bd70a) |
-| Tue, 20 Jan 2026 01:49:53 GMT | What is Veracode? | Kaushal Vasava | [Read More](https://medium.com/p/cf99dee04c7c) |
-| Tue, 20 Jan 2026 01:47:30 GMT | Tuesday Morning Threat Report: Jan 20, 2026 | Mark Maguire | [Read More](https://medium.com/p/f59329c35d20) |
-| Tue, 20 Jan 2026 01:21:52 GMT | 6-Day and IP Address Certificates Are Generally Available | Aman Shekhar | [Read More](https://medium.com/p/f11e8f1b05c2) |
-| Tue, 20 Jan 2026 01:19:12 GMT | “As a cybersecurity specialist, I’ve seen how one vulnerability can ruin a business. | Ahmed Abdelhamed | [Read More](https://medium.com/p/9decbac23629) |
-| Tue, 20 Jan 2026 01:15:44 GMT | The Death of Privacy: Why I Built a Calculator That Hides Your Secrets | thatredhoodedguy | [Read More](https://medium.com/p/1242e95225d4) |
-| Tue, 20 Jan 2026 01:07:52 GMT | Koobface: Blueprints for a Social Botnet | Daniel Iwugo | [Read More](https://medium.com/p/a6144c5ff03d) |
-| Tue, 20 Jan 2026 01:07:29 GMT | 100,000 WordPress Sites Affected by Privilege Escalation Vulnerability in Advanced Custom Fields… | Wordfence | [Read More](https://medium.com/p/8fff7697fed4) |
