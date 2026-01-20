@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 Jan 2026 22:26:30 GMT | Quantum Computing: A silent Threat to the Blochchain and How ITS can help | Monarch | [Read More](https://medium.com/p/d8f204b763c0) |
 | Tue, 20 Jan 2026 22:20:02 GMT | I Built a System That Hides Encrypted Messages Inside Legal Chess Games | Atharva Sen Barai | [Read More](https://medium.com/p/1821eb1c92b3) |
 | Tue, 20 Jan 2026 22:17:13 GMT | Why every iPhone user should update to iOS 26 now: a plain language guide | Scott Hynd | [Read More](https://medium.com/p/ea6644319681) |
 | Tue, 20 Jan 2026 22:11:35 GMT | How AI is reshaping the way we Investigate and Defend against Cyber Attacks | Ib2dk | [Read More](https://medium.com/p/b30918367676) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 Jan 2026 15:02:05 GMT | Cyber Briefing: 2026.01.20 | CyberMaterial | [Read More](https://medium.com/p/50f22b9ba4c9) |
 | Tue, 20 Jan 2026 15:02:02 GMT | IAM is Finally Breaking and Agents are the Tipping Point | Jesse Scott | [Read More](https://medium.com/p/4e7309f3e9dd) |
 | Tue, 20 Jan 2026 15:02:01 GMT | 5 Cybersecurity Skills That Pay Without Certifications | Ms. Byte Dev | [Read More](https://medium.com/p/427dedf0ad03) |
-| Tue, 20 Jan 2026 15:00:51 GMT | The Real Complexity Behind Building Your Own Digital Asset Vault | John Galt | [Read More](https://medium.com/p/bea8410ce71b) |
