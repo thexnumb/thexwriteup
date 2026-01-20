@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 Jan 2026 07:50:06 GMT | JWT Authentication Bypass via Algorithm Confusion | CyberSec Xploit - Prasangam | [Read More](https://medium.com/p/0a563c2a47c4) |
+| Tue, 20 Jan 2026 07:48:11 GMT | 9 Powerful BEC Forensics Checks in 30 Minutes | Pentest_Testing_Corp | [Read More](https://medium.com/p/c8a273475217) |
+| Tue, 20 Jan 2026 07:38:47 GMT | Auditly — Enterprise Python Dependency Vulnerability Scanner | Krishna Tadi | [Read More](https://medium.com/p/38be26a548ab) |
+| Tue, 20 Jan 2026 07:36:01 GMT | SSDeep vs TLSH vs Imphash: Choosing the Right Fuzzy Hash for Malware Detection | ShadowBlue | [Read More](https://medium.com/p/6f614a1c8d9c) |
+| Tue, 20 Jan 2026 07:32:00 GMT | NestJS Auth: Sessions vs JWTs (The Real Tradeoffs) | Bhagya Rana | [Read More](https://medium.com/p/ca5950bbeb58) |
+| Tue, 20 Jan 2026 07:26:41 GMT | Account recovery is about access. Trust recovery is about a person. | Mikhaylo Pavlyuk | [Read More](https://medium.com/p/fb86f43fb2b0) |
+| Tue, 20 Jan 2026 07:26:29 GMT | What Banks Taught Me About Secure Software Development | Adrian W | [Read More](https://medium.com/p/e5613143f5e4) |
+| Tue, 20 Jan 2026 07:26:22 GMT | Why Digital Growth Fails Without Clear Strategy | BASEEL PARTNERS LLP | [Read More](https://medium.com/p/f2b0f01931b1) |
+| Tue, 20 Jan 2026 07:25:39 GMT | Youtube Thumbnail Downloader Chrome Extensions | Josecabralesdev | [Read More](https://medium.com/p/d3be610fe23e) |
+| Tue, 20 Jan 2026 07:25:24 GMT | 7 Trends Shaping the Cybersecurity Landscape in 2026 for Strategic Resilience | QNu Labs | [Read More](https://medium.com/p/907f728a58b4) |
 | Tue, 20 Jan 2026 07:21:33 GMT | How I “Hacked” 10+ Companies in 30 Minutes (By Clicking ‘Sign Up’) | Majid Mohammed | [Read More](https://medium.com/p/a55141584d35) |
 | Tue, 20 Jan 2026 07:20:47 GMT | How Network Support Drives Cost-Efficient IT Operations for Growing Businesses | Gavin Ellis | [Read More](https://medium.com/p/e7c6d4692669) |
 | Tue, 20 Jan 2026 07:15:38 GMT | … | Macky  (TheNMAPGuy)  Matsunaga | [Read More](https://medium.com/p/fbfe57fae815) |
@@ -103,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 23:44:37 GMT | The Ghost Password : How a Design Flaw Led to Full Account Takeover (ATO) | xlr9 | [Read More](https://medium.com/p/52b7c1ca94fa) |
 | Mon, 19 Jan 2026 23:18:27 GMT | Hacking Windows Server: Why Your File Server is a Backdoor | Nicholas Mullenski | [Read More](https://medium.com/p/df3e0e634e98) |
 | Mon, 19 Jan 2026 23:02:34 GMT | Implementación de un Agente Centinela para Infraestructura PaaS usando MCP (1/3) | Yancel Salinas | [Read More](https://medium.com/p/4384b04a8ff5) |
-| Mon, 19 Jan 2026 22:47:16 GMT | A Single Entra ID Alert Can Be the Start of a Major Incident | Davidtolu | [Read More](https://medium.com/p/edd4606e7d20) |
-| Mon, 19 Jan 2026 22:36:57 GMT | The Need to Be Seen (and the Fear of Being Exposed) | Literary Fave | [Read More](https://medium.com/p/6835b02fe0e4) |
-| Mon, 19 Jan 2026 22:35:28 GMT | How Much Does a Penetration Test Actually Cost? | Eric Smith | [Read More](https://medium.com/p/231dc742dfcb) |
-| Mon, 19 Jan 2026 22:13:04 GMT | The Hidden Equation Your Brain Runs On And Why It Matters | Kevin | [Read More](https://medium.com/p/5be5598eac1f) |
-| Mon, 19 Jan 2026 22:11:06 GMT | Week 11: Cloud Security Basics and Best Practices | Donovan Brown | [Read More](https://medium.com/p/ea9e4c459a2c) |
-| Mon, 19 Jan 2026 22:08:12 GMT | Odysafe CTI Platform: The Open-Source Tool That Actually Simplifies IOC Management | ShadowBlue | [Read More](https://medium.com/p/a91077b17ee6) |
-| Mon, 19 Jan 2026 22:06:34 GMT | Enforcing Resource Integrity Checks in Applications - The Silver Bullet | Mr. Robot.txt | [Read More](https://medium.com/p/33838c2df08c) |
-| Mon, 19 Jan 2026 22:03:59 GMT | Microsegmentation: The Next Evolution of Network Security | Raviteja Mureboina | [Read More](https://medium.com/p/830037f78a7f) |
-| Mon, 19 Jan 2026 22:03:38 GMT | Cybersecurity ethics and the security of information in a global posture | Joe Alongi | [Read More](https://medium.com/p/4e68fa49a9e0) |
-| Mon, 19 Jan 2026 22:03:15 GMT | Building a Threat Detection Lab: Integrating Wazuh, Suricata, and Virus Total | Anjolaoluwa Adegbite | [Read More](https://medium.com/p/a60bc03000e0) |
