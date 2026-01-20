@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 Jan 2026 11:15:46 GMT | Web Application Security: Attacks, OWASP, Tools & Learning Platforms (Ethical Hacking Guide) | Cyber Wolf | [Read More](https://medium.com/p/71d2dd595d07) |
+| Tue, 20 Jan 2026 11:11:41 GMT | How to Contact an Hacker Online (Safely) | Cyber Tech Solutions | [Read More](https://medium.com/p/566be97df1c8) |
+| Tue, 20 Jan 2026 11:10:13 GMT | Independent Audit: The MagnafxPro Regulatory and Legitimacy Report | Certification Flow Laboratories | [Read More](https://medium.com/p/a0e9f3b305ab) |
+| Tue, 20 Jan 2026 11:06:28 GMT | The Skills That Will Actually Make You a Better Hacker / Red Teamer in 2026 | Yua Mikanana | [Read More](https://medium.com/p/6bf6bd2fcf4c) |
+| Tue, 20 Jan 2026 11:04:04 GMT | Managed Cybersecurity Services: How Businesses Can Stay Secure in 2026 | Preemptive Technofield | [Read More](https://medium.com/p/c9bf2a040aa3) |
+| Tue, 20 Jan 2026 11:02:49 GMT | Introduction to Cybersecurity | BismaAhsan | [Read More](https://medium.com/p/a351bc730839) |
+| Tue, 20 Jan 2026 11:01:02 GMT | The Cybersecurity Skills I’d NEVER Learn Again in 2026 | Motasem Hamdan | [Read More](https://medium.com/p/1100d895f03a) |
+| Tue, 20 Jan 2026 10:49:54 GMT | Why I’m 16 and Building Explainable AI — A Letter to the Systems I’ll Inherit | Shivansh Arora | [Read More](https://medium.com/p/482026fa5f36) |
+| Tue, 20 Jan 2026 10:48:49 GMT | Why Your Crypto Wallet Can Show Money You Can’t Spend | Crypto Savvy | [Read More](https://medium.com/p/6e6501a8b750) |
+| Tue, 20 Jan 2026 10:38:03 GMT | What is IT Consulting? Why Businesses Can’t Ignore It in 2026 | Hassan Isa'ac Ambi | [Read More](https://medium.com/p/6b44e7c5b3a1) |
+| Tue, 20 Jan 2026 10:33:32 GMT | RFID Wallets Explained: Why UK Men Need Digital Protection in 2026 | Valtengear | [Read More](https://medium.com/p/fedcd6b80360) |
+| Tue, 20 Jan 2026 10:32:31 GMT | Google Play Integrity API in Android: Lessons from Real-World App Security | Pinankh Patel | [Read More](https://medium.com/p/9b488d904f85) |
+| Tue, 20 Jan 2026 10:31:51 GMT | 12 Browser Security Settings You Must Change Now | Amit Gorai | [Read More](https://medium.com/p/1cd00b5c5d1c) |
 | Tue, 20 Jan 2026 10:25:08 GMT | Bitunix = безопасно. Глубокий разбор защиты биржи. | Zava | [Read More](https://medium.com/p/6cf1ea4f838a) |
 | Tue, 20 Jan 2026 10:14:20 GMT | ecurBitBridge: The Authentication Nightmare That Led Me to Build a Better Solution | Muhammad Ateeb Aslam | [Read More](https://medium.com/p/1f1197468d8a) |
 | Tue, 20 Jan 2026 10:12:03 GMT | Why people aren’t interested in things neither get bored. | Rabiashaheenarif | [Read More](https://medium.com/p/0d3d0d822f44) |
@@ -100,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 Jan 2026 05:14:01 GMT | Can AI rewrite itself into near sentience and obscure provenance? | Melaine Chan | [Read More](https://medium.com/p/43a41c820c04) |
 | Tue, 20 Jan 2026 04:59:31 GMT | 10 Essential Firewatch Security Measures to Keep Sites Safe 24/7 | Reliable Security Staffing | [Read More](https://medium.com/p/fadb00dc83ae) |
 | Tue, 20 Jan 2026 04:57:38 GMT | CISSP Domain 6: Security Assessment and Testing | Pushpak Sharma | [Read More](https://medium.com/p/26fb61230c43) |
-| Tue, 20 Jan 2026 04:56:46 GMT | FFUF for subdomain enumeration | R0dss | [Read More](https://medium.com/p/6a444d420d3a) |
-| Tue, 20 Jan 2026 04:55:42 GMT | Lo-Fi Writeup | Parthbaldha | [Read More](https://medium.com/p/309e160d1837) |
-| Tue, 20 Jan 2026 04:53:11 GMT | Ethical Hacking Skills Every Cybersecurity Professional Must Have in 2026 | Anaynams | [Read More](https://medium.com/p/f3aa6d231c99) |
-| Tue, 20 Jan 2026 04:52:46 GMT | How to Fix the iThemes Security Email Not Sending Issue [Step-by-Step] | Hamza Hanif | [Read More](https://medium.com/p/112d73751825) |
-| Tue, 20 Jan 2026 04:52:45 GMT | How Does Security Awareness Training Mitigate Human Risk? | Gainside | [Read More](https://medium.com/p/ef5cdacfe73e) |
-| Tue, 20 Jan 2026 04:49:36 GMT | Kali Linux Beyond Basics: Advanced Commands Every Cybersecurity Student Should Know | Namratamali | [Read More](https://medium.com/p/c557c5e08b10) |
-| Tue, 20 Jan 2026 04:47:25 GMT | AVON: Stop Cyber-Bullying and Sucide save lives, become a hero. | AvemPierce | [Read More](https://medium.com/p/f65b0daceb7d) |
-| Tue, 20 Jan 2026 04:40:23 GMT | Detecção de Ataques no SSH: Análise de Logs e Mitigação (Blue Team) | Matheus Viana | [Read More](https://medium.com/p/14b567a1a2a6) |
-| Tue, 20 Jan 2026 04:40:14 GMT | Pico Bank Write Up - Pico CTF | Masyhudi Affandi | [Read More](https://medium.com/p/bd6cb3c9d980) |
-| Tue, 20 Jan 2026 04:38:54 GMT | Bad 2 Bad: Apocalypse Mod APK | Apkpuredev | [Read More](https://medium.com/p/dac261b8ada8) |
-| Tue, 20 Jan 2026 04:32:04 GMT | Unmasking the Binary: A Guide to Essential Malware Analysis Tools | Pratik Gurav | [Read More](https://medium.com/p/01fcb68454a0) |
-| Tue, 20 Jan 2026 04:28:39 GMT | Fortifying the Extended Team: A Governance Framework for Staff Augmentation in BFSI | Riparna Roy Chowdhury | [Read More](https://medium.com/p/dfbc9c99f7d2) |
-| Tue, 20 Jan 2026 04:19:53 GMT | Building a Threat Model Before You Start Testing | Sachin Sawant | [Read More](https://medium.com/p/e0468d6ba49d) |
