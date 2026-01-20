@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 Jan 2026 16:29:18 GMT | The New Security Paradigm: Protecting Multi-Agent AI Systems in Production | BigCodeGen | [Read More](https://medium.com/p/366525a1db7c) |
+| Tue, 20 Jan 2026 16:29:02 GMT | CVE-2025–66202: URL Double Encoding Bypass Lab | Josh Beck | [Read More](https://medium.com/p/40ecd6d6820a) |
+| Tue, 20 Jan 2026 16:22:47 GMT | Auto JAIL for SPAMERS | Nemanja Maki Maric | [Read More](https://medium.com/p/108238626e4a) |
+| Tue, 20 Jan 2026 16:20:46 GMT | How Companies Decide What and How to Protect | Sanya Sachdeva | [Read More](https://medium.com/p/2b726378d345) |
+| Tue, 20 Jan 2026 16:19:52 GMT | AI Fraud Is Heading Toward a $2 Trillion Crisis: Here’s Why We Are Launching AI Defender | Ivan Shkvarun | [Read More](https://medium.com/p/04e5845f71d8) |
+| Tue, 20 Jan 2026 16:12:07 GMT | Exploring Spanning Tree Protocol Beyond Reliability: A Layer 2 Security Perspective | codeli00n2 | [Read More](https://medium.com/p/ba40d40ec08d) |
+| Tue, 20 Jan 2026 16:10:24 GMT | CompTIA PenTest+: A Practical Guide to Ethical Hacking Certification | Varshika S | [Read More](https://medium.com/p/86e50fb175d6) |
+| Tue, 20 Jan 2026 16:04:00 GMT | The Supreme Court Case That Could Change Everything for Freight Brokers | Heesham Naji | [Read More](https://medium.com/p/ff54477d199c) |
+| Tue, 20 Jan 2026 15:56:40 GMT | Data Breach at Trusting Corp Affects a Zillion Users | Cyn Hutchinson JD | [Read More](https://medium.com/p/4bef0f9260f3) |
+| Tue, 20 Jan 2026 15:47:08 GMT | [FORECAST] Integrator CI/CD Compromise by End-2026? | Wes Young | [Read More](https://medium.com/p/8395bff21efc) |
+| Tue, 20 Jan 2026 15:40:53 GMT | 11.6.1-packet-tracer-switch-security-configuration | Nicksondiazm | [Read More](https://medium.com/p/13fde18c4cae) |
+| Tue, 20 Jan 2026 15:40:49 GMT | Top 6 Linux Text Manipulation Commands You’ll Use Every Day | CyberRabbit | [Read More](https://medium.com/p/7c96a8fd9e68) |
+| Tue, 20 Jan 2026 15:31:24 GMT | Drosera Network Proactive Security for Live Ethereum Protocols | Emiratecex | [Read More](https://medium.com/p/b3a96f20c19b) |
 | Tue, 20 Jan 2026 15:28:52 GMT | The People Who Make Me Feel Safe | Ronnie Charrier | [Read More](https://medium.com/p/6e7127c8f807) |
 | Tue, 20 Jan 2026 15:21:49 GMT | Panasonic Stock Soars to 17-Year High Amid Bold AI Transformation | Motherlandlove | [Read More](https://medium.com/p/2e4570b18c46) |
 | Tue, 20 Jan 2026 15:17:49 GMT | Accidentally making $1000 for finding Security Bugs as a Backend Developer | not_afraid | [Read More](https://medium.com/p/3e562c77eefc) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 Jan 2026 10:25:08 GMT | Bitunix = безопасно. Глубокий разбор защиты биржи. | Zava | [Read More](https://medium.com/p/6cf1ea4f838a) |
 | Tue, 20 Jan 2026 10:14:20 GMT | ecurBitBridge: The Authentication Nightmare That Led Me to Build a Better Solution | Muhammad Ateeb Aslam | [Read More](https://medium.com/p/1f1197468d8a) |
 | Tue, 20 Jan 2026 10:12:03 GMT | Why people aren’t interested in things neither get bored. | Rabiashaheenarif | [Read More](https://medium.com/p/0d3d0d822f44) |
-| Tue, 20 Jan 2026 10:11:59 GMT | Someone Can Pretend to Be You Online — And You Won’t Even Know | The Techie Indian | [Read More](https://medium.com/p/a9c5c0b7b9ce) |
-| Tue, 20 Jan 2026 09:59:00 GMT | Fake WordPress Domain Renewal Emails: A Quiet Scam You Shouldn’t Ignore | Deven Chhajed | [Read More](https://medium.com/p/9d4b59b04822) |
-| Tue, 20 Jan 2026 09:54:16 GMT | How Device Trust Score Prevents Fraud in Real Time | Mohsin Ansari | [Read More](https://medium.com/p/c389bf4efdf0) |
-| Tue, 20 Jan 2026 09:47:48 GMT | The Vulnerability Window Just Collapsed. Is Your Security Team Moving at Machine Speed? | Mercy Ajayi | [Read More](https://medium.com/p/cacafa5f4f2f) |
-| Tue, 20 Jan 2026 09:45:27 GMT | What To Do After Buying A VPS | Imron Madani | [Read More](https://medium.com/p/dec7d9c1694b) |
-| Tue, 20 Jan 2026 09:43:31 GMT | How Ransomware Attacks Have Evolved | Nexviax Technologies | [Read More](https://medium.com/p/6fd3bfff222f) |
-| Tue, 20 Jan 2026 09:42:04 GMT | The Logic of the Loop: Python for Networkers | Odunuga Abd fattah | [Read More](https://medium.com/p/0e18074670e2) |
-| Tue, 20 Jan 2026 09:40:05 GMT | “Your AI Is a Security Nightmare — And Most Companies Don’t Even Realize It” | ghostyjoe | [Read More](https://medium.com/p/19bbd9dd7bfb) |
-| Tue, 20 Jan 2026 09:32:16 GMT | Asia’s “Greenland Moment”: Preparing for a Post-American Security Order | MASUM BILLAH | [Read More](https://medium.com/p/19d54f728a0d) |
-| Tue, 20 Jan 2026 09:30:41 GMT | Bitunix: The Safest Exchange of 2026 | Olof Hakansson | [Read More](https://medium.com/p/2791c8c2f572) |
-| Tue, 20 Jan 2026 09:28:37 GMT | DOM-Based Open Redirection | Bash Overflow | [Read More](https://medium.com/p/27f87d761ff9) |
-| Tue, 20 Jan 2026 09:26:36 GMT | A Practical Security Checklist for Web, Firmware, and LLM Assessments: SecCheckmate(Open Source) | Amitishacked | [Read More](https://medium.com/p/d1128d2ac907) |
-| Tue, 20 Jan 2026 09:26:19 GMT | Security Services in Grand Prairie | US guard security company | [Read More](https://medium.com/p/78f82ac53188) |
