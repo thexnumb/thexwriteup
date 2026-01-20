@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 Jan 2026 01:21:52 GMT | 6-Day and IP Address Certificates Are Generally Available | Aman Shekhar | [Read More](https://medium.com/p/f11e8f1b05c2) |
+| Tue, 20 Jan 2026 01:19:12 GMT | “As a cybersecurity specialist, I’ve seen how one vulnerability can ruin a business. | Ahmed Abdelhamed | [Read More](https://medium.com/p/9decbac23629) |
+| Tue, 20 Jan 2026 01:15:44 GMT | The Death of Privacy: Why I Built a Calculator That Hides Your Secrets | thatredhoodedguy | [Read More](https://medium.com/p/1242e95225d4) |
+| Tue, 20 Jan 2026 01:07:52 GMT | Koobface: Blueprints for a Social Botnet | Daniel Iwugo | [Read More](https://medium.com/p/a6144c5ff03d) |
+| Tue, 20 Jan 2026 01:07:29 GMT | 100,000 WordPress Sites Affected by Privilege Escalation Vulnerability in Advanced Custom Fields… | Wordfence | [Read More](https://medium.com/p/8fff7697fed4) |
+| Tue, 20 Jan 2026 01:07:07 GMT | Building an Azure Cloud Security Detection Lab with Microsoft Sentinel: A Hands-On Guide | Eric Clark | [Read More](https://medium.com/p/05c87724ff36) |
+| Tue, 20 Jan 2026 01:06:57 GMT | Windows AD: File Shares | Shamar Isaac | [Read More](https://medium.com/p/fb92137af822) |
+| Tue, 20 Jan 2026 01:04:50 GMT | CVE-2026–21876: Critical WAF Bypass Explained | Eric Blancas | [Read More](https://medium.com/p/56cb2f4e7326) |
+| Tue, 20 Jan 2026 01:01:59 GMT | Social Engineering | Nithin | [Read More](https://medium.com/p/570511f3cf5e) |
+| Tue, 20 Jan 2026 00:57:43 GMT | Corrupted Dependency | Thiago Holmes | [Read More](https://medium.com/p/c19944031694) |
+| Tue, 20 Jan 2026 00:55:58 GMT | Design Assumptions that Age Into Exploits | Daniel Londoño B. | [Read More](https://medium.com/p/f2a7900f317c) |
+| Tue, 20 Jan 2026 00:49:57 GMT | Did Aliens Help Shape Ancient History? | Abdul | [Read More](https://medium.com/p/877faaeab82d) |
+| Tue, 20 Jan 2026 00:49:26 GMT | Unauthenticated Client-Side Prize Manipulation Vulnerability in Spin Wheel plugin | jsonc | [Read More](https://medium.com/p/a4423c12280a) |
+| Tue, 20 Jan 2026 00:38:58 GMT | Building a Recon Toolkit with Docker | Sam Hilliard | [Read More](https://medium.com/p/ec14e556f858) |
+| Tue, 20 Jan 2026 00:26:42 GMT | Breaking Authentication Without Brute Force: A Pentester’s Perspective | Michael Preston | [Read More](https://medium.com/p/19cda79f5038) |
+| Tue, 20 Jan 2026 00:02:01 GMT | Guía Maestra de Headers HTTP para Bug Bounty: Técnicas de Explotación y Bypass | JPablo13 | [Read More](https://medium.com/p/c95c265b11fb) |
+| Mon, 19 Jan 2026 23:53:19 GMT | Extra SID, Extra Trouble | DuckWrites | [Read More](https://medium.com/p/5328741d4037) |
+| Mon, 19 Jan 2026 23:47:16 GMT | The Breach Begins: Why You Need to Be Here | Iron-Breach | [Read More](https://medium.com/p/aa44ea786ae8) |
+| Mon, 19 Jan 2026 23:44:37 GMT | The Ghost Password : How a Design Flaw Led to Full Account Takeover (ATO) | xlr9 | [Read More](https://medium.com/p/52b7c1ca94fa) |
 | Mon, 19 Jan 2026 23:18:27 GMT | Hacking Windows Server: Why Your File Server is a Backdoor | Nicholas Mullenski | [Read More](https://medium.com/p/df3e0e634e98) |
 | Mon, 19 Jan 2026 22:47:16 GMT | A Single Entra ID Alert Can Be the Start of a Major Incident | Davidtolu | [Read More](https://medium.com/p/edd4606e7d20) |
 | Mon, 19 Jan 2026 22:36:57 GMT | The Need to Be Seen (and the Fear of Being Exposed) | Literary Fave | [Read More](https://medium.com/p/6835b02fe0e4) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 17:36:36 GMT | Pandemic Unemployment Assistance Fraud | Chris Perkins | [Read More](https://medium.com/p/10fa84912efc) |
 | Mon, 19 Jan 2026 17:35:40 GMT | Poisoned Pipelines: The AI Supply Chain Attack That Doesn’t Crash Anything | Phil Stafford | [Read More](https://medium.com/p/93d4a665239e) |
 | Mon, 19 Jan 2026 17:14:13 GMT | 5 Cybersecurity Myths That Refuse to Die | Abdul Ahad | [Read More](https://medium.com/p/892fe40254f9) |
-| Mon, 19 Jan 2026 17:09:49 GMT | Recover password from DELTA DOPSoft 4 .dpa | biero llagas | [Read More](https://medium.com/p/d65ee08823bc) |
-| Mon, 19 Jan 2026 17:08:56 GMT | How to Defend Against 5 Types of Threat Actors — Cybersecurity Unlocked Ep. 9 | Yash Kitey | [Read More](https://medium.com/p/12141aa79468) |
-| Mon, 19 Jan 2026 17:05:51 GMT | The Crypto-Scam Wave: A Case Study on Instagram Account Hijacking & Mitigation | Yafi Fadhali Korn | [Read More](https://medium.com/p/c6d535cf81eb) |
-| Mon, 19 Jan 2026 17:03:37 GMT | Your LLM Is Not Broken ,  Your AI System is | Gajanan Tayde | [Read More](https://medium.com/p/0bbeca18cfb0) |
-| Mon, 19 Jan 2026 17:02:01 GMT | Security in the Agent Era | Web3.com Ventures | [Read More](https://medium.com/p/987c52db5eab) |
-| Mon, 19 Jan 2026 17:02:00 GMT | Build a Secure Sandbox for Your AI Agent | Digvijay Mahapatra | [Read More](https://medium.com/p/dd67185e4761) |
-| Mon, 19 Jan 2026 17:01:59 GMT | Le piège du “toujours pas prêt” chez les autodidactes en cybersécurité | nullbyte | [Read More](https://medium.com/p/3f4eb321b6cc) |
-| Mon, 19 Jan 2026 16:54:56 GMT | The Growing Threat of Data Leakage in Generative AI Apps | Gaurav Roy CTO, Masters - BS-Cyber-Sec - MIT - LPU | [Read More](https://medium.com/p/636f99b49aa8) |
-| Mon, 19 Jan 2026 16:53:53 GMT | Where NetFlow Either Shines or Struggles | Dean | [Read More](https://medium.com/p/7e5daefc2e44) |
-| Mon, 19 Jan 2026 16:52:48 GMT | Malicious Chrome Extensions Are Taking Over Enterprise HR and ERP Systems | Chetan Seripally | [Read More](https://medium.com/p/8bf119701ad7) |
-| Mon, 19 Jan 2026 16:50:28 GMT | Inside the eCPPTv3: Exam Review (2026) and tips [EN] | Joel Morillas Pagan (Ghxstsec) | [Read More](https://medium.com/p/7e51d30c5409) |
-| Mon, 19 Jan 2026 16:49:59 GMT | Ready for Anything: A ‘When, Not If’ Approach to Enterprise Resilience | marcus evans online events | [Read More](https://medium.com/p/3cf59a0c1671) |
-| Mon, 19 Jan 2026 16:40:07 GMT | Deepfake fraud in 2026: Why voices and videos can no longer be trusted | Cordula Boeck | [Read More](https://medium.com/p/e804fd21d420) |
-| Mon, 19 Jan 2026 16:37:57 GMT | What Actually Happens After Initial Access? | Daniel Isaac E | [Read More](https://medium.com/p/62b75bc47fe4) |
-| Mon, 19 Jan 2026 16:33:47 GMT | Cyber Highlights of the Week (Jan 12–18, 2026): Everything You Need to Know | Pallavi S V | [Read More](https://medium.com/p/b8bdefb39f5b) |
-| Mon, 19 Jan 2026 16:32:07 GMT | AWS European Sovereign Cloud Goes Live — What It Means for Your Compliance Strategy | inboryn | [Read More](https://medium.com/p/90782973f2a0) |
-| Mon, 19 Jan 2026 16:31:59 GMT | MITRE Caldera: Orchestrating the Complete Attack Lifecycle | SDNTechForum | [Read More](https://medium.com/p/ccca5043ac0f) |
-| Mon, 19 Jan 2026 16:30:35 GMT | The Difference Between Finding Vulnerabilities and Understanding Risk | Digital Defense | [Read More](https://medium.com/p/0fd52bff8598) |
-| Mon, 19 Jan 2026 16:25:55 GMT | Social Engineering in 2026 Is Mostly About Timing | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/7f1197f914b4) |
