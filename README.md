@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 Jan 2026 18:35:55 GMT | How I Discovered a Legacy SOAP API Vulnerability in a University ERP | Abhishek pawar | [Read More](https://medium.com/p/19b35b91950b) |
+| Tue, 20 Jan 2026 18:28:35 GMT | Secure Kubernetes Deployment Guide (Self-Managed) — Part VII | SOCFortress | [Read More](https://medium.com/p/e03136a730e1) |
+| Tue, 20 Jan 2026 18:27:50 GMT | Introducing > PowerShell.Exposed | Alex Teixeira | [Read More](https://medium.com/p/4974fe712117) |
+| Tue, 20 Jan 2026 18:26:55 GMT | The DoD Turned AI Cybersecurity Upside Down | Darren Broemmer | [Read More](https://medium.com/p/3e48ad9dd488) |
+| Tue, 20 Jan 2026 18:26:33 GMT | How I Learned to Read DeFi Transactions Without Getting Burned | Dominic Mazzarella | [Read More](https://medium.com/p/1844c7ecfde1) |
+| Tue, 20 Jan 2026 18:22:24 GMT | Move vs Solidity: Why Language Choice Determines Security Outcomes | Marcellus Nwankwo | [Read More](https://medium.com/p/0fd541a2974e) |
+| Tue, 20 Jan 2026 18:19:30 GMT | Walkthrough Portswigger Lab: Reflected XSS with some SVG markup allowed | Amr Loksha | [Read More](https://medium.com/p/a64b2a64b015) |
+| Tue, 20 Jan 2026 18:19:01 GMT | How I Check If a Website Is Safe Before Clicking Any Link | Sadique Mannan | [Read More](https://medium.com/p/7acd71d970f6) |
+| Tue, 20 Jan 2026 18:17:42 GMT | My CTF Experience | Souhaib Saidi | [Read More](https://medium.com/p/925804c8c0a5) |
+| Tue, 20 Jan 2026 18:09:33 GMT | AI Belongs in Your SOC — Just Not Where You Think | Marwan | [Read More](https://medium.com/p/c0378e3340a8) |
+| Tue, 20 Jan 2026 18:00:22 GMT | The ‘ClickFix’ Trap Under The Hood | Haim Cohen | [Read More](https://medium.com/p/d00cf88efd7b) |
+| Tue, 20 Jan 2026 17:54:03 GMT | Building an Active Directory Home Lab from Scratch (Step-by-Step Guide) | Mohamed ali | [Read More](https://medium.com/p/771b1cb9e30c) |
+| Tue, 20 Jan 2026 17:53:53 GMT | Nmap : A Practical Guide to Port Scanning, Enumeration, and Firewall Evasion | Aravind | [Read More](https://medium.com/p/d8e5fa785ca6) |
+| Tue, 20 Jan 2026 17:52:39 GMT | What Really Happens After a Company Gets Hacked | Abdul Ahad | [Read More](https://medium.com/p/74724bbd1c49) |
+| Tue, 20 Jan 2026 17:49:30 GMT | I Hacked an Organization Starting with One Subdomain | Yash Katiyara | [Read More](https://medium.com/p/58ce6c43fec1) |
+| Tue, 20 Jan 2026 17:42:26 GMT | Modern Memento Pattern in Java 25: From Verbose Boilerplate to Compact, Intentional Design | Jitin Kayyala | [Read More](https://medium.com/p/475e3e85dfdf) |
+| Tue, 20 Jan 2026 17:38:08 GMT | Port 2049 and NFS: The Backbone of Shared Storage. | Rela Lumbini | [Read More](https://medium.com/p/1896f567fd0f) |
+| Tue, 20 Jan 2026 17:33:07 GMT | AI Agents: AresGPT Entry Level Prompt Engineering for AI Security and Strategic Thinking | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/ccdebc2e5e2c) |
 | Tue, 20 Jan 2026 17:29:13 GMT | 5 Best Wireless Hidden Nanny Cams with Audio for Peace of Mind at Home | Narjis Arshad | [Read More](https://medium.com/p/54a6d5965efd) |
 | Tue, 20 Jan 2026 17:25:55 GMT | NextJS 15/16 Production Hardening [Part 6] | Ketan Chavan | [Read More](https://medium.com/p/771f69ec02ef) |
 | Tue, 20 Jan 2026 17:15:21 GMT | Coming up at Tech Weekend January 2026 | Founders Village | [Read More](https://medium.com/p/78f2c1ad01aa) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 Jan 2026 13:01:50 GMT | Azure Governance that scales: guardrails for fast and safe delivery | Radu Vunvulea | [Read More](https://medium.com/p/2c9121cbd4ff) |
 | Tue, 20 Jan 2026 12:52:00 GMT | The Hidden Power of Shame and How Parents Can Transform It | Emberhart | [Read More](https://medium.com/p/9adb6f520724) |
 | Tue, 20 Jan 2026 12:49:49 GMT | SD-WAN: The Smart Network Layer Powering Modern Digital Businesses | Zefai Insights | [Read More](https://medium.com/p/3f2edd55f342) |
-| Tue, 20 Jan 2026 12:49:34 GMT | DOM-Based XSS: From Browser Logic to Bounty | Jayesh kunwal | [Read More](https://medium.com/p/70cf4d94f694) |
-| Tue, 20 Jan 2026 12:41:22 GMT | What Really Happens During a Darknet Market Shutdown? | Tor BBB | [Read More](https://medium.com/p/184ef1b88cfc) |
-| Tue, 20 Jan 2026 12:40:34 GMT | AI Coding Tools Require Developers to Become Better Managers and Spec Writers | Techsankar | [Read More](https://medium.com/p/580e8dc0b997) |
-| Tue, 20 Jan 2026 12:38:41 GMT | Can a Phone Really Be Hacked Using Just a Mobile Number? | Rebecca Smith | [Read More](https://medium.com/p/039af482a89f) |
-| Tue, 20 Jan 2026 12:36:56 GMT | The Architecture of Observation: Information Entropy and the Visual Interface | Akam Okokon-Teunissen | [Read More](https://medium.com/p/00d52d412482) |
-| Tue, 20 Jan 2026 12:36:03 GMT | What Really Happens When You Type a URL in Your Browser | Shalu | [Read More](https://medium.com/p/a6c8d3b56e4d) |
-| Tue, 20 Jan 2026 12:36:01 GMT | What Comes After AI in Cybersecurity Is Controlled Autonomy | Graylog | [Read More](https://medium.com/p/d4690e912729) |
-| Tue, 20 Jan 2026 12:34:50 GMT | MicroVMs for protecting agentic AI — a solution for an uprising security risk | Michael Harms | [Read More](https://medium.com/p/7b33b7ac525f) |
-| Tue, 20 Jan 2026 12:33:00 GMT | Vocabulary Deep Dive—Issue #12 | Sri Murthy | [Read More](https://medium.com/p/505172bc1ce6) |
-| Tue, 20 Jan 2026 12:30:19 GMT | Biyolojik Ağın Çöküşü: Neden Tüm Portlar Aynı Anda Kapanıyor? | Huseyin Talha Turkdogan, MSc | [Read More](https://medium.com/p/a2b510723f1d) |
-| Tue, 20 Jan 2026 12:14:44 GMT | Detecting MQTT Abuse in the Wild: Lessons from an Adaptive IIoT Honeypot | Piyali Datta | [Read More](https://medium.com/p/4e46037c69f6) |
-| Tue, 20 Jan 2026 12:11:48 GMT | CrashFix Attacks: New Browser-Crashing Malware Threatens Users and Organizations | Technijian | [Read More](https://medium.com/p/f36883425a72) |
-| Tue, 20 Jan 2026 12:04:57 GMT | Anthropic’s New Research: AI Personality Drift — A Risk You Need to Know. | Suleiman Tawil | [Read More](https://medium.com/p/39549e8e4e4f) |
-| Tue, 20 Jan 2026 11:34:36 GMT | Cybersecurity Consultant Services: Protecting Your Business in the Digital Age | SmartCLOUD Australia | [Read More](https://medium.com/p/83c8ec123826) |
-| Tue, 20 Jan 2026 11:33:26 GMT | Red Teaming Is Not About Breaking In — It’s About Proving What Actually Breaks | Delferd Neon | [Read More](https://medium.com/p/38d0960c2fad) |
-| Tue, 20 Jan 2026 11:31:54 GMT | Ethical Hacking Fundamentals | BismaAhsan | [Read More](https://medium.com/p/0c536a03377d) |
-| Tue, 20 Jan 2026 11:30:33 GMT | Where to Hire Hackers Without Getting Scammed | Cyber Tech Solutions | [Read More](https://medium.com/p/25cdc79cc67f) |
-| Tue, 20 Jan 2026 11:15:46 GMT | Web Application Security: Attacks, OWASP, Tools & Learning Platforms (Ethical Hacking Guide) | Cyber Wolf | [Read More](https://medium.com/p/71d2dd595d07) |
