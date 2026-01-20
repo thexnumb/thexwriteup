@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 Jan 2026 23:23:22 GMT | Payload Obfuscation Techniques — Making the Invisible Stay Invisible | Esra Kayhan | [Read More](https://medium.com/p/a57da0315d2d) |
+| Tue, 20 Jan 2026 23:22:57 GMT | Offensive Forensics — In-Depth Guide | Esra Kayhan | [Read More](https://medium.com/p/5d4f05be6691) |
+| Tue, 20 Jan 2026 23:19:22 GMT | 17.5 Million Users Exposed: The Structural Failure of Instagram’s Business Logic (Full Report) | Saad Khalid | [Read More](https://medium.com/p/d3f3f01f5beb) |
+| Tue, 20 Jan 2026 23:18:04 GMT | Advent of Cyber — Day 22: C2 Detection — Command & Carol | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/77199db0ac65) |
+| Tue, 20 Jan 2026 23:17:48 GMT | Advent of Cyber — Day 21: Malware Analysis — Malhare.exe | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/6656e34716a0) |
+| Tue, 20 Jan 2026 23:13:43 GMT | The CISO’s Guide to GenAI Risks: The Real Security Pain Points Nobody Prepared For | Cyber-AppSec | [Read More](https://medium.com/p/bff03ac06759) |
+| Tue, 20 Jan 2026 23:11:57 GMT | HackTheBox Cap Writeup | Filip Nikolic | [Read More](https://medium.com/p/aefb037d6398) |
+| Tue, 20 Jan 2026 23:10:21 GMT | What Is Ethical Hacking? Complete Beginner’s Guide | Cyberly.org | [Read More](https://medium.com/p/76ddae915ad6) |
+| Tue, 20 Jan 2026 22:49:54 GMT | Ultimate Guide to Getting Started in Cybersecurity in 2026 | Cyberly.org | [Read More](https://medium.com/p/1197c32f7eb4) |
 | Tue, 20 Jan 2026 22:26:30 GMT | Quantum Computing: A silent Threat to the Blochchain and How ITS can help | Monarch | [Read More](https://medium.com/p/d8f204b763c0) |
 | Tue, 20 Jan 2026 22:20:02 GMT | I Built a System That Hides Encrypted Messages Inside Legal Chess Games | Atharva Sen Barai | [Read More](https://medium.com/p/1821eb1c92b3) |
 | Tue, 20 Jan 2026 22:17:13 GMT | Why every iPhone user should update to iOS 26 now: a plain language guide | Scott Hynd | [Read More](https://medium.com/p/ea6644319681) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 Jan 2026 15:40:49 GMT | Top 6 Linux Text Manipulation Commands You’ll Use Every Day | CyberRabbit | [Read More](https://medium.com/p/7c96a8fd9e68) |
 | Tue, 20 Jan 2026 15:31:24 GMT | Drosera Network Proactive Security for Live Ethereum Protocols | Emiratecex | [Read More](https://medium.com/p/b3a96f20c19b) |
 | Tue, 20 Jan 2026 15:28:52 GMT | The People Who Make Me Feel Safe | Ronnie Charrier | [Read More](https://medium.com/p/6e7127c8f807) |
-| Tue, 20 Jan 2026 15:21:49 GMT | Panasonic Stock Soars to 17-Year High Amid Bold AI Transformation | Motherlandlove | [Read More](https://medium.com/p/2e4570b18c46) |
-| Tue, 20 Jan 2026 15:17:49 GMT | Accidentally making $1000 for finding Security Bugs as a Backend Developer | not_afraid | [Read More](https://medium.com/p/3e562c77eefc) |
-| Tue, 20 Jan 2026 15:17:03 GMT | Collection of CTF challenges, hands-on and cybersecurity articles | Abdelwahab A. Shandy | [Read More](https://medium.com/p/6af8b9551f01) |
-| Tue, 20 Jan 2026 15:13:08 GMT | How Solo Developers Can Sell Security Audits Without Being Experts | Ms. Byte Dev | [Read More](https://medium.com/p/09753b92d794) |
-| Tue, 20 Jan 2026 15:06:53 GMT | SSL, TLS, and HTTPS Explained the Way Interviewers Expect | Kavya's Programming Path | [Read More](https://medium.com/p/88df068b58d7) |
-| Tue, 20 Jan 2026 15:05:43 GMT | Inside a Modern Security Detection Pipeline | Pranav Dixit | [Read More](https://medium.com/p/38fce8d28f5f) |
-| Tue, 20 Jan 2026 15:02:05 GMT | Cyber Briefing: 2026.01.20 | CyberMaterial | [Read More](https://medium.com/p/50f22b9ba4c9) |
-| Tue, 20 Jan 2026 15:02:02 GMT | IAM is Finally Breaking and Agents are the Tipping Point | Jesse Scott | [Read More](https://medium.com/p/4e7309f3e9dd) |
-| Tue, 20 Jan 2026 15:02:01 GMT | 5 Cybersecurity Skills That Pay Without Certifications | Ms. Byte Dev | [Read More](https://medium.com/p/427dedf0ad03) |
