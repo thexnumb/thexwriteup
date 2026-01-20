@@ -12,8 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 Jan 2026 21:25:48 GMT | “From the fracture, we can build something better, stronger, and more just” | Bart Édes | [Read More](https://medium.com/p/996f476caf96) |
 | Tue, 20 Jan 2026 21:23:14 GMT | TryHackMe Basic Pentesting: Fuerza Bruta y Escalada de Privilegios. | Jonathan Sebastian Pastas | [Read More](https://medium.com/p/53b29bebe48b) |
 | Tue, 20 Jan 2026 21:22:53 GMT | AI Computer Use Agents on PiKVM: Advancing Autonomy in Physical Computing | Kwaw Fletcher Frimpong | [Read More](https://medium.com/p/4e36387539e6) |
+| Tue, 20 Jan 2026 21:22:19 GMT | Bitwarden Lite vs. Vaultwarden: Der große Vergleich inkl. Installations-Guide | Wolfgang | [Read More](https://medium.com/p/dbbabc8bf89a) |
 | Tue, 20 Jan 2026 21:20:00 GMT | USDT RECOVERY EXPERT | ISLA ROSE | [Read More](https://medium.com/p/c4daf12cb4be) |
 | Tue, 20 Jan 2026 21:02:59 GMT | Bypassing Frida: Advanced Frida Detection Bypass — Part 1 | Haxymad | [Read More](https://medium.com/p/cc7c1dfbad9d) |
 | Tue, 20 Jan 2026 21:00:31 GMT | How to complete sunset:1 CTF challenge | Bibin | [Read More](https://medium.com/p/e02a27602132) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 Jan 2026 14:51:16 GMT | How Attackers Abuse Microsoft Infrastructure — And Why Most SOCs Misread the Results | Pablo Echeverria | [Read More](https://medium.com/p/cc8f177c88e3) |
 | Tue, 20 Jan 2026 14:50:22 GMT | Restore Windows Explorer Stability Without Full Reinstalls | Geoffrey Wenger | [Read More](https://medium.com/p/05758f2e82d3) |
 | Tue, 20 Jan 2026 14:50:15 GMT | Understanding SMB Relay Attacks: Abusing NTLM with DNS and ARP Spoofing | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/26f4c50cffe3) |
-| Tue, 20 Jan 2026 14:37:36 GMT | Automating Tor Hidden Services for Red Team Infrastructure | Rafikdz | [Read More](https://medium.com/p/58cc6c12d468) |
-| Tue, 20 Jan 2026 14:36:59 GMT | The Minimum Security Checklist Every Web App Must Have | Code Catalyst | [Read More](https://medium.com/p/a246ecca516c) |
