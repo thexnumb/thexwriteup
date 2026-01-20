@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 Jan 2026 04:47:25 GMT | AVON: Stop Cyber-Bullying and Sucide save lives, become a hero. | AvemPierce | [Read More](https://medium.com/p/f65b0daceb7d) |
+| Tue, 20 Jan 2026 04:40:14 GMT | Pico Bank Write Up - Pico CTF | Masyhudi Affandi | [Read More](https://medium.com/p/bd6cb3c9d980) |
+| Tue, 20 Jan 2026 04:38:54 GMT | Bad 2 Bad: Apocalypse Mod APK | Apkpuredev | [Read More](https://medium.com/p/dac261b8ada8) |
+| Tue, 20 Jan 2026 04:32:04 GMT | Unmasking the Binary: A Guide to Essential Malware Analysis Tools | Pratik Gurav | [Read More](https://medium.com/p/01fcb68454a0) |
+| Tue, 20 Jan 2026 04:28:39 GMT | Fortifying the Extended Team: A Governance Framework for Staff Augmentation in BFSI | Riparna Roy Chowdhury | [Read More](https://medium.com/p/dfbc9c99f7d2) |
+| Tue, 20 Jan 2026 04:19:53 GMT | Building a Threat Model Before You Start Testing | Sachin Sawant | [Read More](https://medium.com/p/e0468d6ba49d) |
+| Tue, 20 Jan 2026 04:19:28 GMT | OverTheWire Bandit (Day 18): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/67e68069a686) |
+| Tue, 20 Jan 2026 04:02:54 GMT | The Clippy Comeback: How a Forgotten Paperclip Became the Face of Protest Against Big Tech’s… | Infinite Solutions by J. I. Memphis | [Read More](https://medium.com/p/4fffad20c7dd) |
+| Tue, 20 Jan 2026 03:55:46 GMT | Sun Tzu on Cybersecurity Leadership | Miles Fisher | [Read More](https://medium.com/p/e8fa8c5885fc) |
+| Tue, 20 Jan 2026 03:49:56 GMT | I Hope Knowing Me Doesn’t Lead to Loving Me Less | Mardiana Ayu | [Read More](https://medium.com/p/1c25c53aad75) |
+| Tue, 20 Jan 2026 03:46:08 GMT | Is Your Phone Being Tracked? Here’s How to Find Out Before It’s Too Late | Hameedduke | [Read More](https://medium.com/p/0b26923f4a52) |
+| Tue, 20 Jan 2026 03:43:39 GMT | Why I Finally Kicked Ring to the Curb After 4 Years — and Why You Should Too | Behind The Build | [Read More](https://medium.com/p/304fbbff0e0b) |
+| Tue, 20 Jan 2026 03:43:10 GMT | Beyond GPS, How a European Satellite Alliance is Paving the Way for Ubiquitous IoT and 6G | Aldi Syaputra | [Read More](https://medium.com/p/cc439307e7fb) |
 | Tue, 20 Jan 2026 03:32:24 GMT | Cracking Password-Protected ZIP Files Using Fcrackzip on Metasploitable 2 | Cybeague Technologies | [Read More](https://medium.com/p/9eb78ac6503f) |
 | Tue, 20 Jan 2026 03:31:27 GMT | Medusa Brute Force Attack on Metasploitable 2 | Cybeague Technologies | [Read More](https://medium.com/p/cc6202ec3709) |
 | Tue, 20 Jan 2026 03:26:57 GMT | The Cost of Silence | Kiki Yulia | [Read More](https://medium.com/p/dd20d2d94f1b) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 19:19:12 GMT | My First Step into Cybersecurity: Real Talk | P Sam Tarun | [Read More](https://medium.com/p/610c1147334f) |
 | Mon, 19 Jan 2026 19:16:53 GMT | Engineering Ultra-Stealth Covert Communication in VoLTE via Silence Period Dynamics | Reza Harirchian | [Read More](https://medium.com/p/a79f663598b0) |
 | Mon, 19 Jan 2026 19:16:36 GMT | The Complete Guide to HTB’s Login Brute Forcing Module (Everything You Need to Know)https://academy. | Faisal Shahzad | [Read More](https://medium.com/p/d0322aef0b84) |
-| Mon, 19 Jan 2026 19:13:03 GMT | An Analysis of the Next Ten Years of Cybersecurity: 2026–2036 | Laura Garcia | [Read More](https://medium.com/p/f6df127cd7f5) |
-| Mon, 19 Jan 2026 19:08:30 GMT | Explorando uma “Chain”: Cache Poisoning + OpenID Misconfiguration = ATO | Wesley "dk4trin" Santos | [Read More](https://medium.com/p/65a5f4210887) |
-| Mon, 19 Jan 2026 19:02:00 GMT | Anti-Spyware | Iram Jack | [Read More](https://medium.com/p/e66be24ece37) |
-| Mon, 19 Jan 2026 19:01:16 GMT | QUIC Forensics Using Initial Packets: Hunting Clues in Encrypted Traffic | Fatima Zakir | [Read More](https://medium.com/p/b3712c6477be) |
-| Mon, 19 Jan 2026 18:56:18 GMT | Types of Footprinting in Cyber Security — Passive vs Active Explained | Shadow Attackers | [Read More](https://medium.com/p/799342ed8ac0) |
-| Mon, 19 Jan 2026 18:43:34 GMT | How Emails Really Work: A Simple Guide to Sending from Gmail to Hotmail | ANJAN SHARMA | [Read More](https://medium.com/p/9fa6f213e313) |
-| Mon, 19 Jan 2026 18:42:16 GMT | 4 AI Conversation Hacks to Save You the Headache | Manpreet Singh | [Read More](https://medium.com/p/7b5c02a85aa5) |
-| Mon, 19 Jan 2026 18:35:49 GMT | Lab: Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single… | KRY | [Read More](https://medium.com/p/a9668548e194) |
-| Mon, 19 Jan 2026 18:35:30 GMT | A Routine Click Revealed a Production Smell I Couldn’t Ignore | The Latency Gambler | [Read More](https://medium.com/p/c1cf26be7493) |
-| Mon, 19 Jan 2026 18:34:10 GMT | Breaking into Orbit: A CloudSEK CTF Web Exploitation Walkthrough | sushi | [Read More](https://medium.com/p/b5b24249607e) |
-| Mon, 19 Jan 2026 18:33:52 GMT | Why Phishing Still Works (Even If You Know About It) | PriOFF | [Read More](https://medium.com/p/74a0b4c2b8f5) |
-| Mon, 19 Jan 2026 18:30:55 GMT | Understanding Modern DDoS Attacks: Detection, Botnets, and Adaptive Defense Strategies | Erik soto | [Read More](https://medium.com/p/453bfcbcaeba) |
-| Mon, 19 Jan 2026 18:24:29 GMT | Analyzing 15 Days of Telnet Honeypot Data: | berke bodur | [Read More](https://medium.com/p/de007ca66d0c) |
