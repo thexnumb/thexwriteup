@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 Jan 2026 07:21:33 GMT | How I “Hacked” 10+ Companies in 30 Minutes (By Clicking ‘Sign Up’) | Majid Mohammed | [Read More](https://medium.com/p/a55141584d35) |
+| Tue, 20 Jan 2026 07:20:47 GMT | How Network Support Drives Cost-Efficient IT Operations for Growing Businesses | Gavin Ellis | [Read More](https://medium.com/p/e7c6d4692669) |
+| Tue, 20 Jan 2026 07:15:38 GMT | … | Macky  (TheNMAPGuy)  Matsunaga | [Read More](https://medium.com/p/fbfe57fae815) |
+| Tue, 20 Jan 2026 07:12:16 GMT | Redefining Freedom this Republic Day: Why the Fingerlock Leather Backpack is the Future of Secure… | Ramesh Raj | [Read More](https://medium.com/p/2f2fc557babd) |
+| Tue, 20 Jan 2026 07:11:37 GMT | The Quiet Kind of Crying | Prachi Chauhan | [Read More](https://medium.com/p/b75dd60ea6b2) |
+| Tue, 20 Jan 2026 07:07:40 GMT | Writers Can Use AI to Write? An Opinionated Guide to AI Use | Basit Ali | [Read More](https://medium.com/p/f36a1ffa7c8f) |
+| Tue, 20 Jan 2026 07:00:03 GMT | Total Security Solutions: The Future of Electronic Security Solutions in a Rapidly Growing World | Ciss India | [Read More](https://medium.com/p/af487c6265a1) |
+| Tue, 20 Jan 2026 06:49:51 GMT | Web Decode (Easy) | Destripador | [Read More](https://medium.com/p/b192fa84d09b) |
+| Tue, 20 Jan 2026 06:48:54 GMT | The Invisible You: Your Personal Data is More Exposed Than You Think | Vidoq | [Read More](https://medium.com/p/9eb57a98ec81) |
+| Tue, 20 Jan 2026 06:48:21 GMT | Professional Denver Roofer & San Antonio Roofer You Can Rely On | Kidd Roofing | [Read More](https://medium.com/p/c6a7817640ba) |
+| Tue, 20 Jan 2026 06:47:07 GMT | Programming Tech That Ages Well Versus Tools That Rot Fast | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/aa4649511d46) |
 | Tue, 20 Jan 2026 06:33:12 GMT | When AI Agents Go Rogue - The Daily Tech Digest: 20 January 2026 | Souren Stepanyan | [Read More](https://medium.com/p/e8f272619e9b) |
+| Tue, 20 Jan 2026 06:29:44 GMT | “When Being Sick Makes Me Needier” | ilpa mutiarasari | [Read More](https://medium.com/p/47416ba44778) |
 | Tue, 20 Jan 2026 06:17:00 GMT | IAM 101: The Reality, The Hype, and Why “Identity” is the New Firewall | Abhijith Soman | [Read More](https://medium.com/p/83d6a49021cb) |
 | Tue, 20 Jan 2026 06:09:18 GMT | Cyber Fraud Help Desk: Get Trusted Support Against Online Scams with SADI | SADI AI | [Read More](https://medium.com/p/0f1b10d63af6) |
 | Tue, 20 Jan 2026 06:08:45 GMT | Fixing “No Space Left on Device” in a VirtualBox Ubuntu VM (for Splunk Labs) | Jason Hoskins Jr. | [Read More](https://medium.com/p/0be914714d41) |
@@ -101,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 19 Jan 2026 22:03:59 GMT | Microsegmentation: The Next Evolution of Network Security | Raviteja Mureboina | [Read More](https://medium.com/p/830037f78a7f) |
 | Mon, 19 Jan 2026 22:03:38 GMT | Cybersecurity ethics and the security of information in a global posture | Joe Alongi | [Read More](https://medium.com/p/4e68fa49a9e0) |
 | Mon, 19 Jan 2026 22:03:15 GMT | Building a Threat Detection Lab: Integrating Wazuh, Suricata, and Virus Total | Anjolaoluwa Adegbite | [Read More](https://medium.com/p/a60bc03000e0) |
-| Mon, 19 Jan 2026 22:02:49 GMT | I Asked an AI About Its Security Policies: It Gave Me the API Key | Onurcan Genç | [Read More](https://medium.com/p/784292d728dd) |
-| Mon, 19 Jan 2026 22:00:29 GMT | EscapeRoom Lab — Write-up | 0xTT-byte | [Read More](https://medium.com/p/d96ae88e5edc) |
-| Mon, 19 Jan 2026 21:53:21 GMT | Day 20 — Race Conditions — Toy to The World | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/5c621815c9ac) |
-| Mon, 19 Jan 2026 21:49:27 GMT | Day 19 — ICS / ModbusClaus for Concern | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/87d8f5b0ac7e) |
-| Mon, 19 Jan 2026 21:48:10 GMT | Digital Resilience Is a Leadership Discipline, Not a Security Program | Faraz Ishaq | [Read More](https://medium.com/p/fda8d6070248) |
-| Mon, 19 Jan 2026 21:40:24 GMT | Cloud Security Impact on U.S. Business Growth and Enterprise Strategy in 2025 | Jemii Zied | [Read More](https://medium.com/p/c20579fc8ee2) |
-| Mon, 19 Jan 2026 21:39:43 GMT | Zero Trust is a Topology Change, not an Identity Layer | Levente Simon | [Read More](https://medium.com/p/c78b8273cf8e) |
-| Mon, 19 Jan 2026 21:39:04 GMT | Haskhell Write-up | Tanuik Kendrick | [Read More](https://medium.com/p/1700d924dc2e) |
-| Mon, 19 Jan 2026 21:30:24 GMT | The Most Fragile Link in the Digital World | Michael Zibulevsky | [Read More](https://medium.com/p/c3479f27a28d) |
-| Mon, 19 Jan 2026 21:22:27 GMT | Типи оболонок (shells) | Fl4g Hunt3r Project | [Read More](https://medium.com/p/3de3d96477eb) |
-| Mon, 19 Jan 2026 21:22:16 GMT | 6 AI cybersecurity projects to build your portfolio in 2026 (that aren’t basic) | h@shtalk | [Read More](https://medium.com/p/57e6be5d5ece) |
-| Mon, 19 Jan 2026 21:20:26 GMT | RST TI Report Digest: 19 Jan 2026 | RST Cloud | [Read More](https://medium.com/p/d00bf0692bcd) |
