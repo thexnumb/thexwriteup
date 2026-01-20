@@ -12,8 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 20 Jan 2026 15:28:52 GMT | The People Who Make Me Feel Safe | Ronnie Charrier | [Read More](https://medium.com/p/6e7127c8f807) |
+| Tue, 20 Jan 2026 15:21:49 GMT | Panasonic Stock Soars to 17-Year High Amid Bold AI Transformation | Motherlandlove | [Read More](https://medium.com/p/2e4570b18c46) |
+| Tue, 20 Jan 2026 15:17:49 GMT | Accidentally making $1000 for finding Security Bugs as a Backend Developer | not_afraid | [Read More](https://medium.com/p/3e562c77eefc) |
+| Tue, 20 Jan 2026 15:17:03 GMT | Collection of CTF challenges, hands-on and cybersecurity articles | Abdelwahab A. Shandy | [Read More](https://medium.com/p/6af8b9551f01) |
+| Tue, 20 Jan 2026 15:13:08 GMT | How Solo Developers Can Sell Security Audits Without Being Experts | Ms. Byte Dev | [Read More](https://medium.com/p/09753b92d794) |
+| Tue, 20 Jan 2026 15:06:53 GMT | SSL, TLS, and HTTPS Explained the Way Interviewers Expect | Kavya's Programming Path | [Read More](https://medium.com/p/88df068b58d7) |
+| Tue, 20 Jan 2026 15:05:43 GMT | Inside a Modern Security Detection Pipeline | Pranav Dixit | [Read More](https://medium.com/p/38fce8d28f5f) |
+| Tue, 20 Jan 2026 15:02:05 GMT | Cyber Briefing: 2026.01.20 | CyberMaterial | [Read More](https://medium.com/p/50f22b9ba4c9) |
+| Tue, 20 Jan 2026 15:02:02 GMT | IAM is Finally Breaking and Agents are the Tipping Point | Jesse Scott | [Read More](https://medium.com/p/4e7309f3e9dd) |
+| Tue, 20 Jan 2026 15:02:01 GMT | 5 Cybersecurity Skills That Pay Without Certifications | Ms. Byte Dev | [Read More](https://medium.com/p/427dedf0ad03) |
+| Tue, 20 Jan 2026 15:00:51 GMT | The Real Complexity Behind Building Your Own Digital Asset Vault | John Galt | [Read More](https://medium.com/p/bea8410ce71b) |
+| Tue, 20 Jan 2026 14:58:18 GMT | HTB Legacy Machine Walkthrough | Brian Courtney | [Read More](https://medium.com/p/0b35f494643a) |
+| Tue, 20 Jan 2026 14:55:21 GMT | The Psychology of Cybersecurity: Why Humans Remain the Weakest Link | Succedence | [Read More](https://medium.com/p/65d06539be8d) |
+| Tue, 20 Jan 2026 14:54:17 GMT | The “Triple Threat” of 2026: Why Your AI Workforce Is Your Biggest Security Blind Spot | Ken Buckler | [Read More](https://medium.com/p/4615f69bfc51) |
+| Tue, 20 Jan 2026 14:51:45 GMT | Office Politics Is a Bigger Skill Than Coding in IT | Karthick Dk | [Read More](https://medium.com/p/a3b3c29115c8) |
+| Tue, 20 Jan 2026 14:51:16 GMT | How Attackers Abuse Microsoft Infrastructure — And Why Most SOCs Misread the Results | Pablo Echeverria | [Read More](https://medium.com/p/cc8f177c88e3) |
+| Tue, 20 Jan 2026 14:50:22 GMT | Restore Windows Explorer Stability Without Full Reinstalls | Geoffrey Wenger | [Read More](https://medium.com/p/05758f2e82d3) |
+| Tue, 20 Jan 2026 14:50:15 GMT | Understanding SMB Relay Attacks: Abusing NTLM with DNS and ARP Spoofing | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/26f4c50cffe3) |
+| Tue, 20 Jan 2026 14:37:36 GMT | Automating Tor Hidden Services for Red Team Infrastructure | Rafikdz | [Read More](https://medium.com/p/58cc6c12d468) |
+| Tue, 20 Jan 2026 14:36:59 GMT | The Minimum Security Checklist Every Web App Must Have | Code Catalyst | [Read More](https://medium.com/p/a246ecca516c) |
 | Tue, 20 Jan 2026 14:32:19 GMT | Hacking a Windows 10 Computer and Accessing the Webcam: A Course Teaser | Vignesh R | [Read More](https://medium.com/p/385d8fe5aaec) |
 | Tue, 20 Jan 2026 14:30:44 GMT | Entenda sobre CORS (Cross-Origin Resource Sharing) | Priscilla Oliveira | [Read More](https://medium.com/p/ffd4a22d7a04) |
+| Tue, 20 Jan 2026 14:24:55 GMT | The more convenient a security setting is, the more important it is to understand when and where it… | uttam | [Read More](https://medium.com/p/c0e62118c488) |
 | Tue, 20 Jan 2026 14:23:15 GMT | OTP Is Not Security Anymore — Awareness Is | Ankit rai | [Read More](https://medium.com/p/632cd812ac89) |
 | Tue, 20 Jan 2026 14:22:23 GMT | Why Modern Security Requires an Attacker’s Perspective | Digital Defense | [Read More](https://medium.com/p/36d6ffdfb2be) |
 | Tue, 20 Jan 2026 14:20:23 GMT | Data Security in 2026: Strategies Businesses Must Adopt to Protect Critical Information | Techridge Solutions | [Read More](https://medium.com/p/078cbf8752d5) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 Jan 2026 09:28:37 GMT | DOM-Based Open Redirection | Bash Overflow | [Read More](https://medium.com/p/27f87d761ff9) |
 | Tue, 20 Jan 2026 09:26:36 GMT | A Practical Security Checklist for Web, Firmware, and LLM Assessments: SecCheckmate(Open Source) | Amitishacked | [Read More](https://medium.com/p/d1128d2ac907) |
 | Tue, 20 Jan 2026 09:26:19 GMT | Security Services in Grand Prairie | US guard security company | [Read More](https://medium.com/p/78f82ac53188) |
-| Tue, 20 Jan 2026 09:23:53 GMT | Bonjour service on Windows11 | 0xLuk3 | [Read More](https://medium.com/p/6af02df596ee) |
-| Tue, 20 Jan 2026 09:16:19 GMT | [Writeup] Proving Grounds: Plum (Linux) | Bassey Ekemini E | [Read More](https://medium.com/p/19b53a57ae33) |
-| Tue, 20 Jan 2026 09:15:58 GMT | From Recon To Response: OSINT’s Role In Cyber Defense | Redfox Security | [Read More](https://medium.com/p/fa0d82af790d) |
-| Tue, 20 Jan 2026 09:13:57 GMT | Dijital Tehditlerin İnsani Yüzü: HUMINT, Siber Tehdit İstihbaratı ve Siber Terörizm | Ziya Gokalp | [Read More](https://medium.com/p/29a2c1997656) |
-| Tue, 20 Jan 2026 09:13:24 GMT | Intelligence Collection Disciplines: How Information Becomes Power | Ziya Gokalp | [Read More](https://medium.com/p/9259c145f44f) |
-| Tue, 20 Jan 2026 09:12:01 GMT | Vos fichiers partagés en ligne alimentent peut-être des IA sans votre consentement | Stephane | [Read More](https://medium.com/p/8be114104384) |
-| Tue, 20 Jan 2026 09:03:30 GMT | HOW ILLICIT ARMS FUELS MASS KILLINGS IN NIGERIA Nigeria’s recurring waves of mass killings… | Glorykuyahar | [Read More](https://medium.com/p/395a82fd3d5f) |
-| Tue, 20 Jan 2026 09:03:17 GMT | Stop Uploading Your Private Files! Here’s How to Watermark PDFs Safely in Seconds | Nasaj – Developer & Creator of NasajTools | [Read More](https://medium.com/p/dda4ac142d4c) |
-| Tue, 20 Jan 2026 09:02:03 GMT | ATT&CK v18: “Do we actually have the logs?” | Sebastien Lehuede | [Read More](https://medium.com/p/2b4addb98e77) |
-| Tue, 20 Jan 2026 09:02:01 GMT | Ukraine War: The Lesser-Known News 1/20/26 | Kevin Fitzgerald | [Read More](https://medium.com/p/b91679712132) |
-| Tue, 20 Jan 2026 08:56:44 GMT | BUSINESS LOGIC FLAWS | KLEAP Institute of Information Security | [Read More](https://medium.com/p/c1ac06f1ca55) |
-| Tue, 20 Jan 2026 08:51:06 GMT | Securing Angular Apps: Insights from a Decade of Frontend Engineering | Sowndarya Kurri | [Read More](https://medium.com/p/e579565f5722) |
-| Tue, 20 Jan 2026 08:50:00 GMT | SWIMMER OSINT CTF 2026: Writeup | CYB3R-BO1 | [Read More](https://medium.com/p/4b84403620b0) |
-| Tue, 20 Jan 2026 08:48:26 GMT | What Is a Man-in-the-Middle (MITM) Attack and How It Works | BHARGAV SANDILYA | [Read More](https://medium.com/p/9663b7049afb) |
-| Tue, 20 Jan 2026 08:42:01 GMT | Why Las Vegas Businesses Need Professional Security Patrol Services | Palisade Defense | [Read More](https://medium.com/p/b5c8a57fc669) |
-| Tue, 20 Jan 2026 08:28:28 GMT | From Idea to App (How Digital Teams Build Smarter Platforms) | Tech and Marketing Journal | [Read More](https://medium.com/p/67effb1a0955) |
-| Tue, 20 Jan 2026 08:25:26 GMT | How to Spot a Liar in 3 Questions (Without Them Knowing) | Vijay Kumar Gupta | [Read More](https://medium.com/p/f776d03d3bea) |
-| Tue, 20 Jan 2026 08:24:00 GMT | Dynamic Obfuscation: Random Class Name Generation | zerg 1111 | [Read More](https://medium.com/p/9feb8fa3fc23) |
-| Tue, 20 Jan 2026 08:23:15 GMT | Best AI and Machine Learning Courses in Delhi (2026 Complete Guide) | Manisha Chaudhary | [Read More](https://medium.com/p/9f96709173bb) |
-| Tue, 20 Jan 2026 08:21:56 GMT | All Major OSINT Tools on the Internet (2026 Edition) | Nazrul Islam Rana | [Read More](https://medium.com/p/5268b5c349b3) |
-| Tue, 20 Jan 2026 08:21:46 GMT | Types of Fire Fighting Systems Used in Kerala Buildings | Berkshire Hathaway | [Read More](https://medium.com/p/7c42fb5a8067) |
