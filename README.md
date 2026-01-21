@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 Jan 2026 08:28:55 GMT | Is Passkey Really “Invincible”? — The 6-Digit Shadow Lurking in iOS Design | Ryu360 | [Read More](https://medium.com/p/4a1e28cfca91) |
+| Wed, 21 Jan 2026 08:22:39 GMT | Cybersecurity Awareness Isn’t Just Training — It’s Culture | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/7780efc53a1d) |
+| Wed, 21 Jan 2026 08:11:51 GMT | Why I’m Starting My Cybersecurity Journey As A Student | Chandupa Vihasitha | [Read More](https://medium.com/p/30fa6d443307) |
+| Wed, 21 Jan 2026 08:11:10 GMT | How Access Control Works with AI Agents: Why Traditional Models Fail | Naveen C | [Read More](https://medium.com/p/7ef79c77dc63) |
+| Wed, 21 Jan 2026 08:05:54 GMT | 我的 PKI 筆記 | MichaelXiao | [Read More](https://medium.com/p/0c2ffb76e404) |
+| Wed, 21 Jan 2026 08:02:43 GMT | Why ServiceNow SecOps Implementations Fail Without Expert Configuration | Gavin Ellis | [Read More](https://medium.com/p/5980d6549175) |
+| Wed, 21 Jan 2026 08:00:19 GMT | The European Space Agency Breach and the Myth of Being Too Advanced to Hack | Prerna Shukla | [Read More](https://medium.com/p/893380de967d) |
+| Wed, 21 Jan 2026 07:59:20 GMT | Armed vs Unarmed Security Officers: What Actually Sets Them Apart | TCS Security | [Read More](https://medium.com/p/55a0fdf987b8) |
+| Wed, 21 Jan 2026 07:57:46 GMT | Hack The Box — HackNet Machine Walk-through | SubhaDip | [Read More](https://medium.com/p/987aabeac0c9) |
+| Wed, 21 Jan 2026 07:44:16 GMT | Beyond Defense: The Geopolitics and Future of Quantum Security | Harsh Bhogayata | [Read More](https://medium.com/p/52833d5d297e) |
+| Wed, 21 Jan 2026 07:43:33 GMT | “When Knowledge Isn’t the Problem: What My First Cybersecurity Interview Taught Me” | Cybersickerhub | [Read More](https://medium.com/p/12ae920b58df) |
+| Wed, 21 Jan 2026 07:42:07 GMT | The Great Migration: How to Move the World to Quantum Safety | Harsh Bhogayata | [Read More](https://medium.com/p/4f9375b7510f) |
+| Wed, 21 Jan 2026 07:35:04 GMT | Urgent Apple Alert: Millions of iPhones and iPads at Security Risk — Update Now. | eL Njas!™ | [Read More](https://medium.com/p/d33283d49b96) |
+| Wed, 21 Jan 2026 07:34:42 GMT | # Breaking EKS: Authentication Mechanisms Deep Dive — IRSA vs Pod Identity from an Attacker’s Lens | Devanshu | [Read More](https://medium.com/p/52f799190ac0) |
+| Wed, 21 Jan 2026 07:34:07 GMT | SOC Analyst Foundation — Day 2: Networking Basics That Actually Matter | Faizan Nazir | [Read More](https://medium.com/p/818db2e308c5) |
 | Wed, 21 Jan 2026 07:24:27 GMT | AI Dashboards & Analytics: Turning Data into Decisions (2024–2025 Perspective) | Zefai Insights | [Read More](https://medium.com/p/7875b0cb555a) |
 | Wed, 21 Jan 2026 07:19:26 GMT | LLMs and GENAI Apps: Risk & Mitigations — Part 6: Improper Output Handling! | Nothing Cyber [NC] | [Read More](https://medium.com/p/48debad979c1) |
 | Wed, 21 Jan 2026 07:14:37 GMT | The Cybersecurity Hallows | Nidhisharma Freelancework | [Read More](https://medium.com/p/9fbb443d6166) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 Jan 2026 23:23:22 GMT | Payload Obfuscation Techniques — Making the Invisible Stay Invisible | Esra Kayhan | [Read More](https://medium.com/p/a57da0315d2d) |
 | Tue, 20 Jan 2026 23:22:57 GMT | Offensive Forensics — In-Depth Guide | Esra Kayhan | [Read More](https://medium.com/p/5d4f05be6691) |
 | Tue, 20 Jan 2026 23:19:22 GMT | 17.5 Million Users Exposed: The Structural Failure of Instagram’s Business Logic (Full Report) | Saad Khalid | [Read More](https://medium.com/p/d3f3f01f5beb) |
-| Tue, 20 Jan 2026 23:18:04 GMT | Advent of Cyber — Day 22: C2 Detection — Command & Carol | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/77199db0ac65) |
-| Tue, 20 Jan 2026 23:17:48 GMT | Advent of Cyber — Day 21: Malware Analysis — Malhare.exe | Samuel Mikeng Mbongo | [Read More](https://medium.com/p/6656e34716a0) |
-| Tue, 20 Jan 2026 23:13:43 GMT | The CISO’s Guide to GenAI Risks: The Real Security Pain Points Nobody Prepared For | Cyber-AppSec | [Read More](https://medium.com/p/bff03ac06759) |
-| Tue, 20 Jan 2026 23:11:57 GMT | HackTheBox Cap Writeup | Filip Nikolic | [Read More](https://medium.com/p/aefb037d6398) |
-| Tue, 20 Jan 2026 23:10:21 GMT | What Is Ethical Hacking? Complete Beginner’s Guide | Cyberly.org | [Read More](https://medium.com/p/76ddae915ad6) |
-| Tue, 20 Jan 2026 22:49:54 GMT | Ultimate Guide to Getting Started in Cybersecurity in 2026 | Cyberly.org | [Read More](https://medium.com/p/1197c32f7eb4) |
-| Tue, 20 Jan 2026 22:26:30 GMT | Quantum Computing: A silent Threat to the Blochchain and How ITS can help | Monarch | [Read More](https://medium.com/p/d8f204b763c0) |
-| Tue, 20 Jan 2026 22:20:02 GMT | I Built a System That Hides Encrypted Messages Inside Legal Chess Games | Atharva Sen Barai | [Read More](https://medium.com/p/1821eb1c92b3) |
-| Tue, 20 Jan 2026 22:17:13 GMT | Why every iPhone user should update to iOS 26 now: a plain language guide | Scott Hynd | [Read More](https://medium.com/p/ea6644319681) |
-| Tue, 20 Jan 2026 22:11:35 GMT | How AI is reshaping the way we Investigate and Defend against Cyber Attacks | Ib2dk | [Read More](https://medium.com/p/b30918367676) |
-| Tue, 20 Jan 2026 21:59:28 GMT | Pickle Rick (CTF Walkthrough) | Marduk I Am | [Read More](https://medium.com/p/023a7bfac72b) |
-| Tue, 20 Jan 2026 21:59:02 GMT | AI Needs Better Mental Models, Not More Controls | Donovan_Distracted | [Read More](https://medium.com/p/5a5b5908ff6e) |
-| Tue, 20 Jan 2026 21:55:23 GMT | To Live Fully Is to Risk Exposure. | Athena ˚˖ִ໋❀ | [Read More](https://medium.com/p/e081b85e22ce) |
-| Tue, 20 Jan 2026 21:45:59 GMT | Vulgarizar o amor | Filipe André Gaio | [Read More](https://medium.com/p/b7fad7700603) |
-| Tue, 20 Jan 2026 21:25:48 GMT | “From the fracture, we can build something better, stronger, and more just” | Bart Édes | [Read More](https://medium.com/p/996f476caf96) |
