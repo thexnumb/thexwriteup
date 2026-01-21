@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 Jan 2026 23:44:04 GMT | Modern DLP for AI Work: Inside the Enterprise Browser | Mammoth Cyber | [Read More](https://medium.com/p/1e27d5d17434) |
+| Wed, 21 Jan 2026 23:32:33 GMT | Scrambled: Chaining Silver Tickets & Token Impersonation for Total Domain Control ️ | Iron-Breach-editor | [Read More](https://medium.com/p/1a9e6c255a3d) |
 | Wed, 21 Jan 2026 23:23:29 GMT | The Face of Emotional Distance with a Foreign Partner | Marta Levchenko | [Read More](https://medium.com/p/13022d7644ce) |
 | Wed, 21 Jan 2026 23:20:15 GMT | How One JSON Payload Hijacked the Modern Web: React2Shell (Full Report) | Saad Khalid | [Read More](https://medium.com/p/1ca5c46ae34b) |
 | Wed, 21 Jan 2026 22:53:07 GMT | Modern IT Leadership Isn’t About Innovation. It’s About Reducing Anxiety. | Anusha | [Read More](https://medium.com/p/30446051e123) |
@@ -111,5 +113,3 @@ Okta Partner Experience Coffeecase writeup | Omar Mohamed Hassan Shehatta | [Rea
 | Wed, 21 Jan 2026 16:06:27 GMT | Hack the Planet: Thirty Years Later, the Film That Didn’t Understand Hacking but Perfectly… | Cyberecoder | [Read More](https://medium.com/p/998e0008aba8) |
 | Wed, 21 Jan 2026 16:02:31 GMT | Multi-Tenant NestJS Without Data Leaks | Praxen | [Read More](https://medium.com/p/9c915396867f) |
 | Wed, 21 Jan 2026 16:01:16 GMT | The Components of an Attack: The 7 Phases of a Modern Phishing Attempt | Cordula Boeck | [Read More](https://medium.com/p/deaf77ddc9a2) |
-| Wed, 21 Jan 2026 15:55:10 GMT | Offsec “Dawn” CTF Writeup | sabR | [Read More](https://medium.com/p/11efe36b922c) |
-| Wed, 21 Jan 2026 15:53:04 GMT | Security Operations Center L1 Complete Tryhackme Walkthrough!! | Mainekhacker | [Read More](https://medium.com/p/879f59bcde7f) |
