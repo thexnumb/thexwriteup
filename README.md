@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 Jan 2026 20:30:08 GMT | There Is No Perfect Security. So I Built an App That Knows Nothing About You. | Yasuo Kawachi | [Read More](https://medium.com/p/1f4fa8a6dc8e) |
+| Wed, 21 Jan 2026 20:28:35 GMT | Trying To Find Privacy In An Ai Surveillance Enhanced World | David Speakman | [Read More](https://medium.com/p/a1b1f5fdc1b4) |
+| Wed, 21 Jan 2026 20:26:42 GMT | Day-18 of Bug Bounty Journey : XSS Concept | Anshkamra | [Read More](https://medium.com/p/19e79cf45fcd) |
+| Wed, 21 Jan 2026 20:22:25 GMT | Roburna Audit Completed — Report released | Roburna Official | [Read More](https://medium.com/p/285e2cf6408a) |
+| Wed, 21 Jan 2026 20:19:10 GMT | Business Investigation(Value, Reducing Risk, and Powering Smarter Decisions) | Nazrul Islam Rana | [Read More](https://medium.com/p/114263cf80ea) |
+| Wed, 21 Jan 2026 20:14:30 GMT | Are your noise-cancelling headphones being used to spy on you? | Jason Hammerschmidt | [Read More](https://medium.com/p/8e30069d764a) |
+| Wed, 21 Jan 2026 20:10:12 GMT | How to Avoid Falling for Crypto Scams: The 7 Red Flags You Need to Know | Codenodelogic | [Read More](https://medium.com/p/d16f1b4be599) |
+| Wed, 21 Jan 2026 20:01:04 GMT | Linux Capabilities Optimization Strategies on Linux | Linux Guide | [Read More](https://medium.com/p/5584edc31666) |
+| Wed, 21 Jan 2026 20:00:59 GMT | Deep Dive into Linux Capabilities on Linux Systems | Linux Guide | [Read More](https://medium.com/p/f6ab5f15f87c) |
+| Wed, 21 Jan 2026 20:00:59 GMT | The Great Twitter Hack: How One Mistake Exposed Millions and What You Can Learn from It | Codenodelogic | [Read More](https://medium.com/p/b15585856228) |
 | Wed, 21 Jan 2026 19:46:48 GMT | Elon Musk Says Tesla’s Revived Dojo3 Will Power ‘Space-Based AI Compute’ | Tech News | [Read More](https://medium.com/p/8a83b3c69777) |
 | Wed, 21 Jan 2026 19:37:06 GMT | Investigating @sp1ritfyre: A Security Blue Team OSINT Challenge - Walkthrough | Frhn.Isml | [Read More](https://medium.com/p/3eea05e3090c) |
 | Wed, 21 Jan 2026 19:17:06 GMT | “Exploit Repositories in Cybersecurity: From Exploit-DB to Metasploit Framework” | Habibi | [Read More](https://medium.com/p/d1cb435d7d6a) |
@@ -103,13 +113,3 @@ Okta Partner Experience Coffeecase writeup | Omar Mohamed Hassan Shehatta | [Rea
 | Wed, 21 Jan 2026 14:26:01 GMT | Corridor - TryHackMe walkthrough | Crystal_cascade14 | [Read More](https://medium.com/p/ece542738936) |
 | Wed, 21 Jan 2026 14:24:31 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/2a229a165464) |
 | Wed, 21 Jan 2026 14:24:27 GMT | [AD攻防]Silver Ticket手法 | 陳禹璿 | [Read More](https://medium.com/p/5379797e29ef) |
-| Wed, 21 Jan 2026 14:23:33 GMT | How I Convinced an AI to Hack Itself: Prompt Injection to XSS ️ | Mahendra Purbia (Mah3Sec) | [Read More](https://medium.com/p/dab60010e40d) |
-| Wed, 21 Jan 2026 14:21:45 GMT | RBOM vs SBOM: Why SBOM Alone Is No Longer Enough for Modern Security | Akanksha | [Read More](https://medium.com/p/d4cbd1f0a201) |
-| Wed, 21 Jan 2026 14:20:47 GMT | Practical Use of Exploit Repositories: From Theory to Hands-on Exploitation with Exploit-DB and… | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/6e5b15fcea11) |
-| Wed, 21 Jan 2026 14:19:50 GMT | How Automation and AI Will Collaborate with Human IT Workers | 2iResourcing | [Read More](https://medium.com/p/cfa4fcf833ec) |
-| Wed, 21 Jan 2026 14:18:13 GMT | Why Firewalls Still Matter — And Why Most Organizations Use Them Wrong | ANSI Technologies | [Read More](https://medium.com/p/ce31a35feda4) |
-| Wed, 21 Jan 2026 14:12:55 GMT | Mental Health in the Middle of the Job Search | Kylee Cox | [Read More](https://medium.com/p/7f017e4235f1) |
-| Wed, 21 Jan 2026 14:07:06 GMT | The Once Extremely Simple Nuclear Launch Codes | Daniel Ganninger | [Read More](https://medium.com/p/146f0ef83829) |
-| Wed, 21 Jan 2026 14:05:00 GMT | Full Governance & Operational Structure of Ghana Technology Service (Top → Bottom) | rubin apore | [Read More](https://medium.com/p/8e32c126b5c0) |
-| Wed, 21 Jan 2026 14:02:29 GMT | What Judgment Looks Like at Runtime | Christopher Caruso | [Read More](https://medium.com/p/1138cc5f699f) |
-| Wed, 21 Jan 2026 13:57:45 GMT | How Agentic AI Is Reshaping Digital Security | Francesca Beaumont | [Read More](https://medium.com/p/86bb32c43c4d) |
