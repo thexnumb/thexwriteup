@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 Jan 2026 07:24:27 GMT | AI Dashboards & Analytics: Turning Data into Decisions (2024–2025 Perspective) | Zefai Insights | [Read More](https://medium.com/p/7875b0cb555a) |
+| Wed, 21 Jan 2026 07:19:26 GMT | LLMs and GENAI Apps: Risk & Mitigations — Part 6: Improper Output Handling! | Nothing Cyber [NC] | [Read More](https://medium.com/p/48debad979c1) |
+| Wed, 21 Jan 2026 07:14:37 GMT | The Cybersecurity Hallows | Nidhisharma Freelancework | [Read More](https://medium.com/p/9fbb443d6166) |
+| Wed, 21 Jan 2026 07:12:12 GMT | Continuous Vulnerability Assessment Models for Cloud-Native Applications | Durga Bramarambika Sailaja Varri | [Read More](https://medium.com/p/e85a43331282) |
+| Wed, 21 Jan 2026 07:06:41 GMT | Static Malware Analysis | Md. Raihan | [Read More](https://medium.com/p/96f4094dd965) |
+| Wed, 21 Jan 2026 07:06:24 GMT | SOC ROADMAP (END-TO-END) | Mr Horbio | [Read More](https://medium.com/p/e3974d7f65ad) |
+| Wed, 21 Jan 2026 07:05:59 GMT | DevOps, Cloud, & Platform tools by category for 2026 | Hristo Stoychev | [Read More](https://medium.com/p/68ed92103c17) |
+| Wed, 21 Jan 2026 06:57:25 GMT | Artikel Tentang Memahami HTTP | Maul | [Read More](https://medium.com/p/5ed08608221b) |
+| Wed, 21 Jan 2026 06:54:51 GMT | The Future of Security Operations Centers (SOCs) | Hacktechmedia | [Read More](https://medium.com/p/d239ae39ff39) |
+| Wed, 21 Jan 2026 06:47:18 GMT | C++ OpenSSL 3.1 code for Advance Attack on AES-CBC Encryption | Ramnath KM | [Read More](https://medium.com/p/36717e660125) |
+| Wed, 21 Jan 2026 06:46:56 GMT | CCD L1 (Certified CyberDefender Level 1 Certification) Review | Chicken0248 | [Read More](https://medium.com/p/1f81bcbb71f8) |
+| Wed, 21 Jan 2026 06:45:44 GMT | Beyond Fear: Why We Must Stop Scaring Kids About the Internet and Start Empowering Them as Cyber… | Steven Chin | [Read More](https://medium.com/p/f6dcaab6f676) |
+| Wed, 21 Jan 2026 06:43:17 GMT | Let’s Go Practical: Working with NetFlow Using nfdump Tools | Dean | [Read More](https://medium.com/p/3fe2cccdae24) |
+| Wed, 21 Jan 2026 06:42:37 GMT | The Windows Security Journey — KDP (Kernel Data Protection) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f8febd71999e) |
+| Wed, 21 Jan 2026 06:39:36 GMT | Who Will Own Your Data in 2026? | BeamSec | [Read More](https://medium.com/p/c5da223e0b1a) |
 | Wed, 21 Jan 2026 06:26:19 GMT | Spring Security with JWT — End-to-End Flow (LDAP + Existing Application) | Dhirajsinghania | [Read More](https://medium.com/p/dd8d5b94005e) |
 | Wed, 21 Jan 2026 06:23:42 GMT | The Quiet Identity Crisis Threatening Cybersecurity in 2026 | Abdelghani Alhijawi | [Read More](https://medium.com/p/4ebf1c9682ae) |
 | Wed, 21 Jan 2026 06:19:53 GMT | Zero Trust Security: A Complete, Practical Guide to Understanding Everything About Zero Trust | Sidhantchaurasiya | [Read More](https://medium.com/p/db4ff06f6d5e) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 Jan 2026 21:55:23 GMT | To Live Fully Is to Risk Exposure. | Athena ˚˖ִ໋❀ | [Read More](https://medium.com/p/e081b85e22ce) |
 | Tue, 20 Jan 2026 21:45:59 GMT | Vulgarizar o amor | Filipe André Gaio | [Read More](https://medium.com/p/b7fad7700603) |
 | Tue, 20 Jan 2026 21:25:48 GMT | “From the fracture, we can build something better, stronger, and more just” | Bart Édes | [Read More](https://medium.com/p/996f476caf96) |
-| Tue, 20 Jan 2026 21:23:14 GMT | TryHackMe Basic Pentesting: Fuerza Bruta y Escalada de Privilegios. | Jonathan Sebastian Pastas | [Read More](https://medium.com/p/53b29bebe48b) |
-| Tue, 20 Jan 2026 21:22:53 GMT | AI Computer Use Agents on PiKVM: Advancing Autonomy in Physical Computing | Kwaw Fletcher Frimpong | [Read More](https://medium.com/p/4e36387539e6) |
-| Tue, 20 Jan 2026 21:22:19 GMT | Bitwarden Lite vs. Vaultwarden: Der große Vergleich inkl. Installations-Guide | Wolfgang | [Read More](https://medium.com/p/dbbabc8bf89a) |
-| Tue, 20 Jan 2026 21:20:00 GMT | USDT RECOVERY EXPERT | ISLA ROSE | [Read More](https://medium.com/p/c4daf12cb4be) |
-| Tue, 20 Jan 2026 21:02:59 GMT | Bypassing Frida: Advanced Frida Detection Bypass — Part 1 | Haxymad | [Read More](https://medium.com/p/cc7c1dfbad9d) |
-| Tue, 20 Jan 2026 21:00:31 GMT | How to complete sunset:1 CTF challenge | Bibin | [Read More](https://medium.com/p/e02a27602132) |
-| Tue, 20 Jan 2026 20:55:27 GMT | The Autonomous Immunity System of Web3 | Cynos Protocol | [Read More](https://medium.com/p/e6d3493ca841) |
-| Tue, 20 Jan 2026 20:46:21 GMT | Day 161 — Building a Reliable Windows Process Monitoring Layer | Jinay | [Read More](https://medium.com/p/b36e5fdbb489) |
-| Tue, 20 Jan 2026 20:39:10 GMT | CYBER KILL CHAIN: Kurumların Dijital Savunma Haritası | dilan alpaltun | [Read More](https://medium.com/p/297090ad2366) |
-| Tue, 20 Jan 2026 20:38:52 GMT | Day 16–17 of Bug Bounty Journey : Understanding Nmap Like a Hacker | Anshkamra | [Read More](https://medium.com/p/0489f655b4be) |
-| Tue, 20 Jan 2026 20:35:37 GMT | Why Annual Risk Assessments Are Already Outdated | JSOC IT BLOG | [Read More](https://medium.com/p/bf9ffac59eaa) |
-| Tue, 20 Jan 2026 20:32:17 GMT | EEPROM vs FRAM in Embedded Systems: Dumping and Correlating PoE Configuration on a Hikvision Switch | Aaronjjose | [Read More](https://medium.com/p/e677d3f9efea) |
-| Tue, 20 Jan 2026 20:21:07 GMT | Cyber Psalm I: The Scroll of Vigilance: A sacred chant for the age of Algorithms | gershblumstein | [Read More](https://medium.com/p/92c800b2d4e4) |
-| Tue, 20 Jan 2026 20:12:04 GMT | Mastering WordPress Plugin Best Practices: Security, i18n, and Performance for Beginners | Shahibur Rahman | [Read More](https://medium.com/p/387f65331128) |
-| Tue, 20 Jan 2026 20:00:02 GMT | That doesn’t seem right… How I found a high severity authentication bypass on Skins.com | Roland | [Read More](https://medium.com/p/dea21f1715e4) |
