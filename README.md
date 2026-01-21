@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 Jan 2026 01:38:03 GMT | Cybersecurity in the Age of Artificial Intelligence | Jaqq Peitak | [Read More](https://medium.com/p/459c3edd1d8a) |
+| Wed, 21 Jan 2026 01:33:25 GMT | ️ Nothing Hidden: Exposing Netmon’s Deadly Secrets | Nicholas Mullenski | [Read More](https://medium.com/p/1948b32bc426) |
+| Wed, 21 Jan 2026 01:16:10 GMT | What I Learned Transitioning from Software Development to Cybersecurity | Kasun Perera | [Read More](https://medium.com/p/6f3671e6c948) |
+| Wed, 21 Jan 2026 01:09:28 GMT | RED-PicoCTF -TR | canndalcii | [Read More](https://medium.com/p/1aa4e317420b) |
+| Wed, 21 Jan 2026 01:02:03 GMT | Why I Started To Learn Cybersecurity In 2026 | Rio Rifaldi | [Read More](https://medium.com/p/2c6b3ed613fd) |
+| Wed, 21 Jan 2026 01:02:03 GMT | ⭐ How a Sophisticated Phishing Attack Almost Took Over My Apple Account — and What It Taught Me… | Mr Simpsons | [Read More](https://medium.com/p/97f839de367b) |
+| Wed, 21 Jan 2026 00:50:11 GMT | The High Price of “Free”: Why Cracked Software is a Security Liability | Andika Pratama | [Read More](https://medium.com/p/bb94b1f2e6d9) |
+| Wed, 21 Jan 2026 00:46:41 GMT | Breaking an AI-Powered Shell | Onurcan Genç | [Read More](https://medium.com/p/0ccb479ab9ac) |
+| Wed, 21 Jan 2026 00:32:01 GMT | Why a VPN is Your Best Friend in Iran | Ech the Tech Fox | [Read More](https://medium.com/p/f86d321f9087) |
+| Wed, 21 Jan 2026 00:25:59 GMT | Fear of Being Misunderstood | Ellyen Darananta | [Read More](https://medium.com/p/23d6c220e015) |
+| Wed, 21 Jan 2026 00:25:00 GMT | React2Shell (CVE-2025-55182) Campaign: When a Frontend Bug Becomes an Initial Access Vector | Mr. Robot.txt | [Read More](https://medium.com/p/7bb1ac0ab654) |
+| Wed, 21 Jan 2026 00:01:59 GMT | Master Guide to HTTP Headers for Bug Bounty: Exploitation and Bypass Techniques | JPablo13 | [Read More](https://medium.com/p/02460b0dde39) |
+| Tue, 20 Jan 2026 23:57:52 GMT | Hackear TV BOX MXQ Rockchip **RK3228A** o versiones RK322X. | Daniela Noelia Garcia | [Read More](https://medium.com/p/b3e24209fe52) |
+| Tue, 20 Jan 2026 23:52:59 GMT | What is OSINT? | Hobin Rood | [Read More](https://medium.com/p/4c68bc05afa9) |
 | Tue, 20 Jan 2026 23:40:21 GMT | The Policy Paradox - Dog Years | Julio Oña | [Read More](https://medium.com/p/fc5edb5a74d0) |
 | Tue, 20 Jan 2026 23:30:33 GMT | Why Most Django Projects Fail in Production (And How to Fix Yours) | Dythonai Innovations and Technologies | [Read More](https://medium.com/p/482668e4bcb6) |
 | Tue, 20 Jan 2026 23:26:34 GMT | WEEKLY BLOG | Melissa Porter | [Read More](https://medium.com/p/7cb99f413a18) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 Jan 2026 16:55:59 GMT | Security Company in Irving | US guard security company | [Read More](https://medium.com/p/91afdab36e6d) |
 | Tue, 20 Jan 2026 16:53:32 GMT | Networking Basics — 2 | Muhammadsaad | [Read More](https://medium.com/p/47f177098d78) |
 | Tue, 20 Jan 2026 16:47:08 GMT | Security trade-offs in remote and ephemeral execution environments | Akshat Joshi | [Read More](https://medium.com/p/96d1b2549056) |
-| Tue, 20 Jan 2026 16:47:06 GMT | Mon site a‑t‑il vraiment besoin d’une bannière de consentement? | Patrick Boucher | [Read More](https://medium.com/p/56cdd1206c3f) |
-| Tue, 20 Jan 2026 16:45:41 GMT | Kali Linux vs Kali Purple vs Kali NetHunter: A Penetration Tester’s Perspective | Cybervolt | [Read More](https://medium.com/p/db8e288ac721) |
-| Tue, 20 Jan 2026 16:44:54 GMT | What Information Can You Extract From Just a Hash | Abhay Parashar | [Read More](https://medium.com/p/67755f25eecc) |
-| Tue, 20 Jan 2026 16:29:18 GMT | The New Security Paradigm: Protecting Multi-Agent AI Systems in Production | BigCodeGen | [Read More](https://medium.com/p/366525a1db7c) |
-| Tue, 20 Jan 2026 16:29:02 GMT | CVE-2025–66202: URL Double Encoding Bypass Lab | Josh Beck | [Read More](https://medium.com/p/40ecd6d6820a) |
-| Tue, 20 Jan 2026 16:22:47 GMT | Auto JAIL for SPAMERS | Nemanja Maki Maric | [Read More](https://medium.com/p/108238626e4a) |
-| Tue, 20 Jan 2026 16:20:46 GMT | How Companies Decide What and How to Protect | Sanya Sachdeva | [Read More](https://medium.com/p/2b726378d345) |
-| Tue, 20 Jan 2026 16:19:52 GMT | AI Fraud Is Heading Toward a $2 Trillion Crisis: Here’s Why We Are Launching AI Defender | Ivan Shkvarun | [Read More](https://medium.com/p/04e5845f71d8) |
-| Tue, 20 Jan 2026 16:12:07 GMT | Exploring Spanning Tree Protocol Beyond Reliability: A Layer 2 Security Perspective | codeli00n2 | [Read More](https://medium.com/p/ba40d40ec08d) |
-| Tue, 20 Jan 2026 16:10:24 GMT | CompTIA PenTest+: A Practical Guide to Ethical Hacking Certification | Varshika S | [Read More](https://medium.com/p/86e50fb175d6) |
-| Tue, 20 Jan 2026 16:04:00 GMT | The Supreme Court Case That Could Change Everything for Freight Brokers | Heesham Naji | [Read More](https://medium.com/p/ff54477d199c) |
-| Tue, 20 Jan 2026 15:56:40 GMT | Data Breach at Trusting Corp Affects a Zillion Users | Cyn Hutchinson JD | [Read More](https://medium.com/p/4bef0f9260f3) |
-| Tue, 20 Jan 2026 15:47:08 GMT | [FORECAST] Integrator CI/CD Compromise by End-2026? | Wes Young | [Read More](https://medium.com/p/8395bff21efc) |
-| Tue, 20 Jan 2026 15:40:53 GMT | 11.6.1-packet-tracer-switch-security-configuration | Nicksondiazm | [Read More](https://medium.com/p/13fde18c4cae) |
