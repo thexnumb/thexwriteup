@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 Jan 2026 03:33:39 GMT | Hacking Authentication: From Manual Enumeration to Python Automation | gurmatsour | [Read More](https://medium.com/p/6827f790627a) |
+| Wed, 21 Jan 2026 03:32:31 GMT | Nmap Vulscan: Fast & Effective Vulnerability Detection Using Service Version Mapping | Cybeague Technologies | [Read More](https://medium.com/p/0f0ebecf9493) |
+| Wed, 21 Jan 2026 03:32:08 GMT | Top 7 Tips for Node.js Authentication Domain Design | Arunangshu Das | [Read More](https://medium.com/p/4d1a2ec0282f) |
+| Wed, 21 Jan 2026 03:32:08 GMT | New Projects | Danny | [Read More](https://medium.com/p/4c3fc9ad2d94) |
+| Wed, 21 Jan 2026 03:31:51 GMT | Cybersecurity in Freight 2026 | CT Incorporated | [Read More](https://medium.com/p/9eea0a586e7d) |
+| Wed, 21 Jan 2026 03:31:29 GMT | Vulnerability Scanning with Nmap + Vulners NSE Script | Cybeague Technologies | [Read More](https://medium.com/p/0db92a29b6be) |
+| Wed, 21 Jan 2026 03:28:18 GMT | IST 894 — Lab Assignment Report | Nick MacMillan | [Read More](https://medium.com/p/fc83e819e0f6) |
+| Wed, 21 Jan 2026 03:26:29 GMT | IST 894 Capstone Portfolio | Nick MacMillan | [Read More](https://medium.com/p/8958b7dfeb05) |
+| Wed, 21 Jan 2026 03:22:45 GMT | Kubernetes Confused Me for Years Until I Understood These 5 Concepts | Giri Babu | [Read More](https://medium.com/p/142f9b4cf85a) |
+| Wed, 21 Jan 2026 03:21:50 GMT | OverTheWire Bandit (Day 19): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/c3dbea3c7f51) |
+| Wed, 21 Jan 2026 03:18:52 GMT | How AI Changes the Cloud Threat Model | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/4c3b6b50558d) |
+| Wed, 21 Jan 2026 03:17:08 GMT | How Ordinary File Converters Became a Malware Delivery Channel | Deven Chhajed | [Read More](https://medium.com/p/1b073979dda7) |
+| Wed, 21 Jan 2026 03:14:45 GMT | AI Is Not 100% Secure | Shahzaib | [Read More](https://medium.com/p/3f7a220bd32b) |
+| Wed, 21 Jan 2026 03:14:39 GMT | Why Human Risk Graph (HRG) Matters More Than CVEs in 2026 | Aleksei Aleinikov | [Read More](https://medium.com/p/08436e649026) |
+| Wed, 21 Jan 2026 02:44:00 GMT | Common Cloud Misconfigurations That Expose AI Systems | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/baa6e5842fd6) |
+| Wed, 21 Jan 2026 02:43:43 GMT | Continuous Confidence: Rethinking GRC for the Cloud Era | Nikita Gupta | [Read More](https://medium.com/p/e0f5c18a0662) |
+| Wed, 21 Jan 2026 02:20:08 GMT | Nukes That Don’t Detonate | Zaid R Idris | [Read More](https://medium.com/p/56db45a9596d) |
+| Wed, 21 Jan 2026 02:11:06 GMT | Weekly Threat Intelligence Report 19 Jan 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/2b8b4ea76087) |
 | Wed, 21 Jan 2026 01:38:03 GMT | Cybersecurity in the Age of Artificial Intelligence | Jaqq Peitak | [Read More](https://medium.com/p/459c3edd1d8a) |
 | Wed, 21 Jan 2026 01:33:25 GMT | ️ Nothing Hidden: Exposing Netmon’s Deadly Secrets | Nicholas Mullenski | [Read More](https://medium.com/p/1948b32bc426) |
 | Wed, 21 Jan 2026 01:16:10 GMT | What I Learned Transitioning from Software Development to Cybersecurity | Kasun Perera | [Read More](https://medium.com/p/6f3671e6c948) |
@@ -73,6 +91,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 Jan 2026 19:25:16 GMT | Network Security Essentials - THM | Isiah | [Read More](https://medium.com/p/7f532d5f90e4) |
 | Tue, 20 Jan 2026 19:21:16 GMT | When Pre-Boot Security Fails Open. A Physical Pentest of a Certified Laptop | pohackontas | [Read More](https://medium.com/p/529653f436c7) |
 | Tue, 20 Jan 2026 19:03:45 GMT | $70,000 from a Simple 2FA Bypass: A Lesson in Observation Over Exploits | Aman Bhuiyan | [Read More](https://medium.com/p/10902b4253a7) |
+| Tue, 20 Jan 2026 19:03:00 GMT | Anti-Forensics | Iram Jack | [Read More](https://medium.com/p/d9319b5ce942) |
 | Tue, 20 Jan 2026 19:00:15 GMT | Hire a Hacker to Catch Cheating Spouse | The Trusted H | [Read More](https://medium.com/p/27b48fa3a64f) |
 | Tue, 20 Jan 2026 18:59:42 GMT | Digital Forensics Challenge: Basics, Mounting & Analyzing Disk Images (Day 1) | Niklas Heringer | [Read More](https://medium.com/p/4843d7a2cd64) |
 | Tue, 20 Jan 2026 18:58:53 GMT | The Top 5 Scripting Languages for “Ethical” Hacking (or otherwise) | Travis Ray Caverhill | [Read More](https://medium.com/p/298fb6ebd2fd) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 Jan 2026 18:17:42 GMT | My CTF Experience | Souhaib Saidi | [Read More](https://medium.com/p/925804c8c0a5) |
 | Tue, 20 Jan 2026 18:09:33 GMT | AI Belongs in Your SOC — Just Not Where You Think | Marwan | [Read More](https://medium.com/p/c0378e3340a8) |
 | Tue, 20 Jan 2026 18:00:22 GMT | The ‘ClickFix’ Trap Under The Hood | Haim Cohen | [Read More](https://medium.com/p/d00cf88efd7b) |
-| Tue, 20 Jan 2026 17:54:03 GMT | Building an Active Directory Home Lab from Scratch (Step-by-Step Guide) | Mohamed ali | [Read More](https://medium.com/p/771b1cb9e30c) |
-| Tue, 20 Jan 2026 17:53:53 GMT | Nmap : A Practical Guide to Port Scanning, Enumeration, and Firewall Evasion | Aravind | [Read More](https://medium.com/p/d8e5fa785ca6) |
-| Tue, 20 Jan 2026 17:52:39 GMT | What Really Happens After a Company Gets Hacked | Abdul Ahad | [Read More](https://medium.com/p/74724bbd1c49) |
-| Tue, 20 Jan 2026 17:49:30 GMT | I Hacked an Organization Starting with One Subdomain | Yash Katiyara | [Read More](https://medium.com/p/58ce6c43fec1) |
-| Tue, 20 Jan 2026 17:42:26 GMT | Modern Memento Pattern in Java 25: From Verbose Boilerplate to Compact, Intentional Design | Jitin Kayyala | [Read More](https://medium.com/p/475e3e85dfdf) |
-| Tue, 20 Jan 2026 17:38:08 GMT | Port 2049 and NFS: The Backbone of Shared Storage. | Rela Lumbini | [Read More](https://medium.com/p/1896f567fd0f) |
-| Tue, 20 Jan 2026 17:33:07 GMT | AI Agents: AresGPT Entry Level Prompt Engineering for AI Security and Strategic Thinking | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/ccdebc2e5e2c) |
-| Tue, 20 Jan 2026 17:29:13 GMT | 5 Best Wireless Hidden Nanny Cams with Audio for Peace of Mind at Home | Narjis Arshad | [Read More](https://medium.com/p/54a6d5965efd) |
-| Tue, 20 Jan 2026 17:25:55 GMT | NextJS 15/16 Production Hardening [Part 6] | Ketan Chavan | [Read More](https://medium.com/p/771f69ec02ef) |
-| Tue, 20 Jan 2026 17:15:21 GMT | Coming up at Tech Weekend January 2026 | Founders Village | [Read More](https://medium.com/p/78f2c1ad01aa) |
-| Tue, 20 Jan 2026 17:09:37 GMT | Good at Puzzles? Cybersecurity and Ethical Hacking Might Be Your Career | Appli - College Applications App | [Read More](https://medium.com/p/dab02ea7e1e8) |
-| Tue, 20 Jan 2026 17:07:34 GMT | How to Budget and Choose the Best Annual PCI Compliance Software for Your Small Business | Emory French | [Read More](https://medium.com/p/7ace5a77ed8c) |
-| Tue, 20 Jan 2026 17:02:02 GMT | Logs, Alerts, and SIEM: How Security Teams Detect and Understand Attacks | Sruthi Punugu | [Read More](https://medium.com/p/329979bb692c) |
-| Tue, 20 Jan 2026 17:01:52 GMT | Why Most Security Monitoring Fails (And Attackers Know It) | Daniel Isaac E | [Read More](https://medium.com/p/358fe599330e) |
-| Tue, 20 Jan 2026 16:58:51 GMT | TryHackMe RootMe — Walkthrough | Jobin Mathew | [Read More](https://medium.com/p/8fbca81a46c2) |
-| Tue, 20 Jan 2026 16:56:12 GMT | Glyphe — How to Use It Today | Brandin Tancredi | [Read More](https://medium.com/p/063b77195909) |
-| Tue, 20 Jan 2026 16:55:59 GMT | Security Company in Irving | US guard security company | [Read More](https://medium.com/p/91afdab36e6d) |
-| Tue, 20 Jan 2026 16:53:32 GMT | Networking Basics — 2 | Muhammadsaad | [Read More](https://medium.com/p/47f177098d78) |
-| Tue, 20 Jan 2026 16:47:08 GMT | Security trade-offs in remote and ephemeral execution environments | Akshat Joshi | [Read More](https://medium.com/p/96d1b2549056) |
