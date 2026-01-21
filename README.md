@@ -12,11 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 Jan 2026 15:26:06 GMT | Complete Guide To Security Camera Installation | Alex Bryn | [Read More](https://medium.com/p/5cbebc680df3) |
+| Wed, 21 Jan 2026 15:20:42 GMT | unfinished. unpolished. unapologetic. | Some Grumpy Guy | [Read More](https://medium.com/p/e1c7eb903699) |
+| Wed, 21 Jan 2026 15:08:44 GMT | OES (Online Enrollment System) Experience in USeP | Jay Fajardo | [Read More](https://medium.com/p/58683d2fd3ab) |
+| Wed, 21 Jan 2026 15:02:34 GMT | PortSwigger: Authentication Exploitation | Sandeepsisodiya | [Read More](https://medium.com/p/4368f64e49ee) |
+| Wed, 21 Jan 2026 15:02:13 GMT | Why Email Became the Most Powerful Account You Own | Tracy | [Read More](https://medium.com/p/c84d5c52ed50) |
+| Wed, 21 Jan 2026 15:02:09 GMT | Cyber Briefing: 2026.01.21 | CyberMaterial | [Read More](https://medium.com/p/62caafcb5a2d) |
+| Wed, 21 Jan 2026 15:01:26 GMT | RPC issues for Intel MacOs | Mercy Adams | [Read More](https://medium.com/p/84cbb3540ed1) |
+| Wed, 21 Jan 2026 14:59:41 GMT | Wazuh SIEM Deployment with Multi-OS Agents | Aishat Olayinka Yusuf | [Read More](https://medium.com/p/09e80e1821e9) |
+| Wed, 21 Jan 2026 14:57:19 GMT | Cybersecurity Risks for Remote and Hybrid Workers | Rahima Rehman | [Read More](https://medium.com/p/15f8b276b8f2) |
+| Wed, 21 Jan 2026 14:53:58 GMT | Preparing for ISO 27701 (PIMS) Implementation and Audit: Key Practical Insights for GRC… | Opeyemi Ajakaye-Maku | [Read More](https://medium.com/p/7a9812a90873) |
+| Wed, 21 Jan 2026 14:47:11 GMT | AI-Driven Autonomous Threats: Cybercrime in the Age of Agentic AI | Digital Defense | [Read More](https://medium.com/p/70f6bff728e3) |
+| Wed, 21 Jan 2026 14:46:43 GMT | Why I’m Mastering Networking (CCNA) Before Diving Deep into SOC Operations | osama Moussa | [Read More](https://medium.com/p/eab3f5c5a088) |
+| Wed, 21 Jan 2026 14:40:48 GMT | Allsafe Android Pentesting — Part 5: Insecure Data Storage in Shared Preferences | Mscmkn | [Read More](https://medium.com/p/7e8144fcfd5c) |
+| Wed, 21 Jan 2026 14:39:18 GMT | Sovereign AI Agent Security: Air-Gapped Deployments and Enterprise Integration | Michael Hannecke | [Read More](https://medium.com/p/efc770879cf8) |
+| Wed, 21 Jan 2026 14:32:25 GMT | Cache Deception: When “Harmless Caching” Becomes a Real Risk | Nitin yadav | [Read More](https://medium.com/p/2920b0a2f3db) |
 | Wed, 21 Jan 2026 14:32:24 GMT | MTS-1: A Practical Telemetry Standard for Real-World Systems | Random Access Thoughts | [Read More](https://medium.com/p/5e82231f43d5) |
+| Wed, 21 Jan 2026 14:32:00 GMT | What Is Hacking and Why Should You Learn It? | Vignesh R | [Read More](https://medium.com/p/4242a6148348) |
 | Wed, 21 Jan 2026 14:28:04 GMT | EventID-76 - SOC137 - Malicious File/Script Download Attempt | Soumodeep Das | [Read More](https://medium.com/p/ede933ef1b54) |
 | Wed, 21 Jan 2026 14:27:32 GMT | CONVERSING WITH INNER SELF : PART 1 | Shrishti | [Read More](https://medium.com/p/bbab83603e3e) |
 | Wed, 21 Jan 2026 14:26:01 GMT | Corridor - TryHackMe walkthrough | Crystal_cascade14 | [Read More](https://medium.com/p/ece542738936) |
 | Wed, 21 Jan 2026 14:24:31 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/2a229a165464) |
+| Wed, 21 Jan 2026 14:24:27 GMT | [AD攻防]Silver Ticket手法 | 陳禹璿 | [Read More](https://medium.com/p/5379797e29ef) |
 | Wed, 21 Jan 2026 14:23:33 GMT | How I Convinced an AI to Hack Itself: Prompt Injection to XSS ️ | Mahendra Purbia (Mah3Sec) | [Read More](https://medium.com/p/dab60010e40d) |
 | Wed, 21 Jan 2026 14:21:45 GMT | RBOM vs SBOM: Why SBOM Alone Is No Longer Enough for Modern Security | Akanksha | [Read More](https://medium.com/p/d4cbd1f0a201) |
 | Wed, 21 Jan 2026 14:20:47 GMT | Practical Use of Exploit Repositories: From Theory to Hands-on Exploitation with Exploit-DB and… | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/6e5b15fcea11) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 Jan 2026 10:38:57 GMT | Skip the 4-year wait: start your cyber career in months | Saad Masood | [Read More](https://medium.com/p/a4aee498ffcd) |
 | Wed, 21 Jan 2026 10:38:27 GMT | Yapay Zeka: Siber Guvenligin Yeni Kalkani mi, Yoksa En Tehlikeli Silahi mi? | Umut Baran Yavuz | [Read More](https://medium.com/p/571680b16d08) |
 | Wed, 21 Jan 2026 10:38:03 GMT | High Book Value Stocks in India Based on Multi-Year Earnings | digital Aditya | [Read More](https://medium.com/p/0b946f9d892a) |
-| Wed, 21 Jan 2026 10:36:06 GMT | Angular-Specific API Security Mapping | Piyali Das | [Read More](https://medium.com/p/fac607d9de6c) |
-| Wed, 21 Jan 2026 10:34:07 GMT | BROKEN TRUST COMES AT A COST. | Oladipo Taiwo Olamide(Lolu_Everywhere) | [Read More](https://medium.com/p/8d368ff5e859) |
-| Wed, 21 Jan 2026 10:32:15 GMT | Fake Android Apps Are Stealing Your Personal Data — Most Users Don’t Even Realize It | Blue Bird Digital Technology | [Read More](https://medium.com/p/b8717535bb5d) |
-| Wed, 21 Jan 2026 10:28:32 GMT | The Best OPPO Phones to Buy in 2026 | Victoria Rivera | [Read More](https://medium.com/p/30c9211ade0f) |
-| Wed, 21 Jan 2026 10:26:32 GMT | Best Managed Cybersecurity Services Provider in India - Threat Detection | Thiripathiv | [Read More](https://medium.com/p/3554925cd490) |
-| Wed, 21 Jan 2026 10:15:50 GMT | Total Security Solutions: The Future of Electronic Security Solutions in a Rapidly Evolving World | Ciss India | [Read More](https://medium.com/p/8c0161719d55) |
-| Wed, 21 Jan 2026 10:12:55 GMT | Unauthenticated IDOR Leading to Unauthorized Read and Delete Sensitive Data | Bashir Abdulmajeed | [Read More](https://medium.com/p/abdb1037139b) |
-| Wed, 21 Jan 2026 10:12:09 GMT | Rethinking Deterrence and Stability in the Strait of Hormuz | Mehraneh Zare | [Read More](https://medium.com/p/2f5839ed1ef3) |
-| Wed, 21 Jan 2026 09:55:32 GMT | India’s DPDP Act Isn’t a Legal Update, It’s a Wake-Up Call for How We Handle Data | Lakshita Gulliya | [Read More](https://medium.com/p/801c4c2cbd93) |
-| Wed, 21 Jan 2026 09:50:40 GMT | Best AI Courses in Delhi with Certifications in 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/f53db96bb4ee) |
-| Wed, 21 Jan 2026 09:48:57 GMT | Learning Kerberos by attacking Active Directory | guyvolvo | [Read More](https://medium.com/p/c4e4f9565f8a) |
-| Wed, 21 Jan 2026 09:46:41 GMT | Public Service Announcement: Lock in, but be WARY! | Timothy Olowu | [Read More](https://medium.com/p/4d7e7612d74c) |
-| Wed, 21 Jan 2026 09:45:46 GMT | Your SIEM Has Blind Spots. And Here’s How Red Teams Exploit Them | Redfox Security | [Read More](https://medium.com/p/f74b628da2a6) |
-| Wed, 21 Jan 2026 09:43:11 GMT | Mapping the Attack Surface: A Nessus Vulnerability Assessment | Joanorifha | [Read More](https://medium.com/p/05e1431dbbb3) |
-| Wed, 21 Jan 2026 09:39:45 GMT | What is Cybersecurity? Roles, Roadmap & Career Paths | anil-x-cyber | [Read More](https://medium.com/p/08418a29516c) |
-| Wed, 21 Jan 2026 09:33:01 GMT | How F9 Infotech Helps Businesses Build Resilient AWS Architectures | F9 Infotech | [Read More](https://medium.com/p/30aaf1892abf) |
-| Wed, 21 Jan 2026 09:32:39 GMT | Security Analysis: Bitunix defining Safe Standards in 2026. | Zava | [Read More](https://medium.com/p/0717143b211a) |
