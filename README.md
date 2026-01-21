@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 Jan 2026 23:23:29 GMT | The Face of Emotional Distance with a Foreign Partner | Marta Levchenko | [Read More](https://medium.com/p/13022d7644ce) |
+| Wed, 21 Jan 2026 23:20:15 GMT | How One JSON Payload Hijacked the Modern Web: React2Shell (Full Report) | Saad Khalid | [Read More](https://medium.com/p/1ca5c46ae34b) |
+| Wed, 21 Jan 2026 22:53:07 GMT | Modern IT Leadership Isn’t About Innovation. It’s About Reducing Anxiety. | Anusha | [Read More](https://medium.com/p/30446051e123) |
 | Wed, 21 Jan 2026 22:42:00 GMT | Behind the Build: What It Really Means to Create for Safety | Cyber Dive | [Read More](https://medium.com/p/8c45fb617817) |
 | Wed, 21 Jan 2026 22:22:10 GMT | The Most Dangerous Cyber Risk You’re Not Monitoring: Your Forgotten DNS Domains | Dale Jenkins | [Read More](https://medium.com/p/ace40c762046) |
 | Wed, 21 Jan 2026 22:22:07 GMT | Guardians of the code: Unlocking secure authentication in an AI-powered world | DiUS | [Read More](https://medium.com/p/6b2de51a444d) |
@@ -66,6 +69,7 @@ Okta Partner Experience Coffeecase writeup | Omar Mohamed Hassan Shehatta | [Rea
 | Wed, 21 Jan 2026 18:48:20 GMT | Secure vs Insecure Protocols | guyvolvo | [Read More](https://medium.com/p/c32471d1927f) |
 | Wed, 21 Jan 2026 18:43:47 GMT | Python Things I Wish I Had Learned Earlier (So I Didn’t Waste Years) | Babar saad | [Read More](https://medium.com/p/29734e3fb505) |
 | Wed, 21 Jan 2026 18:32:38 GMT | Predictive AI: Power, Risk, and the Human Factor | Len Noe | [Read More](https://medium.com/p/d2343b18314e) |
+| Wed, 21 Jan 2026 18:32:24 GMT | WP File Upload Plugin — Front End Upload & Download Manager for WordPress! | Jane Brian | [Read More](https://medium.com/p/2f9ce6865795) |
 | Wed, 21 Jan 2026 18:26:22 GMT | AutoBof — Building an AI-Powered Buffer Overflow Detection Tool | Muhammad Usman Ahmad | [Read More](https://medium.com/p/1950267ce8d3) |
 | Wed, 21 Jan 2026 18:22:03 GMT | Security vs Executive Protection | Ricardo Figueroa | [Read More](https://medium.com/p/e2a52ec918ff) |
 | Wed, 21 Jan 2026 18:07:42 GMT | You Don’t Need to Be Rich to Be a Cybercrime Target | The Techie Indian | [Read More](https://medium.com/p/34cd96bf6a96) |
@@ -109,7 +113,3 @@ Okta Partner Experience Coffeecase writeup | Omar Mohamed Hassan Shehatta | [Rea
 | Wed, 21 Jan 2026 16:01:16 GMT | The Components of an Attack: The 7 Phases of a Modern Phishing Attempt | Cordula Boeck | [Read More](https://medium.com/p/deaf77ddc9a2) |
 | Wed, 21 Jan 2026 15:55:10 GMT | Offsec “Dawn” CTF Writeup | sabR | [Read More](https://medium.com/p/11efe36b922c) |
 | Wed, 21 Jan 2026 15:53:04 GMT | Security Operations Center L1 Complete Tryhackme Walkthrough!! | Mainekhacker | [Read More](https://medium.com/p/879f59bcde7f) |
-| Wed, 21 Jan 2026 15:45:24 GMT | TBomb: A Prank Tool | Er Raj Aryan | [Read More](https://medium.com/p/750ba84065bd) |
-| Wed, 21 Jan 2026 15:45:04 GMT | Why Mac Sleep Breaks And How To Fix It Fast | Geoffrey Wenger | [Read More](https://medium.com/p/ee89d396cc31) |
-| Wed, 21 Jan 2026 15:41:09 GMT | The Future of Darkweb Markets: Trends, Pressure, and Adaptation | Tor BBB | [Read More](https://medium.com/p/e9b6c88f2379) |
-| Wed, 21 Jan 2026 15:34:46 GMT | Lab: Insufficient workflow validation-Portswigger | L4V4NY4  AGR3 | [Read More](https://medium.com/p/76112f01ed8a) |
