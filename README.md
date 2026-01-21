@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 Jan 2026 22:22:07 GMT | Guardians of the code: Unlocking secure authentication in an AI-powered world | DiUS | [Read More](https://medium.com/p/6b2de51a444d) |
+| Wed, 21 Jan 2026 22:16:08 GMT | Cloud File-Sharing Platforms Under Attack: How Always-On VPN Simplifies Security | Dan Forsyth | [Read More](https://medium.com/p/a7fce19c294d) |
+| Wed, 21 Jan 2026 21:58:11 GMT | How Hard is it to Overcome DVIUS AI Protocols: Gemini Answered | Seguroski | [Read More](https://medium.com/p/ee3cdfe6669e) |
+| Wed, 21 Jan 2026 21:49:40 GMT | Cybersecurity Used to Intimidate Me, Until Something Finally Changed | Glomygia Orji | [Read More](https://medium.com/p/b441ebed37d9) |
 | Wed, 21 Jan 2026 21:46:05 GMT | Veriyi Nasıl Kalıcı Olarak Silinir? | Zekikayaalp | [Read More](https://medium.com/p/f3422f5bf0d0) |
 | Wed, 21 Jan 2026 21:45:52 GMT | Scalable Video Processing for Modern Security Systems | NETINT Technologies | [Read More](https://medium.com/p/416c485fe79e) |
 | Wed, 21 Jan 2026 21:35:00 GMT | #LifeAmongstBugs01: The “I Know You’re There” Ghost in the Machine | newklei | [Read More](https://medium.com/p/2a52acfc9ebe) |
@@ -109,7 +113,3 @@ Okta Partner Experience Coffeecase writeup | Omar Mohamed Hassan Shehatta | [Rea
 | Wed, 21 Jan 2026 15:32:47 GMT | My Book Was You | Honeyregineb | [Read More](https://medium.com/p/41fc020635a9) |
 | Wed, 21 Jan 2026 15:30:09 GMT | Privacy at Stake: How Shadow APIs and Structural Failures Fuel the Data Black Market | Joao Buarque | [Read More](https://medium.com/p/19fa157681f0) |
 | Wed, 21 Jan 2026 15:27:18 GMT | What is GDG (Google Developer Groups)? | Dadhishankar | [Read More](https://medium.com/p/47537dfac991) |
-| Wed, 21 Jan 2026 15:26:06 GMT | Complete Guide To Security Camera Installation | Alex Bryn | [Read More](https://medium.com/p/5cbebc680df3) |
-| Wed, 21 Jan 2026 15:20:42 GMT | unfinished. unpolished. unapologetic. | Some Grumpy Guy | [Read More](https://medium.com/p/e1c7eb903699) |
-| Wed, 21 Jan 2026 15:08:44 GMT | OES (Online Enrollment System) Experience in USeP | Jay Fajardo | [Read More](https://medium.com/p/58683d2fd3ab) |
-| Wed, 21 Jan 2026 15:02:34 GMT | PortSwigger: Authentication Exploitation | Sandeepsisodiya | [Read More](https://medium.com/p/4368f64e49ee) |
