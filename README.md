@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 Jan 2026 11:39:21 GMT | How simple Logic Flaw turned into a €300 in Minute’ | Jimmy | [Read More](https://medium.com/p/034026e9cbba) |
+| Wed, 21 Jan 2026 11:38:37 GMT | Symbolic Links or Symlinks in Linux | Mahidul Haque | [Read More](https://medium.com/p/61668ebe2598) |
+| Wed, 21 Jan 2026 11:34:15 GMT | Why I Switched From Burp Suite to Caido — And How It Made Bug Hunting Fun Again | Mejbankadir | [Read More](https://medium.com/p/78e139977c6c) |
+| Wed, 21 Jan 2026 11:33:57 GMT | It job which are hight demands in New Zealand | Migratex | [Read More](https://medium.com/p/99532d41667e) |
 | Wed, 21 Jan 2026 11:20:22 GMT | Website Not Secure Warning? Here’s How to Fix It | Smit Pipaliya | [Read More](https://medium.com/p/70e62a67ef49) |
 | Wed, 21 Jan 2026 11:20:04 GMT | How to Use Cloudflare Firewall Rules to Secure Your Website | Smit Pipaliya | [Read More](https://medium.com/p/8a77bc428758) |
+| Wed, 21 Jan 2026 11:16:57 GMT | My Journey as an Ethical Hacker! | Kirandhiman | [Read More](https://medium.com/p/438151d74d41) |
 | Wed, 21 Jan 2026 11:03:05 GMT | From Forgotten Tool to Powerful Pivot: Using JA3 to Expose Attackers’ Infrastructure | ANY.RUN | [Read More](https://medium.com/p/fd54f3e00187) |
 | Wed, 21 Jan 2026 11:02:12 GMT | Simple Broken Access Control | Windasunny | [Read More](https://medium.com/p/850cb9beb7c4) |
 | Wed, 21 Jan 2026 11:00:49 GMT | Forensic Blind Spot Exposed: Medical Devices Were Missing from Crime Scene Investigations | Berend Watchus | [Read More](https://medium.com/p/731edd08aad6) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 Jan 2026 05:54:02 GMT | What zero trust exposed about our “solid” security model | Fahim ul Haq | [Read More](https://medium.com/p/af6556c1d383) |
 | Wed, 21 Jan 2026 05:50:51 GMT | Part 2: The Lifecycle of an Identity — From Provisioning to Deprovisioning | Dilanka Muthukumarana | [Read More](https://medium.com/p/ed44e395150c) |
 | Wed, 21 Jan 2026 05:47:09 GMT | Pocket-Sized Pen-Testing: Building an ESP-32 Hacking Handheld With No Restraint | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/757a240159c9) |
-| Wed, 21 Jan 2026 05:46:50 GMT | The Packet That Told Me Someone Was Watching | Fateyaly | [Read More](https://medium.com/p/bbe3ce031aaf) |
-| Wed, 21 Jan 2026 05:46:06 GMT | How to Identify and Upgrade Legacy TLS (Below 1.2) | Shashank Gupta | [Read More](https://medium.com/p/370f307526c9) |
-| Wed, 21 Jan 2026 05:40:22 GMT | AI Has Arrived. Now Comes the Hard Part! | Andre Fernandes | [Read More](https://medium.com/p/0b50f9041fff) |
-| Wed, 21 Jan 2026 05:38:09 GMT | iOS App Attestation for Jailbreak ? | Aiwin siby | [Read More](https://medium.com/p/7d2afa08bbc5) |
-| Wed, 21 Jan 2026 05:37:36 GMT | Building a File Integrity Monitor in Python: A Hands-On Cybersecurity Project | Edson | [Read More](https://medium.com/p/108113016b45) |
