@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 Jan 2026 05:14:16 GMT | ️ Day 041 of 100DaysOfCloud Securing Sensitive Data Using AWS KMS (Encrypt & Decrypt) | Hritik Raj | [Read More](https://medium.com/p/8161180ff1f6) |
+| Wed, 21 Jan 2026 05:14:00 GMT | Decrypting RDP Traffic: When Encryption Meets Analysis | Cybersecurity Simplified | [Read More](https://medium.com/p/68585a7b5f7c) |
+| Wed, 21 Jan 2026 05:12:59 GMT | Securing the Lifeline | Amit Tomar | [Read More](https://medium.com/p/bb6c2fd52885) |
+| Wed, 21 Jan 2026 05:02:03 GMT | Trump’s Greenland Ultimatum Is Tearing NATO Apart | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/60a03e34222d) |
+| Wed, 21 Jan 2026 04:49:19 GMT | Generate Random String: Essential Guide for SaaS Security and Authentication | Maria Shakoor | [Read More](https://medium.com/p/6b324b50ffc4) |
+| Wed, 21 Jan 2026 04:48:08 GMT | Bypass RootBeer Frida: Panduan Bypass RASP dan SSL Pinning pada Android via Windows | Nanda Cahya Septiawan | [Read More](https://medium.com/p/210c546b13eb) |
+| Wed, 21 Jan 2026 04:43:22 GMT | Is Your AI Assistant Leaking Financial Data? The New 2026 Security Standards You Need to Know | LaLiSa | [Read More](https://medium.com/p/f9fbcc8a528e) |
 | Wed, 21 Jan 2026 04:32:56 GMT | How I Found and reported 50+ Exposed Celery Flower Dashboards on Shodan | the_unlucky_guy | [Read More](https://medium.com/p/f4de4289630c) |
 | Wed, 21 Jan 2026 04:26:41 GMT | Shadow Agents and Prompt Injection: AI is Reshaping Security in 2026 | Savneet Singh | [Read More](https://medium.com/p/279db57837a1) |
 | Wed, 21 Jan 2026 04:19:05 GMT | Managed Detection and Response Market Size, Share, and Growth Outlook | Gauri Kale | [Read More](https://medium.com/p/8ec03f897a3f) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 Jan 2026 18:52:00 GMT | Can Hackers Attack Quantum Computers Across Time and Space? The Truth Is Far More Terrifying | Kevin Qi | [Read More](https://medium.com/p/d74e41a2223a) |
 | Tue, 20 Jan 2026 18:50:23 GMT | WAFs Don’t Own Origin Boundaries — System Administrators Do | Juan David Correa Landreau | [Read More](https://medium.com/p/4f7b42b50c15) |
 | Tue, 20 Jan 2026 18:49:24 GMT | Who Remains? | Cheyanne Burnett | [Read More](https://medium.com/p/09f67aeeab7e) |
-| Tue, 20 Jan 2026 18:40:15 GMT | Mobil Uygulama Güvenliğine Giriş: OWASP Mobile Top 10 Nedir? | Barış Kandemir | [Read More](https://medium.com/p/c32ff852d972) |
-| Tue, 20 Jan 2026 18:39:48 GMT | Beginner’s Guide Part 1: Building an AI Non- GUI Pentest Lab with Ollama & HexStrike AI | Omarataallah | [Read More](https://medium.com/p/b7f461cce2a9) |
-| Tue, 20 Jan 2026 18:35:55 GMT | How I Discovered a Legacy SOAP API Vulnerability in a University ERP | Abhishek pawar | [Read More](https://medium.com/p/19b35b91950b) |
-| Tue, 20 Jan 2026 18:28:35 GMT | Secure Kubernetes Deployment Guide (Self-Managed) — Part VII | SOCFortress | [Read More](https://medium.com/p/e03136a730e1) |
-| Tue, 20 Jan 2026 18:27:50 GMT | Introducing > PowerShell.Exposed | Alex Teixeira | [Read More](https://medium.com/p/4974fe712117) |
-| Tue, 20 Jan 2026 18:26:55 GMT | The DoD Turned AI Cybersecurity Upside Down | Darren Broemmer | [Read More](https://medium.com/p/3e48ad9dd488) |
-| Tue, 20 Jan 2026 18:26:33 GMT | How I Learned to Read DeFi Transactions Without Getting Burned | Dominic Mazzarella | [Read More](https://medium.com/p/1844c7ecfde1) |
