@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 Jan 2026 10:26:32 GMT | Best Managed Cybersecurity Services Provider in India - Threat Detection | Thiripathiv | [Read More](https://medium.com/p/3554925cd490) |
+| Wed, 21 Jan 2026 10:15:50 GMT | Total Security Solutions: The Future of Electronic Security Solutions in a Rapidly Evolving World | Ciss India | [Read More](https://medium.com/p/8c0161719d55) |
+| Wed, 21 Jan 2026 10:12:55 GMT | Unauthenticated IDOR Leading to Unauthorized Read and Delete Sensitive Data | Bashir Abdulmajeed | [Read More](https://medium.com/p/abdb1037139b) |
+| Wed, 21 Jan 2026 10:12:09 GMT | Rethinking Deterrence and Stability in the Strait of Hormuz | Mehraneh Zare | [Read More](https://medium.com/p/2f5839ed1ef3) |
+| Wed, 21 Jan 2026 09:55:32 GMT | India’s DPDP Act Isn’t a Legal Update, It’s a Wake-Up Call for How We Handle Data | Lakshita Gulliya | [Read More](https://medium.com/p/801c4c2cbd93) |
+| Wed, 21 Jan 2026 09:50:40 GMT | Best AI Courses in Delhi with Certifications in 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/f53db96bb4ee) |
+| Wed, 21 Jan 2026 09:48:57 GMT | Learning Kerberos by attacking Active Directory | guyvolvo | [Read More](https://medium.com/p/c4e4f9565f8a) |
+| Wed, 21 Jan 2026 09:46:41 GMT | Public Service Announcement: Lock in, but be WARY! | Timothy Olowu | [Read More](https://medium.com/p/4d7e7612d74c) |
+| Wed, 21 Jan 2026 09:45:46 GMT | Your SIEM Has Blind Spots. And Here’s How Red Teams Exploit Them | Redfox Security | [Read More](https://medium.com/p/f74b628da2a6) |
+| Wed, 21 Jan 2026 09:43:11 GMT | Mapping the Attack Surface: A Nessus Vulnerability Assessment | Joanorifha | [Read More](https://medium.com/p/05e1431dbbb3) |
+| Wed, 21 Jan 2026 09:39:45 GMT | What is Cybersecurity? Roles, Roadmap & Career Paths | anil-x-cyber | [Read More](https://medium.com/p/08418a29516c) |
+| Wed, 21 Jan 2026 09:33:01 GMT | How F9 Infotech Helps Businesses Build Resilient AWS Architectures | F9 Infotech | [Read More](https://medium.com/p/30aaf1892abf) |
 | Wed, 21 Jan 2026 09:32:39 GMT | Security Analysis: Bitunix defining Safe Standards in 2026. | Zava | [Read More](https://medium.com/p/0717143b211a) |
+| Wed, 21 Jan 2026 09:32:37 GMT | Trading Accounts: Why Is Cybersecurity Critical for Protecting Online Forex? | Harikrishna Infasta | [Read More](https://medium.com/p/4549f25d504c) |
+| Wed, 21 Jan 2026 09:30:04 GMT | AWS Security Groups vs NACLs — A Beginner-Friendly Guide | Navyashri P.G. | [Read More](https://medium.com/p/df39fbedbe5e) |
 | Wed, 21 Jan 2026 09:25:59 GMT | Traffic Fingerprinting in PHP Using Only Headers | Asian Digital Hub | [Read More](https://medium.com/p/2a24f54c501c) |
 | Wed, 21 Jan 2026 09:21:09 GMT | AI-Powered Social Engineering: What Is Redefining Modern Phishing Attacks? | Tim Obi | [Read More](https://medium.com/p/7a0fa1d90905) |
 | Wed, 21 Jan 2026 09:17:28 GMT | Managed IT service providers in Centurion Area | The Computer Guyz | [Read More](https://medium.com/p/4d324c7028c9) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 Jan 2026 03:31:51 GMT | Cybersecurity in Freight 2026 | CT Incorporated | [Read More](https://medium.com/p/9eea0a586e7d) |
 | Wed, 21 Jan 2026 03:31:29 GMT | Vulnerability Scanning with Nmap + Vulners NSE Script | Cybeague Technologies | [Read More](https://medium.com/p/0db92a29b6be) |
 | Wed, 21 Jan 2026 03:28:18 GMT | IST 894 — Lab Assignment Report | Nick MacMillan | [Read More](https://medium.com/p/fc83e819e0f6) |
-| Wed, 21 Jan 2026 03:26:29 GMT | IST 894 Capstone Portfolio | Nick MacMillan | [Read More](https://medium.com/p/8958b7dfeb05) |
-| Wed, 21 Jan 2026 03:22:45 GMT | Kubernetes Confused Me for Years Until I Understood These 5 Concepts | Giri Babu | [Read More](https://medium.com/p/142f9b4cf85a) |
-| Wed, 21 Jan 2026 03:21:50 GMT | OverTheWire Bandit (Day 19): Linux Fundamentals Every Blue Team & SOC Analyst Must Master | Meyyappan venkatesh | [Read More](https://medium.com/p/c3dbea3c7f51) |
-| Wed, 21 Jan 2026 03:18:52 GMT | How AI Changes the Cloud Threat Model | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/4c3b6b50558d) |
-| Wed, 21 Jan 2026 03:17:08 GMT | How Ordinary File Converters Became a Malware Delivery Channel | Deven Chhajed | [Read More](https://medium.com/p/1b073979dda7) |
-| Wed, 21 Jan 2026 03:14:45 GMT | AI Is Not 100% Secure | Shahzaib | [Read More](https://medium.com/p/3f7a220bd32b) |
-| Wed, 21 Jan 2026 03:14:39 GMT | Why Human Risk Graph (HRG) Matters More Than CVEs in 2026 | Aleksei Aleinikov | [Read More](https://medium.com/p/08436e649026) |
-| Wed, 21 Jan 2026 02:44:00 GMT | Common Cloud Misconfigurations That Expose AI Systems | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/baa6e5842fd6) |
-| Wed, 21 Jan 2026 02:43:43 GMT | Continuous Confidence: Rethinking GRC for the Cloud Era | Nikita Gupta | [Read More](https://medium.com/p/e0f5c18a0662) |
-| Wed, 21 Jan 2026 02:20:08 GMT | Nukes That Don’t Detonate | Zaid R Idris | [Read More](https://medium.com/p/56db45a9596d) |
-| Wed, 21 Jan 2026 02:11:06 GMT | Weekly Threat Intelligence Report 19 Jan 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/2b8b4ea76087) |
-| Wed, 21 Jan 2026 01:38:03 GMT | Cybersecurity in the Age of Artificial Intelligence | Jaqq Peitak | [Read More](https://medium.com/p/459c3edd1d8a) |
-| Wed, 21 Jan 2026 01:33:25 GMT | ️ Nothing Hidden: Exposing Netmon’s Deadly Secrets | Nicholas Mullenski | [Read More](https://medium.com/p/1948b32bc426) |
-| Wed, 21 Jan 2026 01:16:10 GMT | What I Learned Transitioning from Software Development to Cybersecurity | Kasun Perera | [Read More](https://medium.com/p/6f3671e6c948) |
