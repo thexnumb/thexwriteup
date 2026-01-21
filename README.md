@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 Jan 2026 18:43:47 GMT | Python Things I Wish I Had Learned Earlier (So I Didn’t Waste Years) | Babar saad | [Read More](https://medium.com/p/29734e3fb505) |
+| Wed, 21 Jan 2026 18:32:38 GMT | Predictive AI: Power, Risk, and the Human Factor | Len Noe | [Read More](https://medium.com/p/d2343b18314e) |
+| Wed, 21 Jan 2026 18:26:22 GMT | AutoBof — Building an AI-Powered Buffer Overflow Detection Tool | Muhammad Usman Ahmad | [Read More](https://medium.com/p/1950267ce8d3) |
+| Wed, 21 Jan 2026 18:22:03 GMT | Security vs Executive Protection | Ricardo Figueroa | [Read More](https://medium.com/p/e2a52ec918ff) |
+| Wed, 21 Jan 2026 18:00:36 GMT | Cap Machine Write-up | JustIce | [Read More](https://medium.com/p/cbf61926afda) |
+| Wed, 21 Jan 2026 17:53:21 GMT | 2 Officers. | Heesham Naji | [Read More](https://medium.com/p/c60571e80ca5) |
+| Wed, 21 Jan 2026 17:47:38 GMT | Job Scam Bots Are Targeting “Open to Work” Signals. Here’s How It Works | Aubrey | [Read More](https://medium.com/p/f838fafa582b) |
 | Wed, 21 Jan 2026 17:39:49 GMT | OverTheWire Natas Challenges | W4lk3r | [Read More](https://medium.com/p/560e51835036) |
 | Wed, 21 Jan 2026 17:37:50 GMT | Voice API Compliance and Security — What Regulated Businesses Must Ensure | FreJun | [Read More](https://medium.com/p/9bb5c8e3fe0f) |
 | Wed, 21 Jan 2026 17:35:12 GMT | Complete Guide To Security Camera Installation | Alex Bryn | [Read More](https://medium.com/p/37791b48baed) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 Jan 2026 13:27:07 GMT | Cyborg — THM Writeup | sudo_0xksh | [Read More](https://medium.com/p/4e1490fd93b8) |
 | Wed, 21 Jan 2026 13:19:52 GMT | Inside the Dark Side of the Digital World — How Dangerous Can Hacking Be? | Arshika Dhingra | [Read More](https://medium.com/p/cea24095e336) |
 | Wed, 21 Jan 2026 13:12:22 GMT | Detecting Web Shells in WordPress Through Apache Log Analysis | Citadel Cybersec | [Read More](https://medium.com/p/a83bd23920b0) |
-| Wed, 21 Jan 2026 13:12:08 GMT | Identity Shield 2026: Day 2 — When Inspiration Meets Innovation (And I’m Blown Away!) | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/726743aa6fd9) |
-| Wed, 21 Jan 2026 12:59:39 GMT | Wireless Hacking Part 1 - Introduction to Wireless Networks | Mr Jokar | [Read More](https://medium.com/p/59cb47a92187) |
-| Wed, 21 Jan 2026 12:59:20 GMT | How Modern Enforcement Teams Use Parking Enforcement Technology to Eliminate Parking Abuse | ParqEx | [Read More](https://medium.com/p/5534e9cb0cd5) |
-| Wed, 21 Jan 2026 12:58:48 GMT | 從被動到主動：利用 AWS SecurityAgent 實現自動化安全設計審查(Design review)與Code review | Kuro Huang | [Read More](https://medium.com/p/7a8e936a1045) |
-| Wed, 21 Jan 2026 12:58:31 GMT | IFI Tech — Azure Expert MSP - Microsoft Solutions Partner | IFI Techsolutions | [Read More](https://medium.com/p/0ba2c307d8dc) |
-| Wed, 21 Jan 2026 12:56:03 GMT | How I Discovered the RXSS and Bypassed the WAF | Hink_1250 | [Read More](https://medium.com/p/437336701ec1) |
-| Wed, 21 Jan 2026 12:54:53 GMT | CAP Is a Lie We Tell Ourselves to Justify Broken Systems | Alexey A. Nekludoff | [Read More](https://medium.com/p/6154a708bd39) |
