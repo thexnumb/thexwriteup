@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 Jan 2026 17:39:49 GMT | OverTheWire Natas Challenges | W4lk3r | [Read More](https://medium.com/p/560e51835036) |
+| Wed, 21 Jan 2026 17:37:50 GMT | Voice API Compliance and Security — What Regulated Businesses Must Ensure | FreJun | [Read More](https://medium.com/p/9bb5c8e3fe0f) |
+| Wed, 21 Jan 2026 17:35:12 GMT | Complete Guide To Security Camera Installation | Alex Bryn | [Read More](https://medium.com/p/37791b48baed) |
+| Wed, 21 Jan 2026 17:30:27 GMT | Deconstructing Detection Logic in Windows Environments-Part 1 | Manish [pikachu] | [Read More](https://medium.com/p/d3a7db3bdd1d) |
+| Wed, 21 Jan 2026 17:27:06 GMT | DAY-0 (Rust Programming) | vulnhunter | [Read More](https://medium.com/p/20a6ddd00e73) |
+| Wed, 21 Jan 2026 17:26:25 GMT | Applying Incident Response Principles to Blockchain Security | Harsh Tandel | [Read More](https://medium.com/p/155d4b2aa107) |
+| Wed, 21 Jan 2026 17:26:19 GMT | That Job Offer Isn’t Real | Casey Elizabeth McDonald | [Read More](https://medium.com/p/fd00258c85b9) |
+| Wed, 21 Jan 2026 17:26:06 GMT | RANSOMWARE IN 2026: EVOLVING THREATS, SOARING COSTS, AND THE NEW DEFENSE PLAYBOOK | Raphaam Digital (Cyber Security Updates) | [Read More](https://medium.com/p/091495169498) |
+| Wed, 21 Jan 2026 17:17:38 GMT | How I Shifted from Theory to Practice in Cybersecurity | Tejas Bhujbal | [Read More](https://medium.com/p/1f49ad50d0de) |
+| Wed, 21 Jan 2026 17:16:26 GMT | When Traffic becomes a Weapon | Mahika Nanda | [Read More](https://medium.com/p/dfdd145f5287) |
+| Wed, 21 Jan 2026 17:12:29 GMT | Poland in the Energy Transition: Can the Country Replace Coal with Renewables by 2030? | Mykhailo Pyrtko | [Read More](https://medium.com/p/6bb5fd0cb67c) |
+| Wed, 21 Jan 2026 17:12:10 GMT | Everyone Is Funding AI. | Patricia Jamelska | [Read More](https://medium.com/p/0f76cca9f5a6) |
+| Wed, 21 Jan 2026 17:09:51 GMT | IaaS, PaaS and SaaS Explained: Best Cloud Models for Scalable Projects | IT_Engineer | [Read More](https://medium.com/p/459e71263fa0) |
+| Wed, 21 Jan 2026 17:06:38 GMT | “Bug Bounty Bootcamp #19: Advanced CSP Bypass — Turning Trusted Third Parties and File Uploads… | Aman Sharma | [Read More](https://medium.com/p/266760ab9ff5) |
+| Wed, 21 Jan 2026 17:03:53 GMT | From ‘False Positive’ to High Impact: A Deep Dive into Validating CVE-2025–14847 (MongoBleed) | Ahmed Nasser | [Read More](https://medium.com/p/9ad2b54267bf) |
+| Wed, 21 Jan 2026 17:01:21 GMT | The Company Fixed the Bug — but Forgot the Cache | Iski | [Read More](https://medium.com/p/359878dc94e7) |
+| Wed, 21 Jan 2026 16:59:46 GMT | From Task to Transformation: How Sanity United Makes Life Easier | Stan4Chainz | [Read More](https://medium.com/p/0a35690897c3) |
+| Wed, 21 Jan 2026 16:58:17 GMT | Where Cloudflare Fits in Modern System Architecture | Anand | [Read More](https://medium.com/p/540209207868) |
+| Wed, 21 Jan 2026 16:57:09 GMT | Two Countries, One Radical Choice | Maithilee Singh | [Read More](https://medium.com/p/429b4904459d) |
+| Wed, 21 Jan 2026 16:55:52 GMT | Unified Kill Chain — TryHackMe Walkthrough | Virendra Kumar | [Read More](https://medium.com/p/59574e35229d) |
+| Wed, 21 Jan 2026 16:53:21 GMT | How to start a cybersecurity career in 2026: A practical roadmap | Hackers Things | [Read More](https://medium.com/p/829dfbf7eb72) |
 | Wed, 21 Jan 2026 16:42:00 GMT | Understanding IPv4 Addressing: What I Revised Today | Amandogra | [Read More](https://medium.com/p/8c71ca3ce3b0) |
 | Wed, 21 Jan 2026 16:38:04 GMT | Reconnaissance: The Most Ignored Phase of an Attack | Daniel Isaac E | [Read More](https://medium.com/p/2391e9124f8c) |
 | Wed, 21 Jan 2026 16:37:17 GMT | Why Your Business Needs 24/7 Cybersecurity: Defend Against Cyber Attacks with PlutoSec | Plutosec Cyber Security | [Read More](https://medium.com/p/26874c6e37f9) |
@@ -25,7 +46,9 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 Jan 2026 16:07:26 GMT | Linux Post-Exploitation 103: The Power of Permissions | Al3xx | [Read More](https://medium.com/p/a8b75faf0714) |
 | Wed, 21 Jan 2026 16:06:27 GMT | Hack the Planet: Thirty Years Later, the Film That Didn’t Understand Hacking but Perfectly… | Cyberecoder | [Read More](https://medium.com/p/998e0008aba8) |
 | Wed, 21 Jan 2026 16:02:31 GMT | Multi-Tenant NestJS Without Data Leaks | Praxen | [Read More](https://medium.com/p/9c915396867f) |
+| Wed, 21 Jan 2026 16:01:16 GMT | The Components of an Attack: The 7 Phases of a Modern Phishing Attempt | Cordula Boeck | [Read More](https://medium.com/p/deaf77ddc9a2) |
 | Wed, 21 Jan 2026 15:55:10 GMT | Offsec “Dawn” CTF Writeup | sabR | [Read More](https://medium.com/p/11efe36b922c) |
+| Wed, 21 Jan 2026 15:53:04 GMT | Security Operations Center L1 Complete Tryhackme Walkthrough!! | Mainekhacker | [Read More](https://medium.com/p/879f59bcde7f) |
 | Wed, 21 Jan 2026 15:45:24 GMT | TBomb: A Prank Tool | Er Raj Aryan | [Read More](https://medium.com/p/750ba84065bd) |
 | Wed, 21 Jan 2026 15:45:04 GMT | Why Mac Sleep Breaks And How To Fix It Fast | Geoffrey Wenger | [Read More](https://medium.com/p/ee89d396cc31) |
 | Wed, 21 Jan 2026 15:41:09 GMT | The Future of Darkweb Markets: Trends, Pressure, and Adaptation | Tor BBB | [Read More](https://medium.com/p/e9b6c88f2379) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 Jan 2026 12:58:31 GMT | IFI Tech — Azure Expert MSP - Microsoft Solutions Partner | IFI Techsolutions | [Read More](https://medium.com/p/0ba2c307d8dc) |
 | Wed, 21 Jan 2026 12:56:03 GMT | How I Discovered the RXSS and Bypassed the WAF | Hink_1250 | [Read More](https://medium.com/p/437336701ec1) |
 | Wed, 21 Jan 2026 12:54:53 GMT | CAP Is a Lie We Tell Ourselves to Justify Broken Systems | Alexey A. Nekludoff | [Read More](https://medium.com/p/6154a708bd39) |
-| Wed, 21 Jan 2026 12:48:51 GMT | WordPress XML-RPC Attack Surface Method Enumeration via system.listMethods Leading to SSRF | Ajay Vardhan | [Read More](https://medium.com/p/0971d977372a) |
-| Wed, 21 Jan 2026 12:45:45 GMT | HTTP vs HTTPS: What Changed After the Lock Icon | Shalu | [Read More](https://medium.com/p/babd32b943e8) |
-| Wed, 21 Jan 2026 12:43:00 GMT | Boogeyman 1. TryHackMe Walkthrough. | Lintu Oommen | [Read More](https://medium.com/p/e2b054ed0d70) |
-| Wed, 21 Jan 2026 12:37:51 GMT | How VeriCapture iOS App Store Global Release Drives VCP v1.1 Adoption | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/920a14780b1d) |
-| Wed, 21 Jan 2026 12:35:32 GMT | How to recover crypto wallet from stolen investment platform with help of Decentralized Codex… | Germanytrader | [Read More](https://medium.com/p/8582a5488dc4) |
-| Wed, 21 Jan 2026 12:27:59 GMT | Building Amanta-NIDS: A Practical Machine-Learning Network Intrusion Detection System | I Putu Nanda Amanta | [Read More](https://medium.com/p/bd1950c04806) |
-| Wed, 21 Jan 2026 12:24:02 GMT | Why the phrase “we use AES” says nothing about an app’s security | Sergey Atroschenko | [Read More](https://medium.com/p/0a503a37f164) |
-| Wed, 21 Jan 2026 12:15:08 GMT | 6 Ways API‑Deployed Email Security Cuts Complexity for MSPs | Secure Titan | [Read More](https://medium.com/p/d53f65791b26) |
-| Wed, 21 Jan 2026 12:14:04 GMT | ISC² Certification Path: Exam-by-Exam Deep Dive | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/264b81933f86) |
-| Wed, 21 Jan 2026 12:13:41 GMT | How DevSecOps Embeds Security into the DNA of Modern CI/CD Pipelines | Samoda Ediriweera | [Read More](https://medium.com/p/9b2d39194e44) |
-| Wed, 21 Jan 2026 12:10:48 GMT | SQL Injection Explained: Types, Risks, Tools & How to Learn It (Ethical Hacking Guide) | Cyber Wolf | [Read More](https://medium.com/p/7c4d59d53646) |
-| Wed, 21 Jan 2026 12:05:33 GMT | beautiful disaster I | Luaaguiar | [Read More](https://medium.com/p/5b0f0c4a9f72) |
-| Wed, 21 Jan 2026 12:05:31 GMT | How Generative AI Is Breaking Food Delivery Apps | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/792f597c52ab) |
-| Wed, 21 Jan 2026 12:03:03 GMT | DTOs That Don’t Spill: Secure NestJS Validation Patterns | Modexa | [Read More](https://medium.com/p/2493e45392d2) |
-| Wed, 21 Jan 2026 12:03:01 GMT | Why Thinking Like a Production Engineer Matters More Than Learning Tools. | Miracle | [Read More](https://medium.com/p/050a0ac0e4f9) |
-| Wed, 21 Jan 2026 12:03:01 GMT | The Infrastructure Trap: Domains, SSL, Subdomains, Hosting | Ingvar Pavlovich | [Read More](https://medium.com/p/3267f4ff5bfd) |
-| Wed, 21 Jan 2026 12:03:01 GMT | Hiring a Hacker to Hack Email Passwords: Why the Idea Persists and Why It Fails | Rebecca Smith | [Read More](https://medium.com/p/7689037c8626) |
-| Wed, 21 Jan 2026 12:01:57 GMT | Cybersecurity is often presented as something big and complex. | Aderinsola Amode | [Read More](https://medium.com/p/d5e81b7efeb8) |
-| Wed, 21 Jan 2026 12:00:23 GMT | Brand Forensics: The Anomalous Nomenclature of Wbgzx | Aequitas Digital Exchange | [Read More](https://medium.com/p/963404b73ea8) |
-| Wed, 21 Jan 2026 11:59:18 GMT | Server-Side Template Injection (SSTI): A Practical Testing Methodology | Israel Aráoz Severiche | [Read More](https://medium.com/p/79db2b423199) |
-| Wed, 21 Jan 2026 11:57:27 GMT | Cybersecurity is the answer to digital safety | B.. M .. W | [Read More](https://medium.com/p/29696fbc4698) |
-| Wed, 21 Jan 2026 11:54:21 GMT | Why NDR Is the Nervous System of Modern Cybersecurity in 2026 | NetWitness | [Read More](https://medium.com/p/facfb5aa8e83) |
-| Wed, 21 Jan 2026 11:52:39 GMT | Top Skills Every Offensive Ethical Hacker Must Master | Ajal Workspace | [Read More](https://medium.com/p/da05bba27017) |
