@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 Jan 2026 11:20:22 GMT | Website Not Secure Warning? Here’s How to Fix It | Smit Pipaliya | [Read More](https://medium.com/p/70e62a67ef49) |
+| Wed, 21 Jan 2026 11:20:04 GMT | How to Use Cloudflare Firewall Rules to Secure Your Website | Smit Pipaliya | [Read More](https://medium.com/p/8a77bc428758) |
+| Wed, 21 Jan 2026 11:03:05 GMT | From Forgotten Tool to Powerful Pivot: Using JA3 to Expose Attackers’ Infrastructure | ANY.RUN | [Read More](https://medium.com/p/fd54f3e00187) |
+| Wed, 21 Jan 2026 11:02:12 GMT | Simple Broken Access Control | Windasunny | [Read More](https://medium.com/p/850cb9beb7c4) |
+| Wed, 21 Jan 2026 11:00:49 GMT | Forensic Blind Spot Exposed: Medical Devices Were Missing from Crime Scene Investigations | Berend Watchus | [Read More](https://medium.com/p/731edd08aad6) |
+| Wed, 21 Jan 2026 11:00:48 GMT | Why Traditional Firewalls Are No Longer Enough for Modern Enterprises | Bluechip Advanced Technologies | [Read More](https://medium.com/p/4a46b1cdda43) |
+| Wed, 21 Jan 2026 10:57:44 GMT | 70% of Nifty 50 Stocks in Red Jan 2026: How to Protect Your Stock Portfolio | digital Aditya | [Read More](https://medium.com/p/684428225e39) |
+| Wed, 21 Jan 2026 10:50:58 GMT | Total Security Solutions: The Future of Electronic Security Solutions in a Rapidly Evolving World | Ciss India | [Read More](https://medium.com/p/b702c6e5a3d8) |
+| Wed, 21 Jan 2026 10:49:52 GMT | Forensic Blind Spot Exposed: Medical Devices Were Missing from Crime Scene investigations | Berend Watchus | [Read More](https://medium.com/p/9088dd34a390) |
+| Wed, 21 Jan 2026 10:49:13 GMT | Week 7- API Security for PCI Compliance | Stella Obatoye | [Read More](https://medium.com/p/b68e569354c3) |
+| Wed, 21 Jan 2026 10:48:47 GMT | Is a Spiritual Retreat Right for You? | M Thidya | [Read More](https://medium.com/p/1bd358142ee6) |
+| Wed, 21 Jan 2026 10:43:28 GMT | Why Cybersecurity Career Advice From 2021 Is Now Dangerous | Taimur Ijlal | [Read More](https://medium.com/p/01abcacec470) |
+| Wed, 21 Jan 2026 10:41:28 GMT | Server-side Request Forgery (SSRF) | Muhammet Ali Tekin | [Read More](https://medium.com/p/a38d38855738) |
+| Wed, 21 Jan 2026 10:38:57 GMT | Skip the 4-year wait: start your cyber career in months | Saad Masood | [Read More](https://medium.com/p/a4aee498ffcd) |
+| Wed, 21 Jan 2026 10:38:27 GMT | Yapay Zeka: Siber Guvenligin Yeni Kalkani mi, Yoksa En Tehlikeli Silahi mi? | Umut Baran Yavuz | [Read More](https://medium.com/p/571680b16d08) |
+| Wed, 21 Jan 2026 10:38:03 GMT | High Book Value Stocks in India Based on Multi-Year Earnings | digital Aditya | [Read More](https://medium.com/p/0b946f9d892a) |
+| Wed, 21 Jan 2026 10:36:06 GMT | Angular-Specific API Security Mapping | Piyali Das | [Read More](https://medium.com/p/fac607d9de6c) |
+| Wed, 21 Jan 2026 10:34:07 GMT | BROKEN TRUST COMES AT A COST. | Oladipo Taiwo Olamide(Lolu_Everywhere) | [Read More](https://medium.com/p/8d368ff5e859) |
+| Wed, 21 Jan 2026 10:32:15 GMT | Fake Android Apps Are Stealing Your Personal Data — Most Users Don’t Even Realize It | Blue Bird Digital Technology | [Read More](https://medium.com/p/b8717535bb5d) |
+| Wed, 21 Jan 2026 10:28:32 GMT | The Best OPPO Phones to Buy in 2026 | Victoria Rivera | [Read More](https://medium.com/p/30c9211ade0f) |
 | Wed, 21 Jan 2026 10:26:32 GMT | Best Managed Cybersecurity Services Provider in India - Threat Detection | Thiripathiv | [Read More](https://medium.com/p/3554925cd490) |
 | Wed, 21 Jan 2026 10:15:50 GMT | Total Security Solutions: The Future of Electronic Security Solutions in a Rapidly Evolving World | Ciss India | [Read More](https://medium.com/p/8c0161719d55) |
 | Wed, 21 Jan 2026 10:12:55 GMT | Unauthenticated IDOR Leading to Unauthorized Read and Delete Sensitive Data | Bashir Abdulmajeed | [Read More](https://medium.com/p/abdb1037139b) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 Jan 2026 05:40:22 GMT | AI Has Arrived. Now Comes the Hard Part! | Andre Fernandes | [Read More](https://medium.com/p/0b50f9041fff) |
 | Wed, 21 Jan 2026 05:38:09 GMT | iOS App Attestation for Jailbreak ? | Aiwin siby | [Read More](https://medium.com/p/7d2afa08bbc5) |
 | Wed, 21 Jan 2026 05:37:36 GMT | Building a File Integrity Monitor in Python: A Hands-On Cybersecurity Project | Edson | [Read More](https://medium.com/p/108113016b45) |
-| Wed, 21 Jan 2026 05:31:52 GMT | The QA Financial Statement: Calculating the True Cost of a Bug | Richa Pandey | [Read More](https://medium.com/p/98f61afad06a) |
-| Wed, 21 Jan 2026 05:14:16 GMT | ️ Day 041 of 100DaysOfCloud Securing Sensitive Data Using AWS KMS (Encrypt & Decrypt) | Hritik Raj | [Read More](https://medium.com/p/8161180ff1f6) |
-| Wed, 21 Jan 2026 05:14:00 GMT | Decrypting RDP Traffic: When Encryption Meets Analysis | Cybersecurity Simplified | [Read More](https://medium.com/p/68585a7b5f7c) |
-| Wed, 21 Jan 2026 05:12:59 GMT | Securing the Lifeline | Amit Tomar | [Read More](https://medium.com/p/bb6c2fd52885) |
-| Wed, 21 Jan 2026 05:02:03 GMT | Trump’s Greenland Ultimatum Is Tearing NATO Apart | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/60a03e34222d) |
-| Wed, 21 Jan 2026 04:49:19 GMT | Generate Random String: Essential Guide for SaaS Security and Authentication | Maria Shakoor | [Read More](https://medium.com/p/6b324b50ffc4) |
-| Wed, 21 Jan 2026 04:48:08 GMT | Bypass RootBeer Frida: Panduan Bypass RASP dan SSL Pinning pada Android via Windows | Nanda Cahya Septiawan | [Read More](https://medium.com/p/210c546b13eb) |
-| Wed, 21 Jan 2026 04:43:22 GMT | Is Your AI Assistant Leaking Financial Data? The New 2026 Security Standards You Need to Know | LaLiSa | [Read More](https://medium.com/p/f9fbcc8a528e) |
-| Wed, 21 Jan 2026 04:32:56 GMT | How I Found and reported 50+ Exposed Celery Flower Dashboards on Shodan | the_unlucky_guy | [Read More](https://medium.com/p/f4de4289630c) |
-| Wed, 21 Jan 2026 04:26:41 GMT | Shadow Agents and Prompt Injection: AI is Reshaping Security in 2026 | Savneet Singh | [Read More](https://medium.com/p/279db57837a1) |
-| Wed, 21 Jan 2026 04:19:05 GMT | Managed Detection and Response Market Size, Share, and Growth Outlook | Gauri Kale | [Read More](https://medium.com/p/8ec03f897a3f) |
-| Wed, 21 Jan 2026 03:59:55 GMT | New eMAPT exam v1.1 — Review | Nail Gozalov | [Read More](https://medium.com/p/404a121d2e33) |
-| Wed, 21 Jan 2026 03:51:58 GMT | The Unwritten Rules of On-Chain Automation: A Survival Guide | SOL-byte | [Read More](https://medium.com/p/99db14316284) |
-| Wed, 21 Jan 2026 03:33:39 GMT | Hacking Authentication: From Manual Enumeration to Python Automation | gurmatsour | [Read More](https://medium.com/p/6827f790627a) |
-| Wed, 21 Jan 2026 03:32:31 GMT | Nmap Vulscan: Fast & Effective Vulnerability Detection Using Service Version Mapping | Cybeague Technologies | [Read More](https://medium.com/p/0f0ebecf9493) |
-| Wed, 21 Jan 2026 03:32:08 GMT | Top 7 Tips for Node.js Authentication Domain Design | Arunangshu Das | [Read More](https://medium.com/p/4d1a2ec0282f) |
-| Wed, 21 Jan 2026 03:32:08 GMT | New Projects | Danny | [Read More](https://medium.com/p/4c3fc9ad2d94) |
-| Wed, 21 Jan 2026 03:31:51 GMT | Cybersecurity in Freight 2026 | CT Incorporated | [Read More](https://medium.com/p/9eea0a586e7d) |
-| Wed, 21 Jan 2026 03:31:29 GMT | Vulnerability Scanning with Nmap + Vulners NSE Script | Cybeague Technologies | [Read More](https://medium.com/p/0db92a29b6be) |
-| Wed, 21 Jan 2026 03:28:18 GMT | IST 894 — Lab Assignment Report | Nick MacMillan | [Read More](https://medium.com/p/fc83e819e0f6) |
