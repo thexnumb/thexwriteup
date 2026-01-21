@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 Jan 2026 21:26:05 GMT | Unauthorized File Deletion via Broken Access Control | Omer Mohsen | [Read More](https://medium.com/p/63c287abcd29) |
+| Wed, 21 Jan 2026 21:19:11 GMT | Security Hardening of your Dev Containers with Docker Hardened Images (dhi.io) | Mathieu Benoit | [Read More](https://medium.com/p/2bfb5d299b7f) |
+| Wed, 21 Jan 2026 21:11:02 GMT | LLMs Under Siege: The Red Team Reality Check of 2026 | @EddieOz | [Read More](https://medium.com/p/05202d032995) |
+| Wed, 21 Jan 2026 21:07:41 GMT | Bypassing Frida: Advanced Frida Detection Bypass — Part 2 | Haxymad | [Read More](https://medium.com/p/e3466a141a4c) |
+| Wed, 21 Jan 2026 21:05:30 GMT | The Silence That Built an Intelligence System | Ben Moataz | [Read More](https://medium.com/p/704b370e854f) |
+| Wed, 21 Jan 2026 21:03:36 GMT | Taylor Swift Is Just Too Much for You | Ashley Collins | [Read More](https://medium.com/p/f27509dbfaf3) |
+| Wed, 21 Jan 2026 21:01:08 GMT | Tanuki pt 2 Writeup (BugForge) | 7s26Simon | [Read More](https://medium.com/p/9fb93d2474e4) |
+| Wed, 21 Jan 2026 20:59:30 GMT | Introducing CVE-Alert: Free Real-Time Vulnerability Tracking by Dataforge | Dan Forsyth | [Read More](https://medium.com/p/0612b90f099e) |
+| Wed, 21 Jan 2026 20:56:01 GMT | Unlock a Safer, Faster, and Private Internet | Genelia | [Read More](https://medium.com/p/d0416bc0ecc9) |
+| Wed, 21 Jan 2026 20:53:43 GMT | ️ One Click to Ultimate Cybersecurity with NordVPN | Genelia | [Read More](https://medium.com/p/bba6b27a00fb) |
+| Wed, 21 Jan 2026 20:48:08 GMT | How I Verify PC Workman Security Before Every Release | Marcin Firmuga | [Read More](https://medium.com/p/cd1a36d94c1c) |
+| Wed, 21 Jan 2026 20:31:57 GMT | Why My Windows Transparent Proxy Failed on Wi-Fi (and Worked on Ethernet) | Altug Tatlisu | [Read More](https://medium.com/p/952e610579c8) |
 | Wed, 21 Jan 2026 20:30:08 GMT | There Is No Perfect Security. So I Built an App That Knows Nothing About You. | Yasuo Kawachi | [Read More](https://medium.com/p/1f4fa8a6dc8e) |
 | Wed, 21 Jan 2026 20:28:35 GMT | Trying To Find Privacy In An Ai Surveillance Enhanced World | David Speakman | [Read More](https://medium.com/p/a1b1f5fdc1b4) |
+| Wed, 21 Jan 2026 20:27:23 GMT | How to Get Started with Secure Code Review (and Actually Become Good at It) | Parasimpaticki | [Read More](https://medium.com/p/bb26c0168be6) |
 | Wed, 21 Jan 2026 20:26:42 GMT | Day-18 of Bug Bounty Journey : XSS Concept | Anshkamra | [Read More](https://medium.com/p/19e79cf45fcd) |
 | Wed, 21 Jan 2026 20:22:25 GMT | Roburna Audit Completed — Report released | Roburna Official | [Read More](https://medium.com/p/285e2cf6408a) |
 | Wed, 21 Jan 2026 20:19:10 GMT | Business Investigation(Value, Reducing Risk, and Powering Smarter Decisions) | Nazrul Islam Rana | [Read More](https://medium.com/p/114263cf80ea) |
@@ -100,16 +113,3 @@ Okta Partner Experience Coffeecase writeup | Omar Mohamed Hassan Shehatta | [Rea
 | Wed, 21 Jan 2026 15:01:26 GMT | RPC issues for Intel MacOs | Mercy Adams | [Read More](https://medium.com/p/84cbb3540ed1) |
 | Wed, 21 Jan 2026 14:59:41 GMT | Wazuh SIEM Deployment with Multi-OS Agents | Aishat Olayinka Yusuf | [Read More](https://medium.com/p/09e80e1821e9) |
 | Wed, 21 Jan 2026 14:57:19 GMT | Cybersecurity Risks for Remote and Hybrid Workers | Rahima Rehman | [Read More](https://medium.com/p/15f8b276b8f2) |
-| Wed, 21 Jan 2026 14:53:58 GMT | Preparing for ISO 27701 (PIMS) Implementation and Audit: Key Practical Insights for GRC… | Opeyemi Ajakaye-Maku | [Read More](https://medium.com/p/7a9812a90873) |
-| Wed, 21 Jan 2026 14:47:11 GMT | AI-Driven Autonomous Threats: Cybercrime in the Age of Agentic AI | Digital Defense | [Read More](https://medium.com/p/70f6bff728e3) |
-| Wed, 21 Jan 2026 14:46:43 GMT | Why I’m Mastering Networking (CCNA) Before Diving Deep into SOC Operations | osama Moussa | [Read More](https://medium.com/p/eab3f5c5a088) |
-| Wed, 21 Jan 2026 14:40:48 GMT | Allsafe Android Pentesting — Part 5: Insecure Data Storage in Shared Preferences | Mscmkn | [Read More](https://medium.com/p/7e8144fcfd5c) |
-| Wed, 21 Jan 2026 14:39:18 GMT | Sovereign AI Agent Security: Air-Gapped Deployments and Enterprise Integration | Michael Hannecke | [Read More](https://medium.com/p/efc770879cf8) |
-| Wed, 21 Jan 2026 14:32:25 GMT | Cache Deception: When “Harmless Caching” Becomes a Real Risk | Nitin yadav | [Read More](https://medium.com/p/2920b0a2f3db) |
-| Wed, 21 Jan 2026 14:32:24 GMT | MTS-1: A Practical Telemetry Standard for Real-World Systems | Random Access Thoughts | [Read More](https://medium.com/p/5e82231f43d5) |
-| Wed, 21 Jan 2026 14:32:00 GMT | What Is Hacking and Why Should You Learn It? | Vignesh R | [Read More](https://medium.com/p/4242a6148348) |
-| Wed, 21 Jan 2026 14:28:04 GMT | EventID-76 - SOC137 - Malicious File/Script Download Attempt | Soumodeep Das | [Read More](https://medium.com/p/ede933ef1b54) |
-| Wed, 21 Jan 2026 14:27:32 GMT | CONVERSING WITH INNER SELF : PART 1 | Shrishti | [Read More](https://medium.com/p/bbab83603e3e) |
-| Wed, 21 Jan 2026 14:26:01 GMT | Corridor - TryHackMe walkthrough | Crystal_cascade14 | [Read More](https://medium.com/p/ece542738936) |
-| Wed, 21 Jan 2026 14:24:31 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/2a229a165464) |
-| Wed, 21 Jan 2026 14:24:27 GMT | [AD攻防]Silver Ticket手法 | 陳禹璿 | [Read More](https://medium.com/p/5379797e29ef) |
