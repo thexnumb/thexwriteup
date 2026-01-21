@@ -12,10 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 Jan 2026 19:16:20 GMT | From a Single ID to Confidential Report Disclosure — Breaking Patterns in a Real Bug Bounty | Shazilrao | [Read More](https://medium.com/p/298459c5fcd1) |
+| Wed, 21 Jan 2026 19:13:56 GMT | Do Startups Really Need Cybersecurity? Yes. Earlier Than You Think. | Jacob Sanni | [Read More](https://medium.com/p/b3216276b9fc) |
+| Wed, 21 Jan 2026 19:12:30 GMT | Splunk Bots — 
+Okta Partner Experience Coffeecase writeup | Omar Mohamed Hassan Shehatta | [Read More](https://medium.com/p/a410333d2b3e) |
+| Wed, 21 Jan 2026 19:11:14 GMT | Model Inversion Saldırıları: LLM’den Eğitim Verisini Geri Kazanmak | Melike Ateş | [Read More](https://medium.com/p/c4978258218f) |
+| Wed, 21 Jan 2026 19:02:00 GMT | Anti-SQL Injection | Iram Jack | [Read More](https://medium.com/p/c4e5e2ecf5f1) |
+| Wed, 21 Jan 2026 19:02:00 GMT | HTB PhisNet Sherlock Writeup | Russell Medina | [Read More](https://medium.com/p/ed72f5d44b12) |
+| Wed, 21 Jan 2026 19:00:47 GMT | Ethical Hacking — Career Earnings Analysis (2026) | Franklin Rhodes | [Read More](https://medium.com/p/ec16491df615) |
+| Wed, 21 Jan 2026 18:57:54 GMT | TakeOver - Tryhackme | Nasir Ahim | [Read More](https://medium.com/p/4d9cfd715d90) |
+| Wed, 21 Jan 2026 18:56:31 GMT | Can a VPN Fool GPS Tracking Apps? A Security Expert’s Deep Dive (2026 Update) | Teona | [Read More](https://medium.com/p/bb1b5926c547) |
+| Wed, 21 Jan 2026 18:54:01 GMT | Secure Kubernetes Deployment Guide (Self-Managed) — Part VIII | SOCFortress | [Read More](https://medium.com/p/97a4b09ef2ba) |
+| Wed, 21 Jan 2026 18:51:58 GMT | Bienvenue sur Cyber Simplifiée ! ️ | Raphaël Cyber Simplifiée | [Read More](https://medium.com/p/f51ef2e9f914) |
+| Wed, 21 Jan 2026 18:51:39 GMT | How to Build Security Into Your DevOps Pipeline (Before Hackers Do) | VICTOR IJONI | [Read More](https://medium.com/p/d90324b70de5) |
+| Wed, 21 Jan 2026 18:48:20 GMT | Secure vs Insecure Protocols | guyvolvo | [Read More](https://medium.com/p/c32471d1927f) |
 | Wed, 21 Jan 2026 18:43:47 GMT | Python Things I Wish I Had Learned Earlier (So I Didn’t Waste Years) | Babar saad | [Read More](https://medium.com/p/29734e3fb505) |
 | Wed, 21 Jan 2026 18:32:38 GMT | Predictive AI: Power, Risk, and the Human Factor | Len Noe | [Read More](https://medium.com/p/d2343b18314e) |
 | Wed, 21 Jan 2026 18:26:22 GMT | AutoBof — Building an AI-Powered Buffer Overflow Detection Tool | Muhammad Usman Ahmad | [Read More](https://medium.com/p/1950267ce8d3) |
 | Wed, 21 Jan 2026 18:22:03 GMT | Security vs Executive Protection | Ricardo Figueroa | [Read More](https://medium.com/p/e2a52ec918ff) |
+| Wed, 21 Jan 2026 18:07:42 GMT | You Don’t Need to Be Rich to Be a Cybercrime Target | The Techie Indian | [Read More](https://medium.com/p/34cd96bf6a96) |
 | Wed, 21 Jan 2026 18:00:36 GMT | Cap Machine Write-up | JustIce | [Read More](https://medium.com/p/cbf61926afda) |
 | Wed, 21 Jan 2026 17:53:21 GMT | 2 Officers. | Heesham Naji | [Read More](https://medium.com/p/c60571e80ca5) |
 | Wed, 21 Jan 2026 17:47:38 GMT | Job Scam Bots Are Targeting “Open to Work” Signals. Here’s How It Works | Aubrey | [Read More](https://medium.com/p/f838fafa582b) |
@@ -98,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 Jan 2026 13:57:07 GMT | Why Cyber Security Failures Are Rarely Technical — And Almost Always Strategic | ANSI Technologies | [Read More](https://medium.com/p/94f0041e4707) |
 | Wed, 21 Jan 2026 13:54:46 GMT | Do You Need Business Insurance for an AI Agency? | AgileWoW | [Read More](https://medium.com/p/be5c259a1990) |
 | Wed, 21 Jan 2026 13:54:07 GMT | How the Spring Security Filter Chain Really Works | Ayoub Taouam | [Read More](https://medium.com/p/5a624f984a3c) |
-| Wed, 21 Jan 2026 13:47:20 GMT | VulnLab: Insecure Direct Object Reference (IDOR) Çözümü | CyberSam | [Read More](https://medium.com/p/f20073a960ef) |
-| Wed, 21 Jan 2026 13:47:00 GMT | CloudGoat AWS vulnerable_cognito Walkthrough | Spookz | [Read More](https://medium.com/p/35bb2cd6c8be) |
-| Wed, 21 Jan 2026 13:38:53 GMT | The Future of AI Value: What If AI Models Were Traded Like Stocks? | Lok3.sh | [Read More](https://medium.com/p/3804fdd47717) |
-| Wed, 21 Jan 2026 13:34:59 GMT | Kindle Vulnerability Exposes Amazon Account Security Risks | Karl Buhl | [Read More](https://medium.com/p/f7ca63a98450) |
-| Wed, 21 Jan 2026 13:34:46 GMT | AI untuk Penetration Testing | Haniflpstreetsoldier | [Read More](https://medium.com/p/9d84bee7dfb2) |
-| Wed, 21 Jan 2026 13:33:44 GMT | Write-up: RazorBlack lab (Medium) on THM | cLODIUS cOCK | [Read More](https://medium.com/p/4d49e71d5140) |
-| Wed, 21 Jan 2026 13:33:06 GMT | The Crisis of Knowing: Why Proof of Human Matters Now More Than Ever | DracattusDev | [Read More](https://medium.com/p/62e2f7c9e070) |
-| Wed, 21 Jan 2026 13:32:48 GMT | MyExpense: 1 Lab WalkThrough | Ankush Prasad Sah | [Read More](https://medium.com/p/c1dc3d14fb60) |
-| Wed, 21 Jan 2026 13:31:22 GMT | Beyond the Alert: Mastering the Proactive Threat Hunting Mindset | Misbah waraich | [Read More](https://medium.com/p/2239869289be) |
-| Wed, 21 Jan 2026 13:28:20 GMT | Top Cybersecurity Services in Botswana for Businesses 2026 | Weblogicbotswana | [Read More](https://medium.com/p/4306f9263a9f) |
-| Wed, 21 Jan 2026 13:28:08 GMT | Brute It — TryHackMe Writeup/Walkthrough | sudo_0xksh | [Read More](https://medium.com/p/0ae2b62889ee) |
-| Wed, 21 Jan 2026 13:27:07 GMT | Cyborg — THM Writeup | sudo_0xksh | [Read More](https://medium.com/p/4e1490fd93b8) |
-| Wed, 21 Jan 2026 13:19:52 GMT | Inside the Dark Side of the Digital World — How Dangerous Can Hacking Be? | Arshika Dhingra | [Read More](https://medium.com/p/cea24095e336) |
-| Wed, 21 Jan 2026 13:12:22 GMT | Detecting Web Shells in WordPress Through Apache Log Analysis | Citadel Cybersec | [Read More](https://medium.com/p/a83bd23920b0) |
