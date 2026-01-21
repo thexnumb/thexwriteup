@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 Jan 2026 09:32:39 GMT | Security Analysis: Bitunix defining Safe Standards in 2026. | Zava | [Read More](https://medium.com/p/0717143b211a) |
+| Wed, 21 Jan 2026 09:25:59 GMT | Traffic Fingerprinting in PHP Using Only Headers | Asian Digital Hub | [Read More](https://medium.com/p/2a24f54c501c) |
+| Wed, 21 Jan 2026 09:21:09 GMT | AI-Powered Social Engineering: What Is Redefining Modern Phishing Attacks? | Tim Obi | [Read More](https://medium.com/p/7a0fa1d90905) |
+| Wed, 21 Jan 2026 09:17:28 GMT | Managed IT service providers in Centurion Area | The Computer Guyz | [Read More](https://medium.com/p/4d324c7028c9) |
+| Wed, 21 Jan 2026 09:11:06 GMT | LLMs & AI Systems Are Already Under Attack (And Most Companies Don’t Realize It) | Paritosh | [Read More](https://medium.com/p/ccd467cc6ba8) |
+| Wed, 21 Jan 2026 09:08:28 GMT | What Happens If Someone Sees Your iPhone Passcode Once? | Ryu360 | [Read More](https://medium.com/p/aeb37c952ba9) |
+| Wed, 21 Jan 2026 09:02:05 GMT | What Happens in the 24 Hours After Your Domain Appears in a Stealer Log | Alexandre Vandamme | [Read More](https://medium.com/p/2cc0c3ffc70f) |
+| Wed, 21 Jan 2026 08:54:45 GMT | ประจำวันพุธที่ 21 มกราคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/e63992415862) |
+| Wed, 21 Jan 2026 08:54:02 GMT | The Evil Twin of Agentic AI: We Are Almost Doomed… | Charles Awuzie | [Read More](https://medium.com/p/a079d22918ca) |
+| Wed, 21 Jan 2026 08:52:17 GMT | TryHackMe — The Greenholt Phish Room Çözümleri | Ertan Caner Eskici | [Read More](https://medium.com/p/221e3909ccfa) |
+| Wed, 21 Jan 2026 08:49:31 GMT | IDOR in 5 mins, That Paid me 500$ | BALAJI | [Read More](https://medium.com/p/0d72a2243d1e) |
+| Wed, 21 Jan 2026 08:48:56 GMT | THM: Summit Write Up | Cayden Howell | [Read More](https://medium.com/p/8528e7deea34) |
+| Wed, 21 Jan 2026 08:38:29 GMT | The Secret Life of AWS: The Keys to the Kingdom | Aaron Rose | [Read More](https://medium.com/p/a85d924b715f) |
+| Wed, 21 Jan 2026 08:38:01 GMT | LinkedIn DMs Are the New Phishing Inbox: When DLL Sideloading Turns a “Professional Chat” into a… | Germano Costi | [Read More](https://medium.com/p/8feb3eab9ab3) |
+| Wed, 21 Jan 2026 08:36:15 GMT | Top 10 IT Companies in Nagpur: Top Firms, Jobs, Salaries & Career Growth | esseindiablog | [Read More](https://medium.com/p/4035ca16f708) |
+| Wed, 21 Jan 2026 08:30:36 GMT | CVE-2025–68926 Explained: A Critical RustFS Hardcoded Credential Vulnerability | Criminal IP | [Read More](https://medium.com/p/f3fd38c179d5) |
 | Wed, 21 Jan 2026 08:28:55 GMT | Is Passkey Really “Invincible”? — The 6-Digit Shadow Lurking in iOS Design | Ryu360 | [Read More](https://medium.com/p/4a1e28cfca91) |
+| Wed, 21 Jan 2026 08:27:37 GMT | Will I Ever Love Someone for Who They Truly Are? | Kanupriya | [Read More](https://medium.com/p/7fc1be77f5b8) |
 | Wed, 21 Jan 2026 08:22:39 GMT | Cybersecurity Awareness Isn’t Just Training — It’s Culture | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/7780efc53a1d) |
 | Wed, 21 Jan 2026 08:11:51 GMT | Why I’m Starting My Cybersecurity Journey As A Student | Chandupa Vihasitha | [Read More](https://medium.com/p/30fa6d443307) |
 | Wed, 21 Jan 2026 08:11:10 GMT | How Access Control Works with AI Agents: Why Traditional Models Fail | Naveen C | [Read More](https://medium.com/p/7ef79c77dc63) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 Jan 2026 01:38:03 GMT | Cybersecurity in the Age of Artificial Intelligence | Jaqq Peitak | [Read More](https://medium.com/p/459c3edd1d8a) |
 | Wed, 21 Jan 2026 01:33:25 GMT | ️ Nothing Hidden: Exposing Netmon’s Deadly Secrets | Nicholas Mullenski | [Read More](https://medium.com/p/1948b32bc426) |
 | Wed, 21 Jan 2026 01:16:10 GMT | What I Learned Transitioning from Software Development to Cybersecurity | Kasun Perera | [Read More](https://medium.com/p/6f3671e6c948) |
-| Wed, 21 Jan 2026 01:09:28 GMT | RED-PicoCTF -TR | canndalcii | [Read More](https://medium.com/p/1aa4e317420b) |
-| Wed, 21 Jan 2026 01:02:03 GMT | Why I Started To Learn Cybersecurity In 2026 | Rio Rifaldi | [Read More](https://medium.com/p/2c6b3ed613fd) |
-| Wed, 21 Jan 2026 01:02:03 GMT | ⭐ How a Sophisticated Phishing Attack Almost Took Over My Apple Account — and What It Taught Me… | Mr Simpsons | [Read More](https://medium.com/p/97f839de367b) |
-| Wed, 21 Jan 2026 00:50:11 GMT | The High Price of “Free”: Why Cracked Software is a Security Liability | Andika Pratama | [Read More](https://medium.com/p/bb94b1f2e6d9) |
-| Wed, 21 Jan 2026 00:46:41 GMT | Breaking an AI-Powered Shell | Onurcan Genç | [Read More](https://medium.com/p/0ccb479ab9ac) |
-| Wed, 21 Jan 2026 00:32:01 GMT | Why a VPN is Your Best Friend in Iran | Ech the Tech Fox | [Read More](https://medium.com/p/f86d321f9087) |
-| Wed, 21 Jan 2026 00:25:59 GMT | Fear of Being Misunderstood | Ellyen Darananta | [Read More](https://medium.com/p/23d6c220e015) |
-| Wed, 21 Jan 2026 00:25:00 GMT | React2Shell (CVE-2025-55182) Campaign: When a Frontend Bug Becomes an Initial Access Vector | Mr. Robot.txt | [Read More](https://medium.com/p/7bb1ac0ab654) |
-| Wed, 21 Jan 2026 00:01:59 GMT | Master Guide to HTTP Headers for Bug Bounty: Exploitation and Bypass Techniques | JPablo13 | [Read More](https://medium.com/p/02460b0dde39) |
-| Tue, 20 Jan 2026 23:57:52 GMT | Hackear TV BOX MXQ Rockchip **RK3228A** o versiones RK322X. | Daniela Noelia Garcia | [Read More](https://medium.com/p/b3e24209fe52) |
-| Tue, 20 Jan 2026 23:52:59 GMT | What is OSINT? | Hobin Rood | [Read More](https://medium.com/p/4c68bc05afa9) |
-| Tue, 20 Jan 2026 23:40:21 GMT | The Policy Paradox - Dog Years | Julio Oña | [Read More](https://medium.com/p/fc5edb5a74d0) |
-| Tue, 20 Jan 2026 23:30:33 GMT | Why Most Django Projects Fail in Production (And How to Fix Yours) | Dythonai Innovations and Technologies | [Read More](https://medium.com/p/482668e4bcb6) |
-| Tue, 20 Jan 2026 23:26:34 GMT | WEEKLY BLOG | Melissa Porter | [Read More](https://medium.com/p/7cb99f413a18) |
-| Tue, 20 Jan 2026 23:23:22 GMT | Payload Obfuscation Techniques — Making the Invisible Stay Invisible | Esra Kayhan | [Read More](https://medium.com/p/a57da0315d2d) |
-| Tue, 20 Jan 2026 23:22:57 GMT | Offensive Forensics — In-Depth Guide | Esra Kayhan | [Read More](https://medium.com/p/5d4f05be6691) |
-| Tue, 20 Jan 2026 23:19:22 GMT | 17.5 Million Users Exposed: The Structural Failure of Instagram’s Business Logic (Full Report) | Saad Khalid | [Read More](https://medium.com/p/d3f3f01f5beb) |
