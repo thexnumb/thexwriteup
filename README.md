@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 Jan 2026 22:42:00 GMT | Behind the Build: What It Really Means to Create for Safety | Cyber Dive | [Read More](https://medium.com/p/8c45fb617817) |
+| Wed, 21 Jan 2026 22:22:10 GMT | The Most Dangerous Cyber Risk You’re Not Monitoring: Your Forgotten DNS Domains | Dale Jenkins | [Read More](https://medium.com/p/ace40c762046) |
 | Wed, 21 Jan 2026 22:22:07 GMT | Guardians of the code: Unlocking secure authentication in an AI-powered world | DiUS | [Read More](https://medium.com/p/6b2de51a444d) |
+| Wed, 21 Jan 2026 22:18:46 GMT | Starting a Online B2B Services Company in 2026 | Connor Cady | [Read More](https://medium.com/p/1f29694f9457) |
 | Wed, 21 Jan 2026 22:16:08 GMT | Cloud File-Sharing Platforms Under Attack: How Always-On VPN Simplifies Security | Dan Forsyth | [Read More](https://medium.com/p/a7fce19c294d) |
 | Wed, 21 Jan 2026 21:58:11 GMT | How Hard is it to Overcome DVIUS AI Protocols: Gemini Answered | Seguroski | [Read More](https://medium.com/p/ee3cdfe6669e) |
 | Wed, 21 Jan 2026 21:49:40 GMT | Cybersecurity Used to Intimidate Me, Until Something Finally Changed | Glomygia Orji | [Read More](https://medium.com/p/b441ebed37d9) |
@@ -110,6 +113,3 @@ Okta Partner Experience Coffeecase writeup | Omar Mohamed Hassan Shehatta | [Rea
 | Wed, 21 Jan 2026 15:45:04 GMT | Why Mac Sleep Breaks And How To Fix It Fast | Geoffrey Wenger | [Read More](https://medium.com/p/ee89d396cc31) |
 | Wed, 21 Jan 2026 15:41:09 GMT | The Future of Darkweb Markets: Trends, Pressure, and Adaptation | Tor BBB | [Read More](https://medium.com/p/e9b6c88f2379) |
 | Wed, 21 Jan 2026 15:34:46 GMT | Lab: Insufficient workflow validation-Portswigger | L4V4NY4  AGR3 | [Read More](https://medium.com/p/76112f01ed8a) |
-| Wed, 21 Jan 2026 15:32:47 GMT | My Book Was You | Honeyregineb | [Read More](https://medium.com/p/41fc020635a9) |
-| Wed, 21 Jan 2026 15:30:09 GMT | Privacy at Stake: How Shadow APIs and Structural Failures Fuel the Data Black Market | Joao Buarque | [Read More](https://medium.com/p/19fa157681f0) |
-| Wed, 21 Jan 2026 15:27:18 GMT | What is GDG (Google Developer Groups)? | Dadhishankar | [Read More](https://medium.com/p/47537dfac991) |
