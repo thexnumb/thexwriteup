@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 Jan 2026 14:32:24 GMT | MTS-1: A Practical Telemetry Standard for Real-World Systems | Random Access Thoughts | [Read More](https://medium.com/p/5e82231f43d5) |
+| Wed, 21 Jan 2026 14:28:04 GMT | EventID-76 - SOC137 - Malicious File/Script Download Attempt | Soumodeep Das | [Read More](https://medium.com/p/ede933ef1b54) |
+| Wed, 21 Jan 2026 14:27:32 GMT | CONVERSING WITH INNER SELF : PART 1 | Shrishti | [Read More](https://medium.com/p/bbab83603e3e) |
+| Wed, 21 Jan 2026 14:26:01 GMT | Corridor - TryHackMe walkthrough | Crystal_cascade14 | [Read More](https://medium.com/p/ece542738936) |
+| Wed, 21 Jan 2026 14:24:31 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/2a229a165464) |
+| Wed, 21 Jan 2026 14:23:33 GMT | How I Convinced an AI to Hack Itself: Prompt Injection to XSS ️ | Mahendra Purbia (Mah3Sec) | [Read More](https://medium.com/p/dab60010e40d) |
+| Wed, 21 Jan 2026 14:21:45 GMT | RBOM vs SBOM: Why SBOM Alone Is No Longer Enough for Modern Security | Akanksha | [Read More](https://medium.com/p/d4cbd1f0a201) |
+| Wed, 21 Jan 2026 14:20:47 GMT | Practical Use of Exploit Repositories: From Theory to Hands-on Exploitation with Exploit-DB and… | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/6e5b15fcea11) |
+| Wed, 21 Jan 2026 14:19:50 GMT | How Automation and AI Will Collaborate with Human IT Workers | 2iResourcing | [Read More](https://medium.com/p/cfa4fcf833ec) |
+| Wed, 21 Jan 2026 14:18:13 GMT | Why Firewalls Still Matter — And Why Most Organizations Use Them Wrong | ANSI Technologies | [Read More](https://medium.com/p/ce31a35feda4) |
+| Wed, 21 Jan 2026 14:12:55 GMT | Mental Health in the Middle of the Job Search | Kylee Cox | [Read More](https://medium.com/p/7f017e4235f1) |
+| Wed, 21 Jan 2026 14:07:06 GMT | The Once Extremely Simple Nuclear Launch Codes | Daniel Ganninger | [Read More](https://medium.com/p/146f0ef83829) |
+| Wed, 21 Jan 2026 14:05:00 GMT | Full Governance & Operational Structure of Ghana Technology Service (Top → Bottom) | rubin apore | [Read More](https://medium.com/p/8e32c126b5c0) |
+| Wed, 21 Jan 2026 14:02:29 GMT | What Judgment Looks Like at Runtime | Christopher Caruso | [Read More](https://medium.com/p/1138cc5f699f) |
+| Wed, 21 Jan 2026 13:57:45 GMT | How Agentic AI Is Reshaping Digital Security | Francesca Beaumont | [Read More](https://medium.com/p/86bb32c43c4d) |
+| Wed, 21 Jan 2026 13:57:07 GMT | Why Cyber Security Failures Are Rarely Technical — And Almost Always Strategic | ANSI Technologies | [Read More](https://medium.com/p/94f0041e4707) |
+| Wed, 21 Jan 2026 13:54:46 GMT | Do You Need Business Insurance for an AI Agency? | AgileWoW | [Read More](https://medium.com/p/be5c259a1990) |
+| Wed, 21 Jan 2026 13:54:07 GMT | How the Spring Security Filter Chain Really Works | Ayoub Taouam | [Read More](https://medium.com/p/5a624f984a3c) |
+| Wed, 21 Jan 2026 13:47:20 GMT | VulnLab: Insecure Direct Object Reference (IDOR) Çözümü | CyberSam | [Read More](https://medium.com/p/f20073a960ef) |
+| Wed, 21 Jan 2026 13:47:00 GMT | CloudGoat AWS vulnerable_cognito Walkthrough | Spookz | [Read More](https://medium.com/p/35bb2cd6c8be) |
 | Wed, 21 Jan 2026 13:38:53 GMT | The Future of AI Value: What If AI Models Were Traded Like Stocks? | Lok3.sh | [Read More](https://medium.com/p/3804fdd47717) |
 | Wed, 21 Jan 2026 13:34:59 GMT | Kindle Vulnerability Exposes Amazon Account Security Risks | Karl Buhl | [Read More](https://medium.com/p/f7ca63a98450) |
 | Wed, 21 Jan 2026 13:34:46 GMT | AI untuk Penetration Testing | Haniflpstreetsoldier | [Read More](https://medium.com/p/9d84bee7dfb2) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 Jan 2026 09:39:45 GMT | What is Cybersecurity? Roles, Roadmap & Career Paths | anil-x-cyber | [Read More](https://medium.com/p/08418a29516c) |
 | Wed, 21 Jan 2026 09:33:01 GMT | How F9 Infotech Helps Businesses Build Resilient AWS Architectures | F9 Infotech | [Read More](https://medium.com/p/30aaf1892abf) |
 | Wed, 21 Jan 2026 09:32:39 GMT | Security Analysis: Bitunix defining Safe Standards in 2026. | Zava | [Read More](https://medium.com/p/0717143b211a) |
-| Wed, 21 Jan 2026 09:32:37 GMT | Trading Accounts: Why Is Cybersecurity Critical for Protecting Online Forex? | Harikrishna Infasta | [Read More](https://medium.com/p/4549f25d504c) |
-| Wed, 21 Jan 2026 09:30:04 GMT | AWS Security Groups vs NACLs — A Beginner-Friendly Guide | Navyashri P.G. | [Read More](https://medium.com/p/df39fbedbe5e) |
-| Wed, 21 Jan 2026 09:25:59 GMT | Traffic Fingerprinting in PHP Using Only Headers | Asian Digital Hub | [Read More](https://medium.com/p/2a24f54c501c) |
-| Wed, 21 Jan 2026 09:21:09 GMT | AI-Powered Social Engineering: What Is Redefining Modern Phishing Attacks? | Tim Obi | [Read More](https://medium.com/p/7a0fa1d90905) |
-| Wed, 21 Jan 2026 09:17:28 GMT | Managed IT service providers in Centurion Area | The Computer Guyz | [Read More](https://medium.com/p/4d324c7028c9) |
-| Wed, 21 Jan 2026 09:11:06 GMT | LLMs & AI Systems Are Already Under Attack (And Most Companies Don’t Realize It) | Paritosh | [Read More](https://medium.com/p/ccd467cc6ba8) |
-| Wed, 21 Jan 2026 09:08:28 GMT | What Happens If Someone Sees Your iPhone Passcode Once? | Ryu360 | [Read More](https://medium.com/p/aeb37c952ba9) |
-| Wed, 21 Jan 2026 09:02:05 GMT | What Happens in the 24 Hours After Your Domain Appears in a Stealer Log | Alexandre Vandamme | [Read More](https://medium.com/p/2cc0c3ffc70f) |
-| Wed, 21 Jan 2026 08:54:45 GMT | ประจำวันพุธที่ 21 มกราคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/e63992415862) |
-| Wed, 21 Jan 2026 08:54:02 GMT | The Evil Twin of Agentic AI: We Are Almost Doomed… | Charles Awuzie | [Read More](https://medium.com/p/a079d22918ca) |
-| Wed, 21 Jan 2026 08:52:17 GMT | TryHackMe — The Greenholt Phish Room Çözümleri | Ertan Caner Eskici | [Read More](https://medium.com/p/221e3909ccfa) |
-| Wed, 21 Jan 2026 08:49:31 GMT | IDOR in 5 mins, That Paid me 500$ | BALAJI | [Read More](https://medium.com/p/0d72a2243d1e) |
-| Wed, 21 Jan 2026 08:48:56 GMT | THM: Summit Write Up | Cayden Howell | [Read More](https://medium.com/p/8528e7deea34) |
-| Wed, 21 Jan 2026 08:38:29 GMT | The Secret Life of AWS: The Keys to the Kingdom | Aaron Rose | [Read More](https://medium.com/p/a85d924b715f) |
-| Wed, 21 Jan 2026 08:38:01 GMT | LinkedIn DMs Are the New Phishing Inbox: When DLL Sideloading Turns a “Professional Chat” into a… | Germano Costi | [Read More](https://medium.com/p/8feb3eab9ab3) |
-| Wed, 21 Jan 2026 08:36:15 GMT | Top 10 IT Companies in Nagpur: Top Firms, Jobs, Salaries & Career Growth | esseindiablog | [Read More](https://medium.com/p/4035ca16f708) |
-| Wed, 21 Jan 2026 08:30:36 GMT | CVE-2025–68926 Explained: A Critical RustFS Hardcoded Credential Vulnerability | Criminal IP | [Read More](https://medium.com/p/f3fd38c179d5) |
-| Wed, 21 Jan 2026 08:28:55 GMT | Is Passkey Really “Invincible”? — The 6-Digit Shadow Lurking in iOS Design | Ryu360 | [Read More](https://medium.com/p/4a1e28cfca91) |
-| Wed, 21 Jan 2026 08:27:37 GMT | Will I Ever Love Someone for Who They Truly Are? | Kanupriya | [Read More](https://medium.com/p/7fc1be77f5b8) |
-| Wed, 21 Jan 2026 08:22:39 GMT | Cybersecurity Awareness Isn’t Just Training — It’s Culture | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/7780efc53a1d) |
