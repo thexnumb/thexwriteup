@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 Jan 2026 13:38:53 GMT | The Future of AI Value: What If AI Models Were Traded Like Stocks? | Lok3.sh | [Read More](https://medium.com/p/3804fdd47717) |
+| Wed, 21 Jan 2026 13:34:59 GMT | Kindle Vulnerability Exposes Amazon Account Security Risks | Karl Buhl | [Read More](https://medium.com/p/f7ca63a98450) |
+| Wed, 21 Jan 2026 13:34:46 GMT | AI untuk Penetration Testing | Haniflpstreetsoldier | [Read More](https://medium.com/p/9d84bee7dfb2) |
+| Wed, 21 Jan 2026 13:33:44 GMT | Write-up: RazorBlack lab (Medium) on THM | cLODIUS cOCK | [Read More](https://medium.com/p/4d49e71d5140) |
+| Wed, 21 Jan 2026 13:33:06 GMT | The Crisis of Knowing: Why Proof of Human Matters Now More Than Ever | DracattusDev | [Read More](https://medium.com/p/62e2f7c9e070) |
+| Wed, 21 Jan 2026 13:32:48 GMT | MyExpense: 1 Lab WalkThrough | Ankush Prasad Sah | [Read More](https://medium.com/p/c1dc3d14fb60) |
+| Wed, 21 Jan 2026 13:31:22 GMT | Beyond the Alert: Mastering the Proactive Threat Hunting Mindset | Misbah waraich | [Read More](https://medium.com/p/2239869289be) |
+| Wed, 21 Jan 2026 13:28:20 GMT | Top Cybersecurity Services in Botswana for Businesses 2026 | Weblogicbotswana | [Read More](https://medium.com/p/4306f9263a9f) |
+| Wed, 21 Jan 2026 13:28:08 GMT | Brute It — TryHackMe Writeup/Walkthrough | sudo_0xksh | [Read More](https://medium.com/p/0ae2b62889ee) |
+| Wed, 21 Jan 2026 13:27:07 GMT | Cyborg — THM Writeup | sudo_0xksh | [Read More](https://medium.com/p/4e1490fd93b8) |
+| Wed, 21 Jan 2026 13:19:52 GMT | Inside the Dark Side of the Digital World — How Dangerous Can Hacking Be? | Arshika Dhingra | [Read More](https://medium.com/p/cea24095e336) |
+| Wed, 21 Jan 2026 13:12:22 GMT | Detecting Web Shells in WordPress Through Apache Log Analysis | Citadel Cybersec | [Read More](https://medium.com/p/a83bd23920b0) |
+| Wed, 21 Jan 2026 13:12:08 GMT | Identity Shield 2026: Day 2 — When Inspiration Meets Innovation (And I’m Blown Away!) | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/726743aa6fd9) |
+| Wed, 21 Jan 2026 12:59:39 GMT | Wireless Hacking Part 1 - Introduction to Wireless Networks | Mr Jokar | [Read More](https://medium.com/p/59cb47a92187) |
+| Wed, 21 Jan 2026 12:59:20 GMT | How Modern Enforcement Teams Use Parking Enforcement Technology to Eliminate Parking Abuse | ParqEx | [Read More](https://medium.com/p/5534e9cb0cd5) |
+| Wed, 21 Jan 2026 12:58:48 GMT | 從被動到主動：利用 AWS SecurityAgent 實現自動化安全設計審查(Design review)與Code review | Kuro Huang | [Read More](https://medium.com/p/7a8e936a1045) |
+| Wed, 21 Jan 2026 12:58:31 GMT | IFI Tech — Azure Expert MSP - Microsoft Solutions Partner | IFI Techsolutions | [Read More](https://medium.com/p/0ba2c307d8dc) |
+| Wed, 21 Jan 2026 12:56:03 GMT | How I Discovered the RXSS and Bypassed the WAF | Hink_1250 | [Read More](https://medium.com/p/437336701ec1) |
 | Wed, 21 Jan 2026 12:54:53 GMT | CAP Is a Lie We Tell Ourselves to Justify Broken Systems | Alexey A. Nekludoff | [Read More](https://medium.com/p/6154a708bd39) |
 | Wed, 21 Jan 2026 12:48:51 GMT | WordPress XML-RPC Attack Surface Method Enumeration via system.listMethods Leading to SSRF | Ajay Vardhan | [Read More](https://medium.com/p/0971d977372a) |
 | Wed, 21 Jan 2026 12:45:45 GMT | HTTP vs HTTPS: What Changed After the Lock Icon | Shalu | [Read More](https://medium.com/p/babd32b943e8) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 Jan 2026 08:28:55 GMT | Is Passkey Really “Invincible”? — The 6-Digit Shadow Lurking in iOS Design | Ryu360 | [Read More](https://medium.com/p/4a1e28cfca91) |
 | Wed, 21 Jan 2026 08:27:37 GMT | Will I Ever Love Someone for Who They Truly Are? | Kanupriya | [Read More](https://medium.com/p/7fc1be77f5b8) |
 | Wed, 21 Jan 2026 08:22:39 GMT | Cybersecurity Awareness Isn’t Just Training — It’s Culture | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/7780efc53a1d) |
-| Wed, 21 Jan 2026 08:11:51 GMT | Why I’m Starting My Cybersecurity Journey As A Student | Chandupa Vihasitha | [Read More](https://medium.com/p/30fa6d443307) |
-| Wed, 21 Jan 2026 08:11:10 GMT | How Access Control Works with AI Agents: Why Traditional Models Fail | Naveen C | [Read More](https://medium.com/p/7ef79c77dc63) |
-| Wed, 21 Jan 2026 08:08:53 GMT | Defeating Windows DEP Using ROP Chains Leveraging VirtualAlloc | Redho Maland | [Read More](https://medium.com/p/39c5cfd65719) |
-| Wed, 21 Jan 2026 08:05:54 GMT | 我的 PKI 筆記 | MichaelXiao | [Read More](https://medium.com/p/0c2ffb76e404) |
-| Wed, 21 Jan 2026 08:02:43 GMT | Why ServiceNow SecOps Implementations Fail Without Expert Configuration | Gavin Ellis | [Read More](https://medium.com/p/5980d6549175) |
-| Wed, 21 Jan 2026 08:00:19 GMT | The European Space Agency Breach and the Myth of Being Too Advanced to Hack | Prerna Shukla | [Read More](https://medium.com/p/893380de967d) |
-| Wed, 21 Jan 2026 07:59:20 GMT | Armed vs Unarmed Security Officers: What Actually Sets Them Apart | TCS Security | [Read More](https://medium.com/p/55a0fdf987b8) |
-| Wed, 21 Jan 2026 07:57:46 GMT | Hack The Box — HackNet Machine Walk-through | SubhaDip | [Read More](https://medium.com/p/987aabeac0c9) |
-| Wed, 21 Jan 2026 07:44:16 GMT | Beyond Defense: The Geopolitics and Future of Quantum Security | Harsh Bhogayata | [Read More](https://medium.com/p/52833d5d297e) |
-| Wed, 21 Jan 2026 07:43:33 GMT | “When Knowledge Isn’t the Problem: What My First Cybersecurity Interview Taught Me” | Cybersickerhub | [Read More](https://medium.com/p/12ae920b58df) |
-| Wed, 21 Jan 2026 07:42:07 GMT | The Great Migration: How to Move the World to Quantum Safety | Harsh Bhogayata | [Read More](https://medium.com/p/4f9375b7510f) |
-| Wed, 21 Jan 2026 07:35:04 GMT | Urgent Apple Alert: Millions of iPhones and iPads at Security Risk — Update Now. | eL Njas!™ | [Read More](https://medium.com/p/d33283d49b96) |
-| Wed, 21 Jan 2026 07:34:42 GMT | # Breaking EKS: Authentication Mechanisms Deep Dive — IRSA vs Pod Identity from an Attacker’s Lens | Devanshu | [Read More](https://medium.com/p/52f799190ac0) |
-| Wed, 21 Jan 2026 07:34:07 GMT | SOC Analyst Foundation — Day 2: Networking Basics That Actually Matter | Faizan Nazir | [Read More](https://medium.com/p/818db2e308c5) |
-| Wed, 21 Jan 2026 07:24:27 GMT | AI Dashboards & Analytics: Turning Data into Decisions (2024–2025 Perspective) | Zefai Insights | [Read More](https://medium.com/p/7875b0cb555a) |
-| Wed, 21 Jan 2026 07:19:26 GMT | LLMs and GENAI Apps: Risk & Mitigations — Part 6: Improper Output Handling! | Nothing Cyber [NC] | [Read More](https://medium.com/p/48debad979c1) |
-| Wed, 21 Jan 2026 07:14:37 GMT | The Cybersecurity Hallows | Nidhisharma Freelancework | [Read More](https://medium.com/p/9fbb443d6166) |
-| Wed, 21 Jan 2026 07:12:12 GMT | Continuous Vulnerability Assessment Models for Cloud-Native Applications | Durga Bramarambika Sailaja Varri | [Read More](https://medium.com/p/e85a43331282) |
