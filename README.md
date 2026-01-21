@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 Jan 2026 06:26:19 GMT | Spring Security with JWT — End-to-End Flow (LDAP + Existing Application) | Dhirajsinghania | [Read More](https://medium.com/p/dd8d5b94005e) |
+| Wed, 21 Jan 2026 06:23:42 GMT | The Quiet Identity Crisis Threatening Cybersecurity in 2026 | Abdelghani Alhijawi | [Read More](https://medium.com/p/4ebf1c9682ae) |
+| Wed, 21 Jan 2026 06:19:53 GMT | Zero Trust Security: A Complete, Practical Guide to Understanding Everything About Zero Trust | Sidhantchaurasiya | [Read More](https://medium.com/p/db4ff06f6d5e) |
+| Wed, 21 Jan 2026 06:18:22 GMT | Sony Bravia Dies, TCL Rises, and OpenAI Predicts Your Age - The Daily Tech Digest: 21 January 2026 | Souren Stepanyan | [Read More](https://medium.com/p/65911c8499b6) |
+| Wed, 21 Jan 2026 06:15:40 GMT | The Cybersecurity Trap: Why Your “Grind” Isn’t Getting You Hired | Little_Sun4lower | [Read More](https://medium.com/p/d402c454cd1e) |
+| Wed, 21 Jan 2026 06:11:07 GMT | From Fresher to SOC Analyst: Where the Journey Actually Begins | Badameni Ramya | [Read More](https://medium.com/p/00432c153cd4) |
+| Wed, 21 Jan 2026 06:08:19 GMT | Business Continuity and Operational Resilience Management Market Forecast: Growth, Trends, and… | Michel mathew | [Read More](https://medium.com/p/5c7dac4e9d35) |
+| Wed, 21 Jan 2026 06:08:07 GMT | How to Build a “Zero-Cost” Security Logger Using Google Sheets and JavaScript | Henry Wu | [Read More](https://medium.com/p/3871378e392b) |
+| Wed, 21 Jan 2026 06:01:23 GMT | Redefining Freedom this Republic Day: Why Smart Security is the Future of Travel! | Ramesh Raj | [Read More](https://medium.com/p/8f12c3a21cf9) |
+| Wed, 21 Jan 2026 05:59:08 GMT | Traditional Firewall vs Next-Gen Firewall (NGFW) | Sonia | [Read More](https://medium.com/p/9c4ee9b104db) |
+| Wed, 21 Jan 2026 05:57:37 GMT | Samsung S23 Ultra: The Ultimate NetHunter Setup(Android 14 Fix) | JanCSG | [Read More](https://medium.com/p/31c1105201d9) |
+| Wed, 21 Jan 2026 05:54:02 GMT | What zero trust exposed about our “solid” security model | Fahim ul Haq | [Read More](https://medium.com/p/af6556c1d383) |
+| Wed, 21 Jan 2026 05:50:51 GMT | Part 2: The Lifecycle of an Identity — From Provisioning to Deprovisioning | Dilanka Muthukumarana | [Read More](https://medium.com/p/ed44e395150c) |
+| Wed, 21 Jan 2026 05:47:09 GMT | Pocket-Sized Pen-Testing: Building an ESP-32 Hacking Handheld With No Restraint | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/757a240159c9) |
+| Wed, 21 Jan 2026 05:46:50 GMT | The Packet That Told Me Someone Was Watching | Fateyaly | [Read More](https://medium.com/p/bbe3ce031aaf) |
+| Wed, 21 Jan 2026 05:46:06 GMT | How to Identify and Upgrade Legacy TLS (Below 1.2) | Shashank Gupta | [Read More](https://medium.com/p/370f307526c9) |
+| Wed, 21 Jan 2026 05:40:22 GMT | AI Has Arrived. Now Comes the Hard Part! | Andre Fernandes | [Read More](https://medium.com/p/0b50f9041fff) |
+| Wed, 21 Jan 2026 05:38:09 GMT | iOS App Attestation for Jailbreak ? | Aiwin siby | [Read More](https://medium.com/p/7d2afa08bbc5) |
+| Wed, 21 Jan 2026 05:37:36 GMT | Building a File Integrity Monitor in Python: A Hands-On Cybersecurity Project | Edson | [Read More](https://medium.com/p/108113016b45) |
+| Wed, 21 Jan 2026 05:31:52 GMT | The QA Financial Statement: Calculating the True Cost of a Bug | Richa Pandey | [Read More](https://medium.com/p/98f61afad06a) |
 | Wed, 21 Jan 2026 05:14:16 GMT | ️ Day 041 of 100DaysOfCloud Securing Sensitive Data Using AWS KMS (Encrypt & Decrypt) | Hritik Raj | [Read More](https://medium.com/p/8161180ff1f6) |
 | Wed, 21 Jan 2026 05:14:00 GMT | Decrypting RDP Traffic: When Encryption Meets Analysis | Cybersecurity Simplified | [Read More](https://medium.com/p/68585a7b5f7c) |
 | Wed, 21 Jan 2026 05:12:59 GMT | Securing the Lifeline | Amit Tomar | [Read More](https://medium.com/p/bb6c2fd52885) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 Jan 2026 20:21:07 GMT | Cyber Psalm I: The Scroll of Vigilance: A sacred chant for the age of Algorithms | gershblumstein | [Read More](https://medium.com/p/92c800b2d4e4) |
 | Tue, 20 Jan 2026 20:12:04 GMT | Mastering WordPress Plugin Best Practices: Security, i18n, and Performance for Beginners | Shahibur Rahman | [Read More](https://medium.com/p/387f65331128) |
 | Tue, 20 Jan 2026 20:00:02 GMT | That doesn’t seem right… How I found a high severity authentication bypass on Skins.com | Roland | [Read More](https://medium.com/p/dea21f1715e4) |
-| Tue, 20 Jan 2026 19:48:49 GMT | When Confidential Computing Fails? | Hsiao C Yang | [Read More](https://medium.com/p/6c24679690a1) |
-| Tue, 20 Jan 2026 19:48:19 GMT | CVE-2025–50154 Windows Exploit | Мартин. | [Read More](https://medium.com/p/13cf5f729608) |
-| Tue, 20 Jan 2026 19:43:34 GMT | Conditional Computing | Hsiao C Yang | [Read More](https://medium.com/p/748ef3422b98) |
-| Tue, 20 Jan 2026 19:40:26 GMT | A Practical Cybersecurity Briefing for Business Decision Makers | Cordula Boeck | [Read More](https://medium.com/p/de75c725498b) |
-| Tue, 20 Jan 2026 19:36:31 GMT | Walking An Application Room | Salah Algarhy | [Read More](https://medium.com/p/17b346e61647) |
-| Tue, 20 Jan 2026 19:36:14 GMT | How I Check Password Strength Before Using Any New Account | Sadique Mannan | [Read More](https://medium.com/p/5ca8c1f01c72) |
-| Tue, 20 Jan 2026 19:30:51 GMT | Strong Primes in Cryptography: What They Are, Why They Matter, and How They Protect Modern Security | Dennis Duke | [Read More](https://medium.com/p/dcb3bd381d0b) |
-| Tue, 20 Jan 2026 19:28:48 GMT | Different Types of Cookies in IT: A Complete Guide for Developers, Businesses, and Users | Dennis Duke | [Read More](https://medium.com/p/c57730c46472) |
-| Tue, 20 Jan 2026 19:25:16 GMT | Network Security Essentials - THM | Isiah | [Read More](https://medium.com/p/7f532d5f90e4) |
-| Tue, 20 Jan 2026 19:21:16 GMT | When Pre-Boot Security Fails Open. A Physical Pentest of a Certified Laptop | pohackontas | [Read More](https://medium.com/p/529653f436c7) |
-| Tue, 20 Jan 2026 19:15:22 GMT | Introduction into SOAR | Ahmad Khaled | [Read More](https://medium.com/p/9c0eedbc5c06) |
-| Tue, 20 Jan 2026 19:03:45 GMT | $70,000 from a Simple 2FA Bypass: A Lesson in Observation Over Exploits | Aman Bhuiyan | [Read More](https://medium.com/p/10902b4253a7) |
-| Tue, 20 Jan 2026 19:03:00 GMT | Anti-Forensics | Iram Jack | [Read More](https://medium.com/p/d9319b5ce942) |
-| Tue, 20 Jan 2026 19:00:15 GMT | Hire a Hacker to Catch Cheating Spouse | The Trusted H | [Read More](https://medium.com/p/27b48fa3a64f) |
-| Tue, 20 Jan 2026 18:59:42 GMT | Digital Forensics Challenge: Basics, Mounting & Analyzing Disk Images (Day 1) | Niklas Heringer | [Read More](https://medium.com/p/4843d7a2cd64) |
-| Tue, 20 Jan 2026 18:58:53 GMT | The Top 5 Scripting Languages for “Ethical” Hacking (or otherwise) | Travis Ray Caverhill | [Read More](https://medium.com/p/298fb6ebd2fd) |
-| Tue, 20 Jan 2026 18:57:55 GMT | OWASP Mobile Security Guide: For React Native Developers | Barış Kandemir | [Read More](https://medium.com/p/31770fcbc2f1) |
-| Tue, 20 Jan 2026 18:52:00 GMT | Can Hackers Attack Quantum Computers Across Time and Space? The Truth Is Far More Terrifying | Kevin Qi | [Read More](https://medium.com/p/d74e41a2223a) |
-| Tue, 20 Jan 2026 18:50:23 GMT | WAFs Don’t Own Origin Boundaries — System Administrators Do | Juan David Correa Landreau | [Read More](https://medium.com/p/4f7b42b50c15) |
-| Tue, 20 Jan 2026 18:49:24 GMT | Who Remains? | Cheyanne Burnett | [Read More](https://medium.com/p/09f67aeeab7e) |
