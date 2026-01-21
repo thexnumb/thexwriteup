@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 Jan 2026 12:54:53 GMT | CAP Is a Lie We Tell Ourselves to Justify Broken Systems | Alexey A. Nekludoff | [Read More](https://medium.com/p/6154a708bd39) |
+| Wed, 21 Jan 2026 12:48:51 GMT | WordPress XML-RPC Attack Surface Method Enumeration via system.listMethods Leading to SSRF | Ajay Vardhan | [Read More](https://medium.com/p/0971d977372a) |
+| Wed, 21 Jan 2026 12:45:45 GMT | HTTP vs HTTPS: What Changed After the Lock Icon | Shalu | [Read More](https://medium.com/p/babd32b943e8) |
+| Wed, 21 Jan 2026 12:43:00 GMT | Boogeyman 1. TryHackMe Walkthrough. | Lintu Oommen | [Read More](https://medium.com/p/e2b054ed0d70) |
+| Wed, 21 Jan 2026 12:37:51 GMT | How VeriCapture iOS App Store Global Release Drives VCP v1.1 Adoption | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/920a14780b1d) |
+| Wed, 21 Jan 2026 12:35:32 GMT | How to recover crypto wallet from stolen investment platform with help of Decentralized Codex… | Germanytrader | [Read More](https://medium.com/p/8582a5488dc4) |
+| Wed, 21 Jan 2026 12:27:59 GMT | Building Amanta-NIDS: A Practical Machine-Learning Network Intrusion Detection System | I Putu Nanda Amanta | [Read More](https://medium.com/p/bd1950c04806) |
+| Wed, 21 Jan 2026 12:24:02 GMT | Why the phrase “we use AES” says nothing about an app’s security | Sergey Atroschenko | [Read More](https://medium.com/p/0a503a37f164) |
+| Wed, 21 Jan 2026 12:15:08 GMT | 6 Ways API‑Deployed Email Security Cuts Complexity for MSPs | Secure Titan | [Read More](https://medium.com/p/d53f65791b26) |
+| Wed, 21 Jan 2026 12:14:04 GMT | ISC² Certification Path: Exam-by-Exam Deep Dive | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/264b81933f86) |
+| Wed, 21 Jan 2026 12:13:41 GMT | How DevSecOps Embeds Security into the DNA of Modern CI/CD Pipelines | Samoda Ediriweera | [Read More](https://medium.com/p/9b2d39194e44) |
+| Wed, 21 Jan 2026 12:10:48 GMT | SQL Injection Explained: Types, Risks, Tools & How to Learn It (Ethical Hacking Guide) | Cyber Wolf | [Read More](https://medium.com/p/7c4d59d53646) |
+| Wed, 21 Jan 2026 12:05:33 GMT | beautiful disaster I | Luaaguiar | [Read More](https://medium.com/p/5b0f0c4a9f72) |
+| Wed, 21 Jan 2026 12:05:31 GMT | How Generative AI Is Breaking Food Delivery Apps | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/792f597c52ab) |
+| Wed, 21 Jan 2026 12:03:03 GMT | DTOs That Don’t Spill: Secure NestJS Validation Patterns | Modexa | [Read More](https://medium.com/p/2493e45392d2) |
+| Wed, 21 Jan 2026 12:03:01 GMT | Why Thinking Like a Production Engineer Matters More Than Learning Tools. | Miracle | [Read More](https://medium.com/p/050a0ac0e4f9) |
+| Wed, 21 Jan 2026 12:03:01 GMT | The Infrastructure Trap: Domains, SSL, Subdomains, Hosting | Ingvar Pavlovich | [Read More](https://medium.com/p/3267f4ff5bfd) |
+| Wed, 21 Jan 2026 12:03:01 GMT | Hiring a Hacker to Hack Email Passwords: Why the Idea Persists and Why It Fails | Rebecca Smith | [Read More](https://medium.com/p/7689037c8626) |
+| Wed, 21 Jan 2026 12:01:57 GMT | Cybersecurity is often presented as something big and complex. | Aderinsola Amode | [Read More](https://medium.com/p/d5e81b7efeb8) |
+| Wed, 21 Jan 2026 12:00:23 GMT | Brand Forensics: The Anomalous Nomenclature of Wbgzx | Aequitas Digital Exchange | [Read More](https://medium.com/p/963404b73ea8) |
+| Wed, 21 Jan 2026 11:59:18 GMT | Server-Side Template Injection (SSTI): A Practical Testing Methodology | Israel Aráoz Severiche | [Read More](https://medium.com/p/79db2b423199) |
+| Wed, 21 Jan 2026 11:57:27 GMT | Cybersecurity is the answer to digital safety | B.. M .. W | [Read More](https://medium.com/p/29696fbc4698) |
+| Wed, 21 Jan 2026 11:54:21 GMT | Why NDR Is the Nervous System of Modern Cybersecurity in 2026 | NetWitness | [Read More](https://medium.com/p/facfb5aa8e83) |
+| Wed, 21 Jan 2026 11:52:39 GMT | Top Skills Every Offensive Ethical Hacker Must Master | Ajal Workspace | [Read More](https://medium.com/p/da05bba27017) |
 | Wed, 21 Jan 2026 11:39:21 GMT | How simple Logic Flaw turned into a €300 in Minute’ | Jimmy | [Read More](https://medium.com/p/034026e9cbba) |
 | Wed, 21 Jan 2026 11:38:37 GMT | Symbolic Links or Symlinks in Linux | Mahidul Haque | [Read More](https://medium.com/p/61668ebe2598) |
 | Wed, 21 Jan 2026 11:34:15 GMT | Why I Switched From Burp Suite to Caido — And How It Made Bug Hunting Fun Again | Mejbankadir | [Read More](https://medium.com/p/78e139977c6c) |
@@ -72,6 +96,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 Jan 2026 08:22:39 GMT | Cybersecurity Awareness Isn’t Just Training — It’s Culture | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/7780efc53a1d) |
 | Wed, 21 Jan 2026 08:11:51 GMT | Why I’m Starting My Cybersecurity Journey As A Student | Chandupa Vihasitha | [Read More](https://medium.com/p/30fa6d443307) |
 | Wed, 21 Jan 2026 08:11:10 GMT | How Access Control Works with AI Agents: Why Traditional Models Fail | Naveen C | [Read More](https://medium.com/p/7ef79c77dc63) |
+| Wed, 21 Jan 2026 08:08:53 GMT | Defeating Windows DEP Using ROP Chains Leveraging VirtualAlloc | Redho Maland | [Read More](https://medium.com/p/39c5cfd65719) |
 | Wed, 21 Jan 2026 08:05:54 GMT | 我的 PKI 筆記 | MichaelXiao | [Read More](https://medium.com/p/0c2ffb76e404) |
 | Wed, 21 Jan 2026 08:02:43 GMT | Why ServiceNow SecOps Implementations Fail Without Expert Configuration | Gavin Ellis | [Read More](https://medium.com/p/5980d6549175) |
 | Wed, 21 Jan 2026 08:00:19 GMT | The European Space Agency Breach and the Myth of Being Too Advanced to Hack | Prerna Shukla | [Read More](https://medium.com/p/893380de967d) |
@@ -87,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 Jan 2026 07:19:26 GMT | LLMs and GENAI Apps: Risk & Mitigations — Part 6: Improper Output Handling! | Nothing Cyber [NC] | [Read More](https://medium.com/p/48debad979c1) |
 | Wed, 21 Jan 2026 07:14:37 GMT | The Cybersecurity Hallows | Nidhisharma Freelancework | [Read More](https://medium.com/p/9fbb443d6166) |
 | Wed, 21 Jan 2026 07:12:12 GMT | Continuous Vulnerability Assessment Models for Cloud-Native Applications | Durga Bramarambika Sailaja Varri | [Read More](https://medium.com/p/e85a43331282) |
-| Wed, 21 Jan 2026 07:06:41 GMT | Static Malware Analysis | Md. Raihan | [Read More](https://medium.com/p/96f4094dd965) |
-| Wed, 21 Jan 2026 07:06:24 GMT | SOC ROADMAP (END-TO-END) | Mr Horbio | [Read More](https://medium.com/p/e3974d7f65ad) |
-| Wed, 21 Jan 2026 07:05:59 GMT | DevOps, Cloud, & Platform tools by category for 2026 | Hristo Stoychev | [Read More](https://medium.com/p/68ed92103c17) |
-| Wed, 21 Jan 2026 06:57:25 GMT | Artikel Tentang Memahami HTTP | Maul | [Read More](https://medium.com/p/5ed08608221b) |
-| Wed, 21 Jan 2026 06:54:51 GMT | The Future of Security Operations Centers (SOCs) | Hacktechmedia | [Read More](https://medium.com/p/d239ae39ff39) |
-| Wed, 21 Jan 2026 06:47:18 GMT | C++ OpenSSL 3.1 code for Advance Attack on AES-CBC Encryption | Ramnath KM | [Read More](https://medium.com/p/36717e660125) |
-| Wed, 21 Jan 2026 06:46:56 GMT | CCD L1 (Certified CyberDefender Level 1 Certification) Review | Chicken0248 | [Read More](https://medium.com/p/1f81bcbb71f8) |
-| Wed, 21 Jan 2026 06:45:44 GMT | Beyond Fear: Why We Must Stop Scaring Kids About the Internet and Start Empowering Them as Cyber… | Steven Chin | [Read More](https://medium.com/p/f6dcaab6f676) |
-| Wed, 21 Jan 2026 06:43:17 GMT | Let’s Go Practical: Working with NetFlow Using nfdump Tools | Dean | [Read More](https://medium.com/p/3fe2cccdae24) |
-| Wed, 21 Jan 2026 06:42:37 GMT | The Windows Security Journey — KDP (Kernel Data Protection) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f8febd71999e) |
-| Wed, 21 Jan 2026 06:39:36 GMT | Who Will Own Your Data in 2026? | BeamSec | [Read More](https://medium.com/p/c5da223e0b1a) |
-| Wed, 21 Jan 2026 06:26:19 GMT | Spring Security with JWT — End-to-End Flow (LDAP + Existing Application) | Dhirajsinghania | [Read More](https://medium.com/p/dd8d5b94005e) |
-| Wed, 21 Jan 2026 06:23:42 GMT | The Quiet Identity Crisis Threatening Cybersecurity in 2026 | Abdelghani Alhijawi | [Read More](https://medium.com/p/4ebf1c9682ae) |
-| Wed, 21 Jan 2026 06:19:53 GMT | Zero Trust Security: A Complete, Practical Guide to Understanding Everything About Zero Trust | Sidhantchaurasiya | [Read More](https://medium.com/p/db4ff06f6d5e) |
-| Wed, 21 Jan 2026 06:18:22 GMT | Sony Bravia Dies, TCL Rises, and OpenAI Predicts Your Age - The Daily Tech Digest: 21 January 2026 | Souren Stepanyan | [Read More](https://medium.com/p/65911c8499b6) |
-| Wed, 21 Jan 2026 06:15:40 GMT | The Cybersecurity Trap: Why Your “Grind” Isn’t Getting You Hired | Little_Sun4lower | [Read More](https://medium.com/p/d402c454cd1e) |
-| Wed, 21 Jan 2026 06:11:07 GMT | From Fresher to SOC Analyst: Where the Journey Actually Begins | Badameni Ramya | [Read More](https://medium.com/p/00432c153cd4) |
-| Wed, 21 Jan 2026 06:08:19 GMT | Business Continuity and Operational Resilience Management Market Forecast: Growth, Trends, and… | Michel mathew | [Read More](https://medium.com/p/5c7dac4e9d35) |
-| Wed, 21 Jan 2026 06:08:07 GMT | How to Build a “Zero-Cost” Security Logger Using Google Sheets and JavaScript | Henry Wu | [Read More](https://medium.com/p/3871378e392b) |
-| Wed, 21 Jan 2026 06:01:23 GMT | Redefining Freedom this Republic Day: Why Smart Security is the Future of Travel! | Ramesh Raj | [Read More](https://medium.com/p/8f12c3a21cf9) |
-| Wed, 21 Jan 2026 05:59:08 GMT | Traditional Firewall vs Next-Gen Firewall (NGFW) | Sonia | [Read More](https://medium.com/p/9c4ee9b104db) |
-| Wed, 21 Jan 2026 05:57:37 GMT | Samsung S23 Ultra: The Ultimate NetHunter Setup(Android 14 Fix) | JanCSG | [Read More](https://medium.com/p/31c1105201d9) |
-| Wed, 21 Jan 2026 05:54:02 GMT | What zero trust exposed about our “solid” security model | Fahim ul Haq | [Read More](https://medium.com/p/af6556c1d383) |
-| Wed, 21 Jan 2026 05:50:51 GMT | Part 2: The Lifecycle of an Identity — From Provisioning to Deprovisioning | Dilanka Muthukumarana | [Read More](https://medium.com/p/ed44e395150c) |
-| Wed, 21 Jan 2026 05:47:09 GMT | Pocket-Sized Pen-Testing: Building an ESP-32 Hacking Handheld With No Restraint | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/757a240159c9) |
