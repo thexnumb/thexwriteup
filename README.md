@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 Jan 2026 04:32:56 GMT | How I Found and reported 50+ Exposed Celery Flower Dashboards on Shodan | the_unlucky_guy | [Read More](https://medium.com/p/f4de4289630c) |
+| Wed, 21 Jan 2026 04:26:41 GMT | Shadow Agents and Prompt Injection: AI is Reshaping Security in 2026 | Savneet Singh | [Read More](https://medium.com/p/279db57837a1) |
+| Wed, 21 Jan 2026 04:19:05 GMT | Managed Detection and Response Market Size, Share, and Growth Outlook | Gauri Kale | [Read More](https://medium.com/p/8ec03f897a3f) |
+| Wed, 21 Jan 2026 03:59:55 GMT | New eMAPT exam v1.1 — Review | Nail Gozalov | [Read More](https://medium.com/p/404a121d2e33) |
+| Wed, 21 Jan 2026 03:51:58 GMT | The Unwritten Rules of On-Chain Automation: A Survival Guide | SOL-byte | [Read More](https://medium.com/p/99db14316284) |
 | Wed, 21 Jan 2026 03:33:39 GMT | Hacking Authentication: From Manual Enumeration to Python Automation | gurmatsour | [Read More](https://medium.com/p/6827f790627a) |
 | Wed, 21 Jan 2026 03:32:31 GMT | Nmap Vulscan: Fast & Effective Vulnerability Detection Using Service Version Mapping | Cybeague Technologies | [Read More](https://medium.com/p/0f0ebecf9493) |
 | Wed, 21 Jan 2026 03:32:08 GMT | Top 7 Tips for Node.js Authentication Domain Design | Arunangshu Das | [Read More](https://medium.com/p/4d1a2ec0282f) |
@@ -90,6 +95,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 Jan 2026 19:28:48 GMT | Different Types of Cookies in IT: A Complete Guide for Developers, Businesses, and Users | Dennis Duke | [Read More](https://medium.com/p/c57730c46472) |
 | Tue, 20 Jan 2026 19:25:16 GMT | Network Security Essentials - THM | Isiah | [Read More](https://medium.com/p/7f532d5f90e4) |
 | Tue, 20 Jan 2026 19:21:16 GMT | When Pre-Boot Security Fails Open. A Physical Pentest of a Certified Laptop | pohackontas | [Read More](https://medium.com/p/529653f436c7) |
+| Tue, 20 Jan 2026 19:15:22 GMT | Introduction into SOAR | Ahmad Khaled | [Read More](https://medium.com/p/9c0eedbc5c06) |
 | Tue, 20 Jan 2026 19:03:45 GMT | $70,000 from a Simple 2FA Bypass: A Lesson in Observation Over Exploits | Aman Bhuiyan | [Read More](https://medium.com/p/10902b4253a7) |
 | Tue, 20 Jan 2026 19:03:00 GMT | Anti-Forensics | Iram Jack | [Read More](https://medium.com/p/d9319b5ce942) |
 | Tue, 20 Jan 2026 19:00:15 GMT | Hire a Hacker to Catch Cheating Spouse | The Trusted H | [Read More](https://medium.com/p/27b48fa3a64f) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 20 Jan 2026 18:27:50 GMT | Introducing > PowerShell.Exposed | Alex Teixeira | [Read More](https://medium.com/p/4974fe712117) |
 | Tue, 20 Jan 2026 18:26:55 GMT | The DoD Turned AI Cybersecurity Upside Down | Darren Broemmer | [Read More](https://medium.com/p/3e48ad9dd488) |
 | Tue, 20 Jan 2026 18:26:33 GMT | How I Learned to Read DeFi Transactions Without Getting Burned | Dominic Mazzarella | [Read More](https://medium.com/p/1844c7ecfde1) |
-| Tue, 20 Jan 2026 18:22:24 GMT | Move vs Solidity: Why Language Choice Determines Security Outcomes | Marcellus Nwankwo | [Read More](https://medium.com/p/0fd541a2974e) |
-| Tue, 20 Jan 2026 18:19:30 GMT | Walkthrough Portswigger Lab: Reflected XSS with some SVG markup allowed | Amr Loksha | [Read More](https://medium.com/p/a64b2a64b015) |
-| Tue, 20 Jan 2026 18:19:01 GMT | How I Check If a Website Is Safe Before Clicking Any Link | Sadique Mannan | [Read More](https://medium.com/p/7acd71d970f6) |
-| Tue, 20 Jan 2026 18:17:42 GMT | My CTF Experience | Souhaib Saidi | [Read More](https://medium.com/p/925804c8c0a5) |
-| Tue, 20 Jan 2026 18:09:33 GMT | AI Belongs in Your SOC — Just Not Where You Think | Marwan | [Read More](https://medium.com/p/c0378e3340a8) |
-| Tue, 20 Jan 2026 18:00:22 GMT | The ‘ClickFix’ Trap Under The Hood | Haim Cohen | [Read More](https://medium.com/p/d00cf88efd7b) |
