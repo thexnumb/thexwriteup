@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 Jan 2026 21:46:05 GMT | Veriyi Nasıl Kalıcı Olarak Silinir? | Zekikayaalp | [Read More](https://medium.com/p/f3422f5bf0d0) |
+| Wed, 21 Jan 2026 21:45:52 GMT | Scalable Video Processing for Modern Security Systems | NETINT Technologies | [Read More](https://medium.com/p/416c485fe79e) |
+| Wed, 21 Jan 2026 21:35:00 GMT | #LifeAmongstBugs01: The “I Know You’re There” Ghost in the Machine | newklei | [Read More](https://medium.com/p/2a52acfc9ebe) |
+| Wed, 21 Jan 2026 21:34:04 GMT | Lame Machine Write-up | JustIce | [Read More](https://medium.com/p/790a4f82d0df) |
+| Wed, 21 Jan 2026 21:31:09 GMT | Why Strong Governance Fuels Meaningful Innovation | Aku | [Read More](https://medium.com/p/438620bbf6ff) |
 | Wed, 21 Jan 2026 21:26:05 GMT | Unauthorized File Deletion via Broken Access Control | Omer Mohsen | [Read More](https://medium.com/p/63c287abcd29) |
 | Wed, 21 Jan 2026 21:19:11 GMT | Security Hardening of your Dev Containers with Docker Hardened Images (dhi.io) | Mathieu Benoit | [Read More](https://medium.com/p/2bfb5d299b7f) |
 | Wed, 21 Jan 2026 21:11:02 GMT | LLMs Under Siege: The Red Team Reality Check of 2026 | @EddieOz | [Read More](https://medium.com/p/05202d032995) |
@@ -108,8 +113,3 @@ Okta Partner Experience Coffeecase writeup | Omar Mohamed Hassan Shehatta | [Rea
 | Wed, 21 Jan 2026 15:20:42 GMT | unfinished. unpolished. unapologetic. | Some Grumpy Guy | [Read More](https://medium.com/p/e1c7eb903699) |
 | Wed, 21 Jan 2026 15:08:44 GMT | OES (Online Enrollment System) Experience in USeP | Jay Fajardo | [Read More](https://medium.com/p/58683d2fd3ab) |
 | Wed, 21 Jan 2026 15:02:34 GMT | PortSwigger: Authentication Exploitation | Sandeepsisodiya | [Read More](https://medium.com/p/4368f64e49ee) |
-| Wed, 21 Jan 2026 15:02:13 GMT | Why Email Became the Most Powerful Account You Own | Tracy | [Read More](https://medium.com/p/c84d5c52ed50) |
-| Wed, 21 Jan 2026 15:02:09 GMT | Cyber Briefing: 2026.01.21 | CyberMaterial | [Read More](https://medium.com/p/62caafcb5a2d) |
-| Wed, 21 Jan 2026 15:01:26 GMT | RPC issues for Intel MacOs | Mercy Adams | [Read More](https://medium.com/p/84cbb3540ed1) |
-| Wed, 21 Jan 2026 14:59:41 GMT | Wazuh SIEM Deployment with Multi-OS Agents | Aishat Olayinka Yusuf | [Read More](https://medium.com/p/09e80e1821e9) |
-| Wed, 21 Jan 2026 14:57:19 GMT | Cybersecurity Risks for Remote and Hybrid Workers | Rahima Rehman | [Read More](https://medium.com/p/15f8b276b8f2) |
