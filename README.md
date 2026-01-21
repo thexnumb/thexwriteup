@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 21 Jan 2026 16:42:00 GMT | Understanding IPv4 Addressing: What I Revised Today | Amandogra | [Read More](https://medium.com/p/8c71ca3ce3b0) |
+| Wed, 21 Jan 2026 16:38:04 GMT | Reconnaissance: The Most Ignored Phase of an Attack | Daniel Isaac E | [Read More](https://medium.com/p/2391e9124f8c) |
+| Wed, 21 Jan 2026 16:37:17 GMT | Why Your Business Needs 24/7 Cybersecurity: Defend Against Cyber Attacks with PlutoSec | Plutosec Cyber Security | [Read More](https://medium.com/p/26874c6e37f9) |
+| Wed, 21 Jan 2026 16:28:41 GMT | Firewalls Explained: Types, How They Stop (or Sometimes Allow) Cyberattacks, and the Evolving Tech… | Paradise technologies Inc | [Read More](https://medium.com/p/2ca46c26721b) |
+| Wed, 21 Jan 2026 16:23:10 GMT | Five Actionable Password Tips to Improve Your Cyber-Defenses | Karl Buhl | [Read More](https://medium.com/p/73c0d2ba7541) |
+| Wed, 21 Jan 2026 16:21:38 GMT | Why “Don’t Click That Link” Is a Dangerous Anachronism | Avlix Group | [Read More](https://medium.com/p/549395b9f3b3) |
+| Wed, 21 Jan 2026 16:17:16 GMT | , ’  … | Justice Atulaegwu | [Read More](https://medium.com/p/3fcda1afbd48) |
+| Wed, 21 Jan 2026 16:12:04 GMT | TryHackMe : Anonymous Machine Writeup | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/4c38b09d6c22) |
+| Wed, 21 Jan 2026 16:11:51 GMT | HTB CJCA | Netsec | [Read More](https://medium.com/p/671ea4d4734c) |
+| Wed, 21 Jan 2026 16:09:51 GMT | 5 Tech Skills to Have in 2026 | Luke | [Read More](https://medium.com/p/d7acce8b284b) |
+| Wed, 21 Jan 2026 16:07:26 GMT | Linux Post-Exploitation 103: The Power of Permissions | Al3xx | [Read More](https://medium.com/p/a8b75faf0714) |
+| Wed, 21 Jan 2026 16:06:27 GMT | Hack the Planet: Thirty Years Later, the Film That Didn’t Understand Hacking but Perfectly… | Cyberecoder | [Read More](https://medium.com/p/998e0008aba8) |
+| Wed, 21 Jan 2026 16:02:31 GMT | Multi-Tenant NestJS Without Data Leaks | Praxen | [Read More](https://medium.com/p/9c915396867f) |
+| Wed, 21 Jan 2026 15:55:10 GMT | Offsec “Dawn” CTF Writeup | sabR | [Read More](https://medium.com/p/11efe36b922c) |
+| Wed, 21 Jan 2026 15:45:24 GMT | TBomb: A Prank Tool | Er Raj Aryan | [Read More](https://medium.com/p/750ba84065bd) |
+| Wed, 21 Jan 2026 15:45:04 GMT | Why Mac Sleep Breaks And How To Fix It Fast | Geoffrey Wenger | [Read More](https://medium.com/p/ee89d396cc31) |
+| Wed, 21 Jan 2026 15:41:09 GMT | The Future of Darkweb Markets: Trends, Pressure, and Adaptation | Tor BBB | [Read More](https://medium.com/p/e9b6c88f2379) |
+| Wed, 21 Jan 2026 15:34:46 GMT | Lab: Insufficient workflow validation-Portswigger | L4V4NY4  AGR3 | [Read More](https://medium.com/p/76112f01ed8a) |
+| Wed, 21 Jan 2026 15:32:47 GMT | My Book Was You | Honeyregineb | [Read More](https://medium.com/p/41fc020635a9) |
+| Wed, 21 Jan 2026 15:30:09 GMT | Privacy at Stake: How Shadow APIs and Structural Failures Fuel the Data Black Market | Joao Buarque | [Read More](https://medium.com/p/19fa157681f0) |
+| Wed, 21 Jan 2026 15:27:18 GMT | What is GDG (Google Developer Groups)? | Dadhishankar | [Read More](https://medium.com/p/47537dfac991) |
 | Wed, 21 Jan 2026 15:26:06 GMT | Complete Guide To Security Camera Installation | Alex Bryn | [Read More](https://medium.com/p/5cbebc680df3) |
 | Wed, 21 Jan 2026 15:20:42 GMT | unfinished. unpolished. unapologetic. | Some Grumpy Guy | [Read More](https://medium.com/p/e1c7eb903699) |
 | Wed, 21 Jan 2026 15:08:44 GMT | OES (Online Enrollment System) Experience in USeP | Jay Fajardo | [Read More](https://medium.com/p/58683d2fd3ab) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 Jan 2026 11:57:27 GMT | Cybersecurity is the answer to digital safety | B.. M .. W | [Read More](https://medium.com/p/29696fbc4698) |
 | Wed, 21 Jan 2026 11:54:21 GMT | Why NDR Is the Nervous System of Modern Cybersecurity in 2026 | NetWitness | [Read More](https://medium.com/p/facfb5aa8e83) |
 | Wed, 21 Jan 2026 11:52:39 GMT | Top Skills Every Offensive Ethical Hacker Must Master | Ajal Workspace | [Read More](https://medium.com/p/da05bba27017) |
-| Wed, 21 Jan 2026 11:39:21 GMT | How simple Logic Flaw turned into a €300 in Minute’ | Jimmy | [Read More](https://medium.com/p/034026e9cbba) |
-| Wed, 21 Jan 2026 11:38:37 GMT | Symbolic Links or Symlinks in Linux | Mahidul Haque | [Read More](https://medium.com/p/61668ebe2598) |
-| Wed, 21 Jan 2026 11:34:15 GMT | Why I Switched From Burp Suite to Caido — And How It Made Bug Hunting Fun Again | Mejbankadir | [Read More](https://medium.com/p/78e139977c6c) |
-| Wed, 21 Jan 2026 11:33:57 GMT | It job which are hight demands in New Zealand | Migratex | [Read More](https://medium.com/p/99532d41667e) |
-| Wed, 21 Jan 2026 11:20:22 GMT | Website Not Secure Warning? Here’s How to Fix It | Smit Pipaliya | [Read More](https://medium.com/p/70e62a67ef49) |
-| Wed, 21 Jan 2026 11:20:04 GMT | How to Use Cloudflare Firewall Rules to Secure Your Website | Smit Pipaliya | [Read More](https://medium.com/p/8a77bc428758) |
-| Wed, 21 Jan 2026 11:16:57 GMT | My Journey as an Ethical Hacker! | Kirandhiman | [Read More](https://medium.com/p/438151d74d41) |
-| Wed, 21 Jan 2026 11:03:05 GMT | From Forgotten Tool to Powerful Pivot: Using JA3 to Expose Attackers’ Infrastructure | ANY.RUN | [Read More](https://medium.com/p/fd54f3e00187) |
-| Wed, 21 Jan 2026 11:02:12 GMT | Simple Broken Access Control | Windasunny | [Read More](https://medium.com/p/850cb9beb7c4) |
-| Wed, 21 Jan 2026 11:00:49 GMT | Forensic Blind Spot Exposed: Medical Devices Were Missing from Crime Scene Investigations | Berend Watchus | [Read More](https://medium.com/p/731edd08aad6) |
-| Wed, 21 Jan 2026 11:00:48 GMT | Why Traditional Firewalls Are No Longer Enough for Modern Enterprises | Bluechip Advanced Technologies | [Read More](https://medium.com/p/4a46b1cdda43) |
-| Wed, 21 Jan 2026 10:57:44 GMT | 70% of Nifty 50 Stocks in Red Jan 2026: How to Protect Your Stock Portfolio | digital Aditya | [Read More](https://medium.com/p/684428225e39) |
-| Wed, 21 Jan 2026 10:50:58 GMT | Total Security Solutions: The Future of Electronic Security Solutions in a Rapidly Evolving World | Ciss India | [Read More](https://medium.com/p/b702c6e5a3d8) |
-| Wed, 21 Jan 2026 10:49:52 GMT | Forensic Blind Spot Exposed: Medical Devices Were Missing from Crime Scene investigations | Berend Watchus | [Read More](https://medium.com/p/9088dd34a390) |
-| Wed, 21 Jan 2026 10:49:13 GMT | Week 7- API Security for PCI Compliance | Stella Obatoye | [Read More](https://medium.com/p/b68e569354c3) |
-| Wed, 21 Jan 2026 10:48:47 GMT | Is a Spiritual Retreat Right for You? | M Thidya | [Read More](https://medium.com/p/1bd358142ee6) |
-| Wed, 21 Jan 2026 10:43:28 GMT | Why Cybersecurity Career Advice From 2021 Is Now Dangerous | Taimur Ijlal | [Read More](https://medium.com/p/01abcacec470) |
-| Wed, 21 Jan 2026 10:41:28 GMT | Server-side Request Forgery (SSRF) | Muhammet Ali Tekin | [Read More](https://medium.com/p/a38d38855738) |
-| Wed, 21 Jan 2026 10:38:57 GMT | Skip the 4-year wait: start your cyber career in months | Saad Masood | [Read More](https://medium.com/p/a4aee498ffcd) |
-| Wed, 21 Jan 2026 10:38:27 GMT | Yapay Zeka: Siber Guvenligin Yeni Kalkani mi, Yoksa En Tehlikeli Silahi mi? | Umut Baran Yavuz | [Read More](https://medium.com/p/571680b16d08) |
-| Wed, 21 Jan 2026 10:38:03 GMT | High Book Value Stocks in India Based on Multi-Year Earnings | digital Aditya | [Read More](https://medium.com/p/0b946f9d892a) |
