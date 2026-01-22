@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 Jan 2026 06:33:38 GMT | Advent of Cyber Prep Track - Tryhackme - Day0 | M o $ t a | [Read More](https://medium.com/p/0dd49d50de37) |
+| Thu, 22 Jan 2026 06:33:03 GMT | Taking the Sign Down: Information Risk After the Story Breaks | Dr. Thomas Jreige | [Read More](https://medium.com/p/4e105ef9bab6) |
+| Thu, 22 Jan 2026 06:31:59 GMT | The AI Kill Switch: How to Hard-Block Models from Touching Private Data | Dorian Sotpyrc | [Read More](https://medium.com/p/0b44c6e91dbc) |
+| Thu, 22 Jan 2026 06:30:29 GMT | USDT RECOVERY EXPERT WITH DECENTRALIZED CODEX SECURITY | Forfoewx | [Read More](https://medium.com/p/95cbe4979173) |
+| Thu, 22 Jan 2026 06:29:41 GMT | Cybersecurity Company in India Delivering Advanced Protection - Secninjaz Technologies LLP | Secninjaz Technologies LLP | [Read More](https://medium.com/p/a6932dd3b72b) |
+| Thu, 22 Jan 2026 06:29:07 GMT | About Argus Engine | Veri Sızıntısı Posts | [Read More](https://medium.com/p/0e66c1170f44) |
+| Thu, 22 Jan 2026 06:24:44 GMT | Unified Endpoint Management (UEM) Software Market: Trends, Growth, and Future Outlook | Michel mathew | [Read More](https://medium.com/p/d98cec65f8d9) |
+| Thu, 22 Jan 2026 06:23:16 GMT | DIGITAL ASSETS RECOVERY EXPERTS ONLINE | Forfoewx | [Read More](https://medium.com/p/4d2c0f7318b4) |
+| Thu, 22 Jan 2026 06:20:03 GMT | Transformer une IA Open Source en expert Cyber Local avec Ollama (Tutoriel) | RAPATT | [Read More](https://medium.com/p/8f02e02bc476) |
+| Thu, 22 Jan 2026 06:18:25 GMT | Securing AI APIs and Protecting Sensitive Data: Best Practices for Modern Applications: | ZECHROME TECHNOLOGIES LLP. | [Read More](https://medium.com/p/e42abfe39ffe) |
+| Thu, 22 Jan 2026 06:15:25 GMT | Parrot OS Cloud VM — Your All-in-One Cybersecurity & Development Lab | TechLatest.Net | [Read More](https://medium.com/p/88b1360f787a) |
+| Thu, 22 Jan 2026 06:14:38 GMT | Gmail Hacked? Here’s What to Do and How to Do It | Spokeo People Search | [Read More](https://medium.com/p/3c8a9ebdad86) |
+| Thu, 22 Jan 2026 06:11:08 GMT | Security Advisory: CVE-2025–14847 MongoDB Server Zlib Compression Memory Disclosure (MongoBleed) | Chetan Niloor | [Read More](https://medium.com/p/27d8f47f46a2) |
+| Thu, 22 Jan 2026 05:58:59 GMT | Data in Australia Is Easy. Sovereignty Is Harder. | Dr. Thomas Jreige | [Read More](https://medium.com/p/84dc04894af5) |
+| Thu, 22 Jan 2026 05:48:28 GMT | Guide to the Best Smart Home Automation in Dubai and CCTV Approval in Ajman | techfra solutions | [Read More](https://medium.com/p/d31d9a7d6541) |
+| Thu, 22 Jan 2026 05:46:59 GMT | Rethinking Luxury: Safety, Privacy, and Resilience in Maldivian Resorts | Mohamed Hameed | [Read More](https://medium.com/p/e50a11ba518d) |
+| Thu, 22 Jan 2026 05:43:23 GMT | Well… I successfully executed the mission | Melissa Ann Tanksley | [Read More](https://medium.com/p/4aa988728bc1) |
+| Thu, 22 Jan 2026 05:33:00 GMT | Node.js Backend Hardening After the Next CVE: Dependency Minimization, SBOMs, and “Assume… | Bytecraft | [Read More](https://medium.com/p/4691e69f2bdb) |
+| Thu, 22 Jan 2026 05:33:00 GMT | Tor Network | Ali Kurt | [Read More](https://medium.com/p/ba47ce680f73) |
 | Thu, 22 Jan 2026 05:07:08 GMT | Vulnerability Exploitation Landscape: 2025 Trends and 2026 Outlook | NSHC ThreatRecon Team | [Read More](https://medium.com/p/6e375cfc8861) |
 | Thu, 22 Jan 2026 05:04:26 GMT | Hail Damage Roof Repair Contractor - Trusted Hail Damage Roofing Contractors — Kidd Roof | Kidd Roofing | [Read More](https://medium.com/p/fc9dcffc24d3) |
 | Thu, 22 Jan 2026 04:58:51 GMT | Why CHFI Matters in Cybersecurity | Shreyashettyctr | [Read More](https://medium.com/p/8cacf921d9a3) |
@@ -93,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 Jan 2026 20:27:23 GMT | How to Get Started with Secure Code Review (and Actually Become Good at It) | Parasimpaticki | [Read More](https://medium.com/p/bb26c0168be6) |
 | Wed, 21 Jan 2026 20:26:42 GMT | Day-18 of Bug Bounty Journey : XSS Concept | Anshkamra | [Read More](https://medium.com/p/19e79cf45fcd) |
 | Wed, 21 Jan 2026 20:22:25 GMT | Roburna Audit Completed — Report released | Roburna Official | [Read More](https://medium.com/p/285e2cf6408a) |
-| Wed, 21 Jan 2026 20:19:10 GMT | Business Investigation(Value, Reducing Risk, and Powering Smarter Decisions) | Nazrul Islam Rana | [Read More](https://medium.com/p/114263cf80ea) |
-| Wed, 21 Jan 2026 20:14:30 GMT | Are your noise-cancelling headphones being used to spy on you? | Jason Hammerschmidt | [Read More](https://medium.com/p/8e30069d764a) |
-| Wed, 21 Jan 2026 20:10:12 GMT | How to Avoid Falling for Crypto Scams: The 7 Red Flags You Need to Know | Codenodelogic | [Read More](https://medium.com/p/d16f1b4be599) |
-| Wed, 21 Jan 2026 20:01:04 GMT | Linux Capabilities Optimization Strategies on Linux | Linux Guide | [Read More](https://medium.com/p/5584edc31666) |
-| Wed, 21 Jan 2026 20:00:59 GMT | Deep Dive into Linux Capabilities on Linux Systems | Linux Guide | [Read More](https://medium.com/p/f6ab5f15f87c) |
-| Wed, 21 Jan 2026 20:00:59 GMT | The Great Twitter Hack: How One Mistake Exposed Millions and What You Can Learn from It | Codenodelogic | [Read More](https://medium.com/p/b15585856228) |
-| Wed, 21 Jan 2026 19:46:48 GMT | Elon Musk Says Tesla’s Revived Dojo3 Will Power ‘Space-Based AI Compute’ | Tech News | [Read More](https://medium.com/p/8a83b3c69777) |
-| Wed, 21 Jan 2026 19:37:06 GMT | Investigating @sp1ritfyre: A Security Blue Team OSINT Challenge - Walkthrough | Frhn.Isml | [Read More](https://medium.com/p/3eea05e3090c) |
-| Wed, 21 Jan 2026 19:17:06 GMT | “Exploit Repositories in Cybersecurity: From Exploit-DB to Metasploit Framework” | Habibi | [Read More](https://medium.com/p/d1cb435d7d6a) |
-| Wed, 21 Jan 2026 19:16:20 GMT | From a Single ID to Confidential Report Disclosure — Breaking Patterns in a Real Bug Bounty | Shazilrao | [Read More](https://medium.com/p/298459c5fcd1) |
-| Wed, 21 Jan 2026 19:13:56 GMT | Do Startups Really Need Cybersecurity? Yes. Earlier Than You Think. | Jacob Sanni | [Read More](https://medium.com/p/b3216276b9fc) |
-| Wed, 21 Jan 2026 19:12:30 GMT | Splunk Bots — 
-Okta Partner Experience Coffeecase writeup | Omar Mohamed Hassan Shehatta | [Read More](https://medium.com/p/a410333d2b3e) |
-| Wed, 21 Jan 2026 19:11:14 GMT | Model Inversion Saldırıları: LLM’den Eğitim Verisini Geri Kazanmak | Melike Ateş | [Read More](https://medium.com/p/c4978258218f) |
-| Wed, 21 Jan 2026 19:02:00 GMT | Anti-SQL Injection | Iram Jack | [Read More](https://medium.com/p/c4e5e2ecf5f1) |
-| Wed, 21 Jan 2026 19:02:00 GMT | HTB PhisNet Sherlock Writeup | Russell Medina | [Read More](https://medium.com/p/ed72f5d44b12) |
-| Wed, 21 Jan 2026 19:00:47 GMT | Ethical Hacking — Career Earnings Analysis (2026) | Franklin Rhodes | [Read More](https://medium.com/p/ec16491df615) |
-| Wed, 21 Jan 2026 18:57:54 GMT | TakeOver - Tryhackme | Nasir Ahim | [Read More](https://medium.com/p/4d9cfd715d90) |
-| Wed, 21 Jan 2026 18:56:31 GMT | Can a VPN Fool GPS Tracking Apps? A Security Expert’s Deep Dive (2026 Update) | Teona | [Read More](https://medium.com/p/bb1b5926c547) |
-| Wed, 21 Jan 2026 18:54:01 GMT | Secure Kubernetes Deployment Guide (Self-Managed) — Part VIII | SOCFortress | [Read More](https://medium.com/p/97a4b09ef2ba) |
