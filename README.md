@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 Jan 2026 12:54:00 GMT | Unveiling the Digital Demons: | Claudia G. Petersen | [Read More](https://medium.com/p/f14aa60616eb) |
+| Thu, 22 Jan 2026 12:44:45 GMT | [PortSwigger][Practitioner]- Lab: CSRF where token validation depends on request method | Javiki | [Read More](https://medium.com/p/6661116fa0be) |
+| Thu, 22 Jan 2026 12:43:08 GMT | ISO/IEC 27001:2022 ISMS Certification | TechnoSysCon | [Read More](https://medium.com/p/aea02b40508f) |
+| Thu, 22 Jan 2026 12:40:32 GMT | Top-Rated Cloud Services in the USA to Power Your Business Growth | Rashmi Levelstech | [Read More](https://medium.com/p/55ffff641079) |
+| Thu, 22 Jan 2026 12:39:17 GMT | Top 5 Red Hat Certifications in 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/eea82092f83f) |
+| Thu, 22 Jan 2026 12:37:48 GMT | Back to Basics II: Email Phishing Analysis | Hariharan | [Read More](https://medium.com/p/563471c02fc8) |
+| Thu, 22 Jan 2026 12:37:08 GMT | JWT - Algorithm Confusion Attacks | Amrsmooke | [Read More](https://medium.com/p/e0a27f42b42c) |
+| Thu, 22 Jan 2026 12:36:39 GMT | Can AI Spot A Fake Signature? | Salomey | [Read More](https://medium.com/p/aa13467f4df9) |
+| Thu, 22 Jan 2026 12:32:12 GMT | Is Google Play Store Really Safe? Hidden Risks Every Android User Should Know | Blue Bird Digital Technology | [Read More](https://medium.com/p/9cec87e3f4e8) |
+| Thu, 22 Jan 2026 12:31:24 GMT | Beyond Encryption: The Art of Hiding Messages Inside Your Photos | Nexia Imagera | [Read More](https://medium.com/p/a4b38f0a0982) |
+| Thu, 22 Jan 2026 12:24:21 GMT | The “SymPy-Dev” Scam: Why Even Smart Developers are Falling for This New PyPI Attack | Mr Horbio | [Read More](https://medium.com/p/9d6b9bfa6706) |
+| Thu, 22 Jan 2026 12:19:21 GMT | How Crypto Criminals Stole $700 Million from Investors And Why It’s Hard to Stop Them | Liberty Ledger | [Read More](https://medium.com/p/e2a58afb699b) |
+| Thu, 22 Jan 2026 12:15:30 GMT | Cyber Security: Technical Foundations, Threats, and Modern Defense Mechanisms | Sharmapriya | [Read More](https://medium.com/p/1f935ae2f83e) |
+| Thu, 22 Jan 2026 12:10:56 GMT | Thirdweb bug bounty program: Dishonourable Dealings | Alexander Pryor | [Read More](https://medium.com/p/b8e03b570c21) |
+| Thu, 22 Jan 2026 12:10:08 GMT | How to resolve “We can’t verify who created this file. | Shariq Ahmed Khan | [Read More](https://medium.com/p/9b925c412797) |
+| Thu, 22 Jan 2026 12:09:40 GMT | Still Not a Cyber Pro? Learn These 10 Skills in 2026 | Testleaf | [Read More](https://medium.com/p/22110acc795e) |
+| Thu, 22 Jan 2026 12:09:15 GMT | Markets, Allies, and Aid: The Quiet Geometry of American Decline | Alana Marsili | [Read More](https://medium.com/p/f96ff64a3dd6) |
+| Thu, 22 Jan 2026 12:02:19 GMT | Passing the OSEP exam using Mythic C2 | r4ulcl | [Read More](https://medium.com/p/f54d30032ba8) |
+| Thu, 22 Jan 2026 12:02:16 GMT | Writeup for picoCTF challenge “logon” | Walter Moar | [Read More](https://medium.com/p/a8f985624fcc) |
+| Thu, 22 Jan 2026 12:00:11 GMT | When Competence Isn’t Enough: A Psychological Reflection on Rejection | Aleksandar Vlajković | [Read More](https://medium.com/p/74ccdd1ce6cf) |
+| Thu, 22 Jan 2026 11:55:55 GMT | How I Started Learning Cybersecurity (and What My Internship Taught Me) | Vidya Penumarthi | [Read More](https://medium.com/p/80e183ce568f) |
 | Thu, 22 Jan 2026 11:38:54 GMT | How One Person Built a Micro-SaaS in 48 Hours (No Team, Just Coffee and Determination) | 0xswaeth | [Read More](https://medium.com/p/4dae88dbac62) |
 | Thu, 22 Jan 2026 11:34:28 GMT | When “Managed” Finally Means Less Stress and Better Performance? | Ann Taylor | [Read More](https://medium.com/p/2a71a7431f1f) |
 | Thu, 22 Jan 2026 11:33:00 GMT | Clock Skew - Time Can Change Anything | Jerry Shah (Jerry) | [Read More](https://medium.com/p/0bb84e9635de) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 Jan 2026 07:34:39 GMT | Why Online Harm Is a Human Security Problem, Not a Content Problem | Numburi | [Read More](https://medium.com/p/5580b765aed1) |
 | Thu, 22 Jan 2026 07:32:01 GMT | 7 Crypto Scams Beginners Still Fall For (Avoid These in 2026) | Emmanuel Obumneke Njoku | [Read More](https://medium.com/p/feabf133e47c) |
 | Thu, 22 Jan 2026 07:32:01 GMT | Your Node Dependencies Are a Security Perimeter Now | Quellin | [Read More](https://medium.com/p/de13fa18c478) |
-| Thu, 22 Jan 2026 07:30:41 GMT | Who Does Your AI Work For? | Reuven Gorsht | [Read More](https://medium.com/p/ae7f86998751) |
-| Thu, 22 Jan 2026 07:29:12 GMT | Construction Site Security: Safeguarding Your Projects | Travel time | [Read More](https://medium.com/p/366b97b76267) |
-| Thu, 22 Jan 2026 07:28:37 GMT | Cisco’s Actively Exploited Zero-Day (CVE-2026–20045) Hits Unified CM, Unity Connection, and Webex… | Germano Costi | [Read More](https://medium.com/p/00f2ba10cac6) |
-| Thu, 22 Jan 2026 07:21:13 GMT | —  … | Justice Atulaegwu | [Read More](https://medium.com/p/cac2e52e1ef4) |
-| Thu, 22 Jan 2026 07:17:16 GMT | Model Inversion Attacks: Recovering Training Data from an LLM | Melike Ateş | [Read More](https://medium.com/p/fe9e18dc842f) |
-| Thu, 22 Jan 2026 07:08:43 GMT | Installing and Configuring Security Onion in VirtualBox: A Practical Beginner’s Guide | ɧrιsнi rajeeѵ | [Read More](https://medium.com/p/544b308b585d) |
-| Thu, 22 Jan 2026 07:06:43 GMT | Edge-Deployed Machine Learning for ICS Cybersecurity: Detecting Anomalies on Resource-Constrained… | Nathanael J Manier | [Read More](https://medium.com/p/c623579011e5) |
-| Thu, 22 Jan 2026 06:57:21 GMT | Top 20 Tools Inside Parrot OS Explained (With Real-World Use Cases) | TechLatest.Net | [Read More](https://medium.com/p/0f20bc7ef03c) |
-| Thu, 22 Jan 2026 06:52:14 GMT | The Role of Security Services in Protecting Construction Sites | world guardian | [Read More](https://medium.com/p/dd3365b79a3b) |
-| Thu, 22 Jan 2026 06:51:37 GMT | Summertime Saga Mod APK | Bandisharecx | [Read More](https://medium.com/p/21595ace0031) |
-| Thu, 22 Jan 2026 06:50:22 GMT | Celebrating Sovereignty with Smart Security: Why Your Gear Deserves an Upgrade This Republic Day! | Ramesh Raj | [Read More](https://medium.com/p/59708131d8f0) |
-| Thu, 22 Jan 2026 06:43:44 GMT | All concept | Mukisa Nicholas | [Read More](https://medium.com/p/7703952df929) |
-| Thu, 22 Jan 2026 06:41:52 GMT | The Pentagon’s Cyber Workforce Strategy: A Geopolitical Chess Move in the Digital Arms Race | CCD-IS | [Read More](https://medium.com/p/2d4a4eb34675) |
-| Thu, 22 Jan 2026 06:40:44 GMT | Four CVEs in a Row: A Deep Dive into Recent Vulnerability Discoveries | Ravi sharma | [Read More](https://medium.com/p/57007740e5cf) |
-| Thu, 22 Jan 2026 06:33:38 GMT | Advent of Cyber Prep Track - Tryhackme - Day0 | M o $ t a | [Read More](https://medium.com/p/0dd49d50de37) |
-| Thu, 22 Jan 2026 06:33:03 GMT | Taking the Sign Down: Information Risk After the Story Breaks | Dr. Thomas Jreige | [Read More](https://medium.com/p/4e105ef9bab6) |
-| Thu, 22 Jan 2026 06:31:59 GMT | The AI Kill Switch: How to Hard-Block Models from Touching Private Data | Dorian Sotpyrc | [Read More](https://medium.com/p/0b44c6e91dbc) |
-| Thu, 22 Jan 2026 06:30:29 GMT | USDT RECOVERY EXPERT WITH DECENTRALIZED CODEX SECURITY | Forfoewx | [Read More](https://medium.com/p/95cbe4979173) |
-| Thu, 22 Jan 2026 06:29:41 GMT | Cybersecurity Company in India Delivering Advanced Protection - Secninjaz Technologies LLP | Secninjaz Technologies LLP | [Read More](https://medium.com/p/a6932dd3b72b) |
-| Thu, 22 Jan 2026 06:29:07 GMT | About Argus Engine | Veri Sızıntısı Posts | [Read More](https://medium.com/p/0e66c1170f44) |
-| Thu, 22 Jan 2026 06:24:44 GMT | Unified Endpoint Management (UEM) Software Market: Trends, Growth, and Future Outlook | Michel mathew | [Read More](https://medium.com/p/d98cec65f8d9) |
