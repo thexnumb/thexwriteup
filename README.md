@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 Jan 2026 11:20:08 GMT | What Learning API Security Taught Me About Building Systems for the Real World | Madalitso Cheyo | [Read More](https://medium.com/p/5590ad56f8b8) |
+| Thu, 22 Jan 2026 11:18:43 GMT | OverTheWire Natas Level 4 — Referer Header Bypass Çözümü | Alperen Mursallı | [Read More](https://medium.com/p/13d654faf0b3) |
+| Thu, 22 Jan 2026 11:16:02 GMT | Hacking 3 cars in 10 seconds | T-Jay Bautista | [Read More](https://medium.com/p/278fceddf81a) |
+| Thu, 22 Jan 2026 11:08:11 GMT | VAPT for Hospital Management Systems and Health Apps | Microscan Communications | [Read More](https://medium.com/p/c45124a8b9db) |
+| Thu, 22 Jan 2026 11:06:48 GMT | Broker Blacklist Exposed: The Truth Behind Finomic, Roboo-Broker, and Accountspace. | Liam Carter | [Read More](https://medium.com/p/052292ffdd97) |
+| Thu, 22 Jan 2026 11:04:12 GMT | Where Performance Meets Practical Budgets: A Smarter Hosting Choice? | Andy | [Read More](https://medium.com/p/21a72c6bedec) |
+| Thu, 22 Jan 2026 11:03:04 GMT | ANY.RUN Sandbox & MISP Integration: Confirm Alerts Faster, Stop Incidents Early | ANY.RUN | [Read More](https://medium.com/p/80f735152789) |
+| Thu, 22 Jan 2026 10:56:57 GMT | Need the Best AI Development Services in the USA? | Aayushi Levelstech | [Read More](https://medium.com/p/108120cfb40f) |
+| Thu, 22 Jan 2026 10:52:27 GMT | My Thoughts on LINUXENIC CORP : Indonesia First LMS for Cybersecurity | hihipro | [Read More](https://medium.com/p/33464f0d189f) |
+| Thu, 22 Jan 2026 10:45:57 GMT | Quantum Computing + Explainability: A Crisis We’re Not Ready For | Shivansh Arora | [Read More](https://medium.com/p/cb8110d818c5) |
+| Thu, 22 Jan 2026 10:44:01 GMT | if you aren’t paying for the product, you are the product. | Your's Nightmare | [Read More](https://medium.com/p/a64f8163d228) |
+| Thu, 22 Jan 2026 10:43:54 GMT | Credit Insurance: A Smart Shield Against Business Payment Risks | Graysonwatson | [Read More](https://medium.com/p/266e1ed9e19a) |
+| Thu, 22 Jan 2026 10:41:37 GMT | HTML Injection to Data Exfiltration: Weaponizing CSS | Jayateertha Guruprasad | [Read More](https://medium.com/p/88ec1639a0cd) |
+| Thu, 22 Jan 2026 10:35:38 GMT | How I Earned a $500 Bug Bounty for a P5 Informational Vulnerability | Swarooppatil | [Read More](https://medium.com/p/a20e2c68e3d4) |
+| Thu, 22 Jan 2026 10:33:56 GMT | From Static Reports to a Living Scope: Solving Data Chaos in Long-Term Engagements | 2s1one | [Read More](https://medium.com/p/5b4423098f7a) |
+| Thu, 22 Jan 2026 10:32:02 GMT | Advance Diploma in Artificial Intelligence and Machine Learning | Manisha Chaudhary | [Read More](https://medium.com/p/d4aefa9a8cec) |
+| Thu, 22 Jan 2026 10:28:28 GMT | building a security automation framework in 10 steps | h@shtalk | [Read More](https://medium.com/p/ac316f0b3857) |
+| Thu, 22 Jan 2026 10:24:46 GMT | Need the Best AI Development Services in the USA? | Asif Khan | [Read More](https://medium.com/p/18529f107dd4) |
 | Thu, 22 Jan 2026 10:22:40 GMT | How to Build a Cybersecurity Roadmap for Your Organization in 2026 | Jay C Roberts | [Read More](https://medium.com/p/1e65f27dd8da) |
 | Thu, 22 Jan 2026 10:20:51 GMT | How Do I Get Into Cybersecurity?” — Why This Question Confuses You More Than It Helps | Abhishek pawar | [Read More](https://medium.com/p/00419f87643b) |
 | Thu, 22 Jan 2026 10:18:47 GMT | Why Secrets Leak From Frontend Apps ??? | Sanjeevani Bhandari | [Read More](https://medium.com/p/cc458759a40a) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 Jan 2026 06:14:38 GMT | Gmail Hacked? Here’s What to Do and How to Do It | Spokeo People Search | [Read More](https://medium.com/p/3c8a9ebdad86) |
 | Thu, 22 Jan 2026 06:11:08 GMT | Security Advisory: CVE-2025–14847 MongoDB Server Zlib Compression Memory Disclosure (MongoBleed) | Chetan Niloor | [Read More](https://medium.com/p/27d8f47f46a2) |
 | Thu, 22 Jan 2026 05:58:59 GMT | Data in Australia Is Easy. Sovereignty Is Harder. | Dr. Thomas Jreige | [Read More](https://medium.com/p/84dc04894af5) |
-| Thu, 22 Jan 2026 05:48:28 GMT | Guide to the Best Smart Home Automation in Dubai and CCTV Approval in Ajman | techfra solutions | [Read More](https://medium.com/p/d31d9a7d6541) |
-| Thu, 22 Jan 2026 05:46:59 GMT | Rethinking Luxury: Safety, Privacy, and Resilience in Maldivian Resorts | Mohamed Hameed | [Read More](https://medium.com/p/e50a11ba518d) |
-| Thu, 22 Jan 2026 05:43:23 GMT | Well… I successfully executed the mission | Melissa Ann Tanksley | [Read More](https://medium.com/p/4aa988728bc1) |
-| Thu, 22 Jan 2026 05:33:00 GMT | Node.js Backend Hardening After the Next CVE: Dependency Minimization, SBOMs, and “Assume… | Bytecraft | [Read More](https://medium.com/p/4691e69f2bdb) |
-| Thu, 22 Jan 2026 05:33:00 GMT | Tor Network | Ali Kurt | [Read More](https://medium.com/p/ba47ce680f73) |
-| Thu, 22 Jan 2026 05:07:08 GMT | Vulnerability Exploitation Landscape: 2025 Trends and 2026 Outlook | NSHC ThreatRecon Team | [Read More](https://medium.com/p/6e375cfc8861) |
-| Thu, 22 Jan 2026 05:04:26 GMT | Hail Damage Roof Repair Contractor - Trusted Hail Damage Roofing Contractors — Kidd Roof | Kidd Roofing | [Read More](https://medium.com/p/fc9dcffc24d3) |
-| Thu, 22 Jan 2026 04:58:51 GMT | Why CHFI Matters in Cybersecurity | Shreyashettyctr | [Read More](https://medium.com/p/8cacf921d9a3) |
-| Thu, 22 Jan 2026 04:58:21 GMT | DLL Hijacking Still Works in 2025 and That’s a Problem | Manish Rawat | [Read More](https://medium.com/p/d12cdef6ddbd) |
-| Thu, 22 Jan 2026 04:56:13 GMT | Incredibox APK | GOCMOD | [Read More](https://medium.com/p/78f5fae01527) |
-| Thu, 22 Jan 2026 04:49:59 GMT | Beyond the Alerts: Lessons Cybersecurity Didn’t Teach Me in Any Playbook | Paritosh | [Read More](https://medium.com/p/3d294293b109) |
-| Thu, 22 Jan 2026 04:49:57 GMT | DeepBlueCLI Walkthrough: Detecting Meterpreter Activity Using Windows Event Logs | Jacob Ferguson | [Read More](https://medium.com/p/1196bdbcf3b5) |
-| Thu, 22 Jan 2026 04:40:56 GMT | Governance, Risk, and Compliance Platforms: Market Size, Trends, and Forecast | Gauri Kale | [Read More](https://medium.com/p/2a2997589918) |
-| Thu, 22 Jan 2026 04:39:46 GMT | Playbook vs. Runbook: The Difference That Saves Your SOC at 3AM | Denny Roger | [Read More](https://medium.com/p/361ccb569135) |
-| Thu, 22 Jan 2026 04:37:24 GMT | The 2026 Cybersecurity Survival Guide: Beyond the Hype, The AI Shift, and The Real Roadmap | TechMallu | [Read More](https://medium.com/p/99aca24a7c0d) |
-| Thu, 22 Jan 2026 04:37:02 GMT | SQL Injection: How It Works and How to Prevent It | Suman Panta | [Read More](https://medium.com/p/9344a6f75969) |
-| Thu, 22 Jan 2026 04:36:33 GMT | The Security Paradox: How Your Best Defenses Could Be Sabotaging Business Growth? | The Uncertified Scholar | [Read More](https://medium.com/p/fa741c2f67ee) |
-| Thu, 22 Jan 2026 04:32:05 GMT | JavaScript Security Basics That Actually Matter | Quellin | [Read More](https://medium.com/p/d74e628b99f6) |
