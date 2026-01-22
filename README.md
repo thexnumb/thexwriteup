@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 Jan 2026 07:17:16 GMT | Model Inversion Attacks: Recovering Training Data from an LLM | Melike Ateş | [Read More](https://medium.com/p/fe9e18dc842f) |
+| Thu, 22 Jan 2026 07:08:43 GMT | Installing and Configuring Security Onion in VirtualBox: A Practical Beginner’s Guide | ɧrιsнi rajeeѵ | [Read More](https://medium.com/p/544b308b585d) |
+| Thu, 22 Jan 2026 07:06:43 GMT | Edge-Deployed Machine Learning for ICS Cybersecurity: Detecting Anomalies on Resource-Constrained… | Nathanael J Manier | [Read More](https://medium.com/p/c623579011e5) |
+| Thu, 22 Jan 2026 06:57:21 GMT | Top 20 Tools Inside Parrot OS Explained (With Real-World Use Cases) | TechLatest.Net | [Read More](https://medium.com/p/0f20bc7ef03c) |
+| Thu, 22 Jan 2026 06:52:14 GMT | The Role of Security Services in Protecting Construction Sites | world guardian | [Read More](https://medium.com/p/dd3365b79a3b) |
+| Thu, 22 Jan 2026 06:51:37 GMT | Summertime Saga Mod APK | Bandisharecx | [Read More](https://medium.com/p/21595ace0031) |
+| Thu, 22 Jan 2026 06:50:22 GMT | Celebrating Sovereignty with Smart Security: Why Your Gear Deserves an Upgrade This Republic Day! | Ramesh Raj | [Read More](https://medium.com/p/59708131d8f0) |
+| Thu, 22 Jan 2026 06:43:44 GMT | All concept | Mukisa Nicholas | [Read More](https://medium.com/p/7703952df929) |
+| Thu, 22 Jan 2026 06:41:52 GMT | The Pentagon’s Cyber Workforce Strategy: A Geopolitical Chess Move in the Digital Arms Race | CCD-IS | [Read More](https://medium.com/p/2d4a4eb34675) |
+| Thu, 22 Jan 2026 06:40:44 GMT | Four CVEs in a Row: A Deep Dive into Recent Vulnerability Discoveries | Ravi sharma | [Read More](https://medium.com/p/57007740e5cf) |
 | Thu, 22 Jan 2026 06:33:38 GMT | Advent of Cyber Prep Track - Tryhackme - Day0 | M o $ t a | [Read More](https://medium.com/p/0dd49d50de37) |
 | Thu, 22 Jan 2026 06:33:03 GMT | Taking the Sign Down: Information Risk After the Story Breaks | Dr. Thomas Jreige | [Read More](https://medium.com/p/4e105ef9bab6) |
 | Thu, 22 Jan 2026 06:31:59 GMT | The AI Kill Switch: How to Hard-Block Models from Touching Private Data | Dorian Sotpyrc | [Read More](https://medium.com/p/0b44c6e91dbc) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 Jan 2026 21:05:30 GMT | The Silence That Built an Intelligence System | Ben Moataz | [Read More](https://medium.com/p/704b370e854f) |
 | Wed, 21 Jan 2026 21:03:36 GMT | Taylor Swift Is Just Too Much for You | Ashley Collins | [Read More](https://medium.com/p/f27509dbfaf3) |
 | Wed, 21 Jan 2026 21:01:08 GMT | Tanuki pt 2 Writeup (BugForge) | 7s26Simon | [Read More](https://medium.com/p/9fb93d2474e4) |
-| Wed, 21 Jan 2026 20:59:30 GMT | Introducing CVE-Alert: Free Real-Time Vulnerability Tracking by Dataforge | Dan Forsyth | [Read More](https://medium.com/p/0612b90f099e) |
-| Wed, 21 Jan 2026 20:56:01 GMT | Unlock a Safer, Faster, and Private Internet | Genelia | [Read More](https://medium.com/p/d0416bc0ecc9) |
-| Wed, 21 Jan 2026 20:53:43 GMT | ️ One Click to Ultimate Cybersecurity with NordVPN | Genelia | [Read More](https://medium.com/p/bba6b27a00fb) |
-| Wed, 21 Jan 2026 20:48:08 GMT | How I Verify PC Workman Security Before Every Release | Marcin Firmuga | [Read More](https://medium.com/p/cd1a36d94c1c) |
-| Wed, 21 Jan 2026 20:31:57 GMT | Why My Windows Transparent Proxy Failed on Wi-Fi (and Worked on Ethernet) | Altug Tatlisu | [Read More](https://medium.com/p/952e610579c8) |
-| Wed, 21 Jan 2026 20:30:08 GMT | There Is No Perfect Security. So I Built an App That Knows Nothing About You. | Yasuo Kawachi | [Read More](https://medium.com/p/1f4fa8a6dc8e) |
-| Wed, 21 Jan 2026 20:28:35 GMT | Trying To Find Privacy In An Ai Surveillance Enhanced World | David Speakman | [Read More](https://medium.com/p/a1b1f5fdc1b4) |
-| Wed, 21 Jan 2026 20:27:23 GMT | How to Get Started with Secure Code Review (and Actually Become Good at It) | Parasimpaticki | [Read More](https://medium.com/p/bb26c0168be6) |
-| Wed, 21 Jan 2026 20:26:42 GMT | Day-18 of Bug Bounty Journey : XSS Concept | Anshkamra | [Read More](https://medium.com/p/19e79cf45fcd) |
-| Wed, 21 Jan 2026 20:22:25 GMT | Roburna Audit Completed — Report released | Roburna Official | [Read More](https://medium.com/p/285e2cf6408a) |
