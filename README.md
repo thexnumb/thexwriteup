@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 Jan 2026 21:37:17 GMT | If You’re Vibe Coding, You’re Certainly at Risk — Let Me Explain Why | drop | [Read More](https://medium.com/p/11d0e1f88acb) |
+| Thu, 22 Jan 2026 21:30:11 GMT | E eles continuam nos espionando.. Será? | John Murowaniecki | [Read More](https://medium.com/p/3fd0a004d307) |
+| Thu, 22 Jan 2026 21:29:51 GMT | Community Building for Shopify Brands: How to Build a Thriving Community? | grande | [Read More](https://medium.com/p/0bf9f2cae257) |
 | Thu, 22 Jan 2026 21:00:51 GMT | Enterprise-Grade vs Startup Code: The Mindset Shift That Changes Everything | Ashwin Parmar | [Read More](https://medium.com/p/9d8b487e09a8) |
 | Thu, 22 Jan 2026 20:57:03 GMT | AI Detection Tools | Shailendra Kumar | [Read More](https://medium.com/p/1e3cc93994e5) |
 | Thu, 22 Jan 2026 20:50:18 GMT | ArgoCD’s Hidden Dex Problem: When SSO Becomes a Security Liability | Sadi Zane | [Read More](https://medium.com/p/1cadfee239de) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 Most people believe romance scam victims… | Pause & Verify | [Read More](https://medium.com/p/e0877d789f62) |
 | Thu, 22 Jan 2026 13:50:14 GMT | AI Is Not the Problem | Akshaya Mary Lingala | [Read More](https://medium.com/p/4089dc22878e) |
 | Thu, 22 Jan 2026 13:50:08 GMT | “It Looked Real”: Why Online Scams Are No Longer Obvious and How to Stay Safe | SUHAILU SANI | [Read More](https://medium.com/p/0890a16c1b10) |
-| Thu, 22 Jan 2026 13:46:54 GMT | Dockerizing Node.js Apps the Right Way | Webstack | [Read More](https://medium.com/p/c9a7558b51f1) |
-| Thu, 22 Jan 2026 13:45:12 GMT | NullByte: 1 — OSCP Raw - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/e0e71e4b0e5d) |
-| Thu, 22 Jan 2026 13:42:00 GMT | Cybersecurity Interviews: Anecdotal Edition | Danny | [Read More](https://medium.com/p/b763e7495a9e) |
