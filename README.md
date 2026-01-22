@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 Jan 2026 14:05:16 GMT | The Myth and Reality Behind “Dark Web Hit Lists | Tor BBB | [Read More](https://medium.com/p/027ec3c5916f) |
+| Thu, 22 Jan 2026 14:03:44 GMT | Why Romance Scam Victims Don’t Know They’re Being Scammed
+Most people believe romance scam victims… | Pause & Verify | [Read More](https://medium.com/p/e0877d789f62) |
+| Thu, 22 Jan 2026 13:50:14 GMT | AI Is Not the Problem | Akshaya Mary Lingala | [Read More](https://medium.com/p/4089dc22878e) |
+| Thu, 22 Jan 2026 13:50:08 GMT | “It Looked Real”: Why Online Scams Are No Longer Obvious and How to Stay Safe | SUHAILU SANI | [Read More](https://medium.com/p/0890a16c1b10) |
 | Thu, 22 Jan 2026 13:46:54 GMT | Dockerizing Node.js Apps the Right Way | Webstack | [Read More](https://medium.com/p/c9a7558b51f1) |
+| Thu, 22 Jan 2026 13:45:12 GMT | NullByte: 1 — OSCP Raw - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/e0e71e4b0e5d) |
+| Thu, 22 Jan 2026 13:42:00 GMT | Cybersecurity Interviews: Anecdotal Edition | Danny | [Read More](https://medium.com/p/b763e7495a9e) |
 | Thu, 22 Jan 2026 13:35:33 GMT | Siber Güvenlik Kümelenmesi 4. CTF Yarışması | Tolga Can | [Read More](https://medium.com/p/ccf8c535958a) |
 | Thu, 22 Jan 2026 13:34:05 GMT | ISC² SSCP Exam: Mastering Security Operations (Part 2) | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/f1e940a18e49) |
 | Thu, 22 Jan 2026 13:32:43 GMT | VulnLab: File Inclusion Çözümü | CyberSam | [Read More](https://medium.com/p/b8637a2d3d20) |
@@ -107,9 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 Jan 2026 09:19:19 GMT | Detecting the “Invisibles” in Cybersecurity How Quantum Computing Is Starting to Reveal Attacks… | aratan | [Read More](https://medium.com/p/e5eefb55f5f9) |
 | Thu, 22 Jan 2026 09:13:54 GMT | Need the Best AI Development Services in the USA? | Chhama | [Read More](https://medium.com/p/702ff1797aa8) |
 | Thu, 22 Jan 2026 09:12:40 GMT | Key Components of a Modern Casino Gaming Platform | Blokotech | [Read More](https://medium.com/p/33015fdbe396) |
-| Thu, 22 Jan 2026 09:08:23 GMT | The Ghost in the Shell: How Vue.js Component Reuse Can Cost You Thousands | Thomas Ender | [Read More](https://medium.com/p/25dfa49bf858) |
-| Thu, 22 Jan 2026 09:07:19 GMT | One Mistake in Your Smart Contract Could Cost Millions. Red Teams Know Where to Look | Redfox Security | [Read More](https://medium.com/p/552f0831624c) |
-| Thu, 22 Jan 2026 09:03:10 GMT | Who Else Wants to Stop Creating Duplicate Reports for Every User? | Mikhail Mikushin | [Read More](https://medium.com/p/aad0523889f2) |
-| Thu, 22 Jan 2026 09:03:09 GMT | Session Cookies in Stealer Logs: Why MFA Won’t Save You | Alexandre Vandamme | [Read More](https://medium.com/p/f7ad90d46e50) |
-| Thu, 22 Jan 2026 09:01:22 GMT | Expert Security Services in Georgia You Can Trust | Matrix Security Guard Services LLC | [Read More](https://medium.com/p/5fa18c3d433d) |
-| Thu, 22 Jan 2026 09:00:56 GMT | Reasons Spring Boot 3 Changed WebSecurityConfigurerAdapter — and How to Migrate Gracefully | Anh Trần Tuấn | [Read More](https://medium.com/p/397835bebe14) |
