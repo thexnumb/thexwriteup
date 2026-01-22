@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 Jan 2026 10:22:40 GMT | How to Build a Cybersecurity Roadmap for Your Organization in 2026 | Jay C Roberts | [Read More](https://medium.com/p/1e65f27dd8da) |
+| Thu, 22 Jan 2026 10:20:51 GMT | How Do I Get Into Cybersecurity?” — Why This Question Confuses You More Than It Helps | Abhishek pawar | [Read More](https://medium.com/p/00419f87643b) |
+| Thu, 22 Jan 2026 10:18:47 GMT | Why Secrets Leak From Frontend Apps ??? | Sanjeevani Bhandari | [Read More](https://medium.com/p/cc458759a40a) |
+| Thu, 22 Jan 2026 10:17:11 GMT | Learning API Security as a Beginner: My Cybersafe API Training Experience (Week 1) | Odunlade Adeola | [Read More](https://medium.com/p/bc9127d8d3b9) |
+| Thu, 22 Jan 2026 10:14:31 GMT | Authentication in Ruby on Rails Using Devise (The Right Way) | Ravi Prakash | [Read More](https://medium.com/p/b8021ec7a627) |
+| Thu, 22 Jan 2026 10:13:33 GMT | What is Sender Policy Framework (SPF)? | InfosecTrain | [Read More](https://medium.com/p/e07f0ea77bfd) |
+| Thu, 22 Jan 2026 10:13:08 GMT | CTO: From Lab Tech Director to a Strategic Operator | Andrew Ghostyuhin | [Read More](https://medium.com/p/256a4954a3cc) |
+| Thu, 22 Jan 2026 10:11:59 GMT | Corporate Greed Chronicles: Lean, Mean, Pink-Slip Machine at CarMax | Namir Sagheenanajar | [Read More](https://medium.com/p/4f43cd2cd9ad) |
+| Thu, 22 Jan 2026 10:10:50 GMT | Top Cybersecurity Services 2026: Protect Your Business from Digital Threats | EurosHub Official | [Read More](https://medium.com/p/bd42f918deb6) |
+| Thu, 22 Jan 2026 10:09:50 GMT | Reliable IT Infrastructure Management Services for Businesses in India | Thiripathiv | [Read More](https://medium.com/p/5f4b15ccec08) |
+| Thu, 22 Jan 2026 10:09:28 GMT | The New HackTheBox Certified Web Exploitation Specialist Review | Motasem Hamdan | [Read More](https://medium.com/p/66b2b0edf3c0) |
+| Thu, 22 Jan 2026 10:08:42 GMT | ICO Fines Password Manager £1.2m: What UK SMEs Must Check Before Trusting a Password Managers Vault | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/13cccc70c936) |
+| Thu, 22 Jan 2026 10:07:58 GMT | Password Hash Disclosure on Krafton India Esports API via client-side decryption leads to potential… | dark-haxor | [Read More](https://medium.com/p/d86ecf062286) |
+| Thu, 22 Jan 2026 10:03:09 GMT | In Stories, I Wasn’t Afraid to Clash with Others | SSS- - | [Read More](https://medium.com/p/b5912b275529) |
+| Thu, 22 Jan 2026 10:03:07 GMT | Detecting Windows Attacks with Splunk | Zainab Akinlawon | [Read More](https://medium.com/p/17017b572b8b) |
+| Thu, 22 Jan 2026 10:02:41 GMT | Snowflake Federated Authentication (SSO) with Okta | Nagendrababu Lakavathu | [Read More](https://medium.com/p/987419f96d80) |
+| Thu, 22 Jan 2026 09:56:24 GMT | Evolve your VM program to exposure management — for better outcomes now | Joe Giddens | [Read More](https://medium.com/p/171ab688b01c) |
+| Thu, 22 Jan 2026 09:52:38 GMT | When 337 Vulnerabilities Drop at Once, Silence Is the Real Risk | Prerna Shukla | [Read More](https://medium.com/p/3afd5a1c38c4) |
+| Thu, 22 Jan 2026 09:45:08 GMT | Host & Network Penetration Testing: System-Host Based Attacks CTF 2 (EJPT) | Terabaapbadplayer | [Read More](https://medium.com/p/451a49b25ed9) |
+| Thu, 22 Jan 2026 09:43:16 GMT | How One Small Misconfiguration Can Break an Entire Network | Abhinsubej | [Read More](https://medium.com/p/b502eea5cfa9) |
 | Thu, 22 Jan 2026 09:30:17 GMT | The Vault Illusion: Are We Really Securing Secrets, or Just Feeling Better? | Ranjith Vijayan | [Read More](https://medium.com/p/4651abbb91ec) |
 | Thu, 22 Jan 2026 09:29:31 GMT | I Was Sceptical About Brené Brown’s Dare to Lead. I Was Wrong. | H Douglass | [Read More](https://medium.com/p/91fd2c74601c) |
 | Thu, 22 Jan 2026 09:26:55 GMT | The Day MongoDB Started Bleeding Data | K. M. Shehan | [Read More](https://medium.com/p/f4fd41635630) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 Jan 2026 04:37:02 GMT | SQL Injection: How It Works and How to Prevent It | Suman Panta | [Read More](https://medium.com/p/9344a6f75969) |
 | Thu, 22 Jan 2026 04:36:33 GMT | The Security Paradox: How Your Best Defenses Could Be Sabotaging Business Growth? | The Uncertified Scholar | [Read More](https://medium.com/p/fa741c2f67ee) |
 | Thu, 22 Jan 2026 04:32:05 GMT | JavaScript Security Basics That Actually Matter | Quellin | [Read More](https://medium.com/p/d74e628b99f6) |
-| Thu, 22 Jan 2026 04:32:03 GMT | Digital Autopsy: Decoding the DNA of a Windows Executable | Pratik Gurav | [Read More](https://medium.com/p/0731fb22fc63) |
-| Thu, 22 Jan 2026 04:25:48 GMT | Why Code Fixes Won’t Save You in 2026 | Safeguard Capital | [Read More](https://medium.com/p/d62e44a9353b) |
-| Thu, 22 Jan 2026 04:25:43 GMT | Why IT Professionals Must Constantly Upskill | Christie | [Read More](https://medium.com/p/aee3af9312f8) |
-| Thu, 22 Jan 2026 04:23:59 GMT | Linux Users & Groups: Why Your Jenkins Pipeline is Actually Failing | Ravitejachalla | [Read More](https://medium.com/p/040320d4c17c) |
-| Thu, 22 Jan 2026 04:11:14 GMT | Network Security Services in 2026: Protecting the Digital Backbone | Devarshi Acharya | [Read More](https://medium.com/p/0d97e7648cd6) |
-| Thu, 22 Jan 2026 04:07:05 GMT | What is Cybersecurity Management? — Securiti | Privacy Research Team, Securiti | [Read More](https://medium.com/p/b81467ba7af5) |
-| Thu, 22 Jan 2026 03:57:43 GMT | AI and Security: What Developers Must Understand Before Using AI | Sohit Mishra | [Read More](https://medium.com/p/2cd5a9f81e51) |
-| Thu, 22 Jan 2026 03:44:33 GMT | Equlix Review: Features, Platform Overview, and How It Works | Besti Trader | [Read More](https://medium.com/p/7ed33f89b444) |
-| Thu, 22 Jan 2026 03:41:31 GMT | The Security Model Behind a Simple Purchase Clark Wilson in Real Life | Surbhimeena | [Read More](https://medium.com/p/33975030523a) |
-| Thu, 22 Jan 2026 03:32:00 GMT | 7 Alternatives to JWT for Secure Authentication | Arunangshu Das | [Read More](https://medium.com/p/845de8288fb5) |
-| Thu, 22 Jan 2026 03:32:00 GMT | PDFSider: When Legitimate Software Becomes the Perfect Hiding Place | Deven Chhajed | [Read More](https://medium.com/p/c11d2fcc71d0) |
-| Thu, 22 Jan 2026 03:30:04 GMT | From Trust to Traps: Building Modern Network Defenses (Explained Simply) | Manubhav Sharma | [Read More](https://medium.com/p/207b115b2461) |
-| Thu, 22 Jan 2026 03:02:07 GMT | Phase 1 of Hacking: The Complete Beginner’s Guide to Nmap | SOORAJ SUBRAMANIAN | [Read More](https://medium.com/p/819a4387d9de) |
-| Thu, 22 Jan 2026 02:53:27 GMT | Why do I even need to verify checksums? | Tyler Hudson | [Read More](https://medium.com/p/e610e0a05ddb) |
-| Thu, 22 Jan 2026 02:39:05 GMT | Training Your Little Knight: How to Slay the Digital Dragon Together | Steven Chin | [Read More](https://medium.com/p/f2931c985427) |
-| Thu, 22 Jan 2026 02:32:07 GMT | Stop Encrypting Passwords: A Rails Developer’s Guide to Hashing | sudhansh jawale | [Read More](https://medium.com/p/0f6713c18996) |
-| Thu, 22 Jan 2026 02:16:19 GMT | Iraq’s Cybercrime Law: A Technical and Critical Analysis of the Legal Framework | Hisham Hyber | [Read More](https://medium.com/p/331b96c47ac4) |
-| Thu, 22 Jan 2026 02:13:31 GMT | AI-Assisted PHP Security Testing with Keygraph Shannon | Nishi Tiwari | [Read More](https://medium.com/p/ba9ceec8291e) |
-| Thu, 22 Jan 2026 02:12:50 GMT | AWS S3: 10 Survival Settings Before Hackers Find Your Data | Pois0n84 | [Read More](https://medium.com/p/5845fec20376) |
-| Thu, 22 Jan 2026 02:03:44 GMT | Master HACKING With ChatGPT in 2026! (Full Guide) | Shahzaib | [Read More](https://medium.com/p/e1d77fbffe92) |
