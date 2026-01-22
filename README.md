@@ -12,12 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 Jan 2026 17:21:02 GMT | Why FMCSA’s Broken Data Is a Gift to Freight Fraudsters | Heesham Naji | [Read More](https://medium.com/p/43a08ebaf67e) |
+| Thu, 22 Jan 2026 17:20:14 GMT | From Docker Hub to Chainguard: A Vulnerability Reduction Experiment | Ivan Karpenko | [Read More](https://medium.com/p/29d5e04c8029) |
+| Thu, 22 Jan 2026 17:15:54 GMT | FULL ACCOUNT WILL DIE | Omar Mahmoud | [Read More](https://medium.com/p/ce9958bccb8b) |
+| Thu, 22 Jan 2026 17:12:36 GMT | DNS: Niyə Kompyuterlər Bizim Kimi Ağıllı Deyil? | Gunash | [Read More](https://medium.com/p/ff2adb12d080) |
+| Thu, 22 Jan 2026 17:06:46 GMT | Authentication vs Authorization: Where Systems Actually Break | Daniel Isaac E | [Read More](https://medium.com/p/adefb1040a24) |
+| Thu, 22 Jan 2026 17:04:39 GMT | eJPT in 60 Days: A Beginner-Friendly Guide to Ethical Hacking | Nagarjunht | [Read More](https://medium.com/p/c784e65d9eb0) |
+| Thu, 22 Jan 2026 17:04:04 GMT | Tricking the Tricksters: A Dark Web Thought Experiment in Futility? | Justas_b_2 | [Read More](https://medium.com/p/c7661da569f5) |
+| Thu, 22 Jan 2026 16:49:44 GMT | Critical Chainlit AI Framework Vulnerabilities Expose Cloud Environments to Security Risks | Technijian | [Read More](https://medium.com/p/e891d8ca5e34) |
+| Thu, 22 Jan 2026 16:48:09 GMT | Usage Machine Walkthrough/Explanation | Brian Courtney | [Read More](https://medium.com/p/a81e020409ae) |
+| Thu, 22 Jan 2026 16:45:44 GMT | When the Screen Goes Dark: Your 2026 Guide to Cyber Adversity | Xaltius | [Read More](https://medium.com/p/b9d526a7406e) |
+| Thu, 22 Jan 2026 16:42:00 GMT | What DevSecOps Really Means (And Why DevOps Alone Is Not Enough) | SwayamOps | [Read More](https://medium.com/p/38e0cd6b6d72) |
+| Thu, 22 Jan 2026 16:38:43 GMT | Learning DLP for the Age of AI: Why the Browser Is the New Security Perimeter | Mammoth Cyber | [Read More](https://medium.com/p/1d256987b5e2) |
 | Thu, 22 Jan 2026 16:37:23 GMT | Breaking Into Web Application Security: My WEB-RTA Certification Experience | Atikfaras | [Read More](https://medium.com/p/da071a4c229e) |
 | Thu, 22 Jan 2026 16:35:20 GMT | Rate Limiting and Abuse Protection for APIs: A Practical Guide (Token Bucket, Sliding Window, and… | Sudip Thapa | [Read More](https://medium.com/p/a882d412a19a) |
 | Thu, 22 Jan 2026 16:32:00 GMT | Because you need to have a method | Z5 ~ Th3 4rt 0f H4ck1ng | [Read More](https://medium.com/p/e1695c44b419) |
 | Thu, 22 Jan 2026 16:31:13 GMT | Passing the CWL Web Red Team Analyst (WEB-RTA) Exam — My Experience 2026 | Talha Khatib | [Read More](https://medium.com/p/dbebec453675) |
 | Thu, 22 Jan 2026 16:25:51 GMT | Rooting the Butler Machine (TCM Security) — Step-by-Step Walkthrough | B3TA-BLOCKER | [Read More](https://medium.com/p/46e34d91b2c1) |
 | Thu, 22 Jan 2026 16:22:54 GMT | You Can’t Protect What You Can’t Map : Navigating the Network | Sanya Sachdeva | [Read More](https://medium.com/p/b63ea0587ab4) |
+| Thu, 22 Jan 2026 16:19:12 GMT | This is how modern cyberattacks really begin — a look behind the scenes (Part 2 of 4) | Cordula Boeck | [Read More](https://medium.com/p/c40ba84da54d) |
 | Thu, 22 Jan 2026 16:17:47 GMT | Passkeys: A Quiet Upgrade to Digital Security | David Speakman | [Read More](https://medium.com/p/890cb047ce57) |
 | Thu, 22 Jan 2026 15:59:58 GMT | i wonder if anyone will stay after the mystery fades | crescent.ᐟ | [Read More](https://medium.com/p/e3b2b97e5804) |
 | Thu, 22 Jan 2026 15:59:42 GMT | The Malware Files Official Publication Guidelines | Daniel Iwugo | [Read More](https://medium.com/p/a8d62fcb67f4) |
@@ -101,16 +114,3 @@ Most people believe romance scam victims… | Pause & Verify | [Read More](https
 | Thu, 22 Jan 2026 10:52:27 GMT | My Thoughts on LINUXENIC CORP : Indonesia First LMS for Cybersecurity | hihipro | [Read More](https://medium.com/p/33464f0d189f) |
 | Thu, 22 Jan 2026 10:45:57 GMT | Quantum Computing + Explainability: A Crisis We’re Not Ready For | Shivansh Arora | [Read More](https://medium.com/p/cb8110d818c5) |
 | Thu, 22 Jan 2026 10:44:01 GMT | if you aren’t paying for the product, you are the product. | Your's Nightmare | [Read More](https://medium.com/p/a64f8163d228) |
-| Thu, 22 Jan 2026 10:43:54 GMT | Credit Insurance: A Smart Shield Against Business Payment Risks | Graysonwatson | [Read More](https://medium.com/p/266e1ed9e19a) |
-| Thu, 22 Jan 2026 10:41:37 GMT | HTML Injection to Data Exfiltration: Weaponizing CSS | Jayateertha Guruprasad | [Read More](https://medium.com/p/88ec1639a0cd) |
-| Thu, 22 Jan 2026 10:35:38 GMT | How I Earned a $500 Bug Bounty for a P5 Informational Vulnerability | Swarooppatil | [Read More](https://medium.com/p/a20e2c68e3d4) |
-| Thu, 22 Jan 2026 10:33:56 GMT | From Static Reports to a Living Scope: Solving Data Chaos in Long-Term Engagements | 2s1one | [Read More](https://medium.com/p/5b4423098f7a) |
-| Thu, 22 Jan 2026 10:32:02 GMT | Advance Diploma in Artificial Intelligence and Machine Learning | Manisha Chaudhary | [Read More](https://medium.com/p/d4aefa9a8cec) |
-| Thu, 22 Jan 2026 10:28:28 GMT | building a security automation framework in 10 steps | h@shtalk | [Read More](https://medium.com/p/ac316f0b3857) |
-| Thu, 22 Jan 2026 10:24:46 GMT | Need the Best AI Development Services in the USA? | Asif Khan | [Read More](https://medium.com/p/18529f107dd4) |
-| Thu, 22 Jan 2026 10:22:40 GMT | How to Build a Cybersecurity Roadmap for Your Organization in 2026 | Jay C Roberts | [Read More](https://medium.com/p/1e65f27dd8da) |
-| Thu, 22 Jan 2026 10:20:51 GMT | How Do I Get Into Cybersecurity?” — Why This Question Confuses You More Than It Helps | Abhishek pawar | [Read More](https://medium.com/p/00419f87643b) |
-| Thu, 22 Jan 2026 10:18:47 GMT | Why Secrets Leak From Frontend Apps ??? | Sanjeevani Bhandari | [Read More](https://medium.com/p/cc458759a40a) |
-| Thu, 22 Jan 2026 10:17:11 GMT | Learning API Security as a Beginner: My Cybersafe API Training Experience (Week 1) | Odunlade Adeola | [Read More](https://medium.com/p/bc9127d8d3b9) |
-| Thu, 22 Jan 2026 10:14:31 GMT | Authentication in Ruby on Rails Using Devise (The Right Way) | Ravi Prakash | [Read More](https://medium.com/p/b8021ec7a627) |
-| Thu, 22 Jan 2026 10:13:33 GMT | What is Sender Policy Framework (SPF)? | InfosecTrain | [Read More](https://medium.com/p/e07f0ea77bfd) |
