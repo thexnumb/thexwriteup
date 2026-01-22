@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 Jan 2026 11:38:54 GMT | How One Person Built a Micro-SaaS in 48 Hours (No Team, Just Coffee and Determination) | 0xswaeth | [Read More](https://medium.com/p/4dae88dbac62) |
+| Thu, 22 Jan 2026 11:34:28 GMT | When “Managed” Finally Means Less Stress and Better Performance? | Ann Taylor | [Read More](https://medium.com/p/2a71a7431f1f) |
+| Thu, 22 Jan 2026 11:33:00 GMT | Clock Skew - Time Can Change Anything | Jerry Shah (Jerry) | [Read More](https://medium.com/p/0bb84e9635de) |
+| Thu, 22 Jan 2026 11:33:00 GMT | Null Pointers: The 1965 Decision Still Crashing Your Code | Can Artuc | [Read More](https://medium.com/p/79f05f7b4b49) |
+| Thu, 22 Jan 2026 11:30:49 GMT | The Impossibility of EU Independence in the Data Center Sector | VibeCoders Club | [Read More](https://medium.com/p/bc73a5a347b4) |
+| Thu, 22 Jan 2026 11:28:21 GMT | Cybersecurity Trends 2026: What Changed, What Broke, and What Leaders Must Do Next | UVATION | [Read More](https://medium.com/p/48a0a9684ecb) |
+| Thu, 22 Jan 2026 11:23:54 GMT | Smart IT Support Solutions for Chatswood Businesses | Any network | [Read More](https://medium.com/p/cd6e618d9519) |
 | Thu, 22 Jan 2026 11:20:08 GMT | What Learning API Security Taught Me About Building Systems for the Real World | Madalitso Cheyo | [Read More](https://medium.com/p/5590ad56f8b8) |
 | Thu, 22 Jan 2026 11:18:43 GMT | OverTheWire Natas Level 4 — Referer Header Bypass Çözümü | Alperen Mursallı | [Read More](https://medium.com/p/13d654faf0b3) |
 | Thu, 22 Jan 2026 11:16:02 GMT | Hacking 3 cars in 10 seconds | T-Jay Bautista | [Read More](https://medium.com/p/278fceddf81a) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 Jan 2026 06:29:41 GMT | Cybersecurity Company in India Delivering Advanced Protection - Secninjaz Technologies LLP | Secninjaz Technologies LLP | [Read More](https://medium.com/p/a6932dd3b72b) |
 | Thu, 22 Jan 2026 06:29:07 GMT | About Argus Engine | Veri Sızıntısı Posts | [Read More](https://medium.com/p/0e66c1170f44) |
 | Thu, 22 Jan 2026 06:24:44 GMT | Unified Endpoint Management (UEM) Software Market: Trends, Growth, and Future Outlook | Michel mathew | [Read More](https://medium.com/p/d98cec65f8d9) |
-| Thu, 22 Jan 2026 06:23:16 GMT | DIGITAL ASSETS RECOVERY EXPERTS ONLINE | Forfoewx | [Read More](https://medium.com/p/4d2c0f7318b4) |
-| Thu, 22 Jan 2026 06:20:03 GMT | Transformer une IA Open Source en expert Cyber Local avec Ollama (Tutoriel) | RAPATT | [Read More](https://medium.com/p/8f02e02bc476) |
-| Thu, 22 Jan 2026 06:18:25 GMT | Securing AI APIs and Protecting Sensitive Data: Best Practices for Modern Applications: | ZECHROME TECHNOLOGIES LLP. | [Read More](https://medium.com/p/e42abfe39ffe) |
-| Thu, 22 Jan 2026 06:15:25 GMT | Parrot OS Cloud VM — Your All-in-One Cybersecurity & Development Lab | TechLatest.Net | [Read More](https://medium.com/p/88b1360f787a) |
-| Thu, 22 Jan 2026 06:14:38 GMT | Gmail Hacked? Here’s What to Do and How to Do It | Spokeo People Search | [Read More](https://medium.com/p/3c8a9ebdad86) |
-| Thu, 22 Jan 2026 06:11:08 GMT | Security Advisory: CVE-2025–14847 MongoDB Server Zlib Compression Memory Disclosure (MongoBleed) | Chetan Niloor | [Read More](https://medium.com/p/27d8f47f46a2) |
-| Thu, 22 Jan 2026 05:58:59 GMT | Data in Australia Is Easy. Sovereignty Is Harder. | Dr. Thomas Jreige | [Read More](https://medium.com/p/84dc04894af5) |
