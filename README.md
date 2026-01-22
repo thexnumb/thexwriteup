@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 Jan 2026 19:34:02 GMT | Installing Kali Linux Without Errors | Andrey.Web | [Read More](https://medium.com/p/9fbe60c87c83) |
+| Thu, 22 Jan 2026 19:30:28 GMT | The AI CRM Tax: Why Most Platforms Are Charging You for “Duct-Taped” Intelligence | Michael Fraser | [Read More](https://medium.com/p/6e9c1995268c) |
+| Thu, 22 Jan 2026 19:28:42 GMT | CompTIA® SecurityX® CAS-005 Certification Guide (2nd Edition): A Practical Companion for Senior… | Minisky | [Read More](https://medium.com/p/5dbea2310736) |
+| Thu, 22 Jan 2026 19:24:22 GMT | De sneeuwstorm | l´observatrice | [Read More](https://medium.com/p/561bef153f59) |
 | Thu, 22 Jan 2026 19:22:04 GMT | Пошук вразливостей. Публічні експлойти | Fl4g Hunt3r Project | [Read More](https://medium.com/p/58d2838274f9) |
 | Thu, 22 Jan 2026 19:15:02 GMT | 750,000 Impacted by Canadian Investment Watchdog Data Breach: What Businesses Must Learn in 2026 | IT_Engineer | [Read More](https://medium.com/p/53eda3c869f6) |
 | Thu, 22 Jan 2026 19:06:36 GMT | I Audited My Python Environment for Spyware — Here’s What I Found | ghostyjoe | [Read More](https://medium.com/p/71b3165808f4) |
@@ -31,6 +35,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 Jan 2026 18:16:09 GMT | Prompt Injection: The SQL Injection of the AI Era | Mohit_Yadav | [Read More](https://medium.com/p/4aec69f10e05) |
 | Thu, 22 Jan 2026 18:13:41 GMT | How Secure Is Fyltr? An Honest Look Under the Hood | Fyltr | [Read More](https://medium.com/p/fe92ad1d8e24) |
 | Thu, 22 Jan 2026 18:03:03 GMT | How Attackers Exploit Cloud Misconfigurations | Vasantheeswaran | [Read More](https://medium.com/p/adf4212543d2) |
+| Thu, 22 Jan 2026 18:01:57 GMT | How Hackers Attack Websites — and How to Protect Yours | Saqib Naseer | [Read More](https://medium.com/p/1479992fcf43) |
 | Thu, 22 Jan 2026 18:01:55 GMT | Oracle’s January 2026 Patch Flood | Andis Paudel | [Read More](https://medium.com/p/64232910b77b) |
 | Thu, 22 Jan 2026 18:00:27 GMT | Deconstructing Detection Logic in Windows Environments-Part 3 | Manish [pikachu] | [Read More](https://medium.com/p/3121bfe33705) |
 | Thu, 22 Jan 2026 17:59:58 GMT | I Let AI Scan the Internet for Bugs - It Ended Up Finding Real Vulnerabilities | Fazal PS | [Read More](https://medium.com/p/4709ba5f35e0) |
@@ -39,6 +44,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 Jan 2026 17:56:28 GMT | Debunking Disaster Recovery Myths for Mainframe Users | PSR Incorporated | [Read More](https://medium.com/p/256393a3b82d) |
 | Thu, 22 Jan 2026 17:55:39 GMT | Parasitic Synthetic Intelligence (PSI) — A New Parasitic Class of Artificial Intelligence | David Centineo | [Read More](https://medium.com/p/b379f5c1d63c) |
 | Thu, 22 Jan 2026 17:43:11 GMT | Bug Bounty Isn’t About Speed — It’s About Seeing What Others Ignore | Iski | [Read More](https://medium.com/p/1b99396cdd6c) |
+| Thu, 22 Jan 2026 17:43:01 GMT | AI Supercomputing Platforms for Real-Time Security Analytics | Digital Defense | [Read More](https://medium.com/p/4dc906751388) |
 | Thu, 22 Jan 2026 17:41:52 GMT | Web2 Threat Models Don’t Survive Web3 | Veretin Cybersecurity | [Read More](https://medium.com/p/015a9281c32c) |
 | Thu, 22 Jan 2026 17:35:20 GMT | Github Copilot Says-Its SQL Injection and Lead to Security Risk | Umesh Nagar | [Read More](https://medium.com/p/80160703e4a5) |
 | Thu, 22 Jan 2026 17:32:36 GMT | Zero Trust Security: A Fundamental Mindset Shift | Volkan | [Read More](https://medium.com/p/5b90707ca356) |
@@ -108,9 +114,3 @@ Most people believe romance scam victims… | Pause & Verify | [Read More](https
 | Thu, 22 Jan 2026 13:02:39 GMT | What Is Ethical Hacking? Complete Guide to Ethical Hackers | Vignesh Selvaraj | [Read More](https://medium.com/p/0f64aa53112d) |
 | Thu, 22 Jan 2026 12:54:39 GMT | For Sale: AIDYOR – The AI-Driven Crypto Security Platform (Full Project & Domain)
 ​In an era where… | David Belligoi | [Read More](https://medium.com/p/6dbfc7664f93) |
-| Thu, 22 Jan 2026 12:54:00 GMT | Unveiling the Digital Demons: | Claudia G. Petersen | [Read More](https://medium.com/p/f14aa60616eb) |
-| Thu, 22 Jan 2026 12:53:22 GMT | Indirect Prompt Injection in Preplexity Comet AI | Sam Mirov | [Read More](https://medium.com/p/03a383d971c6) |
-| Thu, 22 Jan 2026 12:44:45 GMT | [PortSwigger][Practitioner]- Lab: CSRF where token validation depends on request method | Javiki | [Read More](https://medium.com/p/6661116fa0be) |
-| Thu, 22 Jan 2026 12:43:08 GMT | ISO/IEC 27001:2022 ISMS Certification | TechnoSysCon | [Read More](https://medium.com/p/aea02b40508f) |
-| Thu, 22 Jan 2026 12:40:32 GMT | Top-Rated Cloud Services in the USA to Power Your Business Growth | Rashmi Levelstech | [Read More](https://medium.com/p/55ffff641079) |
-| Thu, 22 Jan 2026 12:39:17 GMT | Top 5 Red Hat Certifications in 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/eea82092f83f) |
