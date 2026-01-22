@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 Jan 2026 23:39:02 GMT | LuckyShot-HTB Sherlock Writeup | N0T3 | [Read More](https://medium.com/p/ac7a5e859569) |
+| Thu, 22 Jan 2026 23:38:34 GMT | ️ Stay Invisible, Stay Protected – Choose NordVPN | Genelia | [Read More](https://medium.com/p/c6d3d2cb350c) |
+| Thu, 22 Jan 2026 23:30:56 GMT | The Top 7 Mistakes Small Businesses Make with Their Security | Eric Smith | [Read More](https://medium.com/p/7ef59b11bd23) |
+| Thu, 22 Jan 2026 23:21:11 GMT | The “Fiverr First Order” Trap: How I Avoided Three Sophisticated Scams in One Day | Danalakshan Arulgnanam | [Read More](https://medium.com/p/e10a06a432c8) |
 | Thu, 22 Jan 2026 23:20:42 GMT | 30 Days of Red Team: Day 18 — Lateral Movement Techniques | Maxwell Cross | [Read More](https://medium.com/p/b262f688118d) |
 | Thu, 22 Jan 2026 23:02:04 GMT | How I’m Preparing for a SOC Analyst Role Step by Step | Abhinsubej | [Read More](https://medium.com/p/d6fe415a3886) |
 | Thu, 22 Jan 2026 22:45:24 GMT | Why Secrets in JavaScript Bundles Are Still Being Missed | Cyber-AppSec | [Read More](https://medium.com/p/0e7c2ab8edd5) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 Jan 2026 15:43:52 GMT | Anatomía de un centinela — código, lógica y despliegue automatizado(2/3) | Yancel Salinas | [Read More](https://medium.com/p/bf70c040c785) |
 | Thu, 22 Jan 2026 15:41:40 GMT | From Meeting Participant to Network Administrator: Dissecting CVE-2026–22844 | Shreyans Bhatt | [Read More](https://medium.com/p/8a8f38239741) |
 | Thu, 22 Jan 2026 15:20:48 GMT | PYTHON İLE BRUTE FORCE TESPİTİ: Log Analizi ve Güvenlik Otomasyonu | dilan alpaltun | [Read More](https://medium.com/p/5a5da4bdea18) |
-| Thu, 22 Jan 2026 15:19:27 GMT | Zararlı Yazılım Trafik Analizi: “It’a TRAP! — Bölüm 2 | Ata Erdemir | [Read More](https://medium.com/p/09b4372b998b) |
-| Thu, 22 Jan 2026 15:17:31 GMT | Fix Windows Idle Spikes For Faster, Stable Performance | Geoffrey Wenger | [Read More](https://medium.com/p/6dadf1d9fd1e) |
-| Thu, 22 Jan 2026 15:08:11 GMT | Threat Hunting Case Study: Finance Data Exfiltration | c1Tz3n | [Read More](https://medium.com/p/276f84b9af4f) |
-| Thu, 22 Jan 2026 15:06:10 GMT | Web3 pentesting | Redaouzidan | [Read More](https://medium.com/p/29192e326f9e) |
