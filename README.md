@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 Jan 2026 22:13:31 GMT | Encryption Is Powerful — But It Needs To Be User-Friendly | Simon B | [Read More](https://medium.com/p/2577347911f6) |
+| Thu, 22 Jan 2026 22:06:59 GMT | Inter-Machine Communication with RPC | S12 - 0x12Dark Development | [Read More](https://medium.com/p/15f384db2056) |
+| Thu, 22 Jan 2026 22:06:48 GMT | Corridor - TryHackMe Walkthrough | Nasir Ahim | [Read More](https://medium.com/p/b9364fdbf03f) |
+| Thu, 22 Jan 2026 22:02:56 GMT | Intel Struggles to Keep Up With AI Data Center Demand | Tech News | [Read More](https://medium.com/p/85b8df7153b8) |
+| Thu, 22 Jan 2026 21:54:40 GMT | Rate Limiting Bypass | FeritÖzner | [Read More](https://medium.com/p/667421261ea1) |
+| Thu, 22 Jan 2026 21:53:55 GMT | WAF Bypass | FeritÖzner | [Read More](https://medium.com/p/d2a196ccc062) |
+| Thu, 22 Jan 2026 21:46:03 GMT | HackTheBox: Cap | Root_Fabric | [Read More](https://medium.com/p/0cb909d8a64f) |
 | Thu, 22 Jan 2026 21:37:17 GMT | If You’re Vibe Coding, You’re Certainly at Risk — Let Me Explain Why | drop | [Read More](https://medium.com/p/11d0e1f88acb) |
 | Thu, 22 Jan 2026 21:30:11 GMT | E eles continuam nos espionando.. Será? | John Murowaniecki | [Read More](https://medium.com/p/3fd0a004d307) |
 | Thu, 22 Jan 2026 21:29:51 GMT | Community Building for Shopify Brands: How to Build a Thriving Community? | grande | [Read More](https://medium.com/p/0bf9f2cae257) |
@@ -105,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 Jan 2026 14:37:10 GMT | What Is Nessus? A Beginner-Friendly Guide With Linux Installation | PriOFF | [Read More](https://medium.com/p/53e4da28f374) |
 | Thu, 22 Jan 2026 14:36:59 GMT | 7 Fast-Growing Small Business Ideas Investors Are Watching in 2026 | Paul Meyer | [Read More](https://medium.com/p/b82371e45b0e) |
 | Thu, 22 Jan 2026 14:32:32 GMT | Lab Setup for Hacking and Penetration Testing: Overview and Required Software | Vignesh R | [Read More](https://medium.com/p/b39081c98ba5) |
-| Thu, 22 Jan 2026 14:32:22 GMT | The World at a Geopolitical Inflection Point: Conflict, Economics, and the Future of Order | Vivek Anand | [Read More](https://medium.com/p/466d06c48220) |
-| Thu, 22 Jan 2026 14:32:04 GMT | Hacking Back | Miles Fisher | [Read More](https://medium.com/p/e7ec20847bb1) |
-| Thu, 22 Jan 2026 14:23:11 GMT | Top 7 Cybersecurity Skills Every Student Should Learn in 2026 | Khansa | [Read More](https://medium.com/p/41ca8f3bf037) |
-| Thu, 22 Jan 2026 14:05:16 GMT | The Myth and Reality Behind “Dark Web Hit Lists | Tor BBB | [Read More](https://medium.com/p/027ec3c5916f) |
-| Thu, 22 Jan 2026 14:03:44 GMT | Why Romance Scam Victims Don’t Know They’re Being Scammed
-Most people believe romance scam victims… | Pause & Verify | [Read More](https://medium.com/p/e0877d789f62) |
-| Thu, 22 Jan 2026 13:50:14 GMT | AI Is Not the Problem | Akshaya Mary Lingala | [Read More](https://medium.com/p/4089dc22878e) |
-| Thu, 22 Jan 2026 13:50:08 GMT | “It Looked Real”: Why Online Scams Are No Longer Obvious and How to Stay Safe | SUHAILU SANI | [Read More](https://medium.com/p/0890a16c1b10) |
