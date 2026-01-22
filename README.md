@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 Jan 2026 19:22:04 GMT | Пошук вразливостей. Публічні експлойти | Fl4g Hunt3r Project | [Read More](https://medium.com/p/58d2838274f9) |
+| Thu, 22 Jan 2026 19:15:02 GMT | 750,000 Impacted by Canadian Investment Watchdog Data Breach: What Businesses Must Learn in 2026 | IT_Engineer | [Read More](https://medium.com/p/53eda3c869f6) |
+| Thu, 22 Jan 2026 19:06:36 GMT | I Audited My Python Environment for Spyware — Here’s What I Found | ghostyjoe | [Read More](https://medium.com/p/71b3165808f4) |
+| Thu, 22 Jan 2026 19:03:50 GMT | Azərbaycanda Kiber Cinayətlər: Qadağan Olunan Əməllər və Cəzalar | Behbud Behbudov | [Read More](https://medium.com/p/52b339716a5a) |
+| Thu, 22 Jan 2026 19:03:06 GMT | Anti-Clickjacking | Iram Jack | [Read More](https://medium.com/p/794890a90dc8) |
+| Thu, 22 Jan 2026 18:56:39 GMT | Hunting Lazarus Part II: When the Dead Drop Moved to the Blockchain | Red Asgard | [Read More](https://medium.com/p/ae1e1daee43f) |
+| Thu, 22 Jan 2026 18:55:39 GMT | A Day in the Life of a Hacker | Prasadi Niroopama Kumarasinghe | [Read More](https://medium.com/p/655744872af0) |
+| Thu, 22 Jan 2026 18:50:09 GMT | What’s so easy about pie? | Fernanda Fitere | [Read More](https://medium.com/p/893dd3013df1) |
+| Thu, 22 Jan 2026 18:49:33 GMT | How To Scale Security Discussions | Akarsh Goel | [Read More](https://medium.com/p/c0808cb2839c) |
+| Thu, 22 Jan 2026 18:48:44 GMT | ITSM or autism? Why am I so bored with American culture? | Dennis James Procopio | [Read More](https://medium.com/p/e5ea66715218) |
+| Thu, 22 Jan 2026 18:39:21 GMT | What Security Cameras Should You Consider Before Buying | Haris Khan | [Read More](https://medium.com/p/e9fc9dca2ead) |
+| Thu, 22 Jan 2026 18:38:20 GMT | It’s Not a Hack, It’s a Trap: 4 Ways Your Crypto Can Disappear | BountyPortals Official Blog | [Read More](https://medium.com/p/c058bd04c2cf) |
+| Thu, 22 Jan 2026 18:34:15 GMT | Rabbit Hole —  TryHackMe - By Shiv Kumar - Medium | Shiv Kumar | [Read More](https://medium.com/p/3b07ba837a2a) |
 | Thu, 22 Jan 2026 18:29:07 GMT | Even When You Ignore It, Security Is Already in You | Safewithyvonne | [Read More](https://medium.com/p/4e24f257d452) |
 | Thu, 22 Jan 2026 18:25:33 GMT | How I Found My First CVE (CVE-2026–21641) | 0xJad | [Read More](https://medium.com/p/7f29af74fc84) |
 | Thu, 22 Jan 2026 18:19:54 GMT | TryHackMe Advent of Cyber 2025: Your Complete Guide to the 24-Day Learning Marathon - Answered-… | Sandeep Shrivastava | [Read More](https://medium.com/p/3911881653de) |
@@ -101,16 +114,3 @@ Most people believe romance scam victims… | Pause & Verify | [Read More](https
 | Thu, 22 Jan 2026 12:43:08 GMT | ISO/IEC 27001:2022 ISMS Certification | TechnoSysCon | [Read More](https://medium.com/p/aea02b40508f) |
 | Thu, 22 Jan 2026 12:40:32 GMT | Top-Rated Cloud Services in the USA to Power Your Business Growth | Rashmi Levelstech | [Read More](https://medium.com/p/55ffff641079) |
 | Thu, 22 Jan 2026 12:39:17 GMT | Top 5 Red Hat Certifications in 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/eea82092f83f) |
-| Thu, 22 Jan 2026 12:37:48 GMT | Back to Basics II: Email Phishing Analysis | Hariharan | [Read More](https://medium.com/p/563471c02fc8) |
-| Thu, 22 Jan 2026 12:37:08 GMT | JWT - Algorithm Confusion Attacks | Amrsmooke | [Read More](https://medium.com/p/e0a27f42b42c) |
-| Thu, 22 Jan 2026 12:36:39 GMT | Can AI Spot A Fake Signature? | Salomey | [Read More](https://medium.com/p/aa13467f4df9) |
-| Thu, 22 Jan 2026 12:32:12 GMT | Is Google Play Store Really Safe? Hidden Risks Every Android User Should Know | Blue Bird Digital Technology | [Read More](https://medium.com/p/9cec87e3f4e8) |
-| Thu, 22 Jan 2026 12:31:24 GMT | Beyond Encryption: The Art of Hiding Messages Inside Your Photos | Nexia Imagera | [Read More](https://medium.com/p/a4b38f0a0982) |
-| Thu, 22 Jan 2026 12:24:21 GMT | The “SymPy-Dev” Scam: Why Even Smart Developers are Falling for This New PyPI Attack | Mr Horbio | [Read More](https://medium.com/p/9d6b9bfa6706) |
-| Thu, 22 Jan 2026 12:19:21 GMT | How Crypto Criminals Stole $700 Million from Investors And Why It’s Hard to Stop Them | Liberty Ledger | [Read More](https://medium.com/p/e2a58afb699b) |
-| Thu, 22 Jan 2026 12:15:30 GMT | Cyber Security: Technical Foundations, Threats, and Modern Defense Mechanisms | Sharmapriya | [Read More](https://medium.com/p/1f935ae2f83e) |
-| Thu, 22 Jan 2026 12:10:56 GMT | Thirdweb bug bounty program: Dishonourable Dealings | Alexander Pryor | [Read More](https://medium.com/p/b8e03b570c21) |
-| Thu, 22 Jan 2026 12:10:08 GMT | How to resolve “We can’t verify who created this file. | Shariq Ahmed Khan | [Read More](https://medium.com/p/9b925c412797) |
-| Thu, 22 Jan 2026 12:09:40 GMT | Still Not a Cyber Pro? Learn These 10 Skills in 2026 | Testleaf | [Read More](https://medium.com/p/22110acc795e) |
-| Thu, 22 Jan 2026 12:09:15 GMT | Markets, Allies, and Aid: The Quiet Geometry of American Decline | Alana Marsili | [Read More](https://medium.com/p/f96ff64a3dd6) |
-| Thu, 22 Jan 2026 12:02:19 GMT | Passing the OSEP exam using Mythic C2 | r4ulcl | [Read More](https://medium.com/p/f54d30032ba8) |
