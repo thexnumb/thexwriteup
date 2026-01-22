@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 Jan 2026 22:26:01 GMT | Why Encryption Alone Does Not Protect Systems | Code Catalyst | [Read More](https://medium.com/p/d9ddc48290f4) |
 | Thu, 22 Jan 2026 22:13:31 GMT | Encryption Is Powerful — But It Needs To Be User-Friendly | Simon B | [Read More](https://medium.com/p/2577347911f6) |
 | Thu, 22 Jan 2026 22:06:59 GMT | Inter-Machine Communication with RPC | S12 - 0x12Dark Development | [Read More](https://medium.com/p/15f384db2056) |
 | Thu, 22 Jan 2026 22:06:48 GMT | Corridor - TryHackMe Walkthrough | Nasir Ahim | [Read More](https://medium.com/p/b9364fdbf03f) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 Jan 2026 14:49:32 GMT | SAST vs DAST for Web Applications: Theory and Practice | Nabil Mouzouna نبيل مزونة | [Read More](https://medium.com/p/78f7b68331a3) |
 | Thu, 22 Jan 2026 14:37:10 GMT | What Is Nessus? A Beginner-Friendly Guide With Linux Installation | PriOFF | [Read More](https://medium.com/p/53e4da28f374) |
 | Thu, 22 Jan 2026 14:36:59 GMT | 7 Fast-Growing Small Business Ideas Investors Are Watching in 2026 | Paul Meyer | [Read More](https://medium.com/p/b82371e45b0e) |
-| Thu, 22 Jan 2026 14:32:32 GMT | Lab Setup for Hacking and Penetration Testing: Overview and Required Software | Vignesh R | [Read More](https://medium.com/p/b39081c98ba5) |
