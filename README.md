@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 Jan 2026 16:37:23 GMT | Breaking Into Web Application Security: My WEB-RTA Certification Experience | Atikfaras | [Read More](https://medium.com/p/da071a4c229e) |
+| Thu, 22 Jan 2026 16:35:20 GMT | Rate Limiting and Abuse Protection for APIs: A Practical Guide (Token Bucket, Sliding Window, and… | Sudip Thapa | [Read More](https://medium.com/p/a882d412a19a) |
+| Thu, 22 Jan 2026 16:32:00 GMT | Because you need to have a method | Z5 ~ Th3 4rt 0f H4ck1ng | [Read More](https://medium.com/p/e1695c44b419) |
+| Thu, 22 Jan 2026 16:31:13 GMT | Passing the CWL Web Red Team Analyst (WEB-RTA) Exam — My Experience 2026 | Talha Khatib | [Read More](https://medium.com/p/dbebec453675) |
+| Thu, 22 Jan 2026 16:25:51 GMT | Rooting the Butler Machine (TCM Security) — Step-by-Step Walkthrough | B3TA-BLOCKER | [Read More](https://medium.com/p/46e34d91b2c1) |
+| Thu, 22 Jan 2026 16:22:54 GMT | You Can’t Protect What You Can’t Map : Navigating the Network | Sanya Sachdeva | [Read More](https://medium.com/p/b63ea0587ab4) |
+| Thu, 22 Jan 2026 16:17:47 GMT | Passkeys: A Quiet Upgrade to Digital Security | David Speakman | [Read More](https://medium.com/p/890cb047ce57) |
+| Thu, 22 Jan 2026 15:59:58 GMT | i wonder if anyone will stay after the mystery fades | crescent.ᐟ | [Read More](https://medium.com/p/e3b2b97e5804) |
+| Thu, 22 Jan 2026 15:59:42 GMT | The Malware Files Official Publication Guidelines | Daniel Iwugo | [Read More](https://medium.com/p/a8d62fcb67f4) |
+| Thu, 22 Jan 2026 15:59:36 GMT | Inside a Router: How Packets Find Their Way Across the Internet | Asad Sayyad | [Read More](https://medium.com/p/c27188e1e0da) |
+| Thu, 22 Jan 2026 15:59:12 GMT | Complete Guide to Home Security Camera Installation | Alex Bryn | [Read More](https://medium.com/p/0487f07f8b42) |
+| Thu, 22 Jan 2026 15:58:45 GMT | How to avoid loosing money on 97% of your enterprise data? | Piotr Sieminski | [Read More](https://medium.com/p/d3e279beba54) |
+| Thu, 22 Jan 2026 15:47:03 GMT | No malware required: device-code phishing + Teams as the intrusion surface | Wes Young | [Read More](https://medium.com/p/731bdd182dff) |
+| Thu, 22 Jan 2026 15:41:40 GMT | From Meeting Participant to Network Administrator: Dissecting CVE-2026–22844 | Shreyans Bhatt | [Read More](https://medium.com/p/8a8f38239741) |
 | Thu, 22 Jan 2026 15:20:48 GMT | PYTHON İLE BRUTE FORCE TESPİTİ: Log Analizi ve Güvenlik Otomasyonu | dilan alpaltun | [Read More](https://medium.com/p/5a5da4bdea18) |
 | Thu, 22 Jan 2026 15:19:27 GMT | Zararlı Yazılım Trafik Analizi: “It’a TRAP! — Bölüm 2 | Ata Erdemir | [Read More](https://medium.com/p/09b4372b998b) |
 | Thu, 22 Jan 2026 15:17:31 GMT | Fix Windows Idle Spikes For Faster, Stable Performance | Geoffrey Wenger | [Read More](https://medium.com/p/6dadf1d9fd1e) |
@@ -100,17 +114,3 @@ Most people believe romance scam victims… | Pause & Verify | [Read More](https
 | Thu, 22 Jan 2026 10:17:11 GMT | Learning API Security as a Beginner: My Cybersafe API Training Experience (Week 1) | Odunlade Adeola | [Read More](https://medium.com/p/bc9127d8d3b9) |
 | Thu, 22 Jan 2026 10:14:31 GMT | Authentication in Ruby on Rails Using Devise (The Right Way) | Ravi Prakash | [Read More](https://medium.com/p/b8021ec7a627) |
 | Thu, 22 Jan 2026 10:13:33 GMT | What is Sender Policy Framework (SPF)? | InfosecTrain | [Read More](https://medium.com/p/e07f0ea77bfd) |
-| Thu, 22 Jan 2026 10:13:08 GMT | CTO: From Lab Tech Director to a Strategic Operator | Andrew Ghostyuhin | [Read More](https://medium.com/p/256a4954a3cc) |
-| Thu, 22 Jan 2026 10:11:59 GMT | Corporate Greed Chronicles: Lean, Mean, Pink-Slip Machine at CarMax | Namir Sagheenanajar | [Read More](https://medium.com/p/4f43cd2cd9ad) |
-| Thu, 22 Jan 2026 10:10:50 GMT | Top Cybersecurity Services 2026: Protect Your Business from Digital Threats | EurosHub Official | [Read More](https://medium.com/p/bd42f918deb6) |
-| Thu, 22 Jan 2026 10:09:50 GMT | Reliable IT Infrastructure Management Services for Businesses in India | Thiripathiv | [Read More](https://medium.com/p/5f4b15ccec08) |
-| Thu, 22 Jan 2026 10:09:28 GMT | The New HackTheBox Certified Web Exploitation Specialist Review | Motasem Hamdan | [Read More](https://medium.com/p/66b2b0edf3c0) |
-| Thu, 22 Jan 2026 10:08:42 GMT | ICO Fines Password Manager £1.2m: What UK SMEs Must Check Before Trusting a Password Managers Vault | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/13cccc70c936) |
-| Thu, 22 Jan 2026 10:07:58 GMT | Password Hash Disclosure on Krafton India Esports API via client-side decryption leads to potential… | dark-haxor | [Read More](https://medium.com/p/d86ecf062286) |
-| Thu, 22 Jan 2026 10:03:09 GMT | In Stories, I Wasn’t Afraid to Clash with Others | SSS- - | [Read More](https://medium.com/p/b5912b275529) |
-| Thu, 22 Jan 2026 10:03:07 GMT | Detecting Windows Attacks with Splunk | Zainab Akinlawon | [Read More](https://medium.com/p/17017b572b8b) |
-| Thu, 22 Jan 2026 10:02:41 GMT | Snowflake Federated Authentication (SSO) with Okta | Nagendrababu Lakavathu | [Read More](https://medium.com/p/987419f96d80) |
-| Thu, 22 Jan 2026 09:56:24 GMT | Evolve your VM program to exposure management — for better outcomes now | Joe Giddens | [Read More](https://medium.com/p/171ab688b01c) |
-| Thu, 22 Jan 2026 09:52:38 GMT | When 337 Vulnerabilities Drop at Once, Silence Is the Real Risk | Prerna Shukla | [Read More](https://medium.com/p/3afd5a1c38c4) |
-| Thu, 22 Jan 2026 09:45:08 GMT | Host & Network Penetration Testing: System-Host Based Attacks CTF 2 (EJPT) | Terabaapbadplayer | [Read More](https://medium.com/p/451a49b25ed9) |
-| Thu, 22 Jan 2026 09:43:16 GMT | How One Small Misconfiguration Can Break an Entire Network | Abhinsubej | [Read More](https://medium.com/p/b502eea5cfa9) |
