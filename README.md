@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 Jan 2026 23:20:42 GMT | 30 Days of Red Team: Day 18 — Lateral Movement Techniques | Maxwell Cross | [Read More](https://medium.com/p/b262f688118d) |
+| Thu, 22 Jan 2026 23:02:04 GMT | How I’m Preparing for a SOC Analyst Role Step by Step | Abhinsubej | [Read More](https://medium.com/p/d6fe415a3886) |
+| Thu, 22 Jan 2026 22:45:24 GMT | Why Secrets in JavaScript Bundles Are Still Being Missed | Cyber-AppSec | [Read More](https://medium.com/p/0e7c2ab8edd5) |
 | Thu, 22 Jan 2026 22:26:01 GMT | Why Encryption Alone Does Not Protect Systems | Code Catalyst | [Read More](https://medium.com/p/d9ddc48290f4) |
 | Thu, 22 Jan 2026 22:13:31 GMT | Encryption Is Powerful — But It Needs To Be User-Friendly | Simon B | [Read More](https://medium.com/p/2577347911f6) |
 | Thu, 22 Jan 2026 22:06:59 GMT | Inter-Machine Communication with RPC | S12 - 0x12Dark Development | [Read More](https://medium.com/p/15f384db2056) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 Jan 2026 15:17:31 GMT | Fix Windows Idle Spikes For Faster, Stable Performance | Geoffrey Wenger | [Read More](https://medium.com/p/6dadf1d9fd1e) |
 | Thu, 22 Jan 2026 15:08:11 GMT | Threat Hunting Case Study: Finance Data Exfiltration | c1Tz3n | [Read More](https://medium.com/p/276f84b9af4f) |
 | Thu, 22 Jan 2026 15:06:10 GMT | Web3 pentesting | Redaouzidan | [Read More](https://medium.com/p/29192e326f9e) |
-| Thu, 22 Jan 2026 14:49:32 GMT | SAST vs DAST for Web Applications: Theory and Practice | Nabil Mouzouna نبيل مزونة | [Read More](https://medium.com/p/78f7b68331a3) |
-| Thu, 22 Jan 2026 14:37:10 GMT | What Is Nessus? A Beginner-Friendly Guide With Linux Installation | PriOFF | [Read More](https://medium.com/p/53e4da28f374) |
-| Thu, 22 Jan 2026 14:36:59 GMT | 7 Fast-Growing Small Business Ideas Investors Are Watching in 2026 | Paul Meyer | [Read More](https://medium.com/p/b82371e45b0e) |
