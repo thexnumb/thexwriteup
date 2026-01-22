@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 Jan 2026 15:20:48 GMT | PYTHON İLE BRUTE FORCE TESPİTİ: Log Analizi ve Güvenlik Otomasyonu | dilan alpaltun | [Read More](https://medium.com/p/5a5da4bdea18) |
+| Thu, 22 Jan 2026 15:19:27 GMT | Zararlı Yazılım Trafik Analizi: “It’a TRAP! — Bölüm 2 | Ata Erdemir | [Read More](https://medium.com/p/09b4372b998b) |
+| Thu, 22 Jan 2026 15:17:31 GMT | Fix Windows Idle Spikes For Faster, Stable Performance | Geoffrey Wenger | [Read More](https://medium.com/p/6dadf1d9fd1e) |
+| Thu, 22 Jan 2026 15:08:11 GMT | Threat Hunting Case Study: Finance Data Exfiltration | c1Tz3n | [Read More](https://medium.com/p/276f84b9af4f) |
+| Thu, 22 Jan 2026 15:06:10 GMT | Web3 pentesting | Redaouzidan | [Read More](https://medium.com/p/29192e326f9e) |
+| Thu, 22 Jan 2026 14:49:32 GMT | SAST vs DAST for Web Applications: Theory and Practice | Nabil Mouzouna نبيل مزونة | [Read More](https://medium.com/p/78f7b68331a3) |
+| Thu, 22 Jan 2026 14:37:10 GMT | What Is Nessus? A Beginner-Friendly Guide With Linux Installation | PriOFF | [Read More](https://medium.com/p/53e4da28f374) |
+| Thu, 22 Jan 2026 14:36:59 GMT | 7 Fast-Growing Small Business Ideas Investors Are Watching in 2026 | Paul Meyer | [Read More](https://medium.com/p/b82371e45b0e) |
+| Thu, 22 Jan 2026 14:32:32 GMT | Lab Setup for Hacking and Penetration Testing: Overview and Required Software | Vignesh R | [Read More](https://medium.com/p/b39081c98ba5) |
+| Thu, 22 Jan 2026 14:32:22 GMT | The World at a Geopolitical Inflection Point: Conflict, Economics, and the Future of Order | Vivek Anand | [Read More](https://medium.com/p/466d06c48220) |
+| Thu, 22 Jan 2026 14:32:04 GMT | Hacking Back | Miles Fisher | [Read More](https://medium.com/p/e7ec20847bb1) |
+| Thu, 22 Jan 2026 14:23:11 GMT | Top 7 Cybersecurity Skills Every Student Should Learn in 2026 | Khansa | [Read More](https://medium.com/p/41ca8f3bf037) |
 | Thu, 22 Jan 2026 14:05:16 GMT | The Myth and Reality Behind “Dark Web Hit Lists | Tor BBB | [Read More](https://medium.com/p/027ec3c5916f) |
 | Thu, 22 Jan 2026 14:03:44 GMT | Why Romance Scam Victims Don’t Know They’re Being Scammed
 Most people believe romance scam victims… | Pause & Verify | [Read More](https://medium.com/p/e0877d789f62) |
@@ -102,15 +114,3 @@ Most people believe romance scam victims… | Pause & Verify | [Read More](https
 | Thu, 22 Jan 2026 09:52:38 GMT | When 337 Vulnerabilities Drop at Once, Silence Is the Real Risk | Prerna Shukla | [Read More](https://medium.com/p/3afd5a1c38c4) |
 | Thu, 22 Jan 2026 09:45:08 GMT | Host & Network Penetration Testing: System-Host Based Attacks CTF 2 (EJPT) | Terabaapbadplayer | [Read More](https://medium.com/p/451a49b25ed9) |
 | Thu, 22 Jan 2026 09:43:16 GMT | How One Small Misconfiguration Can Break an Entire Network | Abhinsubej | [Read More](https://medium.com/p/b502eea5cfa9) |
-| Thu, 22 Jan 2026 09:30:17 GMT | The Vault Illusion: Are We Really Securing Secrets, or Just Feeling Better? | Ranjith Vijayan | [Read More](https://medium.com/p/4651abbb91ec) |
-| Thu, 22 Jan 2026 09:29:31 GMT | I Was Sceptical About Brené Brown’s Dare to Lead. I Was Wrong. | H Douglass | [Read More](https://medium.com/p/91fd2c74601c) |
-| Thu, 22 Jan 2026 09:26:55 GMT | The Day MongoDB Started Bleeding Data | K. M. Shehan | [Read More](https://medium.com/p/f4fd41635630) |
-| Thu, 22 Jan 2026 09:25:39 GMT | From Packet Tracer to the Data Center: My First Real IP Phone Setup Experience | Joanorifha | [Read More](https://medium.com/p/687c7036f94c) |
-| Thu, 22 Jan 2026 09:23:48 GMT | Defense in Depth Strategy: A Practical, Layered Approach to Modern Cybersecurity | Frank salman | [Read More](https://medium.com/p/25c3226bf5d3) |
-| Thu, 22 Jan 2026 09:23:22 GMT | Why Did They Erase My iPhone’s Health Data? A Forensic Hypothesis of Organized Crime | Ryu360 | [Read More](https://medium.com/p/33c2f1be67f4) |
-| Thu, 22 Jan 2026 09:22:37 GMT | MCP Deep Dive (Part 3): Security, OAuth, and ChatGPT Integration | Alon Fliess | [Read More](https://medium.com/p/3b9c2fe7415c) |
-| Thu, 22 Jan 2026 09:21:24 GMT | SnapJotz com Reviews 2026: Honest Verdict & Real-User Buying Guide | Anika Avyaan | [Read More](https://medium.com/p/1f1b2be6b8ff) |
-| Thu, 22 Jan 2026 09:20:09 GMT | SIEM ve Log Yönetimi İçin Kurumsal Lab Ortamı Kurulumu: Firewall, DC ve Client Entegrasyonu | Resul Karaca | [Read More](https://medium.com/p/9105ba2aaaf9) |
-| Thu, 22 Jan 2026 09:19:19 GMT | Detecting the “Invisibles” in Cybersecurity How Quantum Computing Is Starting to Reveal Attacks… | aratan | [Read More](https://medium.com/p/e5eefb55f5f9) |
-| Thu, 22 Jan 2026 09:13:54 GMT | Need the Best AI Development Services in the USA? | Chhama | [Read More](https://medium.com/p/702ff1797aa8) |
-| Thu, 22 Jan 2026 09:12:40 GMT | Key Components of a Modern Casino Gaming Platform | Blokotech | [Read More](https://medium.com/p/33015fdbe396) |
