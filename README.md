@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 Jan 2026 04:49:59 GMT | Beyond the Alerts: Lessons Cybersecurity Didn’t Teach Me in Any Playbook | Paritosh | [Read More](https://medium.com/p/3d294293b109) |
+| Thu, 22 Jan 2026 04:39:46 GMT | Playbook vs. Runbook: The Difference That Saves Your SOC at 3AM | Denny Roger | [Read More](https://medium.com/p/361ccb569135) |
+| Thu, 22 Jan 2026 04:37:24 GMT | The 2026 Cybersecurity Survival Guide: Beyond the Hype, The AI Shift, and The Real Roadmap | TechMallu | [Read More](https://medium.com/p/99aca24a7c0d) |
+| Thu, 22 Jan 2026 04:37:02 GMT | SQL Injection: How It Works and How to Prevent It | Suman Panta | [Read More](https://medium.com/p/9344a6f75969) |
+| Thu, 22 Jan 2026 04:36:33 GMT | The Security Paradox: How Your Best Defenses Could Be Sabotaging Business Growth? | The Uncertified Scholar | [Read More](https://medium.com/p/fa741c2f67ee) |
+| Thu, 22 Jan 2026 04:32:05 GMT | JavaScript Security Basics That Actually Matter | Quellin | [Read More](https://medium.com/p/d74e628b99f6) |
+| Thu, 22 Jan 2026 04:32:03 GMT | Digital Autopsy: Decoding the DNA of a Windows Executable | Pratik Gurav | [Read More](https://medium.com/p/0731fb22fc63) |
+| Thu, 22 Jan 2026 04:25:48 GMT | Why Code Fixes Won’t Save You in 2026 | Safeguard Capital | [Read More](https://medium.com/p/d62e44a9353b) |
+| Thu, 22 Jan 2026 04:25:43 GMT | Why IT Professionals Must Constantly Upskill | Christie | [Read More](https://medium.com/p/aee3af9312f8) |
+| Thu, 22 Jan 2026 04:23:59 GMT | Linux Users & Groups: Why Your Jenkins Pipeline is Actually Failing | Ravitejachalla | [Read More](https://medium.com/p/040320d4c17c) |
+| Thu, 22 Jan 2026 04:11:14 GMT | Network Security Services in 2026: Protecting the Digital Backbone | Devarshi Acharya | [Read More](https://medium.com/p/0d97e7648cd6) |
+| Thu, 22 Jan 2026 04:07:05 GMT | What is Cybersecurity Management? — Securiti | Privacy Research Team, Securiti | [Read More](https://medium.com/p/b81467ba7af5) |
+| Thu, 22 Jan 2026 03:57:43 GMT | AI and Security: What Developers Must Understand Before Using AI | Sohit Mishra | [Read More](https://medium.com/p/2cd5a9f81e51) |
 | Thu, 22 Jan 2026 03:44:33 GMT | Equlix Review: Features, Platform Overview, and How It Works | Besti Trader | [Read More](https://medium.com/p/7ed33f89b444) |
 | Thu, 22 Jan 2026 03:41:31 GMT | The Security Model Behind a Simple Purchase Clark Wilson in Real Life | Surbhimeena | [Read More](https://medium.com/p/33975030523a) |
 | Thu, 22 Jan 2026 03:32:00 GMT | 7 Alternatives to JWT for Secure Authentication | Arunangshu Das | [Read More](https://medium.com/p/845de8288fb5) |
@@ -100,16 +113,3 @@ Okta Partner Experience Coffeecase writeup | Omar Mohamed Hassan Shehatta | [Rea
 | Wed, 21 Jan 2026 18:32:38 GMT | Predictive AI: Power, Risk, and the Human Factor | Len Noe | [Read More](https://medium.com/p/d2343b18314e) |
 | Wed, 21 Jan 2026 18:32:24 GMT | WP File Upload Plugin — Front End Upload & Download Manager for WordPress! | Jane Brian | [Read More](https://medium.com/p/2f9ce6865795) |
 | Wed, 21 Jan 2026 18:26:22 GMT | AutoBof — Building an AI-Powered Buffer Overflow Detection Tool | Muhammad Usman Ahmad | [Read More](https://medium.com/p/1950267ce8d3) |
-| Wed, 21 Jan 2026 18:22:03 GMT | Security vs Executive Protection | Ricardo Figueroa | [Read More](https://medium.com/p/e2a52ec918ff) |
-| Wed, 21 Jan 2026 18:07:42 GMT | You Don’t Need to Be Rich to Be a Cybercrime Target | The Techie Indian | [Read More](https://medium.com/p/34cd96bf6a96) |
-| Wed, 21 Jan 2026 18:00:36 GMT | Cap Machine Write-up | JustIce | [Read More](https://medium.com/p/cbf61926afda) |
-| Wed, 21 Jan 2026 17:53:21 GMT | 2 Officers. | Heesham Naji | [Read More](https://medium.com/p/c60571e80ca5) |
-| Wed, 21 Jan 2026 17:47:38 GMT | Job Scam Bots Are Targeting “Open to Work” Signals. Here’s How It Works | Aubrey | [Read More](https://medium.com/p/f838fafa582b) |
-| Wed, 21 Jan 2026 17:39:49 GMT | OverTheWire Natas Challenges | W4lk3r | [Read More](https://medium.com/p/560e51835036) |
-| Wed, 21 Jan 2026 17:37:50 GMT | Voice API Compliance and Security — What Regulated Businesses Must Ensure | FreJun | [Read More](https://medium.com/p/9bb5c8e3fe0f) |
-| Wed, 21 Jan 2026 17:35:12 GMT | Complete Guide To Security Camera Installation | Alex Bryn | [Read More](https://medium.com/p/37791b48baed) |
-| Wed, 21 Jan 2026 17:30:27 GMT | Deconstructing Detection Logic in Windows Environments-Part 1 | Manish [pikachu] | [Read More](https://medium.com/p/d3a7db3bdd1d) |
-| Wed, 21 Jan 2026 17:27:06 GMT | DAY-0 (Rust Programming) | vulnhunter | [Read More](https://medium.com/p/20a6ddd00e73) |
-| Wed, 21 Jan 2026 17:26:25 GMT | Applying Incident Response Principles to Blockchain Security | Harsh Tandel | [Read More](https://medium.com/p/155d4b2aa107) |
-| Wed, 21 Jan 2026 17:26:19 GMT | That Job Offer Isn’t Real | Casey Elizabeth McDonald | [Read More](https://medium.com/p/fd00258c85b9) |
-| Wed, 21 Jan 2026 17:26:06 GMT | RANSOMWARE IN 2026: EVOLVING THREATS, SOARING COSTS, AND THE NEW DEFENSE PLAYBOOK | Raphaam Digital (Cyber Security Updates) | [Read More](https://medium.com/p/091495169498) |
