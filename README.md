@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 Jan 2026 09:30:17 GMT | The Vault Illusion: Are We Really Securing Secrets, or Just Feeling Better? | Ranjith Vijayan | [Read More](https://medium.com/p/4651abbb91ec) |
+| Thu, 22 Jan 2026 09:29:31 GMT | I Was Sceptical About Brené Brown’s Dare to Lead. I Was Wrong. | H Douglass | [Read More](https://medium.com/p/91fd2c74601c) |
+| Thu, 22 Jan 2026 09:26:55 GMT | The Day MongoDB Started Bleeding Data | K. M. Shehan | [Read More](https://medium.com/p/f4fd41635630) |
+| Thu, 22 Jan 2026 09:25:39 GMT | From Packet Tracer to the Data Center: My First Real IP Phone Setup Experience | Joanorifha | [Read More](https://medium.com/p/687c7036f94c) |
+| Thu, 22 Jan 2026 09:23:48 GMT | Defense in Depth Strategy: A Practical, Layered Approach to Modern Cybersecurity | Frank salman | [Read More](https://medium.com/p/25c3226bf5d3) |
+| Thu, 22 Jan 2026 09:23:22 GMT | Why Did They Erase My iPhone’s Health Data? A Forensic Hypothesis of Organized Crime | Ryu360 | [Read More](https://medium.com/p/33c2f1be67f4) |
+| Thu, 22 Jan 2026 09:22:37 GMT | MCP Deep Dive (Part 3): Security, OAuth, and ChatGPT Integration | Alon Fliess | [Read More](https://medium.com/p/3b9c2fe7415c) |
+| Thu, 22 Jan 2026 09:21:24 GMT | SnapJotz com Reviews 2026: Honest Verdict & Real-User Buying Guide | Anika Avyaan | [Read More](https://medium.com/p/1f1b2be6b8ff) |
+| Thu, 22 Jan 2026 09:20:09 GMT | SIEM ve Log Yönetimi İçin Kurumsal Lab Ortamı Kurulumu: Firewall, DC ve Client Entegrasyonu | Resul Karaca | [Read More](https://medium.com/p/9105ba2aaaf9) |
+| Thu, 22 Jan 2026 09:19:19 GMT | Detecting the “Invisibles” in Cybersecurity How Quantum Computing Is Starting to Reveal Attacks… | aratan | [Read More](https://medium.com/p/e5eefb55f5f9) |
+| Thu, 22 Jan 2026 09:13:54 GMT | Need the Best AI Development Services in the USA? | Chhama | [Read More](https://medium.com/p/702ff1797aa8) |
+| Thu, 22 Jan 2026 09:12:40 GMT | Key Components of a Modern Casino Gaming Platform | Blokotech | [Read More](https://medium.com/p/33015fdbe396) |
+| Thu, 22 Jan 2026 09:08:23 GMT | The Ghost in the Shell: How Vue.js Component Reuse Can Cost You Thousands | Thomas Ender | [Read More](https://medium.com/p/25dfa49bf858) |
+| Thu, 22 Jan 2026 09:07:19 GMT | One Mistake in Your Smart Contract Could Cost Millions. Red Teams Know Where to Look | Redfox Security | [Read More](https://medium.com/p/552f0831624c) |
+| Thu, 22 Jan 2026 09:03:10 GMT | Who Else Wants to Stop Creating Duplicate Reports for Every User? | Mikhail Mikushin | [Read More](https://medium.com/p/aad0523889f2) |
+| Thu, 22 Jan 2026 09:03:09 GMT | Session Cookies in Stealer Logs: Why MFA Won’t Save You | Alexandre Vandamme | [Read More](https://medium.com/p/f7ad90d46e50) |
+| Thu, 22 Jan 2026 09:01:22 GMT | Expert Security Services in Georgia You Can Trust | Matrix Security Guard Services LLC | [Read More](https://medium.com/p/5fa18c3d433d) |
+| Thu, 22 Jan 2026 09:00:56 GMT | Reasons Spring Boot 3 Changed WebSecurityConfigurerAdapter — and How to Migrate Gracefully | Anh Trần Tuấn | [Read More](https://medium.com/p/397835bebe14) |
+| Thu, 22 Jan 2026 08:57:11 GMT | AI Security Digest — Week 3, 2026 | Tal Eliyahu | [Read More](https://medium.com/p/c3093ce226e4) |
+| Thu, 22 Jan 2026 08:52:06 GMT | 5 Books That Every Aspiring Cybersecurity Student Should Read in 2025 | Aj | [Read More](https://medium.com/p/2921b2859c4d) |
+| Thu, 22 Jan 2026 08:41:32 GMT | The Quiet Upgrade That Turns Web Projects into Monthly Revenue | Janet Watson | [Read More](https://medium.com/p/66ffaf7edc0b) |
+| Thu, 22 Jan 2026 08:39:46 GMT | Short-Lived Credentials on AWS: Eliminating Long-Term Access Keys | Davebhargavi | [Read More](https://medium.com/p/84d01b40995c) |
+| Thu, 22 Jan 2026 08:30:37 GMT | PVS-Studio, Java and OWASP Top Ten 2021 | Unicorn Developer | [Read More](https://medium.com/p/0f3f6f8df072) |
 | Thu, 22 Jan 2026 08:21:05 GMT | ประจำวันพฤหัสบดีที่ 22 มกราคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/41fa9f011208) |
 | Thu, 22 Jan 2026 08:20:50 GMT | 7 Urgent Steps: CVE-2026–20805 Windows DWM (Actively Exploited) | Pentest_Testing_Corp | [Read More](https://medium.com/p/0e9f83b2dd56) |
 | Thu, 22 Jan 2026 08:20:36 GMT | 8ksec FactsDroid MITM Challenge | Leo | [Read More](https://medium.com/p/4d971fe6bb1d) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 Jan 2026 02:13:31 GMT | AI-Assisted PHP Security Testing with Keygraph Shannon | Nishi Tiwari | [Read More](https://medium.com/p/ba9ceec8291e) |
 | Thu, 22 Jan 2026 02:12:50 GMT | AWS S3: 10 Survival Settings Before Hackers Find Your Data | Pois0n84 | [Read More](https://medium.com/p/5845fec20376) |
 | Thu, 22 Jan 2026 02:03:44 GMT | Master HACKING With ChatGPT in 2026! (Full Guide) | Shahzaib | [Read More](https://medium.com/p/e1d77fbffe92) |
-| Thu, 22 Jan 2026 01:33:03 GMT | When Traveling? Here’s When It Actually Matters | Navigator & Co. | [Read More](https://medium.com/p/c332572c61d6) |
-| Thu, 22 Jan 2026 01:32:03 GMT | Multi-Tenant n8n Without the Security Hangover | Hash Block | [Read More](https://medium.com/p/dd861fab05f8) |
-| Thu, 22 Jan 2026 01:21:59 GMT | Will Cybersecurity Be Replaced by AI? | Marcus Chen | [Read More](https://medium.com/p/c2f97cbe3c3c) |
-| Thu, 22 Jan 2026 01:14:56 GMT | AWS Security Agent: Context aware agentic application security from design to deployment | Eray ALTILI | [Read More](https://medium.com/p/45e0efe93d7c) |
-| Thu, 22 Jan 2026 00:58:46 GMT | Cybersecurity Laws and Regulations in Azerbaijan: An Overview | Rehimovmahmud | [Read More](https://medium.com/p/714eb5292cbd) |
-| Thu, 22 Jan 2026 00:56:22 GMT | Passwordless access in minutes: a practical integration demo | Anton Minin Baranovskii | [Read More](https://medium.com/p/10da02e482d7) |
-| Thu, 22 Jan 2026 00:53:42 GMT | Decentralized Generation and CHP: | Andrii Stetsiuk | [Read More](https://medium.com/p/9d5a023aebe2) |
-| Thu, 22 Jan 2026 00:53:10 GMT | The New Face of Cybersecurity in 2026: What You Really Need to Know | Abdelaziz moustakim | [Read More](https://medium.com/p/38388e3ca947) |
-| Thu, 22 Jan 2026 00:47:13 GMT | Why early visibility matters - and when it does not | Anton Minin Baranovskii | [Read More](https://medium.com/p/966fe351673a) |
-| Thu, 22 Jan 2026 00:22:13 GMT | 數位游牧的隱形殺手：從 LNK 惡意檔案到身分竊盜，詳解針對台灣接案族的「詢價詐騙」殺戮鏈白皮書 | p1x06u9 | [Read More](https://medium.com/p/da35371334d7) |
-| Thu, 22 Jan 2026 00:19:57 GMT | Criminals Can Now Call You Using Your Bank’s Actual Number And Steal Everything | Hector Garcia | [Read More](https://medium.com/p/e4b5a502ed9b) |
-| Thu, 22 Jan 2026 00:01:14 GMT | Exposure of laravel.log allowing admin account compromise | ATTER Koffi Kallern | [Read More](https://medium.com/p/c402368c11cd) |
-| Wed, 21 Jan 2026 23:45:32 GMT | The 3 Quiet Failures… | Nik Charlson | [Read More](https://medium.com/p/667b3a47a09b) |
-| Wed, 21 Jan 2026 23:44:04 GMT | Modern DLP for AI Work: Inside the Enterprise Browser | Mammoth Cyber | [Read More](https://medium.com/p/1e27d5d17434) |
-| Wed, 21 Jan 2026 23:39:23 GMT | The 6 Fundamental Steps to a Penetration Test | Eric Smith | [Read More](https://medium.com/p/590c11dcc657) |
-| Wed, 21 Jan 2026 23:32:33 GMT | Scrambled: Chaining Silver Tickets & Token Impersonation for Total Domain Control ️ | Iron-Breach-editor | [Read More](https://medium.com/p/1a9e6c255a3d) |
-| Wed, 21 Jan 2026 23:23:29 GMT | The Face of Emotional Distance with a Foreign Partner | Marta Levchenko | [Read More](https://medium.com/p/13022d7644ce) |
-| Wed, 21 Jan 2026 23:20:15 GMT | How One JSON Payload Hijacked the Modern Web: React2Shell (Full Report) | Saad Khalid | [Read More](https://medium.com/p/1ca5c46ae34b) |
-| Wed, 21 Jan 2026 22:53:07 GMT | Modern IT Leadership Isn’t About Innovation. It’s About Reducing Anxiety. | Anusha | [Read More](https://medium.com/p/30446051e123) |
-| Wed, 21 Jan 2026 22:42:00 GMT | Behind the Build: What It Really Means to Create for Safety | Cyber Dive | [Read More](https://medium.com/p/8c45fb617817) |
-| Wed, 21 Jan 2026 22:22:10 GMT | The Most Dangerous Cyber Risk You’re Not Monitoring: Your Forgotten DNS Domains | Dale Jenkins | [Read More](https://medium.com/p/ace40c762046) |
-| Wed, 21 Jan 2026 22:22:07 GMT | Guardians of the code: Unlocking secure authentication in an AI-powered world | DiUS | [Read More](https://medium.com/p/6b2de51a444d) |
-| Wed, 21 Jan 2026 22:18:46 GMT | Starting a Online B2B Services Company in 2026 | Connor Cady | [Read More](https://medium.com/p/1f29694f9457) |
