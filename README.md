@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 Jan 2026 20:28:46 GMT | Can Good Security Policies turn Bad? | Ben   Olufemi akintounde | [Read More](https://medium.com/p/e9726164df6a) |
+| Thu, 22 Jan 2026 20:15:26 GMT | From Phishing to Blackout: Inside the SCADABreach Ransomware Simulation | artur | [Read More](https://medium.com/p/746373a4822b) |
+| Thu, 22 Jan 2026 20:10:53 GMT | OSINT Toolkit: Hackers’ Secret Weapon Exposed! | cybrNK | [Read More](https://medium.com/p/b465f3c01cbe) |
+| Thu, 22 Jan 2026 20:10:03 GMT | Is Bitunix Safe? A Real Look at Security, Trust and What Matters Today. | Daisypto | [Read More](https://medium.com/p/96a3d0d45d54) |
+| Thu, 22 Jan 2026 20:06:18 GMT | De open plek | l´observatrice | [Read More](https://medium.com/p/73d96662fac7) |
+| Thu, 22 Jan 2026 20:01:39 GMT | Building My First Home Server: A Journey Into Hardware, Networking, and Security | My Journey In IT | [Read More](https://medium.com/p/e982974c258e) |
+| Thu, 22 Jan 2026 19:36:53 GMT | Why “latest apk” can break on a two-day-old image digest | Christian Frank Johannsen | [Read More](https://medium.com/p/d6d98e552e3b) |
 | Thu, 22 Jan 2026 19:34:02 GMT | Installing Kali Linux Without Errors | Andrey.Web | [Read More](https://medium.com/p/9fbe60c87c83) |
 | Thu, 22 Jan 2026 19:30:28 GMT | The AI CRM Tax: Why Most Platforms Are Charging You for “Duct-Taped” Intelligence | Michael Fraser | [Read More](https://medium.com/p/6e9c1995268c) |
 | Thu, 22 Jan 2026 19:28:42 GMT | CompTIA® SecurityX® CAS-005 Certification Guide (2nd Edition): A Practical Companion for Senior… | Minisky | [Read More](https://medium.com/p/5dbea2310736) |
@@ -106,11 +113,3 @@ Most people believe romance scam victims… | Pause & Verify | [Read More](https
 | Thu, 22 Jan 2026 13:22:36 GMT | Why Cybersecurity Is No Longer Optional for SMEs in the OECS | Adam Frost | [Read More](https://medium.com/p/149d521a8c4f) |
 | Thu, 22 Jan 2026 13:18:48 GMT | IT Investment Will Rebalance Toward AI-Powered Value - Ascendion | Ascendion | [Read More](https://medium.com/p/2b17484d6b93) |
 | Thu, 22 Jan 2026 13:13:17 GMT | Total Security Solutions: The Future of Safety with Advanced Electronic Security Solutions | Ciss India | [Read More](https://medium.com/p/c93df6489e41) |
-| Thu, 22 Jan 2026 13:13:04 GMT | Why Security Is Still Treated as a Feature, Not a Default | SkillBrew.AI | [Read More](https://medium.com/p/2e2735548920) |
-| Thu, 22 Jan 2026 13:11:11 GMT | Rethinking SQL Injection | Nitin yadav | [Read More](https://medium.com/p/7c9fd3f8f30d) |
-| Thu, 22 Jan 2026 13:07:01 GMT | Boogeyman 2. TryHackMe Walkthrough. | Lintu Oommen | [Read More](https://medium.com/p/1bf11aae25d9) |
-| Thu, 22 Jan 2026 13:07:01 GMT | Boogeyman 3. TryHackMe Walkthrough. | Lintu Oommen | [Read More](https://medium.com/p/552b8eeb4a09) |
-| Thu, 22 Jan 2026 13:06:18 GMT | Tryhackme Vulnerability Capstone CTF Write-Up | Kandemirryigit | [Read More](https://medium.com/p/27d0d935f3bd) |
-| Thu, 22 Jan 2026 13:02:39 GMT | What Is Ethical Hacking? Complete Guide to Ethical Hackers | Vignesh Selvaraj | [Read More](https://medium.com/p/0f64aa53112d) |
-| Thu, 22 Jan 2026 12:54:39 GMT | For Sale: AIDYOR – The AI-Driven Crypto Security Platform (Full Project & Domain)
-​In an era where… | David Belligoi | [Read More](https://medium.com/p/6dbfc7664f93) |
