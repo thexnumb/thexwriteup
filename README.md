@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 Jan 2026 07:34:39 GMT | Why Online Harm Is a Human Security Problem, Not a Content Problem | Numburi | [Read More](https://medium.com/p/5580b765aed1) |
+| Thu, 22 Jan 2026 07:32:01 GMT | 7 Crypto Scams Beginners Still Fall For (Avoid These in 2026) | Emmanuel Obumneke Njoku | [Read More](https://medium.com/p/feabf133e47c) |
+| Thu, 22 Jan 2026 07:32:01 GMT | Your Node Dependencies Are a Security Perimeter Now | Quellin | [Read More](https://medium.com/p/de13fa18c478) |
+| Thu, 22 Jan 2026 07:30:41 GMT | Who Does Your AI Work For? | Reuven Gorsht | [Read More](https://medium.com/p/ae7f86998751) |
+| Thu, 22 Jan 2026 07:29:12 GMT | Construction Site Security: Safeguarding Your Projects | Travel time | [Read More](https://medium.com/p/366b97b76267) |
+| Thu, 22 Jan 2026 07:28:37 GMT | Cisco’s Actively Exploited Zero-Day (CVE-2026–20045) Hits Unified CM, Unity Connection, and Webex… | Germano Costi | [Read More](https://medium.com/p/00f2ba10cac6) |
+| Thu, 22 Jan 2026 07:21:13 GMT | —  … | Justice Atulaegwu | [Read More](https://medium.com/p/cac2e52e1ef4) |
 | Thu, 22 Jan 2026 07:17:16 GMT | Model Inversion Attacks: Recovering Training Data from an LLM | Melike Ateş | [Read More](https://medium.com/p/fe9e18dc842f) |
 | Thu, 22 Jan 2026 07:08:43 GMT | Installing and Configuring Security Onion in VirtualBox: A Practical Beginner’s Guide | ɧrιsнi rajeeѵ | [Read More](https://medium.com/p/544b308b585d) |
 | Thu, 22 Jan 2026 07:06:43 GMT | Edge-Deployed Machine Learning for ICS Cybersecurity: Detecting Anomalies on Resource-Constrained… | Nathanael J Manier | [Read More](https://medium.com/p/c623579011e5) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 Jan 2026 21:35:00 GMT | #LifeAmongstBugs01: The “I Know You’re There” Ghost in the Machine | newklei | [Read More](https://medium.com/p/2a52acfc9ebe) |
 | Wed, 21 Jan 2026 21:34:04 GMT | Lame Machine Write-up | JustIce | [Read More](https://medium.com/p/790a4f82d0df) |
 | Wed, 21 Jan 2026 21:31:09 GMT | Why Strong Governance Fuels Meaningful Innovation | Aku | [Read More](https://medium.com/p/438620bbf6ff) |
-| Wed, 21 Jan 2026 21:26:05 GMT | Unauthorized File Deletion via Broken Access Control | Omer Mohsen | [Read More](https://medium.com/p/63c287abcd29) |
-| Wed, 21 Jan 2026 21:19:11 GMT | Security Hardening of your Dev Containers with Docker Hardened Images (dhi.io) | Mathieu Benoit | [Read More](https://medium.com/p/2bfb5d299b7f) |
-| Wed, 21 Jan 2026 21:11:02 GMT | LLMs Under Siege: The Red Team Reality Check of 2026 | @EddieOz | [Read More](https://medium.com/p/05202d032995) |
-| Wed, 21 Jan 2026 21:07:41 GMT | Bypassing Frida: Advanced Frida Detection Bypass — Part 2 | Haxymad | [Read More](https://medium.com/p/e3466a141a4c) |
-| Wed, 21 Jan 2026 21:05:30 GMT | The Silence That Built an Intelligence System | Ben Moataz | [Read More](https://medium.com/p/704b370e854f) |
-| Wed, 21 Jan 2026 21:03:36 GMT | Taylor Swift Is Just Too Much for You | Ashley Collins | [Read More](https://medium.com/p/f27509dbfaf3) |
-| Wed, 21 Jan 2026 21:01:08 GMT | Tanuki pt 2 Writeup (BugForge) | 7s26Simon | [Read More](https://medium.com/p/9fb93d2474e4) |
