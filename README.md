@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 Jan 2026 18:29:07 GMT | Even When You Ignore It, Security Is Already in You | Safewithyvonne | [Read More](https://medium.com/p/4e24f257d452) |
+| Thu, 22 Jan 2026 18:25:33 GMT | How I Found My First CVE (CVE-2026–21641) | 0xJad | [Read More](https://medium.com/p/7f29af74fc84) |
+| Thu, 22 Jan 2026 18:19:54 GMT | TryHackMe Advent of Cyber 2025: Your Complete Guide to the 24-Day Learning Marathon - Answered-… | Sandeep Shrivastava | [Read More](https://medium.com/p/3911881653de) |
+| Thu, 22 Jan 2026 18:16:09 GMT | Prompt Injection: The SQL Injection of the AI Era | Mohit_Yadav | [Read More](https://medium.com/p/4aec69f10e05) |
+| Thu, 22 Jan 2026 18:13:41 GMT | How Secure Is Fyltr? An Honest Look Under the Hood | Fyltr | [Read More](https://medium.com/p/fe92ad1d8e24) |
+| Thu, 22 Jan 2026 18:03:03 GMT | How Attackers Exploit Cloud Misconfigurations | Vasantheeswaran | [Read More](https://medium.com/p/adf4212543d2) |
+| Thu, 22 Jan 2026 18:01:55 GMT | Oracle’s January 2026 Patch Flood | Andis Paudel | [Read More](https://medium.com/p/64232910b77b) |
+| Thu, 22 Jan 2026 18:00:27 GMT | Deconstructing Detection Logic in Windows Environments-Part 3 | Manish [pikachu] | [Read More](https://medium.com/p/3121bfe33705) |
+| Thu, 22 Jan 2026 17:59:58 GMT | I Let AI Scan the Internet for Bugs - It Ended Up Finding Real Vulnerabilities | Fazal PS | [Read More](https://medium.com/p/4709ba5f35e0) |
+| Thu, 22 Jan 2026 17:58:27 GMT | Your Smartphone Is Spying on You More Than You Think — and You Agreed to It | Nazrul Islam Rana | [Read More](https://medium.com/p/0fe1356ac8d5) |
+| Thu, 22 Jan 2026 17:57:48 GMT | Analyzing RDP Attack Behavior Using Honeypot Data | berke bodur | [Read More](https://medium.com/p/5451b49b6621) |
+| Thu, 22 Jan 2026 17:56:28 GMT | Debunking Disaster Recovery Myths for Mainframe Users | PSR Incorporated | [Read More](https://medium.com/p/256393a3b82d) |
+| Thu, 22 Jan 2026 17:55:39 GMT | Parasitic Synthetic Intelligence (PSI) — A New Parasitic Class of Artificial Intelligence | David Centineo | [Read More](https://medium.com/p/b379f5c1d63c) |
+| Thu, 22 Jan 2026 17:43:11 GMT | Bug Bounty Isn’t About Speed — It’s About Seeing What Others Ignore | Iski | [Read More](https://medium.com/p/1b99396cdd6c) |
+| Thu, 22 Jan 2026 17:41:52 GMT | Web2 Threat Models Don’t Survive Web3 | Veretin Cybersecurity | [Read More](https://medium.com/p/015a9281c32c) |
+| Thu, 22 Jan 2026 17:35:20 GMT | Github Copilot Says-Its SQL Injection and Lead to Security Risk | Umesh Nagar | [Read More](https://medium.com/p/80160703e4a5) |
+| Thu, 22 Jan 2026 17:32:36 GMT | Zero Trust Security: A Fundamental Mindset Shift | Volkan | [Read More](https://medium.com/p/5b90707ca356) |
+| Thu, 22 Jan 2026 17:32:11 GMT | Why Being Wrong in Public Changes Everything | Vijay Kumar Gupta | [Read More](https://medium.com/p/859cfdccf921) |
+| Thu, 22 Jan 2026 17:29:35 GMT | Unpacking Microsoft Defender for Office 365: Week 2, Day 6 SOC Triage—Defender for Office… | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/11ff5140170e) |
+| Thu, 22 Jan 2026 17:23:22 GMT | What We Try to Hide Is Usually What Shows First | Writing in the shivering Moonlight | [Read More](https://medium.com/p/c5d7afc7044e) |
 | Thu, 22 Jan 2026 17:21:02 GMT | Why FMCSA’s Broken Data Is a Gift to Freight Fraudsters | Heesham Naji | [Read More](https://medium.com/p/43a08ebaf67e) |
 | Thu, 22 Jan 2026 17:20:14 GMT | From Docker Hub to Chainguard: A Vulnerability Reduction Experiment | Ivan Karpenko | [Read More](https://medium.com/p/29d5e04c8029) |
 | Thu, 22 Jan 2026 17:15:54 GMT | FULL ACCOUNT WILL DIE | Omar Mahmoud | [Read More](https://medium.com/p/ce9958bccb8b) |
@@ -38,6 +58,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 Jan 2026 15:59:12 GMT | Complete Guide to Home Security Camera Installation | Alex Bryn | [Read More](https://medium.com/p/0487f07f8b42) |
 | Thu, 22 Jan 2026 15:58:45 GMT | How to avoid loosing money on 97% of your enterprise data? | Piotr Sieminski | [Read More](https://medium.com/p/d3e279beba54) |
 | Thu, 22 Jan 2026 15:47:03 GMT | No malware required: device-code phishing + Teams as the intrusion surface | Wes Young | [Read More](https://medium.com/p/731bdd182dff) |
+| Thu, 22 Jan 2026 15:43:52 GMT | Anatomía de un centinela — código, lógica y despliegue automatizado(2/3) | Yancel Salinas | [Read More](https://medium.com/p/bf70c040c785) |
 | Thu, 22 Jan 2026 15:41:40 GMT | From Meeting Participant to Network Administrator: Dissecting CVE-2026–22844 | Shreyans Bhatt | [Read More](https://medium.com/p/8a8f38239741) |
 | Thu, 22 Jan 2026 15:20:48 GMT | PYTHON İLE BRUTE FORCE TESPİTİ: Log Analizi ve Güvenlik Otomasyonu | dilan alpaltun | [Read More](https://medium.com/p/5a5da4bdea18) |
 | Thu, 22 Jan 2026 15:19:27 GMT | Zararlı Yazılım Trafik Analizi: “It’a TRAP! — Bölüm 2 | Ata Erdemir | [Read More](https://medium.com/p/09b4372b998b) |
@@ -93,24 +114,3 @@ Most people believe romance scam victims… | Pause & Verify | [Read More](https
 | Thu, 22 Jan 2026 12:09:40 GMT | Still Not a Cyber Pro? Learn These 10 Skills in 2026 | Testleaf | [Read More](https://medium.com/p/22110acc795e) |
 | Thu, 22 Jan 2026 12:09:15 GMT | Markets, Allies, and Aid: The Quiet Geometry of American Decline | Alana Marsili | [Read More](https://medium.com/p/f96ff64a3dd6) |
 | Thu, 22 Jan 2026 12:02:19 GMT | Passing the OSEP exam using Mythic C2 | r4ulcl | [Read More](https://medium.com/p/f54d30032ba8) |
-| Thu, 22 Jan 2026 12:02:16 GMT | Writeup for picoCTF challenge “logon” | Walter Moar | [Read More](https://medium.com/p/a8f985624fcc) |
-| Thu, 22 Jan 2026 12:00:11 GMT | When Competence Isn’t Enough: A Psychological Reflection on Rejection | Aleksandar Vlajković | [Read More](https://medium.com/p/74ccdd1ce6cf) |
-| Thu, 22 Jan 2026 11:55:55 GMT | How I Started Learning Cybersecurity (and What My Internship Taught Me) | Vidya Penumarthi | [Read More](https://medium.com/p/80e183ce568f) |
-| Thu, 22 Jan 2026 11:38:54 GMT | How One Person Built a Micro-SaaS in 48 Hours (No Team, Just Coffee and Determination) | 0xswaeth | [Read More](https://medium.com/p/4dae88dbac62) |
-| Thu, 22 Jan 2026 11:34:28 GMT | When “Managed” Finally Means Less Stress and Better Performance? | Ann Taylor | [Read More](https://medium.com/p/2a71a7431f1f) |
-| Thu, 22 Jan 2026 11:33:00 GMT | Clock Skew - Time Can Change Anything | Jerry Shah (Jerry) | [Read More](https://medium.com/p/0bb84e9635de) |
-| Thu, 22 Jan 2026 11:33:00 GMT | Null Pointers: The 1965 Decision Still Crashing Your Code | Can Artuc | [Read More](https://medium.com/p/79f05f7b4b49) |
-| Thu, 22 Jan 2026 11:30:49 GMT | The Impossibility of EU Independence in the Data Center Sector | VibeCoders Club | [Read More](https://medium.com/p/bc73a5a347b4) |
-| Thu, 22 Jan 2026 11:28:21 GMT | Cybersecurity Trends 2026: What Changed, What Broke, and What Leaders Must Do Next | UVATION | [Read More](https://medium.com/p/48a0a9684ecb) |
-| Thu, 22 Jan 2026 11:23:54 GMT | Smart IT Support Solutions for Chatswood Businesses | Any network | [Read More](https://medium.com/p/cd6e618d9519) |
-| Thu, 22 Jan 2026 11:20:08 GMT | What Learning API Security Taught Me About Building Systems for the Real World | Madalitso Cheyo | [Read More](https://medium.com/p/5590ad56f8b8) |
-| Thu, 22 Jan 2026 11:18:43 GMT | OverTheWire Natas Level 4 — Referer Header Bypass Çözümü | Alperen Mursallı | [Read More](https://medium.com/p/13d654faf0b3) |
-| Thu, 22 Jan 2026 11:16:02 GMT | Hacking 3 cars in 10 seconds | T-Jay Bautista | [Read More](https://medium.com/p/278fceddf81a) |
-| Thu, 22 Jan 2026 11:08:11 GMT | VAPT for Hospital Management Systems and Health Apps | Microscan Communications | [Read More](https://medium.com/p/c45124a8b9db) |
-| Thu, 22 Jan 2026 11:06:48 GMT | Broker Blacklist Exposed: The Truth Behind Finomic, Roboo-Broker, and Accountspace. | Liam Carter | [Read More](https://medium.com/p/052292ffdd97) |
-| Thu, 22 Jan 2026 11:04:12 GMT | Where Performance Meets Practical Budgets: A Smarter Hosting Choice? | Andy | [Read More](https://medium.com/p/21a72c6bedec) |
-| Thu, 22 Jan 2026 11:03:04 GMT | ANY.RUN Sandbox & MISP Integration: Confirm Alerts Faster, Stop Incidents Early | ANY.RUN | [Read More](https://medium.com/p/80f735152789) |
-| Thu, 22 Jan 2026 10:56:57 GMT | Need the Best AI Development Services in the USA? | Aayushi Levelstech | [Read More](https://medium.com/p/108120cfb40f) |
-| Thu, 22 Jan 2026 10:52:27 GMT | My Thoughts on LINUXENIC CORP : Indonesia First LMS for Cybersecurity | hihipro | [Read More](https://medium.com/p/33464f0d189f) |
-| Thu, 22 Jan 2026 10:45:57 GMT | Quantum Computing + Explainability: A Crisis We’re Not Ready For | Shivansh Arora | [Read More](https://medium.com/p/cb8110d818c5) |
-| Thu, 22 Jan 2026 10:44:01 GMT | if you aren’t paying for the product, you are the product. | Your's Nightmare | [Read More](https://medium.com/p/a64f8163d228) |
