@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 Jan 2026 08:21:05 GMT | ประจำวันพฤหัสบดีที่ 22 มกราคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/41fa9f011208) |
+| Thu, 22 Jan 2026 08:20:50 GMT | 7 Urgent Steps: CVE-2026–20805 Windows DWM (Actively Exploited) | Pentest_Testing_Corp | [Read More](https://medium.com/p/0e9f83b2dd56) |
+| Thu, 22 Jan 2026 08:20:36 GMT | 8ksec FactsDroid MITM Challenge | Leo | [Read More](https://medium.com/p/4d971fe6bb1d) |
+| Thu, 22 Jan 2026 08:16:41 GMT | Understanding Payment Method Bypass Vulnerabilities - Business logic - | M o $ t a | [Read More](https://medium.com/p/be6debffa52e) |
+| Thu, 22 Jan 2026 08:13:25 GMT | How Most Attacks Actually Start (And Why Antivirus Won’t Save You) | Sam Writes Security | [Read More](https://medium.com/p/5a4ad437d5ba) |
+| Thu, 22 Jan 2026 08:07:06 GMT | Lesson 2: How Authentication Works Passwords, Hashing, Sessions, and Tokens | Cyberspace Bulletin | [Read More](https://medium.com/p/2b0a43bc0af9) |
+| Thu, 22 Jan 2026 08:04:32 GMT | Securing Connected Industrial Systems in an Era of Mandatory Cyber Resilience | ACL Digital | [Read More](https://medium.com/p/2193a1839c5a) |
+| Thu, 22 Jan 2026 07:43:42 GMT | International Relations Series #1 Power and Restraint: Rethinking Hegemony, Order, and Real… | bobosjourney1 | [Read More](https://medium.com/p/99bc821a4a7a) |
 | Thu, 22 Jan 2026 07:34:39 GMT | Why Online Harm Is a Human Security Problem, Not a Content Problem | Numburi | [Read More](https://medium.com/p/5580b765aed1) |
 | Thu, 22 Jan 2026 07:32:01 GMT | 7 Crypto Scams Beginners Still Fall For (Avoid These in 2026) | Emmanuel Obumneke Njoku | [Read More](https://medium.com/p/feabf133e47c) |
 | Thu, 22 Jan 2026 07:32:01 GMT | Your Node Dependencies Are a Security Perimeter Now | Quellin | [Read More](https://medium.com/p/de13fa18c478) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 21 Jan 2026 22:22:10 GMT | The Most Dangerous Cyber Risk You’re Not Monitoring: Your Forgotten DNS Domains | Dale Jenkins | [Read More](https://medium.com/p/ace40c762046) |
 | Wed, 21 Jan 2026 22:22:07 GMT | Guardians of the code: Unlocking secure authentication in an AI-powered world | DiUS | [Read More](https://medium.com/p/6b2de51a444d) |
 | Wed, 21 Jan 2026 22:18:46 GMT | Starting a Online B2B Services Company in 2026 | Connor Cady | [Read More](https://medium.com/p/1f29694f9457) |
-| Wed, 21 Jan 2026 22:16:08 GMT | Cloud File-Sharing Platforms Under Attack: How Always-On VPN Simplifies Security | Dan Forsyth | [Read More](https://medium.com/p/a7fce19c294d) |
-| Wed, 21 Jan 2026 21:58:11 GMT | How Hard is it to Overcome DVIUS AI Protocols: Gemini Answered | Seguroski | [Read More](https://medium.com/p/ee3cdfe6669e) |
-| Wed, 21 Jan 2026 21:49:40 GMT | Cybersecurity Used to Intimidate Me, Until Something Finally Changed | Glomygia Orji | [Read More](https://medium.com/p/b441ebed37d9) |
-| Wed, 21 Jan 2026 21:46:05 GMT | Veriyi Nasıl Kalıcı Olarak Silinir? | Zekikayaalp | [Read More](https://medium.com/p/f3422f5bf0d0) |
-| Wed, 21 Jan 2026 21:45:52 GMT | Scalable Video Processing for Modern Security Systems | NETINT Technologies | [Read More](https://medium.com/p/416c485fe79e) |
-| Wed, 21 Jan 2026 21:35:00 GMT | #LifeAmongstBugs01: The “I Know You’re There” Ghost in the Machine | newklei | [Read More](https://medium.com/p/2a52acfc9ebe) |
-| Wed, 21 Jan 2026 21:34:04 GMT | Lame Machine Write-up | JustIce | [Read More](https://medium.com/p/790a4f82d0df) |
-| Wed, 21 Jan 2026 21:31:09 GMT | Why Strong Governance Fuels Meaningful Innovation | Aku | [Read More](https://medium.com/p/438620bbf6ff) |
