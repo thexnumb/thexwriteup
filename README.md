@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 Jan 2026 05:07:08 GMT | Vulnerability Exploitation Landscape: 2025 Trends and 2026 Outlook | NSHC ThreatRecon Team | [Read More](https://medium.com/p/6e375cfc8861) |
+| Thu, 22 Jan 2026 05:04:26 GMT | Hail Damage Roof Repair Contractor - Trusted Hail Damage Roofing Contractors — Kidd Roof | Kidd Roofing | [Read More](https://medium.com/p/fc9dcffc24d3) |
+| Thu, 22 Jan 2026 04:58:51 GMT | Why CHFI Matters in Cybersecurity | Shreyashettyctr | [Read More](https://medium.com/p/8cacf921d9a3) |
+| Thu, 22 Jan 2026 04:58:21 GMT | DLL Hijacking Still Works in 2025 and That’s a Problem | Manish Rawat | [Read More](https://medium.com/p/d12cdef6ddbd) |
+| Thu, 22 Jan 2026 04:56:13 GMT | Incredibox APK | GOCMOD | [Read More](https://medium.com/p/78f5fae01527) |
 | Thu, 22 Jan 2026 04:49:59 GMT | Beyond the Alerts: Lessons Cybersecurity Didn’t Teach Me in Any Playbook | Paritosh | [Read More](https://medium.com/p/3d294293b109) |
+| Thu, 22 Jan 2026 04:49:57 GMT | DeepBlueCLI Walkthrough: Detecting Meterpreter Activity Using Windows Event Logs | Jacob Ferguson | [Read More](https://medium.com/p/1196bdbcf3b5) |
+| Thu, 22 Jan 2026 04:40:56 GMT | Governance, Risk, and Compliance Platforms: Market Size, Trends, and Forecast | Gauri Kale | [Read More](https://medium.com/p/2a2997589918) |
 | Thu, 22 Jan 2026 04:39:46 GMT | Playbook vs. Runbook: The Difference That Saves Your SOC at 3AM | Denny Roger | [Read More](https://medium.com/p/361ccb569135) |
 | Thu, 22 Jan 2026 04:37:24 GMT | The 2026 Cybersecurity Survival Guide: Beyond the Hype, The AI Shift, and The Real Roadmap | TechMallu | [Read More](https://medium.com/p/99aca24a7c0d) |
 | Thu, 22 Jan 2026 04:37:02 GMT | SQL Injection: How It Works and How to Prevent It | Suman Panta | [Read More](https://medium.com/p/9344a6f75969) |
@@ -106,10 +113,3 @@ Okta Partner Experience Coffeecase writeup | Omar Mohamed Hassan Shehatta | [Rea
 | Wed, 21 Jan 2026 18:57:54 GMT | TakeOver - Tryhackme | Nasir Ahim | [Read More](https://medium.com/p/4d9cfd715d90) |
 | Wed, 21 Jan 2026 18:56:31 GMT | Can a VPN Fool GPS Tracking Apps? A Security Expert’s Deep Dive (2026 Update) | Teona | [Read More](https://medium.com/p/bb1b5926c547) |
 | Wed, 21 Jan 2026 18:54:01 GMT | Secure Kubernetes Deployment Guide (Self-Managed) — Part VIII | SOCFortress | [Read More](https://medium.com/p/97a4b09ef2ba) |
-| Wed, 21 Jan 2026 18:51:58 GMT | Bienvenue sur Cyber Simplifiée ! ️ | Raphaël Cyber Simplifiée | [Read More](https://medium.com/p/f51ef2e9f914) |
-| Wed, 21 Jan 2026 18:51:39 GMT | How to Build Security Into Your DevOps Pipeline (Before Hackers Do) | VICTOR IJONI | [Read More](https://medium.com/p/d90324b70de5) |
-| Wed, 21 Jan 2026 18:48:20 GMT | Secure vs Insecure Protocols | guyvolvo | [Read More](https://medium.com/p/c32471d1927f) |
-| Wed, 21 Jan 2026 18:43:47 GMT | Python Things I Wish I Had Learned Earlier (So I Didn’t Waste Years) | Babar saad | [Read More](https://medium.com/p/29734e3fb505) |
-| Wed, 21 Jan 2026 18:32:38 GMT | Predictive AI: Power, Risk, and the Human Factor | Len Noe | [Read More](https://medium.com/p/d2343b18314e) |
-| Wed, 21 Jan 2026 18:32:24 GMT | WP File Upload Plugin — Front End Upload & Download Manager for WordPress! | Jane Brian | [Read More](https://medium.com/p/2f9ce6865795) |
-| Wed, 21 Jan 2026 18:26:22 GMT | AutoBof — Building an AI-Powered Buffer Overflow Detection Tool | Muhammad Usman Ahmad | [Read More](https://medium.com/p/1950267ce8d3) |
