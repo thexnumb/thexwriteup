@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 Jan 2026 01:33:03 GMT | When Traveling? Here’s When It Actually Matters | Navigator & Co. | [Read More](https://medium.com/p/c332572c61d6) |
+| Thu, 22 Jan 2026 01:32:03 GMT | Multi-Tenant n8n Without the Security Hangover | Hash Block | [Read More](https://medium.com/p/dd861fab05f8) |
+| Thu, 22 Jan 2026 01:21:59 GMT | Will Cybersecurity Be Replaced by AI? | Marcus Chen | [Read More](https://medium.com/p/c2f97cbe3c3c) |
+| Thu, 22 Jan 2026 01:14:56 GMT | AWS Security Agent: Context aware agentic application security from design to deployment | Eray ALTILI | [Read More](https://medium.com/p/45e0efe93d7c) |
+| Thu, 22 Jan 2026 00:58:46 GMT | Cybersecurity Laws and Regulations in Azerbaijan: An Overview | Rehimovmahmud | [Read More](https://medium.com/p/714eb5292cbd) |
+| Thu, 22 Jan 2026 00:56:22 GMT | Passwordless access in minutes: a practical integration demo | Anton Minin Baranovskii | [Read More](https://medium.com/p/10da02e482d7) |
+| Thu, 22 Jan 2026 00:53:42 GMT | Decentralized Generation and CHP: | Andrii Stetsiuk | [Read More](https://medium.com/p/9d5a023aebe2) |
+| Thu, 22 Jan 2026 00:53:10 GMT | The New Face of Cybersecurity in 2026: What You Really Need to Know | Abdelaziz moustakim | [Read More](https://medium.com/p/38388e3ca947) |
+| Thu, 22 Jan 2026 00:47:13 GMT | Why early visibility matters - and when it does not | Anton Minin Baranovskii | [Read More](https://medium.com/p/966fe351673a) |
+| Thu, 22 Jan 2026 00:22:13 GMT | 數位游牧的隱形殺手：從 LNK 惡意檔案到身分竊盜，詳解針對台灣接案族的「詢價詐騙」殺戮鏈白皮書 | p1x06u9 | [Read More](https://medium.com/p/da35371334d7) |
+| Thu, 22 Jan 2026 00:19:57 GMT | Criminals Can Now Call You Using Your Bank’s Actual Number And Steal Everything | Hector Garcia | [Read More](https://medium.com/p/e4b5a502ed9b) |
+| Thu, 22 Jan 2026 00:01:14 GMT | Exposure of laravel.log allowing admin account compromise | ATTER Koffi Kallern | [Read More](https://medium.com/p/c402368c11cd) |
+| Wed, 21 Jan 2026 23:45:32 GMT | The 3 Quiet Failures… | Nik Charlson | [Read More](https://medium.com/p/667b3a47a09b) |
 | Wed, 21 Jan 2026 23:44:04 GMT | Modern DLP for AI Work: Inside the Enterprise Browser | Mammoth Cyber | [Read More](https://medium.com/p/1e27d5d17434) |
+| Wed, 21 Jan 2026 23:39:23 GMT | The 6 Fundamental Steps to a Penetration Test | Eric Smith | [Read More](https://medium.com/p/590c11dcc657) |
 | Wed, 21 Jan 2026 23:32:33 GMT | Scrambled: Chaining Silver Tickets & Token Impersonation for Total Domain Control ️ | Iron-Breach-editor | [Read More](https://medium.com/p/1a9e6c255a3d) |
 | Wed, 21 Jan 2026 23:23:29 GMT | The Face of Emotional Distance with a Foreign Partner | Marta Levchenko | [Read More](https://medium.com/p/13022d7644ce) |
 | Wed, 21 Jan 2026 23:20:15 GMT | How One JSON Payload Hijacked the Modern Web: React2Shell (Full Report) | Saad Khalid | [Read More](https://medium.com/p/1ca5c46ae34b) |
@@ -99,17 +113,3 @@ Okta Partner Experience Coffeecase writeup | Omar Mohamed Hassan Shehatta | [Rea
 | Wed, 21 Jan 2026 16:57:09 GMT | Two Countries, One Radical Choice | Maithilee Singh | [Read More](https://medium.com/p/429b4904459d) |
 | Wed, 21 Jan 2026 16:55:52 GMT | Unified Kill Chain — TryHackMe Walkthrough | Virendra Kumar | [Read More](https://medium.com/p/59574e35229d) |
 | Wed, 21 Jan 2026 16:53:21 GMT | How to start a cybersecurity career in 2026: A practical roadmap | Hackers Things | [Read More](https://medium.com/p/829dfbf7eb72) |
-| Wed, 21 Jan 2026 16:42:00 GMT | Understanding IPv4 Addressing: What I Revised Today | Amandogra | [Read More](https://medium.com/p/8c71ca3ce3b0) |
-| Wed, 21 Jan 2026 16:38:04 GMT | Reconnaissance: The Most Ignored Phase of an Attack | Daniel Isaac E | [Read More](https://medium.com/p/2391e9124f8c) |
-| Wed, 21 Jan 2026 16:37:17 GMT | Why Your Business Needs 24/7 Cybersecurity: Defend Against Cyber Attacks with PlutoSec | Plutosec Cyber Security | [Read More](https://medium.com/p/26874c6e37f9) |
-| Wed, 21 Jan 2026 16:28:41 GMT | Firewalls Explained: Types, How They Stop (or Sometimes Allow) Cyberattacks, and the Evolving Tech… | Paradise technologies Inc | [Read More](https://medium.com/p/2ca46c26721b) |
-| Wed, 21 Jan 2026 16:23:10 GMT | Five Actionable Password Tips to Improve Your Cyber-Defenses | Karl Buhl | [Read More](https://medium.com/p/73c0d2ba7541) |
-| Wed, 21 Jan 2026 16:21:38 GMT | Why “Don’t Click That Link” Is a Dangerous Anachronism | Avlix Group | [Read More](https://medium.com/p/549395b9f3b3) |
-| Wed, 21 Jan 2026 16:17:16 GMT | , ’  … | Justice Atulaegwu | [Read More](https://medium.com/p/3fcda1afbd48) |
-| Wed, 21 Jan 2026 16:12:04 GMT | TryHackMe : Anonymous Machine Writeup | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/4c38b09d6c22) |
-| Wed, 21 Jan 2026 16:11:51 GMT | HTB CJCA | Netsec | [Read More](https://medium.com/p/671ea4d4734c) |
-| Wed, 21 Jan 2026 16:09:51 GMT | 5 Tech Skills to Have in 2026 | Luke | [Read More](https://medium.com/p/d7acce8b284b) |
-| Wed, 21 Jan 2026 16:07:26 GMT | Linux Post-Exploitation 103: The Power of Permissions | Al3xx | [Read More](https://medium.com/p/a8b75faf0714) |
-| Wed, 21 Jan 2026 16:06:27 GMT | Hack the Planet: Thirty Years Later, the Film That Didn’t Understand Hacking but Perfectly… | Cyberecoder | [Read More](https://medium.com/p/998e0008aba8) |
-| Wed, 21 Jan 2026 16:02:31 GMT | Multi-Tenant NestJS Without Data Leaks | Praxen | [Read More](https://medium.com/p/9c915396867f) |
-| Wed, 21 Jan 2026 16:01:16 GMT | The Components of an Attack: The 7 Phases of a Modern Phishing Attempt | Cordula Boeck | [Read More](https://medium.com/p/deaf77ddc9a2) |
