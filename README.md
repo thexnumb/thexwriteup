@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 Jan 2026 03:44:33 GMT | Equlix Review: Features, Platform Overview, and How It Works | Besti Trader | [Read More](https://medium.com/p/7ed33f89b444) |
+| Thu, 22 Jan 2026 03:41:31 GMT | The Security Model Behind a Simple Purchase Clark Wilson in Real Life | Surbhimeena | [Read More](https://medium.com/p/33975030523a) |
+| Thu, 22 Jan 2026 03:32:00 GMT | 7 Alternatives to JWT for Secure Authentication | Arunangshu Das | [Read More](https://medium.com/p/845de8288fb5) |
+| Thu, 22 Jan 2026 03:32:00 GMT | PDFSider: When Legitimate Software Becomes the Perfect Hiding Place | Deven Chhajed | [Read More](https://medium.com/p/c11d2fcc71d0) |
+| Thu, 22 Jan 2026 03:30:04 GMT | From Trust to Traps: Building Modern Network Defenses (Explained Simply) | Manubhav Sharma | [Read More](https://medium.com/p/207b115b2461) |
+| Thu, 22 Jan 2026 03:02:07 GMT | Phase 1 of Hacking: The Complete Beginner’s Guide to Nmap | SOORAJ SUBRAMANIAN | [Read More](https://medium.com/p/819a4387d9de) |
+| Thu, 22 Jan 2026 02:53:27 GMT | Why do I even need to verify checksums? | Tyler Hudson | [Read More](https://medium.com/p/e610e0a05ddb) |
+| Thu, 22 Jan 2026 02:39:05 GMT | Training Your Little Knight: How to Slay the Digital Dragon Together | Steven Chin | [Read More](https://medium.com/p/f2931c985427) |
+| Thu, 22 Jan 2026 02:32:07 GMT | Stop Encrypting Passwords: A Rails Developer’s Guide to Hashing | sudhansh jawale | [Read More](https://medium.com/p/0f6713c18996) |
+| Thu, 22 Jan 2026 02:16:19 GMT | Iraq’s Cybercrime Law: A Technical and Critical Analysis of the Legal Framework | Hisham Hyber | [Read More](https://medium.com/p/331b96c47ac4) |
+| Thu, 22 Jan 2026 02:13:31 GMT | AI-Assisted PHP Security Testing with Keygraph Shannon | Nishi Tiwari | [Read More](https://medium.com/p/ba9ceec8291e) |
+| Thu, 22 Jan 2026 02:12:50 GMT | AWS S3: 10 Survival Settings Before Hackers Find Your Data | Pois0n84 | [Read More](https://medium.com/p/5845fec20376) |
+| Thu, 22 Jan 2026 02:03:44 GMT | Master HACKING With ChatGPT in 2026! (Full Guide) | Shahzaib | [Read More](https://medium.com/p/e1d77fbffe92) |
 | Thu, 22 Jan 2026 01:33:03 GMT | When Traveling? Here’s When It Actually Matters | Navigator & Co. | [Read More](https://medium.com/p/c332572c61d6) |
 | Thu, 22 Jan 2026 01:32:03 GMT | Multi-Tenant n8n Without the Security Hangover | Hash Block | [Read More](https://medium.com/p/dd861fab05f8) |
 | Thu, 22 Jan 2026 01:21:59 GMT | Will Cybersecurity Be Replaced by AI? | Marcus Chen | [Read More](https://medium.com/p/c2f97cbe3c3c) |
@@ -100,16 +113,3 @@ Okta Partner Experience Coffeecase writeup | Omar Mohamed Hassan Shehatta | [Rea
 | Wed, 21 Jan 2026 17:26:25 GMT | Applying Incident Response Principles to Blockchain Security | Harsh Tandel | [Read More](https://medium.com/p/155d4b2aa107) |
 | Wed, 21 Jan 2026 17:26:19 GMT | That Job Offer Isn’t Real | Casey Elizabeth McDonald | [Read More](https://medium.com/p/fd00258c85b9) |
 | Wed, 21 Jan 2026 17:26:06 GMT | RANSOMWARE IN 2026: EVOLVING THREATS, SOARING COSTS, AND THE NEW DEFENSE PLAYBOOK | Raphaam Digital (Cyber Security Updates) | [Read More](https://medium.com/p/091495169498) |
-| Wed, 21 Jan 2026 17:17:38 GMT | How I Shifted from Theory to Practice in Cybersecurity | Tejas Bhujbal | [Read More](https://medium.com/p/1f49ad50d0de) |
-| Wed, 21 Jan 2026 17:16:26 GMT | When Traffic becomes a Weapon | Mahika Nanda | [Read More](https://medium.com/p/dfdd145f5287) |
-| Wed, 21 Jan 2026 17:12:29 GMT | Poland in the Energy Transition: Can the Country Replace Coal with Renewables by 2030? | Mykhailo Pyrtko | [Read More](https://medium.com/p/6bb5fd0cb67c) |
-| Wed, 21 Jan 2026 17:12:10 GMT | Everyone Is Funding AI. | Patricia Jamelska | [Read More](https://medium.com/p/0f76cca9f5a6) |
-| Wed, 21 Jan 2026 17:09:51 GMT | IaaS, PaaS and SaaS Explained: Best Cloud Models for Scalable Projects | IT_Engineer | [Read More](https://medium.com/p/459e71263fa0) |
-| Wed, 21 Jan 2026 17:06:38 GMT | “Bug Bounty Bootcamp #19: Advanced CSP Bypass — Turning Trusted Third Parties and File Uploads… | Aman Sharma | [Read More](https://medium.com/p/266760ab9ff5) |
-| Wed, 21 Jan 2026 17:03:53 GMT | From ‘False Positive’ to High Impact: A Deep Dive into Validating CVE-2025–14847 (MongoBleed) | Ahmed Nasser | [Read More](https://medium.com/p/9ad2b54267bf) |
-| Wed, 21 Jan 2026 17:01:21 GMT | The Company Fixed the Bug — but Forgot the Cache | Iski | [Read More](https://medium.com/p/359878dc94e7) |
-| Wed, 21 Jan 2026 16:59:46 GMT | From Task to Transformation: How Sanity United Makes Life Easier | Stan4Chainz | [Read More](https://medium.com/p/0a35690897c3) |
-| Wed, 21 Jan 2026 16:58:17 GMT | Where Cloudflare Fits in Modern System Architecture | Anand | [Read More](https://medium.com/p/540209207868) |
-| Wed, 21 Jan 2026 16:57:09 GMT | Two Countries, One Radical Choice | Maithilee Singh | [Read More](https://medium.com/p/429b4904459d) |
-| Wed, 21 Jan 2026 16:55:52 GMT | Unified Kill Chain — TryHackMe Walkthrough | Virendra Kumar | [Read More](https://medium.com/p/59574e35229d) |
-| Wed, 21 Jan 2026 16:53:21 GMT | How to start a cybersecurity career in 2026: A practical roadmap | Hackers Things | [Read More](https://medium.com/p/829dfbf7eb72) |
