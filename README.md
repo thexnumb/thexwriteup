@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 22 Jan 2026 21:00:51 GMT | Enterprise-Grade vs Startup Code: The Mindset Shift That Changes Everything | Ashwin Parmar | [Read More](https://medium.com/p/9d8b487e09a8) |
+| Thu, 22 Jan 2026 20:57:03 GMT | AI Detection Tools | Shailendra Kumar | [Read More](https://medium.com/p/1e3cc93994e5) |
+| Thu, 22 Jan 2026 20:50:18 GMT | ArgoCD’s Hidden Dex Problem: When SSO Becomes a Security Liability | Sadi Zane | [Read More](https://medium.com/p/1cadfee239de) |
+| Thu, 22 Jan 2026 20:35:38 GMT | Cyber Attacks That Don’t Break Systems but Desynchronize Them | Muhammad Ali Khan | [Read More](https://medium.com/p/c8d7aa7ec24e) |
+| Thu, 22 Jan 2026 20:31:35 GMT | How our browsers find the websites? DNS | Nargiz Heydarova | [Read More](https://medium.com/p/78d1d3be7541) |
+| Thu, 22 Jan 2026 20:31:32 GMT | BROKEN ACCESS CONTROL | Zekikayaalp | [Read More](https://medium.com/p/02fc6dcbb1b0) |
 | Thu, 22 Jan 2026 20:28:46 GMT | Can Good Security Policies turn Bad? | Ben   Olufemi akintounde | [Read More](https://medium.com/p/e9726164df6a) |
+| Thu, 22 Jan 2026 20:20:39 GMT | A Subtle Async Hooks Bug That Could Crash Your Node.js Server | Rahul_Samajpati | [Read More](https://medium.com/p/e52df583b76f) |
 | Thu, 22 Jan 2026 20:15:26 GMT | From Phishing to Blackout: Inside the SCADABreach Ransomware Simulation | artur | [Read More](https://medium.com/p/746373a4822b) |
 | Thu, 22 Jan 2026 20:10:53 GMT | OSINT Toolkit: Hackers’ Secret Weapon Exposed! | cybrNK | [Read More](https://medium.com/p/b465f3c01cbe) |
 | Thu, 22 Jan 2026 20:10:03 GMT | Is Bitunix Safe? A Real Look at Security, Trust and What Matters Today. | Daisypto | [Read More](https://medium.com/p/96a3d0d45d54) |
@@ -106,10 +113,3 @@ Most people believe romance scam victims… | Pause & Verify | [Read More](https
 | Thu, 22 Jan 2026 13:46:54 GMT | Dockerizing Node.js Apps the Right Way | Webstack | [Read More](https://medium.com/p/c9a7558b51f1) |
 | Thu, 22 Jan 2026 13:45:12 GMT | NullByte: 1 — OSCP Raw - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/e0e71e4b0e5d) |
 | Thu, 22 Jan 2026 13:42:00 GMT | Cybersecurity Interviews: Anecdotal Edition | Danny | [Read More](https://medium.com/p/b763e7495a9e) |
-| Thu, 22 Jan 2026 13:35:33 GMT | Siber Güvenlik Kümelenmesi 4. CTF Yarışması | Tolga Can | [Read More](https://medium.com/p/ccf8c535958a) |
-| Thu, 22 Jan 2026 13:34:05 GMT | ISC² SSCP Exam: Mastering Security Operations (Part 2) | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/f1e940a18e49) |
-| Thu, 22 Jan 2026 13:32:43 GMT | VulnLab: File Inclusion Çözümü | CyberSam | [Read More](https://medium.com/p/b8637a2d3d20) |
-| Thu, 22 Jan 2026 13:31:53 GMT | Fast and Affordable WordPress Hosting for Beginners: A Complete Guide | Priteshblk | [Read More](https://medium.com/p/4e07eac1fd4e) |
-| Thu, 22 Jan 2026 13:22:36 GMT | Why Cybersecurity Is No Longer Optional for SMEs in the OECS | Adam Frost | [Read More](https://medium.com/p/149d521a8c4f) |
-| Thu, 22 Jan 2026 13:18:48 GMT | IT Investment Will Rebalance Toward AI-Powered Value - Ascendion | Ascendion | [Read More](https://medium.com/p/2b17484d6b93) |
-| Thu, 22 Jan 2026 13:13:17 GMT | Total Security Solutions: The Future of Safety with Advanced Electronic Security Solutions | Ciss India | [Read More](https://medium.com/p/c93df6489e41) |
