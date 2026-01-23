@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 06:32:12 GMT | Race Condition — HTTP Smuggling — HTTP/3 Protokol Versiyon | 0bat.exe1 | [Read More](https://medium.com/p/74165353a191) |
+| Fri, 23 Jan 2026 06:26:41 GMT | Why Professionals Trust ACSMI for Cybersecurity Career Growth | ACSMI | [Read More](https://medium.com/p/7ba226f722de) |
+| Fri, 23 Jan 2026 06:23:44 GMT | Day 3: Networking Foundations — TCP/IP, Transport Protocols & DHCP Explained | Faizan Nazir | [Read More](https://medium.com/p/8541d374e5a8) |
+| Fri, 23 Jan 2026 06:09:33 GMT | The Day Google Stopped Helping Me at Work | Saurabh Jain | [Read More](https://medium.com/p/338ba621c5b8) |
+| Fri, 23 Jan 2026 05:59:15 GMT | The NeurIPS Scandal: How AI Hallucinated Its Way into 100 ‘Expert’ Research Papers | shahid irfan | [Read More](https://medium.com/p/1b6df2184670) |
+| Fri, 23 Jan 2026 05:54:01 GMT | Takedown Spy: como investigadores usam link grabbers para identificar alvos online | bruno raniel gualhaço | [Read More](https://medium.com/p/4c1b32f5b061) |
+| Fri, 23 Jan 2026 05:52:04 GMT | Google and Epic’s Secret Deal, Copilot Everywhere, and Under Armour’s Breach - The Daily Tech… | Souren Stepanyan | [Read More](https://medium.com/p/422c9dc38ae7) |
+| Fri, 23 Jan 2026 05:51:01 GMT | Mastering HTTP Smuggling with PortSwinger Labs — I | Lakshan Sameera | [Read More](https://medium.com/p/60bbc21e7111) |
+| Fri, 23 Jan 2026 05:47:41 GMT | Secure Storage in Flutter: The Right Way to Store Secrets | Yash Patel | [Read More](https://medium.com/p/3b1b7ee766b8) |
+| Fri, 23 Jan 2026 05:45:01 GMT | Understanding John the Ripper: How Hash Cracking Works in Practice (TryHackMe) | Tejas Bhujbal | [Read More](https://medium.com/p/4c8c08277590) |
 | Fri, 23 Jan 2026 05:40:31 GMT | The Rising Importance of Network Security Services in a Hyper-Connected World | Devarshi Acharya | [Read More](https://medium.com/p/36e2d9092433) |
 | Fri, 23 Jan 2026 05:39:38 GMT | AI Deepfakes Are Harming Real People. New Federal Laws Finally Give Victims Power | "Tracey, the Safety Lady" Hawkins | [Read More](https://medium.com/p/2d2f8ddac19e) |
 | Fri, 23 Jan 2026 05:36:56 GMT | Web Security Services in 2026: The Strategic Shield Modern Businesses Can’t Ignore | Devarshi Acharya | [Read More](https://medium.com/p/9da6db3ac4b4) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 Jan 2026 19:36:53 GMT | Why “latest apk” can break on a two-day-old image digest | Christian Frank Johannsen | [Read More](https://medium.com/p/d6d98e552e3b) |
 | Thu, 22 Jan 2026 19:34:02 GMT | Installing Kali Linux Without Errors | Andrey.Web | [Read More](https://medium.com/p/9fbe60c87c83) |
 | Thu, 22 Jan 2026 19:30:28 GMT | The AI CRM Tax: Why Most Platforms Are Charging You for “Duct-Taped” Intelligence | Michael Fraser | [Read More](https://medium.com/p/6e9c1995268c) |
-| Thu, 22 Jan 2026 19:28:42 GMT | CompTIA® SecurityX® CAS-005 Certification Guide (2nd Edition): A Practical Companion for Senior… | Minisky | [Read More](https://medium.com/p/5dbea2310736) |
-| Thu, 22 Jan 2026 19:24:22 GMT | De sneeuwstorm | l´observatrice | [Read More](https://medium.com/p/561bef153f59) |
-| Thu, 22 Jan 2026 19:22:04 GMT | Пошук вразливостей. Публічні експлойти | Fl4g Hunt3r Project | [Read More](https://medium.com/p/58d2838274f9) |
-| Thu, 22 Jan 2026 19:15:02 GMT | 750,000 Impacted by Canadian Investment Watchdog Data Breach: What Businesses Must Learn in 2026 | IT_Engineer | [Read More](https://medium.com/p/53eda3c869f6) |
-| Thu, 22 Jan 2026 19:06:36 GMT | I Audited My Python Environment for Spyware — Here’s What I Found | ghostyjoe | [Read More](https://medium.com/p/71b3165808f4) |
-| Thu, 22 Jan 2026 19:03:50 GMT | Azərbaycanda Kiber Cinayətlər: Qadağan Olunan Əməllər və Cəzalar | Behbud Behbudov | [Read More](https://medium.com/p/52b339716a5a) |
-| Thu, 22 Jan 2026 19:03:06 GMT | Anti-Clickjacking | Iram Jack | [Read More](https://medium.com/p/794890a90dc8) |
-| Thu, 22 Jan 2026 18:56:39 GMT | Hunting Lazarus Part II: When the Dead Drop Moved to the Blockchain | Red Asgard | [Read More](https://medium.com/p/ae1e1daee43f) |
-| Thu, 22 Jan 2026 18:55:39 GMT | A Day in the Life of a Hacker | Prasadi Niroopama Kumarasinghe | [Read More](https://medium.com/p/655744872af0) |
-| Thu, 22 Jan 2026 18:50:09 GMT | What’s so easy about pie? | Fernanda Fitere | [Read More](https://medium.com/p/893dd3013df1) |
