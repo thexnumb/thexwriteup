@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 19:11:06 GMT | Okta SSO Accounts Under Siege: New Vishing Attacks Expose Security Gaps | Technijian | [Read More](https://medium.com/p/17b77b259b43) |
+| Fri, 23 Jan 2026 19:02:04 GMT | Anti-Ransomware | Iram Jack | [Read More](https://medium.com/p/0ea25b380267) |
+| Fri, 23 Jan 2026 19:01:37 GMT | AI in SOC Automation: The Role of Continuous Threat Exposure Management (CTEM) | Digital Defense | [Read More](https://medium.com/p/9de26647a8dc) |
+| Fri, 23 Jan 2026 19:01:04 GMT | Advanced Persistent Threats (APT) Nedir? | Arda Derya | [Read More](https://medium.com/p/12c79dc6dea4) |
+| Fri, 23 Jan 2026 18:56:13 GMT | INE / eJPT / Assessment Methodologies: Vulnerability Assessment CTF 1 | Salihugurlu | [Read More](https://medium.com/p/b488d143779a) |
+| Fri, 23 Jan 2026 18:55:16 GMT | Deconstructing Detection Logic in Windows Environments-Part 4 | Manish [pikachu] | [Read More](https://medium.com/p/7ccb036d6123) |
+| Fri, 23 Jan 2026 18:51:10 GMT | Wi-Fi & Bluetooth Hacking Exposed: What Attackers Really Do (CEH Perspective) | Cyber Wolf | [Read More](https://medium.com/p/01afe85c92f6) |
+| Fri, 23 Jan 2026 18:44:02 GMT | Overcoming Risk and Vulnerability at Work-- How I Escaped a Hidden Agenda as a Security… | Aaron Hansberry | [Read More](https://medium.com/p/b46d123312dc) |
+| Fri, 23 Jan 2026 18:43:05 GMT | Man in the Middle Attack Nedir? Halka Açık Wi-Fi’da Bilgileriniz Nasıl Çalınır? | Arda Derya | [Read More](https://medium.com/p/6efc0f006a24) |
 | Fri, 23 Jan 2026 18:30:34 GMT | Hacker’s Shadow: Why Modern Cybersecurity Requires Thinking Like the Adversary | CyberForenx | [Read More](https://medium.com/p/bfbfa722a9d9) |
 | Fri, 23 Jan 2026 18:23:19 GMT | Secure by design: building and governing trusted agentic systems | Alipouw | [Read More](https://medium.com/p/9069746aa346) |
 | Fri, 23 Jan 2026 18:21:06 GMT | I’m a Pathological Liar to Myself | KV | [Read More](https://medium.com/p/02254013906f) |
@@ -105,12 +114,3 @@ An accountant at the organization… | Elallam | [Read More](https://medium.com/
 | Fri, 23 Jan 2026 13:00:44 GMT | Multi-Factor Authentication Market 2026: Trends, Growth Drivers, and the Future of Digital Security | Desouza Nancy | [Read More](https://medium.com/p/1ad5d1ff7ad5) |
 | Fri, 23 Jan 2026 12:47:26 GMT | Linux is not that hard to understand! | Manoj Nepal | [Read More](https://medium.com/p/6bd0ed170748) |
 | Fri, 23 Jan 2026 12:44:27 GMT | OSINT NEDİR VE ARAÇLARI NELERDİR ? | Resul Karaca | [Read More](https://medium.com/p/d6ce79c99f4a) |
-| Fri, 23 Jan 2026 12:39:26 GMT | WhatsApp Engineering: How End-to-End Encryption Works | Tanyaradzwa T Mushonga | [Read More](https://medium.com/p/4d051e68d465) |
-| Fri, 23 Jan 2026 12:38:07 GMT | I Automated Qualys Triage and Cut 80% of Manual Work. Here’s Exactly How. | Oscar Antonangelo | [Read More](https://medium.com/p/5b4df390d438) |
-| Fri, 23 Jan 2026 12:35:28 GMT | Why Hackers Love Clean Systems More Than Dirty Ones | Fateyaly | [Read More](https://medium.com/p/d5efb4a5d5b9) |
-| Fri, 23 Jan 2026 12:30:59 GMT | OWASP Juice Shop: Complete 1-Star Challenge Walkthrough | Martin Simonyan | [Read More](https://medium.com/p/e0b2bc4ae381) |
-| Fri, 23 Jan 2026 12:29:42 GMT | Why Low Frequency RFID Still Matters in a High Frequency World | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/f714318734d5) |
-| Fri, 23 Jan 2026 12:25:59 GMT | From Zero-Day Exploitation to Plugin Takeovers: A Week of High-Impact Cyber Threats | Loginsoft | [Read More](https://medium.com/p/e5a3d5cb3cbb) |
-| Fri, 23 Jan 2026 12:17:01 GMT | Due Diligence Questions for AI Security Vendors (That They Probably Can’t Answer) | Jon Welborn | [Read More](https://medium.com/p/5dad1cc68728) |
-| Fri, 23 Jan 2026 12:14:10 GMT | The Future of SIEM: Why 2026 Marks a Turning Point for SOCs | NetWitness | [Read More](https://medium.com/p/4cc87a077795) |
-| Fri, 23 Jan 2026 11:55:57 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/371bdcd3f531) |
