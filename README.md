@@ -12,10 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 12:44:27 GMT | OSINT NEDİR VE ARAÇLARI NELERDİR ? | Resul Karaca | [Read More](https://medium.com/p/d6ce79c99f4a) |
+| Fri, 23 Jan 2026 12:39:26 GMT | WhatsApp Engineering: How End-to-End Encryption Works | Tanyaradzwa T Mushonga | [Read More](https://medium.com/p/4d051e68d465) |
+| Fri, 23 Jan 2026 12:38:07 GMT | I Automated Qualys Triage and Cut 80% of Manual Work. Here’s Exactly How. | Oscar Antonangelo | [Read More](https://medium.com/p/5b4df390d438) |
+| Fri, 23 Jan 2026 12:35:28 GMT | Why Hackers Love Clean Systems More Than Dirty Ones | Fateyaly | [Read More](https://medium.com/p/d5efb4a5d5b9) |
+| Fri, 23 Jan 2026 12:30:59 GMT | OWASP Juice Shop: Complete 1-Star Challenge Walkthrough | Martin Simonyan | [Read More](https://medium.com/p/e0b2bc4ae381) |
+| Fri, 23 Jan 2026 12:29:42 GMT | Why Low Frequency RFID Still Matters in a High Frequency World | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/f714318734d5) |
+| Fri, 23 Jan 2026 12:25:59 GMT | From Zero-Day Exploitation to Plugin Takeovers: A Week of High-Impact Cyber Threats | Loginsoft | [Read More](https://medium.com/p/e5a3d5cb3cbb) |
+| Fri, 23 Jan 2026 12:17:01 GMT | Due Diligence Questions for AI Security Vendors (That They Probably Can’t Answer) | Jon Welborn | [Read More](https://medium.com/p/5dad1cc68728) |
+| Fri, 23 Jan 2026 12:14:10 GMT | The Future of SIEM: Why 2026 Marks a Turning Point for SOCs | NetWitness | [Read More](https://medium.com/p/4cc87a077795) |
+| Fri, 23 Jan 2026 11:55:57 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/371bdcd3f531) |
+| Fri, 23 Jan 2026 11:41:50 GMT | Write up IntechCTF-2022 — Android Flag Challenge | Nanda Cahya Septiawan | [Read More](https://medium.com/p/4df911a859dd) |
+| Fri, 23 Jan 2026 11:38:44 GMT | Best Website Designing Company in Ghaziabad -Balainfotec | Sunny Sharma | [Read More](https://medium.com/p/1c28328afeda) |
 | Fri, 23 Jan 2026 11:37:23 GMT | Ignite — TryHackMe Walkthrough / Writeup | sudo_0xksh | [Read More](https://medium.com/p/58b7d52a1747) |
 | Fri, 23 Jan 2026 11:37:03 GMT | Fowsniff CTF — THM Writeup | sudo_0xksh | [Read More](https://medium.com/p/4ce5a0f14fe1) |
+| Fri, 23 Jan 2026 11:32:59 GMT | What’s new in PVS-Studio in 2025? | Unicorn Developer | [Read More](https://medium.com/p/3637ede06eba) |
 | Fri, 23 Jan 2026 11:32:01 GMT | JavaScript Security: XSS, CSRF, and What Matters | Quaxel | [Read More](https://medium.com/p/485cfea11223) |
 | Fri, 23 Jan 2026 11:31:12 GMT | How to Build a Professional Cybersecurity Home Lab for $0 | Axoloth | [Read More](https://medium.com/p/f2ad555f0588) |
+| Fri, 23 Jan 2026 11:29:57 GMT | Counterintelligence as an Art of Indirect Power: Eastern Philosophical Foundations of Deception… | Andrey Spiridonov | [Read More](https://medium.com/p/25ef416fbd2d) |
 | Fri, 23 Jan 2026 11:28:27 GMT | A5/1 Stream Cipher: Linear-feedback Shift Register — Case Study | Journal of Landing Across Linguistic Foreground | [Read More](https://medium.com/p/c9700e9376e6) |
 | Fri, 23 Jan 2026 11:28:00 GMT | Hacker’s Manifesto | Zyekodja | [Read More](https://medium.com/p/ec5baac8c096) |
 | Fri, 23 Jan 2026 11:23:54 GMT | IA generative & misinformation: how to verify information in 2026 (a simple method, professional… | Abbas Mistrah | [Read More](https://medium.com/p/ff8777056c65) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 Jan 2026 05:52:04 GMT | Google and Epic’s Secret Deal, Copilot Everywhere, and Under Armour’s Breach - The Daily Tech… | Souren Stepanyan | [Read More](https://medium.com/p/422c9dc38ae7) |
 | Fri, 23 Jan 2026 05:51:01 GMT | Mastering HTTP Smuggling with PortSwinger Labs — I | Lakshan Sameera | [Read More](https://medium.com/p/60bbc21e7111) |
 | Fri, 23 Jan 2026 05:47:41 GMT | Secure Storage in Flutter: The Right Way to Store Secrets | Yash Patel | [Read More](https://medium.com/p/3b1b7ee766b8) |
-| Fri, 23 Jan 2026 05:45:01 GMT | Understanding John the Ripper: How Hash Cracking Works in Practice (TryHackMe) | Tejas Bhujbal | [Read More](https://medium.com/p/4c8c08277590) |
-| Fri, 23 Jan 2026 05:40:31 GMT | The Rising Importance of Network Security Services in a Hyper-Connected World | Devarshi Acharya | [Read More](https://medium.com/p/36e2d9092433) |
-| Fri, 23 Jan 2026 05:39:38 GMT | AI Deepfakes Are Harming Real People. New Federal Laws Finally Give Victims Power | "Tracey, the Safety Lady" Hawkins | [Read More](https://medium.com/p/2d2f8ddac19e) |
-| Fri, 23 Jan 2026 05:36:56 GMT | Web Security Services in 2026: The Strategic Shield Modern Businesses Can’t Ignore | Devarshi Acharya | [Read More](https://medium.com/p/9da6db3ac4b4) |
-| Fri, 23 Jan 2026 05:28:11 GMT | We hacked the AWS JavaScript SDK | Rajesh Royal | [Read More](https://medium.com/p/314b01ca153e) |
-| Fri, 23 Jan 2026 05:25:02 GMT | I Solved 92 Labs and Made $0: Why I Quit Web Hacking for Binary Exploitation | sivaaditya | [Read More](https://medium.com/p/59a2285db910) |
-| Fri, 23 Jan 2026 05:23:52 GMT | The Windows Security Journey — Static KDP (Static Kernel Data Protection) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f87f1fa74376) |
-| Fri, 23 Jan 2026 05:15:20 GMT | Wild Bug Bounty Bugs You’ve Probably Never Seen | Abhijeet kumawat | [Read More](https://medium.com/p/38c13a18a7fa) |
-| Fri, 23 Jan 2026 05:09:44 GMT | How I Decide Whether a File Is Safe (Without Trusting It for a Second) | Sujith | [Read More](https://medium.com/p/3d198cf009f5) |
-| Fri, 23 Jan 2026 05:06:41 GMT | Streamlining Hospital Operations with AI CCTV Cameras: Ensuring Safety and Efficiency | Dolon Ghosh | [Read More](https://medium.com/p/0b0e63f52335) |
-| Fri, 23 Jan 2026 05:01:57 GMT | Moving from Manual User Management to Automated Provisioning | Basitshaikh | [Read More](https://medium.com/p/8e954c8fe45a) |
-| Fri, 23 Jan 2026 04:49:37 GMT | Cloud Security in 2026 | Akalanka Dambagolla | [Read More](https://medium.com/p/dd0563ad34f3) |
-| Fri, 23 Jan 2026 04:39:05 GMT | AI-Driven Cyber Threat Detection: Evaluating Tools and Frameworks | Shamim Rajani | [Read More](https://medium.com/p/2c5c64437acb) |
-| Fri, 23 Jan 2026 04:38:14 GMT | OSINT Advice for Beginners: What I Wish I Knew When I Started | Matyas Koszegi | [Read More](https://medium.com/p/a245d49b432b) |
