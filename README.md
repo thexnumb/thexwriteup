@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 22:17:55 GMT | 09051012897شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز | شماره خاله تهران شماره خاله اصفهان شماره خاله شیرا | [Read More](https://medium.com/p/32897c267966) |
+| Fri, 23 Jan 2026 22:17:22 GMT | 09051012897شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز | شماره خاله تهران شماره خاله اصفهان شماره خاله شیرا | [Read More](https://medium.com/p/6b9330ed5d20) |
+| Fri, 23 Jan 2026 22:03:48 GMT | OpenToWork: Recruiters Tell You Not to Look Desperate. LinkedIn’s Algorithm Requires It. | Aubrey | [Read More](https://medium.com/p/47b60da9b72c) |
+| Fri, 23 Jan 2026 22:02:45 GMT | “PicoCTF: Scavenger Hunt — Mastering Web Information Disclosure” | Mahmoud Samy | [Read More](https://medium.com/p/18754d747026) |
+| Fri, 23 Jan 2026 22:01:53 GMT | LastPass Issues Critical Warning For Users  Password Attacks Underway | Moni | [Read More](https://medium.com/p/9043b47b9849) |
+| Fri, 23 Jan 2026 21:49:25 GMT | Prompt Injection Attacks Explained (With Cloud Examples). | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/b54ac4405bbe) |
+| Fri, 23 Jan 2026 21:48:21 GMT | Developing a SOC Triage Engine.. but make it agentic. | Gabriel Binion | [Read More](https://medium.com/p/b670ba74bf59) |
 | Fri, 23 Jan 2026 21:31:50 GMT | What I Learned Running Honeypots for 28 Days: Nearly 2 Million Attacks Analyzed | Thijs | [Read More](https://medium.com/p/b9bee7530132) |
 | Fri, 23 Jan 2026 21:31:37 GMT | Is Your RAG System Leaking Data? 5 Minute Security Check | Josh Gracie | [Read More](https://medium.com/p/5ed38b01f9c1) |
 | Fri, 23 Jan 2026 21:25:06 GMT | A Blueprint for Enterprise Security Architecture on the Power Platform | Damola Ojoniyi | [Read More](https://medium.com/p/141f52f8aa18) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 Jan 2026 15:32:29 GMT | Three Levels of Digital Self-Defense | Thexyz | [Read More](https://medium.com/p/59b06b23e18c) |
 | Fri, 23 Jan 2026 15:31:45 GMT | Managing and Securing VS Code Extensions at Scale | Palantir | [Read More](https://medium.com/p/b75b2cf72b02) |
 | Fri, 23 Jan 2026 15:29:49 GMT | At-Least-Once Delivery Is a Feature, Not a Bug | dolly | [Read More](https://medium.com/p/3e303fdaf8f3) |
-| Fri, 23 Jan 2026 15:27:58 GMT | Broken Access Control: How I Viewed Admin-Only Configs as a Standard Employee | Mostafa Waleed Hamed | [Read More](https://medium.com/p/83f5a1ee6a08) |
-| Fri, 23 Jan 2026 15:26:59 GMT | TryHackMe Writeup: Team | Berkay AĞGÜL | [Read More](https://medium.com/p/6cb1ab202bfa) |
-| Fri, 23 Jan 2026 15:21:41 GMT | Deploy a Complete Active Directory PenTest Lab in One Prompt with Cursor AI | Andrey Pautov | [Read More](https://medium.com/p/ff926fd2b3fc) |
-| Fri, 23 Jan 2026 15:16:36 GMT | The AI Frontier: Why We Need the Ruby Slippers | Colin O'Rourke | [Read More](https://medium.com/p/8230c2df5e7b) |
-| Fri, 23 Jan 2026 15:06:29 GMT | Reverse Engineering the PCB of a Bluetooth-Enabled TFT Rear View Mirror (7172BT) | Aaronjjose | [Read More](https://medium.com/p/90aaeb1bbcff) |
-| Fri, 23 Jan 2026 15:03:04 GMT | Cyber Briefing: 2026.01.23 | CyberMaterial | [Read More](https://medium.com/p/b75ecb1fd981) |
-| Fri, 23 Jan 2026 15:00:36 GMT | DMARC explained: the DNS record that tells email servers what to do when authentication fails | Elyvora.us | [Read More](https://medium.com/p/998d41bf7083) |
