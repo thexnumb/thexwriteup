@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 23:13:02 GMT | MITRE ATT&CK Framework Explained with Log Examples | Abhinsubej | [Read More](https://medium.com/p/fe305c121009) |
+| Fri, 23 Jan 2026 23:02:05 GMT | AI + Security for Developers: What You Must Protect From Day One | Sohit Mishra | [Read More](https://medium.com/p/b037a2c1d64f) |
+| Fri, 23 Jan 2026 22:57:18 GMT | Session-Based Authentication with Key Derivation | Omerardazorlu | [Read More](https://medium.com/p/1a15794832e4) |
+| Fri, 23 Jan 2026 22:39:38 GMT | Bypassing Rate Limit via Race Condition | Max_216 | [Read More](https://medium.com/p/2b6dcb958ffb) |
 | Fri, 23 Jan 2026 22:28:31 GMT | Containment | Kemi Wren | [Read More](https://medium.com/p/a5ac5d1dc428) |
 | Fri, 23 Jan 2026 22:28:10 GMT | Ireland’s Encryption Backdoor Bill | ⚖️ | [Read More](https://medium.com/p/b0ca1c5fa7c1) |
 | Fri, 23 Jan 2026 22:27:06 GMT | Quantum Scrambler — picoCTF 2025 Writeup | truffles | [Read More](https://medium.com/p/c6d892805c6f) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 Jan 2026 16:01:03 GMT | The AI That Watches Over Your Health (Before You and me Even Know we are Sick) | Cyber Explain | [Read More](https://medium.com/p/e8a1357633bb) |
 | Fri, 23 Jan 2026 16:01:03 GMT | Dependency Hygiene That Actually Stops Supply-Chain Attacks | Vectorlane | [Read More](https://medium.com/p/4add65923519) |
 | Fri, 23 Jan 2026 15:59:37 GMT | The Global Vanguard: 15 Nations and Companies Shaping Military Cybersecurity | Paradise technologies Inc | [Read More](https://medium.com/p/143eb8b3cc19) |
-| Fri, 23 Jan 2026 15:59:30 GMT | Threat Intelligence Dossier — “TOXICSNAKE” TDS / Loader Cluster | Macs-Hit | [Read More](https://medium.com/p/d52414ce414f) |
-| Fri, 23 Jan 2026 15:45:37 GMT | To be seen is to be conquered | Shazana Shiraz | [Read More](https://medium.com/p/1075c8aac9ee) |
-| Fri, 23 Jan 2026 15:32:31 GMT | Rethinking cold wallet security: why screens aren’t a must anymore | HASHWallet | [Read More](https://medium.com/p/55d883bc3600) |
-| Fri, 23 Jan 2026 15:32:30 GMT | What Is a Power Door Lock - How It Works & Key Benefits | Sure Lock & Key LLC | [Read More](https://medium.com/p/d8a132571130) |
