@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 07:42:59 GMT | Simple Endpoint, Critical Impact: How I Sabotaged Refunds | Samet Yiğit | [Read More](https://medium.com/p/1cd0ac7a4cb2) |
+| Fri, 23 Jan 2026 07:33:41 GMT | Building a Local AI Agent Security Lab for LLM Vulnerability Testing (Part 1) | Ankit Mishra | [Read More](https://medium.com/p/1d039348f98b) |
+| Fri, 23 Jan 2026 07:32:08 GMT | How to Start a Career in Artificial Intelligence After Graduation | cyber security Updates | [Read More](https://medium.com/p/18eff809a1ee) |
+| Fri, 23 Jan 2026 07:32:07 GMT | Reverse Engineering Fundamentals — Reading the Inside of a System | Esra Kayhan | [Read More](https://medium.com/p/6259734b7237) |
+| Fri, 23 Jan 2026 07:31:32 GMT | Creating a Phishing Kit: Understanding an Attacker’s Toolkit | Esra Kayhan | [Read More](https://medium.com/p/8d40e783a4ff) |
 | Fri, 23 Jan 2026 07:17:00 GMT | The New Guardian of Your Essentials: Celebrating Republic Day with Smart Indian Innovation! | Ramesh Raj | [Read More](https://medium.com/p/beb47a48cca9) |
 | Fri, 23 Jan 2026 07:08:08 GMT | The Corix Partners Friday Reading List — January 23, 2026 | JC Gaillard | [Read More](https://medium.com/p/3ac09e600dec) |
 | Fri, 23 Jan 2026 07:05:55 GMT | [Writeup] Proving Grounds: SPX (Linux) | Bassey Ekemini E | [Read More](https://medium.com/p/079ac421322f) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 Jan 2026 21:37:17 GMT | If You’re Vibe Coding, You’re Certainly at Risk — Let Me Explain Why | drop | [Read More](https://medium.com/p/11d0e1f88acb) |
 | Thu, 22 Jan 2026 21:30:11 GMT | E eles continuam nos espionando.. Será? | John Murowaniecki | [Read More](https://medium.com/p/3fd0a004d307) |
 | Thu, 22 Jan 2026 21:29:51 GMT | Community Building for Shopify Brands: How to Build a Thriving Community? | grande | [Read More](https://medium.com/p/0bf9f2cae257) |
-| Thu, 22 Jan 2026 21:00:51 GMT | Enterprise-Grade vs Startup Code: The Mindset Shift That Changes Everything | Ashwin Parmar | [Read More](https://medium.com/p/9d8b487e09a8) |
-| Thu, 22 Jan 2026 20:57:03 GMT | AI Detection Tools | Shailendra Kumar | [Read More](https://medium.com/p/1e3cc93994e5) |
-| Thu, 22 Jan 2026 20:50:18 GMT | ArgoCD’s Hidden Dex Problem: When SSO Becomes a Security Liability | Sadi Zane | [Read More](https://medium.com/p/1cadfee239de) |
-| Thu, 22 Jan 2026 20:35:38 GMT | Cyber Attacks That Don’t Break Systems but Desynchronize Them | Muhammad Ali Khan | [Read More](https://medium.com/p/c8d7aa7ec24e) |
-| Thu, 22 Jan 2026 20:31:35 GMT | How our browsers find the websites? DNS | Nargiz Heydarova | [Read More](https://medium.com/p/78d1d3be7541) |
