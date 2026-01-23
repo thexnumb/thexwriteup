@@ -12,10 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 15:32:31 GMT | Rethinking cold wallet security: why screens aren’t a must anymore | HASHWallet | [Read More](https://medium.com/p/55d883bc3600) |
+| Fri, 23 Jan 2026 15:32:30 GMT | What Is a Power Door Lock - How It Works & Key Benefits | Sure Lock & Key LLC | [Read More](https://medium.com/p/d8a132571130) |
+| Fri, 23 Jan 2026 15:32:30 GMT | Browser Wars, Continued: Why Everyone Is Building Their Own AI Browser | SquareX | [Read More](https://medium.com/p/2803d6584c46) |
+| Fri, 23 Jan 2026 15:32:30 GMT | Webhooks That Don’t Get You Pwned in n8n | Duckweave | [Read More](https://medium.com/p/0f26c603f639) |
+| Fri, 23 Jan 2026 15:32:29 GMT | When Your AI Edits Code, Who Holds the Seatbelt? | Thinking Loop | [Read More](https://medium.com/p/12c0f670cee1) |
+| Fri, 23 Jan 2026 15:32:29 GMT | Three Levels of Digital Self-Defense | Thexyz | [Read More](https://medium.com/p/59b06b23e18c) |
+| Fri, 23 Jan 2026 15:31:45 GMT | Managing and Securing VS Code Extensions at Scale | Palantir | [Read More](https://medium.com/p/b75b2cf72b02) |
+| Fri, 23 Jan 2026 15:29:49 GMT | At-Least-Once Delivery Is a Feature, Not a Bug | dolly | [Read More](https://medium.com/p/3e303fdaf8f3) |
+| Fri, 23 Jan 2026 15:27:58 GMT | Broken Access Control: How I Viewed Admin-Only Configs as a Standard Employee | Mostafa Waleed Hamed | [Read More](https://medium.com/p/83f5a1ee6a08) |
+| Fri, 23 Jan 2026 15:26:59 GMT | TryHackMe Writeup: Team | Berkay AĞGÜL | [Read More](https://medium.com/p/6cb1ab202bfa) |
+| Fri, 23 Jan 2026 15:21:41 GMT | Deploy a Complete Active Directory PenTest Lab in One Prompt with Cursor AI | Andrey Pautov | [Read More](https://medium.com/p/ff926fd2b3fc) |
+| Fri, 23 Jan 2026 15:16:36 GMT | The AI Frontier: Why We Need the Ruby Slippers | Colin O'Rourke | [Read More](https://medium.com/p/8230c2df5e7b) |
 | Fri, 23 Jan 2026 15:06:29 GMT | Reverse Engineering the PCB of a Bluetooth-Enabled TFT Rear View Mirror (7172BT) | Aaronjjose | [Read More](https://medium.com/p/90aaeb1bbcff) |
 | Fri, 23 Jan 2026 15:03:04 GMT | Cyber Briefing: 2026.01.23 | CyberMaterial | [Read More](https://medium.com/p/b75ecb1fd981) |
 | Fri, 23 Jan 2026 15:00:36 GMT | DMARC explained: the DNS record that tells email servers what to do when authentication fails | Elyvora.us | [Read More](https://medium.com/p/998d41bf7083) |
 | Fri, 23 Jan 2026 14:54:15 GMT | New Mac Setup For Speed, Privacy, and Stability | Geoffrey Wenger | [Read More](https://medium.com/p/17811991074e) |
+| Fri, 23 Jan 2026 14:50:58 GMT | API 大解密: 其實你每天可能用到數十次 API，卻完全沒察覺 | 思維舞步 MindSteps | [Read More](https://medium.com/p/57cf43264e8d) |
 | Fri, 23 Jan 2026 14:44:28 GMT | I’ve Seen Hundreds of Cybersecurity Careers. These Are the Patterns Behind Long-Term Growth | Taimur Ijlal | [Read More](https://medium.com/p/a86015c70f0d) |
 | Fri, 23 Jan 2026 14:43:42 GMT | PicoCTF: Forky ( Difficulty: Hard ) Reverse Engineering | Yasin Arafat Tanim | [Read More](https://medium.com/p/3b204cfc0ff7) |
 | Fri, 23 Jan 2026 14:32:25 GMT | How to Install Kali Linux as a Virtual Machine: A Step-by-Step Guide | Vignesh R | [Read More](https://medium.com/p/3ccf0b9f66cc) |
@@ -101,16 +114,3 @@ An accountant at the organization… | Elallam | [Read More](https://medium.com/
 | Fri, 23 Jan 2026 09:22:27 GMT | Advanced Workflow Automation Solutions by N8N Developers | n8ndevelopers | [Read More](https://medium.com/p/3d194495f92d) |
 | Fri, 23 Jan 2026 09:17:52 GMT | Authentication | Nidhisharma Freelancework | [Read More](https://medium.com/p/b1ba36c2d804) |
 | Fri, 23 Jan 2026 09:08:32 GMT | How a Single Phishing Email Can Leak Your Entire Customer Database (And How to Stop It) | Aysha Saifi | [Read More](https://medium.com/p/92332e80ca74) |
-| Fri, 23 Jan 2026 09:08:00 GMT | Post Board Writeup — MobileHackingLab | محمد بن إبراهيم | [Read More](https://medium.com/p/ce045b6db36c) |
-| Fri, 23 Jan 2026 09:07:22 GMT | The API Key Fallacy: “Developers Know Better” Meets Chat Reality | Sami | [Read More](https://medium.com/p/ea9c8bde0f2a) |
-| Fri, 23 Jan 2026 09:05:28 GMT | Cyber Defense Frameworks (Pyramid of Pain) | Ahmad Khaled | [Read More](https://medium.com/p/77a814692c9b) |
-| Fri, 23 Jan 2026 09:04:32 GMT | [Writeup] Proving Grounds: Jordak (Linux) | Bassey Ekemini E | [Read More](https://medium.com/p/2dca821de868) |
-| Fri, 23 Jan 2026 09:02:43 GMT | The Quiet Lessons Of People Watching | The Stone I Carry | [Read More](https://medium.com/p/4673997b0991) |
-| Fri, 23 Jan 2026 09:02:37 GMT | The 3 Credential Leaks That Auditors Always Ask About | Alexandre Vandamme | [Read More](https://medium.com/p/9f77dc07bfff) |
-| Fri, 23 Jan 2026 09:00:09 GMT | The Air is Hostile: Why Hackers Have Abandoned Your Router to Target Your Pocket | Youssef Mohammed | [Read More](https://medium.com/p/588891ee820d) |
-| Fri, 23 Jan 2026 08:58:11 GMT | Reconsidering the Mall Cop: From Absurd Trope to Philosophical Necessity | Carl Frank | [Read More](https://medium.com/p/52dbcc4aa95b) |
-| Fri, 23 Jan 2026 08:54:44 GMT | Can Linux Catch a Virus, Or Is It Immune? | Redfox Security | [Read More](https://medium.com/p/44730b02f2fb) |
-| Fri, 23 Jan 2026 08:49:46 GMT | Certified Penetration Testing Professional - CPENT - EC-Council | Shreyashettyctr | [Read More](https://medium.com/p/dbef1d5efcbe) |
-| Fri, 23 Jan 2026 08:49:37 GMT | n8n: CVE-2025–68613 | Aaronashley | [Read More](https://medium.com/p/35389de65cde) |
-| Fri, 23 Jan 2026 08:44:54 GMT | HackTheBox Sherlock Ruse: A macOS forensic journey through deception and persistence | Telynor | [Read More](https://medium.com/p/452f72b7aca7) |
-| Fri, 23 Jan 2026 08:42:15 GMT | Types of Malware Explained — Viruses, Worms, Ransomware & Spyware | Shadow Attackers | [Read More](https://medium.com/p/3592a5d743b1) |
