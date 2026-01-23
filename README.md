@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 04:39:05 GMT | AI-Driven Cyber Threat Detection: Evaluating Tools and Frameworks | Shamim Rajani | [Read More](https://medium.com/p/2c5c64437acb) |
+| Fri, 23 Jan 2026 04:38:14 GMT | OSINT Advice for Beginners: What I Wish I Knew When I Started | Matyas Koszegi | [Read More](https://medium.com/p/a245d49b432b) |
+| Fri, 23 Jan 2026 04:29:50 GMT | Your Development Environment Is a Security Risk: What Every Android Developer Needs to Know | Sanath Sajeeva Kumara | [Read More](https://medium.com/p/33eda4ee9ac4) |
+| Fri, 23 Jan 2026 04:13:50 GMT | Why Security Must Be Sustainable — Incentives as a Structural Requirement | sengom | [Read More](https://medium.com/p/c833eda37b5e) |
+| Fri, 23 Jan 2026 04:12:57 GMT | How Security Evolves — Distributed Threat Learning Without Central Control | sengom | [Read More](https://medium.com/p/8db1de6e603a) |
+| Fri, 23 Jan 2026 04:12:55 GMT | CVSS and Vulnerability Management | Grace T | [Read More](https://medium.com/p/2e11242f85c5) |
+| Fri, 23 Jan 2026 04:09:22 GMT | What is Behind: AIPromptGrader™ | Nikolay Gul | [Read More](https://medium.com/p/a12c3458ebae) |
+| Fri, 23 Jan 2026 04:02:48 GMT | AI Can Now Find Hidden Software Flaws… and Control Your Computer | The Political Nexus | [Read More](https://medium.com/p/6102064486e8) |
+| Fri, 23 Jan 2026 03:45:28 GMT | Cracking the DarkMatter Ransomware: A CTF Walkthrough | Hemantha Krishna Challa | [Read More](https://medium.com/p/bd731bb74f57) |
+| Fri, 23 Jan 2026 03:43:24 GMT | From IT Technician to Junior SOC Analyst: Documenting My Cybersecurity Journey | Alfredo Zablah | [Read More](https://medium.com/p/6882aca6a10b) |
+| Fri, 23 Jan 2026 03:42:25 GMT | สรุปบทเรียน Security Literacy จาก MyOrder Workshop เมื่อความปลอดภัยเป็นเรื่องของ “ทุกคน” | Rachata Khawngam | [Read More](https://medium.com/p/e76ebd86af02) |
 | Fri, 23 Jan 2026 03:41:57 GMT | The Growing Threat Landscape of Browser Extensions — How Trusted Tools Turned Into Attack Vectors | Paritosh | [Read More](https://medium.com/p/3f8c2bacf1ba) |
+| Fri, 23 Jan 2026 03:38:41 GMT | The Most Common Risk when Using the Solmate Library — Smart Contract Vulnerability Labeling 101 | Alice Hsu | [Read More](https://medium.com/p/c3a219b6851b) |
 | Fri, 23 Jan 2026 03:34:55 GMT | Tech Knowledge Transfer — Here’s Why You’re Stuck | John Anderson | [Read More](https://medium.com/p/1e164f8ecc07) |
 | Fri, 23 Jan 2026 03:33:07 GMT | 10 Tips for Managing Shared Database Anti-Patterns | Arunangshu Das | [Read More](https://medium.com/p/4cf5619f8ad7) |
 | Fri, 23 Jan 2026 03:33:06 GMT | ₹22 Crore Lost Without a Hack: How a Messaging App Investment Trap Fooled a Retired Entrepreneur | Deven Chhajed | [Read More](https://medium.com/p/765741a600bc) |
@@ -24,6 +36,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 Jan 2026 02:29:33 GMT | How much 2FA annoys me | Anton Minin Baranovskii | [Read More](https://medium.com/p/e1c7dd3bff43) |
 | Fri, 23 Jan 2026 02:22:50 GMT | DAY-1(RUST PROGRAMMING) | vulnhunter | [Read More](https://medium.com/p/d1b4a7dc3346) |
 | Fri, 23 Jan 2026 02:05:52 GMT | Smart Authentication, Mindful by Design | Anton Minin Baranovskii | [Read More](https://medium.com/p/ae46c623e6e6) |
+| Fri, 23 Jan 2026 01:53:24 GMT | Beyond the Black Box: Why Explainable Security Matters More Than Scale | Juan David Correa Landreau | [Read More](https://medium.com/p/2e441ed95036) |
 | Fri, 23 Jan 2026 01:53:01 GMT | Having Children: Parenting Choices, Family Planning, and Old Age Security | Hanpis | [Read More](https://medium.com/p/5736a8fb624f) |
 | Fri, 23 Jan 2026 01:41:12 GMT | (AI) Security is about Helping Everyone Else | David Anderson | [Read More](https://medium.com/p/0f2e73a6b46c) |
 | Fri, 23 Jan 2026 01:22:21 GMT | SSL Labs Explained: How to Test and Improve Your Website’s HTTPS Security | Dennis Duke | [Read More](https://medium.com/p/9a1de09d9b0e) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 Jan 2026 18:03:03 GMT | How Attackers Exploit Cloud Misconfigurations | Vasantheeswaran | [Read More](https://medium.com/p/adf4212543d2) |
 | Thu, 22 Jan 2026 18:01:57 GMT | How Hackers Attack Websites — and How to Protect Yours | Saqib Naseer | [Read More](https://medium.com/p/1479992fcf43) |
 | Thu, 22 Jan 2026 18:01:55 GMT | Oracle’s January 2026 Patch Flood | Andis Paudel | [Read More](https://medium.com/p/64232910b77b) |
-| Thu, 22 Jan 2026 18:00:27 GMT | Deconstructing Detection Logic in Windows Environments-Part 3 | Manish [pikachu] | [Read More](https://medium.com/p/3121bfe33705) |
-| Thu, 22 Jan 2026 17:59:58 GMT | I Let AI Scan the Internet for Bugs - It Ended Up Finding Real Vulnerabilities | Fazal PS | [Read More](https://medium.com/p/4709ba5f35e0) |
-| Thu, 22 Jan 2026 17:58:27 GMT | Your Smartphone Is Spying on You More Than You Think — and You Agreed to It | Nazrul Islam Rana | [Read More](https://medium.com/p/0fe1356ac8d5) |
-| Thu, 22 Jan 2026 17:57:48 GMT | Analyzing RDP Attack Behavior Using Honeypot Data | berke bodur | [Read More](https://medium.com/p/5451b49b6621) |
-| Thu, 22 Jan 2026 17:56:28 GMT | Debunking Disaster Recovery Myths for Mainframe Users | PSR Incorporated | [Read More](https://medium.com/p/256393a3b82d) |
-| Thu, 22 Jan 2026 17:55:39 GMT | Parasitic Synthetic Intelligence (PSI) — A New Parasitic Class of Artificial Intelligence | David Centineo | [Read More](https://medium.com/p/b379f5c1d63c) |
-| Thu, 22 Jan 2026 17:43:11 GMT | Bug Bounty Isn’t About Speed — It’s About Seeing What Others Ignore | Iski | [Read More](https://medium.com/p/1b99396cdd6c) |
-| Thu, 22 Jan 2026 17:43:01 GMT | AI Supercomputing Platforms for Real-Time Security Analytics | Digital Defense | [Read More](https://medium.com/p/4dc906751388) |
-| Thu, 22 Jan 2026 17:41:52 GMT | Web2 Threat Models Don’t Survive Web3 | Veretin Cybersecurity | [Read More](https://medium.com/p/015a9281c32c) |
-| Thu, 22 Jan 2026 17:35:20 GMT | Github Copilot Says-Its SQL Injection and Lead to Security Risk | Umesh Nagar | [Read More](https://medium.com/p/80160703e4a5) |
-| Thu, 22 Jan 2026 17:32:36 GMT | Zero Trust Security: A Fundamental Mindset Shift | Volkan | [Read More](https://medium.com/p/5b90707ca356) |
-| Thu, 22 Jan 2026 17:32:11 GMT | Why Being Wrong in Public Changes Everything | Vijay Kumar Gupta | [Read More](https://medium.com/p/859cfdccf921) |
-| Thu, 22 Jan 2026 17:29:35 GMT | Unpacking Microsoft Defender for Office 365: Week 2, Day 6 SOC Triage—Defender for Office… | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/11ff5140170e) |
