@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 10:39:54 GMT | Why Does Choosing the Right Security Partner Matter So Much? | Luke Appleby | [Read More](https://medium.com/p/a2aedc99daa5) |
+| Fri, 23 Jan 2026 10:38:10 GMT | Experience the Best Smart Home Automation in Dubai and Best CCTV System in UAE | techfra solutions | [Read More](https://medium.com/p/d33cce069318) |
+| Fri, 23 Jan 2026 10:37:00 GMT | QA Engineering with a Forensic Mindset: Protecting Your Institution's Integrity | Romoaldo Doliz | [Read More](https://medium.com/p/3add51a45ee9) |
 | Fri, 23 Jan 2026 10:17:13 GMT | Border Security Technologies Market Size to Surpass USD 71.92 Billion by 2035 | Akshay Dhamal | [Read More](https://medium.com/p/1b9f560b421f) |
 | Fri, 23 Jan 2026 10:08:39 GMT | The 10 Most Dangerous Hacking Devices | mohandika | [Read More](https://medium.com/p/d75af50c0122) |
 | Fri, 23 Jan 2026 10:08:12 GMT | Hotel Security Guard in Houston | Security Houston | [Read More](https://medium.com/p/17799d8c6d7c) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 Jan 2026 03:12:58 GMT | ประจำวันศุกร์ที่ 23 มกราคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/ecddd974ff0c) |
 | Fri, 23 Jan 2026 03:02:02 GMT | 2026 จะไม่ใช่ปีของ AI ที่ตอบเก่ง แต่คือปีของ AI ที่ “ลงมือทำ” และนี่คือสิ่งที่ Dev ต้องระวัง | Krungsri Nimble | [Read More](https://medium.com/p/ba20a3a9f4c4) |
 | Fri, 23 Jan 2026 02:55:17 GMT | The Art of Manual Mapping: Bypassing the Windows Loader for Stealthy Code Execution | Bassam Hossam | [Read More](https://medium.com/p/a615c3572eaf) |
-| Fri, 23 Jan 2026 02:29:33 GMT | How much 2FA annoys me | Anton Minin Baranovskii | [Read More](https://medium.com/p/e1c7dd3bff43) |
-| Fri, 23 Jan 2026 02:22:50 GMT | DAY-1(RUST PROGRAMMING) | vulnhunter | [Read More](https://medium.com/p/d1b4a7dc3346) |
-| Fri, 23 Jan 2026 02:05:52 GMT | Smart Authentication, Mindful by Design | Anton Minin Baranovskii | [Read More](https://medium.com/p/ae46c623e6e6) |
