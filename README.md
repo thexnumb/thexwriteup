@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 21:31:50 GMT | What I Learned Running Honeypots for 28 Days: Nearly 2 Million Attacks Analyzed | Thijs | [Read More](https://medium.com/p/b9bee7530132) |
+| Fri, 23 Jan 2026 21:31:37 GMT | Is Your RAG System Leaking Data? 5 Minute Security Check | Josh Gracie | [Read More](https://medium.com/p/5ed38b01f9c1) |
+| Fri, 23 Jan 2026 21:25:06 GMT | A Blueprint for Enterprise Security Architecture on the Power Platform | Damola Ojoniyi | [Read More](https://medium.com/p/141f52f8aa18) |
+| Fri, 23 Jan 2026 21:24:31 GMT | Securing AI Pipelines on AWS, Azure, and GCP | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/32e1606bd91f) |
 | Fri, 23 Jan 2026 21:09:23 GMT | LIST OF IPHONES THAT ARE JAILBREAKBLE | Maxwell | [Read More](https://medium.com/p/a04118d9cabd) |
 | Fri, 23 Jan 2026 21:07:07 GMT | Hello MCP: Debugging and Testing | Alessandro | [Read More](https://medium.com/p/f1da3b0e9288) |
 | Fri, 23 Jan 2026 21:06:00 GMT | Cybersecurity 101 | Ajibola Jr. | [Read More](https://medium.com/p/a8b4ca457c49) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 Jan 2026 15:06:29 GMT | Reverse Engineering the PCB of a Bluetooth-Enabled TFT Rear View Mirror (7172BT) | Aaronjjose | [Read More](https://medium.com/p/90aaeb1bbcff) |
 | Fri, 23 Jan 2026 15:03:04 GMT | Cyber Briefing: 2026.01.23 | CyberMaterial | [Read More](https://medium.com/p/b75ecb1fd981) |
 | Fri, 23 Jan 2026 15:00:36 GMT | DMARC explained: the DNS record that tells email servers what to do when authentication fails | Elyvora.us | [Read More](https://medium.com/p/998d41bf7083) |
-| Fri, 23 Jan 2026 14:54:15 GMT | New Mac Setup For Speed, Privacy, and Stability | Geoffrey Wenger | [Read More](https://medium.com/p/17811991074e) |
-| Fri, 23 Jan 2026 14:50:58 GMT | API 大解密: 其實你每天可能用到數十次 API，卻完全沒察覺 | 思維舞步 MindSteps | [Read More](https://medium.com/p/57cf43264e8d) |
-| Fri, 23 Jan 2026 14:44:28 GMT | I’ve Seen Hundreds of Cybersecurity Careers. These Are the Patterns Behind Long-Term Growth | Taimur Ijlal | [Read More](https://medium.com/p/a86015c70f0d) |
-| Fri, 23 Jan 2026 14:43:42 GMT | PicoCTF: Forky ( Difficulty: Hard ) Reverse Engineering | Yasin Arafat Tanim | [Read More](https://medium.com/p/3b204cfc0ff7) |
