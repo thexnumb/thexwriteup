@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 03:41:57 GMT | The Growing Threat Landscape of Browser Extensions — How Trusted Tools Turned Into Attack Vectors | Paritosh | [Read More](https://medium.com/p/3f8c2bacf1ba) |
+| Fri, 23 Jan 2026 03:34:55 GMT | Tech Knowledge Transfer — Here’s Why You’re Stuck | John Anderson | [Read More](https://medium.com/p/1e164f8ecc07) |
+| Fri, 23 Jan 2026 03:33:07 GMT | 10 Tips for Managing Shared Database Anti-Patterns | Arunangshu Das | [Read More](https://medium.com/p/4cf5619f8ad7) |
+| Fri, 23 Jan 2026 03:33:06 GMT | ₹22 Crore Lost Without a Hack: How a Messaging App Investment Trap Fooled a Retired Entrepreneur | Deven Chhajed | [Read More](https://medium.com/p/765741a600bc) |
+| Fri, 23 Jan 2026 03:31:20 GMT | Unlocking the Power of Nessus: Advanced Techniques for Real-World Pentesters ⚔️ | Cybeague Technologies | [Read More](https://medium.com/p/047a96e02ea8) |
+| Fri, 23 Jan 2026 03:30:42 GMT | Getting Started with Nessus: Your Fast Lane to Vulnerability Scanning | Cybeague Technologies | [Read More](https://medium.com/p/1a777b71d2e1) |
+| Fri, 23 Jan 2026 03:12:58 GMT | ประจำวันศุกร์ที่ 23 มกราคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/ecddd974ff0c) |
+| Fri, 23 Jan 2026 03:02:02 GMT | 2026 จะไม่ใช่ปีของ AI ที่ตอบเก่ง แต่คือปีของ AI ที่ “ลงมือทำ” และนี่คือสิ่งที่ Dev ต้องระวัง | Krungsri Nimble | [Read More](https://medium.com/p/ba20a3a9f4c4) |
+| Fri, 23 Jan 2026 02:55:17 GMT | The Art of Manual Mapping: Bypassing the Windows Loader for Stealthy Code Execution | Bassam Hossam | [Read More](https://medium.com/p/a615c3572eaf) |
+| Fri, 23 Jan 2026 02:29:33 GMT | How much 2FA annoys me | Anton Minin Baranovskii | [Read More](https://medium.com/p/e1c7dd3bff43) |
+| Fri, 23 Jan 2026 02:22:50 GMT | DAY-1(RUST PROGRAMMING) | vulnhunter | [Read More](https://medium.com/p/d1b4a7dc3346) |
+| Fri, 23 Jan 2026 02:05:52 GMT | Smart Authentication, Mindful by Design | Anton Minin Baranovskii | [Read More](https://medium.com/p/ae46c623e6e6) |
 | Fri, 23 Jan 2026 01:53:01 GMT | Having Children: Parenting Choices, Family Planning, and Old Age Security | Hanpis | [Read More](https://medium.com/p/5736a8fb624f) |
 | Fri, 23 Jan 2026 01:41:12 GMT | (AI) Security is about Helping Everyone Else | David Anderson | [Read More](https://medium.com/p/0f2e73a6b46c) |
 | Fri, 23 Jan 2026 01:22:21 GMT | SSL Labs Explained: How to Test and Improve Your Website’s HTTPS Security | Dennis Duke | [Read More](https://medium.com/p/9a1de09d9b0e) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 Jan 2026 17:32:36 GMT | Zero Trust Security: A Fundamental Mindset Shift | Volkan | [Read More](https://medium.com/p/5b90707ca356) |
 | Thu, 22 Jan 2026 17:32:11 GMT | Why Being Wrong in Public Changes Everything | Vijay Kumar Gupta | [Read More](https://medium.com/p/859cfdccf921) |
 | Thu, 22 Jan 2026 17:29:35 GMT | Unpacking Microsoft Defender for Office 365: Week 2, Day 6 SOC Triage—Defender for Office… | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/11ff5140170e) |
-| Thu, 22 Jan 2026 17:23:22 GMT | What We Try to Hide Is Usually What Shows First | Writing in the shivering Moonlight | [Read More](https://medium.com/p/c5d7afc7044e) |
-| Thu, 22 Jan 2026 17:21:02 GMT | Why FMCSA’s Broken Data Is a Gift to Freight Fraudsters | Heesham Naji | [Read More](https://medium.com/p/43a08ebaf67e) |
-| Thu, 22 Jan 2026 17:20:14 GMT | From Docker Hub to Chainguard: A Vulnerability Reduction Experiment | Ivan Karpenko | [Read More](https://medium.com/p/29d5e04c8029) |
-| Thu, 22 Jan 2026 17:15:54 GMT | FULL ACCOUNT WILL DIE | Omar Mahmoud | [Read More](https://medium.com/p/ce9958bccb8b) |
-| Thu, 22 Jan 2026 17:12:36 GMT | DNS: Niyə Kompyuterlər Bizim Kimi Ağıllı Deyil? | Gunash | [Read More](https://medium.com/p/ff2adb12d080) |
-| Thu, 22 Jan 2026 17:06:46 GMT | Authentication vs Authorization: Where Systems Actually Break | Daniel Isaac E | [Read More](https://medium.com/p/adefb1040a24) |
-| Thu, 22 Jan 2026 17:04:39 GMT | eJPT in 60 Days: A Beginner-Friendly Guide to Ethical Hacking | Nagarjunht | [Read More](https://medium.com/p/c784e65d9eb0) |
-| Thu, 22 Jan 2026 17:04:04 GMT | Tricking the Tricksters: A Dark Web Thought Experiment in Futility? | Justas_b_2 | [Read More](https://medium.com/p/c7661da569f5) |
-| Thu, 22 Jan 2026 16:49:44 GMT | Critical Chainlit AI Framework Vulnerabilities Expose Cloud Environments to Security Risks | Technijian | [Read More](https://medium.com/p/e891d8ca5e34) |
-| Thu, 22 Jan 2026 16:48:09 GMT | Usage Machine Walkthrough/Explanation | Brian Courtney | [Read More](https://medium.com/p/a81e020409ae) |
-| Thu, 22 Jan 2026 16:45:44 GMT | When the Screen Goes Dark: Your 2026 Guide to Cyber Adversity | Xaltius | [Read More](https://medium.com/p/b9d526a7406e) |
-| Thu, 22 Jan 2026 16:42:00 GMT | What DevSecOps Really Means (And Why DevOps Alone Is Not Enough) | SwayamOps | [Read More](https://medium.com/p/38e0cd6b6d72) |
