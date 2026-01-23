@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 20:47:11 GMT | From a Click to a Crisis: Understanding a Real-World Emotet to Ransomware Attack | Sree_lakshmi | [Read More](https://medium.com/p/5ccdd524b3b5) |
+| Fri, 23 Jan 2026 20:47:03 GMT | The SKBD Map can display target geographic locations on an interactive map, allowing users to… | Мартин. | [Read More](https://medium.com/p/6c97a977fca1) |
+| Fri, 23 Jan 2026 20:37:55 GMT | Immediately check your server!!! | Мартин. | [Read More](https://medium.com/p/f9e1e8f895cb) |
+| Fri, 23 Jan 2026 20:37:50 GMT | ICMP Protocol Explained: Common Message Types and Attacks | George Samir | [Read More](https://medium.com/p/af46d4ed063b) |
+| Fri, 23 Jan 2026 20:35:22 GMT | ‍☠️Penetration Testing: AI-Driven vs Manual | Taha Ex | [Read More](https://medium.com/p/b3aead1aaefe) |
+| Fri, 23 Jan 2026 20:31:19 GMT | The Measurement Illusion in DevSecOps | Xiaoning Sun | [Read More](https://medium.com/p/7cf5088bea5b) |
 | Fri, 23 Jan 2026 20:18:09 GMT | How I Passed the CompTIA Security+ (SY0–701) — Study Plan, Resources & Exam-Day Strategy | Jufagax | [Read More](https://medium.com/p/ef5528bca6a6) |
+| Fri, 23 Jan 2026 20:17:07 GMT | Top 5 Practical Uses of curl Every Engineer Should Know | Taha Ex | [Read More](https://medium.com/p/773207b90006) |
 | Fri, 23 Jan 2026 20:12:14 GMT | LetsDefend Challenge: Brute Force Attacks | Ravan Qurbanov | [Read More](https://medium.com/p/be954630d644) |
 | Fri, 23 Jan 2026 20:06:35 GMT | Hackers Hate This Free Tool: Expose Hidden Web Attack Surfaces in Minutes! | cybrNK | [Read More](https://medium.com/p/749f8fd325cd) |
 | Fri, 23 Jan 2026 20:04:41 GMT | Cracking the Dev Box: From NFS Misconfiguration to Sudo Zip Escalation | Hemantha Krishna Challa | [Read More](https://medium.com/p/6eec4fa20cca) |
@@ -105,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 Jan 2026 14:28:32 GMT | USCSI® Cybersecurity Learning Series — Part 1: Elevate Your Cybersecurity Career with CCC™… | Lucia Adams | [Read More](https://medium.com/p/9bc506f05933) |
 | Fri, 23 Jan 2026 14:18:40 GMT | AI Honeypots: Turning Attackers into Your New Data Source | Chet Windell | [Read More](https://medium.com/p/c3040aecc8a8) |
 | Fri, 23 Jan 2026 14:16:26 GMT | Is Your Body a Project or a Home? | LiNj Mwangi | [Read More](https://medium.com/p/6d9b498faa66) |
-| Fri, 23 Jan 2026 14:12:40 GMT | HawkEye Lab – Network Traffic Analysis Write‑up
-Scenario
-An accountant at the organization… | Elallam | [Read More](https://medium.com/p/692b32829d9e) |
-| Fri, 23 Jan 2026 14:11:18 GMT | Nisanur Bahadır Kimdir? | Nisanur Bahadır | [Read More](https://medium.com/p/7a193f66c59b) |
-| Fri, 23 Jan 2026 14:02:57 GMT | ISC² CISSP Exam: From Operations to Strategic Leadership (Part 3) | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/a7d3782ce685) |
-| Fri, 23 Jan 2026 14:02:29 GMT | Web Security 101: Part 3 - Cross-Site Scripting (XSS): When Input Becomes Code | Nithishraina | [Read More](https://medium.com/p/8d4471fef6ad) |
-| Fri, 23 Jan 2026 14:01:48 GMT | Is Using a VPN Legal in the UK? (2026 Guide) | Sean Harding | [Read More](https://medium.com/p/a278a08d7d0d) |
-| Fri, 23 Jan 2026 14:01:45 GMT | Pay attention to every detail, that’s it! | Abhirup Konwar | [Read More](https://medium.com/p/550260c03b61) |
-| Fri, 23 Jan 2026 14:01:17 GMT | How to create a cyber news aggregator in Tines | h@shtalk | [Read More](https://medium.com/p/93418c8b93ed) |
