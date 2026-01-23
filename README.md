@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 08:26:50 GMT | What happened | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/869ba7928938) |
+| Fri, 23 Jan 2026 08:25:45 GMT | LLMs and GENAI Apps: Risk & Mitigations — Part 8: System Prompt Leakage! | Nothing Cyber [NC] | [Read More](https://medium.com/p/20a78358cf06) |
+| Fri, 23 Jan 2026 08:07:20 GMT | All You Need to Know About AWS IAM: A Complete Guide | Himansrivastava | [Read More](https://medium.com/p/c85ead6124dd) |
+| Fri, 23 Jan 2026 08:04:16 GMT | CVE-2026–24061: The GNU InetUtils telnetd Bug That Lets Attackers Log In as root (No Password) | Germano Costi | [Read More](https://medium.com/p/6ca3855432b1) |
+| Fri, 23 Jan 2026 07:53:56 GMT | Understanding Privileged Access | Rudratic Technologies | [Read More](https://medium.com/p/6911b06859c5) |
 | Fri, 23 Jan 2026 07:42:59 GMT | Simple Endpoint, Critical Impact: How I Sabotaged Refunds | Samet Yiğit | [Read More](https://medium.com/p/1cd0ac7a4cb2) |
 | Fri, 23 Jan 2026 07:33:41 GMT | Building a Local AI Agent Security Lab for LLM Vulnerability Testing (Part 1) | Ankit Mishra | [Read More](https://medium.com/p/1d039348f98b) |
 | Fri, 23 Jan 2026 07:32:08 GMT | How to Start a Career in Artificial Intelligence After Graduation | cyber security Updates | [Read More](https://medium.com/p/18eff809a1ee) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 Jan 2026 22:06:48 GMT | Corridor - TryHackMe Walkthrough | Nasir Ahim | [Read More](https://medium.com/p/b9364fdbf03f) |
 | Thu, 22 Jan 2026 22:02:56 GMT | Intel Struggles to Keep Up With AI Data Center Demand | Tech News | [Read More](https://medium.com/p/85b8df7153b8) |
 | Thu, 22 Jan 2026 21:54:40 GMT | Rate Limiting Bypass | FeritÖzner | [Read More](https://medium.com/p/667421261ea1) |
-| Thu, 22 Jan 2026 21:53:55 GMT | WAF Bypass | FeritÖzner | [Read More](https://medium.com/p/d2a196ccc062) |
-| Thu, 22 Jan 2026 21:46:03 GMT | HackTheBox: Cap | Root_Fabric | [Read More](https://medium.com/p/0cb909d8a64f) |
-| Thu, 22 Jan 2026 21:37:17 GMT | If You’re Vibe Coding, You’re Certainly at Risk — Let Me Explain Why | drop | [Read More](https://medium.com/p/11d0e1f88acb) |
-| Thu, 22 Jan 2026 21:30:11 GMT | E eles continuam nos espionando.. Será? | John Murowaniecki | [Read More](https://medium.com/p/3fd0a004d307) |
-| Thu, 22 Jan 2026 21:29:51 GMT | Community Building for Shopify Brands: How to Build a Thriving Community? | grande | [Read More](https://medium.com/p/0bf9f2cae257) |
