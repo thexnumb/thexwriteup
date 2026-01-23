@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 18:30:34 GMT | Hacker’s Shadow: Why Modern Cybersecurity Requires Thinking Like the Adversary | CyberForenx | [Read More](https://medium.com/p/bfbfa722a9d9) |
+| Fri, 23 Jan 2026 18:23:19 GMT | Secure by design: building and governing trusted agentic systems | Alipouw | [Read More](https://medium.com/p/9069746aa346) |
+| Fri, 23 Jan 2026 18:21:06 GMT | I’m a Pathological Liar to Myself | KV | [Read More](https://medium.com/p/02254013906f) |
+| Fri, 23 Jan 2026 18:18:54 GMT | The Only Audience That Mattered | RTUJr. | [Read More](https://medium.com/p/dccda0d19cae) |
+| Fri, 23 Jan 2026 18:11:49 GMT | Apple Pay vs. Google Pay: The Hardware vs. Cloud Security Showdown. | Dimitrios Misios | [Read More](https://medium.com/p/e9e479809cb6) |
+| Fri, 23 Jan 2026 18:10:40 GMT | When Sex Loses Its Meaning After Love | A Rayan | [Read More](https://medium.com/p/8c44e899064e) |
+| Fri, 23 Jan 2026 18:00:07 GMT | Microsoft Sentinel Threat Intelligence mapping to the SharePoint file external sharing | Bartosz Turek | [Read More](https://medium.com/p/86f48579abe7) |
+| Fri, 23 Jan 2026 17:58:35 GMT | Intrusion Detection System (IDS) and why a firewall alone won’t prevent you from attacks | Ajibola Jr. | [Read More](https://medium.com/p/893b782bcb26) |
+| Fri, 23 Jan 2026 17:49:21 GMT | “Bug Bounty Bootcamp #20: CSRF — The Silent Attack That Makes Users Work for the Hacker” | Aman Sharma | [Read More](https://medium.com/p/442596225c23) |
 | Fri, 23 Jan 2026 17:40:53 GMT | Greenland, NATO and Global Security | Holts History Hub | [Read More](https://medium.com/p/9cbfe876d58c) |
 | Fri, 23 Jan 2026 17:40:41 GMT | FortiGate Secure Enterprise Network (Business-Driven Security Lab) | Benedict Ryan | [Read More](https://medium.com/p/b7b5a754e6ed) |
 | Fri, 23 Jan 2026 17:36:27 GMT | The Night I Almost Lost Everything: A Guide to Stopping Reentrancy Attacks | Frank Kelechi Oge | [Read More](https://medium.com/p/cda9209897de) |
@@ -105,12 +114,3 @@ An accountant at the organization… | Elallam | [Read More](https://medium.com/
 | Fri, 23 Jan 2026 12:17:01 GMT | Due Diligence Questions for AI Security Vendors (That They Probably Can’t Answer) | Jon Welborn | [Read More](https://medium.com/p/5dad1cc68728) |
 | Fri, 23 Jan 2026 12:14:10 GMT | The Future of SIEM: Why 2026 Marks a Turning Point for SOCs | NetWitness | [Read More](https://medium.com/p/4cc87a077795) |
 | Fri, 23 Jan 2026 11:55:57 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/371bdcd3f531) |
-| Fri, 23 Jan 2026 11:41:50 GMT | Write up IntechCTF-2022 — Android Flag Challenge | Nanda Cahya Septiawan | [Read More](https://medium.com/p/4df911a859dd) |
-| Fri, 23 Jan 2026 11:38:44 GMT | Best Website Designing Company in Ghaziabad -Balainfotec | Sunny Sharma | [Read More](https://medium.com/p/1c28328afeda) |
-| Fri, 23 Jan 2026 11:37:23 GMT | Ignite — TryHackMe Walkthrough / Writeup | sudo_0xksh | [Read More](https://medium.com/p/58b7d52a1747) |
-| Fri, 23 Jan 2026 11:37:03 GMT | Fowsniff CTF — THM Writeup | sudo_0xksh | [Read More](https://medium.com/p/4ce5a0f14fe1) |
-| Fri, 23 Jan 2026 11:32:59 GMT | What’s new in PVS-Studio in 2025? | Unicorn Developer | [Read More](https://medium.com/p/3637ede06eba) |
-| Fri, 23 Jan 2026 11:32:01 GMT | JavaScript Security: XSS, CSRF, and What Matters | Quaxel | [Read More](https://medium.com/p/485cfea11223) |
-| Fri, 23 Jan 2026 11:31:12 GMT | How to Build a Professional Cybersecurity Home Lab for $0 | Axoloth | [Read More](https://medium.com/p/f2ad555f0588) |
-| Fri, 23 Jan 2026 11:29:57 GMT | Counterintelligence as an Art of Indirect Power: Eastern Philosophical Foundations of Deception… | Andrey Spiridonov | [Read More](https://medium.com/p/25ef416fbd2d) |
-| Fri, 23 Jan 2026 11:28:27 GMT | A5/1 Stream Cipher: Linear-feedback Shift Register — Case Study | Journal of Landing Across Linguistic Foreground | [Read More](https://medium.com/p/c9700e9376e6) |
