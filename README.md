@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 23:28:45 GMT | ​Di Balik Bayangan: Kebangkitan "XII Twelve (Twelve Botnets)" – Evolusi Senyap di Tangan xxiinn… | Digital News | [Read More](https://medium.com/p/2b5e01eede4d) |
+| Fri, 23 Jan 2026 23:22:42 GMT | Explainable AI (XAI) for Cybersecurity: Transparent Intrusion Detection & Threat Attribution | Husam A.S Khalifa | [Read More](https://medium.com/p/cba991380ee7) |
 | Fri, 23 Jan 2026 23:13:02 GMT | MITRE ATT&CK Framework Explained with Log Examples | Abhinsubej | [Read More](https://medium.com/p/fe305c121009) |
 | Fri, 23 Jan 2026 23:02:05 GMT | AI + Security for Developers: What You Must Protect From Day One | Sohit Mishra | [Read More](https://medium.com/p/b037a2c1d64f) |
 | Fri, 23 Jan 2026 22:57:18 GMT | Session-Based Authentication with Key Derivation | Omerardazorlu | [Read More](https://medium.com/p/1a15794832e4) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 Jan 2026 16:01:43 GMT | SRExpert: the Kubernetes Control Plane Your Sleep-Deprived SRE Brain Deserves — AI Chat | Horse Tired | [Read More](https://medium.com/p/f44121380c5a) |
 | Fri, 23 Jan 2026 16:01:04 GMT | When Agents Meet Security, Fear Is Optional | Syntal | [Read More](https://medium.com/p/5ead34e21983) |
 | Fri, 23 Jan 2026 16:01:03 GMT | The AI That Watches Over Your Health (Before You and me Even Know we are Sick) | Cyber Explain | [Read More](https://medium.com/p/e8a1357633bb) |
-| Fri, 23 Jan 2026 16:01:03 GMT | Dependency Hygiene That Actually Stops Supply-Chain Attacks | Vectorlane | [Read More](https://medium.com/p/4add65923519) |
-| Fri, 23 Jan 2026 15:59:37 GMT | The Global Vanguard: 15 Nations and Companies Shaping Military Cybersecurity | Paradise technologies Inc | [Read More](https://medium.com/p/143eb8b3cc19) |
