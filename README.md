@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 21:09:23 GMT | LIST OF IPHONES THAT ARE JAILBREAKBLE | Maxwell | [Read More](https://medium.com/p/a04118d9cabd) |
+| Fri, 23 Jan 2026 21:07:07 GMT | Hello MCP: Debugging and Testing | Alessandro | [Read More](https://medium.com/p/f1da3b0e9288) |
+| Fri, 23 Jan 2026 21:06:00 GMT | Cybersecurity 101 | Ajibola Jr. | [Read More](https://medium.com/p/a8b4ca457c49) |
+| Fri, 23 Jan 2026 20:58:19 GMT | Portswigger : SSRF Exploitation | Sandeepsisodiya | [Read More](https://medium.com/p/be13e799efc6) |
+| Fri, 23 Jan 2026 20:55:34 GMT | Wordfence Bug Bounty Program Monthly Report — December 2025 | Wordfence | [Read More](https://medium.com/p/bbe0c355fce9) |
 | Fri, 23 Jan 2026 20:47:11 GMT | From a Click to a Crisis: Understanding a Real-World Emotet to Ransomware Attack | Sree_lakshmi | [Read More](https://medium.com/p/5ccdd524b3b5) |
 | Fri, 23 Jan 2026 20:47:03 GMT | The SKBD Map can display target geographic locations on an interactive map, allowing users to… | Мартин. | [Read More](https://medium.com/p/6c97a977fca1) |
 | Fri, 23 Jan 2026 20:37:55 GMT | Immediately check your server!!! | Мартин. | [Read More](https://medium.com/p/f9e1e8f895cb) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 Jan 2026 14:50:58 GMT | API 大解密: 其實你每天可能用到數十次 API，卻完全沒察覺 | 思維舞步 MindSteps | [Read More](https://medium.com/p/57cf43264e8d) |
 | Fri, 23 Jan 2026 14:44:28 GMT | I’ve Seen Hundreds of Cybersecurity Careers. These Are the Patterns Behind Long-Term Growth | Taimur Ijlal | [Read More](https://medium.com/p/a86015c70f0d) |
 | Fri, 23 Jan 2026 14:43:42 GMT | PicoCTF: Forky ( Difficulty: Hard ) Reverse Engineering | Yasin Arafat Tanim | [Read More](https://medium.com/p/3b204cfc0ff7) |
-| Fri, 23 Jan 2026 14:32:25 GMT | How to Install Kali Linux as a Virtual Machine: A Step-by-Step Guide | Vignesh R | [Read More](https://medium.com/p/3ccf0b9f66cc) |
-| Fri, 23 Jan 2026 14:31:59 GMT | The Digital Transformation Delusion: Why Most “Transformations” Don’t Transform Anything | Xpress Digital Co. | [Read More](https://medium.com/p/1a3269f172d8) |
-| Fri, 23 Jan 2026 14:28:32 GMT | USCSI® Cybersecurity Learning Series — Part 1: Elevate Your Cybersecurity Career with CCC™… | Lucia Adams | [Read More](https://medium.com/p/9bc506f05933) |
-| Fri, 23 Jan 2026 14:18:40 GMT | AI Honeypots: Turning Attackers into Your New Data Source | Chet Windell | [Read More](https://medium.com/p/c3040aecc8a8) |
-| Fri, 23 Jan 2026 14:16:26 GMT | Is Your Body a Project or a Home? | LiNj Mwangi | [Read More](https://medium.com/p/6d9b498faa66) |
