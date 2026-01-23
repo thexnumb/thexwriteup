@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 05:40:31 GMT | The Rising Importance of Network Security Services in a Hyper-Connected World | Devarshi Acharya | [Read More](https://medium.com/p/36e2d9092433) |
+| Fri, 23 Jan 2026 05:39:38 GMT | AI Deepfakes Are Harming Real People. New Federal Laws Finally Give Victims Power | "Tracey, the Safety Lady" Hawkins | [Read More](https://medium.com/p/2d2f8ddac19e) |
+| Fri, 23 Jan 2026 05:36:56 GMT | Web Security Services in 2026: The Strategic Shield Modern Businesses Can’t Ignore | Devarshi Acharya | [Read More](https://medium.com/p/9da6db3ac4b4) |
+| Fri, 23 Jan 2026 05:28:11 GMT | We hacked the AWS JavaScript SDK | Rajesh Royal | [Read More](https://medium.com/p/314b01ca153e) |
 | Fri, 23 Jan 2026 05:25:02 GMT | I Solved 92 Labs and Made $0: Why I Quit Web Hacking for Binary Exploitation | sivaaditya | [Read More](https://medium.com/p/59a2285db910) |
 | Fri, 23 Jan 2026 05:23:52 GMT | The Windows Security Journey — Static KDP (Static Kernel Data Protection) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f87f1fa74376) |
 | Fri, 23 Jan 2026 05:15:20 GMT | Wild Bug Bounty Bugs You’ve Probably Never Seen | Abhijeet kumawat | [Read More](https://medium.com/p/38c13a18a7fa) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 Jan 2026 18:56:39 GMT | Hunting Lazarus Part II: When the Dead Drop Moved to the Blockchain | Red Asgard | [Read More](https://medium.com/p/ae1e1daee43f) |
 | Thu, 22 Jan 2026 18:55:39 GMT | A Day in the Life of a Hacker | Prasadi Niroopama Kumarasinghe | [Read More](https://medium.com/p/655744872af0) |
 | Thu, 22 Jan 2026 18:50:09 GMT | What’s so easy about pie? | Fernanda Fitere | [Read More](https://medium.com/p/893dd3013df1) |
-| Thu, 22 Jan 2026 18:49:33 GMT | How To Scale Security Discussions | Akarsh Goel | [Read More](https://medium.com/p/c0808cb2839c) |
-| Thu, 22 Jan 2026 18:48:44 GMT | ITSM or autism? Why am I so bored with American culture? | Dennis James Procopio | [Read More](https://medium.com/p/e5ea66715218) |
-| Thu, 22 Jan 2026 18:39:21 GMT | What Security Cameras Should You Consider Before Buying | Haris Khan | [Read More](https://medium.com/p/e9fc9dca2ead) |
-| Thu, 22 Jan 2026 18:38:20 GMT | It’s Not a Hack, It’s a Trap: 4 Ways Your Crypto Can Disappear | BountyPortals Official Blog | [Read More](https://medium.com/p/c058bd04c2cf) |
