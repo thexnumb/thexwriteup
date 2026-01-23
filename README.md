@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 16:29:34 GMT | The Web of North Korean fake profiles | Mees van Wickeren | [Read More](https://medium.com/p/3e04d8dcd1af) |
+| Fri, 23 Jan 2026 16:26:47 GMT | Weaponizing Word: The Art of Remote Template Injection & Reverse Shells | Saksham Bhattarai | [Read More](https://medium.com/p/4f52155507ec) |
+| Fri, 23 Jan 2026 16:24:38 GMT | Security Ticketing & Incident Workflow Lab (Cybrary) | Shahzeb M | [Read More](https://medium.com/p/1713f6f5af06) |
+| Fri, 23 Jan 2026 16:22:00 GMT | A Calm Day in Pentesting: No Exploits, Just Understanding the System | Amandogra | [Read More](https://medium.com/p/370e5cb655ea) |
+| Fri, 23 Jan 2026 16:20:45 GMT | Trying To Find Privacy In an AI Surveillance Enhanced World (Short Version) | David Speakman | [Read More](https://medium.com/p/c985521bcc3e) |
+| Fri, 23 Jan 2026 16:16:22 GMT | Oh, in the dream of love—My wander message. | Lilacs violet | [Read More](https://medium.com/p/8a0afe7ab633) |
+| Fri, 23 Jan 2026 16:12:28 GMT | CloudGoat AWS vulnerable_lambda Walkthrough | Spookz | [Read More](https://medium.com/p/4daa39e5317c) |
+| Fri, 23 Jan 2026 16:07:17 GMT | How WhatsApp Can Be Hacked: Real-World Methods & Protection Tips | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/49e40538fa86) |
+| Fri, 23 Jan 2026 16:01:43 GMT | SRExpert: the Kubernetes Control Plane Your Sleep-Deprived SRE Brain Deserves — AI Chat | Horse Tired | [Read More](https://medium.com/p/f44121380c5a) |
+| Fri, 23 Jan 2026 16:01:04 GMT | When Agents Meet Security, Fear Is Optional | Syntal | [Read More](https://medium.com/p/5ead34e21983) |
+| Fri, 23 Jan 2026 16:01:03 GMT | The AI That Watches Over Your Health (Before You and me Even Know we are Sick) | Cyber Explain | [Read More](https://medium.com/p/e8a1357633bb) |
+| Fri, 23 Jan 2026 16:01:03 GMT | Dependency Hygiene That Actually Stops Supply-Chain Attacks | Vectorlane | [Read More](https://medium.com/p/4add65923519) |
+| Fri, 23 Jan 2026 15:59:37 GMT | The Global Vanguard: 15 Nations and Companies Shaping Military Cybersecurity | Paradise technologies Inc | [Read More](https://medium.com/p/143eb8b3cc19) |
+| Fri, 23 Jan 2026 15:59:30 GMT | Threat Intelligence Dossier — “TOXICSNAKE” TDS / Loader Cluster | Macs-Hit | [Read More](https://medium.com/p/d52414ce414f) |
+| Fri, 23 Jan 2026 15:45:37 GMT | To be seen is to be conquered | Shazana Shiraz | [Read More](https://medium.com/p/1075c8aac9ee) |
 | Fri, 23 Jan 2026 15:32:31 GMT | Rethinking cold wallet security: why screens aren’t a must anymore | HASHWallet | [Read More](https://medium.com/p/55d883bc3600) |
 | Fri, 23 Jan 2026 15:32:30 GMT | What Is a Power Door Lock - How It Works & Key Benefits | Sure Lock & Key LLC | [Read More](https://medium.com/p/d8a132571130) |
 | Fri, 23 Jan 2026 15:32:30 GMT | Browser Wars, Continued: Why Everyone Is Building Their Own AI Browser | SquareX | [Read More](https://medium.com/p/2803d6584c46) |
@@ -99,18 +114,3 @@ An accountant at the organization… | Elallam | [Read More](https://medium.com/
 | Fri, 23 Jan 2026 10:24:56 GMT | Telefonum Hacklendi mi? Nasıl Anlarınız, Nasıl Önler ve Kurtuluruz? | Mustafa Can Akbaba | [Read More](https://medium.com/p/048f1d1d14f4) |
 | Fri, 23 Jan 2026 10:17:13 GMT | Border Security Technologies Market Size to Surpass USD 71.92 Billion by 2035 | Akshay Dhamal | [Read More](https://medium.com/p/1b9f560b421f) |
 | Fri, 23 Jan 2026 10:08:39 GMT | The 10 Most Dangerous Hacking Devices | mohandika | [Read More](https://medium.com/p/d75af50c0122) |
-| Fri, 23 Jan 2026 10:08:12 GMT | Hotel Security Guard in Houston | Security Houston | [Read More](https://medium.com/p/17799d8c6d7c) |
-| Fri, 23 Jan 2026 10:08:11 GMT | [Templates]  —  Exploiting PugJS Server-Side Template Injection to Remote Shell Access | Bash Overflow | [Read More](https://medium.com/p/464677793862) |
-| Fri, 23 Jan 2026 10:03:01 GMT | Is Using a VPN Legal in the UK? (2026 Guide) | Sean Harding | [Read More](https://medium.com/p/2603074665bd) |
-| Fri, 23 Jan 2026 10:00:23 GMT | hello my name canab I come from somalia and I went learn more more course please help me | Canab maxamed cusmaan Canab maxamed cusmaan | [Read More](https://medium.com/p/2f9e095fdcd9) |
-| Fri, 23 Jan 2026 09:45:25 GMT | The Role of Blockchain in Securing Personal Data | Yana Veretilnyk | [Read More](https://medium.com/p/7846d9e4af69) |
-| Fri, 23 Jan 2026 09:36:08 GMT | SON DÖNEMİN EN KRİTİK SİBER GÜVENLİK AÇIKLARI: Gerçek CVE Vakalarıyla Teknik Analiz | dilan alpaltun | [Read More](https://medium.com/p/6ea5a190f54d) |
-| Fri, 23 Jan 2026 09:30:24 GMT | Hospital Security Guards in Houston | Security Houston | [Read More](https://medium.com/p/b57241e72763) |
-| Fri, 23 Jan 2026 09:27:30 GMT | Total Security Solutions: The Future of Advanced Electronic Security Solutions | Ciss India | [Read More](https://medium.com/p/983fe29854f6) |
-| Fri, 23 Jan 2026 09:26:31 GMT | Key Security Service Priorities for Corporates, Tech Parks & Campuses. | Handiman Services | [Read More](https://medium.com/p/e129634337da) |
-| Fri, 23 Jan 2026 09:25:58 GMT | CSA XCON 2026: India’s Global Cybersecurity Convergence Returns to Dehradun | Sagar Sajwan | [Read More](https://medium.com/p/1ac27cfa3501) |
-| Fri, 23 Jan 2026 09:25:26 GMT | ️ Windows Server Security Audit (NIS2 Alignment) | Jeremy ROUSSEAU - CyberSécurité | [Read More](https://medium.com/p/d6f9e8c2331b) |
-| Fri, 23 Jan 2026 09:22:45 GMT | The “Trust Trap” Exposed: How Fake Review Sites Funnel Victims into Scams (Quest-and-Success… | Liam Carter | [Read More](https://medium.com/p/1fda85f1892f) |
-| Fri, 23 Jan 2026 09:22:27 GMT | Advanced Workflow Automation Solutions by N8N Developers | n8ndevelopers | [Read More](https://medium.com/p/3d194495f92d) |
-| Fri, 23 Jan 2026 09:17:52 GMT | Authentication | Nidhisharma Freelancework | [Read More](https://medium.com/p/b1ba36c2d804) |
-| Fri, 23 Jan 2026 09:08:32 GMT | How a Single Phishing Email Can Leak Your Entire Customer Database (And How to Stop It) | Aysha Saifi | [Read More](https://medium.com/p/92332e80ca74) |
