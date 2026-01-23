@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 13:32:02 GMT | NestJS DTO Validation That Doesn’t Leak | Bhagya Rana | [Read More](https://medium.com/p/99ad4b47bb03) |
+| Fri, 23 Jan 2026 13:31:24 GMT | The Hidden API Endpoints That Can Make $10k in Bug Bounties (Complete Methodology) | BugHunter’s Journal | [Read More](https://medium.com/p/5f05c2a8e48f) |
+| Fri, 23 Jan 2026 13:29:48 GMT | A Strategic Guide to Biometric Cryptographic Standards | Devin Rosario | [Read More](https://medium.com/p/d4dad85f2a5a) |
+| Fri, 23 Jan 2026 13:23:15 GMT | Part 2 — The Enterprise Browser as the New DLP Perimeter | Mammoth Cyber | [Read More](https://medium.com/p/6b7c04f96ee9) |
+| Fri, 23 Jan 2026 13:22:07 GMT | The Last Day Isn’t Tomorrow | Maithilee Singh | [Read More](https://medium.com/p/98b55010fa98) |
+| Fri, 23 Jan 2026 13:21:23 GMT | Navigating the Storm: Lessons From 2025 Crypto Attacks in | OKcontract Chainwall | [Read More](https://medium.com/p/d440026d5836) |
+| Fri, 23 Jan 2026 13:17:00 GMT | IoT Security Made Simple: Protecting The Devices You Forgot You Own | Plaintext with Rich | [Read More](https://medium.com/p/1409b2ee8a24) |
+| Fri, 23 Jan 2026 13:10:08 GMT | The Human Factor in Cybersecurity: Why People, Not Technology, Define Security Outcomes | Frank salman | [Read More](https://medium.com/p/a4483ddb33c2) |
+| Fri, 23 Jan 2026 13:03:36 GMT | Linux Security Habit #19: I Don’t Export Logs Randomly — I Export Them With a Verdict in Mind | Faruk Ahmed | [Read More](https://medium.com/p/8b6f601b92db) |
+| Fri, 23 Jan 2026 13:00:44 GMT | Multi-Factor Authentication Market 2026: Trends, Growth Drivers, and the Future of Digital Security | Desouza Nancy | [Read More](https://medium.com/p/1ad5d1ff7ad5) |
+| Fri, 23 Jan 2026 12:47:26 GMT | Linux is not that hard to understand! | Manoj Nepal | [Read More](https://medium.com/p/6bd0ed170748) |
 | Fri, 23 Jan 2026 12:44:27 GMT | OSINT NEDİR VE ARAÇLARI NELERDİR ? | Resul Karaca | [Read More](https://medium.com/p/d6ce79c99f4a) |
 | Fri, 23 Jan 2026 12:39:26 GMT | WhatsApp Engineering: How End-to-End Encryption Works | Tanyaradzwa T Mushonga | [Read More](https://medium.com/p/4d051e68d465) |
 | Fri, 23 Jan 2026 12:38:07 GMT | I Automated Qualys Triage and Cut 80% of Manual Work. Here’s Exactly How. | Oscar Antonangelo | [Read More](https://medium.com/p/5b4df390d438) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 Jan 2026 06:51:31 GMT | Instagram Data Leak: A Wake-Up Call for Digital Security in the Age of Data Exploitation | Dipayan Ghosh | [Read More](https://medium.com/p/5365f40131a0) |
 | Fri, 23 Jan 2026 06:50:17 GMT | “Your AI Can Be Hacked With a Sentence — Meet the New Firewalls Fighting Back” | ghostyjoe | [Read More](https://medium.com/p/c0c1357e8e68) |
 | Fri, 23 Jan 2026 06:46:24 GMT | Multi-Cloud Compliance Automation: 2026 Cybersecurity Challenges and Solutions | Neova Solutions | [Read More](https://medium.com/p/4778b27a89d9) |
-| Fri, 23 Jan 2026 06:39:17 GMT | 5 emerging digital ID trends in 2026 that could redefine your online persona | Spokeo People Search | [Read More](https://medium.com/p/090ca15e36fa) |
-| Fri, 23 Jan 2026 06:32:12 GMT | Race Condition — HTTP Smuggling — HTTP/3 Protokol Versiyon | 0bat.exe1 | [Read More](https://medium.com/p/74165353a191) |
-| Fri, 23 Jan 2026 06:29:33 GMT | 9 Signs Your Startup Has Outgrown Its IT Infrastructure | Lucro Soft | [Read More](https://medium.com/p/d9572e1f5a60) |
-| Fri, 23 Jan 2026 06:26:41 GMT | Why Professionals Trust ACSMI for Cybersecurity Career Growth | ACSMI | [Read More](https://medium.com/p/7ba226f722de) |
-| Fri, 23 Jan 2026 06:23:44 GMT | Day 3: Networking Foundations — TCP/IP, Transport Protocols & DHCP Explained | Faizan Nazir | [Read More](https://medium.com/p/8541d374e5a8) |
-| Fri, 23 Jan 2026 06:09:33 GMT | The Day Google Stopped Helping Me at Work | Saurabh Jain | [Read More](https://medium.com/p/338ba621c5b8) |
-| Fri, 23 Jan 2026 05:59:15 GMT | The NeurIPS Scandal: How AI Hallucinated Its Way into 100 ‘Expert’ Research Papers | shahid irfan | [Read More](https://medium.com/p/1b6df2184670) |
-| Fri, 23 Jan 2026 05:54:01 GMT | Takedown Spy: como investigadores usam link grabbers para identificar alvos online | bruno raniel gualhaço | [Read More](https://medium.com/p/4c1b32f5b061) |
-| Fri, 23 Jan 2026 05:52:04 GMT | Google and Epic’s Secret Deal, Copilot Everywhere, and Under Armour’s Breach - The Daily Tech… | Souren Stepanyan | [Read More](https://medium.com/p/422c9dc38ae7) |
-| Fri, 23 Jan 2026 05:51:01 GMT | Mastering HTTP Smuggling with PortSwinger Labs — I | Lakshan Sameera | [Read More](https://medium.com/p/60bbc21e7111) |
-| Fri, 23 Jan 2026 05:47:41 GMT | Secure Storage in Flutter: The Right Way to Store Secrets | Yash Patel | [Read More](https://medium.com/p/3b1b7ee766b8) |
