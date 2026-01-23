@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 15:06:29 GMT | Reverse Engineering the PCB of a Bluetooth-Enabled TFT Rear View Mirror (7172BT) | Aaronjjose | [Read More](https://medium.com/p/90aaeb1bbcff) |
+| Fri, 23 Jan 2026 15:03:04 GMT | Cyber Briefing: 2026.01.23 | CyberMaterial | [Read More](https://medium.com/p/b75ecb1fd981) |
+| Fri, 23 Jan 2026 15:00:36 GMT | DMARC explained: the DNS record that tells email servers what to do when authentication fails | Elyvora.us | [Read More](https://medium.com/p/998d41bf7083) |
+| Fri, 23 Jan 2026 14:54:15 GMT | New Mac Setup For Speed, Privacy, and Stability | Geoffrey Wenger | [Read More](https://medium.com/p/17811991074e) |
 | Fri, 23 Jan 2026 14:44:28 GMT | I’ve Seen Hundreds of Cybersecurity Careers. These Are the Patterns Behind Long-Term Growth | Taimur Ijlal | [Read More](https://medium.com/p/a86015c70f0d) |
 | Fri, 23 Jan 2026 14:43:42 GMT | PicoCTF: Forky ( Difficulty: Hard ) Reverse Engineering | Yasin Arafat Tanim | [Read More](https://medium.com/p/3b204cfc0ff7) |
 | Fri, 23 Jan 2026 14:32:25 GMT | How to Install Kali Linux as a Virtual Machine: A Step-by-Step Guide | Vignesh R | [Read More](https://medium.com/p/3ccf0b9f66cc) |
@@ -110,7 +114,3 @@ An accountant at the organization… | Elallam | [Read More](https://medium.com/
 | Fri, 23 Jan 2026 08:49:37 GMT | n8n: CVE-2025–68613 | Aaronashley | [Read More](https://medium.com/p/35389de65cde) |
 | Fri, 23 Jan 2026 08:44:54 GMT | HackTheBox Sherlock Ruse: A macOS forensic journey through deception and persistence | Telynor | [Read More](https://medium.com/p/452f72b7aca7) |
 | Fri, 23 Jan 2026 08:42:15 GMT | Types of Malware Explained — Viruses, Worms, Ransomware & Spyware | Shadow Attackers | [Read More](https://medium.com/p/3592a5d743b1) |
-| Fri, 23 Jan 2026 08:39:28 GMT | How to Optimize Cybersecurity Cohort Opportunities in 2026 | Joanorifha | [Read More](https://medium.com/p/8435988e6b87) |
-| Fri, 23 Jan 2026 08:32:00 GMT | API PENETRATION TESTING WITH VAmPI | Chinaza Emmanuela Obidike | [Read More](https://medium.com/p/45de2dca9419) |
-| Fri, 23 Jan 2026 08:27:37 GMT | Authentication VS Authorization | António Gomes | [Read More](https://medium.com/p/592f979d943d) |
-| Fri, 23 Jan 2026 08:26:50 GMT | What happened | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/869ba7928938) |
