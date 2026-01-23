@@ -12,9 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 11:15:59 GMT | HackTheBox: Eighteen | Root_Fabric | [Read More](https://medium.com/p/9a5c884b2bab) |
+| Fri, 23 Jan 2026 11:12:18 GMT | How to Clean Your Computer Like a Pro: The Ultimate Privacy Guide Everyone Should Know | Charu Kumar Mathur | [Read More](https://medium.com/p/355023b71cd3) |
+| Fri, 23 Jan 2026 11:10:10 GMT | How to Build a Trustworthy Cyber Security Agency Website in Under 3 Hours (No Code Required) | Rasel Uddin | [Read More](https://medium.com/p/91c1cb391b86) |
+| Fri, 23 Jan 2026 11:08:30 GMT | AWS CloudWatch Simple Automated Log Archival Solution with Low to None Costs | Nuwan Premaratne | [Read More](https://medium.com/p/4af2005942cd) |
+| Fri, 23 Jan 2026 11:08:01 GMT | Event Log Forensics — PicoCTF Challenge Walkthrough | Elmin Farzaliyev | [Read More](https://medium.com/p/26cd4add7f7b) |
+| Fri, 23 Jan 2026 11:02:03 GMT | Integrating a Malware Sandbox into SOAR Workflows: Steps, Benefits, and Impact | ANY.RUN | [Read More](https://medium.com/p/1e6ec817084e) |
+| Fri, 23 Jan 2026 10:57:38 GMT | Digital Resilience and Workforce Mobilization | Brian Handshy | [Read More](https://medium.com/p/4f2503c8d382) |
+| Fri, 23 Jan 2026 10:57:34 GMT | DockerLabs Writeup — Jason (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/8c56fcdd0f6d) |
+| Fri, 23 Jan 2026 10:56:35 GMT | 2026 Q1 Report: FxCapLtd Compliance Framework and Technical Standards Review | Certification Flow Laboratories | [Read More](https://medium.com/p/e44358b19ef3) |
 | Fri, 23 Jan 2026 10:39:54 GMT | Why Does Choosing the Right Security Partner Matter So Much? | Luke Appleby | [Read More](https://medium.com/p/a2aedc99daa5) |
 | Fri, 23 Jan 2026 10:38:10 GMT | Experience the Best Smart Home Automation in Dubai and Best CCTV System in UAE | techfra solutions | [Read More](https://medium.com/p/d33cce069318) |
 | Fri, 23 Jan 2026 10:37:00 GMT | QA Engineering with a Forensic Mindset: Protecting Your Institution's Integrity | Romoaldo Doliz | [Read More](https://medium.com/p/3add51a45ee9) |
+| Fri, 23 Jan 2026 10:24:56 GMT | Telefonum Hacklendi mi? Nasıl Anlarınız, Nasıl Önler ve Kurtuluruz? | Mustafa Can Akbaba | [Read More](https://medium.com/p/048f1d1d14f4) |
 | Fri, 23 Jan 2026 10:17:13 GMT | Border Security Technologies Market Size to Surpass USD 71.92 Billion by 2035 | Akshay Dhamal | [Read More](https://medium.com/p/1b9f560b421f) |
 | Fri, 23 Jan 2026 10:08:39 GMT | The 10 Most Dangerous Hacking Devices | mohandika | [Read More](https://medium.com/p/d75af50c0122) |
 | Fri, 23 Jan 2026 10:08:12 GMT | Hotel Security Guard in Houston | Security Houston | [Read More](https://medium.com/p/17799d8c6d7c) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 Jan 2026 03:45:28 GMT | Cracking the DarkMatter Ransomware: A CTF Walkthrough | Hemantha Krishna Challa | [Read More](https://medium.com/p/bd731bb74f57) |
 | Fri, 23 Jan 2026 03:43:24 GMT | From IT Technician to Junior SOC Analyst: Documenting My Cybersecurity Journey | Alfredo Zablah | [Read More](https://medium.com/p/6882aca6a10b) |
 | Fri, 23 Jan 2026 03:42:25 GMT | สรุปบทเรียน Security Literacy จาก MyOrder Workshop เมื่อความปลอดภัยเป็นเรื่องของ “ทุกคน” | Rachata Khawngam | [Read More](https://medium.com/p/e76ebd86af02) |
-| Fri, 23 Jan 2026 03:41:57 GMT | The Growing Threat Landscape of Browser Extensions — How Trusted Tools Turned Into Attack Vectors | Paritosh | [Read More](https://medium.com/p/3f8c2bacf1ba) |
-| Fri, 23 Jan 2026 03:38:41 GMT | The Most Common Risk when Using the Solmate Library — Smart Contract Vulnerability Labeling 101 | Alice Hsu | [Read More](https://medium.com/p/c3a219b6851b) |
-| Fri, 23 Jan 2026 03:34:55 GMT | Tech Knowledge Transfer — Here’s Why You’re Stuck | John Anderson | [Read More](https://medium.com/p/1e164f8ecc07) |
-| Fri, 23 Jan 2026 03:33:07 GMT | 10 Tips for Managing Shared Database Anti-Patterns | Arunangshu Das | [Read More](https://medium.com/p/4cf5619f8ad7) |
-| Fri, 23 Jan 2026 03:33:06 GMT | ₹22 Crore Lost Without a Hack: How a Messaging App Investment Trap Fooled a Retired Entrepreneur | Deven Chhajed | [Read More](https://medium.com/p/765741a600bc) |
-| Fri, 23 Jan 2026 03:31:20 GMT | Unlocking the Power of Nessus: Advanced Techniques for Real-World Pentesters ⚔️ | Cybeague Technologies | [Read More](https://medium.com/p/047a96e02ea8) |
-| Fri, 23 Jan 2026 03:30:42 GMT | Getting Started with Nessus: Your Fast Lane to Vulnerability Scanning | Cybeague Technologies | [Read More](https://medium.com/p/1a777b71d2e1) |
-| Fri, 23 Jan 2026 03:12:58 GMT | ประจำวันศุกร์ที่ 23 มกราคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/ecddd974ff0c) |
-| Fri, 23 Jan 2026 03:02:02 GMT | 2026 จะไม่ใช่ปีของ AI ที่ตอบเก่ง แต่คือปีของ AI ที่ “ลงมือทำ” และนี่คือสิ่งที่ Dev ต้องระวัง | Krungsri Nimble | [Read More](https://medium.com/p/ba20a3a9f4c4) |
-| Fri, 23 Jan 2026 02:55:17 GMT | The Art of Manual Mapping: Bypassing the Windows Loader for Stealthy Code Execution | Bassam Hossam | [Read More](https://medium.com/p/a615c3572eaf) |
