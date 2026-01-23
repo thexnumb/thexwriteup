@@ -12,8 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 05:25:02 GMT | I Solved 92 Labs and Made $0: Why I Quit Web Hacking for Binary Exploitation | sivaaditya | [Read More](https://medium.com/p/59a2285db910) |
+| Fri, 23 Jan 2026 05:23:52 GMT | The Windows Security Journey — Static KDP (Static Kernel Data Protection) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f87f1fa74376) |
+| Fri, 23 Jan 2026 05:15:20 GMT | Wild Bug Bounty Bugs You’ve Probably Never Seen | Abhijeet kumawat | [Read More](https://medium.com/p/38c13a18a7fa) |
+| Fri, 23 Jan 2026 05:09:44 GMT | How I Decide Whether a File Is Safe (Without Trusting It for a Second) | Sujith | [Read More](https://medium.com/p/3d198cf009f5) |
+| Fri, 23 Jan 2026 05:06:41 GMT | Streamlining Hospital Operations with AI CCTV Cameras: Ensuring Safety and Efficiency | Dolon Ghosh | [Read More](https://medium.com/p/0b0e63f52335) |
+| Fri, 23 Jan 2026 05:01:57 GMT | Moving from Manual User Management to Automated Provisioning | Basitshaikh | [Read More](https://medium.com/p/8e954c8fe45a) |
+| Fri, 23 Jan 2026 04:49:37 GMT | Cloud Security in 2026 | Akalanka Dambagolla | [Read More](https://medium.com/p/dd0563ad34f3) |
 | Fri, 23 Jan 2026 04:39:05 GMT | AI-Driven Cyber Threat Detection: Evaluating Tools and Frameworks | Shamim Rajani | [Read More](https://medium.com/p/2c5c64437acb) |
 | Fri, 23 Jan 2026 04:38:14 GMT | OSINT Advice for Beginners: What I Wish I Knew When I Started | Matyas Koszegi | [Read More](https://medium.com/p/a245d49b432b) |
+| Fri, 23 Jan 2026 04:32:03 GMT | AddTransient vs AddScoped vs AddSingleton in .NET Core (With Examples) | Sachin Ghadi | [Read More](https://medium.com/p/1fea6fb36c83) |
 | Fri, 23 Jan 2026 04:29:50 GMT | Your Development Environment Is a Security Risk: What Every Android Developer Needs to Know | Sanath Sajeeva Kumara | [Read More](https://medium.com/p/33eda4ee9ac4) |
 | Fri, 23 Jan 2026 04:13:50 GMT | Why Security Must Be Sustainable — Incentives as a Structural Requirement | sengom | [Read More](https://medium.com/p/c833eda37b5e) |
 | Fri, 23 Jan 2026 04:12:57 GMT | How Security Evolves — Distributed Threat Learning Without Central Control | sengom | [Read More](https://medium.com/p/8db1de6e603a) |
@@ -55,6 +63,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 Jan 2026 00:03:09 GMT | Guía de Exploit-DB para Bug Bounty: Uso de SearchSploit y Validación de Vulnerabilidades | JPablo13 | [Read More](https://medium.com/p/34a9bb58ccf1) |
 | Thu, 22 Jan 2026 23:39:02 GMT | LuckyShot-HTB Sherlock Writeup | N0T3 | [Read More](https://medium.com/p/ac7a5e859569) |
 | Thu, 22 Jan 2026 23:38:34 GMT | ️ Stay Invisible, Stay Protected – Choose NordVPN | Genelia | [Read More](https://medium.com/p/c6d3d2cb350c) |
+| Thu, 22 Jan 2026 23:36:58 GMT | Poderia existir algo maior do que o amor? | Antes de dormir | [Read More](https://medium.com/p/0513417dcc7c) |
 | Thu, 22 Jan 2026 23:36:42 GMT | How I Turned a $15 Arduino Into a Real Security System (And How OSINT Guided Me) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/2e375e56e101) |
 | Thu, 22 Jan 2026 23:30:56 GMT | The Top 7 Mistakes Small Businesses Make with Their Security | Eric Smith | [Read More](https://medium.com/p/7ef59b11bd23) |
 | Thu, 22 Jan 2026 23:27:51 GMT | Noise Is a Security Signal — If You Know Where to Listen. | Juan David Correa Landreau | [Read More](https://medium.com/p/83a06ad9affa) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 Jan 2026 18:48:44 GMT | ITSM or autism? Why am I so bored with American culture? | Dennis James Procopio | [Read More](https://medium.com/p/e5ea66715218) |
 | Thu, 22 Jan 2026 18:39:21 GMT | What Security Cameras Should You Consider Before Buying | Haris Khan | [Read More](https://medium.com/p/e9fc9dca2ead) |
 | Thu, 22 Jan 2026 18:38:20 GMT | It’s Not a Hack, It’s a Trap: 4 Ways Your Crypto Can Disappear | BountyPortals Official Blog | [Read More](https://medium.com/p/c058bd04c2cf) |
-| Thu, 22 Jan 2026 18:34:15 GMT | Rabbit Hole —  TryHackMe - By Shiv Kumar - Medium | Shiv Kumar | [Read More](https://medium.com/p/3b07ba837a2a) |
-| Thu, 22 Jan 2026 18:29:07 GMT | Even When You Ignore It, Security Is Already in You | Safewithyvonne | [Read More](https://medium.com/p/4e24f257d452) |
-| Thu, 22 Jan 2026 18:25:33 GMT | How I Found My First CVE (CVE-2026–21641) | 0xJad | [Read More](https://medium.com/p/7f29af74fc84) |
-| Thu, 22 Jan 2026 18:19:54 GMT | TryHackMe Advent of Cyber 2025: Your Complete Guide to the 24-Day Learning Marathon - Answered-… | Sandeep Shrivastava | [Read More](https://medium.com/p/3911881653de) |
-| Thu, 22 Jan 2026 18:16:09 GMT | Prompt Injection: The SQL Injection of the AI Era | Mohit_Yadav | [Read More](https://medium.com/p/4aec69f10e05) |
-| Thu, 22 Jan 2026 18:13:41 GMT | How Secure Is Fyltr? An Honest Look Under the Hood | Fyltr | [Read More](https://medium.com/p/fe92ad1d8e24) |
-| Thu, 22 Jan 2026 18:03:03 GMT | How Attackers Exploit Cloud Misconfigurations | Vasantheeswaran | [Read More](https://medium.com/p/adf4212543d2) |
-| Thu, 22 Jan 2026 18:01:57 GMT | How Hackers Attack Websites — and How to Protect Yours | Saqib Naseer | [Read More](https://medium.com/p/1479992fcf43) |
-| Thu, 22 Jan 2026 18:01:55 GMT | Oracle’s January 2026 Patch Flood | Andis Paudel | [Read More](https://medium.com/p/64232910b77b) |
