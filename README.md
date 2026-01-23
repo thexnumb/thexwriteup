@@ -12,6 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 09:30:24 GMT | Hospital Security Guards in Houston | Security Houston | [Read More](https://medium.com/p/b57241e72763) |
+| Fri, 23 Jan 2026 09:27:30 GMT | Total Security Solutions: The Future of Advanced Electronic Security Solutions | Ciss India | [Read More](https://medium.com/p/983fe29854f6) |
+| Fri, 23 Jan 2026 09:26:31 GMT | Key Security Service Priorities for Corporates, Tech Parks & Campuses. | Handiman Services | [Read More](https://medium.com/p/e129634337da) |
+| Fri, 23 Jan 2026 09:25:58 GMT | CSA XCON 2026: India’s Global Cybersecurity Convergence Returns to Dehradun | Sagar Sajwan | [Read More](https://medium.com/p/1ac27cfa3501) |
+| Fri, 23 Jan 2026 09:25:26 GMT | ️ Windows Server Security Audit (NIS2 Alignment) | Jeremy ROUSSEAU - CyberSécurité | [Read More](https://medium.com/p/d6f9e8c2331b) |
+| Fri, 23 Jan 2026 09:22:45 GMT | The “Trust Trap” Exposed: How Fake Review Sites Funnel Victims into Scams (Quest-and-Success… | Liam Carter | [Read More](https://medium.com/p/1fda85f1892f) |
+| Fri, 23 Jan 2026 09:22:27 GMT | Advanced Workflow Automation Solutions by N8N Developers | n8ndevelopers | [Read More](https://medium.com/p/3d194495f92d) |
+| Fri, 23 Jan 2026 09:17:52 GMT | Authentication | Nidhisharma Freelancework | [Read More](https://medium.com/p/b1ba36c2d804) |
+| Fri, 23 Jan 2026 09:08:32 GMT | How a Single Phishing Email Can Leak Your Entire Customer Database (And How to Stop It) | Aysha Saifi | [Read More](https://medium.com/p/92332e80ca74) |
+| Fri, 23 Jan 2026 09:08:00 GMT | Post Board Writeup — MobileHackingLab | محمد بن إبراهيم | [Read More](https://medium.com/p/ce045b6db36c) |
+| Fri, 23 Jan 2026 09:07:22 GMT | The API Key Fallacy: “Developers Know Better” Meets Chat Reality | Sami | [Read More](https://medium.com/p/ea9c8bde0f2a) |
+| Fri, 23 Jan 2026 09:05:28 GMT | Cyber Defense Frameworks (Pyramid of Pain) | Ahmad Khaled | [Read More](https://medium.com/p/77a814692c9b) |
+| Fri, 23 Jan 2026 09:04:32 GMT | [Writeup] Proving Grounds: Jordak (Linux) | Bassey Ekemini E | [Read More](https://medium.com/p/2dca821de868) |
+| Fri, 23 Jan 2026 09:02:43 GMT | The Quiet Lessons Of People Watching | The Stone I Carry | [Read More](https://medium.com/p/4673997b0991) |
+| Fri, 23 Jan 2026 09:02:37 GMT | The 3 Credential Leaks That Auditors Always Ask About | Alexandre Vandamme | [Read More](https://medium.com/p/9f77dc07bfff) |
+| Fri, 23 Jan 2026 09:00:09 GMT | The Air is Hostile: Why Hackers Have Abandoned Your Router to Target Your Pocket | Youssef Mohammed | [Read More](https://medium.com/p/588891ee820d) |
+| Fri, 23 Jan 2026 08:58:11 GMT | Reconsidering the Mall Cop: From Absurd Trope to Philosophical Necessity | Carl Frank | [Read More](https://medium.com/p/52dbcc4aa95b) |
+| Fri, 23 Jan 2026 08:54:44 GMT | Can Linux Catch a Virus, Or Is It Immune? | Redfox Security | [Read More](https://medium.com/p/44730b02f2fb) |
+| Fri, 23 Jan 2026 08:49:46 GMT | Certified Penetration Testing Professional - CPENT - EC-Council | Shreyashettyctr | [Read More](https://medium.com/p/dbef1d5efcbe) |
+| Fri, 23 Jan 2026 08:49:37 GMT | n8n: CVE-2025–68613 | Aaronashley | [Read More](https://medium.com/p/35389de65cde) |
+| Fri, 23 Jan 2026 08:44:54 GMT | HackTheBox Sherlock Ruse: A macOS forensic journey through deception and persistence | Telynor | [Read More](https://medium.com/p/452f72b7aca7) |
+| Fri, 23 Jan 2026 08:42:15 GMT | Types of Malware Explained — Viruses, Worms, Ransomware & Spyware | Shadow Attackers | [Read More](https://medium.com/p/3592a5d743b1) |
+| Fri, 23 Jan 2026 08:39:28 GMT | How to Optimize Cybersecurity Cohort Opportunities in 2026 | Joanorifha | [Read More](https://medium.com/p/8435988e6b87) |
+| Fri, 23 Jan 2026 08:32:00 GMT | API PENETRATION TESTING WITH VAmPI | Chinaza Emmanuela Obidike | [Read More](https://medium.com/p/45de2dca9419) |
+| Fri, 23 Jan 2026 08:27:37 GMT | Authentication VS Authorization | António Gomes | [Read More](https://medium.com/p/592f979d943d) |
 | Fri, 23 Jan 2026 08:26:50 GMT | What happened | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/869ba7928938) |
 | Fri, 23 Jan 2026 08:25:45 GMT | LLMs and GENAI Apps: Risk & Mitigations — Part 8: System Prompt Leakage! | Nothing Cyber [NC] | [Read More](https://medium.com/p/20a78358cf06) |
 | Fri, 23 Jan 2026 08:07:20 GMT | All You Need to Know About AWS IAM: A Complete Guide | Himansrivastava | [Read More](https://medium.com/p/c85ead6124dd) |
@@ -87,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 Jan 2026 01:14:28 GMT | Black Shrantac Ransomware: Victim Analysis, Leak Site Intelligence, and Threat Assessment… | Regan Temudo | [Read More](https://medium.com/p/fa7e68b73dc6) |
 | Fri, 23 Jan 2026 01:10:21 GMT | The World We Dream Of | Safewithyvonne | [Read More](https://medium.com/p/b9e6b7f60d2a) |
 | Fri, 23 Jan 2026 01:09:24 GMT | CBTeamerX Exam Review & How to prepare yourself for this exam | Chicken0248 | [Read More](https://medium.com/p/495aafdc5b45) |
-| Fri, 23 Jan 2026 01:08:55 GMT | Can Ralph Wiggum Take Over Your Security and Business Operations? | AI with Eric | [Read More](https://medium.com/p/89be4ecca56f) |
-| Fri, 23 Jan 2026 00:53:11 GMT | $ whoami | Precious Odediran | [Read More](https://medium.com/p/4bbdd0c2dd18) |
-| Fri, 23 Jan 2026 00:35:18 GMT | Security for Rails Leaders: Threat Modeling Your App Like a Grownup | Daniel Amah | [Read More](https://medium.com/p/8cdce1b4e192) |
-| Fri, 23 Jan 2026 00:33:15 GMT | Securing AI: From Model Poisoning to Production Defense | Nayan Goel | [Read More](https://medium.com/p/6bc4553ac7e0) |
-| Fri, 23 Jan 2026 00:31:59 GMT | Why Internet Piracy Is Making a Comeback in 2026 | TheMindShift | [Read More](https://medium.com/p/c0524784206c) |
-| Fri, 23 Jan 2026 00:14:57 GMT | Pocket-Sized Pen-Testing- Building an ESP-32 Hack-Box That Actually Gets Used | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/924a0fa91cb8) |
-| Fri, 23 Jan 2026 00:09:21 GMT | Encryption In Kali Linux | Peterhunt | [Read More](https://medium.com/p/c2f20dd84a0c) |
-| Fri, 23 Jan 2026 00:08:39 GMT | Reverse Engineering a Windows Binary — From Unsafe ZIP Handling to DLL Hijacking | Daniel Londoño B. | [Read More](https://medium.com/p/ca780f6737ac) |
-| Fri, 23 Jan 2026 00:03:09 GMT | Guía de Exploit-DB para Bug Bounty: Uso de SearchSploit y Validación de Vulnerabilidades | JPablo13 | [Read More](https://medium.com/p/34a9bb58ccf1) |
-| Thu, 22 Jan 2026 23:39:02 GMT | LuckyShot-HTB Sherlock Writeup | N0T3 | [Read More](https://medium.com/p/ac7a5e859569) |
-| Thu, 22 Jan 2026 23:38:34 GMT | ️ Stay Invisible, Stay Protected – Choose NordVPN | Genelia | [Read More](https://medium.com/p/c6d3d2cb350c) |
-| Thu, 22 Jan 2026 23:36:58 GMT | Poderia existir algo maior do que o amor? | Antes de dormir | [Read More](https://medium.com/p/0513417dcc7c) |
-| Thu, 22 Jan 2026 23:36:42 GMT | How I Turned a $15 Arduino Into a Real Security System (And How OSINT Guided Me) | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/2e375e56e101) |
-| Thu, 22 Jan 2026 23:30:56 GMT | The Top 7 Mistakes Small Businesses Make with Their Security | Eric Smith | [Read More](https://medium.com/p/7ef59b11bd23) |
-| Thu, 22 Jan 2026 23:27:51 GMT | Noise Is a Security Signal — If You Know Where to Listen. | Juan David Correa Landreau | [Read More](https://medium.com/p/83a06ad9affa) |
-| Thu, 22 Jan 2026 23:21:11 GMT | The “Fiverr First Order” Trap: How I Avoided Three Sophisticated Scams in One Day | Danalakshan Arulgnanam | [Read More](https://medium.com/p/e10a06a432c8) |
-| Thu, 22 Jan 2026 23:20:42 GMT | 30 Days of Red Team: Day 18 — Lateral Movement Techniques | Maxwell Cross | [Read More](https://medium.com/p/b262f688118d) |
-| Thu, 22 Jan 2026 23:02:04 GMT | How I’m Preparing for a SOC Analyst Role Step by Step | Abhinsubej | [Read More](https://medium.com/p/d6fe415a3886) |
-| Thu, 22 Jan 2026 22:45:24 GMT | Why Secrets in JavaScript Bundles Are Still Being Missed | Cyber-AppSec | [Read More](https://medium.com/p/0e7c2ab8edd5) |
-| Thu, 22 Jan 2026 22:26:01 GMT | Why Encryption Alone Does Not Protect Systems | Code Catalyst | [Read More](https://medium.com/p/d9ddc48290f4) |
-| Thu, 22 Jan 2026 22:13:31 GMT | Encryption Is Powerful — But It Needs To Be User-Friendly | Simon B | [Read More](https://medium.com/p/2577347911f6) |
-| Thu, 22 Jan 2026 22:06:59 GMT | Inter-Machine Communication with RPC | S12 - 0x12Dark Development | [Read More](https://medium.com/p/15f384db2056) |
-| Thu, 22 Jan 2026 22:06:48 GMT | Corridor - TryHackMe Walkthrough | Nasir Ahim | [Read More](https://medium.com/p/b9364fdbf03f) |
-| Thu, 22 Jan 2026 22:02:56 GMT | Intel Struggles to Keep Up With AI Data Center Demand | Tech News | [Read More](https://medium.com/p/85b8df7153b8) |
-| Thu, 22 Jan 2026 21:54:40 GMT | Rate Limiting Bypass | FeritÖzner | [Read More](https://medium.com/p/667421261ea1) |
