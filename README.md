@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 19:41:41 GMT | DevSecOps for Git: How Enterprises Actually Secure Their Source Code (No Theory, Just Reality) | Bhanureddybandi | [Read More](https://medium.com/p/f18e8f8d2698) |
+| Fri, 23 Jan 2026 19:31:26 GMT | Ethical Hacking Services. | Private-hackers.com | [Read More](https://medium.com/p/90c4561578be) |
+| Fri, 23 Jan 2026 19:16:58 GMT | Escaping the Bootloop nightmare for a failed Root | Suprit Pandurangi | [Read More](https://medium.com/p/18f6b7e47e59) |
 | Fri, 23 Jan 2026 19:11:06 GMT | Okta SSO Accounts Under Siege: New Vishing Attacks Expose Security Gaps | Technijian | [Read More](https://medium.com/p/17b77b259b43) |
 | Fri, 23 Jan 2026 19:02:04 GMT | Anti-Ransomware | Iram Jack | [Read More](https://medium.com/p/0ea25b380267) |
 | Fri, 23 Jan 2026 19:01:37 GMT | AI in SOC Automation: The Role of Continuous Threat Exposure Management (CTEM) | Digital Defense | [Read More](https://medium.com/p/9de26647a8dc) |
@@ -111,6 +114,3 @@ An accountant at the organization… | Elallam | [Read More](https://medium.com/
 | Fri, 23 Jan 2026 13:17:00 GMT | IoT Security Made Simple: Protecting The Devices You Forgot You Own | Plaintext with Rich | [Read More](https://medium.com/p/1409b2ee8a24) |
 | Fri, 23 Jan 2026 13:10:08 GMT | The Human Factor in Cybersecurity: Why People, Not Technology, Define Security Outcomes | Frank salman | [Read More](https://medium.com/p/a4483ddb33c2) |
 | Fri, 23 Jan 2026 13:03:36 GMT | Linux Security Habit #19: I Don’t Export Logs Randomly — I Export Them With a Verdict in Mind | Faruk Ahmed | [Read More](https://medium.com/p/8b6f601b92db) |
-| Fri, 23 Jan 2026 13:00:44 GMT | Multi-Factor Authentication Market 2026: Trends, Growth Drivers, and the Future of Digital Security | Desouza Nancy | [Read More](https://medium.com/p/1ad5d1ff7ad5) |
-| Fri, 23 Jan 2026 12:47:26 GMT | Linux is not that hard to understand! | Manoj Nepal | [Read More](https://medium.com/p/6bd0ed170748) |
-| Fri, 23 Jan 2026 12:44:27 GMT | OSINT NEDİR VE ARAÇLARI NELERDİR ? | Resul Karaca | [Read More](https://medium.com/p/d6ce79c99f4a) |
