@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 14:16:26 GMT | Is Your Body a Project or a Home? | LiNj Mwangi | [Read More](https://medium.com/p/6d9b498faa66) |
+| Fri, 23 Jan 2026 14:12:40 GMT | HawkEye Lab – Network Traffic Analysis Write‑up
+Scenario
+An accountant at the organization… | Elallam | [Read More](https://medium.com/p/692b32829d9e) |
+| Fri, 23 Jan 2026 14:11:18 GMT | Nisanur Bahadır Kimdir? | Nisanur Bahadır | [Read More](https://medium.com/p/7a193f66c59b) |
+| Fri, 23 Jan 2026 14:02:57 GMT | ISC² CISSP Exam: From Operations to Strategic Leadership (Part 3) | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/a7d3782ce685) |
+| Fri, 23 Jan 2026 14:02:29 GMT | Web Security 101: Part 3 - Cross-Site Scripting (XSS): When Input Becomes Code | Nithishraina | [Read More](https://medium.com/p/8d4471fef6ad) |
+| Fri, 23 Jan 2026 14:01:48 GMT | Is Using a VPN Legal in the UK? (2026 Guide) | Sean Harding | [Read More](https://medium.com/p/a278a08d7d0d) |
+| Fri, 23 Jan 2026 14:01:45 GMT | Pay attention to every detail, that’s it! | Abhirup Konwar | [Read More](https://medium.com/p/550260c03b61) |
+| Fri, 23 Jan 2026 14:01:17 GMT | How to create a cyber news aggregator in Tines | h@shtalk | [Read More](https://medium.com/p/93418c8b93ed) |
+| Fri, 23 Jan 2026 14:00:43 GMT | About Me — Tariq Aziz | Taziz Aziz | [Read More](https://medium.com/p/f96f165fb97f) |
+| Fri, 23 Jan 2026 13:57:04 GMT | XSS Payloads Made Easy: How to Build One (Step by Step) | Muhammed Asfan - Cybersecurity Researcher | [Read More](https://medium.com/p/280f477bf609) |
+| Fri, 23 Jan 2026 13:55:54 GMT | Financial Security Comes First: Why Modern Businesses Can’t Afford to Ignore Cyber Protection | Plutosec Cyber Security | [Read More](https://medium.com/p/177dd102303b) |
+| Fri, 23 Jan 2026 13:54:36 GMT | Full Stack Development for Beginners: A Simple Guide to Get Started | Panimalarmeenambiga M | [Read More](https://medium.com/p/d278e66685a4) |
+| Fri, 23 Jan 2026 13:37:12 GMT | Verified Darkweb Directories: What “Trusted” Really Means on the Tor Network | Tor BBB | [Read More](https://medium.com/p/809795b0ac9d) |
 | Fri, 23 Jan 2026 13:32:02 GMT | NestJS DTO Validation That Doesn’t Leak | Bhagya Rana | [Read More](https://medium.com/p/99ad4b47bb03) |
 | Fri, 23 Jan 2026 13:31:24 GMT | The Hidden API Endpoints That Can Make $10k in Bug Bounties (Complete Methodology) | BugHunter’s Journal | [Read More](https://medium.com/p/5f05c2a8e48f) |
 | Fri, 23 Jan 2026 13:29:48 GMT | A Strategic Guide to Biometric Cryptographic Standards | Devin Rosario | [Read More](https://medium.com/p/d4dad85f2a5a) |
@@ -99,16 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 Jan 2026 08:04:16 GMT | CVE-2026–24061: The GNU InetUtils telnetd Bug That Lets Attackers Log In as root (No Password) | Germano Costi | [Read More](https://medium.com/p/6ca3855432b1) |
 | Fri, 23 Jan 2026 07:53:56 GMT | Understanding Privileged Access | Rudratic Technologies | [Read More](https://medium.com/p/6911b06859c5) |
 | Fri, 23 Jan 2026 07:42:59 GMT | Simple Endpoint, Critical Impact: How I Sabotaged Refunds | Samet Yiğit | [Read More](https://medium.com/p/1cd0ac7a4cb2) |
-| Fri, 23 Jan 2026 07:33:41 GMT | Building a Local AI Agent Security Lab for LLM Vulnerability Testing (Part 1) | Ankit Mishra | [Read More](https://medium.com/p/1d039348f98b) |
-| Fri, 23 Jan 2026 07:32:08 GMT | How to Start a Career in Artificial Intelligence After Graduation | cyber security Updates | [Read More](https://medium.com/p/18eff809a1ee) |
-| Fri, 23 Jan 2026 07:32:07 GMT | Reverse Engineering Fundamentals — Reading the Inside of a System | Esra Kayhan | [Read More](https://medium.com/p/6259734b7237) |
-| Fri, 23 Jan 2026 07:31:32 GMT | Creating a Phishing Kit: Understanding an Attacker’s Toolkit | Esra Kayhan | [Read More](https://medium.com/p/8d40e783a4ff) |
-| Fri, 23 Jan 2026 07:17:00 GMT | The New Guardian of Your Essentials: Celebrating Republic Day with Smart Indian Innovation! | Ramesh Raj | [Read More](https://medium.com/p/beb47a48cca9) |
-| Fri, 23 Jan 2026 07:08:08 GMT | The Corix Partners Friday Reading List — January 23, 2026 | JC Gaillard | [Read More](https://medium.com/p/3ac09e600dec) |
-| Fri, 23 Jan 2026 07:05:55 GMT | [Writeup] Proving Grounds: SPX (Linux) | Bassey Ekemini E | [Read More](https://medium.com/p/079ac421322f) |
-| Fri, 23 Jan 2026 06:57:00 GMT | The Automation Paradox: How Security Tools Create New Vulnerabilities | Aarsh Chaurasia | [Read More](https://medium.com/p/b75a62f14103) |
-| Fri, 23 Jan 2026 06:55:41 GMT | Why High-Net-Worth Individuals and Celebrities in London Trust Spetsnaz Security International | Spetsnaz Security International Limited | [Read More](https://medium.com/p/337d5cfda73b) |
-| Fri, 23 Jan 2026 06:51:38 GMT | Over the wire : Bandit level 0 → 1 | Harshavardhanreddy | [Read More](https://medium.com/p/20cd72cf80c3) |
-| Fri, 23 Jan 2026 06:51:31 GMT | Instagram Data Leak: A Wake-Up Call for Digital Security in the Age of Data Exploitation | Dipayan Ghosh | [Read More](https://medium.com/p/5365f40131a0) |
-| Fri, 23 Jan 2026 06:50:17 GMT | “Your AI Can Be Hacked With a Sentence — Meet the New Firewalls Fighting Back” | ghostyjoe | [Read More](https://medium.com/p/c0c1357e8e68) |
-| Fri, 23 Jan 2026 06:46:24 GMT | Multi-Cloud Compliance Automation: 2026 Cybersecurity Challenges and Solutions | Neova Solutions | [Read More](https://medium.com/p/4778b27a89d9) |
