@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 07:17:00 GMT | The New Guardian of Your Essentials: Celebrating Republic Day with Smart Indian Innovation! | Ramesh Raj | [Read More](https://medium.com/p/beb47a48cca9) |
+| Fri, 23 Jan 2026 07:08:08 GMT | The Corix Partners Friday Reading List — January 23, 2026 | JC Gaillard | [Read More](https://medium.com/p/3ac09e600dec) |
+| Fri, 23 Jan 2026 07:05:55 GMT | [Writeup] Proving Grounds: SPX (Linux) | Bassey Ekemini E | [Read More](https://medium.com/p/079ac421322f) |
+| Fri, 23 Jan 2026 06:57:00 GMT | The Automation Paradox: How Security Tools Create New Vulnerabilities | Aarsh Chaurasia | [Read More](https://medium.com/p/b75a62f14103) |
+| Fri, 23 Jan 2026 06:55:41 GMT | Why High-Net-Worth Individuals and Celebrities in London Trust Spetsnaz Security International | Spetsnaz Security International Limited | [Read More](https://medium.com/p/337d5cfda73b) |
+| Fri, 23 Jan 2026 06:51:38 GMT | Over the wire : Bandit level 0 → 1 | Harshavardhanreddy | [Read More](https://medium.com/p/20cd72cf80c3) |
+| Fri, 23 Jan 2026 06:51:31 GMT | Instagram Data Leak: A Wake-Up Call for Digital Security in the Age of Data Exploitation | Dipayan Ghosh | [Read More](https://medium.com/p/5365f40131a0) |
+| Fri, 23 Jan 2026 06:50:17 GMT | “Your AI Can Be Hacked With a Sentence — Meet the New Firewalls Fighting Back” | ghostyjoe | [Read More](https://medium.com/p/c0c1357e8e68) |
+| Fri, 23 Jan 2026 06:46:24 GMT | Multi-Cloud Compliance Automation: 2026 Cybersecurity Challenges and Solutions | Neova Solutions | [Read More](https://medium.com/p/4778b27a89d9) |
+| Fri, 23 Jan 2026 06:39:17 GMT | 5 emerging digital ID trends in 2026 that could redefine your online persona | Spokeo People Search | [Read More](https://medium.com/p/090ca15e36fa) |
 | Fri, 23 Jan 2026 06:32:12 GMT | Race Condition — HTTP Smuggling — HTTP/3 Protokol Versiyon | 0bat.exe1 | [Read More](https://medium.com/p/74165353a191) |
+| Fri, 23 Jan 2026 06:29:33 GMT | 9 Signs Your Startup Has Outgrown Its IT Infrastructure | Lucro Soft | [Read More](https://medium.com/p/d9572e1f5a60) |
 | Fri, 23 Jan 2026 06:26:41 GMT | Why Professionals Trust ACSMI for Cybersecurity Career Growth | ACSMI | [Read More](https://medium.com/p/7ba226f722de) |
 | Fri, 23 Jan 2026 06:23:44 GMT | Day 3: Networking Foundations — TCP/IP, Transport Protocols & DHCP Explained | Faizan Nazir | [Read More](https://medium.com/p/8541d374e5a8) |
 | Fri, 23 Jan 2026 06:09:33 GMT | The Day Google Stopped Helping Me at Work | Saurabh Jain | [Read More](https://medium.com/p/338ba621c5b8) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 22 Jan 2026 20:50:18 GMT | ArgoCD’s Hidden Dex Problem: When SSO Becomes a Security Liability | Sadi Zane | [Read More](https://medium.com/p/1cadfee239de) |
 | Thu, 22 Jan 2026 20:35:38 GMT | Cyber Attacks That Don’t Break Systems but Desynchronize Them | Muhammad Ali Khan | [Read More](https://medium.com/p/c8d7aa7ec24e) |
 | Thu, 22 Jan 2026 20:31:35 GMT | How our browsers find the websites? DNS | Nargiz Heydarova | [Read More](https://medium.com/p/78d1d3be7541) |
-| Thu, 22 Jan 2026 20:31:32 GMT | BROKEN ACCESS CONTROL | Zekikayaalp | [Read More](https://medium.com/p/02fc6dcbb1b0) |
-| Thu, 22 Jan 2026 20:28:46 GMT | Can Good Security Policies turn Bad? | Ben   Olufemi akintounde | [Read More](https://medium.com/p/e9726164df6a) |
-| Thu, 22 Jan 2026 20:20:39 GMT | A Subtle Async Hooks Bug That Could Crash Your Node.js Server | Rahul_Samajpati | [Read More](https://medium.com/p/e52df583b76f) |
-| Thu, 22 Jan 2026 20:15:26 GMT | From Phishing to Blackout: Inside the SCADABreach Ransomware Simulation | artur | [Read More](https://medium.com/p/746373a4822b) |
-| Thu, 22 Jan 2026 20:10:53 GMT | OSINT Toolkit: Hackers’ Secret Weapon Exposed! | cybrNK | [Read More](https://medium.com/p/b465f3c01cbe) |
-| Thu, 22 Jan 2026 20:10:03 GMT | Is Bitunix Safe? A Real Look at Security, Trust and What Matters Today. | Daisypto | [Read More](https://medium.com/p/96a3d0d45d54) |
-| Thu, 22 Jan 2026 20:06:18 GMT | De open plek | l´observatrice | [Read More](https://medium.com/p/73d96662fac7) |
-| Thu, 22 Jan 2026 20:01:39 GMT | Building My First Home Server: A Journey Into Hardware, Networking, and Security | My Journey In IT | [Read More](https://medium.com/p/e982974c258e) |
-| Thu, 22 Jan 2026 19:36:53 GMT | Why “latest apk” can break on a two-day-old image digest | Christian Frank Johannsen | [Read More](https://medium.com/p/d6d98e552e3b) |
-| Thu, 22 Jan 2026 19:34:02 GMT | Installing Kali Linux Without Errors | Andrey.Web | [Read More](https://medium.com/p/9fbe60c87c83) |
-| Thu, 22 Jan 2026 19:30:28 GMT | The AI CRM Tax: Why Most Platforms Are Charging You for “Duct-Taped” Intelligence | Michael Fraser | [Read More](https://medium.com/p/6e9c1995268c) |
