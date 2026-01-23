@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 14:44:28 GMT | I’ve Seen Hundreds of Cybersecurity Careers. These Are the Patterns Behind Long-Term Growth | Taimur Ijlal | [Read More](https://medium.com/p/a86015c70f0d) |
+| Fri, 23 Jan 2026 14:43:42 GMT | PicoCTF: Forky ( Difficulty: Hard ) Reverse Engineering | Yasin Arafat Tanim | [Read More](https://medium.com/p/3b204cfc0ff7) |
+| Fri, 23 Jan 2026 14:32:25 GMT | How to Install Kali Linux as a Virtual Machine: A Step-by-Step Guide | Vignesh R | [Read More](https://medium.com/p/3ccf0b9f66cc) |
+| Fri, 23 Jan 2026 14:31:59 GMT | The Digital Transformation Delusion: Why Most “Transformations” Don’t Transform Anything | Xpress Digital Co. | [Read More](https://medium.com/p/1a3269f172d8) |
+| Fri, 23 Jan 2026 14:28:32 GMT | USCSI® Cybersecurity Learning Series — Part 1: Elevate Your Cybersecurity Career with CCC™… | Lucia Adams | [Read More](https://medium.com/p/9bc506f05933) |
+| Fri, 23 Jan 2026 14:18:40 GMT | AI Honeypots: Turning Attackers into Your New Data Source | Chet Windell | [Read More](https://medium.com/p/c3040aecc8a8) |
 | Fri, 23 Jan 2026 14:16:26 GMT | Is Your Body a Project or a Home? | LiNj Mwangi | [Read More](https://medium.com/p/6d9b498faa66) |
 | Fri, 23 Jan 2026 14:12:40 GMT | HawkEye Lab – Network Traffic Analysis Write‑up
 Scenario
@@ -108,9 +114,3 @@ An accountant at the organization… | Elallam | [Read More](https://medium.com/
 | Fri, 23 Jan 2026 08:32:00 GMT | API PENETRATION TESTING WITH VAmPI | Chinaza Emmanuela Obidike | [Read More](https://medium.com/p/45de2dca9419) |
 | Fri, 23 Jan 2026 08:27:37 GMT | Authentication VS Authorization | António Gomes | [Read More](https://medium.com/p/592f979d943d) |
 | Fri, 23 Jan 2026 08:26:50 GMT | What happened | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/869ba7928938) |
-| Fri, 23 Jan 2026 08:25:45 GMT | LLMs and GENAI Apps: Risk & Mitigations — Part 8: System Prompt Leakage! | Nothing Cyber [NC] | [Read More](https://medium.com/p/20a78358cf06) |
-| Fri, 23 Jan 2026 08:24:09 GMT | Krizde BT & Teknoloji Yatırımlarını Kısmak: Tasarruf mu, Dijital Bir İntihar mı? | SPIDYA Software | [Read More](https://medium.com/p/bc820197e332) |
-| Fri, 23 Jan 2026 08:07:20 GMT | All You Need to Know About AWS IAM: A Complete Guide | Himansrivastava | [Read More](https://medium.com/p/c85ead6124dd) |
-| Fri, 23 Jan 2026 08:04:16 GMT | CVE-2026–24061: The GNU InetUtils telnetd Bug That Lets Attackers Log In as root (No Password) | Germano Costi | [Read More](https://medium.com/p/6ca3855432b1) |
-| Fri, 23 Jan 2026 07:53:56 GMT | Understanding Privileged Access | Rudratic Technologies | [Read More](https://medium.com/p/6911b06859c5) |
-| Fri, 23 Jan 2026 07:42:59 GMT | Simple Endpoint, Critical Impact: How I Sabotaged Refunds | Samet Yiğit | [Read More](https://medium.com/p/1cd0ac7a4cb2) |
