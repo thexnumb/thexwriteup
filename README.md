@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 20:18:09 GMT | How I Passed the CompTIA Security+ (SY0–701) — Study Plan, Resources & Exam-Day Strategy | Jufagax | [Read More](https://medium.com/p/ef5528bca6a6) |
+| Fri, 23 Jan 2026 20:12:14 GMT | LetsDefend Challenge: Brute Force Attacks | Ravan Qurbanov | [Read More](https://medium.com/p/be954630d644) |
+| Fri, 23 Jan 2026 20:06:35 GMT | Hackers Hate This Free Tool: Expose Hidden Web Attack Surfaces in Minutes! | cybrNK | [Read More](https://medium.com/p/749f8fd325cd) |
+| Fri, 23 Jan 2026 20:04:41 GMT | Cracking the Dev Box: From NFS Misconfiguration to Sudo Zip Escalation | Hemantha Krishna Challa | [Read More](https://medium.com/p/6eec4fa20cca) |
+| Fri, 23 Jan 2026 20:01:40 GMT | AIX: The Tool That’s Missing From Every AI Security Assessment | Simone Licitra | [Read More](https://medium.com/p/9cb2bf0a1b03) |
+| Fri, 23 Jan 2026 19:55:36 GMT | WN: Someone scored your profile with AI, AI based apps on Apple Store leaks data, & Kenya orders… | Law and Ethics in Tech | [Read More](https://medium.com/p/4fa9fcf3d308) |
+| Fri, 23 Jan 2026 19:51:33 GMT | 7 Technology Trends Small Businesses Can’t Afford to Ignore in 2026 | SMBs IT Solutions | [Read More](https://medium.com/p/dca954bf432f) |
+| Fri, 23 Jan 2026 19:51:27 GMT | Avoiding branding buzzword barriers | B Nitz | [Read More](https://medium.com/p/55d9d56957e8) |
+| Fri, 23 Jan 2026 19:48:57 GMT | 無盡的擴張者 (The Autopoietic Expander) | FY Kuo | [Read More](https://medium.com/p/8d48ab3e9ceb) |
+| Fri, 23 Jan 2026 19:47:01 GMT | Why Men Care About a Woman’s Past: The Shocking Truth Behind Virginity | Claire Moore | [Read More](https://medium.com/p/0531baa2ffd4) |
+| Fri, 23 Jan 2026 19:43:34 GMT | Your App Worked Perfectly… Until the OS Killed It | Md. Al-Amin | [Read More](https://medium.com/p/ac8d63d24f21) |
 | Fri, 23 Jan 2026 19:41:41 GMT | DevSecOps for Git: How Enterprises Actually Secure Their Source Code (No Theory, Just Reality) | Bhanureddybandi | [Read More](https://medium.com/p/f18e8f8d2698) |
+| Fri, 23 Jan 2026 19:39:54 GMT | CISSP Domain 8- Part 3 | Pushpak Sharma | [Read More](https://medium.com/p/3fb2c0522e8a) |
+| Fri, 23 Jan 2026 19:36:24 GMT | Metasploitable2 Full Exploitation Walkthrough — From Recon to Root | P Sam Tarun | [Read More](https://medium.com/p/df034f00eb63) |
+| Fri, 23 Jan 2026 19:33:15 GMT | Microsoft Outage Disrupts Outlook and Teams: What Happened and How to Prepare for Future Issues | Omar Boulama | [Read More](https://medium.com/p/1d0d845ff512) |
 | Fri, 23 Jan 2026 19:31:26 GMT | Ethical Hacking Services. | Private-hackers.com | [Read More](https://medium.com/p/90c4561578be) |
 | Fri, 23 Jan 2026 19:16:58 GMT | Escaping the Bootloop nightmare for a failed Root | Suprit Pandurangi | [Read More](https://medium.com/p/18f6b7e47e59) |
 | Fri, 23 Jan 2026 19:11:06 GMT | Okta SSO Accounts Under Siege: New Vishing Attacks Expose Security Gaps | Technijian | [Read More](https://medium.com/p/17b77b259b43) |
@@ -100,17 +114,3 @@ An accountant at the organization… | Elallam | [Read More](https://medium.com/
 | Fri, 23 Jan 2026 14:01:48 GMT | Is Using a VPN Legal in the UK? (2026 Guide) | Sean Harding | [Read More](https://medium.com/p/a278a08d7d0d) |
 | Fri, 23 Jan 2026 14:01:45 GMT | Pay attention to every detail, that’s it! | Abhirup Konwar | [Read More](https://medium.com/p/550260c03b61) |
 | Fri, 23 Jan 2026 14:01:17 GMT | How to create a cyber news aggregator in Tines | h@shtalk | [Read More](https://medium.com/p/93418c8b93ed) |
-| Fri, 23 Jan 2026 14:00:43 GMT | About Me — Tariq Aziz | Taziz Aziz | [Read More](https://medium.com/p/f96f165fb97f) |
-| Fri, 23 Jan 2026 13:57:04 GMT | XSS Payloads Made Easy: How to Build One (Step by Step) | Muhammed Asfan - Cybersecurity Researcher | [Read More](https://medium.com/p/280f477bf609) |
-| Fri, 23 Jan 2026 13:55:54 GMT | Financial Security Comes First: Why Modern Businesses Can’t Afford to Ignore Cyber Protection | Plutosec Cyber Security | [Read More](https://medium.com/p/177dd102303b) |
-| Fri, 23 Jan 2026 13:54:36 GMT | Full Stack Development for Beginners: A Simple Guide to Get Started | Panimalarmeenambiga M | [Read More](https://medium.com/p/d278e66685a4) |
-| Fri, 23 Jan 2026 13:37:12 GMT | Verified Darkweb Directories: What “Trusted” Really Means on the Tor Network | Tor BBB | [Read More](https://medium.com/p/809795b0ac9d) |
-| Fri, 23 Jan 2026 13:32:02 GMT | NestJS DTO Validation That Doesn’t Leak | Bhagya Rana | [Read More](https://medium.com/p/99ad4b47bb03) |
-| Fri, 23 Jan 2026 13:31:24 GMT | The Hidden API Endpoints That Can Make $10k in Bug Bounties (Complete Methodology) | BugHunter’s Journal | [Read More](https://medium.com/p/5f05c2a8e48f) |
-| Fri, 23 Jan 2026 13:29:48 GMT | A Strategic Guide to Biometric Cryptographic Standards | Devin Rosario | [Read More](https://medium.com/p/d4dad85f2a5a) |
-| Fri, 23 Jan 2026 13:23:15 GMT | Part 2 — The Enterprise Browser as the New DLP Perimeter | Mammoth Cyber | [Read More](https://medium.com/p/6b7c04f96ee9) |
-| Fri, 23 Jan 2026 13:22:07 GMT | The Last Day Isn’t Tomorrow | Maithilee Singh | [Read More](https://medium.com/p/98b55010fa98) |
-| Fri, 23 Jan 2026 13:21:23 GMT | Navigating the Storm: Lessons From 2025 Crypto Attacks in | OKcontract Chainwall | [Read More](https://medium.com/p/d440026d5836) |
-| Fri, 23 Jan 2026 13:17:00 GMT | IoT Security Made Simple: Protecting The Devices You Forgot You Own | Plaintext with Rich | [Read More](https://medium.com/p/1409b2ee8a24) |
-| Fri, 23 Jan 2026 13:10:08 GMT | The Human Factor in Cybersecurity: Why People, Not Technology, Define Security Outcomes | Frank salman | [Read More](https://medium.com/p/a4483ddb33c2) |
-| Fri, 23 Jan 2026 13:03:36 GMT | Linux Security Habit #19: I Don’t Export Logs Randomly — I Export Them With a Verdict in Mind | Faruk Ahmed | [Read More](https://medium.com/p/8b6f601b92db) |
