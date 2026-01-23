@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 11:37:23 GMT | Ignite — TryHackMe Walkthrough / Writeup | sudo_0xksh | [Read More](https://medium.com/p/58b7d52a1747) |
+| Fri, 23 Jan 2026 11:37:03 GMT | Fowsniff CTF — THM Writeup | sudo_0xksh | [Read More](https://medium.com/p/4ce5a0f14fe1) |
+| Fri, 23 Jan 2026 11:32:01 GMT | JavaScript Security: XSS, CSRF, and What Matters | Quaxel | [Read More](https://medium.com/p/485cfea11223) |
+| Fri, 23 Jan 2026 11:31:12 GMT | How to Build a Professional Cybersecurity Home Lab for $0 | Axoloth | [Read More](https://medium.com/p/f2ad555f0588) |
+| Fri, 23 Jan 2026 11:28:27 GMT | A5/1 Stream Cipher: Linear-feedback Shift Register — Case Study | Journal of Landing Across Linguistic Foreground | [Read More](https://medium.com/p/c9700e9376e6) |
+| Fri, 23 Jan 2026 11:28:00 GMT | Hacker’s Manifesto | Zyekodja | [Read More](https://medium.com/p/ec5baac8c096) |
+| Fri, 23 Jan 2026 11:23:54 GMT | IA generative & misinformation: how to verify information in 2026 (a simple method, professional… | Abbas Mistrah | [Read More](https://medium.com/p/ff8777056c65) |
+| Fri, 23 Jan 2026 11:23:33 GMT | Automation in the Black Hat NOC: From Lone Bottleneck to Collective Brain | James Holland | [Read More](https://medium.com/p/cb939f377515) |
+| Fri, 23 Jan 2026 11:18:34 GMT | Cybersecurity Gap Assessment: Finding the Cracks Before Attackers Do | Zefai Insights | [Read More](https://medium.com/p/2558dcfcb9b7) |
 | Fri, 23 Jan 2026 11:15:59 GMT | HackTheBox: Eighteen | Root_Fabric | [Read More](https://medium.com/p/9a5c884b2bab) |
 | Fri, 23 Jan 2026 11:12:18 GMT | How to Clean Your Computer Like a Pro: The Ultimate Privacy Guide Everyone Should Know | Charu Kumar Mathur | [Read More](https://medium.com/p/355023b71cd3) |
 | Fri, 23 Jan 2026 11:10:10 GMT | How to Build a Trustworthy Cyber Security Agency Website in Under 3 Hours (No Code Required) | Rasel Uddin | [Read More](https://medium.com/p/91c1cb391b86) |
@@ -60,6 +69,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 Jan 2026 08:27:37 GMT | Authentication VS Authorization | António Gomes | [Read More](https://medium.com/p/592f979d943d) |
 | Fri, 23 Jan 2026 08:26:50 GMT | What happened | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/869ba7928938) |
 | Fri, 23 Jan 2026 08:25:45 GMT | LLMs and GENAI Apps: Risk & Mitigations — Part 8: System Prompt Leakage! | Nothing Cyber [NC] | [Read More](https://medium.com/p/20a78358cf06) |
+| Fri, 23 Jan 2026 08:24:09 GMT | Krizde BT & Teknoloji Yatırımlarını Kısmak: Tasarruf mu, Dijital Bir İntihar mı? | SPIDYA Software | [Read More](https://medium.com/p/bc820197e332) |
 | Fri, 23 Jan 2026 08:07:20 GMT | All You Need to Know About AWS IAM: A Complete Guide | Himansrivastava | [Read More](https://medium.com/p/c85ead6124dd) |
 | Fri, 23 Jan 2026 08:04:16 GMT | CVE-2026–24061: The GNU InetUtils telnetd Bug That Lets Attackers Log In as root (No Password) | Germano Costi | [Read More](https://medium.com/p/6ca3855432b1) |
 | Fri, 23 Jan 2026 07:53:56 GMT | Understanding Privileged Access | Rudratic Technologies | [Read More](https://medium.com/p/6911b06859c5) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 Jan 2026 04:49:37 GMT | Cloud Security in 2026 | Akalanka Dambagolla | [Read More](https://medium.com/p/dd0563ad34f3) |
 | Fri, 23 Jan 2026 04:39:05 GMT | AI-Driven Cyber Threat Detection: Evaluating Tools and Frameworks | Shamim Rajani | [Read More](https://medium.com/p/2c5c64437acb) |
 | Fri, 23 Jan 2026 04:38:14 GMT | OSINT Advice for Beginners: What I Wish I Knew When I Started | Matyas Koszegi | [Read More](https://medium.com/p/a245d49b432b) |
-| Fri, 23 Jan 2026 04:32:03 GMT | AddTransient vs AddScoped vs AddSingleton in .NET Core (With Examples) | Sachin Ghadi | [Read More](https://medium.com/p/1fea6fb36c83) |
-| Fri, 23 Jan 2026 04:29:50 GMT | Your Development Environment Is a Security Risk: What Every Android Developer Needs to Know | Sanath Sajeeva Kumara | [Read More](https://medium.com/p/33eda4ee9ac4) |
-| Fri, 23 Jan 2026 04:13:50 GMT | Why Security Must Be Sustainable — Incentives as a Structural Requirement | sengom | [Read More](https://medium.com/p/c833eda37b5e) |
-| Fri, 23 Jan 2026 04:12:57 GMT | How Security Evolves — Distributed Threat Learning Without Central Control | sengom | [Read More](https://medium.com/p/8db1de6e603a) |
-| Fri, 23 Jan 2026 04:12:55 GMT | CVSS and Vulnerability Management | Grace T | [Read More](https://medium.com/p/2e11242f85c5) |
-| Fri, 23 Jan 2026 04:09:22 GMT | What is Behind: AIPromptGrader™ | Nikolay Gul | [Read More](https://medium.com/p/a12c3458ebae) |
-| Fri, 23 Jan 2026 04:02:48 GMT | AI Can Now Find Hidden Software Flaws… and Control Your Computer | The Political Nexus | [Read More](https://medium.com/p/6102064486e8) |
-| Fri, 23 Jan 2026 03:45:28 GMT | Cracking the DarkMatter Ransomware: A CTF Walkthrough | Hemantha Krishna Challa | [Read More](https://medium.com/p/bd731bb74f57) |
-| Fri, 23 Jan 2026 03:43:24 GMT | From IT Technician to Junior SOC Analyst: Documenting My Cybersecurity Journey | Alfredo Zablah | [Read More](https://medium.com/p/6882aca6a10b) |
-| Fri, 23 Jan 2026 03:42:25 GMT | สรุปบทเรียน Security Literacy จาก MyOrder Workshop เมื่อความปลอดภัยเป็นเรื่องของ “ทุกคน” | Rachata Khawngam | [Read More](https://medium.com/p/e76ebd86af02) |
