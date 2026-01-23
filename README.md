@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 17:40:53 GMT | Greenland, NATO and Global Security | Holts History Hub | [Read More](https://medium.com/p/9cbfe876d58c) |
+| Fri, 23 Jan 2026 17:40:41 GMT | FortiGate Secure Enterprise Network (Business-Driven Security Lab) | Benedict Ryan | [Read More](https://medium.com/p/b7b5a754e6ed) |
+| Fri, 23 Jan 2026 17:36:27 GMT | The Night I Almost Lost Everything: A Guide to Stopping Reentrancy Attacks | Frank Kelechi Oge | [Read More](https://medium.com/p/cda9209897de) |
+| Fri, 23 Jan 2026 17:32:22 GMT | The False Promise of Unified SOCs for IT/OT | Muhammad Ali Khan | [Read More](https://medium.com/p/9998c5a9417e) |
+| Fri, 23 Jan 2026 17:32:03 GMT | Cards Face Up | musingsfrommarc | [Read More](https://medium.com/p/a2cff32056b6) |
+| Fri, 23 Jan 2026 17:18:08 GMT | MCP ThreatShield: Making AI Agents Safer, One Scan at a Time | Gahana R | [Read More](https://medium.com/p/e995bcd2488e) |
+| Fri, 23 Jan 2026 17:17:59 GMT | The “Node 1.9” Miracle: How to Turn Your Bitcoin into a Hard Lesson in Cybersecurity | shamooo | [Read More](https://medium.com/p/e2435a142adb) |
 | Fri, 23 Jan 2026 17:13:27 GMT | eJPT in 60 Days — Day 2: Website Recon and Footprinting (Passive) | Nagarjunht | [Read More](https://medium.com/p/087c3058d6f6) |
 | Fri, 23 Jan 2026 17:03:49 GMT | Cybersecurity News Review — Week 4 (2026) | Mladen Kirilov | [Read More](https://medium.com/p/bed78a7c25d1) |
 | Fri, 23 Jan 2026 17:03:46 GMT | AWS Multi-Account, CloudFormation, and Cloud Security Posture Management (CSPM) | Salman Baset | [Read More](https://medium.com/p/179a76aeed88) |
@@ -107,10 +114,3 @@ An accountant at the organization… | Elallam | [Read More](https://medium.com/
 | Fri, 23 Jan 2026 11:31:12 GMT | How to Build a Professional Cybersecurity Home Lab for $0 | Axoloth | [Read More](https://medium.com/p/f2ad555f0588) |
 | Fri, 23 Jan 2026 11:29:57 GMT | Counterintelligence as an Art of Indirect Power: Eastern Philosophical Foundations of Deception… | Andrey Spiridonov | [Read More](https://medium.com/p/25ef416fbd2d) |
 | Fri, 23 Jan 2026 11:28:27 GMT | A5/1 Stream Cipher: Linear-feedback Shift Register — Case Study | Journal of Landing Across Linguistic Foreground | [Read More](https://medium.com/p/c9700e9376e6) |
-| Fri, 23 Jan 2026 11:28:00 GMT | Hacker’s Manifesto | Zyekodja | [Read More](https://medium.com/p/ec5baac8c096) |
-| Fri, 23 Jan 2026 11:23:54 GMT | IA generative & misinformation: how to verify information in 2026 (a simple method, professional… | Abbas Mistrah | [Read More](https://medium.com/p/ff8777056c65) |
-| Fri, 23 Jan 2026 11:23:33 GMT | Automation in the Black Hat NOC: From Lone Bottleneck to Collective Brain | James Holland | [Read More](https://medium.com/p/cb939f377515) |
-| Fri, 23 Jan 2026 11:18:34 GMT | Cybersecurity Gap Assessment: Finding the Cracks Before Attackers Do | Zefai Insights | [Read More](https://medium.com/p/2558dcfcb9b7) |
-| Fri, 23 Jan 2026 11:15:59 GMT | HackTheBox: Eighteen | Root_Fabric | [Read More](https://medium.com/p/9a5c884b2bab) |
-| Fri, 23 Jan 2026 11:12:18 GMT | How to Clean Your Computer Like a Pro: The Ultimate Privacy Guide Everyone Should Know | Charu Kumar Mathur | [Read More](https://medium.com/p/355023b71cd3) |
-| Fri, 23 Jan 2026 11:10:10 GMT | How to Build a Trustworthy Cyber Security Agency Website in Under 3 Hours (No Code Required) | Rasel Uddin | [Read More](https://medium.com/p/91c1cb391b86) |
