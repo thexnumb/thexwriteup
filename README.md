@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 22:28:31 GMT | Containment | Kemi Wren | [Read More](https://medium.com/p/a5ac5d1dc428) |
+| Fri, 23 Jan 2026 22:28:10 GMT | Ireland’s Encryption Backdoor Bill | ⚖️ | [Read More](https://medium.com/p/b0ca1c5fa7c1) |
+| Fri, 23 Jan 2026 22:27:06 GMT | Quantum Scrambler — picoCTF 2025 Writeup | truffles | [Read More](https://medium.com/p/c6d892805c6f) |
+| Fri, 23 Jan 2026 22:23:02 GMT | Recreating a Broadcast Storm to Understand STP | Josiah Blanchette | [Read More](https://medium.com/p/59fcee28ff15) |
+| Fri, 23 Jan 2026 22:20:19 GMT | 09051012897شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز | شماره خاله تهران شماره خاله اصفهان شماره خاله شیرا | [Read More](https://medium.com/p/251ce633d365) |
+| Fri, 23 Jan 2026 22:19:50 GMT | 09051012897شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز | شماره خاله تهران شماره خاله اصفهان شماره خاله شیرا | [Read More](https://medium.com/p/a0e4a27856c1) |
 | Fri, 23 Jan 2026 22:17:55 GMT | 09051012897شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز | شماره خاله تهران شماره خاله اصفهان شماره خاله شیرا | [Read More](https://medium.com/p/32897c267966) |
 | Fri, 23 Jan 2026 22:17:22 GMT | 09051012897شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز | شماره خاله تهران شماره خاله اصفهان شماره خاله شیرا | [Read More](https://medium.com/p/6b9330ed5d20) |
 | Fri, 23 Jan 2026 22:03:48 GMT | OpenToWork: Recruiters Tell You Not to Look Desperate. LinkedIn’s Algorithm Requires It. | Aubrey | [Read More](https://medium.com/p/47b60da9b72c) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 Jan 2026 15:45:37 GMT | To be seen is to be conquered | Shazana Shiraz | [Read More](https://medium.com/p/1075c8aac9ee) |
 | Fri, 23 Jan 2026 15:32:31 GMT | Rethinking cold wallet security: why screens aren’t a must anymore | HASHWallet | [Read More](https://medium.com/p/55d883bc3600) |
 | Fri, 23 Jan 2026 15:32:30 GMT | What Is a Power Door Lock - How It Works & Key Benefits | Sure Lock & Key LLC | [Read More](https://medium.com/p/d8a132571130) |
-| Fri, 23 Jan 2026 15:32:30 GMT | Browser Wars, Continued: Why Everyone Is Building Their Own AI Browser | SquareX | [Read More](https://medium.com/p/2803d6584c46) |
-| Fri, 23 Jan 2026 15:32:30 GMT | Webhooks That Don’t Get You Pwned in n8n | Duckweave | [Read More](https://medium.com/p/0f26c603f639) |
-| Fri, 23 Jan 2026 15:32:29 GMT | When Your AI Edits Code, Who Holds the Seatbelt? | Thinking Loop | [Read More](https://medium.com/p/12c0f670cee1) |
-| Fri, 23 Jan 2026 15:32:29 GMT | Three Levels of Digital Self-Defense | Thexyz | [Read More](https://medium.com/p/59b06b23e18c) |
-| Fri, 23 Jan 2026 15:31:45 GMT | Managing and Securing VS Code Extensions at Scale | Palantir | [Read More](https://medium.com/p/b75b2cf72b02) |
-| Fri, 23 Jan 2026 15:29:49 GMT | At-Least-Once Delivery Is a Feature, Not a Bug | dolly | [Read More](https://medium.com/p/3e303fdaf8f3) |
