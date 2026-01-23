@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 17:13:27 GMT | eJPT in 60 Days — Day 2: Website Recon and Footprinting (Passive) | Nagarjunht | [Read More](https://medium.com/p/087c3058d6f6) |
+| Fri, 23 Jan 2026 17:03:49 GMT | Cybersecurity News Review — Week 4 (2026) | Mladen Kirilov | [Read More](https://medium.com/p/bed78a7c25d1) |
+| Fri, 23 Jan 2026 17:03:46 GMT | AWS Multi-Account, CloudFormation, and Cloud Security Posture Management (CSPM) | Salman Baset | [Read More](https://medium.com/p/179a76aeed88) |
+| Fri, 23 Jan 2026 16:56:22 GMT | Custom Vishing Kits Target SSO Accounts Worldwide 2026 — Google, Microsoft, Okta Under Threat | Ronaldjames | [Read More](https://medium.com/p/1f79357edf69) |
+| Fri, 23 Jan 2026 16:55:13 GMT | Tomcat Takeover Lab (Cyberdefenders) | FeCeSociety | [Read More](https://medium.com/p/c35dece8a274) |
+| Fri, 23 Jan 2026 16:54:56 GMT | How I Built an End-to-End Encrypted File Sharing App in 30 Days Using Flask, Redis, and ChaCha20 | Aayush | [Read More](https://medium.com/p/069613da2ba7) |
+| Fri, 23 Jan 2026 16:52:09 GMT | Title: Volatility 3 Will Change How You Hunt Malware (and Here’s the Cheatsheet) | SOCFortress | [Read More](https://medium.com/p/a535d4530611) |
+| Fri, 23 Jan 2026 16:49:27 GMT | United, Europeans can defeat the United States in a conventional war | Aurel Stratan | [Read More](https://medium.com/p/7cd571e554fe) |
+| Fri, 23 Jan 2026 16:46:42 GMT | When Should Cybersecurity be Engaged for Innovation? | Matthew.Rosenquist | [Read More](https://medium.com/p/44bb6e6051b8) |
+| Fri, 23 Jan 2026 16:35:44 GMT | The “IT Kings” Delusion: Why AI Won’t Replace Doctors — It Will Replace You | Shenggang Li | [Read More](https://medium.com/p/1cf71c3040b2) |
+| Fri, 23 Jan 2026 16:34:01 GMT | 3 Prompt Injection Attacks You Can Test Right Now | Josh Gracie | [Read More](https://medium.com/p/6858916f2486) |
+| Fri, 23 Jan 2026 16:31:04 GMT | What Really Goes Wrong in the First 6 Hours After a Cyberattack | Cordula Boeck | [Read More](https://medium.com/p/539a5ada5914) |
 | Fri, 23 Jan 2026 16:29:34 GMT | The Web of North Korean fake profiles | Mees van Wickeren | [Read More](https://medium.com/p/3e04d8dcd1af) |
 | Fri, 23 Jan 2026 16:26:47 GMT | Weaponizing Word: The Art of Remote Template Injection & Reverse Shells | Saksham Bhattarai | [Read More](https://medium.com/p/4f52155507ec) |
 | Fri, 23 Jan 2026 16:24:38 GMT | Security Ticketing & Incident Workflow Lab (Cybrary) | Shahzeb M | [Read More](https://medium.com/p/1713f6f5af06) |
@@ -102,15 +114,3 @@ An accountant at the organization… | Elallam | [Read More](https://medium.com/
 | Fri, 23 Jan 2026 11:15:59 GMT | HackTheBox: Eighteen | Root_Fabric | [Read More](https://medium.com/p/9a5c884b2bab) |
 | Fri, 23 Jan 2026 11:12:18 GMT | How to Clean Your Computer Like a Pro: The Ultimate Privacy Guide Everyone Should Know | Charu Kumar Mathur | [Read More](https://medium.com/p/355023b71cd3) |
 | Fri, 23 Jan 2026 11:10:10 GMT | How to Build a Trustworthy Cyber Security Agency Website in Under 3 Hours (No Code Required) | Rasel Uddin | [Read More](https://medium.com/p/91c1cb391b86) |
-| Fri, 23 Jan 2026 11:08:30 GMT | AWS CloudWatch Simple Automated Log Archival Solution with Low to None Costs | Nuwan Premaratne | [Read More](https://medium.com/p/4af2005942cd) |
-| Fri, 23 Jan 2026 11:08:01 GMT | Event Log Forensics — PicoCTF Challenge Walkthrough | Elmin Farzaliyev | [Read More](https://medium.com/p/26cd4add7f7b) |
-| Fri, 23 Jan 2026 11:02:03 GMT | Integrating a Malware Sandbox into SOAR Workflows: Steps, Benefits, and Impact | ANY.RUN | [Read More](https://medium.com/p/1e6ec817084e) |
-| Fri, 23 Jan 2026 10:57:38 GMT | Digital Resilience and Workforce Mobilization | Brian Handshy | [Read More](https://medium.com/p/4f2503c8d382) |
-| Fri, 23 Jan 2026 10:57:34 GMT | DockerLabs Writeup — Jason (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/8c56fcdd0f6d) |
-| Fri, 23 Jan 2026 10:56:35 GMT | 2026 Q1 Report: FxCapLtd Compliance Framework and Technical Standards Review | Certification Flow Laboratories | [Read More](https://medium.com/p/e44358b19ef3) |
-| Fri, 23 Jan 2026 10:39:54 GMT | Why Does Choosing the Right Security Partner Matter So Much? | Luke Appleby | [Read More](https://medium.com/p/a2aedc99daa5) |
-| Fri, 23 Jan 2026 10:38:10 GMT | Experience the Best Smart Home Automation in Dubai and Best CCTV System in UAE | techfra solutions | [Read More](https://medium.com/p/d33cce069318) |
-| Fri, 23 Jan 2026 10:37:00 GMT | QA Engineering with a Forensic Mindset: Protecting Your Institution's Integrity | Romoaldo Doliz | [Read More](https://medium.com/p/3add51a45ee9) |
-| Fri, 23 Jan 2026 10:24:56 GMT | Telefonum Hacklendi mi? Nasıl Anlarınız, Nasıl Önler ve Kurtuluruz? | Mustafa Can Akbaba | [Read More](https://medium.com/p/048f1d1d14f4) |
-| Fri, 23 Jan 2026 10:17:13 GMT | Border Security Technologies Market Size to Surpass USD 71.92 Billion by 2035 | Akshay Dhamal | [Read More](https://medium.com/p/1b9f560b421f) |
-| Fri, 23 Jan 2026 10:08:39 GMT | The 10 Most Dangerous Hacking Devices | mohandika | [Read More](https://medium.com/p/d75af50c0122) |
