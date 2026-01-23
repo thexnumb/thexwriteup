@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 23 Jan 2026 10:17:13 GMT | Border Security Technologies Market Size to Surpass USD 71.92 Billion by 2035 | Akshay Dhamal | [Read More](https://medium.com/p/1b9f560b421f) |
+| Fri, 23 Jan 2026 10:08:39 GMT | The 10 Most Dangerous Hacking Devices | mohandika | [Read More](https://medium.com/p/d75af50c0122) |
+| Fri, 23 Jan 2026 10:08:12 GMT | Hotel Security Guard in Houston | Security Houston | [Read More](https://medium.com/p/17799d8c6d7c) |
+| Fri, 23 Jan 2026 10:08:11 GMT | [Templates]  —  Exploiting PugJS Server-Side Template Injection to Remote Shell Access | Bash Overflow | [Read More](https://medium.com/p/464677793862) |
+| Fri, 23 Jan 2026 10:03:01 GMT | Is Using a VPN Legal in the UK? (2026 Guide) | Sean Harding | [Read More](https://medium.com/p/2603074665bd) |
+| Fri, 23 Jan 2026 10:00:23 GMT | hello my name canab I come from somalia and I went learn more more course please help me | Canab maxamed cusmaan Canab maxamed cusmaan | [Read More](https://medium.com/p/2f9e095fdcd9) |
+| Fri, 23 Jan 2026 09:45:25 GMT | The Role of Blockchain in Securing Personal Data | Yana Veretilnyk | [Read More](https://medium.com/p/7846d9e4af69) |
+| Fri, 23 Jan 2026 09:36:08 GMT | SON DÖNEMİN EN KRİTİK SİBER GÜVENLİK AÇIKLARI: Gerçek CVE Vakalarıyla Teknik Analiz | dilan alpaltun | [Read More](https://medium.com/p/6ea5a190f54d) |
 | Fri, 23 Jan 2026 09:30:24 GMT | Hospital Security Guards in Houston | Security Houston | [Read More](https://medium.com/p/b57241e72763) |
 | Fri, 23 Jan 2026 09:27:30 GMT | Total Security Solutions: The Future of Advanced Electronic Security Solutions | Ciss India | [Read More](https://medium.com/p/983fe29854f6) |
 | Fri, 23 Jan 2026 09:26:31 GMT | Key Security Service Priorities for Corporates, Tech Parks & Campuses. | Handiman Services | [Read More](https://medium.com/p/e129634337da) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 Jan 2026 02:29:33 GMT | How much 2FA annoys me | Anton Minin Baranovskii | [Read More](https://medium.com/p/e1c7dd3bff43) |
 | Fri, 23 Jan 2026 02:22:50 GMT | DAY-1(RUST PROGRAMMING) | vulnhunter | [Read More](https://medium.com/p/d1b4a7dc3346) |
 | Fri, 23 Jan 2026 02:05:52 GMT | Smart Authentication, Mindful by Design | Anton Minin Baranovskii | [Read More](https://medium.com/p/ae46c623e6e6) |
-| Fri, 23 Jan 2026 01:53:24 GMT | Beyond the Black Box: Why Explainable Security Matters More Than Scale | Juan David Correa Landreau | [Read More](https://medium.com/p/2e441ed95036) |
-| Fri, 23 Jan 2026 01:53:01 GMT | Having Children: Parenting Choices, Family Planning, and Old Age Security | Hanpis | [Read More](https://medium.com/p/5736a8fb624f) |
-| Fri, 23 Jan 2026 01:41:12 GMT | (AI) Security is about Helping Everyone Else | David Anderson | [Read More](https://medium.com/p/0f2e73a6b46c) |
-| Fri, 23 Jan 2026 01:22:21 GMT | SSL Labs Explained: How to Test and Improve Your Website’s HTTPS Security | Dennis Duke | [Read More](https://medium.com/p/9a1de09d9b0e) |
-| Fri, 23 Jan 2026 01:15:28 GMT | Pentester’s Guide to SMB, SMTP, and SNMP Enumeration | Fuzzyy Duck | [Read More](https://medium.com/p/58795a9d48ae) |
-| Fri, 23 Jan 2026 01:14:28 GMT | Black Shrantac Ransomware: Victim Analysis, Leak Site Intelligence, and Threat Assessment… | Regan Temudo | [Read More](https://medium.com/p/fa7e68b73dc6) |
-| Fri, 23 Jan 2026 01:10:21 GMT | The World We Dream Of | Safewithyvonne | [Read More](https://medium.com/p/b9e6b7f60d2a) |
-| Fri, 23 Jan 2026 01:09:24 GMT | CBTeamerX Exam Review & How to prepare yourself for this exam | Chicken0248 | [Read More](https://medium.com/p/495aafdc5b45) |
