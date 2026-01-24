@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 13:29:14 GMT | How Cloudflare’s ACME Bug Let Attackers Bypass WAFs (Full Report) | Saad Khalid | [Read More](https://medium.com/p/117be607d513) |
+| Sat, 24 Jan 2026 13:11:32 GMT | Still Using FTP? How Cloud-Native File Transfers Solve Legacy Risks | Ali | [Read More](https://medium.com/p/07d03f873a9a) |
+| Sat, 24 Jan 2026 13:04:17 GMT | TryHackMe: Alfred | Root_Fabric | [Read More](https://medium.com/p/bff03bc502b7) |
+| Sat, 24 Jan 2026 13:02:48 GMT | I Finished the RedTeamLeaders AV/EDR Evasion Course — Honest Review | 0xCyberNoob | [Read More](https://medium.com/p/4204f666c208) |
+| Sat, 24 Jan 2026 13:02:15 GMT | Llama Guard: What It Actually Does (And Doesn’t Do) | Josh Gracie | [Read More](https://medium.com/p/0d27ed2185f4) |
+| Sat, 24 Jan 2026 13:01:12 GMT | Threat Landscape Analysis: The VoidLink Cloud-Native Malware Framework | Tech Security | [Read More](https://medium.com/p/ca735b3b9700) |
+| Sat, 24 Jan 2026 12:58:01 GMT | Introduction on Data Classification in the context of Information security | OMAR SHAWISH | [Read More](https://medium.com/p/380407893a83) |
+| Sat, 24 Jan 2026 12:57:06 GMT | Skip 4-year theory, start real cyber security in months Dreaming of cyber security but worried… | Muzamil | [Read More](https://medium.com/p/00209bd2473d) |
+| Sat, 24 Jan 2026 12:54:55 GMT | The Importance of Event Security for Public and Corporate Gatherings | world guardian | [Read More](https://medium.com/p/1f5f77357753) |
+| Sat, 24 Jan 2026 12:53:44 GMT | Gaining Administrative Access on an Internal Development Portal, 300$ bounty | marchenaa | [Read More](https://medium.com/p/8ae9183f4480) |
+| Sat, 24 Jan 2026 12:49:20 GMT | Blind Spots in Email Security Tools That Attackers Love | Paritosh | [Read More](https://medium.com/p/3a2501f4f4f9) |
+| Sat, 24 Jan 2026 12:48:28 GMT | Wordpress security setup for beginer | Techwizs | [Read More](https://medium.com/p/62b128c18e23) |
+| Sat, 24 Jan 2026 12:42:01 GMT | AI Won’t Replace Doctors — But It Will Redefine What It Means to Be One | Foreign Doctor Life | [Read More](https://medium.com/p/aaa0c5711e2b) |
 | Sat, 24 Jan 2026 12:22:02 GMT | Server Actions Are Just POST Requests: The CSRF Trap We’re Ignoring in 2026 | Sameer Thite | [Read More](https://medium.com/p/b1d81d0c9019) |
 | Sat, 24 Jan 2026 12:10:06 GMT | Dependency Hell: Racing SQLite Session Store to Bankruptcy | 0xAren | [Read More](https://medium.com/p/91c9845d70b9) |
 | Sat, 24 Jan 2026 12:02:07 GMT | Detection Engineering Is Production Engineering — Why CI/CD Is No Longer Optional | Surya Teja | [Read More](https://medium.com/p/5318cb527a33) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 03:57:27 GMT | TCP (Transmission Control Protocol) : PART 1 | TheCyberNirvana | [Read More](https://medium.com/p/2b95981caab6) |
 | Sat, 24 Jan 2026 03:54:47 GMT | Proving Grounds Practice Codo Linux Lab ( Road to OSCP ) | Cyb0rgBytes | [Read More](https://medium.com/p/ab82689ee7ef) |
 | Sat, 24 Jan 2026 03:49:04 GMT | A critical zero-day vulnerability named ToolShell (CVE-2025–53770) has been discovered in… | Nicksondiazm | [Read More](https://medium.com/p/7e6042061f2c) |
-| Sat, 24 Jan 2026 03:34:09 GMT | Cybersecurity Challenges in Digital Real Estate Platforms: A Complete Guide | Imperial Heights | [Read More](https://medium.com/p/0553b4bd25bc) |
-| Sat, 24 Jan 2026 03:32:01 GMT | How Corporate File-Sharing Platforms Are Being Quietly Abused for Data Theft | Deven Chhajed | [Read More](https://medium.com/p/f69e1ce427e4) |
-| Sat, 24 Jan 2026 03:31:48 GMT | Exploring SMB Shares Using smbclient on Metasploitable 2 | Cybeague Technologies | [Read More](https://medium.com/p/02c7bce82ab6) |
-| Sat, 24 Jan 2026 03:30:44 GMT | Enumeration with Enum4linux on Metasploitable2 | Cybeague Technologies | [Read More](https://medium.com/p/08dba22dc0e9) |
-| Sat, 24 Jan 2026 03:11:28 GMT | DAY-2 (Rust Programming) | vulnhunter | [Read More](https://medium.com/p/aaac2cd44dbf) |
-| Sat, 24 Jan 2026 02:55:56 GMT | Why incidents keep happening despite good security stacks | Raleigh Guevarra | [Read More](https://medium.com/p/9befbe8ae8d1) |
-| Sat, 24 Jan 2026 02:47:02 GMT | Dumbest Security Fails: The Series | Snarky Lisa | [Read More](https://medium.com/p/75217370cd89) |
-| Sat, 24 Jan 2026 02:33:02 GMT | The Ghost in the Machine: Why Your Antivirus is Missing Modern Malware | Pratik Gurav | [Read More](https://medium.com/p/1272c82e175c) |
-| Sat, 24 Jan 2026 02:21:49 GMT | Modern Security Systems Increasingly Rely on Machine Learning — But They Fail When They Cannot Be… | AstroPema AI LLC | [Read More](https://medium.com/p/7e7eddcefd43) |
-| Sat, 24 Jan 2026 01:59:35 GMT | BehaviorGuard: Building a Privacy-First Behavioral Biometric Authentication System | Prassan Aggarwal | [Read More](https://medium.com/p/bd59db16d716) |
-| Sat, 24 Jan 2026 01:54:57 GMT | Most ASP.NET Core Apps Are Insecure — Because Developers Confuse These 6 Tokens | AshokReddy | [Read More](https://medium.com/p/1f2ae5c95a27) |
-| Sat, 24 Jan 2026 01:53:00 GMT | Collector — FlagYrad | lyön | [Read More](https://medium.com/p/2be9fbfab376) |
-| Sat, 24 Jan 2026 01:43:00 GMT | Lo bueno toma tiempo: Storytelling de cómo me enamoré de mi mejor amigo. | Jenn Rodriguez | [Read More](https://medium.com/p/9c33768085cd) |
