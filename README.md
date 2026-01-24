@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 05:02:13 GMT | Why does every secure app need Authorization and authentication? | Parita Dey | [Read More](https://medium.com/p/f8d1eff77f22) |
+| Sat, 24 Jan 2026 04:55:22 GMT | NIST CSF 2.0 for Marketing Agencies: A Practical Cybersecurity Framework | Ritesh Chauhan | [Read More](https://medium.com/p/bf7fd9b3aa03) |
+| Sat, 24 Jan 2026 04:54:53 GMT | “Your Wi-Fi Was Hacked. Now They Own Your Network.” | ghostyjoe | [Read More](https://medium.com/p/99143e791e30) |
 | Sat, 24 Jan 2026 04:32:09 GMT | Lock Down n8n Webhooks Before They Bite | Nexumo | [Read More](https://medium.com/p/769e6e8768a0) |
 | Sat, 24 Jan 2026 04:32:03 GMT | n8n Credential Hygiene for Self-Hosted Reality | Bhagya Rana | [Read More](https://medium.com/p/cfa90ef1a114) |
 | Sat, 24 Jan 2026 04:29:31 GMT | From Setback to Signal: Cooking Up a Threat Detection Tool on a Raspberry Pi 3 | the CyberStoic | [Read More](https://medium.com/p/387d4b92b5af) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 Jan 2026 19:01:04 GMT | Advanced Persistent Threats (APT) Nedir? | Arda Derya | [Read More](https://medium.com/p/12c79dc6dea4) |
 | Fri, 23 Jan 2026 18:56:13 GMT | INE / eJPT / Assessment Methodologies: Vulnerability Assessment CTF 1 | Salihugurlu | [Read More](https://medium.com/p/b488d143779a) |
 | Fri, 23 Jan 2026 18:55:16 GMT | Deconstructing Detection Logic in Windows Environments-Part 4 | Manish [pikachu] | [Read More](https://medium.com/p/7ccb036d6123) |
-| Fri, 23 Jan 2026 18:51:10 GMT | Wi-Fi & Bluetooth Hacking Exposed: What Attackers Really Do (CEH Perspective) | Cyber Wolf | [Read More](https://medium.com/p/01afe85c92f6) |
-| Fri, 23 Jan 2026 18:44:02 GMT | Overcoming Risk and Vulnerability at Work-- How I Escaped a Hidden Agenda as a Security… | Aaron Hansberry | [Read More](https://medium.com/p/b46d123312dc) |
-| Fri, 23 Jan 2026 18:43:05 GMT | Man in the Middle Attack Nedir? Halka Açık Wi-Fi’da Bilgileriniz Nasıl Çalınır? | Arda Derya | [Read More](https://medium.com/p/6efc0f006a24) |
