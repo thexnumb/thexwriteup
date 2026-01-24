@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 16:25:54 GMT | Year Round Windows Maintenance Keeps Your PC Fast, Safe | Geoffrey Wenger | [Read More](https://medium.com/p/3c0b00793bf9) |
+| Sat, 24 Jan 2026 16:25:52 GMT | Investigating a Major 72m Customer Data Breach: Under Armour Case | Mooki W | [Read More](https://medium.com/p/f2db1deb6b4d) |
 | Sat, 24 Jan 2026 16:17:05 GMT | Rebuilding Day 2 | Technodox10 | [Read More](https://medium.com/p/58126659406c) |
 | Sat, 24 Jan 2026 16:02:22 GMT | MYTH BUSTED: Any “ Computer ” Can Do In Cyber — Security… | lukewago | [Read More](https://medium.com/p/261d53347f37) |
 | Sat, 24 Jan 2026 16:02:01 GMT | Defaults Are Power, Not Convenience: What This Week’s Tech and Markets Quietly Revealed | Qandeel Akhtar | [Read More](https://medium.com/p/c022a4a5b2ba) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 07:54:59 GMT | How Phishing Attacks Work: Studying Zphisher in Termux | Kambetastephano | [Read More](https://medium.com/p/8f0b422f0c95) |
 | Sat, 24 Jan 2026 07:54:28 GMT | Write-up: Gatekeeper lab (Medium) on THM | cLODIUS cOCK | [Read More](https://medium.com/p/6f618778e396) |
 | Sat, 24 Jan 2026 07:46:21 GMT | Davranışsal Güvenlik (Behavioral Security) | Ziya Gokalp | [Read More](https://medium.com/p/e224a0fe1b78) |
-| Sat, 24 Jan 2026 07:45:53 GMT | Future-Proof Careers in the Age of AI: What You Should Learn in 2026 | Vijay Kumar Gupta | [Read More](https://medium.com/p/6e58aaa67531) |
-| Sat, 24 Jan 2026 07:37:09 GMT | Microsoft gave FBI a set of BitLocker encryption keys to unlock suspects’ laptops: Reports | Pythonpom | [Read More](https://medium.com/p/0e6e8b20f084) |
