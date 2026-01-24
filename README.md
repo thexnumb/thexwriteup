@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 08:15:10 GMT | Perplexity Comet 2026 Review: Is It Safe Enough for Daily Use? Agentic Browser | FlowFi | [Read More](https://medium.com/p/7c5aed839bd3) |
+| Sat, 24 Jan 2026 08:11:06 GMT | Beyond Real-Time CTI Sharing: Where DDS-Based Cyber Defense Goes Next | Dr. Ayaz H. Khan | [Read More](https://medium.com/p/4cf98aecb431) |
+| Sat, 24 Jan 2026 07:59:30 GMT | I used to panic the moment my console turned red. | Motunrayo Adegbola | [Read More](https://medium.com/p/cfd3517f2542) |
+| Sat, 24 Jan 2026 07:56:29 GMT | GameShell2 — HackmyVM Writeup | GauthamV | [Read More](https://medium.com/p/155b5cddcae9) |
+| Sat, 24 Jan 2026 07:54:59 GMT | How Phishing Attacks Work: Studying Zphisher in Termux | Kambetastephano | [Read More](https://medium.com/p/8f0b422f0c95) |
+| Sat, 24 Jan 2026 07:54:28 GMT | Write-up: Gatekeeper lab (Medium) on THM | cLODIUS cOCK | [Read More](https://medium.com/p/6f618778e396) |
+| Sat, 24 Jan 2026 07:46:21 GMT | Davranışsal Güvenlik (Behavioral Security) | Ziya Gokalp | [Read More](https://medium.com/p/e224a0fe1b78) |
+| Sat, 24 Jan 2026 07:45:53 GMT | Future-Proof Careers in the Age of AI: What You Should Learn in 2026 | Vijay Kumar Gupta | [Read More](https://medium.com/p/6e58aaa67531) |
+| Sat, 24 Jan 2026 07:37:09 GMT | Microsoft gave FBI a set of BitLocker encryption keys to unlock suspects’ laptops: Reports | Pythonpom | [Read More](https://medium.com/p/0e6e8b20f084) |
 | Sat, 24 Jan 2026 07:32:04 GMT | Multi-Tenant NestJS Without Data-Leak Nightmares | Velorum | [Read More](https://medium.com/p/7f7bae8d2642) |
 | Sat, 24 Jan 2026 07:28:14 GMT | Associative: Your Premier Decentralized Application Development Company in Pune, India | Chaitanyachavan | [Read More](https://medium.com/p/a48884815fac) |
 | Sat, 24 Jan 2026 07:21:03 GMT | What Your Laptop Remembers About You | Amandogra | [Read More](https://medium.com/p/69e18d10d340) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 Jan 2026 21:09:23 GMT | LIST OF IPHONES THAT ARE JAILBREAKBLE | Maxwell | [Read More](https://medium.com/p/a04118d9cabd) |
 | Fri, 23 Jan 2026 21:07:07 GMT | Hello MCP: Debugging and Testing | Alessandro | [Read More](https://medium.com/p/f1da3b0e9288) |
 | Fri, 23 Jan 2026 21:06:00 GMT | Cybersecurity 101 | Ajibola Jr. | [Read More](https://medium.com/p/a8b4ca457c49) |
-| Fri, 23 Jan 2026 20:58:19 GMT | Portswigger : SSRF Exploitation | Sandeepsisodiya | [Read More](https://medium.com/p/be13e799efc6) |
-| Fri, 23 Jan 2026 20:55:34 GMT | Wordfence Bug Bounty Program Monthly Report — December 2025 | Wordfence | [Read More](https://medium.com/p/bbe0c355fce9) |
-| Fri, 23 Jan 2026 20:47:11 GMT | From a Click to a Crisis: Understanding a Real-World Emotet to Ransomware Attack | Sree_lakshmi | [Read More](https://medium.com/p/5ccdd524b3b5) |
-| Fri, 23 Jan 2026 20:47:03 GMT | The SKBD Map can display target geographic locations on an interactive map, allowing users to… | Мартин. | [Read More](https://medium.com/p/6c97a977fca1) |
-| Fri, 23 Jan 2026 20:37:55 GMT | Immediately check your server!!! | Мартин. | [Read More](https://medium.com/p/f9e1e8f895cb) |
-| Fri, 23 Jan 2026 20:37:50 GMT | ICMP Protocol Explained: Common Message Types and Attacks | George Samir | [Read More](https://medium.com/p/af46d4ed063b) |
-| Fri, 23 Jan 2026 20:35:22 GMT | ‍☠️Penetration Testing: AI-Driven vs Manual | Taha Ex | [Read More](https://medium.com/p/b3aead1aaefe) |
-| Fri, 23 Jan 2026 20:31:19 GMT | The Measurement Illusion in DevSecOps | Xiaoning Sun | [Read More](https://medium.com/p/7cf5088bea5b) |
-| Fri, 23 Jan 2026 20:18:09 GMT | How I Passed the CompTIA Security+ (SY0–701) — Study Plan, Resources & Exam-Day Strategy | Jufagax | [Read More](https://medium.com/p/ef5528bca6a6) |
