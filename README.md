@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 07:32:04 GMT | Multi-Tenant NestJS Without Data-Leak Nightmares | Velorum | [Read More](https://medium.com/p/7f7bae8d2642) |
+| Sat, 24 Jan 2026 07:28:14 GMT | Associative: Your Premier Decentralized Application Development Company in Pune, India | Chaitanyachavan | [Read More](https://medium.com/p/a48884815fac) |
 | Sat, 24 Jan 2026 07:21:03 GMT | What Your Laptop Remembers About You | Amandogra | [Read More](https://medium.com/p/69e18d10d340) |
 | Sat, 24 Jan 2026 07:20:33 GMT | Why People Fall for online Scams | Jaspreet Kaur | [Read More](https://medium.com/p/ad1c5db1d0d5) |
 | Sat, 24 Jan 2026 07:16:06 GMT | Includes (PicoCTF) | Destripador | [Read More](https://medium.com/p/9ff026b9201c) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 Jan 2026 20:35:22 GMT | ‍☠️Penetration Testing: AI-Driven vs Manual | Taha Ex | [Read More](https://medium.com/p/b3aead1aaefe) |
 | Fri, 23 Jan 2026 20:31:19 GMT | The Measurement Illusion in DevSecOps | Xiaoning Sun | [Read More](https://medium.com/p/7cf5088bea5b) |
 | Fri, 23 Jan 2026 20:18:09 GMT | How I Passed the CompTIA Security+ (SY0–701) — Study Plan, Resources & Exam-Day Strategy | Jufagax | [Read More](https://medium.com/p/ef5528bca6a6) |
-| Fri, 23 Jan 2026 20:17:07 GMT | Top 5 Practical Uses of curl Every Engineer Should Know | Taha Ex | [Read More](https://medium.com/p/773207b90006) |
-| Fri, 23 Jan 2026 20:12:14 GMT | LetsDefend Challenge: Brute Force Attacks | Ravan Qurbanov | [Read More](https://medium.com/p/be954630d644) |
