@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 15:34:38 GMT | Vulnerability Management: Why Finding Bugs Is Not Enough | Sruthi Punugu | [Read More](https://medium.com/p/5ffbca5be05b) |
+| Sat, 24 Jan 2026 15:33:13 GMT | How Smart Security Accelerates Business | Kshitij Ratnaparkhi | [Read More](https://medium.com/p/baa91f73b209) |
+| Sat, 24 Jan 2026 15:32:55 GMT | On-Device AI in 2026: What It Means for Privacy, Speed, and Creativity | Varun Chopra | [Read More](https://medium.com/p/92dbe6140af3) |
+| Sat, 24 Jan 2026 15:32:01 GMT | The Convenience Paradox | Ethics In Beta | [Read More](https://medium.com/p/74b511ac02e9) |
 | Sat, 24 Jan 2026 15:21:38 GMT | SSL Pinning iOS (Alamofire + TrustKit) | Agus Cahyono | [Read More](https://medium.com/p/9acbad0dae39) |
 | Sat, 24 Jan 2026 15:18:32 GMT | 1Password + Dream Afar: Security Meets Productivity | Jessica W Smith | [Read More](https://medium.com/p/176e2984b7e5) |
+| Sat, 24 Jan 2026 15:14:26 GMT | Metasploit: Introduction — TryHackMe Pentesting Tools | Tayyeb Nadeem Somro | [Read More](https://medium.com/p/e30b9b984a5a) |
 | Sat, 24 Jan 2026 15:10:37 GMT | Nmap — TryHackMe Pentesting Tools | Tayyeb Nadeem Somro | [Read More](https://medium.com/p/58bf2e9a78fe) |
 | Sat, 24 Jan 2026 14:52:07 GMT | The Human Consensus Protocol in Your Browser | Koshy | [Read More](https://medium.com/p/6b7cf3614bcb) |
 | Sat, 24 Jan 2026 14:39:03 GMT | Cloud Hosted Honeypots | Allen Ace | [Read More](https://medium.com/p/553aa0604e80) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 07:02:55 GMT | Day 1: When the Pi Fought Back | the CyberStoic | [Read More](https://medium.com/p/f78a1bb85e53) |
 | Sat, 24 Jan 2026 06:58:17 GMT | $90M U.S. Government Crypto Hack: On-Chain Evidence Exposes Hacker Wallet | Casi Borg | [Read More](https://medium.com/p/f7d583ade3ce) |
 | Sat, 24 Jan 2026 06:47:12 GMT | Google Dorkware Pro | Dharmendrakumar | [Read More](https://medium.com/p/74361d3cd132) |
-| Sat, 24 Jan 2026 06:42:24 GMT | The Windows Security Journey — VTL (Virtual Trust Level) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/ccc7d1bb534d) |
-| Sat, 24 Jan 2026 06:38:54 GMT | Context Is the New Prompt: Engineering AI Agents That Truly Understand Security Signals | Krupa B | [Read More](https://medium.com/p/d658081dbac4) |
-| Sat, 24 Jan 2026 06:38:36 GMT | Choosing the Right Database: A Lesson from Production Reality | Kamalmeet Singh | [Read More](https://medium.com/p/b28e1241fb31) |
-| Sat, 24 Jan 2026 06:18:28 GMT | How AI Can Detect Lies In Text Messages (Seriously) | Milan Patel | [Read More](https://medium.com/p/5308930e4c88) |
-| Sat, 24 Jan 2026 06:04:11 GMT | HTB Certified Web Exploitation Specialist Review | clzphoro | [Read More](https://medium.com/p/57dbea8636c0) |
