@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 03:34:09 GMT | Cybersecurity Challenges in Digital Real Estate Platforms: A Complete Guide | Imperial Heights | [Read More](https://medium.com/p/0553b4bd25bc) |
+| Sat, 24 Jan 2026 03:32:01 GMT | How Corporate File-Sharing Platforms Are Being Quietly Abused for Data Theft | Deven Chhajed | [Read More](https://medium.com/p/f69e1ce427e4) |
+| Sat, 24 Jan 2026 03:31:48 GMT | Exploring SMB Shares Using smbclient on Metasploitable 2 | Cybeague Technologies | [Read More](https://medium.com/p/02c7bce82ab6) |
+| Sat, 24 Jan 2026 03:30:44 GMT | Enumeration with Enum4linux on Metasploitable2 | Cybeague Technologies | [Read More](https://medium.com/p/08dba22dc0e9) |
+| Sat, 24 Jan 2026 03:11:28 GMT | DAY-2 (Rust Programming) | vulnhunter | [Read More](https://medium.com/p/aaac2cd44dbf) |
+| Sat, 24 Jan 2026 02:55:56 GMT | Why incidents keep happening despite good security stacks | Raleigh Guevarra | [Read More](https://medium.com/p/9befbe8ae8d1) |
+| Sat, 24 Jan 2026 02:47:02 GMT | Dumbest Security Fails: The Series | Snarky Lisa | [Read More](https://medium.com/p/75217370cd89) |
+| Sat, 24 Jan 2026 02:33:02 GMT | The Ghost in the Machine: Why Your Antivirus is Missing Modern Malware | Pratik Gurav | [Read More](https://medium.com/p/1272c82e175c) |
+| Sat, 24 Jan 2026 02:21:49 GMT | Modern Security Systems Increasingly Rely on Machine Learning — But They Fail When They Cannot Be… | AstroPema AI LLC | [Read More](https://medium.com/p/7e7eddcefd43) |
+| Sat, 24 Jan 2026 01:59:35 GMT | BehaviorGuard: Building a Privacy-First Behavioral Biometric Authentication System | Prassan Aggarwal | [Read More](https://medium.com/p/bd59db16d716) |
+| Sat, 24 Jan 2026 01:54:57 GMT | Most ASP.NET Core Apps Are Insecure — Because Developers Confuse These 6 Tokens | AshokReddy | [Read More](https://medium.com/p/1f2ae5c95a27) |
+| Sat, 24 Jan 2026 01:53:00 GMT | Collector — FlagYrad | lyön | [Read More](https://medium.com/p/2be9fbfab376) |
 | Sat, 24 Jan 2026 01:36:17 GMT | PG Lab Internal: No Metasploit | Nicolas Garcia | [Read More](https://medium.com/p/5e77d045c776) |
 | Sat, 24 Jan 2026 01:35:27 GMT | Unearthing the Truth in DC-2 - Breaking Barriers & Restricted Shells ️ | Nicholas Mullenski | [Read More](https://medium.com/p/71e3969cc096) |
 | Sat, 24 Jan 2026 01:31:16 GMT | Check Point Email Security | Asterisk | [Read More](https://medium.com/p/323c96038a2c) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 Jan 2026 17:40:53 GMT | Greenland, NATO and Global Security | Holts History Hub | [Read More](https://medium.com/p/9cbfe876d58c) |
 | Fri, 23 Jan 2026 17:40:41 GMT | FortiGate Secure Enterprise Network (Business-Driven Security Lab) | Benedict Ryan | [Read More](https://medium.com/p/b7b5a754e6ed) |
 | Fri, 23 Jan 2026 17:36:27 GMT | The Night I Almost Lost Everything: A Guide to Stopping Reentrancy Attacks | Frank Kelechi Oge | [Read More](https://medium.com/p/cda9209897de) |
-| Fri, 23 Jan 2026 17:32:22 GMT | The False Promise of Unified SOCs for IT/OT | Muhammad Ali Khan | [Read More](https://medium.com/p/9998c5a9417e) |
-| Fri, 23 Jan 2026 17:32:03 GMT | Cards Face Up | musingsfrommarc | [Read More](https://medium.com/p/a2cff32056b6) |
-| Fri, 23 Jan 2026 17:18:08 GMT | MCP ThreatShield: Making AI Agents Safer, One Scan at a Time | Gahana R | [Read More](https://medium.com/p/e995bcd2488e) |
-| Fri, 23 Jan 2026 17:17:59 GMT | The “Node 1.9” Miracle: How to Turn Your Bitcoin into a Hard Lesson in Cybersecurity | shamooo | [Read More](https://medium.com/p/e2435a142adb) |
-| Fri, 23 Jan 2026 17:13:27 GMT | eJPT in 60 Days — Day 2: Website Recon and Footprinting (Passive) | Nagarjunht | [Read More](https://medium.com/p/087c3058d6f6) |
-| Fri, 23 Jan 2026 17:03:49 GMT | Cybersecurity News Review — Week 4 (2026) | Mladen Kirilov | [Read More](https://medium.com/p/bed78a7c25d1) |
-| Fri, 23 Jan 2026 17:03:46 GMT | AWS Multi-Account, CloudFormation, and Cloud Security Posture Management (CSPM) | Salman Baset | [Read More](https://medium.com/p/179a76aeed88) |
-| Fri, 23 Jan 2026 16:56:22 GMT | Custom Vishing Kits Target SSO Accounts Worldwide 2026 — Google, Microsoft, Okta Under Threat | Ronaldjames | [Read More](https://medium.com/p/1f79357edf69) |
-| Fri, 23 Jan 2026 16:55:13 GMT | Tomcat Takeover Lab (Cyberdefenders) | FeCeSociety | [Read More](https://medium.com/p/c35dece8a274) |
-| Fri, 23 Jan 2026 16:54:56 GMT | How I Built an End-to-End Encrypted File Sharing App in 30 Days Using Flask, Redis, and ChaCha20 | Aayush | [Read More](https://medium.com/p/069613da2ba7) |
-| Fri, 23 Jan 2026 16:52:09 GMT | Title: Volatility 3 Will Change How You Hunt Malware (and Here’s the Cheatsheet) | SOCFortress | [Read More](https://medium.com/p/a535d4530611) |
-| Fri, 23 Jan 2026 16:49:27 GMT | United, Europeans can defeat the United States in a conventional war | Aurel Stratan | [Read More](https://medium.com/p/7cd571e554fe) |
