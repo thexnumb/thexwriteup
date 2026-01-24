@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 04:32:09 GMT | Lock Down n8n Webhooks Before They Bite | Nexumo | [Read More](https://medium.com/p/769e6e8768a0) |
+| Sat, 24 Jan 2026 04:32:03 GMT | n8n Credential Hygiene for Self-Hosted Reality | Bhagya Rana | [Read More](https://medium.com/p/cfa90ef1a114) |
+| Sat, 24 Jan 2026 04:29:31 GMT | From Setback to Signal: Cooking Up a Threat Detection Tool on a Raspberry Pi 3 | the CyberStoic | [Read More](https://medium.com/p/387d4b92b5af) |
+| Sat, 24 Jan 2026 04:27:06 GMT | The Diet Operating System: Why Your Next Cloud App Might Not Need Linux | Aravind S Narayan | [Read More](https://medium.com/p/f75e35a5c1af) |
+| Sat, 24 Jan 2026 04:15:36 GMT | Business Logic Flaws: How Unauthorized Fund Transfers Occur in Wallet Applications | Ox_Saro | [Read More](https://medium.com/p/153b26de2dc5) |
+| Sat, 24 Jan 2026 04:14:17 GMT | Learning Nmap in Kali Linux - My First Step into Network Scanning (CEH Beginner) . | Syber Security beginner. | [Read More](https://medium.com/p/3b7568688ff4) |
+| Sat, 24 Jan 2026 04:03:17 GMT | I Read Newsletters Without Using My Real Email — Here’s How | Sam Writes Security | [Read More](https://medium.com/p/60c01911297a) |
+| Sat, 24 Jan 2026 03:59:09 GMT | ข้อควรรู้แบบพื้นฐาน ๆ ของหลักการรักษาความปลอดภัย (Security Concept) EP.1 | Bank SRC | [Read More](https://medium.com/p/48753bbd18b7) |
+| Sat, 24 Jan 2026 03:57:27 GMT | TCP (Transmission Control Protocol) : PART 1 | TheCyberNirvana | [Read More](https://medium.com/p/2b95981caab6) |
+| Sat, 24 Jan 2026 03:54:47 GMT | Proving Grounds Practice Codo Linux Lab ( Road to OSCP ) | Cyb0rgBytes | [Read More](https://medium.com/p/ab82689ee7ef) |
+| Sat, 24 Jan 2026 03:49:04 GMT | A critical zero-day vulnerability named ToolShell (CVE-2025–53770) has been discovered in… | Nicksondiazm | [Read More](https://medium.com/p/7e6042061f2c) |
 | Sat, 24 Jan 2026 03:34:09 GMT | Cybersecurity Challenges in Digital Real Estate Platforms: A Complete Guide | Imperial Heights | [Read More](https://medium.com/p/0553b4bd25bc) |
 | Sat, 24 Jan 2026 03:32:01 GMT | How Corporate File-Sharing Platforms Are Being Quietly Abused for Data Theft | Deven Chhajed | [Read More](https://medium.com/p/f69e1ce427e4) |
 | Sat, 24 Jan 2026 03:31:48 GMT | Exploring SMB Shares Using smbclient on Metasploitable 2 | Cybeague Technologies | [Read More](https://medium.com/p/02c7bce82ab6) |
@@ -24,6 +35,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 01:59:35 GMT | BehaviorGuard: Building a Privacy-First Behavioral Biometric Authentication System | Prassan Aggarwal | [Read More](https://medium.com/p/bd59db16d716) |
 | Sat, 24 Jan 2026 01:54:57 GMT | Most ASP.NET Core Apps Are Insecure — Because Developers Confuse These 6 Tokens | AshokReddy | [Read More](https://medium.com/p/1f2ae5c95a27) |
 | Sat, 24 Jan 2026 01:53:00 GMT | Collector — FlagYrad | lyön | [Read More](https://medium.com/p/2be9fbfab376) |
+| Sat, 24 Jan 2026 01:43:00 GMT | Lo bueno toma tiempo: Storytelling de cómo me enamoré de mi mejor amigo. | Jenn Rodriguez | [Read More](https://medium.com/p/9c33768085cd) |
 | Sat, 24 Jan 2026 01:36:17 GMT | PG Lab Internal: No Metasploit | Nicolas Garcia | [Read More](https://medium.com/p/5e77d045c776) |
 | Sat, 24 Jan 2026 01:35:27 GMT | Unearthing the Truth in DC-2 - Breaking Barriers & Restricted Shells ️ | Nicholas Mullenski | [Read More](https://medium.com/p/71e3969cc096) |
 | Sat, 24 Jan 2026 01:31:16 GMT | Check Point Email Security | Asterisk | [Read More](https://medium.com/p/323c96038a2c) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 Jan 2026 18:51:10 GMT | Wi-Fi & Bluetooth Hacking Exposed: What Attackers Really Do (CEH Perspective) | Cyber Wolf | [Read More](https://medium.com/p/01afe85c92f6) |
 | Fri, 23 Jan 2026 18:44:02 GMT | Overcoming Risk and Vulnerability at Work-- How I Escaped a Hidden Agenda as a Security… | Aaron Hansberry | [Read More](https://medium.com/p/b46d123312dc) |
 | Fri, 23 Jan 2026 18:43:05 GMT | Man in the Middle Attack Nedir? Halka Açık Wi-Fi’da Bilgileriniz Nasıl Çalınır? | Arda Derya | [Read More](https://medium.com/p/6efc0f006a24) |
-| Fri, 23 Jan 2026 18:30:34 GMT | Hacker’s Shadow: Why Modern Cybersecurity Requires Thinking Like the Adversary | CyberForenx | [Read More](https://medium.com/p/bfbfa722a9d9) |
-| Fri, 23 Jan 2026 18:23:19 GMT | Secure by design: building and governing trusted agentic systems | Alipouw | [Read More](https://medium.com/p/9069746aa346) |
-| Fri, 23 Jan 2026 18:21:06 GMT | I’m a Pathological Liar to Myself | KV | [Read More](https://medium.com/p/02254013906f) |
-| Fri, 23 Jan 2026 18:18:54 GMT | The Only Audience That Mattered | RTUJr. | [Read More](https://medium.com/p/dccda0d19cae) |
-| Fri, 23 Jan 2026 18:11:49 GMT | Apple Pay vs. Google Pay: The Hardware vs. Cloud Security Showdown. | Dimitrios Misios | [Read More](https://medium.com/p/e9e479809cb6) |
-| Fri, 23 Jan 2026 18:10:40 GMT | When Sex Loses Its Meaning After Love | A Rayan | [Read More](https://medium.com/p/8c44e899064e) |
-| Fri, 23 Jan 2026 18:00:07 GMT | Microsoft Sentinel Threat Intelligence mapping to the SharePoint file external sharing | Bartosz Turek | [Read More](https://medium.com/p/86f48579abe7) |
-| Fri, 23 Jan 2026 17:58:35 GMT | Intrusion Detection System (IDS) and why a firewall alone won’t prevent you from attacks | Ajibola Jr. | [Read More](https://medium.com/p/893b782bcb26) |
-| Fri, 23 Jan 2026 17:49:21 GMT | “Bug Bounty Bootcamp #20: CSRF — The Silent Attack That Makes Users Work for the Hacker” | Aman Sharma | [Read More](https://medium.com/p/442596225c23) |
-| Fri, 23 Jan 2026 17:40:53 GMT | Greenland, NATO and Global Security | Holts History Hub | [Read More](https://medium.com/p/9cbfe876d58c) |
-| Fri, 23 Jan 2026 17:40:41 GMT | FortiGate Secure Enterprise Network (Business-Driven Security Lab) | Benedict Ryan | [Read More](https://medium.com/p/b7b5a754e6ed) |
-| Fri, 23 Jan 2026 17:36:27 GMT | The Night I Almost Lost Everything: A Guide to Stopping Reentrancy Attacks | Frank Kelechi Oge | [Read More](https://medium.com/p/cda9209897de) |
