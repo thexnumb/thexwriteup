@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 05:27:55 GMT | My Experience with Bitgert Scam and How I Recovered My Funds | Katie Dillard | [Read More](https://medium.com/p/91cd76928655) |
+| Sat, 24 Jan 2026 05:26:13 GMT | Choosing the Best Home Automation Company in UAE and Best CCTV Company in UAE | techfra solutions | [Read More](https://medium.com/p/d2217e87b1d3) |
+| Sat, 24 Jan 2026 05:20:58 GMT | Why Choose a Bachelor of Science in Cybersecurity in 2026? | Sikhasinghh | [Read More](https://medium.com/p/c0d98b151cd8) |
 | Sat, 24 Jan 2026 05:02:13 GMT | Why does every secure app need Authorization and authentication? | Parita Dey | [Read More](https://medium.com/p/f8d1eff77f22) |
 | Sat, 24 Jan 2026 04:55:22 GMT | NIST CSF 2.0 for Marketing Agencies: A Practical Cybersecurity Framework | Ritesh Chauhan | [Read More](https://medium.com/p/bf7fd9b3aa03) |
 | Sat, 24 Jan 2026 04:54:53 GMT | “Your Wi-Fi Was Hacked. Now They Own Your Network.” | ghostyjoe | [Read More](https://medium.com/p/99143e791e30) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 Jan 2026 19:11:06 GMT | Okta SSO Accounts Under Siege: New Vishing Attacks Expose Security Gaps | Technijian | [Read More](https://medium.com/p/17b77b259b43) |
 | Fri, 23 Jan 2026 19:02:04 GMT | Anti-Ransomware | Iram Jack | [Read More](https://medium.com/p/0ea25b380267) |
 | Fri, 23 Jan 2026 19:01:37 GMT | AI in SOC Automation: The Role of Continuous Threat Exposure Management (CTEM) | Digital Defense | [Read More](https://medium.com/p/9de26647a8dc) |
-| Fri, 23 Jan 2026 19:01:04 GMT | Advanced Persistent Threats (APT) Nedir? | Arda Derya | [Read More](https://medium.com/p/12c79dc6dea4) |
-| Fri, 23 Jan 2026 18:56:13 GMT | INE / eJPT / Assessment Methodologies: Vulnerability Assessment CTF 1 | Salihugurlu | [Read More](https://medium.com/p/b488d143779a) |
-| Fri, 23 Jan 2026 18:55:16 GMT | Deconstructing Detection Logic in Windows Environments-Part 4 | Manish [pikachu] | [Read More](https://medium.com/p/7ccb036d6123) |
