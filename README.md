@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 10:03:44 GMT | How to protect yourself if an iPhone is stolen? | Khaqan Junejo | [Read More](https://medium.com/p/c39500e35c15) |
+| Sat, 24 Jan 2026 10:02:58 GMT | Apologies for ghosting you in 2025 | Umar Farouk | [Read More](https://medium.com/p/999fc5281835) |
+| Sat, 24 Jan 2026 10:02:48 GMT | Mapping the Path to Root: Exploiting CVE-2007–2447 (Samba Usermap Script) | Tejas Kamble | [Read More](https://medium.com/p/2419be7a53b4) |
+| Sat, 24 Jan 2026 09:51:59 GMT | Why Every Web Developer Needs to Think Like a Hacker | Mubashir | [Read More](https://medium.com/p/3414baed4c13) |
+| Sat, 24 Jan 2026 09:51:33 GMT | Web Application Penetration Testing: A Complete Security Guide | Application Security Master | [Read More](https://medium.com/p/a195ea561a61) |
 | Sat, 24 Jan 2026 09:32:04 GMT | Your $5 Million Email Security Stack Just Got Owned by a Text Message | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/19325e30fb99) |
 | Sat, 24 Jan 2026 09:29:06 GMT | Linux Fundamentals Part 3: Cybersecurity 101 Pathway — TryHackMe | Farhad Anwari | [Read More](https://medium.com/p/8e97505b08ad) |
 | Sat, 24 Jan 2026 09:03:01 GMT | How to Brief Your CEO on Credential Exposure in 5 Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/a977af30dc11) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 Jan 2026 22:20:19 GMT | 09051012897شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز | شماره خاله تهران شماره خاله اصفهان شماره خاله شیرا | [Read More](https://medium.com/p/251ce633d365) |
 | Fri, 23 Jan 2026 22:19:50 GMT | 09051012897شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز | شماره خاله تهران شماره خاله اصفهان شماره خاله شیرا | [Read More](https://medium.com/p/a0e4a27856c1) |
 | Fri, 23 Jan 2026 22:17:55 GMT | 09051012897شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز | شماره خاله تهران شماره خاله اصفهان شماره خاله شیرا | [Read More](https://medium.com/p/32897c267966) |
-| Fri, 23 Jan 2026 22:17:22 GMT | 09051012897شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز | شماره خاله تهران شماره خاله اصفهان شماره خاله شیرا | [Read More](https://medium.com/p/6b9330ed5d20) |
-| Fri, 23 Jan 2026 22:03:48 GMT | OpenToWork: Recruiters Tell You Not to Look Desperate. LinkedIn’s Algorithm Requires It. | Aubrey | [Read More](https://medium.com/p/47b60da9b72c) |
-| Fri, 23 Jan 2026 22:02:45 GMT | “PicoCTF: Scavenger Hunt — Mastering Web Information Disclosure” | Mahmoud Samy | [Read More](https://medium.com/p/18754d747026) |
-| Fri, 23 Jan 2026 22:01:53 GMT | LastPass Issues Critical Warning For Users  Password Attacks Underway | Moni | [Read More](https://medium.com/p/9043b47b9849) |
-| Fri, 23 Jan 2026 21:49:25 GMT | Prompt Injection Attacks Explained (With Cloud Examples). | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/b54ac4405bbe) |
