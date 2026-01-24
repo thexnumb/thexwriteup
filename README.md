@@ -12,14 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 11:29:32 GMT | Linux Privilege Escalation: Understanding Common Misconfigurations | Kuldip sarvaiya | [Read More](https://medium.com/p/91bccd8e77d6) |
+| Sat, 24 Jan 2026 11:24:16 GMT | Day 4: How Devices Actually Communicate — Networking Explained for SOC Analysts | Faizan Nazir | [Read More](https://medium.com/p/adfb9d721e6a) |
+| Sat, 24 Jan 2026 11:22:26 GMT | Transform Operations Faster When You Hire N8N Developers | n8ndevelopers | [Read More](https://medium.com/p/624f5ec8a92e) |
+| Sat, 24 Jan 2026 11:21:54 GMT | From Zero to System: A Beginner’s Guide to Exploiting EternalBlue (TryHackMe Walkthrough) | Shanavas Shafi | [Read More](https://medium.com/p/12d4479481f6) |
+| Sat, 24 Jan 2026 11:20:52 GMT | Mastering the Digital World in 2026: Simple Guides for Everyone | MRZ STUDIO BD | [Read More](https://medium.com/p/4f96adba4596) |
+| Sat, 24 Jan 2026 11:20:12 GMT | Command Injection Çözümü | CyberSam | [Read More](https://medium.com/p/d6bdad495200) |
+| Sat, 24 Jan 2026 11:18:52 GMT | Cyber threats are increasing, making website security a top priority for online businesses. | Vertex Invo | [Read More](https://medium.com/p/4f03f7ff4614) |
+| Sat, 24 Jan 2026 11:17:09 GMT | How to Choose the Best Free VPN for Android | Gautam Basu | [Read More](https://medium.com/p/f854b9952e95) |
+| Sat, 24 Jan 2026 11:15:24 GMT | So, is this how to be human? | Sinag. | [Read More](https://medium.com/p/f3a866565685) |
 | Sat, 24 Jan 2026 11:06:13 GMT | How Phishing Scams Really Work And Why Even Smart People Fall for Them | Digital Safety | [Read More](https://medium.com/p/27d11a86a231) |
 | Sat, 24 Jan 2026 10:57:55 GMT | From APK to AWS: How I Chained a Hardcoded Secret to a Full Cloud Takeover | Nahyan Jahromi | [Read More](https://medium.com/p/aab42443f2fe) |
+| Sat, 24 Jan 2026 10:48:26 GMT | The Most Exclusive Knowledge Domain in Cybersecurity: 30 People Understand It? | Berend Watchus | [Read More](https://medium.com/p/ad73e809164b) |
 | Sat, 24 Jan 2026 10:44:53 GMT | TryHackMe: Ice | Root_Fabric | [Read More](https://medium.com/p/dd6c9cc987cf) |
 | Sat, 24 Jan 2026 10:35:32 GMT | Broken Access control Port swigger (Apprentice Labs) | Abdelrabo%00 | [Read More](https://medium.com/p/ab6c32c08281) |
 | Sat, 24 Jan 2026 10:28:40 GMT | CONVERSING WITH INNER SELF : PART -2 | Shrishti | [Read More](https://medium.com/p/d1fdbe7dc307) |
 | Sat, 24 Jan 2026 10:03:44 GMT | How to protect yourself if an iPhone is stolen? | Khaqan Junejo | [Read More](https://medium.com/p/c39500e35c15) |
 | Sat, 24 Jan 2026 10:02:58 GMT | Apologies for ghosting you in 2025 | Umar Farouk | [Read More](https://medium.com/p/999fc5281835) |
 | Sat, 24 Jan 2026 10:02:48 GMT | Mapping the Path to Root: Exploiting CVE-2007–2447 (Samba Usermap Script) | Tejas Kamble | [Read More](https://medium.com/p/2419be7a53b4) |
+| Sat, 24 Jan 2026 09:52:21 GMT | cybersecurity | Harikrishna Infasta | [Read More](https://medium.com/p/cc04eb4b13dc) |
 | Sat, 24 Jan 2026 09:51:59 GMT | Why Every Web Developer Needs to Think Like a Hacker | Mubashir | [Read More](https://medium.com/p/3414baed4c13) |
 | Sat, 24 Jan 2026 09:51:33 GMT | Web Application Penetration Testing: A Complete Security Guide | Application Security Master | [Read More](https://medium.com/p/a195ea561a61) |
 | Sat, 24 Jan 2026 09:32:04 GMT | Your $5 Million Email Security Stack Just Got Owned by a Text Message | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/19325e30fb99) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 00:46:36 GMT | A Missing Stamp Is a Policy: Paperwork, Power, and Fragile Lives | James Kuhman | [Read More](https://medium.com/p/8e7a84ca174e) |
 | Sat, 24 Jan 2026 00:32:02 GMT | Why The WORLD Is Rejecting Windows 11 — Biggest Tech Revolt Ever | TheMindShift | [Read More](https://medium.com/p/92346abf3602) |
 | Sat, 24 Jan 2026 00:24:18 GMT | ️‍♂️ HTB: Footprinting Lab — Easy (Walkthrough) | Moulishwar vs | [Read More](https://medium.com/p/9eec72baf191) |
-| Sat, 24 Jan 2026 00:02:11 GMT | What is a Penetration Test? And Other Penetration Testing FAQs | Eric Smith | [Read More](https://medium.com/p/4ddf4e5f8ea5) |
-| Sat, 24 Jan 2026 00:02:05 GMT | Exploit-DB Guide to Bug Bounty: Using SearchSploit and Vulnerability Validation | JPablo13 | [Read More](https://medium.com/p/e8c564ec1b0a) |
-| Sat, 24 Jan 2026 00:02:04 GMT | 0-Click 的惡意：當 YouTube 變成駭客的 C2 彈藥庫 (PixelCode 深度剖析) | p1x06u9 | [Read More](https://medium.com/p/149a659a6444) |
-| Fri, 23 Jan 2026 23:28:45 GMT | ​Di Balik Bayangan: Kebangkitan "XII Twelve (Twelve Botnets)" – Evolusi Senyap di Tangan xxiinn… | Digital News | [Read More](https://medium.com/p/2b5e01eede4d) |
-| Fri, 23 Jan 2026 23:22:42 GMT | Explainable AI (XAI) for Cybersecurity: Transparent Intrusion Detection & Threat Attribution | Husam A.S Khalifa | [Read More](https://medium.com/p/cba991380ee7) |
-| Fri, 23 Jan 2026 23:13:02 GMT | MITRE ATT&CK Framework Explained with Log Examples | Abhinsubej | [Read More](https://medium.com/p/fe305c121009) |
-| Fri, 23 Jan 2026 23:02:05 GMT | AI + Security for Developers: What You Must Protect From Day One | Sohit Mishra | [Read More](https://medium.com/p/b037a2c1d64f) |
-| Fri, 23 Jan 2026 22:57:18 GMT | Session-Based Authentication with Key Derivation | Omerardazorlu | [Read More](https://medium.com/p/1a15794832e4) |
-| Fri, 23 Jan 2026 22:39:38 GMT | Bypassing Rate Limit via Race Condition | Max_216 | [Read More](https://medium.com/p/2b6dcb958ffb) |
-| Fri, 23 Jan 2026 22:28:31 GMT | Containment | Kemi Wren | [Read More](https://medium.com/p/a5ac5d1dc428) |
-| Fri, 23 Jan 2026 22:28:10 GMT | Ireland’s Encryption Backdoor Bill | ⚖️ | [Read More](https://medium.com/p/b0ca1c5fa7c1) |
