@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 18:18:50 GMT | A State of Exposure | Tantya Ani | [Read More](https://medium.com/p/027fe7980d6a) |
+| Sat, 24 Jan 2026 18:16:59 GMT | Unveiling Access Control Exploits: Why They Top Web3 Hack Lists Year After Year | Exploitless | [Read More](https://medium.com/p/19bb0bb3a43d) |
+| Sat, 24 Jan 2026 18:06:03 GMT | How I Got CVE-2025–53092: Technical Overview | ghostvirus | [Read More](https://medium.com/p/ba0963b2958d) |
+| Sat, 24 Jan 2026 18:03:48 GMT | Certificate validation, some quick tips. | Carlos Minda | [Read More](https://medium.com/p/3c47d0582c9b) |
+| Sat, 24 Jan 2026 18:00:39 GMT | How to Find Security Guard Services Los Angeles for Emergency Patrols? | GuardLine Chronicles | [Read More](https://medium.com/p/d1f10d27e68d) |
+| Sat, 24 Jan 2026 17:59:51 GMT | When “Gmail Passwords” Start Trending: What the News Really Means — and What You Should Do | Muhammad Saeed | [Read More](https://medium.com/p/97143c6f74ee) |
+| Sat, 24 Jan 2026 17:50:26 GMT | 5 AI predictions for 2026 | Matt Simmons | [Read More](https://medium.com/p/bf3eaebddf8a) |
+| Sat, 24 Jan 2026 17:50:14 GMT | Lessons Adults Forget. | inkkernel | [Read More](https://medium.com/p/8d37cba96cce) |
+| Sat, 24 Jan 2026 17:42:49 GMT | Snort: A Step-by-Step Guide to Writing and Testing Simple Rules | Jasstej Singh | [Read More](https://medium.com/p/17b6c6a03c25) |
+| Sat, 24 Jan 2026 17:42:00 GMT | TryHackMe Cyber Kill Chain Walkthrough | Kamal Kishor Mahto | [Read More](https://medium.com/p/e345036f6dae) |
+| Sat, 24 Jan 2026 17:40:40 GMT | Beyond the 7 Laws of Information | Chris Twellmann | [Read More](https://medium.com/p/b20f78b3afb7) |
+| Sat, 24 Jan 2026 17:33:50 GMT | HTTP Fundamentals & Why Most Web Attacks Still Work | Adefokun Israel | [Read More](https://medium.com/p/bd346f7e6833) |
 | Sat, 24 Jan 2026 17:30:46 GMT | CVE Quality-by-Design Manifesto | @boblord | [Read More](https://medium.com/p/d3386dcff48e) |
 | Sat, 24 Jan 2026 17:24:21 GMT | Critical Cybersecurity Alert: Fortinet FortiGate Firewalls Are Being Actively Exploited-Even When… | Chetan Seripally | [Read More](https://medium.com/p/a9edc5e02b80) |
 | Sat, 24 Jan 2026 17:19:37 GMT | Cyber Defense in 2030 - What the Next Wave of Attacks Will Look Like | Shahzaib | [Read More](https://medium.com/p/866bd41794f5) |
@@ -26,6 +38,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 16:25:54 GMT | Year Round Windows Maintenance Keeps Your PC Fast, Safe | Geoffrey Wenger | [Read More](https://medium.com/p/3c0b00793bf9) |
 | Sat, 24 Jan 2026 16:25:52 GMT | Investigating a Major 72m Customer Data Breach: Under Armour Case | Mooki W | [Read More](https://medium.com/p/f2db1deb6b4d) |
 | Sat, 24 Jan 2026 16:17:05 GMT | Rebuilding Day 2 | Technodox10 | [Read More](https://medium.com/p/58126659406c) |
+| Sat, 24 Jan 2026 16:08:55 GMT | La désérialisation et les méthodes magique | Gaby zaafrani | [Read More](https://medium.com/p/48cadbd20c8d) |
 | Sat, 24 Jan 2026 16:02:22 GMT | MYTH BUSTED: Any “ Computer ” Can Do In Cyber — Security… | lukewago | [Read More](https://medium.com/p/261d53347f37) |
 | Sat, 24 Jan 2026 16:02:01 GMT | Defaults Are Power, Not Convenience: What This Week’s Tech and Markets Quietly Revealed | Qandeel Akhtar | [Read More](https://medium.com/p/c022a4a5b2ba) |
 | Sat, 24 Jan 2026 16:02:00 GMT | From Audit to Control: Operationalizing DLP for AI + Data in the Enterprise Browser | Mammoth Cyber | [Read More](https://medium.com/p/d582305c976a) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 11:06:13 GMT | How Phishing Scams Really Work And Why Even Smart People Fall for Them | Digital Safety | [Read More](https://medium.com/p/27d11a86a231) |
 | Sat, 24 Jan 2026 10:57:55 GMT | From APK to AWS: How I Chained a Hardcoded Secret to a Full Cloud Takeover | Nahyan Jahromi | [Read More](https://medium.com/p/aab42443f2fe) |
 | Sat, 24 Jan 2026 10:48:26 GMT | The Most Exclusive Knowledge Domain in Cybersecurity: 30 People Understand It? | Berend Watchus | [Read More](https://medium.com/p/ad73e809164b) |
-| Sat, 24 Jan 2026 10:44:53 GMT | TryHackMe: Ice | Root_Fabric | [Read More](https://medium.com/p/dd6c9cc987cf) |
-| Sat, 24 Jan 2026 10:35:32 GMT | Broken Access control Port swigger (Apprentice Labs) | Abdelrabo%00 | [Read More](https://medium.com/p/ab6c32c08281) |
-| Sat, 24 Jan 2026 10:28:40 GMT | CONVERSING WITH INNER SELF : PART -2 | Shrishti | [Read More](https://medium.com/p/d1fdbe7dc307) |
-| Sat, 24 Jan 2026 10:03:44 GMT | How to protect yourself if an iPhone is stolen? | Khaqan Junejo | [Read More](https://medium.com/p/c39500e35c15) |
-| Sat, 24 Jan 2026 10:02:58 GMT | Apologies for ghosting you in 2025 | Umar Farouk | [Read More](https://medium.com/p/999fc5281835) |
-| Sat, 24 Jan 2026 10:02:48 GMT | Mapping the Path to Root: Exploiting CVE-2007–2447 (Samba Usermap Script) | Tejas Kamble | [Read More](https://medium.com/p/2419be7a53b4) |
-| Sat, 24 Jan 2026 09:52:21 GMT | cybersecurity | Harikrishna Infasta | [Read More](https://medium.com/p/cc04eb4b13dc) |
-| Sat, 24 Jan 2026 09:51:59 GMT | Why Every Web Developer Needs to Think Like a Hacker | Mubashir | [Read More](https://medium.com/p/3414baed4c13) |
-| Sat, 24 Jan 2026 09:51:33 GMT | Web Application Penetration Testing: A Complete Security Guide | Application Security Master | [Read More](https://medium.com/p/a195ea561a61) |
-| Sat, 24 Jan 2026 09:32:04 GMT | Your $5 Million Email Security Stack Just Got Owned by a Text Message | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/19325e30fb99) |
-| Sat, 24 Jan 2026 09:29:06 GMT | Linux Fundamentals Part 3: Cybersecurity 101 Pathway — TryHackMe | Farhad Anwari | [Read More](https://medium.com/p/8e97505b08ad) |
-| Sat, 24 Jan 2026 09:03:01 GMT | How to Brief Your CEO on Credential Exposure in 5 Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/a977af30dc11) |
-| Sat, 24 Jan 2026 09:00:10 GMT | Partial masking, different logic, and bypassing protection | bhargabKaushik | [Read More](https://medium.com/p/4ce54e9d10fc) |
