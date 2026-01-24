@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 07:21:03 GMT | What Your Laptop Remembers About You | Amandogra | [Read More](https://medium.com/p/69e18d10d340) |
+| Sat, 24 Jan 2026 07:20:33 GMT | Why People Fall for online Scams | Jaspreet Kaur | [Read More](https://medium.com/p/ad1c5db1d0d5) |
+| Sat, 24 Jan 2026 07:16:06 GMT | Includes (PicoCTF) | Destripador | [Read More](https://medium.com/p/9ff026b9201c) |
+| Sat, 24 Jan 2026 07:03:58 GMT | Microsoft Windows for Business Productivity and Security: The Smart Choice for Modern Enterprises | Estella Snyder | [Read More](https://medium.com/p/069f5ffcce5a) |
+| Sat, 24 Jan 2026 07:02:55 GMT | Day 1: When the Pi Fought Back | the CyberStoic | [Read More](https://medium.com/p/f78a1bb85e53) |
+| Sat, 24 Jan 2026 06:58:17 GMT | $90M U.S. Government Crypto Hack: On-Chain Evidence Exposes Hacker Wallet | Casi Borg | [Read More](https://medium.com/p/f7d583ade3ce) |
+| Sat, 24 Jan 2026 06:47:12 GMT | Google Dorkware Pro | Dharmendrakumar | [Read More](https://medium.com/p/74361d3cd132) |
+| Sat, 24 Jan 2026 06:42:24 GMT | The Windows Security Journey — VTL (Virtual Trust Level) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/ccc7d1bb534d) |
+| Sat, 24 Jan 2026 06:38:54 GMT | Context Is the New Prompt: Engineering AI Agents That Truly Understand Security Signals | Krupa B | [Read More](https://medium.com/p/d658081dbac4) |
+| Sat, 24 Jan 2026 06:38:36 GMT | Choosing the Right Database: A Lesson from Production Reality | Kamalmeet Singh | [Read More](https://medium.com/p/b28e1241fb31) |
 | Sat, 24 Jan 2026 06:18:28 GMT | How AI Can Detect Lies In Text Messages (Seriously) | Milan Patel | [Read More](https://medium.com/p/5308930e4c88) |
 | Sat, 24 Jan 2026 06:04:11 GMT | HTB Certified Web Exploitation Specialist Review | clzphoro | [Read More](https://medium.com/p/57dbea8636c0) |
 | Sat, 24 Jan 2026 06:04:02 GMT | The First 100 Days of the CISO: A Critical Period for Organisational Alignment | JC Gaillard | [Read More](https://medium.com/p/1df0ddb82e8f) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 Jan 2026 20:18:09 GMT | How I Passed the CompTIA Security+ (SY0–701) — Study Plan, Resources & Exam-Day Strategy | Jufagax | [Read More](https://medium.com/p/ef5528bca6a6) |
 | Fri, 23 Jan 2026 20:17:07 GMT | Top 5 Practical Uses of curl Every Engineer Should Know | Taha Ex | [Read More](https://medium.com/p/773207b90006) |
 | Fri, 23 Jan 2026 20:12:14 GMT | LetsDefend Challenge: Brute Force Attacks | Ravan Qurbanov | [Read More](https://medium.com/p/be954630d644) |
-| Fri, 23 Jan 2026 20:06:35 GMT | Hackers Hate This Free Tool: Expose Hidden Web Attack Surfaces in Minutes! | cybrNK | [Read More](https://medium.com/p/749f8fd325cd) |
-| Fri, 23 Jan 2026 20:04:41 GMT | Cracking the Dev Box: From NFS Misconfiguration to Sudo Zip Escalation | Hemantha Krishna Challa | [Read More](https://medium.com/p/6eec4fa20cca) |
-| Fri, 23 Jan 2026 20:01:40 GMT | AIX: The Tool That’s Missing From Every AI Security Assessment | Simone Licitra | [Read More](https://medium.com/p/9cb2bf0a1b03) |
-| Fri, 23 Jan 2026 19:55:36 GMT | WN: Someone scored your profile with AI, AI based apps on Apple Store leaks data, & Kenya orders… | Law and Ethics in Tech | [Read More](https://medium.com/p/4fa9fcf3d308) |
-| Fri, 23 Jan 2026 19:51:33 GMT | 7 Technology Trends Small Businesses Can’t Afford to Ignore in 2026 | SMBs IT Solutions | [Read More](https://medium.com/p/dca954bf432f) |
-| Fri, 23 Jan 2026 19:51:27 GMT | Avoiding branding buzzword barriers | B Nitz | [Read More](https://medium.com/p/55d9d56957e8) |
-| Fri, 23 Jan 2026 19:48:57 GMT | 無盡的擴張者 (The Autopoietic Expander) | FY Kuo | [Read More](https://medium.com/p/8d48ab3e9ceb) |
-| Fri, 23 Jan 2026 19:47:01 GMT | Why Men Care About a Woman’s Past: The Shocking Truth Behind Virginity | Claire Moore | [Read More](https://medium.com/p/0531baa2ffd4) |
-| Fri, 23 Jan 2026 19:43:34 GMT | Your App Worked Perfectly… Until the OS Killed It | Md. Al-Amin | [Read More](https://medium.com/p/ac8d63d24f21) |
-| Fri, 23 Jan 2026 19:41:41 GMT | DevSecOps for Git: How Enterprises Actually Secure Their Source Code (No Theory, Just Reality) | Bhanureddybandi | [Read More](https://medium.com/p/f18e8f8d2698) |
