@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 19:23:42 GMT | The Multi-Bug Streak: Uncovering 4 Vulnerabilities on a Single Target | Samet Yiğit | [Read More](https://medium.com/p/1b4daa50dad2) |
 | Sat, 24 Jan 2026 19:11:23 GMT | Telnetd auth-bypass to root | Shivam Bathla | [Read More](https://medium.com/p/f6e239d692b5) |
 | Sat, 24 Jan 2026 19:06:55 GMT | Beware! Mumbai Woman Believed She Was Chatting with Elon Musk and Lost 16 Lakh… | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/93656a2fb433) |
 | Sat, 24 Jan 2026 18:57:14 GMT | Turning an Image Upload Into a Site-Wide Stored XSS | OopsSec Store | [Read More](https://medium.com/p/60f39c82e827) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 11:39:52 GMT | How Your Coffee Shop Wi-Fi Explains OpenShift TLS Security | Kamlesh Prajapati | [Read More](https://medium.com/p/dafc2be90a7f) |
 | Sat, 24 Jan 2026 11:29:32 GMT | Linux Privilege Escalation: Understanding Common Misconfigurations | Kuldip sarvaiya | [Read More](https://medium.com/p/91bccd8e77d6) |
 | Sat, 24 Jan 2026 11:24:16 GMT | Day 4: How Devices Actually Communicate — Networking Explained for SOC Analysts | Faizan Nazir | [Read More](https://medium.com/p/adfb9d721e6a) |
-| Sat, 24 Jan 2026 11:22:26 GMT | Transform Operations Faster When You Hire N8N Developers | n8ndevelopers | [Read More](https://medium.com/p/624f5ec8a92e) |
