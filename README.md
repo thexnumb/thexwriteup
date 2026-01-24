@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 06:18:28 GMT | How AI Can Detect Lies In Text Messages (Seriously) | Milan Patel | [Read More](https://medium.com/p/5308930e4c88) |
+| Sat, 24 Jan 2026 06:04:11 GMT | HTB Certified Web Exploitation Specialist Review | clzphoro | [Read More](https://medium.com/p/57dbea8636c0) |
+| Sat, 24 Jan 2026 06:04:02 GMT | The First 100 Days of the CISO: A Critical Period for Organisational Alignment | JC Gaillard | [Read More](https://medium.com/p/1df0ddb82e8f) |
+| Sat, 24 Jan 2026 06:02:23 GMT | My own Bash passwords manager | Colin Sampler | [Read More](https://medium.com/p/e3b6d0f42d67) |
+| Sat, 24 Jan 2026 05:59:00 GMT | AI-Driven Threat Detection Systems: The Future of Cybersecurity | Dr. Minakshmi Shaw | [Read More](https://medium.com/p/1b0557881d85) |
+| Sat, 24 Jan 2026 05:48:02 GMT | Introduction to Endpoint Detection and Response (EDR): A SOC Analyst’s Learning Journey | Sidhantchaurasiya | [Read More](https://medium.com/p/d0d09a71d121) |
+| Sat, 24 Jan 2026 05:46:35 GMT | A Practical Blue Team Project: SSH Log Analysis with Python | Edson | [Read More](https://medium.com/p/507f17113aba) |
+| Sat, 24 Jan 2026 05:45:02 GMT | My Experience with GoldBs. com Scam and How I Recovered My Funds | Mathewmatt | [Read More](https://medium.com/p/9c230105aa61) |
 | Sat, 24 Jan 2026 05:27:55 GMT | My Experience with Bitgert Scam and How I Recovered My Funds | Katie Dillard | [Read More](https://medium.com/p/91cd76928655) |
 | Sat, 24 Jan 2026 05:26:13 GMT | Choosing the Best Home Automation Company in UAE and Best CCTV Company in UAE | techfra solutions | [Read More](https://medium.com/p/d2217e87b1d3) |
 | Sat, 24 Jan 2026 05:20:58 GMT | Why Choose a Bachelor of Science in Cybersecurity in 2026? | Sikhasinghh | [Read More](https://medium.com/p/c0d98b151cd8) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 Jan 2026 19:47:01 GMT | Why Men Care About a Woman’s Past: The Shocking Truth Behind Virginity | Claire Moore | [Read More](https://medium.com/p/0531baa2ffd4) |
 | Fri, 23 Jan 2026 19:43:34 GMT | Your App Worked Perfectly… Until the OS Killed It | Md. Al-Amin | [Read More](https://medium.com/p/ac8d63d24f21) |
 | Fri, 23 Jan 2026 19:41:41 GMT | DevSecOps for Git: How Enterprises Actually Secure Their Source Code (No Theory, Just Reality) | Bhanureddybandi | [Read More](https://medium.com/p/f18e8f8d2698) |
-| Fri, 23 Jan 2026 19:39:54 GMT | CISSP Domain 8- Part 3 | Pushpak Sharma | [Read More](https://medium.com/p/3fb2c0522e8a) |
-| Fri, 23 Jan 2026 19:36:24 GMT | Metasploitable2 Full Exploitation Walkthrough — From Recon to Root | P Sam Tarun | [Read More](https://medium.com/p/df034f00eb63) |
-| Fri, 23 Jan 2026 19:33:15 GMT | Microsoft Outage Disrupts Outlook and Teams: What Happened and How to Prepare for Future Issues | Omar Boulama | [Read More](https://medium.com/p/1d0d845ff512) |
-| Fri, 23 Jan 2026 19:31:26 GMT | Ethical Hacking Services. | Private-hackers.com | [Read More](https://medium.com/p/90c4561578be) |
-| Fri, 23 Jan 2026 19:16:58 GMT | Escaping the Bootloop nightmare for a failed Root | Suprit Pandurangi | [Read More](https://medium.com/p/18f6b7e47e59) |
-| Fri, 23 Jan 2026 19:11:06 GMT | Okta SSO Accounts Under Siege: New Vishing Attacks Expose Security Gaps | Technijian | [Read More](https://medium.com/p/17b77b259b43) |
-| Fri, 23 Jan 2026 19:02:04 GMT | Anti-Ransomware | Iram Jack | [Read More](https://medium.com/p/0ea25b380267) |
-| Fri, 23 Jan 2026 19:01:37 GMT | AI in SOC Automation: The Role of Continuous Threat Exposure Management (CTEM) | Digital Defense | [Read More](https://medium.com/p/9de26647a8dc) |
