@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 13:48:09 GMT | Indians Adopt Technology Fast — But Awareness Is Still Missing | Ankit rai | [Read More](https://medium.com/p/9e0d414bb3e1) |
+| Sat, 24 Jan 2026 13:44:55 GMT | Laboratory Information Management System: Benefits and Features | Pilims 42 | [Read More](https://medium.com/p/54a54d0f1ea1) |
+| Sat, 24 Jan 2026 13:41:54 GMT | Data protection and privacy laws | Cyberhamid | [Read More](https://medium.com/p/d8a1c71f8f28) |
+| Sat, 24 Jan 2026 13:41:45 GMT | Are You Ready for Red Teaming in 2026?(Cyber Security) | Yua Mikanana | [Read More](https://medium.com/p/ffd35d299daf) |
+| Sat, 24 Jan 2026 13:41:24 GMT | Why xAI’s Grok Was Chosen by the United States Government | David SEHYEON Baek | [Read More](https://medium.com/p/3981c3b475ac) |
+| Sat, 24 Jan 2026 13:40:45 GMT | FortiGate Port Yapılandırması ve Temel Kural (Policy) Yönetimi | hakan sezer | [Read More](https://medium.com/p/bebda52c99ca) |
 | Sat, 24 Jan 2026 13:29:14 GMT | How Cloudflare’s ACME Bug Let Attackers Bypass WAFs (Full Report) | Saad Khalid | [Read More](https://medium.com/p/117be607d513) |
 | Sat, 24 Jan 2026 13:11:32 GMT | Still Using FTP? How Cloud-Native File Transfers Solve Legacy Risks | Ali | [Read More](https://medium.com/p/07d03f873a9a) |
 | Sat, 24 Jan 2026 13:04:17 GMT | TryHackMe: Alfred | Root_Fabric | [Read More](https://medium.com/p/bff03bc502b7) |
@@ -25,6 +31,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 12:49:20 GMT | Blind Spots in Email Security Tools That Attackers Love | Paritosh | [Read More](https://medium.com/p/3a2501f4f4f9) |
 | Sat, 24 Jan 2026 12:48:28 GMT | Wordpress security setup for beginer | Techwizs | [Read More](https://medium.com/p/62b128c18e23) |
 | Sat, 24 Jan 2026 12:42:01 GMT | AI Won’t Replace Doctors — But It Will Redefine What It Means to Be One | Foreign Doctor Life | [Read More](https://medium.com/p/aaa0c5711e2b) |
+| Sat, 24 Jan 2026 12:38:49 GMT | A03:2025 — Software Supply Chain Failures (OWASP Top 10 Explained) | Kishor K. | [Read More](https://medium.com/p/8f147a15f23a) |
 | Sat, 24 Jan 2026 12:22:02 GMT | Server Actions Are Just POST Requests: The CSRF Trap We’re Ignoring in 2026 | Sameer Thite | [Read More](https://medium.com/p/b1d81d0c9019) |
 | Sat, 24 Jan 2026 12:10:06 GMT | Dependency Hell: Racing SQLite Session Store to Bankruptcy | 0xAren | [Read More](https://medium.com/p/91c9845d70b9) |
 | Sat, 24 Jan 2026 12:02:07 GMT | Detection Engineering Is Production Engineering — Why CI/CD Is No Longer Optional | Surya Teja | [Read More](https://medium.com/p/5318cb527a33) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 04:32:03 GMT | n8n Credential Hygiene for Self-Hosted Reality | Bhagya Rana | [Read More](https://medium.com/p/cfa90ef1a114) |
 | Sat, 24 Jan 2026 04:29:31 GMT | From Setback to Signal: Cooking Up a Threat Detection Tool on a Raspberry Pi 3 | the CyberStoic | [Read More](https://medium.com/p/387d4b92b5af) |
 | Sat, 24 Jan 2026 04:27:06 GMT | The Diet Operating System: Why Your Next Cloud App Might Not Need Linux | Aravind S Narayan | [Read More](https://medium.com/p/f75e35a5c1af) |
-| Sat, 24 Jan 2026 04:15:36 GMT | Business Logic Flaws: How Unauthorized Fund Transfers Occur in Wallet Applications | Ox_Saro | [Read More](https://medium.com/p/153b26de2dc5) |
-| Sat, 24 Jan 2026 04:14:17 GMT | Learning Nmap in Kali Linux - My First Step into Network Scanning (CEH Beginner) . | Syber Security beginner. | [Read More](https://medium.com/p/3b7568688ff4) |
-| Sat, 24 Jan 2026 04:03:17 GMT | I Read Newsletters Without Using My Real Email — Here’s How | Sam Writes Security | [Read More](https://medium.com/p/60c01911297a) |
-| Sat, 24 Jan 2026 03:59:09 GMT | ข้อควรรู้แบบพื้นฐาน ๆ ของหลักการรักษาความปลอดภัย (Security Concept) EP.1 | Bank SRC | [Read More](https://medium.com/p/48753bbd18b7) |
-| Sat, 24 Jan 2026 03:57:27 GMT | TCP (Transmission Control Protocol) : PART 1 | TheCyberNirvana | [Read More](https://medium.com/p/2b95981caab6) |
-| Sat, 24 Jan 2026 03:54:47 GMT | Proving Grounds Practice Codo Linux Lab ( Road to OSCP ) | Cyb0rgBytes | [Read More](https://medium.com/p/ab82689ee7ef) |
-| Sat, 24 Jan 2026 03:49:04 GMT | A critical zero-day vulnerability named ToolShell (CVE-2025–53770) has been discovered in… | Nicksondiazm | [Read More](https://medium.com/p/7e6042061f2c) |
