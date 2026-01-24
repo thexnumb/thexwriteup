@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 14:37:02 GMT | Modern Proxy Chain Usage — Building the Architecture of Invisibility | Esra Kayhan | [Read More](https://medium.com/p/564d508c664f) |
+| Sat, 24 Jan 2026 14:36:41 GMT | Cross-Domain Attack Applications: Bypassing Security Boundaries | Esra Kayhan | [Read More](https://medium.com/p/94f410729200) |
+| Sat, 24 Jan 2026 14:32:02 GMT | ChatGPT Stole My Bank Password Before I Hit Backspace | Mohamed Bakry | [Read More](https://medium.com/p/ce5e873e5382) |
+| Sat, 24 Jan 2026 14:27:01 GMT | How to Build a Secure Linux Server | bektiaw | [Read More](https://medium.com/p/509021596097) |
+| Sat, 24 Jan 2026 14:24:34 GMT | I Stopped Chasing Bugs and Started Getting Paid — TrinetLayer Was the Difference | Trinet Layer | [Read More](https://medium.com/p/af9df29a35a6) |
+| Sat, 24 Jan 2026 14:23:29 GMT | CodeBreach: The Two Missing Regex Characters That Nearly Broke the AWS Supply Chain | Chameera Rupasinghe | [Read More](https://medium.com/p/7ea27036f236) |
+| Sat, 24 Jan 2026 14:22:56 GMT | Linux Öğrenmek İsteyenlere Başlangıç: Bandit Oyunu Çözümleri | Mehmet Emir Yılmaz | [Read More](https://medium.com/p/17ab6ec18ae9) |
+| Sat, 24 Jan 2026 14:16:52 GMT | My Journey to eJPTv3: Building a Rock-Solid Foundation in Pentesting | Joel Morillas Pagan (Ghxstsec) | [Read More](https://medium.com/p/a40b89070c9f) |
+| Sat, 24 Jan 2026 14:16:36 GMT | Wiz x Cloud Security Championship — Contain Me If You Can Walkthrough | Vedant Bhalerao | [Read More](https://medium.com/p/2d579402a8b2) |
+| Sat, 24 Jan 2026 14:12:57 GMT | I Built 3 Production Agentic Systems. Here Are The 7 Hardest Lessons. | Sattyam Jain | [Read More](https://medium.com/p/d042f929522a) |
+| Sat, 24 Jan 2026 14:12:03 GMT | 300+ devices on my LAN: How I discovered my building’s security nightmare | Stéphane Derosiaux | [Read More](https://medium.com/p/79c41c795012) |
 | Sat, 24 Jan 2026 13:48:09 GMT | Indians Adopt Technology Fast — But Awareness Is Still Missing | Ankit rai | [Read More](https://medium.com/p/9e0d414bb3e1) |
 | Sat, 24 Jan 2026 13:44:55 GMT | Laboratory Information Management System: Benefits and Features | Pilims 42 | [Read More](https://medium.com/p/54a54d0f1ea1) |
 | Sat, 24 Jan 2026 13:41:54 GMT | Data protection and privacy laws | Cyberhamid | [Read More](https://medium.com/p/d8a1c71f8f28) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 05:59:00 GMT | AI-Driven Threat Detection Systems: The Future of Cybersecurity | Dr. Minakshmi Shaw | [Read More](https://medium.com/p/1b0557881d85) |
 | Sat, 24 Jan 2026 05:48:02 GMT | Introduction to Endpoint Detection and Response (EDR): A SOC Analyst’s Learning Journey | Sidhantchaurasiya | [Read More](https://medium.com/p/d0d09a71d121) |
 | Sat, 24 Jan 2026 05:46:35 GMT | A Practical Blue Team Project: SSH Log Analysis with Python | Edson | [Read More](https://medium.com/p/507f17113aba) |
-| Sat, 24 Jan 2026 05:45:02 GMT | My Experience with GoldBs. com Scam and How I Recovered My Funds | Mathewmatt | [Read More](https://medium.com/p/9c230105aa61) |
-| Sat, 24 Jan 2026 05:27:55 GMT | My Experience with Bitgert Scam and How I Recovered My Funds | Katie Dillard | [Read More](https://medium.com/p/91cd76928655) |
-| Sat, 24 Jan 2026 05:26:13 GMT | Choosing the Best Home Automation Company in UAE and Best CCTV Company in UAE | techfra solutions | [Read More](https://medium.com/p/d2217e87b1d3) |
-| Sat, 24 Jan 2026 05:20:58 GMT | Why Choose a Bachelor of Science in Cybersecurity in 2026? | Sikhasinghh | [Read More](https://medium.com/p/c0d98b151cd8) |
-| Sat, 24 Jan 2026 05:02:13 GMT | Why does every secure app need Authorization and authentication? | Parita Dey | [Read More](https://medium.com/p/f8d1eff77f22) |
-| Sat, 24 Jan 2026 04:55:22 GMT | NIST CSF 2.0 for Marketing Agencies: A Practical Cybersecurity Framework | Ritesh Chauhan | [Read More](https://medium.com/p/bf7fd9b3aa03) |
-| Sat, 24 Jan 2026 04:54:53 GMT | “Your Wi-Fi Was Hacked. Now They Own Your Network.” | ghostyjoe | [Read More](https://medium.com/p/99143e791e30) |
-| Sat, 24 Jan 2026 04:32:09 GMT | Lock Down n8n Webhooks Before They Bite | Nexumo | [Read More](https://medium.com/p/769e6e8768a0) |
-| Sat, 24 Jan 2026 04:32:03 GMT | n8n Credential Hygiene for Self-Hosted Reality | Bhagya Rana | [Read More](https://medium.com/p/cfa90ef1a114) |
-| Sat, 24 Jan 2026 04:29:31 GMT | From Setback to Signal: Cooking Up a Threat Detection Tool on a Raspberry Pi 3 | the CyberStoic | [Read More](https://medium.com/p/387d4b92b5af) |
-| Sat, 24 Jan 2026 04:27:06 GMT | The Diet Operating System: Why Your Next Cloud App Might Not Need Linux | Aravind S Narayan | [Read More](https://medium.com/p/f75e35a5c1af) |
