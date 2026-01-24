@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 15:21:38 GMT | SSL Pinning iOS (Alamofire + TrustKit) | Agus Cahyono | [Read More](https://medium.com/p/9acbad0dae39) |
+| Sat, 24 Jan 2026 15:18:32 GMT | 1Password + Dream Afar: Security Meets Productivity | Jessica W Smith | [Read More](https://medium.com/p/176e2984b7e5) |
+| Sat, 24 Jan 2026 15:10:37 GMT | Nmap — TryHackMe Pentesting Tools | Tayyeb Nadeem Somro | [Read More](https://medium.com/p/58bf2e9a78fe) |
+| Sat, 24 Jan 2026 14:52:07 GMT | The Human Consensus Protocol in Your Browser | Koshy | [Read More](https://medium.com/p/6b7cf3614bcb) |
+| Sat, 24 Jan 2026 14:39:03 GMT | Cloud Hosted Honeypots | Allen Ace | [Read More](https://medium.com/p/553aa0604e80) |
 | Sat, 24 Jan 2026 14:37:02 GMT | Modern Proxy Chain Usage — Building the Architecture of Invisibility | Esra Kayhan | [Read More](https://medium.com/p/564d508c664f) |
 | Sat, 24 Jan 2026 14:36:41 GMT | Cross-Domain Attack Applications: Bypassing Security Boundaries | Esra Kayhan | [Read More](https://medium.com/p/94f410729200) |
 | Sat, 24 Jan 2026 14:32:02 GMT | ChatGPT Stole My Bank Password Before I Hit Backspace | Mohamed Bakry | [Read More](https://medium.com/p/ce5e873e5382) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 06:38:36 GMT | Choosing the Right Database: A Lesson from Production Reality | Kamalmeet Singh | [Read More](https://medium.com/p/b28e1241fb31) |
 | Sat, 24 Jan 2026 06:18:28 GMT | How AI Can Detect Lies In Text Messages (Seriously) | Milan Patel | [Read More](https://medium.com/p/5308930e4c88) |
 | Sat, 24 Jan 2026 06:04:11 GMT | HTB Certified Web Exploitation Specialist Review | clzphoro | [Read More](https://medium.com/p/57dbea8636c0) |
-| Sat, 24 Jan 2026 06:04:02 GMT | The First 100 Days of the CISO: A Critical Period for Organisational Alignment | JC Gaillard | [Read More](https://medium.com/p/1df0ddb82e8f) |
-| Sat, 24 Jan 2026 06:02:23 GMT | My own Bash passwords manager | Colin Sampler | [Read More](https://medium.com/p/e3b6d0f42d67) |
-| Sat, 24 Jan 2026 05:59:00 GMT | AI-Driven Threat Detection Systems: The Future of Cybersecurity | Dr. Minakshmi Shaw | [Read More](https://medium.com/p/1b0557881d85) |
-| Sat, 24 Jan 2026 05:48:02 GMT | Introduction to Endpoint Detection and Response (EDR): A SOC Analyst’s Learning Journey | Sidhantchaurasiya | [Read More](https://medium.com/p/d0d09a71d121) |
-| Sat, 24 Jan 2026 05:46:35 GMT | A Practical Blue Team Project: SSH Log Analysis with Python | Edson | [Read More](https://medium.com/p/507f17113aba) |
