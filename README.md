@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 23:41:29 GMT | Protecting AI Models in Cloud Storage | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/519456466ccb) |
+| Sat, 24 Jan 2026 23:39:44 GMT | Building a “Privacy-First” AI Red Team Assistant: A Hybrid Architecture with Ollama & Kali Linux | Kaizen | [Read More](https://medium.com/p/880215f38844) |
+| Sat, 24 Jan 2026 23:19:13 GMT | How I Built a Local Uncensored AI Stack for Red Teaming in 2026 (Full Guide) | Saad Khalid | [Read More](https://medium.com/p/a84bedfa4021) |
+| Sat, 24 Jan 2026 23:16:58 GMT | Is It Safe to Share Your Internet Bandwidth? Risks, Myths, and What Actually Happens | Cw222444 | [Read More](https://medium.com/p/1ae262bc0d76) |
 | Sat, 24 Jan 2026 23:07:06 GMT | Cybersecurity Writing Niches With High Buyer Intent | Ms. Byte Dev | [Read More](https://medium.com/p/be4bedc790b5) |
 | Sat, 24 Jan 2026 23:02:52 GMT | technolgie and futureof technologie | Moussachouikh | [Read More](https://medium.com/p/87b11780de36) |
 | Sat, 24 Jan 2026 22:56:55 GMT | I Cracked WCW’s 25-Year-Old Encryption in 43 Minutes. The Cipher Was Just Subtraction. | Blake Bratcher | [Read More](https://medium.com/p/81de6b159045) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 13:48:09 GMT | Indians Adopt Technology Fast — But Awareness Is Still Missing | Ankit rai | [Read More](https://medium.com/p/9e0d414bb3e1) |
 | Sat, 24 Jan 2026 13:44:55 GMT | Laboratory Information Management System: Benefits and Features | Pilims 42 | [Read More](https://medium.com/p/54a54d0f1ea1) |
 | Sat, 24 Jan 2026 13:41:54 GMT | Data protection and privacy laws | Cyberhamid | [Read More](https://medium.com/p/d8a1c71f8f28) |
-| Sat, 24 Jan 2026 13:41:45 GMT | Are You Ready for Red Teaming in 2026?(Cyber Security) | Yua Mikanana | [Read More](https://medium.com/p/ffd35d299daf) |
-| Sat, 24 Jan 2026 13:41:24 GMT | Why xAI’s Grok Was Chosen by the United States Government | David SEHYEON Baek | [Read More](https://medium.com/p/3981c3b475ac) |
-| Sat, 24 Jan 2026 13:40:45 GMT | FortiGate Port Yapılandırması ve Temel Kural (Policy) Yönetimi | hakan sezer | [Read More](https://medium.com/p/bebda52c99ca) |
-| Sat, 24 Jan 2026 13:29:14 GMT | How Cloudflare’s ACME Bug Let Attackers Bypass WAFs (Full Report) | Saad Khalid | [Read More](https://medium.com/p/117be607d513) |
