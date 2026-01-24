@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 01:36:17 GMT | PG Lab Internal: No Metasploit | Nicolas Garcia | [Read More](https://medium.com/p/5e77d045c776) |
+| Sat, 24 Jan 2026 01:35:27 GMT | Unearthing the Truth in DC-2 - Breaking Barriers & Restricted Shells ️ | Nicholas Mullenski | [Read More](https://medium.com/p/71e3969cc096) |
+| Sat, 24 Jan 2026 01:31:16 GMT | Check Point Email Security | Asterisk | [Read More](https://medium.com/p/323c96038a2c) |
+| Sat, 24 Jan 2026 01:28:48 GMT | The Digital Sanitizers: Inside Divurion, The Unseen Force Erasing the World’s Worst Actors | Maxine Patrillo | [Read More](https://medium.com/p/0778ebf921b4) |
+| Sat, 24 Jan 2026 01:23:06 GMT | 情報構造 入門：目に見えないが物理より先に成立するもの | numa | [Read More](https://medium.com/p/a321553c282b) |
+| Sat, 24 Jan 2026 01:15:42 GMT | Web security theory — Why Your 2010 Banking Logic Would Get You Hacked Today | AYA | [Read More](https://medium.com/p/7e7579e98205) |
+| Sat, 24 Jan 2026 01:14:41 GMT | Semantic Evolutionary Process in AI Systems | Supat Charoensappuech | [Read More](https://medium.com/p/5ebcc9211884) |
+| Sat, 24 Jan 2026 01:06:14 GMT | The Trade Bazooka Is an Information Weapon | Dr. Thomas Jreige | [Read More](https://medium.com/p/b7a287bf4975) |
+| Sat, 24 Jan 2026 01:02:38 GMT | ２枚のカードで作る次世代の分散セキュリティ：入門編 | numa | [Read More](https://medium.com/p/a8c0f95bb3e6) |
+| Sat, 24 Jan 2026 00:46:36 GMT | A Missing Stamp Is a Policy: Paperwork, Power, and Fragile Lives | James Kuhman | [Read More](https://medium.com/p/8e7a84ca174e) |
+| Sat, 24 Jan 2026 00:32:02 GMT | Why The WORLD Is Rejecting Windows 11 — Biggest Tech Revolt Ever | TheMindShift | [Read More](https://medium.com/p/92346abf3602) |
+| Sat, 24 Jan 2026 00:24:18 GMT | ️‍♂️ HTB: Footprinting Lab — Easy (Walkthrough) | Moulishwar vs | [Read More](https://medium.com/p/9eec72baf191) |
+| Sat, 24 Jan 2026 00:02:11 GMT | What is a Penetration Test? And Other Penetration Testing FAQs | Eric Smith | [Read More](https://medium.com/p/4ddf4e5f8ea5) |
+| Sat, 24 Jan 2026 00:02:05 GMT | Exploit-DB Guide to Bug Bounty: Using SearchSploit and Vulnerability Validation | JPablo13 | [Read More](https://medium.com/p/e8c564ec1b0a) |
+| Sat, 24 Jan 2026 00:02:04 GMT | 0-Click 的惡意：當 YouTube 變成駭客的 C2 彈藥庫 (PixelCode 深度剖析) | p1x06u9 | [Read More](https://medium.com/p/149a659a6444) |
 | Fri, 23 Jan 2026 23:28:45 GMT | ​Di Balik Bayangan: Kebangkitan "XII Twelve (Twelve Botnets)" – Evolusi Senyap di Tangan xxiinn… | Digital News | [Read More](https://medium.com/p/2b5e01eede4d) |
 | Fri, 23 Jan 2026 23:22:42 GMT | Explainable AI (XAI) for Cybersecurity: Transparent Intrusion Detection & Threat Attribution | Husam A.S Khalifa | [Read More](https://medium.com/p/cba991380ee7) |
 | Fri, 23 Jan 2026 23:13:02 GMT | MITRE ATT&CK Framework Explained with Log Examples | Abhinsubej | [Read More](https://medium.com/p/fe305c121009) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 Jan 2026 16:54:56 GMT | How I Built an End-to-End Encrypted File Sharing App in 30 Days Using Flask, Redis, and ChaCha20 | Aayush | [Read More](https://medium.com/p/069613da2ba7) |
 | Fri, 23 Jan 2026 16:52:09 GMT | Title: Volatility 3 Will Change How You Hunt Malware (and Here’s the Cheatsheet) | SOCFortress | [Read More](https://medium.com/p/a535d4530611) |
 | Fri, 23 Jan 2026 16:49:27 GMT | United, Europeans can defeat the United States in a conventional war | Aurel Stratan | [Read More](https://medium.com/p/7cd571e554fe) |
-| Fri, 23 Jan 2026 16:46:42 GMT | When Should Cybersecurity be Engaged for Innovation? | Matthew.Rosenquist | [Read More](https://medium.com/p/44bb6e6051b8) |
-| Fri, 23 Jan 2026 16:35:44 GMT | The “IT Kings” Delusion: Why AI Won’t Replace Doctors — It Will Replace You | Shenggang Li | [Read More](https://medium.com/p/1cf71c3040b2) |
-| Fri, 23 Jan 2026 16:34:01 GMT | 3 Prompt Injection Attacks You Can Test Right Now | Josh Gracie | [Read More](https://medium.com/p/6858916f2486) |
-| Fri, 23 Jan 2026 16:31:04 GMT | What Really Goes Wrong in the First 6 Hours After a Cyberattack | Cordula Boeck | [Read More](https://medium.com/p/539a5ada5914) |
-| Fri, 23 Jan 2026 16:29:34 GMT | The Web of North Korean fake profiles | Mees van Wickeren | [Read More](https://medium.com/p/3e04d8dcd1af) |
-| Fri, 23 Jan 2026 16:26:47 GMT | Weaponizing Word: The Art of Remote Template Injection & Reverse Shells | Saksham Bhattarai | [Read More](https://medium.com/p/4f52155507ec) |
-| Fri, 23 Jan 2026 16:24:38 GMT | Security Ticketing & Incident Workflow Lab (Cybrary) | Shahzeb M | [Read More](https://medium.com/p/1713f6f5af06) |
-| Fri, 23 Jan 2026 16:22:00 GMT | A Calm Day in Pentesting: No Exploits, Just Understanding the System | Amandogra | [Read More](https://medium.com/p/370e5cb655ea) |
-| Fri, 23 Jan 2026 16:20:45 GMT | Trying To Find Privacy In an AI Surveillance Enhanced World (Short Version) | David Speakman | [Read More](https://medium.com/p/c985521bcc3e) |
-| Fri, 23 Jan 2026 16:16:22 GMT | Oh, in the dream of love—My wander message. | Lilacs violet | [Read More](https://medium.com/p/8a0afe7ab633) |
-| Fri, 23 Jan 2026 16:12:28 GMT | CloudGoat AWS vulnerable_lambda Walkthrough | Spookz | [Read More](https://medium.com/p/4daa39e5317c) |
-| Fri, 23 Jan 2026 16:07:17 GMT | How WhatsApp Can Be Hacked: Real-World Methods & Protection Tips | Syed Muhammad Hatim Javaid | [Read More](https://medium.com/p/49e40538fa86) |
-| Fri, 23 Jan 2026 16:01:43 GMT | SRExpert: the Kubernetes Control Plane Your Sleep-Deprived SRE Brain Deserves — AI Chat | Horse Tired | [Read More](https://medium.com/p/f44121380c5a) |
-| Fri, 23 Jan 2026 16:01:04 GMT | When Agents Meet Security, Fear Is Optional | Syntal | [Read More](https://medium.com/p/5ead34e21983) |
-| Fri, 23 Jan 2026 16:01:03 GMT | The AI That Watches Over Your Health (Before You and me Even Know we are Sick) | Cyber Explain | [Read More](https://medium.com/p/e8a1357633bb) |
