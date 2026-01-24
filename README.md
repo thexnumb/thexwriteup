@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 09:03:01 GMT | How to Brief Your CEO on Credential Exposure in 5 Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/a977af30dc11) |
+| Sat, 24 Jan 2026 09:00:10 GMT | Partial masking, different logic, and bypassing protection | bhargabKaushik | [Read More](https://medium.com/p/4ce54e9d10fc) |
+| Sat, 24 Jan 2026 08:57:49 GMT | ReversibleAI: A Modern Framework for Malware Analysis & Reverse Engineering | Ismail Tasdelen | [Read More](https://medium.com/p/bc7a8fe0694e) |
+| Sat, 24 Jan 2026 08:56:51 GMT | Why Active Directory Security Fails Without Adversary Validation | ZeroScorpion | [Read More](https://medium.com/p/e09a2a6cb55a) |
+| Sat, 24 Jan 2026 08:34:30 GMT | Master Cyber Security & Secure Your Future! | Molletibalu | [Read More](https://medium.com/p/3cc31b11037c) |
+| Sat, 24 Jan 2026 08:24:51 GMT | Ağınızdaki Görünmez Tehlikeleri Keşfedin: Security Onion ile Tanışın. | Cyber Web | [Read More](https://medium.com/p/8b2ec7b8d0d0) |
 | Sat, 24 Jan 2026 08:15:10 GMT | Perplexity Comet 2026 Review: Is It Safe Enough for Daily Use? Agentic Browser | FlowFi | [Read More](https://medium.com/p/7c5aed839bd3) |
 | Sat, 24 Jan 2026 08:11:06 GMT | Beyond Real-Time CTI Sharing: Where DDS-Based Cyber Defense Goes Next | Dr. Ayaz H. Khan | [Read More](https://medium.com/p/4cf98aecb431) |
 | Sat, 24 Jan 2026 07:59:30 GMT | I used to panic the moment my console turned red. | Motunrayo Adegbola | [Read More](https://medium.com/p/cfd3517f2542) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 Jan 2026 21:49:25 GMT | Prompt Injection Attacks Explained (With Cloud Examples). | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/b54ac4405bbe) |
 | Fri, 23 Jan 2026 21:48:21 GMT | Developing a SOC Triage Engine.. but make it agentic. | Gabriel Binion | [Read More](https://medium.com/p/b670ba74bf59) |
 | Fri, 23 Jan 2026 21:31:50 GMT | What I Learned Running Honeypots for 28 Days: Nearly 2 Million Attacks Analyzed | Thijs | [Read More](https://medium.com/p/b9bee7530132) |
-| Fri, 23 Jan 2026 21:31:37 GMT | Is Your RAG System Leaking Data? 5 Minute Security Check | Josh Gracie | [Read More](https://medium.com/p/5ed38b01f9c1) |
-| Fri, 23 Jan 2026 21:25:06 GMT | A Blueprint for Enterprise Security Architecture on the Power Platform | Damola Ojoniyi | [Read More](https://medium.com/p/141f52f8aa18) |
-| Fri, 23 Jan 2026 21:24:31 GMT | Securing AI Pipelines on AWS, Azure, and GCP | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/32e1606bd91f) |
-| Fri, 23 Jan 2026 21:09:23 GMT | LIST OF IPHONES THAT ARE JAILBREAKBLE | Maxwell | [Read More](https://medium.com/p/a04118d9cabd) |
-| Fri, 23 Jan 2026 21:07:07 GMT | Hello MCP: Debugging and Testing | Alessandro | [Read More](https://medium.com/p/f1da3b0e9288) |
-| Fri, 23 Jan 2026 21:06:00 GMT | Cybersecurity 101 | Ajibola Jr. | [Read More](https://medium.com/p/a8b4ca457c49) |
