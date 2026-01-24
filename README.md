@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 11:06:13 GMT | How Phishing Scams Really Work And Why Even Smart People Fall for Them | Digital Safety | [Read More](https://medium.com/p/27d11a86a231) |
+| Sat, 24 Jan 2026 10:57:55 GMT | From APK to AWS: How I Chained a Hardcoded Secret to a Full Cloud Takeover | Nahyan Jahromi | [Read More](https://medium.com/p/aab42443f2fe) |
 | Sat, 24 Jan 2026 10:44:53 GMT | TryHackMe: Ice | Root_Fabric | [Read More](https://medium.com/p/dd6c9cc987cf) |
 | Sat, 24 Jan 2026 10:35:32 GMT | Broken Access control Port swigger (Apprentice Labs) | Abdelrabo%00 | [Read More](https://medium.com/p/ab6c32c08281) |
 | Sat, 24 Jan 2026 10:28:40 GMT | CONVERSING WITH INNER SELF : PART -2 | Shrishti | [Read More](https://medium.com/p/d1fdbe7dc307) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 Jan 2026 22:39:38 GMT | Bypassing Rate Limit via Race Condition | Max_216 | [Read More](https://medium.com/p/2b6dcb958ffb) |
 | Fri, 23 Jan 2026 22:28:31 GMT | Containment | Kemi Wren | [Read More](https://medium.com/p/a5ac5d1dc428) |
 | Fri, 23 Jan 2026 22:28:10 GMT | Ireland’s Encryption Backdoor Bill | ⚖️ | [Read More](https://medium.com/p/b0ca1c5fa7c1) |
-| Fri, 23 Jan 2026 22:27:06 GMT | Quantum Scrambler — picoCTF 2025 Writeup | truffles | [Read More](https://medium.com/p/c6d892805c6f) |
-| Fri, 23 Jan 2026 22:23:02 GMT | Recreating a Broadcast Storm to Understand STP | Josiah Blanchette | [Read More](https://medium.com/p/59fcee28ff15) |
