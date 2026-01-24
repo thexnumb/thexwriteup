@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 20:20:08 GMT | Blind Boolean-Based Prompt Injection | Daniel Hammon | [Read More](https://medium.com/p/62a3bfc38101) |
+| Sat, 24 Jan 2026 19:50:23 GMT | THM — Reversing ELF | Sagar Joshi | [Read More](https://medium.com/p/08739074a3f3) |
+| Sat, 24 Jan 2026 19:29:45 GMT | SQLMap Essentials: Your Practical Guide to Automated SQL Injection Testing | Faisal Shahzad | [Read More](https://medium.com/p/719a37e25737) |
+| Sat, 24 Jan 2026 19:29:09 GMT | Issues currently facing the Cyber Cell. | Mag Num | [Read More](https://medium.com/p/c6c8dd2026c6) |
 | Sat, 24 Jan 2026 19:23:42 GMT | The Multi-Bug Streak: Uncovering 4 Vulnerabilities on a Single Target | Samet Yiğit | [Read More](https://medium.com/p/1b4daa50dad2) |
 | Sat, 24 Jan 2026 19:11:23 GMT | Telnetd auth-bypass to root | Shivam Bathla | [Read More](https://medium.com/p/f6e239d692b5) |
 | Sat, 24 Jan 2026 19:06:55 GMT | Beware! Mumbai Woman Believed She Was Chatting with Elon Musk and Lost 16 Lakh… | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/93656a2fb433) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 11:47:02 GMT | I Followed the Password Reset Flow — and Ended Up Resetting Everyone’s Password | Iski | [Read More](https://medium.com/p/d81e07e6e3b7) |
 | Sat, 24 Jan 2026 11:46:01 GMT | Why Cybersecurity Is One Of The Most Important Skills Today | Ethan Parker | [Read More](https://medium.com/p/0545db30b067) |
 | Sat, 24 Jan 2026 11:43:22 GMT | The Basic Hacking Process | Jun | [Read More](https://medium.com/p/8d597afc0976) |
-| Sat, 24 Jan 2026 11:42:21 GMT | What is SOC in Cybersecurity ? | Tvmgouder | [Read More](https://medium.com/p/2e674d5f7851) |
-| Sat, 24 Jan 2026 11:39:52 GMT | How Your Coffee Shop Wi-Fi Explains OpenShift TLS Security | Kamlesh Prajapati | [Read More](https://medium.com/p/dafc2be90a7f) |
-| Sat, 24 Jan 2026 11:29:32 GMT | Linux Privilege Escalation: Understanding Common Misconfigurations | Kuldip sarvaiya | [Read More](https://medium.com/p/91bccd8e77d6) |
-| Sat, 24 Jan 2026 11:24:16 GMT | Day 4: How Devices Actually Communicate — Networking Explained for SOC Analysts | Faizan Nazir | [Read More](https://medium.com/p/adfb9d721e6a) |
