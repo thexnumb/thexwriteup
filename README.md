@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 19:11:23 GMT | Telnetd auth-bypass to root | Shivam Bathla | [Read More](https://medium.com/p/f6e239d692b5) |
+| Sat, 24 Jan 2026 19:06:55 GMT | Beware! Mumbai Woman Believed She Was Chatting with Elon Musk and Lost 16 Lakh… | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/93656a2fb433) |
+| Sat, 24 Jan 2026 18:57:14 GMT | Turning an Image Upload Into a Site-Wide Stored XSS | OopsSec Store | [Read More](https://medium.com/p/60f39c82e827) |
+| Sat, 24 Jan 2026 18:55:25 GMT | Basic Kali -Linux Commands for Ethical Hacking (Part-7) | Akhil Thakur | [Read More](https://medium.com/p/32ee1c5bd30b) |
+| Sat, 24 Jan 2026 18:52:29 GMT | Active Directory Lab for PenTest. Manual Deployment Guide | Andrey Pautov | [Read More](https://medium.com/p/cab28cd4ad8d) |
+| Sat, 24 Jan 2026 18:45:33 GMT | Decrypting HTTPS Traffic on Linux Using SSL Key Logging | Famous Areguamen | [Read More](https://medium.com/p/254eda15d536) |
+| Sat, 24 Jan 2026 18:42:42 GMT | The Drug Testing Loophole Putting Your Freight at Risk | Heesham Naji | [Read More](https://medium.com/p/6df21a57fc72) |
+| Sat, 24 Jan 2026 18:33:16 GMT | Extracting Information From Facebook’s Locked Profile and Private Account on Instagram | Nazrul Islam Rana | [Read More](https://medium.com/p/79e3085d427f) |
+| Sat, 24 Jan 2026 18:27:07 GMT | ️‍♂️ HTB: Footprinting Lab — Medium (Walkthrough) | Moulishwar vs | [Read More](https://medium.com/p/a0a35c64a9fd) |
 | Sat, 24 Jan 2026 18:18:50 GMT | A State of Exposure | Tantya Ani | [Read More](https://medium.com/p/027fe7980d6a) |
 | Sat, 24 Jan 2026 18:16:59 GMT | Unveiling Access Control Exploits: Why They Top Web3 Hack Lists Year After Year | Exploitless | [Read More](https://medium.com/p/19bb0bb3a43d) |
 | Sat, 24 Jan 2026 18:06:03 GMT | How I Got CVE-2025–53092: Technical Overview | ghostvirus | [Read More](https://medium.com/p/ba0963b2958d) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 11:29:32 GMT | Linux Privilege Escalation: Understanding Common Misconfigurations | Kuldip sarvaiya | [Read More](https://medium.com/p/91bccd8e77d6) |
 | Sat, 24 Jan 2026 11:24:16 GMT | Day 4: How Devices Actually Communicate — Networking Explained for SOC Analysts | Faizan Nazir | [Read More](https://medium.com/p/adfb9d721e6a) |
 | Sat, 24 Jan 2026 11:22:26 GMT | Transform Operations Faster When You Hire N8N Developers | n8ndevelopers | [Read More](https://medium.com/p/624f5ec8a92e) |
-| Sat, 24 Jan 2026 11:21:54 GMT | From Zero to System: A Beginner’s Guide to Exploiting EternalBlue (TryHackMe Walkthrough) | Shanavas Shafi | [Read More](https://medium.com/p/12d4479481f6) |
-| Sat, 24 Jan 2026 11:20:52 GMT | Mastering the Digital World in 2026: Simple Guides for Everyone | MRZ STUDIO BD | [Read More](https://medium.com/p/4f96adba4596) |
-| Sat, 24 Jan 2026 11:20:12 GMT | Command Injection Çözümü | CyberSam | [Read More](https://medium.com/p/d6bdad495200) |
-| Sat, 24 Jan 2026 11:18:52 GMT | Cyber threats are increasing, making website security a top priority for online businesses. | Vertex Invo | [Read More](https://medium.com/p/4f03f7ff4614) |
-| Sat, 24 Jan 2026 11:17:09 GMT | How to Choose the Best Free VPN for Android | Gautam Basu | [Read More](https://medium.com/p/f854b9952e95) |
-| Sat, 24 Jan 2026 11:15:24 GMT | So, is this how to be human? | Sinag. | [Read More](https://medium.com/p/f3a866565685) |
-| Sat, 24 Jan 2026 11:06:13 GMT | How Phishing Scams Really Work And Why Even Smart People Fall for Them | Digital Safety | [Read More](https://medium.com/p/27d11a86a231) |
-| Sat, 24 Jan 2026 10:57:55 GMT | From APK to AWS: How I Chained a Hardcoded Secret to a Full Cloud Takeover | Nahyan Jahromi | [Read More](https://medium.com/p/aab42443f2fe) |
-| Sat, 24 Jan 2026 10:48:26 GMT | The Most Exclusive Knowledge Domain in Cybersecurity: 30 People Understand It? | Berend Watchus | [Read More](https://medium.com/p/ad73e809164b) |
