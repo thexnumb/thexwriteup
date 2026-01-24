@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 16:17:05 GMT | Rebuilding Day 2 | Technodox10 | [Read More](https://medium.com/p/58126659406c) |
+| Sat, 24 Jan 2026 16:02:22 GMT | MYTH BUSTED: Any “ Computer ” Can Do In Cyber — Security… | lukewago | [Read More](https://medium.com/p/261d53347f37) |
+| Sat, 24 Jan 2026 16:02:01 GMT | Defaults Are Power, Not Convenience: What This Week’s Tech and Markets Quietly Revealed | Qandeel Akhtar | [Read More](https://medium.com/p/c022a4a5b2ba) |
+| Sat, 24 Jan 2026 16:02:00 GMT | From Audit to Control: Operationalizing DLP for AI + Data in the Enterprise Browser | Mammoth Cyber | [Read More](https://medium.com/p/d582305c976a) |
+| Sat, 24 Jan 2026 16:00:27 GMT | Every Claude Skill Is a Potential Double Agent | Shibasish Das | [Read More](https://medium.com/p/29886c4bca54) |
+| Sat, 24 Jan 2026 15:47:45 GMT | 7 Best Sites to Buying Gmail Accounts in PVA & Bulk (Educational Guide) | newpvait | [Read More](https://medium.com/p/5d74f919a7f7) |
+| Sat, 24 Jan 2026 15:47:37 GMT | Tryhackme CTF collection Vol.1 Write-Up | Kandemirryigit | [Read More](https://medium.com/p/46dac0b232ec) |
+| Sat, 24 Jan 2026 15:43:27 GMT | What is Log Management & Why SOCs Need It | ARCHANA P | [Read More](https://medium.com/p/de2a49c36363) |
+| Sat, 24 Jan 2026 15:41:39 GMT | The Hidden Cost Of Rust: Why Safety Is Killing Your Development Velocity | The Thread Whisperer | [Read More](https://medium.com/p/cb05deec6563) |
 | Sat, 24 Jan 2026 15:34:38 GMT | Vulnerability Management: Why Finding Bugs Is Not Enough | Sruthi Punugu | [Read More](https://medium.com/p/5ffbca5be05b) |
 | Sat, 24 Jan 2026 15:33:13 GMT | How Smart Security Accelerates Business | Kshitij Ratnaparkhi | [Read More](https://medium.com/p/baa91f73b209) |
 | Sat, 24 Jan 2026 15:32:55 GMT | On-Device AI in 2026: What It Means for Privacy, Speed, and Creativity | Varun Chopra | [Read More](https://medium.com/p/92dbe6140af3) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 07:46:21 GMT | Davranışsal Güvenlik (Behavioral Security) | Ziya Gokalp | [Read More](https://medium.com/p/e224a0fe1b78) |
 | Sat, 24 Jan 2026 07:45:53 GMT | Future-Proof Careers in the Age of AI: What You Should Learn in 2026 | Vijay Kumar Gupta | [Read More](https://medium.com/p/6e58aaa67531) |
 | Sat, 24 Jan 2026 07:37:09 GMT | Microsoft gave FBI a set of BitLocker encryption keys to unlock suspects’ laptops: Reports | Pythonpom | [Read More](https://medium.com/p/0e6e8b20f084) |
-| Sat, 24 Jan 2026 07:32:04 GMT | Multi-Tenant NestJS Without Data-Leak Nightmares | Velorum | [Read More](https://medium.com/p/7f7bae8d2642) |
-| Sat, 24 Jan 2026 07:28:14 GMT | Associative: Your Premier Decentralized Application Development Company in Pune, India | Chaitanyachavan | [Read More](https://medium.com/p/a48884815fac) |
-| Sat, 24 Jan 2026 07:21:03 GMT | What Your Laptop Remembers About You | Amandogra | [Read More](https://medium.com/p/69e18d10d340) |
-| Sat, 24 Jan 2026 07:20:33 GMT | Why People Fall for online Scams | Jaspreet Kaur | [Read More](https://medium.com/p/ad1c5db1d0d5) |
-| Sat, 24 Jan 2026 07:16:06 GMT | Includes (PicoCTF) | Destripador | [Read More](https://medium.com/p/9ff026b9201c) |
-| Sat, 24 Jan 2026 07:03:58 GMT | Microsoft Windows for Business Productivity and Security: The Smart Choice for Modern Enterprises | Estella Snyder | [Read More](https://medium.com/p/069f5ffcce5a) |
-| Sat, 24 Jan 2026 07:02:55 GMT | Day 1: When the Pi Fought Back | the CyberStoic | [Read More](https://medium.com/p/f78a1bb85e53) |
-| Sat, 24 Jan 2026 06:58:17 GMT | $90M U.S. Government Crypto Hack: On-Chain Evidence Exposes Hacker Wallet | Casi Borg | [Read More](https://medium.com/p/f7d583ade3ce) |
-| Sat, 24 Jan 2026 06:47:12 GMT | Google Dorkware Pro | Dharmendrakumar | [Read More](https://medium.com/p/74361d3cd132) |
