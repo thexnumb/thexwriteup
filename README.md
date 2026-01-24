@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 12:22:02 GMT | Server Actions Are Just POST Requests: The CSRF Trap We’re Ignoring in 2026 | Sameer Thite | [Read More](https://medium.com/p/b1d81d0c9019) |
+| Sat, 24 Jan 2026 12:10:06 GMT | Dependency Hell: Racing SQLite Session Store to Bankruptcy | 0xAren | [Read More](https://medium.com/p/91c9845d70b9) |
+| Sat, 24 Jan 2026 12:02:07 GMT | Detection Engineering Is Production Engineering — Why CI/CD Is No Longer Optional | Surya Teja | [Read More](https://medium.com/p/5318cb527a33) |
+| Sat, 24 Jan 2026 12:00:28 GMT | Cybersecurity in a Nutshell | Igino Corona, Eng PhD | [Read More](https://medium.com/p/6d95794e5807) |
+| Sat, 24 Jan 2026 11:59:06 GMT | Artificial Intelligence Course in Hindi | Manisha Chaudhary | [Read More](https://medium.com/p/b711c25299b0) |
+| Sat, 24 Jan 2026 11:55:36 GMT | Human Behavior Is the Real Firewall… What Cybersecurity Teaches Us About Ourselves | Yogic Intelligence | [Read More](https://medium.com/p/a6801076ed80) |
+| Sat, 24 Jan 2026 11:55:25 GMT | Simple Mistake, Big Security Nightmare: A True Story | SftSec Tim | [Read More](https://medium.com/p/43528548e7d5) |
+| Sat, 24 Jan 2026 11:47:02 GMT | I Followed the Password Reset Flow — and Ended Up Resetting Everyone’s Password | Iski | [Read More](https://medium.com/p/d81e07e6e3b7) |
+| Sat, 24 Jan 2026 11:46:01 GMT | Why Cybersecurity Is One Of The Most Important Skills Today | Ethan Parker | [Read More](https://medium.com/p/0545db30b067) |
+| Sat, 24 Jan 2026 11:43:22 GMT | The Basic Hacking Process | Jun | [Read More](https://medium.com/p/8d597afc0976) |
+| Sat, 24 Jan 2026 11:42:21 GMT | What is SOC in Cybersecurity ? | Tvmgouder | [Read More](https://medium.com/p/2e674d5f7851) |
+| Sat, 24 Jan 2026 11:39:52 GMT | How Your Coffee Shop Wi-Fi Explains OpenShift TLS Security | Kamlesh Prajapati | [Read More](https://medium.com/p/dafc2be90a7f) |
 | Sat, 24 Jan 2026 11:29:32 GMT | Linux Privilege Escalation: Understanding Common Misconfigurations | Kuldip sarvaiya | [Read More](https://medium.com/p/91bccd8e77d6) |
 | Sat, 24 Jan 2026 11:24:16 GMT | Day 4: How Devices Actually Communicate — Networking Explained for SOC Analysts | Faizan Nazir | [Read More](https://medium.com/p/adfb9d721e6a) |
 | Sat, 24 Jan 2026 11:22:26 GMT | Transform Operations Faster When You Hire N8N Developers | n8ndevelopers | [Read More](https://medium.com/p/624f5ec8a92e) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 01:54:57 GMT | Most ASP.NET Core Apps Are Insecure — Because Developers Confuse These 6 Tokens | AshokReddy | [Read More](https://medium.com/p/1f2ae5c95a27) |
 | Sat, 24 Jan 2026 01:53:00 GMT | Collector — FlagYrad | lyön | [Read More](https://medium.com/p/2be9fbfab376) |
 | Sat, 24 Jan 2026 01:43:00 GMT | Lo bueno toma tiempo: Storytelling de cómo me enamoré de mi mejor amigo. | Jenn Rodriguez | [Read More](https://medium.com/p/9c33768085cd) |
-| Sat, 24 Jan 2026 01:36:17 GMT | PG Lab Internal: No Metasploit | Nicolas Garcia | [Read More](https://medium.com/p/5e77d045c776) |
-| Sat, 24 Jan 2026 01:35:27 GMT | Unearthing the Truth in DC-2 - Breaking Barriers & Restricted Shells ️ | Nicholas Mullenski | [Read More](https://medium.com/p/71e3969cc096) |
-| Sat, 24 Jan 2026 01:31:16 GMT | Check Point Email Security | Asterisk | [Read More](https://medium.com/p/323c96038a2c) |
-| Sat, 24 Jan 2026 01:28:48 GMT | The Digital Sanitizers: Inside Divurion, The Unseen Force Erasing the World’s Worst Actors | Maxine Patrillo | [Read More](https://medium.com/p/0778ebf921b4) |
-| Sat, 24 Jan 2026 01:23:06 GMT | 情報構造 入門：目に見えないが物理より先に成立するもの | numa | [Read More](https://medium.com/p/a321553c282b) |
-| Sat, 24 Jan 2026 01:15:42 GMT | Web security theory — Why Your 2010 Banking Logic Would Get You Hacked Today | AYA | [Read More](https://medium.com/p/7e7579e98205) |
-| Sat, 24 Jan 2026 01:14:41 GMT | Semantic Evolutionary Process in AI Systems | Supat Charoensappuech | [Read More](https://medium.com/p/5ebcc9211884) |
-| Sat, 24 Jan 2026 01:06:14 GMT | The Trade Bazooka Is an Information Weapon | Dr. Thomas Jreige | [Read More](https://medium.com/p/b7a287bf4975) |
-| Sat, 24 Jan 2026 01:02:38 GMT | ２枚のカードで作る次世代の分散セキュリティ：入門編 | numa | [Read More](https://medium.com/p/a8c0f95bb3e6) |
-| Sat, 24 Jan 2026 00:46:36 GMT | A Missing Stamp Is a Policy: Paperwork, Power, and Fragile Lives | James Kuhman | [Read More](https://medium.com/p/8e7a84ca174e) |
-| Sat, 24 Jan 2026 00:32:02 GMT | Why The WORLD Is Rejecting Windows 11 — Biggest Tech Revolt Ever | TheMindShift | [Read More](https://medium.com/p/92346abf3602) |
-| Sat, 24 Jan 2026 00:24:18 GMT | ️‍♂️ HTB: Footprinting Lab — Easy (Walkthrough) | Moulishwar vs | [Read More](https://medium.com/p/9eec72baf191) |
