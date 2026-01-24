@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 10:44:53 GMT | TryHackMe: Ice | Root_Fabric | [Read More](https://medium.com/p/dd6c9cc987cf) |
+| Sat, 24 Jan 2026 10:35:32 GMT | Broken Access control Port swigger (Apprentice Labs) | Abdelrabo%00 | [Read More](https://medium.com/p/ab6c32c08281) |
+| Sat, 24 Jan 2026 10:28:40 GMT | CONVERSING WITH INNER SELF : PART -2 | Shrishti | [Read More](https://medium.com/p/d1fdbe7dc307) |
 | Sat, 24 Jan 2026 10:03:44 GMT | How to protect yourself if an iPhone is stolen? | Khaqan Junejo | [Read More](https://medium.com/p/c39500e35c15) |
 | Sat, 24 Jan 2026 10:02:58 GMT | Apologies for ghosting you in 2025 | Umar Farouk | [Read More](https://medium.com/p/999fc5281835) |
 | Sat, 24 Jan 2026 10:02:48 GMT | Mapping the Path to Root: Exploiting CVE-2007–2447 (Samba Usermap Script) | Tejas Kamble | [Read More](https://medium.com/p/2419be7a53b4) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 Jan 2026 22:28:10 GMT | Ireland’s Encryption Backdoor Bill | ⚖️ | [Read More](https://medium.com/p/b0ca1c5fa7c1) |
 | Fri, 23 Jan 2026 22:27:06 GMT | Quantum Scrambler — picoCTF 2025 Writeup | truffles | [Read More](https://medium.com/p/c6d892805c6f) |
 | Fri, 23 Jan 2026 22:23:02 GMT | Recreating a Broadcast Storm to Understand STP | Josiah Blanchette | [Read More](https://medium.com/p/59fcee28ff15) |
-| Fri, 23 Jan 2026 22:20:19 GMT | 09051012897شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز | شماره خاله تهران شماره خاله اصفهان شماره خاله شیرا | [Read More](https://medium.com/p/251ce633d365) |
-| Fri, 23 Jan 2026 22:19:50 GMT | 09051012897شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز | شماره خاله تهران شماره خاله اصفهان شماره خاله شیرا | [Read More](https://medium.com/p/a0e4a27856c1) |
-| Fri, 23 Jan 2026 22:17:55 GMT | 09051012897شماره خاله تهران شماره خاله اصفهان شماره خاله شیراز | شماره خاله تهران شماره خاله اصفهان شماره خاله شیرا | [Read More](https://medium.com/p/32897c267966) |
