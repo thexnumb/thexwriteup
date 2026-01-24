@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 20:39:37 GMT | There is something cybersecurity teaches that has nothing to do with tools, passwords, or settings. | Aderinsola Amode | [Read More](https://medium.com/p/a9ea31b7b4fd) |
+| Sat, 24 Jan 2026 20:26:55 GMT | 30 Days of Red Team: Day 19 — Network Pivoting: Reaching the Unreachable | Maxwell Cross | [Read More](https://medium.com/p/bd082b3906a2) |
 | Sat, 24 Jan 2026 20:20:08 GMT | Blind Boolean-Based Prompt Injection | Daniel Hammon | [Read More](https://medium.com/p/62a3bfc38101) |
+| Sat, 24 Jan 2026 20:13:10 GMT | Secure Kubernetes Deployment Guide (Self-Managed) — Part X | SOCFortress | [Read More](https://medium.com/p/121b41fa4bfe) |
 | Sat, 24 Jan 2026 19:50:23 GMT | THM — Reversing ELF | Sagar Joshi | [Read More](https://medium.com/p/08739074a3f3) |
 | Sat, 24 Jan 2026 19:29:45 GMT | SQLMap Essentials: Your Practical Guide to Automated SQL Injection Testing | Faisal Shahzad | [Read More](https://medium.com/p/719a37e25737) |
 | Sat, 24 Jan 2026 19:29:09 GMT | Issues currently facing the Cyber Cell. | Mag Num | [Read More](https://medium.com/p/c6c8dd2026c6) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 11:59:06 GMT | Artificial Intelligence Course in Hindi | Manisha Chaudhary | [Read More](https://medium.com/p/b711c25299b0) |
 | Sat, 24 Jan 2026 11:55:36 GMT | Human Behavior Is the Real Firewall… What Cybersecurity Teaches Us About Ourselves | Yogic Intelligence | [Read More](https://medium.com/p/a6801076ed80) |
 | Sat, 24 Jan 2026 11:55:25 GMT | Simple Mistake, Big Security Nightmare: A True Story | SftSec Tim | [Read More](https://medium.com/p/43528548e7d5) |
-| Sat, 24 Jan 2026 11:47:02 GMT | I Followed the Password Reset Flow — and Ended Up Resetting Everyone’s Password | Iski | [Read More](https://medium.com/p/d81e07e6e3b7) |
-| Sat, 24 Jan 2026 11:46:01 GMT | Why Cybersecurity Is One Of The Most Important Skills Today | Ethan Parker | [Read More](https://medium.com/p/0545db30b067) |
-| Sat, 24 Jan 2026 11:43:22 GMT | The Basic Hacking Process | Jun | [Read More](https://medium.com/p/8d597afc0976) |
