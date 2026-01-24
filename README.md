@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 22:31:51 GMT | Security and Performance Aspects of NUMA Optimization | Linux Guide | [Read More](https://medium.com/p/7efd886d59cf) |
+| Sat, 24 Jan 2026 22:31:31 GMT | REPROMPT ATTACK | Anjali Gopinadhan Nair | [Read More](https://medium.com/p/9f20632d73ac) |
+| Sat, 24 Jan 2026 22:15:06 GMT | Apply filters to SQL queries | Kelechi Ezinwa Chibuzor | [Read More](https://medium.com/p/a844ef008c04) |
 | Sat, 24 Jan 2026 22:03:03 GMT | The Hidden Attack Surface in Every LLM: How Special Tokens Enable 96% Jailbreak Success Rates | Suchitra Malimbada | [Read More](https://medium.com/p/f6d7745b24ed) |
 | Sat, 24 Jan 2026 21:54:13 GMT | TryHackMe Writeup: Glitch | Berkay AĞGÜL | [Read More](https://medium.com/p/d2f9d374b140) |
 | Sat, 24 Jan 2026 21:44:59 GMT | How to Start Learning Quantum Computing (Tools, Courses, and a Practical Roadmap) | Tech Security | [Read More](https://medium.com/p/b3c35053dc12) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 13:02:15 GMT | Llama Guard: What It Actually Does (And Doesn’t Do) | Josh Gracie | [Read More](https://medium.com/p/0d27ed2185f4) |
 | Sat, 24 Jan 2026 13:01:12 GMT | Threat Landscape Analysis: The VoidLink Cloud-Native Malware Framework | Tech Security | [Read More](https://medium.com/p/ca735b3b9700) |
 | Sat, 24 Jan 2026 12:58:01 GMT | Introduction on Data Classification in the context of Information security | OMAR SHAWISH | [Read More](https://medium.com/p/380407893a83) |
-| Sat, 24 Jan 2026 12:57:06 GMT | Skip 4-year theory, start real cyber security in months Dreaming of cyber security but worried… | Muzamil | [Read More](https://medium.com/p/00209bd2473d) |
-| Sat, 24 Jan 2026 12:54:55 GMT | The Importance of Event Security for Public and Corporate Gatherings | world guardian | [Read More](https://medium.com/p/1f5f77357753) |
-| Sat, 24 Jan 2026 12:53:44 GMT | Gaining Administrative Access on an Internal Development Portal, 300$ bounty | marchenaa | [Read More](https://medium.com/p/8ae9183f4480) |
