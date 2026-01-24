@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 22:03:03 GMT | The Hidden Attack Surface in Every LLM: How Special Tokens Enable 96% Jailbreak Success Rates | Suchitra Malimbada | [Read More](https://medium.com/p/f6d7745b24ed) |
+| Sat, 24 Jan 2026 21:54:13 GMT | TryHackMe Writeup: Glitch | Berkay AĞGÜL | [Read More](https://medium.com/p/d2f9d374b140) |
+| Sat, 24 Jan 2026 21:44:59 GMT | How to Start Learning Quantum Computing (Tools, Courses, and a Practical Roadmap) | Tech Security | [Read More](https://medium.com/p/b3c35053dc12) |
+| Sat, 24 Jan 2026 21:41:59 GMT | Strengthening Our GitHub Copilot Security Library: Structure, Safety, and Scale | Jay Simmons | [Read More](https://medium.com/p/d01aadea5a81) |
+| Sat, 24 Jan 2026 21:35:13 GMT | How I Pranked HackerOne’s Triage Team — A Lighthearted Exchange with Thoughtful Takeaways | Justas_b_2 | [Read More](https://medium.com/p/9ae1a47fae63) |
+| Sat, 24 Jan 2026 21:28:43 GMT | DVIUS Goals 2026: Free Cyber Security for Small Businesses. Become a Founder. | DVIUS Admin | [Read More](https://medium.com/p/daa2ff0085cb) |
 | Sat, 24 Jan 2026 21:18:44 GMT | Kibercinayət Qanunları: | Ramila B | [Read More](https://medium.com/p/143a147640da) |
 | Sat, 24 Jan 2026 21:12:09 GMT | FFUF — TryHackMe Room Write-up By Disaster | Disaster | [Read More](https://medium.com/p/5d32e694a12c) |
 | Sat, 24 Jan 2026 21:11:41 GMT | Adversary Emulation for Detection Engineering | Taylor G | [Read More](https://medium.com/p/d816b4e0c734) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 12:57:06 GMT | Skip 4-year theory, start real cyber security in months Dreaming of cyber security but worried… | Muzamil | [Read More](https://medium.com/p/00209bd2473d) |
 | Sat, 24 Jan 2026 12:54:55 GMT | The Importance of Event Security for Public and Corporate Gatherings | world guardian | [Read More](https://medium.com/p/1f5f77357753) |
 | Sat, 24 Jan 2026 12:53:44 GMT | Gaining Administrative Access on an Internal Development Portal, 300$ bounty | marchenaa | [Read More](https://medium.com/p/8ae9183f4480) |
-| Sat, 24 Jan 2026 12:49:20 GMT | Blind Spots in Email Security Tools That Attackers Love | Paritosh | [Read More](https://medium.com/p/3a2501f4f4f9) |
-| Sat, 24 Jan 2026 12:48:28 GMT | Wordpress security setup for beginer | Techwizs | [Read More](https://medium.com/p/62b128c18e23) |
-| Sat, 24 Jan 2026 12:42:01 GMT | AI Won’t Replace Doctors — But It Will Redefine What It Means to Be One | Foreign Doctor Life | [Read More](https://medium.com/p/aaa0c5711e2b) |
-| Sat, 24 Jan 2026 12:38:49 GMT | A03:2025 — Software Supply Chain Failures (OWASP Top 10 Explained) | Kishor K. | [Read More](https://medium.com/p/8f147a15f23a) |
-| Sat, 24 Jan 2026 12:22:02 GMT | Server Actions Are Just POST Requests: The CSRF Trap We’re Ignoring in 2026 | Sameer Thite | [Read More](https://medium.com/p/b1d81d0c9019) |
-| Sat, 24 Jan 2026 12:10:06 GMT | Dependency Hell: Racing SQLite Session Store to Bankruptcy | 0xAren | [Read More](https://medium.com/p/91c9845d70b9) |
