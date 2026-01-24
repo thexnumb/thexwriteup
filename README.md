@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 17:11:38 GMT | The 10 Most Active Threat Actors of 2025: The Campaigns Defenders Kept Running Into | Richard Dosumu | [Read More](https://medium.com/p/d5802dc5792e) |
+| Sat, 24 Jan 2026 17:03:28 GMT | How I Found 3 Critical Reflected XSS Bugs Using Simple URL Encoding Tricks | Ahmad Suhendra | [Read More](https://medium.com/p/215d1c33bbea) |
+| Sat, 24 Jan 2026 17:03:00 GMT | React2Shell (CVE-2025–55182): Anatomy of a Server-Side RCE in React | Eric Blancas | [Read More](https://medium.com/p/59aee77ff12c) |
+| Sat, 24 Jan 2026 16:54:20 GMT | The Irony of Threat Intelligence: Predicting the Future Using the Past | Rishika Desai | [Read More](https://medium.com/p/2c22f1c05f43) |
+| Sat, 24 Jan 2026 16:45:14 GMT | 8Ksec FridaInTheMiddle ios app writeup | bara almustafa | [Read More](https://medium.com/p/b8886968143d) |
+| Sat, 24 Jan 2026 16:43:08 GMT | Building a Production-Ready SIEM Lab: A Comprehensive Wazuh Deployment Guide for SOC Analysts | Vatsal Sapovadiya | [Read More](https://medium.com/p/840b3927aaab) |
 | Sat, 24 Jan 2026 16:25:54 GMT | Year Round Windows Maintenance Keeps Your PC Fast, Safe | Geoffrey Wenger | [Read More](https://medium.com/p/3c0b00793bf9) |
 | Sat, 24 Jan 2026 16:25:52 GMT | Investigating a Major 72m Customer Data Breach: Under Armour Case | Mooki W | [Read More](https://medium.com/p/f2db1deb6b4d) |
 | Sat, 24 Jan 2026 16:17:05 GMT | Rebuilding Day 2 | Technodox10 | [Read More](https://medium.com/p/58126659406c) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 08:34:30 GMT | Master Cyber Security & Secure Your Future! | Molletibalu | [Read More](https://medium.com/p/3cc31b11037c) |
 | Sat, 24 Jan 2026 08:24:51 GMT | Ağınızdaki Görünmez Tehlikeleri Keşfedin: Security Onion ile Tanışın. | Cyber Web | [Read More](https://medium.com/p/8b2ec7b8d0d0) |
 | Sat, 24 Jan 2026 08:15:10 GMT | Perplexity Comet 2026 Review: Is It Safe Enough for Daily Use? Agentic Browser | FlowFi | [Read More](https://medium.com/p/7c5aed839bd3) |
-| Sat, 24 Jan 2026 08:11:06 GMT | Beyond Real-Time CTI Sharing: Where DDS-Based Cyber Defense Goes Next | Dr. Ayaz H. Khan | [Read More](https://medium.com/p/4cf98aecb431) |
-| Sat, 24 Jan 2026 07:59:30 GMT | I used to panic the moment my console turned red. | Motunrayo Adegbola | [Read More](https://medium.com/p/cfd3517f2542) |
-| Sat, 24 Jan 2026 07:56:29 GMT | GameShell2 — HackmyVM Writeup | GauthamV | [Read More](https://medium.com/p/155b5cddcae9) |
-| Sat, 24 Jan 2026 07:54:59 GMT | How Phishing Attacks Work: Studying Zphisher in Termux | Kambetastephano | [Read More](https://medium.com/p/8f0b422f0c95) |
-| Sat, 24 Jan 2026 07:54:28 GMT | Write-up: Gatekeeper lab (Medium) on THM | cLODIUS cOCK | [Read More](https://medium.com/p/6f618778e396) |
-| Sat, 24 Jan 2026 07:46:21 GMT | Davranışsal Güvenlik (Behavioral Security) | Ziya Gokalp | [Read More](https://medium.com/p/e224a0fe1b78) |
