@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 17:30:46 GMT | CVE Quality-by-Design Manifesto | @boblord | [Read More](https://medium.com/p/d3386dcff48e) |
+| Sat, 24 Jan 2026 17:24:21 GMT | Critical Cybersecurity Alert: Fortinet FortiGate Firewalls Are Being Actively Exploited-Even When… | Chetan Seripally | [Read More](https://medium.com/p/a9edc5e02b80) |
+| Sat, 24 Jan 2026 17:19:37 GMT | Cyber Defense in 2030 - What the Next Wave of Attacks Will Look Like | Shahzaib | [Read More](https://medium.com/p/866bd41794f5) |
+| Sat, 24 Jan 2026 17:13:44 GMT | How are we feeling today? | bipolar pluto | [Read More](https://medium.com/p/97ca5c1440a2) |
+| Sat, 24 Jan 2026 17:12:21 GMT | Why Strong, Caring People Struggle to Ask for Help | Amywrites | [Read More](https://medium.com/p/2f349dc83090) |
 | Sat, 24 Jan 2026 17:11:38 GMT | The 10 Most Active Threat Actors of 2025: The Campaigns Defenders Kept Running Into | Richard Dosumu | [Read More](https://medium.com/p/d5802dc5792e) |
 | Sat, 24 Jan 2026 17:03:28 GMT | How I Found 3 Critical Reflected XSS Bugs Using Simple URL Encoding Tricks | Ahmad Suhendra | [Read More](https://medium.com/p/215d1c33bbea) |
 | Sat, 24 Jan 2026 17:03:00 GMT | React2Shell (CVE-2025–55182): Anatomy of a Server-Side RCE in React | Eric Blancas | [Read More](https://medium.com/p/59aee77ff12c) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 09:29:06 GMT | Linux Fundamentals Part 3: Cybersecurity 101 Pathway — TryHackMe | Farhad Anwari | [Read More](https://medium.com/p/8e97505b08ad) |
 | Sat, 24 Jan 2026 09:03:01 GMT | How to Brief Your CEO on Credential Exposure in 5 Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/a977af30dc11) |
 | Sat, 24 Jan 2026 09:00:10 GMT | Partial masking, different logic, and bypassing protection | bhargabKaushik | [Read More](https://medium.com/p/4ce54e9d10fc) |
-| Sat, 24 Jan 2026 08:57:49 GMT | ReversibleAI: A Modern Framework for Malware Analysis & Reverse Engineering | Ismail Tasdelen | [Read More](https://medium.com/p/bc7a8fe0694e) |
-| Sat, 24 Jan 2026 08:56:51 GMT | Why Active Directory Security Fails Without Adversary Validation | ZeroScorpion | [Read More](https://medium.com/p/e09a2a6cb55a) |
-| Sat, 24 Jan 2026 08:34:30 GMT | Master Cyber Security & Secure Your Future! | Molletibalu | [Read More](https://medium.com/p/3cc31b11037c) |
-| Sat, 24 Jan 2026 08:24:51 GMT | Ağınızdaki Görünmez Tehlikeleri Keşfedin: Security Onion ile Tanışın. | Cyber Web | [Read More](https://medium.com/p/8b2ec7b8d0d0) |
-| Sat, 24 Jan 2026 08:15:10 GMT | Perplexity Comet 2026 Review: Is It Safe Enough for Daily Use? Agentic Browser | FlowFi | [Read More](https://medium.com/p/7c5aed839bd3) |
