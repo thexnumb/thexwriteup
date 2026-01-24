@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 23:07:06 GMT | Cybersecurity Writing Niches With High Buyer Intent | Ms. Byte Dev | [Read More](https://medium.com/p/be4bedc790b5) |
+| Sat, 24 Jan 2026 23:02:52 GMT | technolgie and futureof technologie | Moussachouikh | [Read More](https://medium.com/p/87b11780de36) |
+| Sat, 24 Jan 2026 22:56:55 GMT | I Cracked WCW’s 25-Year-Old Encryption in 43 Minutes. The Cipher Was Just Subtraction. | Blake Bratcher | [Read More](https://medium.com/p/81de6b159045) |
+| Sat, 24 Jan 2026 22:52:22 GMT | Automating AWS Security Alerts | Michan Kwon | [Read More](https://medium.com/p/35f0916dbe84) |
+| Sat, 24 Jan 2026 22:42:42 GMT | That’s Not Oprah. It’s AI. And ‘she’ is after your money: A 2025 Deepfake Retrospective | Mia Kotalik | [Read More](https://medium.com/p/9a9893c48117) |
+| Sat, 24 Jan 2026 22:36:13 GMT | Despite All These Technological Advancements, We’re Still Dealing With Critical Vulnerabilities | Vivek Naskar | [Read More](https://medium.com/p/917134c48f8b) |
 | Sat, 24 Jan 2026 22:31:51 GMT | Security and Performance Aspects of NUMA Optimization | Linux Guide | [Read More](https://medium.com/p/7efd886d59cf) |
 | Sat, 24 Jan 2026 22:31:31 GMT | REPROMPT ATTACK | Anjali Gopinadhan Nair | [Read More](https://medium.com/p/9f20632d73ac) |
 | Sat, 24 Jan 2026 22:15:06 GMT | Apply filters to SQL queries | Kelechi Ezinwa Chibuzor | [Read More](https://medium.com/p/a844ef008c04) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 13:41:24 GMT | Why xAI’s Grok Was Chosen by the United States Government | David SEHYEON Baek | [Read More](https://medium.com/p/3981c3b475ac) |
 | Sat, 24 Jan 2026 13:40:45 GMT | FortiGate Port Yapılandırması ve Temel Kural (Policy) Yönetimi | hakan sezer | [Read More](https://medium.com/p/bebda52c99ca) |
 | Sat, 24 Jan 2026 13:29:14 GMT | How Cloudflare’s ACME Bug Let Attackers Bypass WAFs (Full Report) | Saad Khalid | [Read More](https://medium.com/p/117be607d513) |
-| Sat, 24 Jan 2026 13:11:32 GMT | Still Using FTP? How Cloud-Native File Transfers Solve Legacy Risks | Ali | [Read More](https://medium.com/p/07d03f873a9a) |
-| Sat, 24 Jan 2026 13:04:17 GMT | TryHackMe: Alfred | Root_Fabric | [Read More](https://medium.com/p/bff03bc502b7) |
-| Sat, 24 Jan 2026 13:02:48 GMT | I Finished the RedTeamLeaders AV/EDR Evasion Course — Honest Review | 0xCyberNoob | [Read More](https://medium.com/p/4204f666c208) |
-| Sat, 24 Jan 2026 13:02:15 GMT | Llama Guard: What It Actually Does (And Doesn’t Do) | Josh Gracie | [Read More](https://medium.com/p/0d27ed2185f4) |
-| Sat, 24 Jan 2026 13:01:12 GMT | Threat Landscape Analysis: The VoidLink Cloud-Native Malware Framework | Tech Security | [Read More](https://medium.com/p/ca735b3b9700) |
-| Sat, 24 Jan 2026 12:58:01 GMT | Introduction on Data Classification in the context of Information security | OMAR SHAWISH | [Read More](https://medium.com/p/380407893a83) |
