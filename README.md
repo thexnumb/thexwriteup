@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 21:18:44 GMT | Kibercinayət Qanunları: | Ramila B | [Read More](https://medium.com/p/143a147640da) |
 | Sat, 24 Jan 2026 21:12:09 GMT | FFUF — TryHackMe Room Write-up By Disaster | Disaster | [Read More](https://medium.com/p/5d32e694a12c) |
+| Sat, 24 Jan 2026 21:11:41 GMT | Adversary Emulation for Detection Engineering | Taylor G | [Read More](https://medium.com/p/d816b4e0c734) |
+| Sat, 24 Jan 2026 21:11:32 GMT | ️‍♂️ OWASP Top 10 for AI Security & Governance (2026) | ForceAI Security | [Read More](https://medium.com/p/a32de773e28b) |
 | Sat, 24 Jan 2026 20:42:52 GMT | Anatomy of AWS WAF: What Actually Protects Your Applications | Shivanshu Sharma | [Read More](https://medium.com/p/9e8a21d2592d) |
 | Sat, 24 Jan 2026 20:39:37 GMT | There is something cybersecurity teaches that has nothing to do with tools, passwords, or settings. | Aderinsola Amode | [Read More](https://medium.com/p/a9ea31b7b4fd) |
 | Sat, 24 Jan 2026 20:26:55 GMT | 30 Days of Red Team: Day 19 — Network Pivoting: Reaching the Unreachable | Maxwell Cross | [Read More](https://medium.com/p/bd082b3906a2) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 12:38:49 GMT | A03:2025 — Software Supply Chain Failures (OWASP Top 10 Explained) | Kishor K. | [Read More](https://medium.com/p/8f147a15f23a) |
 | Sat, 24 Jan 2026 12:22:02 GMT | Server Actions Are Just POST Requests: The CSRF Trap We’re Ignoring in 2026 | Sameer Thite | [Read More](https://medium.com/p/b1d81d0c9019) |
 | Sat, 24 Jan 2026 12:10:06 GMT | Dependency Hell: Racing SQLite Session Store to Bankruptcy | 0xAren | [Read More](https://medium.com/p/91c9845d70b9) |
-| Sat, 24 Jan 2026 12:02:07 GMT | Detection Engineering Is Production Engineering — Why CI/CD Is No Longer Optional | Surya Teja | [Read More](https://medium.com/p/5318cb527a33) |
-| Sat, 24 Jan 2026 12:00:28 GMT | Cybersecurity in a Nutshell | Igino Corona, Eng PhD | [Read More](https://medium.com/p/6d95794e5807) |
-| Sat, 24 Jan 2026 11:59:06 GMT | Artificial Intelligence Course in Hindi | Manisha Chaudhary | [Read More](https://medium.com/p/b711c25299b0) |
