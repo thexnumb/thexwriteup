@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 24 Jan 2026 09:32:04 GMT | Your $5 Million Email Security Stack Just Got Owned by a Text Message | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/19325e30fb99) |
+| Sat, 24 Jan 2026 09:29:06 GMT | Linux Fundamentals Part 3: Cybersecurity 101 Pathway — TryHackMe | Farhad Anwari | [Read More](https://medium.com/p/8e97505b08ad) |
 | Sat, 24 Jan 2026 09:03:01 GMT | How to Brief Your CEO on Credential Exposure in 5 Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/a977af30dc11) |
 | Sat, 24 Jan 2026 09:00:10 GMT | Partial masking, different logic, and bypassing protection | bhargabKaushik | [Read More](https://medium.com/p/4ce54e9d10fc) |
 | Sat, 24 Jan 2026 08:57:49 GMT | ReversibleAI: A Modern Framework for Malware Analysis & Reverse Engineering | Ismail Tasdelen | [Read More](https://medium.com/p/bc7a8fe0694e) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 23 Jan 2026 22:02:45 GMT | “PicoCTF: Scavenger Hunt — Mastering Web Information Disclosure” | Mahmoud Samy | [Read More](https://medium.com/p/18754d747026) |
 | Fri, 23 Jan 2026 22:01:53 GMT | LastPass Issues Critical Warning For Users  Password Attacks Underway | Moni | [Read More](https://medium.com/p/9043b47b9849) |
 | Fri, 23 Jan 2026 21:49:25 GMT | Prompt Injection Attacks Explained (With Cloud Examples). | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/b54ac4405bbe) |
-| Fri, 23 Jan 2026 21:48:21 GMT | Developing a SOC Triage Engine.. but make it agentic. | Gabriel Binion | [Read More](https://medium.com/p/b670ba74bf59) |
-| Fri, 23 Jan 2026 21:31:50 GMT | What I Learned Running Honeypots for 28 Days: Nearly 2 Million Attacks Analyzed | Thijs | [Read More](https://medium.com/p/b9bee7530132) |
