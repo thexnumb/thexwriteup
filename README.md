@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 17:13:20 GMT | My First CVE: CVE-2026–21641 | 0xJad | [Read More](https://medium.com/p/84d0cad583c3) |
+| Sun, 25 Jan 2026 17:05:46 GMT | Embracing “Secure by Design -SbD”: The Technical Imperative | Chitra VS Nair | [Read More](https://medium.com/p/f4196c8aeaa0) |
+| Sun, 25 Jan 2026 17:05:18 GMT | To all CTOs: stop treating test data like an artifact. Treat it like a service. | RealTestData | [Read More](https://medium.com/p/958657401d92) |
+| Sun, 25 Jan 2026 17:03:34 GMT | The Coin of Technology: A Human-Centered Framework for Industry and Value | Sreeni Idumakanti (www.abcdquantum.com) | [Read More](https://medium.com/p/f1bb6b51d0ac) |
 | Sun, 25 Jan 2026 16:44:05 GMT | How To Bypass OTP (One Time Password) | FeritÖzner | [Read More](https://medium.com/p/ed74b4e6b0f0) |
 | Sun, 25 Jan 2026 16:43:38 GMT | How To Bypass Captcha | FeritÖzner | [Read More](https://medium.com/p/88277810313e) |
 | Sun, 25 Jan 2026 16:40:49 GMT | Why I choose Medium.com | Abdul Writes | [Read More](https://medium.com/p/561b98876716) |
@@ -20,6 +24,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 16:22:15 GMT | How to Recover Lost Cryptocurrency? | Mathewmatt | [Read More](https://medium.com/p/6705b42eb3c2) |
 | Sun, 25 Jan 2026 16:16:42 GMT | Echelon Philadelphia Security Guards: A Pillar of Safety in the Security Industry | Jennezsey Burton | [Read More](https://medium.com/p/9fd646dcc149) |
 | Sun, 25 Jan 2026 16:15:11 GMT | 3 Emerging AI Tools Businesses Are Experimenting With And the Data Privacy Risks You Should… | BiyteLüm | [Read More](https://medium.com/p/0774d6a3e3d5) |
+| Sun, 25 Jan 2026 16:06:25 GMT | Total AV in 2026: The SHOCKING Truth (Full Review) | Alisa | [Read More](https://medium.com/p/aa250206701a) |
 | Sun, 25 Jan 2026 16:04:49 GMT | Step-by-Step Guide: Installing Kali Linux on VirtualBox | Winson Sovian | [Read More](https://medium.com/p/a2a297a5dab4) |
 | Sun, 25 Jan 2026 16:04:31 GMT | Cybersecurity Policies That Look Strong but Fail in Court | Kshitiz Sharma | [Read More](https://medium.com/p/c0b56ec14d80) |
 | Sun, 25 Jan 2026 15:57:03 GMT | iPhone Safety Settings You Must Turn on Before Calling 911 | Tsumit | [Read More](https://medium.com/p/6862cb14809a) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 10:10:16 GMT | Calling cybersecurity a ‘tech job’ is incomplete. | DefenditChhavi | [Read More](https://medium.com/p/f14af489e88c) |
 | Sun, 25 Jan 2026 10:04:41 GMT | How to Self-Host Your Own VPN for Free (or $2–$6/Month) | Varadaraj Acharya | [Read More](https://medium.com/p/49fac96688af) |
 | Sun, 25 Jan 2026 10:00:45 GMT | Every Interview Asks SSL, TLS, HTTPS — 90% Developers Still Explain It Wrong | Shanu Reddy | [Read More](https://medium.com/p/e683d46111c1) |
-| Sun, 25 Jan 2026 09:59:26 GMT | Deploying Security Copilot across BUs, Regions & Compliance Zones! | Yash Mudaliar | [Read More](https://medium.com/p/5d0f6e8a8d11) |
-| Sun, 25 Jan 2026 09:46:49 GMT | Not Your Keys, Not Your Coins: A Deep Dive into Crypto Custody | BountyPortals Official Blog | [Read More](https://medium.com/p/485e494e5eef) |
-| Sun, 25 Jan 2026 09:43:49 GMT | “It’s Too Late”… Until One Kid Looks Up | Anitaraju | [Read More](https://medium.com/p/669ae4da08dc) |
-| Sun, 25 Jan 2026 09:41:04 GMT | The Breach Nobody Saw Coming, Because Nobody Was Looking | Janith Malinga | [Read More](https://medium.com/p/68600d51407a) |
-| Sun, 25 Jan 2026 09:38:50 GMT | What To Do If Exchange EDB File Is Too Big? | EINITIAL24 | [Read More](https://medium.com/p/5b485adfa6c4) |
