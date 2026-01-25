@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 07:22:01 GMT | A Hack as a Success Metric: Why the SAVVA Project Is Celebrating a $29 Loss | Elena Gerasenkova | [Read More](https://medium.com/p/67419207110e) |
 | Sun, 25 Jan 2026 07:04:33 GMT | Cyber Hygiene in 2026: A Practical Security Checklist for Everyday Users | Wnellygrace | [Read More](https://medium.com/p/19ed00f55cd3) |
 | Sun, 25 Jan 2026 07:02:30 GMT | What Exactly is DNS Tunneling? | Abhay Parashar | [Read More](https://medium.com/p/c1b867e0884b) |
 | Sun, 25 Jan 2026 06:59:48 GMT | When Festive Emails Turn Risky: Inside the Christmas Phishing Surge Using DocuSign Spoofing | Deven Chhajed | [Read More](https://medium.com/p/b842afe56db9) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 17:42:49 GMT | Snort: A Step-by-Step Guide to Writing and Testing Simple Rules | Jasstej Singh | [Read More](https://medium.com/p/17b6c6a03c25) |
 | Sat, 24 Jan 2026 17:42:00 GMT | TryHackMe Cyber Kill Chain Walkthrough | Kamal Kishor Mahto | [Read More](https://medium.com/p/e345036f6dae) |
 | Sat, 24 Jan 2026 17:40:40 GMT | Beyond the 7 Laws of Information | Chris Twellmann | [Read More](https://medium.com/p/b20f78b3afb7) |
-| Sat, 24 Jan 2026 17:33:50 GMT | HTTP Fundamentals & Why Most Web Attacks Still Work | Adefokun Israel | [Read More](https://medium.com/p/bd346f7e6833) |
