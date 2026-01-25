@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 09:41:04 GMT | The Breach Nobody Saw Coming, Because Nobody Was Looking | Janith Malinga | [Read More](https://medium.com/p/68600d51407a) |
+| Sun, 25 Jan 2026 09:38:50 GMT | What To Do If Exchange EDB File Is Too Big? | EINITIAL24 | [Read More](https://medium.com/p/5b485adfa6c4) |
+| Sun, 25 Jan 2026 09:38:20 GMT | Active Directory Pentesting 101 — Pt.2 | serkanbenol | [Read More](https://medium.com/p/99348408a3d3) |
+| Sun, 25 Jan 2026 09:28:43 GMT | Redesign Work for the AI Era: The New Strategic Imperative for HR and Technology Leaders | Bibhu Ashish Panda | [Read More](https://medium.com/p/54866158565e) |
+| Sun, 25 Jan 2026 09:27:12 GMT | Inside “BANKOMAT”: A Case Study of an UndergroundIdentity Market-Threat Summary & Public Warning. | Macs-Hit | [Read More](https://medium.com/p/2bff9752b781) |
+| Sun, 25 Jan 2026 09:22:50 GMT | The Phishing Series: Detecting Phishing Emails in a Controlled Lab | Norman Kolarikkal | [Read More](https://medium.com/p/32ad429dea8d) |
+| Sun, 25 Jan 2026 09:21:38 GMT | Waze Is Watching You | Patrik Žák | [Read More](https://medium.com/p/bd2f74488538) |
+| Sun, 25 Jan 2026 09:19:58 GMT | What I Learned from the “Introduction to Metasploit” Room (TryHackMe) | Tejas Bhujbal | [Read More](https://medium.com/p/039f3380c972) |
 | Sun, 25 Jan 2026 09:07:47 GMT | Moniker Link (CVE-2024–21413) | Tejas Bhujbal | [Read More](https://medium.com/p/521ce99a6636) |
 | Sun, 25 Jan 2026 09:05:09 GMT | You Are Loved. You Belong. | VagamoodSundaze | [Read More](https://medium.com/p/1d9952856903) |
 | Sun, 25 Jan 2026 09:04:21 GMT | I Tried Every “Make Money Online” Idea I Could Find — Here’s the Truth | Vijay Kumar Gupta | [Read More](https://medium.com/p/461f6fc089aa) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 21:41:59 GMT | Strengthening Our GitHub Copilot Security Library: Structure, Safety, and Scale | Jay Simmons | [Read More](https://medium.com/p/d01aadea5a81) |
 | Sat, 24 Jan 2026 21:35:13 GMT | How I Pranked HackerOne’s Triage Team — A Lighthearted Exchange with Thoughtful Takeaways | Justas_b_2 | [Read More](https://medium.com/p/9ae1a47fae63) |
 | Sat, 24 Jan 2026 21:28:43 GMT | DVIUS Goals 2026: Free Cyber Security for Small Businesses. Become a Founder. | DVIUS Admin | [Read More](https://medium.com/p/daa2ff0085cb) |
-| Sat, 24 Jan 2026 21:18:44 GMT | Kibercinayət Qanunları: | Ramila B | [Read More](https://medium.com/p/143a147640da) |
-| Sat, 24 Jan 2026 21:12:09 GMT | FFUF — TryHackMe Room Write-up By Disaster | Disaster | [Read More](https://medium.com/p/5d32e694a12c) |
-| Sat, 24 Jan 2026 21:11:41 GMT | Adversary Emulation for Detection Engineering | Taylor G | [Read More](https://medium.com/p/d816b4e0c734) |
-| Sat, 24 Jan 2026 21:11:32 GMT | ️‍♂️ OWASP Top 10 for AI Security & Governance (2026) | ForceAI Security | [Read More](https://medium.com/p/a32de773e28b) |
-| Sat, 24 Jan 2026 20:42:52 GMT | Anatomy of AWS WAF: What Actually Protects Your Applications | Shivanshu Sharma | [Read More](https://medium.com/p/9e8a21d2592d) |
-| Sat, 24 Jan 2026 20:39:37 GMT | There is something cybersecurity teaches that has nothing to do with tools, passwords, or settings. | Aderinsola Amode | [Read More](https://medium.com/p/a9ea31b7b4fd) |
-| Sat, 24 Jan 2026 20:26:55 GMT | 30 Days of Red Team: Day 19 — Network Pivoting: Reaching the Unreachable | Maxwell Cross | [Read More](https://medium.com/p/bd082b3906a2) |
-| Sat, 24 Jan 2026 20:20:08 GMT | Blind Boolean-Based Prompt Injection | Daniel Hammon | [Read More](https://medium.com/p/62a3bfc38101) |
