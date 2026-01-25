@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 20:21:17 GMT | The Supreme Court Case That Proves Freight Brokers Need Better Verification Tools | Heesham Naji | [Read More](https://medium.com/p/ad86376c0955) |
+| Sun, 25 Jan 2026 20:04:40 GMT | Beyond the Clinic: Protecting Post-Mortem Data with Neural Odontology & Bio-Encryption | E-Forensics | [Read More](https://medium.com/p/954a849f20ab) |
+| Sun, 25 Jan 2026 20:03:25 GMT | The Quiet Conversation That Powers the Internet | Amandogra | [Read More](https://medium.com/p/d0ab0801733f) |
+| Sun, 25 Jan 2026 19:59:41 GMT | Getting Started with SonarQube and SonarScanner: A Step-by-Step Setup Guide | Krishna Patel | [Read More](https://medium.com/p/964450a7f6b4) |
+| Sun, 25 Jan 2026 19:50:26 GMT | Splunk Serisi #2: Dashboards and Reports(TryHackMe Çözümü) | Ahmet Hakan Öztürk | [Read More](https://medium.com/p/de27e15ad06a) |
+| Sun, 25 Jan 2026 19:47:16 GMT | Building an Explainable OSINT Pipeline for Geospatial Attribution of Malicious Infrastructure | Ronak Sharma | [Read More](https://medium.com/p/6f1405dc7334) |
+| Sun, 25 Jan 2026 19:39:41 GMT | Tryhackme Crack The Hash CTF Write-Up | Kandemirryigit | [Read More](https://medium.com/p/c7471c22b505) |
+| Sun, 25 Jan 2026 19:38:53 GMT | International Relations Series #3 When Geopolitics Is Reduced to a Deal | bobosjourney1 | [Read More](https://medium.com/p/28a550e60895) |
 | Sun, 25 Jan 2026 19:37:03 GMT | Cyber Campaigns: Fix this, Fix that — Part 1 | Shivam Bathla | [Read More](https://medium.com/p/a6f6111fb1f0) |
 | Sun, 25 Jan 2026 19:28:01 GMT | Least-Privilege Is a Feedback Loop — Not a Policy | Jonas Wolffsen | [Read More](https://medium.com/p/6c8fb17327de) |
 | Sun, 25 Jan 2026 19:22:27 GMT | Cracking “Cipher’s Secret Message” on TryHackMe: A Python Walkthrough | Hemantha Krishna Challa | [Read More](https://medium.com/p/52830a1e036c) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 13:57:31 GMT | Deception as the Unifying Theory of Cyber Warfare | David SEHYEON Baek | [Read More](https://medium.com/p/52a374489d4e) |
 | Sun, 25 Jan 2026 13:57:26 GMT | pdf.exe - 0xL4ugh v5 CTF | 00xCanelo | [Read More](https://medium.com/p/643455d4e05f) |
 | Sun, 25 Jan 2026 13:55:59 GMT | APT — the most dangerous hackers and the IT world’s worst nightmare | 0trust0day | [Read More](https://medium.com/p/df036244118e) |
-| Sun, 25 Jan 2026 13:51:57 GMT | Sigstore Made Easy: How I Prove PC_Workman Is Actually From Me | Marcin Firmuga | [Read More](https://medium.com/p/1e110ba856e6) |
-| Sun, 25 Jan 2026 13:49:12 GMT | Winning 0xL4ugh CTF with Lil l3ak | 0x11a | [Read More](https://medium.com/p/3e5b6d8cf337) |
-| Sun, 25 Jan 2026 13:44:11 GMT | Every iPhone 17E Rumor and Leak That I Found: Dynamic Island, MagSafe and More | Rana Grip | [Read More](https://medium.com/p/119d593745b6) |
-| Sun, 25 Jan 2026 13:40:47 GMT | Membangun Home Lab Penetration Testing: Panduan Instalasi Kali Linux di Oracle Virtual Box | Ibnu Dwiki Hermawan | [Read More](https://medium.com/p/60a88bc9860c) |
-| Sun, 25 Jan 2026 13:32:27 GMT | Zero Trust Architecture: More Than Just a Buzzword. | Mubashir | [Read More](https://medium.com/p/9a0234b414d1) |
-| Sun, 25 Jan 2026 13:18:23 GMT | How To Spot Real vs. Fake Crypto Trading Platforms | Isabel Pérez | [Read More](https://medium.com/p/c6a900052ce9) |
-| Sun, 25 Jan 2026 13:12:54 GMT | Understanding FIDO2, WebAuthn, and Passkeys | Alf Løkken | [Read More](https://medium.com/p/9c272d31f144) |
-| Sun, 25 Jan 2026 13:11:25 GMT | Breaches Are Inevitable. Lateral Movement Is Optional. | Ayush Arora | [Read More](https://medium.com/p/f6f447406c42) |
