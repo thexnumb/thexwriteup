@@ -12,11 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 22:13:49 GMT | Diva — Insecure Data Storage — Part 4 | c0pt4n | [Read More](https://medium.com/p/2b04d801b402) |
+| Sun, 25 Jan 2026 22:12:33 GMT | AWS Access Key, 이제는 버릴 때가 됐습니다 — Role 기반 인증으로 전환한 이야기 | 이진만 (Jamie) | [Read More](https://medium.com/p/4960cf8ad93b) |
+| Sun, 25 Jan 2026 22:09:56 GMT | You Are Not Being Watched, You Are Being Remembered | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/5dca6550de42) |
+| Sun, 25 Jan 2026 22:05:11 GMT | RPC Proxy Injection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/1a4b08f59823) |
+| Sun, 25 Jan 2026 21:55:48 GMT | Cybersecurity Policies in Bangladesh: Why They Look Strong on Paper but Fail in Court | Pal Rahman | [Read More](https://medium.com/p/0fbc15496584) |
+| Sun, 25 Jan 2026 21:55:16 GMT | Setting Up Windows Server 2022 with Active Directory: A Step-by-Step Guide | Dae'mon A. | [Read More](https://medium.com/p/571b47b714f9) |
+| Sun, 25 Jan 2026 21:48:39 GMT | OPSWAT MetaDefender Kiosk Tower | Asterisk | [Read More](https://medium.com/p/d453dc3631bf) |
+| Sun, 25 Jan 2026 21:39:46 GMT | Malware Analysis — Emoji Script | Tsalmeid | [Read More](https://medium.com/p/404d4269db37) |
 | Sun, 25 Jan 2026 21:31:24 GMT | Don’t Sell Your Computer Together With Your Past | root0emir | [Read More](https://medium.com/p/8942b4a804ff) |
 | Sun, 25 Jan 2026 21:30:47 GMT | Triathlon — Hack Smarter Walkthrough - TheHiker | TheHiker | [Read More](https://medium.com/p/605a058c52c5) |
 | Sun, 25 Jan 2026 21:09:14 GMT | Visual Studio Code (VS Code) — Secure Installation & CIS Hardening Guide — Part I | SOCFortress | [Read More](https://medium.com/p/9843e1571ffb) |
 | Sun, 25 Jan 2026 21:03:14 GMT | 0xL4ugh v5 CTF DFIR Official Writeup | Immortal_ibr | [Read More](https://medium.com/p/84af84d2d65c) |
 | Sun, 25 Jan 2026 20:47:41 GMT | keywords listing | seal(theo)ry | [Read More](https://medium.com/p/7b8c9690108b) |
+| Sun, 25 Jan 2026 20:30:44 GMT | Tu veux savoir ce qui sépare un pentester d’un cybercriminel ? | Noctu@edu | [Read More](https://medium.com/p/c30d782d96a5) |
 | Sun, 25 Jan 2026 20:23:34 GMT | Stop Saying “I Want to Learn” in Your IT Interview | Gavel | [Read More](https://medium.com/p/0cec7f16d575) |
 | Sun, 25 Jan 2026 20:21:17 GMT | The Supreme Court Case That Proves Freight Brokers Need Better Verification Tools | Heesham Naji | [Read More](https://medium.com/p/ad86376c0955) |
 | Sun, 25 Jan 2026 20:04:40 GMT | Beyond the Clinic: Protecting Post-Mortem Data with Neural Odontology & Bio-Encryption | E-Forensics | [Read More](https://medium.com/p/954a849f20ab) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 14:38:07 GMT | DUSK em Alta: A Criptomoeda que Brilha no Escuro! | Liberty Epoch | [Read More](https://medium.com/p/3b1f3940c345) |
 | Sun, 25 Jan 2026 14:32:01 GMT | GOLDEN EYE- TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/7db091a8f256) |
 | Sun, 25 Jan 2026 14:32:01 GMT | I Tried RedTeamLeaders’ CCEP (Certified Cybersecurity Educator Professional) — Worth It? | 0xCyberNoob | [Read More](https://medium.com/p/4d9867962b07) |
-| Sun, 25 Jan 2026 14:31:47 GMT | Підвищення привілеїв (Privilege Escalation) | Fl4g Hunt3r Project | [Read More](https://medium.com/p/6c0c4d72e4e8) |
-| Sun, 25 Jan 2026 14:27:11 GMT | Eliminating SSH in AWS: Why Identity-Based Access Beats Network Trust | Surya Naga Sesank Munukutla | [Read More](https://medium.com/p/375c13d8f4f8) |
-| Sun, 25 Jan 2026 14:24:48 GMT | easy $100 - bypass 403 to 200 ok | Swarnim Bandekar | [Read More](https://medium.com/p/b6bc126e2f4b) |
-| Sun, 25 Jan 2026 14:24:44 GMT | This Login Page Trusted My OTP Way Too Much | nwhitedemon | [Read More](https://medium.com/p/5b90de1e36d8) |
-| Sun, 25 Jan 2026 14:15:47 GMT | Threat Hunting with MITRE ATT&CK. A Practical Guide for SOC Analysts | Misbah waraich | [Read More](https://medium.com/p/61abe5cb02c1) |
-| Sun, 25 Jan 2026 14:14:35 GMT | Resurrecting the Dead: Exploiting Active Directory’s Recycle Bin ♻️✝️ | Nicholas Mullenski | [Read More](https://medium.com/p/5558982fc5fa) |
-| Sun, 25 Jan 2026 14:13:11 GMT | ⚔️ BEYOND THE PERIMETER: Cracking Sysco with Kerberos Exploitation & GPO Task Injection ️ | Nicholas Mullenski | [Read More](https://medium.com/p/4530db99feea) |
-| Sun, 25 Jan 2026 14:12:42 GMT | How a Simple PDF Export Feature Led to a Critical Local File Inclusion | Abhiram | [Read More](https://medium.com/p/e11d5979d46b) |
-| Sun, 25 Jan 2026 14:12:12 GMT | How I Earned $0 for a Google Cloud Takeover via a Leaked Service Account Private Key | ARoy | [Read More](https://medium.com/p/6f39218ef5ef) |
