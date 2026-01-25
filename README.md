@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 15:11:05 GMT | Stop Mac Slowdowns With Smarter Storage Control | Geoffrey Wenger | [Read More](https://medium.com/p/e536c97c2175) |
+| Sun, 25 Jan 2026 15:09:56 GMT | Protecting floralhorizon.sg (and other hobby projects) | Kahhow | [Read More](https://medium.com/p/119076886a27) |
+| Sun, 25 Jan 2026 15:02:05 GMT | Node.js API Security That Survives the Real World | Bhagya Rana | [Read More](https://medium.com/p/54b191edfd57) |
+| Sun, 25 Jan 2026 14:58:08 GMT | Взаємодія з Windows | Fl4g Hunt3r Project | [Read More](https://medium.com/p/f3a1254ffbc2) |
+| Sun, 25 Jan 2026 14:58:07 GMT | IdentityServer, JWT ve Mikroservis Mimarisi: .NET ile Güvenli ve Ölçeklenebilir Backend Tasarımı | MELEK DEMİR | [Read More](https://medium.com/p/81f1aab99a81) |
+| Sun, 25 Jan 2026 14:55:21 GMT | Linux Server Forensics by Intelithics{THM} | Intelithics | [Read More](https://medium.com/p/410253748387) |
+| Sun, 25 Jan 2026 14:50:57 GMT | RHEL 10: A Betrayal of Sovereignty | Malik Vero | [Read More](https://medium.com/p/bd6370f735e4) |
+| Sun, 25 Jan 2026 14:48:32 GMT | Splunk SPL’e Giriş: TryHackMe-Exploring SPL Odası Detaylı Anlatı | Ahmet Hakan Öztürk | [Read More](https://medium.com/p/212b95b378c5) |
+| Sun, 25 Jan 2026 14:45:54 GMT | App technology? | Karl Tame | [Read More](https://medium.com/p/9a2b1ca35747) |
+| Sun, 25 Jan 2026 14:45:38 GMT | UTC vs Timezone bugs that keep happening | Filip Sawinski | [Read More](https://medium.com/p/6f98adfe4977) |
+| Sun, 25 Jan 2026 14:38:07 GMT | DUSK em Alta: A Criptomoeda que Brilha no Escuro! | Liberty Epoch | [Read More](https://medium.com/p/3b1f3940c345) |
+| Sun, 25 Jan 2026 14:32:01 GMT | GOLDEN EYE- TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/7db091a8f256) |
+| Sun, 25 Jan 2026 14:32:01 GMT | I Tried RedTeamLeaders’ CCEP (Certified Cybersecurity Educator Professional) — Worth It? | 0xCyberNoob | [Read More](https://medium.com/p/4d9867962b07) |
 | Sun, 25 Jan 2026 14:31:47 GMT | Підвищення привілеїв (Privilege Escalation) | Fl4g Hunt3r Project | [Read More](https://medium.com/p/6c0c4d72e4e8) |
 | Sun, 25 Jan 2026 14:27:11 GMT | Eliminating SSH in AWS: Why Identity-Based Access Beats Network Trust | Surya Naga Sesank Munukutla | [Read More](https://medium.com/p/375c13d8f4f8) |
 | Sun, 25 Jan 2026 14:24:48 GMT | easy $100 - bypass 403 to 200 ok | Swarnim Bandekar | [Read More](https://medium.com/p/b6bc126e2f4b) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 07:53:01 GMT | Windows Operating Systems for Enterprises: Everything IT Teams Need to Know | Angie Winter | [Read More](https://medium.com/p/05e156151146) |
 | Sun, 25 Jan 2026 07:50:15 GMT | CISA Adds VMware vCenter CVE-2024–37079 to the KEV Catalog: Why This One Deserves a “Patch-Now”… | Germano Costi | [Read More](https://medium.com/p/ee9848d37f03) |
 | Sun, 25 Jan 2026 07:49:42 GMT | I guess I love you a bit too much – | Dinda | [Read More](https://medium.com/p/35d831084ed3) |
-| Sun, 25 Jan 2026 07:42:00 GMT | The Hidden Danger in a One-Line Regex (ReDoS Explained) | Parvez Ahammed | [Read More](https://medium.com/p/6251099f0aa1) |
-| Sun, 25 Jan 2026 07:34:12 GMT | Watching the gig economy of deceit: Has disinformation become mere content on social media? | Gross Eduard | [Read More](https://medium.com/p/a4c9c8e8d887) |
-| Sun, 25 Jan 2026 07:31:32 GMT | Node: 1 — OSCP Raw - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/669d5d11c089) |
-| Sun, 25 Jan 2026 07:28:09 GMT | Microsoft Windows OS Roadmap: Key Updates & Business Preparation Guide | Saul Pearson | [Read More](https://medium.com/p/82fe93fbe51e) |
-| Sun, 25 Jan 2026 07:22:01 GMT | A Hack as a Success Metric: Why the SAVVA Project Is Celebrating a $29 Loss | Elena Gerasenkova | [Read More](https://medium.com/p/67419207110e) |
-| Sun, 25 Jan 2026 07:04:33 GMT | Cyber Hygiene in 2026: A Practical Security Checklist for Everyday Users | Wnellygrace | [Read More](https://medium.com/p/19ed00f55cd3) |
-| Sun, 25 Jan 2026 07:02:30 GMT | What Exactly is DNS Tunneling? | Abhay Parashar | [Read More](https://medium.com/p/c1b867e0884b) |
-| Sun, 25 Jan 2026 06:59:48 GMT | When Festive Emails Turn Risky: Inside the Christmas Phishing Surge Using DocuSign Spoofing | Deven Chhajed | [Read More](https://medium.com/p/b842afe56db9) |
-| Sun, 25 Jan 2026 06:43:31 GMT | Spyware Abused, No Lesson Learned | Wissamdouglas | [Read More](https://medium.com/p/327b8c3262a8) |
-| Sun, 25 Jan 2026 06:34:14 GMT | Building Two-Factor Authentication (2FA) Using Authenticator Apps in Node.js and React | Ankit Jangra | [Read More](https://medium.com/p/773e72e759ce) |
-| Sun, 25 Jan 2026 06:21:33 GMT | Deserialization and magic methods | Gaby zaafrani | [Read More](https://medium.com/p/c636d7088acd) |
-| Sun, 25 Jan 2026 06:13:38 GMT | An Introduction to the MITRE ATT&CK Framework | Ankita Sinha | [Read More](https://medium.com/p/beafab69f7c3) |
-| Sun, 25 Jan 2026 06:03:19 GMT | “The Wi-Fi You Trusted Was a Trap” | ghostyjoe | [Read More](https://medium.com/p/6a759be7fda7) |
