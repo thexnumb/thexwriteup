@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 21:31:24 GMT | Don’t Sell Your Computer Together With Your Past | root0emir | [Read More](https://medium.com/p/8942b4a804ff) |
+| Sun, 25 Jan 2026 21:30:47 GMT | Triathlon — Hack Smarter Walkthrough - TheHiker | TheHiker | [Read More](https://medium.com/p/605a058c52c5) |
 | Sun, 25 Jan 2026 21:09:14 GMT | Visual Studio Code (VS Code) — Secure Installation & CIS Hardening Guide — Part I | SOCFortress | [Read More](https://medium.com/p/9843e1571ffb) |
 | Sun, 25 Jan 2026 21:03:14 GMT | 0xL4ugh v5 CTF DFIR Official Writeup | Immortal_ibr | [Read More](https://medium.com/p/84af84d2d65c) |
 | Sun, 25 Jan 2026 20:47:41 GMT | keywords listing | seal(theo)ry | [Read More](https://medium.com/p/7b8c9690108b) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 14:13:11 GMT | ⚔️ BEYOND THE PERIMETER: Cracking Sysco with Kerberos Exploitation & GPO Task Injection ️ | Nicholas Mullenski | [Read More](https://medium.com/p/4530db99feea) |
 | Sun, 25 Jan 2026 14:12:42 GMT | How a Simple PDF Export Feature Led to a Critical Local File Inclusion | Abhiram | [Read More](https://medium.com/p/e11d5979d46b) |
 | Sun, 25 Jan 2026 14:12:12 GMT | How I Earned $0 for a Google Cloud Takeover via a Leaked Service Account Private Key | ARoy | [Read More](https://medium.com/p/6f39218ef5ef) |
-| Sun, 25 Jan 2026 14:11:02 GMT | XSS Diaries (Part 1): How I Found an Easy XSS in an AI Chatbot | Sudeepa Shiranthaka | [Read More](https://medium.com/p/4f5f916525e5) |
-| Sun, 25 Jan 2026 14:05:06 GMT | State of Cybersecurity in India: A Fight Against Modern Threats | Arunkumar Sathishkumar | [Read More](https://medium.com/p/4e61c73988e2) |
