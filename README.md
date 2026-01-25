@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 06:21:33 GMT | Deserialization and magic methods | Gaby zaafrani | [Read More](https://medium.com/p/c636d7088acd) |
+| Sun, 25 Jan 2026 06:13:38 GMT | An Introduction to the MITRE ATT&CK Framework | Ankita Sinha | [Read More](https://medium.com/p/beafab69f7c3) |
+| Sun, 25 Jan 2026 06:03:19 GMT | “The Wi-Fi You Trusted Was a Trap” | ghostyjoe | [Read More](https://medium.com/p/6a759be7fda7) |
+| Sun, 25 Jan 2026 05:54:37 GMT | When the Pi Started Talking Back | the CyberStoic | [Read More](https://medium.com/p/1651e61c77f3) |
+| Sun, 25 Jan 2026 05:53:55 GMT | From Securing Systems to Securing Strategy: My Move into GRC | Melissa Ann Tanksley | [Read More](https://medium.com/p/3fd064a67f75) |
 | Sun, 25 Jan 2026 05:38:37 GMT | Introduction | Cyberhawk Consultancy | [Read More](https://medium.com/p/6563880c2120) |
 | Sun, 25 Jan 2026 05:24:35 GMT | Cyber Sherlock Weekly Briefing: Becoming the Ultimate Guardian of the Digital Realm 25 January 2026 | Sujon Al Mamun | [Read More](https://medium.com/p/fffa14a45619) |
 | Sun, 25 Jan 2026 05:16:33 GMT | The Windows Security Journey — Secure Kernel | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/8838a1d2a5c2) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 17:24:21 GMT | Critical Cybersecurity Alert: Fortinet FortiGate Firewalls Are Being Actively Exploited-Even When… | Chetan Seripally | [Read More](https://medium.com/p/a9edc5e02b80) |
 | Sat, 24 Jan 2026 17:19:37 GMT | Cyber Defense in 2030 - What the Next Wave of Attacks Will Look Like | Shahzaib | [Read More](https://medium.com/p/866bd41794f5) |
 | Sat, 24 Jan 2026 17:13:44 GMT | How are we feeling today? | bipolar pluto | [Read More](https://medium.com/p/97ca5c1440a2) |
-| Sat, 24 Jan 2026 17:12:21 GMT | Why Strong, Caring People Struggle to Ask for Help | Amywrites | [Read More](https://medium.com/p/2f349dc83090) |
-| Sat, 24 Jan 2026 17:11:38 GMT | The 10 Most Active Threat Actors of 2025: The Campaigns Defenders Kept Running Into | Richard Dosumu | [Read More](https://medium.com/p/d5802dc5792e) |
-| Sat, 24 Jan 2026 17:03:28 GMT | How I Found 3 Critical Reflected XSS Bugs Using Simple URL Encoding Tricks | Ahmad Suhendra | [Read More](https://medium.com/p/215d1c33bbea) |
-| Sat, 24 Jan 2026 17:03:00 GMT | React2Shell (CVE-2025–55182): Anatomy of a Server-Side RCE in React | Eric Blancas | [Read More](https://medium.com/p/59aee77ff12c) |
-| Sat, 24 Jan 2026 16:54:20 GMT | The Irony of Threat Intelligence: Predicting the Future Using the Past | Rishika Desai | [Read More](https://medium.com/p/2c22f1c05f43) |
