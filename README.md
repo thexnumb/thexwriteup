@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 14:15:47 GMT | Threat Hunting with MITRE ATT&CK. A Practical Guide for SOC Analysts | Misbah waraich | [Read More](https://medium.com/p/61abe5cb02c1) |
+| Sun, 25 Jan 2026 14:14:35 GMT | Resurrecting the Dead: Exploiting Active Directory’s Recycle Bin ♻️✝️ | Nicholas Mullenski | [Read More](https://medium.com/p/5558982fc5fa) |
+| Sun, 25 Jan 2026 14:13:11 GMT | ⚔️ BEYOND THE PERIMETER: Cracking Sysco with Kerberos Exploitation & GPO Task Injection ️ | Nicholas Mullenski | [Read More](https://medium.com/p/4530db99feea) |
+| Sun, 25 Jan 2026 14:12:42 GMT | How a Simple PDF Export Feature Led to a Critical Local File Inclusion | Abhiram | [Read More](https://medium.com/p/e11d5979d46b) |
+| Sun, 25 Jan 2026 14:12:12 GMT | How I Earned $0 for a Google Cloud Takeover via a Leaked Service Account Private Key | ARoy | [Read More](https://medium.com/p/6f39218ef5ef) |
+| Sun, 25 Jan 2026 14:11:02 GMT | XSS Diaries (Part 1): How I Found an Easy XSS in an AI Chatbot | Sudeepa Shiranthaka | [Read More](https://medium.com/p/4f5f916525e5) |
+| Sun, 25 Jan 2026 14:05:06 GMT | State of Cybersecurity in India: A Fight Against Modern Threats | Arunkumar Sathishkumar | [Read More](https://medium.com/p/4e61c73988e2) |
+| Sun, 25 Jan 2026 14:00:26 GMT | Why I’m Building My Own Vulnerable Labs Instead of Just Solving CTFs | Jagadishtripathy | [Read More](https://medium.com/p/740878763da6) |
+| Sun, 25 Jan 2026 13:57:32 GMT | Fear of being called a softie | Fire Melon | [Read More](https://medium.com/p/e9a2691994f9) |
+| Sun, 25 Jan 2026 13:57:31 GMT | Deception as the Unifying Theory of Cyber Warfare | David SEHYEON Baek | [Read More](https://medium.com/p/52a374489d4e) |
+| Sun, 25 Jan 2026 13:57:26 GMT | pdf.exe - 0xL4ugh v5 CTF | 00xCanelo | [Read More](https://medium.com/p/643455d4e05f) |
+| Sun, 25 Jan 2026 13:55:59 GMT | APT — the most dangerous hackers and the IT world’s worst nightmare | 0trust0day | [Read More](https://medium.com/p/df036244118e) |
+| Sun, 25 Jan 2026 13:51:57 GMT | Sigstore Made Easy: How I Prove PC_Workman Is Actually From Me | Marcin Firmuga | [Read More](https://medium.com/p/1e110ba856e6) |
+| Sun, 25 Jan 2026 13:49:12 GMT | Winning 0xL4ugh CTF with Lil l3ak | 0x11a | [Read More](https://medium.com/p/3e5b6d8cf337) |
+| Sun, 25 Jan 2026 13:44:11 GMT | Every iPhone 17E Rumor and Leak That I Found: Dynamic Island, MagSafe and More | Rana Grip | [Read More](https://medium.com/p/119d593745b6) |
+| Sun, 25 Jan 2026 13:40:47 GMT | Membangun Home Lab Penetration Testing: Panduan Instalasi Kali Linux di Oracle Virtual Box | Ibnu Dwiki Hermawan | [Read More](https://medium.com/p/60a88bc9860c) |
 | Sun, 25 Jan 2026 13:32:27 GMT | Zero Trust Architecture: More Than Just a Buzzword. | Mubashir | [Read More](https://medium.com/p/9a0234b414d1) |
 | Sun, 25 Jan 2026 13:12:54 GMT | Understanding FIDO2, WebAuthn, and Passkeys | Alf Løkken | [Read More](https://medium.com/p/9c272d31f144) |
 | Sun, 25 Jan 2026 13:11:25 GMT | Breaches Are Inevitable. Lateral Movement Is Optional. | Ayush Arora | [Read More](https://medium.com/p/f6f447406c42) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 05:53:55 GMT | From Securing Systems to Securing Strategy: My Move into GRC | Melissa Ann Tanksley | [Read More](https://medium.com/p/3fd064a67f75) |
 | Sun, 25 Jan 2026 05:38:37 GMT | Introduction | Cyberhawk Consultancy | [Read More](https://medium.com/p/6563880c2120) |
 | Sun, 25 Jan 2026 05:24:35 GMT | Cyber Sherlock Weekly Briefing: Becoming the Ultimate Guardian of the Digital Realm 25 January 2026 | Sujon Al Mamun | [Read More](https://medium.com/p/fffa14a45619) |
-| Sun, 25 Jan 2026 05:16:33 GMT | The Windows Security Journey — Secure Kernel | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/8838a1d2a5c2) |
-| Sun, 25 Jan 2026 05:05:06 GMT | From a Food Delivery Rider to Passing The OSCP on the First Attempt in a Year- OSCP+: A Self-Taught… | Solynth.exe | [Read More](https://medium.com/p/1ed1932313d4) |
-| Sun, 25 Jan 2026 04:59:03 GMT | What Humans Require: Physical Safety & Security (Trump Edition) | David Speakman | [Read More](https://medium.com/p/7e90a6821dff) |
-| Sun, 25 Jan 2026 04:58:10 GMT | The MVP landing zone blueprint: guardrails that defend delivery speed | Practical IT | [Read More](https://medium.com/p/d0d5927e0dee) |
-| Sun, 25 Jan 2026 04:43:12 GMT | DAY-3(RUST PROGRAMMING) | vulnhunter | [Read More](https://medium.com/p/2043f102f439) |
-| Sun, 25 Jan 2026 03:46:56 GMT | 10²⁴ Years of Computation in Under 5 Minutes | Sidharth Dhawan | [Read More](https://medium.com/p/bcb2ab0ba705) |
-| Sun, 25 Jan 2026 03:44:31 GMT | Every Cyber Attack Tells a Story — The Diamond Model Explains It | Ankita Sinha | [Read More](https://medium.com/p/5324ba7d4432) |
-| Sun, 25 Jan 2026 03:33:21 GMT | Enumerating RPC Services Using rpcclient on Metasploitable 2 | Cybeague Technologies | [Read More](https://medium.com/p/3b167bbfdce5) |
-| Sun, 25 Jan 2026 03:32:04 GMT | SMB Enumeration with smbmap on Metasploitable 2 | Cybeague Technologies | [Read More](https://medium.com/p/75a601aaf51c) |
-| Sun, 25 Jan 2026 03:28:47 GMT | Security Scan with AWS Native. Got Me Crazy | Fiardika Rizki | [Read More](https://medium.com/p/b44276e2e7b8) |
-| Sun, 25 Jan 2026 03:20:11 GMT | How to Start Learning Coding: Zero to Hero | Vikendrasaran | [Read More](https://medium.com/p/3deb86fa6bf7) |
-| Sun, 25 Jan 2026 03:02:03 GMT | Cyberwargaming’s Rise | Shailendra Kumar | [Read More](https://medium.com/p/93cf9ec4955c) |
-| Sun, 25 Jan 2026 02:50:15 GMT | We Only Had One Coffee ‘Date’ | Mary Claudine | [Read More](https://medium.com/p/a18f1e5ac0fd) |
-| Sun, 25 Jan 2026 02:45:59 GMT | What Cybersecurity Experts Actually Do All Day | SECURE IT! | [Read More](https://medium.com/p/d0e31751d07d) |
-| Sun, 25 Jan 2026 02:45:56 GMT | SOC164 — Suspicious Mshta Behavior - LestDefend | Nicksondiazm | [Read More](https://medium.com/p/95b0893e0d8e) |
-| Sun, 25 Jan 2026 02:32:30 GMT | How Ethical Hacking Services Like Private-Hackers.com | Private-hackers.com | [Read More](https://medium.com/p/2bc5edff9bdd) |
