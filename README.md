@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 16:44:05 GMT | How To Bypass OTP (One Time Password) | FeritÖzner | [Read More](https://medium.com/p/ed74b4e6b0f0) |
+| Sun, 25 Jan 2026 16:43:38 GMT | How To Bypass Captcha | FeritÖzner | [Read More](https://medium.com/p/88277810313e) |
+| Sun, 25 Jan 2026 16:40:49 GMT | Why I choose Medium.com | Abdul Writes | [Read More](https://medium.com/p/561b98876716) |
+| Sun, 25 Jan 2026 16:40:43 GMT | INE / eJPT / Host & Network Penetration Testing: System-Host Based Attacks CTF 2 | Salihugurlu | [Read More](https://medium.com/p/12c58ef5b367) |
+| Sun, 25 Jan 2026 16:32:00 GMT | EVER SEEN CONTENT UPLOADED ON YOUR SOCIAL MEDIA WHICH YOU DIDNT UPLOAD? | Muhammad Ali Khawar Butt | [Read More](https://medium.com/p/b42b6a35273b) |
+| Sun, 25 Jan 2026 16:22:15 GMT | How to Recover Lost Cryptocurrency? | Mathewmatt | [Read More](https://medium.com/p/6705b42eb3c2) |
 | Sun, 25 Jan 2026 16:16:42 GMT | Echelon Philadelphia Security Guards: A Pillar of Safety in the Security Industry | Jennezsey Burton | [Read More](https://medium.com/p/9fd646dcc149) |
 | Sun, 25 Jan 2026 16:15:11 GMT | 3 Emerging AI Tools Businesses Are Experimenting With And the Data Privacy Risks You Should… | BiyteLüm | [Read More](https://medium.com/p/0774d6a3e3d5) |
 | Sun, 25 Jan 2026 16:04:49 GMT | Step-by-Step Guide: Installing Kali Linux on VirtualBox | Winson Sovian | [Read More](https://medium.com/p/a2a297a5dab4) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 09:43:49 GMT | “It’s Too Late”… Until One Kid Looks Up | Anitaraju | [Read More](https://medium.com/p/669ae4da08dc) |
 | Sun, 25 Jan 2026 09:41:04 GMT | The Breach Nobody Saw Coming, Because Nobody Was Looking | Janith Malinga | [Read More](https://medium.com/p/68600d51407a) |
 | Sun, 25 Jan 2026 09:38:50 GMT | What To Do If Exchange EDB File Is Too Big? | EINITIAL24 | [Read More](https://medium.com/p/5b485adfa6c4) |
-| Sun, 25 Jan 2026 09:38:20 GMT | Active Directory Pentesting 101 — Pt.2 | serkanbenol | [Read More](https://medium.com/p/99348408a3d3) |
-| Sun, 25 Jan 2026 09:28:43 GMT | Redesign Work for the AI Era: The New Strategic Imperative for HR and Technology Leaders | Bibhu Ashish Panda | [Read More](https://medium.com/p/54866158565e) |
-| Sun, 25 Jan 2026 09:27:12 GMT | Inside “BANKOMAT”: A Case Study of an UndergroundIdentity Market-Threat Summary & Public Warning. | Macs-Hit | [Read More](https://medium.com/p/2bff9752b781) |
-| Sun, 25 Jan 2026 09:22:50 GMT | The Phishing Series: Detecting Phishing Emails in a Controlled Lab | Norman Kolarikkal | [Read More](https://medium.com/p/32ad429dea8d) |
-| Sun, 25 Jan 2026 09:21:38 GMT | Waze Is Watching You | Patrik Žák | [Read More](https://medium.com/p/bd2f74488538) |
-| Sun, 25 Jan 2026 09:19:58 GMT | What I Learned from the “Introduction to Metasploit” Room (TryHackMe) | Tejas Bhujbal | [Read More](https://medium.com/p/039f3380c972) |
