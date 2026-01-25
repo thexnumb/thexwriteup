@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 20:23:34 GMT | Stop Saying “I Want to Learn” in Your IT Interview | Gavel | [Read More](https://medium.com/p/0cec7f16d575) |
 | Sun, 25 Jan 2026 20:21:17 GMT | The Supreme Court Case That Proves Freight Brokers Need Better Verification Tools | Heesham Naji | [Read More](https://medium.com/p/ad86376c0955) |
 | Sun, 25 Jan 2026 20:04:40 GMT | Beyond the Clinic: Protecting Post-Mortem Data with Neural Odontology & Bio-Encryption | E-Forensics | [Read More](https://medium.com/p/954a849f20ab) |
 | Sun, 25 Jan 2026 20:03:25 GMT | The Quiet Conversation That Powers the Internet | Amandogra | [Read More](https://medium.com/p/d0ab0801733f) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 13:57:32 GMT | Fear of being called a softie | Fire Melon | [Read More](https://medium.com/p/e9a2691994f9) |
 | Sun, 25 Jan 2026 13:57:31 GMT | Deception as the Unifying Theory of Cyber Warfare | David SEHYEON Baek | [Read More](https://medium.com/p/52a374489d4e) |
 | Sun, 25 Jan 2026 13:57:26 GMT | pdf.exe - 0xL4ugh v5 CTF | 00xCanelo | [Read More](https://medium.com/p/643455d4e05f) |
-| Sun, 25 Jan 2026 13:55:59 GMT | APT — the most dangerous hackers and the IT world’s worst nightmare | 0trust0day | [Read More](https://medium.com/p/df036244118e) |
