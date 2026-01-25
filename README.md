@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 19:37:03 GMT | Cyber Campaigns: Fix this, Fix that — Part 1 | Shivam Bathla | [Read More](https://medium.com/p/a6f6111fb1f0) |
+| Sun, 25 Jan 2026 19:28:01 GMT | Least-Privilege Is a Feedback Loop — Not a Policy | Jonas Wolffsen | [Read More](https://medium.com/p/6c8fb17327de) |
+| Sun, 25 Jan 2026 19:22:27 GMT | Cracking “Cipher’s Secret Message” on TryHackMe: A Python Walkthrough | Hemantha Krishna Challa | [Read More](https://medium.com/p/52830a1e036c) |
+| Sun, 25 Jan 2026 19:18:52 GMT | Create Your Own Up-to-Date Threat Intelligence | Just Moi | [Read More](https://medium.com/p/9bc7cd8c7085) |
 | Sun, 25 Jan 2026 19:13:36 GMT | The 50-Cent Hacker: How I Built a Cyber Career on a Budget Phone and No Internet | Ghouti yelles chaouche | [Read More](https://medium.com/p/3a0e32ba4ad3) |
+| Sun, 25 Jan 2026 19:13:03 GMT | Microsoft is Not Your Friend, They Never Were… | z3r0trust | [Read More](https://medium.com/p/0d37e1b2d11e) |
 | Sun, 25 Jan 2026 19:01:14 GMT | Why 90% of CISSP Candidates Fail This One Question (And How to Be in the 10% Who Don’t) | Pushpak Sharma | [Read More](https://medium.com/p/6de894c968c7) |
 | Sun, 25 Jan 2026 18:57:38 GMT | GitHub Needs a Meaning first Makeover in 2026 | Anish Gupta | [Read More](https://medium.com/p/d3fb4d42e27d) |
 | Sun, 25 Jan 2026 18:56:26 GMT | The First Shift CTF | hackerboi | [Read More](https://medium.com/p/8ecb84fc8ce1) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 13:18:23 GMT | How To Spot Real vs. Fake Crypto Trading Platforms | Isabel Pérez | [Read More](https://medium.com/p/c6a900052ce9) |
 | Sun, 25 Jan 2026 13:12:54 GMT | Understanding FIDO2, WebAuthn, and Passkeys | Alf Løkken | [Read More](https://medium.com/p/9c272d31f144) |
 | Sun, 25 Jan 2026 13:11:25 GMT | Breaches Are Inevitable. Lateral Movement Is Optional. | Ayush Arora | [Read More](https://medium.com/p/f6f447406c42) |
-| Sun, 25 Jan 2026 13:02:51 GMT | Understanding a Chrome Use-After-Free Vulnerability: A Project Zero Case Study | Evelinkim | [Read More](https://medium.com/p/4c9747b53983) |
-| Sun, 25 Jan 2026 12:54:35 GMT | I don’t fully believe in myself, but I keep going | Haneul | [Read More](https://medium.com/p/2b3c979ac303) |
-| Sun, 25 Jan 2026 12:52:32 GMT | Howden Launches US Cyber Practice to Boost Corporate Risk | VISIONARIES NETWORK LLC | [Read More](https://medium.com/p/c5631ba1efbc) |
-| Sun, 25 Jan 2026 12:51:36 GMT | The Only Tools I Use — And How I Chain Them Into Real Attack Paths | P Sam Tarun | [Read More](https://medium.com/p/f994bddda099) |
-| Sun, 25 Jan 2026 12:34:09 GMT | Cyber Risks in MSMEs – Ignored, Underestimated, Exploited | Ankit rai | [Read More](https://medium.com/p/2588d7c977c7) |
