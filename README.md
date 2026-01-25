@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 10:41:47 GMT | Do you suspect your spouse of cheating? | Kaylee Bell | [Read More](https://medium.com/p/811d9f906a13) |
+| Sun, 25 Jan 2026 10:38:26 GMT | Why Most Permission Systems Collapse | Darshit Kothari | [Read More](https://medium.com/p/d7bf86c1acf1) |
+| Sun, 25 Jan 2026 10:36:54 GMT | Tryhackme SimpleCTF Write-Up | Kandemirryigit | [Read More](https://medium.com/p/61c002c43271) |
+| Sun, 25 Jan 2026 10:36:38 GMT | The rise of “non-human identities” | h@shtalk | [Read More](https://medium.com/p/514fe6b6a627) |
+| Sun, 25 Jan 2026 10:31:00 GMT | When Your Web Server Thinks It’s Being Attacked | AstroPema AI LLC | [Read More](https://medium.com/p/fb7fb2e43d15) |
+| Sun, 25 Jan 2026 10:28:10 GMT | Why I Stopped Uploading My Private PDFs to “Free Online Editors” (And Built a Local Alternative) | Matteo Abbamonte | [Read More](https://medium.com/p/4f3b8f5b9131) |
+| Sun, 25 Jan 2026 10:21:16 GMT | Zeroisation in Cybersecurity : The Simple Security Practice That Keeps Your Data Truly Safe | Amanpreet Singh | [Read More](https://medium.com/p/b1524b95f757) |
 | Sun, 25 Jan 2026 10:10:16 GMT | Calling cybersecurity a ‘tech job’ is incomplete. | DefenditChhavi | [Read More](https://medium.com/p/f14af489e88c) |
 | Sun, 25 Jan 2026 10:04:41 GMT | How to Self-Host Your Own VPN for Free (or $2–$6/Month) | Varadaraj Acharya | [Read More](https://medium.com/p/49fac96688af) |
 | Sun, 25 Jan 2026 10:00:45 GMT | Every Interview Asks SSL, TLS, HTTPS — 90% Developers Still Explain It Wrong | Shanu Reddy | [Read More](https://medium.com/p/e683d46111c1) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 23:07:06 GMT | Cybersecurity Writing Niches With High Buyer Intent | Ms. Byte Dev | [Read More](https://medium.com/p/be4bedc790b5) |
 | Sat, 24 Jan 2026 23:02:52 GMT | technolgie and futureof technologie | Moussachouikh | [Read More](https://medium.com/p/87b11780de36) |
 | Sat, 24 Jan 2026 22:56:55 GMT | I Cracked WCW’s 25-Year-Old Encryption in 43 Minutes. The Cipher Was Just Subtraction. | Blake Bratcher | [Read More](https://medium.com/p/81de6b159045) |
-| Sat, 24 Jan 2026 22:52:22 GMT | Automating AWS Security Alerts | Michan Kwon | [Read More](https://medium.com/p/35f0916dbe84) |
-| Sat, 24 Jan 2026 22:42:42 GMT | That’s Not Oprah. It’s AI. And ‘she’ is after your money: A 2025 Deepfake Retrospective | Mia Kotalik | [Read More](https://medium.com/p/9a9893c48117) |
-| Sat, 24 Jan 2026 22:36:13 GMT | Despite All These Technological Advancements, We’re Still Dealing With Critical Vulnerabilities | Vivek Naskar | [Read More](https://medium.com/p/917134c48f8b) |
-| Sat, 24 Jan 2026 22:31:51 GMT | Security and Performance Aspects of NUMA Optimization | Linux Guide | [Read More](https://medium.com/p/7efd886d59cf) |
-| Sat, 24 Jan 2026 22:31:31 GMT | REPROMPT ATTACK | Anjali Gopinadhan Nair | [Read More](https://medium.com/p/9f20632d73ac) |
-| Sat, 24 Jan 2026 22:15:06 GMT | Apply filters to SQL queries | Kelechi Ezinwa Chibuzor | [Read More](https://medium.com/p/a844ef008c04) |
-| Sat, 24 Jan 2026 22:03:03 GMT | The Hidden Attack Surface in Every LLM: How Special Tokens Enable 96% Jailbreak Success Rates | Suchitra Malimbada | [Read More](https://medium.com/p/f6d7745b24ed) |
