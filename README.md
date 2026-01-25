@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 16:16:42 GMT | Echelon Philadelphia Security Guards: A Pillar of Safety in the Security Industry | Jennezsey Burton | [Read More](https://medium.com/p/9fd646dcc149) |
+| Sun, 25 Jan 2026 16:15:11 GMT | 3 Emerging AI Tools Businesses Are Experimenting With And the Data Privacy Risks You Should… | BiyteLüm | [Read More](https://medium.com/p/0774d6a3e3d5) |
+| Sun, 25 Jan 2026 16:04:49 GMT | Step-by-Step Guide: Installing Kali Linux on VirtualBox | Winson Sovian | [Read More](https://medium.com/p/a2a297a5dab4) |
+| Sun, 25 Jan 2026 16:04:31 GMT | Cybersecurity Policies That Look Strong but Fail in Court | Kshitiz Sharma | [Read More](https://medium.com/p/c0b56ec14d80) |
+| Sun, 25 Jan 2026 15:57:03 GMT | iPhone Safety Settings You Must Turn on Before Calling 911 | Tsumit | [Read More](https://medium.com/p/6862cb14809a) |
+| Sun, 25 Jan 2026 15:55:21 GMT | OWASP Top 10 (2025): A Practical Application Security Perspective | arunima as | [Read More](https://medium.com/p/884514e2bee3) |
+| Sun, 25 Jan 2026 15:54:25 GMT | Web3 With a Purpose — Not Just a Token | Stan4Chainz | [Read More](https://medium.com/p/2a01adb460a6) |
+| Sun, 25 Jan 2026 15:49:05 GMT | [PortSwigger][Practitioner]- Lab: CSRF where token validation depends on token being present | Javiki | [Read More](https://medium.com/p/26082e05a752) |
+| Sun, 25 Jan 2026 15:48:18 GMT | The $4 Million Account Nobody Remembered | Riz Wan | [Read More](https://medium.com/p/4ef40d4a67a2) |
+| Sun, 25 Jan 2026 15:47:50 GMT | Red Team vs. Blue Team: Building a Purple security lab from scratch | Oluwadamilare Adeosun | [Read More](https://medium.com/p/d6e5ad08778e) |
+| Sun, 25 Jan 2026 15:44:49 GMT | Metasploit Framework in Cybersecurity Practice: Analysis and Implementation | Habibi | [Read More](https://medium.com/p/3c04494ba3a8) |
+| Sun, 25 Jan 2026 15:42:52 GMT | Building the Ultimate 2026 CyberSec Lab on Mac | Esat Kemal Ekren | [Read More](https://medium.com/p/7cddde5000cb) |
+| Sun, 25 Jan 2026 15:41:22 GMT | Cybersecurity 101: How to Secure Your Home Network Like a Pro | Mubashir | [Read More](https://medium.com/p/15ab8fd2a2f7) |
+| Sun, 25 Jan 2026 15:40:32 GMT | VulnLab: Unrestricted File Upload Çözümü | CyberSam | [Read More](https://medium.com/p/5ef722b1af6c) |
+| Sun, 25 Jan 2026 15:33:24 GMT | 95% of AI projects are giving zero return. And they are not breach-ready. | Agnidipta Sarkar | [Read More](https://medium.com/p/d9f40934929b) |
 | Sun, 25 Jan 2026 15:28:00 GMT | Coupang’s Data Fiasco and the Costs of Digital Sovereignty | James Paek | [Read More](https://medium.com/p/f4074093c4b3) |
 | Sun, 25 Jan 2026 15:25:15 GMT | PRIVILEGE ESCALATION TESPİTİ: Wazuh ile Log Tabanlı Bir Detection Yaklaşımı | dilan alpaltun | [Read More](https://medium.com/p/b2cf3779281b) |
 | Sun, 25 Jan 2026 15:24:46 GMT | Security Management, File Management & User–Kernel Architecture: An In-Depth Operating Systems Guid | Shalu | [Read More](https://medium.com/p/d1d03273c5e9) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 09:22:50 GMT | The Phishing Series: Detecting Phishing Emails in a Controlled Lab | Norman Kolarikkal | [Read More](https://medium.com/p/32ad429dea8d) |
 | Sun, 25 Jan 2026 09:21:38 GMT | Waze Is Watching You | Patrik Žák | [Read More](https://medium.com/p/bd2f74488538) |
 | Sun, 25 Jan 2026 09:19:58 GMT | What I Learned from the “Introduction to Metasploit” Room (TryHackMe) | Tejas Bhujbal | [Read More](https://medium.com/p/039f3380c972) |
-| Sun, 25 Jan 2026 09:07:47 GMT | Moniker Link (CVE-2024–21413) | Tejas Bhujbal | [Read More](https://medium.com/p/521ce99a6636) |
-| Sun, 25 Jan 2026 09:05:09 GMT | You Are Loved. You Belong. | VagamoodSundaze | [Read More](https://medium.com/p/1d9952856903) |
-| Sun, 25 Jan 2026 09:04:21 GMT | I Tried Every “Make Money Online” Idea I Could Find — Here’s the Truth | Vijay Kumar Gupta | [Read More](https://medium.com/p/461f6fc089aa) |
-| Sun, 25 Jan 2026 09:04:07 GMT | From Stored XSS to RCE - HackTheBox Imagery Writeup | Motasem Hamdan | [Read More](https://medium.com/p/86d660d38774) |
-| Sun, 25 Jan 2026 09:02:09 GMT | The Mask We Wear to Survive | Oluwatomisin Pokuaa Phillips | [Read More](https://medium.com/p/2e9d361412d9) |
-| Sun, 25 Jan 2026 09:02:03 GMT | API Tutorial: Add a Credential Leak Check to Your App in 10 Lines of Code | Alexandre Vandamme | [Read More](https://medium.com/p/a9ef42bee2ee) |
-| Sun, 25 Jan 2026 08:56:54 GMT | TikTok is Officially American: 5 Things That Just Changed on Your For You Page. | Technologia | [Read More](https://medium.com/p/b4ebceca23d2) |
-| Sun, 25 Jan 2026 08:53:50 GMT | Policies Don’t Fail — Context Does | David Anderson | [Read More](https://medium.com/p/e27b1cc8a05f) |
-| Sun, 25 Jan 2026 08:49:31 GMT | Microsoft Gave BitLocker Encryption Keys to the FBI, and Most Windows Users May Not Know This | Mike Broadly, DHSc | [Read More](https://medium.com/p/0f4c4e911929) |
-| Sun, 25 Jan 2026 08:44:35 GMT | Why I chose Azure Sentinel: A student’s perspective | Erdem Keles | [Read More](https://medium.com/p/304ae980c5ab) |
-| Sun, 25 Jan 2026 08:31:11 GMT | How I Passed the eJPT v2 Exam on My First Attempt? | Saif Makharzeh | [Read More](https://medium.com/p/1d6e71819aeb) |
-| Sun, 25 Jan 2026 08:19:14 GMT | HAWA: Turning Invisible Air Pollution into Actionable Intelligence | Hawa | [Read More](https://medium.com/p/955b4c85d8c1) |
-| Sun, 25 Jan 2026 08:14:41 GMT | Artificial Intelligence Career Scope in India | Manisha Chaudhary | [Read More](https://medium.com/p/1438a3547c57) |
-| Sun, 25 Jan 2026 08:12:03 GMT | The 70% Fix: How Microsoft is Using Rust to Quietly Eliminate Windows’ Deadliest Bugs ️ | Puneet | [Read More](https://medium.com/p/02bc047149cd) |
-| Sun, 25 Jan 2026 08:10:01 GMT | Why Users Quit Before the First Click | Anton Minin Baranovskii | [Read More](https://medium.com/p/974e3124f2ea) |
