@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 17:25:33 GMT | Agentic AI Is Coming to the SOC: What New Analysts Need to Learn | Identity Bytes | [Read More](https://medium.com/p/792ecbac6ff1) |
+| Sun, 25 Jan 2026 17:24:01 GMT | How I hacked NASA with an RCE!!! | Rubayet Hasan aka MR_Prey3r | [Read More](https://medium.com/p/5e764ed54dea) |
+| Sun, 25 Jan 2026 17:23:10 GMT | Secure SDLC: From Continuous Development to Secure Software Delivery | Siddiquimohammad | [Read More](https://medium.com/p/e0fd047fb0b2) |
 | Sun, 25 Jan 2026 17:13:20 GMT | My First CVE: CVE-2026–21641 | 0xJad | [Read More](https://medium.com/p/84d0cad583c3) |
 | Sun, 25 Jan 2026 17:05:46 GMT | Embracing “Secure by Design -SbD”: The Technical Imperative | Chitra VS Nair | [Read More](https://medium.com/p/f4196c8aeaa0) |
 | Sun, 25 Jan 2026 17:05:18 GMT | To all CTOs: stop treating test data like an artifact. Treat it like a service. | RealTestData | [Read More](https://medium.com/p/958657401d92) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 10:31:00 GMT | When Your Web Server Thinks It’s Being Attacked | AstroPema AI LLC | [Read More](https://medium.com/p/fb7fb2e43d15) |
 | Sun, 25 Jan 2026 10:28:10 GMT | Why I Stopped Uploading My Private PDFs to “Free Online Editors” (And Built a Local Alternative) | Matteo Abbamonte | [Read More](https://medium.com/p/4f3b8f5b9131) |
 | Sun, 25 Jan 2026 10:21:16 GMT | Zeroisation in Cybersecurity : The Simple Security Practice That Keeps Your Data Truly Safe | Amanpreet Singh | [Read More](https://medium.com/p/b1524b95f757) |
-| Sun, 25 Jan 2026 10:10:16 GMT | Calling cybersecurity a ‘tech job’ is incomplete. | DefenditChhavi | [Read More](https://medium.com/p/f14af489e88c) |
-| Sun, 25 Jan 2026 10:04:41 GMT | How to Self-Host Your Own VPN for Free (or $2–$6/Month) | Varadaraj Acharya | [Read More](https://medium.com/p/49fac96688af) |
-| Sun, 25 Jan 2026 10:00:45 GMT | Every Interview Asks SSL, TLS, HTTPS — 90% Developers Still Explain It Wrong | Shanu Reddy | [Read More](https://medium.com/p/e683d46111c1) |
