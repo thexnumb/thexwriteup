@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 21:09:14 GMT | Visual Studio Code (VS Code) — Secure Installation & CIS Hardening Guide — Part I | SOCFortress | [Read More](https://medium.com/p/9843e1571ffb) |
+| Sun, 25 Jan 2026 21:03:14 GMT | 0xL4ugh v5 CTF DFIR Official Writeup | Immortal_ibr | [Read More](https://medium.com/p/84af84d2d65c) |
+| Sun, 25 Jan 2026 20:47:41 GMT | keywords listing | seal(theo)ry | [Read More](https://medium.com/p/7b8c9690108b) |
 | Sun, 25 Jan 2026 20:23:34 GMT | Stop Saying “I Want to Learn” in Your IT Interview | Gavel | [Read More](https://medium.com/p/0cec7f16d575) |
 | Sun, 25 Jan 2026 20:21:17 GMT | The Supreme Court Case That Proves Freight Brokers Need Better Verification Tools | Heesham Naji | [Read More](https://medium.com/p/ad86376c0955) |
 | Sun, 25 Jan 2026 20:04:40 GMT | Beyond the Clinic: Protecting Post-Mortem Data with Neural Odontology & Bio-Encryption | E-Forensics | [Read More](https://medium.com/p/954a849f20ab) |
@@ -68,6 +71,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 16:06:25 GMT | Total AV in 2026: The SHOCKING Truth (Full Review) | Alisa | [Read More](https://medium.com/p/aa250206701a) |
 | Sun, 25 Jan 2026 16:04:49 GMT | Step-by-Step Guide: Installing Kali Linux on VirtualBox | Winson Sovian | [Read More](https://medium.com/p/a2a297a5dab4) |
 | Sun, 25 Jan 2026 16:04:31 GMT | Cybersecurity Policies That Look Strong but Fail in Court | Kshitiz Sharma | [Read More](https://medium.com/p/c0b56ec14d80) |
+| Sun, 25 Jan 2026 16:04:00 GMT | C# 中的 Garbage Collection：.NET 的分代記憶體管理 | 思維舞步 MindSteps | [Read More](https://medium.com/p/c68b88f7b80a) |
 | Sun, 25 Jan 2026 15:57:03 GMT | iPhone Safety Settings You Must Turn on Before Calling 911 | Tsumit | [Read More](https://medium.com/p/6862cb14809a) |
 | Sun, 25 Jan 2026 15:55:21 GMT | OWASP Top 10 (2025): A Practical Application Security Perspective | arunima as | [Read More](https://medium.com/p/884514e2bee3) |
 | Sun, 25 Jan 2026 15:54:25 GMT | Web3 With a Purpose — Not Just a Token | Stan4Chainz | [Read More](https://medium.com/p/2a01adb460a6) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 14:12:12 GMT | How I Earned $0 for a Google Cloud Takeover via a Leaked Service Account Private Key | ARoy | [Read More](https://medium.com/p/6f39218ef5ef) |
 | Sun, 25 Jan 2026 14:11:02 GMT | XSS Diaries (Part 1): How I Found an Easy XSS in an AI Chatbot | Sudeepa Shiranthaka | [Read More](https://medium.com/p/4f5f916525e5) |
 | Sun, 25 Jan 2026 14:05:06 GMT | State of Cybersecurity in India: A Fight Against Modern Threats | Arunkumar Sathishkumar | [Read More](https://medium.com/p/4e61c73988e2) |
-| Sun, 25 Jan 2026 14:00:26 GMT | Why I’m Building My Own Vulnerable Labs Instead of Just Solving CTFs | Jagadishtripathy | [Read More](https://medium.com/p/740878763da6) |
-| Sun, 25 Jan 2026 13:57:32 GMT | Fear of being called a softie | Fire Melon | [Read More](https://medium.com/p/e9a2691994f9) |
-| Sun, 25 Jan 2026 13:57:31 GMT | Deception as the Unifying Theory of Cyber Warfare | David SEHYEON Baek | [Read More](https://medium.com/p/52a374489d4e) |
-| Sun, 25 Jan 2026 13:57:26 GMT | pdf.exe - 0xL4ugh v5 CTF | 00xCanelo | [Read More](https://medium.com/p/643455d4e05f) |
