@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 01:46:17 GMT | Building a Scalable Authorization Framework: From Permissions to Entitlements | Zeitgeist | [Read More](https://medium.com/p/e1741ab5846c) |
+| Sun, 25 Jan 2026 01:42:55 GMT | Active Directory — Blog Part II: Where AD Starts | Mark Thompson | [Read More](https://medium.com/p/0cc096912f30) |
+| Sun, 25 Jan 2026 01:41:02 GMT | PHISHING — THE EVILGINX WAY | Tanooz Sharma | [Read More](https://medium.com/p/4b3c1341aef6) |
+| Sun, 25 Jan 2026 01:39:03 GMT | Building CNIGT: An Automated Network Reconnaissance Tool That Goes from Discovery to Exploitation | Kingsmover | [Read More](https://medium.com/p/6606fc06a172) |
+| Sun, 25 Jan 2026 01:17:03 GMT | 37 Sysmon Events. One Complete DLL Hijacking Attack. Here’s What Happened. | Manish Rawat | [Read More](https://medium.com/p/09076f2e38c5) |
+| Sun, 25 Jan 2026 01:15:28 GMT | Information Structures: How the Invisible Precedes the Physical | numa | [Read More](https://medium.com/p/7477054c40b7) |
+| Sun, 25 Jan 2026 01:14:12 GMT | Dog bark sensor security | Tech gist | [Read More](https://medium.com/p/9eff62e59cf9) |
+| Sun, 25 Jan 2026 00:51:34 GMT | NordVPN: The Future of Online Privacy Starts Here | Genelia | [Read More](https://medium.com/p/6c341daef962) |
+| Sun, 25 Jan 2026 00:41:34 GMT | IDS/IPS Systems - CISSP | Pushpak Sharma | [Read More](https://medium.com/p/b22d586682ef) |
+| Sun, 25 Jan 2026 00:24:52 GMT | Why I Stopped Treating Online Privacy as “Optional” | Sean Harding | [Read More](https://medium.com/p/9d2fcf41253b) |
+| Sun, 25 Jan 2026 00:13:54 GMT | Visualização é o segredo! | Otávio Alves | [Read More](https://medium.com/p/2c2a4e828f1e) |
+| Sun, 25 Jan 2026 00:06:49 GMT | Securing Multimodal AI Systems in the Cloud (Video + Audio + Text) | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/5e6dcbe6d61f) |
+| Sun, 25 Jan 2026 00:05:31 GMT | My experience of Hack the Box’s Cyber Apocalypse CTF 2025: Tales from Eldoria | Srihari N Narayan | [Read More](https://medium.com/p/502896537fb6) |
+| Sat, 24 Jan 2026 23:59:29 GMT | File Transfer Methods | Saqlain Naqvi | [Read More](https://medium.com/p/d4474d924a72) |
+| Sat, 24 Jan 2026 23:57:16 GMT | Active Directory Pentesting — Pt.1 | serkanbenol | [Read More](https://medium.com/p/42b613266c2f) |
+| Sat, 24 Jan 2026 23:56:35 GMT | On to the Tactical Tier, Modularity begins here… | CoffeeCloud Series | [Read More](https://medium.com/p/3594f5cd2c74) |
 | Sat, 24 Jan 2026 23:41:29 GMT | Protecting AI Models in Cloud Storage | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/519456466ccb) |
 | Sat, 24 Jan 2026 23:39:44 GMT | Building a “Privacy-First” AI Red Team Assistant: A Hybrid Architecture with Ollama & Kali Linux | Kaizen | [Read More](https://medium.com/p/880215f38844) |
 | Sat, 24 Jan 2026 23:19:13 GMT | How I Built a Local Uncensored AI Stack for Red Teaming in 2026 (Full Guide) | Saad Khalid | [Read More](https://medium.com/p/a84bedfa4021) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 15:18:32 GMT | 1Password + Dream Afar: Security Meets Productivity | Jessica W Smith | [Read More](https://medium.com/p/176e2984b7e5) |
 | Sat, 24 Jan 2026 15:14:26 GMT | Metasploit: Introduction — TryHackMe Pentesting Tools | Tayyeb Nadeem Somro | [Read More](https://medium.com/p/e30b9b984a5a) |
 | Sat, 24 Jan 2026 15:10:37 GMT | Nmap — TryHackMe Pentesting Tools | Tayyeb Nadeem Somro | [Read More](https://medium.com/p/58bf2e9a78fe) |
-| Sat, 24 Jan 2026 14:52:07 GMT | The Human Consensus Protocol in Your Browser | Koshy | [Read More](https://medium.com/p/6b7cf3614bcb) |
-| Sat, 24 Jan 2026 14:39:03 GMT | Cloud Hosted Honeypots | Allen Ace | [Read More](https://medium.com/p/553aa0604e80) |
-| Sat, 24 Jan 2026 14:37:02 GMT | Modern Proxy Chain Usage — Building the Architecture of Invisibility | Esra Kayhan | [Read More](https://medium.com/p/564d508c664f) |
-| Sat, 24 Jan 2026 14:36:41 GMT | Cross-Domain Attack Applications: Bypassing Security Boundaries | Esra Kayhan | [Read More](https://medium.com/p/94f410729200) |
-| Sat, 24 Jan 2026 14:32:02 GMT | ChatGPT Stole My Bank Password Before I Hit Backspace | Mohamed Bakry | [Read More](https://medium.com/p/ce5e873e5382) |
-| Sat, 24 Jan 2026 14:27:01 GMT | How to Build a Secure Linux Server | bektiaw | [Read More](https://medium.com/p/509021596097) |
-| Sat, 24 Jan 2026 14:24:34 GMT | I Stopped Chasing Bugs and Started Getting Paid — TrinetLayer Was the Difference | Trinet Layer | [Read More](https://medium.com/p/af9df29a35a6) |
-| Sat, 24 Jan 2026 14:23:29 GMT | CodeBreach: The Two Missing Regex Characters That Nearly Broke the AWS Supply Chain | Chameera Rupasinghe | [Read More](https://medium.com/p/7ea27036f236) |
-| Sat, 24 Jan 2026 14:22:56 GMT | Linux Öğrenmek İsteyenlere Başlangıç: Bandit Oyunu Çözümleri | Mehmet Emir Yılmaz | [Read More](https://medium.com/p/17ab6ec18ae9) |
-| Sat, 24 Jan 2026 14:16:52 GMT | My Journey to eJPTv3: Building a Rock-Solid Foundation in Pentesting | Joel Morillas Pagan (Ghxstsec) | [Read More](https://medium.com/p/a40b89070c9f) |
-| Sat, 24 Jan 2026 14:16:36 GMT | Wiz x Cloud Security Championship — Contain Me If You Can Walkthrough | Vedant Bhalerao | [Read More](https://medium.com/p/2d579402a8b2) |
-| Sat, 24 Jan 2026 14:12:57 GMT | I Built 3 Production Agentic Systems. Here Are The 7 Hardest Lessons. | Sattyam Jain | [Read More](https://medium.com/p/d042f929522a) |
-| Sat, 24 Jan 2026 14:12:03 GMT | 300+ devices on my LAN: How I discovered my building’s security nightmare | Stéphane Derosiaux | [Read More](https://medium.com/p/79c41c795012) |
-| Sat, 24 Jan 2026 13:48:09 GMT | Indians Adopt Technology Fast — But Awareness Is Still Missing | Ankit rai | [Read More](https://medium.com/p/9e0d414bb3e1) |
-| Sat, 24 Jan 2026 13:44:55 GMT | Laboratory Information Management System: Benefits and Features | Pilims 42 | [Read More](https://medium.com/p/54a54d0f1ea1) |
-| Sat, 24 Jan 2026 13:41:54 GMT | Data protection and privacy laws | Cyberhamid | [Read More](https://medium.com/p/d8a1c71f8f28) |
