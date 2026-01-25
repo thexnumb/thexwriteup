@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 13:32:27 GMT | Zero Trust Architecture: More Than Just a Buzzword. | Mubashir | [Read More](https://medium.com/p/9a0234b414d1) |
+| Sun, 25 Jan 2026 13:12:54 GMT | Understanding FIDO2, WebAuthn, and Passkeys | Alf Løkken | [Read More](https://medium.com/p/9c272d31f144) |
+| Sun, 25 Jan 2026 13:11:25 GMT | Breaches Are Inevitable. Lateral Movement Is Optional. | Ayush Arora | [Read More](https://medium.com/p/f6f447406c42) |
+| Sun, 25 Jan 2026 13:02:51 GMT | Understanding a Chrome Use-After-Free Vulnerability: A Project Zero Case Study | Evelinkim | [Read More](https://medium.com/p/4c9747b53983) |
+| Sun, 25 Jan 2026 12:54:35 GMT | I don’t fully believe in myself, but I keep going | Haneul | [Read More](https://medium.com/p/2b3c979ac303) |
+| Sun, 25 Jan 2026 12:52:32 GMT | Howden Launches US Cyber Practice to Boost Corporate Risk | VISIONARIES NETWORK LLC | [Read More](https://medium.com/p/c5631ba1efbc) |
+| Sun, 25 Jan 2026 12:51:36 GMT | The Only Tools I Use — And How I Chain Them Into Real Attack Paths | P Sam Tarun | [Read More](https://medium.com/p/f994bddda099) |
 | Sun, 25 Jan 2026 12:34:09 GMT | Cyber Risks in MSMEs – Ignored, Underestimated, Exploited | Ankit rai | [Read More](https://medium.com/p/2588d7c977c7) |
 | Sun, 25 Jan 2026 12:29:18 GMT | Securing REST API Endpoints with OAuth 2.0 and Keycloak Client Scopes | Florian Röser | [Read More](https://medium.com/p/b5979702472a) |
 | Sun, 25 Jan 2026 12:11:04 GMT | MITRE ATT&CK Explained: How Real Cyber Attacks Actually Happen | CipherX9F Security | [Read More](https://medium.com/p/05128dd8833e) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 02:45:59 GMT | What Cybersecurity Experts Actually Do All Day | SECURE IT! | [Read More](https://medium.com/p/d0e31751d07d) |
 | Sun, 25 Jan 2026 02:45:56 GMT | SOC164 — Suspicious Mshta Behavior - LestDefend | Nicksondiazm | [Read More](https://medium.com/p/95b0893e0d8e) |
 | Sun, 25 Jan 2026 02:32:30 GMT | How Ethical Hacking Services Like Private-Hackers.com | Private-hackers.com | [Read More](https://medium.com/p/2bc5edff9bdd) |
-| Sun, 25 Jan 2026 02:30:14 GMT | O que eu creio? | Lima e Pereira | [Read More](https://medium.com/p/9406ece2e230) |
-| Sun, 25 Jan 2026 02:18:44 GMT | Bypassing Rate Limits via Race Conditions | Cybernerddd | [Read More](https://medium.com/p/a17fac0d006f) |
-| Sun, 25 Jan 2026 02:10:01 GMT | The Receipt Is the New Money: Who Gets to Verify? | James Kuhman | [Read More](https://medium.com/p/4addecc1825d) |
-| Sun, 25 Jan 2026 01:46:17 GMT | Building a Scalable Authorization Framework: From Permissions to Entitlements | Zeitgeist | [Read More](https://medium.com/p/e1741ab5846c) |
-| Sun, 25 Jan 2026 01:42:55 GMT | Active Directory — Blog Part II: Where AD Starts | Mark Thompson | [Read More](https://medium.com/p/0cc096912f30) |
-| Sun, 25 Jan 2026 01:41:02 GMT | PHISHING — THE EVILGINX WAY | Tanooz Sharma | [Read More](https://medium.com/p/4b3c1341aef6) |
-| Sun, 25 Jan 2026 01:39:03 GMT | Building CNIGT: An Automated Network Reconnaissance Tool That Goes from Discovery to Exploitation | Kingsmover | [Read More](https://medium.com/p/6606fc06a172) |
