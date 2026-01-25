@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 18:25:12 GMT | SOC HomeLab — Part 2 (Setting up Wazuh) | Archit Vats | [Read More](https://medium.com/p/f7fae19ec9ee) |
+| Sun, 25 Jan 2026 18:24:36 GMT | SOC HomeLab — Part 1 (Introduction) | Archit Vats | [Read More](https://medium.com/p/c2a5ae24b81a) |
+| Sun, 25 Jan 2026 18:20:12 GMT | Getting Started with Penetration Testing (Pentest) — A Beginner’s Guide | Numanhan Duran | [Read More](https://medium.com/p/8f7b708a3ac4) |
+| Sun, 25 Jan 2026 18:20:03 GMT | Precision & Recall in Detection Engineering | RootXover | [Read More](https://medium.com/p/0cf31350e421) |
+| Sun, 25 Jan 2026 18:14:23 GMT | Your Multimodal LLM Can Be Fooled by Invisible Noise — Here’s a Way to Provably Stop That | Joqim | [Read More](https://medium.com/p/6b49f4987ce0) |
+| Sun, 25 Jan 2026 18:08:36 GMT | AWS Multi-tier infrastructure automation using Terraform + GHA | Coleo7o7o7 | [Read More](https://medium.com/p/3f73ca86f2e3) |
+| Sun, 25 Jan 2026 18:06:50 GMT | Blind XSS : Even a beginner can understand | Anshkamra | [Read More](https://medium.com/p/8076b6cfce35) |
+| Sun, 25 Jan 2026 18:02:09 GMT | Daily Security Tips Series | Amira | [Read More](https://medium.com/p/2ea9ab33ffa2) |
+| Sun, 25 Jan 2026 18:00:54 GMT | Daily Security Tips Series | Amira | [Read More](https://medium.com/p/c0c185f5362c) |
+| Sun, 25 Jan 2026 17:54:47 GMT | The Warning | Thiago Holmes | [Read More](https://medium.com/p/ed2aee5fec97) |
+| Sun, 25 Jan 2026 17:50:15 GMT | Understanding Rising LinkedIn Scams | BlueTeam Bytes | [Read More](https://medium.com/p/ed2574030d67) |
+| Sun, 25 Jan 2026 17:48:07 GMT | The Server From Hell — THM Writeup | Benneqs | [Read More](https://medium.com/p/f318c51170c3) |
+| Sun, 25 Jan 2026 17:46:47 GMT | Cyber Security Company in UAE — Defense Numerique Protecting Digital Businesses in Dubai | RexGo SEO | [Read More](https://medium.com/p/85a0eb8df6e1) |
+| Sun, 25 Jan 2026 17:46:07 GMT | n8n: CVE-2025–68613 | q1mthi | [Read More](https://medium.com/p/ec909cefa35d) |
+| Sun, 25 Jan 2026 17:39:20 GMT | Cybersec Ledger January 25, 2026 | Tier Zero Defense | [Read More](https://medium.com/p/7bb57b7e4117) |
 | Sun, 25 Jan 2026 17:25:33 GMT | Agentic AI Is Coming to the SOC: What New Analysts Need to Learn | Identity Bytes | [Read More](https://medium.com/p/792ecbac6ff1) |
 | Sun, 25 Jan 2026 17:24:01 GMT | How I hacked NASA with an RCE!!! | Rubayet Hasan aka MR_Prey3r | [Read More](https://medium.com/p/5e764ed54dea) |
 | Sun, 25 Jan 2026 17:23:10 GMT | Secure SDLC: From Continuous Development to Secure Software Delivery | Siddiquimohammad | [Read More](https://medium.com/p/e0fd047fb0b2) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 11:46:16 GMT | Corporate Due Diligence: The Wbgzx Regulatory Framework and Operational Assessment | Certification Flow Laboratories | [Read More](https://medium.com/p/345c4656bcd8) |
 | Sun, 25 Jan 2026 11:45:53 GMT | Siber Dayanıklılık Tüzüğü | Duygu Fidancıoğlu | [Read More](https://medium.com/p/3281f2ea856e) |
 | Sun, 25 Jan 2026 11:22:37 GMT | Firmalyzer: A Comprehensive Automated Framework for IoT Firmware Security Analysis | Ismail Tasdelen | [Read More](https://medium.com/p/dc64ae4caae8) |
-| Sun, 25 Jan 2026 11:19:24 GMT | TryHackMe: Internal | Root_Fabric | [Read More](https://medium.com/p/c01444cb3657) |
-| Sun, 25 Jan 2026 11:18:28 GMT | Role of Technology in Job Creation | Taziz Aziz | [Read More](https://medium.com/p/d82ab5ad7387) |
-| Sun, 25 Jan 2026 11:05:38 GMT | The Architect’s Blueprint: Building a Secure 2-Tier AWS Infrastructure from Scratch with Terraform | rootRS7 | [Read More](https://medium.com/p/6e559d08f38c) |
-| Sun, 25 Jan 2026 11:05:16 GMT | Forking Concepts, Not Code: Why I Choosing Simplicity Over Industry Standards | Khwaja Faraz | [Read More](https://medium.com/p/70dedb969ebd) |
-| Sun, 25 Jan 2026 10:58:07 GMT | Free Tools Hackers HATE (You Need These NOW!) | cybrNK | [Read More](https://medium.com/p/f35f7f4deb1a) |
-| Sun, 25 Jan 2026 10:57:33 GMT | 9 Powerful Checks After CVE-2026–20805 Patch | Pentest_Testing_Corp | [Read More](https://medium.com/p/47c821d40a54) |
-| Sun, 25 Jan 2026 10:56:35 GMT | The 149 Million Password Leak: A Wake-Up Call for the Digital Age | Karthikeyan | [Read More](https://medium.com/p/7c640b104c33) |
-| Sun, 25 Jan 2026 10:45:07 GMT | The Free Postgres Hack Devs Need Now!!! | cybrNK | [Read More](https://medium.com/p/b0eda5d404f3) |
-| Sun, 25 Jan 2026 10:41:47 GMT | Do you suspect your spouse of cheating? | Kaylee Bell | [Read More](https://medium.com/p/811d9f906a13) |
-| Sun, 25 Jan 2026 10:38:26 GMT | Why Most Permission Systems Collapse | Darshit Kothari | [Read More](https://medium.com/p/d7bf86c1acf1) |
-| Sun, 25 Jan 2026 10:36:54 GMT | Tryhackme SimpleCTF Write-Up | Kandemirryigit | [Read More](https://medium.com/p/61c002c43271) |
-| Sun, 25 Jan 2026 10:36:38 GMT | The rise of “non-human identities” | h@shtalk | [Read More](https://medium.com/p/514fe6b6a627) |
-| Sun, 25 Jan 2026 10:31:00 GMT | When Your Web Server Thinks It’s Being Attacked | AstroPema AI LLC | [Read More](https://medium.com/p/fb7fb2e43d15) |
-| Sun, 25 Jan 2026 10:28:10 GMT | Why I Stopped Uploading My Private PDFs to “Free Online Editors” (And Built a Local Alternative) | Matteo Abbamonte | [Read More](https://medium.com/p/4f3b8f5b9131) |
-| Sun, 25 Jan 2026 10:21:16 GMT | Zeroisation in Cybersecurity : The Simple Security Practice That Keeps Your Data Truly Safe | Amanpreet Singh | [Read More](https://medium.com/p/b1524b95f757) |
