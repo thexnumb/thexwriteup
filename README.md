@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 09:07:47 GMT | Moniker Link (CVE-2024–21413) | Tejas Bhujbal | [Read More](https://medium.com/p/521ce99a6636) |
+| Sun, 25 Jan 2026 09:05:09 GMT | You Are Loved. You Belong. | VagamoodSundaze | [Read More](https://medium.com/p/1d9952856903) |
+| Sun, 25 Jan 2026 09:04:21 GMT | I Tried Every “Make Money Online” Idea I Could Find — Here’s the Truth | Vijay Kumar Gupta | [Read More](https://medium.com/p/461f6fc089aa) |
+| Sun, 25 Jan 2026 09:04:07 GMT | From Stored XSS to RCE - HackTheBox Imagery Writeup | Motasem Hamdan | [Read More](https://medium.com/p/86d660d38774) |
+| Sun, 25 Jan 2026 09:02:09 GMT | The Mask We Wear to Survive | Oluwatomisin Pokuaa Phillips | [Read More](https://medium.com/p/2e9d361412d9) |
+| Sun, 25 Jan 2026 09:02:03 GMT | API Tutorial: Add a Credential Leak Check to Your App in 10 Lines of Code | Alexandre Vandamme | [Read More](https://medium.com/p/a9ef42bee2ee) |
+| Sun, 25 Jan 2026 08:56:54 GMT | TikTok is Officially American: 5 Things That Just Changed on Your For You Page. | Technologia | [Read More](https://medium.com/p/b4ebceca23d2) |
+| Sun, 25 Jan 2026 08:53:50 GMT | Policies Don’t Fail — Context Does | David Anderson | [Read More](https://medium.com/p/e27b1cc8a05f) |
+| Sun, 25 Jan 2026 08:49:31 GMT | Microsoft Gave BitLocker Encryption Keys to the FBI, and Most Windows Users May Not Know This | Mike Broadly, DHSc | [Read More](https://medium.com/p/0f4c4e911929) |
+| Sun, 25 Jan 2026 08:44:35 GMT | Why I chose Azure Sentinel: A student’s perspective | Erdem Keles | [Read More](https://medium.com/p/304ae980c5ab) |
+| Sun, 25 Jan 2026 08:31:11 GMT | How I Passed the eJPT v2 Exam on My First Attempt? | Saif Makharzeh | [Read More](https://medium.com/p/1d6e71819aeb) |
+| Sun, 25 Jan 2026 08:19:14 GMT | HAWA: Turning Invisible Air Pollution into Actionable Intelligence | Hawa | [Read More](https://medium.com/p/955b4c85d8c1) |
 | Sun, 25 Jan 2026 08:14:41 GMT | Artificial Intelligence Career Scope in India | Manisha Chaudhary | [Read More](https://medium.com/p/1438a3547c57) |
 | Sun, 25 Jan 2026 08:12:03 GMT | The 70% Fix: How Microsoft is Using Rust to Quietly Eliminate Windows’ Deadliest Bugs ️ | Puneet | [Read More](https://medium.com/p/02bc047149cd) |
 | Sun, 25 Jan 2026 08:10:01 GMT | Why Users Quit Before the First Click | Anton Minin Baranovskii | [Read More](https://medium.com/p/974e3124f2ea) |
@@ -28,6 +40,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 07:04:33 GMT | Cyber Hygiene in 2026: A Practical Security Checklist for Everyday Users | Wnellygrace | [Read More](https://medium.com/p/19ed00f55cd3) |
 | Sun, 25 Jan 2026 07:02:30 GMT | What Exactly is DNS Tunneling? | Abhay Parashar | [Read More](https://medium.com/p/c1b867e0884b) |
 | Sun, 25 Jan 2026 06:59:48 GMT | When Festive Emails Turn Risky: Inside the Christmas Phishing Surge Using DocuSign Spoofing | Deven Chhajed | [Read More](https://medium.com/p/b842afe56db9) |
+| Sun, 25 Jan 2026 06:43:31 GMT | Spyware Abused, No Lesson Learned | Wissamdouglas | [Read More](https://medium.com/p/327b8c3262a8) |
 | Sun, 25 Jan 2026 06:34:14 GMT | Building Two-Factor Authentication (2FA) Using Authenticator Apps in Node.js and React | Ankit Jangra | [Read More](https://medium.com/p/773e72e759ce) |
 | Sun, 25 Jan 2026 06:21:33 GMT | Deserialization and magic methods | Gaby zaafrani | [Read More](https://medium.com/p/c636d7088acd) |
 | Sun, 25 Jan 2026 06:13:38 GMT | An Introduction to the MITRE ATT&CK Framework | Ankita Sinha | [Read More](https://medium.com/p/beafab69f7c3) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 20:39:37 GMT | There is something cybersecurity teaches that has nothing to do with tools, passwords, or settings. | Aderinsola Amode | [Read More](https://medium.com/p/a9ea31b7b4fd) |
 | Sat, 24 Jan 2026 20:26:55 GMT | 30 Days of Red Team: Day 19 — Network Pivoting: Reaching the Unreachable | Maxwell Cross | [Read More](https://medium.com/p/bd082b3906a2) |
 | Sat, 24 Jan 2026 20:20:08 GMT | Blind Boolean-Based Prompt Injection | Daniel Hammon | [Read More](https://medium.com/p/62a3bfc38101) |
-| Sat, 24 Jan 2026 20:13:10 GMT | Secure Kubernetes Deployment Guide (Self-Managed) — Part X | SOCFortress | [Read More](https://medium.com/p/121b41fa4bfe) |
-| Sat, 24 Jan 2026 19:50:23 GMT | THM — Reversing ELF | Sagar Joshi | [Read More](https://medium.com/p/08739074a3f3) |
-| Sat, 24 Jan 2026 19:29:45 GMT | SQLMap Essentials: Your Practical Guide to Automated SQL Injection Testing | Faisal Shahzad | [Read More](https://medium.com/p/719a37e25737) |
-| Sat, 24 Jan 2026 19:29:09 GMT | Issues currently facing the Cyber Cell. | Mag Num | [Read More](https://medium.com/p/c6c8dd2026c6) |
-| Sat, 24 Jan 2026 19:23:42 GMT | The Multi-Bug Streak: Uncovering 4 Vulnerabilities on a Single Target | Samet Yiğit | [Read More](https://medium.com/p/1b4daa50dad2) |
-| Sat, 24 Jan 2026 19:11:23 GMT | Telnetd auth-bypass to root | Shivam Bathla | [Read More](https://medium.com/p/f6e239d692b5) |
-| Sat, 24 Jan 2026 19:06:55 GMT | Beware! Mumbai Woman Believed She Was Chatting with Elon Musk and Lost 16 Lakh… | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/93656a2fb433) |
-| Sat, 24 Jan 2026 18:57:14 GMT | Turning an Image Upload Into a Site-Wide Stored XSS | OopsSec Store | [Read More](https://medium.com/p/60f39c82e827) |
-| Sat, 24 Jan 2026 18:55:25 GMT | Basic Kali -Linux Commands for Ethical Hacking (Part-7) | Akhil Thakur | [Read More](https://medium.com/p/32ee1c5bd30b) |
-| Sat, 24 Jan 2026 18:52:29 GMT | Active Directory Lab for PenTest. Manual Deployment Guide | Andrey Pautov | [Read More](https://medium.com/p/cab28cd4ad8d) |
-| Sat, 24 Jan 2026 18:45:33 GMT | Decrypting HTTPS Traffic on Linux Using SSL Key Logging | Famous Areguamen | [Read More](https://medium.com/p/254eda15d536) |
-| Sat, 24 Jan 2026 18:42:42 GMT | The Drug Testing Loophole Putting Your Freight at Risk | Heesham Naji | [Read More](https://medium.com/p/6df21a57fc72) |
-| Sat, 24 Jan 2026 18:33:16 GMT | Extracting Information From Facebook’s Locked Profile and Private Account on Instagram | Nazrul Islam Rana | [Read More](https://medium.com/p/79e3085d427f) |
