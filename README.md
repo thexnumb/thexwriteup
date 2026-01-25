@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 08:14:41 GMT | Artificial Intelligence Career Scope in India | Manisha Chaudhary | [Read More](https://medium.com/p/1438a3547c57) |
+| Sun, 25 Jan 2026 08:12:03 GMT | The 70% Fix: How Microsoft is Using Rust to Quietly Eliminate Windows’ Deadliest Bugs ️ | Puneet | [Read More](https://medium.com/p/02bc047149cd) |
+| Sun, 25 Jan 2026 08:10:01 GMT | Why Users Quit Before the First Click | Anton Minin Baranovskii | [Read More](https://medium.com/p/974e3124f2ea) |
+| Sun, 25 Jan 2026 08:01:50 GMT | International Relations Series #2 | bobosjourney1 | [Read More](https://medium.com/p/e00bd67b61d1) |
+| Sun, 25 Jan 2026 07:59:29 GMT | The Ghost in the Machine: The Dangerous Tradeoff of Agentic AI | Mehmet Turgay AKALIN | [Read More](https://medium.com/p/8bed8737da06) |
+| Sun, 25 Jan 2026 07:53:01 GMT | Windows Operating Systems for Enterprises: Everything IT Teams Need to Know | Angie Winter | [Read More](https://medium.com/p/05e156151146) |
+| Sun, 25 Jan 2026 07:50:15 GMT | CISA Adds VMware vCenter CVE-2024–37079 to the KEV Catalog: Why This One Deserves a “Patch-Now”… | Germano Costi | [Read More](https://medium.com/p/ee9848d37f03) |
+| Sun, 25 Jan 2026 07:49:42 GMT | I guess I love you a bit too much – | Dinda | [Read More](https://medium.com/p/35d831084ed3) |
+| Sun, 25 Jan 2026 07:42:00 GMT | The Hidden Danger in a One-Line Regex (ReDoS Explained) | Parvez Ahammed | [Read More](https://medium.com/p/6251099f0aa1) |
+| Sun, 25 Jan 2026 07:34:12 GMT | Watching the gig economy of deceit: Has disinformation become mere content on social media? | Gross Eduard | [Read More](https://medium.com/p/a4c9c8e8d887) |
+| Sun, 25 Jan 2026 07:31:32 GMT | Node: 1 — OSCP Raw - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/669d5d11c089) |
+| Sun, 25 Jan 2026 07:28:09 GMT | Microsoft Windows OS Roadmap: Key Updates & Business Preparation Guide | Saul Pearson | [Read More](https://medium.com/p/82fe93fbe51e) |
 | Sun, 25 Jan 2026 07:22:01 GMT | A Hack as a Success Metric: Why the SAVVA Project Is Celebrating a $29 Loss | Elena Gerasenkova | [Read More](https://medium.com/p/67419207110e) |
 | Sun, 25 Jan 2026 07:04:33 GMT | Cyber Hygiene in 2026: A Practical Security Checklist for Everyday Users | Wnellygrace | [Read More](https://medium.com/p/19ed00f55cd3) |
 | Sun, 25 Jan 2026 07:02:30 GMT | What Exactly is DNS Tunneling? | Abhay Parashar | [Read More](https://medium.com/p/c1b867e0884b) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 18:45:33 GMT | Decrypting HTTPS Traffic on Linux Using SSL Key Logging | Famous Areguamen | [Read More](https://medium.com/p/254eda15d536) |
 | Sat, 24 Jan 2026 18:42:42 GMT | The Drug Testing Loophole Putting Your Freight at Risk | Heesham Naji | [Read More](https://medium.com/p/6df21a57fc72) |
 | Sat, 24 Jan 2026 18:33:16 GMT | Extracting Information From Facebook’s Locked Profile and Private Account on Instagram | Nazrul Islam Rana | [Read More](https://medium.com/p/79e3085d427f) |
-| Sat, 24 Jan 2026 18:27:07 GMT | ️‍♂️ HTB: Footprinting Lab — Medium (Walkthrough) | Moulishwar vs | [Read More](https://medium.com/p/a0a35c64a9fd) |
-| Sat, 24 Jan 2026 18:18:50 GMT | A State of Exposure | Tantya Ani | [Read More](https://medium.com/p/027fe7980d6a) |
-| Sat, 24 Jan 2026 18:16:59 GMT | Unveiling Access Control Exploits: Why They Top Web3 Hack Lists Year After Year | Exploitless | [Read More](https://medium.com/p/19bb0bb3a43d) |
-| Sat, 24 Jan 2026 18:06:03 GMT | How I Got CVE-2025–53092: Technical Overview | ghostvirus | [Read More](https://medium.com/p/ba0963b2958d) |
-| Sat, 24 Jan 2026 18:03:48 GMT | Certificate validation, some quick tips. | Carlos Minda | [Read More](https://medium.com/p/3c47d0582c9b) |
-| Sat, 24 Jan 2026 18:00:39 GMT | How to Find Security Guard Services Los Angeles for Emergency Patrols? | GuardLine Chronicles | [Read More](https://medium.com/p/d1f10d27e68d) |
-| Sat, 24 Jan 2026 17:59:51 GMT | When “Gmail Passwords” Start Trending: What the News Really Means — and What You Should Do | Muhammad Saeed | [Read More](https://medium.com/p/97143c6f74ee) |
-| Sat, 24 Jan 2026 17:50:26 GMT | 5 AI predictions for 2026 | Matt Simmons | [Read More](https://medium.com/p/bf3eaebddf8a) |
-| Sat, 24 Jan 2026 17:50:14 GMT | Lessons Adults Forget. | inkkernel | [Read More](https://medium.com/p/8d37cba96cce) |
-| Sat, 24 Jan 2026 17:42:49 GMT | Snort: A Step-by-Step Guide to Writing and Testing Simple Rules | Jasstej Singh | [Read More](https://medium.com/p/17b6c6a03c25) |
-| Sat, 24 Jan 2026 17:42:00 GMT | TryHackMe Cyber Kill Chain Walkthrough | Kamal Kishor Mahto | [Read More](https://medium.com/p/e345036f6dae) |
-| Sat, 24 Jan 2026 17:40:40 GMT | Beyond the 7 Laws of Information | Chris Twellmann | [Read More](https://medium.com/p/b20f78b3afb7) |
