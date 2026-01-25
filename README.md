@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 11:18:28 GMT | Role of Technology in Job Creation | Taziz Aziz | [Read More](https://medium.com/p/d82ab5ad7387) |
+| Sun, 25 Jan 2026 11:05:38 GMT | The Architect’s Blueprint: Building a Secure 2-Tier AWS Infrastructure from Scratch with Terraform | rootRS7 | [Read More](https://medium.com/p/6e559d08f38c) |
+| Sun, 25 Jan 2026 11:05:16 GMT | Forking Concepts, Not Code: Why I Choosing Simplicity Over Industry Standards | Khwaja Faraz | [Read More](https://medium.com/p/70dedb969ebd) |
+| Sun, 25 Jan 2026 10:58:07 GMT | Free Tools Hackers HATE (You Need These NOW!) | cybrNK | [Read More](https://medium.com/p/f35f7f4deb1a) |
+| Sun, 25 Jan 2026 10:57:33 GMT | 9 Powerful Checks After CVE-2026–20805 Patch | Pentest_Testing_Corp | [Read More](https://medium.com/p/47c821d40a54) |
+| Sun, 25 Jan 2026 10:56:35 GMT | The 149 Million Password Leak: A Wake-Up Call for the Digital Age | Karthikeyan | [Read More](https://medium.com/p/7c640b104c33) |
+| Sun, 25 Jan 2026 10:45:07 GMT | The Free Postgres Hack Devs Need Now!!! | cybrNK | [Read More](https://medium.com/p/b0eda5d404f3) |
 | Sun, 25 Jan 2026 10:41:47 GMT | Do you suspect your spouse of cheating? | Kaylee Bell | [Read More](https://medium.com/p/811d9f906a13) |
 | Sun, 25 Jan 2026 10:38:26 GMT | Why Most Permission Systems Collapse | Darshit Kothari | [Read More](https://medium.com/p/d7bf86c1acf1) |
 | Sun, 25 Jan 2026 10:36:54 GMT | Tryhackme SimpleCTF Write-Up | Kandemirryigit | [Read More](https://medium.com/p/61c002c43271) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 23:59:29 GMT | File Transfer Methods | Saqlain Naqvi | [Read More](https://medium.com/p/d4474d924a72) |
 | Sat, 24 Jan 2026 23:57:16 GMT | Active Directory Pentesting — Pt.1 | serkanbenol | [Read More](https://medium.com/p/42b613266c2f) |
 | Sat, 24 Jan 2026 23:56:35 GMT | On to the Tactical Tier, Modularity begins here… | CoffeeCloud Series | [Read More](https://medium.com/p/3594f5cd2c74) |
-| Sat, 24 Jan 2026 23:41:29 GMT | Protecting AI Models in Cloud Storage | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/519456466ccb) |
-| Sat, 24 Jan 2026 23:39:44 GMT | Building a “Privacy-First” AI Red Team Assistant: A Hybrid Architecture with Ollama & Kali Linux | Kaizen | [Read More](https://medium.com/p/880215f38844) |
-| Sat, 24 Jan 2026 23:19:13 GMT | How I Built a Local Uncensored AI Stack for Red Teaming in 2026 (Full Guide) | Saad Khalid | [Read More](https://medium.com/p/a84bedfa4021) |
-| Sat, 24 Jan 2026 23:16:58 GMT | Is It Safe to Share Your Internet Bandwidth? Risks, Myths, and What Actually Happens | Cw222444 | [Read More](https://medium.com/p/1ae262bc0d76) |
-| Sat, 24 Jan 2026 23:07:06 GMT | Cybersecurity Writing Niches With High Buyer Intent | Ms. Byte Dev | [Read More](https://medium.com/p/be4bedc790b5) |
-| Sat, 24 Jan 2026 23:02:52 GMT | technolgie and futureof technologie | Moussachouikh | [Read More](https://medium.com/p/87b11780de36) |
-| Sat, 24 Jan 2026 22:56:55 GMT | I Cracked WCW’s 25-Year-Old Encryption in 43 Minutes. The Cipher Was Just Subtraction. | Blake Bratcher | [Read More](https://medium.com/p/81de6b159045) |
