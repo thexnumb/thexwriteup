@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 19:13:36 GMT | The 50-Cent Hacker: How I Built a Cyber Career on a Budget Phone and No Internet | Ghouti yelles chaouche | [Read More](https://medium.com/p/3a0e32ba4ad3) |
+| Sun, 25 Jan 2026 19:01:14 GMT | Why 90% of CISSP Candidates Fail This One Question (And How to Be in the 10% Who Don’t) | Pushpak Sharma | [Read More](https://medium.com/p/6de894c968c7) |
+| Sun, 25 Jan 2026 18:57:38 GMT | GitHub Needs a Meaning first Makeover in 2026 | Anish Gupta | [Read More](https://medium.com/p/d3fb4d42e27d) |
+| Sun, 25 Jan 2026 18:56:26 GMT | The First Shift CTF | hackerboi | [Read More](https://medium.com/p/8ecb84fc8ce1) |
+| Sun, 25 Jan 2026 18:52:42 GMT | Active Directory for IT Support: Why I Built This Lab and What I Learned | Dre | [Read More](https://medium.com/p/2297eae466ed) |
+| Sun, 25 Jan 2026 18:47:19 GMT | Trudeau’s Inexcusable Silence towards Cybersecurity | teammimi lee | [Read More](https://medium.com/p/73eacea12583) |
+| Sun, 25 Jan 2026 18:45:41 GMT | Decentralized Codex Security: The Trusted Name in Crypto Asset Recovery. | Germanytrader | [Read More](https://medium.com/p/9d14323353d5) |
+| Sun, 25 Jan 2026 18:37:51 GMT | Beyond CVSS: How Machine Learning and Semantic Embeddings Are Revolutionizing Vulnerability… | Zainab Ikhwan | [Read More](https://medium.com/p/c06ca7c1a4ab) |
+| Sun, 25 Jan 2026 18:37:15 GMT | Deep-Dive PII , Analyzing Impact and Reporting (Part 3/3 ) | Cybersecplayground | [Read More](https://medium.com/p/1f4c354a2071) |
 | Sun, 25 Jan 2026 18:25:12 GMT | SOC HomeLab — Part 2 (Setting up Wazuh) | Archit Vats | [Read More](https://medium.com/p/f7fae19ec9ee) |
 | Sun, 25 Jan 2026 18:24:36 GMT | SOC HomeLab — Part 1 (Introduction) | Archit Vats | [Read More](https://medium.com/p/c2a5ae24b81a) |
 | Sun, 25 Jan 2026 18:20:12 GMT | Getting Started with Penetration Testing (Pentest) — A Beginner’s Guide | Numanhan Duran | [Read More](https://medium.com/p/8f7b708a3ac4) |
@@ -95,6 +104,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 13:44:11 GMT | Every iPhone 17E Rumor and Leak That I Found: Dynamic Island, MagSafe and More | Rana Grip | [Read More](https://medium.com/p/119d593745b6) |
 | Sun, 25 Jan 2026 13:40:47 GMT | Membangun Home Lab Penetration Testing: Panduan Instalasi Kali Linux di Oracle Virtual Box | Ibnu Dwiki Hermawan | [Read More](https://medium.com/p/60a88bc9860c) |
 | Sun, 25 Jan 2026 13:32:27 GMT | Zero Trust Architecture: More Than Just a Buzzword. | Mubashir | [Read More](https://medium.com/p/9a0234b414d1) |
+| Sun, 25 Jan 2026 13:18:23 GMT | How To Spot Real vs. Fake Crypto Trading Platforms | Isabel Pérez | [Read More](https://medium.com/p/c6a900052ce9) |
 | Sun, 25 Jan 2026 13:12:54 GMT | Understanding FIDO2, WebAuthn, and Passkeys | Alf Løkken | [Read More](https://medium.com/p/9c272d31f144) |
 | Sun, 25 Jan 2026 13:11:25 GMT | Breaches Are Inevitable. Lateral Movement Is Optional. | Ayush Arora | [Read More](https://medium.com/p/f6f447406c42) |
 | Sun, 25 Jan 2026 13:02:51 GMT | Understanding a Chrome Use-After-Free Vulnerability: A Project Zero Case Study | Evelinkim | [Read More](https://medium.com/p/4c9747b53983) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 12:52:32 GMT | Howden Launches US Cyber Practice to Boost Corporate Risk | VISIONARIES NETWORK LLC | [Read More](https://medium.com/p/c5631ba1efbc) |
 | Sun, 25 Jan 2026 12:51:36 GMT | The Only Tools I Use — And How I Chain Them Into Real Attack Paths | P Sam Tarun | [Read More](https://medium.com/p/f994bddda099) |
 | Sun, 25 Jan 2026 12:34:09 GMT | Cyber Risks in MSMEs – Ignored, Underestimated, Exploited | Ankit rai | [Read More](https://medium.com/p/2588d7c977c7) |
-| Sun, 25 Jan 2026 12:29:18 GMT | Securing REST API Endpoints with OAuth 2.0 and Keycloak Client Scopes | Florian Röser | [Read More](https://medium.com/p/b5979702472a) |
-| Sun, 25 Jan 2026 12:11:04 GMT | MITRE ATT&CK Explained: How Real Cyber Attacks Actually Happen | CipherX9F Security | [Read More](https://medium.com/p/05128dd8833e) |
-| Sun, 25 Jan 2026 12:10:14 GMT | Host & Network Penetration Testing: Post-Exploitation CTF 1 — INE | srthk | [Read More](https://medium.com/p/6d139661ffdc) |
-| Sun, 25 Jan 2026 12:06:45 GMT | CafeClub Writeup (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/aca44b33bb58) |
-| Sun, 25 Jan 2026 12:04:26 GMT | Security-as-a-Service: Why Platform Teams Are Becoming Security Owners | Muhammad Yawar Malik | [Read More](https://medium.com/p/b76ccd1aebef) |
-| Sun, 25 Jan 2026 12:02:02 GMT | Stolen Phones & Security: The “Director’s Cut” of My TV Interview | Rommel Jay Gadil | [Read More](https://medium.com/p/610aa400f0b6) |
-| Sun, 25 Jan 2026 11:47:06 GMT | Dark Web Forums Used by Hackers — What Defenders Should Know | Tandelpruthvi | [Read More](https://medium.com/p/4b4b34ef48c3) |
-| Sun, 25 Jan 2026 11:46:16 GMT | Corporate Due Diligence: The Wbgzx Regulatory Framework and Operational Assessment | Certification Flow Laboratories | [Read More](https://medium.com/p/345c4656bcd8) |
-| Sun, 25 Jan 2026 11:45:53 GMT | Siber Dayanıklılık Tüzüğü | Duygu Fidancıoğlu | [Read More](https://medium.com/p/3281f2ea856e) |
-| Sun, 25 Jan 2026 11:22:37 GMT | Firmalyzer: A Comprehensive Automated Framework for IoT Firmware Security Analysis | Ismail Tasdelen | [Read More](https://medium.com/p/dc64ae4caae8) |
