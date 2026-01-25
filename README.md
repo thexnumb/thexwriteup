@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 11:22:37 GMT | Firmalyzer: A Comprehensive Automated Framework for IoT Firmware Security Analysis | Ismail Tasdelen | [Read More](https://medium.com/p/dc64ae4caae8) |
+| Sun, 25 Jan 2026 11:19:24 GMT | TryHackMe: Internal | Root_Fabric | [Read More](https://medium.com/p/c01444cb3657) |
 | Sun, 25 Jan 2026 11:18:28 GMT | Role of Technology in Job Creation | Taziz Aziz | [Read More](https://medium.com/p/d82ab5ad7387) |
 | Sun, 25 Jan 2026 11:05:38 GMT | The Architect’s Blueprint: Building a Secure 2-Tier AWS Infrastructure from Scratch with Terraform | rootRS7 | [Read More](https://medium.com/p/6e559d08f38c) |
 | Sun, 25 Jan 2026 11:05:16 GMT | Forking Concepts, Not Code: Why I Choosing Simplicity Over Industry Standards | Khwaja Faraz | [Read More](https://medium.com/p/70dedb969ebd) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 00:06:49 GMT | Securing Multimodal AI Systems in the Cloud (Video + Audio + Text) | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/5e6dcbe6d61f) |
 | Sun, 25 Jan 2026 00:05:31 GMT | My experience of Hack the Box’s Cyber Apocalypse CTF 2025: Tales from Eldoria | Srihari N Narayan | [Read More](https://medium.com/p/502896537fb6) |
 | Sat, 24 Jan 2026 23:59:29 GMT | File Transfer Methods | Saqlain Naqvi | [Read More](https://medium.com/p/d4474d924a72) |
-| Sat, 24 Jan 2026 23:57:16 GMT | Active Directory Pentesting — Pt.1 | serkanbenol | [Read More](https://medium.com/p/42b613266c2f) |
-| Sat, 24 Jan 2026 23:56:35 GMT | On to the Tactical Tier, Modularity begins here… | CoffeeCloud Series | [Read More](https://medium.com/p/3594f5cd2c74) |
