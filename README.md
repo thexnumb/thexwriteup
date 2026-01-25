@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 15:28:00 GMT | Coupang’s Data Fiasco and the Costs of Digital Sovereignty | James Paek | [Read More](https://medium.com/p/f4074093c4b3) |
+| Sun, 25 Jan 2026 15:25:15 GMT | PRIVILEGE ESCALATION TESPİTİ: Wazuh ile Log Tabanlı Bir Detection Yaklaşımı | dilan alpaltun | [Read More](https://medium.com/p/b2cf3779281b) |
+| Sun, 25 Jan 2026 15:24:46 GMT | Security Management, File Management & User–Kernel Architecture: An In-Depth Operating Systems Guid | Shalu | [Read More](https://medium.com/p/d1d03273c5e9) |
+| Sun, 25 Jan 2026 15:21:33 GMT | Learn AWS Billing, Monitoring & VPC in One Shot | Vidhi Jayeswal | [Read More](https://medium.com/p/6b355fcaadb5) |
+| Sun, 25 Jan 2026 15:18:32 GMT | I Taught AI to Hack My Apps (So the Bad Guys Can’t) | Rifky Ekayama | [Read More](https://medium.com/p/4ed4bf0cc533) |
 | Sun, 25 Jan 2026 15:11:05 GMT | Stop Mac Slowdowns With Smarter Storage Control | Geoffrey Wenger | [Read More](https://medium.com/p/e536c97c2175) |
 | Sun, 25 Jan 2026 15:09:56 GMT | Protecting floralhorizon.sg (and other hobby projects) | Kahhow | [Read More](https://medium.com/p/119076886a27) |
 | Sun, 25 Jan 2026 15:02:05 GMT | Node.js API Security That Survives the Real World | Bhagya Rana | [Read More](https://medium.com/p/54b191edfd57) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 08:14:41 GMT | Artificial Intelligence Career Scope in India | Manisha Chaudhary | [Read More](https://medium.com/p/1438a3547c57) |
 | Sun, 25 Jan 2026 08:12:03 GMT | The 70% Fix: How Microsoft is Using Rust to Quietly Eliminate Windows’ Deadliest Bugs ️ | Puneet | [Read More](https://medium.com/p/02bc047149cd) |
 | Sun, 25 Jan 2026 08:10:01 GMT | Why Users Quit Before the First Click | Anton Minin Baranovskii | [Read More](https://medium.com/p/974e3124f2ea) |
-| Sun, 25 Jan 2026 08:01:50 GMT | International Relations Series #2 | bobosjourney1 | [Read More](https://medium.com/p/e00bd67b61d1) |
-| Sun, 25 Jan 2026 07:59:29 GMT | The Ghost in the Machine: The Dangerous Tradeoff of Agentic AI | Mehmet Turgay AKALIN | [Read More](https://medium.com/p/8bed8737da06) |
-| Sun, 25 Jan 2026 07:53:01 GMT | Windows Operating Systems for Enterprises: Everything IT Teams Need to Know | Angie Winter | [Read More](https://medium.com/p/05e156151146) |
-| Sun, 25 Jan 2026 07:50:15 GMT | CISA Adds VMware vCenter CVE-2024–37079 to the KEV Catalog: Why This One Deserves a “Patch-Now”… | Germano Costi | [Read More](https://medium.com/p/ee9848d37f03) |
-| Sun, 25 Jan 2026 07:49:42 GMT | I guess I love you a bit too much – | Dinda | [Read More](https://medium.com/p/35d831084ed3) |
