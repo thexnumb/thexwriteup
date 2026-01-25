@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 07:04:33 GMT | Cyber Hygiene in 2026: A Practical Security Checklist for Everyday Users | Wnellygrace | [Read More](https://medium.com/p/19ed00f55cd3) |
+| Sun, 25 Jan 2026 07:02:30 GMT | What Exactly is DNS Tunneling? | Abhay Parashar | [Read More](https://medium.com/p/c1b867e0884b) |
+| Sun, 25 Jan 2026 06:59:48 GMT | When Festive Emails Turn Risky: Inside the Christmas Phishing Surge Using DocuSign Spoofing | Deven Chhajed | [Read More](https://medium.com/p/b842afe56db9) |
+| Sun, 25 Jan 2026 06:34:14 GMT | Building Two-Factor Authentication (2FA) Using Authenticator Apps in Node.js and React | Ankit Jangra | [Read More](https://medium.com/p/773e72e759ce) |
 | Sun, 25 Jan 2026 06:21:33 GMT | Deserialization and magic methods | Gaby zaafrani | [Read More](https://medium.com/p/c636d7088acd) |
 | Sun, 25 Jan 2026 06:13:38 GMT | An Introduction to the MITRE ATT&CK Framework | Ankita Sinha | [Read More](https://medium.com/p/beafab69f7c3) |
 | Sun, 25 Jan 2026 06:03:19 GMT | “The Wi-Fi You Trusted Was a Trap” | ghostyjoe | [Read More](https://medium.com/p/6a759be7fda7) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 17:42:00 GMT | TryHackMe Cyber Kill Chain Walkthrough | Kamal Kishor Mahto | [Read More](https://medium.com/p/e345036f6dae) |
 | Sat, 24 Jan 2026 17:40:40 GMT | Beyond the 7 Laws of Information | Chris Twellmann | [Read More](https://medium.com/p/b20f78b3afb7) |
 | Sat, 24 Jan 2026 17:33:50 GMT | HTTP Fundamentals & Why Most Web Attacks Still Work | Adefokun Israel | [Read More](https://medium.com/p/bd346f7e6833) |
-| Sat, 24 Jan 2026 17:30:46 GMT | CVE Quality-by-Design Manifesto | @boblord | [Read More](https://medium.com/p/d3386dcff48e) |
-| Sat, 24 Jan 2026 17:24:21 GMT | Critical Cybersecurity Alert: Fortinet FortiGate Firewalls Are Being Actively Exploited-Even When… | Chetan Seripally | [Read More](https://medium.com/p/a9edc5e02b80) |
-| Sat, 24 Jan 2026 17:19:37 GMT | Cyber Defense in 2030 - What the Next Wave of Attacks Will Look Like | Shahzaib | [Read More](https://medium.com/p/866bd41794f5) |
-| Sat, 24 Jan 2026 17:13:44 GMT | How are we feeling today? | bipolar pluto | [Read More](https://medium.com/p/97ca5c1440a2) |
