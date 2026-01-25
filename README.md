@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 05:38:37 GMT | Introduction | Cyberhawk Consultancy | [Read More](https://medium.com/p/6563880c2120) |
+| Sun, 25 Jan 2026 05:24:35 GMT | Cyber Sherlock Weekly Briefing: Becoming the Ultimate Guardian of the Digital Realm 25 January 2026 | Sujon Al Mamun | [Read More](https://medium.com/p/fffa14a45619) |
+| Sun, 25 Jan 2026 05:16:33 GMT | The Windows Security Journey — Secure Kernel | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/8838a1d2a5c2) |
+| Sun, 25 Jan 2026 05:05:06 GMT | From a Food Delivery Rider to Passing The OSCP on the First Attempt in a Year- OSCP+: A Self-Taught… | Solynth.exe | [Read More](https://medium.com/p/1ed1932313d4) |
 | Sun, 25 Jan 2026 04:59:03 GMT | What Humans Require: Physical Safety & Security (Trump Edition) | David Speakman | [Read More](https://medium.com/p/7e90a6821dff) |
+| Sun, 25 Jan 2026 04:58:10 GMT | The MVP landing zone blueprint: guardrails that defend delivery speed | Practical IT | [Read More](https://medium.com/p/d0d5927e0dee) |
 | Sun, 25 Jan 2026 04:43:12 GMT | DAY-3(RUST PROGRAMMING) | vulnhunter | [Read More](https://medium.com/p/2043f102f439) |
 | Sun, 25 Jan 2026 03:46:56 GMT | 10²⁴ Years of Computation in Under 5 Minutes | Sidharth Dhawan | [Read More](https://medium.com/p/bcb2ab0ba705) |
 | Sun, 25 Jan 2026 03:44:31 GMT | Every Cyber Attack Tells a Story — The Diamond Model Explains It | Ankita Sinha | [Read More](https://medium.com/p/5324ba7d4432) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 17:03:28 GMT | How I Found 3 Critical Reflected XSS Bugs Using Simple URL Encoding Tricks | Ahmad Suhendra | [Read More](https://medium.com/p/215d1c33bbea) |
 | Sat, 24 Jan 2026 17:03:00 GMT | React2Shell (CVE-2025–55182): Anatomy of a Server-Side RCE in React | Eric Blancas | [Read More](https://medium.com/p/59aee77ff12c) |
 | Sat, 24 Jan 2026 16:54:20 GMT | The Irony of Threat Intelligence: Predicting the Future Using the Past | Rishika Desai | [Read More](https://medium.com/p/2c22f1c05f43) |
-| Sat, 24 Jan 2026 16:45:14 GMT | 8Ksec FridaInTheMiddle ios app writeup | bara almustafa | [Read More](https://medium.com/p/b8886968143d) |
-| Sat, 24 Jan 2026 16:43:08 GMT | Building a Production-Ready SIEM Lab: A Comprehensive Wazuh Deployment Guide for SOC Analysts | Vatsal Sapovadiya | [Read More](https://medium.com/p/840b3927aaab) |
-| Sat, 24 Jan 2026 16:25:54 GMT | Year Round Windows Maintenance Keeps Your PC Fast, Safe | Geoffrey Wenger | [Read More](https://medium.com/p/3c0b00793bf9) |
-| Sat, 24 Jan 2026 16:25:52 GMT | Investigating a Major 72m Customer Data Breach: Under Armour Case | Mooki W | [Read More](https://medium.com/p/f2db1deb6b4d) |
-| Sat, 24 Jan 2026 16:17:05 GMT | Rebuilding Day 2 | Technodox10 | [Read More](https://medium.com/p/58126659406c) |
