@@ -12,9 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 22:58:36 GMT | #LifeAmongstBugs02: Intercepting the State’s Secrets | newklei | [Read More](https://medium.com/p/9000297a947c) |
 | Sun, 25 Jan 2026 22:43:27 GMT | PASETO: The Token System That Refuses to Let You Shoot Yourself in the Foot | humam al amin | [Read More](https://medium.com/p/ecea11e362a8) |
 | Sun, 25 Jan 2026 22:42:33 GMT | Hiding Windows APIs in Offensive Security | Yua Mikanana | [Read More](https://medium.com/p/9aeaea2451c5) |
 | Sun, 25 Jan 2026 22:42:13 GMT | As always in every penetration testing engagements we start by reconnaissance and information… | Cyb0rgBytes | [Read More](https://medium.com/p/04bf8744dc7e) |
+| Sun, 25 Jan 2026 22:39:34 GMT | Weekly Cyber Threat Bulletin: 25 January 2026 | Marcelle Lee | [Read More](https://medium.com/p/2c8eca3beb04) |
 | Sun, 25 Jan 2026 22:31:19 GMT | Level Up Your Cybersecurity Career: Skills Every Defender Needs in 2026 | -Oladepo | [Read More](https://medium.com/p/48ba82ab05ff) |
 | Sun, 25 Jan 2026 22:13:49 GMT | Diva — Insecure Data Storage — Part 4 | c0pt4n | [Read More](https://medium.com/p/2b04d801b402) |
 | Sun, 25 Jan 2026 22:12:33 GMT | AWS Access Key, 이제는 버릴 때가 됐습니다 — Role 기반 인증으로 전환한 이야기 | 이진만 (Jamie) | [Read More](https://medium.com/p/4960cf8ad93b) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 14:58:07 GMT | IdentityServer, JWT ve Mikroservis Mimarisi: .NET ile Güvenli ve Ölçeklenebilir Backend Tasarımı | MELEK DEMİR | [Read More](https://medium.com/p/81f1aab99a81) |
 | Sun, 25 Jan 2026 14:55:21 GMT | Linux Server Forensics by Intelithics{THM} | Intelithics | [Read More](https://medium.com/p/410253748387) |
 | Sun, 25 Jan 2026 14:50:57 GMT | RHEL 10: A Betrayal of Sovereignty | Malik Vero | [Read More](https://medium.com/p/bd6370f735e4) |
-| Sun, 25 Jan 2026 14:48:32 GMT | Splunk SPL’e Giriş: TryHackMe-Exploring SPL Odası Detaylı Anlatı | Ahmet Hakan Öztürk | [Read More](https://medium.com/p/212b95b378c5) |
-| Sun, 25 Jan 2026 14:45:54 GMT | App technology? | Karl Tame | [Read More](https://medium.com/p/9a2b1ca35747) |
