@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 14:31:47 GMT | Підвищення привілеїв (Privilege Escalation) | Fl4g Hunt3r Project | [Read More](https://medium.com/p/6c0c4d72e4e8) |
+| Sun, 25 Jan 2026 14:27:11 GMT | Eliminating SSH in AWS: Why Identity-Based Access Beats Network Trust | Surya Naga Sesank Munukutla | [Read More](https://medium.com/p/375c13d8f4f8) |
+| Sun, 25 Jan 2026 14:24:48 GMT | easy $100 - bypass 403 to 200 ok | Swarnim Bandekar | [Read More](https://medium.com/p/b6bc126e2f4b) |
+| Sun, 25 Jan 2026 14:24:44 GMT | This Login Page Trusted My OTP Way Too Much | nwhitedemon | [Read More](https://medium.com/p/5b90de1e36d8) |
 | Sun, 25 Jan 2026 14:15:47 GMT | Threat Hunting with MITRE ATT&CK. A Practical Guide for SOC Analysts | Misbah waraich | [Read More](https://medium.com/p/61abe5cb02c1) |
 | Sun, 25 Jan 2026 14:14:35 GMT | Resurrecting the Dead: Exploiting Active Directory’s Recycle Bin ♻️✝️ | Nicholas Mullenski | [Read More](https://medium.com/p/5558982fc5fa) |
 | Sun, 25 Jan 2026 14:13:11 GMT | ⚔️ BEYOND THE PERIMETER: Cracking Sysco with Kerberos Exploitation & GPO Task Injection ️ | Nicholas Mullenski | [Read More](https://medium.com/p/4530db99feea) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 06:21:33 GMT | Deserialization and magic methods | Gaby zaafrani | [Read More](https://medium.com/p/c636d7088acd) |
 | Sun, 25 Jan 2026 06:13:38 GMT | An Introduction to the MITRE ATT&CK Framework | Ankita Sinha | [Read More](https://medium.com/p/beafab69f7c3) |
 | Sun, 25 Jan 2026 06:03:19 GMT | “The Wi-Fi You Trusted Was a Trap” | ghostyjoe | [Read More](https://medium.com/p/6a759be7fda7) |
-| Sun, 25 Jan 2026 05:54:37 GMT | When the Pi Started Talking Back | the CyberStoic | [Read More](https://medium.com/p/1651e61c77f3) |
-| Sun, 25 Jan 2026 05:53:55 GMT | From Securing Systems to Securing Strategy: My Move into GRC | Melissa Ann Tanksley | [Read More](https://medium.com/p/3fd064a67f75) |
-| Sun, 25 Jan 2026 05:38:37 GMT | Introduction | Cyberhawk Consultancy | [Read More](https://medium.com/p/6563880c2120) |
-| Sun, 25 Jan 2026 05:24:35 GMT | Cyber Sherlock Weekly Briefing: Becoming the Ultimate Guardian of the Digital Realm 25 January 2026 | Sujon Al Mamun | [Read More](https://medium.com/p/fffa14a45619) |
