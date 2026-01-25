@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 04:59:03 GMT | What Humans Require: Physical Safety & Security (Trump Edition) | David Speakman | [Read More](https://medium.com/p/7e90a6821dff) |
+| Sun, 25 Jan 2026 04:43:12 GMT | DAY-3(RUST PROGRAMMING) | vulnhunter | [Read More](https://medium.com/p/2043f102f439) |
 | Sun, 25 Jan 2026 03:46:56 GMT | 10²⁴ Years of Computation in Under 5 Minutes | Sidharth Dhawan | [Read More](https://medium.com/p/bcb2ab0ba705) |
 | Sun, 25 Jan 2026 03:44:31 GMT | Every Cyber Attack Tells a Story — The Diamond Model Explains It | Ankita Sinha | [Read More](https://medium.com/p/5324ba7d4432) |
 | Sun, 25 Jan 2026 03:33:21 GMT | Enumerating RPC Services Using rpcclient on Metasploitable 2 | Cybeague Technologies | [Read More](https://medium.com/p/3b167bbfdce5) |
@@ -23,6 +25,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 02:45:59 GMT | What Cybersecurity Experts Actually Do All Day | SECURE IT! | [Read More](https://medium.com/p/d0e31751d07d) |
 | Sun, 25 Jan 2026 02:45:56 GMT | SOC164 — Suspicious Mshta Behavior - LestDefend | Nicksondiazm | [Read More](https://medium.com/p/95b0893e0d8e) |
 | Sun, 25 Jan 2026 02:32:30 GMT | How Ethical Hacking Services Like Private-Hackers.com | Private-hackers.com | [Read More](https://medium.com/p/2bc5edff9bdd) |
+| Sun, 25 Jan 2026 02:30:14 GMT | O que eu creio? | Lima e Pereira | [Read More](https://medium.com/p/9406ece2e230) |
 | Sun, 25 Jan 2026 02:18:44 GMT | Bypassing Rate Limits via Race Conditions | Cybernerddd | [Read More](https://medium.com/p/a17fac0d006f) |
 | Sun, 25 Jan 2026 02:10:01 GMT | The Receipt Is the New Money: Who Gets to Verify? | James Kuhman | [Read More](https://medium.com/p/4addecc1825d) |
 | Sun, 25 Jan 2026 01:46:17 GMT | Building a Scalable Authorization Framework: From Permissions to Entitlements | Zeitgeist | [Read More](https://medium.com/p/e1741ab5846c) |
@@ -56,6 +59,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 22:15:06 GMT | Apply filters to SQL queries | Kelechi Ezinwa Chibuzor | [Read More](https://medium.com/p/a844ef008c04) |
 | Sat, 24 Jan 2026 22:03:03 GMT | The Hidden Attack Surface in Every LLM: How Special Tokens Enable 96% Jailbreak Success Rates | Suchitra Malimbada | [Read More](https://medium.com/p/f6d7745b24ed) |
 | Sat, 24 Jan 2026 21:54:13 GMT | TryHackMe Writeup: Glitch | Berkay AĞGÜL | [Read More](https://medium.com/p/d2f9d374b140) |
+| Sat, 24 Jan 2026 21:51:50 GMT | Nginx Server Banner Disclosure: A DevOps Security Story | Aman Chopra | [Read More](https://medium.com/p/693bb9412cd5) |
 | Sat, 24 Jan 2026 21:44:59 GMT | How to Start Learning Quantum Computing (Tools, Courses, and a Practical Roadmap) | Tech Security | [Read More](https://medium.com/p/b3c35053dc12) |
 | Sat, 24 Jan 2026 21:41:59 GMT | Strengthening Our GitHub Copilot Security Library: Structure, Safety, and Scale | Jay Simmons | [Read More](https://medium.com/p/d01aadea5a81) |
 | Sat, 24 Jan 2026 21:35:13 GMT | How I Pranked HackerOne’s Triage Team — A Lighthearted Exchange with Thoughtful Takeaways | Justas_b_2 | [Read More](https://medium.com/p/9ae1a47fae63) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 16:25:54 GMT | Year Round Windows Maintenance Keeps Your PC Fast, Safe | Geoffrey Wenger | [Read More](https://medium.com/p/3c0b00793bf9) |
 | Sat, 24 Jan 2026 16:25:52 GMT | Investigating a Major 72m Customer Data Breach: Under Armour Case | Mooki W | [Read More](https://medium.com/p/f2db1deb6b4d) |
 | Sat, 24 Jan 2026 16:17:05 GMT | Rebuilding Day 2 | Technodox10 | [Read More](https://medium.com/p/58126659406c) |
-| Sat, 24 Jan 2026 16:08:55 GMT | La désérialisation et les méthodes magique | Gaby zaafrani | [Read More](https://medium.com/p/48cadbd20c8d) |
-| Sat, 24 Jan 2026 16:02:22 GMT | MYTH BUSTED: Any “ Computer ” Can Do In Cyber — Security… | lukewago | [Read More](https://medium.com/p/261d53347f37) |
-| Sat, 24 Jan 2026 16:02:01 GMT | Defaults Are Power, Not Convenience: What This Week’s Tech and Markets Quietly Revealed | Qandeel Akhtar | [Read More](https://medium.com/p/c022a4a5b2ba) |
-| Sat, 24 Jan 2026 16:02:00 GMT | From Audit to Control: Operationalizing DLP for AI + Data in the Enterprise Browser | Mammoth Cyber | [Read More](https://medium.com/p/d582305c976a) |
