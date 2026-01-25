@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 10:10:16 GMT | Calling cybersecurity a ‘tech job’ is incomplete. | DefenditChhavi | [Read More](https://medium.com/p/f14af489e88c) |
+| Sun, 25 Jan 2026 10:04:41 GMT | How to Self-Host Your Own VPN for Free (or $2–$6/Month) | Varadaraj Acharya | [Read More](https://medium.com/p/49fac96688af) |
+| Sun, 25 Jan 2026 10:00:45 GMT | Every Interview Asks SSL, TLS, HTTPS — 90% Developers Still Explain It Wrong | Shanu Reddy | [Read More](https://medium.com/p/e683d46111c1) |
+| Sun, 25 Jan 2026 09:59:26 GMT | Deploying Security Copilot across BUs, Regions & Compliance Zones! | Yash Mudaliar | [Read More](https://medium.com/p/5d0f6e8a8d11) |
+| Sun, 25 Jan 2026 09:46:49 GMT | Not Your Keys, Not Your Coins: A Deep Dive into Crypto Custody | BountyPortals Official Blog | [Read More](https://medium.com/p/485e494e5eef) |
+| Sun, 25 Jan 2026 09:43:49 GMT | “It’s Too Late”… Until One Kid Looks Up | Anitaraju | [Read More](https://medium.com/p/669ae4da08dc) |
 | Sun, 25 Jan 2026 09:41:04 GMT | The Breach Nobody Saw Coming, Because Nobody Was Looking | Janith Malinga | [Read More](https://medium.com/p/68600d51407a) |
 | Sun, 25 Jan 2026 09:38:50 GMT | What To Do If Exchange EDB File Is Too Big? | EINITIAL24 | [Read More](https://medium.com/p/5b485adfa6c4) |
 | Sun, 25 Jan 2026 09:38:20 GMT | Active Directory Pentesting 101 — Pt.2 | serkanbenol | [Read More](https://medium.com/p/99348408a3d3) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 24 Jan 2026 22:31:31 GMT | REPROMPT ATTACK | Anjali Gopinadhan Nair | [Read More](https://medium.com/p/9f20632d73ac) |
 | Sat, 24 Jan 2026 22:15:06 GMT | Apply filters to SQL queries | Kelechi Ezinwa Chibuzor | [Read More](https://medium.com/p/a844ef008c04) |
 | Sat, 24 Jan 2026 22:03:03 GMT | The Hidden Attack Surface in Every LLM: How Special Tokens Enable 96% Jailbreak Success Rates | Suchitra Malimbada | [Read More](https://medium.com/p/f6d7745b24ed) |
-| Sat, 24 Jan 2026 21:54:13 GMT | TryHackMe Writeup: Glitch | Berkay AĞGÜL | [Read More](https://medium.com/p/d2f9d374b140) |
-| Sat, 24 Jan 2026 21:51:50 GMT | Nginx Server Banner Disclosure: A DevOps Security Story | Aman Chopra | [Read More](https://medium.com/p/693bb9412cd5) |
-| Sat, 24 Jan 2026 21:44:59 GMT | How to Start Learning Quantum Computing (Tools, Courses, and a Practical Roadmap) | Tech Security | [Read More](https://medium.com/p/b3c35053dc12) |
-| Sat, 24 Jan 2026 21:41:59 GMT | Strengthening Our GitHub Copilot Security Library: Structure, Safety, and Scale | Jay Simmons | [Read More](https://medium.com/p/d01aadea5a81) |
-| Sat, 24 Jan 2026 21:35:13 GMT | How I Pranked HackerOne’s Triage Team — A Lighthearted Exchange with Thoughtful Takeaways | Justas_b_2 | [Read More](https://medium.com/p/9ae1a47fae63) |
-| Sat, 24 Jan 2026 21:28:43 GMT | DVIUS Goals 2026: Free Cyber Security for Small Businesses. Become a Founder. | DVIUS Admin | [Read More](https://medium.com/p/daa2ff0085cb) |
