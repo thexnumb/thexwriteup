@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 12:34:09 GMT | Cyber Risks in MSMEs – Ignored, Underestimated, Exploited | Ankit rai | [Read More](https://medium.com/p/2588d7c977c7) |
+| Sun, 25 Jan 2026 12:29:18 GMT | Securing REST API Endpoints with OAuth 2.0 and Keycloak Client Scopes | Florian Röser | [Read More](https://medium.com/p/b5979702472a) |
+| Sun, 25 Jan 2026 12:11:04 GMT | MITRE ATT&CK Explained: How Real Cyber Attacks Actually Happen | CipherX9F Security | [Read More](https://medium.com/p/05128dd8833e) |
+| Sun, 25 Jan 2026 12:10:14 GMT | Host & Network Penetration Testing: Post-Exploitation CTF 1 — INE | srthk | [Read More](https://medium.com/p/6d139661ffdc) |
+| Sun, 25 Jan 2026 12:06:45 GMT | CafeClub Writeup (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/aca44b33bb58) |
+| Sun, 25 Jan 2026 12:04:26 GMT | Security-as-a-Service: Why Platform Teams Are Becoming Security Owners | Muhammad Yawar Malik | [Read More](https://medium.com/p/b76ccd1aebef) |
+| Sun, 25 Jan 2026 12:02:02 GMT | Stolen Phones & Security: The “Director’s Cut” of My TV Interview | Rommel Jay Gadil | [Read More](https://medium.com/p/610aa400f0b6) |
+| Sun, 25 Jan 2026 11:47:06 GMT | Dark Web Forums Used by Hackers — What Defenders Should Know | Tandelpruthvi | [Read More](https://medium.com/p/4b4b34ef48c3) |
+| Sun, 25 Jan 2026 11:46:16 GMT | Corporate Due Diligence: The Wbgzx Regulatory Framework and Operational Assessment | Certification Flow Laboratories | [Read More](https://medium.com/p/345c4656bcd8) |
+| Sun, 25 Jan 2026 11:45:53 GMT | Siber Dayanıklılık Tüzüğü | Duygu Fidancıoğlu | [Read More](https://medium.com/p/3281f2ea856e) |
 | Sun, 25 Jan 2026 11:22:37 GMT | Firmalyzer: A Comprehensive Automated Framework for IoT Firmware Security Analysis | Ismail Tasdelen | [Read More](https://medium.com/p/dc64ae4caae8) |
 | Sun, 25 Jan 2026 11:19:24 GMT | TryHackMe: Internal | Root_Fabric | [Read More](https://medium.com/p/c01444cb3657) |
 | Sun, 25 Jan 2026 11:18:28 GMT | Role of Technology in Job Creation | Taziz Aziz | [Read More](https://medium.com/p/d82ab5ad7387) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 01:42:55 GMT | Active Directory — Blog Part II: Where AD Starts | Mark Thompson | [Read More](https://medium.com/p/0cc096912f30) |
 | Sun, 25 Jan 2026 01:41:02 GMT | PHISHING — THE EVILGINX WAY | Tanooz Sharma | [Read More](https://medium.com/p/4b3c1341aef6) |
 | Sun, 25 Jan 2026 01:39:03 GMT | Building CNIGT: An Automated Network Reconnaissance Tool That Goes from Discovery to Exploitation | Kingsmover | [Read More](https://medium.com/p/6606fc06a172) |
-| Sun, 25 Jan 2026 01:17:03 GMT | 37 Sysmon Events. One Complete DLL Hijacking Attack. Here’s What Happened. | Manish Rawat | [Read More](https://medium.com/p/09076f2e38c5) |
-| Sun, 25 Jan 2026 01:15:28 GMT | Information Structures: How the Invisible Precedes the Physical | numa | [Read More](https://medium.com/p/7477054c40b7) |
-| Sun, 25 Jan 2026 01:14:12 GMT | Dog bark sensor security | Tech gist | [Read More](https://medium.com/p/9eff62e59cf9) |
-| Sun, 25 Jan 2026 00:51:34 GMT | NordVPN: The Future of Online Privacy Starts Here | Genelia | [Read More](https://medium.com/p/6c341daef962) |
-| Sun, 25 Jan 2026 00:41:34 GMT | IDS/IPS Systems - CISSP | Pushpak Sharma | [Read More](https://medium.com/p/b22d586682ef) |
-| Sun, 25 Jan 2026 00:24:52 GMT | Why I Stopped Treating Online Privacy as “Optional” | Sean Harding | [Read More](https://medium.com/p/9d2fcf41253b) |
-| Sun, 25 Jan 2026 00:13:54 GMT | Visualização é o segredo! | Otávio Alves | [Read More](https://medium.com/p/2c2a4e828f1e) |
-| Sun, 25 Jan 2026 00:06:49 GMT | Securing Multimodal AI Systems in the Cloud (Video + Audio + Text) | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/5e6dcbe6d61f) |
-| Sun, 25 Jan 2026 00:05:31 GMT | My experience of Hack the Box’s Cyber Apocalypse CTF 2025: Tales from Eldoria | Srihari N Narayan | [Read More](https://medium.com/p/502896537fb6) |
-| Sat, 24 Jan 2026 23:59:29 GMT | File Transfer Methods | Saqlain Naqvi | [Read More](https://medium.com/p/d4474d924a72) |
