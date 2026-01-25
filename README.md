@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 25 Jan 2026 22:43:27 GMT | PASETO: The Token System That Refuses to Let You Shoot Yourself in the Foot | humam al amin | [Read More](https://medium.com/p/ecea11e362a8) |
+| Sun, 25 Jan 2026 22:42:33 GMT | Hiding Windows APIs in Offensive Security | Yua Mikanana | [Read More](https://medium.com/p/9aeaea2451c5) |
+| Sun, 25 Jan 2026 22:42:13 GMT | As always in every penetration testing engagements we start by reconnaissance and information… | Cyb0rgBytes | [Read More](https://medium.com/p/04bf8744dc7e) |
+| Sun, 25 Jan 2026 22:31:19 GMT | Level Up Your Cybersecurity Career: Skills Every Defender Needs in 2026 | -Oladepo | [Read More](https://medium.com/p/48ba82ab05ff) |
 | Sun, 25 Jan 2026 22:13:49 GMT | Diva — Insecure Data Storage — Part 4 | c0pt4n | [Read More](https://medium.com/p/2b04d801b402) |
 | Sun, 25 Jan 2026 22:12:33 GMT | AWS Access Key, 이제는 버릴 때가 됐습니다 — Role 기반 인증으로 전환한 이야기 | 이진만 (Jamie) | [Read More](https://medium.com/p/4960cf8ad93b) |
 | Sun, 25 Jan 2026 22:09:56 GMT | You Are Not Being Watched, You Are Being Remembered | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/5dca6550de42) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 14:50:57 GMT | RHEL 10: A Betrayal of Sovereignty | Malik Vero | [Read More](https://medium.com/p/bd6370f735e4) |
 | Sun, 25 Jan 2026 14:48:32 GMT | Splunk SPL’e Giriş: TryHackMe-Exploring SPL Odası Detaylı Anlatı | Ahmet Hakan Öztürk | [Read More](https://medium.com/p/212b95b378c5) |
 | Sun, 25 Jan 2026 14:45:54 GMT | App technology? | Karl Tame | [Read More](https://medium.com/p/9a2b1ca35747) |
-| Sun, 25 Jan 2026 14:45:38 GMT | UTC vs Timezone bugs that keep happening | Filip Sawinski | [Read More](https://medium.com/p/6f98adfe4977) |
-| Sun, 25 Jan 2026 14:38:07 GMT | DUSK em Alta: A Criptomoeda que Brilha no Escuro! | Liberty Epoch | [Read More](https://medium.com/p/3b1f3940c345) |
-| Sun, 25 Jan 2026 14:32:01 GMT | GOLDEN EYE- TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/7db091a8f256) |
-| Sun, 25 Jan 2026 14:32:01 GMT | I Tried RedTeamLeaders’ CCEP (Certified Cybersecurity Educator Professional) — Worth It? | 0xCyberNoob | [Read More](https://medium.com/p/4d9867962b07) |
