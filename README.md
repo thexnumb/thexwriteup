@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 Jan 2026 10:47:14 GMT | What Actually Happens When You Open Tor Browser (A Research-Driven Walkthrough) | Tech Intel | [Read More](https://medium.com/p/d3642080ebe8) |
+| Mon, 26 Jan 2026 10:46:46 GMT | From Hours to Seconds: Automating Python Security with AI? | Maikel Mardjan | [Read More](https://medium.com/p/6384e0f982ab) |
+| Mon, 26 Jan 2026 10:42:01 GMT | Injections for Dummies | Shivam Bathla | [Read More](https://medium.com/p/65f8569e34ce) |
+| Mon, 26 Jan 2026 10:40:39 GMT | Web Application Firewalls Explained | Motasem Hamdan | [Read More](https://medium.com/p/e21bf0b4b085) |
+| Mon, 26 Jan 2026 10:38:06 GMT | Myrlyn 1.0: A Modern, Standalone Package Manager GUI for openSUSE Has Arrived | Khurram Shahzad | [Read More](https://medium.com/p/98be7e341890) |
+| Mon, 26 Jan 2026 10:35:19 GMT | How to Choose a Skill in 2026 That Actually Pays You Back. | Seb AGUELE | [Read More](https://medium.com/p/25f2c989ba2b) |
+| Mon, 26 Jan 2026 10:31:14 GMT | From Comics & Confession Letters to iPhone Jailbreaking: | Emily McRose | [Read More](https://medium.com/p/b4a95bfa3b9f) |
+| Mon, 26 Jan 2026 10:28:51 GMT | Lesson 3: How Data Moves on the Internet — Understanding Motion, Not Definitions | Cyberspace Bulletin | [Read More](https://medium.com/p/61efc6dc2edf) |
+| Mon, 26 Jan 2026 10:28:25 GMT | This is Sparta — Web Security Easy Challenge Write-Up | Z3DX | [Read More](https://medium.com/p/fd50a2de9190) |
+| Mon, 26 Jan 2026 10:28:06 GMT | From Theory to Terminal: Closer to Ethical Hacking with Linux & SQL | Sanya Sachdeva | [Read More](https://medium.com/p/ee3b3b97ac7e) |
 | Mon, 26 Jan 2026 10:26:49 GMT | HTB Web-Attacks Skills Assessment | Migs | [Read More](https://medium.com/p/01cc4dd27a97) |
 | Mon, 26 Jan 2026 10:22:05 GMT | You Use the Internet Every Day. Here’s Why Understanding It Matters More Than Ever | Ahmad Saidu | [Read More](https://medium.com/p/76e2d3e2fc28) |
 | Mon, 26 Jan 2026 10:21:46 GMT | Multi-Factor Authentication (MFA) Flows — How Modern Systems Balance Security and Usability | Stoic Engineer | [Read More](https://medium.com/p/36b3cf76c397) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 Jan 2026 05:35:37 GMT | LINE 翻群現象與社群權限管理 | p1x06u9 | [Read More](https://medium.com/p/4dbb7d4c9e70) |
 | Mon, 26 Jan 2026 05:25:07 GMT | HAPPY REPUBLIC D | The Inner Cafie | [Read More](https://medium.com/p/654709c8dcc0) |
 | Mon, 26 Jan 2026 05:16:51 GMT | Red Teaming vs Pentesting: Key Differences | Digital Duffer | [Read More](https://medium.com/p/2f9940f732fc) |
-| Mon, 26 Jan 2026 05:14:02 GMT | The Quiet Complexity of Distributed Systems | Faiziya Ansari | [Read More](https://medium.com/p/7e4ed9d098c6) |
-| Mon, 26 Jan 2026 05:12:02 GMT | How to Switch Safari to Chrome in 60 Seconds. Is it Safe to Export Your Data Apple to Google? | apple inside | [Read More](https://medium.com/p/0c73df56cf52) |
-| Mon, 26 Jan 2026 05:10:04 GMT | React2Shell : One Vulnerability, Multiple Agendas | Gebynab | [Read More](https://medium.com/p/65005b451f65) |
-| Mon, 26 Jan 2026 05:00:49 GMT | Is Your Android Phone Really Safe? Most Users Ignore These Warning Signs | Blue Bird Digital Technology | [Read More](https://medium.com/p/dc6a64191c45) |
-| Mon, 26 Jan 2026 05:00:06 GMT | IEEE 802.3 Ethernet: The Silent Backbone of Modern Networking | Rela Lumbini | [Read More](https://medium.com/p/f2b6bf07d5ad) |
-| Mon, 26 Jan 2026 04:59:04 GMT | Google Takes Over Siri, While Winter Storms and Malware Threaten - The Daily Tech Digest: 26… | Souren Stepanyan | [Read More](https://medium.com/p/ec92cb0b35e9) |
-| Mon, 26 Jan 2026 04:57:42 GMT | How to Secure PHP Applications (With Real-World Breach Examples) | Mathews Jose | [Read More](https://medium.com/p/c26bb46f557d) |
-| Mon, 26 Jan 2026 04:52:54 GMT | Apakah random itu memang random? | Ian | [Read More](https://medium.com/p/781a22ad7e2d) |
-| Mon, 26 Jan 2026 04:48:15 GMT | Enterprise Cyber Security in Qatar: Safeguarding the Future of Business in a Digital Age | zorvix zorvix | [Read More](https://medium.com/p/0de3569b906c) |
-| Mon, 26 Jan 2026 04:46:20 GMT | 1000GB Mailbox Storage ✉️: Sounds Generous, Right? | Steven Chin | [Read More](https://medium.com/p/e30cfb99ea7e) |
