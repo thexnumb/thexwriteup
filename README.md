@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 Jan 2026 23:45:48 GMT | Beyond Takeover AWS Bucket | Na_stark | [Read More](https://medium.com/p/58c7b22d9e8a) |
+| Mon, 26 Jan 2026 23:38:40 GMT | Stop SIEM Noise at the Source: Wazuh Agent-Side Suppression for Windows Security Events (QueryList… | SOCFortress | [Read More](https://medium.com/p/0eacbf4326df) |
+| Mon, 26 Jan 2026 23:35:10 GMT | I Saw You Looking Handsome | Su ☆ | [Read More](https://medium.com/p/80e6bd4d82df) |
 | Mon, 26 Jan 2026 22:57:02 GMT | Confidential VMs Are Missing Everything, And I Love It! | ijlal | [Read More](https://medium.com/p/87397bf1babd) |
 | Mon, 26 Jan 2026 22:38:48 GMT | AI Is Starting to Learn From Itself and That Changes Everything | Qandeel Akhtar | [Read More](https://medium.com/p/16739774627c) |
 | Mon, 26 Jan 2026 22:31:29 GMT | The Six Laws of Power for AI Models | Doyin M. Awofodu | [Read More](https://medium.com/p/2e28e35c9473) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 Jan 2026 15:57:57 GMT | Session Hijacking: The Invisible Threat in Modern Identity Security and How Rainbow Secure Ends It | Dr. Shashi Karhail | [Read More](https://medium.com/p/09c7baf4e84e) |
 | Mon, 26 Jan 2026 15:55:56 GMT | How Information Asymmetry and Context Control Shape Human–AI Dominance | Agustin Albornoz | [Read More](https://medium.com/p/bd152d3e447a) |
 | Mon, 26 Jan 2026 15:51:49 GMT | AI That Protects Bank Customers Before Money Is Lost | reezky Illmawati | [Read More](https://medium.com/p/f011efef65fc) |
-| Mon, 26 Jan 2026 15:42:44 GMT | What API Developers Need to Know About PCI DSS and Financial API Security | Gift Afortu | [Read More](https://medium.com/p/6a734c65bbe6) |
-| Mon, 26 Jan 2026 15:41:11 GMT | Designing a Safe Malware Analysis Lab with VirtualBox | Lorand Pervizaj | [Read More](https://medium.com/p/a8683932a93f) |
-| Mon, 26 Jan 2026 15:34:00 GMT | Complete Guide To Commercial Security Camera Installation | Alex Bryn | [Read More](https://medium.com/p/fe0906881a6a) |
