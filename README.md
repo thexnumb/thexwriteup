@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 Jan 2026 22:57:02 GMT | Confidential VMs Are Missing Everything, And I Love It! | ijlal | [Read More](https://medium.com/p/87397bf1babd) |
 | Mon, 26 Jan 2026 22:38:48 GMT | AI Is Starting to Learn From Itself and That Changes Everything | Qandeel Akhtar | [Read More](https://medium.com/p/16739774627c) |
 | Mon, 26 Jan 2026 22:31:29 GMT | The Six Laws of Power for AI Models | Doyin M. Awofodu | [Read More](https://medium.com/p/2e28e35c9473) |
 | Mon, 26 Jan 2026 22:24:10 GMT | Letting the Pi Phone a Friend: VirusTotal Joins the Party | the CyberStoic | [Read More](https://medium.com/p/301013de847f) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 Jan 2026 15:42:44 GMT | What API Developers Need to Know About PCI DSS and Financial API Security | Gift Afortu | [Read More](https://medium.com/p/6a734c65bbe6) |
 | Mon, 26 Jan 2026 15:41:11 GMT | Designing a Safe Malware Analysis Lab with VirtualBox | Lorand Pervizaj | [Read More](https://medium.com/p/a8683932a93f) |
 | Mon, 26 Jan 2026 15:34:00 GMT | Complete Guide To Commercial Security Camera Installation | Alex Bryn | [Read More](https://medium.com/p/fe0906881a6a) |
-| Mon, 26 Jan 2026 15:32:53 GMT | Functional Optics for Java: Why Mutability Bites You (Even If You Don’t See It Yet) | Jitin Kayyala | [Read More](https://medium.com/p/975735326def) |
