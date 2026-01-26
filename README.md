@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 Jan 2026 11:36:47 GMT | SOC Analyst L1: Inside the Nerve Center of Cyber Defense | Harmit Warang (hwrng0x) | [Read More](https://medium.com/p/fe8ab0cebbe0) |
+| Mon, 26 Jan 2026 11:33:18 GMT | The “Invisible Encryption” That Requires Showing Everyone Your Secrets | Berend Watchus | [Read More](https://medium.com/p/0177c598779c) |
+| Mon, 26 Jan 2026 11:27:05 GMT | Blue Team vs  Red Team vs  Purple Team | ARCHANA P | [Read More](https://medium.com/p/8d18f8b248c9) |
+| Mon, 26 Jan 2026 11:26:19 GMT | Artificial Intelligence has a Supply Chain problem | Shawn K. Reilly | [Read More](https://medium.com/p/540c69d3863a) |
+| Mon, 26 Jan 2026 11:22:09 GMT | PJPT Exam Review: Preparation, Methodology and the Reporting Process | Halil Kirazkaya | [Read More](https://medium.com/p/8d26894b2d27) |
 | Mon, 26 Jan 2026 11:13:36 GMT | Vulnerability Remediation: Process & Best Practices | Spacelift | [Read More](https://medium.com/p/3716fee66f2c) |
 | Mon, 26 Jan 2026 11:11:53 GMT | NIST Cybersecurity Framework for OT | urjasec | [Read More](https://medium.com/p/f96693ffa59e) |
 | Mon, 26 Jan 2026 11:10:55 GMT | Is Bug Bounty Playbook V2 worth your time? | Osamaashraf | [Read More](https://medium.com/p/c4a0e36dd692) |
@@ -19,6 +24,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 Jan 2026 11:04:39 GMT | Why breaking into cybersecurity is a probability problem | h@shtalk | [Read More](https://medium.com/p/1b40aa438290) |
 | Mon, 26 Jan 2026 11:02:55 GMT | Windows Fundamentals Part 1: Cybersecurity 101 Pathway — TryHackMe | Farhad Anwari | [Read More](https://medium.com/p/3f016acb343b) |
 | Mon, 26 Jan 2026 10:59:19 GMT | California SB 446: New Breach Notification Deadlines | VenariX, Inc. | [Read More](https://medium.com/p/0f6a1d9dcd8f) |
+| Mon, 26 Jan 2026 10:57:45 GMT | Cara Aman Login MPO8080 Tanpa VPN (Update 2026): Solusi Link Alternatif Resmi Anti-Blokir | Mpo8080 | [Read More](https://medium.com/p/361b61f7e4b6) |
 | Mon, 26 Jan 2026 10:55:27 GMT | Securing the Future: Industrial Cybersecurity for UAE’s Industry 4.0 Revolution | NET WIZARDS L.L.C | [Read More](https://medium.com/p/32fe456b7176) |
 | Mon, 26 Jan 2026 10:47:42 GMT | The 2026 AI & Data Science Roadmap: The Death of the “Notebook Data Scientist” | TechMallu | [Read More](https://medium.com/p/c8240e650e9e) |
 | Mon, 26 Jan 2026 10:47:14 GMT | What Actually Happens When You Open Tor Browser (A Research-Driven Walkthrough) | Tech Intel | [Read More](https://medium.com/p/d3642080ebe8) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 Jan 2026 06:42:43 GMT | ZArchiver APK | Bandisharecx | [Read More](https://medium.com/p/e5c34629a32b) |
 | Mon, 26 Jan 2026 06:42:27 GMT | From Passwords to Passkeys: How Cybersecurity Is Evolving | Sneha | [Read More](https://medium.com/p/071dfe859289) |
 | Mon, 26 Jan 2026 06:36:55 GMT | Mengamankan Container dari Kemungkinan Serangan Cyber — DevOps Starter Pack | Lian Aga Aditya, S.Kom | [Read More](https://medium.com/p/dc0fc79c3a6f) |
-| Mon, 26 Jan 2026 06:35:03 GMT | Building a Practical Hardware Setup for Ethical Hackers ️ | monster | [Read More](https://medium.com/p/2c2b6b285ba7) |
-| Mon, 26 Jan 2026 06:30:46 GMT | Facing the AI Provocateur: Why Your Passcode is the iPhone’s Real Master Key | Ryu360 | [Read More](https://medium.com/p/b4eaee5f2729) |
-| Mon, 26 Jan 2026 06:19:10 GMT | This Is Me Trying to Care Again | Joan Bluejack | [Read More](https://medium.com/p/4b9e2cdac429) |
-| Mon, 26 Jan 2026 06:12:49 GMT | The Cryptography Journey — OCSP Stapling (Online Certification Status Protocol Stapling) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/88d881619f6a) |
-| Mon, 26 Jan 2026 06:11:11 GMT | Building a Simple AI Model to Detect Brute Force Attacks | Abhinsubej | [Read More](https://medium.com/p/1735f6e5ad57) |
-| Mon, 26 Jan 2026 06:10:39 GMT | Grind Culture Is Making Us Forget We’re Human | Gada T | [Read More](https://medium.com/p/c882ac526187) |
