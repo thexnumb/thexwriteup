@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 Jan 2026 22:38:48 GMT | AI Is Starting to Learn From Itself and That Changes Everything | Qandeel Akhtar | [Read More](https://medium.com/p/16739774627c) |
+| Mon, 26 Jan 2026 22:31:29 GMT | The Six Laws of Power for AI Models | Doyin M. Awofodu | [Read More](https://medium.com/p/2e28e35c9473) |
+| Mon, 26 Jan 2026 22:24:10 GMT | Letting the Pi Phone a Friend: VirusTotal Joins the Party | the CyberStoic | [Read More](https://medium.com/p/301013de847f) |
+| Mon, 26 Jan 2026 22:23:13 GMT | Crisis Communications for Finance Leaders: a Business Design Problem (Not a Security Program) | Fook Hwa Tan | [Read More](https://medium.com/p/63508624ee7d) |
+| Mon, 26 Jan 2026 22:20:35 GMT | TTPI’s: Extending the Classic Model | VanVleet | [Read More](https://medium.com/p/058c572b76f3) |
 | Mon, 26 Jan 2026 22:15:21 GMT | Email Body Truncation via Null Byte Injection | 0xcyborg | [Read More](https://medium.com/p/21f753bf2c64) |
+| Mon, 26 Jan 2026 22:15:18 GMT | Turning a Raspberry Pi 3 Into a Living, Breathing Watchman (And Where We Go From Here) | the CyberStoic | [Read More](https://medium.com/p/8eef71309604) |
 | Mon, 26 Jan 2026 22:04:44 GMT | GhidraInsight: Revolutionizing Binary Analysis with AI-Powered Reverse Engineering | Ismail Tasdelen | [Read More](https://medium.com/p/f21f0ad0089a) |
 | Mon, 26 Jan 2026 21:55:20 GMT | Hack The Box (HTB) Windows Fundamentals Walkthrough: My Solutions | Abhinav Gumgol | [Read More](https://medium.com/p/1abfc7b8365e) |
 | Mon, 26 Jan 2026 21:42:26 GMT | Beyond the IP: Identifying Compromised Identities in RDP Sessions | thedigitaldetective | [Read More](https://medium.com/p/98ce6931d73f) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 Jan 2026 15:41:11 GMT | Designing a Safe Malware Analysis Lab with VirtualBox | Lorand Pervizaj | [Read More](https://medium.com/p/a8683932a93f) |
 | Mon, 26 Jan 2026 15:34:00 GMT | Complete Guide To Commercial Security Camera Installation | Alex Bryn | [Read More](https://medium.com/p/fe0906881a6a) |
 | Mon, 26 Jan 2026 15:32:53 GMT | Functional Optics for Java: Why Mutability Bites You (Even If You Don’t See It Yet) | Jitin Kayyala | [Read More](https://medium.com/p/975735326def) |
-| Mon, 26 Jan 2026 15:29:17 GMT | Before you install Clawdbot, stop to learn about security, and maybe, just maybe - wait | Morgan Linton | [Read More](https://medium.com/p/202d9c116263) |
-| Mon, 26 Jan 2026 15:26:48 GMT | The 2026 Business Tech Roadmap: Solving the Top 5 Implementation Challenges in AI, Security, and… | IT_Engineer | [Read More](https://medium.com/p/42ac71e7f4cb) |
-| Mon, 26 Jan 2026 15:22:36 GMT | Forget Passwords. In 2026, They Steal You. | Avlix Group | [Read More](https://medium.com/p/e1607917af21) |
-| Mon, 26 Jan 2026 15:22:03 GMT | kWAPTA Review: A Practical, Semi-Blackbox Web Pentest Exam That’s Actually Challenging | 0xCyberNoob | [Read More](https://medium.com/p/492de51b8817) |
-| Mon, 26 Jan 2026 15:17:42 GMT | How I Passed TryHackMe’s Security Analyst Level 1 (SAL1): A Practical Study Guide | Citadel Cybersec | [Read More](https://medium.com/p/51df87674be7) |
-| Mon, 26 Jan 2026 15:12:56 GMT | AI In The Wrong Hands | AIChE-VIT | [Read More](https://medium.com/p/28452d15d303) |
