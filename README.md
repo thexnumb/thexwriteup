@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 Jan 2026 17:15:20 GMT | Cross-Site Scripting (XSS): From Basics to Battle-Tested Defense | Prateek Kumar | [Read More](https://medium.com/p/12e5ee113750) |
+| Mon, 26 Jan 2026 17:00:08 GMT | Proving Grounds: ClamAV | n0t_brit | [Read More](https://medium.com/p/a8530639ffe3) |
+| Mon, 26 Jan 2026 16:57:22 GMT | Understanding SSRF and Detecting It With AI, Enter See-SURF | Vaibhav Agrawal | [Read More](https://medium.com/p/0277e0179a50) |
+| Mon, 26 Jan 2026 16:49:57 GMT | Portswigger - CSRF Exploitation | Sandeep Singh Sisodiya | [Read More](https://medium.com/p/fcade0ebb861) |
+| Mon, 26 Jan 2026 16:48:15 GMT | Security and Performance Aspects of Advanced Bash Scripting | Linux Guide | [Read More](https://medium.com/p/a8b183cc0a48) |
+| Mon, 26 Jan 2026 16:47:11 GMT | REBEKAH | Adonaiyahwehforever | [Read More](https://medium.com/p/c05da7aedae6) |
+| Mon, 26 Jan 2026 16:41:22 GMT | 9 Security Principles Every Beginner Must Know (Without Googling) | Kushal Kumar | [Read More](https://medium.com/p/62144a5def97) |
+| Mon, 26 Jan 2026 16:40:22 GMT | TryHackMe Writeup: H4cked | Berkay AĞGÜL | [Read More](https://medium.com/p/051e9f17669e) |
+| Mon, 26 Jan 2026 16:38:24 GMT | V stages of Ethical hacking | Amandogra | [Read More](https://medium.com/p/f0d1c3931da5) |
+| Mon, 26 Jan 2026 16:28:15 GMT | What is Clawdbot? The Truth About the 2026 “Personal OS” Hype and the Risks You Aren’t Seeing | Champ18ion | [Read More](https://medium.com/p/1c91969ca008) |
 | Mon, 26 Jan 2026 16:25:11 GMT | Everyday Digital Privacy: A Practical Guide to Protecting Your Data. | Senidi Liyanahewa | [Read More](https://medium.com/p/ff5aa7d5a75b) |
 | Mon, 26 Jan 2026 16:19:37 GMT | Click Here for First Contact | Gareth Johnson | [Read More](https://medium.com/p/1ba947efff1e) |
 | Mon, 26 Jan 2026 16:18:45 GMT | Rebuilding — Day 4 | Technodox10 | [Read More](https://medium.com/p/f2336f617cbb) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 Jan 2026 11:02:55 GMT | Windows Fundamentals Part 1: Cybersecurity 101 Pathway — TryHackMe | Farhad Anwari | [Read More](https://medium.com/p/3f016acb343b) |
 | Mon, 26 Jan 2026 10:59:19 GMT | California SB 446: New Breach Notification Deadlines | VenariX, Inc. | [Read More](https://medium.com/p/0f6a1d9dcd8f) |
 | Mon, 26 Jan 2026 10:57:45 GMT | Cara Aman Login MPO8080 Tanpa VPN (Update 2026): Solusi Link Alternatif Resmi Anti-Blokir | Mpo8080 | [Read More](https://medium.com/p/361b61f7e4b6) |
-| Mon, 26 Jan 2026 10:55:27 GMT | Securing the Future: Industrial Cybersecurity for UAE’s Industry 4.0 Revolution | NET WIZARDS L.L.C | [Read More](https://medium.com/p/32fe456b7176) |
-| Mon, 26 Jan 2026 10:47:42 GMT | The 2026 AI & Data Science Roadmap: The Death of the “Notebook Data Scientist” | TechMallu | [Read More](https://medium.com/p/c8240e650e9e) |
-| Mon, 26 Jan 2026 10:47:14 GMT | What Actually Happens When You Open Tor Browser (A Research-Driven Walkthrough) | Tech Intel | [Read More](https://medium.com/p/d3642080ebe8) |
-| Mon, 26 Jan 2026 10:46:46 GMT | From Hours to Seconds: Automating Python Security with AI? | Maikel Mardjan | [Read More](https://medium.com/p/6384e0f982ab) |
-| Mon, 26 Jan 2026 10:45:15 GMT | Where Armor Is No Longer Required | Selene | [Read More](https://medium.com/p/ae914ad6e9f1) |
-| Mon, 26 Jan 2026 10:44:40 GMT | THE HANDSHAKE SYSTEM: A PRACTICAL BEAT PATROL MODEL | Uchenna Ekweremadu | [Read More](https://medium.com/p/8a20687b5223) |
-| Mon, 26 Jan 2026 10:42:01 GMT | Injections for Dummies | Shivam Bathla | [Read More](https://medium.com/p/65f8569e34ce) |
-| Mon, 26 Jan 2026 10:40:39 GMT | Web Application Firewalls Explained | Motasem Hamdan | [Read More](https://medium.com/p/e21bf0b4b085) |
-| Mon, 26 Jan 2026 10:38:06 GMT | Myrlyn 1.0: A Modern, Standalone Package Manager GUI for openSUSE Has Arrived | Khurram Shahzad | [Read More](https://medium.com/p/98be7e341890) |
-| Mon, 26 Jan 2026 10:35:19 GMT | How to Choose a Skill in 2026 That Actually Pays You Back. | Seb AGUELE | [Read More](https://medium.com/p/25f2c989ba2b) |
