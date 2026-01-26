@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 Jan 2026 03:51:45 GMT | ⚔️ Red Team Exercise Preparation — Winning the Battle Before the Attack ⚔️ | Esra Kayhan | [Read More](https://medium.com/p/f8e443936ca4) |
+| Mon, 26 Jan 2026 03:51:22 GMT | GPU Power in Password Cracking: Why Isn’t a CPU Enough? | Esra Kayhan | [Read More](https://medium.com/p/89714577f4b2) |
+| Mon, 26 Jan 2026 03:46:08 GMT | My blog site | kheder yusuf | [Read More](https://medium.com/p/404a9b7988d8) |
+| Mon, 26 Jan 2026 03:33:51 GMT | Attributing Malware: How Researchers Link Campaigns to Specific Threat Actors | Jackdavis Iap | [Read More](https://medium.com/p/99a61cae450a) |
+| Mon, 26 Jan 2026 03:33:28 GMT | Hands-On with SEToolkit — Practical Social Engineering Attacks | Cybeague Technologies | [Read More](https://medium.com/p/48bae86e4c79) |
+| Mon, 26 Jan 2026 03:32:05 GMT | SMB Enumeration Using CrackMapExec on Metasploitable 2 | Cybeague Technologies | [Read More](https://medium.com/p/27e5c2dbc0fa) |
+| Mon, 26 Jan 2026 03:30:27 GMT | Pass the Ticket (PtT) Attack - HTB Password Attacks Module | Blackcatjrxiii | [Read More](https://medium.com/p/77b39790bb29) |
+| Mon, 26 Jan 2026 03:29:49 GMT | Why Incident Readiness Scoring Must Be Deterministic-Even in an AI-First World | Purvansh Bhatt | [Read More](https://medium.com/p/1e6684f37508) |
+| Mon, 26 Jan 2026 03:21:08 GMT | Why 100,000 Users are (Unknowingly) Risking Their Privacy in Chrome | Nowshad Hossain Rahat | [Read More](https://medium.com/p/af863af138fa) |
+| Mon, 26 Jan 2026 03:11:46 GMT | Why Walking Beats Driving for Wardriving Data | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/c7b788f48c82) |
+| Mon, 26 Jan 2026 02:56:31 GMT | A Practice Guide to Preparing and Presenting an IT Budget | Swanston "Swan" Benjamin | [Read More](https://medium.com/p/6793151fedf9) |
+| Mon, 26 Jan 2026 02:56:22 GMT | How a Junior found a massive hole in a ‘market leader’ app | Peter Szabo | [Read More](https://medium.com/p/66ae821265aa) |
+| Mon, 26 Jan 2026 02:54:49 GMT | 22 Hours Hunting a Ghost Bug in ISC BIND 9.20.18 | Isaac Adebayo | [Read More](https://medium.com/p/2084dac1d4eb) |
+| Mon, 26 Jan 2026 02:48:27 GMT | A SOC Perspective on ChatGPT | Letsmailrajitha | [Read More](https://medium.com/p/cfc17ebc8814) |
+| Mon, 26 Jan 2026 02:04:17 GMT | Digital Shield Deeply Engaged in GoPlus Security 101 Story Session, Exploring a New Paradigm for… | Digital Shield Offcial | [Read More](https://medium.com/p/4581c21124d6) |
+| Mon, 26 Jan 2026 01:58:56 GMT | Digital Shield Deeply Engaged in GoPlus Security 101 Story Session, Exploring a New Paradigm for… | Digital Shield | [Read More](https://medium.com/p/db55176d399c) |
 | Mon, 26 Jan 2026 00:58:48 GMT | Why Doesn’t the Airplane’s Black Box Get Destroyed? | ᴍ ᴀ ʜ ᴇ ᴇ ʀ ♡ | [Read More](https://medium.com/p/57be53dc4a70) |
 | Mon, 26 Jan 2026 00:54:11 GMT | Shiba insider - Blue team labs | Nicksondiazm | [Read More](https://medium.com/p/6f0ab13b50e5) |
 | Mon, 26 Jan 2026 00:53:39 GMT | Building a $5M Machine: Inside Our Production-Ready Web3 Bug Bounty Stack | SchoolkitHub | [Read More](https://medium.com/p/b1a344d6f1ab) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 16:32:00 GMT | EVER SEEN CONTENT UPLOADED ON YOUR SOCIAL MEDIA WHICH YOU DIDNT UPLOAD? | Muhammad Ali Khawar Butt | [Read More](https://medium.com/p/b42b6a35273b) |
 | Sun, 25 Jan 2026 16:22:15 GMT | How to Recover Lost Cryptocurrency? | Mathewmatt | [Read More](https://medium.com/p/6705b42eb3c2) |
 | Sun, 25 Jan 2026 16:16:42 GMT | Echelon Philadelphia Security Guards: A Pillar of Safety in the Security Industry | Jennezsey Burton | [Read More](https://medium.com/p/9fd646dcc149) |
-| Sun, 25 Jan 2026 16:15:11 GMT | 3 Emerging AI Tools Businesses Are Experimenting With And the Data Privacy Risks You Should… | BiyteLüm | [Read More](https://medium.com/p/0774d6a3e3d5) |
-| Sun, 25 Jan 2026 16:06:25 GMT | Total AV in 2026: The SHOCKING Truth (Full Review) | Alisa | [Read More](https://medium.com/p/aa250206701a) |
-| Sun, 25 Jan 2026 16:04:49 GMT | Step-by-Step Guide: Installing Kali Linux on VirtualBox | Winson Sovian | [Read More](https://medium.com/p/a2a297a5dab4) |
-| Sun, 25 Jan 2026 16:04:31 GMT | Cybersecurity Policies That Look Strong but Fail in Court | Kshitiz Sharma | [Read More](https://medium.com/p/c0b56ec14d80) |
-| Sun, 25 Jan 2026 16:04:00 GMT | C# 中的 Garbage Collection：.NET 的分代記憶體管理 | 思維舞步 MindSteps | [Read More](https://medium.com/p/c68b88f7b80a) |
-| Sun, 25 Jan 2026 15:57:03 GMT | iPhone Safety Settings You Must Turn on Before Calling 911 | Tsumit | [Read More](https://medium.com/p/6862cb14809a) |
-| Sun, 25 Jan 2026 15:55:21 GMT | OWASP Top 10 (2025): A Practical Application Security Perspective | arunima as | [Read More](https://medium.com/p/884514e2bee3) |
-| Sun, 25 Jan 2026 15:54:25 GMT | Web3 With a Purpose — Not Just a Token | Stan4Chainz | [Read More](https://medium.com/p/2a01adb460a6) |
-| Sun, 25 Jan 2026 15:49:05 GMT | [PortSwigger][Practitioner]- Lab: CSRF where token validation depends on token being present | Javiki | [Read More](https://medium.com/p/26082e05a752) |
-| Sun, 25 Jan 2026 15:48:18 GMT | The $4 Million Account Nobody Remembered | Riz Wan | [Read More](https://medium.com/p/4ef40d4a67a2) |
-| Sun, 25 Jan 2026 15:47:50 GMT | Red Team vs. Blue Team: Building a Purple security lab from scratch | Oluwadamilare Adeosun | [Read More](https://medium.com/p/d6e5ad08778e) |
-| Sun, 25 Jan 2026 15:44:49 GMT | Metasploit Framework in Cybersecurity Practice: Analysis and Implementation | Habibi | [Read More](https://medium.com/p/3c04494ba3a8) |
-| Sun, 25 Jan 2026 15:42:52 GMT | Building the Ultimate 2026 CyberSec Lab on Mac | Esat Kemal Ekren | [Read More](https://medium.com/p/7cddde5000cb) |
-| Sun, 25 Jan 2026 15:41:22 GMT | Cybersecurity 101: How to Secure Your Home Network Like a Pro | Mubashir | [Read More](https://medium.com/p/15ab8fd2a2f7) |
-| Sun, 25 Jan 2026 15:40:32 GMT | VulnLab: Unrestricted File Upload Çözümü | CyberSam | [Read More](https://medium.com/p/5ef722b1af6c) |
-| Sun, 25 Jan 2026 15:33:24 GMT | 95% of AI projects are giving zero return. And they are not breach-ready. | Agnidipta Sarkar | [Read More](https://medium.com/p/d9f40934929b) |
