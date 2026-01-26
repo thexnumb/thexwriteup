@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 Jan 2026 15:29:17 GMT | Before you install Clawdbot, stop to learn about security, and maybe, just maybe - wait | Morgan Linton | [Read More](https://medium.com/p/202d9c116263) |
+| Mon, 26 Jan 2026 15:26:48 GMT | The 2026 Business Tech Roadmap: Solving the Top 5 Implementation Challenges in AI, Security, and… | IT_Engineer | [Read More](https://medium.com/p/42ac71e7f4cb) |
+| Mon, 26 Jan 2026 15:22:03 GMT | kWAPTA Review: A Practical, Semi-Blackbox Web Pentest Exam That’s Actually Challenging | 0xCyberNoob | [Read More](https://medium.com/p/492de51b8817) |
+| Mon, 26 Jan 2026 15:17:42 GMT | How I Passed TryHackMe’s Security Analyst Level 1 (SAL1): A Practical Study Guide | Citadel Cybersec | [Read More](https://medium.com/p/51df87674be7) |
+| Mon, 26 Jan 2026 15:12:56 GMT | AI In The Wrong Hands | AIChE-VIT | [Read More](https://medium.com/p/28452d15d303) |
+| Mon, 26 Jan 2026 15:12:25 GMT | Watching Videos on YouTube | Ged Libanan (Jilib480) | [Read More](https://medium.com/p/8a14f731e7fb) |
+| Mon, 26 Jan 2026 15:09:10 GMT | Extropy Security Bytes: week 3, 2026 | Extropy.IO | [Read More](https://medium.com/p/0de8f515b9a0) |
+| Mon, 26 Jan 2026 15:09:06 GMT | TRS4R3N Network Sniffer | Serhan Kırca | [Read More](https://medium.com/p/95768ecc6273) |
+| Mon, 26 Jan 2026 15:06:01 GMT | What is Time Stomping and what you need to know. | Aung Zaw Min | [Read More](https://medium.com/p/6ad2f79d386a) |
+| Mon, 26 Jan 2026 15:02:22 GMT | Cyber Briefing: 2026.01.26 | CyberMaterial | [Read More](https://medium.com/p/d07f7f1d4c65) |
+| Mon, 26 Jan 2026 14:51:31 GMT | “Beyond the Lock: Understanding 1-Way and 2-Way SSL in Modern Web & API Security” | Sachin Chemate | [Read More](https://medium.com/p/64b2b72cc06f) |
+| Mon, 26 Jan 2026 14:50:33 GMT | New Windows PC Setup For Speed, Privacy, Stability | Geoffrey Wenger | [Read More](https://medium.com/p/e273cd51aaaf) |
+| Mon, 26 Jan 2026 14:47:00 GMT | VAmPI — Vulnerable API: API Security Testing | Khadijat Suleman | [Read More](https://medium.com/p/4413d85eb1c2) |
+| Mon, 26 Jan 2026 14:42:51 GMT | Beyond Passwords: Designing Defense-in-Depth for Mobile Financial Applications | Ali Raza | [Read More](https://medium.com/p/34f9a385e7cb) |
 | Mon, 26 Jan 2026 14:29:03 GMT | “lynda.com”, merger acquisition, and the flaw with  browser token backup dependencies | JNComputingLIFE | [Read More](https://medium.com/p/6209ed54a6f3) |
+| Mon, 26 Jan 2026 14:28:15 GMT | Model Poisoning in the Cloud: How AI Systems Learn to Betray You | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/2881ba33c187) |
 | Mon, 26 Jan 2026 14:21:02 GMT | Banks Taking Down Their Signs: The Conquest of Finance by Tech Giants and Platforms | 안나 | [Read More](https://medium.com/p/739f3f6960d1) |
 | Mon, 26 Jan 2026 14:20:28 GMT | Forest — Hack The Box Write-Up | JY00X3 | [Read More](https://medium.com/p/04eb4f46aa1b) |
 | Mon, 26 Jan 2026 14:17:50 GMT | Choosing between DexGuard and ProGuard in Android development | Qubika | [Read More](https://medium.com/p/0323790b7b45) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 Jan 2026 10:01:05 GMT | The Hiding Place of the High Achiever: Why I Chose a Career I Didn’t Love Just to Save My Pride | Kishore V | [Read More](https://medium.com/p/717483322689) |
 | Mon, 26 Jan 2026 09:51:27 GMT | Understanding Linux Persistence Techniques in Incident Response | Sidhantchaurasiya | [Read More](https://medium.com/p/34e09fc81459) |
 | Mon, 26 Jan 2026 09:50:01 GMT | Net Capture Is Not Obsolete. Why a Simple Method Works Against FPV Drones in Ukraine | Oleksandr Kashynskyi | [Read More](https://medium.com/p/423821fa289b) |
-| Mon, 26 Jan 2026 09:43:43 GMT | DOM-Based Cookie Manipulation | Bash Overflow | [Read More](https://medium.com/p/fbc676f6f381) |
-| Mon, 26 Jan 2026 09:43:12 GMT | Red Teaming Agentic AI to Stop Memory Hacks & Infinite Loops | Niyati Daftary | [Read More](https://medium.com/p/42597d86e2ef) |
-| Mon, 26 Jan 2026 09:38:43 GMT | What Is Mobile Phone Spying? Risks, Realities, and Misconceptions | Rebecca Smith | [Read More](https://medium.com/p/c65b247c1199) |
-| Mon, 26 Jan 2026 09:38:38 GMT | Bug Bounties 201: Bug Hunting in the Age of AI | Ozgur Alp | [Read More](https://medium.com/p/6f8a931d6b88) |
-| Mon, 26 Jan 2026 09:34:16 GMT | What does a Virtual Doorman do? | Doris William | [Read More](https://medium.com/p/d6f194a76c26) |
-| Mon, 26 Jan 2026 09:32:22 GMT | I locked in last year and did amazing…. | Umar Farouk | [Read More](https://medium.com/p/02e2fc6fe22e) |
-| Mon, 26 Jan 2026 09:31:17 GMT | From a Single LNK File to Full System Lockdown: Inside a Multi-Stage Malware Campaign | Mohamed Ehab | [Read More](https://medium.com/p/c9dd9d48f267) |
-| Mon, 26 Jan 2026 09:14:47 GMT | Nobody Talks About How Hard Rebuilding Yourself Is | Vijay Kumar Gupta | [Read More](https://medium.com/p/9cd4e4b32bae) |
-| Mon, 26 Jan 2026 09:13:30 GMT | IoT Security — A Damn Vulnerable Intercom | Alessandro Tagliafierro | [Read More](https://medium.com/p/25979acb258c) |
-| Mon, 26 Jan 2026 09:13:25 GMT | Prompt Injection in Agentic AI | Rahul Singh Chauhan | [Read More](https://medium.com/p/66b93b52fe48) |
-| Mon, 26 Jan 2026 09:12:35 GMT | Exploiting OAuth Device Authorization: Risks in Microsoft 365 | Serj Novoselov | [Read More](https://medium.com/p/f254ecdf2612) |
-| Mon, 26 Jan 2026 09:07:16 GMT | LLMs and GENAI Apps: Risk & Mitigations — Part 9: Vector & Embedding Weaknesses! | Nothing Cyber [NC] | [Read More](https://medium.com/p/5059f68ac399) |
-| Mon, 26 Jan 2026 09:02:43 GMT | IOCs Are Useless Without Context — Lessons From SOC Fatigue | Paritosh | [Read More](https://medium.com/p/7b4dc9c0ae55) |
-| Mon, 26 Jan 2026 09:02:08 GMT | Bug Bounty Checklist: 7 Things to Look for in LeakRadar Results | Alexandre Vandamme | [Read More](https://medium.com/p/5c2a0fc36089) |
-| Mon, 26 Jan 2026 09:01:24 GMT | Pasting Secrets into AI Chats: A Hidden Security Risk | Souvik Ghosh | [Read More](https://medium.com/p/99d6300e14fb) |
