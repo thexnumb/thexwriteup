@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 Jan 2026 07:40:24 GMT | Prompt Injection Your Way to a Hidden Flag in an AI Assistant | OopsSec Store | [Read More](https://medium.com/p/b5bc3782fc73) |
+| Mon, 26 Jan 2026 07:39:19 GMT | Breaking My Own Kubernetes Cluster: A Red–Blue Team Therapy Session | Vijenex | [Read More](https://medium.com/p/d6849d0812e1) |
+| Mon, 26 Jan 2026 07:38:20 GMT | Can AI persuade humans with insights? | Jin Park | [Read More](https://medium.com/p/8e1fe285a384) |
+| Mon, 26 Jan 2026 07:35:41 GMT | ADFastDNS — There and Then (part 3) (The Evolution) | Raffa | [Read More](https://medium.com/p/d725600d6c9d) |
+| Mon, 26 Jan 2026 07:34:32 GMT | Everything You Need to Know About Bash: Beginners Guide Part 1 | Martin Simonyan | [Read More](https://medium.com/p/c37d9f2f0098) |
+| Mon, 26 Jan 2026 07:32:03 GMT | Rotate n8n Secrets Without Breaking Everything | Hash Block | [Read More](https://medium.com/p/e37a8c0c1a67) |
+| Mon, 26 Jan 2026 07:29:14 GMT | Port Scanning Demystified: A Practical Guide to Nmap | Fuzzyy Duck | [Read More](https://medium.com/p/fcc5cbb17f81) |
+| Mon, 26 Jan 2026 07:28:50 GMT | Data Privacy Week for SOC Leaders: Is Your Incident Response PII-Ready? | Denny Roger | [Read More](https://medium.com/p/7749e8f5d11c) |
 | Mon, 26 Jan 2026 07:28:22 GMT | 5 Dangerous HACKING Devices That Hackers Use the Most!! | Shahzaib | [Read More](https://medium.com/p/e765561dfa40) |
+| Mon, 26 Jan 2026 07:26:55 GMT | The Biggest Cybersecurity Risk Isn’t Technology — It’s People. | Samirah O.A | [Read More](https://medium.com/p/0ec7c9619510) |
+| Mon, 26 Jan 2026 07:25:50 GMT | ประจำวันจันทร์ที่ 26 มกราคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/97bcd3eb3e8d) |
 | Mon, 26 Jan 2026 07:25:06 GMT | How Forgotten DNS Records Lead to Subdomain Takeovers | Niraj Kumar Mahto | [Read More](https://medium.com/p/af9870127c2c) |
 | Mon, 26 Jan 2026 07:18:11 GMT | CloudSEK Hiring CTF Challenge 2025: A Deep Dive into Real-World Vulnerabilities | Abishek kumar | [Read More](https://medium.com/p/7c6726ee4848) |
 | Mon, 26 Jan 2026 07:16:35 GMT | TryHackMe: Simple CTF Walkthrough | Shahana | [Read More](https://medium.com/p/bb0d232417a0) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 22:43:27 GMT | PASETO: The Token System That Refuses to Let You Shoot Yourself in the Foot | humam al amin | [Read More](https://medium.com/p/ecea11e362a8) |
 | Sun, 25 Jan 2026 22:42:33 GMT | Hiding Windows APIs in Offensive Security | Yua Mikanana | [Read More](https://medium.com/p/9aeaea2451c5) |
 | Sun, 25 Jan 2026 22:42:13 GMT | As always in every penetration testing engagements we start by reconnaissance and information… | Cyb0rgBytes | [Read More](https://medium.com/p/04bf8744dc7e) |
-| Sun, 25 Jan 2026 22:39:34 GMT | Weekly Cyber Threat Bulletin: 25 January 2026 | Marcelle Lee | [Read More](https://medium.com/p/2c8eca3beb04) |
-| Sun, 25 Jan 2026 22:31:19 GMT | Level Up Your Cybersecurity Career: Skills Every Defender Needs in 2026 | -Oladepo | [Read More](https://medium.com/p/48ba82ab05ff) |
-| Sun, 25 Jan 2026 22:13:49 GMT | Diva — Insecure Data Storage — Part 4 | c0pt4n | [Read More](https://medium.com/p/2b04d801b402) |
-| Sun, 25 Jan 2026 22:12:33 GMT | AWS Access Key, 이제는 버릴 때가 됐습니다 — Role 기반 인증으로 전환한 이야기 | 이진만 (Jamie) | [Read More](https://medium.com/p/4960cf8ad93b) |
-| Sun, 25 Jan 2026 22:09:56 GMT | You Are Not Being Watched, You Are Being Remembered | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/5dca6550de42) |
-| Sun, 25 Jan 2026 22:05:11 GMT | RPC Proxy Injection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/1a4b08f59823) |
-| Sun, 25 Jan 2026 21:55:48 GMT | Cybersecurity Policies in Bangladesh: Why They Look Strong on Paper but Fail in Court | Pal Rahman | [Read More](https://medium.com/p/0fbc15496584) |
-| Sun, 25 Jan 2026 21:55:16 GMT | Setting Up Windows Server 2022 with Active Directory: A Step-by-Step Guide | Dae'mon A. | [Read More](https://medium.com/p/571b47b714f9) |
-| Sun, 25 Jan 2026 21:48:39 GMT | OPSWAT MetaDefender Kiosk Tower | Asterisk | [Read More](https://medium.com/p/d453dc3631bf) |
-| Sun, 25 Jan 2026 21:39:46 GMT | Malware Analysis — Emoji Script | Tsalmeid | [Read More](https://medium.com/p/404d4269db37) |
