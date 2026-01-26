@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 Jan 2026 00:58:48 GMT | Why Doesn’t the Airplane’s Black Box Get Destroyed? | ᴍ ᴀ ʜ ᴇ ᴇ ʀ ♡ | [Read More](https://medium.com/p/57be53dc4a70) |
+| Mon, 26 Jan 2026 00:54:11 GMT | Shiba insider - Blue team labs | Nicksondiazm | [Read More](https://medium.com/p/6f0ab13b50e5) |
+| Mon, 26 Jan 2026 00:53:39 GMT | Building a $5M Machine: Inside Our Production-Ready Web3 Bug Bounty Stack | SchoolkitHub | [Read More](https://medium.com/p/b1a344d6f1ab) |
+| Mon, 26 Jan 2026 00:44:47 GMT | From EVTX Logs to MITRE‑Mapped Threats: Building a Lightweight UEBA Pipeline for LOLBins | Suvin Majithia | [Read More](https://medium.com/p/db09b33e14cf) |
+| Mon, 26 Jan 2026 00:44:33 GMT | Bots in Cybersecurity: Why Zero Trust Is the Only Real Defense | Infosecjourney.tech | [Read More](https://medium.com/p/66e69e152d40) |
+| Mon, 26 Jan 2026 00:44:26 GMT | The Agentic Kill Chain | XY CYBER | [Read More](https://medium.com/p/129495186333) |
+| Mon, 26 Jan 2026 00:28:27 GMT | What shifted this week in AI governance and why it matters | A D | [Read More](https://medium.com/p/5198dedf6353) |
+| Mon, 26 Jan 2026 00:15:14 GMT | Reducing Attack Surfaces — Why Verification Should Minimize Interaction | sengom | [Read More](https://medium.com/p/ad6634fde10a) |
+| Mon, 26 Jan 2026 00:13:43 GMT | Verifying AI Outputs — Why Results Must Be Proven, Not Recomputed | sengom | [Read More](https://medium.com/p/4f6728c2e17b) |
+| Mon, 26 Jan 2026 00:10:46 GMT | Making the most of your time at the RSAC Conference 2026 | Ben Rothke | [Read More](https://medium.com/p/a94b47bc6c64) |
+| Mon, 26 Jan 2026 00:08:29 GMT | Weak Crypto & Export Laws: How the 90s Shaped Internet Security | William Pfeiffer | [Read More](https://medium.com/p/aaa7ec5c75b3) |
+| Sun, 25 Jan 2026 23:46:28 GMT | How to Collect Telehealth Feedback via Automated Surveys | Yue-moon | [Read More](https://medium.com/p/eb5a73da1d07) |
 | Sun, 25 Jan 2026 22:58:36 GMT | #LifeAmongstBugs02: Intercepting the State’s Secrets | newklei | [Read More](https://medium.com/p/9000297a947c) |
 | Sun, 25 Jan 2026 22:43:27 GMT | PASETO: The Token System That Refuses to Let You Shoot Yourself in the Foot | humam al amin | [Read More](https://medium.com/p/ecea11e362a8) |
 | Sun, 25 Jan 2026 22:42:33 GMT | Hiding Windows APIs in Offensive Security | Yua Mikanana | [Read More](https://medium.com/p/9aeaea2451c5) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 15:41:22 GMT | Cybersecurity 101: How to Secure Your Home Network Like a Pro | Mubashir | [Read More](https://medium.com/p/15ab8fd2a2f7) |
 | Sun, 25 Jan 2026 15:40:32 GMT | VulnLab: Unrestricted File Upload Çözümü | CyberSam | [Read More](https://medium.com/p/5ef722b1af6c) |
 | Sun, 25 Jan 2026 15:33:24 GMT | 95% of AI projects are giving zero return. And they are not breach-ready. | Agnidipta Sarkar | [Read More](https://medium.com/p/d9f40934929b) |
-| Sun, 25 Jan 2026 15:28:00 GMT | Coupang’s Data Fiasco and the Costs of Digital Sovereignty | James Paek | [Read More](https://medium.com/p/f4074093c4b3) |
-| Sun, 25 Jan 2026 15:25:15 GMT | PRIVILEGE ESCALATION TESPİTİ: Wazuh ile Log Tabanlı Bir Detection Yaklaşımı | dilan alpaltun | [Read More](https://medium.com/p/b2cf3779281b) |
-| Sun, 25 Jan 2026 15:24:46 GMT | Security Management, File Management & User–Kernel Architecture: An In-Depth Operating Systems Guid | Shalu | [Read More](https://medium.com/p/d1d03273c5e9) |
-| Sun, 25 Jan 2026 15:21:33 GMT | Learn AWS Billing, Monitoring & VPC in One Shot | Vidhi Jayeswal | [Read More](https://medium.com/p/6b355fcaadb5) |
-| Sun, 25 Jan 2026 15:18:32 GMT | I Taught AI to Hack My Apps (So the Bad Guys Can’t) | Rifky Ekayama | [Read More](https://medium.com/p/4ed4bf0cc533) |
-| Sun, 25 Jan 2026 15:11:05 GMT | Stop Mac Slowdowns With Smarter Storage Control | Geoffrey Wenger | [Read More](https://medium.com/p/e536c97c2175) |
-| Sun, 25 Jan 2026 15:09:56 GMT | Protecting floralhorizon.sg (and other hobby projects) | Kahhow | [Read More](https://medium.com/p/119076886a27) |
-| Sun, 25 Jan 2026 15:02:05 GMT | Node.js API Security That Survives the Real World | Bhagya Rana | [Read More](https://medium.com/p/54b191edfd57) |
-| Sun, 25 Jan 2026 14:58:08 GMT | Взаємодія з Windows | Fl4g Hunt3r Project | [Read More](https://medium.com/p/f3a1254ffbc2) |
-| Sun, 25 Jan 2026 14:58:07 GMT | IdentityServer, JWT ve Mikroservis Mimarisi: .NET ile Güvenli ve Ölçeklenebilir Backend Tasarımı | MELEK DEMİR | [Read More](https://medium.com/p/81f1aab99a81) |
-| Sun, 25 Jan 2026 14:55:21 GMT | Linux Server Forensics by Intelithics{THM} | Intelithics | [Read More](https://medium.com/p/410253748387) |
-| Sun, 25 Jan 2026 14:50:57 GMT | RHEL 10: A Betrayal of Sovereignty | Malik Vero | [Read More](https://medium.com/p/bd6370f735e4) |
