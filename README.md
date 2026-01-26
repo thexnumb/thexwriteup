@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 Jan 2026 07:28:22 GMT | 5 Dangerous HACKING Devices That Hackers Use the Most!! | Shahzaib | [Read More](https://medium.com/p/e765561dfa40) |
+| Mon, 26 Jan 2026 07:25:06 GMT | How Forgotten DNS Records Lead to Subdomain Takeovers | Niraj Kumar Mahto | [Read More](https://medium.com/p/af9870127c2c) |
+| Mon, 26 Jan 2026 07:18:11 GMT | CloudSEK Hiring CTF Challenge 2025: A Deep Dive into Real-World Vulnerabilities | Abishek kumar | [Read More](https://medium.com/p/7c6726ee4848) |
+| Mon, 26 Jan 2026 07:16:35 GMT | TryHackMe: Simple CTF Walkthrough | Shahana | [Read More](https://medium.com/p/bb0d232417a0) |
+| Mon, 26 Jan 2026 07:10:36 GMT | A Security Company Hired a North Korean Spy. It Took 25 Minutes to Catch Him. | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/0bdb127a895a) |
+| Mon, 26 Jan 2026 07:06:12 GMT | Reentrancy — Smart Contract Vulnerability Labeling 101 | Sponge | [Read More](https://medium.com/p/3cb22286ed94) |
+| Mon, 26 Jan 2026 07:02:04 GMT | Microsoft Entra Connect Sync — Migrate from Pass-through Authentication to Password Hash Sync | Brian Veldman | [Read More](https://medium.com/p/f8864ad95006) |
+| Mon, 26 Jan 2026 07:02:01 GMT | How the POTUS Travels: Air Force One, Limo Tanks, and a $200 Million Security Bubble | Explained Lens | [Read More](https://medium.com/p/6a1d810f083a) |
+| Mon, 26 Jan 2026 07:01:39 GMT | FinAuth: Financial-Grade Identity Verification — Fortifying Intelligent Security, Empowering… | Yuanli Technology | [Read More](https://medium.com/p/d7ff98ffa418) |
+| Mon, 26 Jan 2026 07:00:44 GMT | Email Header Analysis Explained: How SOC Analysts Trace Phishing Attacks | Abhinsubej | [Read More](https://medium.com/p/4f4217e003ad) |
+| Mon, 26 Jan 2026 06:58:59 GMT | Thick Client Pentesting (Part 1): Introduction & Basics | Harish muthyala | [Read More](https://medium.com/p/da2a65c11d06) |
+| Mon, 26 Jan 2026 06:56:36 GMT | Nmap Explained: The Essential Tool for Network Discovery and Security | Sneha | [Read More](https://medium.com/p/cb3c2254f483) |
+| Mon, 26 Jan 2026 06:55:57 GMT | Web Security 101: Part 4 - Content Security Policy (CSP) | Nithishraina | [Read More](https://medium.com/p/b807c31150bf) |
+| Mon, 26 Jan 2026 06:53:27 GMT | Cybersecurity Is Not Just for Big Companies: Lessons I’m Learning About Small Business Security | Sandra Aganyi | [Read More](https://medium.com/p/ed2f82a32c07) |
+| Mon, 26 Jan 2026 06:51:00 GMT | Breach and Attack Simulation vs Penetration Testing | Digital Duffer | [Read More](https://medium.com/p/7b057d2c5c7e) |
+| Mon, 26 Jan 2026 06:50:34 GMT | Authorisation | Nidhisharma Freelancework | [Read More](https://medium.com/p/2718646e7577) |
+| Mon, 26 Jan 2026 06:47:17 GMT | Frozen Signals: Denmark’s Bluetooth Blackout Reveals NATO’s Information Risk Crisis | Dr. Thomas Jreige | [Read More](https://medium.com/p/91f2a4254c34) |
+| Mon, 26 Jan 2026 06:44:07 GMT | Linux Commands for Ethical Hackers: From Beginner to Advanced ️ | monster | [Read More](https://medium.com/p/8f807341a274) |
+| Mon, 26 Jan 2026 06:43:52 GMT | I Built a Production-Ready Cybersecurity Academy in One Weekend (While Everything Kept Breaking) | Rohan Choudhari | [Read More](https://medium.com/p/0a72c5101063) |
+| Mon, 26 Jan 2026 06:42:43 GMT | ZArchiver APK | Bandisharecx | [Read More](https://medium.com/p/e5c34629a32b) |
+| Mon, 26 Jan 2026 06:42:27 GMT | From Passwords to Passkeys: How Cybersecurity Is Evolving | Sneha | [Read More](https://medium.com/p/071dfe859289) |
 | Mon, 26 Jan 2026 06:35:03 GMT | Building a Practical Hardware Setup for Ethical Hackers ️ | monster | [Read More](https://medium.com/p/2c2b6b285ba7) |
 | Mon, 26 Jan 2026 06:30:46 GMT | Facing the AI Provocateur: Why Your Passcode is the iPhone’s Real Master Key | Ryu360 | [Read More](https://medium.com/p/b4eaee5f2729) |
 | Mon, 26 Jan 2026 06:19:10 GMT | This Is Me Trying to Care Again | Joan Bluejack | [Read More](https://medium.com/p/4b9e2cdac429) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 21:55:16 GMT | Setting Up Windows Server 2022 with Active Directory: A Step-by-Step Guide | Dae'mon A. | [Read More](https://medium.com/p/571b47b714f9) |
 | Sun, 25 Jan 2026 21:48:39 GMT | OPSWAT MetaDefender Kiosk Tower | Asterisk | [Read More](https://medium.com/p/d453dc3631bf) |
 | Sun, 25 Jan 2026 21:39:46 GMT | Malware Analysis — Emoji Script | Tsalmeid | [Read More](https://medium.com/p/404d4269db37) |
-| Sun, 25 Jan 2026 21:31:24 GMT | Don’t Sell Your Computer Together With Your Past | root0emir | [Read More](https://medium.com/p/8942b4a804ff) |
-| Sun, 25 Jan 2026 21:30:47 GMT | Triathlon — Hack Smarter Walkthrough - TheHiker | TheHiker | [Read More](https://medium.com/p/605a058c52c5) |
-| Sun, 25 Jan 2026 21:09:14 GMT | Visual Studio Code (VS Code) — Secure Installation & CIS Hardening Guide — Part I | SOCFortress | [Read More](https://medium.com/p/9843e1571ffb) |
-| Sun, 25 Jan 2026 21:03:14 GMT | 0xL4ugh v5 CTF DFIR Official Writeup | Immortal_ibr | [Read More](https://medium.com/p/84af84d2d65c) |
-| Sun, 25 Jan 2026 20:47:41 GMT | keywords listing | seal(theo)ry | [Read More](https://medium.com/p/7b8c9690108b) |
-| Sun, 25 Jan 2026 20:30:44 GMT | Tu veux savoir ce qui sépare un pentester d’un cybercriminel ? | Noctu@edu | [Read More](https://medium.com/p/c30d782d96a5) |
-| Sun, 25 Jan 2026 20:23:34 GMT | Stop Saying “I Want to Learn” in Your IT Interview | Gavel | [Read More](https://medium.com/p/0cec7f16d575) |
-| Sun, 25 Jan 2026 20:21:17 GMT | The Supreme Court Case That Proves Freight Brokers Need Better Verification Tools | Heesham Naji | [Read More](https://medium.com/p/ad86376c0955) |
-| Sun, 25 Jan 2026 20:04:40 GMT | Beyond the Clinic: Protecting Post-Mortem Data with Neural Odontology & Bio-Encryption | E-Forensics | [Read More](https://medium.com/p/954a849f20ab) |
-| Sun, 25 Jan 2026 20:03:25 GMT | The Quiet Conversation That Powers the Internet | Amandogra | [Read More](https://medium.com/p/d0ab0801733f) |
-| Sun, 25 Jan 2026 19:59:41 GMT | Getting Started with SonarQube and SonarScanner: A Step-by-Step Setup Guide | Krishna Patel | [Read More](https://medium.com/p/964450a7f6b4) |
-| Sun, 25 Jan 2026 19:50:26 GMT | Splunk Serisi #2: Dashboards and Reports(TryHackMe Çözümü) | Ahmet Hakan Öztürk | [Read More](https://medium.com/p/de27e15ad06a) |
-| Sun, 25 Jan 2026 19:47:16 GMT | Building an Explainable OSINT Pipeline for Geospatial Attribution of Malicious Infrastructure | Ronak Sharma | [Read More](https://medium.com/p/6f1405dc7334) |
-| Sun, 25 Jan 2026 19:39:41 GMT | Tryhackme Crack The Hash CTF Write-Up | Kandemirryigit | [Read More](https://medium.com/p/c7471c22b505) |
-| Sun, 25 Jan 2026 19:38:53 GMT | International Relations Series #3 When Geopolitics Is Reduced to a Deal | bobosjourney1 | [Read More](https://medium.com/p/28a550e60895) |
-| Sun, 25 Jan 2026 19:37:03 GMT | Cyber Campaigns: Fix this, Fix that — Part 1 | Shivam Bathla | [Read More](https://medium.com/p/a6f6111fb1f0) |
-| Sun, 25 Jan 2026 19:28:01 GMT | Least-Privilege Is a Feedback Loop — Not a Policy | Jonas Wolffsen | [Read More](https://medium.com/p/6c8fb17327de) |
-| Sun, 25 Jan 2026 19:22:27 GMT | Cracking “Cipher’s Secret Message” on TryHackMe: A Python Walkthrough | Hemantha Krishna Challa | [Read More](https://medium.com/p/52830a1e036c) |
-| Sun, 25 Jan 2026 19:18:52 GMT | Create Your Own Up-to-Date Threat Intelligence | Just Moi | [Read More](https://medium.com/p/9bc7cd8c7085) |
-| Sun, 25 Jan 2026 19:13:36 GMT | The 50-Cent Hacker: How I Built a Cyber Career on a Budget Phone and No Internet | Ghouti yelles chaouche | [Read More](https://medium.com/p/3a0e32ba4ad3) |
-| Sun, 25 Jan 2026 19:13:03 GMT | Microsoft is Not Your Friend, They Never Were… | z3r0trust | [Read More](https://medium.com/p/0d37e1b2d11e) |
