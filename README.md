@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 Jan 2026 06:35:03 GMT | Building a Practical Hardware Setup for Ethical Hackers ️ | monster | [Read More](https://medium.com/p/2c2b6b285ba7) |
+| Mon, 26 Jan 2026 06:30:46 GMT | Facing the AI Provocateur: Why Your Passcode is the iPhone’s Real Master Key | Ryu360 | [Read More](https://medium.com/p/b4eaee5f2729) |
+| Mon, 26 Jan 2026 06:19:10 GMT | This Is Me Trying to Care Again | Joan Bluejack | [Read More](https://medium.com/p/4b9e2cdac429) |
+| Mon, 26 Jan 2026 06:12:49 GMT | The Cryptography Journey — OCSP Stapling (Online Certification Status Protocol Stapling) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/88d881619f6a) |
+| Mon, 26 Jan 2026 06:11:11 GMT | Building a Simple AI Model to Detect Brute Force Attacks | Abhinsubej | [Read More](https://medium.com/p/1735f6e5ad57) |
+| Mon, 26 Jan 2026 06:10:39 GMT | Grind Culture Is Making Us Forget We’re Human | Gada T | [Read More](https://medium.com/p/c882ac526187) |
+| Mon, 26 Jan 2026 06:08:25 GMT | Completing EC-Council CEH v13: My Experience, Guidance & How to Pass on the First Attempt | Batraju Sairam | [Read More](https://medium.com/p/79b912796439) |
+| Mon, 26 Jan 2026 06:07:53 GMT | Hard to Break vs. Impossible to Break | Amit Tomar | [Read More](https://medium.com/p/1fdd721ffee9) |
+| Mon, 26 Jan 2026 06:07:06 GMT | Blockchain Software Development in 2026: Turning Distributed Ledgers into Real Business Value | Devarshi Acharya | [Read More](https://medium.com/p/bcec1d261757) |
+| Mon, 26 Jan 2026 06:02:42 GMT | I Solved 20 Levels of OverTheWire Bandit — Here’s What I Learned | Asad Sayyad | [Read More](https://medium.com/p/37c024986895) |
+| Mon, 26 Jan 2026 06:02:11 GMT | Gizlilik Öncelikli Yapay Zeka ile Dijital Güven Nasıl İnşa Edilir? | Kartaca | [Read More](https://medium.com/p/896edd30e4bf) |
+| Mon, 26 Jan 2026 05:50:21 GMT | SOC Structure (Tier 1, Tier 2, Tier 3 Analysts) | Techvrs | [Read More](https://medium.com/p/7e2e228c71bb) |
 | Mon, 26 Jan 2026 05:47:27 GMT | How to Start VAPT for Beginners ️Testing Series— Part 1 | VAPTify | [Read More](https://medium.com/p/68c8ba4f2e2c) |
 | Mon, 26 Jan 2026 05:46:48 GMT | System Analyst In Action: Designing Secure Software — A Practical Security & Privacy Guide | Blog Chip | [Read More](https://medium.com/p/a3de2814f4f1) |
 | Mon, 26 Jan 2026 05:38:23 GMT | Nmap Network Scanning Explained — Beginner to Practical Guide | Shadow Attackers | [Read More](https://medium.com/p/d01cc6dd96b2) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 19:18:52 GMT | Create Your Own Up-to-Date Threat Intelligence | Just Moi | [Read More](https://medium.com/p/9bc7cd8c7085) |
 | Sun, 25 Jan 2026 19:13:36 GMT | The 50-Cent Hacker: How I Built a Cyber Career on a Budget Phone and No Internet | Ghouti yelles chaouche | [Read More](https://medium.com/p/3a0e32ba4ad3) |
 | Sun, 25 Jan 2026 19:13:03 GMT | Microsoft is Not Your Friend, They Never Were… | z3r0trust | [Read More](https://medium.com/p/0d37e1b2d11e) |
-| Sun, 25 Jan 2026 19:01:14 GMT | Why 90% of CISSP Candidates Fail This One Question (And How to Be in the 10% Who Don’t) | Pushpak Sharma | [Read More](https://medium.com/p/6de894c968c7) |
-| Sun, 25 Jan 2026 18:57:38 GMT | GitHub Needs a Meaning first Makeover in 2026 | Anish Gupta | [Read More](https://medium.com/p/d3fb4d42e27d) |
-| Sun, 25 Jan 2026 18:56:26 GMT | The First Shift CTF | hackerboi | [Read More](https://medium.com/p/8ecb84fc8ce1) |
-| Sun, 25 Jan 2026 18:52:42 GMT | Active Directory for IT Support: Why I Built This Lab and What I Learned | Dre | [Read More](https://medium.com/p/2297eae466ed) |
-| Sun, 25 Jan 2026 18:47:19 GMT | Trudeau’s Inexcusable Silence towards Cybersecurity | teammimi lee | [Read More](https://medium.com/p/73eacea12583) |
-| Sun, 25 Jan 2026 18:45:41 GMT | Decentralized Codex Security: The Trusted Name in Crypto Asset Recovery. | Germanytrader | [Read More](https://medium.com/p/9d14323353d5) |
-| Sun, 25 Jan 2026 18:37:51 GMT | Beyond CVSS: How Machine Learning and Semantic Embeddings Are Revolutionizing Vulnerability… | Zainab Ikhwan | [Read More](https://medium.com/p/c06ca7c1a4ab) |
-| Sun, 25 Jan 2026 18:37:15 GMT | Deep-Dive PII , Analyzing Impact and Reporting (Part 3/3 ) | Cybersecplayground | [Read More](https://medium.com/p/1f4c354a2071) |
-| Sun, 25 Jan 2026 18:25:12 GMT | SOC HomeLab — Part 2 (Setting up Wazuh) | Archit Vats | [Read More](https://medium.com/p/f7fae19ec9ee) |
-| Sun, 25 Jan 2026 18:24:36 GMT | SOC HomeLab — Part 1 (Introduction) | Archit Vats | [Read More](https://medium.com/p/c2a5ae24b81a) |
-| Sun, 25 Jan 2026 18:20:12 GMT | Getting Started with Penetration Testing (Pentest) — A Beginner’s Guide | Numanhan Duran | [Read More](https://medium.com/p/8f7b708a3ac4) |
-| Sun, 25 Jan 2026 18:20:03 GMT | Precision & Recall in Detection Engineering | RootXover | [Read More](https://medium.com/p/0cf31350e421) |
