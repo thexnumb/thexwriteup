@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 Jan 2026 10:26:49 GMT | HTB Web-Attacks Skills Assessment | Migs | [Read More](https://medium.com/p/01cc4dd27a97) |
+| Mon, 26 Jan 2026 10:22:05 GMT | You Use the Internet Every Day. Here’s Why Understanding It Matters More Than Ever | Ahmad Saidu | [Read More](https://medium.com/p/76e2d3e2fc28) |
+| Mon, 26 Jan 2026 10:21:46 GMT | Multi-Factor Authentication (MFA) Flows — How Modern Systems Balance Security and Usability | Stoic Engineer | [Read More](https://medium.com/p/36b3cf76c397) |
+| Mon, 26 Jan 2026 10:20:27 GMT | Hack The Box: Overwatch Machine | Abhinav | [Read More](https://medium.com/p/f6a2b0119080) |
+| Mon, 26 Jan 2026 10:20:24 GMT | Glibc 2.43 Released With ISO C23 Features and Performance Improvements | Khurram Shahzad | [Read More](https://medium.com/p/b01e4b159206) |
+| Mon, 26 Jan 2026 10:13:56 GMT | REPORTAGE: Hacktivist Disruption — What You Need to Know About Russian‑Aligned Cyber Attacks | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/ec8415300a18) |
+| Mon, 26 Jan 2026 10:12:48 GMT | Detect the Threat Within: Why Insider Threat & Behavioral Monitoring Is Critical for Modern… | Plutosec Cyber Security | [Read More](https://medium.com/p/e7718365e35c) |
+| Mon, 26 Jan 2026 10:09:56 GMT | DIGITAL SME updates its SME guide to implementing ISO/IEC 27001 — what UK SMEs should do next | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/c4e4aa75b3fd) |
+| Mon, 26 Jan 2026 10:01:05 GMT | The Hiding Place of the High Achiever: Why I Chose a Career I Didn’t Love Just to Save My Pride | Kishore V | [Read More](https://medium.com/p/717483322689) |
+| Mon, 26 Jan 2026 09:51:27 GMT | Understanding Linux Persistence Techniques in Incident Response | Sidhantchaurasiya | [Read More](https://medium.com/p/34e09fc81459) |
+| Mon, 26 Jan 2026 09:50:01 GMT | Net Capture Is Not Obsolete. Why a Simple Method Works Against FPV Drones in Ukraine | Oleksandr Kashynskyi | [Read More](https://medium.com/p/423821fa289b) |
+| Mon, 26 Jan 2026 09:43:43 GMT | DOM-Based Cookie Manipulation | Bash Overflow | [Read More](https://medium.com/p/fbc676f6f381) |
+| Mon, 26 Jan 2026 09:43:12 GMT | Red Teaming Agentic AI to Stop Memory Hacks & Infinite Loops | Niyati Daftary | [Read More](https://medium.com/p/42597d86e2ef) |
+| Mon, 26 Jan 2026 09:38:43 GMT | What Is Mobile Phone Spying? Risks, Realities, and Misconceptions | Rebecca Smith | [Read More](https://medium.com/p/c65b247c1199) |
+| Mon, 26 Jan 2026 09:38:38 GMT | Bug Bounties 201: Bug Hunting in the Age of AI | Ozgur Alp | [Read More](https://medium.com/p/6f8a931d6b88) |
+| Mon, 26 Jan 2026 09:34:16 GMT | What does a Virtual Doorman do? | Doris William | [Read More](https://medium.com/p/d6f194a76c26) |
 | Mon, 26 Jan 2026 09:32:22 GMT | I locked in last year and did amazing…. | Umar Farouk | [Read More](https://medium.com/p/02e2fc6fe22e) |
 | Mon, 26 Jan 2026 09:31:17 GMT | From a Single LNK File to Full System Lockdown: Inside a Multi-Stage Malware Campaign | Mohamed Ehab | [Read More](https://medium.com/p/c9dd9d48f267) |
 | Mon, 26 Jan 2026 09:14:47 GMT | Nobody Talks About How Hard Rebuilding Yourself Is | Vijay Kumar Gupta | [Read More](https://medium.com/p/9cd4e4b32bae) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 Jan 2026 04:52:54 GMT | Apakah random itu memang random? | Ian | [Read More](https://medium.com/p/781a22ad7e2d) |
 | Mon, 26 Jan 2026 04:48:15 GMT | Enterprise Cyber Security in Qatar: Safeguarding the Future of Business in a Digital Age | zorvix zorvix | [Read More](https://medium.com/p/0de3569b906c) |
 | Mon, 26 Jan 2026 04:46:20 GMT | 1000GB Mailbox Storage ✉️: Sounds Generous, Right? | Steven Chin | [Read More](https://medium.com/p/e30cfb99ea7e) |
-| Mon, 26 Jan 2026 04:42:41 GMT | How to Repair Camper Entry Locks and Security Mechanisms | Nageltrailerrepair | [Read More](https://medium.com/p/a26ad4367ba1) |
-| Mon, 26 Jan 2026 04:32:03 GMT | The Agent Sandbox Pattern That Prevents Incidents | Hash Block | [Read More](https://medium.com/p/ccb3302ba3b7) |
-| Mon, 26 Jan 2026 04:26:21 GMT | Sloven Classmate APK | Apkpuredev | [Read More](https://medium.com/p/40a897e9c9b4) |
-| Mon, 26 Jan 2026 04:24:32 GMT | Why OSINT Matters for Blue Teams | Zeliha Zengin | [Read More](https://medium.com/p/f20268f12894) |
-| Mon, 26 Jan 2026 04:24:18 GMT | I Fired My Junior Developer. Then I Hired ChatGPT. It Was a Disaster. | Anand Panchal | [Read More](https://medium.com/p/fb41b5210bbe) |
-| Mon, 26 Jan 2026 04:15:43 GMT | Transforming Transactions Into Lasting Relationships — AI as CX Binding Force - Ascendion | Ascendion | [Read More](https://medium.com/p/660d3203f9f2) |
-| Mon, 26 Jan 2026 04:11:55 GMT | Gaslighting: Why Am I Apologizing For Being Hurt? | Ankita Borkakoty | [Read More](https://medium.com/p/2fbef2d57453) |
-| Mon, 26 Jan 2026 04:07:31 GMT | Envisioning the Future of Data Modernization in Business Operations - Ascendion | Ascendion | [Read More](https://medium.com/p/966e92f08f93) |
-| Mon, 26 Jan 2026 04:07:13 GMT | RST TI Report Digest: 26 Jan 2026 | RST Cloud | [Read More](https://medium.com/p/5d3cc982a107) |
-| Mon, 26 Jan 2026 03:51:45 GMT | ⚔️ Red Team Exercise Preparation — Winning the Battle Before the Attack ⚔️ | Esra Kayhan | [Read More](https://medium.com/p/f8e443936ca4) |
-| Mon, 26 Jan 2026 03:51:22 GMT | GPU Power in Password Cracking: Why Isn’t a CPU Enough? | Esra Kayhan | [Read More](https://medium.com/p/89714577f4b2) |
-| Mon, 26 Jan 2026 03:46:08 GMT | My blog site | kheder yusuf | [Read More](https://medium.com/p/404a9b7988d8) |
-| Mon, 26 Jan 2026 03:33:51 GMT | Attributing Malware: How Researchers Link Campaigns to Specific Threat Actors | Jackdavis Iap | [Read More](https://medium.com/p/99a61cae450a) |
-| Mon, 26 Jan 2026 03:33:28 GMT | Hands-On with SEToolkit — Practical Social Engineering Attacks | Cybeague Technologies | [Read More](https://medium.com/p/48bae86e4c79) |
-| Mon, 26 Jan 2026 03:32:05 GMT | SMB Enumeration Using CrackMapExec on Metasploitable 2 | Cybeague Technologies | [Read More](https://medium.com/p/27e5c2dbc0fa) |
-| Mon, 26 Jan 2026 03:30:27 GMT | Pass the Ticket (PtT) Attack - HTB Password Attacks Module | Blackcatjrxiii | [Read More](https://medium.com/p/77b39790bb29) |
