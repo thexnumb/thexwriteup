@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 Jan 2026 19:37:34 GMT | Windows 11 Jan 2026 Update Nightmare: KB5074109 Freezes Outlook & Causes BSODs | TechBird | [Read More](https://medium.com/p/2a3b16d40f4a) |
+| Mon, 26 Jan 2026 19:36:28 GMT | ️‍♂️ HTB: Footprinting Lab — Hard (Walkthrough) | Moulishwar vs | [Read More](https://medium.com/p/7c00f5da7e4f) |
+| Mon, 26 Jan 2026 19:36:20 GMT | Australia’s Cyber Workforce Push Highlights New Zealand’s Growing Skills Gap | Chris Buxton | [Read More](https://medium.com/p/8f92b853a62c) |
+| Mon, 26 Jan 2026 19:31:44 GMT | Securing Dockerized AI Agents | Jasdeep Singh Bhalla | [Read More](https://medium.com/p/ffe3399a178c) |
+| Mon, 26 Jan 2026 19:27:50 GMT | Detecting C2 Beacons: Part 2 | z3l3v | [Read More](https://medium.com/p/7abc977196c1) |
+| Mon, 26 Jan 2026 19:24:34 GMT | The Hidden Costs of Free AI: Data, Bias, and the Price You Don’t See | Cut Brought Clammy | [Read More](https://medium.com/p/dd9d318a9819) |
 | Mon, 26 Jan 2026 19:21:57 GMT | Cyber Defense Frameworks: Cyber Kill Chain | Ahmad Khaled | [Read More](https://medium.com/p/8f467b5fba35) |
 | Mon, 26 Jan 2026 19:19:11 GMT | The Cybersecurity Nexus — “AI” (January 2026) | Franklin Rhodes | [Read More](https://medium.com/p/148479df2fb6) |
 | Mon, 26 Jan 2026 19:16:17 GMT | UnderTheWire Century | Avigail Laing | [Read More](https://medium.com/p/14bde1a48d65) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 Jan 2026 13:48:42 GMT | Tryhackme Lazy Admin CTF Write-Up | Kandemirryigit | [Read More](https://medium.com/p/235a283e79c9) |
 | Mon, 26 Jan 2026 13:44:25 GMT | $1 Car Sale? Wondering what it is?? | cybrNK | [Read More](https://medium.com/p/cfacae622ea5) |
 | Mon, 26 Jan 2026 13:43:52 GMT | OSINT Python Tool Reveals EVERYTHING About Anyone!!! | cybrNK | [Read More](https://medium.com/p/7e171317cf31) |
-| Mon, 26 Jan 2026 13:36:56 GMT | Freezing the Autonomous Agent Layer: How I Found a Critical DoS in a Major DAG Platform | Sumit Shah (HackSage) | [Read More](https://medium.com/p/b166bc238b69) |
-| Mon, 26 Jan 2026 13:36:34 GMT | 1. Web Cache Deception When Private User Data Becomes Public | Abhijeet kumawat | [Read More](https://medium.com/p/cac7f269f964) |
-| Mon, 26 Jan 2026 13:31:10 GMT | SolarDisruption Lab Writeup (CyberDefenders) | Loay Salah | [Read More](https://medium.com/p/65c631272d58) |
-| Mon, 26 Jan 2026 13:31:01 GMT | That Awkward Moment (And How Introscape Saves You From It) | Andy.G | [Read More](https://medium.com/p/224ad6fb2a4e) |
-| Mon, 26 Jan 2026 13:29:56 GMT | Why Open Ports Are Still the #1 Risk (And How to Close Them) | Akhil Akash Bindla | [Read More](https://medium.com/p/3a794ca79038) |
-| Mon, 26 Jan 2026 13:29:27 GMT | How to Check Nameserver Records Instantly with NS Lookup Tool | Everywebtool | [Read More](https://medium.com/p/93b11546d7e8) |
