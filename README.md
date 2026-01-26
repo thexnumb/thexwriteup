@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 Jan 2026 12:38:18 GMT | SOC Burnout Depends on Dashboard Analyst Experience | Graylog | [Read More](https://medium.com/p/27f6a220a651) |
+| Mon, 26 Jan 2026 12:37:30 GMT | Basic Pentesting Room- THM | GoN | [Read More](https://medium.com/p/de958788f8c4) |
+| Mon, 26 Jan 2026 12:16:05 GMT | “How to Start a Cybersecurity Career With No Experience” | SAKSHAM DWIVEDI | [Read More](https://medium.com/p/8a21a6f42698) |
+| Mon, 26 Jan 2026 12:02:03 GMT | Writeup for picoCTF challenge “Power Cookie” | Walter Moar | [Read More](https://medium.com/p/0316622a4d22) |
+| Mon, 26 Jan 2026 11:58:59 GMT | SOC Analyst Day 5: Understanding NAT, VAT, Traffic Flow, and Ports & Services | Faizan Nazir | [Read More](https://medium.com/p/939ad9251901) |
+| Mon, 26 Jan 2026 11:57:50 GMT | Silent Chollima APT Adversary Simulation | S3N4T0R | [Read More](https://medium.com/p/e661a601901a) |
+| Mon, 26 Jan 2026 11:55:09 GMT | eWPTXv3 Exam Review | Halil Kirazkaya | [Read More](https://medium.com/p/b10ea5b8541a) |
+| Mon, 26 Jan 2026 11:50:54 GMT | Building a Real-Time Ad Fraud Detection System 2026 | TechEon | [Read More](https://medium.com/p/c1930f381a0e) |
+| Mon, 26 Jan 2026 11:50:01 GMT | Looking Ahead to 2026: How Crypto Security and Monitoring Are Evolving — A Quppy AML Bot… | QuppyAMLBOT | [Read More](https://medium.com/p/ed2adc465c02) |
+| Mon, 26 Jan 2026 11:43:37 GMT | The Firewall Void: Assessing the Cybersecurity Posture of Ktrowe | Aequitas Digital Exchange | [Read More](https://medium.com/p/7f324ddcc6cb) |
+| Mon, 26 Jan 2026 11:41:18 GMT | Build a High-Demand Career in AWS Data Engineering! | Molletibalu | [Read More](https://medium.com/p/b4f87555a46e) |
+| Mon, 26 Jan 2026 11:37:06 GMT | Cheesy Does It writeup (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/46ced7ba0ad2) |
 | Mon, 26 Jan 2026 11:36:47 GMT | SOC Analyst L1: Inside the Nerve Center of Cyber Defense | Harmit Warang (hwrng0x) | [Read More](https://medium.com/p/fe8ab0cebbe0) |
+| Mon, 26 Jan 2026 11:35:16 GMT | Silent Intruders: How Malicious Chrome Extensions Are Hijacking Enterprise HR Accounts. | eL Njas!™ | [Read More](https://medium.com/p/52fd9a087165) |
 | Mon, 26 Jan 2026 11:33:18 GMT | The “Invisible Encryption” That Requires Showing Everyone Your Secrets | Berend Watchus | [Read More](https://medium.com/p/0177c598779c) |
 | Mon, 26 Jan 2026 11:27:05 GMT | Blue Team vs  Red Team vs  Purple Team | ARCHANA P | [Read More](https://medium.com/p/8d18f8b248c9) |
 | Mon, 26 Jan 2026 11:26:19 GMT | Artificial Intelligence has a Supply Chain problem | Shawn K. Reilly | [Read More](https://medium.com/p/540c69d3863a) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 Jan 2026 07:02:04 GMT | Microsoft Entra Connect Sync — Migrate from Pass-through Authentication to Password Hash Sync | Brian Veldman | [Read More](https://medium.com/p/f8864ad95006) |
 | Mon, 26 Jan 2026 07:02:01 GMT | How the POTUS Travels: Air Force One, Limo Tanks, and a $200 Million Security Bubble | Explained Lens | [Read More](https://medium.com/p/6a1d810f083a) |
 | Mon, 26 Jan 2026 07:01:39 GMT | FinAuth: Financial-Grade Identity Verification — Fortifying Intelligent Security, Empowering… | Yuanli Technology | [Read More](https://medium.com/p/d7ff98ffa418) |
-| Mon, 26 Jan 2026 07:00:44 GMT | Email Header Analysis Explained: How SOC Analysts Trace Phishing Attacks | Abhinsubej | [Read More](https://medium.com/p/4f4217e003ad) |
-| Mon, 26 Jan 2026 06:58:59 GMT | Thick Client Pentesting (Part 1): Introduction & Basics | Harish muthyala | [Read More](https://medium.com/p/da2a65c11d06) |
-| Mon, 26 Jan 2026 06:56:36 GMT | Nmap Explained: The Essential Tool for Network Discovery and Security | Sneha | [Read More](https://medium.com/p/cb3c2254f483) |
-| Mon, 26 Jan 2026 06:55:57 GMT | Web Security 101: Part 4 - Content Security Policy (CSP) | Nithishraina | [Read More](https://medium.com/p/b807c31150bf) |
-| Mon, 26 Jan 2026 06:53:27 GMT | Cybersecurity Is Not Just for Big Companies: Lessons I’m Learning About Small Business Security | Sandra Aganyi | [Read More](https://medium.com/p/ed2f82a32c07) |
-| Mon, 26 Jan 2026 06:51:00 GMT | Breach and Attack Simulation vs Penetration Testing | Digital Duffer | [Read More](https://medium.com/p/7b057d2c5c7e) |
-| Mon, 26 Jan 2026 06:50:34 GMT | Authorisation | Nidhisharma Freelancework | [Read More](https://medium.com/p/2718646e7577) |
-| Mon, 26 Jan 2026 06:47:17 GMT | Frozen Signals: Denmark’s Bluetooth Blackout Reveals NATO’s Information Risk Crisis | Dr. Thomas Jreige | [Read More](https://medium.com/p/91f2a4254c34) |
-| Mon, 26 Jan 2026 06:44:07 GMT | Linux Commands for Ethical Hackers: From Beginner to Advanced ️ | monster | [Read More](https://medium.com/p/8f807341a274) |
-| Mon, 26 Jan 2026 06:43:52 GMT | I Built a Production-Ready Cybersecurity Academy in One Weekend (While Everything Kept Breaking) | Rohan Choudhari | [Read More](https://medium.com/p/0a72c5101063) |
-| Mon, 26 Jan 2026 06:42:43 GMT | ZArchiver APK | Bandisharecx | [Read More](https://medium.com/p/e5c34629a32b) |
-| Mon, 26 Jan 2026 06:42:27 GMT | From Passwords to Passkeys: How Cybersecurity Is Evolving | Sneha | [Read More](https://medium.com/p/071dfe859289) |
-| Mon, 26 Jan 2026 06:36:55 GMT | Mengamankan Container dari Kemungkinan Serangan Cyber — DevOps Starter Pack | Lian Aga Aditya, S.Kom | [Read More](https://medium.com/p/dc0fc79c3a6f) |
