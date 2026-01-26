@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 Jan 2026 13:36:56 GMT | Freezing the Autonomous Agent Layer: How I Found a Critical DoS in a Major DAG Platform | Sumit Shah (HackSage) | [Read More](https://medium.com/p/b166bc238b69) |
+| Mon, 26 Jan 2026 13:36:34 GMT | 1. Web Cache Deception When Private User Data Becomes Public | Abhijeet kumawat | [Read More](https://medium.com/p/cac7f269f964) |
+| Mon, 26 Jan 2026 13:31:10 GMT | SolarDisruption Lab Writeup (CyberDefenders) | Loay Salah | [Read More](https://medium.com/p/65c631272d58) |
+| Mon, 26 Jan 2026 13:31:01 GMT | That Awkward Moment (And How Introscape Saves You From It) | Andy.G | [Read More](https://medium.com/p/224ad6fb2a4e) |
+| Mon, 26 Jan 2026 13:29:56 GMT | Why Open Ports Are Still the #1 Risk (And How to Close Them) | Akhil Akash Bindla | [Read More](https://medium.com/p/3a794ca79038) |
+| Mon, 26 Jan 2026 13:29:27 GMT | How to Check Nameserver Records Instantly with NS Lookup Tool | Everywebtool | [Read More](https://medium.com/p/93b11546d7e8) |
+| Mon, 26 Jan 2026 13:28:29 GMT | The Login Is A Broken Promise: Why Authenticated Doesn’t Mean Trusted | Tharak Abraham | [Read More](https://medium.com/p/27609b7812b7) |
+| Mon, 26 Jan 2026 13:27:25 GMT | How I Identified a Session Management Flaw and Pushed for Change at an organisation serving 10M+… | Shantanu Gupta | [Read More](https://medium.com/p/a475f9920175) |
+| Mon, 26 Jan 2026 13:26:42 GMT | MFA Done Right: The Setup That Prevents Lockouts | Kira Lovey | [Read More](https://medium.com/p/fedd9fcd7273) |
+| Mon, 26 Jan 2026 13:23:02 GMT | Active Directory Penetration Testing | Andrey Pautov | [Read More](https://medium.com/p/745cfb31d7d3) |
+| Mon, 26 Jan 2026 13:17:23 GMT | Major Security Risks Revealed in AI Coding Tools — Insights & Secure Innovation Pathways | Mammoth Cyber | [Read More](https://medium.com/p/fe8bfbf350f3) |
+| Mon, 26 Jan 2026 13:16:41 GMT | VulnLab: XML External Entity Attack, API Hacking, Path Traversal Çözümü | CyberSam | [Read More](https://medium.com/p/7a39ca9849be) |
+| Mon, 26 Jan 2026 13:14:28 GMT | The Most Complete, Practical Explanation of Sessions, Cookies, Tokens, and JWTs | aashish | [Read More](https://medium.com/p/364cfa101461) |
+| Mon, 26 Jan 2026 13:13:38 GMT | When Phishing Walks Into Teams: Make it a first class security surface | Ahmed Monsri | [Read More](https://medium.com/p/f5b372099265) |
+| Mon, 26 Jan 2026 13:00:23 GMT | 6 People You Should Never Trust With Your Vulnerability | Victor Mong | [Read More](https://medium.com/p/749850398bef) |
+| Mon, 26 Jan 2026 12:51:36 GMT | Powering Down Privacy: Tracking Tesla Powerwall Signatures using Modat Magnify | hacker_might | [Read More](https://medium.com/p/707795ffefc0) |
 | Mon, 26 Jan 2026 12:38:18 GMT | SOC Burnout Depends on Dashboard Analyst Experience | Graylog | [Read More](https://medium.com/p/27f6a220a651) |
 | Mon, 26 Jan 2026 12:37:30 GMT | Basic Pentesting Room- THM | GoN | [Read More](https://medium.com/p/de958788f8c4) |
 | Mon, 26 Jan 2026 12:16:05 GMT | “How to Start a Cybersecurity Career With No Experience” | SAKSHAM DWIVEDI | [Read More](https://medium.com/p/8a21a6f42698) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 Jan 2026 07:40:24 GMT | Prompt Injection Your Way to a Hidden Flag in an AI Assistant | OopsSec Store | [Read More](https://medium.com/p/b5bc3782fc73) |
 | Mon, 26 Jan 2026 07:39:19 GMT | Breaking My Own Kubernetes Cluster: A Red–Blue Team Therapy Session | Vijenex | [Read More](https://medium.com/p/d6849d0812e1) |
 | Mon, 26 Jan 2026 07:38:20 GMT | Can AI persuade humans with insights? | Jin Park | [Read More](https://medium.com/p/8e1fe285a384) |
-| Mon, 26 Jan 2026 07:35:41 GMT | ADFastDNS — There and Then (part 3) (The Evolution) | Raffa | [Read More](https://medium.com/p/d725600d6c9d) |
-| Mon, 26 Jan 2026 07:34:32 GMT | Everything You Need to Know About Bash: Beginners Guide Part 1 | Martin Simonyan | [Read More](https://medium.com/p/c37d9f2f0098) |
-| Mon, 26 Jan 2026 07:32:03 GMT | Rotate n8n Secrets Without Breaking Everything | Hash Block | [Read More](https://medium.com/p/e37a8c0c1a67) |
-| Mon, 26 Jan 2026 07:29:14 GMT | Port Scanning Demystified: A Practical Guide to Nmap | Fuzzyy Duck | [Read More](https://medium.com/p/fcc5cbb17f81) |
-| Mon, 26 Jan 2026 07:28:50 GMT | Data Privacy Week for SOC Leaders: Is Your Incident Response PII-Ready? | Denny Roger | [Read More](https://medium.com/p/7749e8f5d11c) |
-| Mon, 26 Jan 2026 07:28:22 GMT | 5 Dangerous HACKING Devices That Hackers Use the Most!! | Shahzaib | [Read More](https://medium.com/p/e765561dfa40) |
-| Mon, 26 Jan 2026 07:26:55 GMT | The Biggest Cybersecurity Risk Isn’t Technology — It’s People. | Samirah O.A | [Read More](https://medium.com/p/0ec7c9619510) |
-| Mon, 26 Jan 2026 07:25:50 GMT | ประจำวันจันทร์ที่ 26 มกราคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/97bcd3eb3e8d) |
-| Mon, 26 Jan 2026 07:25:06 GMT | How Forgotten DNS Records Lead to Subdomain Takeovers | Niraj Kumar Mahto | [Read More](https://medium.com/p/af9870127c2c) |
-| Mon, 26 Jan 2026 07:18:11 GMT | CloudSEK Hiring CTF Challenge 2025: A Deep Dive into Real-World Vulnerabilities | Abishek kumar | [Read More](https://medium.com/p/7c6726ee4848) |
-| Mon, 26 Jan 2026 07:16:35 GMT | TryHackMe: Simple CTF Walkthrough | Shahana | [Read More](https://medium.com/p/bb0d232417a0) |
-| Mon, 26 Jan 2026 07:10:36 GMT | A Security Company Hired a North Korean Spy. It Took 25 Minutes to Catch Him. | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/0bdb127a895a) |
-| Mon, 26 Jan 2026 07:06:12 GMT | Reentrancy — Smart Contract Vulnerability Labeling 101 | Sponge | [Read More](https://medium.com/p/3cb22286ed94) |
-| Mon, 26 Jan 2026 07:02:04 GMT | Microsoft Entra Connect Sync — Migrate from Pass-through Authentication to Password Hash Sync | Brian Veldman | [Read More](https://medium.com/p/f8864ad95006) |
-| Mon, 26 Jan 2026 07:02:01 GMT | How the POTUS Travels: Air Force One, Limo Tanks, and a $200 Million Security Bubble | Explained Lens | [Read More](https://medium.com/p/6a1d810f083a) |
-| Mon, 26 Jan 2026 07:01:39 GMT | FinAuth: Financial-Grade Identity Verification — Fortifying Intelligent Security, Empowering… | Yuanli Technology | [Read More](https://medium.com/p/d7ff98ffa418) |
