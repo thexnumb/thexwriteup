@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 Jan 2026 21:21:43 GMT | Identity Is the New Perimeter: Why IAM & PAM Are the Future of Cybersecurity | Dominic Adamietz | [Read More](https://medium.com/p/c9d31d54cbb4) |
+| Mon, 26 Jan 2026 21:16:56 GMT | Why Your LLMs Are Vulnerable | Shailendra Kumar | [Read More](https://medium.com/p/3298b706752f) |
+| Mon, 26 Jan 2026 21:02:14 GMT | Write-Up máquina PingPong de DockerLabs [ES] | Joel Morillas Pagan (Ghxstsec) | [Read More](https://medium.com/p/6665e1f64005) |
+| Mon, 26 Jan 2026 21:01:22 GMT | Reconnaissance: The Most Overlooked and Most Dangerous MITRE ATT&CK Tactic | CipherX9F Security | [Read More](https://medium.com/p/47a5695f923e) |
+| Mon, 26 Jan 2026 20:42:19 GMT | Bug Bounty in 2026: How to Find Your First Vulnerability (Without Losing Your Sanity) | Axoloth | [Read More](https://medium.com/p/f89d4c6b7ba2) |
+| Mon, 26 Jan 2026 20:38:48 GMT | SOC HomeLab — Part 4 (TheHive, Cortex & MISP) | Archit Vats | [Read More](https://medium.com/p/d24e05bb1b18) |
+| Mon, 26 Jan 2026 20:37:11 GMT | SOC HomeLab — Part 3 (Building the User Device) | Archit Vats | [Read More](https://medium.com/p/51b95da9f902) |
+| Mon, 26 Jan 2026 20:32:52 GMT | Splunk Serisi #4: Bozuk Logları Tamir Etmek (TryHackMe — Fixit Çözümü) | Ahmet Hakan Öztürk | [Read More](https://medium.com/p/7f4b48e55b42) |
+| Mon, 26 Jan 2026 20:30:15 GMT | MCP Security Part 3: Prevention Measures and Hardening | Akshay P | [Read More](https://medium.com/p/f18c04ceddf0) |
 | Mon, 26 Jan 2026 20:17:49 GMT | Créer un répertoire noexec sur macOS pour sécuriser ses téléchargements | Telynor | [Read More](https://medium.com/p/2554baad4d5a) |
 | Mon, 26 Jan 2026 20:16:26 GMT | Zero to Windows Server Hero: My Complete MCSA Journey (Hands-On Labs Included) | Disaster | [Read More](https://medium.com/p/43765fc70fb5) |
 | Mon, 26 Jan 2026 20:14:35 GMT | The Digital Panopticon: | Miles Fisher | [Read More](https://medium.com/p/eefbeb79a6e3) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 Jan 2026 15:02:22 GMT | Cyber Briefing: 2026.01.26 | CyberMaterial | [Read More](https://medium.com/p/d07f7f1d4c65) |
 | Mon, 26 Jan 2026 14:51:31 GMT | “Beyond the Lock: Understanding 1-Way and 2-Way SSL in Modern Web & API Security” | Sachin Chemate | [Read More](https://medium.com/p/64b2b72cc06f) |
 | Mon, 26 Jan 2026 14:50:33 GMT | New Windows PC Setup For Speed, Privacy, Stability | Geoffrey Wenger | [Read More](https://medium.com/p/e273cd51aaaf) |
-| Mon, 26 Jan 2026 14:47:00 GMT | VAmPI — Vulnerable API: API Security Testing | Khadijat Suleman | [Read More](https://medium.com/p/4413d85eb1c2) |
-| Mon, 26 Jan 2026 14:42:51 GMT | Beyond Passwords: Designing Defense-in-Depth for Mobile Financial Applications | Ali Raza | [Read More](https://medium.com/p/34f9a385e7cb) |
-| Mon, 26 Jan 2026 14:29:03 GMT | “lynda.com”, merger acquisition, and the flaw with  browser token backup dependencies | JNComputingLIFE | [Read More](https://medium.com/p/6209ed54a6f3) |
-| Mon, 26 Jan 2026 14:28:15 GMT | Model Poisoning in the Cloud: How AI Systems Learn to Betray You | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/2881ba33c187) |
-| Mon, 26 Jan 2026 14:21:02 GMT | Banks Taking Down Their Signs: The Conquest of Finance by Tech Giants and Platforms | 안나 | [Read More](https://medium.com/p/739f3f6960d1) |
-| Mon, 26 Jan 2026 14:20:28 GMT | Forest — Hack The Box Write-Up | JY00X3 | [Read More](https://medium.com/p/04eb4f46aa1b) |
-| Mon, 26 Jan 2026 14:17:50 GMT | Choosing between DexGuard and ProGuard in Android development | Qubika | [Read More](https://medium.com/p/0323790b7b45) |
-| Mon, 26 Jan 2026 14:15:46 GMT | Secure Your Product: The 2026 Cyber Compliance Wave | Consulting4sec | [Read More](https://medium.com/p/b009c875acf7) |
-| Mon, 26 Jan 2026 14:10:49 GMT | How I Turned a Boring Self-XSS into a Real-World Attack Using CSRF | Mostafamhmoud | [Read More](https://medium.com/p/37cf3a78e3da) |
