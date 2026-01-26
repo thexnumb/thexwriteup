@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 Jan 2026 05:00:49 GMT | Is Your Android Phone Really Safe? Most Users Ignore These Warning Signs | Blue Bird Digital Technology | [Read More](https://medium.com/p/dc6a64191c45) |
+| Mon, 26 Jan 2026 04:59:04 GMT | Google Takes Over Siri, While Winter Storms and Malware Threaten - The Daily Tech Digest: 26… | Souren Stepanyan | [Read More](https://medium.com/p/ec92cb0b35e9) |
+| Mon, 26 Jan 2026 04:52:54 GMT | Apakah random itu memang random? | Ian | [Read More](https://medium.com/p/781a22ad7e2d) |
+| Mon, 26 Jan 2026 04:48:15 GMT | Enterprise Cyber Security in Qatar: Safeguarding the Future of Business in a Digital Age | zorvix zorvix | [Read More](https://medium.com/p/0de3569b906c) |
+| Mon, 26 Jan 2026 04:46:20 GMT | 1000GB Mailbox Storage ✉️: Sounds Generous, Right? | Steven Chin | [Read More](https://medium.com/p/e30cfb99ea7e) |
+| Mon, 26 Jan 2026 04:42:41 GMT | How to Repair Camper Entry Locks and Security Mechanisms | Nageltrailerrepair | [Read More](https://medium.com/p/a26ad4367ba1) |
+| Mon, 26 Jan 2026 04:32:03 GMT | The Agent Sandbox Pattern That Prevents Incidents | Hash Block | [Read More](https://medium.com/p/ccb3302ba3b7) |
+| Mon, 26 Jan 2026 04:26:21 GMT | Sloven Classmate APK | Apkpuredev | [Read More](https://medium.com/p/40a897e9c9b4) |
+| Mon, 26 Jan 2026 04:24:32 GMT | Why OSINT Matters for Blue Teams | Zeliha Zengin | [Read More](https://medium.com/p/f20268f12894) |
+| Mon, 26 Jan 2026 04:24:18 GMT | I Fired My Junior Developer. Then I Hired ChatGPT. It Was a Disaster. | Anand Panchal | [Read More](https://medium.com/p/fb41b5210bbe) |
+| Mon, 26 Jan 2026 04:15:43 GMT | Transforming Transactions Into Lasting Relationships — AI as CX Binding Force - Ascendion | Ascendion | [Read More](https://medium.com/p/660d3203f9f2) |
+| Mon, 26 Jan 2026 04:11:55 GMT | Gaslighting: Why Am I Apologizing For Being Hurt? | Ankita Borkakoty | [Read More](https://medium.com/p/2fbef2d57453) |
+| Mon, 26 Jan 2026 04:07:31 GMT | Envisioning the Future of Data Modernization in Business Operations - Ascendion | Ascendion | [Read More](https://medium.com/p/966e92f08f93) |
+| Mon, 26 Jan 2026 04:07:13 GMT | RST TI Report Digest: 26 Jan 2026 | RST Cloud | [Read More](https://medium.com/p/5d3cc982a107) |
 | Mon, 26 Jan 2026 03:51:45 GMT | ⚔️ Red Team Exercise Preparation — Winning the Battle Before the Attack ⚔️ | Esra Kayhan | [Read More](https://medium.com/p/f8e443936ca4) |
 | Mon, 26 Jan 2026 03:51:22 GMT | GPU Power in Password Cracking: Why Isn’t a CPU Enough? | Esra Kayhan | [Read More](https://medium.com/p/89714577f4b2) |
 | Mon, 26 Jan 2026 03:46:08 GMT | My blog site | kheder yusuf | [Read More](https://medium.com/p/404a9b7988d8) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 17:46:47 GMT | Cyber Security Company in UAE — Defense Numerique Protecting Digital Businesses in Dubai | RexGo SEO | [Read More](https://medium.com/p/85a0eb8df6e1) |
 | Sun, 25 Jan 2026 17:46:07 GMT | n8n: CVE-2025–68613 | q1mthi | [Read More](https://medium.com/p/ec909cefa35d) |
 | Sun, 25 Jan 2026 17:39:20 GMT | Cybersec Ledger January 25, 2026 | Tier Zero Defense | [Read More](https://medium.com/p/7bb57b7e4117) |
-| Sun, 25 Jan 2026 17:25:33 GMT | Agentic AI Is Coming to the SOC: What New Analysts Need to Learn | Identity Bytes | [Read More](https://medium.com/p/792ecbac6ff1) |
-| Sun, 25 Jan 2026 17:24:01 GMT | How I hacked NASA with an RCE!!! | Rubayet Hasan aka MR_Prey3r | [Read More](https://medium.com/p/5e764ed54dea) |
-| Sun, 25 Jan 2026 17:23:10 GMT | Secure SDLC: From Continuous Development to Secure Software Delivery | Siddiquimohammad | [Read More](https://medium.com/p/e0fd047fb0b2) |
-| Sun, 25 Jan 2026 17:13:20 GMT | My First CVE: CVE-2026–21641 | 0xJad | [Read More](https://medium.com/p/84d0cad583c3) |
-| Sun, 25 Jan 2026 17:05:46 GMT | Embracing “Secure by Design -SbD”: The Technical Imperative | Chitra VS Nair | [Read More](https://medium.com/p/f4196c8aeaa0) |
-| Sun, 25 Jan 2026 17:05:18 GMT | To all CTOs: stop treating test data like an artifact. Treat it like a service. | RealTestData | [Read More](https://medium.com/p/958657401d92) |
-| Sun, 25 Jan 2026 17:03:34 GMT | The Coin of Technology: A Human-Centered Framework for Industry and Value | Sreeni Idumakanti (www.abcdquantum.com) | [Read More](https://medium.com/p/f1bb6b51d0ac) |
-| Sun, 25 Jan 2026 16:44:05 GMT | How To Bypass OTP (One Time Password) | FeritÖzner | [Read More](https://medium.com/p/ed74b4e6b0f0) |
-| Sun, 25 Jan 2026 16:43:38 GMT | How To Bypass Captcha | FeritÖzner | [Read More](https://medium.com/p/88277810313e) |
-| Sun, 25 Jan 2026 16:40:49 GMT | Why I choose Medium.com | Abdul Writes | [Read More](https://medium.com/p/561b98876716) |
-| Sun, 25 Jan 2026 16:40:43 GMT | INE / eJPT / Host & Network Penetration Testing: System-Host Based Attacks CTF 2 | Salihugurlu | [Read More](https://medium.com/p/12c58ef5b367) |
-| Sun, 25 Jan 2026 16:32:00 GMT | EVER SEEN CONTENT UPLOADED ON YOUR SOCIAL MEDIA WHICH YOU DIDNT UPLOAD? | Muhammad Ali Khawar Butt | [Read More](https://medium.com/p/b42b6a35273b) |
-| Sun, 25 Jan 2026 16:22:15 GMT | How to Recover Lost Cryptocurrency? | Mathewmatt | [Read More](https://medium.com/p/6705b42eb3c2) |
-| Sun, 25 Jan 2026 16:16:42 GMT | Echelon Philadelphia Security Guards: A Pillar of Safety in the Security Industry | Jennezsey Burton | [Read More](https://medium.com/p/9fd646dcc149) |
