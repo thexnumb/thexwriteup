@@ -12,11 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 Jan 2026 19:21:57 GMT | Cyber Defense Frameworks: Cyber Kill Chain | Ahmad Khaled | [Read More](https://medium.com/p/8f467b5fba35) |
+| Mon, 26 Jan 2026 19:19:11 GMT | The Cybersecurity Nexus — “AI” (January 2026) | Franklin Rhodes | [Read More](https://medium.com/p/148479df2fb6) |
+| Mon, 26 Jan 2026 19:16:17 GMT | UnderTheWire Century | Avigail Laing | [Read More](https://medium.com/p/14bde1a48d65) |
+| Mon, 26 Jan 2026 19:04:51 GMT | 149 Million Gmail, Social Media Passwords Leaked — The Gignomist | The Gignomist | [Read More](https://medium.com/p/5d9e79c9bc4e) |
+| Mon, 26 Jan 2026 19:01:26 GMT | I Almost Fell for a Scam — and I Teach Cybersecurity | Abdul-mu'min Omotola | [Read More](https://medium.com/p/cd31dac978e6) |
+| Mon, 26 Jan 2026 19:01:08 GMT | Hardening AI Models: Why Your “State-of-the-Art” Model Will Fail in Production | Pablo jusue | [Read More](https://medium.com/p/3b51bdd2dd71) |
+| Mon, 26 Jan 2026 18:59:44 GMT | TryHackMe OSINT Level 1 — What I learned | Cyber-Rat | [Read More](https://medium.com/p/8ede120dc467) |
+| Mon, 26 Jan 2026 18:50:47 GMT | Visual Studio Code (VS Code) — Secure Installation & CIS Hardening Guide — Part II | SOCFortress | [Read More](https://medium.com/p/e798bd03401b) |
+| Mon, 26 Jan 2026 18:50:11 GMT | Building Invisible Infrastructure: The Quiet Technology That Powers Trust | Kehinde Olawoyin MBA,PMP, CBAP, PSM | [Read More](https://medium.com/p/2c99cdd6677d) |
+| Mon, 26 Jan 2026 18:48:51 GMT | Your Network Isn’t the Perimeter Anymore. Identity Is. | rundiable | [Read More](https://medium.com/p/86c92ced614f) |
+| Mon, 26 Jan 2026 18:44:47 GMT | How I Test a Website as a Red Team Intern (My Workflow) | Vidya Penumarthi | [Read More](https://medium.com/p/274ce4dc8f97) |
+| Mon, 26 Jan 2026 18:43:12 GMT | Sticky Situation — A Forensics Walkthrough for Humans, Hackers, and the Chronically Curious | Robin Noyes | [Read More](https://medium.com/p/0ece54acb89a) |
 | Mon, 26 Jan 2026 18:35:53 GMT | Hack The Box — Imagery Machine Walk-through | SubhaDip | [Read More](https://medium.com/p/20cb4fe04431) |
+| Mon, 26 Jan 2026 18:35:14 GMT | How a Single Email Turned My ClawdBot Into a Data Leak | William Peltomäki | [Read More](https://medium.com/p/1058792e783a) |
+| Mon, 26 Jan 2026 18:34:47 GMT | WHEN MISFORTUNE BECOMES A CRIME SCENE: A SOCIETY THAT PROFITS FROM DISTRESS | John A. Dosunmu | [Read More](https://medium.com/p/73e0c64b2968) |
+| Mon, 26 Jan 2026 18:34:29 GMT | IA como ferramenta, não como resposta | Rafael Torres | [Read More](https://medium.com/p/94b489114b42) |
 | Mon, 26 Jan 2026 18:27:14 GMT | I Stopped Trusting git clone Blindly. So I Built an AI Firewall for My Terminal | Behram Bazo | [Read More](https://medium.com/p/53d9e41890ad) |
 | Mon, 26 Jan 2026 18:23:20 GMT | ISPs Hate RAM Hash Based P2P Internet Theory. | Ethan G Appleby | [Read More](https://medium.com/p/395e6274de48) |
 | Mon, 26 Jan 2026 18:21:52 GMT | And maybe, crying is bravery on its purest form. | Adorer. | [Read More](https://medium.com/p/304658d7fc09) |
 | Mon, 26 Jan 2026 18:20:16 GMT | 51 Years In. One Irreversible Decade Ahead. Why AI’s Future Hangs on the Execution Layer | Jonathan Capriola | [Read More](https://medium.com/p/989e69b139aa) |
+| Mon, 26 Jan 2026 18:19:31 GMT | [EN] CyberSploit1 — Walkthrough — PGPlay | hacktheborges | [Read More](https://medium.com/p/8d8b9c239503) |
 | Mon, 26 Jan 2026 18:17:49 GMT | How Lexius AI Transforms Retail Security with Real-Time Theft Detection | Uyouyou Sonia | [Read More](https://medium.com/p/a3e4c0f98226) |
 | Mon, 26 Jan 2026 18:15:19 GMT | Broken Object Level Authorization (BOLA) | Emmanuelnnebedum | [Read More](https://medium.com/p/1db36dadd9c1) |
 | Mon, 26 Jan 2026 18:14:42 GMT | Is your iphone really secure | Ajay Kumar Bakkashetti | [Read More](https://medium.com/p/aec02d812c89) |
@@ -30,6 +46,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 Jan 2026 17:44:27 GMT | The Death of Objective Reality | Giovanni Luigi Bordone | [Read More](https://medium.com/p/aa767c8a8beb) |
 | Mon, 26 Jan 2026 17:41:09 GMT | ‎Sanity United: Building Real-World Utility Through Clean Energy, Transparency, and Integrated… | Web3Dof | [Read More](https://medium.com/p/f915dfe3e3aa) |
 | Mon, 26 Jan 2026 17:32:47 GMT | Chaining Low-Hanging Misconfigurations Into High-Impact Access | Berat Can Yağız | [Read More](https://medium.com/p/83260b915154) |
+| Mon, 26 Jan 2026 17:32:02 GMT | [PT-BR] CyberSploit1 — Walkthrough — PGPlay | hacktheborges | [Read More](https://medium.com/p/7146abf9316e) |
 | Mon, 26 Jan 2026 17:24:35 GMT | Context-First Vulnerability Assessment and Persona Injection | Llmresearch | [Read More](https://medium.com/p/6b1a2e4605bd) |
 | Mon, 26 Jan 2026 17:22:14 GMT | Utility Cloud Migration Readiness: A Practical Assessment Checklist | Veriday | [Read More](https://medium.com/p/00239720dc1b) |
 | Mon, 26 Jan 2026 17:15:20 GMT | Cross-Site Scripting (XSS): From Basics to Battle-Tested Defense | Prateek Kumar | [Read More](https://medium.com/p/12e5ee113750) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 Jan 2026 13:31:01 GMT | That Awkward Moment (And How Introscape Saves You From It) | Andy.G | [Read More](https://medium.com/p/224ad6fb2a4e) |
 | Mon, 26 Jan 2026 13:29:56 GMT | Why Open Ports Are Still the #1 Risk (And How to Close Them) | Akhil Akash Bindla | [Read More](https://medium.com/p/3a794ca79038) |
 | Mon, 26 Jan 2026 13:29:27 GMT | How to Check Nameserver Records Instantly with NS Lookup Tool | Everywebtool | [Read More](https://medium.com/p/93b11546d7e8) |
-| Mon, 26 Jan 2026 13:28:29 GMT | The Login Is A Broken Promise: Why Authenticated Doesn’t Mean Trusted | Tharak Abraham | [Read More](https://medium.com/p/27609b7812b7) |
-| Mon, 26 Jan 2026 13:27:25 GMT | How I Identified a Session Management Flaw and Pushed for Change at an organisation serving 10M+… | Shantanu Gupta | [Read More](https://medium.com/p/a475f9920175) |
-| Mon, 26 Jan 2026 13:26:42 GMT | MFA Done Right: The Setup That Prevents Lockouts | Kira Lovey | [Read More](https://medium.com/p/fedd9fcd7273) |
-| Mon, 26 Jan 2026 13:23:02 GMT | Active Directory Penetration Testing | Andrey Pautov | [Read More](https://medium.com/p/745cfb31d7d3) |
-| Mon, 26 Jan 2026 13:17:23 GMT | Major Security Risks Revealed in AI Coding Tools — Insights & Secure Innovation Pathways | Mammoth Cyber | [Read More](https://medium.com/p/fe8bfbf350f3) |
-| Mon, 26 Jan 2026 13:16:41 GMT | VulnLab: XML External Entity Attack, API Hacking, Path Traversal Çözümü | CyberSam | [Read More](https://medium.com/p/7a39ca9849be) |
-| Mon, 26 Jan 2026 13:14:28 GMT | The Most Complete, Practical Explanation of Sessions, Cookies, Tokens, and JWTs | aashish | [Read More](https://medium.com/p/364cfa101461) |
-| Mon, 26 Jan 2026 13:13:38 GMT | When Phishing Walks Into Teams: Make it a first class security surface | Ahmed Monsri | [Read More](https://medium.com/p/f5b372099265) |
-| Mon, 26 Jan 2026 13:00:59 GMT | Fix Staff Shortage & Burnout in Your SOC with Better Threat Intelligence | ANY.RUN | [Read More](https://medium.com/p/a75155097b1d) |
-| Mon, 26 Jan 2026 13:00:23 GMT | 6 People You Should Never Trust With Your Vulnerability | Victor Mong | [Read More](https://medium.com/p/749850398bef) |
-| Mon, 26 Jan 2026 12:51:36 GMT | Powering Down Privacy: Tracking Tesla Powerwall Signatures using Modat Magnify | hacker_might | [Read More](https://medium.com/p/707795ffefc0) |
-| Mon, 26 Jan 2026 12:38:18 GMT | SOC Burnout Depends on Dashboard Analyst Experience | Graylog | [Read More](https://medium.com/p/27f6a220a651) |
-| Mon, 26 Jan 2026 12:37:30 GMT | Basic Pentesting Room- THM | GoN | [Read More](https://medium.com/p/de958788f8c4) |
-| Mon, 26 Jan 2026 12:16:05 GMT | “How to Start a Cybersecurity Career With No Experience” | SAKSHAM DWIVEDI | [Read More](https://medium.com/p/8a21a6f42698) |
-| Mon, 26 Jan 2026 12:02:03 GMT | Writeup for picoCTF challenge “Power Cookie” | Walter Moar | [Read More](https://medium.com/p/0316622a4d22) |
-| Mon, 26 Jan 2026 11:58:59 GMT | SOC Analyst Day 5: Understanding NAT, VAT, Traffic Flow, and Ports & Services | Faizan Nazir | [Read More](https://medium.com/p/939ad9251901) |
-| Mon, 26 Jan 2026 11:57:50 GMT | Silent Chollima APT Adversary Simulation | S3N4T0R | [Read More](https://medium.com/p/e661a601901a) |
