@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 Jan 2026 05:47:27 GMT | How to Start VAPT for Beginners ️Testing Series— Part 1 | VAPTify | [Read More](https://medium.com/p/68c8ba4f2e2c) |
+| Mon, 26 Jan 2026 05:46:48 GMT | System Analyst In Action: Designing Secure Software — A Practical Security & Privacy Guide | Blog Chip | [Read More](https://medium.com/p/a3de2814f4f1) |
+| Mon, 26 Jan 2026 05:38:23 GMT | Nmap Network Scanning Explained — Beginner to Practical Guide | Shadow Attackers | [Read More](https://medium.com/p/d01cc6dd96b2) |
+| Mon, 26 Jan 2026 05:35:37 GMT | LINE 翻群現象與社群權限管理 | p1x06u9 | [Read More](https://medium.com/p/4dbb7d4c9e70) |
+| Mon, 26 Jan 2026 05:25:07 GMT | HAPPY REPUBLIC D | The Inner Cafie | [Read More](https://medium.com/p/654709c8dcc0) |
+| Mon, 26 Jan 2026 05:16:51 GMT | Red Teaming vs Pentesting: Key Differences | Digital Duffer | [Read More](https://medium.com/p/2f9940f732fc) |
+| Mon, 26 Jan 2026 05:14:02 GMT | The Quiet Complexity of Distributed Systems | Faiziya Ansari | [Read More](https://medium.com/p/7e4ed9d098c6) |
+| Mon, 26 Jan 2026 05:12:02 GMT | How to Switch Safari to Chrome in 60 Seconds. Is it Safe to Export Your Data Apple to Google? | apple inside | [Read More](https://medium.com/p/0c73df56cf52) |
+| Mon, 26 Jan 2026 05:10:04 GMT | React2Shell : One Vulnerability, Multiple Agendas | Gebynab | [Read More](https://medium.com/p/65005b451f65) |
 | Mon, 26 Jan 2026 05:00:49 GMT | Is Your Android Phone Really Safe? Most Users Ignore These Warning Signs | Blue Bird Digital Technology | [Read More](https://medium.com/p/dc6a64191c45) |
+| Mon, 26 Jan 2026 05:00:06 GMT | IEEE 802.3 Ethernet: The Silent Backbone of Modern Networking | Rela Lumbini | [Read More](https://medium.com/p/f2b6bf07d5ad) |
 | Mon, 26 Jan 2026 04:59:04 GMT | Google Takes Over Siri, While Winter Storms and Malware Threaten - The Daily Tech Digest: 26… | Souren Stepanyan | [Read More](https://medium.com/p/ec92cb0b35e9) |
+| Mon, 26 Jan 2026 04:57:42 GMT | How to Secure PHP Applications (With Real-World Breach Examples) | Mathews Jose | [Read More](https://medium.com/p/c26bb46f557d) |
 | Mon, 26 Jan 2026 04:52:54 GMT | Apakah random itu memang random? | Ian | [Read More](https://medium.com/p/781a22ad7e2d) |
 | Mon, 26 Jan 2026 04:48:15 GMT | Enterprise Cyber Security in Qatar: Safeguarding the Future of Business in a Digital Age | zorvix zorvix | [Read More](https://medium.com/p/0de3569b906c) |
 | Mon, 26 Jan 2026 04:46:20 GMT | 1000GB Mailbox Storage ✉️: Sounds Generous, Right? | Steven Chin | [Read More](https://medium.com/p/e30cfb99ea7e) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 25 Jan 2026 18:24:36 GMT | SOC HomeLab — Part 1 (Introduction) | Archit Vats | [Read More](https://medium.com/p/c2a5ae24b81a) |
 | Sun, 25 Jan 2026 18:20:12 GMT | Getting Started with Penetration Testing (Pentest) — A Beginner’s Guide | Numanhan Duran | [Read More](https://medium.com/p/8f7b708a3ac4) |
 | Sun, 25 Jan 2026 18:20:03 GMT | Precision & Recall in Detection Engineering | RootXover | [Read More](https://medium.com/p/0cf31350e421) |
-| Sun, 25 Jan 2026 18:14:23 GMT | Your Multimodal LLM Can Be Fooled by Invisible Noise — Here’s a Way to Provably Stop That | Joqim | [Read More](https://medium.com/p/6b49f4987ce0) |
-| Sun, 25 Jan 2026 18:08:36 GMT | AWS Multi-tier infrastructure automation using Terraform + GHA | Coleo7o7o7 | [Read More](https://medium.com/p/3f73ca86f2e3) |
-| Sun, 25 Jan 2026 18:06:50 GMT | Blind XSS : Even a beginner can understand | Anshkamra | [Read More](https://medium.com/p/8076b6cfce35) |
-| Sun, 25 Jan 2026 18:02:09 GMT | Daily Security Tips Series | Amira | [Read More](https://medium.com/p/2ea9ab33ffa2) |
-| Sun, 25 Jan 2026 18:00:54 GMT | Daily Security Tips Series | Amira | [Read More](https://medium.com/p/c0c185f5362c) |
-| Sun, 25 Jan 2026 17:54:47 GMT | The Warning | Thiago Holmes | [Read More](https://medium.com/p/ed2aee5fec97) |
-| Sun, 25 Jan 2026 17:50:15 GMT | Understanding Rising LinkedIn Scams | BlueTeam Bytes | [Read More](https://medium.com/p/ed2574030d67) |
-| Sun, 25 Jan 2026 17:48:07 GMT | The Server From Hell — THM Writeup | Benneqs | [Read More](https://medium.com/p/f318c51170c3) |
-| Sun, 25 Jan 2026 17:46:47 GMT | Cyber Security Company in UAE — Defense Numerique Protecting Digital Businesses in Dubai | RexGo SEO | [Read More](https://medium.com/p/85a0eb8df6e1) |
-| Sun, 25 Jan 2026 17:46:07 GMT | n8n: CVE-2025–68613 | q1mthi | [Read More](https://medium.com/p/ec909cefa35d) |
-| Sun, 25 Jan 2026 17:39:20 GMT | Cybersec Ledger January 25, 2026 | Tier Zero Defense | [Read More](https://medium.com/p/7bb57b7e4117) |
