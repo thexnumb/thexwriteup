@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 Jan 2026 11:13:36 GMT | Vulnerability Remediation: Process & Best Practices | Spacelift | [Read More](https://medium.com/p/3716fee66f2c) |
+| Mon, 26 Jan 2026 11:11:53 GMT | NIST Cybersecurity Framework for OT | urjasec | [Read More](https://medium.com/p/f96693ffa59e) |
+| Mon, 26 Jan 2026 11:10:55 GMT | Is Bug Bounty Playbook V2 worth your time? | Osamaashraf | [Read More](https://medium.com/p/c4a0e36dd692) |
+| Mon, 26 Jan 2026 11:10:35 GMT | How to start your Bug Hunting career | Osamaashraf | [Read More](https://medium.com/p/8f93cea5b5df) |
+| Mon, 26 Jan 2026 11:04:39 GMT | Why breaking into cybersecurity is a probability problem | h@shtalk | [Read More](https://medium.com/p/1b40aa438290) |
+| Mon, 26 Jan 2026 11:02:55 GMT | Windows Fundamentals Part 1: Cybersecurity 101 Pathway — TryHackMe | Farhad Anwari | [Read More](https://medium.com/p/3f016acb343b) |
+| Mon, 26 Jan 2026 10:59:19 GMT | California SB 446: New Breach Notification Deadlines | VenariX, Inc. | [Read More](https://medium.com/p/0f6a1d9dcd8f) |
+| Mon, 26 Jan 2026 10:55:27 GMT | Securing the Future: Industrial Cybersecurity for UAE’s Industry 4.0 Revolution | NET WIZARDS L.L.C | [Read More](https://medium.com/p/32fe456b7176) |
+| Mon, 26 Jan 2026 10:47:42 GMT | The 2026 AI & Data Science Roadmap: The Death of the “Notebook Data Scientist” | TechMallu | [Read More](https://medium.com/p/c8240e650e9e) |
 | Mon, 26 Jan 2026 10:47:14 GMT | What Actually Happens When You Open Tor Browser (A Research-Driven Walkthrough) | Tech Intel | [Read More](https://medium.com/p/d3642080ebe8) |
 | Mon, 26 Jan 2026 10:46:46 GMT | From Hours to Seconds: Automating Python Security with AI? | Maikel Mardjan | [Read More](https://medium.com/p/6384e0f982ab) |
+| Mon, 26 Jan 2026 10:45:15 GMT | Where Armor Is No Longer Required | Selene | [Read More](https://medium.com/p/ae914ad6e9f1) |
+| Mon, 26 Jan 2026 10:44:40 GMT | THE HANDSHAKE SYSTEM: A PRACTICAL BEAT PATROL MODEL | Uchenna Ekweremadu | [Read More](https://medium.com/p/8a20687b5223) |
 | Mon, 26 Jan 2026 10:42:01 GMT | Injections for Dummies | Shivam Bathla | [Read More](https://medium.com/p/65f8569e34ce) |
 | Mon, 26 Jan 2026 10:40:39 GMT | Web Application Firewalls Explained | Motasem Hamdan | [Read More](https://medium.com/p/e21bf0b4b085) |
 | Mon, 26 Jan 2026 10:38:06 GMT | Myrlyn 1.0: A Modern, Standalone Package Manager GUI for openSUSE Has Arrived | Khurram Shahzad | [Read More](https://medium.com/p/98be7e341890) |
@@ -94,21 +105,10 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 Jan 2026 06:43:52 GMT | I Built a Production-Ready Cybersecurity Academy in One Weekend (While Everything Kept Breaking) | Rohan Choudhari | [Read More](https://medium.com/p/0a72c5101063) |
 | Mon, 26 Jan 2026 06:42:43 GMT | ZArchiver APK | Bandisharecx | [Read More](https://medium.com/p/e5c34629a32b) |
 | Mon, 26 Jan 2026 06:42:27 GMT | From Passwords to Passkeys: How Cybersecurity Is Evolving | Sneha | [Read More](https://medium.com/p/071dfe859289) |
+| Mon, 26 Jan 2026 06:36:55 GMT | Mengamankan Container dari Kemungkinan Serangan Cyber — DevOps Starter Pack | Lian Aga Aditya, S.Kom | [Read More](https://medium.com/p/dc0fc79c3a6f) |
 | Mon, 26 Jan 2026 06:35:03 GMT | Building a Practical Hardware Setup for Ethical Hackers ️ | monster | [Read More](https://medium.com/p/2c2b6b285ba7) |
 | Mon, 26 Jan 2026 06:30:46 GMT | Facing the AI Provocateur: Why Your Passcode is the iPhone’s Real Master Key | Ryu360 | [Read More](https://medium.com/p/b4eaee5f2729) |
 | Mon, 26 Jan 2026 06:19:10 GMT | This Is Me Trying to Care Again | Joan Bluejack | [Read More](https://medium.com/p/4b9e2cdac429) |
 | Mon, 26 Jan 2026 06:12:49 GMT | The Cryptography Journey — OCSP Stapling (Online Certification Status Protocol Stapling) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/88d881619f6a) |
 | Mon, 26 Jan 2026 06:11:11 GMT | Building a Simple AI Model to Detect Brute Force Attacks | Abhinsubej | [Read More](https://medium.com/p/1735f6e5ad57) |
 | Mon, 26 Jan 2026 06:10:39 GMT | Grind Culture Is Making Us Forget We’re Human | Gada T | [Read More](https://medium.com/p/c882ac526187) |
-| Mon, 26 Jan 2026 06:08:25 GMT | Completing EC-Council CEH v13: My Experience, Guidance & How to Pass on the First Attempt | Batraju Sairam | [Read More](https://medium.com/p/79b912796439) |
-| Mon, 26 Jan 2026 06:07:53 GMT | Hard to Break vs. Impossible to Break | Amit Tomar | [Read More](https://medium.com/p/1fdd721ffee9) |
-| Mon, 26 Jan 2026 06:07:06 GMT | Blockchain Software Development in 2026: Turning Distributed Ledgers into Real Business Value | Devarshi Acharya | [Read More](https://medium.com/p/bcec1d261757) |
-| Mon, 26 Jan 2026 06:02:42 GMT | I Solved 20 Levels of OverTheWire Bandit — Here’s What I Learned | Asad Sayyad | [Read More](https://medium.com/p/37c024986895) |
-| Mon, 26 Jan 2026 06:02:11 GMT | Gizlilik Öncelikli Yapay Zeka ile Dijital Güven Nasıl İnşa Edilir? | Kartaca | [Read More](https://medium.com/p/896edd30e4bf) |
-| Mon, 26 Jan 2026 05:50:21 GMT | SOC Structure (Tier 1, Tier 2, Tier 3 Analysts) | Techvrs | [Read More](https://medium.com/p/7e2e228c71bb) |
-| Mon, 26 Jan 2026 05:47:27 GMT | How to Start VAPT for Beginners ️Testing Series— Part 1 | VAPTify | [Read More](https://medium.com/p/68c8ba4f2e2c) |
-| Mon, 26 Jan 2026 05:46:48 GMT | System Analyst In Action: Designing Secure Software — A Practical Security & Privacy Guide | Blog Chip | [Read More](https://medium.com/p/a3de2814f4f1) |
-| Mon, 26 Jan 2026 05:38:23 GMT | Nmap Network Scanning Explained — Beginner to Practical Guide | Shadow Attackers | [Read More](https://medium.com/p/d01cc6dd96b2) |
-| Mon, 26 Jan 2026 05:35:37 GMT | LINE 翻群現象與社群權限管理 | p1x06u9 | [Read More](https://medium.com/p/4dbb7d4c9e70) |
-| Mon, 26 Jan 2026 05:25:07 GMT | HAPPY REPUBLIC D | The Inner Cafie | [Read More](https://medium.com/p/654709c8dcc0) |
-| Mon, 26 Jan 2026 05:16:51 GMT | Red Teaming vs Pentesting: Key Differences | Digital Duffer | [Read More](https://medium.com/p/2f9940f732fc) |
