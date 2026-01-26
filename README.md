@@ -12,9 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 Jan 2026 20:17:49 GMT | Créer un répertoire noexec sur macOS pour sécuriser ses téléchargements | Telynor | [Read More](https://medium.com/p/2554baad4d5a) |
+| Mon, 26 Jan 2026 20:16:26 GMT | Zero to Windows Server Hero: My Complete MCSA Journey (Hands-On Labs Included) | Disaster | [Read More](https://medium.com/p/43765fc70fb5) |
+| Mon, 26 Jan 2026 20:14:35 GMT | The Digital Panopticon: | Miles Fisher | [Read More](https://medium.com/p/eefbeb79a6e3) |
+| Mon, 26 Jan 2026 20:13:18 GMT | LLM Jailbreaks in the Wild — Attack Transcripts, Forensics, Guardrail Architecture, and Python… | Karthikmulugu | [Read More](https://medium.com/p/e434bb87990e) |
+| Mon, 26 Jan 2026 20:07:22 GMT | Some Welcome Changes: Dissecting the OWASP Top 10 2025 | Niklas Heringer | [Read More](https://medium.com/p/03d140bc9aff) |
+| Mon, 26 Jan 2026 19:56:37 GMT | I Lost My Phone in the Snow ,and Realized I’ve Been Lost Too | Ayla1 | [Read More](https://medium.com/p/4c134379d8a8) |
+| Mon, 26 Jan 2026 19:53:52 GMT | All About OWASP Top 10 for Agentic AI Applications | Xcheater | [Read More](https://medium.com/p/b8420d48a1f0) |
+| Mon, 26 Jan 2026 19:46:37 GMT | I’m Not Afraid to Write Anymore | Ellie Reay | [Read More](https://medium.com/p/2b7ee09bb7f7) |
+| Mon, 26 Jan 2026 19:45:42 GMT | Splunk Serisi #3: Veri Manipülasyonu, Maskeleme ve Konfigürasyonun Gücü (TryHackMe Çözümü) | Ahmet Hakan Öztürk | [Read More](https://medium.com/p/5e31aa1c71bb) |
+| Mon, 26 Jan 2026 19:45:23 GMT | TryHackMe Writeup: Overpass 3 -Hosting | Berkay AĞGÜL | [Read More](https://medium.com/p/ed2dcbebb041) |
 | Mon, 26 Jan 2026 19:37:34 GMT | Windows 11 Jan 2026 Update Nightmare: KB5074109 Freezes Outlook & Causes BSODs | TechBird | [Read More](https://medium.com/p/2a3b16d40f4a) |
 | Mon, 26 Jan 2026 19:36:28 GMT | ️‍♂️ HTB: Footprinting Lab — Hard (Walkthrough) | Moulishwar vs | [Read More](https://medium.com/p/7c00f5da7e4f) |
 | Mon, 26 Jan 2026 19:36:20 GMT | Australia’s Cyber Workforce Push Highlights New Zealand’s Growing Skills Gap | Chris Buxton | [Read More](https://medium.com/p/8f92b853a62c) |
+| Mon, 26 Jan 2026 19:35:31 GMT | What Learning API Security Taught Me About Building Systems for the Real World | Joyatee Datta | [Read More](https://medium.com/p/17b8edea48e5) |
 | Mon, 26 Jan 2026 19:31:44 GMT | Securing Dockerized AI Agents | Jasdeep Singh Bhalla | [Read More](https://medium.com/p/ffe3399a178c) |
 | Mon, 26 Jan 2026 19:27:50 GMT | Detecting C2 Beacons: Part 2 | z3l3v | [Read More](https://medium.com/p/7abc977196c1) |
 | Mon, 26 Jan 2026 19:24:34 GMT | The Hidden Costs of Free AI: Data, Bias, and the Price You Don’t See | Cut Brought Clammy | [Read More](https://medium.com/p/dd9d318a9819) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 Jan 2026 14:17:50 GMT | Choosing between DexGuard and ProGuard in Android development | Qubika | [Read More](https://medium.com/p/0323790b7b45) |
 | Mon, 26 Jan 2026 14:15:46 GMT | Secure Your Product: The 2026 Cyber Compliance Wave | Consulting4sec | [Read More](https://medium.com/p/b009c875acf7) |
 | Mon, 26 Jan 2026 14:10:49 GMT | How I Turned a Boring Self-XSS into a Real-World Attack Using CSRF | Mostafamhmoud | [Read More](https://medium.com/p/37cf3a78e3da) |
-| Mon, 26 Jan 2026 14:06:54 GMT | Land Rover Key Fob Programming - Expert Mobile Service | Sure Lock & Key LLC | [Read More](https://medium.com/p/a0166a9469b7) |
-| Mon, 26 Jan 2026 14:02:03 GMT | Understanding Testing vs. Evaluation in AI Systems | Nwosu Rosemary | [Read More](https://medium.com/p/c78123f61b0b) |
-| Mon, 26 Jan 2026 14:02:02 GMT | Letter №3: Our Silent Catastrophe (Part 1) | Zaynul!n | [Read More](https://medium.com/p/d1c9eb5b2ac5) |
-| Mon, 26 Jan 2026 13:59:34 GMT | Stop Managing Encryption Keys: Vault-as-a-Service in 5 Minutes | Alain Airom (Ayrom) | [Read More](https://medium.com/p/4406e3478ea0) |
-| Mon, 26 Jan 2026 13:59:03 GMT | Powertrace — Crypto Writeup (Säkerhets-SM 2026 Quals) | 0x11a | [Read More](https://medium.com/p/6424ef054990) |
-| Mon, 26 Jan 2026 13:57:42 GMT | Securing the “Digital Lifeline”: The Urgency of Cybersecurity in Malawi’s Fintech Revolution | Kapyolatafadzwa | [Read More](https://medium.com/p/0b731a0e2a0f) |
-| Mon, 26 Jan 2026 13:55:09 GMT | You Don’t Own Your iPhone: The Rise and Fall of Jailbreak | Dmitry Yarygin | [Read More](https://medium.com/p/1fe456ca95f7) |
-| Mon, 26 Jan 2026 13:50:57 GMT | IAM for AI Systems: Why Least Privilege Is Harder Than You Think | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/a763bd26fd23) |
-| Mon, 26 Jan 2026 13:48:42 GMT | Tryhackme Lazy Admin CTF Write-Up | Kandemirryigit | [Read More](https://medium.com/p/235a283e79c9) |
-| Mon, 26 Jan 2026 13:44:25 GMT | $1 Car Sale? Wondering what it is?? | cybrNK | [Read More](https://medium.com/p/cfacae622ea5) |
-| Mon, 26 Jan 2026 13:43:52 GMT | OSINT Python Tool Reveals EVERYTHING About Anyone!!! | cybrNK | [Read More](https://medium.com/p/7e171317cf31) |
