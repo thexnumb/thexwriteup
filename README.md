@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 Jan 2026 08:32:03 GMT | JWT Token Security Analysis | Chinaza Emmanuela Obidike | [Read More](https://medium.com/p/a7d88a7097b4) |
+| Mon, 26 Jan 2026 08:29:52 GMT | ISO/IEC 27001: Information Security Management System (ISMS) — History, Types, Importance, and Its… | Mohammad Olwan | [Read More](https://medium.com/p/4d13cd638bcb) |
+| Mon, 26 Jan 2026 08:07:10 GMT | The Security Timebomb: When Anyone Can Code But No One Can Maintain | CraigW | [Read More](https://medium.com/p/c83b6fc1b686) |
+| Mon, 26 Jan 2026 08:04:37 GMT | I Accidentally Designed a Murder-for-Hire Protocol. Here’s How I Fixed It | Eric Grill | [Read More](https://medium.com/p/bdd441489eef) |
+| Mon, 26 Jan 2026 08:04:07 GMT | Zero-Click Hacks and Bricked Macs: The Week Big Tech Failed Us | Aaron | [Read More](https://medium.com/p/6420d09cc0a3) |
+| Mon, 26 Jan 2026 08:02:06 GMT | Breaking Into Cybersecurity for Career Changers: A Step-by-Step Guide | Victoria Coker | [Read More](https://medium.com/p/5de63330298b) |
+| Mon, 26 Jan 2026 07:47:41 GMT | Chain Link Fence in Saudi Arabia The Smart Durable Choice for Perimeter Security (2024_2025) | Hitechfence | [Read More](https://medium.com/p/4f8403d94829) |
 | Mon, 26 Jan 2026 07:40:24 GMT | Prompt Injection Your Way to a Hidden Flag in an AI Assistant | OopsSec Store | [Read More](https://medium.com/p/b5bc3782fc73) |
 | Mon, 26 Jan 2026 07:39:19 GMT | Breaking My Own Kubernetes Cluster: A Red–Blue Team Therapy Session | Vijenex | [Read More](https://medium.com/p/d6849d0812e1) |
 | Mon, 26 Jan 2026 07:38:20 GMT | Can AI persuade humans with insights? | Jin Park | [Read More](https://medium.com/p/8e1fe285a384) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 Jan 2026 00:28:27 GMT | What shifted this week in AI governance and why it matters | A D | [Read More](https://medium.com/p/5198dedf6353) |
 | Mon, 26 Jan 2026 00:15:14 GMT | Reducing Attack Surfaces — Why Verification Should Minimize Interaction | sengom | [Read More](https://medium.com/p/ad6634fde10a) |
 | Mon, 26 Jan 2026 00:13:43 GMT | Verifying AI Outputs — Why Results Must Be Proven, Not Recomputed | sengom | [Read More](https://medium.com/p/4f6728c2e17b) |
-| Mon, 26 Jan 2026 00:10:46 GMT | Making the most of your time at the RSAC Conference 2026 | Ben Rothke | [Read More](https://medium.com/p/a94b47bc6c64) |
-| Mon, 26 Jan 2026 00:08:29 GMT | Weak Crypto & Export Laws: How the 90s Shaped Internet Security | William Pfeiffer | [Read More](https://medium.com/p/aaa7ec5c75b3) |
-| Sun, 25 Jan 2026 23:46:28 GMT | How to Collect Telehealth Feedback via Automated Surveys | Yue-moon | [Read More](https://medium.com/p/eb5a73da1d07) |
-| Sun, 25 Jan 2026 22:58:36 GMT | #LifeAmongstBugs02: Intercepting the State’s Secrets | newklei | [Read More](https://medium.com/p/9000297a947c) |
-| Sun, 25 Jan 2026 22:43:27 GMT | PASETO: The Token System That Refuses to Let You Shoot Yourself in the Foot | humam al amin | [Read More](https://medium.com/p/ecea11e362a8) |
-| Sun, 25 Jan 2026 22:42:33 GMT | Hiding Windows APIs in Offensive Security | Yua Mikanana | [Read More](https://medium.com/p/9aeaea2451c5) |
-| Sun, 25 Jan 2026 22:42:13 GMT | As always in every penetration testing engagements we start by reconnaissance and information… | Cyb0rgBytes | [Read More](https://medium.com/p/04bf8744dc7e) |
