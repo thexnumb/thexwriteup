@@ -12,8 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 Jan 2026 16:25:11 GMT | Everyday Digital Privacy: A Practical Guide to Protecting Your Data. | Senidi Liyanahewa | [Read More](https://medium.com/p/ff5aa7d5a75b) |
+| Mon, 26 Jan 2026 16:19:37 GMT | Click Here for First Contact | Gareth Johnson | [Read More](https://medium.com/p/1ba947efff1e) |
+| Mon, 26 Jan 2026 16:18:45 GMT | Rebuilding — Day 4 | Technodox10 | [Read More](https://medium.com/p/f2336f617cbb) |
+| Mon, 26 Jan 2026 16:09:26 GMT | TryHackMe Write-Up: Wireshark (The Basics) Tasks 1–3 | Jeff Ryan | [Read More](https://medium.com/p/c9f3931ee851) |
+| Mon, 26 Jan 2026 16:08:19 GMT | Windows 11 Backlash: Why Millions Are Stuck, Frustrated, or Downgrading | Paradise technologies Inc | [Read More](https://medium.com/p/e5a37e52aed0) |
+| Mon, 26 Jan 2026 16:02:25 GMT | Clawdbot: The Rise of the Autonomous Personal Assistant | Dimitrios Misios | [Read More](https://medium.com/p/f6c6a5ec70dd) |
+| Mon, 26 Jan 2026 16:00:51 GMT | Overview of a few Security frameworks and regulations (ISO27001, NIS2, NIST etc), and mapping them… | Nityananda | [Read More](https://medium.com/p/618ff3b2c10a) |
+| Mon, 26 Jan 2026 15:57:57 GMT | Session Hijacking: The Invisible Threat in Modern Identity Security and How Rainbow Secure Ends It | Dr. Shashi Karhail | [Read More](https://medium.com/p/09c7baf4e84e) |
+| Mon, 26 Jan 2026 15:55:56 GMT | How Information Asymmetry and Context Control Shape Human–AI Dominance | Agustin Albornoz | [Read More](https://medium.com/p/bd152d3e447a) |
+| Mon, 26 Jan 2026 15:51:49 GMT | AI That Protects Bank Customers Before Money Is Lost | reezky Illmawati | [Read More](https://medium.com/p/f011efef65fc) |
+| Mon, 26 Jan 2026 15:42:44 GMT | What API Developers Need to Know About PCI DSS and Financial API Security | Gift Afortu | [Read More](https://medium.com/p/6a734c65bbe6) |
+| Mon, 26 Jan 2026 15:41:11 GMT | Designing a Safe Malware Analysis Lab with VirtualBox | Lorand Pervizaj | [Read More](https://medium.com/p/a8683932a93f) |
+| Mon, 26 Jan 2026 15:34:00 GMT | Complete Guide To Commercial Security Camera Installation | Alex Bryn | [Read More](https://medium.com/p/fe0906881a6a) |
+| Mon, 26 Jan 2026 15:32:53 GMT | Functional Optics for Java: Why Mutability Bites You (Even If You Don’t See It Yet) | Jitin Kayyala | [Read More](https://medium.com/p/975735326def) |
 | Mon, 26 Jan 2026 15:29:17 GMT | Before you install Clawdbot, stop to learn about security, and maybe, just maybe - wait | Morgan Linton | [Read More](https://medium.com/p/202d9c116263) |
 | Mon, 26 Jan 2026 15:26:48 GMT | The 2026 Business Tech Roadmap: Solving the Top 5 Implementation Challenges in AI, Security, and… | IT_Engineer | [Read More](https://medium.com/p/42ac71e7f4cb) |
+| Mon, 26 Jan 2026 15:22:36 GMT | Forget Passwords. In 2026, They Steal You. | Avlix Group | [Read More](https://medium.com/p/e1607917af21) |
 | Mon, 26 Jan 2026 15:22:03 GMT | kWAPTA Review: A Practical, Semi-Blackbox Web Pentest Exam That’s Actually Challenging | 0xCyberNoob | [Read More](https://medium.com/p/492de51b8817) |
 | Mon, 26 Jan 2026 15:17:42 GMT | How I Passed TryHackMe’s Security Analyst Level 1 (SAL1): A Practical Study Guide | Citadel Cybersec | [Read More](https://medium.com/p/51df87674be7) |
 | Mon, 26 Jan 2026 15:12:56 GMT | AI In The Wrong Hands | AIChE-VIT | [Read More](https://medium.com/p/28452d15d303) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 Jan 2026 10:40:39 GMT | Web Application Firewalls Explained | Motasem Hamdan | [Read More](https://medium.com/p/e21bf0b4b085) |
 | Mon, 26 Jan 2026 10:38:06 GMT | Myrlyn 1.0: A Modern, Standalone Package Manager GUI for openSUSE Has Arrived | Khurram Shahzad | [Read More](https://medium.com/p/98be7e341890) |
 | Mon, 26 Jan 2026 10:35:19 GMT | How to Choose a Skill in 2026 That Actually Pays You Back. | Seb AGUELE | [Read More](https://medium.com/p/25f2c989ba2b) |
-| Mon, 26 Jan 2026 10:31:14 GMT | From Comics & Confession Letters to iPhone Jailbreaking: | Emily McRose | [Read More](https://medium.com/p/b4a95bfa3b9f) |
-| Mon, 26 Jan 2026 10:28:51 GMT | Lesson 3: How Data Moves on the Internet — Understanding Motion, Not Definitions | Cyberspace Bulletin | [Read More](https://medium.com/p/61efc6dc2edf) |
-| Mon, 26 Jan 2026 10:28:25 GMT | This is Sparta — Web Security Easy Challenge Write-Up | Z3DX | [Read More](https://medium.com/p/fd50a2de9190) |
-| Mon, 26 Jan 2026 10:28:06 GMT | From Theory to Terminal: Closer to Ethical Hacking with Linux & SQL | Sanya Sachdeva | [Read More](https://medium.com/p/ee3b3b97ac7e) |
-| Mon, 26 Jan 2026 10:26:49 GMT | HTB Web-Attacks Skills Assessment | Migs | [Read More](https://medium.com/p/01cc4dd27a97) |
-| Mon, 26 Jan 2026 10:22:05 GMT | You Use the Internet Every Day. Here’s Why Understanding It Matters More Than Ever | Ahmad Saidu | [Read More](https://medium.com/p/76e2d3e2fc28) |
-| Mon, 26 Jan 2026 10:21:46 GMT | Multi-Factor Authentication (MFA) Flows — How Modern Systems Balance Security and Usability | Stoic Engineer | [Read More](https://medium.com/p/36b3cf76c397) |
-| Mon, 26 Jan 2026 10:20:27 GMT | Hack The Box: Overwatch Machine | Abhinav | [Read More](https://medium.com/p/f6a2b0119080) |
-| Mon, 26 Jan 2026 10:20:24 GMT | Glibc 2.43 Released With ISO C23 Features and Performance Improvements | Khurram Shahzad | [Read More](https://medium.com/p/b01e4b159206) |
-| Mon, 26 Jan 2026 10:13:56 GMT | REPORTAGE: Hacktivist Disruption — What You Need to Know About Russian‑Aligned Cyber Attacks | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/ec8415300a18) |
-| Mon, 26 Jan 2026 10:12:48 GMT | Detect the Threat Within: Why Insider Threat & Behavioral Monitoring Is Critical for Modern… | Plutosec Cyber Security | [Read More](https://medium.com/p/e7718365e35c) |
-| Mon, 26 Jan 2026 10:09:56 GMT | DIGITAL SME updates its SME guide to implementing ISO/IEC 27001 — what UK SMEs should do next | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/c4e4aa75b3fd) |
-| Mon, 26 Jan 2026 10:01:05 GMT | The Hiding Place of the High Achiever: Why I Chose a Career I Didn’t Love Just to Save My Pride | Kishore V | [Read More](https://medium.com/p/717483322689) |
-| Mon, 26 Jan 2026 09:51:27 GMT | Understanding Linux Persistence Techniques in Incident Response | Sidhantchaurasiya | [Read More](https://medium.com/p/34e09fc81459) |
-| Mon, 26 Jan 2026 09:50:01 GMT | Net Capture Is Not Obsolete. Why a Simple Method Works Against FPV Drones in Ukraine | Oleksandr Kashynskyi | [Read More](https://medium.com/p/423821fa289b) |
