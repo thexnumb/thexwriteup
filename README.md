@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 Jan 2026 09:32:22 GMT | I locked in last year and did amazing…. | Umar Farouk | [Read More](https://medium.com/p/02e2fc6fe22e) |
+| Mon, 26 Jan 2026 09:31:17 GMT | From a Single LNK File to Full System Lockdown: Inside a Multi-Stage Malware Campaign | Mohamed Ehab | [Read More](https://medium.com/p/c9dd9d48f267) |
+| Mon, 26 Jan 2026 09:14:47 GMT | Nobody Talks About How Hard Rebuilding Yourself Is | Vijay Kumar Gupta | [Read More](https://medium.com/p/9cd4e4b32bae) |
+| Mon, 26 Jan 2026 09:13:30 GMT | IoT Security — A Damn Vulnerable Intercom | Alessandro Tagliafierro | [Read More](https://medium.com/p/25979acb258c) |
+| Mon, 26 Jan 2026 09:13:25 GMT | Prompt Injection in Agentic AI | Rahul Singh Chauhan | [Read More](https://medium.com/p/66b93b52fe48) |
+| Mon, 26 Jan 2026 09:12:35 GMT | Exploiting OAuth Device Authorization: Risks in Microsoft 365 | Serj Novoselov | [Read More](https://medium.com/p/f254ecdf2612) |
+| Mon, 26 Jan 2026 09:07:16 GMT | LLMs and GENAI Apps: Risk & Mitigations — Part 9: Vector & Embedding Weaknesses! | Nothing Cyber [NC] | [Read More](https://medium.com/p/5059f68ac399) |
+| Mon, 26 Jan 2026 09:02:43 GMT | IOCs Are Useless Without Context — Lessons From SOC Fatigue | Paritosh | [Read More](https://medium.com/p/7b4dc9c0ae55) |
+| Mon, 26 Jan 2026 09:02:08 GMT | Bug Bounty Checklist: 7 Things to Look for in LeakRadar Results | Alexandre Vandamme | [Read More](https://medium.com/p/5c2a0fc36089) |
+| Mon, 26 Jan 2026 09:01:24 GMT | Pasting Secrets into AI Chats: A Hidden Security Risk | Souvik Ghosh | [Read More](https://medium.com/p/99d6300e14fb) |
+| Mon, 26 Jan 2026 08:55:55 GMT | Your Smart Home Is Dumb (And Expensive, And Hackable) | DGE. | [Read More](https://medium.com/p/47163fcc9558) |
+| Mon, 26 Jan 2026 08:54:38 GMT | Introducing Pond Founding Bounties | Pond | [Read More](https://medium.com/p/fa91e08403a6) |
+| Mon, 26 Jan 2026 08:52:37 GMT | The City of Legends: The Network | Norman Kolarikkal | [Read More](https://medium.com/p/8f5077f3a969) |
+| Mon, 26 Jan 2026 08:51:40 GMT | How “Best Practices” Quietly Create Attack Paths | Fateyaly | [Read More](https://medium.com/p/4f62af9ca990) |
+| Mon, 26 Jan 2026 08:50:28 GMT | ChatGPT Blocked on Your Work Laptop? Here’s the Solution | Hardik Shah | [Read More](https://medium.com/p/84a0a5e4bd80) |
+| Mon, 26 Jan 2026 08:41:28 GMT | Will AI Take My Job - A Beginner Red Teamer’s Real-Life Insight - | M o $ t a | [Read More](https://medium.com/p/f00d7451baa1) |
+| Mon, 26 Jan 2026 08:37:13 GMT | A Writeup from the Dark Terminal | Shadow Whisper | [Read More](https://medium.com/p/8d9e8abc770c) |
+| Mon, 26 Jan 2026 08:33:30 GMT | Complete Guide to Find Your Free Custom Temporary Email in 2026 | CherryZhou | [Read More](https://medium.com/p/4f9e55027948) |
 | Mon, 26 Jan 2026 08:32:03 GMT | JWT Token Security Analysis | Chinaza Emmanuela Obidike | [Read More](https://medium.com/p/a7d88a7097b4) |
 | Mon, 26 Jan 2026 08:29:52 GMT | ISO/IEC 27001: Information Security Management System (ISMS) — History, Types, Importance, and Its… | Mohammad Olwan | [Read More](https://medium.com/p/4d13cd638bcb) |
 | Mon, 26 Jan 2026 08:07:10 GMT | The Security Timebomb: When Anyone Can Code But No One Can Maintain | CraigW | [Read More](https://medium.com/p/c83b6fc1b686) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 Jan 2026 03:33:28 GMT | Hands-On with SEToolkit — Practical Social Engineering Attacks | Cybeague Technologies | [Read More](https://medium.com/p/48bae86e4c79) |
 | Mon, 26 Jan 2026 03:32:05 GMT | SMB Enumeration Using CrackMapExec on Metasploitable 2 | Cybeague Technologies | [Read More](https://medium.com/p/27e5c2dbc0fa) |
 | Mon, 26 Jan 2026 03:30:27 GMT | Pass the Ticket (PtT) Attack - HTB Password Attacks Module | Blackcatjrxiii | [Read More](https://medium.com/p/77b39790bb29) |
-| Mon, 26 Jan 2026 03:29:49 GMT | Why Incident Readiness Scoring Must Be Deterministic-Even in an AI-First World | Purvansh Bhatt | [Read More](https://medium.com/p/1e6684f37508) |
-| Mon, 26 Jan 2026 03:21:08 GMT | Why 100,000 Users are (Unknowingly) Risking Their Privacy in Chrome | Nowshad Hossain Rahat | [Read More](https://medium.com/p/af863af138fa) |
-| Mon, 26 Jan 2026 03:11:46 GMT | Why Walking Beats Driving for Wardriving Data | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/c7b788f48c82) |
-| Mon, 26 Jan 2026 02:56:31 GMT | A Practice Guide to Preparing and Presenting an IT Budget | Swanston "Swan" Benjamin | [Read More](https://medium.com/p/6793151fedf9) |
-| Mon, 26 Jan 2026 02:56:22 GMT | How a Junior found a massive hole in a ‘market leader’ app | Peter Szabo | [Read More](https://medium.com/p/66ae821265aa) |
-| Mon, 26 Jan 2026 02:54:49 GMT | 22 Hours Hunting a Ghost Bug in ISC BIND 9.20.18 | Isaac Adebayo | [Read More](https://medium.com/p/2084dac1d4eb) |
-| Mon, 26 Jan 2026 02:48:27 GMT | A SOC Perspective on ChatGPT | Letsmailrajitha | [Read More](https://medium.com/p/cfc17ebc8814) |
-| Mon, 26 Jan 2026 02:04:17 GMT | Digital Shield Deeply Engaged in GoPlus Security 101 Story Session, Exploring a New Paradigm for… | Digital Shield Offcial | [Read More](https://medium.com/p/4581c21124d6) |
-| Mon, 26 Jan 2026 01:58:56 GMT | Digital Shield Deeply Engaged in GoPlus Security 101 Story Session, Exploring a New Paradigm for… | Digital Shield | [Read More](https://medium.com/p/db55176d399c) |
-| Mon, 26 Jan 2026 00:58:48 GMT | Why Doesn’t the Airplane’s Black Box Get Destroyed? | ᴍ ᴀ ʜ ᴇ ᴇ ʀ ♡ | [Read More](https://medium.com/p/57be53dc4a70) |
-| Mon, 26 Jan 2026 00:54:11 GMT | Shiba insider - Blue team labs | Nicksondiazm | [Read More](https://medium.com/p/6f0ab13b50e5) |
-| Mon, 26 Jan 2026 00:53:39 GMT | Building a $5M Machine: Inside Our Production-Ready Web3 Bug Bounty Stack | SchoolkitHub | [Read More](https://medium.com/p/b1a344d6f1ab) |
-| Mon, 26 Jan 2026 00:44:47 GMT | From EVTX Logs to MITRE‑Mapped Threats: Building a Lightweight UEBA Pipeline for LOLBins | Suvin Majithia | [Read More](https://medium.com/p/db09b33e14cf) |
-| Mon, 26 Jan 2026 00:44:33 GMT | Bots in Cybersecurity: Why Zero Trust Is the Only Real Defense | Infosecjourney.tech | [Read More](https://medium.com/p/66e69e152d40) |
-| Mon, 26 Jan 2026 00:44:26 GMT | The Agentic Kill Chain | XY CYBER | [Read More](https://medium.com/p/129495186333) |
-| Mon, 26 Jan 2026 00:28:27 GMT | What shifted this week in AI governance and why it matters | A D | [Read More](https://medium.com/p/5198dedf6353) |
-| Mon, 26 Jan 2026 00:15:14 GMT | Reducing Attack Surfaces — Why Verification Should Minimize Interaction | sengom | [Read More](https://medium.com/p/ad6634fde10a) |
-| Mon, 26 Jan 2026 00:13:43 GMT | Verifying AI Outputs — Why Results Must Be Proven, Not Recomputed | sengom | [Read More](https://medium.com/p/4f6728c2e17b) |
