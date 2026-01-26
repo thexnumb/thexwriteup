@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 26 Jan 2026 14:29:03 GMT | “lynda.com”, merger acquisition, and the flaw with  browser token backup dependencies | JNComputingLIFE | [Read More](https://medium.com/p/6209ed54a6f3) |
+| Mon, 26 Jan 2026 14:21:02 GMT | Banks Taking Down Their Signs: The Conquest of Finance by Tech Giants and Platforms | 안나 | [Read More](https://medium.com/p/739f3f6960d1) |
+| Mon, 26 Jan 2026 14:20:28 GMT | Forest — Hack The Box Write-Up | JY00X3 | [Read More](https://medium.com/p/04eb4f46aa1b) |
+| Mon, 26 Jan 2026 14:17:50 GMT | Choosing between DexGuard and ProGuard in Android development | Qubika | [Read More](https://medium.com/p/0323790b7b45) |
+| Mon, 26 Jan 2026 14:15:46 GMT | Secure Your Product: The 2026 Cyber Compliance Wave | Consulting4sec | [Read More](https://medium.com/p/b009c875acf7) |
+| Mon, 26 Jan 2026 14:10:49 GMT | How I Turned a Boring Self-XSS into a Real-World Attack Using CSRF | Mostafamhmoud | [Read More](https://medium.com/p/37cf3a78e3da) |
+| Mon, 26 Jan 2026 14:06:54 GMT | Land Rover Key Fob Programming - Expert Mobile Service | Sure Lock & Key LLC | [Read More](https://medium.com/p/a0166a9469b7) |
+| Mon, 26 Jan 2026 14:02:03 GMT | Understanding Testing vs. Evaluation in AI Systems | Nwosu Rosemary | [Read More](https://medium.com/p/c78123f61b0b) |
+| Mon, 26 Jan 2026 14:02:02 GMT | Letter №3: Our Silent Catastrophe (Part 1) | Zaynul!n | [Read More](https://medium.com/p/d1c9eb5b2ac5) |
+| Mon, 26 Jan 2026 13:59:34 GMT | Stop Managing Encryption Keys: Vault-as-a-Service in 5 Minutes | Alain Airom (Ayrom) | [Read More](https://medium.com/p/4406e3478ea0) |
+| Mon, 26 Jan 2026 13:59:03 GMT | Powertrace — Crypto Writeup (Säkerhets-SM 2026 Quals) | 0x11a | [Read More](https://medium.com/p/6424ef054990) |
+| Mon, 26 Jan 2026 13:57:42 GMT | Securing the “Digital Lifeline”: The Urgency of Cybersecurity in Malawi’s Fintech Revolution | Kapyolatafadzwa | [Read More](https://medium.com/p/0b731a0e2a0f) |
+| Mon, 26 Jan 2026 13:55:09 GMT | You Don’t Own Your iPhone: The Rise and Fall of Jailbreak | Dmitry Yarygin | [Read More](https://medium.com/p/1fe456ca95f7) |
+| Mon, 26 Jan 2026 13:50:57 GMT | IAM for AI Systems: Why Least Privilege Is Harder Than You Think | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/a763bd26fd23) |
+| Mon, 26 Jan 2026 13:48:42 GMT | Tryhackme Lazy Admin CTF Write-Up | Kandemirryigit | [Read More](https://medium.com/p/235a283e79c9) |
+| Mon, 26 Jan 2026 13:44:25 GMT | $1 Car Sale? Wondering what it is?? | cybrNK | [Read More](https://medium.com/p/cfacae622ea5) |
+| Mon, 26 Jan 2026 13:43:52 GMT | OSINT Python Tool Reveals EVERYTHING About Anyone!!! | cybrNK | [Read More](https://medium.com/p/7e171317cf31) |
 | Mon, 26 Jan 2026 13:36:56 GMT | Freezing the Autonomous Agent Layer: How I Found a Critical DoS in a Major DAG Platform | Sumit Shah (HackSage) | [Read More](https://medium.com/p/b166bc238b69) |
 | Mon, 26 Jan 2026 13:36:34 GMT | 1. Web Cache Deception When Private User Data Becomes Public | Abhijeet kumawat | [Read More](https://medium.com/p/cac7f269f964) |
 | Mon, 26 Jan 2026 13:31:10 GMT | SolarDisruption Lab Writeup (CyberDefenders) | Loay Salah | [Read More](https://medium.com/p/65c631272d58) |
@@ -26,6 +43,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 Jan 2026 13:16:41 GMT | VulnLab: XML External Entity Attack, API Hacking, Path Traversal Çözümü | CyberSam | [Read More](https://medium.com/p/7a39ca9849be) |
 | Mon, 26 Jan 2026 13:14:28 GMT | The Most Complete, Practical Explanation of Sessions, Cookies, Tokens, and JWTs | aashish | [Read More](https://medium.com/p/364cfa101461) |
 | Mon, 26 Jan 2026 13:13:38 GMT | When Phishing Walks Into Teams: Make it a first class security surface | Ahmed Monsri | [Read More](https://medium.com/p/f5b372099265) |
+| Mon, 26 Jan 2026 13:00:59 GMT | Fix Staff Shortage & Burnout in Your SOC with Better Threat Intelligence | ANY.RUN | [Read More](https://medium.com/p/a75155097b1d) |
 | Mon, 26 Jan 2026 13:00:23 GMT | 6 People You Should Never Trust With Your Vulnerability | Victor Mong | [Read More](https://medium.com/p/749850398bef) |
 | Mon, 26 Jan 2026 12:51:36 GMT | Powering Down Privacy: Tracking Tesla Powerwall Signatures using Modat Magnify | hacker_might | [Read More](https://medium.com/p/707795ffefc0) |
 | Mon, 26 Jan 2026 12:38:18 GMT | SOC Burnout Depends on Dashboard Analyst Experience | Graylog | [Read More](https://medium.com/p/27f6a220a651) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 Jan 2026 09:02:43 GMT | IOCs Are Useless Without Context — Lessons From SOC Fatigue | Paritosh | [Read More](https://medium.com/p/7b4dc9c0ae55) |
 | Mon, 26 Jan 2026 09:02:08 GMT | Bug Bounty Checklist: 7 Things to Look for in LeakRadar Results | Alexandre Vandamme | [Read More](https://medium.com/p/5c2a0fc36089) |
 | Mon, 26 Jan 2026 09:01:24 GMT | Pasting Secrets into AI Chats: A Hidden Security Risk | Souvik Ghosh | [Read More](https://medium.com/p/99d6300e14fb) |
-| Mon, 26 Jan 2026 08:55:55 GMT | Your Smart Home Is Dumb (And Expensive, And Hackable) | DGE. | [Read More](https://medium.com/p/47163fcc9558) |
-| Mon, 26 Jan 2026 08:54:38 GMT | Introducing Pond Founding Bounties | Pond | [Read More](https://medium.com/p/fa91e08403a6) |
-| Mon, 26 Jan 2026 08:52:37 GMT | The City of Legends: The Network | Norman Kolarikkal | [Read More](https://medium.com/p/8f5077f3a969) |
-| Mon, 26 Jan 2026 08:51:40 GMT | How “Best Practices” Quietly Create Attack Paths | Fateyaly | [Read More](https://medium.com/p/4f62af9ca990) |
-| Mon, 26 Jan 2026 08:50:28 GMT | ChatGPT Blocked on Your Work Laptop? Here’s the Solution | Hardik Shah | [Read More](https://medium.com/p/84a0a5e4bd80) |
-| Mon, 26 Jan 2026 08:41:28 GMT | Will AI Take My Job - A Beginner Red Teamer’s Real-Life Insight - | M o $ t a | [Read More](https://medium.com/p/f00d7451baa1) |
-| Mon, 26 Jan 2026 08:37:13 GMT | A Writeup from the Dark Terminal | Shadow Whisper | [Read More](https://medium.com/p/8d9e8abc770c) |
-| Mon, 26 Jan 2026 08:33:30 GMT | Complete Guide to Find Your Free Custom Temporary Email in 2026 | CherryZhou | [Read More](https://medium.com/p/4f9e55027948) |
-| Mon, 26 Jan 2026 08:32:03 GMT | JWT Token Security Analysis | Chinaza Emmanuela Obidike | [Read More](https://medium.com/p/a7d88a7097b4) |
-| Mon, 26 Jan 2026 08:29:52 GMT | ISO/IEC 27001: Information Security Management System (ISMS) — History, Types, Importance, and Its… | Mohammad Olwan | [Read More](https://medium.com/p/4d13cd638bcb) |
-| Mon, 26 Jan 2026 08:07:10 GMT | The Security Timebomb: When Anyone Can Code But No One Can Maintain | CraigW | [Read More](https://medium.com/p/c83b6fc1b686) |
-| Mon, 26 Jan 2026 08:04:37 GMT | I Accidentally Designed a Murder-for-Hire Protocol. Here’s How I Fixed It | Eric Grill | [Read More](https://medium.com/p/bdd441489eef) |
-| Mon, 26 Jan 2026 08:04:07 GMT | Zero-Click Hacks and Bricked Macs: The Week Big Tech Failed Us | Aaron | [Read More](https://medium.com/p/6420d09cc0a3) |
-| Mon, 26 Jan 2026 08:02:06 GMT | Breaking Into Cybersecurity for Career Changers: A Step-by-Step Guide | Victoria Coker | [Read More](https://medium.com/p/5de63330298b) |
-| Mon, 26 Jan 2026 07:47:41 GMT | Chain Link Fence in Saudi Arabia The Smart Durable Choice for Perimeter Security (2024_2025) | Hitechfence | [Read More](https://medium.com/p/4f8403d94829) |
-| Mon, 26 Jan 2026 07:40:24 GMT | Prompt Injection Your Way to a Hidden Flag in an AI Assistant | OopsSec Store | [Read More](https://medium.com/p/b5bc3782fc73) |
-| Mon, 26 Jan 2026 07:39:19 GMT | Breaking My Own Kubernetes Cluster: A Red–Blue Team Therapy Session | Vijenex | [Read More](https://medium.com/p/d6849d0812e1) |
-| Mon, 26 Jan 2026 07:38:20 GMT | Can AI persuade humans with insights? | Jin Park | [Read More](https://medium.com/p/8e1fe285a384) |
