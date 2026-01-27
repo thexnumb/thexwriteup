@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 Jan 2026 10:25:23 GMT | Phishing Analysis 2 — BTLO Room | Nishasorallikar | [Read More](https://medium.com/p/d0ba52ca4ec4) |
+| Tue, 27 Jan 2026 10:24:17 GMT | pwnable.kr: tiny_easy writeup | Yael Shechter | [Read More](https://medium.com/p/9965222c409c) |
+| Tue, 27 Jan 2026 10:24:11 GMT | Top Cybersecurity Skills No College Is Teaching You
+Most colleges promise careers in cybersecurity. | Ankit rai | [Read More](https://medium.com/p/aff5a4523d3f) |
+| Tue, 27 Jan 2026 10:19:03 GMT | RIGGED: How AI Bot Farms Are Stealing Billions From Online Gamblers | Zoom In AI | [Read More](https://medium.com/p/2b80444800f7) |
+| Tue, 27 Jan 2026 10:14:55 GMT | Probably Just Fine -First-Shift-CTF - Walkthrough | Visir | [Read More](https://medium.com/p/b9a304526965) |
+| Tue, 27 Jan 2026 10:03:03 GMT | Beyond Digital Logs — Proposing the “Biological Audit Trail” for Mobile Forensics | Ryu360 | [Read More](https://medium.com/p/2c81e4d18a2b) |
+| Tue, 27 Jan 2026 10:02:42 GMT | Mengenal Tools Analisis Artefak Digital Forensik, Autopsy. | Priyagung Yogi | [Read More](https://medium.com/p/c55ea983fc4a) |
+| Tue, 27 Jan 2026 09:59:25 GMT | Kubernetes Security Explained: Authentication, Authorization, and Admission Controllers | Mikail Furkan Alperen | [Read More](https://medium.com/p/ec9eaa5eef7d) |
+| Tue, 27 Jan 2026 09:59:07 GMT | Scalable Cybersecurity for SaaS Platforms | Black Lock | [Read More](https://medium.com/p/dbfa2d1c79de) |
+| Tue, 27 Jan 2026 09:57:36 GMT | Leveling Up Your Web Enumeration: A Deep Dive with ffuf and Caido | Rezaul Hasan | [Read More](https://medium.com/p/9b0539b055b6) |
+| Tue, 27 Jan 2026 09:57:10 GMT | Why Ethereum’s Focus on Post-Quantum Security Is Important | DragonStake | [Read More](https://medium.com/p/35f33fcf6efa) |
+| Tue, 27 Jan 2026 09:54:20 GMT | Inside the Blue Team: Your First Steps as a Junior SOC Analyst | Little_Sun4lower | [Read More](https://medium.com/p/8bd3a4beca54) |
+| Tue, 27 Jan 2026 09:52:27 GMT | Nobody’s Girl: When Silence Is the Loudest Story in the Room | Kofoworola | [Read More](https://medium.com/p/de4016201e09) |
+| Tue, 27 Jan 2026 09:47:56 GMT | OSI MODEL | Dev kaushik | [Read More](https://medium.com/p/0d38fa2a09cf) |
+| Tue, 27 Jan 2026 09:47:22 GMT | คัมภีร์ Security Literacy สิ่งที่ได้จากงาน MyOrder Workshop | Intuon Nimthong | [Read More](https://medium.com/p/81c9df124512) |
+| Tue, 27 Jan 2026 09:43:58 GMT | AWS CLOUD FOUNDATIONS, CONSULTING STRATEGY & DISASTER RECOVERY ESSENTIALS | F9 Infotech | [Read More](https://medium.com/p/fd41ee4fc6d3) |
+| Tue, 27 Jan 2026 09:43:50 GMT | Linux CLI — Shells Bells - Tryhackme - Day-1 | M o $ t a | [Read More](https://medium.com/p/f3f30ad7adb8) |
+| Tue, 27 Jan 2026 09:40:33 GMT | Malware - Mobile Threats 2026 - Hire Professional Hacker | BlackHat | [Read More](https://medium.com/p/5bae42da9868) |
+| Tue, 27 Jan 2026 09:36:50 GMT | What If Your Application Could Fix Its Own Security Bugs? | Sabbir Hossain | [Read More](https://medium.com/p/720c7054293c) |
 | Tue, 27 Jan 2026 09:32:01 GMT | Container Security Best Practices for Modern Infrastructure | Gerardo Ocampos | [Read More](https://medium.com/p/48c505b9988b) |
 | Tue, 27 Jan 2026 09:29:41 GMT | Software Updates That Break Everything: When “New” Means “Not Working.” | Sarbajitacharjee | [Read More](https://medium.com/p/a4179fc0884f) |
 | Tue, 27 Jan 2026 09:28:19 GMT | #1 OT/ICS CYBERSECURITY TRAINING AND GEN AI TRAINING IN DELHI NCR AND IN INDIA | TheEvolvEdge | [Read More](https://medium.com/p/e822f0e4d814) |
@@ -93,22 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 Jan 2026 03:31:34 GMT | What Cybersecurity Tools Actually Make Sense for Students (And When to Use Them) | Manubhav Sharma | [Read More](https://medium.com/p/21291f7b1641) |
 | Tue, 27 Jan 2026 03:15:09 GMT | Tuesday Morning Threat Report: Jan 27, 2026 | Mark Maguire | [Read More](https://medium.com/p/e67ded048741) |
 | Tue, 27 Jan 2026 03:12:02 GMT | The AI Security Crisis Nobody Saw Coming: Why 2026 Is the Year Everything Changes | Tech Trends by Tähīrī | [Read More](https://medium.com/p/575c07719102) |
-| Tue, 27 Jan 2026 03:11:38 GMT | picoCTF - corrupt-key-2 - Complete Writeup | SPIDER1SEC | [Read More](https://medium.com/p/dc5a258f99d8) |
-| Tue, 27 Jan 2026 03:01:24 GMT | 5 Cybersecurity Weak Spots SMBs Ignore (Until They’re Breached) | The Default Gateway | [Read More](https://medium.com/p/f520876f55d4) |
-| Tue, 27 Jan 2026 03:00:58 GMT | IDOR Vulnerability in WEB3 Bug Bounty Platform Exposing User Sensitive PII | Rs_Xpl0r3r | [Read More](https://medium.com/p/27bb5348db58) |
-| Tue, 27 Jan 2026 02:53:22 GMT | PG Lab Heist: Getaway | Nicolas Garcia | [Read More](https://medium.com/p/c6118151ce9f) |
-| Tue, 27 Jan 2026 02:49:47 GMT | The Rising Threat of Malicious Chrome Extensions: How Hackers Use Web Store Phishing to Steal Your… | diwahar | [Read More](https://medium.com/p/f0189242fc92) |
-| Tue, 27 Jan 2026 02:47:06 GMT | Timing Attack techniques (Last-byte synchronization ^0 Single packet attack) | CyrilLK | [Read More](https://medium.com/p/b910fd63f9b0) |
-| Tue, 27 Jan 2026 02:04:39 GMT | AMAXG: BIZA Coin Monthly Distribution for January 2026 | BizAuto l AMAXG | [Read More](https://medium.com/p/02f5073de3ce) |
-| Tue, 27 Jan 2026 01:54:25 GMT | From Reactive Defense to Verifiable Trust | sengom | [Read More](https://medium.com/p/a0d40a408800) |
-| Tue, 27 Jan 2026 01:53:02 GMT | Why Future Security Must Be Protocol-Level, Not App-Level | sengom | [Read More](https://medium.com/p/9682a8cbc558) |
-| Tue, 27 Jan 2026 01:36:14 GMT | Fundamentals of Information Technology | Can ATA | [Read More](https://medium.com/p/f550feb1bd47) |
-| Tue, 27 Jan 2026 01:18:24 GMT | From Alert to Analysis: My Process for Triage, Timeline Reconstruction, and MITRE ATT&CK Mapping | Dylan Clifton | [Read More](https://medium.com/p/bbdcb75514c0) |
-| Tue, 27 Jan 2026 01:11:44 GMT | Cryptex — Because openssl rand -base64 32 Gets Old Fast | Tarek CHEIKH | [Read More](https://medium.com/p/d9f1200c5a12) |
-| Tue, 27 Jan 2026 01:10:29 GMT | Hundreds of Clawdbot instances were exposed on the internet. Here’s how to not be one of them | JP Caparas | [Read More](https://medium.com/p/63fa813e6625) |
-| Tue, 27 Jan 2026 01:01:45 GMT | What Gets Missed When We Talk About Online Scams | Dobby | [Read More](https://medium.com/p/d6eee90921ee) |
-| Tue, 27 Jan 2026 00:50:29 GMT | The Security Paradox: Why Your Office Server is Your Biggest Liability in 2026 | Webhuk ERP | [Read More](https://medium.com/p/62728921e0b3) |
-| Tue, 27 Jan 2026 00:47:42 GMT | SOC 2 Reality Check: Why “Feeling Ready” Isn’t Enough, and How to Actually Get It Done | Rachit Lohani | [Read More](https://medium.com/p/3b49f319bb5c) |
-| Tue, 27 Jan 2026 00:45:26 GMT | Wireless Security: Understanding WiFi Authentication and Encryption | Raviteja Mureboina | [Read More](https://medium.com/p/2cf9b9f013f2) |
-| Tue, 27 Jan 2026 00:27:37 GMT | The Rise of “Celeb Bait”: What It Is and How to Avoid Falling for It | SirMedium | [Read More](https://medium.com/p/542f7fcc7356) |
-| Tue, 27 Jan 2026 00:25:39 GMT | Why Clawdbot is a Bad Idea: Critical Zero-days Found in My Audit (Full Report) | Saad Khalid | [Read More](https://medium.com/p/634602cb053f) |
