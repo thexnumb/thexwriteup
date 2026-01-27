@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 Jan 2026 18:34:42 GMT | How I Found a Clickable Link Injection Issue in a Verification Email (Beginner Friendly) | Sahal | [Read More](https://medium.com/p/14fda535a4bf) |
+| Tue, 27 Jan 2026 18:33:32 GMT | When Anthropic Came Knocking: Trademark Wars and the Agentic Security Crisis | Dudethedogai | [Read More](https://medium.com/p/8e10673b609b) |
+| Tue, 27 Jan 2026 18:29:54 GMT | How COBIT and ITIL Enable Low-risk ERP Migrations? | Aimee Liu | [Read More](https://medium.com/p/29375d33e9e6) |
+| Tue, 27 Jan 2026 18:20:32 GMT | Prompt Injection: The SQL Injection of AI + How to Defend | Lukas Niessen | [Read More](https://medium.com/p/2a28c6f3bc05) |
+| Tue, 27 Jan 2026 18:18:47 GMT | AI Security Tools — January 2026 | Tal Eliyahu | [Read More](https://medium.com/p/ed4636eb31e8) |
+| Tue, 27 Jan 2026 18:17:05 GMT | Threat Modeling for Smart Contracts: How to Stop Guessing About Security | Exploitless | [Read More](https://medium.com/p/6f5a0ba883e1) |
+| Tue, 27 Jan 2026 18:02:39 GMT | Why 2026 Might Be the Year Cybersecurity Finally Breaks (Or Gets Fixed) | Abdelaziz moustakim | [Read More](https://medium.com/p/fa3732eb7699) |
+| Tue, 27 Jan 2026 18:02:21 GMT | Optimizing Human Capital in Cybersecurity through Traditional Chinese Medicine and Internal… | Quintius Walker | [Read More](https://medium.com/p/8ce52a9e5a7b) |
+| Tue, 27 Jan 2026 18:02:07 GMT | Passive Reconnaissance: How Attacks Really Begin(A Realistic Story From Labs, Not a Movie) | SoBatista | [Read More](https://medium.com/p/fac8cf6cdebf) |
+| Tue, 27 Jan 2026 17:59:08 GMT | The Handshake That Never Finishes: Why SYN Floods Still Drop Real Users | Kirubakaran | [Read More](https://medium.com/p/7f694168384e) |
+| Tue, 27 Jan 2026 17:56:03 GMT | What is the Demand for Cybersecurity Analyst in 2026? | ai3ech | [Read More](https://medium.com/p/2c271317c10c) |
+| Tue, 27 Jan 2026 17:55:34 GMT | Exploit Lab: CVE-2026–24061 (telnetd) | Josh Beck | [Read More](https://medium.com/p/772306d3b0ba) |
+| Tue, 27 Jan 2026 17:50:03 GMT | How Breach Point CTF Became One of Telangana’s Largest Student-Led Cybersecurity Events | Syedataurrahaman | [Read More](https://medium.com/p/89ea70af5772) |
+| Tue, 27 Jan 2026 17:49:11 GMT | How to Secure Your Website in 2026 | IOTAIY | [Read More](https://medium.com/p/1b5a170621cb) |
 | Tue, 27 Jan 2026 17:44:06 GMT | Internal thm— TryHackMe Walkthrough | Md Fahim Al Shihab | [Read More](https://medium.com/p/2cf5d0b400ae) |
+| Tue, 27 Jan 2026 17:41:24 GMT | Combating AI Synthesis in Malware and Ransomware: Why Cyber Defense Must Evolve Faster Than… | Digital Defense | [Read More](https://medium.com/p/680f3b6d9869) |
 | Tue, 27 Jan 2026 17:38:31 GMT | Enterprise Grade API Security in .NET 10: A Practical RBAC + OData Blueprint | Rawand Hawez | [Read More](https://medium.com/p/2674ffb94bd7) |
 | Tue, 27 Jan 2026 17:36:07 GMT | Encrypted Database — CyberTalents Web Security Challenge (Easy) | Z3DX | [Read More](https://medium.com/p/afb8972681f0) |
 | Tue, 27 Jan 2026 17:35:37 GMT | When is authentic too risky? | Billie Burton | [Read More](https://medium.com/p/3e41218d68dc) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 Jan 2026 12:55:16 GMT | Specifying the Intended Purpose of a CRA product | Sarah Fluchs | [Read More](https://medium.com/p/7a0fb0de1e4a) |
 | Tue, 27 Jan 2026 12:54:17 GMT | Launch of a new project at the International House of Japan | Tom Furutani | [Read More](https://medium.com/p/ac02c8019346) |
 | Tue, 27 Jan 2026 12:53:44 GMT | VIDEO: US Civil war simulation, Center for Ethics and the Rule of Law at the University of… | Berend Watchus | [Read More](https://medium.com/p/3c749d07cf8f) |
-| Tue, 27 Jan 2026 12:48:07 GMT | Alert Fatigue Is Killing Your On-Call Culture — Here’s How to Fix It | inboryn | [Read More](https://medium.com/p/ed156594f2b4) |
-| Tue, 27 Jan 2026 12:47:37 GMT | What Are the Latest Mobile App Development Trends in 2026? | Jackson Ford | [Read More](https://medium.com/p/4af67f50d3ca) |
-| Tue, 27 Jan 2026 12:46:26 GMT | Beyond the Denial: The Oppo Shadow Fueling Anxiety Over OnePlus’s Future | Elone Musk | [Read More](https://medium.com/p/1b7604b39ed7) |
-| Tue, 27 Jan 2026 12:43:50 GMT | Privacy Incidents Aren’t Security Incidents: Can Your SOC Answer the Regulator? | Denny Roger | [Read More](https://medium.com/p/4ba88ba3161e) |
-| Tue, 27 Jan 2026 12:43:36 GMT | How We Built Secure Cross-Account DynamoDB Access (Without Breaking Security) | Chaos To Clarity | [Read More](https://medium.com/p/6211de4dc518) |
-| Tue, 27 Jan 2026 12:30:42 GMT | When “Export CSV” Becomes a Data Breach: A Case Study of a IDOR in a Crypto Platform | Mohsin khan | [Read More](https://medium.com/p/ba29149d7c4a) |
-| Tue, 27 Jan 2026 12:28:01 GMT | Encapsulation and OSI Layers: How Packets Travel Safely Across the Internet | Gajanan Tayde | [Read More](https://medium.com/p/2ee03973f47b) |
-| Tue, 27 Jan 2026 12:21:30 GMT | Leading Visitor Management Software Providers in the UK | Semieta | [Read More](https://medium.com/p/8dcb6f0bac20) |
-| Tue, 27 Jan 2026 12:21:01 GMT | Shocking Privacy Risks of LLMs | Shailendra Kumar | [Read More](https://medium.com/p/131b6dc23498) |
-| Tue, 27 Jan 2026 12:07:06 GMT | Certifications vs Skills in Cybersecurity: Why Integrity and Learning Matter More Than a Badge | Gajanan Tayde | [Read More](https://medium.com/p/a9ee10fdba71) |
-| Tue, 27 Jan 2026 12:06:12 GMT | Why Cyber Risk Is Now a Board-Level Concern | Khizra Saleem | [Read More](https://medium.com/p/34b1f60e80fb) |
-| Tue, 27 Jan 2026 12:04:22 GMT | Cybersecurity Testing Services by Secninjaz Technologies LLP - Strengthening Digital Defenses with… | Secninjaz Technologies LLP | [Read More](https://medium.com/p/afb848b11a75) |
-| Tue, 27 Jan 2026 12:03:34 GMT | PQC (Post Quantum Cryptography) Is Here … And You Are Likely To Be Using It! | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/bbba9d4aa7f2) |
-| Tue, 27 Jan 2026 12:01:22 GMT | New ClickFix Malware Campaign Exploits Windows App-V Scripts to Deploy Infostealer | Technijian | [Read More](https://medium.com/p/df452e05cd9c) |
-| Tue, 27 Jan 2026 12:00:21 GMT | If Your GRC Projects Look Like Paperwork, You’re Doing It Wrong | Taimur Ijlal | [Read More](https://medium.com/p/4dff7d9ae763) |
