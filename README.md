@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 Jan 2026 09:32:01 GMT | Container Security Best Practices for Modern Infrastructure | Gerardo Ocampos | [Read More](https://medium.com/p/48c505b9988b) |
+| Tue, 27 Jan 2026 09:29:41 GMT | Software Updates That Break Everything: When “New” Means “Not Working.” | Sarbajitacharjee | [Read More](https://medium.com/p/a4179fc0884f) |
+| Tue, 27 Jan 2026 09:28:19 GMT | #1 OT/ICS CYBERSECURITY TRAINING AND GEN AI TRAINING IN DELHI NCR AND IN INDIA | TheEvolvEdge | [Read More](https://medium.com/p/e822f0e4d814) |
+| Tue, 27 Jan 2026 09:28:14 GMT | Why Cities Are Shifting to AI-Based Traffic Management Systems | Videonetics | [Read More](https://medium.com/p/e1772ce0f3a3) |
+| Tue, 27 Jan 2026 09:27:35 GMT | Your Email Inbox is Lying to You (And How to Catch It Red-Handed) | Dhanush N | [Read More](https://medium.com/p/7d42fbc62711) |
+| Tue, 27 Jan 2026 09:26:28 GMT | Postal Automation System Market Size, Share & Trends Forecast 2030 | kalpesh rajput | [Read More](https://medium.com/p/23c074bc4abd) |
+| Tue, 27 Jan 2026 09:24:07 GMT | Implementation of a T-Pot Honeypot for Attack Detection and Analysis. | Eric Cabrera Cruz | [Read More](https://medium.com/p/eb93f168ba25) |
+| Tue, 27 Jan 2026 09:23:05 GMT | Why Security Teams Are Always Busy but Still Feel Behind | Prerna Shukla | [Read More](https://medium.com/p/483ef27a6897) |
+| Tue, 27 Jan 2026 09:20:22 GMT | Is Your Business Really Protected? Why You Shouldn’t Skip a Cyber Security Audit | Gary Marshall | [Read More](https://medium.com/p/ac1f8d6929fb) |
+| Tue, 27 Jan 2026 09:06:26 GMT | Rooting the Blackpearl Machine (TCM Security) — Step-by-Step Walkthrough | B3TA-BLOCKER | [Read More](https://medium.com/p/be1148a0678b) |
+| Tue, 27 Jan 2026 09:03:47 GMT | Dynamic Malware Loaders: The Silent Backbone of Modern Cyberattacks | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/0f979e90166d) |
+| Tue, 27 Jan 2026 09:01:49 GMT | What is Cybersecurity? A Complete Beginner’s Guide for 2026 | Tolulope Oduola | [Read More](https://medium.com/p/ea7aadd57483) |
+| Tue, 27 Jan 2026 09:00:59 GMT | FIRST SHIFT CTF — PROBABLY JUST FINE ( NO — SPOILERS )… | lukewago | [Read More](https://medium.com/p/aa31bd147a3e) |
+| Tue, 27 Jan 2026 08:59:48 GMT | Winter Security Special: Why the Regnum Elite is the Ultimate Tech Companion This Season! | Ramesh Raj | [Read More](https://medium.com/p/3e8e33985444) |
+| Tue, 27 Jan 2026 08:53:15 GMT | Cool Name Effect - Web Security Challenge (Easy) — Write-Up | Z3DX | [Read More](https://medium.com/p/cff8bf6f7c3f) |
+| Tue, 27 Jan 2026 08:48:42 GMT | Windows PrivEsc 2025: 20 New Tools & Techniques to Master Privilege Escalation | Very Lazy Tech | [Read More](https://medium.com/p/b74a5db5f6be) |
+| Tue, 27 Jan 2026 08:48:32 GMT | What Happens When the Supply Chain Has No Backup Plan | Heesham Naji | [Read More](https://medium.com/p/cb36721ef022) |
+| Tue, 27 Jan 2026 08:48:14 GMT | ️ SOC Analyst Day 6 | Faizan Nazir | [Read More](https://medium.com/p/3454d5390db5) |
+| Tue, 27 Jan 2026 08:48:01 GMT | The Daily Responsibilities of a Virtual Doorman | Doris William | [Read More](https://medium.com/p/60eed9fced78) |
+| Tue, 27 Jan 2026 08:39:22 GMT | The Hitchhiker’s Guide to LTS: Key changes when upgrading from Java 8 to Java 11 | Unicorn Developer | [Read More](https://medium.com/p/3dce64414c4c) |
+| Tue, 27 Jan 2026 08:35:48 GMT | Best Practices for Securing n8n in Regulated Industries | Ashley Gross | [Read More](https://medium.com/p/73c892c415e8) |
+| Tue, 27 Jan 2026 08:31:31 GMT | Why Smart Creators Stop Selling Websites and Start Owning the Stack? | Janet Watson | [Read More](https://medium.com/p/763ff120d393) |
 | Tue, 27 Jan 2026 08:27:21 GMT | Malware: The Invisible Threat in the Digital World | Himanshu Bhatt | [Read More](https://medium.com/p/beb397b07c2c) |
 | Tue, 27 Jan 2026 08:27:15 GMT | The Best Encrypted Messaging App for Privacy in 2026 | WibeIT Application | [Read More](https://medium.com/p/e8a3b1b2f85e) |
 | Tue, 27 Jan 2026 08:25:39 GMT | ประจำวันอังคารที่ 27 มกราคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/ab443888b632) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 Jan 2026 00:45:26 GMT | Wireless Security: Understanding WiFi Authentication and Encryption | Raviteja Mureboina | [Read More](https://medium.com/p/2cf9b9f013f2) |
 | Tue, 27 Jan 2026 00:27:37 GMT | The Rise of “Celeb Bait”: What It Is and How to Avoid Falling for It | SirMedium | [Read More](https://medium.com/p/542f7fcc7356) |
 | Tue, 27 Jan 2026 00:25:39 GMT | Why Clawdbot is a Bad Idea: Critical Zero-days Found in My Audit (Full Report) | Saad Khalid | [Read More](https://medium.com/p/634602cb053f) |
-| Tue, 27 Jan 2026 00:09:53 GMT | 買斷還是訂閱軟件程式？ | 思維舞步 MindSteps | [Read More](https://medium.com/p/1b9c20706653) |
-| Tue, 27 Jan 2026 00:03:12 GMT | Guía de Hashcat: Recuperación de Contraseñas y Auditoría de Seguridad | JPablo13 | [Read More](https://medium.com/p/868181eaff8a) |
-| Mon, 26 Jan 2026 23:56:50 GMT | Beyond FM: Pushing Your $30 RTL-SDR to the Edge of the Atmosphere | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/5afaca786f4b) |
-| Mon, 26 Jan 2026 23:52:17 GMT | 2FA Bypass via Reset Password | KhaledAhmed107 | [Read More](https://medium.com/p/daba828b10f3) |
-| Mon, 26 Jan 2026 23:47:39 GMT | DC-2 - Proving Grounds Play | Maxwell Ferreira | [Read More](https://medium.com/p/9be35063a2f6) |
-| Mon, 26 Jan 2026 23:45:48 GMT | Beyond Takeover AWS Bucket | Na_stark | [Read More](https://medium.com/p/58c7b22d9e8a) |
-| Mon, 26 Jan 2026 23:38:40 GMT | Stop SIEM Noise at the Source: Wazuh Agent-Side Suppression for Windows Security Events (QueryList… | SOCFortress | [Read More](https://medium.com/p/0eacbf4326df) |
-| Mon, 26 Jan 2026 23:35:10 GMT | I Saw You Looking Handsome | Su ☆ | [Read More](https://medium.com/p/80e6bd4d82df) |
-| Mon, 26 Jan 2026 22:57:02 GMT | Confidential VMs Are Missing Everything, And I Love It! | ijlal | [Read More](https://medium.com/p/87397bf1babd) |
-| Mon, 26 Jan 2026 22:38:48 GMT | AI Is Starting to Learn From Itself and That Changes Everything | Qandeel Akhtar | [Read More](https://medium.com/p/16739774627c) |
-| Mon, 26 Jan 2026 22:31:29 GMT | The Six Laws of Power for AI Models | Doyin M. Awofodu | [Read More](https://medium.com/p/2e28e35c9473) |
-| Mon, 26 Jan 2026 22:24:10 GMT | Letting the Pi Phone a Friend: VirusTotal Joins the Party | the CyberStoic | [Read More](https://medium.com/p/301013de847f) |
-| Mon, 26 Jan 2026 22:23:13 GMT | Crisis Communications for Finance Leaders: a Business Design Problem (Not a Security Program) | Fook Hwa Tan | [Read More](https://medium.com/p/63508624ee7d) |
-| Mon, 26 Jan 2026 22:20:35 GMT | TTPI’s: Extending the Classic Model | VanVleet | [Read More](https://medium.com/p/058c572b76f3) |
-| Mon, 26 Jan 2026 22:15:21 GMT | Email Body Truncation via Null Byte Injection | 0xcyborg | [Read More](https://medium.com/p/21f753bf2c64) |
-| Mon, 26 Jan 2026 22:15:18 GMT | Turning a Raspberry Pi 3 Into a Living, Breathing Watchman (And Where We Go From Here) | the CyberStoic | [Read More](https://medium.com/p/8eef71309604) |
-| Mon, 26 Jan 2026 22:04:44 GMT | GhidraInsight: Revolutionizing Binary Analysis with AI-Powered Reverse Engineering | Ismail Tasdelen | [Read More](https://medium.com/p/f21f0ad0089a) |
-| Mon, 26 Jan 2026 21:55:20 GMT | Hack The Box (HTB) Windows Fundamentals Walkthrough: My Solutions | Abhinav Gumgol | [Read More](https://medium.com/p/1abfc7b8365e) |
-| Mon, 26 Jan 2026 21:42:26 GMT | Beyond the IP: Identifying Compromised Identities in RDP Sessions | thedigitaldetective | [Read More](https://medium.com/p/98ce6931d73f) |
-| Mon, 26 Jan 2026 21:36:22 GMT | DockerLabs — Máquina Ping | Ricardo Reyes | [Read More](https://medium.com/p/51062f81af81) |
-| Mon, 26 Jan 2026 21:32:36 GMT | What happens when you type www.google.com in your browser? | Ilyess Sellami | [Read More](https://medium.com/p/86234edadf57) |
-| Mon, 26 Jan 2026 21:27:41 GMT | The Shifting Ground Beneath Tech: High-Demand Skills in an Industry at War With Itself | Len Noe | [Read More](https://medium.com/p/87f4cb04c69f) |
