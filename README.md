@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 Jan 2026 11:41:14 GMT | A hands-on SOC lab guide to detecting scans, brute-force attacks, and malware using Wireshark | Kodeesh | [Read More](https://medium.com/p/7e282d3c692c) |
+| Tue, 27 Jan 2026 11:36:28 GMT | Your Email Address Is a Tracking Device. Here’s How to Break Free | Dan Christ | [Read More](https://medium.com/p/0cdfa77992f8) |
+| Tue, 27 Jan 2026 11:35:38 GMT | Taiwan’s Shield: Cyber, Chips, and Tea | Ty Y. | [Read More](https://medium.com/p/72229e8fd4ba) |
+| Tue, 27 Jan 2026 11:21:46 GMT | the feeling of wanting to be loved, but being afraid to show vulnerability. | seashore | [Read More](https://medium.com/p/8cccac5ec4aa) |
+| Tue, 27 Jan 2026 11:18:08 GMT | How Cybersecurity and Artificial Intelligence Are Shaping Cyberspace | Festus Ayo | [Read More](https://medium.com/p/9ec52f5dbca5) |
+| Tue, 27 Jan 2026 11:15:41 GMT | er Kickstart Your Career in Cyber Security! | Molletibalu | [Read More](https://medium.com/p/791d1f351a93) |
 | Tue, 27 Jan 2026 11:15:20 GMT | Imagery — Hack The Box | Al3xx | [Read More](https://medium.com/p/fd8d4fba9d98) |
 | Tue, 27 Jan 2026 11:15:00 GMT | KodeKloud AWS Challenge — Day 30: Enabling Internet Access for a Private EC2 Using a NAT Instance | Kishor Bhairat | [Read More](https://medium.com/p/b2a121cd2326) |
 | Tue, 27 Jan 2026 11:11:50 GMT | ️ Runtime Protection: Defending the Application from Within | Esra Kayhan | [Read More](https://medium.com/p/4c7af87c01ca) |
@@ -107,9 +113,3 @@ Most colleges promise careers in cybersecurity. | Ankit rai | [Read More](https:
 | Tue, 27 Jan 2026 06:19:39 GMT | AI-Driven Black Box Active Directory Penetration Testing | Andrey Pautov | [Read More](https://medium.com/p/8de0b9ad38b7) |
 | Tue, 27 Jan 2026 06:18:40 GMT | Deception Technology Market Growth: Key Trends, Industries, and Regional Insights | Michel mathew | [Read More](https://medium.com/p/7f5ad103d574) |
 | Tue, 27 Jan 2026 06:09:59 GMT | ️ How I Built an Enterprise-Style SOC Detection & Response Lab Using Wazuh SIEM | Om Gohil | [Read More](https://medium.com/p/d42081e5fc92) |
-| Tue, 27 Jan 2026 06:05:35 GMT | NCAE Sandbox Packet Man Ping V2 | Samuel McLamb | [Read More](https://medium.com/p/2490eadc485f) |
-| Tue, 27 Jan 2026 05:49:18 GMT | KC7: Frognado in Valdoria | Zuhair Nashif | [Read More](https://medium.com/p/8106f296c1fe) |
-| Tue, 27 Jan 2026 05:48:32 GMT | Tryhackme - Session Management - Walkthrough️‍♂️ | Sudarshan Patel | [Read More](https://medium.com/p/199c1cd0fd01) |
-| Tue, 27 Jan 2026 05:44:57 GMT | Palantir’s Internal Revolt, Grok’s CSAM Scandal, and TikTok’s Broken Takeover - The Daily Tech… | Souren Stepanyan | [Read More](https://medium.com/p/858d0467c973) |
-| Tue, 27 Jan 2026 05:24:36 GMT | Building My Pentesting Lab: A Step-by-Step Guide to Installing Kali Linux on VirtualBox | Farrelakbar | [Read More](https://medium.com/p/6ed7172a0cd0) |
-| Tue, 27 Jan 2026 05:16:35 GMT | Living Off The Land (LOTL): When the Attacker Uses Your Own Tools Against You | Daniel Isaac E | [Read More](https://medium.com/p/6a2abde89d28) |
