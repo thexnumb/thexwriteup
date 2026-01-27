@@ -12,7 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 Jan 2026 13:47:50 GMT | I Found This Faraday Signal Blocking Bag on eBay — My Experience as a Buyer Was a Total… | Ravindu Fernando | [Read More](https://medium.com/p/c60715518481) |
+| Tue, 27 Jan 2026 13:37:24 GMT | ISC² CCSP Exam: Specializing in Cloud Security (Part 4) | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/6195f8a9e8c1) |
+| Tue, 27 Jan 2026 13:36:54 GMT | Things to Watch for in 2026: Emerging Threats in Cybersecurity and Tech | Costin Raiu | [Read More](https://medium.com/p/1605a4de7cda) |
+| Tue, 27 Jan 2026 13:34:48 GMT | Threat Intelligence Dossier: TOXICSNAKE | Macs-Hit | [Read More](https://medium.com/p/b3e954bd644b) |
+| Tue, 27 Jan 2026 13:33:47 GMT | WordPress Vulnerability Scanning … Without a Plugin | Karl Kubelet | [Read More](https://medium.com/p/41d1b11b9efe) |
+| Tue, 27 Jan 2026 13:32:04 GMT | NestJS Security Defaults: 7 Switches You’ll Thank Yourself For | Duckweave | [Read More](https://medium.com/p/b9ff3f4ea026) |
+| Tue, 27 Jan 2026 13:30:14 GMT | Exploring Metadata with Exiftool- My First OHSINT Challenge | Charitymkakina | [Read More](https://medium.com/p/056b178b5a9a) |
+| Tue, 27 Jan 2026 13:29:38 GMT | Building Passwordless Authentication on AWS Using Passkeys + Amazon Cognito | Davebhargavi | [Read More](https://medium.com/p/b97ff8f0a192) |
+| Tue, 27 Jan 2026 13:28:39 GMT | How Dr. Doom Walked into the Avengers’ Vault — OWASP A01: Broken Access Control | Vijenex | [Read More](https://medium.com/p/a75a53c2e04f) |
+| Tue, 27 Jan 2026 13:18:55 GMT | People Build Systems on Routine | Rubab Fatima | [Read More](https://medium.com/p/a4684cc4d3eb) |
+| Tue, 27 Jan 2026 13:15:59 GMT | Loss Prevention Tips I Learned on the Floor, Not in Training Manuals | ADITYA PATHAK | [Read More](https://medium.com/p/59d4a42edac7) |
+| Tue, 27 Jan 2026 13:12:56 GMT | No Reinvention Needed: How Eliminating Platform Assembly Accelerates Go-To-Market | Alex Moiseyev | [Read More](https://medium.com/p/f852be910226) |
+| Tue, 27 Jan 2026 13:06:37 GMT | OWASP Top 10 (2025–2026): Modern Web’in Yeni Anayasası | Onur Altuğ | [Read More](https://medium.com/p/600a80fc243b) |
+| Tue, 27 Jan 2026 13:02:11 GMT | A Team That Stops Growing Eventually Becomes the Risk | Jevon Davis | [Read More](https://medium.com/p/f5b428d93212) |
+| Tue, 27 Jan 2026 13:02:11 GMT | Your Node App Isn’t Secure by Default — Fix That | Vectorlane | [Read More](https://medium.com/p/84b027583560) |
+| Tue, 27 Jan 2026 13:02:03 GMT | Five Powerful Parenting Insights | Sumera Rizwan | [Read More](https://medium.com/p/9fbe1b953be2) |
+| Tue, 27 Jan 2026 13:01:03 GMT | [AD攻防]Pass-the-Ticket (PtT)攻擊 | 陳禹璿 | [Read More](https://medium.com/p/1cb3f0c49707) |
+| Tue, 27 Jan 2026 12:55:16 GMT | Specifying the Intended Purpose of a CRA product | Sarah Fluchs | [Read More](https://medium.com/p/7a0fb0de1e4a) |
+| Tue, 27 Jan 2026 12:54:17 GMT | Launch of a new project at the International House of Japan | Tom Furutani | [Read More](https://medium.com/p/ac02c8019346) |
+| Tue, 27 Jan 2026 12:53:44 GMT | VIDEO: US Civil war simulation, Center for Ethics and the Rule of Law at the University of… | Berend Watchus | [Read More](https://medium.com/p/3c749d07cf8f) |
+| Tue, 27 Jan 2026 12:48:07 GMT | Alert Fatigue Is Killing Your On-Call Culture — Here’s How to Fix It | inboryn | [Read More](https://medium.com/p/ed156594f2b4) |
+| Tue, 27 Jan 2026 12:47:37 GMT | What Are the Latest Mobile App Development Trends in 2026? | Jackson Ford | [Read More](https://medium.com/p/4af67f50d3ca) |
+| Tue, 27 Jan 2026 12:46:26 GMT | Beyond the Denial: The Oppo Shadow Fueling Anxiety Over OnePlus’s Future | Elone Musk | [Read More](https://medium.com/p/1b7604b39ed7) |
 | Tue, 27 Jan 2026 12:43:50 GMT | Privacy Incidents Aren’t Security Incidents: Can Your SOC Answer the Regulator? | Denny Roger | [Read More](https://medium.com/p/4ba88ba3161e) |
+| Tue, 27 Jan 2026 12:43:36 GMT | How We Built Secure Cross-Account DynamoDB Access (Without Breaking Security) | Chaos To Clarity | [Read More](https://medium.com/p/6211de4dc518) |
 | Tue, 27 Jan 2026 12:30:42 GMT | When “Export CSV” Becomes a Data Breach: A Case Study of a IDOR in a Crypto Platform | Mohsin khan | [Read More](https://medium.com/p/ba29149d7c4a) |
 | Tue, 27 Jan 2026 12:28:01 GMT | Encapsulation and OSI Layers: How Packets Travel Safely Across the Internet | Gajanan Tayde | [Read More](https://medium.com/p/2ee03973f47b) |
 | Tue, 27 Jan 2026 12:21:30 GMT | Leading Visitor Management Software Providers in the UK | Semieta | [Read More](https://medium.com/p/8dcb6f0bac20) |
@@ -89,27 +113,3 @@ Most colleges promise careers in cybersecurity. | Ankit rai | [Read More](https:
 | Tue, 27 Jan 2026 08:53:15 GMT | Cool Name Effect - Web Security Challenge (Easy) — Write-Up | Z3DX | [Read More](https://medium.com/p/cff8bf6f7c3f) |
 | Tue, 27 Jan 2026 08:48:42 GMT | Windows PrivEsc 2025: 20 New Tools & Techniques to Master Privilege Escalation | Very Lazy Tech | [Read More](https://medium.com/p/b74a5db5f6be) |
 | Tue, 27 Jan 2026 08:48:32 GMT | What Happens When the Supply Chain Has No Backup Plan | Heesham Naji | [Read More](https://medium.com/p/cb36721ef022) |
-| Tue, 27 Jan 2026 08:48:14 GMT | ️ SOC Analyst Day 6 | Faizan Nazir | [Read More](https://medium.com/p/3454d5390db5) |
-| Tue, 27 Jan 2026 08:48:01 GMT | The Daily Responsibilities of a Virtual Doorman | Doris William | [Read More](https://medium.com/p/60eed9fced78) |
-| Tue, 27 Jan 2026 08:39:22 GMT | The Hitchhiker’s Guide to LTS: Key changes when upgrading from Java 8 to Java 11 | Unicorn Developer | [Read More](https://medium.com/p/3dce64414c4c) |
-| Tue, 27 Jan 2026 08:35:48 GMT | Best Practices for Securing n8n in Regulated Industries | Ashley Gross | [Read More](https://medium.com/p/73c892c415e8) |
-| Tue, 27 Jan 2026 08:31:31 GMT | Why Smart Creators Stop Selling Websites and Start Owning the Stack? | Janet Watson | [Read More](https://medium.com/p/763ff120d393) |
-| Tue, 27 Jan 2026 08:27:21 GMT | Malware: The Invisible Threat in the Digital World | Himanshu Bhatt | [Read More](https://medium.com/p/beb397b07c2c) |
-| Tue, 27 Jan 2026 08:27:15 GMT | The Best Encrypted Messaging App for Privacy in 2026 | WibeIT Application | [Read More](https://medium.com/p/e8a3b1b2f85e) |
-| Tue, 27 Jan 2026 08:25:39 GMT | ประจำวันอังคารที่ 27 มกราคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/ab443888b632) |
-| Tue, 27 Jan 2026 08:24:59 GMT | 3 Scary Sounding Machine Learning Algorithms Explained With Zero Math | Tatenda-Alicia | [Read More](https://medium.com/p/a29d57535def) |
-| Tue, 27 Jan 2026 08:23:30 GMT | Emergency Response Security 2026: Crisis Management & Protection Services | Stalwart Group | [Read More](https://medium.com/p/4d6c4df3a1b3) |
-| Tue, 27 Jan 2026 08:14:12 GMT | Tanuki writeup (BugForge) | 7s26Simon | [Read More](https://medium.com/p/5a3d073c4c80) |
-| Tue, 27 Jan 2026 08:05:53 GMT | AWS CLOUD FOUNDATIONS, CONSULTING LANDSCAPE & DISASTER RECOVERY STRATEGY | F9 Infotech | [Read More](https://medium.com/p/e4dca2368746) |
-| Tue, 27 Jan 2026 08:02:46 GMT | Building a Secure, Segmented Enterprise Network in Cisco Packet Tracer: | Diddyjax | [Read More](https://medium.com/p/aef00b17507a) |
-| Tue, 27 Jan 2026 08:02:45 GMT | Network Segmentation Using Cisco Packet Tracer: A Fintech Case Study | Madu Nelson Izunna | [Read More](https://medium.com/p/a519f5834596) |
-| Tue, 27 Jan 2026 08:00:43 GMT | Advance Diploma in Artificial Intelligence and Machine Learning | Manisha Chaudhary | [Read More](https://medium.com/p/ec5f6fdb90b0) |
-| Tue, 27 Jan 2026 07:59:29 GMT | From XLoader to Phantom Stealer: A DHL-Themed multi-stage Infection Chain | Manoj Kshirsagar | [Read More](https://medium.com/p/5d552eee828d) |
-| Tue, 27 Jan 2026 07:56:06 GMT | Laravel Face Recognition and Authentication | Pius Oruko | [Read More](https://medium.com/p/e97ac390010b) |
-| Tue, 27 Jan 2026 07:50:30 GMT | On-Premise Employee Monitoring Software for Enterprises: Security, Control, and Compliance | Turan Can | [Read More](https://medium.com/p/c1880e36c18f) |
-| Tue, 27 Jan 2026 07:47:15 GMT | Internal Active Directory Compromise — Hokkaido (Proving Grounds) | Solynth.exe | [Read More](https://medium.com/p/dc0e43744d9f) |
-| Tue, 27 Jan 2026 07:39:44 GMT | pwnable.kr: unlink writeup — Exploiting heap overflow with unlink corruption and stack pivoting | Yael Shechter | [Read More](https://medium.com/p/8c7773d17f99) |
-| Tue, 27 Jan 2026 07:34:21 GMT | Breaking the Web (Part 9): Business Logic Vulnerabilities — When the App Works as Designed… but… | Mohammed Fahad | [Read More](https://medium.com/p/9acb9a89c345) |
-| Tue, 27 Jan 2026 07:28:46 GMT | When Office Turns Into a Trapdoor: The CVE-2026–21509 Zero-Day, the Emergency Patch, and the Hard… | Germano Costi | [Read More](https://medium.com/p/9c6d3694e9a6) |
-| Tue, 27 Jan 2026 07:27:36 GMT | What types of Web Apps to pick for testing Business Logic Flaws & BAC ? | Abhirup Konwar | [Read More](https://medium.com/p/b2cf14715786) |
-| Tue, 27 Jan 2026 07:26:04 GMT | Breaking “Perimeter Leak”: How a Misconfigured Spring Boot App Broke an AWS Data Perimeter | Kislay Singh | [Read More](https://medium.com/p/80fab28cd707) |
