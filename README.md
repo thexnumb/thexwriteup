@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 Jan 2026 12:43:50 GMT | Privacy Incidents Aren’t Security Incidents: Can Your SOC Answer the Regulator? | Denny Roger | [Read More](https://medium.com/p/4ba88ba3161e) |
+| Tue, 27 Jan 2026 12:30:42 GMT | When “Export CSV” Becomes a Data Breach: A Case Study of a IDOR in a Crypto Platform | Mohsin khan | [Read More](https://medium.com/p/ba29149d7c4a) |
+| Tue, 27 Jan 2026 12:28:01 GMT | Encapsulation and OSI Layers: How Packets Travel Safely Across the Internet | Gajanan Tayde | [Read More](https://medium.com/p/2ee03973f47b) |
+| Tue, 27 Jan 2026 12:21:30 GMT | Leading Visitor Management Software Providers in the UK | Semieta | [Read More](https://medium.com/p/8dcb6f0bac20) |
+| Tue, 27 Jan 2026 12:21:01 GMT | Shocking Privacy Risks of LLMs | Shailendra Kumar | [Read More](https://medium.com/p/131b6dc23498) |
+| Tue, 27 Jan 2026 12:07:06 GMT | Certifications vs Skills in Cybersecurity: Why Integrity and Learning Matter More Than a Badge | Gajanan Tayde | [Read More](https://medium.com/p/a9ee10fdba71) |
+| Tue, 27 Jan 2026 12:04:22 GMT | Cybersecurity Testing Services by Secninjaz Technologies LLP - Strengthening Digital Defenses with… | Secninjaz Technologies LLP | [Read More](https://medium.com/p/afb848b11a75) |
+| Tue, 27 Jan 2026 12:03:34 GMT | PQC (Post Quantum Cryptography) Is Here … And You Are Likely To Be Using It! | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/bbba9d4aa7f2) |
+| Tue, 27 Jan 2026 12:01:22 GMT | New ClickFix Malware Campaign Exploits Windows App-V Scripts to Deploy Infostealer | Technijian | [Read More](https://medium.com/p/df452e05cd9c) |
+| Tue, 27 Jan 2026 12:00:21 GMT | If Your GRC Projects Look Like Paperwork, You’re Doing It Wrong | Taimur Ijlal | [Read More](https://medium.com/p/4dff7d9ae763) |
+| Tue, 27 Jan 2026 11:59:56 GMT | Kurumsal Mimari Neden Lüksten Öte Bir Zorunluluktur? | Mustafa Koca | [Read More](https://medium.com/p/56315bd79ce1) |
+| Tue, 27 Jan 2026 11:56:00 GMT | Traffic Analysis: Uncovering a DarkGate Campaign via Fake Google Authenticator Installer | MabLevi | [Read More](https://medium.com/p/cf23b87d7f2f) |
+| Tue, 27 Jan 2026 11:47:34 GMT | Cyber Campaigns: Fix this, Fix that — Part 2 | Shivam Bathla | [Read More](https://medium.com/p/ba2c065d1f14) |
+| Tue, 27 Jan 2026 11:46:09 GMT | This article provides updated technical details on the Blackmoon malware campaign and its… | Osama Faheem | [Read More](https://medium.com/p/82843298bbef) |
+| Tue, 27 Jan 2026 11:42:15 GMT | Locked in a Box: How iOS Sandboxing Challenges Pentesters | Redfox Security | [Read More](https://medium.com/p/8207476da296) |
 | Tue, 27 Jan 2026 11:41:14 GMT | A hands-on SOC lab guide to detecting scans, brute-force attacks, and malware using Wireshark | Kodeesh | [Read More](https://medium.com/p/7e282d3c692c) |
 | Tue, 27 Jan 2026 11:36:28 GMT | Your Email Address Is a Tracking Device. Here’s How to Break Free | Dan Christ | [Read More](https://medium.com/p/0cdfa77992f8) |
 | Tue, 27 Jan 2026 11:35:38 GMT | Taiwan’s Shield: Cyber, Chips, and Tea | Ty Y. | [Read More](https://medium.com/p/72229e8fd4ba) |
@@ -98,18 +113,3 @@ Most colleges promise careers in cybersecurity. | Ankit rai | [Read More](https:
 | Tue, 27 Jan 2026 07:28:46 GMT | When Office Turns Into a Trapdoor: The CVE-2026–21509 Zero-Day, the Emergency Patch, and the Hard… | Germano Costi | [Read More](https://medium.com/p/9c6d3694e9a6) |
 | Tue, 27 Jan 2026 07:27:36 GMT | What types of Web Apps to pick for testing Business Logic Flaws & BAC ? | Abhirup Konwar | [Read More](https://medium.com/p/b2cf14715786) |
 | Tue, 27 Jan 2026 07:26:04 GMT | Breaking “Perimeter Leak”: How a Misconfigured Spring Boot App Broke an AWS Data Perimeter | Kislay Singh | [Read More](https://medium.com/p/80fab28cd707) |
-| Tue, 27 Jan 2026 07:22:08 GMT | Technology-Related Responsible Optimism | Dr.Abdulla Al Nuaimi | [Read More](https://medium.com/p/e525fbba0c37) |
-| Tue, 27 Jan 2026 07:14:22 GMT | Clawdbot 開源 AI 助理資安風險 | p1x06u9 | [Read More](https://medium.com/p/b229703aec2e) |
-| Tue, 27 Jan 2026 07:11:37 GMT | Building a SIEM from Scratch with Wazuh and VirusTotal | Abdullah Ahmed H | [Read More](https://medium.com/p/2875e7d910f8) |
-| Tue, 27 Jan 2026 07:04:05 GMT | Security Vulnerabilities Won’t Kill React — But Ignoring Them Will Kill Your Career (And What… | CodeForDreams | [Read More](https://medium.com/p/9dd318655b4f) |
-| Tue, 27 Jan 2026 07:03:04 GMT | Your company needs Cyber Security tools developed on Artificial Intelligence in 2021! — Raybiztech | Ray Business Technologies | [Read More](https://medium.com/p/ccd9c2187b4f) |
-| Tue, 27 Jan 2026 07:02:05 GMT | LLMs and GENAI Apps: Risk & Mitigations — Part 10: Misinformation! | Nothing Cyber [NC] | [Read More](https://medium.com/p/c9d10561ac96) |
-| Tue, 27 Jan 2026 06:55:16 GMT | Yuanli Technology Paper Accepted into the IEEE Database - Deepfake Liveness Detection Technology… | Yuanli Technology | [Read More](https://medium.com/p/8114a6f5fae0) |
-| Tue, 27 Jan 2026 06:53:27 GMT | Manage large scale API authentication with OAuth 2.0 | Hemant Kohli | [Read More](https://medium.com/p/4d618aaaf0b0) |
-| Tue, 27 Jan 2026 06:47:45 GMT | Stop Leaking API Keys: Build a Git Pre-Commit Hook That Catches 60+ Secret Types | Madhan | [Read More](https://medium.com/p/d65e44915230) |
-| Tue, 27 Jan 2026 06:45:30 GMT | The Last CAPTCHA: Why We’re Training Our Robot Replacements — And How to Stop It | Syed Raza Abbas | [Read More](https://medium.com/p/da7c79a8ea1b) |
-| Tue, 27 Jan 2026 06:32:03 GMT | Proving Grounds Practice Crane Linux Lab | Cyb0rgBytes | [Read More](https://medium.com/p/d3013ce15710) |
-| Tue, 27 Jan 2026 06:26:23 GMT | Building Trustworthy Mobile Applications Through Proactive Security Validation | Cyber Fortify | [Read More](https://medium.com/p/ff4c90f2e867) |
-| Tue, 27 Jan 2026 06:19:39 GMT | AI-Driven Black Box Active Directory Penetration Testing | Andrey Pautov | [Read More](https://medium.com/p/8de0b9ad38b7) |
-| Tue, 27 Jan 2026 06:18:40 GMT | Deception Technology Market Growth: Key Trends, Industries, and Regional Insights | Michel mathew | [Read More](https://medium.com/p/7f5ad103d574) |
-| Tue, 27 Jan 2026 06:09:59 GMT | ️ How I Built an Enterprise-Style SOC Detection & Response Lab Using Wazuh SIEM | Om Gohil | [Read More](https://medium.com/p/d42081e5fc92) |
