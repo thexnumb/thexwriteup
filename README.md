@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 Jan 2026 23:10:15 GMT | Group Policy (GPO) | Barbaros | [Read More](https://medium.com/p/0c68f13be9c6) |
+| Tue, 27 Jan 2026 23:01:04 GMT | Azure Policy at scale: DeployIfNotExists patterns that don’t melt ops | Practical IT | [Read More](https://medium.com/p/6b9a9a0fac9a) |
+| Tue, 27 Jan 2026 23:01:03 GMT | Check After Check | Mykell | [Read More](https://medium.com/p/cde3bf363b63) |
+| Tue, 27 Jan 2026 22:59:54 GMT | Liberty Epoch: The Crypto Trio Shaping the Future of Finance | Liberty Epoch | [Read More](https://medium.com/p/a545f9f6891a) |
+| Tue, 27 Jan 2026 22:40:11 GMT | Zero Trust Architecture Fundamentals — Why “Trust Nothing” Became the New Security Baseline | Stoic Engineer | [Read More](https://medium.com/p/d8a5efd060bd) |
+| Tue, 27 Jan 2026 22:36:27 GMT | The Dark Side of AI Agents: Why Security Experts Are Warning Against Moltbot | Andy Nguyen | [Read More](https://medium.com/p/dfd9b142e828) |
 | Tue, 27 Jan 2026 22:35:28 GMT | One-Click Workspace Takeover: Exploiting XSS and CSRF + WAF Bypass (F*ck HttpOnly) | ph4nt0mbyt3 | [Read More](https://medium.com/p/e4e9fbbaed75) |
+| Tue, 27 Jan 2026 22:33:14 GMT | Hoops on the Horizon 26–03 | Hatteras Hoops | [Read More](https://medium.com/p/d21c5c1cab53) |
 | Tue, 27 Jan 2026 22:25:57 GMT | Guarding the Gates: A Technical Deep Dive into Model Armor | Franziska Hinkelmann | [Read More](https://medium.com/p/3bb08d64701d) |
 | Tue, 27 Jan 2026 22:10:01 GMT | Day 2 : Authentication Bypass ? | Cybersecurity with Jojo | [Read More](https://medium.com/p/199a0cc6761a) |
 | Tue, 27 Jan 2026 21:59:40 GMT | 10 Tools Ethical Hackers Use (Explained for Beginners) | Vignesh Selvaraj | [Read More](https://medium.com/p/6c3d8c1b2d2d) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 Jan 2026 16:16:54 GMT | Stop Pushing Him Away: Why Testing Your Partner Will Destroy Your Love | Sandy Watt | [Read More](https://medium.com/p/b35f13af1620) |
 | Tue, 27 Jan 2026 16:15:07 GMT | How to Recover Stolen Crypto from Rubybexflm | David Neves | [Read More](https://medium.com/p/16141876a955) |
 | Tue, 27 Jan 2026 16:13:41 GMT | 12-Week AI-Detection Mastery Roadmap | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/8df30e6e8924) |
-| Tue, 27 Jan 2026 16:09:20 GMT | Behavioral Twinning: The Proactive Shield Federated Learning Needs Now | Bhuvan Chandra Thuluva | [Read More](https://medium.com/p/659aad2d0601) |
-| Tue, 27 Jan 2026 16:05:19 GMT | The False Economy of Cheap Cybersecurity | JSOC IT BLOG | [Read More](https://medium.com/p/a2f8f342d918) |
-| Tue, 27 Jan 2026 16:04:15 GMT | 10 Common Cyber Defense Mistakes Security Teams Still Make | Shahzaib | [Read More](https://medium.com/p/1ee2de66b9ee) |
-| Tue, 27 Jan 2026 15:53:30 GMT | How to Recover Stolen Crypto | David Neves | [Read More](https://medium.com/p/6df4a2a818f7) |
-| Tue, 27 Jan 2026 15:53:27 GMT | Why Secure SDLC Matters for Modern Software Teams | Siddiquimohammad | [Read More](https://medium.com/p/81637ed91d03) |
-| Tue, 27 Jan 2026 15:51:50 GMT | Security versus ICE | Ricardo Figueroa | [Read More](https://medium.com/p/5caa79a1e5d7) |
-| Tue, 27 Jan 2026 15:47:26 GMT | How Security Camera Systems Work in Daily Life | Alex Bryn | [Read More](https://medium.com/p/9928ea9ac151) |
