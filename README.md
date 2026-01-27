@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 Jan 2026 03:51:00 GMT | picoctf — Playfair Cipher CTF Writeup | SPIDER1SEC | [Read More](https://medium.com/p/b7d834a931f9) |
+| Tue, 27 Jan 2026 03:37:01 GMT | Why Authorization Is Harder Than Authentication | Swapnil Deshpande | [Read More](https://medium.com/p/d3f591a709a0) |
+| Tue, 27 Jan 2026 03:33:35 GMT | Simulating Phishing Using GoPhish — A Practical Red Team Glimpse | Cybeague Technologies | [Read More](https://medium.com/p/eb383c93f791) |
+| Tue, 27 Jan 2026 03:32:09 GMT | Credential Harvesting with Zphisher: A Phishing Simulation Toolkit | Cybeague Technologies | [Read More](https://medium.com/p/072a33d62b52) |
+| Tue, 27 Jan 2026 03:31:34 GMT | n8n at Enterprise Scale: Versioned Workflows, Secret Hygiene, and the Observability Stack Nobody… | Yamishift | [Read More](https://medium.com/p/3289d0d948eb) |
+| Tue, 27 Jan 2026 03:31:34 GMT | What Cybersecurity Tools Actually Make Sense for Students (And When to Use Them) | Manubhav Sharma | [Read More](https://medium.com/p/21291f7b1641) |
+| Tue, 27 Jan 2026 03:15:09 GMT | Tuesday Morning Threat Report: Jan 27, 2026 | Mark Maguire | [Read More](https://medium.com/p/e67ded048741) |
+| Tue, 27 Jan 2026 03:12:02 GMT | The AI Security Crisis Nobody Saw Coming: Why 2026 Is the Year Everything Changes | Tech Trends by Tähīrī | [Read More](https://medium.com/p/575c07719102) |
+| Tue, 27 Jan 2026 03:11:38 GMT | picoCTF - corrupt-key-2 - Complete Writeup | SPIDER1SEC | [Read More](https://medium.com/p/dc5a258f99d8) |
+| Tue, 27 Jan 2026 03:01:24 GMT | 5 Cybersecurity Weak Spots SMBs Ignore (Until They’re Breached) | The Default Gateway | [Read More](https://medium.com/p/f520876f55d4) |
+| Tue, 27 Jan 2026 03:00:58 GMT | IDOR Vulnerability in WEB3 Bug Bounty Platform Exposing User Sensitive PII | Rs_Xpl0r3r | [Read More](https://medium.com/p/27bb5348db58) |
+| Tue, 27 Jan 2026 02:53:22 GMT | PG Lab Heist: Getaway | Nicolas Garcia | [Read More](https://medium.com/p/c6118151ce9f) |
+| Tue, 27 Jan 2026 02:49:47 GMT | The Rising Threat of Malicious Chrome Extensions: How Hackers Use Web Store Phishing to Steal Your… | diwahar | [Read More](https://medium.com/p/f0189242fc92) |
+| Tue, 27 Jan 2026 02:47:06 GMT | Timing Attack techniques (Last-byte synchronization ^0 Single packet attack) | CyrilLK | [Read More](https://medium.com/p/b910fd63f9b0) |
+| Tue, 27 Jan 2026 02:04:39 GMT | AMAXG: BIZA Coin Monthly Distribution for January 2026 | BizAuto l AMAXG | [Read More](https://medium.com/p/02f5073de3ce) |
 | Tue, 27 Jan 2026 01:54:25 GMT | From Reactive Defense to Verifiable Trust | sengom | [Read More](https://medium.com/p/a0d40a408800) |
 | Tue, 27 Jan 2026 01:53:02 GMT | Why Future Security Must Be Protocol-Level, Not App-Level | sengom | [Read More](https://medium.com/p/9682a8cbc558) |
 | Tue, 27 Jan 2026 01:36:14 GMT | Fundamentals of Information Technology | Can ATA | [Read More](https://medium.com/p/f550feb1bd47) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 Jan 2026 18:15:19 GMT | Broken Object Level Authorization (BOLA) | Emmanuelnnebedum | [Read More](https://medium.com/p/1db36dadd9c1) |
 | Mon, 26 Jan 2026 18:14:42 GMT | Is your iphone really secure | Ajay Kumar Bakkashetti | [Read More](https://medium.com/p/aec02d812c89) |
 | Mon, 26 Jan 2026 18:07:23 GMT | How I Intercepted IP Camera Traffic Using NAT Redirect — A Red Teamer’s Guide | purrsistant | [Read More](https://medium.com/p/a02468266a21) |
-| Mon, 26 Jan 2026 18:06:30 GMT | Top HITRUST Providers and Who Should You Choose? | Emory French | [Read More](https://medium.com/p/d548f82f92b4) |
-| Mon, 26 Jan 2026 18:06:06 GMT | Day 2 of My SOC Learning Journey — OS Fundamentals | Siddhesh Patil | [Read More](https://medium.com/p/76d25927b3d2) |
-| Mon, 26 Jan 2026 18:02:46 GMT | How to Set Up a VPN for Secure Crypto Gambling in 2026 - Privacy Tutorial | Casino Critique | [Read More](https://medium.com/p/974bb00bf68d) |
-| Mon, 26 Jan 2026 18:02:42 GMT | This Mobile App Trusted My Phone More Than It Should Have ⚠️ | Iski | [Read More](https://medium.com/p/821befd8c879) |
-| Mon, 26 Jan 2026 17:58:51 GMT | Give your old computer a second life | Lukassalomon | [Read More](https://medium.com/p/42db0f06ef4f) |
-| Mon, 26 Jan 2026 17:57:28 GMT | When Machine Learning Makes the Wrong Call — and No One Can Explain Why | AstroPema AI LLC | [Read More](https://medium.com/p/4dc3be7d48a6) |
-| Mon, 26 Jan 2026 17:44:27 GMT | The Death of Objective Reality | Giovanni Luigi Bordone | [Read More](https://medium.com/p/aa767c8a8beb) |
-| Mon, 26 Jan 2026 17:41:09 GMT | ‎Sanity United: Building Real-World Utility Through Clean Energy, Transparency, and Integrated… | Web3Dof | [Read More](https://medium.com/p/f915dfe3e3aa) |
-| Mon, 26 Jan 2026 17:32:47 GMT | Chaining Low-Hanging Misconfigurations Into High-Impact Access | Berat Can Yağız | [Read More](https://medium.com/p/83260b915154) |
-| Mon, 26 Jan 2026 17:32:02 GMT | [PT-BR] CyberSploit1 — Walkthrough — PGPlay | hacktheborges | [Read More](https://medium.com/p/7146abf9316e) |
-| Mon, 26 Jan 2026 17:24:35 GMT | Context-First Vulnerability Assessment and Persona Injection | Llmresearch | [Read More](https://medium.com/p/6b1a2e4605bd) |
-| Mon, 26 Jan 2026 17:22:14 GMT | Utility Cloud Migration Readiness: A Practical Assessment Checklist | Veriday | [Read More](https://medium.com/p/00239720dc1b) |
-| Mon, 26 Jan 2026 17:15:20 GMT | Cross-Site Scripting (XSS): From Basics to Battle-Tested Defense | Prateek Kumar | [Read More](https://medium.com/p/12e5ee113750) |
-| Mon, 26 Jan 2026 17:00:08 GMT | Proving Grounds: ClamAV | n0t_brit | [Read More](https://medium.com/p/a8530639ffe3) |
-| Mon, 26 Jan 2026 16:57:22 GMT | Understanding SSRF and Detecting It With AI, Enter See-SURF | Vaibhav Agrawal | [Read More](https://medium.com/p/0277e0179a50) |
