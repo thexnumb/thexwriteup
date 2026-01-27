@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 Jan 2026 19:46:10 GMT | LATERAL MOMENT: Gerçek Zamanlı Ağ İçi Saldırı Analizi Projesi: | dilan alpaltun | [Read More](https://medium.com/p/bad46293dfb4) |
+| Tue, 27 Jan 2026 19:42:13 GMT | How your API might be exposing everything | Said-Abbosxon Nabijonov - 0trc | [Read More](https://medium.com/p/b3a999439533) |
+| Tue, 27 Jan 2026 19:41:31 GMT | [EN] DC-1 — PGPlay — Walkthrough | hacktheborges | [Read More](https://medium.com/p/7cd1ec09a5bd) |
+| Tue, 27 Jan 2026 19:41:21 GMT | An Army of AI Agents: Revolutionizing DFIR from Months to Minutes | Shubh Jain | [Read More](https://medium.com/p/0446bef63403) |
+| Tue, 27 Jan 2026 19:40:49 GMT | [PT-BR] DC-1 — PGPlay — Walkthrough | hacktheborges | [Read More](https://medium.com/p/e2c37bcd4785) |
+| Tue, 27 Jan 2026 19:38:20 GMT | Phishing Attacks Explained: Why the Oldest Cyber Scam Still Works | Orrin Pietersen | [Read More](https://medium.com/p/235a1a323102) |
+| Tue, 27 Jan 2026 19:30:06 GMT | How to set up your personal pentesting and bug hunting assistant | Mauricio Antonio | [Read More](https://medium.com/p/40d2742afb87) |
+| Tue, 27 Jan 2026 19:23:44 GMT | Nothing and everything | Mlili | [Read More](https://medium.com/p/754c8f8235cd) |
+| Tue, 27 Jan 2026 19:18:55 GMT | Vulnerabilidad XSS | M4rc0sX | [Read More](https://medium.com/p/9396c1b091d0) |
 | Tue, 27 Jan 2026 19:13:27 GMT | Crocodile HTB — Starting Point Writeup By Alham Rizvi | Alham Rizvi(ExoidSec) | [Read More](https://medium.com/p/168b55893279) |
 | Tue, 27 Jan 2026 19:12:22 GMT | Tracing the Boiler Control System: From Internet Search to CISA Coordination | hacker_might | [Read More](https://medium.com/p/ceba2d05cdd2) |
 | Tue, 27 Jan 2026 19:12:21 GMT | Introduction to Honeypot Data Analysis | Allen Ace | [Read More](https://medium.com/p/f25aa5d998de) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 Jan 2026 13:45:38 GMT | WP User Enumeration: Onde a maioria das defesas falha | sarkis093 | [Read More](https://medium.com/p/d81a64c3c758) |
 | Tue, 27 Jan 2026 13:43:19 GMT | The Crisis of Agency: A Comprehensive Analysis of Prompt Injection and the Security Architecture of… | Greg Robison | [Read More](https://medium.com/p/d274524b3c11) |
 | Tue, 27 Jan 2026 13:37:24 GMT | ISC² CCSP Exam: Specializing in Cloud Security (Part 4) | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/6195f8a9e8c1) |
-| Tue, 27 Jan 2026 13:36:54 GMT | Things to Watch for in 2026: Emerging Threats in Cybersecurity and Tech | Costin Raiu | [Read More](https://medium.com/p/1605a4de7cda) |
-| Tue, 27 Jan 2026 13:34:48 GMT | Threat Intelligence Dossier: TOXICSNAKE | Macs-Hit | [Read More](https://medium.com/p/b3e954bd644b) |
-| Tue, 27 Jan 2026 13:33:47 GMT | WordPress Vulnerability Scanning … Without a Plugin | Karl Kubelet | [Read More](https://medium.com/p/41d1b11b9efe) |
-| Tue, 27 Jan 2026 13:32:04 GMT | NestJS Security Defaults: 7 Switches You’ll Thank Yourself For | Duckweave | [Read More](https://medium.com/p/b9ff3f4ea026) |
-| Tue, 27 Jan 2026 13:30:14 GMT | Exploring Metadata with Exiftool- My First OHSINT Challenge | Charitymkakina | [Read More](https://medium.com/p/056b178b5a9a) |
-| Tue, 27 Jan 2026 13:29:38 GMT | Building Passwordless Authentication on AWS Using Passkeys + Amazon Cognito | Davebhargavi | [Read More](https://medium.com/p/b97ff8f0a192) |
-| Tue, 27 Jan 2026 13:28:39 GMT | How Dr. Doom Walked into the Avengers’ Vault — OWASP A01: Broken Access Control | Vijenex | [Read More](https://medium.com/p/a75a53c2e04f) |
-| Tue, 27 Jan 2026 13:18:55 GMT | People Build Systems on Routine | Rubab Fatima | [Read More](https://medium.com/p/a4684cc4d3eb) |
-| Tue, 27 Jan 2026 13:15:59 GMT | Loss Prevention Tips I Learned on the Floor, Not in Training Manuals | ADITYA PATHAK | [Read More](https://medium.com/p/59d4a42edac7) |
