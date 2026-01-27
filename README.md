@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 Jan 2026 07:39:44 GMT | pwnable.kr: unlink writeup — Exploiting heap overflow with unlink corruption and stack pivoting | Yael Shechter | [Read More](https://medium.com/p/8c7773d17f99) |
+| Tue, 27 Jan 2026 07:34:21 GMT | Breaking the Web (Part 9): Business Logic Vulnerabilities — When the App Works as Designed… but… | Mohammed Fahad | [Read More](https://medium.com/p/9acb9a89c345) |
+| Tue, 27 Jan 2026 07:28:46 GMT | When Office Turns Into a Trapdoor: The CVE-2026–21509 Zero-Day, the Emergency Patch, and the Hard… | Germano Costi | [Read More](https://medium.com/p/9c6d3694e9a6) |
 | Tue, 27 Jan 2026 07:27:36 GMT | What types of Web Apps to pick for testing Business Logic Flaws & BAC ? | Abhirup Konwar | [Read More](https://medium.com/p/b2cf14715786) |
 | Tue, 27 Jan 2026 07:26:04 GMT | Breaking “Perimeter Leak”: How a Misconfigured Spring Boot App Broke an AWS Data Perimeter | Kislay Singh | [Read More](https://medium.com/p/80fab28cd707) |
 | Tue, 27 Jan 2026 07:22:08 GMT | Technology-Related Responsible Optimism | Dr.Abdulla Al Nuaimi | [Read More](https://medium.com/p/e525fbba0c37) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 Jan 2026 20:14:35 GMT | The Digital Panopticon: | Miles Fisher | [Read More](https://medium.com/p/eefbeb79a6e3) |
 | Mon, 26 Jan 2026 20:13:18 GMT | LLM Jailbreaks in the Wild — Attack Transcripts, Forensics, Guardrail Architecture, and Python… | Karthikmulugu | [Read More](https://medium.com/p/e434bb87990e) |
 | Mon, 26 Jan 2026 20:07:22 GMT | Some Welcome Changes: Dissecting the OWASP Top 10 2025 | Niklas Heringer | [Read More](https://medium.com/p/03d140bc9aff) |
-| Mon, 26 Jan 2026 19:56:37 GMT | I Lost My Phone in the Snow ,and Realized I’ve Been Lost Too | Ayla1 | [Read More](https://medium.com/p/4c134379d8a8) |
-| Mon, 26 Jan 2026 19:53:52 GMT | All About OWASP Top 10 for Agentic AI Applications | Xcheater | [Read More](https://medium.com/p/b8420d48a1f0) |
-| Mon, 26 Jan 2026 19:46:37 GMT | I’m Not Afraid to Write Anymore | Ellie Reay | [Read More](https://medium.com/p/2b7ee09bb7f7) |
