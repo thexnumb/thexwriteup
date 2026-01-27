@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 Jan 2026 22:35:28 GMT | One-Click Workspace Takeover: Exploiting XSS and CSRF + WAF Bypass (F*ck HttpOnly) | ph4nt0mbyt3 | [Read More](https://medium.com/p/e4e9fbbaed75) |
+| Tue, 27 Jan 2026 22:25:57 GMT | Guarding the Gates: A Technical Deep Dive into Model Armor | Franziska Hinkelmann | [Read More](https://medium.com/p/3bb08d64701d) |
 | Tue, 27 Jan 2026 22:10:01 GMT | Day 2 : Authentication Bypass ? | Cybersecurity with Jojo | [Read More](https://medium.com/p/199a0cc6761a) |
 | Tue, 27 Jan 2026 21:59:40 GMT | 10 Tools Ethical Hackers Use (Explained for Beginners) | Vignesh Selvaraj | [Read More](https://medium.com/p/6c3d8c1b2d2d) |
 | Tue, 27 Jan 2026 21:59:19 GMT | When the Last Plane Leaves Syria | Mark Costello | [Read More](https://medium.com/p/106fd4f6cf97) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 Jan 2026 15:53:27 GMT | Why Secure SDLC Matters for Modern Software Teams | Siddiquimohammad | [Read More](https://medium.com/p/81637ed91d03) |
 | Tue, 27 Jan 2026 15:51:50 GMT | Security versus ICE | Ricardo Figueroa | [Read More](https://medium.com/p/5caa79a1e5d7) |
 | Tue, 27 Jan 2026 15:47:26 GMT | How Security Camera Systems Work in Daily Life | Alex Bryn | [Read More](https://medium.com/p/9928ea9ac151) |
-| Tue, 27 Jan 2026 15:46:57 GMT | If your “AI Coworker” Gets Targeted, What Tips You Off First? | Wes Young | [Read More](https://medium.com/p/b7661e4d70b1) |
-| Tue, 27 Jan 2026 15:28:16 GMT | Large Language Models for Automated Malware Generation and Analysis: A Systematic Review of… | Adiltuladhar | [Read More](https://medium.com/p/bf4546e95f3b) |
