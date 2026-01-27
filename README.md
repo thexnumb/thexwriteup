@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 Jan 2026 07:27:36 GMT | What types of Web Apps to pick for testing Business Logic Flaws & BAC ? | Abhirup Konwar | [Read More](https://medium.com/p/b2cf14715786) |
+| Tue, 27 Jan 2026 07:26:04 GMT | Breaking “Perimeter Leak”: How a Misconfigured Spring Boot App Broke an AWS Data Perimeter | Kislay Singh | [Read More](https://medium.com/p/80fab28cd707) |
+| Tue, 27 Jan 2026 07:22:08 GMT | Technology-Related Responsible Optimism | Dr.Abdulla Al Nuaimi | [Read More](https://medium.com/p/e525fbba0c37) |
+| Tue, 27 Jan 2026 07:14:22 GMT | Clawdbot 開源 AI 助理資安風險 | p1x06u9 | [Read More](https://medium.com/p/b229703aec2e) |
+| Tue, 27 Jan 2026 07:11:37 GMT | Building a SIEM from Scratch with Wazuh and VirusTotal | Abdullah Ahmed H | [Read More](https://medium.com/p/2875e7d910f8) |
+| Tue, 27 Jan 2026 07:04:05 GMT | Security Vulnerabilities Won’t Kill React — But Ignoring Them Will Kill Your Career (And What… | CodeForDreams | [Read More](https://medium.com/p/9dd318655b4f) |
+| Tue, 27 Jan 2026 07:03:04 GMT | Your company needs Cyber Security tools developed on Artificial Intelligence in 2021! — Raybiztech | Ray Business Technologies | [Read More](https://medium.com/p/ccd9c2187b4f) |
+| Tue, 27 Jan 2026 07:02:05 GMT | LLMs and GENAI Apps: Risk & Mitigations — Part 10: Misinformation! | Nothing Cyber [NC] | [Read More](https://medium.com/p/c9d10561ac96) |
+| Tue, 27 Jan 2026 06:55:16 GMT | Yuanli Technology Paper Accepted into the IEEE Database - Deepfake Liveness Detection Technology… | Yuanli Technology | [Read More](https://medium.com/p/8114a6f5fae0) |
+| Tue, 27 Jan 2026 06:53:27 GMT | Manage large scale API authentication with OAuth 2.0 | Hemant Kohli | [Read More](https://medium.com/p/4d618aaaf0b0) |
+| Tue, 27 Jan 2026 06:47:45 GMT | Stop Leaking API Keys: Build a Git Pre-Commit Hook That Catches 60+ Secret Types | Madhan | [Read More](https://medium.com/p/d65e44915230) |
+| Tue, 27 Jan 2026 06:45:30 GMT | The Last CAPTCHA: Why We’re Training Our Robot Replacements — And How to Stop It | Syed Raza Abbas | [Read More](https://medium.com/p/da7c79a8ea1b) |
 | Tue, 27 Jan 2026 06:32:03 GMT | Proving Grounds Practice Crane Linux Lab | Cyb0rgBytes | [Read More](https://medium.com/p/d3013ce15710) |
 | Tue, 27 Jan 2026 06:26:23 GMT | Building Trustworthy Mobile Applications Through Proactive Security Validation | Cyber Fortify | [Read More](https://medium.com/p/ff4c90f2e867) |
 | Tue, 27 Jan 2026 06:19:39 GMT | AI-Driven Black Box Active Directory Penetration Testing | Andrey Pautov | [Read More](https://medium.com/p/8de0b9ad38b7) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 Jan 2026 19:56:37 GMT | I Lost My Phone in the Snow ,and Realized I’ve Been Lost Too | Ayla1 | [Read More](https://medium.com/p/4c134379d8a8) |
 | Mon, 26 Jan 2026 19:53:52 GMT | All About OWASP Top 10 for Agentic AI Applications | Xcheater | [Read More](https://medium.com/p/b8420d48a1f0) |
 | Mon, 26 Jan 2026 19:46:37 GMT | I’m Not Afraid to Write Anymore | Ellie Reay | [Read More](https://medium.com/p/2b7ee09bb7f7) |
-| Mon, 26 Jan 2026 19:45:42 GMT | Splunk Serisi #3: Veri Manipülasyonu, Maskeleme ve Konfigürasyonun Gücü (TryHackMe Çözümü) | Ahmet Hakan Öztürk | [Read More](https://medium.com/p/5e31aa1c71bb) |
-| Mon, 26 Jan 2026 19:45:23 GMT | TryHackMe Writeup: Overpass 3 -Hosting | Berkay AĞGÜL | [Read More](https://medium.com/p/ed2dcbebb041) |
-| Mon, 26 Jan 2026 19:37:34 GMT | Windows 11 Jan 2026 Update Nightmare: KB5074109 Freezes Outlook & Causes BSODs | TechBird | [Read More](https://medium.com/p/2a3b16d40f4a) |
-| Mon, 26 Jan 2026 19:36:28 GMT | ️‍♂️ HTB: Footprinting Lab — Hard (Walkthrough) | Moulishwar vs | [Read More](https://medium.com/p/7c00f5da7e4f) |
-| Mon, 26 Jan 2026 19:36:20 GMT | Australia’s Cyber Workforce Push Highlights New Zealand’s Growing Skills Gap | Chris Buxton | [Read More](https://medium.com/p/8f92b853a62c) |
-| Mon, 26 Jan 2026 19:35:31 GMT | What Learning API Security Taught Me About Building Systems for the Real World | Joyatee Datta | [Read More](https://medium.com/p/17b8edea48e5) |
-| Mon, 26 Jan 2026 19:31:44 GMT | Securing Dockerized AI Agents | Jasdeep Singh Bhalla | [Read More](https://medium.com/p/ffe3399a178c) |
-| Mon, 26 Jan 2026 19:27:50 GMT | Detecting C2 Beacons: Part 2 | z3l3v | [Read More](https://medium.com/p/7abc977196c1) |
-| Mon, 26 Jan 2026 19:24:34 GMT | The Hidden Costs of Free AI: Data, Bias, and the Price You Don’t See | Cut Brought Clammy | [Read More](https://medium.com/p/dd9d318a9819) |
-| Mon, 26 Jan 2026 19:21:57 GMT | Cyber Defense Frameworks: Cyber Kill Chain | Ahmad Khaled | [Read More](https://medium.com/p/8f467b5fba35) |
-| Mon, 26 Jan 2026 19:19:11 GMT | The Cybersecurity Nexus — “AI” (January 2026) | Franklin Rhodes | [Read More](https://medium.com/p/148479df2fb6) |
-| Mon, 26 Jan 2026 19:16:17 GMT | UnderTheWire Century | Avigail Laing | [Read More](https://medium.com/p/14bde1a48d65) |
