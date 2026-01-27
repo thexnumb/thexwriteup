@@ -12,8 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 Jan 2026 17:44:06 GMT | Internal thm— TryHackMe Walkthrough | Md Fahim Al Shihab | [Read More](https://medium.com/p/2cf5d0b400ae) |
+| Tue, 27 Jan 2026 17:38:31 GMT | Enterprise Grade API Security in .NET 10: A Practical RBAC + OData Blueprint | Rawand Hawez | [Read More](https://medium.com/p/2674ffb94bd7) |
+| Tue, 27 Jan 2026 17:36:07 GMT | Encrypted Database — CyberTalents Web Security Challenge (Easy) | Z3DX | [Read More](https://medium.com/p/afb8972681f0) |
+| Tue, 27 Jan 2026 17:35:37 GMT | When is authentic too risky? | Billie Burton | [Read More](https://medium.com/p/3e41218d68dc) |
 | Tue, 27 Jan 2026 17:26:19 GMT | Why Modern Security Feels Busy but Achieves Nothing | Oscar Antonangelo | [Read More](https://medium.com/p/4e0cb9b5a089) |
 | Tue, 27 Jan 2026 17:25:17 GMT | How I hacked a website just by looking at the source code Part-2 | Devansh Patel | [Read More](https://medium.com/p/375b21321815) |
+| Tue, 27 Jan 2026 17:23:39 GMT | BeetleBug APK – Mobile Security CTF Write-Up | Ahmedm Mohamed | [Read More](https://medium.com/p/2f10a0f85f3b) |
 | Tue, 27 Jan 2026 17:11:22 GMT | 7 Easy Strategies To Become The Unforgettable Grandparent Your Grandkids Will Cherish | Jade  O'Sullivan | [Read More](https://medium.com/p/c2abc939133a) |
 | Tue, 27 Jan 2026 17:07:56 GMT | Broken Authentication in APIs | Emmanuelnnebedum | [Read More](https://medium.com/p/33b3323542da) |
 | Tue, 27 Jan 2026 17:01:07 GMT | Rust Threads: How One Line of Code Can Kill Your Parallelism | 0xjustuzair | [Read More](https://medium.com/p/71a72b949d17) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 Jan 2026 12:03:34 GMT | PQC (Post Quantum Cryptography) Is Here … And You Are Likely To Be Using It! | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/bbba9d4aa7f2) |
 | Tue, 27 Jan 2026 12:01:22 GMT | New ClickFix Malware Campaign Exploits Windows App-V Scripts to Deploy Infostealer | Technijian | [Read More](https://medium.com/p/df452e05cd9c) |
 | Tue, 27 Jan 2026 12:00:21 GMT | If Your GRC Projects Look Like Paperwork, You’re Doing It Wrong | Taimur Ijlal | [Read More](https://medium.com/p/4dff7d9ae763) |
-| Tue, 27 Jan 2026 11:59:56 GMT | Kurumsal Mimari Neden Lüksten Öte Bir Zorunluluktur? | Mustafa Koca | [Read More](https://medium.com/p/56315bd79ce1) |
-| Tue, 27 Jan 2026 11:56:00 GMT | Traffic Analysis: Uncovering a DarkGate Campaign via Fake Google Authenticator Installer | MabLevi | [Read More](https://medium.com/p/cf23b87d7f2f) |
-| Tue, 27 Jan 2026 11:47:34 GMT | Cyber Campaigns: Fix this, Fix that — Part 2 | Shivam Bathla | [Read More](https://medium.com/p/ba2c065d1f14) |
-| Tue, 27 Jan 2026 11:46:09 GMT | This article provides updated technical details on the Blackmoon malware campaign and its… | Osama Faheem | [Read More](https://medium.com/p/82843298bbef) |
-| Tue, 27 Jan 2026 11:42:15 GMT | Locked in a Box: How iOS Sandboxing Challenges Pentesters | Redfox Security | [Read More](https://medium.com/p/8207476da296) |
