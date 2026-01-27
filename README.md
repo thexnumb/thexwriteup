@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 Jan 2026 04:36:01 GMT | How to Check if Your iCloud or Gmail Account Was Part of the 149 Million Record Leak. | Technologia | [Read More](https://medium.com/p/7e078df8ea14) |
+| Tue, 27 Jan 2026 04:34:35 GMT | Kioptrix Level 2 Walkthrough — A Practical Web Penetration Testing Lab | Wing Code | [Read More](https://medium.com/p/ad85a36c3ecd) |
+| Tue, 27 Jan 2026 04:28:15 GMT | Mindmaps for Cybersecurity (Freeplane) | cyber_0xGambit | [Read More](https://medium.com/p/78452dd2717e) |
+| Tue, 27 Jan 2026 04:27:54 GMT | VulnLab: Cross Site Request Forgery (CSRF) Çözümü | CyberSam | [Read More](https://medium.com/p/78487720915c) |
+| Tue, 27 Jan 2026 04:23:49 GMT | Digital Risk Protection Market: Trends, Growth, and Forecast | Gauri Kale | [Read More](https://medium.com/p/449e3877a5ee) |
+| Tue, 27 Jan 2026 04:19:24 GMT | Bridging the Scalability Gap: AI’s Role in Modern Security Reviews | Varun Prusty | [Read More](https://medium.com/p/30b7bba53ae5) |
+| Tue, 27 Jan 2026 04:16:58 GMT | How Many Email Accounts Do I Actually Need? | Tom Osterman | [Read More](https://medium.com/p/2368dbbce7cb) |
 | Tue, 27 Jan 2026 03:51:00 GMT | picoctf — Playfair Cipher CTF Writeup | SPIDER1SEC | [Read More](https://medium.com/p/b7d834a931f9) |
 | Tue, 27 Jan 2026 03:37:01 GMT | Why Authorization Is Harder Than Authentication | Swapnil Deshpande | [Read More](https://medium.com/p/d3f591a709a0) |
 | Tue, 27 Jan 2026 03:33:35 GMT | Simulating Phishing Using GoPhish — A Practical Red Team Glimpse | Cybeague Technologies | [Read More](https://medium.com/p/eb383c93f791) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 Jan 2026 18:34:29 GMT | IA como ferramenta, não como resposta | Rafael Torres | [Read More](https://medium.com/p/94b489114b42) |
 | Mon, 26 Jan 2026 18:27:14 GMT | I Stopped Trusting git clone Blindly. So I Built an AI Firewall for My Terminal | Behram Bazo | [Read More](https://medium.com/p/53d9e41890ad) |
 | Mon, 26 Jan 2026 18:23:20 GMT | ISPs Hate RAM Hash Based P2P Internet Theory. | Ethan G Appleby | [Read More](https://medium.com/p/395e6274de48) |
-| Mon, 26 Jan 2026 18:21:52 GMT | And maybe, crying is bravery on its purest form. | Adorer. | [Read More](https://medium.com/p/304658d7fc09) |
-| Mon, 26 Jan 2026 18:20:16 GMT | 51 Years In. One Irreversible Decade Ahead. Why AI’s Future Hangs on the Execution Layer | Jonathan Capriola | [Read More](https://medium.com/p/989e69b139aa) |
-| Mon, 26 Jan 2026 18:19:31 GMT | [EN] CyberSploit1 — Walkthrough — PGPlay | hacktheborges | [Read More](https://medium.com/p/8d8b9c239503) |
-| Mon, 26 Jan 2026 18:17:49 GMT | How Lexius AI Transforms Retail Security with Real-Time Theft Detection | Uyouyou Sonia | [Read More](https://medium.com/p/a3e4c0f98226) |
-| Mon, 26 Jan 2026 18:15:19 GMT | Broken Object Level Authorization (BOLA) | Emmanuelnnebedum | [Read More](https://medium.com/p/1db36dadd9c1) |
-| Mon, 26 Jan 2026 18:14:42 GMT | Is your iphone really secure | Ajay Kumar Bakkashetti | [Read More](https://medium.com/p/aec02d812c89) |
-| Mon, 26 Jan 2026 18:07:23 GMT | How I Intercepted IP Camera Traffic Using NAT Redirect — A Red Teamer’s Guide | purrsistant | [Read More](https://medium.com/p/a02468266a21) |
