@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 Jan 2026 21:07:33 GMT | What can a Quantum Computer actually do? | Darius Chifor | [Read More](https://medium.com/p/0e2e05b19838) |
+| Tue, 27 Jan 2026 20:50:05 GMT | SOC HomeLab — Part 5 (Integration with Shuffle) | Archit Vats | [Read More](https://medium.com/p/574fcd46147a) |
 | Tue, 27 Jan 2026 20:33:55 GMT | Understanding Technology in the Digital Age | Taziz Aziz | [Read More](https://medium.com/p/c0bcfa0794be) |
 | Tue, 27 Jan 2026 20:32:22 GMT | Day 3: Networking Fundamentals — TCP/IP & OSI Model | Siddhesh Patil | [Read More](https://medium.com/p/a5a098580ebf) |
 | Tue, 27 Jan 2026 20:23:19 GMT | HTTP Requests, Responses, Headers & Methods for Beginners | Anshkamra | [Read More](https://medium.com/p/d00c790a78fe) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 Jan 2026 14:53:10 GMT | Government authorities responsible for cybersecurity | mahammad | [Read More](https://medium.com/p/66c0b05434f8) |
 | Tue, 27 Jan 2026 14:49:22 GMT | Building a Zero-Knowledge Login Flow in Go — No Password Ever Sent to the Server | Md. Mehedi Hasan | [Read More](https://medium.com/p/956e8cb6c8a8) |
 | Tue, 27 Jan 2026 14:49:11 GMT | ​Title: Understanding CVE-2024–5274: A Critical Chrome Vulnerability and How to Protect Yourself | Yusha_kahn | [Read More](https://medium.com/p/030d6ea90df0) |
-| Tue, 27 Jan 2026 14:46:19 GMT | Microsoft Warns of Sophisticated AiTM Phishing Attacks Targeting Enterprise Email Systems | Chetan Seripally | [Read More](https://medium.com/p/4fc43f8e0c94) |
-| Tue, 27 Jan 2026 14:45:19 GMT | Cloudflare Outages: Causes, Impact, and Systemic Risk to the Internet | Ashish Krishna Pavan Gade | [Read More](https://medium.com/p/d680e7b843f1) |
