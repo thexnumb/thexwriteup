@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 Jan 2026 22:10:01 GMT | Day 2 : Authentication Bypass ? | Cybersecurity with Jojo | [Read More](https://medium.com/p/199a0cc6761a) |
+| Tue, 27 Jan 2026 21:59:40 GMT | 10 Tools Ethical Hackers Use (Explained for Beginners) | Vignesh Selvaraj | [Read More](https://medium.com/p/6c3d8c1b2d2d) |
+| Tue, 27 Jan 2026 21:59:19 GMT | When the Last Plane Leaves Syria | Mark Costello | [Read More](https://medium.com/p/106fd4f6cf97) |
+| Tue, 27 Jan 2026 21:58:53 GMT | Windows PPL (Protected Processes Light) | S12 - 0x12Dark Development | [Read More](https://medium.com/p/e158332aedca) |
+| Tue, 27 Jan 2026 21:57:40 GMT | IAM Under Siege: Common Weaknesses in Cloud Logic | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/f6ecb3597fe5) |
+| Tue, 27 Jan 2026 21:54:16 GMT | Bill Gates — Architect of the Software Empire and Pioneer of Global Philanthropy | Stacklegend | [Read More](https://medium.com/p/0716b61598b6) |
+| Tue, 27 Jan 2026 21:54:08 GMT | The Microsoft SOC Stack Explained | Ilyess Sellami | [Read More](https://medium.com/p/1b31a8a0012f) |
+| Tue, 27 Jan 2026 21:46:43 GMT | Bypassing Nginx ACLs in Python Applications | Filip Kecman | [Read More](https://medium.com/p/a7271e2c5a9d) |
+| Tue, 27 Jan 2026 21:44:44 GMT | RAM, ROM, and NVRAM | Aaron DeJong | [Read More](https://medium.com/p/c03c2297c57b) |
+| Tue, 27 Jan 2026 21:43:19 GMT | The Training Data IS the Security Architecture | Jason Connerty | [Read More](https://medium.com/p/6b4335138d53) |
 | Tue, 27 Jan 2026 21:28:33 GMT | Mastering MITRE ATT&CK: The Definitive Guide for Modern SOC Analysts | Somesh | [Read More](https://medium.com/p/1f638d895aa3) |
 | Tue, 27 Jan 2026 21:07:33 GMT | What can a Quantum Computer actually do? | Darius Chifor | [Read More](https://medium.com/p/0e2e05b19838) |
 | Tue, 27 Jan 2026 20:50:05 GMT | SOC HomeLab — Part 5 (Integration with Shuffle) | Archit Vats | [Read More](https://medium.com/p/574fcd46147a) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 Jan 2026 15:47:26 GMT | How Security Camera Systems Work in Daily Life | Alex Bryn | [Read More](https://medium.com/p/9928ea9ac151) |
 | Tue, 27 Jan 2026 15:46:57 GMT | If your “AI Coworker” Gets Targeted, What Tips You Off First? | Wes Young | [Read More](https://medium.com/p/b7661e4d70b1) |
 | Tue, 27 Jan 2026 15:28:16 GMT | Large Language Models for Automated Malware Generation and Analysis: A Systematic Review of… | Adiltuladhar | [Read More](https://medium.com/p/bf4546e95f3b) |
-| Tue, 27 Jan 2026 15:20:54 GMT | Level Up Your Cyber Security Game: 5 AI Tools to Learn Now | Niharika | [Read More](https://medium.com/p/40a27810aff4) |
-| Tue, 27 Jan 2026 15:13:02 GMT | BeetleBug pentest | Mohammed Saber Abdalazim | [Read More](https://medium.com/p/60114e7c128e) |
-| Tue, 27 Jan 2026 15:05:37 GMT | Breaking Trust: How I Compromised My College’s Web Infrastructure | Harsha | [Read More](https://medium.com/p/954405f0afcf) |
-| Tue, 27 Jan 2026 15:02:22 GMT | Tool-Calling Without Chaos: Safer Agent Tools | Syntal | [Read More](https://medium.com/p/b90b38e16d97) |
-| Tue, 27 Jan 2026 15:02:19 GMT | Cyber Briefing: 2026.01.27 | CyberMaterial | [Read More](https://medium.com/p/b15b90e2d9bc) |
-| Tue, 27 Jan 2026 15:02:04 GMT | A Sophisticated Phishing Email Analysis: The Telegram Exfiltration | Ata Erdemir | [Read More](https://medium.com/p/8a1042ac4bed) |
-| Tue, 27 Jan 2026 14:55:30 GMT | Weak Password Change or Reset Functionalities | Ghost | [Read More](https://medium.com/p/59a0dcbf5f21) |
-| Tue, 27 Jan 2026 14:54:34 GMT | I Moved Three Domains Away From Google — And I’m Not Going Back | Marco Schneider | [Read More](https://medium.com/p/4cf835e71b1d) |
-| Tue, 27 Jan 2026 14:53:10 GMT | Government authorities responsible for cybersecurity | mahammad | [Read More](https://medium.com/p/66c0b05434f8) |
-| Tue, 27 Jan 2026 14:49:22 GMT | Building a Zero-Knowledge Login Flow in Go — No Password Ever Sent to the Server | Md. Mehedi Hasan | [Read More](https://medium.com/p/956e8cb6c8a8) |
