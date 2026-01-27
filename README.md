@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 Jan 2026 08:27:21 GMT | Malware: The Invisible Threat in the Digital World | Himanshu Bhatt | [Read More](https://medium.com/p/beb397b07c2c) |
+| Tue, 27 Jan 2026 08:27:15 GMT | The Best Encrypted Messaging App for Privacy in 2026 | WibeIT Application | [Read More](https://medium.com/p/e8a3b1b2f85e) |
+| Tue, 27 Jan 2026 08:25:39 GMT | ประจำวันอังคารที่ 27 มกราคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/ab443888b632) |
+| Tue, 27 Jan 2026 08:24:59 GMT | 3 Scary Sounding Machine Learning Algorithms Explained With Zero Math | Tatenda-Alicia | [Read More](https://medium.com/p/a29d57535def) |
+| Tue, 27 Jan 2026 08:23:30 GMT | Emergency Response Security 2026: Crisis Management & Protection Services | Stalwart Group | [Read More](https://medium.com/p/4d6c4df3a1b3) |
+| Tue, 27 Jan 2026 08:14:12 GMT | Tanuki writeup (BugForge) | 7s26Simon | [Read More](https://medium.com/p/5a3d073c4c80) |
+| Tue, 27 Jan 2026 08:05:53 GMT | AWS CLOUD FOUNDATIONS, CONSULTING LANDSCAPE & DISASTER RECOVERY STRATEGY | F9 Infotech | [Read More](https://medium.com/p/e4dca2368746) |
+| Tue, 27 Jan 2026 08:02:46 GMT | Building a Secure, Segmented Enterprise Network in Cisco Packet Tracer: | Diddyjax | [Read More](https://medium.com/p/aef00b17507a) |
+| Tue, 27 Jan 2026 08:02:45 GMT | Network Segmentation Using Cisco Packet Tracer: A Fintech Case Study | Madu Nelson Izunna | [Read More](https://medium.com/p/a519f5834596) |
+| Tue, 27 Jan 2026 08:00:43 GMT | Advance Diploma in Artificial Intelligence and Machine Learning | Manisha Chaudhary | [Read More](https://medium.com/p/ec5f6fdb90b0) |
+| Tue, 27 Jan 2026 07:59:29 GMT | From XLoader to Phantom Stealer: A DHL-Themed multi-stage Infection Chain | Manoj Kshirsagar | [Read More](https://medium.com/p/5d552eee828d) |
+| Tue, 27 Jan 2026 07:56:06 GMT | Laravel Face Recognition and Authentication | Pius Oruko | [Read More](https://medium.com/p/e97ac390010b) |
+| Tue, 27 Jan 2026 07:50:30 GMT | On-Premise Employee Monitoring Software for Enterprises: Security, Control, and Compliance | Turan Can | [Read More](https://medium.com/p/c1880e36c18f) |
+| Tue, 27 Jan 2026 07:47:15 GMT | Internal Active Directory Compromise — Hokkaido (Proving Grounds) | Solynth.exe | [Read More](https://medium.com/p/dc0e43744d9f) |
 | Tue, 27 Jan 2026 07:39:44 GMT | pwnable.kr: unlink writeup — Exploiting heap overflow with unlink corruption and stack pivoting | Yael Shechter | [Read More](https://medium.com/p/8c7773d17f99) |
 | Tue, 27 Jan 2026 07:34:21 GMT | Breaking the Web (Part 9): Business Logic Vulnerabilities — When the App Works as Designed… but… | Mohammed Fahad | [Read More](https://medium.com/p/9acb9a89c345) |
 | Tue, 27 Jan 2026 07:28:46 GMT | When Office Turns Into a Trapdoor: The CVE-2026–21509 Zero-Day, the Emergency Patch, and the Hard… | Germano Costi | [Read More](https://medium.com/p/9c6d3694e9a6) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 Jan 2026 21:36:22 GMT | DockerLabs — Máquina Ping | Ricardo Reyes | [Read More](https://medium.com/p/51062f81af81) |
 | Mon, 26 Jan 2026 21:32:36 GMT | What happens when you type www.google.com in your browser? | Ilyess Sellami | [Read More](https://medium.com/p/86234edadf57) |
 | Mon, 26 Jan 2026 21:27:41 GMT | The Shifting Ground Beneath Tech: High-Demand Skills in an Industry at War With Itself | Len Noe | [Read More](https://medium.com/p/87f4cb04c69f) |
-| Mon, 26 Jan 2026 21:21:43 GMT | Identity Is the New Perimeter: Why IAM & PAM Are the Future of Cybersecurity | Dominic Adamietz | [Read More](https://medium.com/p/c9d31d54cbb4) |
-| Mon, 26 Jan 2026 21:16:56 GMT | Why Your LLMs Are Vulnerable | Shailendra Kumar | [Read More](https://medium.com/p/3298b706752f) |
-| Mon, 26 Jan 2026 21:02:14 GMT | Write-Up máquina PingPong de DockerLabs [ES] | Joel Morillas Pagan (Ghxstsec) | [Read More](https://medium.com/p/6665e1f64005) |
-| Mon, 26 Jan 2026 21:01:22 GMT | Reconnaissance: The Most Overlooked and Most Dangerous MITRE ATT&CK Tactic | CipherX9F Security | [Read More](https://medium.com/p/47a5695f923e) |
-| Mon, 26 Jan 2026 20:42:19 GMT | Bug Bounty in 2026: How to Find Your First Vulnerability (Without Losing Your Sanity) | Axoloth | [Read More](https://medium.com/p/f89d4c6b7ba2) |
-| Mon, 26 Jan 2026 20:38:48 GMT | SOC HomeLab — Part 4 (TheHive, Cortex & MISP) | Archit Vats | [Read More](https://medium.com/p/d24e05bb1b18) |
-| Mon, 26 Jan 2026 20:37:11 GMT | SOC HomeLab — Part 3 (Building the User Device) | Archit Vats | [Read More](https://medium.com/p/51b95da9f902) |
-| Mon, 26 Jan 2026 20:32:52 GMT | Splunk Serisi #4: Bozuk Logları Tamir Etmek (TryHackMe — Fixit Çözümü) | Ahmet Hakan Öztürk | [Read More](https://medium.com/p/7f4b48e55b42) |
-| Mon, 26 Jan 2026 20:30:15 GMT | MCP Security Part 3: Prevention Measures and Hardening | Akshay P | [Read More](https://medium.com/p/f18c04ceddf0) |
-| Mon, 26 Jan 2026 20:17:49 GMT | Créer un répertoire noexec sur macOS pour sécuriser ses téléchargements | Telynor | [Read More](https://medium.com/p/2554baad4d5a) |
-| Mon, 26 Jan 2026 20:16:26 GMT | Zero to Windows Server Hero: My Complete MCSA Journey (Hands-On Labs Included) | Disaster | [Read More](https://medium.com/p/43765fc70fb5) |
-| Mon, 26 Jan 2026 20:14:35 GMT | The Digital Panopticon: | Miles Fisher | [Read More](https://medium.com/p/eefbeb79a6e3) |
-| Mon, 26 Jan 2026 20:13:18 GMT | LLM Jailbreaks in the Wild — Attack Transcripts, Forensics, Guardrail Architecture, and Python… | Karthikmulugu | [Read More](https://medium.com/p/e434bb87990e) |
-| Mon, 26 Jan 2026 20:07:22 GMT | Some Welcome Changes: Dissecting the OWASP Top 10 2025 | Niklas Heringer | [Read More](https://medium.com/p/03d140bc9aff) |
