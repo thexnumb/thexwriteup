@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 Jan 2026 20:16:27 GMT | Outsourced IT Support Can Become A Hidden Risk | Geoffrey Wenger | [Read More](https://medium.com/p/07eca11caa22) |
+| Tue, 27 Jan 2026 20:14:21 GMT | Cyber Campaigns: Fix this, Fix that — ConsentFix | Shivam Bathla | [Read More](https://medium.com/p/ab3b6a3c38b8) |
+| Tue, 27 Jan 2026 20:07:39 GMT | Cuando el límite está fuera | D.V. Torres | [Read More](https://medium.com/p/a766a93bb1ef) |
+| Tue, 27 Jan 2026 20:05:54 GMT | The Report - Blue Team Labs | Nicksondiazm | [Read More](https://medium.com/p/97048f83b526) |
+| Tue, 27 Jan 2026 20:03:53 GMT | TryHackMe - SOC Role in Blue Team | Serhan Kırca | [Read More](https://medium.com/p/8e9994c2edf2) |
+| Tue, 27 Jan 2026 20:03:52 GMT | Secure SDLC + Threat Modelling — The Layman Way | The Darkarmy | [Read More](https://medium.com/p/64af108b196e) |
+| Tue, 27 Jan 2026 20:01:01 GMT | ❄️ SNOWPRO SPECIALTY: GEN AI CERTIFICATION Tutorial (Part 4 — Security) | Eylon Steiner | [Read More](https://medium.com/p/e4ce0bf70a2c) |
+| Tue, 27 Jan 2026 20:00:40 GMT | So, the main SMS service is dead. Here is what I’m using now. | NNayak | [Read More](https://medium.com/p/c082d0f31568) |
+| Tue, 27 Jan 2026 19:59:50 GMT | TryHackMe Password Attacks: Last Question walkthrough | Mario Jorge Limeira dos Santos | [Read More](https://medium.com/p/a977fa56a98f) |
+| Tue, 27 Jan 2026 19:58:28 GMT | I Built an AI Spam Blocker Because I Was Tired of Scam Calls | Huseyin Sari | [Read More](https://medium.com/p/62436db7e5ab) |
+| Tue, 27 Jan 2026 19:56:58 GMT | Typosquatting in 2026: Why “Smart” Attackers Are Breaking Your String Distance Algorithms | Praveen Malhan | [Read More](https://medium.com/p/a607075e4693) |
+| Tue, 27 Jan 2026 19:51:00 GMT | I Built a Privacy Toolkit So I’d Never Have to Trust the Cloud Again | Laoutaris | [Read More](https://medium.com/p/880a930ccc7d) |
 | Tue, 27 Jan 2026 19:46:10 GMT | LATERAL MOMENT: Gerçek Zamanlı Ağ İçi Saldırı Analizi Projesi: | dilan alpaltun | [Read More](https://medium.com/p/bad46293dfb4) |
 | Tue, 27 Jan 2026 19:42:13 GMT | How your API might be exposing everything | Said-Abbosxon Nabijonov - 0trc | [Read More](https://medium.com/p/b3a999439533) |
 | Tue, 27 Jan 2026 19:41:31 GMT | [EN] DC-1 — PGPlay — Walkthrough | hacktheborges | [Read More](https://medium.com/p/7cd1ec09a5bd) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 Jan 2026 14:26:53 GMT | Why the Strongest People Are Often the Most Broken Inside | Flaye Kate | [Read More](https://medium.com/p/97275351307b) |
 | Tue, 27 Jan 2026 14:22:53 GMT | Building a Cybersecurity Lab in AWS Part 3: Networking & Learning by Doing | Charles Christiansen | [Read More](https://medium.com/p/796f290dc2d7) |
 | Tue, 27 Jan 2026 14:21:06 GMT | How Fortray Engineered a Secure, Multi-Platform IT Environment for 40+ Users? | Umar Waseem | [Read More](https://medium.com/p/00980ee23c56) |
-| Tue, 27 Jan 2026 14:20:44 GMT | TI Mindmap Hub - Weekly Threat Brief — Issue #1 | Antonio Formato | [Read More](https://medium.com/p/b3b152070f54) |
-| Tue, 27 Jan 2026 14:19:55 GMT | Why Hack? The Enabling Environment | Lior Rotkovitch | [Read More](https://medium.com/p/f3d8d3532d77) |
-| Tue, 27 Jan 2026 14:17:32 GMT | Can a PDF Be Used for a Cyberattack? Yes — and Here’s How | pdfalltools.com | [Read More](https://medium.com/p/89808b2bfdfa) |
-| Tue, 27 Jan 2026 14:11:22 GMT | What Happens When You Click a Random Link on Social Media | Vikas Singh Panwar | [Read More](https://medium.com/p/27cb049c8bcd) |
-| Tue, 27 Jan 2026 14:09:54 GMT | Clean Code: Writing Code That Future You Will Thank You For | Story Crafter | [Read More](https://medium.com/p/e1eaec6f0d30) |
-| Tue, 27 Jan 2026 14:08:53 GMT | 2025 Crypto Hacks: The $3.2 Billion Wake-Up Call That Proved Code Isn’t the Problem | Sarav Mahe | [Read More](https://medium.com/p/d6af519c1771) |
-| Tue, 27 Jan 2026 14:02:59 GMT | Your AI Is Writing Code for Attackers | J. Leon | [Read More](https://medium.com/p/286452ec6eb7) |
-| Tue, 27 Jan 2026 14:02:57 GMT | Why Passwords Were Never Designed for Modern Life | Tracy | [Read More](https://medium.com/p/f415c33cf4c7) |
-| Tue, 27 Jan 2026 13:47:50 GMT | I Found This Faraday Signal Blocking Bag on eBay — My Experience as a Buyer Was a Total… | Ravindu Fernando | [Read More](https://medium.com/p/c60715518481) |
-| Tue, 27 Jan 2026 13:45:38 GMT | WP User Enumeration: Onde a maioria das defesas falha | sarkis093 | [Read More](https://medium.com/p/d81a64c3c758) |
-| Tue, 27 Jan 2026 13:43:19 GMT | The Crisis of Agency: A Comprehensive Analysis of Prompt Injection and the Security Architecture of… | Greg Robison | [Read More](https://medium.com/p/d274524b3c11) |
-| Tue, 27 Jan 2026 13:37:24 GMT | ISC² CCSP Exam: Specializing in Cloud Security (Part 4) | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/6195f8a9e8c1) |
