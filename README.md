@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 Jan 2026 01:54:25 GMT | From Reactive Defense to Verifiable Trust | sengom | [Read More](https://medium.com/p/a0d40a408800) |
+| Tue, 27 Jan 2026 01:53:02 GMT | Why Future Security Must Be Protocol-Level, Not App-Level | sengom | [Read More](https://medium.com/p/9682a8cbc558) |
+| Tue, 27 Jan 2026 01:36:14 GMT | Fundamentals of Information Technology | Can ATA | [Read More](https://medium.com/p/f550feb1bd47) |
+| Tue, 27 Jan 2026 01:18:24 GMT | From Alert to Analysis: My Process for Triage, Timeline Reconstruction, and MITRE ATT&CK Mapping | Dylan Clifton | [Read More](https://medium.com/p/bbdcb75514c0) |
+| Tue, 27 Jan 2026 01:11:44 GMT | Cryptex — Because openssl rand -base64 32 Gets Old Fast | Tarek CHEIKH | [Read More](https://medium.com/p/d9f1200c5a12) |
+| Tue, 27 Jan 2026 01:10:29 GMT | Hundreds of Clawdbot instances were exposed on the internet. Here’s how to not be one of them | JP Caparas | [Read More](https://medium.com/p/63fa813e6625) |
+| Tue, 27 Jan 2026 01:01:45 GMT | What Gets Missed When We Talk About Online Scams | Dobby | [Read More](https://medium.com/p/d6eee90921ee) |
+| Tue, 27 Jan 2026 00:50:29 GMT | The Security Paradox: Why Your Office Server is Your Biggest Liability in 2026 | Webhuk ERP | [Read More](https://medium.com/p/62728921e0b3) |
+| Tue, 27 Jan 2026 00:47:42 GMT | SOC 2 Reality Check: Why “Feeling Ready” Isn’t Enough, and How to Actually Get It Done | Rachit Lohani | [Read More](https://medium.com/p/3b49f319bb5c) |
+| Tue, 27 Jan 2026 00:45:26 GMT | Wireless Security: Understanding WiFi Authentication and Encryption | Raviteja Mureboina | [Read More](https://medium.com/p/2cf9b9f013f2) |
+| Tue, 27 Jan 2026 00:27:37 GMT | The Rise of “Celeb Bait”: What It Is and How to Avoid Falling for It | SirMedium | [Read More](https://medium.com/p/542f7fcc7356) |
+| Tue, 27 Jan 2026 00:25:39 GMT | Why Clawdbot is a Bad Idea: Critical Zero-days Found in My Audit (Full Report) | Saad Khalid | [Read More](https://medium.com/p/634602cb053f) |
+| Tue, 27 Jan 2026 00:09:53 GMT | 買斷還是訂閱軟件程式？ | 思維舞步 MindSteps | [Read More](https://medium.com/p/1b9c20706653) |
+| Tue, 27 Jan 2026 00:03:12 GMT | Guía de Hashcat: Recuperación de Contraseñas y Auditoría de Seguridad | JPablo13 | [Read More](https://medium.com/p/868181eaff8a) |
+| Mon, 26 Jan 2026 23:56:50 GMT | Beyond FM: Pushing Your $30 RTL-SDR to the Edge of the Atmosphere | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/5afaca786f4b) |
+| Mon, 26 Jan 2026 23:52:17 GMT | 2FA Bypass via Reset Password | KhaledAhmed107 | [Read More](https://medium.com/p/daba828b10f3) |
+| Mon, 26 Jan 2026 23:47:39 GMT | DC-2 - Proving Grounds Play | Maxwell Ferreira | [Read More](https://medium.com/p/9be35063a2f6) |
 | Mon, 26 Jan 2026 23:45:48 GMT | Beyond Takeover AWS Bucket | Na_stark | [Read More](https://medium.com/p/58c7b22d9e8a) |
 | Mon, 26 Jan 2026 23:38:40 GMT | Stop SIEM Noise at the Source: Wazuh Agent-Side Suppression for Windows Security Events (QueryList… | SOCFortress | [Read More](https://medium.com/p/0eacbf4326df) |
 | Mon, 26 Jan 2026 23:35:10 GMT | I Saw You Looking Handsome | Su ☆ | [Read More](https://medium.com/p/80e6bd4d82df) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 Jan 2026 17:15:20 GMT | Cross-Site Scripting (XSS): From Basics to Battle-Tested Defense | Prateek Kumar | [Read More](https://medium.com/p/12e5ee113750) |
 | Mon, 26 Jan 2026 17:00:08 GMT | Proving Grounds: ClamAV | n0t_brit | [Read More](https://medium.com/p/a8530639ffe3) |
 | Mon, 26 Jan 2026 16:57:22 GMT | Understanding SSRF and Detecting It With AI, Enter See-SURF | Vaibhav Agrawal | [Read More](https://medium.com/p/0277e0179a50) |
-| Mon, 26 Jan 2026 16:49:57 GMT | Portswigger - CSRF Exploitation | Sandeep Singh Sisodiya | [Read More](https://medium.com/p/fcade0ebb861) |
-| Mon, 26 Jan 2026 16:48:15 GMT | Security and Performance Aspects of Advanced Bash Scripting | Linux Guide | [Read More](https://medium.com/p/a8b183cc0a48) |
-| Mon, 26 Jan 2026 16:47:11 GMT | REBEKAH | Adonaiyahwehforever | [Read More](https://medium.com/p/c05da7aedae6) |
-| Mon, 26 Jan 2026 16:41:22 GMT | 9 Security Principles Every Beginner Must Know (Without Googling) | Kushal Kumar | [Read More](https://medium.com/p/62144a5def97) |
-| Mon, 26 Jan 2026 16:40:22 GMT | TryHackMe Writeup: H4cked | Berkay AĞGÜL | [Read More](https://medium.com/p/051e9f17669e) |
-| Mon, 26 Jan 2026 16:38:24 GMT | V stages of Ethical hacking | Amandogra | [Read More](https://medium.com/p/f0d1c3931da5) |
-| Mon, 26 Jan 2026 16:28:15 GMT | What is Clawdbot? The Truth About the 2026 “Personal OS” Hype and the Risks You Aren’t Seeing | Champ18ion | [Read More](https://medium.com/p/1c91969ca008) |
-| Mon, 26 Jan 2026 16:25:11 GMT | Everyday Digital Privacy: A Practical Guide to Protecting Your Data. | Senidi Liyanahewa | [Read More](https://medium.com/p/ff5aa7d5a75b) |
-| Mon, 26 Jan 2026 16:19:37 GMT | Click Here for First Contact | Gareth Johnson | [Read More](https://medium.com/p/1ba947efff1e) |
-| Mon, 26 Jan 2026 16:18:45 GMT | Rebuilding — Day 4 | Technodox10 | [Read More](https://medium.com/p/f2336f617cbb) |
-| Mon, 26 Jan 2026 16:09:26 GMT | TryHackMe Write-Up: Wireshark (The Basics) Tasks 1–3 | Jeff Ryan | [Read More](https://medium.com/p/c9f3931ee851) |
-| Mon, 26 Jan 2026 16:08:19 GMT | Windows 11 Backlash: Why Millions Are Stuck, Frustrated, or Downgrading | Paradise technologies Inc | [Read More](https://medium.com/p/e5a37e52aed0) |
-| Mon, 26 Jan 2026 16:02:25 GMT | Clawdbot: The Rise of the Autonomous Personal Assistant | Dimitrios Misios | [Read More](https://medium.com/p/f6c6a5ec70dd) |
-| Mon, 26 Jan 2026 16:00:51 GMT | Overview of a few Security frameworks and regulations (ISO27001, NIS2, NIST etc), and mapping them… | Nityananda | [Read More](https://medium.com/p/618ff3b2c10a) |
-| Mon, 26 Jan 2026 15:57:57 GMT | Session Hijacking: The Invisible Threat in Modern Identity Security and How Rainbow Secure Ends It | Dr. Shashi Karhail | [Read More](https://medium.com/p/09c7baf4e84e) |
-| Mon, 26 Jan 2026 15:55:56 GMT | How Information Asymmetry and Context Control Shape Human–AI Dominance | Agustin Albornoz | [Read More](https://medium.com/p/bd152d3e447a) |
-| Mon, 26 Jan 2026 15:51:49 GMT | AI That Protects Bank Customers Before Money Is Lost | reezky Illmawati | [Read More](https://medium.com/p/f011efef65fc) |
