@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 Jan 2026 19:13:27 GMT | Crocodile HTB — Starting Point Writeup By Alham Rizvi | Alham Rizvi(ExoidSec) | [Read More](https://medium.com/p/168b55893279) |
+| Tue, 27 Jan 2026 19:12:22 GMT | Tracing the Boiler Control System: From Internet Search to CISA Coordination | hacker_might | [Read More](https://medium.com/p/ceba2d05cdd2) |
+| Tue, 27 Jan 2026 19:12:21 GMT | Introduction to Honeypot Data Analysis | Allen Ace | [Read More](https://medium.com/p/f25aa5d998de) |
+| Tue, 27 Jan 2026 19:03:19 GMT | VulnNet: Roasted — TryHackMe Challenge Walkthrough | Hemantha Krishna Challa | [Read More](https://medium.com/p/59aa87cbd8a9) |
+| Tue, 27 Jan 2026 19:02:54 GMT | TryHackMe - GeoServer: CVE-2025-58360 - WriteUp | Axoloth | [Read More](https://medium.com/p/2d364d1dbe04) |
+| Tue, 27 Jan 2026 18:50:46 GMT | MITRE ATT&CK erklärt und umgangen | Nick Vidovic | [Read More](https://medium.com/p/f8e4913e096b) |
+| Tue, 27 Jan 2026 18:46:40 GMT | OSI Reference Model | SHUBHAM | [Read More](https://medium.com/p/1893a74d1dda) |
+| Tue, 27 Jan 2026 18:38:16 GMT | I Didn’t Just Lose People in 2025. I Lost Myself Too. | Michelle March | [Read More](https://medium.com/p/efefbe765b13) |
 | Tue, 27 Jan 2026 18:34:42 GMT | How I Found a Clickable Link Injection Issue in a Verification Email (Beginner Friendly) | Sahal | [Read More](https://medium.com/p/14fda535a4bf) |
+| Tue, 27 Jan 2026 18:34:02 GMT | Heap JVM Opensearch Wazuh | My Name is "Jadir" | [Read More](https://medium.com/p/58d6ee1bb070) |
 | Tue, 27 Jan 2026 18:33:32 GMT | When Anthropic Came Knocking: Trademark Wars and the Agentic Security Crisis | Dudethedogai | [Read More](https://medium.com/p/8e10673b609b) |
 | Tue, 27 Jan 2026 18:29:54 GMT | How COBIT and ITIL Enable Low-risk ERP Migrations? | Aimee Liu | [Read More](https://medium.com/p/29375d33e9e6) |
 | Tue, 27 Jan 2026 18:20:32 GMT | Prompt Injection: The SQL Injection of AI + How to Defend | Lukas Niessen | [Read More](https://medium.com/p/2a28c6f3bc05) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 Jan 2026 13:28:39 GMT | How Dr. Doom Walked into the Avengers’ Vault — OWASP A01: Broken Access Control | Vijenex | [Read More](https://medium.com/p/a75a53c2e04f) |
 | Tue, 27 Jan 2026 13:18:55 GMT | People Build Systems on Routine | Rubab Fatima | [Read More](https://medium.com/p/a4684cc4d3eb) |
 | Tue, 27 Jan 2026 13:15:59 GMT | Loss Prevention Tips I Learned on the Floor, Not in Training Manuals | ADITYA PATHAK | [Read More](https://medium.com/p/59d4a42edac7) |
-| Tue, 27 Jan 2026 13:12:56 GMT | No Reinvention Needed: How Eliminating Platform Assembly Accelerates Go-To-Market | Alex Moiseyev | [Read More](https://medium.com/p/f852be910226) |
-| Tue, 27 Jan 2026 13:06:37 GMT | OWASP Top 10 (2025–2026): Modern Web’in Yeni Anayasası | Onur Altuğ | [Read More](https://medium.com/p/600a80fc243b) |
-| Tue, 27 Jan 2026 13:02:11 GMT | A Team That Stops Growing Eventually Becomes the Risk | Jevon Davis | [Read More](https://medium.com/p/f5b428d93212) |
-| Tue, 27 Jan 2026 13:02:11 GMT | Your Node App Isn’t Secure by Default — Fix That | Vectorlane | [Read More](https://medium.com/p/84b027583560) |
-| Tue, 27 Jan 2026 13:02:03 GMT | Five Powerful Parenting Insights | Sumera Rizwan | [Read More](https://medium.com/p/9fbe1b953be2) |
-| Tue, 27 Jan 2026 13:01:03 GMT | [AD攻防]Pass-the-Ticket (PtT)攻擊 | 陳禹璿 | [Read More](https://medium.com/p/1cb3f0c49707) |
-| Tue, 27 Jan 2026 12:55:16 GMT | Specifying the Intended Purpose of a CRA product | Sarah Fluchs | [Read More](https://medium.com/p/7a0fb0de1e4a) |
-| Tue, 27 Jan 2026 12:54:17 GMT | Launch of a new project at the International House of Japan | Tom Furutani | [Read More](https://medium.com/p/ac02c8019346) |
-| Tue, 27 Jan 2026 12:53:44 GMT | VIDEO: US Civil war simulation, Center for Ethics and the Rule of Law at the University of… | Berend Watchus | [Read More](https://medium.com/p/3c749d07cf8f) |
