@@ -12,11 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 Jan 2026 11:15:20 GMT | Imagery — Hack The Box | Al3xx | [Read More](https://medium.com/p/fd8d4fba9d98) |
+| Tue, 27 Jan 2026 11:15:00 GMT | KodeKloud AWS Challenge — Day 30: Enabling Internet Access for a Private EC2 Using a NAT Instance | Kishor Bhairat | [Read More](https://medium.com/p/b2a121cd2326) |
+| Tue, 27 Jan 2026 11:11:50 GMT | ️ Runtime Protection: Defending the Application from Within | Esra Kayhan | [Read More](https://medium.com/p/4c7af87c01ca) |
+| Tue, 27 Jan 2026 11:11:31 GMT | ️ Multi-Layer Defense Design at the Network Layer — Deepening the Defense ️ | Esra Kayhan | [Read More](https://medium.com/p/d3fced77b718) |
+| Tue, 27 Jan 2026 11:11:09 GMT | Affordable Hosting That Doesn’t Feel Like a Compromise | Mary Thomas | [Read More](https://medium.com/p/20c895e2051a) |
+| Tue, 27 Jan 2026 11:08:19 GMT | From $0 to Your First Bug Bounty: A Beginner’s 14-Day Roadmap (2026, No Paid Tools) | BugHunter’s Journal | [Read More](https://medium.com/p/e6d0cc990c92) |
+| Tue, 27 Jan 2026 11:06:55 GMT | Anti-Fake Microsoft Teams App: Meeting Global AI Regulations in 2026 | UncovAI | [Read More](https://medium.com/p/13cf7c6e6f12) |
+| Tue, 27 Jan 2026 11:02:17 GMT | Your Phone Is Not as Secure as You Think | Abdullah Javeed | [Read More](https://medium.com/p/52be80842cca) |
+| Tue, 27 Jan 2026 10:59:41 GMT | THE FUTURE OF CYBERSECURITY: KEY TRENDS TO WATCH IN 2026 | Raphaam Digital (Cyber Security Updates) | [Read More](https://medium.com/p/a2f017fb6489) |
+| Tue, 27 Jan 2026 10:58:14 GMT | Tryhackme C4ptur3-th3-fl4g CTF Write-Up | Kandemirryigit | [Read More](https://medium.com/p/dbfa8e75f62f) |
+| Tue, 27 Jan 2026 10:55:52 GMT | I Reported an IDOR, Made $25,000, and Learned More About Bug Bounties Than I Expected | Justas_b_2 | [Read More](https://medium.com/p/8354e68e1ffe) |
+| Tue, 27 Jan 2026 10:52:47 GMT | Ricochet Chollima APT Adversary Simulation | S3N4T0R | [Read More](https://medium.com/p/b0258be69c37) |
+| Tue, 27 Jan 2026 10:48:20 GMT | Unlocking the Future of Cybersecurity: Understanding Your Security Posture with PlutoSec | Plutosec Cyber Security | [Read More](https://medium.com/p/8f884102b691) |
+| Tue, 27 Jan 2026 10:40:10 GMT | The Clawdbot Security Trap Everyone Missed | Suleiman Tawil | [Read More](https://medium.com/p/4a7c66b48134) |
+| Tue, 27 Jan 2026 10:39:09 GMT | Handling Toxic Clients in Tech Industry - Without losing face and mind | Pravir Raghu | [Read More](https://medium.com/p/643adf69ff09) |
+| Tue, 27 Jan 2026 10:38:30 GMT | The Upgrade Path Most Websites Get Wrong | Ann Taylor | [Read More](https://medium.com/p/40d9a872801b) |
+| Tue, 27 Jan 2026 10:26:28 GMT | Reliable Security Solutions with a 24 hr Locksmith in London Properties | The Lock Specialist Ltd | [Read More](https://medium.com/p/68d7e2db0e99) |
 | Tue, 27 Jan 2026 10:25:23 GMT | Phishing Analysis 2 — BTLO Room | Nishasorallikar | [Read More](https://medium.com/p/d0ba52ca4ec4) |
 | Tue, 27 Jan 2026 10:24:17 GMT | pwnable.kr: tiny_easy writeup | Yael Shechter | [Read More](https://medium.com/p/9965222c409c) |
 | Tue, 27 Jan 2026 10:24:11 GMT | Top Cybersecurity Skills No College Is Teaching You
 Most colleges promise careers in cybersecurity. | Ankit rai | [Read More](https://medium.com/p/aff5a4523d3f) |
+| Tue, 27 Jan 2026 10:20:14 GMT | How to Audit APIs With Postman for Security Blind Spots | Mario Frohlich | [Read More](https://medium.com/p/1c9723906865) |
 | Tue, 27 Jan 2026 10:19:03 GMT | RIGGED: How AI Bot Farms Are Stealing Billions From Online Gamblers | Zoom In AI | [Read More](https://medium.com/p/2b80444800f7) |
+| Tue, 27 Jan 2026 10:18:59 GMT | 24 Hour Locksmith — Fast, Professional Support in London | The Lock Specialist Ltd | [Read More](https://medium.com/p/2191453e628b) |
 | Tue, 27 Jan 2026 10:14:55 GMT | Probably Just Fine -First-Shift-CTF - Walkthrough | Visir | [Read More](https://medium.com/p/b9a304526965) |
 | Tue, 27 Jan 2026 10:03:03 GMT | Beyond Digital Logs — Proposing the “Biological Audit Trail” for Mobile Forensics | Ryu360 | [Read More](https://medium.com/p/2c81e4d18a2b) |
 | Tue, 27 Jan 2026 10:02:42 GMT | Mengenal Tools Analisis Artefak Digital Forensik, Autopsy. | Priyagung Yogi | [Read More](https://medium.com/p/c55ea983fc4a) |
@@ -94,22 +113,3 @@ Most colleges promise careers in cybersecurity. | Ankit rai | [Read More](https:
 | Tue, 27 Jan 2026 05:44:57 GMT | Palantir’s Internal Revolt, Grok’s CSAM Scandal, and TikTok’s Broken Takeover - The Daily Tech… | Souren Stepanyan | [Read More](https://medium.com/p/858d0467c973) |
 | Tue, 27 Jan 2026 05:24:36 GMT | Building My Pentesting Lab: A Step-by-Step Guide to Installing Kali Linux on VirtualBox | Farrelakbar | [Read More](https://medium.com/p/6ed7172a0cd0) |
 | Tue, 27 Jan 2026 05:16:35 GMT | Living Off The Land (LOTL): When the Attacker Uses Your Own Tools Against You | Daniel Isaac E | [Read More](https://medium.com/p/6a2abde89d28) |
-| Tue, 27 Jan 2026 05:15:59 GMT | The Cryptography Concept Journey — Overview of Cryptography | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/524f584acd66) |
-| Tue, 27 Jan 2026 05:11:45 GMT | How Jetking Chandigarh Stepped Me Out in the Crowded Market | JetkingChandigarh | [Read More](https://medium.com/p/4d8294414851) |
-| Tue, 27 Jan 2026 05:03:21 GMT | Android Security Settings You Must Enable Today to Protect Your Phone | Blue Bird Digital Technology | [Read More](https://medium.com/p/f5d53228ba01) |
-| Tue, 27 Jan 2026 04:48:07 GMT | Linux Luminarian: A Write-Up | Avigail Laing | [Read More](https://medium.com/p/10e969b05213) |
-| Tue, 27 Jan 2026 04:36:01 GMT | How to Check if Your iCloud or Gmail Account Was Part of the 149 Million Record Leak. | Technologia | [Read More](https://medium.com/p/7e078df8ea14) |
-| Tue, 27 Jan 2026 04:34:35 GMT | Kioptrix Level 2 Walkthrough — A Practical Web Penetration Testing Lab | Wing Code | [Read More](https://medium.com/p/ad85a36c3ecd) |
-| Tue, 27 Jan 2026 04:28:15 GMT | Mindmaps for Cybersecurity (Freeplane) | cyber_0xGambit | [Read More](https://medium.com/p/78452dd2717e) |
-| Tue, 27 Jan 2026 04:27:54 GMT | VulnLab: Cross Site Request Forgery (CSRF) Çözümü | CyberSam | [Read More](https://medium.com/p/78487720915c) |
-| Tue, 27 Jan 2026 04:23:49 GMT | Digital Risk Protection Market: Trends, Growth, and Forecast | Gauri Kale | [Read More](https://medium.com/p/449e3877a5ee) |
-| Tue, 27 Jan 2026 04:19:24 GMT | Bridging the Scalability Gap: AI’s Role in Modern Security Reviews | Varun Prusty | [Read More](https://medium.com/p/30b7bba53ae5) |
-| Tue, 27 Jan 2026 04:16:58 GMT | How Many Email Accounts Do I Actually Need? | Tom Osterman | [Read More](https://medium.com/p/2368dbbce7cb) |
-| Tue, 27 Jan 2026 03:51:00 GMT | picoctf — Playfair Cipher CTF Writeup | SPIDER1SEC | [Read More](https://medium.com/p/b7d834a931f9) |
-| Tue, 27 Jan 2026 03:37:01 GMT | Why Authorization Is Harder Than Authentication | Swapnil Deshpande | [Read More](https://medium.com/p/d3f591a709a0) |
-| Tue, 27 Jan 2026 03:33:35 GMT | Simulating Phishing Using GoPhish — A Practical Red Team Glimpse | Cybeague Technologies | [Read More](https://medium.com/p/eb383c93f791) |
-| Tue, 27 Jan 2026 03:32:09 GMT | Credential Harvesting with Zphisher: A Phishing Simulation Toolkit | Cybeague Technologies | [Read More](https://medium.com/p/072a33d62b52) |
-| Tue, 27 Jan 2026 03:31:34 GMT | n8n at Enterprise Scale: Versioned Workflows, Secret Hygiene, and the Observability Stack Nobody… | Yamishift | [Read More](https://medium.com/p/3289d0d948eb) |
-| Tue, 27 Jan 2026 03:31:34 GMT | What Cybersecurity Tools Actually Make Sense for Students (And When to Use Them) | Manubhav Sharma | [Read More](https://medium.com/p/21291f7b1641) |
-| Tue, 27 Jan 2026 03:15:09 GMT | Tuesday Morning Threat Report: Jan 27, 2026 | Mark Maguire | [Read More](https://medium.com/p/e67ded048741) |
-| Tue, 27 Jan 2026 03:12:02 GMT | The AI Security Crisis Nobody Saw Coming: Why 2026 Is the Year Everything Changes | Tech Trends by Tähīrī | [Read More](https://medium.com/p/575c07719102) |
