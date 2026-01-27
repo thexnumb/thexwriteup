@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 Jan 2026 14:28:35 GMT | The Soft Underbelly of AI: Managing an Invisible War ️ | SedaEfe | [Read More](https://medium.com/p/7ce28c9c94ef) |
+| Tue, 27 Jan 2026 14:26:53 GMT | Firewall: The First Line of Defense in Modern Applications | Suraj Bhandari | [Read More](https://medium.com/p/76770741b10f) |
+| Tue, 27 Jan 2026 14:22:53 GMT | Building a Cybersecurity Lab in AWS Part 3: Networking & Learning by Doing | Charles Christiansen | [Read More](https://medium.com/p/796f290dc2d7) |
+| Tue, 27 Jan 2026 14:21:06 GMT | How Fortray Engineered a Secure, Multi-Platform IT Environment for 40+ Users? | Umar Waseem | [Read More](https://medium.com/p/00980ee23c56) |
+| Tue, 27 Jan 2026 14:20:44 GMT | TI Mindmap Hub - Weekly Threat Brief — Issue #1 | Antonio Formato | [Read More](https://medium.com/p/b3b152070f54) |
+| Tue, 27 Jan 2026 14:17:32 GMT | Can a PDF Be Used for a Cyberattack? Yes — and Here’s How | pdfalltools.com | [Read More](https://medium.com/p/89808b2bfdfa) |
+| Tue, 27 Jan 2026 14:11:22 GMT | What Happens When You Click a Random Link on Social Media | Vikas Singh Panwar | [Read More](https://medium.com/p/27cb049c8bcd) |
+| Tue, 27 Jan 2026 14:09:54 GMT | Clean Code: Writing Code That Future You Will Thank You For | Story Crafter | [Read More](https://medium.com/p/e1eaec6f0d30) |
+| Tue, 27 Jan 2026 14:08:53 GMT | 2025 Crypto Hacks: The $3.2 Billion Wake-Up Call That Proved Code Isn’t the Problem | Sarav Mahe | [Read More](https://medium.com/p/d6af519c1771) |
+| Tue, 27 Jan 2026 14:02:59 GMT | Your AI Is Writing Code for Attackers | J. Leon | [Read More](https://medium.com/p/286452ec6eb7) |
+| Tue, 27 Jan 2026 14:02:57 GMT | Why Passwords Were Never Designed for Modern Life | Tracy | [Read More](https://medium.com/p/f415c33cf4c7) |
 | Tue, 27 Jan 2026 13:47:50 GMT | I Found This Faraday Signal Blocking Bag on eBay — My Experience as a Buyer Was a Total… | Ravindu Fernando | [Read More](https://medium.com/p/c60715518481) |
+| Tue, 27 Jan 2026 13:45:38 GMT | WP User Enumeration: Onde a maioria das defesas falha | sarkis093 | [Read More](https://medium.com/p/d81a64c3c758) |
+| Tue, 27 Jan 2026 13:43:19 GMT | The Crisis of Agency: A Comprehensive Analysis of Prompt Injection and the Security Architecture of… | Greg Robison | [Read More](https://medium.com/p/d274524b3c11) |
 | Tue, 27 Jan 2026 13:37:24 GMT | ISC² CCSP Exam: Specializing in Cloud Security (Part 4) | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/6195f8a9e8c1) |
 | Tue, 27 Jan 2026 13:36:54 GMT | Things to Watch for in 2026: Emerging Threats in Cybersecurity and Tech | Costin Raiu | [Read More](https://medium.com/p/1605a4de7cda) |
 | Tue, 27 Jan 2026 13:34:48 GMT | Threat Intelligence Dossier: TOXICSNAKE | Macs-Hit | [Read More](https://medium.com/p/b3e954bd644b) |
@@ -42,6 +55,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 Jan 2026 12:21:30 GMT | Leading Visitor Management Software Providers in the UK | Semieta | [Read More](https://medium.com/p/8dcb6f0bac20) |
 | Tue, 27 Jan 2026 12:21:01 GMT | Shocking Privacy Risks of LLMs | Shailendra Kumar | [Read More](https://medium.com/p/131b6dc23498) |
 | Tue, 27 Jan 2026 12:07:06 GMT | Certifications vs Skills in Cybersecurity: Why Integrity and Learning Matter More Than a Badge | Gajanan Tayde | [Read More](https://medium.com/p/a9ee10fdba71) |
+| Tue, 27 Jan 2026 12:06:12 GMT | Why Cyber Risk Is Now a Board-Level Concern | Khizra Saleem | [Read More](https://medium.com/p/34b1f60e80fb) |
 | Tue, 27 Jan 2026 12:04:22 GMT | Cybersecurity Testing Services by Secninjaz Technologies LLP - Strengthening Digital Defenses with… | Secninjaz Technologies LLP | [Read More](https://medium.com/p/afb848b11a75) |
 | Tue, 27 Jan 2026 12:03:34 GMT | PQC (Post Quantum Cryptography) Is Here … And You Are Likely To Be Using It! | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/bbba9d4aa7f2) |
 | Tue, 27 Jan 2026 12:01:22 GMT | New ClickFix Malware Campaign Exploits Windows App-V Scripts to Deploy Infostealer | Technijian | [Read More](https://medium.com/p/df452e05cd9c) |
@@ -99,17 +113,3 @@ Most colleges promise careers in cybersecurity. | Ankit rai | [Read More](https:
 | Tue, 27 Jan 2026 09:32:01 GMT | Container Security Best Practices for Modern Infrastructure | Gerardo Ocampos | [Read More](https://medium.com/p/48c505b9988b) |
 | Tue, 27 Jan 2026 09:29:41 GMT | Software Updates That Break Everything: When “New” Means “Not Working.” | Sarbajitacharjee | [Read More](https://medium.com/p/a4179fc0884f) |
 | Tue, 27 Jan 2026 09:28:19 GMT | #1 OT/ICS CYBERSECURITY TRAINING AND GEN AI TRAINING IN DELHI NCR AND IN INDIA | TheEvolvEdge | [Read More](https://medium.com/p/e822f0e4d814) |
-| Tue, 27 Jan 2026 09:28:14 GMT | Why Cities Are Shifting to AI-Based Traffic Management Systems | Videonetics | [Read More](https://medium.com/p/e1772ce0f3a3) |
-| Tue, 27 Jan 2026 09:27:35 GMT | Your Email Inbox is Lying to You (And How to Catch It Red-Handed) | Dhanush N | [Read More](https://medium.com/p/7d42fbc62711) |
-| Tue, 27 Jan 2026 09:26:28 GMT | Postal Automation System Market Size, Share & Trends Forecast 2030 | kalpesh rajput | [Read More](https://medium.com/p/23c074bc4abd) |
-| Tue, 27 Jan 2026 09:24:07 GMT | Implementation of a T-Pot Honeypot for Attack Detection and Analysis. | Eric Cabrera Cruz | [Read More](https://medium.com/p/eb93f168ba25) |
-| Tue, 27 Jan 2026 09:23:05 GMT | Why Security Teams Are Always Busy but Still Feel Behind | Prerna Shukla | [Read More](https://medium.com/p/483ef27a6897) |
-| Tue, 27 Jan 2026 09:20:22 GMT | Is Your Business Really Protected? Why You Shouldn’t Skip a Cyber Security Audit | Gary Marshall | [Read More](https://medium.com/p/ac1f8d6929fb) |
-| Tue, 27 Jan 2026 09:06:26 GMT | Rooting the Blackpearl Machine (TCM Security) — Step-by-Step Walkthrough | B3TA-BLOCKER | [Read More](https://medium.com/p/be1148a0678b) |
-| Tue, 27 Jan 2026 09:03:47 GMT | Dynamic Malware Loaders: The Silent Backbone of Modern Cyberattacks | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/0f979e90166d) |
-| Tue, 27 Jan 2026 09:01:49 GMT | What is Cybersecurity? A Complete Beginner’s Guide for 2026 | Tolulope Oduola | [Read More](https://medium.com/p/ea7aadd57483) |
-| Tue, 27 Jan 2026 09:00:59 GMT | FIRST SHIFT CTF — PROBABLY JUST FINE ( NO — SPOILERS )… | lukewago | [Read More](https://medium.com/p/aa31bd147a3e) |
-| Tue, 27 Jan 2026 08:59:48 GMT | Winter Security Special: Why the Regnum Elite is the Ultimate Tech Companion This Season! | Ramesh Raj | [Read More](https://medium.com/p/3e8e33985444) |
-| Tue, 27 Jan 2026 08:53:15 GMT | Cool Name Effect - Web Security Challenge (Easy) — Write-Up | Z3DX | [Read More](https://medium.com/p/cff8bf6f7c3f) |
-| Tue, 27 Jan 2026 08:48:42 GMT | Windows PrivEsc 2025: 20 New Tools & Techniques to Master Privilege Escalation | Very Lazy Tech | [Read More](https://medium.com/p/b74a5db5f6be) |
-| Tue, 27 Jan 2026 08:48:32 GMT | What Happens When the Supply Chain Has No Backup Plan | Heesham Naji | [Read More](https://medium.com/p/cb36721ef022) |
