@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 Jan 2026 17:26:19 GMT | Why Modern Security Feels Busy but Achieves Nothing | Oscar Antonangelo | [Read More](https://medium.com/p/4e0cb9b5a089) |
+| Tue, 27 Jan 2026 17:25:17 GMT | How I hacked a website just by looking at the source code Part-2 | Devansh Patel | [Read More](https://medium.com/p/375b21321815) |
+| Tue, 27 Jan 2026 17:11:22 GMT | 7 Easy Strategies To Become The Unforgettable Grandparent Your Grandkids Will Cherish | Jade  O'Sullivan | [Read More](https://medium.com/p/c2abc939133a) |
+| Tue, 27 Jan 2026 17:07:56 GMT | Broken Authentication in APIs | Emmanuelnnebedum | [Read More](https://medium.com/p/33b3323542da) |
+| Tue, 27 Jan 2026 17:01:07 GMT | Rust Threads: How One Line of Code Can Kill Your Parallelism | 0xjustuzair | [Read More](https://medium.com/p/71a72b949d17) |
+| Tue, 27 Jan 2026 16:59:57 GMT | Infrastructure as Code (IaC) with Terraform: Beginner’s Guide | Adityadalwadi | [Read More](https://medium.com/p/25431bb01d46) |
+| Tue, 27 Jan 2026 16:55:50 GMT | Adults With ADHD Need This | CryptoKnight | [Read More](https://medium.com/p/aee8197ed2a6) |
+| Tue, 27 Jan 2026 16:54:07 GMT | Local Sovereign Nodes: Securing Private Finance with MCP in 2026 | LaLiSa | [Read More](https://medium.com/p/e9abf88e4db8) |
+| Tue, 27 Jan 2026 16:53:01 GMT | Why Mission-Critical Systems Must Be Stateless: A Case for Hospitals and Battlefields | Randyoliver | [Read More](https://medium.com/p/d8d821216ee3) |
+| Tue, 27 Jan 2026 16:46:25 GMT | Navigating Complexity: Leadership Through Strategy | Bernardo Mariano Jr | [Read More](https://medium.com/p/399df721adb5) |
+| Tue, 27 Jan 2026 16:42:18 GMT | HTB Writeup: Calamity | sugar | [Read More](https://medium.com/p/3a4a23324433) |
+| Tue, 27 Jan 2026 16:41:10 GMT | Access Control Guards Improve Event Venue Safety In 2025 | GPS Security Group Inc | [Read More](https://medium.com/p/1c24dd96cd00) |
+| Tue, 27 Jan 2026 16:38:58 GMT | Internet of Things (IoT) in 2026: How Connected Devices Are Transforming Businesses | Techridge Solutions | [Read More](https://medium.com/p/186de6b3be7c) |
 | Tue, 27 Jan 2026 16:28:58 GMT | Day 1 : Understanding the Local File Inclusion LFI | Cybersecurity with Jojo | [Read More](https://medium.com/p/69a151866e47) |
 | Tue, 27 Jan 2026 16:27:21 GMT | AI Antivirus | Christian Rodriguez | [Read More](https://medium.com/p/642ff143c638) |
 | Tue, 27 Jan 2026 16:21:15 GMT | Skip the 3-year wait — start your cyber career now | MUHAMMAD UZAIR | [Read More](https://medium.com/p/47d4b780eec9) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 Jan 2026 11:47:34 GMT | Cyber Campaigns: Fix this, Fix that — Part 2 | Shivam Bathla | [Read More](https://medium.com/p/ba2c065d1f14) |
 | Tue, 27 Jan 2026 11:46:09 GMT | This article provides updated technical details on the Blackmoon malware campaign and its… | Osama Faheem | [Read More](https://medium.com/p/82843298bbef) |
 | Tue, 27 Jan 2026 11:42:15 GMT | Locked in a Box: How iOS Sandboxing Challenges Pentesters | Redfox Security | [Read More](https://medium.com/p/8207476da296) |
-| Tue, 27 Jan 2026 11:41:14 GMT | A hands-on SOC lab guide to detecting scans, brute-force attacks, and malware using Wireshark | Kodeesh | [Read More](https://medium.com/p/7e282d3c692c) |
-| Tue, 27 Jan 2026 11:36:28 GMT | Your Email Address Is a Tracking Device. Here’s How to Break Free | Dan Christ | [Read More](https://medium.com/p/0cdfa77992f8) |
-| Tue, 27 Jan 2026 11:35:38 GMT | Taiwan’s Shield: Cyber, Chips, and Tea | Ty Y. | [Read More](https://medium.com/p/72229e8fd4ba) |
-| Tue, 27 Jan 2026 11:21:46 GMT | the feeling of wanting to be loved, but being afraid to show vulnerability. | seashore | [Read More](https://medium.com/p/8cccac5ec4aa) |
-| Tue, 27 Jan 2026 11:18:08 GMT | How Cybersecurity and Artificial Intelligence Are Shaping Cyberspace | Festus Ayo | [Read More](https://medium.com/p/9ec52f5dbca5) |
-| Tue, 27 Jan 2026 11:15:41 GMT | er Kickstart Your Career in Cyber Security! | Molletibalu | [Read More](https://medium.com/p/791d1f351a93) |
-| Tue, 27 Jan 2026 11:15:20 GMT | Imagery — Hack The Box | Al3xx | [Read More](https://medium.com/p/fd8d4fba9d98) |
-| Tue, 27 Jan 2026 11:15:00 GMT | KodeKloud AWS Challenge — Day 30: Enabling Internet Access for a Private EC2 Using a NAT Instance | Kishor Bhairat | [Read More](https://medium.com/p/b2a121cd2326) |
-| Tue, 27 Jan 2026 11:11:50 GMT | ️ Runtime Protection: Defending the Application from Within | Esra Kayhan | [Read More](https://medium.com/p/4c7af87c01ca) |
-| Tue, 27 Jan 2026 11:11:31 GMT | ️ Multi-Layer Defense Design at the Network Layer — Deepening the Defense ️ | Esra Kayhan | [Read More](https://medium.com/p/d3fced77b718) |
-| Tue, 27 Jan 2026 11:11:09 GMT | Affordable Hosting That Doesn’t Feel Like a Compromise | Mary Thomas | [Read More](https://medium.com/p/20c895e2051a) |
-| Tue, 27 Jan 2026 11:08:19 GMT | From $0 to Your First Bug Bounty: A Beginner’s 14-Day Roadmap (2026, No Paid Tools) | BugHunter’s Journal | [Read More](https://medium.com/p/e6d0cc990c92) |
-| Tue, 27 Jan 2026 11:06:55 GMT | Anti-Fake Microsoft Teams App: Meeting Global AI Regulations in 2026 | UncovAI | [Read More](https://medium.com/p/13cf7c6e6f12) |
