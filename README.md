@@ -12,12 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 Jan 2026 20:33:55 GMT | Understanding Technology in the Digital Age | Taziz Aziz | [Read More](https://medium.com/p/c0bcfa0794be) |
+| Tue, 27 Jan 2026 20:32:22 GMT | Day 3: Networking Fundamentals — TCP/IP & OSI Model | Siddhesh Patil | [Read More](https://medium.com/p/a5a098580ebf) |
+| Tue, 27 Jan 2026 20:23:19 GMT | HTTP Requests, Responses, Headers & Methods for Beginners | Anshkamra | [Read More](https://medium.com/p/d00c790a78fe) |
+| Tue, 27 Jan 2026 20:22:59 GMT | The Robots Are Coming for Your Inbox: How Generative AI Fueled a 1,265% Phishing Apocalypse | Ann Isabelle | [Read More](https://medium.com/p/b65beaec959c) |
 | Tue, 27 Jan 2026 20:16:27 GMT | Outsourced IT Support Can Become A Hidden Risk | Geoffrey Wenger | [Read More](https://medium.com/p/07eca11caa22) |
 | Tue, 27 Jan 2026 20:14:21 GMT | Cyber Campaigns: Fix this, Fix that — ConsentFix | Shivam Bathla | [Read More](https://medium.com/p/ab3b6a3c38b8) |
 | Tue, 27 Jan 2026 20:07:39 GMT | Cuando el límite está fuera | D.V. Torres | [Read More](https://medium.com/p/a766a93bb1ef) |
 | Tue, 27 Jan 2026 20:05:54 GMT | The Report - Blue Team Labs | Nicksondiazm | [Read More](https://medium.com/p/97048f83b526) |
 | Tue, 27 Jan 2026 20:03:53 GMT | TryHackMe - SOC Role in Blue Team | Serhan Kırca | [Read More](https://medium.com/p/8e9994c2edf2) |
 | Tue, 27 Jan 2026 20:03:52 GMT | Secure SDLC + Threat Modelling — The Layman Way | The Darkarmy | [Read More](https://medium.com/p/64af108b196e) |
+| Tue, 27 Jan 2026 20:02:32 GMT | The Silent Threat: When Your Laptop Isn’t Just Stolen — It’s Targeted | Francis Pahipang Namouz | [Read More](https://medium.com/p/a5db731c0c6b) |
 | Tue, 27 Jan 2026 20:01:01 GMT | ❄️ SNOWPRO SPECIALTY: GEN AI CERTIFICATION Tutorial (Part 4 — Security) | Eylon Steiner | [Read More](https://medium.com/p/e4ce0bf70a2c) |
 | Tue, 27 Jan 2026 20:00:40 GMT | So, the main SMS service is dead. Here is what I’m using now. | NNayak | [Read More](https://medium.com/p/c082d0f31568) |
 | Tue, 27 Jan 2026 19:59:50 GMT | TryHackMe Password Attacks: Last Question walkthrough | Mario Jorge Limeira dos Santos | [Read More](https://medium.com/p/a977fa56a98f) |
@@ -48,6 +53,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 Jan 2026 18:20:32 GMT | Prompt Injection: The SQL Injection of AI + How to Defend | Lukas Niessen | [Read More](https://medium.com/p/2a28c6f3bc05) |
 | Tue, 27 Jan 2026 18:18:47 GMT | AI Security Tools — January 2026 | Tal Eliyahu | [Read More](https://medium.com/p/ed4636eb31e8) |
 | Tue, 27 Jan 2026 18:17:05 GMT | Threat Modeling for Smart Contracts: How to Stop Guessing About Security | Exploitless | [Read More](https://medium.com/p/6f5a0ba883e1) |
+| Tue, 27 Jan 2026 18:16:31 GMT | The Smart Way to Handle File Uploads & Sharing in WordPress (Without Security Risks) | Jane Brian | [Read More](https://medium.com/p/7929f4e578f8) |
 | Tue, 27 Jan 2026 18:02:39 GMT | Why 2026 Might Be the Year Cybersecurity Finally Breaks (Or Gets Fixed) | Abdelaziz moustakim | [Read More](https://medium.com/p/fa3732eb7699) |
 | Tue, 27 Jan 2026 18:02:21 GMT | Optimizing Human Capital in Cybersecurity through Traditional Chinese Medicine and Internal… | Quintius Walker | [Read More](https://medium.com/p/8ce52a9e5a7b) |
 | Tue, 27 Jan 2026 18:02:07 GMT | Passive Reconnaissance: How Attacks Really Begin(A Realistic Story From Labs, Not a Movie) | SoBatista | [Read More](https://medium.com/p/fac8cf6cdebf) |
@@ -103,12 +109,6 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 Jan 2026 14:54:34 GMT | I Moved Three Domains Away From Google — And I’m Not Going Back | Marco Schneider | [Read More](https://medium.com/p/4cf835e71b1d) |
 | Tue, 27 Jan 2026 14:53:10 GMT | Government authorities responsible for cybersecurity | mahammad | [Read More](https://medium.com/p/66c0b05434f8) |
 | Tue, 27 Jan 2026 14:49:22 GMT | Building a Zero-Knowledge Login Flow in Go — No Password Ever Sent to the Server | Md. Mehedi Hasan | [Read More](https://medium.com/p/956e8cb6c8a8) |
+| Tue, 27 Jan 2026 14:49:11 GMT | ​Title: Understanding CVE-2024–5274: A Critical Chrome Vulnerability and How to Protect Yourself | Yusha_kahn | [Read More](https://medium.com/p/030d6ea90df0) |
 | Tue, 27 Jan 2026 14:46:19 GMT | Microsoft Warns of Sophisticated AiTM Phishing Attacks Targeting Enterprise Email Systems | Chetan Seripally | [Read More](https://medium.com/p/4fc43f8e0c94) |
 | Tue, 27 Jan 2026 14:45:19 GMT | Cloudflare Outages: Causes, Impact, and Systemic Risk to the Internet | Ashish Krishna Pavan Gade | [Read More](https://medium.com/p/d680e7b843f1) |
-| Tue, 27 Jan 2026 14:32:54 GMT | Introduction to Network Penetration Testing: A Comprehensive Guide | Vignesh R | [Read More](https://medium.com/p/f5fdcd517f70) |
-| Tue, 27 Jan 2026 14:30:42 GMT | Tryhackme Basic Pentesting CTF Write-Up | Kandemirryigit | [Read More](https://medium.com/p/cc59efac451c) |
-| Tue, 27 Jan 2026 14:28:35 GMT | The Soft Underbelly of AI: Managing an Invisible War ️ | SedaEfe | [Read More](https://medium.com/p/7ce28c9c94ef) |
-| Tue, 27 Jan 2026 14:26:53 GMT | Firewall: The First Line of Defense in Modern Applications | Suraj Bhandari | [Read More](https://medium.com/p/76770741b10f) |
-| Tue, 27 Jan 2026 14:26:53 GMT | Why the Strongest People Are Often the Most Broken Inside | Flaye Kate | [Read More](https://medium.com/p/97275351307b) |
-| Tue, 27 Jan 2026 14:22:53 GMT | Building a Cybersecurity Lab in AWS Part 3: Networking & Learning by Doing | Charles Christiansen | [Read More](https://medium.com/p/796f290dc2d7) |
-| Tue, 27 Jan 2026 14:21:06 GMT | How Fortray Engineered a Secure, Multi-Platform IT Environment for 40+ Users? | Umar Waseem | [Read More](https://medium.com/p/00980ee23c56) |
