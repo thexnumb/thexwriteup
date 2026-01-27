@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 Jan 2026 05:24:36 GMT | Building My Pentesting Lab: A Step-by-Step Guide to Installing Kali Linux on VirtualBox | Farrelakbar | [Read More](https://medium.com/p/6ed7172a0cd0) |
+| Tue, 27 Jan 2026 05:16:35 GMT | Living Off The Land (LOTL): When the Attacker Uses Your Own Tools Against You | Daniel Isaac E | [Read More](https://medium.com/p/6a2abde89d28) |
+| Tue, 27 Jan 2026 05:15:59 GMT | The Cryptography Concept Journey — Overview of Cryptography | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/524f584acd66) |
+| Tue, 27 Jan 2026 05:11:45 GMT | How Jetking Chandigarh Stepped Me Out in the Crowded Market | JetkingChandigarh | [Read More](https://medium.com/p/4d8294414851) |
+| Tue, 27 Jan 2026 05:03:21 GMT | Android Security Settings You Must Enable Today to Protect Your Phone | Blue Bird Digital Technology | [Read More](https://medium.com/p/f5d53228ba01) |
+| Tue, 27 Jan 2026 04:48:07 GMT | Linux Luminarian: A Write-Up | Avigail Laing | [Read More](https://medium.com/p/10e969b05213) |
 | Tue, 27 Jan 2026 04:36:01 GMT | How to Check if Your iCloud or Gmail Account Was Part of the 149 Million Record Leak. | Technologia | [Read More](https://medium.com/p/7e078df8ea14) |
 | Tue, 27 Jan 2026 04:34:35 GMT | Kioptrix Level 2 Walkthrough — A Practical Web Penetration Testing Lab | Wing Code | [Read More](https://medium.com/p/ad85a36c3ecd) |
 | Tue, 27 Jan 2026 04:28:15 GMT | Mindmaps for Cybersecurity (Freeplane) | cyber_0xGambit | [Read More](https://medium.com/p/78452dd2717e) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 Jan 2026 18:48:51 GMT | Your Network Isn’t the Perimeter Anymore. Identity Is. | rundiable | [Read More](https://medium.com/p/86c92ced614f) |
 | Mon, 26 Jan 2026 18:44:47 GMT | How I Test a Website as a Red Team Intern (My Workflow) | Vidya Penumarthi | [Read More](https://medium.com/p/274ce4dc8f97) |
 | Mon, 26 Jan 2026 18:43:12 GMT | Sticky Situation — A Forensics Walkthrough for Humans, Hackers, and the Chronically Curious | Robin Noyes | [Read More](https://medium.com/p/0ece54acb89a) |
-| Mon, 26 Jan 2026 18:35:53 GMT | Hack The Box — Imagery Machine Walk-through | SubhaDip | [Read More](https://medium.com/p/20cb4fe04431) |
-| Mon, 26 Jan 2026 18:35:14 GMT | How a Single Email Turned My ClawdBot Into a Data Leak | William Peltomäki | [Read More](https://medium.com/p/1058792e783a) |
-| Mon, 26 Jan 2026 18:34:47 GMT | WHEN MISFORTUNE BECOMES A CRIME SCENE: A SOCIETY THAT PROFITS FROM DISTRESS | John A. Dosunmu | [Read More](https://medium.com/p/73e0c64b2968) |
-| Mon, 26 Jan 2026 18:34:29 GMT | IA como ferramenta, não como resposta | Rafael Torres | [Read More](https://medium.com/p/94b489114b42) |
-| Mon, 26 Jan 2026 18:27:14 GMT | I Stopped Trusting git clone Blindly. So I Built an AI Firewall for My Terminal | Behram Bazo | [Read More](https://medium.com/p/53d9e41890ad) |
-| Mon, 26 Jan 2026 18:23:20 GMT | ISPs Hate RAM Hash Based P2P Internet Theory. | Ethan G Appleby | [Read More](https://medium.com/p/395e6274de48) |
