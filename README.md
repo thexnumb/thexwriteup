@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 Jan 2026 21:28:33 GMT | Mastering MITRE ATT&CK: The Definitive Guide for Modern SOC Analysts | Somesh | [Read More](https://medium.com/p/1f638d895aa3) |
 | Tue, 27 Jan 2026 21:07:33 GMT | What can a Quantum Computer actually do? | Darius Chifor | [Read More](https://medium.com/p/0e2e05b19838) |
 | Tue, 27 Jan 2026 20:50:05 GMT | SOC HomeLab — Part 5 (Integration with Shuffle) | Archit Vats | [Read More](https://medium.com/p/574fcd46147a) |
 | Tue, 27 Jan 2026 20:33:55 GMT | Understanding Technology in the Digital Age | Taziz Aziz | [Read More](https://medium.com/p/c0bcfa0794be) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 Jan 2026 14:54:34 GMT | I Moved Three Domains Away From Google — And I’m Not Going Back | Marco Schneider | [Read More](https://medium.com/p/4cf835e71b1d) |
 | Tue, 27 Jan 2026 14:53:10 GMT | Government authorities responsible for cybersecurity | mahammad | [Read More](https://medium.com/p/66c0b05434f8) |
 | Tue, 27 Jan 2026 14:49:22 GMT | Building a Zero-Knowledge Login Flow in Go — No Password Ever Sent to the Server | Md. Mehedi Hasan | [Read More](https://medium.com/p/956e8cb6c8a8) |
-| Tue, 27 Jan 2026 14:49:11 GMT | ​Title: Understanding CVE-2024–5274: A Critical Chrome Vulnerability and How to Protect Yourself | Yusha_kahn | [Read More](https://medium.com/p/030d6ea90df0) |
