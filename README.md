@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 Jan 2026 23:33:46 GMT | Mr Robot CTF TryHackMe Room | Dharmendrakumar | [Read More](https://medium.com/p/c362f8061b12) |
+| Tue, 27 Jan 2026 23:28:07 GMT | Lessons Learned From OSCP+ | 0liverFlow | [Read More](https://medium.com/p/f988f00a49a8) |
+| Tue, 27 Jan 2026 23:26:12 GMT | َالْحَمْدُ لِلَّهِ، وَالصَّلَاةُ وَالسَّلَامُ عَلَى رَسُولِ اللَّهِ، اللَّهُمَّ عَلِّمْنَا مَا… | Abood_XHacker | [Read More](https://medium.com/p/cda90bb92375) |
 | Tue, 27 Jan 2026 23:10:15 GMT | Group Policy (GPO) | Barbaros | [Read More](https://medium.com/p/0c68f13be9c6) |
 | Tue, 27 Jan 2026 23:01:04 GMT | Azure Policy at scale: DeployIfNotExists patterns that don’t melt ops | Practical IT | [Read More](https://medium.com/p/6b9a9a0fac9a) |
 | Tue, 27 Jan 2026 23:01:03 GMT | Check After Check | Mykell | [Read More](https://medium.com/p/cde3bf363b63) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 Jan 2026 16:19:55 GMT | One Email Is All You Need: Self-Testing Clawdbot for Indirect Prompt Injection | Matan Levi | [Read More](https://medium.com/p/faee321e6c53) |
 | Tue, 27 Jan 2026 16:18:18 GMT | DNS — the Internet Phonebook | Amandogra | [Read More](https://medium.com/p/e13962649713) |
 | Tue, 27 Jan 2026 16:17:09 GMT | The Zero-Click Heist: When Your AI’s “Accuracy” Becomes Its Greatest Flaw | OWASP PCCoE | [Read More](https://medium.com/p/3910a9c2e38b) |
-| Tue, 27 Jan 2026 16:16:54 GMT | Stop Pushing Him Away: Why Testing Your Partner Will Destroy Your Love | Sandy Watt | [Read More](https://medium.com/p/b35f13af1620) |
-| Tue, 27 Jan 2026 16:15:07 GMT | How to Recover Stolen Crypto from Rubybexflm | David Neves | [Read More](https://medium.com/p/16141876a955) |
-| Tue, 27 Jan 2026 16:13:41 GMT | 12-Week AI-Detection Mastery Roadmap | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/8df30e6e8924) |
