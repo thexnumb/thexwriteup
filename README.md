@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 Jan 2026 16:28:58 GMT | Day 1 : Understanding the Local File Inclusion LFI | Cybersecurity with Jojo | [Read More](https://medium.com/p/69a151866e47) |
+| Tue, 27 Jan 2026 16:27:21 GMT | AI Antivirus | Christian Rodriguez | [Read More](https://medium.com/p/642ff143c638) |
+| Tue, 27 Jan 2026 16:21:15 GMT | Skip the 3-year wait — start your cyber career now | MUHAMMAD UZAIR | [Read More](https://medium.com/p/47d4b780eec9) |
+| Tue, 27 Jan 2026 16:19:55 GMT | One Email Is All You Need: Self-Testing Clawdbot for Indirect Prompt Injection | Matan Levi | [Read More](https://medium.com/p/faee321e6c53) |
+| Tue, 27 Jan 2026 16:18:18 GMT | DNS — the Internet Phonebook | Amandogra | [Read More](https://medium.com/p/e13962649713) |
+| Tue, 27 Jan 2026 16:17:09 GMT | The Zero-Click Heist: When Your AI’s “Accuracy” Becomes Its Greatest Flaw | OWASP PCCoE | [Read More](https://medium.com/p/3910a9c2e38b) |
+| Tue, 27 Jan 2026 16:16:54 GMT | Stop Pushing Him Away: Why Testing Your Partner Will Destroy Your Love | Sandy Watt | [Read More](https://medium.com/p/b35f13af1620) |
+| Tue, 27 Jan 2026 16:15:07 GMT | How to Recover Stolen Crypto from Rubybexflm | David Neves | [Read More](https://medium.com/p/16141876a955) |
+| Tue, 27 Jan 2026 16:13:41 GMT | 12-Week AI-Detection Mastery Roadmap | Scott Bolen - RONIN OWL CTI | [Read More](https://medium.com/p/8df30e6e8924) |
+| Tue, 27 Jan 2026 16:09:20 GMT | Behavioral Twinning: The Proactive Shield Federated Learning Needs Now | Bhuvan Chandra Thuluva | [Read More](https://medium.com/p/659aad2d0601) |
+| Tue, 27 Jan 2026 16:05:19 GMT | The False Economy of Cheap Cybersecurity | JSOC IT BLOG | [Read More](https://medium.com/p/a2f8f342d918) |
+| Tue, 27 Jan 2026 16:04:15 GMT | 10 Common Cyber Defense Mistakes Security Teams Still Make | Shahzaib | [Read More](https://medium.com/p/1ee2de66b9ee) |
+| Tue, 27 Jan 2026 15:53:30 GMT | How to Recover Stolen Crypto | David Neves | [Read More](https://medium.com/p/6df4a2a818f7) |
+| Tue, 27 Jan 2026 15:53:27 GMT | Why Secure SDLC Matters for Modern Software Teams | Siddiquimohammad | [Read More](https://medium.com/p/81637ed91d03) |
+| Tue, 27 Jan 2026 15:51:50 GMT | Security versus ICE | Ricardo Figueroa | [Read More](https://medium.com/p/5caa79a1e5d7) |
+| Tue, 27 Jan 2026 15:47:26 GMT | How Security Camera Systems Work in Daily Life | Alex Bryn | [Read More](https://medium.com/p/9928ea9ac151) |
+| Tue, 27 Jan 2026 15:46:57 GMT | If your “AI Coworker” Gets Targeted, What Tips You Off First? | Wes Young | [Read More](https://medium.com/p/b7661e4d70b1) |
 | Tue, 27 Jan 2026 15:28:16 GMT | Large Language Models for Automated Malware Generation and Analysis: A Systematic Review of… | Adiltuladhar | [Read More](https://medium.com/p/bf4546e95f3b) |
 | Tue, 27 Jan 2026 15:20:54 GMT | Level Up Your Cyber Security Game: 5 AI Tools to Learn Now | Niharika | [Read More](https://medium.com/p/40a27810aff4) |
 | Tue, 27 Jan 2026 15:13:02 GMT | BeetleBug pentest | Mohammed Saber Abdalazim | [Read More](https://medium.com/p/60114e7c128e) |
@@ -95,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 Jan 2026 11:11:09 GMT | Affordable Hosting That Doesn’t Feel Like a Compromise | Mary Thomas | [Read More](https://medium.com/p/20c895e2051a) |
 | Tue, 27 Jan 2026 11:08:19 GMT | From $0 to Your First Bug Bounty: A Beginner’s 14-Day Roadmap (2026, No Paid Tools) | BugHunter’s Journal | [Read More](https://medium.com/p/e6d0cc990c92) |
 | Tue, 27 Jan 2026 11:06:55 GMT | Anti-Fake Microsoft Teams App: Meeting Global AI Regulations in 2026 | UncovAI | [Read More](https://medium.com/p/13cf7c6e6f12) |
-| Tue, 27 Jan 2026 11:02:17 GMT | Your Phone Is Not as Secure as You Think | Abdullah Javeed | [Read More](https://medium.com/p/52be80842cca) |
-| Tue, 27 Jan 2026 10:59:41 GMT | THE FUTURE OF CYBERSECURITY: KEY TRENDS TO WATCH IN 2026 | Raphaam Digital (Cyber Security Updates) | [Read More](https://medium.com/p/a2f017fb6489) |
-| Tue, 27 Jan 2026 10:58:14 GMT | Tryhackme C4ptur3-th3-fl4g CTF Write-Up | Kandemirryigit | [Read More](https://medium.com/p/dbfa8e75f62f) |
-| Tue, 27 Jan 2026 10:55:52 GMT | I Reported an IDOR, Made $25,000, and Learned More About Bug Bounties Than I Expected | Justas_b_2 | [Read More](https://medium.com/p/8354e68e1ffe) |
-| Tue, 27 Jan 2026 10:52:47 GMT | Ricochet Chollima APT Adversary Simulation | S3N4T0R | [Read More](https://medium.com/p/b0258be69c37) |
-| Tue, 27 Jan 2026 10:48:20 GMT | Unlocking the Future of Cybersecurity: Understanding Your Security Posture with PlutoSec | Plutosec Cyber Security | [Read More](https://medium.com/p/8f884102b691) |
-| Tue, 27 Jan 2026 10:40:10 GMT | The Clawdbot Security Trap Everyone Missed | Suleiman Tawil | [Read More](https://medium.com/p/4a7c66b48134) |
-| Tue, 27 Jan 2026 10:39:09 GMT | Handling Toxic Clients in Tech Industry - Without losing face and mind | Pravir Raghu | [Read More](https://medium.com/p/643adf69ff09) |
-| Tue, 27 Jan 2026 10:38:30 GMT | The Upgrade Path Most Websites Get Wrong | Ann Taylor | [Read More](https://medium.com/p/40d9a872801b) |
-| Tue, 27 Jan 2026 10:26:28 GMT | Reliable Security Solutions with a 24 hr Locksmith in London Properties | The Lock Specialist Ltd | [Read More](https://medium.com/p/68d7e2db0e99) |
-| Tue, 27 Jan 2026 10:25:23 GMT | Phishing Analysis 2 — BTLO Room | Nishasorallikar | [Read More](https://medium.com/p/d0ba52ca4ec4) |
-| Tue, 27 Jan 2026 10:24:17 GMT | pwnable.kr: tiny_easy writeup | Yael Shechter | [Read More](https://medium.com/p/9965222c409c) |
-| Tue, 27 Jan 2026 10:24:11 GMT | Top Cybersecurity Skills No College Is Teaching You
-Most colleges promise careers in cybersecurity. | Ankit rai | [Read More](https://medium.com/p/aff5a4523d3f) |
-| Tue, 27 Jan 2026 10:20:14 GMT | How to Audit APIs With Postman for Security Blind Spots | Mario Frohlich | [Read More](https://medium.com/p/1c9723906865) |
-| Tue, 27 Jan 2026 10:19:03 GMT | RIGGED: How AI Bot Farms Are Stealing Billions From Online Gamblers | Zoom In AI | [Read More](https://medium.com/p/2b80444800f7) |
-| Tue, 27 Jan 2026 10:18:59 GMT | 24 Hour Locksmith — Fast, Professional Support in London | The Lock Specialist Ltd | [Read More](https://medium.com/p/2191453e628b) |
-| Tue, 27 Jan 2026 10:14:55 GMT | Probably Just Fine -First-Shift-CTF - Walkthrough | Visir | [Read More](https://medium.com/p/b9a304526965) |
