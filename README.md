@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 27 Jan 2026 06:32:03 GMT | Proving Grounds Practice Crane Linux Lab | Cyb0rgBytes | [Read More](https://medium.com/p/d3013ce15710) |
+| Tue, 27 Jan 2026 06:26:23 GMT | Building Trustworthy Mobile Applications Through Proactive Security Validation | Cyber Fortify | [Read More](https://medium.com/p/ff4c90f2e867) |
+| Tue, 27 Jan 2026 06:19:39 GMT | AI-Driven Black Box Active Directory Penetration Testing | Andrey Pautov | [Read More](https://medium.com/p/8de0b9ad38b7) |
+| Tue, 27 Jan 2026 06:18:40 GMT | Deception Technology Market Growth: Key Trends, Industries, and Regional Insights | Michel mathew | [Read More](https://medium.com/p/7f5ad103d574) |
+| Tue, 27 Jan 2026 06:09:59 GMT | ️ How I Built an Enterprise-Style SOC Detection & Response Lab Using Wazuh SIEM | Om Gohil | [Read More](https://medium.com/p/d42081e5fc92) |
+| Tue, 27 Jan 2026 06:05:35 GMT | NCAE Sandbox Packet Man Ping V2 | Samuel McLamb | [Read More](https://medium.com/p/2490eadc485f) |
+| Tue, 27 Jan 2026 05:49:18 GMT | KC7: Frognado in Valdoria | Zuhair Nashif | [Read More](https://medium.com/p/8106f296c1fe) |
 | Tue, 27 Jan 2026 05:48:32 GMT | Tryhackme - Session Management - Walkthrough️‍♂️ | Sudarshan Patel | [Read More](https://medium.com/p/199c1cd0fd01) |
+| Tue, 27 Jan 2026 05:44:57 GMT | Palantir’s Internal Revolt, Grok’s CSAM Scandal, and TikTok’s Broken Takeover - The Daily Tech… | Souren Stepanyan | [Read More](https://medium.com/p/858d0467c973) |
 | Tue, 27 Jan 2026 05:24:36 GMT | Building My Pentesting Lab: A Step-by-Step Guide to Installing Kali Linux on VirtualBox | Farrelakbar | [Read More](https://medium.com/p/6ed7172a0cd0) |
 | Tue, 27 Jan 2026 05:16:35 GMT | Living Off The Land (LOTL): When the Attacker Uses Your Own Tools Against You | Daniel Isaac E | [Read More](https://medium.com/p/6a2abde89d28) |
 | Tue, 27 Jan 2026 05:15:59 GMT | The Cryptography Concept Journey — Overview of Cryptography | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/524f584acd66) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 26 Jan 2026 19:21:57 GMT | Cyber Defense Frameworks: Cyber Kill Chain | Ahmad Khaled | [Read More](https://medium.com/p/8f467b5fba35) |
 | Mon, 26 Jan 2026 19:19:11 GMT | The Cybersecurity Nexus — “AI” (January 2026) | Franklin Rhodes | [Read More](https://medium.com/p/148479df2fb6) |
 | Mon, 26 Jan 2026 19:16:17 GMT | UnderTheWire Century | Avigail Laing | [Read More](https://medium.com/p/14bde1a48d65) |
-| Mon, 26 Jan 2026 19:04:51 GMT | 149 Million Gmail, Social Media Passwords Leaked — The Gignomist | The Gignomist | [Read More](https://medium.com/p/5d9e79c9bc4e) |
-| Mon, 26 Jan 2026 19:01:26 GMT | I Almost Fell for a Scam — and I Teach Cybersecurity | Abdul-mu'min Omotola | [Read More](https://medium.com/p/cd31dac978e6) |
-| Mon, 26 Jan 2026 19:01:08 GMT | Hardening AI Models: Why Your “State-of-the-Art” Model Will Fail in Production | Pablo jusue | [Read More](https://medium.com/p/3b51bdd2dd71) |
-| Mon, 26 Jan 2026 18:59:44 GMT | TryHackMe OSINT Level 1 — What I learned | Cyber-Rat | [Read More](https://medium.com/p/8ede120dc467) |
-| Mon, 26 Jan 2026 18:50:47 GMT | Visual Studio Code (VS Code) — Secure Installation & CIS Hardening Guide — Part II | SOCFortress | [Read More](https://medium.com/p/e798bd03401b) |
-| Mon, 26 Jan 2026 18:50:11 GMT | Building Invisible Infrastructure: The Quiet Technology That Powers Trust | Kehinde Olawoyin MBA,PMP, CBAP, PSM | [Read More](https://medium.com/p/2c99cdd6677d) |
-| Mon, 26 Jan 2026 18:48:51 GMT | Your Network Isn’t the Perimeter Anymore. Identity Is. | rundiable | [Read More](https://medium.com/p/86c92ced614f) |
-| Mon, 26 Jan 2026 18:44:47 GMT | How I Test a Website as a Red Team Intern (My Workflow) | Vidya Penumarthi | [Read More](https://medium.com/p/274ce4dc8f97) |
