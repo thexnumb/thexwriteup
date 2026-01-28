@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 Jan 2026 06:31:51 GMT | HackTheBox Dancing room | Sagarkadyan | [Read More](https://medium.com/p/dd84825b0e4a) |
+| Wed, 28 Jan 2026 06:20:35 GMT | SaaS Management Platforms Market Trends and Key Drivers | Michel mathew | [Read More](https://medium.com/p/595c8ae81142) |
+| Wed, 28 Jan 2026 06:11:50 GMT | OWASP 2025 | Supriya | [Read More](https://medium.com/p/92e81d56474e) |
+| Wed, 28 Jan 2026 06:11:20 GMT | Coin Master Mod Apk | genzvnmod | [Read More](https://medium.com/p/55df383309fd) |
+| Wed, 28 Jan 2026 06:05:21 GMT | Microsoft Solution Partner in US - IFI Techsolutions | IFI Techsolutions | [Read More](https://medium.com/p/7ae6f44b1f72) |
+| Wed, 28 Jan 2026 06:02:16 GMT | Top 5 Strategies for Red Teaming with Incident Response | NetWitness | [Read More](https://medium.com/p/cfd9cf942af3) |
+| Wed, 28 Jan 2026 05:55:23 GMT | ఆడది రాసిన రామాయణం | Bunny | [Read More](https://medium.com/p/593548d962f1) |
+| Wed, 28 Jan 2026 05:55:20 GMT | SOC Analyst Journey — Day 8 | Faizan Nazir | [Read More](https://medium.com/p/f2a49aed7e8b) |
 | Wed, 28 Jan 2026 05:46:44 GMT | Cybersecurity in 2026: 5 Emerging Threats Every SMB Needs to Watch | Configr Technologies | [Read More](https://medium.com/p/37609f807c76) |
 | Wed, 28 Jan 2026 05:38:29 GMT | Secure Android Phone Without Apps — Built-In Protection Guide | Blue Bird Digital Technology | [Read More](https://medium.com/p/1c312de924fe) |
 | Wed, 28 Jan 2026 05:36:21 GMT | AI and the End of Strategic Monopoly: Distributed Power Beyond the Race | Kosi Gramatikoff | [Read More](https://medium.com/p/7fa598b23efe) |
@@ -105,11 +113,3 @@ SOC326 — Impersonating Domain MX Record Change Detected | Owais Ali Khan |
 | Tue, 27 Jan 2026 20:14:21 GMT | Cyber Campaigns: Fix this, Fix that — ConsentFix | Shivam Bathla | [Read More](https://medium.com/p/ab3b6a3c38b8) |
 | Tue, 27 Jan 2026 20:07:39 GMT | Cuando el límite está fuera | D.V. Torres | [Read More](https://medium.com/p/a766a93bb1ef) |
 | Tue, 27 Jan 2026 20:05:54 GMT | The Report - Blue Team Labs | Nicksondiazm | [Read More](https://medium.com/p/97048f83b526) |
-| Tue, 27 Jan 2026 20:03:53 GMT | TryHackMe - SOC Role in Blue Team | Serhan Kırca | [Read More](https://medium.com/p/8e9994c2edf2) |
-| Tue, 27 Jan 2026 20:03:52 GMT | Secure SDLC + Threat Modelling — The Layman Way | The Darkarmy | [Read More](https://medium.com/p/64af108b196e) |
-| Tue, 27 Jan 2026 20:02:32 GMT | The Silent Threat: When Your Laptop Isn’t Just Stolen — It’s Targeted | Francis Pahipang Namouz | [Read More](https://medium.com/p/a5db731c0c6b) |
-| Tue, 27 Jan 2026 20:01:01 GMT | ❄️ SNOWPRO SPECIALTY: GEN AI CERTIFICATION Tutorial (Part 4 — Security) | Eylon Steiner | [Read More](https://medium.com/p/e4ce0bf70a2c) |
-| Tue, 27 Jan 2026 20:00:40 GMT | So, the main SMS service is dead. Here is what I’m using now. | NNayak | [Read More](https://medium.com/p/c082d0f31568) |
-| Tue, 27 Jan 2026 19:59:50 GMT | TryHackMe Password Attacks: Last Question walkthrough | Mario Jorge Limeira dos Santos | [Read More](https://medium.com/p/a977fa56a98f) |
-| Tue, 27 Jan 2026 19:58:28 GMT | I Built an AI Spam Blocker Because I Was Tired of Scam Calls | Huseyin Sari | [Read More](https://medium.com/p/62436db7e5ab) |
-| Tue, 27 Jan 2026 19:56:58 GMT | Typosquatting in 2026: Why “Smart” Attackers Are Breaking Your String Distance Algorithms | Praveen Malhan | [Read More](https://medium.com/p/a607075e4693) |
