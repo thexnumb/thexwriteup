@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 Jan 2026 01:48:43 GMT | Networking: The Third Essential Utility of Modern Business | Eric, Yu | [Read More](https://medium.com/p/a6bb39f19c02) |
+| Wed, 28 Jan 2026 01:47:40 GMT | Securing Agentic AI Systems: A Defense-in-Depth Approach | Changez Akram | [Read More](https://medium.com/p/98bffb1ae6c7) |
+| Wed, 28 Jan 2026 01:45:17 GMT | The Doomsday Clock: A Scary Symbol, Not a Final Truth | Sbamsa3 | [Read More](https://medium.com/p/fd8965dbf5f4) |
+| Wed, 28 Jan 2026 01:42:12 GMT | Beyond the “Human Error” Fallacy: A Systems Perspective on Security | aLekZ | [Read More](https://medium.com/p/800ee77ea488) |
+| Wed, 28 Jan 2026 01:34:44 GMT | That Weird TikTok Week? I call it an Echo. And I’m Wondering If It’s About to Happen Again. | Rebecca Maehlum | [Read More](https://medium.com/p/be5c34119580) |
+| Wed, 28 Jan 2026 01:31:01 GMT | Authorization in NestJS Without the Fairy Tales | Vectorlane | [Read More](https://medium.com/p/4698a3e0e371) |
+| Wed, 28 Jan 2026 01:30:21 GMT | Active Malware Campaign Abusing Fake reCAPTCHA to Deliver Fileless PowerShell Malware | Regan Temudo | [Read More](https://medium.com/p/1461235ebba9) |
+| Wed, 28 Jan 2026 01:30:05 GMT | Unearthing the Truth in DC-4 - Breaking Strongholds & Command Injection ️ | Nicholas Mullenski | [Read More](https://medium.com/p/fb86d36c9047) |
+| Wed, 28 Jan 2026 01:14:07 GMT | The Essential Guide to Wireless Security: WPA and WPA2 Explained | Raviteja Mureboina | [Read More](https://medium.com/p/fec4651c50a6) |
+| Wed, 28 Jan 2026 01:10:00 GMT | Act Now 48 Million Gmail Usernames And Passwords Leaked Online | Moni | [Read More](https://medium.com/p/7a42cad8d3f0) |
+| Wed, 28 Jan 2026 01:08:25 GMT | TRANSPOSTHUMANISM: | Ana María García Ibáñez | [Read More](https://medium.com/p/7aba6eaca7d3) |
+| Wed, 28 Jan 2026 00:42:02 GMT | When Quantum Computers Arrive, What will really change ? | Monarch | [Read More](https://medium.com/p/9347e3360a2b) |
+| Wed, 28 Jan 2026 00:34:36 GMT | Europe Is Gradually Replacing US Tech — What That Means for Global Small Businesses | BiyteLüm | [Read More](https://medium.com/p/3e1490c15621) |
+| Wed, 28 Jan 2026 00:27:33 GMT | DLL Hijacking: When the System Works Against Itself | Luis Santiago | [Read More](https://medium.com/p/1a26b105b458) |
+| Wed, 28 Jan 2026 00:24:34 GMT | AI Whispers from the Frontlines | Dr. Thomas Jreige | [Read More](https://medium.com/p/56c2a24dbe78) |
+| Wed, 28 Jan 2026 00:01:04 GMT | Hashcat Guide: Password Recovery and Security Auditing | JPablo13 | [Read More](https://medium.com/p/8e48f63ea27f) |
+| Tue, 27 Jan 2026 23:57:26 GMT | The Silent Messenger: When an Unknown Presence Speaks Through a Screen | Kathlene Herberger | [Read More](https://medium.com/p/44b33f478990) |
+| Tue, 27 Jan 2026 23:55:03 GMT | A Security Brief from a Restricted Island Zone — Isola Ravaiarina | Jahreddon | [Read More](https://medium.com/p/fb44b54e68e5) |
 | Tue, 27 Jan 2026 23:33:46 GMT | Mr Robot CTF TryHackMe Room | Dharmendrakumar | [Read More](https://medium.com/p/c362f8061b12) |
 | Tue, 27 Jan 2026 23:28:07 GMT | Lessons Learned From OSCP+ | 0liverFlow | [Read More](https://medium.com/p/f988f00a49a8) |
 | Tue, 27 Jan 2026 23:26:12 GMT | َالْحَمْدُ لِلَّهِ، وَالصَّلَاةُ وَالسَّلَامُ عَلَى رَسُولِ اللَّهِ، اللَّهُمَّ عَلِّمْنَا مَا… | Abood_XHacker | [Read More](https://medium.com/p/cda90bb92375) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 Jan 2026 17:35:37 GMT | When is authentic too risky? | Billie Burton | [Read More](https://medium.com/p/3e41218d68dc) |
 | Tue, 27 Jan 2026 17:26:19 GMT | Why Modern Security Feels Busy but Achieves Nothing | Oscar Antonangelo | [Read More](https://medium.com/p/4e0cb9b5a089) |
 | Tue, 27 Jan 2026 17:25:17 GMT | How I hacked a website just by looking at the source code Part-2 | Devansh Patel | [Read More](https://medium.com/p/375b21321815) |
-| Tue, 27 Jan 2026 17:23:39 GMT | BeetleBug APK – Mobile Security CTF Write-Up | Ahmedm Mohamed | [Read More](https://medium.com/p/2f10a0f85f3b) |
-| Tue, 27 Jan 2026 17:11:22 GMT | 7 Easy Strategies To Become The Unforgettable Grandparent Your Grandkids Will Cherish | Jade  O'Sullivan | [Read More](https://medium.com/p/c2abc939133a) |
-| Tue, 27 Jan 2026 17:07:56 GMT | Broken Authentication in APIs | Emmanuelnnebedum | [Read More](https://medium.com/p/33b3323542da) |
-| Tue, 27 Jan 2026 17:01:07 GMT | Rust Threads: How One Line of Code Can Kill Your Parallelism | 0xjustuzair | [Read More](https://medium.com/p/71a72b949d17) |
-| Tue, 27 Jan 2026 16:59:57 GMT | Infrastructure as Code (IaC) with Terraform: Beginner’s Guide | Adityadalwadi | [Read More](https://medium.com/p/25431bb01d46) |
-| Tue, 27 Jan 2026 16:55:50 GMT | Adults With ADHD Need This | CryptoKnight | [Read More](https://medium.com/p/aee8197ed2a6) |
-| Tue, 27 Jan 2026 16:54:07 GMT | Local Sovereign Nodes: Securing Private Finance with MCP in 2026 | LaLiSa | [Read More](https://medium.com/p/e9abf88e4db8) |
-| Tue, 27 Jan 2026 16:53:01 GMT | Why Mission-Critical Systems Must Be Stateless: A Case for Hospitals and Battlefields | Randyoliver | [Read More](https://medium.com/p/d8d821216ee3) |
-| Tue, 27 Jan 2026 16:46:25 GMT | Navigating Complexity: Leadership Through Strategy | Bernardo Mariano Jr | [Read More](https://medium.com/p/399df721adb5) |
-| Tue, 27 Jan 2026 16:42:18 GMT | HTB Writeup: Calamity | sugar | [Read More](https://medium.com/p/3a4a23324433) |
-| Tue, 27 Jan 2026 16:41:10 GMT | Access Control Guards Improve Event Venue Safety In 2025 | GPS Security Group Inc | [Read More](https://medium.com/p/1c24dd96cd00) |
-| Tue, 27 Jan 2026 16:38:58 GMT | Internet of Things (IoT) in 2026: How Connected Devices Are Transforming Businesses | Techridge Solutions | [Read More](https://medium.com/p/186de6b3be7c) |
-| Tue, 27 Jan 2026 16:28:58 GMT | Day 1 : Understanding the Local File Inclusion LFI | Cybersecurity with Jojo | [Read More](https://medium.com/p/69a151866e47) |
-| Tue, 27 Jan 2026 16:27:21 GMT | AI Antivirus | Christian Rodriguez | [Read More](https://medium.com/p/642ff143c638) |
-| Tue, 27 Jan 2026 16:21:15 GMT | Skip the 3-year wait — start your cyber career now | MUHAMMAD UZAIR | [Read More](https://medium.com/p/47d4b780eec9) |
-| Tue, 27 Jan 2026 16:19:55 GMT | One Email Is All You Need: Self-Testing Clawdbot for Indirect Prompt Injection | Matan Levi | [Read More](https://medium.com/p/faee321e6c53) |
-| Tue, 27 Jan 2026 16:18:18 GMT | DNS — the Internet Phonebook | Amandogra | [Read More](https://medium.com/p/e13962649713) |
-| Tue, 27 Jan 2026 16:17:09 GMT | The Zero-Click Heist: When Your AI’s “Accuracy” Becomes Its Greatest Flaw | OWASP PCCoE | [Read More](https://medium.com/p/3910a9c2e38b) |
