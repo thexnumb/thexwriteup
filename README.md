@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 Jan 2026 13:40:58 GMT | GParted 1.8 Partition Editor Improves FAT Handling | Khurram Shahzad | [Read More](https://medium.com/p/56d31dfbe19b) |
+| Wed, 28 Jan 2026 13:39:11 GMT | Do Not Overestimate Your Own Brilliance. And Never Underestimate the Observer. | Olena Ratsiuk | [Read More](https://medium.com/p/20019e3acbbe) |
+| Wed, 28 Jan 2026 13:31:12 GMT | The One Metric That Predicts GRC Failure | Navvz | [Read More](https://medium.com/p/9bbe08db9093) |
+| Wed, 28 Jan 2026 13:24:12 GMT | ISC² CSSLP Exam: Securing Software from the Inside Out (Part 5) | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/7dbd80fe96ba) |
+| Wed, 28 Jan 2026 13:20:02 GMT | From Magento Stores to Mobile Apps: Strategies for Growth, Security, and Performance | Chudovo OÜ | [Read More](https://medium.com/p/b0a0f35416e7) |
+| Wed, 28 Jan 2026 13:15:57 GMT | How I Earned a 4-Digit Bounty: Complete Account Takeover via Insecure Session Cookie | Aditya Sunny | [Read More](https://medium.com/p/75d1992c9367) |
+| Wed, 28 Jan 2026 13:15:12 GMT | CVE-2026–0800: Unauthenticated Stored Cross-Site Scripting in User Submitted Posts WordPress Plugin | Balamurugan R | [Read More](https://medium.com/p/303cfeecee1f) |
+| Wed, 28 Jan 2026 13:09:42 GMT | Hardening Production Access: Building a Raspberry Pi Bastion with SSH Keys and 2FA | Linux Amrit | [Read More](https://medium.com/p/803cac9622ff) |
+| Wed, 28 Jan 2026 13:07:39 GMT | Why Cybersecurity Is More About Thinking Like a Hacker Than Coding.. | Nayan Ghimire | [Read More](https://medium.com/p/2c9473d4eafe) |
+| Wed, 28 Jan 2026 13:01:03 GMT | When Nothing Looks Wrong — But You Still Don’t Trust the Logs | Faruk Ahmed | [Read More](https://medium.com/p/41c7b210c8b4) |
+| Wed, 28 Jan 2026 12:59:58 GMT | CAP-SRP v0.1.0: Cryptographic Proof of Safe Refusals for AI Systems | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/149c5d530409) |
+| Wed, 28 Jan 2026 12:57:10 GMT | How I Got My First Real Attention in Bug Bounty (And Why This Matters More Than Money) | Nayan Ghimire | [Read More](https://medium.com/p/702982e924ba) |
+| Wed, 28 Jan 2026 12:56:01 GMT | The Security Risks Hidden Inside Layoffs and Terminations | Maryam Taheri | [Read More](https://medium.com/p/c4f2638ca2a6) |
+| Wed, 28 Jan 2026 12:54:04 GMT | $500 for a UUID Swap: I Almost Gave Up on This IDOR | tinopreter | [Read More](https://medium.com/p/ae7a0adb518d) |
 | Wed, 28 Jan 2026 12:52:25 GMT | How to Recover an Account After it Gets Hacked | Gautam Basu | [Read More](https://medium.com/p/e9bc3f00c473) |
 | Wed, 28 Jan 2026 12:43:10 GMT | Building a Zero-Knowledge Notes & File Sharing App (ZeroVault) | Gadangi Sainag | [Read More](https://medium.com/p/02315135a5d4) |
 | Wed, 28 Jan 2026 12:32:08 GMT | Stored Cross-Site Scripting (XSS) Vulnerability Report | Ravi Pipalwa | [Read More](https://medium.com/p/c97788dd6ea6) |
@@ -21,9 +35,11 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 Jan 2026 12:11:01 GMT | Throttling Models for API Security — You Cannot Secure What You Can’t Control | Esra Kayhan | [Read More](https://medium.com/p/2ad88e21aada) |
 | Wed, 28 Jan 2026 12:07:31 GMT | IT Support Services for Businesses - Managed & Remote IT Solutions | Akash | [Read More](https://medium.com/p/1364ed1a6912) |
 | Wed, 28 Jan 2026 12:01:13 GMT | Careers in Artificial Intelligence: Skills, Jobs, Salaries & Growth Path | cyber security Updates | [Read More](https://medium.com/p/9e7f51e8ef94) |
+| Wed, 28 Jan 2026 11:50:52 GMT | VAPT Testing Services: Protect Your Business from Cyber Attacks | CyberSigma Consulting Services | [Read More](https://medium.com/p/2fdcd03f79d8) |
 | Wed, 28 Jan 2026 11:41:56 GMT | The Seven Phases of a Secure Software Development Lifecycle (SSDLC) | Siddiquimohammad | [Read More](https://medium.com/p/b48c846a7865) |
 | Wed, 28 Jan 2026 11:31:10 GMT | Stop Trusting OnlyYour Backend: Let PostgreSQL Enforce Data Security | Alessandro Tornesello | [Read More](https://medium.com/p/04bf2dae375f) |
 | Wed, 28 Jan 2026 11:21:11 GMT | Securing the Modern Web — React and Next.js | Md Shoriful Islam Ashiq | [Read More](https://medium.com/p/ff71015aa1c8) |
+| Wed, 28 Jan 2026 11:14:56 GMT | 5 Simple Habits for a Safer Internet Experience | VPNHouse | [Read More](https://medium.com/p/eb21d137e266) |
 | Wed, 28 Jan 2026 11:13:55 GMT | m00nwalk — When an Audio File Isn’t Meant to Be Heard | Soumyashree Sahoo | [Read More](https://medium.com/p/8367353e062b) |
 | Wed, 28 Jan 2026 11:12:45 GMT | 3 Ways to Authenticate GitHub from the Terminal: A Practical Guide | Sridevi Parimi | [Read More](https://medium.com/p/6667f6ef9890) |
 | Wed, 28 Jan 2026 11:11:08 GMT | The shine is not love; love begins when someone discovers your soul and chooses you for who you are. | Noor | [Read More](https://medium.com/p/abac88fe3543) |
@@ -79,6 +95,7 @@ Tools & Reasoning | MANJEET KUMAR | [Read More](https://medium.com/p/1ac8b4c0ae2
 | Wed, 28 Jan 2026 08:25:09 GMT | Why Most Companies Should NOT Hire a Red Team (Yet) | Yua Mikanana | [Read More](https://medium.com/p/52f2a8541400) |
 | Wed, 28 Jan 2026 08:01:04 GMT | GCP Network Reliability: Going Beyond the Basics with Cloud Armor and Private Service Connect | Amina lawal | [Read More](https://medium.com/p/af2637d8aa72) |
 | Wed, 28 Jan 2026 07:59:57 GMT | ACSMI Online Certification That Bridges Education and Cyber Defense | ACSMI | [Read More](https://medium.com/p/0869fb1d99a2) |
+| Wed, 28 Jan 2026 07:57:40 GMT | API SECURITY #2: API Keys vs OAuth vs JWTs vs mTLS | Sarah Nzeshi | [Read More](https://medium.com/p/bb77026cb391) |
 | Wed, 28 Jan 2026 07:49:21 GMT | The AI Security Handbook: Defending the Machine Learning Pipeline | Riad Moudjahed | [Read More](https://medium.com/p/e196cbe72773) |
 | Wed, 28 Jan 2026 07:47:21 GMT | Breaking the Guardrails: What I Learned from Red Teaming an LLM | Szilard Kecskemeti | [Read More](https://medium.com/p/d194ff35c0ea) |
 | Wed, 28 Jan 2026 07:31:37 GMT | Lab: Targeted web cache poisoning using an unknown header - Portswigger | L4V4NY4  AGR3 | [Read More](https://medium.com/p/7ec49786a485) |
@@ -96,20 +113,3 @@ Tools & Reasoning | MANJEET KUMAR | [Read More](https://medium.com/p/1ac8b4c0ae2
 | Wed, 28 Jan 2026 06:56:16 GMT | Danh sách 10 công ty bảo vệ uy tín, chuyên nghiệp nhất tại Quận 12 | Bảo vệ Ngày & Đêm Tây Bắc SG | [Read More](https://medium.com/p/f587f8d40c98) |
 | Wed, 28 Jan 2026 06:54:20 GMT | When SoundCloud Lost Control of Identity, Not Music | Prerna Shukla | [Read More](https://medium.com/p/6202aa7bf484) |
 | Wed, 28 Jan 2026 06:53:10 GMT | Engineering Database Activity Monitoring (DAM) - From Bare-Metal Linux to AWS RDS | Vijenex | [Read More](https://medium.com/p/d6592f7b7fb2) |
-| Wed, 28 Jan 2026 06:43:30 GMT | Visual Studio Code (VS Code) — Secure Installation & CIS Hardening Guide — Part III | SOCFortress | [Read More](https://medium.com/p/902c30bf27c0) |
-| Wed, 28 Jan 2026 06:42:32 GMT | Where to Download Popular Task Management Software for Teams | Promato | [Read More](https://medium.com/p/2545238b368a) |
-| Wed, 28 Jan 2026 06:41:14 GMT | CISSP Domain 8: Master Software Development Security with 10 Essential Questions | Pushpak Sharma | [Read More](https://medium.com/p/4ef74e27a221) |
-| Wed, 28 Jan 2026 06:40:08 GMT | How can I migrate Planet IX Token Swap and Rebranding | AERGO→HPP Token | [Read More](https://medium.com/p/92cb063ab938) |
-| Wed, 28 Jan 2026 06:31:51 GMT | HackTheBox Dancing room | Sagarkadyan | [Read More](https://medium.com/p/dd84825b0e4a) |
-| Wed, 28 Jan 2026 06:20:35 GMT | SaaS Management Platforms Market Trends and Key Drivers | Michel mathew | [Read More](https://medium.com/p/595c8ae81142) |
-| Wed, 28 Jan 2026 06:11:50 GMT | OWASP 2025 | Supriya | [Read More](https://medium.com/p/92e81d56474e) |
-| Wed, 28 Jan 2026 06:11:20 GMT | Coin Master Mod Apk | genzvnmod | [Read More](https://medium.com/p/55df383309fd) |
-| Wed, 28 Jan 2026 06:05:21 GMT | Microsoft Solution Partner in US - IFI Techsolutions | IFI Techsolutions | [Read More](https://medium.com/p/7ae6f44b1f72) |
-| Wed, 28 Jan 2026 06:02:16 GMT | Top 5 Strategies for Red Teaming with Incident Response | NetWitness | [Read More](https://medium.com/p/cfd9cf942af3) |
-| Wed, 28 Jan 2026 05:55:23 GMT | ఆడది రాసిన రామాయణం | Bunny | [Read More](https://medium.com/p/593548d962f1) |
-| Wed, 28 Jan 2026 05:55:20 GMT | SOC Analyst Journey — Day 8 | Faizan Nazir | [Read More](https://medium.com/p/f2a49aed7e8b) |
-| Wed, 28 Jan 2026 05:46:44 GMT | Cybersecurity in 2026: 5 Emerging Threats Every SMB Needs to Watch | Configr Technologies | [Read More](https://medium.com/p/37609f807c76) |
-| Wed, 28 Jan 2026 05:38:29 GMT | Secure Android Phone Without Apps — Built-In Protection Guide | Blue Bird Digital Technology | [Read More](https://medium.com/p/1c312de924fe) |
-| Wed, 28 Jan 2026 05:36:21 GMT | AI and the End of Strategic Monopoly: Distributed Power Beyond the Race | Kosi Gramatikoff | [Read More](https://medium.com/p/7fa598b23efe) |
-| Wed, 28 Jan 2026 05:34:24 GMT | Why Certificate Pinning Alone Won’t Stop Modern MITM Attacks | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/469e1d182bea) |
-| Wed, 28 Jan 2026 05:33:32 GMT | VulnLab: Captcha Bypass Çözümü | CyberSam | [Read More](https://medium.com/p/a385e357bf05) |
