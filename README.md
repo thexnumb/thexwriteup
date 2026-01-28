@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 Jan 2026 09:31:09 GMT | Managing AWS S3 Permissions at Scale with IAM Groups | Felipe Limeira | [Read More](https://medium.com/p/66035ff8a947) |
+| Wed, 28 Jan 2026 09:29:26 GMT | Streamlining Field Operations with Modern Field Service Software | Smithandy | [Read More](https://medium.com/p/6a6e2a645d3a) |
+| Wed, 28 Jan 2026 09:27:14 GMT | Who You Gotta Watch Out For | Illuminati Ganga Agent 86 | [Read More](https://medium.com/p/eaa6e4c934f4) |
+| Wed, 28 Jan 2026 09:26:44 GMT | Copypasta writeup (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/3f0fddabc9e1) |
+| Wed, 28 Jan 2026 09:24:43 GMT | Can You Hack a Human? Red Teamers Prove It Every Day | Redfox Security | [Read More](https://medium.com/p/35a78f43cf0f) |
+| Wed, 28 Jan 2026 09:17:01 GMT | Internal Privilege Escalation — PG Practice “Astronaut” | Solynth.exe | [Read More](https://medium.com/p/5af0bed55ca1) |
+| Wed, 28 Jan 2026 09:13:11 GMT | How I Fell for a Sophisticated Forex Scam — and What I Learned From It | Ed Gines | [Read More](https://medium.com/p/cc388190d3aa) |
+| Wed, 28 Jan 2026 09:06:49 GMT | ด่วน! แจ้งเตือนช่องโหว่ร้ายแรงใน Zoom Node Multimedia Routers เสี่ยงถูกโจมตีและยึดระบบได้ | ThaiCERT By NCSA | [Read More](https://medium.com/p/27650dcb30f2) |
+| Wed, 28 Jan 2026 09:01:04 GMT | What LeakRadar Finds That HaveIBeenPwned Doesn’t | Alexandre Vandamme | [Read More](https://medium.com/p/d10d6730dd97) |
+| Wed, 28 Jan 2026 08:59:17 GMT | Zero-Day Vulnerabilities | Vyntrix | [Read More](https://medium.com/p/f43b8f890fa2) |
+| Wed, 28 Jan 2026 08:57:07 GMT | 900+ Clawdbot Instances Exposed: What DeFi Teams Need to Know About AI Agent Security | Raiders | [Read More](https://medium.com/p/c8f28bc9c3d9) |
+| Wed, 28 Jan 2026 08:50:14 GMT | PowerShell Encoded Commands: Why Attackers Love It and How We Hunt It | Manish Rawat | [Read More](https://medium.com/p/ff680f5c8c35) |
+| Wed, 28 Jan 2026 08:49:10 GMT | Advanced SQLMap Techniques: Automating SQL Injection for Cybersecurity Professionals | Sneha | [Read More](https://medium.com/p/bae810ebeb2b) |
+| Wed, 28 Jan 2026 08:47:14 GMT | İnternetin Görünmez Mimarı: DNS Hakkında Bilmeniz Gereken Her Şey | Hsdfsmvu | [Read More](https://medium.com/p/9fd9a578ed55) |
+| Wed, 28 Jan 2026 08:46:30 GMT | The Challenge of Identity Verification in Global Finance: Finding the “Golden Balance” Between… | Yuanli Technology | [Read More](https://medium.com/p/0f4874619a83) |
+| Wed, 28 Jan 2026 08:38:42 GMT | Internal Access Control Failure — PG Practice “Access” | Solynth.exe | [Read More](https://medium.com/p/d648959ef208) |
+| Wed, 28 Jan 2026 08:38:35 GMT | Learning Bug Bounty the Hard Way: Notes, Mistakes, and Progress | Muhammad Zohaib | [Read More](https://medium.com/p/e304d02daf2a) |
 | Wed, 28 Jan 2026 08:32:10 GMT | The Quiet Glitch: How a Missing Rate Limit Opened the Door to Mass Account Abuse | Very Lazy Tech | [Read More](https://medium.com/p/0f143213cb8f) |
 | Wed, 28 Jan 2026 08:29:51 GMT | Lookup — TryHackMe Writeup/Walkthroug | sudo_0xksh | [Read More](https://medium.com/p/e7d58e644b0d) |
 | Wed, 28 Jan 2026 08:29:42 GMT | LazyAdmin — TryHackMe Writeup / Walkthrough | sudo_0xksh | [Read More](https://medium.com/p/4c53f1921984) |
@@ -32,6 +49,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 Jan 2026 07:00:34 GMT | The Windows Security Journey — KDMA Protection (Kernel Direct Memory Access Protection) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/5893c5a98fdf) |
 | Wed, 28 Jan 2026 06:59:32 GMT | GDPR gives you 72 hours to notify a breach. | Denny Roger | [Read More](https://medium.com/p/fa8190b3da1b) |
 | Wed, 28 Jan 2026 06:58:13 GMT | LLMs and GENAI Apps: Risk & Mitigations — Part 11: Unbounded Consumption! | Nothing Cyber [NC] | [Read More](https://medium.com/p/db3aef19b9d9) |
+| Wed, 28 Jan 2026 06:56:16 GMT | Danh sách 10 công ty bảo vệ uy tín, chuyên nghiệp nhất tại Quận 12 | Bảo vệ Ngày & Đêm Tây Bắc SG | [Read More](https://medium.com/p/f587f8d40c98) |
 | Wed, 28 Jan 2026 06:54:20 GMT | When SoundCloud Lost Control of Identity, Not Music | Prerna Shukla | [Read More](https://medium.com/p/6202aa7bf484) |
 | Wed, 28 Jan 2026 06:53:10 GMT | Engineering Database Activity Monitoring (DAM) - From Bare-Metal Linux to AWS RDS | Vijenex | [Read More](https://medium.com/p/d6592f7b7fb2) |
 | Wed, 28 Jan 2026 06:43:30 GMT | Visual Studio Code (VS Code) — Secure Installation & CIS Hardening Guide — Part III | SOCFortress | [Read More](https://medium.com/p/902c30bf27c0) |
@@ -95,21 +113,3 @@ SOC326 — Impersonating Domain MX Record Change Detected | Owais Ali Khan |
 | Wed, 28 Jan 2026 01:42:12 GMT | Beyond the “Human Error” Fallacy: A Systems Perspective on Security | aLekZ | [Read More](https://medium.com/p/800ee77ea488) |
 | Wed, 28 Jan 2026 01:34:44 GMT | That Weird TikTok Week? I call it an Echo. And I’m Wondering If It’s About to Happen Again. | Rebecca Maehlum | [Read More](https://medium.com/p/be5c34119580) |
 | Wed, 28 Jan 2026 01:31:01 GMT | Authorization in NestJS Without the Fairy Tales | Vectorlane | [Read More](https://medium.com/p/4698a3e0e371) |
-| Wed, 28 Jan 2026 01:30:21 GMT | Active Malware Campaign Abusing Fake reCAPTCHA to Deliver Fileless PowerShell Malware | Regan Temudo | [Read More](https://medium.com/p/1461235ebba9) |
-| Wed, 28 Jan 2026 01:30:05 GMT | Unearthing the Truth in DC-4 - Breaking Strongholds & Command Injection ️ | Nicholas Mullenski | [Read More](https://medium.com/p/fb86d36c9047) |
-| Wed, 28 Jan 2026 01:14:07 GMT | The Essential Guide to Wireless Security: WPA and WPA2 Explained | Raviteja Mureboina | [Read More](https://medium.com/p/fec4651c50a6) |
-| Wed, 28 Jan 2026 01:10:00 GMT | Act Now 48 Million Gmail Usernames And Passwords Leaked Online | Moni | [Read More](https://medium.com/p/7a42cad8d3f0) |
-| Wed, 28 Jan 2026 01:08:25 GMT | TRANSPOSTHUMANISM: | Ana María García Ibáñez | [Read More](https://medium.com/p/7aba6eaca7d3) |
-| Wed, 28 Jan 2026 00:42:02 GMT | When Quantum Computers Arrive, What will really change ? | Monarch | [Read More](https://medium.com/p/9347e3360a2b) |
-| Wed, 28 Jan 2026 00:34:36 GMT | Europe Is Gradually Replacing US Tech — What That Means for Global Small Businesses | BiyteLüm | [Read More](https://medium.com/p/3e1490c15621) |
-| Wed, 28 Jan 2026 00:27:33 GMT | DLL Hijacking: When the System Works Against Itself | Luis Santiago | [Read More](https://medium.com/p/1a26b105b458) |
-| Wed, 28 Jan 2026 00:24:34 GMT | AI Whispers from the Frontlines | Dr. Thomas Jreige | [Read More](https://medium.com/p/56c2a24dbe78) |
-| Wed, 28 Jan 2026 00:01:04 GMT | Hashcat Guide: Password Recovery and Security Auditing | JPablo13 | [Read More](https://medium.com/p/8e48f63ea27f) |
-| Tue, 27 Jan 2026 23:57:26 GMT | The Silent Messenger: When an Unknown Presence Speaks Through a Screen | Kathlene Herberger | [Read More](https://medium.com/p/44b33f478990) |
-| Tue, 27 Jan 2026 23:55:03 GMT | A Security Brief from a Restricted Island Zone — Isola Ravaiarina | Jahreddon | [Read More](https://medium.com/p/fb44b54e68e5) |
-| Tue, 27 Jan 2026 23:33:46 GMT | Mr Robot CTF TryHackMe Room | Dharmendrakumar | [Read More](https://medium.com/p/c362f8061b12) |
-| Tue, 27 Jan 2026 23:28:07 GMT | Lessons Learned From OSCP+ | 0liverFlow | [Read More](https://medium.com/p/f988f00a49a8) |
-| Tue, 27 Jan 2026 23:26:12 GMT | َالْحَمْدُ لِلَّهِ، وَالصَّلَاةُ وَالسَّلَامُ عَلَى رَسُولِ اللَّهِ، اللَّهُمَّ عَلِّمْنَا مَا… | Abood_XHacker | [Read More](https://medium.com/p/cda90bb92375) |
-| Tue, 27 Jan 2026 23:10:15 GMT | Group Policy (GPO) | Barbaros | [Read More](https://medium.com/p/0c68f13be9c6) |
-| Tue, 27 Jan 2026 23:01:04 GMT | Azure Policy at scale: DeployIfNotExists patterns that don’t melt ops | Practical IT | [Read More](https://medium.com/p/6b9a9a0fac9a) |
-| Tue, 27 Jan 2026 23:01:03 GMT | Check After Check | Mykell | [Read More](https://medium.com/p/cde3bf363b63) |
