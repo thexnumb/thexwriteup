@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 Jan 2026 04:34:28 GMT | 40 Essential Bash One-Liners for Pentesting-from my notes | Mosabbirshemul | [Read More](https://medium.com/p/c9903bd1adf5) |
+| Wed, 28 Jan 2026 04:31:07 GMT | Using SlowAPI in FastAPI: Mastering Rate Limiting Like a Pro | Shiladitya Majumder | [Read More](https://medium.com/p/19044cb6062b) |
+| Wed, 28 Jan 2026 04:27:06 GMT | One Month In: What Tools Don’t Teach You in a SOC | Alfredo Zablah | [Read More](https://medium.com/p/fe40bbeb9f51) |
+| Wed, 28 Jan 2026 04:24:43 GMT | LetsDefend — 
+SOC326 — Impersonating Domain MX Record Change Detected | Owais Ali Khan | [Read More](https://medium.com/p/52586a9b0581) |
+| Wed, 28 Jan 2026 04:20:14 GMT | Cybertelant-Red-Stone-Admin | SPIDER1SEC | [Read More](https://medium.com/p/ad7abd66215d) |
+| Wed, 28 Jan 2026 04:14:29 GMT | Geometry Dash Lite APK | Apkpuredev | [Read More](https://medium.com/p/e262f1a8260a) |
+| Wed, 28 Jan 2026 04:11:40 GMT | Picoctf - corrupt-key-1 | SPIDER1SEC | [Read More](https://medium.com/p/0fda6dbee8e2) |
+| Wed, 28 Jan 2026 04:09:28 GMT | Best Proxy Service 2026 Buying Guide | Gabriele Wayner | [Read More](https://medium.com/p/913ada242593) |
+| Wed, 28 Jan 2026 04:06:24 GMT | A Practical Analysis of Suricata IDS: Why Suricata Didn’t Alert | Zohal | [Read More](https://medium.com/p/cf17da74abec) |
+| Wed, 28 Jan 2026 04:02:54 GMT | The “TMI” Endpoint: Why Unauthenticated Health Checks Are a Hacker’s Best Friend (And Why I Got 0… | Zer0Figure | [Read More](https://medium.com/p/2945d21ea08f) |
+| Wed, 28 Jan 2026 03:51:12 GMT | How Autonomous AI Agents Are Redefining Cyber Threat Models in 2026 | Jackdavis Iap | [Read More](https://medium.com/p/fe7eab4fc12b) |
 | Wed, 28 Jan 2026 03:44:59 GMT | NCAE C2Games MiniHacks 2025 Challenge Walkthrough | Samuel McLamb | [Read More](https://medium.com/p/ea6f67bb2a0e) |
 | Wed, 28 Jan 2026 03:36:41 GMT | Exploiting SQL Injection with SQLMap | Cybeague Technologies | [Read More](https://medium.com/p/89f90efe5f80) |
 | Wed, 28 Jan 2026 03:36:02 GMT | Fingerprinting Web Technologies with WhatWeb | Cybeague Technologies | [Read More](https://medium.com/p/180d222df16d) |
@@ -101,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 Jan 2026 19:03:19 GMT | VulnNet: Roasted — TryHackMe Challenge Walkthrough | Hemantha Krishna Challa | [Read More](https://medium.com/p/59aa87cbd8a9) |
 | Tue, 27 Jan 2026 19:02:54 GMT | TryHackMe - GeoServer: CVE-2025-58360 - WriteUp | Axoloth | [Read More](https://medium.com/p/2d364d1dbe04) |
 | Tue, 27 Jan 2026 18:50:46 GMT | MITRE ATT&CK erklärt und umgangen | Nick Vidovic | [Read More](https://medium.com/p/f8e4913e096b) |
-| Tue, 27 Jan 2026 18:46:40 GMT | OSI Reference Model | SHUBHAM | [Read More](https://medium.com/p/1893a74d1dda) |
-| Tue, 27 Jan 2026 18:38:16 GMT | I Didn’t Just Lose People in 2025. I Lost Myself Too. | Michelle March | [Read More](https://medium.com/p/efefbe765b13) |
-| Tue, 27 Jan 2026 18:34:42 GMT | How I Found a Clickable Link Injection Issue in a Verification Email (Beginner Friendly) | Sahal | [Read More](https://medium.com/p/14fda535a4bf) |
-| Tue, 27 Jan 2026 18:34:02 GMT | Heap JVM Opensearch Wazuh | My Name is "Jadir" | [Read More](https://medium.com/p/58d6ee1bb070) |
-| Tue, 27 Jan 2026 18:33:32 GMT | When Anthropic Came Knocking: Trademark Wars and the Agentic Security Crisis | Dudethedogai | [Read More](https://medium.com/p/8e10673b609b) |
-| Tue, 27 Jan 2026 18:29:54 GMT | How COBIT and ITIL Enable Low-risk ERP Migrations? | Aimee Liu | [Read More](https://medium.com/p/29375d33e9e6) |
-| Tue, 27 Jan 2026 18:20:32 GMT | Prompt Injection: The SQL Injection of AI + How to Defend | Lukas Niessen | [Read More](https://medium.com/p/2a28c6f3bc05) |
-| Tue, 27 Jan 2026 18:18:47 GMT | AI Security Tools — January 2026 | Tal Eliyahu | [Read More](https://medium.com/p/ed4636eb31e8) |
-| Tue, 27 Jan 2026 18:17:05 GMT | Threat Modeling for Smart Contracts: How to Stop Guessing About Security | Exploitless | [Read More](https://medium.com/p/6f5a0ba883e1) |
-| Tue, 27 Jan 2026 18:16:31 GMT | The Smart Way to Handle File Uploads & Sharing in WordPress (Without Security Risks) | Jane Brian | [Read More](https://medium.com/p/7929f4e578f8) |
-| Tue, 27 Jan 2026 18:02:39 GMT | Why 2026 Might Be the Year Cybersecurity Finally Breaks (Or Gets Fixed) | Abdelaziz moustakim | [Read More](https://medium.com/p/fa3732eb7699) |
