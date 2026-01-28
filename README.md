@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 Jan 2026 08:32:10 GMT | The Quiet Glitch: How a Missing Rate Limit Opened the Door to Mass Account Abuse | Very Lazy Tech | [Read More](https://medium.com/p/0f143213cb8f) |
+| Wed, 28 Jan 2026 08:29:51 GMT | Lookup — TryHackMe Writeup/Walkthroug | sudo_0xksh | [Read More](https://medium.com/p/e7d58e644b0d) |
+| Wed, 28 Jan 2026 08:29:42 GMT | LazyAdmin — TryHackMe Writeup / Walkthrough | sudo_0xksh | [Read More](https://medium.com/p/4c53f1921984) |
+| Wed, 28 Jan 2026 08:25:09 GMT | Why Most Companies Should NOT Hire a Red Team (Yet) | Yua Mikanana | [Read More](https://medium.com/p/52f2a8541400) |
+| Wed, 28 Jan 2026 08:01:04 GMT | GCP Network Reliability: Going Beyond the Basics with Cloud Armor and Private Service Connect | Amina lawal | [Read More](https://medium.com/p/af2637d8aa72) |
+| Wed, 28 Jan 2026 07:59:57 GMT | ACSMI Online Certification That Bridges Education and Cyber Defense | ACSMI | [Read More](https://medium.com/p/0869fb1d99a2) |
+| Wed, 28 Jan 2026 07:49:21 GMT | The AI Security Handbook: Defending the Machine Learning Pipeline | Riad Moudjahed | [Read More](https://medium.com/p/e196cbe72773) |
+| Wed, 28 Jan 2026 07:47:21 GMT | Breaking the Guardrails: What I Learned from Red Teaming an LLM | Szilard Kecskemeti | [Read More](https://medium.com/p/d194ff35c0ea) |
 | Wed, 28 Jan 2026 07:31:37 GMT | Lab: Targeted web cache poisoning using an unknown header - Portswigger | L4V4NY4  AGR3 | [Read More](https://medium.com/p/7ec49786a485) |
 | Wed, 28 Jan 2026 07:31:01 GMT | Your Node.js Dependency Diet (Without Losing Features) | Praxen | [Read More](https://medium.com/p/32d83497737a) |
 | Wed, 28 Jan 2026 07:31:01 GMT | Tool-Using Agents That Behave Like Seniors | Duckweave | [Read More](https://medium.com/p/afb8d0a88732) |
@@ -20,6 +28,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 Jan 2026 07:16:23 GMT | Are We Securing The Code… Whilst Attackers Target The Software Supply Chain | Jyostnavya Jakkapu | [Read More](https://medium.com/p/9c0a96aa0c0b) |
 | Wed, 28 Jan 2026 07:04:11 GMT | Data Privacy Day: Why Privacy-First Digital Systems Matter More Than Ever | Observance Solutions | [Read More](https://medium.com/p/e5992673f28b) |
 | Wed, 28 Jan 2026 07:02:55 GMT | CJDE (Certified Junior Detection Engineer) Review and How to prepare for it! | Chicken0248 | [Read More](https://medium.com/p/91e2605ebf26) |
+| Wed, 28 Jan 2026 07:01:03 GMT | LinkedIn ampiamente sfruttato dai cybercriminali | Pejone | [Read More](https://medium.com/p/6790f5085e63) |
 | Wed, 28 Jan 2026 07:00:34 GMT | The Windows Security Journey — KDMA Protection (Kernel Direct Memory Access Protection) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/5893c5a98fdf) |
 | Wed, 28 Jan 2026 06:59:32 GMT | GDPR gives you 72 hours to notify a breach. | Denny Roger | [Read More](https://medium.com/p/fa8190b3da1b) |
 | Wed, 28 Jan 2026 06:58:13 GMT | LLMs and GENAI Apps: Risk & Mitigations — Part 11: Unbounded Consumption! | Nothing Cyber [NC] | [Read More](https://medium.com/p/db3aef19b9d9) |
@@ -104,12 +113,3 @@ SOC326 — Impersonating Domain MX Record Change Detected | Owais Ali Khan |
 | Tue, 27 Jan 2026 23:10:15 GMT | Group Policy (GPO) | Barbaros | [Read More](https://medium.com/p/0c68f13be9c6) |
 | Tue, 27 Jan 2026 23:01:04 GMT | Azure Policy at scale: DeployIfNotExists patterns that don’t melt ops | Practical IT | [Read More](https://medium.com/p/6b9a9a0fac9a) |
 | Tue, 27 Jan 2026 23:01:03 GMT | Check After Check | Mykell | [Read More](https://medium.com/p/cde3bf363b63) |
-| Tue, 27 Jan 2026 22:59:54 GMT | Liberty Epoch: The Crypto Trio Shaping the Future of Finance | Liberty Epoch | [Read More](https://medium.com/p/a545f9f6891a) |
-| Tue, 27 Jan 2026 22:40:11 GMT | Zero Trust Architecture Fundamentals — Why “Trust Nothing” Became the New Security Baseline | Stoic Engineer | [Read More](https://medium.com/p/d8a5efd060bd) |
-| Tue, 27 Jan 2026 22:36:27 GMT | The Dark Side of AI Agents: Why Security Experts Are Warning Against Moltbot | Andy Nguyen | [Read More](https://medium.com/p/dfd9b142e828) |
-| Tue, 27 Jan 2026 22:35:28 GMT | One-Click Workspace Takeover: Exploiting XSS and CSRF + WAF Bypass (F*ck HttpOnly) | ph4nt0mbyt3 | [Read More](https://medium.com/p/e4e9fbbaed75) |
-| Tue, 27 Jan 2026 22:33:14 GMT | Hoops on the Horizon 26–03 | Hatteras Hoops | [Read More](https://medium.com/p/d21c5c1cab53) |
-| Tue, 27 Jan 2026 22:25:57 GMT | Guarding the Gates: A Technical Deep Dive into Model Armor | Franziska Hinkelmann | [Read More](https://medium.com/p/3bb08d64701d) |
-| Tue, 27 Jan 2026 22:10:01 GMT | Day 2 : Authentication Bypass ? | Cybersecurity with Jojo | [Read More](https://medium.com/p/199a0cc6761a) |
-| Tue, 27 Jan 2026 21:59:40 GMT | 10 Tools Ethical Hackers Use (Explained for Beginners) | Vignesh Selvaraj | [Read More](https://medium.com/p/6c3d8c1b2d2d) |
-| Tue, 27 Jan 2026 21:59:19 GMT | When the Last Plane Leaves Syria | Mark Costello | [Read More](https://medium.com/p/106fd4f6cf97) |
