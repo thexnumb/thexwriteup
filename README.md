@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 Jan 2026 10:20:42 GMT | Pornhub Blocks UK, Meta Censors ICE Data, and Amazon Closes Physical Stores - The Daily Tech… | Souren Stepanyan | [Read More](https://medium.com/p/c77eb12fc9db) |
+| Wed, 28 Jan 2026 10:17:22 GMT | 0xL4ugh CTF v5 — Delicious Meeting & Dune OSINT Challenges | Ahmed Mohammed | [Read More](https://medium.com/p/4507fb089840) |
+| Wed, 28 Jan 2026 10:15:30 GMT | More Alerts Won’t Save You in 2026 | Graylog | [Read More](https://medium.com/p/cd3804ab3fe6) |
+| Wed, 28 Jan 2026 10:09:36 GMT | Cryptography Basics — TryHackMe Answers - by Deepti Gupta | Deeptisg | [Read More](https://medium.com/p/61b92fced26b) |
+| Wed, 28 Jan 2026 10:09:07 GMT | How to Hunt for Path Traversal <3 | R1punjay_Singh | [Read More](https://medium.com/p/fd72791ffa69) |
+| Wed, 28 Jan 2026 10:03:32 GMT | Hack The Box (HTB) Web Requests Walkthrough: My Solutions | Abhinav Gumgol | [Read More](https://medium.com/p/206d0d4390b5) |
+| Wed, 28 Jan 2026 09:55:30 GMT | How a Critical Race Condition in a Management System Led to a $0 Bounty | Abhishek Gupta | [Read More](https://medium.com/p/8ac2d0ad17da) |
+| Wed, 28 Jan 2026 09:55:18 GMT | How Network Protection Solutions Safeguard Your Data from Cyber Threats | Deepa | [Read More](https://medium.com/p/bd87452247be) |
+| Wed, 28 Jan 2026 09:53:30 GMT | Cybersecurity as National Resilience. The Greek paradigm. | Velissarios Housos | [Read More](https://medium.com/p/9ddd92b63831) |
+| Wed, 28 Jan 2026 09:48:53 GMT | Stop Using Google Drive for Your Will: The Safer Alternative | InsureYouKnow | [Read More](https://medium.com/p/61ab2c6c18e3) |
+| Wed, 28 Jan 2026 09:46:38 GMT | Your Trusted Partner in Professional Security Services | Professional UK Services | [Read More](https://medium.com/p/9cc9592a5cdb) |
+| Wed, 28 Jan 2026 09:46:01 GMT | Q2 2025: I locked in and did amazing… | Umar Farouk | [Read More](https://medium.com/p/d534c4124149) |
+| Wed, 28 Jan 2026 09:36:41 GMT | Account setup and project setup - Squarespace development kit | ProjektID | [Read More](https://medium.com/p/2aba4a379a89) |
 | Wed, 28 Jan 2026 09:31:09 GMT | Managing AWS S3 Permissions at Scale with IAM Groups | Felipe Limeira | [Read More](https://medium.com/p/66035ff8a947) |
 | Wed, 28 Jan 2026 09:29:26 GMT | Streamlining Field Operations with Modern Field Service Software | Smithandy | [Read More](https://medium.com/p/6a6e2a645d3a) |
 | Wed, 28 Jan 2026 09:27:14 GMT | Who You Gotta Watch Out For | Illuminati Ganga Agent 86 | [Read More](https://medium.com/p/eaa6e4c934f4) |
@@ -100,16 +113,3 @@ SOC326 — Impersonating Domain MX Record Change Detected | Owais Ali Khan |
 | Wed, 28 Jan 2026 03:31:01 GMT | The Illusion of Internal Trust: How Email Routing Misconfigurations Enable Phishing | Deven Chhajed | [Read More](https://medium.com/p/96e2b0bacc26) |
 | Wed, 28 Jan 2026 03:17:00 GMT | Bypass de Autenticação no telnetd (GNU Inetutils) — Estudo em Laboratório | Matheus Viana | [Read More](https://medium.com/p/8662dba86f87) |
 | Wed, 28 Jan 2026 02:54:31 GMT | sobre a tautologia e o movimento coach | Lima e Pereira | [Read More](https://medium.com/p/9a3bcdbcb843) |
-| Wed, 28 Jan 2026 02:41:21 GMT | Diary of a Tech-Enthusiast: Programming Fundamentals. | AMINAT OLAIDE | [Read More](https://medium.com/p/2747c08a2e15) |
-| Wed, 28 Jan 2026 02:36:57 GMT | AMAXG: ZIOW Token Monthly Distribution for January 2026 | BizAuto l AMAXG | [Read More](https://medium.com/p/47395eafcf3c) |
-| Wed, 28 Jan 2026 02:28:33 GMT | Flying Domestic in Japan Is Surprisingly Easy | Satoshi Ash Kanemura | [Read More](https://medium.com/p/ef3a3c63f96f) |
-| Wed, 28 Jan 2026 02:24:07 GMT | 디지털 포렌식, 사건 이후를 설명하는 기술 | 장T | [Read More](https://medium.com/p/63de526a4eed) |
-| Wed, 28 Jan 2026 02:12:32 GMT | Port Forwarding Attack Traffic to Bridge Networks | Jalyn Perry | [Read More](https://medium.com/p/172dafd9c24f) |
-| Wed, 28 Jan 2026 01:59:11 GMT | HEVD: Windows Kernel Exploitation — Stack Overflow | Sushant M Mane | [Read More](https://medium.com/p/12be551350f1) |
-| Wed, 28 Jan 2026 01:58:18 GMT | The Resume Format That Landed Me IT and Cyber Roles | Irene A. Gil | [Read More](https://medium.com/p/c7992b905bed) |
-| Wed, 28 Jan 2026 01:48:43 GMT | Networking: The Third Essential Utility of Modern Business | Eric, Yu | [Read More](https://medium.com/p/a6bb39f19c02) |
-| Wed, 28 Jan 2026 01:47:40 GMT | Securing Agentic AI Systems: A Defense-in-Depth Approach | Changez Akram | [Read More](https://medium.com/p/98bffb1ae6c7) |
-| Wed, 28 Jan 2026 01:45:17 GMT | The Doomsday Clock: A Scary Symbol, Not a Final Truth | Sbamsa3 | [Read More](https://medium.com/p/fd8965dbf5f4) |
-| Wed, 28 Jan 2026 01:42:12 GMT | Beyond the “Human Error” Fallacy: A Systems Perspective on Security | aLekZ | [Read More](https://medium.com/p/800ee77ea488) |
-| Wed, 28 Jan 2026 01:34:44 GMT | That Weird TikTok Week? I call it an Echo. And I’m Wondering If It’s About to Happen Again. | Rebecca Maehlum | [Read More](https://medium.com/p/be5c34119580) |
-| Wed, 28 Jan 2026 01:31:01 GMT | Authorization in NestJS Without the Fairy Tales | Vectorlane | [Read More](https://medium.com/p/4698a3e0e371) |
