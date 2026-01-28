@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 Jan 2026 05:09:26 GMT | The Architecture Of Betrayal: Salt Typhoon And The Subversion Of Western Comms | James Marinero, MSc, MBA | [Read More](https://medium.com/p/94b5a26082a9) |
+| Wed, 28 Jan 2026 05:06:19 GMT | Web Application and API Protection Market: Global Trends, Growth Drivers, and Forecast Outlook | Gauri Kale | [Read More](https://medium.com/p/da289393112b) |
+| Wed, 28 Jan 2026 05:01:01 GMT | Small Oversights, Massive Fallout | BeamSec | [Read More](https://medium.com/p/fdfd18af973d) |
+| Wed, 28 Jan 2026 04:59:21 GMT | Retail Store Security Guards in Houston | Security Houston | [Read More](https://medium.com/p/9bcc0ba280b5) |
+| Wed, 28 Jan 2026 04:55:50 GMT | Why Every Healthcare Company Needs Zero Trust Security in 2026 | eDelta Corporation | [Read More](https://medium.com/p/a1916d845efa) |
+| Wed, 28 Jan 2026 04:53:20 GMT | The Dark Side of Being ‘Good at Tech’ | Abdullah Javeed | [Read More](https://medium.com/p/c050f99237db) |
+| Wed, 28 Jan 2026 04:52:17 GMT | Hollow Knight Silksong Apk | Game4u | [Read More](https://medium.com/p/adb926877c06) |
+| Wed, 28 Jan 2026 04:40:06 GMT | Why Your Genius Writing is Losing to a Pixelated Cat | Louis Phang | [Read More](https://medium.com/p/e32c41e413aa) |
 | Wed, 28 Jan 2026 04:34:28 GMT | 40 Essential Bash One-Liners for Pentesting-from my notes | Mosabbirshemul | [Read More](https://medium.com/p/c9903bd1adf5) |
 | Wed, 28 Jan 2026 04:31:07 GMT | Using SlowAPI in FastAPI: Mastering Rate Limiting Like a Pro | Shiladitya Majumder | [Read More](https://medium.com/p/19044cb6062b) |
 | Wed, 28 Jan 2026 04:27:06 GMT | One Month In: What Tools Don’t Teach You in a SOC | Alfredo Zablah | [Read More](https://medium.com/p/fe40bbeb9f51) |
@@ -105,11 +113,3 @@ SOC326 — Impersonating Domain MX Record Change Detected | Owais Ali Khan |
 | Tue, 27 Jan 2026 19:40:49 GMT | [PT-BR] DC-1 — PGPlay — Walkthrough | hacktheborges | [Read More](https://medium.com/p/e2c37bcd4785) |
 | Tue, 27 Jan 2026 19:38:20 GMT | Phishing Attacks Explained: Why the Oldest Cyber Scam Still Works | Orrin Pietersen | [Read More](https://medium.com/p/235a1a323102) |
 | Tue, 27 Jan 2026 19:30:06 GMT | How to set up your personal pentesting and bug hunting assistant | Mauricio Antonio | [Read More](https://medium.com/p/40d2742afb87) |
-| Tue, 27 Jan 2026 19:23:44 GMT | Nothing and everything | Mlili | [Read More](https://medium.com/p/754c8f8235cd) |
-| Tue, 27 Jan 2026 19:18:55 GMT | Vulnerabilidad XSS | M4rc0sX | [Read More](https://medium.com/p/9396c1b091d0) |
-| Tue, 27 Jan 2026 19:13:27 GMT | Crocodile HTB — Starting Point Writeup By Alham Rizvi | Alham Rizvi(ExoidSec) | [Read More](https://medium.com/p/168b55893279) |
-| Tue, 27 Jan 2026 19:12:22 GMT | Tracing the Boiler Control System: From Internet Search to CISA Coordination | hacker_might | [Read More](https://medium.com/p/ceba2d05cdd2) |
-| Tue, 27 Jan 2026 19:12:21 GMT | Introduction to Honeypot Data Analysis | Allen Ace | [Read More](https://medium.com/p/f25aa5d998de) |
-| Tue, 27 Jan 2026 19:03:19 GMT | VulnNet: Roasted — TryHackMe Challenge Walkthrough | Hemantha Krishna Challa | [Read More](https://medium.com/p/59aa87cbd8a9) |
-| Tue, 27 Jan 2026 19:02:54 GMT | TryHackMe - GeoServer: CVE-2025-58360 - WriteUp | Axoloth | [Read More](https://medium.com/p/2d364d1dbe04) |
-| Tue, 27 Jan 2026 18:50:46 GMT | MITRE ATT&CK erklärt und umgangen | Nick Vidovic | [Read More](https://medium.com/p/f8e4913e096b) |
