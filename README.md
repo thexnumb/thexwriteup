@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 Jan 2026 14:26:33 GMT | How Businesses Can Defend Against Cyber Threats During the 2026 FIFA World Cup | IT_Engineer | [Read More](https://medium.com/p/a36c595c29ba) |
+| Wed, 28 Jan 2026 14:24:52 GMT | Welcome to Forensic Academy
+India’s trusted Cyber Security & Forensic Intelligence Training Centre… | Forensic Academy | [Read More](https://medium.com/p/6f043a987a68) |
+| Wed, 28 Jan 2026 14:22:57 GMT | The “By-Sight” Subnetting Methodology: A Guide for Network Engineers and SOC Analysts | osama Moussa | [Read More](https://medium.com/p/420ea811f728) |
+| Wed, 28 Jan 2026 14:20:29 GMT | What Hackers See When You Go Online | Genrunic | [Read More](https://medium.com/p/20309d054764) |
+| Wed, 28 Jan 2026 14:18:24 GMT | The Security of Car Data | Alfredo Rodriguez | [Read More](https://medium.com/p/df79e46de0e9) |
+| Wed, 28 Jan 2026 14:16:42 GMT | The Perfectionist’s Trap | Pasha | [Read More](https://medium.com/p/2e7233d658f4) |
+| Wed, 28 Jan 2026 14:14:52 GMT | Phishing-Based Initial Access Attack Anatomy: A Threat Intelligence Case Study | Varshaveeraghanta | [Read More](https://medium.com/p/a47e68894dc2) |
+| Wed, 28 Jan 2026 14:14:44 GMT | Escaping the Matrix: A Deep Dive into SandboxJS RCE (CVE-2026–23830) | Meysam Bal-afkan | [Read More](https://medium.com/p/1fbbca3f46fc) |
+| Wed, 28 Jan 2026 14:05:38 GMT | Stronger Mac Backups For Safer Data Protection | Geoffrey Wenger | [Read More](https://medium.com/p/8b068e536a6e) |
+| Wed, 28 Jan 2026 13:59:38 GMT | PicoCTF: droids2 ( Difficulty: Hard ) Reverse Engineering | Yasin Arafat Tanim | [Read More](https://medium.com/p/93853890c856) |
+| Wed, 28 Jan 2026 13:53:46 GMT | Lab: Exploiting cross-site scripting to steal cookies | Chirag Vyas | [Read More](https://medium.com/p/00499eca9bf0) |
+| Wed, 28 Jan 2026 13:48:12 GMT | How Not To Fail Your BSCP Exam | Shahabaj Shaikh | [Read More](https://medium.com/p/6e4055f221cd) |
+| Wed, 28 Jan 2026 13:42:54 GMT | Android Mobile Game Hacking | Just Mobile Security | [Read More](https://medium.com/p/f428aef8eb98) |
 | Wed, 28 Jan 2026 13:40:58 GMT | GParted 1.8 Partition Editor Improves FAT Handling | Khurram Shahzad | [Read More](https://medium.com/p/56d31dfbe19b) |
 | Wed, 28 Jan 2026 13:39:11 GMT | Do Not Overestimate Your Own Brilliance. And Never Underestimate the Observer. | Olena Ratsiuk | [Read More](https://medium.com/p/20019e3acbbe) |
 | Wed, 28 Jan 2026 13:31:12 GMT | The One Metric That Predicts GRC Failure | Navvz | [Read More](https://medium.com/p/9bbe08db9093) |
@@ -31,6 +45,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 Jan 2026 12:32:08 GMT | Stored Cross-Site Scripting (XSS) Vulnerability Report | Ravi Pipalwa | [Read More](https://medium.com/p/c97788dd6ea6) |
 | Wed, 28 Jan 2026 12:22:25 GMT | I passed Security+ on my first attempt — but I did it in exam mode, not craftsman mode. | the CyberStoic | [Read More](https://medium.com/p/dd1aaf217d29) |
 | Wed, 28 Jan 2026 12:20:04 GMT | Everyone Is Hyping Clawbot. Almost Nobody Is Talking About the Security Reality | Hassan Raza | [Read More](https://medium.com/p/8c824f85f83f) |
+| Wed, 28 Jan 2026 12:16:11 GMT | Masakan Tradisional Khas Kalimantan Selatan | JasminMedia | [Read More](https://medium.com/p/198368b8718b) |
 | Wed, 28 Jan 2026 12:11:34 GMT | Detection Engineering for Threat Hunting: The Recipe for Proactive Defense | Esra Kayhan | [Read More](https://medium.com/p/ee93ca540710) |
 | Wed, 28 Jan 2026 12:11:01 GMT | Throttling Models for API Security — You Cannot Secure What You Can’t Control | Esra Kayhan | [Read More](https://medium.com/p/2ad88e21aada) |
 | Wed, 28 Jan 2026 12:07:31 GMT | IT Support Services for Businesses - Managed & Remote IT Solutions | Akash | [Read More](https://medium.com/p/1364ed1a6912) |
@@ -99,17 +114,3 @@ Tools & Reasoning | MANJEET KUMAR | [Read More](https://medium.com/p/1ac8b4c0ae2
 | Wed, 28 Jan 2026 07:49:21 GMT | The AI Security Handbook: Defending the Machine Learning Pipeline | Riad Moudjahed | [Read More](https://medium.com/p/e196cbe72773) |
 | Wed, 28 Jan 2026 07:47:21 GMT | Breaking the Guardrails: What I Learned from Red Teaming an LLM | Szilard Kecskemeti | [Read More](https://medium.com/p/d194ff35c0ea) |
 | Wed, 28 Jan 2026 07:31:37 GMT | Lab: Targeted web cache poisoning using an unknown header - Portswigger | L4V4NY4  AGR3 | [Read More](https://medium.com/p/7ec49786a485) |
-| Wed, 28 Jan 2026 07:31:01 GMT | Your Node.js Dependency Diet (Without Losing Features) | Praxen | [Read More](https://medium.com/p/32d83497737a) |
-| Wed, 28 Jan 2026 07:31:01 GMT | Tool-Using Agents That Behave Like Seniors | Duckweave | [Read More](https://medium.com/p/afb8d0a88732) |
-| Wed, 28 Jan 2026 07:27:05 GMT | Unifying Security and Simplicity: The UX Journey of JumpCloud Protect | JumpCloud Design | [Read More](https://medium.com/p/73012ea28ea1) |
-| Wed, 28 Jan 2026 07:24:23 GMT | Stop Trusting. Start Verifying. | LUCKY X | [Read More](https://medium.com/p/73a84ada1413) |
-| Wed, 28 Jan 2026 07:16:23 GMT | Are We Securing The Code… Whilst Attackers Target The Software Supply Chain | Jyostnavya Jakkapu | [Read More](https://medium.com/p/9c0a96aa0c0b) |
-| Wed, 28 Jan 2026 07:04:11 GMT | Data Privacy Day: Why Privacy-First Digital Systems Matter More Than Ever | Observance Solutions | [Read More](https://medium.com/p/e5992673f28b) |
-| Wed, 28 Jan 2026 07:02:55 GMT | CJDE (Certified Junior Detection Engineer) Review and How to prepare for it! | Chicken0248 | [Read More](https://medium.com/p/91e2605ebf26) |
-| Wed, 28 Jan 2026 07:01:03 GMT | LinkedIn ampiamente sfruttato dai cybercriminali | Pejone | [Read More](https://medium.com/p/6790f5085e63) |
-| Wed, 28 Jan 2026 07:00:34 GMT | The Windows Security Journey — KDMA Protection (Kernel Direct Memory Access Protection) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/5893c5a98fdf) |
-| Wed, 28 Jan 2026 06:59:32 GMT | GDPR gives you 72 hours to notify a breach. | Denny Roger | [Read More](https://medium.com/p/fa8190b3da1b) |
-| Wed, 28 Jan 2026 06:58:13 GMT | LLMs and GENAI Apps: Risk & Mitigations — Part 11: Unbounded Consumption! | Nothing Cyber [NC] | [Read More](https://medium.com/p/db3aef19b9d9) |
-| Wed, 28 Jan 2026 06:56:16 GMT | Danh sách 10 công ty bảo vệ uy tín, chuyên nghiệp nhất tại Quận 12 | Bảo vệ Ngày & Đêm Tây Bắc SG | [Read More](https://medium.com/p/f587f8d40c98) |
-| Wed, 28 Jan 2026 06:54:20 GMT | When SoundCloud Lost Control of Identity, Not Music | Prerna Shukla | [Read More](https://medium.com/p/6202aa7bf484) |
-| Wed, 28 Jan 2026 06:53:10 GMT | Engineering Database Activity Monitoring (DAM) - From Bare-Metal Linux to AWS RDS | Vijenex | [Read More](https://medium.com/p/d6592f7b7fb2) |
