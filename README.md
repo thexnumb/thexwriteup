@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 Jan 2026 03:44:59 GMT | NCAE C2Games MiniHacks 2025 Challenge Walkthrough | Samuel McLamb | [Read More](https://medium.com/p/ea6f67bb2a0e) |
+| Wed, 28 Jan 2026 03:36:41 GMT | Exploiting SQL Injection with SQLMap | Cybeague Technologies | [Read More](https://medium.com/p/89f90efe5f80) |
+| Wed, 28 Jan 2026 03:36:02 GMT | Fingerprinting Web Technologies with WhatWeb | Cybeague Technologies | [Read More](https://medium.com/p/180d222df16d) |
+| Wed, 28 Jan 2026 03:34:58 GMT | How to Build a Cybersecurity Career in 2026 — Courses, Skills & Tools | CyberBruhArmy | [Read More](https://medium.com/p/9b51d4f02362) |
+| Wed, 28 Jan 2026 03:33:23 GMT | The Security Mistakes Most React & Next.js Developers Don’t Know They’re Making | CodeForDreams | [Read More](https://medium.com/p/00f7799d7364) |
+| Wed, 28 Jan 2026 03:31:01 GMT | The Illusion of Internal Trust: How Email Routing Misconfigurations Enable Phishing | Deven Chhajed | [Read More](https://medium.com/p/96e2b0bacc26) |
+| Wed, 28 Jan 2026 03:17:00 GMT | Bypass de Autenticação no telnetd (GNU Inetutils) — Estudo em Laboratório | Matheus Viana | [Read More](https://medium.com/p/8662dba86f87) |
+| Wed, 28 Jan 2026 02:54:31 GMT | sobre a tautologia e o movimento coach | Lima e Pereira | [Read More](https://medium.com/p/9a3bcdbcb843) |
+| Wed, 28 Jan 2026 02:41:21 GMT | Diary of a Tech-Enthusiast: Programming Fundamentals. | AMINAT OLAIDE | [Read More](https://medium.com/p/2747c08a2e15) |
+| Wed, 28 Jan 2026 02:36:57 GMT | AMAXG: ZIOW Token Monthly Distribution for January 2026 | BizAuto l AMAXG | [Read More](https://medium.com/p/47395eafcf3c) |
+| Wed, 28 Jan 2026 02:28:33 GMT | Flying Domestic in Japan Is Surprisingly Easy | Satoshi Ash Kanemura | [Read More](https://medium.com/p/ef3a3c63f96f) |
+| Wed, 28 Jan 2026 02:24:07 GMT | 디지털 포렌식, 사건 이후를 설명하는 기술 | 장T | [Read More](https://medium.com/p/63de526a4eed) |
+| Wed, 28 Jan 2026 02:12:32 GMT | Port Forwarding Attack Traffic to Bridge Networks | Jalyn Perry | [Read More](https://medium.com/p/172dafd9c24f) |
+| Wed, 28 Jan 2026 01:58:18 GMT | The Resume Format That Landed Me IT and Cyber Roles | Irene A. Gil | [Read More](https://medium.com/p/c7992b905bed) |
 | Wed, 28 Jan 2026 01:48:43 GMT | Networking: The Third Essential Utility of Modern Business | Eric, Yu | [Read More](https://medium.com/p/a6bb39f19c02) |
 | Wed, 28 Jan 2026 01:47:40 GMT | Securing Agentic AI Systems: A Defense-in-Depth Approach | Changez Akram | [Read More](https://medium.com/p/98bffb1ae6c7) |
 | Wed, 28 Jan 2026 01:45:17 GMT | The Doomsday Clock: A Scary Symbol, Not a Final Truth | Sbamsa3 | [Read More](https://medium.com/p/fd8965dbf5f4) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 27 Jan 2026 18:17:05 GMT | Threat Modeling for Smart Contracts: How to Stop Guessing About Security | Exploitless | [Read More](https://medium.com/p/6f5a0ba883e1) |
 | Tue, 27 Jan 2026 18:16:31 GMT | The Smart Way to Handle File Uploads & Sharing in WordPress (Without Security Risks) | Jane Brian | [Read More](https://medium.com/p/7929f4e578f8) |
 | Tue, 27 Jan 2026 18:02:39 GMT | Why 2026 Might Be the Year Cybersecurity Finally Breaks (Or Gets Fixed) | Abdelaziz moustakim | [Read More](https://medium.com/p/fa3732eb7699) |
-| Tue, 27 Jan 2026 18:02:21 GMT | Optimizing Human Capital in Cybersecurity through Traditional Chinese Medicine and Internal… | Quintius Walker | [Read More](https://medium.com/p/8ce52a9e5a7b) |
-| Tue, 27 Jan 2026 18:02:07 GMT | Passive Reconnaissance: How Attacks Really Begin(A Realistic Story From Labs, Not a Movie) | SoBatista | [Read More](https://medium.com/p/fac8cf6cdebf) |
-| Tue, 27 Jan 2026 17:59:08 GMT | The Handshake That Never Finishes: Why SYN Floods Still Drop Real Users | Kirubakaran | [Read More](https://medium.com/p/7f694168384e) |
-| Tue, 27 Jan 2026 17:56:03 GMT | What is the Demand for Cybersecurity Analyst in 2026? | ai3ech | [Read More](https://medium.com/p/2c271317c10c) |
-| Tue, 27 Jan 2026 17:55:34 GMT | Exploit Lab: CVE-2026–24061 (telnetd) | Josh Beck | [Read More](https://medium.com/p/772306d3b0ba) |
-| Tue, 27 Jan 2026 17:50:03 GMT | How Breach Point CTF Became One of Telangana’s Largest Student-Led Cybersecurity Events | Syedataurrahaman | [Read More](https://medium.com/p/89ea70af5772) |
-| Tue, 27 Jan 2026 17:49:11 GMT | How to Secure Your Website in 2026 | IOTAIY | [Read More](https://medium.com/p/1b5a170621cb) |
-| Tue, 27 Jan 2026 17:44:06 GMT | Internal thm— TryHackMe Walkthrough | Md Fahim Al Shihab | [Read More](https://medium.com/p/2cf5d0b400ae) |
-| Tue, 27 Jan 2026 17:41:24 GMT | Combating AI Synthesis in Malware and Ransomware: Why Cyber Defense Must Evolve Faster Than… | Digital Defense | [Read More](https://medium.com/p/680f3b6d9869) |
-| Tue, 27 Jan 2026 17:38:31 GMT | Enterprise Grade API Security in .NET 10: A Practical RBAC + OData Blueprint | Rawand Hawez | [Read More](https://medium.com/p/2674ffb94bd7) |
-| Tue, 27 Jan 2026 17:36:07 GMT | Encrypted Database — CyberTalents Web Security Challenge (Easy) | Z3DX | [Read More](https://medium.com/p/afb8972681f0) |
-| Tue, 27 Jan 2026 17:35:37 GMT | When is authentic too risky? | Billie Burton | [Read More](https://medium.com/p/3e41218d68dc) |
-| Tue, 27 Jan 2026 17:26:19 GMT | Why Modern Security Feels Busy but Achieves Nothing | Oscar Antonangelo | [Read More](https://medium.com/p/4e0cb9b5a089) |
-| Tue, 27 Jan 2026 17:25:17 GMT | How I hacked a website just by looking at the source code Part-2 | Devansh Patel | [Read More](https://medium.com/p/375b21321815) |
