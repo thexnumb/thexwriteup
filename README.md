@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 Jan 2026 11:31:10 GMT | Stop Trusting OnlyYour Backend: Let PostgreSQL Enforce Data Security | Alessandro Tornesello | [Read More](https://medium.com/p/04bf2dae375f) |
+| Wed, 28 Jan 2026 11:21:11 GMT | Securing the Modern Web — React and Next.js | Md Shoriful Islam Ashiq | [Read More](https://medium.com/p/ff71015aa1c8) |
 | Wed, 28 Jan 2026 11:13:55 GMT | m00nwalk — When an Audio File Isn’t Meant to Be Heard | Soumyashree Sahoo | [Read More](https://medium.com/p/8367353e062b) |
+| Wed, 28 Jan 2026 11:12:45 GMT | 3 Ways to Authenticate GitHub from the Terminal: A Practical Guide | Sridevi Parimi | [Read More](https://medium.com/p/6667f6ef9890) |
+| Wed, 28 Jan 2026 11:11:08 GMT | The shine is not love; love begins when someone discovers your soul and chooses you for who you are. | Noor | [Read More](https://medium.com/p/abac88fe3543) |
 | Wed, 28 Jan 2026 11:08:38 GMT | WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware — A Crucial… | Germano Costi | [Read More](https://medium.com/p/7f146fead455) |
 | Wed, 28 Jan 2026 11:05:42 GMT | ReconFTW : automatiser la reconnaissance pour une surface d’attaque complète | ghostyjoe | [Read More](https://medium.com/p/e3a474ecc92d) |
 | Wed, 28 Jan 2026 11:01:01 GMT | How I Tricked a Scammer into Apologizing to My Cat (Before Revealing I Was Using Kali Linux) | freerave | [Read More](https://medium.com/p/2927a1820c44) |
@@ -109,7 +113,3 @@ Tools & Reasoning | MANJEET KUMAR | [Read More](https://medium.com/p/1ac8b4c0ae2
 | Wed, 28 Jan 2026 04:55:50 GMT | Why Every Healthcare Company Needs Zero Trust Security in 2026 | eDelta Corporation | [Read More](https://medium.com/p/a1916d845efa) |
 | Wed, 28 Jan 2026 04:53:20 GMT | The Dark Side of Being ‘Good at Tech’ | Abdullah Javeed | [Read More](https://medium.com/p/c050f99237db) |
 | Wed, 28 Jan 2026 04:52:17 GMT | Hollow Knight Silksong Apk | Game4u | [Read More](https://medium.com/p/adb926877c06) |
-| Wed, 28 Jan 2026 04:40:06 GMT | Why Your Genius Writing is Losing to a Pixelated Cat | Louis Phang | [Read More](https://medium.com/p/e32c41e413aa) |
-| Wed, 28 Jan 2026 04:34:28 GMT | 40 Essential Bash One-Liners for Pentesting-from my notes | Mosabbirshemul | [Read More](https://medium.com/p/c9903bd1adf5) |
-| Wed, 28 Jan 2026 04:31:07 GMT | Using SlowAPI in FastAPI: Mastering Rate Limiting Like a Pro | Shiladitya Majumder | [Read More](https://medium.com/p/19044cb6062b) |
-| Wed, 28 Jan 2026 04:27:06 GMT | One Month In: What Tools Don’t Teach You in a SOC | Alfredo Zablah | [Read More](https://medium.com/p/fe40bbeb9f51) |
