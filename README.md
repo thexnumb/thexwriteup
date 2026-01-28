@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 Jan 2026 19:26:17 GMT | Homoglyph-based Email Identity Collision in a Secure Email Platform | Bavly Zaher | [Read More](https://medium.com/p/05a2c294ee63) |
+| Wed, 28 Jan 2026 19:19:21 GMT | Cybersecurity Consulting & IT Security Services by CyberSecOp: Protecting Your Business from Modern… | Jeffery Walker | [Read More](https://medium.com/p/29fb3e667dd0) |
+| Wed, 28 Jan 2026 19:10:08 GMT | How to Pass the CompTIA Security+ | Tarunika Kapoor | [Read More](https://medium.com/p/cc70129b95cb) |
+| Wed, 28 Jan 2026 19:09:35 GMT | Breaking Into the Vault of Trust Bank - APT Labs Walkthrough | Qurti/Purpleware | [Read More](https://medium.com/p/6d8aae459339) |
+| Wed, 28 Jan 2026 18:56:26 GMT | Cyber Security in Digital Marketing: Why Your Strategy is Only as Strong as Your Defence | Sougan Mandi | [Read More](https://medium.com/p/71cbbaf7d4a6) |
+| Wed, 28 Jan 2026 18:44:47 GMT | Bir Hacker Nasıl Düşünür: Sistemlerin Gizli Dili | Attila453 | [Read More](https://medium.com/p/7d66da74f6ed) |
 | Wed, 28 Jan 2026 18:29:46 GMT | Secure Use of GitHub — CIS-Aligned Technical Guide — Part I | SOCFortress | [Read More](https://medium.com/p/47f5f938c222) |
 | Wed, 28 Jan 2026 18:24:55 GMT | How Backdooring Could Get You Into The System By Using Netcat | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/9719a0cbf6ff) |
 | Wed, 28 Jan 2026 18:23:45 GMT | Cyber Campaigns: Fix this, Fix that — CrashFix | Shivam Bathla | [Read More](https://medium.com/p/b642c74df474) |
@@ -108,9 +114,3 @@ India’s trusted Cyber Security & Forensic Intelligence Training Centre… | Fo
 | Wed, 28 Jan 2026 13:09:42 GMT | Hardening Production Access: Building a Raspberry Pi Bastion with SSH Keys and 2FA | Linux Amrit | [Read More](https://medium.com/p/803cac9622ff) |
 | Wed, 28 Jan 2026 13:07:39 GMT | Why Cybersecurity Is More About Thinking Like a Hacker Than Coding.. | Nayan Ghimire | [Read More](https://medium.com/p/2c9473d4eafe) |
 | Wed, 28 Jan 2026 13:01:03 GMT | When Nothing Looks Wrong — But You Still Don’t Trust the Logs | Faruk Ahmed | [Read More](https://medium.com/p/41c7b210c8b4) |
-| Wed, 28 Jan 2026 12:59:58 GMT | CAP-SRP v0.1.0: Cryptographic Proof of Safe Refusals for AI Systems | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/149c5d530409) |
-| Wed, 28 Jan 2026 12:57:10 GMT | How I Got My First Real Attention in Bug Bounty (And Why This Matters More Than Money) | Nayan Ghimire | [Read More](https://medium.com/p/702982e924ba) |
-| Wed, 28 Jan 2026 12:56:01 GMT | The Security Risks Hidden Inside Layoffs and Terminations | Maryam Taheri | [Read More](https://medium.com/p/c4f2638ca2a6) |
-| Wed, 28 Jan 2026 12:54:04 GMT | $500 for a UUID Swap: I Almost Gave Up on This IDOR | tinopreter | [Read More](https://medium.com/p/ae7a0adb518d) |
-| Wed, 28 Jan 2026 12:52:25 GMT | How to Recover an Account After it Gets Hacked | Gautam Basu | [Read More](https://medium.com/p/e9bc3f00c473) |
-| Wed, 28 Jan 2026 12:43:10 GMT | Building a Zero-Knowledge Notes & File Sharing App (ZeroVault) | Gadangi Sainag | [Read More](https://medium.com/p/02315135a5d4) |
