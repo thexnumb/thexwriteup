@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 Jan 2026 07:31:37 GMT | Lab: Targeted web cache poisoning using an unknown header - Portswigger | L4V4NY4  AGR3 | [Read More](https://medium.com/p/7ec49786a485) |
+| Wed, 28 Jan 2026 07:31:01 GMT | Your Node.js Dependency Diet (Without Losing Features) | Praxen | [Read More](https://medium.com/p/32d83497737a) |
+| Wed, 28 Jan 2026 07:31:01 GMT | Tool-Using Agents That Behave Like Seniors | Duckweave | [Read More](https://medium.com/p/afb8d0a88732) |
+| Wed, 28 Jan 2026 07:27:05 GMT | Unifying Security and Simplicity: The UX Journey of JumpCloud Protect | JumpCloud Design | [Read More](https://medium.com/p/73012ea28ea1) |
 | Wed, 28 Jan 2026 07:24:23 GMT | Stop Trusting. Start Verifying. | LUCKY X | [Read More](https://medium.com/p/73a84ada1413) |
 | Wed, 28 Jan 2026 07:16:23 GMT | Are We Securing The Code… Whilst Attackers Target The Software Supply Chain | Jyostnavya Jakkapu | [Read More](https://medium.com/p/9c0a96aa0c0b) |
 | Wed, 28 Jan 2026 07:04:11 GMT | Data Privacy Day: Why Privacy-First Digital Systems Matter More Than Ever | Observance Solutions | [Read More](https://medium.com/p/e5992673f28b) |
@@ -74,6 +78,7 @@ SOC326 — Impersonating Domain MX Record Change Detected | Owais Ali Khan |
 | Wed, 28 Jan 2026 02:28:33 GMT | Flying Domestic in Japan Is Surprisingly Easy | Satoshi Ash Kanemura | [Read More](https://medium.com/p/ef3a3c63f96f) |
 | Wed, 28 Jan 2026 02:24:07 GMT | 디지털 포렌식, 사건 이후를 설명하는 기술 | 장T | [Read More](https://medium.com/p/63de526a4eed) |
 | Wed, 28 Jan 2026 02:12:32 GMT | Port Forwarding Attack Traffic to Bridge Networks | Jalyn Perry | [Read More](https://medium.com/p/172dafd9c24f) |
+| Wed, 28 Jan 2026 01:59:11 GMT | HEVD: Windows Kernel Exploitation — Stack Overflow | Sushant M Mane | [Read More](https://medium.com/p/12be551350f1) |
 | Wed, 28 Jan 2026 01:58:18 GMT | The Resume Format That Landed Me IT and Cyber Roles | Irene A. Gil | [Read More](https://medium.com/p/c7992b905bed) |
 | Wed, 28 Jan 2026 01:48:43 GMT | Networking: The Third Essential Utility of Modern Business | Eric, Yu | [Read More](https://medium.com/p/a6bb39f19c02) |
 | Wed, 28 Jan 2026 01:47:40 GMT | Securing Agentic AI Systems: A Defense-in-Depth Approach | Changez Akram | [Read More](https://medium.com/p/98bffb1ae6c7) |
@@ -108,8 +113,3 @@ SOC326 — Impersonating Domain MX Record Change Detected | Owais Ali Khan |
 | Tue, 27 Jan 2026 22:10:01 GMT | Day 2 : Authentication Bypass ? | Cybersecurity with Jojo | [Read More](https://medium.com/p/199a0cc6761a) |
 | Tue, 27 Jan 2026 21:59:40 GMT | 10 Tools Ethical Hackers Use (Explained for Beginners) | Vignesh Selvaraj | [Read More](https://medium.com/p/6c3d8c1b2d2d) |
 | Tue, 27 Jan 2026 21:59:19 GMT | When the Last Plane Leaves Syria | Mark Costello | [Read More](https://medium.com/p/106fd4f6cf97) |
-| Tue, 27 Jan 2026 21:58:53 GMT | Windows PPL (Protected Processes Light) | S12 - 0x12Dark Development | [Read More](https://medium.com/p/e158332aedca) |
-| Tue, 27 Jan 2026 21:57:40 GMT | IAM Under Siege: Common Weaknesses in Cloud Logic | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/f6ecb3597fe5) |
-| Tue, 27 Jan 2026 21:54:16 GMT | Bill Gates — Architect of the Software Empire and Pioneer of Global Philanthropy | Stacklegend | [Read More](https://medium.com/p/0716b61598b6) |
-| Tue, 27 Jan 2026 21:54:08 GMT | The Microsoft SOC Stack Explained | Ilyess Sellami | [Read More](https://medium.com/p/1b31a8a0012f) |
-| Tue, 27 Jan 2026 21:46:43 GMT | Bypassing Nginx ACLs in Python Applications | Filip Kecman | [Read More](https://medium.com/p/a7271e2c5a9d) |
