@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 Jan 2026 16:30:09 GMT | Wazuh Vulnerability Enrichment EPSS + CISA KEV | Hanif K A | [Read More](https://medium.com/p/a989474877ad) |
+| Wed, 28 Jan 2026 16:29:00 GMT | Types of CCTV Cameras for Home and Business Use | Alex Bryn | [Read More](https://medium.com/p/861c6db1367c) |
+| Wed, 28 Jan 2026 16:27:26 GMT | Before You Deploy the Model: Why AI Risk Must Be Assessed Before the Business Commits | Michael Leigh | [Read More](https://medium.com/p/9253c45a171a) |
+| Wed, 28 Jan 2026 16:27:13 GMT | The Great HappyMod iOS Myth: Why iPhone Users Are Being Scammed in 2026 | Jonathan Jude | [Read More](https://medium.com/p/03dd09e20d6a) |
+| Wed, 28 Jan 2026 16:24:13 GMT | Broken Link Hijacking: That One Bug Everyone Ignores (Until It Pays ) | Purushotham.R | [Read More](https://medium.com/p/8ef2dac3619e) |
+| Wed, 28 Jan 2026 16:22:11 GMT | The First Production Bug Every Developer Remembers | Lakshika | [Read More](https://medium.com/p/cc63db40e3e0) |
+| Wed, 28 Jan 2026 16:16:59 GMT | Audtior - Fahemsec | 00xCanelo | [Read More](https://medium.com/p/2c1704fedf31) |
+| Wed, 28 Jan 2026 16:16:01 GMT | I Thought Cybersecurity Was About Intelligence. It’s About Patience | Crystal_cascade14 | [Read More](https://medium.com/p/3ce3733539e4) |
+| Wed, 28 Jan 2026 16:06:13 GMT | My prayers will hug you when my arms can't | yasmin | [Read More](https://medium.com/p/6f6bdd02e4ad) |
+| Wed, 28 Jan 2026 16:01:00 GMT | Securing Private Images & Videos in Web Applications using AWS CloudFront Signed URLs & Signed… | Rahul Chakraborty | [Read More](https://medium.com/p/00c0184ad931) |
+| Wed, 28 Jan 2026 15:58:21 GMT | PACE Planning: What the AWS US-East-1 Outage Taught Us About Incident Response Communications | Noz | [Read More](https://medium.com/p/e269f5180b26) |
+| Wed, 28 Jan 2026 15:53:22 GMT | AI Development Environment Hardening: Solo Developer Setup | Michael Hannecke | [Read More](https://medium.com/p/519aad1552d8) |
+| Wed, 28 Jan 2026 15:52:27 GMT | Day 4: Mastering Network Fundamentals | Siddhesh Patil | [Read More](https://medium.com/p/16afc3b395f1) |
+| Wed, 28 Jan 2026 15:49:44 GMT | PortSwigger SQL Injection Labs — Part 1 | Emirkilicer | [Read More](https://medium.com/p/18eed102b661) |
+| Wed, 28 Jan 2026 15:46:28 GMT | My very first write up | MAKSIM HARASHCHUK | [Read More](https://medium.com/p/d9f91769ffdb) |
+| Wed, 28 Jan 2026 15:44:41 GMT | Proving Grounds Linux Box Extplorer ( Road to OSCP ) | Cyb0rgBytes | [Read More](https://medium.com/p/008c742ea143) |
+| Wed, 28 Jan 2026 15:39:06 GMT | Go’s runtime/secret: A New Era of Secure Memory Handling | aman kohli | [Read More](https://medium.com/p/2f1e581517f1) |
+| Wed, 28 Jan 2026 15:34:11 GMT | A New Login Scam Can Hijack Your Entire Microsoft ecosystem. | Karl Buhl | [Read More](https://medium.com/p/142d22f76a07) |
+| Wed, 28 Jan 2026 15:31:42 GMT | Why Serious Hackers Don’t Use Windows as Their Main OS | Explainer | [Read More](https://medium.com/p/589bd2610b55) |
 | Wed, 28 Jan 2026 15:31:01 GMT | Manufacturing Security 2026: Protect Your Cloud Odoo From Ransomware, Breaches, and $10.22M | Braincuber | [Read More](https://medium.com/p/3f4fe60ec9e7) |
 | Wed, 28 Jan 2026 15:27:27 GMT | Server Hardening Checklist: Secure Your VPS in Under 2 Hours | Kevin Gabeci | [Read More](https://medium.com/p/b6ecd0904e0c) |
 | Wed, 28 Jan 2026 15:26:01 GMT | CTFTime: The Easiest Way to Start Doing Real CTFs Worldwide | 0xCyberNoob | [Read More](https://medium.com/p/77df0a7066aa) |
@@ -29,6 +48,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 Jan 2026 14:51:01 GMT | Keychain in iOS: Store Passwords Securely (Not in UserDefaults) | Chandra Welim | [Read More](https://medium.com/p/b07e97e6592e) |
 | Wed, 28 Jan 2026 14:46:10 GMT | Python Cache Poisoning — Elevating Your Privileges with Malicious Bytecode | Andrei Bunghez | [Read More](https://medium.com/p/278c9cba0e22) |
 | Wed, 28 Jan 2026 14:41:56 GMT | The Quiet Part of Cybersecurity | Sam Walker | [Read More](https://medium.com/p/2e89d136bd73) |
+| Wed, 28 Jan 2026 14:41:17 GMT | Gaji Tembus Dua Digit! | Alsalsabiil | [Read More](https://medium.com/p/a3988f50a78d) |
 | Wed, 28 Jan 2026 14:39:05 GMT | Beyond the Walls: The Sacred Work of Community Nursing | Treasure caulcrick | [Read More](https://medium.com/p/d1ac9441c5d2) |
 | Wed, 28 Jan 2026 14:38:33 GMT | Applied-AI Applications in Retail | David H. Deans | [Read More](https://medium.com/p/477deefcab88) |
 | Wed, 28 Jan 2026 14:35:06 GMT | Newsletter — CyberTalents Web Security Challenge (Easy) | Z3DX | [Read More](https://medium.com/p/c8ef08ba5e4d) |
@@ -94,23 +114,3 @@ Tools & Reasoning | MANJEET KUMAR | [Read More](https://medium.com/p/1ac8b4c0ae2
 | Wed, 28 Jan 2026 10:36:01 GMT | Fletcher Reede The Coder: Introducing Our New Project Manager | Namir Sagheenanajar | [Read More](https://medium.com/p/b308e45d494d) |
 | Wed, 28 Jan 2026 10:34:25 GMT | Quantum Threat: Why You Need to Think About HNDL Today | Samuel Odekunle | [Read More](https://medium.com/p/e1cac3fe0679) |
 | Wed, 28 Jan 2026 10:27:58 GMT | How AI Detects Productivity Gaps Humans Often Miss | Spotem | [Read More](https://medium.com/p/3db90be98afb) |
-| Wed, 28 Jan 2026 10:20:42 GMT | Pornhub Blocks UK, Meta Censors ICE Data, and Amazon Closes Physical Stores - The Daily Tech… | Souren Stepanyan | [Read More](https://medium.com/p/c77eb12fc9db) |
-| Wed, 28 Jan 2026 10:17:22 GMT | 0xL4ugh CTF v5 — Delicious Meeting & Dune OSINT Challenges | Ahmed Mohammed | [Read More](https://medium.com/p/4507fb089840) |
-| Wed, 28 Jan 2026 10:15:30 GMT | More Alerts Won’t Save You in 2026 | Graylog | [Read More](https://medium.com/p/cd3804ab3fe6) |
-| Wed, 28 Jan 2026 10:09:36 GMT | Cryptography Basics — TryHackMe Answers - by Deepti Gupta | Deeptisg | [Read More](https://medium.com/p/61b92fced26b) |
-| Wed, 28 Jan 2026 10:09:07 GMT | How to Hunt for Path Traversal <3 | R1punjay_Singh | [Read More](https://medium.com/p/fd72791ffa69) |
-| Wed, 28 Jan 2026 10:03:32 GMT | Hack The Box (HTB) Web Requests Walkthrough: My Solutions | Abhinav Gumgol | [Read More](https://medium.com/p/206d0d4390b5) |
-| Wed, 28 Jan 2026 09:55:30 GMT | How a Critical Race Condition in a Management System Led to a $0 Bounty | Abhishek Gupta | [Read More](https://medium.com/p/8ac2d0ad17da) |
-| Wed, 28 Jan 2026 09:55:18 GMT | How Network Protection Solutions Safeguard Your Data from Cyber Threats | Deepa | [Read More](https://medium.com/p/bd87452247be) |
-| Wed, 28 Jan 2026 09:53:30 GMT | Cybersecurity as National Resilience. The Greek paradigm. | Velissarios Housos | [Read More](https://medium.com/p/9ddd92b63831) |
-| Wed, 28 Jan 2026 09:48:53 GMT | Stop Using Google Drive for Your Will: The Safer Alternative | InsureYouKnow | [Read More](https://medium.com/p/61ab2c6c18e3) |
-| Wed, 28 Jan 2026 09:46:38 GMT | Your Trusted Partner in Professional Security Services | Professional UK Services | [Read More](https://medium.com/p/9cc9592a5cdb) |
-| Wed, 28 Jan 2026 09:46:01 GMT | Q2 2025: I locked in and did amazing… | Umar Farouk | [Read More](https://medium.com/p/d534c4124149) |
-| Wed, 28 Jan 2026 09:36:41 GMT | Account setup and project setup - Squarespace development kit | ProjektID | [Read More](https://medium.com/p/2aba4a379a89) |
-| Wed, 28 Jan 2026 09:31:09 GMT | Managing AWS S3 Permissions at Scale with IAM Groups | Felipe Limeira | [Read More](https://medium.com/p/66035ff8a947) |
-| Wed, 28 Jan 2026 09:29:26 GMT | Streamlining Field Operations with Modern Field Service Software | Smithandy | [Read More](https://medium.com/p/6a6e2a645d3a) |
-| Wed, 28 Jan 2026 09:27:14 GMT | Who You Gotta Watch Out For | Illuminati Ganga Agent 86 | [Read More](https://medium.com/p/eaa6e4c934f4) |
-| Wed, 28 Jan 2026 09:26:44 GMT | Copypasta writeup (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/3f0fddabc9e1) |
-| Wed, 28 Jan 2026 09:24:43 GMT | Can You Hack a Human? Red Teamers Prove It Every Day | Redfox Security | [Read More](https://medium.com/p/35a78f43cf0f) |
-| Wed, 28 Jan 2026 09:17:01 GMT | Internal Privilege Escalation — PG Practice “Astronaut” | Solynth.exe | [Read More](https://medium.com/p/5af0bed55ca1) |
-| Wed, 28 Jan 2026 09:13:11 GMT | How I Fell for a Sophisticated Forex Scam — and What I Learned From It | Ed Gines | [Read More](https://medium.com/p/cc388190d3aa) |
