@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 Jan 2026 11:13:55 GMT | m00nwalk — When an Audio File Isn’t Meant to Be Heard | Soumyashree Sahoo | [Read More](https://medium.com/p/8367353e062b) |
+| Wed, 28 Jan 2026 11:08:38 GMT | WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware — A Crucial… | Germano Costi | [Read More](https://medium.com/p/7f146fead455) |
+| Wed, 28 Jan 2026 11:05:42 GMT | ReconFTW : automatiser la reconnaissance pour une surface d’attaque complète | ghostyjoe | [Read More](https://medium.com/p/e3a474ecc92d) |
+| Wed, 28 Jan 2026 11:01:01 GMT | How I Tricked a Scammer into Apologizing to My Cat (Before Revealing I Was Using Kali Linux) | freerave | [Read More](https://medium.com/p/2927a1820c44) |
+| Wed, 28 Jan 2026 10:58:31 GMT | What Did the Attacker Really See? Rebuilding Query Results from Oracle Unified Auditing | Thomas Minne | [Read More](https://medium.com/p/44cff77e82a7) |
+| Wed, 28 Jan 2026 10:56:40 GMT | ️Security Operations Center (SOC): Structure, Roles, and Importance‍ | Md. Jawad Jabbar Khan Authoi | [Read More](https://medium.com/p/ea5b667c9a9d) |
+| Wed, 28 Jan 2026 10:50:49 GMT | 2. OAuth Misbinding Vulnerability | Abhijeet kumawat | [Read More](https://medium.com/p/ed0e0830bdde) |
+| Wed, 28 Jan 2026 10:47:35 GMT | # Stabilizing Unstable Shells — A Practical Guide | Roshan Rajbanshi | [Read More](https://medium.com/p/0d0ca3a67125) |
+| Wed, 28 Jan 2026 10:46:38 GMT | Custom Software vs Off-the-Shelf Tools: What Fits You? | Vertex Invo | [Read More](https://medium.com/p/3c1b4dcee764) |
+| Wed, 28 Jan 2026 10:42:49 GMT | Shadow Track HACKVISER— Complete Walthrough with
+Tools & Reasoning | MANJEET KUMAR | [Read More](https://medium.com/p/1ac8b4c0ae2e) |
+| Wed, 28 Jan 2026 10:42:23 GMT | OTP Bypass via Client-Side Encryption Flaw | eSecForte Technologies | [Read More](https://medium.com/p/cc3a349a2b53) |
+| Wed, 28 Jan 2026 10:38:44 GMT | Common Pitfalls in SOC 2 Audits (and How to Avoid Them) | CFE CERTIFICATION | [Read More](https://medium.com/p/4262bb0ab11b) |
+| Wed, 28 Jan 2026 10:36:53 GMT | The Rise of Billions Network and the Future of Digital Identity | Hikay_smart | [Read More](https://medium.com/p/0c0a33901822) |
+| Wed, 28 Jan 2026 10:36:01 GMT | Fletcher Reede The Coder: Introducing Our New Project Manager | Namir Sagheenanajar | [Read More](https://medium.com/p/b308e45d494d) |
+| Wed, 28 Jan 2026 10:34:25 GMT | Quantum Threat: Why You Need to Think About HNDL Today | Samuel Odekunle | [Read More](https://medium.com/p/e1cac3fe0679) |
+| Wed, 28 Jan 2026 10:27:58 GMT | How AI Detects Productivity Gaps Humans Often Miss | Spotem | [Read More](https://medium.com/p/3db90be98afb) |
 | Wed, 28 Jan 2026 10:20:42 GMT | Pornhub Blocks UK, Meta Censors ICE Data, and Amazon Closes Physical Stores - The Daily Tech… | Souren Stepanyan | [Read More](https://medium.com/p/c77eb12fc9db) |
 | Wed, 28 Jan 2026 10:17:22 GMT | 0xL4ugh CTF v5 — Delicious Meeting & Dune OSINT Challenges | Ahmed Mohammed | [Read More](https://medium.com/p/4507fb089840) |
 | Wed, 28 Jan 2026 10:15:30 GMT | More Alerts Won’t Save You in 2026 | Graylog | [Read More](https://medium.com/p/cd3804ab3fe6) |
@@ -96,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 Jan 2026 04:34:28 GMT | 40 Essential Bash One-Liners for Pentesting-from my notes | Mosabbirshemul | [Read More](https://medium.com/p/c9903bd1adf5) |
 | Wed, 28 Jan 2026 04:31:07 GMT | Using SlowAPI in FastAPI: Mastering Rate Limiting Like a Pro | Shiladitya Majumder | [Read More](https://medium.com/p/19044cb6062b) |
 | Wed, 28 Jan 2026 04:27:06 GMT | One Month In: What Tools Don’t Teach You in a SOC | Alfredo Zablah | [Read More](https://medium.com/p/fe40bbeb9f51) |
-| Wed, 28 Jan 2026 04:24:43 GMT | LetsDefend — 
-SOC326 — Impersonating Domain MX Record Change Detected | Owais Ali Khan | [Read More](https://medium.com/p/52586a9b0581) |
-| Wed, 28 Jan 2026 04:20:14 GMT | Cybertelant-Red-Stone-Admin | SPIDER1SEC | [Read More](https://medium.com/p/ad7abd66215d) |
-| Wed, 28 Jan 2026 04:14:29 GMT | Geometry Dash Lite APK | Apkpuredev | [Read More](https://medium.com/p/e262f1a8260a) |
-| Wed, 28 Jan 2026 04:11:40 GMT | Picoctf - corrupt-key-1 | SPIDER1SEC | [Read More](https://medium.com/p/0fda6dbee8e2) |
-| Wed, 28 Jan 2026 04:09:28 GMT | Best Proxy Service 2026 Buying Guide | Gabriele Wayner | [Read More](https://medium.com/p/913ada242593) |
-| Wed, 28 Jan 2026 04:06:24 GMT | A Practical Analysis of Suricata IDS: Why Suricata Didn’t Alert | Zohal | [Read More](https://medium.com/p/cf17da74abec) |
-| Wed, 28 Jan 2026 04:02:54 GMT | The “TMI” Endpoint: Why Unauthenticated Health Checks Are a Hacker’s Best Friend (And Why I Got 0… | Zer0Figure | [Read More](https://medium.com/p/2945d21ea08f) |
-| Wed, 28 Jan 2026 03:51:12 GMT | How Autonomous AI Agents Are Redefining Cyber Threat Models in 2026 | Jackdavis Iap | [Read More](https://medium.com/p/fe7eab4fc12b) |
-| Wed, 28 Jan 2026 03:44:59 GMT | NCAE C2Games MiniHacks 2025 Challenge Walkthrough | Samuel McLamb | [Read More](https://medium.com/p/ea6f67bb2a0e) |
-| Wed, 28 Jan 2026 03:36:41 GMT | Exploiting SQL Injection with SQLMap | Cybeague Technologies | [Read More](https://medium.com/p/89f90efe5f80) |
-| Wed, 28 Jan 2026 03:36:02 GMT | Fingerprinting Web Technologies with WhatWeb | Cybeague Technologies | [Read More](https://medium.com/p/180d222df16d) |
-| Wed, 28 Jan 2026 03:34:58 GMT | How to Build a Cybersecurity Career in 2026 — Courses, Skills & Tools | CyberBruhArmy | [Read More](https://medium.com/p/9b51d4f02362) |
-| Wed, 28 Jan 2026 03:33:23 GMT | The Security Mistakes Most React & Next.js Developers Don’t Know They’re Making | CodeForDreams | [Read More](https://medium.com/p/00f7799d7364) |
-| Wed, 28 Jan 2026 03:31:01 GMT | The Illusion of Internal Trust: How Email Routing Misconfigurations Enable Phishing | Deven Chhajed | [Read More](https://medium.com/p/96e2b0bacc26) |
-| Wed, 28 Jan 2026 03:17:00 GMT | Bypass de Autenticação no telnetd (GNU Inetutils) — Estudo em Laboratório | Matheus Viana | [Read More](https://medium.com/p/8662dba86f87) |
-| Wed, 28 Jan 2026 02:54:31 GMT | sobre a tautologia e o movimento coach | Lima e Pereira | [Read More](https://medium.com/p/9a3bcdbcb843) |
