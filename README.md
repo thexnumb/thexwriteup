@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 Jan 2026 22:11:42 GMT | 3 Patterns for Kubernetes TLS: Why I Settled on NLB Passthrough and cert-manager | Ukatane Isaac | [Read More](https://medium.com/p/78931b2d5271) |
+| Wed, 28 Jan 2026 22:11:02 GMT | Why Security Breaches Hurt More in Healthcare | Mohsin Khan | [Read More](https://medium.com/p/677eafdb0ce3) |
+| Wed, 28 Jan 2026 22:00:29 GMT | Thinking about the Sec+? | Aaronashley | [Read More](https://medium.com/p/795e10e1196d) |
+| Wed, 28 Jan 2026 21:47:53 GMT | Why WebRDP Matters for AI-Enabled Developer Workspaces | Mammoth Cyber | [Read More](https://medium.com/p/707cf1d7c70d) |
+| Wed, 28 Jan 2026 21:46:50 GMT | How a Single BEC Phishing Email led to an Account Compromise | Prince Johnrhoe Nocos | [Read More](https://medium.com/p/b81d51b5fac4) |
+| Wed, 28 Jan 2026 21:41:01 GMT | TryHackMe Walkthrough — Authentication Bypass via Client-Side Validation | Lucas de Souza Lima | [Read More](https://medium.com/p/323fb240c6e3) |
 | Wed, 28 Jan 2026 21:21:42 GMT | Internet Safety & Financial Awareness: Best Practices for Protecting Yourself Online | Fortress Protocol | [Read More](https://medium.com/p/1817e7b7f0c4) |
 | Wed, 28 Jan 2026 21:16:29 GMT | The Cybersecurity Mistakes Everyone Makes (And How to Actually Fix Them) | Abdelaziz moustakim | [Read More](https://medium.com/p/e7b3a6c09d3a) |
 | Wed, 28 Jan 2026 21:09:14 GMT | HackThisSite — Basic Level 1 — Hardcoded Password Vulnerability | Javier | [Read More](https://medium.com/p/7d478bc6ccb3) |
@@ -107,9 +113,3 @@ Nova Scotia has… | Digistarai | [Read More](https://medium.com/p/241f88c7e435)
 | Wed, 28 Jan 2026 15:18:56 GMT | What It Really Takes to Monitor an AI Application as a SOC Analyst | Kate Amarachukwu Igwilo | [Read More](https://medium.com/p/ec1384e6b0c0) |
 | Wed, 28 Jan 2026 15:18:05 GMT | Dc3.2 Write-up | Tugrulakagunduz | [Read More](https://medium.com/p/edc61efafa21) |
 | Wed, 28 Jan 2026 15:07:20 GMT | Cyber Briefing: 2026.01.28 | CyberMaterial | [Read More](https://medium.com/p/215ab8932151) |
-| Wed, 28 Jan 2026 15:04:18 GMT | My SOC Journey Begins with One Question: What Is a System? | Harvinder Singh | [Read More](https://medium.com/p/a9dbf3cddb69) |
-| Wed, 28 Jan 2026 15:03:28 GMT | Science is the systematic study of the natural world . | Nazimiqbal | [Read More](https://medium.com/p/5aeadd5056c6) |
-| Wed, 28 Jan 2026 14:59:15 GMT | Phishing Books- First-Shift-CTF - Walkthrough | Visir | [Read More](https://medium.com/p/f227b7843f67) |
-| Wed, 28 Jan 2026 14:57:46 GMT | ADCS ESC8 Attack: Certificate-Based Domain Compromise — Complete Guide | Andrey Pautov | [Read More](https://medium.com/p/7ec76562fa6d) |
-| Wed, 28 Jan 2026 14:52:27 GMT | A Practical 10-Day Azure Platform Engineering Ramp-Up | Hilton Gusmão | [Read More](https://medium.com/p/13ab92fabc04) |
-| Wed, 28 Jan 2026 14:52:22 GMT | Real Feedback Comes from Free Markets and Nature | Olajide Muhammed | [Read More](https://medium.com/p/a2fe3788956d) |
