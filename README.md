@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 Jan 2026 23:27:35 GMT | IoA vs IoC in Cybersecurity: What’s the Difference and Why It Matters | Dennis Duke | [Read More](https://medium.com/p/277bd928687b) |
+| Wed, 28 Jan 2026 23:00:20 GMT | Dockerfile: Hardening e boas práticas | Caio Volpato | [Read More](https://medium.com/p/24acaa25bf1e) |
+| Wed, 28 Jan 2026 22:51:01 GMT | Day 3 : Vulnerability Research | Cybersecurity with Jojo | [Read More](https://medium.com/p/30f1473677ac) |
 | Wed, 28 Jan 2026 22:46:45 GMT | Microsoft Fabric Core Patterns for accessing Private Data Sources | Inderjit Rana | [Read More](https://medium.com/p/2631c4cd0c4d) |
 | Wed, 28 Jan 2026 22:38:41 GMT | Follina (BlueTeamLabs) | IgnoranzaSolare | [Read More](https://medium.com/p/76040074e8a0) |
 | Wed, 28 Jan 2026 22:36:52 GMT | Anatomy of a Kinsing Attack: How an Open PostgreSQL Port Exposed My AWS Server for 7 Days | Jarmijos | [Read More](https://medium.com/p/5794f83ad23b) |
@@ -76,6 +79,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 Jan 2026 17:41:51 GMT | HTB Academy — File Upload Attacks: Skills Assessment | BotsiCat | [Read More](https://medium.com/p/29ca00fd14c2) |
 | Wed, 28 Jan 2026 17:40:57 GMT | Retour d’expérience sur la HTB CWES | 0110m4n | [Read More](https://medium.com/p/1c23377a33f0) |
 | Wed, 28 Jan 2026 17:39:08 GMT | Emergency Locksmith Service You Can Trust Across London | The Lock Specialist Ltd | [Read More](https://medium.com/p/6454d1371be0) |
+| Wed, 28 Jan 2026 17:28:34 GMT | SSRF via Content-Type in Apache — Auditor - FahemSec | Abdelrahman Radwan | [Read More](https://medium.com/p/16c9b1ac0d4a) |
 | Wed, 28 Jan 2026 17:25:08 GMT | picoCTF : Input Injection 2 ( Binary Exploitation ) | Yasin Arafat Tanim | [Read More](https://medium.com/p/58da8b9ea8ab) |
 | Wed, 28 Jan 2026 17:21:36 GMT | Top 3 Smart Contract Auditors in 2026: How to compare providers and pick the right model | Sherlock | [Read More](https://medium.com/p/11b19c40b0a6) |
 | Wed, 28 Jan 2026 17:17:23 GMT | Feature-Rich, Judgment-Poor: When Capability Stops Being the Scarcity | David Park | [Read More](https://medium.com/p/fad396841eea) |
@@ -109,7 +113,3 @@ Nova Scotia has… | Digistarai | [Read More](https://medium.com/p/241f88c7e435)
 | Wed, 28 Jan 2026 15:44:41 GMT | Proving Grounds Linux Box Extplorer ( Road to OSCP ) | Cyb0rgBytes | [Read More](https://medium.com/p/008c742ea143) |
 | Wed, 28 Jan 2026 15:39:06 GMT | Go’s runtime/secret: A New Era of Secure Memory Handling | aman kohli | [Read More](https://medium.com/p/2f1e581517f1) |
 | Wed, 28 Jan 2026 15:34:11 GMT | A New Login Scam Can Hijack Your Entire Microsoft ecosystem. | Karl Buhl | [Read More](https://medium.com/p/142d22f76a07) |
-| Wed, 28 Jan 2026 15:31:42 GMT | Why Serious Hackers Don’t Use Windows as Their Main OS | Explainer | [Read More](https://medium.com/p/589bd2610b55) |
-| Wed, 28 Jan 2026 15:31:01 GMT | Manufacturing Security 2026: Protect Your Cloud Odoo From Ransomware, Breaches, and $10.22M | Braincuber | [Read More](https://medium.com/p/3f4fe60ec9e7) |
-| Wed, 28 Jan 2026 15:27:27 GMT | Server Hardening Checklist: Secure Your VPS in Under 2 Hours | Kevin Gabeci | [Read More](https://medium.com/p/b6ecd0904e0c) |
-| Wed, 28 Jan 2026 15:26:01 GMT | CTFTime: The Easiest Way to Start Doing Real CTFs Worldwide | 0xCyberNoob | [Read More](https://medium.com/p/77df0a7066aa) |
