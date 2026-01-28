@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 Jan 2026 22:46:45 GMT | Microsoft Fabric Core Patterns for accessing Private Data Sources | Inderjit Rana | [Read More](https://medium.com/p/2631c4cd0c4d) |
+| Wed, 28 Jan 2026 22:38:41 GMT | Follina (BlueTeamLabs) | IgnoranzaSolare | [Read More](https://medium.com/p/76040074e8a0) |
+| Wed, 28 Jan 2026 22:36:52 GMT | Anatomy of a Kinsing Attack: How an Open PostgreSQL Port Exposed My AWS Server for 7 Days | Jarmijos | [Read More](https://medium.com/p/5794f83ad23b) |
+| Wed, 28 Jan 2026 22:21:31 GMT | Cybersecurity and Spiritual Vigilance: Lessons from APT | Inemesit Alunyo | [Read More](https://medium.com/p/692636584383) |
 | Wed, 28 Jan 2026 22:11:42 GMT | 3 Patterns for Kubernetes TLS: Why I Settled on NLB Passthrough and cert-manager | Ukatane Isaac | [Read More](https://medium.com/p/78931b2d5271) |
 | Wed, 28 Jan 2026 22:11:02 GMT | Why Security Breaches Hurt More in Healthcare | Mohsin Khan | [Read More](https://medium.com/p/677eafdb0ce3) |
 | Wed, 28 Jan 2026 22:00:29 GMT | Thinking about the Sec+? | Aaronashley | [Read More](https://medium.com/p/795e10e1196d) |
@@ -109,7 +113,3 @@ Nova Scotia has… | Digistarai | [Read More](https://medium.com/p/241f88c7e435)
 | Wed, 28 Jan 2026 15:31:01 GMT | Manufacturing Security 2026: Protect Your Cloud Odoo From Ransomware, Breaches, and $10.22M | Braincuber | [Read More](https://medium.com/p/3f4fe60ec9e7) |
 | Wed, 28 Jan 2026 15:27:27 GMT | Server Hardening Checklist: Secure Your VPS in Under 2 Hours | Kevin Gabeci | [Read More](https://medium.com/p/b6ecd0904e0c) |
 | Wed, 28 Jan 2026 15:26:01 GMT | CTFTime: The Easiest Way to Start Doing Real CTFs Worldwide | 0xCyberNoob | [Read More](https://medium.com/p/77df0a7066aa) |
-| Wed, 28 Jan 2026 15:22:34 GMT | Exploit Lab: WPQuery (CVE-2024–50498) | Josh Beck | [Read More](https://medium.com/p/ba16c230f92c) |
-| Wed, 28 Jan 2026 15:18:56 GMT | What It Really Takes to Monitor an AI Application as a SOC Analyst | Kate Amarachukwu Igwilo | [Read More](https://medium.com/p/ec1384e6b0c0) |
-| Wed, 28 Jan 2026 15:18:05 GMT | Dc3.2 Write-up | Tugrulakagunduz | [Read More](https://medium.com/p/edc61efafa21) |
-| Wed, 28 Jan 2026 15:07:20 GMT | Cyber Briefing: 2026.01.28 | CyberMaterial | [Read More](https://medium.com/p/215ab8932151) |
