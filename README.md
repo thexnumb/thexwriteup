@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 Jan 2026 21:21:42 GMT | Internet Safety & Financial Awareness: Best Practices for Protecting Yourself Online | Fortress Protocol | [Read More](https://medium.com/p/1817e7b7f0c4) |
+| Wed, 28 Jan 2026 21:16:29 GMT | The Cybersecurity Mistakes Everyone Makes (And How to Actually Fix Them) | Abdelaziz moustakim | [Read More](https://medium.com/p/e7b3a6c09d3a) |
+| Wed, 28 Jan 2026 21:09:14 GMT | HackThisSite — Basic Level 1 — Hardcoded Password Vulnerability | Javier | [Read More](https://medium.com/p/7d478bc6ccb3) |
+| Wed, 28 Jan 2026 21:07:18 GMT | We Share More Than We Realize | Azeezah | [Read More](https://medium.com/p/a3e72312d25a) |
+| Wed, 28 Jan 2026 21:03:04 GMT | 2026 Siber Saldırıları-1 | Zekikayaalp | [Read More](https://medium.com/p/a414dcdcb03b) |
+| Wed, 28 Jan 2026 20:52:23 GMT | Security and Performance Aspects of Kernel Module Development | Linux Guide | [Read More](https://medium.com/p/484e8d621727) |
+| Wed, 28 Jan 2026 20:49:07 GMT | ELK Stack: Veri İşleme ve Elasticsearch Dünyasına Giriş(TryHackMe-Logstash: Data Processing Unit… | Ahmet Hakan Öztürk | [Read More](https://medium.com/p/dd938421ce7a) |
+| Wed, 28 Jan 2026 20:44:37 GMT | Year of the Fox — TryHackMe Walkthrough | Md Fahim Al Shihab | [Read More](https://medium.com/p/146836333a59) |
+| Wed, 28 Jan 2026 20:42:48 GMT | HIPAA 2026 & HITECH-Driven Accountability for the Proposed Security Rule Reset | Valdez Ladd | [Read More](https://medium.com/p/03edc8f16d92) |
+| Wed, 28 Jan 2026 20:38:23 GMT | The secrets to Dump Pin Carding in 2026 Exposed | CVV Market CC | [Read More](https://medium.com/p/b465a6e75aff) |
+| Wed, 28 Jan 2026 20:36:08 GMT | Business Security Solutions 2026: Integrated Physical & Cyber Protection Systems | Fortnexs Shield | [Read More](https://medium.com/p/7affb13809e7) |
+| Wed, 28 Jan 2026 20:35:41 GMT | BOPLA: When APIs Expose More Than They Should | Emmanuelnnebedum | [Read More](https://medium.com/p/583a4135b1ba) |
 | Wed, 28 Jan 2026 20:26:01 GMT | Scalable Security: Why Your HIPAA Strategy Should Grow With You | Medcurity | [Read More](https://medium.com/p/f29b0364b3b2) |
 | Wed, 28 Jan 2026 20:25:30 GMT | I Didn’t Run Tools I Just Read the Logs | Incidalus | [Read More](https://medium.com/p/0124144d08bc) |
 | Wed, 28 Jan 2026 20:23:58 GMT | Cybersecurity Threats Everyone Should Know About in 2026 | Ihteshamkhalid | [Read More](https://medium.com/p/b2156ab898ba) |
@@ -101,16 +113,3 @@ Nova Scotia has… | Digistarai | [Read More](https://medium.com/p/241f88c7e435)
 | Wed, 28 Jan 2026 14:57:46 GMT | ADCS ESC8 Attack: Certificate-Based Domain Compromise — Complete Guide | Andrey Pautov | [Read More](https://medium.com/p/7ec76562fa6d) |
 | Wed, 28 Jan 2026 14:52:27 GMT | A Practical 10-Day Azure Platform Engineering Ramp-Up | Hilton Gusmão | [Read More](https://medium.com/p/13ab92fabc04) |
 | Wed, 28 Jan 2026 14:52:22 GMT | Real Feedback Comes from Free Markets and Nature | Olajide Muhammed | [Read More](https://medium.com/p/a2fe3788956d) |
-| Wed, 28 Jan 2026 14:51:32 GMT | How DeltaPrime Rebuilt Security After 2024 | DeltaPrime | [Read More](https://medium.com/p/8182df022c0f) |
-| Wed, 28 Jan 2026 14:51:01 GMT | Keychain in iOS: Store Passwords Securely (Not in UserDefaults) | Chandra Welim | [Read More](https://medium.com/p/b07e97e6592e) |
-| Wed, 28 Jan 2026 14:46:10 GMT | Python Cache Poisoning — Elevating Your Privileges with Malicious Bytecode | Andrei Bunghez | [Read More](https://medium.com/p/278c9cba0e22) |
-| Wed, 28 Jan 2026 14:41:56 GMT | The Quiet Part of Cybersecurity | Sam Walker | [Read More](https://medium.com/p/2e89d136bd73) |
-| Wed, 28 Jan 2026 14:41:17 GMT | Gaji Tembus Dua Digit! | Alsalsabiil | [Read More](https://medium.com/p/a3988f50a78d) |
-| Wed, 28 Jan 2026 14:39:05 GMT | Beyond the Walls: The Sacred Work of Community Nursing | Treasure caulcrick | [Read More](https://medium.com/p/d1ac9441c5d2) |
-| Wed, 28 Jan 2026 14:38:33 GMT | Applied-AI Applications in Retail | David H. Deans | [Read More](https://medium.com/p/477deefcab88) |
-| Wed, 28 Jan 2026 14:35:06 GMT | Newsletter — CyberTalents Web Security Challenge (Easy) | Z3DX | [Read More](https://medium.com/p/c8ef08ba5e4d) |
-| Wed, 28 Jan 2026 14:26:33 GMT | How Businesses Can Defend Against Cyber Threats During the 2026 FIFA World Cup | IT_Engineer | [Read More](https://medium.com/p/a36c595c29ba) |
-| Wed, 28 Jan 2026 14:24:52 GMT | Welcome to Forensic Academy
-India’s trusted Cyber Security & Forensic Intelligence Training Centre… | Forensic Academy | [Read More](https://medium.com/p/6f043a987a68) |
-| Wed, 28 Jan 2026 14:22:57 GMT | The “By-Sight” Subnetting Methodology: A Guide for Network Engineers and SOC Analysts | osama Moussa | [Read More](https://medium.com/p/420ea811f728) |
-| Wed, 28 Jan 2026 14:20:29 GMT | What Hackers See When You Go Online | Genrunic | [Read More](https://medium.com/p/20309d054764) |
