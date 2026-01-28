@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 Jan 2026 15:31:01 GMT | Manufacturing Security 2026: Protect Your Cloud Odoo From Ransomware, Breaches, and $10.22M | Braincuber | [Read More](https://medium.com/p/3f4fe60ec9e7) |
+| Wed, 28 Jan 2026 15:27:27 GMT | Server Hardening Checklist: Secure Your VPS in Under 2 Hours | Kevin Gabeci | [Read More](https://medium.com/p/b6ecd0904e0c) |
+| Wed, 28 Jan 2026 15:26:01 GMT | CTFTime: The Easiest Way to Start Doing Real CTFs Worldwide | 0xCyberNoob | [Read More](https://medium.com/p/77df0a7066aa) |
+| Wed, 28 Jan 2026 15:22:34 GMT | Exploit Lab: WPQuery (CVE-2024–50498) | Josh Beck | [Read More](https://medium.com/p/ba16c230f92c) |
+| Wed, 28 Jan 2026 15:18:56 GMT | What It Really Takes to Monitor an AI Application as a SOC Analyst | Kate Amarachukwu Igwilo | [Read More](https://medium.com/p/ec1384e6b0c0) |
+| Wed, 28 Jan 2026 15:18:05 GMT | Dc3.2 Write-up | Tugrulakagunduz | [Read More](https://medium.com/p/edc61efafa21) |
+| Wed, 28 Jan 2026 15:07:20 GMT | Cyber Briefing: 2026.01.28 | CyberMaterial | [Read More](https://medium.com/p/215ab8932151) |
+| Wed, 28 Jan 2026 15:04:18 GMT | My SOC Journey Begins with One Question: What Is a System? | Harvinder Singh | [Read More](https://medium.com/p/a9dbf3cddb69) |
+| Wed, 28 Jan 2026 15:03:28 GMT | Science is the systematic study of the natural world . | Nazimiqbal | [Read More](https://medium.com/p/5aeadd5056c6) |
+| Wed, 28 Jan 2026 14:59:15 GMT | Phishing Books- First-Shift-CTF - Walkthrough | Visir | [Read More](https://medium.com/p/f227b7843f67) |
+| Wed, 28 Jan 2026 14:57:46 GMT | ADCS ESC8 Attack: Certificate-Based Domain Compromise — Complete Guide | Andrey Pautov | [Read More](https://medium.com/p/7ec76562fa6d) |
+| Wed, 28 Jan 2026 14:52:27 GMT | A Practical 10-Day Azure Platform Engineering Ramp-Up | Hilton Gusmão | [Read More](https://medium.com/p/13ab92fabc04) |
+| Wed, 28 Jan 2026 14:52:22 GMT | Real Feedback Comes from Free Markets and Nature | Olajide Muhammed | [Read More](https://medium.com/p/a2fe3788956d) |
+| Wed, 28 Jan 2026 14:51:32 GMT | How DeltaPrime Rebuilt Security After 2024 | DeltaPrime | [Read More](https://medium.com/p/8182df022c0f) |
+| Wed, 28 Jan 2026 14:51:01 GMT | Keychain in iOS: Store Passwords Securely (Not in UserDefaults) | Chandra Welim | [Read More](https://medium.com/p/b07e97e6592e) |
+| Wed, 28 Jan 2026 14:46:10 GMT | Python Cache Poisoning — Elevating Your Privileges with Malicious Bytecode | Andrei Bunghez | [Read More](https://medium.com/p/278c9cba0e22) |
+| Wed, 28 Jan 2026 14:41:56 GMT | The Quiet Part of Cybersecurity | Sam Walker | [Read More](https://medium.com/p/2e89d136bd73) |
+| Wed, 28 Jan 2026 14:39:05 GMT | Beyond the Walls: The Sacred Work of Community Nursing | Treasure caulcrick | [Read More](https://medium.com/p/d1ac9441c5d2) |
+| Wed, 28 Jan 2026 14:38:33 GMT | Applied-AI Applications in Retail | David H. Deans | [Read More](https://medium.com/p/477deefcab88) |
+| Wed, 28 Jan 2026 14:35:06 GMT | Newsletter — CyberTalents Web Security Challenge (Easy) | Z3DX | [Read More](https://medium.com/p/c8ef08ba5e4d) |
 | Wed, 28 Jan 2026 14:26:33 GMT | How Businesses Can Defend Against Cyber Threats During the 2026 FIFA World Cup | IT_Engineer | [Read More](https://medium.com/p/a36c595c29ba) |
 | Wed, 28 Jan 2026 14:24:52 GMT | Welcome to Forensic Academy
 India’s trusted Cyber Security & Forensic Intelligence Training Centre… | Forensic Academy | [Read More](https://medium.com/p/6f043a987a68) |
@@ -94,23 +114,3 @@ Tools & Reasoning | MANJEET KUMAR | [Read More](https://medium.com/p/1ac8b4c0ae2
 | Wed, 28 Jan 2026 09:24:43 GMT | Can You Hack a Human? Red Teamers Prove It Every Day | Redfox Security | [Read More](https://medium.com/p/35a78f43cf0f) |
 | Wed, 28 Jan 2026 09:17:01 GMT | Internal Privilege Escalation — PG Practice “Astronaut” | Solynth.exe | [Read More](https://medium.com/p/5af0bed55ca1) |
 | Wed, 28 Jan 2026 09:13:11 GMT | How I Fell for a Sophisticated Forex Scam — and What I Learned From It | Ed Gines | [Read More](https://medium.com/p/cc388190d3aa) |
-| Wed, 28 Jan 2026 09:06:49 GMT | ด่วน! แจ้งเตือนช่องโหว่ร้ายแรงใน Zoom Node Multimedia Routers เสี่ยงถูกโจมตีและยึดระบบได้ | ThaiCERT By NCSA | [Read More](https://medium.com/p/27650dcb30f2) |
-| Wed, 28 Jan 2026 09:01:04 GMT | What LeakRadar Finds That HaveIBeenPwned Doesn’t | Alexandre Vandamme | [Read More](https://medium.com/p/d10d6730dd97) |
-| Wed, 28 Jan 2026 08:59:17 GMT | Zero-Day Vulnerabilities | Vyntrix | [Read More](https://medium.com/p/f43b8f890fa2) |
-| Wed, 28 Jan 2026 08:57:07 GMT | 900+ Clawdbot Instances Exposed: What DeFi Teams Need to Know About AI Agent Security | Raiders | [Read More](https://medium.com/p/c8f28bc9c3d9) |
-| Wed, 28 Jan 2026 08:50:14 GMT | PowerShell Encoded Commands: Why Attackers Love It and How We Hunt It | Manish Rawat | [Read More](https://medium.com/p/ff680f5c8c35) |
-| Wed, 28 Jan 2026 08:49:10 GMT | Advanced SQLMap Techniques: Automating SQL Injection for Cybersecurity Professionals | Sneha | [Read More](https://medium.com/p/bae810ebeb2b) |
-| Wed, 28 Jan 2026 08:47:14 GMT | İnternetin Görünmez Mimarı: DNS Hakkında Bilmeniz Gereken Her Şey | Hsdfsmvu | [Read More](https://medium.com/p/9fd9a578ed55) |
-| Wed, 28 Jan 2026 08:46:30 GMT | The Challenge of Identity Verification in Global Finance: Finding the “Golden Balance” Between… | Yuanli Technology | [Read More](https://medium.com/p/0f4874619a83) |
-| Wed, 28 Jan 2026 08:38:42 GMT | Internal Access Control Failure — PG Practice “Access” | Solynth.exe | [Read More](https://medium.com/p/d648959ef208) |
-| Wed, 28 Jan 2026 08:38:35 GMT | Learning Bug Bounty the Hard Way: Notes, Mistakes, and Progress | Muhammad Zohaib | [Read More](https://medium.com/p/e304d02daf2a) |
-| Wed, 28 Jan 2026 08:32:10 GMT | The Quiet Glitch: How a Missing Rate Limit Opened the Door to Mass Account Abuse | Very Lazy Tech | [Read More](https://medium.com/p/0f143213cb8f) |
-| Wed, 28 Jan 2026 08:29:51 GMT | Lookup — TryHackMe Writeup/Walkthroug | sudo_0xksh | [Read More](https://medium.com/p/e7d58e644b0d) |
-| Wed, 28 Jan 2026 08:29:42 GMT | LazyAdmin — TryHackMe Writeup / Walkthrough | sudo_0xksh | [Read More](https://medium.com/p/4c53f1921984) |
-| Wed, 28 Jan 2026 08:25:09 GMT | Why Most Companies Should NOT Hire a Red Team (Yet) | Yua Mikanana | [Read More](https://medium.com/p/52f2a8541400) |
-| Wed, 28 Jan 2026 08:01:04 GMT | GCP Network Reliability: Going Beyond the Basics with Cloud Armor and Private Service Connect | Amina lawal | [Read More](https://medium.com/p/af2637d8aa72) |
-| Wed, 28 Jan 2026 07:59:57 GMT | ACSMI Online Certification That Bridges Education and Cyber Defense | ACSMI | [Read More](https://medium.com/p/0869fb1d99a2) |
-| Wed, 28 Jan 2026 07:57:40 GMT | API SECURITY #2: API Keys vs OAuth vs JWTs vs mTLS | Sarah Nzeshi | [Read More](https://medium.com/p/bb77026cb391) |
-| Wed, 28 Jan 2026 07:49:21 GMT | The AI Security Handbook: Defending the Machine Learning Pipeline | Riad Moudjahed | [Read More](https://medium.com/p/e196cbe72773) |
-| Wed, 28 Jan 2026 07:47:21 GMT | Breaking the Guardrails: What I Learned from Red Teaming an LLM | Szilard Kecskemeti | [Read More](https://medium.com/p/d194ff35c0ea) |
-| Wed, 28 Jan 2026 07:31:37 GMT | Lab: Targeted web cache poisoning using an unknown header - Portswigger | L4V4NY4  AGR3 | [Read More](https://medium.com/p/7ec49786a485) |
