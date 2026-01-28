@@ -12,11 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 Jan 2026 20:26:01 GMT | Scalable Security: Why Your HIPAA Strategy Should Grow With You | Medcurity | [Read More](https://medium.com/p/f29b0364b3b2) |
+| Wed, 28 Jan 2026 20:25:30 GMT | I Didn’t Run Tools I Just Read the Logs | Incidalus | [Read More](https://medium.com/p/0124144d08bc) |
+| Wed, 28 Jan 2026 20:23:58 GMT | Cybersecurity Threats Everyone Should Know About in 2026 | Ihteshamkhalid | [Read More](https://medium.com/p/b2156ab898ba) |
+| Wed, 28 Jan 2026 20:21:01 GMT | The Architect of Loneliness: How Being Right Left Me Alone | Vanshika Choudhary | [Read More](https://medium.com/p/cd447c5c4228) |
+| Wed, 28 Jan 2026 20:17:06 GMT | MxCheckSec: Validate SPF, DKIM, DMARC, and more. | Kulkan Security | [Read More](https://medium.com/p/f223f48d5453) |
+| Wed, 28 Jan 2026 20:16:59 GMT | The Day My 67-Year-Old Student Asked If Facebook Was Listening Through Her Phone | Lizzy N | [Read More](https://medium.com/p/f280a6d7762e) |
+| Wed, 28 Jan 2026 20:14:42 GMT | [PT-BR] OnSystemShellDredd — PGPlay — Walkthrough | hacktheborges | [Read More](https://medium.com/p/eba86b2f4c21) |
+| Wed, 28 Jan 2026 20:14:03 GMT | [EN] OnSystemShellDredd — PGPlay — Walkthrough | hacktheborges | [Read More](https://medium.com/p/8dbbcbf06cd3) |
+| Wed, 28 Jan 2026 20:00:40 GMT | Cybersecurity Services by CyberSecOp: Trusted Cyber Security Experts Protecting Your Business | Jeffery Walker | [Read More](https://medium.com/p/42f058d92427) |
+| Wed, 28 Jan 2026 19:58:19 GMT | Peeling the Onion: A Static Deep Dive into a Modular Lumma Stealer Campaign | MabLevi | [Read More](https://medium.com/p/6565711fb2b3) |
+| Wed, 28 Jan 2026 19:52:05 GMT | XSS AS 1337 PWN IT | pwnx1337 | [Read More](https://medium.com/p/c6777361e705) |
+| Wed, 28 Jan 2026 19:49:13 GMT | The Evolution of Slot Hacking — From Russian Syndicates to AI & Side-Channels (2026 Update) | Jonathan Brown | [Read More](https://medium.com/p/b4d6c3d6de5e) |
+| Wed, 28 Jan 2026 19:41:16 GMT | The Wonderful World of Prime Numbers | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/045f5d8768ce) |
+| Wed, 28 Jan 2026 19:41:01 GMT | It’s January 2026. Here Is Why Your Azure Security Strategy Failed. | Tom Croll | [Read More](https://medium.com/p/d4674657a2b9) |
+| Wed, 28 Jan 2026 19:39:00 GMT | Rolling distros don’t break security — Legacy CVE scanners do | Christian Frank Johannsen | [Read More](https://medium.com/p/e9403804ceba) |
+| Wed, 28 Jan 2026 19:36:26 GMT | SOC basics: What Every Fresher Should Know Before Jumping Into Security Operations | Notes From A SOC Fresher | [Read More](https://medium.com/p/d747a704cbaf) |
+| Wed, 28 Jan 2026 19:29:04 GMT | AI Coding Agents: Our Privacy Line in the Sand | Patrick Walsh | [Read More](https://medium.com/p/1c73e858e419) |
 | Wed, 28 Jan 2026 19:26:17 GMT | Homoglyph-based Email Identity Collision in a Secure Email Platform | Bavly Zaher | [Read More](https://medium.com/p/05a2c294ee63) |
 | Wed, 28 Jan 2026 19:19:21 GMT | Cybersecurity Consulting & IT Security Services by CyberSecOp: Protecting Your Business from Modern… | Jeffery Walker | [Read More](https://medium.com/p/29fb3e667dd0) |
 | Wed, 28 Jan 2026 19:10:08 GMT | How to Pass the CompTIA Security+ | Tarunika Kapoor | [Read More](https://medium.com/p/cc70129b95cb) |
 | Wed, 28 Jan 2026 19:09:35 GMT | Breaking Into the Vault of Trust Bank - APT Labs Walkthrough | Qurti/Purpleware | [Read More](https://medium.com/p/6d8aae459339) |
 | Wed, 28 Jan 2026 18:56:26 GMT | Cyber Security in Digital Marketing: Why Your Strategy is Only as Strong as Your Defence | Sougan Mandi | [Read More](https://medium.com/p/71cbbaf7d4a6) |
+| Wed, 28 Jan 2026 18:56:24 GMT | Strategic Foresight Becomes Policy: Middle Power Frameworks Move from Margins to Main Stage | Bea | [Read More](https://medium.com/p/eeb0d5bf580b) |
+| Wed, 28 Jan 2026 18:53:06 GMT | The Ultimate Ransomware Protection Guide for your Business | Cordula Boeck | [Read More](https://medium.com/p/9b9bee34ec81) |
 | Wed, 28 Jan 2026 18:44:47 GMT | Bir Hacker Nasıl Düşünür: Sistemlerin Gizli Dili | Attila453 | [Read More](https://medium.com/p/7d66da74f6ed) |
 | Wed, 28 Jan 2026 18:29:46 GMT | Secure Use of GitHub — CIS-Aligned Technical Guide — Part I | SOCFortress | [Read More](https://medium.com/p/47f5f938c222) |
 | Wed, 28 Jan 2026 18:24:55 GMT | How Backdooring Could Get You Into The System By Using Netcat | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/9719a0cbf6ff) |
@@ -95,22 +114,3 @@ Nova Scotia has… | Digistarai | [Read More](https://medium.com/p/241f88c7e435)
 India’s trusted Cyber Security & Forensic Intelligence Training Centre… | Forensic Academy | [Read More](https://medium.com/p/6f043a987a68) |
 | Wed, 28 Jan 2026 14:22:57 GMT | The “By-Sight” Subnetting Methodology: A Guide for Network Engineers and SOC Analysts | osama Moussa | [Read More](https://medium.com/p/420ea811f728) |
 | Wed, 28 Jan 2026 14:20:29 GMT | What Hackers See When You Go Online | Genrunic | [Read More](https://medium.com/p/20309d054764) |
-| Wed, 28 Jan 2026 14:18:24 GMT | The Security of Car Data | Alfredo Rodriguez | [Read More](https://medium.com/p/df79e46de0e9) |
-| Wed, 28 Jan 2026 14:16:42 GMT | The Perfectionist’s Trap | Pasha | [Read More](https://medium.com/p/2e7233d658f4) |
-| Wed, 28 Jan 2026 14:14:52 GMT | Phishing-Based Initial Access Attack Anatomy: A Threat Intelligence Case Study | Varshaveeraghanta | [Read More](https://medium.com/p/a47e68894dc2) |
-| Wed, 28 Jan 2026 14:14:44 GMT | Escaping the Matrix: A Deep Dive into SandboxJS RCE (CVE-2026–23830) | Meysam Bal-afkan | [Read More](https://medium.com/p/1fbbca3f46fc) |
-| Wed, 28 Jan 2026 14:05:38 GMT | Stronger Mac Backups For Safer Data Protection | Geoffrey Wenger | [Read More](https://medium.com/p/8b068e536a6e) |
-| Wed, 28 Jan 2026 13:59:38 GMT | PicoCTF: droids2 ( Difficulty: Hard ) Reverse Engineering | Yasin Arafat Tanim | [Read More](https://medium.com/p/93853890c856) |
-| Wed, 28 Jan 2026 13:53:46 GMT | Lab: Exploiting cross-site scripting to steal cookies | Chirag Vyas | [Read More](https://medium.com/p/00499eca9bf0) |
-| Wed, 28 Jan 2026 13:48:12 GMT | How Not To Fail Your BSCP Exam | Shahabaj Shaikh | [Read More](https://medium.com/p/6e4055f221cd) |
-| Wed, 28 Jan 2026 13:42:54 GMT | Android Mobile Game Hacking | Just Mobile Security | [Read More](https://medium.com/p/f428aef8eb98) |
-| Wed, 28 Jan 2026 13:40:58 GMT | GParted 1.8 Partition Editor Improves FAT Handling | Khurram Shahzad | [Read More](https://medium.com/p/56d31dfbe19b) |
-| Wed, 28 Jan 2026 13:39:11 GMT | Do Not Overestimate Your Own Brilliance. And Never Underestimate the Observer. | Olena Ratsiuk | [Read More](https://medium.com/p/20019e3acbbe) |
-| Wed, 28 Jan 2026 13:31:12 GMT | The One Metric That Predicts GRC Failure | Navvz | [Read More](https://medium.com/p/9bbe08db9093) |
-| Wed, 28 Jan 2026 13:24:12 GMT | ISC² CSSLP Exam: Securing Software from the Inside Out (Part 5) | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/7dbd80fe96ba) |
-| Wed, 28 Jan 2026 13:20:02 GMT | From Magento Stores to Mobile Apps: Strategies for Growth, Security, and Performance | Chudovo OÜ | [Read More](https://medium.com/p/b0a0f35416e7) |
-| Wed, 28 Jan 2026 13:15:57 GMT | How I Earned a 4-Digit Bounty: Complete Account Takeover via Insecure Session Cookie | Aditya Sunny | [Read More](https://medium.com/p/75d1992c9367) |
-| Wed, 28 Jan 2026 13:15:12 GMT | CVE-2026–0800: Unauthenticated Stored Cross-Site Scripting in User Submitted Posts WordPress Plugin | Balamurugan R | [Read More](https://medium.com/p/303cfeecee1f) |
-| Wed, 28 Jan 2026 13:09:42 GMT | Hardening Production Access: Building a Raspberry Pi Bastion with SSH Keys and 2FA | Linux Amrit | [Read More](https://medium.com/p/803cac9622ff) |
-| Wed, 28 Jan 2026 13:07:39 GMT | Why Cybersecurity Is More About Thinking Like a Hacker Than Coding.. | Nayan Ghimire | [Read More](https://medium.com/p/2c9473d4eafe) |
-| Wed, 28 Jan 2026 13:01:03 GMT | When Nothing Looks Wrong — But You Still Don’t Trust the Logs | Faruk Ahmed | [Read More](https://medium.com/p/41c7b210c8b4) |
