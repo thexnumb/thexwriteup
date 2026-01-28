@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 Jan 2026 12:52:25 GMT | How to Recover an Account After it Gets Hacked | Gautam Basu | [Read More](https://medium.com/p/e9bc3f00c473) |
+| Wed, 28 Jan 2026 12:43:10 GMT | Building a Zero-Knowledge Notes & File Sharing App (ZeroVault) | Gadangi Sainag | [Read More](https://medium.com/p/02315135a5d4) |
+| Wed, 28 Jan 2026 12:32:08 GMT | Stored Cross-Site Scripting (XSS) Vulnerability Report | Ravi Pipalwa | [Read More](https://medium.com/p/c97788dd6ea6) |
+| Wed, 28 Jan 2026 12:22:25 GMT | I passed Security+ on my first attempt — but I did it in exam mode, not craftsman mode. | the CyberStoic | [Read More](https://medium.com/p/dd1aaf217d29) |
+| Wed, 28 Jan 2026 12:20:04 GMT | Everyone Is Hyping Clawbot. Almost Nobody Is Talking About the Security Reality | Hassan Raza | [Read More](https://medium.com/p/8c824f85f83f) |
+| Wed, 28 Jan 2026 12:11:34 GMT | Detection Engineering for Threat Hunting: The Recipe for Proactive Defense | Esra Kayhan | [Read More](https://medium.com/p/ee93ca540710) |
+| Wed, 28 Jan 2026 12:11:01 GMT | Throttling Models for API Security — You Cannot Secure What You Can’t Control | Esra Kayhan | [Read More](https://medium.com/p/2ad88e21aada) |
+| Wed, 28 Jan 2026 12:07:31 GMT | IT Support Services for Businesses - Managed & Remote IT Solutions | Akash | [Read More](https://medium.com/p/1364ed1a6912) |
+| Wed, 28 Jan 2026 12:01:13 GMT | Careers in Artificial Intelligence: Skills, Jobs, Salaries & Growth Path | cyber security Updates | [Read More](https://medium.com/p/9e7f51e8ef94) |
+| Wed, 28 Jan 2026 11:41:56 GMT | The Seven Phases of a Secure Software Development Lifecycle (SSDLC) | Siddiquimohammad | [Read More](https://medium.com/p/b48c846a7865) |
 | Wed, 28 Jan 2026 11:31:10 GMT | Stop Trusting OnlyYour Backend: Let PostgreSQL Enforce Data Security | Alessandro Tornesello | [Read More](https://medium.com/p/04bf2dae375f) |
 | Wed, 28 Jan 2026 11:21:11 GMT | Securing the Modern Web — React and Next.js | Md Shoriful Islam Ashiq | [Read More](https://medium.com/p/ff71015aa1c8) |
 | Wed, 28 Jan 2026 11:13:55 GMT | m00nwalk — When an Audio File Isn’t Meant to Be Heard | Soumyashree Sahoo | [Read More](https://medium.com/p/8367353e062b) |
@@ -103,13 +113,3 @@ Tools & Reasoning | MANJEET KUMAR | [Read More](https://medium.com/p/1ac8b4c0ae2
 | Wed, 28 Jan 2026 05:36:21 GMT | AI and the End of Strategic Monopoly: Distributed Power Beyond the Race | Kosi Gramatikoff | [Read More](https://medium.com/p/7fa598b23efe) |
 | Wed, 28 Jan 2026 05:34:24 GMT | Why Certificate Pinning Alone Won’t Stop Modern MITM Attacks | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/469e1d182bea) |
 | Wed, 28 Jan 2026 05:33:32 GMT | VulnLab: Captcha Bypass Çözümü | CyberSam | [Read More](https://medium.com/p/a385e357bf05) |
-| Wed, 28 Jan 2026 05:31:01 GMT | 1.5 Million Developers Just Had Their Code Stolen, And They Never Saw It Coming | Mehdi BAFDIL | [Read More](https://medium.com/p/a4e1b38b54ba) |
-| Wed, 28 Jan 2026 05:30:30 GMT | Top Firewall Appliance in India: Securing Modern Business Networks | SecuEdge Office Team | [Read More](https://medium.com/p/206bf714b9a3) |
-| Wed, 28 Jan 2026 05:28:08 GMT | The LEGO Problem in API-Led Connectivity | Abhishek Sharma | [Read More](https://medium.com/p/2714d48f60ac) |
-| Wed, 28 Jan 2026 05:09:26 GMT | The Architecture Of Betrayal: Salt Typhoon And The Subversion Of Western Comms | James Marinero, MSc, MBA | [Read More](https://medium.com/p/94b5a26082a9) |
-| Wed, 28 Jan 2026 05:06:19 GMT | Web Application and API Protection Market: Global Trends, Growth Drivers, and Forecast Outlook | Gauri Kale | [Read More](https://medium.com/p/da289393112b) |
-| Wed, 28 Jan 2026 05:01:01 GMT | Small Oversights, Massive Fallout | BeamSec | [Read More](https://medium.com/p/fdfd18af973d) |
-| Wed, 28 Jan 2026 04:59:21 GMT | Retail Store Security Guards in Houston | Security Houston | [Read More](https://medium.com/p/9bcc0ba280b5) |
-| Wed, 28 Jan 2026 04:55:50 GMT | Why Every Healthcare Company Needs Zero Trust Security in 2026 | eDelta Corporation | [Read More](https://medium.com/p/a1916d845efa) |
-| Wed, 28 Jan 2026 04:53:20 GMT | The Dark Side of Being ‘Good at Tech’ | Abdullah Javeed | [Read More](https://medium.com/p/c050f99237db) |
-| Wed, 28 Jan 2026 04:52:17 GMT | Hollow Knight Silksong Apk | Game4u | [Read More](https://medium.com/p/adb926877c06) |
