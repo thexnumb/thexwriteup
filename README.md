@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 Jan 2026 07:24:23 GMT | Stop Trusting. Start Verifying. | LUCKY X | [Read More](https://medium.com/p/73a84ada1413) |
+| Wed, 28 Jan 2026 07:16:23 GMT | Are We Securing The Code… Whilst Attackers Target The Software Supply Chain | Jyostnavya Jakkapu | [Read More](https://medium.com/p/9c0a96aa0c0b) |
+| Wed, 28 Jan 2026 07:04:11 GMT | Data Privacy Day: Why Privacy-First Digital Systems Matter More Than Ever | Observance Solutions | [Read More](https://medium.com/p/e5992673f28b) |
+| Wed, 28 Jan 2026 07:02:55 GMT | CJDE (Certified Junior Detection Engineer) Review and How to prepare for it! | Chicken0248 | [Read More](https://medium.com/p/91e2605ebf26) |
+| Wed, 28 Jan 2026 07:00:34 GMT | The Windows Security Journey — KDMA Protection (Kernel Direct Memory Access Protection) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/5893c5a98fdf) |
+| Wed, 28 Jan 2026 06:59:32 GMT | GDPR gives you 72 hours to notify a breach. | Denny Roger | [Read More](https://medium.com/p/fa8190b3da1b) |
+| Wed, 28 Jan 2026 06:58:13 GMT | LLMs and GENAI Apps: Risk & Mitigations — Part 11: Unbounded Consumption! | Nothing Cyber [NC] | [Read More](https://medium.com/p/db3aef19b9d9) |
+| Wed, 28 Jan 2026 06:54:20 GMT | When SoundCloud Lost Control of Identity, Not Music | Prerna Shukla | [Read More](https://medium.com/p/6202aa7bf484) |
+| Wed, 28 Jan 2026 06:53:10 GMT | Engineering Database Activity Monitoring (DAM) - From Bare-Metal Linux to AWS RDS | Vijenex | [Read More](https://medium.com/p/d6592f7b7fb2) |
+| Wed, 28 Jan 2026 06:43:30 GMT | Visual Studio Code (VS Code) — Secure Installation & CIS Hardening Guide — Part III | SOCFortress | [Read More](https://medium.com/p/902c30bf27c0) |
+| Wed, 28 Jan 2026 06:42:32 GMT | Where to Download Popular Task Management Software for Teams | Promato | [Read More](https://medium.com/p/2545238b368a) |
+| Wed, 28 Jan 2026 06:41:14 GMT | CISSP Domain 8: Master Software Development Security with 10 Essential Questions | Pushpak Sharma | [Read More](https://medium.com/p/4ef74e27a221) |
+| Wed, 28 Jan 2026 06:40:08 GMT | How can I migrate Planet IX Token Swap and Rebranding | AERGO→HPP Token | [Read More](https://medium.com/p/92cb063ab938) |
 | Wed, 28 Jan 2026 06:31:51 GMT | HackTheBox Dancing room | Sagarkadyan | [Read More](https://medium.com/p/dd84825b0e4a) |
 | Wed, 28 Jan 2026 06:20:35 GMT | SaaS Management Platforms Market Trends and Key Drivers | Michel mathew | [Read More](https://medium.com/p/595c8ae81142) |
 | Wed, 28 Jan 2026 06:11:50 GMT | OWASP 2025 | Supriya | [Read More](https://medium.com/p/92e81d56474e) |
@@ -100,16 +113,3 @@ SOC326 — Impersonating Domain MX Record Change Detected | Owais Ali Khan |
 | Tue, 27 Jan 2026 21:54:16 GMT | Bill Gates — Architect of the Software Empire and Pioneer of Global Philanthropy | Stacklegend | [Read More](https://medium.com/p/0716b61598b6) |
 | Tue, 27 Jan 2026 21:54:08 GMT | The Microsoft SOC Stack Explained | Ilyess Sellami | [Read More](https://medium.com/p/1b31a8a0012f) |
 | Tue, 27 Jan 2026 21:46:43 GMT | Bypassing Nginx ACLs in Python Applications | Filip Kecman | [Read More](https://medium.com/p/a7271e2c5a9d) |
-| Tue, 27 Jan 2026 21:44:44 GMT | RAM, ROM, and NVRAM | Aaron DeJong | [Read More](https://medium.com/p/c03c2297c57b) |
-| Tue, 27 Jan 2026 21:43:19 GMT | The Training Data IS the Security Architecture | Jason Connerty | [Read More](https://medium.com/p/6b4335138d53) |
-| Tue, 27 Jan 2026 21:28:33 GMT | Mastering MITRE ATT&CK: The Definitive Guide for Modern SOC Analysts | Somesh | [Read More](https://medium.com/p/1f638d895aa3) |
-| Tue, 27 Jan 2026 21:07:33 GMT | What can a Quantum Computer actually do? | Darius Chifor | [Read More](https://medium.com/p/0e2e05b19838) |
-| Tue, 27 Jan 2026 20:50:05 GMT | SOC HomeLab — Part 5 (Integration with Shuffle) | Archit Vats | [Read More](https://medium.com/p/574fcd46147a) |
-| Tue, 27 Jan 2026 20:33:55 GMT | Understanding Technology in the Digital Age | Taziz Aziz | [Read More](https://medium.com/p/c0bcfa0794be) |
-| Tue, 27 Jan 2026 20:32:22 GMT | Day 3: Networking Fundamentals — TCP/IP & OSI Model | Siddhesh Patil | [Read More](https://medium.com/p/a5a098580ebf) |
-| Tue, 27 Jan 2026 20:23:19 GMT | HTTP Requests, Responses, Headers & Methods for Beginners | Anshkamra | [Read More](https://medium.com/p/d00c790a78fe) |
-| Tue, 27 Jan 2026 20:22:59 GMT | The Robots Are Coming for Your Inbox: How Generative AI Fueled a 1,265% Phishing Apocalypse | Ann Isabelle | [Read More](https://medium.com/p/b65beaec959c) |
-| Tue, 27 Jan 2026 20:16:27 GMT | Outsourced IT Support Can Become A Hidden Risk | Geoffrey Wenger | [Read More](https://medium.com/p/07eca11caa22) |
-| Tue, 27 Jan 2026 20:14:21 GMT | Cyber Campaigns: Fix this, Fix that — ConsentFix | Shivam Bathla | [Read More](https://medium.com/p/ab3b6a3c38b8) |
-| Tue, 27 Jan 2026 20:07:39 GMT | Cuando el límite está fuera | D.V. Torres | [Read More](https://medium.com/p/a766a93bb1ef) |
-| Tue, 27 Jan 2026 20:05:54 GMT | The Report - Blue Team Labs | Nicksondiazm | [Read More](https://medium.com/p/97048f83b526) |
