@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 Jan 2026 17:25:08 GMT | picoCTF : Input Injection 2 ( Binary Exploitation ) | Yasin Arafat Tanim | [Read More](https://medium.com/p/58da8b9ea8ab) |
+| Wed, 28 Jan 2026 17:21:36 GMT | Top 3 Smart Contract Auditors in 2026: How to compare providers and pick the right model | Sherlock | [Read More](https://medium.com/p/11b19c40b0a6) |
+| Wed, 28 Jan 2026 17:17:23 GMT | Feature-Rich, Judgment-Poor: When Capability Stops Being the Scarcity | David Park | [Read More](https://medium.com/p/fad396841eea) |
+| Wed, 28 Jan 2026 17:15:10 GMT | Penligent AI for Bug Bounty Hunters: Windows Installation & Ethical Hacking Use Cases | Captain Rogers | [Read More](https://medium.com/p/9c58a5c5ac94) |
+| Wed, 28 Jan 2026 17:12:45 GMT | Password Security: The First Line of Defense You’re Probably Underrating | Amandogra | [Read More](https://medium.com/p/b65dd8b05904) |
+| Wed, 28 Jan 2026 17:11:51 GMT | Fixing a glob Vulnerability Without Breaking the Build | paulos haylu | [Read More](https://medium.com/p/52e473d2230f) |
+| Wed, 28 Jan 2026 17:07:35 GMT | Reimagining ICTs Governance in a Multipolar Age | Piera Celis | [Read More](https://medium.com/p/d5d51340c7e3) |
+| Wed, 28 Jan 2026 17:03:53 GMT | Why Lookalike Domains Still Work and How ZoneFeeds Stop Them Early | Eman Khalid | [Read More](https://medium.com/p/fc39fd228f6f) |
+| Wed, 28 Jan 2026 16:57:27 GMT | Secuvia: Why We’re Building This (And Why It Matters) | Purushotham.R | [Read More](https://medium.com/p/27e95f9c2186) |
+| Wed, 28 Jan 2026 16:56:14 GMT | Multimedia and Animation in Nova Scotia: A Creative Renaissance by Digistar
+Nova Scotia has… | Digistarai | [Read More](https://medium.com/p/241f88c7e435) |
+| Wed, 28 Jan 2026 16:53:55 GMT | I was never meant to stay | maze of thought | [Read More](https://medium.com/p/8371176502d5) |
+| Wed, 28 Jan 2026 16:45:41 GMT | Mobil Bankacılıkta Güvenlik: Görünmeyen Bir Zırhın İçinde | Esin Ünlü Dağ | [Read More](https://medium.com/p/ae0e8bba11e8) |
+| Wed, 28 Jan 2026 16:40:03 GMT | Identity-First Security: The New Cyber Perimeter | Digital Defense | [Read More](https://medium.com/p/6a26f03f162e) |
 | Wed, 28 Jan 2026 16:30:09 GMT | Wazuh Vulnerability Enrichment EPSS + CISA KEV | Hanif K A | [Read More](https://medium.com/p/a989474877ad) |
 | Wed, 28 Jan 2026 16:29:00 GMT | Types of CCTV Cameras for Home and Business Use | Alex Bryn | [Read More](https://medium.com/p/861c6db1367c) |
 | Wed, 28 Jan 2026 16:27:26 GMT | Before You Deploy the Model: Why AI Risk Must Be Assessed Before the Business Commits | Michael Leigh | [Read More](https://medium.com/p/9253c45a171a) |
@@ -21,6 +35,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 Jan 2026 16:16:59 GMT | Audtior - Fahemsec | 00xCanelo | [Read More](https://medium.com/p/2c1704fedf31) |
 | Wed, 28 Jan 2026 16:16:01 GMT | I Thought Cybersecurity Was About Intelligence. It’s About Patience | Crystal_cascade14 | [Read More](https://medium.com/p/3ce3733539e4) |
 | Wed, 28 Jan 2026 16:06:13 GMT | My prayers will hug you when my arms can't | yasmin | [Read More](https://medium.com/p/6f6bdd02e4ad) |
+| Wed, 28 Jan 2026 16:05:01 GMT | When “Security Hardening” Is Actually Vulnerability Harvesting: A Critical Analysis of the RvB… | Berend Watchus | [Read More](https://medium.com/p/fdd25d5de242) |
 | Wed, 28 Jan 2026 16:01:00 GMT | Securing Private Images & Videos in Web Applications using AWS CloudFront Signed URLs & Signed… | Rahul Chakraborty | [Read More](https://medium.com/p/00c0184ad931) |
 | Wed, 28 Jan 2026 15:58:21 GMT | PACE Planning: What the AWS US-East-1 Outage Taught Us About Incident Response Communications | Noz | [Read More](https://medium.com/p/e269f5180b26) |
 | Wed, 28 Jan 2026 15:53:22 GMT | AI Development Environment Hardening: Solo Developer Setup | Michael Hannecke | [Read More](https://medium.com/p/519aad1552d8) |
@@ -99,18 +114,3 @@ India’s trusted Cyber Security & Forensic Intelligence Training Centre… | Fo
 | Wed, 28 Jan 2026 11:12:45 GMT | 3 Ways to Authenticate GitHub from the Terminal: A Practical Guide | Sridevi Parimi | [Read More](https://medium.com/p/6667f6ef9890) |
 | Wed, 28 Jan 2026 11:11:08 GMT | The shine is not love; love begins when someone discovers your soul and chooses you for who you are. | Noor | [Read More](https://medium.com/p/abac88fe3543) |
 | Wed, 28 Jan 2026 11:08:38 GMT | WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware — A Crucial… | Germano Costi | [Read More](https://medium.com/p/7f146fead455) |
-| Wed, 28 Jan 2026 11:05:42 GMT | ReconFTW : automatiser la reconnaissance pour une surface d’attaque complète | ghostyjoe | [Read More](https://medium.com/p/e3a474ecc92d) |
-| Wed, 28 Jan 2026 11:01:01 GMT | How I Tricked a Scammer into Apologizing to My Cat (Before Revealing I Was Using Kali Linux) | freerave | [Read More](https://medium.com/p/2927a1820c44) |
-| Wed, 28 Jan 2026 10:58:31 GMT | What Did the Attacker Really See? Rebuilding Query Results from Oracle Unified Auditing | Thomas Minne | [Read More](https://medium.com/p/44cff77e82a7) |
-| Wed, 28 Jan 2026 10:56:40 GMT | ️Security Operations Center (SOC): Structure, Roles, and Importance‍ | Md. Jawad Jabbar Khan Authoi | [Read More](https://medium.com/p/ea5b667c9a9d) |
-| Wed, 28 Jan 2026 10:50:49 GMT | 2. OAuth Misbinding Vulnerability | Abhijeet kumawat | [Read More](https://medium.com/p/ed0e0830bdde) |
-| Wed, 28 Jan 2026 10:47:35 GMT | # Stabilizing Unstable Shells — A Practical Guide | Roshan Rajbanshi | [Read More](https://medium.com/p/0d0ca3a67125) |
-| Wed, 28 Jan 2026 10:46:38 GMT | Custom Software vs Off-the-Shelf Tools: What Fits You? | Vertex Invo | [Read More](https://medium.com/p/3c1b4dcee764) |
-| Wed, 28 Jan 2026 10:42:49 GMT | Shadow Track HACKVISER— Complete Walthrough with
-Tools & Reasoning | MANJEET KUMAR | [Read More](https://medium.com/p/1ac8b4c0ae2e) |
-| Wed, 28 Jan 2026 10:42:23 GMT | OTP Bypass via Client-Side Encryption Flaw | eSecForte Technologies | [Read More](https://medium.com/p/cc3a349a2b53) |
-| Wed, 28 Jan 2026 10:38:44 GMT | Common Pitfalls in SOC 2 Audits (and How to Avoid Them) | CFE CERTIFICATION | [Read More](https://medium.com/p/4262bb0ab11b) |
-| Wed, 28 Jan 2026 10:36:53 GMT | The Rise of Billions Network and the Future of Digital Identity | Hikay_smart | [Read More](https://medium.com/p/0c0a33901822) |
-| Wed, 28 Jan 2026 10:36:01 GMT | Fletcher Reede The Coder: Introducing Our New Project Manager | Namir Sagheenanajar | [Read More](https://medium.com/p/b308e45d494d) |
-| Wed, 28 Jan 2026 10:34:25 GMT | Quantum Threat: Why You Need to Think About HNDL Today | Samuel Odekunle | [Read More](https://medium.com/p/e1cac3fe0679) |
-| Wed, 28 Jan 2026 10:27:58 GMT | How AI Detects Productivity Gaps Humans Often Miss | Spotem | [Read More](https://medium.com/p/3db90be98afb) |
