@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 Jan 2026 18:29:46 GMT | Secure Use of GitHub — CIS-Aligned Technical Guide — Part I | SOCFortress | [Read More](https://medium.com/p/47f5f938c222) |
+| Wed, 28 Jan 2026 18:24:55 GMT | How Backdooring Could Get You Into The System By Using Netcat | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/9719a0cbf6ff) |
+| Wed, 28 Jan 2026 18:23:45 GMT | Cyber Campaigns: Fix this, Fix that — CrashFix | Shivam Bathla | [Read More](https://medium.com/p/b642c74df474) |
+| Wed, 28 Jan 2026 18:10:29 GMT | Active Directory Attack Simulation and AI-Assisted Threat Detection with Popular SIEM Tools-Part5 | Robert Onyango | [Read More](https://medium.com/p/ab502c7d281f) |
+| Wed, 28 Jan 2026 18:09:14 GMT | hARMless: Building an ARM64 ELF Packer for Research and Red Team Operations | litemars | [Read More](https://medium.com/p/e40e8719142f) |
+| Wed, 28 Jan 2026 17:59:44 GMT | W1seGuy (TryHackMe)CTF | Noel varghese | [Read More](https://medium.com/p/f0b6c3b0fcdb) |
+| Wed, 28 Jan 2026 17:59:29 GMT | Concurrency Bit us in Production — And We Didn’t See It Coming | Rahul Singh | [Read More](https://medium.com/p/6728ebe04baf) |
+| Wed, 28 Jan 2026 17:58:31 GMT | The security.txt file: how serious websites handle vulnerability reports | Elyvora.us | [Read More](https://medium.com/p/5b0c06ae9b5d) |
+| Wed, 28 Jan 2026 17:54:39 GMT | Having the Courage of Our Convictions Despite Our Fears | Cedric B Johnson, Ph.D (psychology) | [Read More](https://medium.com/p/ef1a2dd7176b) |
+| Wed, 28 Jan 2026 17:52:17 GMT | PicoCTF Easy Forensics Challenges - Part (2/4) | iIyas | [Read More](https://medium.com/p/28041c20d2c2) |
+| Wed, 28 Jan 2026 17:51:32 GMT | Intermediate Nmap- TryHackMe challenege Walkthrough | Hemantha Krishna Challa | [Read More](https://medium.com/p/8af235fe6851) |
+| Wed, 28 Jan 2026 17:51:18 GMT | Try Hack Me- KoTH Food CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/d42873abc323) |
+| Wed, 28 Jan 2026 17:49:15 GMT | How Businesses are choosing the Right IT Company in Canada! | Bitquark | [Read More](https://medium.com/p/096781db9c2f) |
+| Wed, 28 Jan 2026 17:43:32 GMT | Emergency Locksmith Support Across London — Fast & Reliable | The Lock Specialist Ltd | [Read More](https://medium.com/p/ba3bf9798652) |
+| Wed, 28 Jan 2026 17:41:51 GMT | HTB Academy — File Upload Attacks: Skills Assessment | BotsiCat | [Read More](https://medium.com/p/29ca00fd14c2) |
+| Wed, 28 Jan 2026 17:40:57 GMT | Retour d’expérience sur la HTB CWES | 0110m4n | [Read More](https://medium.com/p/1c23377a33f0) |
+| Wed, 28 Jan 2026 17:39:08 GMT | Emergency Locksmith Service You Can Trust Across London | The Lock Specialist Ltd | [Read More](https://medium.com/p/6454d1371be0) |
 | Wed, 28 Jan 2026 17:25:08 GMT | picoCTF : Input Injection 2 ( Binary Exploitation ) | Yasin Arafat Tanim | [Read More](https://medium.com/p/58da8b9ea8ab) |
 | Wed, 28 Jan 2026 17:21:36 GMT | Top 3 Smart Contract Auditors in 2026: How to compare providers and pick the right model | Sherlock | [Read More](https://medium.com/p/11b19c40b0a6) |
 | Wed, 28 Jan 2026 17:17:23 GMT | Feature-Rich, Judgment-Poor: When Capability Stops Being the Scarcity | David Park | [Read More](https://medium.com/p/fad396841eea) |
@@ -97,20 +114,3 @@ India’s trusted Cyber Security & Forensic Intelligence Training Centre… | Fo
 | Wed, 28 Jan 2026 12:54:04 GMT | $500 for a UUID Swap: I Almost Gave Up on This IDOR | tinopreter | [Read More](https://medium.com/p/ae7a0adb518d) |
 | Wed, 28 Jan 2026 12:52:25 GMT | How to Recover an Account After it Gets Hacked | Gautam Basu | [Read More](https://medium.com/p/e9bc3f00c473) |
 | Wed, 28 Jan 2026 12:43:10 GMT | Building a Zero-Knowledge Notes & File Sharing App (ZeroVault) | Gadangi Sainag | [Read More](https://medium.com/p/02315135a5d4) |
-| Wed, 28 Jan 2026 12:32:08 GMT | Stored Cross-Site Scripting (XSS) Vulnerability Report | Ravi Pipalwa | [Read More](https://medium.com/p/c97788dd6ea6) |
-| Wed, 28 Jan 2026 12:22:25 GMT | I passed Security+ on my first attempt — but I did it in exam mode, not craftsman mode. | the CyberStoic | [Read More](https://medium.com/p/dd1aaf217d29) |
-| Wed, 28 Jan 2026 12:20:04 GMT | Everyone Is Hyping Clawbot. Almost Nobody Is Talking About the Security Reality | Hassan Raza | [Read More](https://medium.com/p/8c824f85f83f) |
-| Wed, 28 Jan 2026 12:16:11 GMT | Masakan Tradisional Khas Kalimantan Selatan | JasminMedia | [Read More](https://medium.com/p/198368b8718b) |
-| Wed, 28 Jan 2026 12:11:34 GMT | Detection Engineering for Threat Hunting: The Recipe for Proactive Defense | Esra Kayhan | [Read More](https://medium.com/p/ee93ca540710) |
-| Wed, 28 Jan 2026 12:11:01 GMT | Throttling Models for API Security — You Cannot Secure What You Can’t Control | Esra Kayhan | [Read More](https://medium.com/p/2ad88e21aada) |
-| Wed, 28 Jan 2026 12:07:31 GMT | IT Support Services for Businesses - Managed & Remote IT Solutions | Akash | [Read More](https://medium.com/p/1364ed1a6912) |
-| Wed, 28 Jan 2026 12:01:13 GMT | Careers in Artificial Intelligence: Skills, Jobs, Salaries & Growth Path | cyber security Updates | [Read More](https://medium.com/p/9e7f51e8ef94) |
-| Wed, 28 Jan 2026 11:50:52 GMT | VAPT Testing Services: Protect Your Business from Cyber Attacks | CyberSigma Consulting Services | [Read More](https://medium.com/p/2fdcd03f79d8) |
-| Wed, 28 Jan 2026 11:41:56 GMT | The Seven Phases of a Secure Software Development Lifecycle (SSDLC) | Siddiquimohammad | [Read More](https://medium.com/p/b48c846a7865) |
-| Wed, 28 Jan 2026 11:31:10 GMT | Stop Trusting OnlyYour Backend: Let PostgreSQL Enforce Data Security | Alessandro Tornesello | [Read More](https://medium.com/p/04bf2dae375f) |
-| Wed, 28 Jan 2026 11:21:11 GMT | Securing the Modern Web — React and Next.js | Md Shoriful Islam Ashiq | [Read More](https://medium.com/p/ff71015aa1c8) |
-| Wed, 28 Jan 2026 11:14:56 GMT | 5 Simple Habits for a Safer Internet Experience | VPNHouse | [Read More](https://medium.com/p/eb21d137e266) |
-| Wed, 28 Jan 2026 11:13:55 GMT | m00nwalk — When an Audio File Isn’t Meant to Be Heard | Soumyashree Sahoo | [Read More](https://medium.com/p/8367353e062b) |
-| Wed, 28 Jan 2026 11:12:45 GMT | 3 Ways to Authenticate GitHub from the Terminal: A Practical Guide | Sridevi Parimi | [Read More](https://medium.com/p/6667f6ef9890) |
-| Wed, 28 Jan 2026 11:11:08 GMT | The shine is not love; love begins when someone discovers your soul and chooses you for who you are. | Noor | [Read More](https://medium.com/p/abac88fe3543) |
-| Wed, 28 Jan 2026 11:08:38 GMT | WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware — A Crucial… | Germano Costi | [Read More](https://medium.com/p/7f146fead455) |
