@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 28 Jan 2026 05:46:44 GMT | Cybersecurity in 2026: 5 Emerging Threats Every SMB Needs to Watch | Configr Technologies | [Read More](https://medium.com/p/37609f807c76) |
+| Wed, 28 Jan 2026 05:38:29 GMT | Secure Android Phone Without Apps — Built-In Protection Guide | Blue Bird Digital Technology | [Read More](https://medium.com/p/1c312de924fe) |
+| Wed, 28 Jan 2026 05:36:21 GMT | AI and the End of Strategic Monopoly: Distributed Power Beyond the Race | Kosi Gramatikoff | [Read More](https://medium.com/p/7fa598b23efe) |
+| Wed, 28 Jan 2026 05:34:24 GMT | Why Certificate Pinning Alone Won’t Stop Modern MITM Attacks | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/469e1d182bea) |
+| Wed, 28 Jan 2026 05:33:32 GMT | VulnLab: Captcha Bypass Çözümü | CyberSam | [Read More](https://medium.com/p/a385e357bf05) |
+| Wed, 28 Jan 2026 05:31:01 GMT | 1.5 Million Developers Just Had Their Code Stolen, And They Never Saw It Coming | Mehdi BAFDIL | [Read More](https://medium.com/p/a4e1b38b54ba) |
+| Wed, 28 Jan 2026 05:30:30 GMT | Top Firewall Appliance in India: Securing Modern Business Networks | SecuEdge Office Team | [Read More](https://medium.com/p/206bf714b9a3) |
+| Wed, 28 Jan 2026 05:28:08 GMT | The LEGO Problem in API-Led Connectivity | Abhishek Sharma | [Read More](https://medium.com/p/2714d48f60ac) |
 | Wed, 28 Jan 2026 05:09:26 GMT | The Architecture Of Betrayal: Salt Typhoon And The Subversion Of Western Comms | James Marinero, MSc, MBA | [Read More](https://medium.com/p/94b5a26082a9) |
 | Wed, 28 Jan 2026 05:06:19 GMT | Web Application and API Protection Market: Global Trends, Growth Drivers, and Forecast Outlook | Gauri Kale | [Read More](https://medium.com/p/da289393112b) |
 | Wed, 28 Jan 2026 05:01:01 GMT | Small Oversights, Massive Fallout | BeamSec | [Read More](https://medium.com/p/fdfd18af973d) |
@@ -105,11 +113,3 @@ SOC326 — Impersonating Domain MX Record Change Detected | Owais Ali Khan |
 | Tue, 27 Jan 2026 19:59:50 GMT | TryHackMe Password Attacks: Last Question walkthrough | Mario Jorge Limeira dos Santos | [Read More](https://medium.com/p/a977fa56a98f) |
 | Tue, 27 Jan 2026 19:58:28 GMT | I Built an AI Spam Blocker Because I Was Tired of Scam Calls | Huseyin Sari | [Read More](https://medium.com/p/62436db7e5ab) |
 | Tue, 27 Jan 2026 19:56:58 GMT | Typosquatting in 2026: Why “Smart” Attackers Are Breaking Your String Distance Algorithms | Praveen Malhan | [Read More](https://medium.com/p/a607075e4693) |
-| Tue, 27 Jan 2026 19:51:00 GMT | I Built a Privacy Toolkit So I’d Never Have to Trust the Cloud Again | Laoutaris | [Read More](https://medium.com/p/880a930ccc7d) |
-| Tue, 27 Jan 2026 19:46:10 GMT | LATERAL MOMENT: Gerçek Zamanlı Ağ İçi Saldırı Analizi Projesi: | dilan alpaltun | [Read More](https://medium.com/p/bad46293dfb4) |
-| Tue, 27 Jan 2026 19:42:13 GMT | How your API might be exposing everything | Said-Abbosxon Nabijonov - 0trc | [Read More](https://medium.com/p/b3a999439533) |
-| Tue, 27 Jan 2026 19:41:31 GMT | [EN] DC-1 — PGPlay — Walkthrough | hacktheborges | [Read More](https://medium.com/p/7cd1ec09a5bd) |
-| Tue, 27 Jan 2026 19:41:21 GMT | An Army of AI Agents: Revolutionizing DFIR from Months to Minutes | Shubh Jain | [Read More](https://medium.com/p/0446bef63403) |
-| Tue, 27 Jan 2026 19:40:49 GMT | [PT-BR] DC-1 — PGPlay — Walkthrough | hacktheborges | [Read More](https://medium.com/p/e2c37bcd4785) |
-| Tue, 27 Jan 2026 19:38:20 GMT | Phishing Attacks Explained: Why the Oldest Cyber Scam Still Works | Orrin Pietersen | [Read More](https://medium.com/p/235a1a323102) |
-| Tue, 27 Jan 2026 19:30:06 GMT | How to set up your personal pentesting and bug hunting assistant | Mauricio Antonio | [Read More](https://medium.com/p/40d2742afb87) |
