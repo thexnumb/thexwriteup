@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 Jan 2026 14:58:16 GMT | Security Made Simple: Threat Modeling, Risk, Vulnerabilities, and Privacy Explained | Nitish Gupta | [Read More](https://medium.com/p/4f1f49dde859) |
+| Thu, 29 Jan 2026 14:53:06 GMT | SOC or VAPT? The Career Confusion Every Cybersecurity Beginner | Ankit rai | [Read More](https://medium.com/p/13b2954c3967) |
+| Thu, 29 Jan 2026 14:46:37 GMT | lessons from the Field: Thinking Like a Real Red Team Operator | X7r3M9 | [Read More](https://medium.com/p/e7bd8aaa700d) |
+| Thu, 29 Jan 2026 14:41:09 GMT | From One Mutation to a Full Service Outage: A GraphQL DoS Story | Kayra Öksüz | [Read More](https://medium.com/p/71c1f3c76ea9) |
+| Thu, 29 Jan 2026 14:36:02 GMT | [EP.1] Learn from the Box — Lame (HTB) | Pattharadanai Sanitjairak | [Read More](https://medium.com/p/cd3c4069a202) |
+| Thu, 29 Jan 2026 14:19:13 GMT | Breaking a Hardened Active Directory: From Zero Access to Domain Dominance | Tyreek Haynes | [Read More](https://medium.com/p/6e8e3e523e83) |
+| Thu, 29 Jan 2026 14:14:57 GMT | The Trinity of Chaos: Inside the 2025 Cybercrime Supergroup That Stole 1.5 Billion Records | ODDEYE Security | [Read More](https://medium.com/p/00a456489450) |
+| Thu, 29 Jan 2026 14:13:51 GMT | Why My Laptop Hated Me: From Celeron Struggles to Cloud Architecture | Gabriel Ladanu | [Read More](https://medium.com/p/036b198c31d8) |
+| Thu, 29 Jan 2026 14:11:55 GMT | Google to Pay $135 Million in Android Data Privacy Settlement: What Users and Investors Need to… | All Tending News | [Read More](https://medium.com/p/637c1556644b) |
+| Thu, 29 Jan 2026 14:05:49 GMT | Tools I Wish I Had When I Started Hardware Hacking | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/00ae0b610a29) |
+| Thu, 29 Jan 2026 14:02:41 GMT | The world’s most famous warning system just named artificial intelligence as an existential threat. | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/a988f80731e8) |
 | Thu, 29 Jan 2026 13:59:44 GMT | Automating Multi-Tenant Wazuh: A Practical Guide | Alexandra Costea | [Read More](https://medium.com/p/a0f8d9b65137) |
 | Thu, 29 Jan 2026 13:58:00 GMT | Configuring Secure Progressive Delivery Pipeline on AWS Part 1 | Keegan Justis | [Read More](https://medium.com/p/a620837f1dc2) |
 | Thu, 29 Jan 2026 13:56:01 GMT | Cybersecurity | Doc Jones | [Read More](https://medium.com/p/80210f7bddcd) |
@@ -27,6 +38,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 Jan 2026 13:31:01 GMT | The $47,000 Link: How One Click Cost Everything (And How to Never Be That Victim) | Trignoweb Solution Pvt. Ltd. | [Read More](https://medium.com/p/b9363d2490a5) |
 | Thu, 29 Jan 2026 13:30:44 GMT | Securing API Servers: What CORS, Headers, and Error Messages Reveal About API Security | Odunlade Adeola | [Read More](https://medium.com/p/b64d93ba6ff2) |
 | Thu, 29 Jan 2026 13:19:04 GMT | Account Takeover via Weak Password Reset Token Validation | Aswin Thambi Panikulangara | [Read More](https://medium.com/p/91df56296f07) |
+| Thu, 29 Jan 2026 13:18:04 GMT | SAML vs OAuth vs OpenID Connect (OIDC) | Ashwini Puranik | [Read More](https://medium.com/p/5788588436dd) |
 | Thu, 29 Jan 2026 12:57:19 GMT | How SSRF Becomes Cloud Account Compromise (From a Red Team View) | Krutik Thakar — Secure Developer - VAPT Associate | [Read More](https://medium.com/p/06beafe7893c) |
 | Thu, 29 Jan 2026 12:53:30 GMT | YARA - YET ANOTHER RIDICULOUS ACRONYM | Vishnu Shivalal P | [Read More](https://medium.com/p/33e532b68d42) |
 | Thu, 29 Jan 2026 12:50:04 GMT | Make Your Homelab AI Agent Ready | Wade Woolwine | [Read More](https://medium.com/p/b80247628660) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 Jan 2026 08:43:58 GMT | Implementasi Wazuh 4.14 pada Ubuntu 22.04 LTS: Installation & Initial Configuration | Neverland Studio | [Read More](https://medium.com/p/55894e21313f) |
 | Thu, 29 Jan 2026 08:40:25 GMT | Summertime Saga | genzvnmod | [Read More](https://medium.com/p/feb0709aca5a) |
 | Thu, 29 Jan 2026 08:34:21 GMT | What If Downing Street’s Phones Were Never Compromised? | Gautam Mengle | [Read More](https://medium.com/p/7c6b9819dda4) |
-| Thu, 29 Jan 2026 08:32:56 GMT | IDOR: The Easiest High-Severity Bug Most Hunters Still Miss | Vivek PS | [Read More](https://medium.com/p/c7e2096eca6e) |
-| Thu, 29 Jan 2026 08:31:16 GMT | Average Income by Age in 2026 — Check Your Age and Where You Stand | Vijay Kumar Gupta | [Read More](https://medium.com/p/510f26098533) |
-| Thu, 29 Jan 2026 08:29:49 GMT | Digital Shield Deeply Participates in “Linking Ecosystems · Insightful New Horizons” Web3 Exchange… | Digital Shield | [Read More](https://medium.com/p/75d84d494ddf) |
-| Thu, 29 Jan 2026 08:28:22 GMT | CAPTCHA in the Age of Smarter Bots | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/5f9d2ab54084) |
-| Thu, 29 Jan 2026 08:27:54 GMT | What Smart Website Owners Choose When Budgets Are Tight? | Mary Thomas | [Read More](https://medium.com/p/6db5a83c6929) |
-| Thu, 29 Jan 2026 08:26:01 GMT | Lesson 4: Firewalls — Understanding Decisions in Network Security | Cyberspace Bulletin | [Read More](https://medium.com/p/13169b6c9699) |
-| Thu, 29 Jan 2026 08:22:41 GMT | Beyond the Password: How 2FA Saves Crypto Portfolios | BountyPortals Official Blog | [Read More](https://medium.com/p/68e2814a6055) |
-| Thu, 29 Jan 2026 08:22:13 GMT | Arbitrary File Upload + Arbitrary File Download Custom POC | Abhirup Konwar | [Read More](https://medium.com/p/96d2c2f47dd9) |
-| Thu, 29 Jan 2026 08:18:44 GMT | Digital Shield Deeply Participates in “Linking Ecosystems · Insightful New Horizons” Web3 Exchange… | Digital Shield Offcial | [Read More](https://medium.com/p/e119ede483f4) |
-| Thu, 29 Jan 2026 08:09:53 GMT | Chrome 143 Security Flaw Puts 3 Billion Users in the Crosshairs | Muneeb | [Read More](https://medium.com/p/5cb0ee8c23f3) |
-| Thu, 29 Jan 2026 07:53:14 GMT | How to Implement Certified Risk Information Systems Control | yafiya | [Read More](https://medium.com/p/97bcc0fb5a97) |
-| Thu, 29 Jan 2026 07:52:13 GMT | API Security Best Practices: Hidden Risks Most Teams Ignore | Majidbasharat | [Read More](https://medium.com/p/234fa023ae18) |
