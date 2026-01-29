@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 Jan 2026 23:09:52 GMT | Freeze-Frame | No blabs | [Read More](https://medium.com/p/71905aab00bf) |
+| Thu, 29 Jan 2026 22:49:40 GMT | Public Key Cryptography Basics — TryHackMe Answers - by Deepti Gupta | Deeptisg | [Read More](https://medium.com/p/d595d6fc813d) |
+| Thu, 29 Jan 2026 22:47:05 GMT | TheReport (BlueTeamLabs) | IgnoranzaSolare | [Read More](https://medium.com/p/c1921f265495) |
+| Thu, 29 Jan 2026 22:44:25 GMT | We Have the First Malware for Clawdbot | kyriakos katsaras | [Read More](https://medium.com/p/4aaefbc8641f) |
+| Thu, 29 Jan 2026 22:41:50 GMT | 2026 Trends in Third-Party Risk Management: Insights from OCEG | Alexa Johnston | [Read More](https://medium.com/p/ee7c32526f9d) |
+| Thu, 29 Jan 2026 22:35:02 GMT | Lets talk about GRC… | Bobbie á Deild | [Read More](https://medium.com/p/d73a7c76207d) |
 | Thu, 29 Jan 2026 22:23:53 GMT | My journey into the cyber rabbit hole… | Bobbie A Deild | [Read More](https://medium.com/p/703c56d10ce9) |
 | Thu, 29 Jan 2026 22:10:40 GMT | QueueUserAPC2 Process Injection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/f57473dfe251) |
 | Thu, 29 Jan 2026 22:04:42 GMT | Directory Traversal Filter Bypass | Niko | [Read More](https://medium.com/p/42bca54c5a2a) |
@@ -32,6 +38,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 Jan 2026 20:32:22 GMT | Overpass — TryHackMe Writeup / WalkThrough | sudo_0xksh | [Read More](https://medium.com/p/f41c1013af00) |
 | Thu, 29 Jan 2026 20:31:05 GMT | OhSINT TryHackMe Writeup / Walkthrough | sudo_0xksh | [Read More](https://medium.com/p/64deb30b4fda) |
 | Thu, 29 Jan 2026 20:22:30 GMT | Google’s Fast Pair Vulnerability: How WhisperPair Lets Hackers Hijack Bluetooth Devices | Abhinav Yadav | [Read More](https://medium.com/p/4ebb7395ab9d) |
+| Thu, 29 Jan 2026 20:14:29 GMT | Local File Inclusion (LFI) | M4rc0sX | [Read More](https://medium.com/p/29f2e6163ae0) |
 | Thu, 29 Jan 2026 20:13:26 GMT | How to Block Spam SMS and Scam Calls in 2026: A Complete Guide to Reclaiming Your Privacy | Huseyin Sari | [Read More](https://medium.com/p/508597c01541) |
 | Thu, 29 Jan 2026 20:11:54 GMT | OWASP Top 10–2025 | Gokhan Can | [Read More](https://medium.com/p/2a99aa11ae31) |
 | Thu, 29 Jan 2026 20:09:28 GMT | What you must know about Docker Volumes? | BecomeDevops | [Read More](https://medium.com/p/a7cea0ffff6e) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 Jan 2026 16:01:18 GMT | The Architecture of Trust: Why Blockchain Matters to Cybersecurity — Without the Hype | Samyakgoel | [Read More](https://medium.com/p/db270ad458d3) |
 | Thu, 29 Jan 2026 16:01:05 GMT | Bridging the IT/OT divide: The operating model shift that will define manufacturing’s next decade | Slalom | [Read More](https://medium.com/p/dd7056e55056) |
 | Thu, 29 Jan 2026 15:59:40 GMT | Cargo Security Guards in Houston | Security Houston | [Read More](https://medium.com/p/a9073e941ec6) |
-| Thu, 29 Jan 2026 15:59:39 GMT | How the Internet Works: What Happens When You Type a URL | Ashima Shandil | [Read More](https://medium.com/p/01db786cfb6a) |
-| Thu, 29 Jan 2026 15:55:20 GMT | GQ B2B by TWAI: A Smarter Way for Airlines to Control B2B Distribution | YourlIfe | [Read More](https://medium.com/p/d04396f6b0f5) |
-| Thu, 29 Jan 2026 15:55:16 GMT | PSA:Moltbot Is Wildly Insecure | ToxSec | [Read More](https://medium.com/p/ceb6814af3c6) |
-| Thu, 29 Jan 2026 15:52:43 GMT | Corporate Security Guard in Houston | Security Houston | [Read More](https://medium.com/p/92552b7579e2) |
-| Thu, 29 Jan 2026 15:50:36 GMT | A Succession of Droplets About You | Ydstiraaa | [Read More](https://medium.com/p/21ee3dd15fdd) |
-| Thu, 29 Jan 2026 15:46:01 GMT | The Next AI Security Frontier: “Agents With Hands” Are Becoming a Board-Level Risk | Wes Young | [Read More](https://medium.com/p/50308cf4f077) |
-| Thu, 29 Jan 2026 15:45:33 GMT | Reversing Android Malware: Joker | smarttfoxx | [Read More](https://medium.com/p/643db5168ce0) |
