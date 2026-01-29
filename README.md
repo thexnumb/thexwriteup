@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 Jan 2026 07:53:14 GMT | How to Implement Certified Risk Information Systems Control | yafiya | [Read More](https://medium.com/p/97bcc0fb5a97) |
+| Thu, 29 Jan 2026 07:51:31 GMT | Stay Ahead of Innovation - Explore The Latest In Technology | DP-Vids | [Read More](https://medium.com/p/2f8ea176f337) |
+| Thu, 29 Jan 2026 07:49:01 GMT | Tesla Kills the Model S, Google Cracks the DNA Code, and Android Comes to PC - The Daily Tech… | Souren Stepanyan | [Read More](https://medium.com/p/c7c9532af9df) |
+| Thu, 29 Jan 2026 07:46:52 GMT | Enhance Email Security: AtomEmailPro vs. Gmail MFA Hacking | Ichsanneng | [Read More](https://medium.com/p/43c206664f84) |
+| Thu, 29 Jan 2026 07:46:35 GMT | When Banks Build with Locks, Not Afterthoughts | Gbolahan Akinbola | [Read More](https://medium.com/p/d6ed6a6ac6aa) |
+| Thu, 29 Jan 2026 07:44:23 GMT | Stop Giving Clawdbot Your Credentials | Sudip Das | [Read More](https://medium.com/p/f469f35ab884) |
+| Thu, 29 Jan 2026 07:39:02 GMT | Zero-Day Detection Rule Builder: 12 Tools Every Cybersecurity Pro Should Master | Very Lazy Tech | [Read More](https://medium.com/p/b205a40f85dc) |
+| Thu, 29 Jan 2026 07:32:45 GMT | Best AI and ML Courses After 12th | Manisha Chaudhary | [Read More](https://medium.com/p/89a94441e532) |
 | Thu, 29 Jan 2026 07:21:57 GMT | The Rose in the Sewer | Malcaris | [Read More](https://medium.com/p/a44c53de44ad) |
 | Thu, 29 Jan 2026 07:17:19 GMT | Sakura School Simulator Mod APK | Bandisharecx | [Read More](https://medium.com/p/9b6a12431395) |
 | Thu, 29 Jan 2026 07:15:21 GMT | Engineering Database Activity Monitoring (DAM) - From Bare-Metal Linux to AWS RDS — EPISODE 2 | Vijenex | [Read More](https://medium.com/p/c4d903352d24) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 Jan 2026 20:36:08 GMT | Business Security Solutions 2026: Integrated Physical & Cyber Protection Systems | Fortnexs Shield | [Read More](https://medium.com/p/7affb13809e7) |
 | Wed, 28 Jan 2026 20:35:41 GMT | BOPLA: When APIs Expose More Than They Should | Emmanuelnnebedum | [Read More](https://medium.com/p/583a4135b1ba) |
 | Wed, 28 Jan 2026 20:26:01 GMT | Scalable Security: Why Your HIPAA Strategy Should Grow With You | Medcurity | [Read More](https://medium.com/p/f29b0364b3b2) |
-| Wed, 28 Jan 2026 20:25:30 GMT | I Didn’t Run Tools I Just Read the Logs | Incidalus | [Read More](https://medium.com/p/0124144d08bc) |
-| Wed, 28 Jan 2026 20:23:58 GMT | Cybersecurity Threats Everyone Should Know About in 2026 | Ihteshamkhalid | [Read More](https://medium.com/p/b2156ab898ba) |
-| Wed, 28 Jan 2026 20:21:01 GMT | The Architect of Loneliness: How Being Right Left Me Alone | Vanshika Choudhary | [Read More](https://medium.com/p/cd447c5c4228) |
-| Wed, 28 Jan 2026 20:17:06 GMT | MxCheckSec: Validate SPF, DKIM, DMARC, and more. | Kulkan Security | [Read More](https://medium.com/p/f223f48d5453) |
-| Wed, 28 Jan 2026 20:16:59 GMT | The Day My 67-Year-Old Student Asked If Facebook Was Listening Through Her Phone | Lizzy N | [Read More](https://medium.com/p/f280a6d7762e) |
-| Wed, 28 Jan 2026 20:14:42 GMT | [PT-BR] OnSystemShellDredd — PGPlay — Walkthrough | hacktheborges | [Read More](https://medium.com/p/eba86b2f4c21) |
-| Wed, 28 Jan 2026 20:14:03 GMT | [EN] OnSystemShellDredd — PGPlay — Walkthrough | hacktheborges | [Read More](https://medium.com/p/8dbbcbf06cd3) |
-| Wed, 28 Jan 2026 20:00:40 GMT | Cybersecurity Services by CyberSecOp: Trusted Cyber Security Experts Protecting Your Business | Jeffery Walker | [Read More](https://medium.com/p/42f058d92427) |
