@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 Jan 2026 19:02:15 GMT | Hands-on: BigQuery Data Encryption and Key Rotation | Karanrat Rattanawichai | [Read More](https://medium.com/p/a2e06f29aa02) |
+| Thu, 29 Jan 2026 19:00:10 GMT | TRYHACKME GameBuzz WriteUp | kayl | [Read More](https://medium.com/p/a9e877b39af0) |
+| Thu, 29 Jan 2026 18:59:38 GMT | The Windows Security Journey — Secured Core PC | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/e8eff1087079) |
+| Thu, 29 Jan 2026 18:55:46 GMT | Day 5: Layer 3 Fundamentals | Siddhesh Patil | [Read More](https://medium.com/p/78c3f6bcd6e0) |
+| Thu, 29 Jan 2026 18:52:42 GMT | Approaching stealers devs: a brief interview with MioLab (NovaStealer) | g0njxa | [Read More](https://medium.com/p/35589d651ffd) |
+| Thu, 29 Jan 2026 18:47:32 GMT | The Antivirus Trap: Why Your Protection Is Just an Illusion | Cordula Boeck | [Read More](https://medium.com/p/5a2007e0b6a0) |
+| Thu, 29 Jan 2026 18:39:22 GMT | Encryption with GPG(GNU Privacy Guard) | Prasadi Niroopama Kumarasinghe | [Read More](https://medium.com/p/0493641758ed) |
+| Thu, 29 Jan 2026 18:38:38 GMT | Checking password strength using the zxcvbn library | Mystique Lord | [Read More](https://medium.com/p/d52b15dbb1a4) |
+| Thu, 29 Jan 2026 18:34:09 GMT | The Power Problem: Why Your Satellite’s Quantum Shield is Draining Its Life | Prab Singh | [Read More](https://medium.com/p/687e4b34199c) |
+| Thu, 29 Jan 2026 18:33:19 GMT | SOC Analyst Handbook: Detecting SQL Injection (SQLi) | Vishwas Adhikari | [Read More](https://medium.com/p/3b184a6d4216) |
+| Thu, 29 Jan 2026 18:31:17 GMT | 7 Ways Cyber Attacks Actually Start (Explained Simply) | Himanshu Chaudhary | [Read More](https://medium.com/p/f484f47b4797) |
+| Thu, 29 Jan 2026 18:25:49 GMT | Deleted but Not Destroyed: The Hidden Life of Your Data | Amandogra | [Read More](https://medium.com/p/7a7887c0dc8c) |
+| Thu, 29 Jan 2026 18:22:05 GMT | Try Hack Me- Relevant CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/6966d8086a37) |
+| Thu, 29 Jan 2026 18:18:15 GMT | From Audit to Runtime: Building a Security Program That Actually Survives Mainnet. | Exploitless | [Read More](https://medium.com/p/eba432bab851) |
+| Thu, 29 Jan 2026 18:14:39 GMT | I Never Touched the Database — Still Got All the Data | Iski | [Read More](https://medium.com/p/9fac54ba5f65) |
+| Thu, 29 Jan 2026 18:14:34 GMT | “We designed it for safety” (and other lies) | Justyna Belkevic | [Read More](https://medium.com/p/cbf75302b74c) |
 | Thu, 29 Jan 2026 17:47:00 GMT | Technical Bug Bounty Methodology: Deep Recon, Automation and Human Insight | NullSecurityX | [Read More](https://medium.com/p/ec61e9e0f4dd) |
 | Thu, 29 Jan 2026 17:43:52 GMT | Exploiting PwnKit (CVE-2021–4034) | Shivam Bathla | [Read More](https://medium.com/p/ac5d6995c499) |
 | Thu, 29 Jan 2026 17:43:44 GMT | Secure Use of GitHub — CIS-Aligned Technical Guide — Part II | SOCFortress | [Read More](https://medium.com/p/e1909bed0cb6) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 Jan 2026 12:57:19 GMT | How SSRF Becomes Cloud Account Compromise (From a Red Team View) | Krutik Thakar — Secure Developer - VAPT Associate | [Read More](https://medium.com/p/06beafe7893c) |
 | Thu, 29 Jan 2026 12:53:30 GMT | YARA - YET ANOTHER RIDICULOUS ACRONYM | Vishnu Shivalal P | [Read More](https://medium.com/p/33e532b68d42) |
 | Thu, 29 Jan 2026 12:50:04 GMT | Make Your Homelab AI Agent Ready | Wade Woolwine | [Read More](https://medium.com/p/b80247628660) |
-| Thu, 29 Jan 2026 12:45:46 GMT | How a Temporary Invite Led to a Permanent Billing Takeover | Muhammed Mubarak | [Read More](https://medium.com/p/5211d6a5ec09) |
-| Thu, 29 Jan 2026 12:43:30 GMT | Master the CISSP Exam with Realistic Practice Questions — 2026 Prep | John Ray | [Read More](https://medium.com/p/4096069f9641) |
-| Thu, 29 Jan 2026 12:36:18 GMT | Cyber Sphere IoT Hacking Workshop: Router-Level Security Failures | Namanshahnemei | [Read More](https://medium.com/p/616db40bb535) |
-| Thu, 29 Jan 2026 12:32:02 GMT | Part 1. I Don’t Know, But I Am Still Here | Kata.Q | [Read More](https://medium.com/p/154b54ab5d63) |
-| Thu, 29 Jan 2026 12:31:52 GMT | DNA and Bioinformatics | Zakia Bayguzhina | [Read More](https://medium.com/p/c7bb963638a8) |
-| Thu, 29 Jan 2026 12:31:28 GMT | Title: The Dawn of Preemptive Defense: How a 0.1-Second | Mina | [Read More](https://medium.com/p/a13918d359d5) |
-| Thu, 29 Jan 2026 12:30:02 GMT | Data Science vs Cyber Security: Which Career Should You Choose in 2026? | careerera | [Read More](https://medium.com/p/0911867c6411) |
-| Thu, 29 Jan 2026 12:29:46 GMT | America’s Top Cyber Cop Leaked Sensitive Files to ChatGPT (And We’re All Supposed to Pretend This… | Threat Road | [Read More](https://medium.com/p/33e78308c5e1) |
-| Thu, 29 Jan 2026 12:29:30 GMT | Boost Your Cybersecurity Career with Realistic Practice Tests — CompTIA Security+ SY0–701 (2026) | Daywalkernyc | [Read More](https://medium.com/p/64195cfb6527) |
-| Thu, 29 Jan 2026 12:27:58 GMT | Early Detection Solutions for Application Vulnerabilities: Prevention Over Patching | Esra Kayhan | [Read More](https://medium.com/p/103f7e81c956) |
-| Thu, 29 Jan 2026 12:27:40 GMT | Advanced Web Exploitation and Modern Attack Vectors | Esra Kayhan | [Read More](https://medium.com/p/8c6ecc8033cd) |
-| Thu, 29 Jan 2026 12:17:54 GMT | Mesoform State of the Union 2025-26 | Gareth Brown | [Read More](https://medium.com/p/118f95e083e5) |
-| Thu, 29 Jan 2026 12:17:46 GMT | Clawdbot: The AI Assistant That “Does Everything” — And Why That’s the Problem | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/48e439711af0) |
-| Thu, 29 Jan 2026 12:13:13 GMT | Final Wrap-Up: Choosing Your ISC² Path Wisely | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/a7bd1dbf3675) |
-| Thu, 29 Jan 2026 12:11:52 GMT | I Let AI Pentest my lab for 45 Minutes. HexStrike AI and KALI MCP to get a shell after only 20. | Vito Rallo | [Read More](https://medium.com/p/5ba5857bae10) |
-| Thu, 29 Jan 2026 12:07:38 GMT | I Opened Jio Hotstar to Watch a Series — and Ended Up Reverse-Engineering Its Ad Logic | Rohit Shrirame | [Read More](https://medium.com/p/2f8583615e50) |
