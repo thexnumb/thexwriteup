@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 Jan 2026 17:03:09 GMT | [REVIEW] The API-RTA Exam: A Mission in Logical Chaining and Modern API Exploitation | Lau | [Read More](https://medium.com/p/116489776623) |
+| Thu, 29 Jan 2026 17:00:46 GMT | The Silent Database Killer Every DevOps Team Ignores (Free Tool Saves Millions)!!! | cybrNK | [Read More](https://medium.com/p/b59e4b264c11) |
+| Thu, 29 Jan 2026 16:56:45 GMT | The Identity Gap: How to Secure Your Army of AI Agents | Dr Sokratis Kartakis | [Read More](https://medium.com/p/5586cde44100) |
+| Thu, 29 Jan 2026 16:53:24 GMT | Understanding Large Codebases: Why AST Analysis Beats Asking an LLM | Anton | [Read More](https://medium.com/p/b0d60fc99e65) |
+| Thu, 29 Jan 2026 16:52:37 GMT | Lab Write-up: Linux CLI — Identifying Incorrect File Extensions | Eeshan Agrawal | [Read More](https://medium.com/p/71e03bb908e8) |
+| Thu, 29 Jan 2026 16:51:49 GMT | My experience learning to code | ZeakPeak | [Read More](https://medium.com/p/65b07908c4bd) |
+| Thu, 29 Jan 2026 16:42:24 GMT | Deep dive into RustDesk RMM Investigation & Forensics on Windows | Chicken0248 | [Read More](https://medium.com/p/6d8ba816a11e) |
+| Thu, 29 Jan 2026 16:42:11 GMT | Day 4 : Metasploit | Cybersecurity with Jojo | [Read More](https://medium.com/p/a4d8288e006f) |
+| Thu, 29 Jan 2026 16:36:17 GMT | Apple launches AirTag 2 — What’s New? | Nikhil Vemu | [Read More](https://medium.com/p/0ab4b6556008) |
+| Thu, 29 Jan 2026 16:35:15 GMT | HD and 4K Security Cameras Explained | Alex Bryn | [Read More](https://medium.com/p/bea7a82b0929) |
+| Thu, 29 Jan 2026 16:33:46 GMT | Session Tokens: The Real Password in Modern Attacks | Daniel Isaac E | [Read More](https://medium.com/p/5d90fe602d4e) |
+| Thu, 29 Jan 2026 16:27:16 GMT | What You Disclose, What You Don’t, and Why | Charlene B. | [Read More](https://medium.com/p/729677c2c527) |
+| Thu, 29 Jan 2026 16:27:13 GMT | Passwords Are Dying (And It’s About Time) | Abdullah Javeed | [Read More](https://medium.com/p/ca93c04e3d30) |
+| Thu, 29 Jan 2026 16:11:23 GMT | Unrestricted Resource Consumption: When APIs Never Say “Enough” | Emmanuelnnebedum | [Read More](https://medium.com/p/a7ce55707561) |
+| Thu, 29 Jan 2026 16:03:07 GMT | Passwordless Security and Credential Lifecycle Management: The Future of Identity Protection | Digital Defense | [Read More](https://medium.com/p/8e700fbf2695) |
+| Thu, 29 Jan 2026 16:02:20 GMT | CVE-2025–68613 — Remote Code Execution in n8n Workflow Automation | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/7900b399bfb6) |
+| Thu, 29 Jan 2026 16:01:18 GMT | The Architecture of Trust: Why Blockchain Matters to Cybersecurity — Without the Hype | Samyakgoel | [Read More](https://medium.com/p/db270ad458d3) |
+| Thu, 29 Jan 2026 16:01:05 GMT | Bridging the IT/OT divide: The operating model shift that will define manufacturing’s next decade | Slalom | [Read More](https://medium.com/p/dd7056e55056) |
+| Thu, 29 Jan 2026 15:59:40 GMT | Cargo Security Guards in Houston | Security Houston | [Read More](https://medium.com/p/a9073e941ec6) |
+| Thu, 29 Jan 2026 15:59:39 GMT | How the Internet Works: What Happens When You Type a URL | Ashima Shandil | [Read More](https://medium.com/p/01db786cfb6a) |
 | Thu, 29 Jan 2026 15:55:20 GMT | GQ B2B by TWAI: A Smarter Way for Airlines to Control B2B Distribution | YourlIfe | [Read More](https://medium.com/p/d04396f6b0f5) |
 | Thu, 29 Jan 2026 15:55:16 GMT | PSA:Moltbot Is Wildly Insecure | ToxSec | [Read More](https://medium.com/p/ceb6814af3c6) |
 | Thu, 29 Jan 2026 15:52:43 GMT | Corporate Security Guard in Houston | Security Houston | [Read More](https://medium.com/p/92552b7579e2) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 Jan 2026 11:21:41 GMT | A Silent Security Flaw in Bluetooth Headphones “WhisperPair” | Emirhan Koç | [Read More](https://medium.com/p/a2dac3881baa) |
 | Thu, 29 Jan 2026 11:20:46 GMT | Bypassing Mobile App Access Code Locks via Insecure “Forgot Code” Flow | carson0079 | [Read More](https://medium.com/p/2e51567bf4f9) |
 | Thu, 29 Jan 2026 11:19:24 GMT | Trolled a Scammer for Fun. Today, It Saved a Developer’s Career. | freerave | [Read More](https://medium.com/p/3c44a0f19193) |
-| Thu, 29 Jan 2026 11:18:01 GMT | cyber talent / genfei | SPIDER1SEC | [Read More](https://medium.com/p/93a611e26942) |
-| Thu, 29 Jan 2026 11:17:57 GMT | IT Outstaffing Isn’t for “Extra Hands”. It’s for Specific Failure Modes. | Julia Govor | [Read More](https://medium.com/p/f7054bcb293c) |
-| Thu, 29 Jan 2026 11:14:14 GMT | Hands-On Fintech AI — Part 3: Environment Variables in Postman for Fintech Testing | Banu Tutuncu - AI Tester in Fintech - Storyteller | [Read More](https://medium.com/p/b47e97ea6eef) |
-| Thu, 29 Jan 2026 11:11:25 GMT | Splunk ile Log Analizi | Sakarya Üniversitesi Siber Güvenlik Topluluğu | [Read More](https://medium.com/p/e661ba390768) |
-| Thu, 29 Jan 2026 11:01:02 GMT | SOC & Business Success with ANY.RUN: Real-World Results & Cases | ANY.RUN | [Read More](https://medium.com/p/3b0d70a6e35c) |
-| Thu, 29 Jan 2026 10:49:04 GMT | Union Budget 2026 Expectations for Investors | digital Aditya | [Read More](https://medium.com/p/be0e46772631) |
-| Thu, 29 Jan 2026 10:46:01 GMT | A local environment for DependencyTrack with Docker Compose | Christophe Vaudry | [Read More](https://medium.com/p/f59181ca1ce7) |
-| Thu, 29 Jan 2026 10:36:58 GMT | Behind the Scenes of a Lean Hosting Business That Actually Works | Janet Watson | [Read More](https://medium.com/p/d2574636998a) |
-| Thu, 29 Jan 2026 10:34:45 GMT | Top 20 Machine Learning Interview Questions for Freshers | cyber security Updates | [Read More](https://medium.com/p/c74afe464468) |
-| Thu, 29 Jan 2026 10:30:53 GMT | Guardians of the Sultanate: The Top 10 Cybersecurity Titans in Oman for 2026 | Abdullah Al Harthy | [Read More](https://medium.com/p/10ac8c5e3fa0) |
-| Thu, 29 Jan 2026 10:30:45 GMT | 5 Hidden WhatsApp Features Most People Still Don’t Know | creative vision | [Read More](https://medium.com/p/eecb52cb0552) |
-| Thu, 29 Jan 2026 10:30:17 GMT | Learn Ethical Hacking Using BlackArch Linux: A Complete Roadmap | TechLatest.Net | [Read More](https://medium.com/p/5cbec7c0d0fc) |
-| Thu, 29 Jan 2026 10:29:38 GMT | HB 140 Standard Barrier in Saudi Arabia A Strategic Security Solution for 2024_2025 | Hitech Barrier | [Read More](https://medium.com/p/f825b1f8003e) |
-| Thu, 29 Jan 2026 10:25:25 GMT | “Backdooring with Netcat: Understanding Bind Shell and Reverse Shell in System and Network… | Habibi | [Read More](https://medium.com/p/a1ee87bbead9) |
-| Thu, 29 Jan 2026 10:22:03 GMT | TryHackMe: Daily Bugle | Root_Fabric | [Read More](https://medium.com/p/801907361db1) |
-| Thu, 29 Jan 2026 10:21:07 GMT | 9 Powerful Starter DFIR Toolkit Steps for 2026 | Pentest_Testing_Corp | [Read More](https://medium.com/p/3c73e4bb55e4) |
-| Thu, 29 Jan 2026 10:13:29 GMT | I found a malicious VS Code extension impersonating Moltbot and it’s installing RATs on developers’… | Harsh Raj Singhania | [Read More](https://medium.com/p/33abed36c4cc) |
-| Thu, 29 Jan 2026 10:04:51 GMT | Why Modern Websites Don’t Need Expensive Servers to Perform? | Andy | [Read More](https://medium.com/p/b23c15cd8b4e) |
-| Thu, 29 Jan 2026 10:04:26 GMT | Why BlackArch Linux Is Still the Most Powerful Pentesting OS in 2026 | TechLatest.Net | [Read More](https://medium.com/p/4cbf13d1323b) |
-| Thu, 29 Jan 2026 10:02:30 GMT | How to Avoid Bridge Scams: Use OneClickSender instead | One Click Sender | [Read More](https://medium.com/p/cdf6bfa4704e) |
