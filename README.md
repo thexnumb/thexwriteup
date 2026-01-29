@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 Jan 2026 05:50:42 GMT | Active Directory Enterprise Lab Implementation and Security Infrastructure | Aribo Ifeoluwa | [Read More](https://medium.com/p/eaf1ce5e4dd1) |
+| Thu, 29 Jan 2026 05:37:00 GMT | Passkeys vs. Access-First: The Shift from Login to Lifecycle | Anton Minin Baranovskii | [Read More](https://medium.com/p/3215f588cc4a) |
+| Thu, 29 Jan 2026 05:36:03 GMT | Endpoint Protection Platforms Market Analysis: Key Trends and Opportunities | Michel mathew | [Read More](https://medium.com/p/328e3cad3b52) |
+| Thu, 29 Jan 2026 05:34:46 GMT | Importance of Professional Security Services in India | Tanisha Singh | [Read More](https://medium.com/p/103acfdc815b) |
+| Thu, 29 Jan 2026 05:32:14 GMT | 那 42 萬個被出賣的幣安帳號，成了我對 CeFi 最後的告別式 | Crypt0Sophie | [Read More](https://medium.com/p/6c9c747fd3d3) |
+| Thu, 29 Jan 2026 05:25:38 GMT | The Hidden Risk of “Safe” Android Permissions Nobody Audits | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/afca965dba29) |
 | Thu, 29 Jan 2026 05:16:01 GMT | Constantly Curious: Watching the Watchers | OSINT Amy | [Read More](https://medium.com/p/335d9b3cec24) |
 | Thu, 29 Jan 2026 05:15:52 GMT | Lesson learned: keep your phone number validation up to date | Ye Lin Aung | [Read More](https://medium.com/p/5b27bf157cb5) |
 | Thu, 29 Jan 2026 05:08:52 GMT | Zero Trust Architecture: A Necessity in Cybersecurity | Exito | [Read More](https://medium.com/p/ee7f69fe1c7d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 Jan 2026 19:10:08 GMT | How to Pass the CompTIA Security+ | Tarunika Kapoor | [Read More](https://medium.com/p/cc70129b95cb) |
 | Wed, 28 Jan 2026 19:09:35 GMT | Breaking Into the Vault of Trust Bank - APT Labs Walkthrough | Qurti/Purpleware | [Read More](https://medium.com/p/6d8aae459339) |
 | Wed, 28 Jan 2026 18:56:26 GMT | Cyber Security in Digital Marketing: Why Your Strategy is Only as Strong as Your Defence | Sougan Mandi | [Read More](https://medium.com/p/71cbbaf7d4a6) |
-| Wed, 28 Jan 2026 18:56:24 GMT | Strategic Foresight Becomes Policy: Middle Power Frameworks Move from Margins to Main Stage | Bea | [Read More](https://medium.com/p/eeb0d5bf580b) |
-| Wed, 28 Jan 2026 18:53:06 GMT | The Ultimate Ransomware Protection Guide for your Business | Cordula Boeck | [Read More](https://medium.com/p/9b9bee34ec81) |
-| Wed, 28 Jan 2026 18:44:47 GMT | Bir Hacker Nasıl Düşünür: Sistemlerin Gizli Dili | Attila453 | [Read More](https://medium.com/p/7d66da74f6ed) |
-| Wed, 28 Jan 2026 18:29:46 GMT | Secure Use of GitHub — CIS-Aligned Technical Guide — Part I | SOCFortress | [Read More](https://medium.com/p/47f5f938c222) |
-| Wed, 28 Jan 2026 18:24:55 GMT | How Backdooring Could Get You Into The System By Using Netcat | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/9719a0cbf6ff) |
-| Wed, 28 Jan 2026 18:23:45 GMT | Cyber Campaigns: Fix this, Fix that — CrashFix | Shivam Bathla | [Read More](https://medium.com/p/b642c74df474) |
