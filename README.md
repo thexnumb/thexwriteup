@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 Jan 2026 15:55:20 GMT | GQ B2B by TWAI: A Smarter Way for Airlines to Control B2B Distribution | YourlIfe | [Read More](https://medium.com/p/d04396f6b0f5) |
+| Thu, 29 Jan 2026 15:55:16 GMT | PSA:Moltbot Is Wildly Insecure | ToxSec | [Read More](https://medium.com/p/ceb6814af3c6) |
+| Thu, 29 Jan 2026 15:52:43 GMT | Corporate Security Guard in Houston | Security Houston | [Read More](https://medium.com/p/92552b7579e2) |
+| Thu, 29 Jan 2026 15:50:36 GMT | A Succession of Droplets About You | Ydstiraaa | [Read More](https://medium.com/p/21ee3dd15fdd) |
+| Thu, 29 Jan 2026 15:46:01 GMT | The Next AI Security Frontier: “Agents With Hands” Are Becoming a Board-Level Risk | Wes Young | [Read More](https://medium.com/p/50308cf4f077) |
+| Thu, 29 Jan 2026 15:45:33 GMT | Reversing Android Malware: Joker | smarttfoxx | [Read More](https://medium.com/p/643db5168ce0) |
+| Thu, 29 Jan 2026 15:43:02 GMT | Top Skills Required to Become an Ethical Hacker in 2026 | Anaynams | [Read More](https://medium.com/p/43aa2460c5b6) |
+| Thu, 29 Jan 2026 15:39:26 GMT | Introduction to Hacking, Virtual Machines, Linux, and Networking | Ayshaknavas | [Read More](https://medium.com/p/bf95c0a1ae92) |
+| Thu, 29 Jan 2026 15:35:46 GMT | Implementing Role-Based Access Control (RBAC) in Kubernetes | Engineer Palsu | [Read More](https://medium.com/p/41349d802ccc) |
+| Thu, 29 Jan 2026 15:31:01 GMT | NestJS Multi-Tenancy: Data Isolation Guardrails | Quaxel | [Read More](https://medium.com/p/30cb6bfe151c) |
+| Thu, 29 Jan 2026 15:22:59 GMT | Building a Vulnerable GCP Pentest Lab with Terraform | Andrey Pautov | [Read More](https://medium.com/p/9d1edfcd8eff) |
+| Thu, 29 Jan 2026 15:22:54 GMT | Cybersecurity Theater- How to Tell If Your MSP Is Actually Protecting You | ManagedIT_Expert | [Read More](https://medium.com/p/711599c5125a) |
+| Thu, 29 Jan 2026 15:21:35 GMT | An Ex, A Platform, And Zero Emotional Preparation. | Sonali M | [Read More](https://medium.com/p/e2762dd24863) |
+| Thu, 29 Jan 2026 15:19:28 GMT | QUIC in the Real World: Challenges for SSE Systems | Golden Girl Geeks | [Read More](https://medium.com/p/c631af4de4bf) |
+| Thu, 29 Jan 2026 15:13:53 GMT | Automakers Know Where You’ve Been And Why It Matters for Drivers and Businesses | BiyteLüm | [Read More](https://medium.com/p/599bb268ad36) |
+| Thu, 29 Jan 2026 15:10:41 GMT | WhatsApp’s New Security Protections: What They Mean for Businesses in 2026 | IT_Engineer | [Read More](https://medium.com/p/a6325ac73e46) |
+| Thu, 29 Jan 2026 15:09:47 GMT | When Photos Leak More Than Pixels: A Security Awareness Guide to Image Metadata | Subhash Pathak | [Read More](https://medium.com/p/15e3448e4097) |
+| Thu, 29 Jan 2026 15:01:06 GMT | Praise in Polite Clothing | Dominique Striekwold | [Read More](https://medium.com/p/ac7584769431) |
 | Thu, 29 Jan 2026 14:58:16 GMT | Security Made Simple: Threat Modeling, Risk, Vulnerabilities, and Privacy Explained | Nitish Gupta | [Read More](https://medium.com/p/4f1f49dde859) |
 | Thu, 29 Jan 2026 14:53:06 GMT | SOC or VAPT? The Career Confusion Every Cybersecurity Beginner | Ankit rai | [Read More](https://medium.com/p/13b2954c3967) |
 | Thu, 29 Jan 2026 14:46:37 GMT | lessons from the Field: Thinking Like a Real Red Team Operator | X7r3M9 | [Read More](https://medium.com/p/e7bd8aaa700d) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 Jan 2026 10:04:51 GMT | Why Modern Websites Don’t Need Expensive Servers to Perform? | Andy | [Read More](https://medium.com/p/b23c15cd8b4e) |
 | Thu, 29 Jan 2026 10:04:26 GMT | Why BlackArch Linux Is Still the Most Powerful Pentesting OS in 2026 | TechLatest.Net | [Read More](https://medium.com/p/4cbf13d1323b) |
 | Thu, 29 Jan 2026 10:02:30 GMT | How to Avoid Bridge Scams: Use OneClickSender instead | One Click Sender | [Read More](https://medium.com/p/cdf6bfa4704e) |
-| Thu, 29 Jan 2026 09:48:39 GMT | CloudGoat Scenario Series: Vulnerable Lambda | Aditya | [Read More](https://medium.com/p/927965cfbfad) |
-| Thu, 29 Jan 2026 09:47:47 GMT | XBow and the “AI Takeover”: Why You Can Put Down the Goat Farming Manual | Shubham Khanna | [Read More](https://medium.com/p/0bdcb00b2c90) |
-| Thu, 29 Jan 2026 09:37:10 GMT | Correlating File Integrity Events with SSH and RDP Sessions in Wazuh | Piyush Ramani | [Read More](https://medium.com/p/83f3f32aacd2) |
-| Thu, 29 Jan 2026 09:33:14 GMT | Engineering Database Activity Monitoring (DAM) - From Bare-Metal Linux to AWS RDS — EPISODE 3 | Vijenex | [Read More](https://medium.com/p/a3ca8b9add8f) |
-| Thu, 29 Jan 2026 09:31:45 GMT | How to Evaluate IT Vendors Before Signing a Long-Term Contract | Vilas Raut | [Read More](https://medium.com/p/1c7932558099) |
-| Thu, 29 Jan 2026 09:27:53 GMT | Total Security Solutions India: Building a Safer Future with Advanced Electronic Security Solutions | Ciss India | [Read More](https://medium.com/p/ab2f3f0f1584) |
-| Thu, 29 Jan 2026 09:27:17 GMT | The Internet Was Never Safe — We Just Agreed to Pretend | Najwan Ewaldo | [Read More](https://medium.com/p/78b7cc081d20) |
-| Thu, 29 Jan 2026 09:18:04 GMT | Bruteforce(BTLO) (RDP) Walkthrough ️ | Nishasorallikar | [Read More](https://medium.com/p/b2af537efc43) |
-| Thu, 29 Jan 2026 09:10:27 GMT | Did You Know That Your Active Directory Could Be Leaking Secrets Right Now? Read On To Know How | Redfox Security | [Read More](https://medium.com/p/d4c013474dcb) |
-| Thu, 29 Jan 2026 09:02:05 GMT | A Better Hosting Experience Without the Premium Price Tag | Ann Taylor | [Read More](https://medium.com/p/ee28904d80fc) |
-| Thu, 29 Jan 2026 09:01:01 GMT | How Ransomware Gangs Use Leaked Credentials to Get In | Alexandre Vandamme | [Read More](https://medium.com/p/7c0136e68617) |
-| Thu, 29 Jan 2026 08:58:15 GMT | Sokudo writeup (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/c9413182ece8) |
-| Thu, 29 Jan 2026 08:53:54 GMT | Rent Please Landlord Sim Mod APK | Game4u | [Read More](https://medium.com/p/9b01692078d5) |
-| Thu, 29 Jan 2026 08:51:01 GMT | AP automation & cybersecurity safeguards for sensitive financial data | Medius | [Read More](https://medium.com/p/63a1b3e2dcbe) |
-| Thu, 29 Jan 2026 08:47:29 GMT | ประจำวันพฤหัสบดีที่ 29 มกราคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/52688c1bd226) |
-| Thu, 29 Jan 2026 08:43:58 GMT | Implementasi Wazuh 4.14 pada Ubuntu 22.04 LTS: Installation & Initial Configuration | Neverland Studio | [Read More](https://medium.com/p/55894e21313f) |
-| Thu, 29 Jan 2026 08:40:25 GMT | Summertime Saga | genzvnmod | [Read More](https://medium.com/p/feb0709aca5a) |
-| Thu, 29 Jan 2026 08:34:21 GMT | What If Downing Street’s Phones Were Never Compromised? | Gautam Mengle | [Read More](https://medium.com/p/7c6b9819dda4) |
