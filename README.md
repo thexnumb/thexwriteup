@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 Jan 2026 23:36:44 GMT | ☠️ Investigating Internet-Exposed RDP Activity Using Microsoft Defender XDR | Julian Smith | [Read More](https://medium.com/p/76f19be07d4d) |
 | Thu, 29 Jan 2026 23:09:52 GMT | Freeze-Frame | No blabs | [Read More](https://medium.com/p/71905aab00bf) |
 | Thu, 29 Jan 2026 22:49:40 GMT | Public Key Cryptography Basics — TryHackMe Answers - by Deepti Gupta | Deeptisg | [Read More](https://medium.com/p/d595d6fc813d) |
 | Thu, 29 Jan 2026 22:47:05 GMT | TheReport (BlueTeamLabs) | IgnoranzaSolare | [Read More](https://medium.com/p/c1921f265495) |
@@ -51,6 +52,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 Jan 2026 19:51:21 GMT | Private Security Provider Management and Control Manual | Noticias LATAM | [Read More](https://medium.com/p/fb5ba941450f) |
 | Thu, 29 Jan 2026 19:50:41 GMT | Cyber Security | Îbrãhìm Sabir | [Read More](https://medium.com/p/7e560640df59) |
 | Thu, 29 Jan 2026 19:37:03 GMT | The 3 AM Disaster: Why Your AI Agents Are Your Biggest Security Threat | John Williams | [Read More](https://medium.com/p/7a156ebbd05c) |
+| Thu, 29 Jan 2026 19:34:17 GMT | TryHackMe (THM) Active Reconnaissance Walkthrough + Answers | Mann Diwani | [Read More](https://medium.com/p/2e694792a743) |
 | Thu, 29 Jan 2026 19:32:33 GMT | # Basic Pentesting: THM — Complete Walkthrough | MAKSIM HARASHCHUK | [Read More](https://medium.com/p/928887958d10) |
 | Thu, 29 Jan 2026 19:23:49 GMT | My learning as a Cybersecurity intern at a Startup | Shreyashkumar | [Read More](https://medium.com/p/470e5aa9013d) |
 | Thu, 29 Jan 2026 19:23:07 GMT | DEFENSE IN DEPTH: A Layered Defense Approach in Information Security | dilan alpaltun | [Read More](https://medium.com/p/f1da20f5cdd9) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 Jan 2026 16:03:07 GMT | Passwordless Security and Credential Lifecycle Management: The Future of Identity Protection | Digital Defense | [Read More](https://medium.com/p/8e700fbf2695) |
 | Thu, 29 Jan 2026 16:02:20 GMT | CVE-2025–68613 — Remote Code Execution in n8n Workflow Automation | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/7900b399bfb6) |
 | Thu, 29 Jan 2026 16:01:18 GMT | The Architecture of Trust: Why Blockchain Matters to Cybersecurity — Without the Hype | Samyakgoel | [Read More](https://medium.com/p/db270ad458d3) |
-| Thu, 29 Jan 2026 16:01:05 GMT | Bridging the IT/OT divide: The operating model shift that will define manufacturing’s next decade | Slalom | [Read More](https://medium.com/p/dd7056e55056) |
-| Thu, 29 Jan 2026 15:59:40 GMT | Cargo Security Guards in Houston | Security Houston | [Read More](https://medium.com/p/a9073e941ec6) |
