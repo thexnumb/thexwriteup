@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 Jan 2026 05:16:01 GMT | Constantly Curious: Watching the Watchers | OSINT Amy | [Read More](https://medium.com/p/335d9b3cec24) |
+| Thu, 29 Jan 2026 05:15:52 GMT | Lesson learned: keep your phone number validation up to date | Ye Lin Aung | [Read More](https://medium.com/p/5b27bf157cb5) |
+| Thu, 29 Jan 2026 05:08:52 GMT | Zero Trust Architecture: A Necessity in Cybersecurity | Exito | [Read More](https://medium.com/p/ee7f69fe1c7d) |
+| Thu, 29 Jan 2026 05:02:34 GMT | Your ‘smart’ Clawdbot assistant might already be an entry point for attackers to read messages… | Vikrambalauae Aj | [Read More](https://medium.com/p/e03df2e3b64e) |
+| Thu, 29 Jan 2026 05:02:03 GMT | Sophiax — Detección de Intención: el fin de los ataques Evil Twin y el Ransomware mediante… | Berna González Harbour | [Read More](https://medium.com/p/5385c4368f5f) |
+| Thu, 29 Jan 2026 04:56:09 GMT | When Your AI Assistant is Too Helpful: The Gemini Prompt Injection Explained. | Krishna M S | [Read More](https://medium.com/p/cd88d86e4972) |
+| Thu, 29 Jan 2026 04:52:26 GMT | Weekly Threat Intelligence Report 26 Jan 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/8f294553795e) |
+| Thu, 29 Jan 2026 04:43:55 GMT | 99% Don’t Know Apple Built This Cloud | Anil Kumar Bakkashetti | [Read More](https://medium.com/p/fcff9bb4e4b8) |
+| Thu, 29 Jan 2026 04:43:14 GMT | HTB: Imagery — Medium Writeup | Maxwell Ferreira | [Read More](https://medium.com/p/50cdf3812871) |
+| Thu, 29 Jan 2026 04:35:04 GMT | Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws | Abstract Mind | [Read More](https://medium.com/p/36b524432adf) |
+| Thu, 29 Jan 2026 04:33:43 GMT | Cloud Data Protection for SaaS Applications Market Trends and Opportunities | Gauri Kale | [Read More](https://medium.com/p/e5796bb5f9e2) |
+| Thu, 29 Jan 2026 04:21:46 GMT | New rate limit bypass , other won’t say | BALAJI | [Read More](https://medium.com/p/086489470239) |
+| Thu, 29 Jan 2026 04:18:26 GMT | Kubernetes RBAC vs IAM: What Teams Get Wrong | Giri Babu | [Read More](https://medium.com/p/df8f35bc8cc8) |
+| Thu, 29 Jan 2026 04:16:33 GMT | Cybersecurity Isn’t Just for Tech People Anymore — It’s Become Part of Everyday Life | Nicky Coleman | [Read More](https://medium.com/p/0bf9d1710f04) |
 | Thu, 29 Jan 2026 04:13:37 GMT | Stop believing the myth that “more data is better”! | Terry Chang | [Read More](https://medium.com/p/362957342f0b) |
 | Thu, 29 Jan 2026 04:00:02 GMT | Discovering Hidden Web Directories Using DIRB | Cybeague Technologies | [Read More](https://medium.com/p/b27330681c95) |
 | Thu, 29 Jan 2026 03:59:52 GMT | Active Directory Setup in VirtualBox — Part 1: Windows Server 2019 | DeshmukhVinit | [Read More](https://medium.com/p/7c82b5987f6f) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 Jan 2026 18:29:46 GMT | Secure Use of GitHub — CIS-Aligned Technical Guide — Part I | SOCFortress | [Read More](https://medium.com/p/47f5f938c222) |
 | Wed, 28 Jan 2026 18:24:55 GMT | How Backdooring Could Get You Into The System By Using Netcat | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/9719a0cbf6ff) |
 | Wed, 28 Jan 2026 18:23:45 GMT | Cyber Campaigns: Fix this, Fix that — CrashFix | Shivam Bathla | [Read More](https://medium.com/p/b642c74df474) |
-| Wed, 28 Jan 2026 18:10:29 GMT | Active Directory Attack Simulation and AI-Assisted Threat Detection with Popular SIEM Tools-Part5 | Robert Onyango | [Read More](https://medium.com/p/ab502c7d281f) |
-| Wed, 28 Jan 2026 18:09:14 GMT | hARMless: Building an ARM64 ELF Packer for Research and Red Team Operations | litemars | [Read More](https://medium.com/p/e40e8719142f) |
-| Wed, 28 Jan 2026 17:59:44 GMT | W1seGuy (TryHackMe)CTF | Noel varghese | [Read More](https://medium.com/p/f0b6c3b0fcdb) |
-| Wed, 28 Jan 2026 17:59:29 GMT | Concurrency Bit us in Production — And We Didn’t See It Coming | Rahul Singh | [Read More](https://medium.com/p/6728ebe04baf) |
-| Wed, 28 Jan 2026 17:58:31 GMT | The security.txt file: how serious websites handle vulnerability reports | Elyvora.us | [Read More](https://medium.com/p/5b0c06ae9b5d) |
-| Wed, 28 Jan 2026 17:54:39 GMT | Having the Courage of Our Convictions Despite Our Fears | Cedric B Johnson, Ph.D (psychology) | [Read More](https://medium.com/p/ef1a2dd7176b) |
-| Wed, 28 Jan 2026 17:52:17 GMT | PicoCTF Easy Forensics Challenges - Part (2/4) | iIyas | [Read More](https://medium.com/p/28041c20d2c2) |
-| Wed, 28 Jan 2026 17:51:32 GMT | Intermediate Nmap- TryHackMe challenege Walkthrough | Hemantha Krishna Challa | [Read More](https://medium.com/p/8af235fe6851) |
-| Wed, 28 Jan 2026 17:51:18 GMT | Try Hack Me- KoTH Food CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/d42873abc323) |
-| Wed, 28 Jan 2026 17:49:15 GMT | How Businesses are choosing the Right IT Company in Canada! | Bitquark | [Read More](https://medium.com/p/096781db9c2f) |
-| Wed, 28 Jan 2026 17:43:32 GMT | Emergency Locksmith Support Across London — Fast & Reliable | The Lock Specialist Ltd | [Read More](https://medium.com/p/ba3bf9798652) |
-| Wed, 28 Jan 2026 17:41:51 GMT | HTB Academy — File Upload Attacks: Skills Assessment | BotsiCat | [Read More](https://medium.com/p/29ca00fd14c2) |
-| Wed, 28 Jan 2026 17:40:57 GMT | Retour d’expérience sur la HTB CWES | 0110m4n | [Read More](https://medium.com/p/1c23377a33f0) |
-| Wed, 28 Jan 2026 17:39:08 GMT | Emergency Locksmith Service You Can Trust Across London | The Lock Specialist Ltd | [Read More](https://medium.com/p/6454d1371be0) |
