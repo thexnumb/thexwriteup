@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 Jan 2026 01:58:09 GMT | A Developer’s Guide to Protect Their Product from Supply Chain Attacks in 2026 | Cyberbali | [Read More](https://medium.com/p/9696b73f52e9) |
+| Thu, 29 Jan 2026 01:51:19 GMT | Siber Güvenliğe Giriş: Yanlış Bilinenlerle Birlikte | isaergisi | [Read More](https://medium.com/p/70b317c324bc) |
+| Thu, 29 Jan 2026 01:49:58 GMT | New Concepts Redefining Cyber GRC in 2026 | ThreatLens byGurdeep | [Read More](https://medium.com/p/580b68eb7875) |
+| Thu, 29 Jan 2026 01:48:01 GMT | Pentester Lab Recon_10 Visual Reconnaissance | Unborn Motion | [Read More](https://medium.com/p/a49919ee5fd3) |
+| Thu, 29 Jan 2026 01:40:18 GMT | Why BTL1 is Different.. | Jacob Ferguson | [Read More](https://medium.com/p/951970588309) |
+| Thu, 29 Jan 2026 01:34:20 GMT | What API Developers Need to Know About PCI DSS and Financial API Security | Iseoluwa Ogunnaike | [Read More](https://medium.com/p/12b50430b8c0) |
+| Thu, 29 Jan 2026 01:24:54 GMT | WPA3 Explained: Everything You Need to Know About WiFi Security | Raviteja Mureboina | [Read More](https://medium.com/p/d956fc3ee781) |
+| Thu, 29 Jan 2026 01:01:05 GMT | A story about a moth that I might’ve empathized with a bit too much. | syd | [Read More](https://medium.com/p/a6eb83a3d97b) |
+| Thu, 29 Jan 2026 01:01:03 GMT | 3 Actions That Truly Melt a Woman’s Heart in Relationships | EdithTali | [Read More](https://medium.com/p/70d4f7e537b4) |
+| Thu, 29 Jan 2026 01:01:03 GMT | ⭐ Why Financial Security, Not Happiness, Shaped My Grandmother’s Smile | Mr Simpsons | [Read More](https://medium.com/p/4261c792a617) |
+| Thu, 29 Jan 2026 00:40:12 GMT | The Email That Cost Me My Uber Account | Jackson Mills | [Read More](https://medium.com/p/8af6605cb6b2) |
+| Thu, 29 Jan 2026 00:30:50 GMT | Most Frequently Scanned Vulnerable Assets in January 2026 | Criminal IP | [Read More](https://medium.com/p/f5eb5308e66a) |
+| Thu, 29 Jan 2026 00:07:15 GMT | SC-85 Changes the Rules for DNSSEC and Certificate Issuance | Dr. Enrique Somoza, D.Sc. | [Read More](https://medium.com/p/314e661089e6) |
+| Thu, 29 Jan 2026 00:03:14 GMT | Menjelajahi Stack Server Bersama Coding Ceria X Penjelajah CyberSecurity | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/1b778aa0858d) |
+| Thu, 29 Jan 2026 00:00:22 GMT | Public Wi-Fi? No Problem. NordVPN Has You Covered | Genelia | [Read More](https://medium.com/p/3766abafe70d) |
+| Wed, 28 Jan 2026 23:58:43 GMT | From Streaming to Security: Why NordVPN Does It All | Genelia | [Read More](https://medium.com/p/4ade16885ae4) |
+| Wed, 28 Jan 2026 23:30:06 GMT | Migrating from SMTP to AWS SES with IAM Roles: A Security-First Approach to Email in Spring Boot | Abdelbaki BEN ELHAJ SLIMENE | [Read More](https://medium.com/p/52613488d5a2) |
 | Wed, 28 Jan 2026 23:27:35 GMT | IoA vs IoC in Cybersecurity: What’s the Difference and Why It Matters | Dennis Duke | [Read More](https://medium.com/p/277bd928687b) |
 | Wed, 28 Jan 2026 23:00:20 GMT | Dockerfile: Hardening e boas práticas | Caio Volpato | [Read More](https://medium.com/p/24acaa25bf1e) |
 | Wed, 28 Jan 2026 22:51:01 GMT | Day 3 : Vulnerability Research | Cybersecurity with Jojo | [Read More](https://medium.com/p/30f1473677ac) |
@@ -96,20 +113,3 @@ Nova Scotia has… | Digistarai | [Read More](https://medium.com/p/241f88c7e435)
 | Wed, 28 Jan 2026 16:40:03 GMT | Identity-First Security: The New Cyber Perimeter | Digital Defense | [Read More](https://medium.com/p/6a26f03f162e) |
 | Wed, 28 Jan 2026 16:30:09 GMT | Wazuh Vulnerability Enrichment EPSS + CISA KEV | Hanif K A | [Read More](https://medium.com/p/a989474877ad) |
 | Wed, 28 Jan 2026 16:29:00 GMT | Types of CCTV Cameras for Home and Business Use | Alex Bryn | [Read More](https://medium.com/p/861c6db1367c) |
-| Wed, 28 Jan 2026 16:27:26 GMT | Before You Deploy the Model: Why AI Risk Must Be Assessed Before the Business Commits | Michael Leigh | [Read More](https://medium.com/p/9253c45a171a) |
-| Wed, 28 Jan 2026 16:27:13 GMT | The Great HappyMod iOS Myth: Why iPhone Users Are Being Scammed in 2026 | Jonathan Jude | [Read More](https://medium.com/p/03dd09e20d6a) |
-| Wed, 28 Jan 2026 16:24:13 GMT | Broken Link Hijacking: That One Bug Everyone Ignores (Until It Pays ) | Purushotham.R | [Read More](https://medium.com/p/8ef2dac3619e) |
-| Wed, 28 Jan 2026 16:22:11 GMT | The First Production Bug Every Developer Remembers | Lakshika | [Read More](https://medium.com/p/cc63db40e3e0) |
-| Wed, 28 Jan 2026 16:16:59 GMT | Audtior - Fahemsec | 00xCanelo | [Read More](https://medium.com/p/2c1704fedf31) |
-| Wed, 28 Jan 2026 16:16:01 GMT | I Thought Cybersecurity Was About Intelligence. It’s About Patience | Crystal_cascade14 | [Read More](https://medium.com/p/3ce3733539e4) |
-| Wed, 28 Jan 2026 16:06:13 GMT | My prayers will hug you when my arms can't | yasmin | [Read More](https://medium.com/p/6f6bdd02e4ad) |
-| Wed, 28 Jan 2026 16:05:01 GMT | When “Security Hardening” Is Actually Vulnerability Harvesting: A Critical Analysis of the RvB… | Berend Watchus | [Read More](https://medium.com/p/fdd25d5de242) |
-| Wed, 28 Jan 2026 16:01:00 GMT | Securing Private Images & Videos in Web Applications using AWS CloudFront Signed URLs & Signed… | Rahul Chakraborty | [Read More](https://medium.com/p/00c0184ad931) |
-| Wed, 28 Jan 2026 15:58:21 GMT | PACE Planning: What the AWS US-East-1 Outage Taught Us About Incident Response Communications | Noz | [Read More](https://medium.com/p/e269f5180b26) |
-| Wed, 28 Jan 2026 15:53:22 GMT | AI Development Environment Hardening: Solo Developer Setup | Michael Hannecke | [Read More](https://medium.com/p/519aad1552d8) |
-| Wed, 28 Jan 2026 15:52:27 GMT | Day 4: Mastering Network Fundamentals | Siddhesh Patil | [Read More](https://medium.com/p/16afc3b395f1) |
-| Wed, 28 Jan 2026 15:49:44 GMT | PortSwigger SQL Injection Labs — Part 1 | Emirkilicer | [Read More](https://medium.com/p/18eed102b661) |
-| Wed, 28 Jan 2026 15:46:28 GMT | My very first write up | MAKSIM HARASHCHUK | [Read More](https://medium.com/p/d9f91769ffdb) |
-| Wed, 28 Jan 2026 15:44:41 GMT | Proving Grounds Linux Box Extplorer ( Road to OSCP ) | Cyb0rgBytes | [Read More](https://medium.com/p/008c742ea143) |
-| Wed, 28 Jan 2026 15:39:06 GMT | Go’s runtime/secret: A New Era of Secure Memory Handling | aman kohli | [Read More](https://medium.com/p/2f1e581517f1) |
-| Wed, 28 Jan 2026 15:34:11 GMT | A New Login Scam Can Hijack Your Entire Microsoft ecosystem. | Karl Buhl | [Read More](https://medium.com/p/142d22f76a07) |
