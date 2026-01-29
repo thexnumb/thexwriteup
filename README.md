@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 Jan 2026 11:51:16 GMT | ServiceNow ITOM Training - ServiceNow ITOM Online Training | Hariuhariu | [Read More](https://medium.com/p/79e06e761347) |
+| Thu, 29 Jan 2026 11:48:30 GMT | From Breaking Systems to Defending Them: My SOC Learning Journey Begins (Day 01) | Muhammad Kashif | [Read More](https://medium.com/p/4934335b7668) |
+| Thu, 29 Jan 2026 11:48:08 GMT | Masakan Tradisional Khas Kalimantan Tengah | JasminMedia | [Read More](https://medium.com/p/8d220f90a1b0) |
+| Thu, 29 Jan 2026 11:44:34 GMT | Why Learning Multiple Skills Increases Job Security | Arena Animation | [Read More](https://medium.com/p/a6f125b2ed29) |
+| Thu, 29 Jan 2026 11:42:30 GMT | Exploring AI Security Surveillance: Smart Cameras That Detect Threats Fast | Dolon Ghosh | [Read More](https://medium.com/p/f583f4664bb0) |
+| Thu, 29 Jan 2026 11:38:54 GMT | The Rise of Autonomous Hackers: Are We Ready for AI Predators in a Decentralized World? | Vatsamistry | [Read More](https://medium.com/p/503605ca0525) |
+| Thu, 29 Jan 2026 11:31:02 GMT | Scalability is a Decision, Not a Feature | Sparkle Web | [Read More](https://medium.com/p/7f1561cf30da) |
+| Thu, 29 Jan 2026 11:30:58 GMT | Title: Why Public Blockchains Are a Dead End for State Sovereignty (And What the Alternative Is)… | Franck Abe | [Read More](https://medium.com/p/4c9cab8eefbf) |
+| Thu, 29 Jan 2026 11:26:02 GMT | Revitalizing the Proxmark3 Easy: Overcoming Portability Challenges in RFID Hacking | T-Jay Bautista | [Read More](https://medium.com/p/1f354be29b82) |
+| Thu, 29 Jan 2026 11:21:41 GMT | A Silent Security Flaw in Bluetooth Headphones “WhisperPair” | Emirhan Koç | [Read More](https://medium.com/p/a2dac3881baa) |
+| Thu, 29 Jan 2026 11:20:46 GMT | Bypassing Mobile App Access Code Locks via Insecure “Forgot Code” Flow | carson0079 | [Read More](https://medium.com/p/2e51567bf4f9) |
+| Thu, 29 Jan 2026 11:19:24 GMT | Trolled a Scammer for Fun. Today, It Saved a Developer’s Career. | freerave | [Read More](https://medium.com/p/3c44a0f19193) |
+| Thu, 29 Jan 2026 11:18:01 GMT | cyber talent / genfei | SPIDER1SEC | [Read More](https://medium.com/p/93a611e26942) |
+| Thu, 29 Jan 2026 11:17:57 GMT | IT Outstaffing Isn’t for “Extra Hands”. It’s for Specific Failure Modes. | Julia Govor | [Read More](https://medium.com/p/f7054bcb293c) |
+| Thu, 29 Jan 2026 11:14:14 GMT | Hands-On Fintech AI — Part 3: Environment Variables in Postman for Fintech Testing | Banu Tutuncu - AI Tester in Fintech - Storyteller | [Read More](https://medium.com/p/b47e97ea6eef) |
+| Thu, 29 Jan 2026 11:11:25 GMT | Splunk ile Log Analizi | Sakarya Üniversitesi Siber Güvenlik Topluluğu | [Read More](https://medium.com/p/e661ba390768) |
+| Thu, 29 Jan 2026 11:01:02 GMT | SOC & Business Success with ANY.RUN: Real-World Results & Cases | ANY.RUN | [Read More](https://medium.com/p/3b0d70a6e35c) |
 | Thu, 29 Jan 2026 10:49:04 GMT | Union Budget 2026 Expectations for Investors | digital Aditya | [Read More](https://medium.com/p/be0e46772631) |
 | Thu, 29 Jan 2026 10:46:01 GMT | A local environment for DependencyTrack with Docker Compose | Christophe Vaudry | [Read More](https://medium.com/p/f59181ca1ce7) |
 | Thu, 29 Jan 2026 10:36:58 GMT | Behind the Scenes of a Lean Hosting Business That Actually Works | Janet Watson | [Read More](https://medium.com/p/d2574636998a) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 Jan 2026 04:43:55 GMT | 99% Don’t Know Apple Built This Cloud | Anil Kumar Bakkashetti | [Read More](https://medium.com/p/fcff9bb4e4b8) |
 | Thu, 29 Jan 2026 04:43:14 GMT | HTB: Imagery — Medium Writeup | Maxwell Ferreira | [Read More](https://medium.com/p/50cdf3812871) |
 | Thu, 29 Jan 2026 04:35:04 GMT | Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws | Abstract Mind | [Read More](https://medium.com/p/36b524432adf) |
-| Thu, 29 Jan 2026 04:33:43 GMT | Cloud Data Protection for SaaS Applications Market Trends and Opportunities | Gauri Kale | [Read More](https://medium.com/p/e5796bb5f9e2) |
-| Thu, 29 Jan 2026 04:21:46 GMT | New rate limit bypass , other won’t say | BALAJI | [Read More](https://medium.com/p/086489470239) |
-| Thu, 29 Jan 2026 04:18:26 GMT | Kubernetes RBAC vs IAM: What Teams Get Wrong | Giri Babu | [Read More](https://medium.com/p/df8f35bc8cc8) |
-| Thu, 29 Jan 2026 04:16:33 GMT | Cybersecurity Isn’t Just for Tech People Anymore — It’s Become Part of Everyday Life | Nicky Coleman | [Read More](https://medium.com/p/0bf9d1710f04) |
-| Thu, 29 Jan 2026 04:13:37 GMT | Stop believing the myth that “more data is better”! | Terry Chang | [Read More](https://medium.com/p/362957342f0b) |
-| Thu, 29 Jan 2026 04:00:02 GMT | Discovering Hidden Web Directories Using DIRB | Cybeague Technologies | [Read More](https://medium.com/p/b27330681c95) |
-| Thu, 29 Jan 2026 03:59:52 GMT | Active Directory Setup in VirtualBox — Part 1: Windows Server 2019 | DeshmukhVinit | [Read More](https://medium.com/p/7c82b5987f6f) |
-| Thu, 29 Jan 2026 03:59:23 GMT | Maelstrom | noirism | [Read More](https://medium.com/p/4f80aa9adf0c) |
-| Thu, 29 Jan 2026 03:59:11 GMT | Detecting Web Application Firewalls Using WAFW00F | Cybeague Technologies | [Read More](https://medium.com/p/98b494992998) |
-| Thu, 29 Jan 2026 03:57:42 GMT | 別再迷信「數據越多越好」！ | Terry Chang | [Read More](https://medium.com/p/315534b599a6) |
-| Thu, 29 Jan 2026 03:52:36 GMT | Möbius Method Specification: An Invariance-First Framework Beyond Binary Computation | Supat Charoensappuech | [Read More](https://medium.com/p/95fbd2849d05) |
-| Thu, 29 Jan 2026 03:44:57 GMT | Your Web Application Firewall Cannot Protect Your AI: Enter the GAF | Savneet Singh | [Read More](https://medium.com/p/1da55382e403) |
-| Thu, 29 Jan 2026 03:31:15 GMT | Your AI Sidebar Might Be Spying on You: The 900,000-User Trap | Manubhav Sharma | [Read More](https://medium.com/p/bee5f3df41e8) |
-| Thu, 29 Jan 2026 03:31:02 GMT | Top 10 Practices for Node.js Anti-Corruption Layers | Arunangshu Das | [Read More](https://medium.com/p/facaa0855ced) |
-| Thu, 29 Jan 2026 03:31:02 GMT | Hiding in Plain Sight: Inside the Gopher Strike and Sheet Attack Campaigns | Deven Chhajed | [Read More](https://medium.com/p/cb9fc6e8bcf0) |
-| Thu, 29 Jan 2026 03:30:31 GMT | Finding Hidden Web Directories with Dirbuster | Pushpak Sharma | [Read More](https://medium.com/p/31e0af9cbd27) |
-| Thu, 29 Jan 2026 03:27:52 GMT | Pishing analysis - Blue Team Labs | Nicksondiazm | [Read More](https://medium.com/p/33728766dfec) |
