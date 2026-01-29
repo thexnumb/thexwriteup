@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 Jan 2026 21:39:49 GMT | PASTE4D | Wu kong | [Read More](https://medium.com/p/9fd35ebb611d) |
+| Thu, 29 Jan 2026 21:37:20 GMT | When “I’m Fine” Is the Safest Answer | David egah | [Read More](https://medium.com/p/c16cbc522997) |
+| Thu, 29 Jan 2026 21:36:15 GMT | Wordfence Intelligence Weekly WordPress Vulnerability Report (January 19, 2026 to January 25, 2026) | Wordfence | [Read More](https://medium.com/p/a288c0528af7) |
+| Thu, 29 Jan 2026 21:21:39 GMT | Turning Fuzzing Into $2,550: How a Simple Bug Gave Me Access to Employee IDs & Contracts | Muntadhar M. Ahmed | [Read More](https://medium.com/p/bcc3137a84a7) |
 | Thu, 29 Jan 2026 21:07:45 GMT | Credential Security in React Native — OWASP Mobile Top 10 (M1) | Barış Kandemir | [Read More](https://medium.com/p/5da9cb7666dd) |
 | Thu, 29 Jan 2026 21:07:23 GMT | How to Build a Comprehensive Security Strategy: Physical and Cyber Defense for 2026 | Fortnexs Shield | [Read More](https://medium.com/p/403b61b967d3) |
 | Thu, 29 Jan 2026 20:48:33 GMT | SOC163 — Suspicious Certutil.exe Usage - LestDefend | Nicksondiazm | [Read More](https://medium.com/p/4578d5d4ecee) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 Jan 2026 15:39:26 GMT | Introduction to Hacking, Virtual Machines, Linux, and Networking | Ayshaknavas | [Read More](https://medium.com/p/bf95c0a1ae92) |
 | Thu, 29 Jan 2026 15:38:44 GMT | How We Hold What Matters. | Jennifer Clark | [Read More](https://medium.com/p/07a5e960a184) |
 | Thu, 29 Jan 2026 15:35:46 GMT | Implementing Role-Based Access Control (RBAC) in Kubernetes | Engineer Palsu | [Read More](https://medium.com/p/41349d802ccc) |
-| Thu, 29 Jan 2026 15:31:01 GMT | NestJS Multi-Tenancy: Data Isolation Guardrails | Quaxel | [Read More](https://medium.com/p/30cb6bfe151c) |
-| Thu, 29 Jan 2026 15:22:59 GMT | Building a Vulnerable GCP Pentest Lab with Terraform | Andrey Pautov | [Read More](https://medium.com/p/9d1edfcd8eff) |
-| Thu, 29 Jan 2026 15:22:54 GMT | Cybersecurity Theater- How to Tell If Your MSP Is Actually Protecting You | ManagedIT_Expert | [Read More](https://medium.com/p/711599c5125a) |
-| Thu, 29 Jan 2026 15:21:35 GMT | An Ex, A Platform, And Zero Emotional Preparation. | Sonali M | [Read More](https://medium.com/p/e2762dd24863) |
