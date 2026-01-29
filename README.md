@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 Jan 2026 20:22:30 GMT | Google’s Fast Pair Vulnerability: How WhisperPair Lets Hackers Hijack Bluetooth Devices | Abhinav Yadav | [Read More](https://medium.com/p/4ebb7395ab9d) |
+| Thu, 29 Jan 2026 20:13:26 GMT | How to Block Spam SMS and Scam Calls in 2026: A Complete Guide to Reclaiming Your Privacy | Huseyin Sari | [Read More](https://medium.com/p/508597c01541) |
+| Thu, 29 Jan 2026 20:11:54 GMT | OWASP Top 10–2025 | Gokhan Can | [Read More](https://medium.com/p/2a99aa11ae31) |
+| Thu, 29 Jan 2026 20:09:28 GMT | What you must know about Docker Volumes? | BecomeDevops | [Read More](https://medium.com/p/a7cea0ffff6e) |
+| Thu, 29 Jan 2026 20:04:34 GMT | From Red to Blue: Building a Sysmon & Splunk Threat Hunting Lab | Muhammed Eymen AYDIN | [Read More](https://medium.com/p/18f5778a34ff) |
+| Thu, 29 Jan 2026 20:04:10 GMT | OWASP Mobile Top 10: Hatalı Kimlik Bilgisi Kullanımı (M1) | Barış Kandemir | [Read More](https://medium.com/p/b8cb6ce8df67) |
+| Thu, 29 Jan 2026 20:04:07 GMT | Episode 5: Load Balancer Security Auditor — SSL, Protocols, and Public Exposure | Tarek CHEIKH | [Read More](https://medium.com/p/b7f97c4bee1c) |
+| Thu, 29 Jan 2026 19:55:12 GMT | Tryhackme Pickle Rick CTF Write-Up | Kandemirryigit | [Read More](https://medium.com/p/5c453dd65479) |
+| Thu, 29 Jan 2026 19:54:53 GMT | JWT: Is Security Really That Simple? | Enes Efe Tokta | [Read More](https://medium.com/p/b5e47fa9fc4e) |
+| Thu, 29 Jan 2026 19:54:27 GMT | Hacker kid 1.0.1 — OSCP Raw - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/36dd9440ef09) |
+| Thu, 29 Jan 2026 19:51:21 GMT | Private Security Provider Management and Control Manual | Noticias LATAM | [Read More](https://medium.com/p/fb5ba941450f) |
+| Thu, 29 Jan 2026 19:50:41 GMT | Cyber Security | Îbrãhìm Sabir | [Read More](https://medium.com/p/7e560640df59) |
 | Thu, 29 Jan 2026 19:37:03 GMT | The 3 AM Disaster: Why Your AI Agents Are Your Biggest Security Threat | John Williams | [Read More](https://medium.com/p/7a156ebbd05c) |
 | Thu, 29 Jan 2026 19:32:33 GMT | # Basic Pentesting: THM — Complete Walkthrough | MAKSIM HARASHCHUK | [Read More](https://medium.com/p/928887958d10) |
 | Thu, 29 Jan 2026 19:23:49 GMT | My learning as a Cybersecurity intern at a Startup | Shreyashkumar | [Read More](https://medium.com/p/470e5aa9013d) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 Jan 2026 14:41:09 GMT | From One Mutation to a Full Service Outage: A GraphQL DoS Story | Kayra Öksüz | [Read More](https://medium.com/p/71c1f3c76ea9) |
 | Thu, 29 Jan 2026 14:36:02 GMT | [EP.1] Learn from the Box — Lame (HTB) | Pattharadanai Sanitjairak | [Read More](https://medium.com/p/cd3c4069a202) |
 | Thu, 29 Jan 2026 14:19:13 GMT | Breaking a Hardened Active Directory: From Zero Access to Domain Dominance | Tyreek Haynes | [Read More](https://medium.com/p/6e8e3e523e83) |
-| Thu, 29 Jan 2026 14:14:57 GMT | The Trinity of Chaos: Inside the 2025 Cybercrime Supergroup That Stole 1.5 Billion Records | ODDEYE Security | [Read More](https://medium.com/p/00a456489450) |
-| Thu, 29 Jan 2026 14:13:51 GMT | Why My Laptop Hated Me: From Celeron Struggles to Cloud Architecture | Gabriel Ladanu | [Read More](https://medium.com/p/036b198c31d8) |
-| Thu, 29 Jan 2026 14:11:55 GMT | Google to Pay $135 Million in Android Data Privacy Settlement: What Users and Investors Need to… | All Tending News | [Read More](https://medium.com/p/637c1556644b) |
-| Thu, 29 Jan 2026 14:05:49 GMT | Tools I Wish I Had When I Started Hardware Hacking | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/00ae0b610a29) |
-| Thu, 29 Jan 2026 14:02:41 GMT | The world’s most famous warning system just named artificial intelligence as an existential threat. | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/a988f80731e8) |
-| Thu, 29 Jan 2026 13:59:44 GMT | Automating Multi-Tenant Wazuh: A Practical Guide | Alexandra Costea | [Read More](https://medium.com/p/a0f8d9b65137) |
-| Thu, 29 Jan 2026 13:58:00 GMT | Configuring Secure Progressive Delivery Pipeline on AWS Part 1 | Keegan Justis | [Read More](https://medium.com/p/a620837f1dc2) |
-| Thu, 29 Jan 2026 13:56:01 GMT | Cybersecurity | Doc Jones | [Read More](https://medium.com/p/80210f7bddcd) |
-| Thu, 29 Jan 2026 13:49:45 GMT | Six-day certificates, real-world operations, and a tiny Docker tool that saves you from surprise… | Ricardo Franco Cantero | [Read More](https://medium.com/p/a2ae2c000a43) |
-| Thu, 29 Jan 2026 13:46:50 GMT | Cybersecurity Maturity Models Have Failed Us. It Is Time to Admit It. | Michael Leigh | [Read More](https://medium.com/p/f3c74c4b5070) |
-| Thu, 29 Jan 2026 13:45:39 GMT | Breaking the Gate: How We Bypassed Email Verification on a Major Platform | LETCHU PKT | [Read More](https://medium.com/p/e1a66a432b64) |
-| Thu, 29 Jan 2026 13:43:25 GMT | ✅ Organized SOC / Cybersecurity Tools Library | M Kumar | [Read More](https://medium.com/p/c88d29ac42c9) |
