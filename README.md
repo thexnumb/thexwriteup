@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 Jan 2026 09:48:39 GMT | CloudGoat Scenario Series: Vulnerable Lambda | Aditya | [Read More](https://medium.com/p/927965cfbfad) |
+| Thu, 29 Jan 2026 09:47:47 GMT | XBow and the “AI Takeover”: Why You Can Put Down the Goat Farming Manual | Shubham Khanna | [Read More](https://medium.com/p/0bdcb00b2c90) |
+| Thu, 29 Jan 2026 09:37:10 GMT | Correlating File Integrity Events with SSH and RDP Sessions in Wazuh | Piyush Ramani | [Read More](https://medium.com/p/83f3f32aacd2) |
+| Thu, 29 Jan 2026 09:33:14 GMT | Engineering Database Activity Monitoring (DAM) - From Bare-Metal Linux to AWS RDS — EPISODE 3 | Vijenex | [Read More](https://medium.com/p/a3ca8b9add8f) |
+| Thu, 29 Jan 2026 09:31:45 GMT | How to Evaluate IT Vendors Before Signing a Long-Term Contract | Vilas Raut | [Read More](https://medium.com/p/1c7932558099) |
+| Thu, 29 Jan 2026 09:27:53 GMT | Total Security Solutions India: Building a Safer Future with Advanced Electronic Security Solutions | Ciss India | [Read More](https://medium.com/p/ab2f3f0f1584) |
+| Thu, 29 Jan 2026 09:27:17 GMT | The Internet Was Never Safe — We Just Agreed to Pretend | Najwan Ewaldo | [Read More](https://medium.com/p/78b7cc081d20) |
+| Thu, 29 Jan 2026 09:18:04 GMT | Bruteforce(BTLO) (RDP) Walkthrough ️ | Nishasorallikar | [Read More](https://medium.com/p/b2af537efc43) |
+| Thu, 29 Jan 2026 09:10:27 GMT | Did You Know That Your Active Directory Could Be Leaking Secrets Right Now? Read On To Know How | Redfox Security | [Read More](https://medium.com/p/d4c013474dcb) |
+| Thu, 29 Jan 2026 09:02:05 GMT | A Better Hosting Experience Without the Premium Price Tag | Ann Taylor | [Read More](https://medium.com/p/ee28904d80fc) |
+| Thu, 29 Jan 2026 09:01:01 GMT | How Ransomware Gangs Use Leaked Credentials to Get In | Alexandre Vandamme | [Read More](https://medium.com/p/7c0136e68617) |
+| Thu, 29 Jan 2026 08:58:15 GMT | Sokudo writeup (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/c9413182ece8) |
 | Thu, 29 Jan 2026 08:53:54 GMT | Rent Please Landlord Sim Mod APK | Game4u | [Read More](https://medium.com/p/9b01692078d5) |
 | Thu, 29 Jan 2026 08:51:01 GMT | AP automation & cybersecurity safeguards for sensitive financial data | Medius | [Read More](https://medium.com/p/63a1b3e2dcbe) |
 | Thu, 29 Jan 2026 08:47:29 GMT | ประจำวันพฤหัสบดีที่ 29 มกราคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/52688c1bd226) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 Jan 2026 00:07:15 GMT | SC-85 Changes the Rules for DNSSEC and Certificate Issuance | Dr. Enrique Somoza, D.Sc. | [Read More](https://medium.com/p/314e661089e6) |
 | Thu, 29 Jan 2026 00:03:14 GMT | Menjelajahi Stack Server Bersama Coding Ceria X Penjelajah CyberSecurity | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/1b778aa0858d) |
 | Thu, 29 Jan 2026 00:00:22 GMT | Public Wi-Fi? No Problem. NordVPN Has You Covered | Genelia | [Read More](https://medium.com/p/3766abafe70d) |
-| Wed, 28 Jan 2026 23:58:43 GMT | From Streaming to Security: Why NordVPN Does It All | Genelia | [Read More](https://medium.com/p/4ade16885ae4) |
-| Wed, 28 Jan 2026 23:30:06 GMT | Migrating from SMTP to AWS SES with IAM Roles: A Security-First Approach to Email in Spring Boot | Abdelbaki BEN ELHAJ SLIMENE | [Read More](https://medium.com/p/52613488d5a2) |
-| Wed, 28 Jan 2026 23:27:35 GMT | IoA vs IoC in Cybersecurity: What’s the Difference and Why It Matters | Dennis Duke | [Read More](https://medium.com/p/277bd928687b) |
-| Wed, 28 Jan 2026 23:00:20 GMT | Dockerfile: Hardening e boas práticas | Caio Volpato | [Read More](https://medium.com/p/24acaa25bf1e) |
-| Wed, 28 Jan 2026 22:51:01 GMT | Day 3 : Vulnerability Research | Cybersecurity with Jojo | [Read More](https://medium.com/p/30f1473677ac) |
-| Wed, 28 Jan 2026 22:46:45 GMT | Microsoft Fabric Core Patterns for accessing Private Data Sources | Inderjit Rana | [Read More](https://medium.com/p/2631c4cd0c4d) |
-| Wed, 28 Jan 2026 22:38:41 GMT | Follina (BlueTeamLabs) | IgnoranzaSolare | [Read More](https://medium.com/p/76040074e8a0) |
-| Wed, 28 Jan 2026 22:36:52 GMT | Anatomy of a Kinsing Attack: How an Open PostgreSQL Port Exposed My AWS Server for 7 Days | Jarmijos | [Read More](https://medium.com/p/5794f83ad23b) |
-| Wed, 28 Jan 2026 22:21:31 GMT | Cybersecurity and Spiritual Vigilance: Lessons from APT | Inemesit Alunyo | [Read More](https://medium.com/p/692636584383) |
-| Wed, 28 Jan 2026 22:11:42 GMT | 3 Patterns for Kubernetes TLS: Why I Settled on NLB Passthrough and cert-manager | Ukatane Isaac | [Read More](https://medium.com/p/78931b2d5271) |
-| Wed, 28 Jan 2026 22:11:02 GMT | Why Security Breaches Hurt More in Healthcare | Mohsin Khan | [Read More](https://medium.com/p/677eafdb0ce3) |
-| Wed, 28 Jan 2026 22:00:29 GMT | Thinking about the Sec+? | Aaronashley | [Read More](https://medium.com/p/795e10e1196d) |
