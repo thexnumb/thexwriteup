@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 Jan 2026 17:47:00 GMT | Technical Bug Bounty Methodology: Deep Recon, Automation and Human Insight | NullSecurityX | [Read More](https://medium.com/p/ec61e9e0f4dd) |
+| Thu, 29 Jan 2026 17:43:52 GMT | Exploiting PwnKit (CVE-2021–4034) | Shivam Bathla | [Read More](https://medium.com/p/ac5d6995c499) |
+| Thu, 29 Jan 2026 17:43:44 GMT | Secure Use of GitHub — CIS-Aligned Technical Guide — Part II | SOCFortress | [Read More](https://medium.com/p/e1909bed0cb6) |
+| Thu, 29 Jan 2026 17:40:15 GMT | The Power of the stat Command | EMTIAZ AHMED | [Read More](https://medium.com/p/0931adc31d45) |
+| Thu, 29 Jan 2026 17:35:36 GMT | INE / eJPT / Host & Network Penetration Testing: The Metasploit Framework CTF 2 | Salihugurlu | [Read More](https://medium.com/p/af61f5524fbc) |
+| Thu, 29 Jan 2026 17:35:16 GMT | The Non-Negotiables in DevSecOps Pipeline: Building Security into Every Commit | Rommel Jay Gadil | [Read More](https://medium.com/p/a1561d50bcc0) |
+| Thu, 29 Jan 2026 17:26:05 GMT | TryHackMe —Cloud Security Pitfalls— Walkthrough | Kabir Chand | [Read More](https://medium.com/p/5d7cf8e6c43b) |
+| Thu, 29 Jan 2026 17:22:28 GMT | Android Architecture — Part 1 | Aastha Thakker | [Read More](https://medium.com/p/0ca4c5ce4d74) |
+| Thu, 29 Jan 2026 17:21:43 GMT | AI Detection Engines Reverse-Engineered and Statistically Exposed | Ilnur Khakimov | [Read More](https://medium.com/p/63983d9c277f) |
+| Thu, 29 Jan 2026 17:21:29 GMT | Getting Started in Cybersecurity: Some Hard Truths I Wish I Knew Earlier | Sanal k nelson | [Read More](https://medium.com/p/c8998685098f) |
+| Thu, 29 Jan 2026 17:21:13 GMT | Navigating the 2025 Cyber Threat Landscape: Vulnerabilities, Automation, and Strategic Defense for… | eL Njas!™ | [Read More](https://medium.com/p/774db8dfbf45) |
+| Thu, 29 Jan 2026 17:18:37 GMT | [EP.2] Learn from the Box — Legacy (HTB) | Pattharadanai Sanitjairak | [Read More](https://medium.com/p/e687b0937b4a) |
+| Thu, 29 Jan 2026 17:15:50 GMT | Building PySniffer: Designing a Real-Time Network Sniffer for Security Analysis | Muhammed Eymen AYDIN | [Read More](https://medium.com/p/904bfd869779) |
+| Thu, 29 Jan 2026 17:14:05 GMT | Neon-Bred Slut | Dream Walker's Dream Land | [Read More](https://medium.com/p/c5abdb0df4e3) |
+| Thu, 29 Jan 2026 17:06:44 GMT | SOC153 Alert Walkthrough on LetsDefend | Fatma Mohamed | [Read More](https://medium.com/p/8f6445311c12) |
 | Thu, 29 Jan 2026 17:03:09 GMT | [REVIEW] The API-RTA Exam: A Mission in Logical Chaining and Modern API Exploitation | Lau | [Read More](https://medium.com/p/116489776623) |
 | Thu, 29 Jan 2026 17:00:46 GMT | The Silent Database Killer Every DevOps Team Ignores (Free Tool Saves Millions)!!! | cybrNK | [Read More](https://medium.com/p/b59e4b264c11) |
 | Thu, 29 Jan 2026 16:56:45 GMT | The Identity Gap: How to Secure Your Army of AI Agents | Dr Sokratis Kartakis | [Read More](https://medium.com/p/5586cde44100) |
@@ -40,6 +55,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 Jan 2026 15:45:33 GMT | Reversing Android Malware: Joker | smarttfoxx | [Read More](https://medium.com/p/643db5168ce0) |
 | Thu, 29 Jan 2026 15:43:02 GMT | Top Skills Required to Become an Ethical Hacker in 2026 | Anaynams | [Read More](https://medium.com/p/43aa2460c5b6) |
 | Thu, 29 Jan 2026 15:39:26 GMT | Introduction to Hacking, Virtual Machines, Linux, and Networking | Ayshaknavas | [Read More](https://medium.com/p/bf95c0a1ae92) |
+| Thu, 29 Jan 2026 15:38:44 GMT | How We Hold What Matters. | Jennifer Clark | [Read More](https://medium.com/p/07a5e960a184) |
 | Thu, 29 Jan 2026 15:35:46 GMT | Implementing Role-Based Access Control (RBAC) in Kubernetes | Engineer Palsu | [Read More](https://medium.com/p/41349d802ccc) |
 | Thu, 29 Jan 2026 15:31:01 GMT | NestJS Multi-Tenancy: Data Isolation Guardrails | Quaxel | [Read More](https://medium.com/p/30cb6bfe151c) |
 | Thu, 29 Jan 2026 15:22:59 GMT | Building a Vulnerable GCP Pentest Lab with Terraform | Andrey Pautov | [Read More](https://medium.com/p/9d1edfcd8eff) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 Jan 2026 12:13:13 GMT | Final Wrap-Up: Choosing Your ISC² Path Wisely | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/a7bd1dbf3675) |
 | Thu, 29 Jan 2026 12:11:52 GMT | I Let AI Pentest my lab for 45 Minutes. HexStrike AI and KALI MCP to get a shell after only 20. | Vito Rallo | [Read More](https://medium.com/p/5ba5857bae10) |
 | Thu, 29 Jan 2026 12:07:38 GMT | I Opened Jio Hotstar to Watch a Series — and Ended Up Reverse-Engineering Its Ad Logic | Rohit Shrirame | [Read More](https://medium.com/p/2f8583615e50) |
-| Thu, 29 Jan 2026 12:01:01 GMT | Writeup for picoCTF challenge “Cookies” | Walter Moar | [Read More](https://medium.com/p/a133f30935f6) |
-| Thu, 29 Jan 2026 11:52:22 GMT | Some Secrets I Never Learned to Say Out Loud | Silvershade | [Read More](https://medium.com/p/68b0fa4ef392) |
-| Thu, 29 Jan 2026 11:51:16 GMT | ServiceNow ITOM Training - ServiceNow ITOM Online Training | Hariuhariu | [Read More](https://medium.com/p/79e06e761347) |
-| Thu, 29 Jan 2026 11:49:58 GMT | How Joy Learns to Stay, When We Choose Each Other | Printique studios | [Read More](https://medium.com/p/b41712d8d144) |
-| Thu, 29 Jan 2026 11:48:30 GMT | From Breaking Systems to Defending Them: My SOC Learning Journey Begins (Day 01) | Muhammad Kashif | [Read More](https://medium.com/p/4934335b7668) |
-| Thu, 29 Jan 2026 11:48:08 GMT | Masakan Tradisional Khas Kalimantan Tengah | JasminMedia | [Read More](https://medium.com/p/8d220f90a1b0) |
-| Thu, 29 Jan 2026 11:44:34 GMT | Why Learning Multiple Skills Increases Job Security | Arena Animation | [Read More](https://medium.com/p/a6f125b2ed29) |
-| Thu, 29 Jan 2026 11:42:30 GMT | Exploring AI Security Surveillance: Smart Cameras That Detect Threats Fast | Dolon Ghosh | [Read More](https://medium.com/p/f583f4664bb0) |
-| Thu, 29 Jan 2026 11:38:54 GMT | The Rise of Autonomous Hackers: Are We Ready for AI Predators in a Decentralized World? | Vatsamistry | [Read More](https://medium.com/p/503605ca0525) |
-| Thu, 29 Jan 2026 11:36:59 GMT | SQL Injection (SQLi) Vulnerability Report | Ravi Pipalwa | [Read More](https://medium.com/p/25897c929b37) |
-| Thu, 29 Jan 2026 11:31:02 GMT | Scalability is a Decision, Not a Feature | Sparkle Web | [Read More](https://medium.com/p/7f1561cf30da) |
-| Thu, 29 Jan 2026 11:30:58 GMT | Title: Why Public Blockchains Are a Dead End for State Sovereignty (And What the Alternative Is)… | Franck Abe | [Read More](https://medium.com/p/4c9cab8eefbf) |
-| Thu, 29 Jan 2026 11:26:02 GMT | Revitalizing the Proxmark3 Easy: Overcoming Portability Challenges in RFID Hacking | T-Jay Bautista | [Read More](https://medium.com/p/1f354be29b82) |
-| Thu, 29 Jan 2026 11:21:41 GMT | A Silent Security Flaw in Bluetooth Headphones “WhisperPair” | Emirhan Koç | [Read More](https://medium.com/p/a2dac3881baa) |
-| Thu, 29 Jan 2026 11:20:46 GMT | Bypassing Mobile App Access Code Locks via Insecure “Forgot Code” Flow | carson0079 | [Read More](https://medium.com/p/2e51567bf4f9) |
-| Thu, 29 Jan 2026 11:19:24 GMT | Trolled a Scammer for Fun. Today, It Saved a Developer’s Career. | freerave | [Read More](https://medium.com/p/3c44a0f19193) |
