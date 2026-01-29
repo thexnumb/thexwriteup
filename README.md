@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 Jan 2026 07:21:57 GMT | The Rose in the Sewer | Malcaris | [Read More](https://medium.com/p/a44c53de44ad) |
+| Thu, 29 Jan 2026 07:17:19 GMT | Sakura School Simulator Mod APK | Bandisharecx | [Read More](https://medium.com/p/9b6a12431395) |
+| Thu, 29 Jan 2026 07:15:21 GMT | Engineering Database Activity Monitoring (DAM) - From Bare-Metal Linux to AWS RDS — EPISODE 2 | Vijenex | [Read More](https://medium.com/p/c4d903352d24) |
+| Thu, 29 Jan 2026 07:02:44 GMT | Inside the Business Leader’s Mind: What They Really Want From Gen AI - Ascendion | Ascendion | [Read More](https://medium.com/p/566e43e288bd) |
+| Thu, 29 Jan 2026 06:57:25 GMT | Cursor + Hexstrike. Fully Automated ADCS ESC8 Attack | Andrey Pautov | [Read More](https://medium.com/p/8736fec53c58) |
+| Thu, 29 Jan 2026 06:57:03 GMT | who am i? — Web Security Challenge (Easy) | Z3DX | [Read More](https://medium.com/p/c26dd1667a00) |
+| Thu, 29 Jan 2026 06:46:59 GMT | Sanity United Ambassador Program: Building the Future of Sustainable Web3 Together | Stan4Chainz | [Read More](https://medium.com/p/1b2486b7429d) |
+| Thu, 29 Jan 2026 06:32:32 GMT | Beyond the Bug: Exploring OWASP Top 10 (2025) Design Flaws | pwnedByJT | [Read More](https://medium.com/p/06bfebc9e7b1) |
+| Thu, 29 Jan 2026 06:27:33 GMT | Deep Dive into Modern Security: From Encryption to Ethical Hacking | Sanya Sachdeva | [Read More](https://medium.com/p/7e7b0dc7078a) |
+| Thu, 29 Jan 2026 06:20:18 GMT | Hack Block Blast | Apkpuredev | [Read More](https://medium.com/p/119e0a187fc5) |
+| Thu, 29 Jan 2026 06:12:42 GMT | How Documentation Becomes Recon | Fateyaly | [Read More](https://medium.com/p/012f53711ab8) |
+| Thu, 29 Jan 2026 06:11:05 GMT | Stop Trusting connectivity_plus: The Offline-First Trap That Breaks Production Apps | Simra Husain | [Read More](https://medium.com/p/2f8cfcb1a6e5) |
+| Thu, 29 Jan 2026 06:10:15 GMT | 10 Common Security Vulnerabilities in Modern Web Applications | Mubashir | [Read More](https://medium.com/p/61b06260e35b) |
 | Thu, 29 Jan 2026 05:50:42 GMT | Active Directory Enterprise Lab Implementation and Security Infrastructure | Aribo Ifeoluwa | [Read More](https://medium.com/p/eaf1ce5e4dd1) |
 | Thu, 29 Jan 2026 05:37:00 GMT | Passkeys vs. Access-First: The Shift from Login to Lifecycle | Anton Minin Baranovskii | [Read More](https://medium.com/p/3215f588cc4a) |
 | Thu, 29 Jan 2026 05:36:03 GMT | Endpoint Protection Platforms Market Analysis: Key Trends and Opportunities | Michel mathew | [Read More](https://medium.com/p/328e3cad3b52) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 Jan 2026 20:14:42 GMT | [PT-BR] OnSystemShellDredd — PGPlay — Walkthrough | hacktheborges | [Read More](https://medium.com/p/eba86b2f4c21) |
 | Wed, 28 Jan 2026 20:14:03 GMT | [EN] OnSystemShellDredd — PGPlay — Walkthrough | hacktheborges | [Read More](https://medium.com/p/8dbbcbf06cd3) |
 | Wed, 28 Jan 2026 20:00:40 GMT | Cybersecurity Services by CyberSecOp: Trusted Cyber Security Experts Protecting Your Business | Jeffery Walker | [Read More](https://medium.com/p/42f058d92427) |
-| Wed, 28 Jan 2026 19:58:19 GMT | Peeling the Onion: A Static Deep Dive into a Modular Lumma Stealer Campaign | MabLevi | [Read More](https://medium.com/p/6565711fb2b3) |
-| Wed, 28 Jan 2026 19:52:05 GMT | XSS AS 1337 PWN IT | pwnx1337 | [Read More](https://medium.com/p/c6777361e705) |
-| Wed, 28 Jan 2026 19:49:13 GMT | The Evolution of Slot Hacking — From Russian Syndicates to AI & Side-Channels (2026 Update) | Jonathan Brown | [Read More](https://medium.com/p/b4d6c3d6de5e) |
-| Wed, 28 Jan 2026 19:41:16 GMT | The Wonderful World of Prime Numbers | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/045f5d8768ce) |
-| Wed, 28 Jan 2026 19:41:01 GMT | It’s January 2026. Here Is Why Your Azure Security Strategy Failed. | Tom Croll | [Read More](https://medium.com/p/d4674657a2b9) |
-| Wed, 28 Jan 2026 19:39:00 GMT | Rolling distros don’t break security — Legacy CVE scanners do | Christian Frank Johannsen | [Read More](https://medium.com/p/e9403804ceba) |
-| Wed, 28 Jan 2026 19:36:26 GMT | SOC basics: What Every Fresher Should Know Before Jumping Into Security Operations | Notes From A SOC Fresher | [Read More](https://medium.com/p/d747a704cbaf) |
-| Wed, 28 Jan 2026 19:29:04 GMT | AI Coding Agents: Our Privacy Line in the Sand | Patrick Walsh | [Read More](https://medium.com/p/1c73e858e419) |
-| Wed, 28 Jan 2026 19:26:17 GMT | Homoglyph-based Email Identity Collision in a Secure Email Platform | Bavly Zaher | [Read More](https://medium.com/p/05a2c294ee63) |
-| Wed, 28 Jan 2026 19:19:21 GMT | Cybersecurity Consulting & IT Security Services by CyberSecOp: Protecting Your Business from Modern… | Jeffery Walker | [Read More](https://medium.com/p/29fb3e667dd0) |
-| Wed, 28 Jan 2026 19:10:08 GMT | How to Pass the CompTIA Security+ | Tarunika Kapoor | [Read More](https://medium.com/p/cc70129b95cb) |
-| Wed, 28 Jan 2026 19:09:35 GMT | Breaking Into the Vault of Trust Bank - APT Labs Walkthrough | Qurti/Purpleware | [Read More](https://medium.com/p/6d8aae459339) |
-| Wed, 28 Jan 2026 18:56:26 GMT | Cyber Security in Digital Marketing: Why Your Strategy is Only as Strong as Your Defence | Sougan Mandi | [Read More](https://medium.com/p/71cbbaf7d4a6) |
