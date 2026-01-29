@@ -12,9 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 Jan 2026 19:37:03 GMT | The 3 AM Disaster: Why Your AI Agents Are Your Biggest Security Threat | John Williams | [Read More](https://medium.com/p/7a156ebbd05c) |
+| Thu, 29 Jan 2026 19:32:33 GMT | # Basic Pentesting: THM — Complete Walkthrough | MAKSIM HARASHCHUK | [Read More](https://medium.com/p/928887958d10) |
+| Thu, 29 Jan 2026 19:23:49 GMT | My learning as a Cybersecurity intern at a Startup | Shreyashkumar | [Read More](https://medium.com/p/470e5aa9013d) |
+| Thu, 29 Jan 2026 19:23:07 GMT | DEFENSE IN DEPTH: A Layered Defense Approach in Information Security | dilan alpaltun | [Read More](https://medium.com/p/f1da20f5cdd9) |
+| Thu, 29 Jan 2026 19:19:49 GMT | SOC Analyst Handbook: Detecting Cross-Site Scripting (XSS) | Vishwas Adhikari | [Read More](https://medium.com/p/821addc3cfa6) |
+| Thu, 29 Jan 2026 19:17:32 GMT | CIA TRIAD: The Three Pillars of Cybersecurity | dilan alpaltun | [Read More](https://medium.com/p/c1c2fe1fce22) |
+| Thu, 29 Jan 2026 19:17:02 GMT | IDOR : Simple to Understand, easy to miss | Anshkamra | [Read More](https://medium.com/p/4beea0b4847b) |
+| Thu, 29 Jan 2026 19:12:36 GMT | How to Freeze Your Credit Score (And Why You Should) | Shane Spear | [Read More](https://medium.com/p/2c640c36580d) |
+| Thu, 29 Jan 2026 19:07:24 GMT | TryHackMe Pickle Rick — Write-up | Ramy | [Read More](https://medium.com/p/7b7a0728ba7f) |
+| Thu, 29 Jan 2026 19:05:29 GMT | ClawdBot: A Flawed Facade Disguised as Autonomy | Jonathan Capriola | [Read More](https://medium.com/p/1b031ddfa9c8) |
+| Thu, 29 Jan 2026 19:03:46 GMT | Appsmith’s Miss Does Not Mean “Low-Code is Risky” | Nigel Tape | [Read More](https://medium.com/p/d141acf4f7bd) |
 | Thu, 29 Jan 2026 19:02:15 GMT | Hands-on: BigQuery Data Encryption and Key Rotation | Karanrat Rattanawichai | [Read More](https://medium.com/p/a2e06f29aa02) |
 | Thu, 29 Jan 2026 19:00:10 GMT | TRYHACKME GameBuzz WriteUp | kayl | [Read More](https://medium.com/p/a9e877b39af0) |
 | Thu, 29 Jan 2026 18:59:38 GMT | The Windows Security Journey — Secured Core PC | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/e8eff1087079) |
+| Thu, 29 Jan 2026 18:58:19 GMT | Azure Firewall vs Azure WAF: Designing Defense-in-Depth Security in Microsoft Azure | Infantus Godfrey | [Read More](https://medium.com/p/9096d684a846) |
 | Thu, 29 Jan 2026 18:55:46 GMT | Day 5: Layer 3 Fundamentals | Siddhesh Patil | [Read More](https://medium.com/p/78c3f6bcd6e0) |
 | Thu, 29 Jan 2026 18:52:42 GMT | Approaching stealers devs: a brief interview with MioLab (NovaStealer) | g0njxa | [Read More](https://medium.com/p/35589d651ffd) |
 | Thu, 29 Jan 2026 18:47:32 GMT | The Antivirus Trap: Why Your Protection Is Just an Illusion | Cordula Boeck | [Read More](https://medium.com/p/5a2007e0b6a0) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 Jan 2026 13:46:50 GMT | Cybersecurity Maturity Models Have Failed Us. It Is Time to Admit It. | Michael Leigh | [Read More](https://medium.com/p/f3c74c4b5070) |
 | Thu, 29 Jan 2026 13:45:39 GMT | Breaking the Gate: How We Bypassed Email Verification on a Major Platform | LETCHU PKT | [Read More](https://medium.com/p/e1a66a432b64) |
 | Thu, 29 Jan 2026 13:43:25 GMT | ✅ Organized SOC / Cybersecurity Tools Library | M Kumar | [Read More](https://medium.com/p/c88d29ac42c9) |
-| Thu, 29 Jan 2026 13:40:31 GMT | Hunting RDP Brute Force with Zeek and Splunk — 1 | Manish [pikachu] | [Read More](https://medium.com/p/c6a12ea72ada) |
-| Thu, 29 Jan 2026 13:38:48 GMT | Don’t wait for the Hack: Why Cyber Risk Management is Your Business’s Only Survival Gear | Xaltius | [Read More](https://medium.com/p/079b9b08c87b) |
-| Thu, 29 Jan 2026 13:37:03 GMT | Protect Your Student’s Data with Plutosec Data Shield! | Plutosec Cyber Security | [Read More](https://medium.com/p/12f7c8de33c7) |
-| Thu, 29 Jan 2026 13:36:01 GMT | How to Save Your Marriage When Your Wife Wants a Divorce | Misass | [Read More](https://medium.com/p/6e1794878e83) |
-| Thu, 29 Jan 2026 13:33:20 GMT | API Security: PCI DSS Compliance | Prettycybergirl | [Read More](https://medium.com/p/0fbf63f81bcd) |
-| Thu, 29 Jan 2026 13:31:01 GMT | The $47,000 Link: How One Click Cost Everything (And How to Never Be That Victim) | Trignoweb Solution Pvt. Ltd. | [Read More](https://medium.com/p/b9363d2490a5) |
-| Thu, 29 Jan 2026 13:30:44 GMT | Securing API Servers: What CORS, Headers, and Error Messages Reveal About API Security | Odunlade Adeola | [Read More](https://medium.com/p/b64d93ba6ff2) |
-| Thu, 29 Jan 2026 13:19:04 GMT | Account Takeover via Weak Password Reset Token Validation | Aswin Thambi Panikulangara | [Read More](https://medium.com/p/91df56296f07) |
-| Thu, 29 Jan 2026 13:18:04 GMT | SAML vs OAuth vs OpenID Connect (OIDC) | Ashwini Puranik | [Read More](https://medium.com/p/5788588436dd) |
-| Thu, 29 Jan 2026 12:57:19 GMT | How SSRF Becomes Cloud Account Compromise (From a Red Team View) | Krutik Thakar — Secure Developer - VAPT Associate | [Read More](https://medium.com/p/06beafe7893c) |
-| Thu, 29 Jan 2026 12:53:30 GMT | YARA - YET ANOTHER RIDICULOUS ACRONYM | Vishnu Shivalal P | [Read More](https://medium.com/p/33e532b68d42) |
-| Thu, 29 Jan 2026 12:50:04 GMT | Make Your Homelab AI Agent Ready | Wade Woolwine | [Read More](https://medium.com/p/b80247628660) |
