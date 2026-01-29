@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 Jan 2026 04:13:37 GMT | Stop believing the myth that “more data is better”! | Terry Chang | [Read More](https://medium.com/p/362957342f0b) |
+| Thu, 29 Jan 2026 04:00:02 GMT | Discovering Hidden Web Directories Using DIRB | Cybeague Technologies | [Read More](https://medium.com/p/b27330681c95) |
+| Thu, 29 Jan 2026 03:59:52 GMT | Active Directory Setup in VirtualBox — Part 1: Windows Server 2019 | DeshmukhVinit | [Read More](https://medium.com/p/7c82b5987f6f) |
+| Thu, 29 Jan 2026 03:59:23 GMT | Maelstrom | noirism | [Read More](https://medium.com/p/4f80aa9adf0c) |
+| Thu, 29 Jan 2026 03:59:11 GMT | Detecting Web Application Firewalls Using WAFW00F | Cybeague Technologies | [Read More](https://medium.com/p/98b494992998) |
+| Thu, 29 Jan 2026 03:57:42 GMT | 別再迷信「數據越多越好」！ | Terry Chang | [Read More](https://medium.com/p/315534b599a6) |
+| Thu, 29 Jan 2026 03:52:36 GMT | Möbius Method Specification: An Invariance-First Framework Beyond Binary Computation | Supat Charoensappuech | [Read More](https://medium.com/p/95fbd2849d05) |
+| Thu, 29 Jan 2026 03:44:57 GMT | Your Web Application Firewall Cannot Protect Your AI: Enter the GAF | Savneet Singh | [Read More](https://medium.com/p/1da55382e403) |
+| Thu, 29 Jan 2026 03:31:15 GMT | Your AI Sidebar Might Be Spying on You: The 900,000-User Trap | Manubhav Sharma | [Read More](https://medium.com/p/bee5f3df41e8) |
+| Thu, 29 Jan 2026 03:31:02 GMT | Top 10 Practices for Node.js Anti-Corruption Layers | Arunangshu Das | [Read More](https://medium.com/p/facaa0855ced) |
+| Thu, 29 Jan 2026 03:31:02 GMT | Hiding in Plain Sight: Inside the Gopher Strike and Sheet Attack Campaigns | Deven Chhajed | [Read More](https://medium.com/p/cb9fc6e8bcf0) |
+| Thu, 29 Jan 2026 03:30:31 GMT | Finding Hidden Web Directories with Dirbuster | Pushpak Sharma | [Read More](https://medium.com/p/31e0af9cbd27) |
+| Thu, 29 Jan 2026 03:27:52 GMT | Pishing analysis - Blue Team Labs | Nicksondiazm | [Read More](https://medium.com/p/33728766dfec) |
+| Thu, 29 Jan 2026 03:00:49 GMT | The Browser Is the API | @dl4senses | [Read More](https://medium.com/p/7c5b8fc04550) |
+| Thu, 29 Jan 2026 02:54:09 GMT | CORS Vulnerability Explained: How Misconfigured CORS Can Lead to Data Theft | Shayaan Khan | [Read More](https://medium.com/p/18b24329791c) |
+| Thu, 29 Jan 2026 02:44:35 GMT | Data Privacy Day: Why SMS 2FA Is Failing You (And The Hardware Fix You Need) | Paul Jacky | [Read More](https://medium.com/p/8b4c13724578) |
 | Thu, 29 Jan 2026 01:58:09 GMT | A Developer’s Guide to Protect Their Product from Supply Chain Attacks in 2026 | Cyberbali | [Read More](https://medium.com/p/9696b73f52e9) |
 | Thu, 29 Jan 2026 01:51:19 GMT | Siber Güvenliğe Giriş: Yanlış Bilinenlerle Birlikte | isaergisi | [Read More](https://medium.com/p/70b317c324bc) |
 | Thu, 29 Jan 2026 01:49:58 GMT | New Concepts Redefining Cyber GRC in 2026 | ThreatLens byGurdeep | [Read More](https://medium.com/p/580b68eb7875) |
@@ -96,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 Jan 2026 17:41:51 GMT | HTB Academy — File Upload Attacks: Skills Assessment | BotsiCat | [Read More](https://medium.com/p/29ca00fd14c2) |
 | Wed, 28 Jan 2026 17:40:57 GMT | Retour d’expérience sur la HTB CWES | 0110m4n | [Read More](https://medium.com/p/1c23377a33f0) |
 | Wed, 28 Jan 2026 17:39:08 GMT | Emergency Locksmith Service You Can Trust Across London | The Lock Specialist Ltd | [Read More](https://medium.com/p/6454d1371be0) |
-| Wed, 28 Jan 2026 17:28:34 GMT | SSRF via Content-Type in Apache — Auditor - FahemSec | Abdelrahman Radwan | [Read More](https://medium.com/p/16c9b1ac0d4a) |
-| Wed, 28 Jan 2026 17:25:08 GMT | picoCTF : Input Injection 2 ( Binary Exploitation ) | Yasin Arafat Tanim | [Read More](https://medium.com/p/58da8b9ea8ab) |
-| Wed, 28 Jan 2026 17:21:36 GMT | Top 3 Smart Contract Auditors in 2026: How to compare providers and pick the right model | Sherlock | [Read More](https://medium.com/p/11b19c40b0a6) |
-| Wed, 28 Jan 2026 17:17:23 GMT | Feature-Rich, Judgment-Poor: When Capability Stops Being the Scarcity | David Park | [Read More](https://medium.com/p/fad396841eea) |
-| Wed, 28 Jan 2026 17:15:10 GMT | Penligent AI for Bug Bounty Hunters: Windows Installation & Ethical Hacking Use Cases | Captain Rogers | [Read More](https://medium.com/p/9c58a5c5ac94) |
-| Wed, 28 Jan 2026 17:12:45 GMT | Password Security: The First Line of Defense You’re Probably Underrating | Amandogra | [Read More](https://medium.com/p/b65dd8b05904) |
-| Wed, 28 Jan 2026 17:11:51 GMT | Fixing a glob Vulnerability Without Breaking the Build | paulos haylu | [Read More](https://medium.com/p/52e473d2230f) |
-| Wed, 28 Jan 2026 17:07:35 GMT | Reimagining ICTs Governance in a Multipolar Age | Piera Celis | [Read More](https://medium.com/p/d5d51340c7e3) |
-| Wed, 28 Jan 2026 17:03:53 GMT | Why Lookalike Domains Still Work and How ZoneFeeds Stop Them Early | Eman Khalid | [Read More](https://medium.com/p/fc39fd228f6f) |
-| Wed, 28 Jan 2026 16:57:27 GMT | Secuvia: Why We’re Building This (And Why It Matters) | Purushotham.R | [Read More](https://medium.com/p/27e95f9c2186) |
-| Wed, 28 Jan 2026 16:56:14 GMT | Multimedia and Animation in Nova Scotia: A Creative Renaissance by Digistar
-Nova Scotia has… | Digistarai | [Read More](https://medium.com/p/241f88c7e435) |
-| Wed, 28 Jan 2026 16:53:55 GMT | I was never meant to stay | maze of thought | [Read More](https://medium.com/p/8371176502d5) |
-| Wed, 28 Jan 2026 16:45:41 GMT | Mobil Bankacılıkta Güvenlik: Görünmeyen Bir Zırhın İçinde | Esin Ünlü Dağ | [Read More](https://medium.com/p/ae0e8bba11e8) |
-| Wed, 28 Jan 2026 16:40:03 GMT | Identity-First Security: The New Cyber Perimeter | Digital Defense | [Read More](https://medium.com/p/6a26f03f162e) |
-| Wed, 28 Jan 2026 16:30:09 GMT | Wazuh Vulnerability Enrichment EPSS + CISA KEV | Hanif K A | [Read More](https://medium.com/p/a989474877ad) |
-| Wed, 28 Jan 2026 16:29:00 GMT | Types of CCTV Cameras for Home and Business Use | Alex Bryn | [Read More](https://medium.com/p/861c6db1367c) |
