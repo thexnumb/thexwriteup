@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 Jan 2026 22:23:53 GMT | My journey into the cyber rabbit hole… | Bobbie A Deild | [Read More](https://medium.com/p/703c56d10ce9) |
+| Thu, 29 Jan 2026 22:10:40 GMT | QueueUserAPC2 Process Injection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/f57473dfe251) |
+| Thu, 29 Jan 2026 22:04:42 GMT | Directory Traversal Filter Bypass | Niko | [Read More](https://medium.com/p/42bca54c5a2a) |
+| Thu, 29 Jan 2026 21:51:34 GMT | Why Traditional AI Fails at Fraud Detection, and How Cost-Aware Optimization Is Changing FinTech | Maroof Ashraf | [Read More](https://medium.com/p/10e97620f7d1) |
 | Thu, 29 Jan 2026 21:39:49 GMT | PASTE4D | Wu kong | [Read More](https://medium.com/p/9fd35ebb611d) |
 | Thu, 29 Jan 2026 21:37:20 GMT | When “I’m Fine” Is the Safest Answer | David egah | [Read More](https://medium.com/p/c16cbc522997) |
 | Thu, 29 Jan 2026 21:36:15 GMT | Wordfence Intelligence Weekly WordPress Vulnerability Report (January 19, 2026 to January 25, 2026) | Wordfence | [Read More](https://medium.com/p/a288c0528af7) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 Jan 2026 15:50:36 GMT | A Succession of Droplets About You | Ydstiraaa | [Read More](https://medium.com/p/21ee3dd15fdd) |
 | Thu, 29 Jan 2026 15:46:01 GMT | The Next AI Security Frontier: “Agents With Hands” Are Becoming a Board-Level Risk | Wes Young | [Read More](https://medium.com/p/50308cf4f077) |
 | Thu, 29 Jan 2026 15:45:33 GMT | Reversing Android Malware: Joker | smarttfoxx | [Read More](https://medium.com/p/643db5168ce0) |
-| Thu, 29 Jan 2026 15:43:02 GMT | Top Skills Required to Become an Ethical Hacker in 2026 | Anaynams | [Read More](https://medium.com/p/43aa2460c5b6) |
-| Thu, 29 Jan 2026 15:39:26 GMT | Introduction to Hacking, Virtual Machines, Linux, and Networking | Ayshaknavas | [Read More](https://medium.com/p/bf95c0a1ae92) |
-| Thu, 29 Jan 2026 15:38:44 GMT | How We Hold What Matters. | Jennifer Clark | [Read More](https://medium.com/p/07a5e960a184) |
-| Thu, 29 Jan 2026 15:35:46 GMT | Implementing Role-Based Access Control (RBAC) in Kubernetes | Engineer Palsu | [Read More](https://medium.com/p/41349d802ccc) |
