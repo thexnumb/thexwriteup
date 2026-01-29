@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 Jan 2026 21:07:45 GMT | Credential Security in React Native — OWASP Mobile Top 10 (M1) | Barış Kandemir | [Read More](https://medium.com/p/5da9cb7666dd) |
+| Thu, 29 Jan 2026 21:07:23 GMT | How to Build a Comprehensive Security Strategy: Physical and Cyber Defense for 2026 | Fortnexs Shield | [Read More](https://medium.com/p/403b61b967d3) |
+| Thu, 29 Jan 2026 20:48:33 GMT | SOC163 — Suspicious Certutil.exe Usage - LestDefend | Nicksondiazm | [Read More](https://medium.com/p/4578d5d4ecee) |
+| Thu, 29 Jan 2026 20:44:08 GMT | When Safety Systems Become Attack Paths | Muhammad Ali Khan | [Read More](https://medium.com/p/85a11f46b392) |
+| Thu, 29 Jan 2026 20:41:01 GMT | The IDOR’ventures & Why I Love Hackerone — A Different Kind Of $33,500 Bounty | Justas_b_2 | [Read More](https://medium.com/p/a48665a7b900) |
+| Thu, 29 Jan 2026 20:36:50 GMT | HackThisSite — Basic Level 2 — No Password File | Javier | [Read More](https://medium.com/p/c63f84dedd64) |
+| Thu, 29 Jan 2026 20:36:49 GMT | Insecure Design Nedir? | Zekikayaalp | [Read More](https://medium.com/p/6209f9a8538f) |
+| Thu, 29 Jan 2026 20:36:05 GMT | TryHackMe — Brooklyn Nine Nine Write-up | Lucas de Souza Lima | [Read More](https://medium.com/p/87120d40777e) |
+| Thu, 29 Jan 2026 20:35:06 GMT | You’re invited to join me next week for a free live session: The Psychology of Passwords | Karl Buhl | [Read More](https://medium.com/p/3d006777eecd) |
+| Thu, 29 Jan 2026 20:32:22 GMT | Overpass — TryHackMe Writeup / WalkThrough | sudo_0xksh | [Read More](https://medium.com/p/f41c1013af00) |
+| Thu, 29 Jan 2026 20:31:05 GMT | OhSINT TryHackMe Writeup / Walkthrough | sudo_0xksh | [Read More](https://medium.com/p/64deb30b4fda) |
 | Thu, 29 Jan 2026 20:22:30 GMT | Google’s Fast Pair Vulnerability: How WhisperPair Lets Hackers Hijack Bluetooth Devices | Abhinav Yadav | [Read More](https://medium.com/p/4ebb7395ab9d) |
 | Thu, 29 Jan 2026 20:13:26 GMT | How to Block Spam SMS and Scam Calls in 2026: A Complete Guide to Reclaiming Your Privacy | Huseyin Sari | [Read More](https://medium.com/p/508597c01541) |
 | Thu, 29 Jan 2026 20:11:54 GMT | OWASP Top 10–2025 | Gokhan Can | [Read More](https://medium.com/p/2a99aa11ae31) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 Jan 2026 15:22:59 GMT | Building a Vulnerable GCP Pentest Lab with Terraform | Andrey Pautov | [Read More](https://medium.com/p/9d1edfcd8eff) |
 | Thu, 29 Jan 2026 15:22:54 GMT | Cybersecurity Theater- How to Tell If Your MSP Is Actually Protecting You | ManagedIT_Expert | [Read More](https://medium.com/p/711599c5125a) |
 | Thu, 29 Jan 2026 15:21:35 GMT | An Ex, A Platform, And Zero Emotional Preparation. | Sonali M | [Read More](https://medium.com/p/e2762dd24863) |
-| Thu, 29 Jan 2026 15:19:28 GMT | QUIC in the Real World: Challenges for SSE Systems | Golden Girl Geeks | [Read More](https://medium.com/p/c631af4de4bf) |
-| Thu, 29 Jan 2026 15:13:53 GMT | Automakers Know Where You’ve Been And Why It Matters for Drivers and Businesses | BiyteLüm | [Read More](https://medium.com/p/599bb268ad36) |
-| Thu, 29 Jan 2026 15:10:41 GMT | WhatsApp’s New Security Protections: What They Mean for Businesses in 2026 | IT_Engineer | [Read More](https://medium.com/p/a6325ac73e46) |
-| Thu, 29 Jan 2026 15:09:47 GMT | When Photos Leak More Than Pixels: A Security Awareness Guide to Image Metadata | Subhash Pathak | [Read More](https://medium.com/p/15e3448e4097) |
-| Thu, 29 Jan 2026 15:01:06 GMT | Praise in Polite Clothing | Dominique Striekwold | [Read More](https://medium.com/p/ac7584769431) |
-| Thu, 29 Jan 2026 14:58:16 GMT | Security Made Simple: Threat Modeling, Risk, Vulnerabilities, and Privacy Explained | Nitish Gupta | [Read More](https://medium.com/p/4f1f49dde859) |
-| Thu, 29 Jan 2026 14:53:06 GMT | SOC or VAPT? The Career Confusion Every Cybersecurity Beginner | Ankit rai | [Read More](https://medium.com/p/13b2954c3967) |
-| Thu, 29 Jan 2026 14:46:37 GMT | lessons from the Field: Thinking Like a Real Red Team Operator | X7r3M9 | [Read More](https://medium.com/p/e7bd8aaa700d) |
-| Thu, 29 Jan 2026 14:41:09 GMT | From One Mutation to a Full Service Outage: A GraphQL DoS Story | Kayra Öksüz | [Read More](https://medium.com/p/71c1f3c76ea9) |
-| Thu, 29 Jan 2026 14:36:02 GMT | [EP.1] Learn from the Box — Lame (HTB) | Pattharadanai Sanitjairak | [Read More](https://medium.com/p/cd3c4069a202) |
-| Thu, 29 Jan 2026 14:19:13 GMT | Breaking a Hardened Active Directory: From Zero Access to Domain Dominance | Tyreek Haynes | [Read More](https://medium.com/p/6e8e3e523e83) |
