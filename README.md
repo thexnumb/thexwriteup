@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 Jan 2026 08:53:54 GMT | Rent Please Landlord Sim Mod APK | Game4u | [Read More](https://medium.com/p/9b01692078d5) |
+| Thu, 29 Jan 2026 08:51:01 GMT | AP automation & cybersecurity safeguards for sensitive financial data | Medius | [Read More](https://medium.com/p/63a1b3e2dcbe) |
+| Thu, 29 Jan 2026 08:47:29 GMT | ประจำวันพฤหัสบดีที่ 29 มกราคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/52688c1bd226) |
+| Thu, 29 Jan 2026 08:43:58 GMT | Implementasi Wazuh 4.14 pada Ubuntu 22.04 LTS: Installation & Initial Configuration | Neverland Studio | [Read More](https://medium.com/p/55894e21313f) |
+| Thu, 29 Jan 2026 08:40:25 GMT | Summertime Saga | genzvnmod | [Read More](https://medium.com/p/feb0709aca5a) |
+| Thu, 29 Jan 2026 08:34:21 GMT | What If Downing Street’s Phones Were Never Compromised? | Gautam Mengle | [Read More](https://medium.com/p/7c6b9819dda4) |
+| Thu, 29 Jan 2026 08:32:56 GMT | IDOR: The Easiest High-Severity Bug Most Hunters Still Miss | Vivek PS | [Read More](https://medium.com/p/c7e2096eca6e) |
+| Thu, 29 Jan 2026 08:31:16 GMT | Average Income by Age in 2026 — Check Your Age and Where You Stand | Vijay Kumar Gupta | [Read More](https://medium.com/p/510f26098533) |
+| Thu, 29 Jan 2026 08:29:49 GMT | Digital Shield Deeply Participates in “Linking Ecosystems · Insightful New Horizons” Web3 Exchange… | Digital Shield | [Read More](https://medium.com/p/75d84d494ddf) |
+| Thu, 29 Jan 2026 08:28:22 GMT | CAPTCHA in the Age of Smarter Bots | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/5f9d2ab54084) |
+| Thu, 29 Jan 2026 08:27:54 GMT | What Smart Website Owners Choose When Budgets Are Tight? | Mary Thomas | [Read More](https://medium.com/p/6db5a83c6929) |
+| Thu, 29 Jan 2026 08:26:01 GMT | Lesson 4: Firewalls — Understanding Decisions in Network Security | Cyberspace Bulletin | [Read More](https://medium.com/p/13169b6c9699) |
+| Thu, 29 Jan 2026 08:22:41 GMT | Beyond the Password: How 2FA Saves Crypto Portfolios | BountyPortals Official Blog | [Read More](https://medium.com/p/68e2814a6055) |
+| Thu, 29 Jan 2026 08:18:44 GMT | Digital Shield Deeply Participates in “Linking Ecosystems · Insightful New Horizons” Web3 Exchange… | Digital Shield Offcial | [Read More](https://medium.com/p/e119ede483f4) |
+| Thu, 29 Jan 2026 08:09:53 GMT | Chrome 143 Security Flaw Puts 3 Billion Users in the Crosshairs | Muneeb | [Read More](https://medium.com/p/5cb0ee8c23f3) |
 | Thu, 29 Jan 2026 07:53:14 GMT | How to Implement Certified Risk Information Systems Control | yafiya | [Read More](https://medium.com/p/97bcc0fb5a97) |
+| Thu, 29 Jan 2026 07:52:13 GMT | API Security Best Practices: Hidden Risks Most Teams Ignore | Majidbasharat | [Read More](https://medium.com/p/234fa023ae18) |
 | Thu, 29 Jan 2026 07:51:31 GMT | Stay Ahead of Innovation - Explore The Latest In Technology | DP-Vids | [Read More](https://medium.com/p/2f8ea176f337) |
 | Thu, 29 Jan 2026 07:49:01 GMT | Tesla Kills the Model S, Google Cracks the DNA Code, and Android Comes to PC - The Daily Tech… | Souren Stepanyan | [Read More](https://medium.com/p/c7c9532af9df) |
 | Thu, 29 Jan 2026 07:46:52 GMT | Enhance Email Security: AtomEmailPro vs. Gmail MFA Hacking | Ichsanneng | [Read More](https://medium.com/p/43c206664f84) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 28 Jan 2026 22:11:42 GMT | 3 Patterns for Kubernetes TLS: Why I Settled on NLB Passthrough and cert-manager | Ukatane Isaac | [Read More](https://medium.com/p/78931b2d5271) |
 | Wed, 28 Jan 2026 22:11:02 GMT | Why Security Breaches Hurt More in Healthcare | Mohsin Khan | [Read More](https://medium.com/p/677eafdb0ce3) |
 | Wed, 28 Jan 2026 22:00:29 GMT | Thinking about the Sec+? | Aaronashley | [Read More](https://medium.com/p/795e10e1196d) |
-| Wed, 28 Jan 2026 21:47:53 GMT | Why WebRDP Matters for AI-Enabled Developer Workspaces | Mammoth Cyber | [Read More](https://medium.com/p/707cf1d7c70d) |
-| Wed, 28 Jan 2026 21:46:50 GMT | How a Single BEC Phishing Email led to an Account Compromise | Prince Johnrhoe Nocos | [Read More](https://medium.com/p/b81d51b5fac4) |
-| Wed, 28 Jan 2026 21:41:01 GMT | TryHackMe Walkthrough — Authentication Bypass via Client-Side Validation | Lucas de Souza Lima | [Read More](https://medium.com/p/323fb240c6e3) |
-| Wed, 28 Jan 2026 21:21:42 GMT | Internet Safety & Financial Awareness: Best Practices for Protecting Yourself Online | Fortress Protocol | [Read More](https://medium.com/p/1817e7b7f0c4) |
-| Wed, 28 Jan 2026 21:16:29 GMT | The Cybersecurity Mistakes Everyone Makes (And How to Actually Fix Them) | Abdelaziz moustakim | [Read More](https://medium.com/p/e7b3a6c09d3a) |
-| Wed, 28 Jan 2026 21:09:14 GMT | HackThisSite — Basic Level 1 — Hardcoded Password Vulnerability | Javier | [Read More](https://medium.com/p/7d478bc6ccb3) |
-| Wed, 28 Jan 2026 21:07:18 GMT | We Share More Than We Realize | Azeezah | [Read More](https://medium.com/p/a3e72312d25a) |
-| Wed, 28 Jan 2026 21:03:04 GMT | 2026 Siber Saldırıları-1 | Zekikayaalp | [Read More](https://medium.com/p/a414dcdcb03b) |
-| Wed, 28 Jan 2026 20:52:23 GMT | Security and Performance Aspects of Kernel Module Development | Linux Guide | [Read More](https://medium.com/p/484e8d621727) |
-| Wed, 28 Jan 2026 20:49:07 GMT | ELK Stack: Veri İşleme ve Elasticsearch Dünyasına Giriş(TryHackMe-Logstash: Data Processing Unit… | Ahmet Hakan Öztürk | [Read More](https://medium.com/p/dd938421ce7a) |
-| Wed, 28 Jan 2026 20:44:37 GMT | Year of the Fox — TryHackMe Walkthrough | Md Fahim Al Shihab | [Read More](https://medium.com/p/146836333a59) |
-| Wed, 28 Jan 2026 20:42:48 GMT | HIPAA 2026 & HITECH-Driven Accountability for the Proposed Security Rule Reset | Valdez Ladd | [Read More](https://medium.com/p/03edc8f16d92) |
-| Wed, 28 Jan 2026 20:38:23 GMT | The secrets to Dump Pin Carding in 2026 Exposed | CVV Market CC | [Read More](https://medium.com/p/b465a6e75aff) |
-| Wed, 28 Jan 2026 20:36:08 GMT | Business Security Solutions 2026: Integrated Physical & Cyber Protection Systems | Fortnexs Shield | [Read More](https://medium.com/p/7affb13809e7) |
-| Wed, 28 Jan 2026 20:35:41 GMT | BOPLA: When APIs Expose More Than They Should | Emmanuelnnebedum | [Read More](https://medium.com/p/583a4135b1ba) |
-| Wed, 28 Jan 2026 20:26:01 GMT | Scalable Security: Why Your HIPAA Strategy Should Grow With You | Medcurity | [Read More](https://medium.com/p/f29b0364b3b2) |
