@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 Jan 2026 10:49:04 GMT | Union Budget 2026 Expectations for Investors | digital Aditya | [Read More](https://medium.com/p/be0e46772631) |
+| Thu, 29 Jan 2026 10:46:01 GMT | A local environment for DependencyTrack with Docker Compose | Christophe Vaudry | [Read More](https://medium.com/p/f59181ca1ce7) |
+| Thu, 29 Jan 2026 10:36:58 GMT | Behind the Scenes of a Lean Hosting Business That Actually Works | Janet Watson | [Read More](https://medium.com/p/d2574636998a) |
+| Thu, 29 Jan 2026 10:34:45 GMT | Top 20 Machine Learning Interview Questions for Freshers | cyber security Updates | [Read More](https://medium.com/p/c74afe464468) |
+| Thu, 29 Jan 2026 10:30:53 GMT | Guardians of the Sultanate: The Top 10 Cybersecurity Titans in Oman for 2026 | Abdullah Al Harthy | [Read More](https://medium.com/p/10ac8c5e3fa0) |
+| Thu, 29 Jan 2026 10:30:45 GMT | 5 Hidden WhatsApp Features Most People Still Don’t Know | creative vision | [Read More](https://medium.com/p/eecb52cb0552) |
+| Thu, 29 Jan 2026 10:30:17 GMT | Learn Ethical Hacking Using BlackArch Linux: A Complete Roadmap | TechLatest.Net | [Read More](https://medium.com/p/5cbec7c0d0fc) |
+| Thu, 29 Jan 2026 10:29:38 GMT | HB 140 Standard Barrier in Saudi Arabia A Strategic Security Solution for 2024_2025 | Hitech Barrier | [Read More](https://medium.com/p/f825b1f8003e) |
+| Thu, 29 Jan 2026 10:25:25 GMT | “Backdooring with Netcat: Understanding Bind Shell and Reverse Shell in System and Network… | Habibi | [Read More](https://medium.com/p/a1ee87bbead9) |
+| Thu, 29 Jan 2026 10:22:03 GMT | TryHackMe: Daily Bugle | Root_Fabric | [Read More](https://medium.com/p/801907361db1) |
+| Thu, 29 Jan 2026 10:21:07 GMT | 9 Powerful Starter DFIR Toolkit Steps for 2026 | Pentest_Testing_Corp | [Read More](https://medium.com/p/3c73e4bb55e4) |
+| Thu, 29 Jan 2026 10:13:29 GMT | I found a malicious VS Code extension impersonating Moltbot and it’s installing RATs on developers’… | Harsh Raj Singhania | [Read More](https://medium.com/p/33abed36c4cc) |
+| Thu, 29 Jan 2026 10:04:51 GMT | Why Modern Websites Don’t Need Expensive Servers to Perform? | Andy | [Read More](https://medium.com/p/b23c15cd8b4e) |
+| Thu, 29 Jan 2026 10:04:26 GMT | Why BlackArch Linux Is Still the Most Powerful Pentesting OS in 2026 | TechLatest.Net | [Read More](https://medium.com/p/4cbf13d1323b) |
+| Thu, 29 Jan 2026 10:02:30 GMT | How to Avoid Bridge Scams: Use OneClickSender instead | One Click Sender | [Read More](https://medium.com/p/cdf6bfa4704e) |
 | Thu, 29 Jan 2026 09:48:39 GMT | CloudGoat Scenario Series: Vulnerable Lambda | Aditya | [Read More](https://medium.com/p/927965cfbfad) |
 | Thu, 29 Jan 2026 09:47:47 GMT | XBow and the “AI Takeover”: Why You Can Put Down the Goat Farming Manual | Shubham Khanna | [Read More](https://medium.com/p/0bdcb00b2c90) |
 | Thu, 29 Jan 2026 09:37:10 GMT | Correlating File Integrity Events with SSH and RDP Sessions in Wazuh | Piyush Ramani | [Read More](https://medium.com/p/83f3f32aacd2) |
@@ -58,6 +73,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 Jan 2026 06:32:32 GMT | Beyond the Bug: Exploring OWASP Top 10 (2025) Design Flaws | pwnedByJT | [Read More](https://medium.com/p/06bfebc9e7b1) |
 | Thu, 29 Jan 2026 06:27:33 GMT | Deep Dive into Modern Security: From Encryption to Ethical Hacking | Sanya Sachdeva | [Read More](https://medium.com/p/7e7b0dc7078a) |
 | Thu, 29 Jan 2026 06:20:18 GMT | Hack Block Blast | Apkpuredev | [Read More](https://medium.com/p/119e0a187fc5) |
+| Thu, 29 Jan 2026 06:14:20 GMT | Untrained Security Can Cost You More Than Money — Here’s Why | Devisreebaskaran | [Read More](https://medium.com/p/934dfc2224c0) |
 | Thu, 29 Jan 2026 06:12:42 GMT | How Documentation Becomes Recon | Fateyaly | [Read More](https://medium.com/p/012f53711ab8) |
 | Thu, 29 Jan 2026 06:11:05 GMT | Stop Trusting connectivity_plus: The Offline-First Trap That Breaks Production Apps | Simra Husain | [Read More](https://medium.com/p/2f8cfcb1a6e5) |
 | Thu, 29 Jan 2026 06:10:15 GMT | 10 Common Security Vulnerabilities in Modern Web Applications | Mubashir | [Read More](https://medium.com/p/61b06260e35b) |
@@ -67,9 +83,11 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 Jan 2026 05:34:46 GMT | Importance of Professional Security Services in India | Tanisha Singh | [Read More](https://medium.com/p/103acfdc815b) |
 | Thu, 29 Jan 2026 05:32:14 GMT | 那 42 萬個被出賣的幣安帳號，成了我對 CeFi 最後的告別式 | Crypt0Sophie | [Read More](https://medium.com/p/6c9c747fd3d3) |
 | Thu, 29 Jan 2026 05:25:38 GMT | The Hidden Risk of “Safe” Android Permissions Nobody Audits | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/afca965dba29) |
+| Thu, 29 Jan 2026 05:18:11 GMT | Are We Sharing Too Much Online? | Mark L. Hill | [Read More](https://medium.com/p/ef143aefe8b9) |
 | Thu, 29 Jan 2026 05:16:01 GMT | Constantly Curious: Watching the Watchers | OSINT Amy | [Read More](https://medium.com/p/335d9b3cec24) |
 | Thu, 29 Jan 2026 05:15:52 GMT | Lesson learned: keep your phone number validation up to date | Ye Lin Aung | [Read More](https://medium.com/p/5b27bf157cb5) |
 | Thu, 29 Jan 2026 05:08:52 GMT | Zero Trust Architecture: A Necessity in Cybersecurity | Exito | [Read More](https://medium.com/p/ee7f69fe1c7d) |
+| Thu, 29 Jan 2026 05:07:51 GMT | Moltbot: The AI Assistant That Could Transform Work or Put Your Data at Risk | Genie InfoTech | [Read More](https://medium.com/p/1c65efed5657) |
 | Thu, 29 Jan 2026 05:02:34 GMT | Your ‘smart’ Clawdbot assistant might already be an entry point for attackers to read messages… | Vikrambalauae Aj | [Read More](https://medium.com/p/e03df2e3b64e) |
 | Thu, 29 Jan 2026 05:02:03 GMT | Sophiax — Detección de Intención: el fin de los ataques Evil Twin y el Ransomware mediante… | Berna González Harbour | [Read More](https://medium.com/p/5385c4368f5f) |
 | Thu, 29 Jan 2026 04:56:09 GMT | When Your AI Assistant is Too Helpful: The Gemini Prompt Injection Explained. | Krishna M S | [Read More](https://medium.com/p/cd88d86e4972) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 Jan 2026 03:31:02 GMT | Hiding in Plain Sight: Inside the Gopher Strike and Sheet Attack Campaigns | Deven Chhajed | [Read More](https://medium.com/p/cb9fc6e8bcf0) |
 | Thu, 29 Jan 2026 03:30:31 GMT | Finding Hidden Web Directories with Dirbuster | Pushpak Sharma | [Read More](https://medium.com/p/31e0af9cbd27) |
 | Thu, 29 Jan 2026 03:27:52 GMT | Pishing analysis - Blue Team Labs | Nicksondiazm | [Read More](https://medium.com/p/33728766dfec) |
-| Thu, 29 Jan 2026 03:00:49 GMT | The Browser Is the API | @dl4senses | [Read More](https://medium.com/p/7c5b8fc04550) |
-| Thu, 29 Jan 2026 02:54:09 GMT | CORS Vulnerability Explained: How Misconfigured CORS Can Lead to Data Theft | Shayaan Khan | [Read More](https://medium.com/p/18b24329791c) |
-| Thu, 29 Jan 2026 02:44:35 GMT | Data Privacy Day: Why SMS 2FA Is Failing You (And The Hardware Fix You Need) | Paul Jacky | [Read More](https://medium.com/p/8b4c13724578) |
-| Thu, 29 Jan 2026 01:58:09 GMT | A Developer’s Guide to Protect Their Product from Supply Chain Attacks in 2026 | Cyberbali | [Read More](https://medium.com/p/9696b73f52e9) |
-| Thu, 29 Jan 2026 01:51:19 GMT | Siber Güvenliğe Giriş: Yanlış Bilinenlerle Birlikte | isaergisi | [Read More](https://medium.com/p/70b317c324bc) |
-| Thu, 29 Jan 2026 01:49:58 GMT | New Concepts Redefining Cyber GRC in 2026 | ThreatLens byGurdeep | [Read More](https://medium.com/p/580b68eb7875) |
-| Thu, 29 Jan 2026 01:48:01 GMT | Pentester Lab Recon_10 Visual Reconnaissance | Unborn Motion | [Read More](https://medium.com/p/a49919ee5fd3) |
-| Thu, 29 Jan 2026 01:40:18 GMT | Why BTL1 is Different.. | Jacob Ferguson | [Read More](https://medium.com/p/951970588309) |
-| Thu, 29 Jan 2026 01:34:20 GMT | What API Developers Need to Know About PCI DSS and Financial API Security | Iseoluwa Ogunnaike | [Read More](https://medium.com/p/12b50430b8c0) |
-| Thu, 29 Jan 2026 01:24:54 GMT | WPA3 Explained: Everything You Need to Know About WiFi Security | Raviteja Mureboina | [Read More](https://medium.com/p/d956fc3ee781) |
-| Thu, 29 Jan 2026 01:01:05 GMT | A story about a moth that I might’ve empathized with a bit too much. | syd | [Read More](https://medium.com/p/a6eb83a3d97b) |
-| Thu, 29 Jan 2026 01:01:03 GMT | 3 Actions That Truly Melt a Woman’s Heart in Relationships | EdithTali | [Read More](https://medium.com/p/70d4f7e537b4) |
-| Thu, 29 Jan 2026 01:01:03 GMT | ⭐ Why Financial Security, Not Happiness, Shaped My Grandmother’s Smile | Mr Simpsons | [Read More](https://medium.com/p/4261c792a617) |
-| Thu, 29 Jan 2026 00:40:12 GMT | The Email That Cost Me My Uber Account | Jackson Mills | [Read More](https://medium.com/p/8af6605cb6b2) |
-| Thu, 29 Jan 2026 00:30:50 GMT | Most Frequently Scanned Vulnerable Assets in January 2026 | Criminal IP | [Read More](https://medium.com/p/f5eb5308e66a) |
-| Thu, 29 Jan 2026 00:07:15 GMT | SC-85 Changes the Rules for DNSSEC and Certificate Issuance | Dr. Enrique Somoza, D.Sc. | [Read More](https://medium.com/p/314e661089e6) |
-| Thu, 29 Jan 2026 00:03:14 GMT | Menjelajahi Stack Server Bersama Coding Ceria X Penjelajah CyberSecurity | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/1b778aa0858d) |
-| Thu, 29 Jan 2026 00:00:22 GMT | Public Wi-Fi? No Problem. NordVPN Has You Covered | Genelia | [Read More](https://medium.com/p/3766abafe70d) |
