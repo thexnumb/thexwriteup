@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 29 Jan 2026 13:59:44 GMT | Automating Multi-Tenant Wazuh: A Practical Guide | Alexandra Costea | [Read More](https://medium.com/p/a0f8d9b65137) |
+| Thu, 29 Jan 2026 13:58:00 GMT | Configuring Secure Progressive Delivery Pipeline on AWS Part 1 | Keegan Justis | [Read More](https://medium.com/p/a620837f1dc2) |
+| Thu, 29 Jan 2026 13:56:01 GMT | Cybersecurity | Doc Jones | [Read More](https://medium.com/p/80210f7bddcd) |
+| Thu, 29 Jan 2026 13:49:45 GMT | Six-day certificates, real-world operations, and a tiny Docker tool that saves you from surprise… | Ricardo Franco Cantero | [Read More](https://medium.com/p/a2ae2c000a43) |
+| Thu, 29 Jan 2026 13:46:50 GMT | Cybersecurity Maturity Models Have Failed Us. It Is Time to Admit It. | Michael Leigh | [Read More](https://medium.com/p/f3c74c4b5070) |
+| Thu, 29 Jan 2026 13:45:39 GMT | Breaking the Gate: How We Bypassed Email Verification on a Major Platform | LETCHU PKT | [Read More](https://medium.com/p/e1a66a432b64) |
+| Thu, 29 Jan 2026 13:43:25 GMT | ✅ Organized SOC / Cybersecurity Tools Library | M Kumar | [Read More](https://medium.com/p/c88d29ac42c9) |
+| Thu, 29 Jan 2026 13:40:31 GMT | Hunting RDP Brute Force with Zeek and Splunk — 1 | Manish [pikachu] | [Read More](https://medium.com/p/c6a12ea72ada) |
+| Thu, 29 Jan 2026 13:38:48 GMT | Don’t wait for the Hack: Why Cyber Risk Management is Your Business’s Only Survival Gear | Xaltius | [Read More](https://medium.com/p/079b9b08c87b) |
+| Thu, 29 Jan 2026 13:37:03 GMT | Protect Your Student’s Data with Plutosec Data Shield! | Plutosec Cyber Security | [Read More](https://medium.com/p/12f7c8de33c7) |
+| Thu, 29 Jan 2026 13:36:01 GMT | How to Save Your Marriage When Your Wife Wants a Divorce | Misass | [Read More](https://medium.com/p/6e1794878e83) |
+| Thu, 29 Jan 2026 13:33:20 GMT | API Security: PCI DSS Compliance | Prettycybergirl | [Read More](https://medium.com/p/0fbf63f81bcd) |
+| Thu, 29 Jan 2026 13:31:01 GMT | The $47,000 Link: How One Click Cost Everything (And How to Never Be That Victim) | Trignoweb Solution Pvt. Ltd. | [Read More](https://medium.com/p/b9363d2490a5) |
+| Thu, 29 Jan 2026 13:30:44 GMT | Securing API Servers: What CORS, Headers, and Error Messages Reveal About API Security | Odunlade Adeola | [Read More](https://medium.com/p/b64d93ba6ff2) |
+| Thu, 29 Jan 2026 13:19:04 GMT | Account Takeover via Weak Password Reset Token Validation | Aswin Thambi Panikulangara | [Read More](https://medium.com/p/91df56296f07) |
+| Thu, 29 Jan 2026 12:57:19 GMT | How SSRF Becomes Cloud Account Compromise (From a Red Team View) | Krutik Thakar — Secure Developer - VAPT Associate | [Read More](https://medium.com/p/06beafe7893c) |
 | Thu, 29 Jan 2026 12:53:30 GMT | YARA - YET ANOTHER RIDICULOUS ACRONYM | Vishnu Shivalal P | [Read More](https://medium.com/p/33e532b68d42) |
+| Thu, 29 Jan 2026 12:50:04 GMT | Make Your Homelab AI Agent Ready | Wade Woolwine | [Read More](https://medium.com/p/b80247628660) |
 | Thu, 29 Jan 2026 12:45:46 GMT | How a Temporary Invite Led to a Permanent Billing Takeover | Muhammed Mubarak | [Read More](https://medium.com/p/5211d6a5ec09) |
 | Thu, 29 Jan 2026 12:43:30 GMT | Master the CISSP Exam with Realistic Practice Questions — 2026 Prep | John Ray | [Read More](https://medium.com/p/4096069f9641) |
 | Thu, 29 Jan 2026 12:36:18 GMT | Cyber Sphere IoT Hacking Workshop: Router-Level Security Failures | Namanshahnemei | [Read More](https://medium.com/p/616db40bb535) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 Jan 2026 08:09:53 GMT | Chrome 143 Security Flaw Puts 3 Billion Users in the Crosshairs | Muneeb | [Read More](https://medium.com/p/5cb0ee8c23f3) |
 | Thu, 29 Jan 2026 07:53:14 GMT | How to Implement Certified Risk Information Systems Control | yafiya | [Read More](https://medium.com/p/97bcc0fb5a97) |
 | Thu, 29 Jan 2026 07:52:13 GMT | API Security Best Practices: Hidden Risks Most Teams Ignore | Majidbasharat | [Read More](https://medium.com/p/234fa023ae18) |
-| Thu, 29 Jan 2026 07:51:31 GMT | Stay Ahead of Innovation - Explore The Latest In Technology | DP-Vids | [Read More](https://medium.com/p/2f8ea176f337) |
-| Thu, 29 Jan 2026 07:49:01 GMT | Tesla Kills the Model S, Google Cracks the DNA Code, and Android Comes to PC - The Daily Tech… | Souren Stepanyan | [Read More](https://medium.com/p/c7c9532af9df) |
-| Thu, 29 Jan 2026 07:46:52 GMT | Enhance Email Security: AtomEmailPro vs. Gmail MFA Hacking | Ichsanneng | [Read More](https://medium.com/p/43c206664f84) |
-| Thu, 29 Jan 2026 07:46:35 GMT | When Banks Build with Locks, Not Afterthoughts | Gbolahan Akinbola | [Read More](https://medium.com/p/d6ed6a6ac6aa) |
-| Thu, 29 Jan 2026 07:44:23 GMT | Stop Giving Clawdbot Your Credentials | Sudip Das | [Read More](https://medium.com/p/f469f35ab884) |
-| Thu, 29 Jan 2026 07:39:02 GMT | Zero-Day Detection Rule Builder: 12 Tools Every Cybersecurity Pro Should Master | Very Lazy Tech | [Read More](https://medium.com/p/b205a40f85dc) |
-| Thu, 29 Jan 2026 07:32:45 GMT | Best AI and ML Courses After 12th | Manisha Chaudhary | [Read More](https://medium.com/p/89a94441e532) |
-| Thu, 29 Jan 2026 07:24:21 GMT | Fixing Critical Java CVEs in New Relic’s Infrastructure Bundle: A Practical Guide | Aniruddha Jawanjal | [Read More](https://medium.com/p/934119193079) |
-| Thu, 29 Jan 2026 07:21:57 GMT | The Rose in the Sewer | Malcaris | [Read More](https://medium.com/p/a44c53de44ad) |
-| Thu, 29 Jan 2026 07:17:19 GMT | Sakura School Simulator Mod APK | Bandisharecx | [Read More](https://medium.com/p/9b6a12431395) |
-| Thu, 29 Jan 2026 07:15:21 GMT | Engineering Database Activity Monitoring (DAM) - From Bare-Metal Linux to AWS RDS — EPISODE 2 | Vijenex | [Read More](https://medium.com/p/c4d903352d24) |
-| Thu, 29 Jan 2026 07:02:44 GMT | Inside the Business Leader’s Mind: What They Really Want From Gen AI - Ascendion | Ascendion | [Read More](https://medium.com/p/566e43e288bd) |
-| Thu, 29 Jan 2026 06:57:25 GMT | Cursor + Hexstrike. Fully Automated ADCS ESC8 Attack | Andrey Pautov | [Read More](https://medium.com/p/8736fec53c58) |
-| Thu, 29 Jan 2026 06:57:03 GMT | who am i? — Web Security Challenge (Easy) | Z3DX | [Read More](https://medium.com/p/c26dd1667a00) |
-| Thu, 29 Jan 2026 06:46:59 GMT | Sanity United Ambassador Program: Building the Future of Sustainable Web3 Together | Stan4Chainz | [Read More](https://medium.com/p/1b2486b7429d) |
-| Thu, 29 Jan 2026 06:32:32 GMT | Beyond the Bug: Exploring OWASP Top 10 (2025) Design Flaws | pwnedByJT | [Read More](https://medium.com/p/06bfebc9e7b1) |
-| Thu, 29 Jan 2026 06:27:33 GMT | Deep Dive into Modern Security: From Encryption to Ethical Hacking | Sanya Sachdeva | [Read More](https://medium.com/p/7e7b0dc7078a) |
