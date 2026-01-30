@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 Jan 2026 10:25:26 GMT | Digital Shield Hardware Wallet from the Perspective of CertiK’s Zero Critical Vulnerability… | Digital Shield Offcial | [Read More](https://medium.com/p/393cc968bbfb) |
+| Fri, 30 Jan 2026 10:23:04 GMT | The Path to Asset Protection in Web3’s Rational Cycle: How Does Digital Shield Hardware Wallet… | Digital Shield Offcial | [Read More](https://medium.com/p/29bbe4dbc9b5) |
+| Fri, 30 Jan 2026 10:18:20 GMT | The Digital Persona’s Unseen Guardian: A 2026 Masterclass on Navigating Privacy with Surfshark VPN | Ahmed Sharfi | [Read More](https://medium.com/p/aadf1ecb39c8) |
+| Fri, 30 Jan 2026 10:17:51 GMT | AI Courses and Certifications in India 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/cb5100cccfe3) |
+| Fri, 30 Jan 2026 10:17:02 GMT | Digital Shield Hardware Wallet from the Perspective of CertiK’s Zero Critical Vulnerability… | Digital Shield | [Read More](https://medium.com/p/cf48b8fa5f75) |
+| Fri, 30 Jan 2026 10:14:58 GMT | Zero-Day abuses to Active Malware - A week of Real-World exploitation | Loginsoft | [Read More](https://medium.com/p/62743885acb4) |
+| Fri, 30 Jan 2026 10:10:14 GMT | CySA+ — Assumption Trap: Context / Phase Misalignment | the CyberStoic | [Read More](https://medium.com/p/b577e2b77fa5) |
+| Fri, 30 Jan 2026 10:03:10 GMT | Love Is, by Tangled Words | Odel Asseille | [Read More](https://medium.com/p/75b1b99ea60a) |
+| Fri, 30 Jan 2026 10:01:36 GMT | Windows 11 IoT Enterprise LTSC 2024: A Stable Windows Solution for Long-Term Use | Jimi | [Read More](https://medium.com/p/74ad64c9d307) |
+| Fri, 30 Jan 2026 09:56:06 GMT | The ONE-Click Tool That Finds Every Vulnerability Hackers Hide! | cybrNK | [Read More](https://medium.com/p/d090a84711ed) |
+| Fri, 30 Jan 2026 09:52:41 GMT | Prédire la Prochaine Attaque : Le Transformer au Service de la Cyber Threat Intelligence | Bricezemba | [Read More](https://medium.com/p/74169aa2ddd7) |
+| Fri, 30 Jan 2026 09:49:01 GMT | The Real Cost of Downtime: Why Uptime Is a Business Commitment | DC9India | [Read More](https://medium.com/p/39e8dcaa5664) |
+| Fri, 30 Jan 2026 09:41:47 GMT | Dark Web Monitoring: Seeing Threats Before They Reach You | Zefai Insights | [Read More](https://medium.com/p/ffd6696bd636) |
+| Fri, 30 Jan 2026 09:40:59 GMT | Clawdbot (Moltbot) | gunes | [Read More](https://medium.com/p/db4836658ee2) |
+| Fri, 30 Jan 2026 09:36:09 GMT | The Trap of ‘It Just Works’: Clawdbot’s Unmitigated Disaster | Gabriele Maddaloni | [Read More](https://medium.com/p/d02cedff87e8) |
+| Fri, 30 Jan 2026 09:34:52 GMT | Incredibox APK | Game4u | [Read More](https://medium.com/p/0eb53a117a0c) |
 | Fri, 30 Jan 2026 09:31:01 GMT | Sweet Optimization: How C# Linear Programming Turned Chocolate Constraints into Confectionery Gold | Namir Sagheenanajar | [Read More](https://medium.com/p/0fd816ff5b5d) |
 | Fri, 30 Jan 2026 09:23:41 GMT | DockerLabs Writeup — Race (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/51cce2835f79) |
 | Fri, 30 Jan 2026 09:19:02 GMT | ด่วน! แจ้งเตือนช่องโหว่ร้ายแรงใน GNU InetUtils telnetd | ThaiCERT By NCSA | [Read More](https://medium.com/p/cf74ee86bfc4) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 Jan 2026 02:16:20 GMT | Breaking the Guardrails: Jailbreaking LLMs with Prompt Injection | Ajay Kumar | [Read More](https://medium.com/p/ed5d14014ad4) |
 | Fri, 30 Jan 2026 02:14:20 GMT | What I Learned From Building a Segmented Enterprise Network in Cisco Packet Tracer | Oluwatobi Adeyemi | [Read More](https://medium.com/p/49932cc37f36) |
 | Fri, 30 Jan 2026 02:12:24 GMT | Building a Secure, Segmented Enterprise Network in Cisco Packet Tracer | Oluwatobi Adeyemi | [Read More](https://medium.com/p/a9e7b900a0ba) |
-| Fri, 30 Jan 2026 02:05:27 GMT | Detecting Covert Exfiltration Through Kernel Signature Analysis | Siddhant Mishra | [Read More](https://medium.com/p/f6cb8bda2439) |
-| Fri, 30 Jan 2026 02:05:17 GMT | How to Become a Red Team Hacker in 2026 (Complete Roadmap) | Shahzaib | [Read More](https://medium.com/p/fe27eafe96d3) |
-| Fri, 30 Jan 2026 02:02:40 GMT | Missing authentication in API Endpoints lead to update orders and Bulk deletion in CMS web app… | 777 | [Read More](https://medium.com/p/237721b574ea) |
-| Fri, 30 Jan 2026 01:55:16 GMT | The Breach That Made Antivirus Useless | Noel | [Read More](https://medium.com/p/eccd28d4fa58) |
-| Fri, 30 Jan 2026 01:32:24 GMT | Building a React App with Biometric Authentication (Fingerprint / Face ID) | Jaytech | [Read More](https://medium.com/p/aaef5a4678a3) |
-| Fri, 30 Jan 2026 01:31:02 GMT | The Agentic AI Security Model That Actually Holds Up | Nexumo | [Read More](https://medium.com/p/e96976ef22f9) |
-| Fri, 30 Jan 2026 01:18:18 GMT | The Real Problem with Web3 Security | Zero | [Read More](https://medium.com/p/48a50e0c83f1) |
-| Fri, 30 Jan 2026 01:01:02 GMT | QRYPTA: Post-Quantum Security on EVM Networks (Without Breaking Compatibility) | Qrypta | [Read More](https://medium.com/p/d5d7151a6c89) |
-| Fri, 30 Jan 2026 00:56:39 GMT | My Email Data Was Leaked 3 Times! That’s When I Understood What Data Breaches Really Mean. | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/dd7909a4e635) |
-| Fri, 30 Jan 2026 00:52:16 GMT | Ain’t we all Zeus? | Adeyemi Alhazzan Peter | [Read More](https://medium.com/p/8db989d34079) |
-| Fri, 30 Jan 2026 00:49:09 GMT | Understanding Wireless Authentication: 802.1X, EAP, LEAP, and PEAP | Raviteja Mureboina | [Read More](https://medium.com/p/38405c1f1e23) |
-| Fri, 30 Jan 2026 00:31:01 GMT | Spring Boot Security In-Memory Authentication Example (Step-by-Step Guide) | Code With Sunil - Code Smarter, not harder | [Read More](https://medium.com/p/a3bd88f6a12d) |
-| Fri, 30 Jan 2026 00:25:55 GMT | AI PHISHING URL DETECTOR (DevSecOps/AI) — Full Journey | S Madaoui | [Read More](https://medium.com/p/1521a0270753) |
-| Fri, 30 Jan 2026 00:15:06 GMT | 2 Billion Android Users at Risk: The Hidden Danger in WhatsApp Images | Er Mohsin Shabir | [Read More](https://medium.com/p/fb2d7443fe4e) |
-| Fri, 30 Jan 2026 00:13:35 GMT | THM AoC 2025: The Great Disappearing Act | Danieltruong | [Read More](https://medium.com/p/dfb69977bd68) |
-| Fri, 30 Jan 2026 00:01:02 GMT | Guía de WhatWeb: Fingerprinting y Reconocimiento para Bug Hunting | JPablo13 | [Read More](https://medium.com/p/1a9360ecb05c) |
