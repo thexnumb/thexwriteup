@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 Jan 2026 17:31:16 GMT | Securing OpenClaw with Labrat Glitch: Guardrails for Your AI Agent Gateway | David Anderson | [Read More](https://medium.com/p/e494b184c0c1) |
+| Fri, 30 Jan 2026 17:25:55 GMT | BlueMoon: 2021 — A Deep Walkthrough (From Zero to Root) | Amandogra | [Read More](https://medium.com/p/8d72c033b5b9) |
+| Fri, 30 Jan 2026 17:21:01 GMT | The NCF : A brief overview | Hobin Rood | [Read More](https://medium.com/p/ed1cc8ab56f0) |
+| Fri, 30 Jan 2026 17:17:36 GMT | Erasing Amalek, Becoming Israel (Beshalach) | Rabbi Menachem Creditor | [Read More](https://medium.com/p/f0cfd6d1afb4) |
+| Fri, 30 Jan 2026 17:06:30 GMT | AI Smart Cards & Biometric Security in 2026: The Shift from PINs to Fingerprints | LaLiSa | [Read More](https://medium.com/p/db18b66bb23b) |
+| Fri, 30 Jan 2026 17:06:27 GMT | Try Hack Me- Cooctus Stories CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/1034891d3291) |
+| Fri, 30 Jan 2026 17:02:33 GMT | Application Security | Sude E. | [Read More](https://medium.com/p/e0aa3a4eb8c8) |
+| Fri, 30 Jan 2026 16:58:14 GMT | UofTCTF 2026 Reverse Engineering Challenges | Rynvasis | [Read More](https://medium.com/p/0df23147ca87) |
+| Fri, 30 Jan 2026 16:56:11 GMT | Certifications in Information Security Are Tools, Not Verdicts | Raleigh Guevarra | [Read More](https://medium.com/p/f1058c5fcca8) |
+| Fri, 30 Jan 2026 16:55:54 GMT | Die Zweckbestimmung eines CRA-Produkts festlegen | Sarah Fluchs | [Read More](https://medium.com/p/b97b7d325f65) |
+| Fri, 30 Jan 2026 16:50:11 GMT | Cyber Security Awareness for KIDS by Teddy Cerra | Teddy Cerra | [Read More](https://medium.com/p/5f8a83a606d1) |
+| Fri, 30 Jan 2026 16:44:14 GMT | مكتب تأجير شغالات بالشهر بمكه 0594650326 تخفيض 50% مكتب تأجير شغالات بالشهر بمكة يقدم خدمات مميزة… | مكتب تاجير شغالات بالشهر 1500 بمكه خصم 50% | [Read More](https://medium.com/p/b68b1f557492) |
 | Fri, 30 Jan 2026 16:40:22 GMT | Exploiting DOM Clobbering to Enable DOM-Based XSS | Bash Overflow | [Read More](https://medium.com/p/009edbca9d10) |
 | Fri, 30 Jan 2026 16:40:14 GMT | Openclaw: Why This Flawed AI Assistant is the Blueprint for Your Digital Future | Ken C | [Read More](https://medium.com/p/9b14d2b40ac6) |
+| Fri, 30 Jan 2026 16:39:07 GMT | When the “I” Disappears !!! | Samiksha Diwan | [Read More](https://medium.com/p/8ed3d1d41cd3) |
 | Fri, 30 Jan 2026 16:32:22 GMT | We Live Inside Stories | War Vithin | [Read More](https://medium.com/p/4200fb7d7a02) |
 | Fri, 30 Jan 2026 16:32:21 GMT | Agentic Payments: Why do I think AI Agents Need a Judge, Not Just a budget? | Aaron L | [Read More](https://medium.com/p/aae384912b4e) |
 | Fri, 30 Jan 2026 16:19:18 GMT | As always in every penetration testing engagements we start by reconnaissance and information… | Cyb0rgBytes | [Read More](https://medium.com/p/bd3757b67dfc) |
@@ -100,16 +113,3 @@ Since the big tech… | Sean Burke | [Read More](https://medium.com/p/394bff3823
 | Fri, 30 Jan 2026 11:08:40 GMT | You Can’t Protect What You Can’t Find: A Practical Guide to Cryptographic Discovery | Samuel Odekunle | [Read More](https://medium.com/p/49ea414fba78) |
 | Fri, 30 Jan 2026 11:04:20 GMT | 9 Important Reasons Armed Security Guarding Services Ensure Total Safety | bravo Security | [Read More](https://medium.com/p/3e7d56ece759) |
 | Fri, 30 Jan 2026 11:01:34 GMT | AI-Agents: Friends or Foes? | Kirill Zorin | [Read More](https://medium.com/p/499f5b912c3c) |
-| Fri, 30 Jan 2026 10:58:09 GMT | SpaceX and xAI Might Merge, Bondu Toys Expose Kids, and Netflix Eats Hollywood - The Daily Tech… | Souren Stepanyan | [Read More](https://medium.com/p/19259760cf9b) |
-| Fri, 30 Jan 2026 10:45:13 GMT | ClawdBot Is Powerful — and Dangerous: A Complete Guide to Running It Safely | Navya Sree Ram Kumar Chowdary Penumarthi | [Read More](https://medium.com/p/726f32205e10) |
-| Fri, 30 Jan 2026 10:39:22 GMT | Understanding the Stages of the Cyber Kill Chain | Ankita Sinha | [Read More](https://medium.com/p/2ebdd0657f9e) |
-| Fri, 30 Jan 2026 10:38:44 GMT | How Modern SOCs Detect and Neutralize Threats | Sanya Sachdeva | [Read More](https://medium.com/p/55cd9c03315d) |
-| Fri, 30 Jan 2026 10:37:56 GMT | How to Learn Machine Learning: Roadmap for Complete Beginners | cyber security Updates | [Read More](https://medium.com/p/5efe070aa5ea) |
-| Fri, 30 Jan 2026 10:37:29 GMT | Information Security in the Age of Intelligent Threats | Nida Arshad | [Read More](https://medium.com/p/431282d589bf) |
-| Fri, 30 Jan 2026 10:36:46 GMT | How AI is Revolutionizing Network Security Monitoring | Mubashir | [Read More](https://medium.com/p/f11230d66f21) |
-| Fri, 30 Jan 2026 10:33:00 GMT | 7 Important Preface to Security Guard Services in Lahore | bravo Security | [Read More](https://medium.com/p/20e0d3b6a704) |
-| Fri, 30 Jan 2026 10:25:26 GMT | Digital Shield Hardware Wallet from the Perspective of CertiK’s Zero Critical Vulnerability… | Digital Shield Offcial | [Read More](https://medium.com/p/393cc968bbfb) |
-| Fri, 30 Jan 2026 10:23:04 GMT | The Path to Asset Protection in Web3’s Rational Cycle: How Does Digital Shield Hardware Wallet… | Digital Shield Offcial | [Read More](https://medium.com/p/29bbe4dbc9b5) |
-| Fri, 30 Jan 2026 10:18:20 GMT | The Digital Persona’s Unseen Guardian: A 2026 Masterclass on Navigating Privacy with Surfshark VPN | Ahmed Sharfi | [Read More](https://medium.com/p/aadf1ecb39c8) |
-| Fri, 30 Jan 2026 10:17:51 GMT | AI Courses and Certifications in India 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/cb5100cccfe3) |
-| Fri, 30 Jan 2026 10:17:02 GMT | Digital Shield Hardware Wallet from the Perspective of CertiK’s Zero Critical Vulnerability… | Digital Shield | [Read More](https://medium.com/p/cf48b8fa5f75) |
