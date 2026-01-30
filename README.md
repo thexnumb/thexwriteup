@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 Jan 2026 19:26:58 GMT | CSRF: How to trick a website into taking Action on your behalf | Anshkamra | [Read More](https://medium.com/p/f2bb91184b1d) |
+| Fri, 30 Jan 2026 19:19:23 GMT | Forging Digital Fortresses: The Fusion of Creativity and Code in Cybersecurity | Cybillit | [Read More](https://medium.com/p/7d005bc03f7f) |
+| Fri, 30 Jan 2026 19:14:57 GMT | The Less I Know The Better | darivxe | [Read More](https://medium.com/p/124f7cb99d94) |
+| Fri, 30 Jan 2026 19:13:51 GMT | The technology of boundaries | Francesco Maiomascio | [Read More](https://medium.com/p/ef7d7e019b40) |
+| Fri, 30 Jan 2026 19:11:31 GMT | Secure Use of GitHub — CIS-Aligned Technical Guide — Part III | SOCFortress | [Read More](https://medium.com/p/a36d5213f545) |
+| Fri, 30 Jan 2026 18:44:53 GMT | The Invisible Attack Surface: How AI Agents Are Creating Security Risks We’re Not Ready For | Sai Mohit Kumar Kilaru | [Read More](https://medium.com/p/e26a94597679) |
+| Fri, 30 Jan 2026 18:42:05 GMT | Good Vibes and Security Insight | Teri Radichel | [Read More](https://medium.com/p/b6e8276d07d4) |
+| Fri, 30 Jan 2026 18:39:27 GMT | Battleship in Python | ZeakPeak | [Read More](https://medium.com/p/52753d0f7807) |
 | Fri, 30 Jan 2026 18:35:21 GMT | How a “Safe” Analytics Endpoint Leaked Real User Behavior | Iski | [Read More](https://medium.com/p/9c75b38bcde6) |
 | Fri, 30 Jan 2026 18:31:30 GMT | Hunting with Zeek and Splunk — 2 | Manish [pikachu] | [Read More](https://medium.com/p/b8445713ce04) |
 | Fri, 30 Jan 2026 18:31:01 GMT | Why You Must Update to iOS 26 Now: Security Risks Explained | Sherin | [Read More](https://medium.com/p/f3fb250938bf) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 Jan 2026 13:31:01 GMT | Unmasking the MAFFIA: A Deep Dive into the 5-Stage FormBook Fileless Kill-Chain | Macs-Hit | [Read More](https://medium.com/p/3f7228018455) |
 | Fri, 30 Jan 2026 13:30:59 GMT | Agentic AI for Cybersecurity Training (and Proving Behavior Change) | Keepnet Labs | [Read More](https://medium.com/p/b56564461e6f) |
 | Fri, 30 Jan 2026 13:29:27 GMT | Why API Security Is Critical for PCI Compliance (Lessons from APISec Uni) | Khadijat Suleman | [Read More](https://medium.com/p/1a4e8cd2fbdc) |
-| Fri, 30 Jan 2026 13:27:03 GMT | Dark Web Crypto Leaks: What They Reveal About Underground Finance | Tor BBB | [Read More](https://medium.com/p/7a37cb8967de) |
-| Fri, 30 Jan 2026 13:23:00 GMT | What are SIMDs or Solana Proposals? | Frank Castle | [Read More](https://medium.com/p/d385fa9200b9) |
-| Fri, 30 Jan 2026 13:21:40 GMT | SOC as a Service in India: A Complete Guide for 2026 | CyberAube Technologies | [Read More](https://medium.com/p/e4a5a7ac40f3) |
-| Fri, 30 Jan 2026 13:11:01 GMT | How We Built a Secure, Short-Lived Coupon Token System | Lets Learn Now | [Read More](https://medium.com/p/547d7e0cd807) |
-| Fri, 30 Jan 2026 13:03:07 GMT | 1. What Is Escaping? | Reda Ouzidane | [Read More](https://medium.com/p/72f3e47372f8) |
-| Fri, 30 Jan 2026 13:01:30 GMT | Inside the Security Operations Center (SOC): The First Line of Cyber Defense | Harmit Warang (psyducky0) | [Read More](https://medium.com/p/82d64b1cf5a1) |
-| Fri, 30 Jan 2026 13:01:03 GMT | The Secret Blueprint: How Computers, Software, and Malware Were Modeled After the Human Body &… | Bits & Bytes Podcast Newsletter | [Read More](https://medium.com/p/d075658e8e0e) |
-| Fri, 30 Jan 2026 12:40:43 GMT | AI & Privacy Compliance: Why ISO 42001 and DPDP Act 2023 Matter Together | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/e7afb2208f1e) |
