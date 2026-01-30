@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 Jan 2026 23:15:53 GMT | Untrusted user data — 30 years later — are we still solving the same problem? | Jessica Fosler | [Read More](https://medium.com/p/da50b657d25d) |
+| Fri, 30 Jan 2026 23:15:32 GMT | P4 Programming Protocol Independent Packet Processors | Bervice | [Read More](https://medium.com/p/dae194195005) |
+| Fri, 30 Jan 2026 23:04:05 GMT | DNS Armor on Google Cloud: Detecting Threats at the DNS Layer | Nuntakon Yingyong | [Read More](https://medium.com/p/b9cce1cdc565) |
+| Fri, 30 Jan 2026 22:58:32 GMT | TryHackMe Writeup: Madeye’s Castle | Berkay AĞGÜL | [Read More](https://medium.com/p/2aa69f184541) |
+| Fri, 30 Jan 2026 22:57:30 GMT | Cloud Security Pitfalls - Tryhackme | Aaron | [Read More](https://medium.com/p/2819d6321901) |
+| Fri, 30 Jan 2026 22:50:56 GMT | Post 11: (SDLC Phase 1) Gathering Requirements | Satti Data | [Read More](https://medium.com/p/280152ea1bf4) |
 | Fri, 30 Jan 2026 22:49:12 GMT | How a Simple “Trust Gap” Logic Flaw Earned Me $200,000 and Inspired a New AI Security Engine | Muhammad Arslan Akhtar | [Read More](https://medium.com/p/2f31c2438e16) |
 | Fri, 30 Jan 2026 22:42:12 GMT | DNS Armor บน Google Cloud: ตรวจจับภัยคุกคามตั้งแต่ DNS Layer | Nuntakon Yingyong | [Read More](https://medium.com/p/b4494d2e3181) |
 | Fri, 30 Jan 2026 22:39:09 GMT | Inside WPA3: How Today’s Wi-Fi Security Stops Attackers Cold | ghostyjoe | [Read More](https://medium.com/p/f075aa8d29ba) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 Jan 2026 15:27:03 GMT | End-to-End SMS Spam Detection Using NLP and Naive Bayes | Kaizen | [Read More](https://medium.com/p/bc856ed116ca) |
 | Fri, 30 Jan 2026 15:21:55 GMT | IT Consulting in 2026: Enabling Secure, Compliant, and Scalable Businesses | Astra Global Consulting | [Read More](https://medium.com/p/34dd64a322a7) |
 | Fri, 30 Jan 2026 15:21:04 GMT | I’m also just a girl, standing in front of a boy, asking him to love her | Clementine. | [Read More](https://medium.com/p/3232c04b9635) |
-| Fri, 30 Jan 2026 15:20:30 GMT | Commercial Security Installation Cost Explained | Alex Bryn | [Read More](https://medium.com/p/e55adb0076a1) |
-| Fri, 30 Jan 2026 15:13:44 GMT | Ghidra-themed macOS campaign — full incident report (A Technical Analysis) | Macs-Hit | [Read More](https://medium.com/p/9010c33f40b5) |
-| Fri, 30 Jan 2026 15:11:17 GMT | LLMInspect by EUNOMATIX Provides Safe Use of AI for Kids | Eman Khalid | [Read More](https://medium.com/p/7e023be60872) |
-| Fri, 30 Jan 2026 15:09:29 GMT | It Works ≠ It’s Safe: A Small Manual for Production-Ready Backend Code | Chai and Coding | [Read More](https://medium.com/p/b369292e4c85) |
-| Fri, 30 Jan 2026 15:09:16 GMT | Europe’s Digital Sovereignty Reckoning | Csilla Zsigri | [Read More](https://medium.com/p/51586838b40a) |
-| Fri, 30 Jan 2026 15:06:38 GMT | Top 5 IT Risks Most Mid-Size Companies Ignore | Astra Global Consulting | [Read More](https://medium.com/p/c9eff69c618a) |
