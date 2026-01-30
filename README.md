@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 Jan 2026 07:31:16 GMT | What it Looks like When Cybersecurity Leadership Fails | Matthew.Rosenquist | [Read More](https://medium.com/p/35a0d127d03f) |
+| Fri, 30 Jan 2026 07:31:12 GMT | Hands-On Cybersecurity Training with CTF Challenges | Alex Carter | [Read More](https://medium.com/p/9a8e6e2ccdd6) |
+| Fri, 30 Jan 2026 07:23:50 GMT | HTB — MonitorsFour: Walkthrough | Aashraymt | [Read More](https://medium.com/p/9961db29acc9) |
+| Fri, 30 Jan 2026 07:19:40 GMT | Engineering Database Activity Monitoring (DAM) - From Bare-Metal Linux to AWS RDS — EPISODE 3 | Vijenex | [Read More](https://medium.com/p/fa0b22a54360) |
+| Fri, 30 Jan 2026 07:16:24 GMT | Code is a Liability, Not an Asset | Dhanush N | [Read More](https://medium.com/p/1f2a94043c91) |
+| Fri, 30 Jan 2026 07:14:43 GMT | How a Simple “Having Issue?” Feature Opened the Entire Server ? | VETTRIVEL | [Read More](https://medium.com/p/8f6aed134b48) |
+| Fri, 30 Jan 2026 07:14:00 GMT | How Hackers Can Fool AI-Based Cybersecurity Systems — And Why Accuracy Is Not Enough | Priyanka Patil | [Read More](https://medium.com/p/41c724116768) |
+| Fri, 30 Jan 2026 07:06:39 GMT | Quantum-Resistant Cryptography: The Future of Secure Data | Exito | [Read More](https://medium.com/p/c5c44e0cfce0) |
+| Fri, 30 Jan 2026 07:06:31 GMT | Data Privacy Week 2026 | Matthew.Rosenquist | [Read More](https://medium.com/p/5040feb7457e) |
+| Fri, 30 Jan 2026 07:06:11 GMT | I Never Say What Hurts | Unspokenby.P | [Read More](https://medium.com/p/96e8f6417a40) |
+| Fri, 30 Jan 2026 07:03:24 GMT | The Compliance Illusion: Why Policies Fail When Sensitive Data Location Is Unknown | EzSecure | [Read More](https://medium.com/p/2c82b468d0aa) |
 | Fri, 30 Jan 2026 06:50:29 GMT | n8n RCE vulnerabilities: CVE-2026–1470 and CVE-2026–0863 expose automation workflows to takeover | Germano Costi | [Read More](https://medium.com/p/743ef19470c8) |
 | Fri, 30 Jan 2026 06:46:19 GMT | Customizing ERPNext for Industry-Specific Needs | Indsys Holdings India Private Limited | [Read More](https://medium.com/p/3644391adbf4) |
 | Fri, 30 Jan 2026 06:43:04 GMT | ITIL Framework Explained: A flexible IT service management framework | Dennis Duke | [Read More](https://medium.com/p/54554035f116) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 Jan 2026 20:36:49 GMT | Insecure Design Nedir? | Zekikayaalp | [Read More](https://medium.com/p/6209f9a8538f) |
 | Thu, 29 Jan 2026 20:36:05 GMT | TryHackMe — Brooklyn Nine Nine Write-up | Lucas de Souza Lima | [Read More](https://medium.com/p/87120d40777e) |
 | Thu, 29 Jan 2026 20:35:06 GMT | You’re invited to join me next week for a free live session: The Psychology of Passwords | Karl Buhl | [Read More](https://medium.com/p/3d006777eecd) |
-| Thu, 29 Jan 2026 20:32:22 GMT | Overpass — TryHackMe Writeup / WalkThrough | sudo_0xksh | [Read More](https://medium.com/p/f41c1013af00) |
-| Thu, 29 Jan 2026 20:31:05 GMT | OhSINT TryHackMe Writeup / Walkthrough | sudo_0xksh | [Read More](https://medium.com/p/64deb30b4fda) |
-| Thu, 29 Jan 2026 20:22:30 GMT | Google’s Fast Pair Vulnerability: How WhisperPair Lets Hackers Hijack Bluetooth Devices | Abhinav Yadav | [Read More](https://medium.com/p/4ebb7395ab9d) |
-| Thu, 29 Jan 2026 20:14:29 GMT | Local File Inclusion (LFI) | M4rc0sX | [Read More](https://medium.com/p/29f2e6163ae0) |
-| Thu, 29 Jan 2026 20:13:26 GMT | How to Block Spam SMS and Scam Calls in 2026: A Complete Guide to Reclaiming Your Privacy | Huseyin Sari | [Read More](https://medium.com/p/508597c01541) |
-| Thu, 29 Jan 2026 20:11:54 GMT | OWASP Top 10–2025 | Gokhan Can | [Read More](https://medium.com/p/2a99aa11ae31) |
-| Thu, 29 Jan 2026 20:09:28 GMT | What you must know about Docker Volumes? | BecomeDevops | [Read More](https://medium.com/p/a7cea0ffff6e) |
-| Thu, 29 Jan 2026 20:04:34 GMT | From Red to Blue: Building a Sysmon & Splunk Threat Hunting Lab | Muhammed Eymen AYDIN | [Read More](https://medium.com/p/18f5778a34ff) |
-| Thu, 29 Jan 2026 20:04:10 GMT | OWASP Mobile Top 10: Hatalı Kimlik Bilgisi Kullanımı (M1) | Barış Kandemir | [Read More](https://medium.com/p/b8cb6ce8df67) |
-| Thu, 29 Jan 2026 20:04:07 GMT | Episode 5: Load Balancer Security Auditor — SSL, Protocols, and Public Exposure | Tarek CHEIKH | [Read More](https://medium.com/p/b7f97c4bee1c) |
-| Thu, 29 Jan 2026 19:55:12 GMT | Tryhackme Pickle Rick CTF Write-Up | Kandemirryigit | [Read More](https://medium.com/p/5c453dd65479) |
