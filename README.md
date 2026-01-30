@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 Jan 2026 20:23:46 GMT | The Davos Epitaph | Victor Babaniyi | [Read More](https://medium.com/p/051b862b98d3) |
+| Fri, 30 Jan 2026 20:06:44 GMT | Day 6: Network devices and Topologies | Siddhesh Patil | [Read More](https://medium.com/p/7c445a2ca173) |
+| Fri, 30 Jan 2026 20:03:21 GMT | Most Breaches Don’t Start With Malware — Here’s What They Start With | JSOC IT BLOG | [Read More](https://medium.com/p/479f60dcfb25) |
+| Fri, 30 Jan 2026 19:55:18 GMT | GeoServer: Recent Vulnerabilities & TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/a623be759d94) |
+| Fri, 30 Jan 2026 19:50:57 GMT | Breaking into Web3 Security: A Guide for Security Engineers | @AayJay | [Read More](https://medium.com/p/bdef7febd903) |
+| Fri, 30 Jan 2026 19:48:25 GMT | THM’s SEC1 (Cyber Security 101) Review | Motasem Hamdan | [Read More](https://medium.com/p/10e126f3a8b7) |
+| Fri, 30 Jan 2026 19:29:13 GMT | The Rise of Cybersecurity in Somalia, Opportunities, Challenges, and a Digital Future | Mohamed dahir | [Read More](https://medium.com/p/fd0fc206c673) |
 | Fri, 30 Jan 2026 19:26:58 GMT | CSRF: How to trick a website into taking Action on your behalf | Anshkamra | [Read More](https://medium.com/p/f2bb91184b1d) |
 | Fri, 30 Jan 2026 19:19:23 GMT | Forging Digital Fortresses: The Fusion of Creativity and Code in Cybersecurity | Cybillit | [Read More](https://medium.com/p/7d005bc03f7f) |
 | Fri, 30 Jan 2026 19:14:57 GMT | The Less I Know The Better | darivxe | [Read More](https://medium.com/p/124f7cb99d94) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 Jan 2026 13:45:30 GMT | My Journey to becoming a certified OffSec Web Expert (OSWE) | Shantanu | [Read More](https://medium.com/p/267d31341fbd) |
 | Fri, 30 Jan 2026 13:43:28 GMT | €1800 Bounty: How I Promoted Myself to Admin by “Asking” the Server Nicely | Ashar Mahmood | [Read More](https://medium.com/p/810ef2dbe7bf) |
 | Fri, 30 Jan 2026 13:41:06 GMT | When Your IDE Becomes the Adversary: Analyzing the AWS Kiro Command Injection (CVE-2026–0830) | Alessandro Pignati | [Read More](https://medium.com/p/ea061967ffc9) |
-| Fri, 30 Jan 2026 13:40:46 GMT | Automation Bias: Why Smart Systems Make Humans Less Careful | Marton Schneider | [Read More](https://medium.com/p/0c5912beed48) |
-| Fri, 30 Jan 2026 13:40:06 GMT | ️ Identity Protection: Defending the New Security Perimeter | Esra Kayhan | [Read More](https://medium.com/p/4e034d3cd7b0) |
-| Fri, 30 Jan 2026 13:39:32 GMT | Application Vulnerability Early Detection Solutions Catching Security at the Code Stage | Esra Kayhan | [Read More](https://medium.com/p/d0e9df830143) |
-| Fri, 30 Jan 2026 13:31:02 GMT | Unearthing the Truth in DC-5 - From LFI to Log Poisoning ️ | Nicholas Mullenski | [Read More](https://medium.com/p/9812112bcce3) |
-| Fri, 30 Jan 2026 13:31:01 GMT | Unmasking the MAFFIA: A Deep Dive into the 5-Stage FormBook Fileless Kill-Chain | Macs-Hit | [Read More](https://medium.com/p/3f7228018455) |
-| Fri, 30 Jan 2026 13:30:59 GMT | Agentic AI for Cybersecurity Training (and Proving Behavior Change) | Keepnet Labs | [Read More](https://medium.com/p/b56564461e6f) |
-| Fri, 30 Jan 2026 13:29:27 GMT | Why API Security Is Critical for PCI Compliance (Lessons from APISec Uni) | Khadijat Suleman | [Read More](https://medium.com/p/1a4e8cd2fbdc) |
