@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 Jan 2026 22:23:52 GMT | Mustacchio — Easy CTF Write‑up | Zhoussama | [Read More](https://medium.com/p/eb16adda67a1) |
+| Fri, 30 Jan 2026 22:15:21 GMT | I’m Back on Medium and Here’s What I’ll Be Writing About | Stefan Bargan | [Read More](https://medium.com/p/c714c18e40ab) |
+| Fri, 30 Jan 2026 22:00:52 GMT | Google warns of widespread exploitation of WinRAR vulnerability CVE-2025–8088 and here’s how the… | Harsh Raj Singhania | [Read More](https://medium.com/p/311262ea48e0) |
+| Fri, 30 Jan 2026 21:59:49 GMT | Starting My Cybersecurity Journey: January 2026 (Foundations Month) | Nikita | [Read More](https://medium.com/p/eee78d1fb860) |
+| Fri, 30 Jan 2026 21:42:30 GMT | Post-Quantum Cryptography in 2026 | Configr Technologies | [Read More](https://medium.com/p/34dd20af5b52) |
+| Fri, 30 Jan 2026 21:38:00 GMT | Automated CTI-Based Risk Register and ISO Mapping in n8n | H3NRY B41T | [Read More](https://medium.com/p/09013956ee7b) |
+| Fri, 30 Jan 2026 21:35:13 GMT | The Send Button Is a Memory | James Kuhman | [Read More](https://medium.com/p/6b3e42f24e30) |
+| Fri, 30 Jan 2026 21:30:02 GMT | The Problem Isn’t Alerts — It’s How We Think: Cybersecurity Models Explained | George Samir | [Read More](https://medium.com/p/8107b59b263c) |
 | Fri, 30 Jan 2026 21:25:17 GMT | HackThisSite — Basic Level 3 — Publicly Accessible Sensitive Files | Javier | [Read More](https://medium.com/p/7e9cb621212e) |
+| Fri, 30 Jan 2026 21:21:02 GMT | Building an Explainable Fraud Awareness System Using Python | Vishal Diwase | [Read More](https://medium.com/p/ef483db65854) |
+| Fri, 30 Jan 2026 21:20:32 GMT | Home Security Isn’t Just About Alarms | PRL Style | [Read More](https://medium.com/p/99d5a4a6658e) |
 | Fri, 30 Jan 2026 21:14:43 GMT | AI Acceptable Use Policy — How to Use AI Safely | Emory French | [Read More](https://medium.com/p/6b212484bb88) |
 | Fri, 30 Jan 2026 21:12:06 GMT | Analyzing a malware that steals payments via QR codes (PixStealer) | Nickguitar | [Read More](https://medium.com/p/dd697b2e5f75) |
 | Fri, 30 Jan 2026 21:11:09 GMT | Day 5 : Metasploit pt.2 — Meterpreter | Cybersecurity with Jojo | [Read More](https://medium.com/p/bb37b91c34c1) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 Jan 2026 14:49:30 GMT | Managing Service and Machine Identities in Hybrid Cloud Environments | Digital Defense | [Read More](https://medium.com/p/293b09d6955f) |
 | Fri, 30 Jan 2026 14:49:01 GMT | How To Bypass 403 | FeritÖzner | [Read More](https://medium.com/p/1885ee76368d) |
 | Fri, 30 Jan 2026 14:44:26 GMT | First Time Nge-Prompt Pakai Bahasa Alien | nafenaf | [Read More](https://medium.com/p/d7f1574d1d68) |
-| Fri, 30 Jan 2026 14:41:22 GMT | Blue Inc. — CyberTalents Web Security Challenge (Easy) | Z3DX | [Read More](https://medium.com/p/ac76033501b1) |
-| Fri, 30 Jan 2026 14:40:58 GMT | LLM Prompt Injection: real attacks, why detection is hard, and a baseline defense approach | Ayush PS | [Read More](https://medium.com/p/b6c506c0232e) |
-| Fri, 30 Jan 2026 14:40:54 GMT | Zero Trust for AI Agents: Why Egress Control Is Your New Compliance Boundary | Michael Hannecke | [Read More](https://medium.com/p/4fed5407a658) |
-| Fri, 30 Jan 2026 14:35:39 GMT | Web-RTA Exam Review — Cyberwarfare Labs | Lakshan Sameera | [Read More](https://medium.com/p/3e560ee2b79e) |
-| Fri, 30 Jan 2026 14:34:16 GMT | When “I Don’t Feel Safe” Really Means “I Feel Uncomfortable” | Marla Tabaka | [Read More](https://medium.com/p/ecbe2f9c5047) |
-| Fri, 30 Jan 2026 14:33:10 GMT | What It Takes to Become a Hacker | Shahzaib | [Read More](https://medium.com/p/685f5cb6791f) |
-| Fri, 30 Jan 2026 14:31:29 GMT | Portal Drop - First-Shift-CTF Walkthrough & EDR Log Analysis | Visir | [Read More](https://medium.com/p/1f5d18a4f4d6) |
-| Fri, 30 Jan 2026 14:31:02 GMT | What is a MAC Address and How to Change It in Kali Linux | Vignesh R | [Read More](https://medium.com/p/9a14f32dadb4) |
-| Fri, 30 Jan 2026 14:27:26 GMT | The Agentic Threat: Why Personal AI Agents Are the Next Cyber Battleground | evoailabs | [Read More](https://medium.com/p/907d63f4265f) |
-| Fri, 30 Jan 2026 14:24:37 GMT | Protecting Your Online Privacy with Proton VPN | Infinity Matrix | [Read More](https://medium.com/p/ed876ff2dc7b) |
