@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 Jan 2026 02:05:27 GMT | Detecting Covert Exfiltration Through Kernel Signature Analysis | Siddhant Mishra | [Read More](https://medium.com/p/f6cb8bda2439) |
+| Fri, 30 Jan 2026 02:05:17 GMT | How to Become a Red Team Hacker in 2026 (Complete Roadmap) | Shahzaib | [Read More](https://medium.com/p/fe27eafe96d3) |
+| Fri, 30 Jan 2026 01:55:16 GMT | The Breach That Made Antivirus Useless | Noel | [Read More](https://medium.com/p/eccd28d4fa58) |
+| Fri, 30 Jan 2026 01:32:24 GMT | Building a React App with Biometric Authentication (Fingerprint / Face ID) | Jaytech | [Read More](https://medium.com/p/aaef5a4678a3) |
+| Fri, 30 Jan 2026 01:31:02 GMT | The Agentic AI Security Model That Actually Holds Up | Nexumo | [Read More](https://medium.com/p/e96976ef22f9) |
+| Fri, 30 Jan 2026 01:18:18 GMT | The Real Problem with Web3 Security | Zero | [Read More](https://medium.com/p/48a50e0c83f1) |
+| Fri, 30 Jan 2026 01:01:02 GMT | QRYPTA: Post-Quantum Security on EVM Networks (Without Breaking Compatibility) | Qrypta | [Read More](https://medium.com/p/d5d7151a6c89) |
+| Fri, 30 Jan 2026 00:56:39 GMT | My Email Data Was Leaked 3 Times! That’s When I Understood What Data Breaches Really Mean. | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/dd7909a4e635) |
+| Fri, 30 Jan 2026 00:52:16 GMT | Ain’t we all Zeus? | Adeyemi Alhazzan Peter | [Read More](https://medium.com/p/8db989d34079) |
+| Fri, 30 Jan 2026 00:49:09 GMT | Understanding Wireless Authentication: 802.1X, EAP, LEAP, and PEAP | Raviteja Mureboina | [Read More](https://medium.com/p/38405c1f1e23) |
+| Fri, 30 Jan 2026 00:31:01 GMT | Spring Boot Security In-Memory Authentication Example (Step-by-Step Guide) | Code With Sunil - Code Smarter, not harder | [Read More](https://medium.com/p/a3bd88f6a12d) |
+| Fri, 30 Jan 2026 00:25:55 GMT | AI PHISHING URL DETECTOR (DevSecOps/AI) — Full Journey | S Madaoui | [Read More](https://medium.com/p/1521a0270753) |
+| Fri, 30 Jan 2026 00:15:06 GMT | 2 Billion Android Users at Risk: The Hidden Danger in WhatsApp Images | Er Mohsin Shabir | [Read More](https://medium.com/p/fb2d7443fe4e) |
+| Fri, 30 Jan 2026 00:13:35 GMT | THM AoC 2025: The Great Disappearing Act | Danieltruong | [Read More](https://medium.com/p/dfb69977bd68) |
+| Fri, 30 Jan 2026 00:01:02 GMT | Guía de WhatWeb: Fingerprinting y Reconocimiento para Bug Hunting | JPablo13 | [Read More](https://medium.com/p/1a9360ecb05c) |
 | Thu, 29 Jan 2026 23:36:44 GMT | ☠️ Investigating Internet-Exposed RDP Activity Using Microsoft Defender XDR | Julian Smith | [Read More](https://medium.com/p/76f19be07d4d) |
 | Thu, 29 Jan 2026 23:09:52 GMT | Freeze-Frame | No blabs | [Read More](https://medium.com/p/71905aab00bf) |
 | Thu, 29 Jan 2026 22:49:40 GMT | Public Key Cryptography Basics — TryHackMe Answers - by Deepti Gupta | Deeptisg | [Read More](https://medium.com/p/d595d6fc813d) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 Jan 2026 17:06:44 GMT | SOC153 Alert Walkthrough on LetsDefend | Fatma Mohamed | [Read More](https://medium.com/p/8f6445311c12) |
 | Thu, 29 Jan 2026 17:03:09 GMT | [REVIEW] The API-RTA Exam: A Mission in Logical Chaining and Modern API Exploitation | Lau | [Read More](https://medium.com/p/116489776623) |
 | Thu, 29 Jan 2026 17:00:46 GMT | The Silent Database Killer Every DevOps Team Ignores (Free Tool Saves Millions)!!! | cybrNK | [Read More](https://medium.com/p/b59e4b264c11) |
-| Thu, 29 Jan 2026 16:56:45 GMT | The Identity Gap: How to Secure Your Army of AI Agents | Dr Sokratis Kartakis | [Read More](https://medium.com/p/5586cde44100) |
-| Thu, 29 Jan 2026 16:53:24 GMT | Understanding Large Codebases: Why AST Analysis Beats Asking an LLM | Anton | [Read More](https://medium.com/p/b0d60fc99e65) |
-| Thu, 29 Jan 2026 16:52:37 GMT | Lab Write-up: Linux CLI — Identifying Incorrect File Extensions | Eeshan Agrawal | [Read More](https://medium.com/p/71e03bb908e8) |
-| Thu, 29 Jan 2026 16:51:49 GMT | My experience learning to code | ZeakPeak | [Read More](https://medium.com/p/65b07908c4bd) |
-| Thu, 29 Jan 2026 16:42:24 GMT | Deep dive into RustDesk RMM Investigation & Forensics on Windows | Chicken0248 | [Read More](https://medium.com/p/6d8ba816a11e) |
-| Thu, 29 Jan 2026 16:42:11 GMT | Day 4 : Metasploit | Cybersecurity with Jojo | [Read More](https://medium.com/p/a4d8288e006f) |
-| Thu, 29 Jan 2026 16:36:17 GMT | Apple launches AirTag 2 — What’s New? | Nikhil Vemu | [Read More](https://medium.com/p/0ab4b6556008) |
-| Thu, 29 Jan 2026 16:35:15 GMT | HD and 4K Security Cameras Explained | Alex Bryn | [Read More](https://medium.com/p/bea7a82b0929) |
-| Thu, 29 Jan 2026 16:33:46 GMT | Session Tokens: The Real Password in Modern Attacks | Daniel Isaac E | [Read More](https://medium.com/p/5d90fe602d4e) |
-| Thu, 29 Jan 2026 16:27:16 GMT | What You Disclose, What You Don’t, and Why | Charlene B. | [Read More](https://medium.com/p/729677c2c527) |
-| Thu, 29 Jan 2026 16:27:13 GMT | Passwords Are Dying (And It’s About Time) | Abdullah Javeed | [Read More](https://medium.com/p/ca93c04e3d30) |
-| Thu, 29 Jan 2026 16:11:23 GMT | Unrestricted Resource Consumption: When APIs Never Say “Enough” | Emmanuelnnebedum | [Read More](https://medium.com/p/a7ce55707561) |
-| Thu, 29 Jan 2026 16:03:07 GMT | Passwordless Security and Credential Lifecycle Management: The Future of Identity Protection | Digital Defense | [Read More](https://medium.com/p/8e700fbf2695) |
-| Thu, 29 Jan 2026 16:02:20 GMT | CVE-2025–68613 — Remote Code Execution in n8n Workflow Automation | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/7900b399bfb6) |
-| Thu, 29 Jan 2026 16:01:18 GMT | The Architecture of Trust: Why Blockchain Matters to Cybersecurity — Without the Hype | Samyakgoel | [Read More](https://medium.com/p/db270ad458d3) |
