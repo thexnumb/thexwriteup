@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 Jan 2026 22:49:12 GMT | How a Simple “Trust Gap” Logic Flaw Earned Me $200,000 and Inspired a New AI Security Engine | Muhammad Arslan Akhtar | [Read More](https://medium.com/p/2f31c2438e16) |
+| Fri, 30 Jan 2026 22:42:12 GMT | DNS Armor บน Google Cloud: ตรวจจับภัยคุกคามตั้งแต่ DNS Layer | Nuntakon Yingyong | [Read More](https://medium.com/p/b4494d2e3181) |
+| Fri, 30 Jan 2026 22:39:09 GMT | Inside WPA3: How Today’s Wi-Fi Security Stops Attackers Cold | ghostyjoe | [Read More](https://medium.com/p/f075aa8d29ba) |
+| Fri, 30 Jan 2026 22:34:42 GMT | We All Click “I Agree”… But Do We Really? | Kevin Kelly | [Read More](https://medium.com/p/ed7c1b0d23dd) |
+| Fri, 30 Jan 2026 22:25:51 GMT | Enhance Your Online Safety: How to Block Adult Content using DNS Over HTTPS | Stack Architect | [Read More](https://medium.com/p/08a5f2cf37f5) |
 | Fri, 30 Jan 2026 22:23:52 GMT | Mustacchio — Easy CTF Write‑up | Zhoussama | [Read More](https://medium.com/p/eb16adda67a1) |
+| Fri, 30 Jan 2026 22:22:41 GMT | Keeping up with Security News — with Beagle Watch | Michael Harms | [Read More](https://medium.com/p/677c9c6ff422) |
 | Fri, 30 Jan 2026 22:15:21 GMT | I’m Back on Medium and Here’s What I’ll Be Writing About | Stefan Bargan | [Read More](https://medium.com/p/c714c18e40ab) |
 | Fri, 30 Jan 2026 22:00:52 GMT | Google warns of widespread exploitation of WinRAR vulnerability CVE-2025–8088 and here’s how the… | Harsh Raj Singhania | [Read More](https://medium.com/p/311262ea48e0) |
 | Fri, 30 Jan 2026 21:59:49 GMT | Starting My Cybersecurity Journey: January 2026 (Foundations Month) | Nikita | [Read More](https://medium.com/p/eee78d1fb860) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 Jan 2026 15:09:29 GMT | It Works ≠ It’s Safe: A Small Manual for Production-Ready Backend Code | Chai and Coding | [Read More](https://medium.com/p/b369292e4c85) |
 | Fri, 30 Jan 2026 15:09:16 GMT | Europe’s Digital Sovereignty Reckoning | Csilla Zsigri | [Read More](https://medium.com/p/51586838b40a) |
 | Fri, 30 Jan 2026 15:06:38 GMT | Top 5 IT Risks Most Mid-Size Companies Ignore | Astra Global Consulting | [Read More](https://medium.com/p/c9eff69c618a) |
-| Fri, 30 Jan 2026 15:05:15 GMT | The Dark Side of Moltbot: Security Risks in Local-First AI | Abi Varma | [Read More](https://medium.com/p/4e54407d39bb) |
-| Fri, 30 Jan 2026 15:04:28 GMT | Deterministic AWS Security Posture Validation with Prowler | CoffeeCloud Series | [Read More](https://medium.com/p/1312854a7ff5) |
-| Fri, 30 Jan 2026 15:01:07 GMT | Cyber Briefing: 2026.01.30 | CyberMaterial | [Read More](https://medium.com/p/16442a5ab9e3) |
-| Fri, 30 Jan 2026 14:49:30 GMT | Managing Service and Machine Identities in Hybrid Cloud Environments | Digital Defense | [Read More](https://medium.com/p/293b09d6955f) |
-| Fri, 30 Jan 2026 14:49:01 GMT | How To Bypass 403 | FeritÖzner | [Read More](https://medium.com/p/1885ee76368d) |
-| Fri, 30 Jan 2026 14:44:26 GMT | First Time Nge-Prompt Pakai Bahasa Alien | nafenaf | [Read More](https://medium.com/p/d7f1574d1d68) |
