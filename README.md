@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 Jan 2026 16:40:22 GMT | Exploiting DOM Clobbering to Enable DOM-Based XSS | Bash Overflow | [Read More](https://medium.com/p/009edbca9d10) |
+| Fri, 30 Jan 2026 16:40:14 GMT | Openclaw: Why This Flawed AI Assistant is the Blueprint for Your Digital Future | Ken C | [Read More](https://medium.com/p/9b14d2b40ac6) |
+| Fri, 30 Jan 2026 16:32:22 GMT | We Live Inside Stories | War Vithin | [Read More](https://medium.com/p/4200fb7d7a02) |
+| Fri, 30 Jan 2026 16:32:21 GMT | Agentic Payments: Why do I think AI Agents Need a Judge, Not Just a budget? | Aaron L | [Read More](https://medium.com/p/aae384912b4e) |
+| Fri, 30 Jan 2026 16:19:18 GMT | As always in every penetration testing engagements we start by reconnaissance and information… | Cyb0rgBytes | [Read More](https://medium.com/p/bd3757b67dfc) |
+| Fri, 30 Jan 2026 16:12:39 GMT | I Hacked Your Brain Before I Hacked Your Password | Saniyakapoor | [Read More](https://medium.com/p/cd8b6dbf1dcc) |
+| Fri, 30 Jan 2026 16:04:50 GMT | Financial Literacy in the Age of AI: Steering through Pressure, Competition, and Staying Grounded. | Marica | [Read More](https://medium.com/p/ccb78a51003d) |
+| Fri, 30 Jan 2026 16:02:30 GMT | The Imperfect Fracture: Notes on a Break That Chose Eternity. | Ydstiraaa | [Read More](https://medium.com/p/df6e524bc181) |
+| Fri, 30 Jan 2026 16:00:39 GMT | SPA Token Theft Through Font Face Declarations | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/a689c309888c) |
+| Fri, 30 Jan 2026 15:59:56 GMT | My Substack Newsletter Didn’t Go Viral. It Still Makes Money — and That Was the Point. | Taimur Ijlal | [Read More](https://medium.com/p/7deee54756fa) |
 | Fri, 30 Jan 2026 15:55:31 GMT | Function Level Authorization (BFLA) — When Users Become Admins | Emmanuelnnebedum | [Read More](https://medium.com/p/bb528de78bae) |
 | Fri, 30 Jan 2026 15:49:02 GMT | Modded APK Security 2026: The Truth Behind “God Mode” Games | Jonathan Jude | [Read More](https://medium.com/p/945ab900c967) |
 | Fri, 30 Jan 2026 15:48:17 GMT | [AD攻防]Over-Pass-the-Hash攻擊 | 陳禹璿 | [Read More](https://medium.com/p/e054e24f2830) |
@@ -103,13 +113,3 @@ Since the big tech… | Sean Burke | [Read More](https://medium.com/p/394bff3823
 | Fri, 30 Jan 2026 10:18:20 GMT | The Digital Persona’s Unseen Guardian: A 2026 Masterclass on Navigating Privacy with Surfshark VPN | Ahmed Sharfi | [Read More](https://medium.com/p/aadf1ecb39c8) |
 | Fri, 30 Jan 2026 10:17:51 GMT | AI Courses and Certifications in India 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/cb5100cccfe3) |
 | Fri, 30 Jan 2026 10:17:02 GMT | Digital Shield Hardware Wallet from the Perspective of CertiK’s Zero Critical Vulnerability… | Digital Shield | [Read More](https://medium.com/p/cf48b8fa5f75) |
-| Fri, 30 Jan 2026 10:14:58 GMT | Zero-Day abuses to Active Malware - A week of Real-World exploitation | Loginsoft | [Read More](https://medium.com/p/62743885acb4) |
-| Fri, 30 Jan 2026 10:10:14 GMT | CySA+ — Assumption Trap: Context / Phase Misalignment | the CyberStoic | [Read More](https://medium.com/p/b577e2b77fa5) |
-| Fri, 30 Jan 2026 10:03:10 GMT | Love Is, by Tangled Words | Odel Asseille | [Read More](https://medium.com/p/75b1b99ea60a) |
-| Fri, 30 Jan 2026 10:01:36 GMT | Windows 11 IoT Enterprise LTSC 2024: A Stable Windows Solution for Long-Term Use | Jimi | [Read More](https://medium.com/p/74ad64c9d307) |
-| Fri, 30 Jan 2026 09:56:06 GMT | The ONE-Click Tool That Finds Every Vulnerability Hackers Hide! | cybrNK | [Read More](https://medium.com/p/d090a84711ed) |
-| Fri, 30 Jan 2026 09:52:41 GMT | Prédire la Prochaine Attaque : Le Transformer au Service de la Cyber Threat Intelligence | Bricezemba | [Read More](https://medium.com/p/74169aa2ddd7) |
-| Fri, 30 Jan 2026 09:50:21 GMT | Building an LLM Security Lab: What I Actually Learnt | Zaid Talha | [Read More](https://medium.com/p/9a630c90f427) |
-| Fri, 30 Jan 2026 09:49:01 GMT | The Real Cost of Downtime: Why Uptime Is a Business Commitment | DC9India | [Read More](https://medium.com/p/39e8dcaa5664) |
-| Fri, 30 Jan 2026 09:41:47 GMT | Dark Web Monitoring: Seeing Threats Before They Reach You | Zefai Insights | [Read More](https://medium.com/p/ffd6696bd636) |
-| Fri, 30 Jan 2026 09:40:59 GMT | Clawdbot (Moltbot) | gunes | [Read More](https://medium.com/p/db4836658ee2) |
