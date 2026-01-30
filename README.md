@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 Jan 2026 08:25:56 GMT | Unlocking the Locker: A Technical Dive into AppLock Vulnerabilities | lightofmoon | [Read More](https://medium.com/p/b0227485a5ec) |
+| Fri, 30 Jan 2026 08:25:12 GMT | I Deployed Wazuh in My Own SOC Lab — What Broke, What Worked, and What I Actually Learned | Edric Kristian Gantes | [Read More](https://medium.com/p/9369be37ed80) |
+| Fri, 30 Jan 2026 08:24:29 GMT | Identity and Access Management (IAM): A Complete Guide with Examples, Best Practices, and Tools | Dennis Duke | [Read More](https://medium.com/p/a8e284bf11f7) |
+| Fri, 30 Jan 2026 08:14:49 GMT | Are Tools Like Fireflies & Read AI Safe for Sensitive Meetings? | R TechReview | [Read More](https://medium.com/p/0ff4b657114b) |
+| Fri, 30 Jan 2026 08:10:00 GMT | Back Alley Tales APK | Bandisharecx | [Read More](https://medium.com/p/744dc8a068c1) |
+| Fri, 30 Jan 2026 08:05:03 GMT | I’ve had a lifelong obsession with mathematics and logic (patterns, proofs, clean reasoning). | Simon Kimeu | [Read More](https://medium.com/p/02de84d229f4) |
+| Fri, 30 Jan 2026 08:01:56 GMT | Memory Forensics Toolkit: 12 Tools Every Defender Needs to Master Incident Response | Very Lazy Tech | [Read More](https://medium.com/p/9910c90b8662) |
+| Fri, 30 Jan 2026 08:01:03 GMT | API PENETRATION TESTING ON VULNBANK PART2 | Chinaza Emmanuela Obidike | [Read More](https://medium.com/p/6dd7ff64393a) |
+| Fri, 30 Jan 2026 07:50:00 GMT | AI Recodes “Tier One”: Five Tech Services Partner Attributes for Your Future - Ascendion | Ascendion | [Read More](https://medium.com/p/92993c43deed) |
+| Fri, 30 Jan 2026 07:48:19 GMT | What Information Can You Extract From Just a Phone Number | Abhay Parashar | [Read More](https://medium.com/p/044166a5bcb3) |
+| Fri, 30 Jan 2026 07:43:26 GMT | Kubernetes Audit Logging Using Wazuh | Piyush Ramani | [Read More](https://medium.com/p/f62fb3fcd4d5) |
+| Fri, 30 Jan 2026 07:37:47 GMT | Financial Account Abuse via eKYC: The Hidden Design Assumptions of Digital Identity | Ryu360 | [Read More](https://medium.com/p/326fdc823a62) |
+| Fri, 30 Jan 2026 07:36:25 GMT | [Blog] เมื่อ Software Tester ต้องสวมหมวก Hacker: สรุปบทเรียน Security Literacy จากงานสัมนา My Order… | Joe Aphiwat | [Read More](https://medium.com/p/4bfd642db46b) |
 | Fri, 30 Jan 2026 07:31:16 GMT | What it Looks like When Cybersecurity Leadership Fails | Matthew.Rosenquist | [Read More](https://medium.com/p/35a0d127d03f) |
 | Fri, 30 Jan 2026 07:31:12 GMT | Hands-On Cybersecurity Training with CTF Challenges | Alex Carter | [Read More](https://medium.com/p/9a8e6e2ccdd6) |
 | Fri, 30 Jan 2026 07:23:50 GMT | HTB — MonitorsFour: Walkthrough | Aashraymt | [Read More](https://medium.com/p/9961db29acc9) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 Jan 2026 22:10:40 GMT | QueueUserAPC2 Process Injection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/f57473dfe251) |
 | Thu, 29 Jan 2026 22:04:42 GMT | Directory Traversal Filter Bypass | Niko | [Read More](https://medium.com/p/42bca54c5a2a) |
 | Thu, 29 Jan 2026 21:51:34 GMT | Why Traditional AI Fails at Fraud Detection, and How Cost-Aware Optimization Is Changing FinTech | Maroof Ashraf | [Read More](https://medium.com/p/10e97620f7d1) |
-| Thu, 29 Jan 2026 21:39:49 GMT | PASTE4D | Wu kong | [Read More](https://medium.com/p/9fd35ebb611d) |
-| Thu, 29 Jan 2026 21:37:20 GMT | When “I’m Fine” Is the Safest Answer | David egah | [Read More](https://medium.com/p/c16cbc522997) |
-| Thu, 29 Jan 2026 21:36:15 GMT | Wordfence Intelligence Weekly WordPress Vulnerability Report (January 19, 2026 to January 25, 2026) | Wordfence | [Read More](https://medium.com/p/a288c0528af7) |
-| Thu, 29 Jan 2026 21:21:39 GMT | Turning Fuzzing Into $2,550: How a Simple Bug Gave Me Access to Employee IDs & Contracts | Muntadhar M. Ahmed | [Read More](https://medium.com/p/bcc3137a84a7) |
-| Thu, 29 Jan 2026 21:07:45 GMT | Credential Security in React Native — OWASP Mobile Top 10 (M1) | Barış Kandemir | [Read More](https://medium.com/p/5da9cb7666dd) |
-| Thu, 29 Jan 2026 21:07:23 GMT | How to Build a Comprehensive Security Strategy: Physical and Cyber Defense for 2026 | Fortnexs Shield | [Read More](https://medium.com/p/403b61b967d3) |
-| Thu, 29 Jan 2026 20:48:33 GMT | SOC163 — Suspicious Certutil.exe Usage - LestDefend | Nicksondiazm | [Read More](https://medium.com/p/4578d5d4ecee) |
-| Thu, 29 Jan 2026 20:44:08 GMT | When Safety Systems Become Attack Paths | Muhammad Ali Khan | [Read More](https://medium.com/p/85a11f46b392) |
-| Thu, 29 Jan 2026 20:41:01 GMT | The IDOR’ventures & Why I Love Hackerone — A Different Kind Of $33,500 Bounty | Justas_b_2 | [Read More](https://medium.com/p/a48665a7b900) |
-| Thu, 29 Jan 2026 20:36:50 GMT | HackThisSite — Basic Level 2 — No Password File | Javier | [Read More](https://medium.com/p/c63f84dedd64) |
-| Thu, 29 Jan 2026 20:36:49 GMT | Insecure Design Nedir? | Zekikayaalp | [Read More](https://medium.com/p/6209f9a8538f) |
-| Thu, 29 Jan 2026 20:36:05 GMT | TryHackMe — Brooklyn Nine Nine Write-up | Lucas de Souza Lima | [Read More](https://medium.com/p/87120d40777e) |
-| Thu, 29 Jan 2026 20:35:06 GMT | You’re invited to join me next week for a free live session: The Psychology of Passwords | Karl Buhl | [Read More](https://medium.com/p/3d006777eecd) |
