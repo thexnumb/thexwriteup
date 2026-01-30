@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 Jan 2026 15:55:31 GMT | Function Level Authorization (BFLA) — When Users Become Admins | Emmanuelnnebedum | [Read More](https://medium.com/p/bb528de78bae) |
+| Fri, 30 Jan 2026 15:49:02 GMT | Modded APK Security 2026: The Truth Behind “God Mode” Games | Jonathan Jude | [Read More](https://medium.com/p/945ab900c967) |
+| Fri, 30 Jan 2026 15:48:17 GMT | [AD攻防]Over-Pass-the-Hash攻擊 | 陳禹璿 | [Read More](https://medium.com/p/e054e24f2830) |
+| Fri, 30 Jan 2026 15:39:36 GMT | My Preparation for the eJPT | 0xnullsec | [Read More](https://medium.com/p/f8b1bbad102d) |
+| Fri, 30 Jan 2026 15:33:44 GMT | Top 7 Cybersecurity Skills No College Is Teaching You | Ankit rai | [Read More](https://medium.com/p/2c77ab911257) |
+| Fri, 30 Jan 2026 15:31:01 GMT | crackmes.one: A Simple Way to Practice Reverse Engineering | 0xCyberNoob | [Read More](https://medium.com/p/9dc3d2badb9b) |
+| Fri, 30 Jan 2026 15:27:03 GMT | End-to-End SMS Spam Detection Using NLP and Naive Bayes | Kaizen | [Read More](https://medium.com/p/bc856ed116ca) |
+| Fri, 30 Jan 2026 15:21:55 GMT | IT Consulting in 2026: Enabling Secure, Compliant, and Scalable Businesses | Astra Global Consulting | [Read More](https://medium.com/p/34dd64a322a7) |
+| Fri, 30 Jan 2026 15:21:04 GMT | I’m also just a girl, standing in front of a boy, asking him to love her | Clementine. | [Read More](https://medium.com/p/3232c04b9635) |
+| Fri, 30 Jan 2026 15:20:30 GMT | Commercial Security Installation Cost Explained | Alex Bryn | [Read More](https://medium.com/p/e55adb0076a1) |
+| Fri, 30 Jan 2026 15:13:44 GMT | Ghidra-themed macOS campaign — full incident report (A Technical Analysis) | Macs-Hit | [Read More](https://medium.com/p/9010c33f40b5) |
+| Fri, 30 Jan 2026 15:11:17 GMT | LLMInspect by EUNOMATIX Provides Safe Use of AI for Kids | Eman Khalid | [Read More](https://medium.com/p/7e023be60872) |
+| Fri, 30 Jan 2026 15:09:29 GMT | It Works ≠ It’s Safe: A Small Manual for Production-Ready Backend Code | Chai and Coding | [Read More](https://medium.com/p/b369292e4c85) |
+| Fri, 30 Jan 2026 15:09:16 GMT | Europe’s Digital Sovereignty Reckoning | Csilla Zsigri | [Read More](https://medium.com/p/51586838b40a) |
+| Fri, 30 Jan 2026 15:06:38 GMT | Top 5 IT Risks Most Mid-Size Companies Ignore | Astra Global Consulting | [Read More](https://medium.com/p/c9eff69c618a) |
+| Fri, 30 Jan 2026 15:05:15 GMT | The Dark Side of Moltbot: Security Risks in Local-First AI | Abi Varma | [Read More](https://medium.com/p/4e54407d39bb) |
+| Fri, 30 Jan 2026 15:04:28 GMT | Deterministic AWS Security Posture Validation with Prowler | CoffeeCloud Series | [Read More](https://medium.com/p/1312854a7ff5) |
+| Fri, 30 Jan 2026 15:01:07 GMT | Cyber Briefing: 2026.01.30 | CyberMaterial | [Read More](https://medium.com/p/16442a5ab9e3) |
 | Fri, 30 Jan 2026 14:49:30 GMT | Managing Service and Machine Identities in Hybrid Cloud Environments | Digital Defense | [Read More](https://medium.com/p/293b09d6955f) |
 | Fri, 30 Jan 2026 14:49:01 GMT | How To Bypass 403 | FeritÖzner | [Read More](https://medium.com/p/1885ee76368d) |
 | Fri, 30 Jan 2026 14:44:26 GMT | First Time Nge-Prompt Pakai Bahasa Alien | nafenaf | [Read More](https://medium.com/p/d7f1574d1d68) |
@@ -95,21 +113,3 @@ Since the big tech… | Sean Burke | [Read More](https://medium.com/p/394bff3823
 | Fri, 30 Jan 2026 09:49:01 GMT | The Real Cost of Downtime: Why Uptime Is a Business Commitment | DC9India | [Read More](https://medium.com/p/39e8dcaa5664) |
 | Fri, 30 Jan 2026 09:41:47 GMT | Dark Web Monitoring: Seeing Threats Before They Reach You | Zefai Insights | [Read More](https://medium.com/p/ffd6696bd636) |
 | Fri, 30 Jan 2026 09:40:59 GMT | Clawdbot (Moltbot) | gunes | [Read More](https://medium.com/p/db4836658ee2) |
-| Fri, 30 Jan 2026 09:36:09 GMT | The Trap of ‘It Just Works’: Clawdbot’s Unmitigated Disaster | Gabriele Maddaloni | [Read More](https://medium.com/p/d02cedff87e8) |
-| Fri, 30 Jan 2026 09:34:52 GMT | Incredibox APK | Game4u | [Read More](https://medium.com/p/0eb53a117a0c) |
-| Fri, 30 Jan 2026 09:31:01 GMT | Sweet Optimization: How C# Linear Programming Turned Chocolate Constraints into Confectionery Gold | Namir Sagheenanajar | [Read More](https://medium.com/p/0fd816ff5b5d) |
-| Fri, 30 Jan 2026 09:23:41 GMT | DockerLabs Writeup — Race (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/51cce2835f79) |
-| Fri, 30 Jan 2026 09:19:02 GMT | ด่วน! แจ้งเตือนช่องโหว่ร้ายแรงใน GNU InetUtils telnetd | ThaiCERT By NCSA | [Read More](https://medium.com/p/cf74ee86bfc4) |
-| Fri, 30 Jan 2026 09:01:28 GMT | Free Article: The Onboarding Void | Michael B | [Read More](https://medium.com/p/943253609dc3) |
-| Fri, 30 Jan 2026 09:01:05 GMT | The $10K Bug Bounty Playbook: 15 Automation Workflows That Actually Pay (2026 Edition) | BugHunter’s Journal | [Read More](https://medium.com/p/737d1331f80a) |
-| Fri, 30 Jan 2026 09:01:04 GMT | Your Vendors Have Leaked Credentials. Here’s How to Check. | Alexandre Vandamme | [Read More](https://medium.com/p/a661fc170da7) |
-| Fri, 30 Jan 2026 09:00:38 GMT | บทเรียนจากการเข้าอบรม Security Literacy | Thanaphat Ketsani | [Read More](https://medium.com/p/d93e2d85c6ed) |
-| Fri, 30 Jan 2026 08:57:32 GMT | cyber security carrier path after graduation | Muhammed abdul haady | [Read More](https://medium.com/p/b40ef604fb27) |
-| Fri, 30 Jan 2026 08:42:40 GMT | I Doubt Myself More Than I Admit | Alice Sam | [Read More](https://medium.com/p/90506ba4065d) |
-| Fri, 30 Jan 2026 08:41:23 GMT | Think You’re Safe? Red Teams Already Have Your Data | Redfox Security | [Read More](https://medium.com/p/49a3fa5476d0) |
-| Fri, 30 Jan 2026 08:37:56 GMT | Cybersecurity Threat Intelligence Research Report - Jan 2026 Highlights | cyber_0xGambit | [Read More](https://medium.com/p/1f84eb58144c) |
-| Fri, 30 Jan 2026 08:30:04 GMT | Lab: Remote code execution via server-side prototype pollution -Portswigger | L4V4NY4  AGR3 | [Read More](https://medium.com/p/e09d4d5d9b13) |
-| Fri, 30 Jan 2026 08:25:56 GMT | Unlocking the Locker: A Technical Dive into AppLock Vulnerabilities | lightofmoon | [Read More](https://medium.com/p/b0227485a5ec) |
-| Fri, 30 Jan 2026 08:25:12 GMT | I Deployed Wazuh in My Own SOC Lab — What Broke, What Worked, and What I Actually Learned | Edric Kristian Gantes | [Read More](https://medium.com/p/9369be37ed80) |
-| Fri, 30 Jan 2026 08:24:29 GMT | Identity and Access Management (IAM): A Complete Guide with Examples, Best Practices, and Tools | Dennis Duke | [Read More](https://medium.com/p/a8e284bf11f7) |
-| Fri, 30 Jan 2026 08:14:49 GMT | Are Tools Like Fireflies & Read AI Safe for Sensitive Meetings? | R TechReview | [Read More](https://medium.com/p/0ff4b657114b) |
