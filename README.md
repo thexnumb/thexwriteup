@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 Jan 2026 11:22:08 GMT | No one really tells you how hard the jump from college to career can be. | Dipti Singh | [Read More](https://medium.com/p/e34076afe83e) |
+| Fri, 30 Jan 2026 11:17:29 GMT | Is Your WiFi Safe? The Truth About WPS and MAC Filtering | Raviteja Mureboina | [Read More](https://medium.com/p/25c68dd6a8b1) |
+| Fri, 30 Jan 2026 11:17:13 GMT | Beyond the Firewall: Why the Best Cybersecurity Company is Your Strategic Growth Partner | Reflect security solutions | [Read More](https://medium.com/p/6f5bc731dd1c) |
+| Fri, 30 Jan 2026 11:11:23 GMT | Cloud Visitor Management Software for Multi-Tenant Buildings | Joven A Rodrigues | [Read More](https://medium.com/p/dce336a1cc4a) |
+| Fri, 30 Jan 2026 11:10:55 GMT | Idempotency in Distributed Systems — Why Payments Depend on It | Stoic Engineer | [Read More](https://medium.com/p/858177a07ce6) |
+| Fri, 30 Jan 2026 11:08:40 GMT | You Can’t Protect What You Can’t Find: A Practical Guide to Cryptographic Discovery | Samuel Odekunle | [Read More](https://medium.com/p/49ea414fba78) |
+| Fri, 30 Jan 2026 11:04:20 GMT | 9 Important Reasons Armed Security Guarding Services Ensure Total Safety | bravo Security | [Read More](https://medium.com/p/3e7d56ece759) |
+| Fri, 30 Jan 2026 11:01:34 GMT | AI-Agents: Friends or Foes? | Kirill Zorin | [Read More](https://medium.com/p/499f5b912c3c) |
+| Fri, 30 Jan 2026 10:58:09 GMT | SpaceX and xAI Might Merge, Bondu Toys Expose Kids, and Netflix Eats Hollywood - The Daily Tech… | Souren Stepanyan | [Read More](https://medium.com/p/19259760cf9b) |
+| Fri, 30 Jan 2026 10:45:13 GMT | ClawdBot Is Powerful — and Dangerous: A Complete Guide to Running It Safely | Navya Sree Ram Kumar Chowdary Penumarthi | [Read More](https://medium.com/p/726f32205e10) |
+| Fri, 30 Jan 2026 10:39:22 GMT | Understanding the Stages of the Cyber Kill Chain | Ankita Sinha | [Read More](https://medium.com/p/2ebdd0657f9e) |
+| Fri, 30 Jan 2026 10:38:44 GMT | How Modern SOCs Detect and Neutralize Threats | Sanya Sachdeva | [Read More](https://medium.com/p/55cd9c03315d) |
+| Fri, 30 Jan 2026 10:37:56 GMT | How to Learn Machine Learning: Roadmap for Complete Beginners | cyber security Updates | [Read More](https://medium.com/p/5efe070aa5ea) |
+| Fri, 30 Jan 2026 10:37:29 GMT | Information Security in the Age of Intelligent Threats | Nida Arshad | [Read More](https://medium.com/p/431282d589bf) |
+| Fri, 30 Jan 2026 10:36:46 GMT | How AI is Revolutionizing Network Security Monitoring | Mubashir | [Read More](https://medium.com/p/f11230d66f21) |
+| Fri, 30 Jan 2026 10:33:00 GMT | 7 Important Preface to Security Guard Services in Lahore | bravo Security | [Read More](https://medium.com/p/20e0d3b6a704) |
 | Fri, 30 Jan 2026 10:25:26 GMT | Digital Shield Hardware Wallet from the Perspective of CertiK’s Zero Critical Vulnerability… | Digital Shield Offcial | [Read More](https://medium.com/p/393cc968bbfb) |
 | Fri, 30 Jan 2026 10:23:04 GMT | The Path to Asset Protection in Web3’s Rational Cycle: How Does Digital Shield Hardware Wallet… | Digital Shield Offcial | [Read More](https://medium.com/p/29bbe4dbc9b5) |
 | Fri, 30 Jan 2026 10:18:20 GMT | The Digital Persona’s Unseen Guardian: A 2026 Masterclass on Navigating Privacy with Surfshark VPN | Ahmed Sharfi | [Read More](https://medium.com/p/aadf1ecb39c8) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 Jan 2026 04:31:08 GMT | n8n Compliance: Audit Trails Reviewers Trust | Nexumo | [Read More](https://medium.com/p/10266ce9ab29) |
 | Fri, 30 Jan 2026 04:22:22 GMT | Why “No Malware Found” ≠ “System Is Clean” | Paritosh | [Read More](https://medium.com/p/0162af7b0463) |
 | Fri, 30 Jan 2026 04:20:46 GMT | Mastering SQL Filters: Real-World Examples for Security and Employee Data Analysis | Jaylen S. | [Read More](https://medium.com/p/d4689b2f142b) |
-| Fri, 30 Jan 2026 04:20:04 GMT | Bukan Lulusan IT ? Strategi Masuk Dunia Tech Lewat Karier Data Analyst dengan Python & SQL | Deandrafadilah | [Read More](https://medium.com/p/c8c26e17abe9) |
-| Fri, 30 Jan 2026 04:17:39 GMT | Xingtu APK | Apkpuredev | [Read More](https://medium.com/p/ae4711158080) |
-| Fri, 30 Jan 2026 04:09:26 GMT | Top 10 Cybersecurity Providers in Houston | Cloudavize | [Read More](https://medium.com/p/b28db2391567) |
-| Fri, 30 Jan 2026 04:01:03 GMT | Xi Jinping Purges His Closest General, Leaving Himself Alone at the Apex of the World’s Largest Army | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/7e3ff66ebe1e) |
-| Fri, 30 Jan 2026 04:00:26 GMT | Web Application Vulnerability Assessment Using OWASP ZAP | Cybeague Technologies | [Read More](https://medium.com/p/cc1523222f74) |
-| Fri, 30 Jan 2026 03:59:47 GMT | Web Server Vulnerability Scanning Using Nikto | Cybeague Technologies | [Read More](https://medium.com/p/dfc90c1b3a1c) |
-| Fri, 30 Jan 2026 03:35:11 GMT | Investigating SSH Brute-Force Attacks: From auth.log to Actionable Insight | Harding Kevin | [Read More](https://medium.com/p/ad168b1f6b91) |
-| Fri, 30 Jan 2026 02:57:42 GMT | Qognet AI: An Intelligent Defense Layer for Blockchain Security in the Web3 Era | Karim Karbit | [Read More](https://medium.com/p/75127ed5be24) |
-| Fri, 30 Jan 2026 02:42:36 GMT | Patch Diffing ( Using Ghidriff ): Why Security Researchers Can’t Get Enough of It | Sushant M Mane | [Read More](https://medium.com/p/309c569279d3) |
-| Fri, 30 Jan 2026 02:30:56 GMT | The Faster We Innovate, the More Vulnerable We Become? The Hidden Side of Containers and AI | Lucas Melo | [Read More](https://medium.com/p/9b3fa1e80a46) |
-| Fri, 30 Jan 2026 02:26:41 GMT | Choose the Top Security Camera Suppliers in UAE for Your Total Protection ? | techfra solutions | [Read More](https://medium.com/p/2122ce0ef989) |
-| Fri, 30 Jan 2026 02:24:27 GMT | Responding to Exposed Secrets — An SRE’s Incident Response Playbook | Tiexin Guo | [Read More](https://medium.com/p/fbf7794392cb) |
-| Fri, 30 Jan 2026 02:21:11 GMT | Hidden Windows Background Tasks That Slow Your PC Down | Geoffrey Wenger | [Read More](https://medium.com/p/23a62271fc13) |
-| Fri, 30 Jan 2026 02:16:20 GMT | Breaking the Guardrails: Jailbreaking LLMs with Prompt Injection | Ajay Kumar | [Read More](https://medium.com/p/ed5d14014ad4) |
-| Fri, 30 Jan 2026 02:14:20 GMT | What I Learned From Building a Segmented Enterprise Network in Cisco Packet Tracer | Oluwatobi Adeyemi | [Read More](https://medium.com/p/49932cc37f36) |
-| Fri, 30 Jan 2026 02:12:24 GMT | Building a Secure, Segmented Enterprise Network in Cisco Packet Tracer | Oluwatobi Adeyemi | [Read More](https://medium.com/p/a9e7b900a0ba) |
