@@ -12,8 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 Jan 2026 04:09:26 GMT | Top 10 Cybersecurity Providers in Houston | Cloudavize | [Read More](https://medium.com/p/b28db2391567) |
+| Fri, 30 Jan 2026 04:01:03 GMT | Xi Jinping Purges His Closest General, Leaving Himself Alone at the Apex of the World’s Largest Army | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/7e3ff66ebe1e) |
+| Fri, 30 Jan 2026 04:00:26 GMT | Web Application Vulnerability Assessment Using OWASP ZAP | Cybeague Technologies | [Read More](https://medium.com/p/cc1523222f74) |
+| Fri, 30 Jan 2026 03:59:47 GMT | Web Server Vulnerability Scanning Using Nikto | Cybeague Technologies | [Read More](https://medium.com/p/dfc90c1b3a1c) |
+| Fri, 30 Jan 2026 03:35:11 GMT | Investigating SSH Brute-Force Attacks: From auth.log to Actionable Insight | Harding Kevin | [Read More](https://medium.com/p/ad168b1f6b91) |
+| Fri, 30 Jan 2026 02:57:42 GMT | Qognet AI: An Intelligent Defense Layer for Blockchain Security in the Web3 Era | Karim Karbit | [Read More](https://medium.com/p/75127ed5be24) |
+| Fri, 30 Jan 2026 02:42:36 GMT | Patch Diffing ( Using Ghidriff ): Why Security Researchers Can’t Get Enough of It | Sushant M Mane | [Read More](https://medium.com/p/309c569279d3) |
+| Fri, 30 Jan 2026 02:30:56 GMT | The Faster We Innovate, the More Vulnerable We Become? The Hidden Side of Containers and AI | Lucas Melo | [Read More](https://medium.com/p/9b3fa1e80a46) |
+| Fri, 30 Jan 2026 02:26:41 GMT | Choose the Top Security Camera Suppliers in UAE for Your Total Protection ? | techfra solutions | [Read More](https://medium.com/p/2122ce0ef989) |
+| Fri, 30 Jan 2026 02:24:27 GMT | Responding to Exposed Secrets — An SRE’s Incident Response Playbook | Tiexin Guo | [Read More](https://medium.com/p/fbf7794392cb) |
+| Fri, 30 Jan 2026 02:21:11 GMT | Hidden Windows Background Tasks That Slow Your PC Down | Geoffrey Wenger | [Read More](https://medium.com/p/23a62271fc13) |
+| Fri, 30 Jan 2026 02:16:20 GMT | Breaking the Guardrails: Jailbreaking LLMs with Prompt Injection | Ajay Kumar | [Read More](https://medium.com/p/ed5d14014ad4) |
+| Fri, 30 Jan 2026 02:14:20 GMT | What I Learned From Building a Segmented Enterprise Network in Cisco Packet Tracer | Oluwatobi Adeyemi | [Read More](https://medium.com/p/49932cc37f36) |
+| Fri, 30 Jan 2026 02:12:24 GMT | Building a Secure, Segmented Enterprise Network in Cisco Packet Tracer | Oluwatobi Adeyemi | [Read More](https://medium.com/p/a9e7b900a0ba) |
 | Fri, 30 Jan 2026 02:05:27 GMT | Detecting Covert Exfiltration Through Kernel Signature Analysis | Siddhant Mishra | [Read More](https://medium.com/p/f6cb8bda2439) |
 | Fri, 30 Jan 2026 02:05:17 GMT | How to Become a Red Team Hacker in 2026 (Complete Roadmap) | Shahzaib | [Read More](https://medium.com/p/fe27eafe96d3) |
+| Fri, 30 Jan 2026 02:02:40 GMT | Missing authentication in API Endpoints lead to update orders and Bulk deletion in CMS web app… | 777 | [Read More](https://medium.com/p/237721b574ea) |
 | Fri, 30 Jan 2026 01:55:16 GMT | The Breach That Made Antivirus Useless | Noel | [Read More](https://medium.com/p/eccd28d4fa58) |
 | Fri, 30 Jan 2026 01:32:24 GMT | Building a React App with Biometric Authentication (Fingerprint / Face ID) | Jaytech | [Read More](https://medium.com/p/aaef5a4678a3) |
 | Fri, 30 Jan 2026 01:31:02 GMT | The Agentic AI Security Model That Actually Holds Up | Nexumo | [Read More](https://medium.com/p/e96976ef22f9) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 Jan 2026 18:14:34 GMT | “We designed it for safety” (and other lies) | Justyna Belkevic | [Read More](https://medium.com/p/cbf75302b74c) |
 | Thu, 29 Jan 2026 17:47:00 GMT | Technical Bug Bounty Methodology: Deep Recon, Automation and Human Insight | NullSecurityX | [Read More](https://medium.com/p/ec61e9e0f4dd) |
 | Thu, 29 Jan 2026 17:43:52 GMT | Exploiting PwnKit (CVE-2021–4034) | Shivam Bathla | [Read More](https://medium.com/p/ac5d6995c499) |
-| Thu, 29 Jan 2026 17:43:44 GMT | Secure Use of GitHub — CIS-Aligned Technical Guide — Part II | SOCFortress | [Read More](https://medium.com/p/e1909bed0cb6) |
-| Thu, 29 Jan 2026 17:40:15 GMT | The Power of the stat Command | EMTIAZ AHMED | [Read More](https://medium.com/p/0931adc31d45) |
-| Thu, 29 Jan 2026 17:35:36 GMT | INE / eJPT / Host & Network Penetration Testing: The Metasploit Framework CTF 2 | Salihugurlu | [Read More](https://medium.com/p/af61f5524fbc) |
-| Thu, 29 Jan 2026 17:35:16 GMT | The Non-Negotiables in DevSecOps Pipeline: Building Security into Every Commit | Rommel Jay Gadil | [Read More](https://medium.com/p/a1561d50bcc0) |
-| Thu, 29 Jan 2026 17:26:05 GMT | TryHackMe —Cloud Security Pitfalls— Walkthrough | Kabir Chand | [Read More](https://medium.com/p/5d7cf8e6c43b) |
-| Thu, 29 Jan 2026 17:22:28 GMT | Android Architecture — Part 1 | Aastha Thakker | [Read More](https://medium.com/p/0ca4c5ce4d74) |
-| Thu, 29 Jan 2026 17:21:43 GMT | AI Detection Engines Reverse-Engineered and Statistically Exposed | Ilnur Khakimov | [Read More](https://medium.com/p/63983d9c277f) |
-| Thu, 29 Jan 2026 17:21:29 GMT | Getting Started in Cybersecurity: Some Hard Truths I Wish I Knew Earlier | Sanal k nelson | [Read More](https://medium.com/p/c8998685098f) |
-| Thu, 29 Jan 2026 17:21:13 GMT | Navigating the 2025 Cyber Threat Landscape: Vulnerabilities, Automation, and Strategic Defense for… | eL Njas!™ | [Read More](https://medium.com/p/774db8dfbf45) |
-| Thu, 29 Jan 2026 17:18:37 GMT | [EP.2] Learn from the Box — Legacy (HTB) | Pattharadanai Sanitjairak | [Read More](https://medium.com/p/e687b0937b4a) |
-| Thu, 29 Jan 2026 17:15:50 GMT | Building PySniffer: Designing a Real-Time Network Sniffer for Security Analysis | Muhammed Eymen AYDIN | [Read More](https://medium.com/p/904bfd869779) |
-| Thu, 29 Jan 2026 17:14:05 GMT | Neon-Bred Slut | Dream Walker's Dream Land | [Read More](https://medium.com/p/c5abdb0df4e3) |
-| Thu, 29 Jan 2026 17:06:44 GMT | SOC153 Alert Walkthrough on LetsDefend | Fatma Mohamed | [Read More](https://medium.com/p/8f6445311c12) |
-| Thu, 29 Jan 2026 17:03:09 GMT | [REVIEW] The API-RTA Exam: A Mission in Logical Chaining and Modern API Exploitation | Lau | [Read More](https://medium.com/p/116489776623) |
-| Thu, 29 Jan 2026 17:00:46 GMT | The Silent Database Killer Every DevOps Team Ignores (Free Tool Saves Millions)!!! | cybrNK | [Read More](https://medium.com/p/b59e4b264c11) |
