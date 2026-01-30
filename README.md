@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 Jan 2026 13:52:40 GMT | Secure the Jaxon DbAdmin database credentials with Infisical | Thierry Feuzeu | [Read More](https://medium.com/p/995979891bad) |
+| Fri, 30 Jan 2026 13:46:14 GMT | Osquery for Dummies | Shivam Bathla | [Read More](https://medium.com/p/c959942440b2) |
+| Fri, 30 Jan 2026 13:45:30 GMT | My Journey to becoming a certified OffSec Web Expert (OSWE) | Shantanu | [Read More](https://medium.com/p/267d31341fbd) |
+| Fri, 30 Jan 2026 13:43:28 GMT | €1800 Bounty: How I Promoted Myself to Admin by “Asking” the Server Nicely | Ashar Mahmood | [Read More](https://medium.com/p/810ef2dbe7bf) |
+| Fri, 30 Jan 2026 13:41:06 GMT | When Your IDE Becomes the Adversary: Analyzing the AWS Kiro Command Injection (CVE-2026–0830) | Alessandro Pignati | [Read More](https://medium.com/p/ea061967ffc9) |
+| Fri, 30 Jan 2026 13:40:46 GMT | Automation Bias: Why Smart Systems Make Humans Less Careful | Marton Schneider | [Read More](https://medium.com/p/0c5912beed48) |
+| Fri, 30 Jan 2026 13:40:06 GMT | ️ Identity Protection: Defending the New Security Perimeter | Esra Kayhan | [Read More](https://medium.com/p/4e034d3cd7b0) |
+| Fri, 30 Jan 2026 13:39:32 GMT | Application Vulnerability Early Detection Solutions Catching Security at the Code Stage | Esra Kayhan | [Read More](https://medium.com/p/d0e9df830143) |
+| Fri, 30 Jan 2026 13:31:02 GMT | Unearthing the Truth in DC-5 - From LFI to Log Poisoning ️ | Nicholas Mullenski | [Read More](https://medium.com/p/9812112bcce3) |
+| Fri, 30 Jan 2026 13:31:01 GMT | Unmasking the MAFFIA: A Deep Dive into the 5-Stage FormBook Fileless Kill-Chain | Macs-Hit | [Read More](https://medium.com/p/3f7228018455) |
+| Fri, 30 Jan 2026 13:30:59 GMT | Agentic AI for Cybersecurity Training (and Proving Behavior Change) | Keepnet Labs | [Read More](https://medium.com/p/b56564461e6f) |
+| Fri, 30 Jan 2026 13:29:27 GMT | Why API Security Is Critical for PCI Compliance (Lessons from APISec Uni) | Khadijat Suleman | [Read More](https://medium.com/p/1a4e8cd2fbdc) |
+| Fri, 30 Jan 2026 13:27:03 GMT | Dark Web Crypto Leaks: What They Reveal About Underground Finance | Tor BBB | [Read More](https://medium.com/p/7a37cb8967de) |
+| Fri, 30 Jan 2026 13:23:00 GMT | What are SIMDs or Solana Proposals? | Frank Castle | [Read More](https://medium.com/p/d385fa9200b9) |
+| Fri, 30 Jan 2026 13:21:40 GMT | SOC as a Service in India: A Complete Guide for 2026 | CyberAube Technologies | [Read More](https://medium.com/p/e4a5a7ac40f3) |
+| Fri, 30 Jan 2026 13:11:01 GMT | How We Built a Secure, Short-Lived Coupon Token System | Lets Learn Now | [Read More](https://medium.com/p/547d7e0cd807) |
+| Fri, 30 Jan 2026 13:03:07 GMT | 1. What Is Escaping? | Reda Ouzidane | [Read More](https://medium.com/p/72f3e47372f8) |
+| Fri, 30 Jan 2026 13:01:30 GMT | Inside the Security Operations Center (SOC): The First Line of Cyber Defense | Harmit Warang (psyducky0) | [Read More](https://medium.com/p/82d64b1cf5a1) |
+| Fri, 30 Jan 2026 13:01:03 GMT | The Secret Blueprint: How Computers, Software, and Malware Were Modeled After the Human Body &… | Bits & Bytes Podcast Newsletter | [Read More](https://medium.com/p/d075658e8e0e) |
 | Fri, 30 Jan 2026 12:40:43 GMT | AI & Privacy Compliance: Why ISO 42001 and DPDP Act 2023 Matter Together | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/e7afb2208f1e) |
 | Fri, 30 Jan 2026 12:37:20 GMT | Blind SQL Injection Attacks | Amrsmooke | [Read More](https://medium.com/p/93a4ed86172a) |
 | Fri, 30 Jan 2026 12:35:24 GMT | How AI-Powered Cybersecurity Startups Use Guest Post Outreach to Build Trust and Authority | Top Tech Outreach | [Read More](https://medium.com/p/04dd3ef81f53) |
@@ -94,22 +113,3 @@ Since the big tech… | Sean Burke | [Read More](https://medium.com/p/394bff3823
 | Fri, 30 Jan 2026 07:14:43 GMT | How a Simple “Having Issue?” Feature Opened the Entire Server ? | VETTRIVEL | [Read More](https://medium.com/p/8f6aed134b48) |
 | Fri, 30 Jan 2026 07:14:00 GMT | How Hackers Can Fool AI-Based Cybersecurity Systems — And Why Accuracy Is Not Enough | Priyanka Patil | [Read More](https://medium.com/p/41c724116768) |
 | Fri, 30 Jan 2026 07:06:39 GMT | Quantum-Resistant Cryptography: The Future of Secure Data | Exito | [Read More](https://medium.com/p/c5c44e0cfce0) |
-| Fri, 30 Jan 2026 07:06:31 GMT | Data Privacy Week 2026 | Matthew.Rosenquist | [Read More](https://medium.com/p/5040feb7457e) |
-| Fri, 30 Jan 2026 07:06:11 GMT | I Never Say What Hurts | Unspokenby.P | [Read More](https://medium.com/p/96e8f6417a40) |
-| Fri, 30 Jan 2026 07:03:24 GMT | The Compliance Illusion: Why Policies Fail When Sensitive Data Location Is Unknown | EzSecure | [Read More](https://medium.com/p/2c82b468d0aa) |
-| Fri, 30 Jan 2026 06:50:29 GMT | n8n RCE vulnerabilities: CVE-2026–1470 and CVE-2026–0863 expose automation workflows to takeover | Germano Costi | [Read More](https://medium.com/p/743ef19470c8) |
-| Fri, 30 Jan 2026 06:46:19 GMT | Customizing ERPNext for Industry-Specific Needs | Indsys Holdings India Private Limited | [Read More](https://medium.com/p/3644391adbf4) |
-| Fri, 30 Jan 2026 06:43:04 GMT | ITIL Framework Explained: A flexible IT service management framework | Dennis Duke | [Read More](https://medium.com/p/54554035f116) |
-| Fri, 30 Jan 2026 06:36:33 GMT | The Corix Partners Friday Reading List — January 30, 2026 | JC Gaillard | [Read More](https://medium.com/p/85ef80a757de) |
-| Fri, 30 Jan 2026 06:32:38 GMT | AWS Disaster Recovery Solutions & Cloud Consulting Services by F9 Infotech for Secure Business… | F9 Infotech | [Read More](https://medium.com/p/d63132b71b06) |
-| Fri, 30 Jan 2026 06:15:30 GMT | Comprehensive Guide to Security Operations Centers | Khabbab Sarker | [Read More](https://medium.com/p/9ef26e751ee5) |
-| Fri, 30 Jan 2026 06:08:45 GMT | When the Light Reveals What the Darkness Protected | Mayukh Sarma | [Read More](https://medium.com/p/7f9e0d344a3b) |
-| Fri, 30 Jan 2026 06:06:19 GMT | Chainlink — Smart Contract Vulnerability Labeling 101 | Sponge | [Read More](https://medium.com/p/b20674e1093d) |
-| Fri, 30 Jan 2026 06:05:28 GMT | Scheduled Sabotage: Privilege Escalation via Misconfigured Backup Scripts | Madaminovrahmatilloh | [Read More](https://medium.com/p/b2307bbeb009) |
-| Fri, 30 Jan 2026 06:00:51 GMT | Total Security Solutions: The Future of Electronic Security Solutions for Modern Businesses | Ciss India | [Read More](https://medium.com/p/9e79a5bdfcf6) |
-| Fri, 30 Jan 2026 05:58:54 GMT | Locksmith London — Trusted 24/7 Support for Homes and Businesses | The Lock Specialist Ltd | [Read More](https://medium.com/p/7ec6f43dedd3) |
-| Fri, 30 Jan 2026 05:57:16 GMT | PCI DSS in 2026: Rethinking Card Data Security in a Borderless Digital World | Lakshita Gulliya | [Read More](https://medium.com/p/879305beadc1) |
-| Fri, 30 Jan 2026 05:56:02 GMT | Digital Cross Point Switches Market to Reach US$ 78.18 Billion by 2029, Growing at a CAGR of 10.7% | kalpesh rajput | [Read More](https://medium.com/p/7411e2677eb5) |
-| Fri, 30 Jan 2026 05:55:43 GMT | Local Locksmith Near Me for Reliable and Secure Service in London | The Lock Specialist Ltd | [Read More](https://medium.com/p/74b0d0c6e56d) |
-| Fri, 30 Jan 2026 05:42:41 GMT | Network Detection and Response Today: From Visibility to Autonomous Defense | NetWitness | [Read More](https://medium.com/p/44711a1b72e4) |
-| Fri, 30 Jan 2026 05:30:30 GMT | Beyond the Linear Wall: Why Your Digital Architecture Needs a 6-Dimensional “Biological” Reboot | Peruse Magazine | [Read More](https://medium.com/p/5f4ba0742240) |
