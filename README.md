@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 Jan 2026 09:31:01 GMT | Sweet Optimization: How C# Linear Programming Turned Chocolate Constraints into Confectionery Gold | Namir Sagheenanajar | [Read More](https://medium.com/p/0fd816ff5b5d) |
+| Fri, 30 Jan 2026 09:23:41 GMT | DockerLabs Writeup — Race (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/51cce2835f79) |
+| Fri, 30 Jan 2026 09:19:02 GMT | ด่วน! แจ้งเตือนช่องโหว่ร้ายแรงใน GNU InetUtils telnetd | ThaiCERT By NCSA | [Read More](https://medium.com/p/cf74ee86bfc4) |
+| Fri, 30 Jan 2026 09:01:28 GMT | Free Article: The Onboarding Void | Michael B | [Read More](https://medium.com/p/943253609dc3) |
+| Fri, 30 Jan 2026 09:01:05 GMT | The $10K Bug Bounty Playbook: 15 Automation Workflows That Actually Pay (2026 Edition) | BugHunter’s Journal | [Read More](https://medium.com/p/737d1331f80a) |
+| Fri, 30 Jan 2026 09:01:04 GMT | Your Vendors Have Leaked Credentials. Here’s How to Check. | Alexandre Vandamme | [Read More](https://medium.com/p/a661fc170da7) |
+| Fri, 30 Jan 2026 09:00:38 GMT | บทเรียนจากการเข้าอบรม Security Literacy | Thanaphat Ketsani | [Read More](https://medium.com/p/d93e2d85c6ed) |
+| Fri, 30 Jan 2026 08:57:32 GMT | cyber security carrier path after graduation | Muhammed abdul haady | [Read More](https://medium.com/p/b40ef604fb27) |
+| Fri, 30 Jan 2026 08:42:40 GMT | I Doubt Myself More Than I Admit | Alice Sam | [Read More](https://medium.com/p/90506ba4065d) |
+| Fri, 30 Jan 2026 08:41:23 GMT | Think You’re Safe? Red Teams Already Have Your Data | Redfox Security | [Read More](https://medium.com/p/49a3fa5476d0) |
+| Fri, 30 Jan 2026 08:37:56 GMT | Cybersecurity Threat Intelligence Research Report - Jan 2026 Highlights | cyber_0xGambit | [Read More](https://medium.com/p/1f84eb58144c) |
 | Fri, 30 Jan 2026 08:25:56 GMT | Unlocking the Locker: A Technical Dive into AppLock Vulnerabilities | lightofmoon | [Read More](https://medium.com/p/b0227485a5ec) |
 | Fri, 30 Jan 2026 08:25:12 GMT | I Deployed Wazuh in My Own SOC Lab — What Broke, What Worked, and What I Actually Learned | Edric Kristian Gantes | [Read More](https://medium.com/p/9369be37ed80) |
 | Fri, 30 Jan 2026 08:24:29 GMT | Identity and Access Management (IAM): A Complete Guide with Examples, Best Practices, and Tools | Dennis Duke | [Read More](https://medium.com/p/a8e284bf11f7) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 Jan 2026 00:15:06 GMT | 2 Billion Android Users at Risk: The Hidden Danger in WhatsApp Images | Er Mohsin Shabir | [Read More](https://medium.com/p/fb2d7443fe4e) |
 | Fri, 30 Jan 2026 00:13:35 GMT | THM AoC 2025: The Great Disappearing Act | Danieltruong | [Read More](https://medium.com/p/dfb69977bd68) |
 | Fri, 30 Jan 2026 00:01:02 GMT | Guía de WhatWeb: Fingerprinting y Reconocimiento para Bug Hunting | JPablo13 | [Read More](https://medium.com/p/1a9360ecb05c) |
-| Thu, 29 Jan 2026 23:36:44 GMT | ☠️ Investigating Internet-Exposed RDP Activity Using Microsoft Defender XDR | Julian Smith | [Read More](https://medium.com/p/76f19be07d4d) |
-| Thu, 29 Jan 2026 23:09:52 GMT | Freeze-Frame | No blabs | [Read More](https://medium.com/p/71905aab00bf) |
-| Thu, 29 Jan 2026 22:49:40 GMT | Public Key Cryptography Basics — TryHackMe Answers - by Deepti Gupta | Deeptisg | [Read More](https://medium.com/p/d595d6fc813d) |
-| Thu, 29 Jan 2026 22:47:05 GMT | TheReport (BlueTeamLabs) | IgnoranzaSolare | [Read More](https://medium.com/p/c1921f265495) |
-| Thu, 29 Jan 2026 22:44:25 GMT | We Have the First Malware for Clawdbot | kyriakos katsaras | [Read More](https://medium.com/p/4aaefbc8641f) |
-| Thu, 29 Jan 2026 22:41:50 GMT | 2026 Trends in Third-Party Risk Management: Insights from OCEG | Alexa Johnston | [Read More](https://medium.com/p/ee7c32526f9d) |
-| Thu, 29 Jan 2026 22:35:02 GMT | Lets talk about GRC… | Bobbie á Deild | [Read More](https://medium.com/p/d73a7c76207d) |
-| Thu, 29 Jan 2026 22:23:53 GMT | My journey into the cyber rabbit hole… | Bobbie A Deild | [Read More](https://medium.com/p/703c56d10ce9) |
-| Thu, 29 Jan 2026 22:10:40 GMT | QueueUserAPC2 Process Injection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/f57473dfe251) |
-| Thu, 29 Jan 2026 22:04:42 GMT | Directory Traversal Filter Bypass | Niko | [Read More](https://medium.com/p/42bca54c5a2a) |
-| Thu, 29 Jan 2026 21:51:34 GMT | Why Traditional AI Fails at Fraud Detection, and How Cost-Aware Optimization Is Changing FinTech | Maroof Ashraf | [Read More](https://medium.com/p/10e97620f7d1) |
