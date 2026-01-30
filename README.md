@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 Jan 2026 12:40:43 GMT | AI & Privacy Compliance: Why ISO 42001 and DPDP Act 2023 Matter Together | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/e7afb2208f1e) |
+| Fri, 30 Jan 2026 12:37:20 GMT | Blind SQL Injection Attacks | Amrsmooke | [Read More](https://medium.com/p/93a4ed86172a) |
+| Fri, 30 Jan 2026 12:35:24 GMT | How AI-Powered Cybersecurity Startups Use Guest Post Outreach to Build Trust and Authority | Top Tech Outreach | [Read More](https://medium.com/p/04dd3ef81f53) |
+| Fri, 30 Jan 2026 12:32:38 GMT | From Wired to Weird: The Alchemy of AI and the Long Con of the "Visionary"
+Since the big tech… | Sean Burke | [Read More](https://medium.com/p/394bff3823af) |
+| Fri, 30 Jan 2026 12:31:16 GMT | TryHackme Walkthrough — Overpass | Lakshay Nimwal | [Read More](https://medium.com/p/838c1e204334) |
+| Fri, 30 Jan 2026 12:26:57 GMT | Compliance Warning: Critical Audit Findings Regarding SISVIDA Settlement Protocols | Certification Flow Laboratories | [Read More](https://medium.com/p/e7d5124a5c63) |
+| Fri, 30 Jan 2026 12:26:02 GMT | BITCOIN RECOVERY EXPERT | CHARLES LEVIN | [Read More](https://medium.com/p/a28332e9f012) |
+| Fri, 30 Jan 2026 12:25:06 GMT | QRadar vs Splunk: Which SIEM is Right for Your Enterprise in 2026?QRadar | CyberAube Technologies | [Read More](https://medium.com/p/6adff715666d) |
+| Fri, 30 Jan 2026 12:18:15 GMT | Accounting | Nidhisharma Freelancework | [Read More](https://medium.com/p/9041709ded0f) |
+| Fri, 30 Jan 2026 12:10:51 GMT | It’s Loud. It’s Fast. It Has Root Access. | Jasmina Ciconkova Lazoroska | [Read More](https://medium.com/p/870e07941945) |
+| Fri, 30 Jan 2026 12:03:25 GMT | Why Security Is So Widely Misunderstood, And Why That Needs to Change | Luke Appleby | [Read More](https://medium.com/p/ac5f7744f071) |
+| Fri, 30 Jan 2026 12:01:03 GMT | Cybersecurity Turns Into a Second Job You Never Applied For | Angus Peterson | [Read More](https://medium.com/p/9891b00464de) |
+| Fri, 30 Jan 2026 12:01:02 GMT | Why I Stopped Trusting Plain-Text Backups in VS Code (And Built My Own Encryption) | freerave | [Read More](https://medium.com/p/3a900081724e) |
+| Fri, 30 Jan 2026 11:51:20 GMT | My First Encounter with the SQL Goddess | Ghost | [Read More](https://medium.com/p/d18821856fc1) |
+| Fri, 30 Jan 2026 11:47:30 GMT | The Truth About Low-Cost Hosting and Long-Term Performance | Mary Thomas | [Read More](https://medium.com/p/7d4d700aaf30) |
+| Fri, 30 Jan 2026 11:36:02 GMT | Beyond the Firewall: The 5 Pillars of Modern Cybersecurity Architecture | DevTutorials | [Read More](https://medium.com/p/196099d75520) |
+| Fri, 30 Jan 2026 11:30:18 GMT | From Theory to Practice: Cybersecurity Frameworks Explained | Ankita Sinha | [Read More](https://medium.com/p/5dbfccf14c1e) |
 | Fri, 30 Jan 2026 11:22:08 GMT | No one really tells you how hard the jump from college to career can be. | Dipti Singh | [Read More](https://medium.com/p/e34076afe83e) |
 | Fri, 30 Jan 2026 11:17:29 GMT | Is Your WiFi Safe? The Truth About WPS and MAC Filtering | Raviteja Mureboina | [Read More](https://medium.com/p/25c68dd6a8b1) |
 | Fri, 30 Jan 2026 11:17:13 GMT | Beyond the Firewall: Why the Best Cybersecurity Company is Your Strategic Growth Partner | Reflect security solutions | [Read More](https://medium.com/p/6f5bc731dd1c) |
@@ -95,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 Jan 2026 05:55:43 GMT | Local Locksmith Near Me for Reliable and Secure Service in London | The Lock Specialist Ltd | [Read More](https://medium.com/p/74b0d0c6e56d) |
 | Fri, 30 Jan 2026 05:42:41 GMT | Network Detection and Response Today: From Visibility to Autonomous Defense | NetWitness | [Read More](https://medium.com/p/44711a1b72e4) |
 | Fri, 30 Jan 2026 05:30:30 GMT | Beyond the Linear Wall: Why Your Digital Architecture Needs a 6-Dimensional “Biological” Reboot | Peruse Magazine | [Read More](https://medium.com/p/5f4ba0742240) |
-| Fri, 30 Jan 2026 05:26:12 GMT | Hire n8n Developers for Smart, Scalable Workflow Automation Solutions | n8ndevelopers | [Read More](https://medium.com/p/16bb8675cfca) |
-| Fri, 30 Jan 2026 05:23:56 GMT | Online Ethical Hacking Courses for Real-World Skills | Kunal Arora | [Read More](https://medium.com/p/b9c85adadac2) |
-| Fri, 30 Jan 2026 05:21:41 GMT | Move and Countermove: Game Theory Aspects of Detection Engineering | Koifsec | [Read More](https://medium.com/p/c8284245c6c5) |
-| Fri, 30 Jan 2026 05:21:11 GMT | DFIR Services Market: How Digital Forensics Is Shaping Cyber Resilience | Gauri Kale | [Read More](https://medium.com/p/ea561dc5daa5) |
-| Fri, 30 Jan 2026 05:17:45 GMT | I discovered fake Python spellchecker packages on PyPI delivering RATs and the sophistication is… | Harsh Raj Singhania | [Read More](https://medium.com/p/00f14eb7bbe1) |
-| Fri, 30 Jan 2026 05:11:16 GMT | Is CEH Certification Worth It for Beginners in Cybersecurity? | Ryan Brooks | [Read More](https://medium.com/p/dfd58baf05b1) |
-| Fri, 30 Jan 2026 05:08:51 GMT | When Verification Becomes Operational — Building Security That Survives Real-World Pressure | sengom | [Read More](https://medium.com/p/a1808b04c4ee) |
-| Fri, 30 Jan 2026 05:06:41 GMT | How to Perform Reconnaissance using an Attack Vector safely on your home network using Linux —… | Dhanyapandey | [Read More](https://medium.com/p/d30d37d001b8) |
-| Fri, 30 Jan 2026 04:48:00 GMT | # I Was Hacked at the Carrier Level. Here’s the Open-Source Tool I Built to Fight Back. | Mark Phillips | [Read More](https://medium.com/p/1590557288dd) |
-| Fri, 30 Jan 2026 04:33:58 GMT | Inside a Real-World DLL Side-Loading Attack Leveraging Geopolitical News | Deven Chhajed | [Read More](https://medium.com/p/a71da4563ee1) |
-| Fri, 30 Jan 2026 04:33:16 GMT | How I Caught an APT Spying on the SOC By Samuel Adetola | Samuel ADETOLA | [Read More](https://medium.com/p/97521192f002) |
-| Fri, 30 Jan 2026 04:31:09 GMT | JavaScript Privacy: Local-First Patterns Users Trust | Praxen | [Read More](https://medium.com/p/b3f3ebf725ed) |
-| Fri, 30 Jan 2026 04:31:08 GMT | n8n Multi-Tenant: Teams Split, Security Intact | Vectorlane | [Read More](https://medium.com/p/b1183bfa0997) |
-| Fri, 30 Jan 2026 04:31:08 GMT | Stop Sharing Kubectl Tokens: Set Up Google SSO for Kubernetes Dashboard | Mathumathiv | [Read More](https://medium.com/p/422e0049e6b6) |
-| Fri, 30 Jan 2026 04:31:08 GMT | n8n Compliance: Audit Trails Reviewers Trust | Nexumo | [Read More](https://medium.com/p/10266ce9ab29) |
-| Fri, 30 Jan 2026 04:22:22 GMT | Why “No Malware Found” ≠ “System Is Clean” | Paritosh | [Read More](https://medium.com/p/0162af7b0463) |
-| Fri, 30 Jan 2026 04:20:46 GMT | Mastering SQL Filters: Real-World Examples for Security and Employee Data Analysis | Jaylen S. | [Read More](https://medium.com/p/d4689b2f142b) |
