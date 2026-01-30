@@ -12,8 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 Jan 2026 06:50:29 GMT | n8n RCE vulnerabilities: CVE-2026–1470 and CVE-2026–0863 expose automation workflows to takeover | Germano Costi | [Read More](https://medium.com/p/743ef19470c8) |
+| Fri, 30 Jan 2026 06:46:19 GMT | Customizing ERPNext for Industry-Specific Needs | Indsys Holdings India Private Limited | [Read More](https://medium.com/p/3644391adbf4) |
+| Fri, 30 Jan 2026 06:43:04 GMT | ITIL Framework Explained: A flexible IT service management framework | Dennis Duke | [Read More](https://medium.com/p/54554035f116) |
+| Fri, 30 Jan 2026 06:36:33 GMT | The Corix Partners Friday Reading List — January 30, 2026 | JC Gaillard | [Read More](https://medium.com/p/85ef80a757de) |
+| Fri, 30 Jan 2026 06:32:38 GMT | AWS Disaster Recovery Solutions & Cloud Consulting Services by F9 Infotech for Secure Business… | F9 Infotech | [Read More](https://medium.com/p/d63132b71b06) |
+| Fri, 30 Jan 2026 06:15:30 GMT | Comprehensive Guide to Security Operations Centers | Khabbab Sarker | [Read More](https://medium.com/p/9ef26e751ee5) |
+| Fri, 30 Jan 2026 06:08:45 GMT | When the Light Reveals What the Darkness Protected | Mayukh Sarma | [Read More](https://medium.com/p/7f9e0d344a3b) |
+| Fri, 30 Jan 2026 06:06:19 GMT | Chainlink — Smart Contract Vulnerability Labeling 101 | Sponge | [Read More](https://medium.com/p/b20674e1093d) |
+| Fri, 30 Jan 2026 06:05:28 GMT | Scheduled Sabotage: Privilege Escalation via Misconfigured Backup Scripts | Madaminovrahmatilloh | [Read More](https://medium.com/p/b2307bbeb009) |
+| Fri, 30 Jan 2026 06:00:51 GMT | Total Security Solutions: The Future of Electronic Security Solutions for Modern Businesses | Ciss India | [Read More](https://medium.com/p/9e79a5bdfcf6) |
+| Fri, 30 Jan 2026 05:58:54 GMT | Locksmith London — Trusted 24/7 Support for Homes and Businesses | The Lock Specialist Ltd | [Read More](https://medium.com/p/7ec6f43dedd3) |
+| Fri, 30 Jan 2026 05:57:16 GMT | PCI DSS in 2026: Rethinking Card Data Security in a Borderless Digital World | Lakshita Gulliya | [Read More](https://medium.com/p/879305beadc1) |
+| Fri, 30 Jan 2026 05:56:02 GMT | Digital Cross Point Switches Market to Reach US$ 78.18 Billion by 2029, Growing at a CAGR of 10.7% | kalpesh rajput | [Read More](https://medium.com/p/7411e2677eb5) |
+| Fri, 30 Jan 2026 05:55:43 GMT | Local Locksmith Near Me for Reliable and Secure Service in London | The Lock Specialist Ltd | [Read More](https://medium.com/p/74b0d0c6e56d) |
+| Fri, 30 Jan 2026 05:42:41 GMT | Network Detection and Response Today: From Visibility to Autonomous Defense | NetWitness | [Read More](https://medium.com/p/44711a1b72e4) |
 | Fri, 30 Jan 2026 05:30:30 GMT | Beyond the Linear Wall: Why Your Digital Architecture Needs a 6-Dimensional “Biological” Reboot | Peruse Magazine | [Read More](https://medium.com/p/5f4ba0742240) |
 | Fri, 30 Jan 2026 05:26:12 GMT | Hire n8n Developers for Smart, Scalable Workflow Automation Solutions | n8ndevelopers | [Read More](https://medium.com/p/16bb8675cfca) |
+| Fri, 30 Jan 2026 05:23:56 GMT | Online Ethical Hacking Courses for Real-World Skills | Kunal Arora | [Read More](https://medium.com/p/b9c85adadac2) |
 | Fri, 30 Jan 2026 05:21:41 GMT | Move and Countermove: Game Theory Aspects of Detection Engineering | Koifsec | [Read More](https://medium.com/p/c8284245c6c5) |
 | Fri, 30 Jan 2026 05:21:11 GMT | DFIR Services Market: How Digital Forensics Is Shaping Cyber Resilience | Gauri Kale | [Read More](https://medium.com/p/ea561dc5daa5) |
 | Fri, 30 Jan 2026 05:17:45 GMT | I discovered fake Python spellchecker packages on PyPI delivering RATs and the sophistication is… | Harsh Raj Singhania | [Read More](https://medium.com/p/00f14eb7bbe1) |
@@ -29,6 +45,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 Jan 2026 04:31:08 GMT | n8n Compliance: Audit Trails Reviewers Trust | Nexumo | [Read More](https://medium.com/p/10266ce9ab29) |
 | Fri, 30 Jan 2026 04:22:22 GMT | Why “No Malware Found” ≠ “System Is Clean” | Paritosh | [Read More](https://medium.com/p/0162af7b0463) |
 | Fri, 30 Jan 2026 04:20:46 GMT | Mastering SQL Filters: Real-World Examples for Security and Employee Data Analysis | Jaylen S. | [Read More](https://medium.com/p/d4689b2f142b) |
+| Fri, 30 Jan 2026 04:20:04 GMT | Bukan Lulusan IT ? Strategi Masuk Dunia Tech Lewat Karier Data Analyst dengan Python & SQL | Deandrafadilah | [Read More](https://medium.com/p/c8c26e17abe9) |
 | Fri, 30 Jan 2026 04:17:39 GMT | Xingtu APK | Apkpuredev | [Read More](https://medium.com/p/ae4711158080) |
 | Fri, 30 Jan 2026 04:09:26 GMT | Top 10 Cybersecurity Providers in Houston | Cloudavize | [Read More](https://medium.com/p/b28db2391567) |
 | Fri, 30 Jan 2026 04:01:03 GMT | Xi Jinping Purges His Closest General, Leaving Himself Alone at the Apex of the World’s Largest Army | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/7e3ff66ebe1e) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 29 Jan 2026 20:04:10 GMT | OWASP Mobile Top 10: Hatalı Kimlik Bilgisi Kullanımı (M1) | Barış Kandemir | [Read More](https://medium.com/p/b8cb6ce8df67) |
 | Thu, 29 Jan 2026 20:04:07 GMT | Episode 5: Load Balancer Security Auditor — SSL, Protocols, and Public Exposure | Tarek CHEIKH | [Read More](https://medium.com/p/b7f97c4bee1c) |
 | Thu, 29 Jan 2026 19:55:12 GMT | Tryhackme Pickle Rick CTF Write-Up | Kandemirryigit | [Read More](https://medium.com/p/5c453dd65479) |
-| Thu, 29 Jan 2026 19:54:53 GMT | JWT: Is Security Really That Simple? | Enes Efe Tokta | [Read More](https://medium.com/p/b5e47fa9fc4e) |
-| Thu, 29 Jan 2026 19:54:27 GMT | Hacker kid 1.0.1 — OSCP Raw - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/36dd9440ef09) |
-| Thu, 29 Jan 2026 19:51:21 GMT | Private Security Provider Management and Control Manual | Noticias LATAM | [Read More](https://medium.com/p/fb5ba941450f) |
-| Thu, 29 Jan 2026 19:50:41 GMT | Cyber Security | Îbrãhìm Sabir | [Read More](https://medium.com/p/7e560640df59) |
-| Thu, 29 Jan 2026 19:37:03 GMT | The 3 AM Disaster: Why Your AI Agents Are Your Biggest Security Threat | John Williams | [Read More](https://medium.com/p/7a156ebbd05c) |
-| Thu, 29 Jan 2026 19:34:17 GMT | TryHackMe (THM) Active Reconnaissance Walkthrough + Answers | Mann Diwani | [Read More](https://medium.com/p/2e694792a743) |
-| Thu, 29 Jan 2026 19:32:33 GMT | # Basic Pentesting: THM — Complete Walkthrough | MAKSIM HARASHCHUK | [Read More](https://medium.com/p/928887958d10) |
-| Thu, 29 Jan 2026 19:23:49 GMT | My learning as a Cybersecurity intern at a Startup | Shreyashkumar | [Read More](https://medium.com/p/470e5aa9013d) |
-| Thu, 29 Jan 2026 19:23:07 GMT | DEFENSE IN DEPTH: A Layered Defense Approach in Information Security | dilan alpaltun | [Read More](https://medium.com/p/f1da20f5cdd9) |
-| Thu, 29 Jan 2026 19:19:49 GMT | SOC Analyst Handbook: Detecting Cross-Site Scripting (XSS) | Vishwas Adhikari | [Read More](https://medium.com/p/821addc3cfa6) |
-| Thu, 29 Jan 2026 19:17:32 GMT | CIA TRIAD: The Three Pillars of Cybersecurity | dilan alpaltun | [Read More](https://medium.com/p/c1c2fe1fce22) |
-| Thu, 29 Jan 2026 19:17:02 GMT | IDOR : Simple to Understand, easy to miss | Anshkamra | [Read More](https://medium.com/p/4beea0b4847b) |
-| Thu, 29 Jan 2026 19:12:36 GMT | How to Freeze Your Credit Score (And Why You Should) | Shane Spear | [Read More](https://medium.com/p/2c640c36580d) |
-| Thu, 29 Jan 2026 19:07:24 GMT | TryHackMe Pickle Rick — Write-up | Ramy | [Read More](https://medium.com/p/7b7a0728ba7f) |
-| Thu, 29 Jan 2026 19:05:29 GMT | ClawdBot: A Flawed Facade Disguised as Autonomy | Jonathan Capriola | [Read More](https://medium.com/p/1b031ddfa9c8) |
-| Thu, 29 Jan 2026 19:03:46 GMT | Appsmith’s Miss Does Not Mean “Low-Code is Risky” | Nigel Tape | [Read More](https://medium.com/p/d141acf4f7bd) |
-| Thu, 29 Jan 2026 19:02:15 GMT | Hands-on: BigQuery Data Encryption and Key Rotation | Karanrat Rattanawichai | [Read More](https://medium.com/p/a2e06f29aa02) |
