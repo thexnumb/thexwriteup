@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 Jan 2026 21:25:17 GMT | HackThisSite — Basic Level 3 — Publicly Accessible Sensitive Files | Javier | [Read More](https://medium.com/p/7e9cb621212e) |
+| Fri, 30 Jan 2026 21:14:43 GMT | AI Acceptable Use Policy — How to Use AI Safely | Emory French | [Read More](https://medium.com/p/6b212484bb88) |
+| Fri, 30 Jan 2026 21:12:06 GMT | Analyzing a malware that steals payments via QR codes (PixStealer) | Nickguitar | [Read More](https://medium.com/p/dd697b2e5f75) |
+| Fri, 30 Jan 2026 21:11:09 GMT | Day 5 : Metasploit pt.2 — Meterpreter | Cybersecurity with Jojo | [Read More](https://medium.com/p/bb37b91c34c1) |
+| Fri, 30 Jan 2026 21:09:53 GMT | Análise de um malware que rouba Pix (PixStealer) | Nickguitar | [Read More](https://medium.com/p/a25cfc52f1ab) |
+| Fri, 30 Jan 2026 20:45:11 GMT | Deploying PrestaShop on AWS for Free: A Secure Two-Tier Architecture Guide | Sunday Vegher | [Read More](https://medium.com/p/fa9f51fb14df) |
+| Fri, 30 Jan 2026 20:39:48 GMT | AI Governance vs AI Security | Nathaniel Niyazov | [Read More](https://medium.com/p/f0528c0e0446) |
 | Fri, 30 Jan 2026 20:23:46 GMT | The Davos Epitaph | Victor Babaniyi | [Read More](https://medium.com/p/051b862b98d3) |
 | Fri, 30 Jan 2026 20:06:44 GMT | Day 6: Network devices and Topologies | Siddhesh Patil | [Read More](https://medium.com/p/7c445a2ca173) |
 | Fri, 30 Jan 2026 20:03:21 GMT | Most Breaches Don’t Start With Malware — Here’s What They Start With | JSOC IT BLOG | [Read More](https://medium.com/p/479f60dcfb25) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 Jan 2026 14:31:02 GMT | What is a MAC Address and How to Change It in Kali Linux | Vignesh R | [Read More](https://medium.com/p/9a14f32dadb4) |
 | Fri, 30 Jan 2026 14:27:26 GMT | The Agentic Threat: Why Personal AI Agents Are the Next Cyber Battleground | evoailabs | [Read More](https://medium.com/p/907d63f4265f) |
 | Fri, 30 Jan 2026 14:24:37 GMT | Protecting Your Online Privacy with Proton VPN | Infinity Matrix | [Read More](https://medium.com/p/ed876ff2dc7b) |
-| Fri, 30 Jan 2026 14:15:28 GMT | OWASP Top 10 (2025) Through a Network Lens | Gajanan Tayde | [Read More](https://medium.com/p/2705da0986f3) |
-| Fri, 30 Jan 2026 14:11:01 GMT | Jaguar Key Fob Programming - Fast, Professional Service | Sure Lock & Key LLC | [Read More](https://medium.com/p/7062ef7869d0) |
-| Fri, 30 Jan 2026 13:52:40 GMT | Secure the Jaxon DbAdmin database credentials with Infisical | Thierry Feuzeu | [Read More](https://medium.com/p/995979891bad) |
-| Fri, 30 Jan 2026 13:46:14 GMT | Osquery for Dummies | Shivam Bathla | [Read More](https://medium.com/p/c959942440b2) |
-| Fri, 30 Jan 2026 13:45:30 GMT | My Journey to becoming a certified OffSec Web Expert (OSWE) | Shantanu | [Read More](https://medium.com/p/267d31341fbd) |
-| Fri, 30 Jan 2026 13:43:28 GMT | €1800 Bounty: How I Promoted Myself to Admin by “Asking” the Server Nicely | Ashar Mahmood | [Read More](https://medium.com/p/810ef2dbe7bf) |
-| Fri, 30 Jan 2026 13:41:06 GMT | When Your IDE Becomes the Adversary: Analyzing the AWS Kiro Command Injection (CVE-2026–0830) | Alessandro Pignati | [Read More](https://medium.com/p/ea061967ffc9) |
