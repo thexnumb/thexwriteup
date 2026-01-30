@@ -12,7 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 Jan 2026 18:35:21 GMT | How a “Safe” Analytics Endpoint Leaked Real User Behavior | Iski | [Read More](https://medium.com/p/9c75b38bcde6) |
+| Fri, 30 Jan 2026 18:31:30 GMT | Hunting with Zeek and Splunk — 2 | Manish [pikachu] | [Read More](https://medium.com/p/b8445713ce04) |
+| Fri, 30 Jan 2026 18:31:01 GMT | Why You Must Update to iOS 26 Now: Security Risks Explained | Sherin | [Read More](https://medium.com/p/f3fb250938bf) |
+| Fri, 30 Jan 2026 18:25:21 GMT | Precisely timestamping an audio recording through ENF analysis: AC-hell, haix-la-chapelle-2025 CTF… | Scorpius | [Read More](https://medium.com/p/7026be1f5da9) |
+| Fri, 30 Jan 2026 18:24:26 GMT | Clawdbot (Now Moltbot): The AI That Works for You — or Spies on You? | Nazrul Islam Rana | [Read More](https://medium.com/p/500afc696a2e) |
+| Fri, 30 Jan 2026 18:23:33 GMT | AI Security Reports — January 2025 | Tal Eliyahu | [Read More](https://medium.com/p/3db5854196ea) |
+| Fri, 30 Jan 2026 18:21:21 GMT | The 1inch Fusion v1 Exploit: How a Calldata Corruption Vulnerability Drained $5 Million | Olympix | [Read More](https://medium.com/p/d5667c83fc2a) |
+| Fri, 30 Jan 2026 18:21:16 GMT | Secrets in the AI Era: Where Plaintext Lives | Taubyte | [Read More](https://medium.com/p/d97bab83610b) |
+| Fri, 30 Jan 2026 18:20:32 GMT | I Offer Everything. And I Still Hope Someone Gives It Back. | KV | [Read More](https://medium.com/p/4dc359e0e078) |
+| Fri, 30 Jan 2026 18:14:09 GMT | “I Tried to Break My Own AWS Account — Here’s What It Taught Me About Real AWS Security” | ShubhamSurvase | [Read More](https://medium.com/p/c93c90737d96) |
+| Fri, 30 Jan 2026 18:10:23 GMT | If You Think Cape Mobile Is Secure — Think Again | Samuel Brice | [Read More](https://medium.com/p/37ce5bbf76d5) |
+| Fri, 30 Jan 2026 18:07:52 GMT | When AI Plays Detective: Recovering 200 Lost Credit Notes | Omar Antonio Díaz Peña | [Read More](https://medium.com/p/1aa5c0766899) |
+| Fri, 30 Jan 2026 18:07:11 GMT | Qrypta: Pioneering the Post-Quantum Future in Crypto as Ethereum Accelerates Its Defenses Tech and… | Qrypta | [Read More](https://medium.com/p/ab4a6c0b805c) |
+| Fri, 30 Jan 2026 18:01:02 GMT | I Hid My Entire Bitcoin Seed Phrase in a Family Photo (And Nobody Knew) | Simon Reed | [Read More](https://medium.com/p/6f31ca80a5e5) |
+| Fri, 30 Jan 2026 18:00:16 GMT | TryHackMe - Cloud Security Pitfalls - WriteUp | Axoloth | [Read More](https://medium.com/p/0674d5d82a4c) |
+| Fri, 30 Jan 2026 17:57:20 GMT | Engineering Secure Agentic Systems at Scale | Adrianna Valle | [Read More](https://medium.com/p/f66b10d1366e) |
+| Fri, 30 Jan 2026 17:56:27 GMT | The OAuth mechanism and its most common flows | Evyeveline | [Read More](https://medium.com/p/c6186935ab1b) |
+| Fri, 30 Jan 2026 17:55:36 GMT | [PortSwigger][Practitioner] - Lab: CSRF where token is not tied to user session | Javiki | [Read More](https://medium.com/p/ccdf23b43f4b) |
+| Fri, 30 Jan 2026 17:52:20 GMT | Cross-Site Request Forgery (CSRF): A Practical Methodology for Security Testing | Israel Aráoz Severiche | [Read More](https://medium.com/p/e7e7283c2132) |
+| Fri, 30 Jan 2026 17:49:25 GMT | 10 Security Mistakes in Python Apps | Muhammad Huzair Awan | [Read More](https://medium.com/p/33233bc62ef9) |
+| Fri, 30 Jan 2026 17:46:21 GMT | The Dichotomy of Songs: Finding Balance in an Age of Labels | Mohammad Bader | [Read More](https://medium.com/p/5ca20aabafde) |
+| Fri, 30 Jan 2026 17:44:37 GMT | The Professional’s Playbook: 25 Rules for the Bug Bounty Grind | Thexssrat | [Read More](https://medium.com/p/d3612b139c89) |
+| Fri, 30 Jan 2026 17:33:01 GMT | Why Real End-to-End Testing is Crucial for Security and Functionality | Hassanmaroof | [Read More](https://medium.com/p/8dddcc9cd45b) |
 | Fri, 30 Jan 2026 17:31:16 GMT | Securing OpenClaw with Labrat Glitch: Guardrails for Your AI Agent Gateway | David Anderson | [Read More](https://medium.com/p/e494b184c0c1) |
+| Fri, 30 Jan 2026 17:27:12 GMT | How to “Doomscroll” Your Way to a CISSP, CISA, COMPTIA Security+, OSCP, CCSP and AWS Security in 15… | The Daily Cyber News | [Read More](https://medium.com/p/d175ff29d471) |
 | Fri, 30 Jan 2026 17:25:55 GMT | BlueMoon: 2021 — A Deep Walkthrough (From Zero to Root) | Amandogra | [Read More](https://medium.com/p/8d72c033b5b9) |
 | Fri, 30 Jan 2026 17:21:01 GMT | The NCF : A brief overview | Hobin Rood | [Read More](https://medium.com/p/ed1cc8ab56f0) |
 | Fri, 30 Jan 2026 17:17:36 GMT | Erasing Amalek, Becoming Israel (Beshalach) | Rabbi Menachem Creditor | [Read More](https://medium.com/p/f0cfd6d1afb4) |
@@ -88,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 Jan 2026 13:01:30 GMT | Inside the Security Operations Center (SOC): The First Line of Cyber Defense | Harmit Warang (psyducky0) | [Read More](https://medium.com/p/82d64b1cf5a1) |
 | Fri, 30 Jan 2026 13:01:03 GMT | The Secret Blueprint: How Computers, Software, and Malware Were Modeled After the Human Body &… | Bits & Bytes Podcast Newsletter | [Read More](https://medium.com/p/d075658e8e0e) |
 | Fri, 30 Jan 2026 12:40:43 GMT | AI & Privacy Compliance: Why ISO 42001 and DPDP Act 2023 Matter Together | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/e7afb2208f1e) |
-| Fri, 30 Jan 2026 12:37:20 GMT | Blind SQL Injection Attacks | Amrsmooke | [Read More](https://medium.com/p/93a4ed86172a) |
-| Fri, 30 Jan 2026 12:35:24 GMT | How AI-Powered Cybersecurity Startups Use Guest Post Outreach to Build Trust and Authority | Top Tech Outreach | [Read More](https://medium.com/p/04dd3ef81f53) |
-| Fri, 30 Jan 2026 12:32:38 GMT | From Wired to Weird: The Alchemy of AI and the Long Con of the "Visionary"
-Since the big tech… | Sean Burke | [Read More](https://medium.com/p/394bff3823af) |
-| Fri, 30 Jan 2026 12:31:16 GMT | TryHackme Walkthrough — Overpass | Lakshay Nimwal | [Read More](https://medium.com/p/838c1e204334) |
-| Fri, 30 Jan 2026 12:26:57 GMT | Compliance Warning: Critical Audit Findings Regarding SISVIDA Settlement Protocols | Certification Flow Laboratories | [Read More](https://medium.com/p/e7d5124a5c63) |
-| Fri, 30 Jan 2026 12:26:02 GMT | BITCOIN RECOVERY EXPERT | CHARLES LEVIN | [Read More](https://medium.com/p/a28332e9f012) |
-| Fri, 30 Jan 2026 12:25:06 GMT | QRadar vs Splunk: Which SIEM is Right for Your Enterprise in 2026?QRadar | CyberAube Technologies | [Read More](https://medium.com/p/6adff715666d) |
-| Fri, 30 Jan 2026 12:18:15 GMT | Accounting | Nidhisharma Freelancework | [Read More](https://medium.com/p/9041709ded0f) |
-| Fri, 30 Jan 2026 12:10:51 GMT | It’s Loud. It’s Fast. It Has Root Access. | Jasmina Ciconkova Lazoroska | [Read More](https://medium.com/p/870e07941945) |
-| Fri, 30 Jan 2026 12:03:25 GMT | Why Security Is So Widely Misunderstood, And Why That Needs to Change | Luke Appleby | [Read More](https://medium.com/p/ac5f7744f071) |
-| Fri, 30 Jan 2026 12:01:03 GMT | Cybersecurity Turns Into a Second Job You Never Applied For | Angus Peterson | [Read More](https://medium.com/p/9891b00464de) |
-| Fri, 30 Jan 2026 12:01:02 GMT | Why I Stopped Trusting Plain-Text Backups in VS Code (And Built My Own Encryption) | freerave | [Read More](https://medium.com/p/3a900081724e) |
-| Fri, 30 Jan 2026 11:51:20 GMT | My First Encounter with the SQL Goddess | Ghost | [Read More](https://medium.com/p/d18821856fc1) |
-| Fri, 30 Jan 2026 11:47:30 GMT | The Truth About Low-Cost Hosting and Long-Term Performance | Mary Thomas | [Read More](https://medium.com/p/7d4d700aaf30) |
-| Fri, 30 Jan 2026 11:36:02 GMT | Beyond the Firewall: The 5 Pillars of Modern Cybersecurity Architecture | DevTutorials | [Read More](https://medium.com/p/196099d75520) |
-| Fri, 30 Jan 2026 11:30:18 GMT | From Theory to Practice: Cybersecurity Frameworks Explained | Ankita Sinha | [Read More](https://medium.com/p/5dbfccf14c1e) |
-| Fri, 30 Jan 2026 11:22:08 GMT | No one really tells you how hard the jump from college to career can be. | Dipti Singh | [Read More](https://medium.com/p/e34076afe83e) |
-| Fri, 30 Jan 2026 11:17:29 GMT | Is Your WiFi Safe? The Truth About WPS and MAC Filtering | Raviteja Mureboina | [Read More](https://medium.com/p/25c68dd6a8b1) |
-| Fri, 30 Jan 2026 11:17:13 GMT | Beyond the Firewall: Why the Best Cybersecurity Company is Your Strategic Growth Partner | Reflect security solutions | [Read More](https://medium.com/p/6f5bc731dd1c) |
-| Fri, 30 Jan 2026 11:11:23 GMT | Cloud Visitor Management Software for Multi-Tenant Buildings | Joven A Rodrigues | [Read More](https://medium.com/p/dce336a1cc4a) |
-| Fri, 30 Jan 2026 11:10:55 GMT | Idempotency in Distributed Systems — Why Payments Depend on It | Stoic Engineer | [Read More](https://medium.com/p/858177a07ce6) |
-| Fri, 30 Jan 2026 11:08:40 GMT | You Can’t Protect What You Can’t Find: A Practical Guide to Cryptographic Discovery | Samuel Odekunle | [Read More](https://medium.com/p/49ea414fba78) |
-| Fri, 30 Jan 2026 11:04:20 GMT | 9 Important Reasons Armed Security Guarding Services Ensure Total Safety | bravo Security | [Read More](https://medium.com/p/3e7d56ece759) |
-| Fri, 30 Jan 2026 11:01:34 GMT | AI-Agents: Friends or Foes? | Kirill Zorin | [Read More](https://medium.com/p/499f5b912c3c) |
