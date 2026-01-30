@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 30 Jan 2026 14:49:30 GMT | Managing Service and Machine Identities in Hybrid Cloud Environments | Digital Defense | [Read More](https://medium.com/p/293b09d6955f) |
+| Fri, 30 Jan 2026 14:49:01 GMT | How To Bypass 403 | FeritÖzner | [Read More](https://medium.com/p/1885ee76368d) |
+| Fri, 30 Jan 2026 14:44:26 GMT | First Time Nge-Prompt Pakai Bahasa Alien | nafenaf | [Read More](https://medium.com/p/d7f1574d1d68) |
+| Fri, 30 Jan 2026 14:41:22 GMT | Blue Inc. — CyberTalents Web Security Challenge (Easy) | Z3DX | [Read More](https://medium.com/p/ac76033501b1) |
+| Fri, 30 Jan 2026 14:40:58 GMT | LLM Prompt Injection: real attacks, why detection is hard, and a baseline defense approach | Ayush PS | [Read More](https://medium.com/p/b6c506c0232e) |
+| Fri, 30 Jan 2026 14:40:54 GMT | Zero Trust for AI Agents: Why Egress Control Is Your New Compliance Boundary | Michael Hannecke | [Read More](https://medium.com/p/4fed5407a658) |
+| Fri, 30 Jan 2026 14:35:39 GMT | Web-RTA Exam Review — Cyberwarfare Labs | Lakshan Sameera | [Read More](https://medium.com/p/3e560ee2b79e) |
+| Fri, 30 Jan 2026 14:34:16 GMT | When “I Don’t Feel Safe” Really Means “I Feel Uncomfortable” | Marla Tabaka | [Read More](https://medium.com/p/ecbe2f9c5047) |
+| Fri, 30 Jan 2026 14:33:10 GMT | What It Takes to Become a Hacker | Shahzaib | [Read More](https://medium.com/p/685f5cb6791f) |
+| Fri, 30 Jan 2026 14:31:29 GMT | Portal Drop - First-Shift-CTF Walkthrough & EDR Log Analysis | Visir | [Read More](https://medium.com/p/1f5d18a4f4d6) |
+| Fri, 30 Jan 2026 14:31:02 GMT | What is a MAC Address and How to Change It in Kali Linux | Vignesh R | [Read More](https://medium.com/p/9a14f32dadb4) |
+| Fri, 30 Jan 2026 14:27:26 GMT | The Agentic Threat: Why Personal AI Agents Are the Next Cyber Battleground | evoailabs | [Read More](https://medium.com/p/907d63f4265f) |
+| Fri, 30 Jan 2026 14:24:37 GMT | Protecting Your Online Privacy with Proton VPN | Infinity Matrix | [Read More](https://medium.com/p/ed876ff2dc7b) |
+| Fri, 30 Jan 2026 14:15:28 GMT | OWASP Top 10 (2025) Through a Network Lens | Gajanan Tayde | [Read More](https://medium.com/p/2705da0986f3) |
+| Fri, 30 Jan 2026 14:11:01 GMT | Jaguar Key Fob Programming - Fast, Professional Service | Sure Lock & Key LLC | [Read More](https://medium.com/p/7062ef7869d0) |
 | Fri, 30 Jan 2026 13:52:40 GMT | Secure the Jaxon DbAdmin database credentials with Infisical | Thierry Feuzeu | [Read More](https://medium.com/p/995979891bad) |
 | Fri, 30 Jan 2026 13:46:14 GMT | Osquery for Dummies | Shivam Bathla | [Read More](https://medium.com/p/c959942440b2) |
 | Fri, 30 Jan 2026 13:45:30 GMT | My Journey to becoming a certified OffSec Web Expert (OSWE) | Shantanu | [Read More](https://medium.com/p/267d31341fbd) |
@@ -76,6 +91,7 @@ Since the big tech… | Sean Burke | [Read More](https://medium.com/p/394bff3823
 | Fri, 30 Jan 2026 10:01:36 GMT | Windows 11 IoT Enterprise LTSC 2024: A Stable Windows Solution for Long-Term Use | Jimi | [Read More](https://medium.com/p/74ad64c9d307) |
 | Fri, 30 Jan 2026 09:56:06 GMT | The ONE-Click Tool That Finds Every Vulnerability Hackers Hide! | cybrNK | [Read More](https://medium.com/p/d090a84711ed) |
 | Fri, 30 Jan 2026 09:52:41 GMT | Prédire la Prochaine Attaque : Le Transformer au Service de la Cyber Threat Intelligence | Bricezemba | [Read More](https://medium.com/p/74169aa2ddd7) |
+| Fri, 30 Jan 2026 09:50:21 GMT | Building an LLM Security Lab: What I Actually Learnt | Zaid Talha | [Read More](https://medium.com/p/9a630c90f427) |
 | Fri, 30 Jan 2026 09:49:01 GMT | The Real Cost of Downtime: Why Uptime Is a Business Commitment | DC9India | [Read More](https://medium.com/p/39e8dcaa5664) |
 | Fri, 30 Jan 2026 09:41:47 GMT | Dark Web Monitoring: Seeing Threats Before They Reach You | Zefai Insights | [Read More](https://medium.com/p/ffd6696bd636) |
 | Fri, 30 Jan 2026 09:40:59 GMT | Clawdbot (Moltbot) | gunes | [Read More](https://medium.com/p/db4836658ee2) |
@@ -92,24 +108,8 @@ Since the big tech… | Sean Burke | [Read More](https://medium.com/p/394bff3823
 | Fri, 30 Jan 2026 08:42:40 GMT | I Doubt Myself More Than I Admit | Alice Sam | [Read More](https://medium.com/p/90506ba4065d) |
 | Fri, 30 Jan 2026 08:41:23 GMT | Think You’re Safe? Red Teams Already Have Your Data | Redfox Security | [Read More](https://medium.com/p/49a3fa5476d0) |
 | Fri, 30 Jan 2026 08:37:56 GMT | Cybersecurity Threat Intelligence Research Report - Jan 2026 Highlights | cyber_0xGambit | [Read More](https://medium.com/p/1f84eb58144c) |
+| Fri, 30 Jan 2026 08:30:04 GMT | Lab: Remote code execution via server-side prototype pollution -Portswigger | L4V4NY4  AGR3 | [Read More](https://medium.com/p/e09d4d5d9b13) |
 | Fri, 30 Jan 2026 08:25:56 GMT | Unlocking the Locker: A Technical Dive into AppLock Vulnerabilities | lightofmoon | [Read More](https://medium.com/p/b0227485a5ec) |
 | Fri, 30 Jan 2026 08:25:12 GMT | I Deployed Wazuh in My Own SOC Lab — What Broke, What Worked, and What I Actually Learned | Edric Kristian Gantes | [Read More](https://medium.com/p/9369be37ed80) |
 | Fri, 30 Jan 2026 08:24:29 GMT | Identity and Access Management (IAM): A Complete Guide with Examples, Best Practices, and Tools | Dennis Duke | [Read More](https://medium.com/p/a8e284bf11f7) |
 | Fri, 30 Jan 2026 08:14:49 GMT | Are Tools Like Fireflies & Read AI Safe for Sensitive Meetings? | R TechReview | [Read More](https://medium.com/p/0ff4b657114b) |
-| Fri, 30 Jan 2026 08:10:00 GMT | Back Alley Tales APK | Bandisharecx | [Read More](https://medium.com/p/744dc8a068c1) |
-| Fri, 30 Jan 2026 08:05:03 GMT | I’ve had a lifelong obsession with mathematics and logic (patterns, proofs, clean reasoning). | Simon Kimeu | [Read More](https://medium.com/p/02de84d229f4) |
-| Fri, 30 Jan 2026 08:01:56 GMT | Memory Forensics Toolkit: 12 Tools Every Defender Needs to Master Incident Response | Very Lazy Tech | [Read More](https://medium.com/p/9910c90b8662) |
-| Fri, 30 Jan 2026 08:01:03 GMT | API PENETRATION TESTING ON VULNBANK PART2 | Chinaza Emmanuela Obidike | [Read More](https://medium.com/p/6dd7ff64393a) |
-| Fri, 30 Jan 2026 07:50:00 GMT | AI Recodes “Tier One”: Five Tech Services Partner Attributes for Your Future - Ascendion | Ascendion | [Read More](https://medium.com/p/92993c43deed) |
-| Fri, 30 Jan 2026 07:48:19 GMT | What Information Can You Extract From Just a Phone Number | Abhay Parashar | [Read More](https://medium.com/p/044166a5bcb3) |
-| Fri, 30 Jan 2026 07:43:26 GMT | Kubernetes Audit Logging Using Wazuh | Piyush Ramani | [Read More](https://medium.com/p/f62fb3fcd4d5) |
-| Fri, 30 Jan 2026 07:37:47 GMT | Financial Account Abuse via eKYC: The Hidden Design Assumptions of Digital Identity | Ryu360 | [Read More](https://medium.com/p/326fdc823a62) |
-| Fri, 30 Jan 2026 07:36:25 GMT | [Blog] เมื่อ Software Tester ต้องสวมหมวก Hacker: สรุปบทเรียน Security Literacy จากงานสัมนา My Order… | Joe Aphiwat | [Read More](https://medium.com/p/4bfd642db46b) |
-| Fri, 30 Jan 2026 07:31:16 GMT | What it Looks like When Cybersecurity Leadership Fails | Matthew.Rosenquist | [Read More](https://medium.com/p/35a0d127d03f) |
-| Fri, 30 Jan 2026 07:31:12 GMT | Hands-On Cybersecurity Training with CTF Challenges | Alex Carter | [Read More](https://medium.com/p/9a8e6e2ccdd6) |
-| Fri, 30 Jan 2026 07:23:50 GMT | HTB — MonitorsFour: Walkthrough | Aashraymt | [Read More](https://medium.com/p/9961db29acc9) |
-| Fri, 30 Jan 2026 07:19:40 GMT | Engineering Database Activity Monitoring (DAM) - From Bare-Metal Linux to AWS RDS — EPISODE 3 | Vijenex | [Read More](https://medium.com/p/fa0b22a54360) |
-| Fri, 30 Jan 2026 07:16:24 GMT | Code is a Liability, Not an Asset | Dhanush N | [Read More](https://medium.com/p/1f2a94043c91) |
-| Fri, 30 Jan 2026 07:14:43 GMT | How a Simple “Having Issue?” Feature Opened the Entire Server ? | VETTRIVEL | [Read More](https://medium.com/p/8f6aed134b48) |
-| Fri, 30 Jan 2026 07:14:00 GMT | How Hackers Can Fool AI-Based Cybersecurity Systems — And Why Accuracy Is Not Enough | Priyanka Patil | [Read More](https://medium.com/p/41c724116768) |
-| Fri, 30 Jan 2026 07:06:39 GMT | Quantum-Resistant Cryptography: The Future of Secure Data | Exito | [Read More](https://medium.com/p/c5c44e0cfce0) |
