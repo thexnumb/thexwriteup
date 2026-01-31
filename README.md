@@ -12,8 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 Jan 2026 12:46:52 GMT | C is for Cybersecurity | Srujan Gunisetty | [Read More](https://medium.com/p/29bf6920d349) |
+| Sat, 31 Jan 2026 12:45:18 GMT | IP Değil, Kimlik: ISDB ile Akıllı Güvenlik | EMRE ÖZEL | [Read More](https://medium.com/p/5667f6e13633) |
+| Sat, 31 Jan 2026 12:31:01 GMT | Post-Quantum Cryptography in 2026: A Practical Migration Playbook for Engineers and Security Teams | Kawaldeep Singh | [Read More](https://medium.com/p/0ac4fcda0db3) |
+| Sat, 31 Jan 2026 12:23:34 GMT | Can Private Security Drivers Manage Medical Emergencies? Essential Skills for Executive Protection. | PGS Solution | [Read More](https://medium.com/p/b0e8cdad7cd8) |
+| Sat, 31 Jan 2026 12:21:02 GMT | VulnLab: Cross Site Scripting (XSS) Çözümü | CyberSam | [Read More](https://medium.com/p/b6add6ea43a9) |
+| Sat, 31 Jan 2026 12:02:50 GMT | SSRF PortSwigger Academy (Lab 2 Solution) | Ammar Ahmed | [Read More](https://medium.com/p/e83dac96053d) |
+| Sat, 31 Jan 2026 12:01:01 GMT | Schemas Are the New Safety Rails for Agents | Vectorlane | [Read More](https://medium.com/p/46095a1f8e85) |
+| Sat, 31 Jan 2026 11:46:53 GMT | Command Injection via PATH Environment Variable in Clawdbot Docker Sandbox (CVE-2026–24763) | Berk Dedekargınoğlu | [Read More](https://medium.com/p/86b22a1c3b35) |
+| Sat, 31 Jan 2026 11:40:57 GMT | Deterministic AWS Security Posture Validation with Checkov, Prowler, Steampipe and Powerpipe | CoffeeCloud Series | [Read More](https://medium.com/p/ffdea825a522) |
 | Sat, 31 Jan 2026 11:40:32 GMT | HTTP Request Smuggling Lab Basic CL.TE vulnerability | Mukilan Baskaran | [Read More](https://medium.com/p/ce47accfd024) |
+| Sat, 31 Jan 2026 11:39:20 GMT | SIEM (Should I Even Manage?!) | Malcolm Vella Vidal | [Read More](https://medium.com/p/f372738c4083) |
+| Sat, 31 Jan 2026 11:35:18 GMT | The Complete Beginner’s Guide to JWT Authentication | Akshay Parihar | [Read More](https://medium.com/p/442db2de0008) |
 | Sat, 31 Jan 2026 11:34:57 GMT | Pentester Bytes: GraphQL Tools | Shivam Bathla | [Read More](https://medium.com/p/a1340da6466b) |
+| Sat, 31 Jan 2026 11:31:01 GMT | n8n Self-Hosting: The Security Bill Comes Due | Syntal | [Read More](https://medium.com/p/d35d1ec80c9e) |
 | Sat, 31 Jan 2026 11:20:43 GMT | No Vault? No GitOps? No Problem — Securing K8s Secrets with SOPS | Kienlt | [Read More](https://medium.com/p/3e4853f42be8) |
 | Sat, 31 Jan 2026 11:16:31 GMT | AI can write code, but can you catch its mistakes? | Abhishek | [Read More](https://medium.com/p/db9e77079c5d) |
 | Sat, 31 Jan 2026 11:14:58 GMT | Building a Secure AWS Serverless Web Application with CloudFront, WAF, Lambda, and DynamoDB | Saksham Singh | [Read More](https://medium.com/p/c4f8195134d5) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 Jan 2026 04:51:17 GMT | NARA Walkthrough - Proving Grounds Practice | Shaik Nawaz Ahmed | [Read More](https://medium.com/p/d44b8d62a598) |
 | Sat, 31 Jan 2026 04:49:47 GMT | Moving from Guardrails to a Zero-Trust AI Architecture | Shankar Kumarasamy | [Read More](https://medium.com/p/c2c0abb95fbf) |
 | Sat, 31 Jan 2026 04:45:35 GMT | Osaka Walkthrough - Proving Grounds Practive | Shaik Nawaz Ahmed | [Read More](https://medium.com/p/0ee0e65ee1da) |
-| Sat, 31 Jan 2026 04:43:49 GMT | How to Use AI in the Terminal: A Simpler, Safer Approach | David Minaya | [Read More](https://medium.com/p/eca11d113590) |
-| Sat, 31 Jan 2026 04:41:59 GMT | Secure Your Property : Best IP Cameras in UAE and CCTV Approval in Dubai | techfra solutions | [Read More](https://medium.com/p/e87ea4ad20b0) |
-| Sat, 31 Jan 2026 04:20:02 GMT | How to Choose the Best IT Certification for Your Career | Tycoonstories | [Read More](https://medium.com/p/f94c76470f0e) |
-| Sat, 31 Jan 2026 03:15:37 GMT | What a Ransomware Attack Looks Like — An Incident Response Walkthrough | Jasmine Brown | [Read More](https://medium.com/p/82ba7d54a201) |
-| Sat, 31 Jan 2026 03:15:26 GMT | Why Screen Parameters Matter More Than You Think | Afina Browser | [Read More](https://medium.com/p/c9bb95665eb1) |
-| Sat, 31 Jan 2026 03:14:49 GMT | The “MoltBot” Epidemic: How Your Personal AI Agent Became a Backdoor for Hackers | The Daily Cyber News | [Read More](https://medium.com/p/aefdce1fb86f) |
-| Sat, 31 Jan 2026 03:04:17 GMT | How to Setup Openclaw With LMStudio | Nwosu Rosemary | [Read More](https://medium.com/p/1960a8046f6b) |
-| Sat, 31 Jan 2026 02:51:35 GMT | The Cybersecurity Skills Debate Just Changed — Here’s What ISC2’s Bold Decision Means for You | Cybergilly | [Read More](https://medium.com/p/29b069f83c91) |
-| Sat, 31 Jan 2026 02:41:51 GMT | Web Security 101: Part 5 - Clickjacking & UI Redress | Nithishraina | [Read More](https://medium.com/p/6dc954c0d00a) |
-| Sat, 31 Jan 2026 02:37:08 GMT | Enhance Email Delivery with AtomEmailPro: Meeting New Sender Standards | Muntahaislam | [Read More](https://medium.com/p/0a26fae2a675) |
-| Sat, 31 Jan 2026 02:36:28 GMT | Enhance Email Delivery with AtomEmailPro: Meeting New Sender Standards | Muntahaislam | [Read More](https://medium.com/p/4aa506dc080d) |
-| Sat, 31 Jan 2026 02:05:13 GMT | Agent Tesla: The Persistent Threat Lurking in Your Inbox | Muhammad Omar F F | [Read More](https://medium.com/p/36e600b5079c) |
