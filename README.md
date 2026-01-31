@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 Jan 2026 10:36:34 GMT | Day 6: Introduction to SSRF | Cybersecurity with Jojo | [Read More](https://medium.com/p/fccb9c984e56) |
+| Sat, 31 Jan 2026 10:30:20 GMT | Security Practices That Actually Protect Production Applications (Part 1) | Magdalena Furman | [Read More](https://medium.com/p/ebbe25f031d3) |
+| Sat, 31 Jan 2026 10:28:53 GMT | Ottergram writeup (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/1ecd388f94e6) |
+| Sat, 31 Jan 2026 10:27:23 GMT | Building an Automated AWS Security Remediation Framework with Security Hub and Systems Manager | Emmanuel Akuffo | [Read More](https://medium.com/p/1cfb405d2137) |
+| Sat, 31 Jan 2026 10:25:15 GMT | Top Free Cybersecurity Courses From Big Tech Companies (2026) | Shaif Ali | [Read More](https://medium.com/p/c7c70f87cdb4) |
 | Sat, 31 Jan 2026 10:14:14 GMT | Firewall’u Aşan Saldırganı İçerde Yakalamak . IDS ve IPS Nedir? | Arda Derya | [Read More](https://medium.com/p/0ff024f8058d) |
 | Sat, 31 Jan 2026 10:09:54 GMT | Module outside accounting | Progsky | [Read More](https://medium.com/p/4d15f20db650) |
 | Sat, 31 Jan 2026 10:00:21 GMT | Breaking InsecureShop: An In-Depth Android Security Write-up & Source Analysis | lightofmoon | [Read More](https://medium.com/p/7f06a70aa5c6) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 Jan 2026 01:16:27 GMT | # Cybersecurity: Protecting Our Digital World | s v | [Read More](https://medium.com/p/3528404524e8) |
 | Sat, 31 Jan 2026 01:02:18 GMT | When “Draft” Doesn’t Mean Private: Finding an IDOR in an Unpublished Resource | AKU | [Read More](https://medium.com/p/2c9ead4e7bfb) |
 | Sat, 31 Jan 2026 00:38:02 GMT | January Gist… | Okuruesther | [Read More](https://medium.com/p/357978495911) |
-| Sat, 31 Jan 2026 00:28:09 GMT | TryHackMe - Log Operations — Writeup | CyberWithManos | [Read More](https://medium.com/p/0d476ddcc0b5) |
-| Sat, 31 Jan 2026 00:17:16 GMT | Daily SOC Brief — Day 1: Passwords & MFA (The First Line of Defense) | The Daily S.OC. Brief | [Read More](https://medium.com/p/365d5c819943) |
-| Sat, 31 Jan 2026 00:01:03 GMT | WhatWeb Guide: Fingerprinting and Recognition for Bug Hunting | JPablo13 | [Read More](https://medium.com/p/35f9d7f459d5) |
-| Fri, 30 Jan 2026 23:15:53 GMT | Untrusted user data — 30 years later — are we still solving the same problem? | Jessica Fosler | [Read More](https://medium.com/p/da50b657d25d) |
-| Fri, 30 Jan 2026 23:15:32 GMT | P4 Programming Protocol Independent Packet Processors | Bervice | [Read More](https://medium.com/p/dae194195005) |
