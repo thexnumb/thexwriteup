@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 Jan 2026 19:14:26 GMT | The Android CTF Vulnerable Apps Playbook: Every App, Every Pattern, Every Tip | lightofmoon | [Read More](https://medium.com/p/c82e4851076b) |
+| Sat, 31 Jan 2026 19:01:02 GMT | Breaking Web Apps at Scale: Ranking in the Top 20% of a Global CTF | Tyreek Haynes | [Read More](https://medium.com/p/211b76a501e1) |
+| Sat, 31 Jan 2026 19:01:01 GMT | CodePartTwo — HackTheBox Walkthrough | Maksim Hayder | [Read More](https://medium.com/p/767d633f86e8) |
+| Sat, 31 Jan 2026 19:00:48 GMT | Advanced Techniques for Secure Authentication Systems with NextAuth.js | @rnab | [Read More](https://medium.com/p/7d4cf87018d1) |
+| Sat, 31 Jan 2026 18:56:01 GMT | When Quantum Computers Meet Smart Homes: A Security Reckoning | Shujaatali Badami | [Read More](https://medium.com/p/ae3e6ae9499f) |
+| Sat, 31 Jan 2026 18:55:33 GMT | Day 6: ConfigMaps & Secrets — Managing Configuration the Kubernetes Way | Kayathiri | [Read More](https://medium.com/p/9ace517565f7) |
+| Sat, 31 Jan 2026 18:53:34 GMT | When ‘Invalid Email or Password’ Isn’t Enough: Lessons From a Timing Attack | Chimdike Anagboso | [Read More](https://medium.com/p/8d8e9d0d273c) |
+| Sat, 31 Jan 2026 18:48:59 GMT | AI writing RTL. Who is the subject matter expert here? | Surabhi Misra | [Read More](https://medium.com/p/b035c4ead050) |
+| Sat, 31 Jan 2026 18:44:22 GMT | AI in Cybersecurity: Why It’s Becoming the New Front Line | Nicky Coleman | [Read More](https://medium.com/p/f29c4c59d854) |
+| Sat, 31 Jan 2026 18:41:56 GMT | What Is DevSecOps? | OPEXOR | [Read More](https://medium.com/p/83fedd6abbd4) |
+| Sat, 31 Jan 2026 18:41:21 GMT | Operation Slither - Tryhackme | Parvathy P Joshy | [Read More](https://medium.com/p/69b48aa84303) |
+| Sat, 31 Jan 2026 18:41:08 GMT | Interrupted Genesis: Futile Search for a Secure Base Before a Self Exists | MS | [Read More](https://medium.com/p/baa68fc64a3c) |
 | Sat, 31 Jan 2026 18:22:22 GMT | Cyberspace and the Evolution of Contemporary Warfare | Charudutta Sawant | [Read More](https://medium.com/p/97ca8b5b6cc8) |
 | Sat, 31 Jan 2026 18:21:08 GMT | The Phishing Series: Detecting Phishing Emails in a Controlled Lab — Authentication Headers | Norman Kolarikkal | [Read More](https://medium.com/p/c782fe90d49b) |
 | Sat, 31 Jan 2026 18:20:47 GMT | Hunting Volt Typhoon: A Full SOC-Level DFIR Walkthrough with Splunk | Saniye Nur | [Read More](https://medium.com/p/50fd44a00439) |
@@ -101,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 Jan 2026 13:09:58 GMT | A Complete Guide to iOS Penetration Testing | pratham verma | [Read More](https://medium.com/p/782f49cfa0e3) |
 | Sat, 31 Jan 2026 13:06:47 GMT | 10 Steps To Cyber Security (Siber Güvenliğin 10 Adımı) | cyberman | [Read More](https://medium.com/p/63792bb72d17) |
 | Sat, 31 Jan 2026 13:05:28 GMT | THM-Reset Walkthrough | Abhay Ingale | [Read More](https://medium.com/p/6700e18bae40) |
-| Sat, 31 Jan 2026 13:00:06 GMT | Overview | Hasan Khan | [Read More](https://medium.com/p/8434b7f668ab) |
-| Sat, 31 Jan 2026 12:56:51 GMT | IDOR Vulnerability in Dictionary Endpoint — Arbitrary Deletion of User Items (€€€) | Hasan Khan | [Read More](https://medium.com/p/b97182251623) |
-| Sat, 31 Jan 2026 12:55:25 GMT | Android Alert: 3 Secret System Hacks to Instant-Boost Your Phone in 2026 | DroidUtility Lab | [Read More](https://medium.com/p/e42098391d4e) |
-| Sat, 31 Jan 2026 12:46:52 GMT | C is for Cybersecurity | Srujan Gunisetty | [Read More](https://medium.com/p/29bf6920d349) |
-| Sat, 31 Jan 2026 12:45:18 GMT | IP Değil, Kimlik: ISDB ile Akıllı Güvenlik | EMRE ÖZEL | [Read More](https://medium.com/p/5667f6e13633) |
-| Sat, 31 Jan 2026 12:31:01 GMT | Post-Quantum Cryptography in 2026: A Practical Migration Playbook for Engineers and Security Teams | Kawaldeep Singh | [Read More](https://medium.com/p/0ac4fcda0db3) |
-| Sat, 31 Jan 2026 12:23:34 GMT | Can Private Security Drivers Manage Medical Emergencies? Essential Skills for Executive Protection. | PGS Solution | [Read More](https://medium.com/p/b0e8cdad7cd8) |
-| Sat, 31 Jan 2026 12:21:02 GMT | VulnLab: Cross Site Scripting (XSS) Çözümü | CyberSam | [Read More](https://medium.com/p/b6add6ea43a9) |
-| Sat, 31 Jan 2026 12:02:50 GMT | SSRF PortSwigger Academy (Lab 2 Solution) | Ammar Ahmed | [Read More](https://medium.com/p/e83dac96053d) |
-| Sat, 31 Jan 2026 12:01:01 GMT | Schemas Are the New Safety Rails for Agents | Vectorlane | [Read More](https://medium.com/p/46095a1f8e85) |
-| Sat, 31 Jan 2026 11:46:53 GMT | Command Injection via PATH Environment Variable in Clawdbot Docker Sandbox (CVE-2026–24763) | Berk Dedekargınoğlu | [Read More](https://medium.com/p/86b22a1c3b35) |
-| Sat, 31 Jan 2026 11:40:57 GMT | Deterministic AWS Security Posture Validation with Checkov, Prowler, Steampipe and Powerpipe | CoffeeCloud Series | [Read More](https://medium.com/p/ffdea825a522) |
