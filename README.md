@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 Jan 2026 09:28:11 GMT | Werkzeug Debugger Authentication Bypass via Client-Side Response Manipulation | AAKASH SHARMA | [Read More](https://medium.com/p/d0f5a97b90f7) |
+| Sat, 31 Jan 2026 09:14:19 GMT | Top Tips for Securing Your Snapchat Account | akhila msr | [Read More](https://medium.com/p/cbfb966adb34) |
+| Sat, 31 Jan 2026 09:07:28 GMT | The Silent Siege: Zero-Click Exploits and the Future of Smartphone Security in 2026 | AckerWorx | [Read More](https://medium.com/p/51bec546e576) |
+| Sat, 31 Jan 2026 09:05:00 GMT | Raspberry Pi vs. Arduino vs. Teensy: Which Board Belongs in Your Next Hack? | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/0abd9d50b6b1) |
+| Sat, 31 Jan 2026 09:01:05 GMT | The First 60 Minutes After You Find Leaked Employee Credentials | Alexandre Vandamme | [Read More](https://medium.com/p/2cc288915854) |
+| Sat, 31 Jan 2026 08:58:10 GMT | How to Configure Cluster Quorum in Windows Server 2025 | Khurram Shahzad | [Read More](https://medium.com/p/ddff32c98d25) |
+| Sat, 31 Jan 2026 08:56:25 GMT | Rent Please Landlord Sim Mod APK | genzvnmod | [Read More](https://medium.com/p/eced52cb7c04) |
+| Sat, 31 Jan 2026 08:34:04 GMT | Prompt Injection Toolkit: 25 Payloads & Techniques for Mastering AI Pentesting | Very Lazy Tech | [Read More](https://medium.com/p/7251e41de1ed) |
 | Sat, 31 Jan 2026 08:32:36 GMT | How a London Locksmith Supports Safe Access in a Fast-Moving City | SE1 Locksmiths Ltd | [Read More](https://medium.com/p/61993b5ed437) |
 | Sat, 31 Jan 2026 08:32:22 GMT | Top Benefits of Custom Software Development for Growing Businesses | Ishita Kundu | [Read More](https://medium.com/p/3d0b082b7988) |
 | Sat, 31 Jan 2026 08:23:19 GMT | Techlive .Guru- Top Technology Trends Shaping 2026: From Agentic AI to Quantum Leap and Beyond | techlive.Guru | [Read More](https://medium.com/p/72e87900a62c) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 Jan 2026 22:42:12 GMT | DNS Armor บน Google Cloud: ตรวจจับภัยคุกคามตั้งแต่ DNS Layer | Nuntakon Yingyong | [Read More](https://medium.com/p/b4494d2e3181) |
 | Fri, 30 Jan 2026 22:39:09 GMT | Inside WPA3: How Today’s Wi-Fi Security Stops Attackers Cold | ghostyjoe | [Read More](https://medium.com/p/f075aa8d29ba) |
 | Fri, 30 Jan 2026 22:34:42 GMT | We All Click “I Agree”… But Do We Really? | Kevin Kelly | [Read More](https://medium.com/p/ed7c1b0d23dd) |
-| Fri, 30 Jan 2026 22:25:51 GMT | Enhance Your Online Safety: How to Block Adult Content using DNS Over HTTPS | Stack Architect | [Read More](https://medium.com/p/08a5f2cf37f5) |
-| Fri, 30 Jan 2026 22:23:52 GMT | Mustacchio — Easy CTF Write‑up | Zhoussama | [Read More](https://medium.com/p/eb16adda67a1) |
-| Fri, 30 Jan 2026 22:22:41 GMT | Keeping up with Security News — with Beagle Watch | Michael Harms | [Read More](https://medium.com/p/677c9c6ff422) |
-| Fri, 30 Jan 2026 22:15:55 GMT | Team Work in DevOps: Hands-On Experience with Git, AWS, and Nginx | Orji Ekeoma Miracle | [Read More](https://medium.com/p/18bb6b969fc2) |
-| Fri, 30 Jan 2026 22:15:21 GMT | I’m Back on Medium and Here’s What I’ll Be Writing About | Stefan Bargan | [Read More](https://medium.com/p/c714c18e40ab) |
-| Fri, 30 Jan 2026 22:00:52 GMT | Google warns of widespread exploitation of WinRAR vulnerability CVE-2025–8088 and here’s how the… | Harsh Raj Singhania | [Read More](https://medium.com/p/311262ea48e0) |
-| Fri, 30 Jan 2026 21:59:49 GMT | Starting My Cybersecurity Journey: January 2026 (Foundations Month) | Nikita | [Read More](https://medium.com/p/eee78d1fb860) |
-| Fri, 30 Jan 2026 21:42:30 GMT | Post-Quantum Cryptography in 2026 | Configr Technologies | [Read More](https://medium.com/p/34dd20af5b52) |
