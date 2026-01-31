@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 Jan 2026 11:40:32 GMT | HTTP Request Smuggling Lab Basic CL.TE vulnerability | Mukilan Baskaran | [Read More](https://medium.com/p/ce47accfd024) |
+| Sat, 31 Jan 2026 11:34:57 GMT | Pentester Bytes: GraphQL Tools | Shivam Bathla | [Read More](https://medium.com/p/a1340da6466b) |
+| Sat, 31 Jan 2026 11:20:43 GMT | No Vault? No GitOps? No Problem — Securing K8s Secrets with SOPS | Kienlt | [Read More](https://medium.com/p/3e4853f42be8) |
 | Sat, 31 Jan 2026 11:16:31 GMT | AI can write code, but can you catch its mistakes? | Abhishek | [Read More](https://medium.com/p/db9e77079c5d) |
 | Sat, 31 Jan 2026 11:14:58 GMT | Building a Secure AWS Serverless Web Application with CloudFront, WAF, Lambda, and DynamoDB | Saksham Singh | [Read More](https://medium.com/p/c4f8195134d5) |
 | Sat, 31 Jan 2026 11:12:15 GMT | Beware of Fake PNB MetLife Payment Gateways: A New-Age Phishing Scam Using UPI Apps | Deven Chhajed | [Read More](https://medium.com/p/980ac3efc5f2) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 Jan 2026 02:37:08 GMT | Enhance Email Delivery with AtomEmailPro: Meeting New Sender Standards | Muntahaislam | [Read More](https://medium.com/p/0a26fae2a675) |
 | Sat, 31 Jan 2026 02:36:28 GMT | Enhance Email Delivery with AtomEmailPro: Meeting New Sender Standards | Muntahaislam | [Read More](https://medium.com/p/4aa506dc080d) |
 | Sat, 31 Jan 2026 02:05:13 GMT | Agent Tesla: The Persistent Threat Lurking in Your Inbox | Muhammad Omar F F | [Read More](https://medium.com/p/36e600b5079c) |
-| Sat, 31 Jan 2026 02:03:12 GMT | The Rabbit Strategy: Choosing to Live While Staying Weak. | Hiro O. | [Read More](https://medium.com/p/b4a4b0a7f868) |
-| Sat, 31 Jan 2026 01:56:16 GMT | CyberLessons101: Dockerized CTF Challenge Index. | Josh Beck | [Read More](https://medium.com/p/5fe89baf710f) |
-| Sat, 31 Jan 2026 01:55:52 GMT | The Harsh Truth: Your SOC Would Miss a Real Attack | Yua Mikanana | [Read More](https://medium.com/p/313956d80db2) |
