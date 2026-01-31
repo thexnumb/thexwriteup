@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 Jan 2026 22:34:42 GMT | Android Runs ELF Files: Everything Else Is Just Layers | Zahid | [Read More](https://medium.com/p/dad1aa5c7e85) |
+| Sat, 31 Jan 2026 22:29:50 GMT | Why StarRocks Is Better Than ClickHouse for Data Analytics in Cybersecurity | IndoMITability | [Read More](https://medium.com/p/2f02548111fd) |
+| Sat, 31 Jan 2026 22:27:06 GMT | How I Built a Free Crypto Scam Detector Using Cloudflare Workers | Teycir | [Read More](https://medium.com/p/ef80079d33eb) |
 | Sat, 31 Jan 2026 22:19:47 GMT | When MFA Lockouts Aren’t Attacks | Kaleem Khan | [Read More](https://medium.com/p/6aaed7f20348) |
 | Sat, 31 Jan 2026 22:14:50 GMT | CTF Write-up : Reduced Collisions | SPIDER1SEC | [Read More](https://medium.com/p/9373e48adc75) |
 | Sat, 31 Jan 2026 22:11:36 GMT | SOAR This SOAR That: Everyone is talking about Automation. No One Does It. | Serhan Eraslan | [Read More](https://medium.com/p/a578dc0a791e) |
@@ -110,6 +113,3 @@ AI-POWERED, MULTI-CHAIN TOKEN RISK INTELLIGENCE PLATFORM - CONFIDENTIAL… | Dav
 | Sat, 31 Jan 2026 15:19:13 GMT | Building a Wazuh SIEM Lab using Ubuntu Manager +Kali | Narayananbhadri | [Read More](https://medium.com/p/04ca8f59f60a) |
 | Sat, 31 Jan 2026 15:10:05 GMT | Normal insanların və kiçik şirkətlərin qarşılaşdığı ümumi kiber təhlükələr | Behbud Behbudov | [Read More](https://medium.com/p/5ec9bbec4ab4) |
 | Sat, 31 Jan 2026 15:06:09 GMT | Understanding Dark Web Monitoring: What It Is and Why It Matters | Tor BBB | [Read More](https://medium.com/p/b5a19c873181) |
-| Sat, 31 Jan 2026 15:04:37 GMT | Kettaro Artist Protection: The First Automated System That Detects Stolen NFT Art Before It… | Kettaro | [Read More](https://medium.com/p/3f93a506f56a) |
-| Sat, 31 Jan 2026 15:02:36 GMT | A Complete Cloud Penetration Testing Walkthrough | Andrey Pautov | [Read More](https://medium.com/p/1914f687d7fd) |
-| Sat, 31 Jan 2026 15:00:40 GMT | [Write-up] SOC Analyst Simulation: Investigating a Local File Inclusion (LFI) Attempt | Pablo Parma | [Read More](https://medium.com/p/22dbcdb6b052) |
