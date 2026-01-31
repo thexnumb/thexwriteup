@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 Jan 2026 21:34:43 GMT | TryHackMe — Chill Hack (CTF Write-up) | RCA62X8 | [Read More](https://medium.com/p/e556a48aeb9b) |
+| Sat, 31 Jan 2026 21:31:06 GMT | TIME TO VENT | A. Nosa | [Read More](https://medium.com/p/5bc6364127f4) |
+| Sat, 31 Jan 2026 21:29:56 GMT | HTB - CPTS - Shells & Payloads — The Live Engagement | CyberMateUY | [Read More](https://medium.com/p/2d47700d4ce8) |
+| Sat, 31 Jan 2026 21:28:16 GMT | dzosoft.com | dzosoft | [Read More](https://medium.com/p/7a38a3dc0afe) |
+| Sat, 31 Jan 2026 21:27:07 GMT | AI Security 101: Game of Gradients Why AI Is Inherently Insecure (and What Robustness Really Means… | Vinay Bist | [Read More](https://medium.com/p/2027eb0fb8b8) |
 | Sat, 31 Jan 2026 21:19:57 GMT | DFIR Deep Dive | IgnoranzaSolare | [Read More](https://medium.com/p/f744809612cd) |
 | Sat, 31 Jan 2026 21:14:32 GMT | Capstone Project 2: SNS Secrets — AWS Pentesting Walkthrough | rajasekharyarava | [Read More](https://medium.com/p/ca9fb7c54ad3) |
 | Sat, 31 Jan 2026 21:06:50 GMT | How Modern Security Systems Decide Who Gets Access | Neeraj Sharma | [Read More](https://medium.com/p/89ba5ec43051) |
@@ -109,8 +114,3 @@ AI-POWERED, MULTI-CHAIN TOKEN RISK INTELLIGENCE PLATFORM - CONFIDENTIAL… | Dav
 | Sat, 31 Jan 2026 14:39:04 GMT | I Logged Into My Account — and Found Someone Else Living There | Basel Issmail | [Read More](https://medium.com/p/c027993ab732) |
 | Sat, 31 Jan 2026 14:37:32 GMT | How @DroseraNetwork Addresses the Security Challenges in Lending Protocols | Hikay_smart | [Read More](https://medium.com/p/1e649bbea7d7) |
 | Sat, 31 Jan 2026 14:27:40 GMT | Independent Multi-Dimensional Analysis for Robust Ransomware Detection | David SEHYEON Baek | [Read More](https://medium.com/p/fb03ee2b41bb) |
-| Sat, 31 Jan 2026 14:26:07 GMT | The Pyramid of Pain: How Defenders Can Truly Disrupt Attackers | Little_Sun4lower | [Read More](https://medium.com/p/1ef3929ce067) |
-| Sat, 31 Jan 2026 14:26:02 GMT | Building Secure Solana Programs: A Technical Deep Dive into Smart Contract Vulnerabilities | Emmanuel Adebayo Abimbola | [Read More](https://medium.com/p/60977f8f2e5f) |
-| Sat, 31 Jan 2026 14:17:27 GMT | PortSwigger SQL Injection Labs — Part 2 | Emirkilicer | [Read More](https://medium.com/p/a6f139252561) |
-| Sat, 31 Jan 2026 14:15:33 GMT | Types of Malware Actions: Kidnap, Eavesdrop, Masquerade, Launch | Dennis Duke | [Read More](https://medium.com/p/df4b855e0e6d) |
-| Sat, 31 Jan 2026 14:15:23 GMT | ☁️ Cloud Application Hardening: The Art of Armoring Cloud Architectures | Esra Kayhan | [Read More](https://medium.com/p/29b3af2d380b) |
