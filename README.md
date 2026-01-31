@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 Jan 2026 19:35:53 GMT | Building Cybersecurity Trust with Lead Marketing Strategies | Lead Marketing Strategies | [Read More](https://medium.com/p/7d546a92d14c) |
+| Sat, 31 Jan 2026 19:35:51 GMT | How a Simple Note Feature Turned Into a Stored XSS (₹7,500 Bounty) | MrRobot | [Read More](https://medium.com/p/1d4582f5120d) |
+| Sat, 31 Jan 2026 19:30:12 GMT | How to Recover a Website After a Virus or Cyberattack | 0trust0day | [Read More](https://medium.com/p/862ddfd0d682) |
+| Sat, 31 Jan 2026 19:23:21 GMT | Better Hackers — or Bad Security? How Basic Failures Exposed Poland’s Energy Infrastructure | Muhammad Umar Inam | [Read More](https://medium.com/p/4c629a7f0e1a) |
 | Sat, 31 Jan 2026 19:14:26 GMT | The Android CTF Vulnerable Apps Playbook: Every App, Every Pattern, Every Tip | lightofmoon | [Read More](https://medium.com/p/c82e4851076b) |
 | Sat, 31 Jan 2026 19:01:02 GMT | Breaking Web Apps at Scale: Ranking in the Top 20% of a Global CTF | Tyreek Haynes | [Read More](https://medium.com/p/211b76a501e1) |
 | Sat, 31 Jan 2026 19:01:01 GMT | CodePartTwo — HackTheBox Walkthrough | Maksim Hayder | [Read More](https://medium.com/p/767d633f86e8) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 Jan 2026 13:15:48 GMT | Blockchain Gerçekten Güvenli mi? Kritik Saldırı Türleri ve Riskler | Sonat Saygın İpek | [Read More](https://medium.com/p/0892d359a381) |
 | Sat, 31 Jan 2026 13:14:03 GMT | The Invisible Backdoor: Is Your Headless WordPress Site Leaking Data? | Rakib | [Read More](https://medium.com/p/7941214054e6) |
 | Sat, 31 Jan 2026 13:11:01 GMT | Security Deep Dive — Can Someone See or Hack My Token? | Lets Learn Now | [Read More](https://medium.com/p/6217aa4f5ee9) |
-| Sat, 31 Jan 2026 13:11:01 GMT | Telnetd- The Ghost Of Past Still Haunts | Vedic_error | [Read More](https://medium.com/p/cb5cec617bb8) |
-| Sat, 31 Jan 2026 13:09:58 GMT | A Complete Guide to iOS Penetration Testing | pratham verma | [Read More](https://medium.com/p/782f49cfa0e3) |
-| Sat, 31 Jan 2026 13:06:47 GMT | 10 Steps To Cyber Security (Siber Güvenliğin 10 Adımı) | cyberman | [Read More](https://medium.com/p/63792bb72d17) |
-| Sat, 31 Jan 2026 13:05:28 GMT | THM-Reset Walkthrough | Abhay Ingale | [Read More](https://medium.com/p/6700e18bae40) |
