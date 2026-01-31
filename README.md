@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 Jan 2026 03:15:37 GMT | What a Ransomware Attack Looks Like — An Incident Response Walkthrough | Jasmine Brown | [Read More](https://medium.com/p/82ba7d54a201) |
+| Sat, 31 Jan 2026 03:15:26 GMT | Why Screen Parameters Matter More Than You Think | Afina Browser | [Read More](https://medium.com/p/c9bb95665eb1) |
+| Sat, 31 Jan 2026 03:14:49 GMT | The “MoltBot” Epidemic: How Your Personal AI Agent Became a Backdoor for Hackers | The Daily Cyber News | [Read More](https://medium.com/p/aefdce1fb86f) |
+| Sat, 31 Jan 2026 03:04:17 GMT | How to Setup Openclaw With LMStudio | Nwosu Rosemary | [Read More](https://medium.com/p/1960a8046f6b) |
+| Sat, 31 Jan 2026 02:51:35 GMT | The Cybersecurity Skills Debate Just Changed — Here’s What ISC2’s Bold Decision Means for You | Cybergilly | [Read More](https://medium.com/p/29b069f83c91) |
+| Sat, 31 Jan 2026 02:41:51 GMT | Web Security 101: Part 5 - Clickjacking & UI Redress | Nithishraina | [Read More](https://medium.com/p/6dc954c0d00a) |
+| Sat, 31 Jan 2026 02:37:08 GMT | Enhance Email Delivery with AtomEmailPro: Meeting New Sender Standards | Muntahaislam | [Read More](https://medium.com/p/0a26fae2a675) |
+| Sat, 31 Jan 2026 02:36:28 GMT | Enhance Email Delivery with AtomEmailPro: Meeting New Sender Standards | Muntahaislam | [Read More](https://medium.com/p/4aa506dc080d) |
 | Sat, 31 Jan 2026 02:05:13 GMT | Agent Tesla: The Persistent Threat Lurking in Your Inbox | Muhammad Omar F F | [Read More](https://medium.com/p/36e600b5079c) |
+| Sat, 31 Jan 2026 02:03:12 GMT | The Rabbit Strategy: Choosing to Live While Staying Weak. | Hiro O. | [Read More](https://medium.com/p/b4a4b0a7f868) |
 | Sat, 31 Jan 2026 01:56:16 GMT | CyberLessons101: Dockerized CTF Challenge Index. | Josh Beck | [Read More](https://medium.com/p/5fe89baf710f) |
 | Sat, 31 Jan 2026 01:55:52 GMT | The Harsh Truth: Your SOC Would Miss a Real Attack | Yua Mikanana | [Read More](https://medium.com/p/313956d80db2) |
 | Sat, 31 Jan 2026 01:51:20 GMT | If you still manage Azure Policy in the portal, you are running production on hope | Practical IT | [Read More](https://medium.com/p/ab028106f64c) |
@@ -94,6 +103,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 Jan 2026 17:46:21 GMT | The Dichotomy of Songs: Finding Balance in an Age of Labels | Mohammad Bader | [Read More](https://medium.com/p/5ca20aabafde) |
 | Fri, 30 Jan 2026 17:44:37 GMT | The Professional’s Playbook: 25 Rules for the Bug Bounty Grind | Thexssrat | [Read More](https://medium.com/p/d3612b139c89) |
 | Fri, 30 Jan 2026 17:33:01 GMT | Why Real End-to-End Testing is Crucial for Security and Functionality | Hassanmaroof | [Read More](https://medium.com/p/8dddcc9cd45b) |
+| Fri, 30 Jan 2026 17:31:26 GMT | 10-Year-Old Code Commit Just Gave Attackers Root on Thousands of Linux Boxes — CVE-2026–24061 | Lakshan Sameera | [Read More](https://medium.com/p/2484549c25c0) |
 | Fri, 30 Jan 2026 17:31:16 GMT | Securing OpenClaw with Labrat Glitch: Guardrails for Your AI Agent Gateway | David Anderson | [Read More](https://medium.com/p/e494b184c0c1) |
 | Fri, 30 Jan 2026 17:27:12 GMT | How to “Doomscroll” Your Way to a CISSP, CISA, COMPTIA Security+, OSCP, CCSP and AWS Security in 15… | The Daily Cyber News | [Read More](https://medium.com/p/d175ff29d471) |
 | Fri, 30 Jan 2026 17:25:55 GMT | BlueMoon: 2021 — A Deep Walkthrough (From Zero to Root) | Amandogra | [Read More](https://medium.com/p/8d72c033b5b9) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 Jan 2026 17:06:30 GMT | AI Smart Cards & Biometric Security in 2026: The Shift from PINs to Fingerprints | LaLiSa | [Read More](https://medium.com/p/db18b66bb23b) |
 | Fri, 30 Jan 2026 17:06:27 GMT | Try Hack Me- Cooctus Stories CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/1034891d3291) |
 | Fri, 30 Jan 2026 17:02:33 GMT | Application Security | Sude E. | [Read More](https://medium.com/p/e0aa3a4eb8c8) |
-| Fri, 30 Jan 2026 16:58:14 GMT | UofTCTF 2026 Reverse Engineering Challenges | Rynvasis | [Read More](https://medium.com/p/0df23147ca87) |
-| Fri, 30 Jan 2026 16:56:11 GMT | Certifications in Information Security Are Tools, Not Verdicts | Raleigh Guevarra | [Read More](https://medium.com/p/f1058c5fcca8) |
-| Fri, 30 Jan 2026 16:55:54 GMT | Die Zweckbestimmung eines CRA-Produkts festlegen | Sarah Fluchs | [Read More](https://medium.com/p/b97b7d325f65) |
-| Fri, 30 Jan 2026 16:50:11 GMT | Cyber Security Awareness for KIDS by Teddy Cerra | Teddy Cerra | [Read More](https://medium.com/p/5f8a83a606d1) |
-| Fri, 30 Jan 2026 16:44:14 GMT | مكتب تأجير شغالات بالشهر بمكه 0594650326 تخفيض 50% مكتب تأجير شغالات بالشهر بمكة يقدم خدمات مميزة… | مكتب تاجير شغالات بالشهر 1500 بمكه خصم 50% | [Read More](https://medium.com/p/b68b1f557492) |
-| Fri, 30 Jan 2026 16:40:22 GMT | Exploiting DOM Clobbering to Enable DOM-Based XSS | Bash Overflow | [Read More](https://medium.com/p/009edbca9d10) |
-| Fri, 30 Jan 2026 16:40:14 GMT | Openclaw: Why This Flawed AI Assistant is the Blueprint for Your Digital Future | Ken C | [Read More](https://medium.com/p/9b14d2b40ac6) |
-| Fri, 30 Jan 2026 16:39:07 GMT | When the “I” Disappears !!! | Samiksha Diwan | [Read More](https://medium.com/p/8ed3d1d41cd3) |
-| Fri, 30 Jan 2026 16:32:22 GMT | We Live Inside Stories | War Vithin | [Read More](https://medium.com/p/4200fb7d7a02) |
-| Fri, 30 Jan 2026 16:32:21 GMT | Agentic Payments: Why do I think AI Agents Need a Judge, Not Just a budget? | Aaron L | [Read More](https://medium.com/p/aae384912b4e) |
