@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 Jan 2026 14:47:36 GMT | Operationalising MITRE ATT&CK: Why Use Case Maturity Matters More Than Coverage | Barry Stephenson | [Read More](https://medium.com/p/813c735378e1) |
+| Sat, 31 Jan 2026 14:42:41 GMT | In early 2024, engineering firm Arup lost $25 million when an employee joined what appeared to be a… | The Good Security Plan | [Read More](https://medium.com/p/b336e83a4323) |
+| Sat, 31 Jan 2026 14:41:01 GMT | "Hackers don’t break in. They log in." | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/91cde28a97d0) |
+| Sat, 31 Jan 2026 14:39:04 GMT | I Logged Into My Account — and Found Someone Else Living There | Basel Issmail | [Read More](https://medium.com/p/c027993ab732) |
+| Sat, 31 Jan 2026 14:37:32 GMT | How @DroseraNetwork Addresses the Security Challenges in Lending Protocols | Hikay_smart | [Read More](https://medium.com/p/1e649bbea7d7) |
+| Sat, 31 Jan 2026 14:27:40 GMT | Independent Multi-Dimensional Analysis for Robust Ransomware Detection | David SEHYEON Baek | [Read More](https://medium.com/p/fb03ee2b41bb) |
+| Sat, 31 Jan 2026 14:26:07 GMT | The Pyramid of Pain: How Defenders Can Truly Disrupt Attackers | Little_Sun4lower | [Read More](https://medium.com/p/1ef3929ce067) |
+| Sat, 31 Jan 2026 14:26:02 GMT | Building Secure Solana Programs: A Technical Deep Dive into Smart Contract Vulnerabilities | Emmanuel Adebayo Abimbola | [Read More](https://medium.com/p/60977f8f2e5f) |
 | Sat, 31 Jan 2026 14:17:27 GMT | PortSwigger SQL Injection Labs — Part 2 | Emirkilicer | [Read More](https://medium.com/p/a6f139252561) |
 | Sat, 31 Jan 2026 14:15:33 GMT | Types of Malware Actions: Kidnap, Eavesdrop, Masquerade, Launch | Dennis Duke | [Read More](https://medium.com/p/df4b855e0e6d) |
 | Sat, 31 Jan 2026 14:15:23 GMT | ☁️ Cloud Application Hardening: The Art of Armoring Cloud Architectures | Esra Kayhan | [Read More](https://medium.com/p/29b3af2d380b) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 Jan 2026 07:05:02 GMT | In today’s fast-evolving security landscape, safeguarding people, property, and assets has become… | Ciss India | [Read More](https://medium.com/p/a099fb703f2e) |
 | Sat, 31 Jan 2026 07:01:02 GMT | CySA+ — Assumption Trap: Tool vs Purpose Confusion | the CyberStoic | [Read More](https://medium.com/p/45bdcdb03460) |
 | Sat, 31 Jan 2026 06:50:53 GMT | The New Equilibrium: How Trump’s Cybersecurity Doctrine Redefines Federal-Private Sector Relations | CCD-IS | [Read More](https://medium.com/p/f48ec6b02974) |
-| Sat, 31 Jan 2026 06:47:15 GMT | Introducing Netsectap Security Framework: A Modular Security Framework for Network Security Testing | Arcy Caparros | [Read More](https://medium.com/p/dca373f97237) |
-| Sat, 31 Jan 2026 06:43:59 GMT | Does Cybersecurity Protect just Data or Something More? | Glomygia Orji | [Read More](https://medium.com/p/29a176d507ad) |
-| Sat, 31 Jan 2026 06:38:36 GMT | AES-GCM | Yunnie | [Read More](https://medium.com/p/2ea5353f307f) |
-| Sat, 31 Jan 2026 06:34:57 GMT | Locksmith — Trusted Emergency & Residential Locksmith Services in London | The Lock Specialist Ltd | [Read More](https://medium.com/p/d34a752dbe8a) |
-| Sat, 31 Jan 2026 06:32:14 GMT | The Linux Concept Journey — initramfs (Initial Ram File System) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/9b3a13e8bfde) |
-| Sat, 31 Jan 2026 06:31:02 GMT | Secure Credential Management in Playwright | sajith dilshan | [Read More](https://medium.com/p/0cf75c4e2ff4) |
-| Sat, 31 Jan 2026 06:27:03 GMT | Web App Security Assessment with Wapiti: Hands-On Vulnerability Scanning | Cybeague Technologies | [Read More](https://medium.com/p/6b8c9e92ce35) |
-| Sat, 31 Jan 2026 06:26:14 GMT | Sn1per — Automated Pentest Reconnaissance Framework | Cybeague Technologies | [Read More](https://medium.com/p/d85f73d3ea10) |
