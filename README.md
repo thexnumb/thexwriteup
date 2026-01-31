@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 Jan 2026 13:31:02 GMT | n8n Python Code Node: Convenience vs Containment | Syntal | [Read More](https://medium.com/p/2edb141f29a5) |
+| Sat, 31 Jan 2026 13:31:01 GMT | NestJS AuthZ in 2026: Roles Aren’t Enough | Hash Block | [Read More](https://medium.com/p/227288fbb060) |
+| Sat, 31 Jan 2026 13:24:11 GMT | 10 Free OSINT Tools That Will Transform Your Digital Investigations in 2026 | DeltaBytes | [Read More](https://medium.com/p/a8927e950cec) |
+| Sat, 31 Jan 2026 13:22:48 GMT | The Invisible Architecture of Digital Trust: Why Modern Security is a Mathematical Paradox | Anna Bejan | [Read More](https://medium.com/p/eecf63ea97f1) |
+| Sat, 31 Jan 2026 13:21:17 GMT | Red Canary 2025 Threat Detection Report: Escalating Detections in a GenAI Era | Balasubramaniam GD | [Read More](https://medium.com/p/adb26e927bb9) |
+| Sat, 31 Jan 2026 13:21:01 GMT | The End of the Password Era: 5 Reasons Why Passkeys are Your New Security Superpower | Namrata | [Read More](https://medium.com/p/2ff4fda00a0a) |
+| Sat, 31 Jan 2026 13:15:48 GMT | Blockchain Gerçekten Güvenli mi? Kritik Saldırı Türleri ve Riskler | Sonat Saygın İpek | [Read More](https://medium.com/p/0892d359a381) |
+| Sat, 31 Jan 2026 13:14:03 GMT | The Invisible Backdoor: Is Your Headless WordPress Site Leaking Data? | Rakib | [Read More](https://medium.com/p/7941214054e6) |
+| Sat, 31 Jan 2026 13:11:01 GMT | Security Deep Dive — Can Someone See or Hack My Token? | Lets Learn Now | [Read More](https://medium.com/p/6217aa4f5ee9) |
+| Sat, 31 Jan 2026 13:11:01 GMT | Telnetd- The Ghost Of Past Still Haunts | Vedic_error | [Read More](https://medium.com/p/cb5cec617bb8) |
+| Sat, 31 Jan 2026 13:09:58 GMT | A Complete Guide to iOS Penetration Testing | pratham verma | [Read More](https://medium.com/p/782f49cfa0e3) |
+| Sat, 31 Jan 2026 13:06:47 GMT | 10 Steps To Cyber Security (Siber Güvenliğin 10 Adımı) | cyberman | [Read More](https://medium.com/p/63792bb72d17) |
+| Sat, 31 Jan 2026 13:05:28 GMT | THM-Reset Walkthrough | Abhay Ingale | [Read More](https://medium.com/p/6700e18bae40) |
+| Sat, 31 Jan 2026 13:00:06 GMT | Overview | Hasan Khan | [Read More](https://medium.com/p/8434b7f668ab) |
+| Sat, 31 Jan 2026 12:56:51 GMT | IDOR Vulnerability in Dictionary Endpoint — Arbitrary Deletion of User Items (€€€) | Hasan Khan | [Read More](https://medium.com/p/b97182251623) |
+| Sat, 31 Jan 2026 12:55:25 GMT | Android Alert: 3 Secret System Hacks to Instant-Boost Your Phone in 2026 | DroidUtility Lab | [Read More](https://medium.com/p/e42098391d4e) |
 | Sat, 31 Jan 2026 12:46:52 GMT | C is for Cybersecurity | Srujan Gunisetty | [Read More](https://medium.com/p/29bf6920d349) |
 | Sat, 31 Jan 2026 12:45:18 GMT | IP Değil, Kimlik: ISDB ile Akıllı Güvenlik | EMRE ÖZEL | [Read More](https://medium.com/p/5667f6e13633) |
 | Sat, 31 Jan 2026 12:31:01 GMT | Post-Quantum Cryptography in 2026: A Practical Migration Playbook for Engineers and Security Teams | Kawaldeep Singh | [Read More](https://medium.com/p/0ac4fcda0db3) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 Jan 2026 05:41:07 GMT | Malware Is No Longer “A File You Download”- It Is An Evolving Behavioral Ecosystem Of Modern… | Kabir Moharana | [Read More](https://medium.com/p/6bf75c76b942) |
 | Sat, 31 Jan 2026 05:38:00 GMT | How Do Leading Safety & Security and Guarding Services in Saudi Arabia Create Peace of Mind for… | Jaseela K | [Read More](https://medium.com/p/16b97fc083f8) |
 | Sat, 31 Jan 2026 05:34:13 GMT | From Movies to Malware: Why I Chose Cyber Forensics | Sv | [Read More](https://medium.com/p/86cd351c6d5e) |
-| Sat, 31 Jan 2026 05:29:54 GMT | Inside the Phishing Lab: 5 Surprising Truths About Modern Social Engineering Simulations | Diya Karmacharya | [Read More](https://medium.com/p/d383382335ef) |
-| Sat, 31 Jan 2026 05:29:34 GMT | Reusing Keys Turns Your Encryption into a Word Puzzle | Amit Tomar | [Read More](https://medium.com/p/52ef92c54bf6) |
-| Sat, 31 Jan 2026 05:21:12 GMT | From Strategy to Execution: What Modern IT Consulting Really Delivers | Sovorun | [Read More](https://medium.com/p/a3dba2d44a56) |
-| Sat, 31 Jan 2026 05:16:30 GMT | Mistakes Beginners Make While Learning Cybersecurity (And How to Avoid Them) | Abhinsubej | [Read More](https://medium.com/p/456cb7b504d8) |
-| Sat, 31 Jan 2026 05:14:47 GMT | How to Read a Web App Like a Hacker (Even If You’re Not Technical Yet) | Er Dhaval Ramani | [Read More](https://medium.com/p/dcc10e034d72) |
-| Sat, 31 Jan 2026 05:11:54 GMT | An AI Just Negotiated a $4,200 Car Discount While Its Owner Was in a Meeting | Zoom In AI | [Read More](https://medium.com/p/bada1d95b12c) |
-| Sat, 31 Jan 2026 05:09:46 GMT | What Actually Happens When You Click “I Agree” Online | Vignesh Selvaraj | [Read More](https://medium.com/p/1f920a40a0a2) |
-| Sat, 31 Jan 2026 05:08:26 GMT | Deep Dive: Testing and Expanding Network Segmentation in Fintech | Madu Nelson Izunna | [Read More](https://medium.com/p/3c5f244073dd) |
-| Sat, 31 Jan 2026 05:06:36 GMT | Stop Learning Python — Start Solving These Problems Instead | Ibrahimrana | [Read More](https://medium.com/p/7622afc613ed) |
-| Sat, 31 Jan 2026 05:06:06 GMT | Prime Ways To Monetize Information — Super Business Manager | Jerry Grzegorzek (SuperBusinessManager.com) | [Read More](https://medium.com/p/9b5aeb82aab0) |
-| Sat, 31 Jan 2026 05:05:34 GMT | VigilX’s First Hunt: Two Critical Vulnerabilities in Sei Network’s Tendermint Fork | Jeremyah Joel | [Read More](https://medium.com/p/cdc30e5285ac) |
-| Sat, 31 Jan 2026 05:01:59 GMT | How to Choose the Best IT Certification for Your Career | revathi msr | [Read More](https://medium.com/p/07f0bddd9dec) |
-| Sat, 31 Jan 2026 05:01:31 GMT | CTF Write-Up: Cyborg — Privilege Escalation on Apache Server | Sector | [Read More](https://medium.com/p/95b77acf5f08) |
-| Sat, 31 Jan 2026 04:51:17 GMT | NARA Walkthrough - Proving Grounds Practice | Shaik Nawaz Ahmed | [Read More](https://medium.com/p/d44b8d62a598) |
-| Sat, 31 Jan 2026 04:49:47 GMT | Moving from Guardrails to a Zero-Trust AI Architecture | Shankar Kumarasamy | [Read More](https://medium.com/p/c2c0abb95fbf) |
-| Sat, 31 Jan 2026 04:45:35 GMT | Osaka Walkthrough - Proving Grounds Practive | Shaik Nawaz Ahmed | [Read More](https://medium.com/p/0ee0e65ee1da) |
