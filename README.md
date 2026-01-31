@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 Jan 2026 17:09:55 GMT | AI Agent Planning Framework: Building Reliable Autonomous AI Systems | Birendar Bisht | [Read More](https://medium.com/p/5acf52f8de45) |
+| Sat, 31 Jan 2026 17:07:02 GMT | Implementing a Vulnerability Scanning Pipeline Using AWS Lambda and SQS | Samanvay Kumar | [Read More](https://medium.com/p/06e01c70bc8a) |
+| Sat, 31 Jan 2026 17:01:53 GMT | GeoServer: CVE-2025–58360 - Tryhackme | Aaron | [Read More](https://medium.com/p/f760e934282f) |
+| Sat, 31 Jan 2026 17:01:02 GMT | How Security Guard Companies in Staten Island Improve Patient Safety? | The Safety Perspective | [Read More](https://medium.com/p/0aed86bbbb86) |
+| Sat, 31 Jan 2026 16:38:00 GMT | Mengeksploitasi pemetaan path untuk penipuan cache web (PortSwigger) | Naufal Arif Athallah | [Read More](https://medium.com/p/e4dc63ba6d76) |
+| Sat, 31 Jan 2026 16:27:28 GMT | How I Hacked an Enterprise’s Entire User Database with One Hardcoded Credential: SAP IAM Deep Dive | HR | [Read More](https://medium.com/p/6ce426f4a2d7) |
+| Sat, 31 Jan 2026 16:26:47 GMT | TryHackMe - Intro to Log Analysis — Writeup | CyberWithManos | [Read More](https://medium.com/p/1c6f98e7c5fa) |
 | Sat, 31 Jan 2026 16:23:55 GMT | The Art of Knowing Before Breaking(Reconnaissance): | Amandogra | [Read More](https://medium.com/p/b0d9ea630304) |
 | Sat, 31 Jan 2026 16:21:45 GMT | How to Be Financially Strong: Smart Money Habits for Life | Vandit Bhut | [Read More](https://medium.com/p/b6344ff1af85) |
 | Sat, 31 Jan 2026 16:18:32 GMT | AI-Assisted Web and Cloud Penetration Testing with Cursor + MCP HexStrike and Burp Suite MCP. | Andrey Pautov | [Read More](https://medium.com/p/01c02eed5258) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 Jan 2026 10:30:20 GMT | Security Practices That Actually Protect Production Applications (Part 1) | Magdalena Furman | [Read More](https://medium.com/p/ebbe25f031d3) |
 | Sat, 31 Jan 2026 10:28:53 GMT | Ottergram writeup (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/1ecd388f94e6) |
 | Sat, 31 Jan 2026 10:27:23 GMT | Building an Automated AWS Security Remediation Framework with Security Hub and Systems Manager | Emmanuel Akuffo | [Read More](https://medium.com/p/1cfb405d2137) |
-| Sat, 31 Jan 2026 10:25:15 GMT | Top Free Cybersecurity Courses From Big Tech Companies (2026) | Shaif Ali | [Read More](https://medium.com/p/c7c70f87cdb4) |
-| Sat, 31 Jan 2026 10:14:14 GMT | Firewall’u Aşan Saldırganı İçerde Yakalamak . IDS ve IPS Nedir? | Arda Derya | [Read More](https://medium.com/p/0ff024f8058d) |
-| Sat, 31 Jan 2026 10:09:54 GMT | Module outside accounting | Progsky | [Read More](https://medium.com/p/4d15f20db650) |
-| Sat, 31 Jan 2026 10:00:21 GMT | Breaking InsecureShop: An In-Depth Android Security Write-up & Source Analysis | lightofmoon | [Read More](https://medium.com/p/7f06a70aa5c6) |
-| Sat, 31 Jan 2026 09:57:41 GMT | Remote Code Execution (RCE): Uzaktan Sistem Ele Geçirme Nasıl Olur? | Arda Derya | [Read More](https://medium.com/p/04a71bdf14b0) |
-| Sat, 31 Jan 2026 09:51:47 GMT | Your Browser Isn’t “Just a Browser” Anymore: The Extension Scam That Can Hijack Your Links — and… | Germano Costi | [Read More](https://medium.com/p/a295cef703c4) |
-| Sat, 31 Jan 2026 09:38:39 GMT | Millennium Ultra: The Next Generation of Access Control Software for Modern Enterprises | Tony Brooks | [Read More](https://medium.com/p/f0aa419aa7b3) |
