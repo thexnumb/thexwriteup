@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 Jan 2026 22:19:47 GMT | When MFA Lockouts Aren’t Attacks | Kaleem Khan | [Read More](https://medium.com/p/6aaed7f20348) |
+| Sat, 31 Jan 2026 22:14:50 GMT | CTF Write-up : Reduced Collisions | SPIDER1SEC | [Read More](https://medium.com/p/9373e48adc75) |
+| Sat, 31 Jan 2026 22:11:36 GMT | SOAR This SOAR That: Everyone is talking about Automation. No One Does It. | Serhan Eraslan | [Read More](https://medium.com/p/a578dc0a791e) |
+| Sat, 31 Jan 2026 22:10:44 GMT | Installing pfSense on VMware: A Complete Step-by-Step Guide | Augustine Sito | [Read More](https://medium.com/p/cf3519331d49) |
+| Sat, 31 Jan 2026 22:03:56 GMT | Why Network Security Is No Longer Just About Defense | Shahzad Ayub | [Read More](https://medium.com/p/1841581c2561) |
+| Sat, 31 Jan 2026 21:56:56 GMT | Day 6 pt2 : Splunk | Cybersecurity with Jojo | [Read More](https://medium.com/p/05f80cf139e3) |
+| Sat, 31 Jan 2026 21:54:38 GMT | Buyers Guide to External Network Pentesting Services | Connor Cady | [Read More](https://medium.com/p/a2aa21394303) |
+| Sat, 31 Jan 2026 21:52:17 GMT | Ring Outdoor Cam Plus, Battery (newest model), Home or business security, Wide-Angle 2K Video with… | Amazon Review | [Read More](https://medium.com/p/0ad01a05f547) |
+| Sat, 31 Jan 2026 21:41:16 GMT | Cyber Range Simulation for Adversarial and Defensive Operations | NSESean | [Read More](https://medium.com/p/ad0471c8839c) |
 | Sat, 31 Jan 2026 21:34:43 GMT | TryHackMe — Chill Hack (CTF Write-up) | RCA62X8 | [Read More](https://medium.com/p/e556a48aeb9b) |
 | Sat, 31 Jan 2026 21:31:06 GMT | TIME TO VENT | A. Nosa | [Read More](https://medium.com/p/5bc6364127f4) |
 | Sat, 31 Jan 2026 21:29:56 GMT | HTB - CPTS - Shells & Payloads — The Live Engagement | CyberMateUY | [Read More](https://medium.com/p/2d47700d4ce8) |
@@ -104,13 +113,3 @@ AI-POWERED, MULTI-CHAIN TOKEN RISK INTELLIGENCE PLATFORM - CONFIDENTIAL… | Dav
 | Sat, 31 Jan 2026 15:04:37 GMT | Kettaro Artist Protection: The First Automated System That Detects Stolen NFT Art Before It… | Kettaro | [Read More](https://medium.com/p/3f93a506f56a) |
 | Sat, 31 Jan 2026 15:02:36 GMT | A Complete Cloud Penetration Testing Walkthrough | Andrey Pautov | [Read More](https://medium.com/p/1914f687d7fd) |
 | Sat, 31 Jan 2026 15:00:40 GMT | [Write-up] SOC Analyst Simulation: Investigating a Local File Inclusion (LFI) Attempt | Pablo Parma | [Read More](https://medium.com/p/22dbcdb6b052) |
-| Sat, 31 Jan 2026 14:58:59 GMT | The Most Expensive Security Tool Is the One You Don’t Have Visibility Into | Sam Walker | [Read More](https://medium.com/p/eeac2b3faee7) |
-| Sat, 31 Jan 2026 14:55:40 GMT | Think the Lock Icon Means Safety? Think Again | Yuvashree | [Read More](https://medium.com/p/4136d9195cb1) |
-| Sat, 31 Jan 2026 14:47:36 GMT | Operationalising MITRE ATT&CK: Why Use Case Maturity Matters More Than Coverage | Barry Stephenson | [Read More](https://medium.com/p/813c735378e1) |
-| Sat, 31 Jan 2026 14:43:55 GMT | # Kameralar Necə İzləyir?
-## IP Kameralar, Gizli İzləmə və Real Kibertəhlükəsizlik Dərsləri (2026) | cybershieldy.com | [Read More](https://medium.com/p/d56ab5b99b6c) |
-| Sat, 31 Jan 2026 14:42:41 GMT | In early 2024, engineering firm Arup lost $25 million when an employee joined what appeared to be a… | The Good Security Plan | [Read More](https://medium.com/p/b336e83a4323) |
-| Sat, 31 Jan 2026 14:41:01 GMT | "Hackers don’t break in. They log in." | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/91cde28a97d0) |
-| Sat, 31 Jan 2026 14:39:04 GMT | I Logged Into My Account — and Found Someone Else Living There | Basel Issmail | [Read More](https://medium.com/p/c027993ab732) |
-| Sat, 31 Jan 2026 14:37:32 GMT | How @DroseraNetwork Addresses the Security Challenges in Lending Protocols | Hikay_smart | [Read More](https://medium.com/p/1e649bbea7d7) |
-| Sat, 31 Jan 2026 14:27:40 GMT | Independent Multi-Dimensional Analysis for Robust Ransomware Detection | David SEHYEON Baek | [Read More](https://medium.com/p/fb03ee2b41bb) |
