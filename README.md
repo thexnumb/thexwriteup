@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 Jan 2026 23:44:03 GMT | The IDOR’ventures — The Tickets & More — A Different Kind Of $36,000 Bounty | Justas_b_2 | [Read More](https://medium.com/p/6cabbd01e4fb) |
+| Sat, 31 Jan 2026 23:31:47 GMT | Information Is the Real Engine Behind Every Computer System | Resourceful Dev | [Read More](https://medium.com/p/194604460e5b) |
+| Sat, 31 Jan 2026 23:26:20 GMT | The Last Honest Letter: Security When AI Can Be Anyone | Latinum Institute Press | [Read More](https://medium.com/p/0a6b65209a0f) |
+| Sat, 31 Jan 2026 23:24:53 GMT | Security testing just got a lot more agentic | JP Caparas | [Read More](https://medium.com/p/24aa661cd368) |
+| Sat, 31 Jan 2026 23:24:51 GMT | ️‍♂️ Peek-a-Boo, I See You: How We Bypassed Cloudflare and Toppled a Phishing Empire (Thanks to a… | HUNT3R | [Read More](https://medium.com/p/a10f80fef241) |
 | Sat, 31 Jan 2026 23:14:11 GMT | Agapimeni Kardia: | Alex Oluwatosin Anuoluwapo | [Read More](https://medium.com/p/a1998ebd54f4) |
 | Sat, 31 Jan 2026 23:11:43 GMT | Best Indoor Smart Cameras: Blink Mini 2 vs Blink Mini Pan vs Ring Pan-Tilt | kutub | [Read More](https://medium.com/p/448b62657919) |
 | Sat, 31 Jan 2026 23:10:50 GMT | 1) Introduction — The problem we’re actually trying to solve | Jordy de Koning | [Read More](https://medium.com/p/31b4fbd9761f) |
@@ -108,8 +113,3 @@ AI-POWERED, MULTI-CHAIN TOKEN RISK INTELLIGENCE PLATFORM - CONFIDENTIAL… | Dav
 | Sat, 31 Jan 2026 15:47:27 GMT | The $100B Problem. Why the global surveillance market is fundamentally broken | Volve Vision | [Read More](https://medium.com/p/6eaaa251564f) |
 | Sat, 31 Jan 2026 15:36:22 GMT | Moltbook: A Social Network for AI Agents | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/29aa1e82b5c4) |
 | Sat, 31 Jan 2026 15:36:18 GMT | 31st January 2026 | Phoenix Files | [Read More](https://medium.com/p/2ef75057c0c3) |
-| Sat, 31 Jan 2026 15:32:03 GMT | Safe Software Installs That Protect Privacy and Performance | Geoffrey Wenger | [Read More](https://medium.com/p/d27cc3562f11) |
-| Sat, 31 Jan 2026 15:31:01 GMT | Rotate n8n Secrets Without Breaking Workflows | Modexa | [Read More](https://medium.com/p/979bcc18b405) |
-| Sat, 31 Jan 2026 15:29:16 GMT | Agent Tesla: From Noisy Injection to Silent Persistence | Kaan | [Read More](https://medium.com/p/f9a903819ae4) |
-| Sat, 31 Jan 2026 15:28:34 GMT | How Google’s Foundations of Cybersecurity Helped Me Find Direction | Nikita | [Read More](https://medium.com/p/8a097b3e7d12) |
-| Sat, 31 Jan 2026 15:26:09 GMT | Vincent Gianni on Using AI to Scale Enterprise IT Operations at Nationwide Scale | Vincent Gianni | [Read More](https://medium.com/p/526b49200d15) |
