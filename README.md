@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 Jan 2026 18:22:22 GMT | Cyberspace and the Evolution of Contemporary Warfare | Charudutta Sawant | [Read More](https://medium.com/p/97ca8b5b6cc8) |
+| Sat, 31 Jan 2026 18:21:08 GMT | The Phishing Series: Detecting Phishing Emails in a Controlled Lab — Authentication Headers | Norman Kolarikkal | [Read More](https://medium.com/p/c782fe90d49b) |
+| Sat, 31 Jan 2026 18:20:47 GMT | Hunting Volt Typhoon: A Full SOC-Level DFIR Walkthrough with Splunk | Saniye Nur | [Read More](https://medium.com/p/50fd44a00439) |
+| Sat, 31 Jan 2026 18:16:50 GMT | Database Lock 全面解讀 | 思維舞步 MindSteps | [Read More](https://medium.com/p/71914c2dfd10) |
+| Sat, 31 Jan 2026 18:16:01 GMT | Incident Response for Web3 Teams: The 30-Minute Playbook | Exploitless | [Read More](https://medium.com/p/e5f69382f917) |
+| Sat, 31 Jan 2026 18:11:07 GMT | Wazuh ile Uç Nokta Güvenliği ve İzleme: EDR Dünyasına Giriş (TryHackMe-Wazuh) | Ahmet Hakan Öztürk | [Read More](https://medium.com/p/0833b72c2528) |
+| Sat, 31 Jan 2026 18:08:33 GMT | ColddBox: Easy Write-Up | Sooraj Mohan | [Read More](https://medium.com/p/f738829a69e5) |
+| Sat, 31 Jan 2026 18:00:30 GMT | Dissecting LummaStealer: A Walkthrough of the “Angry Likho” Lab | Muhammad Omar F F | [Read More](https://medium.com/p/4d578cc07df0) |
+| Sat, 31 Jan 2026 17:58:40 GMT | The Future of Encryption in a Post-Quantum World | Mubashir | [Read More](https://medium.com/p/2bf0a4e8b88c) |
+| Sat, 31 Jan 2026 17:55:02 GMT | M A G I K: Reducing Subjectivity in Cyber Risk Assessment | Ratnadeep Dey Roy | [Read More](https://medium.com/p/221177632fe8) |
+| Sat, 31 Jan 2026 17:52:35 GMT | The Phoenix Project: A Book That Felt Uncomfortably Familiar (In a Good Way) | Priyansh Shandilya | [Read More](https://medium.com/p/be506c847a78) |
+| Sat, 31 Jan 2026 17:52:02 GMT | TryHackMe Writeup: Jax Sucks Alot | Berkay AĞGÜL | [Read More](https://medium.com/p/7c2d19fdb668) |
+| Sat, 31 Jan 2026 17:48:57 GMT | Prompt Injection in LLM-Integrated Applications: A Case Study in Misintegration | HR | [Read More](https://medium.com/p/8f11153ee788) |
 | Sat, 31 Jan 2026 17:38:01 GMT | CodePartTwo Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/da505c00e0cc) |
 | Sat, 31 Jan 2026 17:32:43 GMT | Can AI Make India Feel Digitally Safer? | Clara Smith | [Read More](https://medium.com/p/6425e4b99c7b) |
 | Sat, 31 Jan 2026 17:29:54 GMT | Why OTPs Sometimes Stay the Same — A Backend Story from Spring Boot | Arunamallaraddi | [Read More](https://medium.com/p/d5a854619693) |
@@ -19,6 +32,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 Jan 2026 17:07:02 GMT | Implementing a Vulnerability Scanning Pipeline Using AWS Lambda and SQS | Samanvay Kumar | [Read More](https://medium.com/p/06e01c70bc8a) |
 | Sat, 31 Jan 2026 17:01:53 GMT | GeoServer: CVE-2025–58360 - Tryhackme | Aaron | [Read More](https://medium.com/p/f760e934282f) |
 | Sat, 31 Jan 2026 17:01:02 GMT | How Security Guard Companies in Staten Island Improve Patient Safety? | The Safety Perspective | [Read More](https://medium.com/p/0aed86bbbb86) |
+| Sat, 31 Jan 2026 16:39:24 GMT | How I Was Able to Take Over All Organizations on the Platform via Stored XSS chained with BAC and… | Saif Eldin | [Read More](https://medium.com/p/24ea39046b0c) |
 | Sat, 31 Jan 2026 16:38:00 GMT | Mengeksploitasi pemetaan path untuk penipuan cache web (PortSwigger) | Naufal Arif Athallah | [Read More](https://medium.com/p/e4dc63ba6d76) |
 | Sat, 31 Jan 2026 16:27:28 GMT | How I Hacked an Enterprise’s Entire User Database with One Hardcoded Credential: SAP IAM Deep Dive | HR | [Read More](https://medium.com/p/6ce426f4a2d7) |
 | Sat, 31 Jan 2026 16:26:47 GMT | TryHackMe - Intro to Log Analysis — Writeup | CyberWithManos | [Read More](https://medium.com/p/1c6f98e7c5fa) |
@@ -99,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 Jan 2026 12:01:01 GMT | Schemas Are the New Safety Rails for Agents | Vectorlane | [Read More](https://medium.com/p/46095a1f8e85) |
 | Sat, 31 Jan 2026 11:46:53 GMT | Command Injection via PATH Environment Variable in Clawdbot Docker Sandbox (CVE-2026–24763) | Berk Dedekargınoğlu | [Read More](https://medium.com/p/86b22a1c3b35) |
 | Sat, 31 Jan 2026 11:40:57 GMT | Deterministic AWS Security Posture Validation with Checkov, Prowler, Steampipe and Powerpipe | CoffeeCloud Series | [Read More](https://medium.com/p/ffdea825a522) |
-| Sat, 31 Jan 2026 11:40:32 GMT | HTTP Request Smuggling Lab Basic CL.TE vulnerability | Mukilan Baskaran | [Read More](https://medium.com/p/ce47accfd024) |
-| Sat, 31 Jan 2026 11:39:20 GMT | SIEM (Should I Even Manage?!) | Malcolm Vella Vidal | [Read More](https://medium.com/p/f372738c4083) |
-| Sat, 31 Jan 2026 11:35:18 GMT | The Complete Beginner’s Guide to JWT Authentication | Akshay Parihar | [Read More](https://medium.com/p/442db2de0008) |
-| Sat, 31 Jan 2026 11:34:57 GMT | Pentester Bytes: GraphQL Tools | Shivam Bathla | [Read More](https://medium.com/p/a1340da6466b) |
-| Sat, 31 Jan 2026 11:31:01 GMT | n8n Self-Hosting: The Security Bill Comes Due | Syntal | [Read More](https://medium.com/p/d35d1ec80c9e) |
-| Sat, 31 Jan 2026 11:20:43 GMT | No Vault? No GitOps? No Problem — Securing K8s Secrets with SOPS | Kienlt | [Read More](https://medium.com/p/3e4853f42be8) |
-| Sat, 31 Jan 2026 11:16:31 GMT | AI can write code, but can you catch its mistakes? | Abhishek | [Read More](https://medium.com/p/db9e77079c5d) |
-| Sat, 31 Jan 2026 11:14:58 GMT | Building a Secure AWS Serverless Web Application with CloudFront, WAF, Lambda, and DynamoDB | Saksham Singh | [Read More](https://medium.com/p/c4f8195134d5) |
-| Sat, 31 Jan 2026 11:12:15 GMT | Beware of Fake PNB MetLife Payment Gateways: A New-Age Phishing Scam Using UPI Apps | Deven Chhajed | [Read More](https://medium.com/p/980ac3efc5f2) |
-| Sat, 31 Jan 2026 11:07:46 GMT | Day 8 — Understanding Linux From the Ground Up: The System Every SOC Analyst Must Know | Faizan Nazir | [Read More](https://medium.com/p/27927b7f9d97) |
-| Sat, 31 Jan 2026 10:59:46 GMT | Cyber- and e-diplomacy — with focus on cyber security, AI in cyber diplomacy and digital norms | Bastian Friborg | [Read More](https://medium.com/p/663d2b1b8566) |
-| Sat, 31 Jan 2026 10:57:32 GMT | Gaining Initial Access In Red Teaming | Redfox Security | [Read More](https://medium.com/p/d678a0ae2542) |
-| Sat, 31 Jan 2026 10:56:19 GMT | Artificial Intelligence Career Guidance in India 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/1a1a90a8a4cf) |
-| Sat, 31 Jan 2026 10:36:34 GMT | Day 6: Introduction to SSRF | Cybersecurity with Jojo | [Read More](https://medium.com/p/fccb9c984e56) |
