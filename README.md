@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 Jan 2026 08:32:36 GMT | How a London Locksmith Supports Safe Access in a Fast-Moving City | SE1 Locksmiths Ltd | [Read More](https://medium.com/p/61993b5ed437) |
+| Sat, 31 Jan 2026 08:32:22 GMT | Top Benefits of Custom Software Development for Growing Businesses | Ishita Kundu | [Read More](https://medium.com/p/3d0b082b7988) |
+| Sat, 31 Jan 2026 08:23:19 GMT | Techlive .Guru- Top Technology Trends Shaping 2026: From Agentic AI to Quantum Leap and Beyond | techlive.Guru | [Read More](https://medium.com/p/72e87900a62c) |
+| Sat, 31 Jan 2026 08:21:56 GMT | Elevate Your IT Career with CIS Auditor Certification | Irfan Sharief | [Read More](https://medium.com/p/61223c55d6a5) |
+| Sat, 31 Jan 2026 08:19:50 GMT | How to learn Artificial Intelligence for Beginners | cyber security Updates | [Read More](https://medium.com/p/fc7ee6e5bd84) |
+| Sat, 31 Jan 2026 08:19:47 GMT | MITM Attack | Bolles Wassim | [Read More](https://medium.com/p/62e886109352) |
+| Sat, 31 Jan 2026 08:15:05 GMT | Getting Over It APK | Game4u | [Read More](https://medium.com/p/5ca885aaa839) |
+| Sat, 31 Jan 2026 08:07:46 GMT | OverTheWire Bandit Complete Review: My Experience Learning Linux and Security | Asad Sayyad | [Read More](https://medium.com/p/e348c1e79968) |
+| Sat, 31 Jan 2026 08:05:08 GMT | How Predictive Analytics Is Transforming Cyber Threat Detection and Why Guest Post Outreach Matters… | Top Tech Outreach | [Read More](https://medium.com/p/d7fb7122ae1a) |
+| Sat, 31 Jan 2026 07:58:23 GMT | SOC Home Lab with Wazuh — Part 1 | Nitesh shah | [Read More](https://medium.com/p/de1d8ab767ed) |
+| Sat, 31 Jan 2026 07:50:55 GMT | Permit2 Logic Simplified And Associated Risks. | 0xFlare | [Read More](https://medium.com/p/06c4e3ef8f05) |
+| Sat, 31 Jan 2026 07:48:49 GMT | TechStackTrivia: Why the Early Internet Sounded Like a Dying Robot | Chris @ mostsignificant | [Read More](https://medium.com/p/27f02fdd7a50) |
+| Sat, 31 Jan 2026 07:38:01 GMT | FORGEROCK AUTHENTICATION TREES — FULL ADVANCED GUIDE | Serving Aid Key for Humans and Animals Foundation | [Read More](https://medium.com/p/ca64bc24ff3c) |
 | Sat, 31 Jan 2026 07:15:05 GMT | Building a Secure Git Automation Tool Using Python and Cron | Asad Sayyad | [Read More](https://medium.com/p/1406ee257294) |
 | Sat, 31 Jan 2026 07:05:02 GMT | In today’s fast-evolving security landscape, safeguarding people, property, and assets has become… | Ciss India | [Read More](https://medium.com/p/a099fb703f2e) |
 | Sat, 31 Jan 2026 07:01:02 GMT | CySA+ — Assumption Trap: Tool vs Purpose Confusion | the CyberStoic | [Read More](https://medium.com/p/45bdcdb03460) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 Jan 2026 22:00:52 GMT | Google warns of widespread exploitation of WinRAR vulnerability CVE-2025–8088 and here’s how the… | Harsh Raj Singhania | [Read More](https://medium.com/p/311262ea48e0) |
 | Fri, 30 Jan 2026 21:59:49 GMT | Starting My Cybersecurity Journey: January 2026 (Foundations Month) | Nikita | [Read More](https://medium.com/p/eee78d1fb860) |
 | Fri, 30 Jan 2026 21:42:30 GMT | Post-Quantum Cryptography in 2026 | Configr Technologies | [Read More](https://medium.com/p/34dd20af5b52) |
-| Fri, 30 Jan 2026 21:38:00 GMT | Automated CTI-Based Risk Register and ISO Mapping in n8n | H3NRY B41T | [Read More](https://medium.com/p/09013956ee7b) |
-| Fri, 30 Jan 2026 21:35:13 GMT | The Send Button Is a Memory | James Kuhman | [Read More](https://medium.com/p/6b3e42f24e30) |
-| Fri, 30 Jan 2026 21:30:02 GMT | The Problem Isn’t Alerts — It’s How We Think: Cybersecurity Models Explained | George Samir | [Read More](https://medium.com/p/8107b59b263c) |
-| Fri, 30 Jan 2026 21:25:17 GMT | HackThisSite — Basic Level 3 — Publicly Accessible Sensitive Files | Javier | [Read More](https://medium.com/p/7e9cb621212e) |
-| Fri, 30 Jan 2026 21:21:02 GMT | Building an Explainable Fraud Awareness System Using Python | Vishal Diwase | [Read More](https://medium.com/p/ef483db65854) |
-| Fri, 30 Jan 2026 21:20:32 GMT | Home Security Isn’t Just About Alarms | PRL Style | [Read More](https://medium.com/p/99d5a4a6658e) |
-| Fri, 30 Jan 2026 21:14:43 GMT | AI Acceptable Use Policy — How to Use AI Safely | Emory French | [Read More](https://medium.com/p/6b212484bb88) |
-| Fri, 30 Jan 2026 21:12:06 GMT | Analyzing a malware that steals payments via QR codes (PixStealer) | Nickguitar | [Read More](https://medium.com/p/dd697b2e5f75) |
-| Fri, 30 Jan 2026 21:11:09 GMT | Day 5 : Metasploit pt.2 — Meterpreter | Cybersecurity with Jojo | [Read More](https://medium.com/p/bb37b91c34c1) |
-| Fri, 30 Jan 2026 21:09:53 GMT | Análise de um malware que rouba Pix (PixStealer) | Nickguitar | [Read More](https://medium.com/p/a25cfc52f1ab) |
-| Fri, 30 Jan 2026 20:45:11 GMT | Deploying PrestaShop on AWS for Free: A Secure Two-Tier Architecture Guide | Sunday Vegher | [Read More](https://medium.com/p/fa9f51fb14df) |
-| Fri, 30 Jan 2026 20:39:48 GMT | AI Governance vs AI Security | Nathaniel Niyazov | [Read More](https://medium.com/p/f0528c0e0446) |
-| Fri, 30 Jan 2026 20:23:46 GMT | The Davos Epitaph | Victor Babaniyi | [Read More](https://medium.com/p/051b862b98d3) |
