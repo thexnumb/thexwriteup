@@ -12,12 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 Jan 2026 05:50:45 GMT | When Your Phone Is the Key: Access Fragility and Backup Plans | James Kuhman | [Read More](https://medium.com/p/73e5e0477825) |
+| Sat, 31 Jan 2026 05:45:46 GMT | Why Growing Sites Outgrow Shared Plans Faster Than Expected? | Ann Taylor | [Read More](https://medium.com/p/4e7dffba94b6) |
+| Sat, 31 Jan 2026 05:45:30 GMT | IT Consulting Explained: Turning Technology Into a Competitive Advantage | Sovorun | [Read More](https://medium.com/p/5f60bc5a6238) |
+| Sat, 31 Jan 2026 05:41:07 GMT | Malware Is No Longer “A File You Download”- It Is An Evolving Behavioral Ecosystem Of Modern… | Kabir Moharana | [Read More](https://medium.com/p/6bf75c76b942) |
+| Sat, 31 Jan 2026 05:38:00 GMT | How Do Leading Safety & Security and Guarding Services in Saudi Arabia Create Peace of Mind for… | Jaseela K | [Read More](https://medium.com/p/16b97fc083f8) |
+| Sat, 31 Jan 2026 05:34:13 GMT | From Movies to Malware: Why I Chose Cyber Forensics | Sv | [Read More](https://medium.com/p/86cd351c6d5e) |
+| Sat, 31 Jan 2026 05:29:54 GMT | Inside the Phishing Lab: 5 Surprising Truths About Modern Social Engineering Simulations | Diya Karmacharya | [Read More](https://medium.com/p/d383382335ef) |
+| Sat, 31 Jan 2026 05:29:34 GMT | Reusing Keys Turns Your Encryption into a Word Puzzle | Amit Tomar | [Read More](https://medium.com/p/52ef92c54bf6) |
+| Sat, 31 Jan 2026 05:21:12 GMT | From Strategy to Execution: What Modern IT Consulting Really Delivers | Sovorun | [Read More](https://medium.com/p/a3dba2d44a56) |
 | Sat, 31 Jan 2026 05:16:30 GMT | Mistakes Beginners Make While Learning Cybersecurity (And How to Avoid Them) | Abhinsubej | [Read More](https://medium.com/p/456cb7b504d8) |
 | Sat, 31 Jan 2026 05:14:47 GMT | How to Read a Web App Like a Hacker (Even If You’re Not Technical Yet) | Er Dhaval Ramani | [Read More](https://medium.com/p/dcc10e034d72) |
 | Sat, 31 Jan 2026 05:11:54 GMT | An AI Just Negotiated a $4,200 Car Discount While Its Owner Was in a Meeting | Zoom In AI | [Read More](https://medium.com/p/bada1d95b12c) |
 | Sat, 31 Jan 2026 05:09:46 GMT | What Actually Happens When You Click “I Agree” Online | Vignesh Selvaraj | [Read More](https://medium.com/p/1f920a40a0a2) |
 | Sat, 31 Jan 2026 05:08:26 GMT | Deep Dive: Testing and Expanding Network Segmentation in Fintech | Madu Nelson Izunna | [Read More](https://medium.com/p/3c5f244073dd) |
 | Sat, 31 Jan 2026 05:06:36 GMT | Stop Learning Python — Start Solving These Problems Instead | Ibrahimrana | [Read More](https://medium.com/p/7622afc613ed) |
+| Sat, 31 Jan 2026 05:06:06 GMT | Prime Ways To Monetize Information — Super Business Manager | Jerry Grzegorzek (SuperBusinessManager.com) | [Read More](https://medium.com/p/9b5aeb82aab0) |
 | Sat, 31 Jan 2026 05:05:34 GMT | VigilX’s First Hunt: Two Critical Vulnerabilities in Sei Network’s Tendermint Fork | Jeremyah Joel | [Read More](https://medium.com/p/cdc30e5285ac) |
 | Sat, 31 Jan 2026 05:01:59 GMT | How to Choose the Best IT Certification for Your Career | revathi msr | [Read More](https://medium.com/p/07f0bddd9dec) |
 | Sat, 31 Jan 2026 05:01:31 GMT | CTF Write-Up: Cyborg — Privilege Escalation on Apache Server | Sector | [Read More](https://medium.com/p/95b77acf5f08) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 Jan 2026 18:24:26 GMT | Clawdbot (Now Moltbot): The AI That Works for You — or Spies on You? | Nazrul Islam Rana | [Read More](https://medium.com/p/500afc696a2e) |
 | Fri, 30 Jan 2026 18:23:33 GMT | AI Security Reports — January 2025 | Tal Eliyahu | [Read More](https://medium.com/p/3db5854196ea) |
 | Fri, 30 Jan 2026 18:21:21 GMT | The 1inch Fusion v1 Exploit: How a Calldata Corruption Vulnerability Drained $5 Million | Olympix | [Read More](https://medium.com/p/d5667c83fc2a) |
-| Fri, 30 Jan 2026 18:21:16 GMT | Secrets in the AI Era: Where Plaintext Lives | Taubyte | [Read More](https://medium.com/p/d97bab83610b) |
-| Fri, 30 Jan 2026 18:20:32 GMT | I Offer Everything. And I Still Hope Someone Gives It Back. | KV | [Read More](https://medium.com/p/4dc359e0e078) |
-| Fri, 30 Jan 2026 18:14:09 GMT | “I Tried to Break My Own AWS Account — Here’s What It Taught Me About Real AWS Security” | ShubhamSurvase | [Read More](https://medium.com/p/c93c90737d96) |
-| Fri, 30 Jan 2026 18:10:23 GMT | If You Think Cape Mobile Is Secure — Think Again | Samuel Brice | [Read More](https://medium.com/p/37ce5bbf76d5) |
-| Fri, 30 Jan 2026 18:07:52 GMT | When AI Plays Detective: Recovering 200 Lost Credit Notes | Omar Antonio Díaz Peña | [Read More](https://medium.com/p/1aa5c0766899) |
-| Fri, 30 Jan 2026 18:07:11 GMT | Qrypta: Pioneering the Post-Quantum Future in Crypto as Ethereum Accelerates Its Defenses Tech and… | Qrypta | [Read More](https://medium.com/p/ab4a6c0b805c) |
-| Fri, 30 Jan 2026 18:01:02 GMT | I Hid My Entire Bitcoin Seed Phrase in a Family Photo (And Nobody Knew) | Simon Reed | [Read More](https://medium.com/p/6f31ca80a5e5) |
-| Fri, 30 Jan 2026 18:00:16 GMT | TryHackMe - Cloud Security Pitfalls - WriteUp | Axoloth | [Read More](https://medium.com/p/0674d5d82a4c) |
-| Fri, 30 Jan 2026 17:57:20 GMT | Engineering Secure Agentic Systems at Scale | Adrianna Valle | [Read More](https://medium.com/p/f66b10d1366e) |
-| Fri, 30 Jan 2026 17:56:27 GMT | The OAuth mechanism and its most common flows | Evyeveline | [Read More](https://medium.com/p/c6186935ab1b) |
