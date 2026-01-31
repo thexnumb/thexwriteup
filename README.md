@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 Jan 2026 14:17:27 GMT | PortSwigger SQL Injection Labs — Part 2 | Emirkilicer | [Read More](https://medium.com/p/a6f139252561) |
+| Sat, 31 Jan 2026 14:15:33 GMT | Types of Malware Actions: Kidnap, Eavesdrop, Masquerade, Launch | Dennis Duke | [Read More](https://medium.com/p/df4b855e0e6d) |
+| Sat, 31 Jan 2026 14:15:23 GMT | ☁️ Cloud Application Hardening: The Art of Armoring Cloud Architectures | Esra Kayhan | [Read More](https://medium.com/p/29b3af2d380b) |
+| Sat, 31 Jan 2026 14:14:49 GMT | Designing a Triage Playbook for Incident Response Taking Control of Chaos ️ | Esra Kayhan | [Read More](https://medium.com/p/34b1569a74b6) |
+| Sat, 31 Jan 2026 14:11:47 GMT | Most Cybersecurity Breaches Don’t Start With Hackers-They Start With Assumptions | Zubair Usman | [Read More](https://medium.com/p/3bb6653841e6) |
+| Sat, 31 Jan 2026 14:09:56 GMT | Client-Side Encryption and How to Bypass Them | RicOnTech | [Read More](https://medium.com/p/66100d44c09c) |
+| Sat, 31 Jan 2026 14:09:13 GMT | The Future of Passwords | Naman Bhansali | [Read More](https://medium.com/p/3cdd8eb9a966) |
+| Sat, 31 Jan 2026 14:07:49 GMT | Security Best Practices for Lovable Apps (2026) | jacob p | [Read More](https://medium.com/p/be0350cc87e1) |
+| Sat, 31 Jan 2026 14:01:34 GMT | The Death of the 207-Day Breach: Navigating the 4-Minute War of 2026 | aditya | [Read More](https://medium.com/p/928f2013be4e) |
+| Sat, 31 Jan 2026 14:01:02 GMT | Memory Is a Liability Until You Design It | Duckweave | [Read More](https://medium.com/p/75c57cc6fea3) |
+| Sat, 31 Jan 2026 14:01:01 GMT | Smart Isn’t Safe: Agents Need Permission Boundaries | Vectorlane | [Read More](https://medium.com/p/ca66c6916b81) |
+| Sat, 31 Jan 2026 13:55:15 GMT | Common HTTP Misconfigurations That Lead to Real-World Hacks | Lakshana Sri | [Read More](https://medium.com/p/0af3aaa39b6b) |
+| Sat, 31 Jan 2026 13:54:35 GMT | Building Server-Side API Key Encryption with Convex and Node.js Crypto | jballonasanchez | [Read More](https://medium.com/p/29f69e0de8c6) |
+| Sat, 31 Jan 2026 13:52:24 GMT | Common Web Application Vulnerabilities (SQLi, XSS, CSRF) Explained Simply | Dennis Duke | [Read More](https://medium.com/p/4063491068b5) |
+| Sat, 31 Jan 2026 13:52:11 GMT | A Subtle SSRF Through the Referer Header | AKU | [Read More](https://medium.com/p/79f531604dd0) |
+| Sat, 31 Jan 2026 13:46:49 GMT | “Hii everyone this is my first write up so ignore my silly mistakes” | Ritikpatel | [Read More](https://medium.com/p/9fc42066f72b) |
 | Sat, 31 Jan 2026 13:31:02 GMT | n8n Python Code Node: Convenience vs Containment | Syntal | [Read More](https://medium.com/p/2edb141f29a5) |
 | Sat, 31 Jan 2026 13:31:01 GMT | NestJS AuthZ in 2026: Roles Aren’t Enough | Hash Block | [Read More](https://medium.com/p/227288fbb060) |
 | Sat, 31 Jan 2026 13:24:11 GMT | 10 Free OSINT Tools That Will Transform Your Digital Investigations in 2026 | DeltaBytes | [Read More](https://medium.com/p/a8927e950cec) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 Jan 2026 06:31:02 GMT | Secure Credential Management in Playwright | sajith dilshan | [Read More](https://medium.com/p/0cf75c4e2ff4) |
 | Sat, 31 Jan 2026 06:27:03 GMT | Web App Security Assessment with Wapiti: Hands-On Vulnerability Scanning | Cybeague Technologies | [Read More](https://medium.com/p/6b8c9e92ce35) |
 | Sat, 31 Jan 2026 06:26:14 GMT | Sn1per — Automated Pentest Reconnaissance Framework | Cybeague Technologies | [Read More](https://medium.com/p/d85f73d3ea10) |
-| Sat, 31 Jan 2026 06:24:26 GMT | Why “Cheap” Hosting Isn’t Always the Wrong Choice? | Mary Thomas | [Read More](https://medium.com/p/ce274783d668) |
-| Sat, 31 Jan 2026 06:23:13 GMT | Professional Locksmith Services You Can Trust Across London | The Lock Specialist Ltd | [Read More](https://medium.com/p/148f1312dd07) |
-| Sat, 31 Jan 2026 06:20:32 GMT | Cyber Security Career Guide 2025: Skills, Certifications & Job Growth | Vellinfotech | [Read More](https://medium.com/p/75771c2fec31) |
-| Sat, 31 Jan 2026 06:19:13 GMT | [EP.4] Learn from the Box — Beep (HTB) | Pattharadanai Sanitjairak | [Read More](https://medium.com/p/a1eba45b95a1) |
-| Sat, 31 Jan 2026 06:09:17 GMT | Free Awareness Program on Cyber Security, Cyber Crime & Digital Fraud By Jetking in collaboration… | JetkingChandigarh | [Read More](https://medium.com/p/14257be5a1a8) |
-| Sat, 31 Jan 2026 06:05:09 GMT | [EP.3] Learn from the Box — Devel (HTB) | Pattharadanai Sanitjairak | [Read More](https://medium.com/p/fef71a5a235c) |
-| Sat, 31 Jan 2026 06:01:01 GMT | The AI That Helps You Sleep | Cyber Explain | [Read More](https://medium.com/p/8ae50bab2823) |
-| Sat, 31 Jan 2026 06:01:01 GMT | My password was stolen and what now? | Colin Sampler | [Read More](https://medium.com/p/024aca3b86dd) |
-| Sat, 31 Jan 2026 05:59:41 GMT | Cybersecurity in 2026: “The What and the Why” | Soumodeep Das | [Read More](https://medium.com/p/d3b85e7c9a11) |
-| Sat, 31 Jan 2026 05:57:05 GMT | Deploying and Configuring a Wazuh SIEM with Sysmon and Windows Event Monitoring | Dae'mon A. | [Read More](https://medium.com/p/e20b83719157) |
-| Sat, 31 Jan 2026 05:50:45 GMT | When Your Phone Is the Key: Access Fragility and Backup Plans | James Kuhman | [Read More](https://medium.com/p/73e5e0477825) |
-| Sat, 31 Jan 2026 05:45:46 GMT | Why Growing Sites Outgrow Shared Plans Faster Than Expected? | Ann Taylor | [Read More](https://medium.com/p/4e7dffba94b6) |
-| Sat, 31 Jan 2026 05:45:30 GMT | IT Consulting Explained: Turning Technology Into a Competitive Advantage | Sovorun | [Read More](https://medium.com/p/5f60bc5a6238) |
-| Sat, 31 Jan 2026 05:41:07 GMT | Malware Is No Longer “A File You Download”- It Is An Evolving Behavioral Ecosystem Of Modern… | Kabir Moharana | [Read More](https://medium.com/p/6bf75c76b942) |
-| Sat, 31 Jan 2026 05:38:00 GMT | How Do Leading Safety & Security and Guarding Services in Saudi Arabia Create Peace of Mind for… | Jaseela K | [Read More](https://medium.com/p/16b97fc083f8) |
-| Sat, 31 Jan 2026 05:34:13 GMT | From Movies to Malware: Why I Chose Cyber Forensics | Sv | [Read More](https://medium.com/p/86cd351c6d5e) |
