@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 Jan 2026 11:16:31 GMT | AI can write code, but can you catch its mistakes? | Abhishek | [Read More](https://medium.com/p/db9e77079c5d) |
+| Sat, 31 Jan 2026 11:14:58 GMT | Building a Secure AWS Serverless Web Application with CloudFront, WAF, Lambda, and DynamoDB | Saksham Singh | [Read More](https://medium.com/p/c4f8195134d5) |
+| Sat, 31 Jan 2026 11:12:15 GMT | Beware of Fake PNB MetLife Payment Gateways: A New-Age Phishing Scam Using UPI Apps | Deven Chhajed | [Read More](https://medium.com/p/980ac3efc5f2) |
+| Sat, 31 Jan 2026 11:07:46 GMT | Day 8 — Understanding Linux From the Ground Up: The System Every SOC Analyst Must Know | Faizan Nazir | [Read More](https://medium.com/p/27927b7f9d97) |
+| Sat, 31 Jan 2026 10:59:46 GMT | Cyber- and e-diplomacy — with focus on cyber security, AI in cyber diplomacy and digital norms | Bastian Friborg | [Read More](https://medium.com/p/663d2b1b8566) |
+| Sat, 31 Jan 2026 10:57:32 GMT | Gaining Initial Access In Red Teaming | Redfox Security | [Read More](https://medium.com/p/d678a0ae2542) |
+| Sat, 31 Jan 2026 10:56:19 GMT | Artificial Intelligence Career Guidance in India 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/1a1a90a8a4cf) |
 | Sat, 31 Jan 2026 10:36:34 GMT | Day 6: Introduction to SSRF | Cybersecurity with Jojo | [Read More](https://medium.com/p/fccb9c984e56) |
 | Sat, 31 Jan 2026 10:30:20 GMT | Security Practices That Actually Protect Production Applications (Part 1) | Magdalena Furman | [Read More](https://medium.com/p/ebbe25f031d3) |
 | Sat, 31 Jan 2026 10:28:53 GMT | Ottergram writeup (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/1ecd388f94e6) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 Jan 2026 02:03:12 GMT | The Rabbit Strategy: Choosing to Live While Staying Weak. | Hiro O. | [Read More](https://medium.com/p/b4a4b0a7f868) |
 | Sat, 31 Jan 2026 01:56:16 GMT | CyberLessons101: Dockerized CTF Challenge Index. | Josh Beck | [Read More](https://medium.com/p/5fe89baf710f) |
 | Sat, 31 Jan 2026 01:55:52 GMT | The Harsh Truth: Your SOC Would Miss a Real Attack | Yua Mikanana | [Read More](https://medium.com/p/313956d80db2) |
-| Sat, 31 Jan 2026 01:51:20 GMT | If you still manage Azure Policy in the portal, you are running production on hope | Practical IT | [Read More](https://medium.com/p/ab028106f64c) |
-| Sat, 31 Jan 2026 01:41:01 GMT | Leveraging AI for SIEM Security in 2026 | NetWitness | [Read More](https://medium.com/p/a05527a08243) |
-| Sat, 31 Jan 2026 01:33:10 GMT | When VS Code Becomes a Silent Attack Surface Real Abuse Cases and Practical Hardening | Aris Haryanto | [Read More](https://medium.com/p/5773d5c56ab1) |
-| Sat, 31 Jan 2026 01:21:10 GMT | TryHackMe’s First Shift CTF Task 1–5 | Chiafukamnanya Nwanonenyi | [Read More](https://medium.com/p/5bd65f2958b1) |
-| Sat, 31 Jan 2026 01:16:27 GMT | # Cybersecurity: Protecting Our Digital World | s v | [Read More](https://medium.com/p/3528404524e8) |
-| Sat, 31 Jan 2026 01:02:18 GMT | When “Draft” Doesn’t Mean Private: Finding an IDOR in an Unpublished Resource | AKU | [Read More](https://medium.com/p/2c9ead4e7bfb) |
-| Sat, 31 Jan 2026 00:38:02 GMT | January Gist… | Okuruesther | [Read More](https://medium.com/p/357978495911) |
