@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 Jan 2026 16:23:55 GMT | The Art of Knowing Before Breaking(Reconnaissance): | Amandogra | [Read More](https://medium.com/p/b0d9ea630304) |
+| Sat, 31 Jan 2026 16:21:45 GMT | How to Be Financially Strong: Smart Money Habits for Life | Vandit Bhut | [Read More](https://medium.com/p/b6344ff1af85) |
+| Sat, 31 Jan 2026 16:18:32 GMT | AI-Assisted Web and Cloud Penetration Testing with Cursor + MCP HexStrike and Burp Suite MCP. | Andrey Pautov | [Read More](https://medium.com/p/01c02eed5258) |
+| Sat, 31 Jan 2026 16:14:05 GMT | A60 Marine Doors + H120 Marine Doors — Reliable Marine and Modular in the UAE. | Life Cart | [Read More](https://medium.com/p/473b5a7ddc90) |
+| Sat, 31 Jan 2026 16:06:01 GMT | Four Main Career Paths in the Technology World | C.N. Husnul Izzati | [Read More](https://medium.com/p/28dbbef24c50) |
+| Sat, 31 Jan 2026 15:58:23 GMT | a note on independence | Letters from Becca | [Read More](https://medium.com/p/7e0946ae0911) |
+| Sat, 31 Jan 2026 15:51:39 GMT | Cyber Threat Hunting with Splunk: Reconnaissance | Allen Ace | [Read More](https://medium.com/p/9c62354994b6) |
+| Sat, 31 Jan 2026 15:47:27 GMT | The $100B Problem. Why the global surveillance market is fundamentally broken | Volve Vision | [Read More](https://medium.com/p/6eaaa251564f) |
 | Sat, 31 Jan 2026 15:36:22 GMT | Moltbook: A Social Network for AI Agents | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/29aa1e82b5c4) |
+| Sat, 31 Jan 2026 15:36:18 GMT | 31st January 2026 | Phoenix Files | [Read More](https://medium.com/p/2ef75057c0c3) |
 | Sat, 31 Jan 2026 15:32:03 GMT | Safe Software Installs That Protect Privacy and Performance | Geoffrey Wenger | [Read More](https://medium.com/p/d27cc3562f11) |
 | Sat, 31 Jan 2026 15:31:01 GMT | Rotate n8n Secrets Without Breaking Workflows | Modexa | [Read More](https://medium.com/p/979bcc18b405) |
 | Sat, 31 Jan 2026 15:29:16 GMT | Agent Tesla: From Noisy Injection to Silent Persistence | Kaan | [Read More](https://medium.com/p/f9a903819ae4) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 Jan 2026 09:57:41 GMT | Remote Code Execution (RCE): Uzaktan Sistem Ele Geçirme Nasıl Olur? | Arda Derya | [Read More](https://medium.com/p/04a71bdf14b0) |
 | Sat, 31 Jan 2026 09:51:47 GMT | Your Browser Isn’t “Just a Browser” Anymore: The Extension Scam That Can Hijack Your Links — and… | Germano Costi | [Read More](https://medium.com/p/a295cef703c4) |
 | Sat, 31 Jan 2026 09:38:39 GMT | Millennium Ultra: The Next Generation of Access Control Software for Modern Enterprises | Tony Brooks | [Read More](https://medium.com/p/f0aa419aa7b3) |
-| Sat, 31 Jan 2026 09:32:39 GMT | Cybersecurity Policy Updates Every Saudi Company Should Know | Rahman Iqbal | [Read More](https://medium.com/p/d9244907aa02) |
-| Sat, 31 Jan 2026 09:28:11 GMT | Werkzeug Debugger Authentication Bypass via Client-Side Response Manipulation | AAKASH SHARMA | [Read More](https://medium.com/p/d0f5a97b90f7) |
-| Sat, 31 Jan 2026 09:23:25 GMT | How to Start a Career in GRC Cyber Security - Thinkcloudly | Thinkcloudly | [Read More](https://medium.com/p/54d34dad7e8b) |
-| Sat, 31 Jan 2026 09:14:19 GMT | Top Tips for Securing Your Snapchat Account | akhila msr | [Read More](https://medium.com/p/cbfb966adb34) |
-| Sat, 31 Jan 2026 09:07:28 GMT | The Silent Siege: Zero-Click Exploits and the Future of Smartphone Security in 2026 | AckerWorx | [Read More](https://medium.com/p/51bec546e576) |
-| Sat, 31 Jan 2026 09:05:00 GMT | Raspberry Pi vs. Arduino vs. Teensy: Which Board Belongs in Your Next Hack? | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/0abd9d50b6b1) |
-| Sat, 31 Jan 2026 09:01:05 GMT | The First 60 Minutes After You Find Leaked Employee Credentials | Alexandre Vandamme | [Read More](https://medium.com/p/2cc288915854) |
-| Sat, 31 Jan 2026 08:58:10 GMT | How to Configure Cluster Quorum in Windows Server 2025 | Khurram Shahzad | [Read More](https://medium.com/p/ddff32c98d25) |
-| Sat, 31 Jan 2026 08:56:25 GMT | Rent Please Landlord Sim Mod APK | genzvnmod | [Read More](https://medium.com/p/eced52cb7c04) |
