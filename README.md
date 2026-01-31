@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 Jan 2026 05:16:30 GMT | Mistakes Beginners Make While Learning Cybersecurity (And How to Avoid Them) | Abhinsubej | [Read More](https://medium.com/p/456cb7b504d8) |
+| Sat, 31 Jan 2026 05:14:47 GMT | How to Read a Web App Like a Hacker (Even If You’re Not Technical Yet) | Er Dhaval Ramani | [Read More](https://medium.com/p/dcc10e034d72) |
+| Sat, 31 Jan 2026 05:11:54 GMT | An AI Just Negotiated a $4,200 Car Discount While Its Owner Was in a Meeting | Zoom In AI | [Read More](https://medium.com/p/bada1d95b12c) |
+| Sat, 31 Jan 2026 05:09:46 GMT | What Actually Happens When You Click “I Agree” Online | Vignesh Selvaraj | [Read More](https://medium.com/p/1f920a40a0a2) |
+| Sat, 31 Jan 2026 05:08:26 GMT | Deep Dive: Testing and Expanding Network Segmentation in Fintech | Madu Nelson Izunna | [Read More](https://medium.com/p/3c5f244073dd) |
+| Sat, 31 Jan 2026 05:06:36 GMT | Stop Learning Python — Start Solving These Problems Instead | Ibrahimrana | [Read More](https://medium.com/p/7622afc613ed) |
+| Sat, 31 Jan 2026 05:05:34 GMT | VigilX’s First Hunt: Two Critical Vulnerabilities in Sei Network’s Tendermint Fork | Jeremyah Joel | [Read More](https://medium.com/p/cdc30e5285ac) |
+| Sat, 31 Jan 2026 05:01:59 GMT | How to Choose the Best IT Certification for Your Career | revathi msr | [Read More](https://medium.com/p/07f0bddd9dec) |
+| Sat, 31 Jan 2026 05:01:31 GMT | CTF Write-Up: Cyborg — Privilege Escalation on Apache Server | Sector | [Read More](https://medium.com/p/95b77acf5f08) |
+| Sat, 31 Jan 2026 04:51:17 GMT | NARA Walkthrough - Proving Grounds Practice | Shaik Nawaz Ahmed | [Read More](https://medium.com/p/d44b8d62a598) |
+| Sat, 31 Jan 2026 04:49:47 GMT | Moving from Guardrails to a Zero-Trust AI Architecture | Shankar Kumarasamy | [Read More](https://medium.com/p/c2c0abb95fbf) |
+| Sat, 31 Jan 2026 04:45:35 GMT | Osaka Walkthrough - Proving Grounds Practive | Shaik Nawaz Ahmed | [Read More](https://medium.com/p/0ee0e65ee1da) |
+| Sat, 31 Jan 2026 04:43:49 GMT | How to Use AI in the Terminal: A Simpler, Safer Approach | David Minaya | [Read More](https://medium.com/p/eca11d113590) |
+| Sat, 31 Jan 2026 04:41:59 GMT | Secure Your Property : Best IP Cameras in UAE and CCTV Approval in Dubai | techfra solutions | [Read More](https://medium.com/p/e87ea4ad20b0) |
+| Sat, 31 Jan 2026 04:20:02 GMT | How to Choose the Best IT Certification for Your Career | Tycoonstories | [Read More](https://medium.com/p/f94c76470f0e) |
 | Sat, 31 Jan 2026 03:15:37 GMT | What a Ransomware Attack Looks Like — An Incident Response Walkthrough | Jasmine Brown | [Read More](https://medium.com/p/82ba7d54a201) |
 | Sat, 31 Jan 2026 03:15:26 GMT | Why Screen Parameters Matter More Than You Think | Afina Browser | [Read More](https://medium.com/p/c9bb95665eb1) |
 | Sat, 31 Jan 2026 03:14:49 GMT | The “MoltBot” Epidemic: How Your Personal AI Agent Became a Backdoor for Hackers | The Daily Cyber News | [Read More](https://medium.com/p/aefdce1fb86f) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 Jan 2026 18:00:16 GMT | TryHackMe - Cloud Security Pitfalls - WriteUp | Axoloth | [Read More](https://medium.com/p/0674d5d82a4c) |
 | Fri, 30 Jan 2026 17:57:20 GMT | Engineering Secure Agentic Systems at Scale | Adrianna Valle | [Read More](https://medium.com/p/f66b10d1366e) |
 | Fri, 30 Jan 2026 17:56:27 GMT | The OAuth mechanism and its most common flows | Evyeveline | [Read More](https://medium.com/p/c6186935ab1b) |
-| Fri, 30 Jan 2026 17:55:36 GMT | [PortSwigger][Practitioner] - Lab: CSRF where token is not tied to user session | Javiki | [Read More](https://medium.com/p/ccdf23b43f4b) |
-| Fri, 30 Jan 2026 17:52:20 GMT | Cross-Site Request Forgery (CSRF): A Practical Methodology for Security Testing | Israel Aráoz Severiche | [Read More](https://medium.com/p/e7e7283c2132) |
-| Fri, 30 Jan 2026 17:49:25 GMT | 10 Security Mistakes in Python Apps | Muhammad Huzair Awan | [Read More](https://medium.com/p/33233bc62ef9) |
-| Fri, 30 Jan 2026 17:46:21 GMT | The Dichotomy of Songs: Finding Balance in an Age of Labels | Mohammad Bader | [Read More](https://medium.com/p/5ca20aabafde) |
-| Fri, 30 Jan 2026 17:44:37 GMT | The Professional’s Playbook: 25 Rules for the Bug Bounty Grind | Thexssrat | [Read More](https://medium.com/p/d3612b139c89) |
-| Fri, 30 Jan 2026 17:33:01 GMT | Why Real End-to-End Testing is Crucial for Security and Functionality | Hassanmaroof | [Read More](https://medium.com/p/8dddcc9cd45b) |
-| Fri, 30 Jan 2026 17:31:26 GMT | 10-Year-Old Code Commit Just Gave Attackers Root on Thousands of Linux Boxes — CVE-2026–24061 | Lakshan Sameera | [Read More](https://medium.com/p/2484549c25c0) |
-| Fri, 30 Jan 2026 17:31:16 GMT | Securing OpenClaw with Labrat Glitch: Guardrails for Your AI Agent Gateway | David Anderson | [Read More](https://medium.com/p/e494b184c0c1) |
-| Fri, 30 Jan 2026 17:27:12 GMT | How to “Doomscroll” Your Way to a CISSP, CISA, COMPTIA Security+, OSCP, CCSP and AWS Security in 15… | The Daily Cyber News | [Read More](https://medium.com/p/d175ff29d471) |
-| Fri, 30 Jan 2026 17:25:55 GMT | BlueMoon: 2021 — A Deep Walkthrough (From Zero to Root) | Amandogra | [Read More](https://medium.com/p/8d72c033b5b9) |
-| Fri, 30 Jan 2026 17:21:01 GMT | The NCF : A brief overview | Hobin Rood | [Read More](https://medium.com/p/ed1cc8ab56f0) |
-| Fri, 30 Jan 2026 17:17:36 GMT | Erasing Amalek, Becoming Israel (Beshalach) | Rabbi Menachem Creditor | [Read More](https://medium.com/p/f0cfd6d1afb4) |
-| Fri, 30 Jan 2026 17:06:30 GMT | AI Smart Cards & Biometric Security in 2026: The Shift from PINs to Fingerprints | LaLiSa | [Read More](https://medium.com/p/db18b66bb23b) |
-| Fri, 30 Jan 2026 17:06:27 GMT | Try Hack Me- Cooctus Stories CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/1034891d3291) |
-| Fri, 30 Jan 2026 17:02:33 GMT | Application Security | Sude E. | [Read More](https://medium.com/p/e0aa3a4eb8c8) |
