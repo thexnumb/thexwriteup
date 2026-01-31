@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 Jan 2026 20:08:19 GMT | Amazon Bedrock — Guardrails vs Performance | Elad hirsch | [Read More](https://medium.com/p/59688a0ca932) |
+| Sat, 31 Jan 2026 20:06:01 GMT | Preventing Data ‘Oops!’ Moments: How AI can Keeps Breaches at Bay | Yogita Surve | [Read More](https://medium.com/p/887da7b4ba27) |
+| Sat, 31 Jan 2026 20:03:06 GMT | The Dual Edge of AI in Cybersecurity: Beyond Automation | Gokhan Can | [Read More](https://medium.com/p/714e1f906835) |
+| Sat, 31 Jan 2026 19:55:41 GMT | The Live Engagement — Shells & Payloads | Mkirahmet | [Read More](https://medium.com/p/3b4e5b13615f) |
+| Sat, 31 Jan 2026 19:46:27 GMT | Secure Use of GitHub — CIS-Aligned Technical Guide — Part IV | SOCFortress | [Read More](https://medium.com/p/8e28a1f1ba1e) |
+| Sat, 31 Jan 2026 19:42:40 GMT | Capstone Project 1: Beanstalk Secrets — AWS Pentesting Walkthrough | rajasekharyarava | [Read More](https://medium.com/p/ed32ba5ae943) |
+| Sat, 31 Jan 2026 19:36:34 GMT | Lock In? Where? | Tolulope Olatunji | [Read More](https://medium.com/p/777b4bc26674) |
+| Sat, 31 Jan 2026 19:36:07 GMT | [AD攻防]DCSync攻擊 | 陳禹璿 | [Read More](https://medium.com/p/f0541c92e7cf) |
 | Sat, 31 Jan 2026 19:35:53 GMT | Building Cybersecurity Trust with Lead Marketing Strategies | Lead Marketing Strategies | [Read More](https://medium.com/p/7d546a92d14c) |
 | Sat, 31 Jan 2026 19:35:51 GMT | How a Simple Note Feature Turned Into a Stored XSS (₹7,500 Bounty) | MrRobot | [Read More](https://medium.com/p/1d4582f5120d) |
 | Sat, 31 Jan 2026 19:30:12 GMT | How to Recover a Website After a Virus or Cyberattack | 0trust0day | [Read More](https://medium.com/p/862ddfd0d682) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 Jan 2026 13:52:11 GMT | A Subtle SSRF Through the Referer Header | AKU | [Read More](https://medium.com/p/79f531604dd0) |
 | Sat, 31 Jan 2026 13:46:49 GMT | “Hii everyone this is my first write up so ignore my silly mistakes” | Ritikpatel | [Read More](https://medium.com/p/9fc42066f72b) |
 | Sat, 31 Jan 2026 13:31:02 GMT | n8n Python Code Node: Convenience vs Containment | Syntal | [Read More](https://medium.com/p/2edb141f29a5) |
-| Sat, 31 Jan 2026 13:31:01 GMT | NestJS AuthZ in 2026: Roles Aren’t Enough | Hash Block | [Read More](https://medium.com/p/227288fbb060) |
-| Sat, 31 Jan 2026 13:24:11 GMT | 10 Free OSINT Tools That Will Transform Your Digital Investigations in 2026 | DeltaBytes | [Read More](https://medium.com/p/a8927e950cec) |
-| Sat, 31 Jan 2026 13:22:48 GMT | The Invisible Architecture of Digital Trust: Why Modern Security is a Mathematical Paradox | Anna Bejan | [Read More](https://medium.com/p/eecf63ea97f1) |
-| Sat, 31 Jan 2026 13:21:17 GMT | Red Canary 2025 Threat Detection Report: Escalating Detections in a GenAI Era | Balasubramaniam GD | [Read More](https://medium.com/p/adb26e927bb9) |
-| Sat, 31 Jan 2026 13:21:01 GMT | The End of the Password Era: 5 Reasons Why Passkeys are Your New Security Superpower | Namrata | [Read More](https://medium.com/p/2ff4fda00a0a) |
-| Sat, 31 Jan 2026 13:15:48 GMT | Blockchain Gerçekten Güvenli mi? Kritik Saldırı Türleri ve Riskler | Sonat Saygın İpek | [Read More](https://medium.com/p/0892d359a381) |
-| Sat, 31 Jan 2026 13:14:03 GMT | The Invisible Backdoor: Is Your Headless WordPress Site Leaking Data? | Rakib | [Read More](https://medium.com/p/7941214054e6) |
-| Sat, 31 Jan 2026 13:11:01 GMT | Security Deep Dive — Can Someone See or Hack My Token? | Lets Learn Now | [Read More](https://medium.com/p/6217aa4f5ee9) |
