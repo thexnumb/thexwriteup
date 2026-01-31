@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 Jan 2026 21:19:57 GMT | DFIR Deep Dive | IgnoranzaSolare | [Read More](https://medium.com/p/f744809612cd) |
+| Sat, 31 Jan 2026 21:14:32 GMT | Capstone Project 2: SNS Secrets — AWS Pentesting Walkthrough | rajasekharyarava | [Read More](https://medium.com/p/ca9fb7c54ad3) |
+| Sat, 31 Jan 2026 21:06:50 GMT | How Modern Security Systems Decide Who Gets Access | Neeraj Sharma | [Read More](https://medium.com/p/89ba5ec43051) |
+| Sat, 31 Jan 2026 21:05:17 GMT | Break login logic | Mahmoud Farag | [Read More](https://medium.com/p/43832c2ebd0e) |
+| Sat, 31 Jan 2026 21:01:02 GMT | ️‍♂️ TryHackMe CTF — CyberLens | Devilman24 | [Read More](https://medium.com/p/4245b946589f) |
+| Sat, 31 Jan 2026 20:49:47 GMT | 30 Days Challenge with TechyJaunt —V3. Push past your limits! | TechyJaunt | [Read More](https://medium.com/p/7eca97f64b31) |
+| Sat, 31 Jan 2026 20:49:31 GMT | day 7 — SOC Fundamentals & Tier Structure | Siddhesh Patil | [Read More](https://medium.com/p/ef6143e40116) |
+| Sat, 31 Jan 2026 20:44:46 GMT | How Small Websites Get Hacked: The Specific Vulnerabilities Nobody Talks About | Abdelaziz moustakim | [Read More](https://medium.com/p/3befc146dcf8) |
+| Sat, 31 Jan 2026 20:43:53 GMT | Ocarina 3 (Jeanne d’Hack CTF) | 0x_S0W | [Read More](https://medium.com/p/e6e067a1da9a) |
+| Sat, 31 Jan 2026 20:39:20 GMT | Try Hack Me- Willow CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/175c133cce66) |
 | Sat, 31 Jan 2026 20:32:00 GMT | Essential UFW Commands: A Senior Admin’s Guide to Linux Firewall Security | Nube Colectiva | [Read More](https://medium.com/p/e48fd008721a) |
 | Sat, 31 Jan 2026 20:22:22 GMT | ️ How to Secure Angular + Java APIs from CSRF — Without Cookies | Sahana | [Read More](https://medium.com/p/4a1820bfed1b) |
 | Sat, 31 Jan 2026 20:08:19 GMT | Amazon Bedrock — Guardrails vs Performance | Elad hirsch | [Read More](https://medium.com/p/59688a0ca932) |
@@ -104,13 +114,3 @@ AI-POWERED, MULTI-CHAIN TOKEN RISK INTELLIGENCE PLATFORM - CONFIDENTIAL… | Dav
 | Sat, 31 Jan 2026 14:17:27 GMT | PortSwigger SQL Injection Labs — Part 2 | Emirkilicer | [Read More](https://medium.com/p/a6f139252561) |
 | Sat, 31 Jan 2026 14:15:33 GMT | Types of Malware Actions: Kidnap, Eavesdrop, Masquerade, Launch | Dennis Duke | [Read More](https://medium.com/p/df4b855e0e6d) |
 | Sat, 31 Jan 2026 14:15:23 GMT | ☁️ Cloud Application Hardening: The Art of Armoring Cloud Architectures | Esra Kayhan | [Read More](https://medium.com/p/29b3af2d380b) |
-| Sat, 31 Jan 2026 14:14:49 GMT | Designing a Triage Playbook for Incident Response Taking Control of Chaos ️ | Esra Kayhan | [Read More](https://medium.com/p/34b1569a74b6) |
-| Sat, 31 Jan 2026 14:11:47 GMT | Most Cybersecurity Breaches Don’t Start With Hackers-They Start With Assumptions | Zubair Usman | [Read More](https://medium.com/p/3bb6653841e6) |
-| Sat, 31 Jan 2026 14:09:56 GMT | Client-Side Encryption and How to Bypass Them | RicOnTech | [Read More](https://medium.com/p/66100d44c09c) |
-| Sat, 31 Jan 2026 14:09:13 GMT | The Future of Passwords | Naman Bhansali | [Read More](https://medium.com/p/3cdd8eb9a966) |
-| Sat, 31 Jan 2026 14:07:49 GMT | Security Best Practices for Lovable Apps (2026) | jacob p | [Read More](https://medium.com/p/be0350cc87e1) |
-| Sat, 31 Jan 2026 14:01:34 GMT | The Death of the 207-Day Breach: Navigating the 4-Minute War of 2026 | aditya | [Read More](https://medium.com/p/928f2013be4e) |
-| Sat, 31 Jan 2026 14:01:02 GMT | Memory Is a Liability Until You Design It | Duckweave | [Read More](https://medium.com/p/75c57cc6fea3) |
-| Sat, 31 Jan 2026 14:01:01 GMT | Smart Isn’t Safe: Agents Need Permission Boundaries | Vectorlane | [Read More](https://medium.com/p/ca66c6916b81) |
-| Sat, 31 Jan 2026 13:55:15 GMT | Common HTTP Misconfigurations That Lead to Real-World Hacks | Lakshana Sri | [Read More](https://medium.com/p/0af3aaa39b6b) |
-| Sat, 31 Jan 2026 13:54:35 GMT | Building Server-Side API Key Encryption with Convex and Node.js Crypto | jballonasanchez | [Read More](https://medium.com/p/29f69e0de8c6) |
