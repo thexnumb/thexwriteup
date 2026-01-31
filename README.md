@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 Jan 2026 02:05:13 GMT | Agent Tesla: The Persistent Threat Lurking in Your Inbox | Muhammad Omar F F | [Read More](https://medium.com/p/36e600b5079c) |
+| Sat, 31 Jan 2026 01:56:16 GMT | CyberLessons101: Dockerized CTF Challenge Index. | Josh Beck | [Read More](https://medium.com/p/5fe89baf710f) |
+| Sat, 31 Jan 2026 01:55:52 GMT | The Harsh Truth: Your SOC Would Miss a Real Attack | Yua Mikanana | [Read More](https://medium.com/p/313956d80db2) |
+| Sat, 31 Jan 2026 01:51:20 GMT | If you still manage Azure Policy in the portal, you are running production on hope | Practical IT | [Read More](https://medium.com/p/ab028106f64c) |
+| Sat, 31 Jan 2026 01:41:01 GMT | Leveraging AI for SIEM Security in 2026 | NetWitness | [Read More](https://medium.com/p/a05527a08243) |
+| Sat, 31 Jan 2026 01:33:10 GMT | When VS Code Becomes a Silent Attack Surface Real Abuse Cases and Practical Hardening | Aris Haryanto | [Read More](https://medium.com/p/5773d5c56ab1) |
+| Sat, 31 Jan 2026 01:21:10 GMT | TryHackMe’s First Shift CTF Task 1–5 | Chiafukamnanya Nwanonenyi | [Read More](https://medium.com/p/5bd65f2958b1) |
+| Sat, 31 Jan 2026 01:16:27 GMT | # Cybersecurity: Protecting Our Digital World | s v | [Read More](https://medium.com/p/3528404524e8) |
+| Sat, 31 Jan 2026 01:02:18 GMT | When “Draft” Doesn’t Mean Private: Finding an IDOR in an Unpublished Resource | AKU | [Read More](https://medium.com/p/2c9ead4e7bfb) |
+| Sat, 31 Jan 2026 00:38:02 GMT | January Gist… | Okuruesther | [Read More](https://medium.com/p/357978495911) |
+| Sat, 31 Jan 2026 00:28:09 GMT | TryHackMe - Log Operations — Writeup | CyberWithManos | [Read More](https://medium.com/p/0d476ddcc0b5) |
+| Sat, 31 Jan 2026 00:17:16 GMT | Daily SOC Brief — Day 1: Passwords & MFA (The First Line of Defense) | The Daily S.OC. Brief | [Read More](https://medium.com/p/365d5c819943) |
+| Sat, 31 Jan 2026 00:01:03 GMT | WhatWeb Guide: Fingerprinting and Recognition for Bug Hunting | JPablo13 | [Read More](https://medium.com/p/35f9d7f459d5) |
 | Fri, 30 Jan 2026 23:15:53 GMT | Untrusted user data — 30 years later — are we still solving the same problem? | Jessica Fosler | [Read More](https://medium.com/p/da50b657d25d) |
 | Fri, 30 Jan 2026 23:15:32 GMT | P4 Programming Protocol Independent Packet Processors | Bervice | [Read More](https://medium.com/p/dae194195005) |
 | Fri, 30 Jan 2026 23:04:05 GMT | DNS Armor on Google Cloud: Detecting Threats at the DNS Layer | Nuntakon Yingyong | [Read More](https://medium.com/p/b9cce1cdc565) |
@@ -25,6 +38,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 Jan 2026 22:25:51 GMT | Enhance Your Online Safety: How to Block Adult Content using DNS Over HTTPS | Stack Architect | [Read More](https://medium.com/p/08a5f2cf37f5) |
 | Fri, 30 Jan 2026 22:23:52 GMT | Mustacchio — Easy CTF Write‑up | Zhoussama | [Read More](https://medium.com/p/eb16adda67a1) |
 | Fri, 30 Jan 2026 22:22:41 GMT | Keeping up with Security News — with Beagle Watch | Michael Harms | [Read More](https://medium.com/p/677c9c6ff422) |
+| Fri, 30 Jan 2026 22:15:55 GMT | Team Work in DevOps: Hands-On Experience with Git, AWS, and Nginx | Orji Ekeoma Miracle | [Read More](https://medium.com/p/18bb6b969fc2) |
 | Fri, 30 Jan 2026 22:15:21 GMT | I’m Back on Medium and Here’s What I’ll Be Writing About | Stefan Bargan | [Read More](https://medium.com/p/c714c18e40ab) |
 | Fri, 30 Jan 2026 22:00:52 GMT | Google warns of widespread exploitation of WinRAR vulnerability CVE-2025–8088 and here’s how the… | Harsh Raj Singhania | [Read More](https://medium.com/p/311262ea48e0) |
 | Fri, 30 Jan 2026 21:59:49 GMT | Starting My Cybersecurity Journey: January 2026 (Foundations Month) | Nikita | [Read More](https://medium.com/p/eee78d1fb860) |
@@ -49,6 +63,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 Jan 2026 19:48:25 GMT | THM’s SEC1 (Cyber Security 101) Review | Motasem Hamdan | [Read More](https://medium.com/p/10e126f3a8b7) |
 | Fri, 30 Jan 2026 19:29:13 GMT | The Rise of Cybersecurity in Somalia, Opportunities, Challenges, and a Digital Future | Mohamed dahir | [Read More](https://medium.com/p/fd0fc206c673) |
 | Fri, 30 Jan 2026 19:26:58 GMT | CSRF: How to trick a website into taking Action on your behalf | Anshkamra | [Read More](https://medium.com/p/f2bb91184b1d) |
+| Fri, 30 Jan 2026 19:21:50 GMT | Lost Cryptocurrency? Here’s How Mine Was Recovered — No Upfront Fee | Liam Robert | [Read More](https://medium.com/p/b6fa77b1f988) |
 | Fri, 30 Jan 2026 19:19:23 GMT | Forging Digital Fortresses: The Fusion of Creativity and Code in Cybersecurity | Cybillit | [Read More](https://medium.com/p/7d005bc03f7f) |
 | Fri, 30 Jan 2026 19:14:57 GMT | The Less I Know The Better | darivxe | [Read More](https://medium.com/p/124f7cb99d94) |
 | Fri, 30 Jan 2026 19:13:51 GMT | The technology of boundaries | Francesco Maiomascio | [Read More](https://medium.com/p/ef7d7e019b40) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 Jan 2026 16:39:07 GMT | When the “I” Disappears !!! | Samiksha Diwan | [Read More](https://medium.com/p/8ed3d1d41cd3) |
 | Fri, 30 Jan 2026 16:32:22 GMT | We Live Inside Stories | War Vithin | [Read More](https://medium.com/p/4200fb7d7a02) |
 | Fri, 30 Jan 2026 16:32:21 GMT | Agentic Payments: Why do I think AI Agents Need a Judge, Not Just a budget? | Aaron L | [Read More](https://medium.com/p/aae384912b4e) |
-| Fri, 30 Jan 2026 16:19:18 GMT | As always in every penetration testing engagements we start by reconnaissance and information… | Cyb0rgBytes | [Read More](https://medium.com/p/bd3757b67dfc) |
-| Fri, 30 Jan 2026 16:12:39 GMT | I Hacked Your Brain Before I Hacked Your Password | Saniyakapoor | [Read More](https://medium.com/p/cd8b6dbf1dcc) |
-| Fri, 30 Jan 2026 16:04:50 GMT | Financial Literacy in the Age of AI: Steering through Pressure, Competition, and Staying Grounded. | Marica | [Read More](https://medium.com/p/ccb78a51003d) |
-| Fri, 30 Jan 2026 16:02:30 GMT | The Imperfect Fracture: Notes on a Break That Chose Eternity. | Ydstiraaa | [Read More](https://medium.com/p/df6e524bc181) |
-| Fri, 30 Jan 2026 16:00:39 GMT | SPA Token Theft Through Font Face Declarations | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/a689c309888c) |
-| Fri, 30 Jan 2026 15:59:56 GMT | My Substack Newsletter Didn’t Go Viral. It Still Makes Money — and That Was the Point. | Taimur Ijlal | [Read More](https://medium.com/p/7deee54756fa) |
-| Fri, 30 Jan 2026 15:55:31 GMT | Function Level Authorization (BFLA) — When Users Become Admins | Emmanuelnnebedum | [Read More](https://medium.com/p/bb528de78bae) |
-| Fri, 30 Jan 2026 15:49:02 GMT | Modded APK Security 2026: The Truth Behind “God Mode” Games | Jonathan Jude | [Read More](https://medium.com/p/945ab900c967) |
-| Fri, 30 Jan 2026 15:48:17 GMT | [AD攻防]Over-Pass-the-Hash攻擊 | 陳禹璿 | [Read More](https://medium.com/p/e054e24f2830) |
-| Fri, 30 Jan 2026 15:39:36 GMT | My Preparation for the eJPT | 0xnullsec | [Read More](https://medium.com/p/f8b1bbad102d) |
-| Fri, 30 Jan 2026 15:33:44 GMT | Top 7 Cybersecurity Skills No College Is Teaching You | Ankit rai | [Read More](https://medium.com/p/2c77ab911257) |
-| Fri, 30 Jan 2026 15:31:01 GMT | crackmes.one: A Simple Way to Practice Reverse Engineering | 0xCyberNoob | [Read More](https://medium.com/p/9dc3d2badb9b) |
-| Fri, 30 Jan 2026 15:27:03 GMT | End-to-End SMS Spam Detection Using NLP and Naive Bayes | Kaizen | [Read More](https://medium.com/p/bc856ed116ca) |
-| Fri, 30 Jan 2026 15:21:55 GMT | IT Consulting in 2026: Enabling Secure, Compliant, and Scalable Businesses | Astra Global Consulting | [Read More](https://medium.com/p/34dd64a322a7) |
-| Fri, 30 Jan 2026 15:21:04 GMT | I’m also just a girl, standing in front of a boy, asking him to love her | Clementine. | [Read More](https://medium.com/p/3232c04b9635) |
