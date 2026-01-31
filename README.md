@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 Jan 2026 10:14:14 GMT | Firewall’u Aşan Saldırganı İçerde Yakalamak . IDS ve IPS Nedir? | Arda Derya | [Read More](https://medium.com/p/0ff024f8058d) |
+| Sat, 31 Jan 2026 10:09:54 GMT | Module outside accounting | Progsky | [Read More](https://medium.com/p/4d15f20db650) |
+| Sat, 31 Jan 2026 10:00:21 GMT | Breaking InsecureShop: An In-Depth Android Security Write-up & Source Analysis | lightofmoon | [Read More](https://medium.com/p/7f06a70aa5c6) |
+| Sat, 31 Jan 2026 09:57:41 GMT | Remote Code Execution (RCE): Uzaktan Sistem Ele Geçirme Nasıl Olur? | Arda Derya | [Read More](https://medium.com/p/04a71bdf14b0) |
+| Sat, 31 Jan 2026 09:51:47 GMT | Your Browser Isn’t “Just a Browser” Anymore: The Extension Scam That Can Hijack Your Links — and… | Germano Costi | [Read More](https://medium.com/p/a295cef703c4) |
+| Sat, 31 Jan 2026 09:38:39 GMT | Millennium Ultra: The Next Generation of Access Control Software for Modern Enterprises | Tony Brooks | [Read More](https://medium.com/p/f0aa419aa7b3) |
+| Sat, 31 Jan 2026 09:32:39 GMT | Cybersecurity Policy Updates Every Saudi Company Should Know | Rahman Iqbal | [Read More](https://medium.com/p/d9244907aa02) |
 | Sat, 31 Jan 2026 09:28:11 GMT | Werkzeug Debugger Authentication Bypass via Client-Side Response Manipulation | AAKASH SHARMA | [Read More](https://medium.com/p/d0f5a97b90f7) |
+| Sat, 31 Jan 2026 09:23:25 GMT | How to Start a Career in GRC Cyber Security - Thinkcloudly | Thinkcloudly | [Read More](https://medium.com/p/54d34dad7e8b) |
 | Sat, 31 Jan 2026 09:14:19 GMT | Top Tips for Securing Your Snapchat Account | akhila msr | [Read More](https://medium.com/p/cbfb966adb34) |
 | Sat, 31 Jan 2026 09:07:28 GMT | The Silent Siege: Zero-Click Exploits and the Future of Smartphone Security in 2026 | AckerWorx | [Read More](https://medium.com/p/51bec546e576) |
 | Sat, 31 Jan 2026 09:05:00 GMT | Raspberry Pi vs. Arduino vs. Teensy: Which Board Belongs in Your Next Hack? | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/0abd9d50b6b1) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 Jan 2026 00:01:03 GMT | WhatWeb Guide: Fingerprinting and Recognition for Bug Hunting | JPablo13 | [Read More](https://medium.com/p/35f9d7f459d5) |
 | Fri, 30 Jan 2026 23:15:53 GMT | Untrusted user data — 30 years later — are we still solving the same problem? | Jessica Fosler | [Read More](https://medium.com/p/da50b657d25d) |
 | Fri, 30 Jan 2026 23:15:32 GMT | P4 Programming Protocol Independent Packet Processors | Bervice | [Read More](https://medium.com/p/dae194195005) |
-| Fri, 30 Jan 2026 23:04:05 GMT | DNS Armor on Google Cloud: Detecting Threats at the DNS Layer | Nuntakon Yingyong | [Read More](https://medium.com/p/b9cce1cdc565) |
-| Fri, 30 Jan 2026 22:58:32 GMT | TryHackMe Writeup: Madeye’s Castle | Berkay AĞGÜL | [Read More](https://medium.com/p/2aa69f184541) |
-| Fri, 30 Jan 2026 22:57:30 GMT | Cloud Security Pitfalls - Tryhackme | Aaron | [Read More](https://medium.com/p/2819d6321901) |
-| Fri, 30 Jan 2026 22:50:56 GMT | Post 11: (SDLC Phase 1) Gathering Requirements | Satti Data | [Read More](https://medium.com/p/280152ea1bf4) |
-| Fri, 30 Jan 2026 22:49:12 GMT | How a Simple “Trust Gap” Logic Flaw Earned Me $200,000 and Inspired a New AI Security Engine | Muhammad Arslan Akhtar | [Read More](https://medium.com/p/2f31c2438e16) |
-| Fri, 30 Jan 2026 22:42:12 GMT | DNS Armor บน Google Cloud: ตรวจจับภัยคุกคามตั้งแต่ DNS Layer | Nuntakon Yingyong | [Read More](https://medium.com/p/b4494d2e3181) |
-| Fri, 30 Jan 2026 22:39:09 GMT | Inside WPA3: How Today’s Wi-Fi Security Stops Attackers Cold | ghostyjoe | [Read More](https://medium.com/p/f075aa8d29ba) |
-| Fri, 30 Jan 2026 22:34:42 GMT | We All Click “I Agree”… But Do We Really? | Kevin Kelly | [Read More](https://medium.com/p/ed7c1b0d23dd) |
