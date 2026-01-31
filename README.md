@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 Jan 2026 20:32:00 GMT | Essential UFW Commands: A Senior Admin’s Guide to Linux Firewall Security | Nube Colectiva | [Read More](https://medium.com/p/e48fd008721a) |
+| Sat, 31 Jan 2026 20:22:22 GMT | ️ How to Secure Angular + Java APIs from CSRF — Without Cookies | Sahana | [Read More](https://medium.com/p/4a1820bfed1b) |
 | Sat, 31 Jan 2026 20:08:19 GMT | Amazon Bedrock — Guardrails vs Performance | Elad hirsch | [Read More](https://medium.com/p/59688a0ca932) |
 | Sat, 31 Jan 2026 20:06:01 GMT | Preventing Data ‘Oops!’ Moments: How AI can Keeps Breaches at Bay | Yogita Surve | [Read More](https://medium.com/p/887da7b4ba27) |
 | Sat, 31 Jan 2026 20:03:06 GMT | The Dual Edge of AI in Cybersecurity: Beyond Automation | Gokhan Can | [Read More](https://medium.com/p/714e1f906835) |
@@ -36,6 +38,8 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 Jan 2026 18:41:56 GMT | What Is DevSecOps? | OPEXOR | [Read More](https://medium.com/p/83fedd6abbd4) |
 | Sat, 31 Jan 2026 18:41:21 GMT | Operation Slither - Tryhackme | Parvathy P Joshy | [Read More](https://medium.com/p/69b48aa84303) |
 | Sat, 31 Jan 2026 18:41:08 GMT | Interrupted Genesis: Futile Search for a Secure Base Before a Self Exists | MS | [Read More](https://medium.com/p/baa68fc64a3c) |
+| Sat, 31 Jan 2026 18:26:51 GMT | AIDYOR — M&A; ACQUISITION
+AI-POWERED, MULTI-CHAIN TOKEN RISK INTELLIGENCE PLATFORM - CONFIDENTIAL… | David Belligoi | [Read More](https://medium.com/p/3ac38c2d48cf) |
 | Sat, 31 Jan 2026 18:22:22 GMT | Cyberspace and the Evolution of Contemporary Warfare | Charudutta Sawant | [Read More](https://medium.com/p/97ca8b5b6cc8) |
 | Sat, 31 Jan 2026 18:21:08 GMT | The Phishing Series: Detecting Phishing Emails in a Controlled Lab — Authentication Headers | Norman Kolarikkal | [Read More](https://medium.com/p/c782fe90d49b) |
 | Sat, 31 Jan 2026 18:20:47 GMT | Hunting Volt Typhoon: A Full SOC-Level DFIR Walkthrough with Splunk | Saniye Nur | [Read More](https://medium.com/p/50fd44a00439) |
@@ -52,6 +56,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 Jan 2026 17:38:01 GMT | CodePartTwo Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/da505c00e0cc) |
 | Sat, 31 Jan 2026 17:32:43 GMT | Can AI Make India Feel Digitally Safer? | Clara Smith | [Read More](https://medium.com/p/6425e4b99c7b) |
 | Sat, 31 Jan 2026 17:29:54 GMT | Why OTPs Sometimes Stay the Same — A Backend Story from Spring Boot | Arunamallaraddi | [Read More](https://medium.com/p/d5a854619693) |
+| Sat, 31 Jan 2026 17:20:25 GMT | Prompt Injection Is Abuse: The Open Door in Your AI’s Mind | J Poole | [Read More](https://medium.com/p/e9ecddac5aa3) |
 | Sat, 31 Jan 2026 17:09:55 GMT | AI Agent Planning Framework: Building Reliable Autonomous AI Systems | Birendar Bisht | [Read More](https://medium.com/p/5acf52f8de45) |
 | Sat, 31 Jan 2026 17:07:02 GMT | Implementing a Vulnerability Scanning Pipeline Using AWS Lambda and SQS | Samanvay Kumar | [Read More](https://medium.com/p/06e01c70bc8a) |
 | Sat, 31 Jan 2026 17:01:53 GMT | GeoServer: CVE-2025–58360 - Tryhackme | Aaron | [Read More](https://medium.com/p/f760e934282f) |
@@ -109,7 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 Jan 2026 14:01:01 GMT | Smart Isn’t Safe: Agents Need Permission Boundaries | Vectorlane | [Read More](https://medium.com/p/ca66c6916b81) |
 | Sat, 31 Jan 2026 13:55:15 GMT | Common HTTP Misconfigurations That Lead to Real-World Hacks | Lakshana Sri | [Read More](https://medium.com/p/0af3aaa39b6b) |
 | Sat, 31 Jan 2026 13:54:35 GMT | Building Server-Side API Key Encryption with Convex and Node.js Crypto | jballonasanchez | [Read More](https://medium.com/p/29f69e0de8c6) |
-| Sat, 31 Jan 2026 13:52:24 GMT | Common Web Application Vulnerabilities (SQLi, XSS, CSRF) Explained Simply | Dennis Duke | [Read More](https://medium.com/p/4063491068b5) |
-| Sat, 31 Jan 2026 13:52:11 GMT | A Subtle SSRF Through the Referer Header | AKU | [Read More](https://medium.com/p/79f531604dd0) |
-| Sat, 31 Jan 2026 13:46:49 GMT | “Hii everyone this is my first write up so ignore my silly mistakes” | Ritikpatel | [Read More](https://medium.com/p/9fc42066f72b) |
-| Sat, 31 Jan 2026 13:31:02 GMT | n8n Python Code Node: Convenience vs Containment | Syntal | [Read More](https://medium.com/p/2edb141f29a5) |
