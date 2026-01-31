@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 Jan 2026 07:15:05 GMT | Building a Secure Git Automation Tool Using Python and Cron | Asad Sayyad | [Read More](https://medium.com/p/1406ee257294) |
+| Sat, 31 Jan 2026 07:05:02 GMT | In today’s fast-evolving security landscape, safeguarding people, property, and assets has become… | Ciss India | [Read More](https://medium.com/p/a099fb703f2e) |
+| Sat, 31 Jan 2026 07:01:02 GMT | CySA+ — Assumption Trap: Tool vs Purpose Confusion | the CyberStoic | [Read More](https://medium.com/p/45bdcdb03460) |
+| Sat, 31 Jan 2026 06:50:53 GMT | The New Equilibrium: How Trump’s Cybersecurity Doctrine Redefines Federal-Private Sector Relations | CCD-IS | [Read More](https://medium.com/p/f48ec6b02974) |
+| Sat, 31 Jan 2026 06:47:15 GMT | Introducing Netsectap Security Framework: A Modular Security Framework for Network Security Testing | Arcy Caparros | [Read More](https://medium.com/p/dca373f97237) |
 | Sat, 31 Jan 2026 06:43:59 GMT | Does Cybersecurity Protect just Data or Something More? | Glomygia Orji | [Read More](https://medium.com/p/29a176d507ad) |
 | Sat, 31 Jan 2026 06:38:36 GMT | AES-GCM | Yunnie | [Read More](https://medium.com/p/2ea5353f307f) |
 | Sat, 31 Jan 2026 06:34:57 GMT | Locksmith — Trusted Emergency & Residential Locksmith Services in London | The Lock Specialist Ltd | [Read More](https://medium.com/p/d34a752dbe8a) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 Jan 2026 20:45:11 GMT | Deploying PrestaShop on AWS for Free: A Secure Two-Tier Architecture Guide | Sunday Vegher | [Read More](https://medium.com/p/fa9f51fb14df) |
 | Fri, 30 Jan 2026 20:39:48 GMT | AI Governance vs AI Security | Nathaniel Niyazov | [Read More](https://medium.com/p/f0528c0e0446) |
 | Fri, 30 Jan 2026 20:23:46 GMT | The Davos Epitaph | Victor Babaniyi | [Read More](https://medium.com/p/051b862b98d3) |
-| Fri, 30 Jan 2026 20:06:44 GMT | Day 6: Network devices and Topologies | Siddhesh Patil | [Read More](https://medium.com/p/7c445a2ca173) |
-| Fri, 30 Jan 2026 20:03:21 GMT | Most Breaches Don’t Start With Malware — Here’s What They Start With | JSOC IT BLOG | [Read More](https://medium.com/p/479f60dcfb25) |
-| Fri, 30 Jan 2026 19:55:18 GMT | GeoServer: Recent Vulnerabilities & TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/a623be759d94) |
-| Fri, 30 Jan 2026 19:50:57 GMT | Breaking into Web3 Security: A Guide for Security Engineers | @AayJay | [Read More](https://medium.com/p/bdef7febd903) |
-| Fri, 30 Jan 2026 19:48:25 GMT | THM’s SEC1 (Cyber Security 101) Review | Motasem Hamdan | [Read More](https://medium.com/p/10e126f3a8b7) |
