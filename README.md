@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 Jan 2026 17:38:01 GMT | CodePartTwo Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/da505c00e0cc) |
+| Sat, 31 Jan 2026 17:32:43 GMT | Can AI Make India Feel Digitally Safer? | Clara Smith | [Read More](https://medium.com/p/6425e4b99c7b) |
+| Sat, 31 Jan 2026 17:29:54 GMT | Why OTPs Sometimes Stay the Same — A Backend Story from Spring Boot | Arunamallaraddi | [Read More](https://medium.com/p/d5a854619693) |
 | Sat, 31 Jan 2026 17:09:55 GMT | AI Agent Planning Framework: Building Reliable Autonomous AI Systems | Birendar Bisht | [Read More](https://medium.com/p/5acf52f8de45) |
 | Sat, 31 Jan 2026 17:07:02 GMT | Implementing a Vulnerability Scanning Pipeline Using AWS Lambda and SQS | Samanvay Kumar | [Read More](https://medium.com/p/06e01c70bc8a) |
 | Sat, 31 Jan 2026 17:01:53 GMT | GeoServer: CVE-2025–58360 - Tryhackme | Aaron | [Read More](https://medium.com/p/f760e934282f) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 Jan 2026 10:57:32 GMT | Gaining Initial Access In Red Teaming | Redfox Security | [Read More](https://medium.com/p/d678a0ae2542) |
 | Sat, 31 Jan 2026 10:56:19 GMT | Artificial Intelligence Career Guidance in India 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/1a1a90a8a4cf) |
 | Sat, 31 Jan 2026 10:36:34 GMT | Day 6: Introduction to SSRF | Cybersecurity with Jojo | [Read More](https://medium.com/p/fccb9c984e56) |
-| Sat, 31 Jan 2026 10:30:20 GMT | Security Practices That Actually Protect Production Applications (Part 1) | Magdalena Furman | [Read More](https://medium.com/p/ebbe25f031d3) |
-| Sat, 31 Jan 2026 10:28:53 GMT | Ottergram writeup (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/1ecd388f94e6) |
-| Sat, 31 Jan 2026 10:27:23 GMT | Building an Automated AWS Security Remediation Framework with Security Hub and Systems Manager | Emmanuel Akuffo | [Read More](https://medium.com/p/1cfb405d2137) |
