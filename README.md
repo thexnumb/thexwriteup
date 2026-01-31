@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 Jan 2026 15:19:13 GMT | Building a Wazuh SIEM Lab using Ubuntu Manager +Kali | Narayananbhadri | [Read More](https://medium.com/p/04ca8f59f60a) |
+| Sat, 31 Jan 2026 15:10:05 GMT | Normal insanların və kiçik şirkətlərin qarşılaşdığı ümumi kiber təhlükələr | Behbud Behbudov | [Read More](https://medium.com/p/5ec9bbec4ab4) |
+| Sat, 31 Jan 2026 15:06:09 GMT | Understanding Dark Web Monitoring: What It Is and Why It Matters | Tor BBB | [Read More](https://medium.com/p/b5a19c873181) |
+| Sat, 31 Jan 2026 15:04:37 GMT | Kettaro Artist Protection: The First Automated System That Detects Stolen NFT Art Before It… | Kettaro | [Read More](https://medium.com/p/3f93a506f56a) |
+| Sat, 31 Jan 2026 15:02:36 GMT | A Complete Cloud Penetration Testing Walkthrough | Andrey Pautov | [Read More](https://medium.com/p/1914f687d7fd) |
+| Sat, 31 Jan 2026 15:00:40 GMT | [Write-up] SOC Analyst Simulation: Investigating a Local File Inclusion (LFI) Attempt | Pablo Parma | [Read More](https://medium.com/p/22dbcdb6b052) |
+| Sat, 31 Jan 2026 14:58:59 GMT | The Most Expensive Security Tool Is the One You Don’t Have Visibility Into | Sam Walker | [Read More](https://medium.com/p/eeac2b3faee7) |
+| Sat, 31 Jan 2026 14:55:40 GMT | Think the Lock Icon Means Safety? Think Again | Yuvashree | [Read More](https://medium.com/p/4136d9195cb1) |
 | Sat, 31 Jan 2026 14:47:36 GMT | Operationalising MITRE ATT&CK: Why Use Case Maturity Matters More Than Coverage | Barry Stephenson | [Read More](https://medium.com/p/813c735378e1) |
+| Sat, 31 Jan 2026 14:43:55 GMT | # Kameralar Necə İzləyir?
+## IP Kameralar, Gizli İzləmə və Real Kibertəhlükəsizlik Dərsləri (2026) | cybershieldy.com | [Read More](https://medium.com/p/d56ab5b99b6c) |
 | Sat, 31 Jan 2026 14:42:41 GMT | In early 2024, engineering firm Arup lost $25 million when an employee joined what appeared to be a… | The Good Security Plan | [Read More](https://medium.com/p/b336e83a4323) |
 | Sat, 31 Jan 2026 14:41:01 GMT | "Hackers don’t break in. They log in." | Muhammad Khalid Bin Walid | [Read More](https://medium.com/p/91cde28a97d0) |
 | Sat, 31 Jan 2026 14:39:04 GMT | I Logged Into My Account — and Found Someone Else Living There | Basel Issmail | [Read More](https://medium.com/p/c027993ab732) |
@@ -103,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 Jan 2026 08:19:47 GMT | MITM Attack | Bolles Wassim | [Read More](https://medium.com/p/62e886109352) |
 | Sat, 31 Jan 2026 08:15:05 GMT | Getting Over It APK | Game4u | [Read More](https://medium.com/p/5ca885aaa839) |
 | Sat, 31 Jan 2026 08:07:46 GMT | OverTheWire Bandit Complete Review: My Experience Learning Linux and Security | Asad Sayyad | [Read More](https://medium.com/p/e348c1e79968) |
-| Sat, 31 Jan 2026 08:05:08 GMT | How Predictive Analytics Is Transforming Cyber Threat Detection and Why Guest Post Outreach Matters… | Top Tech Outreach | [Read More](https://medium.com/p/d7fb7122ae1a) |
-| Sat, 31 Jan 2026 07:58:23 GMT | SOC Home Lab with Wazuh — Part 1 | Nitesh shah | [Read More](https://medium.com/p/de1d8ab767ed) |
-| Sat, 31 Jan 2026 07:50:55 GMT | Permit2 Logic Simplified And Associated Risks. | 0xFlare | [Read More](https://medium.com/p/06c4e3ef8f05) |
-| Sat, 31 Jan 2026 07:48:49 GMT | TechStackTrivia: Why the Early Internet Sounded Like a Dying Robot | Chris @ mostsignificant | [Read More](https://medium.com/p/27f02fdd7a50) |
-| Sat, 31 Jan 2026 07:38:01 GMT | FORGEROCK AUTHENTICATION TREES — FULL ADVANCED GUIDE | Serving Aid Key for Humans and Animals Foundation | [Read More](https://medium.com/p/ca64bc24ff3c) |
-| Sat, 31 Jan 2026 07:15:05 GMT | Building a Secure Git Automation Tool Using Python and Cron | Asad Sayyad | [Read More](https://medium.com/p/1406ee257294) |
-| Sat, 31 Jan 2026 07:05:02 GMT | In today’s fast-evolving security landscape, safeguarding people, property, and assets has become… | Ciss India | [Read More](https://medium.com/p/a099fb703f2e) |
-| Sat, 31 Jan 2026 07:01:02 GMT | CySA+ — Assumption Trap: Tool vs Purpose Confusion | the CyberStoic | [Read More](https://medium.com/p/45bdcdb03460) |
-| Sat, 31 Jan 2026 06:50:53 GMT | The New Equilibrium: How Trump’s Cybersecurity Doctrine Redefines Federal-Private Sector Relations | CCD-IS | [Read More](https://medium.com/p/f48ec6b02974) |
