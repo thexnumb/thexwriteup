@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 31 Jan 2026 06:43:59 GMT | Does Cybersecurity Protect just Data or Something More? | Glomygia Orji | [Read More](https://medium.com/p/29a176d507ad) |
+| Sat, 31 Jan 2026 06:38:36 GMT | AES-GCM | Yunnie | [Read More](https://medium.com/p/2ea5353f307f) |
+| Sat, 31 Jan 2026 06:34:57 GMT | Locksmith — Trusted Emergency & Residential Locksmith Services in London | The Lock Specialist Ltd | [Read More](https://medium.com/p/d34a752dbe8a) |
+| Sat, 31 Jan 2026 06:32:14 GMT | The Linux Concept Journey — initramfs (Initial Ram File System) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/9b3a13e8bfde) |
+| Sat, 31 Jan 2026 06:31:02 GMT | Secure Credential Management in Playwright | sajith dilshan | [Read More](https://medium.com/p/0cf75c4e2ff4) |
+| Sat, 31 Jan 2026 06:27:03 GMT | Web App Security Assessment with Wapiti: Hands-On Vulnerability Scanning | Cybeague Technologies | [Read More](https://medium.com/p/6b8c9e92ce35) |
+| Sat, 31 Jan 2026 06:26:14 GMT | Sn1per — Automated Pentest Reconnaissance Framework | Cybeague Technologies | [Read More](https://medium.com/p/d85f73d3ea10) |
+| Sat, 31 Jan 2026 06:24:26 GMT | Why “Cheap” Hosting Isn’t Always the Wrong Choice? | Mary Thomas | [Read More](https://medium.com/p/ce274783d668) |
+| Sat, 31 Jan 2026 06:23:13 GMT | Professional Locksmith Services You Can Trust Across London | The Lock Specialist Ltd | [Read More](https://medium.com/p/148f1312dd07) |
+| Sat, 31 Jan 2026 06:20:32 GMT | Cyber Security Career Guide 2025: Skills, Certifications & Job Growth | Vellinfotech | [Read More](https://medium.com/p/75771c2fec31) |
+| Sat, 31 Jan 2026 06:19:13 GMT | [EP.4] Learn from the Box — Beep (HTB) | Pattharadanai Sanitjairak | [Read More](https://medium.com/p/a1eba45b95a1) |
+| Sat, 31 Jan 2026 06:09:17 GMT | Free Awareness Program on Cyber Security, Cyber Crime & Digital Fraud By Jetking in collaboration… | JetkingChandigarh | [Read More](https://medium.com/p/14257be5a1a8) |
+| Sat, 31 Jan 2026 06:05:09 GMT | [EP.3] Learn from the Box — Devel (HTB) | Pattharadanai Sanitjairak | [Read More](https://medium.com/p/fef71a5a235c) |
+| Sat, 31 Jan 2026 06:01:01 GMT | The AI That Helps You Sleep | Cyber Explain | [Read More](https://medium.com/p/8ae50bab2823) |
+| Sat, 31 Jan 2026 06:01:01 GMT | My password was stolen and what now? | Colin Sampler | [Read More](https://medium.com/p/024aca3b86dd) |
+| Sat, 31 Jan 2026 05:59:41 GMT | Cybersecurity in 2026: “The What and the Why” | Soumodeep Das | [Read More](https://medium.com/p/d3b85e7c9a11) |
+| Sat, 31 Jan 2026 05:57:05 GMT | Deploying and Configuring a Wazuh SIEM with Sysmon and Windows Event Monitoring | Dae'mon A. | [Read More](https://medium.com/p/e20b83719157) |
 | Sat, 31 Jan 2026 05:50:45 GMT | When Your Phone Is the Key: Access Fragility and Backup Plans | James Kuhman | [Read More](https://medium.com/p/73e5e0477825) |
 | Sat, 31 Jan 2026 05:45:46 GMT | Why Growing Sites Outgrow Shared Plans Faster Than Expected? | Ann Taylor | [Read More](https://medium.com/p/4e7dffba94b6) |
 | Sat, 31 Jan 2026 05:45:30 GMT | IT Consulting Explained: Turning Technology Into a Competitive Advantage | Sovorun | [Read More](https://medium.com/p/5f60bc5a6238) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 30 Jan 2026 19:55:18 GMT | GeoServer: Recent Vulnerabilities & TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/a623be759d94) |
 | Fri, 30 Jan 2026 19:50:57 GMT | Breaking into Web3 Security: A Guide for Security Engineers | @AayJay | [Read More](https://medium.com/p/bdef7febd903) |
 | Fri, 30 Jan 2026 19:48:25 GMT | THM’s SEC1 (Cyber Security 101) Review | Motasem Hamdan | [Read More](https://medium.com/p/10e126f3a8b7) |
-| Fri, 30 Jan 2026 19:29:13 GMT | The Rise of Cybersecurity in Somalia, Opportunities, Challenges, and a Digital Future | Mohamed dahir | [Read More](https://medium.com/p/fd0fc206c673) |
-| Fri, 30 Jan 2026 19:26:58 GMT | CSRF: How to trick a website into taking Action on your behalf | Anshkamra | [Read More](https://medium.com/p/f2bb91184b1d) |
-| Fri, 30 Jan 2026 19:21:50 GMT | Lost Cryptocurrency? Here’s How Mine Was Recovered — No Upfront Fee | Liam Robert | [Read More](https://medium.com/p/b6fa77b1f988) |
-| Fri, 30 Jan 2026 19:19:23 GMT | Forging Digital Fortresses: The Fusion of Creativity and Code in Cybersecurity | Cybillit | [Read More](https://medium.com/p/7d005bc03f7f) |
-| Fri, 30 Jan 2026 19:14:57 GMT | The Less I Know The Better | darivxe | [Read More](https://medium.com/p/124f7cb99d94) |
-| Fri, 30 Jan 2026 19:13:51 GMT | The technology of boundaries | Francesco Maiomascio | [Read More](https://medium.com/p/ef7d7e019b40) |
-| Fri, 30 Jan 2026 19:11:31 GMT | Secure Use of GitHub — CIS-Aligned Technical Guide — Part III | SOCFortress | [Read More](https://medium.com/p/a36d5213f545) |
-| Fri, 30 Jan 2026 18:44:53 GMT | The Invisible Attack Surface: How AI Agents Are Creating Security Risks We’re Not Ready For | Sai Mohit Kumar Kilaru | [Read More](https://medium.com/p/e26a94597679) |
-| Fri, 30 Jan 2026 18:42:05 GMT | Good Vibes and Security Insight | Teri Radichel | [Read More](https://medium.com/p/b6e8276d07d4) |
-| Fri, 30 Jan 2026 18:39:27 GMT | Battleship in Python | ZeakPeak | [Read More](https://medium.com/p/52753d0f7807) |
-| Fri, 30 Jan 2026 18:35:21 GMT | How a “Safe” Analytics Endpoint Leaked Real User Behavior | Iski | [Read More](https://medium.com/p/9c75b38bcde6) |
-| Fri, 30 Jan 2026 18:31:30 GMT | Hunting with Zeek and Splunk — 2 | Manish [pikachu] | [Read More](https://medium.com/p/b8445713ce04) |
-| Fri, 30 Jan 2026 18:31:01 GMT | Why You Must Update to iOS 26 Now: Security Risks Explained | Sherin | [Read More](https://medium.com/p/f3fb250938bf) |
-| Fri, 30 Jan 2026 18:25:21 GMT | Precisely timestamping an audio recording through ENF analysis: AC-hell, haix-la-chapelle-2025 CTF… | Scorpius | [Read More](https://medium.com/p/7026be1f5da9) |
-| Fri, 30 Jan 2026 18:24:26 GMT | Clawdbot (Now Moltbot): The AI That Works for You — or Spies on You? | Nazrul Islam Rana | [Read More](https://medium.com/p/500afc696a2e) |
-| Fri, 30 Jan 2026 18:23:33 GMT | AI Security Reports — January 2025 | Tal Eliyahu | [Read More](https://medium.com/p/3db5854196ea) |
-| Fri, 30 Jan 2026 18:21:21 GMT | The 1inch Fusion v1 Exploit: How a Calldata Corruption Vulnerability Drained $5 Million | Olympix | [Read More](https://medium.com/p/d5667c83fc2a) |
