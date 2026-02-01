@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Feb 2026 06:08:28 GMT | Top & Best Tools for OSCP | Kiranghimire | [Read More](https://medium.com/p/5a03c74f8e40) |
+| Sun, 01 Feb 2026 06:01:01 GMT | OWASP API Security Top 10 Mapping with Nessus and Burp Suite Examples | Tandelpruthvi | [Read More](https://medium.com/p/348cb9d086a0) |
+| Sun, 01 Feb 2026 05:59:02 GMT | Why I Stopped Chasing Frameworks and Started Chasing Fundamentals | TechSam | [Read More](https://medium.com/p/9fad036351de) |
+| Sun, 01 Feb 2026 05:49:10 GMT | Prompt Engineering ChatGPT for Cybersecurity: From Toy Queries to Real SOC Value | Paritosh | [Read More](https://medium.com/p/a89ded2e2875) |
+| Sun, 01 Feb 2026 05:49:02 GMT | Cyber Sherlock Weekly Update: 31 January 2026 | Sujon Al Mamun | [Read More](https://medium.com/p/b27e8bc7abf1) |
+| Sun, 01 Feb 2026 05:42:23 GMT | Iran Revealed: How the Regime and Hezbollah Left Their Digital Infrastructure Exposed | Ringmast4r | [Read More](https://medium.com/p/560ea2ab03f4) |
+| Sun, 01 Feb 2026 05:19:38 GMT | Agentic Convenience Is Winning. Security Has to Adapt. | C D | [Read More](https://medium.com/p/635f191b5a85) |
+| Sun, 01 Feb 2026 05:12:40 GMT | Chaining IDOR and Authorization Issues to Achieve Privilege Escalation — A Case Study | Ayush Gupta | [Read More](https://medium.com/p/8dbb33e92946) |
+| Sun, 01 Feb 2026 05:09:24 GMT | Getting Started with SDR for Ethical Hacking | Sushant M Mane | [Read More](https://medium.com/p/202c2e400c66) |
+| Sun, 01 Feb 2026 05:07:19 GMT | Title: My Internship Journey at Oasis Infobyte | Deepanshu Semwal | [Read More](https://medium.com/p/010314bb7158) |
 | Sun, 01 Feb 2026 04:43:29 GMT | Why API Security is the Backbone of Nigerian Fintech: Lessons from Building a Secure Banking… | Divine Ogbonna | [Read More](https://medium.com/p/3cc5ed26c498) |
 | Sun, 01 Feb 2026 04:38:04 GMT | Cuba Revealed: How the Communist Regime Left Government Infrastructure Exposed | Ringmast4r | [Read More](https://medium.com/p/10e92fd4b08f) |
 | Sun, 01 Feb 2026 04:31:04 GMT | MCP Security Reality Check | Vectorlane | [Read More](https://medium.com/p/2591ca4beef4) |
@@ -102,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 Jan 2026 18:44:22 GMT | AI in Cybersecurity: Why It’s Becoming the New Front Line | Nicky Coleman | [Read More](https://medium.com/p/f29c4c59d854) |
 | Sat, 31 Jan 2026 18:41:56 GMT | What Is DevSecOps? | OPEXOR | [Read More](https://medium.com/p/83fedd6abbd4) |
 | Sat, 31 Jan 2026 18:41:21 GMT | Operation Slither - Tryhackme | Parvathy P Joshy | [Read More](https://medium.com/p/69b48aa84303) |
-| Sat, 31 Jan 2026 18:41:08 GMT | Interrupted Genesis: Futile Search for a Secure Base Before a Self Exists | MS | [Read More](https://medium.com/p/baa68fc64a3c) |
-| Sat, 31 Jan 2026 18:26:51 GMT | AIDYOR — M&A; ACQUISITION
-AI-POWERED, MULTI-CHAIN TOKEN RISK INTELLIGENCE PLATFORM - CONFIDENTIAL… | David Belligoi | [Read More](https://medium.com/p/3ac38c2d48cf) |
-| Sat, 31 Jan 2026 18:22:22 GMT | Cyberspace and the Evolution of Contemporary Warfare | Charudutta Sawant | [Read More](https://medium.com/p/97ca8b5b6cc8) |
-| Sat, 31 Jan 2026 18:21:08 GMT | The Phishing Series: Detecting Phishing Emails in a Controlled Lab — Authentication Headers | Norman Kolarikkal | [Read More](https://medium.com/p/c782fe90d49b) |
-| Sat, 31 Jan 2026 18:20:47 GMT | Hunting Volt Typhoon: A Full SOC-Level DFIR Walkthrough with Splunk | Saniye Nur | [Read More](https://medium.com/p/50fd44a00439) |
-| Sat, 31 Jan 2026 18:16:50 GMT | Database Lock 全面解讀 | 思維舞步 MindSteps | [Read More](https://medium.com/p/71914c2dfd10) |
-| Sat, 31 Jan 2026 18:16:01 GMT | Incident Response for Web3 Teams: The 30-Minute Playbook | Exploitless | [Read More](https://medium.com/p/e5f69382f917) |
-| Sat, 31 Jan 2026 18:11:07 GMT | Wazuh ile Uç Nokta Güvenliği ve İzleme: EDR Dünyasına Giriş (TryHackMe-Wazuh) | Ahmet Hakan Öztürk | [Read More](https://medium.com/p/0833b72c2528) |
-| Sat, 31 Jan 2026 18:08:33 GMT | ColddBox: Easy Write-Up | Sooraj Mohan | [Read More](https://medium.com/p/f738829a69e5) |
-| Sat, 31 Jan 2026 18:00:30 GMT | Dissecting LummaStealer: A Walkthrough of the “Angry Likho” Lab | Muhammad Omar F F | [Read More](https://medium.com/p/4d578cc07df0) |
