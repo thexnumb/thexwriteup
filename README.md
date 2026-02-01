@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Feb 2026 09:03:03 GMT | The Hidden Side of the Internet No One Talks About | Vignesh Selvaraj | [Read More](https://medium.com/p/a3ecda227c35) |
+| Sun, 01 Feb 2026 09:01:12 GMT | Why Credential Stuffing Still Works in 2026 (And How to Stop It) | Alexandre Vandamme | [Read More](https://medium.com/p/e7ef3abf843e) |
+| Sun, 01 Feb 2026 08:54:23 GMT | DorkEye – Ethical Dorking in Python (and Why It Matters) | xPloits3c | [Read More](https://medium.com/p/098ac17d88e8) |
+| Sun, 01 Feb 2026 08:51:46 GMT | Operation Slither - Tryhackme | Aaron | [Read More](https://medium.com/p/0d3fb772cf04) |
+| Sun, 01 Feb 2026 08:51:28 GMT | ความปลอดภัยทางเทคโนโลยีไม่ใช่ปัญหาเฉพาะพนักงานสาย Tech | Chanachon | [Read More](https://medium.com/p/3749dcf3045a) |
 | Sun, 01 Feb 2026 08:33:01 GMT | 4 Bytes to Kernel Crash: Breaking Down the SMBGhost Compression Bug | Harshit Bhardwaj | [Read More](https://medium.com/p/56c856468402) |
+| Sun, 01 Feb 2026 08:28:26 GMT | Warzone 1 : TryHackMe Walkthrough | Saransh Singh | [Read More](https://medium.com/p/136016c75c1c) |
 | Sun, 01 Feb 2026 08:26:49 GMT | Insufficient Session Expiration: A Permanent Backdoor into MFA Accounts Bypassing the Entire Login… | Bavly Zaher | [Read More](https://medium.com/p/1097257c817d) |
 | Sun, 01 Feb 2026 08:25:33 GMT | Frontend Tools That Actually Reduce Bugs (Not Just Look Cool) | Neha Singh | [Read More](https://medium.com/p/9c213847e23d) |
 | Sun, 01 Feb 2026 08:08:46 GMT | Why I Encrypt Every Photo Before Uploading to the Cloud (And You Should Too) | Simon Reed | [Read More](https://medium.com/p/65f2d1c08b92) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 Jan 2026 21:29:56 GMT | HTB - CPTS - Shells & Payloads — The Live Engagement | CyberMateUY | [Read More](https://medium.com/p/2d47700d4ce8) |
 | Sat, 31 Jan 2026 21:28:16 GMT | dzosoft.com | dzosoft | [Read More](https://medium.com/p/7a38a3dc0afe) |
 | Sat, 31 Jan 2026 21:27:07 GMT | AI Security 101: Game of Gradients Why AI Is Inherently Insecure (and What Robustness Really Means… | Vinay Bist | [Read More](https://medium.com/p/2027eb0fb8b8) |
-| Sat, 31 Jan 2026 21:19:57 GMT | DFIR Deep Dive | IgnoranzaSolare | [Read More](https://medium.com/p/f744809612cd) |
-| Sat, 31 Jan 2026 21:14:32 GMT | Capstone Project 2: SNS Secrets — AWS Pentesting Walkthrough | rajasekharyarava | [Read More](https://medium.com/p/ca9fb7c54ad3) |
-| Sat, 31 Jan 2026 21:06:50 GMT | How Modern Security Systems Decide Who Gets Access | Neeraj Sharma | [Read More](https://medium.com/p/89ba5ec43051) |
-| Sat, 31 Jan 2026 21:05:17 GMT | Break login logic | Mahmoud Farag | [Read More](https://medium.com/p/43832c2ebd0e) |
-| Sat, 31 Jan 2026 21:01:02 GMT | ️‍♂️ TryHackMe CTF — CyberLens | Devilman24 | [Read More](https://medium.com/p/4245b946589f) |
-| Sat, 31 Jan 2026 20:49:47 GMT | 30 Days Challenge with TechyJaunt —V3. Push past your limits! | TechyJaunt | [Read More](https://medium.com/p/7eca97f64b31) |
