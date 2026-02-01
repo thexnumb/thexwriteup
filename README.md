@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Feb 2026 11:11:22 GMT | Mobile Device Security Guide for Journalists, Medics, Legal and Democratic Observers and Protestors | Jeffrey R Wells | [Read More](https://medium.com/p/c60568d11ad0) |
+| Sun, 01 Feb 2026 11:06:10 GMT | Poland Confirms Attack on Wind Farms and Solar Plants | Patrik Žák | [Read More](https://medium.com/p/89cc04650651) |
+| Sun, 01 Feb 2026 10:59:54 GMT | Bombs are lifelines, no guardians of national interests—this is a point that must be remembered. | Evan Sanorax | [Read More](https://medium.com/p/147a44819577) |
+| Sun, 01 Feb 2026 10:56:36 GMT | From Frustration to Creation | Vaultio | [Read More](https://medium.com/p/cb64323c9c1c) |
+| Sun, 01 Feb 2026 10:49:02 GMT | Picking a Kubernetes Policy Engine Without Losing Your Mind | Sylvain Gibier | [Read More](https://medium.com/p/532853fd5e4e) |
+| Sun, 01 Feb 2026 10:43:33 GMT | Is Artificial Intelligence a Good Career in 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/6d6fdbf884e5) |
+| Sun, 01 Feb 2026 10:41:40 GMT | Ransomware Çağında Veri Nasıl Korunur? | Taha Altın | [Read More](https://medium.com/p/e49201994f14) |
 | Sun, 01 Feb 2026 10:39:23 GMT | AI Agent Security Alert: How Prompt Guard’s Five-Layer Defense Engine Stops Injection Attacks | Ewan Mak | [Read More](https://medium.com/p/5cc7b2c180d0) |
 | Sun, 01 Feb 2026 10:39:07 GMT | Ransomware Çağında Veri Nasıl Korunur? | Taha Altın | [Read More](https://medium.com/p/a2c14be169a8) |
 | Sun, 01 Feb 2026 10:38:39 GMT | Galaxy Dash (Medium difficulty) writeup (BugForge) | 7s26Simon | [Read More](https://medium.com/p/e19f60065216) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 Jan 2026 23:24:53 GMT | Security testing just got a lot more agentic | JP Caparas | [Read More](https://medium.com/p/24aa661cd368) |
 | Sat, 31 Jan 2026 23:24:51 GMT | ️‍♂️ Peek-a-Boo, I See You: How We Bypassed Cloudflare and Toppled a Phishing Empire (Thanks to a… | HUNT3R | [Read More](https://medium.com/p/a10f80fef241) |
 | Sat, 31 Jan 2026 23:14:11 GMT | Agapimeni Kardia: | Alex Oluwatosin Anuoluwapo | [Read More](https://medium.com/p/a1998ebd54f4) |
-| Sat, 31 Jan 2026 23:11:43 GMT | Best Indoor Smart Cameras: Blink Mini 2 vs Blink Mini Pan vs Ring Pan-Tilt | kutub | [Read More](https://medium.com/p/448b62657919) |
-| Sat, 31 Jan 2026 23:10:50 GMT | 1) Introduction — The problem we’re actually trying to solve | Jordy de Koning | [Read More](https://medium.com/p/31b4fbd9761f) |
-| Sat, 31 Jan 2026 23:03:42 GMT | ‘You dream in a language that I can’t understand. | Keila Totaro | [Read More](https://medium.com/p/9f4ce83c20e5) |
-| Sat, 31 Jan 2026 23:02:49 GMT | Comprehensive Guide to Online Tools and Their Benefits for Daily Use | dzosoft | [Read More](https://medium.com/p/d35772247e17) |
-| Sat, 31 Jan 2026 22:53:11 GMT | The Sovereign AI Security Crisis: 42,000+ Exposed OpenClaw Instances and the Collapse of… | Maor Dayan - מאור דיין | [Read More](https://medium.com/p/1e3f2687b951) |
-| Sat, 31 Jan 2026 22:34:42 GMT | Android Runs ELF Files: Everything Else Is Just Layers | Zahid | [Read More](https://medium.com/p/dad1aa5c7e85) |
-| Sat, 31 Jan 2026 22:29:50 GMT | Why StarRocks Is Better Than ClickHouse for Data Analytics in Cybersecurity | IndoMITability | [Read More](https://medium.com/p/2f02548111fd) |
