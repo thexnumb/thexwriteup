@@ -12,8 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Feb 2026 12:32:03 GMT | Inside TAMECAT: A Closer Look at APT42’s Stealthy PowerShell Backdoor | Mohamed Ehab Osman | [Read More](https://medium.com/p/3fcd6640a0dc) |
+| Sun, 01 Feb 2026 12:25:12 GMT | I didn’t fix the system but I guided the people | Mir Shahzad | [Read More](https://medium.com/p/67b4d0aea8b8) |
+| Sun, 01 Feb 2026 12:16:08 GMT | Nobody Warns You How Fast Security Debt Accumulates | Mwenda Kelvin | [Read More](https://medium.com/p/10ab8141dc00) |
+| Sun, 01 Feb 2026 12:12:17 GMT | SpookyPass: HaackTheBox Challenge | Bridget | [Read More](https://medium.com/p/844462af62b1) |
+| Sun, 01 Feb 2026 12:07:21 GMT | Active Directory Hacking: The Skill That Separates the Pros from the Amateurs | Axoloth | [Read More](https://medium.com/p/5316e53566c9) |
+| Sun, 01 Feb 2026 12:01:02 GMT | Between the Noise of Thought and the Silence of the Page: Where Confrontation Begins | Tala alazzeh | [Read More](https://medium.com/p/150d759d24c3) |
+| Sun, 01 Feb 2026 11:57:59 GMT | How to make a boilerplate IEEE 802.15.4/ZigBee sniffing lab. | biero llagas | [Read More](https://medium.com/p/b7c5f406b60a) |
+| Sun, 01 Feb 2026 11:55:20 GMT | Frontend Tools That Actually Reduce Bugs | Jaytech | [Read More](https://medium.com/p/177950ef9de3) |
+| Sun, 01 Feb 2026 11:54:53 GMT | What is Path Traversal and Why Is It Dangerous? | fikri | [Read More](https://medium.com/p/42571173c0d3) |
+| Sun, 01 Feb 2026 11:51:35 GMT | What you can do if you think an intelligence agency is going after you? | E | [Read More](https://medium.com/p/7933c217e738) |
+| Sun, 01 Feb 2026 11:47:14 GMT | Production-Grade Secret Management on GCP | Anshika Khandelwal | [Read More](https://medium.com/p/954ef2ff7880) |
+| Sun, 01 Feb 2026 11:46:39 GMT | Shell GPT Utilization for Cybersecurity | mohandika | [Read More](https://medium.com/p/32c9a5b07799) |
+| Sun, 01 Feb 2026 11:45:32 GMT | How to Get a Cybersecurity Internship without Experience | Muhammad Haider Tallal | [Read More](https://medium.com/p/60c13a1e75ec) |
 | Sun, 01 Feb 2026 11:41:54 GMT | Quantum Algorithms Explained for Everyone: A Simple and Practical Guide | Tech Security | [Read More](https://medium.com/p/ff840f5195e8) |
+| Sun, 01 Feb 2026 11:41:15 GMT | Beyond the Destination: The Evolution of Executive Mobility in Europe | Petr Šálek - Prague Apex | [Read More](https://medium.com/p/cfb9eee813e2) |
 | Sun, 01 Feb 2026 11:40:58 GMT | Tools you need for Bug Bounty v1.0 (Recon Starter Pack) | Swetha | [Read More](https://medium.com/p/972425c8c586) |
+| Sun, 01 Feb 2026 11:40:35 GMT | Why You Can’t Withdraw From QKX Exchange: A Red-Flag Checklist for Users | Cassian Vale | [Read More](https://medium.com/p/fb96866def5a) |
 | Sun, 01 Feb 2026 11:40:31 GMT | Tools for Bug Bounty v2.0 — Port Scanning Essentials | Swetha | [Read More](https://medium.com/p/96ac9692b7e4) |
 | Sun, 01 Feb 2026 11:36:01 GMT | The 2026 Cybersecurity Roadmap: From Beginner to Ethical Hacker | venkatesh ram | [Read More](https://medium.com/p/9903edbda11e) |
 | Sun, 01 Feb 2026 11:33:59 GMT | Cybersecurity LLMs: New Locally Deployable Models For Agentic AI | evoailabs | [Read More](https://medium.com/p/54908c3f621b) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Feb 2026 04:09:26 GMT | Unmasking Lumma Malware in 2026 | Sumedha Dawadi | [Read More](https://medium.com/p/893d7246d8c2) |
 | Sun, 01 Feb 2026 04:04:52 GMT | Burp Suite A Beginner’s Guide to Web Security Testing | Shadow Attackers | [Read More](https://medium.com/p/fa2394a9d12d) |
 | Sun, 01 Feb 2026 04:00:14 GMT | Using AI to find interesting Hackaday Posts | Scott Baker | [Read More](https://medium.com/p/d02c6b04a5a9) |
-| Sun, 01 Feb 2026 03:58:09 GMT | CORS & SOP: Backbone of web security | PriOFF | [Read More](https://medium.com/p/681b6567cbc0) |
-| Sun, 01 Feb 2026 03:47:33 GMT | My OIBSIP Internship Journey with Oasis Infobyte | Project | [Read More](https://medium.com/p/9c2b1a3af74b) |
-| Sun, 01 Feb 2026 03:43:06 GMT | OWASP CRS Testing in AEMaaCS Apache Dispatcher | Kostiantyn Diachenko | [Read More](https://medium.com/p/ab4a04ccf373) |
-| Sun, 01 Feb 2026 03:41:40 GMT | Designing Access Control Models in Large Enterprises: RBAC Role Mining Failures and How to Fix Them | Yashasvi Sharma | [Read More](https://medium.com/p/0cc5fd58d85a) |
-| Sun, 01 Feb 2026 03:05:42 GMT | The Receipt That Outlives You: Privacy as a Daily Choice | James Kuhman | [Read More](https://medium.com/p/50c8440a3a45) |
-| Sun, 01 Feb 2026 02:54:52 GMT | Other people don’t have the power to dim my light | Leigh | [Read More](https://medium.com/p/2b3fd89a2246) |
-| Sun, 01 Feb 2026 02:54:51 GMT | 4 Part newsletter on Cybersecurity in South Africa | NumbWallaby | [Read More](https://medium.com/p/363953033152) |
-| Sun, 01 Feb 2026 02:38:19 GMT | AI Will Not Replace You — But Someone Using AI Might | hapuarachchige hansi hirunika | [Read More](https://medium.com/p/9c57b4c7cdf7) |
-| Sun, 01 Feb 2026 02:33:25 GMT | Cybersecurity common question and answers | s v | [Read More](https://medium.com/p/f49479d06f19) |
-| Sun, 01 Feb 2026 02:25:08 GMT | Te hackearon Mexico, ¿Ahora Que? | Adrian Romanov | [Read More](https://medium.com/p/68945fc3759d) |
-| Sun, 01 Feb 2026 02:21:37 GMT | Linux Kernel Dirty Pipe Exploitation (Logic Bug — CVE-2022–0847) | Antonius Wisdom | [Read More](https://medium.com/p/16e5c179284b) |
-| Sun, 01 Feb 2026 01:38:19 GMT | What Getting Hacked Taught Me | Rachel Glass | [Read More](https://medium.com/p/d3e52a0c3df3) |
-| Sun, 01 Feb 2026 01:33:27 GMT | Agents with agency: Moltbook! | Savneet Singh | [Read More](https://medium.com/p/326cf3b282a4) |
-| Sun, 01 Feb 2026 00:17:51 GMT | How google.share Is Helping Fraudulent Activities | Tech talks | [Read More](https://medium.com/p/d221e199872e) |
-| Sun, 01 Feb 2026 00:13:46 GMT | CodePartTwo — HackTheBox Walkthrough | B3TA-BLOCKER | [Read More](https://medium.com/p/73202e4d312a) |
