@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Feb 2026 15:41:58 GMT | A Practical Introduction to OpenTIDE: Open Threat-Informed Detection Engineering | Adan | [Read More](https://medium.com/p/e218e4970c95) |
+| Sun, 01 Feb 2026 15:27:42 GMT | Network Scanning and Vulnerability Assessment Using Nmap | Shobinmendez | [Read More](https://medium.com/p/df9c01c42cac) |
+| Sun, 01 Feb 2026 15:26:36 GMT | 30 Days of Red Team: Day 20 — Exploiting Trust Relationships | Maxwell Cross | [Read More](https://medium.com/p/70d884664e3a) |
+| Sun, 01 Feb 2026 15:25:41 GMT | picoCTF : Magikarp Ground Mission | Sahara | [Read More](https://medium.com/p/fdb9ae21a81c) |
+| Sun, 01 Feb 2026 15:22:10 GMT | When “Verify You’re Human” Becomes Malware Execution | R.D.Tarun | [Read More](https://medium.com/p/0c6e9540779d) |
 | Sun, 01 Feb 2026 15:13:04 GMT | What Learning API Security Taught Me About Building Systems for the Real World | Iseoluwa Ogunnaike | [Read More](https://medium.com/p/4f8003226abc) |
 | Sun, 01 Feb 2026 15:12:52 GMT | Scattered Spider: Why This Cybercriminal Group Still Matters | Ankita Sinha | [Read More](https://medium.com/p/6c57322a0d62) |
 | Sun, 01 Feb 2026 15:12:10 GMT | MongoBleed (CVE-2025–14847): When Compression Becomes a Data Exfiltration Vector | Ankita Sinha | [Read More](https://medium.com/p/6fceaa9deecf) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Feb 2026 08:25:33 GMT | Frontend Tools That Actually Reduce Bugs (Not Just Look Cool) | Neha Singh | [Read More](https://medium.com/p/9c213847e23d) |
 | Sun, 01 Feb 2026 08:08:46 GMT | Why I Encrypt Every Photo Before Uploading to the Cloud (And You Should Too) | Simon Reed | [Read More](https://medium.com/p/65f2d1c08b92) |
 | Sun, 01 Feb 2026 08:07:50 GMT | From Unauthenticated Access to Full Root Compromise: A Linux Penetration Testing Case Study | sayeedTestOps | [Read More](https://medium.com/p/3701e494eb2d) |
-| Sun, 01 Feb 2026 08:06:45 GMT | Why IACS UR E26 Should Be Considered as “Non-Optional” for Shipowners | Julius | [Read More](https://medium.com/p/9f902bb43ee9) |
-| Sun, 01 Feb 2026 07:55:59 GMT | Samsung Galaxy Unpacked 2026 Invite Leaks: Date Revealed and Everything We Know So Far | Aliahamad | [Read More](https://medium.com/p/69f8dcfe52a2) |
-| Sun, 01 Feb 2026 07:52:01 GMT | How Unmanaged Mobile Devices Create Invisible Attack Paths Inside Enterprise Networks | SAJS | [Read More](https://medium.com/p/a797b107f3da) |
-| Sun, 01 Feb 2026 07:46:49 GMT | The Insider Is Authorized: Why We Built BlockIntel Shield | Heartlin Machado | [Read More](https://medium.com/p/36155e05fd1e) |
-| Sun, 01 Feb 2026 07:38:04 GMT | The Last Reversible Moment: Why We Built BlockIntel Gate | Heartlin Machado | [Read More](https://medium.com/p/c75d23831882) |
