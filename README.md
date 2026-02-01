@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Feb 2026 02:33:25 GMT | Cybersecurity common question and answers | s v | [Read More](https://medium.com/p/f49479d06f19) |
+| Sun, 01 Feb 2026 02:25:08 GMT | Te hackearon Mexico, ¿Ahora Que? | Adrian Romanov | [Read More](https://medium.com/p/68945fc3759d) |
+| Sun, 01 Feb 2026 01:38:19 GMT | What Getting Hacked Taught Me | Rachel Glass | [Read More](https://medium.com/p/d3e52a0c3df3) |
+| Sun, 01 Feb 2026 01:33:27 GMT | Agents with agency: Moltbook! | Savneet Singh | [Read More](https://medium.com/p/326cf3b282a4) |
+| Sun, 01 Feb 2026 00:17:51 GMT | How google.share Is Helping Fraudulent Activities | Tech talks | [Read More](https://medium.com/p/d221e199872e) |
+| Sun, 01 Feb 2026 00:13:46 GMT | CodePartTwo — HackTheBox Walkthrough | B3TA-BLOCKER | [Read More](https://medium.com/p/73202e4d312a) |
+| Sun, 01 Feb 2026 00:09:43 GMT | Exploiting Redis and ROP: A Full Walkthrough of the Blackgate CTF Machine | MGMK | [Read More](https://medium.com/p/bdc8823e677d) |
+| Sat, 31 Jan 2026 23:51:33 GMT | La maldición del amor ajeno | Juanfer | [Read More](https://medium.com/p/e8ea654b5d45) |
+| Sat, 31 Jan 2026 23:46:24 GMT | Manipulación de JWT y Control de Integridad | IgnoranzaSolare | [Read More](https://medium.com/p/8c201b4a0af8) |
 | Sat, 31 Jan 2026 23:44:03 GMT | The IDOR’ventures — The Tickets & More — A Different Kind Of $36,000 Bounty | Justas_b_2 | [Read More](https://medium.com/p/6cabbd01e4fb) |
+| Sat, 31 Jan 2026 23:39:46 GMT | OpenClawTrap — Malicious Skills Run Rampant | Thomas Dang | [Read More](https://medium.com/p/8a303368d700) |
 | Sat, 31 Jan 2026 23:31:47 GMT | Information Is the Real Engine Behind Every Computer System | Resourceful Dev | [Read More](https://medium.com/p/194604460e5b) |
 | Sat, 31 Jan 2026 23:26:20 GMT | The Last Honest Letter: Security When AI Can Be Anyone | Latinum Institute Press | [Read More](https://medium.com/p/0a6b65209a0f) |
 | Sat, 31 Jan 2026 23:24:53 GMT | Security testing just got a lot more agentic | JP Caparas | [Read More](https://medium.com/p/24aa661cd368) |
@@ -103,13 +113,3 @@ AI-POWERED, MULTI-CHAIN TOKEN RISK INTELLIGENCE PLATFORM - CONFIDENTIAL… | Dav
 | Sat, 31 Jan 2026 16:38:00 GMT | Mengeksploitasi pemetaan path untuk penipuan cache web (PortSwigger) | Naufal Arif Athallah | [Read More](https://medium.com/p/e4dc63ba6d76) |
 | Sat, 31 Jan 2026 16:27:28 GMT | How I Hacked an Enterprise’s Entire User Database with One Hardcoded Credential: SAP IAM Deep Dive | HR | [Read More](https://medium.com/p/6ce426f4a2d7) |
 | Sat, 31 Jan 2026 16:26:47 GMT | TryHackMe - Intro to Log Analysis — Writeup | CyberWithManos | [Read More](https://medium.com/p/1c6f98e7c5fa) |
-| Sat, 31 Jan 2026 16:23:55 GMT | The Art of Knowing Before Breaking(Reconnaissance): | Amandogra | [Read More](https://medium.com/p/b0d9ea630304) |
-| Sat, 31 Jan 2026 16:21:45 GMT | How to Be Financially Strong: Smart Money Habits for Life | Vandit Bhut | [Read More](https://medium.com/p/b6344ff1af85) |
-| Sat, 31 Jan 2026 16:18:32 GMT | AI-Assisted Web and Cloud Penetration Testing with Cursor + MCP HexStrike and Burp Suite MCP. | Andrey Pautov | [Read More](https://medium.com/p/01c02eed5258) |
-| Sat, 31 Jan 2026 16:14:05 GMT | A60 Marine Doors + H120 Marine Doors — Reliable Marine and Modular in the UAE. | Life Cart | [Read More](https://medium.com/p/473b5a7ddc90) |
-| Sat, 31 Jan 2026 16:06:01 GMT | Four Main Career Paths in the Technology World | C.N. Husnul Izzati | [Read More](https://medium.com/p/28dbbef24c50) |
-| Sat, 31 Jan 2026 15:58:23 GMT | a note on independence | Letters from Becca | [Read More](https://medium.com/p/7e0946ae0911) |
-| Sat, 31 Jan 2026 15:51:39 GMT | Cyber Threat Hunting with Splunk: Reconnaissance | Allen Ace | [Read More](https://medium.com/p/9c62354994b6) |
-| Sat, 31 Jan 2026 15:47:27 GMT | The $100B Problem. Why the global surveillance market is fundamentally broken | Volve Vision | [Read More](https://medium.com/p/6eaaa251564f) |
-| Sat, 31 Jan 2026 15:36:22 GMT | Moltbook: A Social Network for AI Agents | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/29aa1e82b5c4) |
-| Sat, 31 Jan 2026 15:36:18 GMT | 31st January 2026 | Phoenix Files | [Read More](https://medium.com/p/2ef75057c0c3) |
