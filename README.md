@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Feb 2026 20:19:45 GMT | The Conscientious Cloud Engineer | Kamlesh Shah | [Read More](https://medium.com/p/79784d70746d) |
+| Sun, 01 Feb 2026 20:16:13 GMT | Facts HTB writeup | Aaltobelli | [Read More](https://medium.com/p/908155103f91) |
+| Sun, 01 Feb 2026 20:03:22 GMT | Reverse Proxy Nedir ve “Ben Robot Değilim” Kutucuğu Nasıl Çalışır? | Arda Derya | [Read More](https://medium.com/p/2475777b38cf) |
+| Sun, 01 Feb 2026 20:01:54 GMT | NetFlow Nedir? Şirketler İnternete Çıkışları Nasıl Takip Eder? | Arda Derya | [Read More](https://medium.com/p/b77345790b61) |
+| Sun, 01 Feb 2026 19:49:22 GMT | Güvenli Olan Sessizdir: Kerberos Susar, NTLM Anlatır | Yunus Emre Pak | [Read More](https://medium.com/p/a6f1e738ec79) |
+| Sun, 01 Feb 2026 19:45:25 GMT | Blue Team Perspective: The Art of Visibility | Gokhan Can | [Read More](https://medium.com/p/3bfb588d3204) |
 | Sun, 01 Feb 2026 19:40:43 GMT | TheHackersLabs — Ipeuveseis [Write-Up] | APS88 | [Read More](https://medium.com/p/05dce3a3cca2) |
 | Sun, 01 Feb 2026 19:38:19 GMT | Farewell — Premium Room TryHackMe Write-Up - Auth Bypass, XSS & Admin Access | Contact Aryan Here | [Read More](https://medium.com/p/47c487e2552c) |
 | Sun, 01 Feb 2026 19:30:46 GMT | How Can Alertable Threads and APC Abuse Lead to System Crash | Abhijit Laxman Shirwal | [Read More](https://medium.com/p/1b611216a56a) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Feb 2026 13:55:14 GMT | The End of the Golden Bridge: How Europe is Being Trapped into an Unwinnable War | Adnan Bajramović | [Read More](https://medium.com/p/b5255aec31cc) |
 | Sun, 01 Feb 2026 13:54:17 GMT | Cybersecurity Beginner Roadmap (From Zero to Job-Ready) | Mohamed dahir | [Read More](https://medium.com/p/40cbb71612dc) |
 | Sun, 01 Feb 2026 13:53:50 GMT | The beginning of my OTW journey | CocoB | [Read More](https://medium.com/p/2c24ac5c9581) |
-| Sun, 01 Feb 2026 13:49:18 GMT | KEV-First Patch Triage: A 48-Hour Decision Framework | Oscar Antonangelo | [Read More](https://medium.com/p/842d79ab343c) |
-| Sun, 01 Feb 2026 13:39:00 GMT | THM-VulnNet: Roasted Walkthrough | Abhay Ingale | [Read More](https://medium.com/p/a59898814e73) |
-| Sun, 01 Feb 2026 13:35:57 GMT | Inside Moltbook: Where 1.3 Million AI Agents Built Their Own Social Network | Owadokun Tosin Tobi | [Read More](https://medium.com/p/f1feeaeb165b) |
-| Sun, 01 Feb 2026 13:21:01 GMT | AresGPT & Aristotle’s Pen: AI for Justice, Virtue, and Security | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/f4f427a16bf2) |
-| Sun, 01 Feb 2026 13:05:17 GMT | Exploit3rs CTF — The Debug Dilemma Writeup | 0xlight | [Read More](https://medium.com/p/db16816e4306) |
-| Sun, 01 Feb 2026 12:56:17 GMT | Your OS Can’t See This Trojan, I Reverse-Engineered It: Paramecium2 | Harsh Raj Singhania | [Read More](https://medium.com/p/57635360c128) |
