@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Feb 2026 08:33:01 GMT | 4 Bytes to Kernel Crash: Breaking Down the SMBGhost Compression Bug | Harshit Bhardwaj | [Read More](https://medium.com/p/56c856468402) |
+| Sun, 01 Feb 2026 08:26:49 GMT | Insufficient Session Expiration: A Permanent Backdoor into MFA Accounts Bypassing the Entire Login… | Bavly Zaher | [Read More](https://medium.com/p/1097257c817d) |
+| Sun, 01 Feb 2026 08:25:33 GMT | Frontend Tools That Actually Reduce Bugs (Not Just Look Cool) | Neha Singh | [Read More](https://medium.com/p/9c213847e23d) |
+| Sun, 01 Feb 2026 08:08:46 GMT | Why I Encrypt Every Photo Before Uploading to the Cloud (And You Should Too) | Simon Reed | [Read More](https://medium.com/p/65f2d1c08b92) |
+| Sun, 01 Feb 2026 08:07:50 GMT | From Unauthenticated Access to Full Root Compromise: A Linux Penetration Testing Case Study | sayeedTestOps | [Read More](https://medium.com/p/3701e494eb2d) |
+| Sun, 01 Feb 2026 08:06:45 GMT | Why IACS UR E26 Should Be Considered as “Non-Optional” for Shipowners | Julius | [Read More](https://medium.com/p/9f902bb43ee9) |
+| Sun, 01 Feb 2026 07:55:59 GMT | Samsung Galaxy Unpacked 2026 Invite Leaks: Date Revealed and Everything We Know So Far | Aliahamad | [Read More](https://medium.com/p/69f8dcfe52a2) |
+| Sun, 01 Feb 2026 07:52:01 GMT | How Unmanaged Mobile Devices Create Invisible Attack Paths Inside Enterprise Networks | SAJS | [Read More](https://medium.com/p/a797b107f3da) |
 | Sun, 01 Feb 2026 07:46:49 GMT | The Insider Is Authorized: Why We Built BlockIntel Shield | Heartlin Machado | [Read More](https://medium.com/p/36155e05fd1e) |
 | Sun, 01 Feb 2026 07:38:04 GMT | The Last Reversible Moment: Why We Built BlockIntel Gate | Heartlin Machado | [Read More](https://medium.com/p/c75d23831882) |
 | Sun, 01 Feb 2026 07:37:47 GMT | The Alphabet Soup Scam: Why You Must Avoid “Wbgzx” | QingShieldCenter | [Read More](https://medium.com/p/aed748f48f73) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 Jan 2026 21:05:17 GMT | Break login logic | Mahmoud Farag | [Read More](https://medium.com/p/43832c2ebd0e) |
 | Sat, 31 Jan 2026 21:01:02 GMT | ️‍♂️ TryHackMe CTF — CyberLens | Devilman24 | [Read More](https://medium.com/p/4245b946589f) |
 | Sat, 31 Jan 2026 20:49:47 GMT | 30 Days Challenge with TechyJaunt —V3. Push past your limits! | TechyJaunt | [Read More](https://medium.com/p/7eca97f64b31) |
-| Sat, 31 Jan 2026 20:49:31 GMT | day 7 — SOC Fundamentals & Tier Structure | Siddhesh Patil | [Read More](https://medium.com/p/ef6143e40116) |
-| Sat, 31 Jan 2026 20:44:46 GMT | How Small Websites Get Hacked: The Specific Vulnerabilities Nobody Talks About | Abdelaziz moustakim | [Read More](https://medium.com/p/3befc146dcf8) |
-| Sat, 31 Jan 2026 20:43:53 GMT | Ocarina 3 (Jeanne d’Hack CTF) | 0x_S0W | [Read More](https://medium.com/p/e6e067a1da9a) |
-| Sat, 31 Jan 2026 20:39:20 GMT | Try Hack Me- Willow CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/175c133cce66) |
-| Sat, 31 Jan 2026 20:32:00 GMT | Essential UFW Commands: A Senior Admin’s Guide to Linux Firewall Security | Nube Colectiva | [Read More](https://medium.com/p/e48fd008721a) |
-| Sat, 31 Jan 2026 20:22:22 GMT | ️ How to Secure Angular + Java APIs from CSRF — Without Cookies | Sahana | [Read More](https://medium.com/p/4a1820bfed1b) |
-| Sat, 31 Jan 2026 20:08:19 GMT | Amazon Bedrock — Guardrails vs Performance | Elad hirsch | [Read More](https://medium.com/p/59688a0ca932) |
-| Sat, 31 Jan 2026 20:06:01 GMT | Preventing Data ‘Oops!’ Moments: How AI can Keeps Breaches at Bay | Yogita Surve | [Read More](https://medium.com/p/887da7b4ba27) |
