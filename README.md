@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Feb 2026 22:15:03 GMT | Anonymity | Ali Kurt | [Read More](https://medium.com/p/64377497728b) |
+| Sun, 01 Feb 2026 22:14:55 GMT | My Journey Learning API Security | Cristina Manjarrez | [Read More](https://medium.com/p/f9a43f149b01) |
+| Sun, 01 Feb 2026 21:57:19 GMT | Shift Left in Practice: SAST, DAST, and SCA with GitHub Actions | mjmarc.life | [Read More](https://medium.com/p/cb5539f31d04) |
+| Sun, 01 Feb 2026 21:46:31 GMT | TryHackMe Metasploit: Exploitation — Complete Beginner Walkthrough | Kernel Curly | [Read More](https://medium.com/p/85bb81487290) |
+| Sun, 01 Feb 2026 21:44:23 GMT | Building a Cyber-Resilient Water Treatment ICS Security Lab | Jeythasahanav | [Read More](https://medium.com/p/c6b227f00a6e) |
 | Sun, 01 Feb 2026 21:39:46 GMT | Day 7 : XSS | Cybersecurity with Jojo | [Read More](https://medium.com/p/3398263c2ef0) |
+| Sun, 01 Feb 2026 21:36:03 GMT | Protecting Your Online Reputation in Carbon County Utah: A Guide for Residents | Mountain View Provisions LLC | [Read More](https://medium.com/p/ede0dc5448a6) |
 | Sun, 01 Feb 2026 21:31:01 GMT | Humanity’s Adolescence: God-Like Technology in the Hands of Children | Wizard Mike | [Read More](https://medium.com/p/f872d3e8a4c0) |
 | Sun, 01 Feb 2026 21:30:18 GMT | Incident Response Services by CyberSecOp: Advanced Cyber Security Incident Response Solutions | Jeffery Walker | [Read More](https://medium.com/p/e9b813dbf9af) |
 | Sun, 01 Feb 2026 21:26:20 GMT | Meet ReVex: The Cyberpunk HTTP Repeater that lives in your DevTools ☠ | medjahdi | [Read More](https://medium.com/p/4f648c8659e7) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Feb 2026 14:55:40 GMT | Stop Watching OpenClaw Install Tutorials — This Is How You Actually Tame It | Shane Collins | [Read More](https://medium.com/p/f3416f5d80bc) |
 | Sun, 01 Feb 2026 14:55:22 GMT | OpenClaw: The AI Assistant You Need to Know About | Atima singh | [Read More](https://medium.com/p/37fda3eaf474) |
 | Sun, 01 Feb 2026 14:52:07 GMT | Ultimate guide to Osquery Injections | Shivam Bathla | [Read More](https://medium.com/p/bf4b9e3fa45e) |
-| Sun, 01 Feb 2026 14:51:44 GMT | Types of Shells -Full In Hacking World | blackXmask | [Read More](https://medium.com/p/6a0993904999) |
-| Sun, 01 Feb 2026 14:49:37 GMT | Stop Logging Passwords! Securing Sensitive Fields in Java Records with Spring Boot | Sandeep Tiwari | [Read More](https://medium.com/p/86dfb9914ff3) |
-| Sun, 01 Feb 2026 14:44:46 GMT | Cybersecurity Architecture Design Principles for Organizations | Chandan Bhattacharya | [Read More](https://medium.com/p/1d4673211762) |
-| Sun, 01 Feb 2026 14:44:28 GMT | Overwrite ChatGPTs System Prompt (to some extent) | jonathanyly | [Read More](https://medium.com/p/d6589ab807bc) |
-| Sun, 01 Feb 2026 14:41:49 GMT | The Demon in the Bottle: Why LLM Jailbreaks Will Always Exist | ℑ | [Read More](https://medium.com/p/90b1c3ba5e16) |
-| Sun, 01 Feb 2026 14:41:46 GMT | The NCSC Just Dropped New OT Security Rules — And 95% of You are probably not ready | Agnidipta Sarkar | [Read More](https://medium.com/p/8a5edcc02358) |
