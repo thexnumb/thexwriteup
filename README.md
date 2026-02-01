@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Feb 2026 06:47:18 GMT | The Operating System Journey — User Mode | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/873dbff6581a) |
+| Sun, 01 Feb 2026 06:45:21 GMT | AI-Powered Penetration Testing Tools in 2026 | Richard Mader | [Read More](https://medium.com/p/1ddb4718a029) |
+| Sun, 01 Feb 2026 06:44:22 GMT | Adaptive Defense: When AL Meets ML Intelligence | Reza Daraei | [Read More](https://medium.com/p/a5820aaaf10f) |
+| Sun, 01 Feb 2026 06:39:15 GMT | How Monitoring Teaches Attackers How to Hide | Fateyaly | [Read More](https://medium.com/p/34fc3c1ddd38) |
+| Sun, 01 Feb 2026 06:31:01 GMT | How the Tor Browser Works: A Simple Explanation | Abhinsubej | [Read More](https://medium.com/p/c0898a651982) |
+| Sun, 01 Feb 2026 06:30:52 GMT | Stop Over-Engineering Malware Analysis: A Lesson from the 3CX Supply Chain Attack. | Mohamed Ibrahem | [Read More](https://medium.com/p/610d7f9bef84) |
+| Sun, 01 Feb 2026 06:28:56 GMT | WaspWatch: Building a Green Agent for Web Agent Security Benchmarking | Geomichl | [Read More](https://medium.com/p/0c315e28d624) |
+| Sun, 01 Feb 2026 06:14:27 GMT | The Polish Power Grid Breach: A Wake-Up Call We Can’t Afford to Ignore | Nikshey Dhiman | [Read More](https://medium.com/p/873c5127d5e3) |
 | Sun, 01 Feb 2026 06:08:28 GMT | Top & Best Tools for OSCP | Kiranghimire | [Read More](https://medium.com/p/5a03c74f8e40) |
 | Sun, 01 Feb 2026 06:01:01 GMT | OWASP API Security Top 10 Mapping with Nessus and Burp Suite Examples | Tandelpruthvi | [Read More](https://medium.com/p/348cb9d086a0) |
 | Sun, 01 Feb 2026 05:59:02 GMT | Why I Stopped Chasing Frameworks and Started Chasing Fundamentals | TechSam | [Read More](https://medium.com/p/9fad036351de) |
@@ -36,11 +44,14 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Feb 2026 03:58:09 GMT | CORS & SOP: Backbone of web security | PriOFF | [Read More](https://medium.com/p/681b6567cbc0) |
 | Sun, 01 Feb 2026 03:47:33 GMT | My OIBSIP Internship Journey with Oasis Infobyte | Project | [Read More](https://medium.com/p/9c2b1a3af74b) |
 | Sun, 01 Feb 2026 03:43:06 GMT | OWASP CRS Testing in AEMaaCS Apache Dispatcher | Kostiantyn Diachenko | [Read More](https://medium.com/p/ab4a04ccf373) |
+| Sun, 01 Feb 2026 03:41:40 GMT | Designing Access Control Models in Large Enterprises: RBAC Role Mining Failures and How to Fix Them | Yashasvi Sharma | [Read More](https://medium.com/p/0cc5fd58d85a) |
 | Sun, 01 Feb 2026 03:05:42 GMT | The Receipt That Outlives You: Privacy as a Daily Choice | James Kuhman | [Read More](https://medium.com/p/50c8440a3a45) |
 | Sun, 01 Feb 2026 02:54:52 GMT | Other people don’t have the power to dim my light | Leigh | [Read More](https://medium.com/p/2b3fd89a2246) |
+| Sun, 01 Feb 2026 02:54:51 GMT | 4 Part newsletter on Cybersecurity in South Africa | NumbWallaby | [Read More](https://medium.com/p/363953033152) |
 | Sun, 01 Feb 2026 02:38:19 GMT | AI Will Not Replace You — But Someone Using AI Might | hapuarachchige hansi hirunika | [Read More](https://medium.com/p/9c57b4c7cdf7) |
 | Sun, 01 Feb 2026 02:33:25 GMT | Cybersecurity common question and answers | s v | [Read More](https://medium.com/p/f49479d06f19) |
 | Sun, 01 Feb 2026 02:25:08 GMT | Te hackearon Mexico, ¿Ahora Que? | Adrian Romanov | [Read More](https://medium.com/p/68945fc3759d) |
+| Sun, 01 Feb 2026 02:21:37 GMT | Linux Kernel Dirty Pipe Exploitation (Logic Bug — CVE-2022–0847) | Antonius Wisdom | [Read More](https://medium.com/p/16e5c179284b) |
 | Sun, 01 Feb 2026 01:38:19 GMT | What Getting Hacked Taught Me | Rachel Glass | [Read More](https://medium.com/p/d3e52a0c3df3) |
 | Sun, 01 Feb 2026 01:33:27 GMT | Agents with agency: Moltbook! | Savneet Singh | [Read More](https://medium.com/p/326cf3b282a4) |
 | Sun, 01 Feb 2026 00:17:51 GMT | How google.share Is Helping Fraudulent Activities | Tech talks | [Read More](https://medium.com/p/d221e199872e) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 Jan 2026 19:35:51 GMT | How a Simple Note Feature Turned Into a Stored XSS (₹7,500 Bounty) | MrRobot | [Read More](https://medium.com/p/1d4582f5120d) |
 | Sat, 31 Jan 2026 19:30:12 GMT | How to Recover a Website After a Virus or Cyberattack | 0trust0day | [Read More](https://medium.com/p/862ddfd0d682) |
 | Sat, 31 Jan 2026 19:23:21 GMT | Better Hackers — or Bad Security? How Basic Failures Exposed Poland’s Energy Infrastructure | Muhammad Umar Inam | [Read More](https://medium.com/p/4c629a7f0e1a) |
-| Sat, 31 Jan 2026 19:14:26 GMT | The Android CTF Vulnerable Apps Playbook: Every App, Every Pattern, Every Tip | lightofmoon | [Read More](https://medium.com/p/c82e4851076b) |
-| Sat, 31 Jan 2026 19:01:02 GMT | Breaking Web Apps at Scale: Ranking in the Top 20% of a Global CTF | Tyreek Haynes | [Read More](https://medium.com/p/211b76a501e1) |
-| Sat, 31 Jan 2026 19:01:01 GMT | CodePartTwo — HackTheBox Walkthrough | Maksim Hayder | [Read More](https://medium.com/p/767d633f86e8) |
-| Sat, 31 Jan 2026 19:00:48 GMT | Advanced Techniques for Secure Authentication Systems with NextAuth.js | @rnab | [Read More](https://medium.com/p/7d4cf87018d1) |
-| Sat, 31 Jan 2026 18:56:01 GMT | When Quantum Computers Meet Smart Homes: A Security Reckoning | Shujaatali Badami | [Read More](https://medium.com/p/ae3e6ae9499f) |
-| Sat, 31 Jan 2026 18:55:33 GMT | Day 6: ConfigMaps & Secrets — Managing Configuration the Kubernetes Way | Kayathiri | [Read More](https://medium.com/p/9ace517565f7) |
-| Sat, 31 Jan 2026 18:53:34 GMT | When ‘Invalid Email or Password’ Isn’t Enough: Lessons From a Timing Attack | Chimdike Anagboso | [Read More](https://medium.com/p/8d8e9d0d273c) |
-| Sat, 31 Jan 2026 18:48:59 GMT | AI writing RTL. Who is the subject matter expert here? | Surabhi Misra | [Read More](https://medium.com/p/b035c4ead050) |
-| Sat, 31 Jan 2026 18:44:22 GMT | AI in Cybersecurity: Why It’s Becoming the New Front Line | Nicky Coleman | [Read More](https://medium.com/p/f29c4c59d854) |
-| Sat, 31 Jan 2026 18:41:56 GMT | What Is DevSecOps? | OPEXOR | [Read More](https://medium.com/p/83fedd6abbd4) |
-| Sat, 31 Jan 2026 18:41:21 GMT | Operation Slither - Tryhackme | Parvathy P Joshy | [Read More](https://medium.com/p/69b48aa84303) |
