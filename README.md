@@ -12,8 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Feb 2026 15:13:04 GMT | What Learning API Security Taught Me About Building Systems for the Real World | Iseoluwa Ogunnaike | [Read More](https://medium.com/p/4f8003226abc) |
+| Sun, 01 Feb 2026 15:12:52 GMT | Scattered Spider: Why This Cybercriminal Group Still Matters | Ankita Sinha | [Read More](https://medium.com/p/6c57322a0d62) |
+| Sun, 01 Feb 2026 15:12:10 GMT | MongoBleed (CVE-2025–14847): When Compression Becomes a Data Exfiltration Vector | Ankita Sinha | [Read More](https://medium.com/p/6fceaa9deecf) |
+| Sun, 01 Feb 2026 15:11:20 GMT | The Bandit Wargame — Level 0 — WSL and SSH | CocoB | [Read More](https://medium.com/p/a01bdad4fd51) |
+| Sun, 01 Feb 2026 15:08:23 GMT | Why Cyber Risk Is No Longer a Technical Risk — It’s a Decision-Making Risk | Sachin Sharma | [Read More](https://medium.com/p/b268005f35f6) |
+| Sun, 01 Feb 2026 15:07:23 GMT | Moltbot Security Breach : Wakeup Call for an evolving Agentic Ecosystem | just_a_noob | [Read More](https://medium.com/p/55016a389374) |
+| Sun, 01 Feb 2026 14:58:14 GMT | Easy Access: Navigating Web Security Challenges — A Cypertalants Walkthrough | Z3DX | [Read More](https://medium.com/p/cc9d6717574c) |
+| Sun, 01 Feb 2026 14:55:40 GMT | Stop Watching OpenClaw Install Tutorials — This Is How You Actually Tame It | Shane Collins | [Read More](https://medium.com/p/f3416f5d80bc) |
+| Sun, 01 Feb 2026 14:55:22 GMT | OpenClaw: The AI Assistant You Need to Know About | Atima singh | [Read More](https://medium.com/p/37fda3eaf474) |
 | Sun, 01 Feb 2026 14:52:07 GMT | Ultimate guide to Osquery Injections | Shivam Bathla | [Read More](https://medium.com/p/bf4b9e3fa45e) |
+| Sun, 01 Feb 2026 14:51:44 GMT | Types of Shells -Full In Hacking World | blackXmask | [Read More](https://medium.com/p/6a0993904999) |
+| Sun, 01 Feb 2026 14:49:37 GMT | Stop Logging Passwords! Securing Sensitive Fields in Java Records with Spring Boot | Sandeep Tiwari | [Read More](https://medium.com/p/86dfb9914ff3) |
 | Sun, 01 Feb 2026 14:44:46 GMT | Cybersecurity Architecture Design Principles for Organizations | Chandan Bhattacharya | [Read More](https://medium.com/p/1d4673211762) |
+| Sun, 01 Feb 2026 14:44:28 GMT | Overwrite ChatGPTs System Prompt (to some extent) | jonathanyly | [Read More](https://medium.com/p/d6589ab807bc) |
 | Sun, 01 Feb 2026 14:41:49 GMT | The Demon in the Bottle: Why LLM Jailbreaks Will Always Exist | ℑ | [Read More](https://medium.com/p/90b1c3ba5e16) |
 | Sun, 01 Feb 2026 14:41:46 GMT | The NCSC Just Dropped New OT Security Rules — And 95% of You are probably not ready | Agnidipta Sarkar | [Read More](https://medium.com/p/8a5edcc02358) |
 | Sun, 01 Feb 2026 14:32:19 GMT | Security, Operating Systems and Keystrokes: An Unorthodox Brainchild | Harshith Shiva | [Read More](https://medium.com/p/82b1334d619e) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Feb 2026 07:52:01 GMT | How Unmanaged Mobile Devices Create Invisible Attack Paths Inside Enterprise Networks | SAJS | [Read More](https://medium.com/p/a797b107f3da) |
 | Sun, 01 Feb 2026 07:46:49 GMT | The Insider Is Authorized: Why We Built BlockIntel Shield | Heartlin Machado | [Read More](https://medium.com/p/36155e05fd1e) |
 | Sun, 01 Feb 2026 07:38:04 GMT | The Last Reversible Moment: Why We Built BlockIntel Gate | Heartlin Machado | [Read More](https://medium.com/p/c75d23831882) |
-| Sun, 01 Feb 2026 07:37:47 GMT | The Alphabet Soup Scam: Why You Must Avoid “Wbgzx” | QingShieldCenter | [Read More](https://medium.com/p/aed748f48f73) |
-| Sun, 01 Feb 2026 07:36:38 GMT | A Real-World Recon Workflow — One Command, Clean Results | ghostyjoe | [Read More](https://medium.com/p/0043c6d9b552) |
-| Sun, 01 Feb 2026 07:35:03 GMT | XSS in Shiptimize for WooCommerce | Abhirup Konwar | [Read More](https://medium.com/p/3cd0cbedd8ae) |
-| Sun, 01 Feb 2026 07:31:31 GMT | 13 Techniques to Stay Undetected in Corporate Networks: Master Stealthy Pentesting Like a Pro | Very Lazy Tech | [Read More](https://medium.com/p/4a70120a9062) |
-| Sun, 01 Feb 2026 07:31:01 GMT | The Agent Sandbox Pattern | Duckweave | [Read More](https://medium.com/p/deabc73181d9) |
-| Sun, 01 Feb 2026 07:25:17 GMT | Vibe Coders AI Can Build Your SaaS But It Can’t Take Responsibility for Security | Ashwin Kumar | [Read More](https://medium.com/p/220f1348a458) |
-| Sun, 01 Feb 2026 07:23:31 GMT | Clobbering DOM Attributes to Bypass HTML Filters and Trigger DOM-Based XSS | Bash Overflow | [Read More](https://medium.com/p/cc2afb437bde) |
-| Sun, 01 Feb 2026 07:17:36 GMT | Stop Measuring Latency with Wall-Clock Time | Vimukthi Mayadunne | [Read More](https://medium.com/p/f627e19eeee9) |
-| Sun, 01 Feb 2026 06:47:18 GMT | The Operating System Journey — User Mode | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/873dbff6581a) |
-| Sun, 01 Feb 2026 06:45:21 GMT | AI-Powered Penetration Testing Tools in 2026 | Richard Mader | [Read More](https://medium.com/p/1ddb4718a029) |
-| Sun, 01 Feb 2026 06:44:22 GMT | Adaptive Defense: When AL Meets ML Intelligence | Reza Daraei | [Read More](https://medium.com/p/a5820aaaf10f) |
-| Sun, 01 Feb 2026 06:39:15 GMT | How Monitoring Teaches Attackers How to Hide | Fateyaly | [Read More](https://medium.com/p/34fc3c1ddd38) |
