@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Feb 2026 07:46:49 GMT | The Insider Is Authorized: Why We Built BlockIntel Shield | Heartlin Machado | [Read More](https://medium.com/p/36155e05fd1e) |
+| Sun, 01 Feb 2026 07:38:04 GMT | The Last Reversible Moment: Why We Built BlockIntel Gate | Heartlin Machado | [Read More](https://medium.com/p/c75d23831882) |
+| Sun, 01 Feb 2026 07:37:47 GMT | The Alphabet Soup Scam: Why You Must Avoid “Wbgzx” | QingShieldCenter | [Read More](https://medium.com/p/aed748f48f73) |
+| Sun, 01 Feb 2026 07:36:38 GMT | A Real-World Recon Workflow — One Command, Clean Results | ghostyjoe | [Read More](https://medium.com/p/0043c6d9b552) |
+| Sun, 01 Feb 2026 07:35:03 GMT | XSS in Shiptimize for WooCommerce | Abhirup Konwar | [Read More](https://medium.com/p/3cd0cbedd8ae) |
+| Sun, 01 Feb 2026 07:31:31 GMT | 13 Techniques to Stay Undetected in Corporate Networks: Master Stealthy Pentesting Like a Pro | Very Lazy Tech | [Read More](https://medium.com/p/4a70120a9062) |
+| Sun, 01 Feb 2026 07:31:01 GMT | The Agent Sandbox Pattern | Duckweave | [Read More](https://medium.com/p/deabc73181d9) |
+| Sun, 01 Feb 2026 07:25:17 GMT | Vibe Coders AI Can Build Your SaaS But It Can’t Take Responsibility for Security | Ashwin Kumar | [Read More](https://medium.com/p/220f1348a458) |
+| Sun, 01 Feb 2026 07:23:31 GMT | Clobbering DOM Attributes to Bypass HTML Filters and Trigger DOM-Based XSS | Bash Overflow | [Read More](https://medium.com/p/cc2afb437bde) |
+| Sun, 01 Feb 2026 07:17:36 GMT | Stop Measuring Latency with Wall-Clock Time | Vimukthi Mayadunne | [Read More](https://medium.com/p/f627e19eeee9) |
 | Sun, 01 Feb 2026 06:47:18 GMT | The Operating System Journey — User Mode | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/873dbff6581a) |
 | Sun, 01 Feb 2026 06:45:21 GMT | AI-Powered Penetration Testing Tools in 2026 | Richard Mader | [Read More](https://medium.com/p/1ddb4718a029) |
 | Sun, 01 Feb 2026 06:44:22 GMT | Adaptive Defense: When AL Meets ML Intelligence | Reza Daraei | [Read More](https://medium.com/p/a5820aaaf10f) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 Jan 2026 20:22:22 GMT | ️ How to Secure Angular + Java APIs from CSRF — Without Cookies | Sahana | [Read More](https://medium.com/p/4a1820bfed1b) |
 | Sat, 31 Jan 2026 20:08:19 GMT | Amazon Bedrock — Guardrails vs Performance | Elad hirsch | [Read More](https://medium.com/p/59688a0ca932) |
 | Sat, 31 Jan 2026 20:06:01 GMT | Preventing Data ‘Oops!’ Moments: How AI can Keeps Breaches at Bay | Yogita Surve | [Read More](https://medium.com/p/887da7b4ba27) |
-| Sat, 31 Jan 2026 20:03:06 GMT | The Dual Edge of AI in Cybersecurity: Beyond Automation | Gokhan Can | [Read More](https://medium.com/p/714e1f906835) |
-| Sat, 31 Jan 2026 19:55:41 GMT | The Live Engagement — Shells & Payloads | Mkirahmet | [Read More](https://medium.com/p/3b4e5b13615f) |
-| Sat, 31 Jan 2026 19:46:27 GMT | Secure Use of GitHub — CIS-Aligned Technical Guide — Part IV | SOCFortress | [Read More](https://medium.com/p/8e28a1f1ba1e) |
-| Sat, 31 Jan 2026 19:42:40 GMT | Capstone Project 1: Beanstalk Secrets — AWS Pentesting Walkthrough | rajasekharyarava | [Read More](https://medium.com/p/ed32ba5ae943) |
-| Sat, 31 Jan 2026 19:36:34 GMT | Lock In? Where? | Tolulope Olatunji | [Read More](https://medium.com/p/777b4bc26674) |
-| Sat, 31 Jan 2026 19:36:07 GMT | [AD攻防]DCSync攻擊 | 陳禹璿 | [Read More](https://medium.com/p/f0541c92e7cf) |
-| Sat, 31 Jan 2026 19:35:53 GMT | Building Cybersecurity Trust with Lead Marketing Strategies | Lead Marketing Strategies | [Read More](https://medium.com/p/7d546a92d14c) |
-| Sat, 31 Jan 2026 19:35:51 GMT | How a Simple Note Feature Turned Into a Stored XSS (₹7,500 Bounty) | MrRobot | [Read More](https://medium.com/p/1d4582f5120d) |
-| Sat, 31 Jan 2026 19:30:12 GMT | How to Recover a Website After a Virus or Cyberattack | 0trust0day | [Read More](https://medium.com/p/862ddfd0d682) |
-| Sat, 31 Jan 2026 19:23:21 GMT | Better Hackers — or Bad Security? How Basic Failures Exposed Poland’s Energy Infrastructure | Muhammad Umar Inam | [Read More](https://medium.com/p/4c629a7f0e1a) |
