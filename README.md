@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Feb 2026 14:23:56 GMT | Code to Pod Security — the Cloud Native way | Pronomita Dey | [Read More](https://medium.com/p/f5654a158998) |
+| Sun, 01 Feb 2026 14:23:33 GMT | Vulnerability Management Pipeline Moving from Reactive Security to Proactive Defense | Esra Kayhan | [Read More](https://medium.com/p/6c1ac341d81b) |
+| Sun, 01 Feb 2026 14:20:05 GMT | The First AI War Just Started, Here’s Why It Matters to Your Business and Security. | Mohamed Bakry | [Read More](https://medium.com/p/d16d95eb8d8e) |
+| Sun, 01 Feb 2026 14:17:06 GMT | How I Automated SOC Incident Response: From 60 Minutes to 2 Minutes | Misbah waraich | [Read More](https://medium.com/p/644f5c13ec4a) |
+| Sun, 01 Feb 2026 14:09:58 GMT | Lock Down macOS Privacy Without Breaking Performance | Geoffrey Wenger | [Read More](https://medium.com/p/83bc99abce25) |
+| Sun, 01 Feb 2026 14:05:53 GMT | Lithuania’s DDoS wave in June 2022: what happened and why it mattered | mahammad | [Read More](https://medium.com/p/e4201f77ec33) |
+| Sun, 01 Feb 2026 14:04:39 GMT | Pwned Labs Google Cloud Attack & Defense Bootcamp Professional Edition (GCRTP) Review | Maverick | [Read More](https://medium.com/p/b52268a13fca) |
+| Sun, 01 Feb 2026 13:59:28 GMT | Building a Real Python Security Project with Bandit (macOS Terminal Walkthrough) | Priyanshu Manash | [Read More](https://medium.com/p/42c591fc24d0) |
+| Sun, 01 Feb 2026 13:56:03 GMT | ⚠️ Why @Async Causes Hidden Bugs in Spring Boot (And How to Avoid Them) | CodeTalks | [Read More](https://medium.com/p/49b9bdbcd84d) |
+| Sun, 01 Feb 2026 13:55:14 GMT | The End of the Golden Bridge: How Europe is Being Trapped into an Unwinnable War | Adnan Bajramović | [Read More](https://medium.com/p/b5255aec31cc) |
+| Sun, 01 Feb 2026 13:54:17 GMT | Cybersecurity Beginner Roadmap (From Zero to Job-Ready) | Mohamed dahir | [Read More](https://medium.com/p/40cbb71612dc) |
+| Sun, 01 Feb 2026 13:53:50 GMT | The beginning of my OTW journey | CocoB | [Read More](https://medium.com/p/2c24ac5c9581) |
+| Sun, 01 Feb 2026 13:49:18 GMT | KEV-First Patch Triage: A 48-Hour Decision Framework | Oscar Antonangelo | [Read More](https://medium.com/p/842d79ab343c) |
 | Sun, 01 Feb 2026 13:39:00 GMT | THM-VulnNet: Roasted Walkthrough | Abhay Ingale | [Read More](https://medium.com/p/a59898814e73) |
 | Sun, 01 Feb 2026 13:35:57 GMT | Inside Moltbook: Where 1.3 Million AI Agents Built Their Own Social Network | Owadokun Tosin Tobi | [Read More](https://medium.com/p/f1feeaeb165b) |
 | Sun, 01 Feb 2026 13:21:01 GMT | AresGPT & Aristotle’s Pen: AI for Justice, Virtue, and Security | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/f4f427a16bf2) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Feb 2026 06:08:28 GMT | Top & Best Tools for OSCP | Kiranghimire | [Read More](https://medium.com/p/5a03c74f8e40) |
 | Sun, 01 Feb 2026 06:01:01 GMT | OWASP API Security Top 10 Mapping with Nessus and Burp Suite Examples | Tandelpruthvi | [Read More](https://medium.com/p/348cb9d086a0) |
 | Sun, 01 Feb 2026 05:59:02 GMT | Why I Stopped Chasing Frameworks and Started Chasing Fundamentals | TechSam | [Read More](https://medium.com/p/9fad036351de) |
-| Sun, 01 Feb 2026 05:49:10 GMT | Prompt Engineering ChatGPT for Cybersecurity: From Toy Queries to Real SOC Value | Paritosh | [Read More](https://medium.com/p/a89ded2e2875) |
-| Sun, 01 Feb 2026 05:49:02 GMT | Cyber Sherlock Weekly Update: 31 January 2026 | Sujon Al Mamun | [Read More](https://medium.com/p/b27e8bc7abf1) |
-| Sun, 01 Feb 2026 05:42:23 GMT | Iran Revealed: How the Regime and Hezbollah Left Their Digital Infrastructure Exposed | Ringmast4r | [Read More](https://medium.com/p/560ea2ab03f4) |
-| Sun, 01 Feb 2026 05:19:38 GMT | Agentic Convenience Is Winning. Security Has to Adapt. | C D | [Read More](https://medium.com/p/635f191b5a85) |
-| Sun, 01 Feb 2026 05:12:40 GMT | Chaining IDOR and Authorization Issues to Achieve Privilege Escalation — A Case Study | Ayush Gupta | [Read More](https://medium.com/p/8dbb33e92946) |
-| Sun, 01 Feb 2026 05:09:24 GMT | Getting Started with SDR for Ethical Hacking | Sushant M Mane | [Read More](https://medium.com/p/202c2e400c66) |
-| Sun, 01 Feb 2026 05:07:19 GMT | Title: My Internship Journey at Oasis Infobyte | Deepanshu Semwal | [Read More](https://medium.com/p/010314bb7158) |
-| Sun, 01 Feb 2026 04:43:29 GMT | Why API Security is the Backbone of Nigerian Fintech: Lessons from Building a Secure Banking… | Divine Ogbonna | [Read More](https://medium.com/p/3cc5ed26c498) |
-| Sun, 01 Feb 2026 04:38:04 GMT | Cuba Revealed: How the Communist Regime Left Government Infrastructure Exposed | Ringmast4r | [Read More](https://medium.com/p/10e92fd4b08f) |
-| Sun, 01 Feb 2026 04:31:04 GMT | MCP Security Reality Check | Vectorlane | [Read More](https://medium.com/p/2591ca4beef4) |
-| Sun, 01 Feb 2026 04:30:25 GMT | HTTP vs HTTPS: The Small Difference That Matters | Mutcherla Jayani | [Read More](https://medium.com/p/cc160336b505) |
-| Sun, 01 Feb 2026 04:15:32 GMT | Former Google Engineer Convicted in First U.S. AI Economic Espionage Case | Fabio Tongson | [Read More](https://medium.com/p/5458038a8884) |
-| Sun, 01 Feb 2026 04:11:22 GMT | Physiology-Based Deepfake Detection: Powerful, Promising, and Risky | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/a7047b584408) |
