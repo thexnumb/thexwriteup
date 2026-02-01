@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Feb 2026 18:36:22 GMT | IDOR Vulnerability in Campaign Workflows – Accessing Archived Campaigns of Any User 150$ | Hasan Khan | [Read More](https://medium.com/p/f24b46c0cf59) |
+| Sun, 01 Feb 2026 18:36:13 GMT | GraphQL Introspection to Admin Takeover: Exploiting Unauthenticated APIs | BaymapPop23 | [Read More](https://medium.com/p/2f4c14c3170b) |
+| Sun, 01 Feb 2026 18:35:14 GMT | 2FA Bypass via Session Fixation — High Vulnerability in Vero 300$ | Hasan Khan | [Read More](https://medium.com/p/f9e56b39c9ca) |
+| Sun, 01 Feb 2026 18:31:01 GMT | Why Psychology of Intelligence Analysis Is Essential Reading for Cybersecurity Professionals | Stefan Bargan | [Read More](https://medium.com/p/3c2bb94e763d) |
+| Sun, 01 Feb 2026 18:21:40 GMT | How a single misconfigured endpoint exposed users and allowed the creation of administrator… | BaymapPop23 | [Read More](https://medium.com/p/389e5a4977ec) |
+| Sun, 01 Feb 2026 18:20:36 GMT | Blue Jew Men - Understanding Men’s Emotional Vulnerabilities | Bruce Edgar Jr Slaton PiTe ;) | [Read More](https://medium.com/p/fac6a573534a) |
+| Sun, 01 Feb 2026 18:17:40 GMT | While You Were Watching AI Agents Debate Religion on Moltbook, They Might Have Stolen  Credentials | Phil Stafford | [Read More](https://medium.com/p/c6a25ab51b73) |
+| Sun, 01 Feb 2026 18:14:23 GMT | Why 800,000 Devices Are Suddenly at Risk: The Telnet Vulnerability Explained | Yash Gohel | [Read More](https://medium.com/p/ab460373c55a) |
+| Sun, 01 Feb 2026 18:11:08 GMT | PrivExec — Privilege Escalation Write‑Up | Amr khaled | [Read More](https://medium.com/p/cba868c1a34c) |
+| Sun, 01 Feb 2026 18:10:42 GMT | ELK Stack’te Uzmanlaşın: KQL, Lucene ve Regex ile Gelişmiş Sorgu Teknikleri (TryHackMe — Advanced… | Ahmet Hakan Öztürk | [Read More](https://medium.com/p/e3a3dc1bd651) |
+| Sun, 01 Feb 2026 18:07:12 GMT | Windows Event Log Analysis(BTL1) | RH | [Read More](https://medium.com/p/8c933049c813) |
+| Sun, 01 Feb 2026 18:05:10 GMT | [CyberSec] Designing an LLM Agent for MITRE ATT&CK–Driven Detection Engineering | Pietro Romano / SecBeret | [Read More](https://medium.com/p/0eaaa20445b0) |
+| Sun, 01 Feb 2026 17:50:15 GMT | Day 8: SOC Skill Matrix | Siddhesh Patil | [Read More](https://medium.com/p/394a0ee8f884) |
 | Sun, 01 Feb 2026 17:46:57 GMT | The Surveillance Shift and STEAL. THE NEW WARFIELD,That No One Voted For. | The record shows | [Read More](https://medium.com/p/707b90b702b5) |
 | Sun, 01 Feb 2026 17:40:40 GMT | Phishing Email Analysis Report (BTL1) | RH | [Read More](https://medium.com/p/799fb406de3c) |
 | Sun, 01 Feb 2026 17:37:39 GMT | 2025 Crypto Hacks & Exploits Analysis: The Attack Surface is Moving Up the Stack | CipherBC | [Read More](https://medium.com/p/11a2cb41c917) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Feb 2026 11:46:39 GMT | Shell GPT Utilization for Cybersecurity | mohandika | [Read More](https://medium.com/p/32c9a5b07799) |
 | Sun, 01 Feb 2026 11:45:32 GMT | How to Get a Cybersecurity Internship without Experience | Muhammad Haider Tallal | [Read More](https://medium.com/p/60c13a1e75ec) |
 | Sun, 01 Feb 2026 11:41:54 GMT | Quantum Algorithms Explained for Everyone: A Simple and Practical Guide | Tech Security | [Read More](https://medium.com/p/ff840f5195e8) |
-| Sun, 01 Feb 2026 11:41:15 GMT | Beyond the Destination: The Evolution of Executive Mobility in Europe | Petr Šálek - Prague Apex | [Read More](https://medium.com/p/cfb9eee813e2) |
-| Sun, 01 Feb 2026 11:40:58 GMT | Tools you need for Bug Bounty v1.0 (Recon Starter Pack) | Swetha | [Read More](https://medium.com/p/972425c8c586) |
-| Sun, 01 Feb 2026 11:40:35 GMT | Why You Can’t Withdraw From QKX Exchange: A Red-Flag Checklist for Users | Cassian Vale | [Read More](https://medium.com/p/fb96866def5a) |
-| Sun, 01 Feb 2026 11:40:31 GMT | Tools for Bug Bounty v2.0 — Port Scanning Essentials | Swetha | [Read More](https://medium.com/p/96ac9692b7e4) |
-| Sun, 01 Feb 2026 11:36:01 GMT | The 2026 Cybersecurity Roadmap: From Beginner to Ethical Hacker | venkatesh ram | [Read More](https://medium.com/p/9903edbda11e) |
-| Sun, 01 Feb 2026 11:33:59 GMT | Cybersecurity LLMs: New Locally Deployable Models For Agentic AI | evoailabs | [Read More](https://medium.com/p/54908c3f621b) |
-| Sun, 01 Feb 2026 11:31:12 GMT | TryHackMe Writeup: Lunizz CTF | Berkay AĞGÜL | [Read More](https://medium.com/p/7b5a6fad0120) |
-| Sun, 01 Feb 2026 11:29:19 GMT | DIRX Algorithm: Autonomous Directory Enumeration via Reverse Regular Expression Analysis in… | Kabil Preetham K | [Read More](https://medium.com/p/2fdba8a90ccf) |
-| Sun, 01 Feb 2026 11:25:59 GMT | IDOR Lets Attackers Choose Your Payment Method | Parth Narula | [Read More](https://medium.com/p/abe87784e726) |
-| Sun, 01 Feb 2026 11:22:28 GMT | I got hacked on Instagram… And AI helped me | Franklin Ngemoh | [Read More](https://medium.com/p/35c2ead064b2) |
-| Sun, 01 Feb 2026 11:12:35 GMT | PicThief:This is a tool built on Flask API, OCR (optical character recognition), and YOLO-based… | Мартин. | [Read More](https://medium.com/p/1463726ea93e) |
-| Sun, 01 Feb 2026 11:11:22 GMT | Mobile Device Security Guide for Journalists, Medics, Legal and Democratic Observers and Protestors | Jeffrey R Wells | [Read More](https://medium.com/p/c60568d11ad0) |
-| Sun, 01 Feb 2026 11:06:10 GMT | Poland Confirms Attack on Wind Farms and Solar Plants | Patrik Žák | [Read More](https://medium.com/p/89cc04650651) |
