@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Feb 2026 19:40:43 GMT | TheHackersLabs — Ipeuveseis [Write-Up] | APS88 | [Read More](https://medium.com/p/05dce3a3cca2) |
+| Sun, 01 Feb 2026 19:38:19 GMT | Farewell — Premium Room TryHackMe Write-Up - Auth Bypass, XSS & Admin Access | Contact Aryan Here | [Read More](https://medium.com/p/47c487e2552c) |
+| Sun, 01 Feb 2026 19:30:46 GMT | How Can Alertable Threads and APC Abuse Lead to System Crash | Abhijit Laxman Shirwal | [Read More](https://medium.com/p/1b611216a56a) |
+| Sun, 01 Feb 2026 19:28:47 GMT | Secure Use of GitHub — CIS-Aligned Technical Guide — Part V | SOCFortress | [Read More](https://medium.com/p/d231e5e77742) |
 | Sun, 01 Feb 2026 19:11:01 GMT | “Your Relative Met with a Road Accident. Please Check WhatsApp Image”. | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/92b96cb2ae83) |
 | Sun, 01 Feb 2026 19:06:41 GMT | Free Wi-Fi Dangers: Cybersecurity Precautions and Safety Tips | Nazrul Islam Rana | [Read More](https://medium.com/p/8bfd8bca71bd) |
 | Sun, 01 Feb 2026 19:01:02 GMT | A Letter That Found You | Your Favorite Ghost | [Read More](https://medium.com/p/2f68c7623270) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Feb 2026 13:21:01 GMT | AresGPT & Aristotle’s Pen: AI for Justice, Virtue, and Security | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/f4f427a16bf2) |
 | Sun, 01 Feb 2026 13:05:17 GMT | Exploit3rs CTF — The Debug Dilemma Writeup | 0xlight | [Read More](https://medium.com/p/db16816e4306) |
 | Sun, 01 Feb 2026 12:56:17 GMT | Your OS Can’t See This Trojan, I Reverse-Engineered It: Paramecium2 | Harsh Raj Singhania | [Read More](https://medium.com/p/57635360c128) |
-| Sun, 01 Feb 2026 12:32:03 GMT | Inside TAMECAT: A Closer Look at APT42’s Stealthy PowerShell Backdoor | Mohamed Ehab Osman | [Read More](https://medium.com/p/3fcd6640a0dc) |
-| Sun, 01 Feb 2026 12:25:12 GMT | I didn’t fix the system but I guided the people | Mir Shahzad | [Read More](https://medium.com/p/67b4d0aea8b8) |
-| Sun, 01 Feb 2026 12:16:08 GMT | Nobody Warns You How Fast Security Debt Accumulates | Mwenda Kelvin | [Read More](https://medium.com/p/10ab8141dc00) |
-| Sun, 01 Feb 2026 12:12:17 GMT | SpookyPass: HaackTheBox Challenge | Bridget | [Read More](https://medium.com/p/844462af62b1) |
