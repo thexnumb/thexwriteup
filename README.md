@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Feb 2026 16:23:23 GMT | Building a HIPAA-Compliant Healthcare Platform on AWS: From Zero to Production | Jordan Bray | [Read More](https://medium.com/p/ab8c672cf739) |
+| Sun, 01 Feb 2026 16:23:06 GMT | Agentic AI: Mobil Bankacılıkta Yeni Bir Aktör mü, Yeni Bir Risk mi? | Esin Ünlü Dağ | [Read More](https://medium.com/p/7c9b2909c735) |
+| Sun, 01 Feb 2026 16:18:13 GMT | How to Enable Clipboard Sharing Between macOS (ARM) and Kali Linux in UTM | kryo | [Read More](https://medium.com/p/11ce2f66f3c1) |
+| Sun, 01 Feb 2026 16:13:20 GMT | Understanding PTK and GTK in Wi‑Fi Security | Honing the mind | [Read More](https://medium.com/p/039ce67b5a2a) |
+| Sun, 01 Feb 2026 16:07:25 GMT | Identity and Data Security Are Colliding — And Security Teams Are Not Ready | Aura Tech Insights | [Read More](https://medium.com/p/d06dbe11dabf) |
+| Sun, 01 Feb 2026 16:06:01 GMT | 20 Web Security Interview Questions Every Developer Should Know | Software Engineer Notes | [Read More](https://medium.com/p/8238733f131e) |
+| Sun, 01 Feb 2026 16:02:25 GMT | Installing pfSense — From Bare Metal to Your First Firewall ~8–10 min read | D3ad_M3m0r13s | [Read More](https://medium.com/p/6e944052afc7) |
+| Sun, 01 Feb 2026 16:01:58 GMT | Implementing 2FA on an Ubuntu VM | Sriranjan Kapilan | [Read More](https://medium.com/p/a9d94cfc13ef) |
+| Sun, 01 Feb 2026 16:01:04 GMT | Why One Security Tool Is Never Enough | Ethics In Beta | [Read More](https://medium.com/p/41e97675072c) |
+| Sun, 01 Feb 2026 15:53:01 GMT | How I Found The Admin-Creation Backdoor In LA-Studio Element Kit for Elementor 1.5.6.3 | Athiwat Tiprasaharn | [Read More](https://medium.com/p/89a33efb3c3e) |
 | Sun, 01 Feb 2026 15:41:58 GMT | A Practical Introduction to OpenTIDE: Open Threat-Informed Detection Engineering | Adan | [Read More](https://medium.com/p/e218e4970c95) |
 | Sun, 01 Feb 2026 15:27:42 GMT | Network Scanning and Vulnerability Assessment Using Nmap | Shobinmendez | [Read More](https://medium.com/p/df9c01c42cac) |
 | Sun, 01 Feb 2026 15:26:36 GMT | 30 Days of Red Team: Day 20 — Exploiting Trust Relationships | Maxwell Cross | [Read More](https://medium.com/p/70d884664e3a) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Feb 2026 09:33:07 GMT | How to Get Into Cybersecurity: A Simple 6–12 Month Roadmap for Beginners | Muhammad Haider Tallal | [Read More](https://medium.com/p/b16460e25be3) |
 | Sun, 01 Feb 2026 09:31:01 GMT | The £10,000 Mistake UK Businesses Keep Making (And How a Calendar Reminder Could Have Prevented It) | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/c9d8953a2534) |
 | Sun, 01 Feb 2026 09:03:03 GMT | The Hidden Side of the Internet No One Talks About | Vignesh Selvaraj | [Read More](https://medium.com/p/a3ecda227c35) |
-| Sun, 01 Feb 2026 09:01:12 GMT | Why Credential Stuffing Still Works in 2026 (And How to Stop It) | Alexandre Vandamme | [Read More](https://medium.com/p/e7ef3abf843e) |
-| Sun, 01 Feb 2026 08:54:23 GMT | DorkEye – Ethical Dorking in Python (and Why It Matters) | xPloits3c | [Read More](https://medium.com/p/098ac17d88e8) |
-| Sun, 01 Feb 2026 08:51:46 GMT | Operation Slither - Tryhackme | Aaron | [Read More](https://medium.com/p/0d3fb772cf04) |
-| Sun, 01 Feb 2026 08:51:28 GMT | ความปลอดภัยทางเทคโนโลยีไม่ใช่ปัญหาเฉพาะพนักงานสาย Tech | Chanachon | [Read More](https://medium.com/p/3749dcf3045a) |
-| Sun, 01 Feb 2026 08:33:01 GMT | 4 Bytes to Kernel Crash: Breaking Down the SMBGhost Compression Bug | Harshit Bhardwaj | [Read More](https://medium.com/p/56c856468402) |
-| Sun, 01 Feb 2026 08:28:26 GMT | Warzone 1 : TryHackMe Walkthrough | Saransh Singh | [Read More](https://medium.com/p/136016c75c1c) |
-| Sun, 01 Feb 2026 08:26:49 GMT | Insufficient Session Expiration: A Permanent Backdoor into MFA Accounts Bypassing the Entire Login… | Bavly Zaher | [Read More](https://medium.com/p/1097257c817d) |
-| Sun, 01 Feb 2026 08:25:33 GMT | Frontend Tools That Actually Reduce Bugs (Not Just Look Cool) | Neha Singh | [Read More](https://medium.com/p/9c213847e23d) |
-| Sun, 01 Feb 2026 08:08:46 GMT | Why I Encrypt Every Photo Before Uploading to the Cloud (And You Should Too) | Simon Reed | [Read More](https://medium.com/p/65f2d1c08b92) |
-| Sun, 01 Feb 2026 08:07:50 GMT | From Unauthenticated Access to Full Root Compromise: A Linux Penetration Testing Case Study | sayeedTestOps | [Read More](https://medium.com/p/3701e494eb2d) |
