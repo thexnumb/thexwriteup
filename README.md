@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Feb 2026 17:12:56 GMT | Swimming with Sharks | Ps Patrickstarks | [Read More](https://medium.com/p/5950f3180f60) |
+| Sun, 01 Feb 2026 17:10:03 GMT | Which AI providers won’t train on your data? | JP Caparas | [Read More](https://medium.com/p/e38280ff9887) |
+| Sun, 01 Feb 2026 17:07:49 GMT | The Architecture of Anonymity: Investigating Privacy Coins in Criminal Activities | Satyam | [Read More](https://medium.com/p/f64757401397) |
+| Sun, 01 Feb 2026 17:06:39 GMT | pfSense Captive Portal Explained — Secure Guest Access Step by Step ~8–10 min read | D3ad_M3m0r13s | [Read More](https://medium.com/p/ad3e4a6bb39b) |
+| Sun, 01 Feb 2026 17:03:39 GMT | Demystify the C Language for OffSec: Day 1 | Bazil Brohi | [Read More](https://medium.com/p/08514ce2ae01) |
+| Sun, 01 Feb 2026 17:02:29 GMT | The Trust Problem in Web3 | Web3TrustX | [Read More](https://medium.com/p/6891c0257719) |
+| Sun, 01 Feb 2026 16:56:57 GMT | Overnight Security Guards in Dallas | US guard security company | [Read More](https://medium.com/p/68b320f892cb) |
+| Sun, 01 Feb 2026 16:53:51 GMT | Why SSH No Longer Fits Zero-Trust EC2 Access in AWS | Surya Naga Sesank Munukutla | [Read More](https://medium.com/p/4ee9c4b66fe8) |
+| Sun, 01 Feb 2026 16:51:53 GMT | Why Security Controls Fail in Practice | Mahad Aqeel | [Read More](https://medium.com/p/39cdc7c322f9) |
+| Sun, 01 Feb 2026 16:48:58 GMT | BLACKHAT MEA 2024 | Netsec | [Read More](https://medium.com/p/e1a1f11eda01) |
+| Sun, 01 Feb 2026 16:45:59 GMT | Building OAuth 2.0 Authorization Code Flow in Go (RFC 6749) | Md. Mehedi Hasan | [Read More](https://medium.com/p/12a1f92c1034) |
+| Sun, 01 Feb 2026 16:42:35 GMT | Ethical Hacking: The Attacks You Don’t See That Keep You Safe | Adejare Marvel | [Read More](https://medium.com/p/135fdd016cda) |
+| Sun, 01 Feb 2026 16:41:37 GMT | The Privacy Divide Is Built Into the Products You Use (and You Probably Didn’t Notice) | BiyteLüm | [Read More](https://medium.com/p/446e061b0311) |
 | Sun, 01 Feb 2026 16:23:23 GMT | Building a HIPAA-Compliant Healthcare Platform on AWS: From Zero to Production | Jordan Bray | [Read More](https://medium.com/p/ab8c672cf739) |
 | Sun, 01 Feb 2026 16:23:06 GMT | Agentic AI: Mobil Bankacılıkta Yeni Bir Aktör mü, Yeni Bir Risk mi? | Esin Ünlü Dağ | [Read More](https://medium.com/p/7c9b2909c735) |
 | Sun, 01 Feb 2026 16:18:13 GMT | How to Enable Clipboard Sharing Between macOS (ARM) and Kali Linux in UTM | kryo | [Read More](https://medium.com/p/11ce2f66f3c1) |
@@ -34,6 +47,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Feb 2026 15:08:23 GMT | Why Cyber Risk Is No Longer a Technical Risk — It’s a Decision-Making Risk | Sachin Sharma | [Read More](https://medium.com/p/b268005f35f6) |
 | Sun, 01 Feb 2026 15:07:23 GMT | Moltbot Security Breach : Wakeup Call for an evolving Agentic Ecosystem | just_a_noob | [Read More](https://medium.com/p/55016a389374) |
 | Sun, 01 Feb 2026 14:58:14 GMT | Easy Access: Navigating Web Security Challenges — A Cypertalants Walkthrough | Z3DX | [Read More](https://medium.com/p/cc9d6717574c) |
+| Sun, 01 Feb 2026 14:56:27 GMT | Lab: Exploiting clickjacking vulnerability to trigger DOM-based XSS - Portswigger | L4V4NY4  AGR3 | [Read More](https://medium.com/p/6f00a036a296) |
 | Sun, 01 Feb 2026 14:55:40 GMT | Stop Watching OpenClaw Install Tutorials — This Is How You Actually Tame It | Shane Collins | [Read More](https://medium.com/p/f3416f5d80bc) |
 | Sun, 01 Feb 2026 14:55:22 GMT | OpenClaw: The AI Assistant You Need to Know About | Atima singh | [Read More](https://medium.com/p/37fda3eaf474) |
 | Sun, 01 Feb 2026 14:52:07 GMT | Ultimate guide to Osquery Injections | Shivam Bathla | [Read More](https://medium.com/p/bf4b9e3fa45e) |
@@ -92,23 +106,9 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Feb 2026 11:11:22 GMT | Mobile Device Security Guide for Journalists, Medics, Legal and Democratic Observers and Protestors | Jeffrey R Wells | [Read More](https://medium.com/p/c60568d11ad0) |
 | Sun, 01 Feb 2026 11:06:10 GMT | Poland Confirms Attack on Wind Farms and Solar Plants | Patrik Žák | [Read More](https://medium.com/p/89cc04650651) |
 | Sun, 01 Feb 2026 10:59:54 GMT | Bombs are lifelines, no guardians of national interests—this is a point that must be remembered. | Evan Sanorax | [Read More](https://medium.com/p/147a44819577) |
+| Sun, 01 Feb 2026 10:59:02 GMT | TryHackMe Challenge — Lo-Fi — LFI(Local File Inclusion) | Steven Estill Jr | [Read More](https://medium.com/p/48a65dbdafdf) |
 | Sun, 01 Feb 2026 10:56:36 GMT | From Frustration to Creation | Vaultio | [Read More](https://medium.com/p/cb64323c9c1c) |
 | Sun, 01 Feb 2026 10:49:02 GMT | Picking a Kubernetes Policy Engine Without Losing Your Mind | Sylvain Gibier | [Read More](https://medium.com/p/532853fd5e4e) |
 | Sun, 01 Feb 2026 10:43:33 GMT | Is Artificial Intelligence a Good Career in 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/6d6fdbf884e5) |
 | Sun, 01 Feb 2026 10:41:40 GMT | Ransomware Çağında Veri Nasıl Korunur? | Taha Altın | [Read More](https://medium.com/p/e49201994f14) |
 | Sun, 01 Feb 2026 10:39:23 GMT | AI Agent Security Alert: How Prompt Guard’s Five-Layer Defense Engine Stops Injection Attacks | Ewan Mak | [Read More](https://medium.com/p/5cc7b2c180d0) |
-| Sun, 01 Feb 2026 10:39:07 GMT | Ransomware Çağında Veri Nasıl Korunur? | Taha Altın | [Read More](https://medium.com/p/a2c14be169a8) |
-| Sun, 01 Feb 2026 10:38:39 GMT | Galaxy Dash (Medium difficulty) writeup (BugForge) | 7s26Simon | [Read More](https://medium.com/p/e19f60065216) |
-| Sun, 01 Feb 2026 10:31:25 GMT | THE NETWORK GUARDIAN: THE SECURITY ANALYST IN THE SOC | Raphaam Digital (Cyber Security Updates) | [Read More](https://medium.com/p/c4d959348ce8) |
-| Sun, 01 Feb 2026 10:24:46 GMT | MAYBE IN ANOTHER UNIVERSE | Papertrails | [Read More](https://medium.com/p/ad19f859523d) |
-| Sun, 01 Feb 2026 10:24:42 GMT | CafeClub writeup (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/afb70036c9af) |
-| Sun, 01 Feb 2026 10:19:26 GMT | Security Alert: Anomalies Detected in DLDJ Exchange’s Data Feed | MayaKovic | [Read More](https://medium.com/p/8105d760ee42) |
-| Sun, 01 Feb 2026 10:19:02 GMT | Why I Still Prefer Building Custom PHP Solutions from Scratch in 2026 | Asadullah | [Read More](https://medium.com/p/bd6ab147dde5) |
-| Sun, 01 Feb 2026 10:17:55 GMT | The Reality of Countermeasures in SCADA / OT Security: | Fatma Erturk | [Read More](https://medium.com/p/eeeeec0a600e) |
-| Sun, 01 Feb 2026 10:14:27 GMT | The “Ctoph Exchange” Trap: Anatomy of a Liquidity Vacuum | Sterling Vance | [Read More](https://medium.com/p/8eafd4c82fe0) |
-| Sun, 01 Feb 2026 10:04:14 GMT | Cybersecurity Is a Business Risk — Not Just an IT Problem | Astra Global Consulting | [Read More](https://medium.com/p/e2a48e1f2007) |
-| Sun, 01 Feb 2026 09:55:02 GMT | How ChaGu Helps CVE Scanners Actually Make Sense of Risk | Talex Maxim (taimax13) - #barracuda | [Read More](https://medium.com/p/36381c8bce4f) |
-| Sun, 01 Feb 2026 09:53:31 GMT | Menjelajahi Stack Server Bersama Coding Ceria X Penjelajah CyberSecurity | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/fbba905d7357) |
-| Sun, 01 Feb 2026 09:33:07 GMT | How to Get Into Cybersecurity: A Simple 6–12 Month Roadmap for Beginners | Muhammad Haider Tallal | [Read More](https://medium.com/p/b16460e25be3) |
-| Sun, 01 Feb 2026 09:31:01 GMT | The £10,000 Mistake UK Businesses Keep Making (And How a Calendar Reminder Could Have Prevented It) | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/c9d8953a2534) |
-| Sun, 01 Feb 2026 09:03:03 GMT | The Hidden Side of the Internet No One Talks About | Vignesh Selvaraj | [Read More](https://medium.com/p/a3ecda227c35) |
