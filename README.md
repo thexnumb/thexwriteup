@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Feb 2026 23:08:51 GMT | IP Video Türsprechanlage — moderne Lösung für smarte Zutrittskontrolle | Intercomshop | [Read More](https://medium.com/p/5cb50982b829) |
+| Sun, 01 Feb 2026 22:42:57 GMT | Linux File Permissions Finally Made Sense When I Thought in Binary | Shaheer Ahmed | [Read More](https://medium.com/p/59de38ac9f09) |
+| Sun, 01 Feb 2026 22:42:55 GMT | Why API Gateways Are Critical for Securing Public APIs | Esther Kenneth | [Read More](https://medium.com/p/d895b130f2df) |
 | Sun, 01 Feb 2026 22:24:19 GMT | Phishing Resistant MFA | Bryan Boyes | [Read More](https://medium.com/p/a4709e3490f0) |
 | Sun, 01 Feb 2026 22:15:03 GMT | Anonymity | Ali Kurt | [Read More](https://medium.com/p/64377497728b) |
 | Sun, 01 Feb 2026 22:14:55 GMT | My Journey Learning API Security | Cristina Manjarrez | [Read More](https://medium.com/p/f9a43f149b01) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Feb 2026 15:08:23 GMT | Why Cyber Risk Is No Longer a Technical Risk — It’s a Decision-Making Risk | Sachin Sharma | [Read More](https://medium.com/p/b268005f35f6) |
 | Sun, 01 Feb 2026 15:07:23 GMT | Moltbot Security Breach : Wakeup Call for an evolving Agentic Ecosystem | just_a_noob | [Read More](https://medium.com/p/55016a389374) |
 | Sun, 01 Feb 2026 14:58:14 GMT | Easy Access: Navigating Web Security Challenges — A Cypertalants Walkthrough | Z3DX | [Read More](https://medium.com/p/cc9d6717574c) |
-| Sun, 01 Feb 2026 14:56:27 GMT | Lab: Exploiting clickjacking vulnerability to trigger DOM-based XSS - Portswigger | L4V4NY4  AGR3 | [Read More](https://medium.com/p/6f00a036a296) |
-| Sun, 01 Feb 2026 14:55:40 GMT | Stop Watching OpenClaw Install Tutorials — This Is How You Actually Tame It | Shane Collins | [Read More](https://medium.com/p/f3416f5d80bc) |
-| Sun, 01 Feb 2026 14:55:22 GMT | OpenClaw: The AI Assistant You Need to Know About | Atima singh | [Read More](https://medium.com/p/37fda3eaf474) |
