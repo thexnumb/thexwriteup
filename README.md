@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Feb 2026 14:52:07 GMT | Ultimate guide to Osquery Injections | Shivam Bathla | [Read More](https://medium.com/p/bf4b9e3fa45e) |
+| Sun, 01 Feb 2026 14:44:46 GMT | Cybersecurity Architecture Design Principles for Organizations | Chandan Bhattacharya | [Read More](https://medium.com/p/1d4673211762) |
+| Sun, 01 Feb 2026 14:41:49 GMT | The Demon in the Bottle: Why LLM Jailbreaks Will Always Exist | ℑ | [Read More](https://medium.com/p/90b1c3ba5e16) |
+| Sun, 01 Feb 2026 14:41:46 GMT | The NCSC Just Dropped New OT Security Rules — And 95% of You are probably not ready | Agnidipta Sarkar | [Read More](https://medium.com/p/8a5edcc02358) |
+| Sun, 01 Feb 2026 14:32:19 GMT | Security, Operating Systems and Keystrokes: An Unorthodox Brainchild | Harshith Shiva | [Read More](https://medium.com/p/82b1334d619e) |
+| Sun, 01 Feb 2026 14:31:01 GMT | Packet Sniffing Basics with Airodump-ng: A Comprehensive Guide | Vignesh R | [Read More](https://medium.com/p/f47e2b07cbe2) |
 | Sun, 01 Feb 2026 14:23:56 GMT | Code to Pod Security — the Cloud Native way | Pronomita Dey | [Read More](https://medium.com/p/f5654a158998) |
 | Sun, 01 Feb 2026 14:23:33 GMT | Vulnerability Management Pipeline Moving from Reactive Security to Proactive Defense | Esra Kayhan | [Read More](https://medium.com/p/6c1ac341d81b) |
+| Sun, 01 Feb 2026 14:23:12 GMT | ️ Anti-DDoS Defense Strategies: Protecting the Digital Fortress | Esra Kayhan | [Read More](https://medium.com/p/a7048f6d067c) |
 | Sun, 01 Feb 2026 14:20:05 GMT | The First AI War Just Started, Here’s Why It Matters to Your Business and Security. | Mohamed Bakry | [Read More](https://medium.com/p/d16d95eb8d8e) |
 | Sun, 01 Feb 2026 14:17:06 GMT | How I Automated SOC Incident Response: From 60 Minutes to 2 Minutes | Misbah waraich | [Read More](https://medium.com/p/644f5c13ec4a) |
 | Sun, 01 Feb 2026 14:09:58 GMT | Lock Down macOS Privacy Without Breaking Performance | Geoffrey Wenger | [Read More](https://medium.com/p/83bc99abce25) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Feb 2026 06:45:21 GMT | AI-Powered Penetration Testing Tools in 2026 | Richard Mader | [Read More](https://medium.com/p/1ddb4718a029) |
 | Sun, 01 Feb 2026 06:44:22 GMT | Adaptive Defense: When AL Meets ML Intelligence | Reza Daraei | [Read More](https://medium.com/p/a5820aaaf10f) |
 | Sun, 01 Feb 2026 06:39:15 GMT | How Monitoring Teaches Attackers How to Hide | Fateyaly | [Read More](https://medium.com/p/34fc3c1ddd38) |
-| Sun, 01 Feb 2026 06:31:01 GMT | How the Tor Browser Works: A Simple Explanation | Abhinsubej | [Read More](https://medium.com/p/c0898a651982) |
-| Sun, 01 Feb 2026 06:30:52 GMT | Stop Over-Engineering Malware Analysis: A Lesson from the 3CX Supply Chain Attack. | Mohamed Ibrahem | [Read More](https://medium.com/p/610d7f9bef84) |
-| Sun, 01 Feb 2026 06:28:56 GMT | WaspWatch: Building a Green Agent for Web Agent Security Benchmarking | Geomichl | [Read More](https://medium.com/p/0c315e28d624) |
-| Sun, 01 Feb 2026 06:14:27 GMT | The Polish Power Grid Breach: A Wake-Up Call We Can’t Afford to Ignore | Nikshey Dhiman | [Read More](https://medium.com/p/873c5127d5e3) |
-| Sun, 01 Feb 2026 06:08:28 GMT | Top & Best Tools for OSCP | Kiranghimire | [Read More](https://medium.com/p/5a03c74f8e40) |
-| Sun, 01 Feb 2026 06:01:01 GMT | OWASP API Security Top 10 Mapping with Nessus and Burp Suite Examples | Tandelpruthvi | [Read More](https://medium.com/p/348cb9d086a0) |
-| Sun, 01 Feb 2026 05:59:02 GMT | Why I Stopped Chasing Frameworks and Started Chasing Fundamentals | TechSam | [Read More](https://medium.com/p/9fad036351de) |
