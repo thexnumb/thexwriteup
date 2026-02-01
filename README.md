@@ -12,12 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Feb 2026 21:39:46 GMT | Day 7 : XSS | Cybersecurity with Jojo | [Read More](https://medium.com/p/3398263c2ef0) |
+| Sun, 01 Feb 2026 21:31:01 GMT | Humanity’s Adolescence: God-Like Technology in the Hands of Children | Wizard Mike | [Read More](https://medium.com/p/f872d3e8a4c0) |
+| Sun, 01 Feb 2026 21:30:18 GMT | Incident Response Services by CyberSecOp: Advanced Cyber Security Incident Response Solutions | Jeffery Walker | [Read More](https://medium.com/p/e9b813dbf9af) |
+| Sun, 01 Feb 2026 21:26:20 GMT | Meet ReVex: The Cyberpunk HTTP Repeater that lives in your DevTools ☠ | medjahdi | [Read More](https://medium.com/p/4f648c8659e7) |
+| Sun, 01 Feb 2026 21:23:12 GMT | What I’m Building Here (And Why You Might Want to Stick Around) | Sam Writes Security | [Read More](https://medium.com/p/5982c757bcb4) |
 | Sun, 01 Feb 2026 21:15:45 GMT | The Cardinal Sins I Keep Seeing in Active Directory | Aaronashley | [Read More](https://medium.com/p/29727d41279e) |
 | Sun, 01 Feb 2026 21:13:43 GMT | awsmap — Find Everything Running in Your AWS Account | Tarek CHEIKH | [Read More](https://medium.com/p/3294c5326baa) |
 | Sun, 01 Feb 2026 21:06:59 GMT | Learning Cybersecurity Is Easy — Thinking Like an Attacker Is the Hard Part | Liam | [Read More](https://medium.com/p/952b843b9c0d) |
 | Sun, 01 Feb 2026 21:01:12 GMT | Security BSides 2026: Segurança, hacking e comunidade. | Terraforming AWS Security!‍️ | [Read More](https://medium.com/p/d89ff54b687f) |
 | Sun, 01 Feb 2026 20:59:43 GMT | Introduction to Network | Umid Nagiyev | [Read More](https://medium.com/p/6cf280c68a11) |
 | Sun, 01 Feb 2026 20:41:50 GMT | AI Safety Theater: Why Treating Adults Like Children Makes Everyone Less Safe | Expert | [Read More](https://medium.com/p/805d8370df0e) |
+| Sun, 01 Feb 2026 20:39:44 GMT | Servidores inmutables: seguridad y repetibilidad todo en uno | Sergio Rua | [Read More](https://medium.com/p/ee057478edff) |
 | Sun, 01 Feb 2026 20:38:05 GMT | Understanding the Network Tab in Browser DevTools (For Cybersecurity, CTFs, and Bug Bounties) | Bridget | [Read More](https://medium.com/p/c1208d87b265) |
 | Sun, 01 Feb 2026 20:19:45 GMT | The Conscientious Cloud Engineer | Kamlesh Shah | [Read More](https://medium.com/p/79784d70746d) |
 | Sun, 01 Feb 2026 20:16:13 GMT | Facts HTB writeup | Aaltobelli | [Read More](https://medium.com/p/908155103f91) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Feb 2026 14:44:28 GMT | Overwrite ChatGPTs System Prompt (to some extent) | jonathanyly | [Read More](https://medium.com/p/d6589ab807bc) |
 | Sun, 01 Feb 2026 14:41:49 GMT | The Demon in the Bottle: Why LLM Jailbreaks Will Always Exist | ℑ | [Read More](https://medium.com/p/90b1c3ba5e16) |
 | Sun, 01 Feb 2026 14:41:46 GMT | The NCSC Just Dropped New OT Security Rules — And 95% of You are probably not ready | Agnidipta Sarkar | [Read More](https://medium.com/p/8a5edcc02358) |
-| Sun, 01 Feb 2026 14:32:19 GMT | Security, Operating Systems and Keystrokes: An Unorthodox Brainchild | Harshith Shiva | [Read More](https://medium.com/p/82b1334d619e) |
-| Sun, 01 Feb 2026 14:31:01 GMT | Packet Sniffing Basics with Airodump-ng: A Comprehensive Guide | Vignesh R | [Read More](https://medium.com/p/f47e2b07cbe2) |
-| Sun, 01 Feb 2026 14:23:56 GMT | Code to Pod Security — the Cloud Native way | Pronomita Dey | [Read More](https://medium.com/p/f5654a158998) |
-| Sun, 01 Feb 2026 14:23:33 GMT | Vulnerability Management Pipeline Moving from Reactive Security to Proactive Defense | Esra Kayhan | [Read More](https://medium.com/p/6c1ac341d81b) |
-| Sun, 01 Feb 2026 14:23:12 GMT | ️ Anti-DDoS Defense Strategies: Protecting the Digital Fortress | Esra Kayhan | [Read More](https://medium.com/p/a7048f6d067c) |
-| Sun, 01 Feb 2026 14:20:05 GMT | The First AI War Just Started, Here’s Why It Matters to Your Business and Security. | Mohamed Bakry | [Read More](https://medium.com/p/d16d95eb8d8e) |
