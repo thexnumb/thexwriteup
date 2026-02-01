@@ -12,8 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Feb 2026 20:41:50 GMT | AI Safety Theater: Why Treating Adults Like Children Makes Everyone Less Safe | Expert | [Read More](https://medium.com/p/805d8370df0e) |
+| Sun, 01 Feb 2026 20:38:05 GMT | Understanding the Network Tab in Browser DevTools (For Cybersecurity, CTFs, and Bug Bounties) | Bridget | [Read More](https://medium.com/p/c1208d87b265) |
 | Sun, 01 Feb 2026 20:19:45 GMT | The Conscientious Cloud Engineer | Kamlesh Shah | [Read More](https://medium.com/p/79784d70746d) |
 | Sun, 01 Feb 2026 20:16:13 GMT | Facts HTB writeup | Aaltobelli | [Read More](https://medium.com/p/908155103f91) |
+| Sun, 01 Feb 2026 20:03:26 GMT | The Hidden Dangers Lurking in Your Network: Why Cybersecurity Audits Are Non-Negotiable | Kingsley Ekenedirichukwu Okafor | [Read More](https://medium.com/p/3c123aef2f98) |
 | Sun, 01 Feb 2026 20:03:22 GMT | Reverse Proxy Nedir ve “Ben Robot Değilim” Kutucuğu Nasıl Çalışır? | Arda Derya | [Read More](https://medium.com/p/2475777b38cf) |
 | Sun, 01 Feb 2026 20:01:54 GMT | NetFlow Nedir? Şirketler İnternete Çıkışları Nasıl Takip Eder? | Arda Derya | [Read More](https://medium.com/p/b77345790b61) |
 | Sun, 01 Feb 2026 19:49:22 GMT | Güvenli Olan Sessizdir: Kerberos Susar, NTLM Anlatır | Yunus Emre Pak | [Read More](https://medium.com/p/a6f1e738ec79) |
@@ -29,6 +32,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Feb 2026 18:55:56 GMT | Setting Up Skills In Openclaw | Nwosu Rosemary | [Read More](https://medium.com/p/d043b76303be) |
 | Sun, 01 Feb 2026 18:51:40 GMT | Alert Triage With Elastic —  Walkthrough - TryHackMe | Shyroot | [Read More](https://medium.com/p/f8daf3a7b8d3) |
 | Sun, 01 Feb 2026 18:45:53 GMT | LLMNR & NBT-NS Posing, My Favorite Attack! | Aaronashley | [Read More](https://medium.com/p/05b3f70bfb92) |
+| Sun, 01 Feb 2026 18:41:27 GMT | Engineering Blind Spots: What Control Engineers Don’t Model as “Security Risk” | Muhammad Ali Khan | [Read More](https://medium.com/p/f996d85583ba) |
 | Sun, 01 Feb 2026 18:41:01 GMT | Proving Grounds Linux Lab Hub ( Road to OSCP ) | Cyb0rgBytes | [Read More](https://medium.com/p/e5d58a42530c) |
 | Sun, 01 Feb 2026 18:39:44 GMT | The Art of Controlled Noise: How Differential Privacy Protects Our Secrets in a Data-Driven World | Rajdip Bera | [Read More](https://medium.com/p/319c2acd36a5) |
 | Sun, 01 Feb 2026 18:36:22 GMT | IDOR Vulnerability in Campaign Workflows – Accessing Archived Campaigns of Any User 150$ | Hasan Khan | [Read More](https://medium.com/p/f24b46c0cf59) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Feb 2026 14:05:53 GMT | Lithuania’s DDoS wave in June 2022: what happened and why it mattered | mahammad | [Read More](https://medium.com/p/e4201f77ec33) |
 | Sun, 01 Feb 2026 14:04:39 GMT | Pwned Labs Google Cloud Attack & Defense Bootcamp Professional Edition (GCRTP) Review | Maverick | [Read More](https://medium.com/p/b52268a13fca) |
 | Sun, 01 Feb 2026 13:59:28 GMT | Building a Real Python Security Project with Bandit (macOS Terminal Walkthrough) | Priyanshu Manash | [Read More](https://medium.com/p/42c591fc24d0) |
-| Sun, 01 Feb 2026 13:56:03 GMT | ⚠️ Why @Async Causes Hidden Bugs in Spring Boot (And How to Avoid Them) | CodeTalks | [Read More](https://medium.com/p/49b9bdbcd84d) |
-| Sun, 01 Feb 2026 13:55:14 GMT | The End of the Golden Bridge: How Europe is Being Trapped into an Unwinnable War | Adnan Bajramović | [Read More](https://medium.com/p/b5255aec31cc) |
-| Sun, 01 Feb 2026 13:54:17 GMT | Cybersecurity Beginner Roadmap (From Zero to Job-Ready) | Mohamed dahir | [Read More](https://medium.com/p/40cbb71612dc) |
-| Sun, 01 Feb 2026 13:53:50 GMT | The beginning of my OTW journey | CocoB | [Read More](https://medium.com/p/2c24ac5c9581) |
