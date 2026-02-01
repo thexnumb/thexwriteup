@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Feb 2026 10:24:42 GMT | CafeClub writeup (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/afb70036c9af) |
+| Sun, 01 Feb 2026 10:19:26 GMT | Security Alert: Anomalies Detected in DLDJ Exchange’s Data Feed | MayaKovic | [Read More](https://medium.com/p/8105d760ee42) |
+| Sun, 01 Feb 2026 10:17:55 GMT | The Reality of Countermeasures in SCADA / OT Security: | Fatma Erturk | [Read More](https://medium.com/p/eeeeec0a600e) |
+| Sun, 01 Feb 2026 10:14:27 GMT | The “Ctoph Exchange” Trap: Anatomy of a Liquidity Vacuum | Sterling Vance | [Read More](https://medium.com/p/8eafd4c82fe0) |
+| Sun, 01 Feb 2026 10:04:14 GMT | Cybersecurity Is a Business Risk — Not Just an IT Problem | Astra Global Consulting | [Read More](https://medium.com/p/e2a48e1f2007) |
+| Sun, 01 Feb 2026 09:55:02 GMT | How ChaGu Helps CVE Scanners Actually Make Sense of Risk | Talex Maxim (taimax13) - #barracuda | [Read More](https://medium.com/p/36381c8bce4f) |
+| Sun, 01 Feb 2026 09:53:31 GMT | Menjelajahi Stack Server Bersama Coding Ceria X Penjelajah CyberSecurity | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/fbba905d7357) |
+| Sun, 01 Feb 2026 09:33:07 GMT | How to Get Into Cybersecurity: A Simple 6–12 Month Roadmap for Beginners | Muhammad Haider Tallal | [Read More](https://medium.com/p/b16460e25be3) |
+| Sun, 01 Feb 2026 09:31:01 GMT | The £10,000 Mistake UK Businesses Keep Making (And How a Calendar Reminder Could Have Prevented It) | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/c9d8953a2534) |
 | Sun, 01 Feb 2026 09:03:03 GMT | The Hidden Side of the Internet No One Talks About | Vignesh Selvaraj | [Read More](https://medium.com/p/a3ecda227c35) |
 | Sun, 01 Feb 2026 09:01:12 GMT | Why Credential Stuffing Still Works in 2026 (And How to Stop It) | Alexandre Vandamme | [Read More](https://medium.com/p/e7ef3abf843e) |
 | Sun, 01 Feb 2026 08:54:23 GMT | DorkEye – Ethical Dorking in Python (and Why It Matters) | xPloits3c | [Read More](https://medium.com/p/098ac17d88e8) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 Jan 2026 22:11:36 GMT | SOAR This SOAR That: Everyone is talking about Automation. No One Does It. | Serhan Eraslan | [Read More](https://medium.com/p/a578dc0a791e) |
 | Sat, 31 Jan 2026 22:10:44 GMT | Installing pfSense on VMware: A Complete Step-by-Step Guide | Augustine Sito | [Read More](https://medium.com/p/cf3519331d49) |
 | Sat, 31 Jan 2026 22:03:56 GMT | Why Network Security Is No Longer Just About Defense | Shahzad Ayub | [Read More](https://medium.com/p/1841581c2561) |
-| Sat, 31 Jan 2026 21:56:56 GMT | Day 6 pt2 : Splunk | Cybersecurity with Jojo | [Read More](https://medium.com/p/05f80cf139e3) |
-| Sat, 31 Jan 2026 21:54:38 GMT | Buyers Guide to External Network Pentesting Services | Connor Cady | [Read More](https://medium.com/p/a2aa21394303) |
-| Sat, 31 Jan 2026 21:52:17 GMT | Ring Outdoor Cam Plus, Battery (newest model), Home or business security, Wide-Angle 2K Video with… | Amazon Review | [Read More](https://medium.com/p/0ad01a05f547) |
-| Sat, 31 Jan 2026 21:41:16 GMT | Cyber Range Simulation for Adversarial and Defensive Operations | NSESean | [Read More](https://medium.com/p/ad0471c8839c) |
-| Sat, 31 Jan 2026 21:34:43 GMT | TryHackMe — Chill Hack (CTF Write-up) | RCA62X8 | [Read More](https://medium.com/p/e556a48aeb9b) |
-| Sat, 31 Jan 2026 21:31:06 GMT | TIME TO VENT | A. Nosa | [Read More](https://medium.com/p/5bc6364127f4) |
-| Sat, 31 Jan 2026 21:29:56 GMT | HTB - CPTS - Shells & Payloads — The Live Engagement | CyberMateUY | [Read More](https://medium.com/p/2d47700d4ce8) |
-| Sat, 31 Jan 2026 21:28:16 GMT | dzosoft.com | dzosoft | [Read More](https://medium.com/p/7a38a3dc0afe) |
-| Sat, 31 Jan 2026 21:27:07 GMT | AI Security 101: Game of Gradients Why AI Is Inherently Insecure (and What Robustness Really Means… | Vinay Bist | [Read More](https://medium.com/p/2027eb0fb8b8) |
