@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Feb 2026 23:38:54 GMT | What API Developers Need to Know About PCI DSS and Financial API Security | Chihurumnanya Ruth Godwin | [Read More](https://medium.com/p/d5926e6ae206) |
+| Sun, 01 Feb 2026 23:36:40 GMT | How fast can Europe build its own nuclear deterrent? | Aurel Stratan | [Read More](https://medium.com/p/d308d3aec347) |
+| Sun, 01 Feb 2026 23:35:55 GMT | Common OSINT Mistakes Beginners Make | S010lvloon | [Read More](https://medium.com/p/ebdea9665b14) |
 | Sun, 01 Feb 2026 23:08:51 GMT | IP Video Türsprechanlage — moderne Lösung für smarte Zutrittskontrolle | Intercomshop | [Read More](https://medium.com/p/5cb50982b829) |
 | Sun, 01 Feb 2026 22:42:57 GMT | Linux File Permissions Finally Made Sense When I Thought in Binary | Shaheer Ahmed | [Read More](https://medium.com/p/59de38ac9f09) |
 | Sun, 01 Feb 2026 22:42:55 GMT | Why API Gateways Are Critical for Securing Public APIs | Esther Kenneth | [Read More](https://medium.com/p/d895b130f2df) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Feb 2026 15:12:52 GMT | Scattered Spider: Why This Cybercriminal Group Still Matters | Ankita Sinha | [Read More](https://medium.com/p/6c57322a0d62) |
 | Sun, 01 Feb 2026 15:12:10 GMT | MongoBleed (CVE-2025–14847): When Compression Becomes a Data Exfiltration Vector | Ankita Sinha | [Read More](https://medium.com/p/6fceaa9deecf) |
 | Sun, 01 Feb 2026 15:11:20 GMT | The Bandit Wargame — Level 0 — WSL and SSH | CocoB | [Read More](https://medium.com/p/a01bdad4fd51) |
-| Sun, 01 Feb 2026 15:08:23 GMT | Why Cyber Risk Is No Longer a Technical Risk — It’s a Decision-Making Risk | Sachin Sharma | [Read More](https://medium.com/p/b268005f35f6) |
-| Sun, 01 Feb 2026 15:07:23 GMT | Moltbot Security Breach : Wakeup Call for an evolving Agentic Ecosystem | just_a_noob | [Read More](https://medium.com/p/55016a389374) |
-| Sun, 01 Feb 2026 14:58:14 GMT | Easy Access: Navigating Web Security Challenges — A Cypertalants Walkthrough | Z3DX | [Read More](https://medium.com/p/cc9d6717574c) |
