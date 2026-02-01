@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Feb 2026 11:41:54 GMT | Quantum Algorithms Explained for Everyone: A Simple and Practical Guide | Tech Security | [Read More](https://medium.com/p/ff840f5195e8) |
+| Sun, 01 Feb 2026 11:40:58 GMT | Tools you need for Bug Bounty v1.0 (Recon Starter Pack) | Swetha | [Read More](https://medium.com/p/972425c8c586) |
+| Sun, 01 Feb 2026 11:40:31 GMT | Tools for Bug Bounty v2.0 — Port Scanning Essentials | Swetha | [Read More](https://medium.com/p/96ac9692b7e4) |
+| Sun, 01 Feb 2026 11:36:01 GMT | The 2026 Cybersecurity Roadmap: From Beginner to Ethical Hacker | venkatesh ram | [Read More](https://medium.com/p/9903edbda11e) |
+| Sun, 01 Feb 2026 11:33:59 GMT | Cybersecurity LLMs: New Locally Deployable Models For Agentic AI | evoailabs | [Read More](https://medium.com/p/54908c3f621b) |
+| Sun, 01 Feb 2026 11:31:12 GMT | TryHackMe Writeup: Lunizz CTF | Berkay AĞGÜL | [Read More](https://medium.com/p/7b5a6fad0120) |
+| Sun, 01 Feb 2026 11:29:19 GMT | DIRX Algorithm: Autonomous Directory Enumeration via Reverse Regular Expression Analysis in… | Kabil Preetham K | [Read More](https://medium.com/p/2fdba8a90ccf) |
+| Sun, 01 Feb 2026 11:25:59 GMT | IDOR Lets Attackers Choose Your Payment Method | Parth Narula | [Read More](https://medium.com/p/abe87784e726) |
+| Sun, 01 Feb 2026 11:22:28 GMT | I got hacked on Instagram… And AI helped me | Franklin Ngemoh | [Read More](https://medium.com/p/35c2ead064b2) |
+| Sun, 01 Feb 2026 11:12:35 GMT | PicThief:This is a tool built on Flask API, OCR (optical character recognition), and YOLO-based… | Мартин. | [Read More](https://medium.com/p/1463726ea93e) |
 | Sun, 01 Feb 2026 11:11:22 GMT | Mobile Device Security Guide for Journalists, Medics, Legal and Democratic Observers and Protestors | Jeffrey R Wells | [Read More](https://medium.com/p/c60568d11ad0) |
 | Sun, 01 Feb 2026 11:06:10 GMT | Poland Confirms Attack on Wind Farms and Solar Plants | Patrik Žák | [Read More](https://medium.com/p/89cc04650651) |
 | Sun, 01 Feb 2026 10:59:54 GMT | Bombs are lifelines, no guardians of national interests—this is a point that must be remembered. | Evan Sanorax | [Read More](https://medium.com/p/147a44819577) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Feb 2026 01:33:27 GMT | Agents with agency: Moltbook! | Savneet Singh | [Read More](https://medium.com/p/326cf3b282a4) |
 | Sun, 01 Feb 2026 00:17:51 GMT | How google.share Is Helping Fraudulent Activities | Tech talks | [Read More](https://medium.com/p/d221e199872e) |
 | Sun, 01 Feb 2026 00:13:46 GMT | CodePartTwo — HackTheBox Walkthrough | B3TA-BLOCKER | [Read More](https://medium.com/p/73202e4d312a) |
-| Sun, 01 Feb 2026 00:09:43 GMT | Exploiting Redis and ROP: A Full Walkthrough of the Blackgate CTF Machine | MGMK | [Read More](https://medium.com/p/bdc8823e677d) |
-| Sat, 31 Jan 2026 23:51:33 GMT | La maldición del amor ajeno | Juanfer | [Read More](https://medium.com/p/e8ea654b5d45) |
-| Sat, 31 Jan 2026 23:46:24 GMT | Manipulación de JWT y Control de Integridad | IgnoranzaSolare | [Read More](https://medium.com/p/8c201b4a0af8) |
-| Sat, 31 Jan 2026 23:44:03 GMT | The IDOR’ventures — The Tickets & More — A Different Kind Of $36,000 Bounty | Justas_b_2 | [Read More](https://medium.com/p/6cabbd01e4fb) |
-| Sat, 31 Jan 2026 23:39:46 GMT | OpenClawTrap — Malicious Skills Run Rampant | Thomas Dang | [Read More](https://medium.com/p/8a303368d700) |
-| Sat, 31 Jan 2026 23:31:47 GMT | Information Is the Real Engine Behind Every Computer System | Resourceful Dev | [Read More](https://medium.com/p/194604460e5b) |
-| Sat, 31 Jan 2026 23:26:20 GMT | The Last Honest Letter: Security When AI Can Be Anyone | Latinum Institute Press | [Read More](https://medium.com/p/0a6b65209a0f) |
-| Sat, 31 Jan 2026 23:24:53 GMT | Security testing just got a lot more agentic | JP Caparas | [Read More](https://medium.com/p/24aa661cd368) |
-| Sat, 31 Jan 2026 23:24:51 GMT | ️‍♂️ Peek-a-Boo, I See You: How We Bypassed Cloudflare and Toppled a Phishing Empire (Thanks to a… | HUNT3R | [Read More](https://medium.com/p/a10f80fef241) |
-| Sat, 31 Jan 2026 23:14:11 GMT | Agapimeni Kardia: | Alex Oluwatosin Anuoluwapo | [Read More](https://medium.com/p/a1998ebd54f4) |
