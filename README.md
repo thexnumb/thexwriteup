@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Feb 2026 13:39:00 GMT | THM-VulnNet: Roasted Walkthrough | Abhay Ingale | [Read More](https://medium.com/p/a59898814e73) |
+| Sun, 01 Feb 2026 13:35:57 GMT | Inside Moltbook: Where 1.3 Million AI Agents Built Their Own Social Network | Owadokun Tosin Tobi | [Read More](https://medium.com/p/f1feeaeb165b) |
+| Sun, 01 Feb 2026 13:21:01 GMT | AresGPT & Aristotle’s Pen: AI for Justice, Virtue, and Security | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/f4f427a16bf2) |
+| Sun, 01 Feb 2026 13:05:17 GMT | Exploit3rs CTF — The Debug Dilemma Writeup | 0xlight | [Read More](https://medium.com/p/db16816e4306) |
+| Sun, 01 Feb 2026 12:56:17 GMT | Your OS Can’t See This Trojan, I Reverse-Engineered It: Paramecium2 | Harsh Raj Singhania | [Read More](https://medium.com/p/57635360c128) |
 | Sun, 01 Feb 2026 12:32:03 GMT | Inside TAMECAT: A Closer Look at APT42’s Stealthy PowerShell Backdoor | Mohamed Ehab Osman | [Read More](https://medium.com/p/3fcd6640a0dc) |
 | Sun, 01 Feb 2026 12:25:12 GMT | I didn’t fix the system but I guided the people | Mir Shahzad | [Read More](https://medium.com/p/67b4d0aea8b8) |
 | Sun, 01 Feb 2026 12:16:08 GMT | Nobody Warns You How Fast Security Debt Accumulates | Mwenda Kelvin | [Read More](https://medium.com/p/10ab8141dc00) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Feb 2026 04:30:25 GMT | HTTP vs HTTPS: The Small Difference That Matters | Mutcherla Jayani | [Read More](https://medium.com/p/cc160336b505) |
 | Sun, 01 Feb 2026 04:15:32 GMT | Former Google Engineer Convicted in First U.S. AI Economic Espionage Case | Fabio Tongson | [Read More](https://medium.com/p/5458038a8884) |
 | Sun, 01 Feb 2026 04:11:22 GMT | Physiology-Based Deepfake Detection: Powerful, Promising, and Risky | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/a7047b584408) |
-| Sun, 01 Feb 2026 04:10:45 GMT | Why Deepfakes Are a Cloud Security Problem (Not Just a Media Problem) | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/060650e00c1a) |
-| Sun, 01 Feb 2026 04:09:31 GMT | CodePartTwo –HTB | Maxwell Ferreira | [Read More](https://medium.com/p/eedade835e88) |
-| Sun, 01 Feb 2026 04:09:26 GMT | Unmasking Lumma Malware in 2026 | Sumedha Dawadi | [Read More](https://medium.com/p/893d7246d8c2) |
-| Sun, 01 Feb 2026 04:04:52 GMT | Burp Suite A Beginner’s Guide to Web Security Testing | Shadow Attackers | [Read More](https://medium.com/p/fa2394a9d12d) |
-| Sun, 01 Feb 2026 04:00:14 GMT | Using AI to find interesting Hackaday Posts | Scott Baker | [Read More](https://medium.com/p/d02c6b04a5a9) |
