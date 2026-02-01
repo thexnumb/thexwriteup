@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Feb 2026 04:43:29 GMT | Why API Security is the Backbone of Nigerian Fintech: Lessons from Building a Secure Banking… | Divine Ogbonna | [Read More](https://medium.com/p/3cc5ed26c498) |
+| Sun, 01 Feb 2026 04:38:04 GMT | Cuba Revealed: How the Communist Regime Left Government Infrastructure Exposed | Ringmast4r | [Read More](https://medium.com/p/10e92fd4b08f) |
+| Sun, 01 Feb 2026 04:31:04 GMT | MCP Security Reality Check | Vectorlane | [Read More](https://medium.com/p/2591ca4beef4) |
+| Sun, 01 Feb 2026 04:30:25 GMT | HTTP vs HTTPS: The Small Difference That Matters | Mutcherla Jayani | [Read More](https://medium.com/p/cc160336b505) |
+| Sun, 01 Feb 2026 04:15:32 GMT | Former Google Engineer Convicted in First U.S. AI Economic Espionage Case | Fabio Tongson | [Read More](https://medium.com/p/5458038a8884) |
+| Sun, 01 Feb 2026 04:11:22 GMT | Physiology-Based Deepfake Detection: Powerful, Promising, and Risky | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/a7047b584408) |
+| Sun, 01 Feb 2026 04:10:45 GMT | Why Deepfakes Are a Cloud Security Problem (Not Just a Media Problem) | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/060650e00c1a) |
+| Sun, 01 Feb 2026 04:09:31 GMT | CodePartTwo –HTB | Maxwell Ferreira | [Read More](https://medium.com/p/eedade835e88) |
+| Sun, 01 Feb 2026 04:09:26 GMT | Unmasking Lumma Malware in 2026 | Sumedha Dawadi | [Read More](https://medium.com/p/893d7246d8c2) |
+| Sun, 01 Feb 2026 04:04:52 GMT | Burp Suite A Beginner’s Guide to Web Security Testing | Shadow Attackers | [Read More](https://medium.com/p/fa2394a9d12d) |
+| Sun, 01 Feb 2026 04:00:14 GMT | Using AI to find interesting Hackaday Posts | Scott Baker | [Read More](https://medium.com/p/d02c6b04a5a9) |
+| Sun, 01 Feb 2026 03:58:09 GMT | CORS & SOP: Backbone of web security | PriOFF | [Read More](https://medium.com/p/681b6567cbc0) |
+| Sun, 01 Feb 2026 03:47:33 GMT | My OIBSIP Internship Journey with Oasis Infobyte | Project | [Read More](https://medium.com/p/9c2b1a3af74b) |
+| Sun, 01 Feb 2026 03:43:06 GMT | OWASP CRS Testing in AEMaaCS Apache Dispatcher | Kostiantyn Diachenko | [Read More](https://medium.com/p/ab4a04ccf373) |
+| Sun, 01 Feb 2026 03:05:42 GMT | The Receipt That Outlives You: Privacy as a Daily Choice | James Kuhman | [Read More](https://medium.com/p/50c8440a3a45) |
+| Sun, 01 Feb 2026 02:54:52 GMT | Other people don’t have the power to dim my light | Leigh | [Read More](https://medium.com/p/2b3fd89a2246) |
+| Sun, 01 Feb 2026 02:38:19 GMT | AI Will Not Replace You — But Someone Using AI Might | hapuarachchige hansi hirunika | [Read More](https://medium.com/p/9c57b4c7cdf7) |
 | Sun, 01 Feb 2026 02:33:25 GMT | Cybersecurity common question and answers | s v | [Read More](https://medium.com/p/f49479d06f19) |
 | Sun, 01 Feb 2026 02:25:08 GMT | Te hackearon Mexico, ¿Ahora Que? | Adrian Romanov | [Read More](https://medium.com/p/68945fc3759d) |
 | Sun, 01 Feb 2026 01:38:19 GMT | What Getting Hacked Taught Me | Rachel Glass | [Read More](https://medium.com/p/d3e52a0c3df3) |
@@ -96,20 +113,3 @@ AI-POWERED, MULTI-CHAIN TOKEN RISK INTELLIGENCE PLATFORM - CONFIDENTIAL… | Dav
 | Sat, 31 Jan 2026 18:11:07 GMT | Wazuh ile Uç Nokta Güvenliği ve İzleme: EDR Dünyasına Giriş (TryHackMe-Wazuh) | Ahmet Hakan Öztürk | [Read More](https://medium.com/p/0833b72c2528) |
 | Sat, 31 Jan 2026 18:08:33 GMT | ColddBox: Easy Write-Up | Sooraj Mohan | [Read More](https://medium.com/p/f738829a69e5) |
 | Sat, 31 Jan 2026 18:00:30 GMT | Dissecting LummaStealer: A Walkthrough of the “Angry Likho” Lab | Muhammad Omar F F | [Read More](https://medium.com/p/4d578cc07df0) |
-| Sat, 31 Jan 2026 17:58:40 GMT | The Future of Encryption in a Post-Quantum World | Mubashir | [Read More](https://medium.com/p/2bf0a4e8b88c) |
-| Sat, 31 Jan 2026 17:55:02 GMT | M A G I K: Reducing Subjectivity in Cyber Risk Assessment | Ratnadeep Dey Roy | [Read More](https://medium.com/p/221177632fe8) |
-| Sat, 31 Jan 2026 17:52:35 GMT | The Phoenix Project: A Book That Felt Uncomfortably Familiar (In a Good Way) | Priyansh Shandilya | [Read More](https://medium.com/p/be506c847a78) |
-| Sat, 31 Jan 2026 17:52:02 GMT | TryHackMe Writeup: Jax Sucks Alot | Berkay AĞGÜL | [Read More](https://medium.com/p/7c2d19fdb668) |
-| Sat, 31 Jan 2026 17:48:57 GMT | Prompt Injection in LLM-Integrated Applications: A Case Study in Misintegration | HR | [Read More](https://medium.com/p/8f11153ee788) |
-| Sat, 31 Jan 2026 17:38:01 GMT | CodePartTwo Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/da505c00e0cc) |
-| Sat, 31 Jan 2026 17:32:43 GMT | Can AI Make India Feel Digitally Safer? | Clara Smith | [Read More](https://medium.com/p/6425e4b99c7b) |
-| Sat, 31 Jan 2026 17:29:54 GMT | Why OTPs Sometimes Stay the Same — A Backend Story from Spring Boot | Arunamallaraddi | [Read More](https://medium.com/p/d5a854619693) |
-| Sat, 31 Jan 2026 17:20:25 GMT | Prompt Injection Is Abuse: The Open Door in Your AI’s Mind | J Poole | [Read More](https://medium.com/p/e9ecddac5aa3) |
-| Sat, 31 Jan 2026 17:09:55 GMT | AI Agent Planning Framework: Building Reliable Autonomous AI Systems | Birendar Bisht | [Read More](https://medium.com/p/5acf52f8de45) |
-| Sat, 31 Jan 2026 17:07:02 GMT | Implementing a Vulnerability Scanning Pipeline Using AWS Lambda and SQS | Samanvay Kumar | [Read More](https://medium.com/p/06e01c70bc8a) |
-| Sat, 31 Jan 2026 17:01:53 GMT | GeoServer: CVE-2025–58360 - Tryhackme | Aaron | [Read More](https://medium.com/p/f760e934282f) |
-| Sat, 31 Jan 2026 17:01:02 GMT | How Security Guard Companies in Staten Island Improve Patient Safety? | The Safety Perspective | [Read More](https://medium.com/p/0aed86bbbb86) |
-| Sat, 31 Jan 2026 16:39:24 GMT | How I Was Able to Take Over All Organizations on the Platform via Stored XSS chained with BAC and… | Saif Eldin | [Read More](https://medium.com/p/24ea39046b0c) |
-| Sat, 31 Jan 2026 16:38:00 GMT | Mengeksploitasi pemetaan path untuk penipuan cache web (PortSwigger) | Naufal Arif Athallah | [Read More](https://medium.com/p/e4dc63ba6d76) |
-| Sat, 31 Jan 2026 16:27:28 GMT | How I Hacked an Enterprise’s Entire User Database with One Hardcoded Credential: SAP IAM Deep Dive | HR | [Read More](https://medium.com/p/6ce426f4a2d7) |
-| Sat, 31 Jan 2026 16:26:47 GMT | TryHackMe - Intro to Log Analysis — Writeup | CyberWithManos | [Read More](https://medium.com/p/1c6f98e7c5fa) |
