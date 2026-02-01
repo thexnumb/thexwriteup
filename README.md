@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Feb 2026 22:24:19 GMT | Phishing Resistant MFA | Bryan Boyes | [Read More](https://medium.com/p/a4709e3490f0) |
 | Sun, 01 Feb 2026 22:15:03 GMT | Anonymity | Ali Kurt | [Read More](https://medium.com/p/64377497728b) |
 | Sun, 01 Feb 2026 22:14:55 GMT | My Journey Learning API Security | Cristina Manjarrez | [Read More](https://medium.com/p/f9a43f149b01) |
 | Sun, 01 Feb 2026 21:57:19 GMT | Shift Left in Practice: SAST, DAST, and SCA with GitHub Actions | mjmarc.life | [Read More](https://medium.com/p/cb5539f31d04) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Feb 2026 14:56:27 GMT | Lab: Exploiting clickjacking vulnerability to trigger DOM-based XSS - Portswigger | L4V4NY4  AGR3 | [Read More](https://medium.com/p/6f00a036a296) |
 | Sun, 01 Feb 2026 14:55:40 GMT | Stop Watching OpenClaw Install Tutorials — This Is How You Actually Tame It | Shane Collins | [Read More](https://medium.com/p/f3416f5d80bc) |
 | Sun, 01 Feb 2026 14:55:22 GMT | OpenClaw: The AI Assistant You Need to Know About | Atima singh | [Read More](https://medium.com/p/37fda3eaf474) |
-| Sun, 01 Feb 2026 14:52:07 GMT | Ultimate guide to Osquery Injections | Shivam Bathla | [Read More](https://medium.com/p/bf4b9e3fa45e) |
