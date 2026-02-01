@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Feb 2026 17:46:57 GMT | The Surveillance Shift and STEAL. THE NEW WARFIELD,That No One Voted For. | The record shows | [Read More](https://medium.com/p/707b90b702b5) |
+| Sun, 01 Feb 2026 17:40:40 GMT | Phishing Email Analysis Report (BTL1) | RH | [Read More](https://medium.com/p/799fb406de3c) |
+| Sun, 01 Feb 2026 17:37:39 GMT | 2025 Crypto Hacks & Exploits Analysis: The Attack Surface is Moving Up the Stack | CipherBC | [Read More](https://medium.com/p/11a2cb41c917) |
+| Sun, 01 Feb 2026 17:36:03 GMT | Ethical Hacking, Information Security, and Kali Linux: A Complete Guide to Modern Cyber security | Alyanfaisal | [Read More](https://medium.com/p/6eacaf7faa82) |
+| Sun, 01 Feb 2026 17:35:49 GMT | [AD攻防]Unconstrained Delegation手法 | 陳禹璿 | [Read More](https://medium.com/p/33796ff6ffa1) |
+| Sun, 01 Feb 2026 17:33:28 GMT | Digging Secrets from RAM: A Memory Forensics Journey with MemLabs — Lab 1 | Amandogra | [Read More](https://medium.com/p/cc09d36cd8cc) |
+| Sun, 01 Feb 2026 17:31:42 GMT | Neighborhood Security Patrol in Dallas | US guard security company | [Read More](https://medium.com/p/294ef33b0591) |
 | Sun, 01 Feb 2026 17:12:56 GMT | Swimming with Sharks | Ps Patrickstarks | [Read More](https://medium.com/p/5950f3180f60) |
 | Sun, 01 Feb 2026 17:10:03 GMT | Which AI providers won’t train on your data? | JP Caparas | [Read More](https://medium.com/p/e38280ff9887) |
 | Sun, 01 Feb 2026 17:07:49 GMT | The Architecture of Anonymity: Investigating Privacy Coins in Criminal Activities | Satyam | [Read More](https://medium.com/p/f64757401397) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Feb 2026 11:12:35 GMT | PicThief:This is a tool built on Flask API, OCR (optical character recognition), and YOLO-based… | Мартин. | [Read More](https://medium.com/p/1463726ea93e) |
 | Sun, 01 Feb 2026 11:11:22 GMT | Mobile Device Security Guide for Journalists, Medics, Legal and Democratic Observers and Protestors | Jeffrey R Wells | [Read More](https://medium.com/p/c60568d11ad0) |
 | Sun, 01 Feb 2026 11:06:10 GMT | Poland Confirms Attack on Wind Farms and Solar Plants | Patrik Žák | [Read More](https://medium.com/p/89cc04650651) |
-| Sun, 01 Feb 2026 10:59:54 GMT | Bombs are lifelines, no guardians of national interests—this is a point that must be remembered. | Evan Sanorax | [Read More](https://medium.com/p/147a44819577) |
-| Sun, 01 Feb 2026 10:59:02 GMT | TryHackMe Challenge — Lo-Fi — LFI(Local File Inclusion) | Steven Estill Jr | [Read More](https://medium.com/p/48a65dbdafdf) |
-| Sun, 01 Feb 2026 10:56:36 GMT | From Frustration to Creation | Vaultio | [Read More](https://medium.com/p/cb64323c9c1c) |
-| Sun, 01 Feb 2026 10:49:02 GMT | Picking a Kubernetes Policy Engine Without Losing Your Mind | Sylvain Gibier | [Read More](https://medium.com/p/532853fd5e4e) |
-| Sun, 01 Feb 2026 10:43:33 GMT | Is Artificial Intelligence a Good Career in 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/6d6fdbf884e5) |
-| Sun, 01 Feb 2026 10:41:40 GMT | Ransomware Çağında Veri Nasıl Korunur? | Taha Altın | [Read More](https://medium.com/p/e49201994f14) |
-| Sun, 01 Feb 2026 10:39:23 GMT | AI Agent Security Alert: How Prompt Guard’s Five-Layer Defense Engine Stops Injection Attacks | Ewan Mak | [Read More](https://medium.com/p/5cc7b2c180d0) |
