@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Feb 2026 10:39:23 GMT | AI Agent Security Alert: How Prompt Guard’s Five-Layer Defense Engine Stops Injection Attacks | Ewan Mak | [Read More](https://medium.com/p/5cc7b2c180d0) |
+| Sun, 01 Feb 2026 10:39:07 GMT | Ransomware Çağında Veri Nasıl Korunur? | Taha Altın | [Read More](https://medium.com/p/a2c14be169a8) |
+| Sun, 01 Feb 2026 10:38:39 GMT | Galaxy Dash (Medium difficulty) writeup (BugForge) | 7s26Simon | [Read More](https://medium.com/p/e19f60065216) |
+| Sun, 01 Feb 2026 10:31:25 GMT | THE NETWORK GUARDIAN: THE SECURITY ANALYST IN THE SOC | Raphaam Digital (Cyber Security Updates) | [Read More](https://medium.com/p/c4d959348ce8) |
+| Sun, 01 Feb 2026 10:24:46 GMT | MAYBE IN ANOTHER UNIVERSE | Papertrails | [Read More](https://medium.com/p/ad19f859523d) |
 | Sun, 01 Feb 2026 10:24:42 GMT | CafeClub writeup (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/afb70036c9af) |
 | Sun, 01 Feb 2026 10:19:26 GMT | Security Alert: Anomalies Detected in DLDJ Exchange’s Data Feed | MayaKovic | [Read More](https://medium.com/p/8105d760ee42) |
+| Sun, 01 Feb 2026 10:19:02 GMT | Why I Still Prefer Building Custom PHP Solutions from Scratch in 2026 | Asadullah | [Read More](https://medium.com/p/bd6ab147dde5) |
 | Sun, 01 Feb 2026 10:17:55 GMT | The Reality of Countermeasures in SCADA / OT Security: | Fatma Erturk | [Read More](https://medium.com/p/eeeeec0a600e) |
 | Sun, 01 Feb 2026 10:14:27 GMT | The “Ctoph Exchange” Trap: Anatomy of a Liquidity Vacuum | Sterling Vance | [Read More](https://medium.com/p/8eafd4c82fe0) |
 | Sun, 01 Feb 2026 10:04:14 GMT | Cybersecurity Is a Business Risk — Not Just an IT Problem | Astra Global Consulting | [Read More](https://medium.com/p/e2a48e1f2007) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 31 Jan 2026 22:53:11 GMT | The Sovereign AI Security Crisis: 42,000+ Exposed OpenClaw Instances and the Collapse of… | Maor Dayan - מאור דיין | [Read More](https://medium.com/p/1e3f2687b951) |
 | Sat, 31 Jan 2026 22:34:42 GMT | Android Runs ELF Files: Everything Else Is Just Layers | Zahid | [Read More](https://medium.com/p/dad1aa5c7e85) |
 | Sat, 31 Jan 2026 22:29:50 GMT | Why StarRocks Is Better Than ClickHouse for Data Analytics in Cybersecurity | IndoMITability | [Read More](https://medium.com/p/2f02548111fd) |
-| Sat, 31 Jan 2026 22:27:06 GMT | How I Built a Free Crypto Scam Detector Using Cloudflare Workers | Teycir | [Read More](https://medium.com/p/ef80079d33eb) |
-| Sat, 31 Jan 2026 22:19:47 GMT | When MFA Lockouts Aren’t Attacks | Kaleem Khan | [Read More](https://medium.com/p/6aaed7f20348) |
-| Sat, 31 Jan 2026 22:14:50 GMT | CTF Write-up : Reduced Collisions | SPIDER1SEC | [Read More](https://medium.com/p/9373e48adc75) |
-| Sat, 31 Jan 2026 22:11:36 GMT | SOAR This SOAR That: Everyone is talking about Automation. No One Does It. | Serhan Eraslan | [Read More](https://medium.com/p/a578dc0a791e) |
-| Sat, 31 Jan 2026 22:10:44 GMT | Installing pfSense on VMware: A Complete Step-by-Step Guide | Augustine Sito | [Read More](https://medium.com/p/cf3519331d49) |
-| Sat, 31 Jan 2026 22:03:56 GMT | Why Network Security Is No Longer Just About Defense | Shahzad Ayub | [Read More](https://medium.com/p/1841581c2561) |
