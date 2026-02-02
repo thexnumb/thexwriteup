@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Feb 2026 17:35:12 GMT | Beyond the Blacklist: Using AI to Automate Advanced Filter Evasion in Time-Based SQLi | Threat Hunter | [Read More](https://medium.com/p/28dafe700686) |
+| Mon, 02 Feb 2026 17:27:05 GMT | AWS Security Logging - Tryhackme | Aaron | [Read More](https://medium.com/p/bf82d51857fe) |
+| Mon, 02 Feb 2026 17:26:25 GMT | Beyond the Blacklist: Using AI to Automate Advanced Filter Evasion in Time-Based SQLi | ch1k3n | [Read More](https://medium.com/p/d4189bbc96ed) |
+| Mon, 02 Feb 2026 17:16:13 GMT | Demystifying the C Language — Day 2: | Bazil Brohi | [Read More](https://medium.com/p/882730257d9f) |
+| Mon, 02 Feb 2026 17:15:43 GMT | Baby-Cached WriteUp HTB | Arturo Melgarejo | [Read More](https://medium.com/p/7e9245625ef2) |
+| Mon, 02 Feb 2026 17:14:19 GMT | Free Session: The Psychology of Passwords — Tomorrow 2/3/26 | Karl Buhl | [Read More](https://medium.com/p/025e693d6185) |
+| Mon, 02 Feb 2026 17:10:02 GMT | AI Gateway: The foundation layer for an Enterprise AI Platform | Anish Kumar Anal | [Read More](https://medium.com/p/8828ee67edfe) |
+| Mon, 02 Feb 2026 17:01:02 GMT | Criminals are using Stingrays to target law enforcement, and the FBI is clueless | Samuel Brice | [Read More](https://medium.com/p/d45a26d0ebac) |
+| Mon, 02 Feb 2026 17:00:34 GMT | Risk Registers Don’t Protect Businesses — Decisions Do | Raman | [Read More](https://medium.com/p/1ad74d1018a7) |
+| Mon, 02 Feb 2026 16:59:21 GMT | Cyber Resilience Act (CRA): What Should Manufacturers Do by 11 September 2026? | Dr. Guillaume Dupont | [Read More](https://medium.com/p/6cd52da2c746) |
+| Mon, 02 Feb 2026 16:58:02 GMT | Why Transparency Is the Future of Security Services | Teona | [Read More](https://medium.com/p/49c0ad2c77e3) |
+| Mon, 02 Feb 2026 16:57:47 GMT | Day 8: Intro to Python (Cybersecurity Python) | Mohammad-AL-Momani | [Read More](https://medium.com/p/4bf844341040) |
 | Mon, 02 Feb 2026 16:50:32 GMT | Microsoft Sentinel’s Biggest Weakness | Taylor Gehrlein | [Read More](https://medium.com/p/f08f6f2b21e5) |
 | Mon, 02 Feb 2026 16:48:38 GMT | Top 3 Telegram OSINT Tools: A Practical Guide For Your Investigations | Veyron92i | [Read More](https://medium.com/p/eb6c2a37063c) |
 | Mon, 02 Feb 2026 16:47:51 GMT | We Gave the Keys to the House to a Probabilistic Stranger | Rajesh Devadasan | [Read More](https://medium.com/p/81bbdaca376d) |
@@ -22,9 +34,11 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Feb 2026 16:40:31 GMT | IT Governance Is a Business Discipline, Not an IT Function | Raman | [Read More](https://medium.com/p/97be70233425) |
 | Mon, 02 Feb 2026 16:39:30 GMT | If You Arrest Your Penetration Testers, You’re Already Breached | Len Noe | [Read More](https://medium.com/p/681237a4791b) |
 | Mon, 02 Feb 2026 16:36:21 GMT | Sock Puppet: Hidden Online Identities (Ethical & Learning Perspective) | Amandogra | [Read More](https://medium.com/p/d2b237363742) |
+| Mon, 02 Feb 2026 16:35:39 GMT | What You Should Know About Cyber Risks Before Your Next Board Meeting | Cordula Boeck | [Read More](https://medium.com/p/ec15e534301c) |
 | Mon, 02 Feb 2026 16:33:34 GMT | The Role of Technology in Security Systems | Alex Bryn | [Read More](https://medium.com/p/c87ce47a3791) |
 | Mon, 02 Feb 2026 16:33:19 GMT | picoCTF : First Grep | Sahara | [Read More](https://medium.com/p/3b4f80b6725b) |
 | Mon, 02 Feb 2026 16:12:00 GMT | The Feature Was Disabled — The Backend Didn’t Get the Memo | Iski | [Read More](https://medium.com/p/e17fdf1087ec) |
+| Mon, 02 Feb 2026 16:04:34 GMT | ODUSEC (Ordu University Cyber Security Club) — WinterBytes Camp- ODU-SIM-CONTROLLER Pentest… | Sarp A. A. | [Read More](https://medium.com/p/ed5af0b30df9) |
 | Mon, 02 Feb 2026 16:02:42 GMT | Why Apple Support Shouldn’t Live With One Person on Your Help Desk | Drew Smith | [Read More](https://medium.com/p/19e5e1c10fe9) |
 | Mon, 02 Feb 2026 16:01:03 GMT | The Day I Removed All Secrets from My Code: A Lesson in Cloud Security | Eric Rodríguez Pacheco | [Read More](https://medium.com/p/dd6959f8a141) |
 | Mon, 02 Feb 2026 16:01:03 GMT | The Node.js Dependency Diet That Actually Works | Vectorlane | [Read More](https://medium.com/p/347c2c71a7f9) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Feb 2026 12:35:18 GMT | Best Summer Training in Lucknow for IT Students (2026 Complete Guide) — SkillManthan Technologies… | SkillManthan Technologies Pvt. Ltd. | [Read More](https://medium.com/p/bd5ed0e083b0) |
 | Mon, 02 Feb 2026 12:32:24 GMT | Cheesy Does It writeup (BugForge) | 7s26Simon | [Read More](https://medium.com/p/70eca5f40dcf) |
 | Mon, 02 Feb 2026 12:30:12 GMT | Ubuntu 24.04 ve RHEL Üzerinde Offline MongoDB Upgrade Rehberi | Berkay Yerbasan | [Read More](https://medium.com/p/1373594d0dba) |
-| Mon, 02 Feb 2026 12:28:52 GMT | Legacy, Security & Zero-Day: Why Your System Is Already Vulnerable (You Just Don’t Know It Yet) | zakaria fahraoui | [Read More](https://medium.com/p/801b02475e21) |
-| Mon, 02 Feb 2026 12:27:18 GMT | Privilege Escalation Is Everything: 12 Real-World Chains That Lead to Full Account Takeover | Krish_cyber | [Read More](https://medium.com/p/1edea063a055) |
-| Mon, 02 Feb 2026 12:23:30 GMT | What are streams, and how to use them to build reliable backend systems. | Gaurav Kumar | [Read More](https://medium.com/p/7a1b3e583305) |
-| Mon, 02 Feb 2026 12:20:58 GMT | Surfshark is the best VPN provider for my needs. Here is why… | Daniyar Kuanyshev | [Read More](https://medium.com/p/463d528223b9) |
-| Mon, 02 Feb 2026 12:17:15 GMT | How Threat Actors Establish Persistence After Initial Access: A Threat Intelligence Case Study | Varshaveeraghanta | [Read More](https://medium.com/p/67b82364d391) |
-| Mon, 02 Feb 2026 12:06:01 GMT | The 2026 Cybersecurity Landscape | venkatesh ram | [Read More](https://medium.com/p/09876fb04339) |
-| Mon, 02 Feb 2026 12:01:02 GMT | Understanding CWE-603: Use of Client-Side Authentication | Walter Moar | [Read More](https://medium.com/p/60804de274c6) |
-| Mon, 02 Feb 2026 12:01:02 GMT | Choosing the Right Backup Storage | Emily Chan | [Read More](https://medium.com/p/38b468720358) |
-| Mon, 02 Feb 2026 11:59:59 GMT | El cashback está en el aire | WhiteBIT | [Read More](https://medium.com/p/e2fd7be2cbd3) |
-| Mon, 02 Feb 2026 11:35:05 GMT | What is ESTROLABS? | ESTROLABS | [Read More](https://medium.com/p/746b31596b7b) |
-| Mon, 02 Feb 2026 11:31:59 GMT | Moltbook: Watching the Compressed History of Civilization Unfold in Real Time | Mohammad hadi keshavarzi | [Read More](https://medium.com/p/fe3e4be03eec) |
-| Mon, 02 Feb 2026 11:31:40 GMT | Is It Okay to Give Your Password to Someone Close to You? | Adrian Labisores | [Read More](https://medium.com/p/a358400f4ae5) |
-| Mon, 02 Feb 2026 11:28:25 GMT | The Jarvis Problem and Why I Almost Deleted OpenClaw After 48 Hours | Volture Luxe | [Read More](https://medium.com/p/31a0c37fdef1) |
-| Mon, 02 Feb 2026 11:26:16 GMT | CRYPTOCURRENCY RECOVERY EXPERT HIRE TECHY FORCE CYBER RETRIEVAL | Christouparis | [Read More](https://medium.com/p/55c5c3f14540) |
