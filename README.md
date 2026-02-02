@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Feb 2026 23:22:23 GMT | AI Agents Now Have Their Own Reddit Style Social Network and It’s Getting Weird Fast | Ashraf rauf | [Read More](https://medium.com/p/6f8e6d8c7881) |
+| Mon, 02 Feb 2026 23:11:45 GMT | Building Strong Cybersecurity Foundations: What I Learned from TryHackMe’s Cybersecurity… | sree | [Read More](https://medium.com/p/5acc18d5418c) |
+| Mon, 02 Feb 2026 23:09:04 GMT | Raspberry Pi 5 vs. Orange Pi 5 Which SBC Wins for Pentesting? | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/1b10533e2c8b) |
+| Mon, 02 Feb 2026 23:01:03 GMT | Reverse proxy deployed on FedEx Corporate network bypasses YubiKey FIDO MFA | Samuel Brice | [Read More](https://medium.com/p/93892201602f) |
+| Mon, 02 Feb 2026 23:01:03 GMT | Choosing Your First Tech Stack as a Beginner | Miss Tarus | [Read More](https://medium.com/p/6ad13676acb9) |
 | Mon, 02 Feb 2026 22:56:04 GMT | “Learning Web Application Security the Right Way: My Hands-On Journey Through OWASP Top 10” | sree | [Read More](https://medium.com/p/8c1df73aa67c) |
 | Mon, 02 Feb 2026 22:50:44 GMT | Why I Built HunterX: A Different Way to Do Red Teaming | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/23d86aa88926) |
 | Mon, 02 Feb 2026 22:50:13 GMT | Acheron: Indirect Syscalls in Go Done Right | Yua Mikanana | [Read More](https://medium.com/p/ed20e1631366) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Feb 2026 14:54:58 GMT | Why Zero Trust Is Failing Without Identity Governance | Sunnysinha | [Read More](https://medium.com/p/ad10b4540fa4) |
 | Mon, 02 Feb 2026 14:53:27 GMT | The Inevitability of Semantic Leakage: Why “Safe” Image Embeddings Were Never Really Safe | Berend Watchus | [Read More](https://medium.com/p/ef4bac7c94ab) |
 | Mon, 02 Feb 2026 14:50:42 GMT | The Linux Guide I Wish I Had (It’s Free on GitHub) | Ayush Gharat | [Read More](https://medium.com/p/43b14fc30bdd) |
-| Mon, 02 Feb 2026 14:49:46 GMT | What a SOC-Ready ELK Stack Looks Like on GCP’s $300 Free Tier? | Edson | [Read More](https://medium.com/p/f37892aba923) |
-| Mon, 02 Feb 2026 14:43:57 GMT | ️ Building and Testing a SOC Lab: My SoluTech Network Security Capstone | Madu Nelson Izunna | [Read More](https://medium.com/p/cd0df307a4f9) |
-| Mon, 02 Feb 2026 14:37:49 GMT | Password Change Didn’t Log Me Out — A Bug Bounty Finding | Captain Rogers | [Read More](https://medium.com/p/4498359bfb46) |
-| Mon, 02 Feb 2026 14:37:42 GMT | Building an AI-Powered Company | Ascendion | [Read More](https://medium.com/p/bd9a278c8e36) |
-| Mon, 02 Feb 2026 14:33:34 GMT | CVE-2024–3400 PAN-OS: Arbitrary File Creation Leads to OS Command Injection Vulnerability in… | CipherX9F Security | [Read More](https://medium.com/p/28ab8840639e) |
