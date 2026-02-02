@@ -12,7 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Feb 2026 16:50:32 GMT | Microsoft Sentinel’s Biggest Weakness | Taylor Gehrlein | [Read More](https://medium.com/p/f08f6f2b21e5) |
+| Mon, 02 Feb 2026 16:48:38 GMT | Top 3 Telegram OSINT Tools: A Practical Guide For Your Investigations | Veyron92i | [Read More](https://medium.com/p/eb6c2a37063c) |
+| Mon, 02 Feb 2026 16:47:51 GMT | We Gave the Keys to the House to a Probabilistic Stranger | Rajesh Devadasan | [Read More](https://medium.com/p/81bbdaca376d) |
+| Mon, 02 Feb 2026 16:46:04 GMT | Drupal 7 Exploitation Walkthrough (Drupageddon2) - Full Recon → Initial Access | Alfykannoth | [Read More](https://medium.com/p/300b80afd547) |
+| Mon, 02 Feb 2026 16:43:59 GMT | Shift-Left Security Explained: Catching Issues Before Production | SwayamOps | [Read More](https://medium.com/p/ee1240919877) |
+| Mon, 02 Feb 2026 16:42:44 GMT | Assessing Floors for Heavy Safe Installations - SLK | Sure Lock & Key LLC | [Read More](https://medium.com/p/bc19a505a6df) |
+| Mon, 02 Feb 2026 16:41:32 GMT | TryHackMe ShadowTrace Walkthrough: Malware Analysis and IOC Extraction | Citadel Cybersec | [Read More](https://medium.com/p/4cdf9057f4b3) |
+| Mon, 02 Feb 2026 16:40:31 GMT | IT Governance Is a Business Discipline, Not an IT Function | Raman | [Read More](https://medium.com/p/97be70233425) |
+| Mon, 02 Feb 2026 16:39:30 GMT | If You Arrest Your Penetration Testers, You’re Already Breached | Len Noe | [Read More](https://medium.com/p/681237a4791b) |
+| Mon, 02 Feb 2026 16:36:21 GMT | Sock Puppet: Hidden Online Identities (Ethical & Learning Perspective) | Amandogra | [Read More](https://medium.com/p/d2b237363742) |
+| Mon, 02 Feb 2026 16:33:34 GMT | The Role of Technology in Security Systems | Alex Bryn | [Read More](https://medium.com/p/c87ce47a3791) |
+| Mon, 02 Feb 2026 16:33:19 GMT | picoCTF : First Grep | Sahara | [Read More](https://medium.com/p/3b4f80b6725b) |
+| Mon, 02 Feb 2026 16:12:00 GMT | The Feature Was Disabled — The Backend Didn’t Get the Memo | Iski | [Read More](https://medium.com/p/e17fdf1087ec) |
+| Mon, 02 Feb 2026 16:02:42 GMT | Why Apple Support Shouldn’t Live With One Person on Your Help Desk | Drew Smith | [Read More](https://medium.com/p/19e5e1c10fe9) |
+| Mon, 02 Feb 2026 16:01:03 GMT | The Day I Removed All Secrets from My Code: A Lesson in Cloud Security | Eric Rodríguez Pacheco | [Read More](https://medium.com/p/dd6959f8a141) |
+| Mon, 02 Feb 2026 16:01:03 GMT | The Node.js Dependency Diet That Actually Works | Vectorlane | [Read More](https://medium.com/p/347c2c71a7f9) |
+| Mon, 02 Feb 2026 16:00:38 GMT | Moltbook Just Shipped an Identity Nightmare | Oscar Antonangelo | [Read More](https://medium.com/p/160c53c4adf9) |
+| Mon, 02 Feb 2026 15:59:43 GMT | DEFUND ISRAEL? I DARE YOU. | Pat604Johnson | [Read More](https://medium.com/p/b97b225b6645) |
 | Mon, 02 Feb 2026 15:51:52 GMT | Monday Blues for Hackers: How Rainbow Secure Turns Credentials into Visual Identity Signals | Dr. Shashi Karhail | [Read More](https://medium.com/p/7749262e18e1) |
+| Mon, 02 Feb 2026 15:49:00 GMT | Building a Hardened AI Agent: How I Locked Down MoltBot | David Nestoff | [Read More](https://medium.com/p/7edb3b850487) |
 | Mon, 02 Feb 2026 15:47:37 GMT | You Are Running Clawdbot Wrong (And It’s About to Cost You Everything) | Adham Khaled | [Read More](https://medium.com/p/c24521eeddcf) |
 | Mon, 02 Feb 2026 15:44:54 GMT | Pass-the-Hash Attacks: Why They’re Still a Big Deal | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/8f69f8bdd077) |
 | Mon, 02 Feb 2026 15:41:34 GMT | 5yno1nc: A “Backdoor Key” Exposes 9.2 Million Synology NAS Devices Worldwide | Мартин. | [Read More](https://medium.com/p/0043ff3be391) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Feb 2026 11:31:40 GMT | Is It Okay to Give Your Password to Someone Close to You? | Adrian Labisores | [Read More](https://medium.com/p/a358400f4ae5) |
 | Mon, 02 Feb 2026 11:28:25 GMT | The Jarvis Problem and Why I Almost Deleted OpenClaw After 48 Hours | Volture Luxe | [Read More](https://medium.com/p/31a0c37fdef1) |
 | Mon, 02 Feb 2026 11:26:16 GMT | CRYPTOCURRENCY RECOVERY EXPERT HIRE TECHY FORCE CYBER RETRIEVAL | Christouparis | [Read More](https://medium.com/p/55c5c3f14540) |
-| Mon, 02 Feb 2026 11:18:47 GMT | CSA XCON 2026: A Collective Step Toward a More Secure Digital Future | Deepak Sharma | [Read More](https://medium.com/p/8ec3a60e8b03) |
-| Mon, 02 Feb 2026 11:05:42 GMT | Stop Hashing Passwords: A Practical Step-by-Step Passkey Tutorial | Alain Airom (Ayrom) | [Read More](https://medium.com/p/d2e5d9f53512) |
-| Mon, 02 Feb 2026 11:04:38 GMT | The “New Login” Alert People Ignore on Purpose | Vikas Singh Panwar | [Read More](https://medium.com/p/56c08ee20048) |
-| Mon, 02 Feb 2026 11:04:15 GMT | Why Cyber Security Skills Are in Demand | solitaire projects | [Read More](https://medium.com/p/d85583b85e5f) |
-| Mon, 02 Feb 2026 11:03:58 GMT | Source (TryHackMe) — Walkthrough | Roshan Rajbanshi | [Read More](https://medium.com/p/30f8dc946861) |
-| Mon, 02 Feb 2026 11:01:02 GMT | The Anatomy of a Modern Dev-Scam: How I Caught a Malware Stealer in 4K | freerave | [Read More](https://medium.com/p/1236588aebc9) |
-| Mon, 02 Feb 2026 10:57:22 GMT | DevSecOps in 2026: Why Shifting SecurSecurity isn’t a post-deployment checkbox anymore. | inboryn | [Read More](https://medium.com/p/c6885fadb68b) |
-| Mon, 02 Feb 2026 10:55:47 GMT | What are Managed Cybersecurity Services in India - MSSP Provider | Thiripathiv | [Read More](https://medium.com/p/32f082b72a7e) |
-| Mon, 02 Feb 2026 10:53:45 GMT | One Dashboard for Employees, Customers, and Vendors: How Teams Use LeakRadar | Alexandre Vandamme | [Read More](https://medium.com/p/c80b0637feb4) |
-| Mon, 02 Feb 2026 10:48:02 GMT | The Trojan Horse in Your IDE: How a Fake AI Coding Assistant Hijacked 300,000+ Developer Machines | Faisal haque | [Read More](https://medium.com/p/5946a66502b3) |
-| Mon, 02 Feb 2026 10:42:29 GMT | Dear AI | BitFlippa | [Read More](https://medium.com/p/f15f3464e45e) |
-| Mon, 02 Feb 2026 10:39:05 GMT | How to Protect LLM Applications Using Layered Runtime Security | Sanskar Maheshwari | [Read More](https://medium.com/p/7ee9c891ba8e) |
-| Mon, 02 Feb 2026 10:38:53 GMT | What is SSH? | Vpshosting | [Read More](https://medium.com/p/9d4bc4dd37d0) |
-| Mon, 02 Feb 2026 10:36:46 GMT | Would I Recommend You to Get the Google Cybersecurity Certificate? – A Strong Yes | Mohamed dahir | [Read More](https://medium.com/p/70993df02c6e) |
-| Mon, 02 Feb 2026 10:36:23 GMT | Top 8 Benefits of Hiring Professional Armed Security Officers | TCS Security | [Read More](https://medium.com/p/6e065c062dee) |
-| Mon, 02 Feb 2026 10:35:50 GMT | Enhance Email Delivery with AtomEmailPro: Meeting New Sender Standards | SuSocialPro | [Read More](https://medium.com/p/66aa945b7916) |
-| Mon, 02 Feb 2026 10:28:45 GMT | Data Security in the Age of AI: The Most Critical Trends for CTOs in 2026 | Berk Behcet Gerek | [Read More](https://medium.com/p/29583305c950) |
-| Mon, 02 Feb 2026 10:26:01 GMT | Designing Secure Chat Applications with End-to-End Encryption in React and TypeScript | Piranaavei Beremkumar | [Read More](https://medium.com/p/850c82181950) |
-| Mon, 02 Feb 2026 10:23:14 GMT | Total Security Solutions: The Strategic Role of Professional Security Consultancy | Ciss India | [Read More](https://medium.com/p/842daf430642) |
