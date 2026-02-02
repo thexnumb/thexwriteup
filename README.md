@@ -12,6 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Feb 2026 07:30:43 GMT | Part 3: OAuth vs OpenID Connect — Why Confusing Them Breaks Real Systems | Dilanka Muthukumarana | [Read More](https://medium.com/p/f0aaeb06fe94) |
+| Mon, 02 Feb 2026 07:30:11 GMT | One Token to Rule Them All: Persistent MFA Bypass via Trusted Client Abuse | Bavly Zaher | [Read More](https://medium.com/p/620c2ffe2998) |
+| Mon, 02 Feb 2026 07:27:05 GMT | What Learning API Security Taught Me About Building Systems for the Real World | Oluwatobiloba Mercy Akinwunmi | [Read More](https://medium.com/p/836d364042b2) |
+| Mon, 02 Feb 2026 07:26:14 GMT | How NOC Visibility Reduces Security and Operational Risks | Gavin Ellis | [Read More](https://medium.com/p/2dbb55b8128f) |
+| Mon, 02 Feb 2026 07:22:24 GMT | How a Sophisticated Job Scam Almost Got Me (and How to Spot the Red Flags) | Masum Kazi | [Read More](https://medium.com/p/a5c4c939b3c1) |
+| Mon, 02 Feb 2026 07:09:38 GMT | The Role of Information Systems Auditors in Cybersecurity | Irfan Sharief | [Read More](https://medium.com/p/805468a233c9) |
+| Mon, 02 Feb 2026 07:04:37 GMT | The Evolution of NDR: How Networks Became the First Line of Defense | NetWitness | [Read More](https://medium.com/p/a149936afb5a) |
+| Mon, 02 Feb 2026 07:04:07 GMT | How to Check Open, Closed, or In-Use TCP Ports on Linux | Smit Pipaliya | [Read More](https://medium.com/p/88490624fd3c) |
+| Mon, 02 Feb 2026 07:03:40 GMT | DogCat - TryHackMe Walkthrough | Dhruv | [Read More](https://medium.com/p/f72074e550a3) |
+| Mon, 02 Feb 2026 07:01:25 GMT | Clickjacking 2025: 10 Tools Showing Real Impact (with Practical Guides) | Very Lazy Tech | [Read More](https://medium.com/p/4e28741f0e51) |
+| Mon, 02 Feb 2026 07:01:03 GMT | Network Traffic Analysis: Detecting Phorpiex C2 and P2P Communications | Pavol Kluka | [Read More](https://medium.com/p/4188d14c3471) |
+| Mon, 02 Feb 2026 07:01:03 GMT | CySA+ — Assumption Trap: Visibility & Evidence Assumptions | the CyberStoic | [Read More](https://medium.com/p/6172ee1bef14) |
+| Mon, 02 Feb 2026 06:59:56 GMT | Cybersecurity Consulting Services Designed to Turn Insights Into Protection | GAM Information Systems Inc | [Read More](https://medium.com/p/7a08c10390fa) |
+| Mon, 02 Feb 2026 06:57:04 GMT | Chrysallis of heart -#3 An Embarrassing Lot | Laasya Kannepalli | [Read More](https://medium.com/p/6dbb3cc49c98) |
+| Mon, 02 Feb 2026 06:55:39 GMT | Detection Engineering: The Skill Nobody Teaches You | Paritosh | [Read More](https://medium.com/p/bb6fe0bc7c17) |
+| Mon, 02 Feb 2026 06:52:01 GMT | Race Condition Zafiyeti | Zekikayaalp | [Read More](https://medium.com/p/a4af85deabef) |
+| Mon, 02 Feb 2026 06:50:20 GMT | The $50k Bill AND a Data Breach: A Startup’s Nightmare (And How to Prevent Both) | Naga Satish | [Read More](https://medium.com/p/806090d14c82) |
+| Mon, 02 Feb 2026 06:46:33 GMT | Things I Googled as a Beginner That Make Me Laugh Now | Fateyaly | [Read More](https://medium.com/p/fdfa25dbb9dd) |
+| Mon, 02 Feb 2026 06:37:22 GMT | CrossCurve DeFi Exploit: $3M Cross-Chain Bridge Hack Raises Security Concerns | Casi Borg | [Read More](https://medium.com/p/5f03aa4f47de) |
+| Mon, 02 Feb 2026 06:37:07 GMT | Malware Development — 2 (DLL Injection) | 0r | [Read More](https://medium.com/p/7b1eef046099) |
+| Mon, 02 Feb 2026 06:34:44 GMT | How do I recover scammed cryptocurrency? | JulioAlbaradoo | [Read More](https://medium.com/p/d9470ec7b422) |
+| Mon, 02 Feb 2026 06:34:21 GMT | Securing API Keys in Browser Extensions: The Offscreen Document Pattern | Mihir Kumar | [Read More](https://medium.com/p/4378e58fab0f) |
+| Mon, 02 Feb 2026 06:22:18 GMT | Privilege Escalation: Understanding Access Rights Escalation in System Security Analysis | Habibi | [Read More](https://medium.com/p/d4c9d0323917) |
+| Mon, 02 Feb 2026 06:09:28 GMT | JUST | JQZAX | [Read More](https://medium.com/p/79f90a5a9e5b) |
+| Mon, 02 Feb 2026 06:01:01 GMT | Why Buying More Security Tools Doesn’t Automatically Make You Safer | Hazel Chirinda | [Read More](https://medium.com/p/77a94802bb65) |
 | Mon, 02 Feb 2026 06:00:40 GMT | Understanding ffuf: It’s Not About Finding Answers, It’s About Spotting Differences | BotsiCat | [Read More](https://medium.com/p/71051adf2804) |
 | Mon, 02 Feb 2026 05:54:31 GMT | I Reviewed 1,000 Lines of Code — The Bug Was in Line 3 | Himanshu Singh | [Read More](https://medium.com/p/49523b7c68c3) |
 | Mon, 02 Feb 2026 05:46:58 GMT | Lattice Crypto and Lineage of Butterfly Operations | Gokul B Alex | [Read More](https://medium.com/p/15f589ab6c5c) |
@@ -29,6 +54,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Feb 2026 04:41:16 GMT | Video Surveillance as a Service (VSaaS): The Cloud Shift Redefining Enterprise Security | VMukti Solutions | [Read More](https://medium.com/p/72c27518cbf9) |
 | Mon, 02 Feb 2026 04:41:01 GMT | Rate Limiting for Beginners: Why It’s Needed and How It Works | Khushi_developer | [Read More](https://medium.com/p/23549944b943) |
 | Mon, 02 Feb 2026 04:39:02 GMT | The OpenClaw & Moltbook Disaster: When Agentic AI Leaves the Front Door Wide Open | Mandar Karhade, MD. PhD. | [Read More](https://medium.com/p/44eb7f1432e4) |
+| Mon, 02 Feb 2026 04:35:41 GMT | Deploying military veterans into ungoverned spaces — The Nation Newspaper | Lekan Olayiwola | [Read More](https://medium.com/p/89e1a6952b0e) |
 | Mon, 02 Feb 2026 04:31:03 GMT | OAuth 2.0 Explained: A Beginner-Friendly Guide | Hasan Chinthaka | [Read More](https://medium.com/p/2d083c8a80a2) |
 | Mon, 02 Feb 2026 04:31:03 GMT | Union Budget 2026: What it means for Technology, AI and Cybersecurity | Zeron | [Read More](https://medium.com/p/906be6e9a0e9) |
 | Mon, 02 Feb 2026 04:28:47 GMT | Zero Trust in Cybersecurity Sounds So Cool, but the Failure Rate Is Around 75%! | David SEHYEON Baek | [Read More](https://medium.com/p/3abb243a8c9b) |
@@ -86,29 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Feb 2026 21:26:20 GMT | Meet ReVex: The Cyberpunk HTTP Repeater that lives in your DevTools ☠ | medjahdi | [Read More](https://medium.com/p/4f648c8659e7) |
 | Sun, 01 Feb 2026 21:23:12 GMT | What I’m Building Here (And Why You Might Want to Stick Around) | Sam Writes Security | [Read More](https://medium.com/p/5982c757bcb4) |
 | Sun, 01 Feb 2026 21:15:45 GMT | The Cardinal Sins I Keep Seeing in Active Directory | Aaronashley | [Read More](https://medium.com/p/29727d41279e) |
-| Sun, 01 Feb 2026 21:13:43 GMT | awsmap — Find Everything Running in Your AWS Account | Tarek CHEIKH | [Read More](https://medium.com/p/3294c5326baa) |
-| Sun, 01 Feb 2026 21:06:59 GMT | Learning Cybersecurity Is Easy — Thinking Like an Attacker Is the Hard Part | Liam | [Read More](https://medium.com/p/952b843b9c0d) |
-| Sun, 01 Feb 2026 21:01:12 GMT | Security BSides 2026: Segurança, hacking e comunidade. | Terraforming AWS Security!‍️ | [Read More](https://medium.com/p/d89ff54b687f) |
-| Sun, 01 Feb 2026 20:59:43 GMT | Introduction to Network | Umid Nagiyev | [Read More](https://medium.com/p/6cf280c68a11) |
-| Sun, 01 Feb 2026 20:41:50 GMT | AI Safety Theater: Why Treating Adults Like Children Makes Everyone Less Safe | Expert | [Read More](https://medium.com/p/805d8370df0e) |
-| Sun, 01 Feb 2026 20:39:44 GMT | Servidores inmutables: seguridad y repetibilidad todo en uno | Sergio Rua | [Read More](https://medium.com/p/ee057478edff) |
-| Sun, 01 Feb 2026 20:38:05 GMT | Understanding the Network Tab in Browser DevTools (For Cybersecurity, CTFs, and Bug Bounties) | Bridget | [Read More](https://medium.com/p/c1208d87b265) |
-| Sun, 01 Feb 2026 20:19:45 GMT | The Conscientious Cloud Engineer | Kamlesh Shah | [Read More](https://medium.com/p/79784d70746d) |
-| Sun, 01 Feb 2026 20:16:13 GMT | Facts HTB writeup | Aaltobelli | [Read More](https://medium.com/p/908155103f91) |
-| Sun, 01 Feb 2026 20:03:26 GMT | The Hidden Dangers Lurking in Your Network: Why Cybersecurity Audits Are Non-Negotiable | Kingsley Ekenedirichukwu Okafor | [Read More](https://medium.com/p/3c123aef2f98) |
-| Sun, 01 Feb 2026 20:03:22 GMT | Reverse Proxy Nedir ve “Ben Robot Değilim” Kutucuğu Nasıl Çalışır? | Arda Derya | [Read More](https://medium.com/p/2475777b38cf) |
-| Sun, 01 Feb 2026 20:01:54 GMT | NetFlow Nedir? Şirketler İnternete Çıkışları Nasıl Takip Eder? | Arda Derya | [Read More](https://medium.com/p/b77345790b61) |
-| Sun, 01 Feb 2026 19:49:22 GMT | Güvenli Olan Sessizdir: Kerberos Susar, NTLM Anlatır | Yunus Emre Pak | [Read More](https://medium.com/p/a6f1e738ec79) |
-| Sun, 01 Feb 2026 19:45:25 GMT | Blue Team Perspective: The Art of Visibility | Gokhan Can | [Read More](https://medium.com/p/3bfb588d3204) |
-| Sun, 01 Feb 2026 19:40:43 GMT | TheHackersLabs — Ipeuveseis [Write-Up] | APS88 | [Read More](https://medium.com/p/05dce3a3cca2) |
-| Sun, 01 Feb 2026 19:38:19 GMT | Farewell — Premium Room TryHackMe Write-Up - Auth Bypass, XSS & Admin Access | Contact Aryan Here | [Read More](https://medium.com/p/47c487e2552c) |
-| Sun, 01 Feb 2026 19:30:46 GMT | How Can Alertable Threads and APC Abuse Lead to System Crash | Abhijit Laxman Shirwal | [Read More](https://medium.com/p/1b611216a56a) |
-| Sun, 01 Feb 2026 19:28:47 GMT | Secure Use of GitHub — CIS-Aligned Technical Guide — Part V | SOCFortress | [Read More](https://medium.com/p/d231e5e77742) |
-| Sun, 01 Feb 2026 19:11:01 GMT | “Your Relative Met with a Road Accident. Please Check WhatsApp Image”. | Author Peter, MBA ,LL.M | [Read More](https://medium.com/p/92b96cb2ae83) |
-| Sun, 01 Feb 2026 19:06:41 GMT | Free Wi-Fi Dangers: Cybersecurity Precautions and Safety Tips | Nazrul Islam Rana | [Read More](https://medium.com/p/8bfd8bca71bd) |
-| Sun, 01 Feb 2026 19:01:02 GMT | A Letter That Found You | Your Favorite Ghost | [Read More](https://medium.com/p/2f68c7623270) |
-| Sun, 01 Feb 2026 18:57:07 GMT | Hunting Web Attacks in IIS Logs Using Splunk and MITRE ATT&CK | Danny Vargas - CyberSecurity Focus | [Read More](https://medium.com/p/242edae232c6) |
-| Sun, 01 Feb 2026 18:55:56 GMT | Setting Up Skills In Openclaw | Nwosu Rosemary | [Read More](https://medium.com/p/d043b76303be) |
-| Sun, 01 Feb 2026 18:51:40 GMT | Alert Triage With Elastic —  Walkthrough - TryHackMe | Shyroot | [Read More](https://medium.com/p/f8daf3a7b8d3) |
-| Sun, 01 Feb 2026 18:45:53 GMT | LLMNR & NBT-NS Posing, My Favorite Attack! | Aaronashley | [Read More](https://medium.com/p/05b3f70bfb92) |
-| Sun, 01 Feb 2026 18:41:27 GMT | Engineering Blind Spots: What Control Engineers Don’t Model as “Security Risk” | Muhammad Ali Khan | [Read More](https://medium.com/p/f996d85583ba) |
