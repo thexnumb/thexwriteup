@@ -12,7 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Feb 2026 15:06:01 GMT | Chatbot load test | Jeffyfung | [Read More](https://medium.com/p/38da05550e7d) |
+| Mon, 02 Feb 2026 15:01:09 GMT | Watch, listen, and learn as two AT&T employees steal my SIM card to access my online accounts. | Samuel Brice | [Read More](https://medium.com/p/51b7d10dfa2e) |
+| Mon, 02 Feb 2026 15:00:11 GMT | ConCmarks Web Security Challenge — Cypertalents Write-Up | Z3DX | [Read More](https://medium.com/p/9f99312e74a2) |
+| Mon, 02 Feb 2026 14:59:43 GMT | Notepad++ Security Incident — Threat Hunting using KQL and Defender for Endpoint logs | Bartosz Turek | [Read More](https://medium.com/p/dd83b984fcc6) |
+| Mon, 02 Feb 2026 14:55:11 GMT | The Trust Void: Identity Nullification in the OpenClaw Agent Ecosystem | Maor Dayan - מאור דיין | [Read More](https://medium.com/p/15c31dc15718) |
+| Mon, 02 Feb 2026 14:54:58 GMT | Why Zero Trust Is Failing Without Identity Governance | Sunnysinha | [Read More](https://medium.com/p/ad10b4540fa4) |
+| Mon, 02 Feb 2026 14:53:27 GMT | The Inevitability of Semantic Leakage: Why “Safe” Image Embeddings Were Never Really Safe | Berend Watchus | [Read More](https://medium.com/p/ef4bac7c94ab) |
+| Mon, 02 Feb 2026 14:50:42 GMT | The Linux Guide I Wish I Had (It’s Free on GitHub) | Ayush Gharat | [Read More](https://medium.com/p/43b14fc30bdd) |
+| Mon, 02 Feb 2026 14:49:46 GMT | What a SOC-Ready ELK Stack Looks Like on GCP’s $300 Free Tier? | Edson | [Read More](https://medium.com/p/f37892aba923) |
+| Mon, 02 Feb 2026 14:43:57 GMT | ️ Building and Testing a SOC Lab: My SoluTech Network Security Capstone | Madu Nelson Izunna | [Read More](https://medium.com/p/cd0df307a4f9) |
+| Mon, 02 Feb 2026 14:37:49 GMT | Password Change Didn’t Log Me Out — A Bug Bounty Finding | Captain Rogers | [Read More](https://medium.com/p/4498359bfb46) |
+| Mon, 02 Feb 2026 14:37:42 GMT | Building an AI-Powered Company | Ascendion | [Read More](https://medium.com/p/bd9a278c8e36) |
+| Mon, 02 Feb 2026 14:33:34 GMT | CVE-2024–3400 PAN-OS: Arbitrary File Creation Leads to OS Command Injection Vulnerability in… | CipherX9F Security | [Read More](https://medium.com/p/28ab8840639e) |
+| Mon, 02 Feb 2026 14:31:28 GMT | Network Security from the Attacker’s Perspective | N0aziXss | [Read More](https://medium.com/p/e86fadf0dd4f) |
+| Mon, 02 Feb 2026 14:30:25 GMT | Where to Start to Get into Cybersecurity | Soumodeep Das | [Read More](https://medium.com/p/32ecbb6cc3ba) |
+| Mon, 02 Feb 2026 14:29:32 GMT | “Bug Bounty Bootcamp #21: CSRF in Action — From Theory to Weaponized Proof-of-Concept” | Aman Sharma | [Read More](https://medium.com/p/3797308ee701) |
+| Mon, 02 Feb 2026 14:28:21 GMT | Malware Development: The Dark Side of Red Teaming | RicOnTech | [Read More](https://medium.com/p/95a84de6341e) |
+| Mon, 02 Feb 2026 14:23:59 GMT | Microsoft 365- Phishing Simulation Whitelisting | JtotheEremy | [Read More](https://medium.com/p/4a5f9429d083) |
+| Mon, 02 Feb 2026 14:19:25 GMT | NO! My AT&T points are expiring… | Chris Hornberger | [Read More](https://medium.com/p/21e28f237345) |
 | Mon, 02 Feb 2026 14:02:36 GMT | The Remote Work Security Gap: 5 Non-Negotiable Requirements for Your Next Device Rental Vendor | IT_Engineer | [Read More](https://medium.com/p/c5e60213faee) |
+| Mon, 02 Feb 2026 14:01:04 GMT | Exploring PowerShell Commands and Scripts: Login Timestamps, Admin Access, Generated Passwords, and… | Tyrik Emptage | [Read More](https://medium.com/p/00d60f75c14b) |
 | Mon, 02 Feb 2026 13:59:59 GMT | ClawdBot Security Guide | Eyal Estrin ☁️ | [Read More](https://medium.com/p/de77b45ab719) |
 | Mon, 02 Feb 2026 13:57:57 GMT | The Cyber Domino Effect: Why in 2026, Your SaaS Security Doesn’t Stop at Your Servers | Rebecca Cottignies | [Read More](https://medium.com/p/c7279d31f507) |
 | Mon, 02 Feb 2026 13:56:01 GMT | It Works ≠ It’s Safe: A Small Manual for Production-Ready Backend Code | Chai and Coding | [Read More](https://medium.com/p/49e277b2cbda) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Feb 2026 09:22:48 GMT | Virtual Private Network (VPN): The Internet Privacy Tool Everyone Needs in 2026 | Shalu | [Read More](https://medium.com/p/bfb9d916d9a7) |
 | Mon, 02 Feb 2026 09:20:23 GMT | Ideal Environment to Create While Working on Threat Intelligence Remotely | Rishika Desai | [Read More](https://medium.com/p/49f6d65fbeaf) |
 | Mon, 02 Feb 2026 09:15:32 GMT | Algebraic Geometric Codes and Aspects of Galois Fields | Gokul B Alex | [Read More](https://medium.com/p/38a583c0db50) |
-| Mon, 02 Feb 2026 09:12:45 GMT | Artificial Intelligence Consulting Services in 2026 | Abhishek Kumar | [Read More](https://medium.com/p/9ee7d15c1af2) |
-| Mon, 02 Feb 2026 09:10:48 GMT | TI Mindmap Hub - Weekly Threat Brief — Issue #2 | Antonio Formato | [Read More](https://medium.com/p/1c3b9217a4cb) |
-| Mon, 02 Feb 2026 09:09:21 GMT | Why Enterprise RAG Security Keeps Missing the Retrieval Layer | FabioPetti | [Read More](https://medium.com/p/a35c76af53ef) |
-| Mon, 02 Feb 2026 09:08:22 GMT | [EP.1] Learn from Defense — SOC141 (LetsDefend) | Pattharadanai Sanitjairak | [Read More](https://medium.com/p/08a2373f9ff0) |
-| Mon, 02 Feb 2026 09:07:02 GMT | Mapping The Domain: A Red Teamer’s Guide To Active Directory | Redfox Security | [Read More](https://medium.com/p/3a4f7ef5ccc0) |
-| Mon, 02 Feb 2026 09:05:30 GMT | Managed IT Services Columbus: The 2026 Guide to Cybersecurity, Cloud & Onsite Support | vortex it systems | [Read More](https://medium.com/p/b291e07a205f) |
-| Mon, 02 Feb 2026 08:55:24 GMT | Navigating the Digital Battleground: A Deep Dive into Cybersecurity Operations and Threat… | Khabbab Sarker | [Read More](https://medium.com/p/2ddc0334655b) |
-| Mon, 02 Feb 2026 08:49:29 GMT | Part 2: A Real-World Recon Workflow — One Command, Clean Results | ghostyjoe | [Read More](https://medium.com/p/989d73ffe14a) |
-| Mon, 02 Feb 2026 08:41:17 GMT | Red Team Perspective: Simulating the Adversary | Gokhan Can | [Read More](https://medium.com/p/b8ad63face14) |
-| Mon, 02 Feb 2026 08:34:46 GMT | Social Policy for Vulnerability & Trauma: Why Our Systems Must Learn to Trust Wounded Bodies | Pia Lütkebomert | [Read More](https://medium.com/p/5ddbbc7f915f) |
-| Mon, 02 Feb 2026 08:27:44 GMT | Why Modern SOCs Are Drowning in Alerts, but Still Missing Real Threats | ThreatLens - Security Intelligence Automation | [Read More](https://medium.com/p/8f77b61d0643) |
-| Mon, 02 Feb 2026 08:20:27 GMT | GitHub Recon & Dorking Mastery: The Secret Techniques Top Hunters Use to Find Critical Bugs (2026… | BugHunter’s Journal | [Read More](https://medium.com/p/b51cbcf33591) |
-| Mon, 02 Feb 2026 08:14:59 GMT | 10 Best Software Development Outsourcing Companies for 2026 | Quickway Infosystems | [Read More](https://medium.com/p/872a508aac99) |
-| Mon, 02 Feb 2026 08:12:28 GMT | 12 Best Kubernetes Security Tools You Need In 2026 | Flavius Dinu | [Read More](https://medium.com/p/9fca4258db0e) |
-| Mon, 02 Feb 2026 08:09:14 GMT | R S facilities & manpower services | R S facilities & man power services | [Read More](https://medium.com/p/9aee12a309fe) |
-| Mon, 02 Feb 2026 08:01:03 GMT | Cybersecurity Leadership Development: Building Future Leaders | Victoria Coker | [Read More](https://medium.com/p/3bde8ea9984a) |
-| Mon, 02 Feb 2026 07:58:32 GMT | I Built a Fake Server to Watch Hackers Break In. Here’s What Happened. | Dhanush N | [Read More](https://medium.com/p/3834148d2957) |
-| Mon, 02 Feb 2026 07:58:13 GMT | Ultimate Antivirus Software for Secure Browsing and Downloads | Siyanoav | [Read More](https://medium.com/p/97983b40292d) |
-| Mon, 02 Feb 2026 07:55:47 GMT | Secure Your Future with a Career in Cybersecurity | CBitss | [Read More](https://medium.com/p/f65a945e0d23) |
-| Mon, 02 Feb 2026 07:54:44 GMT | Learning Red Team: Command Injection on DVWA | Narathama Firmansyah Putra | [Read More](https://medium.com/p/d587306ef9c4) |
