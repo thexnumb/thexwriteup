@@ -12,7 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Feb 2026 13:04:53 GMT | Cracking the Silence: A Deep Dive into Blind SQL Injection (Conditional Responses) | Taysirzeituni | [Read More](https://medium.com/p/2f0961842081) |
+| Mon, 02 Feb 2026 13:00:00 GMT | Skyfall Alert: Tracking What Falls from the Sky | Taulan Zauzanov | [Read More](https://medium.com/p/134d1fc6ec53) |
+| Mon, 02 Feb 2026 12:52:30 GMT | Skills Meet Osquery: Introducing Osquery-helper | Marco Pedrinazzi | [Read More](https://medium.com/p/0390e6c3755e) |
+| Mon, 02 Feb 2026 12:51:01 GMT | Blast From The Past: Capitalism Plus, The Business Simulation CEOs Need to Revisit | Namir Sagheenanajar | [Read More](https://medium.com/p/7fdf39414947) |
+| Mon, 02 Feb 2026 12:49:00 GMT | iOS Security Concepts That Instantly Signal Senior-Level Experience | Swati Mishra | [Read More](https://medium.com/p/82d5331e733c) |
+| Mon, 02 Feb 2026 12:42:11 GMT | When AI Remembers Too Much — Part 1: Understanding Membership Inference Attacks | Ong Si Ci | [Read More](https://medium.com/p/08fae9b7348f) |
+| Mon, 02 Feb 2026 12:35:50 GMT | Windows Backup Strategy That Actually Prevents Downtime | Geoffrey Wenger | [Read More](https://medium.com/p/3a91d9134b5e) |
+| Mon, 02 Feb 2026 12:35:18 GMT | Best Summer Training in Lucknow for IT Students (2026 Complete Guide) — SkillManthan Technologies… | SkillManthan Technologies Pvt. Ltd. | [Read More](https://medium.com/p/bd5ed0e083b0) |
+| Mon, 02 Feb 2026 12:32:24 GMT | Cheesy Does It writeup (BugForge) | 7s26Simon | [Read More](https://medium.com/p/70eca5f40dcf) |
+| Mon, 02 Feb 2026 12:30:12 GMT | Ubuntu 24.04 ve RHEL Üzerinde Offline MongoDB Upgrade Rehberi | Berkay Yerbasan | [Read More](https://medium.com/p/1373594d0dba) |
+| Mon, 02 Feb 2026 12:28:52 GMT | Legacy, Security & Zero-Day: Why Your System Is Already Vulnerable (You Just Don’t Know It Yet) | zakaria fahraoui | [Read More](https://medium.com/p/801b02475e21) |
+| Mon, 02 Feb 2026 12:27:18 GMT | Privilege Escalation Is Everything: 12 Real-World Chains That Lead to Full Account Takeover | Krish_cyber | [Read More](https://medium.com/p/1edea063a055) |
+| Mon, 02 Feb 2026 12:20:58 GMT | Surfshark is the best VPN provider for my needs. Here is why… | Daniyar Kuanyshev | [Read More](https://medium.com/p/463d528223b9) |
+| Mon, 02 Feb 2026 12:17:15 GMT | How Threat Actors Establish Persistence After Initial Access: A Threat Intelligence Case Study | Varshaveeraghanta | [Read More](https://medium.com/p/67b82364d391) |
+| Mon, 02 Feb 2026 12:06:01 GMT | The 2026 Cybersecurity Landscape | venkatesh ram | [Read More](https://medium.com/p/09876fb04339) |
+| Mon, 02 Feb 2026 12:01:02 GMT | Understanding CWE-603: Use of Client-Side Authentication | Walter Moar | [Read More](https://medium.com/p/60804de274c6) |
+| Mon, 02 Feb 2026 12:01:02 GMT | Choosing the Right Backup Storage | Emily Chan | [Read More](https://medium.com/p/38b468720358) |
+| Mon, 02 Feb 2026 11:35:05 GMT | What is ESTROLABS? | ESTROLABS | [Read More](https://medium.com/p/746b31596b7b) |
+| Mon, 02 Feb 2026 11:31:59 GMT | Moltbook: Watching the Compressed History of Civilization Unfold in Real Time | Mohammad hadi keshavarzi | [Read More](https://medium.com/p/fe3e4be03eec) |
+| Mon, 02 Feb 2026 11:31:40 GMT | Is It Okay to Give Your Password to Someone Close to You? | Adrian Labisores | [Read More](https://medium.com/p/a358400f4ae5) |
 | Mon, 02 Feb 2026 11:28:25 GMT | The Jarvis Problem and Why I Almost Deleted OpenClaw After 48 Hours | Volture Luxe | [Read More](https://medium.com/p/31a0c37fdef1) |
+| Mon, 02 Feb 2026 11:26:16 GMT | CRYPTOCURRENCY RECOVERY EXPERT HIRE TECHY FORCE CYBER RETRIEVAL | Christouparis | [Read More](https://medium.com/p/55c5c3f14540) |
 | Mon, 02 Feb 2026 11:18:47 GMT | CSA XCON 2026: A Collective Step Toward a More Secure Digital Future | Deepak Sharma | [Read More](https://medium.com/p/8ec3a60e8b03) |
 | Mon, 02 Feb 2026 11:05:42 GMT | Stop Hashing Passwords: A Practical Step-by-Step Passkey Tutorial | Alain Airom (Ayrom) | [Read More](https://medium.com/p/d2e5d9f53512) |
 | Mon, 02 Feb 2026 11:04:38 GMT | The “New Login” Alert People Ignore on Purpose | Vikas Singh Panwar | [Read More](https://medium.com/p/56c08ee20048) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Feb 2026 07:01:03 GMT | Network Traffic Analysis: Detecting Phorpiex C2 and P2P Communications | Pavol Kluka | [Read More](https://medium.com/p/4188d14c3471) |
 | Mon, 02 Feb 2026 07:01:03 GMT | CySA+ — Assumption Trap: Visibility & Evidence Assumptions | the CyberStoic | [Read More](https://medium.com/p/6172ee1bef14) |
 | Mon, 02 Feb 2026 06:59:56 GMT | Cybersecurity Consulting Services Designed to Turn Insights Into Protection | GAM Information Systems Inc | [Read More](https://medium.com/p/7a08c10390fa) |
-| Mon, 02 Feb 2026 06:57:04 GMT | Chrysallis of heart -#3 An Embarrassing Lot | Laasya Kannepalli | [Read More](https://medium.com/p/6dbb3cc49c98) |
-| Mon, 02 Feb 2026 06:55:39 GMT | Detection Engineering: The Skill Nobody Teaches You | Paritosh | [Read More](https://medium.com/p/bb6fe0bc7c17) |
-| Mon, 02 Feb 2026 06:52:01 GMT | Race Condition Zafiyeti | Zekikayaalp | [Read More](https://medium.com/p/a4af85deabef) |
-| Mon, 02 Feb 2026 06:50:20 GMT | The $50k Bill AND a Data Breach: A Startup’s Nightmare (And How to Prevent Both) | Naga Satish | [Read More](https://medium.com/p/806090d14c82) |
-| Mon, 02 Feb 2026 06:46:33 GMT | Things I Googled as a Beginner That Make Me Laugh Now | Fateyaly | [Read More](https://medium.com/p/fdfa25dbb9dd) |
-| Mon, 02 Feb 2026 06:37:22 GMT | CrossCurve DeFi Exploit: $3M Cross-Chain Bridge Hack Raises Security Concerns | Casi Borg | [Read More](https://medium.com/p/5f03aa4f47de) |
-| Mon, 02 Feb 2026 06:37:07 GMT | Malware Development — 2 (DLL Injection) | 0r | [Read More](https://medium.com/p/7b1eef046099) |
-| Mon, 02 Feb 2026 06:34:44 GMT | How do I recover scammed cryptocurrency? | JulioAlbaradoo | [Read More](https://medium.com/p/d9470ec7b422) |
-| Mon, 02 Feb 2026 06:34:21 GMT | Securing API Keys in Browser Extensions: The Offscreen Document Pattern | Mihir Kumar | [Read More](https://medium.com/p/4378e58fab0f) |
-| Mon, 02 Feb 2026 06:22:18 GMT | Privilege Escalation: Understanding Access Rights Escalation in System Security Analysis | Habibi | [Read More](https://medium.com/p/d4c9d0323917) |
-| Mon, 02 Feb 2026 06:09:28 GMT | JUST | JQZAX | [Read More](https://medium.com/p/79f90a5a9e5b) |
-| Mon, 02 Feb 2026 06:01:01 GMT | Why Buying More Security Tools Doesn’t Automatically Make You Safer | Hazel Chirinda | [Read More](https://medium.com/p/77a94802bb65) |
-| Mon, 02 Feb 2026 06:00:40 GMT | Understanding ffuf: It’s Not About Finding Answers, It’s About Spotting Differences | BotsiCat | [Read More](https://medium.com/p/71051adf2804) |
-| Mon, 02 Feb 2026 05:54:31 GMT | I Reviewed 1,000 Lines of Code — The Bug Was in Line 3 | Himanshu Singh | [Read More](https://medium.com/p/49523b7c68c3) |
-| Mon, 02 Feb 2026 05:46:58 GMT | Lattice Crypto and Lineage of Butterfly Operations | Gokul B Alex | [Read More](https://medium.com/p/15f589ab6c5c) |
-| Mon, 02 Feb 2026 05:40:07 GMT | Building a Resilient Cloud Foundation with AWS Disaster Recovery | F9 Infotech | [Read More](https://medium.com/p/a4fc54aaf2ed) |
-| Mon, 02 Feb 2026 05:39:05 GMT | How IT Consulting Services Reduce Costs, Risks, and Operational Gaps | Sovorun | [Read More](https://medium.com/p/0b09e5e802ab) |
-| Mon, 02 Feb 2026 05:35:20 GMT | Workforce IAM: Key Trends, Technologies, and Market Leaders | Michel mathew | [Read More](https://medium.com/p/ce77dddf3151) |
-| Mon, 02 Feb 2026 05:18:37 GMT | 25 Best Hacking Movies For Cybersecurity Enthusiasts [2026 List] | Alex Cole | [Read More](https://medium.com/p/4d93ebaae24a) |
-| Mon, 02 Feb 2026 05:10:26 GMT | The Operating System Journey — Kernel Mode | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/5c0121fa7d6a) |
-| Mon, 02 Feb 2026 05:09:46 GMT | Vibe Coding: Balancing Speed and Security | Sherman Davis | [Read More](https://medium.com/p/71d52bce0a1b) |
