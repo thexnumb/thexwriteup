@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Feb 2026 04:28:47 GMT | Zero Trust in Cybersecurity Sounds So Cool, but the Failure Rate Is Around 75%! | David SEHYEON Baek | [Read More](https://medium.com/p/3abb243a8c9b) |
+| Mon, 02 Feb 2026 04:26:01 GMT | I Tried to Break an AI on Purpose… It Broke Me Instead | Kiran Maan | [Read More](https://medium.com/p/c5642bb3d4c1) |
+| Mon, 02 Feb 2026 04:25:33 GMT | AWS Migration Problems: Common Pitfalls and Solutions - eDelta Corporation | eDelta Corporation | [Read More](https://medium.com/p/d31776640521) |
+| Mon, 02 Feb 2026 04:25:22 GMT | Uchiha Seruapk | Apkpuredev | [Read More](https://medium.com/p/bbfb8c844be5) |
+| Mon, 02 Feb 2026 04:23:47 GMT | Secure Coding Best Practices Every Developer Must Follow | Geeky Vartika | [Read More](https://medium.com/p/38c04d75908b) |
+| Mon, 02 Feb 2026 04:18:49 GMT | Agent vs. Agent: How I Used CHACK to Audit OpenClaw and Uncover 10 Critical Flaws | MaanVader | [Read More](https://medium.com/p/f799b313bd1c) |
+| Mon, 02 Feb 2026 03:54:54 GMT | “Homelessness Taught Me What Security Really Is” | London lee | [Read More](https://medium.com/p/0ccd3e7adc23) |
+| Mon, 02 Feb 2026 03:43:35 GMT | How to Read Logs as a Beginner (Without SOC Experience) | Manubhav Sharma | [Read More](https://medium.com/p/25720d227308) |
+| Mon, 02 Feb 2026 03:42:52 GMT | F-Droid: The Open World of Apps Beyond Google’s Surveillance — Why and For Whom? | Bug Mohol | [Read More](https://medium.com/p/c87c0cdd7b2d) |
+| Mon, 02 Feb 2026 03:40:41 GMT | XSS Made Simple: How It Works, Why It’s Dangerous, and How Hackers Use JavaScript | Muhammed Asfan - Cybersecurity Researcher | [Read More](https://medium.com/p/246162e273cc) |
+| Mon, 02 Feb 2026 03:38:43 GMT | CTF Galaxy Dash Access JWT Private Key | Mr3Moe | [Read More](https://medium.com/p/b83ad360f300) |
+| Mon, 02 Feb 2026 03:33:29 GMT | This week there was one development in AI governance that I think is worth paying attention to.. | A D | [Read More](https://medium.com/p/4685a8fb3dbf) |
+| Mon, 02 Feb 2026 03:25:57 GMT | The Ultimate Guide to Digital Privacy: How TempMail.mobi Stops Spam and Protects Your Identity | Md Bayezid Bostami | [Read More](https://medium.com/p/623a7b3213d1) |
+| Mon, 02 Feb 2026 03:22:12 GMT | Three Incidents That Prove Algorithmic Trading Needs a Flight Recorder | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/fa99212ab377) |
+| Mon, 02 Feb 2026 03:19:46 GMT | The Authorization Gap: Why Identity Verification Alone is a Flawed Security Architecture | Ryu360 | [Read More](https://medium.com/p/b5b3f068739a) |
+| Mon, 02 Feb 2026 03:10:26 GMT | A Beginner’s Guide to IoT Firmware Analysis | Sushant M Mane | [Read More](https://medium.com/p/21ed00460440) |
+| Mon, 02 Feb 2026 02:50:33 GMT | Most Software Bugs Are Social Problems, Not Technical Ones | The Dev Notebook | [Read More](https://medium.com/p/ccecbad32386) |
+| Mon, 02 Feb 2026 02:49:10 GMT | The Competency Gap Is Now a Security Risk | Jordan Delorenzo | [Read More](https://medium.com/p/0de12dcf04ab) |
+| Mon, 02 Feb 2026 02:29:16 GMT | Lazy Loading 與 Eager Loading的比喻 | 思維舞步 MindSteps | [Read More](https://medium.com/p/4ec4bd975e7e) |
 | Mon, 02 Feb 2026 02:20:56 GMT | I Got Tired of Rebuilding DAST in Every Repo | Rio Wiraldhani | [Read More](https://medium.com/p/aa017ecf5a0e) |
 | Mon, 02 Feb 2026 02:08:06 GMT | Crossing the Road Anyway | Ali Dyer | [Read More](https://medium.com/p/c462d7723415) |
 | Mon, 02 Feb 2026 02:03:40 GMT | The World Doesn’t Have a Deepfake Problem. It Has a Proof Problem. | verasnap | [Read More](https://medium.com/p/1c2a7948fb7b) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Feb 2026 17:46:57 GMT | The Surveillance Shift and STEAL. THE NEW WARFIELD,That No One Voted For. | The record shows | [Read More](https://medium.com/p/707b90b702b5) |
 | Sun, 01 Feb 2026 17:40:40 GMT | Phishing Email Analysis Report (BTL1) | RH | [Read More](https://medium.com/p/799fb406de3c) |
 | Sun, 01 Feb 2026 17:37:39 GMT | 2025 Crypto Hacks & Exploits Analysis: The Attack Surface is Moving Up the Stack | CipherBC | [Read More](https://medium.com/p/11a2cb41c917) |
-| Sun, 01 Feb 2026 17:36:03 GMT | Ethical Hacking, Information Security, and Kali Linux: A Complete Guide to Modern Cyber security | Alyanfaisal | [Read More](https://medium.com/p/6eacaf7faa82) |
-| Sun, 01 Feb 2026 17:35:49 GMT | [AD攻防]Unconstrained Delegation手法 | 陳禹璿 | [Read More](https://medium.com/p/33796ff6ffa1) |
-| Sun, 01 Feb 2026 17:33:28 GMT | Digging Secrets from RAM: A Memory Forensics Journey with MemLabs — Lab 1 | Amandogra | [Read More](https://medium.com/p/cc09d36cd8cc) |
-| Sun, 01 Feb 2026 17:31:42 GMT | Neighborhood Security Patrol in Dallas | US guard security company | [Read More](https://medium.com/p/294ef33b0591) |
-| Sun, 01 Feb 2026 17:12:56 GMT | Swimming with Sharks | Ps Patrickstarks | [Read More](https://medium.com/p/5950f3180f60) |
-| Sun, 01 Feb 2026 17:10:03 GMT | Which AI providers won’t train on your data? | JP Caparas | [Read More](https://medium.com/p/e38280ff9887) |
-| Sun, 01 Feb 2026 17:07:49 GMT | The Architecture of Anonymity: Investigating Privacy Coins in Criminal Activities | Satyam | [Read More](https://medium.com/p/f64757401397) |
-| Sun, 01 Feb 2026 17:06:39 GMT | pfSense Captive Portal Explained — Secure Guest Access Step by Step ~8–10 min read | D3ad_M3m0r13s | [Read More](https://medium.com/p/ad3e4a6bb39b) |
-| Sun, 01 Feb 2026 17:03:39 GMT | Demystify the C Language for OffSec: Day 1 | Bazil Brohi | [Read More](https://medium.com/p/08514ce2ae01) |
-| Sun, 01 Feb 2026 17:02:29 GMT | The Trust Problem in Web3 | Web3TrustX | [Read More](https://medium.com/p/6891c0257719) |
-| Sun, 01 Feb 2026 16:56:57 GMT | Overnight Security Guards in Dallas | US guard security company | [Read More](https://medium.com/p/68b320f892cb) |
-| Sun, 01 Feb 2026 16:53:51 GMT | Why SSH No Longer Fits Zero-Trust EC2 Access in AWS | Surya Naga Sesank Munukutla | [Read More](https://medium.com/p/4ee9c4b66fe8) |
-| Sun, 01 Feb 2026 16:51:53 GMT | Why Security Controls Fail in Practice | Mahad Aqeel | [Read More](https://medium.com/p/39cdc7c322f9) |
-| Sun, 01 Feb 2026 16:48:58 GMT | BLACKHAT MEA 2024 | Netsec | [Read More](https://medium.com/p/e1a1f11eda01) |
-| Sun, 01 Feb 2026 16:45:59 GMT | Building OAuth 2.0 Authorization Code Flow in Go (RFC 6749) | Md. Mehedi Hasan | [Read More](https://medium.com/p/12a1f92c1034) |
-| Sun, 01 Feb 2026 16:42:35 GMT | Ethical Hacking: The Attacks You Don’t See That Keep You Safe | Adejare Marvel | [Read More](https://medium.com/p/135fdd016cda) |
-| Sun, 01 Feb 2026 16:41:37 GMT | The Privacy Divide Is Built Into the Products You Use (and You Probably Didn’t Notice) | BiyteLüm | [Read More](https://medium.com/p/446e061b0311) |
-| Sun, 01 Feb 2026 16:23:23 GMT | Building a HIPAA-Compliant Healthcare Platform on AWS: From Zero to Production | Jordan Bray | [Read More](https://medium.com/p/ab8c672cf739) |
-| Sun, 01 Feb 2026 16:23:06 GMT | Agentic AI: Mobil Bankacılıkta Yeni Bir Aktör mü, Yeni Bir Risk mi? | Esin Ünlü Dağ | [Read More](https://medium.com/p/7c9b2909c735) |
