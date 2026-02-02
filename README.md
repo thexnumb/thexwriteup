@@ -12,6 +12,45 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Feb 2026 22:56:04 GMT | “Learning Web Application Security the Right Way: My Hands-On Journey Through OWASP Top 10” | sree | [Read More](https://medium.com/p/8c1df73aa67c) |
+| Mon, 02 Feb 2026 22:50:44 GMT | Why I Built HunterX: A Different Way to Do Red Teaming | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/23d86aa88926) |
+| Mon, 02 Feb 2026 22:50:13 GMT | Acheron: Indirect Syscalls in Go Done Right | Yua Mikanana | [Read More](https://medium.com/p/ed20e1631366) |
+| Mon, 02 Feb 2026 22:48:57 GMT | Why Logging In Too Often Can Be a Security Red Flag (Even When It’s You) | Grace Chukwunta | [Read More](https://medium.com/p/cecba1125b53) |
+| Mon, 02 Feb 2026 22:46:01 GMT | DFIR Report: Maranhao Lab | Khoa | [Read More](https://medium.com/p/60853f2d0b07) |
+| Mon, 02 Feb 2026 22:33:32 GMT | The Moltbook Breach Just Exposed How Fragile the AI Agent Dream Really Is | MrComputerScience | [Read More](https://medium.com/p/c5f4d7f3760c) |
+| Mon, 02 Feb 2026 22:31:23 GMT | What 20 Years in High-Stakes Security Taught Me About Trust | Travis Ray Caverhill | [Read More](https://medium.com/p/ca9c402923b6) |
+| Mon, 02 Feb 2026 22:28:29 GMT | 30 Days of Red Team: Day 21 — Week 3 Integration & Practice | Maxwell Cross | [Read More](https://medium.com/p/223a568ffce4) |
+| Mon, 02 Feb 2026 22:21:05 GMT | Real Life Machine Windows Server 2022 Attacking Walkthrough WeInnovate | Y0s_0x_IBM | [Read More](https://medium.com/p/f9be1eafd49a) |
+| Mon, 02 Feb 2026 22:20:59 GMT | BUET Resume Builder (BUET CSE Fest 2026 CTF Finals) — LFI via loadFile() in a PDF Export Pipeline… | Sakibul Ali Khan | [Read More](https://medium.com/p/f9eaf3b0a3f5) |
+| Mon, 02 Feb 2026 22:08:23 GMT | Passing the CISM Exam on the First Try: My Journey, Mindset & Lessons Learned | Hariharasudhan GK | [Read More](https://medium.com/p/865fbfd5238d) |
+| Mon, 02 Feb 2026 21:59:49 GMT | How Platforms Decide to Trust Your Connection | Julian Hart | [Read More](https://medium.com/p/4cd5aa70c57d) |
+| Mon, 02 Feb 2026 21:58:27 GMT | Offsec “Sar” CTF Writeup | sabR | [Read More](https://medium.com/p/562942c3163b) |
+| Mon, 02 Feb 2026 21:52:16 GMT | ItsyBitsy - TryHackMe | Shyroot | [Read More](https://medium.com/p/ed3cf5f2f2a8) |
+| Mon, 02 Feb 2026 21:49:47 GMT | Be Seen: Visibility, Connection & Support for Artists | Artflow Alliance | [Read More](https://medium.com/p/fdea448d4eda) |
+| Mon, 02 Feb 2026 21:41:56 GMT | The Week the “Claw” Came Out: What OpenClaw Teaches Us About AI Safety | Dhanayy | [Read More](https://medium.com/p/f6120350f221) |
+| Mon, 02 Feb 2026 21:13:40 GMT | HackThisSite — Basic Level 4 — Insecure Password Recovery via Request Manipulation | Javier | [Read More](https://medium.com/p/52973ed3fbc7) |
+| Mon, 02 Feb 2026 20:55:50 GMT | HOW TO RECOVER YOUR BITCOIN WALLET:A GUIDE YOU WON’T FORGET:CONTACT DIGITAL LIGHT SOLUTION | Keitaharuto | [Read More](https://medium.com/p/105de7df4900) |
+| Mon, 02 Feb 2026 20:36:09 GMT | What Learning API Security Taught Me About Building Systems for the Real World | Mercy Eze | [Read More](https://medium.com/p/62c43dcd66a6) |
+| Mon, 02 Feb 2026 20:09:20 GMT | Full-Chain Exploitation: From Recon to Blind SQLi | Samet Yiğit | [Read More](https://medium.com/p/239eed0252a2) |
+| Mon, 02 Feb 2026 19:52:14 GMT | I Analyzed Every Crypto Inheritance Solution. Here’s What I Found. | Legacy Vault | [Read More](https://medium.com/p/dd327a94fab3) |
+| Mon, 02 Feb 2026 19:28:22 GMT | CYBER KILL CHAIN: Organizations’ Digital Defense Map | dilan alpaltun | [Read More](https://medium.com/p/7bf27b93b156) |
+| Mon, 02 Feb 2026 19:26:53 GMT | How to prepare for CSEDP exam from The SecOps Group? | Kerolos Ayman | [Read More](https://medium.com/p/59209d505397) |
+| Mon, 02 Feb 2026 19:25:13 GMT | The Hidden Risk in Your AI Strategy | Gunnar Östberg | [Read More](https://medium.com/p/16d2ee3a5b27) |
+| Mon, 02 Feb 2026 19:14:02 GMT | About J Ramgharia | J Ramgharia | [Read More](https://medium.com/p/83f8bb38ae4a) |
+| Mon, 02 Feb 2026 19:07:41 GMT | Try Hack Me- Mr Robot CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/fd2965ba6c85) |
+| Mon, 02 Feb 2026 18:49:32 GMT | PG Lab Resourced: Delegator | Nicolas Garcia | [Read More](https://medium.com/p/6527490f4291) |
+| Mon, 02 Feb 2026 18:47:38 GMT | BRUCE: An overview of a firmware that packs a punch! | Hobin Rood | [Read More](https://medium.com/p/7558fc7d5774) |
+| Mon, 02 Feb 2026 18:43:00 GMT | Pascal CTF 2026 | LiGhTZod | [Read More](https://medium.com/p/4fd6e0694c06) |
+| Mon, 02 Feb 2026 18:36:28 GMT | Securing API Servers: What CORS, Headers, and Error Messages Reveal About API Security | Joyatee Datta | [Read More](https://medium.com/p/87f97724bb69) |
+| Mon, 02 Feb 2026 18:33:17 GMT | How I Set Up OpenClaw Securely on Proxmox Using Tailscale (No Public Exposure) | Sujit Gangadharan | [Read More](https://medium.com/p/6db881730932) |
+| Mon, 02 Feb 2026 18:25:51 GMT | The Weakest Link Isn’t Your Password. It’s You. | Vasant Bhadauria | [Read More](https://medium.com/p/4cf7361b5b5d) |
+| Mon, 02 Feb 2026 18:22:59 GMT | Client-Side Logging for Microsoft Double Key Encryption Troubleshooting | Diogo Couto | [Read More](https://medium.com/p/64bfecf23cc0) |
+| Mon, 02 Feb 2026 18:21:02 GMT | FOOTPRINTING —  DNS | Sunain | [Read More](https://medium.com/p/e3191b6df974) |
+| Mon, 02 Feb 2026 18:18:33 GMT | GraphQL for Dummies | Shivam Bathla | [Read More](https://medium.com/p/d0c6a727fc0) |
+| Mon, 02 Feb 2026 18:12:22 GMT | One more text about Web3 Security | Masha Vaverova | [Read More](https://medium.com/p/af293f49f817) |
+| Mon, 02 Feb 2026 18:05:15 GMT | Why Cybersecurity Skills Are No Longer Optional: A Practical Guide by Cozonix Infotech Pvt Ltd | Cozonix | [Read More](https://medium.com/p/47dbc21f0cbd) |
+| Mon, 02 Feb 2026 17:43:33 GMT | How a Single Quote Turned a Safe Markdown Feature Into a Security Risk | ab.infosec | [Read More](https://medium.com/p/884a7aa07c37) |
+| Mon, 02 Feb 2026 17:36:07 GMT | Bandit Level 1 — The Basics of Shell Commands | CocoB | [Read More](https://medium.com/p/61a7124cf432) |
 | Mon, 02 Feb 2026 17:35:12 GMT | Beyond the Blacklist: Using AI to Automate Advanced Filter Evasion in Time-Based SQLi | Threat Hunter | [Read More](https://medium.com/p/28dafe700686) |
 | Mon, 02 Feb 2026 17:27:05 GMT | AWS Security Logging - Tryhackme | Aaron | [Read More](https://medium.com/p/bf82d51857fe) |
 | Mon, 02 Feb 2026 17:26:25 GMT | Beyond the Blacklist: Using AI to Automate Advanced Filter Evasion in Time-Based SQLi | ch1k3n | [Read More](https://medium.com/p/d4189bbc96ed) |
@@ -73,42 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Feb 2026 14:37:49 GMT | Password Change Didn’t Log Me Out — A Bug Bounty Finding | Captain Rogers | [Read More](https://medium.com/p/4498359bfb46) |
 | Mon, 02 Feb 2026 14:37:42 GMT | Building an AI-Powered Company | Ascendion | [Read More](https://medium.com/p/bd9a278c8e36) |
 | Mon, 02 Feb 2026 14:33:34 GMT | CVE-2024–3400 PAN-OS: Arbitrary File Creation Leads to OS Command Injection Vulnerability in… | CipherX9F Security | [Read More](https://medium.com/p/28ab8840639e) |
-| Mon, 02 Feb 2026 14:31:28 GMT | Network Security from the Attacker’s Perspective | N0aziXss | [Read More](https://medium.com/p/e86fadf0dd4f) |
-| Mon, 02 Feb 2026 14:30:25 GMT | Where to Start to Get into Cybersecurity | Soumodeep Das | [Read More](https://medium.com/p/32ecbb6cc3ba) |
-| Mon, 02 Feb 2026 14:29:32 GMT | “Bug Bounty Bootcamp #21: CSRF in Action — From Theory to Weaponized Proof-of-Concept” | Aman Sharma | [Read More](https://medium.com/p/3797308ee701) |
-| Mon, 02 Feb 2026 14:28:21 GMT | Malware Development: The Dark Side of Red Teaming | RicOnTech | [Read More](https://medium.com/p/95a84de6341e) |
-| Mon, 02 Feb 2026 14:26:01 GMT | Security Engineer Intro | Tony | [Read More](https://medium.com/p/e2c42d735b8f) |
-| Mon, 02 Feb 2026 14:23:59 GMT | Microsoft 365- Phishing Simulation Whitelisting | JtotheEremy | [Read More](https://medium.com/p/4a5f9429d083) |
-| Mon, 02 Feb 2026 14:19:25 GMT | NO! My AT&T points are expiring… | Chris Hornberger | [Read More](https://medium.com/p/21e28f237345) |
-| Mon, 02 Feb 2026 14:02:36 GMT | The Remote Work Security Gap: 5 Non-Negotiable Requirements for Your Next Device Rental Vendor | IT_Engineer | [Read More](https://medium.com/p/c5e60213faee) |
-| Mon, 02 Feb 2026 14:01:04 GMT | Exploring PowerShell Commands and Scripts: Login Timestamps, Admin Access, Generated Passwords, and… | Tyrik Emptage | [Read More](https://medium.com/p/00d60f75c14b) |
-| Mon, 02 Feb 2026 13:59:59 GMT | ClawdBot Security Guide | Eyal Estrin ☁️ | [Read More](https://medium.com/p/de77b45ab719) |
-| Mon, 02 Feb 2026 13:57:57 GMT | The Cyber Domino Effect: Why in 2026, Your SaaS Security Doesn’t Stop at Your Servers | Rebecca Cottignies | [Read More](https://medium.com/p/c7279d31f507) |
-| Mon, 02 Feb 2026 13:56:01 GMT | It Works ≠ It’s Safe: A Small Manual for Production-Ready Backend Code | Chai and Coding | [Read More](https://medium.com/p/49e277b2cbda) |
-| Mon, 02 Feb 2026 13:52:47 GMT | IDOR Vulnerability in Web Course Access | Arif Rahman | [Read More](https://medium.com/p/dcd2c1871228) |
-| Mon, 02 Feb 2026 13:50:42 GMT | OAuth Consent Phishing: When “Allow Access” Becomes a Breach | Daniel Isaac E | [Read More](https://medium.com/p/26f241aa4523) |
-| Mon, 02 Feb 2026 13:50:11 GMT | Where is Enotrium? | Enotrium | [Read More](https://medium.com/p/3bd5bfd4093e) |
-| Mon, 02 Feb 2026 13:44:07 GMT | 7 Emerging Trends Redefining Cybersecurity in the AI Era | Bharat Meda | [Read More](https://medium.com/p/28cc1c53ee01) |
-| Mon, 02 Feb 2026 13:43:50 GMT | Stop Storing Auth Tokens in localStorage | Arif Rahman | [Read More](https://medium.com/p/aa071da1504a) |
-| Mon, 02 Feb 2026 13:43:29 GMT | Docker & Kubernetes Vulnerabilities: Securing Containers in 2025–2026 — | KLEAP Institute of Information Security | [Read More](https://medium.com/p/76628c1fc2c3) |
-| Mon, 02 Feb 2026 13:42:32 GMT | HTB Pentester Path — Medium | Varkeythms | [Read More](https://medium.com/p/a233b0075d0c) |
-| Mon, 02 Feb 2026 13:42:31 GMT | The Tragedy of Ma Bell: How a 140-Year-Old Giant Lost the Future | MD KHALID HASAN NABIL | [Read More](https://medium.com/p/af3a587737b7) |
-| Mon, 02 Feb 2026 13:41:34 GMT | The Moltbook Phenomenon: What Happens When Agents Get a Social Network | Craig Trim | [Read More](https://medium.com/p/62aa5569a610) |
-| Mon, 02 Feb 2026 13:40:53 GMT | AI Agents: The Trade-Off Between Extreme Productivity and Total Risk | Wesley Tomé | [Read More](https://medium.com/p/d6a4f66c3fdc) |
-| Mon, 02 Feb 2026 13:37:35 GMT | Why Every Backend Developer Should Learn Burp Suite | Vivek  Dhamanemath | [Read More](https://medium.com/p/1087a6efd8b9) |
-| Mon, 02 Feb 2026 13:36:57 GMT | Sequence(THM) Walkthrough by raOvvs | raOvvs | [Read More](https://medium.com/p/c2f9cc34fc91) |
-| Mon, 02 Feb 2026 13:36:31 GMT | Why ISO 27001 Fails in Many Organizations | Astra Global Consulting | [Read More](https://medium.com/p/209d525e12c7) |
-| Mon, 02 Feb 2026 13:36:31 GMT | Web Application Security: Hands-On Practice (Chapter 8 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/90a668f1120f) |
-| Mon, 02 Feb 2026 13:34:34 GMT | Detection Engineering Practice: Detecting CMD Hidden Window Execution | Mnik | [Read More](https://medium.com/p/5404675b9610) |
-| Mon, 02 Feb 2026 13:33:07 GMT | VAPT Isn’t Broken — The Way We Use It Is | ANSI Technologies | [Read More](https://medium.com/p/475b7d12e36e) |
-| Mon, 02 Feb 2026 13:31:02 GMT | Open-Source LLMs in 2026: What Teams Actually Trust | Thinking Loop | [Read More](https://medium.com/p/1f2e0ebbbda9) |
-| Mon, 02 Feb 2026 13:04:53 GMT | Cracking the Silence: A Deep Dive into Blind SQL Injection (Conditional Responses) | Taysirzeituni | [Read More](https://medium.com/p/2f0961842081) |
-| Mon, 02 Feb 2026 13:00:00 GMT | Skyfall Alert: Tracking What Falls from the Sky | Taulan Zauzanov | [Read More](https://medium.com/p/134d1fc6ec53) |
-| Mon, 02 Feb 2026 12:52:30 GMT | Skills Meet Osquery: Introducing Osquery-helper | Marco Pedrinazzi | [Read More](https://medium.com/p/0390e6c3755e) |
-| Mon, 02 Feb 2026 12:51:01 GMT | Blast From The Past: Capitalism Plus, The Business Simulation CEOs Need to Revisit | Namir Sagheenanajar | [Read More](https://medium.com/p/7fdf39414947) |
-| Mon, 02 Feb 2026 12:49:00 GMT | iOS Security Concepts That Instantly Signal Senior-Level Experience | Swati Mishra | [Read More](https://medium.com/p/82d5331e733c) |
-| Mon, 02 Feb 2026 12:42:11 GMT | When AI Remembers Too Much — Part 1: Understanding Membership Inference Attacks | Ong Si Ci | [Read More](https://medium.com/p/08fae9b7348f) |
-| Mon, 02 Feb 2026 12:35:50 GMT | Windows Backup Strategy That Actually Prevents Downtime | Geoffrey Wenger | [Read More](https://medium.com/p/3a91d9134b5e) |
-| Mon, 02 Feb 2026 12:35:18 GMT | Best Summer Training in Lucknow for IT Students (2026 Complete Guide) — SkillManthan Technologies… | SkillManthan Technologies Pvt. Ltd. | [Read More](https://medium.com/p/bd5ed0e083b0) |
-| Mon, 02 Feb 2026 12:32:24 GMT | Cheesy Does It writeup (BugForge) | 7s26Simon | [Read More](https://medium.com/p/70eca5f40dcf) |
-| Mon, 02 Feb 2026 12:30:12 GMT | Ubuntu 24.04 ve RHEL Üzerinde Offline MongoDB Upgrade Rehberi | Berkay Yerbasan | [Read More](https://medium.com/p/1373594d0dba) |
