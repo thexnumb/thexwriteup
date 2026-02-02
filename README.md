@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Feb 2026 02:20:56 GMT | I Got Tired of Rebuilding DAST in Every Repo | Rio Wiraldhani | [Read More](https://medium.com/p/aa017ecf5a0e) |
+| Mon, 02 Feb 2026 02:08:06 GMT | Crossing the Road Anyway | Ali Dyer | [Read More](https://medium.com/p/c462d7723415) |
+| Mon, 02 Feb 2026 02:03:40 GMT | The World Doesn’t Have a Deepfake Problem. It Has a Proof Problem. | verasnap | [Read More](https://medium.com/p/1c2a7948fb7b) |
+| Mon, 02 Feb 2026 02:02:15 GMT | Why Content Credentials Alone Won’t Save Us From Deepfakes — And What Will | verasnap | [Read More](https://medium.com/p/f29a7ec8ba83) |
+| Mon, 02 Feb 2026 02:01:01 GMT | The Privacy Awakening: Escaping Digital Serfdom in the Age of AI | Bill | [Read More](https://medium.com/p/b00859e9f281) |
+| Mon, 02 Feb 2026 01:56:54 GMT | Subject: RE: RE: RE: RE: RE: RE: Mandatory Compliance Training — URGENT | hackherway cyber | [Read More](https://medium.com/p/fbf9184b23ee) |
+| Mon, 02 Feb 2026 01:26:41 GMT | The Walking Dead of Active Directory | Nikos Vourdas (nickvourd) | [Read More](https://medium.com/p/1edd33fd7050) |
+| Mon, 02 Feb 2026 01:21:22 GMT | Writeup PascalCTF 2026 — Travel Playlist | Arturo Melgarejo | [Read More](https://medium.com/p/46b89fc4e566) |
+| Mon, 02 Feb 2026 01:17:47 GMT | Technology in Todays World: Is It Getting Better or Worse? | Mario | [Read More](https://medium.com/p/268b34abb90a) |
+| Mon, 02 Feb 2026 01:15:32 GMT | OSCP Exam Secrets — Avoiding Rabbit Holes and Staying on Track (Part 4) | Got Root? | [Read More](https://medium.com/p/87768ccf770f) |
+| Mon, 02 Feb 2026 01:10:16 GMT | The Skeleton Key in your Pocket: Mastering The iCopy-XS (Part 2 of 5) | Nicholas Mullenski | [Read More](https://medium.com/p/43b80b9de904) |
+| Mon, 02 Feb 2026 01:09:51 GMT | JS Recon to Uncover Hidden Web Vulnerabilities in Minutes — And How You Can Too | Monika sharma | [Read More](https://medium.com/p/350b49b805c1) |
+| Mon, 02 Feb 2026 01:07:46 GMT | BYPASSING STATIC ANALYSIS | Cybernight | [Read More](https://medium.com/p/69cf817664d3) |
+| Mon, 02 Feb 2026 01:04:49 GMT | Best Hacking Tools for 2026: From Linux to DragonOS | Shahzaib | [Read More](https://medium.com/p/61d1201ff2c7) |
+| Mon, 02 Feb 2026 00:56:35 GMT | How to Secure Your WiFi Network: A Step by Step Practical Guide | Raviteja Mureboina | [Read More](https://medium.com/p/e0bad8d493cd) |
+| Mon, 02 Feb 2026 00:51:08 GMT | Trust is All You Need — A Review of PayEgis AI Agent Security Progress in 2025 | Dejia Wang | [Read More](https://medium.com/p/a5ef19eba7e8) |
+| Sun, 01 Feb 2026 23:58:24 GMT | How to make our Password stronger? | Junhong Park | [Read More](https://medium.com/p/fa6928ea2731) |
 | Sun, 01 Feb 2026 23:38:54 GMT | What API Developers Need to Know About PCI DSS and Financial API Security | Chihurumnanya Ruth Godwin | [Read More](https://medium.com/p/d5926e6ae206) |
 | Sun, 01 Feb 2026 23:36:40 GMT | How fast can Europe build its own nuclear deterrent? | Aurel Stratan | [Read More](https://medium.com/p/d308d3aec347) |
 | Sun, 01 Feb 2026 23:35:55 GMT | Common OSINT Mistakes Beginners Make | S010lvloon | [Read More](https://medium.com/p/ebdea9665b14) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Feb 2026 16:41:37 GMT | The Privacy Divide Is Built Into the Products You Use (and You Probably Didn’t Notice) | BiyteLüm | [Read More](https://medium.com/p/446e061b0311) |
 | Sun, 01 Feb 2026 16:23:23 GMT | Building a HIPAA-Compliant Healthcare Platform on AWS: From Zero to Production | Jordan Bray | [Read More](https://medium.com/p/ab8c672cf739) |
 | Sun, 01 Feb 2026 16:23:06 GMT | Agentic AI: Mobil Bankacılıkta Yeni Bir Aktör mü, Yeni Bir Risk mi? | Esin Ünlü Dağ | [Read More](https://medium.com/p/7c9b2909c735) |
-| Sun, 01 Feb 2026 16:18:13 GMT | How to Enable Clipboard Sharing Between macOS (ARM) and Kali Linux in UTM | kryo | [Read More](https://medium.com/p/11ce2f66f3c1) |
-| Sun, 01 Feb 2026 16:13:20 GMT | Understanding PTK and GTK in Wi‑Fi Security | Honing the mind | [Read More](https://medium.com/p/039ce67b5a2a) |
-| Sun, 01 Feb 2026 16:07:25 GMT | Identity and Data Security Are Colliding — And Security Teams Are Not Ready | Aura Tech Insights | [Read More](https://medium.com/p/d06dbe11dabf) |
-| Sun, 01 Feb 2026 16:06:01 GMT | 20 Web Security Interview Questions Every Developer Should Know | Software Engineer Notes | [Read More](https://medium.com/p/8238733f131e) |
-| Sun, 01 Feb 2026 16:02:25 GMT | Installing pfSense — From Bare Metal to Your First Firewall ~8–10 min read | D3ad_M3m0r13s | [Read More](https://medium.com/p/6e944052afc7) |
-| Sun, 01 Feb 2026 16:01:58 GMT | Implementing 2FA on an Ubuntu VM | Sriranjan Kapilan | [Read More](https://medium.com/p/a9d94cfc13ef) |
-| Sun, 01 Feb 2026 16:01:04 GMT | Why One Security Tool Is Never Enough | Ethics In Beta | [Read More](https://medium.com/p/41e97675072c) |
-| Sun, 01 Feb 2026 15:53:01 GMT | How I Found The Admin-Creation Backdoor In LA-Studio Element Kit for Elementor 1.5.6.3 | Athiwat Tiprasaharn | [Read More](https://medium.com/p/89a33efb3c3e) |
-| Sun, 01 Feb 2026 15:41:58 GMT | A Practical Introduction to OpenTIDE: Open Threat-Informed Detection Engineering | Adan | [Read More](https://medium.com/p/e218e4970c95) |
-| Sun, 01 Feb 2026 15:27:42 GMT | Network Scanning and Vulnerability Assessment Using Nmap | Shobinmendez | [Read More](https://medium.com/p/df9c01c42cac) |
-| Sun, 01 Feb 2026 15:26:36 GMT | 30 Days of Red Team: Day 20 — Exploiting Trust Relationships | Maxwell Cross | [Read More](https://medium.com/p/70d884664e3a) |
-| Sun, 01 Feb 2026 15:25:41 GMT | picoCTF : Magikarp Ground Mission | Sahara | [Read More](https://medium.com/p/fdb9ae21a81c) |
-| Sun, 01 Feb 2026 15:22:10 GMT | When “Verify You’re Human” Becomes Malware Execution | R.D.Tarun | [Read More](https://medium.com/p/0c6e9540779d) |
-| Sun, 01 Feb 2026 15:13:04 GMT | What Learning API Security Taught Me About Building Systems for the Real World | Iseoluwa Ogunnaike | [Read More](https://medium.com/p/4f8003226abc) |
-| Sun, 01 Feb 2026 15:12:52 GMT | Scattered Spider: Why This Cybercriminal Group Still Matters | Ankita Sinha | [Read More](https://medium.com/p/6c57322a0d62) |
-| Sun, 01 Feb 2026 15:12:10 GMT | MongoBleed (CVE-2025–14847): When Compression Becomes a Data Exfiltration Vector | Ankita Sinha | [Read More](https://medium.com/p/6fceaa9deecf) |
-| Sun, 01 Feb 2026 15:11:20 GMT | The Bandit Wargame — Level 0 — WSL and SSH | CocoB | [Read More](https://medium.com/p/a01bdad4fd51) |
