@@ -12,8 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Feb 2026 08:41:17 GMT | Red Team Perspective: Simulating the Adversary | Gokhan Can | [Read More](https://medium.com/p/b8ad63face14) |
+| Mon, 02 Feb 2026 08:34:46 GMT | Social Policy for Vulnerability & Trauma: Why Our Systems Must Learn to Trust Wounded Bodies | Pia Lütkebomert | [Read More](https://medium.com/p/5ddbbc7f915f) |
+| Mon, 02 Feb 2026 08:27:44 GMT | Why Modern SOCs Are Drowning in Alerts, but Still Missing Real Threats | ThreatLens - Security Intelligence Automation | [Read More](https://medium.com/p/8f77b61d0643) |
+| Mon, 02 Feb 2026 08:20:27 GMT | GitHub Recon & Dorking Mastery: The Secret Techniques Top Hunters Use to Find Critical Bugs (2026… | BugHunter’s Journal | [Read More](https://medium.com/p/b51cbcf33591) |
+| Mon, 02 Feb 2026 08:14:59 GMT | 10 Best Software Development Outsourcing Companies for 2026 | Quickway Infosystems | [Read More](https://medium.com/p/872a508aac99) |
+| Mon, 02 Feb 2026 08:12:28 GMT | 12 Best Kubernetes Security Tools You Need In 2026 | Flavius Dinu | [Read More](https://medium.com/p/9fca4258db0e) |
+| Mon, 02 Feb 2026 08:09:14 GMT | R S facilities & manpower services | R S facilities & man power services | [Read More](https://medium.com/p/9aee12a309fe) |
+| Mon, 02 Feb 2026 08:01:03 GMT | Cybersecurity Leadership Development: Building Future Leaders | Victoria Coker | [Read More](https://medium.com/p/3bde8ea9984a) |
+| Mon, 02 Feb 2026 07:58:32 GMT | I Built a Fake Server to Watch Hackers Break In. Here’s What Happened. | Dhanush N | [Read More](https://medium.com/p/3834148d2957) |
+| Mon, 02 Feb 2026 07:58:13 GMT | Ultimate Antivirus Software for Secure Browsing and Downloads | Siyanoav | [Read More](https://medium.com/p/97983b40292d) |
+| Mon, 02 Feb 2026 07:55:47 GMT | Secure Your Future with a Career in Cybersecurity | CBitss | [Read More](https://medium.com/p/f65a945e0d23) |
+| Mon, 02 Feb 2026 07:54:44 GMT | Learning Red Team: Command Injection on DVWA | Narathama Firmansyah Putra | [Read More](https://medium.com/p/d587306ef9c4) |
+| Mon, 02 Feb 2026 07:51:56 GMT | Reflections on a Near Miss: From ClickOps to GitOps | JianweiBao | [Read More](https://medium.com/p/a23d6bde1b6d) |
+| Mon, 02 Feb 2026 07:51:16 GMT | Data Governance Challenges in the GenAI Era | Ramesh Nidamanuri | [Read More](https://medium.com/p/a6278cd8d7ff) |
+| Mon, 02 Feb 2026 07:50:38 GMT | A Beginner’s Guide to Bird Hunting in Michigan | Digital Dynamo Strategies | [Read More](https://medium.com/p/a22aac2fe085) |
+| Mon, 02 Feb 2026 07:46:01 GMT | Brute Forcing a Login With No Rate Limiting in OopsSec Store | OopsSec Store | [Read More](https://medium.com/p/b82122c9c4f1) |
+| Mon, 02 Feb 2026 07:38:14 GMT | The Hidden Safety Questions Nobody’s Asking About Electric Trucks | Heesham Naji | [Read More](https://medium.com/p/55cc4b34afda) |
+| Mon, 02 Feb 2026 07:36:29 GMT | Vibe coding and the question of control | goodgrid | [Read More](https://medium.com/p/8c1c92f86fc7) |
 | Mon, 02 Feb 2026 07:30:43 GMT | Part 3: OAuth vs OpenID Connect — Why Confusing Them Breaks Real Systems | Dilanka Muthukumarana | [Read More](https://medium.com/p/f0aaeb06fe94) |
 | Mon, 02 Feb 2026 07:30:11 GMT | One Token to Rule Them All: Persistent MFA Bypass via Trusted Client Abuse | Bavly Zaher | [Read More](https://medium.com/p/620c2ffe2998) |
+| Mon, 02 Feb 2026 07:28:15 GMT | Expert E Commerce Mobile Application Development Company - Associative | Chaitanyachavan | [Read More](https://medium.com/p/15de9b806f53) |
+| Mon, 02 Feb 2026 07:28:08 GMT | What a Complete Managed Security Services Package Includes | Gavin Ellis | [Read More](https://medium.com/p/c6a45849114b) |
 | Mon, 02 Feb 2026 07:27:05 GMT | What Learning API Security Taught Me About Building Systems for the Real World | Oluwatobiloba Mercy Akinwunmi | [Read More](https://medium.com/p/836d364042b2) |
 | Mon, 02 Feb 2026 07:26:14 GMT | How NOC Visibility Reduces Security and Operational Risks | Gavin Ellis | [Read More](https://medium.com/p/2dbb55b8128f) |
 | Mon, 02 Feb 2026 07:22:24 GMT | How a Sophisticated Job Scam Almost Got Me (and How to Spot the Red Flags) | Masum Kazi | [Read More](https://medium.com/p/a5c4c939b3c1) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Feb 2026 01:04:49 GMT | Best Hacking Tools for 2026: From Linux to DragonOS | Shahzaib | [Read More](https://medium.com/p/61d1201ff2c7) |
 | Mon, 02 Feb 2026 00:56:35 GMT | How to Secure Your WiFi Network: A Step by Step Practical Guide | Raviteja Mureboina | [Read More](https://medium.com/p/e0bad8d493cd) |
 | Mon, 02 Feb 2026 00:51:08 GMT | Trust is All You Need — A Review of PayEgis AI Agent Security Progress in 2025 | Dejia Wang | [Read More](https://medium.com/p/a5ef19eba7e8) |
-| Sun, 01 Feb 2026 23:58:24 GMT | How to make our Password stronger? | Junhong Park | [Read More](https://medium.com/p/fa6928ea2731) |
-| Sun, 01 Feb 2026 23:38:54 GMT | What API Developers Need to Know About PCI DSS and Financial API Security | Chihurumnanya Ruth Godwin | [Read More](https://medium.com/p/d5926e6ae206) |
-| Sun, 01 Feb 2026 23:36:40 GMT | How fast can Europe build its own nuclear deterrent? | Aurel Stratan | [Read More](https://medium.com/p/d308d3aec347) |
-| Sun, 01 Feb 2026 23:35:55 GMT | Common OSINT Mistakes Beginners Make | S010lvloon | [Read More](https://medium.com/p/ebdea9665b14) |
-| Sun, 01 Feb 2026 23:08:51 GMT | IP Video Türsprechanlage — moderne Lösung für smarte Zutrittskontrolle | Intercomshop | [Read More](https://medium.com/p/5cb50982b829) |
-| Sun, 01 Feb 2026 22:42:57 GMT | Linux File Permissions Finally Made Sense When I Thought in Binary | Shaheer Ahmed | [Read More](https://medium.com/p/59de38ac9f09) |
-| Sun, 01 Feb 2026 22:42:55 GMT | Why API Gateways Are Critical for Securing Public APIs | Esther Kenneth | [Read More](https://medium.com/p/d895b130f2df) |
-| Sun, 01 Feb 2026 22:24:19 GMT | Phishing Resistant MFA | Bryan Boyes | [Read More](https://medium.com/p/a4709e3490f0) |
-| Sun, 01 Feb 2026 22:15:03 GMT | Anonymity | Ali Kurt | [Read More](https://medium.com/p/64377497728b) |
-| Sun, 01 Feb 2026 22:14:55 GMT | My Journey Learning API Security | Cristina Manjarrez | [Read More](https://medium.com/p/f9a43f149b01) |
-| Sun, 01 Feb 2026 21:57:19 GMT | Shift Left in Practice: SAST, DAST, and SCA with GitHub Actions | mjmarc.life | [Read More](https://medium.com/p/cb5539f31d04) |
-| Sun, 01 Feb 2026 21:46:31 GMT | TryHackMe Metasploit: Exploitation — Complete Beginner Walkthrough | Kernel Curly | [Read More](https://medium.com/p/85bb81487290) |
-| Sun, 01 Feb 2026 21:44:23 GMT | Building a Cyber-Resilient Water Treatment ICS Security Lab | Jeythasahanav | [Read More](https://medium.com/p/c6b227f00a6e) |
-| Sun, 01 Feb 2026 21:39:46 GMT | Day 7 : XSS | Cybersecurity with Jojo | [Read More](https://medium.com/p/3398263c2ef0) |
-| Sun, 01 Feb 2026 21:36:03 GMT | Protecting Your Online Reputation in Carbon County Utah: A Guide for Residents | Mountain View Provisions LLC | [Read More](https://medium.com/p/ede0dc5448a6) |
-| Sun, 01 Feb 2026 21:31:01 GMT | Humanity’s Adolescence: God-Like Technology in the Hands of Children | Wizard Mike | [Read More](https://medium.com/p/f872d3e8a4c0) |
-| Sun, 01 Feb 2026 21:30:18 GMT | Incident Response Services by CyberSecOp: Advanced Cyber Security Incident Response Solutions | Jeffery Walker | [Read More](https://medium.com/p/e9b813dbf9af) |
-| Sun, 01 Feb 2026 21:26:20 GMT | Meet ReVex: The Cyberpunk HTTP Repeater that lives in your DevTools ☠ | medjahdi | [Read More](https://medium.com/p/4f648c8659e7) |
-| Sun, 01 Feb 2026 21:23:12 GMT | What I’m Building Here (And Why You Might Want to Stick Around) | Sam Writes Security | [Read More](https://medium.com/p/5982c757bcb4) |
-| Sun, 01 Feb 2026 21:15:45 GMT | The Cardinal Sins I Keep Seeing in Active Directory | Aaronashley | [Read More](https://medium.com/p/29727d41279e) |
