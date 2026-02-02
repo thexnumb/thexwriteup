@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Feb 2026 14:02:36 GMT | The Remote Work Security Gap: 5 Non-Negotiable Requirements for Your Next Device Rental Vendor | IT_Engineer | [Read More](https://medium.com/p/c5e60213faee) |
+| Mon, 02 Feb 2026 13:59:59 GMT | ClawdBot Security Guide | Eyal Estrin ☁️ | [Read More](https://medium.com/p/de77b45ab719) |
+| Mon, 02 Feb 2026 13:57:57 GMT | The Cyber Domino Effect: Why in 2026, Your SaaS Security Doesn’t Stop at Your Servers | Rebecca Cottignies | [Read More](https://medium.com/p/c7279d31f507) |
+| Mon, 02 Feb 2026 13:56:01 GMT | It Works ≠ It’s Safe: A Small Manual for Production-Ready Backend Code | Chai and Coding | [Read More](https://medium.com/p/49e277b2cbda) |
+| Mon, 02 Feb 2026 13:52:47 GMT | IDOR Vulnerability in Web Course Access | Arif Rahman | [Read More](https://medium.com/p/dcd2c1871228) |
+| Mon, 02 Feb 2026 13:50:42 GMT | OAuth Consent Phishing: When “Allow Access” Becomes a Breach | Daniel Isaac E | [Read More](https://medium.com/p/26f241aa4523) |
+| Mon, 02 Feb 2026 13:50:11 GMT | Where is Enotrium? | Enotrium | [Read More](https://medium.com/p/3bd5bfd4093e) |
+| Mon, 02 Feb 2026 13:44:07 GMT | 7 Emerging Trends Redefining Cybersecurity in the AI Era | Bharat Meda | [Read More](https://medium.com/p/28cc1c53ee01) |
+| Mon, 02 Feb 2026 13:43:50 GMT | Stop Storing Auth Tokens in localStorage | Arif Rahman | [Read More](https://medium.com/p/aa071da1504a) |
+| Mon, 02 Feb 2026 13:43:29 GMT | Docker & Kubernetes Vulnerabilities: Securing Containers in 2025–2026 — | KLEAP Institute of Information Security | [Read More](https://medium.com/p/76628c1fc2c3) |
+| Mon, 02 Feb 2026 13:42:32 GMT | HTB Pentester Path — Medium | Varkeythms | [Read More](https://medium.com/p/a233b0075d0c) |
+| Mon, 02 Feb 2026 13:42:31 GMT | The Tragedy of Ma Bell: How a 140-Year-Old Giant Lost the Future | MD KHALID HASAN NABIL | [Read More](https://medium.com/p/af3a587737b7) |
+| Mon, 02 Feb 2026 13:41:34 GMT | The Moltbook Phenomenon: What Happens When Agents Get a Social Network | Craig Trim | [Read More](https://medium.com/p/62aa5569a610) |
+| Mon, 02 Feb 2026 13:40:53 GMT | AI Agents: The Trade-Off Between Extreme Productivity and Total Risk | Wesley Tomé | [Read More](https://medium.com/p/d6a4f66c3fdc) |
+| Mon, 02 Feb 2026 13:37:35 GMT | Why Every Backend Developer Should Learn Burp Suite | Vivek  Dhamanemath | [Read More](https://medium.com/p/1087a6efd8b9) |
+| Mon, 02 Feb 2026 13:36:57 GMT | Sequence(THM) Walkthrough by raOvvs | raOvvs | [Read More](https://medium.com/p/c2f9cc34fc91) |
+| Mon, 02 Feb 2026 13:36:31 GMT | Why ISO 27001 Fails in Many Organizations | Astra Global Consulting | [Read More](https://medium.com/p/209d525e12c7) |
+| Mon, 02 Feb 2026 13:36:31 GMT | Web Application Security: Hands-On Practice (Chapter 8 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/90a668f1120f) |
+| Mon, 02 Feb 2026 13:34:34 GMT | Detection Engineering Practice: Detecting CMD Hidden Window Execution | Mnik | [Read More](https://medium.com/p/5404675b9610) |
+| Mon, 02 Feb 2026 13:33:07 GMT | VAPT Isn’t Broken — The Way We Use It Is | ANSI Technologies | [Read More](https://medium.com/p/475b7d12e36e) |
+| Mon, 02 Feb 2026 13:31:02 GMT | Open-Source LLMs in 2026: What Teams Actually Trust | Thinking Loop | [Read More](https://medium.com/p/1f2e0ebbbda9) |
 | Mon, 02 Feb 2026 13:04:53 GMT | Cracking the Silence: A Deep Dive into Blind SQL Injection (Conditional Responses) | Taysirzeituni | [Read More](https://medium.com/p/2f0961842081) |
 | Mon, 02 Feb 2026 13:00:00 GMT | Skyfall Alert: Tracking What Falls from the Sky | Taulan Zauzanov | [Read More](https://medium.com/p/134d1fc6ec53) |
 | Mon, 02 Feb 2026 12:52:30 GMT | Skills Meet Osquery: Introducing Osquery-helper | Marco Pedrinazzi | [Read More](https://medium.com/p/0390e6c3755e) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Feb 2026 07:58:13 GMT | Ultimate Antivirus Software for Secure Browsing and Downloads | Siyanoav | [Read More](https://medium.com/p/97983b40292d) |
 | Mon, 02 Feb 2026 07:55:47 GMT | Secure Your Future with a Career in Cybersecurity | CBitss | [Read More](https://medium.com/p/f65a945e0d23) |
 | Mon, 02 Feb 2026 07:54:44 GMT | Learning Red Team: Command Injection on DVWA | Narathama Firmansyah Putra | [Read More](https://medium.com/p/d587306ef9c4) |
-| Mon, 02 Feb 2026 07:51:56 GMT | Reflections on a Near Miss: From ClickOps to GitOps | JianweiBao | [Read More](https://medium.com/p/a23d6bde1b6d) |
-| Mon, 02 Feb 2026 07:51:16 GMT | Data Governance Challenges in the GenAI Era | Ramesh Nidamanuri | [Read More](https://medium.com/p/a6278cd8d7ff) |
-| Mon, 02 Feb 2026 07:50:38 GMT | A Beginner’s Guide to Bird Hunting in Michigan | Digital Dynamo Strategies | [Read More](https://medium.com/p/a22aac2fe085) |
-| Mon, 02 Feb 2026 07:46:01 GMT | Brute Forcing a Login With No Rate Limiting in OopsSec Store | OopsSec Store | [Read More](https://medium.com/p/b82122c9c4f1) |
-| Mon, 02 Feb 2026 07:38:14 GMT | The Hidden Safety Questions Nobody’s Asking About Electric Trucks | Heesham Naji | [Read More](https://medium.com/p/55cc4b34afda) |
-| Mon, 02 Feb 2026 07:36:29 GMT | Vibe coding and the question of control | goodgrid | [Read More](https://medium.com/p/8c1c92f86fc7) |
-| Mon, 02 Feb 2026 07:30:43 GMT | Part 3: OAuth vs OpenID Connect — Why Confusing Them Breaks Real Systems | Dilanka Muthukumarana | [Read More](https://medium.com/p/f0aaeb06fe94) |
-| Mon, 02 Feb 2026 07:30:11 GMT | One Token to Rule Them All: Persistent MFA Bypass via Trusted Client Abuse | Bavly Zaher | [Read More](https://medium.com/p/620c2ffe2998) |
-| Mon, 02 Feb 2026 07:28:15 GMT | Expert E Commerce Mobile Application Development Company - Associative | Chaitanyachavan | [Read More](https://medium.com/p/15de9b806f53) |
-| Mon, 02 Feb 2026 07:28:08 GMT | What a Complete Managed Security Services Package Includes | Gavin Ellis | [Read More](https://medium.com/p/c6a45849114b) |
-| Mon, 02 Feb 2026 07:27:05 GMT | What Learning API Security Taught Me About Building Systems for the Real World | Oluwatobiloba Mercy Akinwunmi | [Read More](https://medium.com/p/836d364042b2) |
-| Mon, 02 Feb 2026 07:26:14 GMT | How NOC Visibility Reduces Security and Operational Risks | Gavin Ellis | [Read More](https://medium.com/p/2dbb55b8128f) |
-| Mon, 02 Feb 2026 07:22:24 GMT | How a Sophisticated Job Scam Almost Got Me (and How to Spot the Red Flags) | Masum Kazi | [Read More](https://medium.com/p/a5c4c939b3c1) |
-| Mon, 02 Feb 2026 07:09:38 GMT | The Role of Information Systems Auditors in Cybersecurity | Irfan Sharief | [Read More](https://medium.com/p/805468a233c9) |
-| Mon, 02 Feb 2026 07:04:37 GMT | The Evolution of NDR: How Networks Became the First Line of Defense | NetWitness | [Read More](https://medium.com/p/a149936afb5a) |
-| Mon, 02 Feb 2026 07:04:07 GMT | How to Check Open, Closed, or In-Use TCP Ports on Linux | Smit Pipaliya | [Read More](https://medium.com/p/88490624fd3c) |
-| Mon, 02 Feb 2026 07:03:40 GMT | DogCat - TryHackMe Walkthrough | Dhruv | [Read More](https://medium.com/p/f72074e550a3) |
-| Mon, 02 Feb 2026 07:01:25 GMT | Clickjacking 2025: 10 Tools Showing Real Impact (with Practical Guides) | Very Lazy Tech | [Read More](https://medium.com/p/4e28741f0e51) |
-| Mon, 02 Feb 2026 07:01:03 GMT | Network Traffic Analysis: Detecting Phorpiex C2 and P2P Communications | Pavol Kluka | [Read More](https://medium.com/p/4188d14c3471) |
-| Mon, 02 Feb 2026 07:01:03 GMT | CySA+ — Assumption Trap: Visibility & Evidence Assumptions | the CyberStoic | [Read More](https://medium.com/p/6172ee1bef14) |
-| Mon, 02 Feb 2026 06:59:56 GMT | Cybersecurity Consulting Services Designed to Turn Insights Into Protection | GAM Information Systems Inc | [Read More](https://medium.com/p/7a08c10390fa) |
