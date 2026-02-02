@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Feb 2026 10:42:29 GMT | Dear AI | BitFlippa | [Read More](https://medium.com/p/f15f3464e45e) |
+| Mon, 02 Feb 2026 10:39:05 GMT | How to Protect LLM Applications Using Layered Runtime Security | Sanskar Maheshwari | [Read More](https://medium.com/p/7ee9c891ba8e) |
+| Mon, 02 Feb 2026 10:38:53 GMT | What is SSH? | Vpshosting | [Read More](https://medium.com/p/9d4bc4dd37d0) |
+| Mon, 02 Feb 2026 10:36:46 GMT | Would I Recommend You to Get the Google Cybersecurity Certificate? – A Strong Yes | Mohamed dahir | [Read More](https://medium.com/p/70993df02c6e) |
+| Mon, 02 Feb 2026 10:36:23 GMT | Top 8 Benefits of Hiring Professional Armed Security Officers | TCS Security | [Read More](https://medium.com/p/6e065c062dee) |
+| Mon, 02 Feb 2026 10:35:50 GMT | Enhance Email Delivery with AtomEmailPro: Meeting New Sender Standards | SuSocialPro | [Read More](https://medium.com/p/66aa945b7916) |
+| Mon, 02 Feb 2026 10:28:45 GMT | Data Security in the Age of AI: The Most Critical Trends for CTOs in 2026 | Berk Behcet Gerek | [Read More](https://medium.com/p/29583305c950) |
+| Mon, 02 Feb 2026 10:26:01 GMT | Designing Secure Chat Applications with End-to-End Encryption in React and TypeScript | Piranaavei Beremkumar | [Read More](https://medium.com/p/850c82181950) |
+| Mon, 02 Feb 2026 10:23:14 GMT | Total Security Solutions: The Strategic Role of Professional Security Consultancy | Ciss India | [Read More](https://medium.com/p/842daf430642) |
+| Mon, 02 Feb 2026 10:23:08 GMT | Why LLM Applications Are Vulnerable by Default | Sanskar Maheshwari | [Read More](https://medium.com/p/f9175edd4188) |
+| Mon, 02 Feb 2026 10:20:38 GMT | 10 Mistakes Businesses Make That Invite Cyber Attacks | Himanshu Chaudhary | [Read More](https://medium.com/p/0f560009f013) |
+| Mon, 02 Feb 2026 10:11:03 GMT | When You Choose Cybersecurity as a Career | Dhanush N | [Read More](https://medium.com/p/875dcd9d1d47) |
+| Mon, 02 Feb 2026 10:10:01 GMT | From Patch to Pwn: Reverse Engineering CVE-2026–24127 in A Night” | Abisheik Magesh | [Read More](https://medium.com/p/6956a5aae76e) |
+| Mon, 02 Feb 2026 10:02:58 GMT | How Spotem Detected and Contained Fire in Just 3 Minutes | Spotem | [Read More](https://medium.com/p/042aeff79109) |
+| Mon, 02 Feb 2026 09:58:17 GMT | Executing Edits Under Document Owner Context in Google Docs — An exploit or a feature? | PixelatedFrozen | [Read More](https://medium.com/p/c7336d67119f) |
+| Mon, 02 Feb 2026 09:57:47 GMT | 3. Race Conditions Vulnerability | Abhijeet kumawat | [Read More](https://medium.com/p/de7ed6177745) |
 | Mon, 02 Feb 2026 09:51:06 GMT | GuardsOn Canada Security — Secure Your Business with Professional Security | Grdsnscrt | [Read More](https://medium.com/p/3a505b0ec8ca) |
 | Mon, 02 Feb 2026 09:50:12 GMT | What API Developers Need to Know About PCI DSS and Financial API Security | Gertnsaku | [Read More](https://medium.com/p/68c138278346) |
 | Mon, 02 Feb 2026 09:49:23 GMT | Web Application Security: Hands-On Practice (Chapter 7 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/36a9bb57776d) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Feb 2026 04:35:41 GMT | Deploying military veterans into ungoverned spaces — The Nation Newspaper | Lekan Olayiwola | [Read More](https://medium.com/p/89e1a6952b0e) |
 | Mon, 02 Feb 2026 04:31:03 GMT | OAuth 2.0 Explained: A Beginner-Friendly Guide | Hasan Chinthaka | [Read More](https://medium.com/p/2d083c8a80a2) |
 | Mon, 02 Feb 2026 04:31:03 GMT | Union Budget 2026: What it means for Technology, AI and Cybersecurity | Zeron | [Read More](https://medium.com/p/906be6e9a0e9) |
-| Mon, 02 Feb 2026 04:28:47 GMT | Zero Trust in Cybersecurity Sounds So Cool, but the Failure Rate Is Around 75%! | David SEHYEON Baek | [Read More](https://medium.com/p/3abb243a8c9b) |
-| Mon, 02 Feb 2026 04:26:01 GMT | I Tried to Break an AI on Purpose… It Broke Me Instead | Kiran Maan | [Read More](https://medium.com/p/c5642bb3d4c1) |
-| Mon, 02 Feb 2026 04:25:33 GMT | AWS Migration Problems: Common Pitfalls and Solutions - eDelta Corporation | eDelta Corporation | [Read More](https://medium.com/p/d31776640521) |
-| Mon, 02 Feb 2026 04:25:22 GMT | Uchiha Seruapk | Apkpuredev | [Read More](https://medium.com/p/bbfb8c844be5) |
-| Mon, 02 Feb 2026 04:23:47 GMT | Secure Coding Best Practices Every Developer Must Follow | Geeky Vartika | [Read More](https://medium.com/p/38c04d75908b) |
-| Mon, 02 Feb 2026 04:18:49 GMT | Agent vs. Agent: How I Used CHACK to Audit OpenClaw and Uncover 10 Critical Flaws | MaanVader | [Read More](https://medium.com/p/f799b313bd1c) |
-| Mon, 02 Feb 2026 03:54:54 GMT | “Homelessness Taught Me What Security Really Is” | London lee | [Read More](https://medium.com/p/0ccd3e7adc23) |
-| Mon, 02 Feb 2026 03:43:35 GMT | How to Read Logs as a Beginner (Without SOC Experience) | Manubhav Sharma | [Read More](https://medium.com/p/25720d227308) |
-| Mon, 02 Feb 2026 03:42:52 GMT | F-Droid: The Open World of Apps Beyond Google’s Surveillance — Why and For Whom? | Bug Mohol | [Read More](https://medium.com/p/c87c0cdd7b2d) |
-| Mon, 02 Feb 2026 03:40:41 GMT | XSS Made Simple: How It Works, Why It’s Dangerous, and How Hackers Use JavaScript | Muhammed Asfan - Cybersecurity Researcher | [Read More](https://medium.com/p/246162e273cc) |
-| Mon, 02 Feb 2026 03:38:43 GMT | CTF Galaxy Dash Access JWT Private Key | Mr3Moe | [Read More](https://medium.com/p/b83ad360f300) |
-| Mon, 02 Feb 2026 03:33:29 GMT | This week there was one development in AI governance that I think is worth paying attention to.. | A D | [Read More](https://medium.com/p/4685a8fb3dbf) |
-| Mon, 02 Feb 2026 03:25:57 GMT | The Ultimate Guide to Digital Privacy: How TempMail.mobi Stops Spam and Protects Your Identity | Md Bayezid Bostami | [Read More](https://medium.com/p/623a7b3213d1) |
-| Mon, 02 Feb 2026 03:22:12 GMT | Three Incidents That Prove Algorithmic Trading Needs a Flight Recorder | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/fa99212ab377) |
-| Mon, 02 Feb 2026 03:19:46 GMT | The Authorization Gap: Why Identity Verification Alone is a Flawed Security Architecture | Ryu360 | [Read More](https://medium.com/p/b5b3f068739a) |
-| Mon, 02 Feb 2026 03:10:26 GMT | A Beginner’s Guide to IoT Firmware Analysis | Sushant M Mane | [Read More](https://medium.com/p/21ed00460440) |
