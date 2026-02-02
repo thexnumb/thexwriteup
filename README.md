@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Feb 2026 06:00:40 GMT | Understanding ffuf: It’s Not About Finding Answers, It’s About Spotting Differences | BotsiCat | [Read More](https://medium.com/p/71051adf2804) |
+| Mon, 02 Feb 2026 05:54:31 GMT | I Reviewed 1,000 Lines of Code — The Bug Was in Line 3 | Himanshu Singh | [Read More](https://medium.com/p/49523b7c68c3) |
+| Mon, 02 Feb 2026 05:46:58 GMT | Lattice Crypto and Lineage of Butterfly Operations | Gokul B Alex | [Read More](https://medium.com/p/15f589ab6c5c) |
+| Mon, 02 Feb 2026 05:40:07 GMT | Building a Resilient Cloud Foundation with AWS Disaster Recovery | F9 Infotech | [Read More](https://medium.com/p/a4fc54aaf2ed) |
+| Mon, 02 Feb 2026 05:39:05 GMT | How IT Consulting Services Reduce Costs, Risks, and Operational Gaps | Sovorun | [Read More](https://medium.com/p/0b09e5e802ab) |
+| Mon, 02 Feb 2026 05:35:20 GMT | Workforce IAM: Key Trends, Technologies, and Market Leaders | Michel mathew | [Read More](https://medium.com/p/ce77dddf3151) |
+| Mon, 02 Feb 2026 05:18:37 GMT | 25 Best Hacking Movies For Cybersecurity Enthusiasts [2026 List] | Alex Cole | [Read More](https://medium.com/p/4d93ebaae24a) |
+| Mon, 02 Feb 2026 05:10:26 GMT | The Operating System Journey — Kernel Mode | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/5c0121fa7d6a) |
+| Mon, 02 Feb 2026 05:09:46 GMT | Vibe Coding: Balancing Speed and Security | Sherman Davis | [Read More](https://medium.com/p/71d52bce0a1b) |
+| Mon, 02 Feb 2026 05:04:43 GMT | Protecting Social Media Accounts from Unauthorised Access | Elizabeth (Libby) | [Read More](https://medium.com/p/a61d56180c17) |
+| Mon, 02 Feb 2026 05:04:37 GMT | Kimi K2.5 is brilliant, but think twice about using Kimi.com | JP Caparas | [Read More](https://medium.com/p/157cbb26f9a3) |
+| Mon, 02 Feb 2026 04:55:50 GMT | Protecting Yourself Against AI Scams | Manu Cohen-Yashar | [Read More](https://medium.com/p/1d654cc44b4a) |
+| Mon, 02 Feb 2026 04:53:12 GMT | Windows Fundamentals 1 — Try Hack Me Walkthrough | Owais Ali Khan | [Read More](https://medium.com/p/7280e06cf297) |
+| Mon, 02 Feb 2026 04:49:14 GMT | Best Smart Home Automation in UAE and Best CCTV Company in UAE for Homes and Businesses | techfra solutions | [Read More](https://medium.com/p/1e14c8e9f283) |
+| Mon, 02 Feb 2026 04:41:16 GMT | Video Surveillance as a Service (VSaaS): The Cloud Shift Redefining Enterprise Security | VMukti Solutions | [Read More](https://medium.com/p/72c27518cbf9) |
+| Mon, 02 Feb 2026 04:41:01 GMT | Rate Limiting for Beginners: Why It’s Needed and How It Works | Khushi_developer | [Read More](https://medium.com/p/23549944b943) |
+| Mon, 02 Feb 2026 04:39:02 GMT | The OpenClaw & Moltbook Disaster: When Agentic AI Leaves the Front Door Wide Open | Mandar Karhade, MD. PhD. | [Read More](https://medium.com/p/44eb7f1432e4) |
+| Mon, 02 Feb 2026 04:31:03 GMT | OAuth 2.0 Explained: A Beginner-Friendly Guide | Hasan Chinthaka | [Read More](https://medium.com/p/2d083c8a80a2) |
+| Mon, 02 Feb 2026 04:31:03 GMT | Union Budget 2026: What it means for Technology, AI and Cybersecurity | Zeron | [Read More](https://medium.com/p/906be6e9a0e9) |
 | Mon, 02 Feb 2026 04:28:47 GMT | Zero Trust in Cybersecurity Sounds So Cool, but the Failure Rate Is Around 75%! | David SEHYEON Baek | [Read More](https://medium.com/p/3abb243a8c9b) |
 | Mon, 02 Feb 2026 04:26:01 GMT | I Tried to Break an AI on Purpose… It Broke Me Instead | Kiran Maan | [Read More](https://medium.com/p/c5642bb3d4c1) |
 | Mon, 02 Feb 2026 04:25:33 GMT | AWS Migration Problems: Common Pitfalls and Solutions - eDelta Corporation | eDelta Corporation | [Read More](https://medium.com/p/d31776640521) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Feb 2026 18:51:40 GMT | Alert Triage With Elastic —  Walkthrough - TryHackMe | Shyroot | [Read More](https://medium.com/p/f8daf3a7b8d3) |
 | Sun, 01 Feb 2026 18:45:53 GMT | LLMNR & NBT-NS Posing, My Favorite Attack! | Aaronashley | [Read More](https://medium.com/p/05b3f70bfb92) |
 | Sun, 01 Feb 2026 18:41:27 GMT | Engineering Blind Spots: What Control Engineers Don’t Model as “Security Risk” | Muhammad Ali Khan | [Read More](https://medium.com/p/f996d85583ba) |
-| Sun, 01 Feb 2026 18:41:01 GMT | Proving Grounds Linux Lab Hub ( Road to OSCP ) | Cyb0rgBytes | [Read More](https://medium.com/p/e5d58a42530c) |
-| Sun, 01 Feb 2026 18:39:44 GMT | The Art of Controlled Noise: How Differential Privacy Protects Our Secrets in a Data-Driven World | Rajdip Bera | [Read More](https://medium.com/p/319c2acd36a5) |
-| Sun, 01 Feb 2026 18:36:22 GMT | IDOR Vulnerability in Campaign Workflows – Accessing Archived Campaigns of Any User 150$ | Hasan Khan | [Read More](https://medium.com/p/f24b46c0cf59) |
-| Sun, 01 Feb 2026 18:36:13 GMT | GraphQL Introspection to Admin Takeover: Exploiting Unauthenticated APIs | BaymapPop23 | [Read More](https://medium.com/p/2f4c14c3170b) |
-| Sun, 01 Feb 2026 18:35:14 GMT | 2FA Bypass via Session Fixation — High Vulnerability in Vero 300$ | Hasan Khan | [Read More](https://medium.com/p/f9e56b39c9ca) |
-| Sun, 01 Feb 2026 18:35:05 GMT | Introducing ssl-toolkit | Russ Mckendrick | [Read More](https://medium.com/p/626dcaf8a93b) |
-| Sun, 01 Feb 2026 18:31:01 GMT | Why Psychology of Intelligence Analysis Is Essential Reading for Cybersecurity Professionals | Stefan Bargan | [Read More](https://medium.com/p/3c2bb94e763d) |
-| Sun, 01 Feb 2026 18:21:40 GMT | How a single misconfigured endpoint exposed users and allowed the creation of administrator… | BaymapPop23 | [Read More](https://medium.com/p/389e5a4977ec) |
-| Sun, 01 Feb 2026 18:20:36 GMT | Blue Jew Men - Understanding Men’s Emotional Vulnerabilities | Bruce Edgar Jr Slaton PiTe ;) | [Read More](https://medium.com/p/fac6a573534a) |
-| Sun, 01 Feb 2026 18:17:40 GMT | While You Were Watching AI Agents Debate Religion on Moltbook, They Might Have Stolen  Credentials | Phil Stafford | [Read More](https://medium.com/p/c6a25ab51b73) |
-| Sun, 01 Feb 2026 18:14:23 GMT | Why 800,000 Devices Are Suddenly at Risk: The Telnet Vulnerability Explained | Yash Gohel | [Read More](https://medium.com/p/ab460373c55a) |
-| Sun, 01 Feb 2026 18:11:08 GMT | PrivExec — Privilege Escalation Write‑Up | Amr khaled | [Read More](https://medium.com/p/cba868c1a34c) |
-| Sun, 01 Feb 2026 18:10:42 GMT | ELK Stack’te Uzmanlaşın: KQL, Lucene ve Regex ile Gelişmiş Sorgu Teknikleri (TryHackMe — Advanced… | Ahmet Hakan Öztürk | [Read More](https://medium.com/p/e3a3dc1bd651) |
-| Sun, 01 Feb 2026 18:07:12 GMT | Windows Event Log Analysis(BTL1) | RH | [Read More](https://medium.com/p/8c933049c813) |
-| Sun, 01 Feb 2026 18:05:10 GMT | [CyberSec] Designing an LLM Agent for MITRE ATT&CK–Driven Detection Engineering | Pietro Romano / SecBeret | [Read More](https://medium.com/p/0eaaa20445b0) |
-| Sun, 01 Feb 2026 17:50:15 GMT | Day 8: SOC Skill Matrix | Siddhesh Patil | [Read More](https://medium.com/p/394a0ee8f884) |
-| Sun, 01 Feb 2026 17:46:57 GMT | The Surveillance Shift and STEAL. THE NEW WARFIELD,That No One Voted For. | The record shows | [Read More](https://medium.com/p/707b90b702b5) |
-| Sun, 01 Feb 2026 17:40:40 GMT | Phishing Email Analysis Report (BTL1) | RH | [Read More](https://medium.com/p/799fb406de3c) |
-| Sun, 01 Feb 2026 17:37:39 GMT | 2025 Crypto Hacks & Exploits Analysis: The Attack Surface is Moving Up the Stack | CipherBC | [Read More](https://medium.com/p/11a2cb41c917) |
