@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Feb 2026 09:51:06 GMT | GuardsOn Canada Security — Secure Your Business with Professional Security | Grdsnscrt | [Read More](https://medium.com/p/3a505b0ec8ca) |
+| Mon, 02 Feb 2026 09:50:12 GMT | What API Developers Need to Know About PCI DSS and Financial API Security | Gertnsaku | [Read More](https://medium.com/p/68c138278346) |
+| Mon, 02 Feb 2026 09:49:23 GMT | Web Application Security: Hands-On Practice (Chapter 7 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/36a9bb57776d) |
+| Mon, 02 Feb 2026 09:44:54 GMT | The Secret Life of AWS: The Bodyguard (AWS WAF & Shield) | Aaron Rose | [Read More](https://medium.com/p/20713ade903c) |
+| Mon, 02 Feb 2026 09:32:00 GMT | Turning Security Posture Into a Living, Breathing Capability | Kaiburr | [Read More](https://medium.com/p/21ff894a888b) |
+| Mon, 02 Feb 2026 09:30:47 GMT | SQL Injection - PortSwigger Labs Solved + Learning Notes.. | Deepika  B | [Read More](https://medium.com/p/587d6a9e7e39) |
+| Mon, 02 Feb 2026 09:25:29 GMT | When Demolitions Are Not Accidents | Dcap Mindset | [Read More](https://medium.com/p/e78f648e9bbb) |
+| Mon, 02 Feb 2026 09:23:31 GMT | Building Microservices Step-by-Step (Part 5): API Gateway in Spring Boot | Bawantha Rathnayake | [Read More](https://medium.com/p/657a7d675e0f) |
+| Mon, 02 Feb 2026 09:22:48 GMT | Virtual Private Network (VPN): The Internet Privacy Tool Everyone Needs in 2026 | Shalu | [Read More](https://medium.com/p/bfb9d916d9a7) |
+| Mon, 02 Feb 2026 09:20:23 GMT | Ideal Environment to Create While Working on Threat Intelligence Remotely | Rishika Desai | [Read More](https://medium.com/p/49f6d65fbeaf) |
+| Mon, 02 Feb 2026 09:15:32 GMT | Algebraic Geometric Codes and Aspects of Galois Fields | Gokul B Alex | [Read More](https://medium.com/p/38a583c0db50) |
+| Mon, 02 Feb 2026 09:12:45 GMT | Artificial Intelligence Consulting Services in 2026 | Abhishek Kumar | [Read More](https://medium.com/p/9ee7d15c1af2) |
+| Mon, 02 Feb 2026 09:10:48 GMT | TI Mindmap Hub - Weekly Threat Brief — Issue #2 | Antonio Formato | [Read More](https://medium.com/p/1c3b9217a4cb) |
+| Mon, 02 Feb 2026 09:09:21 GMT | Why Enterprise RAG Security Keeps Missing the Retrieval Layer | FabioPetti | [Read More](https://medium.com/p/a35c76af53ef) |
+| Mon, 02 Feb 2026 09:08:22 GMT | [EP.1] Learn from Defense — SOC141 (LetsDefend) | Pattharadanai Sanitjairak | [Read More](https://medium.com/p/08a2373f9ff0) |
+| Mon, 02 Feb 2026 09:07:02 GMT | Mapping The Domain: A Red Teamer’s Guide To Active Directory | Redfox Security | [Read More](https://medium.com/p/3a4f7ef5ccc0) |
+| Mon, 02 Feb 2026 09:05:30 GMT | Managed IT Services Columbus: The 2026 Guide to Cybersecurity, Cloud & Onsite Support | vortex it systems | [Read More](https://medium.com/p/b291e07a205f) |
+| Mon, 02 Feb 2026 08:55:24 GMT | Navigating the Digital Battleground: A Deep Dive into Cybersecurity Operations and Threat… | Khabbab Sarker | [Read More](https://medium.com/p/2ddc0334655b) |
+| Mon, 02 Feb 2026 08:49:29 GMT | Part 2: A Real-World Recon Workflow — One Command, Clean Results | ghostyjoe | [Read More](https://medium.com/p/989d73ffe14a) |
 | Mon, 02 Feb 2026 08:41:17 GMT | Red Team Perspective: Simulating the Adversary | Gokhan Can | [Read More](https://medium.com/p/b8ad63face14) |
 | Mon, 02 Feb 2026 08:34:46 GMT | Social Policy for Vulnerability & Trauma: Why Our Systems Must Learn to Trust Wounded Bodies | Pia Lütkebomert | [Read More](https://medium.com/p/5ddbbc7f915f) |
 | Mon, 02 Feb 2026 08:27:44 GMT | Why Modern SOCs Are Drowning in Alerts, but Still Missing Real Threats | ThreatLens - Security Intelligence Automation | [Read More](https://medium.com/p/8f77b61d0643) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Feb 2026 03:22:12 GMT | Three Incidents That Prove Algorithmic Trading Needs a Flight Recorder | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/fa99212ab377) |
 | Mon, 02 Feb 2026 03:19:46 GMT | The Authorization Gap: Why Identity Verification Alone is a Flawed Security Architecture | Ryu360 | [Read More](https://medium.com/p/b5b3f068739a) |
 | Mon, 02 Feb 2026 03:10:26 GMT | A Beginner’s Guide to IoT Firmware Analysis | Sushant M Mane | [Read More](https://medium.com/p/21ed00460440) |
-| Mon, 02 Feb 2026 02:50:33 GMT | Most Software Bugs Are Social Problems, Not Technical Ones | The Dev Notebook | [Read More](https://medium.com/p/ccecbad32386) |
-| Mon, 02 Feb 2026 02:49:10 GMT | The Competency Gap Is Now a Security Risk | Jordan Delorenzo | [Read More](https://medium.com/p/0de12dcf04ab) |
-| Mon, 02 Feb 2026 02:29:16 GMT | Lazy Loading 與 Eager Loading的比喻 | 思維舞步 MindSteps | [Read More](https://medium.com/p/4ec4bd975e7e) |
-| Mon, 02 Feb 2026 02:20:56 GMT | I Got Tired of Rebuilding DAST in Every Repo | Rio Wiraldhani | [Read More](https://medium.com/p/aa017ecf5a0e) |
-| Mon, 02 Feb 2026 02:08:06 GMT | Crossing the Road Anyway | Ali Dyer | [Read More](https://medium.com/p/c462d7723415) |
-| Mon, 02 Feb 2026 02:03:40 GMT | The World Doesn’t Have a Deepfake Problem. It Has a Proof Problem. | verasnap | [Read More](https://medium.com/p/1c2a7948fb7b) |
-| Mon, 02 Feb 2026 02:02:15 GMT | Why Content Credentials Alone Won’t Save Us From Deepfakes — And What Will | verasnap | [Read More](https://medium.com/p/f29a7ec8ba83) |
-| Mon, 02 Feb 2026 02:01:01 GMT | The Privacy Awakening: Escaping Digital Serfdom in the Age of AI | Bill | [Read More](https://medium.com/p/b00859e9f281) |
-| Mon, 02 Feb 2026 01:56:54 GMT | Subject: RE: RE: RE: RE: RE: RE: Mandatory Compliance Training — URGENT | hackherway cyber | [Read More](https://medium.com/p/fbf9184b23ee) |
-| Mon, 02 Feb 2026 01:26:41 GMT | The Walking Dead of Active Directory | Nikos Vourdas (nickvourd) | [Read More](https://medium.com/p/1edd33fd7050) |
-| Mon, 02 Feb 2026 01:21:22 GMT | Writeup PascalCTF 2026 — Travel Playlist | Arturo Melgarejo | [Read More](https://medium.com/p/46b89fc4e566) |
-| Mon, 02 Feb 2026 01:17:47 GMT | Technology in Todays World: Is It Getting Better or Worse? | Mario | [Read More](https://medium.com/p/268b34abb90a) |
-| Mon, 02 Feb 2026 01:15:32 GMT | OSCP Exam Secrets — Avoiding Rabbit Holes and Staying on Track (Part 4) | Got Root? | [Read More](https://medium.com/p/87768ccf770f) |
-| Mon, 02 Feb 2026 01:10:16 GMT | The Skeleton Key in your Pocket: Mastering The iCopy-XS (Part 2 of 5) | Nicholas Mullenski | [Read More](https://medium.com/p/43b80b9de904) |
-| Mon, 02 Feb 2026 01:09:51 GMT | JS Recon to Uncover Hidden Web Vulnerabilities in Minutes — And How You Can Too | Monika sharma | [Read More](https://medium.com/p/350b49b805c1) |
-| Mon, 02 Feb 2026 01:07:46 GMT | BYPASSING STATIC ANALYSIS | Cybernight | [Read More](https://medium.com/p/69cf817664d3) |
-| Mon, 02 Feb 2026 01:04:49 GMT | Best Hacking Tools for 2026: From Linux to DragonOS | Shahzaib | [Read More](https://medium.com/p/61d1201ff2c7) |
-| Mon, 02 Feb 2026 00:56:35 GMT | How to Secure Your WiFi Network: A Step by Step Practical Guide | Raviteja Mureboina | [Read More](https://medium.com/p/e0bad8d493cd) |
-| Mon, 02 Feb 2026 00:51:08 GMT | Trust is All You Need — A Review of PayEgis AI Agent Security Progress in 2025 | Dejia Wang | [Read More](https://medium.com/p/a5ef19eba7e8) |
