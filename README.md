@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Feb 2026 19:15:50 GMT | Slingshot: ELK Stack ile Bir Siber Saldırının İzini Sürmek (TryHackMe-Slingshot CTF Çözümü) | Ahmet Hakan Öztürk | [Read More](https://medium.com/p/960a2ddb6ba5) |
+| Tue, 03 Feb 2026 19:13:08 GMT | My BYBS Transformation Journey: From Carrying Everything Alone to Moving with Clarity . | Nyombe Benson Jalle | [Read More](https://medium.com/p/68e5d8c4ef94) |
+| Tue, 03 Feb 2026 19:04:55 GMT | Cybersecurity Is Now an Operational Risk, Not Just IT Risk | JSOC IT BLOG | [Read More](https://medium.com/p/5f004c1f55f4) |
+| Tue, 03 Feb 2026 18:59:02 GMT | EU GDPR – Article 3 (Territorial Scope) | MDM Team | [Read More](https://medium.com/p/327d6de94fc6) |
+| Tue, 03 Feb 2026 18:55:32 GMT | Why Junior Developer Roles Were Already Breaking Before AI | Michaela Glaze | [Read More](https://medium.com/p/f87563d0db4d) |
+| Tue, 03 Feb 2026 18:54:23 GMT | Cybersecurity Isn’t Technical Anymore — It’s Strategic | Liam | [Read More](https://medium.com/p/b287130d5a0f) |
+| Tue, 03 Feb 2026 18:45:51 GMT | Race Conditions Tryhackme — (Challenge Web App) | Panglimaizza | [Read More](https://medium.com/p/f33cd9e3b13a) |
+| Tue, 03 Feb 2026 18:42:15 GMT | HTB — Starting Point [TIER 0] — “Redeemer” | Faraam | [Read More](https://medium.com/p/938c22dadce8) |
+| Tue, 03 Feb 2026 18:40:39 GMT | Cheesy Does It(BugForge) | r0zx | [Read More](https://medium.com/p/ae2a8ebb8ccf) |
+| Tue, 03 Feb 2026 18:39:32 GMT | Top-rated disaster recovery service providers for data centers | Tushar M Kumawat | [Read More](https://medium.com/p/b9fd16e9720a) |
+| Tue, 03 Feb 2026 18:34:21 GMT | Notepad++ Attributed to Chinese Spies, SpaceX Buys xAI, and Disney’s New CEO - The Daily Tech… | Souren Stepanyan | [Read More](https://medium.com/p/b96797ceee90) |
+| Tue, 03 Feb 2026 18:33:40 GMT | Cybersecurity Explained: Intro | Chimdi | [Read More](https://medium.com/p/94aa165099bb) |
 | Tue, 03 Feb 2026 18:21:53 GMT | Be the Sheriff your AI Villagers Deserve. | Ruiters | [Read More](https://medium.com/p/d14acf10ae30) |
 | Tue, 03 Feb 2026 18:16:01 GMT | Seven Eras of Web3 Hacks: From The DAO to Cross-Chain Chaos | Exploitless | [Read More](https://medium.com/p/afcffb70d762) |
 | Tue, 03 Feb 2026 18:13:13 GMT | Deepfake Detection in the Cloud: Why Infrastructure Matters More Than Models | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/fef871d52bbf) |
@@ -40,6 +52,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Feb 2026 17:12:47 GMT | My First Week: 3 Business Logic Bugs in Major E-Commerce | Ali Alassaf | [Read More](https://medium.com/p/8b303e02771f) |
 | Tue, 03 Feb 2026 17:09:57 GMT | I Left a Windows Server Open to the Internet for 40 Hours. Here is What Happened. | Adeleye Joshua | [Read More](https://medium.com/p/6d47d8a5c129) |
 | Tue, 03 Feb 2026 17:06:54 GMT | Your Smart Devices Know Too Much — And Most of Us Don’t Realize It | CyberGuide By MH | [Read More](https://medium.com/p/cdb918d193e1) |
+| Tue, 03 Feb 2026 17:06:42 GMT | Two Worlds of Cybersecurity: Who’s Prepared, and Who Isn’t? | TechDemocracy | [Read More](https://medium.com/p/b063cd7530df) |
 | Tue, 03 Feb 2026 17:05:06 GMT | Security Camera Installation: A Quiet Guardian for Homes and Businesses | AlexBryn | [Read More](https://medium.com/p/5252c9f26b8d) |
 | Tue, 03 Feb 2026 17:03:36 GMT | # Vaccine — HTB Write-Up | NIbler | [Read More](https://medium.com/p/011630e607e0) |
 | Tue, 03 Feb 2026 17:01:50 GMT | The Role of Home Monitoring in Emergency Response and Safety | AlexBryn | [Read More](https://medium.com/p/49726fd463e2) |
@@ -70,6 +83,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Feb 2026 15:38:00 GMT | A letter to Amazon: On security, systems and the pursuit of scale | Abhinav Jain | [Read More](https://medium.com/p/48e672e665f7) |
 | Tue, 03 Feb 2026 15:36:58 GMT | How Security Cameras Improve Home Safety | Alex Bryn | [Read More](https://medium.com/p/b4ad850d407d) |
 | Tue, 03 Feb 2026 15:34:50 GMT | Why I Built a Policy Decision Language Instead of Using a Programming Language | Kuselan Sugumaran | [Read More](https://medium.com/p/1627a4c28fc7) |
+| Tue, 03 Feb 2026 15:32:58 GMT | Cyber Attack Revealed About a Bakery Production Facility’s Real Risks | Cordula Boeck | [Read More](https://medium.com/p/cde607a9ec42) |
 | Tue, 03 Feb 2026 15:30:19 GMT | Why CIOs Ignore Warnings — and What Aviation Gets Right | Andreas Gächter | [Read More](https://medium.com/p/5ad06af843c0) |
 | Tue, 03 Feb 2026 15:22:55 GMT | API Security vs Web Security: Same Goal, Very Different Problems | Ayoub Taouam | [Read More](https://medium.com/p/33d26225c690) |
 | Tue, 03 Feb 2026 15:22:04 GMT | Project : Automating IAM Access Key Security using AWS Lambda | Jayraj Singh | [Read More](https://medium.com/p/0b3a019e8b9b) |
@@ -87,6 +101,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Feb 2026 14:39:47 GMT | Deepfake Social Engineering: Beyond Standard Phishing | Digital Defense | [Read More](https://medium.com/p/182641fbf848) |
 | Tue, 03 Feb 2026 14:37:43 GMT | RootMe (CTF Walkthrough) | Marduk I Am | [Read More](https://medium.com/p/efe69ef73510) |
 | Tue, 03 Feb 2026 14:37:37 GMT | Épisode 1 : Le Coffre-fort en Carton et le Fantôme de Grok | Deepbedrock | [Read More](https://medium.com/p/ccf2ae2ddb0b) |
+| Tue, 03 Feb 2026 14:32:02 GMT | WhatsApp "Gift" Links: A Love Story Between Scammers and Your Bank Account | Digital Kavach ️ | [Read More](https://medium.com/p/0107b2a25730) |
 | Tue, 03 Feb 2026 14:31:02 GMT | Targeted Packet Sniffing Using Airodump-ng: A Detailed Guide | Vignesh R | [Read More](https://medium.com/p/f779881596eb) |
 | Tue, 03 Feb 2026 14:19:56 GMT | How PlutoSec Helps You Fill Your Security Gaps and Stay ProtectedHow PlutoSec Helps You Fill Your… | Plutosec Cyber Security | [Read More](https://medium.com/p/de99abd4aca4) |
 | Tue, 03 Feb 2026 14:12:28 GMT | Threat and Vulnerabilities Report-January 2026 | Loginsoft | [Read More](https://medium.com/p/582538de984c) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Feb 2026 13:38:14 GMT | 13.1.10-packet-tracer-configure-a-wireless-network | Nicksondiazm | [Read More](https://medium.com/p/63602e825ab7) |
 | Tue, 03 Feb 2026 13:36:24 GMT | Decision Readiness Simulations. Practice the Calls That Can Save Your Reputation | Tyson Martin | [Read More](https://medium.com/p/149d75c02ea3) |
 | Tue, 03 Feb 2026 13:36:08 GMT | The AI Social Network Built by AI Had No Security (Shocking No One) | Threat Road | [Read More](https://medium.com/p/35fb7d771c20) |
-| Tue, 03 Feb 2026 13:35:00 GMT | Building and Breaking a Web Application Firewall: A Hands-On ModSecurity & OWASP CRS Lab | CyberPands | [Read More](https://medium.com/p/ee9a21a6ac9a) |
-| Tue, 03 Feb 2026 13:32:37 GMT | The Silence of the Lambos: 2026 is the year crypto finally grows up (or goes the way of the dodo) | Nathoxx | [Read More](https://medium.com/p/e89b94dbab6e) |
-| Tue, 03 Feb 2026 13:31:01 GMT | Inside a Web Application Firewall: Understanding ModSecurity, OWASP CRS, and WAF Decision-Making | CyberPands | [Read More](https://medium.com/p/96bd5590cf71) |
-| Tue, 03 Feb 2026 13:31:01 GMT | The Evolution of Modern Digital Architecture | Cynox Security LLP. | [Read More](https://medium.com/p/740d3347008f) |
-| Tue, 03 Feb 2026 13:30:52 GMT | Authentication and Authorization for Dummies | Shivam Bathla | [Read More](https://medium.com/p/1f77567b7c6d) |
-| Tue, 03 Feb 2026 13:28:01 GMT | RingZeroCTF Coding Challenge 1 [Hash Me If You Can] Writeup | Devansh Patel | [Read More](https://medium.com/p/ba55f820a1b8) |
-| Tue, 03 Feb 2026 13:20:02 GMT | 從帳號爆破到勒索：用 Windows 事件訊號還原一條攻擊鏈 | Ariel Chang | [Read More](https://medium.com/p/722a99a3b20e) |
-| Tue, 03 Feb 2026 13:11:01 GMT | Courage in the Cold: Embracing Vulnerability and Personal Leadership | Emberhart | [Read More](https://medium.com/p/0aa8a2bbd0f3) |
-| Tue, 03 Feb 2026 13:03:46 GMT | Hack Instagram - Tips 2026 - Hire Hacker | BlackHat | [Read More](https://medium.com/p/d3a8cdd85fd5) |
-| Tue, 03 Feb 2026 13:00:42 GMT | Kriptografi ve Veri Gizleme Sanatı: “Göz Önündeki Sırlar: Steganografi” | MuratSeyrek | [Read More](https://medium.com/p/dac217e66635) |
-| Tue, 03 Feb 2026 12:56:34 GMT | Sovereignty is Forged: Why Code Needs a Body | Franck Abe | [Read More](https://medium.com/p/5e068abf5571) |
-| Tue, 03 Feb 2026 12:53:14 GMT | SSRF + Gopher: O “Túnel” para o RCE | sarkis093 | [Read More](https://medium.com/p/af7ef2b74629) |
-| Tue, 03 Feb 2026 12:46:11 GMT | AI Fraudster, Hacker, and Thief: Don’t Get Caught by Its Dirty Tricks! | srgg6701 | [Read More](https://medium.com/p/ed9fd451d80f) |
-| Tue, 03 Feb 2026 12:40:45 GMT | Why Most Red Team Operations Fail in the First 24 Hours | X7r3M9 | [Read More](https://medium.com/p/3509bf5ed0c9) |
-| Tue, 03 Feb 2026 12:34:22 GMT | Part 5: How We Built the Bridge and Forgot the Human | Tohbie Adelaja | [Read More](https://medium.com/p/acb7b1d9c8ec) |
