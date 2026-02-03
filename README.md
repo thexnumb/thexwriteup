@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Feb 2026 08:36:32 GMT | Jim’s Cyber Squawk is online! | Jim Grimes | [Read More](https://medium.com/p/6876cc2287aa) |
+| Tue, 03 Feb 2026 08:25:14 GMT | The Most Dangerous Security Flaw is Your Own Politeness | Numan Nadeem | [Read More](https://medium.com/p/40c3935ad990) |
+| Tue, 03 Feb 2026 08:22:41 GMT | How I Built a Physical Kill-Switch for CI/CD Pipelines to Stop SolarWinds-Style Attacks | Kalyan Tamarapalli | [Read More](https://medium.com/p/a026e91011cb) |
+| Tue, 03 Feb 2026 08:20:23 GMT | Why Your Linux Anti-Forensics Methods Are Failing (And How to Fix It) | Dhanush N | [Read More](https://medium.com/p/d9904f3fcb10) |
+| Tue, 03 Feb 2026 08:12:57 GMT | The Value of Well-Researched Blogs in the Digital Age | Eliteblog | [Read More](https://medium.com/p/2dcb03d2dbb4) |
+| Tue, 03 Feb 2026 08:10:14 GMT | Why Choosing the Right Microsoft Cloud Solution Provider Matters for Your Business | IFI Techsolutions | [Read More](https://medium.com/p/9d39a1a7705f) |
+| Tue, 03 Feb 2026 08:04:55 GMT | Emotional Discipline Has a Price | Antarayaami Bodhicitta | [Read More](https://medium.com/p/f0413e24a430) |
+| Tue, 03 Feb 2026 07:56:55 GMT | Cryptocurrency And More: Why Quantarium’s PQC Is The Standard For Future Financial Security | Quantarium | [Read More](https://medium.com/p/898f3c9e2297) |
+| Tue, 03 Feb 2026 07:54:05 GMT | MoltBots Might Be Gossiping About You Right Now (and I’m not even kidding a little bit) | iTechnicallykan | [Read More](https://medium.com/p/fad60fb5eddd) |
+| Tue, 03 Feb 2026 07:51:56 GMT | No surprise. It’s out there. Malicious AI. | Gerald Maria Dekkers | [Read More](https://medium.com/p/eeaf7cd87376) |
+| Tue, 03 Feb 2026 07:49:34 GMT | Fixing Security Vulnerabilities in a Real-World Side Project (Using GitHub Dependabot) | Shashi Bhushan Yadav | [Read More](https://medium.com/p/d86a93972121) |
+| Tue, 03 Feb 2026 07:48:18 GMT | Malware Analysis: Analyzing Smokebot and Pikabot Loaders | Motasem Hamdan | [Read More](https://medium.com/p/8dbe73f37a7b) |
+| Tue, 03 Feb 2026 07:47:57 GMT | Building Automation Changed How I Think About GRC Work | Funke Omolere | [Read More](https://medium.com/p/a6f48b784f17) |
 | Tue, 03 Feb 2026 07:43:39 GMT | The Art of Penetration Testing: Continuity (Part 1) | EX_097 | [Read More](https://medium.com/p/2367532048f8) |
+| Tue, 03 Feb 2026 07:40:19 GMT | Understanding Vulnerabilities: A Guide to Modern Cyber Threats and Defense | Khabbab Sarker | [Read More](https://medium.com/p/d93d45942f42) |
 | Tue, 03 Feb 2026 07:33:14 GMT | Data Poisoning Attacks: How Hackers Manipulate AI Models | Majidbasharat | [Read More](https://medium.com/p/ee903d0df83c) |
 | Tue, 03 Feb 2026 07:31:01 GMT | AI Safety for Builders: Controls That Actually Work | Hash Block | [Read More](https://medium.com/p/fb127b2f3b25) |
 | Tue, 03 Feb 2026 07:31:01 GMT | JavaScript Security 2026: XSS/CSRF Didn’t Die | Praxen | [Read More](https://medium.com/p/79138901fddc) |
@@ -99,17 +113,3 @@ i. | Anand Mishra | [Read More](https://medium.com/p/c7ee3b5680cf) |
 | Tue, 03 Feb 2026 02:19:28 GMT | The First Social Network for AI Agents Is Here | Zac Moore | [Read More](https://medium.com/p/66c47e24e16e) |
 | Tue, 03 Feb 2026 01:59:17 GMT | Living Alone? 4 “Aesthetic” Security Gadgets That Make Your Apartment a Fortress | Brian Chen | [Read More](https://medium.com/p/a9301f074d3d) |
 | Tue, 03 Feb 2026 01:54:22 GMT | Breaking Our Own APIs: Practical Security Testing with ffuf | Rathinasabapathy Ramalingam (Saba) | [Read More](https://medium.com/p/282d1241487e) |
-| Tue, 03 Feb 2026 01:36:54 GMT | Menjelajahi Stack Server Bersama Coding Ceria X Penjelajah CyberSecurity | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/e650665b2ea4) |
-| Tue, 03 Feb 2026 01:34:10 GMT | Reverse Engineering and Analyzing Malware: Shooter | smarttfoxx | [Read More](https://medium.com/p/f250c52431ba) |
-| Tue, 03 Feb 2026 01:31:01 GMT | WebAssembly Isn’t a Hack: Use Cases That Keep Growing | Velorum | [Read More](https://medium.com/p/acdd8e8df6a0) |
-| Tue, 03 Feb 2026 01:24:43 GMT | Unseen and Protected: Rethinking AI, Privacy, and the Right to Grow Up in a Digital World | Yash Patel | [Read More](https://medium.com/p/6179c53eee03) |
-| Tue, 03 Feb 2026 01:01:36 GMT | Analyzing the Digital Shadow Economy: | Miles Fisher | [Read More](https://medium.com/p/5a49c7ed2ded) |
-| Tue, 03 Feb 2026 00:36:03 GMT | Investigating a Potential Insider Threat with Microsoft Defender for Endpoint | Julian Smith | [Read More](https://medium.com/p/cd2be913f642) |
-| Tue, 03 Feb 2026 00:34:02 GMT | API Gateways: The Security Guard of Your Backend | Saurav Modi | [Read More](https://medium.com/p/4e207df2f035) |
-| Tue, 03 Feb 2026 00:33:22 GMT | How I Coded My Own AI Assistant Using Modern PHP and Gemini API (https://paticotr.xyz) | Gokhan Can | [Read More](https://medium.com/p/90bbdcbe7cf0) |
-| Tue, 03 Feb 2026 00:13:24 GMT | Demon Reborn (BUET CSE Fest 2026 CTF Finals) — Validation Bypass via devalue.parse | Sakibul Ali Khan | [Read More](https://medium.com/p/4dad4b6bdec7) |
-| Tue, 03 Feb 2026 00:01:02 GMT | John the Ripper: Guía Completa de Cracking para Bug Bounty y Auditoría | JPablo13 | [Read More](https://medium.com/p/1479f77ba441) |
-| Mon, 02 Feb 2026 23:56:48 GMT | When Your Data Is Leaving the Building: Why Old DLP Breaks in the Age of AI Browsing | Mammoth Cyber | [Read More](https://medium.com/p/ac47b5dd2aab) |
-| Mon, 02 Feb 2026 23:56:29 GMT | AI, Cybersecurity, and the Illusion of Safety | Cyber-AppSec | [Read More](https://medium.com/p/bca977a3f4cf) |
-| Mon, 02 Feb 2026 23:50:33 GMT | CTF Pwn101 @ TryHackMe | Rafael David | [Read More](https://medium.com/p/768b5a5545ff) |
-| Mon, 02 Feb 2026 23:35:53 GMT | Build a Secure, Self‑Hosted AI Agent (Molten) on Azure for Under $10/Month | Kim Vaddi | [Read More](https://medium.com/p/a2999c6953b8) |
