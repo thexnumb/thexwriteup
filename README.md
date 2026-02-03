@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Feb 2026 22:30:30 GMT | Hardened Docker Images — Explained the Way I Finally Understood Them | Medha Goel | [Read More](https://medium.com/p/571d23a1da7c) |
+| Tue, 03 Feb 2026 22:26:17 GMT | The Demo - Dog Years | Julio Oña | [Read More](https://medium.com/p/d7bd7969d30f) |
+| Tue, 03 Feb 2026 22:17:50 GMT | Part 4: STIGs — The Strategist Game of Death for Cybersecurity (Defense-in-Depth Series) | Michael Wills | [Read More](https://medium.com/p/91cd553ead27) |
+| Tue, 03 Feb 2026 22:13:55 GMT | Leading Through a Major Security Incident | Michael Leigh | [Read More](https://medium.com/p/4a3c7b11f261) |
+| Tue, 03 Feb 2026 22:13:44 GMT | The Invisible Flaw: A Write-Up on Business Logic & Access Control | lightofmoon | [Read More](https://medium.com/p/efe795a4b08f) |
+| Tue, 03 Feb 2026 22:10:47 GMT | The Molting of the Claw: Why Autonomous Agents Need a Verifiable Shell | Param Chaudhari | [Read More](https://medium.com/p/06686b9e1502) |
+| Tue, 03 Feb 2026 21:56:18 GMT | The #1 Mistake Travelers Make on Public WiFi | John Sebastian | [Read More](https://medium.com/p/09da8703cc48) |
 | Tue, 03 Feb 2026 21:49:59 GMT | Types of Motherboards | Aaron DeJong | [Read More](https://medium.com/p/70eafb5ce4de) |
 | Tue, 03 Feb 2026 21:43:43 GMT | Vulnerability Analysis: Reflected XSS via React Bypass and CSP Whitelist Gadget | lightofmoon | [Read More](https://medium.com/p/f4f103050b84) |
 | Tue, 03 Feb 2026 21:40:56 GMT | CK999 Game Online: A Complete Review of Every Earning App | ABC.XZY | [Read More](https://medium.com/p/d6f93c744254) |
@@ -84,6 +91,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Feb 2026 16:27:35 GMT | IA et cybersécurité en Tunisie: | Aziza Ben Romdhane | [Read More](https://medium.com/p/b1b4c47090b9) |
 | Tue, 03 Feb 2026 16:22:59 GMT | AI-Based Source Code Analysis Process in Mobile Application Security Testing | Emre A. | [Read More](https://medium.com/p/13cf8e625a7a) |
 | Tue, 03 Feb 2026 16:10:34 GMT | Mastering ffuf: From Discovery to Real Bug Bounty Findings | ghostyjoe | [Read More](https://medium.com/p/0d56a6eda660) |
+| Tue, 03 Feb 2026 16:06:05 GMT | x corp — Cybertalents Web Security Challenge Write‑Up | Z3DX | [Read More](https://medium.com/p/0be6b0871724) |
 | Tue, 03 Feb 2026 16:05:53 GMT | COMRADE III (Easy) - Web Security Write-Up — CyberTalents | Z3DX | [Read More](https://medium.com/p/944db3ace85f) |
 | Tue, 03 Feb 2026 16:04:47 GMT | Search Ranking with Machine Learning: Learning to Rank — A Complete Introduction | Siddharth Mahato | [Read More](https://medium.com/p/9d4f95434f1f) |
 | Tue, 03 Feb 2026 16:03:00 GMT | SQL İnjection Nedir? | Melih Yılmaz | [Read More](https://medium.com/p/584f4f03ca2a) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Feb 2026 15:34:50 GMT | Why I Built a Policy Decision Language Instead of Using a Programming Language | Kuselan Sugumaran | [Read More](https://medium.com/p/1627a4c28fc7) |
 | Tue, 03 Feb 2026 15:32:58 GMT | Cyber Attack Revealed About a Bakery Production Facility’s Real Risks | Cordula Boeck | [Read More](https://medium.com/p/cde607a9ec42) |
 | Tue, 03 Feb 2026 15:30:19 GMT | Why CIOs Ignore Warnings — and What Aviation Gets Right | Andreas Gächter | [Read More](https://medium.com/p/5ad06af843c0) |
-| Tue, 03 Feb 2026 15:22:55 GMT | API Security vs Web Security: Same Goal, Very Different Problems | Ayoub Taouam | [Read More](https://medium.com/p/33d26225c690) |
-| Tue, 03 Feb 2026 15:22:04 GMT | Project : Automating IAM Access Key Security using AWS Lambda | Jayraj Singh | [Read More](https://medium.com/p/0b3a019e8b9b) |
-| Tue, 03 Feb 2026 15:17:03 GMT | Web Security — Cookies | AYA | [Read More](https://medium.com/p/a920513f85a1) |
-| Tue, 03 Feb 2026 15:06:56 GMT | When Joy Feels Like Too Much | Ingy Hafez (What I'm Learning ) | [Read More](https://medium.com/p/9bad5ae892a8) |
-| Tue, 03 Feb 2026 15:03:14 GMT | Windows Fundamentals Part 2: Cybersecurity 101 Pathway — TryHackMe | Farhad Anwari | [Read More](https://medium.com/p/1c0dd94574a7) |
-| Tue, 03 Feb 2026 15:01:05 GMT | Cyber Briefing: 2026.02.03 | CyberMaterial | [Read More](https://medium.com/p/c9973c9d5163) |
-| Tue, 03 Feb 2026 15:00:57 GMT | Tetrad Analysis: Artificial Intelligence | Bennett Moger | [Read More](https://medium.com/p/9131b08c52df) |
-| Tue, 03 Feb 2026 14:54:37 GMT | VulnLab: Server Side Template Injection (SSTI) Çözümü | CyberSam | [Read More](https://medium.com/p/8574098bbd0a) |
