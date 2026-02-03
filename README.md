@@ -12,11 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Feb 2026 13:00:42 GMT | Kriptografi ve Veri Gizleme Sanatı: “Göz Önündeki Sırlar: Steganografi” | MuratSeyrek | [Read More](https://medium.com/p/dac217e66635) |
+| Tue, 03 Feb 2026 12:56:34 GMT | Sovereignty is Forged: Why Code Needs a Body | Franck Abe | [Read More](https://medium.com/p/5e068abf5571) |
+| Tue, 03 Feb 2026 12:53:14 GMT | SSRF + Gopher: O “Túnel” para o RCE | sarkis093 | [Read More](https://medium.com/p/af7ef2b74629) |
+| Tue, 03 Feb 2026 12:46:11 GMT | AI Fraudster, Hacker, and Thief: Don’t Get Caught by Its Dirty Tricks! | srgg6701 | [Read More](https://medium.com/p/ed9fd451d80f) |
+| Tue, 03 Feb 2026 12:40:45 GMT | Why Most Red Team Operations Fail in the First 24 Hours | X7r3M9 | [Read More](https://medium.com/p/3509bf5ed0c9) |
+| Tue, 03 Feb 2026 12:34:22 GMT | Part 5: How We Built the Bridge and Forgot the Human | Tohbie Adelaja | [Read More](https://medium.com/p/acb7b1d9c8ec) |
+| Tue, 03 Feb 2026 12:24:25 GMT | Building a Virtual Ethical Hacking Home Lab — Part 6: System Exploitation | Abdul-mu'min Omotola | [Read More](https://medium.com/p/55e50ffb2a3b) |
+| Tue, 03 Feb 2026 12:23:23 GMT | From Alert Fatigue to Signal: How to Tune Amazon GuardDuty for Real Attacks | Davebhargavi | [Read More](https://medium.com/p/59ce3a7a1d29) |
+| Tue, 03 Feb 2026 12:22:00 GMT | How Dark Web Communities Shift, Fragment, and Rebuild | Tor BBB | [Read More](https://medium.com/p/d6fd1ed3a75b) |
+| Tue, 03 Feb 2026 12:17:16 GMT | Nobody Owns Container Security, And That’s A Problem | Zudonu Osomudeya | [Read More](https://medium.com/p/249698fb4747) |
+| Tue, 03 Feb 2026 12:17:03 GMT | M-Pesa 2.0 & SIM Swaps — Inside Kenya’s Most Dangerous Digital Scam | Cyberpro Global | [Read More](https://medium.com/p/f85576daf7d1) |
+| Tue, 03 Feb 2026 12:08:10 GMT | Learning Medicine Without Exposing Patients: How Arcium’sEncrypted Compute Changes Medical… | Abdulrazaq Rasheedat | [Read More](https://medium.com/p/4f52a0c02ee2) |
+| Tue, 03 Feb 2026 12:04:52 GMT | Is Your Factory Next? How Cybercriminals Exploit This System | Redfox Security | [Read More](https://medium.com/p/2851e9b1b97c) |
+| Tue, 03 Feb 2026 12:01:02 GMT | The 30-Day Digital Exposure Reduction Plan for Executives & Founders | Ingvar Pavlovich | [Read More](https://medium.com/p/0781566ce5b1) |
+| Tue, 03 Feb 2026 11:43:04 GMT | Prakhar AI Institute — Turn Your Ambition into a High-Paying Tech Career | Anushka | [Read More](https://medium.com/p/87917aa674e5) |
+| Tue, 03 Feb 2026 11:35:56 GMT | My bug bounty journey: Full account takeover caused by SSO token misuse | AnonymousPlayer${alert(1)}'<"\<a | [Read More](https://medium.com/p/d35e801371b5) |
+| Tue, 03 Feb 2026 11:33:09 GMT | Top 10 Security Checks Every Developer Should Add to PR Reviews | Krutik Thakar — Secure Developer - VAPT Associate | [Read More](https://medium.com/p/42406d2bc346) |
 | Tue, 03 Feb 2026 11:28:07 GMT | Prompt Injection by Example | Josue Martins | [Read More](https://medium.com/p/a3de8e0e687f) |
 | Tue, 03 Feb 2026 11:20:39 GMT | Your location, team size, and technology setup determine your risk profile and exposure to cyber… | Future IT Services | [Read More](https://medium.com/p/b531b828dd72) |
 | Tue, 03 Feb 2026 11:20:15 GMT | Log Analysis — Sysmon(BTLO Room) | Nishasorallikar | [Read More](https://medium.com/p/adad2bad90e1) |
 | Tue, 03 Feb 2026 11:14:20 GMT | I Stopped Sharing Messy Links After Installing This Browser Extension | Techyall | [Read More](https://medium.com/p/651ce8ea9726) |
 | Tue, 03 Feb 2026 11:02:45 GMT | Anatomy of a 2 AM On-Call Incident in a SOC | Peter Uzs | [Read More](https://medium.com/p/4a6e7d24ccbb) |
+| Tue, 03 Feb 2026 11:01:01 GMT | BUG VS DEFEITO VS FALHA: A VERDADE QUE NINGUÉM EXPLICA BEM | Lílian Borba | [Read More](https://medium.com/p/20a204003273) |
 | Tue, 03 Feb 2026 11:00:48 GMT | Secure Your Connected Life with Antivirus Software Shield | Siyanoav | [Read More](https://medium.com/p/fd8fe08441a9) |
 | Tue, 03 Feb 2026 10:54:30 GMT | SLINGSHOT — Web Server Compromise Investigation. | Mobius | [Read More](https://medium.com/p/44bdd41749c6) |
 | Tue, 03 Feb 2026 10:44:13 GMT | Leading E-commerce Mobile Application Development Company in Pune | Chaitanyachavan | [Read More](https://medium.com/p/58acdc9f37ec) |
@@ -95,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Feb 2026 06:26:33 GMT | 1. Key Benefits
 i. | Anand Mishra | [Read More](https://medium.com/p/c7ee3b5680cf) |
 | Tue, 03 Feb 2026 06:24:27 GMT | Digital Literacy is Contextual: Why Operating Systems Shape How We Use Technology | Vaishnavi Bhandari | [Read More](https://medium.com/p/32d2a533066a) |
-| Tue, 03 Feb 2026 06:18:51 GMT | Access Control: Types and Benefits | Bachchan James | [Read More](https://medium.com/p/f37ac528f705) |
-| Tue, 03 Feb 2026 06:15:31 GMT | The Single HTTP Header That Secures Your Entire Web App | Azad Ansari | [Read More](https://medium.com/p/df01e9e2759e) |
-| Tue, 03 Feb 2026 06:13:15 GMT | Inside the Global Software Composition Analysis Market: Technology Evolution and Vendor Landscape | Gargiben | [Read More](https://medium.com/p/e930f38d8f04) |
-| Tue, 03 Feb 2026 06:10:05 GMT | Open Deepseek Database:Wiz Bug Bounty Masterclass Lesson | Jared Douville | [Read More](https://medium.com/p/ea92efaff782) |
-| Tue, 03 Feb 2026 06:01:01 GMT | AI for Aerospace: Applying Artificial Intelligence in the Aerospace Industry | NeuroCore | [Read More](https://medium.com/p/c83fdb4c7def) |
-| Tue, 03 Feb 2026 06:01:01 GMT | Why Training Alone Won’t Stop Phishing | Hazel Chirinda | [Read More](https://medium.com/p/a166b00ffdf0) |
-| Tue, 03 Feb 2026 06:00:45 GMT | Zero Trust Using ForgeRock — The Complete Guide | Serving Aid Key for Humans and Animals Foundation | [Read More](https://medium.com/p/bee65f2d7a13) |
-| Tue, 03 Feb 2026 05:44:06 GMT | How to Prepare for the CISA Exam Effectively | Irfan Sharief | [Read More](https://medium.com/p/b94814870f38) |
-| Tue, 03 Feb 2026 05:38:54 GMT | Best Pentesting Services | Digital Duffer | [Read More](https://medium.com/p/118e14caaebd) |
-| Tue, 03 Feb 2026 05:38:08 GMT | GraphQL Security Masterclass | Rohit Kumar | [Read More](https://medium.com/p/9d42317d04f0) |
-| Tue, 03 Feb 2026 05:37:35 GMT | I Built a Tool Because I Hate Memorizing Nmap Flags | Atsukiiii01 | [Read More](https://medium.com/p/689d1d8aafd8) |
-| Tue, 03 Feb 2026 05:31:18 GMT | Regulatory Challenges in Sportsbook Software Development in Malta | betprocoders | [Read More](https://medium.com/p/430537bc41c7) |
-| Tue, 03 Feb 2026 05:19:49 GMT | ️AI Smart Contract Audit Checklist 2025 You Must know Before You Lost Money. | MAYURSINH ZALA | [Read More](https://medium.com/p/9e063e94cb13) |
-| Tue, 03 Feb 2026 05:19:46 GMT | Network Detection and Response Market Trends: What Organizations Need to Know | Michel mathew | [Read More](https://medium.com/p/553926a13945) |
-| Tue, 03 Feb 2026 05:10:20 GMT | Two Weeks, Vacation Time, and a CISSP Exam | Jevon Davis | [Read More](https://medium.com/p/01ee8d6dcbc0) |
-| Tue, 03 Feb 2026 05:10:11 GMT | Biometric Authentication in Flutter: Build Password-Free Secure Apps with Fingerprint & Face ID | Yash Patel | [Read More](https://medium.com/p/5aae590562c1) |
-| Tue, 03 Feb 2026 05:09:52 GMT | Cybersecurity Fundamentals for the Modern Digital Age | Adasmadasu | [Read More](https://medium.com/p/7acd573fb654) |
-| Tue, 03 Feb 2026 05:08:16 GMT | I Simulated Real Cyber Attacks on My Own Network — Here’s What I Discovered | Oluwatobi Adeyemi | [Read More](https://medium.com/p/176ed27795b1) |
