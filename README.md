@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Feb 2026 15:06:56 GMT | When Joy Feels Like Too Much | Ingy Hafez (What I'm Learning ) | [Read More](https://medium.com/p/9bad5ae892a8) |
+| Tue, 03 Feb 2026 15:03:14 GMT | Windows Fundamentals Part 2: Cybersecurity 101 Pathway — TryHackMe | Farhad Anwari | [Read More](https://medium.com/p/1c0dd94574a7) |
+| Tue, 03 Feb 2026 15:01:05 GMT | Cyber Briefing: 2026.02.03 | CyberMaterial | [Read More](https://medium.com/p/c9973c9d5163) |
+| Tue, 03 Feb 2026 15:00:57 GMT | Tetrad Analysis: Artificial Intelligence | Bennett Moger | [Read More](https://medium.com/p/9131b08c52df) |
+| Tue, 03 Feb 2026 14:54:37 GMT | VulnLab: Server Side Template Injection (SSTI) Çözümü | CyberSam | [Read More](https://medium.com/p/8574098bbd0a) |
+| Tue, 03 Feb 2026 14:52:58 GMT | “Bug Bounty Bootcamp #22: From Self-XSS to Account Takeover — The Critical Art of Vulnerability… | Aman Sharma | [Read More](https://medium.com/p/895d41aa8a25) |
+| Tue, 03 Feb 2026 14:49:23 GMT | From AI Risks to Security Mandates: Building an AI Security Policy for the Full AI Lifecycle | Chris Fong | [Read More](https://medium.com/p/46b50f58c254) |
+| Tue, 03 Feb 2026 14:46:32 GMT | The 3 Tools That Keep SOC Analysts from Drowning on Day One | Emmanuel Haruna, Msc, CISM, CEH, CCNA. | [Read More](https://medium.com/p/31d214c73cc7) |
+| Tue, 03 Feb 2026 14:46:30 GMT | The Problem with Modern Computing | ESTROLABS | [Read More](https://medium.com/p/759ffd392660) |
+| Tue, 03 Feb 2026 14:40:17 GMT | Which Provider Offers the Best Home Security Solutions in UAE and Expert CCTV Approval in Sharjah ? | techfra solutions | [Read More](https://medium.com/p/6d1f125f073d) |
+| Tue, 03 Feb 2026 14:39:47 GMT | Deepfake Social Engineering: Beyond Standard Phishing | Digital Defense | [Read More](https://medium.com/p/182641fbf848) |
+| Tue, 03 Feb 2026 14:37:43 GMT | RootMe (CTF Walkthrough) | Marduk I Am | [Read More](https://medium.com/p/efe69ef73510) |
+| Tue, 03 Feb 2026 14:37:37 GMT | Épisode 1 : Le Coffre-fort en Carton et le Fantôme de Grok | Deepbedrock | [Read More](https://medium.com/p/ccf2ae2ddb0b) |
+| Tue, 03 Feb 2026 14:31:02 GMT | Targeted Packet Sniffing Using Airodump-ng: A Detailed Guide | Vignesh R | [Read More](https://medium.com/p/f779881596eb) |
 | Tue, 03 Feb 2026 14:19:56 GMT | How PlutoSec Helps You Fill Your Security Gaps and Stay ProtectedHow PlutoSec Helps You Fill Your… | Plutosec Cyber Security | [Read More](https://medium.com/p/de99abd4aca4) |
 | Tue, 03 Feb 2026 14:12:28 GMT | Threat and Vulnerabilities Report-January 2026 | Loginsoft | [Read More](https://medium.com/p/582538de984c) |
 | Tue, 03 Feb 2026 14:05:48 GMT | Tools for Bug Bounty v3.0 — Content Discovery | Swetha | [Read More](https://medium.com/p/3e97ade93c91) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Feb 2026 07:51:56 GMT | No surprise. It’s out there. Malicious AI. | Gerald Maria Dekkers | [Read More](https://medium.com/p/eeaf7cd87376) |
 | Tue, 03 Feb 2026 07:49:34 GMT | Fixing Security Vulnerabilities in a Real-World Side Project (Using GitHub Dependabot) | Shashi Bhushan Yadav | [Read More](https://medium.com/p/d86a93972121) |
 | Tue, 03 Feb 2026 07:48:18 GMT | Malware Analysis: Analyzing Smokebot and Pikabot Loaders | Motasem Hamdan | [Read More](https://medium.com/p/8dbe73f37a7b) |
-| Tue, 03 Feb 2026 07:47:57 GMT | Building Automation Changed How I Think About GRC Work | Funke Omolere | [Read More](https://medium.com/p/a6f48b784f17) |
-| Tue, 03 Feb 2026 07:43:39 GMT | The Art of Penetration Testing: Continuity (Part 1) | EX_097 | [Read More](https://medium.com/p/2367532048f8) |
-| Tue, 03 Feb 2026 07:40:19 GMT | Understanding Vulnerabilities: A Guide to Modern Cyber Threats and Defense | Khabbab Sarker | [Read More](https://medium.com/p/d93d45942f42) |
-| Tue, 03 Feb 2026 07:33:14 GMT | Data Poisoning Attacks: How Hackers Manipulate AI Models | Majidbasharat | [Read More](https://medium.com/p/ee903d0df83c) |
-| Tue, 03 Feb 2026 07:31:01 GMT | AI Safety for Builders: Controls That Actually Work | Hash Block | [Read More](https://medium.com/p/fb127b2f3b25) |
-| Tue, 03 Feb 2026 07:31:01 GMT | JavaScript Security 2026: XSS/CSRF Didn’t Die | Praxen | [Read More](https://medium.com/p/79138901fddc) |
-| Tue, 03 Feb 2026 07:19:53 GMT | Engineering Database Activity Monitoring (DAM) - From Bare-Metal Linux to AWS RDS — EPISODE 3 | Vijenex | [Read More](https://medium.com/p/cfbe9114f23e) |
-| Tue, 03 Feb 2026 07:19:36 GMT | Part 3: From Recon to Critical Impact — Chaining Bugs the Right Way | ghostyjoe | [Read More](https://medium.com/p/6a1818f08cb0) |
-| Tue, 03 Feb 2026 07:19:23 GMT | Engineering Database Activity Monitoring (DAM) - From Bare-Metal Linux to AWS RDS — EPISODE 3 | Vijenex | [Read More](https://medium.com/p/51059968580d) |
-| Tue, 03 Feb 2026 07:16:59 GMT | The Spillover of ICE and Law Enforcement Abuse | Ricardo Figueroa | [Read More](https://medium.com/p/7a7710ad4cc8) |
-| Tue, 03 Feb 2026 07:16:45 GMT | AI in Compromise Assessments: Finding Silent Breaches | Sattrix | [Read More](https://medium.com/p/4b91cfac781f) |
-| Tue, 03 Feb 2026 07:15:34 GMT | Introducing TI Mindmap HUB: an Open Research Platform for AI-Powered Threat Intelligence | Antonio Formato | [Read More](https://medium.com/p/4592faddf96c) |
-| Tue, 03 Feb 2026 07:12:48 GMT | Bitxiatech Building Future-readyNext-gen TechFuture-proof Ecosystems | Gautam kumar | [Read More](https://medium.com/p/ad7f3779ace8) |
-| Tue, 03 Feb 2026 07:08:02 GMT | Invield Platform | Gautamkumar | [Read More](https://medium.com/p/07519c461894) |
