@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Feb 2026 14:19:56 GMT | How PlutoSec Helps You Fill Your Security Gaps and Stay ProtectedHow PlutoSec Helps You Fill Your… | Plutosec Cyber Security | [Read More](https://medium.com/p/de99abd4aca4) |
+| Tue, 03 Feb 2026 14:12:28 GMT | Threat and Vulnerabilities Report-January 2026 | Loginsoft | [Read More](https://medium.com/p/582538de984c) |
+| Tue, 03 Feb 2026 14:05:48 GMT | Tools for Bug Bounty v3.0 — Content Discovery | Swetha | [Read More](https://medium.com/p/3e97ade93c91) |
+| Tue, 03 Feb 2026 14:01:01 GMT | Openclaw: The Viral Phenomenon | Nwosu Rosemary | [Read More](https://medium.com/p/1cbac8df37a6) |
+| Tue, 03 Feb 2026 13:59:47 GMT | OWASP Top Ten #5: Security Misconfiguration | Angela | [Read More](https://medium.com/p/9636ba2f95b2) |
+| Tue, 03 Feb 2026 13:51:19 GMT | Learning PCI-DSS Through Application Security: A Practical API Lab Walkthrough | Catelle Ningha - Digital Trust & Safety Advocate | [Read More](https://medium.com/p/87daae989035) |
+| Tue, 03 Feb 2026 13:38:14 GMT | 13.1.10-packet-tracer-configure-a-wireless-network | Nicksondiazm | [Read More](https://medium.com/p/63602e825ab7) |
+| Tue, 03 Feb 2026 13:36:24 GMT | Decision Readiness Simulations. Practice the Calls That Can Save Your Reputation | Tyson Martin | [Read More](https://medium.com/p/149d75c02ea3) |
+| Tue, 03 Feb 2026 13:36:08 GMT | The AI Social Network Built by AI Had No Security (Shocking No One) | Threat Road | [Read More](https://medium.com/p/35fb7d771c20) |
+| Tue, 03 Feb 2026 13:35:00 GMT | Building and Breaking a Web Application Firewall: A Hands-On ModSecurity & OWASP CRS Lab | CyberPands | [Read More](https://medium.com/p/ee9a21a6ac9a) |
+| Tue, 03 Feb 2026 13:32:37 GMT | The Silence of the Lambos: 2026 is the year crypto finally grows up (or goes the way of the dodo) | Nathoxx | [Read More](https://medium.com/p/e89b94dbab6e) |
+| Tue, 03 Feb 2026 13:31:01 GMT | Inside a Web Application Firewall: Understanding ModSecurity, OWASP CRS, and WAF Decision-Making | CyberPands | [Read More](https://medium.com/p/96bd5590cf71) |
+| Tue, 03 Feb 2026 13:31:01 GMT | The Evolution of Modern Digital Architecture | Cynox Security LLP. | [Read More](https://medium.com/p/740d3347008f) |
+| Tue, 03 Feb 2026 13:30:52 GMT | Authentication and Authorization for Dummies | Shivam Bathla | [Read More](https://medium.com/p/1f77567b7c6d) |
+| Tue, 03 Feb 2026 13:28:01 GMT | RingZeroCTF Coding Challenge 1 [Hash Me If You Can] Writeup | Devansh Patel | [Read More](https://medium.com/p/ba55f820a1b8) |
+| Tue, 03 Feb 2026 13:11:01 GMT | Courage in the Cold: Embracing Vulnerability and Personal Leadership | Emberhart | [Read More](https://medium.com/p/0aa8a2bbd0f3) |
+| Tue, 03 Feb 2026 13:03:46 GMT | Hack Instagram - Tips 2026 - Hire Hacker | BlackHat | [Read More](https://medium.com/p/d3a8cdd85fd5) |
 | Tue, 03 Feb 2026 13:00:42 GMT | Kriptografi ve Veri Gizleme Sanatı: “Göz Önündeki Sırlar: Steganografi” | MuratSeyrek | [Read More](https://medium.com/p/dac217e66635) |
 | Tue, 03 Feb 2026 12:56:34 GMT | Sovereignty is Forged: Why Code Needs a Body | Franck Abe | [Read More](https://medium.com/p/5e068abf5571) |
 | Tue, 03 Feb 2026 12:53:14 GMT | SSRF + Gopher: O “Túnel” para o RCE | sarkis093 | [Read More](https://medium.com/p/af7ef2b74629) |
@@ -95,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Feb 2026 07:15:34 GMT | Introducing TI Mindmap HUB: an Open Research Platform for AI-Powered Threat Intelligence | Antonio Formato | [Read More](https://medium.com/p/4592faddf96c) |
 | Tue, 03 Feb 2026 07:12:48 GMT | Bitxiatech Building Future-readyNext-gen TechFuture-proof Ecosystems | Gautam kumar | [Read More](https://medium.com/p/ad7f3779ace8) |
 | Tue, 03 Feb 2026 07:08:02 GMT | Invield Platform | Gautamkumar | [Read More](https://medium.com/p/07519c461894) |
-| Tue, 03 Feb 2026 07:06:06 GMT | Building a DDoS Detection Tool: My Journey into Network Security | Mayank Raj | [Read More](https://medium.com/p/6e515e6f4628) |
-| Tue, 03 Feb 2026 07:01:03 GMT | The UK Government Blocked this Climate Intelligence Report — Here’s What It Said | Tim Smedley | [Read More](https://medium.com/p/ae5afde06079) |
-| Tue, 03 Feb 2026 07:01:01 GMT | How Attackers Collect Information Before an Attack (Recon Explained) | Abhinsubej | [Read More](https://medium.com/p/04f14ad6ce5b) |
-| Tue, 03 Feb 2026 07:00:26 GMT | The First Time Linux Actually Made Me Feel Smart | Fateyaly | [Read More](https://medium.com/p/6127c1ffe3fb) |
-| Tue, 03 Feb 2026 06:55:25 GMT | Bug Bounty Masterclass: How a Forgotten API Exposed Thousands of Passengers | Jared Douville | [Read More](https://medium.com/p/df2187358b1e) |
-| Tue, 03 Feb 2026 06:54:59 GMT | Vylt: Protecting Your Personal Data, Locally and Securely | Ankit Chaubey | [Read More](https://medium.com/p/a4741bc0bc91) |
-| Tue, 03 Feb 2026 06:51:43 GMT | AWS Security Token Service (STS): Temporary Credentials That Power Secure Cloud Access | BHARAT PRAKASH INANI | [Read More](https://medium.com/p/1fdde5c068d5) |
-| Tue, 03 Feb 2026 06:47:02 GMT | Clash Of Clans APK | Bandisharecx | [Read More](https://medium.com/p/41bca74c0b45) |
-| Tue, 03 Feb 2026 06:46:49 GMT | Understanding Your Security Needs | Digital Duffer | [Read More](https://medium.com/p/24702c915ec8) |
-| Tue, 03 Feb 2026 06:41:57 GMT | Root Detection Is Dead: What Actually Works in Android (2026) | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/b7f801e50531) |
-| Tue, 03 Feb 2026 06:40:20 GMT | SQL Injection Autopsy: Mapping the Logical Failures from Low to Impossible in DVWA | Narathama Firmansyah Putra | [Read More](https://medium.com/p/d1cb8edd40f1) |
-| Tue, 03 Feb 2026 06:39:32 GMT | How to Recover Stolen Crypto from btpex.cc | Isabella | [Read More](https://medium.com/p/a85ebe0fd34d) |
-| Tue, 03 Feb 2026 06:34:37 GMT | Recon for PHP, ASPX, JSP Juicy Endpoints via URLScan Dorking | Abhirup Konwar | [Read More](https://medium.com/p/a67164c8f709) |
-| Tue, 03 Feb 2026 06:31:01 GMT | Securing AI for the Quantum Era | Ram Kumar | [Read More](https://medium.com/p/4ed8983b206b) |
-| Tue, 03 Feb 2026 06:29:08 GMT | What Building UPI at Scale Taught Me About Architecture, Trust, and Trade-offs | Akhtar Raza Ansari | [Read More](https://medium.com/p/c32cf759a21f) |
-| Tue, 03 Feb 2026 06:26:33 GMT | 1. Key Benefits
-i. | Anand Mishra | [Read More](https://medium.com/p/c7ee3b5680cf) |
-| Tue, 03 Feb 2026 06:24:27 GMT | Digital Literacy is Contextual: Why Operating Systems Shape How We Use Technology | Vaishnavi Bhandari | [Read More](https://medium.com/p/32d2a533066a) |
