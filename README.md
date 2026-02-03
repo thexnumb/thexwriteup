@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Feb 2026 17:18:22 GMT | Everyone Scanned the App — I Read the Error Messages Instead | Iski | [Read More](https://medium.com/p/2d910231e45f) |
+| Tue, 03 Feb 2026 17:16:02 GMT | Installing Burp Suite’s CA Certificate in Chrome (2026 Updated Guide) | Kaushik S | [Read More](https://medium.com/p/d0efcdf9a991) |
+| Tue, 03 Feb 2026 17:12:47 GMT | My First Week: 3 Business Logic Bugs in Major E-Commerce | Ali Alassaf | [Read More](https://medium.com/p/8b303e02771f) |
+| Tue, 03 Feb 2026 17:09:57 GMT | I Left a Windows Server Open to the Internet for 40 Hours. Here is What Happened. | Adeleye Joshua | [Read More](https://medium.com/p/6d47d8a5c129) |
+| Tue, 03 Feb 2026 17:06:54 GMT | Your Smart Devices Know Too Much — And Most of Us Don’t Realize It | CyberGuide By MH | [Read More](https://medium.com/p/cdb918d193e1) |
+| Tue, 03 Feb 2026 17:05:06 GMT | Security Camera Installation: A Quiet Guardian for Homes and Businesses | AlexBryn | [Read More](https://medium.com/p/5252c9f26b8d) |
+| Tue, 03 Feb 2026 17:03:36 GMT | # Vaccine — HTB Write-Up | NIbler | [Read More](https://medium.com/p/011630e607e0) |
+| Tue, 03 Feb 2026 17:01:50 GMT | The Role of Home Monitoring in Emergency Response and Safety | AlexBryn | [Read More](https://medium.com/p/49726fd463e2) |
+| Tue, 03 Feb 2026 16:57:07 GMT | Email Protection + Managed XDR At No Extra Cost: Microsoft 365 Cyber-Resilience with Barracuda | IT_Engineer | [Read More](https://medium.com/p/6b6c46e0111d) |
+| Tue, 03 Feb 2026 16:55:40 GMT | The Art of 403 Bypass: From Understanding to Exploitation | N0aziXss | [Read More](https://medium.com/p/8903118a074d) |
+| Tue, 03 Feb 2026 16:49:28 GMT | The Curiosity Quotient: How Constant Learning Redefined My Destination | Anurag Srivastava | [Read More](https://medium.com/p/ba510903f766) |
+| Tue, 03 Feb 2026 16:40:08 GMT | Security Controls | Nidhi S | [Read More](https://medium.com/p/4beebbd18d1e) |
+| Tue, 03 Feb 2026 16:32:17 GMT | The AI Leadership Credibility Gap: When Fear Poses as Governance | Erik Abel, PharmD, MBA | [Read More](https://medium.com/p/8c7c19dced46) |
+| Tue, 03 Feb 2026 16:30:51 GMT | Nmap Is Not a Tool — It’s a Pentester’s Way of Thinking | Amandogra | [Read More](https://medium.com/p/6bb1640017e9) |
+| Tue, 03 Feb 2026 16:27:35 GMT | IA et cybersécurité en Tunisie: | Aziza Ben Romdhane | [Read More](https://medium.com/p/b1b4c47090b9) |
+| Tue, 03 Feb 2026 16:22:59 GMT | AI-Based Source Code Analysis Process in Mobile Application Security Testing | Emre A. | [Read More](https://medium.com/p/13cf8e625a7a) |
 | Tue, 03 Feb 2026 16:10:34 GMT | Mastering ffuf: From Discovery to Real Bug Bounty Findings | ghostyjoe | [Read More](https://medium.com/p/0d56a6eda660) |
+| Tue, 03 Feb 2026 16:05:53 GMT | COMRADE III (Easy) - Web Security Write-Up — CyberTalents | Z3DX | [Read More](https://medium.com/p/944db3ace85f) |
 | Tue, 03 Feb 2026 16:04:47 GMT | Search Ranking with Machine Learning: Learning to Rank — A Complete Introduction | Siddharth Mahato | [Read More](https://medium.com/p/9d4f95434f1f) |
 | Tue, 03 Feb 2026 16:03:00 GMT | SQL İnjection Nedir? | Melih Yılmaz | [Read More](https://medium.com/p/584f4f03ca2a) |
 | Tue, 03 Feb 2026 16:02:00 GMT | I Finally Published the Book I Wish I Had When I Started Bug Bounty | Vivek PS | [Read More](https://medium.com/p/ff270f01fd82) |
@@ -63,6 +80,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Feb 2026 13:31:01 GMT | The Evolution of Modern Digital Architecture | Cynox Security LLP. | [Read More](https://medium.com/p/740d3347008f) |
 | Tue, 03 Feb 2026 13:30:52 GMT | Authentication and Authorization for Dummies | Shivam Bathla | [Read More](https://medium.com/p/1f77567b7c6d) |
 | Tue, 03 Feb 2026 13:28:01 GMT | RingZeroCTF Coding Challenge 1 [Hash Me If You Can] Writeup | Devansh Patel | [Read More](https://medium.com/p/ba55f820a1b8) |
+| Tue, 03 Feb 2026 13:20:02 GMT | 從帳號爆破到勒索：用 Windows 事件訊號還原一條攻擊鏈 | Ariel Chang | [Read More](https://medium.com/p/722a99a3b20e) |
 | Tue, 03 Feb 2026 13:11:01 GMT | Courage in the Cold: Embracing Vulnerability and Personal Leadership | Emberhart | [Read More](https://medium.com/p/0aa8a2bbd0f3) |
 | Tue, 03 Feb 2026 13:03:46 GMT | Hack Instagram - Tips 2026 - Hire Hacker | BlackHat | [Read More](https://medium.com/p/d3a8cdd85fd5) |
 | Tue, 03 Feb 2026 13:00:42 GMT | Kriptografi ve Veri Gizleme Sanatı: “Göz Önündeki Sırlar: Steganografi” | MuratSeyrek | [Read More](https://medium.com/p/dac217e66635) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Feb 2026 10:44:10 GMT | Hunting Malware Infrastructure: A Practical Guide Using FOFA, Shodan, and Censys | sudo3rs | [Read More](https://medium.com/p/939c81fff940) |
 | Tue, 03 Feb 2026 10:41:39 GMT | Penetration Testing Services: Why StrongBox IT Sets the Global Standard in Cybersecurity | StrongBox IT | [Read More](https://medium.com/p/fcee46e4ce1f) |
 | Tue, 03 Feb 2026 10:33:08 GMT | Why Most Small Businesses Fail at Cybersecurity (And How to Fix It) | Cybersecurity Point | [Read More](https://medium.com/p/eb19f7c23ed7) |
-| Tue, 03 Feb 2026 10:31:01 GMT | Web3 Governance Explained: How Story Secures Its Protocol Governance Process | DragonStake | [Read More](https://medium.com/p/8fd34df53ee1) |
-| Tue, 03 Feb 2026 10:27:07 GMT | Security Practices That Actually Protect Production Apps (After They’ve Been Attacked) | Magdalena Furman | [Read More](https://medium.com/p/ce9a13363da3) |
-| Tue, 03 Feb 2026 10:19:56 GMT | 7 Reasons Why Most SOCs Miss Early-Stage Attacks | Muhammad Adenowo | [Read More](https://medium.com/p/3b494c07e0fd) |
-| Tue, 03 Feb 2026 10:19:40 GMT | How to Start a Career in AI After Graduation? | Manisha Chaudhary | [Read More](https://medium.com/p/da4c94010e1c) |
-| Tue, 03 Feb 2026 10:19:22 GMT | Why we built an open-source RBAC firewall for AI agents | Andrea P. | [Read More](https://medium.com/p/52ea99d56b2d) |
-| Tue, 03 Feb 2026 10:11:27 GMT | Locksmith London Services for Secure Homes and Businesses | SE1 Locksmiths Ltd | [Read More](https://medium.com/p/11bf3ac15f79) |
-| Tue, 03 Feb 2026 10:11:14 GMT | Can You Switch to an AWS Career Quickly? | Mohammed Nadeem | [Read More](https://medium.com/p/ec15b2006f4f) |
-| Tue, 03 Feb 2026 10:03:23 GMT | Cross‑Site Scripting in 2026: Why Your Frontend Is Still Vulnerable | Rehan Ahmed | [Read More](https://medium.com/p/6d7aeb588db6) |
-| Tue, 03 Feb 2026 09:46:07 GMT | The Architecture of Privacy: Tokenized BINs and the Crypto-to-Fiat Bridge | IZIPAY | [Read More](https://medium.com/p/42fe9d5db12e) |
-| Tue, 03 Feb 2026 09:42:53 GMT | Wazuh Dashboard Rehberi: Güvenlik Modülleri ve Analiz Stratejileri | suna ayaz | [Read More](https://medium.com/p/323cce864034) |
-| Tue, 03 Feb 2026 09:40:13 GMT | Total Security Solutions: The Complete Approach to Modern Electronic Security Solutions | Ciss India | [Read More](https://medium.com/p/b46c5b1f0045) |
-| Tue, 03 Feb 2026 09:38:10 GMT | Understanding NaN in JavaScript: The “Not a Number” That Is a Number | Harshaddhongade | [Read More](https://medium.com/p/fa0038f4fe08) |
-| Tue, 03 Feb 2026 09:33:41 GMT | Moltbook: 1.5 Million AI Agents Are Posting on Their Own Reddit. One Proposed Human Extinction. | Heinan Cabouly | [Read More](https://medium.com/p/2570e169f4c9) |
-| Tue, 03 Feb 2026 09:33:09 GMT | Denied Boarding Isn’t Bad Luck, It’s a Legal Claim | MYFLYRIGHT | [Read More](https://medium.com/p/c6767f5a69e2) |
-| Tue, 03 Feb 2026 09:27:11 GMT | Types of IT Jobs Available on Technokrate Hire | Talentrisetechnolrate Dilpreet | [Read More](https://medium.com/p/1d767f0a1020) |
-| Tue, 03 Feb 2026 09:21:07 GMT | “I Let an MCP Agent Named HexStrike Guide My Attack” | Solynth.exe | [Read More](https://medium.com/p/be3b2dd2ce2a) |
-| Tue, 03 Feb 2026 09:19:00 GMT | Moltbot(Previously Clawdbot) — A Personal AI Assistant | Nitin Garg | [Read More](https://medium.com/p/a38be6994a8f) |
-| Tue, 03 Feb 2026 09:18:36 GMT | New York Post : Elite San Francisco moms dump their kids in Waymo robotaxis: ‘It’s part of our… | Nitin Garg | [Read More](https://medium.com/p/03053c9eb5ca) |
