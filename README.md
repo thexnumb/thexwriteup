@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Feb 2026 10:33:08 GMT | Why Most Small Businesses Fail at Cybersecurity (And How to Fix It) | Cybersecurity Point | [Read More](https://medium.com/p/eb19f7c23ed7) |
+| Tue, 03 Feb 2026 10:31:01 GMT | Web3 Governance Explained: How Story Secures Its Protocol Governance Process | DragonStake | [Read More](https://medium.com/p/8fd34df53ee1) |
+| Tue, 03 Feb 2026 10:27:07 GMT | Security Practices That Actually Protect Production Apps (After They’ve Been Attacked) | Magdalena Furman | [Read More](https://medium.com/p/ce9a13363da3) |
+| Tue, 03 Feb 2026 10:19:56 GMT | 7 Reasons Why Most SOCs Miss Early-Stage Attacks | Muhammad Adenowo | [Read More](https://medium.com/p/3b494c07e0fd) |
+| Tue, 03 Feb 2026 10:19:40 GMT | How to Start a Career in AI After Graduation? | Manisha Chaudhary | [Read More](https://medium.com/p/da4c94010e1c) |
+| Tue, 03 Feb 2026 10:19:22 GMT | Why we built an open-source RBAC firewall for AI agents | Andrea P. | [Read More](https://medium.com/p/52ea99d56b2d) |
+| Tue, 03 Feb 2026 10:11:27 GMT | Locksmith London Services for Secure Homes and Businesses | SE1 Locksmiths Ltd | [Read More](https://medium.com/p/11bf3ac15f79) |
+| Tue, 03 Feb 2026 10:11:14 GMT | Can You Switch to an AWS Career Quickly? | Mohammed Nadeem | [Read More](https://medium.com/p/ec15b2006f4f) |
+| Tue, 03 Feb 2026 10:03:23 GMT | Cross‑Site Scripting in 2026: Why Your Frontend Is Still Vulnerable | Rehan Ahmed | [Read More](https://medium.com/p/6d7aeb588db6) |
+| Tue, 03 Feb 2026 09:46:07 GMT | The Architecture of Privacy: Tokenized BINs and the Crypto-to-Fiat Bridge | IZIPAY | [Read More](https://medium.com/p/42fe9d5db12e) |
+| Tue, 03 Feb 2026 09:42:53 GMT | Wazuh Dashboard Rehberi: Güvenlik Modülleri ve Analiz Stratejileri | suna ayaz | [Read More](https://medium.com/p/323cce864034) |
+| Tue, 03 Feb 2026 09:40:13 GMT | Total Security Solutions: The Complete Approach to Modern Electronic Security Solutions | Ciss India | [Read More](https://medium.com/p/b46c5b1f0045) |
+| Tue, 03 Feb 2026 09:38:10 GMT | Understanding NaN in JavaScript: The “Not a Number” That Is a Number | Harshaddhongade | [Read More](https://medium.com/p/fa0038f4fe08) |
 | Tue, 03 Feb 2026 09:33:41 GMT | Moltbook: 1.5 Million AI Agents Are Posting on Their Own Reddit. One Proposed Human Extinction. | Heinan Cabouly | [Read More](https://medium.com/p/2570e169f4c9) |
 | Tue, 03 Feb 2026 09:33:09 GMT | Denied Boarding Isn’t Bad Luck, It’s a Legal Claim | MYFLYRIGHT | [Read More](https://medium.com/p/c6767f5a69e2) |
 | Tue, 03 Feb 2026 09:27:11 GMT | Types of IT Jobs Available on Technokrate Hire | Talentrisetechnolrate Dilpreet | [Read More](https://medium.com/p/1d767f0a1020) |
@@ -100,16 +113,3 @@ i. | Anand Mishra | [Read More](https://medium.com/p/c7ee3b5680cf) |
 | Tue, 03 Feb 2026 04:49:00 GMT | Damn, I Love People | Jacob Winter | [Read More](https://medium.com/p/296a4e9b4da8) |
 | Tue, 03 Feb 2026 04:48:37 GMT | Cowboys in Cyberspace | Insurtech Amsterdam | [Read More](https://medium.com/p/77e2b81d5305) |
 | Tue, 03 Feb 2026 04:47:00 GMT | Complete 2025 Crypto Hacks & Exploits — All Incidents | MAYURSINH ZALA | [Read More](https://medium.com/p/9c6fa81dde10) |
-| Tue, 03 Feb 2026 04:40:59 GMT | Real Pool 3D APK | Apkpuredev | [Read More](https://medium.com/p/e79a32078591) |
-| Tue, 03 Feb 2026 04:40:10 GMT | Nike’s Data Breach: A Structural Lesson in Trust and Execution | Cyn Hutchinson JD | [Read More](https://medium.com/p/69dfb51eceb1) |
-| Tue, 03 Feb 2026 04:35:23 GMT | Cloud Security Best Practices for Remote Teams: A Complete Guide to Staying Secure | Maxatlasofficial | [Read More](https://medium.com/p/ba4cc2e97b43) |
-| Tue, 03 Feb 2026 04:35:04 GMT | Ethical AI Governance: Navigating Bias and Privacy in 2026 | Destinova Ai Labs | [Read More](https://medium.com/p/44262444a216) |
-| Tue, 03 Feb 2026 04:31:03 GMT | NestJS Rate Limiting That Feels Fair | Syntal | [Read More](https://medium.com/p/52d3668e73e2) |
-| Tue, 03 Feb 2026 04:31:02 GMT | Node.js Security Defaults You’ll Thank Yourself For | Quellin | [Read More](https://medium.com/p/f673ea93dcd0) |
-| Tue, 03 Feb 2026 04:31:02 GMT | I Used to Build Infrastructure. Now I Break It. Here’s What You’re Doing Wrong. | k3rnelpan1c | [Read More](https://medium.com/p/c7510e58be87) |
-| Tue, 03 Feb 2026 04:29:03 GMT | Why China’s 2026 Regulations Validate Eude Tech’s Security-First Architecture | Eude Tech | [Read More](https://medium.com/p/727fcfbdbdb4) |
-| Tue, 03 Feb 2026 04:01:04 GMT | A World After American Certainty | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/fa6b4ebc645f) |
-| Tue, 03 Feb 2026 03:58:51 GMT | How I got a $$$$ by discovring a critical Sql Injecation vulnerability In a Public Bug Bounty… | Ahmad Yussef | [Read More](https://medium.com/p/98c684d7eab0) |
-| Tue, 03 Feb 2026 03:50:45 GMT | Cybersecurity Journey — Day 1 (Networking): What is an IP address | Divya’s Cybersecurity Journey | [Read More](https://medium.com/p/9df2eca21340) |
-| Tue, 03 Feb 2026 03:44:19 GMT | Accelerating Engineering Excellence: A Strategic Framework for Enhanced Software Development… | Bhavin Mistry | [Read More](https://medium.com/p/fc3f5cbfd591) |
-| Tue, 03 Feb 2026 03:31:01 GMT | Inside DarkSpectre: The Browser Extension Campaign That Went Unnoticed for Years | Deven Chhajed | [Read More](https://medium.com/p/7736a92d84e4) |
