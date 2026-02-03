@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Feb 2026 05:19:49 GMT | ️AI Smart Contract Audit Checklist 2025 You Must know Before You Lost Money. | MAYURSINH ZALA | [Read More](https://medium.com/p/9e063e94cb13) |
+| Tue, 03 Feb 2026 05:19:46 GMT | Network Detection and Response Market Trends: What Organizations Need to Know | Michel mathew | [Read More](https://medium.com/p/553926a13945) |
+| Tue, 03 Feb 2026 05:10:20 GMT | Two Weeks, Vacation Time, and a CISSP Exam | Jevon Davis | [Read More](https://medium.com/p/01ee8d6dcbc0) |
+| Tue, 03 Feb 2026 05:10:11 GMT | Biometric Authentication in Flutter: Build Password-Free Secure Apps with Fingerprint & Face ID | Yash Patel | [Read More](https://medium.com/p/5aae590562c1) |
+| Tue, 03 Feb 2026 05:09:52 GMT | Cybersecurity Fundamentals for the Modern Digital Age | Adasmadasu | [Read More](https://medium.com/p/7acd573fb654) |
+| Tue, 03 Feb 2026 05:08:16 GMT | I Simulated Real Cyber Attacks on My Own Network — Here’s What I Discovered | Oluwatobi Adeyemi | [Read More](https://medium.com/p/176ed27795b1) |
+| Tue, 03 Feb 2026 05:06:59 GMT | The Linux Security Journey — Linux Kernel Live Patching | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/cf11aaef6dd1) |
+| Tue, 03 Feb 2026 05:06:09 GMT | #7: Server Side Request Forgery (SSRF) | Emmanuelnnebedum | [Read More](https://medium.com/p/7296adf203a9) |
+| Tue, 03 Feb 2026 05:06:01 GMT | Below is a Medium-ready, long-form technical blog you can publish directly. | Geeky Vartika | [Read More](https://medium.com/p/7d82dee552bc) |
+| Tue, 03 Feb 2026 05:03:59 GMT | Security, Simplified — Issue #1 | Manan pasricha | [Read More](https://medium.com/p/36dacf2ee096) |
+| Tue, 03 Feb 2026 04:53:23 GMT | Why I Said Yes to a Senior Application Support Role? | Evergrowing Tech | [Read More](https://medium.com/p/2cb7947dd4e7) |
+| Tue, 03 Feb 2026 04:51:34 GMT | Meet DynaTech Systems at the AI Agent & Copilot Summit NA 2026 | DynaTech Systems | [Read More](https://medium.com/p/df19737e5c7e) |
+| Tue, 03 Feb 2026 04:49:56 GMT | The Hidden Gap in Passkey Adoption Despite Better Security and User Experience | Vijay Kumar Soni | [Read More](https://medium.com/p/8932952d1537) |
+| Tue, 03 Feb 2026 04:49:00 GMT | Damn, I Love People | Jacob Winter | [Read More](https://medium.com/p/296a4e9b4da8) |
+| Tue, 03 Feb 2026 04:48:37 GMT | Cowboys in Cyberspace | Insurtech Amsterdam | [Read More](https://medium.com/p/77e2b81d5305) |
+| Tue, 03 Feb 2026 04:47:00 GMT | Complete 2025 Crypto Hacks & Exploits — All Incidents | MAYURSINH ZALA | [Read More](https://medium.com/p/9c6fa81dde10) |
+| Tue, 03 Feb 2026 04:40:59 GMT | Real Pool 3D APK | Apkpuredev | [Read More](https://medium.com/p/e79a32078591) |
+| Tue, 03 Feb 2026 04:40:10 GMT | Nike’s Data Breach: A Structural Lesson in Trust and Execution | Cyn Hutchinson JD | [Read More](https://medium.com/p/69dfb51eceb1) |
+| Tue, 03 Feb 2026 04:35:23 GMT | Cloud Security Best Practices for Remote Teams: A Complete Guide to Staying Secure | Maxatlasofficial | [Read More](https://medium.com/p/ba4cc2e97b43) |
+| Tue, 03 Feb 2026 04:35:04 GMT | Ethical AI Governance: Navigating Bias and Privacy in 2026 | Destinova Ai Labs | [Read More](https://medium.com/p/44262444a216) |
+| Tue, 03 Feb 2026 04:31:03 GMT | NestJS Rate Limiting That Feels Fair | Syntal | [Read More](https://medium.com/p/52d3668e73e2) |
+| Tue, 03 Feb 2026 04:31:02 GMT | Node.js Security Defaults You’ll Thank Yourself For | Quellin | [Read More](https://medium.com/p/f673ea93dcd0) |
+| Tue, 03 Feb 2026 04:31:02 GMT | I Used to Build Infrastructure. Now I Break It. Here’s What You’re Doing Wrong. | k3rnelpan1c | [Read More](https://medium.com/p/c7510e58be87) |
+| Tue, 03 Feb 2026 04:29:03 GMT | Why China’s 2026 Regulations Validate Eude Tech’s Security-First Architecture | Eude Tech | [Read More](https://medium.com/p/727fcfbdbdb4) |
 | Tue, 03 Feb 2026 04:01:04 GMT | A World After American Certainty | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/fa6b4ebc645f) |
 | Tue, 03 Feb 2026 03:58:51 GMT | How I got a $$$$ by discovring a critical Sql Injecation vulnerability In a Public Bug Bounty… | Ahmad Yussef | [Read More](https://medium.com/p/98c684d7eab0) |
 | Tue, 03 Feb 2026 03:50:45 GMT | Cybersecurity Journey — Day 1 (Networking): What is an IP address | Divya’s Cybersecurity Journey | [Read More](https://medium.com/p/9df2eca21340) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Feb 2026 18:21:02 GMT | FOOTPRINTING —  DNS | Sunain | [Read More](https://medium.com/p/e3191b6df974) |
 | Mon, 02 Feb 2026 18:18:33 GMT | GraphQL for Dummies | Shivam Bathla | [Read More](https://medium.com/p/d0c6a727fc0) |
 | Mon, 02 Feb 2026 18:12:22 GMT | One more text about Web3 Security | Masha Vaverova | [Read More](https://medium.com/p/af293f49f817) |
-| Mon, 02 Feb 2026 18:05:15 GMT | Why Cybersecurity Skills Are No Longer Optional: A Practical Guide by Cozonix Infotech Pvt Ltd | Cozonix | [Read More](https://medium.com/p/47dbc21f0cbd) |
-| Mon, 02 Feb 2026 17:43:33 GMT | How a Single Quote Turned a Safe Markdown Feature Into a Security Risk | ab.infosec | [Read More](https://medium.com/p/884a7aa07c37) |
-| Mon, 02 Feb 2026 17:36:07 GMT | Bandit Level 1 — The Basics of Shell Commands | CocoB | [Read More](https://medium.com/p/61a7124cf432) |
-| Mon, 02 Feb 2026 17:35:12 GMT | Beyond the Blacklist: Using AI to Automate Advanced Filter Evasion in Time-Based SQLi | Threat Hunter | [Read More](https://medium.com/p/28dafe700686) |
-| Mon, 02 Feb 2026 17:27:05 GMT | AWS Security Logging - Tryhackme | Aaron | [Read More](https://medium.com/p/bf82d51857fe) |
-| Mon, 02 Feb 2026 17:26:25 GMT | Beyond the Blacklist: Using AI to Automate Advanced Filter Evasion in Time-Based SQLi | ch1k3n | [Read More](https://medium.com/p/d4189bbc96ed) |
-| Mon, 02 Feb 2026 17:16:13 GMT | Demystifying the C Language — Day 2: | Bazil Brohi | [Read More](https://medium.com/p/882730257d9f) |
-| Mon, 02 Feb 2026 17:15:43 GMT | Baby-Cached WriteUp HTB | Arturo Melgarejo | [Read More](https://medium.com/p/7e9245625ef2) |
-| Mon, 02 Feb 2026 17:14:19 GMT | Free Session: The Psychology of Passwords — Tomorrow 2/3/26 | Karl Buhl | [Read More](https://medium.com/p/025e693d6185) |
-| Mon, 02 Feb 2026 17:10:02 GMT | AI Gateway: The foundation layer for an Enterprise AI Platform | Anish Kumar Anal | [Read More](https://medium.com/p/8828ee67edfe) |
-| Mon, 02 Feb 2026 17:01:02 GMT | Criminals are using Stingrays to target law enforcement, and the FBI is clueless | Samuel Brice | [Read More](https://medium.com/p/d45a26d0ebac) |
-| Mon, 02 Feb 2026 17:00:34 GMT | Risk Registers Don’t Protect Businesses — Decisions Do | Raman | [Read More](https://medium.com/p/1ad74d1018a7) |
-| Mon, 02 Feb 2026 16:59:21 GMT | Cyber Resilience Act (CRA): What Should Manufacturers Do by 11 September 2026? | Dr. Guillaume Dupont | [Read More](https://medium.com/p/6cd52da2c746) |
-| Mon, 02 Feb 2026 16:58:02 GMT | Why Transparency Is the Future of Security Services | Teona | [Read More](https://medium.com/p/49c0ad2c77e3) |
-| Mon, 02 Feb 2026 16:57:47 GMT | Day 8: Intro to Python (Cybersecurity Python) | Mohammad-AL-Momani | [Read More](https://medium.com/p/4bf844341040) |
-| Mon, 02 Feb 2026 16:50:32 GMT | Microsoft Sentinel’s Biggest Weakness | Taylor Gehrlein | [Read More](https://medium.com/p/f08f6f2b21e5) |
-| Mon, 02 Feb 2026 16:48:38 GMT | Top 3 Telegram OSINT Tools: A Practical Guide For Your Investigations | Veyron92i | [Read More](https://medium.com/p/eb6c2a37063c) |
-| Mon, 02 Feb 2026 16:47:51 GMT | We Gave the Keys to the House to a Probabilistic Stranger | Rajesh Devadasan | [Read More](https://medium.com/p/81bbdaca376d) |
-| Mon, 02 Feb 2026 16:46:04 GMT | Drupal 7 Exploitation Walkthrough (Drupageddon2) - Full Recon → Initial Access | Alfykannoth | [Read More](https://medium.com/p/300b80afd547) |
-| Mon, 02 Feb 2026 16:43:59 GMT | Shift-Left Security Explained: Catching Issues Before Production | SwayamOps | [Read More](https://medium.com/p/ee1240919877) |
-| Mon, 02 Feb 2026 16:42:44 GMT | Assessing Floors for Heavy Safe Installations - SLK | Sure Lock & Key LLC | [Read More](https://medium.com/p/bc19a505a6df) |
-| Mon, 02 Feb 2026 16:41:32 GMT | TryHackMe ShadowTrace Walkthrough: Malware Analysis and IOC Extraction | Citadel Cybersec | [Read More](https://medium.com/p/4cdf9057f4b3) |
-| Mon, 02 Feb 2026 16:40:31 GMT | IT Governance Is a Business Discipline, Not an IT Function | Raman | [Read More](https://medium.com/p/97be70233425) |
-| Mon, 02 Feb 2026 16:39:30 GMT | If You Arrest Your Penetration Testers, You’re Already Breached | Len Noe | [Read More](https://medium.com/p/681237a4791b) |
