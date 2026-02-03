@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Feb 2026 04:01:04 GMT | A World After American Certainty | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/fa6b4ebc645f) |
+| Tue, 03 Feb 2026 03:58:51 GMT | How I got a $$$$ by discovring a critical Sql Injecation vulnerability In a Public Bug Bounty… | Ahmad Yussef | [Read More](https://medium.com/p/98c684d7eab0) |
+| Tue, 03 Feb 2026 03:50:45 GMT | Cybersecurity Journey — Day 1 (Networking): What is an IP address | Divya’s Cybersecurity Journey | [Read More](https://medium.com/p/9df2eca21340) |
+| Tue, 03 Feb 2026 03:44:19 GMT | Accelerating Engineering Excellence: A Strategic Framework for Enhanced Software Development… | Bhavin Mistry | [Read More](https://medium.com/p/fc3f5cbfd591) |
+| Tue, 03 Feb 2026 03:31:01 GMT | Inside DarkSpectre: The Browser Extension Campaign That Went Unnoticed for Years | Deven Chhajed | [Read More](https://medium.com/p/7736a92d84e4) |
+| Tue, 03 Feb 2026 03:23:29 GMT | Configuring the Auth0 Provider with Variable Sets in HCP Terraform | Mark Tinderholt | [Read More](https://medium.com/p/dff0001c8e02) |
+| Tue, 03 Feb 2026 03:16:49 GMT | The smartphone in your pocket contains over fifteen sensors. | verasnap | [Read More](https://medium.com/p/8b5e0b563b20) |
+| Tue, 03 Feb 2026 03:14:01 GMT | The Camera That Knows When Evidence Goes Missing: How VeraSnap Uses XOR Mathematics to Solve… | verasnap | [Read More](https://medium.com/p/316ae28d8915) |
+| Tue, 03 Feb 2026 03:12:27 GMT | THE ROLE OF EXPLAINABLE AI IN DEFENSIBLE INSURANCE DECISIONS | Chetan Ratnawat | [Read More](https://medium.com/p/47dfe77327ec) |
+| Tue, 03 Feb 2026 03:00:25 GMT | CISSP: Is SDLC 7 Phases or 9? | Pushpak Sharma | [Read More](https://medium.com/p/e56bbe434e52) |
+| Tue, 03 Feb 2026 02:59:47 GMT | AI in Cybersecurity: The Hype, the Help, and the Hard Truth | Paritosh | [Read More](https://medium.com/p/a52942d66bbb) |
+| Tue, 03 Feb 2026 02:59:35 GMT | Why “Thwart” Changes Everything: Cybersecurity in the AI Era Is Built at the Intersections | Juan Pablo Castro | [Read More](https://medium.com/p/4c2d1e3edb08) |
+| Tue, 03 Feb 2026 02:43:02 GMT | What is End to End Encryption? | David LeBlanc | [Read More](https://medium.com/p/7f49668eb70e) |
+| Tue, 03 Feb 2026 02:40:36 GMT | The New Standard of Privacy: Why I Switched to SECURET | SAYCOIN | [Read More](https://medium.com/p/18a1b8f5834b) |
+| Tue, 03 Feb 2026 02:34:32 GMT | Every Day | JM | [Read More](https://medium.com/p/ee76ad27b8c4) |
+| Tue, 03 Feb 2026 02:31:01 GMT | Web Security 101: Part 6 - CSRF (Cross-Site Request Forgery) | Nithishraina | [Read More](https://medium.com/p/722616f585f5) |
+| Tue, 03 Feb 2026 02:28:15 GMT | Android WebView Exploitation: From Deep Link to Account Takeover | BaymaxPop23 | [Read More](https://medium.com/p/62f7a3e1da15) |
 | Tue, 03 Feb 2026 02:21:31 GMT | Tuesday Morning Threat Report: Feb 3, 2026 | Mark Maguire | [Read More](https://medium.com/p/b60b890db8d7) |
 | Tue, 03 Feb 2026 02:19:28 GMT | The First Social Network for AI Agents Is Here | Zac Moore | [Read More](https://medium.com/p/66c47e24e16e) |
 | Tue, 03 Feb 2026 01:59:17 GMT | Living Alone? 4 “Aesthetic” Security Gadgets That Make Your Apartment a Fortress | Brian Chen | [Read More](https://medium.com/p/a9301f074d3d) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Feb 2026 16:41:32 GMT | TryHackMe ShadowTrace Walkthrough: Malware Analysis and IOC Extraction | Citadel Cybersec | [Read More](https://medium.com/p/4cdf9057f4b3) |
 | Mon, 02 Feb 2026 16:40:31 GMT | IT Governance Is a Business Discipline, Not an IT Function | Raman | [Read More](https://medium.com/p/97be70233425) |
 | Mon, 02 Feb 2026 16:39:30 GMT | If You Arrest Your Penetration Testers, You’re Already Breached | Len Noe | [Read More](https://medium.com/p/681237a4791b) |
-| Mon, 02 Feb 2026 16:36:21 GMT | Sock Puppet: Hidden Online Identities (Ethical & Learning Perspective) | Amandogra | [Read More](https://medium.com/p/d2b237363742) |
-| Mon, 02 Feb 2026 16:35:39 GMT | What You Should Know About Cyber Risks Before Your Next Board Meeting | Cordula Boeck | [Read More](https://medium.com/p/ec15e534301c) |
-| Mon, 02 Feb 2026 16:33:34 GMT | The Role of Technology in Security Systems | Alex Bryn | [Read More](https://medium.com/p/c87ce47a3791) |
-| Mon, 02 Feb 2026 16:33:19 GMT | picoCTF : First Grep | Sahara | [Read More](https://medium.com/p/3b4f80b6725b) |
-| Mon, 02 Feb 2026 16:12:00 GMT | The Feature Was Disabled — The Backend Didn’t Get the Memo | Iski | [Read More](https://medium.com/p/e17fdf1087ec) |
-| Mon, 02 Feb 2026 16:04:34 GMT | ODUSEC (Ordu University Cyber Security Club) — WinterBytes Camp- ODU-SIM-CONTROLLER Pentest… | Sarp A. A. | [Read More](https://medium.com/p/ed5af0b30df9) |
-| Mon, 02 Feb 2026 16:02:42 GMT | Why Apple Support Shouldn’t Live With One Person on Your Help Desk | Drew Smith | [Read More](https://medium.com/p/19e5e1c10fe9) |
-| Mon, 02 Feb 2026 16:01:03 GMT | The Day I Removed All Secrets from My Code: A Lesson in Cloud Security | Eric Rodríguez Pacheco | [Read More](https://medium.com/p/dd6959f8a141) |
-| Mon, 02 Feb 2026 16:01:03 GMT | The Node.js Dependency Diet That Actually Works | Vectorlane | [Read More](https://medium.com/p/347c2c71a7f9) |
-| Mon, 02 Feb 2026 16:00:38 GMT | Moltbook Just Shipped an Identity Nightmare | Oscar Antonangelo | [Read More](https://medium.com/p/160c53c4adf9) |
-| Mon, 02 Feb 2026 15:59:43 GMT | DEFUND ISRAEL? I DARE YOU. | Pat604Johnson | [Read More](https://medium.com/p/b97b225b6645) |
-| Mon, 02 Feb 2026 15:51:52 GMT | Monday Blues for Hackers: How Rainbow Secure Turns Credentials into Visual Identity Signals | Dr. Shashi Karhail | [Read More](https://medium.com/p/7749262e18e1) |
-| Mon, 02 Feb 2026 15:49:00 GMT | Building a Hardened AI Agent: How I Locked Down MoltBot | David Nestoff | [Read More](https://medium.com/p/7edb3b850487) |
-| Mon, 02 Feb 2026 15:47:37 GMT | You Are Running Clawdbot Wrong (And It’s About to Cost You Everything) | Adham Khaled | [Read More](https://medium.com/p/c24521eeddcf) |
-| Mon, 02 Feb 2026 15:44:54 GMT | Pass-the-Hash Attacks: Why They’re Still a Big Deal | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/8f69f8bdd077) |
-| Mon, 02 Feb 2026 15:41:34 GMT | 5yno1nc: A “Backdoor Key” Exposes 9.2 Million Synology NAS Devices Worldwide | Мартин. | [Read More](https://medium.com/p/0043ff3be391) |
-| Mon, 02 Feb 2026 15:38:26 GMT | 3n1 (3 learning meetings in 1 blog). Was it fun? | Jay Fajardo | [Read More](https://medium.com/p/040ded33222e) |
