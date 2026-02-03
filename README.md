@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Feb 2026 16:10:34 GMT | Mastering ffuf: From Discovery to Real Bug Bounty Findings | ghostyjoe | [Read More](https://medium.com/p/0d56a6eda660) |
+| Tue, 03 Feb 2026 16:04:47 GMT | Search Ranking with Machine Learning: Learning to Rank — A Complete Introduction | Siddharth Mahato | [Read More](https://medium.com/p/9d4f95434f1f) |
+| Tue, 03 Feb 2026 16:03:00 GMT | SQL İnjection Nedir? | Melih Yılmaz | [Read More](https://medium.com/p/584f4f03ca2a) |
+| Tue, 03 Feb 2026 16:02:00 GMT | I Finally Published the Book I Wish I Had When I Started Bug Bounty | Vivek PS | [Read More](https://medium.com/p/ff270f01fd82) |
+| Tue, 03 Feb 2026 15:56:14 GMT | AI Agent Rate Limiting is Broken | Alessandro Pignati | [Read More](https://medium.com/p/7eacc83a4129) |
+| Tue, 03 Feb 2026 15:54:49 GMT | Fintech Faces 2026 Crossroads with AI Growth and Security Threats | Vikram Lingam | [Read More](https://medium.com/p/441d29de886d) |
+| Tue, 03 Feb 2026 15:54:27 GMT | What Happens When You Type a Website in Browser? | abinaya V | [Read More](https://medium.com/p/ed08cf84e96d) |
+| Tue, 03 Feb 2026 15:51:06 GMT | Moltbook Breached in Under 3 Minutes | Luke Skyward | [Read More](https://medium.com/p/a163237e7bee) |
+| Tue, 03 Feb 2026 15:47:09 GMT | ARP in Action: Capturing My Network Traffic with Wireshark! | Grace Jaman | [Read More](https://medium.com/p/16df258b1bff) |
+| Tue, 03 Feb 2026 15:47:05 GMT | Peraplay PH 2026: Security, Performance & Rewards Review | Peraplay Promo - Exclusive Filipino Limited | [Read More](https://medium.com/p/467cee947f31) |
+| Tue, 03 Feb 2026 15:46:13 GMT | Xavier est gravement malade | Florent M | [Read More](https://medium.com/p/d821ce8b1bf4) |
+| Tue, 03 Feb 2026 15:46:01 GMT | [FORECAST] ShinyHunters SaaS Data Theft: Why Non-Ransom Monetization Looks Increasingly Attractive | Wes Young | [Read More](https://medium.com/p/59d82e12f502) |
+| Tue, 03 Feb 2026 15:45:02 GMT | ClawdBot Is A Privacy Nightmare | Vishal Rajput | [Read More](https://medium.com/p/ca2edf4bf8ac) |
+| Tue, 03 Feb 2026 15:44:48 GMT | Why AI SmartBots Are the New Competitive Paradigm in 2026 | Xaltius | [Read More](https://medium.com/p/3c0bb8d890d6) |
+| Tue, 03 Feb 2026 15:41:42 GMT | Why Automatic Gates Are Becoming Essential for Industrial & Commercial Properties | Herwin Rosairo | [Read More](https://medium.com/p/b9429826b8f0) |
+| Tue, 03 Feb 2026 15:38:00 GMT | A letter to Amazon: On security, systems and the pursuit of scale | Abhinav Jain | [Read More](https://medium.com/p/48e672e665f7) |
+| Tue, 03 Feb 2026 15:36:58 GMT | How Security Cameras Improve Home Safety | Alex Bryn | [Read More](https://medium.com/p/b4ad850d407d) |
+| Tue, 03 Feb 2026 15:34:50 GMT | Why I Built a Policy Decision Language Instead of Using a Programming Language | Kuselan Sugumaran | [Read More](https://medium.com/p/1627a4c28fc7) |
+| Tue, 03 Feb 2026 15:30:19 GMT | Why CIOs Ignore Warnings — and What Aviation Gets Right | Andreas Gächter | [Read More](https://medium.com/p/5ad06af843c0) |
+| Tue, 03 Feb 2026 15:22:55 GMT | API Security vs Web Security: Same Goal, Very Different Problems | Ayoub Taouam | [Read More](https://medium.com/p/33d26225c690) |
+| Tue, 03 Feb 2026 15:22:04 GMT | Project : Automating IAM Access Key Security using AWS Lambda | Jayraj Singh | [Read More](https://medium.com/p/0b3a019e8b9b) |
+| Tue, 03 Feb 2026 15:17:03 GMT | Web Security — Cookies | AYA | [Read More](https://medium.com/p/a920513f85a1) |
 | Tue, 03 Feb 2026 15:06:56 GMT | When Joy Feels Like Too Much | Ingy Hafez (What I'm Learning ) | [Read More](https://medium.com/p/9bad5ae892a8) |
 | Tue, 03 Feb 2026 15:03:14 GMT | Windows Fundamentals Part 2: Cybersecurity 101 Pathway — TryHackMe | Farhad Anwari | [Read More](https://medium.com/p/1c0dd94574a7) |
 | Tue, 03 Feb 2026 15:01:05 GMT | Cyber Briefing: 2026.02.03 | CyberMaterial | [Read More](https://medium.com/p/c9973c9d5163) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Feb 2026 09:21:07 GMT | “I Let an MCP Agent Named HexStrike Guide My Attack” | Solynth.exe | [Read More](https://medium.com/p/be3b2dd2ce2a) |
 | Tue, 03 Feb 2026 09:19:00 GMT | Moltbot(Previously Clawdbot) — A Personal AI Assistant | Nitin Garg | [Read More](https://medium.com/p/a38be6994a8f) |
 | Tue, 03 Feb 2026 09:18:36 GMT | New York Post : Elite San Francisco moms dump their kids in Waymo robotaxis: ‘It’s part of our… | Nitin Garg | [Read More](https://medium.com/p/03053c9eb5ca) |
-| Tue, 03 Feb 2026 09:11:07 GMT | FortiGate / VLAN Segmentasyonu: Neden “ayrı VLAN” tek başına yetmez? | Hasancangozgec | [Read More](https://medium.com/p/bc29ebc10308) |
-| Tue, 03 Feb 2026 09:10:35 GMT | How a Forgotten QA Page Led to an $800 Bounty: Unauthorized Document Access | gopi krishnan | [Read More](https://medium.com/p/1065b05ab79d) |
-| Tue, 03 Feb 2026 09:09:09 GMT | 9 Powerful Steps: DFIR Guide to Patch Proof | Pentest_Testing_Corp | [Read More](https://medium.com/p/6322595fe375) |
-| Tue, 03 Feb 2026 09:01:05 GMT | Bug Bounty Quick Win: Finding Forgotten Staging Environments in Leak Data | Alexandre Vandamme | [Read More](https://medium.com/p/0a44fceadae3) |
-| Tue, 03 Feb 2026 09:01:05 GMT | Building a TAK Server Architecture with Zero Trust in Mind (Lessons from the Lab) | Babyf4c3 | [Read More](https://medium.com/p/a174ae8d0ea2) |
-| Tue, 03 Feb 2026 08:56:48 GMT | Snow-Crash-write-up [level12] | B.R.O.L.Y | [Read More](https://medium.com/p/a750f91ee502) |
-| Tue, 03 Feb 2026 08:55:34 GMT | PowerShell Encoded Commands: Building Detection Rules That Actually Work (Part 2) | Manish Rawat | [Read More](https://medium.com/p/dc136d1a7b7f) |
-| Tue, 03 Feb 2026 08:54:02 GMT | Tanuki writeup (BugForge) | 7s26Simon | [Read More](https://medium.com/p/8bc0c8d4e8ab) |
-| Tue, 03 Feb 2026 08:53:53 GMT | HackTheBox — Cap Writeup by Phenyl316 | Phenyl316 | [Read More](https://medium.com/p/947a2ac8a0d8) |
-| Tue, 03 Feb 2026 08:45:47 GMT | Snow-Crash-write-up [level11] | B.R.O.L.Y | [Read More](https://medium.com/p/3548048b3e8d) |
-| Tue, 03 Feb 2026 08:36:32 GMT | Jim’s Cyber Squawk is online! | Jim Grimes | [Read More](https://medium.com/p/6876cc2287aa) |
-| Tue, 03 Feb 2026 08:25:14 GMT | The Most Dangerous Security Flaw is Your Own Politeness | Numan Nadeem | [Read More](https://medium.com/p/40c3935ad990) |
-| Tue, 03 Feb 2026 08:22:41 GMT | How I Built a Physical Kill-Switch for CI/CD Pipelines to Stop SolarWinds-Style Attacks | Kalyan Tamarapalli | [Read More](https://medium.com/p/a026e91011cb) |
-| Tue, 03 Feb 2026 08:20:23 GMT | Why Your Linux Anti-Forensics Methods Are Failing (And How to Fix It) | Dhanush N | [Read More](https://medium.com/p/d9904f3fcb10) |
-| Tue, 03 Feb 2026 08:12:57 GMT | The Value of Well-Researched Blogs in the Digital Age | Eliteblog | [Read More](https://medium.com/p/2dcb03d2dbb4) |
-| Tue, 03 Feb 2026 08:10:14 GMT | Why Choosing the Right Microsoft Cloud Solution Provider Matters for Your Business | IFI Techsolutions | [Read More](https://medium.com/p/9d39a1a7705f) |
-| Tue, 03 Feb 2026 08:04:55 GMT | Emotional Discipline Has a Price | Antarayaami Bodhicitta | [Read More](https://medium.com/p/f0413e24a430) |
-| Tue, 03 Feb 2026 07:56:55 GMT | Cryptocurrency And More: Why Quantarium’s PQC Is The Standard For Future Financial Security | Quantarium | [Read More](https://medium.com/p/898f3c9e2297) |
-| Tue, 03 Feb 2026 07:54:05 GMT | MoltBots Might Be Gossiping About You Right Now (and I’m not even kidding a little bit) | iTechnicallykan | [Read More](https://medium.com/p/fad60fb5eddd) |
-| Tue, 03 Feb 2026 07:51:56 GMT | No surprise. It’s out there. Malicious AI. | Gerald Maria Dekkers | [Read More](https://medium.com/p/eeaf7cd87376) |
-| Tue, 03 Feb 2026 07:49:34 GMT | Fixing Security Vulnerabilities in a Real-World Side Project (Using GitHub Dependabot) | Shashi Bhushan Yadav | [Read More](https://medium.com/p/d86a93972121) |
-| Tue, 03 Feb 2026 07:48:18 GMT | Malware Analysis: Analyzing Smokebot and Pikabot Loaders | Motasem Hamdan | [Read More](https://medium.com/p/8dbe73f37a7b) |
