@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Feb 2026 02:21:31 GMT | Tuesday Morning Threat Report: Feb 3, 2026 | Mark Maguire | [Read More](https://medium.com/p/b60b890db8d7) |
+| Tue, 03 Feb 2026 02:19:28 GMT | The First Social Network for AI Agents Is Here | Zac Moore | [Read More](https://medium.com/p/66c47e24e16e) |
+| Tue, 03 Feb 2026 01:59:17 GMT | Living Alone? 4 “Aesthetic” Security Gadgets That Make Your Apartment a Fortress | Brian Chen | [Read More](https://medium.com/p/a9301f074d3d) |
+| Tue, 03 Feb 2026 01:54:22 GMT | Breaking Our Own APIs: Practical Security Testing with ffuf | Rathinasabapathy Ramalingam (Saba) | [Read More](https://medium.com/p/282d1241487e) |
+| Tue, 03 Feb 2026 01:36:54 GMT | Menjelajahi Stack Server Bersama Coding Ceria X Penjelajah CyberSecurity | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/e650665b2ea4) |
+| Tue, 03 Feb 2026 01:34:10 GMT | Reverse Engineering and Analyzing Malware: Shooter | smarttfoxx | [Read More](https://medium.com/p/f250c52431ba) |
+| Tue, 03 Feb 2026 01:31:01 GMT | WebAssembly Isn’t a Hack: Use Cases That Keep Growing | Velorum | [Read More](https://medium.com/p/acdd8e8df6a0) |
+| Tue, 03 Feb 2026 01:01:36 GMT | Analyzing the Digital Shadow Economy: | Miles Fisher | [Read More](https://medium.com/p/5a49c7ed2ded) |
+| Tue, 03 Feb 2026 00:36:03 GMT | Investigating a Potential Insider Threat with Microsoft Defender for Endpoint | Julian Smith | [Read More](https://medium.com/p/cd2be913f642) |
+| Tue, 03 Feb 2026 00:34:02 GMT | API Gateways: The Security Guard of Your Backend | Saurav Modi | [Read More](https://medium.com/p/4e207df2f035) |
+| Tue, 03 Feb 2026 00:33:22 GMT | How I Coded My Own AI Assistant Using Modern PHP and Gemini API (https://paticotr.xyz) | Gokhan Can | [Read More](https://medium.com/p/90bbdcbe7cf0) |
+| Tue, 03 Feb 2026 00:13:24 GMT | Demon Reborn (BUET CSE Fest 2026 CTF Finals) — Validation Bypass via devalue.parse | Sakibul Ali Khan | [Read More](https://medium.com/p/4dad4b6bdec7) |
+| Tue, 03 Feb 2026 00:01:02 GMT | John the Ripper: Guía Completa de Cracking para Bug Bounty y Auditoría | JPablo13 | [Read More](https://medium.com/p/1479f77ba441) |
+| Mon, 02 Feb 2026 23:56:48 GMT | When Your Data Is Leaving the Building: Why Old DLP Breaks in the Age of AI Browsing | Mammoth Cyber | [Read More](https://medium.com/p/ac47b5dd2aab) |
+| Mon, 02 Feb 2026 23:56:29 GMT | AI, Cybersecurity, and the Illusion of Safety | Cyber-AppSec | [Read More](https://medium.com/p/bca977a3f4cf) |
+| Mon, 02 Feb 2026 23:50:33 GMT | CTF Pwn101 @ TryHackMe | Rafael David | [Read More](https://medium.com/p/768b5a5545ff) |
+| Mon, 02 Feb 2026 23:35:53 GMT | Build a Secure, Self‑Hosted AI Agent (Molten) on Azure for Under $10/Month | Kim Vaddi | [Read More](https://medium.com/p/a2999c6953b8) |
+| Mon, 02 Feb 2026 23:31:39 GMT | Top 10 Tools Every Bug Bounty Hunter Should Master (2026) | Faragelzegil | [Read More](https://medium.com/p/5ff1f34ed1dc) |
 | Mon, 02 Feb 2026 23:22:23 GMT | AI Agents Now Have Their Own Reddit Style Social Network and It’s Getting Weird Fast | Ashraf rauf | [Read More](https://medium.com/p/6f8e6d8c7881) |
 | Mon, 02 Feb 2026 23:11:45 GMT | Building Strong Cybersecurity Foundations: What I Learned from TryHackMe’s Cybersecurity… | sree | [Read More](https://medium.com/p/5acc18d5418c) |
 | Mon, 02 Feb 2026 23:09:04 GMT | Raspberry Pi 5 vs. Orange Pi 5 Which SBC Wins for Pentesting? | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/1b10533e2c8b) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Feb 2026 15:44:54 GMT | Pass-the-Hash Attacks: Why They’re Still a Big Deal | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/8f69f8bdd077) |
 | Mon, 02 Feb 2026 15:41:34 GMT | 5yno1nc: A “Backdoor Key” Exposes 9.2 Million Synology NAS Devices Worldwide | Мартин. | [Read More](https://medium.com/p/0043ff3be391) |
 | Mon, 02 Feb 2026 15:38:26 GMT | 3n1 (3 learning meetings in 1 blog). Was it fun? | Jay Fajardo | [Read More](https://medium.com/p/040ded33222e) |
-| Mon, 02 Feb 2026 15:35:48 GMT | OverTheWire Bandit: What I Learned About Linux | Qeeyah | [Read More](https://medium.com/p/074c5d338f49) |
-| Mon, 02 Feb 2026 15:35:31 GMT | How I Passed OSCP+ as a Fresher — A Practical, No-Nonsense Journey | DataDefender | [Read More](https://medium.com/p/95040f1ecc57) |
-| Mon, 02 Feb 2026 15:34:02 GMT | Inside Symbiote: Malware Deep Dive | Zerone Security | [Read More](https://medium.com/p/04f71b5a538b) |
-| Mon, 02 Feb 2026 15:25:33 GMT | The Stealthy Linux Threat and How The Zero Door Keeps It at Bay | Zerone Security | [Read More](https://medium.com/p/abbd00bf9f76) |
-| Mon, 02 Feb 2026 15:19:28 GMT | Building a Vulnerable Kubernetes Lab: A Complete Guide to 25 Critical Security Issues | Andrey Pautov | [Read More](https://medium.com/p/fae4fc8e3a91) |
-| Mon, 02 Feb 2026 15:17:24 GMT | Day 7: Learning Bash Scripting and Building a Simple IP Sweep | Mohammad-AL-Momani | [Read More](https://medium.com/p/a502007073af) |
-| Mon, 02 Feb 2026 15:16:54 GMT | Identity Theft Prevention: Modern Threats, Simple Defenses | Atomic Mail | [Read More](https://medium.com/p/0d7c00f163b7) |
-| Mon, 02 Feb 2026 15:10:05 GMT | Automating Linux Log Intelligence with Python and Regex -Part 2 | Faruk Ahmed | [Read More](https://medium.com/p/103076da477e) |
-| Mon, 02 Feb 2026 15:10:01 GMT | Gitlab, A Foxy Recipe For Success — An XXE & A Mouth-Watering $66,000 Bounty | Justas_b_2 | [Read More](https://medium.com/p/595e0f9cd611) |
-| Mon, 02 Feb 2026 15:06:01 GMT | Chatbot load test | Jeffyfung | [Read More](https://medium.com/p/38da05550e7d) |
-| Mon, 02 Feb 2026 15:01:21 GMT | Private Agent — Cypertalents Web Security Challenge | Z3DX | [Read More](https://medium.com/p/cbdad999d467) |
-| Mon, 02 Feb 2026 15:01:09 GMT | Watch, listen, and learn as two AT&T employees steal my SIM card to access my online accounts. | Samuel Brice | [Read More](https://medium.com/p/51b7d10dfa2e) |
-| Mon, 02 Feb 2026 15:00:11 GMT | ConCmarks Web Security Challenge — Cypertalents Write-Up | Z3DX | [Read More](https://medium.com/p/9f99312e74a2) |
-| Mon, 02 Feb 2026 14:59:43 GMT | Notepad++ Security Incident — Threat Hunting using KQL and Defender for Endpoint logs | Bartosz Turek | [Read More](https://medium.com/p/dd83b984fcc6) |
-| Mon, 02 Feb 2026 14:55:11 GMT | The Trust Void: Identity Nullification in the OpenClaw Agent Ecosystem | Maor Dayan - מאור דיין | [Read More](https://medium.com/p/15c31dc15718) |
-| Mon, 02 Feb 2026 14:54:58 GMT | Why Zero Trust Is Failing Without Identity Governance | Sunnysinha | [Read More](https://medium.com/p/ad10b4540fa4) |
-| Mon, 02 Feb 2026 14:53:27 GMT | The Inevitability of Semantic Leakage: Why “Safe” Image Embeddings Were Never Really Safe | Berend Watchus | [Read More](https://medium.com/p/ef4bac7c94ab) |
-| Mon, 02 Feb 2026 14:50:42 GMT | The Linux Guide I Wish I Had (It’s Free on GitHub) | Ayush Gharat | [Read More](https://medium.com/p/43b14fc30bdd) |
