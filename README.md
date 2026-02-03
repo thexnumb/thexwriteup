@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Feb 2026 09:33:41 GMT | Moltbook: 1.5 Million AI Agents Are Posting on Their Own Reddit. One Proposed Human Extinction. | Heinan Cabouly | [Read More](https://medium.com/p/2570e169f4c9) |
+| Tue, 03 Feb 2026 09:33:09 GMT | Denied Boarding Isn’t Bad Luck, It’s a Legal Claim | MYFLYRIGHT | [Read More](https://medium.com/p/c6767f5a69e2) |
+| Tue, 03 Feb 2026 09:27:11 GMT | Types of IT Jobs Available on Technokrate Hire | Talentrisetechnolrate Dilpreet | [Read More](https://medium.com/p/1d767f0a1020) |
+| Tue, 03 Feb 2026 09:21:07 GMT | “I Let an MCP Agent Named HexStrike Guide My Attack” | Solynth.exe | [Read More](https://medium.com/p/be3b2dd2ce2a) |
+| Tue, 03 Feb 2026 09:19:00 GMT | Moltbot(Previously Clawdbot) — A Personal AI Assistant | Nitin Garg | [Read More](https://medium.com/p/a38be6994a8f) |
+| Tue, 03 Feb 2026 09:18:36 GMT | New York Post : Elite San Francisco moms dump their kids in Waymo robotaxis: ‘It’s part of our… | Nitin Garg | [Read More](https://medium.com/p/03053c9eb5ca) |
+| Tue, 03 Feb 2026 09:11:07 GMT | FortiGate / VLAN Segmentasyonu: Neden “ayrı VLAN” tek başına yetmez? | Hasancangozgec | [Read More](https://medium.com/p/bc29ebc10308) |
+| Tue, 03 Feb 2026 09:10:35 GMT | How a Forgotten QA Page Led to an $800 Bounty: Unauthorized Document Access | gopi krishnan | [Read More](https://medium.com/p/1065b05ab79d) |
+| Tue, 03 Feb 2026 09:09:09 GMT | 9 Powerful Steps: DFIR Guide to Patch Proof | Pentest_Testing_Corp | [Read More](https://medium.com/p/6322595fe375) |
+| Tue, 03 Feb 2026 09:01:05 GMT | Bug Bounty Quick Win: Finding Forgotten Staging Environments in Leak Data | Alexandre Vandamme | [Read More](https://medium.com/p/0a44fceadae3) |
+| Tue, 03 Feb 2026 09:01:05 GMT | Building a TAK Server Architecture with Zero Trust in Mind (Lessons from the Lab) | Babyf4c3 | [Read More](https://medium.com/p/a174ae8d0ea2) |
+| Tue, 03 Feb 2026 08:56:48 GMT | Snow-Crash-write-up [level12] | B.R.O.L.Y | [Read More](https://medium.com/p/a750f91ee502) |
+| Tue, 03 Feb 2026 08:55:34 GMT | PowerShell Encoded Commands: Building Detection Rules That Actually Work (Part 2) | Manish Rawat | [Read More](https://medium.com/p/dc136d1a7b7f) |
+| Tue, 03 Feb 2026 08:54:02 GMT | Tanuki writeup (BugForge) | 7s26Simon | [Read More](https://medium.com/p/8bc0c8d4e8ab) |
+| Tue, 03 Feb 2026 08:53:53 GMT | HackTheBox — Cap Writeup by Phenyl316 | Phenyl316 | [Read More](https://medium.com/p/947a2ac8a0d8) |
+| Tue, 03 Feb 2026 08:45:47 GMT | Snow-Crash-write-up [level11] | B.R.O.L.Y | [Read More](https://medium.com/p/3548048b3e8d) |
 | Tue, 03 Feb 2026 08:36:32 GMT | Jim’s Cyber Squawk is online! | Jim Grimes | [Read More](https://medium.com/p/6876cc2287aa) |
 | Tue, 03 Feb 2026 08:25:14 GMT | The Most Dangerous Security Flaw is Your Own Politeness | Numan Nadeem | [Read More](https://medium.com/p/40c3935ad990) |
 | Tue, 03 Feb 2026 08:22:41 GMT | How I Built a Physical Kill-Switch for CI/CD Pipelines to Stop SolarWinds-Style Attacks | Kalyan Tamarapalli | [Read More](https://medium.com/p/a026e91011cb) |
@@ -97,19 +113,3 @@ i. | Anand Mishra | [Read More](https://medium.com/p/c7ee3b5680cf) |
 | Tue, 03 Feb 2026 03:50:45 GMT | Cybersecurity Journey — Day 1 (Networking): What is an IP address | Divya’s Cybersecurity Journey | [Read More](https://medium.com/p/9df2eca21340) |
 | Tue, 03 Feb 2026 03:44:19 GMT | Accelerating Engineering Excellence: A Strategic Framework for Enhanced Software Development… | Bhavin Mistry | [Read More](https://medium.com/p/fc3f5cbfd591) |
 | Tue, 03 Feb 2026 03:31:01 GMT | Inside DarkSpectre: The Browser Extension Campaign That Went Unnoticed for Years | Deven Chhajed | [Read More](https://medium.com/p/7736a92d84e4) |
-| Tue, 03 Feb 2026 03:23:29 GMT | Configuring the Auth0 Provider with Variable Sets in HCP Terraform | Mark Tinderholt | [Read More](https://medium.com/p/dff0001c8e02) |
-| Tue, 03 Feb 2026 03:16:49 GMT | The smartphone in your pocket contains over fifteen sensors. | verasnap | [Read More](https://medium.com/p/8b5e0b563b20) |
-| Tue, 03 Feb 2026 03:14:01 GMT | The Camera That Knows When Evidence Goes Missing: How VeraSnap Uses XOR Mathematics to Solve… | verasnap | [Read More](https://medium.com/p/316ae28d8915) |
-| Tue, 03 Feb 2026 03:12:27 GMT | THE ROLE OF EXPLAINABLE AI IN DEFENSIBLE INSURANCE DECISIONS | Chetan Ratnawat | [Read More](https://medium.com/p/47dfe77327ec) |
-| Tue, 03 Feb 2026 03:00:25 GMT | CISSP: Is SDLC 7 Phases or 9? | Pushpak Sharma | [Read More](https://medium.com/p/e56bbe434e52) |
-| Tue, 03 Feb 2026 02:59:47 GMT | AI in Cybersecurity: The Hype, the Help, and the Hard Truth | Paritosh | [Read More](https://medium.com/p/a52942d66bbb) |
-| Tue, 03 Feb 2026 02:59:35 GMT | Why “Thwart” Changes Everything: Cybersecurity in the AI Era Is Built at the Intersections | Juan Pablo Castro | [Read More](https://medium.com/p/4c2d1e3edb08) |
-| Tue, 03 Feb 2026 02:43:02 GMT | What is End to End Encryption? | David LeBlanc | [Read More](https://medium.com/p/7f49668eb70e) |
-| Tue, 03 Feb 2026 02:40:36 GMT | The New Standard of Privacy: Why I Switched to SECURET | SAYCOIN | [Read More](https://medium.com/p/18a1b8f5834b) |
-| Tue, 03 Feb 2026 02:34:32 GMT | Every Day | JM | [Read More](https://medium.com/p/ee76ad27b8c4) |
-| Tue, 03 Feb 2026 02:31:01 GMT | Web Security 101: Part 6 - CSRF (Cross-Site Request Forgery) | Nithishraina | [Read More](https://medium.com/p/722616f585f5) |
-| Tue, 03 Feb 2026 02:28:15 GMT | Android WebView Exploitation: From Deep Link to Account Takeover | BaymaxPop23 | [Read More](https://medium.com/p/62f7a3e1da15) |
-| Tue, 03 Feb 2026 02:21:31 GMT | Tuesday Morning Threat Report: Feb 3, 2026 | Mark Maguire | [Read More](https://medium.com/p/b60b890db8d7) |
-| Tue, 03 Feb 2026 02:19:28 GMT | The First Social Network for AI Agents Is Here | Zac Moore | [Read More](https://medium.com/p/66c47e24e16e) |
-| Tue, 03 Feb 2026 01:59:17 GMT | Living Alone? 4 “Aesthetic” Security Gadgets That Make Your Apartment a Fortress | Brian Chen | [Read More](https://medium.com/p/a9301f074d3d) |
-| Tue, 03 Feb 2026 01:54:22 GMT | Breaking Our Own APIs: Practical Security Testing with ffuf | Rathinasabapathy Ramalingam (Saba) | [Read More](https://medium.com/p/282d1241487e) |
