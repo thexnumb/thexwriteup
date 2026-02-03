@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Feb 2026 06:47:02 GMT | Clash Of Clans APK | Bandisharecx | [Read More](https://medium.com/p/41bca74c0b45) |
+| Tue, 03 Feb 2026 06:46:49 GMT | Understanding Your Security Needs | Digital Duffer | [Read More](https://medium.com/p/24702c915ec8) |
+| Tue, 03 Feb 2026 06:41:57 GMT | Root Detection Is Dead: What Actually Works in Android (2026) | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/b7f801e50531) |
+| Tue, 03 Feb 2026 06:40:20 GMT | SQL Injection Autopsy: Mapping the Logical Failures from Low to Impossible in DVWA | Narathama Firmansyah Putra | [Read More](https://medium.com/p/d1cb8edd40f1) |
+| Tue, 03 Feb 2026 06:39:32 GMT | How to Recover Stolen Crypto from btpex.cc | Isabella | [Read More](https://medium.com/p/a85ebe0fd34d) |
+| Tue, 03 Feb 2026 06:34:37 GMT | Recon for PHP, ASPX, JSP Juicy Endpoints via URLScan Dorking | Abhirup Konwar | [Read More](https://medium.com/p/a67164c8f709) |
+| Tue, 03 Feb 2026 06:31:01 GMT | Securing AI for the Quantum Era | Ram Kumar | [Read More](https://medium.com/p/4ed8983b206b) |
+| Tue, 03 Feb 2026 06:29:08 GMT | What Building UPI at Scale Taught Me About Architecture, Trust, and Trade-offs | Akhtar Raza Ansari | [Read More](https://medium.com/p/c32cf759a21f) |
+| Tue, 03 Feb 2026 06:26:33 GMT | 1. Key Benefits
+i. | Anand Mishra | [Read More](https://medium.com/p/c7ee3b5680cf) |
+| Tue, 03 Feb 2026 06:24:27 GMT | Digital Literacy is Contextual: Why Operating Systems Shape How We Use Technology | Vaishnavi Bhandari | [Read More](https://medium.com/p/32d2a533066a) |
+| Tue, 03 Feb 2026 06:15:31 GMT | The Single HTTP Header That Secures Your Entire Web App | Azad Ansari | [Read More](https://medium.com/p/df01e9e2759e) |
+| Tue, 03 Feb 2026 06:13:15 GMT | Inside the Global Software Composition Analysis Market: Technology Evolution and Vendor Landscape | Gargiben | [Read More](https://medium.com/p/e930f38d8f04) |
+| Tue, 03 Feb 2026 06:10:05 GMT | Open Deepseek Database:Wiz Bug Bounty Masterclass Lesson | Jared Douville | [Read More](https://medium.com/p/ea92efaff782) |
+| Tue, 03 Feb 2026 06:01:01 GMT | AI for Aerospace: Applying Artificial Intelligence in the Aerospace Industry | NeuroCore | [Read More](https://medium.com/p/c83fdb4c7def) |
+| Tue, 03 Feb 2026 06:00:45 GMT | Zero Trust Using ForgeRock — The Complete Guide | Serving Aid Key for Humans and Animals Foundation | [Read More](https://medium.com/p/bee65f2d7a13) |
+| Tue, 03 Feb 2026 05:44:06 GMT | How to Prepare for the CISA Exam Effectively | Irfan Sharief | [Read More](https://medium.com/p/b94814870f38) |
+| Tue, 03 Feb 2026 05:38:54 GMT | Best Pentesting Services | Digital Duffer | [Read More](https://medium.com/p/118e14caaebd) |
+| Tue, 03 Feb 2026 05:38:08 GMT | GraphQL Security Masterclass | Rohit Kumar | [Read More](https://medium.com/p/9d42317d04f0) |
+| Tue, 03 Feb 2026 05:37:35 GMT | I Built a Tool Because I Hate Memorizing Nmap Flags | Atsukiiii01 | [Read More](https://medium.com/p/689d1d8aafd8) |
+| Tue, 03 Feb 2026 05:31:18 GMT | Regulatory Challenges in Sportsbook Software Development in Malta | betprocoders | [Read More](https://medium.com/p/430537bc41c7) |
 | Tue, 03 Feb 2026 05:19:49 GMT | ️AI Smart Contract Audit Checklist 2025 You Must know Before You Lost Money. | MAYURSINH ZALA | [Read More](https://medium.com/p/9e063e94cb13) |
 | Tue, 03 Feb 2026 05:19:46 GMT | Network Detection and Response Market Trends: What Organizations Need to Know | Michel mathew | [Read More](https://medium.com/p/553926a13945) |
 | Tue, 03 Feb 2026 05:10:20 GMT | Two Weeks, Vacation Time, and a CISSP Exam | Jevon Davis | [Read More](https://medium.com/p/01ee8d6dcbc0) |
@@ -92,23 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Feb 2026 21:52:16 GMT | ItsyBitsy - TryHackMe | Shyroot | [Read More](https://medium.com/p/ed3cf5f2f2a8) |
 | Mon, 02 Feb 2026 21:49:47 GMT | Be Seen: Visibility, Connection & Support for Artists | Artflow Alliance | [Read More](https://medium.com/p/fdea448d4eda) |
 | Mon, 02 Feb 2026 21:41:56 GMT | The Week the “Claw” Came Out: What OpenClaw Teaches Us About AI Safety | Dhanayy | [Read More](https://medium.com/p/f6120350f221) |
-| Mon, 02 Feb 2026 21:13:40 GMT | HackThisSite — Basic Level 4 — Insecure Password Recovery via Request Manipulation | Javier | [Read More](https://medium.com/p/52973ed3fbc7) |
-| Mon, 02 Feb 2026 20:55:50 GMT | HOW TO RECOVER YOUR BITCOIN WALLET:A GUIDE YOU WON’T FORGET:CONTACT DIGITAL LIGHT SOLUTION | Keitaharuto | [Read More](https://medium.com/p/105de7df4900) |
-| Mon, 02 Feb 2026 20:36:09 GMT | What Learning API Security Taught Me About Building Systems for the Real World | Mercy Eze | [Read More](https://medium.com/p/62c43dcd66a6) |
-| Mon, 02 Feb 2026 20:09:20 GMT | Full-Chain Exploitation: From Recon to Blind SQLi | Samet Yiğit | [Read More](https://medium.com/p/239eed0252a2) |
-| Mon, 02 Feb 2026 19:52:14 GMT | I Analyzed Every Crypto Inheritance Solution. Here’s What I Found. | Legacy Vault | [Read More](https://medium.com/p/dd327a94fab3) |
-| Mon, 02 Feb 2026 19:28:22 GMT | CYBER KILL CHAIN: Organizations’ Digital Defense Map | dilan alpaltun | [Read More](https://medium.com/p/7bf27b93b156) |
-| Mon, 02 Feb 2026 19:26:53 GMT | How to prepare for CSEDP exam from The SecOps Group? | Kerolos Ayman | [Read More](https://medium.com/p/59209d505397) |
-| Mon, 02 Feb 2026 19:25:13 GMT | The Hidden Risk in Your AI Strategy | Gunnar Östberg | [Read More](https://medium.com/p/16d2ee3a5b27) |
-| Mon, 02 Feb 2026 19:14:02 GMT | About J Ramgharia | J Ramgharia | [Read More](https://medium.com/p/83f8bb38ae4a) |
-| Mon, 02 Feb 2026 19:07:41 GMT | Try Hack Me- Mr Robot CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/fd2965ba6c85) |
-| Mon, 02 Feb 2026 18:49:32 GMT | PG Lab Resourced: Delegator | Nicolas Garcia | [Read More](https://medium.com/p/6527490f4291) |
-| Mon, 02 Feb 2026 18:47:38 GMT | BRUCE: An overview of a firmware that packs a punch! | Hobin Rood | [Read More](https://medium.com/p/7558fc7d5774) |
-| Mon, 02 Feb 2026 18:43:00 GMT | Pascal CTF 2026 | LiGhTZod | [Read More](https://medium.com/p/4fd6e0694c06) |
-| Mon, 02 Feb 2026 18:36:28 GMT | Securing API Servers: What CORS, Headers, and Error Messages Reveal About API Security | Joyatee Datta | [Read More](https://medium.com/p/87f97724bb69) |
-| Mon, 02 Feb 2026 18:33:17 GMT | How I Set Up OpenClaw Securely on Proxmox Using Tailscale (No Public Exposure) | Sujit Gangadharan | [Read More](https://medium.com/p/6db881730932) |
-| Mon, 02 Feb 2026 18:25:51 GMT | The Weakest Link Isn’t Your Password. It’s You. | Vasant Bhadauria | [Read More](https://medium.com/p/4cf7361b5b5d) |
-| Mon, 02 Feb 2026 18:22:59 GMT | Client-Side Logging for Microsoft Double Key Encryption Troubleshooting | Diogo Couto | [Read More](https://medium.com/p/64bfecf23cc0) |
-| Mon, 02 Feb 2026 18:21:02 GMT | FOOTPRINTING —  DNS | Sunain | [Read More](https://medium.com/p/e3191b6df974) |
-| Mon, 02 Feb 2026 18:18:33 GMT | GraphQL for Dummies | Shivam Bathla | [Read More](https://medium.com/p/d0c6a727fc0) |
-| Mon, 02 Feb 2026 18:12:22 GMT | One more text about Web3 Security | Masha Vaverova | [Read More](https://medium.com/p/af293f49f817) |
