@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Feb 2026 21:49:59 GMT | Types of Motherboards | Aaron DeJong | [Read More](https://medium.com/p/70eafb5ce4de) |
+| Tue, 03 Feb 2026 21:43:43 GMT | Vulnerability Analysis: Reflected XSS via React Bypass and CSP Whitelist Gadget | lightofmoon | [Read More](https://medium.com/p/f4f103050b84) |
+| Tue, 03 Feb 2026 21:40:56 GMT | CK999 Game Online: A Complete Review of Every Earning App | ABC.XZY | [Read More](https://medium.com/p/d6f93c744254) |
+| Tue, 03 Feb 2026 21:40:01 GMT | Before You Connect to Free WiFi, Read This | Alex Brooks | [Read More](https://medium.com/p/0b15048479af) |
+| Tue, 03 Feb 2026 21:29:58 GMT | When Your AI Assistant Breaks: Real Debugging Stories | Omar Antonio Díaz Peña | [Read More](https://medium.com/p/ab6afadc2f1a) |
+| Tue, 03 Feb 2026 21:19:42 GMT | The Invisible Infrastructure: Why Critical Systems Fail When Everything Looks Fine | Martin Balome | [Read More](https://medium.com/p/8b39d903939b) |
+| Tue, 03 Feb 2026 21:11:01 GMT | Optimizing NVIDIA L4 AI Processing with Quadra Video Decoding | NETINT Technologies | [Read More](https://medium.com/p/05a7fb1730e7) |
+| Tue, 03 Feb 2026 21:04:59 GMT | What Learning API Security Taught Me About Building Systems for the Real World | Chihurumnanya Ruth Godwin | [Read More](https://medium.com/p/7d075d187c7a) |
+| Tue, 03 Feb 2026 21:03:58 GMT | Mobile Pentest: Allsafe Android Write-Up | Bedo1551 | [Read More](https://medium.com/p/1d8a70c1d759) |
 | Tue, 03 Feb 2026 20:49:41 GMT | Most Cybersecurity Careers Won’t Survive the AI Era — Here’s the Filter | Taimur Ijlal | [Read More](https://medium.com/p/32319167cc69) |
 | Tue, 03 Feb 2026 20:26:56 GMT | The Editor’s Trap: How a Global IT Favourite Became a Gateway for Cyber-Espionage | Adam Frąckowiak | [Read More](https://medium.com/p/254b031b1529) |
 | Tue, 03 Feb 2026 20:18:02 GMT | How to Run Cisco’s Foundation-sec-8B-Reasoning in Ollama (DIY Guide!) | Kulkan Security | [Read More](https://medium.com/p/c073c441dc06) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Feb 2026 15:01:05 GMT | Cyber Briefing: 2026.02.03 | CyberMaterial | [Read More](https://medium.com/p/c9973c9d5163) |
 | Tue, 03 Feb 2026 15:00:57 GMT | Tetrad Analysis: Artificial Intelligence | Bennett Moger | [Read More](https://medium.com/p/9131b08c52df) |
 | Tue, 03 Feb 2026 14:54:37 GMT | VulnLab: Server Side Template Injection (SSTI) Çözümü | CyberSam | [Read More](https://medium.com/p/8574098bbd0a) |
-| Tue, 03 Feb 2026 14:52:58 GMT | “Bug Bounty Bootcamp #22: From Self-XSS to Account Takeover — The Critical Art of Vulnerability… | Aman Sharma | [Read More](https://medium.com/p/895d41aa8a25) |
-| Tue, 03 Feb 2026 14:49:23 GMT | From AI Risks to Security Mandates: Building an AI Security Policy for the Full AI Lifecycle | Chris Fong | [Read More](https://medium.com/p/46b50f58c254) |
-| Tue, 03 Feb 2026 14:46:32 GMT | The 3 Tools That Keep SOC Analysts from Drowning on Day One | Emmanuel Haruna, Msc, CISM, CEH, CCNA. | [Read More](https://medium.com/p/31d214c73cc7) |
-| Tue, 03 Feb 2026 14:46:30 GMT | The Problem with Modern Computing | ESTROLABS | [Read More](https://medium.com/p/759ffd392660) |
-| Tue, 03 Feb 2026 14:40:17 GMT | Which Provider Offers the Best Home Security Solutions in UAE and Expert CCTV Approval in Sharjah ? | techfra solutions | [Read More](https://medium.com/p/6d1f125f073d) |
-| Tue, 03 Feb 2026 14:39:47 GMT | Deepfake Social Engineering: Beyond Standard Phishing | Digital Defense | [Read More](https://medium.com/p/182641fbf848) |
-| Tue, 03 Feb 2026 14:37:43 GMT | RootMe (CTF Walkthrough) | Marduk I Am | [Read More](https://medium.com/p/efe69ef73510) |
-| Tue, 03 Feb 2026 14:37:37 GMT | Épisode 1 : Le Coffre-fort en Carton et le Fantôme de Grok | Deepbedrock | [Read More](https://medium.com/p/ccf2ae2ddb0b) |
-| Tue, 03 Feb 2026 14:32:02 GMT | WhatsApp "Gift" Links: A Love Story Between Scammers and Your Bank Account | Digital Kavach ️ | [Read More](https://medium.com/p/0107b2a25730) |
