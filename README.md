@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Feb 2026 20:49:41 GMT | Most Cybersecurity Careers Won’t Survive the AI Era — Here’s the Filter | Taimur Ijlal | [Read More](https://medium.com/p/32319167cc69) |
+| Tue, 03 Feb 2026 20:26:56 GMT | The Editor’s Trap: How a Global IT Favourite Became a Gateway for Cyber-Espionage | Adam Frąckowiak | [Read More](https://medium.com/p/254b031b1529) |
+| Tue, 03 Feb 2026 20:18:02 GMT | How to Run Cisco’s Foundation-sec-8B-Reasoning in Ollama (DIY Guide!) | Kulkan Security | [Read More](https://medium.com/p/c073c441dc06) |
+| Tue, 03 Feb 2026 20:11:24 GMT | Belajar Web Security: Menghubungkan Firefox ke Burp Suite dari Nol | My Name is "Jadir" | [Read More](https://medium.com/p/237cbdd1b58b) |
+| Tue, 03 Feb 2026 20:10:28 GMT | AI in GRC: Overhyped, Misunderstood, and Still Useful | Nikita Gupta | [Read More](https://medium.com/p/f491b63ac6bd) |
 | Tue, 03 Feb 2026 19:46:52 GMT | INE / eJPT / Host & Network Penetration Testing: Exploitation CTF 2 | Salihugurlu | [Read More](https://medium.com/p/123288efaecb) |
 | Tue, 03 Feb 2026 19:45:44 GMT | Before You Click “Buy”, Read This Once | Bedaprakash Bhagabati | [Read More](https://medium.com/p/7d0d82efca91) |
 | Tue, 03 Feb 2026 19:40:21 GMT | What Is Phishing & How It Steals Your Data | Shahzaib | [Read More](https://medium.com/p/894b9b3d35f3) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Feb 2026 14:37:43 GMT | RootMe (CTF Walkthrough) | Marduk I Am | [Read More](https://medium.com/p/efe69ef73510) |
 | Tue, 03 Feb 2026 14:37:37 GMT | Épisode 1 : Le Coffre-fort en Carton et le Fantôme de Grok | Deepbedrock | [Read More](https://medium.com/p/ccf2ae2ddb0b) |
 | Tue, 03 Feb 2026 14:32:02 GMT | WhatsApp "Gift" Links: A Love Story Between Scammers and Your Bank Account | Digital Kavach ️ | [Read More](https://medium.com/p/0107b2a25730) |
-| Tue, 03 Feb 2026 14:31:02 GMT | Targeted Packet Sniffing Using Airodump-ng: A Detailed Guide | Vignesh R | [Read More](https://medium.com/p/f779881596eb) |
-| Tue, 03 Feb 2026 14:19:56 GMT | How PlutoSec Helps You Fill Your Security Gaps and Stay ProtectedHow PlutoSec Helps You Fill Your… | Plutosec Cyber Security | [Read More](https://medium.com/p/de99abd4aca4) |
-| Tue, 03 Feb 2026 14:12:28 GMT | Threat and Vulnerabilities Report-January 2026 | Loginsoft | [Read More](https://medium.com/p/582538de984c) |
-| Tue, 03 Feb 2026 14:05:48 GMT | Tools for Bug Bounty v3.0 — Content Discovery | Swetha | [Read More](https://medium.com/p/3e97ade93c91) |
-| Tue, 03 Feb 2026 14:01:01 GMT | Openclaw: The Viral Phenomenon | Nwosu Rosemary | [Read More](https://medium.com/p/1cbac8df37a6) |
