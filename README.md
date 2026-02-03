@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Feb 2026 19:46:52 GMT | INE / eJPT / Host & Network Penetration Testing: Exploitation CTF 2 | Salihugurlu | [Read More](https://medium.com/p/123288efaecb) |
+| Tue, 03 Feb 2026 19:45:44 GMT | Before You Click “Buy”, Read This Once | Bedaprakash Bhagabati | [Read More](https://medium.com/p/7d0d82efca91) |
+| Tue, 03 Feb 2026 19:40:21 GMT | What Is Phishing & How It Steals Your Data | Shahzaib | [Read More](https://medium.com/p/894b9b3d35f3) |
+| Tue, 03 Feb 2026 19:35:58 GMT | Day 9 : Command Injection | Cybersecurity with Jojo | [Read More](https://medium.com/p/cc1c30f10330) |
+| Tue, 03 Feb 2026 19:35:53 GMT | AI Agents Are Here. Leadership Readiness Is the Real Question | Funke Omolere | [Read More](https://medium.com/p/7b7ac580e649) |
 | Tue, 03 Feb 2026 19:15:50 GMT | Slingshot: ELK Stack ile Bir Siber Saldırının İzini Sürmek (TryHackMe-Slingshot CTF Çözümü) | Ahmet Hakan Öztürk | [Read More](https://medium.com/p/960a2ddb6ba5) |
 | Tue, 03 Feb 2026 19:13:08 GMT | My BYBS Transformation Journey: From Carrying Everything Alone to Moving with Clarity . | Nyombe Benson Jalle | [Read More](https://medium.com/p/68e5d8c4ef94) |
 | Tue, 03 Feb 2026 19:04:55 GMT | Cybersecurity Is Now an Operational Risk, Not Just IT Risk | JSOC IT BLOG | [Read More](https://medium.com/p/5f004c1f55f4) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Feb 2026 14:12:28 GMT | Threat and Vulnerabilities Report-January 2026 | Loginsoft | [Read More](https://medium.com/p/582538de984c) |
 | Tue, 03 Feb 2026 14:05:48 GMT | Tools for Bug Bounty v3.0 — Content Discovery | Swetha | [Read More](https://medium.com/p/3e97ade93c91) |
 | Tue, 03 Feb 2026 14:01:01 GMT | Openclaw: The Viral Phenomenon | Nwosu Rosemary | [Read More](https://medium.com/p/1cbac8df37a6) |
-| Tue, 03 Feb 2026 13:59:47 GMT | OWASP Top Ten #5: Security Misconfiguration | Angela | [Read More](https://medium.com/p/9636ba2f95b2) |
-| Tue, 03 Feb 2026 13:51:19 GMT | Learning PCI-DSS Through Application Security: A Practical API Lab Walkthrough | Catelle Ningha - Digital Trust & Safety Advocate | [Read More](https://medium.com/p/87daae989035) |
-| Tue, 03 Feb 2026 13:38:14 GMT | 13.1.10-packet-tracer-configure-a-wireless-network | Nicksondiazm | [Read More](https://medium.com/p/63602e825ab7) |
-| Tue, 03 Feb 2026 13:36:24 GMT | Decision Readiness Simulations. Practice the Calls That Can Save Your Reputation | Tyson Martin | [Read More](https://medium.com/p/149d75c02ea3) |
-| Tue, 03 Feb 2026 13:36:08 GMT | The AI Social Network Built by AI Had No Security (Shocking No One) | Threat Road | [Read More](https://medium.com/p/35fb7d771c20) |
