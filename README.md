@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Feb 2026 23:27:19 GMT | Discovering PPL Protection in Windows Processes | S12 - 0x12Dark Development | [Read More](https://medium.com/p/2328ba4608e5) |
+| Tue, 03 Feb 2026 23:26:00 GMT | Diving Into Web Development: What I’d Do Differently If I Were Starting Today | Miss Tarus | [Read More](https://medium.com/p/e94526e4129a) |
+| Tue, 03 Feb 2026 23:14:49 GMT | Flask Cookies: How Signed ≠ Secure | Eyad Eltaher | [Read More](https://medium.com/p/0b9cf67e043e) |
+| Tue, 03 Feb 2026 23:13:58 GMT | SOC Analyst in 2026: Reality & Career Guide | sm0q | [Read More](https://medium.com/p/6daec70f9c5c) |
+| Tue, 03 Feb 2026 23:11:54 GMT | Is Your Format-Preserving Encryption Quantum-Safe? | Leslie Gutschow | [Read More](https://medium.com/p/ea5d593280a1) |
+| Tue, 03 Feb 2026 22:59:30 GMT | Two Ways To Heal | AfterRainWrites | [Read More](https://medium.com/p/8601a25f4cae) |
+| Tue, 03 Feb 2026 22:59:00 GMT | Beyond RSS: Why Analysts Are Looking for a Feedly Threat Intelligence Alternative | Cyber Threat Intelligence Analyst | [Read More](https://medium.com/p/9f1802a996ba) |
+| Tue, 03 Feb 2026 22:42:43 GMT | From INTERPOL to Hollywood: How Real Cybercrime Differs from TV Hacking | Travis Ray Caverhill | [Read More](https://medium.com/p/4e8114793374) |
+| Tue, 03 Feb 2026 22:34:36 GMT | The Death of the Fifty-Tab Investigation | Cyber Threat Intelligence Analyst | [Read More](https://medium.com/p/654edd48060b) |
 | Tue, 03 Feb 2026 22:30:30 GMT | Hardened Docker Images — Explained the Way I Finally Understood Them | Medha Goel | [Read More](https://medium.com/p/571d23a1da7c) |
 | Tue, 03 Feb 2026 22:26:17 GMT | The Demo - Dog Years | Julio Oña | [Read More](https://medium.com/p/d7bd7969d30f) |
 | Tue, 03 Feb 2026 22:17:50 GMT | Part 4: STIGs — The Strategist Game of Death for Cybersecurity (Defense-in-Depth Series) | Michael Wills | [Read More](https://medium.com/p/91cd553ead27) |
@@ -38,6 +47,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Feb 2026 19:40:21 GMT | What Is Phishing & How It Steals Your Data | Shahzaib | [Read More](https://medium.com/p/894b9b3d35f3) |
 | Tue, 03 Feb 2026 19:35:58 GMT | Day 9 : Command Injection | Cybersecurity with Jojo | [Read More](https://medium.com/p/cc1c30f10330) |
 | Tue, 03 Feb 2026 19:35:53 GMT | AI Agents Are Here. Leadership Readiness Is the Real Question | Funke Omolere | [Read More](https://medium.com/p/7b7ac580e649) |
+| Tue, 03 Feb 2026 19:24:56 GMT | Job Agencies in Canada vs Direct Hiring for IT Roles: What Canadian Businesses Should Know | 2iResourcing | [Read More](https://medium.com/p/7351914afcd9) |
 | Tue, 03 Feb 2026 19:15:50 GMT | Slingshot: ELK Stack ile Bir Siber Saldırının İzini Sürmek (TryHackMe-Slingshot CTF Çözümü) | Ahmet Hakan Öztürk | [Read More](https://medium.com/p/960a2ddb6ba5) |
 | Tue, 03 Feb 2026 19:13:08 GMT | My BYBS Transformation Journey: From Carrying Everything Alone to Moving with Clarity . | Nyombe Benson Jalle | [Read More](https://medium.com/p/68e5d8c4ef94) |
 | Tue, 03 Feb 2026 19:04:55 GMT | Cybersecurity Is Now an Operational Risk, Not Just IT Risk | JSOC IT BLOG | [Read More](https://medium.com/p/5f004c1f55f4) |
@@ -51,6 +61,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Feb 2026 18:34:21 GMT | Notepad++ Attributed to Chinese Spies, SpaceX Buys xAI, and Disney’s New CEO - The Daily Tech… | Souren Stepanyan | [Read More](https://medium.com/p/b96797ceee90) |
 | Tue, 03 Feb 2026 18:33:40 GMT | Cybersecurity Explained: Intro | Chimdi | [Read More](https://medium.com/p/94aa165099bb) |
 | Tue, 03 Feb 2026 18:21:53 GMT | Be the Sheriff your AI Villagers Deserve. | Ruiters | [Read More](https://medium.com/p/d14acf10ae30) |
+| Tue, 03 Feb 2026 18:19:17 GMT | MCP URL elicitation explained with example | Purvendudhaiyaprd | [Read More](https://medium.com/p/9b95c5963d4d) |
 | Tue, 03 Feb 2026 18:16:01 GMT | Seven Eras of Web3 Hacks: From The DAO to Cross-Chain Chaos | Exploitless | [Read More](https://medium.com/p/afcffb70d762) |
 | Tue, 03 Feb 2026 18:13:13 GMT | Deepfake Detection in the Cloud: Why Infrastructure Matters More Than Models | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/fef871d52bbf) |
 | Tue, 03 Feb 2026 18:07:48 GMT | Clean Architecture: El orden no garantiza la seguridad | Jdchavezzss | [Read More](https://medium.com/p/b87136f01af6) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Feb 2026 15:54:27 GMT | What Happens When You Type a Website in Browser? | abinaya V | [Read More](https://medium.com/p/ed08cf84e96d) |
 | Tue, 03 Feb 2026 15:51:06 GMT | Moltbook Breached in Under 3 Minutes | Luke Skyward | [Read More](https://medium.com/p/a163237e7bee) |
 | Tue, 03 Feb 2026 15:47:09 GMT | ARP in Action: Capturing My Network Traffic with Wireshark! | Grace Jaman | [Read More](https://medium.com/p/16df258b1bff) |
-| Tue, 03 Feb 2026 15:47:05 GMT | Peraplay PH 2026: Security, Performance & Rewards Review | Peraplay Promo - Exclusive Filipino Limited | [Read More](https://medium.com/p/467cee947f31) |
-| Tue, 03 Feb 2026 15:46:13 GMT | Xavier est gravement malade | Florent M | [Read More](https://medium.com/p/d821ce8b1bf4) |
-| Tue, 03 Feb 2026 15:46:01 GMT | [FORECAST] ShinyHunters SaaS Data Theft: Why Non-Ransom Monetization Looks Increasingly Attractive | Wes Young | [Read More](https://medium.com/p/59d82e12f502) |
-| Tue, 03 Feb 2026 15:45:02 GMT | ClawdBot Is A Privacy Nightmare | Vishal Rajput | [Read More](https://medium.com/p/ca2edf4bf8ac) |
-| Tue, 03 Feb 2026 15:44:48 GMT | Why AI SmartBots Are the New Competitive Paradigm in 2026 | Xaltius | [Read More](https://medium.com/p/3c0bb8d890d6) |
-| Tue, 03 Feb 2026 15:41:42 GMT | Why Automatic Gates Are Becoming Essential for Industrial & Commercial Properties | Herwin Rosairo | [Read More](https://medium.com/p/b9429826b8f0) |
-| Tue, 03 Feb 2026 15:38:00 GMT | A letter to Amazon: On security, systems and the pursuit of scale | Abhinav Jain | [Read More](https://medium.com/p/48e672e665f7) |
-| Tue, 03 Feb 2026 15:36:58 GMT | How Security Cameras Improve Home Safety | Alex Bryn | [Read More](https://medium.com/p/b4ad850d407d) |
-| Tue, 03 Feb 2026 15:34:50 GMT | Why I Built a Policy Decision Language Instead of Using a Programming Language | Kuselan Sugumaran | [Read More](https://medium.com/p/1627a4c28fc7) |
-| Tue, 03 Feb 2026 15:32:58 GMT | Cyber Attack Revealed About a Bakery Production Facility’s Real Risks | Cordula Boeck | [Read More](https://medium.com/p/cde607a9ec42) |
-| Tue, 03 Feb 2026 15:30:19 GMT | Why CIOs Ignore Warnings — and What Aviation Gets Right | Andreas Gächter | [Read More](https://medium.com/p/5ad06af843c0) |
