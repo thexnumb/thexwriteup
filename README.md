@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Feb 2026 18:21:53 GMT | Be the Sheriff your AI Villagers Deserve. | Ruiters | [Read More](https://medium.com/p/d14acf10ae30) |
+| Tue, 03 Feb 2026 18:16:01 GMT | Seven Eras of Web3 Hacks: From The DAO to Cross-Chain Chaos | Exploitless | [Read More](https://medium.com/p/afcffb70d762) |
+| Tue, 03 Feb 2026 18:13:13 GMT | Deepfake Detection in the Cloud: Why Infrastructure Matters More Than Models | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/fef871d52bbf) |
+| Tue, 03 Feb 2026 18:07:48 GMT | Clean Architecture: El orden no garantiza la seguridad | Jdchavezzss | [Read More](https://medium.com/p/b87136f01af6) |
+| Tue, 03 Feb 2026 18:00:53 GMT | From Network Pentesting to Red Teaming : The Fast-Track Journey | Maverick | [Read More](https://medium.com/p/3d25f79d2d5b) |
+| Tue, 03 Feb 2026 18:00:01 GMT | Django 6.0 Security Updates: What Changed & How to Use Them | Eli - BackEnd Engineer | [Read More](https://medium.com/p/1daa33168a4a) |
+| Tue, 03 Feb 2026 17:56:10 GMT | Secure Use of GitHub — CIS-Aligned Technical Guide — Part VII | SOCFortress | [Read More](https://medium.com/p/c3f03db9205e) |
+| Tue, 03 Feb 2026 17:55:09 GMT | Basic Pentesting 1 VulnHub Walkthrough | aminoacid | [Read More](https://medium.com/p/7a180b3cd433) |
+| Tue, 03 Feb 2026 17:52:45 GMT | I Found My Personal Data on 87 Websites — Here’s What I Did About It | Ghostmydata | [Read More](https://medium.com/p/ca847095ad44) |
+| Tue, 03 Feb 2026 17:52:29 GMT | Black-Box Kubernetes Penetration Testing Playbook | Andrey Pautov | [Read More](https://medium.com/p/56350b178af4) |
+| Tue, 03 Feb 2026 17:52:28 GMT | Metasploit: Introduction — TryHackMe Answers - by Deepti Gupta | Deeptisg | [Read More](https://medium.com/p/b141ffca47d6) |
+| Tue, 03 Feb 2026 17:49:02 GMT | SSRF Challenge Write-up: Tanuki (BugForge) | ShadeHawk | [Read More](https://medium.com/p/215346188f27) |
+| Tue, 03 Feb 2026 17:46:16 GMT | How to Encrypt Your Laravel Source Code Using phpBolt | Premodsuraweera | [Read More](https://medium.com/p/eeda104a9177) |
+| Tue, 03 Feb 2026 17:38:37 GMT | The Problem Isn’t Technology It’s Exposure | Hitesh Said | [Read More](https://medium.com/p/5057ba31b0fd) |
+| Tue, 03 Feb 2026 17:38:12 GMT | Unlocking Better Security & Efficiency with Advanced Access Control Software | Tony Brooks | [Read More](https://medium.com/p/a79618e3abfc) |
+| Tue, 03 Feb 2026 17:36:01 GMT | Understanding HashiCorp Vault: Core Concepts Explained | Kirshi Yin | [Read More](https://medium.com/p/537195a54025) |
+| Tue, 03 Feb 2026 17:36:01 GMT | Finding July Again. | Julyanne Mpyet | [Read More](https://medium.com/p/05e72284f326) |
+| Tue, 03 Feb 2026 17:35:01 GMT | #8: Security Misconfiguration — The “Unforced Error” of API Security | Emmanuelnnebedum | [Read More](https://medium.com/p/d02bbea43508) |
+| Tue, 03 Feb 2026 17:34:15 GMT | Dilemma: Do You Give Advice or Do You Remain Empathetic? | Nico Cost | [Read More](https://medium.com/p/e18b4c01cf43) |
+| Tue, 03 Feb 2026 17:32:33 GMT | In our current digital age, nearly everyone carries a smartphone and spends several hours daily… | Farook | [Read More](https://medium.com/p/cb7ec0388223) |
+| Tue, 03 Feb 2026 17:25:53 GMT | Try Hack Me- CMesS CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/f3d0e1220e73) |
+| Tue, 03 Feb 2026 17:23:40 GMT | Why I Built a Local-First Security Tool in an Era of “Cloud-Everything” | Kay Adelaja | [Read More](https://medium.com/p/16f0a126a120) |
+| Tue, 03 Feb 2026 17:21:56 GMT | [Writeup] Proving Grounds: Ochima (Linux) | Ekemini Bassey | [Read More](https://medium.com/p/39bdc54b69bf) |
 | Tue, 03 Feb 2026 17:18:22 GMT | Everyone Scanned the App — I Read the Error Messages Instead | Iski | [Read More](https://medium.com/p/2d910231e45f) |
 | Tue, 03 Feb 2026 17:16:02 GMT | Installing Burp Suite’s CA Certificate in Chrome (2026 Updated Guide) | Kaushik S | [Read More](https://medium.com/p/d0efcdf9a991) |
 | Tue, 03 Feb 2026 17:12:47 GMT | My First Week: 3 Business Logic Bugs in Major E-Commerce | Ali Alassaf | [Read More](https://medium.com/p/8b303e02771f) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Feb 2026 12:46:11 GMT | AI Fraudster, Hacker, and Thief: Don’t Get Caught by Its Dirty Tricks! | srgg6701 | [Read More](https://medium.com/p/ed9fd451d80f) |
 | Tue, 03 Feb 2026 12:40:45 GMT | Why Most Red Team Operations Fail in the First 24 Hours | X7r3M9 | [Read More](https://medium.com/p/3509bf5ed0c9) |
 | Tue, 03 Feb 2026 12:34:22 GMT | Part 5: How We Built the Bridge and Forgot the Human | Tohbie Adelaja | [Read More](https://medium.com/p/acb7b1d9c8ec) |
-| Tue, 03 Feb 2026 12:24:25 GMT | Building a Virtual Ethical Hacking Home Lab — Part 6: System Exploitation | Abdul-mu'min Omotola | [Read More](https://medium.com/p/55e50ffb2a3b) |
-| Tue, 03 Feb 2026 12:23:23 GMT | From Alert Fatigue to Signal: How to Tune Amazon GuardDuty for Real Attacks | Davebhargavi | [Read More](https://medium.com/p/59ce3a7a1d29) |
-| Tue, 03 Feb 2026 12:22:00 GMT | How Dark Web Communities Shift, Fragment, and Rebuild | Tor BBB | [Read More](https://medium.com/p/d6fd1ed3a75b) |
-| Tue, 03 Feb 2026 12:17:16 GMT | Nobody Owns Container Security, And That’s A Problem | Zudonu Osomudeya | [Read More](https://medium.com/p/249698fb4747) |
-| Tue, 03 Feb 2026 12:17:03 GMT | M-Pesa 2.0 & SIM Swaps — Inside Kenya’s Most Dangerous Digital Scam | Cyberpro Global | [Read More](https://medium.com/p/f85576daf7d1) |
-| Tue, 03 Feb 2026 12:08:10 GMT | Learning Medicine Without Exposing Patients: How Arcium’sEncrypted Compute Changes Medical… | Abdulrazaq Rasheedat | [Read More](https://medium.com/p/4f52a0c02ee2) |
-| Tue, 03 Feb 2026 12:04:52 GMT | Is Your Factory Next? How Cybercriminals Exploit This System | Redfox Security | [Read More](https://medium.com/p/2851e9b1b97c) |
-| Tue, 03 Feb 2026 12:01:02 GMT | The 30-Day Digital Exposure Reduction Plan for Executives & Founders | Ingvar Pavlovich | [Read More](https://medium.com/p/0781566ce5b1) |
-| Tue, 03 Feb 2026 11:43:04 GMT | Prakhar AI Institute — Turn Your Ambition into a High-Paying Tech Career | Anushka | [Read More](https://medium.com/p/87917aa674e5) |
-| Tue, 03 Feb 2026 11:35:56 GMT | My bug bounty journey: Full account takeover caused by SSO token misuse | AnonymousPlayer${alert(1)}'<"\<a | [Read More](https://medium.com/p/d35e801371b5) |
-| Tue, 03 Feb 2026 11:33:09 GMT | Top 10 Security Checks Every Developer Should Add to PR Reviews | Krutik Thakar — Secure Developer - VAPT Associate | [Read More](https://medium.com/p/42406d2bc346) |
-| Tue, 03 Feb 2026 11:28:07 GMT | Prompt Injection by Example | Josue Martins | [Read More](https://medium.com/p/a3de8e0e687f) |
-| Tue, 03 Feb 2026 11:20:39 GMT | Your location, team size, and technology setup determine your risk profile and exposure to cyber… | Future IT Services | [Read More](https://medium.com/p/b531b828dd72) |
-| Tue, 03 Feb 2026 11:20:15 GMT | Log Analysis — Sysmon(BTLO Room) | Nishasorallikar | [Read More](https://medium.com/p/adad2bad90e1) |
-| Tue, 03 Feb 2026 11:14:20 GMT | I Stopped Sharing Messy Links After Installing This Browser Extension | Techyall | [Read More](https://medium.com/p/651ce8ea9726) |
-| Tue, 03 Feb 2026 11:02:45 GMT | Anatomy of a 2 AM On-Call Incident in a SOC | Peter Uzs | [Read More](https://medium.com/p/4a6e7d24ccbb) |
-| Tue, 03 Feb 2026 11:01:01 GMT | BUG VS DEFEITO VS FALHA: A VERDADE QUE NINGUÉM EXPLICA BEM | Lílian Borba | [Read More](https://medium.com/p/20a204003273) |
-| Tue, 03 Feb 2026 11:00:48 GMT | Secure Your Connected Life with Antivirus Software Shield | Siyanoav | [Read More](https://medium.com/p/fd8fe08441a9) |
-| Tue, 03 Feb 2026 10:54:30 GMT | SLINGSHOT — Web Server Compromise Investigation. | Mobius | [Read More](https://medium.com/p/44bdd41749c6) |
-| Tue, 03 Feb 2026 10:44:13 GMT | Leading E-commerce Mobile Application Development Company in Pune | Chaitanyachavan | [Read More](https://medium.com/p/58acdc9f37ec) |
-| Tue, 03 Feb 2026 10:44:10 GMT | Hunting Malware Infrastructure: A Practical Guide Using FOFA, Shodan, and Censys | sudo3rs | [Read More](https://medium.com/p/939c81fff940) |
-| Tue, 03 Feb 2026 10:41:39 GMT | Penetration Testing Services: Why StrongBox IT Sets the Global Standard in Cybersecurity | StrongBox IT | [Read More](https://medium.com/p/fcee46e4ce1f) |
-| Tue, 03 Feb 2026 10:33:08 GMT | Why Most Small Businesses Fail at Cybersecurity (And How to Fix It) | Cybersecurity Point | [Read More](https://medium.com/p/eb19f7c23ed7) |
