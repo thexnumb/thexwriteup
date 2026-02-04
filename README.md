@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Feb 2026 10:38:29 GMT | Can Your Business Handle Emerging Cyberattacks? Professional Protection Options | Managed IT Services | [Read More](https://medium.com/p/3968d405e1ca) |
+| Wed, 04 Feb 2026 10:38:22 GMT | Compliance-First Data Protection with NAKIVO | NAKIVO | [Read More](https://medium.com/p/8ca8ba1fa28d) |
+| Wed, 04 Feb 2026 10:36:42 GMT | What Are The 5 Types Of Cyber Security | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/4049a30af4f8) |
+| Wed, 04 Feb 2026 10:28:23 GMT | Another Leap of Faith | AyClaire31 | [Read More](https://medium.com/p/9810576e3034) |
+| Wed, 04 Feb 2026 10:26:51 GMT | AZ-104 Lab Journey (Day 6): Connecting Segmented Networks with VNet Peering and Custom Routing | Toibat | [Read More](https://medium.com/p/57fe756ce5df) |
+| Wed, 04 Feb 2026 10:26:08 GMT | Ace Racer Apk | genzvnmod | [Read More](https://medium.com/p/5977977a8512) |
+| Wed, 04 Feb 2026 10:25:03 GMT | Key Cybersecurity Trends to Watch in 2026 | Eventus Security Private Limited | [Read More](https://medium.com/p/99ecd1e73452) |
+| Wed, 04 Feb 2026 10:21:29 GMT | Deaderal Reserve Protocol: Putting Stablecoin Profits Back in the Hands of the Community | Blobetech Dev | [Read More](https://medium.com/p/d82d3626f423) |
+| Wed, 04 Feb 2026 10:20:23 GMT | Google Isn’t Reading Your Messages — Federated Learning Is | Tina Sharma | [Read More](https://medium.com/p/b2a6e06bb067) |
+| Wed, 04 Feb 2026 10:20:03 GMT | Automating Security Alerts with Local LLM Integration | Manusiahiu | [Read More](https://medium.com/p/cfbea2ebf8d2) |
+| Wed, 04 Feb 2026 10:16:34 GMT | Snow-Crash-write-up [level13] | B.R.O.L.Y | [Read More](https://medium.com/p/0b06b8a85b96) |
+| Wed, 04 Feb 2026 10:06:45 GMT | Top 10 IT Companies in Coimbatore (2026 Guide): Jobs, Salaries & Growth | esseindiablog | [Read More](https://medium.com/p/b954df1b52de) |
+| Wed, 04 Feb 2026 10:05:27 GMT | Top 10 Cybersecurity Threats You Should Know in 2026 | Securitiescyber | [Read More](https://medium.com/p/d23d1acd61ed) |
+| Wed, 04 Feb 2026 10:02:43 GMT | The Blob Blog (TryHackMe) — Walkthrough | Roshan Rajbanshi | [Read More](https://medium.com/p/09287aa7c705) |
+| Wed, 04 Feb 2026 10:02:28 GMT | “Sign in with Google” Can Trick You into Over-Trust | Vikas Singh Panwar | [Read More](https://medium.com/p/6d0b6e55a114) |
+| Wed, 04 Feb 2026 10:02:25 GMT | SQL for Bug Bounty Hunters 3.0 | Swetha | [Read More](https://medium.com/p/265cb173378f) |
+| Wed, 04 Feb 2026 10:02:03 GMT | The Day You Uploaded Your Company’s Soul to ChatGPT | Raviteja Nekkalapu | [Read More](https://medium.com/p/9f70f4afe5fc) |
+| Wed, 04 Feb 2026 10:01:49 GMT | The $1,300 Sequel: Why Retesting is a Bug Hunter’s Secret Weapon | gopi krishnan | [Read More](https://medium.com/p/b2734005f209) |
+| Wed, 04 Feb 2026 09:57:06 GMT | How does KMS security architecture ensure the security and reliability of data? | simpleclick | [Read More](https://medium.com/p/1b7960da6c81) |
+| Wed, 04 Feb 2026 09:52:50 GMT | verify you are human? | Lasantha Kumara | [Read More](https://medium.com/p/447197e292ed) |
+| Wed, 04 Feb 2026 09:47:29 GMT | What is Data Security Posture Management? Guide Unfolded | HawkShield | [Read More](https://medium.com/p/9ab73fcc3b73) |
 | Wed, 04 Feb 2026 09:38:14 GMT | Learn How to Understand Your Code’s Messages | Eric Siwakoti | [Read More](https://medium.com/p/75aa920d5e5d) |
 | Wed, 04 Feb 2026 09:34:50 GMT | Where Should Sensitive Data Live on Android? | Mukesh Kumar Rajput | [Read More](https://medium.com/p/fbad308a42d7) |
 | Wed, 04 Feb 2026 09:34:43 GMT | When humans hijacked the bots paradise | h@shtalk | [Read More](https://medium.com/p/b00be680de5e) |
@@ -33,6 +54,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Feb 2026 08:29:34 GMT | UNbreakable training — CTF ( 4.
 xo.rar) | George Alin | [Read More](https://medium.com/p/fc9b4b74d205) |
 | Wed, 04 Feb 2026 08:27:35 GMT | How to use Metasploit and Nmap to Enumerate and Scan for Vulnerabilities | The Mastermind Notes | [Read More](https://medium.com/p/be91f9d89a7b) |
+| Wed, 04 Feb 2026 08:24:00 GMT | Best Cyber Security Courses Online for Beginners in 2026 | Janbask Training | [Read More](https://medium.com/p/7f7214c15b6b) |
 | Wed, 04 Feb 2026 08:17:57 GMT | Adversary-in-the-Middle (AiTM) Attacks: How MFA Gets Bypassed Without Being Broken | Ankita Sinha | [Read More](https://medium.com/p/c2da6128062c) |
 | Wed, 04 Feb 2026 08:15:33 GMT | Active Directory Pentesting - Offsec Proving Grounds Access Writeup | The Mastermind Notes | [Read More](https://medium.com/p/b213880e35e1) |
 | Wed, 04 Feb 2026 08:02:28 GMT | The 2026 “Deadly Duo”: Agentic AI vs. Autonomous Defense | Keyur | [Read More](https://medium.com/p/20dd8f0f7348) |
@@ -91,25 +113,3 @@ xo.rar) | George Alin | [Read More](https://medium.com/p/fc9b4b74d205) |
 | Wed, 04 Feb 2026 04:00:14 GMT | AI agents are forming a society… and they’re inventing and speaking a language humans can’t… | Siva Desetti | [Read More](https://medium.com/p/8c3251948fb9) |
 | Wed, 04 Feb 2026 03:52:41 GMT | Why Credential Replay Attacks Keep Failing — When Passwords Aren’t Just Text | Rainbow Secure | [Read More](https://medium.com/p/3463410a1a2b) |
 | Wed, 04 Feb 2026 03:47:57 GMT | Nully Cybersecurity CTF — Flag 1: Mail Server Root | IO | [Read More](https://medium.com/p/abfdc43a2330) |
-| Wed, 04 Feb 2026 03:46:50 GMT | AVG Customer Service UK | Zuerevalexander | [Read More](https://medium.com/p/eae0e887de87) |
-| Wed, 04 Feb 2026 03:46:01 GMT | When Encryption Replaced Authorization — and the IDOR Didn’t Go Away | Xp10it | [Read More](https://medium.com/p/cca52c7c9b79) |
-| Wed, 04 Feb 2026 03:40:17 GMT | The Secret Life of AWS: The ID Badge (IAM Roles & Policies) | Aaron Rose | [Read More](https://medium.com/p/913c0333043a) |
-| Wed, 04 Feb 2026 03:37:42 GMT | Contact McAfee Customer Service UK | Zuerevalexander | [Read More](https://medium.com/p/4e6af6afb509) |
-| Wed, 04 Feb 2026 03:33:05 GMT | A List of Every Cybersecurity Abbreviation There Is (Part 4) | Raymond Ebonine | [Read More](https://medium.com/p/ca7e2adc3b22) |
-| Wed, 04 Feb 2026 03:32:54 GMT | The Hidden Danger in XML: A Deep Dive into XXE Injection for Modern Pentesters | Fuzzyy Duck | [Read More](https://medium.com/p/684a3efd2634) |
-| Wed, 04 Feb 2026 03:32:35 GMT | My approach for passing the CPSA Exam | Rahul Singh Chauhan | [Read More](https://medium.com/p/d2aced76ba47) |
-| Wed, 04 Feb 2026 03:31:01 GMT | 10 Best Practices for Node.js Timeouts | Arunangshu Das | [Read More](https://medium.com/p/0145588cdc3a) |
-| Wed, 04 Feb 2026 03:21:23 GMT | OpenClaw: The Doors It Opens, and the Claws It Demands | Ranjith Vijayan | [Read More](https://medium.com/p/504fbdd53a69) |
-| Wed, 04 Feb 2026 03:20:48 GMT | Reverse Camera Installation Guide: Cost, Process, and Benefits for Your Vehicle | DNH Dashcam Solutions | [Read More](https://medium.com/p/a197b67bb8da) |
-| Wed, 04 Feb 2026 03:18:21 GMT | Hands-On Exposure to SOC Tools: My TryHackMe Journey with EDR, SIEM, Splunk, Elastic Stack, and… | sree | [Read More](https://medium.com/p/23a846123df1) |
-| Wed, 04 Feb 2026 03:18:06 GMT | From Theory to Blue Team Reality: What Completing TryHackMe’s SOC Level 1 Path Taught Me | sree | [Read More](https://medium.com/p/d5b82b9557f1) |
-| Wed, 04 Feb 2026 03:16:00 GMT | WhisperPair: When Seamless Bluetooth Pairing Becomes a Silent Security Risk | Deven Chhajed | [Read More](https://medium.com/p/15104982dc00) |
-| Wed, 04 Feb 2026 03:10:59 GMT | If I Were Attacking Your Company in 2026, I Wouldn’t Start With Code | Faizan Ahmad Wani | [Read More](https://medium.com/p/1476fcf3c577) |
-| Wed, 04 Feb 2026 03:07:07 GMT | Stop Downloading “Free” VPNs. You Are Installing Spyware. (There Is Only One Exception) | ByteSwift Digital pro | [Read More](https://medium.com/p/31818de4116d) |
-| Wed, 04 Feb 2026 03:01:01 GMT | Can This Love Be Translated? | paper plane | [Read More](https://medium.com/p/8df628a4ec29) |
-| Wed, 04 Feb 2026 02:47:38 GMT | Nobody Warned Me About This Part of Being a Software Engineer | The Dev Notebook | [Read More](https://medium.com/p/c750c8fa4d30) |
-| Wed, 04 Feb 2026 02:45:55 GMT | Went to a Demo for the Free Food but Accidentally Found a Better Future. | Tiffany Lynch | [Read More](https://medium.com/p/2d9896f03d8f) |
-| Wed, 04 Feb 2026 02:44:49 GMT | Human Thought in the Age of Technology | Shujaat Hussain | [Read More](https://medium.com/p/7f54940aa034) |
-| Wed, 04 Feb 2026 02:44:21 GMT | From SDR to Exploit | Michael Preston | [Read More](https://medium.com/p/ffd2e596eb46) |
-| Wed, 04 Feb 2026 02:43:46 GMT | Docker Fixes a Critical AI Flaw That Turned Image Metadata into Executable Code | Er Raj Aryan | [Read More](https://medium.com/p/ce8aa99b6955) |
-| Wed, 04 Feb 2026 02:22:06 GMT | Bluetooth Security Risks You Should Know About (With Real World Examples) | Raviteja Mureboina | [Read More](https://medium.com/p/7a645d3629f6) |
