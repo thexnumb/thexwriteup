@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Feb 2026 13:02:28 GMT | How Modern Businesses Are Scaling Faster with Custom Software Solutions | Ashish Garg | [Read More](https://medium.com/p/5d2900b778ff) |
+| Wed, 04 Feb 2026 12:56:39 GMT | Custom LLMs for Healthcare, Finance, Education and Manufacturing: Use Cases | Alex | [Read More](https://medium.com/p/401a82c473fd) |
+| Wed, 04 Feb 2026 12:48:38 GMT | Why Your Network Design is Your Best (or Worst) Security Control: 5 Insights from Campus… | Anna Bejan | [Read More](https://medium.com/p/2c192c05bd2e) |
+| Wed, 04 Feb 2026 12:46:53 GMT | AI-Powered Cyberattacks and the Rise of Covert Threats | Gitanjali Maria | [Read More](https://medium.com/p/aa903ccd4f55) |
+| Wed, 04 Feb 2026 12:43:35 GMT | Stop Spoofed Vendor Emails Before Money Is Lost | Geoffrey Wenger | [Read More](https://medium.com/p/f68a8bb38e57) |
+| Wed, 04 Feb 2026 12:41:00 GMT | Corporate Greed Chronicles: Profits So High, Employees Had to Go at T-Mobile | Namir Sagheenanajar | [Read More](https://medium.com/p/f2834d600ad3) |
+| Wed, 04 Feb 2026 12:30:30 GMT | Building a Career in Privacy & AI Compliance: A Practical Roadmap | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/c07a0fda564b) |
+| Wed, 04 Feb 2026 12:28:38 GMT | By The Enemy Within | O. J. Okpabi | [Read More](https://medium.com/p/40487a5cbc77) |
+| Wed, 04 Feb 2026 12:28:18 GMT | The Long War on Encryption: How Governments, Corporations, and Convenience Reshaped Privacy | Ricky Cain | [Read More](https://medium.com/p/770c2d251df6) |
+| Wed, 04 Feb 2026 12:26:47 GMT | Why 10 Million People Clicked “I Love You”: My Lesson in Cyber Security | Abhishek Dewangan | [Read More](https://medium.com/p/0b29f10fb407) |
+| Wed, 04 Feb 2026 12:24:20 GMT | Expert Ecommerce Application Development Company - Associative | Chaitanyachavan | [Read More](https://medium.com/p/bf645489dc4d) |
+| Wed, 04 Feb 2026 12:22:40 GMT | No CSRF Protection: How a Logged-In User’s Email Can Be Changed Silently | Istiyak | [Read More](https://medium.com/p/70cfb6599763) |
+| Wed, 04 Feb 2026 12:20:41 GMT | How to secure your firebase app | Architect | [Read More](https://medium.com/p/0fb8f466a070) |
+| Wed, 04 Feb 2026 12:17:13 GMT | 7 Layers of Network Security: A Complete Guide to Protecting Modern Systems | Shalu | [Read More](https://medium.com/p/0ccc70bb53f1) |
+| Wed, 04 Feb 2026 12:15:22 GMT | ️‍♂️ Anomaly Detection in Web Requests: Catching the Invisible | Esra Kayhan | [Read More](https://medium.com/p/e4b5848f458d) |
+| Wed, 04 Feb 2026 12:08:56 GMT | Why Access Control Fails Long Before the Code Does | Vidya Penumarthi | [Read More](https://medium.com/p/73e7b5fdfddf) |
+| Wed, 04 Feb 2026 12:05:45 GMT | The Psychology Behind Security Seals: Why Visible Tamper Protection Stops Cargo Theft | Michael | [Read More](https://medium.com/p/61dd0759f166) |
+| Wed, 04 Feb 2026 12:04:51 GMT | Why Microsoft Is Phasing Out “One Mailbox for Everyone” — And Why Businesses Must Pay Attention | Zefai Insights | [Read More](https://medium.com/p/8576c528bc3a) |
+| Wed, 04 Feb 2026 12:00:44 GMT | The cost of speaking | unsaidhours | [Read More](https://medium.com/p/74b2a0ee91ab) |
+| Wed, 04 Feb 2026 11:57:26 GMT | Implement sidecar-less approach for service mesh with Istio | Donald Le | [Read More](https://medium.com/p/e045d1b6d623) |
+| Wed, 04 Feb 2026 11:56:40 GMT | Microsoft Warns: Python Infostealers Are Expanding to macOS Through Fake Ads and Installers | Germano Costi | [Read More](https://medium.com/p/eda30b224507) |
+| Wed, 04 Feb 2026 11:48:53 GMT | Why Smart Businesses Hire N8N Developers to Build Scalable Workflow Automation | n8ndevelopers | [Read More](https://medium.com/p/08bb077d372a) |
+| Wed, 04 Feb 2026 11:41:19 GMT | Tokens, Sessions, Cookies & JWTs: Why Authentication Feels So Confusing (Until It Doesn’t) | Rajat Sharma | [Read More](https://medium.com/p/78ad4549240b) |
 | Wed, 04 Feb 2026 11:31:01 GMT | n8n Python Code Node: The Sandbox Escape Wake-Up Call | Quaxel | [Read More](https://medium.com/p/008cb7989305) |
 | Wed, 04 Feb 2026 11:31:01 GMT | Frontend Security in React: The Blind Spot of Modern Apps | Sparkle Web | [Read More](https://medium.com/p/59a835a7bca8) |
 | Wed, 04 Feb 2026 11:28:51 GMT | Everything You Need to Know About Kali GUI Linux by Techlatest.net | TechLatest.Net | [Read More](https://medium.com/p/40d83da31ce4) |
@@ -90,26 +113,3 @@ xo.rar) | George Alin | [Read More](https://medium.com/p/fc9b4b74d205) |
 | Wed, 04 Feb 2026 07:39:35 GMT | Weaponizing Words: Advanced Wordlist Generation Inside Burp Suite | ghostyjoe | [Read More](https://medium.com/p/035fd35967f2) |
 | Wed, 04 Feb 2026 07:36:26 GMT | Top 20 IT Companies in Nashik (2026 Guide): Top Firms, Jobs & Salaries | esseindiablog | [Read More](https://medium.com/p/6cea4748700a) |
 | Wed, 04 Feb 2026 07:32:50 GMT | Why I Built My First WordPress Plugin: Closing the “Invisible Backdoor” | Rakib | [Read More](https://medium.com/p/2fa9a6897064) |
-| Wed, 04 Feb 2026 07:32:27 GMT | Practical ‘secrets management’ for JVM developers: strategies and tools for secure applications | Rares Flueras | [Read More](https://medium.com/p/be8fbe4065c8) |
-| Wed, 04 Feb 2026 07:32:26 GMT | Axios-Based Account Compromise: | Ankita Sinha | [Read More](https://medium.com/p/1f1d0e9f3b56) |
-| Wed, 04 Feb 2026 07:31:01 GMT | Hackers Don’t Phone Home Anymore | Cynox Security LLP. | [Read More](https://medium.com/p/049bdf01fb0f) |
-| Wed, 04 Feb 2026 07:25:02 GMT | The Lobster That Broke the Internet: 5 Surprising Lessons from the 72-Hour Rise of OpenClaw | SOCFortress | [Read More](https://medium.com/p/c289c9bebcba) |
-| Wed, 04 Feb 2026 07:24:17 GMT | What Am I Supposed to Do With My Life Now? | Vijay Kumar Gupta | [Read More](https://medium.com/p/88226d178904) |
-| Wed, 04 Feb 2026 07:20:50 GMT | Let This One Browser Extension Do Your Hacking For You​! | cybrNK | [Read More](https://medium.com/p/d4eceb83906e) |
-| Wed, 04 Feb 2026 07:20:23 GMT | Post-Exploitation Toolbox: 25 Commands from Foothold to Domain Admin Mastery | Very Lazy Tech | [Read More](https://medium.com/p/1bef70bded9c) |
-| Wed, 04 Feb 2026 07:19:21 GMT | Who is the Largest Surveillance Camera Distribution Company? | Doris William | [Read More](https://medium.com/p/e6c7969306d3) |
-| Wed, 04 Feb 2026 07:19:08 GMT | #56 rank on portswigger labs | Rahul | [Read More](https://medium.com/p/0e4e899b955b) |
-| Wed, 04 Feb 2026 07:16:45 GMT | The Modern Anatomy of a Cyber Attack: From Zero-Days to System Vulnerabilities | Khabbab Sarker | [Read More](https://medium.com/p/7651c28fb051) |
-| Wed, 04 Feb 2026 06:55:00 GMT | I Rewrote Our Auth in Rust at 3 AM. Audits Dropped From 3 Weeks to 4 Hours | Aditya Suryawanshi | [Read More](https://medium.com/p/74edb7fd6bae) |
-| Wed, 04 Feb 2026 06:45:16 GMT | SIEM Detects. SOAR Destroys. Know the Difference. | Pushpak Sharma | [Read More](https://medium.com/p/0b96c8841c5e) |
-| Wed, 04 Feb 2026 06:42:19 GMT | When Your AI Becomes the Insider | Yaseenmd | [Read More](https://medium.com/p/e99c9fd22452) |
-| Wed, 04 Feb 2026 06:41:01 GMT | The Newest AI malware vs. 40 Years | Ram Kumar | [Read More](https://medium.com/p/2916df72e427) |
-| Wed, 04 Feb 2026 06:40:26 GMT | Network Analysis — Ransomware | Nishasorallikar | [Read More](https://medium.com/p/9763553ecbc2) |
-| Wed, 04 Feb 2026 06:38:54 GMT | 117,000 Developers Starred an AI Agent Its Own Docs Call a “Security Nightmare” | Tao An | [Read More](https://medium.com/p/a108a1897522) |
-| Wed, 04 Feb 2026 06:38:34 GMT | Top 1% Hacker on try hack me - how i become a top 1% on THM | Rahul | [Read More](https://medium.com/p/60db17292c65) |
-| Wed, 04 Feb 2026 06:35:58 GMT | Who/Why Do We Trust? | Oguzkirmizi | [Read More](https://medium.com/p/11cab6452d28) |
-| Wed, 04 Feb 2026 06:35:04 GMT | Why Your Deep Links Might Be a Backdoor | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/bbc98ad8901c) |
-| Wed, 04 Feb 2026 06:32:19 GMT | Locksmith North London-Professional Support Across the Capital | N1locksmithsltd | [Read More](https://medium.com/p/d5c58e1a1fa4) |
-| Wed, 04 Feb 2026 06:30:26 GMT | Step Into the World of Cyber Security with Quality Thought! | Molletibalu | [Read More](https://medium.com/p/9d45f6897d12) |
-| Wed, 04 Feb 2026 06:29:12 GMT | IT Risk Management Market Analysis: Top Vendors and Emerging Trends | Michel mathew | [Read More](https://medium.com/p/c90ba2257fe4) |
-| Wed, 04 Feb 2026 06:20:29 GMT | The Role of Computer Vision in Transforming Security | Daisy Grace | [Read More](https://medium.com/p/edb38f1dee9e) |
