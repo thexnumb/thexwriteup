@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Feb 2026 22:13:50 GMT | Introduction to API Pen-Testing: My CyberSafe Training Experience (Week 9) | Stella Obatoye | [Read More](https://medium.com/p/c02054b0c153) |
+| Wed, 04 Feb 2026 21:54:02 GMT | Desctiption :
+I wanted to join an organization i was not part of , by adding a new user and… | Simo | [Read More](https://medium.com/p/2afaa6094ee9) |
+| Wed, 04 Feb 2026 21:42:58 GMT | Cryptographic Hash Functions | Prasadi Niroopama Kumarasinghe | [Read More](https://medium.com/p/4348e3893e86) |
+| Wed, 04 Feb 2026 21:41:34 GMT | #9: Improper Inventory Management — The APIs You Forgot You Had | Emmanuelnnebedum | [Read More](https://medium.com/p/4c008d012c76) |
+| Wed, 04 Feb 2026 21:39:39 GMT | I Hardened a Docker Image and Here’s What I Learned | Alan Varghese | [Read More](https://medium.com/p/41954e66a6c3) |
 | Wed, 04 Feb 2026 21:22:50 GMT | KC7: Convoy Street Interactive (July 2025 Workshop Game) | Aeronique | [Read More](https://medium.com/p/463887be3773) |
 | Wed, 04 Feb 2026 21:17:38 GMT | Egypt National Cybersecurity CTF 2025 - FifthSense — Threat Hunting | Ali Ammar | [Read More](https://medium.com/p/994aa425d505) |
 | Wed, 04 Feb 2026 21:07:40 GMT | CopyPasta writeup (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/7776d9a77395) |
@@ -107,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Feb 2026 15:40:47 GMT | Reachability-Oriented Defense Model (RODM) | Hiroshi Ohtani | [Read More](https://medium.com/p/78249a3e7f34) |
 | Wed, 04 Feb 2026 15:37:18 GMT | About the recent raid in X' Paris offices | Catherine Klepper | [Read More](https://medium.com/p/71bdf4827dc5) |
 | Wed, 04 Feb 2026 15:36:53 GMT | Multi-Factor Authentication for Social Media: SMS vs App vs Hardware Keys | Cyber Lee | [Read More](https://medium.com/p/bea27b8db4ab) |
-| Wed, 04 Feb 2026 15:31:56 GMT | Always Listening: The Promise and Peril of Today’s Voice Assistants | Paradise technologies Inc | [Read More](https://medium.com/p/364a7a5388d2) |
-| Wed, 04 Feb 2026 15:25:24 GMT | Atomic Habits, But Make It Cybersecurity: A Personal Reflection | Ingrid rorez | [Read More](https://medium.com/p/d54b94d47890) |
-| Wed, 04 Feb 2026 15:20:28 GMT | We Built a World Where One Wrong Click is Enough | Avlix Security | [Read More](https://medium.com/p/aaaddb9594f7) |
-| Wed, 04 Feb 2026 15:14:39 GMT | AI Security Research — January 2026 | Tal Eliyahu | [Read More](https://medium.com/p/4beb75f207fc) |
-| Wed, 04 Feb 2026 15:09:22 GMT | Practical eJPT Command Reference | CyberSum | [Read More](https://medium.com/p/0f92099d55c6) |
