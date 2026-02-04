@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Feb 2026 23:16:53 GMT | Advanced Network Reconnaissance: Masscan & THC-IPv6 | mohandika | [Read More](https://medium.com/p/d173b5319a9e) |
+| Wed, 04 Feb 2026 23:12:35 GMT | Building Your First Cybersecurity AI Agent with LangGraph | Arun Nair | [Read More](https://medium.com/p/d27107ac872a) |
+| Wed, 04 Feb 2026 23:11:15 GMT | AI and the Future of Cybersecurity | Cyber-AppSec | [Read More](https://medium.com/p/b14bd10fb850) |
+| Wed, 04 Feb 2026 23:01:02 GMT | How I Investigated a Real Phishing Email Using a SOC Analyst Workflow | Dany Christel | [Read More](https://medium.com/p/380c63eadba4) |
+| Wed, 04 Feb 2026 23:01:02 GMT | I’ve changed my mind more times in tech than Chrome updates — and somehow, that’s been my advantage. | Miss Tarus | [Read More](https://medium.com/p/7965c3a9cce3) |
+| Wed, 04 Feb 2026 22:57:38 GMT | The AI Data Access Dilemma: Finding Balance Between Raw SQL and MCP Servers | James Aspinwall | [Read More](https://medium.com/p/10b53cda7471) |
+| Wed, 04 Feb 2026 22:52:24 GMT | Your AWS Bill Might Be Your Best Security Tool | Aaron L | [Read More](https://medium.com/p/e4299d58f788) |
+| Wed, 04 Feb 2026 22:46:28 GMT | HacktheBox or TryHackme? My experiences with both | Michael Harms | [Read More](https://medium.com/p/63f160c23c62) |
+| Wed, 04 Feb 2026 22:42:49 GMT | Web3 Security 101: Bug Bounties vs. Audit Contests Explained | Sherlock | [Read More](https://medium.com/p/ee614f1cf5e0) |
+| Wed, 04 Feb 2026 22:38:25 GMT | Photo by Kawê Rodrigues on Unsplash | Iorver-Nze.A. | [Read More](https://medium.com/p/7ab983aad021) |
+| Wed, 04 Feb 2026 22:33:01 GMT | The Hoodie Myth: My First Day as a Junior SOC Analyst | Murat Kurkoglu | [Read More](https://medium.com/p/6d5d09fb3f4f) |
+| Wed, 04 Feb 2026 22:31:00 GMT | Designing for trust in generative AI products | DiUS | [Read More](https://medium.com/p/f60e06ae8dfc) |
 | Wed, 04 Feb 2026 22:13:50 GMT | Introduction to API Pen-Testing: My CyberSafe Training Experience (Week 9) | Stella Obatoye | [Read More](https://medium.com/p/c02054b0c153) |
 | Wed, 04 Feb 2026 21:54:02 GMT | Desctiption :
 I wanted to join an organization i was not part of , by adding a new user and… | Simo | [Read More](https://medium.com/p/2afaa6094ee9) |
@@ -101,15 +113,3 @@ I wanted to join an organization i was not part of , by adding a new user and…
 | Wed, 04 Feb 2026 16:26:34 GMT | JWT for Dummies | Shivam Bathla | [Read More](https://medium.com/p/79a381244ce8) |
 | Wed, 04 Feb 2026 16:19:41 GMT | Cybertalents Silly Doors Challenge - Full Web Security Write‑Up | Z3DX | [Read More](https://medium.com/p/34186616240e) |
 | Wed, 04 Feb 2026 16:18:32 GMT | uGame Challenge by Cypertalants Easy Web Security Write-Up | Z3DX | [Read More](https://medium.com/p/91caf1e36fb1) |
-| Wed, 04 Feb 2026 16:09:31 GMT | Give Trust First (But Not Blindly) | One Awakening | [Read More](https://medium.com/p/d7d1561a4955) |
-| Wed, 04 Feb 2026 16:07:14 GMT | What You Need to Know About Ethical Hacking | Bluecodesecurity | [Read More](https://medium.com/p/64372eb5afb9) |
-| Wed, 04 Feb 2026 16:05:27 GMT | When AI Becomes a Snitch: Understanding Sensitive Information Disclosure | Kaynat Muzaffar | [Read More](https://medium.com/p/db66de207b73) |
-| Wed, 04 Feb 2026 16:00:52 GMT | Can Notepad++ Be Hacked? How MSPs Identify Real vs Fake Threats | SafeAeon Inc. | [Read More](https://medium.com/p/c7ddccc474a4) |
-| Wed, 04 Feb 2026 15:59:02 GMT | AI and the Changing Game of Bug Bounties | Donovan_Distracted | [Read More](https://medium.com/p/efd853da9425) |
-| Wed, 04 Feb 2026 15:58:31 GMT | Pivot & Double Pivot With Ligolo-ng | Alts | [Read More](https://medium.com/p/df532bf213ea) |
-| Wed, 04 Feb 2026 15:48:46 GMT | Getting started with Splunk: Your first Splunk project | Saksham Joshi | [Read More](https://medium.com/p/5b7740f16cff) |
-| Wed, 04 Feb 2026 15:47:51 GMT | The Top 8 Priority Locations For Security Camera Placement | CitiGuard Australia | [Read More](https://medium.com/p/0fcd442954d0) |
-| Wed, 04 Feb 2026 15:41:40 GMT | Anthropic’s Plugins Trigger the “SaaSpocalypse” | Kannan Nagasamy | [Read More](https://medium.com/p/14fe24ec55e7) |
-| Wed, 04 Feb 2026 15:40:47 GMT | Reachability-Oriented Defense Model (RODM) | Hiroshi Ohtani | [Read More](https://medium.com/p/78249a3e7f34) |
-| Wed, 04 Feb 2026 15:37:18 GMT | About the recent raid in X' Paris offices | Catherine Klepper | [Read More](https://medium.com/p/71bdf4827dc5) |
-| Wed, 04 Feb 2026 15:36:53 GMT | Multi-Factor Authentication for Social Media: SMS vs App vs Hardware Keys | Cyber Lee | [Read More](https://medium.com/p/bea27b8db4ab) |
