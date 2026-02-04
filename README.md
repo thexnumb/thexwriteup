@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Feb 2026 16:00:52 GMT | Can Notepad++ Be Hacked? How MSPs Identify Real vs Fake Threats | SafeAeon Inc. | [Read More](https://medium.com/p/c7ddccc474a4) |
+| Wed, 04 Feb 2026 15:59:02 GMT | AI and the Changing Game of Bug Bounties | Donovan_Distracted | [Read More](https://medium.com/p/efd853da9425) |
+| Wed, 04 Feb 2026 15:58:31 GMT | Pivot & Double Pivot With Ligolo-ng | Alts | [Read More](https://medium.com/p/df532bf213ea) |
+| Wed, 04 Feb 2026 15:48:46 GMT | Getting started with Splunk: Your first Splunk project | Saksham Joshi | [Read More](https://medium.com/p/5b7740f16cff) |
+| Wed, 04 Feb 2026 15:47:51 GMT | The Top 8 Priority Locations For Security Camera Placement | CitiGuard Australia | [Read More](https://medium.com/p/0fcd442954d0) |
+| Wed, 04 Feb 2026 15:41:40 GMT | Anthropic’s Plugins Trigger the “SaaSpocalypse” | Kannan Nagasamy | [Read More](https://medium.com/p/14fe24ec55e7) |
+| Wed, 04 Feb 2026 15:40:47 GMT | Reachability-Oriented Defense Model (RODM) | Hiroshi Ohtani | [Read More](https://medium.com/p/78249a3e7f34) |
+| Wed, 04 Feb 2026 15:37:18 GMT | About the recent raid in X' Paris offices | Catherine Klepper | [Read More](https://medium.com/p/71bdf4827dc5) |
+| Wed, 04 Feb 2026 15:36:53 GMT | Multi-Factor Authentication for Social Media: SMS vs App vs Hardware Keys | Cyber Lee | [Read More](https://medium.com/p/bea27b8db4ab) |
+| Wed, 04 Feb 2026 15:31:56 GMT | Always Listening: The Promise and Peril of Today’s Voice Assistants | Paradise technologies Inc | [Read More](https://medium.com/p/364a7a5388d2) |
+| Wed, 04 Feb 2026 15:25:24 GMT | Atomic Habits, But Make It Cybersecurity: A Personal Reflection | Ingrid rorez | [Read More](https://medium.com/p/d54b94d47890) |
+| Wed, 04 Feb 2026 15:20:28 GMT | We Built a World Where One Wrong Click is Enough | Avlix Security | [Read More](https://medium.com/p/aaaddb9594f7) |
+| Wed, 04 Feb 2026 15:14:39 GMT | AI Security Research — January 2026 | Tal Eliyahu | [Read More](https://medium.com/p/4beb75f207fc) |
+| Wed, 04 Feb 2026 15:09:22 GMT | Practical eJPT Command Reference | CyberSum | [Read More](https://medium.com/p/0f92099d55c6) |
+| Wed, 04 Feb 2026 15:09:21 GMT | Garmin MapShare: Insecure Link Design and User Data Privacy (Part 2) | Llorenç | [Read More](https://medium.com/p/d2b8af887b96) |
+| Wed, 04 Feb 2026 15:04:10 GMT | How to Hack Swagger UI Complete Guide. | RivuDon | [Read More](https://medium.com/p/9291d9158603) |
 | Wed, 04 Feb 2026 15:01:02 GMT | 2–4–2026 — Steal and The Digital Heist | The Enterprise Sponge | [Read More](https://medium.com/p/06953a3ff436) |
 | Wed, 04 Feb 2026 14:59:28 GMT | Does HTTPS / TLS has their Automatic Encryption process ? | Piyali Das | [Read More](https://medium.com/p/578402f29952) |
 | Wed, 04 Feb 2026 14:56:09 GMT | DHS Targets Trump Critics, Intel Challenges Nvidia, and SpaceX Builds Space Data Centers - The… | Souren Stepanyan | [Read More](https://medium.com/p/e9bd1fc56ef9) |
@@ -46,6 +62,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Feb 2026 13:45:59 GMT | API and WAAP Security: Preventing Logic Flaws and Misuse | Digital Defense | [Read More](https://medium.com/p/442ad9b6e907) |
 | Wed, 04 Feb 2026 13:43:47 GMT | Before a Society Collapses, Its Youth Are Made Fragile | Maithilee Singh | [Read More](https://medium.com/p/fabe640cd57d) |
 | Wed, 04 Feb 2026 13:40:10 GMT | 10 Enterprise Web Security Threats and How to Prevent Them | HCLSoftware | [Read More](https://medium.com/p/61ed763d5254) |
+| Wed, 04 Feb 2026 13:38:29 GMT | Web Güvenliği ve Tarayıcı Dedektifliği:”Arka Planda Neler Oluyor?” | esma yaren kaya | [Read More](https://medium.com/p/7f47db745d88) |
 | Wed, 04 Feb 2026 13:35:15 GMT | Encoding, Encryption, Hashing: What to use where and why? | Nadir Hussain | [Read More](https://medium.com/p/2c6e05608f3d) |
 | Wed, 04 Feb 2026 13:32:14 GMT | How Modern Website Authentication Works (and Why It Still Fails) | Cynox Security LLP. | [Read More](https://medium.com/p/2b8bd5dee605) |
 | Wed, 04 Feb 2026 13:31:01 GMT | The Trust Stack: Your Agent’s Safety Backbone | Duckweave | [Read More](https://medium.com/p/6660ace9c79c) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Feb 2026 10:53:35 GMT | ARM Protostar Stack5 Walkthrough | Cyb3rCr0wCC | [Read More](https://medium.com/p/2ba83914b22d) |
 | Wed, 04 Feb 2026 10:53:26 GMT | The Evolution of Threat Intelligence: How AI is Illuminating the Dark Web’s Hidden Threats | Naman Vaishnav | [Read More](https://medium.com/p/15a3a0d75b6d) |
 | Wed, 04 Feb 2026 10:52:52 GMT | ATTACKS | Hooria Hashmi | [Read More](https://medium.com/p/484a59381fa3) |
-| Wed, 04 Feb 2026 10:50:44 GMT | AI in the SOC Only Earns Trust When It Can Show Receipts | Graylog | [Read More](https://medium.com/p/071b4dc09404) |
-| Wed, 04 Feb 2026 10:48:48 GMT | Why Narratives Spread Faster Than Evidence | Marilyn Starkloff | [Read More](https://medium.com/p/1479dae9813d) |
-| Wed, 04 Feb 2026 10:45:58 GMT | Protecting Web Applications with Keycloak | Torin | [Read More](https://medium.com/p/d5b05492fc40) |
-| Wed, 04 Feb 2026 10:42:58 GMT | Running DNS Is Easy. Trusting It Is Not. | Siddesh Bathi | [Read More](https://medium.com/p/e5eec77b2d50) |
-| Wed, 04 Feb 2026 10:42:01 GMT | How Network Ports Work and Why They Matter in Cybersecurity | Abhinsubej | [Read More](https://medium.com/p/bb9651de4cf8) |
-| Wed, 04 Feb 2026 10:39:35 GMT | Responder ile NTLM Hash Yakalama ve Kırma | İremDamar | [Read More](https://medium.com/p/2c686c978663) |
-| Wed, 04 Feb 2026 10:38:29 GMT | Can Your Business Handle Emerging Cyberattacks? Professional Protection Options | Managed IT Services | [Read More](https://medium.com/p/3968d405e1ca) |
-| Wed, 04 Feb 2026 10:38:22 GMT | Compliance-First Data Protection with NAKIVO | NAKIVO | [Read More](https://medium.com/p/8ca8ba1fa28d) |
-| Wed, 04 Feb 2026 10:36:42 GMT | What Are The 5 Types Of Cyber Security | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/4049a30af4f8) |
-| Wed, 04 Feb 2026 10:28:23 GMT | Another Leap of Faith | AyClaire31 | [Read More](https://medium.com/p/9810576e3034) |
-| Wed, 04 Feb 2026 10:26:51 GMT | AZ-104 Lab Journey (Day 6): Connecting Segmented Networks with VNet Peering and Custom Routing | Toibat | [Read More](https://medium.com/p/57fe756ce5df) |
-| Wed, 04 Feb 2026 10:26:08 GMT | Ace Racer Apk | genzvnmod | [Read More](https://medium.com/p/5977977a8512) |
-| Wed, 04 Feb 2026 10:25:03 GMT | Key Cybersecurity Trends to Watch in 2026 | Eventus Security Private Limited | [Read More](https://medium.com/p/99ecd1e73452) |
-| Wed, 04 Feb 2026 10:21:29 GMT | Deaderal Reserve Protocol: Putting Stablecoin Profits Back in the Hands of the Community | Blobetech Dev | [Read More](https://medium.com/p/d82d3626f423) |
-| Wed, 04 Feb 2026 10:20:23 GMT | Google Isn’t Reading Your Messages — Federated Learning Is | Tina Sharma | [Read More](https://medium.com/p/b2a6e06bb067) |
-| Wed, 04 Feb 2026 10:20:03 GMT | Automating Security Alerts with Local LLM Integration | Manusiahiu | [Read More](https://medium.com/p/cfbea2ebf8d2) |
-| Wed, 04 Feb 2026 10:16:34 GMT | Snow-Crash-write-up [level13] | B.R.O.L.Y | [Read More](https://medium.com/p/0b06b8a85b96) |
