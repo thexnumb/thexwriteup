@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Feb 2026 05:20:14 GMT | License Bypass via Binary Patching | Abhirup Konwar | [Read More](https://medium.com/p/b3724c961dd6) |
+| Wed, 04 Feb 2026 05:18:23 GMT | Learning Red Team: Command Injection on DVWA | Narathama Firmansyah Putra | [Read More](https://medium.com/p/a08420429f91) |
+| Wed, 04 Feb 2026 05:04:28 GMT | Are Your Docker Containers a Ticking Time Bomb? | Alan Varghese | [Read More](https://medium.com/p/59798bc6ad98) |
+| Wed, 04 Feb 2026 05:01:53 GMT | Future Technology Trends 2026: What to Learn Now for High‑Paying Job | Niharika P.N | [Read More](https://medium.com/p/fa4b2f8a1f5c) |
+| Wed, 04 Feb 2026 05:00:23 GMT | Infrastructure Audits: Identifying Silent Exposure Across Systems | Chitrakshi | [Read More](https://medium.com/p/cf29d1a3793d) |
+| Wed, 04 Feb 2026 04:45:04 GMT | Unlocking The Full Potential of Indian Women Tech Talent - Ascendion | Ascendion | [Read More](https://medium.com/p/2851eb05cd3c) |
+| Wed, 04 Feb 2026 04:41:03 GMT | Hardening Android in 2026: The Ultimate Privacy & Security Checklist | Matteo Zanetti | [Read More](https://medium.com/p/dc2ad04a31f1) |
+| Wed, 04 Feb 2026 04:32:11 GMT | Governance, Risk, and Compliance (GRC) Platform Market Trends and Future Outlook | Gauri Kale | [Read More](https://medium.com/p/668bb74ab9d7) |
+| Wed, 04 Feb 2026 04:31:02 GMT | A Simple Chain That Leads to “Android App” Account Takeover via Intent Hijacking | November Rain | [Read More](https://medium.com/p/fd266144ebd4) |
+| Wed, 04 Feb 2026 04:27:48 GMT | How a Password Reset Email Became a Phishing Link | Harshavardhanreddy | [Read More](https://medium.com/p/26a0f125b3a1) |
+| Wed, 04 Feb 2026 04:19:28 GMT | SQL Injection: Anatomy of a Breach (And How I Prevent It) | Adryan Prawira | [Read More](https://medium.com/p/c557064384ff) |
+| Wed, 04 Feb 2026 04:11:32 GMT | Why Cyber Security Companies Are Essential for Protecting Business Data | Lexington Computer Support | [Read More](https://medium.com/p/5675cbe320c4) |
+| Wed, 04 Feb 2026 04:11:00 GMT | O-Prelude | Ray Podder | [Read More](https://medium.com/p/e61b23e220cc) |
+| Wed, 04 Feb 2026 04:09:49 GMT | Malvertising How Cybercriminals Exploit Trust to Steal User Data | Bervice | [Read More](https://medium.com/p/1cbed6bd41e5) |
 | Wed, 04 Feb 2026 04:01:06 GMT | Zero to eJPT v2 certified in 14 Days. (2026 Edition) | Luke Maharaj | [Read More](https://medium.com/p/aa7d97e54c07) |
 | Wed, 04 Feb 2026 04:00:14 GMT | AI agents are forming a society… and they’re inventing and speaking a language humans can’t… | Siva Desetti | [Read More](https://medium.com/p/8c3251948fb9) |
 | Wed, 04 Feb 2026 03:52:41 GMT | Why Credential Replay Attacks Keep Failing — When Passwords Aren’t Just Text | Rainbow Secure | [Read More](https://medium.com/p/3463410a1a2b) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Feb 2026 19:13:08 GMT | My BYBS Transformation Journey: From Carrying Everything Alone to Moving with Clarity . | Nyombe Benson Jalle | [Read More](https://medium.com/p/68e5d8c4ef94) |
 | Tue, 03 Feb 2026 19:04:55 GMT | Cybersecurity Is Now an Operational Risk, Not Just IT Risk | JSOC IT BLOG | [Read More](https://medium.com/p/5f004c1f55f4) |
 | Tue, 03 Feb 2026 18:59:02 GMT | EU GDPR – Article 3 (Territorial Scope) | MDM Team | [Read More](https://medium.com/p/327d6de94fc6) |
-| Tue, 03 Feb 2026 18:55:32 GMT | Why Junior Developer Roles Were Already Breaking Before AI | Michaela Glaze | [Read More](https://medium.com/p/f87563d0db4d) |
-| Tue, 03 Feb 2026 18:54:23 GMT | Cybersecurity Isn’t Technical Anymore — It’s Strategic | Liam | [Read More](https://medium.com/p/b287130d5a0f) |
-| Tue, 03 Feb 2026 18:45:51 GMT | Race Conditions Tryhackme — (Challenge Web App) | Panglimaizza | [Read More](https://medium.com/p/f33cd9e3b13a) |
-| Tue, 03 Feb 2026 18:42:15 GMT | HTB — Starting Point [TIER 0] — “Redeemer” | Faraam | [Read More](https://medium.com/p/938c22dadce8) |
-| Tue, 03 Feb 2026 18:40:39 GMT | Cheesy Does It(BugForge) | r0zx | [Read More](https://medium.com/p/ae2a8ebb8ccf) |
-| Tue, 03 Feb 2026 18:39:32 GMT | Top-rated disaster recovery service providers for data centers | Tushar M Kumawat | [Read More](https://medium.com/p/b9fd16e9720a) |
-| Tue, 03 Feb 2026 18:34:21 GMT | Notepad++ Attributed to Chinese Spies, SpaceX Buys xAI, and Disney’s New CEO - The Daily Tech… | Souren Stepanyan | [Read More](https://medium.com/p/b96797ceee90) |
-| Tue, 03 Feb 2026 18:33:40 GMT | Cybersecurity Explained: Intro | Chimdi | [Read More](https://medium.com/p/94aa165099bb) |
-| Tue, 03 Feb 2026 18:21:53 GMT | Be the Sheriff your AI Villagers Deserve. | Ruiters | [Read More](https://medium.com/p/d14acf10ae30) |
-| Tue, 03 Feb 2026 18:19:17 GMT | MCP URL elicitation explained with example | Purvendudhaiyaprd | [Read More](https://medium.com/p/9b95c5963d4d) |
-| Tue, 03 Feb 2026 18:16:01 GMT | Seven Eras of Web3 Hacks: From The DAO to Cross-Chain Chaos | Exploitless | [Read More](https://medium.com/p/afcffb70d762) |
-| Tue, 03 Feb 2026 18:13:13 GMT | Deepfake Detection in the Cloud: Why Infrastructure Matters More Than Models | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/fef871d52bbf) |
-| Tue, 03 Feb 2026 18:07:48 GMT | Clean Architecture: El orden no garantiza la seguridad | Jdchavezzss | [Read More](https://medium.com/p/b87136f01af6) |
-| Tue, 03 Feb 2026 18:00:53 GMT | From Network Pentesting to Red Teaming : The Fast-Track Journey | Maverick | [Read More](https://medium.com/p/3d25f79d2d5b) |
