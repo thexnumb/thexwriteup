@@ -12,7 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Feb 2026 14:05:09 GMT | How the Notepad++ Supply-Chain Attack Unfolded: A Deep Technical Analysis | CipherX9F Security | [Read More](https://medium.com/p/7e99dc4593c9) |
+| Wed, 04 Feb 2026 14:04:48 GMT | Rules That Keep Your Organization Safe and Save You Money. | Oladipo Taiwo Olamide(Lolu_Everywhere) | [Read More](https://medium.com/p/067d0955ba94) |
+| Wed, 04 Feb 2026 14:02:28 GMT | Building a Comprehensive Cipher Toolbox: From Classical Cryptography to Modern Encryption | Gabriel D. Vincent | [Read More](https://medium.com/p/c9b4949191d1) |
+| Wed, 04 Feb 2026 14:01:03 GMT | MCP Security: When “Tools + Filesystem” Gets Real | Thinking Loop | [Read More](https://medium.com/p/a976bf37bba6) |
+| Wed, 04 Feb 2026 14:01:02 GMT | Constraints Make Agents Useful | Syntal | [Read More](https://medium.com/p/571e43016f83) |
+| Wed, 04 Feb 2026 14:00:30 GMT | Memory and Context Poisoning: The Silent Sabotage Threatening AI Agents | Alessandro Pignati | [Read More](https://medium.com/p/45fdf680d7b5) |
+| Wed, 04 Feb 2026 13:59:52 GMT | TOCTOU in the Wild: How a Timing Bug Bypassed SaaS Workflow Limits | القنصل | [Read More](https://medium.com/p/1944757100c7) |
+| Wed, 04 Feb 2026 13:55:13 GMT | Gitlab — A Symphony of Generossity & A $33,500 Bounty — A modern Rigoletto — Act III … | Justas_b_2 | [Read More](https://medium.com/p/be003ff93f7a) |
+| Wed, 04 Feb 2026 13:52:13 GMT | Stop Hardcoding Secrets: Why Your Azure Functions Should Rely on Key Vault | Morsi Masmoudi | [Read More](https://medium.com/p/47e192a99048) |
+| Wed, 04 Feb 2026 13:50:02 GMT | Deploying Application Security Tools in Minutes: Why Setup Time Is a Risk | Kate Bennett | [Read More](https://medium.com/p/2f88542c056b) |
+| Wed, 04 Feb 2026 13:46:21 GMT | Semperis Acquires Identity Resilience Provider MightyID to Extend Identity Protection for Okta and… | Louise Rolfe | [Read More](https://medium.com/p/51b4bdb9433c) |
+| Wed, 04 Feb 2026 13:45:59 GMT | API and WAAP Security: Preventing Logic Flaws and Misuse | Digital Defense | [Read More](https://medium.com/p/442ad9b6e907) |
+| Wed, 04 Feb 2026 13:43:47 GMT | Before a Society Collapses, Its Youth Are Made Fragile | Maithilee Singh | [Read More](https://medium.com/p/fabe640cd57d) |
+| Wed, 04 Feb 2026 13:40:10 GMT | 10 Enterprise Web Security Threats and How to Prevent Them | HCLSoftware | [Read More](https://medium.com/p/61ed763d5254) |
+| Wed, 04 Feb 2026 13:35:15 GMT | Encoding, Encryption, Hashing: What to use where and why? | Nadir Hussain | [Read More](https://medium.com/p/2c6e05608f3d) |
+| Wed, 04 Feb 2026 13:32:14 GMT | How Modern Website Authentication Works (and Why It Still Fails) | Cynox Security LLP. | [Read More](https://medium.com/p/2b8bd5dee605) |
+| Wed, 04 Feb 2026 13:31:01 GMT | The Trust Stack: Your Agent’s Safety Backbone | Duckweave | [Read More](https://medium.com/p/6660ace9c79c) |
+| Wed, 04 Feb 2026 13:28:31 GMT | Weaponised Vulnerability: Why We Use Shame, Silence, and Control Instead of Honest Communication: | Dr. Shambhavi Pandey | [Read More](https://medium.com/p/4123c3347740) |
+| Wed, 04 Feb 2026 13:25:44 GMT | QRStuff.com: The Simple Way to Create Powerful QR Codes | Dennis Duke | [Read More](https://medium.com/p/6ddd1ee86040) |
+| Wed, 04 Feb 2026 13:23:44 GMT | Common Tech Myths We Still Believe | Anonymous Writer | [Read More](https://medium.com/p/b23f08bf984e) |
+| Wed, 04 Feb 2026 13:20:45 GMT | Engineering Database Activity Monitoring (DAM) - From Bare-Metal Linux to AWS RDS — EPISODE 3.5 | Vijenex | [Read More](https://medium.com/p/834983a262ec) |
+| Wed, 04 Feb 2026 13:17:05 GMT | Velvu CCTV Camera & Surveillance Systems | Digitalagency | [Read More](https://medium.com/p/2544bca6f09e) |
 | Wed, 04 Feb 2026 13:02:28 GMT | How Modern Businesses Are Scaling Faster with Custom Software Solutions | Ashish Garg | [Read More](https://medium.com/p/5d2900b778ff) |
+| Wed, 04 Feb 2026 12:57:47 GMT | Inside Google’s Personal Intelligence: How Gemini Knows You | Ravi | [Read More](https://medium.com/p/c0b2fc9daf91) |
 | Wed, 04 Feb 2026 12:56:39 GMT | Custom LLMs for Healthcare, Finance, Education and Manufacturing: Use Cases | Alex | [Read More](https://medium.com/p/401a82c473fd) |
 | Wed, 04 Feb 2026 12:48:38 GMT | Why Your Network Design is Your Best (or Worst) Security Control: 5 Insights from Campus… | Anna Bejan | [Read More](https://medium.com/p/2c192c05bd2e) |
 | Wed, 04 Feb 2026 12:46:53 GMT | AI-Powered Cyberattacks and the Rise of Covert Threats | Gitanjali Maria | [Read More](https://medium.com/p/aa903ccd4f55) |
@@ -89,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Feb 2026 09:10:01 GMT | How to Fix Metasploitable Kernel Panic Error in VirtualBox | Pavithran | [Read More](https://medium.com/p/eb9e931f7906) |
 | Wed, 04 Feb 2026 09:07:47 GMT | Cybersecurity for Website Development in Noida: A Strategic Imperative for Modern Businesses | Systmadeantivirus | [Read More](https://medium.com/p/5c98170bcb17) |
 | Wed, 04 Feb 2026 09:06:05 GMT | 3 Tech Skills That Will Outlive Every Trend in 2026 | Ilkay Adil | [Read More](https://medium.com/p/61d479798346) |
-| Wed, 04 Feb 2026 09:05:26 GMT | Bug Bounty Tutorial Series — Part 2: Understanding SSRF (Server-Side Request Forgery) | Vivek PS | [Read More](https://medium.com/p/96c6b96fca00) |
-| Wed, 04 Feb 2026 09:03:25 GMT | What Early-Career Security Analysts Get Wrong About Incident Response | Ethan Caldwell | [Read More](https://medium.com/p/f0f925d432c0) |
-| Wed, 04 Feb 2026 09:01:03 GMT | How Leaked Credentials Travel: From Infected PC to Telegram in 48 Hours | Alexandre Vandamme | [Read More](https://medium.com/p/c18f3bef2d3e) |
-| Wed, 04 Feb 2026 08:51:53 GMT | Security Pitfalls in Flutter Apps (And How to Avoid Them) | Adedola Owen Abaru | [Read More](https://medium.com/p/98d65a02cbbe) |
-| Wed, 04 Feb 2026 08:49:27 GMT | Web Uygulamalarında Görünmeyen Kalkan: Authentication ve Authorization | Hsdfsmvu | [Read More](https://medium.com/p/646fe89cf7f3) |
-| Wed, 04 Feb 2026 08:48:54 GMT | Yapay Zeka ile Kontrolü Kaybetmeden Güçlenmek: MCP Server Mimarisi Neden Oyunun Kurallarını… | Elif Seven | [Read More](https://medium.com/p/61a69f5135f8) |
-| Wed, 04 Feb 2026 08:40:29 GMT | SIEM’s Second Act: Reinventing Security Analytics | NetWitness | [Read More](https://medium.com/p/39bba6ec1f5c) |
-| Wed, 04 Feb 2026 08:29:39 GMT | Browser-Based mTLS Authentication with Amazon CloudFront | Vinayak Pandey | [Read More](https://medium.com/p/2fbad511fe6e) |
-| Wed, 04 Feb 2026 08:29:34 GMT | UNbreakable training — CTF ( 4.
-xo.rar) | George Alin | [Read More](https://medium.com/p/fc9b4b74d205) |
-| Wed, 04 Feb 2026 08:27:35 GMT | How to use Metasploit and Nmap to Enumerate and Scan for Vulnerabilities | The Mastermind Notes | [Read More](https://medium.com/p/be91f9d89a7b) |
-| Wed, 04 Feb 2026 08:24:00 GMT | Best Cyber Security Courses Online for Beginners in 2026 | Janbask Training | [Read More](https://medium.com/p/7f7214c15b6b) |
-| Wed, 04 Feb 2026 08:17:57 GMT | Adversary-in-the-Middle (AiTM) Attacks: How MFA Gets Bypassed Without Being Broken | Ankita Sinha | [Read More](https://medium.com/p/c2da6128062c) |
-| Wed, 04 Feb 2026 08:15:33 GMT | Active Directory Pentesting - Offsec Proving Grounds Access Writeup | The Mastermind Notes | [Read More](https://medium.com/p/b213880e35e1) |
-| Wed, 04 Feb 2026 08:02:28 GMT | The 2026 “Deadly Duo”: Agentic AI vs. Autonomous Defense | Keyur | [Read More](https://medium.com/p/20dd8f0f7348) |
-| Wed, 04 Feb 2026 08:02:27 GMT | AntiviHow Can Antivirus Software Improve Online Privacy? | Siyanoav | [Read More](https://medium.com/p/f44289835c9b) |
-| Wed, 04 Feb 2026 08:00:31 GMT | Who Should Enroll in This Cyber security Course? | Nandithamahesh | [Read More](https://medium.com/p/edf93a2196ea) |
-| Wed, 04 Feb 2026 07:56:04 GMT | You Are Not Being Targeted, You Are Being Modeled | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/8d6d54b5359c) |
-| Wed, 04 Feb 2026 07:55:28 GMT | AI in Fraud Detection: Detecting Real-Time Financial Attacks | Majidbasharat | [Read More](https://medium.com/p/876f01f13268) |
-| Wed, 04 Feb 2026 07:43:07 GMT | 401 Unauthorized Error Explained: Causes and How to Fix It | Smit Pipaliya | [Read More](https://medium.com/p/4debb0695a2d) |
-| Wed, 04 Feb 2026 07:39:41 GMT | Most Cybersecurity Careers Won’t Survive the AI Era — Here’s the Filter | EINITIAL24 | [Read More](https://medium.com/p/e4d33b9f8eec) |
-| Wed, 04 Feb 2026 07:39:35 GMT | Weaponizing Words: Advanced Wordlist Generation Inside Burp Suite | ghostyjoe | [Read More](https://medium.com/p/035fd35967f2) |
-| Wed, 04 Feb 2026 07:36:26 GMT | Top 20 IT Companies in Nashik (2026 Guide): Top Firms, Jobs & Salaries | esseindiablog | [Read More](https://medium.com/p/6cea4748700a) |
-| Wed, 04 Feb 2026 07:32:50 GMT | Why I Built My First WordPress Plugin: Closing the “Invisible Backdoor” | Rakib | [Read More](https://medium.com/p/2fa9a6897064) |
