@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Feb 2026 19:55:06 GMT | How I Found Two Broken Access Control Vulnerabilities in the Same Program ! | 1yz02 | [Read More](https://medium.com/p/910fcf4f4015) |
+| Wed, 04 Feb 2026 19:45:02 GMT | DNS (Domain name system) in 2 mins | Dayanidhi Meganathan | [Read More](https://medium.com/p/6f4105f6d0c9) |
+| Wed, 04 Feb 2026 19:38:54 GMT | Mission Accomplished — A Post in Every Security Section | Teri Radichel | [Read More](https://medium.com/p/191e55409653) |
+| Wed, 04 Feb 2026 19:35:47 GMT | Firefox Will Feature an AI Kill-Switch | Matthew.Rosenquist | [Read More](https://medium.com/p/0b21637e27de) |
+| Wed, 04 Feb 2026 19:33:52 GMT | Windows Security Privileges for Pentesters | Victor Aaron Winnercoz | [Read More](https://medium.com/p/225185df24d9) |
+| Wed, 04 Feb 2026 19:30:35 GMT | Qurbanın perspektivindən kiberhücumların başlanması: | Ramila B | [Read More](https://medium.com/p/29d97ba8402b) |
+| Wed, 04 Feb 2026 19:21:56 GMT | A Case Study in Client-side Validation Gone Wrong (and How to Do It Right) | Jack Carter | [Read More](https://medium.com/p/88cffabd8646) |
+| Wed, 04 Feb 2026 19:21:33 GMT | Data Security in 2026: How Businesses Can Protect Sensitive Information in a Digital-First World | Techridge Solutions | [Read More](https://medium.com/p/a02ddaa1fe78) |
+| Wed, 04 Feb 2026 19:17:22 GMT | Leading Through Change Fatigue: Helping IT Teams Stay Engaged in a World of Constant Transformation | Roman Meydbray | [Read More](https://medium.com/p/1e1cb7716ff7) |
+| Wed, 04 Feb 2026 19:16:49 GMT | INE / eJPT / Host & Network Penetration Testing: Exploitation CTF 3 | Salihugurlu | [Read More](https://medium.com/p/e93ff4b45dee) |
 | Wed, 04 Feb 2026 19:12:41 GMT | Network #2 | Umid Nagiyev | [Read More](https://medium.com/p/45bda8623188) |
 | Wed, 04 Feb 2026 19:12:20 GMT | Shoulda, woulda, coulda… | Julie Stayton | [Read More](https://medium.com/p/5693dfc15aad) |
 | Wed, 04 Feb 2026 19:09:58 GMT | Short Story: I’m so sorry | M. Gefvert | [Read More](https://medium.com/p/e8e02673b171) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Feb 2026 14:24:59 GMT | THE COST OF ISOLATION | Scripture of Balance Author & Founder | [Read More](https://medium.com/p/29803f78320f) |
 | Wed, 04 Feb 2026 14:24:07 GMT | The Future of Darknet Markets: What Researchers Are Watching Next | Tor BBB | [Read More](https://medium.com/p/ef5683251261) |
 | Wed, 04 Feb 2026 14:21:58 GMT | Weekly Cyber Threat Bulletin: 29 January 2026 | Marcelle Lee | [Read More](https://medium.com/p/44b9800d13cf) |
-| Wed, 04 Feb 2026 14:21:38 GMT | Vulnhub: Pluck CTF Walkthrough | d0natel00(KiroMoheb) | [Read More](https://medium.com/p/e92974967d44) |
-| Wed, 04 Feb 2026 14:14:08 GMT | Be Ready: Longer tasks that AI agents can complete with ~50% reliability doubling ~every 7 months. | Shivam | [Read More](https://medium.com/p/f29257d63048) |
-| Wed, 04 Feb 2026 14:05:09 GMT | How the Notepad++ Supply-Chain Attack Unfolded: A Deep Technical Analysis | CipherX9F Security | [Read More](https://medium.com/p/7e99dc4593c9) |
-| Wed, 04 Feb 2026 14:04:48 GMT | Rules That Keep Your Organization Safe and Save You Money. | Oladipo Taiwo Olamide(Lolu_Everywhere) | [Read More](https://medium.com/p/067d0955ba94) |
-| Wed, 04 Feb 2026 14:02:28 GMT | Building a Comprehensive Cipher Toolbox: From Classical Cryptography to Modern Encryption | Gabriel D. Vincent | [Read More](https://medium.com/p/c9b4949191d1) |
-| Wed, 04 Feb 2026 14:01:03 GMT | MCP Security: When “Tools + Filesystem” Gets Real | Thinking Loop | [Read More](https://medium.com/p/a976bf37bba6) |
-| Wed, 04 Feb 2026 14:01:02 GMT | Constraints Make Agents Useful | Syntal | [Read More](https://medium.com/p/571e43016f83) |
-| Wed, 04 Feb 2026 14:00:30 GMT | Memory and Context Poisoning: The Silent Sabotage Threatening AI Agents | Alessandro Pignati | [Read More](https://medium.com/p/45fdf680d7b5) |
-| Wed, 04 Feb 2026 13:59:52 GMT | TOCTOU in the Wild: How a Timing Bug Bypassed SaaS Workflow Limits | القنصل | [Read More](https://medium.com/p/1944757100c7) |
-| Wed, 04 Feb 2026 13:55:13 GMT | Gitlab — A Symphony of Generossity & A $33,500 Bounty — A modern Rigoletto — Act III … | Justas_b_2 | [Read More](https://medium.com/p/be003ff93f7a) |
