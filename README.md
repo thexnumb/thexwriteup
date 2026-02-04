@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Feb 2026 19:12:41 GMT | Network #2 | Umid Nagiyev | [Read More](https://medium.com/p/45bda8623188) |
+| Wed, 04 Feb 2026 19:12:20 GMT | Shoulda, woulda, coulda… | Julie Stayton | [Read More](https://medium.com/p/5693dfc15aad) |
+| Wed, 04 Feb 2026 19:09:58 GMT | Short Story: I’m so sorry | M. Gefvert | [Read More](https://medium.com/p/e8e02673b171) |
+| Wed, 04 Feb 2026 19:07:44 GMT | The Global AI Illusion | Damian Ketting | [Read More](https://medium.com/p/618c23bbe06f) |
+| Wed, 04 Feb 2026 19:07:38 GMT | Who Moved the Cheese in Indian IT? | Tushar Sen | [Read More](https://medium.com/p/a2b9d735f2e1) |
+| Wed, 04 Feb 2026 18:58:11 GMT | Volnaya Forums HTB walkthrough | Nullecho | [Read More](https://medium.com/p/8c0fd4849151) |
+| Wed, 04 Feb 2026 18:56:17 GMT | Try Hack Me- broker CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/d131bd5a622b) |
+| Wed, 04 Feb 2026 18:54:10 GMT | Does Password Management Define Digital Security? | Fortress Protocol | [Read More](https://medium.com/p/862ac633152b) |
+| Wed, 04 Feb 2026 18:54:00 GMT | If your agent can browse the web, you’re f*cked. | Lucas Valbuena | [Read More](https://medium.com/p/2c7f1460b2a3) |
+| Wed, 04 Feb 2026 18:53:19 GMT | Rebuilding the Cybersecurity Framework in the Age of AI | Len Noe | [Read More](https://medium.com/p/6f1e99ca990a) |
+| Wed, 04 Feb 2026 18:43:00 GMT | ¿Cómo almacenar datos sensibles de forma segura en Flutter? | Julian Bonilla | [Read More](https://medium.com/p/64a0517d8320) |
+| Wed, 04 Feb 2026 18:36:38 GMT | HAProxy Secure Deployment & Hardening Guide | SOCFortress | [Read More](https://medium.com/p/e03a6ba16a54) |
+| Wed, 04 Feb 2026 18:25:42 GMT | Beyond the Briefings: The People of Black Hat (Photo Collage) | MEDUSA | [Read More](https://medium.com/p/d8e9ac20029f) |
+| Wed, 04 Feb 2026 18:23:13 GMT | Cloud Computing Fundamentals · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/341cdb0bc60c) |
+| Wed, 04 Feb 2026 18:21:08 GMT | Stop Making These 5 Fatal JWT Mistakes (And How to Fix Them) | Simon Reed | [Read More](https://medium.com/p/ad9d07046998) |
+| Wed, 04 Feb 2026 18:12:52 GMT | Command Injection in n8n Community Package Installation (CVE-2026–21893) | Berk Dedekargınoğlu | [Read More](https://medium.com/p/ad0f3f06271d) |
+| Wed, 04 Feb 2026 18:10:33 GMT | Insights on Security, Safety, and Protection Services in Australia | SecurityInsightsAU | [Read More](https://medium.com/p/ed144fbf2bab) |
+| Wed, 04 Feb 2026 18:06:00 GMT | Operational Offensive Security: Reconnaissance, Exploitation Automation, and Persistence Techniques | Mai Tran | [Read More](https://medium.com/p/64f02398c21d) |
 | Wed, 04 Feb 2026 18:03:34 GMT | The $3.2 Trillion Opportunity: Why AI Agents Are Reshaping Enterprise Security and How Early… | MAYURSINH ZALA | [Read More](https://medium.com/p/316db43139f3) |
 | Wed, 04 Feb 2026 17:52:20 GMT | Why Running Containers as Root Is a Security Nightmare | Ramanamuttana | [Read More](https://medium.com/p/26e483ebd50c) |
 | Wed, 04 Feb 2026 17:51:35 GMT | How an Internal Tool Accidentally Became Public Internet Property | Iski | [Read More](https://medium.com/p/7c60f505b65f) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Feb 2026 14:00:30 GMT | Memory and Context Poisoning: The Silent Sabotage Threatening AI Agents | Alessandro Pignati | [Read More](https://medium.com/p/45fdf680d7b5) |
 | Wed, 04 Feb 2026 13:59:52 GMT | TOCTOU in the Wild: How a Timing Bug Bypassed SaaS Workflow Limits | القنصل | [Read More](https://medium.com/p/1944757100c7) |
 | Wed, 04 Feb 2026 13:55:13 GMT | Gitlab — A Symphony of Generossity & A $33,500 Bounty — A modern Rigoletto — Act III … | Justas_b_2 | [Read More](https://medium.com/p/be003ff93f7a) |
-| Wed, 04 Feb 2026 13:52:13 GMT | Stop Hardcoding Secrets: Why Your Azure Functions Should Rely on Key Vault | Morsi Masmoudi | [Read More](https://medium.com/p/47e192a99048) |
-| Wed, 04 Feb 2026 13:50:02 GMT | Deploying Application Security Tools in Minutes: Why Setup Time Is a Risk | Kate Bennett | [Read More](https://medium.com/p/2f88542c056b) |
-| Wed, 04 Feb 2026 13:46:21 GMT | Semperis Acquires Identity Resilience Provider MightyID to Extend Identity Protection for Okta and… | Louise Rolfe | [Read More](https://medium.com/p/51b4bdb9433c) |
-| Wed, 04 Feb 2026 13:45:59 GMT | API and WAAP Security: Preventing Logic Flaws and Misuse | Digital Defense | [Read More](https://medium.com/p/442ad9b6e907) |
-| Wed, 04 Feb 2026 13:43:47 GMT | Before a Society Collapses, Its Youth Are Made Fragile | Maithilee Singh | [Read More](https://medium.com/p/fabe640cd57d) |
-| Wed, 04 Feb 2026 13:40:10 GMT | 10 Enterprise Web Security Threats and How to Prevent Them | HCLSoftware | [Read More](https://medium.com/p/61ed763d5254) |
-| Wed, 04 Feb 2026 13:38:29 GMT | Web Güvenliği ve Tarayıcı Dedektifliği:”Arka Planda Neler Oluyor?” | esma yaren kaya | [Read More](https://medium.com/p/7f47db745d88) |
-| Wed, 04 Feb 2026 13:35:15 GMT | Encoding, Encryption, Hashing: What to use where and why? | Nadir Hussain | [Read More](https://medium.com/p/2c6e05608f3d) |
-| Wed, 04 Feb 2026 13:32:14 GMT | How Modern Website Authentication Works (and Why It Still Fails) | Cynox Security LLP. | [Read More](https://medium.com/p/2b8bd5dee605) |
-| Wed, 04 Feb 2026 13:31:01 GMT | The Trust Stack: Your Agent’s Safety Backbone | Duckweave | [Read More](https://medium.com/p/6660ace9c79c) |
-| Wed, 04 Feb 2026 13:28:31 GMT | Weaponised Vulnerability: Why We Use Shame, Silence, and Control Instead of Honest Communication: | Dr. Shambhavi Pandey | [Read More](https://medium.com/p/4123c3347740) |
-| Wed, 04 Feb 2026 13:25:44 GMT | QRStuff.com: The Simple Way to Create Powerful QR Codes | Dennis Duke | [Read More](https://medium.com/p/6ddd1ee86040) |
-| Wed, 04 Feb 2026 13:23:44 GMT | Common Tech Myths We Still Believe | Anonymous Writer | [Read More](https://medium.com/p/b23f08bf984e) |
-| Wed, 04 Feb 2026 13:20:45 GMT | Engineering Database Activity Monitoring (DAM) - From Bare-Metal Linux to AWS RDS — EPISODE 3.5 | Vijenex | [Read More](https://medium.com/p/834983a262ec) |
-| Wed, 04 Feb 2026 13:17:05 GMT | Velvu CCTV Camera & Surveillance Systems | Digitalagency | [Read More](https://medium.com/p/2544bca6f09e) |
-| Wed, 04 Feb 2026 13:02:28 GMT | How Modern Businesses Are Scaling Faster with Custom Software Solutions | Ashish Garg | [Read More](https://medium.com/p/5d2900b778ff) |
-| Wed, 04 Feb 2026 12:57:47 GMT | Inside Google’s Personal Intelligence: How Gemini Knows You | Ravi | [Read More](https://medium.com/p/c0b2fc9daf91) |
-| Wed, 04 Feb 2026 12:56:39 GMT | Custom LLMs for Healthcare, Finance, Education and Manufacturing: Use Cases | Alex | [Read More](https://medium.com/p/401a82c473fd) |
