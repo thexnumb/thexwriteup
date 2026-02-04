@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Feb 2026 21:22:50 GMT | KC7: Convoy Street Interactive (July 2025 Workshop Game) | Aeronique | [Read More](https://medium.com/p/463887be3773) |
+| Wed, 04 Feb 2026 21:17:38 GMT | Egypt National Cybersecurity CTF 2025 - FifthSense — Threat Hunting | Ali Ammar | [Read More](https://medium.com/p/994aa425d505) |
+| Wed, 04 Feb 2026 21:07:40 GMT | CopyPasta writeup (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/7776d9a77395) |
+| Wed, 04 Feb 2026 21:03:06 GMT | Built in C: Real Time Botnet Detection and Auto Ban Defence Mitigation System | Jay Roy | [Read More](https://medium.com/p/5a3a58cd12a9) |
+| Wed, 04 Feb 2026 21:00:55 GMT | The SQL Injection That Leaked 500K User Emails (In 2025) | The Unwritten Algorithm | [Read More](https://medium.com/p/dc27d0e6fd8d) |
+| Wed, 04 Feb 2026 20:59:30 GMT | Protect your Linux server by hardening it in layers, not by relying on a single security control. | Ib2dk | [Read More](https://medium.com/p/10d24985f1e9) |
+| Wed, 04 Feb 2026 20:56:09 GMT | Get401: EU-Native Auth Alternative to Clerk/Auth0 That Won’t Lock You In | Vlad_Krushenitskii | [Read More](https://medium.com/p/176da93d5785) |
 | Wed, 04 Feb 2026 20:41:17 GMT | OpenClaw Explained: How Agentic AI Works, Where the Risks Are, and Why AI Governance Matters | Nathaniel Niyazov | [Read More](https://medium.com/p/4b3498d8af77) |
 | Wed, 04 Feb 2026 20:37:11 GMT | A Bug Bounty Masterclass Walkthrough | Jared Douville | [Read More](https://medium.com/p/d9b5c977ad68) |
 | Wed, 04 Feb 2026 20:26:59 GMT | Fuzzing 101: How Random Data Saves Millions in Web3 | Terry Mureithi | [Read More](https://medium.com/p/42a7eb7a0c8b) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Feb 2026 15:20:28 GMT | We Built a World Where One Wrong Click is Enough | Avlix Security | [Read More](https://medium.com/p/aaaddb9594f7) |
 | Wed, 04 Feb 2026 15:14:39 GMT | AI Security Research — January 2026 | Tal Eliyahu | [Read More](https://medium.com/p/4beb75f207fc) |
 | Wed, 04 Feb 2026 15:09:22 GMT | Practical eJPT Command Reference | CyberSum | [Read More](https://medium.com/p/0f92099d55c6) |
-| Wed, 04 Feb 2026 15:09:21 GMT | Garmin MapShare: Insecure Link Design and User Data Privacy (Part 2) | Llorenç | [Read More](https://medium.com/p/d2b8af887b96) |
-| Wed, 04 Feb 2026 15:04:10 GMT | How to Hack Swagger UI Complete Guide. | RivuDon | [Read More](https://medium.com/p/9291d9158603) |
-| Wed, 04 Feb 2026 15:01:02 GMT | 2–4–2026 — Steal and The Digital Heist | The Enterprise Sponge | [Read More](https://medium.com/p/06953a3ff436) |
-| Wed, 04 Feb 2026 14:59:28 GMT | Does HTTPS / TLS has their Automatic Encryption process ? | Piyali Das | [Read More](https://medium.com/p/578402f29952) |
-| Wed, 04 Feb 2026 14:56:09 GMT | DHS Targets Trump Critics, Intel Challenges Nvidia, and SpaceX Builds Space Data Centers - The… | Souren Stepanyan | [Read More](https://medium.com/p/e9bd1fc56ef9) |
-| Wed, 04 Feb 2026 14:53:18 GMT | How the GFW (Great Firewall) works, and how to maintain access to your favourite sites in China… | Saciwor | [Read More](https://medium.com/p/593d1d6381a4) |
-| Wed, 04 Feb 2026 14:44:30 GMT | Windows Fundamentals Part 3: Cybersecurity 101 Pathway — TryHackMe | Farhad Anwari | [Read More](https://medium.com/p/f7ec6b118015) |
