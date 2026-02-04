@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Feb 2026 06:45:16 GMT | SIEM Detects. SOAR Destroys. Know the Difference. | Pushpak Sharma | [Read More](https://medium.com/p/0b96c8841c5e) |
+| Wed, 04 Feb 2026 06:42:19 GMT | When Your AI Becomes the Insider | Yaseenmd | [Read More](https://medium.com/p/e99c9fd22452) |
+| Wed, 04 Feb 2026 06:41:01 GMT | The Newest AI malware vs. 40 Years | Ram Kumar | [Read More](https://medium.com/p/2916df72e427) |
+| Wed, 04 Feb 2026 06:40:26 GMT | Network Analysis — Ransomware | Nishasorallikar | [Read More](https://medium.com/p/9763553ecbc2) |
+| Wed, 04 Feb 2026 06:38:54 GMT | 117,000 Developers Starred an AI Agent Its Own Docs Call a “Security Nightmare” | Tao An | [Read More](https://medium.com/p/a108a1897522) |
+| Wed, 04 Feb 2026 06:38:34 GMT | Top 1% Hacker on try hack me - how i become a top 1% on THM | Rahul | [Read More](https://medium.com/p/60db17292c65) |
+| Wed, 04 Feb 2026 06:35:58 GMT | Who/Why Do We Trust? | Oguzkirmizi | [Read More](https://medium.com/p/11cab6452d28) |
+| Wed, 04 Feb 2026 06:35:04 GMT | Why Your Deep Links Might Be a Backdoor | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/bbc98ad8901c) |
+| Wed, 04 Feb 2026 06:32:19 GMT | Locksmith North London-Professional Support Across the Capital | N1locksmithsltd | [Read More](https://medium.com/p/d5c58e1a1fa4) |
+| Wed, 04 Feb 2026 06:30:26 GMT | Step Into the World of Cyber Security with Quality Thought! | Molletibalu | [Read More](https://medium.com/p/9d45f6897d12) |
+| Wed, 04 Feb 2026 06:29:12 GMT | IT Risk Management Market Analysis: Top Vendors and Emerging Trends | Michel mathew | [Read More](https://medium.com/p/c90ba2257fe4) |
+| Wed, 04 Feb 2026 06:20:29 GMT | The Role of Computer Vision in Transforming Security | Daisy Grace | [Read More](https://medium.com/p/edb38f1dee9e) |
+| Wed, 04 Feb 2026 06:12:13 GMT | How to Prepare for the CISA Exam Effectively | Irfan Sharief | [Read More](https://medium.com/p/465acc28ef58) |
+| Wed, 04 Feb 2026 06:06:04 GMT | How to set Maven/ Gradle user password globally and Why | Manish Dixit | [Read More](https://medium.com/p/cb460bb1c86d) |
+| Wed, 04 Feb 2026 05:49:25 GMT | One-Prompt AI-Powered Black-Box Kubernetes Penetration Test | Andrey Pautov | [Read More](https://medium.com/p/c75a4747960e) |
+| Wed, 04 Feb 2026 05:47:44 GMT | Anthropic Just Spooked the Entire Software Industry, Here’s What Actually Matters, | Cogni Down Under | [Read More](https://medium.com/p/286cf35df2d8) |
+| Wed, 04 Feb 2026 05:36:43 GMT | How Teams Actually Stop Developers from Leaking Secrets (Without Trusting Them) | Muneeb Islam | [Read More](https://medium.com/p/b38c2e18e39c) |
 | Wed, 04 Feb 2026 05:20:14 GMT | License Bypass via Binary Patching | Abhirup Konwar | [Read More](https://medium.com/p/b3724c961dd6) |
 | Wed, 04 Feb 2026 05:18:23 GMT | Learning Red Team: Command Injection on DVWA | Narathama Firmansyah Putra | [Read More](https://medium.com/p/a08420429f91) |
 | Wed, 04 Feb 2026 05:04:28 GMT | Are Your Docker Containers a Ticking Time Bomb? | Alan Varghese | [Read More](https://medium.com/p/59798bc6ad98) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Feb 2026 21:29:58 GMT | When Your AI Assistant Breaks: Real Debugging Stories | Omar Antonio Díaz Peña | [Read More](https://medium.com/p/ab6afadc2f1a) |
 | Tue, 03 Feb 2026 21:19:42 GMT | The Invisible Infrastructure: Why Critical Systems Fail When Everything Looks Fine | Martin Balome | [Read More](https://medium.com/p/8b39d903939b) |
 | Tue, 03 Feb 2026 21:11:01 GMT | Optimizing NVIDIA L4 AI Processing with Quadra Video Decoding | NETINT Technologies | [Read More](https://medium.com/p/05a7fb1730e7) |
-| Tue, 03 Feb 2026 21:04:59 GMT | What Learning API Security Taught Me About Building Systems for the Real World | Chihurumnanya Ruth Godwin | [Read More](https://medium.com/p/7d075d187c7a) |
-| Tue, 03 Feb 2026 21:03:58 GMT | Mobile Pentest: Allsafe Android Write-Up | Bedo1551 | [Read More](https://medium.com/p/1d8a70c1d759) |
-| Tue, 03 Feb 2026 20:49:41 GMT | Most Cybersecurity Careers Won’t Survive the AI Era — Here’s the Filter | Taimur Ijlal | [Read More](https://medium.com/p/32319167cc69) |
-| Tue, 03 Feb 2026 20:26:56 GMT | The Editor’s Trap: How a Global IT Favourite Became a Gateway for Cyber-Espionage | Adam Frąckowiak | [Read More](https://medium.com/p/254b031b1529) |
-| Tue, 03 Feb 2026 20:18:02 GMT | How to Run Cisco’s Foundation-sec-8B-Reasoning in Ollama (DIY Guide!) | Kulkan Security | [Read More](https://medium.com/p/c073c441dc06) |
-| Tue, 03 Feb 2026 20:11:24 GMT | Belajar Web Security: Menghubungkan Firefox ke Burp Suite dari Nol | My Name is "Jadir" | [Read More](https://medium.com/p/237cbdd1b58b) |
-| Tue, 03 Feb 2026 20:10:28 GMT | AI in GRC: Overhyped, Misunderstood, and Still Useful | Nikita Gupta | [Read More](https://medium.com/p/f491b63ac6bd) |
-| Tue, 03 Feb 2026 19:46:52 GMT | INE / eJPT / Host & Network Penetration Testing: Exploitation CTF 2 | Salihugurlu | [Read More](https://medium.com/p/123288efaecb) |
-| Tue, 03 Feb 2026 19:45:44 GMT | Before You Click “Buy”, Read This Once | Bedaprakash Bhagabati | [Read More](https://medium.com/p/7d0d82efca91) |
-| Tue, 03 Feb 2026 19:40:21 GMT | What Is Phishing & How It Steals Your Data | Shahzaib | [Read More](https://medium.com/p/894b9b3d35f3) |
-| Tue, 03 Feb 2026 19:35:58 GMT | Day 9 : Command Injection | Cybersecurity with Jojo | [Read More](https://medium.com/p/cc1c30f10330) |
-| Tue, 03 Feb 2026 19:35:53 GMT | AI Agents Are Here. Leadership Readiness Is the Real Question | Funke Omolere | [Read More](https://medium.com/p/7b7ac580e649) |
-| Tue, 03 Feb 2026 19:24:56 GMT | Job Agencies in Canada vs Direct Hiring for IT Roles: What Canadian Businesses Should Know | 2iResourcing | [Read More](https://medium.com/p/7351914afcd9) |
-| Tue, 03 Feb 2026 19:15:50 GMT | Slingshot: ELK Stack ile Bir Siber Saldırının İzini Sürmek (TryHackMe-Slingshot CTF Çözümü) | Ahmet Hakan Öztürk | [Read More](https://medium.com/p/960a2ddb6ba5) |
-| Tue, 03 Feb 2026 19:13:08 GMT | My BYBS Transformation Journey: From Carrying Everything Alone to Moving with Clarity . | Nyombe Benson Jalle | [Read More](https://medium.com/p/68e5d8c4ef94) |
-| Tue, 03 Feb 2026 19:04:55 GMT | Cybersecurity Is Now an Operational Risk, Not Just IT Risk | JSOC IT BLOG | [Read More](https://medium.com/p/5f004c1f55f4) |
-| Tue, 03 Feb 2026 18:59:02 GMT | EU GDPR – Article 3 (Territorial Scope) | MDM Team | [Read More](https://medium.com/p/327d6de94fc6) |
