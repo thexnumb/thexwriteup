@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Feb 2026 07:43:07 GMT | 401 Unauthorized Error Explained: Causes and How to Fix It | Smit Pipaliya | [Read More](https://medium.com/p/4debb0695a2d) |
+| Wed, 04 Feb 2026 07:39:35 GMT | Weaponizing Words: Advanced Wordlist Generation Inside Burp Suite | ghostyjoe | [Read More](https://medium.com/p/035fd35967f2) |
+| Wed, 04 Feb 2026 07:36:26 GMT | Top 20 IT Companies in Nashik (2026 Guide): Top Firms, Jobs & Salaries | esseindiablog | [Read More](https://medium.com/p/6cea4748700a) |
+| Wed, 04 Feb 2026 07:32:50 GMT | Why I Built My First WordPress Plugin: Closing the “Invisible Backdoor” | Rakib | [Read More](https://medium.com/p/2fa9a6897064) |
+| Wed, 04 Feb 2026 07:32:27 GMT | Practical ‘secrets management’ for JVM developers: strategies and tools for secure applications | Rares Flueras | [Read More](https://medium.com/p/be8fbe4065c8) |
+| Wed, 04 Feb 2026 07:32:26 GMT | Axios-Based Account Compromise: | Ankita Sinha | [Read More](https://medium.com/p/1f1d0e9f3b56) |
+| Wed, 04 Feb 2026 07:31:01 GMT | Hackers Don’t Phone Home Anymore | Cynox Security LLP. | [Read More](https://medium.com/p/049bdf01fb0f) |
+| Wed, 04 Feb 2026 07:25:02 GMT | The Lobster That Broke the Internet: 5 Surprising Lessons from the 72-Hour Rise of OpenClaw | SOCFortress | [Read More](https://medium.com/p/c289c9bebcba) |
+| Wed, 04 Feb 2026 07:24:17 GMT | What Am I Supposed to Do With My Life Now? | Vijay Kumar Gupta | [Read More](https://medium.com/p/88226d178904) |
+| Wed, 04 Feb 2026 07:20:50 GMT | Let This One Browser Extension Do Your Hacking For You​! | cybrNK | [Read More](https://medium.com/p/d4eceb83906e) |
+| Wed, 04 Feb 2026 07:20:23 GMT | Post-Exploitation Toolbox: 25 Commands from Foothold to Domain Admin Mastery | Very Lazy Tech | [Read More](https://medium.com/p/1bef70bded9c) |
+| Wed, 04 Feb 2026 07:19:21 GMT | Who is the Largest Surveillance Camera Distribution Company? | Doris William | [Read More](https://medium.com/p/e6c7969306d3) |
+| Wed, 04 Feb 2026 07:19:08 GMT | #56 rank on portswigger labs | Rahul | [Read More](https://medium.com/p/0e4e899b955b) |
+| Wed, 04 Feb 2026 07:16:45 GMT | The Modern Anatomy of a Cyber Attack: From Zero-Days to System Vulnerabilities | Khabbab Sarker | [Read More](https://medium.com/p/7651c28fb051) |
+| Wed, 04 Feb 2026 06:55:00 GMT | I Rewrote Our Auth in Rust at 3 AM. Audits Dropped From 3 Weeks to 4 Hours | Aditya Suryawanshi | [Read More](https://medium.com/p/74edb7fd6bae) |
 | Wed, 04 Feb 2026 06:45:16 GMT | SIEM Detects. SOAR Destroys. Know the Difference. | Pushpak Sharma | [Read More](https://medium.com/p/0b96c8841c5e) |
 | Wed, 04 Feb 2026 06:42:19 GMT | When Your AI Becomes the Insider | Yaseenmd | [Read More](https://medium.com/p/e99c9fd22452) |
 | Wed, 04 Feb 2026 06:41:01 GMT | The Newest AI malware vs. 40 Years | Ram Kumar | [Read More](https://medium.com/p/2916df72e427) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Feb 2026 22:59:30 GMT | Two Ways To Heal | AfterRainWrites | [Read More](https://medium.com/p/8601a25f4cae) |
 | Tue, 03 Feb 2026 22:59:00 GMT | Beyond RSS: Why Analysts Are Looking for a Feedly Threat Intelligence Alternative | Cyber Threat Intelligence Analyst | [Read More](https://medium.com/p/9f1802a996ba) |
 | Tue, 03 Feb 2026 22:42:43 GMT | From INTERPOL to Hollywood: How Real Cybercrime Differs from TV Hacking | Travis Ray Caverhill | [Read More](https://medium.com/p/4e8114793374) |
-| Tue, 03 Feb 2026 22:34:36 GMT | The Death of the Fifty-Tab Investigation | Cyber Threat Intelligence Analyst | [Read More](https://medium.com/p/654edd48060b) |
-| Tue, 03 Feb 2026 22:30:30 GMT | Hardened Docker Images — Explained the Way I Finally Understood Them | Medha Goel | [Read More](https://medium.com/p/571d23a1da7c) |
-| Tue, 03 Feb 2026 22:26:17 GMT | The Demo - Dog Years | Julio Oña | [Read More](https://medium.com/p/d7bd7969d30f) |
-| Tue, 03 Feb 2026 22:17:50 GMT | Part 4: STIGs — The Strategist Game of Death for Cybersecurity (Defense-in-Depth Series) | Michael Wills | [Read More](https://medium.com/p/91cd553ead27) |
-| Tue, 03 Feb 2026 22:13:55 GMT | Leading Through a Major Security Incident | Michael Leigh | [Read More](https://medium.com/p/4a3c7b11f261) |
-| Tue, 03 Feb 2026 22:13:44 GMT | The Invisible Flaw: A Write-Up on Business Logic & Access Control | lightofmoon | [Read More](https://medium.com/p/efe795a4b08f) |
-| Tue, 03 Feb 2026 22:10:47 GMT | The Molting of the Claw: Why Autonomous Agents Need a Verifiable Shell | Param Chaudhari | [Read More](https://medium.com/p/06686b9e1502) |
-| Tue, 03 Feb 2026 21:56:18 GMT | The #1 Mistake Travelers Make on Public WiFi | John Sebastian | [Read More](https://medium.com/p/09da8703cc48) |
-| Tue, 03 Feb 2026 21:49:59 GMT | Types of Motherboards | Aaron DeJong | [Read More](https://medium.com/p/70eafb5ce4de) |
-| Tue, 03 Feb 2026 21:43:43 GMT | Vulnerability Analysis: Reflected XSS via React Bypass and CSP Whitelist Gadget | lightofmoon | [Read More](https://medium.com/p/f4f103050b84) |
-| Tue, 03 Feb 2026 21:40:56 GMT | CK999 Game Online: A Complete Review of Every Earning App | ABC.XZY | [Read More](https://medium.com/p/d6f93c744254) |
-| Tue, 03 Feb 2026 21:40:01 GMT | Before You Connect to Free WiFi, Read This | Alex Brooks | [Read More](https://medium.com/p/0b15048479af) |
-| Tue, 03 Feb 2026 21:29:58 GMT | When Your AI Assistant Breaks: Real Debugging Stories | Omar Antonio Díaz Peña | [Read More](https://medium.com/p/ab6afadc2f1a) |
-| Tue, 03 Feb 2026 21:19:42 GMT | The Invisible Infrastructure: Why Critical Systems Fail When Everything Looks Fine | Martin Balome | [Read More](https://medium.com/p/8b39d903939b) |
-| Tue, 03 Feb 2026 21:11:01 GMT | Optimizing NVIDIA L4 AI Processing with Quadra Video Decoding | NETINT Technologies | [Read More](https://medium.com/p/05a7fb1730e7) |
