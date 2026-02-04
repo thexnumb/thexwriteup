@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Feb 2026 08:29:39 GMT | Browser-Based mTLS Authentication with Amazon CloudFront | Vinayak Pandey | [Read More](https://medium.com/p/2fbad511fe6e) |
+| Wed, 04 Feb 2026 08:29:34 GMT | UNbreakable training — CTF ( 4.
+xo.rar) | George Alin | [Read More](https://medium.com/p/fc9b4b74d205) |
+| Wed, 04 Feb 2026 08:27:35 GMT | How to use Metasploit and Nmap to Enumerate and Scan for Vulnerabilities | The Mastermind Notes | [Read More](https://medium.com/p/be91f9d89a7b) |
+| Wed, 04 Feb 2026 08:17:57 GMT | Adversary-in-the-Middle (AiTM) Attacks: How MFA Gets Bypassed Without Being Broken | Ankita Sinha | [Read More](https://medium.com/p/c2da6128062c) |
+| Wed, 04 Feb 2026 08:15:33 GMT | Active Directory Pentesting - Offsec Proving Grounds Access Writeup | The Mastermind Notes | [Read More](https://medium.com/p/b213880e35e1) |
+| Wed, 04 Feb 2026 08:02:28 GMT | The 2026 “Deadly Duo”: Agentic AI vs. Autonomous Defense | Keyur | [Read More](https://medium.com/p/20dd8f0f7348) |
+| Wed, 04 Feb 2026 08:02:27 GMT | AntiviHow Can Antivirus Software Improve Online Privacy? | Siyanoav | [Read More](https://medium.com/p/f44289835c9b) |
+| Wed, 04 Feb 2026 08:00:31 GMT | Who Should Enroll in This Cyber security Course? | Nandithamahesh | [Read More](https://medium.com/p/edf93a2196ea) |
+| Wed, 04 Feb 2026 07:56:04 GMT | You Are Not Being Targeted, You Are Being Modeled | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/8d6d54b5359c) |
+| Wed, 04 Feb 2026 07:55:28 GMT | AI in Fraud Detection: Detecting Real-Time Financial Attacks | Majidbasharat | [Read More](https://medium.com/p/876f01f13268) |
 | Wed, 04 Feb 2026 07:43:07 GMT | 401 Unauthorized Error Explained: Causes and How to Fix It | Smit Pipaliya | [Read More](https://medium.com/p/4debb0695a2d) |
+| Wed, 04 Feb 2026 07:39:41 GMT | Most Cybersecurity Careers Won’t Survive the AI Era — Here’s the Filter | EINITIAL24 | [Read More](https://medium.com/p/e4d33b9f8eec) |
 | Wed, 04 Feb 2026 07:39:35 GMT | Weaponizing Words: Advanced Wordlist Generation Inside Burp Suite | ghostyjoe | [Read More](https://medium.com/p/035fd35967f2) |
 | Wed, 04 Feb 2026 07:36:26 GMT | Top 20 IT Companies in Nashik (2026 Guide): Top Firms, Jobs & Salaries | esseindiablog | [Read More](https://medium.com/p/6cea4748700a) |
 | Wed, 04 Feb 2026 07:32:50 GMT | Why I Built My First WordPress Plugin: Closing the “Invisible Backdoor” | Rakib | [Read More](https://medium.com/p/2fa9a6897064) |
@@ -101,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Feb 2026 00:01:01 GMT | John the Ripper: Complete Guide to Cracking for Bug Bounty and Auditing | JPablo13 | [Read More](https://medium.com/p/9fbfcb34f0de) |
 | Tue, 03 Feb 2026 23:41:10 GMT | Securing Intelligence: Why AI Security Will Define the Future of Trust | Cyber-AppSec | [Read More](https://medium.com/p/f4e48aeca681) |
 | Tue, 03 Feb 2026 23:40:57 GMT | What If SSO Logged You In Without Checking Your Password? | Sujaykumar | [Read More](https://medium.com/p/beb3af693a2b) |
-| Tue, 03 Feb 2026 23:39:39 GMT | Jobert Abma — A Determined Black Man & A $50,000 Bounty — Chains, Coke & Doubles | Justas_b_2 | [Read More](https://medium.com/p/c40711a6dd73) |
-| Tue, 03 Feb 2026 23:37:13 GMT | When Trust Backfires: Inside the Sophisticated Supply-Chain Hack of Notepad++ | Aaron | [Read More](https://medium.com/p/53a951ad0820) |
-| Tue, 03 Feb 2026 23:36:13 GMT | Vulnerability Data Enrichment for CVE Records: 256 CNAs on the Enrichment Recognition List for… | CVE Program Blog | [Read More](https://medium.com/p/e4178607b17c) |
-| Tue, 03 Feb 2026 23:27:19 GMT | Discovering PPL Protection in Windows Processes | S12 - 0x12Dark Development | [Read More](https://medium.com/p/2328ba4608e5) |
-| Tue, 03 Feb 2026 23:26:00 GMT | Diving Into Web Development: What I’d Do Differently If I Were Starting Today | Miss Tarus | [Read More](https://medium.com/p/e94526e4129a) |
-| Tue, 03 Feb 2026 23:14:49 GMT | Flask Cookies: How Signed ≠ Secure | Eyad Eltaher | [Read More](https://medium.com/p/0b9cf67e043e) |
-| Tue, 03 Feb 2026 23:13:58 GMT | SOC Analyst in 2026: Reality & Career Guide | sm0q | [Read More](https://medium.com/p/6daec70f9c5c) |
-| Tue, 03 Feb 2026 23:11:54 GMT | Is Your Format-Preserving Encryption Quantum-Safe? | Leslie Gutschow | [Read More](https://medium.com/p/ea5d593280a1) |
-| Tue, 03 Feb 2026 22:59:30 GMT | Two Ways To Heal | AfterRainWrites | [Read More](https://medium.com/p/8601a25f4cae) |
-| Tue, 03 Feb 2026 22:59:00 GMT | Beyond RSS: Why Analysts Are Looking for a Feedly Threat Intelligence Alternative | Cyber Threat Intelligence Analyst | [Read More](https://medium.com/p/9f1802a996ba) |
-| Tue, 03 Feb 2026 22:42:43 GMT | From INTERPOL to Hollywood: How Real Cybercrime Differs from TV Hacking | Travis Ray Caverhill | [Read More](https://medium.com/p/4e8114793374) |
