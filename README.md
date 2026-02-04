@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Feb 2026 11:31:01 GMT | n8n Python Code Node: The Sandbox Escape Wake-Up Call | Quaxel | [Read More](https://medium.com/p/008cb7989305) |
+| Wed, 04 Feb 2026 11:31:01 GMT | Frontend Security in React: The Blind Spot of Modern Apps | Sparkle Web | [Read More](https://medium.com/p/59a835a7bca8) |
+| Wed, 04 Feb 2026 11:28:51 GMT | Everything You Need to Know About Kali GUI Linux by Techlatest.net | TechLatest.Net | [Read More](https://medium.com/p/40d83da31ce4) |
+| Wed, 04 Feb 2026 11:24:23 GMT | VPS for Gaming: The Ultimate Guide | HostNOC | [Read More](https://medium.com/p/e59b8d8ba66f) |
+| Wed, 04 Feb 2026 11:15:02 GMT | TryHackMe OSINT Level 2 | Cyber-Rat | [Read More](https://medium.com/p/3f433b3101c4) |
+| Wed, 04 Feb 2026 11:13:50 GMT | Penetration Testing for Small Businesses: Why Attackers Are Targeting SMEs | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/b74ec4fb7f6f) |
+| Wed, 04 Feb 2026 11:09:42 GMT | Vulnerability Intelligence Report 2025 | Loginsoft | [Read More](https://medium.com/p/eed3f2e9eb56) |
+| Wed, 04 Feb 2026 11:07:33 GMT | Why 60% of Family Businesses Fail: It’s Not Profits, It’s Passwords | InsureYouKnow | [Read More](https://medium.com/p/1d7a65a18fba) |
+| Wed, 04 Feb 2026 11:03:37 GMT | Artificial Intelligence, Great-Power Competition and National Security. | Marco Mizzau | [Read More](https://medium.com/p/7713bca8ed2b) |
+| Wed, 04 Feb 2026 11:01:34 GMT | Let’s talk so we don’t burst! | Kafui Agormeda-Tetteh | [Read More](https://medium.com/p/7391aef9a951) |
+| Wed, 04 Feb 2026 11:01:01 GMT | The Tiny Defaults That Run Your Life: Auto-Renewals, Checkboxes, and the Quiet Costs | James Kuhman | [Read More](https://medium.com/p/cf24714114fe) |
+| Wed, 04 Feb 2026 10:58:58 GMT | Complete Guide to Cybersecurity Consulting in Idaho | Microtechsystems | [Read More](https://medium.com/p/5d46ea95e33b) |
+| Wed, 04 Feb 2026 10:57:12 GMT | Snow-Crash-write-up [level 14] | B.R.O.L.Y | [Read More](https://medium.com/p/c7fcd9aaa20d) |
+| Wed, 04 Feb 2026 10:56:06 GMT | Garena APK | Game4u | [Read More](https://medium.com/p/9c6a3580bf3c) |
+| Wed, 04 Feb 2026 10:53:35 GMT | ARM Protostar Stack5 Walkthrough | Cyb3rCr0wCC | [Read More](https://medium.com/p/2ba83914b22d) |
+| Wed, 04 Feb 2026 10:53:26 GMT | The Evolution of Threat Intelligence: How AI is Illuminating the Dark Web’s Hidden Threats | Naman Vaishnav | [Read More](https://medium.com/p/15a3a0d75b6d) |
+| Wed, 04 Feb 2026 10:52:52 GMT | ATTACKS | Hooria Hashmi | [Read More](https://medium.com/p/484a59381fa3) |
+| Wed, 04 Feb 2026 10:50:44 GMT | AI in the SOC Only Earns Trust When It Can Show Receipts | Graylog | [Read More](https://medium.com/p/071b4dc09404) |
+| Wed, 04 Feb 2026 10:48:48 GMT | Why Narratives Spread Faster Than Evidence | Marilyn Starkloff | [Read More](https://medium.com/p/1479dae9813d) |
+| Wed, 04 Feb 2026 10:45:58 GMT | Protecting Web Applications with Keycloak | Torin | [Read More](https://medium.com/p/d5b05492fc40) |
+| Wed, 04 Feb 2026 10:42:58 GMT | Running DNS Is Easy. Trusting It Is Not. | Siddesh Bathi | [Read More](https://medium.com/p/e5eec77b2d50) |
+| Wed, 04 Feb 2026 10:42:01 GMT | How Network Ports Work and Why They Matter in Cybersecurity | Abhinsubej | [Read More](https://medium.com/p/bb9651de4cf8) |
+| Wed, 04 Feb 2026 10:39:35 GMT | Responder ile NTLM Hash Yakalama ve Kırma | İremDamar | [Read More](https://medium.com/p/2c686c978663) |
 | Wed, 04 Feb 2026 10:38:29 GMT | Can Your Business Handle Emerging Cyberattacks? Professional Protection Options | Managed IT Services | [Read More](https://medium.com/p/3968d405e1ca) |
 | Wed, 04 Feb 2026 10:38:22 GMT | Compliance-First Data Protection with NAKIVO | NAKIVO | [Read More](https://medium.com/p/8ca8ba1fa28d) |
 | Wed, 04 Feb 2026 10:36:42 GMT | What Are The 5 Types Of Cyber Security | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/4049a30af4f8) |
@@ -90,26 +113,3 @@ xo.rar) | George Alin | [Read More](https://medium.com/p/fc9b4b74d205) |
 | Wed, 04 Feb 2026 06:30:26 GMT | Step Into the World of Cyber Security with Quality Thought! | Molletibalu | [Read More](https://medium.com/p/9d45f6897d12) |
 | Wed, 04 Feb 2026 06:29:12 GMT | IT Risk Management Market Analysis: Top Vendors and Emerging Trends | Michel mathew | [Read More](https://medium.com/p/c90ba2257fe4) |
 | Wed, 04 Feb 2026 06:20:29 GMT | The Role of Computer Vision in Transforming Security | Daisy Grace | [Read More](https://medium.com/p/edb38f1dee9e) |
-| Wed, 04 Feb 2026 06:12:13 GMT | How to Prepare for the CISA Exam Effectively | Irfan Sharief | [Read More](https://medium.com/p/465acc28ef58) |
-| Wed, 04 Feb 2026 06:06:04 GMT | How to set Maven/ Gradle user password globally and Why | Manish Dixit | [Read More](https://medium.com/p/cb460bb1c86d) |
-| Wed, 04 Feb 2026 05:49:25 GMT | One-Prompt AI-Powered Black-Box Kubernetes Penetration Test | Andrey Pautov | [Read More](https://medium.com/p/c75a4747960e) |
-| Wed, 04 Feb 2026 05:47:44 GMT | Anthropic Just Spooked the Entire Software Industry, Here’s What Actually Matters, | Cogni Down Under | [Read More](https://medium.com/p/286cf35df2d8) |
-| Wed, 04 Feb 2026 05:36:43 GMT | How Teams Actually Stop Developers from Leaking Secrets (Without Trusting Them) | Muneeb Islam | [Read More](https://medium.com/p/b38c2e18e39c) |
-| Wed, 04 Feb 2026 05:20:14 GMT | License Bypass via Binary Patching | Abhirup Konwar | [Read More](https://medium.com/p/b3724c961dd6) |
-| Wed, 04 Feb 2026 05:18:23 GMT | Learning Red Team: Command Injection on DVWA | Narathama Firmansyah Putra | [Read More](https://medium.com/p/a08420429f91) |
-| Wed, 04 Feb 2026 05:04:28 GMT | Are Your Docker Containers a Ticking Time Bomb? | Alan Varghese | [Read More](https://medium.com/p/59798bc6ad98) |
-| Wed, 04 Feb 2026 05:01:53 GMT | Future Technology Trends 2026: What to Learn Now for High‑Paying Job | Niharika P.N | [Read More](https://medium.com/p/fa4b2f8a1f5c) |
-| Wed, 04 Feb 2026 05:00:23 GMT | Infrastructure Audits: Identifying Silent Exposure Across Systems | Chitrakshi | [Read More](https://medium.com/p/cf29d1a3793d) |
-| Wed, 04 Feb 2026 04:45:04 GMT | Unlocking The Full Potential of Indian Women Tech Talent - Ascendion | Ascendion | [Read More](https://medium.com/p/2851eb05cd3c) |
-| Wed, 04 Feb 2026 04:41:03 GMT | Hardening Android in 2026: The Ultimate Privacy & Security Checklist | Matteo Zanetti | [Read More](https://medium.com/p/dc2ad04a31f1) |
-| Wed, 04 Feb 2026 04:32:11 GMT | Governance, Risk, and Compliance (GRC) Platform Market Trends and Future Outlook | Gauri Kale | [Read More](https://medium.com/p/668bb74ab9d7) |
-| Wed, 04 Feb 2026 04:31:02 GMT | A Simple Chain That Leads to “Android App” Account Takeover via Intent Hijacking | November Rain | [Read More](https://medium.com/p/fd266144ebd4) |
-| Wed, 04 Feb 2026 04:27:48 GMT | How a Password Reset Email Became a Phishing Link | Harshavardhanreddy | [Read More](https://medium.com/p/26a0f125b3a1) |
-| Wed, 04 Feb 2026 04:19:28 GMT | SQL Injection: Anatomy of a Breach (And How I Prevent It) | Adryan Prawira | [Read More](https://medium.com/p/c557064384ff) |
-| Wed, 04 Feb 2026 04:11:32 GMT | Why Cyber Security Companies Are Essential for Protecting Business Data | Lexington Computer Support | [Read More](https://medium.com/p/5675cbe320c4) |
-| Wed, 04 Feb 2026 04:11:00 GMT | O-Prelude | Ray Podder | [Read More](https://medium.com/p/e61b23e220cc) |
-| Wed, 04 Feb 2026 04:09:49 GMT | Malvertising How Cybercriminals Exploit Trust to Steal User Data | Bervice | [Read More](https://medium.com/p/1cbed6bd41e5) |
-| Wed, 04 Feb 2026 04:01:06 GMT | Zero to eJPT v2 certified in 14 Days. (2026 Edition) | Luke Maharaj | [Read More](https://medium.com/p/aa7d97e54c07) |
-| Wed, 04 Feb 2026 04:00:14 GMT | AI agents are forming a society… and they’re inventing and speaking a language humans can’t… | Siva Desetti | [Read More](https://medium.com/p/8c3251948fb9) |
-| Wed, 04 Feb 2026 03:52:41 GMT | Why Credential Replay Attacks Keep Failing — When Passwords Aren’t Just Text | Rainbow Secure | [Read More](https://medium.com/p/3463410a1a2b) |
-| Wed, 04 Feb 2026 03:47:57 GMT | Nully Cybersecurity CTF — Flag 1: Mail Server Root | IO | [Read More](https://medium.com/p/abfdc43a2330) |
