@@ -12,6 +12,32 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Feb 2026 17:15:36 GMT | Penetration Testing and Ethical Hacking: A Framework for Proactive Cyber Defense | Mai Tran | [Read More](https://medium.com/p/368e6a2e8628) |
+| Wed, 04 Feb 2026 17:15:11 GMT | Linux Password Rules Explained -Where Linux Decides How Strong Your Password Really Is | Amandogra | [Read More](https://medium.com/p/7783072361cd) |
+| Wed, 04 Feb 2026 17:14:22 GMT | Shadow AI Is Everywhere: Meet Julius, the Open-Source LLM Fingerprinting Tool | Nathan Sportsman | [Read More](https://medium.com/p/c2ba7fd739a2) |
+| Wed, 04 Feb 2026 17:14:16 GMT | Trump’s cyber Chief uploaded sensitive files to Public ChatGPT | Nitin Garg | [Read More](https://medium.com/p/731b2300ca52) |
+| Wed, 04 Feb 2026 17:04:03 GMT | Opinion — Les plateformes de conformité | Patrick Boucher | [Read More](https://medium.com/p/fb4863d6d5fa) |
+| Wed, 04 Feb 2026 17:03:15 GMT | Mastering Burp Suite Repeater: How Real Bug Bounty Findings Are Proven | ghostyjoe | [Read More](https://medium.com/p/059dc5353be1) |
+| Wed, 04 Feb 2026 17:01:59 GMT | Why Your CFO Doesn’t Care About Your Firewall (And How to Change That) | Gaia Guadagnoli | [Read More](https://medium.com/p/c2276fa99754) |
+| Wed, 04 Feb 2026 17:01:16 GMT | A ‘Password’ Is Actually a Shared Secret | Rabail Zaheer | [Read More](https://medium.com/p/1e87bbd53381) |
+| Wed, 04 Feb 2026 16:59:04 GMT | RingZeroCTF Coding Challenge 2 [Ask Your Grandpa] Writeup | Devansh Patel | [Read More](https://medium.com/p/55bb3ed50b6a) |
+| Wed, 04 Feb 2026 16:58:01 GMT | Adversarial AI Digest — January 2026 | Tal Eliyahu | [Read More](https://medium.com/p/e6bf7abf88e6) |
+| Wed, 04 Feb 2026 16:56:58 GMT | Cyber Briefing: 2026.02.04 | CyberMaterial | [Read More](https://medium.com/p/53454e674c85) |
+| Wed, 04 Feb 2026 16:55:13 GMT | Secure Your Node.js/Express | Vaidikthakkar | [Read More](https://medium.com/p/e48580e9c904) |
+| Wed, 04 Feb 2026 16:53:36 GMT | Why Log-Centric Thinking Fails in OT | Muhammad Ali Khan | [Read More](https://medium.com/p/47058f7e654a) |
+| Wed, 04 Feb 2026 16:52:20 GMT | Putin’s Bears Don’t Hibernate… And They’re Probably Snooping in Your Network | Suyog Jung Karki | [Read More](https://medium.com/p/51a1321b4e33) |
+| Wed, 04 Feb 2026 16:43:17 GMT | Scrambled Wednesday: How Rainbow Secure Stops OCR & Screen Capture Attacks | Dr. Shashi Karhail | [Read More](https://medium.com/p/50d531fac9d6) |
+| Wed, 04 Feb 2026 16:40:00 GMT | CodePartTwo HackTheBox Machine | Enes Özkırdeniz | [Read More](https://medium.com/p/c62c43c27c26) |
+| Wed, 04 Feb 2026 16:39:44 GMT | A Penetration Test Is Like Surgery | Landry French | [Read More](https://medium.com/p/e185823c9492) |
+| Wed, 04 Feb 2026 16:38:30 GMT | Reactive IT Support Is Costing You More Than You Think | Michael Intravartolo | [Read More](https://medium.com/p/bd26264c1dee) |
+| Wed, 04 Feb 2026 16:33:42 GMT | Lab Report: Blind SQL Injection with Conditional Errors | Taysir zeituni | [Read More](https://medium.com/p/f7e007cb1417) |
+| Wed, 04 Feb 2026 16:30:29 GMT | Understanding Cyber Security Services: Protecting Your Business in a Digital World | Drona Cyber Solutions | [Read More](https://medium.com/p/dda321093861) |
+| Wed, 04 Feb 2026 16:26:34 GMT | JWT for Dummies | Shivam Bathla | [Read More](https://medium.com/p/79a381244ce8) |
+| Wed, 04 Feb 2026 16:19:41 GMT | Cybertalents Silly Doors Challenge - Full Web Security Write‑Up | Z3DX | [Read More](https://medium.com/p/34186616240e) |
+| Wed, 04 Feb 2026 16:18:32 GMT | uGame Challenge by Cypertalants Easy Web Security Write-Up | Z3DX | [Read More](https://medium.com/p/91caf1e36fb1) |
+| Wed, 04 Feb 2026 16:09:31 GMT | Give Trust First (But Not Blindly) | One Awakening | [Read More](https://medium.com/p/d7d1561a4955) |
+| Wed, 04 Feb 2026 16:07:14 GMT | What You Need to Know About Ethical Hacking | Bluecodesecurity | [Read More](https://medium.com/p/64372eb5afb9) |
+| Wed, 04 Feb 2026 16:05:27 GMT | When AI Becomes a Snitch: Understanding Sensitive Information Disclosure | Kaynat Muzaffar | [Read More](https://medium.com/p/db66de207b73) |
 | Wed, 04 Feb 2026 16:00:52 GMT | Can Notepad++ Be Hacked? How MSPs Identify Real vs Fake Threats | SafeAeon Inc. | [Read More](https://medium.com/p/c7ddccc474a4) |
 | Wed, 04 Feb 2026 15:59:02 GMT | AI and the Changing Game of Bug Bounties | Donovan_Distracted | [Read More](https://medium.com/p/efd853da9425) |
 | Wed, 04 Feb 2026 15:58:31 GMT | Pivot & Double Pivot With Ligolo-ng | Alts | [Read More](https://medium.com/p/df532bf213ea) |
@@ -86,29 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Feb 2026 12:22:40 GMT | No CSRF Protection: How a Logged-In User’s Email Can Be Changed Silently | Istiyak | [Read More](https://medium.com/p/70cfb6599763) |
 | Wed, 04 Feb 2026 12:20:41 GMT | How to secure your firebase app | Architect | [Read More](https://medium.com/p/0fb8f466a070) |
 | Wed, 04 Feb 2026 12:17:13 GMT | 7 Layers of Network Security: A Complete Guide to Protecting Modern Systems | Shalu | [Read More](https://medium.com/p/0ccc70bb53f1) |
-| Wed, 04 Feb 2026 12:15:22 GMT | ️‍♂️ Anomaly Detection in Web Requests: Catching the Invisible | Esra Kayhan | [Read More](https://medium.com/p/e4b5848f458d) |
-| Wed, 04 Feb 2026 12:08:56 GMT | Why Access Control Fails Long Before the Code Does | Vidya Penumarthi | [Read More](https://medium.com/p/73e7b5fdfddf) |
-| Wed, 04 Feb 2026 12:05:45 GMT | The Psychology Behind Security Seals: Why Visible Tamper Protection Stops Cargo Theft | Michael | [Read More](https://medium.com/p/61dd0759f166) |
-| Wed, 04 Feb 2026 12:04:51 GMT | Why Microsoft Is Phasing Out “One Mailbox for Everyone” — And Why Businesses Must Pay Attention | Zefai Insights | [Read More](https://medium.com/p/8576c528bc3a) |
-| Wed, 04 Feb 2026 12:00:44 GMT | The cost of speaking | unsaidhours | [Read More](https://medium.com/p/74b2a0ee91ab) |
-| Wed, 04 Feb 2026 11:57:26 GMT | Implement sidecar-less approach for service mesh with Istio | Donald Le | [Read More](https://medium.com/p/e045d1b6d623) |
-| Wed, 04 Feb 2026 11:56:40 GMT | Microsoft Warns: Python Infostealers Are Expanding to macOS Through Fake Ads and Installers | Germano Costi | [Read More](https://medium.com/p/eda30b224507) |
-| Wed, 04 Feb 2026 11:48:53 GMT | Why Smart Businesses Hire N8N Developers to Build Scalable Workflow Automation | n8ndevelopers | [Read More](https://medium.com/p/08bb077d372a) |
-| Wed, 04 Feb 2026 11:41:19 GMT | Tokens, Sessions, Cookies & JWTs: Why Authentication Feels So Confusing (Until It Doesn’t) | Rajat Sharma | [Read More](https://medium.com/p/78ad4549240b) |
-| Wed, 04 Feb 2026 11:31:01 GMT | n8n Python Code Node: The Sandbox Escape Wake-Up Call | Quaxel | [Read More](https://medium.com/p/008cb7989305) |
-| Wed, 04 Feb 2026 11:31:01 GMT | Frontend Security in React: The Blind Spot of Modern Apps | Sparkle Web | [Read More](https://medium.com/p/59a835a7bca8) |
-| Wed, 04 Feb 2026 11:28:51 GMT | Everything You Need to Know About Kali GUI Linux by Techlatest.net | TechLatest.Net | [Read More](https://medium.com/p/40d83da31ce4) |
-| Wed, 04 Feb 2026 11:24:23 GMT | VPS for Gaming: The Ultimate Guide | HostNOC | [Read More](https://medium.com/p/e59b8d8ba66f) |
-| Wed, 04 Feb 2026 11:15:02 GMT | TryHackMe OSINT Level 2 | Cyber-Rat | [Read More](https://medium.com/p/3f433b3101c4) |
-| Wed, 04 Feb 2026 11:13:50 GMT | Penetration Testing for Small Businesses: Why Attackers Are Targeting SMEs | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/b74ec4fb7f6f) |
-| Wed, 04 Feb 2026 11:09:42 GMT | Vulnerability Intelligence Report 2025 | Loginsoft | [Read More](https://medium.com/p/eed3f2e9eb56) |
-| Wed, 04 Feb 2026 11:07:33 GMT | Why 60% of Family Businesses Fail: It’s Not Profits, It’s Passwords | InsureYouKnow | [Read More](https://medium.com/p/1d7a65a18fba) |
-| Wed, 04 Feb 2026 11:03:37 GMT | Artificial Intelligence, Great-Power Competition and National Security. | Marco Mizzau | [Read More](https://medium.com/p/7713bca8ed2b) |
-| Wed, 04 Feb 2026 11:01:34 GMT | Let’s talk so we don’t burst! | Kafui Agormeda-Tetteh | [Read More](https://medium.com/p/7391aef9a951) |
-| Wed, 04 Feb 2026 11:01:01 GMT | The Tiny Defaults That Run Your Life: Auto-Renewals, Checkboxes, and the Quiet Costs | James Kuhman | [Read More](https://medium.com/p/cf24714114fe) |
-| Wed, 04 Feb 2026 10:58:58 GMT | Complete Guide to Cybersecurity Consulting in Idaho | Microtechsystems | [Read More](https://medium.com/p/5d46ea95e33b) |
-| Wed, 04 Feb 2026 10:57:12 GMT | Snow-Crash-write-up [level 14] | B.R.O.L.Y | [Read More](https://medium.com/p/c7fcd9aaa20d) |
-| Wed, 04 Feb 2026 10:56:06 GMT | Garena APK | Game4u | [Read More](https://medium.com/p/9c6a3580bf3c) |
-| Wed, 04 Feb 2026 10:53:35 GMT | ARM Protostar Stack5 Walkthrough | Cyb3rCr0wCC | [Read More](https://medium.com/p/2ba83914b22d) |
-| Wed, 04 Feb 2026 10:53:26 GMT | The Evolution of Threat Intelligence: How AI is Illuminating the Dark Web’s Hidden Threats | Naman Vaishnav | [Read More](https://medium.com/p/15a3a0d75b6d) |
-| Wed, 04 Feb 2026 10:52:52 GMT | ATTACKS | Hooria Hashmi | [Read More](https://medium.com/p/484a59381fa3) |
