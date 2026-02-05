@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Feb 2026 04:18:15 GMT | The Art of Reconnaissance Part 1 : How Hackers Find Vulnerabilities Before You Do | cat0x01 | [Read More](https://medium.com/p/1341a39c71ba) |
+| Thu, 05 Feb 2026 04:14:50 GMT | The Secret Life of AWS: The Vault (AWS Secrets Manager) | Aaron Rose | [Read More](https://medium.com/p/9d93fd6fa91d) |
+| Thu, 05 Feb 2026 03:41:28 GMT | ⭐ SOC274 — Palo Alto Networks PAN-OS Command Injection Vulnerability Exploitation (CVE-2024–3400) | Owais Ali Khan | [Read More](https://medium.com/p/72aa6a1a9758) |
+| Thu, 05 Feb 2026 03:41:00 GMT | How I Exploited a Secondary Context Bug to Trigger SSRF & Path Traversal in Backend API Calls | Bryan Matthew | [Read More](https://medium.com/p/f1023cac5384) |
+| Thu, 05 Feb 2026 03:32:15 GMT | How AI Is Transforming Cybersecurity: Smarter Defense in a Digital World | Maxatlasofficial | [Read More](https://medium.com/p/a0e63385820b) |
+| Thu, 05 Feb 2026 03:31:01 GMT | The Instagram ‘Ghost Reset’: 17.5 Million Account | Manubhav Sharma | [Read More](https://medium.com/p/d80d2affcbdc) |
+| Thu, 05 Feb 2026 03:31:01 GMT | 7 Tips for Effective Non-Blocking Code in Node.js | Arunangshu Das | [Read More](https://medium.com/p/6607f20be585) |
+| Thu, 05 Feb 2026 03:31:01 GMT | The RSVP Trap: When a ‘Party Invitation’ Becomes a Gateway for Hackers | Deven Chhajed | [Read More](https://medium.com/p/e019c0581d70) |
+| Thu, 05 Feb 2026 03:31:01 GMT | Kaspersky CTF — Forensic — Poor Investment | Faishol Hakim | [Read More](https://medium.com/p/ffd53629dbc0) |
+| Thu, 05 Feb 2026 03:25:28 GMT | Techfra Solutions : Best CCTV Company in UAE and CCTV Approval in Ajman Expert | techfra solutions | [Read More](https://medium.com/p/8af21e1e11cb) |
+| Thu, 05 Feb 2026 03:02:52 GMT | The 2026 Epstein Data Leak: A Wake-Up Call for Digital Integrity and AI Ethics | Faris Dedi Setiawan | [Read More](https://medium.com/p/bab37feeba35) |
+| Thu, 05 Feb 2026 03:00:52 GMT | The Day I Realized Writing Clean Code Doesn’t Matter in Production | The Dev Notebook | [Read More](https://medium.com/p/5c8aee1ad715) |
+| Thu, 05 Feb 2026 02:47:36 GMT | Why Server-Seed Commitments Aren’t Fully Trust less ? | Rishi | [Read More](https://medium.com/p/647e13ab1c91) |
+| Thu, 05 Feb 2026 02:42:47 GMT | The Insider Threat Problem No One Likes to Talk About | cyber security threat ai | [Read More](https://medium.com/p/26e43f7cf520) |
+| Thu, 05 Feb 2026 02:41:01 GMT | Intermediate Nmap Walkthrough (TryHackMe) | Crystalcascade14 | [Read More](https://medium.com/p/fb45c4a16573) |
+| Thu, 05 Feb 2026 02:22:21 GMT | HOW THE WEB WORKS – TryHackMe Module. Room 1: DNS In Detail | Raymond Ebonine | [Read More](https://medium.com/p/4f570476fa06) |
 | Thu, 05 Feb 2026 02:11:34 GMT | The Boulder at the Apex | Dusty Thornton | [Read More](https://medium.com/p/b62e6cf00011) |
 | Thu, 05 Feb 2026 02:10:46 GMT | Building Cyber News Hub: One Dashboard to Replace 60+ Browser Tabs | CyberAnn | [Read More](https://medium.com/p/4142fd3e755e) |
 | Thu, 05 Feb 2026 02:10:44 GMT | Why Traditional Bot Detection Is No Longer Enough for Modern Web Fraud | Zk | [Read More](https://medium.com/p/be33821aa170) |
@@ -97,19 +113,3 @@ I wanted to join an organization i was not part of , by adding a new user and…
 | Wed, 04 Feb 2026 17:51:00 GMT | 11 Steps to Keep Your Business Safe(r) from Hackers | Kevin Gemeroy - Dynamic Computing | [Read More](https://medium.com/p/57f8e27c64aa) |
 | Wed, 04 Feb 2026 17:48:25 GMT | The Human Firewall: Why Social Engineering is Still the Most Dangerous Hack in 2026 | Axoloth | [Read More](https://medium.com/p/c1a3ddf511e6) |
 | Wed, 04 Feb 2026 17:41:48 GMT | Cheat Sheet For Quick find Scams in web3 | MAYURSINH ZALA | [Read More](https://medium.com/p/dca169c00010) |
-| Wed, 04 Feb 2026 17:37:28 GMT | Global Elite Exposed: Massive Epstein File Release Triggers Resignations and Royal Scandals | ᴍ ᴀ ʜ ᴇ ᴇ ʀ ♡ | [Read More](https://medium.com/p/28668ac1be3a) |
-| Wed, 04 Feb 2026 17:36:01 GMT | DISTL: A brief overview | Hobin Rood | [Read More](https://medium.com/p/4d7674f15667) |
-| Wed, 04 Feb 2026 17:33:23 GMT | Why Security Keys Are the Smartest Investment for Your Digital Security | Alexandru Andrei Colacel | [Read More](https://medium.com/p/6f77f596a2f8) |
-| Wed, 04 Feb 2026 17:29:51 GMT | PG Lab Access: Master Key | Nicolas Garcia | [Read More](https://medium.com/p/ab4ce97fb3f4) |
-| Wed, 04 Feb 2026 17:26:51 GMT | Subnetting for Beginners: How to Divide Networks Step by Step | Diego Michel | [Read More](https://medium.com/p/9c3a8ce29e58) |
-| Wed, 04 Feb 2026 17:19:18 GMT | I Almost Fell for a “USA Today Press Release” Email — Here’s Why You Shouldn’t | Rahul Gaur | [Read More](https://medium.com/p/0b9146618999) |
-| Wed, 04 Feb 2026 17:15:36 GMT | Penetration Testing and Ethical Hacking: A Framework for Proactive Cyber Defense | Mai Tran | [Read More](https://medium.com/p/368e6a2e8628) |
-| Wed, 04 Feb 2026 17:15:11 GMT | Linux Password Rules Explained -Where Linux Decides How Strong Your Password Really Is | Amandogra | [Read More](https://medium.com/p/7783072361cd) |
-| Wed, 04 Feb 2026 17:14:22 GMT | Shadow AI Is Everywhere: Meet Julius, the Open-Source LLM Fingerprinting Tool | Nathan Sportsman | [Read More](https://medium.com/p/c2ba7fd739a2) |
-| Wed, 04 Feb 2026 17:14:16 GMT | Trump’s cyber Chief uploaded sensitive files to Public ChatGPT | Nitin Garg | [Read More](https://medium.com/p/731b2300ca52) |
-| Wed, 04 Feb 2026 17:04:03 GMT | Opinion — Les plateformes de conformité | Patrick Boucher | [Read More](https://medium.com/p/fb4863d6d5fa) |
-| Wed, 04 Feb 2026 17:03:15 GMT | Mastering Burp Suite Repeater: How Real Bug Bounty Findings Are Proven | ghostyjoe | [Read More](https://medium.com/p/059dc5353be1) |
-| Wed, 04 Feb 2026 17:01:59 GMT | Why Your CFO Doesn’t Care About Your Firewall (And How to Change That) | Gaia Guadagnoli | [Read More](https://medium.com/p/c2276fa99754) |
-| Wed, 04 Feb 2026 17:01:16 GMT | A ‘Password’ Is Actually a Shared Secret | Rabail Zaheer | [Read More](https://medium.com/p/1e87bbd53381) |
-| Wed, 04 Feb 2026 16:59:04 GMT | RingZeroCTF Coding Challenge 2 [Ask Your Grandpa] Writeup | Devansh Patel | [Read More](https://medium.com/p/55bb3ed50b6a) |
-| Wed, 04 Feb 2026 16:58:01 GMT | Adversarial AI Digest — January 2026 | Tal Eliyahu | [Read More](https://medium.com/p/e6bf7abf88e6) |
