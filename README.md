@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Feb 2026 11:03:38 GMT | BYOA: Bring Your Own AI | xxBugxx | [Read More](https://medium.com/p/0c9bc880b17e) |
+| Thu, 05 Feb 2026 10:56:02 GMT | Why Your Flutter App Isn’t as Secure as You Think | Omar Alshyokh | [Read More](https://medium.com/p/cb2b32f25790) |
+| Thu, 05 Feb 2026 10:54:01 GMT | How I Think About Reducing Risk as a Cybersecurity Engineer | M Umar Akhlaq | [Read More](https://medium.com/p/a50eb8be4701) |
+| Thu, 05 Feb 2026 10:48:58 GMT | Why You Need Both Agent Security and Agent Safety | Alessandro Pignati | [Read More](https://medium.com/p/81af8fe76636) |
+| Thu, 05 Feb 2026 10:41:47 GMT | Chaining Vulnerabilities: A Comprehensive Walkthrough of TryHackMe’s “Sequence” | gh0st | [Read More](https://medium.com/p/bb06866e3b84) |
+| Thu, 05 Feb 2026 10:37:59 GMT | Best Practices for Implementing AI-Based Industrial Surveillance in 2026 | Dolon Ghosh | [Read More](https://medium.com/p/e6b68ab91114) |
+| Thu, 05 Feb 2026 10:36:38 GMT | What Actually Happens When You Call a System Call (syscall) in Linux? | Anurag Vishwakarma | [Read More](https://medium.com/p/ceb3e25e7321) |
+| Thu, 05 Feb 2026 10:36:21 GMT | We Accidentally Built an Internet the Machines Don’t Need Us For. | Tanmay Bansal | [Read More](https://medium.com/p/b5be95a5e188) |
+| Thu, 05 Feb 2026 10:27:41 GMT | AntiIs Antivirus Software Necessary for WhatsApp Security? | Siyanoav | [Read More](https://medium.com/p/483bfca25f30) |
+| Thu, 05 Feb 2026 10:20:01 GMT | Security Excellence in Vaughan: GuardsOn Canada’s Commitment to Safety & Service | Grdsnscrt | [Read More](https://medium.com/p/a10583077969) |
+| Thu, 05 Feb 2026 10:19:44 GMT | Healthcare Trends 2026–2028: The Margin Math Has Changed — Logistics, Distributed Networks, and… | Gaurav Agarwaal | [Read More](https://medium.com/p/fa57c1171948) |
+| Thu, 05 Feb 2026 10:17:05 GMT | OSI Layers & Cyber Attacks: Understanding Security from Physical Cables to Web Applications | EINITIAL24 | [Read More](https://medium.com/p/94b59a535a96) |
+| Thu, 05 Feb 2026 10:17:04 GMT | [Automated] ไม่ใช่ลูกค้าที่ไม่เห็นค่า แต่เป็นเราที่ไม่ลงมือทำ | Tipticha Chanhom | [Read More](https://medium.com/p/a08771437780) |
+| Thu, 05 Feb 2026 10:14:09 GMT | If AI Can Always Be Tricked, Why Bother Testing It? | Rachana Gupta | [Read More](https://medium.com/p/d244ae03adc5) |
+| Thu, 05 Feb 2026 10:12:05 GMT | Hierarchies Without Leaks: Enforcing Org-Based Access in PostgreSQL | Alessandro Tornesello | [Read More](https://medium.com/p/8149e3a498c6) |
+| Thu, 05 Feb 2026 10:07:21 GMT | How Access Is Actually Granted After Active Directory Authentication | Cybersecforall101 | [Read More](https://medium.com/p/83db2018bcb1) |
 | Thu, 05 Feb 2026 10:01:49 GMT | The 2026 Privacy Revolution: How Differential Privacy + Synthetic Data Is Saving AI (Full… | Pankaj dhawan | [Read More](https://medium.com/p/c286f5e947cf) |
 | Thu, 05 Feb 2026 09:56:27 GMT | Vulnhub: Born2Root CTF Walkthrough | d0natel00(KiroMoheb) | [Read More](https://medium.com/p/5b5bed31149c) |
 | Thu, 05 Feb 2026 09:53:22 GMT | How Using Schema for Data Almost Caused Breaking Changes for Millions of Users | Asaf Dulberg | [Read More](https://medium.com/p/98a1b42ddf8e) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Feb 2026 04:50:22 GMT | Visitor Management: Managing Risk Without Bias in a Security-First World | Green Security | [Read More](https://medium.com/p/5e490fd0aad7) |
 | Thu, 05 Feb 2026 04:41:43 GMT | How My Phone Was Taken Over | Anton Minin Baranovskii | [Read More](https://medium.com/p/a0994023e57b) |
 | Thu, 05 Feb 2026 04:33:48 GMT | Weaponizing Useless XSS: How Path Traversal Turned Reflection into Exploitation | Prasannasalunkhe | [Read More](https://medium.com/p/49d8acc1e8f8) |
-| Thu, 05 Feb 2026 04:33:13 GMT | OpenClaw: The AI Assistant That Went Viral — And Why Security Experts Are Worried | Mohammed Ayon | [Read More](https://medium.com/p/df9d778a2541) |
-| Thu, 05 Feb 2026 04:31:08 GMT | Sandbox First: The Only Agent Security Problem | Vectorlane | [Read More](https://medium.com/p/e3182df40ea5) |
-| Thu, 05 Feb 2026 04:31:08 GMT | CSRF vs XSS — Explained with Real Examples | Hasan Chinthaka | [Read More](https://medium.com/p/eab77db4a103) |
-| Thu, 05 Feb 2026 04:31:07 GMT | When Agents Act, You Need Receipts | Modexa | [Read More](https://medium.com/p/c030d5367392) |
-| Thu, 05 Feb 2026 04:28:20 GMT | Apache + PHP deployment pattern turns into instant RCE | 24BkDoor | [Read More](https://medium.com/p/e8537f09e34f) |
-| Thu, 05 Feb 2026 04:23:36 GMT | Vulnerability Management Market Overview: Strategies, Solutions, and Competitive Landscape | Gauri Kale | [Read More](https://medium.com/p/b9012586f5b0) |
-| Thu, 05 Feb 2026 04:18:25 GMT | Brute Force Vulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/3ee34eadb197) |
-| Thu, 05 Feb 2026 04:18:15 GMT | The Art of Reconnaissance Part 1 : How Hackers Find Vulnerabilities Before You Do | cat0x01 | [Read More](https://medium.com/p/1341a39c71ba) |
-| Thu, 05 Feb 2026 04:14:50 GMT | The Secret Life of AWS: The Vault (AWS Secrets Manager) | Aaron Rose | [Read More](https://medium.com/p/9d93fd6fa91d) |
-| Thu, 05 Feb 2026 03:41:28 GMT | ⭐ SOC274 — Palo Alto Networks PAN-OS Command Injection Vulnerability Exploitation (CVE-2024–3400) | Owais Ali Khan | [Read More](https://medium.com/p/72aa6a1a9758) |
-| Thu, 05 Feb 2026 03:41:00 GMT | How I Exploited a Secondary Context Bug to Trigger SSRF & Path Traversal in Backend API Calls | Bryan Matthew | [Read More](https://medium.com/p/f1023cac5384) |
-| Thu, 05 Feb 2026 03:32:15 GMT | How AI Is Transforming Cybersecurity: Smarter Defense in a Digital World | Maxatlasofficial | [Read More](https://medium.com/p/a0e63385820b) |
-| Thu, 05 Feb 2026 03:31:01 GMT | The Instagram ‘Ghost Reset’: 17.5 Million Account | Manubhav Sharma | [Read More](https://medium.com/p/d80d2affcbdc) |
-| Thu, 05 Feb 2026 03:31:01 GMT | 7 Tips for Effective Non-Blocking Code in Node.js | Arunangshu Das | [Read More](https://medium.com/p/6607f20be585) |
-| Thu, 05 Feb 2026 03:31:01 GMT | The RSVP Trap: When a ‘Party Invitation’ Becomes a Gateway for Hackers | Deven Chhajed | [Read More](https://medium.com/p/e019c0581d70) |
-| Thu, 05 Feb 2026 03:31:01 GMT | Kaspersky CTF — Forensic — Poor Investment | Faishol Hakim | [Read More](https://medium.com/p/ffd53629dbc0) |
