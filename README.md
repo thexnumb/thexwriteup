@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Feb 2026 17:16:37 GMT | The OWASP Top 10 for LLM Applications: Mapping Risks to MITRE ATLAS Attack Techniques | Shahrukh Khan | [Read More](https://medium.com/p/a2c775839909) |
+| Thu, 05 Feb 2026 17:10:08 GMT | Day — 1: Reading Penetration Testing: A Hands-On Introduction to Hacking | MARTIN LEWIS | [Read More](https://medium.com/p/373016a7a3dc) |
+| Thu, 05 Feb 2026 17:08:31 GMT | Why Your Nmap Scan is Failing: Stealth Techniques for Modern Firewalls | Your's Nightmare | [Read More](https://medium.com/p/5bcc3ebebbcf) |
+| Thu, 05 Feb 2026 17:05:06 GMT | Authorization Bugs Beyond IDOR: What Most Hackers Miss | ghostyjoe | [Read More](https://medium.com/p/c1cde8adf51d) |
+| Thu, 05 Feb 2026 17:04:34 GMT | Why Codevirus Security Offers the Best Summer Training in Lucknow (2026 Guide for Students) | Ankit rai | [Read More](https://medium.com/p/ebb1ee51e651) |
+| Thu, 05 Feb 2026 17:03:41 GMT | The Most Dangerous Hacker Is Already on Your Payroll | Travis Ray Caverhill | [Read More](https://medium.com/p/d79b41dacd2e) |
+| Thu, 05 Feb 2026 17:01:01 GMT | Etika, Kualitas, dan Keamanan: Pilar Fundamental dalam Pengolahan Data Modern | Irfan Maulana | [Read More](https://medium.com/p/9747d3b868f2) |
+| Thu, 05 Feb 2026 16:49:13 GMT | I’m glad to share that I’ve won my first bug bounty program I’ve ever joined on pcbstore.com.bd | Abdullah Mina | [Read More](https://medium.com/p/2d6a82d47b85) |
+| Thu, 05 Feb 2026 16:45:43 GMT | I Didn’t Guess Anything — The App Told Me Exactly What to Exploit ️ | Iski | [Read More](https://medium.com/p/7f59d7d19c04) |
+| Thu, 05 Feb 2026 16:45:06 GMT | The Cutting Edge of AI in 2026: What’s Really Happening Now | Raman Nimje | [Read More](https://medium.com/p/4c803f731597) |
+| Thu, 05 Feb 2026 16:32:42 GMT | What Logs are Critical for AI Application Monitoring? | Shahrukh Khan | [Read More](https://medium.com/p/df807785f007) |
+| Thu, 05 Feb 2026 16:26:34 GMT | Oh My WebServer (TryHackMe) — Redacted Walkthrough | Roshan Rajbanshi | [Read More](https://medium.com/p/3b5ab2c177f5) |
+| Thu, 05 Feb 2026 16:23:49 GMT | The Day a Fake CAPTCHA Taught Me More Than Any Tutorial | Anusha Thomas | [Read More](https://medium.com/p/7cfd292546fe) |
+| Thu, 05 Feb 2026 16:20:30 GMT | Beyond the RFP: 3 Hard-Won Lessons from 3 Years in Federal Pre-Sales | Patrick James | [Read More](https://medium.com/p/f24de8f58e11) |
+| Thu, 05 Feb 2026 16:15:19 GMT | When “Medium Severity” Means Game Over: How Two Minor Flaws Chain Into Full Compromise | Nathan Sportsman | [Read More](https://medium.com/p/4208d0d1091a) |
+| Thu, 05 Feb 2026 16:06:00 GMT | Top Trustworthy Cybersecurity Partners and Service Providers | Matthew.Rosenquist | [Read More](https://medium.com/p/2a2786547b3c) |
+| Thu, 05 Feb 2026 16:05:11 GMT | Implementing SSL Pinning in iOS: A Step-by-Step Guide (From Real App Integration) | Alish Kumar | [Read More](https://medium.com/p/3ee86f9c83c3) |
+| Thu, 05 Feb 2026 16:02:18 GMT | Authentication Gone Wrong: When the Lock Picks Itself | Rehan Ahmed | [Read More](https://medium.com/p/f5e72e61a258) |
+| Thu, 05 Feb 2026 15:59:10 GMT | Tesla’s $2 Billion Investment in xAI: What It Really Means for AI, Robots, and Regulation | Information For Technologies | [Read More](https://medium.com/p/0df3b79a5de1) |
 | Thu, 05 Feb 2026 15:52:38 GMT | Your First 90 Days in Cybersecurity: The Exact Tools I Wish I’d Started With | Paradise technologies Inc | [Read More](https://medium.com/p/95eedb8ffdd0) |
 | Thu, 05 Feb 2026 15:52:34 GMT | VPN in Your Browser vs VPN on Your Device: What Privacy-Conscious Users Should Know | Decentr | [Read More](https://medium.com/p/101fa3447bee) |
 | Thu, 05 Feb 2026 15:50:25 GMT | Important Things to Know About Cybersecurity in 2026 | Through Smriti's Lens | [Read More](https://medium.com/p/bc9f4058fd6c) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Feb 2026 11:03:38 GMT | BYOA: Bring Your Own AI | xxBugxx | [Read More](https://medium.com/p/0c9bc880b17e) |
 | Thu, 05 Feb 2026 10:56:02 GMT | Why Your Flutter App Isn’t as Secure as You Think | Omar Alshyokh | [Read More](https://medium.com/p/cb2b32f25790) |
 | Thu, 05 Feb 2026 10:54:01 GMT | How I Think About Reducing Risk as a Cybersecurity Engineer | M Umar Akhlaq | [Read More](https://medium.com/p/a50eb8be4701) |
-| Thu, 05 Feb 2026 10:48:58 GMT | Why You Need Both Agent Security and Agent Safety | Alessandro Pignati | [Read More](https://medium.com/p/81af8fe76636) |
-| Thu, 05 Feb 2026 10:41:47 GMT | Chaining Vulnerabilities: A Comprehensive Walkthrough of TryHackMe’s “Sequence” | gh0st | [Read More](https://medium.com/p/bb06866e3b84) |
-| Thu, 05 Feb 2026 10:37:59 GMT | Best Practices for Implementing AI-Based Industrial Surveillance in 2026 | Dolon Ghosh | [Read More](https://medium.com/p/e6b68ab91114) |
-| Thu, 05 Feb 2026 10:36:38 GMT | What Actually Happens When You Call a System Call (syscall) in Linux? | Anurag Vishwakarma | [Read More](https://medium.com/p/ceb3e25e7321) |
-| Thu, 05 Feb 2026 10:36:21 GMT | We Accidentally Built an Internet the Machines Don’t Need Us For. | Tanmay Bansal | [Read More](https://medium.com/p/b5be95a5e188) |
-| Thu, 05 Feb 2026 10:27:41 GMT | AntiIs Antivirus Software Necessary for WhatsApp Security? | Siyanoav | [Read More](https://medium.com/p/483bfca25f30) |
-| Thu, 05 Feb 2026 10:20:01 GMT | Security Excellence in Vaughan: GuardsOn Canada’s Commitment to Safety & Service | Grdsnscrt | [Read More](https://medium.com/p/a10583077969) |
-| Thu, 05 Feb 2026 10:19:44 GMT | Healthcare Trends 2026–2028: The Margin Math Has Changed — Logistics, Distributed Networks, and… | Gaurav Agarwaal | [Read More](https://medium.com/p/fa57c1171948) |
-| Thu, 05 Feb 2026 10:17:05 GMT | OSI Layers & Cyber Attacks: Understanding Security from Physical Cables to Web Applications | EINITIAL24 | [Read More](https://medium.com/p/94b59a535a96) |
-| Thu, 05 Feb 2026 10:17:04 GMT | [Automated] ไม่ใช่ลูกค้าที่ไม่เห็นค่า แต่เป็นเราที่ไม่ลงมือทำ | Tipticha Chanhom | [Read More](https://medium.com/p/a08771437780) |
-| Thu, 05 Feb 2026 10:14:09 GMT | If AI Can Always Be Tricked, Why Bother Testing It? | Rachana Gupta | [Read More](https://medium.com/p/d244ae03adc5) |
-| Thu, 05 Feb 2026 10:12:05 GMT | Hierarchies Without Leaks: Enforcing Org-Based Access in PostgreSQL | Alessandro Tornesello | [Read More](https://medium.com/p/8149e3a498c6) |
-| Thu, 05 Feb 2026 10:07:21 GMT | How Access Is Actually Granted After Active Directory Authentication | Cybersecforall101 | [Read More](https://medium.com/p/83db2018bcb1) |
-| Thu, 05 Feb 2026 10:01:49 GMT | The 2026 Privacy Revolution: How Differential Privacy + Synthetic Data Is Saving AI (Full… | Pankaj dhawan | [Read More](https://medium.com/p/c286f5e947cf) |
-| Thu, 05 Feb 2026 09:56:27 GMT | Vulnhub: Born2Root CTF Walkthrough | d0natel00(KiroMoheb) | [Read More](https://medium.com/p/5b5bed31149c) |
-| Thu, 05 Feb 2026 09:53:22 GMT | How Using Schema for Data Almost Caused Breaking Changes for Millions of Users | Asaf Dulberg | [Read More](https://medium.com/p/98a1b42ddf8e) |
-| Thu, 05 Feb 2026 09:53:17 GMT | Cross-Domain IDOR in Email Preferences Management via Reusable emailaddress Identifier | Bavly Zaher | [Read More](https://medium.com/p/2511ac9f7d05) |
-| Thu, 05 Feb 2026 09:52:24 GMT | I Built an MVP App That Big Tech Doesn’t Want You to Have (48 Hours, 33 Users, Zero Regrets ) | SaaS Mind | [Read More](https://medium.com/p/40810d149d18) |
-| Thu, 05 Feb 2026 09:50:50 GMT | AI Is Not Killing IT Companies. It’s Exposing Weak Business Models- says shivasai Adepu | Shivasai | [Read More](https://medium.com/p/a237c9b5aa06) |
