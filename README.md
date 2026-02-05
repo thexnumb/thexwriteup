@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Feb 2026 18:05:50 GMT | Write-Up Máquina Predictable DockerLabs — Hard [ES] | Joel Morillas Pagan (Ghxstsec) | [Read More](https://medium.com/p/e2959937d401) |
+| Thu, 05 Feb 2026 17:56:01 GMT | OWASP Top 10 (2025) on TryHackMe | Gamuchirai | [Read More](https://medium.com/p/599e692c22f4) |
+| Thu, 05 Feb 2026 17:48:50 GMT | Incident Response Is Tactical. Incident Governance Is Strategic. | Sachin Sharma | [Read More](https://medium.com/p/2b9c90a4d787) |
+| Thu, 05 Feb 2026 17:40:05 GMT | Safeguarding of Personal Information Mechanisms: Foster Tutelages, Affidavit-Based Close… | Dr Francesco Dergano | [Read More](https://medium.com/p/f8cc06edf032) |
+| Thu, 05 Feb 2026 17:38:04 GMT | Metaparadox STO Security Update: Strengthening Governance with Multi-Signature Protection | Zhabby | [Read More](https://medium.com/p/4c4dfe4781e6) |
+| Thu, 05 Feb 2026 17:36:47 GMT | Moltbook: The “AI-Only” Social Network How the Bots Are Made, and Why Humans Can’t Post or it’s a… | Rekhi | [Read More](https://medium.com/p/040e2685adde) |
+| Thu, 05 Feb 2026 17:34:05 GMT | Introduction | Hassaan Ahmad | [Read More](https://medium.com/p/8520bee06fc6) |
+| Thu, 05 Feb 2026 17:33:19 GMT | The Power of Logs: What Your /var/log is Trying to Tell You | Your's Nightmare | [Read More](https://medium.com/p/651784c2c9d3) |
+| Thu, 05 Feb 2026 17:29:28 GMT | The Titanic Syndrome: Why Your Cybersecurity Is an Illusion | William Famy | [Read More](https://medium.com/p/5a3394866721) |
+| Thu, 05 Feb 2026 17:29:01 GMT | The painful penetration | Alice Sam | [Read More](https://medium.com/p/df893be562ec) |
+| Thu, 05 Feb 2026 17:28:50 GMT | 170 Days Undetected: How a Fake PDF Editor Stole Credentials Right Under Everyone’s Nose | Sam Purcell | [Read More](https://medium.com/p/1dc7dce7f94c) |
+| Thu, 05 Feb 2026 17:27:27 GMT | ️ The Great Fragmentation: Why Resilience is the New Innovation in Swiss Finance | Pascal | [Read More](https://medium.com/p/af3a9e17c215) |
+| Thu, 05 Feb 2026 17:27:05 GMT | The Breaches Nobody’s Talking About | Joseph Dworcan | [Read More](https://medium.com/p/62afa70174f8) |
+| Thu, 05 Feb 2026 17:27:02 GMT | Why Secure Key Rotation Fails in Distributed Systems (and How to Fix It) | Kunal Demla | [Read More](https://medium.com/p/ed789eec8203) |
+| Thu, 05 Feb 2026 17:26:40 GMT | A Cybersecurity Nightmare | Anand Rao | [Read More](https://medium.com/p/dcda5730266a) |
+| Thu, 05 Feb 2026 17:25:40 GMT | Cybersecurity In The Age of AI | Aj | [Read More](https://medium.com/p/564894302ade) |
 | Thu, 05 Feb 2026 17:16:37 GMT | The OWASP Top 10 for LLM Applications: Mapping Risks to MITRE ATLAS Attack Techniques | Shahrukh Khan | [Read More](https://medium.com/p/a2c775839909) |
+| Thu, 05 Feb 2026 17:14:19 GMT | New Framework for Human-Centered AI Privacy: Strong Structure, Shallow Cultural insight | Berend Watchus | [Read More](https://medium.com/p/ce3203f29db0) |
 | Thu, 05 Feb 2026 17:10:08 GMT | Day — 1: Reading Penetration Testing: A Hands-On Introduction to Hacking | MARTIN LEWIS | [Read More](https://medium.com/p/373016a7a3dc) |
 | Thu, 05 Feb 2026 17:08:31 GMT | Why Your Nmap Scan is Failing: Stealth Techniques for Modern Firewalls | Your's Nightmare | [Read More](https://medium.com/p/5bcc3ebebbcf) |
 | Thu, 05 Feb 2026 17:05:06 GMT | Authorization Bugs Beyond IDOR: What Most Hackers Miss | ghostyjoe | [Read More](https://medium.com/p/c1cde8adf51d) |
@@ -81,6 +98,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Feb 2026 12:58:54 GMT | Why LLMs Are Probabilistic Text Continuers — Not Logical Agents | Tusharvats | [Read More](https://medium.com/p/f760ffef4e69) |
 | Thu, 05 Feb 2026 12:58:52 GMT | Introduction to Thick Client Pentesting | Madhumathi chamarthi | [Read More](https://medium.com/p/eedb5c132575) |
 | Thu, 05 Feb 2026 12:56:53 GMT | Malware Analysis: Documento.js | Cyd Tseng | [Read More](https://medium.com/p/4c8f94030e61) |
+| Thu, 05 Feb 2026 12:53:53 GMT | Best Cyber Security Company in India for End-to-End Security | Vinod Senthil | [Read More](https://medium.com/p/2332d421dee9) |
 | Thu, 05 Feb 2026 12:51:02 GMT | Signs Your Business Needs a Cybersecurity Company Immediately | CyberSecuritySolutions in UAE | [Read More](https://medium.com/p/12dc87819704) |
 | Thu, 05 Feb 2026 12:50:32 GMT | Top 8 US FDA Consultants to Help Medical Devices Get Approved in 2026 | QualysecEurope | [Read More](https://medium.com/p/98ea99ac0640) |
 | Thu, 05 Feb 2026 12:48:41 GMT | Setting up Wazuh at Home: From Docker Deployment to Raspberry Pi Monitoring | Ishtiaque Foysol | [Read More](https://medium.com/p/2e15d0d6d9a5) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Feb 2026 12:17:08 GMT | The Unseen Attack Surface: Why the AI Agent Shift Demands a Radical Security Rethink | Ishank choudhary | [Read More](https://medium.com/p/56df28c2aa67) |
 | Thu, 05 Feb 2026 12:13:45 GMT | Artificial Intelligence Based IDS for Public Wi-Fi on Raspberry Pi | sham | [Read More](https://medium.com/p/76fc09d8fe78) |
 | Thu, 05 Feb 2026 12:13:08 GMT | “Bug Bounty Bootcamp #23: CORS Exploitation — How Misconfigured Headers Let You Steal User Data… | Aman Sharma | [Read More](https://medium.com/p/9c4527b5ae79) |
-| Thu, 05 Feb 2026 12:12:05 GMT | Every Vulnerability Commonly Found in Login Flows | Bugatsec | [Read More](https://medium.com/p/1b64f34500fe) |
-| Thu, 05 Feb 2026 12:10:10 GMT | talim ng pagkakakilanlan | missy ۶ৎ | [Read More](https://medium.com/p/e03475ded54b) |
-| Thu, 05 Feb 2026 12:03:57 GMT | Top Cyber Security Services to Safeguard Your Business | Genesis | [Read More](https://medium.com/p/e85944cafbd2) |
-| Thu, 05 Feb 2026 12:02:32 GMT | Hire N8N Developers to Build Scalable Automation That Saves Time and Costs | n8ndevelopers | [Read More](https://medium.com/p/82d3cffa05b0) |
-| Thu, 05 Feb 2026 12:01:01 GMT | Writeup for picoCTF challenge “Local Authority” | Walter Moar | [Read More](https://medium.com/p/cf231ec83e4c) |
-| Thu, 05 Feb 2026 11:54:32 GMT | TryHackMe Injectics: Injection Attacks Walkthrough | Sajal Tiwari | [Read More](https://medium.com/p/2ade1eb2b1be) |
-| Thu, 05 Feb 2026 11:52:12 GMT | How to Start VAPT for Beginners ️Testing Series — Part 2 | VAPTify | [Read More](https://medium.com/p/f67d132acbbd) |
-| Thu, 05 Feb 2026 11:44:57 GMT | Cybersecurity Challenges in IoT and Smart Devices | Anaynams | [Read More](https://medium.com/p/7591da5f091f) |
-| Thu, 05 Feb 2026 11:39:36 GMT | How to Let Go of Control & Embrace Vulnerability | Leo MonWell | [Read More](https://medium.com/p/faa2e9cacf95) |
-| Thu, 05 Feb 2026 11:38:48 GMT | The Recon Blueprint: How a Single Command Led to a $1,300 Bounty | gopi krishnan | [Read More](https://medium.com/p/9dfc38fad59a) |
-| Thu, 05 Feb 2026 11:38:24 GMT | Prompt Injection Attacks: One of the Most Dangerous Threats in the AI Era | Handev Code | [Read More](https://medium.com/p/dff8cb216170) |
-| Thu, 05 Feb 2026 11:36:48 GMT | SOC Assessment: Are You Detecting What Actually Matters? | Gautamkumar | [Read More](https://medium.com/p/52929465cbb5) |
-| Thu, 05 Feb 2026 11:32:47 GMT | Why I’m Building a Second Career in Tech? | Kadir Coskun | [Read More](https://medium.com/p/fe85af11e610) |
-| Thu, 05 Feb 2026 11:24:01 GMT | Modern Vision IT’s Approach to Reliable IT and Cloud Operations in Saudi Arabia | Modern Vision | [Read More](https://medium.com/p/a5612c8e5f13) |
-| Thu, 05 Feb 2026 11:06:18 GMT | The​‍​‌‍​‍‌ AWS Skills That Companies Will Pay Anything For in 2026 | Brock stone | [Read More](https://medium.com/p/214709311658) |
-| Thu, 05 Feb 2026 11:03:38 GMT | BYOA: Bring Your Own AI | xxBugxx | [Read More](https://medium.com/p/0c9bc880b17e) |
-| Thu, 05 Feb 2026 10:56:02 GMT | Why Your Flutter App Isn’t as Secure as You Think | Omar Alshyokh | [Read More](https://medium.com/p/cb2b32f25790) |
-| Thu, 05 Feb 2026 10:54:01 GMT | How I Think About Reducing Risk as a Cybersecurity Engineer | M Umar Akhlaq | [Read More](https://medium.com/p/a50eb8be4701) |
