@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Feb 2026 09:01:03 GMT | LeakRadar vs Dark Web Monitoring Services: What’s the Difference? | Alexandre Vandamme | [Read More](https://medium.com/p/37b886c55716) |
+| Thu, 05 Feb 2026 08:59:33 GMT | Identity and Access Management: Who Gets the Keys? | Norman Kolarikkal | [Read More](https://medium.com/p/ba0219de75cf) |
+| Thu, 05 Feb 2026 08:58:49 GMT | Securing the Software Supply Chain: Beyond CVE Scanning to Cryptographic Verification | Md Yunus | [Read More](https://medium.com/p/5d65d35bb8ec) |
+| Thu, 05 Feb 2026 08:54:40 GMT | Top 10 IT Companies in Coimbatore (2026 Guide): Top Software Firms, Jobs & Growth | Esseindia | [Read More](https://medium.com/p/dd0579967a1f) |
+| Thu, 05 Feb 2026 08:54:21 GMT | HTB CDSA 2026 Notes | The Mastermind Notes | [Read More](https://medium.com/p/97d07a4788f4) |
+| Thu, 05 Feb 2026 08:49:43 GMT | ⚔️ picoCTF Walkthrough: Crack the Gate 2 | Creepus | [Read More](https://medium.com/p/392de392f517) |
+| Thu, 05 Feb 2026 08:48:34 GMT | picoCTF Walkthrough: Crack the Gate 1 | Creepus | [Read More](https://medium.com/p/47cf3ccabff9) |
+| Thu, 05 Feb 2026 08:45:59 GMT | Reconstructing a Crime Timeline from a Seized Phone | Emre Karatay | [Read More](https://medium.com/p/ceb291a66717) |
+| Thu, 05 Feb 2026 08:44:19 GMT | Copilot Security, Privacy & Trust - Microsoft’s Guarantees and the Evidence Your Tenant Must Stand… | Aakash Rahsi | [Read More](https://medium.com/p/c35c3d759cd5) |
+| Thu, 05 Feb 2026 08:42:38 GMT | Learning to Be Comfortable With “Good Enough” in Cybersecurity Work | Ethan Caldwell | [Read More](https://medium.com/p/109e1d49ec41) |
+| Thu, 05 Feb 2026 08:41:12 GMT | The Forever-Threat: Why the AT&T Data Crisis is the New Corporate Reality | KMSEC (Pty) LTD | [Read More](https://medium.com/p/e17195006ee4) |
+| Thu, 05 Feb 2026 08:40:29 GMT | 10 Better Ways to Equip Global Teams in 2026 (Rayda Isn’t Enough Anymore) | Yuvi Aggarwal | [Read More](https://medium.com/p/627fa6d64152) |
+| Thu, 05 Feb 2026 08:39:28 GMT | Is Your AI Agent Secure? I Got Attacked, Built a Sc | 琉璃 - Ruri | [Read More](https://medium.com/p/c6e2b239bbe3) |
+| Thu, 05 Feb 2026 08:39:17 GMT | What Makes a Country Attractive for Technology Growth | SODST | [Read More](https://medium.com/p/597b6f0d8435) |
+| Thu, 05 Feb 2026 08:33:56 GMT | $XXX Privilege Escalation Vulnerability Led me to be Application admin | Nyx0r | [Read More](https://medium.com/p/2dc8273e6748) |
+| Thu, 05 Feb 2026 08:26:58 GMT | Monthly Threat Actor Group Intelligence Report, January 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/6d94bdb0ef62) |
+| Thu, 05 Feb 2026 08:19:34 GMT | Getting into cybersecurity — Part 1 | Dev Sharma | [Read More](https://medium.com/p/39a5ad5c73bf) |
+| Thu, 05 Feb 2026 08:16:53 GMT | A Comprehensive Deconstruction of the “Work Ethics Board” Employment Scam | Kiama Kareithi | [Read More](https://medium.com/p/e3136af0ba9f) |
+| Thu, 05 Feb 2026 08:16:29 GMT | Ultimate HTB CPTS 2026 Notes: The Complete Study Guide | The Mastermind Notes | [Read More](https://medium.com/p/fe6b22504ad7) |
+| Thu, 05 Feb 2026 08:12:11 GMT | Notepad++ Supply Chain Attack | Ankita Sinha | [Read More](https://medium.com/p/9a78166b9c00) |
+| Thu, 05 Feb 2026 08:09:03 GMT | Supply Chain Attacks: When Trust Becomes the Weak Spot | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/6afc28743fdf) |
+| Thu, 05 Feb 2026 08:06:47 GMT | Emphasizing a “We Care Approach” | Vintage Vaults | [Read More](https://medium.com/p/66ecc5608427) |
+| Thu, 05 Feb 2026 08:03:08 GMT | CEH Certification: A Practical Path to Ethical Hacking Skills | Ryan Brooks | [Read More](https://medium.com/p/7944e12c2066) |
 | Thu, 05 Feb 2026 07:57:02 GMT | LOGICAL LIMITATIONS OF AI MODELS IN THREAT INTELLIGENCE | Rakesh Krishnan | [Read More](https://medium.com/p/4b56f61d247f) |
 | Thu, 05 Feb 2026 07:48:18 GMT | H3C CVM auth bypass & information disclosure | suicidal_teddy | [Read More](https://medium.com/p/5b2c9a4fdfef) |
 | Thu, 05 Feb 2026 07:48:15 GMT | The Future of Cybersecurity Will Be Written by Hackers and Quantum Computers | Darksynthhacker | [Read More](https://medium.com/p/6470e3e2f842) |
@@ -89,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Feb 2026 01:31:01 GMT | Safe Agents Win by Saying “No” More Often | Hash Block | [Read More](https://medium.com/p/9f69f1e004a6) |
 | Thu, 05 Feb 2026 01:31:01 GMT | MCP Made Tool Standards a Power Struggle | Thinking Loop | [Read More](https://medium.com/p/c0c94c495d89) |
 | Thu, 05 Feb 2026 01:16:33 GMT | How Hackers Control Any System with Linux Processes | Shahzaib | [Read More](https://medium.com/p/3344425e6d61) |
-| Thu, 05 Feb 2026 01:07:49 GMT | RedHack Yunus bey | redhack | [Read More](https://medium.com/p/bf9b97de62fb) |
-| Thu, 05 Feb 2026 01:06:14 GMT | Even Unicorns Get Ghosted: Here’s What 71 Interviews, 11 Homework Assignments, and 156 Applications… | Marcelle Lee | [Read More](https://medium.com/p/8080c8d9bd7a) |
-| Thu, 05 Feb 2026 01:00:00 GMT | Introduction to Cybersecurity | Tolulope Olatunji | [Read More](https://medium.com/p/c19baca7a3e0) |
-| Thu, 05 Feb 2026 00:57:07 GMT | From Sketch to Simulation — How Architectural BIM Is Redefining Design Precision | SrinSoft Engineering | [Read More](https://medium.com/p/594e5db5e805) |
-| Thu, 05 Feb 2026 00:53:30 GMT | WhyHackMe (THM) Easy Write-up. | Rehimovmahmud | [Read More](https://medium.com/p/f0586e29e7a6) |
-| Wed, 04 Feb 2026 23:16:53 GMT | Advanced Network Reconnaissance: Masscan & THC-IPv6 | mohandika | [Read More](https://medium.com/p/d173b5319a9e) |
-| Wed, 04 Feb 2026 23:12:35 GMT | Building Your First Cybersecurity AI Agent with LangGraph | Arun Nair | [Read More](https://medium.com/p/d27107ac872a) |
-| Wed, 04 Feb 2026 23:11:15 GMT | AI and the Future of Cybersecurity | Cyber-AppSec | [Read More](https://medium.com/p/b14bd10fb850) |
-| Wed, 04 Feb 2026 23:01:02 GMT | How I Investigated a Real Phishing Email Using a SOC Analyst Workflow | Dany Christel | [Read More](https://medium.com/p/380c63eadba4) |
-| Wed, 04 Feb 2026 23:01:02 GMT | I’ve changed my mind more times in tech than Chrome updates — and somehow, that’s been my advantage. | Miss Tarus | [Read More](https://medium.com/p/7965c3a9cce3) |
-| Wed, 04 Feb 2026 22:57:38 GMT | The AI Data Access Dilemma: Finding Balance Between Raw SQL and MCP Servers | James Aspinwall | [Read More](https://medium.com/p/10b53cda7471) |
-| Wed, 04 Feb 2026 22:52:24 GMT | Your AWS Bill Might Be Your Best Security Tool | Aaron L | [Read More](https://medium.com/p/e4299d58f788) |
-| Wed, 04 Feb 2026 22:46:28 GMT | HacktheBox or TryHackme? My experiences with both | Michael Harms | [Read More](https://medium.com/p/63f160c23c62) |
-| Wed, 04 Feb 2026 22:42:49 GMT | Web3 Security 101: Bug Bounties vs. Audit Contests Explained | Sherlock | [Read More](https://medium.com/p/ee614f1cf5e0) |
-| Wed, 04 Feb 2026 22:38:25 GMT | Photo by Kawê Rodrigues on Unsplash | Iorver-Nze.A. | [Read More](https://medium.com/p/7ab983aad021) |
-| Wed, 04 Feb 2026 22:33:01 GMT | The Hoodie Myth: My First Day as a Junior SOC Analyst | Murat Kurkoglu | [Read More](https://medium.com/p/6d5d09fb3f4f) |
-| Wed, 04 Feb 2026 22:31:00 GMT | Designing for trust in generative AI products | DiUS | [Read More](https://medium.com/p/f60e06ae8dfc) |
-| Wed, 04 Feb 2026 22:13:50 GMT | Introduction to API Pen-Testing: My CyberSafe Training Experience (Week 9) | Stella Obatoye | [Read More](https://medium.com/p/c02054b0c153) |
-| Wed, 04 Feb 2026 21:54:02 GMT | Desctiption :
-I wanted to join an organization i was not part of , by adding a new user and… | Simo | [Read More](https://medium.com/p/2afaa6094ee9) |
-| Wed, 04 Feb 2026 21:42:58 GMT | Cryptographic Hash Functions | Prasadi Niroopama Kumarasinghe | [Read More](https://medium.com/p/4348e3893e86) |
-| Wed, 04 Feb 2026 21:41:34 GMT | #9: Improper Inventory Management — The APIs You Forgot You Had | Emmanuelnnebedum | [Read More](https://medium.com/p/4c008d012c76) |
-| Wed, 04 Feb 2026 21:39:39 GMT | I Hardened a Docker Image and Here’s What I Learned | Alan Varghese | [Read More](https://medium.com/p/41954e66a6c3) |
-| Wed, 04 Feb 2026 21:22:50 GMT | KC7: Convoy Street Interactive (July 2025 Workshop Game) | Aeronique | [Read More](https://medium.com/p/463887be3773) |
