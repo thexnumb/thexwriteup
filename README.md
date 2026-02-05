@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Feb 2026 22:41:38 GMT | The Shocking Truth: How Companies Sell Your Data | Shahzaib | [Read More](https://medium.com/p/4ae99451a24c) |
+| Thu, 05 Feb 2026 22:36:22 GMT | Understanding DNS Resolution and a Classic Cache Poisoning Attack | Ananth S S | [Read More](https://medium.com/p/030e3e4b92a0) |
+| Thu, 05 Feb 2026 22:33:26 GMT | Activepieces as Firewall against OpenClaw | Sotiraki Sima | [Read More](https://medium.com/p/6e68c0fd18fc) |
 | Thu, 05 Feb 2026 22:23:05 GMT | Disabling PPL Protection on Windows Processes | S12 - 0x12Dark Development | [Read More](https://medium.com/p/0cb77a065939) |
 | Thu, 05 Feb 2026 22:11:01 GMT | 4 Dangerous Dreams That Will Ruin Your Life After 50 | Riva Smith | [Read More](https://medium.com/p/d7b494c731fc) |
 | Thu, 05 Feb 2026 21:49:03 GMT | SOC Control Panel | Techwin Cyber | [Read More](https://medium.com/p/ca0a1095b395) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Feb 2026 15:46:01 GMT | Residential Proxies: When “Normal” Traffic Becomes a Risk Multiplier | Wes Young | [Read More](https://medium.com/p/69fcb1d1e864) |
 | Thu, 05 Feb 2026 15:31:44 GMT | Abusing Dangerous Admin Functionality Under Weak Hardening | Dardan Hasani | [Read More](https://medium.com/p/6e99bd4dc92b) |
 | Thu, 05 Feb 2026 15:29:45 GMT | Another day, another Domain Admin | Daniel Knight | [Read More](https://medium.com/p/a7b10c6239f6) |
-| Thu, 05 Feb 2026 15:26:32 GMT | ‘God Forbid’ Is Not a Security Strategy: Why Security Awareness Matters in Nigeria | Emmanuel Ekwuazi | [Read More](https://medium.com/p/91444d4555b8) |
-| Thu, 05 Feb 2026 15:20:34 GMT | Cloud Computing Fundamentals Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/e153d7de0f09) |
-| Thu, 05 Feb 2026 15:18:15 GMT | Understanding Computer Networks: Basics Every Beginner Should Know | Nida Arshad | [Read More](https://medium.com/p/156a21626acd) |
