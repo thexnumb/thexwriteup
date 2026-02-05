@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Feb 2026 23:17:32 GMT | Building a Production-Ready Snowflake Audit Log Pipeline to S3 | xcal | [Read More](https://medium.com/p/6c4203dfa771) |
+| Thu, 05 Feb 2026 23:05:12 GMT | DevSecOps for Salesforce: How Security Scanners Secure Modern CI/CD Pipelines | Musa Ndlala | [Read More](https://medium.com/p/45fe9d995b1e) |
+| Thu, 05 Feb 2026 23:01:02 GMT | Tools I’m currently enjoying while using VS Code (aka the extensions doing the heavy lifting): | Miss Tarus | [Read More](https://medium.com/p/c74072e8bc4e) |
 | Thu, 05 Feb 2026 22:41:38 GMT | The Shocking Truth: How Companies Sell Your Data | Shahzaib | [Read More](https://medium.com/p/4ae99451a24c) |
 | Thu, 05 Feb 2026 22:36:22 GMT | Understanding DNS Resolution and a Classic Cache Poisoning Attack | Ananth S S | [Read More](https://medium.com/p/030e3e4b92a0) |
 | Thu, 05 Feb 2026 22:33:26 GMT | Activepieces as Firewall against OpenClaw | Sotiraki Sima | [Read More](https://medium.com/p/6e68c0fd18fc) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Feb 2026 15:52:38 GMT | Your First 90 Days in Cybersecurity: The Exact Tools I Wish I’d Started With | Paradise technologies Inc | [Read More](https://medium.com/p/95eedb8ffdd0) |
 | Thu, 05 Feb 2026 15:52:34 GMT | VPN in Your Browser vs VPN on Your Device: What Privacy-Conscious Users Should Know | Decentr | [Read More](https://medium.com/p/101fa3447bee) |
 | Thu, 05 Feb 2026 15:50:25 GMT | Important Things to Know About Cybersecurity in 2026 | Through Smriti's Lens | [Read More](https://medium.com/p/bc9f4058fd6c) |
-| Thu, 05 Feb 2026 15:46:01 GMT | Residential Proxies: When “Normal” Traffic Becomes a Risk Multiplier | Wes Young | [Read More](https://medium.com/p/69fcb1d1e864) |
-| Thu, 05 Feb 2026 15:31:44 GMT | Abusing Dangerous Admin Functionality Under Weak Hardening | Dardan Hasani | [Read More](https://medium.com/p/6e99bd4dc92b) |
-| Thu, 05 Feb 2026 15:29:45 GMT | Another day, another Domain Admin | Daniel Knight | [Read More](https://medium.com/p/a7b10c6239f6) |
