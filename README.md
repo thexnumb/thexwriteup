@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Feb 2026 06:45:31 GMT | 2FA Bypass via OTP Reuse Across Multiple Authentication Flows | rootx-Jeet | [Read More](https://medium.com/p/faa9e07ec56d) |
+| Thu, 05 Feb 2026 06:42:09 GMT | Mixin Space #2: What Is a Web3 Wallet, Really? | Kelly XU | [Read More](https://medium.com/p/f356224a05ae) |
+| Thu, 05 Feb 2026 06:26:23 GMT | Face Recognition Is Easy. Liveness Is Not | Luna | [Read More](https://medium.com/p/bdd155a7acc9) |
+| Thu, 05 Feb 2026 06:25:24 GMT | AI vs Indian IT: The Battle That’s Spooking Investor | Shivam Maurya | [Read More](https://medium.com/p/80a6ec70e4c7) |
+| Thu, 05 Feb 2026 06:22:30 GMT | Why Digital Forensic Services Are Becoming Essential for Modern Businesses | Drona Cyber Solutions | [Read More](https://medium.com/p/bd3de48b65b1) |
+| Thu, 05 Feb 2026 06:21:25 GMT | Account Takeover using Improper Authorization in “Check Availability” Feature | Ronak Patel | [Read More](https://medium.com/p/4f9f65098853) |
+| Thu, 05 Feb 2026 06:17:41 GMT | The “Moat” of On-Chain Finance Lies in Privacy: A Future of Security Without Exposing Location Data | Satelite | [Read More](https://medium.com/p/af9f0985722a) |
+| Thu, 05 Feb 2026 06:14:40 GMT | Uncovering Hidden Secrets: A Metadata Forensics Write-up (picoCTF — Riddle Registry) | Raulfdzc | [Read More](https://medium.com/p/a939d878ace7) |
+| Thu, 05 Feb 2026 06:12:38 GMT | Authentication and Authorization in 2026: A Practical Overview of the Technologies | Anton Minin Baranovskii | [Read More](https://medium.com/p/b5f27beea36d) |
+| Thu, 05 Feb 2026 06:07:11 GMT | Active Session Hijacking via Authentication session_id Exposed in URL | Sohan | [Read More](https://medium.com/p/f12b1672107b) |
+| Thu, 05 Feb 2026 06:01:04 GMT | As always in every penetration testing engagements we start by reconnaissance and information… | Cyb0rgBytes | [Read More](https://medium.com/p/25b03ee6f8fa) |
+| Thu, 05 Feb 2026 05:56:56 GMT | Navigating the Cybersecurity Job Market: Focus on What You Can Control | Shashank Rajesh Kulkarni | [Read More](https://medium.com/p/0aebac792d46) |
+| Thu, 05 Feb 2026 05:55:28 GMT | Why AI Governance is the “New Frontier” for Information Security Professionals | Adityagoswami | [Read More](https://medium.com/p/2dbe4d40c3e0) |
+| Thu, 05 Feb 2026 05:55:23 GMT | GraphQL Root Operation Types | Shivam Bathla | [Read More](https://medium.com/p/b90eecc02ec3) |
+| Thu, 05 Feb 2026 05:48:33 GMT | CyberNova — Lazarus Phantom DB CTF Write-Up (SQLi → JWT → XOR Decrypt) | vulnhunter | [Read More](https://medium.com/p/a2a78f2463a1) |
+| Thu, 05 Feb 2026 05:46:38 GMT | The Silent Red Team: How AI is Forging a New Paradigm in Web Warfare | Kiama Kareithi | [Read More](https://medium.com/p/89917ba0f4cf) |
 | Thu, 05 Feb 2026 05:30:57 GMT | Advantages of a Cyber Security Course | Singhyashdeep | [Read More](https://medium.com/p/588b89b0e761) |
 | Thu, 05 Feb 2026 05:28:34 GMT | How SS7 Attacks Break Telecom Trust and Compromise Security | Pentester Club | [Read More](https://medium.com/p/7904f3a16e49) |
 | Thu, 05 Feb 2026 05:02:52 GMT | Information About Linux | DefenAsh | [Read More](https://medium.com/p/58cd171abafd) |
@@ -97,19 +113,3 @@ I wanted to join an organization i was not part of , by adding a new user and…
 | Wed, 04 Feb 2026 19:54:27 GMT | Types of Security Camera | AlexBryn | [Read More](https://medium.com/p/fb1d4898af71) |
 | Wed, 04 Feb 2026 19:52:15 GMT | History of the Camera | AlexBryn | [Read More](https://medium.com/p/df9bb96c8558) |
 | Wed, 04 Feb 2026 19:45:02 GMT | DNS (Domain name system) in 2 mins | Dayanidhi Meganathan | [Read More](https://medium.com/p/6f4105f6d0c9) |
-| Wed, 04 Feb 2026 19:38:54 GMT | Mission Accomplished — A Post in Every Security Section | Teri Radichel | [Read More](https://medium.com/p/191e55409653) |
-| Wed, 04 Feb 2026 19:35:47 GMT | Firefox Will Feature an AI Kill-Switch | Matthew.Rosenquist | [Read More](https://medium.com/p/0b21637e27de) |
-| Wed, 04 Feb 2026 19:33:52 GMT | Windows Security Privileges for Pentesters | Victor Aaron Winnercoz | [Read More](https://medium.com/p/225185df24d9) |
-| Wed, 04 Feb 2026 19:30:35 GMT | Qurbanın perspektivindən kiberhücumların başlanması: | Ramila B | [Read More](https://medium.com/p/29d97ba8402b) |
-| Wed, 04 Feb 2026 19:21:56 GMT | A Case Study in Client-side Validation Gone Wrong (and How to Do It Right) | Jack Carter | [Read More](https://medium.com/p/88cffabd8646) |
-| Wed, 04 Feb 2026 19:21:33 GMT | Data Security in 2026: How Businesses Can Protect Sensitive Information in a Digital-First World | Techridge Solutions | [Read More](https://medium.com/p/a02ddaa1fe78) |
-| Wed, 04 Feb 2026 19:17:22 GMT | Leading Through Change Fatigue: Helping IT Teams Stay Engaged in a World of Constant Transformation | Roman Meydbray | [Read More](https://medium.com/p/1e1cb7716ff7) |
-| Wed, 04 Feb 2026 19:16:49 GMT | INE / eJPT / Host & Network Penetration Testing: Exploitation CTF 3 | Salihugurlu | [Read More](https://medium.com/p/e93ff4b45dee) |
-| Wed, 04 Feb 2026 19:12:41 GMT | Network #2 | Umid Nagiyev | [Read More](https://medium.com/p/45bda8623188) |
-| Wed, 04 Feb 2026 19:12:20 GMT | Shoulda, woulda, coulda… | Julie Stayton | [Read More](https://medium.com/p/5693dfc15aad) |
-| Wed, 04 Feb 2026 19:09:58 GMT | Short Story: I’m so sorry | M. Gefvert | [Read More](https://medium.com/p/e8e02673b171) |
-| Wed, 04 Feb 2026 19:07:44 GMT | The Global AI Illusion | Damian Ketting | [Read More](https://medium.com/p/618c23bbe06f) |
-| Wed, 04 Feb 2026 19:07:38 GMT | Who Moved the Cheese in Indian IT? | Tushar Sen | [Read More](https://medium.com/p/a2b9d735f2e1) |
-| Wed, 04 Feb 2026 18:58:11 GMT | Volnaya Forums HTB walkthrough | Nullecho | [Read More](https://medium.com/p/8c0fd4849151) |
-| Wed, 04 Feb 2026 18:56:17 GMT | Try Hack Me- broker CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/d131bd5a622b) |
-| Wed, 04 Feb 2026 18:54:10 GMT | Does Password Management Define Digital Security? | Fortress Protocol | [Read More](https://medium.com/p/862ac633152b) |
