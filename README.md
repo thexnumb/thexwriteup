@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Feb 2026 11:52:12 GMT | How to Start VAPT for Beginners ️Testing Series — Part 2 | VAPTify | [Read More](https://medium.com/p/f67d132acbbd) |
+| Thu, 05 Feb 2026 11:44:57 GMT | Cybersecurity Challenges in IoT and Smart Devices | Anaynams | [Read More](https://medium.com/p/7591da5f091f) |
+| Thu, 05 Feb 2026 11:39:36 GMT | How to Let Go of Control & Embrace Vulnerability | Leo MonWell | [Read More](https://medium.com/p/faa2e9cacf95) |
+| Thu, 05 Feb 2026 11:38:48 GMT | The Recon Blueprint: How a Single Command Led to a $1,300 Bounty | gopi krishnan | [Read More](https://medium.com/p/9dfc38fad59a) |
+| Thu, 05 Feb 2026 11:38:24 GMT | Prompt Injection Attacks: One of the Most Dangerous Threats in the AI Era | Handev Code | [Read More](https://medium.com/p/dff8cb216170) |
+| Thu, 05 Feb 2026 11:36:48 GMT | SOC Assessment: Are You Detecting What Actually Matters? | Gautamkumar | [Read More](https://medium.com/p/52929465cbb5) |
+| Thu, 05 Feb 2026 11:32:47 GMT | Why I’m Building a Second Career in Tech? | Kadir Coskun | [Read More](https://medium.com/p/fe85af11e610) |
+| Thu, 05 Feb 2026 11:24:01 GMT | Modern Vision IT’s Approach to Reliable IT and Cloud Operations in Saudi Arabia | Modern Vision | [Read More](https://medium.com/p/a5612c8e5f13) |
+| Thu, 05 Feb 2026 11:06:18 GMT | The​‍​‌‍​‍‌ AWS Skills That Companies Will Pay Anything For in 2026 | Brock stone | [Read More](https://medium.com/p/214709311658) |
 | Thu, 05 Feb 2026 11:03:38 GMT | BYOA: Bring Your Own AI | xxBugxx | [Read More](https://medium.com/p/0c9bc880b17e) |
 | Thu, 05 Feb 2026 10:56:02 GMT | Why Your Flutter App Isn’t as Secure as You Think | Omar Alshyokh | [Read More](https://medium.com/p/cb2b32f25790) |
 | Thu, 05 Feb 2026 10:54:01 GMT | How I Think About Reducing Risk as a Cybersecurity Engineer | M Umar Akhlaq | [Read More](https://medium.com/p/a50eb8be4701) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Feb 2026 05:55:23 GMT | GraphQL Root Operation Types | Shivam Bathla | [Read More](https://medium.com/p/b90eecc02ec3) |
 | Thu, 05 Feb 2026 05:48:33 GMT | CyberNova — Lazarus Phantom DB CTF Write-Up (SQLi → JWT → XOR Decrypt) | vulnhunter | [Read More](https://medium.com/p/a2a78f2463a1) |
 | Thu, 05 Feb 2026 05:46:38 GMT | The Silent Red Team: How AI is Forging a New Paradigm in Web Warfare | Kiama Kareithi | [Read More](https://medium.com/p/89917ba0f4cf) |
-| Thu, 05 Feb 2026 05:30:57 GMT | Advantages of a Cyber Security Course | Singhyashdeep | [Read More](https://medium.com/p/588b89b0e761) |
-| Thu, 05 Feb 2026 05:28:34 GMT | How SS7 Attacks Break Telecom Trust and Compromise Security | Pentester Club | [Read More](https://medium.com/p/7904f3a16e49) |
-| Thu, 05 Feb 2026 05:02:52 GMT | Information About Linux | DefenAsh | [Read More](https://medium.com/p/58cd171abafd) |
-| Thu, 05 Feb 2026 04:53:46 GMT | Post-Quantum Cryptography Transforms E-Signature Security Standards | Rohitgarg | [Read More](https://medium.com/p/9c1092c3458b) |
-| Thu, 05 Feb 2026 04:52:04 GMT | Exploitation of Microsoft Office Zero-Day (CVE-2026–21509) by Russian State-Sponsored Threat Group | NSHC ThreatRecon Team | [Read More](https://medium.com/p/cf401f66c102) |
-| Thu, 05 Feb 2026 04:51:30 GMT | Day 37 — GitOps Secrets with Bitnami Sealed Secrets + Argo CD + Helm | Alok Rahul | [Read More](https://medium.com/p/baa0f2dd33a8) |
-| Thu, 05 Feb 2026 04:50:22 GMT | Visitor Management: Managing Risk Without Bias in a Security-First World | Green Security | [Read More](https://medium.com/p/5e490fd0aad7) |
-| Thu, 05 Feb 2026 04:41:43 GMT | How My Phone Was Taken Over | Anton Minin Baranovskii | [Read More](https://medium.com/p/a0994023e57b) |
-| Thu, 05 Feb 2026 04:33:48 GMT | Weaponizing Useless XSS: How Path Traversal Turned Reflection into Exploitation | Prasannasalunkhe | [Read More](https://medium.com/p/49d8acc1e8f8) |
