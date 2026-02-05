@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Feb 2026 19:07:34 GMT | Hacking Isn’t Breaking the Law — It’s Breaking Assumptions | Amandogra | [Read More](https://medium.com/p/1ba13ac4e74c) |
+| Thu, 05 Feb 2026 19:04:25 GMT | The Rise of OpenClaw .. and the Security Reckoning That Follows | Taimur Ijlal | [Read More](https://medium.com/p/c832df0c19ac) |
+| Thu, 05 Feb 2026 19:02:12 GMT | Mass Assignment: How a Simple Maintenance Role Gained Admin Control Over Cloud Backups [P2] | Mostafa Muhammed | [Read More](https://medium.com/p/693a5f678b05) |
+| Thu, 05 Feb 2026 19:01:12 GMT | Broken CSRF Protection: Bypassing Tokens by Switching from POST to GET | Istiyak | [Read More](https://medium.com/p/d7736921a858) |
+| Thu, 05 Feb 2026 18:54:16 GMT | Composability as an Attack Surface: How Integrations Break “Battle-Tested” Protocols | Exploitless | [Read More](https://medium.com/p/fc01ab49cef4) |
+| Thu, 05 Feb 2026 18:54:14 GMT | RingZeroCTF Coding Challenge 3 [Hash Me Again] Writeup | Devansh Patel | [Read More](https://medium.com/p/8c7f7fdf7959) |
+| Thu, 05 Feb 2026 18:53:49 GMT | Every Breach Has a Villain, It’s Rarely the Hacker | Travis Ray Caverhill | [Read More](https://medium.com/p/541da8162c95) |
+| Thu, 05 Feb 2026 18:51:08 GMT | Machine Vs Machine - The Future of Defence | Muhammad Ali Khan | [Read More](https://medium.com/p/bb45c1d1fe9c) |
+| Thu, 05 Feb 2026 18:44:19 GMT | Unmasking the Manifest: The Blueprint of a Live AiTM Hijack | SpearPanic | [Read More](https://medium.com/p/f66c05a7f2b4) |
+| Thu, 05 Feb 2026 18:43:36 GMT | Decision Muscle Memory. Build It Before the Stakes Are Real | Tyson Martin | [Read More](https://medium.com/p/fce3674bdc73) |
+| Thu, 05 Feb 2026 18:43:18 GMT | Secure Deployment and Hardening Guide for Microsoft IIS (CIS-Aligned) | SOCFortress | [Read More](https://medium.com/p/a92a05755200) |
+| Thu, 05 Feb 2026 18:38:17 GMT | Ethical Hacking | Siddra Naseem | [Read More](https://medium.com/p/b97a43452266) |
+| Thu, 05 Feb 2026 18:35:19 GMT | Android Dirty Stream: A Comprehensive Technical Deep-Dive | lightofmoon | [Read More](https://medium.com/p/5cc365c2f0fc) |
+| Thu, 05 Feb 2026 18:25:22 GMT | Your AI Agent Just Tried to Delete Production. Here’s the Open-Source Firewall That Stopped It. | Sattyam Jain | [Read More](https://medium.com/p/06644a93576b) |
+| Thu, 05 Feb 2026 18:24:12 GMT | IoT and IIoT Vulnerabilities in Smart Environments: Key Cybersecurity Challenges | Digital Defense | [Read More](https://medium.com/p/85c44b415d8b) |
+| Thu, 05 Feb 2026 18:23:51 GMT | Efficient Array Wrapping: The Modulo Trick Every Developer Should Know | Lokeshwar Reddy N | [Read More](https://medium.com/p/7ee614272100) |
 | Thu, 05 Feb 2026 18:05:50 GMT | Write-Up Máquina Predictable DockerLabs — Hard [ES] | Joel Morillas Pagan (Ghxstsec) | [Read More](https://medium.com/p/e2959937d401) |
 | Thu, 05 Feb 2026 17:56:01 GMT | OWASP Top 10 (2025) on TryHackMe | Gamuchirai | [Read More](https://medium.com/p/599e692c22f4) |
 | Thu, 05 Feb 2026 17:48:50 GMT | Incident Response Is Tactical. Incident Governance Is Strategic. | Sachin Sharma | [Read More](https://medium.com/p/2b9c90a4d787) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Feb 2026 13:06:48 GMT | Elon’s SpaceX Police Force, Substack’s Data Breach, and the Rise of “Gizmo” - The Daily Tech… | Souren Stepanyan | [Read More](https://medium.com/p/83feb6d469ef) |
 | Thu, 05 Feb 2026 13:01:02 GMT | The “Flat Network” Fallacy: Why My Easiest Wins Happen When You Don’t Segment | k3rnelpan1c | [Read More](https://medium.com/p/7dc1653a192f) |
 | Thu, 05 Feb 2026 12:58:54 GMT | Why LLMs Are Probabilistic Text Continuers — Not Logical Agents | Tusharvats | [Read More](https://medium.com/p/f760ffef4e69) |
-| Thu, 05 Feb 2026 12:58:52 GMT | Introduction to Thick Client Pentesting | Madhumathi chamarthi | [Read More](https://medium.com/p/eedb5c132575) |
-| Thu, 05 Feb 2026 12:56:53 GMT | Malware Analysis: Documento.js | Cyd Tseng | [Read More](https://medium.com/p/4c8f94030e61) |
-| Thu, 05 Feb 2026 12:53:53 GMT | Best Cyber Security Company in India for End-to-End Security | Vinod Senthil | [Read More](https://medium.com/p/2332d421dee9) |
-| Thu, 05 Feb 2026 12:51:02 GMT | Signs Your Business Needs a Cybersecurity Company Immediately | CyberSecuritySolutions in UAE | [Read More](https://medium.com/p/12dc87819704) |
-| Thu, 05 Feb 2026 12:50:32 GMT | Top 8 US FDA Consultants to Help Medical Devices Get Approved in 2026 | QualysecEurope | [Read More](https://medium.com/p/98ea99ac0640) |
-| Thu, 05 Feb 2026 12:48:41 GMT | Setting up Wazuh at Home: From Docker Deployment to Raspberry Pi Monitoring | Ishtiaque Foysol | [Read More](https://medium.com/p/2e15d0d6d9a5) |
-| Thu, 05 Feb 2026 12:47:38 GMT | Why Ransomware is the Crime of the Century (The $4 Billion Pop-Up) | Dhanush N | [Read More](https://medium.com/p/be9edd4916f0) |
-| Thu, 05 Feb 2026 12:47:20 GMT | Why Training + Certification Matter in Privacy and AI Compliance | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/f7759ea2e34d) |
-| Thu, 05 Feb 2026 12:46:19 GMT | No CCTV Camera? No Problem — Turn Your Android Phone into a Security Camera | CCTV Mobile Camera | [Read More](https://medium.com/p/ca70473bcecf) |
-| Thu, 05 Feb 2026 12:42:20 GMT | I Watched OpenClaw Implode: Then I Looked at My Own AI Setups | anonerdus | [Read More](https://medium.com/p/f6ba14308b06) |
-| Thu, 05 Feb 2026 12:41:00 GMT | Running HashiCorp Vault Locally: Write Your First Secrets and Policies | Kirshi Yin | [Read More](https://medium.com/p/f27f291157bf) |
-| Thu, 05 Feb 2026 12:28:32 GMT | Security Structure and Architecture: How to Build and Rebuild Your Assets | William Claude | [Read More](https://medium.com/p/88e22c7bb92c) |
-| Thu, 05 Feb 2026 12:24:48 GMT | What to Buy First If You Want to Learn Hardware Hacking | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/0c251176bb1b) |
-| Thu, 05 Feb 2026 12:17:08 GMT | The Unseen Attack Surface: Why the AI Agent Shift Demands a Radical Security Rethink | Ishank choudhary | [Read More](https://medium.com/p/56df28c2aa67) |
-| Thu, 05 Feb 2026 12:13:45 GMT | Artificial Intelligence Based IDS for Public Wi-Fi on Raspberry Pi | sham | [Read More](https://medium.com/p/76fc09d8fe78) |
-| Thu, 05 Feb 2026 12:13:08 GMT | “Bug Bounty Bootcamp #23: CORS Exploitation — How Misconfigured Headers Let You Steal User Data… | Aman Sharma | [Read More](https://medium.com/p/9c4527b5ae79) |
