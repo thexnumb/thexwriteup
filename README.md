@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Feb 2026 14:13:12 GMT | Between Deterrence and Collapse: Why the US–Iran Moment Is a Systems Problem, Not a Military One | PYURA ANSHUMAN | [Read More](https://medium.com/p/139311c7e286) |
+| Thu, 05 Feb 2026 14:11:49 GMT | Dig Dug: TryHackMe Challenge Lab | William Shively | [Read More](https://medium.com/p/56429299b93c) |
+| Thu, 05 Feb 2026 14:10:59 GMT | Choosing a new crypto hardware wallet in 2026: Avoid these common mistakes | Henry Windle | [Read More](https://medium.com/p/78aa134e1075) |
+| Thu, 05 Feb 2026 14:07:34 GMT | Your Guide to Data Privacy and Security in the Age of ICE Surveillance | Anonymous Researcher | [Read More](https://medium.com/p/0f950da15383) |
+| Thu, 05 Feb 2026 14:02:43 GMT | The Invisible Enemy How I Built an Automated Hunter to Catch Malware That EDRs Miss | Smruti Ranjan Pradhan | [Read More](https://medium.com/p/8603e4b0b6ce) |
+| Thu, 05 Feb 2026 14:00:57 GMT | Moltbook! AI Socializing? Reason for Concern or Curiosity? | Creative Clicks | [Read More](https://medium.com/p/b96526726e18) |
+| Thu, 05 Feb 2026 13:59:01 GMT | My Journey Through TCS HackQuest Season 10 | Shiva Sai Reddy Mikkili | [Read More](https://medium.com/p/6c9e3c1c2905) |
+| Thu, 05 Feb 2026 13:57:52 GMT | Data Privacy & Legal Frameworks I(GDPR, HIPPA, NDPR) | Aminat Fowoke Balogun‍ | [Read More](https://medium.com/p/177fa3de2085) |
+| Thu, 05 Feb 2026 13:57:13 GMT | “Web Technology & OWASP: The Secret Behind Secure and Interactive Websites” | Habibi | [Read More](https://medium.com/p/5da0403b17a1) |
+| Thu, 05 Feb 2026 13:45:58 GMT | Hands-On Cybersecurity Labs for Skill-Based Learning | Kunal Arora | [Read More](https://medium.com/p/84d22b0ab91d) |
+| Thu, 05 Feb 2026 13:45:50 GMT | Beyond Fingertips: Why 3D Face Unlock is the Ultimate Standard for Secure Mobility | Ali Kamal | [Read More](https://medium.com/p/f56ddd955b6e) |
+| Thu, 05 Feb 2026 13:45:44 GMT | Once Upon a Time I Met the Love of My Life | KV | [Read More](https://medium.com/p/5dc09b4860d7) |
+| Thu, 05 Feb 2026 13:33:37 GMT | One Slack Message = Full Control | Cynox Security LLP. | [Read More](https://medium.com/p/bd1c94c715f3) |
+| Thu, 05 Feb 2026 13:28:25 GMT | Hash Functions: The Hidden Algorithm Behind Passwords, Bitcoin, and the Modern Internet | Vagelis Plevris | [Read More](https://medium.com/p/28a4f4f97531) |
+| Thu, 05 Feb 2026 13:27:35 GMT | AI ChatGPT Sponsored Ads and the Quiet End of an Ad-Free Internet Ideal | Vyomedge - Digital Marketing & IT Services | [Read More](https://medium.com/p/c100c70df924) |
+| Thu, 05 Feb 2026 13:24:51 GMT | Another day to be glad it wasn’t me | Solomon James | [Read More](https://medium.com/p/9ccf3602b434) |
+| Thu, 05 Feb 2026 13:10:54 GMT | The Identity Crisis of AI Agents: Why Authentication Gets Complicated When Your Assistant Calls an… | Filip Verloy | [Read More](https://medium.com/p/f75649647704) |
 | Thu, 05 Feb 2026 13:06:48 GMT | Elon’s SpaceX Police Force, Substack’s Data Breach, and the Rise of “Gizmo” - The Daily Tech… | Souren Stepanyan | [Read More](https://medium.com/p/83feb6d469ef) |
 | Thu, 05 Feb 2026 13:01:02 GMT | The “Flat Network” Fallacy: Why My Easiest Wins Happen When You Don’t Segment | k3rnelpan1c | [Read More](https://medium.com/p/7dc1653a192f) |
 | Thu, 05 Feb 2026 12:58:54 GMT | Why LLMs Are Probabilistic Text Continuers — Not Logical Agents | Tusharvats | [Read More](https://medium.com/p/f760ffef4e69) |
@@ -32,6 +49,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Feb 2026 12:13:08 GMT | “Bug Bounty Bootcamp #23: CORS Exploitation — How Misconfigured Headers Let You Steal User Data… | Aman Sharma | [Read More](https://medium.com/p/9c4527b5ae79) |
 | Thu, 05 Feb 2026 12:12:05 GMT | Every Vulnerability Commonly Found in Login Flows | Bugatsec | [Read More](https://medium.com/p/1b64f34500fe) |
 | Thu, 05 Feb 2026 12:10:10 GMT | talim ng pagkakakilanlan | missy ۶ৎ | [Read More](https://medium.com/p/e03475ded54b) |
+| Thu, 05 Feb 2026 12:03:57 GMT | Top Cyber Security Services to Safeguard Your Business | Genesis | [Read More](https://medium.com/p/e85944cafbd2) |
 | Thu, 05 Feb 2026 12:02:32 GMT | Hire N8N Developers to Build Scalable Automation That Saves Time and Costs | n8ndevelopers | [Read More](https://medium.com/p/82d3cffa05b0) |
 | Thu, 05 Feb 2026 12:01:01 GMT | Writeup for picoCTF challenge “Local Authority” | Walter Moar | [Read More](https://medium.com/p/cf231ec83e4c) |
 | Thu, 05 Feb 2026 11:54:32 GMT | TryHackMe Injectics: Injection Attacks Walkthrough | Sajal Tiwari | [Read More](https://medium.com/p/2ade1eb2b1be) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Feb 2026 08:19:34 GMT | Getting into cybersecurity — Part 1 | Dev Sharma | [Read More](https://medium.com/p/39a5ad5c73bf) |
 | Thu, 05 Feb 2026 08:16:53 GMT | A Comprehensive Deconstruction of the “Work Ethics Board” Employment Scam | Kiama Kareithi | [Read More](https://medium.com/p/e3136af0ba9f) |
 | Thu, 05 Feb 2026 08:16:29 GMT | Ultimate HTB CPTS 2026 Notes: The Complete Study Guide | The Mastermind Notes | [Read More](https://medium.com/p/fe6b22504ad7) |
-| Thu, 05 Feb 2026 08:12:11 GMT | Notepad++ Supply Chain Attack | Ankita Sinha | [Read More](https://medium.com/p/9a78166b9c00) |
-| Thu, 05 Feb 2026 08:09:03 GMT | Supply Chain Attacks: When Trust Becomes the Weak Spot | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/6afc28743fdf) |
-| Thu, 05 Feb 2026 08:06:47 GMT | Emphasizing a “We Care Approach” | Vintage Vaults | [Read More](https://medium.com/p/66ecc5608427) |
-| Thu, 05 Feb 2026 08:03:08 GMT | CEH Certification: A Practical Path to Ethical Hacking Skills | Ryan Brooks | [Read More](https://medium.com/p/7944e12c2066) |
-| Thu, 05 Feb 2026 07:57:02 GMT | LOGICAL LIMITATIONS OF AI MODELS IN THREAT INTELLIGENCE | Rakesh Krishnan | [Read More](https://medium.com/p/4b56f61d247f) |
-| Thu, 05 Feb 2026 07:48:18 GMT | H3C CVM auth bypass & information disclosure | suicidal_teddy | [Read More](https://medium.com/p/5b2c9a4fdfef) |
-| Thu, 05 Feb 2026 07:48:15 GMT | The Future of Cybersecurity Will Be Written by Hackers and Quantum Computers | Darksynthhacker | [Read More](https://medium.com/p/6470e3e2f842) |
-| Thu, 05 Feb 2026 07:47:38 GMT | What is Real-Time CCTV Monitoring? | Doris William | [Read More](https://medium.com/p/72c520d79904) |
-| Thu, 05 Feb 2026 07:47:16 GMT | How a Houston Home Security Camera System Keeps Your Family Safe! | Avenger Security Alarm | [Read More](https://medium.com/p/560d6eabc599) |
-| Thu, 05 Feb 2026 07:46:15 GMT | How Modern Vision IT is Engineering Growth for KSA Businesses | Modern Vision | [Read More](https://medium.com/p/9c23903dd0dd) |
-| Thu, 05 Feb 2026 07:45:45 GMT | Bypassing Disabled PHP Functions via File Upload (LD_PRELOAD Technique) | Omarelsayedkhalef | [Read More](https://medium.com/p/0fd8e7cda6c2) |
-| Thu, 05 Feb 2026 07:42:23 GMT | Finding IDORs with Burp Suite: Real-World Examples That Actually Work | ghostyjoe | [Read More](https://medium.com/p/88bc4a165492) |
-| Thu, 05 Feb 2026 07:40:49 GMT | Red Team Automation: The Future of Offensive Security | Majidbasharat | [Read More](https://medium.com/p/6d3de56e574d) |
-| Thu, 05 Feb 2026 07:34:27 GMT | Sanity Fund: Building a Sustainable, Utility-Driven Web3 Ecosystem | Mansuraasha | [Read More](https://medium.com/p/9554db8e4871) |
-| Thu, 05 Feb 2026 07:33:33 GMT | How to Shield Your Data in the Cloud | Dhanush N | [Read More](https://medium.com/p/e1d2676a46bd) |
-| Thu, 05 Feb 2026 07:31:54 GMT | How OAuth 2.0 Actually Works Behind the Scenes | Cynox Security LLP. | [Read More](https://medium.com/p/cae8f4c23a7d) |
-| Thu, 05 Feb 2026 07:31:52 GMT | Why Quantum Computing Will Force Companies to Hire Professional Hackers | Darksynthhacker | [Read More](https://medium.com/p/105843d982e7) |
-| Thu, 05 Feb 2026 07:31:00 GMT | Prompt Injection: Defenses Teams Actually Ship | Vectorlane | [Read More](https://medium.com/p/34e0ec265ed7) |
