@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Feb 2026 22:23:05 GMT | Disabling PPL Protection on Windows Processes | S12 - 0x12Dark Development | [Read More](https://medium.com/p/0cb77a065939) |
+| Thu, 05 Feb 2026 22:11:01 GMT | 4 Dangerous Dreams That Will Ruin Your Life After 50 | Riva Smith | [Read More](https://medium.com/p/d7b494c731fc) |
+| Thu, 05 Feb 2026 21:49:03 GMT | SOC Control Panel | Techwin Cyber | [Read More](https://medium.com/p/ca0a1095b395) |
+| Thu, 05 Feb 2026 21:48:33 GMT | Why Small Businesses Must Use AI to Defend Against AI | Aysha Saifi | [Read More](https://medium.com/p/74255b6e4561) |
+| Thu, 05 Feb 2026 21:40:38 GMT | Moltbot the World’s Most Interesting AI | Chris (Gendryx) | [Read More](https://medium.com/p/1a5c6cfb9d54) |
+| Thu, 05 Feb 2026 21:36:02 GMT | Network Analysis - Malware Compromise (Blue Team Labs Online Writeup) | Luka Babetzki | [Read More](https://medium.com/p/b98d97bb72d1) |
+| Thu, 05 Feb 2026 21:30:27 GMT | From Files to Behavior: Why Traditional DLP Is No Longer Enough | Priderock Joy | [Read More](https://medium.com/p/3f92ac54d233) |
 | Thu, 05 Feb 2026 21:20:43 GMT | OP-TEE: A Practical Trusted Execution Environment on ARM TrustZone | Wadix Technologies | [Read More](https://medium.com/p/c0c0073eca4a) |
 | Thu, 05 Feb 2026 21:06:01 GMT | Aaron W. DeJong Newsletter: Episode 2 | Aaron DeJong | [Read More](https://medium.com/p/072a34cd2c83) |
 | Thu, 05 Feb 2026 20:57:12 GMT | Client-Server Basics · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/a9f812eadf2b) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Feb 2026 15:26:32 GMT | ‘God Forbid’ Is Not a Security Strategy: Why Security Awareness Matters in Nigeria | Emmanuel Ekwuazi | [Read More](https://medium.com/p/91444d4555b8) |
 | Thu, 05 Feb 2026 15:20:34 GMT | Cloud Computing Fundamentals Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/e153d7de0f09) |
 | Thu, 05 Feb 2026 15:18:15 GMT | Understanding Computer Networks: Basics Every Beginner Should Know | Nida Arshad | [Read More](https://medium.com/p/156a21626acd) |
-| Thu, 05 Feb 2026 15:16:05 GMT | USCSI® January Highlights: Insights to Stay Relevant and Competitive | Lucia Adams | [Read More](https://medium.com/p/8928b92d6ce1) |
-| Thu, 05 Feb 2026 15:15:12 GMT | Cert pinning, obtener APKs oficiales para análisis y el error `The client failed to negotiate a TLS… | x02sec | [Read More](https://medium.com/p/8c06e1cd3332) |
-| Thu, 05 Feb 2026 15:14:48 GMT | Are “Unbreakable” LTSC Devices Actually Secure? Real Breaches & Prevention | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/057249238f52) |
-| Thu, 05 Feb 2026 15:08:13 GMT | Getting Started with Kali Linux: 20 Essential Commands and Their Uses | Nida Arshad | [Read More](https://medium.com/p/2a8539cb038d) |
-| Thu, 05 Feb 2026 15:02:21 GMT | the reason you run is because you’ve forgotten what it feels like to be held | ⋆`would hanné️ever live? | [Read More](https://medium.com/p/e5dde1c49655) |
-| Thu, 05 Feb 2026 15:01:03 GMT | Things about your iPhone no one talks about — the truth about Airplane mode. | Samuel Brice | [Read More](https://medium.com/p/84ad6305753a) |
-| Thu, 05 Feb 2026 15:00:44 GMT | The Little Girl Taught Me How to Feel Safe Again | War Vithin | [Read More](https://medium.com/p/bccfaf2244a4) |
