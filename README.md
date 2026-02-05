@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Feb 2026 21:20:43 GMT | OP-TEE: A Practical Trusted Execution Environment on ARM TrustZone | Wadix Technologies | [Read More](https://medium.com/p/c0c0073eca4a) |
+| Thu, 05 Feb 2026 21:06:01 GMT | Aaron W. DeJong Newsletter: Episode 2 | Aaron DeJong | [Read More](https://medium.com/p/072a34cd2c83) |
+| Thu, 05 Feb 2026 20:57:12 GMT | Client-Server Basics · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/a9f812eadf2b) |
+| Thu, 05 Feb 2026 20:51:33 GMT | Stop Giving Your Real Email to Every Website — Here’s What to Do Instead: TempMail4.site | SSH-Tunnel | [Read More](https://medium.com/p/2e873cce1afa) |
+| Thu, 05 Feb 2026 20:50:44 GMT | MASTERING THE HACKER MINDSET: HOW ETHICAL HACKERS DEFEND BY THINKING LIKE ATTACKERS | Raphaam Digital (Cyber Security Updates) | [Read More](https://medium.com/p/852bc0261f01) |
+| Thu, 05 Feb 2026 20:50:05 GMT | PQC Is Happening | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/3006f4491701) |
+| Thu, 05 Feb 2026 20:48:13 GMT | Moltbook Is Not the Singularity. It’s LLM Theater. | Tim Kapp | [Read More](https://medium.com/p/31fefc263480) |
+| Thu, 05 Feb 2026 20:47:42 GMT | RingZeroCTF Coding Challenge 4 [Can you help me find the answer to this equation] Writeup | Devansh Patel | [Read More](https://medium.com/p/7326fef71ec1) |
+| Thu, 05 Feb 2026 20:44:23 GMT | The Best Online Cybersecurity Courses of 2026 | Emory French | [Read More](https://medium.com/p/d222951abd2a) |
 | Thu, 05 Feb 2026 20:37:49 GMT | Master F5 BIG-IP — Limited-Time Free Coupon Codes! | DeepDive4learn | [Read More](https://medium.com/p/785842dc78d8) |
+| Thu, 05 Feb 2026 20:35:42 GMT | Part 1: I Walked Into My First Hackathon Knowing Only HTML, CSS, and JavaScript | Aniket Chakraborty | [Read More](https://medium.com/p/dfdf6958b025) |
 | Thu, 05 Feb 2026 20:25:39 GMT | The Matrix Reloaded and the Cyber Security lesson You Missed | Umar Al-Mahfuz | [Read More](https://medium.com/p/d8a97bfae7b0) |
 | Thu, 05 Feb 2026 20:12:08 GMT | Business Logic Vulnerabilities — When Applications Work as Designed, but Still Fail | Anshkamra | [Read More](https://medium.com/p/3353fd2f7df1) |
 | Thu, 05 Feb 2026 20:11:04 GMT | Sokudo writeup (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/0e2c54aae329) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Feb 2026 15:02:21 GMT | the reason you run is because you’ve forgotten what it feels like to be held | ⋆`would hanné️ever live? | [Read More](https://medium.com/p/e5dde1c49655) |
 | Thu, 05 Feb 2026 15:01:03 GMT | Things about your iPhone no one talks about — the truth about Airplane mode. | Samuel Brice | [Read More](https://medium.com/p/84ad6305753a) |
 | Thu, 05 Feb 2026 15:00:44 GMT | The Little Girl Taught Me How to Feel Safe Again | War Vithin | [Read More](https://medium.com/p/bccfaf2244a4) |
-| Thu, 05 Feb 2026 14:59:10 GMT | This Is Not a Typical Snake Keylogger: Inside a OneDrive-Injected, Encrypted Memory Malware | Kaan | [Read More](https://medium.com/p/4d84b4bd3634) |
-| Thu, 05 Feb 2026 14:58:48 GMT | Lens Browser 1.0.2: Enhanced Performance & Improved Ad Blocking | Cahyanudien aziz “Wayang” Saputra | [Read More](https://medium.com/p/b7b22f3f4c91) |
-| Thu, 05 Feb 2026 14:50:41 GMT | WHAT WE HAVE LEARNED .. | Rashid khan | [Read More](https://medium.com/p/a9457ac213b5) |
-| Thu, 05 Feb 2026 14:48:46 GMT | ⚠️ WARNING: I Just Built Real Malware by using just human language prompts! | Andrey Pautov | [Read More](https://medium.com/p/8949628dee19) |
-| Thu, 05 Feb 2026 14:47:33 GMT | Burp Suite Explained Complete Beginner’s Guide to Web Security Testing | Shadow Attackers | [Read More](https://medium.com/p/477b43380b82) |
-| Thu, 05 Feb 2026 14:45:35 GMT | Fractal Autonomy: The Underlying Operating System of Carbon-Silicon Symbiosis | Runzhang Jia | [Read More](https://medium.com/p/4fb71f4e3096) |
-| Thu, 05 Feb 2026 14:45:29 GMT | Security Problems Usually Start Before Anyone Notices | Sam Walker | [Read More](https://medium.com/p/f675ba7e665f) |
-| Thu, 05 Feb 2026 14:45:11 GMT | Why Cybersecurity Frameworks Do Not Equal Regulatory Compliance | Jemima Nanret Mwana | [Read More](https://medium.com/p/381df8b56f01) |
-| Thu, 05 Feb 2026 14:41:51 GMT | Introducing the Adversarial Detection Engineering Framework: A Taxonomy for Detection Logic Bugs | Koifsec | [Read More](https://medium.com/p/aef2dc2472d5) |
-| Thu, 05 Feb 2026 14:35:16 GMT | Notepad++ Supply Chain Hack Explained: How Conducted Hack via Hosting Provider | IT_Engineer | [Read More](https://medium.com/p/98f3bf25b7fd) |
