@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Feb 2026 20:37:49 GMT | Master F5 BIG-IP — Limited-Time Free Coupon Codes! | DeepDive4learn | [Read More](https://medium.com/p/785842dc78d8) |
+| Thu, 05 Feb 2026 20:25:39 GMT | The Matrix Reloaded and the Cyber Security lesson You Missed | Umar Al-Mahfuz | [Read More](https://medium.com/p/d8a97bfae7b0) |
+| Thu, 05 Feb 2026 20:12:08 GMT | Business Logic Vulnerabilities — When Applications Work as Designed, but Still Fail | Anshkamra | [Read More](https://medium.com/p/3353fd2f7df1) |
+| Thu, 05 Feb 2026 20:11:04 GMT | Sokudo writeup (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/0e2c54aae329) |
+| Thu, 05 Feb 2026 19:57:34 GMT | Creating a Buffer Overflow CTF Challenge | Jordan Lanning - MIT, MPA | [Read More](https://medium.com/p/71a60e4578ef) |
+| Thu, 05 Feb 2026 19:57:28 GMT | Bypassing Frida: Advanced Frida Detection Bypass — Part 4 | Haxymad | [Read More](https://medium.com/p/c258e8f5aa64) |
+| Thu, 05 Feb 2026 19:56:39 GMT | Agentic AI in the SOC: who’s in charge when it fails? | Denny Roger | [Read More](https://medium.com/p/de39e3b3980b) |
+| Thu, 05 Feb 2026 19:55:05 GMT | My Journey to the CWES certification | B13ss3d | [Read More](https://medium.com/p/dd7e53c45bcb) |
 | Thu, 05 Feb 2026 19:47:59 GMT | Cybersecurity Is Less About Attacks and More About Discipline | Liam | [Read More](https://medium.com/p/ae199e318f74) |
 | Thu, 05 Feb 2026 19:40:36 GMT | Learning Cybersecurity Is Easy. Staying Relevant Is the Hard Part | Liam | [Read More](https://medium.com/p/9c30b76b3bb9) |
 | Thu, 05 Feb 2026 19:39:35 GMT | OpenClaw and the Security Cost of Agentic AI | Fadi Shaar | [Read More](https://medium.com/p/344a3a1f06c7) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Feb 2026 14:45:11 GMT | Why Cybersecurity Frameworks Do Not Equal Regulatory Compliance | Jemima Nanret Mwana | [Read More](https://medium.com/p/381df8b56f01) |
 | Thu, 05 Feb 2026 14:41:51 GMT | Introducing the Adversarial Detection Engineering Framework: A Taxonomy for Detection Logic Bugs | Koifsec | [Read More](https://medium.com/p/aef2dc2472d5) |
 | Thu, 05 Feb 2026 14:35:16 GMT | Notepad++ Supply Chain Hack Explained: How Conducted Hack via Hosting Provider | IT_Engineer | [Read More](https://medium.com/p/98f3bf25b7fd) |
-| Thu, 05 Feb 2026 14:35:01 GMT | ATO via email verification endpoint leads to unauthorized email binding and password reset | Mohamed M Mourad | [Read More](https://medium.com/p/32c51484ca76) |
-| Thu, 05 Feb 2026 14:30:27 GMT | Web Application & API Security | Gamuchirai | [Read More](https://medium.com/p/c92c3f25c4dd) |
-| Thu, 05 Feb 2026 14:13:12 GMT | Between Deterrence and Collapse: Why the US–Iran Moment Is a Systems Problem, Not a Military One | PYURA ANSHUMAN | [Read More](https://medium.com/p/139311c7e286) |
-| Thu, 05 Feb 2026 14:11:49 GMT | Dig Dug: TryHackMe Challenge Lab | William Shively | [Read More](https://medium.com/p/56429299b93c) |
-| Thu, 05 Feb 2026 14:10:59 GMT | Choosing a new crypto hardware wallet in 2026: Avoid these common mistakes | Henry Windle | [Read More](https://medium.com/p/78aa134e1075) |
-| Thu, 05 Feb 2026 14:07:34 GMT | Your Guide to Data Privacy and Security in the Age of ICE Surveillance | Anonymous Researcher | [Read More](https://medium.com/p/0f950da15383) |
-| Thu, 05 Feb 2026 14:02:43 GMT | The Invisible Enemy How I Built an Automated Hunter to Catch Malware That EDRs Miss | Smruti Ranjan Pradhan | [Read More](https://medium.com/p/8603e4b0b6ce) |
-| Thu, 05 Feb 2026 14:00:57 GMT | Moltbook! AI Socializing? Reason for Concern or Curiosity? | Creative Clicks | [Read More](https://medium.com/p/b96526726e18) |
