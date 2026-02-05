@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Feb 2026 19:47:59 GMT | Cybersecurity Is Less About Attacks and More About Discipline | Liam | [Read More](https://medium.com/p/ae199e318f74) |
+| Thu, 05 Feb 2026 19:40:36 GMT | Learning Cybersecurity Is Easy. Staying Relevant Is the Hard Part | Liam | [Read More](https://medium.com/p/9c30b76b3bb9) |
+| Thu, 05 Feb 2026 19:39:35 GMT | OpenClaw and the Security Cost of Agentic AI | Fadi Shaar | [Read More](https://medium.com/p/344a3a1f06c7) |
+| Thu, 05 Feb 2026 19:38:51 GMT | Intrusion Detection and Response: Architecting Resilient Cyber Defense Systems | Mai Tran | [Read More](https://medium.com/p/8e1190cfa69c) |
+| Thu, 05 Feb 2026 19:38:00 GMT | Digital Forensics in Cyber Investigations: Acquisition, Analysis, and Interpretation of Digital… | Mai Tran | [Read More](https://medium.com/p/9721ae7acd93) |
+| Thu, 05 Feb 2026 19:34:49 GMT | How to start? | 0xnullsec | [Read More](https://medium.com/p/63dca4d9ea28) |
+| Thu, 05 Feb 2026 19:30:13 GMT | Bypassing Frida: Advanced Frida Detection Bypass — Part 3 | Haxymad | [Read More](https://medium.com/p/339aa1202c48) |
+| Thu, 05 Feb 2026 19:27:50 GMT | Understanding SQL Injection Using DVWA (Educational Lab) | Tejas Kamble | [Read More](https://medium.com/p/4556dd27911f) |
+| Thu, 05 Feb 2026 19:24:26 GMT | DarkSide Challenge Write-Up — Web Security Easy - CyberTalents | Z3DX | [Read More](https://medium.com/p/e0605b54afd9) |
+| Thu, 05 Feb 2026 19:24:12 GMT | Bean Challenge Write-Up — Web Security Easy - CyberTalents | Z3DX | [Read More](https://medium.com/p/590ab7ef94f6) |
+| Thu, 05 Feb 2026 19:24:03 GMT | Why Cybersecurity Keeps Failing — And How Deming’s Red Beads Predicted It All | gershblumstein | [Read More](https://medium.com/p/046f4d1793d7) |
+| Thu, 05 Feb 2026 19:21:17 GMT | AI Constitutions Are Here. I Still Use Chrome. | Anna Jacobi | [Read More](https://medium.com/p/6ae10d3bfc49) |
+| Thu, 05 Feb 2026 19:12:09 GMT | How to Achieve SOC 2 Compliance in 90 Days: The Complete Engineering Playbook | Nicholas Thoni | [Read More](https://medium.com/p/e3d8315d5c61) |
 | Thu, 05 Feb 2026 19:07:34 GMT | Hacking Isn’t Breaking the Law — It’s Breaking Assumptions | Amandogra | [Read More](https://medium.com/p/1ba13ac4e74c) |
 | Thu, 05 Feb 2026 19:04:25 GMT | The Rise of OpenClaw .. and the Security Reckoning That Follows | Taimur Ijlal | [Read More](https://medium.com/p/c832df0c19ac) |
 | Thu, 05 Feb 2026 19:02:12 GMT | Mass Assignment: How a Simple Maintenance Role Gained Admin Control Over Cloud Backups [P2] | Mostafa Muhammed | [Read More](https://medium.com/p/693a5f678b05) |
@@ -25,6 +38,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Feb 2026 18:43:18 GMT | Secure Deployment and Hardening Guide for Microsoft IIS (CIS-Aligned) | SOCFortress | [Read More](https://medium.com/p/a92a05755200) |
 | Thu, 05 Feb 2026 18:38:17 GMT | Ethical Hacking | Siddra Naseem | [Read More](https://medium.com/p/b97a43452266) |
 | Thu, 05 Feb 2026 18:35:19 GMT | Android Dirty Stream: A Comprehensive Technical Deep-Dive | lightofmoon | [Read More](https://medium.com/p/5cc365c2f0fc) |
+| Thu, 05 Feb 2026 18:30:18 GMT | MoltBook Broke the Internet, But Not For the Reasons You Think | Aastha Thakker | [Read More](https://medium.com/p/ff4b84e7c94a) |
 | Thu, 05 Feb 2026 18:25:22 GMT | Your AI Agent Just Tried to Delete Production. Here’s the Open-Source Firewall That Stopped It. | Sattyam Jain | [Read More](https://medium.com/p/06644a93576b) |
 | Thu, 05 Feb 2026 18:24:12 GMT | IoT and IIoT Vulnerabilities in Smart Environments: Key Cybersecurity Challenges | Digital Defense | [Read More](https://medium.com/p/85c44b415d8b) |
 | Thu, 05 Feb 2026 18:23:51 GMT | Efficient Array Wrapping: The Modulo Trick Every Developer Should Know | Lokeshwar Reddy N | [Read More](https://medium.com/p/7ee614272100) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Feb 2026 14:07:34 GMT | Your Guide to Data Privacy and Security in the Age of ICE Surveillance | Anonymous Researcher | [Read More](https://medium.com/p/0f950da15383) |
 | Thu, 05 Feb 2026 14:02:43 GMT | The Invisible Enemy How I Built an Automated Hunter to Catch Malware That EDRs Miss | Smruti Ranjan Pradhan | [Read More](https://medium.com/p/8603e4b0b6ce) |
 | Thu, 05 Feb 2026 14:00:57 GMT | Moltbook! AI Socializing? Reason for Concern or Curiosity? | Creative Clicks | [Read More](https://medium.com/p/b96526726e18) |
-| Thu, 05 Feb 2026 13:59:01 GMT | My Journey Through TCS HackQuest Season 10 | Shiva Sai Reddy Mikkili | [Read More](https://medium.com/p/6c9e3c1c2905) |
-| Thu, 05 Feb 2026 13:57:52 GMT | Data Privacy & Legal Frameworks I(GDPR, HIPPA, NDPR) | Aminat Fowoke Balogun‍ | [Read More](https://medium.com/p/177fa3de2085) |
-| Thu, 05 Feb 2026 13:57:13 GMT | “Web Technology & OWASP: The Secret Behind Secure and Interactive Websites” | Habibi | [Read More](https://medium.com/p/5da0403b17a1) |
-| Thu, 05 Feb 2026 13:45:58 GMT | Hands-On Cybersecurity Labs for Skill-Based Learning | Kunal Arora | [Read More](https://medium.com/p/84d22b0ab91d) |
-| Thu, 05 Feb 2026 13:45:50 GMT | Beyond Fingertips: Why 3D Face Unlock is the Ultimate Standard for Secure Mobility | Ali Kamal | [Read More](https://medium.com/p/f56ddd955b6e) |
-| Thu, 05 Feb 2026 13:45:44 GMT | Once Upon a Time I Met the Love of My Life | KV | [Read More](https://medium.com/p/5dc09b4860d7) |
-| Thu, 05 Feb 2026 13:33:37 GMT | One Slack Message = Full Control | Cynox Security LLP. | [Read More](https://medium.com/p/bd1c94c715f3) |
-| Thu, 05 Feb 2026 13:28:25 GMT | Hash Functions: The Hidden Algorithm Behind Passwords, Bitcoin, and the Modern Internet | Vagelis Plevris | [Read More](https://medium.com/p/28a4f4f97531) |
-| Thu, 05 Feb 2026 13:27:35 GMT | AI ChatGPT Sponsored Ads and the Quiet End of an Ad-Free Internet Ideal | Vyomedge - Digital Marketing & IT Services | [Read More](https://medium.com/p/c100c70df924) |
-| Thu, 05 Feb 2026 13:24:51 GMT | Another day to be glad it wasn’t me | Solomon James | [Read More](https://medium.com/p/9ccf3602b434) |
-| Thu, 05 Feb 2026 13:10:54 GMT | The Identity Crisis of AI Agents: Why Authentication Gets Complicated When Your Assistant Calls an… | Filip Verloy | [Read More](https://medium.com/p/f75649647704) |
-| Thu, 05 Feb 2026 13:06:48 GMT | Elon’s SpaceX Police Force, Substack’s Data Breach, and the Rise of “Gizmo” - The Daily Tech… | Souren Stepanyan | [Read More](https://medium.com/p/83feb6d469ef) |
-| Thu, 05 Feb 2026 13:01:02 GMT | The “Flat Network” Fallacy: Why My Easiest Wins Happen When You Don’t Segment | k3rnelpan1c | [Read More](https://medium.com/p/7dc1653a192f) |
-| Thu, 05 Feb 2026 12:58:54 GMT | Why LLMs Are Probabilistic Text Continuers — Not Logical Agents | Tusharvats | [Read More](https://medium.com/p/f760ffef4e69) |
