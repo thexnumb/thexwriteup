@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Feb 2026 05:30:57 GMT | Advantages of a Cyber Security Course | Singhyashdeep | [Read More](https://medium.com/p/588b89b0e761) |
+| Thu, 05 Feb 2026 05:28:34 GMT | How SS7 Attacks Break Telecom Trust and Compromise Security | Pentester Club | [Read More](https://medium.com/p/7904f3a16e49) |
+| Thu, 05 Feb 2026 05:02:52 GMT | Information About Linux | DefenAsh | [Read More](https://medium.com/p/58cd171abafd) |
+| Thu, 05 Feb 2026 04:53:46 GMT | Post-Quantum Cryptography Transforms E-Signature Security Standards | Rohitgarg | [Read More](https://medium.com/p/9c1092c3458b) |
+| Thu, 05 Feb 2026 04:52:04 GMT | Exploitation of Microsoft Office Zero-Day (CVE-2026–21509) by Russian State-Sponsored Threat Group | NSHC ThreatRecon Team | [Read More](https://medium.com/p/cf401f66c102) |
+| Thu, 05 Feb 2026 04:51:30 GMT | Day 37 — GitOps Secrets with Bitnami Sealed Secrets + Argo CD + Helm | Alok Rahul | [Read More](https://medium.com/p/baa0f2dd33a8) |
+| Thu, 05 Feb 2026 04:50:22 GMT | Visitor Management: Managing Risk Without Bias in a Security-First World | Green Security | [Read More](https://medium.com/p/5e490fd0aad7) |
+| Thu, 05 Feb 2026 04:41:43 GMT | How My Phone Was Taken Over | Anton Minin Baranovskii | [Read More](https://medium.com/p/a0994023e57b) |
+| Thu, 05 Feb 2026 04:33:48 GMT | Weaponizing Useless XSS: How Path Traversal Turned Reflection into Exploitation | Prasannasalunkhe | [Read More](https://medium.com/p/49d8acc1e8f8) |
+| Thu, 05 Feb 2026 04:33:13 GMT | OpenClaw: The AI Assistant That Went Viral — And Why Security Experts Are Worried | Mohammed Ayon | [Read More](https://medium.com/p/df9d778a2541) |
+| Thu, 05 Feb 2026 04:31:08 GMT | Sandbox First: The Only Agent Security Problem | Vectorlane | [Read More](https://medium.com/p/e3182df40ea5) |
+| Thu, 05 Feb 2026 04:31:08 GMT | CSRF vs XSS — Explained with Real Examples | Hasan Chinthaka | [Read More](https://medium.com/p/eab77db4a103) |
+| Thu, 05 Feb 2026 04:31:07 GMT | When Agents Act, You Need Receipts | Modexa | [Read More](https://medium.com/p/c030d5367392) |
+| Thu, 05 Feb 2026 04:28:20 GMT | Apache + PHP deployment pattern turns into instant RCE | 24BkDoor | [Read More](https://medium.com/p/e8537f09e34f) |
+| Thu, 05 Feb 2026 04:23:36 GMT | Vulnerability Management Market Overview: Strategies, Solutions, and Competitive Landscape | Gauri Kale | [Read More](https://medium.com/p/b9012586f5b0) |
+| Thu, 05 Feb 2026 04:18:25 GMT | Brute Force Vulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/3ee34eadb197) |
 | Thu, 05 Feb 2026 04:18:15 GMT | The Art of Reconnaissance Part 1 : How Hackers Find Vulnerabilities Before You Do | cat0x01 | [Read More](https://medium.com/p/1341a39c71ba) |
 | Thu, 05 Feb 2026 04:14:50 GMT | The Secret Life of AWS: The Vault (AWS Secrets Manager) | Aaron Rose | [Read More](https://medium.com/p/9d93fd6fa91d) |
 | Thu, 05 Feb 2026 03:41:28 GMT | ⭐ SOC274 — Palo Alto Networks PAN-OS Command Injection Vulnerability Exploitation (CVE-2024–3400) | Owais Ali Khan | [Read More](https://medium.com/p/72aa6a1a9758) |
@@ -97,19 +113,3 @@ I wanted to join an organization i was not part of , by adding a new user and…
 | Wed, 04 Feb 2026 18:58:11 GMT | Volnaya Forums HTB walkthrough | Nullecho | [Read More](https://medium.com/p/8c0fd4849151) |
 | Wed, 04 Feb 2026 18:56:17 GMT | Try Hack Me- broker CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/d131bd5a622b) |
 | Wed, 04 Feb 2026 18:54:10 GMT | Does Password Management Define Digital Security? | Fortress Protocol | [Read More](https://medium.com/p/862ac633152b) |
-| Wed, 04 Feb 2026 18:54:00 GMT | If your agent can browse the web, you’re f*cked. | Lucas Valbuena | [Read More](https://medium.com/p/2c7f1460b2a3) |
-| Wed, 04 Feb 2026 18:53:19 GMT | Rebuilding the Cybersecurity Framework in the Age of AI | Len Noe | [Read More](https://medium.com/p/6f1e99ca990a) |
-| Wed, 04 Feb 2026 18:43:00 GMT | ¿Cómo almacenar datos sensibles de forma segura en Flutter? | Julian Bonilla | [Read More](https://medium.com/p/64a0517d8320) |
-| Wed, 04 Feb 2026 18:36:38 GMT | HAProxy Secure Deployment & Hardening Guide | SOCFortress | [Read More](https://medium.com/p/e03a6ba16a54) |
-| Wed, 04 Feb 2026 18:25:42 GMT | Beyond the Briefings: The People of Black Hat (Photo Collage) | MEDUSA | [Read More](https://medium.com/p/d8e9ac20029f) |
-| Wed, 04 Feb 2026 18:23:13 GMT | Cloud Computing Fundamentals · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/341cdb0bc60c) |
-| Wed, 04 Feb 2026 18:21:08 GMT | Stop Making These 5 Fatal JWT Mistakes (And How to Fix Them) | Simon Reed | [Read More](https://medium.com/p/ad9d07046998) |
-| Wed, 04 Feb 2026 18:12:52 GMT | Command Injection in n8n Community Package Installation (CVE-2026–21893) | Berk Dedekargınoğlu | [Read More](https://medium.com/p/ad0f3f06271d) |
-| Wed, 04 Feb 2026 18:10:33 GMT | Insights on Security, Safety, and Protection Services in Australia | SecurityInsightsAU | [Read More](https://medium.com/p/ed144fbf2bab) |
-| Wed, 04 Feb 2026 18:06:00 GMT | Operational Offensive Security: Reconnaissance, Exploitation Automation, and Persistence Techniques | Mai Tran | [Read More](https://medium.com/p/64f02398c21d) |
-| Wed, 04 Feb 2026 18:03:34 GMT | The $3.2 Trillion Opportunity: Why AI Agents Are Reshaping Enterprise Security and How Early… | MAYURSINH ZALA | [Read More](https://medium.com/p/316db43139f3) |
-| Wed, 04 Feb 2026 17:52:20 GMT | Why Running Containers as Root Is a Security Nightmare | Ramanamuttana | [Read More](https://medium.com/p/26e483ebd50c) |
-| Wed, 04 Feb 2026 17:51:35 GMT | How an Internal Tool Accidentally Became Public Internet Property | Iski | [Read More](https://medium.com/p/7c60f505b65f) |
-| Wed, 04 Feb 2026 17:51:00 GMT | 11 Steps to Keep Your Business Safe(r) from Hackers | Kevin Gemeroy - Dynamic Computing | [Read More](https://medium.com/p/57f8e27c64aa) |
-| Wed, 04 Feb 2026 17:48:25 GMT | The Human Firewall: Why Social Engineering is Still the Most Dangerous Hack in 2026 | Axoloth | [Read More](https://medium.com/p/c1a3ddf511e6) |
-| Wed, 04 Feb 2026 17:41:48 GMT | Cheat Sheet For Quick find Scams in web3 | MAYURSINH ZALA | [Read More](https://medium.com/p/dca169c00010) |
