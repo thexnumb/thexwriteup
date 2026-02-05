@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Feb 2026 15:08:13 GMT | Getting Started with Kali Linux: 20 Essential Commands and Their Uses | Nida Arshad | [Read More](https://medium.com/p/2a8539cb038d) |
+| Thu, 05 Feb 2026 15:01:03 GMT | Things about your iPhone no one talks about — the truth about Airplane mode. | Samuel Brice | [Read More](https://medium.com/p/84ad6305753a) |
+| Thu, 05 Feb 2026 14:59:10 GMT | This Is Not a Typical Snake Keylogger: Inside a OneDrive-Injected, Encrypted Memory Malware | Kaan | [Read More](https://medium.com/p/4d84b4bd3634) |
+| Thu, 05 Feb 2026 14:58:48 GMT | Lens Browser 1.0.2: Enhanced Performance & Improved Ad Blocking | Cahyanudien aziz “Wayang” Saputra | [Read More](https://medium.com/p/b7b22f3f4c91) |
+| Thu, 05 Feb 2026 14:50:41 GMT | WHAT WE HAVE LEARNED .. | Rashid khan | [Read More](https://medium.com/p/a9457ac213b5) |
+| Thu, 05 Feb 2026 14:48:46 GMT | ⚠️ WARNING: I Just Built Real Malware by using just human language prompts! | Andrey Pautov | [Read More](https://medium.com/p/8949628dee19) |
+| Thu, 05 Feb 2026 14:47:33 GMT | Burp Suite Explained Complete Beginner’s Guide to Web Security Testing | Shadow Attackers | [Read More](https://medium.com/p/477b43380b82) |
+| Thu, 05 Feb 2026 14:45:35 GMT | Fractal Autonomy: The Underlying Operating System of Carbon-Silicon Symbiosis | Runzhang Jia | [Read More](https://medium.com/p/4fb71f4e3096) |
+| Thu, 05 Feb 2026 14:45:29 GMT | Security Problems Usually Start Before Anyone Notices | Sam Walker | [Read More](https://medium.com/p/f675ba7e665f) |
+| Thu, 05 Feb 2026 14:45:11 GMT | Why Cybersecurity Frameworks Do Not Equal Regulatory Compliance | Jemima Nanret Mwana | [Read More](https://medium.com/p/381df8b56f01) |
+| Thu, 05 Feb 2026 14:41:51 GMT | Introducing the Adversarial Detection Engineering Framework: A Taxonomy for Detection Logic Bugs | Koifsec | [Read More](https://medium.com/p/aef2dc2472d5) |
+| Thu, 05 Feb 2026 14:35:16 GMT | Notepad++ Supply Chain Hack Explained: How Conducted Hack via Hosting Provider | IT_Engineer | [Read More](https://medium.com/p/98f3bf25b7fd) |
+| Thu, 05 Feb 2026 14:35:01 GMT | ATO via email verification endpoint leads to unauthorized email binding and password reset | Mohamed M Mourad | [Read More](https://medium.com/p/32c51484ca76) |
+| Thu, 05 Feb 2026 14:30:27 GMT | Web Application & API Security | Gamuchirai | [Read More](https://medium.com/p/c92c3f25c4dd) |
 | Thu, 05 Feb 2026 14:13:12 GMT | Between Deterrence and Collapse: Why the US–Iran Moment Is a Systems Problem, Not a Military One | PYURA ANSHUMAN | [Read More](https://medium.com/p/139311c7e286) |
 | Thu, 05 Feb 2026 14:11:49 GMT | Dig Dug: TryHackMe Challenge Lab | William Shively | [Read More](https://medium.com/p/56429299b93c) |
 | Thu, 05 Feb 2026 14:10:59 GMT | Choosing a new crypto hardware wallet in 2026: Avoid these common mistakes | Henry Windle | [Read More](https://medium.com/p/78aa134e1075) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Feb 2026 08:58:49 GMT | Securing the Software Supply Chain: Beyond CVE Scanning to Cryptographic Verification | Md Yunus | [Read More](https://medium.com/p/5d65d35bb8ec) |
 | Thu, 05 Feb 2026 08:54:40 GMT | Top 10 IT Companies in Coimbatore (2026 Guide): Top Software Firms, Jobs & Growth | Esseindia | [Read More](https://medium.com/p/dd0579967a1f) |
 | Thu, 05 Feb 2026 08:54:21 GMT | HTB CDSA 2026 Notes | The Mastermind Notes | [Read More](https://medium.com/p/97d07a4788f4) |
-| Thu, 05 Feb 2026 08:49:43 GMT | ⚔️ picoCTF Walkthrough: Crack the Gate 2 | Creepus | [Read More](https://medium.com/p/392de392f517) |
-| Thu, 05 Feb 2026 08:48:34 GMT | picoCTF Walkthrough: Crack the Gate 1 | Creepus | [Read More](https://medium.com/p/47cf3ccabff9) |
-| Thu, 05 Feb 2026 08:45:59 GMT | Reconstructing a Crime Timeline from a Seized Phone | Emre Karatay | [Read More](https://medium.com/p/ceb291a66717) |
-| Thu, 05 Feb 2026 08:44:19 GMT | Copilot Security, Privacy & Trust - Microsoft’s Guarantees and the Evidence Your Tenant Must Stand… | Aakash Rahsi | [Read More](https://medium.com/p/c35c3d759cd5) |
-| Thu, 05 Feb 2026 08:42:38 GMT | Learning to Be Comfortable With “Good Enough” in Cybersecurity Work | Ethan Caldwell | [Read More](https://medium.com/p/109e1d49ec41) |
-| Thu, 05 Feb 2026 08:41:12 GMT | The Forever-Threat: Why the AT&T Data Crisis is the New Corporate Reality | KMSEC (Pty) LTD | [Read More](https://medium.com/p/e17195006ee4) |
-| Thu, 05 Feb 2026 08:40:29 GMT | 10 Better Ways to Equip Global Teams in 2026 (Rayda Isn’t Enough Anymore) | Yuvi Aggarwal | [Read More](https://medium.com/p/627fa6d64152) |
-| Thu, 05 Feb 2026 08:39:28 GMT | Is Your AI Agent Secure? I Got Attacked, Built a Sc | 琉璃 - Ruri | [Read More](https://medium.com/p/c6e2b239bbe3) |
-| Thu, 05 Feb 2026 08:39:17 GMT | What Makes a Country Attractive for Technology Growth | SODST | [Read More](https://medium.com/p/597b6f0d8435) |
-| Thu, 05 Feb 2026 08:33:56 GMT | $XXX Privilege Escalation Vulnerability Led me to be Application admin | Nyx0r | [Read More](https://medium.com/p/2dc8273e6748) |
-| Thu, 05 Feb 2026 08:26:58 GMT | Monthly Threat Actor Group Intelligence Report, January 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/6d94bdb0ef62) |
-| Thu, 05 Feb 2026 08:19:34 GMT | Getting into cybersecurity — Part 1 | Dev Sharma | [Read More](https://medium.com/p/39a5ad5c73bf) |
-| Thu, 05 Feb 2026 08:16:53 GMT | A Comprehensive Deconstruction of the “Work Ethics Board” Employment Scam | Kiama Kareithi | [Read More](https://medium.com/p/e3136af0ba9f) |
-| Thu, 05 Feb 2026 08:16:29 GMT | Ultimate HTB CPTS 2026 Notes: The Complete Study Guide | The Mastermind Notes | [Read More](https://medium.com/p/fe6b22504ad7) |
