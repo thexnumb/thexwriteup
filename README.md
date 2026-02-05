@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Feb 2026 07:57:02 GMT | LOGICAL LIMITATIONS OF AI MODELS IN THREAT INTELLIGENCE | Rakesh Krishnan | [Read More](https://medium.com/p/4b56f61d247f) |
+| Thu, 05 Feb 2026 07:48:18 GMT | H3C CVM auth bypass & information disclosure | suicidal_teddy | [Read More](https://medium.com/p/5b2c9a4fdfef) |
+| Thu, 05 Feb 2026 07:48:15 GMT | The Future of Cybersecurity Will Be Written by Hackers and Quantum Computers | Darksynthhacker | [Read More](https://medium.com/p/6470e3e2f842) |
+| Thu, 05 Feb 2026 07:47:38 GMT | What is Real-Time CCTV Monitoring? | Doris William | [Read More](https://medium.com/p/72c520d79904) |
+| Thu, 05 Feb 2026 07:47:16 GMT | How a Houston Home Security Camera System Keeps Your Family Safe! | Avenger Security Alarm | [Read More](https://medium.com/p/560d6eabc599) |
+| Thu, 05 Feb 2026 07:46:15 GMT | How Modern Vision IT is Engineering Growth for KSA Businesses | Modern Vision | [Read More](https://medium.com/p/9c23903dd0dd) |
+| Thu, 05 Feb 2026 07:45:45 GMT | Bypassing Disabled PHP Functions via File Upload (LD_PRELOAD Technique) | Omarelsayedkhalef | [Read More](https://medium.com/p/0fd8e7cda6c2) |
+| Thu, 05 Feb 2026 07:42:23 GMT | Finding IDORs with Burp Suite: Real-World Examples That Actually Work | ghostyjoe | [Read More](https://medium.com/p/88bc4a165492) |
+| Thu, 05 Feb 2026 07:40:49 GMT | Red Team Automation: The Future of Offensive Security | Majidbasharat | [Read More](https://medium.com/p/6d3de56e574d) |
+| Thu, 05 Feb 2026 07:34:27 GMT | Sanity Fund: Building a Sustainable, Utility-Driven Web3 Ecosystem | Mansuraasha | [Read More](https://medium.com/p/9554db8e4871) |
+| Thu, 05 Feb 2026 07:33:33 GMT | How to Shield Your Data in the Cloud | Dhanush N | [Read More](https://medium.com/p/e1d2676a46bd) |
+| Thu, 05 Feb 2026 07:31:54 GMT | How OAuth 2.0 Actually Works Behind the Scenes | Cynox Security LLP. | [Read More](https://medium.com/p/cae8f4c23a7d) |
+| Thu, 05 Feb 2026 07:31:52 GMT | Why Quantum Computing Will Force Companies to Hire Professional Hackers | Darksynthhacker | [Read More](https://medium.com/p/105843d982e7) |
+| Thu, 05 Feb 2026 07:31:00 GMT | Prompt Injection: Defenses Teams Actually Ship | Vectorlane | [Read More](https://medium.com/p/34e0ec265ed7) |
+| Thu, 05 Feb 2026 07:31:00 GMT | Your Agent Has Git. Now It’s a Perimeter | Hash Block | [Read More](https://medium.com/p/c5cef8670bac) |
+| Thu, 05 Feb 2026 07:30:05 GMT | We Are Building the Future on Insecure Foundations — And Nobody Is Talking About It | Bhawini. | [Read More](https://medium.com/p/0031da049db0) |
+| Thu, 05 Feb 2026 07:28:24 GMT | Tiny Bugs, Huge Consequences | Hammad Anjum Zubairi | [Read More](https://medium.com/p/2349a759dc94) |
+| Thu, 05 Feb 2026 07:19:22 GMT | How I Found a Full Team Takeover Vulnerability Through a Simple ID Exchange | Abhishek sharma | [Read More](https://medium.com/p/ef84a015fd7b) |
+| Thu, 05 Feb 2026 07:13:32 GMT | TryHackMe SEC1 vs COMPTIA Sec+ vs HTB CJCA | Motasem Hamdan | [Read More](https://medium.com/p/ad331ee30628) |
+| Thu, 05 Feb 2026 07:01:00 GMT | 20 Real-World File Upload Bypass Tricks Beyond php.jpg: Step-by-Step Guide for Pentesters | Very Lazy Tech | [Read More](https://medium.com/p/6844504bee3b) |
+| Thu, 05 Feb 2026 06:57:16 GMT | Building an Electron App Offline-First (Local-First Architecture for Privacy Desktop Software) | Ram Srinivasan | [Read More](https://medium.com/p/ed32bc7384d9) |
 | Thu, 05 Feb 2026 06:45:31 GMT | 2FA Bypass via OTP Reuse Across Multiple Authentication Flows | rootx-Jeet | [Read More](https://medium.com/p/faa9e07ec56d) |
 | Thu, 05 Feb 2026 06:42:09 GMT | Mixin Space #2: What Is a Web3 Wallet, Really? | Kelly XU | [Read More](https://medium.com/p/f356224a05ae) |
 | Thu, 05 Feb 2026 06:26:23 GMT | Face Recognition Is Easy. Liveness Is Not | Luna | [Read More](https://medium.com/p/bdd155a7acc9) |
@@ -92,24 +113,3 @@ I wanted to join an organization i was not part of , by adding a new user and…
 | Wed, 04 Feb 2026 21:41:34 GMT | #9: Improper Inventory Management — The APIs You Forgot You Had | Emmanuelnnebedum | [Read More](https://medium.com/p/4c008d012c76) |
 | Wed, 04 Feb 2026 21:39:39 GMT | I Hardened a Docker Image and Here’s What I Learned | Alan Varghese | [Read More](https://medium.com/p/41954e66a6c3) |
 | Wed, 04 Feb 2026 21:22:50 GMT | KC7: Convoy Street Interactive (July 2025 Workshop Game) | Aeronique | [Read More](https://medium.com/p/463887be3773) |
-| Wed, 04 Feb 2026 21:17:38 GMT | Egypt National Cybersecurity CTF 2025 - FifthSense — Threat Hunting | Ali Ammar | [Read More](https://medium.com/p/994aa425d505) |
-| Wed, 04 Feb 2026 21:07:40 GMT | CopyPasta writeup (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/7776d9a77395) |
-| Wed, 04 Feb 2026 21:03:06 GMT | Built in C: Real Time Botnet Detection and Auto Ban Defence Mitigation System | Jay Roy | [Read More](https://medium.com/p/5a3a58cd12a9) |
-| Wed, 04 Feb 2026 21:00:55 GMT | The SQL Injection That Leaked 500K User Emails (In 2025) | The Unwritten Algorithm | [Read More](https://medium.com/p/dc27d0e6fd8d) |
-| Wed, 04 Feb 2026 20:59:30 GMT | Protect your Linux server by hardening it in layers, not by relying on a single security control. | Ib2dk | [Read More](https://medium.com/p/10d24985f1e9) |
-| Wed, 04 Feb 2026 20:56:09 GMT | Get401: EU-Native Auth Alternative to Clerk/Auth0 That Won’t Lock You In | Vlad_Krushenitskii | [Read More](https://medium.com/p/176da93d5785) |
-| Wed, 04 Feb 2026 20:41:17 GMT | OpenClaw Explained: How Agentic AI Works, Where the Risks Are, and Why AI Governance Matters | Nathaniel Niyazov | [Read More](https://medium.com/p/4b3498d8af77) |
-| Wed, 04 Feb 2026 20:37:11 GMT | A Bug Bounty Masterclass Walkthrough | Jared Douville | [Read More](https://medium.com/p/d9b5c977ad68) |
-| Wed, 04 Feb 2026 20:26:59 GMT | Fuzzing 101: How Random Data Saves Millions in Web3 | Terry Mureithi | [Read More](https://medium.com/p/42a7eb7a0c8b) |
-| Wed, 04 Feb 2026 20:26:49 GMT | Advanced Tor Guide Ep. 2 — How can the Tor network help you to protect your digital assets | Michael Harms | [Read More](https://medium.com/p/28098b9b7e69) |
-| Wed, 04 Feb 2026 20:26:33 GMT | Threat Modeling & Architecture Review: The Security Superpower Most Teams Ignore | Amit Nahoom | [Read More](https://medium.com/p/551e064a0016) |
-| Wed, 04 Feb 2026 20:22:07 GMT | The CORS issue | Anshu Prakash | [Read More](https://medium.com/p/b6f703b5f28a) |
-| Wed, 04 Feb 2026 20:20:37 GMT | How to Become an Ethical Hacker using Python (Real, Practical, Legal) | Brock stone | [Read More](https://medium.com/p/ae9b95431338) |
-| Wed, 04 Feb 2026 20:13:26 GMT | Day 10: Threat Landscape & Common Attacks | Siddhesh Patil | [Read More](https://medium.com/p/4055ce6bb9b5) |
-| Wed, 04 Feb 2026 20:12:40 GMT | This Is How I Assess Cyber Risks — And This Is the Exact Process I Use with Companies | Cordula Boeck | [Read More](https://medium.com/p/2f040f72d211) |
-| Wed, 04 Feb 2026 20:12:38 GMT | The “Dangerous” Truth About AI Agents: Why The Most Useful Ones Are Also The Riskiest | Yaw Agyenim Boateng | [Read More](https://medium.com/p/0240fbf32bdc) |
-| Wed, 04 Feb 2026 20:00:08 GMT | Virtualisation Basics · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/52fd323e7293) |
-| Wed, 04 Feb 2026 19:55:06 GMT | How I Found Two Broken Access Control Vulnerabilities in the Same Program ! | 1yz02 | [Read More](https://medium.com/p/910fcf4f4015) |
-| Wed, 04 Feb 2026 19:54:27 GMT | Types of Security Camera | AlexBryn | [Read More](https://medium.com/p/fb1d4898af71) |
-| Wed, 04 Feb 2026 19:52:15 GMT | History of the Camera | AlexBryn | [Read More](https://medium.com/p/df9bb96c8558) |
-| Wed, 04 Feb 2026 19:45:02 GMT | DNS (Domain name system) in 2 mins | Dayanidhi Meganathan | [Read More](https://medium.com/p/6f4105f6d0c9) |
