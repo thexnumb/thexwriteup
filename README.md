@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Feb 2026 02:11:34 GMT | The Boulder at the Apex | Dusty Thornton | [Read More](https://medium.com/p/b62e6cf00011) |
+| Thu, 05 Feb 2026 02:10:46 GMT | Building Cyber News Hub: One Dashboard to Replace 60+ Browser Tabs | CyberAnn | [Read More](https://medium.com/p/4142fd3e755e) |
+| Thu, 05 Feb 2026 02:10:44 GMT | Why Traditional Bot Detection Is No Longer Enough for Modern Web Fraud | Zk | [Read More](https://medium.com/p/be33821aa170) |
+| Thu, 05 Feb 2026 01:59:45 GMT | CyberDefenders — Web Investigation Lab Walkthrough | Mohamed Alboghdady | [Read More](https://medium.com/p/27d2ae64ea40) |
+| Thu, 05 Feb 2026 01:42:34 GMT | Why Penetration Testing Is No Longer Optional for Singapore Businesses | Dianna | [Read More](https://medium.com/p/2dfa9336ec5f) |
+| Thu, 05 Feb 2026 01:31:01 GMT | Safe Agents Win by Saying “No” More Often | Hash Block | [Read More](https://medium.com/p/9f69f1e004a6) |
+| Thu, 05 Feb 2026 01:31:01 GMT | MCP Made Tool Standards a Power Struggle | Thinking Loop | [Read More](https://medium.com/p/c0c94c495d89) |
+| Thu, 05 Feb 2026 01:16:33 GMT | How Hackers Control Any System with Linux Processes | Shahzaib | [Read More](https://medium.com/p/3344425e6d61) |
+| Thu, 05 Feb 2026 01:07:49 GMT | RedHack Yunus bey | redhack | [Read More](https://medium.com/p/bf9b97de62fb) |
+| Thu, 05 Feb 2026 01:06:14 GMT | Even Unicorns Get Ghosted: Here’s What 71 Interviews, 11 Homework Assignments, and 156 Applications… | Marcelle Lee | [Read More](https://medium.com/p/8080c8d9bd7a) |
+| Thu, 05 Feb 2026 01:00:00 GMT | Introduction to Cybersecurity | Tolulope Olatunji | [Read More](https://medium.com/p/c19baca7a3e0) |
+| Thu, 05 Feb 2026 00:57:07 GMT | From Sketch to Simulation — How Architectural BIM Is Redefining Design Precision | SrinSoft Engineering | [Read More](https://medium.com/p/594e5db5e805) |
+| Thu, 05 Feb 2026 00:53:30 GMT | WhyHackMe (THM) Easy Write-up. | Rehimovmahmud | [Read More](https://medium.com/p/f0586e29e7a6) |
 | Wed, 04 Feb 2026 23:16:53 GMT | Advanced Network Reconnaissance: Masscan & THC-IPv6 | mohandika | [Read More](https://medium.com/p/d173b5319a9e) |
 | Wed, 04 Feb 2026 23:12:35 GMT | Building Your First Cybersecurity AI Agent with LangGraph | Arun Nair | [Read More](https://medium.com/p/d27107ac872a) |
 | Wed, 04 Feb 2026 23:11:15 GMT | AI and the Future of Cybersecurity | Cyber-AppSec | [Read More](https://medium.com/p/b14bd10fb850) |
@@ -100,16 +113,3 @@ I wanted to join an organization i was not part of , by adding a new user and…
 | Wed, 04 Feb 2026 17:01:16 GMT | A ‘Password’ Is Actually a Shared Secret | Rabail Zaheer | [Read More](https://medium.com/p/1e87bbd53381) |
 | Wed, 04 Feb 2026 16:59:04 GMT | RingZeroCTF Coding Challenge 2 [Ask Your Grandpa] Writeup | Devansh Patel | [Read More](https://medium.com/p/55bb3ed50b6a) |
 | Wed, 04 Feb 2026 16:58:01 GMT | Adversarial AI Digest — January 2026 | Tal Eliyahu | [Read More](https://medium.com/p/e6bf7abf88e6) |
-| Wed, 04 Feb 2026 16:56:58 GMT | Cyber Briefing: 2026.02.04 | CyberMaterial | [Read More](https://medium.com/p/53454e674c85) |
-| Wed, 04 Feb 2026 16:55:13 GMT | Secure Your Node.js/Express | Vaidikthakkar | [Read More](https://medium.com/p/e48580e9c904) |
-| Wed, 04 Feb 2026 16:53:36 GMT | Why Log-Centric Thinking Fails in OT | Muhammad Ali Khan | [Read More](https://medium.com/p/47058f7e654a) |
-| Wed, 04 Feb 2026 16:52:20 GMT | Putin’s Bears Don’t Hibernate… And They’re Probably Snooping in Your Network | Suyog Jung Karki | [Read More](https://medium.com/p/51a1321b4e33) |
-| Wed, 04 Feb 2026 16:43:17 GMT | Scrambled Wednesday: How Rainbow Secure Stops OCR & Screen Capture Attacks | Dr. Shashi Karhail | [Read More](https://medium.com/p/50d531fac9d6) |
-| Wed, 04 Feb 2026 16:40:00 GMT | CodePartTwo HackTheBox Machine | Enes Özkırdeniz | [Read More](https://medium.com/p/c62c43c27c26) |
-| Wed, 04 Feb 2026 16:39:44 GMT | A Penetration Test Is Like Surgery | Landry French | [Read More](https://medium.com/p/e185823c9492) |
-| Wed, 04 Feb 2026 16:38:30 GMT | Reactive IT Support Is Costing You More Than You Think | Michael Intravartolo | [Read More](https://medium.com/p/bd26264c1dee) |
-| Wed, 04 Feb 2026 16:33:42 GMT | Lab Report: Blind SQL Injection with Conditional Errors | Taysir zeituni | [Read More](https://medium.com/p/f7e007cb1417) |
-| Wed, 04 Feb 2026 16:30:29 GMT | Understanding Cyber Security Services: Protecting Your Business in a Digital World | Drona Cyber Solutions | [Read More](https://medium.com/p/dda321093861) |
-| Wed, 04 Feb 2026 16:26:34 GMT | JWT for Dummies | Shivam Bathla | [Read More](https://medium.com/p/79a381244ce8) |
-| Wed, 04 Feb 2026 16:19:41 GMT | Cybertalents Silly Doors Challenge - Full Web Security Write‑Up | Z3DX | [Read More](https://medium.com/p/34186616240e) |
-| Wed, 04 Feb 2026 16:18:32 GMT | uGame Challenge by Cypertalants Easy Web Security Write-Up | Z3DX | [Read More](https://medium.com/p/91caf1e36fb1) |
