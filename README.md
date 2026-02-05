@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Feb 2026 13:06:48 GMT | Elon’s SpaceX Police Force, Substack’s Data Breach, and the Rise of “Gizmo” - The Daily Tech… | Souren Stepanyan | [Read More](https://medium.com/p/83feb6d469ef) |
+| Thu, 05 Feb 2026 13:01:02 GMT | The “Flat Network” Fallacy: Why My Easiest Wins Happen When You Don’t Segment | k3rnelpan1c | [Read More](https://medium.com/p/7dc1653a192f) |
+| Thu, 05 Feb 2026 12:58:54 GMT | Why LLMs Are Probabilistic Text Continuers — Not Logical Agents | Tusharvats | [Read More](https://medium.com/p/f760ffef4e69) |
+| Thu, 05 Feb 2026 12:58:52 GMT | Introduction to Thick Client Pentesting | Madhumathi chamarthi | [Read More](https://medium.com/p/eedb5c132575) |
+| Thu, 05 Feb 2026 12:56:53 GMT | Malware Analysis: Documento.js | Cyd Tseng | [Read More](https://medium.com/p/4c8f94030e61) |
+| Thu, 05 Feb 2026 12:51:02 GMT | Signs Your Business Needs a Cybersecurity Company Immediately | CyberSecuritySolutions in UAE | [Read More](https://medium.com/p/12dc87819704) |
+| Thu, 05 Feb 2026 12:50:32 GMT | Top 8 US FDA Consultants to Help Medical Devices Get Approved in 2026 | QualysecEurope | [Read More](https://medium.com/p/98ea99ac0640) |
+| Thu, 05 Feb 2026 12:48:41 GMT | Setting up Wazuh at Home: From Docker Deployment to Raspberry Pi Monitoring | Ishtiaque Foysol | [Read More](https://medium.com/p/2e15d0d6d9a5) |
+| Thu, 05 Feb 2026 12:47:38 GMT | Why Ransomware is the Crime of the Century (The $4 Billion Pop-Up) | Dhanush N | [Read More](https://medium.com/p/be9edd4916f0) |
+| Thu, 05 Feb 2026 12:47:20 GMT | Why Training + Certification Matter in Privacy and AI Compliance | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/f7759ea2e34d) |
+| Thu, 05 Feb 2026 12:46:19 GMT | No CCTV Camera? No Problem — Turn Your Android Phone into a Security Camera | CCTV Mobile Camera | [Read More](https://medium.com/p/ca70473bcecf) |
+| Thu, 05 Feb 2026 12:42:20 GMT | I Watched OpenClaw Implode: Then I Looked at My Own AI Setups | anonerdus | [Read More](https://medium.com/p/f6ba14308b06) |
+| Thu, 05 Feb 2026 12:41:00 GMT | Running HashiCorp Vault Locally: Write Your First Secrets and Policies | Kirshi Yin | [Read More](https://medium.com/p/f27f291157bf) |
+| Thu, 05 Feb 2026 12:28:32 GMT | Security Structure and Architecture: How to Build and Rebuild Your Assets | William Claude | [Read More](https://medium.com/p/88e22c7bb92c) |
+| Thu, 05 Feb 2026 12:24:48 GMT | What to Buy First If You Want to Learn Hardware Hacking | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/0c251176bb1b) |
+| Thu, 05 Feb 2026 12:17:08 GMT | The Unseen Attack Surface: Why the AI Agent Shift Demands a Radical Security Rethink | Ishank choudhary | [Read More](https://medium.com/p/56df28c2aa67) |
+| Thu, 05 Feb 2026 12:13:45 GMT | Artificial Intelligence Based IDS for Public Wi-Fi on Raspberry Pi | sham | [Read More](https://medium.com/p/76fc09d8fe78) |
+| Thu, 05 Feb 2026 12:13:08 GMT | “Bug Bounty Bootcamp #23: CORS Exploitation — How Misconfigured Headers Let You Steal User Data… | Aman Sharma | [Read More](https://medium.com/p/9c4527b5ae79) |
+| Thu, 05 Feb 2026 12:12:05 GMT | Every Vulnerability Commonly Found in Login Flows | Bugatsec | [Read More](https://medium.com/p/1b64f34500fe) |
+| Thu, 05 Feb 2026 12:10:10 GMT | talim ng pagkakakilanlan | missy ۶ৎ | [Read More](https://medium.com/p/e03475ded54b) |
+| Thu, 05 Feb 2026 12:02:32 GMT | Hire N8N Developers to Build Scalable Automation That Saves Time and Costs | n8ndevelopers | [Read More](https://medium.com/p/82d3cffa05b0) |
+| Thu, 05 Feb 2026 12:01:01 GMT | Writeup for picoCTF challenge “Local Authority” | Walter Moar | [Read More](https://medium.com/p/cf231ec83e4c) |
+| Thu, 05 Feb 2026 11:54:32 GMT | TryHackMe Injectics: Injection Attacks Walkthrough | Sajal Tiwari | [Read More](https://medium.com/p/2ade1eb2b1be) |
 | Thu, 05 Feb 2026 11:52:12 GMT | How to Start VAPT for Beginners ️Testing Series — Part 2 | VAPTify | [Read More](https://medium.com/p/f67d132acbbd) |
 | Thu, 05 Feb 2026 11:44:57 GMT | Cybersecurity Challenges in IoT and Smart Devices | Anaynams | [Read More](https://medium.com/p/7591da5f091f) |
 | Thu, 05 Feb 2026 11:39:36 GMT | How to Let Go of Control & Embrace Vulnerability | Leo MonWell | [Read More](https://medium.com/p/faa2e9cacf95) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Feb 2026 07:31:54 GMT | How OAuth 2.0 Actually Works Behind the Scenes | Cynox Security LLP. | [Read More](https://medium.com/p/cae8f4c23a7d) |
 | Thu, 05 Feb 2026 07:31:52 GMT | Why Quantum Computing Will Force Companies to Hire Professional Hackers | Darksynthhacker | [Read More](https://medium.com/p/105843d982e7) |
 | Thu, 05 Feb 2026 07:31:00 GMT | Prompt Injection: Defenses Teams Actually Ship | Vectorlane | [Read More](https://medium.com/p/34e0ec265ed7) |
-| Thu, 05 Feb 2026 07:31:00 GMT | Your Agent Has Git. Now It’s a Perimeter | Hash Block | [Read More](https://medium.com/p/c5cef8670bac) |
-| Thu, 05 Feb 2026 07:30:05 GMT | We Are Building the Future on Insecure Foundations — And Nobody Is Talking About It | Bhawini. | [Read More](https://medium.com/p/0031da049db0) |
-| Thu, 05 Feb 2026 07:28:24 GMT | Tiny Bugs, Huge Consequences | Hammad Anjum Zubairi | [Read More](https://medium.com/p/2349a759dc94) |
-| Thu, 05 Feb 2026 07:19:22 GMT | How I Found a Full Team Takeover Vulnerability Through a Simple ID Exchange | Abhishek sharma | [Read More](https://medium.com/p/ef84a015fd7b) |
-| Thu, 05 Feb 2026 07:13:32 GMT | TryHackMe SEC1 vs COMPTIA Sec+ vs HTB CJCA | Motasem Hamdan | [Read More](https://medium.com/p/ad331ee30628) |
-| Thu, 05 Feb 2026 07:01:00 GMT | 20 Real-World File Upload Bypass Tricks Beyond php.jpg: Step-by-Step Guide for Pentesters | Very Lazy Tech | [Read More](https://medium.com/p/6844504bee3b) |
-| Thu, 05 Feb 2026 06:57:16 GMT | Building an Electron App Offline-First (Local-First Architecture for Privacy Desktop Software) | Ram Srinivasan | [Read More](https://medium.com/p/ed32bc7384d9) |
-| Thu, 05 Feb 2026 06:45:31 GMT | 2FA Bypass via OTP Reuse Across Multiple Authentication Flows | rootx-Jeet | [Read More](https://medium.com/p/faa9e07ec56d) |
-| Thu, 05 Feb 2026 06:42:09 GMT | Mixin Space #2: What Is a Web3 Wallet, Really? | Kelly XU | [Read More](https://medium.com/p/f356224a05ae) |
-| Thu, 05 Feb 2026 06:26:23 GMT | Face Recognition Is Easy. Liveness Is Not | Luna | [Read More](https://medium.com/p/bdd155a7acc9) |
-| Thu, 05 Feb 2026 06:25:24 GMT | AI vs Indian IT: The Battle That’s Spooking Investor | Shivam Maurya | [Read More](https://medium.com/p/80a6ec70e4c7) |
-| Thu, 05 Feb 2026 06:22:30 GMT | Why Digital Forensic Services Are Becoming Essential for Modern Businesses | Drona Cyber Solutions | [Read More](https://medium.com/p/bd3de48b65b1) |
-| Thu, 05 Feb 2026 06:21:25 GMT | Account Takeover using Improper Authorization in “Check Availability” Feature | Ronak Patel | [Read More](https://medium.com/p/4f9f65098853) |
-| Thu, 05 Feb 2026 06:17:41 GMT | The “Moat” of On-Chain Finance Lies in Privacy: A Future of Security Without Exposing Location Data | Satelite | [Read More](https://medium.com/p/af9f0985722a) |
-| Thu, 05 Feb 2026 06:14:40 GMT | Uncovering Hidden Secrets: A Metadata Forensics Write-up (picoCTF — Riddle Registry) | Raulfdzc | [Read More](https://medium.com/p/a939d878ace7) |
-| Thu, 05 Feb 2026 06:12:38 GMT | Authentication and Authorization in 2026: A Practical Overview of the Technologies | Anton Minin Baranovskii | [Read More](https://medium.com/p/b5f27beea36d) |
-| Thu, 05 Feb 2026 06:07:11 GMT | Active Session Hijacking via Authentication session_id Exposed in URL | Sohan | [Read More](https://medium.com/p/f12b1672107b) |
-| Thu, 05 Feb 2026 06:01:04 GMT | As always in every penetration testing engagements we start by reconnaissance and information… | Cyb0rgBytes | [Read More](https://medium.com/p/25b03ee6f8fa) |
-| Thu, 05 Feb 2026 05:56:56 GMT | Navigating the Cybersecurity Job Market: Focus on What You Can Control | Shashank Rajesh Kulkarni | [Read More](https://medium.com/p/0aebac792d46) |
-| Thu, 05 Feb 2026 05:55:28 GMT | Why AI Governance is the “New Frontier” for Information Security Professionals | Adityagoswami | [Read More](https://medium.com/p/2dbe4d40c3e0) |
-| Thu, 05 Feb 2026 05:55:23 GMT | GraphQL Root Operation Types | Shivam Bathla | [Read More](https://medium.com/p/b90eecc02ec3) |
-| Thu, 05 Feb 2026 05:48:33 GMT | CyberNova — Lazarus Phantom DB CTF Write-Up (SQLi → JWT → XOR Decrypt) | vulnhunter | [Read More](https://medium.com/p/a2a78f2463a1) |
-| Thu, 05 Feb 2026 05:46:38 GMT | The Silent Red Team: How AI is Forging a New Paradigm in Web Warfare | Kiama Kareithi | [Read More](https://medium.com/p/89917ba0f4cf) |
