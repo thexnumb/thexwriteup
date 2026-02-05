@@ -12,8 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Feb 2026 15:52:38 GMT | Your First 90 Days in Cybersecurity: The Exact Tools I Wish I’d Started With | Paradise technologies Inc | [Read More](https://medium.com/p/95eedb8ffdd0) |
+| Thu, 05 Feb 2026 15:52:34 GMT | VPN in Your Browser vs VPN on Your Device: What Privacy-Conscious Users Should Know | Decentr | [Read More](https://medium.com/p/101fa3447bee) |
+| Thu, 05 Feb 2026 15:50:25 GMT | Important Things to Know About Cybersecurity in 2026 | Through Smriti's Lens | [Read More](https://medium.com/p/bc9f4058fd6c) |
+| Thu, 05 Feb 2026 15:46:01 GMT | Residential Proxies: When “Normal” Traffic Becomes a Risk Multiplier | Wes Young | [Read More](https://medium.com/p/69fcb1d1e864) |
+| Thu, 05 Feb 2026 15:31:44 GMT | Abusing Dangerous Admin Functionality Under Weak Hardening | Dardan Hasani | [Read More](https://medium.com/p/6e99bd4dc92b) |
+| Thu, 05 Feb 2026 15:29:45 GMT | Another day, another Domain Admin | Daniel Knight | [Read More](https://medium.com/p/a7b10c6239f6) |
+| Thu, 05 Feb 2026 15:26:32 GMT | ‘God Forbid’ Is Not a Security Strategy: Why Security Awareness Matters in Nigeria | Emmanuel Ekwuazi | [Read More](https://medium.com/p/91444d4555b8) |
+| Thu, 05 Feb 2026 15:20:34 GMT | Cloud Computing Fundamentals Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/e153d7de0f09) |
+| Thu, 05 Feb 2026 15:18:15 GMT | Understanding Computer Networks: Basics Every Beginner Should Know | Nida Arshad | [Read More](https://medium.com/p/156a21626acd) |
+| Thu, 05 Feb 2026 15:16:05 GMT | USCSI® January Highlights: Insights to Stay Relevant and Competitive | Lucia Adams | [Read More](https://medium.com/p/8928b92d6ce1) |
+| Thu, 05 Feb 2026 15:15:12 GMT | Cert pinning, obtener APKs oficiales para análisis y el error `The client failed to negotiate a TLS… | x02sec | [Read More](https://medium.com/p/8c06e1cd3332) |
+| Thu, 05 Feb 2026 15:14:48 GMT | Are “Unbreakable” LTSC Devices Actually Secure? Real Breaches & Prevention | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/057249238f52) |
 | Thu, 05 Feb 2026 15:08:13 GMT | Getting Started with Kali Linux: 20 Essential Commands and Their Uses | Nida Arshad | [Read More](https://medium.com/p/2a8539cb038d) |
+| Thu, 05 Feb 2026 15:02:21 GMT | the reason you run is because you’ve forgotten what it feels like to be held | ⋆`would hanné️ever live? | [Read More](https://medium.com/p/e5dde1c49655) |
 | Thu, 05 Feb 2026 15:01:03 GMT | Things about your iPhone no one talks about — the truth about Airplane mode. | Samuel Brice | [Read More](https://medium.com/p/84ad6305753a) |
+| Thu, 05 Feb 2026 15:00:44 GMT | The Little Girl Taught Me How to Feel Safe Again | War Vithin | [Read More](https://medium.com/p/bccfaf2244a4) |
 | Thu, 05 Feb 2026 14:59:10 GMT | This Is Not a Typical Snake Keylogger: Inside a OneDrive-Injected, Encrypted Memory Malware | Kaan | [Read More](https://medium.com/p/4d84b4bd3634) |
 | Thu, 05 Feb 2026 14:58:48 GMT | Lens Browser 1.0.2: Enhanced Performance & Improved Ad Blocking | Cahyanudien aziz “Wayang” Saputra | [Read More](https://medium.com/p/b7b22f3f4c91) |
 | Thu, 05 Feb 2026 14:50:41 GMT | WHAT WE HAVE LEARNED .. | Rashid khan | [Read More](https://medium.com/p/a9457ac213b5) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Feb 2026 09:53:17 GMT | Cross-Domain IDOR in Email Preferences Management via Reusable emailaddress Identifier | Bavly Zaher | [Read More](https://medium.com/p/2511ac9f7d05) |
 | Thu, 05 Feb 2026 09:52:24 GMT | I Built an MVP App That Big Tech Doesn’t Want You to Have (48 Hours, 33 Users, Zero Regrets ) | SaaS Mind | [Read More](https://medium.com/p/40810d149d18) |
 | Thu, 05 Feb 2026 09:50:50 GMT | AI Is Not Killing IT Companies. It’s Exposing Weak Business Models- says shivasai Adepu | Shivasai | [Read More](https://medium.com/p/a237c9b5aa06) |
-| Thu, 05 Feb 2026 09:49:56 GMT | Don’t Build An SOC From Scratch. Here’s The Managed SOC Advantage | Redfox Security | [Read More](https://medium.com/p/3ecb719e086d) |
-| Thu, 05 Feb 2026 09:39:50 GMT | איתן מייק מילר הוא יזם בתחום ה-Smart Grid והאגירה, מומחה לתכנון מערכות אנרגיה מבוזרות ושרידות… | Eitan Mike Miller - איתן מייק מילר | [Read More](https://medium.com/p/a8ced10ac275) |
-| Thu, 05 Feb 2026 09:31:01 GMT | I Watched 47 Companies Overpay for Security Training. Here’s What They Got Wrong. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/15d415883e0a) |
-| Thu, 05 Feb 2026 09:27:45 GMT | The Death of the Technical Moat | Nathoxx | [Read More](https://medium.com/p/cdc6c9583f71) |
-| Thu, 05 Feb 2026 09:26:44 GMT | Stop Blindly Trusting AI Agent Skills: Here’s How to Analyze Them for Free | BrowserTotal | [Read More](https://medium.com/p/fe933dbaa01b) |
-| Thu, 05 Feb 2026 09:16:40 GMT | Beyond the Legacy: Why Secunia’s Corporate Software Inspector is Now Flexera SVM (2026 Guide) | Talha Saeed Official | [Read More](https://medium.com/p/8a921a510b0a) |
-| Thu, 05 Feb 2026 09:15:22 GMT | Cyber Security Companies in Bangalore vs In-House Security Teams: What’s Better? | Cyberlancer | [Read More](https://medium.com/p/983164d2c010) |
-| Thu, 05 Feb 2026 09:14:01 GMT | Nully Cybersecurity CTF — Flag 2: Web Server Root | IO | [Read More](https://medium.com/p/1f9db5be3bfd) |
-| Thu, 05 Feb 2026 09:06:00 GMT | Grandpa’s Wisdom: The Hidden Secret of Vulnerability Smart People Use to Win | Quentina | [Read More](https://medium.com/p/0dcd6bfa47d8) |
-| Thu, 05 Feb 2026 09:01:03 GMT | LeakRadar vs Dark Web Monitoring Services: What’s the Difference? | Alexandre Vandamme | [Read More](https://medium.com/p/37b886c55716) |
-| Thu, 05 Feb 2026 08:59:33 GMT | Identity and Access Management: Who Gets the Keys? | Norman Kolarikkal | [Read More](https://medium.com/p/ba0219de75cf) |
-| Thu, 05 Feb 2026 08:58:49 GMT | Securing the Software Supply Chain: Beyond CVE Scanning to Cryptographic Verification | Md Yunus | [Read More](https://medium.com/p/5d65d35bb8ec) |
-| Thu, 05 Feb 2026 08:54:40 GMT | Top 10 IT Companies in Coimbatore (2026 Guide): Top Software Firms, Jobs & Growth | Esseindia | [Read More](https://medium.com/p/dd0579967a1f) |
-| Thu, 05 Feb 2026 08:54:21 GMT | HTB CDSA 2026 Notes | The Mastermind Notes | [Read More](https://medium.com/p/97d07a4788f4) |
