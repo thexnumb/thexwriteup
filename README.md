@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Feb 2026 10:01:49 GMT | The 2026 Privacy Revolution: How Differential Privacy + Synthetic Data Is Saving AI (Full… | Pankaj dhawan | [Read More](https://medium.com/p/c286f5e947cf) |
+| Thu, 05 Feb 2026 09:56:27 GMT | Vulnhub: Born2Root CTF Walkthrough | d0natel00(KiroMoheb) | [Read More](https://medium.com/p/5b5bed31149c) |
+| Thu, 05 Feb 2026 09:53:22 GMT | How Using Schema for Data Almost Caused Breaking Changes for Millions of Users | Asaf Dulberg | [Read More](https://medium.com/p/98a1b42ddf8e) |
+| Thu, 05 Feb 2026 09:53:17 GMT | Cross-Domain IDOR in Email Preferences Management via Reusable emailaddress Identifier | Bavly Zaher | [Read More](https://medium.com/p/2511ac9f7d05) |
+| Thu, 05 Feb 2026 09:52:24 GMT | I Built an MVP App That Big Tech Doesn’t Want You to Have (48 Hours, 33 Users, Zero Regrets ) | SaaS Mind | [Read More](https://medium.com/p/40810d149d18) |
+| Thu, 05 Feb 2026 09:50:50 GMT | AI Is Not Killing IT Companies. It’s Exposing Weak Business Models- says shivasai Adepu | Shivasai | [Read More](https://medium.com/p/a237c9b5aa06) |
+| Thu, 05 Feb 2026 09:49:56 GMT | Don’t Build An SOC From Scratch. Here’s The Managed SOC Advantage | Redfox Security | [Read More](https://medium.com/p/3ecb719e086d) |
+| Thu, 05 Feb 2026 09:39:50 GMT | איתן מייק מילר הוא יזם בתחום ה-Smart Grid והאגירה, מומחה לתכנון מערכות אנרגיה מבוזרות ושרידות… | Eitan Mike Miller - איתן מייק מילר | [Read More](https://medium.com/p/a8ced10ac275) |
+| Thu, 05 Feb 2026 09:31:01 GMT | I Watched 47 Companies Overpay for Security Training. Here’s What They Got Wrong. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/15d415883e0a) |
+| Thu, 05 Feb 2026 09:27:45 GMT | The Death of the Technical Moat | Nathoxx | [Read More](https://medium.com/p/cdc6c9583f71) |
+| Thu, 05 Feb 2026 09:26:44 GMT | Stop Blindly Trusting AI Agent Skills: Here’s How to Analyze Them for Free | BrowserTotal | [Read More](https://medium.com/p/fe933dbaa01b) |
+| Thu, 05 Feb 2026 09:16:40 GMT | Beyond the Legacy: Why Secunia’s Corporate Software Inspector is Now Flexera SVM (2026 Guide) | Talha Saeed Official | [Read More](https://medium.com/p/8a921a510b0a) |
+| Thu, 05 Feb 2026 09:15:22 GMT | Cyber Security Companies in Bangalore vs In-House Security Teams: What’s Better? | Cyberlancer | [Read More](https://medium.com/p/983164d2c010) |
+| Thu, 05 Feb 2026 09:14:01 GMT | Nully Cybersecurity CTF — Flag 2: Web Server Root | IO | [Read More](https://medium.com/p/1f9db5be3bfd) |
+| Thu, 05 Feb 2026 09:06:00 GMT | Grandpa’s Wisdom: The Hidden Secret of Vulnerability Smart People Use to Win | Quentina | [Read More](https://medium.com/p/0dcd6bfa47d8) |
 | Thu, 05 Feb 2026 09:01:03 GMT | LeakRadar vs Dark Web Monitoring Services: What’s the Difference? | Alexandre Vandamme | [Read More](https://medium.com/p/37b886c55716) |
 | Thu, 05 Feb 2026 08:59:33 GMT | Identity and Access Management: Who Gets the Keys? | Norman Kolarikkal | [Read More](https://medium.com/p/ba0219de75cf) |
 | Thu, 05 Feb 2026 08:58:49 GMT | Securing the Software Supply Chain: Beyond CVE Scanning to Cryptographic Verification | Md Yunus | [Read More](https://medium.com/p/5d65d35bb8ec) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Feb 2026 03:31:01 GMT | 7 Tips for Effective Non-Blocking Code in Node.js | Arunangshu Das | [Read More](https://medium.com/p/6607f20be585) |
 | Thu, 05 Feb 2026 03:31:01 GMT | The RSVP Trap: When a ‘Party Invitation’ Becomes a Gateway for Hackers | Deven Chhajed | [Read More](https://medium.com/p/e019c0581d70) |
 | Thu, 05 Feb 2026 03:31:01 GMT | Kaspersky CTF — Forensic — Poor Investment | Faishol Hakim | [Read More](https://medium.com/p/ffd53629dbc0) |
-| Thu, 05 Feb 2026 03:25:28 GMT | Techfra Solutions : Best CCTV Company in UAE and CCTV Approval in Ajman Expert | techfra solutions | [Read More](https://medium.com/p/8af21e1e11cb) |
-| Thu, 05 Feb 2026 03:02:52 GMT | The 2026 Epstein Data Leak: A Wake-Up Call for Digital Integrity and AI Ethics | Faris Dedi Setiawan | [Read More](https://medium.com/p/bab37feeba35) |
-| Thu, 05 Feb 2026 03:00:52 GMT | The Day I Realized Writing Clean Code Doesn’t Matter in Production | The Dev Notebook | [Read More](https://medium.com/p/5c8aee1ad715) |
-| Thu, 05 Feb 2026 02:47:36 GMT | Why Server-Seed Commitments Aren’t Fully Trust less ? | Rishi | [Read More](https://medium.com/p/647e13ab1c91) |
-| Thu, 05 Feb 2026 02:42:47 GMT | The Insider Threat Problem No One Likes to Talk About | cyber security threat ai | [Read More](https://medium.com/p/26e43f7cf520) |
-| Thu, 05 Feb 2026 02:41:01 GMT | Intermediate Nmap Walkthrough (TryHackMe) | Crystalcascade14 | [Read More](https://medium.com/p/fb45c4a16573) |
-| Thu, 05 Feb 2026 02:22:21 GMT | HOW THE WEB WORKS – TryHackMe Module. Room 1: DNS In Detail | Raymond Ebonine | [Read More](https://medium.com/p/4f570476fa06) |
-| Thu, 05 Feb 2026 02:11:34 GMT | The Boulder at the Apex | Dusty Thornton | [Read More](https://medium.com/p/b62e6cf00011) |
-| Thu, 05 Feb 2026 02:10:46 GMT | Building Cyber News Hub: One Dashboard to Replace 60+ Browser Tabs | CyberAnn | [Read More](https://medium.com/p/4142fd3e755e) |
-| Thu, 05 Feb 2026 02:10:44 GMT | Why Traditional Bot Detection Is No Longer Enough for Modern Web Fraud | Zk | [Read More](https://medium.com/p/be33821aa170) |
-| Thu, 05 Feb 2026 01:59:45 GMT | CyberDefenders — Web Investigation Lab Walkthrough | Mohamed Alboghdady | [Read More](https://medium.com/p/27d2ae64ea40) |
-| Thu, 05 Feb 2026 01:42:34 GMT | Why Penetration Testing Is No Longer Optional for Singapore Businesses | Dianna | [Read More](https://medium.com/p/2dfa9336ec5f) |
-| Thu, 05 Feb 2026 01:31:01 GMT | Safe Agents Win by Saying “No” More Often | Hash Block | [Read More](https://medium.com/p/9f69f1e004a6) |
-| Thu, 05 Feb 2026 01:31:01 GMT | MCP Made Tool Standards a Power Struggle | Thinking Loop | [Read More](https://medium.com/p/c0c94c495d89) |
-| Thu, 05 Feb 2026 01:16:33 GMT | How Hackers Control Any System with Linux Processes | Shahzaib | [Read More](https://medium.com/p/3344425e6d61) |
