@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Feb 2026 06:38:35 GMT | Zero Tolerance for FGM: A Call to Protect and Nourish Every Girl | Samuel Norgah | [Read More](https://medium.com/p/291586ec0782) |
+| Fri, 06 Feb 2026 06:38:25 GMT | AI in Risk Management: Opportunity or a New Threat? | Saba Nds | [Read More](https://medium.com/p/fe169c0cb36a) |
+| Fri, 06 Feb 2026 06:36:00 GMT | Thick Client Pentesting (Part 2): Reconnaissance | Harish muthyala | [Read More](https://medium.com/p/c55cc60aa7b8) |
+| Fri, 06 Feb 2026 06:33:08 GMT | 5 Ways to Bypass Email Verification Without Using Any Tool | StrangeRwhite | [Read More](https://medium.com/p/87bfbe7fc156) |
+| Fri, 06 Feb 2026 06:29:56 GMT | Must-have tool to hide Azure secrets during presentations or screen recordings | Brian Veldman | [Read More](https://medium.com/p/08b8cc3b550c) |
+| Fri, 06 Feb 2026 06:23:36 GMT | Building a Local AI Agent Security Lab-Part 2: Persistent Memory Poisoning | Ankit Mishra | [Read More](https://medium.com/p/71124ef5b534) |
+| Fri, 06 Feb 2026 06:21:52 GMT | Cyber Alert 2026 : Top Asian Cyber-offensive Firms to Watch Out | Cyber Warfare Asia | [Read More](https://medium.com/p/9e9e11edb9fe) |
+| Fri, 06 Feb 2026 06:17:44 GMT | Full Stack Development Explained: Skills, Tools, and Real-World Examples | Dennis Duke | [Read More](https://medium.com/p/661c53528caf) |
+| Fri, 06 Feb 2026 06:16:11 GMT | Writing Behavioral Detection Rules Separating Real Threats from Noise | Esra Kayhan | [Read More](https://medium.com/p/43aa50cd9e8c) |
+| Fri, 06 Feb 2026 06:06:59 GMT | 21 Dark Web Tools Every OSINT Professional Should Know (2026 Guide) | Nazrul Islam Rana | [Read More](https://medium.com/p/b923b6d7be2f) |
+| Fri, 06 Feb 2026 06:06:45 GMT | Hunting GraphQL Vulnerabilities with Precision: Introducing GraphQL Hunter | OsKaaR | [Read More](https://medium.com/p/6ad9330b4d44) |
+| Fri, 06 Feb 2026 05:56:36 GMT | Guide to the Best Smart Home Automation in Dubai and CCTV Approval in Ajman | techfra solutions | [Read More](https://medium.com/p/050db2ebf251) |
+| Fri, 06 Feb 2026 05:51:58 GMT | WHATS IS HACKING? | Kevin Ronex | [Read More](https://medium.com/p/b7600f3f4884) |
+| Fri, 06 Feb 2026 05:37:35 GMT | SaaS Security Posture Management: Key Trends, Technologies, and Leading Vendors | Gauri Kale | [Read More](https://medium.com/p/9d2c1f12a226) |
 | Fri, 06 Feb 2026 05:31:57 GMT | What Is Hacking? | Kevin Chacko | [Read More](https://medium.com/p/56aacfa8be04) |
 | Fri, 06 Feb 2026 05:28:51 GMT | This is War! (Vulnerable Apache Tomcat Docker Container with Exploitation Walkthrough) | Josh Beck | [Read More](https://medium.com/p/864dc1940bda) |
 | Fri, 06 Feb 2026 05:22:42 GMT | The Quiet After the Fall | Archivie | [Read More](https://medium.com/p/aef551dcb005) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Feb 2026 19:24:26 GMT | DarkSide Challenge Write-Up — Web Security Easy - CyberTalents | Z3DX | [Read More](https://medium.com/p/e0605b54afd9) |
 | Thu, 05 Feb 2026 19:24:12 GMT | Bean Challenge Write-Up — Web Security Easy - CyberTalents | Z3DX | [Read More](https://medium.com/p/590ab7ef94f6) |
 | Thu, 05 Feb 2026 19:24:03 GMT | Why Cybersecurity Keeps Failing — And How Deming’s Red Beads Predicted It All | gershblumstein | [Read More](https://medium.com/p/046f4d1793d7) |
-| Thu, 05 Feb 2026 19:21:17 GMT | AI Constitutions Are Here. I Still Use Chrome. | Anna Jacobi | [Read More](https://medium.com/p/6ae10d3bfc49) |
-| Thu, 05 Feb 2026 19:12:09 GMT | How to Achieve SOC 2 Compliance in 90 Days: The Complete Engineering Playbook | Nicholas Thoni | [Read More](https://medium.com/p/e3d8315d5c61) |
-| Thu, 05 Feb 2026 19:07:34 GMT | Hacking Isn’t Breaking the Law — It’s Breaking Assumptions | Amandogra | [Read More](https://medium.com/p/1ba13ac4e74c) |
-| Thu, 05 Feb 2026 19:04:25 GMT | The Rise of OpenClaw .. and the Security Reckoning That Follows | Taimur Ijlal | [Read More](https://medium.com/p/c832df0c19ac) |
-| Thu, 05 Feb 2026 19:02:12 GMT | Mass Assignment: How a Simple Maintenance Role Gained Admin Control Over Cloud Backups [P2] | Mostafa Muhammed | [Read More](https://medium.com/p/693a5f678b05) |
-| Thu, 05 Feb 2026 19:01:12 GMT | Broken CSRF Protection: Bypassing Tokens by Switching from POST to GET | Istiyak | [Read More](https://medium.com/p/d7736921a858) |
-| Thu, 05 Feb 2026 18:54:16 GMT | Composability as an Attack Surface: How Integrations Break “Battle-Tested” Protocols | Exploitless | [Read More](https://medium.com/p/fc01ab49cef4) |
-| Thu, 05 Feb 2026 18:54:14 GMT | RingZeroCTF Coding Challenge 3 [Hash Me Again] Writeup | Devansh Patel | [Read More](https://medium.com/p/8c7f7fdf7959) |
-| Thu, 05 Feb 2026 18:53:49 GMT | Every Breach Has a Villain, It’s Rarely the Hacker | Travis Ray Caverhill | [Read More](https://medium.com/p/541da8162c95) |
-| Thu, 05 Feb 2026 18:51:08 GMT | Machine Vs Machine - The Future of Defence | Muhammad Ali Khan | [Read More](https://medium.com/p/bb45c1d1fe9c) |
-| Thu, 05 Feb 2026 18:44:19 GMT | Unmasking the Manifest: The Blueprint of a Live AiTM Hijack | SpearPanic | [Read More](https://medium.com/p/f66c05a7f2b4) |
-| Thu, 05 Feb 2026 18:43:36 GMT | Decision Muscle Memory. Build It Before the Stakes Are Real | Tyson Martin | [Read More](https://medium.com/p/fce3674bdc73) |
-| Thu, 05 Feb 2026 18:43:18 GMT | Secure Deployment and Hardening Guide for Microsoft IIS (CIS-Aligned) | SOCFortress | [Read More](https://medium.com/p/a92a05755200) |
-| Thu, 05 Feb 2026 18:38:17 GMT | Ethical Hacking | Siddra Naseem | [Read More](https://medium.com/p/b97a43452266) |
