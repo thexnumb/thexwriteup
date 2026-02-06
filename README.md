@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Feb 2026 02:00:27 GMT | 280+ Leaky Skills: How OpenClaw & ClawHub Are Exposing API Keys and PII | Snyk | [Read More](https://medium.com/p/c87ed5cb966d) |
+| Fri, 06 Feb 2026 01:59:26 GMT | The Holy Trinity of Code Security | Himanshu Jain | [Read More](https://medium.com/p/c10bd3511205) |
+| Fri, 06 Feb 2026 01:44:19 GMT | Bridging Wazuh and CISA KEV: Real-Time Detection of Actively Exploited Vulnerabilities | Chinaza Emmanuela Obidike | [Read More](https://medium.com/p/e3caa9acc132) |
+| Fri, 06 Feb 2026 01:37:24 GMT | Free PDF Book Cyber Security | Ez Tech Explains | [Read More](https://medium.com/p/44ef955d7b9c) |
+| Fri, 06 Feb 2026 01:03:49 GMT | Understanding Near Field Communication (NFC): Technology, Uses, and Security Considerations | Raviteja Mureboina | [Read More](https://medium.com/p/76f095113558) |
+| Fri, 06 Feb 2026 01:00:28 GMT | CompTIA SecAI+ CY0–001: The Complete Guide to AI Security Certification | Ayush Jain | [Read More](https://medium.com/p/a94d5dd32fb0) |
+| Fri, 06 Feb 2026 00:13:50 GMT | AWS Enumeration Using Pacu: Cybr’s IAM Lab | Amanuel | [Read More](https://medium.com/p/a24450697150) |
+| Fri, 06 Feb 2026 00:01:01 GMT | Guía Avanzada de Curl para Bug Hunting: Técnicas de Reconocimiento y Explotación | JPablo13 | [Read More](https://medium.com/p/4938b3b04372) |
+| Thu, 05 Feb 2026 23:42:55 GMT | Mine | Luna Monroe | [Read More](https://medium.com/p/0171682b5b7a) |
 | Thu, 05 Feb 2026 23:17:32 GMT | Building a Production-Ready Snowflake Audit Log Pipeline to S3 | xcal | [Read More](https://medium.com/p/6c4203dfa771) |
 | Thu, 05 Feb 2026 23:05:12 GMT | DevSecOps for Salesforce: How Security Scanners Secure Modern CI/CD Pipelines | Musa Ndlala | [Read More](https://medium.com/p/45fe9d995b1e) |
 | Thu, 05 Feb 2026 23:01:02 GMT | Tools I’m currently enjoying while using VS Code (aka the extensions doing the heavy lifting): | Miss Tarus | [Read More](https://medium.com/p/c74072e8bc4e) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Feb 2026 16:32:42 GMT | What Logs are Critical for AI Application Monitoring? | Shahrukh Khan | [Read More](https://medium.com/p/df807785f007) |
 | Thu, 05 Feb 2026 16:26:34 GMT | Oh My WebServer (TryHackMe) — Redacted Walkthrough | Roshan Rajbanshi | [Read More](https://medium.com/p/3b5ab2c177f5) |
 | Thu, 05 Feb 2026 16:23:49 GMT | The Day a Fake CAPTCHA Taught Me More Than Any Tutorial | Anusha Thomas | [Read More](https://medium.com/p/7cfd292546fe) |
-| Thu, 05 Feb 2026 16:20:30 GMT | Beyond the RFP: 3 Hard-Won Lessons from 3 Years in Federal Pre-Sales | Patrick James | [Read More](https://medium.com/p/f24de8f58e11) |
-| Thu, 05 Feb 2026 16:15:19 GMT | When “Medium Severity” Means Game Over: How Two Minor Flaws Chain Into Full Compromise | Nathan Sportsman | [Read More](https://medium.com/p/4208d0d1091a) |
-| Thu, 05 Feb 2026 16:06:00 GMT | Top Trustworthy Cybersecurity Partners and Service Providers | Matthew.Rosenquist | [Read More](https://medium.com/p/2a2786547b3c) |
-| Thu, 05 Feb 2026 16:05:11 GMT | Implementing SSL Pinning in iOS: A Step-by-Step Guide (From Real App Integration) | Alish Kumar | [Read More](https://medium.com/p/3ee86f9c83c3) |
-| Thu, 05 Feb 2026 16:02:18 GMT | Authentication Gone Wrong: When the Lock Picks Itself | Rehan Ahmed | [Read More](https://medium.com/p/f5e72e61a258) |
-| Thu, 05 Feb 2026 15:59:10 GMT | Tesla’s $2 Billion Investment in xAI: What It Really Means for AI, Robots, and Regulation | Information For Technologies | [Read More](https://medium.com/p/0df3b79a5de1) |
-| Thu, 05 Feb 2026 15:52:38 GMT | Your First 90 Days in Cybersecurity: The Exact Tools I Wish I’d Started With | Paradise technologies Inc | [Read More](https://medium.com/p/95eedb8ffdd0) |
-| Thu, 05 Feb 2026 15:52:34 GMT | VPN in Your Browser vs VPN on Your Device: What Privacy-Conscious Users Should Know | Decentr | [Read More](https://medium.com/p/101fa3447bee) |
-| Thu, 05 Feb 2026 15:50:25 GMT | Important Things to Know About Cybersecurity in 2026 | Through Smriti's Lens | [Read More](https://medium.com/p/bc9f4058fd6c) |
