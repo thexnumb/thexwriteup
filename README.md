@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Feb 2026 05:31:57 GMT | What Is Hacking? | Kevin Chacko | [Read More](https://medium.com/p/56aacfa8be04) |
+| Fri, 06 Feb 2026 05:28:51 GMT | This is War! (Vulnerable Apache Tomcat Docker Container with Exploitation Walkthrough) | Josh Beck | [Read More](https://medium.com/p/864dc1940bda) |
+| Fri, 06 Feb 2026 05:22:42 GMT | The Quiet After the Fall | Archivie | [Read More](https://medium.com/p/aef551dcb005) |
+| Fri, 06 Feb 2026 05:15:05 GMT | Unknown Number Calling? It’s Not Random. The Real Scam Economy Hiding Behind Your Phone | MrKarthikKN | [Read More](https://medium.com/p/2c8821bf9446) |
+| Fri, 06 Feb 2026 05:09:29 GMT | next article teaser | AkhiDeno Uduehi | [Read More](https://medium.com/p/2f10c03ccc47) |
+| Fri, 06 Feb 2026 05:07:26 GMT | Decoding Authenticity: A Phonetic Analysis of Brené Brown’s “The Power of Vulnerability” | Kara Capozzi | [Read More](https://medium.com/p/0862094cc8ed) |
+| Fri, 06 Feb 2026 04:57:23 GMT | SOC Assessment: Are You Detecting What Actually Matters? | Gautam kumar | [Read More](https://medium.com/p/77fd4d6e4f99) |
+| Fri, 06 Feb 2026 04:53:04 GMT | Day 38 — The Day We Almost Leaked PII: A Story-Driven Guide to Snowflake Security (with Hands-On… | Alok Rahul | [Read More](https://medium.com/p/8443a5c8dd7c) |
+| Fri, 06 Feb 2026 04:48:25 GMT | I Built a Tool to Stop MacBook Camera Spying | Atsukiiii01 | [Read More](https://medium.com/p/5c99b95f6e0d) |
+| Fri, 06 Feb 2026 04:43:28 GMT | DC-1 Walkthrough | ibr_yzr | [Read More](https://medium.com/p/a271c7030fa6) |
+| Fri, 06 Feb 2026 04:41:43 GMT | You’re Learning Cloud and Cybersecurity Backwards — Here’s Why Linux Should Come First | Eric Blancas | [Read More](https://medium.com/p/34e83a2f6075) |
+| Fri, 06 Feb 2026 04:40:45 GMT | Vehicle Tracking System for Theft Prevention and Asset Security | Yalinisubramaniam | [Read More](https://medium.com/p/c2b0b60b57a1) |
+| Fri, 06 Feb 2026 04:40:42 GMT | Got SeTcbPrivilige ? Congrats u just got admin access… | M Sameer Malik | [Read More](https://medium.com/p/b19f9f9ba1f6) |
+| Fri, 06 Feb 2026 04:36:01 GMT | Tirith Made Me Rethink How We Watch Over Our Systems | Ishank choudhary | [Read More](https://medium.com/p/c0514c9f0dce) |
+| Fri, 06 Feb 2026 04:34:37 GMT | Microsoft Solutions Partner in Singapore - IFI Techsolutions | IFI Techsolutions | [Read More](https://medium.com/p/adc3d7a5511e) |
+| Fri, 06 Feb 2026 04:29:33 GMT | Network Security Services in 2026: Defending the Invisible Highways of Your Business | Devarshi Acharya | [Read More](https://medium.com/p/dbc6f35c1394) |
+| Fri, 06 Feb 2026 04:23:34 GMT | Zero Trust Architecture in 2026: Why “Never Trust, Always Verify” Runs the Modern Enterprise | Devarshi Acharya | [Read More](https://medium.com/p/a79f16b7a08c) |
 | Fri, 06 Feb 2026 04:03:49 GMT | Importance of SSL for Data in Transit: Why It Must Never Be Ignored | Geeky Vartika | [Read More](https://medium.com/p/fea99b9aea55) |
 | Fri, 06 Feb 2026 04:01:01 GMT | The World’s Hidden Wars | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/853dc6734f02) |
 | Fri, 06 Feb 2026 04:01:01 GMT | L3ak CTF — Forensic | Faishol Hakim | [Read More](https://medium.com/p/488e720ae657) |
@@ -53,6 +70,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Feb 2026 21:30:27 GMT | From Files to Behavior: Why Traditional DLP Is No Longer Enough | Priderock Joy | [Read More](https://medium.com/p/3f92ac54d233) |
 | Thu, 05 Feb 2026 21:20:43 GMT | OP-TEE: A Practical Trusted Execution Environment on ARM TrustZone | Wadix Technologies | [Read More](https://medium.com/p/c0c0073eca4a) |
 | Thu, 05 Feb 2026 21:06:01 GMT | Aaron W. DeJong Newsletter: Episode 2 | Aaron DeJong | [Read More](https://medium.com/p/072a34cd2c83) |
+| Thu, 05 Feb 2026 20:59:14 GMT | I was shocked by how much system access OpenClaw requires | Cordula Boeck | [Read More](https://medium.com/p/c99d4d1a9883) |
 | Thu, 05 Feb 2026 20:57:12 GMT | Client-Server Basics · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/a9f812eadf2b) |
 | Thu, 05 Feb 2026 20:51:33 GMT | Stop Giving Your Real Email to Every Website — Here’s What to Do Instead: TempMail4.site | SSH-Tunnel | [Read More](https://medium.com/p/2e873cce1afa) |
 | Thu, 05 Feb 2026 20:50:44 GMT | MASTERING THE HACKER MINDSET: HOW ETHICAL HACKERS DEFEND BY THINKING LIKE ATTACKERS | Raphaam Digital (Cyber Security Updates) | [Read More](https://medium.com/p/852bc0261f01) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Feb 2026 18:43:36 GMT | Decision Muscle Memory. Build It Before the Stakes Are Real | Tyson Martin | [Read More](https://medium.com/p/fce3674bdc73) |
 | Thu, 05 Feb 2026 18:43:18 GMT | Secure Deployment and Hardening Guide for Microsoft IIS (CIS-Aligned) | SOCFortress | [Read More](https://medium.com/p/a92a05755200) |
 | Thu, 05 Feb 2026 18:38:17 GMT | Ethical Hacking | Siddra Naseem | [Read More](https://medium.com/p/b97a43452266) |
-| Thu, 05 Feb 2026 18:35:19 GMT | Android Dirty Stream: A Comprehensive Technical Deep-Dive | lightofmoon | [Read More](https://medium.com/p/5cc365c2f0fc) |
-| Thu, 05 Feb 2026 18:30:18 GMT | MoltBook Broke the Internet, But Not For the Reasons You Think | Aastha Thakker | [Read More](https://medium.com/p/ff4b84e7c94a) |
-| Thu, 05 Feb 2026 18:25:22 GMT | Your AI Agent Just Tried to Delete Production. Here’s the Open-Source Firewall That Stopped It. | Sattyam Jain | [Read More](https://medium.com/p/06644a93576b) |
-| Thu, 05 Feb 2026 18:24:12 GMT | IoT and IIoT Vulnerabilities in Smart Environments: Key Cybersecurity Challenges | Digital Defense | [Read More](https://medium.com/p/85c44b415d8b) |
-| Thu, 05 Feb 2026 18:23:51 GMT | Efficient Array Wrapping: The Modulo Trick Every Developer Should Know | Lokeshwar Reddy N | [Read More](https://medium.com/p/7ee614272100) |
-| Thu, 05 Feb 2026 18:05:50 GMT | Write-Up Máquina Predictable DockerLabs — Hard [ES] | Joel Morillas Pagan (Ghxstsec) | [Read More](https://medium.com/p/e2959937d401) |
-| Thu, 05 Feb 2026 17:56:01 GMT | OWASP Top 10 (2025) on TryHackMe | Gamuchirai | [Read More](https://medium.com/p/599e692c22f4) |
-| Thu, 05 Feb 2026 17:48:50 GMT | Incident Response Is Tactical. Incident Governance Is Strategic. | Sachin Sharma | [Read More](https://medium.com/p/2b9c90a4d787) |
-| Thu, 05 Feb 2026 17:40:05 GMT | Safeguarding of Personal Information Mechanisms: Foster Tutelages, Affidavit-Based Close… | Dr Francesco Dergano | [Read More](https://medium.com/p/f8cc06edf032) |
-| Thu, 05 Feb 2026 17:38:04 GMT | Metaparadox STO Security Update: Strengthening Governance with Multi-Signature Protection | Zhabby | [Read More](https://medium.com/p/4c4dfe4781e6) |
-| Thu, 05 Feb 2026 17:36:47 GMT | Moltbook: The “AI-Only” Social Network How the Bots Are Made, and Why Humans Can’t Post or it’s a… | Rekhi | [Read More](https://medium.com/p/040e2685adde) |
-| Thu, 05 Feb 2026 17:34:05 GMT | Introduction | Hassaan Ahmad | [Read More](https://medium.com/p/8520bee06fc6) |
-| Thu, 05 Feb 2026 17:33:19 GMT | The Power of Logs: What Your /var/log is Trying to Tell You | Your's Nightmare | [Read More](https://medium.com/p/651784c2c9d3) |
-| Thu, 05 Feb 2026 17:29:28 GMT | The Titanic Syndrome: Why Your Cybersecurity Is an Illusion | William Famy | [Read More](https://medium.com/p/5a3394866721) |
-| Thu, 05 Feb 2026 17:29:01 GMT | The painful penetration | Alice Sam | [Read More](https://medium.com/p/df893be562ec) |
-| Thu, 05 Feb 2026 17:28:50 GMT | 170 Days Undetected: How a Fake PDF Editor Stole Credentials Right Under Everyone’s Nose | Sam Purcell | [Read More](https://medium.com/p/1dc7dce7f94c) |
-| Thu, 05 Feb 2026 17:27:27 GMT | ️ The Great Fragmentation: Why Resilience is the New Innovation in Swiss Finance | Pascal | [Read More](https://medium.com/p/af3a9e17c215) |
-| Thu, 05 Feb 2026 17:27:05 GMT | The Breaches Nobody’s Talking About | Joseph Dworcan | [Read More](https://medium.com/p/62afa70174f8) |
