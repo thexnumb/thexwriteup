@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Feb 2026 22:15:33 GMT | When AI Becomes an Insider — and No One Notices | Allen Westley | [Read More](https://medium.com/p/3060dc39b58e) |
+| Fri, 06 Feb 2026 22:08:59 GMT | The Silent Backdoor: Securing Gemini Agents Against Indirect Prompt Injection & EchoLeak | Purvansh Bhatt | [Read More](https://medium.com/p/e244c10510c5) |
+| Fri, 06 Feb 2026 21:52:51 GMT | PortSwigger SQL Injection Labs — Part 3 | Emirkilicer | [Read More](https://medium.com/p/fe203a8bce93) |
+| Fri, 06 Feb 2026 21:48:58 GMT | MITM lab + tryhackme Detection — Blue vs Red | Khalil | [Read More](https://medium.com/p/41fc73ec9594) |
+| Fri, 06 Feb 2026 21:46:09 GMT | CE 01: 802.1x & EAP | Chimdi | [Read More](https://medium.com/p/877d69893a98) |
+| Fri, 06 Feb 2026 21:34:29 GMT | OpenClaw Proved Something…We’re Ready for Autonomous Workforces. | 6⃣ | [Read More](https://medium.com/p/c7a9071c10c5) |
+| Fri, 06 Feb 2026 21:28:18 GMT | INE / eJPT / Host & Network Penetration Testing: Post-Exploitation CTF 1 | Salihugurlu | [Read More](https://medium.com/p/bb1d8bd7ed60) |
+| Fri, 06 Feb 2026 21:24:30 GMT | Understanding the Evolution of Darkweb Markets Over Time | Tor BBB | [Read More](https://medium.com/p/29c93a3e3411) |
 | Fri, 06 Feb 2026 21:23:57 GMT | THM - Boogeyman 3 | Francesco Pastore | [Read More](https://medium.com/p/04bb4a4862cd) |
 | Fri, 06 Feb 2026 21:21:35 GMT | notepad | Michael Link | [Read More](https://medium.com/p/52ee74fbb257) |
 | Fri, 06 Feb 2026 21:20:44 GMT | Why Moltbook is Dangerous: Critical Zero-days Found in My Audit (Full Report) | Saad Khalid | [Read More](https://medium.com/p/39a721e5dfb0) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Feb 2026 15:01:03 GMT | Cyber Briefing: 2026.02.06 | CyberMaterial | [Read More](https://medium.com/p/17065f93aa75) |
 | Fri, 06 Feb 2026 14:59:45 GMT | The Inevitable Institutional Onramp and the Infrastructure that Demands It | Tricahyoto | [Read More](https://medium.com/p/2bd5e3f1904d) |
 | Fri, 06 Feb 2026 14:59:22 GMT | Firewall and IDS/IPS Evasion: Medium Lab — HackTheBox | William Shively | [Read More](https://medium.com/p/7221395257ff) |
-| Fri, 06 Feb 2026 14:55:11 GMT | Cybersecurity Is Too Crowded in 2026? Good. Here’s Why That’s a Lie. | Vijay Kumar Gupta | [Read More](https://medium.com/p/51b48face3e8) |
-| Fri, 06 Feb 2026 14:51:50 GMT | Post-Mortem Analysis of the BreachForums “Doomsday” Leak: Structural Fragility and Actor Typology | BeGoodToAll | [Read More](https://medium.com/p/2d53f07bf26e) |
-| Fri, 06 Feb 2026 14:49:34 GMT | How I Bypassed a SaaS Payment Flow to Gain Organization Admin & Paid Features During Signup | Mahmoud Rashed | [Read More](https://medium.com/p/6930f72cfb2a) |
-| Fri, 06 Feb 2026 14:48:38 GMT | How I Bypassed a SaaS Payment Flow to Gain Organization Admin & Paid Features During Signup | Mohamed Saied | [Read More](https://medium.com/p/c20cdbe4a2fb) |
-| Fri, 06 Feb 2026 14:32:33 GMT | Firewall and IDS/IPS Evasion: Easy Lab — HackTheBox | William Shively | [Read More](https://medium.com/p/93b97b4eb470) |
-| Fri, 06 Feb 2026 14:31:01 GMT | How to Build Your Child’s Sense of Security: A Parent’s Guide to Emotional Development | Pitters Lare | [Read More](https://medium.com/p/4b181c580b2a) |
-| Fri, 06 Feb 2026 14:20:38 GMT | First Stages of building an app | Ecofriendly | [Read More](https://medium.com/p/443653ebf7e7) |
-| Fri, 06 Feb 2026 14:15:32 GMT | Ben Sadece CTF Çözmüyorum, Sistem İnşa Ediyorum | Gokhan Can | [Read More](https://medium.com/p/81346d5ca093) |
