@@ -12,12 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Feb 2026 15:55:03 GMT | crackme-py Picoctf Reverse Engineering | Aun Raza | [Read More](https://medium.com/p/42a425fdb656) |
+| Fri, 06 Feb 2026 15:48:08 GMT | Stop Guessing: How to Detect SSH Brute-Force Attacks with a Simple Python Script | Bakioui souhail | [Read More](https://medium.com/p/c1c555fc9145) |
+| Fri, 06 Feb 2026 15:42:29 GMT | How I Made $5,000 Overnight Using Cybersecurity Skills | Aland Dlshad (HexaPhp) | [Read More](https://medium.com/p/af6ff0b994a5) |
+| Fri, 06 Feb 2026 15:41:54 GMT | How Misconceptions and Trade-offs Shape Perceptions of Election Risk | Amara Nwankpa | [Read More](https://medium.com/p/acbd25f44e24) |
+| Fri, 06 Feb 2026 15:40:54 GMT | The AI Security Nightmare Nobody Saw Coming: How MoltBot Exposed 1.5 | Milan Danushka | [Read More](https://medium.com/p/f31619f9f0b0) |
+| Fri, 06 Feb 2026 15:36:23 GMT | The Immune System of Finance: Protocols that Heal Themselves | Suyani Setiadewi | [Read More](https://medium.com/p/c99a9e046c19) |
+| Fri, 06 Feb 2026 15:25:43 GMT | The Epic Journey of a Message: How WhatsApp Guards Its Brave Messenger | Pallavi Raj | [Read More](https://medium.com/p/19d5b19dda4e) |
+| Fri, 06 Feb 2026 15:25:37 GMT | The 3 Types of Cloud (And How Each Can Ruin Your Day) | Dhanush N | [Read More](https://medium.com/p/d4676303e831) |
+| Fri, 06 Feb 2026 15:25:11 GMT | Is it possible to hire a hacker ? | Hilton Bradley | [Read More](https://medium.com/p/cb4a327b0527) |
+| Fri, 06 Feb 2026 15:24:34 GMT | The Theory of Invisible Cracks | lunarea. | [Read More](https://medium.com/p/9e484fdae479) |
+| Fri, 06 Feb 2026 15:14:49 GMT | Day 6: Understanding Normal Network Traffic (Wireshark Basics) | Oluwatise Alao | [Read More](https://medium.com/p/e022791ad731) |
+| Fri, 06 Feb 2026 15:05:24 GMT | File Upload Vulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/5646f9c0c3fe) |
+| Fri, 06 Feb 2026 15:03:47 GMT | The Illusion of ‘Private’ Browsing | Rabail Zaheer | [Read More](https://medium.com/p/d11160204815) |
 | Fri, 06 Feb 2026 15:03:27 GMT | Repenser l’Architecture d’Entreprise à l’ère des Agents IA (Partie 2) | abidi houssem | [Read More](https://medium.com/p/0edc52e4bd1f) |
 | Fri, 06 Feb 2026 15:02:36 GMT | Best Cyber Security Solutions in UAE for Financial, Healthcare & IT Sectors | Vastechoffpage | [Read More](https://medium.com/p/e252ac2159e6) |
 | Fri, 06 Feb 2026 15:01:55 GMT | Ransomware Attack: How It Spreads Automatically Across Enterprise Networks | Ukwedje Taiwo Goodness | [Read More](https://medium.com/p/184647477f59) |
 | Fri, 06 Feb 2026 15:01:04 GMT | I Deployed OpenClaw With Zero Public Ports. Here is the Tailscale Setup That Actually Works | Reza Rezvani | [Read More](https://medium.com/p/86f8c9e6f158) |
 | Fri, 06 Feb 2026 15:01:03 GMT | Cyber Briefing: 2026.02.06 | CyberMaterial | [Read More](https://medium.com/p/17065f93aa75) |
 | Fri, 06 Feb 2026 14:59:45 GMT | The Inevitable Institutional Onramp and the Infrastructure that Demands It | Tricahyoto | [Read More](https://medium.com/p/2bd5e3f1904d) |
+| Fri, 06 Feb 2026 14:59:22 GMT | Firewall and IDS/IPS Evasion: Medium Lab — HackTheBox | William Shively | [Read More](https://medium.com/p/7221395257ff) |
 | Fri, 06 Feb 2026 14:55:11 GMT | Cybersecurity Is Too Crowded in 2026? Good. Here’s Why That’s a Lie. | Vijay Kumar Gupta | [Read More](https://medium.com/p/51b48face3e8) |
 | Fri, 06 Feb 2026 14:51:50 GMT | Post-Mortem Analysis of the BreachForums “Doomsday” Leak: Structural Fragility and Actor Typology | BeGoodToAll | [Read More](https://medium.com/p/2d53f07bf26e) |
 | Fri, 06 Feb 2026 14:49:34 GMT | How I Bypassed a SaaS Payment Flow to Gain Organization Admin & Paid Features During Signup | Mahmoud Rashed | [Read More](https://medium.com/p/6930f72cfb2a) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Feb 2026 09:45:06 GMT | Welcome to Global IT in 2026: Your New Hire Is Ready. Their Laptop Isn’t. | Yuvi Aggarwal | [Read More](https://medium.com/p/59b3dc9c2e4e) |
 | Fri, 06 Feb 2026 09:43:53 GMT | From “AI as autocomplete” to “AI as secure co-owner” | Eray ALTILI | [Read More](https://medium.com/p/d46ad10cf9f9) |
 | Fri, 06 Feb 2026 09:36:46 GMT | I followed a job scam all the way to the end so you don’t have to | Ib2dk | [Read More](https://medium.com/p/4cf99c020f0c) |
-| Fri, 06 Feb 2026 09:36:28 GMT | The Most Helpful Insider Threat: How AI Agents Became Security’s Biggest Blind Spot | raditio ghifiardi | [Read More](https://medium.com/p/1487bb716622) |
-| Fri, 06 Feb 2026 09:34:38 GMT | Case Study: ManageMyHealth Data Breach | Taiyab Lokhandwala | [Read More](https://medium.com/p/10b236fe80f3) |
-| Fri, 06 Feb 2026 09:29:32 GMT | My Learning Journey: Understanding Batteries from Home | RubixQ | [Read More](https://medium.com/p/b68956132b0e) |
-| Fri, 06 Feb 2026 09:20:41 GMT | Everything about End-To-End Encryption | Ayush Garg | [Read More](https://medium.com/p/3293fb87154c) |
-| Fri, 06 Feb 2026 09:20:07 GMT | Iran-Linked Redkitten Cyber Espionage Campaign | Threatsys Technologies Pvt Ltd | [Read More](https://medium.com/p/9123a1803830) |
-| Fri, 06 Feb 2026 09:10:13 GMT | OAuth Consent Phishing: When MFA and Password Resets Don’t Matter | Ankita Sinha | [Read More](https://medium.com/p/23d622ab36fc) |
-| Fri, 06 Feb 2026 09:06:00 GMT | Toddler with Tokens: Microsoft’s $81 Billion Quarter, $37 Billion Burn | Namir Sagheenanajar | [Read More](https://medium.com/p/902358a62fe3) |
-| Fri, 06 Feb 2026 09:05:27 GMT | QR Code & Vishing Scams Leveraging AI Intelligence | Digital Defense | [Read More](https://medium.com/p/cc4e9c13effa) |
-| Fri, 06 Feb 2026 09:03:40 GMT | HTB CodePartTwo Walkthrough | The Mastermind Notes | [Read More](https://medium.com/p/0073250ca372) |
-| Fri, 06 Feb 2026 09:01:03 GMT | 5 Password Patterns That Show Up in Every Company’s Leak Data | Alexandre Vandamme | [Read More](https://medium.com/p/8c528c100877) |
-| Fri, 06 Feb 2026 09:01:03 GMT | Q3: Locked in and still did Amazing…… | Umar Farouk | [Read More](https://medium.com/p/cb64d6917491) |
-| Fri, 06 Feb 2026 09:00:16 GMT | HackTheBox Spookypass Challenge Writeup | The Mastermind Notes | [Read More](https://medium.com/p/1e4feeb5fca3) |
-| Fri, 06 Feb 2026 08:56:37 GMT | The Trio That Keeps Your SOC Running, And Hackers Out | Redfox Security | [Read More](https://medium.com/p/e1d515da0f86) |
-| Fri, 06 Feb 2026 08:54:42 GMT | How SAP Can Improve Supply Chain Visibility and Accuracy | Emergys | [Read More](https://medium.com/p/a38513bdf4cd) |
