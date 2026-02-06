@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Feb 2026 04:03:49 GMT | Importance of SSL for Data in Transit: Why It Must Never Be Ignored | Geeky Vartika | [Read More](https://medium.com/p/fea99b9aea55) |
+| Fri, 06 Feb 2026 04:01:01 GMT | The World’s Hidden Wars | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/853dc6734f02) |
+| Fri, 06 Feb 2026 04:01:01 GMT | L3ak CTF — Forensic | Faishol Hakim | [Read More](https://medium.com/p/488e720ae657) |
+| Fri, 06 Feb 2026 03:57:27 GMT | I Hacked My AI Assistant And You Should Too! | Jade Seeker | [Read More](https://medium.com/p/53b9be3408f0) |
+| Fri, 06 Feb 2026 03:54:22 GMT | Finding 0 days using Codex | Abhirup Konwar | [Read More](https://medium.com/p/426a7c3fc34c) |
+| Fri, 06 Feb 2026 03:46:00 GMT | IDOR to Payment Bypass: How a Trusted Payment Callback Issued a Policy Without Paying | Xp10it | [Read More](https://medium.com/p/86a2fef0048b) |
+| Fri, 06 Feb 2026 03:31:01 GMT | CrashFix: How a Fake Browser Extension Turns a Simple Crash Into a Full-Blown Compromise | Deven Chhajed | [Read More](https://medium.com/p/f4706a2a4f7d) |
+| Fri, 06 Feb 2026 03:30:26 GMT | 5 Steps Everyone Should Take to Protect Their Data Privacy Online | Zafar A S | [Read More](https://medium.com/p/5edf57cac438) |
+| Fri, 06 Feb 2026 03:21:09 GMT | Building Secure GitOps Pipelines: Integrating External Secrets Operator with ArgoCD on EKS | Josh Woolbright | [Read More](https://medium.com/p/8149f363aa15) |
+| Fri, 06 Feb 2026 03:19:25 GMT | Writeup | Hagar Sherif | [Read More](https://medium.com/p/49c90669ca98) |
+| Fri, 06 Feb 2026 03:14:08 GMT | AllSafe Write UP ^-^ | Mirna Shams | [Read More](https://medium.com/p/97614634f7c1) |
+| Fri, 06 Feb 2026 03:13:11 GMT | The Outlier Journey — Day 59 | Ray | [Read More](https://medium.com/p/d0cf0cfa7361) |
+| Fri, 06 Feb 2026 03:08:47 GMT | 6D Security Compass Framework | Vijayarengan R | [Read More](https://medium.com/p/89a77ce41dbd) |
+| Fri, 06 Feb 2026 03:04:39 GMT | BeetleBug Writeup ^-^ | Mirna Shams | [Read More](https://medium.com/p/415b62e468e1) |
+| Fri, 06 Feb 2026 03:01:02 GMT | OAuth 2.0 in iOS: Add Social Login Without the Headache | Chandra Welim | [Read More](https://medium.com/p/9211e8d78739) |
+| Fri, 06 Feb 2026 02:53:04 GMT | WebStrike: A CyberDefenders Lab Writeup | Heath Daughtrey | [Read More](https://medium.com/p/b8b87656b603) |
+| Fri, 06 Feb 2026 02:47:48 GMT | Building Security Into Design: A STRIDE Implementation Roadmap for Small- to Medium-Sized Firms | Patrick Lefler | [Read More](https://medium.com/p/30c665cd0811) |
 | Fri, 06 Feb 2026 02:00:27 GMT | 280+ Leaky Skills: How OpenClaw & ClawHub Are Exposing API Keys and PII | Snyk | [Read More](https://medium.com/p/c87ed5cb966d) |
 | Fri, 06 Feb 2026 01:59:26 GMT | The Holy Trinity of Code Security | Himanshu Jain | [Read More](https://medium.com/p/c10bd3511205) |
 | Fri, 06 Feb 2026 01:44:19 GMT | Bridging Wazuh and CISA KEV: Real-Time Detection of Actively Exploited Vulnerabilities | Chinaza Emmanuela Obidike | [Read More](https://medium.com/p/e3caa9acc132) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Feb 2026 17:28:50 GMT | 170 Days Undetected: How a Fake PDF Editor Stole Credentials Right Under Everyone’s Nose | Sam Purcell | [Read More](https://medium.com/p/1dc7dce7f94c) |
 | Thu, 05 Feb 2026 17:27:27 GMT | ️ The Great Fragmentation: Why Resilience is the New Innovation in Swiss Finance | Pascal | [Read More](https://medium.com/p/af3a9e17c215) |
 | Thu, 05 Feb 2026 17:27:05 GMT | The Breaches Nobody’s Talking About | Joseph Dworcan | [Read More](https://medium.com/p/62afa70174f8) |
-| Thu, 05 Feb 2026 17:27:02 GMT | Why Secure Key Rotation Fails in Distributed Systems (and How to Fix It) | Kunal Demla | [Read More](https://medium.com/p/ed789eec8203) |
-| Thu, 05 Feb 2026 17:26:40 GMT | A Cybersecurity Nightmare | Anand Rao | [Read More](https://medium.com/p/dcda5730266a) |
-| Thu, 05 Feb 2026 17:25:40 GMT | Cybersecurity In The Age of AI | Aj | [Read More](https://medium.com/p/564894302ade) |
-| Thu, 05 Feb 2026 17:16:37 GMT | The OWASP Top 10 for LLM Applications: Mapping Risks to MITRE ATLAS Attack Techniques | Shahrukh Khan | [Read More](https://medium.com/p/a2c775839909) |
-| Thu, 05 Feb 2026 17:14:19 GMT | New Framework for Human-Centered AI Privacy: Strong Structure, Shallow Cultural insight | Berend Watchus | [Read More](https://medium.com/p/ce3203f29db0) |
-| Thu, 05 Feb 2026 17:10:08 GMT | Day — 1: Reading Penetration Testing: A Hands-On Introduction to Hacking | MARTIN LEWIS | [Read More](https://medium.com/p/373016a7a3dc) |
-| Thu, 05 Feb 2026 17:08:31 GMT | Why Your Nmap Scan is Failing: Stealth Techniques for Modern Firewalls | Your's Nightmare | [Read More](https://medium.com/p/5bcc3ebebbcf) |
-| Thu, 05 Feb 2026 17:05:06 GMT | Authorization Bugs Beyond IDOR: What Most Hackers Miss | ghostyjoe | [Read More](https://medium.com/p/c1cde8adf51d) |
-| Thu, 05 Feb 2026 17:04:34 GMT | Why Codevirus Security Offers the Best Summer Training in Lucknow (2026 Guide for Students) | Ankit rai | [Read More](https://medium.com/p/ebb1ee51e651) |
-| Thu, 05 Feb 2026 17:03:41 GMT | The Most Dangerous Hacker Is Already on Your Payroll | Travis Ray Caverhill | [Read More](https://medium.com/p/d79b41dacd2e) |
-| Thu, 05 Feb 2026 17:01:01 GMT | Etika, Kualitas, dan Keamanan: Pilar Fundamental dalam Pengolahan Data Modern | Irfan Maulana | [Read More](https://medium.com/p/9747d3b868f2) |
-| Thu, 05 Feb 2026 16:49:13 GMT | I’m glad to share that I’ve won my first bug bounty program I’ve ever joined on pcbstore.com.bd | Abdullah Mina | [Read More](https://medium.com/p/2d6a82d47b85) |
-| Thu, 05 Feb 2026 16:45:43 GMT | I Didn’t Guess Anything — The App Told Me Exactly What to Exploit ️ | Iski | [Read More](https://medium.com/p/7f59d7d19c04) |
-| Thu, 05 Feb 2026 16:45:06 GMT | The Cutting Edge of AI in 2026: What’s Really Happening Now | Raman Nimje | [Read More](https://medium.com/p/4c803f731597) |
-| Thu, 05 Feb 2026 16:32:42 GMT | What Logs are Critical for AI Application Monitoring? | Shahrukh Khan | [Read More](https://medium.com/p/df807785f007) |
-| Thu, 05 Feb 2026 16:26:34 GMT | Oh My WebServer (TryHackMe) — Redacted Walkthrough | Roshan Rajbanshi | [Read More](https://medium.com/p/3b5ab2c177f5) |
-| Thu, 05 Feb 2026 16:23:49 GMT | The Day a Fake CAPTCHA Taught Me More Than Any Tutorial | Anusha Thomas | [Read More](https://medium.com/p/7cfd292546fe) |
