@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Feb 2026 08:42:13 GMT | Passkeys: The Authentication Model the Internet Needed | Ashima Shandil | [Read More](https://medium.com/p/b3ab91e4d627) |
+| Fri, 06 Feb 2026 08:37:20 GMT | The UK Banks and PQC | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/1ebb6fe08923) |
+| Fri, 06 Feb 2026 08:35:25 GMT | AI Didn’t Break Security — It Exposed It | Pritam Dutta | [Read More](https://medium.com/p/89bb89e04a1d) |
+| Fri, 06 Feb 2026 08:32:15 GMT | Digital Footprint, A simple TryHackMe Challenge | Vaishnav S | [Read More](https://medium.com/p/1a91b3647750) |
+| Fri, 06 Feb 2026 08:31:41 GMT | Facial Recognition Market Growth Outlook: Trends, Technologies, and Forecast to 2031 | Abhi112 | [Read More](https://medium.com/p/5c0aeca5477a) |
+| Fri, 06 Feb 2026 08:31:00 GMT | Your Messages Are Encrypted. Your Life Isn’t. | Iacopo Boaron Otero | [Read More](https://medium.com/p/e7a8378987da) |
+| Fri, 06 Feb 2026 08:29:55 GMT | Mistakes That Accidentally Taught Me More Than Tutorials | Fateyaly | [Read More](https://medium.com/p/8b452ed18ac7) |
+| Fri, 06 Feb 2026 08:19:40 GMT | Certified Cyber Security Engineer Program: Learn Real Hacking Skills | Katherine Williams | [Read More](https://medium.com/p/b5ab4fa2c1e8) |
+| Fri, 06 Feb 2026 08:14:10 GMT | Unleash Total Security Using Antivirus Software Technology | Siyanoav | [Read More](https://medium.com/p/bc68712326ed) |
+| Fri, 06 Feb 2026 08:11:18 GMT | 403 Forbidden Error Explained: How to Fix It on Your Website | Smit Pipaliya | [Read More](https://medium.com/p/4961172e7bd5) |
+| Fri, 06 Feb 2026 08:11:14 GMT | From IDOR to Role Escalation: How Small Access Bugs Become Critical | ghostyjoe | [Read More](https://medium.com/p/99b980dd9ccd) |
+| Fri, 06 Feb 2026 08:10:10 GMT | Substack Was Hacked, and This Is What You Need to Know | ILLUMINATION | [Read More](https://medium.com/p/8787a658ab2f) |
+| Fri, 06 Feb 2026 08:04:11 GMT | LINE TV資料外洩事件從資安攻擊、防禦、稽核與未來應變剖析 | jerrycho | [Read More](https://medium.com/p/2c9888772da6) |
 | Fri, 06 Feb 2026 07:44:35 GMT | OTP Enforcement Bypass in Multi-Factor Authentication | Cynox Security LLP. | [Read More](https://medium.com/p/14eefb62fbd4) |
 | Fri, 06 Feb 2026 07:37:30 GMT | Revolutionizing Engineering: Meet VCLAVIS, the Modern Software for Pressure Vessel Design | Constantine Karamitsios | [Read More](https://medium.com/p/728332c9172e) |
 | Fri, 06 Feb 2026 07:35:27 GMT | The Corix Partners Friday Reading List — February 6, 2026 | JC Gaillard | [Read More](https://medium.com/p/42c1372b8310) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Feb 2026 21:06:01 GMT | Aaron W. DeJong Newsletter: Episode 2 | Aaron DeJong | [Read More](https://medium.com/p/072a34cd2c83) |
 | Thu, 05 Feb 2026 20:59:14 GMT | I was shocked by how much system access OpenClaw requires | Cordula Boeck | [Read More](https://medium.com/p/c99d4d1a9883) |
 | Thu, 05 Feb 2026 20:57:12 GMT | Client-Server Basics · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/a9f812eadf2b) |
-| Thu, 05 Feb 2026 20:51:33 GMT | Stop Giving Your Real Email to Every Website — Here’s What to Do Instead: TempMail4.site | SSH-Tunnel | [Read More](https://medium.com/p/2e873cce1afa) |
-| Thu, 05 Feb 2026 20:50:44 GMT | MASTERING THE HACKER MINDSET: HOW ETHICAL HACKERS DEFEND BY THINKING LIKE ATTACKERS | Raphaam Digital (Cyber Security Updates) | [Read More](https://medium.com/p/852bc0261f01) |
-| Thu, 05 Feb 2026 20:50:05 GMT | PQC Is Happening | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/3006f4491701) |
-| Thu, 05 Feb 2026 20:48:13 GMT | Moltbook Is Not the Singularity. It’s LLM Theater. | Tim Kapp | [Read More](https://medium.com/p/31fefc263480) |
-| Thu, 05 Feb 2026 20:47:42 GMT | RingZeroCTF Coding Challenge 4 [Can you help me find the answer to this equation] Writeup | Devansh Patel | [Read More](https://medium.com/p/7326fef71ec1) |
-| Thu, 05 Feb 2026 20:44:23 GMT | The Best Online Cybersecurity Courses of 2026 | Emory French | [Read More](https://medium.com/p/d222951abd2a) |
-| Thu, 05 Feb 2026 20:37:49 GMT | Master F5 BIG-IP — Limited-Time Free Coupon Codes! | DeepDive4learn | [Read More](https://medium.com/p/785842dc78d8) |
-| Thu, 05 Feb 2026 20:35:42 GMT | Part 1: I Walked Into My First Hackathon Knowing Only HTML, CSS, and JavaScript | Aniket Chakraborty | [Read More](https://medium.com/p/dfdf6958b025) |
-| Thu, 05 Feb 2026 20:25:39 GMT | The Matrix Reloaded and the Cyber Security lesson You Missed | Umar Al-Mahfuz | [Read More](https://medium.com/p/d8a97bfae7b0) |
-| Thu, 05 Feb 2026 20:12:08 GMT | Business Logic Vulnerabilities — When Applications Work as Designed, but Still Fail | Anshkamra | [Read More](https://medium.com/p/3353fd2f7df1) |
-| Thu, 05 Feb 2026 20:11:04 GMT | Sokudo writeup (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/0e2c54aae329) |
-| Thu, 05 Feb 2026 19:57:34 GMT | Creating a Buffer Overflow CTF Challenge | Jordan Lanning - MIT, MPA | [Read More](https://medium.com/p/71a60e4578ef) |
-| Thu, 05 Feb 2026 19:57:28 GMT | Bypassing Frida: Advanced Frida Detection Bypass — Part 4 | Haxymad | [Read More](https://medium.com/p/c258e8f5aa64) |
