@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Feb 2026 19:43:51 GMT | whichmobilez. com | 99techpost | [Read More](https://medium.com/p/bf052f801002) |
+| Fri, 06 Feb 2026 19:36:01 GMT | Why Enterprise Data Leaders Are Boarding on Microsoft Fabric | Karunakar Kotha | [Read More](https://medium.com/p/ede5b0f92dd6) |
+| Fri, 06 Feb 2026 19:24:48 GMT | How I Ran an OSINT Exercise on a Friend (With Full Consent)… | Jakub Bobkowski | [Read More](https://medium.com/p/f87b22ac5a84) |
+| Fri, 06 Feb 2026 19:23:30 GMT | CSRF Protection Done Wrong: Accepting Requests Without Tokens | Istiyak | [Read More](https://medium.com/p/f96708d39090) |
 | Fri, 06 Feb 2026 19:19:54 GMT | File InclusionVulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/2c133616990e) |
 | Fri, 06 Feb 2026 19:13:32 GMT | LinkCaster NOC — Multi-Network Media Forensics & Broadcast Monitoring POC | Sivakumar Palanikumar | [Read More](https://medium.com/p/ffe53f7b747e) |
 | Fri, 06 Feb 2026 19:08:33 GMT | Bug Bounty Programlarına Başlamaya Karar Verdim | Hakan ÇEVİK | [Read More](https://medium.com/p/c9d4a078f279) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Feb 2026 13:11:33 GMT | Custom Mounting NTFS Windows Drives in WSL 2 (My Way) | Ivan Melnik | [Read More](https://medium.com/p/276ebbca4e51) |
 | Fri, 06 Feb 2026 13:10:14 GMT | Business Logic Bug | Hamza Eibba | [Read More](https://medium.com/p/8f9922142b18) |
 | Fri, 06 Feb 2026 13:08:01 GMT | Stored XSS Bypass using unicode encoding in template builder via Button and Social media links | Simo | [Read More](https://medium.com/p/73c4bc8ea4ef) |
-| Fri, 06 Feb 2026 13:01:06 GMT | If Your Server Is Slow, Check This One File Before Anything Else | Faruk Ahmed | [Read More](https://medium.com/p/6d3a0f836870) |
-| Fri, 06 Feb 2026 13:00:39 GMT | # The AI Attack Surface Salesforce Doesn’t Want You to Think About | Latent Breach | [Read More](https://medium.com/p/2e93b9e8b989) |
-| Fri, 06 Feb 2026 12:59:50 GMT | The Cookie Bomb: When Tracking Parameters Become Denial-of-Service Weapons | Dipesh Paul | [Read More](https://medium.com/p/348bc29bce1a) |
-| Fri, 06 Feb 2026 12:56:50 GMT | Round-the-Clock Real-World Cyber Testing with Eventus Security’s Red Teaming as a Service (RTaaS) | Eventus Security Private Limited | [Read More](https://medium.com/p/b4343c4d5bb3) |
