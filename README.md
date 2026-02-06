@@ -12,7 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Feb 2026 09:46:20 GMT | Cracking the Riddle: picoCTF Riddle Registry Walkthrough | Creepus | [Read More](https://medium.com/p/994951844db6) |
+| Fri, 06 Feb 2026 09:45:06 GMT | Welcome to Global IT in 2026: Your New Hire Is Ready. Their Laptop Isn’t. | Yuvi Aggarwal | [Read More](https://medium.com/p/59b3dc9c2e4e) |
+| Fri, 06 Feb 2026 09:43:53 GMT | From “AI as autocomplete” to “AI as secure co-owner” | Eray ALTILI | [Read More](https://medium.com/p/d46ad10cf9f9) |
+| Fri, 06 Feb 2026 09:36:46 GMT | I followed a job scam all the way to the end so you don’t have to | Ib2dk | [Read More](https://medium.com/p/4cf99c020f0c) |
+| Fri, 06 Feb 2026 09:36:28 GMT | The Most Helpful Insider Threat: How AI Agents Became Security’s Biggest Blind Spot | raditio ghifiardi | [Read More](https://medium.com/p/1487bb716622) |
+| Fri, 06 Feb 2026 09:34:38 GMT | Case Study: ManageMyHealth Data Breach | Taiyab Lokhandwala | [Read More](https://medium.com/p/10b236fe80f3) |
+| Fri, 06 Feb 2026 09:29:32 GMT | My Learning Journey: Understanding Batteries from Home | RubixQ | [Read More](https://medium.com/p/b68956132b0e) |
+| Fri, 06 Feb 2026 09:20:41 GMT | Everything about End-To-End Encryption | Ayush Garg | [Read More](https://medium.com/p/3293fb87154c) |
+| Fri, 06 Feb 2026 09:20:07 GMT | Iran-Linked Redkitten Cyber Espionage Campaign | Threatsys Technologies Pvt Ltd | [Read More](https://medium.com/p/9123a1803830) |
+| Fri, 06 Feb 2026 09:10:13 GMT | OAuth Consent Phishing: When MFA and Password Resets Don’t Matter | Ankita Sinha | [Read More](https://medium.com/p/23d622ab36fc) |
+| Fri, 06 Feb 2026 09:06:00 GMT | Toddler with Tokens: Microsoft’s $81 Billion Quarter, $37 Billion Burn | Namir Sagheenanajar | [Read More](https://medium.com/p/902358a62fe3) |
+| Fri, 06 Feb 2026 09:03:40 GMT | HTB CodePartTwo Walkthrough | The Mastermind Notes | [Read More](https://medium.com/p/0073250ca372) |
+| Fri, 06 Feb 2026 09:01:03 GMT | 5 Password Patterns That Show Up in Every Company’s Leak Data | Alexandre Vandamme | [Read More](https://medium.com/p/8c528c100877) |
+| Fri, 06 Feb 2026 09:01:03 GMT | Q3: Locked in and still did Amazing…… | Umar Farouk | [Read More](https://medium.com/p/cb64d6917491) |
+| Fri, 06 Feb 2026 09:00:16 GMT | HackTheBox Spookypass Challenge Writeup | The Mastermind Notes | [Read More](https://medium.com/p/1e4feeb5fca3) |
+| Fri, 06 Feb 2026 08:56:37 GMT | The Trio That Keeps Your SOC Running, And Hackers Out | Redfox Security | [Read More](https://medium.com/p/e1d515da0f86) |
+| Fri, 06 Feb 2026 08:54:42 GMT | How SAP Can Improve Supply Chain Visibility and Accuracy | Emergys | [Read More](https://medium.com/p/a38513bdf4cd) |
+| Fri, 06 Feb 2026 08:54:37 GMT | WP-Hunter: Intelligent Reconnaissance Tool for WordPress Plugins and Themes | Ali Sünbül (xeloxa) | [Read More](https://medium.com/p/6c22fffd2ff3) |
 | Fri, 06 Feb 2026 08:42:13 GMT | Passkeys: The Authentication Model the Internet Needed | Ashima Shandil | [Read More](https://medium.com/p/b3ab91e4d627) |
+| Fri, 06 Feb 2026 08:37:26 GMT | The Hackers Labs Writeup — Tortuga (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/9653988fcc39) |
 | Fri, 06 Feb 2026 08:37:20 GMT | The UK Banks and PQC | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/1ebb6fe08923) |
 | Fri, 06 Feb 2026 08:35:25 GMT | AI Didn’t Break Security — It Exposed It | Pritam Dutta | [Read More](https://medium.com/p/89bb89e04a1d) |
 | Fri, 06 Feb 2026 08:32:15 GMT | Digital Footprint, A simple TryHackMe Challenge | Vaishnav S | [Read More](https://medium.com/p/1a91b3647750) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Feb 2026 01:03:49 GMT | Understanding Near Field Communication (NFC): Technology, Uses, and Security Considerations | Raviteja Mureboina | [Read More](https://medium.com/p/76f095113558) |
 | Fri, 06 Feb 2026 01:00:28 GMT | CompTIA SecAI+ CY0–001: The Complete Guide to AI Security Certification | Ayush Jain | [Read More](https://medium.com/p/a94d5dd32fb0) |
 | Fri, 06 Feb 2026 00:13:50 GMT | AWS Enumeration Using Pacu: Cybr’s IAM Lab | Amanuel | [Read More](https://medium.com/p/a24450697150) |
-| Fri, 06 Feb 2026 00:01:01 GMT | Guía Avanzada de Curl para Bug Hunting: Técnicas de Reconocimiento y Explotación | JPablo13 | [Read More](https://medium.com/p/4938b3b04372) |
-| Thu, 05 Feb 2026 23:42:55 GMT | Mine | Luna Monroe | [Read More](https://medium.com/p/0171682b5b7a) |
-| Thu, 05 Feb 2026 23:17:32 GMT | Building a Production-Ready Snowflake Audit Log Pipeline to S3 | xcal | [Read More](https://medium.com/p/6c4203dfa771) |
-| Thu, 05 Feb 2026 23:05:12 GMT | DevSecOps for Salesforce: How Security Scanners Secure Modern CI/CD Pipelines | Musa Ndlala | [Read More](https://medium.com/p/45fe9d995b1e) |
-| Thu, 05 Feb 2026 23:01:02 GMT | Tools I’m currently enjoying while using VS Code (aka the extensions doing the heavy lifting): | Miss Tarus | [Read More](https://medium.com/p/c74072e8bc4e) |
-| Thu, 05 Feb 2026 22:41:38 GMT | The Shocking Truth: How Companies Sell Your Data | Shahzaib | [Read More](https://medium.com/p/4ae99451a24c) |
-| Thu, 05 Feb 2026 22:36:22 GMT | Understanding DNS Resolution and a Classic Cache Poisoning Attack | Ananth S S | [Read More](https://medium.com/p/030e3e4b92a0) |
-| Thu, 05 Feb 2026 22:33:26 GMT | Activepieces as Firewall against OpenClaw | Sotiraki Sima | [Read More](https://medium.com/p/6e68c0fd18fc) |
-| Thu, 05 Feb 2026 22:23:05 GMT | Disabling PPL Protection on Windows Processes | S12 - 0x12Dark Development | [Read More](https://medium.com/p/0cb77a065939) |
-| Thu, 05 Feb 2026 22:11:01 GMT | 4 Dangerous Dreams That Will Ruin Your Life After 50 | Riva Smith | [Read More](https://medium.com/p/d7b494c731fc) |
-| Thu, 05 Feb 2026 21:49:03 GMT | SOC Control Panel | Techwin Cyber | [Read More](https://medium.com/p/ca0a1095b395) |
-| Thu, 05 Feb 2026 21:48:33 GMT | Why Small Businesses Must Use AI to Defend Against AI | Aysha Saifi | [Read More](https://medium.com/p/74255b6e4561) |
-| Thu, 05 Feb 2026 21:40:38 GMT | Moltbot the World’s Most Interesting AI | Chris (Gendryx) | [Read More](https://medium.com/p/1a5c6cfb9d54) |
-| Thu, 05 Feb 2026 21:36:02 GMT | Network Analysis - Malware Compromise (Blue Team Labs Online Writeup) | Luka Babetzki | [Read More](https://medium.com/p/b98d97bb72d1) |
-| Thu, 05 Feb 2026 21:30:27 GMT | From Files to Behavior: Why Traditional DLP Is No Longer Enough | Priderock Joy | [Read More](https://medium.com/p/3f92ac54d233) |
-| Thu, 05 Feb 2026 21:20:43 GMT | OP-TEE: A Practical Trusted Execution Environment on ARM TrustZone | Wadix Technologies | [Read More](https://medium.com/p/c0c0073eca4a) |
-| Thu, 05 Feb 2026 21:06:01 GMT | Aaron W. DeJong Newsletter: Episode 2 | Aaron DeJong | [Read More](https://medium.com/p/072a34cd2c83) |
-| Thu, 05 Feb 2026 20:59:14 GMT | I was shocked by how much system access OpenClaw requires | Cordula Boeck | [Read More](https://medium.com/p/c99d4d1a9883) |
-| Thu, 05 Feb 2026 20:57:12 GMT | Client-Server Basics · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/a9f812eadf2b) |
