@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Feb 2026 10:38:57 GMT | Malware Development — 3 (Nim and Callbacks) | 0r | [Read More](https://medium.com/p/2ffad7e5101f) |
+| Fri, 06 Feb 2026 10:28:38 GMT | HHMD (Hand Held Metal Detector): Smart and Efficient Personal Screening Solution by etradefia | Etradefia | [Read More](https://medium.com/p/20035415114e) |
+| Fri, 06 Feb 2026 10:23:36 GMT | Ethical Hacking Tools: Best + Starter Toolkits (2026) | Simplilearn | [Read More](https://medium.com/p/9b23b4120a66) |
+| Fri, 06 Feb 2026 10:14:05 GMT | GeoServer’s 2025 XXE Vulnerability Explained | Motasem Hamdan | [Read More](https://medium.com/p/e82caff3a661) |
+| Fri, 06 Feb 2026 10:07:15 GMT | Welcome to the New Era: When a Teenager Can Crash Your Company in Minutes | Andrey Pautov | [Read More](https://medium.com/p/8818fb6c0503) |
+| Fri, 06 Feb 2026 10:06:34 GMT | OpenClaw AI Agents & Business Automation: Security Lessons for Companies | Mandra H B | [Read More](https://medium.com/p/92e3064712d2) |
+| Fri, 06 Feb 2026 10:06:01 GMT | Why LLMs Struggle with Password Cracking | Shailendra Kumar | [Read More](https://medium.com/p/59ccf28cb705) |
+| Fri, 06 Feb 2026 10:01:10 GMT | If You’re Learning to Code in 2026, Here Are the 3 Paths You Actually Need to Know | ThinkChain | [Read More](https://medium.com/p/d11b53571fc9) |
+| Fri, 06 Feb 2026 09:53:46 GMT | Why IT Onboarding Still Breaks on Day One (and How the Best Teams Fix It in 2026) | Yuvi Aggarwal | [Read More](https://medium.com/p/1786ce09b0e7) |
+| Fri, 06 Feb 2026 09:49:40 GMT | 5 Simple Habits That Protect You From Online Scams | Maria Tsilika | [Read More](https://medium.com/p/65b9a1cffd31) |
+| Fri, 06 Feb 2026 09:49:35 GMT | The Complete Guide to Learning Generative AI in 2026 | Vector Skill Academy | [Read More](https://medium.com/p/70612df91c76) |
+| Fri, 06 Feb 2026 09:49:11 GMT | Virtual Reality in Tourism: Exploring the World Before You Travel | iCode49 Technolabs | [Read More](https://medium.com/p/913639761e7d) |
 | Fri, 06 Feb 2026 09:46:20 GMT | Cracking the Riddle: picoCTF Riddle Registry Walkthrough | Creepus | [Read More](https://medium.com/p/994951844db6) |
 | Fri, 06 Feb 2026 09:45:06 GMT | Welcome to Global IT in 2026: Your New Hire Is Ready. Their Laptop Isn’t. | Yuvi Aggarwal | [Read More](https://medium.com/p/59b3dc9c2e4e) |
 | Fri, 06 Feb 2026 09:43:53 GMT | From “AI as autocomplete” to “AI as secure co-owner” | Eray ALTILI | [Read More](https://medium.com/p/d46ad10cf9f9) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Feb 2026 03:19:25 GMT | Writeup | Hagar Sherif | [Read More](https://medium.com/p/49c90669ca98) |
 | Fri, 06 Feb 2026 03:14:08 GMT | AllSafe Write UP ^-^ | Mirna Shams | [Read More](https://medium.com/p/97614634f7c1) |
 | Fri, 06 Feb 2026 03:13:11 GMT | The Outlier Journey — Day 59 | Ray | [Read More](https://medium.com/p/d0cf0cfa7361) |
-| Fri, 06 Feb 2026 03:08:47 GMT | 6D Security Compass Framework | Vijayarengan R | [Read More](https://medium.com/p/89a77ce41dbd) |
-| Fri, 06 Feb 2026 03:04:39 GMT | BeetleBug Writeup ^-^ | Mirna Shams | [Read More](https://medium.com/p/415b62e468e1) |
-| Fri, 06 Feb 2026 03:01:02 GMT | OAuth 2.0 in iOS: Add Social Login Without the Headache | Chandra Welim | [Read More](https://medium.com/p/9211e8d78739) |
-| Fri, 06 Feb 2026 02:53:04 GMT | WebStrike: A CyberDefenders Lab Writeup | Heath Daughtrey | [Read More](https://medium.com/p/b8b87656b603) |
-| Fri, 06 Feb 2026 02:47:48 GMT | Building Security Into Design: A STRIDE Implementation Roadmap for Small- to Medium-Sized Firms | Patrick Lefler | [Read More](https://medium.com/p/30c665cd0811) |
-| Fri, 06 Feb 2026 02:00:27 GMT | 280+ Leaky Skills: How OpenClaw & ClawHub Are Exposing API Keys and PII | Snyk | [Read More](https://medium.com/p/c87ed5cb966d) |
-| Fri, 06 Feb 2026 01:59:26 GMT | The Holy Trinity of Code Security | Himanshu Jain | [Read More](https://medium.com/p/c10bd3511205) |
-| Fri, 06 Feb 2026 01:44:19 GMT | Bridging Wazuh and CISA KEV: Real-Time Detection of Actively Exploited Vulnerabilities | Chinaza Emmanuela Obidike | [Read More](https://medium.com/p/e3caa9acc132) |
-| Fri, 06 Feb 2026 01:37:24 GMT | Free PDF Book Cyber Security | Ez Tech Explains | [Read More](https://medium.com/p/44ef955d7b9c) |
-| Fri, 06 Feb 2026 01:03:49 GMT | Understanding Near Field Communication (NFC): Technology, Uses, and Security Considerations | Raviteja Mureboina | [Read More](https://medium.com/p/76f095113558) |
-| Fri, 06 Feb 2026 01:00:28 GMT | CompTIA SecAI+ CY0–001: The Complete Guide to AI Security Certification | Ayush Jain | [Read More](https://medium.com/p/a94d5dd32fb0) |
-| Fri, 06 Feb 2026 00:13:50 GMT | AWS Enumeration Using Pacu: Cybr’s IAM Lab | Amanuel | [Read More](https://medium.com/p/a24450697150) |
