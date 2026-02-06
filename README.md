@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Feb 2026 20:31:55 GMT | SkiddyKill3r Write-Up — Breaking an Easy Web Security Challenge | Z3DX | [Read More](https://medium.com/p/873d1e166342) |
+| Fri, 06 Feb 2026 20:29:56 GMT | How WhatsApp Keeps Your Messages Safe with End-to-End Encryption | Pawan Kushwah | [Read More](https://medium.com/p/dc375ca9d4eb) |
+| Fri, 06 Feb 2026 20:16:09 GMT | Privilege Escalation: Hijacking an Organization via Billing Notifications | Mohamed Fathy | [Read More](https://medium.com/p/779bf34022ac) |
+| Fri, 06 Feb 2026 20:12:29 GMT | HTB_Academy: Skills Assessment — Web Fuzzing | Babatunde Ojo | [Read More](https://medium.com/p/9d0d1e800755) |
+| Fri, 06 Feb 2026 20:01:24 GMT | When Infrastructure Thinks for Itself: The Rise of Autonomous IT Operations | Mai Tran | [Read More](https://medium.com/p/adfda84992cb) |
+| Fri, 06 Feb 2026 20:00:44 GMT | Narcissistic Reward Patterns vs Real Intimacy: Learning to Receive Real Love | Huzaifa Awan | [Read More](https://medium.com/p/f3059889cc88) |
+| Fri, 06 Feb 2026 19:59:04 GMT | Cybersecurity Enters an Arms Race Era: When AI Fights AI in the New Digital Battlefield | Mai Tran | [Read More](https://medium.com/p/478f89b17c38) |
+| Fri, 06 Feb 2026 19:52:45 GMT | Culture: Culture, the Hidden “C” in GRC | Daniel | [Read More](https://medium.com/p/1ebdbeccdb5e) |
 | Fri, 06 Feb 2026 19:43:51 GMT | whichmobilez. com | 99techpost | [Read More](https://medium.com/p/bf052f801002) |
 | Fri, 06 Feb 2026 19:36:01 GMT | Why Enterprise Data Leaders Are Boarding on Microsoft Fabric | Karunakar Kotha | [Read More](https://medium.com/p/ede5b0f92dd6) |
 | Fri, 06 Feb 2026 19:24:48 GMT | How I Ran an OSINT Exercise on a Friend (With Full Consent)… | Jakub Bobkowski | [Read More](https://medium.com/p/f87b22ac5a84) |
@@ -65,6 +73,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Feb 2026 16:17:49 GMT | Netwrix Usercube Episode 2: Architecture | Aimeric Pouga | [Read More](https://medium.com/p/ca675b64b951) |
 | Fri, 06 Feb 2026 16:14:42 GMT | Static Application Security Testing (SAST) | Anadi Chiransa | [Read More](https://medium.com/p/17ee4405d9aa) |
 | Fri, 06 Feb 2026 16:13:23 GMT | Top Security Threats in 2026 and How to Prevent Them | Teona | [Read More](https://medium.com/p/9f877c6b11f0) |
+| Fri, 06 Feb 2026 16:13:06 GMT | 身份驗證之戰：ShinyHunters 駭客聯盟與多因子驗證武器化的戰術演變研究報告 | jerrycho | [Read More](https://medium.com/p/c92c55816450) |
 | Fri, 06 Feb 2026 16:10:17 GMT | Securing Docker Daemon and API | Engineer Palsu | [Read More](https://medium.com/p/4a4c4c2d17e0) |
 | Fri, 06 Feb 2026 16:01:02 GMT | The Echo of What Is Not Said | Bruno Pimentel | [Read More](https://medium.com/p/643c53391466) |
 | Fri, 06 Feb 2026 15:55:03 GMT | crackme-py Picoctf Reverse Engineering | Aun Raza | [Read More](https://medium.com/p/42a425fdb656) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Feb 2026 13:44:20 GMT | Top 50 Must-Know BlackArch Linux Tools for Penetration Testing | TechLatest.Net | [Read More](https://medium.com/p/bbf49e81cef2) |
 | Fri, 06 Feb 2026 13:41:21 GMT | Prompt Injection: The New SQL Injections | BillfordX | [Read More](https://medium.com/p/1c3c07a767da) |
 | Fri, 06 Feb 2026 13:39:09 GMT | Pentester Bytes: The most common GraphQL Bug | Shivam Bathla | [Read More](https://medium.com/p/424cadb541bd) |
-| Fri, 06 Feb 2026 13:37:35 GMT | Day 11: Cyber Kill Chain & MITRE ATT&CK | Siddhesh Patil | [Read More](https://medium.com/p/de4e77cc59e9) |
-| Fri, 06 Feb 2026 13:36:26 GMT | “Take Off the Mask: How Emotional Distance Can Destroy Intimacy in Marriage” | Jeff Murrah, LPC, LCDC, CMNCS | [Read More](https://medium.com/p/db1dd3350ac3) |
-| Fri, 06 Feb 2026 13:34:53 GMT | Security & Compliance in Cybersecurity | Cynox Security LLP. | [Read More](https://medium.com/p/f3952014a117) |
-| Fri, 06 Feb 2026 13:31:31 GMT | Hacker Gibi Düşünmek: Günlük Hayatta Beklenmedik Avantajlar | Attila453 | [Read More](https://medium.com/p/ea97c4b1cd79) |
-| Fri, 06 Feb 2026 13:22:19 GMT | CHAPTER 3 — PHANTOM TRACES | Thiago Holmes | [Read More](https://medium.com/p/e87883c60157) |
-| Fri, 06 Feb 2026 13:16:00 GMT | How Phishing Wins By Borrowing Your Emotions | Plaintext with Rich | [Read More](https://medium.com/p/750e030a476d) |
-| Fri, 06 Feb 2026 13:11:33 GMT | Custom Mounting NTFS Windows Drives in WSL 2 (My Way) | Ivan Melnik | [Read More](https://medium.com/p/276ebbca4e51) |
-| Fri, 06 Feb 2026 13:10:14 GMT | Business Logic Bug | Hamza Eibba | [Read More](https://medium.com/p/8f9922142b18) |
-| Fri, 06 Feb 2026 13:08:01 GMT | Stored XSS Bypass using unicode encoding in template builder via Button and Social media links | Simo | [Read More](https://medium.com/p/73c4bc8ea4ef) |
