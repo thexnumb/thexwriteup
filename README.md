@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Feb 2026 21:23:57 GMT | THM - Boogeyman 3 | Francesco Pastore | [Read More](https://medium.com/p/04bb4a4862cd) |
+| Fri, 06 Feb 2026 21:21:35 GMT | notepad | Michael Link | [Read More](https://medium.com/p/52ee74fbb257) |
+| Fri, 06 Feb 2026 21:20:44 GMT | Why Moltbook is Dangerous: Critical Zero-days Found in My Audit (Full Report) | Saad Khalid | [Read More](https://medium.com/p/39a721e5dfb0) |
+| Fri, 06 Feb 2026 21:18:25 GMT | How to Stop Your AI Agent From Losing Its Memory (And Why It Matters) | Omar Antonio Díaz Peña | [Read More](https://medium.com/p/6e559d92a091) |
+| Fri, 06 Feb 2026 21:16:54 GMT | Building a Modern TOTP Authentication System with Go, React, and Redis | Frank Druillennec | [Read More](https://medium.com/p/a92920b7eaee) |
+| Fri, 06 Feb 2026 21:07:09 GMT | Day 10 : OS Command Injection — Port swigger | Cybersecurity with Jojo | [Read More](https://medium.com/p/07616f4ffc85) |
+| Fri, 06 Feb 2026 21:01:00 GMT | Hacking Networking Services Home Lab | Mainekhacker | [Read More](https://medium.com/p/e30555e3a0dd) |
+| Fri, 06 Feb 2026 20:55:34 GMT | The City of Legends: The Pain And Mapping | Norman Kolarikkal | [Read More](https://medium.com/p/d4e3a9215972) |
+| Fri, 06 Feb 2026 20:41:50 GMT | Designing an AI Butler for Code Security: Building a Claude Code Skill | Justin Perkins | [Read More](https://medium.com/p/73012bbc85dd) |
 | Fri, 06 Feb 2026 20:31:55 GMT | SkiddyKill3r Write-Up — Breaking an Easy Web Security Challenge | Z3DX | [Read More](https://medium.com/p/873d1e166342) |
 | Fri, 06 Feb 2026 20:29:56 GMT | How WhatsApp Keeps Your Messages Safe with End-to-End Encryption | Pawan Kushwah | [Read More](https://medium.com/p/dc375ca9d4eb) |
 | Fri, 06 Feb 2026 20:16:09 GMT | Privilege Escalation: Hijacking an Organization via Billing Notifications | Mohamed Fathy | [Read More](https://medium.com/p/779bf34022ac) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Feb 2026 14:31:01 GMT | How to Build Your Child’s Sense of Security: A Parent’s Guide to Emotional Development | Pitters Lare | [Read More](https://medium.com/p/4b181c580b2a) |
 | Fri, 06 Feb 2026 14:20:38 GMT | First Stages of building an app | Ecofriendly | [Read More](https://medium.com/p/443653ebf7e7) |
 | Fri, 06 Feb 2026 14:15:32 GMT | Ben Sadece CTF Çözmüyorum, Sistem İnşa Ediyorum | Gokhan Can | [Read More](https://medium.com/p/81346d5ca093) |
-| Fri, 06 Feb 2026 14:14:12 GMT | Beyond the Chatbot: A Guide to Securing Autonomous AI Agents in the Enterprise | Alessandro Pignati | [Read More](https://medium.com/p/1367d0cfbe6c) |
-| Fri, 06 Feb 2026 14:04:02 GMT | Why Production Bugs Don’t Respect Architecture Diagrams | dolly | [Read More](https://medium.com/p/d8732326b4e6) |
-| Fri, 06 Feb 2026 13:58:56 GMT | Vibe Coding: The Security Threat That Writes Itself | Samuel Odekunle | [Read More](https://medium.com/p/8a2637d67c16) |
-| Fri, 06 Feb 2026 13:57:09 GMT | Dear Friend, Here Is My Vulnerability Blog | Jack Willis | [Read More](https://medium.com/p/c9c78ab1958f) |
-| Fri, 06 Feb 2026 13:54:43 GMT | Technology and Information Technology: Understanding the Digital World | ordinaryjay | [Read More](https://medium.com/p/28921615f61f) |
-| Fri, 06 Feb 2026 13:47:19 GMT | How Plutosec Protects Your Business from Cyber Threats: The Ultimate Guide to Penetration Testing… | Plutosec Cyber Security | [Read More](https://medium.com/p/a821fde4f3c5) |
-| Fri, 06 Feb 2026 13:44:20 GMT | Top 50 Must-Know BlackArch Linux Tools for Penetration Testing | TechLatest.Net | [Read More](https://medium.com/p/bbf49e81cef2) |
-| Fri, 06 Feb 2026 13:41:21 GMT | Prompt Injection: The New SQL Injections | BillfordX | [Read More](https://medium.com/p/1c3c07a767da) |
-| Fri, 06 Feb 2026 13:39:09 GMT | Pentester Bytes: The most common GraphQL Bug | Shivam Bathla | [Read More](https://medium.com/p/424cadb541bd) |
