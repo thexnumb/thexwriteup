@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Feb 2026 19:19:54 GMT | File InclusionVulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/2c133616990e) |
+| Fri, 06 Feb 2026 19:13:32 GMT | LinkCaster NOC — Multi-Network Media Forensics & Broadcast Monitoring POC | Sivakumar Palanikumar | [Read More](https://medium.com/p/ffe53f7b747e) |
+| Fri, 06 Feb 2026 19:08:33 GMT | Bug Bounty Programlarına Başlamaya Karar Verdim | Hakan ÇEVİK | [Read More](https://medium.com/p/c9d4a078f279) |
+| Fri, 06 Feb 2026 19:02:34 GMT | Hackviser: PasteZone Write-Up | Çağrı Karakuş | [Read More](https://medium.com/p/7b5aa9e8ad7f) |
+| Fri, 06 Feb 2026 19:02:04 GMT | How to Configure A VPN in Windows Server 2008 Using A Single LAN Card | Tarun Sehgal | [Read More](https://medium.com/p/d6649b3d125e) |
+| Fri, 06 Feb 2026 18:57:42 GMT | Why Your Law Firm Needs SOC 2 Type 2 Compliant IT for Law Firms Irvine | Technijian | [Read More](https://medium.com/p/767dd849e0ec) |
+| Fri, 06 Feb 2026 18:51:30 GMT | HTTP/2 downgrading | Songül Kızılay Özügürler | [Read More](https://medium.com/p/e8e1b6464f9e) |
+| Fri, 06 Feb 2026 18:46:09 GMT | OSINT-How Public Information Becomes Powerful Intelligence | Amandogra | [Read More](https://medium.com/p/9f121a524c7f) |
+| Fri, 06 Feb 2026 18:39:44 GMT | The Post-Quantum Moment: From Mandate to Execution | GotThatData | [Read More](https://medium.com/p/c1fd53ecaccb) |
+| Fri, 06 Feb 2026 18:29:29 GMT | Cybersecurity News Review — Week 6 (2026) | Mladen Kirilov | [Read More](https://medium.com/p/edc5cf4aed54) |
+| Fri, 06 Feb 2026 18:23:50 GMT | Here’s how I discovered a high-severity broken access control vulnerability (BAC-1) | Br0k3n_1337 Aka Sourav Khan | [Read More](https://medium.com/p/27c0e3e821f0) |
+| Fri, 06 Feb 2026 18:20:26 GMT | SOC and DevOps Collaboration Models Making Security a Natural Part of Operations | Esra Kayhan | [Read More](https://medium.com/p/c1525a880b89) |
+| Fri, 06 Feb 2026 18:18:47 GMT | SEBI Compliance Audit & Consulting Services for Financial Companies | Lumiversesolution | [Read More](https://medium.com/p/6ae0ee796de7) |
+| Fri, 06 Feb 2026 18:15:58 GMT | “Bug Bounty Bootcamp #24: Hacking postMessage — Turning Cross-Domain Communication into Data Theft… | Aman Sharma | [Read More](https://medium.com/p/2c7fe2ea5a45) |
+| Fri, 06 Feb 2026 18:13:13 GMT | AI Security Digest — February 2026 (Week 1) | Tal Eliyahu | [Read More](https://medium.com/p/66588ba7fde1) |
+| Fri, 06 Feb 2026 18:10:07 GMT | Homelab Parte 2: Faltava algo.. observabilidade | Adriano Diogo | [Read More](https://medium.com/p/a18e4ee71294) |
+| Fri, 06 Feb 2026 18:09:59 GMT | 100% Coverage. 0% Confidence. | mjmarc.life | [Read More](https://medium.com/p/fc34bd575885) |
+| Fri, 06 Feb 2026 18:09:54 GMT | Who’s Safe From AI Layoffs? Jobs Automation Can’t Replace Yet | Roman Fedytskyi | [Read More](https://medium.com/p/5d09bcab09fa) |
 | Fri, 06 Feb 2026 17:58:50 GMT | Docker Sandboxes make AI agents safe for enterprise adoption | JP Caparas | [Read More](https://medium.com/p/ad686c12af23) |
 | Fri, 06 Feb 2026 17:46:41 GMT | Cyber Attacks Are Boring, Silent, and Effective | satyaranjan bal | [Read More](https://medium.com/p/65a6beda34f9) |
 | Fri, 06 Feb 2026 17:42:13 GMT | Why Most Bug Bounty Hunters Never Break Into High‑Paying Programs | Muhammad Haider Tallal | [Read More](https://medium.com/p/534f6f4b2e65) |
@@ -95,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Feb 2026 13:00:39 GMT | # The AI Attack Surface Salesforce Doesn’t Want You to Think About | Latent Breach | [Read More](https://medium.com/p/2e93b9e8b989) |
 | Fri, 06 Feb 2026 12:59:50 GMT | The Cookie Bomb: When Tracking Parameters Become Denial-of-Service Weapons | Dipesh Paul | [Read More](https://medium.com/p/348bc29bce1a) |
 | Fri, 06 Feb 2026 12:56:50 GMT | Round-the-Clock Real-World Cyber Testing with Eventus Security’s Red Teaming as a Service (RTaaS) | Eventus Security Private Limited | [Read More](https://medium.com/p/b4343c4d5bb3) |
-| Fri, 06 Feb 2026 12:52:45 GMT | CISSP Domain 5: Can You Answer These 3 IAA Questions in 3 Seconds? | Pushpak Sharma | [Read More](https://medium.com/p/e1ef0a15a750) |
-| Fri, 06 Feb 2026 12:49:10 GMT | The Truth About “Free” Apps and Your Data | Ava Sinclair | [Read More](https://medium.com/p/5796352f7987) |
-| Fri, 06 Feb 2026 12:47:17 GMT | The Lobster That Ate 2026 | ABV | [Read More](https://medium.com/p/8daf8558d097) |
-| Fri, 06 Feb 2026 12:44:54 GMT | Why Your Keyboard Might Be a Bigger Security Risk Than Your Server | Andreas Gächter | [Read More](https://medium.com/p/a97c48c3e14d) |
-| Fri, 06 Feb 2026 12:35:18 GMT | Travel Privacy in 2026: Protect Your Data from Airport Facial Scans | Nadia Diana | [Read More](https://medium.com/p/b7a0bae6b733) |
-| Fri, 06 Feb 2026 12:29:09 GMT | The Invisible Foundation: 5 Truths About Secure Cloud Architecture You Can’t Ignore | Anna Bejan | [Read More](https://medium.com/p/965d4bb6e2bd) |
-| Fri, 06 Feb 2026 12:28:18 GMT | What CISOs Should Expect from Network Detection & Response in 2026 | NetWitness | [Read More](https://medium.com/p/85464f3ce8cd) |
-| Fri, 06 Feb 2026 12:28:14 GMT | Vulnerability Versus Communication | Zayrha's Muse | [Read More](https://medium.com/p/8ce227e4b6bd) |
-| Fri, 06 Feb 2026 12:27:21 GMT | Reiatsu Node: Putting the “Pressure” on Post-Exploitation | Ram | [Read More](https://medium.com/p/907447483e02) |
-| Fri, 06 Feb 2026 12:11:59 GMT | Powering Business Growth with iOS App Development Services America | Coadal tech | [Read More](https://medium.com/p/9465fe1582fd) |
-| Fri, 06 Feb 2026 12:10:10 GMT | If You Want to Be a Strong Hacker, You Must Master These Python Basics | Brock stone | [Read More](https://medium.com/p/d4c8cf920248) |
-| Fri, 06 Feb 2026 12:09:11 GMT | When macOS Storage Breaks Under Snapshot Pressure Failure | Geoffrey Wenger | [Read More](https://medium.com/p/10b3bb99f133) |
-| Fri, 06 Feb 2026 12:08:46 GMT | How I Identified a SQL Injection Vulnerability in an E-Commerce Website | Anandakrishnan P R | [Read More](https://medium.com/p/b19aa43777d8) |
-| Fri, 06 Feb 2026 12:05:19 GMT | vulnerable | despoemespourmon | [Read More](https://medium.com/p/6c05b8154431) |
-| Fri, 06 Feb 2026 12:01:35 GMT | Hire a Hacker to Recover an Instagram Account? What People Really Mean — and What Actually Works | Darksynthhacker | [Read More](https://medium.com/p/ba2fe5bea0d5) |
-| Fri, 06 Feb 2026 12:00:17 GMT | How Niche Snapshots Can Transform Your Agency’s Growth Strategy | GHL Savvy | [Read More](https://medium.com/p/ba6550558203) |
-| Fri, 06 Feb 2026 11:49:13 GMT | How to Debug Common Coding Errors — Chicago | Mike Brown | [Read More](https://medium.com/p/77999c035e62) |
-| Fri, 06 Feb 2026 11:44:57 GMT | 4. Prototype Pollution: One JSON Key That Turns You into Admin | Abhijeet kumawat | [Read More](https://medium.com/p/1a4d6ec4128c) |
