@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Feb 2026 15:03:27 GMT | Repenser l’Architecture d’Entreprise à l’ère des Agents IA (Partie 2) | abidi houssem | [Read More](https://medium.com/p/0edc52e4bd1f) |
+| Fri, 06 Feb 2026 15:02:36 GMT | Best Cyber Security Solutions in UAE for Financial, Healthcare & IT Sectors | Vastechoffpage | [Read More](https://medium.com/p/e252ac2159e6) |
+| Fri, 06 Feb 2026 15:01:55 GMT | Ransomware Attack: How It Spreads Automatically Across Enterprise Networks | Ukwedje Taiwo Goodness | [Read More](https://medium.com/p/184647477f59) |
+| Fri, 06 Feb 2026 15:01:04 GMT | I Deployed OpenClaw With Zero Public Ports. Here is the Tailscale Setup That Actually Works | Reza Rezvani | [Read More](https://medium.com/p/86f8c9e6f158) |
+| Fri, 06 Feb 2026 15:01:03 GMT | Cyber Briefing: 2026.02.06 | CyberMaterial | [Read More](https://medium.com/p/17065f93aa75) |
+| Fri, 06 Feb 2026 14:59:45 GMT | The Inevitable Institutional Onramp and the Infrastructure that Demands It | Tricahyoto | [Read More](https://medium.com/p/2bd5e3f1904d) |
+| Fri, 06 Feb 2026 14:55:11 GMT | Cybersecurity Is Too Crowded in 2026? Good. Here’s Why That’s a Lie. | Vijay Kumar Gupta | [Read More](https://medium.com/p/51b48face3e8) |
+| Fri, 06 Feb 2026 14:51:50 GMT | Post-Mortem Analysis of the BreachForums “Doomsday” Leak: Structural Fragility and Actor Typology | BeGoodToAll | [Read More](https://medium.com/p/2d53f07bf26e) |
+| Fri, 06 Feb 2026 14:49:34 GMT | How I Bypassed a SaaS Payment Flow to Gain Organization Admin & Paid Features During Signup | Mahmoud Rashed | [Read More](https://medium.com/p/6930f72cfb2a) |
+| Fri, 06 Feb 2026 14:48:38 GMT | How I Bypassed a SaaS Payment Flow to Gain Organization Admin & Paid Features During Signup | Mohamed Saied | [Read More](https://medium.com/p/c20cdbe4a2fb) |
+| Fri, 06 Feb 2026 14:32:33 GMT | Firewall and IDS/IPS Evasion: Easy Lab — HackTheBox | William Shively | [Read More](https://medium.com/p/93b97b4eb470) |
+| Fri, 06 Feb 2026 14:31:01 GMT | How to Build Your Child’s Sense of Security: A Parent’s Guide to Emotional Development | Pitters Lare | [Read More](https://medium.com/p/4b181c580b2a) |
+| Fri, 06 Feb 2026 14:20:38 GMT | First Stages of building an app | Ecofriendly | [Read More](https://medium.com/p/443653ebf7e7) |
+| Fri, 06 Feb 2026 14:15:32 GMT | Ben Sadece CTF Çözmüyorum, Sistem İnşa Ediyorum | Gokhan Can | [Read More](https://medium.com/p/81346d5ca093) |
+| Fri, 06 Feb 2026 14:14:12 GMT | Beyond the Chatbot: A Guide to Securing Autonomous AI Agents in the Enterprise | Alessandro Pignati | [Read More](https://medium.com/p/1367d0cfbe6c) |
+| Fri, 06 Feb 2026 14:04:02 GMT | Why Production Bugs Don’t Respect Architecture Diagrams | dolly | [Read More](https://medium.com/p/d8732326b4e6) |
 | Fri, 06 Feb 2026 13:58:56 GMT | Vibe Coding: The Security Threat That Writes Itself | Samuel Odekunle | [Read More](https://medium.com/p/8a2637d67c16) |
 | Fri, 06 Feb 2026 13:57:09 GMT | Dear Friend, Here Is My Vulnerability Blog | Jack Willis | [Read More](https://medium.com/p/c9c78ab1958f) |
 | Fri, 06 Feb 2026 13:54:43 GMT | Technology and Information Technology: Understanding the Digital World | ordinaryjay | [Read More](https://medium.com/p/28921615f61f) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Feb 2026 09:00:16 GMT | HackTheBox Spookypass Challenge Writeup | The Mastermind Notes | [Read More](https://medium.com/p/1e4feeb5fca3) |
 | Fri, 06 Feb 2026 08:56:37 GMT | The Trio That Keeps Your SOC Running, And Hackers Out | Redfox Security | [Read More](https://medium.com/p/e1d515da0f86) |
 | Fri, 06 Feb 2026 08:54:42 GMT | How SAP Can Improve Supply Chain Visibility and Accuracy | Emergys | [Read More](https://medium.com/p/a38513bdf4cd) |
-| Fri, 06 Feb 2026 08:54:37 GMT | WP-Hunter: Intelligent Reconnaissance Tool for WordPress Plugins and Themes | Ali Sünbül (xeloxa) | [Read More](https://medium.com/p/6c22fffd2ff3) |
-| Fri, 06 Feb 2026 08:42:13 GMT | Passkeys: The Authentication Model the Internet Needed | Ashima Shandil | [Read More](https://medium.com/p/b3ab91e4d627) |
-| Fri, 06 Feb 2026 08:37:26 GMT | The Hackers Labs Writeup — Tortuga (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/9653988fcc39) |
-| Fri, 06 Feb 2026 08:37:20 GMT | The UK Banks and PQC | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/1ebb6fe08923) |
-| Fri, 06 Feb 2026 08:35:25 GMT | AI Didn’t Break Security — It Exposed It | Pritam Dutta | [Read More](https://medium.com/p/89bb89e04a1d) |
-| Fri, 06 Feb 2026 08:32:15 GMT | Digital Footprint, A simple TryHackMe Challenge | Vaishnav S | [Read More](https://medium.com/p/1a91b3647750) |
-| Fri, 06 Feb 2026 08:31:41 GMT | Facial Recognition Market Growth Outlook: Trends, Technologies, and Forecast to 2031 | Abhi112 | [Read More](https://medium.com/p/5c0aeca5477a) |
-| Fri, 06 Feb 2026 08:31:00 GMT | Your Messages Are Encrypted. Your Life Isn’t. | Iacopo Boaron Otero | [Read More](https://medium.com/p/e7a8378987da) |
-| Fri, 06 Feb 2026 08:29:55 GMT | Mistakes That Accidentally Taught Me More Than Tutorials | Fateyaly | [Read More](https://medium.com/p/8b452ed18ac7) |
-| Fri, 06 Feb 2026 08:19:40 GMT | Certified Cyber Security Engineer Program: Learn Real Hacking Skills | Katherine Williams | [Read More](https://medium.com/p/b5ab4fa2c1e8) |
-| Fri, 06 Feb 2026 08:14:10 GMT | Unleash Total Security Using Antivirus Software Technology | Siyanoav | [Read More](https://medium.com/p/bc68712326ed) |
-| Fri, 06 Feb 2026 08:11:18 GMT | 403 Forbidden Error Explained: How to Fix It on Your Website | Smit Pipaliya | [Read More](https://medium.com/p/4961172e7bd5) |
-| Fri, 06 Feb 2026 08:11:14 GMT | From IDOR to Role Escalation: How Small Access Bugs Become Critical | ghostyjoe | [Read More](https://medium.com/p/99b980dd9ccd) |
-| Fri, 06 Feb 2026 08:10:10 GMT | Substack Was Hacked, and This Is What You Need to Know | ILLUMINATION | [Read More](https://medium.com/p/8787a658ab2f) |
-| Fri, 06 Feb 2026 08:04:11 GMT | LINE TV資料外洩事件從資安攻擊、防禦、稽核與未來應變剖析 | jerrycho | [Read More](https://medium.com/p/2c9888772da6) |
-| Fri, 06 Feb 2026 07:44:35 GMT | OTP Enforcement Bypass in Multi-Factor Authentication | Cynox Security LLP. | [Read More](https://medium.com/p/14eefb62fbd4) |
