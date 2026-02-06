@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Feb 2026 17:06:17 GMT | Digital Feudalism: How Apple Became a Very Expensive Border Guard | Lumar VPN | [Read More](https://medium.com/p/a5f33b79bcb0) |
+| Fri, 06 Feb 2026 16:58:42 GMT | Menjelajahi Stack Server Bersama Coding Ceria X Penjelajah CyberSecurity | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/d94ed965f0d0) |
+| Fri, 06 Feb 2026 16:49:41 GMT | DIRB Tool: A Complete Guide to URL Directory Bruteforcing | Prince | [Read More](https://medium.com/p/e6dddd0ffdc2) |
+| Fri, 06 Feb 2026 16:46:10 GMT | HUMOR, TRUST, AND DIGITAL INTELLIGENCE: A MENTOR’S PERSPECTIVE | Tapan Kumar Saikia | [Read More](https://medium.com/p/fdc18b428c96) |
+| Fri, 06 Feb 2026 16:43:16 GMT | The Most Common Cybersecurity Mistakes Companies Still Make | Cordula Boeck | [Read More](https://medium.com/p/eb979dc2fced) |
+| Fri, 06 Feb 2026 16:39:37 GMT | Claude Finds 500 Bugs, OpenAI Optimizes Biology, and Loyalty Dies in the AI Era - The Daily Tech… | Souren Stepanyan | [Read More](https://medium.com/p/232cd213f122) |
+| Fri, 06 Feb 2026 16:30:12 GMT | How Do You Track and Manage Expirations at Scale? | Yajur | [Read More](https://medium.com/p/306dd94fe921) |
+| Fri, 06 Feb 2026 16:26:44 GMT | Unmasking 0APT: The Ransomware Group That Never Was | Owen F | [Read More](https://medium.com/p/3a0cbb42a732) |
+| Fri, 06 Feb 2026 16:24:52 GMT | A Cyber Security Roadmap 2026 by InferiorAK | InferiorAK | [Read More](https://medium.com/p/922106a1c72c) |
+| Fri, 06 Feb 2026 16:23:41 GMT | PortSwigger | Gopikrishnan S | [Read More](https://medium.com/p/ccef472ec055) |
+| Fri, 06 Feb 2026 16:23:04 GMT | How Our Data Is Stolen Without Us Even Noticing | Bomi | [Read More](https://medium.com/p/50eebe9a1ff3) |
+| Fri, 06 Feb 2026 16:22:49 GMT | Wazuh + VirusTotal + Slack: Automated Threat Detection, Enrichment and Alerting | Aishat Olayinka Yusuf | [Read More](https://medium.com/p/300898b0f4fd) |
+| Fri, 06 Feb 2026 16:20:49 GMT | How I Learned Scrum by Actually Running Sprints (Not Watching Tutorials) | Love Chioma Ogujiofor | [Read More](https://medium.com/p/f29aa4a83eda) |
+| Fri, 06 Feb 2026 16:18:50 GMT | VULN (Very Unlikely a Low Number) | Malcolm Vella Vidal | [Read More](https://medium.com/p/312359342f20) |
+| Fri, 06 Feb 2026 16:17:49 GMT | Netwrix Usercube Episode 2: Architecture | Aimeric Pouga | [Read More](https://medium.com/p/ca675b64b951) |
+| Fri, 06 Feb 2026 16:14:42 GMT | Static Application Security Testing (SAST) | Anadi Chiransa | [Read More](https://medium.com/p/17ee4405d9aa) |
+| Fri, 06 Feb 2026 16:13:23 GMT | Top Security Threats in 2026 and How to Prevent Them | Teona | [Read More](https://medium.com/p/9f877c6b11f0) |
+| Fri, 06 Feb 2026 16:10:17 GMT | Securing Docker Daemon and API | Engineer Palsu | [Read More](https://medium.com/p/4a4c4c2d17e0) |
+| Fri, 06 Feb 2026 16:01:02 GMT | The Echo of What Is Not Said | Bruno Pimentel | [Read More](https://medium.com/p/643c53391466) |
 | Fri, 06 Feb 2026 15:55:03 GMT | crackme-py Picoctf Reverse Engineering | Aun Raza | [Read More](https://medium.com/p/42a425fdb656) |
 | Fri, 06 Feb 2026 15:48:08 GMT | Stop Guessing: How to Detect SSH Brute-Force Attacks with a Simple Python Script | Bakioui souhail | [Read More](https://medium.com/p/c1c555fc9145) |
 | Fri, 06 Feb 2026 15:42:29 GMT | How I Made $5,000 Overnight Using Cybersecurity Skills | Aland Dlshad (HexaPhp) | [Read More](https://medium.com/p/af6ff0b994a5) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Feb 2026 10:54:40 GMT | Nartel KSA — Welded Panel Fence UAE & Security Fencing Products Saudi Arabia | Hi-Tech Fence and Steel | [Read More](https://medium.com/p/dc67ebbc11fe) |
 | Fri, 06 Feb 2026 10:53:14 GMT | The Sandbox is Burning: Four Critical CVEs That Break JavaScript Isolation | gm0 | [Read More](https://medium.com/p/5cdef0d82c21) |
 | Fri, 06 Feb 2026 10:52:17 GMT | Cyber Forensics Career Path Explained (2026 Guide) | Shahzaib | [Read More](https://medium.com/p/a49a7bffcff3) |
-| Fri, 06 Feb 2026 10:47:23 GMT | Cyber Security — The One Skill That Never Let’s Me Down | Raheel Khan | [Read More](https://medium.com/p/085434b13206) |
-| Fri, 06 Feb 2026 10:44:37 GMT | Live Webinar: How to Plan for Successful Ransomware Recovery | NAKIVO | [Read More](https://medium.com/p/43de8a90dea0) |
-| Fri, 06 Feb 2026 10:44:27 GMT | Part 1: The Modern Recon Stack — How I Found What Others Missed | gopi krishnan | [Read More](https://medium.com/p/e837e70863c0) |
-| Fri, 06 Feb 2026 10:38:57 GMT | Malware Development — 3 (Nim and Callbacks) | 0r | [Read More](https://medium.com/p/2ffad7e5101f) |
-| Fri, 06 Feb 2026 10:28:38 GMT | HHMD (Hand Held Metal Detector): Smart and Efficient Personal Screening Solution by etradefia | Etradefia | [Read More](https://medium.com/p/20035415114e) |
-| Fri, 06 Feb 2026 10:23:36 GMT | Ethical Hacking Tools: Best + Starter Toolkits (2026) | Simplilearn | [Read More](https://medium.com/p/9b23b4120a66) |
-| Fri, 06 Feb 2026 10:14:05 GMT | GeoServer’s 2025 XXE Vulnerability Explained | Motasem Hamdan | [Read More](https://medium.com/p/e82caff3a661) |
-| Fri, 06 Feb 2026 10:07:15 GMT | Welcome to the New Era: When a Teenager Can Crash Your Company in Minutes | Andrey Pautov | [Read More](https://medium.com/p/8818fb6c0503) |
-| Fri, 06 Feb 2026 10:06:34 GMT | OpenClaw AI Agents & Business Automation: Security Lessons for Companies | Mandra H B | [Read More](https://medium.com/p/92e3064712d2) |
-| Fri, 06 Feb 2026 10:06:01 GMT | Why LLMs Struggle with Password Cracking | Shailendra Kumar | [Read More](https://medium.com/p/59ccf28cb705) |
-| Fri, 06 Feb 2026 10:01:10 GMT | If You’re Learning to Code in 2026, Here Are the 3 Paths You Actually Need to Know | ThinkChain | [Read More](https://medium.com/p/d11b53571fc9) |
-| Fri, 06 Feb 2026 09:53:46 GMT | Why IT Onboarding Still Breaks on Day One (and How the Best Teams Fix It in 2026) | Yuvi Aggarwal | [Read More](https://medium.com/p/1786ce09b0e7) |
-| Fri, 06 Feb 2026 09:49:40 GMT | 5 Simple Habits That Protect You From Online Scams | Maria Tsilika | [Read More](https://medium.com/p/65b9a1cffd31) |
-| Fri, 06 Feb 2026 09:49:35 GMT | The Complete Guide to Learning Generative AI in 2026 | Vector Skill Academy | [Read More](https://medium.com/p/70612df91c76) |
-| Fri, 06 Feb 2026 09:49:11 GMT | Virtual Reality in Tourism: Exploring the World Before You Travel | iCode49 Technolabs | [Read More](https://medium.com/p/913639761e7d) |
-| Fri, 06 Feb 2026 09:46:20 GMT | Cracking the Riddle: picoCTF Riddle Registry Walkthrough | Creepus | [Read More](https://medium.com/p/994951844db6) |
-| Fri, 06 Feb 2026 09:45:06 GMT | Welcome to Global IT in 2026: Your New Hire Is Ready. Their Laptop Isn’t. | Yuvi Aggarwal | [Read More](https://medium.com/p/59b3dc9c2e4e) |
-| Fri, 06 Feb 2026 09:43:53 GMT | From “AI as autocomplete” to “AI as secure co-owner” | Eray ALTILI | [Read More](https://medium.com/p/d46ad10cf9f9) |
-| Fri, 06 Feb 2026 09:36:46 GMT | I followed a job scam all the way to the end so you don’t have to | Ib2dk | [Read More](https://medium.com/p/4cf99c020f0c) |
