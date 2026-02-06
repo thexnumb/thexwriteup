@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Feb 2026 11:31:43 GMT | The Gap in the Shield: Why Europe Needs More than Just Open Source Threat Intelligence | Cyber Threat Intelligence Analyst | [Read More](https://medium.com/p/e2fed3e50b51) |
+| Fri, 06 Feb 2026 11:28:45 GMT | Advanced Race Condition Leading to Team Member and Project Limit Bypass | <h1>ayman</h1> Amer‬‏ | [Read More](https://medium.com/p/94198484041f) |
+| Fri, 06 Feb 2026 11:18:59 GMT | Day 03: SOC Operating Models, Systems as Attack Vectors, and Vulnerabilities | Muhammad Kashif | [Read More](https://medium.com/p/71dea13f7d90) |
+| Fri, 06 Feb 2026 11:15:38 GMT | Why Modern Cybersecurity Requires a New Mindset | Darksynthhacker | [Read More](https://medium.com/p/6d69c7394298) |
+| Fri, 06 Feb 2026 11:01:01 GMT | EU’s defence awakening and NATO — military aspects | European Court of Auditors | [Read More](https://medium.com/p/c143aaf311a5) |
+| Fri, 06 Feb 2026 11:01:01 GMT | When AI Drafts Become Actions: Who Owns the Record and the Appeal? | James Kuhman | [Read More](https://medium.com/p/2a72b8080424) |
+| Fri, 06 Feb 2026 10:59:21 GMT | Comprehensive Security Support for Waterloo Properties | Grdsnscrt | [Read More](https://medium.com/p/1812ae4f55f8) |
+| Fri, 06 Feb 2026 10:56:30 GMT | Proving Grounds Fired Linux Lab ( ROAD TO OSCP ) | Cyb0rgBytes | [Read More](https://medium.com/p/b116248d7b63) |
+| Fri, 06 Feb 2026 10:54:40 GMT | Nartel KSA — Welded Panel Fence UAE & Security Fencing Products Saudi Arabia | Hi-Tech Fence and Steel | [Read More](https://medium.com/p/dc67ebbc11fe) |
+| Fri, 06 Feb 2026 10:53:14 GMT | The Sandbox is Burning: Four Critical CVEs That Break JavaScript Isolation | gm0 | [Read More](https://medium.com/p/5cdef0d82c21) |
+| Fri, 06 Feb 2026 10:52:17 GMT | Cyber Forensics Career Path Explained (2026 Guide) | Shahzaib | [Read More](https://medium.com/p/a49a7bffcff3) |
+| Fri, 06 Feb 2026 10:47:23 GMT | Cyber Security — The One Skill That Never Let’s Me Down | Raheel Khan | [Read More](https://medium.com/p/085434b13206) |
+| Fri, 06 Feb 2026 10:44:37 GMT | Live Webinar: How to Plan for Successful Ransomware Recovery | NAKIVO | [Read More](https://medium.com/p/43de8a90dea0) |
+| Fri, 06 Feb 2026 10:44:27 GMT | Part 1: The Modern Recon Stack — How I Found What Others Missed | gopi krishnan | [Read More](https://medium.com/p/e837e70863c0) |
 | Fri, 06 Feb 2026 10:38:57 GMT | Malware Development — 3 (Nim and Callbacks) | 0r | [Read More](https://medium.com/p/2ffad7e5101f) |
 | Fri, 06 Feb 2026 10:28:38 GMT | HHMD (Hand Held Metal Detector): Smart and Efficient Personal Screening Solution by etradefia | Etradefia | [Read More](https://medium.com/p/20035415114e) |
 | Fri, 06 Feb 2026 10:23:36 GMT | Ethical Hacking Tools: Best + Starter Toolkits (2026) | Simplilearn | [Read More](https://medium.com/p/9b23b4120a66) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Feb 2026 04:40:42 GMT | Got SeTcbPrivilige ? Congrats u just got admin access… | M Sameer Malik | [Read More](https://medium.com/p/b19f9f9ba1f6) |
 | Fri, 06 Feb 2026 04:36:01 GMT | Tirith Made Me Rethink How We Watch Over Our Systems | Ishank choudhary | [Read More](https://medium.com/p/c0514c9f0dce) |
 | Fri, 06 Feb 2026 04:34:37 GMT | Microsoft Solutions Partner in Singapore - IFI Techsolutions | IFI Techsolutions | [Read More](https://medium.com/p/adc3d7a5511e) |
-| Fri, 06 Feb 2026 04:29:33 GMT | Network Security Services in 2026: Defending the Invisible Highways of Your Business | Devarshi Acharya | [Read More](https://medium.com/p/dbc6f35c1394) |
-| Fri, 06 Feb 2026 04:23:34 GMT | Zero Trust Architecture in 2026: Why “Never Trust, Always Verify” Runs the Modern Enterprise | Devarshi Acharya | [Read More](https://medium.com/p/a79f16b7a08c) |
-| Fri, 06 Feb 2026 04:03:49 GMT | Importance of SSL for Data in Transit: Why It Must Never Be Ignored | Geeky Vartika | [Read More](https://medium.com/p/fea99b9aea55) |
-| Fri, 06 Feb 2026 04:01:01 GMT | The World’s Hidden Wars | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/853dc6734f02) |
-| Fri, 06 Feb 2026 04:01:01 GMT | L3ak CTF — Forensic | Faishol Hakim | [Read More](https://medium.com/p/488e720ae657) |
-| Fri, 06 Feb 2026 03:57:27 GMT | I Hacked My AI Assistant And You Should Too! | Jade Seeker | [Read More](https://medium.com/p/53b9be3408f0) |
-| Fri, 06 Feb 2026 03:54:22 GMT | Finding 0 days using Codex | Abhirup Konwar | [Read More](https://medium.com/p/426a7c3fc34c) |
-| Fri, 06 Feb 2026 03:46:00 GMT | IDOR to Payment Bypass: How a Trusted Payment Callback Issued a Policy Without Paying | Xp10it | [Read More](https://medium.com/p/86a2fef0048b) |
-| Fri, 06 Feb 2026 03:31:01 GMT | CrashFix: How a Fake Browser Extension Turns a Simple Crash Into a Full-Blown Compromise | Deven Chhajed | [Read More](https://medium.com/p/f4706a2a4f7d) |
-| Fri, 06 Feb 2026 03:30:26 GMT | 5 Steps Everyone Should Take to Protect Their Data Privacy Online | Zafar A S | [Read More](https://medium.com/p/5edf57cac438) |
-| Fri, 06 Feb 2026 03:21:09 GMT | Building Secure GitOps Pipelines: Integrating External Secrets Operator with ArgoCD on EKS | Josh Woolbright | [Read More](https://medium.com/p/8149f363aa15) |
-| Fri, 06 Feb 2026 03:19:25 GMT | Writeup | Hagar Sherif | [Read More](https://medium.com/p/49c90669ca98) |
-| Fri, 06 Feb 2026 03:14:08 GMT | AllSafe Write UP ^-^ | Mirna Shams | [Read More](https://medium.com/p/97614634f7c1) |
-| Fri, 06 Feb 2026 03:13:11 GMT | The Outlier Journey — Day 59 | Ray | [Read More](https://medium.com/p/d0cf0cfa7361) |
