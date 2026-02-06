@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Feb 2026 13:01:06 GMT | If Your Server Is Slow, Check This One File Before Anything Else | Faruk Ahmed | [Read More](https://medium.com/p/6d3a0f836870) |
+| Fri, 06 Feb 2026 13:00:39 GMT | # The AI Attack Surface Salesforce Doesn’t Want You to Think About | Latent Breach | [Read More](https://medium.com/p/2e93b9e8b989) |
+| Fri, 06 Feb 2026 12:59:50 GMT | The Cookie Bomb: When Tracking Parameters Become Denial-of-Service Weapons | Dipesh Paul | [Read More](https://medium.com/p/348bc29bce1a) |
+| Fri, 06 Feb 2026 12:56:50 GMT | Round-the-Clock Real-World Cyber Testing with Eventus Security’s Red Teaming as a Service (RTaaS) | Eventus Security Private Limited | [Read More](https://medium.com/p/b4343c4d5bb3) |
+| Fri, 06 Feb 2026 12:52:45 GMT | CISSP Domain 5: Can You Answer These 3 IAA Questions in 3 Seconds? | Pushpak Sharma | [Read More](https://medium.com/p/e1ef0a15a750) |
+| Fri, 06 Feb 2026 12:49:10 GMT | The Truth About “Free” Apps and Your Data | Ava Sinclair | [Read More](https://medium.com/p/5796352f7987) |
+| Fri, 06 Feb 2026 12:47:17 GMT | The Lobster That Ate 2026 | ABV | [Read More](https://medium.com/p/8daf8558d097) |
+| Fri, 06 Feb 2026 12:44:54 GMT | Why Your Keyboard Might Be a Bigger Security Risk Than Your Server | Andreas Gächter | [Read More](https://medium.com/p/a97c48c3e14d) |
+| Fri, 06 Feb 2026 12:35:18 GMT | Travel Privacy in 2026: Protect Your Data from Airport Facial Scans | Nadia Diana | [Read More](https://medium.com/p/b7a0bae6b733) |
+| Fri, 06 Feb 2026 12:29:09 GMT | The Invisible Foundation: 5 Truths About Secure Cloud Architecture You Can’t Ignore | Anna Bejan | [Read More](https://medium.com/p/965d4bb6e2bd) |
+| Fri, 06 Feb 2026 12:28:14 GMT | Vulnerability Versus Communication | Zayrha's Muse | [Read More](https://medium.com/p/8ce227e4b6bd) |
+| Fri, 06 Feb 2026 12:27:21 GMT | Reiatsu Node: Putting the “Pressure” on Post-Exploitation | Ram | [Read More](https://medium.com/p/907447483e02) |
+| Fri, 06 Feb 2026 12:11:59 GMT | Powering Business Growth with iOS App Development Services America | Coadal tech | [Read More](https://medium.com/p/9465fe1582fd) |
+| Fri, 06 Feb 2026 12:10:10 GMT | If You Want to Be a Strong Hacker, You Must Master These Python Basics | Brock stone | [Read More](https://medium.com/p/d4c8cf920248) |
+| Fri, 06 Feb 2026 12:09:11 GMT | When macOS Storage Breaks Under Snapshot Pressure Failure | Geoffrey Wenger | [Read More](https://medium.com/p/10b3bb99f133) |
+| Fri, 06 Feb 2026 12:08:46 GMT | How I Identified a SQL Injection Vulnerability in an E-Commerce Website | Anandakrishnan P R | [Read More](https://medium.com/p/b19aa43777d8) |
+| Fri, 06 Feb 2026 12:05:19 GMT | vulnerable | despoemespourmon | [Read More](https://medium.com/p/6c05b8154431) |
+| Fri, 06 Feb 2026 12:01:35 GMT | Hire a Hacker to Recover an Instagram Account? What People Really Mean — and What Actually Works | Darksynthhacker | [Read More](https://medium.com/p/ba2fe5bea0d5) |
+| Fri, 06 Feb 2026 12:00:17 GMT | How Niche Snapshots Can Transform Your Agency’s Growth Strategy | GHL Savvy | [Read More](https://medium.com/p/ba6550558203) |
+| Fri, 06 Feb 2026 11:49:13 GMT | How to Debug Common Coding Errors — Chicago | Mike Brown | [Read More](https://medium.com/p/77999c035e62) |
+| Fri, 06 Feb 2026 11:44:57 GMT | 4. Prototype Pollution: One JSON Key That Turns You into Admin | Abhijeet kumawat | [Read More](https://medium.com/p/1a4d6ec4128c) |
+| Fri, 06 Feb 2026 11:40:56 GMT | Securing App Content: Handling Screenshots and Screen Recording in Flutter for Android and iOS | Matheus Henrique de Souza Fontenele | [Read More](https://medium.com/p/e570c1c16edb) |
 | Fri, 06 Feb 2026 11:31:43 GMT | The Gap in the Shield: Why Europe Needs More than Just Open Source Threat Intelligence | Cyber Threat Intelligence Analyst | [Read More](https://medium.com/p/e2fed3e50b51) |
 | Fri, 06 Feb 2026 11:28:45 GMT | Advanced Race Condition Leading to Team Member and Project Limit Bypass | <h1>ayman</h1> Amer‬‏ | [Read More](https://medium.com/p/94198484041f) |
 | Fri, 06 Feb 2026 11:18:59 GMT | Day 03: SOC Operating Models, Systems as Attack Vectors, and Vulnerabilities | Muhammad Kashif | [Read More](https://medium.com/p/71dea13f7d90) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Feb 2026 06:29:56 GMT | Must-have tool to hide Azure secrets during presentations or screen recordings | Brian Veldman | [Read More](https://medium.com/p/08b8cc3b550c) |
 | Fri, 06 Feb 2026 06:23:36 GMT | Building a Local AI Agent Security Lab-Part 2: Persistent Memory Poisoning | Ankit Mishra | [Read More](https://medium.com/p/71124ef5b534) |
 | Fri, 06 Feb 2026 06:21:52 GMT | Cyber Alert 2026 : Top Asian Cyber-offensive Firms to Watch Out | Cyber Warfare Asia | [Read More](https://medium.com/p/9e9e11edb9fe) |
-| Fri, 06 Feb 2026 06:17:44 GMT | Full Stack Development Explained: Skills, Tools, and Real-World Examples | Dennis Duke | [Read More](https://medium.com/p/661c53528caf) |
-| Fri, 06 Feb 2026 06:16:11 GMT | Writing Behavioral Detection Rules Separating Real Threats from Noise | Esra Kayhan | [Read More](https://medium.com/p/43aa50cd9e8c) |
-| Fri, 06 Feb 2026 06:06:59 GMT | 21 Dark Web Tools Every OSINT Professional Should Know (2026 Guide) | Nazrul Islam Rana | [Read More](https://medium.com/p/b923b6d7be2f) |
-| Fri, 06 Feb 2026 06:06:45 GMT | Hunting GraphQL Vulnerabilities with Precision: Introducing GraphQL Hunter | OsKaaR | [Read More](https://medium.com/p/6ad9330b4d44) |
-| Fri, 06 Feb 2026 05:56:36 GMT | Guide to the Best Smart Home Automation in Dubai and CCTV Approval in Ajman | techfra solutions | [Read More](https://medium.com/p/050db2ebf251) |
-| Fri, 06 Feb 2026 05:51:58 GMT | WHATS IS HACKING? | Kevin Ronex | [Read More](https://medium.com/p/b7600f3f4884) |
-| Fri, 06 Feb 2026 05:37:35 GMT | SaaS Security Posture Management: Key Trends, Technologies, and Leading Vendors | Gauri Kale | [Read More](https://medium.com/p/9d2c1f12a226) |
-| Fri, 06 Feb 2026 05:31:57 GMT | What Is Hacking? | Kevin Chacko | [Read More](https://medium.com/p/56aacfa8be04) |
-| Fri, 06 Feb 2026 05:28:51 GMT | This is War! (Vulnerable Apache Tomcat Docker Container with Exploitation Walkthrough) | Josh Beck | [Read More](https://medium.com/p/864dc1940bda) |
-| Fri, 06 Feb 2026 05:22:42 GMT | The Quiet After the Fall | Archivie | [Read More](https://medium.com/p/aef551dcb005) |
-| Fri, 06 Feb 2026 05:15:05 GMT | Unknown Number Calling? It’s Not Random. The Real Scam Economy Hiding Behind Your Phone | MrKarthikKN | [Read More](https://medium.com/p/2c8821bf9446) |
-| Fri, 06 Feb 2026 05:09:29 GMT | next article teaser | AkhiDeno Uduehi | [Read More](https://medium.com/p/2f10c03ccc47) |
-| Fri, 06 Feb 2026 05:07:26 GMT | Decoding Authenticity: A Phonetic Analysis of Brené Brown’s “The Power of Vulnerability” | Kara Capozzi | [Read More](https://medium.com/p/0862094cc8ed) |
-| Fri, 06 Feb 2026 04:57:23 GMT | SOC Assessment: Are You Detecting What Actually Matters? | Gautam kumar | [Read More](https://medium.com/p/77fd4d6e4f99) |
-| Fri, 06 Feb 2026 04:53:04 GMT | Day 38 — The Day We Almost Leaked PII: A Story-Driven Guide to Snowflake Security (with Hands-On… | Alok Rahul | [Read More](https://medium.com/p/8443a5c8dd7c) |
-| Fri, 06 Feb 2026 04:48:25 GMT | I Built a Tool to Stop MacBook Camera Spying | Atsukiiii01 | [Read More](https://medium.com/p/5c99b95f6e0d) |
-| Fri, 06 Feb 2026 04:43:28 GMT | DC-1 Walkthrough | ibr_yzr | [Read More](https://medium.com/p/a271c7030fa6) |
-| Fri, 06 Feb 2026 04:41:43 GMT | You’re Learning Cloud and Cybersecurity Backwards — Here’s Why Linux Should Come First | Eric Blancas | [Read More](https://medium.com/p/34e83a2f6075) |
-| Fri, 06 Feb 2026 04:40:45 GMT | Vehicle Tracking System for Theft Prevention and Asset Security | Yalinisubramaniam | [Read More](https://medium.com/p/c2b0b60b57a1) |
-| Fri, 06 Feb 2026 04:40:42 GMT | Got SeTcbPrivilige ? Congrats u just got admin access… | M Sameer Malik | [Read More](https://medium.com/p/b19f9f9ba1f6) |
-| Fri, 06 Feb 2026 04:36:01 GMT | Tirith Made Me Rethink How We Watch Over Our Systems | Ishank choudhary | [Read More](https://medium.com/p/c0514c9f0dce) |
-| Fri, 06 Feb 2026 04:34:37 GMT | Microsoft Solutions Partner in Singapore - IFI Techsolutions | IFI Techsolutions | [Read More](https://medium.com/p/adc3d7a5511e) |
