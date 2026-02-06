@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Feb 2026 13:58:56 GMT | Vibe Coding: The Security Threat That Writes Itself | Samuel Odekunle | [Read More](https://medium.com/p/8a2637d67c16) |
+| Fri, 06 Feb 2026 13:57:09 GMT | Dear Friend, Here Is My Vulnerability Blog | Jack Willis | [Read More](https://medium.com/p/c9c78ab1958f) |
+| Fri, 06 Feb 2026 13:54:43 GMT | Technology and Information Technology: Understanding the Digital World | ordinaryjay | [Read More](https://medium.com/p/28921615f61f) |
+| Fri, 06 Feb 2026 13:47:19 GMT | How Plutosec Protects Your Business from Cyber Threats: The Ultimate Guide to Penetration Testing… | Plutosec Cyber Security | [Read More](https://medium.com/p/a821fde4f3c5) |
+| Fri, 06 Feb 2026 13:44:20 GMT | Top 50 Must-Know BlackArch Linux Tools for Penetration Testing | TechLatest.Net | [Read More](https://medium.com/p/bbf49e81cef2) |
+| Fri, 06 Feb 2026 13:41:21 GMT | Prompt Injection: The New SQL Injections | BillfordX | [Read More](https://medium.com/p/1c3c07a767da) |
+| Fri, 06 Feb 2026 13:39:09 GMT | Pentester Bytes: The most common GraphQL Bug | Shivam Bathla | [Read More](https://medium.com/p/424cadb541bd) |
+| Fri, 06 Feb 2026 13:37:35 GMT | Day 11: Cyber Kill Chain & MITRE ATT&CK | Siddhesh Patil | [Read More](https://medium.com/p/de4e77cc59e9) |
+| Fri, 06 Feb 2026 13:36:26 GMT | “Take Off the Mask: How Emotional Distance Can Destroy Intimacy in Marriage” | Jeff Murrah, LPC, LCDC, CMNCS | [Read More](https://medium.com/p/db1dd3350ac3) |
+| Fri, 06 Feb 2026 13:34:53 GMT | Security & Compliance in Cybersecurity | Cynox Security LLP. | [Read More](https://medium.com/p/f3952014a117) |
+| Fri, 06 Feb 2026 13:31:31 GMT | Hacker Gibi Düşünmek: Günlük Hayatta Beklenmedik Avantajlar | Attila453 | [Read More](https://medium.com/p/ea97c4b1cd79) |
+| Fri, 06 Feb 2026 13:22:19 GMT | CHAPTER 3 — PHANTOM TRACES | Thiago Holmes | [Read More](https://medium.com/p/e87883c60157) |
+| Fri, 06 Feb 2026 13:16:00 GMT | How Phishing Wins By Borrowing Your Emotions | Plaintext with Rich | [Read More](https://medium.com/p/750e030a476d) |
+| Fri, 06 Feb 2026 13:11:33 GMT | Custom Mounting NTFS Windows Drives in WSL 2 (My Way) | Ivan Melnik | [Read More](https://medium.com/p/276ebbca4e51) |
+| Fri, 06 Feb 2026 13:10:14 GMT | Business Logic Bug | Hamza Eibba | [Read More](https://medium.com/p/8f9922142b18) |
+| Fri, 06 Feb 2026 13:08:01 GMT | Stored XSS Bypass using unicode encoding in template builder via Button and Social media links | Simo | [Read More](https://medium.com/p/73c4bc8ea4ef) |
 | Fri, 06 Feb 2026 13:01:06 GMT | If Your Server Is Slow, Check This One File Before Anything Else | Faruk Ahmed | [Read More](https://medium.com/p/6d3a0f836870) |
 | Fri, 06 Feb 2026 13:00:39 GMT | # The AI Attack Surface Salesforce Doesn’t Want You to Think About | Latent Breach | [Read More](https://medium.com/p/2e93b9e8b989) |
 | Fri, 06 Feb 2026 12:59:50 GMT | The Cookie Bomb: When Tracking Parameters Become Denial-of-Service Weapons | Dipesh Paul | [Read More](https://medium.com/p/348bc29bce1a) |
@@ -22,6 +38,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Feb 2026 12:44:54 GMT | Why Your Keyboard Might Be a Bigger Security Risk Than Your Server | Andreas Gächter | [Read More](https://medium.com/p/a97c48c3e14d) |
 | Fri, 06 Feb 2026 12:35:18 GMT | Travel Privacy in 2026: Protect Your Data from Airport Facial Scans | Nadia Diana | [Read More](https://medium.com/p/b7a0bae6b733) |
 | Fri, 06 Feb 2026 12:29:09 GMT | The Invisible Foundation: 5 Truths About Secure Cloud Architecture You Can’t Ignore | Anna Bejan | [Read More](https://medium.com/p/965d4bb6e2bd) |
+| Fri, 06 Feb 2026 12:28:18 GMT | What CISOs Should Expect from Network Detection & Response in 2026 | NetWitness | [Read More](https://medium.com/p/85464f3ce8cd) |
 | Fri, 06 Feb 2026 12:28:14 GMT | Vulnerability Versus Communication | Zayrha's Muse | [Read More](https://medium.com/p/8ce227e4b6bd) |
 | Fri, 06 Feb 2026 12:27:21 GMT | Reiatsu Node: Putting the “Pressure” on Post-Exploitation | Ram | [Read More](https://medium.com/p/907447483e02) |
 | Fri, 06 Feb 2026 12:11:59 GMT | Powering Business Growth with iOS App Development Services America | Coadal tech | [Read More](https://medium.com/p/9465fe1582fd) |
@@ -33,6 +50,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Feb 2026 12:00:17 GMT | How Niche Snapshots Can Transform Your Agency’s Growth Strategy | GHL Savvy | [Read More](https://medium.com/p/ba6550558203) |
 | Fri, 06 Feb 2026 11:49:13 GMT | How to Debug Common Coding Errors — Chicago | Mike Brown | [Read More](https://medium.com/p/77999c035e62) |
 | Fri, 06 Feb 2026 11:44:57 GMT | 4. Prototype Pollution: One JSON Key That Turns You into Admin | Abhijeet kumawat | [Read More](https://medium.com/p/1a4d6ec4128c) |
+| Fri, 06 Feb 2026 11:41:57 GMT | The Evolution of Ransomware — Key Moments | Bitdefenderppc | [Read More](https://medium.com/p/97c9fb1d64d4) |
 | Fri, 06 Feb 2026 11:40:56 GMT | Securing App Content: Handling Screenshots and Screen Recording in Flutter for Android and iOS | Matheus Henrique de Souza Fontenele | [Read More](https://medium.com/p/e570c1c16edb) |
 | Fri, 06 Feb 2026 11:31:43 GMT | The Gap in the Shield: Why Europe Needs More than Just Open Source Threat Intelligence | Cyber Threat Intelligence Analyst | [Read More](https://medium.com/p/e2fed3e50b51) |
 | Fri, 06 Feb 2026 11:28:45 GMT | Advanced Race Condition Leading to Team Member and Project Limit Bypass | <h1>ayman</h1> Amer‬‏ | [Read More](https://medium.com/p/94198484041f) |
@@ -71,6 +89,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Feb 2026 09:20:07 GMT | Iran-Linked Redkitten Cyber Espionage Campaign | Threatsys Technologies Pvt Ltd | [Read More](https://medium.com/p/9123a1803830) |
 | Fri, 06 Feb 2026 09:10:13 GMT | OAuth Consent Phishing: When MFA and Password Resets Don’t Matter | Ankita Sinha | [Read More](https://medium.com/p/23d622ab36fc) |
 | Fri, 06 Feb 2026 09:06:00 GMT | Toddler with Tokens: Microsoft’s $81 Billion Quarter, $37 Billion Burn | Namir Sagheenanajar | [Read More](https://medium.com/p/902358a62fe3) |
+| Fri, 06 Feb 2026 09:05:27 GMT | QR Code & Vishing Scams Leveraging AI Intelligence | Digital Defense | [Read More](https://medium.com/p/cc4e9c13effa) |
 | Fri, 06 Feb 2026 09:03:40 GMT | HTB CodePartTwo Walkthrough | The Mastermind Notes | [Read More](https://medium.com/p/0073250ca372) |
 | Fri, 06 Feb 2026 09:01:03 GMT | 5 Password Patterns That Show Up in Every Company’s Leak Data | Alexandre Vandamme | [Read More](https://medium.com/p/8c528c100877) |
 | Fri, 06 Feb 2026 09:01:03 GMT | Q3: Locked in and still did Amazing…… | Umar Farouk | [Read More](https://medium.com/p/cb64d6917491) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Feb 2026 08:10:10 GMT | Substack Was Hacked, and This Is What You Need to Know | ILLUMINATION | [Read More](https://medium.com/p/8787a658ab2f) |
 | Fri, 06 Feb 2026 08:04:11 GMT | LINE TV資料外洩事件從資安攻擊、防禦、稽核與未來應變剖析 | jerrycho | [Read More](https://medium.com/p/2c9888772da6) |
 | Fri, 06 Feb 2026 07:44:35 GMT | OTP Enforcement Bypass in Multi-Factor Authentication | Cynox Security LLP. | [Read More](https://medium.com/p/14eefb62fbd4) |
-| Fri, 06 Feb 2026 07:37:30 GMT | Revolutionizing Engineering: Meet VCLAVIS, the Modern Software for Pressure Vessel Design | Constantine Karamitsios | [Read More](https://medium.com/p/728332c9172e) |
-| Fri, 06 Feb 2026 07:35:27 GMT | The Corix Partners Friday Reading List — February 6, 2026 | JC Gaillard | [Read More](https://medium.com/p/42c1372b8310) |
-| Fri, 06 Feb 2026 07:33:40 GMT | Keyloggers In Cybersecurity | Syed Ali Bin Mohammad | [Read More](https://medium.com/p/eb7060fb835d) |
-| Fri, 06 Feb 2026 07:32:12 GMT | Securing the Future: IoT and Cybersecurity | Poddar Group of Institutions | [Read More](https://medium.com/p/776ee6cae3fd) |
-| Fri, 06 Feb 2026 07:31:39 GMT | Keeping OCI Resources Safe in the Age of AI | Pooja Shivani | [Read More](https://medium.com/p/e93a0797c7af) |
-| Fri, 06 Feb 2026 07:25:57 GMT | The Future of Infrastructure: A Guide to Security and IT Integration in Dubai’s 2026 Landscape | Bennellin Security LLC | [Read More](https://medium.com/p/69acf225e462) |
-| Fri, 06 Feb 2026 07:21:01 GMT | The Ultimate Nuclei Guide: How to Find Bugs with 9,000+ Templates (2026 Bug Bounty Edition) | BugHunter’s Journal | [Read More](https://medium.com/p/d5daf02666a1) |
-| Fri, 06 Feb 2026 07:18:22 GMT | Building Peace Along the Coast: Youth Leadership Lessons from Tanzania and East Africa. | Morris Ntilla | [Read More](https://medium.com/p/646a280cfffe) |
-| Fri, 06 Feb 2026 07:16:57 GMT | What Are the Key Benefits of VAPT Testing for Businesses | networsys | [Read More](https://medium.com/p/9ff0c076d0ea) |
-| Fri, 06 Feb 2026 07:04:45 GMT | CASB Market: Technology Evolution, Competitive Benchmarking, and Growth Opportunities | Michel mathew | [Read More](https://medium.com/p/ead9a4c7c25b) |
-| Fri, 06 Feb 2026 07:01:05 GMT | Falling Down the Rabbit Hole: Why Your Cybersecurity Lab Is Always Broken (And How to Fix It) | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/81fdb21af799) |
-| Fri, 06 Feb 2026 06:54:59 GMT | Collecting Open-Source Intelligence (OSINT) Data with Maltego | Eric Clark | [Read More](https://medium.com/p/cf4e68d5dbcd) |
-| Fri, 06 Feb 2026 06:38:35 GMT | Zero Tolerance for FGM: A Call to Protect and Nourish Every Girl | Samuel Norgah | [Read More](https://medium.com/p/291586ec0782) |
-| Fri, 06 Feb 2026 06:38:25 GMT | AI in Risk Management: Opportunity or a New Threat? | Saba Nds | [Read More](https://medium.com/p/fe169c0cb36a) |
-| Fri, 06 Feb 2026 06:36:00 GMT | Thick Client Pentesting (Part 2): Reconnaissance | Harish muthyala | [Read More](https://medium.com/p/c55cc60aa7b8) |
-| Fri, 06 Feb 2026 06:33:08 GMT | 5 Ways to Bypass Email Verification Without Using Any Tool | StrangeRwhite | [Read More](https://medium.com/p/87bfbe7fc156) |
-| Fri, 06 Feb 2026 06:29:56 GMT | Must-have tool to hide Azure secrets during presentations or screen recordings | Brian Veldman | [Read More](https://medium.com/p/08b8cc3b550c) |
-| Fri, 06 Feb 2026 06:23:36 GMT | Building a Local AI Agent Security Lab-Part 2: Persistent Memory Poisoning | Ankit Mishra | [Read More](https://medium.com/p/71124ef5b534) |
-| Fri, 06 Feb 2026 06:21:52 GMT | Cyber Alert 2026 : Top Asian Cyber-offensive Firms to Watch Out | Cyber Warfare Asia | [Read More](https://medium.com/p/9e9e11edb9fe) |
