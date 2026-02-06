@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Feb 2026 07:44:35 GMT | OTP Enforcement Bypass in Multi-Factor Authentication | Cynox Security LLP. | [Read More](https://medium.com/p/14eefb62fbd4) |
+| Fri, 06 Feb 2026 07:37:30 GMT | Revolutionizing Engineering: Meet VCLAVIS, the Modern Software for Pressure Vessel Design | Constantine Karamitsios | [Read More](https://medium.com/p/728332c9172e) |
+| Fri, 06 Feb 2026 07:35:27 GMT | The Corix Partners Friday Reading List — February 6, 2026 | JC Gaillard | [Read More](https://medium.com/p/42c1372b8310) |
+| Fri, 06 Feb 2026 07:33:40 GMT | Keyloggers In Cybersecurity | Syed Ali Bin Mohammad | [Read More](https://medium.com/p/eb7060fb835d) |
+| Fri, 06 Feb 2026 07:32:12 GMT | Securing the Future: IoT and Cybersecurity | Poddar Group of Institutions | [Read More](https://medium.com/p/776ee6cae3fd) |
+| Fri, 06 Feb 2026 07:31:39 GMT | Keeping OCI Resources Safe in the Age of AI | Pooja Shivani | [Read More](https://medium.com/p/e93a0797c7af) |
+| Fri, 06 Feb 2026 07:25:57 GMT | The Future of Infrastructure: A Guide to Security and IT Integration in Dubai’s 2026 Landscape | Bennellin Security LLC | [Read More](https://medium.com/p/69acf225e462) |
+| Fri, 06 Feb 2026 07:21:01 GMT | The Ultimate Nuclei Guide: How to Find Bugs with 9,000+ Templates (2026 Bug Bounty Edition) | BugHunter’s Journal | [Read More](https://medium.com/p/d5daf02666a1) |
+| Fri, 06 Feb 2026 07:18:22 GMT | Building Peace Along the Coast: Youth Leadership Lessons from Tanzania and East Africa. | Morris Ntilla | [Read More](https://medium.com/p/646a280cfffe) |
+| Fri, 06 Feb 2026 07:16:57 GMT | What Are the Key Benefits of VAPT Testing for Businesses | networsys | [Read More](https://medium.com/p/9ff0c076d0ea) |
+| Fri, 06 Feb 2026 07:04:45 GMT | CASB Market: Technology Evolution, Competitive Benchmarking, and Growth Opportunities | Michel mathew | [Read More](https://medium.com/p/ead9a4c7c25b) |
+| Fri, 06 Feb 2026 07:01:05 GMT | Falling Down the Rabbit Hole: Why Your Cybersecurity Lab Is Always Broken (And How to Fix It) | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/81fdb21af799) |
+| Fri, 06 Feb 2026 06:54:59 GMT | Collecting Open-Source Intelligence (OSINT) Data with Maltego | Eric Clark | [Read More](https://medium.com/p/cf4e68d5dbcd) |
 | Fri, 06 Feb 2026 06:38:35 GMT | Zero Tolerance for FGM: A Call to Protect and Nourish Every Girl | Samuel Norgah | [Read More](https://medium.com/p/291586ec0782) |
 | Fri, 06 Feb 2026 06:38:25 GMT | AI in Risk Management: Opportunity or a New Threat? | Saba Nds | [Read More](https://medium.com/p/fe169c0cb36a) |
 | Fri, 06 Feb 2026 06:36:00 GMT | Thick Client Pentesting (Part 2): Reconnaissance | Harish muthyala | [Read More](https://medium.com/p/c55cc60aa7b8) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Feb 2026 20:11:04 GMT | Sokudo writeup (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/0e2c54aae329) |
 | Thu, 05 Feb 2026 19:57:34 GMT | Creating a Buffer Overflow CTF Challenge | Jordan Lanning - MIT, MPA | [Read More](https://medium.com/p/71a60e4578ef) |
 | Thu, 05 Feb 2026 19:57:28 GMT | Bypassing Frida: Advanced Frida Detection Bypass — Part 4 | Haxymad | [Read More](https://medium.com/p/c258e8f5aa64) |
-| Thu, 05 Feb 2026 19:56:39 GMT | Agentic AI in the SOC: who’s in charge when it fails? | Denny Roger | [Read More](https://medium.com/p/de39e3b3980b) |
-| Thu, 05 Feb 2026 19:55:05 GMT | My Journey to the CWES certification | B13ss3d | [Read More](https://medium.com/p/dd7e53c45bcb) |
-| Thu, 05 Feb 2026 19:47:59 GMT | Cybersecurity Is Less About Attacks and More About Discipline | Liam | [Read More](https://medium.com/p/ae199e318f74) |
-| Thu, 05 Feb 2026 19:40:36 GMT | Learning Cybersecurity Is Easy. Staying Relevant Is the Hard Part | Liam | [Read More](https://medium.com/p/9c30b76b3bb9) |
-| Thu, 05 Feb 2026 19:39:35 GMT | OpenClaw and the Security Cost of Agentic AI | Fadi Shaar | [Read More](https://medium.com/p/344a3a1f06c7) |
-| Thu, 05 Feb 2026 19:38:51 GMT | Intrusion Detection and Response: Architecting Resilient Cyber Defense Systems | Mai Tran | [Read More](https://medium.com/p/8e1190cfa69c) |
-| Thu, 05 Feb 2026 19:38:00 GMT | Digital Forensics in Cyber Investigations: Acquisition, Analysis, and Interpretation of Digital… | Mai Tran | [Read More](https://medium.com/p/9721ae7acd93) |
-| Thu, 05 Feb 2026 19:34:49 GMT | How to start? | 0xnullsec | [Read More](https://medium.com/p/63dca4d9ea28) |
-| Thu, 05 Feb 2026 19:30:13 GMT | Bypassing Frida: Advanced Frida Detection Bypass — Part 3 | Haxymad | [Read More](https://medium.com/p/339aa1202c48) |
-| Thu, 05 Feb 2026 19:27:50 GMT | Understanding SQL Injection Using DVWA (Educational Lab) | Tejas Kamble | [Read More](https://medium.com/p/4556dd27911f) |
-| Thu, 05 Feb 2026 19:24:26 GMT | DarkSide Challenge Write-Up — Web Security Easy - CyberTalents | Z3DX | [Read More](https://medium.com/p/e0605b54afd9) |
-| Thu, 05 Feb 2026 19:24:12 GMT | Bean Challenge Write-Up — Web Security Easy - CyberTalents | Z3DX | [Read More](https://medium.com/p/590ab7ef94f6) |
-| Thu, 05 Feb 2026 19:24:03 GMT | Why Cybersecurity Keeps Failing — And How Deming’s Red Beads Predicted It All | gershblumstein | [Read More](https://medium.com/p/046f4d1793d7) |
