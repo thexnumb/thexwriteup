@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Feb 2026 10:50:38 GMT | The Best Ad-Blockers in 2026: Why Manifest V3 Didn’t Kill the Resistance | Moedex | [Read More](https://medium.com/p/ed670ce842ac) |
+| Sat, 07 Feb 2026 10:41:23 GMT | How Wordfence Paid Me $0 for a Critical Vulnerability Affecting 700K Websites | Mike Myers | [Read More](https://medium.com/p/ff69fea27f86) |
+| Sat, 07 Feb 2026 10:39:52 GMT | From a “Low” Information Disclosure to Full Production Database Access | Abdelkafi Habbeddine | [Read More](https://medium.com/p/13ac94c30e07) |
+| Sat, 07 Feb 2026 10:37:38 GMT | AppSecMaster JWT Challenge Writeup | 0xMyth | [Read More](https://medium.com/p/74b49bb4043e) |
 | Sat, 07 Feb 2026 10:11:05 GMT | When Humans Are No Longer in the Loop: The Structural Collapse of Cloud Security Assumptions in the… | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/4908d77662b1) |
 | Sat, 07 Feb 2026 10:02:17 GMT | Benefits of Hiring Trusted Security Guard Services in Mumbai | kanikasingh | [Read More](https://medium.com/p/fddc996e5683) |
 | Sat, 07 Feb 2026 09:51:01 GMT | Windows Defender Firewall: A Practical Guide to System Protection and Network Security | Ramandeep Bagri | [Read More](https://medium.com/p/db992c45f3f6) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Feb 2026 21:21:35 GMT | notepad | Michael Link | [Read More](https://medium.com/p/52ee74fbb257) |
 | Fri, 06 Feb 2026 21:20:44 GMT | Why Moltbook is Dangerous: Critical Zero-days Found in My Audit (Full Report) | Saad Khalid | [Read More](https://medium.com/p/39a721e5dfb0) |
 | Fri, 06 Feb 2026 21:18:25 GMT | How to Stop Your AI Agent From Losing Its Memory (And Why It Matters) | Omar Antonio Díaz Peña | [Read More](https://medium.com/p/6e559d92a091) |
-| Fri, 06 Feb 2026 21:16:54 GMT | Building a Modern TOTP Authentication System with Go, React, and Redis | Frank Druillennec | [Read More](https://medium.com/p/a92920b7eaee) |
-| Fri, 06 Feb 2026 21:07:09 GMT | Day 10 : OS Command Injection — Port swigger | Cybersecurity with Jojo | [Read More](https://medium.com/p/07616f4ffc85) |
-| Fri, 06 Feb 2026 21:01:00 GMT | Hacking Networking Services Home Lab | Mainekhacker | [Read More](https://medium.com/p/e30555e3a0dd) |
-| Fri, 06 Feb 2026 20:55:34 GMT | The City of Legends: The Pain And Mapping | Norman Kolarikkal | [Read More](https://medium.com/p/d4e3a9215972) |
