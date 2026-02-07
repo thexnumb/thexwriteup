@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Feb 2026 19:53:21 GMT | One Click Cost Her Everything: A Simple Guide to Cybersecurity (Through Ann’s Eyes) | Israk Hossain Emon | [Read More](https://medium.com/p/8ef89b0a0ad2) |
+| Sat, 07 Feb 2026 19:47:56 GMT | Agentic AI: The Top Cybersecurity Threat of 2026—& To do for CISOs | Haroon Rashid | [Read More](https://medium.com/p/944d5c3886e7) |
+| Sat, 07 Feb 2026 19:44:15 GMT | Tech News Roundup: Nvidia RTX Delays, Apple Lockdown Mode, TikTok DSA Scrutiny, and More | Shl | [Read More](https://medium.com/p/61ec182ca227) |
 | Sat, 07 Feb 2026 19:31:11 GMT | The 4-Month Blind Spot: What the Substack Breach Really Means for Your Inbox | SOCFortress | [Read More](https://medium.com/p/844f536393f0) |
 | Sat, 07 Feb 2026 19:21:54 GMT | Arsenal disuasivo Español | Geoanalisis | [Read More](https://medium.com/p/8b44b60033a6) |
 | Sat, 07 Feb 2026 19:12:01 GMT | Three On-Chain Signals That Something Is Going Wrong Right Now | Exploitless | [Read More](https://medium.com/p/e31790cae704) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Feb 2026 12:51:19 GMT | Chaining OTP Bypass to Full Account Takeover | 0xShyron | [Read More](https://medium.com/p/67293b48ae28) |
 | Sat, 07 Feb 2026 12:49:09 GMT | Security by Design in 2026: A Practical, Scalable Framework for Secure App Development | EncryVia Official | [Read More](https://medium.com/p/e36c07fe8db2) |
 | Sat, 07 Feb 2026 12:43:31 GMT | Des tickets et un canapé… | Florent M | [Read More](https://medium.com/p/6f676fbe972c) |
-| Sat, 07 Feb 2026 12:35:21 GMT | Authorization Context Confusion | Hamit CİBO | [Read More](https://medium.com/p/3ee21bfbb903) |
-| Sat, 07 Feb 2026 12:30:24 GMT | When <template> isn’t a template: Alpine.js meets the SVG namespace | Stephen Carboni | [Read More](https://medium.com/p/a4576e935176) |
-| Sat, 07 Feb 2026 12:26:01 GMT | Before You Expose Your API to the World — Read This Azure Security Playbook | Lets Learn Now | [Read More](https://medium.com/p/ee12710a043a) |
