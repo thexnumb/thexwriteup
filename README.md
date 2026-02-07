@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Feb 2026 05:46:56 GMT | A Collection of Tips for Beginner Bug Bounty Hunter | morioka12 | [Read More](https://medium.com/p/475704a75d10) |
+| Sat, 07 Feb 2026 05:34:28 GMT | How to Turn Recon Notes Into Real Bug Bounty Findings | Er Dhaval Ramani | [Read More](https://medium.com/p/f3742df446de) |
 | Sat, 07 Feb 2026 05:17:17 GMT | Stop Wrestling With Your Code Editor: The Ultimate Guide to Choosing Your Python IDE in 2026 | RLEDUSKILLS | [Read More](https://medium.com/p/5c3e24db0e46) |
 | Sat, 07 Feb 2026 05:12:09 GMT | The Secret Life of Azure: The Function App With CEO Privileges | Aaron Rose | [Read More](https://medium.com/p/5366a0975953) |
 | Sat, 07 Feb 2026 05:08:11 GMT | When I Said Love Isn’t Unconditional, I Lied | Elisha Peterson | [Read More](https://medium.com/p/5502599b9fe4) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Feb 2026 17:13:19 GMT | The Wyden Alarm Is Ringing — This Time at the CIA | Ron Horton | [Read More](https://medium.com/p/67b215264f62) |
 | Fri, 06 Feb 2026 17:09:41 GMT | From Role Escalation to Account Takeover: How Authorization Bugs Lead to Full Compromise | ghostyjoe | [Read More](https://medium.com/p/534a4168489d) |
 | Fri, 06 Feb 2026 17:06:17 GMT | Digital Feudalism: How Apple Became a Very Expensive Border Guard | Lumar VPN | [Read More](https://medium.com/p/a5f33b79bcb0) |
-| Fri, 06 Feb 2026 16:58:42 GMT | Menjelajahi Stack Server Bersama Coding Ceria X Penjelajah CyberSecurity | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/d94ed965f0d0) |
-| Fri, 06 Feb 2026 16:49:41 GMT | DIRB Tool: A Complete Guide to URL Directory Bruteforcing | Prince | [Read More](https://medium.com/p/e6dddd0ffdc2) |
