@@ -12,18 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Feb 2026 22:22:45 GMT | Cybersecurity versus Cyber Resilience | Bhavani Vk | [Read More](https://medium.com/p/eff0b372e210) |
+| Sat, 07 Feb 2026 22:02:46 GMT | I Encrypted a File on Linux — Here’s What I Learned About Real Security | Natasha Iyowe | [Read More](https://medium.com/p/5d9355fe7a60) |
 | Sat, 07 Feb 2026 21:43:59 GMT | How We Found 15 Vulnerabilities in a Mass Notification System Used by the Governments | Roberto Suggi Liverani | [Read More](https://medium.com/p/8b60bb711af5) |
 | Sat, 07 Feb 2026 21:39:37 GMT | The 2026 AI Security Report: Agents, Poison, and the Regulatory Cliff | B Carlos Tumushabe | [Read More](https://medium.com/p/06e51f082d24) |
 | Sat, 07 Feb 2026 21:25:25 GMT | Day 12: Accounts, Identity, & Authentication | Siddhesh Patil | [Read More](https://medium.com/p/15901e4dd66a) |
 | Sat, 07 Feb 2026 21:24:52 GMT | We Call It Social Engineering. Attackers Call It Research. | Madiha Sultana | [Read More](https://medium.com/p/a950103df619) |
 | Sat, 07 Feb 2026 21:22:06 GMT | Never Trust Just One Person With Your Crypto Keys Again: The Mathematical Magic Behind Shamir’s… | Emily Rose | [Read More](https://medium.com/p/a2e651e1c621) |
 | Sat, 07 Feb 2026 21:20:47 GMT | Your Encryption Is Useless Without This! | Ridwanul Alam | [Read More](https://medium.com/p/00e58f8fba68) |
+| Sat, 07 Feb 2026 21:12:11 GMT | Building File Uploads That Handle 10 GB fin Seconds with Spring Boot and TUS | Naveenmittal | [Read More](https://medium.com/p/0184e40f75bf) |
 | Sat, 07 Feb 2026 21:11:54 GMT | Microsoft appointed a quality czar. He has no direct reports and no budget. | JP Caparas | [Read More](https://medium.com/p/ab75cef97954) |
 | Sat, 07 Feb 2026 20:46:39 GMT | Some Android Apps Are Doing More Harm Than Good in 2026 | Iamadityayogi | [Read More](https://medium.com/p/52cbf7ba0a7a) |
 | Sat, 07 Feb 2026 20:44:31 GMT | The IT department as a strategic driver of the business | Gian Luca Vanoli | [Read More](https://medium.com/p/80705ef20bc7) |
 | Sat, 07 Feb 2026 20:43:21 GMT | Understanding Active Darkweb Markets in 2025 | Tor BBB | [Read More](https://medium.com/p/14cba9da11cd) |
 | Sat, 07 Feb 2026 20:42:33 GMT | Email Security, Audits, and the Gap Between Compliance and Real-World Risk | Rishi Patidar | [Read More](https://medium.com/p/7583b1b79988) |
 | Sat, 07 Feb 2026 20:39:20 GMT | The Age of Personal War in the IT Sector. | Utkarsh Singh | [Read More](https://medium.com/p/e48c6b939d25) |
+| Sat, 07 Feb 2026 20:17:57 GMT | Endpoint Security (Uç Nokta Güvenliği) | İsmail KAYA | [Read More](https://medium.com/p/dedbec1dfebd) |
 | Sat, 07 Feb 2026 19:53:21 GMT | One Click Cost Her Everything: A Simple Guide to Cybersecurity (Through Ann’s Eyes) | Israk Hossain Emon | [Read More](https://medium.com/p/8ef89b0a0ad2) |
 | Sat, 07 Feb 2026 19:47:56 GMT | Agentic AI: The Top Cybersecurity Threat of 2026—& To do for CISOs | Haroon Rashid | [Read More](https://medium.com/p/944d5c3886e7) |
 | Sat, 07 Feb 2026 19:44:15 GMT | Tech News Roundup: Nvidia RTX Delays, Apple Lockdown Mode, TikTok DSA Scrutiny, and More | Shl | [Read More](https://medium.com/p/61ec182ca227) |
@@ -32,6 +36,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Feb 2026 19:12:01 GMT | Three On-Chain Signals That Something Is Going Wrong Right Now | Exploitless | [Read More](https://medium.com/p/e31790cae704) |
 | Sat, 07 Feb 2026 19:07:39 GMT | TryHackMe — Shadow Trace Writeup | RK | [Read More](https://medium.com/p/23e33b3821af) |
 | Sat, 07 Feb 2026 19:05:01 GMT | TryHackMe — SOC Level 1 | RK | [Read More](https://medium.com/p/03181d4f9687) |
+| Sat, 07 Feb 2026 19:01:01 GMT | EU GDPR — Article 7 (Conditions for Consent) | MDM Team | [Read More](https://medium.com/p/3d274669c3d6) |
 | Sat, 07 Feb 2026 18:59:33 GMT | HTTP Header’ları | Songül Kızılay Özügürler | [Read More](https://medium.com/p/2cca90b0c841) |
 | Sat, 07 Feb 2026 18:56:40 GMT | 2024–07–30 — Traffic Analysis Exercise: YOU DIRTY RAT! | Mostafa Nada | [Read More](https://medium.com/p/1b6d0a6f23a6) |
 | Sat, 07 Feb 2026 18:56:36 GMT | Trailer Cameras in Houston — Mobile Surveillance for Site and Asset Protection | Twin City Security Houston | [Read More](https://medium.com/p/8aab31167243) |
@@ -39,6 +44,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Feb 2026 18:54:26 GMT | Forgiveness and Love | Becky Hernández Kantún | [Read More](https://medium.com/p/cfc6e18c3df2) |
 | Sat, 07 Feb 2026 18:41:00 GMT | The Version of Me That Only My Therapist Sees | Shabiha | [Read More](https://medium.com/p/7e606a240a7c) |
 | Sat, 07 Feb 2026 18:31:42 GMT | The Return: Cloud Security Assessment | Aswin Govind | [Read More](https://medium.com/p/71fe27212cc2) |
+| Sat, 07 Feb 2026 18:29:09 GMT | The Spinning Coin Attack | Talex Maxim (taimax13) - #barracuda | [Read More](https://medium.com/p/ba38c2f49d40) |
 | Sat, 07 Feb 2026 18:16:27 GMT | Understanding Interceptors in Spring Boot: Building Smarter and More Secure APIs | Ngane Emmanuel | [Read More](https://medium.com/p/bd3bbc090af3) |
 | Sat, 07 Feb 2026 18:16:20 GMT | Who is Adeboye Alade? Cybersecurity Specialist & Founder of LionSec Hub". | Adeboye Alade | [Read More](https://medium.com/p/90b54dc9ef1f) |
 | Sat, 07 Feb 2026 18:11:16 GMT | The Biggest Mistake Bug Bounty Hunters Make | ghostyjoe | [Read More](https://medium.com/p/c8fd7a7a42bb) |
@@ -88,6 +94,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Feb 2026 15:45:08 GMT | I Solved an OhSint TryHackMe Challenge as a Beginner — Here’s Everything I learned | Cyberwithrustam | [Read More](https://medium.com/p/d3826f001a9f) |
 | Sat, 07 Feb 2026 15:26:01 GMT | The Notepad++ Hack: A Deep Dive Into a State-Sponsored Supply Chain Attack | Sohan Kanna D | [Read More](https://medium.com/p/6ca49b98a42c) |
 | Sat, 07 Feb 2026 15:25:33 GMT | Risk Isn’t Technical, It’s Personal | Ingrid rorez | [Read More](https://medium.com/p/fc7c8f09f849) |
+| Sat, 07 Feb 2026 15:22:07 GMT | Flu — OffSec Proving Grounds Practice Lab Walkthrough | MGMK | [Read More](https://medium.com/p/008e98a994bb) |
 | Sat, 07 Feb 2026 15:18:21 GMT | I Built a Chrome Extension That Stops Malicious URLs Before You Click | H3NRY B41T | [Read More](https://medium.com/p/2febe69c5917) |
 | Sat, 07 Feb 2026 15:15:41 GMT | TODAY’S HACKING NEWS — 07 FEBRUARY 2026 | KOSCYBER | [Read More](https://medium.com/p/1aad25b61322) |
 | Sat, 07 Feb 2026 15:11:23 GMT | MoltBook Isn’t a Social Network. It’s the World’s First Voluntary C2 Botnet. | Maxwell Cross | [Read More](https://medium.com/p/cf7cb2409f42) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Feb 2026 14:30:46 GMT | Part 2: How Tools Changed the Cost of Coordination | John Kump | [Read More](https://medium.com/p/86221e81d07d) |
 | Sat, 07 Feb 2026 14:28:56 GMT | Day 7: Simulating TCP Reconnaissance in My Cybersecurity Home Lab | Oluwatise Alao | [Read More](https://medium.com/p/b10ed692d4d5) |
 | Sat, 07 Feb 2026 14:26:44 GMT | Letters to an Unknown Writer 13 & 14 | Rick Allen | [Read More](https://medium.com/p/59f4d90eedb6) |
-| Sat, 07 Feb 2026 14:24:46 GMT | Velociraptor Service Not Working? Use This Task Scheduler Method Instead | Dean | [Read More](https://medium.com/p/eae697ee8663) |
-| Sat, 07 Feb 2026 14:23:45 GMT | Cloud Computing Fundamentals | Aaron | [Read More](https://medium.com/p/269a02cf46b4) |
-| Sat, 07 Feb 2026 14:09:04 GMT | Why DDoS Attacks are Destructive for High-Frequency Traders | Cynox Security LLP. | [Read More](https://medium.com/p/0b0db86f2860) |
-| Sat, 07 Feb 2026 14:01:02 GMT | Agent Trace Design: Logs That Prove What Happened | Praxen | [Read More](https://medium.com/p/3b2db3ba01d2) |
-| Sat, 07 Feb 2026 14:01:02 GMT | NestJS Auth in 2026: Stop Shipping Roles | Bhagya Rana | [Read More](https://medium.com/p/9f94d3a2c8b6) |
-| Sat, 07 Feb 2026 14:01:02 GMT | Redada en las oficinas de X en Francia mientras la investigación contra la red social avanza | Tiziano Mass | [Read More](https://medium.com/p/317b1142fa85) |
-| Sat, 07 Feb 2026 13:55:52 GMT | I’ve Managed Programs That Protect Millions of Players from Hackers and Here’s What Data Taught Me | Stephanie Chavez Alvarez | [Read More](https://medium.com/p/565041eb1a98) |
