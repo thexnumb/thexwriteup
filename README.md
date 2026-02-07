@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Feb 2026 15:18:21 GMT | I Built a Chrome Extension That Stops Malicious URLs Before You Click | H3NRY B41T | [Read More](https://medium.com/p/2febe69c5917) |
+| Sat, 07 Feb 2026 15:15:41 GMT | TODAY’S HACKING NEWS — 07 FEBRUARY 2026 | KOSCYBER | [Read More](https://medium.com/p/1aad25b61322) |
+| Sat, 07 Feb 2026 15:11:23 GMT | MoltBook Isn’t a Social Network. It’s the World’s First Voluntary C2 Botnet. | Maxwell Cross | [Read More](https://medium.com/p/cf7cb2409f42) |
+| Sat, 07 Feb 2026 15:09:21 GMT | Anatomy of a Trap: Dissecting a Webmail Phishing Campaign Powered by a PHP Backend and a Telegram… | Eleonora Ghiani | [Read More](https://medium.com/p/92c98e515306) |
+| Sat, 07 Feb 2026 14:59:04 GMT | 30 Days of Red Team: Day 22 — Active Directory Enumeration & BloodHound | Maxwell Cross | [Read More](https://medium.com/p/8240538d9edb) |
+| Sat, 07 Feb 2026 14:58:08 GMT | Virtualisation Basics - Tryhackme | Aaron | [Read More](https://medium.com/p/6ae6ccef59f9) |
+| Sat, 07 Feb 2026 14:55:18 GMT | The Six-Inch Gap | Kerstin Farmer | [Read More](https://medium.com/p/64a09880ffd5) |
 | Sat, 07 Feb 2026 14:48:07 GMT | Fixing the Web Together: The Role of Open Bug Bounty | Penough | [Read More](https://medium.com/p/f9fba997455b) |
 | Sat, 07 Feb 2026 14:36:01 GMT | How to Build Your Child’s Sense of Security: A Complete Parent’s Guide | Pitters Lare | [Read More](https://medium.com/p/cb61c0cf9afc) |
 | Sat, 07 Feb 2026 14:36:00 GMT | How to Get Your Ex Back: The Dao, Method, and Tools That Actually Work | Xiaochen | [Read More](https://medium.com/p/82c38be9dab8) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Feb 2026 06:53:02 GMT | #  Digital Forensics nədir? Hücumdan Sonra Həqiqəti Ortaya Çıxaran Kiber Elm | cybershieldy.com | [Read More](https://medium.com/p/c35a34ef4924) |
 | Sat, 07 Feb 2026 06:52:09 GMT | These OSINT Techniques Can Reveal More Than You Think | Nazrul Islam Rana | [Read More](https://medium.com/p/5e1de7e7565e) |
 | Sat, 07 Feb 2026 06:39:58 GMT | X-Ray Baggage Scanner Solutions for Modern Security Needs - etradefia | Etradefia | [Read More](https://medium.com/p/7c589bd56b1f) |
-| Sat, 07 Feb 2026 06:36:14 GMT | I Passed CompTIA Security+ 701 | Damian Moore | [Read More](https://medium.com/p/2db3b709d999) |
-| Sat, 07 Feb 2026 06:34:46 GMT | How I Approach Production Issues Without Panicking | Sowndapan | [Read More](https://medium.com/p/3015ddf355b1) |
-| Sat, 07 Feb 2026 06:33:16 GMT | I Passed the CSEDP Exam — What Social Engineering Really Teaches You About Security | Aswin Thambi Panikulangara | [Read More](https://medium.com/p/7bbf20d8410e) |
-| Sat, 07 Feb 2026 06:31:31 GMT | How Bug Bounty Programs Are Changing Ethical Hacking Careers | Anaynams | [Read More](https://medium.com/p/78a608a8f3c6) |
-| Sat, 07 Feb 2026 06:29:55 GMT | Why Cyber Security Is a Top Career Choice in Jharkhand | Barsha Automobile | [Read More](https://medium.com/p/9110a2bae5d5) |
-| Sat, 07 Feb 2026 06:17:11 GMT | How Samsung Knox Helps Stop Your Network Security Breach | Abstract Mind | [Read More](https://medium.com/p/a8f8a2bdb4f7) |
-| Sat, 07 Feb 2026 06:13:13 GMT | Blockchain-Based Document Integrity Transforms E-Signature Trust | Rohitgarg | [Read More](https://medium.com/p/8408980b9303) |
