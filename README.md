@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Feb 2026 14:24:46 GMT | Velociraptor Service Not Working? Use This Task Scheduler Method Instead | Dean | [Read More](https://medium.com/p/eae697ee8663) |
+| Sat, 07 Feb 2026 14:23:45 GMT | Cloud Computing Fundamentals | Aaron | [Read More](https://medium.com/p/269a02cf46b4) |
+| Sat, 07 Feb 2026 14:09:04 GMT | Why DDoS Attacks are Destructive for High-Frequency Traders | Cynox Security LLP. | [Read More](https://medium.com/p/0b0db86f2860) |
+| Sat, 07 Feb 2026 14:01:02 GMT | Agent Trace Design: Logs That Prove What Happened | Praxen | [Read More](https://medium.com/p/3b2db3ba01d2) |
+| Sat, 07 Feb 2026 14:01:02 GMT | NestJS Auth in 2026: Stop Shipping Roles | Bhagya Rana | [Read More](https://medium.com/p/9f94d3a2c8b6) |
+| Sat, 07 Feb 2026 14:01:02 GMT | Redada en las oficinas de X en Francia mientras la investigación contra la red social avanza | Tiziano Mass | [Read More](https://medium.com/p/317b1142fa85) |
+| Sat, 07 Feb 2026 13:55:52 GMT | I’ve Managed Programs That Protect Millions of Players from Hackers and Here’s What Data Taught Me | Stephanie Chavez Alvarez | [Read More](https://medium.com/p/565041eb1a98) |
 | Sat, 07 Feb 2026 13:31:53 GMT | Post-Quantum is a Time-based Risk Problem — A Quick Readiness Assessment | Danish | [Read More](https://medium.com/p/53a96fe5cc39) |
 | Sat, 07 Feb 2026 13:31:01 GMT | n8n Governance: Power Without the Blast Radius | Duckweave | [Read More](https://medium.com/p/464969136fb8) |
 | Sat, 07 Feb 2026 13:31:00 GMT | MITRE ATT&CK Framework: What Happens After a Hacker Enters a System? | dilan alpaltun | [Read More](https://medium.com/p/0e3fd93eb744) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Feb 2026 05:12:09 GMT | The Secret Life of Azure: The Function App With CEO Privileges | Aaron Rose | [Read More](https://medium.com/p/5366a0975953) |
 | Sat, 07 Feb 2026 05:08:11 GMT | When I Said Love Isn’t Unconditional, I Lied | Elisha Peterson | [Read More](https://medium.com/p/5502599b9fe4) |
 | Sat, 07 Feb 2026 04:56:00 GMT | The Corporate Survival Guide: Reclaiming Your Life | Kunal Palkar | [Read More](https://medium.com/p/a4af33152af0) |
-| Sat, 07 Feb 2026 04:48:47 GMT | Your AI Agent Has No Armor: A Technical Security Analysis of OpenClaw | JB Wagoner | [Read More](https://medium.com/p/3a49a913cd81) |
-| Sat, 07 Feb 2026 04:31:10 GMT | How to Win a Mature Woman’s Heart: Words That Work Better Than Sweet Talk | EdithTali | [Read More](https://medium.com/p/55398c4bf3fd) |
-| Sat, 07 Feb 2026 04:13:01 GMT | Proxies don’t fix Shopify by magic | Gabriele Wayner | [Read More](https://medium.com/p/0d30830a9c50) |
-| Sat, 07 Feb 2026 03:52:03 GMT | TryHackMe — FIXIT (Splunk Lab) Write-up | Mohamed-Mahmoud | [Read More](https://medium.com/p/e47a6fe07ffd) |
-| Sat, 07 Feb 2026 03:51:00 GMT | İçerideki Düşman: Yedekleme Yönetiminde “Sıfır Güven” (Zero Trust) Mimarisi | Fatih Yuksektepe | [Read More](https://medium.com/p/bb8e75294d93) |
-| Sat, 07 Feb 2026 03:47:14 GMT | WHAT "GOOD SECURITY" ACTUALLY MEANS IN WEB3 (Beyond Audits) | Miracle Barisi | [Read More](https://medium.com/p/2ce2715b24f8) |
-| Sat, 07 Feb 2026 03:36:21 GMT | The AI Gold Rush Gone Wrong | iswarya writes | [Read More](https://medium.com/p/c3c990b27710) |
