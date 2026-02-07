@@ -12,8 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Feb 2026 12:51:19 GMT | Chaining OTP Bypass to Full Account Takeover | 0xShyron | [Read More](https://medium.com/p/67293b48ae28) |
+| Sat, 07 Feb 2026 12:35:21 GMT | Authorization Context Confusion | Hamit CİBO | [Read More](https://medium.com/p/3ee21bfbb903) |
+| Sat, 07 Feb 2026 12:30:24 GMT | When <template> isn’t a template: Alpine.js meets the SVG namespace | Stephen Carboni | [Read More](https://medium.com/p/a4576e935176) |
+| Sat, 07 Feb 2026 12:26:01 GMT | Before You Expose Your API to the World — Read This Azure Security Playbook | Lets Learn Now | [Read More](https://medium.com/p/ee12710a043a) |
+| Sat, 07 Feb 2026 12:25:54 GMT | Best Tor Search Engines in 2026: The Ones That Actually Work | Alexa V. | [Read More](https://medium.com/p/85987f57e2a7) |
+| Sat, 07 Feb 2026 12:22:12 GMT | ️ Discovered an XSS Vulnerability in Your Spring Boot App? | Lakshika | [Read More](https://medium.com/p/7269efd940a7) |
+| Sat, 07 Feb 2026 12:10:17 GMT | Following a RAT : Remcos Malware Analysis | Pannag Vivek | [Read More](https://medium.com/p/be5f9f15578d) |
+| Sat, 07 Feb 2026 12:10:09 GMT | DtCLfO:D3 Building a functional packet sniffer in C | Bazil Brohi | [Read More](https://medium.com/p/923bc28e3046) |
+| Sat, 07 Feb 2026 12:07:40 GMT | Don’t Trust the Browser: Bypassing HTML5 Restrictions | Lakshan roshana | [Read More](https://medium.com/p/488b4a4b200d) |
+| Sat, 07 Feb 2026 12:01:20 GMT | Security. Transparency. Long-term vision. | Zhabby | [Read More](https://medium.com/p/da0949a3d36c) |
+| Sat, 07 Feb 2026 12:01:13 GMT | Networking Basics and Their Importance in Cybersecurity | Nida Arshad | [Read More](https://medium.com/p/7bf7b23cae9e) |
+| Sat, 07 Feb 2026 12:01:01 GMT | DLA Piper is Golden | Brian N. Siegelwax | [Read More](https://medium.com/p/9fe32c49e32c) |
+| Sat, 07 Feb 2026 11:56:00 GMT | Hobins Toolboox: The Flipper Zero | Hobin Rood | [Read More](https://medium.com/p/f334856d02a0) |
+| Sat, 07 Feb 2026 11:55:47 GMT | THM - Digital Footprint | Francesco Pastore | [Read More](https://medium.com/p/67dad9802f8b) |
+| Sat, 07 Feb 2026 11:53:58 GMT | Dijital Mahremiyetin Kırılgan Sınırları: Sosyal Platformlar Neden Sürekli Saldırıya Uğruyor? | İlayda | [Read More](https://medium.com/p/36a7fe8df32a) |
+| Sat, 07 Feb 2026 11:49:44 GMT | Beyond the Alert: Mastering TTPs and IOCs in Modern Security Operations | Khabbab Sarker | [Read More](https://medium.com/p/2ca936943e0d) |
+| Sat, 07 Feb 2026 11:42:41 GMT | Trusting People Is Risky. I’m Not Sure Avoiding It Is Better. | Ronnie Charrier | [Read More](https://medium.com/p/b6405389aa88) |
 | Sat, 07 Feb 2026 11:35:34 GMT | Are Cold Storage Wallets Right for You? A Quick Guide to Secure Crypto Storage | Danny Wsol | [Read More](https://medium.com/p/5b367aa65e3e) |
 | Sat, 07 Feb 2026 11:32:13 GMT | 5 Cybersecurity Tips for Businesses of All Sizes | Samshtechtechnologies | [Read More](https://medium.com/p/0a3bafb2e2dd) |
+| Sat, 07 Feb 2026 11:31:00 GMT | Node.js Security Baseline: Defaults You Should Expect in 2026 | Modexa | [Read More](https://medium.com/p/05bf18c093fb) |
 | Sat, 07 Feb 2026 11:29:10 GMT | How Man-in-the-Middle Attacks Compromise Data Security | Medessa | [Read More](https://medium.com/p/d74f459ad130) |
 | Sat, 07 Feb 2026 11:28:40 GMT | Locked Out of the US or Japan App Store? Here’s the Ultimate Survival Guide for Overseas Apple IDs | Jingker - 海外苹果服务专家 | [Read More](https://medium.com/p/349ef5a6a10c) |
 | Sat, 07 Feb 2026 11:26:23 GMT | CISCO Lab — Cybersecurity Case Studies | Jay shihora | [Read More](https://medium.com/p/0131e729c6a0) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Feb 2026 02:00:13 GMT | Web Fuzzing: A Practical Testing Methodology | Israel Aráoz Severiche | [Read More](https://medium.com/p/1f24198e2ddc) |
 | Sat, 07 Feb 2026 01:59:42 GMT | Bug Bounty Recon for Everyone | Batuhan Aydın | [Read More](https://medium.com/p/220ae026a42c) |
 | Sat, 07 Feb 2026 01:37:01 GMT | Why “Spray and Pray” is Killing Your Cybersecurity Pipeline (and How to Fix It) | LeadAdvisors | [Read More](https://medium.com/p/4684f2b1e924) |
-| Sat, 07 Feb 2026 01:23:35 GMT | Digital Footprint CTF — Tryhackme | Marco Mourad | [Read More](https://medium.com/p/5374e6b06596) |
-| Sat, 07 Feb 2026 01:01:01 GMT | How to tell if your bank account has been compromised | Samuel Brice | [Read More](https://medium.com/p/5885a3a2a8d0) |
-| Sat, 07 Feb 2026 00:50:49 GMT | WiFi Scanners and War Driving Explained | Raviteja Mureboina | [Read More](https://medium.com/p/31fa84611d70) |
-| Sat, 07 Feb 2026 00:38:55 GMT | Siber Olay Müdahale Süreçlerinde Otomasyon Yaklaşımı: Açık Kaynaklı, Low-Code Tabanlı Sürekli… | Ömer Turhan | [Read More](https://medium.com/p/9ea88cef570e) |
-| Sat, 07 Feb 2026 00:19:58 GMT | PortSwigger’s Top 10 Web Hacking Techniques of 2025 — A Deep Dive | Latent Breach | [Read More](https://medium.com/p/7cee5097c028) |
-| Sat, 07 Feb 2026 00:17:56 GMT | An Overthinker’s Manifesto | Su ☆ | [Read More](https://medium.com/p/b9c56d1b1370) |
-| Sat, 07 Feb 2026 00:03:27 GMT | RBAC mal usado es peor que no tener RBAC | Yhorby Matias | [Read More](https://medium.com/p/06d1a86118b6) |
-| Sat, 07 Feb 2026 00:02:23 GMT | The One Mistake Travelers Make on Public WiFi | Alex Brooks | [Read More](https://medium.com/p/d4883210ed08) |
-| Sat, 07 Feb 2026 00:01:01 GMT | Advanced Curl Guide for Bug Hunting: Reconnaissance and Exploitation Techniques | JPablo13 | [Read More](https://medium.com/p/3ed32744a2b5) |
-| Fri, 06 Feb 2026 23:59:24 GMT | I Was A Topper, But It Wasn’t About The Grades | Lairai Karnik | [Read More](https://medium.com/p/a72e72e6b22e) |
-| Fri, 06 Feb 2026 23:53:44 GMT | Why Companies Need to STOP Obsessing Over Cultural Fit & Focus on Culture Adds | Theresa McFarlane | [Read More](https://medium.com/p/0762e0e896c3) |
-| Fri, 06 Feb 2026 23:43:04 GMT | OpenClaw and NetSec for the Uninitiated | Jade Seeker | [Read More](https://medium.com/p/d02c1f6f4710) |
-| Fri, 06 Feb 2026 23:06:00 GMT | Why “Just Grind LeetCode” Is Terrible Advice for Beginners | Miss Tarus | [Read More](https://medium.com/p/4aa9ebc60d41) |
-| Fri, 06 Feb 2026 22:46:59 GMT | The Day the SEC Stood Still | Lev Goukassian | [Read More](https://medium.com/p/cf7d0bede6fc) |
-| Fri, 06 Feb 2026 22:43:29 GMT | Why No Single AI Should Ever Decide Alone | Michael Kraft | [Read More](https://medium.com/p/bf25a2012518) |
-| Fri, 06 Feb 2026 22:15:33 GMT | When AI Becomes an Insider — and No One Notices | Allen Westley | [Read More](https://medium.com/p/3060dc39b58e) |
-| Fri, 06 Feb 2026 22:08:59 GMT | The Silent Backdoor: Securing Gemini Agents Against Indirect Prompt Injection & EchoLeak | Purvansh Bhatt | [Read More](https://medium.com/p/e244c10510c5) |
-| Fri, 06 Feb 2026 21:52:51 GMT | PortSwigger SQL Injection Labs — Part 3 | Emirkilicer | [Read More](https://medium.com/p/fe203a8bce93) |
