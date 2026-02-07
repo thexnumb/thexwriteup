@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Feb 2026 14:48:07 GMT | Fixing the Web Together: The Role of Open Bug Bounty | Penough | [Read More](https://medium.com/p/f9fba997455b) |
+| Sat, 07 Feb 2026 14:36:01 GMT | How to Build Your Child’s Sense of Security: A Complete Parent’s Guide | Pitters Lare | [Read More](https://medium.com/p/cb61c0cf9afc) |
+| Sat, 07 Feb 2026 14:36:00 GMT | How to Get Your Ex Back: The Dao, Method, and Tools That Actually Work | Xiaochen | [Read More](https://medium.com/p/82c38be9dab8) |
+| Sat, 07 Feb 2026 14:34:20 GMT | SSRF PortSwigger Academy (Lab 3 Solution) | Ammar Ahmed | [Read More](https://medium.com/p/47819c0a0656) |
+| Sat, 07 Feb 2026 14:34:10 GMT | Supply Chain Attacks: Pipe Under the Wall | Levente Simon | [Read More](https://medium.com/p/182bfb08bf4d) |
+| Sat, 07 Feb 2026 14:32:58 GMT | Checksum: How It Works, Why Developers Use It, and What Protection It Really Gives Against Hackers | Tokishi | [Read More](https://medium.com/p/d03132e1bb48) |
+| Sat, 07 Feb 2026 14:31:31 GMT | The Law and Stalking | Reed Delaue | [Read More](https://medium.com/p/1ca26d53897e) |
+| Sat, 07 Feb 2026 14:30:46 GMT | Part 2: How Tools Changed the Cost of Coordination | John Kump | [Read More](https://medium.com/p/86221e81d07d) |
+| Sat, 07 Feb 2026 14:28:56 GMT | Day 7: Simulating TCP Reconnaissance in My Cybersecurity Home Lab | Oluwatise Alao | [Read More](https://medium.com/p/b10ed692d4d5) |
+| Sat, 07 Feb 2026 14:26:44 GMT | Letters to an Unknown Writer 13 & 14 | Rick Allen | [Read More](https://medium.com/p/59f4d90eedb6) |
 | Sat, 07 Feb 2026 14:24:46 GMT | Velociraptor Service Not Working? Use This Task Scheduler Method Instead | Dean | [Read More](https://medium.com/p/eae697ee8663) |
 | Sat, 07 Feb 2026 14:23:45 GMT | Cloud Computing Fundamentals | Aaron | [Read More](https://medium.com/p/269a02cf46b4) |
 | Sat, 07 Feb 2026 14:09:04 GMT | Why DDoS Attacks are Destructive for High-Frequency Traders | Cynox Security LLP. | [Read More](https://medium.com/p/0b0db86f2860) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Feb 2026 06:29:55 GMT | Why Cyber Security Is a Top Career Choice in Jharkhand | Barsha Automobile | [Read More](https://medium.com/p/9110a2bae5d5) |
 | Sat, 07 Feb 2026 06:17:11 GMT | How Samsung Knox Helps Stop Your Network Security Breach | Abstract Mind | [Read More](https://medium.com/p/a8f8a2bdb4f7) |
 | Sat, 07 Feb 2026 06:13:13 GMT | Blockchain-Based Document Integrity Transforms E-Signature Trust | Rohitgarg | [Read More](https://medium.com/p/8408980b9303) |
-| Sat, 07 Feb 2026 06:12:56 GMT | Stop Choosing Between Powerful AI and Secure AI. GTWY Gives You Both | Ankitdongre | [Read More](https://medium.com/p/e78ebddb596e) |
-| Sat, 07 Feb 2026 06:11:42 GMT | Day 39 — AI Security Risks for Tech Teams: Why AI Can’t Be Completely Secure — and Why Human… | Alok Rahul | [Read More](https://medium.com/p/29a9e604594a) |
-| Sat, 07 Feb 2026 06:04:01 GMT | Guide to Hacking Instagram Accounts: Instagram’s Broken Auth and the need for Passkeys | Aadam Shaik | [Read More](https://medium.com/p/4e1b336a506b) |
-| Sat, 07 Feb 2026 05:54:07 GMT | The Fastest Way to Make Something Go Viral: Ban It | Dr. Kiruthiga | [Read More](https://medium.com/p/5f9eeb04a4c1) |
-| Sat, 07 Feb 2026 05:46:56 GMT | A Collection of Tips for Beginner Bug Bounty Hunter | morioka12 | [Read More](https://medium.com/p/475704a75d10) |
-| Sat, 07 Feb 2026 05:34:28 GMT | How to Turn Recon Notes Into Real Bug Bounty Findings | Er Dhaval Ramani | [Read More](https://medium.com/p/f3742df446de) |
-| Sat, 07 Feb 2026 05:17:17 GMT | Stop Wrestling With Your Code Editor: The Ultimate Guide to Choosing Your Python IDE in 2026 | RLEDUSKILLS | [Read More](https://medium.com/p/5c3e24db0e46) |
-| Sat, 07 Feb 2026 05:12:09 GMT | The Secret Life of Azure: The Function App With CEO Privileges | Aaron Rose | [Read More](https://medium.com/p/5366a0975953) |
-| Sat, 07 Feb 2026 05:08:11 GMT | When I Said Love Isn’t Unconditional, I Lied | Elisha Peterson | [Read More](https://medium.com/p/5502599b9fe4) |
-| Sat, 07 Feb 2026 04:56:00 GMT | The Corporate Survival Guide: Reclaiming Your Life | Kunal Palkar | [Read More](https://medium.com/p/a4af33152af0) |
