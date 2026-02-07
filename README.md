@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Feb 2026 15:26:01 GMT | The Notepad++ Hack: A Deep Dive Into a State-Sponsored Supply Chain Attack | Sohan Kanna D | [Read More](https://medium.com/p/6ca49b98a42c) |
+| Sat, 07 Feb 2026 15:25:33 GMT | Risk Isn’t Technical, It’s Personal | Ingrid rorez | [Read More](https://medium.com/p/fc7c8f09f849) |
 | Sat, 07 Feb 2026 15:18:21 GMT | I Built a Chrome Extension That Stops Malicious URLs Before You Click | H3NRY B41T | [Read More](https://medium.com/p/2febe69c5917) |
 | Sat, 07 Feb 2026 15:15:41 GMT | TODAY’S HACKING NEWS — 07 FEBRUARY 2026 | KOSCYBER | [Read More](https://medium.com/p/1aad25b61322) |
 | Sat, 07 Feb 2026 15:11:23 GMT | MoltBook Isn’t a Social Network. It’s the World’s First Voluntary C2 Botnet. | Maxwell Cross | [Read More](https://medium.com/p/cf7cb2409f42) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Feb 2026 07:01:03 GMT | Mailbox Rule Abuse | Ankita Sinha | [Read More](https://medium.com/p/d406ad1a751e) |
 | Sat, 07 Feb 2026 07:00:44 GMT | Vulnhub: Stapler CTF Walkthrough | d0natel00(KiroMoheb) | [Read More](https://medium.com/p/13fb09a7726b) |
 | Sat, 07 Feb 2026 06:53:02 GMT | #  Digital Forensics nədir? Hücumdan Sonra Həqiqəti Ortaya Çıxaran Kiber Elm | cybershieldy.com | [Read More](https://medium.com/p/c35a34ef4924) |
-| Sat, 07 Feb 2026 06:52:09 GMT | These OSINT Techniques Can Reveal More Than You Think | Nazrul Islam Rana | [Read More](https://medium.com/p/5e1de7e7565e) |
-| Sat, 07 Feb 2026 06:39:58 GMT | X-Ray Baggage Scanner Solutions for Modern Security Needs - etradefia | Etradefia | [Read More](https://medium.com/p/7c589bd56b1f) |
