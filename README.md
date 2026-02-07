@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Feb 2026 13:31:53 GMT | Post-Quantum is a Time-based Risk Problem — A Quick Readiness Assessment | Danish | [Read More](https://medium.com/p/53a96fe5cc39) |
+| Sat, 07 Feb 2026 13:31:01 GMT | n8n Governance: Power Without the Blast Radius | Duckweave | [Read More](https://medium.com/p/464969136fb8) |
+| Sat, 07 Feb 2026 13:31:00 GMT | MITRE ATT&CK Framework: What Happens After a Hacker Enters a System? | dilan alpaltun | [Read More](https://medium.com/p/0e3fd93eb744) |
+| Sat, 07 Feb 2026 13:26:13 GMT | Security Misconfiguration in 2026: How Small Dev Mistakes Lead to Big Breaches | Rehan Ahmed | [Read More](https://medium.com/p/61cb643b5c46) |
+| Sat, 07 Feb 2026 13:17:42 GMT | “Why Hashing of the Password is not the Ultimate Defence” | Curious_ethernet | [Read More](https://medium.com/p/2abf25200f30) |
+| Sat, 07 Feb 2026 13:08:38 GMT | Active Directory vs. Azure Entra ID: A Practical Guide for Modern IT Environments ☁️ | Allan Banday | [Read More](https://medium.com/p/3486ef956353) |
+| Sat, 07 Feb 2026 13:03:45 GMT | Are We Watching the End of the IT Body-Shop Era? | The Human Prompt | [Read More](https://medium.com/p/d4deed0f4a64) |
+| Sat, 07 Feb 2026 12:54:21 GMT | Meaning | Assaf Petronio | [Read More](https://medium.com/p/f5b819a9d9d7) |
+| Sat, 07 Feb 2026 12:54:00 GMT | Learning AppSec the Practical Way with DVWA | Kamal S | [Read More](https://medium.com/p/0971cbf82f42) |
 | Sat, 07 Feb 2026 12:51:19 GMT | Chaining OTP Bypass to Full Account Takeover | 0xShyron | [Read More](https://medium.com/p/67293b48ae28) |
+| Sat, 07 Feb 2026 12:49:09 GMT | Security by Design in 2026: A Practical, Scalable Framework for Secure App Development | EncryVia Official | [Read More](https://medium.com/p/e36c07fe8db2) |
+| Sat, 07 Feb 2026 12:43:31 GMT | Des tickets et un canapé… | Florent M | [Read More](https://medium.com/p/6f676fbe972c) |
 | Sat, 07 Feb 2026 12:35:21 GMT | Authorization Context Confusion | Hamit CİBO | [Read More](https://medium.com/p/3ee21bfbb903) |
 | Sat, 07 Feb 2026 12:30:24 GMT | When <template> isn’t a template: Alpine.js meets the SVG namespace | Stephen Carboni | [Read More](https://medium.com/p/a4576e935176) |
 | Sat, 07 Feb 2026 12:26:01 GMT | Before You Expose Your API to the World — Read This Azure Security Playbook | Lets Learn Now | [Read More](https://medium.com/p/ee12710a043a) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Feb 2026 03:51:00 GMT | İçerideki Düşman: Yedekleme Yönetiminde “Sıfır Güven” (Zero Trust) Mimarisi | Fatih Yuksektepe | [Read More](https://medium.com/p/bb8e75294d93) |
 | Sat, 07 Feb 2026 03:47:14 GMT | WHAT "GOOD SECURITY" ACTUALLY MEANS IN WEB3 (Beyond Audits) | Miracle Barisi | [Read More](https://medium.com/p/2ce2715b24f8) |
 | Sat, 07 Feb 2026 03:36:21 GMT | The AI Gold Rush Gone Wrong | iswarya writes | [Read More](https://medium.com/p/c3c990b27710) |
-| Sat, 07 Feb 2026 03:31:00 GMT | When Trust Becomes a Vector: Inside the Malwarebytes Impersonation Infostealer Campaign | Deven Chhajed | [Read More](https://medium.com/p/adcd3ac89086) |
-| Sat, 07 Feb 2026 03:19:50 GMT | Everything Was Ready for Series A Until the Data Went Up for Sale | Bijay Limbu Senihang | [Read More](https://medium.com/p/ddbde1e180bb) |
-| Sat, 07 Feb 2026 03:15:50 GMT | TryHackMe — Traverse Room [en/es] | al1gn404 | [Read More](https://medium.com/p/43ffb9813f24) |
-| Sat, 07 Feb 2026 03:14:41 GMT | The Future of Home Entry: Why Automatic Gates are the New Standard for Singaporean Landed… | Enforce SG | [Read More](https://medium.com/p/95f62316a4ec) |
-| Sat, 07 Feb 2026 03:05:04 GMT | Don’t Burn the Kitchen: The GRC Guide to Business Mise-en-Place | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/f8f28bd38774) |
-| Sat, 07 Feb 2026 02:59:42 GMT | The Most Dangerous Developers Aren’t The Worst Ones — They’re The Overconfident Ones | The Dev Notebook | [Read More](https://medium.com/p/a4b751ff65e2) |
-| Sat, 07 Feb 2026 02:37:16 GMT | Do You Really Need a VPN to Work Remotely? Most People Get It Wrong | Germain Mucyo | [Read More](https://medium.com/p/cd77ec966ff8) |
-| Sat, 07 Feb 2026 02:16:02 GMT | AI diploma vs traditional uni in Mexico | MUHAMMAD UZAIR | [Read More](https://medium.com/p/937e8ec8781c) |
-| Sat, 07 Feb 2026 02:00:13 GMT | Web Fuzzing: A Practical Testing Methodology | Israel Aráoz Severiche | [Read More](https://medium.com/p/1f24198e2ddc) |
-| Sat, 07 Feb 2026 01:59:42 GMT | Bug Bounty Recon for Everyone | Batuhan Aydın | [Read More](https://medium.com/p/220ae026a42c) |
-| Sat, 07 Feb 2026 01:37:01 GMT | Why “Spray and Pray” is Killing Your Cybersecurity Pipeline (and How to Fix It) | LeadAdvisors | [Read More](https://medium.com/p/4684f2b1e924) |
