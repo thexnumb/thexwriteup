@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Feb 2026 17:28:15 GMT | Building a Lightweight Web Security Scanner in Python | Danny Vargas - CyberSecurity Focus | [Read More](https://medium.com/p/74ab70b15932) |
+| Sat, 07 Feb 2026 17:20:40 GMT | Linux System Hardening Guide for DevOps & DevSecOps Beginners | Emmanuel Owusu-Addai | [Read More](https://medium.com/p/95517631ce10) |
+| Sat, 07 Feb 2026 17:18:44 GMT | Guide to Securing Corporate Enterprise Workstations | KSI Keyboards | [Read More](https://medium.com/p/bc11d1891345) |
+| Sat, 07 Feb 2026 17:14:36 GMT | INE / eJPT / Host & Network Penetration Testing: Post-Exploitation CTF 2 | Salihugurlu | [Read More](https://medium.com/p/13fc11db7272) |
+| Sat, 07 Feb 2026 17:10:41 GMT | Top 5 Security Vulnerabilities in Modern PHP Apps (That Your Security Scanner Missed) | Technology Diaries | [Read More](https://medium.com/p/a8b250db4ecd) |
+| Sat, 07 Feb 2026 17:05:54 GMT | Automate Your Server with AI: How OpenClaw Changes the Game | Md Anik Rahman | [Read More](https://medium.com/p/8efacb3da604) |
+| Sat, 07 Feb 2026 17:00:38 GMT | Counterintelligence Preparedness for the FIFA World Cup 2026 in the United States: Training, Threat… | Andrey Spiridonov | [Read More](https://medium.com/p/49ee1fc12e2c) |
+| Sat, 07 Feb 2026 17:00:03 GMT | Osquery at Scale: A Practical Infrastructure | Shivam Bathla | [Read More](https://medium.com/p/dad548b11fd7) |
+| Sat, 07 Feb 2026 16:54:38 GMT | FREE F5 BIGIP Promo Codes @ Udemy | DeepDive4learn | [Read More](https://medium.com/p/cb74546019a5) |
+| Sat, 07 Feb 2026 16:51:45 GMT | Nully Cybersecurity CTF — Flag 3: Database Server Root | IO | [Read More](https://medium.com/p/81d6846192be) |
+| Sat, 07 Feb 2026 16:42:48 GMT | Proxy Server vs Reverse Proxy Server — What’s the Difference? | Shalu | [Read More](https://medium.com/p/290ba2d42ad7) |
+| Sat, 07 Feb 2026 16:37:21 GMT | XINTRA — NavalTech Systems Lab Walkthrough | QhtSec | [Read More](https://medium.com/p/25ee6e14927f) |
+| Sat, 07 Feb 2026 16:33:38 GMT | PHP mail() Command Injection to Remote Code Execution (RCE) | NullSecurityX | [Read More](https://medium.com/p/b2991e929ca3) |
 | Sat, 07 Feb 2026 16:21:47 GMT | What is L1, L2, L3, and L4 in Networking? (Beginner-Friendly Guide) | Shalu | [Read More](https://medium.com/p/8c5d1d2a8c78) |
 | Sat, 07 Feb 2026 16:17:19 GMT | Billing (TryHackMe) — CTF Write-up | Roshan Rajbanshi | [Read More](https://medium.com/p/e8ca469c9d9b) |
 | Sat, 07 Feb 2026 16:17:18 GMT | Blind OS Command Injection with Output Redirection | Bash Overflow | [Read More](https://medium.com/p/266bf702d288) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Feb 2026 10:39:52 GMT | From a “Low” Information Disclosure to Full Production Database Access | Abdelkafi Habbeddine | [Read More](https://medium.com/p/13ac94c30e07) |
 | Sat, 07 Feb 2026 10:37:38 GMT | AppSecMaster JWT Challenge Writeup | 0xMyth | [Read More](https://medium.com/p/74b49bb4043e) |
 | Sat, 07 Feb 2026 10:11:05 GMT | When Humans Are No Longer in the Loop: The Structural Collapse of Cloud Security Assumptions in the… | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/4908d77662b1) |
-| Sat, 07 Feb 2026 10:02:17 GMT | Benefits of Hiring Trusted Security Guard Services in Mumbai | kanikasingh | [Read More](https://medium.com/p/fddc996e5683) |
-| Sat, 07 Feb 2026 09:51:01 GMT | Windows Defender Firewall: A Practical Guide to System Protection and Network Security | Ramandeep Bagri | [Read More](https://medium.com/p/db992c45f3f6) |
-| Sat, 07 Feb 2026 09:43:08 GMT | Fail2Ban: Block brute-force attacks early | PI | [Read More](https://medium.com/p/0949ba4653f9) |
-| Sat, 07 Feb 2026 09:42:55 GMT | CEH Certification Explained: Skills, Career Value, and Learning Scope | Ryan Brooks | [Read More](https://medium.com/p/5c53e2d34ffc) |
-| Sat, 07 Feb 2026 09:32:01 GMT | Why Browser-Based Tools Are the Future of Secure File Processing | Nouman Khateeb | [Read More](https://medium.com/p/ef51e204e624) |
-| Sat, 07 Feb 2026 09:27:52 GMT | Complete Guide To Cybersecurity - Definitions, Practices, Threats, Tech & Best Practices | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/fb5c0c06e337) |
-| Sat, 07 Feb 2026 09:11:17 GMT | Ottergram writeup (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/2f1b56ada4f2) |
-| Sat, 07 Feb 2026 09:08:33 GMT | Learn Hacking with CEH: From Basics to Real-World Security Skills | Ryan Brooks | [Read More](https://medium.com/p/35b0d9e73de0) |
-| Sat, 07 Feb 2026 09:07:38 GMT | Libra Security Services & Facility Management Services in Deira, Dubai — A Trusted Name in UAE | Libraseo freelancer | [Read More](https://medium.com/p/026a0c9725d7) |
-| Sat, 07 Feb 2026 09:06:00 GMT | Millions of Apple Pay Users Are in Danger from Sophisticated Phishing Scams | Mehdi BAFDIL | [Read More](https://medium.com/p/a3bdc8611794) |
-| Sat, 07 Feb 2026 09:04:04 GMT | ⚠️ $96,000 in Bitcoin GONE… until THIS happened ⚠️ | Gabe Martinez | [Read More](https://medium.com/p/cc7079494e2e) |
-| Sat, 07 Feb 2026 09:01:01 GMT | Bug Bounty Recon Shortcut: 3 Filters That Surface High-Value Credentials Fast | Alexandre Vandamme | [Read More](https://medium.com/p/d5810e7f6106) |
-| Sat, 07 Feb 2026 08:57:01 GMT | Love Is Seasonal | Sanflower | [Read More](https://medium.com/p/0bfa291a3877) |
