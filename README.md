@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Feb 2026 07:42:18 GMT | Sysmon Mastery: 25 Rules You Should Deploy for Bulletproof Windows Logging | Very Lazy Tech | [Read More](https://medium.com/p/e3d03a376765) |
+| Sat, 07 Feb 2026 07:27:37 GMT | Better Device Safety Using Antivirus Software Protection | Siyanoav | [Read More](https://medium.com/p/a0fd89904530) |
+| Sat, 07 Feb 2026 07:27:31 GMT | Stop Storing Passwords Like It’s 1999: A Node.js + MySQL Wake-Up Call | Vasu G | [Read More](https://medium.com/p/a7d6e925149e) |
+| Sat, 07 Feb 2026 07:16:04 GMT | CISM vs CSCS™ vs SecurityX: Comparing Senior Cybersecurity Certifications | Lucia Adams | [Read More](https://medium.com/p/03cb9a439f35) |
 | Sat, 07 Feb 2026 07:01:03 GMT | Session Hijacking in Cloud Environments | Ankita Sinha | [Read More](https://medium.com/p/6bd6aa7d5019) |
 | Sat, 07 Feb 2026 07:01:03 GMT | Mailbox Rule Abuse | Ankita Sinha | [Read More](https://medium.com/p/d406ad1a751e) |
 | Sat, 07 Feb 2026 07:00:44 GMT | Vulnhub: Stapler CTF Walkthrough | d0natel00(KiroMoheb) | [Read More](https://medium.com/p/13fb09a7726b) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Feb 2026 18:39:44 GMT | The Post-Quantum Moment: From Mandate to Execution | GotThatData | [Read More](https://medium.com/p/c1fd53ecaccb) |
 | Fri, 06 Feb 2026 18:29:29 GMT | Cybersecurity News Review — Week 6 (2026) | Mladen Kirilov | [Read More](https://medium.com/p/edc5cf4aed54) |
 | Fri, 06 Feb 2026 18:23:50 GMT | Here’s how I discovered a high-severity broken access control vulnerability (BAC-1) | Br0k3n_1337 Aka Sourav Khan | [Read More](https://medium.com/p/27c0e3e821f0) |
-| Fri, 06 Feb 2026 18:20:26 GMT | SOC and DevOps Collaboration Models Making Security a Natural Part of Operations | Esra Kayhan | [Read More](https://medium.com/p/c1525a880b89) |
-| Fri, 06 Feb 2026 18:18:47 GMT | SEBI Compliance Audit & Consulting Services for Financial Companies | Lumiversesolution | [Read More](https://medium.com/p/6ae0ee796de7) |
-| Fri, 06 Feb 2026 18:15:58 GMT | “Bug Bounty Bootcamp #24: Hacking postMessage — Turning Cross-Domain Communication into Data Theft… | Aman Sharma | [Read More](https://medium.com/p/2c7fe2ea5a45) |
-| Fri, 06 Feb 2026 18:13:13 GMT | AI Security Digest — February 2026 (Week 1) | Tal Eliyahu | [Read More](https://medium.com/p/66588ba7fde1) |
