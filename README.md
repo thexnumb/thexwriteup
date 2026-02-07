@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Feb 2026 17:44:50 GMT | How I Discovered My First IDOR Vulnerability (Step-by-Step) | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/f0fc0734f980) |
+| Sat, 07 Feb 2026 17:44:08 GMT | Sharding an existing MySQL database with ProxySQL | Rahul Shringarpure | [Read More](https://medium.com/p/4f084395d5e8) |
+| Sat, 07 Feb 2026 17:43:35 GMT | Android Broadcast Receivers: Threat Surface & Attacks | Hossam Shaalan | [Read More](https://medium.com/p/118d84aa8401) |
+| Sat, 07 Feb 2026 17:38:39 GMT | Attackers Don’t Break In Anymore, They Log In | Travis Ray Caverhill | [Read More](https://medium.com/p/5baeac67dc0c) |
+| Sat, 07 Feb 2026 17:37:34 GMT | From Nmap Scan to Exploit, Full Workflow (Beginner Ethical Hacking Lab Guide) | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/16de91b9b7a9) |
 | Sat, 07 Feb 2026 17:28:15 GMT | Building a Lightweight Web Security Scanner in Python | Danny Vargas - CyberSecurity Focus | [Read More](https://medium.com/p/74ab70b15932) |
 | Sat, 07 Feb 2026 17:20:40 GMT | Linux System Hardening Guide for DevOps & DevSecOps Beginners | Emmanuel Owusu-Addai | [Read More](https://medium.com/p/95517631ce10) |
 | Sat, 07 Feb 2026 17:18:44 GMT | Guide to Securing Corporate Enterprise Workstations | KSI Keyboards | [Read More](https://medium.com/p/bc11d1891345) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Feb 2026 11:21:30 GMT | Best Summer Training Located in Lucknow -SkillManthan Technologies | Mahfoojofficial | [Read More](https://medium.com/p/bedbef5156ef) |
 | Sat, 07 Feb 2026 11:20:12 GMT | Hacking WebSockets ! | Sushruth Rao | [Read More](https://medium.com/p/00ccabb5e69f) |
 | Sat, 07 Feb 2026 10:54:46 GMT | The Cybersecurity Gym — First Ever Cybersecurity Mentoring Platform: Why Elite Hackers Train Like… | h@shtalk | [Read More](https://medium.com/p/be5fadd479af) |
-| Sat, 07 Feb 2026 10:50:38 GMT | The Best Ad-Blockers in 2026: Why Manifest V3 Didn’t Kill the Resistance | Moedex | [Read More](https://medium.com/p/ed670ce842ac) |
-| Sat, 07 Feb 2026 10:41:23 GMT | How Wordfence Paid Me $0 for a Critical Vulnerability Affecting 700K Websites | Mike Myers | [Read More](https://medium.com/p/ff69fea27f86) |
-| Sat, 07 Feb 2026 10:39:52 GMT | From a “Low” Information Disclosure to Full Production Database Access | Abdelkafi Habbeddine | [Read More](https://medium.com/p/13ac94c30e07) |
-| Sat, 07 Feb 2026 10:37:38 GMT | AppSecMaster JWT Challenge Writeup | 0xMyth | [Read More](https://medium.com/p/74b49bb4043e) |
-| Sat, 07 Feb 2026 10:11:05 GMT | When Humans Are No Longer in the Loop: The Structural Collapse of Cloud Security Assumptions in the… | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/4908d77662b1) |
