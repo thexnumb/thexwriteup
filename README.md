@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Feb 2026 02:00:13 GMT | Web Fuzzing: A Practical Testing Methodology | Israel Aráoz Severiche | [Read More](https://medium.com/p/1f24198e2ddc) |
+| Sat, 07 Feb 2026 01:59:42 GMT | Bug Bounty Recon for Everyone | Batuhan Aydın | [Read More](https://medium.com/p/220ae026a42c) |
+| Sat, 07 Feb 2026 01:37:01 GMT | Why “Spray and Pray” is Killing Your Cybersecurity Pipeline (and How to Fix It) | LeadAdvisors | [Read More](https://medium.com/p/4684f2b1e924) |
+| Sat, 07 Feb 2026 01:23:35 GMT | Digital Footprint CTF — Tryhackme | Marco Mourad | [Read More](https://medium.com/p/5374e6b06596) |
+| Sat, 07 Feb 2026 01:01:01 GMT | How to tell if your bank account has been compromised | Samuel Brice | [Read More](https://medium.com/p/5885a3a2a8d0) |
+| Sat, 07 Feb 2026 00:50:49 GMT | WiFi Scanners and War Driving Explained | Raviteja Mureboina | [Read More](https://medium.com/p/31fa84611d70) |
+| Sat, 07 Feb 2026 00:38:55 GMT | Siber Olay Müdahale Süreçlerinde Otomasyon Yaklaşımı: Açık Kaynaklı, Low-Code Tabanlı Sürekli… | Ömer Turhan | [Read More](https://medium.com/p/9ea88cef570e) |
+| Sat, 07 Feb 2026 00:17:56 GMT | An Overthinker’s Manifesto | Su ☆ | [Read More](https://medium.com/p/b9c56d1b1370) |
+| Sat, 07 Feb 2026 00:03:27 GMT | RBAC mal usado es peor que no tener RBAC | Yhorby Matias | [Read More](https://medium.com/p/06d1a86118b6) |
+| Sat, 07 Feb 2026 00:02:23 GMT | The One Mistake Travelers Make on Public WiFi | Alex Brooks | [Read More](https://medium.com/p/d4883210ed08) |
+| Sat, 07 Feb 2026 00:01:01 GMT | Advanced Curl Guide for Bug Hunting: Reconnaissance and Exploitation Techniques | JPablo13 | [Read More](https://medium.com/p/3ed32744a2b5) |
+| Fri, 06 Feb 2026 23:59:24 GMT | I Was A Topper, But It Wasn’t About The Grades | Lairai Karnik | [Read More](https://medium.com/p/a72e72e6b22e) |
+| Fri, 06 Feb 2026 23:53:44 GMT | Why Companies Need to STOP Obsessing Over Cultural Fit & Focus on Culture Adds | Theresa McFarlane | [Read More](https://medium.com/p/0762e0e896c3) |
 | Fri, 06 Feb 2026 23:43:04 GMT | OpenClaw and NetSec for the Uninitiated | Jade Seeker | [Read More](https://medium.com/p/d02c1f6f4710) |
 | Fri, 06 Feb 2026 23:06:00 GMT | Why “Just Grind LeetCode” Is Terrible Advice for Beginners | Miss Tarus | [Read More](https://medium.com/p/4aa9ebc60d41) |
 | Fri, 06 Feb 2026 22:46:59 GMT | The Day the SEC Stood Still | Lev Goukassian | [Read More](https://medium.com/p/cf7d0bede6fc) |
@@ -100,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Feb 2026 15:55:03 GMT | crackme-py Picoctf Reverse Engineering | Aun Raza | [Read More](https://medium.com/p/42a425fdb656) |
 | Fri, 06 Feb 2026 15:48:08 GMT | Stop Guessing: How to Detect SSH Brute-Force Attacks with a Simple Python Script | Bakioui souhail | [Read More](https://medium.com/p/c1c555fc9145) |
 | Fri, 06 Feb 2026 15:42:29 GMT | How I Made $5,000 Overnight Using Cybersecurity Skills | Aland Dlshad (HexaPhp) | [Read More](https://medium.com/p/af6ff0b994a5) |
-| Fri, 06 Feb 2026 15:41:54 GMT | How Misconceptions and Trade-offs Shape Perceptions of Election Risk | Amara Nwankpa | [Read More](https://medium.com/p/acbd25f44e24) |
-| Fri, 06 Feb 2026 15:40:54 GMT | The AI Security Nightmare Nobody Saw Coming: How MoltBot Exposed 1.5 | Milan Danushka | [Read More](https://medium.com/p/f31619f9f0b0) |
-| Fri, 06 Feb 2026 15:36:23 GMT | The Immune System of Finance: Protocols that Heal Themselves | Suyani Setiadewi | [Read More](https://medium.com/p/c99a9e046c19) |
-| Fri, 06 Feb 2026 15:25:43 GMT | The Epic Journey of a Message: How WhatsApp Guards Its Brave Messenger | Pallavi Raj | [Read More](https://medium.com/p/19d5b19dda4e) |
-| Fri, 06 Feb 2026 15:25:37 GMT | The 3 Types of Cloud (And How Each Can Ruin Your Day) | Dhanush N | [Read More](https://medium.com/p/d4676303e831) |
-| Fri, 06 Feb 2026 15:25:11 GMT | Is it possible to hire a hacker ? | Hilton Bradley | [Read More](https://medium.com/p/cb4a327b0527) |
-| Fri, 06 Feb 2026 15:24:34 GMT | The Theory of Invisible Cracks | lunarea. | [Read More](https://medium.com/p/9e484fdae479) |
-| Fri, 06 Feb 2026 15:14:49 GMT | Day 6: Understanding Normal Network Traffic (Wireshark Basics) | Oluwatise Alao | [Read More](https://medium.com/p/e022791ad731) |
-| Fri, 06 Feb 2026 15:05:24 GMT | File Upload Vulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/5646f9c0c3fe) |
-| Fri, 06 Feb 2026 15:03:47 GMT | The Illusion of ‘Private’ Browsing | Rabail Zaheer | [Read More](https://medium.com/p/d11160204815) |
-| Fri, 06 Feb 2026 15:03:27 GMT | Repenser l’Architecture d’Entreprise à l’ère des Agents IA (Partie 2) | abidi houssem | [Read More](https://medium.com/p/0edc52e4bd1f) |
-| Fri, 06 Feb 2026 15:02:36 GMT | Best Cyber Security Solutions in UAE for Financial, Healthcare & IT Sectors | Vastechoffpage | [Read More](https://medium.com/p/e252ac2159e6) |
-| Fri, 06 Feb 2026 15:01:55 GMT | Ransomware Attack: How It Spreads Automatically Across Enterprise Networks | Ukwedje Taiwo Goodness | [Read More](https://medium.com/p/184647477f59) |
