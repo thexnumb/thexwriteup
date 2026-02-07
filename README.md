@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Feb 2026 10:11:05 GMT | When Humans Are No Longer in the Loop: The Structural Collapse of Cloud Security Assumptions in the… | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/4908d77662b1) |
+| Sat, 07 Feb 2026 10:02:17 GMT | Benefits of Hiring Trusted Security Guard Services in Mumbai | kanikasingh | [Read More](https://medium.com/p/fddc996e5683) |
+| Sat, 07 Feb 2026 09:51:01 GMT | Windows Defender Firewall: A Practical Guide to System Protection and Network Security | Ramandeep Bagri | [Read More](https://medium.com/p/db992c45f3f6) |
+| Sat, 07 Feb 2026 09:43:08 GMT | Fail2Ban: Block brute-force attacks early | PI | [Read More](https://medium.com/p/0949ba4653f9) |
+| Sat, 07 Feb 2026 09:42:55 GMT | CEH Certification Explained: Skills, Career Value, and Learning Scope | Ryan Brooks | [Read More](https://medium.com/p/5c53e2d34ffc) |
+| Sat, 07 Feb 2026 09:32:01 GMT | Why Browser-Based Tools Are the Future of Secure File Processing | Nouman Khateeb | [Read More](https://medium.com/p/ef51e204e624) |
 | Sat, 07 Feb 2026 09:27:52 GMT | Complete Guide To Cybersecurity - Definitions, Practices, Threats, Tech & Best Practices | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/fb5c0c06e337) |
 | Sat, 07 Feb 2026 09:11:17 GMT | Ottergram writeup (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/2f1b56ada4f2) |
 | Sat, 07 Feb 2026 09:08:33 GMT | Learn Hacking with CEH: From Basics to Real-World Security Skills | Ryan Brooks | [Read More](https://medium.com/p/35b0d9e73de0) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Feb 2026 21:07:09 GMT | Day 10 : OS Command Injection — Port swigger | Cybersecurity with Jojo | [Read More](https://medium.com/p/07616f4ffc85) |
 | Fri, 06 Feb 2026 21:01:00 GMT | Hacking Networking Services Home Lab | Mainekhacker | [Read More](https://medium.com/p/e30555e3a0dd) |
 | Fri, 06 Feb 2026 20:55:34 GMT | The City of Legends: The Pain And Mapping | Norman Kolarikkal | [Read More](https://medium.com/p/d4e3a9215972) |
-| Fri, 06 Feb 2026 20:41:50 GMT | Designing an AI Butler for Code Security: Building a Claude Code Skill | Justin Perkins | [Read More](https://medium.com/p/73012bbc85dd) |
-| Fri, 06 Feb 2026 20:31:55 GMT | SkiddyKill3r Write-Up — Breaking an Easy Web Security Challenge | Z3DX | [Read More](https://medium.com/p/873d1e166342) |
-| Fri, 06 Feb 2026 20:29:56 GMT | How WhatsApp Keeps Your Messages Safe with End-to-End Encryption | Pawan Kushwah | [Read More](https://medium.com/p/dc375ca9d4eb) |
-| Fri, 06 Feb 2026 20:16:09 GMT | Privilege Escalation: Hijacking an Organization via Billing Notifications | Mohamed Fathy | [Read More](https://medium.com/p/779bf34022ac) |
-| Fri, 06 Feb 2026 20:12:29 GMT | HTB_Academy: Skills Assessment — Web Fuzzing | Babatunde Ojo | [Read More](https://medium.com/p/9d0d1e800755) |
-| Fri, 06 Feb 2026 20:01:24 GMT | When Infrastructure Thinks for Itself: The Rise of Autonomous IT Operations | Mai Tran | [Read More](https://medium.com/p/adfda84992cb) |
