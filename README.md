@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Feb 2026 08:17:00 GMT | 403 Isn’t the End: Understanding Access Control Failures in Web Applications | ghostyjoe | [Read More](https://medium.com/p/dab64f79bdcb) |
+| Sat, 07 Feb 2026 08:11:01 GMT | General Security Concepts | Binesh gurung | [Read More](https://medium.com/p/3ce62383e615) |
+| Sat, 07 Feb 2026 08:04:03 GMT | What Is Quantum Error Correction? | Cynox Security LLP. | [Read More](https://medium.com/p/fd4d879755c1) |
+| Sat, 07 Feb 2026 07:59:36 GMT | The Ghost in the Editor: 5 Surprising Truths Behind the Notepad++ Supply Chain Hijack | Tech Security | [Read More](https://medium.com/p/88b57a362c41) |
+| Sat, 07 Feb 2026 07:55:25 GMT | The Intent-Verification Gap in CI/CD: Why Authentication Fails Under Real Attacks | Kalyan Tamarapalli | [Read More](https://medium.com/p/64f5083d4155) |
 | Sat, 07 Feb 2026 07:42:18 GMT | Sysmon Mastery: 25 Rules You Should Deploy for Bulletproof Windows Logging | Very Lazy Tech | [Read More](https://medium.com/p/e3d03a376765) |
 | Sat, 07 Feb 2026 07:27:37 GMT | Better Device Safety Using Antivirus Software Protection | Siyanoav | [Read More](https://medium.com/p/a0fd89904530) |
 | Sat, 07 Feb 2026 07:27:31 GMT | Stop Storing Passwords Like It’s 1999: A Node.js + MySQL Wake-Up Call | Vasu G | [Read More](https://medium.com/p/a7d6e925149e) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Feb 2026 19:02:34 GMT | Hackviser: PasteZone Write-Up | Çağrı Karakuş | [Read More](https://medium.com/p/7b5aa9e8ad7f) |
 | Fri, 06 Feb 2026 19:02:04 GMT | How to Configure A VPN in Windows Server 2008 Using A Single LAN Card | Tarun Sehgal | [Read More](https://medium.com/p/d6649b3d125e) |
 | Fri, 06 Feb 2026 18:57:42 GMT | Why Your Law Firm Needs SOC 2 Type 2 Compliant IT for Law Firms Irvine | Technijian | [Read More](https://medium.com/p/767dd849e0ec) |
-| Fri, 06 Feb 2026 18:51:30 GMT | HTTP/2 downgrading | Songül Kızılay Özügürler | [Read More](https://medium.com/p/e8e1b6464f9e) |
-| Fri, 06 Feb 2026 18:46:09 GMT | OSINT-How Public Information Becomes Powerful Intelligence | Amandogra | [Read More](https://medium.com/p/9f121a524c7f) |
-| Fri, 06 Feb 2026 18:39:44 GMT | The Post-Quantum Moment: From Mandate to Execution | GotThatData | [Read More](https://medium.com/p/c1fd53ecaccb) |
-| Fri, 06 Feb 2026 18:29:29 GMT | Cybersecurity News Review — Week 6 (2026) | Mladen Kirilov | [Read More](https://medium.com/p/edc5cf4aed54) |
-| Fri, 06 Feb 2026 18:23:50 GMT | Here’s how I discovered a high-severity broken access control vulnerability (BAC-1) | Br0k3n_1337 Aka Sourav Khan | [Read More](https://medium.com/p/27c0e3e821f0) |
