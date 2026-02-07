@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Feb 2026 21:25:25 GMT | Day 12: Accounts, Identity, & Authentication | Siddhesh Patil | [Read More](https://medium.com/p/15901e4dd66a) |
+| Sat, 07 Feb 2026 21:24:52 GMT | We Call It Social Engineering. Attackers Call It Research. | Madiha Sultana | [Read More](https://medium.com/p/a950103df619) |
+| Sat, 07 Feb 2026 21:22:06 GMT | Never Trust Just One Person With Your Crypto Keys Again: The Mathematical Magic Behind Shamir’s… | Emily Rose | [Read More](https://medium.com/p/a2e651e1c621) |
+| Sat, 07 Feb 2026 21:20:47 GMT | Your Encryption Is Useless Without This! | Ridwanul Alam | [Read More](https://medium.com/p/00e58f8fba68) |
+| Sat, 07 Feb 2026 21:11:54 GMT | Microsoft appointed a quality czar. He has no direct reports and no budget. | JP Caparas | [Read More](https://medium.com/p/ab75cef97954) |
+| Sat, 07 Feb 2026 20:46:39 GMT | Some Android Apps Are Doing More Harm Than Good in 2026 | Iamadityayogi | [Read More](https://medium.com/p/52cbf7ba0a7a) |
+| Sat, 07 Feb 2026 20:44:31 GMT | The IT department as a strategic driver of the business | Gian Luca Vanoli | [Read More](https://medium.com/p/80705ef20bc7) |
+| Sat, 07 Feb 2026 20:43:21 GMT | Understanding Active Darkweb Markets in 2025 | Tor BBB | [Read More](https://medium.com/p/14cba9da11cd) |
+| Sat, 07 Feb 2026 20:42:33 GMT | Email Security, Audits, and the Gap Between Compliance and Real-World Risk | Rishi Patidar | [Read More](https://medium.com/p/7583b1b79988) |
+| Sat, 07 Feb 2026 20:39:20 GMT | The Age of Personal War in the IT Sector. | Utkarsh Singh | [Read More](https://medium.com/p/e48c6b939d25) |
 | Sat, 07 Feb 2026 19:53:21 GMT | One Click Cost Her Everything: A Simple Guide to Cybersecurity (Through Ann’s Eyes) | Israk Hossain Emon | [Read More](https://medium.com/p/8ef89b0a0ad2) |
 | Sat, 07 Feb 2026 19:47:56 GMT | Agentic AI: The Top Cybersecurity Threat of 2026—& To do for CISOs | Haroon Rashid | [Read More](https://medium.com/p/944d5c3886e7) |
 | Sat, 07 Feb 2026 19:44:15 GMT | Tech News Roundup: Nvidia RTX Delays, Apple Lockdown Mode, TikTok DSA Scrutiny, and More | Shl | [Read More](https://medium.com/p/61ec182ca227) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Feb 2026 13:55:52 GMT | I’ve Managed Programs That Protect Millions of Players from Hackers and Here’s What Data Taught Me | Stephanie Chavez Alvarez | [Read More](https://medium.com/p/565041eb1a98) |
 | Sat, 07 Feb 2026 13:31:53 GMT | Post-Quantum is a Time-based Risk Problem — A Quick Readiness Assessment | Danish | [Read More](https://medium.com/p/53a96fe5cc39) |
 | Sat, 07 Feb 2026 13:31:01 GMT | n8n Governance: Power Without the Blast Radius | Duckweave | [Read More](https://medium.com/p/464969136fb8) |
-| Sat, 07 Feb 2026 13:31:00 GMT | MITRE ATT&CK Framework: What Happens After a Hacker Enters a System? | dilan alpaltun | [Read More](https://medium.com/p/0e3fd93eb744) |
-| Sat, 07 Feb 2026 13:26:13 GMT | Security Misconfiguration in 2026: How Small Dev Mistakes Lead to Big Breaches | Rehan Ahmed | [Read More](https://medium.com/p/61cb643b5c46) |
-| Sat, 07 Feb 2026 13:17:42 GMT | “Why Hashing of the Password is not the Ultimate Defence” | Curious_ethernet | [Read More](https://medium.com/p/2abf25200f30) |
-| Sat, 07 Feb 2026 13:08:38 GMT | Active Directory vs. Azure Entra ID: A Practical Guide for Modern IT Environments ☁️ | Allan Banday | [Read More](https://medium.com/p/3486ef956353) |
-| Sat, 07 Feb 2026 13:03:45 GMT | Are We Watching the End of the IT Body-Shop Era? | The Human Prompt | [Read More](https://medium.com/p/d4deed0f4a64) |
-| Sat, 07 Feb 2026 12:54:21 GMT | Meaning | Assaf Petronio | [Read More](https://medium.com/p/f5b819a9d9d7) |
-| Sat, 07 Feb 2026 12:54:00 GMT | Learning AppSec the Practical Way with DVWA | Kamal S | [Read More](https://medium.com/p/0971cbf82f42) |
-| Sat, 07 Feb 2026 12:51:19 GMT | Chaining OTP Bypass to Full Account Takeover | 0xShyron | [Read More](https://medium.com/p/67293b48ae28) |
-| Sat, 07 Feb 2026 12:49:09 GMT | Security by Design in 2026: A Practical, Scalable Framework for Secure App Development | EncryVia Official | [Read More](https://medium.com/p/e36c07fe8db2) |
-| Sat, 07 Feb 2026 12:43:31 GMT | Des tickets et un canapé… | Florent M | [Read More](https://medium.com/p/6f676fbe972c) |
