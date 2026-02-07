@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Feb 2026 09:27:52 GMT | Complete Guide To Cybersecurity - Definitions, Practices, Threats, Tech & Best Practices | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/fb5c0c06e337) |
+| Sat, 07 Feb 2026 09:11:17 GMT | Ottergram writeup (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/2f1b56ada4f2) |
+| Sat, 07 Feb 2026 09:08:33 GMT | Learn Hacking with CEH: From Basics to Real-World Security Skills | Ryan Brooks | [Read More](https://medium.com/p/35b0d9e73de0) |
+| Sat, 07 Feb 2026 09:07:38 GMT | Libra Security Services & Facility Management Services in Deira, Dubai — A Trusted Name in UAE | Libraseo freelancer | [Read More](https://medium.com/p/026a0c9725d7) |
+| Sat, 07 Feb 2026 09:06:00 GMT | Millions of Apple Pay Users Are in Danger from Sophisticated Phishing Scams | Mehdi BAFDIL | [Read More](https://medium.com/p/a3bdc8611794) |
+| Sat, 07 Feb 2026 09:04:04 GMT | ⚠️ $96,000 in Bitcoin GONE… until THIS happened ⚠️ | Gabe Martinez | [Read More](https://medium.com/p/cc7079494e2e) |
+| Sat, 07 Feb 2026 09:01:01 GMT | Bug Bounty Recon Shortcut: 3 Filters That Surface High-Value Credentials Fast | Alexandre Vandamme | [Read More](https://medium.com/p/d5810e7f6106) |
+| Sat, 07 Feb 2026 08:57:01 GMT | Love Is Seasonal | Sanflower | [Read More](https://medium.com/p/0bfa291a3877) |
+| Sat, 07 Feb 2026 08:51:08 GMT | The Rise of Hybrid PQTLS : Protect Your Data Today | Dileeban | [Read More](https://medium.com/p/c557be246fdf) |
+| Sat, 07 Feb 2026 08:46:18 GMT | Why Does the Feeling Grow, Yet Remain Unspoken? | Black Phoenix | [Read More](https://medium.com/p/eaa70e88abdf) |
+| Sat, 07 Feb 2026 08:42:48 GMT | I’m going’on? | Twoneightenine 34 | [Read More](https://medium.com/p/8695a86552ec) |
+| Sat, 07 Feb 2026 08:35:55 GMT | Locksmith Near Me in London: Reliable Local Help When Access Issues Occur | SE1 Locksmiths Ltd | [Read More](https://medium.com/p/ebc708c52ccc) |
+| Sat, 07 Feb 2026 08:30:16 GMT | Zero Trust Architecture Explained Simply | Intellibytes | [Read More](https://medium.com/p/bcc4ba4594c8) |
 | Sat, 07 Feb 2026 08:17:00 GMT | 403 Isn’t the End: Understanding Access Control Failures in Web Applications | ghostyjoe | [Read More](https://medium.com/p/dab64f79bdcb) |
 | Sat, 07 Feb 2026 08:11:01 GMT | General Security Concepts | Binesh gurung | [Read More](https://medium.com/p/3ce62383e615) |
 | Sat, 07 Feb 2026 08:04:03 GMT | What Is Quantum Error Correction? | Cynox Security LLP. | [Read More](https://medium.com/p/fd4d879755c1) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Feb 2026 20:16:09 GMT | Privilege Escalation: Hijacking an Organization via Billing Notifications | Mohamed Fathy | [Read More](https://medium.com/p/779bf34022ac) |
 | Fri, 06 Feb 2026 20:12:29 GMT | HTB_Academy: Skills Assessment — Web Fuzzing | Babatunde Ojo | [Read More](https://medium.com/p/9d0d1e800755) |
 | Fri, 06 Feb 2026 20:01:24 GMT | When Infrastructure Thinks for Itself: The Rise of Autonomous IT Operations | Mai Tran | [Read More](https://medium.com/p/adfda84992cb) |
-| Fri, 06 Feb 2026 20:00:44 GMT | Narcissistic Reward Patterns vs Real Intimacy: Learning to Receive Real Love | Huzaifa Awan | [Read More](https://medium.com/p/f3059889cc88) |
-| Fri, 06 Feb 2026 19:59:04 GMT | Cybersecurity Enters an Arms Race Era: When AI Fights AI in the New Digital Battlefield | Mai Tran | [Read More](https://medium.com/p/478f89b17c38) |
-| Fri, 06 Feb 2026 19:52:45 GMT | Culture: Culture, the Hidden “C” in GRC | Daniel | [Read More](https://medium.com/p/1ebdbeccdb5e) |
-| Fri, 06 Feb 2026 19:43:51 GMT | whichmobilez. com | 99techpost | [Read More](https://medium.com/p/bf052f801002) |
-| Fri, 06 Feb 2026 19:36:01 GMT | Why Enterprise Data Leaders Are Boarding on Microsoft Fabric | Karunakar Kotha | [Read More](https://medium.com/p/ede5b0f92dd6) |
-| Fri, 06 Feb 2026 19:24:48 GMT | How I Ran an OSINT Exercise on a Friend (With Full Consent)… | Jakub Bobkowski | [Read More](https://medium.com/p/f87b22ac5a84) |
-| Fri, 06 Feb 2026 19:23:30 GMT | CSRF Protection Done Wrong: Accepting Requests Without Tokens | Istiyak | [Read More](https://medium.com/p/f96708d39090) |
-| Fri, 06 Feb 2026 19:19:54 GMT | File InclusionVulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/2c133616990e) |
-| Fri, 06 Feb 2026 19:13:32 GMT | LinkCaster NOC — Multi-Network Media Forensics & Broadcast Monitoring POC | Sivakumar Palanikumar | [Read More](https://medium.com/p/ffe53f7b747e) |
-| Fri, 06 Feb 2026 19:08:33 GMT | Bug Bounty Programlarına Başlamaya Karar Verdim | Hakan ÇEVİK | [Read More](https://medium.com/p/c9d4a078f279) |
-| Fri, 06 Feb 2026 19:02:34 GMT | Hackviser: PasteZone Write-Up | Çağrı Karakuş | [Read More](https://medium.com/p/7b5aa9e8ad7f) |
-| Fri, 06 Feb 2026 19:02:04 GMT | How to Configure A VPN in Windows Server 2008 Using A Single LAN Card | Tarun Sehgal | [Read More](https://medium.com/p/d6649b3d125e) |
-| Fri, 06 Feb 2026 18:57:42 GMT | Why Your Law Firm Needs SOC 2 Type 2 Compliant IT for Law Firms Irvine | Technijian | [Read More](https://medium.com/p/767dd849e0ec) |
