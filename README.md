@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Feb 2026 22:39:10 GMT | Launching Your Career in Cybersecurity: A Comprehensive Guide | Muhammad Faizan | [Read More](https://medium.com/p/7844ad45f94c) |
+| Sat, 07 Feb 2026 22:34:43 GMT | The Last Fortress: Why AxonOS is Built on a Neural Bill of Rights Subtitle: In the era of BCI… | AxonOS | [Read More](https://medium.com/p/1ef49e808c5b) |
+| Sat, 07 Feb 2026 22:31:36 GMT | Business Continuity and Disaster Recovery Management | Bhavani Vk | [Read More](https://medium.com/p/1f1185dee02b) |
 | Sat, 07 Feb 2026 22:22:45 GMT | Cybersecurity versus Cyber Resilience | Bhavani Vk | [Read More](https://medium.com/p/eff0b372e210) |
 | Sat, 07 Feb 2026 22:02:46 GMT | I Encrypted a File on Linux — Here’s What I Learned About Real Security | Natasha Iyowe | [Read More](https://medium.com/p/5d9355fe7a60) |
 | Sat, 07 Feb 2026 21:43:59 GMT | How We Found 15 Vulnerabilities in a Mass Notification System Used by the Governments | Roberto Suggi Liverani | [Read More](https://medium.com/p/8b60bb711af5) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Feb 2026 14:34:10 GMT | Supply Chain Attacks: Pipe Under the Wall | Levente Simon | [Read More](https://medium.com/p/182bfb08bf4d) |
 | Sat, 07 Feb 2026 14:32:58 GMT | Checksum: How It Works, Why Developers Use It, and What Protection It Really Gives Against Hackers | Tokishi | [Read More](https://medium.com/p/d03132e1bb48) |
 | Sat, 07 Feb 2026 14:31:31 GMT | The Law and Stalking | Reed Delaue | [Read More](https://medium.com/p/1ca26d53897e) |
-| Sat, 07 Feb 2026 14:30:46 GMT | Part 2: How Tools Changed the Cost of Coordination | John Kump | [Read More](https://medium.com/p/86221e81d07d) |
-| Sat, 07 Feb 2026 14:28:56 GMT | Day 7: Simulating TCP Reconnaissance in My Cybersecurity Home Lab | Oluwatise Alao | [Read More](https://medium.com/p/b10ed692d4d5) |
-| Sat, 07 Feb 2026 14:26:44 GMT | Letters to an Unknown Writer 13 & 14 | Rick Allen | [Read More](https://medium.com/p/59f4d90eedb6) |
