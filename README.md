@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Feb 2026 05:17:17 GMT | Stop Wrestling With Your Code Editor: The Ultimate Guide to Choosing Your Python IDE in 2026 | RLEDUSKILLS | [Read More](https://medium.com/p/5c3e24db0e46) |
+| Sat, 07 Feb 2026 05:12:09 GMT | The Secret Life of Azure: The Function App With CEO Privileges | Aaron Rose | [Read More](https://medium.com/p/5366a0975953) |
+| Sat, 07 Feb 2026 05:08:11 GMT | When I Said Love Isn’t Unconditional, I Lied | Elisha Peterson | [Read More](https://medium.com/p/5502599b9fe4) |
+| Sat, 07 Feb 2026 04:56:00 GMT | The Corporate Survival Guide: Reclaiming Your Life | Kunal Palkar | [Read More](https://medium.com/p/a4af33152af0) |
+| Sat, 07 Feb 2026 04:48:47 GMT | Your AI Agent Has No Armor: A Technical Security Analysis of OpenClaw | JB Wagoner | [Read More](https://medium.com/p/3a49a913cd81) |
+| Sat, 07 Feb 2026 04:31:10 GMT | How to Win a Mature Woman’s Heart: Words That Work Better Than Sweet Talk | EdithTali | [Read More](https://medium.com/p/55398c4bf3fd) |
+| Sat, 07 Feb 2026 04:13:01 GMT | Proxies don’t fix Shopify by magic | Gabriele Wayner | [Read More](https://medium.com/p/0d30830a9c50) |
 | Sat, 07 Feb 2026 03:52:03 GMT | TryHackMe — FIXIT (Splunk Lab) Write-up | Mohamed-Mahmoud | [Read More](https://medium.com/p/e47a6fe07ffd) |
 | Sat, 07 Feb 2026 03:51:00 GMT | İçerideki Düşman: Yedekleme Yönetiminde “Sıfır Güven” (Zero Trust) Mimarisi | Fatih Yuksektepe | [Read More](https://medium.com/p/bb8e75294d93) |
 | Sat, 07 Feb 2026 03:47:14 GMT | WHAT "GOOD SECURITY" ACTUALLY MEANS IN WEB3 (Beyond Audits) | Miracle Barisi | [Read More](https://medium.com/p/2ce2715b24f8) |
@@ -106,10 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Feb 2026 17:06:17 GMT | Digital Feudalism: How Apple Became a Very Expensive Border Guard | Lumar VPN | [Read More](https://medium.com/p/a5f33b79bcb0) |
 | Fri, 06 Feb 2026 16:58:42 GMT | Menjelajahi Stack Server Bersama Coding Ceria X Penjelajah CyberSecurity | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/d94ed965f0d0) |
 | Fri, 06 Feb 2026 16:49:41 GMT | DIRB Tool: A Complete Guide to URL Directory Bruteforcing | Prince | [Read More](https://medium.com/p/e6dddd0ffdc2) |
-| Fri, 06 Feb 2026 16:46:10 GMT | HUMOR, TRUST, AND DIGITAL INTELLIGENCE: A MENTOR’S PERSPECTIVE | Tapan Kumar Saikia | [Read More](https://medium.com/p/fdc18b428c96) |
-| Fri, 06 Feb 2026 16:43:16 GMT | The Most Common Cybersecurity Mistakes Companies Still Make | Cordula Boeck | [Read More](https://medium.com/p/eb979dc2fced) |
-| Fri, 06 Feb 2026 16:39:37 GMT | Claude Finds 500 Bugs, OpenAI Optimizes Biology, and Loyalty Dies in the AI Era - The Daily Tech… | Souren Stepanyan | [Read More](https://medium.com/p/232cd213f122) |
-| Fri, 06 Feb 2026 16:30:12 GMT | How Do You Track and Manage Expirations at Scale? | Yajur | [Read More](https://medium.com/p/306dd94fe921) |
-| Fri, 06 Feb 2026 16:26:44 GMT | Unmasking 0APT: The Ransomware Group That Never Was | Owen F | [Read More](https://medium.com/p/3a0cbb42a732) |
-| Fri, 06 Feb 2026 16:24:52 GMT | A Cyber Security Roadmap 2026 by InferiorAK | InferiorAK | [Read More](https://medium.com/p/922106a1c72c) |
-| Fri, 06 Feb 2026 16:23:41 GMT | PortSwigger | Gopikrishnan S | [Read More](https://medium.com/p/ccef472ec055) |
