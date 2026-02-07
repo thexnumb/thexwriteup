@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Feb 2026 23:19:11 GMT | Quantum Vulnerabilities in Modern Cryptography | Bervice | [Read More](https://medium.com/p/f72839fde2e7) |
+| Sat, 07 Feb 2026 23:18:42 GMT | EtherNet/IP Industrial Protocol CTF Challenge HTB | Youssef El-Sibai | [Read More](https://medium.com/p/5339941df14b) |
+| Sat, 07 Feb 2026 23:15:52 GMT | The Hidden Security Risks of AI Tool Integrations: When Convenience Becomes Vulnerability | Bharathkannan | [Read More](https://medium.com/p/ff88a2861305) |
+| Sat, 07 Feb 2026 23:01:03 GMT | I’m New to Tech, but Entry-Level Jobs Aren’t | Miss Tarus | [Read More](https://medium.com/p/9792c40e1fda) |
+| Sat, 07 Feb 2026 22:56:35 GMT | The Truth About Modern Cyber Resilience Operations | Ricardo Newman | [Read More](https://medium.com/p/61472e8f4f12) |
+| Sat, 07 Feb 2026 22:54:42 GMT | AI Safety Concerns Rise as Testing Lags Behind Progress | Valentin Podkamennyi | [Read More](https://medium.com/p/c1055c5bba38) |
+| Sat, 07 Feb 2026 22:49:55 GMT | AI Uncovers 500 High-Severity Software Vulnerabilities | Valentin Podkamennyi | [Read More](https://medium.com/p/4dd63e6e5724) |
+| Sat, 07 Feb 2026 22:47:31 GMT | Multiple Vertical Broken Access Control Issues via Admin Functionality Leakage from Test… | Mahmoud Gamal | [Read More](https://medium.com/p/f714f48040a8) |
 | Sat, 07 Feb 2026 22:39:10 GMT | Launching Your Career in Cybersecurity: A Comprehensive Guide | Muhammad Faizan | [Read More](https://medium.com/p/7844ad45f94c) |
 | Sat, 07 Feb 2026 22:34:43 GMT | The Last Fortress: Why AxonOS is Built on a Neural Bill of Rights Subtitle: In the era of BCI… | AxonOS | [Read More](https://medium.com/p/1ef49e808c5b) |
 | Sat, 07 Feb 2026 22:31:36 GMT | Business Continuity and Disaster Recovery Management | Bhavani Vk | [Read More](https://medium.com/p/1f1185dee02b) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Feb 2026 15:09:21 GMT | Anatomy of a Trap: Dissecting a Webmail Phishing Campaign Powered by a PHP Backend and a Telegram… | Eleonora Ghiani | [Read More](https://medium.com/p/92c98e515306) |
 | Sat, 07 Feb 2026 14:59:04 GMT | 30 Days of Red Team: Day 22 — Active Directory Enumeration & BloodHound | Maxwell Cross | [Read More](https://medium.com/p/8240538d9edb) |
 | Sat, 07 Feb 2026 14:58:08 GMT | Virtualisation Basics - Tryhackme | Aaron | [Read More](https://medium.com/p/6ae6ccef59f9) |
-| Sat, 07 Feb 2026 14:55:18 GMT | The Six-Inch Gap | Kerstin Farmer | [Read More](https://medium.com/p/64a09880ffd5) |
-| Sat, 07 Feb 2026 14:48:07 GMT | Fixing the Web Together: The Role of Open Bug Bounty | Penough | [Read More](https://medium.com/p/f9fba997455b) |
-| Sat, 07 Feb 2026 14:36:01 GMT | How to Build Your Child’s Sense of Security: A Complete Parent’s Guide | Pitters Lare | [Read More](https://medium.com/p/cb61c0cf9afc) |
-| Sat, 07 Feb 2026 14:36:00 GMT | How to Get Your Ex Back: The Dao, Method, and Tools That Actually Work | Xiaochen | [Read More](https://medium.com/p/82c38be9dab8) |
-| Sat, 07 Feb 2026 14:34:20 GMT | SSRF PortSwigger Academy (Lab 3 Solution) | Ammar Ahmed | [Read More](https://medium.com/p/47819c0a0656) |
-| Sat, 07 Feb 2026 14:34:10 GMT | Supply Chain Attacks: Pipe Under the Wall | Levente Simon | [Read More](https://medium.com/p/182bfb08bf4d) |
-| Sat, 07 Feb 2026 14:32:58 GMT | Checksum: How It Works, Why Developers Use It, and What Protection It Really Gives Against Hackers | Tokishi | [Read More](https://medium.com/p/d03132e1bb48) |
-| Sat, 07 Feb 2026 14:31:31 GMT | The Law and Stalking | Reed Delaue | [Read More](https://medium.com/p/1ca26d53897e) |
