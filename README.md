@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Feb 2026 03:52:03 GMT | TryHackMe — FIXIT (Splunk Lab) Write-up | Mohamed-Mahmoud | [Read More](https://medium.com/p/e47a6fe07ffd) |
+| Sat, 07 Feb 2026 03:51:00 GMT | İçerideki Düşman: Yedekleme Yönetiminde “Sıfır Güven” (Zero Trust) Mimarisi | Fatih Yuksektepe | [Read More](https://medium.com/p/bb8e75294d93) |
+| Sat, 07 Feb 2026 03:47:14 GMT | WHAT "GOOD SECURITY" ACTUALLY MEANS IN WEB3 (Beyond Audits) | Miracle Barisi | [Read More](https://medium.com/p/2ce2715b24f8) |
+| Sat, 07 Feb 2026 03:36:21 GMT | The AI Gold Rush Gone Wrong | iswarya writes | [Read More](https://medium.com/p/c3c990b27710) |
+| Sat, 07 Feb 2026 03:31:00 GMT | When Trust Becomes a Vector: Inside the Malwarebytes Impersonation Infostealer Campaign | Deven Chhajed | [Read More](https://medium.com/p/adcd3ac89086) |
+| Sat, 07 Feb 2026 03:19:50 GMT | Everything Was Ready for Series A Until the Data Went Up for Sale | Bijay Limbu Senihang | [Read More](https://medium.com/p/ddbde1e180bb) |
+| Sat, 07 Feb 2026 03:15:50 GMT | TryHackMe — Traverse Room [en/es] | al1gn404 | [Read More](https://medium.com/p/43ffb9813f24) |
+| Sat, 07 Feb 2026 03:14:41 GMT | The Future of Home Entry: Why Automatic Gates are the New Standard for Singaporean Landed… | Enforce SG | [Read More](https://medium.com/p/95f62316a4ec) |
+| Sat, 07 Feb 2026 03:05:04 GMT | Don’t Burn the Kitchen: The GRC Guide to Business Mise-en-Place | Swetha Divakar - Chaotic_Jumbled_Mess | [Read More](https://medium.com/p/f8f28bd38774) |
+| Sat, 07 Feb 2026 02:59:42 GMT | The Most Dangerous Developers Aren’t The Worst Ones — They’re The Overconfident Ones | The Dev Notebook | [Read More](https://medium.com/p/a4b751ff65e2) |
+| Sat, 07 Feb 2026 02:37:16 GMT | Do You Really Need a VPN to Work Remotely? Most People Get It Wrong | Germain Mucyo | [Read More](https://medium.com/p/cd77ec966ff8) |
+| Sat, 07 Feb 2026 02:16:02 GMT | AI diploma vs traditional uni in Mexico | MUHAMMAD UZAIR | [Read More](https://medium.com/p/937e8ec8781c) |
 | Sat, 07 Feb 2026 02:00:13 GMT | Web Fuzzing: A Practical Testing Methodology | Israel Aráoz Severiche | [Read More](https://medium.com/p/1f24198e2ddc) |
 | Sat, 07 Feb 2026 01:59:42 GMT | Bug Bounty Recon for Everyone | Batuhan Aydın | [Read More](https://medium.com/p/220ae026a42c) |
 | Sat, 07 Feb 2026 01:37:01 GMT | Why “Spray and Pray” is Killing Your Cybersecurity Pipeline (and How to Fix It) | LeadAdvisors | [Read More](https://medium.com/p/4684f2b1e924) |
@@ -19,6 +31,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Feb 2026 01:01:01 GMT | How to tell if your bank account has been compromised | Samuel Brice | [Read More](https://medium.com/p/5885a3a2a8d0) |
 | Sat, 07 Feb 2026 00:50:49 GMT | WiFi Scanners and War Driving Explained | Raviteja Mureboina | [Read More](https://medium.com/p/31fa84611d70) |
 | Sat, 07 Feb 2026 00:38:55 GMT | Siber Olay Müdahale Süreçlerinde Otomasyon Yaklaşımı: Açık Kaynaklı, Low-Code Tabanlı Sürekli… | Ömer Turhan | [Read More](https://medium.com/p/9ea88cef570e) |
+| Sat, 07 Feb 2026 00:19:58 GMT | PortSwigger’s Top 10 Web Hacking Techniques of 2025 — A Deep Dive | Latent Breach | [Read More](https://medium.com/p/7cee5097c028) |
 | Sat, 07 Feb 2026 00:17:56 GMT | An Overthinker’s Manifesto | Su ☆ | [Read More](https://medium.com/p/b9c56d1b1370) |
 | Sat, 07 Feb 2026 00:03:27 GMT | RBAC mal usado es peor que no tener RBAC | Yhorby Matias | [Read More](https://medium.com/p/06d1a86118b6) |
 | Sat, 07 Feb 2026 00:02:23 GMT | The One Mistake Travelers Make on Public WiFi | Alex Brooks | [Read More](https://medium.com/p/d4883210ed08) |
@@ -100,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Feb 2026 16:26:44 GMT | Unmasking 0APT: The Ransomware Group That Never Was | Owen F | [Read More](https://medium.com/p/3a0cbb42a732) |
 | Fri, 06 Feb 2026 16:24:52 GMT | A Cyber Security Roadmap 2026 by InferiorAK | InferiorAK | [Read More](https://medium.com/p/922106a1c72c) |
 | Fri, 06 Feb 2026 16:23:41 GMT | PortSwigger | Gopikrishnan S | [Read More](https://medium.com/p/ccef472ec055) |
-| Fri, 06 Feb 2026 16:23:04 GMT | How Our Data Is Stolen Without Us Even Noticing | Bomi | [Read More](https://medium.com/p/50eebe9a1ff3) |
-| Fri, 06 Feb 2026 16:22:49 GMT | Wazuh + VirusTotal + Slack: Automated Threat Detection, Enrichment and Alerting | Aishat Olayinka Yusuf | [Read More](https://medium.com/p/300898b0f4fd) |
-| Fri, 06 Feb 2026 16:20:49 GMT | How I Learned Scrum by Actually Running Sprints (Not Watching Tutorials) | Love Chioma Ogujiofor | [Read More](https://medium.com/p/f29aa4a83eda) |
-| Fri, 06 Feb 2026 16:18:50 GMT | VULN (Very Unlikely a Low Number) | Malcolm Vella Vidal | [Read More](https://medium.com/p/312359342f20) |
-| Fri, 06 Feb 2026 16:17:49 GMT | Netwrix Usercube Episode 2: Architecture | Aimeric Pouga | [Read More](https://medium.com/p/ca675b64b951) |
-| Fri, 06 Feb 2026 16:14:42 GMT | Static Application Security Testing (SAST) | Anadi Chiransa | [Read More](https://medium.com/p/17ee4405d9aa) |
-| Fri, 06 Feb 2026 16:13:23 GMT | Top Security Threats in 2026 and How to Prevent Them | Teona | [Read More](https://medium.com/p/9f877c6b11f0) |
-| Fri, 06 Feb 2026 16:13:06 GMT | 身份驗證之戰：ShinyHunters 駭客聯盟與多因子驗證武器化的戰術演變研究報告 | jerrycho | [Read More](https://medium.com/p/c92c55816450) |
-| Fri, 06 Feb 2026 16:10:17 GMT | Securing Docker Daemon and API | Engineer Palsu | [Read More](https://medium.com/p/4a4c4c2d17e0) |
-| Fri, 06 Feb 2026 16:01:02 GMT | The Echo of What Is Not Said | Bruno Pimentel | [Read More](https://medium.com/p/643c53391466) |
-| Fri, 06 Feb 2026 15:55:03 GMT | crackme-py Picoctf Reverse Engineering | Aun Raza | [Read More](https://medium.com/p/42a425fdb656) |
-| Fri, 06 Feb 2026 15:48:08 GMT | Stop Guessing: How to Detect SSH Brute-Force Attacks with a Simple Python Script | Bakioui souhail | [Read More](https://medium.com/p/c1c555fc9145) |
-| Fri, 06 Feb 2026 15:42:29 GMT | How I Made $5,000 Overnight Using Cybersecurity Skills | Aland Dlshad (HexaPhp) | [Read More](https://medium.com/p/af6ff0b994a5) |
