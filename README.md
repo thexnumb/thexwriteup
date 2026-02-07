@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Feb 2026 21:43:59 GMT | How We Found 15 Vulnerabilities in a Mass Notification System Used by the Governments | Roberto Suggi Liverani | [Read More](https://medium.com/p/8b60bb711af5) |
+| Sat, 07 Feb 2026 21:39:37 GMT | The 2026 AI Security Report: Agents, Poison, and the Regulatory Cliff | B Carlos Tumushabe | [Read More](https://medium.com/p/06e51f082d24) |
 | Sat, 07 Feb 2026 21:25:25 GMT | Day 12: Accounts, Identity, & Authentication | Siddhesh Patil | [Read More](https://medium.com/p/15901e4dd66a) |
 | Sat, 07 Feb 2026 21:24:52 GMT | We Call It Social Engineering. Attackers Call It Research. | Madiha Sultana | [Read More](https://medium.com/p/a950103df619) |
 | Sat, 07 Feb 2026 21:22:06 GMT | Never Trust Just One Person With Your Crypto Keys Again: The Mathematical Magic Behind Shamir’s… | Emily Rose | [Read More](https://medium.com/p/a2e651e1c621) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Feb 2026 14:01:02 GMT | NestJS Auth in 2026: Stop Shipping Roles | Bhagya Rana | [Read More](https://medium.com/p/9f94d3a2c8b6) |
 | Sat, 07 Feb 2026 14:01:02 GMT | Redada en las oficinas de X en Francia mientras la investigación contra la red social avanza | Tiziano Mass | [Read More](https://medium.com/p/317b1142fa85) |
 | Sat, 07 Feb 2026 13:55:52 GMT | I’ve Managed Programs That Protect Millions of Players from Hackers and Here’s What Data Taught Me | Stephanie Chavez Alvarez | [Read More](https://medium.com/p/565041eb1a98) |
-| Sat, 07 Feb 2026 13:31:53 GMT | Post-Quantum is a Time-based Risk Problem — A Quick Readiness Assessment | Danish | [Read More](https://medium.com/p/53a96fe5cc39) |
-| Sat, 07 Feb 2026 13:31:01 GMT | n8n Governance: Power Without the Blast Radius | Duckweave | [Read More](https://medium.com/p/464969136fb8) |
