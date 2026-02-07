@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Feb 2026 19:31:11 GMT | The 4-Month Blind Spot: What the Substack Breach Really Means for Your Inbox | SOCFortress | [Read More](https://medium.com/p/844f536393f0) |
+| Sat, 07 Feb 2026 19:21:54 GMT | Arsenal disuasivo Español | Geoanalisis | [Read More](https://medium.com/p/8b44b60033a6) |
+| Sat, 07 Feb 2026 19:12:01 GMT | Three On-Chain Signals That Something Is Going Wrong Right Now | Exploitless | [Read More](https://medium.com/p/e31790cae704) |
 | Sat, 07 Feb 2026 19:07:39 GMT | TryHackMe — Shadow Trace Writeup | RK | [Read More](https://medium.com/p/23e33b3821af) |
 | Sat, 07 Feb 2026 19:05:01 GMT | TryHackMe — SOC Level 1 | RK | [Read More](https://medium.com/p/03181d4f9687) |
 | Sat, 07 Feb 2026 18:59:33 GMT | HTTP Header’ları | Songül Kızılay Özügürler | [Read More](https://medium.com/p/2cca90b0c841) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Feb 2026 12:35:21 GMT | Authorization Context Confusion | Hamit CİBO | [Read More](https://medium.com/p/3ee21bfbb903) |
 | Sat, 07 Feb 2026 12:30:24 GMT | When <template> isn’t a template: Alpine.js meets the SVG namespace | Stephen Carboni | [Read More](https://medium.com/p/a4576e935176) |
 | Sat, 07 Feb 2026 12:26:01 GMT | Before You Expose Your API to the World — Read This Azure Security Playbook | Lets Learn Now | [Read More](https://medium.com/p/ee12710a043a) |
-| Sat, 07 Feb 2026 12:25:54 GMT | Best Tor Search Engines in 2026: The Ones That Actually Work | Alexa V. | [Read More](https://medium.com/p/85987f57e2a7) |
-| Sat, 07 Feb 2026 12:22:12 GMT | ️ Discovered an XSS Vulnerability in Your Spring Boot App? | Lakshika | [Read More](https://medium.com/p/7269efd940a7) |
-| Sat, 07 Feb 2026 12:10:17 GMT | Following a RAT : Remcos Malware Analysis | Pannag Vivek | [Read More](https://medium.com/p/be5f9f15578d) |
