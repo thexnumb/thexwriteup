@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Feb 2026 16:21:47 GMT | What is L1, L2, L3, and L4 in Networking? (Beginner-Friendly Guide) | Shalu | [Read More](https://medium.com/p/8c5d1d2a8c78) |
+| Sat, 07 Feb 2026 16:17:19 GMT | Billing (TryHackMe) — CTF Write-up | Roshan Rajbanshi | [Read More](https://medium.com/p/e8ca469c9d9b) |
+| Sat, 07 Feb 2026 16:17:18 GMT | Blind OS Command Injection with Output Redirection | Bash Overflow | [Read More](https://medium.com/p/266bf702d288) |
+| Sat, 07 Feb 2026 16:16:21 GMT | Why Most People Learn Cybersecurity the Wrong Way | Amandogra | [Read More](https://medium.com/p/9c6be44c8f10) |
+| Sat, 07 Feb 2026 16:16:13 GMT | Look Before You Leap Into AI | ArnabSolutions | [Read More](https://medium.com/p/5b9d6968c67f) |
+| Sat, 07 Feb 2026 16:11:23 GMT | Docker Secrets & Environment Variables: Handling Sensitive Data the Right Way | Jagadeesh Kema | [Read More](https://medium.com/p/0eacb628b7d9) |
+| Sat, 07 Feb 2026 16:07:00 GMT | OpenClaw’s Security Nightmare: Lessons in Agentic Engineering Era | Nicolás Francisquelo Tacca | [Read More](https://medium.com/p/cf0e2d18ce7f) |
+| Sat, 07 Feb 2026 16:01:03 GMT | Least-Privilege Agents Without the UX Tax | Praxen | [Read More](https://medium.com/p/344de21968cb) |
+| Sat, 07 Feb 2026 16:01:01 GMT | Multi-Tenant NestJS: Stop Leaks Before They Start | Thinking Loop | [Read More](https://medium.com/p/15361ca576ab) |
+| Sat, 07 Feb 2026 16:01:01 GMT | How AI Super Bowl ads, Amazon’s spending, & Bitcoin’s slide expose where power, trust, & capital… | Qandeel Akhtar | [Read More](https://medium.com/p/2fce906c77f3) |
+| Sat, 07 Feb 2026 15:55:49 GMT | 0.CL Demistified : Ft. Portswigger Web Security Academy | Sandeep Singh Sethi | [Read More](https://medium.com/p/fb6413089991) |
+| Sat, 07 Feb 2026 15:55:12 GMT | Computer Networking (The Technical Side) | Îbrãhìm Sabir | [Read More](https://medium.com/p/ea8d448d65ed) |
+| Sat, 07 Feb 2026 15:53:33 GMT | Docker Image Vulnerabilities & Scanning: How Trivy Saves You From Production Incidents | Jagadeesh Kema | [Read More](https://medium.com/p/cb87b9631317) |
+| Sat, 07 Feb 2026 15:52:46 GMT | ​The Silent Screens: What I Discovered About Digital Safety and BNS 2023 | Tapan Kumar Saikia | [Read More](https://medium.com/p/8963e26868d7) |
+| Sat, 07 Feb 2026 15:48:44 GMT | Post 12: SDLC Phase 2 — Analysis and Design (Part 1) | Satti Data | [Read More](https://medium.com/p/5524ac28f75b) |
+| Sat, 07 Feb 2026 15:45:36 GMT | Why Companies Are Moving from Excel to OneStream | Niharikabora | [Read More](https://medium.com/p/4876779c5deb) |
+| Sat, 07 Feb 2026 15:45:16 GMT | The Rise of Threat Hunters: Proactive Defense Experts in Cybersecurity | Ferdi Edogawa | [Read More](https://medium.com/p/87a4a0b10381) |
+| Sat, 07 Feb 2026 15:45:08 GMT | I Solved an OhSint TryHackMe Challenge as a Beginner — Here’s Everything I learned | Cyberwithrustam | [Read More](https://medium.com/p/d3826f001a9f) |
 | Sat, 07 Feb 2026 15:26:01 GMT | The Notepad++ Hack: A Deep Dive Into a State-Sponsored Supply Chain Attack | Sohan Kanna D | [Read More](https://medium.com/p/6ca49b98a42c) |
 | Sat, 07 Feb 2026 15:25:33 GMT | Risk Isn’t Technical, It’s Personal | Ingrid rorez | [Read More](https://medium.com/p/fc7c8f09f849) |
 | Sat, 07 Feb 2026 15:18:21 GMT | I Built a Chrome Extension That Stops Malicious URLs Before You Click | H3NRY B41T | [Read More](https://medium.com/p/2febe69c5917) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Feb 2026 09:04:04 GMT | ⚠️ $96,000 in Bitcoin GONE… until THIS happened ⚠️ | Gabe Martinez | [Read More](https://medium.com/p/cc7079494e2e) |
 | Sat, 07 Feb 2026 09:01:01 GMT | Bug Bounty Recon Shortcut: 3 Filters That Surface High-Value Credentials Fast | Alexandre Vandamme | [Read More](https://medium.com/p/d5810e7f6106) |
 | Sat, 07 Feb 2026 08:57:01 GMT | Love Is Seasonal | Sanflower | [Read More](https://medium.com/p/0bfa291a3877) |
-| Sat, 07 Feb 2026 08:51:08 GMT | The Rise of Hybrid PQTLS : Protect Your Data Today | Dileeban | [Read More](https://medium.com/p/c557be246fdf) |
-| Sat, 07 Feb 2026 08:46:18 GMT | Why Does the Feeling Grow, Yet Remain Unspoken? | Black Phoenix | [Read More](https://medium.com/p/eaa70e88abdf) |
-| Sat, 07 Feb 2026 08:42:48 GMT | I’m going’on? | Twoneightenine 34 | [Read More](https://medium.com/p/8695a86552ec) |
-| Sat, 07 Feb 2026 08:35:55 GMT | Locksmith Near Me in London: Reliable Local Help When Access Issues Occur | SE1 Locksmiths Ltd | [Read More](https://medium.com/p/ebc708c52ccc) |
-| Sat, 07 Feb 2026 08:30:16 GMT | Zero Trust Architecture Explained Simply | Intellibytes | [Read More](https://medium.com/p/bcc4ba4594c8) |
-| Sat, 07 Feb 2026 08:17:00 GMT | 403 Isn’t the End: Understanding Access Control Failures in Web Applications | ghostyjoe | [Read More](https://medium.com/p/dab64f79bdcb) |
-| Sat, 07 Feb 2026 08:11:01 GMT | General Security Concepts | Binesh gurung | [Read More](https://medium.com/p/3ce62383e615) |
-| Sat, 07 Feb 2026 08:04:03 GMT | What Is Quantum Error Correction? | Cynox Security LLP. | [Read More](https://medium.com/p/fd4d879755c1) |
-| Sat, 07 Feb 2026 07:59:36 GMT | The Ghost in the Editor: 5 Surprising Truths Behind the Notepad++ Supply Chain Hijack | Tech Security | [Read More](https://medium.com/p/88b57a362c41) |
-| Sat, 07 Feb 2026 07:55:25 GMT | The Intent-Verification Gap in CI/CD: Why Authentication Fails Under Real Attacks | Kalyan Tamarapalli | [Read More](https://medium.com/p/64f5083d4155) |
-| Sat, 07 Feb 2026 07:42:18 GMT | Sysmon Mastery: 25 Rules You Should Deploy for Bulletproof Windows Logging | Very Lazy Tech | [Read More](https://medium.com/p/e3d03a376765) |
-| Sat, 07 Feb 2026 07:27:37 GMT | Better Device Safety Using Antivirus Software Protection | Siyanoav | [Read More](https://medium.com/p/a0fd89904530) |
-| Sat, 07 Feb 2026 07:27:31 GMT | Stop Storing Passwords Like It’s 1999: A Node.js + MySQL Wake-Up Call | Vasu G | [Read More](https://medium.com/p/a7d6e925149e) |
-| Sat, 07 Feb 2026 07:16:04 GMT | CISM vs CSCS™ vs SecurityX: Comparing Senior Cybersecurity Certifications | Lucia Adams | [Read More](https://medium.com/p/03cb9a439f35) |
-| Sat, 07 Feb 2026 07:01:03 GMT | Session Hijacking in Cloud Environments | Ankita Sinha | [Read More](https://medium.com/p/6bd6aa7d5019) |
-| Sat, 07 Feb 2026 07:01:03 GMT | Mailbox Rule Abuse | Ankita Sinha | [Read More](https://medium.com/p/d406ad1a751e) |
-| Sat, 07 Feb 2026 07:00:44 GMT | Vulnhub: Stapler CTF Walkthrough | d0natel00(KiroMoheb) | [Read More](https://medium.com/p/13fb09a7726b) |
-| Sat, 07 Feb 2026 06:53:02 GMT | #  Digital Forensics nədir? Hücumdan Sonra Həqiqəti Ortaya Çıxaran Kiber Elm | cybershieldy.com | [Read More](https://medium.com/p/c35a34ef4924) |
