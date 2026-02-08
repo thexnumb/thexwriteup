@@ -12,9 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Feb 2026 06:00:56 GMT | Máquina Ra THM | Ernesto Ramos | [Read More](https://medium.com/p/de2f8d54c358) |
+| Sun, 08 Feb 2026 05:59:04 GMT | Optimizing Network Security: The Everett and IAOZ Algorithms for ACL Management | Resma Adi Nugroho | [Read More](https://medium.com/p/26632c15210a) |
+| Sun, 08 Feb 2026 05:57:21 GMT | Writing and the Weight of the World | Amrita Tripathi | [Read More](https://medium.com/p/7f56efc86a55) |
+| Sun, 08 Feb 2026 05:41:58 GMT | Part 1 - The Persistent Vault Problem: Why Your Encryption Strategy Has a Shelf Life | PhantomKey Technologies | [Read More](https://medium.com/p/37aad3ea2540) |
+| Sun, 08 Feb 2026 05:35:23 GMT | Your Text Editor Was a Chinese Spy Tool for 6 Months (Here’s How They Did It) | Soumyadipta Birabar | [Read More](https://medium.com/p/319ca415e434) |
+| Sun, 08 Feb 2026 05:31:29 GMT | When AI Agents Start Talking to Each Other, Things Get Weird Fast | SOVANNARO | [Read More](https://medium.com/p/5b41154a813b) |
+| Sun, 08 Feb 2026 05:19:21 GMT | Did You Ever Regret Opening Up? | Noni | [Read More](https://medium.com/p/99c29f103655) |
+| Sun, 08 Feb 2026 05:16:09 GMT | The Awakening of Linux: How Your System Comes to Life | The Cyber Student | [Read More](https://medium.com/p/f1d600d8c9f7) |
+| Sun, 08 Feb 2026 05:10:14 GMT | Transparent Tribe and the Expanding Attack Surface of Indian Startups | Deven Chhajed | [Read More](https://medium.com/p/2dd2da9c3b03) |
+| Sun, 08 Feb 2026 05:01:04 GMT | How Strong Is Dropbox Password Security? Real Password Crack Time Analysis Using Modern GPU Models | Shreya Dutta | [Read More](https://medium.com/p/9eb7225abe52) |
 | Sun, 08 Feb 2026 04:59:27 GMT | mTLS: The “VIP Club” of Network Security (and how to implement it without crying) | Levente Csikor | [Read More](https://medium.com/p/d0824868f28d) |
 | Sun, 08 Feb 2026 04:50:00 GMT | DOM XSS Vulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/1197821f896c) |
 | Sun, 08 Feb 2026 04:46:47 GMT | Ever Stared Into the Abyss, Only For It To Stare Brighter Back? | Claudia G. Petersen | [Read More](https://medium.com/p/1170cc2933f7) |
+| Sun, 08 Feb 2026 04:34:13 GMT | C# Delegate：方法的「遙控器」 | 思維舞步 MindSteps | [Read More](https://medium.com/p/00cfd2dbfa34) |
 | Sun, 08 Feb 2026 04:31:12 GMT | JWT in Cookies vs LocalStorage — Which Is Safer? | Hasan Chinthaka | [Read More](https://medium.com/p/e74602144f3c) |
 | Sun, 08 Feb 2026 04:31:08 GMT | Why Accounting Firms Become Easy Targets | Victor Yan | [Read More](https://medium.com/p/ebd4c35d3156) |
 | Sun, 08 Feb 2026 04:31:01 GMT | Tool-Calling Agents Are Injection Magnets | Praxen | [Read More](https://medium.com/p/ef671dbc39dc) |
@@ -103,14 +114,3 @@ Cybercrime in South Africa has… | NumbWallaby | [Read More](https://medium.com
 | Sat, 07 Feb 2026 17:58:08 GMT | Cyber Threat Intelligence Platform Highlight: YETI | cyber_0xGambit | [Read More](https://medium.com/p/c801541e26ee) |
 | Sat, 07 Feb 2026 17:51:40 GMT | MY HACK STORY | Kevin Ronex | [Read More](https://medium.com/p/2f1a0a2d3b3a) |
 | Sat, 07 Feb 2026 17:44:50 GMT | How I Discovered My First IDOR Vulnerability (Step-by-Step) | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/f0fc0734f980) |
-| Sat, 07 Feb 2026 17:44:08 GMT | Sharding an existing MySQL database with ProxySQL | Rahul Shringarpure | [Read More](https://medium.com/p/4f084395d5e8) |
-| Sat, 07 Feb 2026 17:43:35 GMT | Android Broadcast Receivers: Threat Surface & Attacks | Hossam Shaalan | [Read More](https://medium.com/p/118d84aa8401) |
-| Sat, 07 Feb 2026 17:38:39 GMT | Attackers Don’t Break In Anymore, They Log In | Travis Ray Caverhill | [Read More](https://medium.com/p/5baeac67dc0c) |
-| Sat, 07 Feb 2026 17:37:34 GMT | From Nmap Scan to Exploit, Full Workflow (Beginner Ethical Hacking Lab Guide) | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/16de91b9b7a9) |
-| Sat, 07 Feb 2026 17:28:15 GMT | Building a Lightweight Web Security Scanner in Python | Danny Vargas - CyberSecurity Focus | [Read More](https://medium.com/p/74ab70b15932) |
-| Sat, 07 Feb 2026 17:20:40 GMT | Linux System Hardening Guide for DevOps & DevSecOps Beginners | Emmanuel Owusu-Addai | [Read More](https://medium.com/p/95517631ce10) |
-| Sat, 07 Feb 2026 17:18:44 GMT | Guide to Securing Corporate Enterprise Workstations | KSI Keyboards | [Read More](https://medium.com/p/bc11d1891345) |
-| Sat, 07 Feb 2026 17:14:36 GMT | INE / eJPT / Host & Network Penetration Testing: Post-Exploitation CTF 2 | Salihugurlu | [Read More](https://medium.com/p/13fc11db7272) |
-| Sat, 07 Feb 2026 17:10:41 GMT | Top 5 Security Vulnerabilities in Modern PHP Apps (That Your Security Scanner Missed) | Technology Diaries | [Read More](https://medium.com/p/a8b250db4ecd) |
-| Sat, 07 Feb 2026 17:05:54 GMT | Automate Your Server with AI: How OpenClaw Changes the Game | Md Anik Rahman | [Read More](https://medium.com/p/8efacb3da604) |
-| Sat, 07 Feb 2026 17:00:38 GMT | Counterintelligence Preparedness for the FIFA World Cup 2026 in the United States: Training, Threat… | Andrey Spiridonov | [Read More](https://medium.com/p/49ee1fc12e2c) |
