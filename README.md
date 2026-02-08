@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Feb 2026 11:34:41 GMT | SQL Injection Vulnerability -DVWA | Melih Yılmaz | [Read More](https://medium.com/p/de3a9ec657bf) |
+| Sun, 08 Feb 2026 11:31:24 GMT | Microsoft Is Retiring the Remote Desktop Client on March 27, 2026 | Allan Banday | [Read More](https://medium.com/p/cdf6fd0a42ca) |
+| Sun, 08 Feb 2026 11:25:17 GMT | AI Architect Journey — Beginner — Code Authorship Attribution System | Venkata Prasanna Kumar Gade | [Read More](https://medium.com/p/272ac8df0f78) |
+| Sun, 08 Feb 2026 11:23:05 GMT | Understanding Web Vulnerability Scanner & Web/CMS Vulnerability Identification in CyberSecurity | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/76cf3eee6436) |
 | Sun, 08 Feb 2026 11:17:52 GMT | How I Approach Bug Bounties in 2026 | Muhammad Haider Tallal | [Read More](https://medium.com/p/0cb3b986e584) |
 | Sun, 08 Feb 2026 11:17:24 GMT | Top 5 Data Classification Mistakes That Could Derail Your Data Security Strategy | Niyati Daftary | [Read More](https://medium.com/p/b9e61c922f38) |
 | Sun, 08 Feb 2026 11:11:44 GMT | Practical Network Security with DMZ and IDS | Pradeep Tarakar | [Read More](https://medium.com/p/106353e9ca81) |
@@ -110,8 +114,3 @@ We are… | Best Family Law Firm in Amman Jordan - Ahmed | [Read More](https://m
 | Sun, 08 Feb 2026 02:49:41 GMT | THIS AI Pentest CLI Broke My Targets In Minutes!!! | cybrNK | [Read More](https://medium.com/p/a54ac5d2ffe7) |
 | Sun, 08 Feb 2026 02:43:05 GMT | XSS leads to Infrastructure Compromise | Rahul Singh Chauhan | [Read More](https://medium.com/p/396945a701c1) |
 | Sun, 08 Feb 2026 02:42:06 GMT | Information Disclosure using URLScan Dorking | Abhirup Konwar | [Read More](https://medium.com/p/b92cda44bb03) |
-| Sun, 08 Feb 2026 02:42:02 GMT | 7 Ways to Recognize a Phishing Email in the Age of Artificial Intelligence | Emory French | [Read More](https://medium.com/p/df2a895a9048) |
-| Sun, 08 Feb 2026 02:41:41 GMT | Between Safety and Sovereignty | Tom Yonashiro | [Read More](https://medium.com/p/09028f125331) |
-| Sun, 08 Feb 2026 02:37:38 GMT | Behind the Breach: The Specialized Economy of SA Ransomware 
-Cybercrime in South Africa has… | NumbWallaby | [Read More](https://medium.com/p/718d38c75132) |
-| Sun, 08 Feb 2026 02:37:35 GMT | Walking the Ancient Paths: ️Rooting Legacy Infrastructure | Nicholas Mullenski | [Read More](https://medium.com/p/48a10435ba07) |
