@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Feb 2026 17:48:28 GMT | How to Secure OpenClaw Agents with A2SPA Using Pay As You Go Execution Authorizations | Jonathan Capriola | [Read More](https://medium.com/p/9d99b581982e) |
+| Sun, 08 Feb 2026 17:47:19 GMT | String Analysis using YARA (FlareVM) | Shahzaib Khan | [Read More](https://medium.com/p/744bceb6b66d) |
+| Sun, 08 Feb 2026 17:47:10 GMT | Try Hack Me- Chocolate Factory CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/b71b16753552) |
+| Sun, 08 Feb 2026 17:47:05 GMT | What is ethical hacking? | Kevin Ronex | [Read More](https://medium.com/p/3b81addd37fd) |
+| Sun, 08 Feb 2026 17:43:50 GMT | Program File Corrupt: The High Price of AI Hype | Chris Kilgore | [Read More](https://medium.com/p/ea2c76d69ec2) |
+| Sun, 08 Feb 2026 17:41:59 GMT | SQL Injection(Blind) Vulnerability -DVWA | Melih Yılmaz | [Read More](https://medium.com/p/9b70c10a5d4a) |
+| Sun, 08 Feb 2026 17:41:17 GMT | From Royal Workshops to Global Tech: Karnataka’s Continuous Revolution | Vish Krishna | [Read More](https://medium.com/p/5da155064619) |
+| Sun, 08 Feb 2026 17:38:44 GMT | Users of an Authentication System | Anton Minin Baranovskii | [Read More](https://medium.com/p/42b1546da138) |
+| Sun, 08 Feb 2026 17:35:26 GMT | CyberDefenders: AfricanFalls Lab Walkthrough | Omar Sherif | [Read More](https://medium.com/p/ca7bc76cbb6b) |
+| Sun, 08 Feb 2026 17:33:04 GMT | Why “Out of Scope” Doesn’t Always Mean “Out of Impact” | Iski | [Read More](https://medium.com/p/480fb894b74a) |
 | Sun, 08 Feb 2026 17:27:33 GMT | Lock Change & Property Security Support in Epping, VIC: Why On-Site Protection Matters | Group One Security Services Pty Ltd | [Read More](https://medium.com/p/7fb6447cfa01) |
+| Sun, 08 Feb 2026 17:26:05 GMT | Ransomware Çağında Veri Nasıl Korunur? | Taha Altın | [Read More](https://medium.com/p/cc0341ae2e66) |
+| Sun, 08 Feb 2026 17:19:50 GMT | How I Automated My Food Delivery Invoice Analysis (And Why Every GRC Professional Should Be… | Garima Kakkar | [Read More](https://medium.com/p/90f73f09cf83) |
 | Sun, 08 Feb 2026 17:17:13 GMT | Client-Server Basics - Tryhackme | Aaron | [Read More](https://medium.com/p/2365725dfb37) |
 | Sun, 08 Feb 2026 17:12:09 GMT | Der CTF ist einfach, aber nicht seine Auswirkungen | Abuelyazid Software | [Read More](https://medium.com/p/83e9aa171b71) |
 | Sun, 08 Feb 2026 17:10:54 GMT | Zero Trust in Kubernetes Is Not Just mTLS — And 99% of Production Clusters Are Getting It Wrong | Santosh Kumar Baruah | [Read More](https://medium.com/p/b6443cddffc1) |
@@ -100,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Feb 2026 10:12:20 GMT | Each of Us Can Defend Israel | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/882cb1f9c98e) |
 | Sun, 08 Feb 2026 10:06:18 GMT | What Actually Keeps Pre-Baked Container Images Secure | Anjali Priya | [Read More](https://medium.com/p/edcdf105a384) |
 | Sun, 08 Feb 2026 10:01:54 GMT | Understanding Incident Handling: A SOC Analyst’s View | Şervan Alkan | [Read More](https://medium.com/p/2689c44130d5) |
-| Sun, 08 Feb 2026 10:01:09 GMT | Non-Technical Cybersecurity Careers: A Complete Beginner’s Guide | Arjelynsagabunzo | [Read More](https://medium.com/p/e7a2fc38f6f2) |
-| Sun, 08 Feb 2026 10:01:00 GMT | Non-Technical Cybersecurity Careers: A Complete Beginner’s Guide | Victoria Coker | [Read More](https://medium.com/p/b0d2fcf11d84) |
-| Sun, 08 Feb 2026 09:58:26 GMT | I Don’t Need Your Password; I Have Your Trust | Systemic | [Read More](https://medium.com/p/419d3481f3f7) |
-| Sun, 08 Feb 2026 09:55:35 GMT | Discover the Thrilling World of “SkyRealm Adventures” – The Game You’ve Never Heard Of
-Introduction… | Gdjdnddhdjdn | [Read More](https://medium.com/p/a7b185c96601) |
-| Sun, 08 Feb 2026 09:53:06 GMT | Malware Roulette #1 — GachiLoader pt. 1 | bfake | [Read More](https://medium.com/p/84cba7e7cd17) |
-| Sun, 08 Feb 2026 09:34:50 GMT | DVWA: XSS otaqları | Farid Mehdiyev | [Read More](https://medium.com/p/044dd4daa454) |
-| Sun, 08 Feb 2026 09:33:26 GMT | How to Install OpenClaw Safely (VPS Setup + Security Checklist) | Hareem Fatima | [Read More](https://medium.com/p/4a68dc8c739a) |
-| Sun, 08 Feb 2026 09:23:36 GMT | Optimizing Web Performance with Proxies | Blanche X | [Read More](https://medium.com/p/c141328a87d4) |
-| Sun, 08 Feb 2026 09:18:55 GMT | Cryptology | Ali Kurt | [Read More](https://medium.com/p/7fc92b5a8ce6) |
-| Sun, 08 Feb 2026 09:01:04 GMT | Why Your Cyber Insurance Provider Wants Proof of Credential Monitoring | Alexandre Vandamme | [Read More](https://medium.com/p/fb5861304818) |
-| Sun, 08 Feb 2026 08:59:21 GMT | Brand-Name CISO vs. Trench CISO: Who Really Knows How to Sit at the Board Table? | Denny Roger | [Read More](https://medium.com/p/757924f38f7f) |
-| Sun, 08 Feb 2026 08:54:59 GMT | The Internet Knows You Better Than You Think | Akshaya Mary Lingala | [Read More](https://medium.com/p/9ac413e1f78d) |
