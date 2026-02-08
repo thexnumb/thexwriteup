@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Feb 2026 23:29:10 GMT | Intel SGX — Performance | Sören Langenberg | [Read More](https://medium.com/p/d06539cd375b) |
+| Sun, 08 Feb 2026 23:02:42 GMT | Why Verified Presence Matters in an AI-Mediated World | Verified Presence Protocol | [Read More](https://medium.com/p/83a2917b7db1) |
+| Sun, 08 Feb 2026 23:00:13 GMT | Digital Rights as the New Frontier of Human Rights | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/21d9abe6b7c3) |
 | Sun, 08 Feb 2026 22:43:04 GMT | m6 — Building an Operating System, 20 Years Later | Michele Preziuso | [Read More](https://medium.com/p/f99022ebcbf3) |
 | Sun, 08 Feb 2026 22:31:25 GMT | Cryptography Challenges — ZINAD x ITI Cyber Champion CTF 2026 | محمد بن إبراهيم | [Read More](https://medium.com/p/0930f9e5ffbe) |
 | Sun, 08 Feb 2026 22:27:04 GMT | How Online Platforms Accelerate Youth Radicalization | Vionë Dobërdoli | [Read More](https://medium.com/p/c59f4974d449) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Feb 2026 15:28:00 GMT | ZINAD Cyber Champion 2026 Crypto Write-up | shxsu1 | [Read More](https://medium.com/p/b2a4e21eef78) |
 | Sun, 08 Feb 2026 15:24:57 GMT | PascalCTF 2026 | 0x77 | [Read More](https://medium.com/p/353e78ea9c87) |
 | Sun, 08 Feb 2026 15:21:25 GMT | The Enemy in Your Pocket: Why Global Intelligence is Failing the Telegram War | Ben Amsalo | [Read More](https://medium.com/p/4d94e1ab91dc) |
-| Sun, 08 Feb 2026 15:05:12 GMT | Sonic Go Brrr: Web Security Challenge by Cypertalants | Z3DX | [Read More](https://medium.com/p/9ac1f7affb2c) |
-| Sun, 08 Feb 2026 15:02:54 GMT | Plant Cybersecurity and AI Systems: Why Explainability Is the Most Reliable Forensics Tool | Michael W Barnett, Ph.D. | [Read More](https://medium.com/p/310d34fc4812) |
-| Sun, 08 Feb 2026 15:02:34 GMT | How to Ensure Your VPN Is Actually Protecting Your Privacy | Panos Karagiannis | [Read More](https://medium.com/p/477b7fdd8eab) |
