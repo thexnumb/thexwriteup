@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Feb 2026 21:45:11 GMT | When an IoT Network Looks Healthy but Isn’t: Observing a Selective Forwarding Attack | Shreya Gajjar | [Read More](https://medium.com/p/a1c1c4882fb0) |
+| Sun, 08 Feb 2026 21:43:58 GMT | TryHackMe Write-up: Digital Footprint | Zohal | [Read More](https://medium.com/p/ef48f0ff1f5f) |
+| Sun, 08 Feb 2026 21:40:42 GMT | Generative AI for Business # 95: Super Bowl edition | Eugina Jordan | [Read More](https://medium.com/p/1ca15ca398f9) |
+| Sun, 08 Feb 2026 21:32:12 GMT | The Spectrum of Inner Maturity — Combination Essays | Habil Lokadjaja CFP | [Read More](https://medium.com/p/4664ae9b585a) |
+| Sun, 08 Feb 2026 21:25:10 GMT | How I Built an AI-Powered IaC Security Scanner From Scratch — 100+ Rules, 9 Compliance Frameworks… | Nirbhay Singh | [Read More](https://medium.com/p/ae4cbf114f2a) |
 | Sun, 08 Feb 2026 21:06:19 GMT | Simplicity Drives Security | Jorge Farinacci | [Read More](https://medium.com/p/9bfd9a5244a5) |
 | Sun, 08 Feb 2026 21:05:26 GMT | “Behind The Mask” Tryhackme CTF Walkthrough | Nicatquluzadex | [Read More](https://medium.com/p/e47deadf2b18) |
 | Sun, 08 Feb 2026 21:02:00 GMT | Wgel CTF Walkthrough [Try Hack Me] : | Amrou bekhedda | [Read More](https://medium.com/p/77a0fd0f7052) |
@@ -108,8 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Feb 2026 14:29:45 GMT | The Infrastructure of Intent: 6 Software Trends Defining 2026 (Part 2) | Dilip Varma | [Read More](https://medium.com/p/85549e82da82) |
 | Sun, 08 Feb 2026 14:21:58 GMT | Why Can’t We Be Seagulls? | Author Black Phoenix | [Read More](https://medium.com/p/150cf1bd82dc) |
 | Sun, 08 Feb 2026 14:20:34 GMT | Mükemmel Kodun Peşinde: Siber Güvenlikte ‘İnsani’ Yanılgılarımız | Umut Baran Yavuz | [Read More](https://medium.com/p/5fcb4bc8a7d5) |
-| Sun, 08 Feb 2026 14:13:14 GMT | Why the First Step in a Breach Is Not the Problem | CyberKayVon | [Read More](https://medium.com/p/5cbea93b9bd6) |
-| Sun, 08 Feb 2026 14:07:00 GMT | Zero to SaaS 01: Let’s FINALLY understand Docker | Niklas Heringer | [Read More](https://medium.com/p/7ebfe06edd75) |
-| Sun, 08 Feb 2026 14:06:17 GMT | A House and A Home | bysera | [Read More](https://medium.com/p/c1fb13e5e28e) |
-| Sun, 08 Feb 2026 14:01:01 GMT | How to Self-Host Vaultwarden Securely Using Cloudflare Tunnel (No Public IP Needed) | Rupesh Sharma | [Read More](https://medium.com/p/4f3130abce54) |
-| Sun, 08 Feb 2026 13:46:38 GMT | Understanding Direct Syscalls in Windows | Yua Mikanana | [Read More](https://medium.com/p/0704eca0c6d2) |
