@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Feb 2026 21:06:19 GMT | Simplicity Drives Security | Jorge Farinacci | [Read More](https://medium.com/p/9bfd9a5244a5) |
+| Sun, 08 Feb 2026 21:05:26 GMT | “Behind The Mask” Tryhackme CTF Walkthrough | Nicatquluzadex | [Read More](https://medium.com/p/e47deadf2b18) |
+| Sun, 08 Feb 2026 21:02:00 GMT | Wgel CTF Walkthrough [Try Hack Me] : | Amrou bekhedda | [Read More](https://medium.com/p/77a0fd0f7052) |
+| Sun, 08 Feb 2026 20:54:34 GMT | Ransomware Recovery Plan Failures: Why Backups Don’t Guarantee Recovery | Shield Identity | [Read More](https://medium.com/p/8447a9b797ba) |
+| Sun, 08 Feb 2026 20:49:48 GMT | Three Ways To Pivot from Server-A to Server-B via Winrm | DuckWrites | [Read More](https://medium.com/p/e15707920b3f) |
+| Sun, 08 Feb 2026 20:47:41 GMT | Why You Should Never Use AES for Browser-Based Encryption (And What to Use Instead) | Emily Rose | [Read More](https://medium.com/p/37c9b4e5bb64) |
+| Sun, 08 Feb 2026 20:41:47 GMT | httpx: Turning Subdomains into Attack Surface | ghostyjoe | [Read More](https://medium.com/p/24f5dee7750d) |
+| Sun, 08 Feb 2026 20:39:54 GMT | My Journey Into Cloud Security: Learning IAM, SOC, and Detection Engineering | Victor Olawale | [Read More](https://medium.com/p/93ecec6c3ba5) |
+| Sun, 08 Feb 2026 20:37:28 GMT | I Eliminated Quarterly Access Reviews From My Cloud Environment. Here’s How. | Volodymyr Usov | [Read More](https://medium.com/p/8055927c4564) |
+| Sun, 08 Feb 2026 20:36:25 GMT | Threat Hunting Starts With Curiosity Ft. Harshil | DE&TH Diaries | [Read More](https://medium.com/p/947d6776d180) |
+| Sun, 08 Feb 2026 20:32:36 GMT | Enterprise Risk Analysis: OpenClaw (Clawdbot/Moltbot) | Nomit Vyas | [Read More](https://medium.com/p/7688777f777c) |
 | Sun, 08 Feb 2026 20:17:41 GMT | Security Leaders Must Design for the Outlier | Jesse Nelson | [Read More](https://medium.com/p/e13527dde67e) |
 | Sun, 08 Feb 2026 19:55:31 GMT | THM: Mr Robot CTF Walkthrough | Abhay Ingale | [Read More](https://medium.com/p/32ef537e0072) |
 | Sun, 08 Feb 2026 19:49:24 GMT | Low Hanging Fruits in Bug Bounty — Easy Bugs That Still Have Real Impact | Anshkamra | [Read More](https://medium.com/p/b4912c314685) |
@@ -102,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Feb 2026 14:06:17 GMT | A House and A Home | bysera | [Read More](https://medium.com/p/c1fb13e5e28e) |
 | Sun, 08 Feb 2026 14:01:01 GMT | How to Self-Host Vaultwarden Securely Using Cloudflare Tunnel (No Public IP Needed) | Rupesh Sharma | [Read More](https://medium.com/p/4f3130abce54) |
 | Sun, 08 Feb 2026 13:46:38 GMT | Understanding Direct Syscalls in Windows | Yua Mikanana | [Read More](https://medium.com/p/0704eca0c6d2) |
-| Sun, 08 Feb 2026 13:42:47 GMT | Tryhackme: Gaming Server write up | Mggmes | [Read More](https://medium.com/p/062199f238ff) |
-| Sun, 08 Feb 2026 13:37:17 GMT | Nano-Technology’s Integration with Cybersecurity | Brandon Roach | [Read More](https://medium.com/p/a379a9fba0ed) |
-| Sun, 08 Feb 2026 13:35:41 GMT | Net-Zero Apartment Multi-Zone Thermostats: Revolutionizing Energy Management in Modern Living… | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/5f4f877e3c0d) |
-| Sun, 08 Feb 2026 13:25:45 GMT | How I Migrated from Supabase Auth to NextAuth for Custom Branding (Without Breaking Security) | Ali Zaib | [Read More](https://medium.com/p/4d9b0c1e99eb) |
-| Sun, 08 Feb 2026 13:23:58 GMT | Shift Left Became “Thrown Left” | Xiaoning Sun | [Read More](https://medium.com/p/220c20c5454d) |
-| Sun, 08 Feb 2026 13:12:41 GMT | Welcome to the United States of Paranoia | The Accidental Cowboy | [Read More](https://medium.com/p/bdbb5caec3b6) |
-| Sun, 08 Feb 2026 13:12:27 GMT | That funny media source is not alone | Thidas Senavirathna | [Read More](https://medium.com/p/d3b48ddf48ad) |
-| Sun, 08 Feb 2026 13:11:03 GMT | Phishing Is Human Hacking: Why Attackers Target People First | Jdcatarina | [Read More](https://medium.com/p/97093ef72999) |
-| Sun, 08 Feb 2026 13:06:54 GMT | Auto Mati On? Automasi? Autosomasi-On? | Mahesesa | [Read More](https://medium.com/p/ead220e31134) |
-| Sun, 08 Feb 2026 13:05:21 GMT | VirusTotal Livehunt Cheat Sheet | Nazrul Islam Rana | [Read More](https://medium.com/p/a13fe61feae6) |
-| Sun, 08 Feb 2026 13:04:04 GMT | MSI Laptop Is Redefining Gaming in 2026 — And No One Is Talking About Its Real Value Yet | techcirclehub | [Read More](https://medium.com/p/4282e2872c76) |
