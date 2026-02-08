@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Feb 2026 12:37:05 GMT | SOC302 — Suspicious Base64 Encoding/Decoding Commands Detected | CipherX9F Security | [Read More](https://medium.com/p/a50488257fa0) |
+| Sun, 08 Feb 2026 12:35:37 GMT | Boiler CTF | Parvathy P Joshy | [Read More](https://medium.com/p/de9c54761a76) |
+| Sun, 08 Feb 2026 12:34:52 GMT | On Choosing Someone Without Guarantees | TheycallmeMG | [Read More](https://medium.com/p/b58ca9be2a44) |
+| Sun, 08 Feb 2026 12:33:00 GMT | I Didn’t Just Connect the Files — I Connected Responsibility | Mir Shahzad | [Read More](https://medium.com/p/517bd0ccf1ea) |
+| Sun, 08 Feb 2026 12:29:15 GMT | Good News Sunday: it’s complicated. | Gerald Maria Dekkers | [Read More](https://medium.com/p/692e03bc8e52) |
+| Sun, 08 Feb 2026 12:21:01 GMT | How AI Became My Reporting Partner in Security Research | Asjad Butt | [Read More](https://medium.com/p/47e0cf2553fe) |
+| Sun, 08 Feb 2026 12:01:01 GMT | Moltbook Could Have Been Better | Suchitra Malimbada | [Read More](https://medium.com/p/9743adea008d) |
+| Sun, 08 Feb 2026 11:50:36 GMT | Fancy Bear’s Latest Trick: How APT28 is Using Quantum-Era Encryption to Evade Your Firewall | Bright Boateng | [Read More](https://medium.com/p/68f655a44a0b) |
+| Sun, 08 Feb 2026 11:39:32 GMT | How Copilot Studio Handles Data Security and Governance | Pratyusha Thumiki | [Read More](https://medium.com/p/9e41762b2abc) |
 | Sun, 08 Feb 2026 11:34:41 GMT | SQL Injection Vulnerability -DVWA | Melih Yılmaz | [Read More](https://medium.com/p/de3a9ec657bf) |
 | Sun, 08 Feb 2026 11:31:24 GMT | Microsoft Is Retiring the Remote Desktop Client on March 27, 2026 | Allan Banday | [Read More](https://medium.com/p/cdf6fd0a42ca) |
 | Sun, 08 Feb 2026 11:25:17 GMT | AI Architect Journey — Beginner — Code Authorship Attribution System | Venkata Prasanna Kumar Gade | [Read More](https://medium.com/p/272ac8df0f78) |
@@ -105,12 +114,3 @@ Introduction… | Gdjdnddhdjdn | [Read More](https://medium.com/p/a7b185c96601) 
 | Sun, 08 Feb 2026 04:22:05 GMT | Causes of Divorce… Its Collapse Begins in Societal Awareness, Ethics, and Upbringing 
 We are… | Best Family Law Firm in Amman Jordan - Ahmed | [Read More](https://medium.com/p/3c32f4224019) |
 | Sun, 08 Feb 2026 04:03:15 GMT | IT departments are drowning in waste. | Nick Bock | [Read More](https://medium.com/p/37c3d135f780) |
-| Sun, 08 Feb 2026 03:58:41 GMT | What the Epstein Files Teach Us About Digital Forensics and Document Authenticity | Abdul-mu'min Omotola | [Read More](https://medium.com/p/5219982f23b9) |
-| Sun, 08 Feb 2026 03:52:54 GMT | IDOR in Purchase Order Cancellation Allows Unauthorized Users to Cancel Other Users’ POs | Abu Idris Al-Muhaqqiq | [Read More](https://medium.com/p/bb9cbf4f7548) |
-| Sun, 08 Feb 2026 03:50:02 GMT | Cybersecurity Act 2: A New Architecture for EU Cyber Resilience | Viktor Davydych | [Read More](https://medium.com/p/f35960ffc903) |
-| Sun, 08 Feb 2026 03:49:00 GMT | İstənilən telefon fəaliyyətinin izlənilməsi:careless whisper | gearheader | [Read More](https://medium.com/p/047dff107190) |
-| Sun, 08 Feb 2026 03:47:28 GMT | Why Sports Movies Always Get Me | Steve Longinidis | [Read More](https://medium.com/p/e57b980c4118) |
-| Sun, 08 Feb 2026 02:56:13 GMT | SSRF > IMDS > IAM: Breaking Down a Real Cloud Attack Chain in AWS | Tyreek Haynes | [Read More](https://medium.com/p/f28c04421512) |
-| Sun, 08 Feb 2026 02:49:41 GMT | THIS AI Pentest CLI Broke My Targets In Minutes!!! | cybrNK | [Read More](https://medium.com/p/a54ac5d2ffe7) |
-| Sun, 08 Feb 2026 02:43:05 GMT | XSS leads to Infrastructure Compromise | Rahul Singh Chauhan | [Read More](https://medium.com/p/396945a701c1) |
-| Sun, 08 Feb 2026 02:42:06 GMT | Information Disclosure using URLScan Dorking | Abhirup Konwar | [Read More](https://medium.com/p/b92cda44bb03) |
