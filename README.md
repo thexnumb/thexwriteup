@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Feb 2026 09:23:36 GMT | Optimizing Web Performance with Proxies | Blanche X | [Read More](https://medium.com/p/c141328a87d4) |
+| Sun, 08 Feb 2026 09:18:55 GMT | Cryptology | Ali Kurt | [Read More](https://medium.com/p/7fc92b5a8ce6) |
+| Sun, 08 Feb 2026 09:01:04 GMT | Why Your Cyber Insurance Provider Wants Proof of Credential Monitoring | Alexandre Vandamme | [Read More](https://medium.com/p/fb5861304818) |
+| Sun, 08 Feb 2026 08:59:21 GMT | Brand-Name CISO vs. Trench CISO: Who Really Knows How to Sit at the Board Table? | Denny Roger | [Read More](https://medium.com/p/757924f38f7f) |
+| Sun, 08 Feb 2026 08:54:59 GMT | The Internet Knows You Better Than You Think | Akshaya Mary Lingala | [Read More](https://medium.com/p/9ac413e1f78d) |
+| Sun, 08 Feb 2026 08:54:36 GMT | 7 Urgent Patches: Android Security Bulletin February 2026 | Pentest_Testing_Corp | [Read More](https://medium.com/p/6431b63f0090) |
+| Sun, 08 Feb 2026 08:50:13 GMT | Provably Fair in Crypto Casinos: What It Really Means (And What Most Players Get Wrong) | Adam Green | [Read More](https://medium.com/p/edba8685b099) |
+| Sun, 08 Feb 2026 08:44:02 GMT | AI Security with Aadi - Beyond the Jailbreak: “Prompt Injection in Action” | Aadi Yr | [Read More](https://medium.com/p/8f34f30a8c5c) |
+| Sun, 08 Feb 2026 08:41:47 GMT | SQL Injection ile Gizli Verileri Elde Etmek — WHERE Clause Exploit (Adim Adim) | telix | [Read More](https://medium.com/p/24c49d3aa8ee) |
+| Sun, 08 Feb 2026 08:41:00 GMT | Day 10 Understanding Attack Structure: Reconnaissance — How Attacks Really Begin | NineTales | [Read More](https://medium.com/p/d35ef6f7f29a) |
+| Sun, 08 Feb 2026 08:36:00 GMT | The Algorithm of Alienation: A Future of Surrendering the Wheel? | Namir Sagheenanajar | [Read More](https://medium.com/p/33bd21991306) |
 | Sun, 08 Feb 2026 08:30:35 GMT | HOW TO PREPARE FOR THE END OF THE WORLD | Dilara Enes, RPh. | [Read More](https://medium.com/p/c0b394c1b46f) |
 | Sun, 08 Feb 2026 08:17:54 GMT | nuclei Without Noise: A Practical Guide | ghostyjoe | [Read More](https://medium.com/p/14274be7ab70) |
 | Sun, 08 Feb 2026 08:14:06 GMT | auth-aware deception with trappsec | Nikhil Salgaonkar | [Read More](https://medium.com/p/17eabc0b7e76) |
@@ -103,14 +114,3 @@ Cybercrime in South Africa has… | NumbWallaby | [Read More](https://medium.com
 | Sat, 07 Feb 2026 22:22:45 GMT | Cybersecurity versus Cyber Resilience | Bhavani Vk | [Read More](https://medium.com/p/eff0b372e210) |
 | Sat, 07 Feb 2026 22:02:46 GMT | I Encrypted a File on Linux — Here’s What I Learned About Real Security | Natasha Iyowe | [Read More](https://medium.com/p/5d9355fe7a60) |
 | Sat, 07 Feb 2026 21:43:59 GMT | How We Found 15 Vulnerabilities in a Mass Notification System Used by the Governments | Roberto Suggi Liverani | [Read More](https://medium.com/p/8b60bb711af5) |
-| Sat, 07 Feb 2026 21:39:37 GMT | The 2026 AI Security Report: Agents, Poison, and the Regulatory Cliff | B Carlos Tumushabe | [Read More](https://medium.com/p/06e51f082d24) |
-| Sat, 07 Feb 2026 21:25:25 GMT | Day 12: Accounts, Identity, & Authentication | Siddhesh Patil | [Read More](https://medium.com/p/15901e4dd66a) |
-| Sat, 07 Feb 2026 21:24:52 GMT | We Call It Social Engineering. Attackers Call It Research. | Madiha Sultana | [Read More](https://medium.com/p/a950103df619) |
-| Sat, 07 Feb 2026 21:22:06 GMT | Never Trust Just One Person With Your Crypto Keys Again: The Mathematical Magic Behind Shamir’s… | Emily Rose | [Read More](https://medium.com/p/a2e651e1c621) |
-| Sat, 07 Feb 2026 21:20:47 GMT | Your Encryption Is Useless Without This! | Ridwanul Alam | [Read More](https://medium.com/p/00e58f8fba68) |
-| Sat, 07 Feb 2026 21:12:11 GMT | Building File Uploads That Handle 10 GB fin Seconds with Spring Boot and TUS | Naveenmittal | [Read More](https://medium.com/p/0184e40f75bf) |
-| Sat, 07 Feb 2026 21:11:54 GMT | Microsoft appointed a quality czar. He has no direct reports and no budget. | JP Caparas | [Read More](https://medium.com/p/ab75cef97954) |
-| Sat, 07 Feb 2026 20:46:39 GMT | Some Android Apps Are Doing More Harm Than Good in 2026 | Iamadityayogi | [Read More](https://medium.com/p/52cbf7ba0a7a) |
-| Sat, 07 Feb 2026 20:44:31 GMT | The IT department as a strategic driver of the business | Gian Luca Vanoli | [Read More](https://medium.com/p/80705ef20bc7) |
-| Sat, 07 Feb 2026 20:43:21 GMT | Understanding Active Darkweb Markets in 2025 | Tor BBB | [Read More](https://medium.com/p/14cba9da11cd) |
-| Sat, 07 Feb 2026 20:42:33 GMT | Email Security, Audits, and the Gap Between Compliance and Real-World Risk | Rishi Patidar | [Read More](https://medium.com/p/7583b1b79988) |
