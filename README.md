@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Feb 2026 22:43:04 GMT | m6 — Building an Operating System, 20 Years Later | Michele Preziuso | [Read More](https://medium.com/p/f99022ebcbf3) |
+| Sun, 08 Feb 2026 22:31:25 GMT | Cryptography Challenges — ZINAD x ITI Cyber Champion CTF 2026 | محمد بن إبراهيم | [Read More](https://medium.com/p/0930f9e5ffbe) |
+| Sun, 08 Feb 2026 22:27:04 GMT | How Online Platforms Accelerate Youth Radicalization | Vionë Dobërdoli | [Read More](https://medium.com/p/c59f4974d449) |
+| Sun, 08 Feb 2026 22:20:49 GMT | From Raw Logs to Security Detections: A SOC Approach | Aarushi Mishra | [Read More](https://medium.com/p/3fd21fdf60cd) |
 | Sun, 08 Feb 2026 22:18:22 GMT | The Smurf Attack: Turning Your Network Against You | Shravan B J | [Read More](https://medium.com/p/3acfd0a5703a) |
 | Sun, 08 Feb 2026 22:12:21 GMT | Stop Blue Screens, Random Reboots, and Windows Damage | Geoffrey Wenger | [Read More](https://medium.com/p/5e0b3193736b) |
 | Sun, 08 Feb 2026 22:12:04 GMT | The Bug Hunter’s Secret Weapon | mohandika | [Read More](https://medium.com/p/2d8e13701505) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Feb 2026 15:05:12 GMT | Sonic Go Brrr: Web Security Challenge by Cypertalants | Z3DX | [Read More](https://medium.com/p/9ac1f7affb2c) |
 | Sun, 08 Feb 2026 15:02:54 GMT | Plant Cybersecurity and AI Systems: Why Explainability Is the Most Reliable Forensics Tool | Michael W Barnett, Ph.D. | [Read More](https://medium.com/p/310d34fc4812) |
 | Sun, 08 Feb 2026 15:02:34 GMT | How to Ensure Your VPN Is Actually Protecting Your Privacy | Panos Karagiannis | [Read More](https://medium.com/p/477b7fdd8eab) |
-| Sun, 08 Feb 2026 14:57:01 GMT | Your Sensitive Data Is at Risk — Here’s How Envelope Encryption with AWS KMS Can Save It | Haridharan K A | [Read More](https://medium.com/p/9f2bdfef7f3e) |
-| Sun, 08 Feb 2026 14:53:45 GMT | Renovating old iOS projects | Sergii Koval | [Read More](https://medium.com/p/78083c0d56f7) |
-| Sun, 08 Feb 2026 14:46:38 GMT | Best Bike Lock for E-Bike: Top 5 U-Locks You Can Trust in 2026 | Narjis Arshad | [Read More](https://medium.com/p/bee14ca3a87f) |
-| Sun, 08 Feb 2026 14:44:59 GMT | 15 Top Open-Source Intelligence Tools | Nik | [Read More](https://medium.com/p/48a9f9c6b6c2) |
