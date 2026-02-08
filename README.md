@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Feb 2026 19:27:34 GMT | Running on Empty | Landivola | [Read More](https://medium.com/p/faf6916e8543) |
+| Sun, 08 Feb 2026 19:26:55 GMT | Decision Latency Under Pressure. 9 Traps That Turn Smart Leaders Into a Slow Committee | Tyson Martin | [Read More](https://medium.com/p/3e2efde90286) |
 | Sun, 08 Feb 2026 19:20:51 GMT | Spring Boot JWT Role-Based Authentication with MongoDB: Building a Book Store Application | Matheshyogeswaran | [Read More](https://medium.com/p/66197ff76c01) |
 | Sun, 08 Feb 2026 19:14:53 GMT | Zinad IT Cyber Champions CTF - Reverse Engineering Writeup | Nyx0r | [Read More](https://medium.com/p/57383c4abb08) |
 | Sun, 08 Feb 2026 19:14:00 GMT | Your Data and Passwords Are Already for Sale. Here’s What to Do About It. | Adam Baitch | [Read More](https://medium.com/p/e8bf3a94390f) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Feb 2026 12:37:05 GMT | SOC302 — Suspicious Base64 Encoding/Decoding Commands Detected | CipherX9F Security | [Read More](https://medium.com/p/a50488257fa0) |
 | Sun, 08 Feb 2026 12:35:37 GMT | Boiler CTF | Parvathy P Joshy | [Read More](https://medium.com/p/de9c54761a76) |
 | Sun, 08 Feb 2026 12:34:52 GMT | On Choosing Someone Without Guarantees | TheycallmeMG | [Read More](https://medium.com/p/b58ca9be2a44) |
-| Sun, 08 Feb 2026 12:33:00 GMT | I Didn’t Just Connect the Files — I Connected Responsibility | Mir Shahzad | [Read More](https://medium.com/p/517bd0ccf1ea) |
-| Sun, 08 Feb 2026 12:29:15 GMT | Good News Sunday: it’s complicated. | Gerald Maria Dekkers | [Read More](https://medium.com/p/692e03bc8e52) |
