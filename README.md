@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Feb 2026 15:05:12 GMT | Sonic Go Brrr: Web Security Challenge by Cypertalants | Z3DX | [Read More](https://medium.com/p/9ac1f7affb2c) |
+| Sun, 08 Feb 2026 15:02:54 GMT | Plant Cybersecurity and AI Systems: Why Explainability Is the Most Reliable Forensics Tool | Michael W Barnett, Ph.D. | [Read More](https://medium.com/p/310d34fc4812) |
+| Sun, 08 Feb 2026 15:02:34 GMT | How to Ensure Your VPN Is Actually Protecting Your Privacy | Panos Karagiannis | [Read More](https://medium.com/p/477b7fdd8eab) |
+| Sun, 08 Feb 2026 14:57:01 GMT | Your Sensitive Data Is at Risk — Here’s How Envelope Encryption with AWS KMS Can Save It | Haridharan K A | [Read More](https://medium.com/p/9f2bdfef7f3e) |
+| Sun, 08 Feb 2026 14:53:45 GMT | Renovating old iOS projects | Sergii Koval | [Read More](https://medium.com/p/78083c0d56f7) |
+| Sun, 08 Feb 2026 14:46:38 GMT | Best Bike Lock for E-Bike: Top 5 U-Locks You Can Trust in 2026 | Narjis Arshad | [Read More](https://medium.com/p/bee14ca3a87f) |
+| Sun, 08 Feb 2026 14:44:59 GMT | 15 Top Open-Source Intelligence Tools | Nik | [Read More](https://medium.com/p/48a9f9c6b6c2) |
+| Sun, 08 Feb 2026 14:43:21 GMT | Keycloak 101: User Profile & Attributes | Emre Onur | [Read More](https://medium.com/p/2a01779dae18) |
+| Sun, 08 Feb 2026 14:43:00 GMT | Keycloak 101: User Registration & Policies | Emre Onur | [Read More](https://medium.com/p/b63b73c4f4dc) |
+| Sun, 08 Feb 2026 14:34:42 GMT | I Fought Cron on Kali Linux — and Finally Won | J Chanackya | [Read More](https://medium.com/p/c0fc9e7c6690) |
+| Sun, 08 Feb 2026 14:29:45 GMT | The Infrastructure of Intent: 6 Software Trends Defining 2026 (Part 2) | Dilip Varma | [Read More](https://medium.com/p/85549e82da82) |
 | Sun, 08 Feb 2026 14:21:58 GMT | Why Can’t We Be Seagulls? | Author Black Phoenix | [Read More](https://medium.com/p/150cf1bd82dc) |
 | Sun, 08 Feb 2026 14:20:34 GMT | Mükemmel Kodun Peşinde: Siber Güvenlikte ‘İnsani’ Yanılgılarımız | Umut Baran Yavuz | [Read More](https://medium.com/p/5fcb4bc8a7d5) |
 | Sun, 08 Feb 2026 14:13:14 GMT | Why the First Step in a Breach Is Not the Problem | CyberKayVon | [Read More](https://medium.com/p/5cbea93b9bd6) |
@@ -102,14 +113,3 @@ Introduction… | Gdjdnddhdjdn | [Read More](https://medium.com/p/a7b185c96601) 
 | Sun, 08 Feb 2026 07:00:46 GMT | Addressing Security Challenges in Docker Deployments | @rnab | [Read More](https://medium.com/p/e4be513de96c) |
 | Sun, 08 Feb 2026 06:55:16 GMT | MACHINE INFORMATION USING REGISTRY EXPLORER | Basmala Yasser | [Read More](https://medium.com/p/e08a9e1c3fd6) |
 | Sun, 08 Feb 2026 06:54:54 GMT | Mastering Web Monitoring with Proxies: How Novada Empowers Your Strategy | Novada | [Read More](https://medium.com/p/f483a04fd8dc) |
-| Sun, 08 Feb 2026 06:47:14 GMT | Building Automated Email Security Reports Without Buying a SIEM (And It Actually Works) — Part 2 | Muneeb Akmal | [Read More](https://medium.com/p/fbf3e7536518) |
-| Sun, 08 Feb 2026 06:46:31 GMT | Symmetric Key Distribution Using Symmetric Encryption | Bhuvana Medicherla | [Read More](https://medium.com/p/25a114d82b85) |
-| Sun, 08 Feb 2026 06:42:13 GMT | Building Automated Email Security Reports Without Buying a SIEM (And It Actually Works) — Part 1 | Muneeb Akmal | [Read More](https://medium.com/p/8c3e3a504b77) |
-| Sun, 08 Feb 2026 06:27:30 GMT | History Matters: From Westphalia to Nuclear Rivalry — Lessons for Today’s Global Disorder | MASUM BILLAH | [Read More](https://medium.com/p/2e8e0aaebf4c) |
-| Sun, 08 Feb 2026 06:14:58 GMT | Platform Product: Designing a Scalable Activity Log for Enterprise Systems | Rafhael Ajie | [Read More](https://medium.com/p/3aa0cb108568) |
-| Sun, 08 Feb 2026 06:13:20 GMT | Recover Lost Scam Money - iBolt Cyber Hacker Recovery Expert | Joel Malcolm | [Read More](https://medium.com/p/0dad92a9e23e) |
-| Sun, 08 Feb 2026 06:04:57 GMT | The Long Walk: Love, Masculinity, and Freedom in the Shadow of Domination | Urias Davis | [Read More](https://medium.com/p/4806df13b9cb) |
-| Sun, 08 Feb 2026 06:01:46 GMT | Hi MATEL, mau lari kemana? | AntiKode | [Read More](https://medium.com/p/cb927142f3b7) |
-| Sun, 08 Feb 2026 06:00:56 GMT | Máquina Ra THM | Ernesto Ramos | [Read More](https://medium.com/p/de2f8d54c358) |
-| Sun, 08 Feb 2026 05:59:04 GMT | Optimizing Network Security: The Everett and IAOZ Algorithms for ACL Management | Resma Adi Nugroho | [Read More](https://medium.com/p/26632c15210a) |
-| Sun, 08 Feb 2026 05:57:21 GMT | Writing and the Weight of the World | Amrita Tripathi | [Read More](https://medium.com/p/7f56efc86a55) |
