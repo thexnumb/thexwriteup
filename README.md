@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Feb 2026 07:51:00 GMT | Why TTPs Matter More Than IOCs in Modern Cybersecurity | Abhinsubej | [Read More](https://medium.com/p/97cac53bd541) |
+| Sun, 08 Feb 2026 07:41:35 GMT | Artificial Intelligence and the Future of Human Rights | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/3936f6df6539) |
+| Sun, 08 Feb 2026 07:40:18 GMT | Cybersecurity Jobs in Nigeria and Skills Acquisition at Vsasf Tech ICT Academy Enugu | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/74a6b7ae1125) |
+| Sun, 08 Feb 2026 07:38:33 GMT | Boss of the SOC Version 1 (2015) — Ransomware | Basmala Yasser | [Read More](https://medium.com/p/47c5228a27cb) |
+| Sun, 08 Feb 2026 07:36:36 GMT | Windows OS Penetration Testing Procedures at Vsasf Tech ICT Academy Enugu | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/a1c1746abb4b) |
+| Sun, 08 Feb 2026 07:11:00 GMT | Claude Opus 4.6 Autonomously Discovered Over 500 Unknown Vulnerabilities | Patrik Žák | [Read More](https://medium.com/p/24708a5d49c0) |
 | Sun, 08 Feb 2026 07:05:14 GMT | Encryption, Partner APIs, and Login Error Messages: A Practical Security Retrospective | Yana | [Read More](https://medium.com/p/75a021887555) |
 | Sun, 08 Feb 2026 07:01:01 GMT | Token Theft Without Malware: When Sessions Become the New Password | Ankita Sinha | [Read More](https://medium.com/p/c9ae97d9df8a) |
 | Sun, 08 Feb 2026 07:00:46 GMT | Addressing Security Challenges in Docker Deployments | @rnab | [Read More](https://medium.com/p/e4be513de96c) |
@@ -108,9 +114,3 @@ Cybercrime in South Africa has… | NumbWallaby | [Read More](https://medium.com
 | Sat, 07 Feb 2026 19:05:01 GMT | TryHackMe — SOC Level 1 | RK | [Read More](https://medium.com/p/03181d4f9687) |
 | Sat, 07 Feb 2026 19:01:01 GMT | EU GDPR — Article 7 (Conditions for Consent) | MDM Team | [Read More](https://medium.com/p/3d274669c3d6) |
 | Sat, 07 Feb 2026 18:59:33 GMT | HTTP Header’ları | Songül Kızılay Özügürler | [Read More](https://medium.com/p/2cca90b0c841) |
-| Sat, 07 Feb 2026 18:56:40 GMT | 2024–07–30 — Traffic Analysis Exercise: YOU DIRTY RAT! | Mostafa Nada | [Read More](https://medium.com/p/1b6d0a6f23a6) |
-| Sat, 07 Feb 2026 18:56:36 GMT | Trailer Cameras in Houston — Mobile Surveillance for Site and Asset Protection | Twin City Security Houston | [Read More](https://medium.com/p/8aab31167243) |
-| Sat, 07 Feb 2026 18:55:25 GMT | Risk vs Compliance vs Security- Explained Simply | Meshary M. Alharbi | [Read More](https://medium.com/p/964be295b80d) |
-| Sat, 07 Feb 2026 18:54:26 GMT | Forgiveness and Love | Becky Hernández Kantún | [Read More](https://medium.com/p/cfc6e18c3df2) |
-| Sat, 07 Feb 2026 18:41:00 GMT | The Version of Me That Only My Therapist Sees | Shabiha | [Read More](https://medium.com/p/7e606a240a7c) |
-| Sat, 07 Feb 2026 18:31:42 GMT | The Return: Cloud Security Assessment | Aswin Govind | [Read More](https://medium.com/p/71fe27212cc2) |
