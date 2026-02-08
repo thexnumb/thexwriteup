@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Feb 2026 02:42:06 GMT | Information Disclosure using URLScan Dorking | Abhirup Konwar | [Read More](https://medium.com/p/b92cda44bb03) |
+| Sun, 08 Feb 2026 02:42:02 GMT | 7 Ways to Recognize a Phishing Email in the Age of Artificial Intelligence | Emory French | [Read More](https://medium.com/p/df2a895a9048) |
+| Sun, 08 Feb 2026 02:41:41 GMT | Between Safety and Sovereignty | Tom Yonashiro | [Read More](https://medium.com/p/09028f125331) |
+| Sun, 08 Feb 2026 02:37:38 GMT | Behind the Breach: The Specialized Economy of SA Ransomware 
+Cybercrime in South Africa has… | NumbWallaby | [Read More](https://medium.com/p/718d38c75132) |
+| Sun, 08 Feb 2026 02:37:35 GMT | Walking the Ancient Paths: ️Rooting Legacy Infrastructure | Nicholas Mullenski | [Read More](https://medium.com/p/48a10435ba07) |
+| Sun, 08 Feb 2026 02:36:41 GMT | Is Your WAF Useless? This Tool Exposes the Truth! | cybrNK | [Read More](https://medium.com/p/7435ee6a6a5a) |
+| Sun, 08 Feb 2026 02:36:38 GMT | Entry Point Enumeration: The Critical Step Most Beginner Pentesters Skip | Dzianis Skliar | [Read More](https://medium.com/p/ed6e3af61d1a) |
+| Sun, 08 Feb 2026 01:46:37 GMT | Stop using public usb and be sav | Techwizs | [Read More](https://medium.com/p/f4f5b2314a68) |
+| Sun, 08 Feb 2026 01:31:01 GMT | Agent Sandboxes Are Now a Product Requirement | Praxen | [Read More](https://medium.com/p/99ca6e529155) |
+| Sun, 08 Feb 2026 01:27:58 GMT | The MCP Ecosystem Has a Security Problem | Debu Sinha | [Read More](https://medium.com/p/c2f585a5bb05) |
+| Sun, 08 Feb 2026 01:02:11 GMT | Where Did the Logs Go? | Aaqib O. Ahmed | [Read More](https://medium.com/p/0d67fc852f11) |
+| Sun, 08 Feb 2026 01:01:01 GMT | Malicious HTTP network injection redirecting traffic to an adult website | Samuel Brice | [Read More](https://medium.com/p/46c37d06741c) |
+| Sun, 08 Feb 2026 00:54:45 GMT | What I Have Learned from Cyber-Security in My First Week. | graduatedFreshman | [Read More](https://medium.com/p/d2e5f02d02bb) |
+| Sun, 08 Feb 2026 00:50:36 GMT | Think `. env` Files are Secure? Think Again | Jamesadewara | [Read More](https://medium.com/p/201b8f4ed8ad) |
+| Sat, 07 Feb 2026 23:56:01 GMT | Governance, Risk & Compliance (GRC): Why Smart Businesses Treat It as a Brand Asset, Not Just a… | Grace Chukwunta | [Read More](https://medium.com/p/815236c37ff4) |
+| Sat, 07 Feb 2026 23:30:46 GMT | Wiz x Cloud Security Championship — Needle in a Haystack Walkthrough | Vedant Bhalerao | [Read More](https://medium.com/p/2883c8f04ccb) |
 | Sat, 07 Feb 2026 23:19:11 GMT | Quantum Vulnerabilities in Modern Cryptography | Bervice | [Read More](https://medium.com/p/f72839fde2e7) |
 | Sat, 07 Feb 2026 23:18:42 GMT | EtherNet/IP Industrial Protocol CTF Challenge HTB | Youssef El-Sibai | [Read More](https://medium.com/p/5339941df14b) |
 | Sat, 07 Feb 2026 23:15:52 GMT | The Hidden Security Risks of AI Tool Integrations: When Convenience Becomes Vulnerability | Bharathkannan | [Read More](https://medium.com/p/ff88a2861305) |
@@ -96,19 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Feb 2026 16:01:01 GMT | Multi-Tenant NestJS: Stop Leaks Before They Start | Thinking Loop | [Read More](https://medium.com/p/15361ca576ab) |
 | Sat, 07 Feb 2026 16:01:01 GMT | How AI Super Bowl ads, Amazon’s spending, & Bitcoin’s slide expose where power, trust, & capital… | Qandeel Akhtar | [Read More](https://medium.com/p/2fce906c77f3) |
 | Sat, 07 Feb 2026 15:55:49 GMT | 0.CL Demistified : Ft. Portswigger Web Security Academy | Sandeep Singh Sethi | [Read More](https://medium.com/p/fb6413089991) |
-| Sat, 07 Feb 2026 15:55:12 GMT | Computer Networking (The Technical Side) | Îbrãhìm Sabir | [Read More](https://medium.com/p/ea8d448d65ed) |
-| Sat, 07 Feb 2026 15:53:33 GMT | Docker Image Vulnerabilities & Scanning: How Trivy Saves You From Production Incidents | Jagadeesh Kema | [Read More](https://medium.com/p/cb87b9631317) |
-| Sat, 07 Feb 2026 15:52:46 GMT | ​The Silent Screens: What I Discovered About Digital Safety and BNS 2023 | Tapan Kumar Saikia | [Read More](https://medium.com/p/8963e26868d7) |
-| Sat, 07 Feb 2026 15:48:44 GMT | Post 12: SDLC Phase 2 — Analysis and Design (Part 1) | Satti Data | [Read More](https://medium.com/p/5524ac28f75b) |
-| Sat, 07 Feb 2026 15:45:36 GMT | Why Companies Are Moving from Excel to OneStream | Niharikabora | [Read More](https://medium.com/p/4876779c5deb) |
-| Sat, 07 Feb 2026 15:45:16 GMT | The Rise of Threat Hunters: Proactive Defense Experts in Cybersecurity | Ferdi Edogawa | [Read More](https://medium.com/p/87a4a0b10381) |
-| Sat, 07 Feb 2026 15:45:08 GMT | I Solved an OhSint TryHackMe Challenge as a Beginner — Here’s Everything I learned | Cyberwithrustam | [Read More](https://medium.com/p/d3826f001a9f) |
-| Sat, 07 Feb 2026 15:26:01 GMT | The Notepad++ Hack: A Deep Dive Into a State-Sponsored Supply Chain Attack | Sohan Kanna D | [Read More](https://medium.com/p/6ca49b98a42c) |
-| Sat, 07 Feb 2026 15:25:33 GMT | Risk Isn’t Technical, It’s Personal | Ingrid rorez | [Read More](https://medium.com/p/fc7c8f09f849) |
-| Sat, 07 Feb 2026 15:22:07 GMT | Flu — OffSec Proving Grounds Practice Lab Walkthrough | MGMK | [Read More](https://medium.com/p/008e98a994bb) |
-| Sat, 07 Feb 2026 15:18:21 GMT | I Built a Chrome Extension That Stops Malicious URLs Before You Click | H3NRY B41T | [Read More](https://medium.com/p/2febe69c5917) |
-| Sat, 07 Feb 2026 15:15:41 GMT | TODAY’S HACKING NEWS — 07 FEBRUARY 2026 | KOSCYBER | [Read More](https://medium.com/p/1aad25b61322) |
-| Sat, 07 Feb 2026 15:11:23 GMT | MoltBook Isn’t a Social Network. It’s the World’s First Voluntary C2 Botnet. | Maxwell Cross | [Read More](https://medium.com/p/cf7cb2409f42) |
-| Sat, 07 Feb 2026 15:09:21 GMT | Anatomy of a Trap: Dissecting a Webmail Phishing Campaign Powered by a PHP Backend and a Telegram… | Eleonora Ghiani | [Read More](https://medium.com/p/92c98e515306) |
-| Sat, 07 Feb 2026 14:59:04 GMT | 30 Days of Red Team: Day 22 — Active Directory Enumeration & BloodHound | Maxwell Cross | [Read More](https://medium.com/p/8240538d9edb) |
-| Sat, 07 Feb 2026 14:58:08 GMT | Virtualisation Basics - Tryhackme | Aaron | [Read More](https://medium.com/p/6ae6ccef59f9) |
