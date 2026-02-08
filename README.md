@@ -12,9 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Feb 2026 17:27:33 GMT | Lock Change & Property Security Support in Epping, VIC: Why On-Site Protection Matters | Group One Security Services Pty Ltd | [Read More](https://medium.com/p/7fb6447cfa01) |
+| Sun, 08 Feb 2026 17:17:13 GMT | Client-Server Basics - Tryhackme | Aaron | [Read More](https://medium.com/p/2365725dfb37) |
+| Sun, 08 Feb 2026 17:12:09 GMT | Der CTF ist einfach, aber nicht seine Auswirkungen | Abuelyazid Software | [Read More](https://medium.com/p/83e9aa171b71) |
+| Sun, 08 Feb 2026 17:10:54 GMT | Zero Trust in Kubernetes Is Not Just mTLS — And 99% of Production Clusters Are Getting It Wrong | Santosh Kumar Baruah | [Read More](https://medium.com/p/b6443cddffc1) |
+| Sun, 08 Feb 2026 17:10:44 GMT | Be Breach Ready. The True North of Zero Trust 2.0 in the Age of Autonomous Cyberattacks | Agnidipta Sarkar | [Read More](https://medium.com/p/588bcfecd897) |
+| Sun, 08 Feb 2026 17:08:44 GMT | Pentester Bytes: IDOR Basics & Pentesting Methodology | Shivam Bathla | [Read More](https://medium.com/p/fbdc73fd736d) |
+| Sun, 08 Feb 2026 17:02:48 GMT | Hybrid Threats in Germany’s Baltic Region | SIMKRA | [Read More](https://medium.com/p/6915f312f2ca) |
+| Sun, 08 Feb 2026 16:54:08 GMT | What I Learned from Remediating 250,000 Cloud Vulnerabilities. | Akash Saxena | [Read More](https://medium.com/p/35071257cb39) |
+| Sun, 08 Feb 2026 16:50:00 GMT | I Logged Into Any Account Without an OTP — Here’s How I Found It | Sumit Raj | [Read More](https://medium.com/p/0a431d9d1ff6) |
+| Sun, 08 Feb 2026 16:46:33 GMT | [Installation and Usage] Shannon: Your AI-Powered Assistant for Work and Learning | Mohamed Achraf Sabbagh | [Read More](https://medium.com/p/e539b50aba21) |
+| Sun, 08 Feb 2026 16:46:14 GMT | AI Security Fundamentals: How Modern AI Systems Are Really Built | Modern Security | [Read More](https://medium.com/p/d03998dbfde4) |
+| Sun, 08 Feb 2026 16:37:14 GMT | RingZeroCTF Coding Challenge 7 [‘I Saw An Elf’] Writeup | Devansh Patel | [Read More](https://medium.com/p/0906393a6f20) |
 | Sun, 08 Feb 2026 16:32:20 GMT | CRM SaaS Broken API Authorization & Tenant Isolation attack works. | Abhay Patel | [Read More](https://medium.com/p/5e2a0a6cdb75) |
 | Sun, 08 Feb 2026 16:30:29 GMT | A 72 Hour Research Note as Early Warning for Iran | SIMKRA | [Read More](https://medium.com/p/ef39cfd2beb3) |
 | Sun, 08 Feb 2026 16:25:22 GMT | Vulnerability Management Lifecycle | Vishnu Shivalal P | [Read More](https://medium.com/p/8930cd6ae29c) |
+| Sun, 08 Feb 2026 16:24:55 GMT | [Introduction ] Shannon: Your AI-Powered Assistant for Work and Learning | Mohamed Achraf Sabbagh | [Read More](https://medium.com/p/861270b9ea77) |
 | Sun, 08 Feb 2026 16:22:21 GMT | Red Teaming for Software Engineers: Build Systems Like an Attacker Is Already Reading Your Code | Porosh | [Read More](https://medium.com/p/b9a836fb5282) |
 | Sun, 08 Feb 2026 16:19:27 GMT | Windows Subsystem for Linux WSL2 is a more Stable and Usable Way to run Kali within Windows | Damian Robert Moore | [Read More](https://medium.com/p/1d60e07390f4) |
 | Sun, 08 Feb 2026 16:15:36 GMT | How to Fix SSL Certificate Errors on Linux: A Complete Guide | Nikhil Goyal , DevSecOps | [Read More](https://medium.com/p/f83dacdd3535) |
@@ -100,16 +113,3 @@ Introduction… | Gdjdnddhdjdn | [Read More](https://medium.com/p/a7b185c96601) 
 | Sun, 08 Feb 2026 09:01:04 GMT | Why Your Cyber Insurance Provider Wants Proof of Credential Monitoring | Alexandre Vandamme | [Read More](https://medium.com/p/fb5861304818) |
 | Sun, 08 Feb 2026 08:59:21 GMT | Brand-Name CISO vs. Trench CISO: Who Really Knows How to Sit at the Board Table? | Denny Roger | [Read More](https://medium.com/p/757924f38f7f) |
 | Sun, 08 Feb 2026 08:54:59 GMT | The Internet Knows You Better Than You Think | Akshaya Mary Lingala | [Read More](https://medium.com/p/9ac413e1f78d) |
-| Sun, 08 Feb 2026 08:54:36 GMT | 7 Urgent Patches: Android Security Bulletin February 2026 | Pentest_Testing_Corp | [Read More](https://medium.com/p/6431b63f0090) |
-| Sun, 08 Feb 2026 08:50:13 GMT | Provably Fair in Crypto Casinos: What It Really Means (And What Most Players Get Wrong) | Adam Green | [Read More](https://medium.com/p/edba8685b099) |
-| Sun, 08 Feb 2026 08:44:02 GMT | AI Security with Aadi - Beyond the Jailbreak: “Prompt Injection in Action” | Aadi Yr | [Read More](https://medium.com/p/8f34f30a8c5c) |
-| Sun, 08 Feb 2026 08:41:47 GMT | SQL Injection ile Gizli Verileri Elde Etmek — WHERE Clause Exploit (Adim Adim) | telix | [Read More](https://medium.com/p/24c49d3aa8ee) |
-| Sun, 08 Feb 2026 08:41:00 GMT | Day 10 Understanding Attack Structure: Reconnaissance — How Attacks Really Begin | NineTales | [Read More](https://medium.com/p/d35ef6f7f29a) |
-| Sun, 08 Feb 2026 08:36:00 GMT | The Algorithm of Alienation: A Future of Surrendering the Wheel? | Namir Sagheenanajar | [Read More](https://medium.com/p/33bd21991306) |
-| Sun, 08 Feb 2026 08:30:35 GMT | HOW TO PREPARE FOR THE END OF THE WORLD | Dilara Enes, RPh. | [Read More](https://medium.com/p/c0b394c1b46f) |
-| Sun, 08 Feb 2026 08:17:54 GMT | nuclei Without Noise: A Practical Guide | ghostyjoe | [Read More](https://medium.com/p/14274be7ab70) |
-| Sun, 08 Feb 2026 08:14:06 GMT | auth-aware deception with trappsec | Nikhil Salgaonkar | [Read More](https://medium.com/p/17eabc0b7e76) |
-| Sun, 08 Feb 2026 08:12:59 GMT | Code, Care, and Control, Cybersecurity, Law, and Software Governance in Contemporary Healthcare… | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/ebc891b66aaa) |
-| Sun, 08 Feb 2026 08:05:29 GMT | The Sentences That Save Us | Papered Soul | [Read More](https://medium.com/p/d68aa72c0e9f) |
-| Sun, 08 Feb 2026 08:05:04 GMT | 24–01–2026 Building / Breaking Webapps [Personal Experience] by ShellGYM [KK TAN] | Cy3erS@up | [Read More](https://medium.com/p/338ef02e8c5a) |
-| Sun, 08 Feb 2026 08:04:50 GMT | CyberChef — Hoperation Save McSkidy | Parvathy P Joshy | [Read More](https://medium.com/p/44597a8d3f6d) |
