@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Feb 2026 16:32:20 GMT | CRM SaaS Broken API Authorization & Tenant Isolation attack works. | Abhay Patel | [Read More](https://medium.com/p/5e2a0a6cdb75) |
+| Sun, 08 Feb 2026 16:30:29 GMT | A 72 Hour Research Note as Early Warning for Iran | SIMKRA | [Read More](https://medium.com/p/ef39cfd2beb3) |
+| Sun, 08 Feb 2026 16:25:22 GMT | Vulnerability Management Lifecycle | Vishnu Shivalal P | [Read More](https://medium.com/p/8930cd6ae29c) |
+| Sun, 08 Feb 2026 16:22:21 GMT | Red Teaming for Software Engineers: Build Systems Like an Attacker Is Already Reading Your Code | Porosh | [Read More](https://medium.com/p/b9a836fb5282) |
+| Sun, 08 Feb 2026 16:19:27 GMT | Windows Subsystem for Linux WSL2 is a more Stable and Usable Way to run Kali within Windows | Damian Robert Moore | [Read More](https://medium.com/p/1d60e07390f4) |
+| Sun, 08 Feb 2026 16:15:36 GMT | How to Fix SSL Certificate Errors on Linux: A Complete Guide | Nikhil Goyal , DevSecOps | [Read More](https://medium.com/p/f83dacdd3535) |
+| Sun, 08 Feb 2026 16:13:57 GMT | Panduan Hydra — Try Hack Me | Rendy Riawan | [Read More](https://medium.com/p/7c345085bdbe) |
+| Sun, 08 Feb 2026 16:12:19 GMT | Scanning & Enumeration -The Phase Where Systems Start Talking Back | Amandogra | [Read More](https://medium.com/p/53e83561c063) |
+| Sun, 08 Feb 2026 16:08:04 GMT | Threat Hunting with Splunk: Lateral Movement via WMI | Allen Ace | [Read More](https://medium.com/p/420ae0d04c2c) |
+| Sun, 08 Feb 2026 16:06:33 GMT | Cybersecurity in 2026: The Quiet War We’re All Already Part Of | Little_Sun4lower | [Read More](https://medium.com/p/e876fe21d8c8) |
+| Sun, 08 Feb 2026 15:57:00 GMT | OSCP Zero to Hero: Link Vortex | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/608bd52b3d44) |
+| Sun, 08 Feb 2026 15:50:41 GMT | Sadness Too Heavy to Cry | Nanmoon | [Read More](https://medium.com/p/c3c6a319942f) |
+| Sun, 08 Feb 2026 15:48:30 GMT | Some random collection of my thoughts | Suneel Masarapu | [Read More](https://medium.com/p/853ebae930ff) |
 | Sun, 08 Feb 2026 15:28:00 GMT | ZINAD Cyber Champion 2026 Crypto Write-up | shxsu1 | [Read More](https://medium.com/p/b2a4e21eef78) |
 | Sun, 08 Feb 2026 15:24:57 GMT | PascalCTF 2026 | 0x77 | [Read More](https://medium.com/p/353e78ea9c87) |
 | Sun, 08 Feb 2026 15:21:25 GMT | The Enemy in Your Pocket: Why Global Intelligence is Failing the Telegram War | Ben Amsalo | [Read More](https://medium.com/p/4d94e1ab91dc) |
@@ -100,16 +113,3 @@ Introduction… | Gdjdnddhdjdn | [Read More](https://medium.com/p/a7b185c96601) 
 | Sun, 08 Feb 2026 08:05:29 GMT | The Sentences That Save Us | Papered Soul | [Read More](https://medium.com/p/d68aa72c0e9f) |
 | Sun, 08 Feb 2026 08:05:04 GMT | 24–01–2026 Building / Breaking Webapps [Personal Experience] by ShellGYM [KK TAN] | Cy3erS@up | [Read More](https://medium.com/p/338ef02e8c5a) |
 | Sun, 08 Feb 2026 08:04:50 GMT | CyberChef — Hoperation Save McSkidy | Parvathy P Joshy | [Read More](https://medium.com/p/44597a8d3f6d) |
-| Sun, 08 Feb 2026 08:00:19 GMT | Can Your Internet Provider See Your Browsing History? Here’s What You Need to Know (2026 Guide) | Sadam Ali | [Read More](https://medium.com/p/da8284ff8af4) |
-| Sun, 08 Feb 2026 07:54:52 GMT | REFLECTED XSS Vulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/37017ec2351a) |
-| Sun, 08 Feb 2026 07:51:00 GMT | Why TTPs Matter More Than IOCs in Modern Cybersecurity | Abhinsubej | [Read More](https://medium.com/p/97cac53bd541) |
-| Sun, 08 Feb 2026 07:50:39 GMT | How To Prepare For The Coming Collapse of the Tech Industry | Vijay Kumar Gupta | [Read More](https://medium.com/p/ba023473dddb) |
-| Sun, 08 Feb 2026 07:47:44 GMT | Cybersecurity Jobs in Nigeria and Skills Acquisition at Vsasf Tech ICT Academy Enugu | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/11118bff4005) |
-| Sun, 08 Feb 2026 07:41:35 GMT | Artificial Intelligence and the Future of Human Rights | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/3936f6df6539) |
-| Sun, 08 Feb 2026 07:41:23 GMT | Public Wi‑Fi Security Risks Explained (What You Should Know) | BHARGAV SANDILYA | [Read More](https://medium.com/p/5ec443242392) |
-| Sun, 08 Feb 2026 07:40:18 GMT | Cybersecurity Jobs in Nigeria and Skills Acquisition at Vsasf Tech ICT Academy Enugu | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/74a6b7ae1125) |
-| Sun, 08 Feb 2026 07:38:33 GMT | Boss of the SOC Version 1 (2015) — Ransomware | Basmala Yasser | [Read More](https://medium.com/p/47c5228a27cb) |
-| Sun, 08 Feb 2026 07:36:36 GMT | Windows OS Penetration Testing Procedures at Vsasf Tech ICT Academy Enugu | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/a1c1746abb4b) |
-| Sun, 08 Feb 2026 07:11:00 GMT | Claude Opus 4.6 Autonomously Discovered Over 500 Unknown Vulnerabilities | Patrik Žák | [Read More](https://medium.com/p/24708a5d49c0) |
-| Sun, 08 Feb 2026 07:05:14 GMT | Encryption, Partner APIs, and Login Error Messages: A Practical Security Retrospective | Yana | [Read More](https://medium.com/p/75a021887555) |
-| Sun, 08 Feb 2026 07:01:01 GMT | Token Theft Without Malware: When Sessions Become the New Password | Ankita Sinha | [Read More](https://medium.com/p/c9ae97d9df8a) |
