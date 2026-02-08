@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Feb 2026 14:21:58 GMT | Why Can’t We Be Seagulls? | Author Black Phoenix | [Read More](https://medium.com/p/150cf1bd82dc) |
+| Sun, 08 Feb 2026 14:20:34 GMT | Mükemmel Kodun Peşinde: Siber Güvenlikte ‘İnsani’ Yanılgılarımız | Umut Baran Yavuz | [Read More](https://medium.com/p/5fcb4bc8a7d5) |
+| Sun, 08 Feb 2026 14:13:14 GMT | Why the First Step in a Breach Is Not the Problem | CyberKayVon | [Read More](https://medium.com/p/5cbea93b9bd6) |
+| Sun, 08 Feb 2026 14:07:00 GMT | Zero to SaaS 01: Let’s FINALLY understand Docker | Niklas Heringer | [Read More](https://medium.com/p/7ebfe06edd75) |
+| Sun, 08 Feb 2026 14:06:17 GMT | A House and A Home | bysera | [Read More](https://medium.com/p/c1fb13e5e28e) |
+| Sun, 08 Feb 2026 14:01:01 GMT | How to Self-Host Vaultwarden Securely Using Cloudflare Tunnel (No Public IP Needed) | Rupesh Sharma | [Read More](https://medium.com/p/4f3130abce54) |
 | Sun, 08 Feb 2026 13:46:38 GMT | Understanding Direct Syscalls in Windows | Yua Mikanana | [Read More](https://medium.com/p/0704eca0c6d2) |
 | Sun, 08 Feb 2026 13:42:47 GMT | Tryhackme: Gaming Server write up | Mggmes | [Read More](https://medium.com/p/062199f238ff) |
 | Sun, 08 Feb 2026 13:37:17 GMT | Nano-Technology’s Integration with Cybersecurity | Brandon Roach | [Read More](https://medium.com/p/a379a9fba0ed) |
@@ -107,9 +113,3 @@ Introduction… | Gdjdnddhdjdn | [Read More](https://medium.com/p/a7b185c96601) 
 | Sun, 08 Feb 2026 06:00:56 GMT | Máquina Ra THM | Ernesto Ramos | [Read More](https://medium.com/p/de2f8d54c358) |
 | Sun, 08 Feb 2026 05:59:04 GMT | Optimizing Network Security: The Everett and IAOZ Algorithms for ACL Management | Resma Adi Nugroho | [Read More](https://medium.com/p/26632c15210a) |
 | Sun, 08 Feb 2026 05:57:21 GMT | Writing and the Weight of the World | Amrita Tripathi | [Read More](https://medium.com/p/7f56efc86a55) |
-| Sun, 08 Feb 2026 05:41:58 GMT | Part 1 - The Persistent Vault Problem: Why Your Encryption Strategy Has a Shelf Life | PhantomKey Technologies | [Read More](https://medium.com/p/37aad3ea2540) |
-| Sun, 08 Feb 2026 05:35:23 GMT | Your Text Editor Was a Chinese Spy Tool for 6 Months (Here’s How They Did It) | Soumyadipta Birabar | [Read More](https://medium.com/p/319ca415e434) |
-| Sun, 08 Feb 2026 05:31:29 GMT | When AI Agents Start Talking to Each Other, Things Get Weird Fast | SOVANNARO | [Read More](https://medium.com/p/5b41154a813b) |
-| Sun, 08 Feb 2026 05:19:21 GMT | Did You Ever Regret Opening Up? | Noni | [Read More](https://medium.com/p/99c29f103655) |
-| Sun, 08 Feb 2026 05:16:09 GMT | The Awakening of Linux: How Your System Comes to Life | The Cyber Student | [Read More](https://medium.com/p/f1d600d8c9f7) |
-| Sun, 08 Feb 2026 05:10:14 GMT | Transparent Tribe and the Expanding Attack Surface of Indian Startups | Deven Chhajed | [Read More](https://medium.com/p/2dd2da9c3b03) |
