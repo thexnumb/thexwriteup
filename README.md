@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Feb 2026 11:17:52 GMT | How I Approach Bug Bounties in 2026 | Muhammad Haider Tallal | [Read More](https://medium.com/p/0cb3b986e584) |
+| Sun, 08 Feb 2026 11:17:24 GMT | Top 5 Data Classification Mistakes That Could Derail Your Data Security Strategy | Niyati Daftary | [Read More](https://medium.com/p/b9e61c922f38) |
+| Sun, 08 Feb 2026 11:11:44 GMT | Practical Network Security with DMZ and IDS | Pradeep Tarakar | [Read More](https://medium.com/p/106353e9ca81) |
+| Sun, 08 Feb 2026 11:09:53 GMT | JWT Authentication Concept and Practical Implementation (End-to-End) | Vishal Rathod | [Read More](https://medium.com/p/7e1a1e2d9b19) |
+| Sun, 08 Feb 2026 11:03:10 GMT | Cafeclub writeup (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/c0e8f42bd2f3) |
+| Sun, 08 Feb 2026 10:59:51 GMT | Anthropic與神父合作注入AI「靈魂」：從複雜性視角剖析技術演化、自主慾望與形而上治理 | jerrycho | [Read More](https://medium.com/p/31549f39e7b8) |
+| Sun, 08 Feb 2026 10:52:29 GMT | Website Exploitation: Information Gathering & Vulnerability Scanning on Web and CMS | Habibi | [Read More](https://medium.com/p/363694cbfb48) |
+| Sun, 08 Feb 2026 10:47:46 GMT | The Other Me | Koffi  Jean-Marie Kouadio | [Read More](https://medium.com/p/e9caf6d53503) |
 | Sun, 08 Feb 2026 10:37:34 GMT | Quoi? In  Politics This Week | Winter Reid ❄️ | [Read More](https://medium.com/p/0b39dff4c286) |
 | Sun, 08 Feb 2026 10:36:59 GMT | ⭐ SOC342 — CVE‑2025‑53770 SharePoint ToolShell Auth Bypass and RCE | Owais Ali Khan | [Read More](https://medium.com/p/d1ab733d20f2) |
 | Sun, 08 Feb 2026 10:35:47 GMT | Why Your Social Media ‘Show-off’ is the Biggest Gift for Cyber Criminals ️ | Digital Kavach ️ | [Read More](https://medium.com/p/4d889826de37) |
@@ -107,11 +115,3 @@ We are… | Best Family Law Firm in Amman Jordan - Ahmed | [Read More](https://m
 | Sun, 08 Feb 2026 02:37:38 GMT | Behind the Breach: The Specialized Economy of SA Ransomware 
 Cybercrime in South Africa has… | NumbWallaby | [Read More](https://medium.com/p/718d38c75132) |
 | Sun, 08 Feb 2026 02:37:35 GMT | Walking the Ancient Paths: ️Rooting Legacy Infrastructure | Nicholas Mullenski | [Read More](https://medium.com/p/48a10435ba07) |
-| Sun, 08 Feb 2026 02:36:41 GMT | Is Your WAF Useless? This Tool Exposes the Truth! | cybrNK | [Read More](https://medium.com/p/7435ee6a6a5a) |
-| Sun, 08 Feb 2026 02:36:38 GMT | Entry Point Enumeration: The Critical Step Most Beginner Pentesters Skip | Dzianis Skliar | [Read More](https://medium.com/p/ed6e3af61d1a) |
-| Sun, 08 Feb 2026 01:46:37 GMT | Stop using public usb and be sav | Techwizs | [Read More](https://medium.com/p/f4f5b2314a68) |
-| Sun, 08 Feb 2026 01:31:01 GMT | Agent Sandboxes Are Now a Product Requirement | Praxen | [Read More](https://medium.com/p/99ca6e529155) |
-| Sun, 08 Feb 2026 01:27:58 GMT | The MCP Ecosystem Has a Security Problem | Debu Sinha | [Read More](https://medium.com/p/c2f585a5bb05) |
-| Sun, 08 Feb 2026 01:02:11 GMT | Where Did the Logs Go? | Aaqib O. Ahmed | [Read More](https://medium.com/p/0d67fc852f11) |
-| Sun, 08 Feb 2026 01:01:01 GMT | Malicious HTTP network injection redirecting traffic to an adult website | Samuel Brice | [Read More](https://medium.com/p/46c37d06741c) |
-| Sun, 08 Feb 2026 00:54:45 GMT | What I Have Learned from Cyber-Security in My First Week. | graduatedFreshman | [Read More](https://medium.com/p/d2e5f02d02bb) |
