@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Feb 2026 10:28:23 GMT | Vulnerability. Fortunately. | Through Another Lens | [Read More](https://medium.com/p/fd5557b716e9) |
+| Sun, 08 Feb 2026 10:14:38 GMT | AI 識破詐騙實錄：Gemini 如何幫我分析偽造的 momo 中獎郵件 | John Hu | [Read More](https://medium.com/p/174ef5d14144) |
+| Sun, 08 Feb 2026 10:12:20 GMT | Each of Us Can Defend Israel | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/882cb1f9c98e) |
+| Sun, 08 Feb 2026 10:06:18 GMT | What Actually Keeps Pre-Baked Container Images Secure | Anjali Priya | [Read More](https://medium.com/p/edcdf105a384) |
+| Sun, 08 Feb 2026 10:01:54 GMT | Understanding Incident Handling: A SOC Analyst’s View | Şervan Alkan | [Read More](https://medium.com/p/2689c44130d5) |
+| Sun, 08 Feb 2026 10:01:09 GMT | Non-Technical Cybersecurity Careers: A Complete Beginner’s Guide | Arjelynsagabunzo | [Read More](https://medium.com/p/e7a2fc38f6f2) |
+| Sun, 08 Feb 2026 10:01:00 GMT | Non-Technical Cybersecurity Careers: A Complete Beginner’s Guide | Victoria Coker | [Read More](https://medium.com/p/b0d2fcf11d84) |
+| Sun, 08 Feb 2026 09:58:26 GMT | I Don’t Need Your Password; I Have Your Trust | Systemic | [Read More](https://medium.com/p/419d3481f3f7) |
+| Sun, 08 Feb 2026 09:55:35 GMT | Discover the Thrilling World of “SkyRealm Adventures” – The Game You’ve Never Heard Of
+Introduction… | Gdjdnddhdjdn | [Read More](https://medium.com/p/a7b185c96601) |
+| Sun, 08 Feb 2026 09:53:06 GMT | Malware Roulette #1 — GachiLoader pt. 1 | bfake | [Read More](https://medium.com/p/84cba7e7cd17) |
+| Sun, 08 Feb 2026 09:34:50 GMT | DVWA: XSS otaqları | Farid Mehdiyev | [Read More](https://medium.com/p/044dd4daa454) |
+| Sun, 08 Feb 2026 09:33:26 GMT | How to Install OpenClaw Safely (VPS Setup + Security Checklist) | Hareem Fatima | [Read More](https://medium.com/p/4a68dc8c739a) |
 | Sun, 08 Feb 2026 09:23:36 GMT | Optimizing Web Performance with Proxies | Blanche X | [Read More](https://medium.com/p/c141328a87d4) |
 | Sun, 08 Feb 2026 09:18:55 GMT | Cryptology | Ali Kurt | [Read More](https://medium.com/p/7fc92b5a8ce6) |
 | Sun, 08 Feb 2026 09:01:04 GMT | Why Your Cyber Insurance Provider Wants Proof of Credential Monitoring | Alexandre Vandamme | [Read More](https://medium.com/p/fb5861304818) |
@@ -102,15 +115,3 @@ Cybercrime in South Africa has… | NumbWallaby | [Read More](https://medium.com
 | Sat, 07 Feb 2026 23:30:46 GMT | Wiz x Cloud Security Championship — Needle in a Haystack Walkthrough | Vedant Bhalerao | [Read More](https://medium.com/p/2883c8f04ccb) |
 | Sat, 07 Feb 2026 23:19:11 GMT | Quantum Vulnerabilities in Modern Cryptography | Bervice | [Read More](https://medium.com/p/f72839fde2e7) |
 | Sat, 07 Feb 2026 23:18:42 GMT | EtherNet/IP Industrial Protocol CTF Challenge HTB | Youssef El-Sibai | [Read More](https://medium.com/p/5339941df14b) |
-| Sat, 07 Feb 2026 23:15:52 GMT | The Hidden Security Risks of AI Tool Integrations: When Convenience Becomes Vulnerability | Bharathkannan | [Read More](https://medium.com/p/ff88a2861305) |
-| Sat, 07 Feb 2026 23:01:03 GMT | I’m New to Tech, but Entry-Level Jobs Aren’t | Miss Tarus | [Read More](https://medium.com/p/9792c40e1fda) |
-| Sat, 07 Feb 2026 22:56:35 GMT | The Truth About Modern Cyber Resilience Operations | Ricardo Newman | [Read More](https://medium.com/p/61472e8f4f12) |
-| Sat, 07 Feb 2026 22:54:42 GMT | AI Safety Concerns Rise as Testing Lags Behind Progress | Valentin Podkamennyi | [Read More](https://medium.com/p/c1055c5bba38) |
-| Sat, 07 Feb 2026 22:49:55 GMT | AI Uncovers 500 High-Severity Software Vulnerabilities | Valentin Podkamennyi | [Read More](https://medium.com/p/4dd63e6e5724) |
-| Sat, 07 Feb 2026 22:47:31 GMT | Multiple Vertical Broken Access Control Issues via Admin Functionality Leakage from Test… | Mahmoud Gamal | [Read More](https://medium.com/p/f714f48040a8) |
-| Sat, 07 Feb 2026 22:39:10 GMT | Launching Your Career in Cybersecurity: A Comprehensive Guide | Muhammad Faizan | [Read More](https://medium.com/p/7844ad45f94c) |
-| Sat, 07 Feb 2026 22:34:43 GMT | The Last Fortress: Why AxonOS is Built on a Neural Bill of Rights Subtitle: In the era of BCI… | AxonOS | [Read More](https://medium.com/p/1ef49e808c5b) |
-| Sat, 07 Feb 2026 22:31:36 GMT | Business Continuity and Disaster Recovery Management | Bhavani Vk | [Read More](https://medium.com/p/1f1185dee02b) |
-| Sat, 07 Feb 2026 22:22:45 GMT | Cybersecurity versus Cyber Resilience | Bhavani Vk | [Read More](https://medium.com/p/eff0b372e210) |
-| Sat, 07 Feb 2026 22:02:46 GMT | I Encrypted a File on Linux — Here’s What I Learned About Real Security | Natasha Iyowe | [Read More](https://medium.com/p/5d9355fe7a60) |
-| Sat, 07 Feb 2026 21:43:59 GMT | How We Found 15 Vulnerabilities in a Mass Notification System Used by the Governments | Roberto Suggi Liverani | [Read More](https://medium.com/p/8b60bb711af5) |
