@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Feb 2026 18:32:32 GMT | Being “Careful Online” Isn’t Enough Anymore. Here’s Why | The Digital Reality | [Read More](https://medium.com/p/d8cfcd366d71) |
+| Sun, 08 Feb 2026 18:31:00 GMT | array interesting articles #5 | Ahmad Shabib | [Read More](https://medium.com/p/1fd83a4d2671) |
+| Sun, 08 Feb 2026 18:12:23 GMT | The Cryptography Concept Journey — Confusion | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/3d08362c4b15) |
+| Sun, 08 Feb 2026 18:12:19 GMT | Post-Post Agentic AI | NTTP | [Read More](https://medium.com/p/6a4fbb54e192) |
+| Sun, 08 Feb 2026 18:04:29 GMT | SQL Injection:What a Secure Code Reviewer Sees That Developers Don’t | Aryah | [Read More](https://medium.com/p/45bb3bc63b85) |
+| Sun, 08 Feb 2026 18:03:47 GMT | HackTheBox Sherlocks: Brutus | dovidee | [Read More](https://medium.com/p/18e98c54334e) |
+| Sun, 08 Feb 2026 18:01:11 GMT | Vouch: earn the right to submit a pull request | JP Caparas | [Read More](https://medium.com/p/8839e10ee914) |
+| Sun, 08 Feb 2026 17:54:37 GMT | Stolen Data on the Dark Web: What It’s Really Worth — and Why That Matters | Axel Hoehnke | [Read More](https://medium.com/p/404708c9b6df) |
+| Sun, 08 Feb 2026 17:52:27 GMT | CTF Challenge Writeup: The Gadget | MAS | [Read More](https://medium.com/p/0eaacfdbcc4e) |
+| Sun, 08 Feb 2026 17:50:10 GMT | DNS — How the Internet’s phonebook works | Lakshan roshana | [Read More](https://medium.com/p/0a91a1d275a5) |
 | Sun, 08 Feb 2026 17:48:28 GMT | How to Secure OpenClaw Agents with A2SPA Using Pay As You Go Execution Authorizations | Jonathan Capriola | [Read More](https://medium.com/p/9d99b581982e) |
 | Sun, 08 Feb 2026 17:47:19 GMT | String Analysis using YARA (FlareVM) | Shahzaib Khan | [Read More](https://medium.com/p/744bceb6b66d) |
 | Sun, 08 Feb 2026 17:47:10 GMT | Try Hack Me- Chocolate Factory CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/b71b16753552) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Feb 2026 11:03:10 GMT | Cafeclub writeup (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/c0e8f42bd2f3) |
 | Sun, 08 Feb 2026 10:59:51 GMT | Anthropic與神父合作注入AI「靈魂」：從複雜性視角剖析技術演化、自主慾望與形而上治理 | jerrycho | [Read More](https://medium.com/p/31549f39e7b8) |
 | Sun, 08 Feb 2026 10:52:29 GMT | Website Exploitation: Information Gathering & Vulnerability Scanning on Web and CMS | Habibi | [Read More](https://medium.com/p/363694cbfb48) |
-| Sun, 08 Feb 2026 10:47:46 GMT | The Other Me | Koffi  Jean-Marie Kouadio | [Read More](https://medium.com/p/e9caf6d53503) |
-| Sun, 08 Feb 2026 10:37:34 GMT | Quoi? In  Politics This Week | Winter Reid ❄️ | [Read More](https://medium.com/p/0b39dff4c286) |
-| Sun, 08 Feb 2026 10:36:59 GMT | ⭐ SOC342 — CVE‑2025‑53770 SharePoint ToolShell Auth Bypass and RCE | Owais Ali Khan | [Read More](https://medium.com/p/d1ab733d20f2) |
-| Sun, 08 Feb 2026 10:35:47 GMT | Why Your Social Media ‘Show-off’ is the Biggest Gift for Cyber Criminals ️ | Digital Kavach ️ | [Read More](https://medium.com/p/4d889826de37) |
-| Sun, 08 Feb 2026 10:34:41 GMT | Why Cybersecurity Training Fails More Often Than We Admit | Maria Tsilika | [Read More](https://medium.com/p/21c354c9ceed) |
-| Sun, 08 Feb 2026 10:28:23 GMT | Vulnerability. Fortunately. | Through Another Lens | [Read More](https://medium.com/p/fd5557b716e9) |
-| Sun, 08 Feb 2026 10:14:38 GMT | AI 識破詐騙實錄：Gemini 如何幫我分析偽造的 momo 中獎郵件 | John Hu | [Read More](https://medium.com/p/174ef5d14144) |
-| Sun, 08 Feb 2026 10:12:20 GMT | Each of Us Can Defend Israel | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/882cb1f9c98e) |
-| Sun, 08 Feb 2026 10:06:18 GMT | What Actually Keeps Pre-Baked Container Images Secure | Anjali Priya | [Read More](https://medium.com/p/edcdf105a384) |
-| Sun, 08 Feb 2026 10:01:54 GMT | Understanding Incident Handling: A SOC Analyst’s View | Şervan Alkan | [Read More](https://medium.com/p/2689c44130d5) |
