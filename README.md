@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Feb 2026 04:59:27 GMT | mTLS: The “VIP Club” of Network Security (and how to implement it without crying) | Levente Csikor | [Read More](https://medium.com/p/d0824868f28d) |
+| Sun, 08 Feb 2026 04:50:00 GMT | DOM XSS Vulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/1197821f896c) |
+| Sun, 08 Feb 2026 04:46:47 GMT | Ever Stared Into the Abyss, Only For It To Stare Brighter Back? | Claudia G. Petersen | [Read More](https://medium.com/p/1170cc2933f7) |
+| Sun, 08 Feb 2026 04:31:12 GMT | JWT in Cookies vs LocalStorage — Which Is Safer? | Hasan Chinthaka | [Read More](https://medium.com/p/e74602144f3c) |
+| Sun, 08 Feb 2026 04:31:08 GMT | Why Accounting Firms Become Easy Targets | Victor Yan | [Read More](https://medium.com/p/ebd4c35d3156) |
+| Sun, 08 Feb 2026 04:31:01 GMT | Tool-Calling Agents Are Injection Magnets | Praxen | [Read More](https://medium.com/p/ef671dbc39dc) |
+| Sun, 08 Feb 2026 04:30:08 GMT | What a SOC Analyst Really Does (From My Training, Labs, and Packet Analysis Practice) | Efrain | [Read More](https://medium.com/p/dfd8b602ab4a) |
+| Sun, 08 Feb 2026 04:28:17 GMT | A Journey into the AI Universe | Wayne Larsen | [Read More](https://medium.com/p/946b1e3d8872) |
+| Sun, 08 Feb 2026 04:22:05 GMT | Causes of Divorce… Its Collapse Begins in Societal Awareness, Ethics, and Upbringing 
+We are… | Best Family Law Firm in Amman Jordan - Ahmed | [Read More](https://medium.com/p/3c32f4224019) |
+| Sun, 08 Feb 2026 04:03:15 GMT | IT departments are drowning in waste. | Nick Bock | [Read More](https://medium.com/p/37c3d135f780) |
+| Sun, 08 Feb 2026 03:58:41 GMT | What the Epstein Files Teach Us About Digital Forensics and Document Authenticity | Abdul-mu'min Omotola | [Read More](https://medium.com/p/5219982f23b9) |
+| Sun, 08 Feb 2026 03:50:02 GMT | Cybersecurity Act 2: A New Architecture for EU Cyber Resilience | Viktor Davydych | [Read More](https://medium.com/p/f35960ffc903) |
+| Sun, 08 Feb 2026 03:49:00 GMT | İstənilən telefon fəaliyyətinin izlənilməsi:careless whisper | gearheader | [Read More](https://medium.com/p/047dff107190) |
+| Sun, 08 Feb 2026 03:47:28 GMT | Why Sports Movies Always Get Me | Steve Longinidis | [Read More](https://medium.com/p/e57b980c4118) |
+| Sun, 08 Feb 2026 02:56:13 GMT | SSRF > IMDS > IAM: Breaking Down a Real Cloud Attack Chain in AWS | Tyreek Haynes | [Read More](https://medium.com/p/f28c04421512) |
+| Sun, 08 Feb 2026 02:49:41 GMT | THIS AI Pentest CLI Broke My Targets In Minutes!!! | cybrNK | [Read More](https://medium.com/p/a54ac5d2ffe7) |
+| Sun, 08 Feb 2026 02:43:05 GMT | XSS leads to Infrastructure Compromise | Rahul Singh Chauhan | [Read More](https://medium.com/p/396945a701c1) |
 | Sun, 08 Feb 2026 02:42:06 GMT | Information Disclosure using URLScan Dorking | Abhirup Konwar | [Read More](https://medium.com/p/b92cda44bb03) |
 | Sun, 08 Feb 2026 02:42:02 GMT | 7 Ways to Recognize a Phishing Email in the Age of Artificial Intelligence | Emory French | [Read More](https://medium.com/p/df2a895a9048) |
 | Sun, 08 Feb 2026 02:41:41 GMT | Between Safety and Sovereignty | Tom Yonashiro | [Read More](https://medium.com/p/09028f125331) |
@@ -96,20 +114,3 @@ Cybercrime in South Africa has… | NumbWallaby | [Read More](https://medium.com
 | Sat, 07 Feb 2026 17:10:41 GMT | Top 5 Security Vulnerabilities in Modern PHP Apps (That Your Security Scanner Missed) | Technology Diaries | [Read More](https://medium.com/p/a8b250db4ecd) |
 | Sat, 07 Feb 2026 17:05:54 GMT | Automate Your Server with AI: How OpenClaw Changes the Game | Md Anik Rahman | [Read More](https://medium.com/p/8efacb3da604) |
 | Sat, 07 Feb 2026 17:00:38 GMT | Counterintelligence Preparedness for the FIFA World Cup 2026 in the United States: Training, Threat… | Andrey Spiridonov | [Read More](https://medium.com/p/49ee1fc12e2c) |
-| Sat, 07 Feb 2026 17:00:03 GMT | Osquery at Scale: A Practical Infrastructure | Shivam Bathla | [Read More](https://medium.com/p/dad548b11fd7) |
-| Sat, 07 Feb 2026 16:54:38 GMT | FREE F5 BIGIP Promo Codes @ Udemy | DeepDive4learn | [Read More](https://medium.com/p/cb74546019a5) |
-| Sat, 07 Feb 2026 16:51:45 GMT | Nully Cybersecurity CTF — Flag 3: Database Server Root | IO | [Read More](https://medium.com/p/81d6846192be) |
-| Sat, 07 Feb 2026 16:42:48 GMT | Proxy Server vs Reverse Proxy Server — What’s the Difference? | Shalu | [Read More](https://medium.com/p/290ba2d42ad7) |
-| Sat, 07 Feb 2026 16:37:21 GMT | XINTRA — NavalTech Systems Lab Walkthrough | QhtSec | [Read More](https://medium.com/p/25ee6e14927f) |
-| Sat, 07 Feb 2026 16:33:38 GMT | PHP mail() Command Injection to Remote Code Execution (RCE) | NullSecurityX | [Read More](https://medium.com/p/b2991e929ca3) |
-| Sat, 07 Feb 2026 16:21:47 GMT | What is L1, L2, L3, and L4 in Networking? (Beginner-Friendly Guide) | Shalu | [Read More](https://medium.com/p/8c5d1d2a8c78) |
-| Sat, 07 Feb 2026 16:17:19 GMT | Billing (TryHackMe) — CTF Write-up | Roshan Rajbanshi | [Read More](https://medium.com/p/e8ca469c9d9b) |
-| Sat, 07 Feb 2026 16:17:18 GMT | Blind OS Command Injection with Output Redirection | Bash Overflow | [Read More](https://medium.com/p/266bf702d288) |
-| Sat, 07 Feb 2026 16:16:21 GMT | Why Most People Learn Cybersecurity the Wrong Way | Amandogra | [Read More](https://medium.com/p/9c6be44c8f10) |
-| Sat, 07 Feb 2026 16:16:13 GMT | Look Before You Leap Into AI | ArnabSolutions | [Read More](https://medium.com/p/5b9d6968c67f) |
-| Sat, 07 Feb 2026 16:11:23 GMT | Docker Secrets & Environment Variables: Handling Sensitive Data the Right Way | Jagadeesh Kema | [Read More](https://medium.com/p/0eacb628b7d9) |
-| Sat, 07 Feb 2026 16:07:00 GMT | OpenClaw’s Security Nightmare: Lessons in Agentic Engineering Era | Nicolás Francisquelo Tacca | [Read More](https://medium.com/p/cf0e2d18ce7f) |
-| Sat, 07 Feb 2026 16:01:03 GMT | Least-Privilege Agents Without the UX Tax | Praxen | [Read More](https://medium.com/p/344de21968cb) |
-| Sat, 07 Feb 2026 16:01:01 GMT | Multi-Tenant NestJS: Stop Leaks Before They Start | Thinking Loop | [Read More](https://medium.com/p/15361ca576ab) |
-| Sat, 07 Feb 2026 16:01:01 GMT | How AI Super Bowl ads, Amazon’s spending, & Bitcoin’s slide expose where power, trust, & capital… | Qandeel Akhtar | [Read More](https://medium.com/p/2fce906c77f3) |
-| Sat, 07 Feb 2026 15:55:49 GMT | 0.CL Demistified : Ft. Portswigger Web Security Academy | Sandeep Singh Sethi | [Read More](https://medium.com/p/fb6413089991) |
