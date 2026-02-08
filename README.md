@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Feb 2026 19:20:51 GMT | Spring Boot JWT Role-Based Authentication with MongoDB: Building a Book Store Application | Matheshyogeswaran | [Read More](https://medium.com/p/66197ff76c01) |
+| Sun, 08 Feb 2026 19:14:53 GMT | Zinad IT Cyber Champions CTF - Reverse Engineering Writeup | Nyx0r | [Read More](https://medium.com/p/57383c4abb08) |
+| Sun, 08 Feb 2026 19:14:00 GMT | Your Data and Passwords Are Already for Sale. Here’s What to Do About It. | Adam Baitch | [Read More](https://medium.com/p/e8bf3a94390f) |
+| Sun, 08 Feb 2026 19:13:28 GMT | Secure ECDH Client-Server App with Example: How? | Engr. Md. Hasan Monsur | [Read More](https://medium.com/p/3bc288f185cc) |
+| Sun, 08 Feb 2026 19:12:43 GMT | Analysis of the Notepad++ Supply Chain Attack (2025) | Nomit Vyas | [Read More](https://medium.com/p/0e91a8765c44) |
+| Sun, 08 Feb 2026 19:10:12 GMT | My CompTIA Security+ (SY0–701) Exam Experience and Preparation | Ninadkarkhanis | [Read More](https://medium.com/p/d8ac89434a7d) |
+| Sun, 08 Feb 2026 19:08:53 GMT | TryHackMe — Phishing Prevention room | RK | [Read More](https://medium.com/p/6ad721478de5) |
+| Sun, 08 Feb 2026 19:08:29 GMT | When Love Finds Me. | Toni & Tales | [Read More](https://medium.com/p/ded9e73846dd) |
+| Sun, 08 Feb 2026 19:08:04 GMT | Chronique d’une arnaque presque parfaite | Laurent | [Read More](https://medium.com/p/2ce0579a8ff1) |
+| Sun, 08 Feb 2026 19:07:41 GMT | IAM Users vs Groups vs Roles: Explained for Data Analysts | Jhamel Thorne | [Read More](https://medium.com/p/a54ecc8f32fc) |
+| Sun, 08 Feb 2026 19:04:46 GMT | CyberNexus or CyberChaos: Are We Coding Our Own Downfall? | Tank Sandip | [Read More](https://medium.com/p/d828e3aa00bf) |
+| Sun, 08 Feb 2026 19:02:54 GMT | I Followed All the ‘Experts’ and I Can’t Even Recognise My Own Voice | Hugo Pan | [Read More](https://medium.com/p/2ca78f898911) |
+| Sun, 08 Feb 2026 18:42:21 GMT | OpenSearch Comprehensive Hardening Guide | SOCFortress | [Read More](https://medium.com/p/bde102d4d172) |
+| Sun, 08 Feb 2026 18:38:54 GMT | Cloud Hacking: Why Your AWS S3 Bucket is Probably Leaking Right Now | Axoloth | [Read More](https://medium.com/p/b5d79f417a79) |
+| Sun, 08 Feb 2026 18:36:31 GMT | The Great Digital Cleanse: How to Stop Being a Data Buffet
+​Subtitle: A snarky, step-by-step guide… | Ray | [Read More](https://medium.com/p/0aa8638282ec) |
 | Sun, 08 Feb 2026 18:32:32 GMT | Being “Careful Online” Isn’t Enough Anymore. Here’s Why | The Digital Reality | [Read More](https://medium.com/p/d8cfcd366d71) |
 | Sun, 08 Feb 2026 18:31:00 GMT | array interesting articles #5 | Ahmad Shabib | [Read More](https://medium.com/p/1fd83a4d2671) |
 | Sun, 08 Feb 2026 18:12:23 GMT | The Cryptography Concept Journey — Confusion | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/3d08362c4b15) |
@@ -97,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Feb 2026 12:34:52 GMT | On Choosing Someone Without Guarantees | TheycallmeMG | [Read More](https://medium.com/p/b58ca9be2a44) |
 | Sun, 08 Feb 2026 12:33:00 GMT | I Didn’t Just Connect the Files — I Connected Responsibility | Mir Shahzad | [Read More](https://medium.com/p/517bd0ccf1ea) |
 | Sun, 08 Feb 2026 12:29:15 GMT | Good News Sunday: it’s complicated. | Gerald Maria Dekkers | [Read More](https://medium.com/p/692e03bc8e52) |
-| Sun, 08 Feb 2026 12:21:01 GMT | How AI Became My Reporting Partner in Security Research | Asjad Butt | [Read More](https://medium.com/p/47e0cf2553fe) |
-| Sun, 08 Feb 2026 12:01:01 GMT | Moltbook Could Have Been Better | Suchitra Malimbada | [Read More](https://medium.com/p/9743adea008d) |
-| Sun, 08 Feb 2026 11:50:36 GMT | Fancy Bear’s Latest Trick: How APT28 is Using Quantum-Era Encryption to Evade Your Firewall | Bright Boateng | [Read More](https://medium.com/p/68f655a44a0b) |
-| Sun, 08 Feb 2026 11:39:32 GMT | How Copilot Studio Handles Data Security and Governance | Pratyusha Thumiki | [Read More](https://medium.com/p/9e41762b2abc) |
-| Sun, 08 Feb 2026 11:34:41 GMT | SQL Injection Vulnerability -DVWA | Melih Yılmaz | [Read More](https://medium.com/p/de3a9ec657bf) |
-| Sun, 08 Feb 2026 11:31:24 GMT | Microsoft Is Retiring the Remote Desktop Client on March 27, 2026 | Allan Banday | [Read More](https://medium.com/p/cdf6fd0a42ca) |
-| Sun, 08 Feb 2026 11:25:17 GMT | AI Architect Journey — Beginner — Code Authorship Attribution System | Venkata Prasanna Kumar Gade | [Read More](https://medium.com/p/272ac8df0f78) |
-| Sun, 08 Feb 2026 11:23:05 GMT | Understanding Web Vulnerability Scanner & Web/CMS Vulnerability Identification in CyberSecurity | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/76cf3eee6436) |
-| Sun, 08 Feb 2026 11:17:52 GMT | How I Approach Bug Bounties in 2026 | Muhammad Haider Tallal | [Read More](https://medium.com/p/0cb3b986e584) |
-| Sun, 08 Feb 2026 11:17:24 GMT | Top 5 Data Classification Mistakes That Could Derail Your Data Security Strategy | Niyati Daftary | [Read More](https://medium.com/p/b9e61c922f38) |
-| Sun, 08 Feb 2026 11:11:44 GMT | Practical Network Security with DMZ and IDS | Pradeep Tarakar | [Read More](https://medium.com/p/106353e9ca81) |
-| Sun, 08 Feb 2026 11:09:53 GMT | JWT Authentication Concept and Practical Implementation (End-to-End) | Vishal Rathod | [Read More](https://medium.com/p/7e1a1e2d9b19) |
-| Sun, 08 Feb 2026 11:03:10 GMT | Cafeclub writeup (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/c0e8f42bd2f3) |
-| Sun, 08 Feb 2026 10:59:51 GMT | Anthropic與神父合作注入AI「靈魂」：從複雜性視角剖析技術演化、自主慾望與形而上治理 | jerrycho | [Read More](https://medium.com/p/31549f39e7b8) |
-| Sun, 08 Feb 2026 10:52:29 GMT | Website Exploitation: Information Gathering & Vulnerability Scanning on Web and CMS | Habibi | [Read More](https://medium.com/p/363694cbfb48) |
