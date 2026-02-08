@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Feb 2026 15:28:00 GMT | ZINAD Cyber Champion 2026 Crypto Write-up | shxsu1 | [Read More](https://medium.com/p/b2a4e21eef78) |
+| Sun, 08 Feb 2026 15:24:57 GMT | PascalCTF 2026 | 0x77 | [Read More](https://medium.com/p/353e78ea9c87) |
+| Sun, 08 Feb 2026 15:21:25 GMT | The Enemy in Your Pocket: Why Global Intelligence is Failing the Telegram War | Ben Amsalo | [Read More](https://medium.com/p/4d94e1ab91dc) |
 | Sun, 08 Feb 2026 15:05:12 GMT | Sonic Go Brrr: Web Security Challenge by Cypertalants | Z3DX | [Read More](https://medium.com/p/9ac1f7affb2c) |
 | Sun, 08 Feb 2026 15:02:54 GMT | Plant Cybersecurity and AI Systems: Why Explainability Is the Most Reliable Forensics Tool | Michael W Barnett, Ph.D. | [Read More](https://medium.com/p/310d34fc4812) |
 | Sun, 08 Feb 2026 15:02:34 GMT | How to Ensure Your VPN Is Actually Protecting Your Privacy | Panos Karagiannis | [Read More](https://medium.com/p/477b7fdd8eab) |
@@ -110,6 +113,3 @@ Introduction… | Gdjdnddhdjdn | [Read More](https://medium.com/p/a7b185c96601) 
 | Sun, 08 Feb 2026 07:11:00 GMT | Claude Opus 4.6 Autonomously Discovered Over 500 Unknown Vulnerabilities | Patrik Žák | [Read More](https://medium.com/p/24708a5d49c0) |
 | Sun, 08 Feb 2026 07:05:14 GMT | Encryption, Partner APIs, and Login Error Messages: A Practical Security Retrospective | Yana | [Read More](https://medium.com/p/75a021887555) |
 | Sun, 08 Feb 2026 07:01:01 GMT | Token Theft Without Malware: When Sessions Become the New Password | Ankita Sinha | [Read More](https://medium.com/p/c9ae97d9df8a) |
-| Sun, 08 Feb 2026 07:00:46 GMT | Addressing Security Challenges in Docker Deployments | @rnab | [Read More](https://medium.com/p/e4be513de96c) |
-| Sun, 08 Feb 2026 06:55:16 GMT | MACHINE INFORMATION USING REGISTRY EXPLORER | Basmala Yasser | [Read More](https://medium.com/p/e08a9e1c3fd6) |
-| Sun, 08 Feb 2026 06:54:54 GMT | Mastering Web Monitoring with Proxies: How Novada Empowers Your Strategy | Novada | [Read More](https://medium.com/p/f483a04fd8dc) |
