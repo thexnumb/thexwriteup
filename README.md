@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Feb 2026 22:18:22 GMT | The Smurf Attack: Turning Your Network Against You | Shravan B J | [Read More](https://medium.com/p/3acfd0a5703a) |
+| Sun, 08 Feb 2026 22:12:21 GMT | Stop Blue Screens, Random Reboots, and Windows Damage | Geoffrey Wenger | [Read More](https://medium.com/p/5e0b3193736b) |
+| Sun, 08 Feb 2026 22:12:04 GMT | The Bug Hunter’s Secret Weapon | mohandika | [Read More](https://medium.com/p/2d8e13701505) |
+| Sun, 08 Feb 2026 22:11:46 GMT | Umbrella (TryHackMe) Walkthrough: From Exposed Docker Registry to Root on Host | Roshan Rajbanshi | [Read More](https://medium.com/p/ef43d2ba9120) |
+| Sun, 08 Feb 2026 22:04:50 GMT | The "Shadow AI" Blind Spot: Is Your Private Account Risking Client Privilege? | Ram Srinivasan | [Read More](https://medium.com/p/c32bc9587a89) |
+| Sun, 08 Feb 2026 21:58:34 GMT | Thread Selection Strategies for Injection via NtQueueApcThreadEx2 | S12 - 0x12Dark Development | [Read More](https://medium.com/p/0f6082e55e10) |
 | Sun, 08 Feb 2026 21:45:11 GMT | When an IoT Network Looks Healthy but Isn’t: Observing a Selective Forwarding Attack | Shreya Gajjar | [Read More](https://medium.com/p/a1c1c4882fb0) |
 | Sun, 08 Feb 2026 21:43:58 GMT | TryHackMe Write-up: Digital Footprint | Zohal | [Read More](https://medium.com/p/ef48f0ff1f5f) |
 | Sun, 08 Feb 2026 21:40:42 GMT | Generative AI for Business # 95: Super Bowl edition | Eugina Jordan | [Read More](https://medium.com/p/1ca15ca398f9) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Feb 2026 14:53:45 GMT | Renovating old iOS projects | Sergii Koval | [Read More](https://medium.com/p/78083c0d56f7) |
 | Sun, 08 Feb 2026 14:46:38 GMT | Best Bike Lock for E-Bike: Top 5 U-Locks You Can Trust in 2026 | Narjis Arshad | [Read More](https://medium.com/p/bee14ca3a87f) |
 | Sun, 08 Feb 2026 14:44:59 GMT | 15 Top Open-Source Intelligence Tools | Nik | [Read More](https://medium.com/p/48a9f9c6b6c2) |
-| Sun, 08 Feb 2026 14:43:21 GMT | Keycloak 101: User Profile & Attributes | Emre Onur | [Read More](https://medium.com/p/2a01779dae18) |
-| Sun, 08 Feb 2026 14:43:00 GMT | Keycloak 101: User Registration & Policies | Emre Onur | [Read More](https://medium.com/p/b63b73c4f4dc) |
-| Sun, 08 Feb 2026 14:34:42 GMT | I Fought Cron on Kali Linux — and Finally Won | J Chanackya | [Read More](https://medium.com/p/c0fc9e7c6690) |
-| Sun, 08 Feb 2026 14:29:45 GMT | The Infrastructure of Intent: 6 Software Trends Defining 2026 (Part 2) | Dilip Varma | [Read More](https://medium.com/p/85549e82da82) |
-| Sun, 08 Feb 2026 14:21:58 GMT | Why Can’t We Be Seagulls? | Author Black Phoenix | [Read More](https://medium.com/p/150cf1bd82dc) |
-| Sun, 08 Feb 2026 14:20:34 GMT | Mükemmel Kodun Peşinde: Siber Güvenlikte ‘İnsani’ Yanılgılarımız | Umut Baran Yavuz | [Read More](https://medium.com/p/5fcb4bc8a7d5) |
