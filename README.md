@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Feb 2026 13:46:38 GMT | Understanding Direct Syscalls in Windows | Yua Mikanana | [Read More](https://medium.com/p/0704eca0c6d2) |
+| Sun, 08 Feb 2026 13:42:47 GMT | Tryhackme: Gaming Server write up | Mggmes | [Read More](https://medium.com/p/062199f238ff) |
+| Sun, 08 Feb 2026 13:37:17 GMT | Nano-Technology’s Integration with Cybersecurity | Brandon Roach | [Read More](https://medium.com/p/a379a9fba0ed) |
+| Sun, 08 Feb 2026 13:35:41 GMT | Net-Zero Apartment Multi-Zone Thermostats: Revolutionizing Energy Management in Modern Living… | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/5f4f877e3c0d) |
+| Sun, 08 Feb 2026 13:25:45 GMT | How I Migrated from Supabase Auth to NextAuth for Custom Branding (Without Breaking Security) | Ali Zaib | [Read More](https://medium.com/p/4d9b0c1e99eb) |
+| Sun, 08 Feb 2026 13:23:58 GMT | Shift Left Became “Thrown Left” | Xiaoning Sun | [Read More](https://medium.com/p/220c20c5454d) |
+| Sun, 08 Feb 2026 13:12:41 GMT | Welcome to the United States of Paranoia | The Accidental Cowboy | [Read More](https://medium.com/p/bdbb5caec3b6) |
+| Sun, 08 Feb 2026 13:12:27 GMT | That funny media source is not alone | Thidas Senavirathna | [Read More](https://medium.com/p/d3b48ddf48ad) |
+| Sun, 08 Feb 2026 13:11:03 GMT | Phishing Is Human Hacking: Why Attackers Target People First | Jdcatarina | [Read More](https://medium.com/p/97093ef72999) |
+| Sun, 08 Feb 2026 13:06:54 GMT | Auto Mati On? Automasi? Autosomasi-On? | Mahesesa | [Read More](https://medium.com/p/ead220e31134) |
+| Sun, 08 Feb 2026 13:05:21 GMT | VirusTotal Livehunt Cheat Sheet | Nazrul Islam Rana | [Read More](https://medium.com/p/a13fe61feae6) |
+| Sun, 08 Feb 2026 13:04:04 GMT | MSI Laptop Is Redefining Gaming in 2026 — And No One Is Talking About Its Real Value Yet | techcirclehub | [Read More](https://medium.com/p/4282e2872c76) |
 | Sun, 08 Feb 2026 12:37:05 GMT | SOC302 — Suspicious Base64 Encoding/Decoding Commands Detected | CipherX9F Security | [Read More](https://medium.com/p/a50488257fa0) |
 | Sun, 08 Feb 2026 12:35:37 GMT | Boiler CTF | Parvathy P Joshy | [Read More](https://medium.com/p/de9c54761a76) |
 | Sun, 08 Feb 2026 12:34:52 GMT | On Choosing Someone Without Guarantees | TheycallmeMG | [Read More](https://medium.com/p/b58ca9be2a44) |
@@ -101,16 +113,3 @@ Introduction… | Gdjdnddhdjdn | [Read More](https://medium.com/p/a7b185c96601) 
 | Sun, 08 Feb 2026 05:19:21 GMT | Did You Ever Regret Opening Up? | Noni | [Read More](https://medium.com/p/99c29f103655) |
 | Sun, 08 Feb 2026 05:16:09 GMT | The Awakening of Linux: How Your System Comes to Life | The Cyber Student | [Read More](https://medium.com/p/f1d600d8c9f7) |
 | Sun, 08 Feb 2026 05:10:14 GMT | Transparent Tribe and the Expanding Attack Surface of Indian Startups | Deven Chhajed | [Read More](https://medium.com/p/2dd2da9c3b03) |
-| Sun, 08 Feb 2026 05:01:04 GMT | How Strong Is Dropbox Password Security? Real Password Crack Time Analysis Using Modern GPU Models | Shreya Dutta | [Read More](https://medium.com/p/9eb7225abe52) |
-| Sun, 08 Feb 2026 04:59:27 GMT | mTLS: The “VIP Club” of Network Security (and how to implement it without crying) | Levente Csikor | [Read More](https://medium.com/p/d0824868f28d) |
-| Sun, 08 Feb 2026 04:50:00 GMT | DOM XSS Vulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/1197821f896c) |
-| Sun, 08 Feb 2026 04:46:47 GMT | Ever Stared Into the Abyss, Only For It To Stare Brighter Back? | Claudia G. Petersen | [Read More](https://medium.com/p/1170cc2933f7) |
-| Sun, 08 Feb 2026 04:34:13 GMT | C# Delegate：方法的「遙控器」 | 思維舞步 MindSteps | [Read More](https://medium.com/p/00cfd2dbfa34) |
-| Sun, 08 Feb 2026 04:31:12 GMT | JWT in Cookies vs LocalStorage — Which Is Safer? | Hasan Chinthaka | [Read More](https://medium.com/p/e74602144f3c) |
-| Sun, 08 Feb 2026 04:31:08 GMT | Why Accounting Firms Become Easy Targets | Victor Yan | [Read More](https://medium.com/p/ebd4c35d3156) |
-| Sun, 08 Feb 2026 04:31:01 GMT | Tool-Calling Agents Are Injection Magnets | Praxen | [Read More](https://medium.com/p/ef671dbc39dc) |
-| Sun, 08 Feb 2026 04:30:08 GMT | What a SOC Analyst Really Does (From My Training, Labs, and Packet Analysis Practice) | Efrain | [Read More](https://medium.com/p/dfd8b602ab4a) |
-| Sun, 08 Feb 2026 04:28:17 GMT | A Journey into the AI Universe | Wayne Larsen | [Read More](https://medium.com/p/946b1e3d8872) |
-| Sun, 08 Feb 2026 04:22:05 GMT | Causes of Divorce… Its Collapse Begins in Societal Awareness, Ethics, and Upbringing 
-We are… | Best Family Law Firm in Amman Jordan - Ahmed | [Read More](https://medium.com/p/3c32f4224019) |
-| Sun, 08 Feb 2026 04:03:15 GMT | IT departments are drowning in waste. | Nick Bock | [Read More](https://medium.com/p/37c3d135f780) |
