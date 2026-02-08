@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Feb 2026 10:37:34 GMT | Quoi? In  Politics This Week | Winter Reid ❄️ | [Read More](https://medium.com/p/0b39dff4c286) |
+| Sun, 08 Feb 2026 10:36:59 GMT | ⭐ SOC342 — CVE‑2025‑53770 SharePoint ToolShell Auth Bypass and RCE | Owais Ali Khan | [Read More](https://medium.com/p/d1ab733d20f2) |
+| Sun, 08 Feb 2026 10:35:47 GMT | Why Your Social Media ‘Show-off’ is the Biggest Gift for Cyber Criminals ️ | Digital Kavach ️ | [Read More](https://medium.com/p/4d889826de37) |
+| Sun, 08 Feb 2026 10:34:41 GMT | Why Cybersecurity Training Fails More Often Than We Admit | Maria Tsilika | [Read More](https://medium.com/p/21c354c9ceed) |
 | Sun, 08 Feb 2026 10:28:23 GMT | Vulnerability. Fortunately. | Through Another Lens | [Read More](https://medium.com/p/fd5557b716e9) |
 | Sun, 08 Feb 2026 10:14:38 GMT | AI 識破詐騙實錄：Gemini 如何幫我分析偽造的 momo 中獎郵件 | John Hu | [Read More](https://medium.com/p/174ef5d14144) |
 | Sun, 08 Feb 2026 10:12:20 GMT | Each of Us Can Defend Israel | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/882cb1f9c98e) |
@@ -90,6 +94,7 @@ Introduction… | Gdjdnddhdjdn | [Read More](https://medium.com/p/a7b185c96601) 
 We are… | Best Family Law Firm in Amman Jordan - Ahmed | [Read More](https://medium.com/p/3c32f4224019) |
 | Sun, 08 Feb 2026 04:03:15 GMT | IT departments are drowning in waste. | Nick Bock | [Read More](https://medium.com/p/37c3d135f780) |
 | Sun, 08 Feb 2026 03:58:41 GMT | What the Epstein Files Teach Us About Digital Forensics and Document Authenticity | Abdul-mu'min Omotola | [Read More](https://medium.com/p/5219982f23b9) |
+| Sun, 08 Feb 2026 03:52:54 GMT | IDOR in Purchase Order Cancellation Allows Unauthorized Users to Cancel Other Users’ POs | Abu Idris Al-Muhaqqiq | [Read More](https://medium.com/p/bb9cbf4f7548) |
 | Sun, 08 Feb 2026 03:50:02 GMT | Cybersecurity Act 2: A New Architecture for EU Cyber Resilience | Viktor Davydych | [Read More](https://medium.com/p/f35960ffc903) |
 | Sun, 08 Feb 2026 03:49:00 GMT | İstənilən telefon fəaliyyətinin izlənilməsi:careless whisper | gearheader | [Read More](https://medium.com/p/047dff107190) |
 | Sun, 08 Feb 2026 03:47:28 GMT | Why Sports Movies Always Get Me | Steve Longinidis | [Read More](https://medium.com/p/e57b980c4118) |
@@ -110,8 +115,3 @@ Cybercrime in South Africa has… | NumbWallaby | [Read More](https://medium.com
 | Sun, 08 Feb 2026 01:02:11 GMT | Where Did the Logs Go? | Aaqib O. Ahmed | [Read More](https://medium.com/p/0d67fc852f11) |
 | Sun, 08 Feb 2026 01:01:01 GMT | Malicious HTTP network injection redirecting traffic to an adult website | Samuel Brice | [Read More](https://medium.com/p/46c37d06741c) |
 | Sun, 08 Feb 2026 00:54:45 GMT | What I Have Learned from Cyber-Security in My First Week. | graduatedFreshman | [Read More](https://medium.com/p/d2e5f02d02bb) |
-| Sun, 08 Feb 2026 00:50:36 GMT | Think `. env` Files are Secure? Think Again | Jamesadewara | [Read More](https://medium.com/p/201b8f4ed8ad) |
-| Sat, 07 Feb 2026 23:56:01 GMT | Governance, Risk & Compliance (GRC): Why Smart Businesses Treat It as a Brand Asset, Not Just a… | Grace Chukwunta | [Read More](https://medium.com/p/815236c37ff4) |
-| Sat, 07 Feb 2026 23:30:46 GMT | Wiz x Cloud Security Championship — Needle in a Haystack Walkthrough | Vedant Bhalerao | [Read More](https://medium.com/p/2883c8f04ccb) |
-| Sat, 07 Feb 2026 23:19:11 GMT | Quantum Vulnerabilities in Modern Cryptography | Bervice | [Read More](https://medium.com/p/f72839fde2e7) |
-| Sat, 07 Feb 2026 23:18:42 GMT | EtherNet/IP Industrial Protocol CTF Challenge HTB | Youssef El-Sibai | [Read More](https://medium.com/p/5339941df14b) |
