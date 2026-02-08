@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Feb 2026 07:05:14 GMT | Encryption, Partner APIs, and Login Error Messages: A Practical Security Retrospective | Yana | [Read More](https://medium.com/p/75a021887555) |
+| Sun, 08 Feb 2026 07:01:01 GMT | Token Theft Without Malware: When Sessions Become the New Password | Ankita Sinha | [Read More](https://medium.com/p/c9ae97d9df8a) |
+| Sun, 08 Feb 2026 07:00:46 GMT | Addressing Security Challenges in Docker Deployments | @rnab | [Read More](https://medium.com/p/e4be513de96c) |
+| Sun, 08 Feb 2026 06:55:16 GMT | MACHINE INFORMATION USING REGISTRY EXPLORER | Basmala Yasser | [Read More](https://medium.com/p/e08a9e1c3fd6) |
+| Sun, 08 Feb 2026 06:54:54 GMT | Mastering Web Monitoring with Proxies: How Novada Empowers Your Strategy | Novada | [Read More](https://medium.com/p/f483a04fd8dc) |
+| Sun, 08 Feb 2026 06:47:14 GMT | Building Automated Email Security Reports Without Buying a SIEM (And It Actually Works) — Part 2 | Muneeb Akmal | [Read More](https://medium.com/p/fbf3e7536518) |
+| Sun, 08 Feb 2026 06:46:31 GMT | Symmetric Key Distribution Using Symmetric Encryption | Bhuvana Medicherla | [Read More](https://medium.com/p/25a114d82b85) |
+| Sun, 08 Feb 2026 06:42:13 GMT | Building Automated Email Security Reports Without Buying a SIEM (And It Actually Works) — Part 1 | Muneeb Akmal | [Read More](https://medium.com/p/8c3e3a504b77) |
+| Sun, 08 Feb 2026 06:27:30 GMT | History Matters: From Westphalia to Nuclear Rivalry — Lessons for Today’s Global Disorder | MASUM BILLAH | [Read More](https://medium.com/p/2e8e0aaebf4c) |
+| Sun, 08 Feb 2026 06:14:58 GMT | Platform Product: Designing a Scalable Activity Log for Enterprise Systems | Rafhael Ajie | [Read More](https://medium.com/p/3aa0cb108568) |
+| Sun, 08 Feb 2026 06:13:20 GMT | Recover Lost Scam Money - iBolt Cyber Hacker Recovery Expert | Joel Malcolm | [Read More](https://medium.com/p/0dad92a9e23e) |
+| Sun, 08 Feb 2026 06:04:57 GMT | The Long Walk: Love, Masculinity, and Freedom in the Shadow of Domination | Urias Davis | [Read More](https://medium.com/p/4806df13b9cb) |
+| Sun, 08 Feb 2026 06:01:46 GMT | Hi MATEL, mau lari kemana? | AntiKode | [Read More](https://medium.com/p/cb927142f3b7) |
 | Sun, 08 Feb 2026 06:00:56 GMT | Máquina Ra THM | Ernesto Ramos | [Read More](https://medium.com/p/de2f8d54c358) |
 | Sun, 08 Feb 2026 05:59:04 GMT | Optimizing Network Security: The Everett and IAOZ Algorithms for ACL Management | Resma Adi Nugroho | [Read More](https://medium.com/p/26632c15210a) |
 | Sun, 08 Feb 2026 05:57:21 GMT | Writing and the Weight of the World | Amrita Tripathi | [Read More](https://medium.com/p/7f56efc86a55) |
@@ -101,16 +114,3 @@ Cybercrime in South Africa has… | NumbWallaby | [Read More](https://medium.com
 | Sat, 07 Feb 2026 18:54:26 GMT | Forgiveness and Love | Becky Hernández Kantún | [Read More](https://medium.com/p/cfc6e18c3df2) |
 | Sat, 07 Feb 2026 18:41:00 GMT | The Version of Me That Only My Therapist Sees | Shabiha | [Read More](https://medium.com/p/7e606a240a7c) |
 | Sat, 07 Feb 2026 18:31:42 GMT | The Return: Cloud Security Assessment | Aswin Govind | [Read More](https://medium.com/p/71fe27212cc2) |
-| Sat, 07 Feb 2026 18:29:09 GMT | The Spinning Coin Attack | Talex Maxim (taimax13) - #barracuda | [Read More](https://medium.com/p/ba38c2f49d40) |
-| Sat, 07 Feb 2026 18:16:27 GMT | Understanding Interceptors in Spring Boot: Building Smarter and More Secure APIs | Ngane Emmanuel | [Read More](https://medium.com/p/bd3bbc090af3) |
-| Sat, 07 Feb 2026 18:16:20 GMT | Who is Adeboye Alade? Cybersecurity Specialist & Founder of LionSec Hub". | Adeboye Alade | [Read More](https://medium.com/p/90b54dc9ef1f) |
-| Sat, 07 Feb 2026 18:11:16 GMT | The Biggest Mistake Bug Bounty Hunters Make | ghostyjoe | [Read More](https://medium.com/p/c8fd7a7a42bb) |
-| Sat, 07 Feb 2026 18:10:16 GMT | Beyond the SSH Key: Mastering GitHub Personal Access Tokens (PATs) | Yasiru Viyara | [Read More](https://medium.com/p/0930a7c9879c) |
-| Sat, 07 Feb 2026 18:08:47 GMT | ZiChmp CTF 2026: cyber champions 2026 | Amr khaled | [Read More](https://medium.com/p/abbfe3f13fc6) |
-| Sat, 07 Feb 2026 18:06:37 GMT | Agents are now hiring humans, going on Tinder‑style dates, and browsing their own Silk Road . | Vikrambalauae Aj | [Read More](https://medium.com/p/af589f256b22) |
-| Sat, 07 Feb 2026 18:04:58 GMT | Deep Leakage from Gradients (DLG): Differential privacy is all you need | Paola Canale | [Read More](https://medium.com/p/83afec75cdb9) |
-| Sat, 07 Feb 2026 18:01:41 GMT | Logging In Is Consent: How Breaches Turn Into Legal Nightmares | Travis Ray Caverhill | [Read More](https://medium.com/p/064822e8201f) |
-| Sat, 07 Feb 2026 18:00:52 GMT | ONLINE DATING SCAMS — WHY YOU MUST ALWAYS BE CAUTIOUS Love should never cost you your savings. | KOSCYBER | [Read More](https://medium.com/p/9bb6856399d3) |
-| Sat, 07 Feb 2026 17:58:08 GMT | Cyber Threat Intelligence Platform Highlight: YETI | cyber_0xGambit | [Read More](https://medium.com/p/c801541e26ee) |
-| Sat, 07 Feb 2026 17:51:40 GMT | MY HACK STORY | Kevin Ronex | [Read More](https://medium.com/p/2f1a0a2d3b3a) |
-| Sat, 07 Feb 2026 17:44:50 GMT | How I Discovered My First IDOR Vulnerability (Step-by-Step) | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/f0fc0734f980) |
