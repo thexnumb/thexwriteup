@@ -12,8 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Feb 2026 08:30:35 GMT | HOW TO PREPARE FOR THE END OF THE WORLD | Dilara Enes, RPh. | [Read More](https://medium.com/p/c0b394c1b46f) |
+| Sun, 08 Feb 2026 08:17:54 GMT | nuclei Without Noise: A Practical Guide | ghostyjoe | [Read More](https://medium.com/p/14274be7ab70) |
+| Sun, 08 Feb 2026 08:14:06 GMT | auth-aware deception with trappsec | Nikhil Salgaonkar | [Read More](https://medium.com/p/17eabc0b7e76) |
+| Sun, 08 Feb 2026 08:12:59 GMT | Code, Care, and Control, Cybersecurity, Law, and Software Governance in Contemporary Healthcare… | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/ebc891b66aaa) |
+| Sun, 08 Feb 2026 08:05:29 GMT | The Sentences That Save Us | Papered Soul | [Read More](https://medium.com/p/d68aa72c0e9f) |
+| Sun, 08 Feb 2026 08:05:04 GMT | 24–01–2026 Building / Breaking Webapps [Personal Experience] by ShellGYM [KK TAN] | Cy3erS@up | [Read More](https://medium.com/p/338ef02e8c5a) |
+| Sun, 08 Feb 2026 08:04:50 GMT | CyberChef — Hoperation Save McSkidy | Parvathy P Joshy | [Read More](https://medium.com/p/44597a8d3f6d) |
+| Sun, 08 Feb 2026 08:00:19 GMT | Can Your Internet Provider See Your Browsing History? Here’s What You Need to Know (2026 Guide) | Sadam Ali | [Read More](https://medium.com/p/da8284ff8af4) |
+| Sun, 08 Feb 2026 07:54:52 GMT | REFLECTED XSS Vulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/37017ec2351a) |
 | Sun, 08 Feb 2026 07:51:00 GMT | Why TTPs Matter More Than IOCs in Modern Cybersecurity | Abhinsubej | [Read More](https://medium.com/p/97cac53bd541) |
+| Sun, 08 Feb 2026 07:50:39 GMT | How To Prepare For The Coming Collapse of the Tech Industry | Vijay Kumar Gupta | [Read More](https://medium.com/p/ba023473dddb) |
+| Sun, 08 Feb 2026 07:47:44 GMT | Cybersecurity Jobs in Nigeria and Skills Acquisition at Vsasf Tech ICT Academy Enugu | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/11118bff4005) |
 | Sun, 08 Feb 2026 07:41:35 GMT | Artificial Intelligence and the Future of Human Rights | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/3936f6df6539) |
+| Sun, 08 Feb 2026 07:41:23 GMT | Public Wi‑Fi Security Risks Explained (What You Should Know) | BHARGAV SANDILYA | [Read More](https://medium.com/p/5ec443242392) |
 | Sun, 08 Feb 2026 07:40:18 GMT | Cybersecurity Jobs in Nigeria and Skills Acquisition at Vsasf Tech ICT Academy Enugu | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/74a6b7ae1125) |
 | Sun, 08 Feb 2026 07:38:33 GMT | Boss of the SOC Version 1 (2015) — Ransomware | Basmala Yasser | [Read More](https://medium.com/p/47c5228a27cb) |
 | Sun, 08 Feb 2026 07:36:36 GMT | Windows OS Penetration Testing Procedures at Vsasf Tech ICT Academy Enugu | Vsasf Tech ICT Academy, Enugu | [Read More](https://medium.com/p/a1c1746abb4b) |
@@ -102,15 +114,3 @@ Cybercrime in South Africa has… | NumbWallaby | [Read More](https://medium.com
 | Sat, 07 Feb 2026 20:44:31 GMT | The IT department as a strategic driver of the business | Gian Luca Vanoli | [Read More](https://medium.com/p/80705ef20bc7) |
 | Sat, 07 Feb 2026 20:43:21 GMT | Understanding Active Darkweb Markets in 2025 | Tor BBB | [Read More](https://medium.com/p/14cba9da11cd) |
 | Sat, 07 Feb 2026 20:42:33 GMT | Email Security, Audits, and the Gap Between Compliance and Real-World Risk | Rishi Patidar | [Read More](https://medium.com/p/7583b1b79988) |
-| Sat, 07 Feb 2026 20:39:20 GMT | The Age of Personal War in the IT Sector. | Utkarsh Singh | [Read More](https://medium.com/p/e48c6b939d25) |
-| Sat, 07 Feb 2026 20:17:57 GMT | Endpoint Security (Uç Nokta Güvenliği) | İsmail KAYA | [Read More](https://medium.com/p/dedbec1dfebd) |
-| Sat, 07 Feb 2026 19:53:21 GMT | One Click Cost Her Everything: A Simple Guide to Cybersecurity (Through Ann’s Eyes) | Israk Hossain Emon | [Read More](https://medium.com/p/8ef89b0a0ad2) |
-| Sat, 07 Feb 2026 19:47:56 GMT | Agentic AI: The Top Cybersecurity Threat of 2026—& To do for CISOs | Haroon Rashid | [Read More](https://medium.com/p/944d5c3886e7) |
-| Sat, 07 Feb 2026 19:44:15 GMT | Tech News Roundup: Nvidia RTX Delays, Apple Lockdown Mode, TikTok DSA Scrutiny, and More | Shl | [Read More](https://medium.com/p/61ec182ca227) |
-| Sat, 07 Feb 2026 19:31:11 GMT | The 4-Month Blind Spot: What the Substack Breach Really Means for Your Inbox | SOCFortress | [Read More](https://medium.com/p/844f536393f0) |
-| Sat, 07 Feb 2026 19:21:54 GMT | Arsenal disuasivo Español | Geoanalisis | [Read More](https://medium.com/p/8b44b60033a6) |
-| Sat, 07 Feb 2026 19:12:01 GMT | Three On-Chain Signals That Something Is Going Wrong Right Now | Exploitless | [Read More](https://medium.com/p/e31790cae704) |
-| Sat, 07 Feb 2026 19:07:39 GMT | TryHackMe — Shadow Trace Writeup | RK | [Read More](https://medium.com/p/23e33b3821af) |
-| Sat, 07 Feb 2026 19:05:01 GMT | TryHackMe — SOC Level 1 | RK | [Read More](https://medium.com/p/03181d4f9687) |
-| Sat, 07 Feb 2026 19:01:01 GMT | EU GDPR — Article 7 (Conditions for Consent) | MDM Team | [Read More](https://medium.com/p/3d274669c3d6) |
-| Sat, 07 Feb 2026 18:59:33 GMT | HTTP Header’ları | Songül Kızılay Özügürler | [Read More](https://medium.com/p/2cca90b0c841) |
