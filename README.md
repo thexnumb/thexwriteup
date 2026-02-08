@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Feb 2026 20:17:41 GMT | Security Leaders Must Design for the Outlier | Jesse Nelson | [Read More](https://medium.com/p/e13527dde67e) |
+| Sun, 08 Feb 2026 19:55:31 GMT | THM: Mr Robot CTF Walkthrough | Abhay Ingale | [Read More](https://medium.com/p/32ef537e0072) |
+| Sun, 08 Feb 2026 19:49:24 GMT | Low Hanging Fruits in Bug Bounty — Easy Bugs That Still Have Real Impact | Anshkamra | [Read More](https://medium.com/p/b4912c314685) |
 | Sun, 08 Feb 2026 19:27:34 GMT | Running on Empty | Landivola | [Read More](https://medium.com/p/faf6916e8543) |
 | Sun, 08 Feb 2026 19:26:55 GMT | Decision Latency Under Pressure. 9 Traps That Turn Smart Leaders Into a Slow Committee | Tyson Martin | [Read More](https://medium.com/p/3e2efde90286) |
 | Sun, 08 Feb 2026 19:20:51 GMT | Spring Boot JWT Role-Based Authentication with MongoDB: Building a Book Store Application | Matheshyogeswaran | [Read More](https://medium.com/p/66197ff76c01) |
@@ -110,6 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Feb 2026 13:06:54 GMT | Auto Mati On? Automasi? Autosomasi-On? | Mahesesa | [Read More](https://medium.com/p/ead220e31134) |
 | Sun, 08 Feb 2026 13:05:21 GMT | VirusTotal Livehunt Cheat Sheet | Nazrul Islam Rana | [Read More](https://medium.com/p/a13fe61feae6) |
 | Sun, 08 Feb 2026 13:04:04 GMT | MSI Laptop Is Redefining Gaming in 2026 — And No One Is Talking About Its Real Value Yet | techcirclehub | [Read More](https://medium.com/p/4282e2872c76) |
-| Sun, 08 Feb 2026 12:37:05 GMT | SOC302 — Suspicious Base64 Encoding/Decoding Commands Detected | CipherX9F Security | [Read More](https://medium.com/p/a50488257fa0) |
-| Sun, 08 Feb 2026 12:35:37 GMT | Boiler CTF | Parvathy P Joshy | [Read More](https://medium.com/p/de9c54761a76) |
-| Sun, 08 Feb 2026 12:34:52 GMT | On Choosing Someone Without Guarantees | TheycallmeMG | [Read More](https://medium.com/p/b58ca9be2a44) |
