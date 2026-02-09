@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Feb 2026 11:36:38 GMT | Mastering Windows Event Logs: A SOC Analyst’s Complete Guide | Sidhantchaurasiya | [Read More](https://medium.com/p/ca29ae46d48a) |
+| Mon, 09 Feb 2026 11:31:25 GMT | Securing the Corporation: How Certyxio (CRYI) Defends Against Synthetic Fraud | Certyxio (CRYI ) | [Read More](https://medium.com/p/6fa6bb97e261) |
+| Mon, 09 Feb 2026 11:27:27 GMT | DPDP Act 2023 + DPDP Rules 2025: A Practical Readiness Playbook for Indian Businesses | Tsaaro Consulting | [Read More](https://medium.com/p/6bd6620237d9) |
+| Mon, 09 Feb 2026 11:26:31 GMT | Part : The Modern Recon Stack - Unlocking the “Last 10%”: A Deep Dive into Cloud Recon | gopi krishnan | [Read More](https://medium.com/p/3bb584883d19) |
+| Mon, 09 Feb 2026 11:21:16 GMT | OT Cybersecurity Without Perimeters | Muhammad Ali Khan | [Read More](https://medium.com/p/67ce4de8c339) |
+| Mon, 09 Feb 2026 11:18:06 GMT | TZNXG Review: Is It Safe or Legit | TZNXG | [Read More](https://medium.com/p/31417e544563) |
+| Mon, 09 Feb 2026 11:13:52 GMT | Offenso Academy offers the best cyber security course in Kerala, designed with industry-ready… | Kiranraj | [Read More](https://medium.com/p/10592aac7c21) |
+| Mon, 09 Feb 2026 11:12:29 GMT | Top Cyber Security Course in Kerala for Ethical Hackers | Abbienowdotin | [Read More](https://medium.com/p/ce09a2522dbc) |
+| Mon, 09 Feb 2026 11:03:56 GMT | Demand Gen for AI Security: Trust is the Product | LionReachMedia | [Read More](https://medium.com/p/5b8e9e766c7e) |
+| Mon, 09 Feb 2026 11:00:04 GMT | TI Mindmap Hub - Weekly Threat Brief — Issue #3 | Antonio Formato | [Read More](https://medium.com/p/75a262d4a7c5) |
+| Mon, 09 Feb 2026 10:49:00 GMT | AI without the mystery | Rituparna Shome | [Read More](https://medium.com/p/42063b7a14ec) |
+| Mon, 09 Feb 2026 10:44:13 GMT | Best 20 artificial intelligence interview questions and answers | cyber security Updates | [Read More](https://medium.com/p/1158865f5977) |
+| Mon, 09 Feb 2026 10:40:54 GMT | Synthetic Identity Fraud | Raphaelle Gans | [Read More](https://medium.com/p/a71fb37366a2) |
+| Mon, 09 Feb 2026 10:31:01 GMT | Audit Trails for n8n: Automation You Can Prove | Vectorlane | [Read More](https://medium.com/p/81643decdb81) |
 | Mon, 09 Feb 2026 10:27:46 GMT | Are Your Passwords Actually Doomed by Quantum Computers? | Dawsar Jomaa | [Read More](https://medium.com/p/0db8b8f7bef9) |
 | Mon, 09 Feb 2026 10:11:49 GMT | Clawdbot: Why You Should NOT Give This AI the Keys to Your Computer | Markel Iglesias | [Read More](https://medium.com/p/867e5341656d) |
 | Mon, 09 Feb 2026 10:08:48 GMT | The Architecture of Trust: Navigating Risk and Security in the Proxethix (PREI) Protocol | PROXETHIX(PREI) | [Read More](https://medium.com/p/478e3427fa02) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Feb 2026 04:07:34 GMT | Why Cyber Insurance Refuses to Pay: The Fine Print After the Breach | Travis Ray Caverhill | [Read More](https://medium.com/p/e1edc5670f5c) |
 | Mon, 09 Feb 2026 04:02:23 GMT | Benefits of Phishing Simulation Training for Companies | Maxatlasofficial | [Read More](https://medium.com/p/bce71fb8147d) |
 | Mon, 09 Feb 2026 03:58:54 GMT | How Validating Phone Numbers Can Secure Your Digital Channels | Edmund Ng | [Read More](https://medium.com/p/f4c33cd53e68) |
-| Mon, 09 Feb 2026 03:51:29 GMT | Why Your SIEM Is Noisy: A Practical Breakdown of False Positives in SOCs | Sunny Dilipkumar Shah | [Read More](https://medium.com/p/c9bb96a4a7c0) |
-| Mon, 09 Feb 2026 03:50:06 GMT | Intent Redirection in a Samsung Dialer (Duplicate) SVE-2025–1217 | Happy Jester | [Read More](https://medium.com/p/0160b0d79a74) |
-| Mon, 09 Feb 2026 03:44:04 GMT | SHIELD.md: A Security Standard for OpenClaw and AI Agents | Thomas Roccia | [Read More](https://medium.com/p/b38637031460) |
-| Mon, 09 Feb 2026 03:43:17 GMT | I Stopped Trusting npm audit. Here’s How I Secure Node.js in Production | Sachin Kasana | [Read More](https://medium.com/p/a3aff42fce3d) |
-| Mon, 09 Feb 2026 03:43:15 GMT | BTLO — Cerulean — Walkthrough | Owais Ali Khan | [Read More](https://medium.com/p/28e2c2f150ce) |
-| Mon, 09 Feb 2026 03:41:00 GMT | The Hidden Signs: How Money Struggles Shape Women’s Psychology | Rebecca Brown | [Read More](https://medium.com/p/7ab48acfcc06) |
-| Mon, 09 Feb 2026 03:29:02 GMT | Platform Product: Scaling role access management across business units | Rafhael Ajie | [Read More](https://medium.com/p/428b4dd09d97) |
-| Mon, 09 Feb 2026 03:16:20 GMT | How We Built a Structured IT Consultancy Model in an Era of Fragmented Technology Decisions | Merin Joseph | [Read More](https://medium.com/p/632512f744aa) |
-| Mon, 09 Feb 2026 03:07:28 GMT | Robots and Clankers The Word That Lands Like Metal | James Kuhman | [Read More](https://medium.com/p/8cd16345f194) |
-| Mon, 09 Feb 2026 03:06:51 GMT | i erased the question before you could read it | Crimson | [Read More](https://medium.com/p/fd78baa7c81d) |
-| Mon, 09 Feb 2026 02:48:52 GMT | TryHackMe — Vulnerability Scanner Overview (Walkthrough) | Hudson Lois Marcus | [Read More](https://medium.com/p/b54707685665) |
-| Mon, 09 Feb 2026 02:37:31 GMT | Using Prowler to Audit Claude-Built Azure Infrastructure | Avinash Vishwakumar | [Read More](https://medium.com/p/02ba9819e847) |
-| Mon, 09 Feb 2026 02:32:50 GMT | Common Criteria in the SBOM Era: Do We Still Need It? | Mahfuzur Rahman | [Read More](https://medium.com/p/64b0dfcac1e5) |
-| Mon, 09 Feb 2026 02:29:35 GMT | Will UUIDs Ever Repeat? A Practical Look Beyond the Myth | Vishu Bommoju | [Read More](https://medium.com/p/c9bbfa412d86) |
