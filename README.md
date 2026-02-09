@@ -12,7 +12,32 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Feb 2026 15:55:48 GMT | Insider Risk and Insider Threats in the Modern Enterprise | cyber security threat ai | [Read More](https://medium.com/p/719ec102ba0d) |
+| Mon, 09 Feb 2026 15:55:02 GMT | Kimlik Doğrulama (Authentication) vs. Yetkilendirme (Authorization) | Göktan İren | [Read More](https://medium.com/p/5f0b9d69ab10) |
+| Mon, 09 Feb 2026 15:54:08 GMT | Windows Architecture | Aj | [Read More](https://medium.com/p/4ecdcca86f46) |
+| Mon, 09 Feb 2026 15:54:03 GMT | Rethinking Private Networks as Security Infrastructure | Dr. Enrique Somoza, D.Sc. | [Read More](https://medium.com/p/ac2421fd685c) |
+| Mon, 09 Feb 2026 15:50:16 GMT | Accountability Requires Identity: AI Agents & the Future of Digital Trust | karanam susrutha chowdary | [Read More](https://medium.com/p/49739700aee6) |
+| Mon, 09 Feb 2026 15:49:18 GMT | From Chat to Change: Why the Runtime Is the Real Risk | number40 | [Read More](https://medium.com/p/a4697c55846b) |
+| Mon, 09 Feb 2026 15:40:51 GMT | Do You Really Need to Back Up Your Data? | JustinWang | [Read More](https://medium.com/p/1bf14f9149bf) |
+| Mon, 09 Feb 2026 15:33:15 GMT | From 1970s Passwords to Modern Identity Security and How Rainbow Secure Changed Everything | Dr. Shashi Karhail | [Read More](https://medium.com/p/07d055571732) |
+| Mon, 09 Feb 2026 15:27:57 GMT | Security Camera Installation Cost Explained | AlexBryn | [Read More](https://medium.com/p/bac78481e9f8) |
+| Mon, 09 Feb 2026 15:27:12 GMT | Memfd Shared Memory Injection on android | Lord Murak | [Read More](https://medium.com/p/2e636406c101) |
+| Mon, 09 Feb 2026 15:25:16 GMT | Complete Guide to Security Camera Installation | AlexBryn | [Read More](https://medium.com/p/7de886c7de1f) |
+| Mon, 09 Feb 2026 15:23:10 GMT | How I passed my CISSP exam | Muiz Adeleke | [Read More](https://medium.com/p/b6619acaf063) |
+| Mon, 09 Feb 2026 15:22:54 GMT | Web Challenges — ZINAD x ITI Cyber Champion CTF 2026 | محمد بن إبراهيم | [Read More](https://medium.com/p/198fd5caba9a) |
+| Mon, 09 Feb 2026 15:21:43 GMT | How I Passed the PNPT on My Second Attempt (2026): Review and Tips | Gokul Karthik | [Read More](https://medium.com/p/dcdd829cd591) |
+| Mon, 09 Feb 2026 15:10:13 GMT | Weatherproof Keyless Gate Locks: The Ultimate Guide for Secure Outdoor Access | Narjis Arshad | [Read More](https://medium.com/p/3b5eaacdd1be) |
+| Mon, 09 Feb 2026 15:09:57 GMT | Awaken Business Time | Burcu Altuntas | [Read More](https://medium.com/p/7ee7a79aeb86) |
+| Mon, 09 Feb 2026 15:05:13 GMT | The Birth of Computer Security (malware) | Kevin Ronex | [Read More](https://medium.com/p/7f02e9138081) |
+| Mon, 09 Feb 2026 15:02:47 GMT | Basic Kali -Linux Commands for Ethical Hacking (Part-7) | Akhil Thakur | [Read More](https://medium.com/p/990f63e3fe41) |
+| Mon, 09 Feb 2026 15:01:13 GMT | Top Cybersecurity Attacks (2023–2025) — Lessons & Protection | Suraj Bhandari | [Read More](https://medium.com/p/b076eb346cbc) |
+| Mon, 09 Feb 2026 14:52:59 GMT | Why Data in Cassandra stays forever | Sathish Tadaka | [Read More](https://medium.com/p/69dfd44d1f7f) |
+| Mon, 09 Feb 2026 14:50:44 GMT | Invisible patients: People who fall through the healthcare safety net. | Oluwatobiloba Ajiboye | [Read More](https://medium.com/p/ad8231ed9c2c) |
+| Mon, 09 Feb 2026 14:49:54 GMT | See no Evil(ginx) / Detecting and stopping AitM phishing threats | Kulkan Security | [Read More](https://medium.com/p/4b9b368166c3) |
+| Mon, 09 Feb 2026 14:36:30 GMT | Malware Analysis: Lista de productos-AUGUST2025.js (Redline Stealer) | Cyd Tseng | [Read More](https://medium.com/p/76f6291a6b35) |
+| Mon, 09 Feb 2026 14:33:15 GMT | Synthetic Identity Fraud | Raphaelle Gans | [Read More](https://medium.com/p/d2a65dba2ac1) |
 | Mon, 09 Feb 2026 14:32:45 GMT | How AI Marketing Automation Is Changing Digital Marketing in 2026 | Aiautomationsavvy | [Read More](https://medium.com/p/557d0f881eb5) |
+| Mon, 09 Feb 2026 14:32:08 GMT | Diplomacy Soothes India & Canada Relations — Decision to Set up Security & Law-Enforcement Liaison… | Nandini Dash | [Read More](https://medium.com/p/36ba1342e9b6) |
 | Mon, 09 Feb 2026 14:26:01 GMT | What Are Passkeys: Why They Matter | SDNTechForum | [Read More](https://medium.com/p/1549b928fb8e) |
 | Mon, 09 Feb 2026 14:22:29 GMT | Transforming Businesses with Modern Technology Naiditch Groups | Prajakta Kapote | [Read More](https://medium.com/p/1569d144fa10) |
 | Mon, 09 Feb 2026 14:21:42 GMT | How I Discovered an Exposed S3 Bucket Containing Sensitive Log Data | Omar Ahmed Abdelslam | [Read More](https://medium.com/p/4d34c7fe1c81) |
@@ -87,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Feb 2026 09:44:07 GMT | The New Programming Stack: Type Less, Verify More, Don’t Get Robbed | ABV | [Read More](https://medium.com/p/a1a8dda2691c) |
 | Mon, 09 Feb 2026 09:42:10 GMT | Breaking Tenant Isolation: Critical Cross-Tenant Data Access in Stripo’s AI Hub Campaign | Krishna Kumar | [Read More](https://medium.com/p/ef9d69378314) |
 | Mon, 09 Feb 2026 09:40:51 GMT | Integration of AI in Mobile Apps - Ascendion | Ascendion | [Read More](https://medium.com/p/c4800ec08b93) |
-| Mon, 09 Feb 2026 09:35:46 GMT | New to Mobile Security? This Could Save Your App | Redfox Security | [Read More](https://medium.com/p/db1ddb9f01e2) |
-| Mon, 09 Feb 2026 09:32:18 GMT | One Click, Full Compromise: The OpenClaw Vulnerability That Broke AI Agent Security | Soumyadipta Birabar | [Read More](https://medium.com/p/bf7cf406af9f) |
-| Mon, 09 Feb 2026 09:31:00 GMT | I Spent $150K on Employee Cybersecurity Training. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/350b51d5d6d6) |
-| Mon, 09 Feb 2026 09:28:48 GMT | AI Doesn’t Create New Problems | Michelle Suramon P | [Read More](https://medium.com/p/b557dda9695b) |
-| Mon, 09 Feb 2026 09:14:47 GMT | How to Use Trivy with Kubernetes: CLI, CI/CD, and Lens Integration | Flavius Dinu | [Read More](https://medium.com/p/05c43b48c98f) |
-| Mon, 09 Feb 2026 09:05:45 GMT | How to Secure API Keys in Flutter: A Native Approach That Survives Reverse Engineering | Ufuk Sahin | [Read More](https://medium.com/p/c3a914853284) |
-| Mon, 09 Feb 2026 09:01:01 GMT | Protecting the C-Suite: Why Executive Emails Need Dedicated Leak Monitoring | Alexandre Vandamme | [Read More](https://medium.com/p/3f1063e144d7) |
-| Mon, 09 Feb 2026 09:00:30 GMT | Java isn’t wrong — you just don’t know the Integer Cache | Belarmino Silva | [Read More](https://medium.com/p/e2eb3432d12a) |
-| Mon, 09 Feb 2026 08:52:29 GMT | Application Security Testing (AST) Market Overview and Future Outlook | Michel mathew | [Read More](https://medium.com/p/419574d2c14e) |
-| Mon, 09 Feb 2026 08:51:34 GMT | Türkçe Red Team Araçları İçin Açık Kaynak Bir Atölye: AltaySec Atölye | Cansu Yıldırım | [Read More](https://medium.com/p/51020c12b484) |
-| Mon, 09 Feb 2026 08:48:31 GMT | How I Found an OOB Heap Write in V8's Atomics Implementation | Ze3ter | [Read More](https://medium.com/p/1bba5d327998) |
-| Mon, 09 Feb 2026 08:32:10 GMT | Is J-SOX Dead? The Rise of “Physical Truth” in Post-DMM Internal Controls | Satelite | [Read More](https://medium.com/p/2706b95d068f) |
-| Mon, 09 Feb 2026 08:28:13 GMT | Your Complete Roadmap to Learning AI Security in 2026: A Beginner’s Guide | Cyberbali | [Read More](https://medium.com/p/a6a6688e355f) |
-| Mon, 09 Feb 2026 08:24:23 GMT | Why Europe Is Turning Against U.S. Tech Giants: The Untold Story | Sahil Nair | [Read More](https://medium.com/p/dc27ae6e796f) |
-| Mon, 09 Feb 2026 08:19:30 GMT | My OpenClaw Experience | Kanchana Wickremasinghe | [Read More](https://medium.com/p/65cd800a78bc) |
-| Mon, 09 Feb 2026 08:18:55 GMT | katana vs waymore: When to Use Which | ghostyjoe | [Read More](https://medium.com/p/4b93c8ab153c) |
-| Mon, 09 Feb 2026 08:16:03 GMT | How Incident Response Is Becoming a Core Security Capability Today | NetWitness | [Read More](https://medium.com/p/53edc3d217cf) |
-| Mon, 09 Feb 2026 08:15:27 GMT | How I Approach a System I Have Never Seen Before | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/3fdf75f88c0d) |
-| Mon, 09 Feb 2026 08:12:44 GMT | Advanced Linux PrivEsc Toolkit: 15 Modern Tools Every Ethical Hacker Should Master | Very Lazy Tech | [Read More](https://medium.com/p/f4acfb6119e3) |
-| Mon, 09 Feb 2026 08:10:53 GMT | Classic Single Request Denial of Service (DoS) | Exploit5lover | [Read More](https://medium.com/p/1c419f33e58a) |
-| Mon, 09 Feb 2026 08:08:02 GMT | Microsoft Cloud Solutions Provider - IFI Techsolutions | IFI Techsolutions | [Read More](https://medium.com/p/cd42de7ba4d9) |
-| Mon, 09 Feb 2026 08:03:51 GMT | Cybersecurity Best Practices for SaaS Startups | Digital Aptech | [Read More](https://medium.com/p/9c370c2eabd8) |
-| Mon, 09 Feb 2026 08:00:24 GMT | Secure Your AI Agents: Running Claude in a Hardened Sandbox for Development and Analysis | Masood | [Read More](https://medium.com/p/a62d8223c8a5) |
-| Mon, 09 Feb 2026 07:51:34 GMT | STORED XSS Vulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/8d148e0cd769) |
-| Mon, 09 Feb 2026 07:51:20 GMT | IT. Never Give Up | Nickson Wilfest | [Read More](https://medium.com/p/2bd4fb39976e) |
