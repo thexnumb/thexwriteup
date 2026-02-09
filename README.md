@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Feb 2026 10:27:46 GMT | Are Your Passwords Actually Doomed by Quantum Computers? | Dawsar Jomaa | [Read More](https://medium.com/p/0db8b8f7bef9) |
+| Mon, 09 Feb 2026 10:11:49 GMT | Clawdbot: Why You Should NOT Give This AI the Keys to Your Computer | Markel Iglesias | [Read More](https://medium.com/p/867e5341656d) |
+| Mon, 09 Feb 2026 10:08:48 GMT | The Architecture of Trust: Navigating Risk and Security in the Proxethix (PREI) Protocol | PROXETHIX(PREI) | [Read More](https://medium.com/p/478e3427fa02) |
+| Mon, 09 Feb 2026 10:07:04 GMT | Cybersecurity Agency: Protecting Modern Businesses from Evolving Digital Threats | Sentry Cyber | [Read More](https://medium.com/p/a77e134960eb) |
+| Mon, 09 Feb 2026 10:03:45 GMT | Automatic Hydraulic Bollards — Smart & Secure Access Control Solutions | Etradefia | [Read More](https://medium.com/p/01e9735879a7) |
+| Mon, 09 Feb 2026 09:56:44 GMT | Compliance & Governance Path: From Audit Panic to an Audit-Ready System | Boris Gigovic | [Read More](https://medium.com/p/d8b4986412cc) |
+| Mon, 09 Feb 2026 09:55:36 GMT | Enhancing Community Safety: GuardsOn Security’s Guard Services in Whitby | Grdsnscrt | [Read More](https://medium.com/p/81b2fc8dcc79) |
+| Mon, 09 Feb 2026 09:55:13 GMT | Subdomain Takeover via an Abandoned CNAME Record | Shivam Kumar | [Read More](https://medium.com/p/e6a1fd6bf132) |
+| Mon, 09 Feb 2026 09:51:26 GMT | THE SWISS SOVEREIGNTY STACK: WHAT PRODUCT LEADERS NEED TO KNOW IN 2026 | Stephan Wirsich | [Read More](https://medium.com/p/6bbd002eab92) |
+| Mon, 09 Feb 2026 09:44:07 GMT | The New Programming Stack: Type Less, Verify More, Don’t Get Robbed | ABV | [Read More](https://medium.com/p/a1a8dda2691c) |
+| Mon, 09 Feb 2026 09:42:10 GMT | Breaking Tenant Isolation: Critical Cross-Tenant Data Access in Stripo’s AI Hub Campaign | Krishna Kumar | [Read More](https://medium.com/p/ef9d69378314) |
+| Mon, 09 Feb 2026 09:40:51 GMT | Integration of AI in Mobile Apps - Ascendion | Ascendion | [Read More](https://medium.com/p/c4800ec08b93) |
+| Mon, 09 Feb 2026 09:35:46 GMT | New to Mobile Security? This Could Save Your App | Redfox Security | [Read More](https://medium.com/p/db1ddb9f01e2) |
+| Mon, 09 Feb 2026 09:32:18 GMT | One Click, Full Compromise: The OpenClaw Vulnerability That Broke AI Agent Security | Soumyadipta Birabar | [Read More](https://medium.com/p/bf7cf406af9f) |
+| Mon, 09 Feb 2026 09:31:00 GMT | I Spent $150K on Employee Cybersecurity Training. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/350b51d5d6d6) |
+| Mon, 09 Feb 2026 09:28:48 GMT | AI Doesn’t Create New Problems | Michelle Suramon P | [Read More](https://medium.com/p/b557dda9695b) |
+| Mon, 09 Feb 2026 09:14:47 GMT | How to Use Trivy with Kubernetes: CLI, CI/CD, and Lens Integration | Flavius Dinu | [Read More](https://medium.com/p/05c43b48c98f) |
+| Mon, 09 Feb 2026 09:05:45 GMT | How to Secure API Keys in Flutter: A Native Approach That Survives Reverse Engineering | Ufuk Sahin | [Read More](https://medium.com/p/c3a914853284) |
+| Mon, 09 Feb 2026 09:01:01 GMT | Protecting the C-Suite: Why Executive Emails Need Dedicated Leak Monitoring | Alexandre Vandamme | [Read More](https://medium.com/p/3f1063e144d7) |
 | Mon, 09 Feb 2026 09:00:30 GMT | Java isn’t wrong — you just don’t know the Integer Cache | Belarmino Silva | [Read More](https://medium.com/p/e2eb3432d12a) |
 | Mon, 09 Feb 2026 08:52:29 GMT | Application Security Testing (AST) Market Overview and Future Outlook | Michel mathew | [Read More](https://medium.com/p/419574d2c14e) |
 | Mon, 09 Feb 2026 08:51:34 GMT | Türkçe Red Team Araçları İçin Açık Kaynak Bir Atölye: AltaySec Atölye | Cansu Yıldırım | [Read More](https://medium.com/p/51020c12b484) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Feb 2026 02:37:31 GMT | Using Prowler to Audit Claude-Built Azure Infrastructure | Avinash Vishwakumar | [Read More](https://medium.com/p/02ba9819e847) |
 | Mon, 09 Feb 2026 02:32:50 GMT | Common Criteria in the SBOM Era: Do We Still Need It? | Mahfuzur Rahman | [Read More](https://medium.com/p/64b0dfcac1e5) |
 | Mon, 09 Feb 2026 02:29:35 GMT | Will UUIDs Ever Repeat? A Practical Look Beyond the Myth | Vishu Bommoju | [Read More](https://medium.com/p/c9bbfa412d86) |
-| Mon, 09 Feb 2026 02:28:36 GMT | Pelican - PG - Walkthrough | Vladimir Cuc | [Read More](https://medium.com/p/55d4a8dd57b5) |
-| Mon, 09 Feb 2026 02:16:18 GMT | Blockchain in a Box (Dockerized Crypto Nodes for the Classroom) | Josh Beck | [Read More](https://medium.com/p/bf5dbdaacff6) |
-| Mon, 09 Feb 2026 02:01:33 GMT | Building LinkGuard: Turning Red Team Recon into Real-Time Slack Defense | RootHawk | [Read More](https://medium.com/p/062c145a7088) |
-| Mon, 09 Feb 2026 01:57:57 GMT | #The AI Trust Problem No One Is Talking About | Moez Abdessattar | [Read More](https://medium.com/p/ea04e411f96f) |
-| Mon, 09 Feb 2026 01:50:56 GMT | Designing IAM-Aligned Authorization for Multiplexed Multi-Tenant SaaS | Marco Marano | [Read More](https://medium.com/p/b1125696bcb1) |
-| Mon, 09 Feb 2026 01:41:02 GMT | From Attack to Detection: How I Simulated a “Living off the Land” Attack in my SOC Home Lab | Melchizedek Anyonje | [Read More](https://medium.com/p/2694d02a3b50) |
-| Mon, 09 Feb 2026 01:34:54 GMT | AI Policy-as-Code: Designing LLM Agents That Interpret and Enforce Real-World Rules | Krupa B | [Read More](https://medium.com/p/0575c0e43829) |
-| Mon, 09 Feb 2026 01:24:19 GMT | AI governance shifted from policy to enforcement this week. Here’s what that means.. | A D | [Read More](https://medium.com/p/7762415455df) |
-| Mon, 09 Feb 2026 01:09:58 GMT | How I got $600 bounty from a self hosted programme | StvRoot | [Read More](https://medium.com/p/fddd550b7850) |
-| Mon, 09 Feb 2026 01:06:07 GMT | Day 11 — Privilege escalation (Linux) | Cybersecurity with Jojo | [Read More](https://medium.com/p/b51a0f01514b) |
-| Mon, 09 Feb 2026 01:06:03 GMT | AI writes the code. AI hacks it. And human watches. | Truong (Jack) Luu | [Read More](https://medium.com/p/1fa7537c0195) |
-| Mon, 09 Feb 2026 00:58:24 GMT | Building an Active Directory IAM Lab from Scratch | Roland Archie | [Read More](https://medium.com/p/426bc4cb86f5) |
-| Mon, 09 Feb 2026 00:44:04 GMT | ClickFix to Shellcode: A Six-Stage Reverse Engineering Deep Dive | Ethan Anderson | [Read More](https://medium.com/p/a045cbe50043) |
-| Sun, 08 Feb 2026 23:50:04 GMT | Mastering Telemetry: My Journey Deploying Wazuh for Windows Endpoints | Justaworker | [Read More](https://medium.com/p/eab179ba71b2) |
-| Sun, 08 Feb 2026 23:29:10 GMT | Intel SGX — Performance | Sören Langenberg | [Read More](https://medium.com/p/d06539cd375b) |
-| Sun, 08 Feb 2026 23:02:42 GMT | Why Verified Presence Matters in an AI-Mediated World | Verified Presence Protocol | [Read More](https://medium.com/p/83a2917b7db1) |
-| Sun, 08 Feb 2026 23:00:13 GMT | Digital Rights as the New Frontier of Human Rights | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/21d9abe6b7c3) |
-| Sun, 08 Feb 2026 22:43:04 GMT | m6 — Building an Operating System, 20 Years Later | Michele Preziuso | [Read More](https://medium.com/p/f99022ebcbf3) |
-| Sun, 08 Feb 2026 22:31:25 GMT | Cryptography Challenges — ZINAD x ITI Cyber Champion CTF 2026 | محمد بن إبراهيم | [Read More](https://medium.com/p/0930f9e5ffbe) |
