@@ -12,6 +12,33 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Feb 2026 04:57:04 GMT | A letter on breaking things, building trust and the art of thinking like the enemy | Abhinav Jain | [Read More](https://medium.com/p/2e32d69835d8) |
+| Mon, 09 Feb 2026 04:52:31 GMT | Firefox Containers for IDOR & BAC Testing | Abhirup Konwar | [Read More](https://medium.com/p/1b852095f190) |
+| Mon, 09 Feb 2026 04:44:24 GMT | All I Can Do Is Rely on Myself, Even When I Need Help | Saphiraevanif | [Read More](https://medium.com/p/513c1be1c4c3) |
+| Mon, 09 Feb 2026 04:41:32 GMT | Hardware Review: The HackRF Portapack H2 | Investigator515 | [Read More](https://medium.com/p/1a32f319e6b2) |
+| Mon, 09 Feb 2026 04:31:05 GMT | Stateful vs Stateless Authentication: What Every Developer Should Know | Hasan Chinthaka | [Read More](https://medium.com/p/e91d9a30523d) |
+| Mon, 09 Feb 2026 04:23:15 GMT | Securing Your Application the Smart Way using Spring Security - SB Learning Day 27–0.27% | Kenuka Karunakaran | [Read More](https://medium.com/p/ce31b063a194) |
+| Mon, 09 Feb 2026 04:20:46 GMT | Threat Analysis: MBC-20 AI Agent (Moltbook Network) | JD | [Read More](https://medium.com/p/7a67f4323a15) |
+| Mon, 09 Feb 2026 04:13:45 GMT | Protecting Android Apps: A Practical Guide for Developers | Geeky Vartika | [Read More](https://medium.com/p/e306e7cd6fef) |
+| Mon, 09 Feb 2026 04:09:18 GMT | How the Web Works | Prince | [Read More](https://medium.com/p/f214a7369a3c) |
+| Mon, 09 Feb 2026 04:07:34 GMT | Why Cyber Insurance Refuses to Pay: The Fine Print After the Breach | Travis Ray Caverhill | [Read More](https://medium.com/p/e1edc5670f5c) |
+| Mon, 09 Feb 2026 04:02:23 GMT | Benefits of Phishing Simulation Training for Companies | Maxatlasofficial | [Read More](https://medium.com/p/bce71fb8147d) |
+| Mon, 09 Feb 2026 03:58:54 GMT | How Validating Phone Numbers Can Secure Your Digital Channels | Edmund Ng | [Read More](https://medium.com/p/f4c33cd53e68) |
+| Mon, 09 Feb 2026 03:51:29 GMT | Why Your SIEM Is Noisy: A Practical Breakdown of False Positives in SOCs | Sunny Dilipkumar Shah | [Read More](https://medium.com/p/c9bb96a4a7c0) |
+| Mon, 09 Feb 2026 03:50:06 GMT | Intent Redirection in a Samsung Dialer (Duplicate) SVE-2025–1217 | Happy Jester | [Read More](https://medium.com/p/0160b0d79a74) |
+| Mon, 09 Feb 2026 03:44:04 GMT | SHIELD.md: A Security Standard for OpenClaw and AI Agents | Thomas Roccia | [Read More](https://medium.com/p/b38637031460) |
+| Mon, 09 Feb 2026 03:43:17 GMT | I Stopped Trusting npm audit. Here’s How I Secure Node.js in Production | Sachin Kasana | [Read More](https://medium.com/p/a3aff42fce3d) |
+| Mon, 09 Feb 2026 03:43:15 GMT | BTLO — Cerulean — Walkthrough | Owais Ali Khan | [Read More](https://medium.com/p/28e2c2f150ce) |
+| Mon, 09 Feb 2026 03:41:00 GMT | The Hidden Signs: How Money Struggles Shape Women’s Psychology | Rebecca Brown | [Read More](https://medium.com/p/7ab48acfcc06) |
+| Mon, 09 Feb 2026 03:29:02 GMT | Platform Product: Scaling role access management across business units | Rafhael Ajie | [Read More](https://medium.com/p/428b4dd09d97) |
+| Mon, 09 Feb 2026 03:16:20 GMT | How We Built a Structured IT Consultancy Model in an Era of Fragmented Technology Decisions | Merin Joseph | [Read More](https://medium.com/p/632512f744aa) |
+| Mon, 09 Feb 2026 03:07:28 GMT | Robots and Clankers The Word That Lands Like Metal | James Kuhman | [Read More](https://medium.com/p/8cd16345f194) |
+| Mon, 09 Feb 2026 03:06:51 GMT | i erased the question before you could read it | Crimson | [Read More](https://medium.com/p/fd78baa7c81d) |
+| Mon, 09 Feb 2026 02:48:52 GMT | TryHackMe — Vulnerability Scanner Overview (Walkthrough) | Hudson Lois Marcus | [Read More](https://medium.com/p/b54707685665) |
+| Mon, 09 Feb 2026 02:37:31 GMT | Using Prowler to Audit Claude-Built Azure Infrastructure | Avinash Vishwakumar | [Read More](https://medium.com/p/02ba9819e847) |
+| Mon, 09 Feb 2026 02:32:50 GMT | Common Criteria in the SBOM Era: Do We Still Need It? | Mahfuzur Rahman | [Read More](https://medium.com/p/64b0dfcac1e5) |
+| Mon, 09 Feb 2026 02:29:35 GMT | Will UUIDs Ever Repeat? A Practical Look Beyond the Myth | Vishu Bommoju | [Read More](https://medium.com/p/c9bbfa412d86) |
+| Mon, 09 Feb 2026 02:28:36 GMT | Pelican - PG - Walkthrough | Vladimir Cuc | [Read More](https://medium.com/p/55d4a8dd57b5) |
 | Mon, 09 Feb 2026 02:16:18 GMT | Blockchain in a Box (Dockerized Crypto Nodes for the Classroom) | Josh Beck | [Read More](https://medium.com/p/bf5dbdaacff6) |
 | Mon, 09 Feb 2026 02:01:33 GMT | Building LinkGuard: Turning Red Team Recon into Real-Time Slack Defense | RootHawk | [Read More](https://medium.com/p/062c145a7088) |
 | Mon, 09 Feb 2026 01:57:57 GMT | #The AI Trust Problem No One Is Talking About | Moez Abdessattar | [Read More](https://medium.com/p/ea04e411f96f) |
@@ -86,30 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Feb 2026 17:52:27 GMT | CTF Challenge Writeup: The Gadget | MAS | [Read More](https://medium.com/p/0eaacfdbcc4e) |
 | Sun, 08 Feb 2026 17:50:10 GMT | DNS — How the Internet’s phonebook works | Lakshan roshana | [Read More](https://medium.com/p/0a91a1d275a5) |
 | Sun, 08 Feb 2026 17:48:28 GMT | How to Secure OpenClaw Agents with A2SPA Using Pay As You Go Execution Authorizations | Jonathan Capriola | [Read More](https://medium.com/p/9d99b581982e) |
-| Sun, 08 Feb 2026 17:47:19 GMT | String Analysis using YARA (FlareVM) | Shahzaib Khan | [Read More](https://medium.com/p/744bceb6b66d) |
-| Sun, 08 Feb 2026 17:47:10 GMT | Try Hack Me- Chocolate Factory CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/b71b16753552) |
-| Sun, 08 Feb 2026 17:47:05 GMT | What is ethical hacking? | Kevin Ronex | [Read More](https://medium.com/p/3b81addd37fd) |
-| Sun, 08 Feb 2026 17:43:50 GMT | Program File Corrupt: The High Price of AI Hype | Chris Kilgore | [Read More](https://medium.com/p/ea2c76d69ec2) |
-| Sun, 08 Feb 2026 17:41:59 GMT | SQL Injection(Blind) Vulnerability -DVWA | Melih Yılmaz | [Read More](https://medium.com/p/9b70c10a5d4a) |
-| Sun, 08 Feb 2026 17:41:17 GMT | From Royal Workshops to Global Tech: Karnataka’s Continuous Revolution | Vish Krishna | [Read More](https://medium.com/p/5da155064619) |
-| Sun, 08 Feb 2026 17:38:44 GMT | Users of an Authentication System | Anton Minin Baranovskii | [Read More](https://medium.com/p/42b1546da138) |
-| Sun, 08 Feb 2026 17:35:26 GMT | CyberDefenders: AfricanFalls Lab Walkthrough | Omar Sherif | [Read More](https://medium.com/p/ca7bc76cbb6b) |
-| Sun, 08 Feb 2026 17:33:04 GMT | Why “Out of Scope” Doesn’t Always Mean “Out of Impact” | Iski | [Read More](https://medium.com/p/480fb894b74a) |
-| Sun, 08 Feb 2026 17:27:33 GMT | Lock Change & Property Security Support in Epping, VIC: Why On-Site Protection Matters | Group One Security Services Pty Ltd | [Read More](https://medium.com/p/7fb6447cfa01) |
-| Sun, 08 Feb 2026 17:26:05 GMT | Ransomware Çağında Veri Nasıl Korunur? | Taha Altın | [Read More](https://medium.com/p/cc0341ae2e66) |
-| Sun, 08 Feb 2026 17:19:50 GMT | How I Automated My Food Delivery Invoice Analysis (And Why Every GRC Professional Should Be… | Garima Kakkar | [Read More](https://medium.com/p/90f73f09cf83) |
-| Sun, 08 Feb 2026 17:17:13 GMT | Client-Server Basics - Tryhackme | Aaron | [Read More](https://medium.com/p/2365725dfb37) |
-| Sun, 08 Feb 2026 17:12:09 GMT | Der CTF ist einfach, aber nicht seine Auswirkungen | Abuelyazid Software | [Read More](https://medium.com/p/83e9aa171b71) |
-| Sun, 08 Feb 2026 17:10:54 GMT | Zero Trust in Kubernetes Is Not Just mTLS — And 99% of Production Clusters Are Getting It Wrong | Santosh Kumar Baruah | [Read More](https://medium.com/p/b6443cddffc1) |
-| Sun, 08 Feb 2026 17:10:44 GMT | Be Breach Ready. The True North of Zero Trust 2.0 in the Age of Autonomous Cyberattacks | Agnidipta Sarkar | [Read More](https://medium.com/p/588bcfecd897) |
-| Sun, 08 Feb 2026 17:08:44 GMT | Pentester Bytes: IDOR Basics & Pentesting Methodology | Shivam Bathla | [Read More](https://medium.com/p/fbdc73fd736d) |
-| Sun, 08 Feb 2026 17:02:48 GMT | Hybrid Threats in Germany’s Baltic Region | SIMKRA | [Read More](https://medium.com/p/6915f312f2ca) |
-| Sun, 08 Feb 2026 16:54:08 GMT | What I Learned from Remediating 250,000 Cloud Vulnerabilities. | Akash Saxena | [Read More](https://medium.com/p/35071257cb39) |
-| Sun, 08 Feb 2026 16:50:00 GMT | I Logged Into Any Account Without an OTP — Here’s How I Found It | Sumit Raj | [Read More](https://medium.com/p/0a431d9d1ff6) |
-| Sun, 08 Feb 2026 16:46:33 GMT | [Installation and Usage] Shannon: Your AI-Powered Assistant for Work and Learning | Mohamed Achraf Sabbagh | [Read More](https://medium.com/p/e539b50aba21) |
-| Sun, 08 Feb 2026 16:46:14 GMT | AI Security Fundamentals: How Modern AI Systems Are Really Built | Modern Security | [Read More](https://medium.com/p/d03998dbfde4) |
-| Sun, 08 Feb 2026 16:37:14 GMT | RingZeroCTF Coding Challenge 7 [‘I Saw An Elf’] Writeup | Devansh Patel | [Read More](https://medium.com/p/0906393a6f20) |
-| Sun, 08 Feb 2026 16:32:20 GMT | CRM SaaS Broken API Authorization & Tenant Isolation attack works. | Abhay Patel | [Read More](https://medium.com/p/5e2a0a6cdb75) |
-| Sun, 08 Feb 2026 16:30:29 GMT | A 72 Hour Research Note as Early Warning for Iran | SIMKRA | [Read More](https://medium.com/p/ef39cfd2beb3) |
-| Sun, 08 Feb 2026 16:25:22 GMT | Vulnerability Management Lifecycle | Vishnu Shivalal P | [Read More](https://medium.com/p/8930cd6ae29c) |
-| Sun, 08 Feb 2026 16:24:55 GMT | [Introduction ] Shannon: Your AI-Powered Assistant for Work and Learning | Mohamed Achraf Sabbagh | [Read More](https://medium.com/p/861270b9ea77) |
