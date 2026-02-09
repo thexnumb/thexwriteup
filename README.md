@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Feb 2026 22:10:17 GMT | The Gap in the Shield, Part 2: Europe’s Emerging Commercial Threat Intelligence Ecosystem | Cyber Threat Intelligence Analyst | [Read More](https://medium.com/p/e265c0e7166b) |
+| Mon, 09 Feb 2026 22:08:01 GMT | Risk Management in Uncharted Territory: Lessons from the Golden Gate Bridge for the AI Era | Juan Pablo Castro | [Read More](https://medium.com/p/ab23b75c29cd) |
+| Mon, 09 Feb 2026 22:06:54 GMT | Blog Post 2 Title:
+How Technology Improves Data Protection Online
+Subtitle / Meta Description… | Silviawrites | [Read More](https://medium.com/p/1df9d9e93f44) |
+| Mon, 09 Feb 2026 22:06:20 GMT | Rail OT Cybersecurity — Part 1 | A H Karthikeya | [Read More](https://medium.com/p/1b4ebc385ed0) |
+| Mon, 09 Feb 2026 21:52:02 GMT | HTB: footprinting : lab 3 writeup | N0Nab0ve | [Read More](https://medium.com/p/af82fb6e5469) |
+| Mon, 09 Feb 2026 21:50:05 GMT | Blog Post 1
+Title: Internet Laws and User Privacy: What You Need to Know
+Meta Description:
+Learn… | Silviawrites | [Read More](https://medium.com/p/998fc661b446) |
+| Mon, 09 Feb 2026 21:37:26 GMT | The Global Mechanism: A Strategic Pause or a New Cyber Order? | CCD-IS | [Read More](https://medium.com/p/628316d33688) |
 | Mon, 09 Feb 2026 21:34:03 GMT | Siber Güvenliğin Mutfağına Yolculuk: AltaySec Atölye | Yaren Daşpınar | [Read More](https://medium.com/p/8ee15b9802d9) |
 | Mon, 09 Feb 2026 21:24:55 GMT | From CTI to KQL Detections: Hunting Modern Threats in 2026 | Ilyess Sellami | [Read More](https://medium.com/p/b750f1dafe3b) |
 | Mon, 09 Feb 2026 21:23:49 GMT | THM - Operation Slither | Francesco Pastore | [Read More](https://medium.com/p/3fcd93d1be22) |
@@ -105,10 +117,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Feb 2026 15:01:13 GMT | Top Cybersecurity Attacks (2023–2025) — Lessons & Protection | Suraj Bhandari | [Read More](https://medium.com/p/b076eb346cbc) |
 | Mon, 09 Feb 2026 14:52:59 GMT | Why Data in Cassandra stays forever | Sathish Tadaka | [Read More](https://medium.com/p/69dfd44d1f7f) |
 | Mon, 09 Feb 2026 14:50:44 GMT | Invisible patients: People who fall through the healthcare safety net. | Oluwatobiloba Ajiboye | [Read More](https://medium.com/p/ad8231ed9c2c) |
-| Mon, 09 Feb 2026 14:49:54 GMT | See no Evil(ginx) / Detecting and stopping AitM phishing threats | Kulkan Security | [Read More](https://medium.com/p/4b9b368166c3) |
-| Mon, 09 Feb 2026 14:36:30 GMT | Malware Analysis: Lista de productos-AUGUST2025.js (Redline Stealer) | Cyd Tseng | [Read More](https://medium.com/p/76f6291a6b35) |
-| Mon, 09 Feb 2026 14:33:15 GMT | Synthetic Identity Fraud | Raphaelle Gans | [Read More](https://medium.com/p/d2a65dba2ac1) |
-| Mon, 09 Feb 2026 14:32:45 GMT | How AI Marketing Automation Is Changing Digital Marketing in 2026 | Aiautomationsavvy | [Read More](https://medium.com/p/557d0f881eb5) |
-| Mon, 09 Feb 2026 14:32:08 GMT | Diplomacy Soothes India & Canada Relations — Decision to Set up Security & Law-Enforcement Liaison… | Nandini Dash | [Read More](https://medium.com/p/36ba1342e9b6) |
-| Mon, 09 Feb 2026 14:26:01 GMT | What Are Passkeys: Why They Matter | SDNTechForum | [Read More](https://medium.com/p/1549b928fb8e) |
-| Mon, 09 Feb 2026 14:22:29 GMT | Transforming Businesses with Modern Technology Naiditch Groups | Prajakta Kapote | [Read More](https://medium.com/p/1569d144fa10) |
