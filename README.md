@@ -12,6 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Feb 2026 14:32:45 GMT | How AI Marketing Automation Is Changing Digital Marketing in 2026 | Aiautomationsavvy | [Read More](https://medium.com/p/557d0f881eb5) |
+| Mon, 09 Feb 2026 14:26:01 GMT | What Are Passkeys: Why They Matter | SDNTechForum | [Read More](https://medium.com/p/1549b928fb8e) |
+| Mon, 09 Feb 2026 14:22:29 GMT | Transforming Businesses with Modern Technology Naiditch Groups | Prajakta Kapote | [Read More](https://medium.com/p/1569d144fa10) |
+| Mon, 09 Feb 2026 14:21:42 GMT | How I Discovered an Exposed S3 Bucket Containing Sensitive Log Data | Omar Ahmed Abdelslam | [Read More](https://medium.com/p/4d34c7fe1c81) |
+| Mon, 09 Feb 2026 14:17:36 GMT | What the Alleged Downing Street Phone Hack Reveals About Modern Communication Risk | RealTyme | [Read More](https://medium.com/p/adf012759b8d) |
+| Mon, 09 Feb 2026 14:17:16 GMT | Time Machine-PicoCTF | neerajjayesh | [Read More](https://medium.com/p/88cc11e1e5cb) |
+| Mon, 09 Feb 2026 14:10:45 GMT | Utopia: The Only Ecosystem Where Your Metadata Doesn’t Exist | Utopia P2P | [Read More](https://medium.com/p/95ec02b8d892) |
+| Mon, 09 Feb 2026 14:10:41 GMT | THM: Digital Footprint Walkthrough | Amora The Enchantress | [Read More](https://medium.com/p/807651ba2e62) |
+| Mon, 09 Feb 2026 14:09:13 GMT | Instagram Phishing Scam: How to Avoid & Stay Safe in 2026 | nexdigit | [Read More](https://medium.com/p/c33712fbf063) |
+| Mon, 09 Feb 2026 14:08:16 GMT | Just a File Upload — What Could Go Wrong? | Ghost | [Read More](https://medium.com/p/7da5220fd7a7) |
+| Mon, 09 Feb 2026 14:07:40 GMT | I Built a Tiny Tool to Stop Developers From Accidentally Committing Secrets | Ukeme Etim | [Read More](https://medium.com/p/e3733d4ff626) |
+| Mon, 09 Feb 2026 14:06:08 GMT | DeepVex: A Modern Web Reconnaissance Tool Built for Real-World Security Testing | medjahdi | [Read More](https://medium.com/p/05ce48955117) |
+| Mon, 09 Feb 2026 14:04:04 GMT | Can You Protect Your Company Secrets from AI? | Jim Anderson | [Read More](https://medium.com/p/5e5d13d18041) |
+| Mon, 09 Feb 2026 14:01:02 GMT | A Guide to Laser-Cut & Sidewinder Car Keys - Sure Lock & Key | Sure Lock & Key LLC | [Read More](https://medium.com/p/0d235ef7ba52) |
+| Mon, 09 Feb 2026 13:58:36 GMT | The Month-to-Month Contract Advantage: Why Managed IT Services With No Contract in Irvine Is the… | Technijian | [Read More](https://medium.com/p/6a2b82d5ec98) |
+| Mon, 09 Feb 2026 13:56:47 GMT | SSL/TLS Made Simple: What That Lock Icon Really Means | Muhammed Asfan - Cybersecurity Researcher | [Read More](https://medium.com/p/895dfd0529c2) |
+| Mon, 09 Feb 2026 13:49:34 GMT | Ftp backdoor session creation bug in Metasploit framework | David | [Read More](https://medium.com/p/7dc439376ae9) |
+| Mon, 09 Feb 2026 13:46:17 GMT | How I Found a Critical Kill Chain in One of Africa’s Largest Fintech Apps | Zugo Nwobi | [Read More](https://medium.com/p/4d44b94a57d5) |
+| Mon, 09 Feb 2026 13:40:38 GMT | “Coffee Break Pentesting: How AI Automated My First Security Test” | Prasheek Kamble | [Read More](https://medium.com/p/f551aaf2a6fa) |
+| Mon, 09 Feb 2026 13:34:09 GMT | Common VAPT Mistakes Junior Pentesters Make | Cynox Security LLP. | [Read More](https://medium.com/p/9b6bde7cca9c) |
+| Mon, 09 Feb 2026 13:31:20 GMT | Setting Up an FTP Server and Analyzing FTP Traffic | Karim roshdy | [Read More](https://medium.com/p/80cb003fa0eb) |
+| Mon, 09 Feb 2026 13:16:25 GMT | v13w3r - Web Security Challenge Write-Up — CyberTalents | Z3DX | [Read More](https://medium.com/p/72e74815b7fb) |
+| Mon, 09 Feb 2026 13:14:23 GMT | We Stopped Fighting Angular and Reduced Bugs by 31% | Computer Architect | [Read More](https://medium.com/p/2aac48f21974) |
+| Mon, 09 Feb 2026 13:13:10 GMT | How to Perform a MITM Attack on Android by Bypassing Root Detection and SSL Pinning | Seif Ahmed Abdelaal | [Read More](https://medium.com/p/c0cbc3469133) |
+| Mon, 09 Feb 2026 13:08:14 GMT | Russia Controls the World’s Nuclear Fuel Supply | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/034469c4f794) |
 | Mon, 09 Feb 2026 13:03:51 GMT | Web Application Security: Hands-On Practice (Chapter 9 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/9588cff94dd0) |
 | Mon, 09 Feb 2026 13:01:07 GMT | Agents + Git Repos: Secure Before You Connect | Praxen | [Read More](https://medium.com/p/20f7ec2b8f9e) |
 | Mon, 09 Feb 2026 13:01:07 GMT | A Simple Outbound Check That Exposed a “Quiet” Compromise | Faruk Ahmed | [Read More](https://medium.com/p/c2387bf8492b) |
@@ -87,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Feb 2026 08:00:24 GMT | Secure Your AI Agents: Running Claude in a Hardened Sandbox for Development and Analysis | Masood | [Read More](https://medium.com/p/a62d8223c8a5) |
 | Mon, 09 Feb 2026 07:51:34 GMT | STORED XSS Vulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/8d148e0cd769) |
 | Mon, 09 Feb 2026 07:51:20 GMT | IT. Never Give Up | Nickson Wilfest | [Read More](https://medium.com/p/2bd4fb39976e) |
-| Mon, 09 Feb 2026 07:51:15 GMT | Mobile App Security: Android vs iOS Vulnerability Trends 2026 by Eslavath Charan | KLEAP Institute of Information Security | [Read More](https://medium.com/p/a1d23b10fca0) |
-| Mon, 09 Feb 2026 07:51:00 GMT | Threat Intelligence Lifecycle Explained Step by Step | Abhinsubej | [Read More](https://medium.com/p/aa6c4735cf2c) |
-| Mon, 09 Feb 2026 07:50:44 GMT | Architecting Secure AI for Healthcare: A Layer-by-Layer Guide | Sekurno | [Read More](https://medium.com/p/9de07d24303e) |
-| Mon, 09 Feb 2026 07:46:29 GMT | The Daily Responsibilities of a CCTV Monitoring Operator | Doris William | [Read More](https://medium.com/p/93d2e226ae85) |
-| Mon, 09 Feb 2026 07:37:30 GMT | Your AI Passed QA. Then It Started Making Things Up. | Warwick McIntosh | [Read More](https://medium.com/p/4c1837cb4bfa) |
-| Mon, 09 Feb 2026 07:30:25 GMT | Cyber Sphere Cloud Security Fundamentals: Where Cloud Systems Actually Fail | Cybersphere Official | [Read More](https://medium.com/p/8dc4fefbf882) |
-| Mon, 09 Feb 2026 07:30:13 GMT | Hashing vs Encryption: Clearing One of Cybersecurity’s Biggest Confusions | Natasha Iyowe | [Read More](https://medium.com/p/26487fe92ea3) |
-| Mon, 09 Feb 2026 07:29:50 GMT | Why Growing Organizations Outsource Cybersecurity to Managed Security Providers | Gavin Ellis | [Read More](https://medium.com/p/e66801612268) |
-| Mon, 09 Feb 2026 07:26:52 GMT | Pokémon Rare Candy Cheat Guide 2026 (Fully Updated & Working) | Shirley229 | [Read More](https://medium.com/p/c8fa3e296ca2) |
-| Mon, 09 Feb 2026 07:17:17 GMT | The Ashes of the Perimeter: Why the Traditional Firewall Has Fallen | Kryptologyst | [Read More](https://medium.com/p/3a632120639e) |
-| Mon, 09 Feb 2026 07:15:20 GMT | I Got Tired of Missing Papers, So I Built Something That Doesn’t | Vincent Mico | [Read More](https://medium.com/p/3be7cfb76c01) |
-| Mon, 09 Feb 2026 07:14:06 GMT | Foundations of Zero-Knowledge Continuity in Single Family Offices | Auro Rekha | [Read More](https://medium.com/p/2a1238c4b1dd) |
-| Mon, 09 Feb 2026 07:10:29 GMT | Debugging Is Just Detective Work in a Hoodie | Fateyaly | [Read More](https://medium.com/p/d801e25341d9) |
-| Mon, 09 Feb 2026 07:10:19 GMT | Why We Built Codeward: An Open-Source Code Governance Scanner | Codeward | [Read More](https://medium.com/p/4f9d261f65c7) |
-| Mon, 09 Feb 2026 07:02:23 GMT | Wallet Security When Using STONfi | Raiden Crypto | [Read More](https://medium.com/p/241050f2e244) |
-| Mon, 09 Feb 2026 07:01:03 GMT | Unified Tenant Configuration Management (UTCM) APIs in Microsoft Graph = ❤️ | Brian Veldman | [Read More](https://medium.com/p/82209852b9ba) |
-| Mon, 09 Feb 2026 07:01:03 GMT | Cybersecurity, Cartoons, and Jawbreakers | the CyberStoic | [Read More](https://medium.com/p/b47cce585e7f) |
-| Mon, 09 Feb 2026 06:56:00 GMT | The 2FA Lie: Why Your Password Is No Longer Enough | Lalitmangeshkar | [Read More](https://medium.com/p/df3490f1c76d) |
-| Mon, 09 Feb 2026 06:47:42 GMT | Locksmith Services London That Keep You Secure 24/7 | N1locksmithsltd | [Read More](https://medium.com/p/173f29dce97d) |
-| Mon, 09 Feb 2026 06:44:40 GMT | Access Management Market Analysis: Key Vendors, Trends, and Future Outlook | Gauri Kale | [Read More](https://medium.com/p/2eb40e4fce5c) |
-| Mon, 09 Feb 2026 06:36:31 GMT | Fortinet FortiCloud SSO Zero Day Under Active Attack: When Your Firewall Becomes the Problem | itsecops cloud | [Read More](https://medium.com/p/d6d25b8c0b78) |
-| Mon, 09 Feb 2026 06:36:09 GMT | Abusing Trust: OAuth, SSO, and Identity as the New Attack Surface | Cynox Security LLP. | [Read More](https://medium.com/p/5e1a2ae78827) |
-| Mon, 09 Feb 2026 06:31:01 GMT | OAuth Token Abuse vs Session Hijacking: Same Outcome, Different Paths | Ankita Sinha | [Read More](https://medium.com/p/8f83d7e0c110) |
-| Mon, 09 Feb 2026 06:20:46 GMT | GCP Penetration Testing: A Step-by-Step Attack Guide | Andrey Pautov | [Read More](https://medium.com/p/9e39bc3eb96d) |
-| Mon, 09 Feb 2026 06:18:58 GMT | The Cryptography Concept Journey — S-Box (Substitution Box) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/28073fbf554c) |
