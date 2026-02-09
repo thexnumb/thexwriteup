@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Feb 2026 07:51:34 GMT | STORED XSS Vulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/8d148e0cd769) |
+| Mon, 09 Feb 2026 07:51:15 GMT | Mobile App Security: Android vs iOS Vulnerability Trends 2026 by Eslavath Charan | KLEAP Institute of Information Security | [Read More](https://medium.com/p/a1d23b10fca0) |
+| Mon, 09 Feb 2026 07:51:00 GMT | Threat Intelligence Lifecycle Explained Step by Step | Abhinsubej | [Read More](https://medium.com/p/aa6c4735cf2c) |
+| Mon, 09 Feb 2026 07:50:44 GMT | Architecting Secure AI for Healthcare: A Layer-by-Layer Guide | Sekurno | [Read More](https://medium.com/p/9de07d24303e) |
+| Mon, 09 Feb 2026 07:46:29 GMT | The Daily Responsibilities of a CCTV Monitoring Operator | Doris William | [Read More](https://medium.com/p/93d2e226ae85) |
+| Mon, 09 Feb 2026 07:37:30 GMT | Your AI Passed QA. Then It Started Making Things Up. | Warwick McIntosh | [Read More](https://medium.com/p/4c1837cb4bfa) |
+| Mon, 09 Feb 2026 07:30:25 GMT | Cyber Sphere Cloud Security Fundamentals: Where Cloud Systems Actually Fail | Cybersphere Official | [Read More](https://medium.com/p/8dc4fefbf882) |
+| Mon, 09 Feb 2026 07:30:13 GMT | Hashing vs Encryption: Clearing One of Cybersecurity’s Biggest Confusions | Natasha Iyowe | [Read More](https://medium.com/p/26487fe92ea3) |
+| Mon, 09 Feb 2026 07:29:50 GMT | Why Growing Organizations Outsource Cybersecurity to Managed Security Providers | Gavin Ellis | [Read More](https://medium.com/p/e66801612268) |
+| Mon, 09 Feb 2026 07:26:52 GMT | Pokémon Rare Candy Cheat Guide 2026 (Fully Updated & Working) | Shirley229 | [Read More](https://medium.com/p/c8fa3e296ca2) |
+| Mon, 09 Feb 2026 07:17:17 GMT | The Ashes of the Perimeter: Why the Traditional Firewall Has Fallen | Kryptologyst | [Read More](https://medium.com/p/3a632120639e) |
+| Mon, 09 Feb 2026 07:15:20 GMT | I Got Tired of Missing Papers, So I Built Something That Doesn’t | Vincent Mico | [Read More](https://medium.com/p/3be7cfb76c01) |
+| Mon, 09 Feb 2026 07:14:06 GMT | Foundations of Zero-Knowledge Continuity in Single Family Offices | Auro Rekha | [Read More](https://medium.com/p/2a1238c4b1dd) |
+| Mon, 09 Feb 2026 07:10:29 GMT | Debugging Is Just Detective Work in a Hoodie | Fateyaly | [Read More](https://medium.com/p/d801e25341d9) |
+| Mon, 09 Feb 2026 07:10:19 GMT | Why We Built Codeward: An Open-Source Code Governance Scanner | Codeward | [Read More](https://medium.com/p/4f9d261f65c7) |
+| Mon, 09 Feb 2026 07:02:23 GMT | Wallet Security When Using STONfi | Raiden Crypto | [Read More](https://medium.com/p/241050f2e244) |
+| Mon, 09 Feb 2026 07:01:03 GMT | Unified Tenant Configuration Management (UTCM) APIs in Microsoft Graph = ❤️ | Brian Veldman | [Read More](https://medium.com/p/82209852b9ba) |
+| Mon, 09 Feb 2026 07:01:03 GMT | Cybersecurity, Cartoons, and Jawbreakers | the CyberStoic | [Read More](https://medium.com/p/b47cce585e7f) |
+| Mon, 09 Feb 2026 06:56:00 GMT | The 2FA Lie: Why Your Password Is No Longer Enough | Lalitmangeshkar | [Read More](https://medium.com/p/df3490f1c76d) |
+| Mon, 09 Feb 2026 06:47:42 GMT | Locksmith Services London That Keep You Secure 24/7 | N1locksmithsltd | [Read More](https://medium.com/p/173f29dce97d) |
+| Mon, 09 Feb 2026 06:44:40 GMT | Access Management Market Analysis: Key Vendors, Trends, and Future Outlook | Gauri Kale | [Read More](https://medium.com/p/2eb40e4fce5c) |
 | Mon, 09 Feb 2026 06:36:31 GMT | Fortinet FortiCloud SSO Zero Day Under Active Attack: When Your Firewall Becomes the Problem | itsecops cloud | [Read More](https://medium.com/p/d6d25b8c0b78) |
 | Mon, 09 Feb 2026 06:36:09 GMT | Abusing Trust: OAuth, SSO, and Identity as the New Attack Surface | Cynox Security LLP. | [Read More](https://medium.com/p/5e1a2ae78827) |
 | Mon, 09 Feb 2026 06:31:01 GMT | OAuth Token Abuse vs Session Hijacking: Same Outcome, Different Paths | Ankita Sinha | [Read More](https://medium.com/p/8f83d7e0c110) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Feb 2026 20:54:34 GMT | Ransomware Recovery Plan Failures: Why Backups Don’t Guarantee Recovery | Shield Identity | [Read More](https://medium.com/p/8447a9b797ba) |
 | Sun, 08 Feb 2026 20:49:48 GMT | Three Ways To Pivot from Server-A to Server-B via Winrm | DuckWrites | [Read More](https://medium.com/p/e15707920b3f) |
 | Sun, 08 Feb 2026 20:47:41 GMT | Why You Should Never Use AES for Browser-Based Encryption (And What to Use Instead) | Emily Rose | [Read More](https://medium.com/p/37c9b4e5bb64) |
-| Sun, 08 Feb 2026 20:41:47 GMT | httpx: Turning Subdomains into Attack Surface | ghostyjoe | [Read More](https://medium.com/p/24f5dee7750d) |
-| Sun, 08 Feb 2026 20:39:54 GMT | My Journey Into Cloud Security: Learning IAM, SOC, and Detection Engineering | Victor Olawale | [Read More](https://medium.com/p/93ecec6c3ba5) |
-| Sun, 08 Feb 2026 20:37:28 GMT | I Eliminated Quarterly Access Reviews From My Cloud Environment. Here’s How. | Volodymyr Usov | [Read More](https://medium.com/p/8055927c4564) |
-| Sun, 08 Feb 2026 20:36:25 GMT | Threat Hunting Starts With Curiosity Ft. Harshil | DE&TH Diaries | [Read More](https://medium.com/p/947d6776d180) |
-| Sun, 08 Feb 2026 20:32:36 GMT | Enterprise Risk Analysis: OpenClaw (Clawdbot/Moltbot) | Nomit Vyas | [Read More](https://medium.com/p/7688777f777c) |
-| Sun, 08 Feb 2026 20:17:41 GMT | Security Leaders Must Design for the Outlier | Jesse Nelson | [Read More](https://medium.com/p/e13527dde67e) |
-| Sun, 08 Feb 2026 19:55:31 GMT | THM: Mr Robot CTF Walkthrough | Abhay Ingale | [Read More](https://medium.com/p/32ef537e0072) |
-| Sun, 08 Feb 2026 19:49:24 GMT | Low Hanging Fruits in Bug Bounty — Easy Bugs That Still Have Real Impact | Anshkamra | [Read More](https://medium.com/p/b4912c314685) |
-| Sun, 08 Feb 2026 19:27:34 GMT | Running on Empty | Landivola | [Read More](https://medium.com/p/faf6916e8543) |
-| Sun, 08 Feb 2026 19:26:55 GMT | Decision Latency Under Pressure. 9 Traps That Turn Smart Leaders Into a Slow Committee | Tyson Martin | [Read More](https://medium.com/p/3e2efde90286) |
-| Sun, 08 Feb 2026 19:20:51 GMT | Spring Boot JWT Role-Based Authentication with MongoDB: Building a Book Store Application | Matheshyogeswaran | [Read More](https://medium.com/p/66197ff76c01) |
-| Sun, 08 Feb 2026 19:14:53 GMT | Zinad IT Cyber Champions CTF - Reverse Engineering Writeup | Nyx0r | [Read More](https://medium.com/p/57383c4abb08) |
-| Sun, 08 Feb 2026 19:14:00 GMT | Your Data and Passwords Are Already for Sale. Here’s What to Do About It. | Adam Baitch | [Read More](https://medium.com/p/e8bf3a94390f) |
-| Sun, 08 Feb 2026 19:13:28 GMT | Secure ECDH Client-Server App with Example: How? | Engr. Md. Hasan Monsur | [Read More](https://medium.com/p/3bc288f185cc) |
-| Sun, 08 Feb 2026 19:12:43 GMT | Analysis of the Notepad++ Supply Chain Attack (2025) | Nomit Vyas | [Read More](https://medium.com/p/0e91a8765c44) |
-| Sun, 08 Feb 2026 19:10:12 GMT | My CompTIA Security+ (SY0–701) Exam Experience and Preparation | Ninadkarkhanis | [Read More](https://medium.com/p/d8ac89434a7d) |
-| Sun, 08 Feb 2026 19:08:53 GMT | TryHackMe — Phishing Prevention room | RK | [Read More](https://medium.com/p/6ad721478de5) |
-| Sun, 08 Feb 2026 19:08:29 GMT | When Love Finds Me. | Toni & Tales | [Read More](https://medium.com/p/ded9e73846dd) |
-| Sun, 08 Feb 2026 19:08:04 GMT | Chronique d’une arnaque presque parfaite | Laurent | [Read More](https://medium.com/p/2ce0579a8ff1) |
-| Sun, 08 Feb 2026 19:07:41 GMT | IAM Users vs Groups vs Roles: Explained for Data Analysts | Jhamel Thorne | [Read More](https://medium.com/p/a54ecc8f32fc) |
-| Sun, 08 Feb 2026 19:04:46 GMT | CyberNexus or CyberChaos: Are We Coding Our Own Downfall? | Tank Sandip | [Read More](https://medium.com/p/d828e3aa00bf) |
