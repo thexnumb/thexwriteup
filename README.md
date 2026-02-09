@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Feb 2026 06:36:31 GMT | Fortinet FortiCloud SSO Zero Day Under Active Attack: When Your Firewall Becomes the Problem | itsecops cloud | [Read More](https://medium.com/p/d6d25b8c0b78) |
+| Mon, 09 Feb 2026 06:36:09 GMT | Abusing Trust: OAuth, SSO, and Identity as the New Attack Surface | Cynox Security LLP. | [Read More](https://medium.com/p/5e1a2ae78827) |
+| Mon, 09 Feb 2026 06:31:01 GMT | OAuth Token Abuse vs Session Hijacking: Same Outcome, Different Paths | Ankita Sinha | [Read More](https://medium.com/p/8f83d7e0c110) |
+| Mon, 09 Feb 2026 06:20:46 GMT | GCP Penetration Testing: A Step-by-Step Attack Guide | Andrey Pautov | [Read More](https://medium.com/p/9e39bc3eb96d) |
+| Mon, 09 Feb 2026 06:18:58 GMT | The Cryptography Concept Journey — S-Box (Substitution Box) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/28073fbf554c) |
+| Mon, 09 Feb 2026 06:17:18 GMT | Stop Using JWTs for Everything: The Case for Redis Sessions, Introspection, and JWKS | Nitesh Raj Khanal | [Read More](https://medium.com/p/74bc500b1c24) |
+| Mon, 09 Feb 2026 06:16:00 GMT | Making AI Guardrails Testable | Valdez Ladd | [Read More](https://medium.com/p/5a76b2d3b293) |
+| Mon, 09 Feb 2026 06:10:42 GMT | The Invisible Backdoor in Your MLOps Pipeline: Why We Need to Stop Trusting pickle Blindly | LiamLee | [Read More](https://medium.com/p/5b1f431672ba) |
+| Mon, 09 Feb 2026 06:08:54 GMT | Windscribe VPN Pro Lifetime: A Smart Long-Term Solution for Online Privacy | Cheapersgame | [Read More](https://medium.com/p/ad4905debf00) |
+| Mon, 09 Feb 2026 06:08:19 GMT | RST TI Report Digest: 09 Feb 2026 | RST Cloud | [Read More](https://medium.com/p/8341da97484a) |
+| Mon, 09 Feb 2026 06:04:35 GMT | My First Month in Bug Bounty: Results, Numbers, and Lessons Learned | Ramazan | [Read More](https://medium.com/p/5486e8f6a409) |
+| Mon, 09 Feb 2026 06:04:06 GMT | Why banks log you out when you open a new tab | JP Caparas | [Read More](https://medium.com/p/154c63da29c9) |
+| Mon, 09 Feb 2026 05:53:30 GMT | How Event Security Services In Singapore Can Protect Your Event From Hidden Threats | Jane Tang | [Read More](https://medium.com/p/86ed7e5d6a7d) |
+| Mon, 09 Feb 2026 05:48:55 GMT | Weekly Threat Intelligence Report 2  Feb 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/38af6d2c7104) |
+| Mon, 09 Feb 2026 05:11:25 GMT | Selenium Automation of Demoblaze E-Commerce Flow: A Step-by-Step Guide | Shiva prasad | [Read More](https://medium.com/p/77b2b296d325) |
 | Mon, 09 Feb 2026 04:57:04 GMT | A letter on breaking things, building trust and the art of thinking like the enemy | Abhinav Jain | [Read More](https://medium.com/p/2e32d69835d8) |
 | Mon, 09 Feb 2026 04:52:31 GMT | Firefox Containers for IDOR & BAC Testing | Abhirup Konwar | [Read More](https://medium.com/p/1b852095f190) |
 | Mon, 09 Feb 2026 04:44:24 GMT | All I Can Do Is Rely on Myself, Even When I Need Help | Saphiraevanif | [Read More](https://medium.com/p/513c1be1c4c3) |
@@ -97,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Feb 2026 19:08:04 GMT | Chronique d’une arnaque presque parfaite | Laurent | [Read More](https://medium.com/p/2ce0579a8ff1) |
 | Sun, 08 Feb 2026 19:07:41 GMT | IAM Users vs Groups vs Roles: Explained for Data Analysts | Jhamel Thorne | [Read More](https://medium.com/p/a54ecc8f32fc) |
 | Sun, 08 Feb 2026 19:04:46 GMT | CyberNexus or CyberChaos: Are We Coding Our Own Downfall? | Tank Sandip | [Read More](https://medium.com/p/d828e3aa00bf) |
-| Sun, 08 Feb 2026 19:02:54 GMT | I Followed All the ‘Experts’ and I Can’t Even Recognise My Own Voice | Hugo Pan | [Read More](https://medium.com/p/2ca78f898911) |
-| Sun, 08 Feb 2026 18:42:21 GMT | OpenSearch Comprehensive Hardening Guide | SOCFortress | [Read More](https://medium.com/p/bde102d4d172) |
-| Sun, 08 Feb 2026 18:38:54 GMT | Cloud Hacking: Why Your AWS S3 Bucket is Probably Leaking Right Now | Axoloth | [Read More](https://medium.com/p/b5d79f417a79) |
-| Sun, 08 Feb 2026 18:36:31 GMT | The Great Digital Cleanse: How to Stop Being a Data Buffet
-​Subtitle: A snarky, step-by-step guide… | Ray | [Read More](https://medium.com/p/0aa8638282ec) |
-| Sun, 08 Feb 2026 18:32:32 GMT | Being “Careful Online” Isn’t Enough Anymore. Here’s Why | The Digital Reality | [Read More](https://medium.com/p/d8cfcd366d71) |
-| Sun, 08 Feb 2026 18:31:00 GMT | array interesting articles #5 | Ahmad Shabib | [Read More](https://medium.com/p/1fd83a4d2671) |
-| Sun, 08 Feb 2026 18:12:23 GMT | The Cryptography Concept Journey — Confusion | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/3d08362c4b15) |
-| Sun, 08 Feb 2026 18:12:19 GMT | Post-Post Agentic AI | NTTP | [Read More](https://medium.com/p/6a4fbb54e192) |
-| Sun, 08 Feb 2026 18:04:29 GMT | SQL Injection:What a Secure Code Reviewer Sees That Developers Don’t | Aryah | [Read More](https://medium.com/p/45bb3bc63b85) |
-| Sun, 08 Feb 2026 18:03:47 GMT | HackTheBox Sherlocks: Brutus | dovidee | [Read More](https://medium.com/p/18e98c54334e) |
-| Sun, 08 Feb 2026 18:01:11 GMT | Vouch: earn the right to submit a pull request | JP Caparas | [Read More](https://medium.com/p/8839e10ee914) |
-| Sun, 08 Feb 2026 17:54:37 GMT | Stolen Data on the Dark Web: What It’s Really Worth — and Why That Matters | Axel Hoehnke | [Read More](https://medium.com/p/404708c9b6df) |
-| Sun, 08 Feb 2026 17:52:27 GMT | CTF Challenge Writeup: The Gadget | MAS | [Read More](https://medium.com/p/0eaacfdbcc4e) |
-| Sun, 08 Feb 2026 17:50:10 GMT | DNS — How the Internet’s phonebook works | Lakshan roshana | [Read More](https://medium.com/p/0a91a1d275a5) |
-| Sun, 08 Feb 2026 17:48:28 GMT | How to Secure OpenClaw Agents with A2SPA Using Pay As You Go Execution Authorizations | Jonathan Capriola | [Read More](https://medium.com/p/9d99b581982e) |
