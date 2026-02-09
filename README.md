@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Feb 2026 23:28:12 GMT | Gamifying Security Testing: Introducing BurpHub | RootHawk | [Read More](https://medium.com/p/8b4595e98f07) |
+| Mon, 09 Feb 2026 23:24:11 GMT | DanaBot Lab -CyberDefender Challenge | Faris Althagafi | [Read More](https://medium.com/p/8b4fd4d741f0) |
+| Mon, 09 Feb 2026 23:10:40 GMT | Web template , KOSTEN ,Bugs , software-perspektive. | Mahmoud Mabrouk | [Read More](https://medium.com/p/6ba47fb92e6b) |
+| Mon, 09 Feb 2026 23:04:05 GMT | Windows Basics - Tryhackme | Aaron | [Read More](https://medium.com/p/7718b63f0980) |
+| Mon, 09 Feb 2026 23:02:40 GMT | Information Disclosure di LocalStorage | ozixss | [Read More](https://medium.com/p/8bb7cbc2d106) |
+| Mon, 09 Feb 2026 22:54:44 GMT | How Hackers Hack Unsecure Websites | PokeGod7 | [Read More](https://medium.com/p/3151999bede7) |
+| Mon, 09 Feb 2026 22:49:35 GMT | Networking Protocols: Backbone of Modern Communication Systems | Arya Prakash Singh | [Read More](https://medium.com/p/723bd142347f) |
+| Mon, 09 Feb 2026 22:48:04 GMT | T-Jungle CTF Challenge - Step-by-Step Web Security Write-Up — CyberTalents | Z3DX | [Read More](https://medium.com/p/03bd477c32a9) |
+| Mon, 09 Feb 2026 22:28:52 GMT | Operating Systems: Introduction - Tryhackme | Aaron | [Read More](https://medium.com/p/d2b89084a6b2) |
 | Mon, 09 Feb 2026 22:10:17 GMT | The Gap in the Shield, Part 2: Europe’s Emerging Commercial Threat Intelligence Ecosystem | Cyber Threat Intelligence Analyst | [Read More](https://medium.com/p/e265c0e7166b) |
 | Mon, 09 Feb 2026 22:08:01 GMT | Risk Management in Uncharted Territory: Lessons from the Golden Gate Bridge for the AI Era | Juan Pablo Castro | [Read More](https://medium.com/p/ab23b75c29cd) |
 | Mon, 09 Feb 2026 22:06:54 GMT | Blog Post 2 Title:
@@ -108,12 +117,3 @@ Learn… | Silviawrites | [Read More](https://medium.com/p/998fc661b446) |
 | Mon, 09 Feb 2026 15:27:12 GMT | Memfd Shared Memory Injection on android | Lord Murak | [Read More](https://medium.com/p/2e636406c101) |
 | Mon, 09 Feb 2026 15:25:16 GMT | Complete Guide to Security Camera Installation | AlexBryn | [Read More](https://medium.com/p/7de886c7de1f) |
 | Mon, 09 Feb 2026 15:23:10 GMT | How I passed my CISSP exam | Muiz Adeleke | [Read More](https://medium.com/p/b6619acaf063) |
-| Mon, 09 Feb 2026 15:22:54 GMT | Web Challenges — ZINAD x ITI Cyber Champion CTF 2026 | محمد بن إبراهيم | [Read More](https://medium.com/p/198fd5caba9a) |
-| Mon, 09 Feb 2026 15:21:43 GMT | How I Passed the PNPT on My Second Attempt (2026): Review and Tips | Gokul Karthik | [Read More](https://medium.com/p/dcdd829cd591) |
-| Mon, 09 Feb 2026 15:10:13 GMT | Weatherproof Keyless Gate Locks: The Ultimate Guide for Secure Outdoor Access | Narjis Arshad | [Read More](https://medium.com/p/3b5eaacdd1be) |
-| Mon, 09 Feb 2026 15:09:57 GMT | Awaken Business Time | Burcu Altuntas | [Read More](https://medium.com/p/7ee7a79aeb86) |
-| Mon, 09 Feb 2026 15:05:13 GMT | The Birth of Computer Security (malware) | Kevin Ronex | [Read More](https://medium.com/p/7f02e9138081) |
-| Mon, 09 Feb 2026 15:02:47 GMT | Basic Kali -Linux Commands for Ethical Hacking (Part-7) | Akhil Thakur | [Read More](https://medium.com/p/990f63e3fe41) |
-| Mon, 09 Feb 2026 15:01:13 GMT | Top Cybersecurity Attacks (2023–2025) — Lessons & Protection | Suraj Bhandari | [Read More](https://medium.com/p/b076eb346cbc) |
-| Mon, 09 Feb 2026 14:52:59 GMT | Why Data in Cassandra stays forever | Sathish Tadaka | [Read More](https://medium.com/p/69dfd44d1f7f) |
-| Mon, 09 Feb 2026 14:50:44 GMT | Invisible patients: People who fall through the healthcare safety net. | Oluwatobiloba Ajiboye | [Read More](https://medium.com/p/ad8231ed9c2c) |
