@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Feb 2026 20:26:44 GMT | The Unseen First Touch: Why We Need to Name “Indirect Online Predation” | Nukeam | [Read More](https://medium.com/p/c1e4e75ceeca) |
+| Mon, 09 Feb 2026 20:22:22 GMT | CIVITIA X OKO WALLET | Vhanzj | [Read More](https://medium.com/p/edb656dfa4e4) |
+| Mon, 09 Feb 2026 20:19:33 GMT | Linux vs Windows: Why Hackers Pick One Every Time | Shahzaib | [Read More](https://medium.com/p/b11d941adf89) |
+| Mon, 09 Feb 2026 20:04:45 GMT | We Built an Open-Source Tool to Attack-Test LLMs. Here’s What We Found. | Nathan Sportsman | [Read More](https://medium.com/p/e47b8521cad9) |
+| Mon, 09 Feb 2026 20:01:57 GMT | OverTheWire : solving Natas (0 — 15) (web security) | Meshref | [Read More](https://medium.com/p/6bf1e8a810b5) |
+| Mon, 09 Feb 2026 19:59:05 GMT | AI Recon Bots Are Watching the Net- What That Means for Hackers and Defenders | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/46dc4b114170) |
+| Mon, 09 Feb 2026 19:58:42 GMT | ️ DEFANSİF GÜVENLİK (Blue Team & SOC) | Sinan Harman | [Read More](https://medium.com/p/9604ee8ce142) |
+| Mon, 09 Feb 2026 19:58:37 GMT | When Breakthrough Happens | Mark Aylward | [Read More](https://medium.com/p/07d948d1df4f) |
+| Mon, 09 Feb 2026 19:53:37 GMT | Event ID 4720 - A user account was created | Six Dingus | [Read More](https://medium.com/p/ad19628a8ae4) |
+| Mon, 09 Feb 2026 19:53:09 GMT | Why password policies fail (Human behavior vs system security) | David Ajuzie | [Read More](https://medium.com/p/733bf7f464c0) |
+| Mon, 09 Feb 2026 19:50:51 GMT | SOC Analist Kariyer Başlangıç | Salih Sefa | [Read More](https://medium.com/p/2d345be13a0d) |
+| Mon, 09 Feb 2026 19:49:19 GMT | TakeOver-writeup | 0xAren | [Read More](https://medium.com/p/d479fcc0bd97) |
+| Mon, 09 Feb 2026 19:49:00 GMT | The Password Paradox: Why Security Theater Is Making Us Less Safe | Jakub Jirak | [Read More](https://medium.com/p/571194bf3da1) |
+| Mon, 09 Feb 2026 19:44:57 GMT | The 10 Best Cloud & Security Solution Providers Powering Enterprises | Voxline | [Read More](https://medium.com/p/1e6e8974ec70) |
 | Mon, 09 Feb 2026 19:39:51 GMT | AI Scam Emails Are More Convincing Than Ever | Emory French | [Read More](https://medium.com/p/867e510d7901) |
 | Mon, 09 Feb 2026 19:30:54 GMT | Operating Systems: Introduction · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/0ef115d007aa) |
 | Mon, 09 Feb 2026 19:25:31 GMT | APK Structure and Building Process: Learning the “Why” | Ahmed Samy ( 0xkenway ) | [Read More](https://medium.com/p/e25609a139de) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Feb 2026 14:06:08 GMT | DeepVex: A Modern Web Reconnaissance Tool Built for Real-World Security Testing | medjahdi | [Read More](https://medium.com/p/05ce48955117) |
 | Mon, 09 Feb 2026 14:04:04 GMT | Can You Protect Your Company Secrets from AI? | Jim Anderson | [Read More](https://medium.com/p/5e5d13d18041) |
 | Mon, 09 Feb 2026 14:01:02 GMT | A Guide to Laser-Cut & Sidewinder Car Keys - Sure Lock & Key | Sure Lock & Key LLC | [Read More](https://medium.com/p/0d235ef7ba52) |
-| Mon, 09 Feb 2026 13:58:36 GMT | The Month-to-Month Contract Advantage: Why Managed IT Services With No Contract in Irvine Is the… | Technijian | [Read More](https://medium.com/p/6a2b82d5ec98) |
-| Mon, 09 Feb 2026 13:56:47 GMT | SSL/TLS Made Simple: What That Lock Icon Really Means | Muhammed Asfan - Cybersecurity Researcher | [Read More](https://medium.com/p/895dfd0529c2) |
-| Mon, 09 Feb 2026 13:49:34 GMT | Ftp backdoor session creation bug in Metasploit framework | David | [Read More](https://medium.com/p/7dc439376ae9) |
-| Mon, 09 Feb 2026 13:46:17 GMT | How I Found a Critical Kill Chain in One of Africa’s Largest Fintech Apps | Zugo Nwobi | [Read More](https://medium.com/p/4d44b94a57d5) |
-| Mon, 09 Feb 2026 13:40:38 GMT | “Coffee Break Pentesting: How AI Automated My First Security Test” | Prasheek Kamble | [Read More](https://medium.com/p/f551aaf2a6fa) |
-| Mon, 09 Feb 2026 13:34:09 GMT | Common VAPT Mistakes Junior Pentesters Make | Cynox Security LLP. | [Read More](https://medium.com/p/9b6bde7cca9c) |
-| Mon, 09 Feb 2026 13:31:20 GMT | Setting Up an FTP Server and Analyzing FTP Traffic | Karim roshdy | [Read More](https://medium.com/p/80cb003fa0eb) |
-| Mon, 09 Feb 2026 13:16:25 GMT | v13w3r - Web Security Challenge Write-Up — CyberTalents | Z3DX | [Read More](https://medium.com/p/72e74815b7fb) |
-| Mon, 09 Feb 2026 13:14:23 GMT | We Stopped Fighting Angular and Reduced Bugs by 31% | Computer Architect | [Read More](https://medium.com/p/2aac48f21974) |
-| Mon, 09 Feb 2026 13:13:10 GMT | How to Perform a MITM Attack on Android by Bypassing Root Detection and SSL Pinning | Seif Ahmed Abdelaal | [Read More](https://medium.com/p/c0cbc3469133) |
-| Mon, 09 Feb 2026 13:08:14 GMT | Russia Controls the World’s Nuclear Fuel Supply | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/034469c4f794) |
-| Mon, 09 Feb 2026 13:03:51 GMT | Web Application Security: Hands-On Practice (Chapter 9 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/9588cff94dd0) |
-| Mon, 09 Feb 2026 13:01:07 GMT | Agents + Git Repos: Secure Before You Connect | Praxen | [Read More](https://medium.com/p/20f7ec2b8f9e) |
-| Mon, 09 Feb 2026 13:01:07 GMT | A Simple Outbound Check That Exposed a “Quiet” Compromise | Faruk Ahmed | [Read More](https://medium.com/p/c2387bf8492b) |
