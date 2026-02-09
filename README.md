@@ -12,6 +12,34 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Feb 2026 18:01:01 GMT | The Lethal Trifecta: Why Your AI Agent Could Be a Security Liability | Michael van Meurer | [Read More](https://medium.com/p/4b3c637b2464) |
+| Mon, 09 Feb 2026 17:55:40 GMT | Russia Ramps Up Attacks on Critical Infrastructures | Matthew.Rosenquist | [Read More](https://medium.com/p/bc9d38630d39) |
+| Mon, 09 Feb 2026 17:48:44 GMT | The 2026 Pivot: Why Your Old CISM Strategy Will Fail | abed sadek | [Read More](https://medium.com/p/83afd26af769) |
+| Mon, 09 Feb 2026 17:47:00 GMT | Remote Hustle 1.0: Onboarding for Nigerian IT Professionals | Sulaimonbelloadejoke | [Read More](https://medium.com/p/e23f551015d4) |
+| Mon, 09 Feb 2026 17:42:42 GMT | Neural Network Backdoors: When Model Poisoning Led to System Compromise | Iski | [Read More](https://medium.com/p/685f37350ec1) |
+| Mon, 09 Feb 2026 17:42:32 GMT | Modern Çağda Zihin Yorgunluğu: İnsan Düşünmüyor, Tepki Veriyor | Makersx | [Read More](https://medium.com/p/fe7e9cc67eac) |
+| Mon, 09 Feb 2026 17:41:56 GMT | Try Hack Me- Chill Hack CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/b965952b3d43) |
+| Mon, 09 Feb 2026 17:36:42 GMT | Counterintelligence as a Critical Factor in the Operational Phase of Hostage Rescue from Terrorist… | Andrey Spiridonov | [Read More](https://medium.com/p/38807ee6f0ab) |
+| Mon, 09 Feb 2026 17:27:55 GMT | Maravel-Framework 10.61.11 lost another ~10.2k rows of overhead, improving speed and security | marius-ciclistu | [Read More](https://medium.com/p/82dddd5688f4) |
+| Mon, 09 Feb 2026 17:24:16 GMT | Designing Scalable Smart Home Security Systems for Modern Projects | Discreet solution Pvt ltd | [Read More](https://medium.com/p/2c1fff22a811) |
+| Mon, 09 Feb 2026 17:23:01 GMT | Secure Access Service Edge (SASE) and CSPM for Hybrid Ecosystems: Strengthening Modern… | Digital Defense | [Read More](https://medium.com/p/51e969c461e4) |
+| Mon, 09 Feb 2026 17:21:01 GMT | AI Agents and the Rise of the Agentic SOC | Little_Sun4lower | [Read More](https://medium.com/p/f19122b4eca3) |
+| Mon, 09 Feb 2026 17:20:25 GMT | Hacking for Peace: When Digital Surveillance Kills Trust ️⚖️ | Tapan Kumar Saikia | [Read More](https://medium.com/p/5b7e4f7c1e02) |
+| Mon, 09 Feb 2026 17:19:49 GMT | Build A Phishing-Resistant Anti-Takeover Stack | Geoffrey Wenger | [Read More](https://medium.com/p/7f1049853570) |
+| Mon, 09 Feb 2026 17:18:49 GMT | How I Installed my Own Local LLM AI (Private and Uncensored and Even Air-Gapped From the Internet) | Damian Robert Moore | [Read More](https://medium.com/p/7897b2023abb) |
+| Mon, 09 Feb 2026 17:17:36 GMT | The Python Projects That Get You Hired in 2026 | Brock stone | [Read More](https://medium.com/p/5dbdf4eb3883) |
+| Mon, 09 Feb 2026 17:17:07 GMT | Introductory Networking THM_ROOM | Ahmed Eldkrory | [Read More](https://medium.com/p/62866ae1aea7) |
+| Mon, 09 Feb 2026 17:16:40 GMT | How Hackers Enumerate Networks: Practical Demo (Beginner-Friendly Lab Walkthrough) | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/5353d9d3ed9d) |
+| Mon, 09 Feb 2026 17:09:45 GMT | Penetration Testing Best Practices for Stronger Security | seo | [Read More](https://medium.com/p/d03904c58dfa) |
+| Mon, 09 Feb 2026 17:09:16 GMT | Ethical Hacking Lab: From Recon to Shell Access (Step-by-Step Beginner Walkthrough) | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/faf3e566cbda) |
+| Mon, 09 Feb 2026 16:59:39 GMT | Understanding Dark Web Search Engines: How Discovery Actually Works | Tor BBB | [Read More](https://medium.com/p/98dd8626e942) |
+| Mon, 09 Feb 2026 16:37:16 GMT | Mozilla Firefox Gave me a T-Shirt | Vikram S | [Read More](https://medium.com/p/9b31f1c98186) |
+| Mon, 09 Feb 2026 16:26:17 GMT | HTTP Request Smuggling | Lakshay Nimwal | [Read More](https://medium.com/p/0e4cfcd77bee) |
+| Mon, 09 Feb 2026 16:25:54 GMT | HTB Hacknet Walkthrough | The Mastermind Notes | [Read More](https://medium.com/p/73532ae4c793) |
+| Mon, 09 Feb 2026 16:23:45 GMT | HackTheBox Imagery Writeup | The Mastermind Notes | [Read More](https://medium.com/p/a7eb4abc5300) |
+| Mon, 09 Feb 2026 16:21:53 GMT | How to build a super cool cybersecurity career (and no, you don’t need one more certification) | h@shtalk | [Read More](https://medium.com/p/0daf3df82800) |
+| Mon, 09 Feb 2026 16:09:42 GMT | Introduction to Web Application Security | Basmala Yasser | [Read More](https://medium.com/p/4c9ff6232b0a) |
+| Mon, 09 Feb 2026 16:00:17 GMT | Dependency Management Tools Peaked in 2018. And We’ve All Been Pretending That’s Fine. | Ali Naqvi | [Read More](https://medium.com/p/ebcf6f03fc8b) |
 | Mon, 09 Feb 2026 15:55:48 GMT | Insider Risk and Insider Threats in the Modern Enterprise | cyber security threat ai | [Read More](https://medium.com/p/719ec102ba0d) |
 | Mon, 09 Feb 2026 15:55:02 GMT | Kimlik Doğrulama (Authentication) vs. Yetkilendirme (Authorization) | Göktan İren | [Read More](https://medium.com/p/5f0b9d69ab10) |
 | Mon, 09 Feb 2026 15:54:08 GMT | Windows Architecture | Aj | [Read More](https://medium.com/p/4ecdcca86f46) |
@@ -84,31 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Feb 2026 12:22:23 GMT | Transform Your Business with IT Services in San Antonio | Rx Technology | [Read More](https://medium.com/p/664adebd7120) |
 | Mon, 09 Feb 2026 12:06:45 GMT | The Phase Most Beginners Rush — And Pay For Later | Kenneth Solomon | [Read More](https://medium.com/p/7d68f23115ea) |
 | Mon, 09 Feb 2026 12:05:43 GMT | The Invisible Siege: Why Modern APTs Have Weaponized the Operating System | Sohan Kanna D | [Read More](https://medium.com/p/5f313155ea9a) |
-| Mon, 09 Feb 2026 12:01:01 GMT | Understanding CWE-201: Insertion of Sensitive Information Into Sent Data | Walter Moar | [Read More](https://medium.com/p/c0b51f37f903) |
-| Mon, 09 Feb 2026 11:36:38 GMT | Mastering Windows Event Logs: A SOC Analyst’s Complete Guide | Sidhantchaurasiya | [Read More](https://medium.com/p/ca29ae46d48a) |
-| Mon, 09 Feb 2026 11:34:23 GMT | NKSCX Review: Is It Safe or Legit? A Platform Built for Stability, Not Noise | NKSCX - Smart Crypto Trading | [Read More](https://medium.com/p/05511fddfc5b) |
-| Mon, 09 Feb 2026 11:31:25 GMT | Securing the Corporation: How Certyxio (CRYI) Defends Against Synthetic Fraud | Certyxio (CRYI ) | [Read More](https://medium.com/p/6fa6bb97e261) |
-| Mon, 09 Feb 2026 11:27:27 GMT | DPDP Act 2023 + DPDP Rules 2025: A Practical Readiness Playbook for Indian Businesses | Tsaaro Consulting | [Read More](https://medium.com/p/6bd6620237d9) |
-| Mon, 09 Feb 2026 11:26:31 GMT | Part : The Modern Recon Stack - Unlocking the “Last 10%”: A Deep Dive into Cloud Recon | gopi krishnan | [Read More](https://medium.com/p/3bb584883d19) |
-| Mon, 09 Feb 2026 11:21:16 GMT | OT Cybersecurity Without Perimeters | Muhammad Ali Khan | [Read More](https://medium.com/p/67ce4de8c339) |
-| Mon, 09 Feb 2026 11:18:06 GMT | TZNXG Review: Is It Safe or Legit | TZNXG | [Read More](https://medium.com/p/31417e544563) |
-| Mon, 09 Feb 2026 11:13:52 GMT | Offenso Academy offers the best cyber security course in Kerala, designed with industry-ready… | Kiranraj | [Read More](https://medium.com/p/10592aac7c21) |
-| Mon, 09 Feb 2026 11:12:29 GMT | Top Cyber Security Course in Kerala for Ethical Hackers | Abbienowdotin | [Read More](https://medium.com/p/ce09a2522dbc) |
-| Mon, 09 Feb 2026 11:03:56 GMT | Demand Gen for AI Security: Trust is the Product | LionReachMedia | [Read More](https://medium.com/p/5b8e9e766c7e) |
-| Mon, 09 Feb 2026 11:00:04 GMT | TI Mindmap Hub - Weekly Threat Brief — Issue #3 | Antonio Formato | [Read More](https://medium.com/p/75a262d4a7c5) |
-| Mon, 09 Feb 2026 10:49:00 GMT | AI without the mystery | Rituparna Shome | [Read More](https://medium.com/p/42063b7a14ec) |
-| Mon, 09 Feb 2026 10:44:13 GMT | Best 20 artificial intelligence interview questions and answers | cyber security Updates | [Read More](https://medium.com/p/1158865f5977) |
-| Mon, 09 Feb 2026 10:40:54 GMT | Synthetic Identity Fraud | Raphaelle Gans | [Read More](https://medium.com/p/a71fb37366a2) |
-| Mon, 09 Feb 2026 10:31:01 GMT | Audit Trails for n8n: Automation You Can Prove | Vectorlane | [Read More](https://medium.com/p/81643decdb81) |
-| Mon, 09 Feb 2026 10:27:46 GMT | Are Your Passwords Actually Doomed by Quantum Computers? | Dawsar Jomaa | [Read More](https://medium.com/p/0db8b8f7bef9) |
-| Mon, 09 Feb 2026 10:11:49 GMT | Clawdbot: Why You Should NOT Give This AI the Keys to Your Computer | Markel Iglesias | [Read More](https://medium.com/p/867e5341656d) |
-| Mon, 09 Feb 2026 10:08:48 GMT | The Architecture of Trust: Navigating Risk and Security in the Proxethix (PREI) Protocol | PROXETHIX(PREI) | [Read More](https://medium.com/p/478e3427fa02) |
-| Mon, 09 Feb 2026 10:07:04 GMT | Cybersecurity Agency: Protecting Modern Businesses from Evolving Digital Threats | Sentry Cyber | [Read More](https://medium.com/p/a77e134960eb) |
-| Mon, 09 Feb 2026 10:03:45 GMT | Automatic Hydraulic Bollards — Smart & Secure Access Control Solutions | Etradefia | [Read More](https://medium.com/p/01e9735879a7) |
-| Mon, 09 Feb 2026 09:56:44 GMT | Compliance & Governance Path: From Audit Panic to an Audit-Ready System | Boris Gigovic | [Read More](https://medium.com/p/d8b4986412cc) |
-| Mon, 09 Feb 2026 09:55:36 GMT | Enhancing Community Safety: GuardsOn Security’s Guard Services in Whitby | Grdsnscrt | [Read More](https://medium.com/p/81b2fc8dcc79) |
-| Mon, 09 Feb 2026 09:55:13 GMT | Subdomain Takeover via an Abandoned CNAME Record | Shivam Kumar | [Read More](https://medium.com/p/e6a1fd6bf132) |
-| Mon, 09 Feb 2026 09:51:26 GMT | THE SWISS SOVEREIGNTY STACK: WHAT PRODUCT LEADERS NEED TO KNOW IN 2026 | Stephan Wirsich | [Read More](https://medium.com/p/6bbd002eab92) |
-| Mon, 09 Feb 2026 09:44:07 GMT | The New Programming Stack: Type Less, Verify More, Don’t Get Robbed | ABV | [Read More](https://medium.com/p/a1a8dda2691c) |
-| Mon, 09 Feb 2026 09:42:10 GMT | Breaking Tenant Isolation: Critical Cross-Tenant Data Access in Stripo’s AI Hub Campaign | Krishna Kumar | [Read More](https://medium.com/p/ef9d69378314) |
-| Mon, 09 Feb 2026 09:40:51 GMT | Integration of AI in Mobile Apps - Ascendion | Ascendion | [Read More](https://medium.com/p/c4800ec08b93) |
