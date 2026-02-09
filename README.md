@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Feb 2026 21:34:03 GMT | Siber Güvenliğin Mutfağına Yolculuk: AltaySec Atölye | Yaren Daşpınar | [Read More](https://medium.com/p/8ee15b9802d9) |
+| Mon, 09 Feb 2026 21:24:55 GMT | From CTI to KQL Detections: Hunting Modern Threats in 2026 | Ilyess Sellami | [Read More](https://medium.com/p/b750f1dafe3b) |
+| Mon, 09 Feb 2026 21:23:49 GMT | THM - Operation Slither | Francesco Pastore | [Read More](https://medium.com/p/3fcd93d1be22) |
+| Mon, 09 Feb 2026 21:12:17 GMT | From the Trenches to the Classroom: 5 GCP Security Lessons I Learned the Hard Way | Gene Schank | [Read More](https://medium.com/p/a83e76b29e43) |
+| Mon, 09 Feb 2026 21:09:10 GMT | Windows Basics · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/07687a5dab04) |
+| Mon, 09 Feb 2026 21:07:46 GMT | THM - Message to Garcia | Francesco Pastore | [Read More](https://medium.com/p/91569f11dade) |
+| Mon, 09 Feb 2026 21:04:42 GMT | Authentication Is Not Just Login — It’s a System | Ngane Emmanuel | [Read More](https://medium.com/p/c29f17af56a5) |
+| Mon, 09 Feb 2026 21:02:58 GMT | Why sqlmap Fails (And When It Doesn’t) | ghostyjoe | [Read More](https://medium.com/p/ca14bc7d8559) |
+| Mon, 09 Feb 2026 20:44:57 GMT | I Built Minion: A Security-First AI Agent (Because OpenClaw and Nanobot Aren’t) | Nwosu Rosemary | [Read More](https://medium.com/p/22716c8393d0) |
+| Mon, 09 Feb 2026 20:41:12 GMT | Comparing Cyber Kill Chain and MITRE ATT&CK | Bhavani Vk | [Read More](https://medium.com/p/5c9d3a50a7e7) |
+| Mon, 09 Feb 2026 20:32:30 GMT | AI Jailbreaking Explained: What It Is and Why It Matters | Alphaxlegion | [Read More](https://medium.com/p/f8c823de11d4) |
 | Mon, 09 Feb 2026 20:26:44 GMT | The Unseen First Touch: Why We Need to Name “Indirect Online Predation” | Nukeam | [Read More](https://medium.com/p/c1e4e75ceeca) |
 | Mon, 09 Feb 2026 20:22:22 GMT | CIVITIA X OKO WALLET | Vhanzj | [Read More](https://medium.com/p/edb656dfa4e4) |
 | Mon, 09 Feb 2026 20:19:33 GMT | Linux vs Windows: Why Hackers Pick One Every Time | Shahzaib | [Read More](https://medium.com/p/b11d941adf89) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Feb 2026 14:32:08 GMT | Diplomacy Soothes India & Canada Relations — Decision to Set up Security & Law-Enforcement Liaison… | Nandini Dash | [Read More](https://medium.com/p/36ba1342e9b6) |
 | Mon, 09 Feb 2026 14:26:01 GMT | What Are Passkeys: Why They Matter | SDNTechForum | [Read More](https://medium.com/p/1549b928fb8e) |
 | Mon, 09 Feb 2026 14:22:29 GMT | Transforming Businesses with Modern Technology Naiditch Groups | Prajakta Kapote | [Read More](https://medium.com/p/1569d144fa10) |
-| Mon, 09 Feb 2026 14:21:42 GMT | How I Discovered an Exposed S3 Bucket Containing Sensitive Log Data | Omar Ahmed Abdelslam | [Read More](https://medium.com/p/4d34c7fe1c81) |
-| Mon, 09 Feb 2026 14:17:36 GMT | What the Alleged Downing Street Phone Hack Reveals About Modern Communication Risk | RealTyme | [Read More](https://medium.com/p/adf012759b8d) |
-| Mon, 09 Feb 2026 14:17:16 GMT | Time Machine-PicoCTF | neerajjayesh | [Read More](https://medium.com/p/88cc11e1e5cb) |
-| Mon, 09 Feb 2026 14:10:45 GMT | Utopia: The Only Ecosystem Where Your Metadata Doesn’t Exist | Utopia P2P | [Read More](https://medium.com/p/95ec02b8d892) |
-| Mon, 09 Feb 2026 14:10:41 GMT | THM: Digital Footprint Walkthrough | Amora The Enchantress | [Read More](https://medium.com/p/807651ba2e62) |
-| Mon, 09 Feb 2026 14:09:13 GMT | Instagram Phishing Scam: How to Avoid & Stay Safe in 2026 | nexdigit | [Read More](https://medium.com/p/c33712fbf063) |
-| Mon, 09 Feb 2026 14:08:16 GMT | Just a File Upload — What Could Go Wrong? | Ghost | [Read More](https://medium.com/p/7da5220fd7a7) |
-| Mon, 09 Feb 2026 14:07:40 GMT | I Built a Tiny Tool to Stop Developers From Accidentally Committing Secrets | Ukeme Etim | [Read More](https://medium.com/p/e3733d4ff626) |
-| Mon, 09 Feb 2026 14:06:08 GMT | DeepVex: A Modern Web Reconnaissance Tool Built for Real-World Security Testing | medjahdi | [Read More](https://medium.com/p/05ce48955117) |
-| Mon, 09 Feb 2026 14:04:04 GMT | Can You Protect Your Company Secrets from AI? | Jim Anderson | [Read More](https://medium.com/p/5e5d13d18041) |
-| Mon, 09 Feb 2026 14:01:02 GMT | A Guide to Laser-Cut & Sidewinder Car Keys - Sure Lock & Key | Sure Lock & Key LLC | [Read More](https://medium.com/p/0d235ef7ba52) |
