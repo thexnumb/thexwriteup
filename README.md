@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Feb 2026 02:16:18 GMT | Blockchain in a Box (Dockerized Crypto Nodes for the Classroom) | Josh Beck | [Read More](https://medium.com/p/bf5dbdaacff6) |
+| Mon, 09 Feb 2026 02:01:33 GMT | Building LinkGuard: Turning Red Team Recon into Real-Time Slack Defense | RootHawk | [Read More](https://medium.com/p/062c145a7088) |
+| Mon, 09 Feb 2026 01:57:57 GMT | #The AI Trust Problem No One Is Talking About | Moez Abdessattar | [Read More](https://medium.com/p/ea04e411f96f) |
+| Mon, 09 Feb 2026 01:50:56 GMT | Designing IAM-Aligned Authorization for Multiplexed Multi-Tenant SaaS | Marco Marano | [Read More](https://medium.com/p/b1125696bcb1) |
+| Mon, 09 Feb 2026 01:41:02 GMT | From Attack to Detection: How I Simulated a “Living off the Land” Attack in my SOC Home Lab | Melchizedek Anyonje | [Read More](https://medium.com/p/2694d02a3b50) |
+| Mon, 09 Feb 2026 01:34:54 GMT | AI Policy-as-Code: Designing LLM Agents That Interpret and Enforce Real-World Rules | Krupa B | [Read More](https://medium.com/p/0575c0e43829) |
+| Mon, 09 Feb 2026 01:24:19 GMT | AI governance shifted from policy to enforcement this week. Here’s what that means.. | A D | [Read More](https://medium.com/p/7762415455df) |
+| Mon, 09 Feb 2026 01:09:58 GMT | How I got $600 bounty from a self hosted programme | StvRoot | [Read More](https://medium.com/p/fddd550b7850) |
+| Mon, 09 Feb 2026 01:06:07 GMT | Day 11 — Privilege escalation (Linux) | Cybersecurity with Jojo | [Read More](https://medium.com/p/b51a0f01514b) |
+| Mon, 09 Feb 2026 01:06:03 GMT | AI writes the code. AI hacks it. And human watches. | Truong (Jack) Luu | [Read More](https://medium.com/p/1fa7537c0195) |
+| Mon, 09 Feb 2026 00:58:24 GMT | Building an Active Directory IAM Lab from Scratch | Roland Archie | [Read More](https://medium.com/p/426bc4cb86f5) |
+| Mon, 09 Feb 2026 00:44:04 GMT | ClickFix to Shellcode: A Six-Stage Reverse Engineering Deep Dive | Ethan Anderson | [Read More](https://medium.com/p/a045cbe50043) |
+| Sun, 08 Feb 2026 23:50:04 GMT | Mastering Telemetry: My Journey Deploying Wazuh for Windows Endpoints | Justaworker | [Read More](https://medium.com/p/eab179ba71b2) |
 | Sun, 08 Feb 2026 23:29:10 GMT | Intel SGX — Performance | Sören Langenberg | [Read More](https://medium.com/p/d06539cd375b) |
 | Sun, 08 Feb 2026 23:02:42 GMT | Why Verified Presence Matters in an AI-Mediated World | Verified Presence Protocol | [Read More](https://medium.com/p/83a2917b7db1) |
 | Sun, 08 Feb 2026 23:00:13 GMT | Digital Rights as the New Frontier of Human Rights | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/21d9abe6b7c3) |
@@ -100,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Feb 2026 16:30:29 GMT | A 72 Hour Research Note as Early Warning for Iran | SIMKRA | [Read More](https://medium.com/p/ef39cfd2beb3) |
 | Sun, 08 Feb 2026 16:25:22 GMT | Vulnerability Management Lifecycle | Vishnu Shivalal P | [Read More](https://medium.com/p/8930cd6ae29c) |
 | Sun, 08 Feb 2026 16:24:55 GMT | [Introduction ] Shannon: Your AI-Powered Assistant for Work and Learning | Mohamed Achraf Sabbagh | [Read More](https://medium.com/p/861270b9ea77) |
-| Sun, 08 Feb 2026 16:22:21 GMT | Red Teaming for Software Engineers: Build Systems Like an Attacker Is Already Reading Your Code | Porosh | [Read More](https://medium.com/p/b9a836fb5282) |
-| Sun, 08 Feb 2026 16:19:27 GMT | Windows Subsystem for Linux WSL2 is a more Stable and Usable Way to run Kali within Windows | Damian Robert Moore | [Read More](https://medium.com/p/1d60e07390f4) |
-| Sun, 08 Feb 2026 16:15:36 GMT | How to Fix SSL Certificate Errors on Linux: A Complete Guide | Nikhil Goyal , DevSecOps | [Read More](https://medium.com/p/f83dacdd3535) |
-| Sun, 08 Feb 2026 16:13:57 GMT | Panduan Hydra — Try Hack Me | Rendy Riawan | [Read More](https://medium.com/p/7c345085bdbe) |
-| Sun, 08 Feb 2026 16:12:19 GMT | Scanning & Enumeration -The Phase Where Systems Start Talking Back | Amandogra | [Read More](https://medium.com/p/53e83561c063) |
-| Sun, 08 Feb 2026 16:08:04 GMT | Threat Hunting with Splunk: Lateral Movement via WMI | Allen Ace | [Read More](https://medium.com/p/420ae0d04c2c) |
-| Sun, 08 Feb 2026 16:06:33 GMT | Cybersecurity in 2026: The Quiet War We’re All Already Part Of | Little_Sun4lower | [Read More](https://medium.com/p/e876fe21d8c8) |
-| Sun, 08 Feb 2026 15:57:00 GMT | OSCP Zero to Hero: Link Vortex | Zaynah Smith-DaSilva | [Read More](https://medium.com/p/608bd52b3d44) |
-| Sun, 08 Feb 2026 15:50:41 GMT | Sadness Too Heavy to Cry | Nanmoon | [Read More](https://medium.com/p/c3c6a319942f) |
-| Sun, 08 Feb 2026 15:48:30 GMT | Some random collection of my thoughts | Suneel Masarapu | [Read More](https://medium.com/p/853ebae930ff) |
-| Sun, 08 Feb 2026 15:28:00 GMT | ZINAD Cyber Champion 2026 Crypto Write-up | shxsu1 | [Read More](https://medium.com/p/b2a4e21eef78) |
-| Sun, 08 Feb 2026 15:24:57 GMT | PascalCTF 2026 | 0x77 | [Read More](https://medium.com/p/353e78ea9c87) |
-| Sun, 08 Feb 2026 15:21:25 GMT | The Enemy in Your Pocket: Why Global Intelligence is Failing the Telegram War | Ben Amsalo | [Read More](https://medium.com/p/4d94e1ab91dc) |
