@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Feb 2026 19:39:51 GMT | AI Scam Emails Are More Convincing Than Ever | Emory French | [Read More](https://medium.com/p/867e510d7901) |
+| Mon, 09 Feb 2026 19:30:54 GMT | Operating Systems: Introduction · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/0ef115d007aa) |
+| Mon, 09 Feb 2026 19:25:31 GMT | APK Structure and Building Process: Learning the “Why” | Ahmed Samy ( 0xkenway ) | [Read More](https://medium.com/p/e25609a139de) |
+| Mon, 09 Feb 2026 19:24:57 GMT | Understanding Command & Control (C2)(C&C) — Part 1 | Youssef Said Thabet | [Read More](https://medium.com/p/c235eefcbf74) |
+| Mon, 09 Feb 2026 19:24:15 GMT | TryHackMe Writeup: Corridor | Berkay AĞGÜL | [Read More](https://medium.com/p/83a5932aee11) |
+| Mon, 09 Feb 2026 19:23:49 GMT | Just-In-Time Access for EC2 Is an Architectural Decision, Not an Automation Trick | Surya Naga Sesank Munukutla | [Read More](https://medium.com/p/1ab0fd84f2e4) |
+| Mon, 09 Feb 2026 19:23:48 GMT | Network #3 | Umid Nagiyev | [Read More](https://medium.com/p/b23670578ff2) |
+| Mon, 09 Feb 2026 19:13:28 GMT | Pentester Bytes: API Pentesting Methodology — Broken Function Level Authorization | Shivam Bathla | [Read More](https://medium.com/p/52f40f3d6e47) |
+| Mon, 09 Feb 2026 18:51:12 GMT | Inside the Vehicle Network: CAN Bus Attacks Explained ! | Jishnu | [Read More](https://medium.com/p/0b669f682b77) |
+| Mon, 09 Feb 2026 18:50:40 GMT | THE CLOUD SENTINEL: ARCHITECTING SECURITY IN AWS, AZURE AND GCP | Raphaam Digital (Cyber Security Updates) | [Read More](https://medium.com/p/62ba6c9f623b) |
+| Mon, 09 Feb 2026 18:47:33 GMT | Building a Real-Time Detection System That Actually Works: Inside Matters.AI DDR Pipeline | Vaibhav Anuragi | [Read More](https://medium.com/p/1e9d333bc269) |
+| Mon, 09 Feb 2026 18:43:37 GMT | How I Built My First Cybersecurity Tool — And What It Taught Me About Real Attacks | Cyber Wolf | [Read More](https://medium.com/p/a527aa677651) |
+| Mon, 09 Feb 2026 18:33:05 GMT | Designing for Boredom: Architectural Decisions We Made on Purpose | corebapp | [Read More](https://medium.com/p/35ac9fa691b1) |
+| Mon, 09 Feb 2026 18:32:55 GMT | Cheesy Does it walkthrough (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/ba1ba25a0d14) |
+| Mon, 09 Feb 2026 18:31:46 GMT | HackTheHeart: Infosec Valentine’s Toolkit | Uphar | [Read More](https://medium.com/p/11d917d5f3c3) |
+| Mon, 09 Feb 2026 18:25:32 GMT | From Malware to Modern Threats | Anubhav_bora | [Read More](https://medium.com/p/91b6b328e3ef) |
+| Mon, 09 Feb 2026 18:16:07 GMT | HTTP Verb Tampering in NestJS: Bypassing Middleware with HEAD Requests | Cristian | [Read More](https://medium.com/p/e70b968b15c2) |
+| Mon, 09 Feb 2026 18:12:26 GMT | From Recon to Exploitation: Using Nmap and Metasploit in Real-World Cybersecurity | Ithiel | [Read More](https://medium.com/p/814813b22992) |
 | Mon, 09 Feb 2026 18:01:01 GMT | The Lethal Trifecta: Why Your AI Agent Could Be a Security Liability | Michael van Meurer | [Read More](https://medium.com/p/4b3c637b2464) |
 | Mon, 09 Feb 2026 17:55:40 GMT | Russia Ramps Up Attacks on Critical Infrastructures | Matthew.Rosenquist | [Read More](https://medium.com/p/bc9d38630d39) |
 | Mon, 09 Feb 2026 17:48:44 GMT | The 2026 Pivot: Why Your Old CISM Strategy Will Fail | abed sadek | [Read More](https://medium.com/p/83afd26af769) |
@@ -47,6 +65,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Feb 2026 15:50:16 GMT | Accountability Requires Identity: AI Agents & the Future of Digital Trust | karanam susrutha chowdary | [Read More](https://medium.com/p/49739700aee6) |
 | Mon, 09 Feb 2026 15:49:18 GMT | From Chat to Change: Why the Runtime Is the Real Risk | number40 | [Read More](https://medium.com/p/a4697c55846b) |
 | Mon, 09 Feb 2026 15:40:51 GMT | Do You Really Need to Back Up Your Data? | JustinWang | [Read More](https://medium.com/p/1bf14f9149bf) |
+| Mon, 09 Feb 2026 15:36:26 GMT | Authentication OTP Bypass Via (“Response manipulation”) | Skysenz | [Read More](https://medium.com/p/7771e71235b4) |
 | Mon, 09 Feb 2026 15:33:15 GMT | From 1970s Passwords to Modern Identity Security and How Rainbow Secure Changed Everything | Dr. Shashi Karhail | [Read More](https://medium.com/p/07d055571732) |
 | Mon, 09 Feb 2026 15:27:57 GMT | Security Camera Installation Cost Explained | AlexBryn | [Read More](https://medium.com/p/bac78481e9f8) |
 | Mon, 09 Feb 2026 15:27:12 GMT | Memfd Shared Memory Injection on android | Lord Murak | [Read More](https://medium.com/p/2e636406c101) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Feb 2026 13:03:51 GMT | Web Application Security: Hands-On Practice (Chapter 9 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/9588cff94dd0) |
 | Mon, 09 Feb 2026 13:01:07 GMT | Agents + Git Repos: Secure Before You Connect | Praxen | [Read More](https://medium.com/p/20f7ec2b8f9e) |
 | Mon, 09 Feb 2026 13:01:07 GMT | A Simple Outbound Check That Exposed a “Quiet” Compromise | Faruk Ahmed | [Read More](https://medium.com/p/c2387bf8492b) |
-| Mon, 09 Feb 2026 13:01:01 GMT | JavaScript Secret Hunting: 11 Methods Bug Bounty Hunters Use to Extract Hidden Treasures | Krishna Kumar | [Read More](https://medium.com/p/6950df4cc42e) |
-| Mon, 09 Feb 2026 12:57:12 GMT | Auditoría De Seguridad Informática - Guía Completa 2026 | Pablohmmadrid | [Read More](https://medium.com/p/242416a84f45) |
-| Mon, 09 Feb 2026 12:54:38 GMT | Analyzing the 2025 Children’s Privacy Laws and Regulations | Abstract Mind | [Read More](https://medium.com/p/b354eb2f0eb9) |
-| Mon, 09 Feb 2026 12:53:56 GMT | The Tier 1 SOC Workflow Explained: Alert to Response | Dylan Heywood | [Read More](https://medium.com/p/17fc2c6fc73f) |
-| Mon, 09 Feb 2026 12:53:24 GMT | Google’s Recursive Agents, Trump’s Phone, and the “Cloud Worm” Crisis - The Daily Tech Digest: 09… | Souren Stepanyan | [Read More](https://medium.com/p/1f463a45d670) |
-| Mon, 09 Feb 2026 12:51:20 GMT | What is Wifi Deauthentication? | Muhammad Saad Fareed | [Read More](https://medium.com/p/8ec77c40e44c) |
-| Mon, 09 Feb 2026 12:47:53 GMT | Cybersecurity is no longer just about firewalls; it’s about personal hygiene. | Password Generator | [Read More](https://medium.com/p/e104ca5510c1) |
-| Mon, 09 Feb 2026 12:45:25 GMT | Reverse Engineering Walkthrough: Dissecting a Multi-Stage Android Dropper in the Wild | Paulo Bernardo | [Read More](https://medium.com/p/e7e4fc5839cc) |
-| Mon, 09 Feb 2026 12:41:17 GMT | NordVPN Rabatt 2026: Deal ohne Gutscheincode | WEALTHSIDE | [Read More](https://medium.com/p/f03827e7a069) |
-| Mon, 09 Feb 2026 12:36:01 GMT | Which Cyber Standard Will Shape the Future of UK Manufacturing? | Luke Appleby | [Read More](https://medium.com/p/c05fabb41036) |
-| Mon, 09 Feb 2026 12:33:33 GMT | IDOR: The Quiet Access Control Flaw That Keeps Coming Back | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/e5c429d84adb) |
-| Mon, 09 Feb 2026 12:31:01 GMT | Why Cookies Are Just as Unsafe as LocalStorage | Vamsi Krishna Kodimela | [Read More](https://medium.com/p/84e0b752ff86) |
-| Mon, 09 Feb 2026 12:30:13 GMT | Securing n8n with Cloudflare Zero Trust: A Critical Defense Against “Ni8mare” | Shxdowz | [Read More](https://medium.com/p/259040ff50ea) |
-| Mon, 09 Feb 2026 12:30:10 GMT | ServiceNow Online Training — Free Demo Session | Harik Visualpath | [Read More](https://medium.com/p/80c461f05055) |
-| Mon, 09 Feb 2026 12:24:27 GMT | Why OpenClaw(Clawdbot) on Cloudflare is interesting for real-world businesses | Martin Maina | [Read More](https://medium.com/p/b52d69f8cd85) |
-| Mon, 09 Feb 2026 12:23:47 GMT | Advanced Technology Solutions by STSPL | Inshan Singh | [Read More](https://medium.com/p/78e5b5e43117) |
-| Mon, 09 Feb 2026 12:22:23 GMT | Transform Your Business with IT Services in San Antonio | Rx Technology | [Read More](https://medium.com/p/664adebd7120) |
-| Mon, 09 Feb 2026 12:06:45 GMT | The Phase Most Beginners Rush — And Pay For Later | Kenneth Solomon | [Read More](https://medium.com/p/7d68f23115ea) |
-| Mon, 09 Feb 2026 12:05:43 GMT | The Invisible Siege: Why Modern APTs Have Weaponized the Operating System | Sohan Kanna D | [Read More](https://medium.com/p/5f313155ea9a) |
