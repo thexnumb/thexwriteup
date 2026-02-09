@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Feb 2026 09:00:30 GMT | Java isn’t wrong — you just don’t know the Integer Cache | Belarmino Silva | [Read More](https://medium.com/p/e2eb3432d12a) |
+| Mon, 09 Feb 2026 08:52:29 GMT | Application Security Testing (AST) Market Overview and Future Outlook | Michel mathew | [Read More](https://medium.com/p/419574d2c14e) |
+| Mon, 09 Feb 2026 08:51:34 GMT | Türkçe Red Team Araçları İçin Açık Kaynak Bir Atölye: AltaySec Atölye | Cansu Yıldırım | [Read More](https://medium.com/p/51020c12b484) |
+| Mon, 09 Feb 2026 08:48:31 GMT | How I Found an OOB Heap Write in V8's Atomics Implementation | Ze3ter | [Read More](https://medium.com/p/1bba5d327998) |
+| Mon, 09 Feb 2026 08:32:10 GMT | Is J-SOX Dead? The Rise of “Physical Truth” in Post-DMM Internal Controls | Satelite | [Read More](https://medium.com/p/2706b95d068f) |
+| Mon, 09 Feb 2026 08:28:13 GMT | Your Complete Roadmap to Learning AI Security in 2026: A Beginner’s Guide | Cyberbali | [Read More](https://medium.com/p/a6a6688e355f) |
+| Mon, 09 Feb 2026 08:24:23 GMT | Why Europe Is Turning Against U.S. Tech Giants: The Untold Story | Sahil Nair | [Read More](https://medium.com/p/dc27ae6e796f) |
+| Mon, 09 Feb 2026 08:19:30 GMT | My OpenClaw Experience | Kanchana Wickremasinghe | [Read More](https://medium.com/p/65cd800a78bc) |
+| Mon, 09 Feb 2026 08:18:55 GMT | katana vs waymore: When to Use Which | ghostyjoe | [Read More](https://medium.com/p/4b93c8ab153c) |
+| Mon, 09 Feb 2026 08:16:03 GMT | How Incident Response Is Becoming a Core Security Capability Today | NetWitness | [Read More](https://medium.com/p/53edc3d217cf) |
+| Mon, 09 Feb 2026 08:15:27 GMT | How I Approach a System I Have Never Seen Before | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/3fdf75f88c0d) |
+| Mon, 09 Feb 2026 08:12:44 GMT | Advanced Linux PrivEsc Toolkit: 15 Modern Tools Every Ethical Hacker Should Master | Very Lazy Tech | [Read More](https://medium.com/p/f4acfb6119e3) |
+| Mon, 09 Feb 2026 08:10:53 GMT | Classic Single Request Denial of Service (DoS) | Exploit5lover | [Read More](https://medium.com/p/1c419f33e58a) |
+| Mon, 09 Feb 2026 08:08:02 GMT | Microsoft Cloud Solutions Provider - IFI Techsolutions | IFI Techsolutions | [Read More](https://medium.com/p/cd42de7ba4d9) |
+| Mon, 09 Feb 2026 08:03:51 GMT | Cybersecurity Best Practices for SaaS Startups | Digital Aptech | [Read More](https://medium.com/p/9c370c2eabd8) |
+| Mon, 09 Feb 2026 08:00:24 GMT | Secure Your AI Agents: Running Claude in a Hardened Sandbox for Development and Analysis | Masood | [Read More](https://medium.com/p/a62d8223c8a5) |
 | Mon, 09 Feb 2026 07:51:34 GMT | STORED XSS Vulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/8d148e0cd769) |
+| Mon, 09 Feb 2026 07:51:20 GMT | IT. Never Give Up | Nickson Wilfest | [Read More](https://medium.com/p/2bd4fb39976e) |
 | Mon, 09 Feb 2026 07:51:15 GMT | Mobile App Security: Android vs iOS Vulnerability Trends 2026 by Eslavath Charan | KLEAP Institute of Information Security | [Read More](https://medium.com/p/a1d23b10fca0) |
 | Mon, 09 Feb 2026 07:51:00 GMT | Threat Intelligence Lifecycle Explained Step by Step | Abhinsubej | [Read More](https://medium.com/p/aa6c4735cf2c) |
 | Mon, 09 Feb 2026 07:50:44 GMT | Architecting Secure AI for Healthcare: A Layer-by-Layer Guide | Sekurno | [Read More](https://medium.com/p/9de07d24303e) |
@@ -47,7 +64,9 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Feb 2026 06:04:06 GMT | Why banks log you out when you open a new tab | JP Caparas | [Read More](https://medium.com/p/154c63da29c9) |
 | Mon, 09 Feb 2026 05:53:30 GMT | How Event Security Services In Singapore Can Protect Your Event From Hidden Threats | Jane Tang | [Read More](https://medium.com/p/86ed7e5d6a7d) |
 | Mon, 09 Feb 2026 05:48:55 GMT | Weekly Threat Intelligence Report 2  Feb 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/38af6d2c7104) |
+| Mon, 09 Feb 2026 05:21:14 GMT | Data Leaks: The Cyber Risk Most People Don’t Realize Is Already Affecting Them | CRAC Learning | [Read More](https://medium.com/p/3858383bafba) |
 | Mon, 09 Feb 2026 05:11:25 GMT | Selenium Automation of Demoblaze E-Commerce Flow: A Step-by-Step Guide | Shiva prasad | [Read More](https://medium.com/p/77b2b296d325) |
+| Mon, 09 Feb 2026 04:57:45 GMT | How Cyberspace Became the New Battlefield | Antony shane | [Read More](https://medium.com/p/19d31ab1aef0) |
 | Mon, 09 Feb 2026 04:57:04 GMT | A letter on breaking things, building trust and the art of thinking like the enemy | Abhinav Jain | [Read More](https://medium.com/p/2e32d69835d8) |
 | Mon, 09 Feb 2026 04:52:31 GMT | Firefox Containers for IDOR & BAC Testing | Abhirup Konwar | [Read More](https://medium.com/p/1b852095f190) |
 | Mon, 09 Feb 2026 04:44:24 GMT | All I Can Do Is Rely on Myself, Even When I Need Help | Saphiraevanif | [Read More](https://medium.com/p/513c1be1c4c3) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Feb 2026 23:00:13 GMT | Digital Rights as the New Frontier of Human Rights | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/21d9abe6b7c3) |
 | Sun, 08 Feb 2026 22:43:04 GMT | m6 — Building an Operating System, 20 Years Later | Michele Preziuso | [Read More](https://medium.com/p/f99022ebcbf3) |
 | Sun, 08 Feb 2026 22:31:25 GMT | Cryptography Challenges — ZINAD x ITI Cyber Champion CTF 2026 | محمد بن إبراهيم | [Read More](https://medium.com/p/0930f9e5ffbe) |
-| Sun, 08 Feb 2026 22:27:04 GMT | How Online Platforms Accelerate Youth Radicalization | Vionë Dobërdoli | [Read More](https://medium.com/p/c59f4974d449) |
-| Sun, 08 Feb 2026 22:20:49 GMT | From Raw Logs to Security Detections: A SOC Approach | Aarushi Mishra | [Read More](https://medium.com/p/3fd21fdf60cd) |
-| Sun, 08 Feb 2026 22:18:22 GMT | The Smurf Attack: Turning Your Network Against You | Shravan B J | [Read More](https://medium.com/p/3acfd0a5703a) |
-| Sun, 08 Feb 2026 22:12:21 GMT | Stop Blue Screens, Random Reboots, and Windows Damage | Geoffrey Wenger | [Read More](https://medium.com/p/5e0b3193736b) |
-| Sun, 08 Feb 2026 22:12:04 GMT | The Bug Hunter’s Secret Weapon | mohandika | [Read More](https://medium.com/p/2d8e13701505) |
-| Sun, 08 Feb 2026 22:11:46 GMT | Umbrella (TryHackMe) Walkthrough: From Exposed Docker Registry to Root on Host | Roshan Rajbanshi | [Read More](https://medium.com/p/ef43d2ba9120) |
-| Sun, 08 Feb 2026 22:04:50 GMT | The "Shadow AI" Blind Spot: Is Your Private Account Risking Client Privilege? | Ram Srinivasan | [Read More](https://medium.com/p/c32bc9587a89) |
-| Sun, 08 Feb 2026 21:58:34 GMT | Thread Selection Strategies for Injection via NtQueueApcThreadEx2 | S12 - 0x12Dark Development | [Read More](https://medium.com/p/0f6082e55e10) |
-| Sun, 08 Feb 2026 21:45:11 GMT | When an IoT Network Looks Healthy but Isn’t: Observing a Selective Forwarding Attack | Shreya Gajjar | [Read More](https://medium.com/p/a1c1c4882fb0) |
-| Sun, 08 Feb 2026 21:43:58 GMT | TryHackMe Write-up: Digital Footprint | Zohal | [Read More](https://medium.com/p/ef48f0ff1f5f) |
-| Sun, 08 Feb 2026 21:40:42 GMT | Generative AI for Business # 95: Super Bowl edition | Eugina Jordan | [Read More](https://medium.com/p/1ca15ca398f9) |
-| Sun, 08 Feb 2026 21:32:12 GMT | The Spectrum of Inner Maturity — Combination Essays | Habil Lokadjaja CFP | [Read More](https://medium.com/p/4664ae9b585a) |
-| Sun, 08 Feb 2026 21:25:10 GMT | How I Built an AI-Powered IaC Security Scanner From Scratch — 100+ Rules, 9 Compliance Frameworks… | Nirbhay Singh | [Read More](https://medium.com/p/ae4cbf114f2a) |
-| Sun, 08 Feb 2026 21:06:19 GMT | Simplicity Drives Security | Jorge Farinacci | [Read More](https://medium.com/p/9bfd9a5244a5) |
-| Sun, 08 Feb 2026 21:05:26 GMT | “Behind The Mask” Tryhackme CTF Walkthrough | Nicatquluzadex | [Read More](https://medium.com/p/e47deadf2b18) |
-| Sun, 08 Feb 2026 21:02:00 GMT | Wgel CTF Walkthrough [Try Hack Me] : | Amrou bekhedda | [Read More](https://medium.com/p/77a0fd0f7052) |
-| Sun, 08 Feb 2026 20:54:34 GMT | Ransomware Recovery Plan Failures: Why Backups Don’t Guarantee Recovery | Shield Identity | [Read More](https://medium.com/p/8447a9b797ba) |
-| Sun, 08 Feb 2026 20:49:48 GMT | Three Ways To Pivot from Server-A to Server-B via Winrm | DuckWrites | [Read More](https://medium.com/p/e15707920b3f) |
-| Sun, 08 Feb 2026 20:47:41 GMT | Why You Should Never Use AES for Browser-Based Encryption (And What to Use Instead) | Emily Rose | [Read More](https://medium.com/p/37c9b4e5bb64) |
