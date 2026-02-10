@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Feb 2026 13:11:42 GMT | How little things matter: Broken Access Control leading to user promoting to Admin | Sdelesil | [Read More](https://medium.com/p/8b3ff652a6cb) |
+| Tue, 10 Feb 2026 13:10:20 GMT | The Family Laptop Trap: Unmasking a Go-Based Crypto-Heist | MabLevi | [Read More](https://medium.com/p/604deb35776c) |
+| Tue, 10 Feb 2026 13:00:24 GMT | How Apple’s New iOS Location Setting Changes What Digital Forensics Can Prove | Chaitanya Shah | [Read More](https://medium.com/p/7184183eac24) |
+| Tue, 10 Feb 2026 12:58:22 GMT | Secure Remote Work Infrastructure Irvine CA: Protecting Orange County Businesses in the Hybrid Era | Technijian | [Read More](https://medium.com/p/d9dbc60a661f) |
+| Tue, 10 Feb 2026 12:56:00 GMT | Executive Tabletop Exercise: Practice the Calls You’ll Be Judged On | Tyson Martin | [Read More](https://medium.com/p/84a4db2fe101) |
+| Tue, 10 Feb 2026 12:54:52 GMT | Modern Cloud Adoption in UAE: Scaling Businesses Without Scaling Complexity | ANSI Technologies | [Read More](https://medium.com/p/93285232209a) |
+| Tue, 10 Feb 2026 12:53:36 GMT | IDOR: The Bug Bounty Goldmine Hidden in Plain Sight | Priyansh | [Read More](https://medium.com/p/1c80eb9d546b) |
+| Tue, 10 Feb 2026 12:53:21 GMT | CVE-2019–15107 Analysis and the Void Write-up | isaergisi | [Read More](https://medium.com/p/409ea83563ff) |
+| Tue, 10 Feb 2026 12:52:30 GMT | Digital Footprint — TryHackMe Room Write-up | Cybernerddd | [Read More](https://medium.com/p/63f6466241ec) |
+| Tue, 10 Feb 2026 12:48:36 GMT | 50 Billion Targets: Why Your Smart Devices Are a Hacker’s Dream | Jay shihora | [Read More](https://medium.com/p/f427ca5f5af9) |
+| Tue, 10 Feb 2026 12:46:01 GMT | Synthetic Minds - Why Your Encryption Has an Expiry | Dr Mark van Rijmenam, CSP | [Read More](https://medium.com/p/67bdde02457b) |
+| Tue, 10 Feb 2026 12:28:08 GMT | Beyond the Perimeter: How I Bridge WiFi VLANs to Hijack Your Domain Controller | k3rnelpan1c | [Read More](https://medium.com/p/8517e4bbe202) |
+| Tue, 10 Feb 2026 12:24:07 GMT | A Testing Program: Pragma-Related Bug Detection — Case Study | Journal of Landing Across Linguistic Foreground | [Read More](https://medium.com/p/a84f61776fd7) |
+| Tue, 10 Feb 2026 12:21:00 GMT | Let Me Fail In Real Life | KD | [Read More](https://medium.com/p/b0accbea0e15) |
+| Tue, 10 Feb 2026 12:01:22 GMT | SecureApp for AppDynamics | Walied Saied | [Read More](https://medium.com/p/0fdd710b0278) |
+| Tue, 10 Feb 2026 11:58:29 GMT | TLS handshake — the old way and the new way | Ahmad Qayyum | [Read More](https://medium.com/p/f2a96670c82b) |
+| Tue, 10 Feb 2026 11:38:59 GMT | Secure Multi-Tenant Spark with Kyuubi, Keycloak and Nessie | Nodyke | [Read More](https://medium.com/p/d26f7d70891e) |
+| Tue, 10 Feb 2026 11:29:25 GMT | XPATH Error Based SQL Injection | webcipher101 | [Read More](https://medium.com/p/fbfab1c10049) |
 | Tue, 10 Feb 2026 11:13:14 GMT | 5. JWT logic confusion bypassing authentication | Abhijeet kumawat | [Read More](https://medium.com/p/b247f7910f70) |
 | Tue, 10 Feb 2026 11:12:18 GMT | Premium Uniform Manufacturer & Supplier in Kerala — Royal Uniforms | Mhd Basil | [Read More](https://medium.com/p/e4de29cea923) |
 | Tue, 10 Feb 2026 10:57:37 GMT | The Truth About UK Door Supervision | courses4u | [Read More](https://medium.com/p/fb150f1485bb) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Feb 2026 06:31:01 GMT | Hidden Persistence in Cloud Identity Attacks | Ankita Sinha | [Read More](https://medium.com/p/3a000004bd6a) |
 | Tue, 10 Feb 2026 06:31:01 GMT | Cybersecurity Acronyms Explained: SIEM, SOAR, EDR, XDR, and MDR: Made Simple | Manubhav Sharma | [Read More](https://medium.com/p/898f03d496af) |
 | Tue, 10 Feb 2026 06:21:21 GMT | Rust Concurrency: Shared State, Mutexes, and the “Arc” of Safety | 0xjustuzair | [Read More](https://medium.com/p/655a9d909367) |
-| Tue, 10 Feb 2026 06:18:25 GMT | Life Is Not a Straight Line — And That’s Okay | Vijay Kumar Gupta | [Read More](https://medium.com/p/35803e669ea2) |
-| Tue, 10 Feb 2026 06:17:21 GMT | n8n ile SOC L1 Asistan Otomasyonu | Sergen Yanmış | [Read More](https://medium.com/p/f67af211b713) |
-| Tue, 10 Feb 2026 06:11:42 GMT | Beyond User-Agents: The Engineering Behind GA4’s Bot Detection Engine | Nouman Naseer | [Read More](https://medium.com/p/193b87bc28a0) |
-| Tue, 10 Feb 2026 06:10:51 GMT | Behind the Link: A Guide to Mastering URL Analysis | Prakhar Srivastava | [Read More](https://medium.com/p/9e78580dfcf2) |
-| Tue, 10 Feb 2026 06:10:29 GMT | Your Marketing Dashboard is Lying to You: The expensive reality of Bot Traffic in 2026 | Aqsa | [Read More](https://medium.com/p/100f04814ffd) |
-| Tue, 10 Feb 2026 06:10:03 GMT | We Deleted 40% of a Client’s Traffic, and They Thanked Us: The Truth About Bot Filtering | Fantechlabs Ca | [Read More](https://medium.com/p/e9852fe21a85) |
-| Tue, 10 Feb 2026 06:08:05 GMT | Microsoft Azure Cloud Services Provider - IFI Techsolutions | IFI Techsolutions | [Read More](https://medium.com/p/53657d731477) |
-| Tue, 10 Feb 2026 06:05:48 GMT | 2026’da Fabrikalar Neden “Kale” Değil, “Organizma” Gibi Korunmalı? | Senanur Çetin | [Read More](https://medium.com/p/24cb30f3545e) |
-| Tue, 10 Feb 2026 06:01:01 GMT | Emerging AI Risks: Why Automation Can Be a Double-Edged Sword | Hazel Chirinda | [Read More](https://medium.com/p/6bc455de5201) |
-| Tue, 10 Feb 2026 06:00:34 GMT | Smarter Protection for Manitoba Homes | Alarm Guard Security | [Read More](https://medium.com/p/a953fe55f28a) |
-| Tue, 10 Feb 2026 05:55:18 GMT | Security Controls That Quietly Stop Working After AI Integration | Pritam Dutta | [Read More](https://medium.com/p/db1462f77012) |
-| Tue, 10 Feb 2026 05:52:49 GMT | Dependency Injection 是什麼？以造車比喻理解 | 思維舞步 MindSteps | [Read More](https://medium.com/p/982fd3900548) |
-| Tue, 10 Feb 2026 05:50:36 GMT | heyData Raises $16.5 Million Series A to Simplify Compliance and IT Security Across Europe | Richwebs In | [Read More](https://medium.com/p/096b34b707c0) |
-| Tue, 10 Feb 2026 05:49:49 GMT | Transform Your Career with CRISC Certification Insights | Irfan Sharief | [Read More](https://medium.com/p/e48c953522c2) |
-| Tue, 10 Feb 2026 05:43:57 GMT | UI/UX Design: The Silent Language Between Humans and Technology | Haritha | [Read More](https://medium.com/p/d42776173d29) |
-| Tue, 10 Feb 2026 05:38:48 GMT | How to Enable Automatic Updates on Linux and Stay Secure | Khurram Shahzad | [Read More](https://medium.com/p/30b615b721b3) |
-| Tue, 10 Feb 2026 05:13:35 GMT | I Let an Autonomous AI Hacker Loose on My Web App | Jannis | [Read More](https://medium.com/p/15ebbdaddfdc) |
-| Tue, 10 Feb 2026 05:12:40 GMT | ACS RPL Report: A Practical Guide for Australia Skilled Migration | CDR for Australia | [Read More](https://medium.com/p/2b68d841fc1f) |
