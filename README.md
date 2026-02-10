@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Feb 2026 07:55:09 GMT | Fortinet Patches Critical Vulnerabilities: Why These Flaws Are a Wake-Up Call for Network Security… | Germano Costi | [Read More](https://medium.com/p/18feb5a809f0) |
+| Tue, 10 Feb 2026 07:52:43 GMT | How Web Developers Build Secure Payment and Checkout Systems | jacklevett | [Read More](https://medium.com/p/9daa5a8d7da1) |
+| Tue, 10 Feb 2026 07:44:25 GMT | Straight to the Ace — Threat Modeling Through Gamification | Christoffer Pedersen | [Read More](https://medium.com/p/9a91eb779456) |
+| Tue, 10 Feb 2026 07:42:00 GMT | Reliable Protection for Homes Across Saskatchewan | Alarm Guard Security | [Read More](https://medium.com/p/38113594a7da) |
+| Tue, 10 Feb 2026 07:41:01 GMT | How to Install Nuclei on Linux (Step-by-Step Guide) | Abhinsubej | [Read More](https://medium.com/p/0641533458b8) |
+| Tue, 10 Feb 2026 07:39:32 GMT | SSRF Hunting 2025: 12 Tools Beyond Metadata for Next-Level Pentesting | Very Lazy Tech | [Read More](https://medium.com/p/a55c4a18f347) |
+| Tue, 10 Feb 2026 07:37:08 GMT | The Day I Learned She Was Taken | Antarayaami Bodhicitta | [Read More](https://medium.com/p/377bf12d8470) |
+| Tue, 10 Feb 2026 07:32:39 GMT | The End of Surveillance: Why Serverless P2P Messaging is the Future of Privacy | SAYCOIN | [Read More](https://medium.com/p/e0138adc0bf3) |
+| Tue, 10 Feb 2026 07:31:01 GMT | 7 n8n Approval Patterns That Don’t Slow Teams | Praxen | [Read More](https://medium.com/p/f5d226d282ff) |
+| Tue, 10 Feb 2026 07:31:01 GMT | n8n Security: What “Editor Access” Really Implies | Velorum | [Read More](https://medium.com/p/40a4e687ad6d) |
+| Tue, 10 Feb 2026 07:30:26 GMT | The Accountability Roadmap: From Model Cards to Audit Trails | Rituparna Shome | [Read More](https://medium.com/p/352da6162d97) |
+| Tue, 10 Feb 2026 07:24:06 GMT | Top Cyber Security Firms in Dubai with Compliance & Risk Management Expertise | Bluechip Computer Systems LLC | [Read More](https://medium.com/p/7cc0816866c4) |
+| Tue, 10 Feb 2026 07:22:17 GMT | Securing the Ramadan Digital Rush: A Strategic Guide for SOC Teams Using Wazuh | Hazem Mohamed | [Read More](https://medium.com/p/1a0d0b7aa2a3) |
+| Tue, 10 Feb 2026 07:18:09 GMT | Secure Every Digital Moment with Proven Antivirus Software | Siyanoav | [Read More](https://medium.com/p/aac3a82d5751) |
+| Tue, 10 Feb 2026 07:13:54 GMT | 5 Critical Web Security Gaps Every Enterprise Needs to Address | Cyber_Security | [Read More](https://medium.com/p/ed2e44fe357b) |
+| Tue, 10 Feb 2026 07:10:39 GMT | CTF CHALLENGE #7 | Mick81 | [Read More](https://medium.com/p/3ff3b388336b) |
+| Tue, 10 Feb 2026 07:09:23 GMT | Training Slayer APK | Bandisharecx | [Read More](https://medium.com/p/78172aef97e9) |
+| Tue, 10 Feb 2026 07:06:45 GMT | How Small Businesses Get Hacked Through Social Media | Cyber Lee | [Read More](https://medium.com/p/d25554bdd34e) |
+| Tue, 10 Feb 2026 07:06:24 GMT | Blind OS Command Injection with Out-of-Band Data Exfiltration | Bash Overflow | [Read More](https://medium.com/p/f201ed79bf11) |
+| Tue, 10 Feb 2026 07:04:46 GMT | Security Copilot for SMBs | Yash Mudaliar | [Read More](https://medium.com/p/80e6a57ee32d) |
+| Tue, 10 Feb 2026 06:58:57 GMT | Inside a Ransomware Kill Chain: From Initial Access to Data Exfiltration | Cynox Security LLP. | [Read More](https://medium.com/p/8fdfe41ca281) |
+| Tue, 10 Feb 2026 06:53:14 GMT | Exchange Security | XpertraX - Trading Guide & Trend Analysis | [Read More](https://medium.com/p/a7c545a4109c) |
+| Tue, 10 Feb 2026 06:41:07 GMT | Powering Business Growth with Strong IT Infrastructure | DC9India | [Read More](https://medium.com/p/5102c67c9bbc) |
 | Tue, 10 Feb 2026 06:31:01 GMT | Hidden Persistence in Cloud Identity Attacks | Ankita Sinha | [Read More](https://medium.com/p/3a000004bd6a) |
 | Tue, 10 Feb 2026 06:31:01 GMT | Cybersecurity Acronyms Explained: SIEM, SOAR, EDR, XDR, and MDR: Made Simple | Manubhav Sharma | [Read More](https://medium.com/p/898f03d496af) |
 | Tue, 10 Feb 2026 06:21:21 GMT | Rust Concurrency: Shared State, Mutexes, and the “Arc” of Safety | 0xjustuzair | [Read More](https://medium.com/p/655a9d909367) |
@@ -48,6 +71,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Feb 2026 04:11:31 GMT | Hire N8N Developers to Build Scalable, Smart Automation for Modern Businesses | n8ndevelopers | [Read More](https://medium.com/p/2f69bedd519b) |
 | Tue, 10 Feb 2026 04:01:06 GMT | OpenClaw and its Security | Jason TC Chuang | [Read More](https://medium.com/p/0c82f0be73f1) |
 | Tue, 10 Feb 2026 03:47:01 GMT | Top Security Camera Suppliers in UAE and CCTV Approval in Sharjah : Enhancing Safety and Compliance | techfra solutions | [Read More](https://medium.com/p/194c284d9305) |
+| Tue, 10 Feb 2026 03:39:06 GMT | Your AI Just Approved a Payment to a Hacker (And You Have No Idea When It Started) | Firuz Alimov | [Read More](https://medium.com/p/2e104e9ce5e2) |
 | Tue, 10 Feb 2026 03:38:40 GMT | Layer Zero in AWS: The Architecture of the Root Identity | Thought Nimbus | [Read More](https://medium.com/p/15b8afd2d97a) |
 | Tue, 10 Feb 2026 03:31:01 GMT | NTDS.dit: The Silent Key to Active Directory Takeovers | Deven Chhajed | [Read More](https://medium.com/p/e4a3fbe0caa2) |
 | Tue, 10 Feb 2026 03:29:47 GMT | The Human Side of Tech: Designing for People, Not Just Performance | Ngalaygraphy | [Read More](https://medium.com/p/d4be73c1a449) |
@@ -90,30 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 How Technology Improves Data Protection Online
 Subtitle / Meta Description… | Silviawrites | [Read More](https://medium.com/p/1df9d9e93f44) |
 | Mon, 09 Feb 2026 22:06:20 GMT | Rail OT Cybersecurity — Part 1 | A H Karthikeya | [Read More](https://medium.com/p/1b4ebc385ed0) |
-| Mon, 09 Feb 2026 21:52:02 GMT | HTB: footprinting : lab 3 writeup | N0Nab0ve | [Read More](https://medium.com/p/af82fb6e5469) |
-| Mon, 09 Feb 2026 21:50:05 GMT | Blog Post 1
-Title: Internet Laws and User Privacy: What You Need to Know
-Meta Description:
-Learn… | Silviawrites | [Read More](https://medium.com/p/998fc661b446) |
-| Mon, 09 Feb 2026 21:37:26 GMT | The Global Mechanism: A Strategic Pause or a New Cyber Order? | CCD-IS | [Read More](https://medium.com/p/628316d33688) |
-| Mon, 09 Feb 2026 21:34:03 GMT | Siber Güvenliğin Mutfağına Yolculuk: AltaySec Atölye | Yaren Daşpınar | [Read More](https://medium.com/p/8ee15b9802d9) |
-| Mon, 09 Feb 2026 21:24:55 GMT | From CTI to KQL Detections: Hunting Modern Threats in 2026 | Ilyess Sellami | [Read More](https://medium.com/p/b750f1dafe3b) |
-| Mon, 09 Feb 2026 21:23:49 GMT | THM - Operation Slither | Francesco Pastore | [Read More](https://medium.com/p/3fcd93d1be22) |
-| Mon, 09 Feb 2026 21:12:17 GMT | From the Trenches to the Classroom: 5 GCP Security Lessons I Learned the Hard Way | Gene Schank | [Read More](https://medium.com/p/a83e76b29e43) |
-| Mon, 09 Feb 2026 21:09:10 GMT | Windows Basics · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/07687a5dab04) |
-| Mon, 09 Feb 2026 21:07:46 GMT | THM - Message to Garcia | Francesco Pastore | [Read More](https://medium.com/p/91569f11dade) |
-| Mon, 09 Feb 2026 21:04:42 GMT | Authentication Is Not Just Login — It’s a System | Ngane Emmanuel | [Read More](https://medium.com/p/c29f17af56a5) |
-| Mon, 09 Feb 2026 21:02:58 GMT | Why sqlmap Fails (And When It Doesn’t) | ghostyjoe | [Read More](https://medium.com/p/ca14bc7d8559) |
-| Mon, 09 Feb 2026 20:44:57 GMT | I Built Minion: A Security-First AI Agent (Because OpenClaw and Nanobot Aren’t) | Nwosu Rosemary | [Read More](https://medium.com/p/22716c8393d0) |
-| Mon, 09 Feb 2026 20:41:12 GMT | Comparing Cyber Kill Chain and MITRE ATT&CK | Bhavani Vk | [Read More](https://medium.com/p/5c9d3a50a7e7) |
-| Mon, 09 Feb 2026 20:32:30 GMT | AI Jailbreaking Explained: What It Is and Why It Matters | Alphaxlegion | [Read More](https://medium.com/p/f8c823de11d4) |
-| Mon, 09 Feb 2026 20:26:44 GMT | The Unseen First Touch: Why We Need to Name “Indirect Online Predation” | Nukeam | [Read More](https://medium.com/p/c1e4e75ceeca) |
-| Mon, 09 Feb 2026 20:22:22 GMT | CIVITIA X OKO WALLET | Vhanzj | [Read More](https://medium.com/p/edb656dfa4e4) |
-| Mon, 09 Feb 2026 20:19:33 GMT | Linux vs Windows: Why Hackers Pick One Every Time | Shahzaib | [Read More](https://medium.com/p/b11d941adf89) |
-| Mon, 09 Feb 2026 20:04:45 GMT | We Built an Open-Source Tool to Attack-Test LLMs. Here’s What We Found. | Nathan Sportsman | [Read More](https://medium.com/p/e47b8521cad9) |
-| Mon, 09 Feb 2026 20:01:57 GMT | OverTheWire : solving Natas (0 — 15) (web security) | Meshref | [Read More](https://medium.com/p/6bf1e8a810b5) |
-| Mon, 09 Feb 2026 19:59:05 GMT | AI Recon Bots Are Watching the Net- What That Means for Hackers and Defenders | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/46dc4b114170) |
-| Mon, 09 Feb 2026 19:58:42 GMT | ️ DEFANSİF GÜVENLİK (Blue Team & SOC) | Sinan Harman | [Read More](https://medium.com/p/9604ee8ce142) |
-| Mon, 09 Feb 2026 19:58:37 GMT | When Breakthrough Happens | Mark Aylward | [Read More](https://medium.com/p/07d948d1df4f) |
-| Mon, 09 Feb 2026 19:53:37 GMT | Event ID 4720 - A user account was created | Six Dingus | [Read More](https://medium.com/p/ad19628a8ae4) |
-| Mon, 09 Feb 2026 19:53:09 GMT | Why password policies fail (Human behavior vs system security) | David Ajuzie | [Read More](https://medium.com/p/733bf7f464c0) |
