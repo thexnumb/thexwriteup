@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Feb 2026 11:13:14 GMT | 5. JWT logic confusion bypassing authentication | Abhijeet kumawat | [Read More](https://medium.com/p/b247f7910f70) |
+| Tue, 10 Feb 2026 11:12:18 GMT | Premium Uniform Manufacturer & Supplier in Kerala — Royal Uniforms | Mhd Basil | [Read More](https://medium.com/p/e4de29cea923) |
+| Tue, 10 Feb 2026 10:57:37 GMT | The Truth About UK Door Supervision | courses4u | [Read More](https://medium.com/p/fb150f1485bb) |
+| Tue, 10 Feb 2026 10:56:46 GMT | Malware Roulette #1 — Gachiloader pt2 | bfake | [Read More](https://medium.com/p/a0ad762e03dc) |
+| Tue, 10 Feb 2026 10:55:42 GMT | Security Analysis & Protocol Enhancement Proposals for Genlayer Intelligent Contracts | iwoxbt | [Read More](https://medium.com/p/38d9f1cde2d4) |
+| Tue, 10 Feb 2026 10:53:24 GMT | From FUD to Focus: Why Clarity is Essential in Cybersecurity | Steve Prentice | [Read More](https://medium.com/p/e9ae4edf76f8) |
+| Tue, 10 Feb 2026 10:50:55 GMT | Top Benefits of Hiring a NopCommerce Development Company | Citytech Software Pvt Ltd | [Read More](https://medium.com/p/b453cf23016b) |
+| Tue, 10 Feb 2026 10:47:02 GMT | How We Scaled Security Fixes Using Cursor Cloud Agents | Yael Schwartz | [Read More](https://medium.com/p/b217001f6883) |
+| Tue, 10 Feb 2026 10:45:57 GMT | Security Analysis & Protocol Enhancement Proposals for Genlayer Intelligent Contracts | iwoxbt | [Read More](https://medium.com/p/a441478d8c46) |
+| Tue, 10 Feb 2026 10:45:28 GMT | Who Is a CSA / SOC Analyst? | Shreyashettyctr | [Read More](https://medium.com/p/c4bac6ec68df) |
+| Tue, 10 Feb 2026 10:43:47 GMT | The Rise of Exposed AI Infrastructure and the New Network Security Imperative | Teodoradehanyns | [Read More](https://medium.com/p/7d343b3dd58f) |
+| Tue, 10 Feb 2026 10:37:41 GMT | AI Is Breaking Security — and Security Is Breaking AI | Raed Houimli , Eng | [Read More](https://medium.com/p/19b1370ef581) |
+| Tue, 10 Feb 2026 10:35:33 GMT | AI-Based Vehicle Monitoring and the Rising Need for Strong Access Control in 2026 | Spotem | [Read More](https://medium.com/p/715def039de7) |
+| Tue, 10 Feb 2026 10:32:54 GMT | The “Trillion Dollar Security” Initiative: Ethereum’s New Defense and VQJ Exchange Insights | VQJ Exchange | [Read More](https://medium.com/p/d272a2136e3f) |
+| Tue, 10 Feb 2026 10:32:32 GMT | Network Security: Protecting Modern Digital Infrastructure | Shreyashettyctr | [Read More](https://medium.com/p/d8bda7f47ae3) |
+| Tue, 10 Feb 2026 10:31:02 GMT | Why Is the Cybersecurity Market Becoming a Global Priority Across Every Industry? | Dbmrworkin24 | [Read More](https://medium.com/p/97ad7fc68fba) |
+| Tue, 10 Feb 2026 10:29:07 GMT | Your Digital Footprint: What It Is and How to Manage It | Accent Design | [Read More](https://medium.com/p/7270c6b57bce) |
+| Tue, 10 Feb 2026 10:19:48 GMT | Why Is Python So Popular in Business Software Development | Bhavesh Rajpurohit | [Read More](https://medium.com/p/182d3c241e73) |
+| Tue, 10 Feb 2026 10:19:43 GMT | Emerging Leaders in AI-Powered SOC Platforms for 2026 | Eventus Security Private Limited | [Read More](https://medium.com/p/6cdb41da7c34) |
 | Tue, 10 Feb 2026 10:16:39 GMT | เตือนภัย! 0APT Syndicate มัลแวร์เรียกค่าไถ่สายพันธุ์ใหม่ | ThaiCERT By NCSA | [Read More](https://medium.com/p/d66f3624fd2b) |
 | Tue, 10 Feb 2026 10:11:35 GMT | A Practical Guide to Information Classification: C1 to C4 | Luca Berton | [Read More](https://medium.com/p/0bb8c9ed2ff4) |
 | Tue, 10 Feb 2026 10:11:00 GMT | 9 Powerful Post-Patch Validation Checks to Prove Clean | Pentest_Testing_Corp | [Read More](https://medium.com/p/0c09bd50ec09) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Feb 2026 05:38:48 GMT | How to Enable Automatic Updates on Linux and Stay Secure | Khurram Shahzad | [Read More](https://medium.com/p/30b615b721b3) |
 | Tue, 10 Feb 2026 05:13:35 GMT | I Let an Autonomous AI Hacker Loose on My Web App | Jannis | [Read More](https://medium.com/p/15ebbdaddfdc) |
 | Tue, 10 Feb 2026 05:12:40 GMT | ACS RPL Report: A Practical Guide for Australia Skilled Migration | CDR for Australia | [Read More](https://medium.com/p/2b68d841fc1f) |
-| Tue, 10 Feb 2026 04:56:14 GMT | Key Security Features Every Business Website Needs from Hosting | revathi msr | [Read More](https://medium.com/p/e16f30bed065) |
-| Tue, 10 Feb 2026 04:48:59 GMT | NIST CSF 2.0: Understanding CSF 2.0 Foundation | Jenny | [Read More](https://medium.com/p/fd68e9edc7e8) |
-| Tue, 10 Feb 2026 04:44:59 GMT | The Silent Imposter: A Deep Dive into CSRF Attacks | Vaibhav Tiwari | [Read More](https://medium.com/p/615e3e06821d) |
-| Tue, 10 Feb 2026 04:44:00 GMT | How to Become a SOC Analyst in 2026 Complete Roadmap for Beginners | Nizam Uddin | [Read More](https://medium.com/p/21f4e52b131f) |
-| Tue, 10 Feb 2026 04:40:28 GMT | Identity Life Cycle: Joiner Process | Kiran Adhikari | [Read More](https://medium.com/p/fe4e4a36347d) |
-| Tue, 10 Feb 2026 04:36:00 GMT | Shannon Is What Happens When Penetration Testing Becomes Autonomous | Ishank choudhary | [Read More](https://medium.com/p/86e6a37680fe) |
-| Tue, 10 Feb 2026 04:31:05 GMT | n8n Secrets & Environments: Stop Accidental Leaks | Velorum | [Read More](https://medium.com/p/c60b07a82ac2) |
-| Tue, 10 Feb 2026 04:28:47 GMT | How LMS Improves Cybersecurity Awareness in Companies | Maxatlasofficial | [Read More](https://medium.com/p/eb13e98b37fa) |
-| Tue, 10 Feb 2026 04:24:06 GMT | What Is Agentic AI: Redefining Enterprise Intelligence & Decision Making | Cloud Kinetics | [Read More](https://medium.com/p/ed2f099c55d6) |
-| Tue, 10 Feb 2026 04:16:50 GMT | Web Application Security: Hands-On Practice (Chapter 10 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/a5517cd4d528) |
-| Tue, 10 Feb 2026 04:16:02 GMT | The $5 Million Mistake: How a Single Phishing Email Brought a Federal Contractor to Its Knees | DeltaBytes | [Read More](https://medium.com/p/4e65b90c3566) |
-| Tue, 10 Feb 2026 04:13:00 GMT | The “Kill Switch” in Your Smart Glasses: How Even Realities Threatened to Brick My Device | Wearableowner | [Read More](https://medium.com/p/c0e1974cd022) |
-| Tue, 10 Feb 2026 04:11:31 GMT | Hire N8N Developers to Build Scalable, Smart Automation for Modern Businesses | n8ndevelopers | [Read More](https://medium.com/p/2f69bedd519b) |
-| Tue, 10 Feb 2026 04:01:06 GMT | OpenClaw and its Security | Jason TC Chuang | [Read More](https://medium.com/p/0c82f0be73f1) |
-| Tue, 10 Feb 2026 03:47:01 GMT | Top Security Camera Suppliers in UAE and CCTV Approval in Sharjah : Enhancing Safety and Compliance | techfra solutions | [Read More](https://medium.com/p/194c284d9305) |
-| Tue, 10 Feb 2026 03:39:06 GMT | Your AI Just Approved a Payment to a Hacker (And You Have No Idea When It Started) | Firuz Alimov | [Read More](https://medium.com/p/2e104e9ce5e2) |
-| Tue, 10 Feb 2026 03:38:40 GMT | Layer Zero in AWS: The Architecture of the Root Identity | Thought Nimbus | [Read More](https://medium.com/p/15b8afd2d97a) |
-| Tue, 10 Feb 2026 03:31:01 GMT | NTDS.dit: The Silent Key to Active Directory Takeovers | Deven Chhajed | [Read More](https://medium.com/p/e4a3fbe0caa2) |
-| Tue, 10 Feb 2026 03:29:47 GMT | The Human Side of Tech: Designing for People, Not Just Performance | Ngalaygraphy | [Read More](https://medium.com/p/d4be73c1a449) |
