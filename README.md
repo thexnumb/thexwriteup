@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Feb 2026 02:23:26 GMT | Threat Dan Threat Actor Dalam Cyber Security | Velskynotfound | [Read More](https://medium.com/p/bee47539efcd) |
+| Tue, 10 Feb 2026 02:15:56 GMT | Tuesday Morning Threat Report: Feb 10, 2026 TMTR | Mark Maguire | [Read More](https://medium.com/p/41ef780358df) |
+| Tue, 10 Feb 2026 02:04:23 GMT | How Many Jobs Are Available in Technology? A 2026 Market Analysis | Info-Galaxy | [Read More](https://medium.com/p/018915462647) |
+| Tue, 10 Feb 2026 02:02:40 GMT | Exploiting Web Vulnerabilities: OWASP Top 10 Applied (2025 Edition) | Diego Michel | [Read More](https://medium.com/p/6fe604fe1ab0) |
+| Tue, 10 Feb 2026 01:59:10 GMT | CrowdSec + nftables: Automated Kernel-Level IP Blocking on Linux | Min | [Read More](https://medium.com/p/651c41b6708f) |
+| Tue, 10 Feb 2026 01:32:00 GMT | Client-Side Security in 2026: The Threat Model Apps Ignore | Hash Block | [Read More](https://medium.com/p/866ba227402c) |
+| Tue, 10 Feb 2026 01:17:17 GMT | Why Team Structure Matters More Than Speed in Incident Response | Alfredo Zablah | [Read More](https://medium.com/p/470926c43808) |
+| Tue, 10 Feb 2026 01:14:00 GMT | Building an Azure Honeypot Lab with Microsoft Sentinel (Full Walkthrough) | Roman Charleston | [Read More](https://medium.com/p/af6851b7795b) |
+| Tue, 10 Feb 2026 00:52:42 GMT | Inside the AI-Powered Phishing Arsenal of 2026 | Dev Suthar | [Read More](https://medium.com/p/2edba906d0d5) |
+| Tue, 10 Feb 2026 00:41:00 GMT | Shocking Jailbreak Attacks | Shailendra Kumar | [Read More](https://medium.com/p/c654c7f48fe0) |
+| Tue, 10 Feb 2026 00:37:19 GMT | Del ruido al oro digital: cómo el spam parió a Bitcoin | Bitcoinsapiens | [Read More](https://medium.com/p/a1f4cf742ddc) |
+| Tue, 10 Feb 2026 00:36:57 GMT | Server-Side Template Injection in Jinja2 and Handlebars | Sujaykumar | [Read More](https://medium.com/p/5ab36a67bf4e) |
+| Tue, 10 Feb 2026 00:35:00 GMT | Cyborg WriteUp - TryHackMe - CTF | s1lja | [Read More](https://medium.com/p/99972acdfca6) |
+| Tue, 10 Feb 2026 00:19:01 GMT | The Buyer’s Journey Is Broken. Privacy Is Why. | Ikuejamoye-Omotore Oludayo | [Read More](https://medium.com/p/097bc5dcb314) |
+| Tue, 10 Feb 2026 00:12:06 GMT | The Next Internet Worm Won’t Be Code. It Will Be a Prompt | Cyber-AppSec | [Read More](https://medium.com/p/b04e1231956c) |
+| Tue, 10 Feb 2026 00:07:54 GMT | Is Scanner Hacker Crypto Recovery Legit? What Crypto Scam Victims Should Know | Andricorsin | [Read More](https://medium.com/p/b0fdb08440b3) |
+| Tue, 10 Feb 2026 00:01:01 GMT | Guía de Códigos de Estado HTTP para Bug Bounty y Pentesting | JPablo13 | [Read More](https://medium.com/p/af71f708e9b5) |
+| Tue, 10 Feb 2026 00:00:26 GMT | PostgreSQL’de Güçlü Şifre Politikası: Credcheck Extension Kullanımı | Talha Alperen Çengel | [Read More](https://medium.com/p/aa86c04e0fcc) |
+| Mon, 09 Feb 2026 23:54:30 GMT | Attacktive Directory — TryHackMe Walkthrough | Abdallah_samir | [Read More](https://medium.com/p/fcab08926162) |
+| Mon, 09 Feb 2026 23:50:19 GMT | Yet Another Yahoo Scammer | Elizabeth Emerald | [Read More](https://medium.com/p/848c6ced1805) |
+| Mon, 09 Feb 2026 23:49:57 GMT | Unfiltered Restart — Starting in IT + Cyber After an Unsuccessful Seven Months of Unemployment | Maximillian Rueda | [Read More](https://medium.com/p/8487864fe8d8) |
 | Mon, 09 Feb 2026 23:28:12 GMT | Gamifying Security Testing: Introducing BurpHub | RootHawk | [Read More](https://medium.com/p/8b4595e98f07) |
 | Mon, 09 Feb 2026 23:24:11 GMT | DanaBot Lab -CyberDefender Challenge | Faris Althagafi | [Read More](https://medium.com/p/8b4fd4d741f0) |
 | Mon, 09 Feb 2026 23:10:40 GMT | Web template , KOSTEN ,Bugs , software-perspektive. | Mahmoud Mabrouk | [Read More](https://medium.com/p/6ba47fb92e6b) |
@@ -96,24 +117,3 @@ Learn… | Silviawrites | [Read More](https://medium.com/p/998fc661b446) |
 | Mon, 09 Feb 2026 17:16:40 GMT | How Hackers Enumerate Networks: Practical Demo (Beginner-Friendly Lab Walkthrough) | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/5353d9d3ed9d) |
 | Mon, 09 Feb 2026 17:09:45 GMT | Penetration Testing Best Practices for Stronger Security | seo | [Read More](https://medium.com/p/d03904c58dfa) |
 | Mon, 09 Feb 2026 17:09:16 GMT | Ethical Hacking Lab: From Recon to Shell Access (Step-by-Step Beginner Walkthrough) | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/faf3e566cbda) |
-| Mon, 09 Feb 2026 16:59:39 GMT | Understanding Dark Web Search Engines: How Discovery Actually Works | Tor BBB | [Read More](https://medium.com/p/98dd8626e942) |
-| Mon, 09 Feb 2026 16:37:16 GMT | Mozilla Firefox Gave me a T-Shirt | Vikram S | [Read More](https://medium.com/p/9b31f1c98186) |
-| Mon, 09 Feb 2026 16:26:17 GMT | HTTP Request Smuggling | Lakshay Nimwal | [Read More](https://medium.com/p/0e4cfcd77bee) |
-| Mon, 09 Feb 2026 16:25:54 GMT | HTB Hacknet Walkthrough | The Mastermind Notes | [Read More](https://medium.com/p/73532ae4c793) |
-| Mon, 09 Feb 2026 16:23:45 GMT | HackTheBox Imagery Writeup | The Mastermind Notes | [Read More](https://medium.com/p/a7eb4abc5300) |
-| Mon, 09 Feb 2026 16:21:53 GMT | How to build a super cool cybersecurity career (and no, you don’t need one more certification) | h@shtalk | [Read More](https://medium.com/p/0daf3df82800) |
-| Mon, 09 Feb 2026 16:09:42 GMT | Introduction to Web Application Security | Basmala Yasser | [Read More](https://medium.com/p/4c9ff6232b0a) |
-| Mon, 09 Feb 2026 16:00:17 GMT | Dependency Management Tools Peaked in 2018. And We’ve All Been Pretending That’s Fine. | Ali Naqvi | [Read More](https://medium.com/p/ebcf6f03fc8b) |
-| Mon, 09 Feb 2026 15:55:48 GMT | Insider Risk and Insider Threats in the Modern Enterprise | cyber security threat ai | [Read More](https://medium.com/p/719ec102ba0d) |
-| Mon, 09 Feb 2026 15:55:02 GMT | Kimlik Doğrulama (Authentication) vs. Yetkilendirme (Authorization) | Göktan İren | [Read More](https://medium.com/p/5f0b9d69ab10) |
-| Mon, 09 Feb 2026 15:54:08 GMT | Windows Architecture | Aj | [Read More](https://medium.com/p/4ecdcca86f46) |
-| Mon, 09 Feb 2026 15:54:03 GMT | Rethinking Private Networks as Security Infrastructure | Dr. Enrique Somoza, D.Sc. | [Read More](https://medium.com/p/ac2421fd685c) |
-| Mon, 09 Feb 2026 15:50:16 GMT | Accountability Requires Identity: AI Agents & the Future of Digital Trust | karanam susrutha chowdary | [Read More](https://medium.com/p/49739700aee6) |
-| Mon, 09 Feb 2026 15:49:18 GMT | From Chat to Change: Why the Runtime Is the Real Risk | number40 | [Read More](https://medium.com/p/a4697c55846b) |
-| Mon, 09 Feb 2026 15:40:51 GMT | Do You Really Need to Back Up Your Data? | JustinWang | [Read More](https://medium.com/p/1bf14f9149bf) |
-| Mon, 09 Feb 2026 15:36:26 GMT | Authentication OTP Bypass Via (“Response manipulation”) | Skysenz | [Read More](https://medium.com/p/7771e71235b4) |
-| Mon, 09 Feb 2026 15:33:15 GMT | From 1970s Passwords to Modern Identity Security and How Rainbow Secure Changed Everything | Dr. Shashi Karhail | [Read More](https://medium.com/p/07d055571732) |
-| Mon, 09 Feb 2026 15:27:57 GMT | Security Camera Installation Cost Explained | AlexBryn | [Read More](https://medium.com/p/bac78481e9f8) |
-| Mon, 09 Feb 2026 15:27:12 GMT | Memfd Shared Memory Injection on android | Lord Murak | [Read More](https://medium.com/p/2e636406c101) |
-| Mon, 09 Feb 2026 15:25:16 GMT | Complete Guide to Security Camera Installation | AlexBryn | [Read More](https://medium.com/p/7de886c7de1f) |
-| Mon, 09 Feb 2026 15:23:10 GMT | How I passed my CISSP exam | Muiz Adeleke | [Read More](https://medium.com/p/b6619acaf063) |
