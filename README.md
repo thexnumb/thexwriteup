@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Feb 2026 23:04:46 GMT | Effective Dorking Tools | loyalonlytoday | [Read More](https://medium.com/p/3f0ea18e2c0d) |
+| Tue, 10 Feb 2026 23:04:21 GMT | What Nobody Teaches You About Detection Engineering | Siddhant Mishra | [Read More](https://medium.com/p/31f4bdb1f3d7) |
+| Tue, 10 Feb 2026 23:02:45 GMT | Academic research tools-OSINT | loyalonlytoday | [Read More](https://medium.com/p/2bc47277144e) |
+| Tue, 10 Feb 2026 23:02:20 GMT | Hack AWS Like a Pro: Pacu Reveals Every Hidden Weakness! | cybrNK | [Read More](https://medium.com/p/b08c8fba8024) |
+| Tue, 10 Feb 2026 22:38:04 GMT | Google, Yandex, DuckDuckGo, or Bing? Who’s the most transparent? | Snooptsz | [Read More](https://medium.com/p/af41d31756ee) |
+| Tue, 10 Feb 2026 22:32:47 GMT | Development, Pentesting, and Hardening of a Dockerized Web Application | Wiame El Ouahabi | [Read More](https://medium.com/p/17e4a1d34f11) |
+| Tue, 10 Feb 2026 22:30:25 GMT | Anomaly Detection for finding bad guys: Promises and Pitfalls, and a way forward | Joshua Neil | [Read More](https://medium.com/p/f618290f21ac) |
+| Tue, 10 Feb 2026 22:26:27 GMT | Gotto Job  Running My First Real Scrum Sprint with Jira and Deploying to AWS EC2 | Chime Michael Tochukwu | [Read More](https://medium.com/p/8124039f4859) |
+| Tue, 10 Feb 2026 22:14:55 GMT | Can You Hack a Dead DVR? | Aaronjjose | [Read More](https://medium.com/p/29348f247a68) |
+| Tue, 10 Feb 2026 22:13:48 GMT | DNS and DHCP — aarononit.blogspot.com | Aaron DeJong | [Read More](https://medium.com/p/93a8c7ab6767) |
+| Tue, 10 Feb 2026 22:09:32 GMT | A Moment to Reflect | Novita Eka Lestari | [Read More](https://medium.com/p/8b0d89e48a19) |
+| Tue, 10 Feb 2026 22:01:26 GMT | When the Heart Is Ready, but the Hands Still Pause | Habil Lokadjaja CFP | [Read More](https://medium.com/p/7b3ec40d1af7) |
+| Tue, 10 Feb 2026 22:01:00 GMT | Unfiltered Restart — Day 0: Hello Profs. Dion and Messer | Maximillian Rueda | [Read More](https://medium.com/p/afeb25ab7c37) |
 | Tue, 10 Feb 2026 21:58:21 GMT | From Theory to Exploitation: A Deep Dive into SQL Injection Attacks | Sriman kundu | [Read More](https://medium.com/p/3b9be926649b) |
 | Tue, 10 Feb 2026 21:54:43 GMT | Weaponizing PPL for Process Immortality | S12 - 0x12Dark Development | [Read More](https://medium.com/p/a647832fd5a1) |
 | Tue, 10 Feb 2026 21:36:19 GMT | An OPSEC Mistake That Almost Burned an Entire Operation | X7r3M9 | [Read More](https://medium.com/p/7a809d454187) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Feb 2026 16:00:54 GMT | An Accidental Moat: | lior perlmutter shoshany | [Read More](https://medium.com/p/fbded62dbc37) |
 | Tue, 10 Feb 2026 15:58:42 GMT | The Doomsday Clock Isn’t Predicting Extinction. It’s Warning About Something Worse. | Anna Jacobi | [Read More](https://medium.com/p/491b901e72fe) |
 | Tue, 10 Feb 2026 15:56:28 GMT | Breaking the Paywall: How a Simple Access Control Flaw Exposed Premium Hiring Data | Krishna Kumar | [Read More](https://medium.com/p/013a5605646c) |
-| Tue, 10 Feb 2026 15:55:18 GMT | Your First Line of Defense For Your API Starts in Filters (Not Controllers) | Ngane Emmanuel | [Read More](https://medium.com/p/34bf50de0167) |
-| Tue, 10 Feb 2026 15:52:04 GMT | WHAT IS KERNAL | Kevin Ronex | [Read More](https://medium.com/p/86d948ec9dd3) |
-| Tue, 10 Feb 2026 15:51:01 GMT | Hobins Toolbox: C5 Adapter from JCMK for the next gen of flipper users | Hobin Rood | [Read More](https://medium.com/p/cc4f7f8b50d2) |
-| Tue, 10 Feb 2026 15:46:00 GMT | [DEEP RESEARCH] BadIIS Isn’t Enough: The IIS Module + HTTP Fingerprints That Catch SEO-Fraud… | Wes Young | [Read More](https://medium.com/p/3cd49115897e) |
-| Tue, 10 Feb 2026 15:41:38 GMT | Incentiv 101: Securing Your Mainnet Wallet | Lexus Nakamoto | [Read More](https://medium.com/p/6e6057a7074d) |
-| Tue, 10 Feb 2026 15:35:35 GMT | How to Inspect Any Android App’s Network Traffic with mitmproxy | Benji | [Read More](https://medium.com/p/c3d2a210da41) |
-| Tue, 10 Feb 2026 15:25:18 GMT | PoC: Modified replay attack on Zigbee in 2026 — How hard can it be ? | biero llagas | [Read More](https://medium.com/p/2da75901fc7d) |
-| Tue, 10 Feb 2026 15:22:40 GMT | Why SOCs Keep Automating the Wrong Layer | Ehulse | [Read More](https://medium.com/p/4fc77380a3ac) |
-| Tue, 10 Feb 2026 15:10:00 GMT | The Fight or Flight Hack I Learned From Hypnotherapy (It Works in 90 Seconds) | Winning Presentations | [Read More](https://medium.com/p/dfbb2fe2fd0d) |
-| Tue, 10 Feb 2026 15:06:00 GMT | We’re Not Building AI. | Sylva Moth | [Read More](https://medium.com/p/f08c5b9bf60b) |
-| Tue, 10 Feb 2026 15:03:30 GMT | NEWSLETTER: Latest in AI, TikTok, Cybersecurity and “AI: Classrooms, Cyber Defense, and… | Nitin Garg | [Read More](https://medium.com/p/1e56cde4f820) |
-| Tue, 10 Feb 2026 15:01:04 GMT | Cyber Briefing: 2026.02.10 | CyberMaterial | [Read More](https://medium.com/p/a3520c75419c) |
-| Tue, 10 Feb 2026 15:00:04 GMT | LA CTF 2026 | LiGhTZod | [Read More](https://medium.com/p/5b0d521ba095) |
