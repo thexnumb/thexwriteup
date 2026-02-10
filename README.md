@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Feb 2026 16:00:54 GMT | An Accidental Moat: | lior perlmutter shoshany | [Read More](https://medium.com/p/fbded62dbc37) |
+| Tue, 10 Feb 2026 15:56:28 GMT | Breaking the Paywall: How a Simple Access Control Flaw Exposed Premium Hiring Data | Krishna Kumar | [Read More](https://medium.com/p/013a5605646c) |
+| Tue, 10 Feb 2026 15:52:04 GMT | WHAT IS KERNAL | Kevin Ronex | [Read More](https://medium.com/p/86d948ec9dd3) |
+| Tue, 10 Feb 2026 15:51:01 GMT | Hobins Toolbox: C5 Adapter from JCMK for the next gen of flipper users | Hobin Rood | [Read More](https://medium.com/p/cc4f7f8b50d2) |
+| Tue, 10 Feb 2026 15:46:00 GMT | [DEEP RESEARCH] BadIIS Isn’t Enough: The IIS Module + HTTP Fingerprints That Catch SEO-Fraud… | Wes Young | [Read More](https://medium.com/p/3cd49115897e) |
+| Tue, 10 Feb 2026 15:41:38 GMT | Incentiv 101: Securing Your Mainnet Wallet | Lexus Nakamoto | [Read More](https://medium.com/p/6e6057a7074d) |
+| Tue, 10 Feb 2026 15:35:35 GMT | How to Inspect Any Android App’s Network Traffic with mitmproxy | Benji | [Read More](https://medium.com/p/c3d2a210da41) |
+| Tue, 10 Feb 2026 15:25:18 GMT | PoC: Modified replay attack on Zigbee in 2026 — How hard can it be ? | biero llagas | [Read More](https://medium.com/p/2da75901fc7d) |
+| Tue, 10 Feb 2026 15:22:40 GMT | Why SOCs Keep Automating the Wrong Layer | Ehulse | [Read More](https://medium.com/p/4fc77380a3ac) |
+| Tue, 10 Feb 2026 15:10:00 GMT | The Fight or Flight Hack I Learned From Hypnotherapy (It Works in 90 Seconds) | Winning Presentations | [Read More](https://medium.com/p/dfbb2fe2fd0d) |
+| Tue, 10 Feb 2026 15:06:00 GMT | We’re Not Building AI. | Sylva Moth | [Read More](https://medium.com/p/f08c5b9bf60b) |
+| Tue, 10 Feb 2026 15:03:30 GMT | NEWSLETTER: Latest in AI, TikTok, Cybersecurity and “AI: Classrooms, Cyber Defense, and… | Nitin Garg | [Read More](https://medium.com/p/1e56cde4f820) |
+| Tue, 10 Feb 2026 15:01:04 GMT | Cyber Briefing: 2026.02.10 | CyberMaterial | [Read More](https://medium.com/p/a3520c75419c) |
+| Tue, 10 Feb 2026 15:00:04 GMT | LA CTF 2026 | LiGhTZod | [Read More](https://medium.com/p/5b0d521ba095) |
+| Tue, 10 Feb 2026 14:59:50 GMT | Understanding “Pass-the-Hash” Attacks in Windows Networks | Danladi | [Read More](https://medium.com/p/09cf0da7563e) |
+| Tue, 10 Feb 2026 14:59:15 GMT | Cyber Security SEO: How Security Brands Earn Trust Before the First Sales Call | Gary Katz | [Read More](https://medium.com/p/c5b0b6d68eef) |
+| Tue, 10 Feb 2026 14:59:06 GMT | 15 Free OSINT Tools That Reveal Everything Online (2026 Guide) | rootRS7 | [Read More](https://medium.com/p/807f7cc22931) |
+| Tue, 10 Feb 2026 14:58:53 GMT | APPLICATION OF AI IN CHILD DELIVERY IN HEALTH CARE . | Iorver-Nze.A. | [Read More](https://medium.com/p/516d65b29dbb) |
+| Tue, 10 Feb 2026 14:52:59 GMT | EasyWin — Web Security Challenge Write-Up (Easy) - Cybertalents | Z3DX | [Read More](https://medium.com/p/a49dafc9b93a) |
+| Tue, 10 Feb 2026 14:49:27 GMT | Google Issues Android Update 40% Of All Phones Now At Risk | Moni | [Read More](https://medium.com/p/89696988f403) |
+| Tue, 10 Feb 2026 14:38:38 GMT | What is a Landing Zone in Cloud Computing? | Tyler Hudson - DevSecOps | [Read More](https://medium.com/p/27863193418d) |
+| Tue, 10 Feb 2026 14:38:31 GMT | Manned Guarding Services: A Core Element of Professional Security Solutions | Rapport Security | [Read More](https://medium.com/p/2674afcd7ddd) |
+| Tue, 10 Feb 2026 14:37:55 GMT | DC-1 (VulnHub) Walkthrough | Harikrishnanvs | [Read More](https://medium.com/p/223ce8a87a8c) |
+| Tue, 10 Feb 2026 14:33:58 GMT | The Role of Confidential Computing in Defence | Pradipta Banerjee | [Read More](https://medium.com/p/b0f5de4b1590) |
 | Tue, 10 Feb 2026 14:29:58 GMT | The Epstein Files: Power, Silence, and the Truth That Refuses to Stay Buried | Ged Libanan (Jilib480) | [Read More](https://medium.com/p/1e326f7e8e3a) |
 | Tue, 10 Feb 2026 14:26:01 GMT | Running HashiCorp Vault on Kubernetes: A Practical Guide | Kirshi Yin | [Read More](https://medium.com/p/40f129400fc6) |
 | Tue, 10 Feb 2026 14:24:02 GMT | Day 13: Logging Concepts | Siddhesh Patil | [Read More](https://medium.com/p/532b140d908c) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Feb 2026 09:05:07 GMT | Total Security Solutions India: End-to-End Protection for Modern Businesses and Homes | Ciss India | [Read More](https://medium.com/p/488f25c8d443) |
 | Tue, 10 Feb 2026 09:03:53 GMT | The Zombie SSH: How I Forced a Modern Server into a “Logjam” (And Why It Was Marked N/A) | Zer0Figure | [Read More](https://medium.com/p/d6c22cbd9a93) |
 | Tue, 10 Feb 2026 09:02:27 GMT | Thinking Like an Attacker: How API Pen-Testers Identify SQL Injection | Chinaza Emmanuela Obidike | [Read More](https://medium.com/p/87d797b9703f) |
-| Tue, 10 Feb 2026 09:01:08 GMT | From Alert to Remediation: What a LeakRadar Workflow Looks Like in Practice | Alexandre Vandamme | [Read More](https://medium.com/p/abc565d57ded) |
-| Tue, 10 Feb 2026 08:57:47 GMT | Primeira Linha de Defesa: Práticas Básicas de Segurança Cibernética | Fabiano Vieira | [Read More](https://medium.com/p/7a61f36ad40b) |
-| Tue, 10 Feb 2026 08:56:49 GMT | The Complete Mobile App Hacking Guide for Bug Bounty Hunters (2026 Edition) | BugHunter’s Journal | [Read More](https://medium.com/p/962aaa6f3c3c) |
-| Tue, 10 Feb 2026 08:55:00 GMT | XSS Exfiltration: How Attackers Steal Data Using JavaScript | Redfox Security | [Read More](https://medium.com/p/d63a9d92b74f) |
-| Tue, 10 Feb 2026 08:47:31 GMT | GitHub Trending: February 10, 2026 — Security AI & Financial Agents Explode | Baozilla, Let's go! | [Read More](https://medium.com/p/35b5d2c5d91b) |
-| Tue, 10 Feb 2026 08:46:40 GMT | Govt warns against sale of unapproved mobile phones | Francis Ngannou | [Read More](https://medium.com/p/00d2a1b76c04) |
-| Tue, 10 Feb 2026 08:44:21 GMT | The Darknet is Dead. Long Live the Telegram Protocol. | Ben Amsalo | [Read More](https://medium.com/p/a998516a195e) |
-| Tue, 10 Feb 2026 08:31:01 GMT | Security by Design: Integrating DevSecOps into the Development Culture | Paradigma Digital | [Read More](https://medium.com/p/eb8e9926af47) |
-| Tue, 10 Feb 2026 08:23:11 GMT | Setting Up ADB Over Wi‑Fi on Kali Linux: A Step‑by‑Step Guide | Blacq | [Read More](https://medium.com/p/fcb238f71383) |
-| Tue, 10 Feb 2026 08:20:51 GMT | The Social Icon That Could Cost a Company Its Reputation | Md Tanjimul Islam Sifat | [Read More](https://medium.com/p/38a917c70579) |
-| Tue, 10 Feb 2026 08:19:43 GMT | Authorization Is a Graph, Not a Check | ghostyjoe | [Read More](https://medium.com/p/79689652e364) |
-| Tue, 10 Feb 2026 08:17:52 GMT | 12 Major Client-Side Security Threats and How to Defend | Smit Pipaliya | [Read More](https://medium.com/p/9980570a6b95) |
-| Tue, 10 Feb 2026 08:16:52 GMT | LOGICAL ACCESS- OFFICIAL WALK-THROUGH | Kanyoko | [Read More](https://medium.com/p/fb31721aaef3) |
-| Tue, 10 Feb 2026 08:16:17 GMT | CHATTY PRINTER | Kanyoko | [Read More](https://medium.com/p/ece17b3049f8) |
-| Tue, 10 Feb 2026 07:58:12 GMT | 10 Essential Password Security Tips Everyone Should Follow | Tolulope Oduola | [Read More](https://medium.com/p/cd7bb8f03937) |
-| Tue, 10 Feb 2026 07:55:09 GMT | Fortinet Patches Critical Vulnerabilities: Why These Flaws Are a Wake-Up Call for Network Security… | Germano Costi | [Read More](https://medium.com/p/18feb5a809f0) |
-| Tue, 10 Feb 2026 07:52:43 GMT | How Web Developers Build Secure Payment and Checkout Systems | jacklevett | [Read More](https://medium.com/p/9daa5a8d7da1) |
-| Tue, 10 Feb 2026 07:44:25 GMT | Straight to the Ace — Threat Modeling Through Gamification | Christoffer Pedersen | [Read More](https://medium.com/p/9a91eb779456) |
-| Tue, 10 Feb 2026 07:42:00 GMT | Reliable Protection for Homes Across Saskatchewan | Alarm Guard Security | [Read More](https://medium.com/p/38113594a7da) |
-| Tue, 10 Feb 2026 07:41:01 GMT | How to Install Nuclei on Linux (Step-by-Step Guide) | Abhinsubej | [Read More](https://medium.com/p/0641533458b8) |
-| Tue, 10 Feb 2026 07:39:32 GMT | SSRF Hunting 2025: 12 Tools Beyond Metadata for Next-Level Pentesting | Very Lazy Tech | [Read More](https://medium.com/p/a55c4a18f347) |
-| Tue, 10 Feb 2026 07:37:08 GMT | The Day I Learned She Was Taken | Antarayaami Bodhicitta | [Read More](https://medium.com/p/377bf12d8470) |
-| Tue, 10 Feb 2026 07:32:39 GMT | The End of Surveillance: Why Serverless P2P Messaging is the Future of Privacy | SAYCOIN | [Read More](https://medium.com/p/e0138adc0bf3) |
-| Tue, 10 Feb 2026 07:31:01 GMT | 7 n8n Approval Patterns That Don’t Slow Teams | Praxen | [Read More](https://medium.com/p/f5d226d282ff) |
