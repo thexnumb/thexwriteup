@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Feb 2026 06:31:01 GMT | Hidden Persistence in Cloud Identity Attacks | Ankita Sinha | [Read More](https://medium.com/p/3a000004bd6a) |
+| Tue, 10 Feb 2026 06:31:01 GMT | Cybersecurity Acronyms Explained: SIEM, SOAR, EDR, XDR, and MDR: Made Simple | Manubhav Sharma | [Read More](https://medium.com/p/898f03d496af) |
+| Tue, 10 Feb 2026 06:21:21 GMT | Rust Concurrency: Shared State, Mutexes, and the “Arc” of Safety | 0xjustuzair | [Read More](https://medium.com/p/655a9d909367) |
+| Tue, 10 Feb 2026 06:18:25 GMT | Life Is Not a Straight Line — And That’s Okay | Vijay Kumar Gupta | [Read More](https://medium.com/p/35803e669ea2) |
+| Tue, 10 Feb 2026 06:17:21 GMT | n8n ile SOC L1 Asistan Otomasyonu | Sergen Yanmış | [Read More](https://medium.com/p/f67af211b713) |
+| Tue, 10 Feb 2026 06:11:42 GMT | Beyond User-Agents: The Engineering Behind GA4’s Bot Detection Engine | Nouman Naseer | [Read More](https://medium.com/p/193b87bc28a0) |
+| Tue, 10 Feb 2026 06:10:51 GMT | Behind the Link: A Guide to Mastering URL Analysis | Prakhar Srivastava | [Read More](https://medium.com/p/9e78580dfcf2) |
+| Tue, 10 Feb 2026 06:10:29 GMT | Your Marketing Dashboard is Lying to You: The expensive reality of Bot Traffic in 2026 | Aqsa | [Read More](https://medium.com/p/100f04814ffd) |
+| Tue, 10 Feb 2026 06:10:03 GMT | We Deleted 40% of a Client’s Traffic, and They Thanked Us: The Truth About Bot Filtering | Fantechlabs Ca | [Read More](https://medium.com/p/e9852fe21a85) |
+| Tue, 10 Feb 2026 06:08:05 GMT | Microsoft Azure Cloud Services Provider - IFI Techsolutions | IFI Techsolutions | [Read More](https://medium.com/p/53657d731477) |
+| Tue, 10 Feb 2026 06:05:48 GMT | 2026’da Fabrikalar Neden “Kale” Değil, “Organizma” Gibi Korunmalı? | Senanur Çetin | [Read More](https://medium.com/p/24cb30f3545e) |
+| Tue, 10 Feb 2026 06:01:01 GMT | Emerging AI Risks: Why Automation Can Be a Double-Edged Sword | Hazel Chirinda | [Read More](https://medium.com/p/6bc455de5201) |
+| Tue, 10 Feb 2026 06:00:34 GMT | Smarter Protection for Manitoba Homes | Alarm Guard Security | [Read More](https://medium.com/p/a953fe55f28a) |
+| Tue, 10 Feb 2026 05:55:18 GMT | Security Controls That Quietly Stop Working After AI Integration | Pritam Dutta | [Read More](https://medium.com/p/db1462f77012) |
+| Tue, 10 Feb 2026 05:52:49 GMT | Dependency Injection 是什麼？以造車比喻理解 | 思維舞步 MindSteps | [Read More](https://medium.com/p/982fd3900548) |
+| Tue, 10 Feb 2026 05:50:36 GMT | heyData Raises $16.5 Million Series A to Simplify Compliance and IT Security Across Europe | Richwebs In | [Read More](https://medium.com/p/096b34b707c0) |
+| Tue, 10 Feb 2026 05:49:49 GMT | Transform Your Career with CRISC Certification Insights | Irfan Sharief | [Read More](https://medium.com/p/e48c953522c2) |
+| Tue, 10 Feb 2026 05:43:57 GMT | UI/UX Design: The Silent Language Between Humans and Technology | Haritha | [Read More](https://medium.com/p/d42776173d29) |
+| Tue, 10 Feb 2026 05:38:48 GMT | How to Enable Automatic Updates on Linux and Stay Secure | Khurram Shahzad | [Read More](https://medium.com/p/30b615b721b3) |
+| Tue, 10 Feb 2026 05:13:35 GMT | I Let an Autonomous AI Hacker Loose on My Web App | Jannis | [Read More](https://medium.com/p/15ebbdaddfdc) |
+| Tue, 10 Feb 2026 05:12:40 GMT | ACS RPL Report: A Practical Guide for Australia Skilled Migration | CDR for Australia | [Read More](https://medium.com/p/2b68d841fc1f) |
 | Tue, 10 Feb 2026 04:56:14 GMT | Key Security Features Every Business Website Needs from Hosting | revathi msr | [Read More](https://medium.com/p/e16f30bed065) |
 | Tue, 10 Feb 2026 04:48:59 GMT | NIST CSF 2.0: Understanding CSF 2.0 Foundation | Jenny | [Read More](https://medium.com/p/fd68e9edc7e8) |
 | Tue, 10 Feb 2026 04:44:59 GMT | The Silent Imposter: A Deep Dive into CSRF Attacks | Vaibhav Tiwari | [Read More](https://medium.com/p/615e3e06821d) |
@@ -96,24 +117,3 @@ Learn… | Silviawrites | [Read More](https://medium.com/p/998fc661b446) |
 | Mon, 09 Feb 2026 19:58:37 GMT | When Breakthrough Happens | Mark Aylward | [Read More](https://medium.com/p/07d948d1df4f) |
 | Mon, 09 Feb 2026 19:53:37 GMT | Event ID 4720 - A user account was created | Six Dingus | [Read More](https://medium.com/p/ad19628a8ae4) |
 | Mon, 09 Feb 2026 19:53:09 GMT | Why password policies fail (Human behavior vs system security) | David Ajuzie | [Read More](https://medium.com/p/733bf7f464c0) |
-| Mon, 09 Feb 2026 19:50:51 GMT | SOC Analist Kariyer Başlangıç | Salih Sefa | [Read More](https://medium.com/p/2d345be13a0d) |
-| Mon, 09 Feb 2026 19:49:19 GMT | TakeOver-writeup | 0xAren | [Read More](https://medium.com/p/d479fcc0bd97) |
-| Mon, 09 Feb 2026 19:49:00 GMT | The Password Paradox: Why Security Theater Is Making Us Less Safe | Jakub Jirak | [Read More](https://medium.com/p/571194bf3da1) |
-| Mon, 09 Feb 2026 19:44:57 GMT | The 10 Best Cloud & Security Solution Providers Powering Enterprises | Voxline | [Read More](https://medium.com/p/1e6e8974ec70) |
-| Mon, 09 Feb 2026 19:39:51 GMT | AI Scam Emails Are More Convincing Than Ever | Emory French | [Read More](https://medium.com/p/867e510d7901) |
-| Mon, 09 Feb 2026 19:30:54 GMT | Operating Systems: Introduction · TryHackMe Walkthrough | RosanaFSS | [Read More](https://medium.com/p/0ef115d007aa) |
-| Mon, 09 Feb 2026 19:25:31 GMT | APK Structure and Building Process: Learning the “Why” | Ahmed Samy ( 0xkenway ) | [Read More](https://medium.com/p/e25609a139de) |
-| Mon, 09 Feb 2026 19:24:57 GMT | Understanding Command & Control (C2)(C&C) — Part 1 | Youssef Said Thabet | [Read More](https://medium.com/p/c235eefcbf74) |
-| Mon, 09 Feb 2026 19:24:15 GMT | TryHackMe Writeup: Corridor | Berkay AĞGÜL | [Read More](https://medium.com/p/83a5932aee11) |
-| Mon, 09 Feb 2026 19:23:49 GMT | Just-In-Time Access for EC2 Is an Architectural Decision, Not an Automation Trick | Surya Naga Sesank Munukutla | [Read More](https://medium.com/p/1ab0fd84f2e4) |
-| Mon, 09 Feb 2026 19:23:48 GMT | Network #3 | Umid Nagiyev | [Read More](https://medium.com/p/b23670578ff2) |
-| Mon, 09 Feb 2026 19:13:28 GMT | Pentester Bytes: API Pentesting Methodology — Broken Function Level Authorization | Shivam Bathla | [Read More](https://medium.com/p/52f40f3d6e47) |
-| Mon, 09 Feb 2026 18:51:12 GMT | Inside the Vehicle Network: CAN Bus Attacks Explained ! | Jishnu | [Read More](https://medium.com/p/0b669f682b77) |
-| Mon, 09 Feb 2026 18:50:40 GMT | THE CLOUD SENTINEL: ARCHITECTING SECURITY IN AWS, AZURE AND GCP | Raphaam Digital (Cyber Security Updates) | [Read More](https://medium.com/p/62ba6c9f623b) |
-| Mon, 09 Feb 2026 18:47:33 GMT | Building a Real-Time Detection System That Actually Works: Inside Matters.AI DDR Pipeline | Vaibhav Anuragi | [Read More](https://medium.com/p/1e9d333bc269) |
-| Mon, 09 Feb 2026 18:43:37 GMT | How I Built My First Cybersecurity Tool — And What It Taught Me About Real Attacks | Cyber Wolf | [Read More](https://medium.com/p/a527aa677651) |
-| Mon, 09 Feb 2026 18:33:05 GMT | Designing for Boredom: Architectural Decisions We Made on Purpose | corebapp | [Read More](https://medium.com/p/35ac9fa691b1) |
-| Mon, 09 Feb 2026 18:32:55 GMT | Cheesy Does it walkthrough (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/ba1ba25a0d14) |
-| Mon, 09 Feb 2026 18:31:46 GMT | HackTheHeart: Infosec Valentine’s Toolkit | Uphar | [Read More](https://medium.com/p/11d917d5f3c3) |
-| Mon, 09 Feb 2026 18:25:32 GMT | From Malware to Modern Threats | Anubhav_bora | [Read More](https://medium.com/p/91b6b328e3ef) |
-| Mon, 09 Feb 2026 18:16:07 GMT | HTTP Verb Tampering in NestJS: Bypassing Middleware with HEAD Requests | Cristian | [Read More](https://medium.com/p/e70b968b15c2) |
