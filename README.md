@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Feb 2026 04:56:14 GMT | Key Security Features Every Business Website Needs from Hosting | revathi msr | [Read More](https://medium.com/p/e16f30bed065) |
+| Tue, 10 Feb 2026 04:48:59 GMT | NIST CSF 2.0: Understanding CSF 2.0 Foundation | Jenny | [Read More](https://medium.com/p/fd68e9edc7e8) |
+| Tue, 10 Feb 2026 04:44:59 GMT | The Silent Imposter: A Deep Dive into CSRF Attacks | Vaibhav Tiwari | [Read More](https://medium.com/p/615e3e06821d) |
+| Tue, 10 Feb 2026 04:44:00 GMT | How to Become a SOC Analyst in 2026 Complete Roadmap for Beginners | Nizam Uddin | [Read More](https://medium.com/p/21f4e52b131f) |
+| Tue, 10 Feb 2026 04:40:28 GMT | Identity Life Cycle: Joiner Process | Kiran Adhikari | [Read More](https://medium.com/p/fe4e4a36347d) |
+| Tue, 10 Feb 2026 04:36:00 GMT | Shannon Is What Happens When Penetration Testing Becomes Autonomous | Ishank choudhary | [Read More](https://medium.com/p/86e6a37680fe) |
+| Tue, 10 Feb 2026 04:31:05 GMT | n8n Secrets & Environments: Stop Accidental Leaks | Velorum | [Read More](https://medium.com/p/c60b07a82ac2) |
+| Tue, 10 Feb 2026 04:28:47 GMT | How LMS Improves Cybersecurity Awareness in Companies | Maxatlasofficial | [Read More](https://medium.com/p/eb13e98b37fa) |
+| Tue, 10 Feb 2026 04:24:06 GMT | What Is Agentic AI: Redefining Enterprise Intelligence & Decision Making | Cloud Kinetics | [Read More](https://medium.com/p/ed2f099c55d6) |
+| Tue, 10 Feb 2026 04:16:50 GMT | Web Application Security: Hands-On Practice (Chapter 10 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/a5517cd4d528) |
+| Tue, 10 Feb 2026 04:16:02 GMT | The $5 Million Mistake: How a Single Phishing Email Brought a Federal Contractor to Its Knees | DeltaBytes | [Read More](https://medium.com/p/4e65b90c3566) |
+| Tue, 10 Feb 2026 04:13:00 GMT | The “Kill Switch” in Your Smart Glasses: How Even Realities Threatened to Brick My Device | Wearableowner | [Read More](https://medium.com/p/c0e1974cd022) |
+| Tue, 10 Feb 2026 04:11:31 GMT | Hire N8N Developers to Build Scalable, Smart Automation for Modern Businesses | n8ndevelopers | [Read More](https://medium.com/p/2f69bedd519b) |
+| Tue, 10 Feb 2026 04:01:06 GMT | OpenClaw and its Security | Jason TC Chuang | [Read More](https://medium.com/p/0c82f0be73f1) |
+| Tue, 10 Feb 2026 03:47:01 GMT | Top Security Camera Suppliers in UAE and CCTV Approval in Sharjah : Enhancing Safety and Compliance | techfra solutions | [Read More](https://medium.com/p/194c284d9305) |
+| Tue, 10 Feb 2026 03:38:40 GMT | Layer Zero in AWS: The Architecture of the Root Identity | Thought Nimbus | [Read More](https://medium.com/p/15b8afd2d97a) |
+| Tue, 10 Feb 2026 03:31:01 GMT | NTDS.dit: The Silent Key to Active Directory Takeovers | Deven Chhajed | [Read More](https://medium.com/p/e4a3fbe0caa2) |
+| Tue, 10 Feb 2026 03:29:47 GMT | The Human Side of Tech: Designing for People, Not Just Performance | Ngalaygraphy | [Read More](https://medium.com/p/d4be73c1a449) |
+| Tue, 10 Feb 2026 03:02:37 GMT | The Invisible Threat: Why Your Encrypted Data is a “Quantum Time Bomb” | Quantarium | [Read More](https://medium.com/p/1930b25427e6) |
+| Tue, 10 Feb 2026 02:54:22 GMT | Autistic Programmer Rant#002. DP vs IT: How Neurotypicals Invaded Tech and Made Everything Worse | RandyWritesProcedurally | [Read More](https://medium.com/p/3f8196309ae7) |
+| Tue, 10 Feb 2026 02:38:21 GMT | I Gave AI Permission to run a Full Pentest Like a Real Red Team | Agzaiyenth | [Read More](https://medium.com/p/abb1e451c8d5) |
 | Tue, 10 Feb 2026 02:23:26 GMT | Threat Dan Threat Actor Dalam Cyber Security | Velskynotfound | [Read More](https://medium.com/p/bee47539efcd) |
 | Tue, 10 Feb 2026 02:15:56 GMT | Tuesday Morning Threat Report: Feb 10, 2026 TMTR | Mark Maguire | [Read More](https://medium.com/p/41ef780358df) |
 | Tue, 10 Feb 2026 02:04:23 GMT | How Many Jobs Are Available in Technology? A 2026 Market Analysis | Info-Galaxy | [Read More](https://medium.com/p/018915462647) |
@@ -96,24 +117,3 @@ Learn… | Silviawrites | [Read More](https://medium.com/p/998fc661b446) |
 | Mon, 09 Feb 2026 18:31:46 GMT | HackTheHeart: Infosec Valentine’s Toolkit | Uphar | [Read More](https://medium.com/p/11d917d5f3c3) |
 | Mon, 09 Feb 2026 18:25:32 GMT | From Malware to Modern Threats | Anubhav_bora | [Read More](https://medium.com/p/91b6b328e3ef) |
 | Mon, 09 Feb 2026 18:16:07 GMT | HTTP Verb Tampering in NestJS: Bypassing Middleware with HEAD Requests | Cristian | [Read More](https://medium.com/p/e70b968b15c2) |
-| Mon, 09 Feb 2026 18:12:26 GMT | From Recon to Exploitation: Using Nmap and Metasploit in Real-World Cybersecurity | Ithiel | [Read More](https://medium.com/p/814813b22992) |
-| Mon, 09 Feb 2026 18:01:01 GMT | The Lethal Trifecta: Why Your AI Agent Could Be a Security Liability | Michael van Meurer | [Read More](https://medium.com/p/4b3c637b2464) |
-| Mon, 09 Feb 2026 17:55:40 GMT | Russia Ramps Up Attacks on Critical Infrastructures | Matthew.Rosenquist | [Read More](https://medium.com/p/bc9d38630d39) |
-| Mon, 09 Feb 2026 17:48:44 GMT | The 2026 Pivot: Why Your Old CISM Strategy Will Fail | abed sadek | [Read More](https://medium.com/p/83afd26af769) |
-| Mon, 09 Feb 2026 17:47:00 GMT | Remote Hustle 1.0: Onboarding for Nigerian IT Professionals | Sulaimonbelloadejoke | [Read More](https://medium.com/p/e23f551015d4) |
-| Mon, 09 Feb 2026 17:42:42 GMT | Neural Network Backdoors: When Model Poisoning Led to System Compromise | Iski | [Read More](https://medium.com/p/685f37350ec1) |
-| Mon, 09 Feb 2026 17:42:32 GMT | Modern Çağda Zihin Yorgunluğu: İnsan Düşünmüyor, Tepki Veriyor | Makersx | [Read More](https://medium.com/p/fe7e9cc67eac) |
-| Mon, 09 Feb 2026 17:41:56 GMT | Try Hack Me- Chill Hack CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/b965952b3d43) |
-| Mon, 09 Feb 2026 17:36:42 GMT | Counterintelligence as a Critical Factor in the Operational Phase of Hostage Rescue from Terrorist… | Andrey Spiridonov | [Read More](https://medium.com/p/38807ee6f0ab) |
-| Mon, 09 Feb 2026 17:27:55 GMT | Maravel-Framework 10.61.11 lost another ~10.2k rows of overhead, improving speed and security | marius-ciclistu | [Read More](https://medium.com/p/82dddd5688f4) |
-| Mon, 09 Feb 2026 17:24:16 GMT | Designing Scalable Smart Home Security Systems for Modern Projects | Discreet solution Pvt ltd | [Read More](https://medium.com/p/2c1fff22a811) |
-| Mon, 09 Feb 2026 17:23:01 GMT | Secure Access Service Edge (SASE) and CSPM for Hybrid Ecosystems: Strengthening Modern… | Digital Defense | [Read More](https://medium.com/p/51e969c461e4) |
-| Mon, 09 Feb 2026 17:21:01 GMT | AI Agents and the Rise of the Agentic SOC | Little_Sun4lower | [Read More](https://medium.com/p/f19122b4eca3) |
-| Mon, 09 Feb 2026 17:20:25 GMT | Hacking for Peace: When Digital Surveillance Kills Trust ️⚖️ | Tapan Kumar Saikia | [Read More](https://medium.com/p/5b7e4f7c1e02) |
-| Mon, 09 Feb 2026 17:19:49 GMT | Build A Phishing-Resistant Anti-Takeover Stack | Geoffrey Wenger | [Read More](https://medium.com/p/7f1049853570) |
-| Mon, 09 Feb 2026 17:18:49 GMT | How I Installed my Own Local LLM AI (Private and Uncensored and Even Air-Gapped From the Internet) | Damian Robert Moore | [Read More](https://medium.com/p/7897b2023abb) |
-| Mon, 09 Feb 2026 17:17:36 GMT | The Python Projects That Get You Hired in 2026 | Brock stone | [Read More](https://medium.com/p/5dbdf4eb3883) |
-| Mon, 09 Feb 2026 17:17:07 GMT | Introductory Networking THM_ROOM | Ahmed Eldkrory | [Read More](https://medium.com/p/62866ae1aea7) |
-| Mon, 09 Feb 2026 17:16:40 GMT | How Hackers Enumerate Networks: Practical Demo (Beginner-Friendly Lab Walkthrough) | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/5353d9d3ed9d) |
-| Mon, 09 Feb 2026 17:09:45 GMT | Penetration Testing Best Practices for Stronger Security | seo | [Read More](https://medium.com/p/d03904c58dfa) |
-| Mon, 09 Feb 2026 17:09:16 GMT | Ethical Hacking Lab: From Recon to Shell Access (Step-by-Step Beginner Walkthrough) | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/faf3e566cbda) |
