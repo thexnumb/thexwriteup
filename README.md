@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Feb 2026 09:05:07 GMT | Total Security Solutions India: End-to-End Protection for Modern Businesses and Homes | Ciss India | [Read More](https://medium.com/p/488f25c8d443) |
+| Tue, 10 Feb 2026 09:02:27 GMT | Thinking Like an Attacker: How API Pen-Testers Identify SQL Injection | Chinaza Emmanuela Obidike | [Read More](https://medium.com/p/87d797b9703f) |
+| Tue, 10 Feb 2026 09:01:08 GMT | From Alert to Remediation: What a LeakRadar Workflow Looks Like in Practice | Alexandre Vandamme | [Read More](https://medium.com/p/abc565d57ded) |
+| Tue, 10 Feb 2026 08:57:47 GMT | Primeira Linha de Defesa: Práticas Básicas de Segurança Cibernética | Fabiano Vieira | [Read More](https://medium.com/p/7a61f36ad40b) |
+| Tue, 10 Feb 2026 08:56:49 GMT | The Complete Mobile App Hacking Guide for Bug Bounty Hunters (2026 Edition) | BugHunter’s Journal | [Read More](https://medium.com/p/962aaa6f3c3c) |
+| Tue, 10 Feb 2026 08:55:00 GMT | XSS Exfiltration: How Attackers Steal Data Using JavaScript | Redfox Security | [Read More](https://medium.com/p/d63a9d92b74f) |
+| Tue, 10 Feb 2026 08:47:31 GMT | GitHub Trending: February 10, 2026 — Security AI & Financial Agents Explode | Baozilla, Let's go! | [Read More](https://medium.com/p/35b5d2c5d91b) |
+| Tue, 10 Feb 2026 08:46:40 GMT | Govt warns against sale of unapproved mobile phones | Francis Ngannou | [Read More](https://medium.com/p/00d2a1b76c04) |
+| Tue, 10 Feb 2026 08:44:21 GMT | The Darknet is Dead. Long Live the Telegram Protocol. | Ben Amsalo | [Read More](https://medium.com/p/a998516a195e) |
+| Tue, 10 Feb 2026 08:31:01 GMT | Security by Design: Integrating DevSecOps into the Development Culture | Paradigma Digital | [Read More](https://medium.com/p/eb8e9926af47) |
+| Tue, 10 Feb 2026 08:23:11 GMT | Setting Up ADB Over Wi‑Fi on Kali Linux: A Step‑by‑Step Guide | Blacq | [Read More](https://medium.com/p/fcb238f71383) |
+| Tue, 10 Feb 2026 08:20:51 GMT | The Social Icon That Could Cost a Company Its Reputation | Md Tanjimul Islam Sifat | [Read More](https://medium.com/p/38a917c70579) |
+| Tue, 10 Feb 2026 08:19:43 GMT | Authorization Is a Graph, Not a Check | ghostyjoe | [Read More](https://medium.com/p/79689652e364) |
+| Tue, 10 Feb 2026 08:17:52 GMT | 12 Major Client-Side Security Threats and How to Defend | Smit Pipaliya | [Read More](https://medium.com/p/9980570a6b95) |
+| Tue, 10 Feb 2026 08:16:52 GMT | LOGICAL ACCESS- OFFICIAL WALK-THROUGH | Kanyoko | [Read More](https://medium.com/p/fb31721aaef3) |
+| Tue, 10 Feb 2026 08:16:17 GMT | CHATTY PRINTER | Kanyoko | [Read More](https://medium.com/p/ece17b3049f8) |
+| Tue, 10 Feb 2026 07:58:12 GMT | 10 Essential Password Security Tips Everyone Should Follow | Tolulope Oduola | [Read More](https://medium.com/p/cd7bb8f03937) |
 | Tue, 10 Feb 2026 07:55:09 GMT | Fortinet Patches Critical Vulnerabilities: Why These Flaws Are a Wake-Up Call for Network Security… | Germano Costi | [Read More](https://medium.com/p/18feb5a809f0) |
 | Tue, 10 Feb 2026 07:52:43 GMT | How Web Developers Build Secure Payment and Checkout Systems | jacklevett | [Read More](https://medium.com/p/9daa5a8d7da1) |
 | Tue, 10 Feb 2026 07:44:25 GMT | Straight to the Ace — Threat Modeling Through Gamification | Christoffer Pedersen | [Read More](https://medium.com/p/9a91eb779456) |
@@ -95,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Feb 2026 00:12:06 GMT | The Next Internet Worm Won’t Be Code. It Will Be a Prompt | Cyber-AppSec | [Read More](https://medium.com/p/b04e1231956c) |
 | Tue, 10 Feb 2026 00:07:54 GMT | Is Scanner Hacker Crypto Recovery Legit? What Crypto Scam Victims Should Know | Andricorsin | [Read More](https://medium.com/p/b0fdb08440b3) |
 | Tue, 10 Feb 2026 00:01:01 GMT | Guía de Códigos de Estado HTTP para Bug Bounty y Pentesting | JPablo13 | [Read More](https://medium.com/p/af71f708e9b5) |
-| Tue, 10 Feb 2026 00:00:26 GMT | PostgreSQL’de Güçlü Şifre Politikası: Credcheck Extension Kullanımı | Talha Alperen Çengel | [Read More](https://medium.com/p/aa86c04e0fcc) |
-| Mon, 09 Feb 2026 23:54:30 GMT | Attacktive Directory — TryHackMe Walkthrough | Abdallah_samir | [Read More](https://medium.com/p/fcab08926162) |
-| Mon, 09 Feb 2026 23:50:19 GMT | Yet Another Yahoo Scammer | Elizabeth Emerald | [Read More](https://medium.com/p/848c6ced1805) |
-| Mon, 09 Feb 2026 23:49:57 GMT | Unfiltered Restart — Starting in IT + Cyber After an Unsuccessful Seven Months of Unemployment | Maximillian Rueda | [Read More](https://medium.com/p/8487864fe8d8) |
-| Mon, 09 Feb 2026 23:28:12 GMT | Gamifying Security Testing: Introducing BurpHub | RootHawk | [Read More](https://medium.com/p/8b4595e98f07) |
-| Mon, 09 Feb 2026 23:24:11 GMT | DanaBot Lab -CyberDefender Challenge | Faris Althagafi | [Read More](https://medium.com/p/8b4fd4d741f0) |
-| Mon, 09 Feb 2026 23:10:40 GMT | Web template , KOSTEN ,Bugs , software-perspektive. | Mahmoud Mabrouk | [Read More](https://medium.com/p/6ba47fb92e6b) |
-| Mon, 09 Feb 2026 23:04:05 GMT | Windows Basics - Tryhackme | Aaron | [Read More](https://medium.com/p/7718b63f0980) |
-| Mon, 09 Feb 2026 23:02:40 GMT | Information Disclosure di LocalStorage | ozixss | [Read More](https://medium.com/p/8bb7cbc2d106) |
-| Mon, 09 Feb 2026 22:54:44 GMT | How Hackers Hack Unsecure Websites | PokeGod7 | [Read More](https://medium.com/p/3151999bede7) |
-| Mon, 09 Feb 2026 22:49:35 GMT | Networking Protocols: Backbone of Modern Communication Systems | Arya Prakash Singh | [Read More](https://medium.com/p/723bd142347f) |
-| Mon, 09 Feb 2026 22:48:04 GMT | T-Jungle CTF Challenge - Step-by-Step Web Security Write-Up — CyberTalents | Z3DX | [Read More](https://medium.com/p/03bd477c32a9) |
-| Mon, 09 Feb 2026 22:28:52 GMT | Operating Systems: Introduction - Tryhackme | Aaron | [Read More](https://medium.com/p/d2b89084a6b2) |
-| Mon, 09 Feb 2026 22:10:17 GMT | The Gap in the Shield, Part 2: Europe’s Emerging Commercial Threat Intelligence Ecosystem | Cyber Threat Intelligence Analyst | [Read More](https://medium.com/p/e265c0e7166b) |
-| Mon, 09 Feb 2026 22:08:01 GMT | Risk Management in Uncharted Territory: Lessons from the Golden Gate Bridge for the AI Era | Juan Pablo Castro | [Read More](https://medium.com/p/ab23b75c29cd) |
-| Mon, 09 Feb 2026 22:06:54 GMT | Blog Post 2 Title:
-How Technology Improves Data Protection Online
-Subtitle / Meta Description… | Silviawrites | [Read More](https://medium.com/p/1df9d9e93f44) |
-| Mon, 09 Feb 2026 22:06:20 GMT | Rail OT Cybersecurity — Part 1 | A H Karthikeya | [Read More](https://medium.com/p/1b4ebc385ed0) |
