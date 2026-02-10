@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Feb 2026 20:06:46 GMT | PhishMasterX: Building an Educational Framework to Understand Modern Phishing Attacks | Cyber Wolf | [Read More](https://medium.com/p/6c787001b26a) |
+| Tue, 10 Feb 2026 19:56:26 GMT | Strengthening Child Online Safety in Ghana | KOSCYBER | [Read More](https://medium.com/p/89dfb04d2b3d) |
+| Tue, 10 Feb 2026 19:56:07 GMT | What is a watering hole cyberattack? | SmartState ✅ Blockchain / Crypto / Web3 security | [Read More](https://medium.com/p/faefbc367160) |
+| Tue, 10 Feb 2026 19:54:56 GMT | Strengthening Child Online Safety in Ghana | KOSCYBER | [Read More](https://medium.com/p/bc4763db685f) |
+| Tue, 10 Feb 2026 19:51:58 GMT | Why Traditional CCTV is Dead (And Why AI is the Only logical Successor | Hmyriayehor | [Read More](https://medium.com/p/8676e25faa67) |
+| Tue, 10 Feb 2026 19:43:29 GMT | Is This NordVPN Amazon Deal Worth It? Honest Review Before You Buy | Genelia | [Read More](https://medium.com/p/387043752b70) |
+| Tue, 10 Feb 2026 19:43:11 GMT | NordVPN Basic, 10 Devices, 1-Year, Premium VPN Software [Amazon Subscription] | Genelia | [Read More](https://medium.com/p/b61e4018b0ba) |
+| Tue, 10 Feb 2026 19:40:54 GMT | CodePartTwo - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/ebafedc9475a) |
+| Tue, 10 Feb 2026 19:38:16 GMT | Building a Secure Code Executor: A Sandbox-First Architecture | Shashaank Srivastava | [Read More](https://medium.com/p/7b0ecd66f14b) |
+| Tue, 10 Feb 2026 19:37:52 GMT | The Robot Army: A Cross-Cloud Guide to Service Accounts, Managed Identities, and IAM Roles | Munish | [Read More](https://medium.com/p/3aa00e1981e2) |
+| Tue, 10 Feb 2026 19:36:43 GMT | Have you ever been pissed off by your Team Lead? If “yes”, read this…! | Chandu Narisetti | [Read More](https://medium.com/p/28d65c9fca19) |
+| Tue, 10 Feb 2026 19:35:26 GMT | Crying is not ingratitude,grief is not sin and anger is not moral failure. | podcastsandreads | [Read More](https://medium.com/p/3742a360aea2) |
+| Tue, 10 Feb 2026 19:33:50 GMT | SQL injection | Ayushmgowda | [Read More](https://medium.com/p/cf37eda90d9d) |
+| Tue, 10 Feb 2026 19:32:22 GMT | The SANITY Token ($SUT): How It’s Structured and Why That Structure Matters | Destiny Ogonyi | [Read More](https://medium.com/p/702e9d4a8f5e) |
+| Tue, 10 Feb 2026 19:26:05 GMT | Why Your Company Bought Splunk But Still Doesn’t Have a SIEM (And What To Do About It) | Amirul Alif | [Read More](https://medium.com/p/8f9ee7e064c5) |
+| Tue, 10 Feb 2026 19:19:20 GMT | The Real Deal on RAG: What Works, What Doesn’t, and Why You’re Probably Doing It Wrong | Amit Patriwala | [Read More](https://medium.com/p/3b97afe9059c) |
+| Tue, 10 Feb 2026 19:18:35 GMT | What Good Security Reporting Looks Like for Executives | JSOC IT BLOG | [Read More](https://medium.com/p/fc518313d44c) |
+| Tue, 10 Feb 2026 19:15:14 GMT | The 3 Things to Know About the State of the Art of Post-Quantum Cryptography (PQC) | Gaia Guadagnoli | [Read More](https://medium.com/p/2e4ef4f642a1) |
+| Tue, 10 Feb 2026 19:07:36 GMT | PJPT Exam Strategy: How to Approach It Like a Real Pentester | Hemantha Krishna Challa | [Read More](https://medium.com/p/07126293bbe1) |
 | Tue, 10 Feb 2026 19:03:41 GMT | One Day There Will Not Be Two of Us | Nigh Of Becoming | [Read More](https://medium.com/p/c96b96e1946e) |
 | Tue, 10 Feb 2026 19:01:01 GMT | I Spent 48 Hours Lurking on Moltbook. The AI Drama Is Crazier Than Any Reality Show | Shauvik Kumar | [Read More](https://medium.com/p/ad07cfa45c1a) |
 | Tue, 10 Feb 2026 19:00:40 GMT | Hidden macOS Startup Tasks That Slow Your Mac Fast | Geoffrey Wenger | [Read More](https://medium.com/p/4a20df90da52) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Feb 2026 14:26:01 GMT | Running HashiCorp Vault on Kubernetes: A Practical Guide | Kirshi Yin | [Read More](https://medium.com/p/40f129400fc6) |
 | Tue, 10 Feb 2026 14:24:02 GMT | Day 13: Logging Concepts | Siddhesh Patil | [Read More](https://medium.com/p/532b140d908c) |
 | Tue, 10 Feb 2026 14:20:16 GMT | When Business Logic Becomes the Biggest Threat: A Real Privilege Escalation Story | Shreya Dutta | [Read More](https://medium.com/p/d13ef8ddd66c) |
-| Tue, 10 Feb 2026 14:19:33 GMT | I Tried AI Tools for Business for 30 Days – Here’s What Changed | Charles Horn | [Read More](https://medium.com/p/0c8801aa9f6f) |
-| Tue, 10 Feb 2026 14:19:12 GMT | 100 Days Bug Bounty Challenge — Breaking Psychological Chains | Batuhan Aydın | [Read More](https://medium.com/p/3324457d836c) |
-| Tue, 10 Feb 2026 14:17:58 GMT | Best Residential Proxy Providers (2026): Premium Options Compared | Redd | [Read More](https://medium.com/p/f151c0de50f2) |
-| Tue, 10 Feb 2026 14:17:57 GMT | How to treat scarcity as a feature in the software industry | Arihant Jain | [Read More](https://medium.com/p/e915fdca3e35) |
-| Tue, 10 Feb 2026 14:05:01 GMT | Cybersecurity for Startups: A Cost–Benefit Reality Check Leaders Can’t Ignore | Chandan Bhattacharya | [Read More](https://medium.com/p/8a1354ea63fb) |
-| Tue, 10 Feb 2026 14:03:56 GMT | cyberdudebivash mitigation stragies for SSHStalker | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/ebd928e5028f) |
-| Tue, 10 Feb 2026 14:01:02 GMT | Why Devices Feel Riskier Than They Are | Tracy | [Read More](https://medium.com/p/f0b7e17aa6b1) |
-| Tue, 10 Feb 2026 13:59:59 GMT | Go distroless with your Backstage app, with Docker Hardened Images (DHI) | Mathieu Benoit | [Read More](https://medium.com/p/b61539ffbf00) |
-| Tue, 10 Feb 2026 13:54:54 GMT | How to Build Threat Hunting that Defends Your Organization Against Real Attacks | ANY.RUN | [Read More](https://medium.com/p/dbdd88368839) |
-| Tue, 10 Feb 2026 13:48:51 GMT | Fuite du Grand Firewall Chinois | Bisatel | [Read More](https://medium.com/p/363acb2150fe) |
-| Tue, 10 Feb 2026 13:42:43 GMT | Get hands-on with Purview Data Security Investigations! : Part 1 | Yash Mudaliar | [Read More](https://medium.com/p/41e9ecceb299) |
-| Tue, 10 Feb 2026 13:42:04 GMT | Disappear. Your Message Won’t. | Legacy Vault | [Read More](https://medium.com/p/7ad1bdf342c5) |
-| Tue, 10 Feb 2026 13:41:00 GMT | How TLS Certificate Authentication Shields Your Java Microservices | Lets Learn Now | [Read More](https://medium.com/p/48af578dad9b) |
-| Tue, 10 Feb 2026 13:31:34 GMT | HOME LAB PRACTICE (DEVGURU PEN TEST) | destiny oyemike | [Read More](https://medium.com/p/9659e7200df9) |
-| Tue, 10 Feb 2026 13:11:42 GMT | How little things matter: Broken Access Control leading to user promoting to Admin | Sdelesil | [Read More](https://medium.com/p/8b3ff652a6cb) |
-| Tue, 10 Feb 2026 13:10:20 GMT | The Family Laptop Trap: Unmasking a Go-Based Crypto-Heist | MabLevi | [Read More](https://medium.com/p/604deb35776c) |
-| Tue, 10 Feb 2026 13:00:24 GMT | How Apple’s New iOS Location Setting Changes What Digital Forensics Can Prove | Chaitanya Shah | [Read More](https://medium.com/p/7184183eac24) |
-| Tue, 10 Feb 2026 12:58:22 GMT | Secure Remote Work Infrastructure Irvine CA: Protecting Orange County Businesses in the Hybrid Era | Technijian | [Read More](https://medium.com/p/d9dbc60a661f) |
-| Tue, 10 Feb 2026 12:56:00 GMT | Executive Tabletop Exercise: Practice the Calls You’ll Be Judged On | Tyson Martin | [Read More](https://medium.com/p/84a4db2fe101) |
