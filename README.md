@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Feb 2026 20:57:47 GMT | Distributed Futures: What National Projections Got Right About the Global Realities of Today | David A. Bray | [Read More](https://medium.com/p/dce306734c52) |
+| Tue, 10 Feb 2026 20:52:54 GMT | Wireless Penetration Testing: From Monitor Mode to Key Recovery | Mai Tran | [Read More](https://medium.com/p/942c1b387863) |
+| Tue, 10 Feb 2026 20:36:27 GMT | The case against documentation | Gatis Špats | [Read More](https://medium.com/p/2e9941416cd7) |
+| Tue, 10 Feb 2026 20:16:15 GMT | Speak “Friend” and Enter: Why OT Security Needs Hidden Doors, Not Bigger Gates | BlastWave | [Read More](https://medium.com/p/8153ede0a517) |
 | Tue, 10 Feb 2026 20:06:46 GMT | PhishMasterX: Building an Educational Framework to Understand Modern Phishing Attacks | Cyber Wolf | [Read More](https://medium.com/p/6c787001b26a) |
+| Tue, 10 Feb 2026 20:05:42 GMT | How to Use BloodHound to Hack Active Directory: A Full Guide | Youssef Said Thabet | [Read More](https://medium.com/p/a07012d3ec02) |
 | Tue, 10 Feb 2026 19:56:26 GMT | Strengthening Child Online Safety in Ghana | KOSCYBER | [Read More](https://medium.com/p/89dfb04d2b3d) |
 | Tue, 10 Feb 2026 19:56:07 GMT | What is a watering hole cyberattack? | SmartState ✅ Blockchain / Crypto / Web3 security | [Read More](https://medium.com/p/faefbc367160) |
 | Tue, 10 Feb 2026 19:54:56 GMT | Strengthening Child Online Safety in Ghana | KOSCYBER | [Read More](https://medium.com/p/bc4763db685f) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Feb 2026 14:37:55 GMT | DC-1 (VulnHub) Walkthrough | Harikrishnanvs | [Read More](https://medium.com/p/223ce8a87a8c) |
 | Tue, 10 Feb 2026 14:36:17 GMT | The Top 5 Cybersecurity Career Paths to Dominate in 2026 | Shanker Goud | [Read More](https://medium.com/p/843e2fce98bf) |
 | Tue, 10 Feb 2026 14:35:14 GMT | Vibe Coding, AI Assistants, and the Quiet Security Debt We’re Accumulating | Benjamin | [Read More](https://medium.com/p/7f9fcffd3084) |
-| Tue, 10 Feb 2026 14:33:58 GMT | The Role of Confidential Computing in Defence | Pradipta Banerjee | [Read More](https://medium.com/p/b0f5de4b1590) |
-| Tue, 10 Feb 2026 14:29:58 GMT | The Epstein Files: Power, Silence, and the Truth That Refuses to Stay Buried | Ged Libanan (Jilib480) | [Read More](https://medium.com/p/1e326f7e8e3a) |
-| Tue, 10 Feb 2026 14:26:01 GMT | Running HashiCorp Vault on Kubernetes: A Practical Guide | Kirshi Yin | [Read More](https://medium.com/p/40f129400fc6) |
-| Tue, 10 Feb 2026 14:24:02 GMT | Day 13: Logging Concepts | Siddhesh Patil | [Read More](https://medium.com/p/532b140d908c) |
-| Tue, 10 Feb 2026 14:20:16 GMT | When Business Logic Becomes the Biggest Threat: A Real Privilege Escalation Story | Shreya Dutta | [Read More](https://medium.com/p/d13ef8ddd66c) |
