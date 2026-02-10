@@ -12,7 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Feb 2026 10:16:39 GMT | เตือนภัย! 0APT Syndicate มัลแวร์เรียกค่าไถ่สายพันธุ์ใหม่ | ThaiCERT By NCSA | [Read More](https://medium.com/p/d66f3624fd2b) |
+| Tue, 10 Feb 2026 10:11:35 GMT | A Practical Guide to Information Classification: C1 to C4 | Luca Berton | [Read More](https://medium.com/p/0bb8c9ed2ff4) |
+| Tue, 10 Feb 2026 10:11:00 GMT | 9 Powerful Post-Patch Validation Checks to Prove Clean | Pentest_Testing_Corp | [Read More](https://medium.com/p/0c09bd50ec09) |
+| Tue, 10 Feb 2026 10:09:49 GMT | The Epstein Files on Social Media: How Viral Shock Content Is Quietly Damaging Our Mental Ecosystem… | Ankit rai | [Read More](https://medium.com/p/d7df069b5981) |
+| Tue, 10 Feb 2026 10:07:48 GMT | How I Found SQL Injection on Honda | Syed Ahmad Mujtaba | [Read More](https://medium.com/p/963ab5fbf7e7) |
+| Tue, 10 Feb 2026 10:02:56 GMT | Why Saudi Organizations Must Adopt Automated Threat Detection | Rahman Iqbal | [Read More](https://medium.com/p/64f580acef36) |
+| Tue, 10 Feb 2026 09:58:30 GMT | Is a BBA in Information Technology the Right Course After 12th? | SICSR Pune | [Read More](https://medium.com/p/9a6a8cd496ca) |
+| Tue, 10 Feb 2026 09:56:31 GMT | 69 Helm Charts Just Made Your Cluster Hackable — The Kubernetes Permission Nobody’s Auditing | Heinan Cabouly | [Read More](https://medium.com/p/d4999e134330) |
+| Tue, 10 Feb 2026 09:55:08 GMT | Reverse Engineering the Kill Chain in Cybersecurity: Reading the Attacker Backwards | Esra Kayhan | [Read More](https://medium.com/p/38cd1791fff8) |
+| Tue, 10 Feb 2026 09:54:02 GMT | How to Learn AI From Scratch in 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/d101767fe642) |
+| Tue, 10 Feb 2026 09:41:33 GMT | You Didn’t Get Hacked Because of Your Password | Natasha Iyowe | [Read More](https://medium.com/p/88dff9271629) |
+| Tue, 10 Feb 2026 09:36:42 GMT | ClawSnatcher: Multi-Stage Malware for $0.90 | FearlessWarGoose | [Read More](https://medium.com/p/73bee44597ba) |
+| Tue, 10 Feb 2026 09:34:19 GMT | Best Field Force Management Software in India - Track your Field Tasks | Thiripathiv | [Read More](https://medium.com/p/314011a78a5d) |
+| Tue, 10 Feb 2026 09:34:05 GMT | CVE-2026–1281 & CVE-2026–1340 | Hikmetkovsarov | [Read More](https://medium.com/p/9d59ad066164) |
+| Tue, 10 Feb 2026 09:18:49 GMT | Reliable and Professional Security Solutions with Barzo Security Services | Travel time | [Read More](https://medium.com/p/87ea754f50de) |
+| Tue, 10 Feb 2026 09:15:40 GMT | Mastering Reputation Management with GoHighLevel: Automate Reviews, Boost Trust & Grow Local SEO | GHL Savvy | [Read More](https://medium.com/p/a03d4a0b4e92) |
+| Tue, 10 Feb 2026 09:12:06 GMT | Kimi.com shipped DarkWallet code in production. Stop using them. | JP Caparas | [Read More](https://medium.com/p/95e9bba35c58) |
+| Tue, 10 Feb 2026 09:08:42 GMT | Easy 1000$ Bounty - Exposed Internal Tool Found During Shodan Recon | Anupam Singh | [Read More](https://medium.com/p/a58a54110ee3) |
+| Tue, 10 Feb 2026 09:06:55 GMT | Securing Full-Stack Applications on AWS | Mayur Patel | [Read More](https://medium.com/p/63c2697df3ec) |
 | Tue, 10 Feb 2026 09:05:07 GMT | Total Security Solutions India: End-to-End Protection for Modern Businesses and Homes | Ciss India | [Read More](https://medium.com/p/488f25c8d443) |
+| Tue, 10 Feb 2026 09:03:53 GMT | The Zombie SSH: How I Forced a Modern Server into a “Logjam” (And Why It Was Marked N/A) | Zer0Figure | [Read More](https://medium.com/p/d6c22cbd9a93) |
 | Tue, 10 Feb 2026 09:02:27 GMT | Thinking Like an Attacker: How API Pen-Testers Identify SQL Injection | Chinaza Emmanuela Obidike | [Read More](https://medium.com/p/87d797b9703f) |
 | Tue, 10 Feb 2026 09:01:08 GMT | From Alert to Remediation: What a LeakRadar Workflow Looks Like in Practice | Alexandre Vandamme | [Read More](https://medium.com/p/abc565d57ded) |
 | Tue, 10 Feb 2026 08:57:47 GMT | Primeira Linha de Defesa: Práticas Básicas de Segurança Cibernética | Fabiano Vieira | [Read More](https://medium.com/p/7a61f36ad40b) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Feb 2026 03:38:40 GMT | Layer Zero in AWS: The Architecture of the Root Identity | Thought Nimbus | [Read More](https://medium.com/p/15b8afd2d97a) |
 | Tue, 10 Feb 2026 03:31:01 GMT | NTDS.dit: The Silent Key to Active Directory Takeovers | Deven Chhajed | [Read More](https://medium.com/p/e4a3fbe0caa2) |
 | Tue, 10 Feb 2026 03:29:47 GMT | The Human Side of Tech: Designing for People, Not Just Performance | Ngalaygraphy | [Read More](https://medium.com/p/d4be73c1a449) |
-| Tue, 10 Feb 2026 03:02:37 GMT | The Invisible Threat: Why Your Encrypted Data is a “Quantum Time Bomb” | Quantarium | [Read More](https://medium.com/p/1930b25427e6) |
-| Tue, 10 Feb 2026 02:54:22 GMT | Autistic Programmer Rant#002. DP vs IT: How Neurotypicals Invaded Tech and Made Everything Worse | RandyWritesProcedurally | [Read More](https://medium.com/p/3f8196309ae7) |
-| Tue, 10 Feb 2026 02:38:21 GMT | I Gave AI Permission to run a Full Pentest Like a Real Red Team | Agzaiyenth | [Read More](https://medium.com/p/abb1e451c8d5) |
-| Tue, 10 Feb 2026 02:23:26 GMT | Threat Dan Threat Actor Dalam Cyber Security | Velskynotfound | [Read More](https://medium.com/p/bee47539efcd) |
-| Tue, 10 Feb 2026 02:15:56 GMT | Tuesday Morning Threat Report: Feb 10, 2026 TMTR | Mark Maguire | [Read More](https://medium.com/p/41ef780358df) |
-| Tue, 10 Feb 2026 02:04:23 GMT | How Many Jobs Are Available in Technology? A 2026 Market Analysis | Info-Galaxy | [Read More](https://medium.com/p/018915462647) |
-| Tue, 10 Feb 2026 02:02:40 GMT | Exploiting Web Vulnerabilities: OWASP Top 10 Applied (2025 Edition) | Diego Michel | [Read More](https://medium.com/p/6fe604fe1ab0) |
-| Tue, 10 Feb 2026 01:59:10 GMT | CrowdSec + nftables: Automated Kernel-Level IP Blocking on Linux | Min | [Read More](https://medium.com/p/651c41b6708f) |
-| Tue, 10 Feb 2026 01:32:00 GMT | Client-Side Security in 2026: The Threat Model Apps Ignore | Hash Block | [Read More](https://medium.com/p/866ba227402c) |
-| Tue, 10 Feb 2026 01:17:17 GMT | Why Team Structure Matters More Than Speed in Incident Response | Alfredo Zablah | [Read More](https://medium.com/p/470926c43808) |
-| Tue, 10 Feb 2026 01:14:00 GMT | Building an Azure Honeypot Lab with Microsoft Sentinel (Full Walkthrough) | Roman Charleston | [Read More](https://medium.com/p/af6851b7795b) |
-| Tue, 10 Feb 2026 00:52:42 GMT | Inside the AI-Powered Phishing Arsenal of 2026 | Dev Suthar | [Read More](https://medium.com/p/2edba906d0d5) |
-| Tue, 10 Feb 2026 00:41:00 GMT | Shocking Jailbreak Attacks | Shailendra Kumar | [Read More](https://medium.com/p/c654c7f48fe0) |
-| Tue, 10 Feb 2026 00:37:19 GMT | Del ruido al oro digital: cómo el spam parió a Bitcoin | Bitcoinsapiens | [Read More](https://medium.com/p/a1f4cf742ddc) |
-| Tue, 10 Feb 2026 00:36:57 GMT | Server-Side Template Injection in Jinja2 and Handlebars | Sujaykumar | [Read More](https://medium.com/p/5ab36a67bf4e) |
-| Tue, 10 Feb 2026 00:35:00 GMT | Cyborg WriteUp - TryHackMe - CTF | s1lja | [Read More](https://medium.com/p/99972acdfca6) |
-| Tue, 10 Feb 2026 00:19:01 GMT | The Buyer’s Journey Is Broken. Privacy Is Why. | Ikuejamoye-Omotore Oludayo | [Read More](https://medium.com/p/097bc5dcb314) |
-| Tue, 10 Feb 2026 00:12:06 GMT | The Next Internet Worm Won’t Be Code. It Will Be a Prompt | Cyber-AppSec | [Read More](https://medium.com/p/b04e1231956c) |
-| Tue, 10 Feb 2026 00:07:54 GMT | Is Scanner Hacker Crypto Recovery Legit? What Crypto Scam Victims Should Know | Andricorsin | [Read More](https://medium.com/p/b0fdb08440b3) |
-| Tue, 10 Feb 2026 00:01:01 GMT | Guía de Códigos de Estado HTTP para Bug Bounty y Pentesting | JPablo13 | [Read More](https://medium.com/p/af71f708e9b5) |
