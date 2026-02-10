@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Feb 2026 21:58:21 GMT | From Theory to Exploitation: A Deep Dive into SQL Injection Attacks | Sriman kundu | [Read More](https://medium.com/p/3b9be926649b) |
+| Tue, 10 Feb 2026 21:54:43 GMT | Weaponizing PPL for Process Immortality | S12 - 0x12Dark Development | [Read More](https://medium.com/p/a647832fd5a1) |
+| Tue, 10 Feb 2026 21:36:19 GMT | An OPSEC Mistake That Almost Burned an Entire Operation | X7r3M9 | [Read More](https://medium.com/p/7a809d454187) |
+| Tue, 10 Feb 2026 21:31:44 GMT | Femwar Ransomware on VMware: Digital Necromancy for the Damned ( Bringing VMs Back from the Dead) | Giulio Librando | [Read More](https://medium.com/p/d6696b64ed40) |
+| Tue, 10 Feb 2026 21:30:54 GMT | Exploiting Branch Wildcards in OIDC Trust Policies | Sadi Zane | [Read More](https://medium.com/p/51bd4e9a1e37) |
+| Tue, 10 Feb 2026 21:24:00 GMT | mustacchio writeup (TryHackMe) | 7s26Simon | [Read More](https://medium.com/p/7d8351760914) |
+| Tue, 10 Feb 2026 21:22:35 GMT | Cybersecurity vs Ethical Hacking Explained for Absolute Beginners | G. Sharan Raghav | [Read More](https://medium.com/p/58d1f3b7e2eb) |
+| Tue, 10 Feb 2026 21:21:27 GMT | Why Cybersecurity is the only ai-proof career in 2026 | AGABA JOSHUA BARUNGI | [Read More](https://medium.com/p/dc1121660a99) |
+| Tue, 10 Feb 2026 21:20:02 GMT | The Day “Count Lines” Stopped Being Simple | Sarosh | [Read More](https://medium.com/p/f31ec522b712) |
+| Tue, 10 Feb 2026 21:12:51 GMT | Microsoft Copilot for Healthcare: Ensuring Best Care for Patients While Protecting Sensitive… | IT_Engineer | [Read More](https://medium.com/p/20684083a635) |
+| Tue, 10 Feb 2026 21:12:07 GMT | Why API Keys Still Exist — and Why You Need an Identity Broker or Gateway | Zeitgeist | [Read More](https://medium.com/p/f677d58d1c88) |
+| Tue, 10 Feb 2026 21:11:19 GMT | From Signal to Impact | ghostyjoe | [Read More](https://medium.com/p/d38f56bbbc0a) |
 | Tue, 10 Feb 2026 20:57:47 GMT | Distributed Futures: What National Projections Got Right About the Global Realities of Today | David A. Bray | [Read More](https://medium.com/p/dce306734c52) |
 | Tue, 10 Feb 2026 20:52:54 GMT | Wireless Penetration Testing: From Monitor Mode to Key Recovery | Mai Tran | [Read More](https://medium.com/p/942c1b387863) |
 | Tue, 10 Feb 2026 20:36:27 GMT | The case against documentation | Gatis Špats | [Read More](https://medium.com/p/2e9941416cd7) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Feb 2026 15:03:30 GMT | NEWSLETTER: Latest in AI, TikTok, Cybersecurity and “AI: Classrooms, Cyber Defense, and… | Nitin Garg | [Read More](https://medium.com/p/1e56cde4f820) |
 | Tue, 10 Feb 2026 15:01:04 GMT | Cyber Briefing: 2026.02.10 | CyberMaterial | [Read More](https://medium.com/p/a3520c75419c) |
 | Tue, 10 Feb 2026 15:00:04 GMT | LA CTF 2026 | LiGhTZod | [Read More](https://medium.com/p/5b0d521ba095) |
-| Tue, 10 Feb 2026 14:59:50 GMT | Understanding “Pass-the-Hash” Attacks in Windows Networks | Danladi | [Read More](https://medium.com/p/09cf0da7563e) |
-| Tue, 10 Feb 2026 14:59:15 GMT | Cyber Security SEO: How Security Brands Earn Trust Before the First Sales Call | Gary Katz | [Read More](https://medium.com/p/c5b0b6d68eef) |
-| Tue, 10 Feb 2026 14:59:06 GMT | 15 Free OSINT Tools That Reveal Everything Online (2026 Guide) | rootRS7 | [Read More](https://medium.com/p/807f7cc22931) |
-| Tue, 10 Feb 2026 14:58:53 GMT | APPLICATION OF AI IN CHILD DELIVERY IN HEALTH CARE . | Iorver-Nze.A. | [Read More](https://medium.com/p/516d65b29dbb) |
-| Tue, 10 Feb 2026 14:52:59 GMT | EasyWin — Web Security Challenge Write-Up (Easy) - Cybertalents | Z3DX | [Read More](https://medium.com/p/a49dafc9b93a) |
-| Tue, 10 Feb 2026 14:49:27 GMT | Google Issues Android Update 40% Of All Phones Now At Risk | Moni | [Read More](https://medium.com/p/89696988f403) |
-| Tue, 10 Feb 2026 14:48:40 GMT | Adaptive Firewalls: Real-Time Defense for Modern Cyber Threats | Digital Defense | [Read More](https://medium.com/p/52712e039ba0) |
-| Tue, 10 Feb 2026 14:38:38 GMT | What is a Landing Zone in Cloud Computing? | Tyler Hudson - DevSecOps | [Read More](https://medium.com/p/27863193418d) |
-| Tue, 10 Feb 2026 14:38:31 GMT | Manned Guarding Services: A Core Element of Professional Security Solutions | Rapport Security | [Read More](https://medium.com/p/2674afcd7ddd) |
-| Tue, 10 Feb 2026 14:37:55 GMT | DC-1 (VulnHub) Walkthrough | Harikrishnanvs | [Read More](https://medium.com/p/223ce8a87a8c) |
-| Tue, 10 Feb 2026 14:36:17 GMT | The Top 5 Cybersecurity Career Paths to Dominate in 2026 | Shanker Goud | [Read More](https://medium.com/p/843e2fce98bf) |
-| Tue, 10 Feb 2026 14:35:14 GMT | Vibe Coding, AI Assistants, and the Quiet Security Debt We’re Accumulating | Benjamin | [Read More](https://medium.com/p/7f9fcffd3084) |
