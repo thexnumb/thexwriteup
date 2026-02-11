@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Feb 2026 07:52:55 GMT | Vulnhub: mrRobot CTF Walkthrough | d0natel00(KiroMoheb) | [Read More](https://medium.com/p/6521a6031b84) |
+| Wed, 11 Feb 2026 07:42:44 GMT | Continuous Monitoring and Real-Time Insights: The Competitive Advantage of ServiceNow GRC | Alex s | [Read More](https://medium.com/p/eb75c9ec544e) |
+| Wed, 11 Feb 2026 07:41:43 GMT | Advanced Pandas Optimization: Avoiding Slow Operations | Majidbasharat | [Read More](https://medium.com/p/593f8f122078) |
+| Wed, 11 Feb 2026 07:40:11 GMT | Bug Bounty Hunters: Here’s Why You Still Haven’t Found a Valid Bug | Vivek PS | [Read More](https://medium.com/p/ece4b3588c4e) |
+| Wed, 11 Feb 2026 07:34:08 GMT | #Recount or Reinvent Thailand? 
+A 21st-Century Voting Model for Thailand | Vincia Claire | [Read More](https://medium.com/p/ab95f401e258) |
+| Wed, 11 Feb 2026 07:28:23 GMT | How to Run Kali Linux in the Cloud for FREE (16GB RAM & 4 CPU) — No PC Required | Zer0Figure | [Read More](https://medium.com/p/c5be55142883) |
+| Wed, 11 Feb 2026 07:28:04 GMT | Cybersecurity Basics: Protecting Yourself Online in an Ever-Changing Digital Landscape | Victor Mmulah | [Read More](https://medium.com/p/7e6c9ef036a8) |
+| Wed, 11 Feb 2026 07:27:24 GMT | Cloud Misconfigurations: Little Mistakes Can Get You Breached | Cyberoptic Security | [Read More](https://medium.com/p/5d336fde0461) |
+| Wed, 11 Feb 2026 07:26:03 GMT | Low-Severity Vulnerabilities Become Critical in Real-World Attacks | Cynox Security LLP. | [Read More](https://medium.com/p/f1233403c818) |
+| Wed, 11 Feb 2026 07:17:38 GMT | What is Linux(Complete Guide) | Aj | [Read More](https://medium.com/p/143f8e8a8595) |
+| Wed, 11 Feb 2026 07:13:59 GMT | Why White Cloak Technologies, Inc. Is a Trusted Software Development Company for Businesses | White Cloak Technologies, Inc. | [Read More](https://medium.com/p/e307f59ccd06) |
+| Wed, 11 Feb 2026 07:08:38 GMT | Hybrid Warfare Doesn’t Care About Your Certificates | Jordan Delorenzo | [Read More](https://medium.com/p/4e058f1ae49f) |
+| Wed, 11 Feb 2026 07:04:22 GMT | Kickstart Your Networking Journey: Must-Know Basic Terms | Tanvi Chauhan | [Read More](https://medium.com/p/418bbe6eeb5a) |
+| Wed, 11 Feb 2026 07:03:35 GMT | Security Orchestration, Automation, and Response (SOAR) Market: Trends, SPARK Matrix™, and Future… | Michel mathew | [Read More](https://medium.com/p/f8ef4ad029ff) |
+| Wed, 11 Feb 2026 06:37:41 GMT | Getting Over It APK | genzvnmod | [Read More](https://medium.com/p/3cf756d5a78b) |
 | Wed, 11 Feb 2026 06:37:26 GMT | OpenClaw turns to VirusTotal to boost security | SOCFortress | [Read More](https://medium.com/p/683e92f43e3d) |
 | Wed, 11 Feb 2026 06:36:26 GMT | Combating Identity Fraud | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/cfbd9dadef68) |
 | Wed, 11 Feb 2026 06:32:27 GMT | From Trust to Verification: Publishing CAP on SSRN | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/acfc1aacfe27) |
@@ -21,9 +37,11 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Feb 2026 06:11:12 GMT | Zero Trust Architecture Transforms E-Signature Security Standards | Rohitgarg | [Read More](https://medium.com/p/a7d77bb91f09) |
 | Wed, 11 Feb 2026 06:10:35 GMT | The DC-9 Breach: From SQL Injection to Root Authority | Gopika Suresh | [Read More](https://medium.com/p/a7de58064bfe) |
 | Wed, 11 Feb 2026 06:08:53 GMT | Infrastructure Audits: Identifying Silent Exposure Across Systems | Gautam kumar | [Read More](https://medium.com/p/133564d63a96) |
+| Wed, 11 Feb 2026 06:05:59 GMT | Hollywood Spends Big on Films — But Almost Nothing on Cybersecurity | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/faa1d68aa841) |
 | Wed, 11 Feb 2026 06:05:22 GMT | HackTheBox Criticalops Writeup | The Mastermind Notes | [Read More](https://medium.com/p/baed05b932b4) |
 | Wed, 11 Feb 2026 06:02:59 GMT | HTB Atlas Writeup | The Mastermind Notes | [Read More](https://medium.com/p/22e28c6b6d61) |
 | Wed, 11 Feb 2026 05:55:10 GMT | Why Reproducing the Bug Is Half the Fix | Fateyaly | [Read More](https://medium.com/p/a112f6a7ef26) |
+| Wed, 11 Feb 2026 05:44:13 GMT | A Guide to Certified Risk Information Systems Control | Irfan Sharief | [Read More](https://medium.com/p/0cb079eb5438) |
 | Wed, 11 Feb 2026 05:31:01 GMT | Security Isn’t a Layer — It’s Architecture | sachhsoft | [Read More](https://medium.com/p/e8f8bc9c6d22) |
 | Wed, 11 Feb 2026 05:26:33 GMT | Why Custom Software Is Better Than Generic Solutions for Growing Businesses | axzell innovations | [Read More](https://medium.com/p/a7b640161fb6) |
 | Wed, 11 Feb 2026 05:24:14 GMT | How can ServiceNow’s AI and Analytics Features Optimize IT Service Delivery | Emergys | [Read More](https://medium.com/p/fd389dbb832c) |
@@ -44,6 +62,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Feb 2026 04:28:35 GMT | Kick The Buddy Hack | Game4u | [Read More](https://medium.com/p/e7ddfc2d662d) |
 | Wed, 11 Feb 2026 04:23:43 GMT | My First Privilege Escalation Explained Simply (Beginner Lab Story) | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/38fa314788d7) |
 | Wed, 11 Feb 2026 04:12:20 GMT | BASIS DATA : INSTALASI MYSQL (frst time jadi hacker) | Muhammad Sava Alfarisy | [Read More](https://medium.com/p/84b76dcea4f8) |
+| Wed, 11 Feb 2026 04:01:07 GMT | Incident Response Under Pressure What Really Happens When Systems Are Compromised | Licio Lentimo | [Read More](https://medium.com/p/6e44ab261e9e) |
 | Wed, 11 Feb 2026 03:51:40 GMT | PicoCTF.org CTF Challenge Write Up
 Category: Web Exploitation | Damian Robert Moore | [Read More](https://medium.com/p/e4d7a70a59b7) |
 | Wed, 11 Feb 2026 03:31:01 GMT | Certifications vs Skills: What Actually Builds a QA Career | TestoMeter EduTech | [Read More](https://medium.com/p/500af931057b) |
@@ -66,6 +85,7 @@ Category: Web Exploitation | Damian Robert Moore | [Read More](https://medium.co
 | Wed, 11 Feb 2026 01:30:47 GMT | Your PDFs Should Not Have to Leave Your Laptop to Get Things Done | Ilyas Khan | [Read More](https://medium.com/p/1dca12853fba) |
 | Wed, 11 Feb 2026 01:25:17 GMT | Firewall and IDS/IPS: Hard Lab — HackTheBox | William Shively | [Read More](https://medium.com/p/8e54d1fe52a6) |
 | Wed, 11 Feb 2026 00:01:01 GMT | Guide to HTTP Status Codes for Bug Bounty and Pentesting | JPablo13 | [Read More](https://medium.com/p/1218b04ad3c4) |
+| Wed, 11 Feb 2026 00:00:01 GMT | AI Agents Have Root Access to Your Machine — And Nobody’s Watching | Gzxuexi | [Read More](https://medium.com/p/9965606176a4) |
 | Tue, 10 Feb 2026 23:53:27 GMT | NOTICE: Date/Time Normalization Maintenance of Historical CVE Records to Occur February 16–25, 2026 | CVE Program Blog | [Read More](https://medium.com/p/e1067ee15905) |
 | Tue, 10 Feb 2026 23:48:56 GMT | Uncategorized | Private-hackers.com | [Read More](https://medium.com/p/32ebb6890737) |
 | Tue, 10 Feb 2026 23:41:15 GMT | The H2E Industrial Ecosystem: Engineering Accountable Agency for Global Crises | Frank Morales Aguilera | [Read More](https://medium.com/p/a66d52513a16) |
@@ -94,22 +114,3 @@ Category: Web Exploitation | Damian Robert Moore | [Read More](https://medium.co
 | Tue, 10 Feb 2026 21:31:44 GMT | Femwar Ransomware on VMware: Digital Necromancy for the Damned ( Bringing VMs Back from the Dead) | Giulio Librando | [Read More](https://medium.com/p/d6696b64ed40) |
 | Tue, 10 Feb 2026 21:30:54 GMT | Exploiting Branch Wildcards in OIDC Trust Policies | Sadi Zane | [Read More](https://medium.com/p/51bd4e9a1e37) |
 | Tue, 10 Feb 2026 21:24:00 GMT | mustacchio writeup (TryHackMe) | 7s26Simon | [Read More](https://medium.com/p/7d8351760914) |
-| Tue, 10 Feb 2026 21:22:35 GMT | Cybersecurity vs Ethical Hacking Explained for Absolute Beginners | G. Sharan Raghav | [Read More](https://medium.com/p/58d1f3b7e2eb) |
-| Tue, 10 Feb 2026 21:21:27 GMT | Why Cybersecurity is the only ai-proof career in 2026 | AGABA JOSHUA BARUNGI | [Read More](https://medium.com/p/dc1121660a99) |
-| Tue, 10 Feb 2026 21:20:02 GMT | The Day “Count Lines” Stopped Being Simple | Sarosh | [Read More](https://medium.com/p/f31ec522b712) |
-| Tue, 10 Feb 2026 21:12:51 GMT | Microsoft Copilot for Healthcare: Ensuring Best Care for Patients While Protecting Sensitive… | IT_Engineer | [Read More](https://medium.com/p/20684083a635) |
-| Tue, 10 Feb 2026 21:12:07 GMT | Why API Keys Still Exist — and Why You Need an Identity Broker or Gateway | Zeitgeist | [Read More](https://medium.com/p/f677d58d1c88) |
-| Tue, 10 Feb 2026 21:11:19 GMT | From Signal to Impact | ghostyjoe | [Read More](https://medium.com/p/d38f56bbbc0a) |
-| Tue, 10 Feb 2026 20:57:47 GMT | Distributed Futures: What National Projections Got Right About the Global Realities of Today | David A. Bray | [Read More](https://medium.com/p/dce306734c52) |
-| Tue, 10 Feb 2026 20:52:54 GMT | Wireless Penetration Testing: From Monitor Mode to Key Recovery | Mai Tran | [Read More](https://medium.com/p/942c1b387863) |
-| Tue, 10 Feb 2026 20:36:27 GMT | The case against documentation | Gatis Špats | [Read More](https://medium.com/p/2e9941416cd7) |
-| Tue, 10 Feb 2026 20:16:15 GMT | Speak “Friend” and Enter: Why OT Security Needs Hidden Doors, Not Bigger Gates | BlastWave | [Read More](https://medium.com/p/8153ede0a517) |
-| Tue, 10 Feb 2026 20:06:46 GMT | PhishMasterX: Building an Educational Framework to Understand Modern Phishing Attacks | Cyber Wolf | [Read More](https://medium.com/p/6c787001b26a) |
-| Tue, 10 Feb 2026 20:05:42 GMT | How to Use BloodHound to Hack Active Directory: A Full Guide | Youssef Said Thabet | [Read More](https://medium.com/p/a07012d3ec02) |
-| Tue, 10 Feb 2026 19:56:26 GMT | Strengthening Child Online Safety in Ghana | KOSCYBER | [Read More](https://medium.com/p/89dfb04d2b3d) |
-| Tue, 10 Feb 2026 19:56:07 GMT | What is a watering hole cyberattack? | SmartState ✅ Blockchain / Crypto / Web3 security | [Read More](https://medium.com/p/faefbc367160) |
-| Tue, 10 Feb 2026 19:54:56 GMT | Strengthening Child Online Safety in Ghana | KOSCYBER | [Read More](https://medium.com/p/bc4763db685f) |
-| Tue, 10 Feb 2026 19:51:58 GMT | Why Traditional CCTV is Dead (And Why AI is the Only logical Successor | Hmyriayehor | [Read More](https://medium.com/p/8676e25faa67) |
-| Tue, 10 Feb 2026 19:43:29 GMT | Is This NordVPN Amazon Deal Worth It? Honest Review Before You Buy | Genelia | [Read More](https://medium.com/p/387043752b70) |
-| Tue, 10 Feb 2026 19:43:11 GMT | NordVPN Basic, 10 Devices, 1-Year, Premium VPN Software [Amazon Subscription] | Genelia | [Read More](https://medium.com/p/b61e4018b0ba) |
-| Tue, 10 Feb 2026 19:40:54 GMT | CodePartTwo - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/ebafedc9475a) |
