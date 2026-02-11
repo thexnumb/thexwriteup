@@ -12,7 +12,38 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Feb 2026 15:57:07 GMT | The Missing Layer in Security: AI‑Driven Reasoning, Correlation, and Explainability | Sapan Jain | [Read More](https://medium.com/p/d69446b9b103) |
+| Wed, 11 Feb 2026 15:51:26 GMT | Why I Stopped Trusting Blacklists and Built a Browser Extension That Checks Domain Age Instead | Ilian | [Read More](https://medium.com/p/b2d90ee19be2) |
+| Wed, 11 Feb 2026 15:48:14 GMT | Fully Automated SOAR Setup: Wazuh+n8n+Jira+Email Integration | Chinaza Emmanuela Obidike | [Read More](https://medium.com/p/542dec69cc21) |
+| Wed, 11 Feb 2026 15:46:50 GMT | The most common vulnerabilities in dApp frontends (and how to mitigate them) | Monethic.io | [Read More](https://medium.com/p/1c8ad5854e77) |
+| Wed, 11 Feb 2026 15:40:51 GMT | Membedah Serangan “Fake CAPTCHA” (Lumma Stealer) Menggunakan Cyber Kill Chain | Muhammad Khairin | [Read More](https://medium.com/p/976568014e66) |
+| Wed, 11 Feb 2026 15:40:24 GMT | MERN Stack Security: 3 Critical Vulnerabilities That Will Bankrupt Your SaaS | Ahmad Abdul Mannan | [Read More](https://medium.com/p/520ab1ef54d2) |
+| Wed, 11 Feb 2026 15:39:13 GMT | To the Safety Experts Resigning to Write Poetry: Good Riddance. | AgentEvolute | [Read More](https://medium.com/p/960d89f776b9) |
+| Wed, 11 Feb 2026 15:36:31 GMT | Malware Analysis Deep Dive: GhostWeaver RAT (PowerShell Crypto-Infostealer) | Ali Chisom | [Read More](https://medium.com/p/5c54251b877d) |
+| Wed, 11 Feb 2026 15:35:02 GMT | EP 80: The Dangers of White Label Devices | Robert Vamosi | [Read More](https://medium.com/p/994ac37e780e) |
+| Wed, 11 Feb 2026 15:33:30 GMT | The Click That Never Happened: Meet No-Interaction Attacks | 80h3m14n | [Read More](https://medium.com/p/0281a635e576) |
+| Wed, 11 Feb 2026 15:33:00 GMT | How to Build a Crypto Wallet App: A Clear, Step-by-Step Guide | John Galt | [Read More](https://medium.com/p/98f9729bc1c2) |
+| Wed, 11 Feb 2026 15:29:16 GMT | Multiple IPv4 Addresses on One VPS — Why and How | is*hosting | [Read More](https://medium.com/p/dc3257f2422a) |
+| Wed, 11 Feb 2026 15:26:56 GMT | Comprehensive Professional Security Services: Manned Guarding, Door Supervisors, Event & Support… | Rapport Security | [Read More](https://medium.com/p/800b4b250f07) |
+| Wed, 11 Feb 2026 15:24:53 GMT | GoHighLevel Chatbot Automation: Build 24/7 Lead Capture & Support That Converts in 2026 | GHL Savvy | [Read More](https://medium.com/p/c49e73e0c888) |
+| Wed, 11 Feb 2026 15:17:00 GMT | Can Blockchain Survive Quantum Computing? The Brutal Truth | Servifyspheresolutions | [Read More](https://medium.com/p/d33e22769f55) |
+| Wed, 11 Feb 2026 15:16:18 GMT | The Childhood Rejection That Shaped My Emotional Life | D. S. Jr. | [Read More](https://medium.com/p/b95212b6a2b9) |
+| Wed, 11 Feb 2026 15:16:15 GMT | Web Security Basics Every Developer Should Understand | Farhan Nasir | [Read More](https://medium.com/p/060857bfd793) |
+| Wed, 11 Feb 2026 15:14:08 GMT | Complete Guide to Home Security Camera Installation | AlexBryn | [Read More](https://medium.com/p/5918d3036fd6) |
+| Wed, 11 Feb 2026 15:12:01 GMT | Complete Guide To Security Camera Installation | AlexBryn | [Read More](https://medium.com/p/be76743ac906) |
+| Wed, 11 Feb 2026 15:11:54 GMT | Kubernetes Logging and Monitoring: Complete Guide | Andrey Pautov | [Read More](https://medium.com/p/2ce9d4bdba80) |
+| Wed, 11 Feb 2026 15:11:45 GMT | Proving Grounds PlanetExpress: Silent S | Nicolas Garcia | [Read More](https://medium.com/p/58693c8c8ab8) |
+| Wed, 11 Feb 2026 15:02:01 GMT | Password Spraying at Scale: Why Enterprises Still Fail to Detect It | Cynox Security LLP. | [Read More](https://medium.com/p/1a5ef820a38f) |
+| Wed, 11 Feb 2026 15:01:03 GMT | Defense in Depth: Building Secure AI Agents | Michael van Meurer | [Read More](https://medium.com/p/8ac74c670b7a) |
+| Wed, 11 Feb 2026 15:01:03 GMT | Cyber Briefing: 2026.02.11 | CyberMaterial | [Read More](https://medium.com/p/5231d98ac5f4) |
+| Wed, 11 Feb 2026 14:53:24 GMT | Container Escape to Full Kubernetes Takeover | Antonius Wisdom | [Read More](https://medium.com/p/88bb0678f5c4) |
+| Wed, 11 Feb 2026 14:52:55 GMT | Top Cyber Security Course In Kerala | Kiran | [Read More](https://medium.com/p/427b0daf7cd2) |
+| Wed, 11 Feb 2026 14:46:14 GMT | Cloud-Native Security Architecture Best Practices | Digital Defense | [Read More](https://medium.com/p/4c6cce98728c) |
+| Wed, 11 Feb 2026 14:44:05 GMT | Inside a Hacker’s Mind: The Engineering Behind Residential Proxy Infrastructure | Ayushman Misra | [Read More](https://medium.com/p/3e3135fa8507) |
 | Wed, 11 Feb 2026 14:35:54 GMT | How a Hidden Form Field Became a Backdoor: Understanding Mass Assignment Vulnerabilities | Anaselmendili | [Read More](https://medium.com/p/e62b45dd7c52) |
+| Wed, 11 Feb 2026 14:31:01 GMT | The Experience Trap:
+Why Your 10+ Years Career
+Might Be Failing You Now | Shubham Verma | [Read More](https://medium.com/p/657bbd7639d6) |
 | Wed, 11 Feb 2026 14:30:16 GMT | I Asked ChatGPT to Bypass an XSS Filter — Here’s What Happened | Ibrahim | [Read More](https://medium.com/p/ed2244e24e1f) |
 | Wed, 11 Feb 2026 14:21:00 GMT | Recruiting and Retaining Top Security Talent in a Competitive Market | Keith Fowler | [Read More](https://medium.com/p/769e2a9080f6) |
 | Wed, 11 Feb 2026 14:20:34 GMT | The Art of Coming Back from the Dead: A Guide to Cloud Disaster Recovery | Dhanush N | [Read More](https://medium.com/p/af3ff497b7c4) |
@@ -83,32 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Feb 2026 11:21:08 GMT | Critical Microsoft Security Update: 59 Vulnerabilities Patched, 6 Zero-Days Actively Exploited in… | Germano Costi | [Read More](https://medium.com/p/16c9a93f3739) |
 | Wed, 11 Feb 2026 11:21:06 GMT | Why AI Agents Break Traditional Security Models: A Practical Introduction to the New Threat… | Research Tealtiger | [Read More](https://medium.com/p/71a650be9463) |
 | Wed, 11 Feb 2026 11:19:06 GMT | Cyber Threats Are Evolving. Are Our Laws Keeping Up? | Mercy Aronimo | [Read More](https://medium.com/p/d51c6453b6ad) |
-| Wed, 11 Feb 2026 11:12:37 GMT | Secure Your Microsoft 365 Tenant-to-Tenant Migration with CloudBik | Anchalcloudbik | [Read More](https://medium.com/p/227bd27399a7) |
-| Wed, 11 Feb 2026 11:10:51 GMT | Linux Botnet Security Alert: How SSHStalker Uses IRC C2 and Legacy Kernel Exploits to Target Open… | Germano Costi | [Read More](https://medium.com/p/e927876e7f83) |
-| Wed, 11 Feb 2026 11:09:05 GMT | Cybersecurity Is No Longer Optional in India Especially in Gujarat | Ravalrachana | [Read More](https://medium.com/p/fe5ddc2562f1) |
-| Wed, 11 Feb 2026 11:05:20 GMT | TuesdayTool 39: Darkweb Tools | Oloyede Olajumoke Elizabeth | [Read More](https://medium.com/p/d1164f51232b) |
-| Wed, 11 Feb 2026 11:03:06 GMT | Ethical Hacking vs Cyber Crime: Key Differences Explained | Anaynams | [Read More](https://medium.com/p/2d3e7eb275be) |
-| Wed, 11 Feb 2026 10:50:19 GMT | OvertheWire Natas18 Walkthrough — Weak Session Management & Authentication Bypass | Naveen kumbhare | [Read More](https://medium.com/p/f07fc233da77) |
-| Wed, 11 Feb 2026 10:42:05 GMT | Some notes about CVE-2026–21531 in Azure SDK ( CVSS: 9.8) | hieudp01 | [Read More](https://medium.com/p/e347ba649d93) |
-| Wed, 11 Feb 2026 10:41:24 GMT | How a Livewire Vulnerability Led to Crypto Mining on Our Servers | Bruno Pinto | [Read More](https://medium.com/p/3462cc5ecae6) |
-| Wed, 11 Feb 2026 10:35:29 GMT | Shadow World : Decryption — Chapter One (Teaser Edition) | Bond Leung | [Read More](https://medium.com/p/dde6af18158f) |
-| Wed, 11 Feb 2026 10:33:42 GMT | OverTheWire Natas17 — Time-Based Blind SQL Injection (Automation Approach) | Naveen kumbhare | [Read More](https://medium.com/p/c30a651e6b59) |
-| Wed, 11 Feb 2026 10:31:01 GMT | Rotate n8n Secrets Without Breaking Workflows | Bhagya Rana | [Read More](https://medium.com/p/2b163ea2fc6e) |
-| Wed, 11 Feb 2026 10:27:59 GMT | How AI and Machine Learning Are Transforming SIEM and SOC Operations | Mukesh Giri | [Read More](https://medium.com/p/0cf8dd52d448) |
-| Wed, 11 Feb 2026 10:19:28 GMT | OWASP Top Ten #6: Vulnerable and Outdated Systems | Angela | [Read More](https://medium.com/p/5e341ae57cc7) |
-| Wed, 11 Feb 2026 10:14:42 GMT | Why Ethical Hacking is a Good Career Option in 2026? | cyber security Updates | [Read More](https://medium.com/p/02cc6fb583c2) |
-| Wed, 11 Feb 2026 10:12:31 GMT | The Human-Centric Gap in Tech: Navigating Ethics, Law, and Resistance | Tapan Kumar Saikia | [Read More](https://medium.com/p/4c1a1030433a) |
-| Wed, 11 Feb 2026 10:09:38 GMT | Claude Opus 4.6 | Loginsoft | [Read More](https://medium.com/p/75cb2519eb46) |
-| Wed, 11 Feb 2026 10:07:36 GMT | What Happens Once You’re Known? | Mishthi J | [Read More](https://medium.com/p/a06c7192f65d) |
-| Wed, 11 Feb 2026 10:05:07 GMT | Revolutionising SME Tax Filing: File Directly to HMRC from Monzo with Free MTD Software | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/7cdd131b225e) |
-| Wed, 11 Feb 2026 10:05:01 GMT | Best VAPT Testing Services in India - Identify Malicious Activities | Thiripathiv | [Read More](https://medium.com/p/10cb79d8c1b7) |
-| Wed, 11 Feb 2026 10:04:41 GMT | Spreadsheets as Privacy Blind Spots: Understanding Cyber Risks for UK SMEs and Strategies for… | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/fa289e122a8e) |
-| Wed, 11 Feb 2026 10:04:20 GMT | Why I Haven’t Found A Valid Bug Yet — And Why I’m Not Quitting | unibik | [Read More](https://medium.com/p/2eb4f3b58ec7) |
-| Wed, 11 Feb 2026 09:56:16 GMT | Zero Trust Architecture for Platform Engineers | Gurpreet Sachdeva | [Read More](https://medium.com/p/a23d4b73dff3) |
-| Wed, 11 Feb 2026 09:54:16 GMT | Linux CLI Basics Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/b74ab5c283e4) |
-| Wed, 11 Feb 2026 09:53:34 GMT | The modern Gatsby, heartbreak in pixels, and longing we dress up as content | Nokwanda Biyela | [Read More](https://medium.com/p/81ed5f85202e) |
-| Wed, 11 Feb 2026 09:49:20 GMT | SQL Injection Explained: How It Works, Real Examples, and How to Prevent It (Secure Coding Guide) | etwinworkshop | [Read More](https://medium.com/p/37dfb9aec21b) |
-| Wed, 11 Feb 2026 09:42:53 GMT | Is SIEM Dead? What It Really Looks Like in 2026 | NetWitness | [Read More](https://medium.com/p/2a01648d3da8) |
-| Wed, 11 Feb 2026 09:40:38 GMT | GoGreen Security Introduces Advanced Healthcare Facility Access & Vendor Compliance Use-Case… | Green Security | [Read More](https://medium.com/p/5301bb21840f) |
-| Wed, 11 Feb 2026 09:38:22 GMT | King Gate Secure Live Monitoring Service | Kgatesecure | [Read More](https://medium.com/p/9574744fa424) |
-| Wed, 11 Feb 2026 09:36:51 GMT | Hire N8N Developers to Build Smart, Scalable Automation Workflows | n8ndevelopers | [Read More](https://medium.com/p/e33eeed328cc) |
