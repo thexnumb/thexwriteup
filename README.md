@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Feb 2026 11:45:29 GMT | Hacking Google Drive Integrations: A Deep Dive into OAuth Security | Krishna Kumar | [Read More](https://medium.com/p/4e233bfcf395) |
+| Wed, 11 Feb 2026 11:34:44 GMT | NIS2: Rok 2026 jako „rok kybernetické bezpečnosti” — co to znamená pro české firmy? | Kybernet | [Read More](https://medium.com/p/9cccb31cb159) |
+| Wed, 11 Feb 2026 11:32:41 GMT | Kybernetická bezpečnost v roce 2026: Co čekat a na co se připravit | Kybernet | [Read More](https://medium.com/p/54138a8223a0) |
+| Wed, 11 Feb 2026 11:29:22 GMT | Evidence, Discipline, and Growth in Threat Intelligence | Tobi Babs | [Read More](https://medium.com/p/69f4aaef3a25) |
+| Wed, 11 Feb 2026 11:26:41 GMT | Bölüm 8: SOC’ta Runbook ve Playbook Mantığı | Sinan Aydın | [Read More](https://medium.com/p/f52b9e7149fe) |
+| Wed, 11 Feb 2026 11:25:37 GMT | What Is True Kindness? | Hiromitsu Ishii | [Read More](https://medium.com/p/0eded1562101) |
+| Wed, 11 Feb 2026 11:24:03 GMT | Network Services THM Room WalkThrough | SUSHANT TELRANDHE | [Read More](https://medium.com/p/2b60aca310d0) |
+| Wed, 11 Feb 2026 11:21:08 GMT | Critical Microsoft Security Update: 59 Vulnerabilities Patched, 6 Zero-Days Actively Exploited in… | Germano Costi | [Read More](https://medium.com/p/16c9a93f3739) |
+| Wed, 11 Feb 2026 11:21:06 GMT | Why AI Agents Break Traditional Security Models: A Practical Introduction to the New Threat… | Research Tealtiger | [Read More](https://medium.com/p/71a650be9463) |
+| Wed, 11 Feb 2026 11:19:06 GMT | Cyber Threats Are Evolving. Are Our Laws Keeping Up? | Mercy Aronimo | [Read More](https://medium.com/p/d51c6453b6ad) |
+| Wed, 11 Feb 2026 11:12:37 GMT | Secure Your Microsoft 365 Tenant-to-Tenant Migration with CloudBik | Anchalcloudbik | [Read More](https://medium.com/p/227bd27399a7) |
+| Wed, 11 Feb 2026 11:10:51 GMT | Linux Botnet Security Alert: How SSHStalker Uses IRC C2 and Legacy Kernel Exploits to Target Open… | Germano Costi | [Read More](https://medium.com/p/e927876e7f83) |
+| Wed, 11 Feb 2026 11:09:05 GMT | Cybersecurity Is No Longer Optional in India Especially in Gujarat | Ravalrachana | [Read More](https://medium.com/p/fe5ddc2562f1) |
+| Wed, 11 Feb 2026 11:05:20 GMT | TuesdayTool 39: Darkweb Tools | Oloyede Olajumoke Elizabeth | [Read More](https://medium.com/p/d1164f51232b) |
+| Wed, 11 Feb 2026 11:03:06 GMT | Ethical Hacking vs Cyber Crime: Key Differences Explained | Anaynams | [Read More](https://medium.com/p/2d3e7eb275be) |
 | Wed, 11 Feb 2026 10:50:19 GMT | OvertheWire Natas18 Walkthrough — Weak Session Management & Authentication Bypass | Naveen kumbhare | [Read More](https://medium.com/p/f07fc233da77) |
+| Wed, 11 Feb 2026 10:42:05 GMT | Some notes about CVE-2026–21531 in Azure SDK ( CVSS: 9.8) | hieudp01 | [Read More](https://medium.com/p/e347ba649d93) |
 | Wed, 11 Feb 2026 10:41:24 GMT | How a Livewire Vulnerability Led to Crypto Mining on Our Servers | Bruno Pinto | [Read More](https://medium.com/p/3462cc5ecae6) |
 | Wed, 11 Feb 2026 10:35:29 GMT | Shadow World : Decryption — Chapter One (Teaser Edition) | Bond Leung | [Read More](https://medium.com/p/dde6af18158f) |
 | Wed, 11 Feb 2026 10:33:42 GMT | OverTheWire Natas17 — Time-Based Blind SQL Injection (Automation Approach) | Naveen kumbhare | [Read More](https://medium.com/p/c30a651e6b59) |
@@ -71,6 +87,7 @@ Strengthening Digital Resilience in the Era of… | Joe Mungai | [Read More](htt
 | Wed, 11 Feb 2026 07:44:13 GMT | Step-by-Step Guide to Implementing OneLake in Microsoft Fabric | Alex s | [Read More](https://medium.com/p/f58f94bc084f) |
 | Wed, 11 Feb 2026 07:42:44 GMT | Continuous Monitoring and Real-Time Insights: The Competitive Advantage of ServiceNow GRC | Alex s | [Read More](https://medium.com/p/eb75c9ec544e) |
 | Wed, 11 Feb 2026 07:41:43 GMT | Advanced Pandas Optimization: Avoiding Slow Operations | Majidbasharat | [Read More](https://medium.com/p/593f8f122078) |
+| Wed, 11 Feb 2026 07:41:33 GMT | CVE 2024 — 24919 | Owais Ali Khan | [Read More](https://medium.com/p/4b761c1cf127) |
 | Wed, 11 Feb 2026 07:40:11 GMT | Bug Bounty Hunters: Here’s Why You Still Haven’t Found a Valid Bug | Vivek PS | [Read More](https://medium.com/p/ece4b3588c4e) |
 | Wed, 11 Feb 2026 07:34:08 GMT | #Recount or Reinvent Thailand? 
 A 21st-Century Voting Model for Thailand | Vincia Claire | [Read More](https://medium.com/p/ab95f401e258) |
@@ -97,20 +114,3 @@ A 21st-Century Voting Model for Thailand | Vincia Claire | [Read More](https://m
 | Wed, 11 Feb 2026 06:05:22 GMT | HackTheBox Criticalops Writeup | The Mastermind Notes | [Read More](https://medium.com/p/baed05b932b4) |
 | Wed, 11 Feb 2026 06:02:59 GMT | HTB Atlas Writeup | The Mastermind Notes | [Read More](https://medium.com/p/22e28c6b6d61) |
 | Wed, 11 Feb 2026 05:55:10 GMT | Why Reproducing the Bug Is Half the Fix | Fateyaly | [Read More](https://medium.com/p/a112f6a7ef26) |
-| Wed, 11 Feb 2026 05:44:13 GMT | A Guide to Certified Risk Information Systems Control | Irfan Sharief | [Read More](https://medium.com/p/0cb079eb5438) |
-| Wed, 11 Feb 2026 05:31:01 GMT | Security Isn’t a Layer — It’s Architecture | sachhsoft | [Read More](https://medium.com/p/e8f8bc9c6d22) |
-| Wed, 11 Feb 2026 05:26:33 GMT | Why Custom Software Is Better Than Generic Solutions for Growing Businesses | axzell innovations | [Read More](https://medium.com/p/a7b640161fb6) |
-| Wed, 11 Feb 2026 05:24:14 GMT | How can ServiceNow’s AI and Analytics Features Optimize IT Service Delivery | Emergys | [Read More](https://medium.com/p/fd389dbb832c) |
-| Wed, 11 Feb 2026 05:23:54 GMT | The Unopened Project (ChallengeUS Future Leaders Competition — Summer 2025) | Mina C. | [Read More](https://medium.com/p/bbe2cc9ee96a) |
-| Wed, 11 Feb 2026 05:16:01 GMT | ThreatLandscape Explained: Platform vs. Copilot — Two Ways to Master Modern Threat Intelligence | Cyber Threat Intelligence Analyst | [Read More](https://medium.com/p/8bfea1c29e3a) |
-| Wed, 11 Feb 2026 05:11:55 GMT | The Fourth Battlefield: The Next War Won’t Begin With a Missile | Vasant Bhadauria | [Read More](https://medium.com/p/690c3b8312e0) |
-| Wed, 11 Feb 2026 05:05:47 GMT | Is Federated Learning Truly Private? The Rise of Model Poisoning Attacks. | kh4ngth41_AIxCyberSec | [Read More](https://medium.com/p/d6c8625b9419) |
-| Wed, 11 Feb 2026 05:03:46 GMT | How ODL Oxmite Helped Transform Our Business Digitally | It's VILLAGER | [Read More](https://medium.com/p/bfd71cb89b02) |
-| Wed, 11 Feb 2026 04:57:43 GMT | ? ’  ’ | Danyal khan | [Read More](https://medium.com/p/e0019fd61dd7) |
-| Wed, 11 Feb 2026 04:55:51 GMT | The Cryptography Concept Journey — PKI (Public Key Infrastructure) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/9179e7e6fd01) |
-| Wed, 11 Feb 2026 04:53:28 GMT | Host & Network Penetration Testing: The Metasploit Framework CTF 2 — INE | srthk | [Read More](https://medium.com/p/4f6a9929fe42) |
-| Wed, 11 Feb 2026 04:48:16 GMT | Linux CLI Basics - Tryhackme | Aaron | [Read More](https://medium.com/p/bb2a6a3ca30b) |
-| Wed, 11 Feb 2026 04:47:02 GMT | Cybersecurity in AI‑Enabled Medical Devices: Strategy Beyond the Hype | Quinn Bennett | [Read More](https://medium.com/p/9c693ee13832) |
-| Wed, 11 Feb 2026 04:39:12 GMT | The Silent Threat: Why Today’s Encryption is a Time Bomb (And How PQC is the Fuse) | Quantarium | [Read More](https://medium.com/p/aed71e3e1e3c) |
-| Wed, 11 Feb 2026 04:32:42 GMT | El Perdón es el Atributo de los Fuertes | Rebeca Hdz K | [Read More](https://medium.com/p/fb1098aa6788) |
-| Wed, 11 Feb 2026 04:31:11 GMT | How I Found a Critical Auth Bypass in Hono Using AI (And You Can Too) | Roki Roy | [Read More](https://medium.com/p/43c326f6f06b) |
