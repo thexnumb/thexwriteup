@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Feb 2026 23:20:33 GMT | Credential Harvesting using SQL Map on a server with MySQL 5.0.51 on port 3306 - CVE-2006-2753 | Nifise | [Read More](https://medium.com/p/02729f77cc95) |
+| Wed, 11 Feb 2026 23:20:08 GMT | Cybersecurity for Open Source Developers | Kevin O'Shaughnessy | [Read More](https://medium.com/p/51372fa85fdb) |
+| Wed, 11 Feb 2026 23:09:59 GMT | Engineering a State‑Scale Digital Identity Platform: A Technical Case Study from Texas | RAJAT SHEORAN | [Read More](https://medium.com/p/0952dcbff0aa) |
+| Wed, 11 Feb 2026 23:07:42 GMT | HACK : Routeur 4G PocketWiFi(Airtel) | Jephte Mangenda | [Read More](https://medium.com/p/bf87690241b6) |
+| Wed, 11 Feb 2026 23:02:32 GMT | Pawning the Intellectual Silverware for a Bit of “Authenticity” | Thomas Lemström | [Read More](https://medium.com/p/f2299e782c37) |
+| Wed, 11 Feb 2026 22:54:00 GMT | You’re Not a Red Teamer — You’re Just Good at Tools | Yua Mikanana | [Read More](https://medium.com/p/2c9c50e7298c) |
+| Wed, 11 Feb 2026 22:36:00 GMT | Why Women Are Drawn to Taller Men: The Surprising Truth Behind Height Preferences | FloraReggie | [Read More](https://medium.com/p/2790e69a1d08) |
+| Wed, 11 Feb 2026 22:32:17 GMT | 11.02.2026 | willychilly | [Read More](https://medium.com/p/a37a7d9d7a78) |
 | Wed, 11 Feb 2026 22:17:39 GMT | When AI Explains Safety but Doesn’t Live by It | Archaeologist | [Read More](https://medium.com/p/08ec3f2af437) |
 | Wed, 11 Feb 2026 22:17:03 GMT | Next-Generation Cybersecurity Firms Securing the Digital Future | PR Reach360 | [Read More](https://medium.com/p/c55f120319af) |
 | Wed, 11 Feb 2026 22:14:02 GMT | CVE-2026–20841 Tracing an RCE From Patch Diff to Root Cause | Keiran Smith | [Read More](https://medium.com/p/7c85ce8533b3) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Feb 2026 16:48:23 GMT | JOB — HTB — WRITEUP | shehacks_ | [Read More](https://medium.com/p/9574cfbe5a5c) |
 | Wed, 11 Feb 2026 16:44:57 GMT | Instalasi Flutter SDK | Zurichsabil | [Read More](https://medium.com/p/c3d5ea1e2569) |
 | Wed, 11 Feb 2026 16:39:27 GMT | TryHackMe - Operating Systems: Introduction - WriteUp | Axoloth | [Read More](https://medium.com/p/5e544b5e4edf) |
-| Wed, 11 Feb 2026 16:38:47 GMT | Common DoS Attacks | Prasadi Niroopama Kumarasinghe | [Read More](https://medium.com/p/1808775fd463) |
-| Wed, 11 Feb 2026 16:31:01 GMT | Homelab: Defining the personal journey. From baseline design to datacenter practices. Part 10. | Masq31 - Benjamin Giordano | [Read More](https://medium.com/p/a091eb0d1739) |
-| Wed, 11 Feb 2026 16:24:09 GMT | The Silence of the Scams — Worth $33,500 — A Different Kind of Bounty | Justas_b_3 | [Read More](https://medium.com/p/c17f76a88657) |
-| Wed, 11 Feb 2026 16:19:27 GMT | 40,000+ AI Agents Exposed to the Internet with Full System Access | Threat Road | [Read More](https://medium.com/p/c7ed49ae9fee) |
-| Wed, 11 Feb 2026 16:07:36 GMT | Cybersecurity Warfare Among States and the Power of Diplomatic Intelligence Tools: Nigeria as a… | Enitan Ogungbade | [Read More](https://medium.com/p/4ca3c1638bbf) |
-| Wed, 11 Feb 2026 15:57:07 GMT | The Missing Layer in Security: AI‑Driven Reasoning, Correlation, and Explainability | Sapan Jain | [Read More](https://medium.com/p/d69446b9b103) |
-| Wed, 11 Feb 2026 15:51:26 GMT | Why I Stopped Trusting Blacklists and Built a Browser Extension That Checks Domain Age Instead | Ilian | [Read More](https://medium.com/p/b2d90ee19be2) |
-| Wed, 11 Feb 2026 15:48:14 GMT | Fully Automated SOAR Setup: Wazuh+n8n+Jira+Email Integration | Chinaza Emmanuela Obidike | [Read More](https://medium.com/p/542dec69cc21) |
