@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Feb 2026 00:01:01 GMT | Guide to HTTP Status Codes for Bug Bounty and Pentesting | JPablo13 | [Read More](https://medium.com/p/1218b04ad3c4) |
+| Tue, 10 Feb 2026 23:53:27 GMT | NOTICE: Date/Time Normalization Maintenance of Historical CVE Records to Occur February 16–25, 2026 | CVE Program Blog | [Read More](https://medium.com/p/e1067ee15905) |
+| Tue, 10 Feb 2026 23:48:56 GMT | Uncategorized | Private-hackers.com | [Read More](https://medium.com/p/32ebb6890737) |
+| Tue, 10 Feb 2026 23:41:15 GMT | The H2E Industrial Ecosystem: Engineering Accountable Agency for Global Crises | Frank Morales Aguilera | [Read More](https://medium.com/p/a66d52513a16) |
+| Tue, 10 Feb 2026 23:39:31 GMT | Cybersecurity 101: An easy introduction to cybersecurity | Secure Tech Lab | [Read More](https://medium.com/p/099db074d06c) |
+| Tue, 10 Feb 2026 23:14:17 GMT | Introducing ExecEvasion: Understanding Execution Evasion Beyond Simple Filters | Sid Joshi | [Read More](https://medium.com/p/5b5c1411e89e) |
+| Tue, 10 Feb 2026 23:13:02 GMT | Dark Web Leak Signals: How SOC Teams Can Detect the Next Ransomware Wave Before It Hits | Regan Temudo | [Read More](https://medium.com/p/c52be8d70409) |
+| Tue, 10 Feb 2026 23:08:46 GMT | We didn’t learn the right lesson from Eastern Europe, and it could cost us in the Indo-Pacific | Sean A Maxfield | [Read More](https://medium.com/p/c7b679556c2a) |
+| Tue, 10 Feb 2026 23:08:19 GMT | How Hackers Target Your Phone and Wi-Fi | Shahzaib | [Read More](https://medium.com/p/0dc8214daef5) |
 | Tue, 10 Feb 2026 23:04:46 GMT | Effective Dorking Tools | loyalonlytoday | [Read More](https://medium.com/p/3f0ea18e2c0d) |
 | Tue, 10 Feb 2026 23:04:21 GMT | What Nobody Teaches You About Detection Engineering | Siddhant Mishra | [Read More](https://medium.com/p/31f4bdb1f3d7) |
+| Tue, 10 Feb 2026 23:03:17 GMT | Depth | Kelz | [Read More](https://medium.com/p/2a236502147e) |
 | Tue, 10 Feb 2026 23:02:45 GMT | Academic research tools-OSINT | loyalonlytoday | [Read More](https://medium.com/p/2bc47277144e) |
 | Tue, 10 Feb 2026 23:02:20 GMT | Hack AWS Like a Pro: Pacu Reveals Every Hidden Weakness! | cybrNK | [Read More](https://medium.com/p/b08c8fba8024) |
 | Tue, 10 Feb 2026 22:38:04 GMT | Google, Yandex, DuckDuckGo, or Bing? Who’s the most transparent? | Snooptsz | [Read More](https://medium.com/p/af41d31756ee) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Feb 2026 16:52:42 GMT | How to Architect a Unified CSPM + CWPP Operating Model | Akash Saxena | [Read More](https://medium.com/p/580d51741237) |
 | Tue, 10 Feb 2026 16:45:20 GMT | Why Break-Fix IT Breaks Down in Manufacturing | Consilien | [Read More](https://medium.com/p/009cea292151) |
 | Tue, 10 Feb 2026 16:39:04 GMT | Technology in Everyday Life | Taziz Aziz | [Read More](https://medium.com/p/97e4f18167c3) |
-| Tue, 10 Feb 2026 16:37:00 GMT | How We Got Here: IT Systems Administrator | Luke | [Read More](https://medium.com/p/f75ea7f169bc) |
-| Tue, 10 Feb 2026 16:35:36 GMT | The Kytin Protocol: A State-Locked Architecture for Hardware-Rooted Autonomous Identity. | JohnGreetme | [Read More](https://medium.com/p/1f683fea63a0) |
-| Tue, 10 Feb 2026 16:30:51 GMT | Pentester Bytes: API Pentesting Methodology — Security Misconfiguration | Shivam Bathla | [Read More](https://medium.com/p/d2cfba228254) |
-| Tue, 10 Feb 2026 16:21:21 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/ef96005af804) |
-| Tue, 10 Feb 2026 16:21:17 GMT | The Cryptography Concept Journey — Static S-Box vs Dynamic S-Box | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/955898257e70) |
-| Tue, 10 Feb 2026 16:19:09 GMT | Hello world with OpenClaw and Moltbook on an EC2 instance | Salman Baset | [Read More](https://medium.com/p/46d047d19569) |
-| Tue, 10 Feb 2026 16:05:28 GMT | It might be possible that some students want to hack school grade by the canvas to get good grades | Wajef vbg | [Read More](https://medium.com/p/cdd0bc52672a) |
-| Tue, 10 Feb 2026 16:00:54 GMT | An Accidental Moat: | lior perlmutter shoshany | [Read More](https://medium.com/p/fbded62dbc37) |
-| Tue, 10 Feb 2026 15:58:42 GMT | The Doomsday Clock Isn’t Predicting Extinction. It’s Warning About Something Worse. | Anna Jacobi | [Read More](https://medium.com/p/491b901e72fe) |
-| Tue, 10 Feb 2026 15:56:28 GMT | Breaking the Paywall: How a Simple Access Control Flaw Exposed Premium Hiring Data | Krishna Kumar | [Read More](https://medium.com/p/013a5605646c) |
