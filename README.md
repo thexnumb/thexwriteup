@@ -12,6 +12,36 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Feb 2026 14:35:54 GMT | How a Hidden Form Field Became a Backdoor: Understanding Mass Assignment Vulnerabilities | Anaselmendili | [Read More](https://medium.com/p/e62b45dd7c52) |
+| Wed, 11 Feb 2026 14:30:16 GMT | I Asked ChatGPT to Bypass an XSS Filter — Here’s What Happened | Ibrahim | [Read More](https://medium.com/p/ed2244e24e1f) |
+| Wed, 11 Feb 2026 14:21:00 GMT | Recruiting and Retaining Top Security Talent in a Competitive Market | Keith Fowler | [Read More](https://medium.com/p/769e2a9080f6) |
+| Wed, 11 Feb 2026 14:20:34 GMT | The Art of Coming Back from the Dead: A Guide to Cloud Disaster Recovery | Dhanush N | [Read More](https://medium.com/p/af3ff497b7c4) |
+| Wed, 11 Feb 2026 14:16:19 GMT | The Right Time to Enter Privacy & AI Compliance Is Now | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/6e3bf784b845) |
+| Wed, 11 Feb 2026 14:16:01 GMT | Securing File Uploads: A Comprehensive Guide for Developers | Parin Patel | [Read More](https://medium.com/p/10362883ff4d) |
+| Wed, 11 Feb 2026 14:12:36 GMT | GoHighLevel Voice AI: How AI Calls Are Revolutionizing Lead Conversions in 2026 | GHL Savvy | [Read More](https://medium.com/p/533a7907f19e) |
+| Wed, 11 Feb 2026 14:11:41 GMT | The Hidden Data Residency Problem in Prompt Caching | Michael Hannecke | [Read More](https://medium.com/p/f99e6207451e) |
+| Wed, 11 Feb 2026 14:11:32 GMT | i Learned to Hate Myself Because the World Was Watching | ayyyaaa | [Read More](https://medium.com/p/9a1f2df1b6f9) |
+| Wed, 11 Feb 2026 14:10:09 GMT | Bypassing Cloud Firewalls: Turning PostgreSQL into an Internal Port Scanner | Anas Diab | [Read More](https://medium.com/p/4797a7adf0c6) |
+| Wed, 11 Feb 2026 14:03:41 GMT | How Does OWASP Test Website Security? Here’s the Basics | Habibi | [Read More](https://medium.com/p/e6074e579e97) |
+| Wed, 11 Feb 2026 14:02:25 GMT | The Obsolescence of Static Security: Leveraging AI Duels for Cyber-Resilience | Juarez Cunha | [Read More](https://medium.com/p/8961b4a479cd) |
+| Wed, 11 Feb 2026 14:01:03 GMT | The Safety Layer Hiding in Plain Sight | Vectorlane | [Read More](https://medium.com/p/3bd85f381bfc) |
+| Wed, 11 Feb 2026 14:00:19 GMT | Types of Cyber Attacks Every Beginner Should Understand | Jenish Maharjan | [Read More](https://medium.com/p/973dc302d699) |
+| Wed, 11 Feb 2026 13:58:46 GMT | Securing Retrieval-Augmented Generation in Production Systems | Mohsin Khan | [Read More](https://medium.com/p/330d72ca5260) |
+| Wed, 11 Feb 2026 13:55:55 GMT | Revolutionizing Remote Collaboration: The Lunela Experience | Lunela | [Read More](https://medium.com/p/aeb6d060e0d6) |
+| Wed, 11 Feb 2026 13:52:35 GMT | If I Had 90 Days to Future-Proof My Cybersecurity Career .. I Would Do This | Taimur Ijlal | [Read More](https://medium.com/p/9dcd74459c0c) |
+| Wed, 11 Feb 2026 13:48:54 GMT | # Shadow Context: Vulnerability Research on Gemini API Guardrails | M | [Read More](https://medium.com/p/8088a7927975) |
+| Wed, 11 Feb 2026 13:46:43 GMT | Server-Side Request Forgery (SSRF) - Complete Guide | Amrsmooke | [Read More](https://medium.com/p/f8f1f81ae3b7) |
+| Wed, 11 Feb 2026 13:46:40 GMT | CopyPasta writeup (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/74c3404567cf) |
+| Wed, 11 Feb 2026 13:42:03 GMT | Understanding Wi-Fi Authentication Protocols | winnietheSUii | [Read More](https://medium.com/p/c8a043cb14bd) |
+| Wed, 11 Feb 2026 13:38:51 GMT | Who Owns Your Company’s Expertise? | Karel Berkovec | [Read More](https://medium.com/p/f9871bee97a2) |
+| Wed, 11 Feb 2026 13:37:55 GMT | Common types of cyber threats faced by normal people and small companies | Ilgar Alakbarov | [Read More](https://medium.com/p/8362b6edf93b) |
+| Wed, 11 Feb 2026 13:28:20 GMT | Welcome to: Your Field Guide to Responsible AI | Binary Guardian | [Read More](https://medium.com/p/31b87598fff4) |
+| Wed, 11 Feb 2026 13:22:30 GMT | Through The Walls — A Structured Web-to-Root Attack Chain Room | Rahul V H | [Read More](https://medium.com/p/7a89d485a346) |
+| Wed, 11 Feb 2026 13:19:32 GMT | Intro to Cross-site Scripting - EN | Atakan Bitim | [Read More](https://medium.com/p/5b623f5e032e) |
+| Wed, 11 Feb 2026 13:19:27 GMT | Intro to Cross-site Scripting - TR | Atakan Bitim | [Read More](https://medium.com/p/06338173f6a2) |
+| Wed, 11 Feb 2026 13:17:35 GMT | Try Hack Me - Lo-Fi Write Up | Riyuzaki | [Read More](https://medium.com/p/06d5f1bdba95) |
+| Wed, 11 Feb 2026 13:14:55 GMT | Why Security Engineering is not for Everyone! | Aditya Patange | [Read More](https://medium.com/p/371486f6ff16) |
+| Wed, 11 Feb 2026 13:11:23 GMT | Nedir bu SSH ve Nasıl Kullanmalı? | Erdogan Ersin Keskin | [Read More](https://medium.com/p/c7103b2a5bc6) |
 | Wed, 11 Feb 2026 13:09:44 GMT | TryHackMe Hammer Write‑Up | Ajay dev | [Read More](https://medium.com/p/a20b81330486) |
 | Wed, 11 Feb 2026 13:09:38 GMT | How Meta AI Turns Your Confidential Confessions into Ad Data | Karl Buhl | [Read More](https://medium.com/p/bc5a070c17f1) |
 | Wed, 11 Feb 2026 13:05:33 GMT | Think Before You Hook: Mind Mapping an Android Security Challenge | Seif Ahmed Abdelaal | [Read More](https://medium.com/p/fa774a179add) |
@@ -82,34 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Feb 2026 09:40:38 GMT | GoGreen Security Introduces Advanced Healthcare Facility Access & Vendor Compliance Use-Case… | Green Security | [Read More](https://medium.com/p/5301bb21840f) |
 | Wed, 11 Feb 2026 09:38:22 GMT | King Gate Secure Live Monitoring Service | Kgatesecure | [Read More](https://medium.com/p/9574744fa424) |
 | Wed, 11 Feb 2026 09:36:51 GMT | Hire N8N Developers to Build Smart, Scalable Automation Workflows | n8ndevelopers | [Read More](https://medium.com/p/e33eeed328cc) |
-| Wed, 11 Feb 2026 09:33:16 GMT | Passive Reconnaissance Analysis of paulstamatiou.com: A Detailed OSINT Assessment | Hem Nikesh Gabhawala | [Read More](https://medium.com/p/31757936fe66) |
-| Wed, 11 Feb 2026 09:32:05 GMT | Insecure Design: Response header poisoning leading to account takeover | Silas Bamidele | [Read More](https://medium.com/p/9ec745c26b42) |
-| Wed, 11 Feb 2026 09:26:04 GMT | JAVASCRIPT Vulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/6dc9e4b8c5f5) |
-| Wed, 11 Feb 2026 09:18:44 GMT | Windows Notepad’te Bulunan Kritik Güvenlik Açığı (RCE) — Ne Oldu? | Hasancangozgec | [Read More](https://medium.com/p/08c032360f80) |
-| Wed, 11 Feb 2026 09:08:29 GMT | N8n’s “quiet” RCE problem | Exploit The Edge | [Read More](https://medium.com/p/72ee2f0f34ce) |
-| Wed, 11 Feb 2026 09:07:20 GMT | VulnLab: Broken Authentication Çözümü | CyberSam | [Read More](https://medium.com/p/53b6af71b8bf) |
-| Wed, 11 Feb 2026 09:04:12 GMT | KeyleSSH: A PAM With No Single Point of Vulnerability | Tide Foundation | [Read More](https://medium.com/p/356794a8c894) |
-| Wed, 11 Feb 2026 09:04:12 GMT | No, MIT Did Not Break the No-Cloning Theorem — And Their Paper Actually Validates My Quantum… | Berend Watchus | [Read More](https://medium.com/p/a5641ec4bd11) |
-| Wed, 11 Feb 2026 09:02:24 GMT | Choosing the right “SQL flavour” on Azure | Radu Vunvulea | [Read More](https://medium.com/p/d820a4efe772) |
-| Wed, 11 Feb 2026 09:01:13 GMT | I Turned One Leaked Password Into Full Admin Access: A Bug Bounty Walkthrough | Alexandre Vandamme | [Read More](https://medium.com/p/7564e0cd9119) |
-| Wed, 11 Feb 2026 09:00:52 GMT | Cybersecurity Awareness in NGOs and Government:
-Strengthening Digital Resilience in the Era of… | Joe Mungai | [Read More](https://medium.com/p/646372d8672e) |
-| Wed, 11 Feb 2026 08:54:36 GMT | Recon Before You Hack: Web Application Reconnaissance Basics | Redfox Security | [Read More](https://medium.com/p/80c87e256f38) |
-| Wed, 11 Feb 2026 08:40:47 GMT | Software Security: What It Means and Why It’s an Engineering Problem | VisionX Technologies | [Read More](https://medium.com/p/31c17460a7f9) |
-| Wed, 11 Feb 2026 08:37:41 GMT | AI Cyber Reading Group | Kevin O'Shaughnessy | [Read More](https://medium.com/p/2bf6f9b74388) |
-| Wed, 11 Feb 2026 08:36:00 GMT | 6 Hidden Problems With Java’s Default Serialization | Ujjawal Rohra | [Read More](https://medium.com/p/ff443d701b1a) |
-| Wed, 11 Feb 2026 08:35:08 GMT | 1.0: HTTP Host Header Vulnerabilities: | Bazil Brohi | [Read More](https://medium.com/p/ffeb4ba038c1) |
-| Wed, 11 Feb 2026 08:34:18 GMT | Offensive PowerShell 2025: 20 Commands That Still Work for Ethical Hackers and Red Teamers | Very Lazy Tech | [Read More](https://medium.com/p/d7b3b14cf3a6) |
-| Wed, 11 Feb 2026 08:33:14 GMT | Green Security Launches Mobile Vendor Credentialing App and AI-Assisted Value Analysis Platform for… | Green Security | [Read More](https://medium.com/p/d0b0082c9087) |
-| Wed, 11 Feb 2026 08:31:01 GMT | The n8n Approval Gate Pattern: Fast and Safe | Bhagya Rana | [Read More](https://medium.com/p/6624390c9ea1) |
-| Wed, 11 Feb 2026 08:28:33 GMT | NotebookLM Hack: How to Use the Security Claim Audit Protocol to Stop Believing AI Hype | Mihailo Zoin | [Read More](https://medium.com/p/d080fcfbee09) |
-| Wed, 11 Feb 2026 08:26:17 GMT | NMAP — Beginner To Advanced Guide | Antojebin | [Read More](https://medium.com/p/7948fcaaa6ed) |
-| Wed, 11 Feb 2026 08:25:08 GMT | Securing the Agentic Future: A Unified Framework for 3GPP Release 20 and UK FCA Compliance | Simplified Complexity | [Read More](https://medium.com/p/f081f8ff5398) |
-| Wed, 11 Feb 2026 08:24:52 GMT | ⚔️ XSStrike: Powerful Tool, Weak Results (If You Don’t Think First) | ghostyjoe | [Read More](https://medium.com/p/19630ed8c3a1) |
-| Wed, 11 Feb 2026 08:17:15 GMT | My Journey Through CloudGoat’s EC2 SSRF Scenario | ofek789 | [Read More](https://medium.com/p/b293195cb307) |
-| Wed, 11 Feb 2026 08:14:48 GMT | Nobody Talks About Why Americans Fail Abroad. Here’s the Part We Avoid | Jerry Nelson | [Read More](https://medium.com/p/d6aba58a6c29) |
-| Wed, 11 Feb 2026 08:09:18 GMT | The Megaspeed That Shattered My World: How Fastmegatrade.live | Chris Meade | [Read More](https://medium.com/p/d5689308cea3) |
-| Wed, 11 Feb 2026 08:07:21 GMT | Back at the Barnyard: The First Day Meeting | Keith Andrei Tapales | [Read More](https://medium.com/p/7f42ca0a7039) |
-| Wed, 11 Feb 2026 08:01:09 GMT | Multiplexed RBAC in .NET — Part 1 (Application Layer) | Marco Marano | [Read More](https://medium.com/p/0f980108cec0) |
-| Wed, 11 Feb 2026 07:58:26 GMT | Why Segmentation Isn’t a Checklist, It’s a Strategy! | Emrecan Sadikogullari | [Read More](https://medium.com/p/97b1f51532f5) |
-| Wed, 11 Feb 2026 07:52:55 GMT | Vulnhub: mrRobot CTF Walkthrough | d0natel00(KiroMoheb) | [Read More](https://medium.com/p/6521a6031b84) |
