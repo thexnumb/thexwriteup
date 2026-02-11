@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Feb 2026 05:23:54 GMT | The Unopened Project (ChallengeUS Future Leaders Competition — Summer 2025) | Mina C. | [Read More](https://medium.com/p/bbe2cc9ee96a) |
+| Wed, 11 Feb 2026 05:16:01 GMT | ThreatLandscape Explained: Platform vs. Copilot — Two Ways to Master Modern Threat Intelligence | Cyber Threat Intelligence Analyst | [Read More](https://medium.com/p/8bfea1c29e3a) |
+| Wed, 11 Feb 2026 05:11:55 GMT | The Fourth Battlefield: The Next War Won’t Begin With a Missile | Vasant Bhadauria | [Read More](https://medium.com/p/690c3b8312e0) |
+| Wed, 11 Feb 2026 05:05:47 GMT | Is Federated Learning Truly Private? The Rise of Model Poisoning Attacks. | kh4ngth41_AIxCyberSec | [Read More](https://medium.com/p/d6c8625b9419) |
+| Wed, 11 Feb 2026 05:03:46 GMT | How ODL Oxmite Helped Transform Our Business Digitally | It's VILLAGER | [Read More](https://medium.com/p/bfd71cb89b02) |
+| Wed, 11 Feb 2026 04:57:43 GMT | ? ’  ’ | Danyal khan | [Read More](https://medium.com/p/e0019fd61dd7) |
+| Wed, 11 Feb 2026 04:55:51 GMT | The Cryptography Concept Journey — PKI (Public Key Infrastructure) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/9179e7e6fd01) |
+| Wed, 11 Feb 2026 04:53:28 GMT | Host & Network Penetration Testing: The Metasploit Framework CTF 2 — INE | srthk | [Read More](https://medium.com/p/4f6a9929fe42) |
+| Wed, 11 Feb 2026 04:48:16 GMT | Linux CLI Basics - Tryhackme | Aaron | [Read More](https://medium.com/p/bb2a6a3ca30b) |
+| Wed, 11 Feb 2026 04:47:02 GMT | Cybersecurity in AI‑Enabled Medical Devices: Strategy Beyond the Hype | Quinn Bennett | [Read More](https://medium.com/p/9c693ee13832) |
+| Wed, 11 Feb 2026 04:39:12 GMT | The Silent Threat: Why Today’s Encryption is a Time Bomb (And How PQC is the Fuse) | Quantarium | [Read More](https://medium.com/p/aed71e3e1e3c) |
+| Wed, 11 Feb 2026 04:32:42 GMT | El Perdón es el Atributo de los Fuertes | Rebeca Hdz K | [Read More](https://medium.com/p/fb1098aa6788) |
+| Wed, 11 Feb 2026 04:31:11 GMT | How I Found a Critical Auth Bypass in Hono Using AI (And You Can Too) | Roki Roy | [Read More](https://medium.com/p/43c326f6f06b) |
+| Wed, 11 Feb 2026 04:31:02 GMT | Refresh Tokens Explained: Secure Authentication Without Ruining UX | Hasan Chinthaka | [Read More](https://medium.com/p/690c8d63a1fc) |
+| Wed, 11 Feb 2026 04:28:35 GMT | Kick The Buddy Hack | Game4u | [Read More](https://medium.com/p/e7ddfc2d662d) |
+| Wed, 11 Feb 2026 04:23:43 GMT | My First Privilege Escalation Explained Simply (Beginner Lab Story) | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/38fa314788d7) |
+| Wed, 11 Feb 2026 04:12:20 GMT | BASIS DATA : INSTALASI MYSQL (frst time jadi hacker) | Muhammad Sava Alfarisy | [Read More](https://medium.com/p/84b76dcea4f8) |
+| Wed, 11 Feb 2026 03:51:40 GMT | PicoCTF.org CTF Challenge Write Up
+Category: Web Exploitation | Damian Robert Moore | [Read More](https://medium.com/p/e4d7a70a59b7) |
 | Wed, 11 Feb 2026 03:31:01 GMT | Certifications vs Skills: What Actually Builds a QA Career | TestoMeter EduTech | [Read More](https://medium.com/p/500af931057b) |
 | Wed, 11 Feb 2026 03:31:01 GMT | Top 10 Tips for Implementing Graceful Degradation in Node.js | Arunangshu Das | [Read More](https://medium.com/p/a6f5624c7349) |
 | Wed, 11 Feb 2026 03:17:23 GMT | Blind OS Command Injection with Out-of-Band DNS Interaction | Bash Overflow | [Read More](https://medium.com/p/ad66a1075ec0) |
@@ -94,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Feb 2026 19:01:01 GMT | I Spent 48 Hours Lurking on Moltbook. The AI Drama Is Crazier Than Any Reality Show | Shauvik Kumar | [Read More](https://medium.com/p/ad07cfa45c1a) |
 | Tue, 10 Feb 2026 19:00:40 GMT | Hidden macOS Startup Tasks That Slow Your Mac Fast | Geoffrey Wenger | [Read More](https://medium.com/p/4a20df90da52) |
 | Tue, 10 Feb 2026 19:00:15 GMT | DISCORDED | Martin Ochoda | [Read More](https://medium.com/p/99b7e52b9922) |
-| Tue, 10 Feb 2026 18:57:52 GMT | Top 10 Cybersecurity Tips Everyone Should Know | Jack | [Read More](https://medium.com/p/a44e126d7f69) |
-| Tue, 10 Feb 2026 18:56:27 GMT | Bypassing Hardcoded WebSocket Ports in Multi-Port Apps behind Azure App Proxy | Jaime G.E. | [Read More](https://medium.com/p/043c83e231a0) |
-| Tue, 10 Feb 2026 18:52:30 GMT | Secure MCP Development with Python and Gemini CLI | xbill | [Read More](https://medium.com/p/a920f0a078f1) |
-| Tue, 10 Feb 2026 18:50:04 GMT | Linux | Basmala Yasser | [Read More](https://medium.com/p/b5950da36e74) |
-| Tue, 10 Feb 2026 18:49:48 GMT | Part 1: How to Read Post Mortems Like a Real Security Researcher | Abraham | [Read More](https://medium.com/p/ad9af577c33a) |
-| Tue, 10 Feb 2026 18:48:25 GMT | Security Assessment of Besder 6024PB-XMA501 IP Camera | Kostas Ereksonas | [Read More](https://medium.com/p/69b20bbc4534) |
-| Tue, 10 Feb 2026 18:48:17 GMT | Advanced Password Reset Abuse — Lab Report Write-Up | Shreya Dutta | [Read More](https://medium.com/p/a4af949a7511) |
-| Tue, 10 Feb 2026 18:45:42 GMT | When AI Becomes a Coworker | Bill Richmond | [Read More](https://medium.com/p/44d7f003180d) |
-| Tue, 10 Feb 2026 18:42:42 GMT | Actual Technology Like Sims Video Game: Scholar Cannot Eliminate Possibility | Con Stan Prize | [Read More](https://medium.com/p/f4f70d6063db) |
-| Tue, 10 Feb 2026 18:40:21 GMT | 5 Secure HTTP Headers You Must Stop Ignoring | Azad Ansari | [Read More](https://medium.com/p/d154c11eeab7) |
-| Tue, 10 Feb 2026 18:36:27 GMT | YOUR VOICE IS THEIR GOLDEN TICKET — And They’re Cashing It Out in 2026 | Kevin Kelly | [Read More](https://medium.com/p/d0a2e1cd461b) |
-| Tue, 10 Feb 2026 18:32:39 GMT | How IT Managers Can Simplify Cybersecurity for Startups and Growing Businesses | Ighty Support | [Read More](https://medium.com/p/c0768fed0a17) |
-| Tue, 10 Feb 2026 18:31:06 GMT | Active Directory Pentesting Series-Part 2 | Deepansh hooda | [Read More](https://medium.com/p/bf3fe0dc4fcc) |
-| Tue, 10 Feb 2026 18:25:02 GMT | Business Logic Flaw Allows Delegated Users to Hide Messages Using Archive & Trash States | Mohamed Abdelmoatie (3at3ot) | [Read More](https://medium.com/p/1acd5d1227bd) |
-| Tue, 10 Feb 2026 18:24:02 GMT | TorSearch: Fastest Deep Web Search Engine | Jasmine Marie | [Read More](https://medium.com/p/699c841e022d) |
-| Tue, 10 Feb 2026 18:21:03 GMT | From Recon to DNS Callbacks: Discovering an MSSQL Out-of-Band SQL Injection in a Bug Bounty Program | NullSecurityX | [Read More](https://medium.com/p/53e214e34f55) |
-| Tue, 10 Feb 2026 18:19:23 GMT | [Fixed]: Outlook not Responding when Sending Email Issue | InfoSec Write-ups | [Read More](https://medium.com/p/291aabc1c85e) |
-| Tue, 10 Feb 2026 18:13:51 GMT | From Rejected to Recruited: How I Cracked the Code to Landing SOC Interviews (And How You Can Too) | Misbah Ur Rehman | [Read More](https://medium.com/p/2a73cff5c5cf) |
