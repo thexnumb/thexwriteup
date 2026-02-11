@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Feb 2026 22:17:39 GMT | When AI Explains Safety but Doesn’t Live by It | Archaeologist | [Read More](https://medium.com/p/08ec3f2af437) |
+| Wed, 11 Feb 2026 22:17:03 GMT | Next-Generation Cybersecurity Firms Securing the Digital Future | PR Reach360 | [Read More](https://medium.com/p/c55f120319af) |
+| Wed, 11 Feb 2026 22:14:02 GMT | CVE-2026–20841 Tracing an RCE From Patch Diff to Root Cause | Keiran Smith | [Read More](https://medium.com/p/7c85ce8533b3) |
+| Wed, 11 Feb 2026 22:12:22 GMT | Most EVM Chains Made Me Write Multicall Contracts. Tempo Built Batching Into the Protocol. | Joseph Gimba | [Read More](https://medium.com/p/9c93c2def26d) |
+| Wed, 11 Feb 2026 22:04:14 GMT | PWNAGOTCHI — BUILD WITH Us (with Video demo) | Trish | [Read More](https://medium.com/p/c736bdfe1438) |
+| Wed, 11 Feb 2026 22:03:22 GMT | Introductory Networking : TryHackMe | Hamza Iftikhar Bhatti | [Read More](https://medium.com/p/7a0e7bfddde9) |
+| Wed, 11 Feb 2026 22:01:26 GMT | Cracking WEP Encryption: Wireless Network Analysis with Wireshark and Aircrack-ng | Moez Ben-Azzouz | [Read More](https://medium.com/p/c9e89a2fdc91) |
+| Wed, 11 Feb 2026 22:01:00 GMT | Unfiltered Restart — Day 1: Navigating Wires | Maximillian Rueda | [Read More](https://medium.com/p/1d8cab38aa5e) |
+| Wed, 11 Feb 2026 21:55:37 GMT | How can my family access my crypto if I die, without me giving them my seed phrase now? | InheritSafe | [Read More](https://medium.com/p/78697ee7aab1) |
+| Wed, 11 Feb 2026 21:50:46 GMT | Can You Hack a Dead DVR? -Part 2 | Aaronjjose | [Read More](https://medium.com/p/19cae32db232) |
 | Wed, 11 Feb 2026 21:33:32 GMT | From YAML to RCE: The PyYAML Deserialization Story | Amr | [Read More](https://medium.com/p/4a7d1dfe4f43) |
 | Wed, 11 Feb 2026 21:31:25 GMT | Digital Footprint walkthrough (TryHackMe) | Crystalcascade14 | [Read More](https://medium.com/p/132deb49619a) |
 | Wed, 11 Feb 2026 21:31:01 GMT | When Encryption Fails, Institutions Are Exposed | André Afonso Silva | [Read More](https://medium.com/p/902cf3066f8f) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Feb 2026 15:57:07 GMT | The Missing Layer in Security: AI‑Driven Reasoning, Correlation, and Explainability | Sapan Jain | [Read More](https://medium.com/p/d69446b9b103) |
 | Wed, 11 Feb 2026 15:51:26 GMT | Why I Stopped Trusting Blacklists and Built a Browser Extension That Checks Domain Age Instead | Ilian | [Read More](https://medium.com/p/b2d90ee19be2) |
 | Wed, 11 Feb 2026 15:48:14 GMT | Fully Automated SOAR Setup: Wazuh+n8n+Jira+Email Integration | Chinaza Emmanuela Obidike | [Read More](https://medium.com/p/542dec69cc21) |
-| Wed, 11 Feb 2026 15:46:50 GMT | The most common vulnerabilities in dApp frontends (and how to mitigate them) | Monethic.io | [Read More](https://medium.com/p/1c8ad5854e77) |
-| Wed, 11 Feb 2026 15:40:51 GMT | Membedah Serangan “Fake CAPTCHA” (Lumma Stealer) Menggunakan Cyber Kill Chain | Muhammad Khairin | [Read More](https://medium.com/p/976568014e66) |
-| Wed, 11 Feb 2026 15:40:24 GMT | MERN Stack Security: 3 Critical Vulnerabilities That Will Bankrupt Your SaaS | Ahmad Abdul Mannan | [Read More](https://medium.com/p/520ab1ef54d2) |
-| Wed, 11 Feb 2026 15:39:13 GMT | To the Safety Experts Resigning to Write Poetry: Good Riddance. | AgentEvolute | [Read More](https://medium.com/p/960d89f776b9) |
-| Wed, 11 Feb 2026 15:36:31 GMT | Malware Analysis Deep Dive: GhostWeaver RAT (PowerShell Crypto-Infostealer) | Ali Chisom | [Read More](https://medium.com/p/5c54251b877d) |
-| Wed, 11 Feb 2026 15:35:02 GMT | EP 80: The Dangers of White Label Devices | Robert Vamosi | [Read More](https://medium.com/p/994ac37e780e) |
-| Wed, 11 Feb 2026 15:33:30 GMT | The Click That Never Happened: Meet No-Interaction Attacks | 80h3m14n | [Read More](https://medium.com/p/0281a635e576) |
-| Wed, 11 Feb 2026 15:33:00 GMT | How to Build a Crypto Wallet App: A Clear, Step-by-Step Guide | John Galt | [Read More](https://medium.com/p/98f9729bc1c2) |
-| Wed, 11 Feb 2026 15:29:16 GMT | Multiple IPv4 Addresses on One VPS — Why and How | is*hosting | [Read More](https://medium.com/p/dc3257f2422a) |
-| Wed, 11 Feb 2026 15:26:56 GMT | Comprehensive Professional Security Services: Manned Guarding, Door Supervisors, Event & Support… | Rapport Security | [Read More](https://medium.com/p/800b4b250f07) |
