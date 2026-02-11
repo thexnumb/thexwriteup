@@ -12,7 +12,38 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Feb 2026 13:09:44 GMT | TryHackMe Hammer Write‑Up | Ajay dev | [Read More](https://medium.com/p/a20b81330486) |
+| Wed, 11 Feb 2026 13:09:38 GMT | How Meta AI Turns Your Confidential Confessions into Ad Data | Karl Buhl | [Read More](https://medium.com/p/bc5a070c17f1) |
+| Wed, 11 Feb 2026 13:05:33 GMT | Think Before You Hook: Mind Mapping an Android Security Challenge | Seif Ahmed Abdelaal | [Read More](https://medium.com/p/fa774a179add) |
+| Wed, 11 Feb 2026 13:05:25 GMT | Downloaded 7-Zip? You Might Be Running a Proxy Node | CipherX9F Security | [Read More](https://medium.com/p/3f9895895691) |
+| Wed, 11 Feb 2026 13:03:28 GMT | Extracting LSASS Credentials Offline: A Red Team Workflow | 0x4kil3s | [Read More](https://medium.com/p/248c8c96a1e6) |
+| Wed, 11 Feb 2026 13:01:03 GMT | I Found a Critical DoS Vulnerability in Fastify Using AI (And 49 Other Bugs) | Roki Roy | [Read More](https://medium.com/p/00c13e9cd975) |
+| Wed, 11 Feb 2026 13:01:03 GMT | The Death of Stock Tech: Engineering High-End Visual Authority in 2026 | Alice Ararau | [Read More](https://medium.com/p/95772613fabc) |
+| Wed, 11 Feb 2026 13:01:02 GMT | What My SSH Logs Look Like After 30 Days on a Public Linux Server | Faruk Ahmed | [Read More](https://medium.com/p/5fcdf5188973) |
+| Wed, 11 Feb 2026 13:00:04 GMT | Pentester Bytes: API Pentesting Methodology — Injection | Shivam Bathla | [Read More](https://medium.com/p/69cf8d44c939) |
+| Wed, 11 Feb 2026 12:59:08 GMT | Scenario-Based Stress Testing in Cybersecurity: Testing Defense in Real Life | Esra Kayhan | [Read More](https://medium.com/p/fcea4433e100) |
+| Wed, 11 Feb 2026 12:57:06 GMT | How to Master Smart Tech Shopping in 2025: An Exclusive Guide by GoGadge | Gogadge.com | [Read More](https://medium.com/p/00387881e1dd) |
+| Wed, 11 Feb 2026 12:55:51 GMT | Top Security Solutions in Navi Mumbai | Unitedguardforcenavimumbai | [Read More](https://medium.com/p/6e619d84a322) |
+| Wed, 11 Feb 2026 12:53:12 GMT | ChatGPT is Racist and LinkedIn’s new trend proves it! | En0cH | [Read More](https://medium.com/p/30ea6256e754) |
+| Wed, 11 Feb 2026 12:52:12 GMT | Lo-Fi Write-up - TryHackMe: | Riyuzaki | [Read More](https://medium.com/p/1bd067e9dbe1) |
+| Wed, 11 Feb 2026 12:51:16 GMT | Idooro — Easy Web Security Challenge Write-Up - CyberTalents | Z3DX | [Read More](https://medium.com/p/12c618676564) |
+| Wed, 11 Feb 2026 12:31:26 GMT | How Podcasts Help Off-Page SEO | Jellyfr | [Read More](https://medium.com/p/8da261a62f75) |
+| Wed, 11 Feb 2026 12:28:21 GMT | Motion Detection Alerts in Mobile CCTV Camera App: Real-Time Notifications Explained | CCTV Mobile Camera | [Read More](https://medium.com/p/041f8a9bd5ab) |
+| Wed, 11 Feb 2026 12:23:04 GMT | Construction Site Security Melbourne: Protecting Your Projects Efficiently | 247 Security Group | [Read More](https://medium.com/p/198756d5aa68) |
+| Wed, 11 Feb 2026 12:14:17 GMT | CVE-2026–20841 分析：Notepad Markdown RCE 與防禦策略 | segalee | [Read More](https://medium.com/p/b2af9b4f38c9) |
+| Wed, 11 Feb 2026 12:09:49 GMT | Cyber Security Training Courses: Build a High-Growth Career in India’s Digital Era | shahanasyed | [Read More](https://medium.com/p/c782408b96d9) |
+| Wed, 11 Feb 2026 12:04:22 GMT | I got hacked! What YOU can learn from my experience | Mario Apra | [Read More](https://medium.com/p/d37087da3fc3) |
+| Wed, 11 Feb 2026 12:03:23 GMT | The Hidden Maintenance Cost of Traditional Intercom Systems Vs the Solution. | Discreet solution Pvt ltd | [Read More](https://medium.com/p/2b10d4b909b9) |
+| Wed, 11 Feb 2026 12:00:38 GMT | Coding the Future: The Invaluable Benefits of Graduating in Information Technology | Poddar Group of Institutions | [Read More](https://medium.com/p/23317b3d7935) |
+| Wed, 11 Feb 2026 12:00:05 GMT | How I Hacked Payment Verification via Misconfiguration | Ali Bahaa Alawsi | [Read More](https://medium.com/p/04839e32013b) |
+| Wed, 11 Feb 2026 11:58:38 GMT | Systems Security Engineering Is Supply-Chain Security (Whether Industry Likes It or Not) | Peter Hillier/Halton | [Read More](https://medium.com/p/31971977f28f) |
+| Wed, 11 Feb 2026 11:56:31 GMT | Phool Makhana | Naturetohomeagro | [Read More](https://medium.com/p/2e1b377c687c) |
+| Wed, 11 Feb 2026 11:54:21 GMT | Insecure Direct Object Reference (IDOR) in VulnBank Transactions Endpoint. | Emerald | [Read More](https://medium.com/p/84d9842f5dc7) |
+| Wed, 11 Feb 2026 11:49:03 GMT | 2.0: HTTP Host Header Vulnerabilities: Password Reset Poisoning | Bazil Brohi | [Read More](https://medium.com/p/59417846883d) |
+| Wed, 11 Feb 2026 11:46:01 GMT | Corporate Greed Chronicles: Oracle Thirsty for More Cuts | Namir Sagheenanajar | [Read More](https://medium.com/p/5dccc74ec121) |
+| Wed, 11 Feb 2026 11:45:54 GMT | Why Are IT Professionals in Riyadh Turning to Ethical Hacking? The Cybersecurity Shift | Edoxi | [Read More](https://medium.com/p/c450551c9458) |
 | Wed, 11 Feb 2026 11:45:29 GMT | Hacking Google Drive Integrations: A Deep Dive into OAuth Security | Krishna Kumar | [Read More](https://medium.com/p/4e233bfcf395) |
+| Wed, 11 Feb 2026 11:38:17 GMT | Hands-free Human-in-the-Loop Review | Jlescarlan | [Read More](https://medium.com/p/41d2c9fb8f34) |
 | Wed, 11 Feb 2026 11:34:44 GMT | NIS2: Rok 2026 jako „rok kybernetické bezpečnosti” — co to znamená pro české firmy? | Kybernet | [Read More](https://medium.com/p/9cccb31cb159) |
 | Wed, 11 Feb 2026 11:32:41 GMT | Kybernetická bezpečnost v roce 2026: Co čekat a na co se připravit | Kybernet | [Read More](https://medium.com/p/54138a8223a0) |
 | Wed, 11 Feb 2026 11:29:22 GMT | Evidence, Discipline, and Growth in Threat Intelligence | Tobi Babs | [Read More](https://medium.com/p/69f4aaef3a25) |
@@ -82,35 +113,3 @@ Strengthening Digital Resilience in the Era of… | Joe Mungai | [Read More](htt
 | Wed, 11 Feb 2026 08:01:09 GMT | Multiplexed RBAC in .NET — Part 1 (Application Layer) | Marco Marano | [Read More](https://medium.com/p/0f980108cec0) |
 | Wed, 11 Feb 2026 07:58:26 GMT | Why Segmentation Isn’t a Checklist, It’s a Strategy! | Emrecan Sadikogullari | [Read More](https://medium.com/p/97b1f51532f5) |
 | Wed, 11 Feb 2026 07:52:55 GMT | Vulnhub: mrRobot CTF Walkthrough | d0natel00(KiroMoheb) | [Read More](https://medium.com/p/6521a6031b84) |
-| Wed, 11 Feb 2026 07:47:39 GMT | GenAI for Good: The Ascendion Approach to Empowering People and Machines - Ascendion | Ascendion | [Read More](https://medium.com/p/ab17f6dfea8b) |
-| Wed, 11 Feb 2026 07:44:49 GMT | The Significance of Collaboration and Connections in Improving Workplace Productivity - Ascendion | Ascendion | [Read More](https://medium.com/p/8a3b2037a180) |
-| Wed, 11 Feb 2026 07:44:13 GMT | Step-by-Step Guide to Implementing OneLake in Microsoft Fabric | Alex s | [Read More](https://medium.com/p/f58f94bc084f) |
-| Wed, 11 Feb 2026 07:42:44 GMT | Continuous Monitoring and Real-Time Insights: The Competitive Advantage of ServiceNow GRC | Alex s | [Read More](https://medium.com/p/eb75c9ec544e) |
-| Wed, 11 Feb 2026 07:41:43 GMT | Advanced Pandas Optimization: Avoiding Slow Operations | Majidbasharat | [Read More](https://medium.com/p/593f8f122078) |
-| Wed, 11 Feb 2026 07:41:33 GMT | CVE 2024 — 24919 | Owais Ali Khan | [Read More](https://medium.com/p/4b761c1cf127) |
-| Wed, 11 Feb 2026 07:40:11 GMT | Bug Bounty Hunters: Here’s Why You Still Haven’t Found a Valid Bug | Vivek PS | [Read More](https://medium.com/p/ece4b3588c4e) |
-| Wed, 11 Feb 2026 07:34:08 GMT | #Recount or Reinvent Thailand? 
-A 21st-Century Voting Model for Thailand | Vincia Claire | [Read More](https://medium.com/p/ab95f401e258) |
-| Wed, 11 Feb 2026 07:28:23 GMT | How to Run Kali Linux in the Cloud for FREE (16GB RAM & 4 CPU) — No PC Required | Zer0Figure | [Read More](https://medium.com/p/c5be55142883) |
-| Wed, 11 Feb 2026 07:28:04 GMT | Cybersecurity Basics: Protecting Yourself Online in an Ever-Changing Digital Landscape | Victor Mmulah | [Read More](https://medium.com/p/7e6c9ef036a8) |
-| Wed, 11 Feb 2026 07:27:24 GMT | Cloud Misconfigurations: Little Mistakes Can Get You Breached | Cyberoptic Security | [Read More](https://medium.com/p/5d336fde0461) |
-| Wed, 11 Feb 2026 07:26:03 GMT | Low-Severity Vulnerabilities Become Critical in Real-World Attacks | Cynox Security LLP. | [Read More](https://medium.com/p/f1233403c818) |
-| Wed, 11 Feb 2026 07:17:38 GMT | What is Linux(Complete Guide) | Aj | [Read More](https://medium.com/p/143f8e8a8595) |
-| Wed, 11 Feb 2026 07:13:59 GMT | Why White Cloak Technologies, Inc. Is a Trusted Software Development Company for Businesses | White Cloak Technologies, Inc. | [Read More](https://medium.com/p/e307f59ccd06) |
-| Wed, 11 Feb 2026 07:08:38 GMT | Hybrid Warfare Doesn’t Care About Your Certificates | Jordan Delorenzo | [Read More](https://medium.com/p/4e058f1ae49f) |
-| Wed, 11 Feb 2026 07:04:22 GMT | Kickstart Your Networking Journey: Must-Know Basic Terms | Tanvi Chauhan | [Read More](https://medium.com/p/418bbe6eeb5a) |
-| Wed, 11 Feb 2026 07:03:35 GMT | Security Orchestration, Automation, and Response (SOAR) Market: Trends, SPARK Matrix™, and Future… | Michel mathew | [Read More](https://medium.com/p/f8ef4ad029ff) |
-| Wed, 11 Feb 2026 06:37:41 GMT | Getting Over It APK | genzvnmod | [Read More](https://medium.com/p/3cf756d5a78b) |
-| Wed, 11 Feb 2026 06:37:26 GMT | OpenClaw turns to VirusTotal to boost security | SOCFortress | [Read More](https://medium.com/p/683e92f43e3d) |
-| Wed, 11 Feb 2026 06:36:26 GMT | Combating Identity Fraud | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/cfbd9dadef68) |
-| Wed, 11 Feb 2026 06:32:27 GMT | From Trust to Verification: Publishing CAP on SSRN | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/acfc1aacfe27) |
-| Wed, 11 Feb 2026 06:31:00 GMT | Identity Attacks vs Endpoint Attacks | Ankita Sinha | [Read More](https://medium.com/p/4a43a0828fd3) |
-| Wed, 11 Feb 2026 06:25:10 GMT | The Pre-Incident Layer: How Modern Intelligence Is Built Before a Breach Ever Occurs | Alyssa Chen | [Read More](https://medium.com/p/f8f78a1ea7cf) |
-| Wed, 11 Feb 2026 06:21:58 GMT | Emerging Threat Advisory: Surge in SMiShing Campaigns Linked to Organized Fraud Networks | Kerr Ang | [Read More](https://medium.com/p/e7fdcc277b1a) |
-| Wed, 11 Feb 2026 06:11:12 GMT | Zero Trust Architecture Transforms E-Signature Security Standards | Rohitgarg | [Read More](https://medium.com/p/a7d77bb91f09) |
-| Wed, 11 Feb 2026 06:10:35 GMT | The DC-9 Breach: From SQL Injection to Root Authority | Gopika Suresh | [Read More](https://medium.com/p/a7de58064bfe) |
-| Wed, 11 Feb 2026 06:08:53 GMT | Infrastructure Audits: Identifying Silent Exposure Across Systems | Gautam kumar | [Read More](https://medium.com/p/133564d63a96) |
-| Wed, 11 Feb 2026 06:05:59 GMT | Hollywood Spends Big on Films — But Almost Nothing on Cybersecurity | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/faa1d68aa841) |
-| Wed, 11 Feb 2026 06:05:22 GMT | HackTheBox Criticalops Writeup | The Mastermind Notes | [Read More](https://medium.com/p/baed05b932b4) |
-| Wed, 11 Feb 2026 06:02:59 GMT | HTB Atlas Writeup | The Mastermind Notes | [Read More](https://medium.com/p/22e28c6b6d61) |
-| Wed, 11 Feb 2026 05:55:10 GMT | Why Reproducing the Bug Is Half the Fix | Fateyaly | [Read More](https://medium.com/p/a112f6a7ef26) |
