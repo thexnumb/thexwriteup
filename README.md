@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Feb 2026 06:37:26 GMT | OpenClaw turns to VirusTotal to boost security | SOCFortress | [Read More](https://medium.com/p/683e92f43e3d) |
+| Wed, 11 Feb 2026 06:36:26 GMT | Combating Identity Fraud | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/cfbd9dadef68) |
+| Wed, 11 Feb 2026 06:32:27 GMT | From Trust to Verification: Publishing CAP on SSRN | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/acfc1aacfe27) |
+| Wed, 11 Feb 2026 06:31:00 GMT | Identity Attacks vs Endpoint Attacks | Ankita Sinha | [Read More](https://medium.com/p/4a43a0828fd3) |
+| Wed, 11 Feb 2026 06:25:10 GMT | The Pre-Incident Layer: How Modern Intelligence Is Built Before a Breach Ever Occurs | Alyssa Chen | [Read More](https://medium.com/p/f8f78a1ea7cf) |
+| Wed, 11 Feb 2026 06:21:58 GMT | Emerging Threat Advisory: Surge in SMiShing Campaigns Linked to Organized Fraud Networks | Kerr Ang | [Read More](https://medium.com/p/e7fdcc277b1a) |
+| Wed, 11 Feb 2026 06:11:12 GMT | Zero Trust Architecture Transforms E-Signature Security Standards | Rohitgarg | [Read More](https://medium.com/p/a7d77bb91f09) |
+| Wed, 11 Feb 2026 06:10:35 GMT | The DC-9 Breach: From SQL Injection to Root Authority | Gopika Suresh | [Read More](https://medium.com/p/a7de58064bfe) |
+| Wed, 11 Feb 2026 06:08:53 GMT | Infrastructure Audits: Identifying Silent Exposure Across Systems | Gautam kumar | [Read More](https://medium.com/p/133564d63a96) |
+| Wed, 11 Feb 2026 06:05:22 GMT | HackTheBox Criticalops Writeup | The Mastermind Notes | [Read More](https://medium.com/p/baed05b932b4) |
+| Wed, 11 Feb 2026 06:02:59 GMT | HTB Atlas Writeup | The Mastermind Notes | [Read More](https://medium.com/p/22e28c6b6d61) |
+| Wed, 11 Feb 2026 05:55:10 GMT | Why Reproducing the Bug Is Half the Fix | Fateyaly | [Read More](https://medium.com/p/a112f6a7ef26) |
+| Wed, 11 Feb 2026 05:31:01 GMT | Security Isn’t a Layer — It’s Architecture | sachhsoft | [Read More](https://medium.com/p/e8f8bc9c6d22) |
+| Wed, 11 Feb 2026 05:26:33 GMT | Why Custom Software Is Better Than Generic Solutions for Growing Businesses | axzell innovations | [Read More](https://medium.com/p/a7b640161fb6) |
+| Wed, 11 Feb 2026 05:24:14 GMT | How can ServiceNow’s AI and Analytics Features Optimize IT Service Delivery | Emergys | [Read More](https://medium.com/p/fd389dbb832c) |
 | Wed, 11 Feb 2026 05:23:54 GMT | The Unopened Project (ChallengeUS Future Leaders Competition — Summer 2025) | Mina C. | [Read More](https://medium.com/p/bbe2cc9ee96a) |
 | Wed, 11 Feb 2026 05:16:01 GMT | ThreatLandscape Explained: Platform vs. Copilot — Two Ways to Master Modern Threat Intelligence | Cyber Threat Intelligence Analyst | [Read More](https://medium.com/p/8bfea1c29e3a) |
 | Wed, 11 Feb 2026 05:11:55 GMT | The Fourth Battlefield: The Next War Won’t Begin With a Missile | Vasant Bhadauria | [Read More](https://medium.com/p/690c3b8312e0) |
@@ -98,18 +113,3 @@ Category: Web Exploitation | Damian Robert Moore | [Read More](https://medium.co
 | Tue, 10 Feb 2026 19:43:29 GMT | Is This NordVPN Amazon Deal Worth It? Honest Review Before You Buy | Genelia | [Read More](https://medium.com/p/387043752b70) |
 | Tue, 10 Feb 2026 19:43:11 GMT | NordVPN Basic, 10 Devices, 1-Year, Premium VPN Software [Amazon Subscription] | Genelia | [Read More](https://medium.com/p/b61e4018b0ba) |
 | Tue, 10 Feb 2026 19:40:54 GMT | CodePartTwo - HTB Writeup | RealisticPeach | [Read More](https://medium.com/p/ebafedc9475a) |
-| Tue, 10 Feb 2026 19:38:16 GMT | Building a Secure Code Executor: A Sandbox-First Architecture | Shashaank Srivastava | [Read More](https://medium.com/p/7b0ecd66f14b) |
-| Tue, 10 Feb 2026 19:37:52 GMT | The Robot Army: A Cross-Cloud Guide to Service Accounts, Managed Identities, and IAM Roles | Munish | [Read More](https://medium.com/p/3aa00e1981e2) |
-| Tue, 10 Feb 2026 19:36:43 GMT | Have you ever been pissed off by your Team Lead? If “yes”, read this…! | Chandu Narisetti | [Read More](https://medium.com/p/28d65c9fca19) |
-| Tue, 10 Feb 2026 19:35:26 GMT | Crying is not ingratitude,grief is not sin and anger is not moral failure. | podcastsandreads | [Read More](https://medium.com/p/3742a360aea2) |
-| Tue, 10 Feb 2026 19:33:50 GMT | SQL injection | Ayushmgowda | [Read More](https://medium.com/p/cf37eda90d9d) |
-| Tue, 10 Feb 2026 19:32:22 GMT | The SANITY Token ($SUT): How It’s Structured and Why That Structure Matters | Destiny Ogonyi | [Read More](https://medium.com/p/702e9d4a8f5e) |
-| Tue, 10 Feb 2026 19:26:05 GMT | Why Your Company Bought Splunk But Still Doesn’t Have a SIEM (And What To Do About It) | Amirul Alif | [Read More](https://medium.com/p/8f9ee7e064c5) |
-| Tue, 10 Feb 2026 19:19:20 GMT | The Real Deal on RAG: What Works, What Doesn’t, and Why You’re Probably Doing It Wrong | Amit Patriwala | [Read More](https://medium.com/p/3b97afe9059c) |
-| Tue, 10 Feb 2026 19:18:35 GMT | What Good Security Reporting Looks Like for Executives | JSOC IT BLOG | [Read More](https://medium.com/p/fc518313d44c) |
-| Tue, 10 Feb 2026 19:15:14 GMT | The 3 Things to Know About the State of the Art of Post-Quantum Cryptography (PQC) | Gaia Guadagnoli | [Read More](https://medium.com/p/2e4ef4f642a1) |
-| Tue, 10 Feb 2026 19:07:36 GMT | PJPT Exam Strategy: How to Approach It Like a Real Pentester | Hemantha Krishna Challa | [Read More](https://medium.com/p/07126293bbe1) |
-| Tue, 10 Feb 2026 19:03:41 GMT | One Day There Will Not Be Two of Us | Nigh Of Becoming | [Read More](https://medium.com/p/c96b96e1946e) |
-| Tue, 10 Feb 2026 19:01:01 GMT | I Spent 48 Hours Lurking on Moltbook. The AI Drama Is Crazier Than Any Reality Show | Shauvik Kumar | [Read More](https://medium.com/p/ad07cfa45c1a) |
-| Tue, 10 Feb 2026 19:00:40 GMT | Hidden macOS Startup Tasks That Slow Your Mac Fast | Geoffrey Wenger | [Read More](https://medium.com/p/4a20df90da52) |
-| Tue, 10 Feb 2026 19:00:15 GMT | DISCORDED | Martin Ochoda | [Read More](https://medium.com/p/99b7e52b9922) |
