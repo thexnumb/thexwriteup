@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Feb 2026 10:50:19 GMT | OvertheWire Natas18 Walkthrough — Weak Session Management & Authentication Bypass | Naveen kumbhare | [Read More](https://medium.com/p/f07fc233da77) |
+| Wed, 11 Feb 2026 10:41:24 GMT | How a Livewire Vulnerability Led to Crypto Mining on Our Servers | Bruno Pinto | [Read More](https://medium.com/p/3462cc5ecae6) |
+| Wed, 11 Feb 2026 10:35:29 GMT | Shadow World : Decryption — Chapter One (Teaser Edition) | Bond Leung | [Read More](https://medium.com/p/dde6af18158f) |
+| Wed, 11 Feb 2026 10:33:42 GMT | OverTheWire Natas17 — Time-Based Blind SQL Injection (Automation Approach) | Naveen kumbhare | [Read More](https://medium.com/p/c30a651e6b59) |
+| Wed, 11 Feb 2026 10:31:01 GMT | Rotate n8n Secrets Without Breaking Workflows | Bhagya Rana | [Read More](https://medium.com/p/2b163ea2fc6e) |
+| Wed, 11 Feb 2026 10:27:59 GMT | How AI and Machine Learning Are Transforming SIEM and SOC Operations | Mukesh Giri | [Read More](https://medium.com/p/0cf8dd52d448) |
+| Wed, 11 Feb 2026 10:19:28 GMT | OWASP Top Ten #6: Vulnerable and Outdated Systems | Angela | [Read More](https://medium.com/p/5e341ae57cc7) |
+| Wed, 11 Feb 2026 10:14:42 GMT | Why Ethical Hacking is a Good Career Option in 2026? | cyber security Updates | [Read More](https://medium.com/p/02cc6fb583c2) |
+| Wed, 11 Feb 2026 10:12:31 GMT | The Human-Centric Gap in Tech: Navigating Ethics, Law, and Resistance | Tapan Kumar Saikia | [Read More](https://medium.com/p/4c1a1030433a) |
+| Wed, 11 Feb 2026 10:09:38 GMT | Claude Opus 4.6 | Loginsoft | [Read More](https://medium.com/p/75cb2519eb46) |
+| Wed, 11 Feb 2026 10:07:36 GMT | What Happens Once You’re Known? | Mishthi J | [Read More](https://medium.com/p/a06c7192f65d) |
+| Wed, 11 Feb 2026 10:05:07 GMT | Revolutionising SME Tax Filing: File Directly to HMRC from Monzo with Free MTD Software | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/7cdd131b225e) |
+| Wed, 11 Feb 2026 10:05:01 GMT | Best VAPT Testing Services in India - Identify Malicious Activities | Thiripathiv | [Read More](https://medium.com/p/10cb79d8c1b7) |
+| Wed, 11 Feb 2026 10:04:41 GMT | Spreadsheets as Privacy Blind Spots: Understanding Cyber Risks for UK SMEs and Strategies for… | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/fa289e122a8e) |
+| Wed, 11 Feb 2026 10:04:20 GMT | Why I Haven’t Found A Valid Bug Yet — And Why I’m Not Quitting | unibik | [Read More](https://medium.com/p/2eb4f3b58ec7) |
+| Wed, 11 Feb 2026 09:56:16 GMT | Zero Trust Architecture for Platform Engineers | Gurpreet Sachdeva | [Read More](https://medium.com/p/a23d4b73dff3) |
+| Wed, 11 Feb 2026 09:54:16 GMT | Linux CLI Basics Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/b74ab5c283e4) |
+| Wed, 11 Feb 2026 09:53:34 GMT | The modern Gatsby, heartbreak in pixels, and longing we dress up as content | Nokwanda Biyela | [Read More](https://medium.com/p/81ed5f85202e) |
+| Wed, 11 Feb 2026 09:49:20 GMT | SQL Injection Explained: How It Works, Real Examples, and How to Prevent It (Secure Coding Guide) | etwinworkshop | [Read More](https://medium.com/p/37dfb9aec21b) |
 | Wed, 11 Feb 2026 09:42:53 GMT | Is SIEM Dead? What It Really Looks Like in 2026 | NetWitness | [Read More](https://medium.com/p/2a01648d3da8) |
 | Wed, 11 Feb 2026 09:40:38 GMT | GoGreen Security Introduces Advanced Healthcare Facility Access & Vendor Compliance Use-Case… | Green Security | [Read More](https://medium.com/p/5301bb21840f) |
 | Wed, 11 Feb 2026 09:38:22 GMT | King Gate Secure Live Monitoring Service | Kgatesecure | [Read More](https://medium.com/p/9574744fa424) |
@@ -95,23 +114,3 @@ A 21st-Century Voting Model for Thailand | Vincia Claire | [Read More](https://m
 | Wed, 11 Feb 2026 04:39:12 GMT | The Silent Threat: Why Today’s Encryption is a Time Bomb (And How PQC is the Fuse) | Quantarium | [Read More](https://medium.com/p/aed71e3e1e3c) |
 | Wed, 11 Feb 2026 04:32:42 GMT | El Perdón es el Atributo de los Fuertes | Rebeca Hdz K | [Read More](https://medium.com/p/fb1098aa6788) |
 | Wed, 11 Feb 2026 04:31:11 GMT | How I Found a Critical Auth Bypass in Hono Using AI (And You Can Too) | Roki Roy | [Read More](https://medium.com/p/43c326f6f06b) |
-| Wed, 11 Feb 2026 04:31:02 GMT | Refresh Tokens Explained: Secure Authentication Without Ruining UX | Hasan Chinthaka | [Read More](https://medium.com/p/690c8d63a1fc) |
-| Wed, 11 Feb 2026 04:28:35 GMT | Kick The Buddy Hack | Game4u | [Read More](https://medium.com/p/e7ddfc2d662d) |
-| Wed, 11 Feb 2026 04:23:43 GMT | My First Privilege Escalation Explained Simply (Beginner Lab Story) | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/38fa314788d7) |
-| Wed, 11 Feb 2026 04:12:20 GMT | BASIS DATA : INSTALASI MYSQL (frst time jadi hacker) | Muhammad Sava Alfarisy | [Read More](https://medium.com/p/84b76dcea4f8) |
-| Wed, 11 Feb 2026 04:01:07 GMT | Incident Response Under Pressure What Really Happens When Systems Are Compromised | Licio Lentimo | [Read More](https://medium.com/p/6e44ab261e9e) |
-| Wed, 11 Feb 2026 03:51:40 GMT | PicoCTF.org CTF Challenge Write Up
-Category: Web Exploitation | Damian Robert Moore | [Read More](https://medium.com/p/e4d7a70a59b7) |
-| Wed, 11 Feb 2026 03:31:01 GMT | Certifications vs Skills: What Actually Builds a QA Career | TestoMeter EduTech | [Read More](https://medium.com/p/500af931057b) |
-| Wed, 11 Feb 2026 03:31:01 GMT | Top 10 Tips for Implementing Graceful Degradation in Node.js | Arunangshu Das | [Read More](https://medium.com/p/a6f5624c7349) |
-| Wed, 11 Feb 2026 03:17:23 GMT | Blind OS Command Injection with Out-of-Band DNS Interaction | Bash Overflow | [Read More](https://medium.com/p/ad66a1075ec0) |
-| Wed, 11 Feb 2026 03:05:11 GMT | CSRF Vulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/9e2ecb3f14c3) |
-| Wed, 11 Feb 2026 03:01:07 GMT | Skill atrophy in Cybersecurity: Part 1- Still Certified, Not Always Capable! | Nothing Cyber [NC] | [Read More](https://medium.com/p/f6382d885e4b) |
-| Wed, 11 Feb 2026 02:53:02 GMT | Today I Learned: Steam Doesn’t Just Use TCP | Tylerburke | [Read More](https://medium.com/p/87d12b7b5b5c) |
-| Wed, 11 Feb 2026 02:52:13 GMT | Logic Poisoning: How One Bad Review Broke Ratings | Parth Narula | [Read More](https://medium.com/p/cfe38ae48338) |
-| Wed, 11 Feb 2026 02:46:08 GMT | I Built a Security Auditor for AI Skills (And I’m Not Even a Security Expert) | Tharunbalaji | [Read More](https://medium.com/p/2980149f26ae) |
-| Wed, 11 Feb 2026 02:42:17 GMT | Managed SDP: Zero Trust Access for the Modern Enterprise | Md Zeeshan | [Read More](https://medium.com/p/a2be8f375fe5) |
-| Wed, 11 Feb 2026 02:30:07 GMT | The $500 Steak I Never Ate: How My Lifestyle Saved My Bank Account. | Ray | [Read More](https://medium.com/p/b0d0d73d38d2) |
-| Wed, 11 Feb 2026 02:24:06 GMT | File Integrity Monitoring: The Silent Guardian of Your Systems | Shubham Khirwadkar | [Read More](https://medium.com/p/4cd6350ebbc5) |
-| Wed, 11 Feb 2026 02:23:07 GMT | AI in Higher Education: A Practical Guide for Academic Managers | Tiffany Lynch | [Read More](https://medium.com/p/e217d9e3c972) |
-| Wed, 11 Feb 2026 02:16:48 GMT | Even Realities Threatened to Brick My Device | Wearableowner | [Read More](https://medium.com/p/08d02aada448) |
