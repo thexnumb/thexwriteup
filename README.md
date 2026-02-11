@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Feb 2026 19:53:53 GMT | I Used My Real Password on 3 Sites — Here’s What Happened | Liam | [Read More](https://medium.com/p/9d803ce72a50) |
+| Wed, 11 Feb 2026 19:50:35 GMT | Siber Güvenliğe Giriş: Security+ Sınav Sürecim ve Tavsiyelerim | CyberFuFu | [Read More](https://medium.com/p/a93ec3543def) |
+| Wed, 11 Feb 2026 19:45:23 GMT | the paradox of vulnerability | Just_In_Time | [Read More](https://medium.com/p/e51311ce5fda) |
+| Wed, 11 Feb 2026 19:41:41 GMT | Wireless CCTV Camera Price in Pakistan — Updated Price List (2026) | Larksolutions | [Read More](https://medium.com/p/ce53f3cacf6e) |
+| Wed, 11 Feb 2026 19:34:53 GMT | The Death of the Wallet Drainer: Analyzing Incentiv’s "TransferGate" | Kolawole Adeniyi segun | [Read More](https://medium.com/p/8cd04529aa97) |
+| Wed, 11 Feb 2026 19:33:33 GMT | The Mechanics of SMBv1 Exploitation: A Deep Dive into EternalBlue | Adem Methamam | [Read More](https://medium.com/p/ae3c10dff915) |
+| Wed, 11 Feb 2026 19:32:14 GMT | Incident Response on Windows: From Event to Evidence | Şervan Alkan | [Read More](https://medium.com/p/48dd275f9b98) |
+| Wed, 11 Feb 2026 19:30:43 GMT | The VTech Hack (2015) — A Deep Dive into Digital Childhood Vulnerability | The Kernel Hub | [Read More](https://medium.com/p/ac2d676bf74f) |
+| Wed, 11 Feb 2026 19:19:22 GMT | Phishing Attacks Explained: How to Spot and Avoid Email Scams. | Tolulope Oduola | [Read More](https://medium.com/p/b80b3f57c646) |
+| Wed, 11 Feb 2026 19:17:01 GMT | Simple CTF — TryHackMe | pasan_Hewavitharana | [Read More](https://medium.com/p/862541198c36) |
+| Wed, 11 Feb 2026 19:15:16 GMT | MCP Won the Tool War. The Agent-to-Agent Security Crisis is Just Beginning. | Boris Verbitsky | [Read More](https://medium.com/p/f198ead33f7a) |
+| Wed, 11 Feb 2026 19:14:08 GMT | The 29-Minute Gap: Why DeFi Security Needs Automation | Alabi Shallom | [Read More](https://medium.com/p/2249f09c5220) |
+| Wed, 11 Feb 2026 19:02:08 GMT | Tryhackme sql injection Walkthrough | Encryptionakademy | [Read More](https://medium.com/p/35534b5c6c59) |
 | Wed, 11 Feb 2026 19:02:04 GMT | Siber Güvenlik İnsanı Anlamakla Başlar: Ünsiyet ve Nisyan | aeozkara | [Read More](https://medium.com/p/647784f24840) |
 | Wed, 11 Feb 2026 18:53:30 GMT | TryHackMe VulnNet Room Walkthrough / Writeup | Meet Shailesh Ranga | [Read More](https://medium.com/p/4eb22bada0e5) |
 | Wed, 11 Feb 2026 18:51:16 GMT | MÓDULO 1 — SISTEMAS OPERATIVOS Y REDES PARA EL HACKER OPERATIVO (Enfoque Linux) | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/3f21e888f334) |
@@ -101,16 +114,3 @@ Might Be Failing You Now | Shubham Verma | [Read More](https://medium.com/p/657b
 | Wed, 11 Feb 2026 14:01:03 GMT | The Safety Layer Hiding in Plain Sight | Vectorlane | [Read More](https://medium.com/p/3bd85f381bfc) |
 | Wed, 11 Feb 2026 14:00:19 GMT | Types of Cyber Attacks Every Beginner Should Understand | Jenish Maharjan | [Read More](https://medium.com/p/973dc302d699) |
 | Wed, 11 Feb 2026 13:58:46 GMT | Securing Retrieval-Augmented Generation in Production Systems | Mohsin Khan | [Read More](https://medium.com/p/330d72ca5260) |
-| Wed, 11 Feb 2026 13:55:55 GMT | Revolutionizing Remote Collaboration: The Lunela Experience | Lunela | [Read More](https://medium.com/p/aeb6d060e0d6) |
-| Wed, 11 Feb 2026 13:52:35 GMT | If I Had 90 Days to Future-Proof My Cybersecurity Career .. I Would Do This | Taimur Ijlal | [Read More](https://medium.com/p/9dcd74459c0c) |
-| Wed, 11 Feb 2026 13:48:54 GMT | # Shadow Context: Vulnerability Research on Gemini API Guardrails | M | [Read More](https://medium.com/p/8088a7927975) |
-| Wed, 11 Feb 2026 13:46:43 GMT | Server-Side Request Forgery (SSRF) - Complete Guide | Amrsmooke | [Read More](https://medium.com/p/f8f1f81ae3b7) |
-| Wed, 11 Feb 2026 13:46:40 GMT | CopyPasta writeup (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/74c3404567cf) |
-| Wed, 11 Feb 2026 13:42:03 GMT | Understanding Wi-Fi Authentication Protocols | winnietheSUii | [Read More](https://medium.com/p/c8a043cb14bd) |
-| Wed, 11 Feb 2026 13:38:51 GMT | Who Owns Your Company’s Expertise? | Karel Berkovec | [Read More](https://medium.com/p/f9871bee97a2) |
-| Wed, 11 Feb 2026 13:37:55 GMT | Common types of cyber threats faced by normal people and small companies | Ilgar Alakbarov | [Read More](https://medium.com/p/8362b6edf93b) |
-| Wed, 11 Feb 2026 13:31:01 GMT | BSCP: mi experiencia real con la certificación de Burp Suite | Juan Felipe Osorio Z | [Read More](https://medium.com/p/96c8beeb2fe2) |
-| Wed, 11 Feb 2026 13:28:20 GMT | Welcome to: Your Field Guide to Responsible AI | Binary Guardian | [Read More](https://medium.com/p/31b87598fff4) |
-| Wed, 11 Feb 2026 13:22:30 GMT | Through The Walls — A Structured Web-to-Root Attack Chain Room | Rahul V H | [Read More](https://medium.com/p/7a89d485a346) |
-| Wed, 11 Feb 2026 13:19:32 GMT | Intro to Cross-site Scripting - EN | Atakan Bitim | [Read More](https://medium.com/p/5b623f5e032e) |
-| Wed, 11 Feb 2026 13:19:27 GMT | Intro to Cross-site Scripting - TR | Atakan Bitim | [Read More](https://medium.com/p/06338173f6a2) |
