@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Feb 2026 03:31:01 GMT | Certifications vs Skills: What Actually Builds a QA Career | TestoMeter EduTech | [Read More](https://medium.com/p/500af931057b) |
+| Wed, 11 Feb 2026 03:31:01 GMT | Top 10 Tips for Implementing Graceful Degradation in Node.js | Arunangshu Das | [Read More](https://medium.com/p/a6f5624c7349) |
+| Wed, 11 Feb 2026 03:17:23 GMT | Blind OS Command Injection with Out-of-Band DNS Interaction | Bash Overflow | [Read More](https://medium.com/p/ad66a1075ec0) |
+| Wed, 11 Feb 2026 03:05:11 GMT | CSRF Vulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/9e2ecb3f14c3) |
+| Wed, 11 Feb 2026 03:01:07 GMT | Skill atrophy in Cybersecurity: Part 1- Still Certified, Not Always Capable! | Nothing Cyber [NC] | [Read More](https://medium.com/p/f6382d885e4b) |
+| Wed, 11 Feb 2026 02:53:02 GMT | Today I Learned: Steam Doesn’t Just Use TCP | Tylerburke | [Read More](https://medium.com/p/87d12b7b5b5c) |
+| Wed, 11 Feb 2026 02:52:13 GMT | Logic Poisoning: How One Bad Review Broke Ratings | Parth Narula | [Read More](https://medium.com/p/cfe38ae48338) |
+| Wed, 11 Feb 2026 02:46:08 GMT | I Built a Security Auditor for AI Skills (And I’m Not Even a Security Expert) | Tharunbalaji | [Read More](https://medium.com/p/2980149f26ae) |
+| Wed, 11 Feb 2026 02:42:17 GMT | Managed SDP: Zero Trust Access for the Modern Enterprise | Md Zeeshan | [Read More](https://medium.com/p/a2be8f375fe5) |
+| Wed, 11 Feb 2026 02:30:07 GMT | The $500 Steak I Never Ate: How My Lifestyle Saved My Bank Account. | Ray | [Read More](https://medium.com/p/b0d0d73d38d2) |
+| Wed, 11 Feb 2026 02:24:06 GMT | File Integrity Monitoring: The Silent Guardian of Your Systems | Shubham Khirwadkar | [Read More](https://medium.com/p/4cd6350ebbc5) |
+| Wed, 11 Feb 2026 02:23:07 GMT | AI in Higher Education: A Practical Guide for Academic Managers | Tiffany Lynch | [Read More](https://medium.com/p/e217d9e3c972) |
+| Wed, 11 Feb 2026 02:16:48 GMT | Even Realities Threatened to Brick My Device | Wearableowner | [Read More](https://medium.com/p/08d02aada448) |
+| Wed, 11 Feb 2026 02:11:58 GMT | Your Digital Life Deserves Better: A Complete Guide to Cybersecurity Essentials | Anubhav_bora | [Read More](https://medium.com/p/eec657fd9ec0) |
+| Wed, 11 Feb 2026 02:11:00 GMT | How To Hack Part 3 | Red | [Read More](https://medium.com/p/7d4713ad00ee) |
+| Wed, 11 Feb 2026 02:02:49 GMT | Liars Won’t Win in AI: Receipts, Logs, and Proof That Holds | James Kuhman | [Read More](https://medium.com/p/5932c9faa498) |
+| Wed, 11 Feb 2026 01:45:36 GMT | Evil Twin Attacks: A Complete Guide to Prevention and Safety | Raviteja Mureboina | [Read More](https://medium.com/p/c9dffaeaa8d5) |
+| Wed, 11 Feb 2026 01:30:47 GMT | Your PDFs Should Not Have to Leave Your Laptop to Get Things Done | Ilyas Khan | [Read More](https://medium.com/p/1dca12853fba) |
+| Wed, 11 Feb 2026 01:25:17 GMT | Firewall and IDS/IPS: Hard Lab — HackTheBox | William Shively | [Read More](https://medium.com/p/8e54d1fe52a6) |
 | Wed, 11 Feb 2026 00:01:01 GMT | Guide to HTTP Status Codes for Bug Bounty and Pentesting | JPablo13 | [Read More](https://medium.com/p/1218b04ad3c4) |
 | Tue, 10 Feb 2026 23:53:27 GMT | NOTICE: Date/Time Normalization Maintenance of Historical CVE Records to Occur February 16–25, 2026 | CVE Program Blog | [Read More](https://medium.com/p/e1067ee15905) |
 | Tue, 10 Feb 2026 23:48:56 GMT | Uncategorized | Private-hackers.com | [Read More](https://medium.com/p/32ebb6890737) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Feb 2026 18:21:03 GMT | From Recon to DNS Callbacks: Discovering an MSSQL Out-of-Band SQL Injection in a Bug Bounty Program | NullSecurityX | [Read More](https://medium.com/p/53e214e34f55) |
 | Tue, 10 Feb 2026 18:19:23 GMT | [Fixed]: Outlook not Responding when Sending Email Issue | InfoSec Write-ups | [Read More](https://medium.com/p/291aabc1c85e) |
 | Tue, 10 Feb 2026 18:13:51 GMT | From Rejected to Recruited: How I Cracked the Code to Landing SOC Interviews (And How You Can Too) | Misbah Ur Rehman | [Read More](https://medium.com/p/2a73cff5c5cf) |
-| Tue, 10 Feb 2026 18:09:45 GMT | Unearthing the Truth in DC-9 - From SQL Injection to SSH Hijacking ️ | Nicholas Mullenski | [Read More](https://medium.com/p/0755882e3fa0) |
-| Tue, 10 Feb 2026 18:08:31 GMT | How to Hack Part 2 | Red | [Read More](https://medium.com/p/1e9c6bfdcd44) |
-| Tue, 10 Feb 2026 17:45:03 GMT | Vulnerability is for Chumps | This, That & the Other Thing | [Read More](https://medium.com/p/7963e45f3f79) |
-| Tue, 10 Feb 2026 17:43:29 GMT | Try Hack Me- Anonymous CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/7eed6c74cd9a) |
-| Tue, 10 Feb 2026 17:37:11 GMT | eJPT Day 2: Passive Information Gathering and OSINT Techniques | getroot.dev | [Read More](https://medium.com/p/a3f0badad383) |
-| Tue, 10 Feb 2026 17:34:38 GMT | Awesome OSINT For “Everything” Part 1 | cybrNK | [Read More](https://medium.com/p/e3af787b1655) |
-| Tue, 10 Feb 2026 17:32:32 GMT | Your API Works in Postman but Breaks in the Browser? Blame CORS. | Sadman Chowdhury Siam | [Read More](https://medium.com/p/7e299ec8e2af) |
-| Tue, 10 Feb 2026 17:32:05 GMT | HackerDNA — Secrets in Source Write-Up - Client-Side Information Disclosure | Madaminovrahmatilloh | [Read More](https://medium.com/p/82369fa4af6d) |
-| Tue, 10 Feb 2026 17:28:01 GMT | eJPT Day 1: Understanding Reconnaissance in Ethical Hacking | getroot.dev | [Read More](https://medium.com/p/018b9ef4d7ad) |
-| Tue, 10 Feb 2026 17:24:00 GMT | SOCFortress Partners with PrecisionSec to Bring Actionable Threat Intelligence Into the SOC | SOCFortress | [Read More](https://medium.com/p/09443f48a775) |
-| Tue, 10 Feb 2026 17:10:37 GMT | Designing Secure CI/CD Pipelines Without Slowing Engineering Teams | Akash Saxena | [Read More](https://medium.com/p/73ff362ba918) |
-| Tue, 10 Feb 2026 17:09:39 GMT | The hackers who accidentally proved they work for Iran’s government (and didn’t even realize it) | Harsh Raj Singhania | [Read More](https://medium.com/p/4adca18f957b) |
-| Tue, 10 Feb 2026 17:03:48 GMT | Guess password easy Google beginner’s quest CTF 2026 write up | GhoulKingR | [Read More](https://medium.com/p/cc871c6d7f97) |
-| Tue, 10 Feb 2026 16:59:27 GMT | HackerDNA — Nmap Lab 102 Write-Up - Telnet Misconfiguration & Weak Credentials | Madaminovrahmatilloh | [Read More](https://medium.com/p/dce2b24cb264) |
-| Tue, 10 Feb 2026 16:57:32 GMT | Moltbook & Openclaw: IA, Inovação e Segurança | Ricardo Verhaeg | [Read More](https://medium.com/p/a089ca958e95) |
-| Tue, 10 Feb 2026 16:55:18 GMT | From Leak to Lead: How Dark Web Dumps Helped Me Find a Live Vulnerability ️‍♂️ | Iski | [Read More](https://medium.com/p/f1b0ea82b335) |
-| Tue, 10 Feb 2026 16:52:42 GMT | How to Architect a Unified CSPM + CWPP Operating Model | Akash Saxena | [Read More](https://medium.com/p/580d51741237) |
-| Tue, 10 Feb 2026 16:45:20 GMT | Why Break-Fix IT Breaks Down in Manufacturing | Consilien | [Read More](https://medium.com/p/009cea292151) |
-| Tue, 10 Feb 2026 16:39:04 GMT | Technology in Everyday Life | Taziz Aziz | [Read More](https://medium.com/p/97e4f18167c3) |
