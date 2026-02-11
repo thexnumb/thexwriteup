@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Feb 2026 19:02:04 GMT | Siber Güvenlik İnsanı Anlamakla Başlar: Ünsiyet ve Nisyan | aeozkara | [Read More](https://medium.com/p/647784f24840) |
+| Wed, 11 Feb 2026 18:53:30 GMT | TryHackMe VulnNet Room Walkthrough / Writeup | Meet Shailesh Ranga | [Read More](https://medium.com/p/4eb22bada0e5) |
+| Wed, 11 Feb 2026 18:51:16 GMT | MÓDULO 1 — SISTEMAS OPERATIVOS Y REDES PARA EL HACKER OPERATIVO (Enfoque Linux) | Claudio Andres Sanjines Cuellar | [Read More](https://medium.com/p/3f21e888f334) |
+| Wed, 11 Feb 2026 18:47:21 GMT | ️ WAF in Security: The Smart Security Guard for Your Website | Natarajan C K | [Read More](https://medium.com/p/7ccac9448ed8) |
+| Wed, 11 Feb 2026 18:46:24 GMT | Apple Pay vs Google Pay: Which Mobile Payment Is More Secure? | Chamith De Silva | [Read More](https://medium.com/p/59efc32d7cdc) |
+| Wed, 11 Feb 2026 18:44:22 GMT | Lumma Stealer dan Modus Fake CAPTCHA: Analisis Serangan Menggunakan Cyber Kill Chain | Anggor0x | [Read More](https://medium.com/p/ac477eddbdbe) |
+| Wed, 11 Feb 2026 18:40:57 GMT | Big People, Big Promises | Dhruv Jalota | [Read More](https://medium.com/p/a3ee606cb6ff) |
+| Wed, 11 Feb 2026 18:38:07 GMT | Why AI-Enabled Cyberattacks Signal a Deeper Governance Failure and What Must Come Next | Cyber Institute | [Read More](https://medium.com/p/69f56b8e7a97) |
+| Wed, 11 Feb 2026 18:35:57 GMT | What is SIEM? | Tvmgouder | [Read More](https://medium.com/p/d095ecdac2c8) |
+| Wed, 11 Feb 2026 18:35:56 GMT | MIME(Multipurpose Internet Mail Extension) Sniffing Attack | Sanskriti | [Read More](https://medium.com/p/43f6c4b0d9c5) |
+| Wed, 11 Feb 2026 18:30:13 GMT | Understanding Vulnerabilities, Threats, and OWASP Standard Testing Methodologies | Diva Rizky Alfitrah | [Read More](https://medium.com/p/389d00ea3ce6) |
+| Wed, 11 Feb 2026 18:27:29 GMT | Understanding Deauthentication Attacks | Hajrahaseeb | [Read More](https://medium.com/p/ae76f2839b09) |
+| Wed, 11 Feb 2026 18:25:33 GMT | HackerDNA — Secrets in Source 2 Write-Up - Client-Side Obfuscation and Hidden Secrets | Madaminovrahmatilloh | [Read More](https://medium.com/p/198f6672bf1e) |
+| Wed, 11 Feb 2026 18:23:14 GMT | I Put Claude Code in a Sandbox — And It Changed How I Think About AI Tools | Brian Kelson | [Read More](https://medium.com/p/aac33d90d9ed) |
+| Wed, 11 Feb 2026 18:22:27 GMT | The Majority of Threat Intelligence Feeds Are Expensive Noise Pipelines | Oscar Antonangelo | [Read More](https://medium.com/p/676e35f2e199) |
+| Wed, 11 Feb 2026 18:20:02 GMT | I Thought Nmap Was Just Port Scanning… Until I Learned How Attackers Actually Map Networks (eJPT… | getroot.dev | [Read More](https://medium.com/p/3fdb3e341514) |
+| Wed, 11 Feb 2026 18:19:49 GMT | eJPT Day 3: Active Information Gathering Using Nmap | getroot.dev | [Read More](https://medium.com/p/21a8a08dff57) |
+| Wed, 11 Feb 2026 18:19:04 GMT | How CVE-2026–24061 Grants Instant Root via Telnet | Muhammad Al-Khatib | [Read More](https://medium.com/p/ad49019572e6) |
+| Wed, 11 Feb 2026 17:46:27 GMT | Safari Surveillance: A Reflection on Seeing and Being Seen in Kruger National Park | Julie Terebkov | [Read More](https://medium.com/p/96fb46421e6d) |
+| Wed, 11 Feb 2026 17:46:00 GMT | How I Managed to Achieve Full Account Takeover on a 50Million+ Users Online Learning Platform… | Pakka0 | [Read More](https://medium.com/p/cd138069ff37) |
+| Wed, 11 Feb 2026 17:45:53 GMT | How I Hacked My Motorcycle to Create a New Dashboard | Ilian | [Read More](https://medium.com/p/181b18315bd0) |
+| Wed, 11 Feb 2026 17:31:05 GMT | Cybersecurity 2026 WARNING: AI Makes Every System Riskier | Shahzaib | [Read More](https://medium.com/p/8026ad9b1e48) |
 | Wed, 11 Feb 2026 17:21:12 GMT | See Finish Culture;The Bane of Modern Relationships. | Gozie_Nwa | [Read More](https://medium.com/p/27b6b7adb1c1) |
 | Wed, 11 Feb 2026 17:19:11 GMT | Cybernetics Remix— Maxxing and Remixxing | Mariette Papic | [Read More](https://medium.com/p/ed29d29f64c6) |
 | Wed, 11 Feb 2026 17:18:21 GMT | THE EXECUTIVE CYBERSECURITY BRIEF | H4SH95 | [Read More](https://medium.com/p/f9651e7f9eb3) |
@@ -92,25 +114,3 @@ Might Be Failing You Now | Shubham Verma | [Read More](https://medium.com/p/657b
 | Wed, 11 Feb 2026 13:22:30 GMT | Through The Walls — A Structured Web-to-Root Attack Chain Room | Rahul V H | [Read More](https://medium.com/p/7a89d485a346) |
 | Wed, 11 Feb 2026 13:19:32 GMT | Intro to Cross-site Scripting - EN | Atakan Bitim | [Read More](https://medium.com/p/5b623f5e032e) |
 | Wed, 11 Feb 2026 13:19:27 GMT | Intro to Cross-site Scripting - TR | Atakan Bitim | [Read More](https://medium.com/p/06338173f6a2) |
-| Wed, 11 Feb 2026 13:17:35 GMT | Try Hack Me - Lo-Fi Write Up | Riyuzaki | [Read More](https://medium.com/p/06d5f1bdba95) |
-| Wed, 11 Feb 2026 13:14:55 GMT | Why Security Engineering is not for Everyone! | Aditya Patange | [Read More](https://medium.com/p/371486f6ff16) |
-| Wed, 11 Feb 2026 13:11:23 GMT | Nedir bu SSH ve Nasıl Kullanmalı? | Erdogan Ersin Keskin | [Read More](https://medium.com/p/c7103b2a5bc6) |
-| Wed, 11 Feb 2026 13:09:44 GMT | TryHackMe Hammer Write‑Up | Ajay dev | [Read More](https://medium.com/p/a20b81330486) |
-| Wed, 11 Feb 2026 13:09:38 GMT | How Meta AI Turns Your Confidential Confessions into Ad Data | Karl Buhl | [Read More](https://medium.com/p/bc5a070c17f1) |
-| Wed, 11 Feb 2026 13:05:33 GMT | Think Before You Hook: Mind Mapping an Android Security Challenge | Seif Ahmed Abdelaal | [Read More](https://medium.com/p/fa774a179add) |
-| Wed, 11 Feb 2026 13:05:25 GMT | Downloaded 7-Zip? You Might Be Running a Proxy Node | CipherX9F Security | [Read More](https://medium.com/p/3f9895895691) |
-| Wed, 11 Feb 2026 13:03:28 GMT | Extracting LSASS Credentials Offline: A Red Team Workflow | 0x4kil3s | [Read More](https://medium.com/p/248c8c96a1e6) |
-| Wed, 11 Feb 2026 13:01:03 GMT | I Found a Critical DoS Vulnerability in Fastify Using AI (And 49 Other Bugs) | Roki Roy | [Read More](https://medium.com/p/00c13e9cd975) |
-| Wed, 11 Feb 2026 13:01:03 GMT | The Death of Stock Tech: Engineering High-End Visual Authority in 2026 | Alice Ararau | [Read More](https://medium.com/p/95772613fabc) |
-| Wed, 11 Feb 2026 13:01:02 GMT | What My SSH Logs Look Like After 30 Days on a Public Linux Server | Faruk Ahmed | [Read More](https://medium.com/p/5fcdf5188973) |
-| Wed, 11 Feb 2026 13:00:04 GMT | Pentester Bytes: API Pentesting Methodology — Injection | Shivam Bathla | [Read More](https://medium.com/p/69cf8d44c939) |
-| Wed, 11 Feb 2026 12:59:08 GMT | Scenario-Based Stress Testing in Cybersecurity: Testing Defense in Real Life | Esra Kayhan | [Read More](https://medium.com/p/fcea4433e100) |
-| Wed, 11 Feb 2026 12:57:06 GMT | How to Master Smart Tech Shopping in 2025: An Exclusive Guide by GoGadge | Gogadge.com | [Read More](https://medium.com/p/00387881e1dd) |
-| Wed, 11 Feb 2026 12:55:51 GMT | Top Security Solutions in Navi Mumbai | Unitedguardforcenavimumbai | [Read More](https://medium.com/p/6e619d84a322) |
-| Wed, 11 Feb 2026 12:53:12 GMT | ChatGPT is Racist and LinkedIn’s new trend proves it! | En0cH | [Read More](https://medium.com/p/30ea6256e754) |
-| Wed, 11 Feb 2026 12:52:12 GMT | Lo-Fi Write-up - TryHackMe: | Riyuzaki | [Read More](https://medium.com/p/1bd067e9dbe1) |
-| Wed, 11 Feb 2026 12:51:16 GMT | Idooro — Easy Web Security Challenge Write-Up - CyberTalents | Z3DX | [Read More](https://medium.com/p/12c618676564) |
-| Wed, 11 Feb 2026 12:31:26 GMT | How Podcasts Help Off-Page SEO | Jellyfr | [Read More](https://medium.com/p/8da261a62f75) |
-| Wed, 11 Feb 2026 12:28:21 GMT | Motion Detection Alerts in Mobile CCTV Camera App: Real-Time Notifications Explained | CCTV Mobile Camera | [Read More](https://medium.com/p/041f8a9bd5ab) |
-| Wed, 11 Feb 2026 12:23:04 GMT | Construction Site Security Melbourne: Protecting Your Projects Efficiently | 247 Security Group | [Read More](https://medium.com/p/198756d5aa68) |
-| Wed, 11 Feb 2026 12:14:17 GMT | CVE-2026–20841 分析：Notepad Markdown RCE 與防禦策略 | segalee | [Read More](https://medium.com/p/b2af9b4f38c9) |
