@@ -12,7 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Feb 2026 08:40:47 GMT | Software Security: What It Means and Why It’s an Engineering Problem | VisionX Technologies | [Read More](https://medium.com/p/31c17460a7f9) |
+| Wed, 11 Feb 2026 08:37:41 GMT | AI Cyber Reading Group | Kevin O'Shaughnessy | [Read More](https://medium.com/p/2bf6f9b74388) |
+| Wed, 11 Feb 2026 08:36:00 GMT | 6 Hidden Problems With Java’s Default Serialization | Ujjawal Rohra | [Read More](https://medium.com/p/ff443d701b1a) |
+| Wed, 11 Feb 2026 08:35:08 GMT | 1.0: HTTP Host Header Vulnerabilities: | Bazil Brohi | [Read More](https://medium.com/p/ffeb4ba038c1) |
+| Wed, 11 Feb 2026 08:34:18 GMT | Offensive PowerShell 2025: 20 Commands That Still Work for Ethical Hackers and Red Teamers | Very Lazy Tech | [Read More](https://medium.com/p/d7b3b14cf3a6) |
+| Wed, 11 Feb 2026 08:33:14 GMT | Green Security Launches Mobile Vendor Credentialing App and AI-Assisted Value Analysis Platform for… | Green Security | [Read More](https://medium.com/p/d0b0082c9087) |
+| Wed, 11 Feb 2026 08:31:01 GMT | The n8n Approval Gate Pattern: Fast and Safe | Bhagya Rana | [Read More](https://medium.com/p/6624390c9ea1) |
+| Wed, 11 Feb 2026 08:28:33 GMT | NotebookLM Hack: How to Use the Security Claim Audit Protocol to Stop Believing AI Hype | Mihailo Zoin | [Read More](https://medium.com/p/d080fcfbee09) |
+| Wed, 11 Feb 2026 08:26:17 GMT | NMAP — Beginner To Advanced Guide | Antojebin | [Read More](https://medium.com/p/7948fcaaa6ed) |
+| Wed, 11 Feb 2026 08:25:08 GMT | Securing the Agentic Future: A Unified Framework for 3GPP Release 20 and UK FCA Compliance | Simplified Complexity | [Read More](https://medium.com/p/f081f8ff5398) |
+| Wed, 11 Feb 2026 08:24:52 GMT | ⚔️ XSStrike: Powerful Tool, Weak Results (If You Don’t Think First) | ghostyjoe | [Read More](https://medium.com/p/19630ed8c3a1) |
+| Wed, 11 Feb 2026 08:17:15 GMT | My Journey Through CloudGoat’s EC2 SSRF Scenario | ofek789 | [Read More](https://medium.com/p/b293195cb307) |
+| Wed, 11 Feb 2026 08:14:48 GMT | Nobody Talks About Why Americans Fail Abroad. Here’s the Part We Avoid | Jerry Nelson | [Read More](https://medium.com/p/d6aba58a6c29) |
+| Wed, 11 Feb 2026 08:09:18 GMT | The Megaspeed That Shattered My World: How Fastmegatrade.live | Chris Meade | [Read More](https://medium.com/p/d5689308cea3) |
+| Wed, 11 Feb 2026 08:07:21 GMT | Back at the Barnyard: The First Day Meeting | Keith Andrei Tapales | [Read More](https://medium.com/p/7f42ca0a7039) |
+| Wed, 11 Feb 2026 08:01:09 GMT | Multiplexed RBAC in .NET — Part 1 (Application Layer) | Marco Marano | [Read More](https://medium.com/p/0f980108cec0) |
+| Wed, 11 Feb 2026 07:58:26 GMT | Why Segmentation Isn’t a Checklist, It’s a Strategy! | Emrecan Sadikogullari | [Read More](https://medium.com/p/97b1f51532f5) |
 | Wed, 11 Feb 2026 07:52:55 GMT | Vulnhub: mrRobot CTF Walkthrough | d0natel00(KiroMoheb) | [Read More](https://medium.com/p/6521a6031b84) |
+| Wed, 11 Feb 2026 07:47:39 GMT | GenAI for Good: The Ascendion Approach to Empowering People and Machines - Ascendion | Ascendion | [Read More](https://medium.com/p/ab17f6dfea8b) |
+| Wed, 11 Feb 2026 07:44:49 GMT | The Significance of Collaboration and Connections in Improving Workplace Productivity - Ascendion | Ascendion | [Read More](https://medium.com/p/8a3b2037a180) |
+| Wed, 11 Feb 2026 07:44:13 GMT | Step-by-Step Guide to Implementing OneLake in Microsoft Fabric | Alex s | [Read More](https://medium.com/p/f58f94bc084f) |
 | Wed, 11 Feb 2026 07:42:44 GMT | Continuous Monitoring and Real-Time Insights: The Competitive Advantage of ServiceNow GRC | Alex s | [Read More](https://medium.com/p/eb75c9ec544e) |
 | Wed, 11 Feb 2026 07:41:43 GMT | Advanced Pandas Optimization: Avoiding Slow Operations | Majidbasharat | [Read More](https://medium.com/p/593f8f122078) |
 | Wed, 11 Feb 2026 07:40:11 GMT | Bug Bounty Hunters: Here’s Why You Still Haven’t Found a Valid Bug | Vivek PS | [Read More](https://medium.com/p/ece4b3588c4e) |
@@ -94,23 +114,3 @@ Category: Web Exploitation | Damian Robert Moore | [Read More](https://medium.co
 | Tue, 10 Feb 2026 23:13:02 GMT | Dark Web Leak Signals: How SOC Teams Can Detect the Next Ransomware Wave Before It Hits | Regan Temudo | [Read More](https://medium.com/p/c52be8d70409) |
 | Tue, 10 Feb 2026 23:08:46 GMT | We didn’t learn the right lesson from Eastern Europe, and it could cost us in the Indo-Pacific | Sean A Maxfield | [Read More](https://medium.com/p/c7b679556c2a) |
 | Tue, 10 Feb 2026 23:08:19 GMT | How Hackers Target Your Phone and Wi-Fi | Shahzaib | [Read More](https://medium.com/p/0dc8214daef5) |
-| Tue, 10 Feb 2026 23:04:46 GMT | Effective Dorking Tools | loyalonlytoday | [Read More](https://medium.com/p/3f0ea18e2c0d) |
-| Tue, 10 Feb 2026 23:04:21 GMT | What Nobody Teaches You About Detection Engineering | Siddhant Mishra | [Read More](https://medium.com/p/31f4bdb1f3d7) |
-| Tue, 10 Feb 2026 23:03:17 GMT | Depth | Kelz | [Read More](https://medium.com/p/2a236502147e) |
-| Tue, 10 Feb 2026 23:02:45 GMT | Academic research tools-OSINT | loyalonlytoday | [Read More](https://medium.com/p/2bc47277144e) |
-| Tue, 10 Feb 2026 23:02:20 GMT | Hack AWS Like a Pro: Pacu Reveals Every Hidden Weakness! | cybrNK | [Read More](https://medium.com/p/b08c8fba8024) |
-| Tue, 10 Feb 2026 22:38:04 GMT | Google, Yandex, DuckDuckGo, or Bing? Who’s the most transparent? | Snooptsz | [Read More](https://medium.com/p/af41d31756ee) |
-| Tue, 10 Feb 2026 22:32:47 GMT | Development, Pentesting, and Hardening of a Dockerized Web Application | Wiame El Ouahabi | [Read More](https://medium.com/p/17e4a1d34f11) |
-| Tue, 10 Feb 2026 22:30:25 GMT | Anomaly Detection for finding bad guys: Promises and Pitfalls, and a way forward | Joshua Neil | [Read More](https://medium.com/p/f618290f21ac) |
-| Tue, 10 Feb 2026 22:26:27 GMT | Gotto Job  Running My First Real Scrum Sprint with Jira and Deploying to AWS EC2 | Chime Michael Tochukwu | [Read More](https://medium.com/p/8124039f4859) |
-| Tue, 10 Feb 2026 22:14:55 GMT | Can You Hack a Dead DVR? | Aaronjjose | [Read More](https://medium.com/p/29348f247a68) |
-| Tue, 10 Feb 2026 22:13:48 GMT | DNS and DHCP — aarononit.blogspot.com | Aaron DeJong | [Read More](https://medium.com/p/93a8c7ab6767) |
-| Tue, 10 Feb 2026 22:09:32 GMT | A Moment to Reflect | Novita Eka Lestari | [Read More](https://medium.com/p/8b0d89e48a19) |
-| Tue, 10 Feb 2026 22:01:26 GMT | When the Heart Is Ready, but the Hands Still Pause | Habil Lokadjaja CFP | [Read More](https://medium.com/p/7b3ec40d1af7) |
-| Tue, 10 Feb 2026 22:01:00 GMT | Unfiltered Restart — Day 0: Hello Profs. Dion and Messer | Maximillian Rueda | [Read More](https://medium.com/p/afeb25ab7c37) |
-| Tue, 10 Feb 2026 21:58:21 GMT | From Theory to Exploitation: A Deep Dive into SQL Injection Attacks | Sriman kundu | [Read More](https://medium.com/p/3b9be926649b) |
-| Tue, 10 Feb 2026 21:54:43 GMT | Weaponizing PPL for Process Immortality | S12 - 0x12Dark Development | [Read More](https://medium.com/p/a647832fd5a1) |
-| Tue, 10 Feb 2026 21:36:19 GMT | An OPSEC Mistake That Almost Burned an Entire Operation | X7r3M9 | [Read More](https://medium.com/p/7a809d454187) |
-| Tue, 10 Feb 2026 21:31:44 GMT | Femwar Ransomware on VMware: Digital Necromancy for the Damned ( Bringing VMs Back from the Dead) | Giulio Librando | [Read More](https://medium.com/p/d6696b64ed40) |
-| Tue, 10 Feb 2026 21:30:54 GMT | Exploiting Branch Wildcards in OIDC Trust Policies | Sadi Zane | [Read More](https://medium.com/p/51bd4e9a1e37) |
-| Tue, 10 Feb 2026 21:24:00 GMT | mustacchio writeup (TryHackMe) | 7s26Simon | [Read More](https://medium.com/p/7d8351760914) |
