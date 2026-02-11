@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Feb 2026 09:42:53 GMT | Is SIEM Dead? What It Really Looks Like in 2026 | NetWitness | [Read More](https://medium.com/p/2a01648d3da8) |
+| Wed, 11 Feb 2026 09:40:38 GMT | GoGreen Security Introduces Advanced Healthcare Facility Access & Vendor Compliance Use-Case… | Green Security | [Read More](https://medium.com/p/5301bb21840f) |
+| Wed, 11 Feb 2026 09:38:22 GMT | King Gate Secure Live Monitoring Service | Kgatesecure | [Read More](https://medium.com/p/9574744fa424) |
+| Wed, 11 Feb 2026 09:36:51 GMT | Hire N8N Developers to Build Smart, Scalable Automation Workflows | n8ndevelopers | [Read More](https://medium.com/p/e33eeed328cc) |
+| Wed, 11 Feb 2026 09:33:16 GMT | Passive Reconnaissance Analysis of paulstamatiou.com: A Detailed OSINT Assessment | Hem Nikesh Gabhawala | [Read More](https://medium.com/p/31757936fe66) |
+| Wed, 11 Feb 2026 09:32:05 GMT | Insecure Design: Response header poisoning leading to account takeover | Silas Bamidele | [Read More](https://medium.com/p/9ec745c26b42) |
+| Wed, 11 Feb 2026 09:26:04 GMT | JAVASCRIPT Vulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/6dc9e4b8c5f5) |
+| Wed, 11 Feb 2026 09:18:44 GMT | Windows Notepad’te Bulunan Kritik Güvenlik Açığı (RCE) — Ne Oldu? | Hasancangozgec | [Read More](https://medium.com/p/08c032360f80) |
+| Wed, 11 Feb 2026 09:08:29 GMT | N8n’s “quiet” RCE problem | Exploit The Edge | [Read More](https://medium.com/p/72ee2f0f34ce) |
+| Wed, 11 Feb 2026 09:07:20 GMT | VulnLab: Broken Authentication Çözümü | CyberSam | [Read More](https://medium.com/p/53b6af71b8bf) |
+| Wed, 11 Feb 2026 09:04:12 GMT | KeyleSSH: A PAM With No Single Point of Vulnerability | Tide Foundation | [Read More](https://medium.com/p/356794a8c894) |
+| Wed, 11 Feb 2026 09:04:12 GMT | No, MIT Did Not Break the No-Cloning Theorem — And Their Paper Actually Validates My Quantum… | Berend Watchus | [Read More](https://medium.com/p/a5641ec4bd11) |
+| Wed, 11 Feb 2026 09:02:24 GMT | Choosing the right “SQL flavour” on Azure | Radu Vunvulea | [Read More](https://medium.com/p/d820a4efe772) |
+| Wed, 11 Feb 2026 09:01:13 GMT | I Turned One Leaked Password Into Full Admin Access: A Bug Bounty Walkthrough | Alexandre Vandamme | [Read More](https://medium.com/p/7564e0cd9119) |
+| Wed, 11 Feb 2026 09:00:52 GMT | Cybersecurity Awareness in NGOs and Government:
+Strengthening Digital Resilience in the Era of… | Joe Mungai | [Read More](https://medium.com/p/646372d8672e) |
+| Wed, 11 Feb 2026 08:54:36 GMT | Recon Before You Hack: Web Application Reconnaissance Basics | Redfox Security | [Read More](https://medium.com/p/80c87e256f38) |
 | Wed, 11 Feb 2026 08:40:47 GMT | Software Security: What It Means and Why It’s an Engineering Problem | VisionX Technologies | [Read More](https://medium.com/p/31c17460a7f9) |
 | Wed, 11 Feb 2026 08:37:41 GMT | AI Cyber Reading Group | Kevin O'Shaughnessy | [Read More](https://medium.com/p/2bf6f9b74388) |
 | Wed, 11 Feb 2026 08:36:00 GMT | 6 Hidden Problems With Java’s Default Serialization | Ujjawal Rohra | [Read More](https://medium.com/p/ff443d701b1a) |
@@ -98,19 +115,3 @@ Category: Web Exploitation | Damian Robert Moore | [Read More](https://medium.co
 | Wed, 11 Feb 2026 02:24:06 GMT | File Integrity Monitoring: The Silent Guardian of Your Systems | Shubham Khirwadkar | [Read More](https://medium.com/p/4cd6350ebbc5) |
 | Wed, 11 Feb 2026 02:23:07 GMT | AI in Higher Education: A Practical Guide for Academic Managers | Tiffany Lynch | [Read More](https://medium.com/p/e217d9e3c972) |
 | Wed, 11 Feb 2026 02:16:48 GMT | Even Realities Threatened to Brick My Device | Wearableowner | [Read More](https://medium.com/p/08d02aada448) |
-| Wed, 11 Feb 2026 02:11:58 GMT | Your Digital Life Deserves Better: A Complete Guide to Cybersecurity Essentials | Anubhav_bora | [Read More](https://medium.com/p/eec657fd9ec0) |
-| Wed, 11 Feb 2026 02:11:00 GMT | How To Hack Part 3 | Red | [Read More](https://medium.com/p/7d4713ad00ee) |
-| Wed, 11 Feb 2026 02:02:49 GMT | Liars Won’t Win in AI: Receipts, Logs, and Proof That Holds | James Kuhman | [Read More](https://medium.com/p/5932c9faa498) |
-| Wed, 11 Feb 2026 01:45:36 GMT | Evil Twin Attacks: A Complete Guide to Prevention and Safety | Raviteja Mureboina | [Read More](https://medium.com/p/c9dffaeaa8d5) |
-| Wed, 11 Feb 2026 01:30:47 GMT | Your PDFs Should Not Have to Leave Your Laptop to Get Things Done | Ilyas Khan | [Read More](https://medium.com/p/1dca12853fba) |
-| Wed, 11 Feb 2026 01:25:17 GMT | Firewall and IDS/IPS: Hard Lab — HackTheBox | William Shively | [Read More](https://medium.com/p/8e54d1fe52a6) |
-| Wed, 11 Feb 2026 00:01:01 GMT | Guide to HTTP Status Codes for Bug Bounty and Pentesting | JPablo13 | [Read More](https://medium.com/p/1218b04ad3c4) |
-| Wed, 11 Feb 2026 00:00:01 GMT | AI Agents Have Root Access to Your Machine — And Nobody’s Watching | Gzxuexi | [Read More](https://medium.com/p/9965606176a4) |
-| Tue, 10 Feb 2026 23:53:27 GMT | NOTICE: Date/Time Normalization Maintenance of Historical CVE Records to Occur February 16–25, 2026 | CVE Program Blog | [Read More](https://medium.com/p/e1067ee15905) |
-| Tue, 10 Feb 2026 23:48:56 GMT | Uncategorized | Private-hackers.com | [Read More](https://medium.com/p/32ebb6890737) |
-| Tue, 10 Feb 2026 23:41:15 GMT | The H2E Industrial Ecosystem: Engineering Accountable Agency for Global Crises | Frank Morales Aguilera | [Read More](https://medium.com/p/a66d52513a16) |
-| Tue, 10 Feb 2026 23:39:31 GMT | Cybersecurity 101: An easy introduction to cybersecurity | Secure Tech Lab | [Read More](https://medium.com/p/099db074d06c) |
-| Tue, 10 Feb 2026 23:14:17 GMT | Introducing ExecEvasion: Understanding Execution Evasion Beyond Simple Filters | Sid Joshi | [Read More](https://medium.com/p/5b5c1411e89e) |
-| Tue, 10 Feb 2026 23:13:02 GMT | Dark Web Leak Signals: How SOC Teams Can Detect the Next Ransomware Wave Before It Hits | Regan Temudo | [Read More](https://medium.com/p/c52be8d70409) |
-| Tue, 10 Feb 2026 23:08:46 GMT | We didn’t learn the right lesson from Eastern Europe, and it could cost us in the Indo-Pacific | Sean A Maxfield | [Read More](https://medium.com/p/c7b679556c2a) |
-| Tue, 10 Feb 2026 23:08:19 GMT | How Hackers Target Your Phone and Wi-Fi | Shahzaib | [Read More](https://medium.com/p/0dc8214daef5) |
