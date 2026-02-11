@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Feb 2026 20:55:40 GMT | The 2026 Resilience Gap: Why AI Adoption is Your Biggest Security Liability | Megandavis | [Read More](https://medium.com/p/87a28fa067e4) |
+| Wed, 11 Feb 2026 20:55:07 GMT | Tüm Hatlarıyla SSRF Zafiyeti | Zekikayaalp | [Read More](https://medium.com/p/c33009e8ce47) |
+| Wed, 11 Feb 2026 20:52:28 GMT | PWNAGOTCHI — BUILD WITH Us (with Video demo) | Satyam Pathania | [Read More](https://medium.com/p/e3ee62c60c50) |
+| Wed, 11 Feb 2026 20:47:21 GMT | Introduction to SIEM and Wazuh: Architecture, Components & Why It Matters | PriOFF | [Read More](https://medium.com/p/8f29d30c9f70) |
+| Wed, 11 Feb 2026 20:28:54 GMT | AI Cybersecurity Landscape 2026 | Rajat Dangi ️ | [Read More](https://medium.com/p/e5c96aeeaf15) |
+| Wed, 11 Feb 2026 20:28:00 GMT | Europe’s Central Stress Test: The Rise, Fracture, and Afterlife of the V4 (Part 1) | Josephine Schwab | [Read More](https://medium.com/p/46428b3e3f23) |
+| Wed, 11 Feb 2026 20:26:27 GMT | THE HUNTING GROUND | O. J. Okpabi | [Read More](https://medium.com/p/6e9601aea36a) |
+| Wed, 11 Feb 2026 20:24:16 GMT | The Caliph’s Post: How Letters, Intelligence, and News Traveled Across an Empire | History Of Muslims | [Read More](https://medium.com/p/915865f44bed) |
+| Wed, 11 Feb 2026 20:22:32 GMT | Try Hack Me- Mindgames CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/c11ee3870bf2) |
+| Wed, 11 Feb 2026 20:19:57 GMT | Hands-On Intrusion Detection: Implementing Snort 3 and Detecting Nmap Scans | Azad Sleigher | [Read More](https://medium.com/p/f3d45cc77c2a) |
+| Wed, 11 Feb 2026 20:19:13 GMT | Analyzing Web Application Firewalls (WAFs) with Wafw00f and Nmap | MainEkHacker | [Read More](https://medium.com/p/14380bcd2548) |
+| Wed, 11 Feb 2026 20:18:34 GMT | Introduction to Web Fundamentals | Aj | [Read More](https://medium.com/p/f34a8d9589c0) |
+| Wed, 11 Feb 2026 20:04:47 GMT | LetsDefend SOC ALert “SOC335 — CVE-2024–49138 Exploitation Detected” | EduKayky | [Read More](https://medium.com/p/05fe506fc78d) |
+| Wed, 11 Feb 2026 20:00:53 GMT | The DigiNotar Autopsy: How the Chain of Trust Collapsed and How to Fortify Your Infrastructure | The Kernel Hub | [Read More](https://medium.com/p/f7577219e906) |
 | Wed, 11 Feb 2026 19:53:53 GMT | I Used My Real Password on 3 Sites — Here’s What Happened | Liam | [Read More](https://medium.com/p/9d803ce72a50) |
 | Wed, 11 Feb 2026 19:50:35 GMT | Siber Güvenliğe Giriş: Security+ Sınav Sürecim ve Tavsiyelerim | CyberFuFu | [Read More](https://medium.com/p/a93ec3543def) |
 | Wed, 11 Feb 2026 19:45:23 GMT | the paradox of vulnerability | Just_In_Time | [Read More](https://medium.com/p/e51311ce5fda) |
@@ -100,17 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Feb 2026 14:31:01 GMT | The Experience Trap:
 Why Your 10+ Years Career
 Might Be Failing You Now | Shubham Verma | [Read More](https://medium.com/p/657bbd7639d6) |
-| Wed, 11 Feb 2026 14:30:16 GMT | I Asked ChatGPT to Bypass an XSS Filter — Here’s What Happened | Ibrahim | [Read More](https://medium.com/p/ed2244e24e1f) |
-| Wed, 11 Feb 2026 14:21:00 GMT | Recruiting and Retaining Top Security Talent in a Competitive Market | Keith Fowler | [Read More](https://medium.com/p/769e2a9080f6) |
-| Wed, 11 Feb 2026 14:20:34 GMT | The Art of Coming Back from the Dead: A Guide to Cloud Disaster Recovery | Dhanush N | [Read More](https://medium.com/p/af3ff497b7c4) |
-| Wed, 11 Feb 2026 14:16:19 GMT | The Right Time to Enter Privacy & AI Compliance Is Now | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/6e3bf784b845) |
-| Wed, 11 Feb 2026 14:16:01 GMT | Securing File Uploads: A Comprehensive Guide for Developers | Parin Patel | [Read More](https://medium.com/p/10362883ff4d) |
-| Wed, 11 Feb 2026 14:12:36 GMT | GoHighLevel Voice AI: How AI Calls Are Revolutionizing Lead Conversions in 2026 | GHL Savvy | [Read More](https://medium.com/p/533a7907f19e) |
-| Wed, 11 Feb 2026 14:11:41 GMT | The Hidden Data Residency Problem in Prompt Caching | Michael Hannecke | [Read More](https://medium.com/p/f99e6207451e) |
-| Wed, 11 Feb 2026 14:11:32 GMT | i Learned to Hate Myself Because the World Was Watching | ayyyaaa | [Read More](https://medium.com/p/9a1f2df1b6f9) |
-| Wed, 11 Feb 2026 14:10:09 GMT | Bypassing Cloud Firewalls: Turning PostgreSQL into an Internal Port Scanner | Anas Diab | [Read More](https://medium.com/p/4797a7adf0c6) |
-| Wed, 11 Feb 2026 14:03:41 GMT | How Does OWASP Test Website Security? Here’s the Basics | Habibi | [Read More](https://medium.com/p/e6074e579e97) |
-| Wed, 11 Feb 2026 14:02:25 GMT | The Obsolescence of Static Security: Leveraging AI Duels for Cyber-Resilience | Juarez Cunha | [Read More](https://medium.com/p/8961b4a479cd) |
-| Wed, 11 Feb 2026 14:01:03 GMT | The Safety Layer Hiding in Plain Sight | Vectorlane | [Read More](https://medium.com/p/3bd85f381bfc) |
-| Wed, 11 Feb 2026 14:00:19 GMT | Types of Cyber Attacks Every Beginner Should Understand | Jenish Maharjan | [Read More](https://medium.com/p/973dc302d699) |
-| Wed, 11 Feb 2026 13:58:46 GMT | Securing Retrieval-Augmented Generation in Production Systems | Mohsin Khan | [Read More](https://medium.com/p/330d72ca5260) |
