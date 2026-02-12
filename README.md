@@ -12,8 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Feb 2026 16:50:28 GMT | Windows CLI Basics · TryHackMe | RosanaFSS | [Read More](https://medium.com/p/34b8afc7102b) |
+| Thu, 12 Feb 2026 16:45:22 GMT | Resilience-First Architecture: Prioritizing Response Over Prevention | Digital Defense | [Read More](https://medium.com/p/e44bcd1a576c) |
+| Thu, 12 Feb 2026 16:42:17 GMT | Alert Clustering Algorithms: The Art of Understanding SOC Noise | Esra Kayhan | [Read More](https://medium.com/p/aadef0dc1b7c) |
+| Thu, 12 Feb 2026 16:34:43 GMT | 4.0: HTTP Host Header Vulnerabilities: Password Reset Poisoning using Dangling Markup Vulnerability. | Bazil Brohi | [Read More](https://medium.com/p/5bb932d607bf) |
+| Thu, 12 Feb 2026 16:33:49 GMT | Stop Typing Your Password at Boot: TPM Encryption Auto-Unlock on Fedora | Illya Yalovoy | [Read More](https://medium.com/p/99eb0b06defd) |
+| Thu, 12 Feb 2026 16:33:08 GMT | ZeroDayRAT: The Commercial Spyware Kit Turning Every Smartphone into a Target. | eL Njas!™ | [Read More](https://medium.com/p/4c21c9539aa1) |
+| Thu, 12 Feb 2026 16:31:32 GMT | Hire a Hacker: The Complete Guide to Ethical, Safe & Legal Services | Trythat | [Read More](https://medium.com/p/3463e9399912) |
+| Thu, 12 Feb 2026 16:29:14 GMT | easy_temp Challenge Write-up — Cypertalants | Z3DX | [Read More](https://medium.com/p/868aa1b97816) |
+| Thu, 12 Feb 2026 16:23:52 GMT | The Day I Stopped Drifting | Armaan Nain | [Read More](https://medium.com/p/94bddbf3437e) |
+| Thu, 12 Feb 2026 16:20:52 GMT | An Open Letter to Those Who Feel Heavy, Vulnerable, or Overwhelmed | Digital Office at Home with Marian LaSalle | [Read More](https://medium.com/p/783bae478583) |
+| Thu, 12 Feb 2026 16:17:33 GMT | A Step-by-Step Process to Hire a Security Guard Company in Arcadia | Reliable Security Services Blog | [Read More](https://medium.com/p/d41b166e2625) |
+| Thu, 12 Feb 2026 16:15:10 GMT | MoneyBox - VulnHub Walkthrough by Arjun C U | Arjun c u | [Read More](https://medium.com/p/ee80791a841f) |
+| Thu, 12 Feb 2026 16:06:48 GMT | what is python? | Kevin Ronex | [Read More](https://medium.com/p/56920c5932cd) |
+| Thu, 12 Feb 2026 16:06:05 GMT | The Unexpected Tech Boom: Why Cybersecurity is Exploding in Altadena, CA (2026) | Shanker Goud | [Read More](https://medium.com/p/471ca0db63a9) |
+| Thu, 12 Feb 2026 16:01:02 GMT | Immutable Linux Distros: How They Differ and Where They’re Going | Can Artuc | [Read More](https://medium.com/p/57b14b630f7b) |
+| Thu, 12 Feb 2026 15:54:29 GMT | Security Analysis & Protocol Enhancement Proposals for GenLayer Intelligent Contracts | iwoxbt | [Read More](https://medium.com/p/5b206247e9c8) |
 | Thu, 12 Feb 2026 15:50:37 GMT | WebSocket Penetration Testing: How to Test for WebSocket Hijacking, IDOR, Injection & More | Assassin | [Read More](https://medium.com/p/b2fe9676da07) |
 | Thu, 12 Feb 2026 15:48:04 GMT | The Power of Manual Exploration: How I Earned €300 by Digging Deeper | DOD cyber solutions | [Read More](https://medium.com/p/3033f802d5fa) |
+| Thu, 12 Feb 2026 15:46:00 GMT | ClickFix to Linked-Device Takeovers: Will Star Blizzard Introduce a New Initial-Access Vector by… | Wes Young | [Read More](https://medium.com/p/28936a492379) |
 | Thu, 12 Feb 2026 15:45:44 GMT | Red Teaming in Cyber Security: Thinking Like the Adversary | Cynox Security LLP. | [Read More](https://medium.com/p/e6ba3899e5ca) |
 | Thu, 12 Feb 2026 15:43:47 GMT | Expanding React2Shell for Serverless Lambda Function | Matthew Keeley | [Read More](https://medium.com/p/647de21722b4) |
 | Thu, 12 Feb 2026 15:33:24 GMT | Global Cyber Champion 2025–2026 CTF- Tangled Challenge | 0xMekawy | [Read More](https://medium.com/p/0dd2bebafe94) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Feb 2026 10:42:15 GMT | TryHackMe OWASP Top 10 2025: Application Design Flaws | Ufuk Yaman | [Read More](https://medium.com/p/fddd33eb0b43) |
 | Thu, 12 Feb 2026 10:40:42 GMT | Automatic Boom Barrier — Reliable Vehicle Entry Control by Etradefia | Etradefia | [Read More](https://medium.com/p/8f835839c1ef) |
 | Thu, 12 Feb 2026 10:34:46 GMT | PicoCTF Easy level — Forensics category Part 1. | Aqilah Syaima' Fadel | [Read More](https://medium.com/p/321322200396) |
-| Thu, 12 Feb 2026 10:28:12 GMT | NMAP | Sakarya Üniversitesi Siber Güvenlik Topluluğu | [Read More](https://medium.com/p/d69d42eed335) |
-| Thu, 12 Feb 2026 10:24:15 GMT | The Privileged Access Paradox | Steve Anderson | [Read More](https://medium.com/p/460d0f9a0afe) |
-| Thu, 12 Feb 2026 10:21:12 GMT | My Learning Experience with Ethical Wi-Fi Security Testing Using Kali Linux | Khadija Azam | [Read More](https://medium.com/p/1b5b49e44bab) |
-| Thu, 12 Feb 2026 10:20:55 GMT | The Poisoned Well: How AI Supply Chains Became the New Attack Vector | Kaynat Muzaffar | [Read More](https://medium.com/p/844df1ca4b05) |
-| Thu, 12 Feb 2026 10:18:24 GMT | Google Just Sounded the Alarm: Why the "Quantum Apocalypse" Is Already Here | CrypticWhale | [Read More](https://medium.com/p/ac06057b61de) |
-| Thu, 12 Feb 2026 10:16:39 GMT | Top-Rated Python Course in Delhi with Placement Assistance | cyber security Updates | [Read More](https://medium.com/p/5a9a90bf86b9) |
-| Thu, 12 Feb 2026 10:10:04 GMT | The Final Leap: Wrapping up with Coding, Careers, and AI | Sanya Sachdeva | [Read More](https://medium.com/p/de5d930a630a) |
-| Thu, 12 Feb 2026 10:09:21 GMT | How to Protect Your iGaming Business From Cyber Threats | SolveByte | [Read More](https://medium.com/p/2baf70e132f8) |
-| Thu, 12 Feb 2026 10:05:21 GMT | Android Broadcast Receivers: A Gateway for Malware Attacks | Ruslan Mirza | [Read More](https://medium.com/p/336e4ab0de75) |
-| Thu, 12 Feb 2026 10:05:21 GMT | Trial Lawyer Claims Meta and YouTube Engineered Addiction in Children | Get info support | [Read More](https://medium.com/p/af91322f85b1) |
-| Thu, 12 Feb 2026 10:03:27 GMT | Wireshark Traffic Analysis: Cleartext Credentials & Firewall Rules | Citadel Cybersec | [Read More](https://medium.com/p/3eb7020dd131) |
-| Thu, 12 Feb 2026 09:52:33 GMT | Information Technology (IT) Market Overview 2026–2035 | Shivanshpatil | [Read More](https://medium.com/p/e2801f46e67d) |
-| Thu, 12 Feb 2026 09:47:52 GMT | CorePass ID einrichten & bei Ping Exchange registrieren — Die komplette… | Tell Me More About Core | [Read More](https://medium.com/p/fddcfca7b75b) |
-| Thu, 12 Feb 2026 09:42:27 GMT | Does a VUCAE-World lead into Mass Unemployment by Design? | Timo Toivonen | [Read More](https://medium.com/p/8c8ecd282a51) |
-| Thu, 12 Feb 2026 09:40:06 GMT | Why Every Smart Home in 2026 Needs a Mobile-Enabled Video Door Phone | Discreet solution Pvt ltd | [Read More](https://medium.com/p/3ad18675d509) |
-| Thu, 12 Feb 2026 09:39:56 GMT | Statik Kod Analiz Metadolojisi ve Güvenlik Stratejileri | suna ayaz | [Read More](https://medium.com/p/50f117284af5) |
-| Thu, 12 Feb 2026 09:37:39 GMT | Deception Technology Solutions: AI, Threat Detection, and Market Leaders | Michel mathew | [Read More](https://medium.com/p/0bfbaaac1737) |
