@@ -12,6 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Feb 2026 07:25:51 GMT | Readers Don’t Want Palatable — They Want Blood | Lisa Jordan | [Read More](https://medium.com/p/47f7cebe8e57) |
+| Thu, 12 Feb 2026 07:18:45 GMT | How to Secure Customer Data in IoT-Enabled Retail Systems | HashStudioz Technologies | [Read More](https://medium.com/p/03106827333b) |
+| Thu, 12 Feb 2026 07:18:36 GMT | How I Hide Secret Information Inside an Image | Frost | [Read More](https://medium.com/p/470fd1befa72) |
+| Thu, 12 Feb 2026 07:18:26 GMT | DeFi Security in 2026: AI Is No Longer Optional — It’s Your First Line of Defense | Tryzub_X | [Read More](https://medium.com/p/bd992209faab) |
+| Thu, 12 Feb 2026 07:15:33 GMT | Beyond Google & Apple: Why Your Identity Needs Quantum-Resistant Sovereignty | Quantarium | [Read More](https://medium.com/p/43f2ba0c9741) |
+| Thu, 12 Feb 2026 07:15:31 GMT | What Happened at BBS College During HackSecure 2026? | Ankit rai | [Read More](https://medium.com/p/01d3012da602) |
+| Thu, 12 Feb 2026 07:08:22 GMT | What is Cyber Security and Why is It Important? | Ntech Global Solutions | [Read More](https://medium.com/p/f6da574a1a36) |
+| Thu, 12 Feb 2026 07:05:54 GMT | What Are the Best Cybersecurity Practices to Secure Remote Workers in 2026? | keyTrackr | [Read More](https://medium.com/p/ce3beb08a207) |
+| Thu, 12 Feb 2026 07:05:00 GMT | You create a sensation | Terrynn Johnson-Franklin | [Read More](https://medium.com/p/be55c9aee135) |
+| Thu, 12 Feb 2026 07:02:25 GMT | Designing a secure LLM API | Bikash Shukla | [Read More](https://medium.com/p/73c2ec6d8570) |
+| Thu, 12 Feb 2026 07:01:01 GMT | Attack Frameworks vs Assessment Frameworks: Recipes, Not Just Flavors | the CyberStoic | [Read More](https://medium.com/p/a3793ecb8b57) |
+| Thu, 12 Feb 2026 07:01:01 GMT | 3 Must-Have Tools Every CISO Needs in 2026 (And Why One Is a Game-Changer for Staying Ahead of AI… | Cyber Threat Intelligence Analyst | [Read More](https://medium.com/p/4163bea7b21e) |
+| Thu, 12 Feb 2026 06:59:05 GMT | Firefox API hooking | David E Lares S | [Read More](https://medium.com/p/44e09ca644b5) |
+| Thu, 12 Feb 2026 06:55:11 GMT | Top 10 Tools For Red Teaming | Priyanka | [Read More](https://medium.com/p/1ce45ea9d68b) |
+| Thu, 12 Feb 2026 06:51:17 GMT | Why Python Is Important for Cyber Security? | H Sultan | [Read More](https://medium.com/p/99c137824973) |
+| Thu, 12 Feb 2026 06:37:26 GMT | Designing a Secure LLM API: Architecture and Threat Modeling | Bikash Shukla | [Read More](https://medium.com/p/f5fd1e3ddfd8) |
+| Thu, 12 Feb 2026 06:32:16 GMT | CYBERDUDEBIVASH RANSOMWARE DEFENSE SERVICE — THE 2026 SURVIVAL GUIDE | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/fa6107c26b27) |
+| Thu, 12 Feb 2026 06:31:04 GMT | CyberDudeBivash Premium Threat Intel Report — February 11, 2026 - Zero-Days • Breaches • Malware | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/494bc20e1e7f) |
+| Thu, 12 Feb 2026 06:31:01 GMT | Conditional Access Evasion Techniques | Ankita Sinha | [Read More](https://medium.com/p/9a7bdd54095b) |
+| Thu, 12 Feb 2026 06:27:43 GMT | Part 3: The Modern Recon Stack — The automation script | gopi krishnan | [Read More](https://medium.com/p/6aacbba06916) |
+| Thu, 12 Feb 2026 06:26:01 GMT | The Prompt Injection Mitigation Playbook | Dr. Shibichakravarthy Kannan, MBBS, PhD | [Read More](https://medium.com/p/bd725d73a7d8) |
+| Thu, 12 Feb 2026 06:20:53 GMT | Is Your WiFi Really Secure? | Dania Usman | [Read More](https://medium.com/p/2bfed0577b4c) |
+| Thu, 12 Feb 2026 06:16:59 GMT | And So It Begins: Data Privacy and Security | Adrian Labisores | [Read More](https://medium.com/p/c91fb7d71bae) |
+| Thu, 12 Feb 2026 06:05:31 GMT | Information Security vs Cybersecurity — Which Path Should You Take? | Eliana | [Read More](https://medium.com/p/6fe0eb388462) |
+| Thu, 12 Feb 2026 06:05:21 GMT | Cracking the Code: A Practical Deep Dive into WPA2 Wireless Security | Zainab Noor | [Read More](https://medium.com/p/48a968fbd151) |
 | Thu, 12 Feb 2026 06:01:01 GMT | Part 2: Turning Post Mortems into Bug Bounty Wins | Abraham | [Read More](https://medium.com/p/c7d73b545bed) |
 | Thu, 12 Feb 2026 05:59:47 GMT | OHsint | Arunpanicker | [Read More](https://medium.com/p/41fbbefb7e53) |
 | Thu, 12 Feb 2026 05:58:56 GMT | What Is a Product QR Code and Why Should You Use QR Code Stickers? | Unicube | [Read More](https://medium.com/p/9b60864d4513) |
@@ -87,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Feb 2026 22:03:22 GMT | Introductory Networking : TryHackMe | Hamza Iftikhar Bhatti | [Read More](https://medium.com/p/7a0e7bfddde9) |
 | Wed, 11 Feb 2026 22:01:26 GMT | Cracking WEP Encryption: Wireless Network Analysis with Wireshark and Aircrack-ng | Moez Ben-Azzouz | [Read More](https://medium.com/p/c9e89a2fdc91) |
 | Wed, 11 Feb 2026 22:01:00 GMT | Unfiltered Restart — Day 1: Navigating Wires | Maximillian Rueda | [Read More](https://medium.com/p/1d8cab38aa5e) |
-| Wed, 11 Feb 2026 21:55:37 GMT | How can my family access my crypto if I die, without me giving them my seed phrase now? | InheritSafe | [Read More](https://medium.com/p/78697ee7aab1) |
-| Wed, 11 Feb 2026 21:51:43 GMT | Condenado hasta el Último Aliento | Odysseus Resilient | [Read More](https://medium.com/p/a21fd3653c53) |
-| Wed, 11 Feb 2026 21:50:46 GMT | Can You Hack a Dead DVR? -Part 2 | Aaronjjose | [Read More](https://medium.com/p/19cae32db232) |
-| Wed, 11 Feb 2026 21:33:32 GMT | From YAML to RCE: The PyYAML Deserialization Story | Amr | [Read More](https://medium.com/p/4a7d1dfe4f43) |
-| Wed, 11 Feb 2026 21:31:25 GMT | Digital Footprint walkthrough (TryHackMe) | Crystalcascade14 | [Read More](https://medium.com/p/132deb49619a) |
-| Wed, 11 Feb 2026 21:31:01 GMT | When Encryption Fails, Institutions Are Exposed | André Afonso Silva | [Read More](https://medium.com/p/902cf3066f8f) |
-| Wed, 11 Feb 2026 21:30:01 GMT | MTTD & MTTR in the Modern SOC: From Reactive Monitoring to Measurable Resilience | Ilyess Sellami | [Read More](https://medium.com/p/31a432e617cf) |
-| Wed, 11 Feb 2026 21:29:23 GMT | Hands-On Lab: Simulating Threat Detection and Response with Sophos XDR | Youssef.JERIDI | [Read More](https://medium.com/p/279d7cc0df5e) |
-| Wed, 11 Feb 2026 21:17:52 GMT | I Asked AI the Untold Parts of OSINT | Snooptsz | [Read More](https://medium.com/p/139db405d642) |
-| Wed, 11 Feb 2026 21:13:14 GMT | 1,000 Canister Zone Challenge: Zone Ideas! | Maliah | [Read More](https://medium.com/p/c50ae28aaaba) |
-| Wed, 11 Feb 2026 21:13:04 GMT | Creating Your Own C2 (Command & Control ) | Youssef Said Thabet | [Read More](https://medium.com/p/2691485a5502) |
-| Wed, 11 Feb 2026 21:13:02 GMT | How I Decide a Tool Result Is Worth My Time | ghostyjoe | [Read More](https://medium.com/p/89505dac3c60) |
-| Wed, 11 Feb 2026 21:08:34 GMT | January 2026 Data Breach Roundup: Every Major Data Breaches | BreachHistory.com | [Read More](https://medium.com/p/1afbacd26e24) |
-| Wed, 11 Feb 2026 21:08:02 GMT | Cyber Risks That Trigger Regulatory Liability | Jemima Nanret Mwana | [Read More](https://medium.com/p/4bc780acb171) |
-| Wed, 11 Feb 2026 21:05:11 GMT | Ahrefs under phishing attack. Your tool might be too. | Efim Mirochnik | [Read More](https://medium.com/p/6b1c981c5e93) |
-| Wed, 11 Feb 2026 21:03:26 GMT | Wazuh and PFsense Integration. Also, agentless Splunk and PFsense integration. | Aadit Nair | [Read More](https://medium.com/p/09200143c223) |
-| Wed, 11 Feb 2026 21:01:01 GMT | The Silence Was Killing Me Faster Than the Grief | Farhad | [Read More](https://medium.com/p/0c91f9809c45) |
-| Wed, 11 Feb 2026 20:55:40 GMT | The 2026 Resilience Gap: Why AI Adoption is Your Biggest Security Liability | Megandavis | [Read More](https://medium.com/p/87a28fa067e4) |
-| Wed, 11 Feb 2026 20:55:07 GMT | Tüm Hatlarıyla SSRF Zafiyeti | Zekikayaalp | [Read More](https://medium.com/p/c33009e8ce47) |
-| Wed, 11 Feb 2026 20:52:28 GMT | PWNAGOTCHI — BUILD WITH Us (with Video demo) | Satyam Pathania | [Read More](https://medium.com/p/e3ee62c60c50) |
-| Wed, 11 Feb 2026 20:47:21 GMT | Introduction to SIEM and Wazuh: Architecture, Components & Why It Matters | PriOFF | [Read More](https://medium.com/p/8f29d30c9f70) |
-| Wed, 11 Feb 2026 20:28:54 GMT | AI Cybersecurity Landscape 2026 | Rajat Dangi ️ | [Read More](https://medium.com/p/e5c96aeeaf15) |
-| Wed, 11 Feb 2026 20:28:00 GMT | Europe’s Central Stress Test: The Rise, Fracture, and Afterlife of the V4 (Part 1) | Josephine Schwab | [Read More](https://medium.com/p/46428b3e3f23) |
-| Wed, 11 Feb 2026 20:26:27 GMT | THE HUNTING GROUND | O. J. Okpabi | [Read More](https://medium.com/p/6e9601aea36a) |
-| Wed, 11 Feb 2026 20:24:16 GMT | The Caliph’s Post: How Letters, Intelligence, and News Traveled Across an Empire | History Of Muslims | [Read More](https://medium.com/p/915865f44bed) |
