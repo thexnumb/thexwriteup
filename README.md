@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Feb 2026 02:25:25 GMT | Segurança na Web — Criando o laboratório de estudos | Beatriz Salles | [Read More](https://medium.com/p/e1cc2dd3c0f4) |
+| Thu, 12 Feb 2026 02:03:14 GMT | Understanding Catfish Scams | Chantima Boon | [Read More](https://medium.com/p/4861b7e51edb) |
+| Thu, 12 Feb 2026 01:47:12 GMT | The Role Reversal We Never Asked For | Swastika Goel Agnihotri | [Read More](https://medium.com/p/92bdbe7369eb) |
+| Thu, 12 Feb 2026 01:45:08 GMT | AI in Cybersecurity (Part 1): How AI Detects Modern Threats | Dipan | [Read More](https://medium.com/p/7912a8549846) |
+| Thu, 12 Feb 2026 01:35:08 GMT | Waspada “Fake CAPTCHA”: Analisis Cyber Kill Chain pada Serangan Lumma Stealer (Januari 2025) | RIFKY FIRDAUS | [Read More](https://medium.com/p/5b96a994f011) |
+| Thu, 12 Feb 2026 01:31:02 GMT | 7 Tooling Patterns That Make Agents Auditable by Design | Hash Block | [Read More](https://medium.com/p/8b11c2f07ae8) |
+| Thu, 12 Feb 2026 01:29:20 GMT | ️ AISecOps: The Discipline That Will Secure the Age of AI | Viplav Fauzdar | [Read More](https://medium.com/p/f75da5845214) |
+| Thu, 12 Feb 2026 01:21:24 GMT | WPScan: A Practical Guide to WordPress Security Testing | Neo Sec | [Read More](https://medium.com/p/f97313e7378d) |
+| Thu, 12 Feb 2026 01:08:23 GMT | How I Saved $500/Year on Subscriptions using Notion (Free Template) | Xiaomianyou | [Read More](https://medium.com/p/d819446758bc) |
+| Thu, 12 Feb 2026 01:01:57 GMT | Mathematical Formalisation of Enhanced Systemic Viability in Coalition Defence Systems | Alex Seizovic | [Read More](https://medium.com/p/400df3cd818d) |
+| Thu, 12 Feb 2026 00:59:58 GMT | Bounty Hacker - TryHackMe - CTF | s1lja | [Read More](https://medium.com/p/b8ad86849db1) |
+| Thu, 12 Feb 2026 00:54:42 GMT | Building a “Serverless” Cyber Threat Intelligence Feed with Python, GitHub Actions, and Gemini AI | Merve Güler | [Read More](https://medium.com/p/638209d79609) |
+| Thu, 12 Feb 2026 00:33:51 GMT | Deploying Scalable Storage: My Experience Setting Up AWS S3 | Abumavictor | [Read More](https://medium.com/p/01a2dd7f0681) |
+| Thu, 12 Feb 2026 00:31:01 GMT | How to Fix SSL Certificate Errors in Postman: Simple Step-by-Step Guide | Nikhil Goyal , DevSecOps | [Read More](https://medium.com/p/14d0ce6f6e7e) |
+| Thu, 12 Feb 2026 00:28:10 GMT | Moving to using passkeys from password | Techwizs | [Read More](https://medium.com/p/73dd902269d2) |
+| Thu, 12 Feb 2026 00:27:15 GMT | Deterministic State: Why Security Fails When State Becomes Ambiguous | sengom | [Read More](https://medium.com/p/dcf768ee6c0d) |
+| Thu, 12 Feb 2026 00:07:00 GMT | nmap project with a Kali Purple machine (attack) on Windows XP machine (target). #failsafe | Bob Malin | [Read More](https://medium.com/p/6c407680cbb9) |
+| Wed, 11 Feb 2026 23:59:41 GMT | Anyone With Gmail Could Read Kids’ AI Toy Chats. Let That Sink In. | Cyber-AppSec | [Read More](https://medium.com/p/52d1721fc92b) |
+| Wed, 11 Feb 2026 23:47:12 GMT | Somaliland at Risk: Turkey’s Militarization of Somalia Threatens Sovereignty | Faycal Ahmed | [Read More](https://medium.com/p/d5e85596f207) |
+| Wed, 11 Feb 2026 23:38:54 GMT | Proven Penetration Testing in Switzerland That Stop Cyber Attack. | Private-hackers.com | [Read More](https://medium.com/p/58b9c0717982) |
 | Wed, 11 Feb 2026 23:20:33 GMT | Credential Harvesting using SQL Map on a server with MySQL 5.0.51 on port 3306 - CVE-2006-2753 | Nifise | [Read More](https://medium.com/p/02729f77cc95) |
 | Wed, 11 Feb 2026 23:20:08 GMT | Cybersecurity for Open Source Developers | Kevin O'Shaughnessy | [Read More](https://medium.com/p/51372fa85fdb) |
 | Wed, 11 Feb 2026 23:09:59 GMT | Engineering a State‑Scale Digital Identity Platform: A Technical Case Study from Texas | RAJAT SHEORAN | [Read More](https://medium.com/p/0952dcbff0aa) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Feb 2026 18:19:49 GMT | eJPT Day 3: Active Information Gathering Using Nmap | getroot.dev | [Read More](https://medium.com/p/21a8a08dff57) |
 | Wed, 11 Feb 2026 18:19:04 GMT | How CVE-2026–24061 Grants Instant Root via Telnet | Muhammad Al-Khatib | [Read More](https://medium.com/p/ad49019572e6) |
 | Wed, 11 Feb 2026 17:56:14 GMT | How to Choose a Reliable Password Manager | Cybersectoworld | [Read More](https://medium.com/p/5466e7769eb2) |
-| Wed, 11 Feb 2026 17:46:27 GMT | Safari Surveillance: A Reflection on Seeing and Being Seen in Kruger National Park | Julie Terebkov | [Read More](https://medium.com/p/96fb46421e6d) |
-| Wed, 11 Feb 2026 17:46:00 GMT | How I Managed to Achieve Full Account Takeover on a 50Million+ Users Online Learning Platform… | Pakka0 | [Read More](https://medium.com/p/cd138069ff37) |
-| Wed, 11 Feb 2026 17:45:53 GMT | How I Hacked My Motorcycle to Create a New Dashboard | Ilian | [Read More](https://medium.com/p/181b18315bd0) |
-| Wed, 11 Feb 2026 17:31:05 GMT | Cybersecurity 2026 WARNING: AI Makes Every System Riskier | Shahzaib | [Read More](https://medium.com/p/8026ad9b1e48) |
-| Wed, 11 Feb 2026 17:21:12 GMT | See Finish Culture;The Bane of Modern Relationships. | Gozie_Nwa | [Read More](https://medium.com/p/27b6b7adb1c1) |
-| Wed, 11 Feb 2026 17:19:11 GMT | Cybernetics Remix— Maxxing and Remixxing | Mariette Papic | [Read More](https://medium.com/p/ed29d29f64c6) |
-| Wed, 11 Feb 2026 17:18:21 GMT | THE EXECUTIVE CYBERSECURITY BRIEF | H4SH95 | [Read More](https://medium.com/p/f9651e7f9eb3) |
-| Wed, 11 Feb 2026 17:14:42 GMT | Day 14: Wireshark Basics | Siddhesh Patil | [Read More](https://medium.com/p/73076abfbf38) |
-| Wed, 11 Feb 2026 17:12:28 GMT | 2FA bypass after fix via manually injecting “isVerifyAuth” cookie in local storage | Mahmoud Magdy | [Read More](https://medium.com/p/296664399696) |
-| Wed, 11 Feb 2026 17:12:13 GMT | How to build your cybersecurity home lab from scratch | h@shtalk | [Read More](https://medium.com/p/4ca594d53676) |
-| Wed, 11 Feb 2026 17:09:01 GMT | Why Laptop Battery Health Is Good but Drains Fast | Laptop Aura | [Read More](https://medium.com/p/c2b0a8bf0add) |
-| Wed, 11 Feb 2026 17:07:58 GMT | Learning Remote Access: Connecting Kali Linux to macOS with SSH | Gonzwald Jenkins | [Read More](https://medium.com/p/6037753d6763) |
-| Wed, 11 Feb 2026 17:00:07 GMT | SkyTower: The Full Root-Chain Walkthrough | Rithinkrishna | [Read More](https://medium.com/p/4f2fd526a1c8) |
-| Wed, 11 Feb 2026 16:59:57 GMT | File Upload Vulnerabilities: A Practical Methodology for Security Testing | N0aziXss | [Read More](https://medium.com/p/036f69fb1eb5) |
-| Wed, 11 Feb 2026 16:57:38 GMT | Weekly CP Series: Simple Techniques That Helped Me #1 | Zakaria Tabati | [Read More](https://medium.com/p/f05f2e328d25) |
-| Wed, 11 Feb 2026 16:51:48 GMT | Automating DAST Tests with Cypress and OWASP ZAP | Marcos Quintino | [Read More](https://medium.com/p/aa344f3860ce) |
-| Wed, 11 Feb 2026 16:51:21 GMT | TryHackMe - Windows Basics - WriteUp | Axoloth | [Read More](https://medium.com/p/dcbdf5936a73) |
-| Wed, 11 Feb 2026 16:48:23 GMT | JOB — HTB — WRITEUP | shehacks_ | [Read More](https://medium.com/p/9574cfbe5a5c) |
-| Wed, 11 Feb 2026 16:44:57 GMT | Instalasi Flutter SDK | Zurichsabil | [Read More](https://medium.com/p/c3d5ea1e2569) |
-| Wed, 11 Feb 2026 16:39:27 GMT | TryHackMe - Operating Systems: Introduction - WriteUp | Axoloth | [Read More](https://medium.com/p/5e544b5e4edf) |
