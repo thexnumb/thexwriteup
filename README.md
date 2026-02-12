@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Feb 2026 09:47:52 GMT | CorePass ID einrichten & bei Ping Exchange registrieren — Die komplette… | Tell Me More About Core | [Read More](https://medium.com/p/fddcfca7b75b) |
+| Thu, 12 Feb 2026 09:42:27 GMT | Does a VUCAE-World lead into Mass Unemployment by Design? | Timo Toivonen | [Read More](https://medium.com/p/8c8ecd282a51) |
+| Thu, 12 Feb 2026 09:40:06 GMT | Why Every Smart Home in 2026 Needs a Mobile-Enabled Video Door Phone | Discreet solution Pvt ltd | [Read More](https://medium.com/p/3ad18675d509) |
+| Thu, 12 Feb 2026 09:39:56 GMT | Statik Kod Analiz Metadolojisi ve Güvenlik Stratejileri | suna ayaz | [Read More](https://medium.com/p/50f117284af5) |
+| Thu, 12 Feb 2026 09:37:39 GMT | Deception Technology Solutions: AI, Threat Detection, and Market Leaders | Michel mathew | [Read More](https://medium.com/p/0bfbaaac1737) |
+| Thu, 12 Feb 2026 09:33:24 GMT | Contextual Analysis Techniques in SOC Operations: The Intelligence That Separates Alerts from… | Esra Kayhan | [Read More](https://medium.com/p/b058d744696e) |
+| Thu, 12 Feb 2026 09:33:09 GMT | Beyond the Cloud: 5 Surprising Truths About Modern Network Architecture | Anna Bejan | [Read More](https://medium.com/p/1b3c2e21c064) |
+| Thu, 12 Feb 2026 09:32:08 GMT | Finding HTML Injection Vulnerability Using Signup Functionality | Vrushalipagar | [Read More](https://medium.com/p/db3c701a90e0) |
+| Thu, 12 Feb 2026 09:29:53 GMT | ️ Phishing Attacks: How Hackers Trick You & How You Can Stay Safe | Yuvraj Tyagi | [Read More](https://medium.com/p/9a0154b450a1) |
+| Thu, 12 Feb 2026 09:29:08 GMT | 3.0: HTTP Host Header Vulnerabilities: Password Reset Poisoning Using Middleware HTTP Header | Bazil Brohi | [Read More](https://medium.com/p/a65f35ad9ae7) |
+| Thu, 12 Feb 2026 09:26:43 GMT | Vulnerability | Stephanie Chavez Alvarez | [Read More](https://medium.com/p/c0629babb55f) |
+| Thu, 12 Feb 2026 09:25:19 GMT | Apple Just Released iOS 26.3–37 Security Fixes and a Big Step Toward Android Users | Nanthakumar | [Read More](https://medium.com/p/59c5fb18ba8d) |
+| Thu, 12 Feb 2026 09:22:05 GMT | Why Most Digital Transformation Projects Fail (And How to Build Systems That Actually Last) | HyperVSolutions | [Read More](https://medium.com/p/d68eef3b1cf9) |
+| Thu, 12 Feb 2026 09:21:00 GMT | The 5 Most Valuable Credential Types Hidden in Stealer Logs | Alexandre Vandamme | [Read More](https://medium.com/p/b7c4d4548c5d) |
+| Thu, 12 Feb 2026 09:20:27 GMT | Why Businesses Need Electronic Security Solutions for Total Security Solutions | Ciss India | [Read More](https://medium.com/p/d1325c6fa5dc) |
+| Thu, 12 Feb 2026 09:17:21 GMT | The Logic Flaw That Leads to Total Control: Mastering Account Takeovers in 2026 | Krishna Kumar | [Read More](https://medium.com/p/aecef6d30bd9) |
+| Thu, 12 Feb 2026 09:15:52 GMT | Ethical Wi-Fi Security Testing Using Kali Linux | Hafsa Shahid | [Read More](https://medium.com/p/669f5c9ee0c3) |
+| Thu, 12 Feb 2026 09:03:55 GMT | Fix Windows Driver And Firmware Stability Safely | Geoffrey Wenger | [Read More](https://medium.com/p/9f9063c40acd) |
+| Thu, 12 Feb 2026 08:58:49 GMT | Why Your Private LLM Might Be Leaking Secrets (And How to Fix It) | Jason Sohn | [Read More](https://medium.com/p/16d6ca859122) |
+| Thu, 12 Feb 2026 08:56:09 GMT | Corporate WiFi Penetration Testing: Phase 1 - Initial Reconnaissance at ATS Hospital : A Real-World… | Tanmay Bhattacharjee | [Read More](https://medium.com/p/9b6b5c2d05eb) |
 | Thu, 12 Feb 2026 08:50:34 GMT | My roadmap to get a job as a SOC Analyst in 2026 | beginner6874 | [Read More](https://medium.com/p/cc37aaab2be4) |
 | Thu, 12 Feb 2026 08:43:02 GMT | I will write IT resume, technical resume, software engineering, linkedin optimization | Bettymatt | [Read More](https://medium.com/p/7f4df10fc5f8) |
 | Thu, 12 Feb 2026 08:42:45 GMT | Host & Network Penetration Testing: Post-Exploitation CTF 1 — INE | srthk | [Read More](https://medium.com/p/dc80969b5b64) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Feb 2026 04:42:50 GMT | Ketika “I’m Not a Robot” Jadi Awal Serangan: Membongkar Fake CAPTCHA dan Lumma Stealer | Ibnu Hibban | [Read More](https://medium.com/p/da09803bb7b1) |
 | Thu, 12 Feb 2026 04:42:09 GMT | Building a Static Malware Analyzer in Python: A Hands-On Guide | Adryan Prawira | [Read More](https://medium.com/p/6d9f27602b43) |
 | Thu, 12 Feb 2026 04:31:01 GMT | Top 5 API Security Mistakes Developers Still Make | Hasan Chinthaka | [Read More](https://medium.com/p/9b443ca486ce) |
-| Thu, 12 Feb 2026 04:19:20 GMT | Why Your 2025 Cloud Pentest is Probably Useless (Hint: It’s the AI) | Sujal Meghwal | [Read More](https://medium.com/p/328c5220aebb) |
-| Thu, 12 Feb 2026 04:05:24 GMT | Deploying a Secure, Highly Available Web Application on AWS: A Junior Cloud Engineer’s Journey | Agbo francis | [Read More](https://medium.com/p/6bb57a9e57cb) |
-| Thu, 12 Feb 2026 04:01:01 GMT | The 24-Hour Race: How a Microsoft Patch Became a Weapon | Manubhav Sharma | [Read More](https://medium.com/p/d2f333b87a6c) |
-| Thu, 12 Feb 2026 04:00:31 GMT | Guardian: An AI-Powered Penetration Testing Automation Platform | Tattva Tarang | [Read More](https://medium.com/p/6a3f3ba550ef) |
-| Thu, 12 Feb 2026 04:00:31 GMT | Tryhackme - Intro to Cross-site Scripting walkthrough | Encryptionakademy | [Read More](https://medium.com/p/62e895e8a6e2) |
-| Thu, 12 Feb 2026 03:59:14 GMT | Bug Bounty Masterclass —$90,000+ Real World Exploitation | Zabed Ullah Poyel | [Read More](https://medium.com/p/b7df5a36c148) |
-| Thu, 12 Feb 2026 03:57:54 GMT | A Guide to CIS Controls v8.1: Your Actionable Blueprint for Modern Cybersecurity | Jenny | [Read More](https://medium.com/p/401d6bfc86e1) |
-| Thu, 12 Feb 2026 03:53:52 GMT | The Myth about Forgiveness | Seth J | [Read More](https://medium.com/p/f4c0d02f6bdf) |
-| Thu, 12 Feb 2026 03:48:24 GMT | Cheat-Sheet to enumerate a Windows system directly from the command line without using tools | Fatimahasan | [Read More](https://medium.com/p/5f5b29a06109) |
-| Thu, 12 Feb 2026 03:46:01 GMT | Payment Bypass: When “Payment Successful” Was Just a Suggestion | Xp10it | [Read More](https://medium.com/p/262e3c52f470) |
-| Thu, 12 Feb 2026 03:43:21 GMT | Pakistan x Internet Computer: A Real Sovereign Cloud Signal | The Swop | [Read More](https://medium.com/p/91df839457d3) |
-| Thu, 12 Feb 2026 03:37:10 GMT | LetsDefend SOC246 — Forced Authentication Detected Explained | Araf Rahman | [Read More](https://medium.com/p/025a04a748b7) |
-| Thu, 12 Feb 2026 03:31:01 GMT | How to Securely Store JWT Tokens in Cookies (Avoid XSS Risks) | Oviyan S | [Read More](https://medium.com/p/13812db41c34) |
-| Thu, 12 Feb 2026 02:53:05 GMT | Happening | Dragon Girl | [Read More](https://medium.com/p/998eaed0c343) |
-| Thu, 12 Feb 2026 02:30:09 GMT | Warning About 341 Malicious Skills: AI Agent Security Has Become Web3’s Weakest Entry Point | Jaden | [Read More](https://medium.com/p/2804103a75b4) |
-| Thu, 12 Feb 2026 02:25:25 GMT | Segurança na Web — Criando o laboratório de estudos | Beatriz Salles | [Read More](https://medium.com/p/e1cc2dd3c0f4) |
-| Thu, 12 Feb 2026 02:03:14 GMT | Understanding Catfish Scams | Chantima Boon | [Read More](https://medium.com/p/4861b7e51edb) |
-| Thu, 12 Feb 2026 01:47:12 GMT | The Role Reversal We Never Asked For | Swastika Goel Agnihotri | [Read More](https://medium.com/p/92bdbe7369eb) |
-| Thu, 12 Feb 2026 01:45:08 GMT | AI in Cybersecurity (Part 1): How AI Detects Modern Threats | Dipan | [Read More](https://medium.com/p/7912a8549846) |
-| Thu, 12 Feb 2026 01:35:08 GMT | Waspada “Fake CAPTCHA”: Analisis Cyber Kill Chain pada Serangan Lumma Stealer (Januari 2025) | RIFKY FIRDAUS | [Read More](https://medium.com/p/5b96a994f011) |
