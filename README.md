@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Feb 2026 18:02:39 GMT | ClamAV: Open-Source Antivirus for Your Operational Calm | Aastha Thakker | [Read More](https://medium.com/p/6a02b8c3be03) |
+| Thu, 12 Feb 2026 17:58:40 GMT | How Much Does Residential Security Cost? | Anne jln | [Read More](https://medium.com/p/770ce054b7c4) |
+| Thu, 12 Feb 2026 17:57:41 GMT | “2025 CWE Top 25 Most Dangerous Software Weaknesses” List Now Available | CWE Program | [Read More](https://medium.com/p/26411165a5e4) |
+| Thu, 12 Feb 2026 17:51:03 GMT | Data Encoding · TryHackMe | RosanaFSS | [Read More](https://medium.com/p/f7023cd24dad) |
+| Thu, 12 Feb 2026 17:37:13 GMT | OSI Model Explained : A Complete Guide | 0ffXena_ | [Read More](https://medium.com/p/ea28c3ddfcd1) |
+| Thu, 12 Feb 2026 17:32:33 GMT | This Firefox Replacement ACTUALLY Respects Your Privacy | Michael Swengel | [Read More](https://medium.com/p/e2ecbf3a4e98) |
+| Thu, 12 Feb 2026 17:30:32 GMT | Why “Free Diagnostics” Computer Repair Often Costs You More | Ivan Yurynts | [Read More](https://medium.com/p/f7d197eebcf9) |
+| Thu, 12 Feb 2026 17:26:04 GMT | The Kind of Intimacy That Doesn't Touch Skin | Anupama Satyarthi | [Read More](https://medium.com/p/0cabfe7f3e67) |
+| Thu, 12 Feb 2026 17:25:59 GMT | React2Shell (CVE-2025–55182) | Faiq Mxk | [Read More](https://medium.com/p/7562c0cedb00) |
+| Thu, 12 Feb 2026 17:22:10 GMT | UNDERSTANDING DEVSECOPS: A BEGINNER’S GUIDE | PARADOX | [Read More](https://medium.com/p/95f5fe61da83) |
+| Thu, 12 Feb 2026 17:19:41 GMT | Can You Know For Sure? | musingsfrommarc | [Read More](https://medium.com/p/9644038fd61d) |
+| Thu, 12 Feb 2026 17:17:58 GMT | MacBook Air vs Surface Laptop: The Real Performance Test | Nivetharajamd | [Read More](https://medium.com/p/031e5075b886) |
+| Thu, 12 Feb 2026 17:08:45 GMT | De la Utilidad a la Vulnerabilidad: El Arte de los LOLBins en Unix y el Ecosistema GTFOBins | Josué Acevedo Maldonado | [Read More](https://medium.com/p/e3ed9200f779) |
+| Thu, 12 Feb 2026 17:06:50 GMT | When Love Feels Like Magic! | KΛZ❥ | [Read More](https://medium.com/p/a0f8547fc4c0) |
+| Thu, 12 Feb 2026 17:06:39 GMT | Where to Find a Trusted Security Guard Company in Chatsworth? | Reliable Security Services Blog | [Read More](https://medium.com/p/f5437988e7f5) |
 | Thu, 12 Feb 2026 16:50:28 GMT | Windows CLI Basics · TryHackMe | RosanaFSS | [Read More](https://medium.com/p/34b8afc7102b) |
 | Thu, 12 Feb 2026 16:45:22 GMT | Resilience-First Architecture: Prioritizing Response Over Prevention | Digital Defense | [Read More](https://medium.com/p/e44bcd1a576c) |
 | Thu, 12 Feb 2026 16:42:17 GMT | Alert Clustering Algorithms: The Art of Understanding SOC Noise | Esra Kayhan | [Read More](https://medium.com/p/aadef0dc1b7c) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Feb 2026 11:56:29 GMT | Europe’s Central Stress Test: Cohesion, Contestation, and Fragmentation in the V4 (Part 2) | Josephine Schwab | [Read More](https://medium.com/p/a7bbd3f7ecce) |
 | Thu, 12 Feb 2026 11:49:47 GMT | 當 AI 代理遇上社交工程 | Feng Ping Wang | [Read More](https://medium.com/p/e7b335f3ef2e) |
 | Thu, 12 Feb 2026 11:46:00 GMT | The Hidden Math Behind LLM Caching: Semantic Keys, Collision Risk, and When “Reuse” Breaks… | Bytecraft | [Read More](https://medium.com/p/d2f9dcdaaaf9) |
-| Thu, 12 Feb 2026 11:45:03 GMT | Cyber Security Certification Course in Ranchi: How to Start Your Career in 2026 | logging security | [Read More](https://medium.com/p/50fa07ae3508) |
-| Thu, 12 Feb 2026 11:36:01 GMT | Disaster Recovery Tabletop Exercise: Find the Fail Points Before Your Next Real Restore | Tyson Martin | [Read More](https://medium.com/p/3da870cd3cac) |
-| Thu, 12 Feb 2026 11:31:04 GMT | 5 Ways ServiceNow Integration Improves Organizational Efficiency and Reduces Costs | Alex s | [Read More](https://medium.com/p/2a17679751ab) |
-| Thu, 12 Feb 2026 11:27:25 GMT | Digital Personal Data Protection Act, 2023 (DPDP Act) | IT Solutions India Pvt Ltd | [Read More](https://medium.com/p/c25c3526f03a) |
-| Thu, 12 Feb 2026 11:22:34 GMT | Insurance in the USA: A Complete Guide (2026) Read More | Teach us | [Read More](https://medium.com/p/1f774de74f88) |
-| Thu, 12 Feb 2026 11:18:28 GMT | The Future of IT Tech in Mobile Wallet App Development: Trends for 2026 | Shane Cornerus | [Read More](https://medium.com/p/3074ca6988da) |
-| Thu, 12 Feb 2026 11:09:23 GMT | Cyber Security Course in Kerala offering hands-on training in ethical hacking, offensive… | Aswthyc | [Read More](https://medium.com/p/f595fd86f62a) |
-| Thu, 12 Feb 2026 11:06:32 GMT | Why Cyber Security Training in Canada Is the Smartest Career Move in 2026 | Toronto Innovation College | [Read More](https://medium.com/p/ca6ffec0b967) |
-| Thu, 12 Feb 2026 10:57:10 GMT | Cracking NTLM Password Hashes: A Beginner’s Guide to Dictionary and Mask Attacks | Moez Ben-Azzouz | [Read More](https://medium.com/p/b6148a4a31a4) |
-| Thu, 12 Feb 2026 10:54:26 GMT | Inside a Computer System Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/2682ac8c80fe) |
-| Thu, 12 Feb 2026 10:46:44 GMT | Smart Business Automation Made Easy — Why You Should Hire N8N Developers Today | n8ndevelopers | [Read More](https://medium.com/p/baef0d7603c3) |
-| Thu, 12 Feb 2026 10:44:49 GMT | Shadow World : Decryption — Chapter Two (Teaser Edition) | Bond Leung | [Read More](https://medium.com/p/2351cd06ba88) |
-| Thu, 12 Feb 2026 10:42:15 GMT | TryHackMe OWASP Top 10 2025: Application Design Flaws | Ufuk Yaman | [Read More](https://medium.com/p/fddd33eb0b43) |
-| Thu, 12 Feb 2026 10:40:42 GMT | Automatic Boom Barrier — Reliable Vehicle Entry Control by Etradefia | Etradefia | [Read More](https://medium.com/p/8f835839c1ef) |
-| Thu, 12 Feb 2026 10:34:46 GMT | PicoCTF Easy level — Forensics category Part 1. | Aqilah Syaima' Fadel | [Read More](https://medium.com/p/321322200396) |
