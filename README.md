@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Feb 2026 21:29:57 GMT | Executor access that unlocks only after proof of death | InheritSafe | [Read More](https://medium.com/p/231016ef418b) |
+| Thu, 12 Feb 2026 21:20:58 GMT | We’re Ignoring Monsters Behind Screens — And That’s a Choice | R. T. Ober | [Read More](https://medium.com/p/392c3b9a5185) |
+| Thu, 12 Feb 2026 21:06:01 GMT | Aaron W. DeJong Newsletter: Episode 3 | Aaron DeJong | [Read More](https://medium.com/p/e7e5148f26e7) |
+| Thu, 12 Feb 2026 21:01:01 GMT | The Air-Gapped Chronicles: The Sovereign Vault — Escaping the Cloud Trap | Piyoosh Rai | [Read More](https://medium.com/p/82f0e08024ed) |
+| Thu, 12 Feb 2026 20:53:45 GMT | Hashing in the Real World: From TLS to Secure Password Storage | Davi Duarte | [Read More](https://medium.com/p/765627b57cde) |
+| Thu, 12 Feb 2026 20:51:35 GMT | UX Failures in Cross-Chain Bridges: When Users Become the Weakest Link | André Augusto | [Read More](https://medium.com/p/fbca7d5d7fa8) |
+| Thu, 12 Feb 2026 20:49:51 GMT | Network Services 2 lab in THM WalkThrough | SUSHANT TELRANDHE | [Read More](https://medium.com/p/98b5dac79d11) |
+| Thu, 12 Feb 2026 20:40:05 GMT | Mapping a Digital Footprint: A Practical Guide | Rehimovmahmud | [Read More](https://medium.com/p/5c9a397e0c2d) |
+| Thu, 12 Feb 2026 20:37:25 GMT | Security Spending Is Rising — So Why Are Breaches Increasing? | JSOC IT BLOG | [Read More](https://medium.com/p/58a23e7cc982) |
+| Thu, 12 Feb 2026 20:35:32 GMT | The Visibility Gap: Why Your K8s Network is Still a Black Box | Tigera | [Read More](https://medium.com/p/6555ce002847) |
+| Thu, 12 Feb 2026 20:34:39 GMT | Getting Started with Google Cloud SDK (gcloud CLI) | Precious Kweku Obeng | [Read More](https://medium.com/p/2ff92a79c148) |
+| Thu, 12 Feb 2026 20:31:01 GMT | Dealing with creeps — A guide for women | Rebuild Society | [Read More](https://medium.com/p/ab33314c3205) |
+| Thu, 12 Feb 2026 20:30:42 GMT | What To Do When You Discover a Virus in Your Company Network | Cordula Boeck | [Read More](https://medium.com/p/f10079d325f6) |
+| Thu, 12 Feb 2026 20:29:30 GMT | ️ SOC HOME LAB — INCIDENT RESPONSE REPORT | Pl | [Read More](https://medium.com/p/ca34eb9cc1f1) |
 | Thu, 12 Feb 2026 20:26:18 GMT | NFS Server Setup & Multi-Platform Sharing | Karim roshdy | [Read More](https://medium.com/p/e1e15bdf71f8) |
 | Thu, 12 Feb 2026 20:12:04 GMT | DockerLabs — Profetas [Write-Up] | APS88 | [Read More](https://medium.com/p/641a99d9df33) |
 | Thu, 12 Feb 2026 19:59:02 GMT | The Cryptography Concept Journey — Diffusion | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/5078a4f7678b) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Feb 2026 14:16:19 GMT | CCSP Exam Outline Changes: 2025 vs 2026 | Desmond Devendran | [Read More](https://medium.com/p/072182afcb11) |
 | Thu, 12 Feb 2026 14:11:29 GMT | Apa itu Lumma Stealer (Fake CAPTCHA)? | Ifannudinazi | [Read More](https://medium.com/p/e91e2e30a036) |
 | Thu, 12 Feb 2026 14:10:12 GMT | Global Cyber Champion 2025–2026 CTF- Broken Challenge | 0xMekawy | [Read More](https://medium.com/p/8dc2e095549e) |
-| Thu, 12 Feb 2026 14:09:54 GMT | The Dirty Laptop Hypothesis: Why Your CI/CD Approval UI Cannot Be Trusted | Kalyan Tamarapalli | [Read More](https://medium.com/p/ce2476e3d844) |
-| Thu, 12 Feb 2026 14:09:41 GMT | Understanding the CIA Triad: The Foundation of Cybersecurity | Danyal khan | [Read More](https://medium.com/p/353597428a9b) |
-| Thu, 12 Feb 2026 14:08:39 GMT | Architect of Canada’s Early Military Cyber Capability: | Peter Hillier/Halton | [Read More](https://medium.com/p/f95b12ed8b2a) |
-| Thu, 12 Feb 2026 14:06:08 GMT | Complete Nginx Security Hardening Guide: Protect Your Next.js | Syed Hassan Fida | [Read More](https://medium.com/p/b599571edf77) |
-| Thu, 12 Feb 2026 14:04:49 GMT | Beyond the EVM: Understanding Soroban’s Three-Tier Storage Architecture | 0xjustuzair | [Read More](https://medium.com/p/361549f42058) |
-| Thu, 12 Feb 2026 14:00:17 GMT | New Research Exposes Privacy Threat — But Misses The Obvious OSINT exposure | Berend Watchus | [Read More](https://medium.com/p/9f2f6a8775aa) |
-| Thu, 12 Feb 2026 14:00:14 GMT | Your VPN Just Became Your Biggest Security Risk And Why Global Secure Access is Rewriting the Rules | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/8be01b649783) |
-| Thu, 12 Feb 2026 13:57:01 GMT | Lumma Stealer | Daarin | [Read More](https://medium.com/p/816e1d9a71bc) |
-| Thu, 12 Feb 2026 13:48:30 GMT | How I Hacked Myself (Legally) | Miss Novaa | [Read More](https://medium.com/p/db59215d519f) |
-| Thu, 12 Feb 2026 13:37:49 GMT | Matt Shumer Told You What’s Coming. He Left Out the Part That Should Scare You Most. | David Ahmann | [Read More](https://medium.com/p/392cf94f4f25) |
-| Thu, 12 Feb 2026 13:32:43 GMT | Update: My Website Redesign & New Features | Dean | [Read More](https://medium.com/p/14d7cef6c590) |
-| Thu, 12 Feb 2026 13:18:40 GMT | Input Validation Explained: Secure Coding Practices with Java and Angular Examples | etwinworkshop | [Read More](https://medium.com/p/ed4702ee9cc0) |
-| Thu, 12 Feb 2026 13:16:00 GMT | Chapter 07: Cross-­Site Scripting (XSS) | Hacker00X1 | [Read More](https://medium.com/p/3bc2aa1446cf) |
-| Thu, 12 Feb 2026 13:15:33 GMT | How Integrative Attachment Theory Helps You Build Secure and Healthy Relationships | LIANA VIBES | [Read More](https://medium.com/p/5ca41a34d705) |
