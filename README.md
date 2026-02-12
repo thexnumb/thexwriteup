@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Feb 2026 22:15:08 GMT | The Vibe Coder’s Real Job | Hugh Gramelspacher | [Read More](https://medium.com/p/d5d0a1b6f9b3) |
+| Thu, 12 Feb 2026 22:14:09 GMT | ما هو قانون الفشل ؟وكيف تتخلص منه | Emalak | [Read More](https://medium.com/p/913d997487ed) |
+| Thu, 12 Feb 2026 22:13:09 GMT | IAM Was Built for Humans — The CSA Report Shows Why AI Agents Need Their Own Identity Model | Anh Nguyen  AIGP Operational AI Governance | [Read More](https://medium.com/p/fdf295e74c1e) |
+| Thu, 12 Feb 2026 22:07:43 GMT | Loading Kernel Drivers In-Memory | S12 - 0x12Dark Development | [Read More](https://medium.com/p/fc5d71c576e2) |
+| Thu, 12 Feb 2026 22:05:59 GMT | Recon Like a Hunter: Practical Tips from Real Findings Part 3 | Aya Ayman(GERR4Y) | [Read More](https://medium.com/p/06dd921a399d) |
+| Thu, 12 Feb 2026 22:04:49 GMT | FLASK AUTHENTICATION & AUTHORIZATION USING Flask-Login & OAuth (Google, X, Github)&Twilio Verify… | Nathaniel Cobbinah | [Read More](https://medium.com/p/922c0fd541c7) |
+| Thu, 12 Feb 2026 22:01:00 GMT | Unfiltered  Restart— Day 2: Cool Motherboards | Maximillian Rueda | [Read More](https://medium.com/p/4237bd99c62e) |
+| Thu, 12 Feb 2026 21:56:52 GMT | Beyond Whack-a-Mole: Why the CaMeL Framework is the Future of Secure AI Agents | Alessandro Pignati | [Read More](https://medium.com/p/e5d391e73053) |
+| Thu, 12 Feb 2026 21:50:53 GMT | How to Set Up Moltbot Securely on an Endpoint | Anshumaan Mishra | [Read More](https://medium.com/p/b7c68060e3e7) |
+| Thu, 12 Feb 2026 21:44:40 GMT | Aaron W. DeJong Newsletter: Episode 3 | Aaron DeJong | [Read More](https://medium.com/p/1f77714bc4b3) |
+| Thu, 12 Feb 2026 21:43:43 GMT | Snifferless Stream Protocol A Non-Traceable Data Transmission Architecture for Ultra-Sensitive… | Bervice | [Read More](https://medium.com/p/33575d45d5c6) |
+| Thu, 12 Feb 2026 21:42:46 GMT | WHEN THE GAZE OF OTHERS BECOMES THE ONLY MEASURE OF WHO YOU ARE | Dr. Marcello de Souza | [Read More](https://medium.com/p/3102b4e5ef7a) |
 | Thu, 12 Feb 2026 21:29:57 GMT | Executor access that unlocks only after proof of death | InheritSafe | [Read More](https://medium.com/p/231016ef418b) |
 | Thu, 12 Feb 2026 21:20:58 GMT | We’re Ignoring Monsters Behind Screens — And That’s a Choice | R. T. Ober | [Read More](https://medium.com/p/392c3b9a5185) |
 | Thu, 12 Feb 2026 21:06:01 GMT | Aaron W. DeJong Newsletter: Episode 3 | Aaron DeJong | [Read More](https://medium.com/p/e7e5148f26e7) |
@@ -81,6 +93,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Feb 2026 16:06:48 GMT | what is python? | Kevin Ronex | [Read More](https://medium.com/p/56920c5932cd) |
 | Thu, 12 Feb 2026 16:06:05 GMT | The Unexpected Tech Boom: Why Cybersecurity is Exploding in Altadena, CA (2026) | Shanker Goud | [Read More](https://medium.com/p/471ca0db63a9) |
 | Thu, 12 Feb 2026 16:01:02 GMT | Immutable Linux Distros: How They Differ and Where They’re Going | Can Artuc | [Read More](https://medium.com/p/57b14b630f7b) |
+| Thu, 12 Feb 2026 16:00:56 GMT | THE FIRST STEP OF SECURITY | Funmitoadesola | [Read More](https://medium.com/p/3663a173767d) |
 | Thu, 12 Feb 2026 15:54:29 GMT | Security Analysis & Protocol Enhancement Proposals for GenLayer Intelligent Contracts | iwoxbt | [Read More](https://medium.com/p/5b206247e9c8) |
 | Thu, 12 Feb 2026 15:50:37 GMT | WebSocket Penetration Testing: How to Test for WebSocket Hijacking, IDOR, Injection & More | Assassin | [Read More](https://medium.com/p/b2fe9676da07) |
 | Thu, 12 Feb 2026 15:48:04 GMT | The Power of Manual Exploration: How I Earned €300 by Digging Deeper | DOD cyber solutions | [Read More](https://medium.com/p/3033f802d5fa) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Feb 2026 15:14:21 GMT | Infrastructure as Code at OS Level: Security Benefits of NixOS | TechLatest.Net | [Read More](https://medium.com/p/d67806ad11f2) |
 | Thu, 12 Feb 2026 15:09:53 GMT | Lumma Stealer(C2): The Fake CAPTCHA Attack Chain | Ridho Yoss Pratama | [Read More](https://medium.com/p/6a2dd4d20ce4) |
 | Thu, 12 Feb 2026 15:05:46 GMT | I emailed hacker company twice because i suspect my husband is cheating on me with no response and… | Haileywade | [Read More](https://medium.com/p/0c21afde7839) |
-| Thu, 12 Feb 2026 15:03:01 GMT | Not the Strong Woman | artierre | [Read More](https://medium.com/p/c896cf91e16a) |
-| Thu, 12 Feb 2026 15:01:06 GMT | Cyber Briefing: 2026.02.12 | CyberMaterial | [Read More](https://medium.com/p/67508600997a) |
-| Thu, 12 Feb 2026 14:58:06 GMT | The "USDA-Approved" Lie: How I Almost Accidentally Bought a Puppy Mill Dog | Carson Pietruszynski | [Read More](https://medium.com/p/fa57128ddb21) |
-| Thu, 12 Feb 2026 14:55:57 GMT | Forgotten Ruins — OSINT CTF Walkthrough ️‍♂️ | H3NRY B41T | [Read More](https://medium.com/p/9fe4e371ae85) |
-| Thu, 12 Feb 2026 14:50:59 GMT | Building Secure Web Applications: Why Trust Boundaries Matter | Tanitoluwa Adenuga | [Read More](https://medium.com/p/86add7b3264c) |
-| Thu, 12 Feb 2026 14:38:43 GMT | Mobile Payments Security in 2026 | Denys Lypnytskyi | [Read More](https://medium.com/p/cc578b39de09) |
-| Thu, 12 Feb 2026 14:21:01 GMT | Demystifying SOC Reports: A Guide for Aspiring Cybersecurity Professionals | Moez Ben-Azzouz | [Read More](https://medium.com/p/9279afa152e5) |
-| Thu, 12 Feb 2026 14:20:45 GMT | TryHackMe OWASP Top 10 2025: Insecure Data Handling | Ufuk Yaman | [Read More](https://medium.com/p/9b8cfedf8d19) |
-| Thu, 12 Feb 2026 14:20:27 GMT | Cookie Monster Secret Recipe -picoCTF | Dipu Basak | [Read More](https://medium.com/p/2db0dd6010f8) |
-| Thu, 12 Feb 2026 14:16:52 GMT | Kotlin Application Security | Kocovic Zoran | [Read More](https://medium.com/p/4e3918862f4c) |
-| Thu, 12 Feb 2026 14:16:19 GMT | CCSP Exam Outline Changes: 2025 vs 2026 | Desmond Devendran | [Read More](https://medium.com/p/072182afcb11) |
-| Thu, 12 Feb 2026 14:11:29 GMT | Apa itu Lumma Stealer (Fake CAPTCHA)? | Ifannudinazi | [Read More](https://medium.com/p/e91e2e30a036) |
-| Thu, 12 Feb 2026 14:10:12 GMT | Global Cyber Champion 2025–2026 CTF- Broken Challenge | 0xMekawy | [Read More](https://medium.com/p/8dc2e095549e) |
