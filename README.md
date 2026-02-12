@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Feb 2026 11:36:01 GMT | Disaster Recovery Tabletop Exercise: Find the Fail Points Before Your Next Real Restore | Tyson Martin | [Read More](https://medium.com/p/3da870cd3cac) |
+| Thu, 12 Feb 2026 11:31:04 GMT | 5 Ways ServiceNow Integration Improves Organizational Efficiency and Reduces Costs | Alex s | [Read More](https://medium.com/p/2a17679751ab) |
+| Thu, 12 Feb 2026 11:27:25 GMT | Digital Personal Data Protection Act, 2023 (DPDP Act) | IT Solutions India Pvt Ltd | [Read More](https://medium.com/p/c25c3526f03a) |
+| Thu, 12 Feb 2026 11:22:34 GMT | Insurance in the USA: A Complete Guide (2026) Read More | Teach us | [Read More](https://medium.com/p/1f774de74f88) |
+| Thu, 12 Feb 2026 11:18:28 GMT | The Future of IT Tech in Mobile Wallet App Development: Trends for 2026 | Shane Cornerus | [Read More](https://medium.com/p/3074ca6988da) |
+| Thu, 12 Feb 2026 11:09:23 GMT | Cyber Security Course in Kerala offering hands-on training in ethical hacking, offensive… | Aswthyc | [Read More](https://medium.com/p/f595fd86f62a) |
+| Thu, 12 Feb 2026 11:06:32 GMT | Why Cyber Security Training in Canada Is the Smartest Career Move in 2026 | Toronto Innovation College | [Read More](https://medium.com/p/ca6ffec0b967) |
+| Thu, 12 Feb 2026 10:57:10 GMT | Cracking NTLM Password Hashes: A Beginner’s Guide to Dictionary and Mask Attacks | Moez Ben-Azzouz | [Read More](https://medium.com/p/b6148a4a31a4) |
+| Thu, 12 Feb 2026 10:54:26 GMT | Inside a Computer System Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/2682ac8c80fe) |
+| Thu, 12 Feb 2026 10:46:44 GMT | Smart Business Automation Made Easy — Why You Should Hire N8N Developers Today | n8ndevelopers | [Read More](https://medium.com/p/baef0d7603c3) |
 | Thu, 12 Feb 2026 10:44:49 GMT | Shadow World : Decryption — Chapter Two (Teaser Edition) | Bond Leung | [Read More](https://medium.com/p/2351cd06ba88) |
+| Thu, 12 Feb 2026 10:42:15 GMT | TryHackMe OWASP Top 10 2025: Application Design Flaws | Ufuk Yaman | [Read More](https://medium.com/p/fddd33eb0b43) |
 | Thu, 12 Feb 2026 10:40:42 GMT | Automatic Boom Barrier — Reliable Vehicle Entry Control by Etradefia | Etradefia | [Read More](https://medium.com/p/8f835839c1ef) |
 | Thu, 12 Feb 2026 10:34:46 GMT | PicoCTF Easy level — Forensics category Part 1. | Aqilah Syaima' Fadel | [Read More](https://medium.com/p/321322200396) |
 | Thu, 12 Feb 2026 10:28:12 GMT | NMAP | Sakarya Üniversitesi Siber Güvenlik Topluluğu | [Read More](https://medium.com/p/d69d42eed335) |
@@ -22,6 +33,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Feb 2026 10:18:24 GMT | Google Just Sounded the Alarm: Why the "Quantum Apocalypse" Is Already Here | CrypticWhale | [Read More](https://medium.com/p/ac06057b61de) |
 | Thu, 12 Feb 2026 10:16:39 GMT | Top-Rated Python Course in Delhi with Placement Assistance | cyber security Updates | [Read More](https://medium.com/p/5a9a90bf86b9) |
 | Thu, 12 Feb 2026 10:10:04 GMT | The Final Leap: Wrapping up with Coding, Careers, and AI | Sanya Sachdeva | [Read More](https://medium.com/p/de5d930a630a) |
+| Thu, 12 Feb 2026 10:09:21 GMT | How to Protect Your iGaming Business From Cyber Threats | SolveByte | [Read More](https://medium.com/p/2baf70e132f8) |
 | Thu, 12 Feb 2026 10:05:21 GMT | Android Broadcast Receivers: A Gateway for Malware Attacks | Ruslan Mirza | [Read More](https://medium.com/p/336e4ab0de75) |
 | Thu, 12 Feb 2026 10:05:21 GMT | Trial Lawyer Claims Meta and YouTube Engineered Addiction in Children | Get info support | [Read More](https://medium.com/p/af91322f85b1) |
 | Thu, 12 Feb 2026 10:03:27 GMT | Wireshark Traffic Analysis: Cleartext Credentials & Firewall Rules | Citadel Cybersec | [Read More](https://medium.com/p/3eb7020dd131) |
@@ -44,6 +56,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Feb 2026 09:17:21 GMT | The Logic Flaw That Leads to Total Control: Mastering Account Takeovers in 2026 | Krishna Kumar | [Read More](https://medium.com/p/aecef6d30bd9) |
 | Thu, 12 Feb 2026 09:15:52 GMT | Ethical Wi-Fi Security Testing Using Kali Linux | Hafsa Shahid | [Read More](https://medium.com/p/669f5c9ee0c3) |
 | Thu, 12 Feb 2026 09:03:55 GMT | Fix Windows Driver And Firmware Stability Safely | Geoffrey Wenger | [Read More](https://medium.com/p/9f9063c40acd) |
+| Thu, 12 Feb 2026 09:01:10 GMT | WMI Event Consumer Persistence: How APT29 Achieves Fileless Persistence (Part 1) | Manish Rawat | [Read More](https://medium.com/p/c93477ea7025) |
 | Thu, 12 Feb 2026 08:58:49 GMT | Why Your Private LLM Might Be Leaking Secrets (And How to Fix It) | Jason Sohn | [Read More](https://medium.com/p/16d6ca859122) |
 | Thu, 12 Feb 2026 08:56:09 GMT | Corporate WiFi Penetration Testing: Phase 1 - Initial Reconnaissance at ATS Hospital : A Real-World… | Tanmay Bhattacharjee | [Read More](https://medium.com/p/9b6b5c2d05eb) |
 | Thu, 12 Feb 2026 08:50:34 GMT | My roadmap to get a job as a SOC Analyst in 2026 | beginner6874 | [Read More](https://medium.com/p/cc37aaab2be4) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Feb 2026 06:24:58 GMT | Why Cyber Security Is the Smartest Career Move in 2026 — Join Our Free Demo Session | Molletibalu | [Read More](https://medium.com/p/44dd6a4ca8bc) |
 | Thu, 12 Feb 2026 06:20:53 GMT | Is Your WiFi Really Secure? | Dania Usman | [Read More](https://medium.com/p/2bfed0577b4c) |
 | Thu, 12 Feb 2026 06:16:59 GMT | And So It Begins: Data Privacy and Security | Adrian Labisores | [Read More](https://medium.com/p/c91fb7d71bae) |
-| Thu, 12 Feb 2026 06:10:33 GMT | Digital Sovereignty or Digital Dependency? The Crossroads of African Cybersecurity. | K. Senabulya E | [Read More](https://medium.com/p/8a4ea8aa36fe) |
-| Thu, 12 Feb 2026 06:05:31 GMT | Information Security vs Cybersecurity — Which Path Should You Take? | Eliana | [Read More](https://medium.com/p/6fe0eb388462) |
-| Thu, 12 Feb 2026 06:05:21 GMT | Cracking the Code: A Practical Deep Dive into WPA2 Wireless Security | Zainab Noor | [Read More](https://medium.com/p/48a968fbd151) |
-| Thu, 12 Feb 2026 06:01:01 GMT | Part 2: Turning Post Mortems into Bug Bounty Wins | Abraham | [Read More](https://medium.com/p/c7d73b545bed) |
-| Thu, 12 Feb 2026 05:59:47 GMT | OHsint | Arunpanicker | [Read More](https://medium.com/p/41fbbefb7e53) |
-| Thu, 12 Feb 2026 05:58:56 GMT | What Is a Product QR Code and Why Should You Use QR Code Stickers? | Unicube | [Read More](https://medium.com/p/9b60864d4513) |
-| Thu, 12 Feb 2026 05:57:45 GMT | LMS Based Phishing Awareness Training for Employees: A Smart Strategy to Prevent Cyber Attacks | Maxatlasofficial | [Read More](https://medium.com/p/249e69428672) |
-| Thu, 12 Feb 2026 05:56:01 GMT | Breaking Down the Handshake: A Step-by-Step Guide to WPA2 Auditing | Maryam Zahra | [Read More](https://medium.com/p/0109f35e1666) |
-| Thu, 12 Feb 2026 05:50:09 GMT | Essential Strategies for Building Secure APIs in Modern Applications | Silversky Technology | [Read More](https://medium.com/p/4c2ce8d9e966) |
-| Thu, 12 Feb 2026 05:48:36 GMT | When ARP Goes Wrong: Threat Hunting ARP Poisoning in Network Traffic | BlackMamba | [Read More](https://medium.com/p/cf9f9d9c9ee1) |
-| Thu, 12 Feb 2026 05:44:02 GMT | How I Found My First Account Takeover Vulnerability | SudoHunt | [Read More](https://medium.com/p/386af5e45bc3) |
-| Thu, 12 Feb 2026 05:39:41 GMT | API Security Is Maintenance, Not a Milestone | Sarah Nzeshi | [Read More](https://medium.com/p/ea5b447a2b3e) |
-| Thu, 12 Feb 2026 05:33:26 GMT | .NET & .NET Framework February 2026 Servicing Updates — What You Need to Know | Kavathiyakhushali | [Read More](https://medium.com/p/d4b128ac2231) |
