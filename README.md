@@ -12,6 +12,33 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Feb 2026 08:50:34 GMT | My roadmap to get a job as a SOC Analyst in 2026 | beginner6874 | [Read More](https://medium.com/p/cc37aaab2be4) |
+| Thu, 12 Feb 2026 08:43:02 GMT | I will write IT resume, technical resume, software engineering, linkedin optimization | Bettymatt | [Read More](https://medium.com/p/7f4df10fc5f8) |
+| Thu, 12 Feb 2026 08:42:45 GMT | Host & Network Penetration Testing: Post-Exploitation CTF 1 — INE | srthk | [Read More](https://medium.com/p/dc80969b5b64) |
+| Thu, 12 Feb 2026 08:34:21 GMT | Securing Your Digital Legacy in a Borderless Cloud | Onix | [Read More](https://medium.com/p/da255601671d) |
+| Thu, 12 Feb 2026 08:33:16 GMT | Cyber Security Services: A Step-by-Step Guide | JamTech Technologies | [Read More](https://medium.com/p/b20502a02afd) |
+| Thu, 12 Feb 2026 08:31:00 GMT | Why the Future of Learning Is Not More Information | cloyou | [Read More](https://medium.com/p/dc889009d174) |
+| Thu, 12 Feb 2026 08:30:02 GMT | Online Course Artificial Intelligence and Machine Learning for Beginners | Manisha Chaudhary | [Read More](https://medium.com/p/526e418bbb7b) |
+| Thu, 12 Feb 2026 08:25:39 GMT | My Bug Bounty Tool Stack (2026 Edition) | ghostyjoe | [Read More](https://medium.com/p/5bcd6d23928d) |
+| Thu, 12 Feb 2026 08:25:05 GMT | Software security’s pillars | Cyber Gee | [Read More](https://medium.com/p/bfabba70f19e) |
+| Thu, 12 Feb 2026 08:19:19 GMT | Citizen COP App Download — India’s Smart Crime Reporting, Emergency Alert & Cybersecurity Awareness… | Citizen COP | [Read More](https://medium.com/p/986981c51a67) |
+| Thu, 12 Feb 2026 08:16:56 GMT | Sovereignty Models Across Bitcoin Layers | Daniel Rybnik | [Read More](https://medium.com/p/c3c1bfa0235e) |
+| Thu, 12 Feb 2026 08:14:44 GMT | The Tyranny of Real-Time | The Polymath Journal | [Read More](https://medium.com/p/221f7870b970) |
+| Thu, 12 Feb 2026 08:11:00 GMT | The Big Mistake | Julius Herfel | [Read More](https://medium.com/p/4a26e24e8b78) |
+| Thu, 12 Feb 2026 08:09:08 GMT | The Role of Backup and Recovery in Ensuring Business Continuity After a Crisis | Cloudavize | [Read More](https://medium.com/p/7b2e620e890a) |
+| Thu, 12 Feb 2026 08:08:20 GMT | Cyber Security Engineer Pay in 2026: Average Salary Breakdown by Experience | Babulgupta | [Read More](https://medium.com/p/b318e6cdf1a3) |
+| Thu, 12 Feb 2026 08:01:03 GMT | The Invisible Attack That Fooled Every Major AI System | MayhemCode | [Read More](https://medium.com/p/d591d0351f33) |
+| Thu, 12 Feb 2026 07:58:18 GMT | OWASP Top 10 for Agentic Applications (2026) | eSecForte Technologies | [Read More](https://medium.com/p/620d61836cd2) |
+| Thu, 12 Feb 2026 07:58:17 GMT | Why you should learn web security in 2026 | IbnH | [Read More](https://medium.com/p/dce2e57f5f6d) |
+| Thu, 12 Feb 2026 07:57:06 GMT | Cloud Bucket OSINT: 10 Tools & Techniques Every Cybersecurity Pro Should Master | Very Lazy Tech | [Read More](https://medium.com/p/d663d1c08db3) |
+| Thu, 12 Feb 2026 07:56:01 GMT | Why Threat Modeling Fails for AI-Driven Features | Pritam Dutta | [Read More](https://medium.com/p/1ecc71e33c35) |
+| Thu, 12 Feb 2026 07:54:24 GMT | Recovery codes… Or perhaps just one recovery code? | Anton Minin Baranovskii | [Read More](https://medium.com/p/22ae723846b7) |
+| Thu, 12 Feb 2026 07:45:45 GMT | OWASP Top 10 for Agentic Applications (2026): The Ultimate Guide to Securing AI Agents | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/2459c39e37a9) |
+| Thu, 12 Feb 2026 07:37:44 GMT | Reverse Engineering: Breaking Things to Understand Them | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/5f20bc133ec4) |
+| Thu, 12 Feb 2026 07:33:32 GMT | Circumventing Broken Backslash Escapes to Pop XSS | Justin Ng | [Read More](https://medium.com/p/650250276c75) |
+| Thu, 12 Feb 2026 07:30:58 GMT | Top 10 Pentest Reconnaissance Tools | Priyanka | [Read More](https://medium.com/p/eb02ca959803) |
+| Thu, 12 Feb 2026 07:30:48 GMT | Race Condition Vulnerability | Cynox Security LLP. | [Read More](https://medium.com/p/4068dc0ca011) |
+| Thu, 12 Feb 2026 07:29:18 GMT | Fake CAPTCHA & Lumma Stealer | Muhammaddavidfirmansyah | [Read More](https://medium.com/p/cfa161b77201) |
 | Thu, 12 Feb 2026 07:25:51 GMT | Readers Don’t Want Palatable — They Want Blood | Lisa Jordan | [Read More](https://medium.com/p/47f7cebe8e57) |
 | Thu, 12 Feb 2026 07:18:45 GMT | How to Secure Customer Data in IoT-Enabled Retail Systems | HashStudioz Technologies | [Read More](https://medium.com/p/03106827333b) |
 | Thu, 12 Feb 2026 07:18:36 GMT | How I Hide Secret Information Inside an Image | Frost | [Read More](https://medium.com/p/470fd1befa72) |
@@ -19,6 +46,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Feb 2026 07:15:33 GMT | Beyond Google & Apple: Why Your Identity Needs Quantum-Resistant Sovereignty | Quantarium | [Read More](https://medium.com/p/43f2ba0c9741) |
 | Thu, 12 Feb 2026 07:15:31 GMT | What Happened at BBS College During HackSecure 2026? | Ankit rai | [Read More](https://medium.com/p/01d3012da602) |
 | Thu, 12 Feb 2026 07:08:22 GMT | What is Cyber Security and Why is It Important? | Ntech Global Solutions | [Read More](https://medium.com/p/f6da574a1a36) |
+| Thu, 12 Feb 2026 07:06:12 GMT | What is Cyber Security Awareness Training and Why is It Important? | iCare Cyber | [Read More](https://medium.com/p/e149a949390e) |
 | Thu, 12 Feb 2026 07:05:54 GMT | What Are the Best Cybersecurity Practices to Secure Remote Workers in 2026? | keyTrackr | [Read More](https://medium.com/p/ce3beb08a207) |
 | Thu, 12 Feb 2026 07:05:00 GMT | You create a sensation | Terrynn Johnson-Franklin | [Read More](https://medium.com/p/be55c9aee135) |
 | Thu, 12 Feb 2026 07:02:25 GMT | Designing a secure LLM API | Bikash Shukla | [Read More](https://medium.com/p/73c2ec6d8570) |
@@ -33,8 +61,11 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Feb 2026 06:31:01 GMT | Conditional Access Evasion Techniques | Ankita Sinha | [Read More](https://medium.com/p/9a7bdd54095b) |
 | Thu, 12 Feb 2026 06:27:43 GMT | Part 3: The Modern Recon Stack — The automation script | gopi krishnan | [Read More](https://medium.com/p/6aacbba06916) |
 | Thu, 12 Feb 2026 06:26:01 GMT | The Prompt Injection Mitigation Playbook | Dr. Shibichakravarthy Kannan, MBBS, PhD | [Read More](https://medium.com/p/bd725d73a7d8) |
+| Thu, 12 Feb 2026 06:25:56 GMT | Day 5 of PortSwigger Academy Lab Walkthrough: SSRF, OS command injection, and Path traversal | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/a9406d22af73) |
+| Thu, 12 Feb 2026 06:24:58 GMT | Why Cyber Security Is the Smartest Career Move in 2026 — Join Our Free Demo Session | Molletibalu | [Read More](https://medium.com/p/44dd6a4ca8bc) |
 | Thu, 12 Feb 2026 06:20:53 GMT | Is Your WiFi Really Secure? | Dania Usman | [Read More](https://medium.com/p/2bfed0577b4c) |
 | Thu, 12 Feb 2026 06:16:59 GMT | And So It Begins: Data Privacy and Security | Adrian Labisores | [Read More](https://medium.com/p/c91fb7d71bae) |
+| Thu, 12 Feb 2026 06:10:33 GMT | Digital Sovereignty or Digital Dependency? The Crossroads of African Cybersecurity. | K. Senabulya E | [Read More](https://medium.com/p/8a4ea8aa36fe) |
 | Thu, 12 Feb 2026 06:05:31 GMT | Information Security vs Cybersecurity — Which Path Should You Take? | Eliana | [Read More](https://medium.com/p/6fe0eb388462) |
 | Thu, 12 Feb 2026 06:05:21 GMT | Cracking the Code: A Practical Deep Dive into WPA2 Wireless Security | Zainab Noor | [Read More](https://medium.com/p/48a968fbd151) |
 | Thu, 12 Feb 2026 06:01:01 GMT | Part 2: Turning Post Mortems into Bug Bounty Wins | Abraham | [Read More](https://medium.com/p/c7d73b545bed) |
@@ -81,34 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Feb 2026 01:47:12 GMT | The Role Reversal We Never Asked For | Swastika Goel Agnihotri | [Read More](https://medium.com/p/92bdbe7369eb) |
 | Thu, 12 Feb 2026 01:45:08 GMT | AI in Cybersecurity (Part 1): How AI Detects Modern Threats | Dipan | [Read More](https://medium.com/p/7912a8549846) |
 | Thu, 12 Feb 2026 01:35:08 GMT | Waspada “Fake CAPTCHA”: Analisis Cyber Kill Chain pada Serangan Lumma Stealer (Januari 2025) | RIFKY FIRDAUS | [Read More](https://medium.com/p/5b96a994f011) |
-| Thu, 12 Feb 2026 01:31:02 GMT | 7 Tooling Patterns That Make Agents Auditable by Design | Hash Block | [Read More](https://medium.com/p/8b11c2f07ae8) |
-| Thu, 12 Feb 2026 01:29:20 GMT | ️ AISecOps: The Discipline That Will Secure the Age of AI | Viplav Fauzdar | [Read More](https://medium.com/p/f75da5845214) |
-| Thu, 12 Feb 2026 01:21:24 GMT | WPScan: A Practical Guide to WordPress Security Testing | Neo Sec | [Read More](https://medium.com/p/f97313e7378d) |
-| Thu, 12 Feb 2026 01:08:23 GMT | How I Saved $500/Year on Subscriptions using Notion (Free Template) | Xiaomianyou | [Read More](https://medium.com/p/d819446758bc) |
-| Thu, 12 Feb 2026 01:01:57 GMT | Mathematical Formalisation of Enhanced Systemic Viability in Coalition Defence Systems | Alex Seizovic | [Read More](https://medium.com/p/400df3cd818d) |
-| Thu, 12 Feb 2026 00:59:58 GMT | Bounty Hacker - TryHackMe - CTF | s1lja | [Read More](https://medium.com/p/b8ad86849db1) |
-| Thu, 12 Feb 2026 00:54:42 GMT | Building a “Serverless” Cyber Threat Intelligence Feed with Python, GitHub Actions, and Gemini AI | Merve Güler | [Read More](https://medium.com/p/638209d79609) |
-| Thu, 12 Feb 2026 00:33:51 GMT | Deploying Scalable Storage: My Experience Setting Up AWS S3 | Abumavictor | [Read More](https://medium.com/p/01a2dd7f0681) |
-| Thu, 12 Feb 2026 00:31:01 GMT | How to Fix SSL Certificate Errors in Postman: Simple Step-by-Step Guide | Nikhil Goyal , DevSecOps | [Read More](https://medium.com/p/14d0ce6f6e7e) |
-| Thu, 12 Feb 2026 00:28:10 GMT | Moving to using passkeys from password | Techwizs | [Read More](https://medium.com/p/73dd902269d2) |
-| Thu, 12 Feb 2026 00:27:15 GMT | Deterministic State: Why Security Fails When State Becomes Ambiguous | sengom | [Read More](https://medium.com/p/dcf768ee6c0d) |
-| Thu, 12 Feb 2026 00:07:00 GMT | nmap project with a Kali Purple machine (attack) on Windows XP machine (target). #failsafe | Bob Malin | [Read More](https://medium.com/p/6c407680cbb9) |
-| Wed, 11 Feb 2026 23:59:41 GMT | Anyone With Gmail Could Read Kids’ AI Toy Chats. Let That Sink In. | Cyber-AppSec | [Read More](https://medium.com/p/52d1721fc92b) |
-| Wed, 11 Feb 2026 23:47:12 GMT | Somaliland at Risk: Turkey’s Militarization of Somalia Threatens Sovereignty | Faycal Ahmed | [Read More](https://medium.com/p/d5e85596f207) |
-| Wed, 11 Feb 2026 23:38:54 GMT | Proven Penetration Testing in Switzerland That Stop Cyber Attack. | Private-hackers.com | [Read More](https://medium.com/p/58b9c0717982) |
-| Wed, 11 Feb 2026 23:20:33 GMT | Credential Harvesting using SQL Map on a server with MySQL 5.0.51 on port 3306 - CVE-2006-2753 | Nifise | [Read More](https://medium.com/p/02729f77cc95) |
-| Wed, 11 Feb 2026 23:20:08 GMT | Cybersecurity for Open Source Developers | Kevin O'Shaughnessy | [Read More](https://medium.com/p/51372fa85fdb) |
-| Wed, 11 Feb 2026 23:09:59 GMT | Engineering a State‑Scale Digital Identity Platform: A Technical Case Study from Texas | RAJAT SHEORAN | [Read More](https://medium.com/p/0952dcbff0aa) |
-| Wed, 11 Feb 2026 23:07:42 GMT | HACK : Routeur 4G PocketWiFi(Airtel) | Jephte Mangenda | [Read More](https://medium.com/p/bf87690241b6) |
-| Wed, 11 Feb 2026 23:02:32 GMT | Pawning the Intellectual Silverware for a Bit of “Authenticity” | Thomas Lemström | [Read More](https://medium.com/p/f2299e782c37) |
-| Wed, 11 Feb 2026 22:54:00 GMT | You’re Not a Red Teamer — You’re Just Good at Tools | Yua Mikanana | [Read More](https://medium.com/p/2c9c50e7298c) |
-| Wed, 11 Feb 2026 22:36:00 GMT | Why Women Are Drawn to Taller Men: The Surprising Truth Behind Height Preferences | FloraReggie | [Read More](https://medium.com/p/2790e69a1d08) |
-| Wed, 11 Feb 2026 22:32:17 GMT | 11.02.2026 | willychilly | [Read More](https://medium.com/p/a37a7d9d7a78) |
-| Wed, 11 Feb 2026 22:17:39 GMT | When AI Explains Safety but Doesn’t Live by It | Archaeologist | [Read More](https://medium.com/p/08ec3f2af437) |
-| Wed, 11 Feb 2026 22:17:03 GMT | Next-Generation Cybersecurity Firms Securing the Digital Future | PR Reach360 | [Read More](https://medium.com/p/c55f120319af) |
-| Wed, 11 Feb 2026 22:14:02 GMT | CVE-2026–20841 Tracing an RCE From Patch Diff to Root Cause | Keiran Smith | [Read More](https://medium.com/p/7c85ce8533b3) |
-| Wed, 11 Feb 2026 22:12:22 GMT | Most EVM Chains Made Me Write Multicall Contracts. Tempo Built Batching Into the Protocol. | Joseph Gimba | [Read More](https://medium.com/p/9c93c2def26d) |
-| Wed, 11 Feb 2026 22:04:14 GMT | PWNAGOTCHI — BUILD WITH Us (with Video demo) | Trish | [Read More](https://medium.com/p/c736bdfe1438) |
-| Wed, 11 Feb 2026 22:03:22 GMT | Introductory Networking : TryHackMe | Hamza Iftikhar Bhatti | [Read More](https://medium.com/p/7a0e7bfddde9) |
-| Wed, 11 Feb 2026 22:01:26 GMT | Cracking WEP Encryption: Wireless Network Analysis with Wireshark and Aircrack-ng | Moez Ben-Azzouz | [Read More](https://medium.com/p/c9e89a2fdc91) |
-| Wed, 11 Feb 2026 22:01:00 GMT | Unfiltered Restart — Day 1: Navigating Wires | Maximillian Rueda | [Read More](https://medium.com/p/1d8cab38aa5e) |
