@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Feb 2026 23:19:14 GMT | The Straightening | Chris Perkins | [Read More](https://medium.com/p/3b662dbf389e) |
+| Thu, 12 Feb 2026 23:18:20 GMT | Your AI Chat Knows More Than You Think And That’s the Point | Dimitrios Misios | [Read More](https://medium.com/p/ec15bf3458cb) |
+| Thu, 12 Feb 2026 23:17:27 GMT | The Hacker’s Map: Mastering the 7 Layers of the OSI Model | Emreksbr | [Read More](https://medium.com/p/0f23ae3433c1) |
+| Thu, 12 Feb 2026 23:08:50 GMT | AppDomainManager Injection — Bend .NET Assemblies to Your Will | Matt Swann | [Read More](https://medium.com/p/fa41a9b15021) |
+| Thu, 12 Feb 2026 23:07:16 GMT | One year using INE, What I really learned ? | Anas Lachheb | [Read More](https://medium.com/p/6182e88da190) |
+| Thu, 12 Feb 2026 22:55:23 GMT | TryHackMe Benign Walkthrough: Investigating Suspicious Process Execution with Splunk | sn0x | [Read More](https://medium.com/p/8dd3dc440a4f) |
+| Thu, 12 Feb 2026 22:54:28 GMT | The “Packet” That Never Lies: A Hacker’s Guide to Digital Evidence (Section 65B) | Aman Kumar (ak) | [Read More](https://medium.com/p/4705d16de481) |
+| Thu, 12 Feb 2026 22:52:34 GMT | Weak Biometric Set Integrity Validation in Mobile Applications | RRespxwnss | [Read More](https://medium.com/p/9f70ee16a692) |
+| Thu, 12 Feb 2026 22:51:58 GMT | Securing Agentic AI Connectivity | Matthew.Rosenquist | [Read More](https://medium.com/p/7a59a3fef2e4) |
 | Thu, 12 Feb 2026 22:15:08 GMT | The Vibe Coder’s Real Job | Hugh Gramelspacher | [Read More](https://medium.com/p/d5d0a1b6f9b3) |
 | Thu, 12 Feb 2026 22:14:09 GMT | ما هو قانون الفشل ؟وكيف تتخلص منه | Emalak | [Read More](https://medium.com/p/913d997487ed) |
 | Thu, 12 Feb 2026 22:13:09 GMT | IAM Was Built for Humans — The CSA Report Shows Why AI Agents Need Their Own Identity Model | Anh Nguyen  AIGP Operational AI Governance | [Read More](https://medium.com/p/fdf295e74c1e) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Feb 2026 15:33:24 GMT | Global Cyber Champion 2025–2026 CTF- Tangled Challenge | 0xMekawy | [Read More](https://medium.com/p/0dd2bebafe94) |
 | Thu, 12 Feb 2026 15:32:12 GMT | Crypto Research Tools — OSINT | loyalonlytoday | [Read More](https://medium.com/p/03ba3a835887) |
 | Thu, 12 Feb 2026 15:32:00 GMT | AI Search engines for OSINT | loyalonlytoday | [Read More](https://medium.com/p/11fad1d32baf) |
-| Thu, 12 Feb 2026 15:24:18 GMT | Apple Under Siege by Zero-Days, Space Decay Threatens Science, and Frameworks Evolve - The Daily… | Souren Stepanyan | [Read More](https://medium.com/p/6310a6d43028) |
-| Thu, 12 Feb 2026 15:24:17 GMT | Elasticsearch as Long-Term Memory for Agentic Security Investigation | Kmish | [Read More](https://medium.com/p/4b2d25f4e6d6) |
-| Thu, 12 Feb 2026 15:23:48 GMT | DHS Shutdown Looms Friday: Your Airport Lines, Disaster Relief, and Border Security Face Chaos | Alexander Houston | [Read More](https://medium.com/p/a21b03050af9) |
-| Thu, 12 Feb 2026 15:19:32 GMT | Multiplexed RBAC in .NET — Part 2 : Distributed Rotational Cache with Redis & Lua | Marco Marano | [Read More](https://medium.com/p/28674649ff16) |
-| Thu, 12 Feb 2026 15:16:16 GMT | The Acceleration of Accelerationism Within Online Communities | R. T. Ober | [Read More](https://medium.com/p/a111fe17ceb5) |
-| Thu, 12 Feb 2026 15:16:08 GMT | Learn Strategies for Cyber Resilience in VMware Environments. | NAKIVO | [Read More](https://medium.com/p/2272fe540a9c) |
-| Thu, 12 Feb 2026 15:14:21 GMT | Infrastructure as Code at OS Level: Security Benefits of NixOS | TechLatest.Net | [Read More](https://medium.com/p/d67806ad11f2) |
-| Thu, 12 Feb 2026 15:09:53 GMT | Lumma Stealer(C2): The Fake CAPTCHA Attack Chain | Ridho Yoss Pratama | [Read More](https://medium.com/p/6a2dd4d20ce4) |
-| Thu, 12 Feb 2026 15:05:46 GMT | I emailed hacker company twice because i suspect my husband is cheating on me with no response and… | Haileywade | [Read More](https://medium.com/p/0c21afde7839) |
