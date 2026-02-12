@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Feb 2026 14:21:01 GMT | Demystifying SOC Reports: A Guide for Aspiring Cybersecurity Professionals | Moez Ben-Azzouz | [Read More](https://medium.com/p/9279afa152e5) |
+| Thu, 12 Feb 2026 14:20:45 GMT | TryHackMe OWASP Top 10 2025: Insecure Data Handling | Ufuk Yaman | [Read More](https://medium.com/p/9b8cfedf8d19) |
+| Thu, 12 Feb 2026 14:20:27 GMT | Cookie Monster Secret Recipe -picoCTF | Dipu Basak | [Read More](https://medium.com/p/2db0dd6010f8) |
+| Thu, 12 Feb 2026 14:16:52 GMT | Kotlin Application Security | Kocovic Zoran | [Read More](https://medium.com/p/4e3918862f4c) |
+| Thu, 12 Feb 2026 14:16:19 GMT | CCSP Exam Outline Changes: 2025 vs 2026 | Desmond Devendran | [Read More](https://medium.com/p/072182afcb11) |
+| Thu, 12 Feb 2026 14:11:29 GMT | Apa itu Lumma Stealer (Fake CAPTCHA)? | Ifannudinazi | [Read More](https://medium.com/p/e91e2e30a036) |
+| Thu, 12 Feb 2026 14:10:12 GMT | Global Cyber Champion 2025–2026 CTF- Broken Challenge | 0xMekawy | [Read More](https://medium.com/p/8dc2e095549e) |
+| Thu, 12 Feb 2026 14:09:54 GMT | The Dirty Laptop Hypothesis: Why Your CI/CD Approval UI Cannot Be Trusted | Kalyan Tamarapalli | [Read More](https://medium.com/p/ce2476e3d844) |
+| Thu, 12 Feb 2026 14:09:41 GMT | Understanding the CIA Triad: The Foundation of Cybersecurity | Danyal khan | [Read More](https://medium.com/p/353597428a9b) |
+| Thu, 12 Feb 2026 14:08:39 GMT | Architect of Canada’s Early Military Cyber Capability: | Peter Hillier/Halton | [Read More](https://medium.com/p/f95b12ed8b2a) |
+| Thu, 12 Feb 2026 14:06:08 GMT | Complete Nginx Security Hardening Guide: Protect Your Next.js | Syed Hassan Fida | [Read More](https://medium.com/p/b599571edf77) |
+| Thu, 12 Feb 2026 14:04:49 GMT | Beyond the EVM: Understanding Soroban’s Three-Tier Storage Architecture | 0xjustuzair | [Read More](https://medium.com/p/361549f42058) |
+| Thu, 12 Feb 2026 14:00:17 GMT | New Research Exposes Privacy Threat — But Misses The Obvious OSINT exposure | Berend Watchus | [Read More](https://medium.com/p/9f2f6a8775aa) |
+| Thu, 12 Feb 2026 14:00:14 GMT | Your VPN Just Became Your Biggest Security Risk And Why Global Secure Access is Rewriting the Rules | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/8be01b649783) |
+| Thu, 12 Feb 2026 13:57:01 GMT | Lumma Stealer | Daarin | [Read More](https://medium.com/p/816e1d9a71bc) |
+| Thu, 12 Feb 2026 13:37:49 GMT | Matt Shumer Told You What’s Coming. He Left Out the Part That Should Scare You Most. | David Ahmann | [Read More](https://medium.com/p/392cf94f4f25) |
+| Thu, 12 Feb 2026 13:32:43 GMT | Update: My Website Redesign & New Features | Dean | [Read More](https://medium.com/p/14d7cef6c590) |
+| Thu, 12 Feb 2026 13:18:40 GMT | Input Validation Explained: Secure Coding Practices with Java and Angular Examples | etwinworkshop | [Read More](https://medium.com/p/ed4702ee9cc0) |
+| Thu, 12 Feb 2026 13:16:00 GMT | Chapter 07: Cross-­Site Scripting (XSS) | Hacker00X1 | [Read More](https://medium.com/p/3bc2aa1446cf) |
+| Thu, 12 Feb 2026 13:15:33 GMT | How Integrative Attachment Theory Helps You Build Secure and Healthy Relationships | LIANA VIBES | [Read More](https://medium.com/p/5ca41a34d705) |
 | Thu, 12 Feb 2026 13:06:44 GMT | Security By Obscurity | Manan pasricha | [Read More](https://medium.com/p/72078142ccb0) |
 | Thu, 12 Feb 2026 13:05:20 GMT | Cybersecurity Isn’t About Hackers. | Raufalvi | [Read More](https://medium.com/p/13ffe89fe43a) |
 | Thu, 12 Feb 2026 13:04:15 GMT | We Don’t Need to Be Strong | David Piacentini | [Read More](https://medium.com/p/44351150779f) |
@@ -21,6 +41,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Feb 2026 12:51:41 GMT | Digital Forensics: The Silent Detectives of the Digital Age | Dhyanineha | [Read More](https://medium.com/p/eef213407861) |
 | Thu, 12 Feb 2026 12:45:38 GMT | How to prepare for your CPENT exam | Bube | [Read More](https://medium.com/p/369aede5b26d) |
 | Thu, 12 Feb 2026 12:37:00 GMT | Red Teaming Simulating How Real Attackers Think | Gautamkumar | [Read More](https://medium.com/p/e72a1d87380a) |
+| Thu, 12 Feb 2026 12:36:59 GMT | Kembalinya LummaStealer: Lonjakan Infeksi Lewat Fake CAPTCHA dan CastleLoader | NovanSetiadi | [Read More](https://medium.com/p/7e40309e7593) |
 | Thu, 12 Feb 2026 12:34:49 GMT | Red Teaming Simulating How Real Attackers Think | Gautam kumar | [Read More](https://medium.com/p/55237fb10116) |
 | Thu, 12 Feb 2026 12:23:24 GMT | Beyond the Alert: Why Your SOC Needs to Start Predicting the Future | Shahzad Ayub | [Read More](https://medium.com/p/6a784d123623) |
 | Thu, 12 Feb 2026 12:20:15 GMT | Why Do Events Fail Without Professional Audio Visual Support? | DLC Events | [Read More](https://medium.com/p/51c94fdf15e3) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Feb 2026 08:25:05 GMT | Software security’s pillars | Cyber Gee | [Read More](https://medium.com/p/bfabba70f19e) |
 | Thu, 12 Feb 2026 08:19:19 GMT | Citizen COP App Download — India’s Smart Crime Reporting, Emergency Alert & Cybersecurity Awareness… | Citizen COP | [Read More](https://medium.com/p/986981c51a67) |
 | Thu, 12 Feb 2026 08:16:56 GMT | Sovereignty Models Across Bitcoin Layers | Daniel Rybnik | [Read More](https://medium.com/p/c3c1bfa0235e) |
-| Thu, 12 Feb 2026 08:14:44 GMT | The Tyranny of Real-Time | The Polymath Journal | [Read More](https://medium.com/p/221f7870b970) |
-| Thu, 12 Feb 2026 08:11:00 GMT | The Big Mistake | Julius Herfel | [Read More](https://medium.com/p/4a26e24e8b78) |
-| Thu, 12 Feb 2026 08:09:08 GMT | The Role of Backup and Recovery in Ensuring Business Continuity After a Crisis | Cloudavize | [Read More](https://medium.com/p/7b2e620e890a) |
-| Thu, 12 Feb 2026 08:08:20 GMT | Cyber Security Engineer Pay in 2026: Average Salary Breakdown by Experience | Babulgupta | [Read More](https://medium.com/p/b318e6cdf1a3) |
-| Thu, 12 Feb 2026 08:01:03 GMT | The Invisible Attack That Fooled Every Major AI System | MayhemCode | [Read More](https://medium.com/p/d591d0351f33) |
-| Thu, 12 Feb 2026 07:58:18 GMT | OWASP Top 10 for Agentic Applications (2026) | eSecForte Technologies | [Read More](https://medium.com/p/620d61836cd2) |
-| Thu, 12 Feb 2026 07:58:17 GMT | Why you should learn web security in 2026 | IbnH | [Read More](https://medium.com/p/dce2e57f5f6d) |
-| Thu, 12 Feb 2026 07:57:06 GMT | Cloud Bucket OSINT: 10 Tools & Techniques Every Cybersecurity Pro Should Master | Very Lazy Tech | [Read More](https://medium.com/p/d663d1c08db3) |
-| Thu, 12 Feb 2026 07:56:01 GMT | Why Threat Modeling Fails for AI-Driven Features | Pritam Dutta | [Read More](https://medium.com/p/1ecc71e33c35) |
-| Thu, 12 Feb 2026 07:54:24 GMT | Recovery codes… Or perhaps just one recovery code? | Anton Minin Baranovskii | [Read More](https://medium.com/p/22ae723846b7) |
-| Thu, 12 Feb 2026 07:45:45 GMT | OWASP Top 10 for Agentic Applications (2026): The Ultimate Guide to Securing AI Agents | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/2459c39e37a9) |
-| Thu, 12 Feb 2026 07:37:44 GMT | Reverse Engineering: Breaking Things to Understand Them | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/5f20bc133ec4) |
-| Thu, 12 Feb 2026 07:33:32 GMT | Circumventing Broken Backslash Escapes to Pop XSS | Justin Ng | [Read More](https://medium.com/p/650250276c75) |
-| Thu, 12 Feb 2026 07:30:58 GMT | Top 10 Pentest Reconnaissance Tools | Priyanka | [Read More](https://medium.com/p/eb02ca959803) |
-| Thu, 12 Feb 2026 07:30:48 GMT | Race Condition Vulnerability | Cynox Security LLP. | [Read More](https://medium.com/p/4068dc0ca011) |
-| Thu, 12 Feb 2026 07:29:18 GMT | Fake CAPTCHA & Lumma Stealer | Muhammaddavidfirmansyah | [Read More](https://medium.com/p/cfa161b77201) |
-| Thu, 12 Feb 2026 07:25:51 GMT | Readers Don’t Want Palatable — They Want Blood | Lisa Jordan | [Read More](https://medium.com/p/47f7cebe8e57) |
-| Thu, 12 Feb 2026 07:18:45 GMT | How to Secure Customer Data in IoT-Enabled Retail Systems | HashStudioz Technologies | [Read More](https://medium.com/p/03106827333b) |
-| Thu, 12 Feb 2026 07:18:36 GMT | How I Hide Secret Information Inside an Image | Frost | [Read More](https://medium.com/p/470fd1befa72) |
-| Thu, 12 Feb 2026 07:18:26 GMT | DeFi Security in 2026: AI Is No Longer Optional — It’s Your First Line of Defense | Tryzub_X | [Read More](https://medium.com/p/bd992209faab) |
-| Thu, 12 Feb 2026 07:15:33 GMT | Beyond Google & Apple: Why Your Identity Needs Quantum-Resistant Sovereignty | Quantarium | [Read More](https://medium.com/p/43f2ba0c9741) |
