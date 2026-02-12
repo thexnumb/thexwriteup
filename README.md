@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Feb 2026 10:44:49 GMT | Shadow World : Decryption — Chapter Two (Teaser Edition) | Bond Leung | [Read More](https://medium.com/p/2351cd06ba88) |
+| Thu, 12 Feb 2026 10:40:42 GMT | Automatic Boom Barrier — Reliable Vehicle Entry Control by Etradefia | Etradefia | [Read More](https://medium.com/p/8f835839c1ef) |
+| Thu, 12 Feb 2026 10:34:46 GMT | PicoCTF Easy level — Forensics category Part 1. | Aqilah Syaima' Fadel | [Read More](https://medium.com/p/321322200396) |
+| Thu, 12 Feb 2026 10:28:12 GMT | NMAP | Sakarya Üniversitesi Siber Güvenlik Topluluğu | [Read More](https://medium.com/p/d69d42eed335) |
+| Thu, 12 Feb 2026 10:24:15 GMT | The Privileged Access Paradox | Steve Anderson | [Read More](https://medium.com/p/460d0f9a0afe) |
+| Thu, 12 Feb 2026 10:21:12 GMT | My Learning Experience with Ethical Wi-Fi Security Testing Using Kali Linux | Khadija Azam | [Read More](https://medium.com/p/1b5b49e44bab) |
+| Thu, 12 Feb 2026 10:20:55 GMT | The Poisoned Well: How AI Supply Chains Became the New Attack Vector | Kaynat Muzaffar | [Read More](https://medium.com/p/844df1ca4b05) |
+| Thu, 12 Feb 2026 10:18:24 GMT | Google Just Sounded the Alarm: Why the "Quantum Apocalypse" Is Already Here | CrypticWhale | [Read More](https://medium.com/p/ac06057b61de) |
+| Thu, 12 Feb 2026 10:16:39 GMT | Top-Rated Python Course in Delhi with Placement Assistance | cyber security Updates | [Read More](https://medium.com/p/5a9a90bf86b9) |
+| Thu, 12 Feb 2026 10:10:04 GMT | The Final Leap: Wrapping up with Coding, Careers, and AI | Sanya Sachdeva | [Read More](https://medium.com/p/de5d930a630a) |
+| Thu, 12 Feb 2026 10:05:21 GMT | Android Broadcast Receivers: A Gateway for Malware Attacks | Ruslan Mirza | [Read More](https://medium.com/p/336e4ab0de75) |
+| Thu, 12 Feb 2026 10:05:21 GMT | Trial Lawyer Claims Meta and YouTube Engineered Addiction in Children | Get info support | [Read More](https://medium.com/p/af91322f85b1) |
+| Thu, 12 Feb 2026 10:03:27 GMT | Wireshark Traffic Analysis: Cleartext Credentials & Firewall Rules | Citadel Cybersec | [Read More](https://medium.com/p/3eb7020dd131) |
+| Thu, 12 Feb 2026 09:52:33 GMT | Information Technology (IT) Market Overview 2026–2035 | Shivanshpatil | [Read More](https://medium.com/p/e2801f46e67d) |
 | Thu, 12 Feb 2026 09:47:52 GMT | CorePass ID einrichten & bei Ping Exchange registrieren — Die komplette… | Tell Me More About Core | [Read More](https://medium.com/p/fddcfca7b75b) |
 | Thu, 12 Feb 2026 09:42:27 GMT | Does a VUCAE-World lead into Mass Unemployment by Design? | Timo Toivonen | [Read More](https://medium.com/p/8c8ecd282a51) |
 | Thu, 12 Feb 2026 09:40:06 GMT | Why Every Smart Home in 2026 Needs a Mobile-Enabled Video Door Phone | Discreet solution Pvt ltd | [Read More](https://medium.com/p/3ad18675d509) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Feb 2026 05:44:02 GMT | How I Found My First Account Takeover Vulnerability | SudoHunt | [Read More](https://medium.com/p/386af5e45bc3) |
 | Thu, 12 Feb 2026 05:39:41 GMT | API Security Is Maintenance, Not a Milestone | Sarah Nzeshi | [Read More](https://medium.com/p/ea5b447a2b3e) |
 | Thu, 12 Feb 2026 05:33:26 GMT | .NET & .NET Framework February 2026 Servicing Updates — What You Need to Know | Kavathiyakhushali | [Read More](https://medium.com/p/d4b128ac2231) |
-| Thu, 12 Feb 2026 05:31:01 GMT | Guardians of the Code: The Double-Edged Sword of Generative AI in Password Security | DiUS | [Read More](https://medium.com/p/94891086f6a8) |
-| Thu, 12 Feb 2026 05:31:01 GMT | AI Is Powerful — but Who Governs It? Cybersecurity Challenges Heading into 2026 | Kmori | [Read More](https://medium.com/p/928c435a7684) |
-| Thu, 12 Feb 2026 05:27:57 GMT | What is Ethical Hacking ? A Beginner’s guide for 2026 | 0xSmit | [Read More](https://medium.com/p/ea27afe079b7) |
-| Thu, 12 Feb 2026 05:27:32 GMT | 30-Day MyDFIR SOC Analyst Challenge: Day 1 | Marc Edison Vergeire | [Read More](https://medium.com/p/0506a9841cd2) |
-| Thu, 12 Feb 2026 05:18:35 GMT | The Future of CCTV: 7 Trends Shaping the Surveillance Industry in 2026 | Karanc | [Read More](https://medium.com/p/d7ba29cd2b85) |
-| Thu, 12 Feb 2026 05:17:43 GMT | 자비스와 울트론, 그 너머: 우리는 결국 ‘비전(Vision)’을 만나야 한다. | 이현종 | [Read More](https://medium.com/p/8f687228228c) |
-| Thu, 12 Feb 2026 05:17:37 GMT | Cybersecurity Careers in 2026: What Skills & Certifications Actually Matter | HackersPrey | [Read More](https://medium.com/p/f8aac0cabcf3) |
-| Thu, 12 Feb 2026 05:14:07 GMT | Managed Security Services (MSS) Market: Growth Opportunities, Key Trends, and Future Outlook | Gauri Kale | [Read More](https://medium.com/p/810a28cf5ff9) |
-| Thu, 12 Feb 2026 05:09:35 GMT | A09:2021 — Security Logging and Monitoring Failures | pavani | [Read More](https://medium.com/p/713dabc37675) |
-| Thu, 12 Feb 2026 05:02:28 GMT | Advanced IDOR: When One Login Unlocks Multiple Identities | Shreya Dutta | [Read More](https://medium.com/p/bf05054af4e9) |
-| Thu, 12 Feb 2026 04:59:31 GMT | Extending AWS Network Firewall Protection Across Multiple VPCs | Vinayak Pandey | [Read More](https://medium.com/p/66612cb332e5) |
-| Thu, 12 Feb 2026 04:42:50 GMT | Ketika “I’m Not a Robot” Jadi Awal Serangan: Membongkar Fake CAPTCHA dan Lumma Stealer | Ibnu Hibban | [Read More](https://medium.com/p/da09803bb7b1) |
-| Thu, 12 Feb 2026 04:42:09 GMT | Building a Static Malware Analyzer in Python: A Hands-On Guide | Adryan Prawira | [Read More](https://medium.com/p/6d9f27602b43) |
-| Thu, 12 Feb 2026 04:31:01 GMT | Top 5 API Security Mistakes Developers Still Make | Hasan Chinthaka | [Read More](https://medium.com/p/9b443ca486ce) |
