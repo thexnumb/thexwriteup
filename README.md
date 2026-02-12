@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Feb 2026 20:26:18 GMT | NFS Server Setup & Multi-Platform Sharing | Karim roshdy | [Read More](https://medium.com/p/e1e15bdf71f8) |
+| Thu, 12 Feb 2026 20:12:04 GMT | DockerLabs — Profetas [Write-Up] | APS88 | [Read More](https://medium.com/p/641a99d9df33) |
+| Thu, 12 Feb 2026 19:59:02 GMT | The Cryptography Concept Journey — Diffusion | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/5078a4f7678b) |
+| Thu, 12 Feb 2026 19:58:20 GMT | Online tools used to find publicly available information about individuals | Ilgar Alakbarov | [Read More](https://medium.com/p/318e10224c40) |
+| Thu, 12 Feb 2026 19:56:09 GMT | Top Cybersecurity Companies in Florida. What Regulated Businesses Actually Need to Know | CompuWork | [Read More](https://medium.com/p/cae06f6d25b9) |
+| Thu, 12 Feb 2026 19:48:06 GMT | SQL Injection Authentication Bypass-PortSwigger Walkthrough | parul yadav | [Read More](https://medium.com/p/c6fbabfea35a) |
+| Thu, 12 Feb 2026 19:47:50 GMT | Arquitectura de Comunicaciones en Colapso: VoIP Soberana y Failover de Capa Física | Josué Acevedo Maldonado | [Read More](https://medium.com/p/bd17f5d82618) |
+| Thu, 12 Feb 2026 19:32:07 GMT | Detect API reconnaissance with a GraphQL decoy | Nikhil Salgaonkar | [Read More](https://medium.com/p/5dcca7d3b0b4) |
+| Thu, 12 Feb 2026 19:30:50 GMT | Cyber Hygiene 101: Protect Yourself From Hackers | Shahzaib | [Read More](https://medium.com/p/2ae2423e8b71) |
+| Thu, 12 Feb 2026 19:29:28 GMT | TripleTen Cybersecurity & CompTIA Security+ Bootcamp Review | Rich Chen | [Read More](https://medium.com/p/4d64cab320a2) |
 | Thu, 12 Feb 2026 19:25:32 GMT | IA na Cibersegurança: Amiga ou Inimiga? | Gaby Cyber | [Read More](https://medium.com/p/9d0b1041dc62) |
 | Thu, 12 Feb 2026 19:13:46 GMT | ALERT : QuickBooks users | SafeNetting | [Read More](https://medium.com/p/7431db667c43) |
 | Thu, 12 Feb 2026 19:10:10 GMT | From Restriction to Exposure: How a Single Feature Leaked Thousands of PII Records | bhargabKaushik | [Read More](https://medium.com/p/24ec7d171de3) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Feb 2026 13:18:40 GMT | Input Validation Explained: Secure Coding Practices with Java and Angular Examples | etwinworkshop | [Read More](https://medium.com/p/ed4702ee9cc0) |
 | Thu, 12 Feb 2026 13:16:00 GMT | Chapter 07: Cross-­Site Scripting (XSS) | Hacker00X1 | [Read More](https://medium.com/p/3bc2aa1446cf) |
 | Thu, 12 Feb 2026 13:15:33 GMT | How Integrative Attachment Theory Helps You Build Secure and Healthy Relationships | LIANA VIBES | [Read More](https://medium.com/p/5ca41a34d705) |
-| Thu, 12 Feb 2026 13:06:44 GMT | Security By Obscurity | Manan pasricha | [Read More](https://medium.com/p/72078142ccb0) |
-| Thu, 12 Feb 2026 13:05:20 GMT | Cybersecurity Isn’t About Hackers. | Raufalvi | [Read More](https://medium.com/p/13ffe89fe43a) |
-| Thu, 12 Feb 2026 13:04:15 GMT | We Don’t Need to Be Strong | David Piacentini | [Read More](https://medium.com/p/44351150779f) |
-| Thu, 12 Feb 2026 12:58:53 GMT | Mirrors Became Munition: How AI Turned Site-Cloning Into a New Attack Vector | Len Noe | [Read More](https://medium.com/p/fbfbf106178b) |
-| Thu, 12 Feb 2026 12:58:48 GMT | Cyber Security Services in Charlotte: Protecting Businesses from Modern Threats | IT Firm | [Read More](https://medium.com/p/8ae2c2361a72) |
-| Thu, 12 Feb 2026 12:53:24 GMT | Gabion Baskets in Saudi Arabia Sustainable Resilient Solutions for Modern Infrastructure… | Hitech Gabion | [Read More](https://medium.com/p/5fad2b071ae7) |
-| Thu, 12 Feb 2026 12:51:41 GMT | Digital Forensics: The Silent Detectives of the Digital Age | Dhyanineha | [Read More](https://medium.com/p/eef213407861) |
-| Thu, 12 Feb 2026 12:45:38 GMT | How to prepare for your CPENT exam | Bube | [Read More](https://medium.com/p/369aede5b26d) |
-| Thu, 12 Feb 2026 12:37:00 GMT | Red Teaming Simulating How Real Attackers Think | Gautamkumar | [Read More](https://medium.com/p/e72a1d87380a) |
-| Thu, 12 Feb 2026 12:36:59 GMT | Kembalinya LummaStealer: Lonjakan Infeksi Lewat Fake CAPTCHA dan CastleLoader | NovanSetiadi | [Read More](https://medium.com/p/7e40309e7593) |
