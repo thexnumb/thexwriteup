@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Feb 2026 21:30:58 GMT | CE 03: SD-WANs | Chimdi | [Read More](https://medium.com/p/2d67deca92d8) |
+| Fri, 13 Feb 2026 21:30:33 GMT | Overflowing Cities: How Technology Can Fix the Silent Crisis of Poor Solid Waste Management | Ssozi Derrick | [Read More](https://medium.com/p/18736d5ecea3) |
+| Fri, 13 Feb 2026 21:26:04 GMT | The Code Editor You Trust Just Became a Trojan Horse | Truong (Jack) Luu | [Read More](https://medium.com/p/6aad59f5f0c6) |
+| Fri, 13 Feb 2026 21:23:43 GMT | The Day a “Skill” Turned Into a Backdoor | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/35ea4c253605) |
+| Fri, 13 Feb 2026 21:20:21 GMT | Hands-On Cybersecurity Experience: Building a SOC Lab from Scratch (2026) | Paulius Kislinkas - Tech & Security | [Read More](https://medium.com/p/6d03e67b6097) |
+| Fri, 13 Feb 2026 21:19:05 GMT | Your SIEM is not an immune system. It’s just a burglar alarm. | Levente Simon | [Read More](https://medium.com/p/362f9920ed4f) |
+| Fri, 13 Feb 2026 21:10:13 GMT | Strengthening Network Defense for a Startup (Proposal) | Prem Kumar Santhanam | [Read More](https://medium.com/p/502dfd359d16) |
+| Fri, 13 Feb 2026 21:08:50 GMT | How Modern Businesses Can Optimize Cloud Data, Cut Costs, and Improve Performance in 2026 | emran | [Read More](https://medium.com/p/e5723f43126f) |
+| Fri, 13 Feb 2026 21:07:45 GMT | Your Next Target Has an AI Assistant. That’s the Weakest Link. | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/bfe6ba163a3c) |
 | Fri, 13 Feb 2026 20:47:21 GMT | Hacking Humans ( The Art of Social Engineering ) — Cybersecurity Unlocked: Episode 10 | Yash Kitey | [Read More](https://medium.com/p/de8747af0413) |
 | Fri, 13 Feb 2026 20:43:01 GMT | Breaking Down the Threat Surface of a Self-Hosted AI Code Copilot | JJ | [Read More](https://medium.com/p/424a70d516c8) |
 | Fri, 13 Feb 2026 20:31:02 GMT | What ISO 27001 | Ngomba Litombe | [Read More](https://medium.com/p/c75186cd091e) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Feb 2026 14:55:20 GMT | TryHackMe - Data Representation - WriteUp | Axoloth | [Read More](https://medium.com/p/594aaa6bdf5a) |
 | Fri, 13 Feb 2026 14:55:07 GMT | The Day I Realized Cloud Security Isn’t Automatic | Varunnadipena | [Read More](https://medium.com/p/89e7ff9ada1c) |
 | Fri, 13 Feb 2026 14:55:04 GMT | Zero Trust in Practice: When Access Control Maturity Meets Operational Reality | Tharindu Rajapaksha | [Read More](https://medium.com/p/b83ddec82770) |
-| Fri, 13 Feb 2026 14:52:26 GMT | What Happens When You Don’t Rotate IPs | ProxiesThatWork | [Read More](https://medium.com/p/0cd0de2adcd3) |
-| Fri, 13 Feb 2026 14:38:08 GMT | Prompt Injection Is the “Social Engineering” of AI Apps | Scottcmcmahan | [Read More](https://medium.com/p/2736a963dbf0) |
-| Fri, 13 Feb 2026 14:35:43 GMT | Cryptocurrency and National Security: Crime, Psychology, and the Fight for Financial Control | Jawad Hussain | [Read More](https://medium.com/p/1349c4983c01) |
-| Fri, 13 Feb 2026 14:34:40 GMT | Centalized logging for AWS multi-account environment with Amazon OpenSearch | Oleksii Bebych | [Read More](https://medium.com/p/014d1646d592) |
-| Fri, 13 Feb 2026 14:33:42 GMT | The Zero-to-Hero Guide to Bug Bounty Hunting: A Comprehensive Roadmap | Krishna Kumar | [Read More](https://medium.com/p/831a0a446803) |
-| Fri, 13 Feb 2026 14:29:15 GMT | Data Sovereignty and Digital Trust Frameworks: Securing Data in a Global Digital Economy | Digital Defense | [Read More](https://medium.com/p/fc7776b2e48b) |
-| Fri, 13 Feb 2026 14:26:00 GMT | How VPN Works in Real Life | Suraj Bhandari | [Read More](https://medium.com/p/30b5afbd61a7) |
-| Fri, 13 Feb 2026 14:25:45 GMT | Anxiety in the Age of Information | SaveYour | [Read More](https://medium.com/p/08395407a565) |
-| Fri, 13 Feb 2026 14:23:16 GMT | Certified Red Team Specialist V2 (CRTS V2): My Journey to Advanced Adversary Simulation | THAMER ALNAJADAT | [Read More](https://medium.com/p/4c0e41b3b42e) |
