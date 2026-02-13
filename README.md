@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Feb 2026 19:45:02 GMT | HTML Injection | Songül Kızılay Özügürler | [Read More](https://medium.com/p/8ac0bc44aa32) |
+| Fri, 13 Feb 2026 19:40:54 GMT | Username Enumeration via Different Responses | Wael | [Read More](https://medium.com/p/d9d81ef7f85d) |
+| Fri, 13 Feb 2026 19:30:53 GMT | Day 9 of Learning AWS: Security Groups and Network ACLs | Muhammad Kashif | [Read More](https://medium.com/p/f1168c1f8172) |
+| Fri, 13 Feb 2026 19:18:05 GMT | This Is What Happens When You’ve Been Left Too Many Times | Melissa Mc | [Read More](https://medium.com/p/a3b100aa973a) |
 | Fri, 13 Feb 2026 19:17:43 GMT | “Hey, j’ai encore un clown qui upload des fichiers vérolés” | Telynor | [Read More](https://medium.com/p/61f5fdd80ece) |
 | Fri, 13 Feb 2026 19:12:48 GMT | Supply Chain: Attackers Exploit Weaker Vendors to Compromise Stronger Hospitals | Travis Ray Caverhill | [Read More](https://medium.com/p/2beb310c9019) |
 | Fri, 13 Feb 2026 19:12:12 GMT | From Network Fix to Platform Capability: How I Embedded Hybrid VPN Transit into Our Infrastructure… | Salwan Mohamed | [Read More](https://medium.com/p/691e0c5bc773) |
@@ -33,6 +37,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Feb 2026 18:02:24 GMT | Understanding SSO and SAML in knowledge base systems | KnowledgeOwl | [Read More](https://medium.com/p/73b12290e12d) |
 | Fri, 13 Feb 2026 18:01:02 GMT | Treats, Vulnerabilities, and mitigations | Binesh gurung | [Read More](https://medium.com/p/90b091e4109d) |
 | Fri, 13 Feb 2026 17:56:35 GMT | The Cybersecurity Technical Project Manager: Where Security, Strategy, and Delivery Collide | David ONeal | [Read More](https://medium.com/p/c617e24d1b9f) |
+| Fri, 13 Feb 2026 17:55:14 GMT | Valenfind Walkthrough (TryHackMe): Love at First Breach CTF | Sahand Babali | [Read More](https://medium.com/p/f86d5585c7b5) |
 | Fri, 13 Feb 2026 17:54:09 GMT | Analisis Anatomi Malware Lumma Stealer melalui Framework Cyber Kill Chain | Joy | [Read More](https://medium.com/p/63087d755870) |
 | Fri, 13 Feb 2026 17:45:15 GMT | Day 1 : Beginning of Journey | Armaan Nain | [Read More](https://medium.com/p/cfc309d2e971) |
 | Fri, 13 Feb 2026 17:41:45 GMT | Cybersecurity News Review — Week 7 (2026) | Mladen Kirilov | [Read More](https://medium.com/p/fccb8daddecf) |
@@ -58,6 +63,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Feb 2026 16:22:19 GMT | How I Approach XSS Hunting as a Security Beginner | Narmadha | [Read More](https://medium.com/p/bbba9f3c4ca1) |
 | Fri, 13 Feb 2026 16:20:17 GMT | How Do You Navigate Life When Being Discontent Becomes Your Primary Emotion? | Hannah H | [Read More](https://medium.com/p/23d162d227ce) |
 | Fri, 13 Feb 2026 16:17:47 GMT | Full Asset Inventory: How Controlled Release Actually Works | InheritSafe | [Read More](https://medium.com/p/7b1b78bbe417) |
+| Fri, 13 Feb 2026 16:16:27 GMT | Lumma Stealer, Malware C2 via fake CAPTCHA | Rizqi Ramadhan | [Read More](https://medium.com/p/f6a7c05abe0c) |
 | Fri, 13 Feb 2026 16:15:24 GMT | Nmap Unleashed: A Modern Way to Supercharge Network Scanning | Pralin Khaira | [Read More](https://medium.com/p/137492b86264) |
 | Fri, 13 Feb 2026 16:10:47 GMT | Command and Control? | Josh Stryker | [Read More](https://medium.com/p/fe7a1c095384) |
 | Fri, 13 Feb 2026 16:05:57 GMT | You Are the Brain, AI Is the Tool | webnestify | [Read More](https://medium.com/p/292ed1d5cff3) |
@@ -73,6 +79,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Feb 2026 15:25:28 GMT | Complete Guide To Commercial Security Camera Installation | AlexBryn | [Read More](https://medium.com/p/5befc1c24d77) |
 | Fri, 13 Feb 2026 15:24:25 GMT | IDOR to Content Spoofing: Hijacking Brand Trust via a Simple UUID Swap | Ahm3dX_ | [Read More](https://medium.com/p/f9c10d046c5e) |
 | Fri, 13 Feb 2026 15:20:50 GMT | How Security Camera Systems Work in Daily Life | AlexBryn | [Read More](https://medium.com/p/74a6bb1efa47) |
+| Fri, 13 Feb 2026 15:18:57 GMT | The Post-Patch Era - How AI, Identity, and Telemetry Redefine the CVE Model | Aakash Rahsi | [Read More](https://medium.com/p/62e26db05a19) |
 | Fri, 13 Feb 2026 15:18:28 GMT | AI Is Not Destroying Work. It Is Changing It. — A Student’s Fear | SR - Tech Strories | [Read More](https://medium.com/p/7be2898f1c1e) |
 | Fri, 13 Feb 2026 15:18:13 GMT | Credentials After Death: How to Release Passwords Safely Without Handing Over Your Whole Digital… | Olivia Martillo | [Read More](https://medium.com/p/70d0ac6b884e) |
 | Fri, 13 Feb 2026 15:16:31 GMT | Damn Vulnerable DeFi Challenge 4: Side Entrance | 32bitsToby | [Read More](https://medium.com/p/6950042d8ef0) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Feb 2026 13:54:17 GMT | Access Control Vulnerability: Unprotected Admin Functionality | Sanjivani Dobhal | [Read More](https://medium.com/p/9080405ed28e) |
 | Fri, 13 Feb 2026 13:52:00 GMT | Is the US Cybersecurity Market Entering Its Next $100 Billion Phase? | Technology Geek | [Read More](https://medium.com/p/c177c7b92bf7) |
 | Fri, 13 Feb 2026 13:49:27 GMT | The Ultimate Guide to IT Career Roadmaps: Your Path to Tech Success | Allan Banday | [Read More](https://medium.com/p/0ce81e33d5dd) |
-| Fri, 13 Feb 2026 13:33:29 GMT | Critical Cyber Risk Solutions for Modern Brisbane Businesses | Elevate | [Read More](https://medium.com/p/8b4c71f1341a) |
-| Fri, 13 Feb 2026 13:33:08 GMT | How to Choose Payroll Software in Dubai | Dubai HR Tech Hub | [Read More](https://medium.com/p/4ec020dd2747) |
-| Fri, 13 Feb 2026 13:31:01 GMT | Hands-On Networking: Switch Configuration and IP Addressing in Action | Grace Jaman | [Read More](https://medium.com/p/9f4a0f1b490e) |
-| Fri, 13 Feb 2026 13:28:15 GMT | The Dual-Use Dilemma: AI & Cybersecurity in 2026 | Harsh Kumar | [Read More](https://medium.com/p/95da9af36f0e) |
-| Fri, 13 Feb 2026 13:24:07 GMT | The Internet of Things Security Paradox | fxis.ai | [Read More](https://medium.com/p/47f423f8fa80) |
-| Fri, 13 Feb 2026 13:16:00 GMT | How Supply Chain Attacks Turn Trust Into Exposure | Plaintext with Rich | [Read More](https://medium.com/p/64bf47cc19a0) |
-| Fri, 13 Feb 2026 13:15:34 GMT | The Day I Became a Robot’s Hands | Abdullah Javeed | [Read More](https://medium.com/p/19261d234317) |
