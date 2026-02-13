@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Feb 2026 18:01:02 GMT | Treats, Vulnerabilities, and mitigations | Binesh gurung | [Read More](https://medium.com/p/90b091e4109d) |
+| Fri, 13 Feb 2026 17:56:35 GMT | The Cybersecurity Technical Project Manager: Where Security, Strategy, and Delivery Collide | David ONeal | [Read More](https://medium.com/p/c617e24d1b9f) |
+| Fri, 13 Feb 2026 17:54:09 GMT | Analisis Anatomi Malware Lumma Stealer melalui Framework Cyber Kill Chain | Joy | [Read More](https://medium.com/p/63087d755870) |
+| Fri, 13 Feb 2026 17:45:15 GMT | Day 1 : Beginning of Journey | Armaan Nain | [Read More](https://medium.com/p/cfc309d2e971) |
+| Fri, 13 Feb 2026 17:41:45 GMT | Cybersecurity News Review — Week 7 (2026) | Mladen Kirilov | [Read More](https://medium.com/p/fccb8daddecf) |
+| Fri, 13 Feb 2026 17:37:36 GMT | Alur serangan Lumma Stealer (Fake CAPTCHA) berdasarkan Cyberkill Chain | ridhsuki_ | [Read More](https://medium.com/p/1f93b7f55631) |
+| Fri, 13 Feb 2026 17:33:01 GMT | What Cybersecurity Really Looks Like in Practice | Licio Lentimo | [Read More](https://medium.com/p/4f61ddc5d182) |
+| Fri, 13 Feb 2026 17:32:27 GMT | Deep Dive into SSRF Exploitation: Why Internal Networks Are No Longer Safe | R3dBrothers | [Read More](https://medium.com/p/d6a5a11b9f27) |
+| Fri, 13 Feb 2026 17:16:07 GMT | I Just Need Somewhere to Fall | Alizabeth Amelia Rose | [Read More](https://medium.com/p/bcb76c3035a0) |
 | Fri, 13 Feb 2026 17:11:02 GMT | The 5 Most Dangerous Hacking Gadgets of the 2020s And How Tech Fought Back | Paradise technologies Inc | [Read More](https://medium.com/p/5cd163036569) |
 | Fri, 13 Feb 2026 17:10:00 GMT | When Alerts Mean Nothing: How AI Could Fix the Noise Problem in IT and Security | Richmond Abrokwa | [Read More](https://medium.com/p/101cef3d810f) |
 | Fri, 13 Feb 2026 17:08:33 GMT | Pay No Attention to the Storage Behind the AI | Len Noe | [Read More](https://medium.com/p/45e44c11642b) |
@@ -31,6 +40,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Feb 2026 16:20:17 GMT | How Do You Navigate Life When Being Discontent Becomes Your Primary Emotion? | Hannah H | [Read More](https://medium.com/p/23d162d227ce) |
 | Fri, 13 Feb 2026 16:17:47 GMT | Full Asset Inventory: How Controlled Release Actually Works | InheritSafe | [Read More](https://medium.com/p/7b1b78bbe417) |
 | Fri, 13 Feb 2026 16:15:24 GMT | Nmap Unleashed: A Modern Way to Supercharge Network Scanning | Pralin Khaira | [Read More](https://medium.com/p/137492b86264) |
+| Fri, 13 Feb 2026 16:10:47 GMT | Command and Control? | Josh Stryker | [Read More](https://medium.com/p/fe7a1c095384) |
 | Fri, 13 Feb 2026 16:05:57 GMT | You Are the Brain, AI Is the Tool | webnestify | [Read More](https://medium.com/p/292ed1d5cff3) |
 | Fri, 13 Feb 2026 15:53:40 GMT | AI-Powered Red Teaming: Keeping Pace with Our Adversaries | Cynox Security LLP. | [Read More](https://medium.com/p/6edaa998d791) |
 | Fri, 13 Feb 2026 15:51:33 GMT | picoCTF Forensics Easy-Complete Writeup | Arfan (p4n) | [Read More](https://medium.com/p/ce2a7cb13624) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Feb 2026 11:54:55 GMT | What Every Developer Should Know About Environment Variables | Rowland | [Read More](https://medium.com/p/91ba07aeb521) |
 | Fri, 13 Feb 2026 11:54:31 GMT | AI Engineers vs Software Engineers: What’s the Difference — and Who Do You Actually Need? | SODST | [Read More](https://medium.com/p/b66b63568a76) |
 | Fri, 13 Feb 2026 11:53:35 GMT | Building an App for Your Business? Make Security a Top Priority | Triosoft Technologies | [Read More](https://medium.com/p/f772c81f98a8) |
-| Fri, 13 Feb 2026 11:45:33 GMT | Agentless Monitoring: Integrating pfSense with Wazuh via Syslog | DeshmukhVinit | [Read More](https://medium.com/p/1961d6a4c6cf) |
-| Fri, 13 Feb 2026 11:37:28 GMT | Manusia itu Siapa? | Kerangka Berpikir | [Read More](https://medium.com/p/19e45347e3fc) |
-| Fri, 13 Feb 2026 11:33:33 GMT | Frank & Herby Make an App — MicroK8s Misconfiguration Walkthrough | Roshan Rajbanshi | [Read More](https://medium.com/p/6a857f63ce60) |
-| Fri, 13 Feb 2026 11:30:43 GMT | Microsoft Copilot: Enterprise Security Modeline Eklenen Yeni Attack Surface | Emirhan Kartal | [Read More](https://medium.com/p/7cb975deb1dc) |
-| Fri, 13 Feb 2026 11:25:36 GMT | NDR in 2026: Detecting the Attacks Your EDR Still Misses | NetWitness | [Read More](https://medium.com/p/e88f70adb1c0) |
-| Fri, 13 Feb 2026 11:13:07 GMT | Working with Clinical Data on Cloud: Practical GCP-Oriented Basics for Data Engineers | p.ludwinek | [Read More](https://medium.com/p/65d7c094bb69) |
-| Fri, 13 Feb 2026 11:11:13 GMT | Identity Is the Final Frontier | Samuel Odekunle | [Read More](https://medium.com/p/3f62a70c2bf9) |
-| Fri, 13 Feb 2026 11:09:50 GMT | Alur Penyebaran Lumma Stealer (Fake CAPTCHA) menggunakan framework Cyber Kill Chain | Rasya Irham | [Read More](https://medium.com/p/51f9a7a73817) |
-| Fri, 13 Feb 2026 11:04:28 GMT | Zero-Days and Malware Campaigns Shapes This Week’s Cyber Threat Landscape | Loginsoft | [Read More](https://medium.com/p/5a32d8477f8d) |
-| Fri, 13 Feb 2026 11:02:31 GMT | The Weight of Being the Strong One | Shashi Saivi | [Read More](https://medium.com/p/ba8aec63dc7f) |
