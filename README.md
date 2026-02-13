@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Feb 2026 17:11:02 GMT | The 5 Most Dangerous Hacking Gadgets of the 2020s And How Tech Fought Back | Paradise technologies Inc | [Read More](https://medium.com/p/5cd163036569) |
+| Fri, 13 Feb 2026 17:10:00 GMT | When Alerts Mean Nothing: How AI Could Fix the Noise Problem in IT and Security | Richmond Abrokwa | [Read More](https://medium.com/p/101cef3d810f) |
+| Fri, 13 Feb 2026 17:08:33 GMT | Pay No Attention to the Storage Behind the AI | Len Noe | [Read More](https://medium.com/p/45e44c11642b) |
+| Fri, 13 Feb 2026 17:08:03 GMT | What Does the USCSI CCC™ Certification Program’s Curriculum Cover? | Anu Shreya | [Read More](https://medium.com/p/139443bd5f44) |
+| Fri, 13 Feb 2026 17:07:42 GMT | Web App Hacking Lab: Finding and Exploiting XSS (Step-by-Step Beginner Guide) | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/bf18c78a2b48) |
+| Fri, 13 Feb 2026 17:04:18 GMT | Hacker101 CTF — A little something to get you started | Cyber-Rat | [Read More](https://medium.com/p/6bc48906be02) |
+| Fri, 13 Feb 2026 17:03:54 GMT | What Does Love Want From Me? | Sheisoluwanifemi | [Read More](https://medium.com/p/ac4052bcab05) |
+| Fri, 13 Feb 2026 16:59:54 GMT | America’s NATO Deal Was Simple: You Don’t Rearm, We Run the Show. Now They Want Both. | Societive | [Read More](https://medium.com/p/d494166835ac) |
+| Fri, 13 Feb 2026 16:43:33 GMT | FIGHTING AFLATOXINS.how tech is saving lives | Fridah Nankwanga | [Read More](https://medium.com/p/0f13ebce4cd7) |
+| Fri, 13 Feb 2026 16:43:06 GMT | The Best DSPM Solutions for 2026 | Forcepoint | [Read More](https://medium.com/p/e6fd7022b2d2) |
+| Fri, 13 Feb 2026 16:41:51 GMT | When AI runs the Cyberattack: What Anthropic’s Report tells us about the Future of Security | Faisal Feroz | [Read More](https://medium.com/p/de3ecfaf08bb) |
+| Fri, 13 Feb 2026 16:39:14 GMT | STRIDE and TARA Methodologies | Maram Raboudi | [Read More](https://medium.com/p/769090aedadc) |
+| Fri, 13 Feb 2026 16:37:42 GMT | My First Week Learning Linux as an Ethical Hacker | Nishant kumar | [Read More](https://medium.com/p/1515fdbf4546) |
+| Fri, 13 Feb 2026 16:37:08 GMT | Pengantar Pemrograman Web Dan Flowchart | Zurichsabil | [Read More](https://medium.com/p/b9e636f45d25) |
+| Fri, 13 Feb 2026 16:28:07 GMT | Browser Fingerprinting: how your Browser Tracks and Spies You | Recursive Talking | [Read More](https://medium.com/p/366d52c54b12) |
+| Fri, 13 Feb 2026 16:22:19 GMT | How I Approach XSS Hunting as a Security Beginner | Narmadha | [Read More](https://medium.com/p/bbba9f3c4ca1) |
+| Fri, 13 Feb 2026 16:20:17 GMT | How Do You Navigate Life When Being Discontent Becomes Your Primary Emotion? | Hannah H | [Read More](https://medium.com/p/23d162d227ce) |
+| Fri, 13 Feb 2026 16:17:47 GMT | Full Asset Inventory: How Controlled Release Actually Works | InheritSafe | [Read More](https://medium.com/p/7b1b78bbe417) |
+| Fri, 13 Feb 2026 16:15:24 GMT | Nmap Unleashed: A Modern Way to Supercharge Network Scanning | Pralin Khaira | [Read More](https://medium.com/p/137492b86264) |
+| Fri, 13 Feb 2026 16:05:57 GMT | You Are the Brain, AI Is the Tool | webnestify | [Read More](https://medium.com/p/292ed1d5cff3) |
 | Fri, 13 Feb 2026 15:53:40 GMT | AI-Powered Red Teaming: Keeping Pace with Our Adversaries | Cynox Security LLP. | [Read More](https://medium.com/p/6edaa998d791) |
 | Fri, 13 Feb 2026 15:51:33 GMT | picoCTF Forensics Easy-Complete Writeup | Arfan (p4n) | [Read More](https://medium.com/p/ce2a7cb13624) |
 | Fri, 13 Feb 2026 15:50:06 GMT | The $1 Trillion Defense Line: Why Cybersecurity Is Becoming the World’s Most Important Industry | TechDemocracy | [Read More](https://medium.com/p/9a783ccce9a9) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Feb 2026 11:09:50 GMT | Alur Penyebaran Lumma Stealer (Fake CAPTCHA) menggunakan framework Cyber Kill Chain | Rasya Irham | [Read More](https://medium.com/p/51f9a7a73817) |
 | Fri, 13 Feb 2026 11:04:28 GMT | Zero-Days and Malware Campaigns Shapes This Week’s Cyber Threat Landscape | Loginsoft | [Read More](https://medium.com/p/5a32d8477f8d) |
 | Fri, 13 Feb 2026 11:02:31 GMT | The Weight of Being the Strong One | Shashi Saivi | [Read More](https://medium.com/p/ba8aec63dc7f) |
-| Fri, 13 Feb 2026 11:01:11 GMT | Build a Vulnerable IIS SharePoint Lab with Fluent Bit: Complete Deployment Guide | Andrey Pautov | [Read More](https://medium.com/p/8fe947e8439e) |
-| Fri, 13 Feb 2026 10:57:54 GMT | Crime Reporting App India - Why Crimes Go Unreported | Citizen COP | [Read More](https://medium.com/p/ca9011f10e62) |
-| Fri, 13 Feb 2026 10:57:13 GMT | Shadow World : Decryption — Chapter Three (Teaser Edition) | Bond Leung | [Read More](https://medium.com/p/efff50877dd4) |
-| Fri, 13 Feb 2026 10:56:59 GMT | Why Reliable IT Support Is the Backbone of Modern Business Success | vortex it systems | [Read More](https://medium.com/p/0ce9ebd225c8) |
-| Fri, 13 Feb 2026 10:56:44 GMT | Beyond Checkboxes: How Quince Reinvented Vendor Security Assessments | Avinash Jain (@logicbomb) | [Read More](https://medium.com/p/7bf75bdeff04) |
-| Fri, 13 Feb 2026 10:54:25 GMT | KASE Scenarios: Orkla — Dragon Con Detective | Rishabh Gupta | [Read More](https://medium.com/p/5095dba01c89) |
-| Fri, 13 Feb 2026 10:50:14 GMT | How SOC and NOC Convergence Is Becoming the New Standard in CyberOps | Aanchal Sharma | [Read More](https://medium.com/p/0b94fa258121) |
-| Fri, 13 Feb 2026 10:47:52 GMT | What is a Digital Video Recorder (DVR)? | Doris William | [Read More](https://medium.com/p/ad56eeb8ee85) |
-| Fri, 13 Feb 2026 10:46:00 GMT | Trust the Code, Not the Suite: Enhancing Location Planning with Simplified Arithmetic and C# | Namir Sagheenanajar | [Read More](https://medium.com/p/07d0217be437) |
-| Fri, 13 Feb 2026 10:40:38 GMT | DockerLabs Writeup — Crossfi (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/69103c7298fc) |
-| Fri, 13 Feb 2026 10:34:52 GMT | Human-Centric Exploitation: Analisis Lumma Stealer melalui Teknik Fake CAPTCHA | Rizky Fadilatul | [Read More](https://medium.com/p/9c4defc237d2) |
-| Fri, 13 Feb 2026 10:33:12 GMT | Trust in Uniform: Real Stories of Security and Protection | Grdsnscrt | [Read More](https://medium.com/p/98fe0a24dcd5) |
-| Fri, 13 Feb 2026 10:30:58 GMT | Stop Guessing Microservice Boundaries | Dan Kantic | [Read More](https://medium.com/p/9f735fdce49c) |
-| Fri, 13 Feb 2026 10:28:52 GMT | Pentester Bytes: API Pentesting Methodology — Lack of Resources and Rate Limiting | Shivam Bathla | [Read More](https://medium.com/p/a7cbfd91ce1e) |
-| Fri, 13 Feb 2026 10:28:10 GMT | Bölüm 9: SOC’ta Eskalasyon ve Kriz Yönetimi | Sinan Aydın | [Read More](https://medium.com/p/6b3e9b0b4287) |
-| Fri, 13 Feb 2026 10:26:50 GMT | What is the Role of AI in Ethical Hacking? | Manisha Chaudhary | [Read More](https://medium.com/p/faf67a530000) |
-| Fri, 13 Feb 2026 10:17:35 GMT | A10: Server-Side Request Forgery (SSRF) | pavani | [Read More](https://medium.com/p/0a87118638e9) |
-| Fri, 13 Feb 2026 10:16:06 GMT | How does AI affect user data privacy? | Nschool Academy | [Read More](https://medium.com/p/02f261e73df3) |
-| Fri, 13 Feb 2026 10:11:38 GMT | The Future of Cyber Security: Trends, Challenges, and Opportunities | Ntech Global Solutions | [Read More](https://medium.com/p/63b1eab11ccb) |
-| Fri, 13 Feb 2026 10:09:24 GMT | Why you should care about keeping your data secure | Register Dynamics | [Read More](https://medium.com/p/80ad9e2fe2ac) |
