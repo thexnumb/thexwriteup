@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Feb 2026 14:03:11 GMT | MAC Kimlik Değildir: NAC Ortamlarında MAC Spoofing ve DHCP Fingerprinting Gerçeği | Emre Koç | [Read More](https://medium.com/p/3c7ad1d54b9b) |
+| Fri, 13 Feb 2026 14:01:02 GMT | JWT Revocation Strategies: Implementing Bloom Filters for High-Speed Token Blacklisting | The Speed Engineer | [Read More](https://medium.com/p/49be6855c539) |
+| Fri, 13 Feb 2026 13:56:22 GMT | Europe Cybersecurity Market Outlook to 2030 - Latest Trends & Future Scope | Technology Geek | [Read More](https://medium.com/p/1f90ed84a31c) |
+| Fri, 13 Feb 2026 13:56:18 GMT | SASE and SDN: Policy-Driven Connectivity Through Network Visibility and Real-Time Enforcement | Chris Yeung | [Read More](https://medium.com/p/888cb871af5b) |
+| Fri, 13 Feb 2026 13:54:17 GMT | Access Control Vulnerability: Unprotected Admin Functionality | Sanjivani Dobhal | [Read More](https://medium.com/p/9080405ed28e) |
+| Fri, 13 Feb 2026 13:52:00 GMT | Is the US Cybersecurity Market Entering Its Next $100 Billion Phase? | Technology Geek | [Read More](https://medium.com/p/c177c7b92bf7) |
+| Fri, 13 Feb 2026 13:49:27 GMT | The Ultimate Guide to IT Career Roadmaps: Your Path to Tech Success | Allan Banday | [Read More](https://medium.com/p/0ce81e33d5dd) |
+| Fri, 13 Feb 2026 13:33:29 GMT | Critical Cyber Risk Solutions for Modern Brisbane Businesses | Elevate | [Read More](https://medium.com/p/8b4c71f1341a) |
+| Fri, 13 Feb 2026 13:33:08 GMT | How to Choose Payroll Software in Dubai | Dubai HR Tech Hub | [Read More](https://medium.com/p/4ec020dd2747) |
+| Fri, 13 Feb 2026 13:31:01 GMT | Hands-On Networking: Switch Configuration and IP Addressing in Action | Grace Jaman | [Read More](https://medium.com/p/9f4a0f1b490e) |
+| Fri, 13 Feb 2026 13:28:15 GMT | The Dual-Use Dilemma: AI & Cybersecurity in 2026 | Harsh Kumar | [Read More](https://medium.com/p/95da9af36f0e) |
+| Fri, 13 Feb 2026 13:24:07 GMT | The Internet of Things Security Paradox | fxis.ai | [Read More](https://medium.com/p/47f423f8fa80) |
+| Fri, 13 Feb 2026 13:16:00 GMT | How Supply Chain Attacks Turn Trust Into Exposure | Plaintext with Rich | [Read More](https://medium.com/p/64bf47cc19a0) |
+| Fri, 13 Feb 2026 13:14:48 GMT | Will AI Replace Cyber Security Jobs? The Truth No One Tells You | Kiranraj | [Read More](https://medium.com/p/d181c09b8903) |
+| Fri, 13 Feb 2026 13:09:55 GMT | Shady Oaks Financial | 7s26Simon | [Read More](https://medium.com/p/df4f3767f957) |
+| Fri, 13 Feb 2026 13:08:09 GMT | Penetration Testing Service: Strengthening Cybersecurity Through Ethical Hacking | Cyber Sapiens | [Read More](https://medium.com/p/01f68ef58324) |
 | Fri, 13 Feb 2026 13:01:12 GMT | ผมสอบใบเซอร์ Cybersecurity 20 กว่าใบ ในปี 2025 แล้วผมจะมาจัด Tier ว่าใบไหนคุ้มค่าที่สุด! | Chicken0248 | [Read More](https://medium.com/p/c4b62969c68e) |
 | Fri, 13 Feb 2026 13:01:02 GMT | Full Stack Cybersecurity & CompTIA Security+ Bootcamp Review | Rich Chen | [Read More](https://medium.com/p/b5244ffbe0ad) |
 | Fri, 13 Feb 2026 12:59:43 GMT | A Senegal-Style Biometric Breach Would Be a State Failure for Guinea-Not a Technical Accident | Migdad latif Shaw | [Read More](https://medium.com/p/009212b2852f) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Feb 2026 08:14:25 GMT | The Joys of Drone Controller Firmware — Or, Why Nobody Looks at the Thing in the Pilot’s Hands | UK Cyber Defence | [Read More](https://medium.com/p/ecdb8d1110f2) |
 | Fri, 13 Feb 2026 08:13:14 GMT | Modern Masculinity with Depeche Mode: When Vulnerability Becomes the Boldest Form of Strength | Pia Lütkebomert | [Read More](https://medium.com/p/45bac159142d) |
 | Fri, 13 Feb 2026 08:10:47 GMT | CEH Certification Requirements: Skills, Training, and Exam Eligibility | EINITIAL24 | [Read More](https://medium.com/p/ab755c159018) |
-| Fri, 13 Feb 2026 08:07:49 GMT | 10 Cybersecurity Predictions That Will Define 2026 | Abstract Mind | [Read More](https://medium.com/p/afcf396fdf04) |
-| Fri, 13 Feb 2026 08:05:44 GMT | How I found sensitive data exposure on web page “Access to the root URL is not allowed.” | Albertstive | [Read More](https://medium.com/p/5594fdd6cb57) |
-| Fri, 13 Feb 2026 08:01:01 GMT | Ten AI Attacks That Should Have Made Headlines | MayhemCode | [Read More](https://medium.com/p/e9e7d4df055b) |
-| Fri, 13 Feb 2026 07:57:39 GMT | SEO & Google Ranking Services in Jodhpur: Grow Your Business with TechieHelp | Ashokbishnoi | [Read More](https://medium.com/p/9eb1d8800812) |
-| Fri, 13 Feb 2026 07:54:25 GMT | Securing the Future of Automated Web3 Trading: A Case Study | Auditmos | [Read More](https://medium.com/p/baa3ce21112e) |
-| Fri, 13 Feb 2026 07:46:30 GMT | Vulnerability Assessment: The First Line of Defense in Cybersecurity | Nipundarge | [Read More](https://medium.com/p/108bcb0ffe35) |
-| Fri, 13 Feb 2026 07:34:24 GMT | How Remote Monitoring Services Detect Performance Bottlenecks Early | Gavin Ellis | [Read More](https://medium.com/p/61f3cedd6f96) |
-| Fri, 13 Feb 2026 07:32:50 GMT | Ethical Hacking Training in Mumbai | sevenmentor | [Read More](https://medium.com/p/a3b722ed1e97) |
-| Fri, 13 Feb 2026 07:31:11 GMT | AI and Machine Learning in Cybersecurity | Cynox Security LLP. | [Read More](https://medium.com/p/032ecea21a7c) |
-| Fri, 13 Feb 2026 07:30:21 GMT | Creating Python Extensions Using Rust (PyO3) | Majidbasharat | [Read More](https://medium.com/p/495e6ad89fc1) |
-| Fri, 13 Feb 2026 07:26:34 GMT | Hire N8N Developers for Powerful Business Automation | n8ndevelopers | [Read More](https://medium.com/p/7ca3fe07c2f9) |
-| Fri, 13 Feb 2026 07:26:30 GMT | Designing a secure LLM API: Implementation Details | Bikash Shukla | [Read More](https://medium.com/p/265c2799bed7) |
-| Fri, 13 Feb 2026 07:22:44 GMT | SecureBankKit: The Open-Source Security Toolkit Your Banking iOS App Is Missing | Deepak Pal | [Read More](https://medium.com/p/304730ce3edc) |
-| Fri, 13 Feb 2026 07:20:41 GMT | Cybercriminalité : les 7 affaires et sanctions du 13 fév 2026 | Marc Barbezat | [Read More](https://medium.com/p/d17bb69bb202) |
-| Fri, 13 Feb 2026 07:20:33 GMT | The Corix Partners Friday Reading List — February 13, 2026 | JC Gaillard | [Read More](https://medium.com/p/bd977879a859) |
-| Fri, 13 Feb 2026 07:14:34 GMT | Stop Breaches Before They Start: Why You Need a Dedicated Managed SOC | Redfox Security | [Read More](https://medium.com/p/84db41aa1df5) |
