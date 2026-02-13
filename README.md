@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Feb 2026 22:19:46 GMT | Day 12 — Windows Privilege Escalation THM | Cybersecurity with Jojo | [Read More](https://medium.com/p/5fa9b4e54f2c) |
+| Fri, 13 Feb 2026 22:14:09 GMT | Implementing Apple App Attest for iOS API Security — No More Static Secrets | Egzon Pllana | [Read More](https://medium.com/p/952014ed5058) |
+| Fri, 13 Feb 2026 22:11:00 GMT | Breaking the Box: bypassing Node.js Filesystem Permissions via Symlinks (CVE-2025–55130) | Krishna Kumar | [Read More](https://medium.com/p/0b9ad44920f9) |
+| Fri, 13 Feb 2026 22:07:15 GMT | High-Level Architecture for Centralized SIEM Deployment | Karim roshdy | [Read More](https://medium.com/p/a667f0e993d4) |
+| Fri, 13 Feb 2026 22:05:43 GMT | 30 Days of Red Team: Day 23 — Kerberoasting & AS-REP Roasting | Maxwell Cross | [Read More](https://medium.com/p/ad99f265e0c5) |
+| Fri, 13 Feb 2026 22:01:01 GMT | Unfiltered Restart— Day 3: Firmware Memories | Maximillian Rueda | [Read More](https://medium.com/p/2da2ffdf95c0) |
+| Fri, 13 Feb 2026 21:56:00 GMT | NIST Is Rethinking Identity for AI Agents — And That’s a Big Deal | Kmori | [Read More](https://medium.com/p/f7bb048bff26) |
+| Fri, 13 Feb 2026 21:47:46 GMT | Lab Guide: Building a Windows Active Directory Environment | Karim roshdy | [Read More](https://medium.com/p/750a12ed3991) |
+| Fri, 13 Feb 2026 21:47:38 GMT | Investigating Security Incidents | Boluwatife Shopeju | [Read More](https://medium.com/p/142a448a46d8) |
 | Fri, 13 Feb 2026 21:30:58 GMT | CE 03: SD-WANs | Chimdi | [Read More](https://medium.com/p/2d67deca92d8) |
 | Fri, 13 Feb 2026 21:30:33 GMT | Overflowing Cities: How Technology Can Fix the Silent Crisis of Poor Solid Waste Management | Ssozi Derrick | [Read More](https://medium.com/p/18736d5ecea3) |
 | Fri, 13 Feb 2026 21:26:04 GMT | The Code Editor You Trust Just Became a Trojan Horse | Truong (Jack) Luu | [Read More](https://medium.com/p/6aad59f5f0c6) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Feb 2026 15:18:28 GMT | AI Is Not Destroying Work. It Is Changing It. — A Student’s Fear | SR - Tech Strories | [Read More](https://medium.com/p/7be2898f1c1e) |
 | Fri, 13 Feb 2026 15:18:13 GMT | Credentials After Death: How to Release Passwords Safely Without Handing Over Your Whole Digital… | Olivia Martillo | [Read More](https://medium.com/p/70d0ac6b884e) |
 | Fri, 13 Feb 2026 15:16:31 GMT | Damn Vulnerable DeFi Challenge 4: Side Entrance | 32bitsToby | [Read More](https://medium.com/p/6950042d8ef0) |
-| Fri, 13 Feb 2026 15:08:59 GMT | Breaking into Technical Communication: A Realistic Career Path Guide | Iryna Trepechuk | [Read More](https://medium.com/p/4fd6b38ba2b2) |
-| Fri, 13 Feb 2026 15:02:32 GMT | TryHackMe - Data Encoding - WriteUp | Axoloth | [Read More](https://medium.com/p/c37d775f0fa1) |
-| Fri, 13 Feb 2026 15:01:02 GMT | Cyber Briefing: 2026.02.13 | CyberMaterial | [Read More](https://medium.com/p/04e6eedb15cb) |
-| Fri, 13 Feb 2026 15:01:02 GMT | Testing and Deploying Responsible & Secure AI Agents | Michael van Meurer | [Read More](https://medium.com/p/27c7db1460b8) |
-| Fri, 13 Feb 2026 14:56:24 GMT | Simplifying User Access Reviews in Regulated, Hybrid Environments | Openiam | [Read More](https://medium.com/p/97e70744a403) |
-| Fri, 13 Feb 2026 14:55:52 GMT | FROM CAPTCHA TO CATASTROPHE: MEMBEDAH SERANGAN LUMMA STEALER DENGAN FRAMEWORK CYBER KILL CHAIN | Yrddry | [Read More](https://medium.com/p/322f1ac08370) |
-| Fri, 13 Feb 2026 14:55:20 GMT | TryHackMe - Data Representation - WriteUp | Axoloth | [Read More](https://medium.com/p/594aaa6bdf5a) |
-| Fri, 13 Feb 2026 14:55:07 GMT | The Day I Realized Cloud Security Isn’t Automatic | Varunnadipena | [Read More](https://medium.com/p/89e7ff9ada1c) |
-| Fri, 13 Feb 2026 14:55:04 GMT | Zero Trust in Practice: When Access Control Maturity Meets Operational Reality | Tharindu Rajapaksha | [Read More](https://medium.com/p/b83ddec82770) |
