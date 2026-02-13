@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Feb 2026 02:25:59 GMT | I Thought Learning Web Security Was About Payloads. I Was Wrong. | Robert Perez | [Read More](https://medium.com/p/aa4b9892cbbe) |
+| Fri, 13 Feb 2026 02:13:41 GMT | Same Question, Different Words — Do Search Rankings Stay Stable? | Kashish Lalwani | [Read More](https://medium.com/p/2bf28c07cf20) |
+| Fri, 13 Feb 2026 02:07:25 GMT | Treating Data as an Asset: An Honest Take on Data Privacy | PATRICK ELVIN HEMPESO | [Read More](https://medium.com/p/6404c1da6e37) |
+| Fri, 13 Feb 2026 02:01:30 GMT | Trik Agar Login RUANG88 Tidak Error | guestme? | [Read More](https://medium.com/p/c6e7f13be9db) |
+| Fri, 13 Feb 2026 02:01:01 GMT | Cape Mobile’s Mythical SIM Swap Protection Is a Myth | Samuel Brice | [Read More](https://medium.com/p/0029c4d07a9d) |
+| Fri, 13 Feb 2026 01:54:05 GMT | Exploiting Backup Files: Root-Me CTF | Iklil Daris | [Read More](https://medium.com/p/6c45e9d428de) |
+| Fri, 13 Feb 2026 01:31:03 GMT | Cyber Security Foundation Series — Computer Networking Part-04(Ports & Protocols) | Kamal Kishor Mahto | [Read More](https://medium.com/p/d1fec9bfbcaa) |
+| Fri, 13 Feb 2026 01:31:01 GMT | Threat Modeling AI Agents: A Hotel Customer Support Case Study | Veilfire | [Read More](https://medium.com/p/e37dec253efa) |
+| Fri, 13 Feb 2026 01:27:15 GMT | Zero-Click Spyware: The Invisible Threat You Need to Understand | Laith | [Read More](https://medium.com/p/71dad28237fa) |
+| Fri, 13 Feb 2026 01:24:37 GMT | A List of Every Cybersecurity Abbreviation There Is (Part 5) | Raymond Ebonine | [Read More](https://medium.com/p/38d766f3076d) |
+| Fri, 13 Feb 2026 01:23:44 GMT | Top 10 Recon Mistakes That Make Hackers Miss Easy Bugs | Vipul Sonule | [Read More](https://medium.com/p/7618c8ae1e88) |
+| Fri, 13 Feb 2026 01:23:15 GMT | Breaking Role Barriers: Exploiting Broken Access Control in CriticalOps — HTB Walkthrough | Fuzzyy Duck | [Read More](https://medium.com/p/cb81d3aef820) |
+| Fri, 13 Feb 2026 01:00:35 GMT | Security as Architecture: When Participation Becomes the Defense | sengom | [Read More](https://medium.com/p/eb5ca7069f5f) |
+| Fri, 13 Feb 2026 00:55:37 GMT | câmera ip icsee externa wifi:vale a pena? | Brunohenrique | [Read More](https://medium.com/p/2a387077bb79) |
+| Fri, 13 Feb 2026 00:27:23 GMT | At the bottom, add tags like: Fashion Design, Garment Construction, Pattern Making, Textile… | Ouveshalam | [Read More](https://medium.com/p/37a33f74d676) |
+| Fri, 13 Feb 2026 00:01:31 GMT | Anonymous Auto Tor Proxy IP Changer | Mr Robot Hackteam | [Read More](https://medium.com/p/54da7adbf434) |
+| Fri, 13 Feb 2026 00:01:01 GMT | Arp-Scan para Pentesting: Escaneo de Red y Bypass de Firewalls | JPablo13 | [Read More](https://medium.com/p/e05f63e72859) |
+| Thu, 12 Feb 2026 23:56:06 GMT | AWS S3 Bucket Recon Bugbounty | Mr Robot Hackteam | [Read More](https://medium.com/p/be15c0c73c68) |
 | Thu, 12 Feb 2026 23:19:14 GMT | The Straightening | Chris Perkins | [Read More](https://medium.com/p/3b662dbf389e) |
 | Thu, 12 Feb 2026 23:18:20 GMT | Your AI Chat Knows More Than You Think And That’s the Point | Dimitrios Misios | [Read More](https://medium.com/p/ec15bf3458cb) |
 | Thu, 12 Feb 2026 23:17:27 GMT | The Hacker’s Map: Mastering the 7 Layers of the OSI Model | Emreksbr | [Read More](https://medium.com/p/0f23ae3433c1) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Feb 2026 16:33:49 GMT | Stop Typing Your Password at Boot: TPM Encryption Auto-Unlock on Fedora | Illya Yalovoy | [Read More](https://medium.com/p/99eb0b06defd) |
 | Thu, 12 Feb 2026 16:33:08 GMT | ZeroDayRAT: The Commercial Spyware Kit Turning Every Smartphone into a Target. | eL Njas!™ | [Read More](https://medium.com/p/4c21c9539aa1) |
 | Thu, 12 Feb 2026 16:31:32 GMT | Hire a Hacker: The Complete Guide to Ethical, Safe & Legal Services | Trythat | [Read More](https://medium.com/p/3463e9399912) |
-| Thu, 12 Feb 2026 16:29:14 GMT | easy_temp Challenge Write-up — Cypertalants | Z3DX | [Read More](https://medium.com/p/868aa1b97816) |
-| Thu, 12 Feb 2026 16:23:52 GMT | The Day I Stopped Drifting | Armaan Nain | [Read More](https://medium.com/p/94bddbf3437e) |
-| Thu, 12 Feb 2026 16:20:52 GMT | An Open Letter to Those Who Feel Heavy, Vulnerable, or Overwhelmed | Digital Office at Home with Marian LaSalle | [Read More](https://medium.com/p/783bae478583) |
-| Thu, 12 Feb 2026 16:17:33 GMT | A Step-by-Step Process to Hire a Security Guard Company in Arcadia | Reliable Security Services Blog | [Read More](https://medium.com/p/d41b166e2625) |
-| Thu, 12 Feb 2026 16:15:10 GMT | MoneyBox - VulnHub Walkthrough by Arjun C U | Arjun c u | [Read More](https://medium.com/p/ee80791a841f) |
-| Thu, 12 Feb 2026 16:06:48 GMT | what is python? | Kevin Ronex | [Read More](https://medium.com/p/56920c5932cd) |
-| Thu, 12 Feb 2026 16:06:05 GMT | The Unexpected Tech Boom: Why Cybersecurity is Exploding in Altadena, CA (2026) | Shanker Goud | [Read More](https://medium.com/p/471ca0db63a9) |
-| Thu, 12 Feb 2026 16:01:02 GMT | Immutable Linux Distros: How They Differ and Where They’re Going | Can Artuc | [Read More](https://medium.com/p/57b14b630f7b) |
-| Thu, 12 Feb 2026 16:00:56 GMT | THE FIRST STEP OF SECURITY | Funmitoadesola | [Read More](https://medium.com/p/3663a173767d) |
-| Thu, 12 Feb 2026 15:54:29 GMT | Security Analysis & Protocol Enhancement Proposals for GenLayer Intelligent Contracts | iwoxbt | [Read More](https://medium.com/p/5b206247e9c8) |
-| Thu, 12 Feb 2026 15:50:37 GMT | WebSocket Penetration Testing: How to Test for WebSocket Hijacking, IDOR, Injection & More | Assassin | [Read More](https://medium.com/p/b2fe9676da07) |
-| Thu, 12 Feb 2026 15:48:04 GMT | The Power of Manual Exploration: How I Earned €300 by Digging Deeper | DOD cyber solutions | [Read More](https://medium.com/p/3033f802d5fa) |
-| Thu, 12 Feb 2026 15:46:00 GMT | ClickFix to Linked-Device Takeovers: Will Star Blizzard Introduce a New Initial-Access Vector by… | Wes Young | [Read More](https://medium.com/p/28936a492379) |
-| Thu, 12 Feb 2026 15:45:44 GMT | Red Teaming in Cyber Security: Thinking Like the Adversary | Cynox Security LLP. | [Read More](https://medium.com/p/e6ba3899e5ca) |
-| Thu, 12 Feb 2026 15:43:47 GMT | Expanding React2Shell for Serverless Lambda Function | Matthew Keeley | [Read More](https://medium.com/p/647de21722b4) |
-| Thu, 12 Feb 2026 15:33:24 GMT | Global Cyber Champion 2025–2026 CTF- Tangled Challenge | 0xMekawy | [Read More](https://medium.com/p/0dd2bebafe94) |
-| Thu, 12 Feb 2026 15:32:12 GMT | Crypto Research Tools — OSINT | loyalonlytoday | [Read More](https://medium.com/p/03ba3a835887) |
-| Thu, 12 Feb 2026 15:32:00 GMT | AI Search engines for OSINT | loyalonlytoday | [Read More](https://medium.com/p/11fad1d32baf) |
