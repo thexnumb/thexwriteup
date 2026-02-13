@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Feb 2026 20:47:21 GMT | Hacking Humans ( The Art of Social Engineering ) — Cybersecurity Unlocked: Episode 10 | Yash Kitey | [Read More](https://medium.com/p/de8747af0413) |
+| Fri, 13 Feb 2026 20:43:01 GMT | Breaking Down the Threat Surface of a Self-Hosted AI Code Copilot | JJ | [Read More](https://medium.com/p/424a70d516c8) |
+| Fri, 13 Feb 2026 20:31:02 GMT | What ISO 27001 | Ngomba Litombe | [Read More](https://medium.com/p/c75186cd091e) |
+| Fri, 13 Feb 2026 20:25:32 GMT | Intelligence Arbitrage: The 2026 Structural Reset of Indian IT | Aditya Baghel | [Read More](https://medium.com/p/aff5d726a444) |
+| Fri, 13 Feb 2026 20:21:17 GMT | Building Secure Password Management | Cordula Boeck | [Read More](https://medium.com/p/30c256c41c53) |
+| Fri, 13 Feb 2026 20:17:54 GMT | Bekarlık Sultanlık: Pig Butchering | Serhan Eraslan | [Read More](https://medium.com/p/8e991e2be26a) |
+| Fri, 13 Feb 2026 20:13:22 GMT | The most important word you need to know about AI, traffic not visible in network logs, securing… | Teri Radichel | [Read More](https://medium.com/p/85aaf2166a1f) |
+| Fri, 13 Feb 2026 20:04:26 GMT | Exploring Automotive Security: Hidden Risks Every Driver Faces | Abhinav Pathak | [Read More](https://medium.com/p/5ea2a76e045b) |
+| Fri, 13 Feb 2026 20:01:11 GMT | Is Your NPP Illegal? 5 Phrases You Must Add by Feb 16 | IT_Engineer | [Read More](https://medium.com/p/4980a9bcb7b5) |
+| Fri, 13 Feb 2026 19:58:59 GMT | How I Built a Hidden Encrypted Vault with VeraCrypt | ZeakPeak | [Read More](https://medium.com/p/dda3fd4e30b2) |
+| Fri, 13 Feb 2026 19:56:32 GMT | How Python is Used by JPMorgan in Cybersecurity | Vinit kumar | [Read More](https://medium.com/p/2b67dd837a4b) |
 | Fri, 13 Feb 2026 19:45:02 GMT | HTML Injection | Songül Kızılay Özügürler | [Read More](https://medium.com/p/8ac0bc44aa32) |
 | Fri, 13 Feb 2026 19:40:54 GMT | Username Enumeration via Different Responses | Wael | [Read More](https://medium.com/p/d9d81ef7f85d) |
 | Fri, 13 Feb 2026 19:30:53 GMT | Day 9 of Learning AWS: Security Groups and Network ACLs | Muhammad Kashif | [Read More](https://medium.com/p/f1168c1f8172) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Feb 2026 14:26:00 GMT | How VPN Works in Real Life | Suraj Bhandari | [Read More](https://medium.com/p/30b5afbd61a7) |
 | Fri, 13 Feb 2026 14:25:45 GMT | Anxiety in the Age of Information | SaveYour | [Read More](https://medium.com/p/08395407a565) |
 | Fri, 13 Feb 2026 14:23:16 GMT | Certified Red Team Specialist V2 (CRTS V2): My Journey to Advanced Adversary Simulation | THAMER ALNAJADAT | [Read More](https://medium.com/p/4c0e41b3b42e) |
-| Fri, 13 Feb 2026 14:21:01 GMT | 7 Github Gems | C. L. Beard | [Read More](https://medium.com/p/655b782f4963) |
-| Fri, 13 Feb 2026 14:17:09 GMT | Laporan Praktikum Struktur Data : Arraay Dalam Python | Cahyoadi | [Read More](https://medium.com/p/f8c5461e50e0) |
-| Fri, 13 Feb 2026 14:15:18 GMT | Authentication as Infrastructure: Why Are Product Teams Still Building It Themselves? | Anton Minin Baranovskii | [Read More](https://medium.com/p/9f276d4767a2) |
-| Fri, 13 Feb 2026 14:12:26 GMT | Secure SSH Login Using FIDO2 Hardware Security Device | ngtbinh8x | [Read More](https://medium.com/p/ace268ba5331) |
-| Fri, 13 Feb 2026 14:03:11 GMT | MAC Kimlik Değildir: NAC Ortamlarında MAC Spoofing ve DHCP Fingerprinting Gerçeği | Emre Koç | [Read More](https://medium.com/p/3c7ad1d54b9b) |
-| Fri, 13 Feb 2026 14:01:02 GMT | JWT Revocation Strategies: Implementing Bloom Filters for High-Speed Token Blacklisting | The Speed Engineer | [Read More](https://medium.com/p/49be6855c539) |
-| Fri, 13 Feb 2026 13:56:22 GMT | Europe Cybersecurity Market Outlook to 2030 - Latest Trends & Future Scope | Technology Geek | [Read More](https://medium.com/p/1f90ed84a31c) |
-| Fri, 13 Feb 2026 13:56:18 GMT | SASE and SDN: Policy-Driven Connectivity Through Network Visibility and Real-Time Enforcement | Chris Yeung | [Read More](https://medium.com/p/888cb871af5b) |
-| Fri, 13 Feb 2026 13:54:17 GMT | Access Control Vulnerability: Unprotected Admin Functionality | Sanjivani Dobhal | [Read More](https://medium.com/p/9080405ed28e) |
-| Fri, 13 Feb 2026 13:52:00 GMT | Is the US Cybersecurity Market Entering Its Next $100 Billion Phase? | Technology Geek | [Read More](https://medium.com/p/c177c7b92bf7) |
-| Fri, 13 Feb 2026 13:49:27 GMT | The Ultimate Guide to IT Career Roadmaps: Your Path to Tech Success | Allan Banday | [Read More](https://medium.com/p/0ce81e33d5dd) |
