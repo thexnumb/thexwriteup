@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Feb 2026 04:23:07 GMT | Architectural Asymmetry in Authentication: Part 1 — Summary | Anton Minin Baranovskii | [Read More](https://medium.com/p/e58edafef1a3) |
+| Fri, 13 Feb 2026 04:17:39 GMT | From “Week-Long Obsession” to “Millisecond Routine”: The AI Threat to the Authorization Gap | Ryu360 | [Read More](https://medium.com/p/a756fbeef118) |
+| Fri, 13 Feb 2026 04:16:43 GMT | Clean Up Your Firefox Bookmarks with Python (Auto-Sort by Topic + Detect Dead Links) | ghostyjoe | [Read More](https://medium.com/p/2331034d8cf2) |
+| Fri, 13 Feb 2026 04:08:56 GMT | Beyond the Hype: 7 Impactful Realities of the Modern IoT Landscape | Lahiru Lakmal Abeywickrama | [Read More](https://medium.com/p/e4c54b8b5a3a) |
+| Fri, 13 Feb 2026 04:01:11 GMT | CVE-2025–49144分析：Notepad++ Privilege 與防禦策略 | segalee | [Read More](https://medium.com/p/d3b1467c872c) |
+| Fri, 13 Feb 2026 04:01:00 GMT | Password Security in the Age of GPU Acceleration (2026 Guide) | Manil Jayswal | [Read More](https://medium.com/p/d1bc0976b908) |
+| Fri, 13 Feb 2026 03:33:48 GMT | Your AI Agent Passed a Security Scan. Then It Wired $40,000 to the Wrong Account | Dylan | [Read More](https://medium.com/p/17e25e048103) |
+| Fri, 13 Feb 2026 03:31:00 GMT | ZeroDayRAT: Breaking Down the New Spyware Targeting Android and iOS | Deven Chhajed | [Read More](https://medium.com/p/b8c9582a3213) |
+| Fri, 13 Feb 2026 03:31:00 GMT | The Invisible Tech That Will Change Everything by 2030 | Team TIE | [Read More](https://medium.com/p/6cafd64c480e) |
+| Fri, 13 Feb 2026 02:57:09 GMT | The “Open Window” in the SSO Fortress: How I Accessed Internal GraphQL Schemas Without Login (And… | Zer0Figure | [Read More](https://medium.com/p/e9b82379659f) |
+| Fri, 13 Feb 2026 02:54:17 GMT | Border-less Data, Rising Stakes | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/45fccaa9cb71) |
+| Fri, 13 Feb 2026 02:51:45 GMT | Fixing Custom Segmented Control | Jerry PM | [Read More](https://medium.com/p/a4101a8f0915) |
+| Fri, 13 Feb 2026 02:51:45 GMT | When Algorithms Amplify and Fictions Circulate: Why Compliance Needs Cryptographic Proof, Not… | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/b3ed05b7162a) |
 | Fri, 13 Feb 2026 02:25:59 GMT | I Thought Learning Web Security Was About Payloads. I Was Wrong. | Robert Perez | [Read More](https://medium.com/p/aa4b9892cbbe) |
 | Fri, 13 Feb 2026 02:13:41 GMT | Same Question, Different Words — Do Search Rankings Stay Stable? | Kashish Lalwani | [Read More](https://medium.com/p/2bf28c07cf20) |
 | Fri, 13 Feb 2026 02:07:25 GMT | Treating Data as an Asset: An Honest Take on Data Privacy | PATRICK ELVIN HEMPESO | [Read More](https://medium.com/p/6404c1da6e37) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Feb 2026 17:30:32 GMT | Why “Free Diagnostics” Computer Repair Often Costs You More | Ivan Yurynts | [Read More](https://medium.com/p/f7d197eebcf9) |
 | Thu, 12 Feb 2026 17:26:04 GMT | The Kind of Intimacy That Doesn't Touch Skin | Anupama Satyarthi | [Read More](https://medium.com/p/0cabfe7f3e67) |
 | Thu, 12 Feb 2026 17:25:59 GMT | React2Shell (CVE-2025–55182) | Faiq Mxk | [Read More](https://medium.com/p/7562c0cedb00) |
-| Thu, 12 Feb 2026 17:22:10 GMT | UNDERSTANDING DEVSECOPS: A BEGINNER’S GUIDE | PARADOX | [Read More](https://medium.com/p/95f5fe61da83) |
-| Thu, 12 Feb 2026 17:19:41 GMT | Can You Know For Sure? | musingsfrommarc | [Read More](https://medium.com/p/9644038fd61d) |
-| Thu, 12 Feb 2026 17:17:58 GMT | MacBook Air vs Surface Laptop: The Real Performance Test | Nivetharajamd | [Read More](https://medium.com/p/031e5075b886) |
-| Thu, 12 Feb 2026 17:08:45 GMT | De la Utilidad a la Vulnerabilidad: El Arte de los LOLBins en Unix y el Ecosistema GTFOBins | Josué Acevedo Maldonado | [Read More](https://medium.com/p/e3ed9200f779) |
-| Thu, 12 Feb 2026 17:06:50 GMT | When Love Feels Like Magic! | KΛZ❥ | [Read More](https://medium.com/p/a0f8547fc4c0) |
-| Thu, 12 Feb 2026 17:06:39 GMT | Where to Find a Trusted Security Guard Company in Chatsworth? | Reliable Security Services Blog | [Read More](https://medium.com/p/f5437988e7f5) |
-| Thu, 12 Feb 2026 16:50:28 GMT | Windows CLI Basics · TryHackMe | RosanaFSS | [Read More](https://medium.com/p/34b8afc7102b) |
-| Thu, 12 Feb 2026 16:45:22 GMT | Resilience-First Architecture: Prioritizing Response Over Prevention | Digital Defense | [Read More](https://medium.com/p/e44bcd1a576c) |
-| Thu, 12 Feb 2026 16:42:17 GMT | Alert Clustering Algorithms: The Art of Understanding SOC Noise | Esra Kayhan | [Read More](https://medium.com/p/aadef0dc1b7c) |
-| Thu, 12 Feb 2026 16:34:43 GMT | 4.0: HTTP Host Header Vulnerabilities: Password Reset Poisoning using Dangling Markup Vulnerability. | Bazil Brohi | [Read More](https://medium.com/p/5bb932d607bf) |
-| Thu, 12 Feb 2026 16:33:49 GMT | Stop Typing Your Password at Boot: TPM Encryption Auto-Unlock on Fedora | Illya Yalovoy | [Read More](https://medium.com/p/99eb0b06defd) |
-| Thu, 12 Feb 2026 16:33:08 GMT | ZeroDayRAT: The Commercial Spyware Kit Turning Every Smartphone into a Target. | eL Njas!™ | [Read More](https://medium.com/p/4c21c9539aa1) |
-| Thu, 12 Feb 2026 16:31:32 GMT | Hire a Hacker: The Complete Guide to Ethical, Safe & Legal Services | Trythat | [Read More](https://medium.com/p/3463e9399912) |
