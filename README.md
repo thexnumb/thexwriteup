@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Feb 2026 09:42:28 GMT | Behind Every Cyber Attack: The Hidden Power of Logging, Ethical Hacking & Security Training | logging security | [Read More](https://medium.com/p/40d9ba2256b6) |
+| Fri, 13 Feb 2026 09:36:13 GMT | The Truth About Location Sharing Apps in 2026 | Noah Serrin | [Read More](https://medium.com/p/37aea8041141) |
+| Fri, 13 Feb 2026 09:35:00 GMT | Monolithic Oracle: A Real Soroban(Rust) Audit Case Study | 0xjustuzair | [Read More](https://medium.com/p/c304a1111dcb) |
+| Fri, 13 Feb 2026 09:31:01 GMT | The Day My Company’s Antivirus Stopped Working (And Why Yours Might Too) | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/1fabc1c678cd) |
+| Fri, 13 Feb 2026 09:28:35 GMT | Designing AI Governance as Architecture, Not Policy | Grace Michaels | [Read More](https://medium.com/p/f157583fd86a) |
+| Fri, 13 Feb 2026 09:28:13 GMT | Website Design Cape Town: Build a Powerful Online Presence for Your Business | Ava Jones | [Read More](https://medium.com/p/e3127d1c1f61) |
+| Fri, 13 Feb 2026 09:20:04 GMT | Digital Shield Attends Consensus Hong Kong: Deepening Industry Dialogues and Listening to the Real… | Digital Shield Offcial | [Read More](https://medium.com/p/8bb8246bf227) |
+| Fri, 13 Feb 2026 09:18:18 GMT | Anatomy of a PII Firewall: Why I Chose ‘Stateless’ Architecture | Raviteja Nekkalapu | [Read More](https://medium.com/p/5b6dcf174f17) |
+| Fri, 13 Feb 2026 09:18:11 GMT | Services and Processes on Windows | Aj | [Read More](https://medium.com/p/30cc0233c394) |
+| Fri, 13 Feb 2026 09:18:08 GMT | SMB Enumeration for Penetration Testing: Practical Demo with enum4linux | mohandika | [Read More](https://medium.com/p/f4c506b27ace) |
+| Fri, 13 Feb 2026 09:17:06 GMT | Digital Shield Observes Consensus Hong Kong: In the Era of Rational Growth, Security Becomes the… | Digital Shield Offcial | [Read More](https://medium.com/p/df5d62b76317) |
+| Fri, 13 Feb 2026 09:16:00 GMT | LeakRadar vs SpyCloud vs Hudson Rock: Which One Fits Your Use Case? | Alexandre Vandamme | [Read More](https://medium.com/p/4b80ef25d15d) |
+| Fri, 13 Feb 2026 09:13:16 GMT | Types of Hackers Explained: White Hat, Black Hat & Grey Hat | 0xSmit | [Read More](https://medium.com/p/1d65f8264214) |
+| Fri, 13 Feb 2026 09:03:54 GMT | The Digital Personal Data Protection Act (DPDP Act, 2023) | Nipundarge | [Read More](https://medium.com/p/4f310e586300) |
+| Fri, 13 Feb 2026 09:03:31 GMT | Cyber Kill Chain: Kampanye Fake CAPTCHA (ClickFix-style) yang Menyebarkan Lumma Stealer | Matlee Arya Sadewa | [Read More](https://medium.com/p/f23e0bc9ed5f) |
+| Fri, 13 Feb 2026 09:01:02 GMT | What I Wish I Knew Before I Started Coding | Pius Samson Ebuka | [Read More](https://medium.com/p/ceccb5d1f23c) |
+| Fri, 13 Feb 2026 08:59:16 GMT | Advanced Diploma in Information Security — Mrwebsecure | mrweb secure | [Read More](https://medium.com/p/8e7f57cf4134) |
+| Fri, 13 Feb 2026 08:59:03 GMT | Oh hey, Outliers: The Unsettling Rise of the ‘Baby Satellite’ | Jung-Ching Chang | [Read More](https://medium.com/p/f5350aa1cde6) |
+| Fri, 13 Feb 2026 08:53:28 GMT | Why Fast-Growing Businesses Often Discover Security Gaps Too Late | Management Systems Digest | [Read More](https://medium.com/p/a345b7b59506) |
+| Fri, 13 Feb 2026 08:48:18 GMT | Why AI Demands Investment in Public Data Infrastructure and XBRL | Martin DeVille | [Read More](https://medium.com/p/3ea3c45e7f74) |
+| Fri, 13 Feb 2026 08:46:05 GMT | From Deep Recon to Account Takeover: How Burp Suite Uncovered a Hidden “Legacy” Page | BelScarabX | [Read More](https://medium.com/p/c060d1de9b0c) |
 | Fri, 13 Feb 2026 08:37:50 GMT | Core Cybersecurity Domains: Offensive, Defensive & Forensics | 0xSmit | [Read More](https://medium.com/p/79b2cd302b28) |
 | Fri, 13 Feb 2026 08:32:15 GMT | Part 2 — Clean Tracking from URLs with Python (UTM, fbclid, gclid) | ghostyjoe | [Read More](https://medium.com/p/3b192519356f) |
 | Fri, 13 Feb 2026 08:31:36 GMT | How Secret Knowledge Defenses work? | Alessandro Pignati | [Read More](https://medium.com/p/bc5156946a11) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Feb 2026 04:01:00 GMT | Password Security in the Age of GPU Acceleration (2026 Guide) | Manil Jayswal | [Read More](https://medium.com/p/d1bc0976b908) |
 | Fri, 13 Feb 2026 03:33:48 GMT | Your AI Agent Passed a Security Scan. Then It Wired $40,000 to the Wrong Account | Dylan | [Read More](https://medium.com/p/17e25e048103) |
 | Fri, 13 Feb 2026 03:31:00 GMT | ZeroDayRAT: Breaking Down the New Spyware Targeting Android and iOS | Deven Chhajed | [Read More](https://medium.com/p/b8c9582a3213) |
-| Fri, 13 Feb 2026 03:31:00 GMT | The Invisible Tech That Will Change Everything by 2030 | Team TIE | [Read More](https://medium.com/p/6cafd64c480e) |
-| Fri, 13 Feb 2026 02:57:09 GMT | The “Open Window” in the SSO Fortress: How I Accessed Internal GraphQL Schemas Without Login (And… | Zer0Figure | [Read More](https://medium.com/p/e9b82379659f) |
-| Fri, 13 Feb 2026 02:54:17 GMT | Border-less Data, Rising Stakes | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/45fccaa9cb71) |
-| Fri, 13 Feb 2026 02:51:45 GMT | Fixing Custom Segmented Control | Jerry PM | [Read More](https://medium.com/p/a4101a8f0915) |
-| Fri, 13 Feb 2026 02:51:45 GMT | When Algorithms Amplify and Fictions Circulate: Why Compliance Needs Cryptographic Proof, Not… | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/b3ed05b7162a) |
-| Fri, 13 Feb 2026 02:25:59 GMT | I Thought Learning Web Security Was About Payloads. I Was Wrong. | Robert Perez | [Read More](https://medium.com/p/aa4b9892cbbe) |
-| Fri, 13 Feb 2026 02:13:41 GMT | Same Question, Different Words — Do Search Rankings Stay Stable? | Kashish Lalwani | [Read More](https://medium.com/p/2bf28c07cf20) |
-| Fri, 13 Feb 2026 02:07:25 GMT | Treating Data as an Asset: An Honest Take on Data Privacy | PATRICK ELVIN HEMPESO | [Read More](https://medium.com/p/6404c1da6e37) |
-| Fri, 13 Feb 2026 02:01:30 GMT | Trik Agar Login RUANG88 Tidak Error | guestme? | [Read More](https://medium.com/p/c6e7f13be9db) |
-| Fri, 13 Feb 2026 02:01:01 GMT | Cape Mobile’s Mythical SIM Swap Protection Is a Myth | Samuel Brice | [Read More](https://medium.com/p/0029c4d07a9d) |
-| Fri, 13 Feb 2026 01:54:05 GMT | Exploiting Backup Files: Root-Me CTF | Iklil Daris | [Read More](https://medium.com/p/6c45e9d428de) |
-| Fri, 13 Feb 2026 01:31:03 GMT | Cyber Security Foundation Series — Computer Networking Part-04(Ports & Protocols) | Kamal Kishor Mahto | [Read More](https://medium.com/p/d1fec9bfbcaa) |
-| Fri, 13 Feb 2026 01:31:01 GMT | Threat Modeling AI Agents: A Hotel Customer Support Case Study | Veilfire | [Read More](https://medium.com/p/e37dec253efa) |
-| Fri, 13 Feb 2026 01:27:15 GMT | Zero-Click Spyware: The Invisible Threat You Need to Understand | Laith | [Read More](https://medium.com/p/71dad28237fa) |
-| Fri, 13 Feb 2026 01:24:37 GMT | A List of Every Cybersecurity Abbreviation There Is (Part 5) | Raymond Ebonine | [Read More](https://medium.com/p/38d766f3076d) |
-| Fri, 13 Feb 2026 01:23:44 GMT | Top 10 Recon Mistakes That Make Hackers Miss Easy Bugs | Vipul Sonule | [Read More](https://medium.com/p/7618c8ae1e88) |
-| Fri, 13 Feb 2026 01:23:15 GMT | Breaking Role Barriers: Exploiting Broken Access Control in CriticalOps — HTB Walkthrough | Fuzzyy Duck | [Read More](https://medium.com/p/cb81d3aef820) |
-| Fri, 13 Feb 2026 01:00:35 GMT | Security as Architecture: When Participation Becomes the Defense | sengom | [Read More](https://medium.com/p/eb5ca7069f5f) |
-| Fri, 13 Feb 2026 00:55:37 GMT | câmera ip icsee externa wifi:vale a pena? | Brunohenrique | [Read More](https://medium.com/p/2a387077bb79) |
-| Fri, 13 Feb 2026 00:27:23 GMT | At the bottom, add tags like: Fashion Design, Garment Construction, Pattern Making, Textile… | Ouveshalam | [Read More](https://medium.com/p/37a33f74d676) |
-| Fri, 13 Feb 2026 00:01:31 GMT | Anonymous Auto Tor Proxy IP Changer | Mr Robot Hackteam | [Read More](https://medium.com/p/54da7adbf434) |
