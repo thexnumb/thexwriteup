@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Feb 2026 05:56:43 GMT | Kerberos: The Three-Headed Dog Still Guarding Hybrid Enterprise Identity | Mahfuzur Rahman | [Read More](https://medium.com/p/4414f47f09e5) |
+| Fri, 13 Feb 2026 05:55:36 GMT | Logs Are Just Diaries Your System Writes About Its Worst Days | Fateyaly | [Read More](https://medium.com/p/9948ea778650) |
+| Fri, 13 Feb 2026 05:48:38 GMT | Stop. Your AI Agent Is Overprivileged. | Arun Kumar (AK) | [Read More](https://medium.com/p/f555b185c721) |
+| Fri, 13 Feb 2026 05:45:23 GMT | Web Application Security: Hands-On Practice (Chapter 11 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/85fe89704394) |
+| Fri, 13 Feb 2026 05:41:48 GMT | Web Application Penetration Testing CTF 1 — INE | srthk | [Read More](https://medium.com/p/bfd09fb131a5) |
+| Fri, 13 Feb 2026 05:41:01 GMT | How to Prioritize Bugs During Product Iteration | AlterSquare | [Read More](https://medium.com/p/f09fe52cbcc5) |
+| Fri, 13 Feb 2026 05:36:29 GMT | Linux Privilege enumeration | Dev kaushik | [Read More](https://medium.com/p/1734f2ddc972) |
+| Fri, 13 Feb 2026 05:33:31 GMT | The Illusion of Safety: How Gemini’s Security Became an 'Intended' Vulnerability | DARK | [Read More](https://medium.com/p/743646d79d5b) |
+| Fri, 13 Feb 2026 05:32:51 GMT | How Zero Trust and AI-driven Security Will Redefine Cyber Defense in 2026 | Gautam Raturi | [Read More](https://medium.com/p/f3ecbef9ee6a) |
+| Fri, 13 Feb 2026 05:31:58 GMT | IoT Integration Market Size, Share, and Revenue Forecast 2024–2032 | kalpesh rajput | [Read More](https://medium.com/p/5985f59cc008) |
+| Fri, 13 Feb 2026 05:28:30 GMT | Turn Off Your Mac Login Password? Read This First | Moira Taylor | [Read More](https://medium.com/p/36dc6ccaec02) |
+| Fri, 13 Feb 2026 05:21:02 GMT | $1000 Bounty for Chaining 2 IDOR’s & WAF Bypass to Expose Full Event Database | Ahmed Ghadban | [Read More](https://medium.com/p/602a577a71cf) |
+| Fri, 13 Feb 2026 05:18:42 GMT | Designing a Virtualized Firewall Architecture on Ubuntu Server with pfSense and Wazuh Monitoring | CyberPands | [Read More](https://medium.com/p/daca6a5f6b47) |
+| Fri, 13 Feb 2026 05:18:11 GMT | Understanding Network Security: Key Concepts for Beginners | Anubhav_bora | [Read More](https://medium.com/p/92c5560b97d1) |
+| Fri, 13 Feb 2026 05:13:34 GMT | Next Generation of GRC Platforms: Cloud, AI, and ESG Integration | Gauri Kale | [Read More](https://medium.com/p/3e315724d1a8) |
+| Fri, 13 Feb 2026 05:00:39 GMT | New Year, Same Mission [H4J - Year 2] | SirHaxAlot | [Read More](https://medium.com/p/fb66607e4688) |
+| Fri, 13 Feb 2026 05:00:37 GMT | The Data Delusion — Why Analytics Burns Money While IT Earns It | Bjørn Broum | [Read More](https://medium.com/p/93bff3516698) |
+| Fri, 13 Feb 2026 04:59:57 GMT | From API Keys to Dependency Confusion: Scaling JavaScript Analysis with 0xJS and 0xDepCheck | 0xPedrop | [Read More](https://medium.com/p/b532e76ccb5f) |
 | Fri, 13 Feb 2026 04:23:07 GMT | Architectural Asymmetry in Authentication: Part 1 — Summary | Anton Minin Baranovskii | [Read More](https://medium.com/p/e58edafef1a3) |
 | Fri, 13 Feb 2026 04:17:39 GMT | From “Week-Long Obsession” to “Millisecond Routine”: The AI Threat to the Authorization Gap | Ryu360 | [Read More](https://medium.com/p/a756fbeef118) |
 | Fri, 13 Feb 2026 04:16:43 GMT | Clean Up Your Firefox Bookmarks with Python (Auto-Sort by Topic + Detect Dead Links) | ghostyjoe | [Read More](https://medium.com/p/2331034d8cf2) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Feb 2026 19:04:03 GMT | Cyber Sec. Roadmap 02 | Mehdican Büyükplevne | [Read More](https://medium.com/p/7898e441ff59) |
 | Thu, 12 Feb 2026 18:44:14 GMT | Information is becoming automated. Perspective is not. | Yazid Arroji | [Read More](https://medium.com/p/4ae3cb906ac3) |
 | Thu, 12 Feb 2026 18:41:44 GMT | Bridges, Rollups, L2s: Why Cross-Chain Is Still Where Money Goes Missing | Exploitless | [Read More](https://medium.com/p/a3ee83a7b49d) |
-| Thu, 12 Feb 2026 18:40:49 GMT | Career Roadmap to Become an Ethical Hacker in 2026 | Anaynams | [Read More](https://medium.com/p/c6e9e6f29393) |
-| Thu, 12 Feb 2026 18:39:25 GMT | Try Hack Me- c4ptur3-th3-fl4g CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/58cbad494721) |
-| Thu, 12 Feb 2026 18:38:38 GMT | Snort: A Comprehensive Analysis of Its Role, Effects, and Evolution as a Network Intrusion… | Olakunmibilau | [Read More](https://medium.com/p/c0d1aefeeafd) |
-| Thu, 12 Feb 2026 18:38:34 GMT | AI Doesn’t Save Time — It Shifts Work to Review, Judgment & Risk | James Kuhman | [Read More](https://medium.com/p/db33b51c3ba6) |
-| Thu, 12 Feb 2026 18:35:51 GMT | Automotive Diagnostics Feels a Lot Like Pentesting Now | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/83bcba6594aa) |
-| Thu, 12 Feb 2026 18:35:35 GMT | Lab Report: DHCP & Web Server Configuration | Karim roshdy | [Read More](https://medium.com/p/73fd9d98c242) |
-| Thu, 12 Feb 2026 18:30:28 GMT | Clear Your Name and Protect Your Privacy. | Mahakatab | [Read More](https://medium.com/p/5b1306ce381f) |
-| Thu, 12 Feb 2026 18:22:37 GMT | I Wasn’t Looking at the Target — I Was Watching the Hackers First | Iski | [Read More](https://medium.com/p/866b552efd0f) |
-| Thu, 12 Feb 2026 18:19:46 GMT | Siber Savaş | Özgür Kurtuluş | [Read More](https://medium.com/p/94c24bf92169) |
-| Thu, 12 Feb 2026 18:02:39 GMT | ClamAV: Open-Source Antivirus for Your Operational Calm | Aastha Thakker | [Read More](https://medium.com/p/6a02b8c3be03) |
-| Thu, 12 Feb 2026 17:58:40 GMT | How Much Does Residential Security Cost? | Anne jln | [Read More](https://medium.com/p/770ce054b7c4) |
-| Thu, 12 Feb 2026 17:57:41 GMT | “2025 CWE Top 25 Most Dangerous Software Weaknesses” List Now Available | CWE Program | [Read More](https://medium.com/p/26411165a5e4) |
-| Thu, 12 Feb 2026 17:51:03 GMT | Data Encoding · TryHackMe | RosanaFSS | [Read More](https://medium.com/p/f7023cd24dad) |
-| Thu, 12 Feb 2026 17:37:13 GMT | OSI Model Explained : A Complete Guide | 0ffXena_ | [Read More](https://medium.com/p/ea28c3ddfcd1) |
-| Thu, 12 Feb 2026 17:32:33 GMT | This Firefox Replacement ACTUALLY Respects Your Privacy | Michael Swengel | [Read More](https://medium.com/p/e2ecbf3a4e98) |
-| Thu, 12 Feb 2026 17:30:32 GMT | Why “Free Diagnostics” Computer Repair Often Costs You More | Ivan Yurynts | [Read More](https://medium.com/p/f7d197eebcf9) |
-| Thu, 12 Feb 2026 17:26:04 GMT | The Kind of Intimacy That Doesn't Touch Skin | Anupama Satyarthi | [Read More](https://medium.com/p/0cabfe7f3e67) |
-| Thu, 12 Feb 2026 17:25:59 GMT | React2Shell (CVE-2025–55182) | Faiq Mxk | [Read More](https://medium.com/p/7562c0cedb00) |
