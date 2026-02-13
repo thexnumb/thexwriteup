@@ -12,9 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Feb 2026 08:37:50 GMT | Core Cybersecurity Domains: Offensive, Defensive & Forensics | 0xSmit | [Read More](https://medium.com/p/79b2cd302b28) |
+| Fri, 13 Feb 2026 08:32:15 GMT | Part 2 — Clean Tracking from URLs with Python (UTM, fbclid, gclid) | ghostyjoe | [Read More](https://medium.com/p/3b192519356f) |
+| Fri, 13 Feb 2026 08:31:36 GMT | How Secret Knowledge Defenses work? | Alessandro Pignati | [Read More](https://medium.com/p/bc5156946a11) |
+| Fri, 13 Feb 2026 08:28:27 GMT | Ready to build a high-paying career in Cloud Data Engineering? ☁️ | Molletibalu | [Read More](https://medium.com/p/863425415c56) |
+| Fri, 13 Feb 2026 08:28:24 GMT | Why Kevin Bacon Can Save Us from the Apocalypse | CosmicThinker25 | [Read More](https://medium.com/p/6071bf30a35b) |
+| Fri, 13 Feb 2026 08:20:19 GMT | The Maintenance of Information | Vespera Caine | [Read More](https://medium.com/p/38578e8d2a09) |
+| Fri, 13 Feb 2026 08:17:06 GMT | WEAK SESSION IDS Vulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/555fe73d7906) |
+| Fri, 13 Feb 2026 08:16:57 GMT | Remove Yourself from Search Sites: 20 Tools Every Cybersecurity Pro Should Know | Very Lazy Tech | [Read More](https://medium.com/p/e9a32f03c96c) |
+| Fri, 13 Feb 2026 08:14:25 GMT | The Joys of Drone Controller Firmware — Or, Why Nobody Looks at the Thing in the Pilot’s Hands | UK Cyber Defence | [Read More](https://medium.com/p/ecdb8d1110f2) |
+| Fri, 13 Feb 2026 08:13:14 GMT | Modern Masculinity with Depeche Mode: When Vulnerability Becomes the Boldest Form of Strength | Pia Lütkebomert | [Read More](https://medium.com/p/45bac159142d) |
+| Fri, 13 Feb 2026 08:10:47 GMT | CEH Certification Requirements: Skills, Training, and Exam Eligibility | EINITIAL24 | [Read More](https://medium.com/p/ab755c159018) |
+| Fri, 13 Feb 2026 08:07:49 GMT | 10 Cybersecurity Predictions That Will Define 2026 | Abstract Mind | [Read More](https://medium.com/p/afcf396fdf04) |
+| Fri, 13 Feb 2026 08:05:44 GMT | How I found sensitive data exposure on web page “Access to the root URL is not allowed.” | Albertstive | [Read More](https://medium.com/p/5594fdd6cb57) |
+| Fri, 13 Feb 2026 08:01:01 GMT | Ten AI Attacks That Should Have Made Headlines | MayhemCode | [Read More](https://medium.com/p/e9e7d4df055b) |
+| Fri, 13 Feb 2026 07:57:39 GMT | SEO & Google Ranking Services in Jodhpur: Grow Your Business with TechieHelp | Ashokbishnoi | [Read More](https://medium.com/p/9eb1d8800812) |
+| Fri, 13 Feb 2026 07:54:25 GMT | Securing the Future of Automated Web3 Trading: A Case Study | Auditmos | [Read More](https://medium.com/p/baa3ce21112e) |
+| Fri, 13 Feb 2026 07:46:30 GMT | Vulnerability Assessment: The First Line of Defense in Cybersecurity | Nipundarge | [Read More](https://medium.com/p/108bcb0ffe35) |
+| Fri, 13 Feb 2026 07:34:24 GMT | How Remote Monitoring Services Detect Performance Bottlenecks Early | Gavin Ellis | [Read More](https://medium.com/p/61f3cedd6f96) |
+| Fri, 13 Feb 2026 07:32:50 GMT | Ethical Hacking Training in Mumbai | sevenmentor | [Read More](https://medium.com/p/a3b722ed1e97) |
+| Fri, 13 Feb 2026 07:31:11 GMT | AI and Machine Learning in Cybersecurity | Cynox Security LLP. | [Read More](https://medium.com/p/032ecea21a7c) |
+| Fri, 13 Feb 2026 07:30:21 GMT | Creating Python Extensions Using Rust (PyO3) | Majidbasharat | [Read More](https://medium.com/p/495e6ad89fc1) |
 | Fri, 13 Feb 2026 07:26:34 GMT | Hire N8N Developers for Powerful Business Automation | n8ndevelopers | [Read More](https://medium.com/p/7ca3fe07c2f9) |
 | Fri, 13 Feb 2026 07:26:30 GMT | Designing a secure LLM API: Implementation Details | Bikash Shukla | [Read More](https://medium.com/p/265c2799bed7) |
 | Fri, 13 Feb 2026 07:22:44 GMT | SecureBankKit: The Open-Source Security Toolkit Your Banking iOS App Is Missing | Deepak Pal | [Read More](https://medium.com/p/304730ce3edc) |
+| Fri, 13 Feb 2026 07:20:41 GMT | Cybercriminalité : les 7 affaires et sanctions du 13 fév 2026 | Marc Barbezat | [Read More](https://medium.com/p/d17bb69bb202) |
 | Fri, 13 Feb 2026 07:20:33 GMT | The Corix Partners Friday Reading List — February 13, 2026 | JC Gaillard | [Read More](https://medium.com/p/bd977879a859) |
 | Fri, 13 Feb 2026 07:14:34 GMT | Stop Breaches Before They Start: Why You Need a Dedicated Managed SOC | Redfox Security | [Read More](https://medium.com/p/84db41aa1df5) |
 | Fri, 13 Feb 2026 07:14:34 GMT | Why Email Security is Now Your Biggest Revenue Driver | Aysha Saifi | [Read More](https://medium.com/p/3743628f1240) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Feb 2026 00:55:37 GMT | câmera ip icsee externa wifi:vale a pena? | Brunohenrique | [Read More](https://medium.com/p/2a387077bb79) |
 | Fri, 13 Feb 2026 00:27:23 GMT | At the bottom, add tags like: Fashion Design, Garment Construction, Pattern Making, Textile… | Ouveshalam | [Read More](https://medium.com/p/37a33f74d676) |
 | Fri, 13 Feb 2026 00:01:31 GMT | Anonymous Auto Tor Proxy IP Changer | Mr Robot Hackteam | [Read More](https://medium.com/p/54da7adbf434) |
-| Fri, 13 Feb 2026 00:01:01 GMT | Arp-Scan para Pentesting: Escaneo de Red y Bypass de Firewalls | JPablo13 | [Read More](https://medium.com/p/e05f63e72859) |
-| Thu, 12 Feb 2026 23:56:06 GMT | AWS S3 Bucket Recon Bugbounty | Mr Robot Hackteam | [Read More](https://medium.com/p/be15c0c73c68) |
-| Thu, 12 Feb 2026 23:19:14 GMT | The Straightening | Chris Perkins | [Read More](https://medium.com/p/3b662dbf389e) |
-| Thu, 12 Feb 2026 23:18:20 GMT | Your AI Chat Knows More Than You Think And That’s the Point | Dimitrios Misios | [Read More](https://medium.com/p/ec15bf3458cb) |
-| Thu, 12 Feb 2026 23:17:27 GMT | The Hacker’s Map: Mastering the 7 Layers of the OSI Model | Emreksbr | [Read More](https://medium.com/p/0f23ae3433c1) |
-| Thu, 12 Feb 2026 23:08:50 GMT | AppDomainManager Injection — Bend .NET Assemblies to Your Will | Matt Swann | [Read More](https://medium.com/p/fa41a9b15021) |
-| Thu, 12 Feb 2026 23:07:16 GMT | One year using INE, What I really learned ? | Anas Lachheb | [Read More](https://medium.com/p/6182e88da190) |
-| Thu, 12 Feb 2026 22:55:23 GMT | TryHackMe Benign Walkthrough: Investigating Suspicious Process Execution with Splunk | sn0x | [Read More](https://medium.com/p/8dd3dc440a4f) |
-| Thu, 12 Feb 2026 22:54:28 GMT | The “Packet” That Never Lies: A Hacker’s Guide to Digital Evidence (Section 65B) | Aman Kumar (ak) | [Read More](https://medium.com/p/4705d16de481) |
-| Thu, 12 Feb 2026 22:52:34 GMT | Weak Biometric Set Integrity Validation in Mobile Applications | RRespxwnss | [Read More](https://medium.com/p/9f70ee16a692) |
-| Thu, 12 Feb 2026 22:51:58 GMT | Securing Agentic AI Connectivity | Matthew.Rosenquist | [Read More](https://medium.com/p/7a59a3fef2e4) |
-| Thu, 12 Feb 2026 22:15:08 GMT | The Vibe Coder’s Real Job | Hugh Gramelspacher | [Read More](https://medium.com/p/d5d0a1b6f9b3) |
-| Thu, 12 Feb 2026 22:14:09 GMT | ما هو قانون الفشل ؟وكيف تتخلص منه | Emalak | [Read More](https://medium.com/p/913d997487ed) |
-| Thu, 12 Feb 2026 22:13:09 GMT | IAM Was Built for Humans — The CSA Report Shows Why AI Agents Need Their Own Identity Model | Anh Nguyen  AIGP Operational AI Governance | [Read More](https://medium.com/p/fdf295e74c1e) |
-| Thu, 12 Feb 2026 22:07:43 GMT | Loading Kernel Drivers In-Memory | S12 - 0x12Dark Development | [Read More](https://medium.com/p/fc5d71c576e2) |
-| Thu, 12 Feb 2026 22:05:59 GMT | Recon Like a Hunter: Practical Tips from Real Findings Part 3 | Aya Ayman(GERR4Y) | [Read More](https://medium.com/p/06dd921a399d) |
-| Thu, 12 Feb 2026 22:04:49 GMT | FLASK AUTHENTICATION & AUTHORIZATION USING Flask-Login & OAuth (Google, X, Github)&Twilio Verify… | Nathaniel Cobbinah | [Read More](https://medium.com/p/922c0fd541c7) |
-| Thu, 12 Feb 2026 22:01:00 GMT | Unfiltered  Restart— Day 2: Cool Motherboards | Maximillian Rueda | [Read More](https://medium.com/p/4237bd99c62e) |
-| Thu, 12 Feb 2026 21:56:52 GMT | Beyond Whack-a-Mole: Why the CaMeL Framework is the Future of Secure AI Agents | Alessandro Pignati | [Read More](https://medium.com/p/e5d391e73053) |
-| Thu, 12 Feb 2026 21:50:53 GMT | How to Set Up Moltbot Securely on an Endpoint | Anshumaan Mishra | [Read More](https://medium.com/p/b7c68060e3e7) |
-| Thu, 12 Feb 2026 21:44:40 GMT | Aaron W. DeJong Newsletter: Episode 3 | Aaron DeJong | [Read More](https://medium.com/p/1f77714bc4b3) |
-| Thu, 12 Feb 2026 21:43:43 GMT | Snifferless Stream Protocol A Non-Traceable Data Transmission Architecture for Ultra-Sensitive… | Bervice | [Read More](https://medium.com/p/33575d45d5c6) |
