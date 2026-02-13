@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Feb 2026 11:25:36 GMT | NDR in 2026: Detecting the Attacks Your EDR Still Misses | NetWitness | [Read More](https://medium.com/p/e88f70adb1c0) |
+| Fri, 13 Feb 2026 11:13:07 GMT | Working with Clinical Data on Cloud: Practical GCP-Oriented Basics for Data Engineers | p.ludwinek | [Read More](https://medium.com/p/65d7c094bb69) |
+| Fri, 13 Feb 2026 11:11:13 GMT | Identity Is the Final Frontier | Samuel Odekunle | [Read More](https://medium.com/p/3f62a70c2bf9) |
+| Fri, 13 Feb 2026 11:09:50 GMT | Alur Penyebaran Lumma Stealer (Fake CAPTCHA) menggunakan framework Cyber Kill Chain | Rasya Irham | [Read More](https://medium.com/p/51f9a7a73817) |
+| Fri, 13 Feb 2026 11:04:28 GMT | Zero-Days and Malware Campaigns Shapes This Week’s Cyber Threat Landscape | Loginsoft | [Read More](https://medium.com/p/5a32d8477f8d) |
+| Fri, 13 Feb 2026 11:02:31 GMT | The Weight of Being the Strong One | Shashi Saivi | [Read More](https://medium.com/p/ba8aec63dc7f) |
+| Fri, 13 Feb 2026 11:01:11 GMT | Build a Vulnerable IIS SharePoint Lab with Fluent Bit: Complete Deployment Guide | Andrey Pautov | [Read More](https://medium.com/p/8fe947e8439e) |
+| Fri, 13 Feb 2026 10:57:54 GMT | Crime Reporting App India - Why Crimes Go Unreported | Citizen COP | [Read More](https://medium.com/p/ca9011f10e62) |
+| Fri, 13 Feb 2026 10:57:13 GMT | Shadow World : Decryption — Chapter Three (Teaser Edition) | Bond Leung | [Read More](https://medium.com/p/efff50877dd4) |
+| Fri, 13 Feb 2026 10:56:59 GMT | Why Reliable IT Support Is the Backbone of Modern Business Success | vortex it systems | [Read More](https://medium.com/p/0ce9ebd225c8) |
+| Fri, 13 Feb 2026 10:56:44 GMT | Beyond Checkboxes: How Quince Reinvented Vendor Security Assessments | Avinash Jain (@logicbomb) | [Read More](https://medium.com/p/7bf75bdeff04) |
+| Fri, 13 Feb 2026 10:54:25 GMT | KASE Scenarios: Orkla — Dragon Con Detective | Rishabh Gupta | [Read More](https://medium.com/p/5095dba01c89) |
+| Fri, 13 Feb 2026 10:50:14 GMT | How SOC and NOC Convergence Is Becoming the New Standard in CyberOps | Aanchal Sharma | [Read More](https://medium.com/p/0b94fa258121) |
+| Fri, 13 Feb 2026 10:47:52 GMT | What is a Digital Video Recorder (DVR)? | Doris William | [Read More](https://medium.com/p/ad56eeb8ee85) |
+| Fri, 13 Feb 2026 10:46:00 GMT | Trust the Code, Not the Suite: Enhancing Location Planning with Simplified Arithmetic and C# | Namir Sagheenanajar | [Read More](https://medium.com/p/07d0217be437) |
+| Fri, 13 Feb 2026 10:40:38 GMT | DockerLabs Writeup — Crossfi (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/69103c7298fc) |
 | Fri, 13 Feb 2026 10:34:52 GMT | Human-Centric Exploitation: Analisis Lumma Stealer melalui Teknik Fake CAPTCHA | Rizky Fadilatul | [Read More](https://medium.com/p/9c4defc237d2) |
 | Fri, 13 Feb 2026 10:33:12 GMT | Trust in Uniform: Real Stories of Security and Protection | Grdsnscrt | [Read More](https://medium.com/p/98fe0a24dcd5) |
 | Fri, 13 Feb 2026 10:30:58 GMT | Stop Guessing Microservice Boundaries | Dan Kantic | [Read More](https://medium.com/p/9f735fdce49c) |
@@ -28,6 +44,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Feb 2026 09:56:00 GMT | How to Use the Best Large Format 3d Printer for Complex Projects? | Evo 3D | [Read More](https://medium.com/p/c40ebaf3e1d1) |
 | Fri, 13 Feb 2026 09:49:47 GMT | Lattice Cryptography for Embedded Systems - Essential Elements | Gokul B Alex | [Read More](https://medium.com/p/4d8294b3a36f) |
 | Fri, 13 Feb 2026 09:47:37 GMT | Hidden Assets: The Power of Subdomain Enumeration in Bug Bounty | Z3DX | [Read More](https://medium.com/p/3f1930862b60) |
+| Fri, 13 Feb 2026 09:47:31 GMT | Warp+Masque,Zero Trust, 免费是认真的，填卡也是 - Warp+Masque,Zero Trust, Free to Start, Card to Suffer | slUbishi | [Read More](https://medium.com/p/7facb0efed18) |
 | Fri, 13 Feb 2026 09:42:28 GMT | Behind Every Cyber Attack: The Hidden Power of Logging, Ethical Hacking & Security Training | logging security | [Read More](https://medium.com/p/40d9ba2256b6) |
 | Fri, 13 Feb 2026 09:42:09 GMT | Flap Barrier — Advanced Entrance Security Solution by Etradefia | Etradefia | [Read More](https://medium.com/p/781df2a68e6a) |
 | Fri, 13 Feb 2026 09:36:49 GMT | AI-Powered Security Tools and Attacks: The New Offensive Security Landscape (2026) | Candy Wong | [Read More](https://medium.com/p/96893a4fa563) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Feb 2026 06:37:58 GMT | ReddifyAI vs ChatGPT — An Honest Comparison from Real Use | DUA SEO | [Read More](https://medium.com/p/b8c025a553f8) |
 | Fri, 13 Feb 2026 06:35:34 GMT | The Exhaustion of Pretending | HayderVoice | [Read More](https://medium.com/p/72e3a9bb8573) |
 | Fri, 13 Feb 2026 06:34:27 GMT | Dedicated Servers for Large Businesses | HostNOC | [Read More](https://medium.com/p/4bca6d3bf6f1) |
-| Fri, 13 Feb 2026 06:31:00 GMT | Lessons Learned from Modern Identity Attacks | Ankita Sinha | [Read More](https://medium.com/p/a681b23f5ddc) |
-| Fri, 13 Feb 2026 06:23:52 GMT | Building a Password Complexity Checker in Python: A Practical Cybersecurity Learning Experience | Mani vidyadhar | [Read More](https://medium.com/p/d6298213d0fa) |
-| Fri, 13 Feb 2026 06:22:11 GMT | I Hacked My Own AI in 5 Seconds. Here is How to Stop It. | Adi Insights and Innovations | [Read More](https://medium.com/p/2197a1eded69) |
-| Fri, 13 Feb 2026 06:21:51 GMT | Day 11–Day 16: Cybersecurity Fundamentals Every SOC Analyst Must Master | Faizan Nazir | [Read More](https://medium.com/p/db03824ce9de) |
-| Fri, 13 Feb 2026 06:15:24 GMT | Navigating AI Unemployment: Skills to Stay Relevant in 2026 amid huge layoffs. | Tarush Sharma | [Read More](https://medium.com/p/3b732e6ccc73) |
-| Fri, 13 Feb 2026 06:10:14 GMT | Building an Ethical Keylogger in Python: A Cybersecurity Learning Journey | Mani vidyadhar | [Read More](https://medium.com/p/b7f280e11147) |
-| Fri, 13 Feb 2026 06:09:42 GMT | Valentine’s Day and the Predictability of Phishing | Nikitha Srinivasan | [Read More](https://medium.com/p/415993d2eab5) |
-| Fri, 13 Feb 2026 06:09:08 GMT | Exploiting Stored HTML Injection via Broken Email Ownership Validation | Aniket Singh | [Read More](https://medium.com/p/ba09d614d024) |
-| Fri, 13 Feb 2026 06:01:16 GMT | VulnLab: Insecure Deserialization Çözümü | CyberSam | [Read More](https://medium.com/p/8bf7261b0045) |
-| Fri, 13 Feb 2026 05:56:43 GMT | Kerberos: The Three-Headed Dog Still Guarding Hybrid Enterprise Identity | Mahfuzur Rahman | [Read More](https://medium.com/p/4414f47f09e5) |
-| Fri, 13 Feb 2026 05:55:36 GMT | Logs Are Just Diaries Your System Writes About Its Worst Days | Fateyaly | [Read More](https://medium.com/p/9948ea778650) |
-| Fri, 13 Feb 2026 05:48:38 GMT | Stop. Your AI Agent Is Overprivileged. | Arun Kumar (AK) | [Read More](https://medium.com/p/f555b185c721) |
-| Fri, 13 Feb 2026 05:45:23 GMT | Web Application Security: Hands-On Practice (Chapter 11 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/85fe89704394) |
-| Fri, 13 Feb 2026 05:41:48 GMT | Web Application Penetration Testing CTF 1 — INE | srthk | [Read More](https://medium.com/p/bfd09fb131a5) |
-| Fri, 13 Feb 2026 05:41:01 GMT | How to Prioritize Bugs During Product Iteration | AlterSquare | [Read More](https://medium.com/p/f09fe52cbcc5) |
-| Fri, 13 Feb 2026 05:36:29 GMT | Linux Privilege enumeration | Dev kaushik | [Read More](https://medium.com/p/1734f2ddc972) |
-| Fri, 13 Feb 2026 05:33:31 GMT | The Illusion of Safety: How Gemini’s Security Became an 'Intended' Vulnerability | DARK | [Read More](https://medium.com/p/743646d79d5b) |
