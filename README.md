@@ -12,8 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Feb 2026 15:53:40 GMT | AI-Powered Red Teaming: Keeping Pace with Our Adversaries | Cynox Security LLP. | [Read More](https://medium.com/p/6edaa998d791) |
+| Fri, 13 Feb 2026 15:51:33 GMT | picoCTF Forensics Easy-Complete Writeup | Arfan (p4n) | [Read More](https://medium.com/p/ce2a7cb13624) |
+| Fri, 13 Feb 2026 15:50:06 GMT | The $1 Trillion Defense Line: Why Cybersecurity Is Becoming the World’s Most Important Industry | TechDemocracy | [Read More](https://medium.com/p/9a783ccce9a9) |
+| Fri, 13 Feb 2026 15:47:10 GMT | How To Detect Video Injection for KYC | Talsec | [Read More](https://medium.com/p/91694c9de7a9) |
+| Fri, 13 Feb 2026 15:42:55 GMT | After the Ruins: Can the West Imagine a World It No Longer Owns? | Lebna de Voogd-El Mhamdi | [Read More](https://medium.com/p/ae37fdc94da1) |
+| Fri, 13 Feb 2026 15:36:54 GMT | React2Shell — CVE-2025–55182: Critical Vulnerability in React Server | Sneh Bavarva | [Read More](https://medium.com/p/cf592ce5f790) |
+| Fri, 13 Feb 2026 15:32:32 GMT | The Dual Edge of Quantum Computing: Fundamentals, Threats, and Global Impact | Tishani Gamalath | [Read More](https://medium.com/p/efa6097fd75a) |
+| Fri, 13 Feb 2026 15:31:00 GMT | Agents Aren’t Autonomous: 14 Tooling Tricks That Make Them Obedient | Quellin | [Read More](https://medium.com/p/2db2aa23b267) |
+| Fri, 13 Feb 2026 15:30:19 GMT | OverTheWire — BanditWalkthrough | Kapil Patel | [Read More](https://medium.com/p/0a78b03ef7f9) |
+| Fri, 13 Feb 2026 15:25:28 GMT | Complete Guide To Commercial Security Camera Installation | AlexBryn | [Read More](https://medium.com/p/5befc1c24d77) |
+| Fri, 13 Feb 2026 15:24:25 GMT | IDOR to Content Spoofing: Hijacking Brand Trust via a Simple UUID Swap | Ahm3dX_ | [Read More](https://medium.com/p/f9c10d046c5e) |
+| Fri, 13 Feb 2026 15:20:50 GMT | How Security Camera Systems Work in Daily Life | AlexBryn | [Read More](https://medium.com/p/74a6bb1efa47) |
+| Fri, 13 Feb 2026 15:18:28 GMT | AI Is Not Destroying Work. It Is Changing It. — A Student’s Fear | SR - Tech Strories | [Read More](https://medium.com/p/7be2898f1c1e) |
+| Fri, 13 Feb 2026 15:18:13 GMT | Credentials After Death: How to Release Passwords Safely Without Handing Over Your Whole Digital… | Olivia Martillo | [Read More](https://medium.com/p/70d0ac6b884e) |
+| Fri, 13 Feb 2026 15:16:31 GMT | Damn Vulnerable DeFi Challenge 4: Side Entrance | 32bitsToby | [Read More](https://medium.com/p/6950042d8ef0) |
+| Fri, 13 Feb 2026 15:08:59 GMT | Breaking into Technical Communication: A Realistic Career Path Guide | Iryna Trepechuk | [Read More](https://medium.com/p/4fd6b38ba2b2) |
 | Fri, 13 Feb 2026 15:02:32 GMT | TryHackMe - Data Encoding - WriteUp | Axoloth | [Read More](https://medium.com/p/c37d775f0fa1) |
 | Fri, 13 Feb 2026 15:01:02 GMT | Cyber Briefing: 2026.02.13 | CyberMaterial | [Read More](https://medium.com/p/04e6eedb15cb) |
+| Fri, 13 Feb 2026 15:01:02 GMT | Testing and Deploying Responsible & Secure AI Agents | Michael van Meurer | [Read More](https://medium.com/p/27c7db1460b8) |
 | Fri, 13 Feb 2026 14:56:24 GMT | Simplifying User Access Reviews in Regulated, Hybrid Environments | Openiam | [Read More](https://medium.com/p/97e70744a403) |
 | Fri, 13 Feb 2026 14:55:52 GMT | FROM CAPTCHA TO CATASTROPHE: MEMBEDAH SERANGAN LUMMA STEALER DENGAN FRAMEWORK CYBER KILL CHAIN | Yrddry | [Read More](https://medium.com/p/322f1ac08370) |
 | Fri, 13 Feb 2026 14:55:20 GMT | TryHackMe - Data Representation - WriteUp | Axoloth | [Read More](https://medium.com/p/594aaa6bdf5a) |
@@ -45,6 +62,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Feb 2026 13:28:15 GMT | The Dual-Use Dilemma: AI & Cybersecurity in 2026 | Harsh Kumar | [Read More](https://medium.com/p/95da9af36f0e) |
 | Fri, 13 Feb 2026 13:24:07 GMT | The Internet of Things Security Paradox | fxis.ai | [Read More](https://medium.com/p/47f423f8fa80) |
 | Fri, 13 Feb 2026 13:16:00 GMT | How Supply Chain Attacks Turn Trust Into Exposure | Plaintext with Rich | [Read More](https://medium.com/p/64bf47cc19a0) |
+| Fri, 13 Feb 2026 13:15:34 GMT | The Day I Became a Robot’s Hands | Abdullah Javeed | [Read More](https://medium.com/p/19261d234317) |
 | Fri, 13 Feb 2026 13:14:48 GMT | Will AI Replace Cyber Security Jobs? The Truth No One Tells You | Kiranraj | [Read More](https://medium.com/p/d181c09b8903) |
 | Fri, 13 Feb 2026 13:09:55 GMT | Shady Oaks Financial | 7s26Simon | [Read More](https://medium.com/p/df4f3767f957) |
 | Fri, 13 Feb 2026 13:08:09 GMT | Penetration Testing Service: Strengthening Cybersecurity Through Ethical Hacking | Cyber Sapiens | [Read More](https://medium.com/p/01f68ef58324) |
@@ -58,10 +76,12 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Feb 2026 12:36:50 GMT | A Proposal to Apple Part 1: Transforming the iPhone “6-Digit Passcode” into True Trust | Ryu360 | [Read More](https://medium.com/p/15682a4da441) |
 | Fri, 13 Feb 2026 12:32:36 GMT | Paranoid, but Practical: Hardening a Standalone Windows 11 Pro PC Without Giving Up Microsoft | Tamas Pilisko | [Read More](https://medium.com/p/9a81ceba515b) |
 | Fri, 13 Feb 2026 12:20:57 GMT | Receiving a Generous $77,000 in Rewards from GitLab: A Testament to Their Visionary Security Ethos | Justas_b_3 | [Read More](https://medium.com/p/af418ffdf8d4) |
+| Fri, 13 Feb 2026 12:05:50 GMT | The Digital Sovereignty Paradox: How India’s Critical Infrastructure Became Dependent On Israeli… | Vishal Koul | [Read More](https://medium.com/p/cf49fefc6189) |
 | Fri, 13 Feb 2026 11:58:49 GMT | Agency Branding in SaaS Mode: How to Turn Your Agency Into a SaaS Brand | GHL Savvy | [Read More](https://medium.com/p/67550fd14695) |
 | Fri, 13 Feb 2026 11:55:32 GMT | What Do You Want to Read? Your Input Shapes What I Write Next | Andrey Pautov | [Read More](https://medium.com/p/76fe3355553f) |
 | Fri, 13 Feb 2026 11:54:55 GMT | What Every Developer Should Know About Environment Variables | Rowland | [Read More](https://medium.com/p/91ba07aeb521) |
 | Fri, 13 Feb 2026 11:54:31 GMT | AI Engineers vs Software Engineers: What’s the Difference — and Who Do You Actually Need? | SODST | [Read More](https://medium.com/p/b66b63568a76) |
+| Fri, 13 Feb 2026 11:53:35 GMT | Building an App for Your Business? Make Security a Top Priority | Triosoft Technologies | [Read More](https://medium.com/p/f772c81f98a8) |
 | Fri, 13 Feb 2026 11:45:33 GMT | Agentless Monitoring: Integrating pfSense with Wazuh via Syslog | DeshmukhVinit | [Read More](https://medium.com/p/1961d6a4c6cf) |
 | Fri, 13 Feb 2026 11:37:28 GMT | Manusia itu Siapa? | Kerangka Berpikir | [Read More](https://medium.com/p/19e45347e3fc) |
 | Fri, 13 Feb 2026 11:33:33 GMT | Frank & Herby Make an App — MicroK8s Misconfiguration Walkthrough | Roshan Rajbanshi | [Read More](https://medium.com/p/6a857f63ce60) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Feb 2026 10:16:06 GMT | How does AI affect user data privacy? | Nschool Academy | [Read More](https://medium.com/p/02f261e73df3) |
 | Fri, 13 Feb 2026 10:11:38 GMT | The Future of Cyber Security: Trends, Challenges, and Opportunities | Ntech Global Solutions | [Read More](https://medium.com/p/63b1eab11ccb) |
 | Fri, 13 Feb 2026 10:09:24 GMT | Why you should care about keeping your data secure | Register Dynamics | [Read More](https://medium.com/p/80ad9e2fe2ac) |
-| Fri, 13 Feb 2026 10:09:14 GMT | The “Free” Professional: How I Broke the Payment Logic of a Global Research Platform (IFERP) | Abdelkafi Habbeddine | [Read More](https://medium.com/p/9320d45f67f2) |
-| Fri, 13 Feb 2026 10:05:28 GMT | Electronic Security Solutions - Total Security Solutions | Ciss India | [Read More](https://medium.com/p/7e77c833e927) |
-| Fri, 13 Feb 2026 09:56:01 GMT | Hamed Arang: The Multifaceted Iranian Programmer Between Cybersecurity and Tradition | dr.bigbang | [Read More](https://medium.com/p/43a2e8f9d385) |
-| Fri, 13 Feb 2026 09:56:00 GMT | How to Use the Best Large Format 3d Printer for Complex Projects? | Evo 3D | [Read More](https://medium.com/p/c40ebaf3e1d1) |
-| Fri, 13 Feb 2026 09:49:47 GMT | Lattice Cryptography for Embedded Systems - Essential Elements | Gokul B Alex | [Read More](https://medium.com/p/4d8294b3a36f) |
-| Fri, 13 Feb 2026 09:47:37 GMT | Hidden Assets: The Power of Subdomain Enumeration in Bug Bounty | Z3DX | [Read More](https://medium.com/p/3f1930862b60) |
-| Fri, 13 Feb 2026 09:47:31 GMT | Warp+Masque,Zero Trust, 免费是认真的，填卡也是 - Warp+Masque,Zero Trust, Free to Start, Card to Suffer | slUbishi | [Read More](https://medium.com/p/7facb0efed18) |
-| Fri, 13 Feb 2026 09:42:28 GMT | Behind Every Cyber Attack: The Hidden Power of Logging, Ethical Hacking & Security Training | logging security | [Read More](https://medium.com/p/40d9ba2256b6) |
-| Fri, 13 Feb 2026 09:42:09 GMT | Flap Barrier — Advanced Entrance Security Solution by Etradefia | Etradefia | [Read More](https://medium.com/p/781df2a68e6a) |
-| Fri, 13 Feb 2026 09:36:49 GMT | AI-Powered Security Tools and Attacks: The New Offensive Security Landscape (2026) | Candy Wong | [Read More](https://medium.com/p/96893a4fa563) |
-| Fri, 13 Feb 2026 09:36:13 GMT | The Truth About Location Sharing Apps in 2026 | Noah Serrin | [Read More](https://medium.com/p/37aea8041141) |
-| Fri, 13 Feb 2026 09:35:00 GMT | Monolithic Oracle: A Real Soroban(Rust) Audit Case Study | 0xjustuzair | [Read More](https://medium.com/p/c304a1111dcb) |
-| Fri, 13 Feb 2026 09:31:01 GMT | The Day My Company’s Antivirus Stopped Working (And Why Yours Might Too) | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/1fabc1c678cd) |
-| Fri, 13 Feb 2026 09:28:35 GMT | Designing AI Governance as Architecture, Not Policy | Grace Michaels | [Read More](https://medium.com/p/f157583fd86a) |
-| Fri, 13 Feb 2026 09:28:13 GMT | Website Design Cape Town: Build a Powerful Online Presence for Your Business | Ava Jones | [Read More](https://medium.com/p/e3127d1c1f61) |
-| Fri, 13 Feb 2026 09:20:04 GMT | Digital Shield Attends Consensus Hong Kong: Deepening Industry Dialogues and Listening to the Real… | Digital Shield Offcial | [Read More](https://medium.com/p/8bb8246bf227) |
-| Fri, 13 Feb 2026 09:18:18 GMT | Anatomy of a PII Firewall: Why I Chose ‘Stateless’ Architecture | Raviteja Nekkalapu | [Read More](https://medium.com/p/5b6dcf174f17) |
-| Fri, 13 Feb 2026 09:18:11 GMT | Services and Processes on Windows | Aj | [Read More](https://medium.com/p/30cc0233c394) |
-| Fri, 13 Feb 2026 09:18:08 GMT | SMB Enumeration for Penetration Testing: Practical Demo with enum4linux | mohandika | [Read More](https://medium.com/p/f4c506b27ace) |
-| Fri, 13 Feb 2026 09:17:06 GMT | Digital Shield Observes Consensus Hong Kong: In the Era of Rational Growth, Security Becomes the… | Digital Shield Offcial | [Read More](https://medium.com/p/df5d62b76317) |
