@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Feb 2026 13:01:12 GMT | ผมสอบใบเซอร์ Cybersecurity 20 กว่าใบ ในปี 2025 แล้วผมจะมาจัด Tier ว่าใบไหนคุ้มค่าที่สุด! | Chicken0248 | [Read More](https://medium.com/p/c4b62969c68e) |
+| Fri, 13 Feb 2026 13:01:02 GMT | Full Stack Cybersecurity & CompTIA Security+ Bootcamp Review | Rich Chen | [Read More](https://medium.com/p/b5244ffbe0ad) |
+| Fri, 13 Feb 2026 12:59:43 GMT | A Senegal-Style Biometric Breach Would Be a State Failure for Guinea-Not a Technical Accident | Migdad latif Shaw | [Read More](https://medium.com/p/009212b2852f) |
+| Fri, 13 Feb 2026 12:59:01 GMT | Mengenal Apa Itu Lumma Stealer (Fake CAPTCHA)? | Wahyu Rahmana | [Read More](https://medium.com/p/56a724e093f3) |
+| Fri, 13 Feb 2026 12:57:30 GMT | Wazuh SIEM in the Real World: Deployment & Troubleshooting Guide | Oluwadamilare Adeosun | [Read More](https://medium.com/p/6a50310f99ad) |
+| Fri, 13 Feb 2026 12:51:00 GMT | When the HR department grabs you, it’s time to listen, right? | SafeNetting | [Read More](https://medium.com/p/fbc4ea2c1fad) |
+| Fri, 13 Feb 2026 12:44:25 GMT | Best VAPT Services in India for 2026 | Vinod Senthil | [Read More](https://medium.com/p/1fa9b473a14d) |
+| Fri, 13 Feb 2026 12:36:50 GMT | A Proposal to Apple Part 1: Transforming the iPhone “6-Digit Passcode” into True Trust | Ryu360 | [Read More](https://medium.com/p/15682a4da441) |
+| Fri, 13 Feb 2026 12:32:36 GMT | Paranoid, but Practical: Hardening a Standalone Windows 11 Pro PC Without Giving Up Microsoft | Tamas Pilisko | [Read More](https://medium.com/p/9a81ceba515b) |
+| Fri, 13 Feb 2026 12:20:57 GMT | Receiving a Generous $77,000 in Rewards from GitLab: A Testament to Their Visionary Security Ethos | Justas_b_3 | [Read More](https://medium.com/p/af418ffdf8d4) |
+| Fri, 13 Feb 2026 11:58:49 GMT | Agency Branding in SaaS Mode: How to Turn Your Agency Into a SaaS Brand | GHL Savvy | [Read More](https://medium.com/p/67550fd14695) |
+| Fri, 13 Feb 2026 11:55:32 GMT | What Do You Want to Read? Your Input Shapes What I Write Next | Andrey Pautov | [Read More](https://medium.com/p/76fe3355553f) |
+| Fri, 13 Feb 2026 11:54:55 GMT | What Every Developer Should Know About Environment Variables | Rowland | [Read More](https://medium.com/p/91ba07aeb521) |
+| Fri, 13 Feb 2026 11:54:31 GMT | AI Engineers vs Software Engineers: What’s the Difference — and Who Do You Actually Need? | SODST | [Read More](https://medium.com/p/b66b63568a76) |
+| Fri, 13 Feb 2026 11:45:33 GMT | Agentless Monitoring: Integrating pfSense with Wazuh via Syslog | DeshmukhVinit | [Read More](https://medium.com/p/1961d6a4c6cf) |
+| Fri, 13 Feb 2026 11:33:33 GMT | Frank & Herby Make an App — MicroK8s Misconfiguration Walkthrough | Roshan Rajbanshi | [Read More](https://medium.com/p/6a857f63ce60) |
+| Fri, 13 Feb 2026 11:30:43 GMT | Microsoft Copilot: Enterprise Security Modeline Eklenen Yeni Attack Surface | Emirhan Kartal | [Read More](https://medium.com/p/7cb975deb1dc) |
 | Fri, 13 Feb 2026 11:25:36 GMT | NDR in 2026: Detecting the Attacks Your EDR Still Misses | NetWitness | [Read More](https://medium.com/p/e88f70adb1c0) |
 | Fri, 13 Feb 2026 11:13:07 GMT | Working with Clinical Data on Cloud: Practical GCP-Oriented Basics for Data Engineers | p.ludwinek | [Read More](https://medium.com/p/65d7c094bb69) |
 | Fri, 13 Feb 2026 11:11:13 GMT | Identity Is the Final Frontier | Samuel Odekunle | [Read More](https://medium.com/p/3f62a70c2bf9) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Feb 2026 07:20:41 GMT | Cybercriminalité : les 7 affaires et sanctions du 13 fév 2026 | Marc Barbezat | [Read More](https://medium.com/p/d17bb69bb202) |
 | Fri, 13 Feb 2026 07:20:33 GMT | The Corix Partners Friday Reading List — February 13, 2026 | JC Gaillard | [Read More](https://medium.com/p/bd977879a859) |
 | Fri, 13 Feb 2026 07:14:34 GMT | Stop Breaches Before They Start: Why You Need a Dedicated Managed SOC | Redfox Security | [Read More](https://medium.com/p/84db41aa1df5) |
-| Fri, 13 Feb 2026 07:14:34 GMT | Why Email Security is Now Your Biggest Revenue Driver | Aysha Saifi | [Read More](https://medium.com/p/3743628f1240) |
-| Fri, 13 Feb 2026 07:09:16 GMT | Securing LLM Applications: Using LLM-as-a-Judge to Block Prompt Injection Attacks | Coded Parts | [Read More](https://medium.com/p/321bc94d58b8) |
-| Fri, 13 Feb 2026 07:07:02 GMT | I Reduced My Container CVEs by 90% — Then Everything Broke | Vedant Shrotria | [Read More](https://medium.com/p/4cbabbd65827) |
-| Fri, 13 Feb 2026 07:06:57 GMT | A complete guide on Integrating HashiCorp Vault with Confluent Flink on Kubernetes | Subramanya Madhyastha | [Read More](https://medium.com/p/ee100e9d95ae) |
-| Fri, 13 Feb 2026 07:05:26 GMT | [Write-up] PicoCTF Forensics: Riddle Registry | Willy Syachputra | [Read More](https://medium.com/p/6c7da8283308) |
-| Fri, 13 Feb 2026 07:05:21 GMT | Penetration Testing courses | mrweb secure | [Read More](https://medium.com/p/a2c256851300) |
-| Fri, 13 Feb 2026 07:05:09 GMT | Critical Alert: Microsoft Patches 6 Actively Exploited Zero-Days in Massive 59-Flaw Security Update | Bug Mohol | [Read More](https://medium.com/p/2b983a83009e) |
-| Fri, 13 Feb 2026 07:01:27 GMT | Digital Transformation Services: The Complete Guide to Modern Business Growth | Stldigital | [Read More](https://medium.com/p/60da7b9139ad) |
-| Fri, 13 Feb 2026 07:01:03 GMT | Authentication Security: The “Port Number Is the Problem” Trap | the CyberStoic | [Read More](https://medium.com/p/af095678b1cf) |
-| Fri, 13 Feb 2026 07:01:03 GMT | APT vs Opportunistic Malware: The “Malware Must Be Loud” Trap | the CyberStoic | [Read More](https://medium.com/p/c53b002f14c6) |
-| Fri, 13 Feb 2026 06:56:17 GMT | Why Choose a Kentico Development Company in 2026 | Glen Stark | [Read More](https://medium.com/p/c440521ff249) |
-| Fri, 13 Feb 2026 06:55:45 GMT | How to Perform Effective RCA After a Security Breach | Ashima Shandil | [Read More](https://medium.com/p/1f3cf0faed7e) |
-| Fri, 13 Feb 2026 06:48:18 GMT | What the OpenClaw and Moltbook Breaches Reveal About AI Agent Security | Andrea P. | [Read More](https://medium.com/p/c0fbe693417c) |
-| Fri, 13 Feb 2026 06:44:06 GMT | Why Encryption Remains Your Best Defense | Adityagoswami | [Read More](https://medium.com/p/15d0aff5f6b5) |
-| Fri, 13 Feb 2026 06:37:58 GMT | ReddifyAI vs ChatGPT — An Honest Comparison from Real Use | DUA SEO | [Read More](https://medium.com/p/b8c025a553f8) |
-| Fri, 13 Feb 2026 06:35:34 GMT | The Exhaustion of Pretending | HayderVoice | [Read More](https://medium.com/p/72e3a9bb8573) |
-| Fri, 13 Feb 2026 06:34:27 GMT | Dedicated Servers for Large Businesses | HostNOC | [Read More](https://medium.com/p/4bca6d3bf6f1) |
