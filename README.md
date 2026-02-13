@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Feb 2026 23:08:15 GMT | THE USE OF INFORMATION TECHNOLOGY(IT) IN SOLVING SDG-7: AFFORDABLE AND CLEAN ENERGY | Favour Mulungi | [Read More](https://medium.com/p/a62ea7ec0529) |
+| Fri, 13 Feb 2026 22:45:32 GMT | Nmap – A Beginner’s Practical Guide | Sahdhananjay | [Read More](https://medium.com/p/36c1acace357) |
+| Fri, 13 Feb 2026 22:44:43 GMT | Your Data Has Two Collectors: One Needs a Warrant, the Other Needs $160 | R. Eric Kiser | [Read More](https://medium.com/p/e71a3d5bd76e) |
+| Fri, 13 Feb 2026 22:21:56 GMT | I Almost Lost My Gmail Account to the Most Sophisticated Phishing Attack I’ve Ever Seen | Anshul Kumar | [Read More](https://medium.com/p/b6ee10f6bbbb) |
 | Fri, 13 Feb 2026 22:19:46 GMT | Day 12 — Windows Privilege Escalation THM | Cybersecurity with Jojo | [Read More](https://medium.com/p/5fa9b4e54f2c) |
 | Fri, 13 Feb 2026 22:14:09 GMT | Implementing Apple App Attest for iOS API Security — No More Static Secrets | Egzon Pllana | [Read More](https://medium.com/p/952014ed5058) |
 | Fri, 13 Feb 2026 22:11:00 GMT | Breaking the Box: bypassing Node.js Filesystem Permissions via Symlinks (CVE-2025–55130) | Krishna Kumar | [Read More](https://medium.com/p/0b9ad44920f9) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Feb 2026 15:25:28 GMT | Complete Guide To Commercial Security Camera Installation | AlexBryn | [Read More](https://medium.com/p/5befc1c24d77) |
 | Fri, 13 Feb 2026 15:24:25 GMT | IDOR to Content Spoofing: Hijacking Brand Trust via a Simple UUID Swap | Ahm3dX_ | [Read More](https://medium.com/p/f9c10d046c5e) |
 | Fri, 13 Feb 2026 15:20:50 GMT | How Security Camera Systems Work in Daily Life | AlexBryn | [Read More](https://medium.com/p/74a6bb1efa47) |
-| Fri, 13 Feb 2026 15:18:57 GMT | The Post-Patch Era - How AI, Identity, and Telemetry Redefine the CVE Model | Aakash Rahsi | [Read More](https://medium.com/p/62e26db05a19) |
-| Fri, 13 Feb 2026 15:18:28 GMT | AI Is Not Destroying Work. It Is Changing It. — A Student’s Fear | SR - Tech Strories | [Read More](https://medium.com/p/7be2898f1c1e) |
-| Fri, 13 Feb 2026 15:18:13 GMT | Credentials After Death: How to Release Passwords Safely Without Handing Over Your Whole Digital… | Olivia Martillo | [Read More](https://medium.com/p/70d0ac6b884e) |
-| Fri, 13 Feb 2026 15:16:31 GMT | Damn Vulnerable DeFi Challenge 4: Side Entrance | 32bitsToby | [Read More](https://medium.com/p/6950042d8ef0) |
