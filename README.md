@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Feb 2026 15:02:32 GMT | TryHackMe - Data Encoding - WriteUp | Axoloth | [Read More](https://medium.com/p/c37d775f0fa1) |
+| Fri, 13 Feb 2026 15:01:02 GMT | Cyber Briefing: 2026.02.13 | CyberMaterial | [Read More](https://medium.com/p/04e6eedb15cb) |
+| Fri, 13 Feb 2026 14:56:24 GMT | Simplifying User Access Reviews in Regulated, Hybrid Environments | Openiam | [Read More](https://medium.com/p/97e70744a403) |
+| Fri, 13 Feb 2026 14:55:52 GMT | FROM CAPTCHA TO CATASTROPHE: MEMBEDAH SERANGAN LUMMA STEALER DENGAN FRAMEWORK CYBER KILL CHAIN | Yrddry | [Read More](https://medium.com/p/322f1ac08370) |
+| Fri, 13 Feb 2026 14:55:20 GMT | TryHackMe - Data Representation - WriteUp | Axoloth | [Read More](https://medium.com/p/594aaa6bdf5a) |
+| Fri, 13 Feb 2026 14:55:07 GMT | The Day I Realized Cloud Security Isn’t Automatic | Varunnadipena | [Read More](https://medium.com/p/89e7ff9ada1c) |
+| Fri, 13 Feb 2026 14:55:04 GMT | Zero Trust in Practice: When Access Control Maturity Meets Operational Reality | Tharindu Rajapaksha | [Read More](https://medium.com/p/b83ddec82770) |
+| Fri, 13 Feb 2026 14:52:26 GMT | What Happens When You Don’t Rotate IPs | ProxiesThatWork | [Read More](https://medium.com/p/0cd0de2adcd3) |
+| Fri, 13 Feb 2026 14:38:08 GMT | Prompt Injection Is the “Social Engineering” of AI Apps | Scottcmcmahan | [Read More](https://medium.com/p/2736a963dbf0) |
+| Fri, 13 Feb 2026 14:35:43 GMT | Cryptocurrency and National Security: Crime, Psychology, and the Fight for Financial Control | Jawad Hussain | [Read More](https://medium.com/p/1349c4983c01) |
+| Fri, 13 Feb 2026 14:34:40 GMT | Centalized logging for AWS multi-account environment with Amazon OpenSearch | Oleksii Bebych | [Read More](https://medium.com/p/014d1646d592) |
+| Fri, 13 Feb 2026 14:33:42 GMT | The Zero-to-Hero Guide to Bug Bounty Hunting: A Comprehensive Roadmap | Krishna Kumar | [Read More](https://medium.com/p/831a0a446803) |
+| Fri, 13 Feb 2026 14:29:15 GMT | Data Sovereignty and Digital Trust Frameworks: Securing Data in a Global Digital Economy | Digital Defense | [Read More](https://medium.com/p/fc7776b2e48b) |
+| Fri, 13 Feb 2026 14:26:00 GMT | How VPN Works in Real Life | Suraj Bhandari | [Read More](https://medium.com/p/30b5afbd61a7) |
+| Fri, 13 Feb 2026 14:25:45 GMT | Anxiety in the Age of Information | SaveYour | [Read More](https://medium.com/p/08395407a565) |
+| Fri, 13 Feb 2026 14:23:16 GMT | Certified Red Team Specialist V2 (CRTS V2): My Journey to Advanced Adversary Simulation | THAMER ALNAJADAT | [Read More](https://medium.com/p/4c0e41b3b42e) |
+| Fri, 13 Feb 2026 14:21:01 GMT | 7 Github Gems | C. L. Beard | [Read More](https://medium.com/p/655b782f4963) |
+| Fri, 13 Feb 2026 14:17:09 GMT | Laporan Praktikum Struktur Data : Arraay Dalam Python | Cahyoadi | [Read More](https://medium.com/p/f8c5461e50e0) |
+| Fri, 13 Feb 2026 14:15:18 GMT | Authentication as Infrastructure: Why Are Product Teams Still Building It Themselves? | Anton Minin Baranovskii | [Read More](https://medium.com/p/9f276d4767a2) |
+| Fri, 13 Feb 2026 14:12:26 GMT | Secure SSH Login Using FIDO2 Hardware Security Device | ngtbinh8x | [Read More](https://medium.com/p/ace268ba5331) |
 | Fri, 13 Feb 2026 14:03:11 GMT | MAC Kimlik Değildir: NAC Ortamlarında MAC Spoofing ve DHCP Fingerprinting Gerçeği | Emre Koç | [Read More](https://medium.com/p/3c7ad1d54b9b) |
 | Fri, 13 Feb 2026 14:01:02 GMT | JWT Revocation Strategies: Implementing Bloom Filters for High-Speed Token Blacklisting | The Speed Engineer | [Read More](https://medium.com/p/49be6855c539) |
 | Fri, 13 Feb 2026 13:56:22 GMT | Europe Cybersecurity Market Outlook to 2030 - Latest Trends & Future Scope | Technology Geek | [Read More](https://medium.com/p/1f90ed84a31c) |
@@ -43,6 +63,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Feb 2026 11:54:55 GMT | What Every Developer Should Know About Environment Variables | Rowland | [Read More](https://medium.com/p/91ba07aeb521) |
 | Fri, 13 Feb 2026 11:54:31 GMT | AI Engineers vs Software Engineers: What’s the Difference — and Who Do You Actually Need? | SODST | [Read More](https://medium.com/p/b66b63568a76) |
 | Fri, 13 Feb 2026 11:45:33 GMT | Agentless Monitoring: Integrating pfSense with Wazuh via Syslog | DeshmukhVinit | [Read More](https://medium.com/p/1961d6a4c6cf) |
+| Fri, 13 Feb 2026 11:37:28 GMT | Manusia itu Siapa? | Kerangka Berpikir | [Read More](https://medium.com/p/19e45347e3fc) |
 | Fri, 13 Feb 2026 11:33:33 GMT | Frank & Herby Make an App — MicroK8s Misconfiguration Walkthrough | Roshan Rajbanshi | [Read More](https://medium.com/p/6a857f63ce60) |
 | Fri, 13 Feb 2026 11:30:43 GMT | Microsoft Copilot: Enterprise Security Modeline Eklenen Yeni Attack Surface | Emirhan Kartal | [Read More](https://medium.com/p/7cb975deb1dc) |
 | Fri, 13 Feb 2026 11:25:36 GMT | NDR in 2026: Detecting the Attacks Your EDR Still Misses | NetWitness | [Read More](https://medium.com/p/e88f70adb1c0) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Feb 2026 09:18:11 GMT | Services and Processes on Windows | Aj | [Read More](https://medium.com/p/30cc0233c394) |
 | Fri, 13 Feb 2026 09:18:08 GMT | SMB Enumeration for Penetration Testing: Practical Demo with enum4linux | mohandika | [Read More](https://medium.com/p/f4c506b27ace) |
 | Fri, 13 Feb 2026 09:17:06 GMT | Digital Shield Observes Consensus Hong Kong: In the Era of Rational Growth, Security Becomes the… | Digital Shield Offcial | [Read More](https://medium.com/p/df5d62b76317) |
-| Fri, 13 Feb 2026 09:16:00 GMT | LeakRadar vs SpyCloud vs Hudson Rock: Which One Fits Your Use Case? | Alexandre Vandamme | [Read More](https://medium.com/p/4b80ef25d15d) |
-| Fri, 13 Feb 2026 09:13:16 GMT | Types of Hackers Explained: White Hat, Black Hat & Grey Hat | 0xSmit | [Read More](https://medium.com/p/1d65f8264214) |
-| Fri, 13 Feb 2026 09:03:54 GMT | The Digital Personal Data Protection Act (DPDP Act, 2023) | Nipundarge | [Read More](https://medium.com/p/4f310e586300) |
-| Fri, 13 Feb 2026 09:03:31 GMT | Cyber Kill Chain: Kampanye Fake CAPTCHA (ClickFix-style) yang Menyebarkan Lumma Stealer | Matlee Arya Sadewa | [Read More](https://medium.com/p/f23e0bc9ed5f) |
-| Fri, 13 Feb 2026 09:01:02 GMT | What I Wish I Knew Before I Started Coding | Pius Samson Ebuka | [Read More](https://medium.com/p/ceccb5d1f23c) |
-| Fri, 13 Feb 2026 08:59:16 GMT | Advanced Diploma in Information Security — Mrwebsecure | mrweb secure | [Read More](https://medium.com/p/8e7f57cf4134) |
-| Fri, 13 Feb 2026 08:59:03 GMT | Oh hey, Outliers: The Unsettling Rise of the ‘Baby Satellite’ | Jung-Ching Chang | [Read More](https://medium.com/p/f5350aa1cde6) |
-| Fri, 13 Feb 2026 08:53:28 GMT | Why Fast-Growing Businesses Often Discover Security Gaps Too Late | Management Systems Digest | [Read More](https://medium.com/p/a345b7b59506) |
-| Fri, 13 Feb 2026 08:48:18 GMT | Why AI Demands Investment in Public Data Infrastructure and XBRL | Martin DeVille | [Read More](https://medium.com/p/3ea3c45e7f74) |
-| Fri, 13 Feb 2026 08:46:05 GMT | From Deep Recon to Account Takeover: How Burp Suite Uncovered a Hidden “Legacy” Page | BelScarabX | [Read More](https://medium.com/p/c060d1de9b0c) |
-| Fri, 13 Feb 2026 08:37:50 GMT | Core Cybersecurity Domains: Offensive, Defensive & Forensics | 0xSmit | [Read More](https://medium.com/p/79b2cd302b28) |
-| Fri, 13 Feb 2026 08:32:15 GMT | Part 2 — Clean Tracking from URLs with Python (UTM, fbclid, gclid) | ghostyjoe | [Read More](https://medium.com/p/3b192519356f) |
-| Fri, 13 Feb 2026 08:31:36 GMT | How Secret Knowledge Defenses work? | Alessandro Pignati | [Read More](https://medium.com/p/bc5156946a11) |
-| Fri, 13 Feb 2026 08:28:27 GMT | Ready to build a high-paying career in Cloud Data Engineering? ☁️ | Molletibalu | [Read More](https://medium.com/p/863425415c56) |
-| Fri, 13 Feb 2026 08:28:24 GMT | Why Kevin Bacon Can Save Us from the Apocalypse | CosmicThinker25 | [Read More](https://medium.com/p/6071bf30a35b) |
-| Fri, 13 Feb 2026 08:20:19 GMT | The Maintenance of Information | Vespera Caine | [Read More](https://medium.com/p/38578e8d2a09) |
-| Fri, 13 Feb 2026 08:17:06 GMT | WEAK SESSION IDS Vulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/555fe73d7906) |
-| Fri, 13 Feb 2026 08:16:57 GMT | Remove Yourself from Search Sites: 20 Tools Every Cybersecurity Pro Should Know | Very Lazy Tech | [Read More](https://medium.com/p/e9a32f03c96c) |
-| Fri, 13 Feb 2026 08:14:25 GMT | The Joys of Drone Controller Firmware — Or, Why Nobody Looks at the Thing in the Pilot’s Hands | UK Cyber Defence | [Read More](https://medium.com/p/ecdb8d1110f2) |
-| Fri, 13 Feb 2026 08:13:14 GMT | Modern Masculinity with Depeche Mode: When Vulnerability Becomes the Boldest Form of Strength | Pia Lütkebomert | [Read More](https://medium.com/p/45bac159142d) |
-| Fri, 13 Feb 2026 08:10:47 GMT | CEH Certification Requirements: Skills, Training, and Exam Eligibility | EINITIAL24 | [Read More](https://medium.com/p/ab755c159018) |
