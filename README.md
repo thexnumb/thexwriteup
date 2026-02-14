@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Feb 2026 11:22:04 GMT | Online Dating Safety in 2026: How AI Scammers Are Tricking Singles — and How to Outsmart Them | Ehirim henry | [Read More](https://medium.com/p/10d4f2703b9b) |
+| Sat, 14 Feb 2026 11:21:26 GMT | Top Reasons to Hire Professional Regular Cleaning Services in Pickering | Cleaning 4Canada | [Read More](https://medium.com/p/69505fa6e5ce) |
+| Sat, 14 Feb 2026 11:18:19 GMT | [Part-II] How I Built an Automated Leak Monitoring Pipeline with n8n, APIs, & Gmail Alerts | 5hr33.j11 | [Read More](https://medium.com/p/6c0098859652) |
+| Sat, 14 Feb 2026 11:06:55 GMT | Phishing — Merry Clickmas - Tryhackme - Day-2 | M o $ t a | [Read More](https://medium.com/p/7938ccab3b31) |
+| Sat, 14 Feb 2026 11:05:44 GMT | The Data & AI Sovereignty Risk: Why Public AI is a Professional Liability | Skeptical AI | [Read More](https://medium.com/p/549ff86b681b) |
+| Sat, 14 Feb 2026 11:00:46 GMT | Tugas Bootcamp minggu 1 | Jamalut | [Read More](https://medium.com/p/84b31e2234b6) |
+| Sat, 14 Feb 2026 11:00:30 GMT | Cybersecurity Best Practices for Startups | joe lotus | [Read More](https://medium.com/p/13225dd7e678) |
+| Sat, 14 Feb 2026 11:00:29 GMT | Empat Belas Februari | Si Kocak_Sahabat Pena | [Read More](https://medium.com/p/0cfaed50280b) |
+| Sat, 14 Feb 2026 10:58:47 GMT | Writeup Digital Forensics Lab 01 — Introduction to Digital Forensics | Arfan (p4n) | [Read More](https://medium.com/p/6d2dc59e0386) |
 | Sat, 14 Feb 2026 10:48:17 GMT | Telegram Scams and Student Greed: Why Awareness Is Still Not Enough
 By Ankit Rai
 Cyber Security… | Ankit rai | [Read More](https://medium.com/p/e0b4f317e43a) |
@@ -106,12 +115,3 @@ By Anil Tiwari | Dr. Anil Tiwari | [Read More](https://medium.com/p/ebdc615d34e7
 | Sat, 14 Feb 2026 05:39:32 GMT | The GCC Under the Microscope… But Who is Watching? | Bader Alharbi | [Read More](https://medium.com/p/88cd4930fa2e) |
 | Sat, 14 Feb 2026 05:33:02 GMT | Offline vs Cloud: the Real Threat Model in Password Managers | Fabio Marano | [Read More](https://medium.com/p/5f292e96e04b) |
 | Sat, 14 Feb 2026 05:30:10 GMT | Two Truths Can Be True at the Same Time | Arindora | [Read More](https://medium.com/p/0b4f7d2c0732) |
-| Sat, 14 Feb 2026 05:20:19 GMT | Designing an Enterprise-Grade Hybrid DNS Architecture with Amazon Route 53 Resolver | Manish Sharma | [Read More](https://medium.com/p/885c84bc3ae2) |
-| Sat, 14 Feb 2026 05:05:38 GMT | Secure OAuth flow by fixing common vulnerabilities (Open redirect URIs, missing CSRF/state tokens… | Ankit | [Read More](https://medium.com/p/89027dc9ba33) |
-| Sat, 14 Feb 2026 04:42:35 GMT | Best Free Security Tools Everyone Use in 2026 | Hameedduke | [Read More](https://medium.com/p/b24ba2a5a157) |
-| Sat, 14 Feb 2026 04:41:47 GMT | The Hidden Security Architecture Behind Managed Kubernetes (EKS, AKS, GKE) | Dixit Rathi | [Read More](https://medium.com/p/2ed6b1f318fd) |
-| Sat, 14 Feb 2026 04:34:20 GMT | Reverse Engineering: The Silent Battlefield of Modern Software | Geeky Vartika | [Read More](https://medium.com/p/cd949a94e304) |
-| Sat, 14 Feb 2026 04:25:54 GMT | IDOR (Insecure Direct Object Reference) | ZahurD | [Read More](https://medium.com/p/5d4127ebe222) |
-| Sat, 14 Feb 2026 04:22:27 GMT | I Am the Wave, the Current, and the Rage. | musingsfrommarc | [Read More](https://medium.com/p/5f23d1e7c4c2) |
-| Sat, 14 Feb 2026 04:20:09 GMT | From Theory to Practice: Solving SOC Logging Challenges with a Splunk Lab on GCP | Edson | [Read More](https://medium.com/p/7fed5f9e80a8) |
-| Sat, 14 Feb 2026 03:55:35 GMT | Entra Authentication Methods Migration 2026: Complete Enterprise Playbook (Legacy MFA/SSPR → Modern… | Jack Nelson | [Read More](https://medium.com/p/c12424ab218a) |
