@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Feb 2026 19:40:07 GMT | Ironclad: How to Protect Yourself Before Getting Hacked | Bishr Tabbaa | [Read More](https://medium.com/p/ce3900a64177) |
+| Sat, 14 Feb 2026 19:37:33 GMT | If You Get This Amazon Product Recall Message, It’s An Attack | Moni | [Read More](https://medium.com/p/20fd0c48a327) |
+| Sat, 14 Feb 2026 19:35:23 GMT | The Ghost in the Sidebar: How a Dead Side Project Became Outlook’s Most Dangerous Trojan | SOCFortress | [Read More](https://medium.com/p/36f4da1a3767) |
+| Sat, 14 Feb 2026 19:27:00 GMT | How Strong IT Leadership Reduces Technology Risk | NordicX | [Read More](https://medium.com/p/3240ca24accf) |
 | Sat, 14 Feb 2026 19:02:25 GMT | XSS WAF Bypass: 3 Tricks to Beat Alert Blockers | Cybersecplayground | [Read More](https://medium.com/p/b7552dcde45b) |
 | Sat, 14 Feb 2026 19:01:31 GMT | The Kaleidoscope of Global Power: Where the World Order Is Actually Heading | Sachin Chitre | [Read More](https://medium.com/p/f67bb514472c) |
 | Sat, 14 Feb 2026 18:59:47 GMT | The Systems We Thought We Understood | David Jonathan | [Read More](https://medium.com/p/4e2e822346c4) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Feb 2026 13:05:45 GMT | Is Bitcoin Doomed? Quantum Computers Are Coming | Lyron Foster | [Read More](https://medium.com/p/b36122d57bd8) |
 | Sat, 14 Feb 2026 13:04:15 GMT | Axtarış Sistemləri Vasitəsilə Rəqəmsal İzin Xəritələnməsi: OSINT Alətlərinin Analizi | Behbud Behbudov | [Read More](https://medium.com/p/dc25a30d1be5) |
 | Sat, 14 Feb 2026 13:02:41 GMT | Ethical Hacking Course in 2026: Why CEH Certification Is Worth It | Ryan Brooks | [Read More](https://medium.com/p/dc26590c5439) |
-| Sat, 14 Feb 2026 13:01:00 GMT | Springboard Cybersecurity & CompTIA Security+ Bootcamp Review | Rich Chen | [Read More](https://medium.com/p/3fbb50f0e950) |
-| Sat, 14 Feb 2026 12:46:37 GMT | Digital Forensics Lab 01: Bedah Dasar Linux Command Line & Mitigasi Malware Penyamaran | Muhammad Ketsar Ali Abi Wahid | [Read More](https://medium.com/p/5fa051598aba) |
-| Sat, 14 Feb 2026 12:42:25 GMT | CEH Certification Guide: The Smart Way to Learn Hacking Professionally | Ryan Brooks | [Read More](https://medium.com/p/e3e34cb4e0c5) |
-| Sat, 14 Feb 2026 12:38:27 GMT | Why Deloitte Uses Python and Where It Is Used | Mohit kumawat | [Read More](https://medium.com/p/03640e64482e) |
