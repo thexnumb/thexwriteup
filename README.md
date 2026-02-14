@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Feb 2026 20:36:34 GMT | Snowflake SQL in a Nutshell: Consolidated report on Super-Role Grants in your Organization | NadirDoctor | [Read More](https://medium.com/p/e5841cc746c5) |
 | Sat, 14 Feb 2026 20:17:00 GMT | Ruang Tamu Saja | Kesuraman Natur | [Read More](https://medium.com/p/ce23b40b7bc0) |
 | Sat, 14 Feb 2026 20:07:08 GMT | The Case for the Adversarial Architect | Joshua Goossen | [Read More](https://medium.com/p/f4da3be3e903) |
 | Sat, 14 Feb 2026 20:04:00 GMT | Understanding Responsibility, Control and Trust in Cloud Architectures: IaaS, PaaS, SaaS and the… | Kamiweb Project | [Read More](https://medium.com/p/42d7f9ac73f1) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Feb 2026 13:53:21 GMT | TryHackMe Hidden Deep Into my Heart Walkthrough (Love at First Breach 2026) | Muhammad Ibrahim | [Read More](https://medium.com/p/6bf05a53ad6f) |
 | Sat, 14 Feb 2026 13:49:05 GMT | Kubernetes Requests vs Limits: The Ultimate 2026 Guide to Avoiding Common Pitfalls | Neel Shah | [Read More](https://medium.com/p/7aa2f042ac8e) |
 | Sat, 14 Feb 2026 13:31:08 GMT | CVE-2026–1731 - Exploit and Detection Overview | Omerhuyver | [Read More](https://medium.com/p/a91c28820a1c) |
-| Sat, 14 Feb 2026 13:29:49 GMT | Web Server Administration: Guide to Managing, Securing, and Optimizing Web Servers | Dennis Duke | [Read More](https://medium.com/p/6e4c56f0d845) |
