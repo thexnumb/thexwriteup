@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Feb 2026 14:28:03 GMT | What Are Attack Vectors? Types Every Cybersecurity Beginner Should Know | Jenish Maharjan | [Read More](https://medium.com/p/f8963d5dfcfc) |
+| Sat, 14 Feb 2026 14:24:25 GMT | HTTP Header Walkthrough | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/5be516b9a68a) |
+| Sat, 14 Feb 2026 14:23:23 GMT | What is post exploitation | Kevin Ronex | [Read More](https://medium.com/p/aa342c5db319) |
+| Sat, 14 Feb 2026 14:22:43 GMT | THE ALIAS 3526 PROTOCOL: | Fredrik Ansethmoen | [Read More](https://medium.com/p/8b04a9d6fdb9) |
+| Sat, 14 Feb 2026 14:16:21 GMT | Hidden in Plain Sight — picoCTF Write-up | szuryuu | [Read More](https://medium.com/p/df594cf8957a) |
+| Sat, 14 Feb 2026 14:14:10 GMT | ERP Selection in 2026: Why Last Week’s Security Meltdown Changes Everything | Andre Maurice Davis | [Read More](https://medium.com/p/d8bd0bf93be8) |
+| Sat, 14 Feb 2026 14:12:42 GMT | picoCTF Forensics— Hidden in Plainsight | 0w0 | [Read More](https://medium.com/p/1d6919654719) |
+| Sat, 14 Feb 2026 14:07:12 GMT | Why the Dark Web Is More Dangerous in 2026 | Purrgle | [Read More](https://medium.com/p/6b38677c10c1) |
+| Sat, 14 Feb 2026 14:06:59 GMT | 0APT RANSOMWARE: The Real FAKE! | Rakesh Krishnan | [Read More](https://medium.com/p/99c65f1d5124) |
+| Sat, 14 Feb 2026 14:06:03 GMT | How to Think Like a Penetration Tester: The Methodical Mindset Approach - TryHackMe Writeup | 0xAbhiSec | [Read More](https://medium.com/p/c458f9cad78e) |
+| Sat, 14 Feb 2026 14:04:30 GMT | When I Entered My Office on 02–02–2026 and Opened My Laptop: Everything Changed | Raajeev H Dave (AI Man) | [Read More](https://medium.com/p/0040e317f489) |
+| Sat, 14 Feb 2026 13:53:21 GMT | TryHackMe Hidden Deep Into my Heart Walkthrough (Love at First Breach 2026) | Muhammad Ibrahim | [Read More](https://medium.com/p/6bf05a53ad6f) |
+| Sat, 14 Feb 2026 13:49:05 GMT | Kubernetes Requests vs Limits: The Ultimate 2026 Guide to Avoiding Common Pitfalls | Neel Shah | [Read More](https://medium.com/p/7aa2f042ac8e) |
 | Sat, 14 Feb 2026 13:31:08 GMT | CVE-2026–1731 - Exploit and Detection Overview | Omerhuyver | [Read More](https://medium.com/p/a91c28820a1c) |
 | Sat, 14 Feb 2026 13:29:49 GMT | Web Server Administration: Guide to Managing, Securing, and Optimizing Web Servers | Dennis Duke | [Read More](https://medium.com/p/6e4c56f0d845) |
 | Sat, 14 Feb 2026 13:26:00 GMT | Introduction to Digital Forensics — Lab 01 Write-Up | Toikzaki | [Read More](https://medium.com/p/76717dbba307) |
@@ -101,17 +114,3 @@ Cyber Security… | Ankit rai | [Read More](https://medium.com/p/e0b4f317e43a) |
 | Sat, 14 Feb 2026 07:33:06 GMT | Common Misconceptions About Penetration Testing | Cynox Security LLP. | [Read More](https://medium.com/p/93ab4fc9e0ae) |
 | Sat, 14 Feb 2026 07:32:30 GMT | Membedah Serangan Cyber Lumma Stealer : FAKE CAPTCHA | Muhamad Fikri Firmansyah | [Read More](https://medium.com/p/73ea69a52225) |
 | Sat, 14 Feb 2026 07:32:28 GMT | Beyond Vulnerabilities: Understanding the Signals of a Well-Designed System | balik | [Read More](https://medium.com/p/54639540946e) |
-| Sat, 14 Feb 2026 07:20:50 GMT | Part 3 — Auto-Clean Your Downloads Folder with Python | ghostyjoe | [Read More](https://medium.com/p/99aa9b7a590c) |
-| Sat, 14 Feb 2026 07:20:43 GMT | Access workstations from anywhere using Cloudflare browser-based RDP | saurav singh | [Read More](https://medium.com/p/f93af282581b) |
-| Sat, 14 Feb 2026 07:17:51 GMT | Fast Text, Slow Certainty | James Kuhman | [Read More](https://medium.com/p/3cfcdc7bc10d) |
-| Sat, 14 Feb 2026 07:13:45 GMT | When the Bot Bites Back: The First Case of AI Revenge in Open Source | Mehmet Özel | [Read More](https://medium.com/p/1586fc93ce87) |
-| Sat, 14 Feb 2026 07:11:23 GMT | My First Triaged Report Ever | Moataz | [Read More](https://medium.com/p/4b6cd8f9e654) |
-| Sat, 14 Feb 2026 07:01:55 GMT | The Silent Data Leak: Why Your Employees’ “Helpful” AI Tools Are a Ticking Time Bomb | Djakson Cleber | [Read More](https://medium.com/p/f85d231936db) |
-| Sat, 14 Feb 2026 06:59:00 GMT | [Write-up] Lab 01: Introduction to Digital Forensics | 0xb4belgum | [Read More](https://medium.com/p/7f7176ad9d2b) |
-| Sat, 14 Feb 2026 06:58:48 GMT | The Myth of ‘Secure’ Wi-Fi | Rabail Zaheer | [Read More](https://medium.com/p/f9cbd30c3d20) |
-| Sat, 14 Feb 2026 06:58:48 GMT | Enterprise-Grade DDoS Protection: Why Modern Businesses Can’t Afford Downtime | DC9India | [Read More](https://medium.com/p/7376a28febd0) |
-| Sat, 14 Feb 2026 06:52:10 GMT | I Called Her a Bitch and Then I Cried | Natalie Clarke | [Read More](https://medium.com/p/4ef80e2bd16e) |
-| Sat, 14 Feb 2026 06:50:17 GMT | Integer Overflow in dr_flac (CVE-2025–14369) | maor caplan | [Read More](https://medium.com/p/2785de317496) |
-| Sat, 14 Feb 2026 06:47:34 GMT | When Prototypes Grow Up: Why Production AI & Cyber Systems Demand Enterprise Infrastructure | RafalW3bCraft | [Read More](https://medium.com/p/747b57e38f79) |
-| Sat, 14 Feb 2026 06:45:16 GMT | GRC Is the Real Control Plane of Modern Cybersecurity
-By Anil Tiwari | Dr. Anil Tiwari | [Read More](https://medium.com/p/ebdc615d34e7) |
