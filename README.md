@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Feb 2026 02:08:42 GMT | My first OffSec Proving Grounds Lab: CyberSploit1 Walkthrough | LIKITH GAJULA | [Read More](https://medium.com/p/7b9f0d1a841c) |
+| Sat, 14 Feb 2026 02:02:56 GMT | Hardware Sovereignty | The Inference Report | [Read More](https://medium.com/p/3855975f3732) |
+| Sat, 14 Feb 2026 01:51:46 GMT | Live Capture: How I Detected a Recon Attack Before Exploitation | Azad Sleigher | [Read More](https://medium.com/p/9e8de32aa50a) |
+| Sat, 14 Feb 2026 01:43:21 GMT | Keeping Your Secrets in Sync: Environment Lifecycle Management That Actually Works | Johnny Santamaria | [Read More](https://medium.com/p/d00479a024b7) |
+| Sat, 14 Feb 2026 01:41:39 GMT | Love Letter Locker — TryHackMe CTF Walkthrough | Karim Hesham | [Read More](https://medium.com/p/54aa5f6fb74a) |
+| Sat, 14 Feb 2026 01:38:46 GMT | Valenfind Walkthrough (TryHackMe) — Love at First Breach | Bl1t2Stack0x01 | [Read More](https://medium.com/p/dbce00d13482) |
+| Sat, 14 Feb 2026 01:26:49 GMT | Privacy is usually the first casualty | Rashmi Mandayam | [Read More](https://medium.com/p/a25cfbc8e3e5) |
+| Sat, 14 Feb 2026 01:25:35 GMT | How to Manage a Healthcare Data Breach: 5 Steps to Keep Your Business Safe | Emory French | [Read More](https://medium.com/p/db27191f7bf5) |
+| Sat, 14 Feb 2026 01:16:00 GMT | Top 10 Most Secure Jobs in 2025: Complete Career Rankings | Pitters Lare | [Read More](https://medium.com/p/733fb5714cca) |
+| Sat, 14 Feb 2026 00:52:14 GMT | Elk integration with Pfsense. ELK agentless monitoring and usecases of elk. | Aadit Nair | [Read More](https://medium.com/p/f0ea4556975c) |
+| Sat, 14 Feb 2026 00:46:21 GMT | Fraud and Identity Risks in Telecommunications: Designing Machine Learning Systems for Threat… | Syed Shah Safi Ullah Alvi | [Read More](https://medium.com/p/6b97f8237756) |
+| Sat, 14 Feb 2026 00:43:40 GMT | Why Overwrite-Based Secure Wipe Cannot Be Trusted on SSDs (And Why Most Security Teams Still Get It… | Raj Kamal | [Read More](https://medium.com/p/eed36f645732) |
+| Sat, 14 Feb 2026 00:40:28 GMT | Data Vault Web Writeup-FETCH THE FLAG 2026 | Mohamed Said | [Read More](https://medium.com/p/8f720078bf5f) |
+| Sat, 14 Feb 2026 00:01:01 GMT | Arp-Scan for Pentesting: Network Scanning and Firewall Bypass | JPablo13 | [Read More](https://medium.com/p/7222f9e779f2) |
 | Fri, 13 Feb 2026 23:08:15 GMT | THE USE OF INFORMATION TECHNOLOGY(IT) IN SOLVING SDG-7: AFFORDABLE AND CLEAN ENERGY | Favour Mulungi | [Read More](https://medium.com/p/a62ea7ec0529) |
 | Fri, 13 Feb 2026 22:45:32 GMT | Nmap – A Beginner’s Practical Guide | Sahdhananjay | [Read More](https://medium.com/p/36c1acace357) |
 | Fri, 13 Feb 2026 22:44:43 GMT | Your Data Has Two Collectors: One Needs a Warrant, the Other Needs $160 | R. Eric Kiser | [Read More](https://medium.com/p/e71a3d5bd76e) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Feb 2026 16:17:47 GMT | Full Asset Inventory: How Controlled Release Actually Works | InheritSafe | [Read More](https://medium.com/p/7b1b78bbe417) |
 | Fri, 13 Feb 2026 16:16:27 GMT | Lumma Stealer, Malware C2 via fake CAPTCHA | Rizqi Ramadhan | [Read More](https://medium.com/p/f6a7c05abe0c) |
 | Fri, 13 Feb 2026 16:15:24 GMT | Nmap Unleashed: A Modern Way to Supercharge Network Scanning | Pralin Khaira | [Read More](https://medium.com/p/137492b86264) |
-| Fri, 13 Feb 2026 16:10:47 GMT | Command and Control? | Josh Stryker | [Read More](https://medium.com/p/fe7a1c095384) |
-| Fri, 13 Feb 2026 16:05:57 GMT | You Are the Brain, AI Is the Tool | webnestify | [Read More](https://medium.com/p/292ed1d5cff3) |
-| Fri, 13 Feb 2026 15:53:40 GMT | AI-Powered Red Teaming: Keeping Pace with Our Adversaries | Cynox Security LLP. | [Read More](https://medium.com/p/6edaa998d791) |
-| Fri, 13 Feb 2026 15:51:33 GMT | picoCTF Forensics Easy-Complete Writeup | Arfan (p4n) | [Read More](https://medium.com/p/ce2a7cb13624) |
-| Fri, 13 Feb 2026 15:50:06 GMT | The $1 Trillion Defense Line: Why Cybersecurity Is Becoming the World’s Most Important Industry | TechDemocracy | [Read More](https://medium.com/p/9a783ccce9a9) |
-| Fri, 13 Feb 2026 15:47:10 GMT | How To Detect Video Injection for KYC | Talsec | [Read More](https://medium.com/p/91694c9de7a9) |
-| Fri, 13 Feb 2026 15:42:55 GMT | After the Ruins: Can the West Imagine a World It No Longer Owns? | Lebna de Voogd-El Mhamdi | [Read More](https://medium.com/p/ae37fdc94da1) |
-| Fri, 13 Feb 2026 15:36:54 GMT | React2Shell — CVE-2025–55182: Critical Vulnerability in React Server | Sneh Bavarva | [Read More](https://medium.com/p/cf592ce5f790) |
-| Fri, 13 Feb 2026 15:32:32 GMT | The Dual Edge of Quantum Computing: Fundamentals, Threats, and Global Impact | Tishani Gamalath | [Read More](https://medium.com/p/efa6097fd75a) |
-| Fri, 13 Feb 2026 15:31:00 GMT | Agents Aren’t Autonomous: 14 Tooling Tricks That Make Them Obedient | Quellin | [Read More](https://medium.com/p/2db2aa23b267) |
-| Fri, 13 Feb 2026 15:30:19 GMT | OverTheWire — BanditWalkthrough | Kapil Patel | [Read More](https://medium.com/p/0a78b03ef7f9) |
-| Fri, 13 Feb 2026 15:25:28 GMT | Complete Guide To Commercial Security Camera Installation | AlexBryn | [Read More](https://medium.com/p/5befc1c24d77) |
-| Fri, 13 Feb 2026 15:24:25 GMT | IDOR to Content Spoofing: Hijacking Brand Trust via a Simple UUID Swap | Ahm3dX_ | [Read More](https://medium.com/p/f9c10d046c5e) |
-| Fri, 13 Feb 2026 15:20:50 GMT | How Security Camera Systems Work in Daily Life | AlexBryn | [Read More](https://medium.com/p/74a6bb1efa47) |
