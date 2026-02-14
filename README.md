@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Feb 2026 19:02:25 GMT | XSS WAF Bypass: 3 Tricks to Beat Alert Blockers | Cybersecplayground | [Read More](https://medium.com/p/b7552dcde45b) |
+| Sat, 14 Feb 2026 19:01:31 GMT | The Kaleidoscope of Global Power: Where the World Order Is Actually Heading | Sachin Chitre | [Read More](https://medium.com/p/f67bb514472c) |
+| Sat, 14 Feb 2026 18:59:47 GMT | The Systems We Thought We Understood | David Jonathan | [Read More](https://medium.com/p/4e2e822346c4) |
+| Sat, 14 Feb 2026 18:56:03 GMT | Official Launch: CYBERDUDEBIVASH Threat Intelligence Platform | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/3b4d9a96cfcb) |
+| Sat, 14 Feb 2026 18:49:37 GMT | why I don’t celebrate my achievements | Diya Medhe | [Read More](https://medium.com/p/f4343931c687) |
+| Sat, 14 Feb 2026 18:47:57 GMT | Writeup OverTheWire Bandit | shirou | [Read More](https://medium.com/p/7d3e9396c6e0) |
+| Sat, 14 Feb 2026 18:45:35 GMT | When security theater becomes a business model | Truong (Jack) Luu | [Read More](https://medium.com/p/a2c117fedb67) |
+| Sat, 14 Feb 2026 18:45:27 GMT | My Journey Into Smart Contract Auditing | Abraham | [Read More](https://medium.com/p/0751be7a83ef) |
+| Sat, 14 Feb 2026 18:44:17 GMT | Lumma Stealer: Membedah Campaign Fake CAPTCHA | Kuray | [Read More](https://medium.com/p/ba411bb63865) |
+| Sat, 14 Feb 2026 18:42:34 GMT | Zip files slipping under your nose! | Shivam Bathla | [Read More](https://medium.com/p/90cfbe3cdfe7) |
+| Sat, 14 Feb 2026 18:37:51 GMT | Why Japan’s Tech Culture Is Different — And Why That Matters | Shriya | [Read More](https://medium.com/p/7fa1b2d6cf41) |
+| Sat, 14 Feb 2026 18:37:08 GMT | CupidBot — Love at First Breach 2026 Writeup | Raja Shiva Ram | [Read More](https://medium.com/p/89278e5ff700) |
 | Sat, 14 Feb 2026 18:28:24 GMT | Breaking Into the Corporate Guest Network: Phase 2: A Real-World ATS WiFi Security Assessment | Tanmay Bhattacharjee | [Read More](https://medium.com/p/e414792a5160) |
+| Sat, 14 Feb 2026 18:28:11 GMT | We Built a Real-Time Threat Detector for AI Agents | Stanley D. Chatman | [Read More](https://medium.com/p/db794b8f20b5) |
 | Sat, 14 Feb 2026 18:19:45 GMT | When SameSite=Strict Fails: A Real CSRF Bypass Using Redirects | Istiyak | [Read More](https://medium.com/p/43dafcecddaa) |
 | Sat, 14 Feb 2026 18:17:37 GMT | Security Budgeting for Lean Web3 Teams: What to Buy, What to Build | Exploitless | [Read More](https://medium.com/p/bf3cd66b40e7) |
 | Sat, 14 Feb 2026 18:17:29 GMT | The Router: Your Network’s Brain or Its Biggest Blind Spot? | k3rnelpan1c | [Read More](https://medium.com/p/ca994f593880) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Feb 2026 12:46:37 GMT | Digital Forensics Lab 01: Bedah Dasar Linux Command Line & Mitigasi Malware Penyamaran | Muhammad Ketsar Ali Abi Wahid | [Read More](https://medium.com/p/5fa051598aba) |
 | Sat, 14 Feb 2026 12:42:25 GMT | CEH Certification Guide: The Smart Way to Learn Hacking Professionally | Ryan Brooks | [Read More](https://medium.com/p/e3e34cb4e0c5) |
 | Sat, 14 Feb 2026 12:38:27 GMT | Why Deloitte Uses Python and Where It Is Used | Mohit kumawat | [Read More](https://medium.com/p/03640e64482e) |
-| Sat, 14 Feb 2026 12:33:18 GMT | Brute force attack for software engineer | Abdelkader Ould hennia | [Read More](https://medium.com/p/09fba9514d69) |
-| Sat, 14 Feb 2026 12:31:22 GMT | Techfra Solutions — Delivering the Best CCTV System in UAE with Complete Security & Smart… | techfra solutions | [Read More](https://medium.com/p/d3c0b3fb4024) |
-| Sat, 14 Feb 2026 12:20:10 GMT | Stop Copy-Pasting SQL Injection Payloads. Start Understanding Query Execution. | Priyanshukumar | [Read More](https://medium.com/p/7f5d99e249e0) |
-| Sat, 14 Feb 2026 12:11:00 GMT | Tales from Hobin: The ARUP deepfake scam | Hobin Rood | [Read More](https://medium.com/p/13ec86fabb6d) |
-| Sat, 14 Feb 2026 12:09:00 GMT | NerisBot Lab (Walkthrough) | Pravat Dash | [Read More](https://medium.com/p/58961941c96a) |
-| Sat, 14 Feb 2026 12:04:40 GMT | Jebakan “Fake CAPTCHA”: Saat Copy-Paste Sederhana Membuka Pintu Bagi Malware Lumma Stealer | Muhammad Ridwan | [Read More](https://medium.com/p/1d022bc58299) |
-| Sat, 14 Feb 2026 12:03:21 GMT | Your Authorization Layer Is Lying to You — And Your Go API Can’t Prove It | Syarif | [Read More](https://medium.com/p/95c0a899fac0) |
-| Sat, 14 Feb 2026 12:02:18 GMT | From Ethical Hacking to Incident Response: What Makes a Cyber Security Course Truly Complete? | logging security | [Read More](https://medium.com/p/eabaa592b3a7) |
-| Sat, 14 Feb 2026 12:01:00 GMT | Who will be speaking at Q+AI? | Brian N. Siegelwax | [Read More](https://medium.com/p/d40d71964b5b) |
-| Sat, 14 Feb 2026 11:27:19 GMT | DNS History: Analysis of an IP | Damag3dRoot | [Read More](https://medium.com/p/ce0368a363eb) |
-| Sat, 14 Feb 2026 11:22:04 GMT | Online Dating Safety in 2026: How AI Scammers Are Tricking Singles — and How to Outsmart Them | Ehirim henry | [Read More](https://medium.com/p/10d4f2703b9b) |
-| Sat, 14 Feb 2026 11:21:26 GMT | Top Reasons to Hire Professional Regular Cleaning Services in Pickering | Cleaning 4Canada | [Read More](https://medium.com/p/69505fa6e5ce) |
-| Sat, 14 Feb 2026 11:18:19 GMT | [Part-II] How I Built an Automated Leak Monitoring Pipeline with n8n, APIs, & Gmail Alerts | 5hr33.j11 | [Read More](https://medium.com/p/6c0098859652) |
