@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Feb 2026 15:08:47 GMT | To Love is to Break: The Necessity of Vulnerability to Know and Be Known | cattleya | [Read More](https://medium.com/p/2a0375058d07) |
+| Sat, 14 Feb 2026 14:59:50 GMT | Stored XSS via Vulnerable File Upload Functionality | Shaunak Natu | [Read More](https://medium.com/p/95b324f208ea) |
+| Sat, 14 Feb 2026 14:59:41 GMT | Membahas Infostealer LummaC2 | komo | [Read More](https://medium.com/p/60adeae3ea01) |
 | Sat, 14 Feb 2026 14:50:36 GMT | Building a Hands-On SIEM Lab Using Wazuh (Part 2: Implementing Active Response using Virus Total… | Michael Jan Tangalin | [Read More](https://medium.com/p/4ae3a4c66460) |
 | Sat, 14 Feb 2026 14:49:44 GMT | Linux PrivEsc Arena | SUSHANT TELRANDHE | [Read More](https://medium.com/p/c317d287c6f4) |
 | Sat, 14 Feb 2026 14:47:49 GMT | Cyber Security Feels Broken Because Our Users Are Overwhelmed | GDGC MET | [Read More](https://medium.com/p/00db9b31fbba) |
@@ -111,6 +114,3 @@ Cyber Security… | Ankit rai | [Read More](https://medium.com/p/e0b4f317e43a) |
 | Sat, 14 Feb 2026 08:24:09 GMT | kMOSAIC: Why One Lock Isn’t Enough in a Post-Quantum World | Rolando Santamaría Masó | [Read More](https://medium.com/p/01a97e0c5cc9) |
 | Sat, 14 Feb 2026 08:21:34 GMT | AI agents now lead autonomous cyber attacks | What.next | [Read More](https://medium.com/p/74ab13ba1fea) |
 | Sat, 14 Feb 2026 08:20:46 GMT | RootMe -TryHackMe CTF Challenge Walkthrough | Adithyapadmanabhan K B | [Read More](https://medium.com/p/0934f50cd01f) |
-| Sat, 14 Feb 2026 08:19:03 GMT | A Practical Editor-Integrated Workflow for Auditing Large Solana Rust Codebases with Generative AI | kawasak102 | [Read More](https://medium.com/p/46b477a7b922) |
-| Sat, 14 Feb 2026 07:56:02 GMT | PicoCTF - Ph4nt0m 1ntrud3r | Cococrans27 | [Read More](https://medium.com/p/2e4ff1bfa6d1) |
-| Sat, 14 Feb 2026 07:51:15 GMT | Is CTEM a framework or a solution? (AI + Cybersecurity) | Rajat Dangi ️ | [Read More](https://medium.com/p/cf1bdda4815d) |
