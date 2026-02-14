@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Feb 2026 08:24:09 GMT | kMOSAIC: Why One Lock Isn’t Enough in a Post-Quantum World | Rolando Santamaría Masó | [Read More](https://medium.com/p/01a97e0c5cc9) |
+| Sat, 14 Feb 2026 08:21:34 GMT | AI agents now lead autonomous cyber attacks | What.next | [Read More](https://medium.com/p/74ab13ba1fea) |
+| Sat, 14 Feb 2026 08:20:46 GMT | RootMe -TryHackMe CTF Challenge Walkthrough | Adithyapadmanabhan K B | [Read More](https://medium.com/p/0934f50cd01f) |
+| Sat, 14 Feb 2026 08:19:03 GMT | A Practical Editor-Integrated Workflow for Auditing Large Solana Rust Codebases with Generative AI | kawasak102 | [Read More](https://medium.com/p/46b477a7b922) |
+| Sat, 14 Feb 2026 07:56:02 GMT | PicoCTF - Ph4nt0m 1ntrud3r | Cococrans27 | [Read More](https://medium.com/p/2e4ff1bfa6d1) |
 | Sat, 14 Feb 2026 07:51:15 GMT | Is CTEM a framework or a solution? (AI + Cybersecurity) | Rajat Dangi ️ | [Read More](https://medium.com/p/cf1bdda4815d) |
 | Sat, 14 Feb 2026 07:36:47 GMT | AWhy Is Antivirus Software Still Essential in a Cloud-Driven World? | Siyanoav | [Read More](https://medium.com/p/389162fe632a) |
 | Sat, 14 Feb 2026 07:33:16 GMT | Privacy Hardening Toolkit 2025: 25 Practical Steps to Lock Down Your Digital Life | Very Lazy Tech | [Read More](https://medium.com/p/b91a7d1911ad) |
@@ -108,8 +113,3 @@ By Anil Tiwari | Dr. Anil Tiwari | [Read More](https://medium.com/p/ebdc615d34e7
 | Fri, 13 Feb 2026 20:47:21 GMT | Hacking Humans ( The Art of Social Engineering ) — Cybersecurity Unlocked: Episode 10 | Yash Kitey | [Read More](https://medium.com/p/de8747af0413) |
 | Fri, 13 Feb 2026 20:43:01 GMT | Breaking Down the Threat Surface of a Self-Hosted AI Code Copilot | JJ | [Read More](https://medium.com/p/424a70d516c8) |
 | Fri, 13 Feb 2026 20:31:02 GMT | What ISO 27001 | Ngomba Litombe | [Read More](https://medium.com/p/c75186cd091e) |
-| Fri, 13 Feb 2026 20:25:32 GMT | Intelligence Arbitrage: The 2026 Structural Reset of Indian IT | Aditya Baghel | [Read More](https://medium.com/p/aff5d726a444) |
-| Fri, 13 Feb 2026 20:21:17 GMT | Building Secure Password Management | Cordula Boeck | [Read More](https://medium.com/p/30c256c41c53) |
-| Fri, 13 Feb 2026 20:17:54 GMT | Bekarlık Sultanlık: Pig Butchering | Serhan Eraslan | [Read More](https://medium.com/p/8e991e2be26a) |
-| Fri, 13 Feb 2026 20:13:22 GMT | The most important word you need to know about AI, traffic not visible in network logs, securing… | Teri Radichel | [Read More](https://medium.com/p/85aaf2166a1f) |
-| Fri, 13 Feb 2026 20:04:26 GMT | Exploring Automotive Security: Hidden Risks Every Driver Faces | Abhinav Pathak | [Read More](https://medium.com/p/5ea2a76e045b) |
