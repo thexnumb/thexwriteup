@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Feb 2026 09:29:00 GMT | MesaNet writeup (hard)(Bugforge) (SQLi) | 7s26Simon | [Read More](https://medium.com/p/b59bdb989213) |
+| Sat, 14 Feb 2026 09:22:14 GMT | [PicoCTF] warm-up — Forensic (Easy Level) | Shiro | [Read More](https://medium.com/p/7d27492c1540) |
+| Sat, 14 Feb 2026 09:20:46 GMT | The Amazing Zig, C and OpenSSL | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/3e75ab30963f) |
+| Sat, 14 Feb 2026 09:16:00 GMT | The First 3 Things Hackers Do With Freshly Leaked Credentials | Alexandre Vandamme | [Read More](https://medium.com/p/3f2e22937093) |
+| Sat, 14 Feb 2026 09:14:03 GMT | Smart Grid Technology | Atwine Benjamin | [Read More](https://medium.com/p/8380e25d04dd) |
+| Sat, 14 Feb 2026 09:07:36 GMT | How Reviews Influence Local SEO | Jellyfr | [Read More](https://medium.com/p/f080f9862a02) |
+| Sat, 14 Feb 2026 09:04:01 GMT | Web Security 101: Part 7 - Authentication: Sessions, JWTs | Nithishraina | [Read More](https://medium.com/p/7177fb5499b1) |
+| Sat, 14 Feb 2026 09:03:41 GMT | Cyber Threat Intelligence and Modern Defense Strategies | Kunal Arora | [Read More](https://medium.com/p/c7d0b7588210) |
+| Sat, 14 Feb 2026 08:51:04 GMT | How a Threat Actor Bypasses AV Defenses | 0rickyy. | [Read More](https://medium.com/p/db817f763379) |
+| Sat, 14 Feb 2026 08:48:33 GMT | Razzify Challenge Report — Spectral | Umang Mishra | [Read More](https://medium.com/p/d9b6aa8bcfec) |
+| Sat, 14 Feb 2026 08:39:59 GMT | Engineering Provable Agency: The H2E Framework as a Deterministic Sentinel | Frank Morales Aguilera | [Read More](https://medium.com/p/9224b50cbf4c) |
+| Sat, 14 Feb 2026 08:38:42 GMT | Part 4 — Find Dead Links in Your Notes with Python | ghostyjoe | [Read More](https://medium.com/p/e5f9a646f80e) |
+| Sat, 14 Feb 2026 08:37:17 GMT | The AI-Native Fullstack: Why Security Must Extend from Code to Autonomous Agents | Made Adi Widyananda | [Read More](https://medium.com/p/9f01d93d230a) |
+| Sat, 14 Feb 2026 08:34:14 GMT | NotebookLM: I Found Malware Hidden in a “Productivity” Plugin. Here’s How. | Mihailo Zoin | [Read More](https://medium.com/p/07fcbd6b8626) |
+| Sat, 14 Feb 2026 08:32:50 GMT | Passkeys vs Passwords: Why Apple Passkeys Are Replacing Traditional Logins in 2025 | Umer blogs | [Read More](https://medium.com/p/c99e32bb3947) |
+| Sat, 14 Feb 2026 08:31:00 GMT | Static Malware Analysis with PE Studio | H4NDS0M3 | [Read More](https://medium.com/p/da187ea32f1c) |
+| Sat, 14 Feb 2026 08:30:56 GMT | Moltbot (OpenClaw) Is Not an Assistant: Why Agentic AI Changes Everything | Germano Costi | [Read More](https://medium.com/p/13418c0e950f) |
+| Sat, 14 Feb 2026 08:30:47 GMT | PicoCTF Forensic Challenge — Easy | Abrar Fathoni | [Read More](https://medium.com/p/1842dbdda0ba) |
 | Sat, 14 Feb 2026 08:24:09 GMT | kMOSAIC: Why One Lock Isn’t Enough in a Post-Quantum World | Rolando Santamaría Masó | [Read More](https://medium.com/p/01a97e0c5cc9) |
 | Sat, 14 Feb 2026 08:21:34 GMT | AI agents now lead autonomous cyber attacks | What.next | [Read More](https://medium.com/p/74ab13ba1fea) |
 | Sat, 14 Feb 2026 08:20:46 GMT | RootMe -TryHackMe CTF Challenge Walkthrough | Adithyapadmanabhan K B | [Read More](https://medium.com/p/0934f50cd01f) |
@@ -95,21 +113,3 @@ By Anil Tiwari | Dr. Anil Tiwari | [Read More](https://medium.com/p/ebdc615d34e7
 | Fri, 13 Feb 2026 22:19:46 GMT | Day 12 — Windows Privilege Escalation THM | Cybersecurity with Jojo | [Read More](https://medium.com/p/5fa9b4e54f2c) |
 | Fri, 13 Feb 2026 22:14:09 GMT | Implementing Apple App Attest for iOS API Security — No More Static Secrets | Egzon Pllana | [Read More](https://medium.com/p/952014ed5058) |
 | Fri, 13 Feb 2026 22:11:00 GMT | Breaking the Box: bypassing Node.js Filesystem Permissions via Symlinks (CVE-2025–55130) | Krishna Kumar | [Read More](https://medium.com/p/0b9ad44920f9) |
-| Fri, 13 Feb 2026 22:07:15 GMT | High-Level Architecture for Centralized SIEM Deployment | Karim roshdy | [Read More](https://medium.com/p/a667f0e993d4) |
-| Fri, 13 Feb 2026 22:05:43 GMT | 30 Days of Red Team: Day 23 — Kerberoasting & AS-REP Roasting | Maxwell Cross | [Read More](https://medium.com/p/ad99f265e0c5) |
-| Fri, 13 Feb 2026 22:01:01 GMT | Unfiltered Restart— Day 3: Firmware Memories | Maximillian Rueda | [Read More](https://medium.com/p/2da2ffdf95c0) |
-| Fri, 13 Feb 2026 21:56:00 GMT | NIST Is Rethinking Identity for AI Agents — And That’s a Big Deal | Kmori | [Read More](https://medium.com/p/f7bb048bff26) |
-| Fri, 13 Feb 2026 21:47:46 GMT | Lab Guide: Building a Windows Active Directory Environment | Karim roshdy | [Read More](https://medium.com/p/750a12ed3991) |
-| Fri, 13 Feb 2026 21:47:38 GMT | Investigating Security Incidents | Boluwatife Shopeju | [Read More](https://medium.com/p/142a448a46d8) |
-| Fri, 13 Feb 2026 21:30:58 GMT | CE 03: SD-WANs | Chimdi | [Read More](https://medium.com/p/2d67deca92d8) |
-| Fri, 13 Feb 2026 21:30:33 GMT | Overflowing Cities: How Technology Can Fix the Silent Crisis of Poor Solid Waste Management | Ssozi Derrick | [Read More](https://medium.com/p/18736d5ecea3) |
-| Fri, 13 Feb 2026 21:26:04 GMT | The Code Editor You Trust Just Became a Trojan Horse | Truong (Jack) Luu | [Read More](https://medium.com/p/6aad59f5f0c6) |
-| Fri, 13 Feb 2026 21:23:43 GMT | The Day a “Skill” Turned Into a Backdoor | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/35ea4c253605) |
-| Fri, 13 Feb 2026 21:20:21 GMT | Hands-On Cybersecurity Experience: Building a SOC Lab from Scratch (2026) | Paulius Kislinkas - Tech & Security | [Read More](https://medium.com/p/6d03e67b6097) |
-| Fri, 13 Feb 2026 21:19:05 GMT | Your SIEM is not an immune system. It’s just a burglar alarm. | Levente Simon | [Read More](https://medium.com/p/362f9920ed4f) |
-| Fri, 13 Feb 2026 21:10:13 GMT | Strengthening Network Defense for a Startup (Proposal) | Prem Kumar Santhanam | [Read More](https://medium.com/p/502dfd359d16) |
-| Fri, 13 Feb 2026 21:08:50 GMT | How Modern Businesses Can Optimize Cloud Data, Cut Costs, and Improve Performance in 2026 | emran | [Read More](https://medium.com/p/e5723f43126f) |
-| Fri, 13 Feb 2026 21:07:45 GMT | Your Next Target Has an AI Assistant. That’s the Weakest Link. | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/bfe6ba163a3c) |
-| Fri, 13 Feb 2026 20:47:21 GMT | Hacking Humans ( The Art of Social Engineering ) — Cybersecurity Unlocked: Episode 10 | Yash Kitey | [Read More](https://medium.com/p/de8747af0413) |
-| Fri, 13 Feb 2026 20:43:01 GMT | Breaking Down the Threat Surface of a Self-Hosted AI Code Copilot | JJ | [Read More](https://medium.com/p/424a70d516c8) |
-| Fri, 13 Feb 2026 20:31:02 GMT | What ISO 27001 | Ngomba Litombe | [Read More](https://medium.com/p/c75186cd091e) |
