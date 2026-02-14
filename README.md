@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Feb 2026 23:07:46 GMT | From LFI to Data Exfiltration: Valenfind (TryHackMe Walkthrough) | RosanaFSS | [Read More](https://medium.com/p/b408b3a9bcc6) |
+| Sat, 14 Feb 2026 23:00:04 GMT | The Architecture of Trust: Why Modern Systems Fail at the Boundaries They Assume Are Safe | David Jonathan | [Read More](https://medium.com/p/671074de1a75) |
+| Sat, 14 Feb 2026 22:58:50 GMT | OPERATION: OSSIFICATION “Why Bitcoin Must Freeze as Sound Money Before It’s Too Late.” | Beautyon | [Read More](https://medium.com/p/893a9909a877) |
 | Sat, 14 Feb 2026 22:38:08 GMT | T1584.004 Lab — CyberDefender Challenge | Moinuddin Ahmed | [Read More](https://medium.com/p/13e8c611fe2a) |
 | Sat, 14 Feb 2026 22:33:47 GMT | Quantum-Safe API Architecture Designing APIs Resistant to Quantum Computing Threats | Bervice | [Read More](https://medium.com/p/a8032d9e1f6c) |
 | Sat, 14 Feb 2026 22:31:06 GMT | Love at First Breach 2026 - TryHackMe - CupidBot - Walkthrough CTF | Frhn.Isml | [Read More](https://medium.com/p/861efd978629) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Feb 2026 15:38:29 GMT | TryHackMe ValenFind Walkthrough | Ramiz | [Read More](https://medium.com/p/8fe6b98941af) |
 | Sat, 14 Feb 2026 15:34:36 GMT | IA autonome vs sécurité : pourquoi vous devriez débrancher vos agents avant qu’il ne soit trop tard | Noctu@edu | [Read More](https://medium.com/p/9d220b79fc7c) |
 | Sat, 14 Feb 2026 15:08:47 GMT | To Love is to Break: The Necessity of Vulnerability to Know and Be Known | cattleya | [Read More](https://medium.com/p/2a0375058d07) |
-| Sat, 14 Feb 2026 14:59:50 GMT | Stored XSS via Vulnerable File Upload Functionality | Shaunak Natu | [Read More](https://medium.com/p/95b324f208ea) |
-| Sat, 14 Feb 2026 14:59:41 GMT | Membahas Infostealer LummaC2 | komo | [Read More](https://medium.com/p/60adeae3ea01) |
-| Sat, 14 Feb 2026 14:50:36 GMT | Building a Hands-On SIEM Lab Using Wazuh (Part 2: Implementing Active Response using Virus Total… | Michael Jan Tangalin | [Read More](https://medium.com/p/4ae3a4c66460) |
