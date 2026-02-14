@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Feb 2026 21:17:02 GMT | Veritabanları (Databases) | Songül Kızılay Özügürler | [Read More](https://medium.com/p/ac137974e2b0) |
+| Sat, 14 Feb 2026 21:05:50 GMT | GraphQL Directive Injection Attacks | Sujaykumar | [Read More](https://medium.com/p/94df6bb35f60) |
+| Sat, 14 Feb 2026 20:56:29 GMT | Documenting My Transition from Computer Science to Cybersecurity. | Favour Ugochi Ogbonnaya | [Read More](https://medium.com/p/22638b5ce7dc) |
+| Sat, 14 Feb 2026 20:53:04 GMT | True Feelings or Just a Bottle of Corona? | Valeri | [Read More](https://medium.com/p/f2242bb07c2d) |
+| Sat, 14 Feb 2026 20:46:28 GMT | Membedah Lumma Stealer (Fake CAPTCHA) Menggunakan Framework Cyber Kill Chain | Sandyy Tirtaa | [Read More](https://medium.com/p/cf317cf16447) |
 | Sat, 14 Feb 2026 20:36:34 GMT | Snowflake SQL in a Nutshell: Consolidated report on Super-Role Grants in your Organization | NadirDoctor | [Read More](https://medium.com/p/e5841cc746c5) |
 | Sat, 14 Feb 2026 20:17:00 GMT | Ruang Tamu Saja | Kesuraman Natur | [Read More](https://medium.com/p/ce23b40b7bc0) |
 | Sat, 14 Feb 2026 20:07:08 GMT | The Case for the Adversarial Architect | Joshua Goossen | [Read More](https://medium.com/p/f4da3be3e903) |
@@ -56,6 +61,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Feb 2026 17:19:26 GMT | TryHackMe Love Letter Locker Walkthrough | Ramiz | [Read More](https://medium.com/p/86d6a57166e7) |
 | Sat, 14 Feb 2026 17:18:45 GMT | The Graphite Leak and the Myth of Digital Safety | Abdelakarim Benabdallah | [Read More](https://medium.com/p/95de17573084) |
 | Sat, 14 Feb 2026 17:17:51 GMT | While They’re Still Prompting, We’re Engineering Reality: The Dawn of Collapse-Aware AI | M.R | [Read More](https://medium.com/p/d273a7cc81b9) |
+| Sat, 14 Feb 2026 17:17:37 GMT | Roses Are Red, Violets Are Blue; That “Soldier in Syria” Might Be a Scammer DM’ing You | Al-ameen | [Read More](https://medium.com/p/344312b0b0fb) |
 | Sat, 14 Feb 2026 17:16:58 GMT | AI Entrapment: When Your Paid AI Locks You Out for RISKY chat, the Conversation IT Created | Berend Watchus | [Read More](https://medium.com/p/578e8289e60a) |
 | Sat, 14 Feb 2026 17:13:03 GMT | Day 2 : The Rabbit Hole | Armaan Nain | [Read More](https://medium.com/p/ea1576211150) |
 | Sat, 14 Feb 2026 17:08:33 GMT | Building a Thriving IT Export Economy: Aspirations from a Small-Business Founder | syedfromsylhet | [Read More](https://medium.com/p/5886e0d50533) |
@@ -64,7 +70,9 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Feb 2026 17:01:00 GMT | Crypto Launchpad Development Under Load: What Breaks First (and What Holds) | ChainGPT | [Read More](https://medium.com/p/80d1371a414e) |
 | Sat, 14 Feb 2026 16:56:01 GMT | Ransomware Meets AI: The New Breeds of Attacks Targeting Diagnostic Devices | Michael Adedeji | [Read More](https://medium.com/p/ba71594ddd11) |
 | Sat, 14 Feb 2026 16:48:57 GMT | How Real Red Teams Chain Small Misconfigurations into Full Domain Compromise | Cynox Security LLP. | [Read More](https://medium.com/p/a0f02707555d) |
+| Sat, 14 Feb 2026 16:47:57 GMT | TryHackMe - Computer Types - WriteUp | Axoloth | [Read More](https://medium.com/p/c207778dda10) |
 | Sat, 14 Feb 2026 16:44:00 GMT | A Place to Hang My Hats | Jessica Gasbarro | [Read More](https://medium.com/p/99ee033ac428) |
+| Sat, 14 Feb 2026 16:40:31 GMT | TryHackMe - Inside a Computer System - WriteUp | Axoloth | [Read More](https://medium.com/p/564d4248036e) |
 | Sat, 14 Feb 2026 16:30:00 GMT | I’ve realized that when you change the words to make them lighter, you lose the gravity of the… | iknowhowtowrite | [Read More](https://medium.com/p/ceae6a93b44c) |
 | Sat, 14 Feb 2026 16:27:20 GMT | Brittle ZITADEL! Why Self Hosting Feels Brittle and What To Do Next | Niraj Kumar | [Read More](https://medium.com/p/70566cfc43a1) |
 | Sat, 14 Feb 2026 16:25:05 GMT | Why HTTPS Command Polling Often Evades AV/EDR | Derek Johnston | [Read More](https://medium.com/p/8a9041feb03f) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Feb 2026 14:16:21 GMT | Hidden in Plain Sight — picoCTF Write-up | szuryuu | [Read More](https://medium.com/p/df594cf8957a) |
 | Sat, 14 Feb 2026 14:14:10 GMT | ERP Selection in 2026: Why Last Week’s Security Meltdown Changes Everything | Andre Maurice Davis | [Read More](https://medium.com/p/d8bd0bf93be8) |
 | Sat, 14 Feb 2026 14:12:42 GMT | picoCTF Forensics— Hidden in Plainsight | 0w0 | [Read More](https://medium.com/p/1d6919654719) |
-| Sat, 14 Feb 2026 14:07:12 GMT | Why the Dark Web Is More Dangerous in 2026 | Purrgle | [Read More](https://medium.com/p/6b38677c10c1) |
-| Sat, 14 Feb 2026 14:06:59 GMT | 0APT RANSOMWARE: The Real FAKE! | Rakesh Krishnan | [Read More](https://medium.com/p/99c65f1d5124) |
-| Sat, 14 Feb 2026 14:06:03 GMT | How to Think Like a Penetration Tester: The Methodical Mindset Approach - TryHackMe Writeup | 0xAbhiSec | [Read More](https://medium.com/p/c458f9cad78e) |
-| Sat, 14 Feb 2026 14:04:30 GMT | When I Entered My Office on 02–02–2026 and Opened My Laptop: Everything Changed | Raajeev H Dave (AI Man) | [Read More](https://medium.com/p/0040e317f489) |
-| Sat, 14 Feb 2026 14:01:43 GMT | Ready to Build a Career in Cyber Security? | Molletibalu | [Read More](https://medium.com/p/58ada75bab40) |
-| Sat, 14 Feb 2026 13:53:21 GMT | TryHackMe Hidden Deep Into my Heart Walkthrough (Love at First Breach 2026) | Muhammad Ibrahim | [Read More](https://medium.com/p/6bf05a53ad6f) |
-| Sat, 14 Feb 2026 13:49:05 GMT | Kubernetes Requests vs Limits: The Ultimate 2026 Guide to Avoiding Common Pitfalls | Neel Shah | [Read More](https://medium.com/p/7aa2f042ac8e) |
-| Sat, 14 Feb 2026 13:31:08 GMT | CVE-2026–1731 - Exploit and Detection Overview | Omerhuyver | [Read More](https://medium.com/p/a91c28820a1c) |
