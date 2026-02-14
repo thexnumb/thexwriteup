@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Feb 2026 03:55:35 GMT | Entra Authentication Methods Migration 2026: Complete Enterprise Playbook (Legacy MFA/SSPR → Modern… | Jack Nelson | [Read More](https://medium.com/p/c12424ab218a) |
+| Sat, 14 Feb 2026 03:39:51 GMT | Born Secure: How We Built an Automated TLS/mTLS Certificate Issuance and Rotation System | Riaz A | [Read More](https://medium.com/p/790e79ad9c76) |
+| Sat, 14 Feb 2026 03:12:17 GMT | Why Is Gmail Letting Phishing Through in 2026? | Stefan Bargan | [Read More](https://medium.com/p/6ae8882450dd) |
+| Sat, 14 Feb 2026 02:53:15 GMT | How to Fix Kali Linux Disk Not Expounting/Increasing After Increasing VM Disk Size (VMware) | Sapienshack | [Read More](https://medium.com/p/9944b7ecda34) |
+| Sat, 14 Feb 2026 02:49:24 GMT | Hidden Deep Into my Heart TryHackMe | cat0x01 | [Read More](https://medium.com/p/2aadff522ce6) |
+| Sat, 14 Feb 2026 02:43:54 GMT | Invicti: The Enterprise Web Application Security Scanner for Accurate Vulnerability Detection | Dennis Duke | [Read More](https://medium.com/p/d0ea7a90b40d) |
 | Sat, 14 Feb 2026 02:08:42 GMT | My first OffSec Proving Grounds Lab: CyberSploit1 Walkthrough | LIKITH GAJULA | [Read More](https://medium.com/p/7b9f0d1a841c) |
 | Sat, 14 Feb 2026 02:02:56 GMT | Hardware Sovereignty | The Inference Report | [Read More](https://medium.com/p/3855975f3732) |
 | Sat, 14 Feb 2026 01:51:46 GMT | Live Capture: How I Detected a Recon Attack Before Exploitation | Azad Sleigher | [Read More](https://medium.com/p/9e8de32aa50a) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Feb 2026 16:39:14 GMT | STRIDE and TARA Methodologies | Maram Raboudi | [Read More](https://medium.com/p/769090aedadc) |
 | Fri, 13 Feb 2026 16:37:42 GMT | My First Week Learning Linux as an Ethical Hacker | Nishant kumar | [Read More](https://medium.com/p/1515fdbf4546) |
 | Fri, 13 Feb 2026 16:37:08 GMT | Pengantar Pemrograman Web Dan Flowchart | Zurichsabil | [Read More](https://medium.com/p/b9e636f45d25) |
-| Fri, 13 Feb 2026 16:28:07 GMT | Browser Fingerprinting: how your Browser Tracks and Spies You | Recursive Talking | [Read More](https://medium.com/p/366d52c54b12) |
-| Fri, 13 Feb 2026 16:22:19 GMT | How I Approach XSS Hunting as a Security Beginner | Narmadha | [Read More](https://medium.com/p/bbba9f3c4ca1) |
-| Fri, 13 Feb 2026 16:20:17 GMT | How Do You Navigate Life When Being Discontent Becomes Your Primary Emotion? | Hannah H | [Read More](https://medium.com/p/23d162d227ce) |
-| Fri, 13 Feb 2026 16:17:47 GMT | Full Asset Inventory: How Controlled Release Actually Works | InheritSafe | [Read More](https://medium.com/p/7b1b78bbe417) |
-| Fri, 13 Feb 2026 16:16:27 GMT | Lumma Stealer, Malware C2 via fake CAPTCHA | Rizqi Ramadhan | [Read More](https://medium.com/p/f6a7c05abe0c) |
-| Fri, 13 Feb 2026 16:15:24 GMT | Nmap Unleashed: A Modern Way to Supercharge Network Scanning | Pralin Khaira | [Read More](https://medium.com/p/137492b86264) |
