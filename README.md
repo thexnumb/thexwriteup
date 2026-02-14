@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Feb 2026 23:37:33 GMT | Your Email, Calendar, and Video Calls Are Leaking — Here’s the Fix | Azazul | [Read More](https://medium.com/p/89250cb4cf28) |
+| Sat, 14 Feb 2026 23:36:04 GMT | Let AI Build Full-Stack Apps Safely with Docker Sandboxes | Doran Gao | [Read More](https://medium.com/p/895de3635443) |
+| Sat, 14 Feb 2026 23:33:31 GMT | T1110–003 Lab — CyberDefender Challenge | Moinuddin Ahmed | [Read More](https://medium.com/p/dd856f1ccfa3) |
+| Sat, 14 Feb 2026 23:33:24 GMT | SIEM Setup Using Elastic Stack | Karim roshdy | [Read More](https://medium.com/p/b2879fb12cde) |
+| Sat, 14 Feb 2026 23:29:40 GMT | 0xfun CTF 2026 — OSINT writeup | Hadiramr | [Read More](https://medium.com/p/e35ff2afdf3d) |
 | Sat, 14 Feb 2026 23:07:46 GMT | From LFI to Data Exfiltration: Valenfind (TryHackMe Walkthrough) | RosanaFSS | [Read More](https://medium.com/p/b408b3a9bcc6) |
 | Sat, 14 Feb 2026 23:00:04 GMT | The Architecture of Trust: Why Modern Systems Fail at the Boundaries They Assume Are Safe | David Jonathan | [Read More](https://medium.com/p/671074de1a75) |
 | Sat, 14 Feb 2026 22:58:50 GMT | OPERATION: OSSIFICATION “Why Bitcoin Must Freeze as Sound Money Before It’s Too Late.” | Beautyon | [Read More](https://medium.com/p/893a9909a877) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Feb 2026 15:53:07 GMT | Manual SQL Injection to Admin Takeover - SQLite Exploitation, Hash Cracking & Cookie Manipulation | NullSecurityX | [Read More](https://medium.com/p/7ac0751db2ab) |
 | Sat, 14 Feb 2026 15:53:00 GMT | Building the Data Logistics Hub: The Strategy — 2026/02/14 — Part 2 | Martyn Jones | [Read More](https://medium.com/p/af90421fd43a) |
 | Sat, 14 Feb 2026 15:43:55 GMT | “ClickFix”: Saat CAPTCHA Menjadi Senjata Pemusnah Data (Bedah Lumma Stealer) | Dinandputra | [Read More](https://medium.com/p/81bf07736cb2) |
-| Sat, 14 Feb 2026 15:40:34 GMT | The WhatsApp security hole you don’t know you have | Christian Frank Johannsen | [Read More](https://medium.com/p/7e1ec29f2bba) |
-| Sat, 14 Feb 2026 15:39:54 GMT | High Performance is Not Pathology: A Rewrite About Armchair Psychiatry | Deanna Sianez | [Read More](https://medium.com/p/eb9fa7d00b9a) |
-| Sat, 14 Feb 2026 15:38:29 GMT | TryHackMe ValenFind Walkthrough | Ramiz | [Read More](https://medium.com/p/8fe6b98941af) |
-| Sat, 14 Feb 2026 15:34:36 GMT | IA autonome vs sécurité : pourquoi vous devriez débrancher vos agents avant qu’il ne soit trop tard | Noctu@edu | [Read More](https://medium.com/p/9d220b79fc7c) |
-| Sat, 14 Feb 2026 15:08:47 GMT | To Love is to Break: The Necessity of Vulnerability to Know and Be Known | cattleya | [Read More](https://medium.com/p/2a0375058d07) |
