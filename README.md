@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Feb 2026 17:32:45 GMT | HTTP vs HTTPS: What’s the Difference? And Where Do SSL and TLS Fit? | Manikanta majeti | [Read More](https://medium.com/p/1be133228886) |
 | Sat, 14 Feb 2026 17:23:48 GMT | Modern Bank Fraud: The New Threats You Need to Know in 2025 | Juan Moisés de la Serna | [Read More](https://medium.com/p/00c9123513a3) |
 | Sat, 14 Feb 2026 17:21:44 GMT | The Workflow Sprawl Trap: Why Small IT Teams Build Fragile Automation | Oscar Antonangelo | [Read More](https://medium.com/p/b789df9006b1) |
 | Sat, 14 Feb 2026 17:21:14 GMT | DTO vs Entity in Spring Boot: Why You Should Never Expose Your Entities | Hüsna POYRAZ | [Read More](https://medium.com/p/18abf407dc1c) |
@@ -113,4 +114,3 @@ Cyber Security… | Ankit rai | [Read More](https://medium.com/p/e0b4f317e43a) |
 | Sat, 14 Feb 2026 10:46:00 GMT | RHEL 9.7 vs. RHEL 10.1: Which One Should You Choose? | Emilyharbord | [Read More](https://medium.com/p/c1c37ce2617c) |
 | Sat, 14 Feb 2026 10:37:06 GMT | Apache HTTP Server 2.4.49/2.4.50 Remote Code Execution (CVE-2021–42013) | 0x3rr0rhunt3r | [Read More](https://medium.com/p/1b03e3dc49b0) |
 | Sat, 14 Feb 2026 10:29:00 GMT | Why Installing an Intermediate Certificate Is Essential for Your Website Security | Shriji Solutions | [Read More](https://medium.com/p/33bc6014aeda) |
-| Sat, 14 Feb 2026 10:27:15 GMT | Elite Tactical Guards: Strong Protection for High-Threat Environments | Grdsnscrt | [Read More](https://medium.com/p/b8615d0096fb) |
