@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Feb 2026 15:43:55 GMT | “ClickFix”: Saat CAPTCHA Menjadi Senjata Pemusnah Data (Bedah Lumma Stealer) | Dinandputra | [Read More](https://medium.com/p/81bf07736cb2) |
+| Sat, 14 Feb 2026 15:40:34 GMT | The WhatsApp security hole you don’t know you have | Christian Frank Johannsen | [Read More](https://medium.com/p/7e1ec29f2bba) |
+| Sat, 14 Feb 2026 15:39:54 GMT | High Performance is Not Pathology: A Rewrite About Armchair Psychiatry | Deanna Sianez | [Read More](https://medium.com/p/eb9fa7d00b9a) |
+| Sat, 14 Feb 2026 15:38:29 GMT | TryHackMe ValenFind Walkthrough | Ramiz | [Read More](https://medium.com/p/8fe6b98941af) |
+| Sat, 14 Feb 2026 15:34:36 GMT | IA autonome vs sécurité : pourquoi vous devriez débrancher vos agents avant qu’il ne soit trop tard | Noctu@edu | [Read More](https://medium.com/p/9d220b79fc7c) |
 | Sat, 14 Feb 2026 15:08:47 GMT | To Love is to Break: The Necessity of Vulnerability to Know and Be Known | cattleya | [Read More](https://medium.com/p/2a0375058d07) |
 | Sat, 14 Feb 2026 14:59:50 GMT | Stored XSS via Vulnerable File Upload Functionality | Shaunak Natu | [Read More](https://medium.com/p/95b324f208ea) |
 | Sat, 14 Feb 2026 14:59:41 GMT | Membahas Infostealer LummaC2 | komo | [Read More](https://medium.com/p/60adeae3ea01) |
@@ -51,6 +56,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Feb 2026 12:20:10 GMT | Stop Copy-Pasting SQL Injection Payloads. Start Understanding Query Execution. | Priyanshukumar | [Read More](https://medium.com/p/7f5d99e249e0) |
 | Sat, 14 Feb 2026 12:11:00 GMT | Tales from Hobin: The ARUP deepfake scam | Hobin Rood | [Read More](https://medium.com/p/13ec86fabb6d) |
 | Sat, 14 Feb 2026 12:09:00 GMT | NerisBot Lab (Walkthrough) | Pravat Dash | [Read More](https://medium.com/p/58961941c96a) |
+| Sat, 14 Feb 2026 12:04:40 GMT | Jebakan “Fake CAPTCHA”: Saat Copy-Paste Sederhana Membuka Pintu Bagi Malware Lumma Stealer | Muhammad Ridwan | [Read More](https://medium.com/p/1d022bc58299) |
 | Sat, 14 Feb 2026 12:03:21 GMT | Your Authorization Layer Is Lying to You — And Your Go API Can’t Prove It | Syarif | [Read More](https://medium.com/p/95c0a899fac0) |
 | Sat, 14 Feb 2026 12:02:18 GMT | From Ethical Hacking to Incident Response: What Makes a Cyber Security Course Truly Complete? | logging security | [Read More](https://medium.com/p/eabaa592b3a7) |
 | Sat, 14 Feb 2026 12:01:00 GMT | Who will be speaking at Q+AI? | Brian N. Siegelwax | [Read More](https://medium.com/p/d40d71964b5b) |
@@ -108,9 +114,3 @@ Cyber Security… | Ankit rai | [Read More](https://medium.com/p/e0b4f317e43a) |
 | Sat, 14 Feb 2026 08:37:17 GMT | The AI-Native Fullstack: Why Security Must Extend from Code to Autonomous Agents | Made Adi Widyananda | [Read More](https://medium.com/p/9f01d93d230a) |
 | Sat, 14 Feb 2026 08:34:14 GMT | NotebookLM: I Found Malware Hidden in a “Productivity” Plugin. Here’s How. | Mihailo Zoin | [Read More](https://medium.com/p/07fcbd6b8626) |
 | Sat, 14 Feb 2026 08:32:50 GMT | Passkeys vs Passwords: Why Apple Passkeys Are Replacing Traditional Logins in 2025 | Umer blogs | [Read More](https://medium.com/p/c99e32bb3947) |
-| Sat, 14 Feb 2026 08:31:00 GMT | Static Malware Analysis with PE Studio | H4NDS0M3 | [Read More](https://medium.com/p/da187ea32f1c) |
-| Sat, 14 Feb 2026 08:30:56 GMT | Moltbot (OpenClaw) Is Not an Assistant: Why Agentic AI Changes Everything | Germano Costi | [Read More](https://medium.com/p/13418c0e950f) |
-| Sat, 14 Feb 2026 08:30:47 GMT | PicoCTF Forensic Challenge — Easy | Abrar Fathoni | [Read More](https://medium.com/p/1842dbdda0ba) |
-| Sat, 14 Feb 2026 08:24:09 GMT | kMOSAIC: Why One Lock Isn’t Enough in a Post-Quantum World | Rolando Santamaría Masó | [Read More](https://medium.com/p/01a97e0c5cc9) |
-| Sat, 14 Feb 2026 08:21:34 GMT | AI agents now lead autonomous cyber attacks | What.next | [Read More](https://medium.com/p/74ab13ba1fea) |
-| Sat, 14 Feb 2026 08:20:46 GMT | RootMe -TryHackMe CTF Challenge Walkthrough | Adithyapadmanabhan K B | [Read More](https://medium.com/p/0934f50cd01f) |
