@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Feb 2026 10:48:17 GMT | Telegram Scams and Student Greed: Why Awareness Is Still Not Enough
+By Ankit Rai
+Cyber Security… | Ankit rai | [Read More](https://medium.com/p/e0b4f317e43a) |
+| Sat, 14 Feb 2026 10:46:39 GMT | Hidden Deep Into My Heart — LAFB CTF by TryHackMe | Jatin Gahlot | [Read More](https://medium.com/p/48a75a3fab62) |
+| Sat, 14 Feb 2026 10:46:00 GMT | RHEL 9.7 vs. RHEL 10.1: Which One Should You Choose? | Emilyharbord | [Read More](https://medium.com/p/c1c37ce2617c) |
+| Sat, 14 Feb 2026 10:37:06 GMT | Apache HTTP Server 2.4.49/2.4.50 Remote Code Execution (CVE-2021–42013) | 0x3rr0rhunt3r | [Read More](https://medium.com/p/1b03e3dc49b0) |
+| Sat, 14 Feb 2026 10:29:00 GMT | Why Installing an Intermediate Certificate Is Essential for Your Website Security | Shriji Solutions | [Read More](https://medium.com/p/33bc6014aeda) |
+| Sat, 14 Feb 2026 10:27:15 GMT | Elite Tactical Guards: Strong Protection for High-Threat Environments | Grdsnscrt | [Read More](https://medium.com/p/b8615d0096fb) |
+| Sat, 14 Feb 2026 10:24:56 GMT | SOC Part 3 - How I Detected a Ransomware Execution Using Splunk (SOC Practical Guide) | Kodeesh | [Read More](https://medium.com/p/f34ccd25d71d) |
 | Sat, 14 Feb 2026 10:24:45 GMT | I Found Real Credentials in Archived Data — And It Was on a Bug Bounty Program | nwhitedemon | [Read More](https://medium.com/p/9a718e8801f6) |
 | Sat, 14 Feb 2026 10:22:13 GMT | From 1.5 Years of Silence to €250: How I Learned to Fight for Bug Bounty Impact | savi0r | [Read More](https://medium.com/p/947b20f0898f) |
 | Sat, 14 Feb 2026 10:21:49 GMT | digital certificate search tools | loyalonlytoday | [Read More](https://medium.com/p/42da880ec61c) |
@@ -106,10 +115,3 @@ By Anil Tiwari | Dr. Anil Tiwari | [Read More](https://medium.com/p/ebdc615d34e7
 | Sat, 14 Feb 2026 04:22:27 GMT | I Am the Wave, the Current, and the Rage. | musingsfrommarc | [Read More](https://medium.com/p/5f23d1e7c4c2) |
 | Sat, 14 Feb 2026 04:20:09 GMT | From Theory to Practice: Solving SOC Logging Challenges with a Splunk Lab on GCP | Edson | [Read More](https://medium.com/p/7fed5f9e80a8) |
 | Sat, 14 Feb 2026 03:55:35 GMT | Entra Authentication Methods Migration 2026: Complete Enterprise Playbook (Legacy MFA/SSPR → Modern… | Jack Nelson | [Read More](https://medium.com/p/c12424ab218a) |
-| Sat, 14 Feb 2026 03:39:51 GMT | Born Secure: How We Built an Automated TLS/mTLS Certificate Issuance and Rotation System | Riaz A | [Read More](https://medium.com/p/790e79ad9c76) |
-| Sat, 14 Feb 2026 03:12:17 GMT | Why Is Gmail Letting Phishing Through in 2026? | Stefan Bargan | [Read More](https://medium.com/p/6ae8882450dd) |
-| Sat, 14 Feb 2026 02:53:15 GMT | How to Fix Kali Linux Disk Not Expounting/Increasing After Increasing VM Disk Size (VMware) | Sapienshack | [Read More](https://medium.com/p/9944b7ecda34) |
-| Sat, 14 Feb 2026 02:49:24 GMT | Hidden Deep Into my Heart TryHackMe | cat0x01 | [Read More](https://medium.com/p/2aadff522ce6) |
-| Sat, 14 Feb 2026 02:43:54 GMT | Invicti: The Enterprise Web Application Security Scanner for Accurate Vulnerability Detection | Dennis Duke | [Read More](https://medium.com/p/d0ea7a90b40d) |
-| Sat, 14 Feb 2026 02:08:42 GMT | My first OffSec Proving Grounds Lab: CyberSploit1 Walkthrough | LIKITH GAJULA | [Read More](https://medium.com/p/7b9f0d1a841c) |
-| Sat, 14 Feb 2026 02:02:56 GMT | Hardware Sovereignty | The Inference Report | [Read More](https://medium.com/p/3855975f3732) |
