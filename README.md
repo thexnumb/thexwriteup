@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Feb 2026 21:24:57 GMT | How to Run ComplianceAsCode Ansible Remediation on macOS Without OpenSCAP | Parag Poddar | [Read More](https://medium.com/p/5a6975155fc3) |
+| Sat, 14 Feb 2026 21:24:26 GMT | Data Representation · TryHackMe | RosanaFSS | [Read More](https://medium.com/p/d2f34f76cbc1) |
+| Sat, 14 Feb 2026 21:19:36 GMT | Breaking RSA with Small Keys: A Hands-On Cryptography Tutorial | Moez Ben-Azzouz | [Read More](https://medium.com/p/94ddc87b0b47) |
 | Sat, 14 Feb 2026 21:17:02 GMT | Veritabanları (Databases) | Songül Kızılay Özügürler | [Read More](https://medium.com/p/ac137974e2b0) |
 | Sat, 14 Feb 2026 21:05:50 GMT | GraphQL Directive Injection Attacks | Sujaykumar | [Read More](https://medium.com/p/94df6bb35f60) |
 | Sat, 14 Feb 2026 20:56:29 GMT | Documenting My Transition from Computer Science to Cybersecurity. | Favour Ugochi Ogbonnaya | [Read More](https://medium.com/p/22638b5ce7dc) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Feb 2026 14:24:25 GMT | HTTP Header Walkthrough | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/5be516b9a68a) |
 | Sat, 14 Feb 2026 14:23:23 GMT | What is post exploitation | Kevin Ronex | [Read More](https://medium.com/p/aa342c5db319) |
 | Sat, 14 Feb 2026 14:22:43 GMT | THE ALIAS 3526 PROTOCOL: | Fredrik Ansethmoen | [Read More](https://medium.com/p/8b04a9d6fdb9) |
-| Sat, 14 Feb 2026 14:16:21 GMT | Hidden in Plain Sight — picoCTF Write-up | szuryuu | [Read More](https://medium.com/p/df594cf8957a) |
-| Sat, 14 Feb 2026 14:14:10 GMT | ERP Selection in 2026: Why Last Week’s Security Meltdown Changes Everything | Andre Maurice Davis | [Read More](https://medium.com/p/d8bd0bf93be8) |
-| Sat, 14 Feb 2026 14:12:42 GMT | picoCTF Forensics— Hidden in Plainsight | 0w0 | [Read More](https://medium.com/p/1d6919654719) |
