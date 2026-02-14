@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Feb 2026 14:50:36 GMT | Building a Hands-On SIEM Lab Using Wazuh (Part 2: Implementing Active Response using Virus Total… | Michael Jan Tangalin | [Read More](https://medium.com/p/4ae3a4c66460) |
+| Sat, 14 Feb 2026 14:49:44 GMT | Linux PrivEsc Arena | SUSHANT TELRANDHE | [Read More](https://medium.com/p/c317d287c6f4) |
+| Sat, 14 Feb 2026 14:47:49 GMT | Cyber Security Feels Broken Because Our Users Are Overwhelmed | GDGC MET | [Read More](https://medium.com/p/00db9b31fbba) |
+| Sat, 14 Feb 2026 14:39:12 GMT | Static Blacklists Are Failing — An AI-Driven Framework for Real-Time Malicious IP Detection | Abdullah Al Siam | [Read More](https://medium.com/p/58e07d7dffb1) |
+| Sat, 14 Feb 2026 14:32:41 GMT | Product Security Manifesto | Rodrigo Sozza | [Read More](https://medium.com/p/44b95dcaee33) |
 | Sat, 14 Feb 2026 14:28:03 GMT | What Are Attack Vectors? Types Every Cybersecurity Beginner Should Know | Jenish Maharjan | [Read More](https://medium.com/p/f8963d5dfcfc) |
 | Sat, 14 Feb 2026 14:24:25 GMT | HTTP Header Walkthrough | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/5be516b9a68a) |
 | Sat, 14 Feb 2026 14:23:23 GMT | What is post exploitation | Kevin Ronex | [Read More](https://medium.com/p/aa342c5db319) |
@@ -109,8 +114,3 @@ Cyber Security… | Ankit rai | [Read More](https://medium.com/p/e0b4f317e43a) |
 | Sat, 14 Feb 2026 08:19:03 GMT | A Practical Editor-Integrated Workflow for Auditing Large Solana Rust Codebases with Generative AI | kawasak102 | [Read More](https://medium.com/p/46b477a7b922) |
 | Sat, 14 Feb 2026 07:56:02 GMT | PicoCTF - Ph4nt0m 1ntrud3r | Cococrans27 | [Read More](https://medium.com/p/2e4ff1bfa6d1) |
 | Sat, 14 Feb 2026 07:51:15 GMT | Is CTEM a framework or a solution? (AI + Cybersecurity) | Rajat Dangi ️ | [Read More](https://medium.com/p/cf1bdda4815d) |
-| Sat, 14 Feb 2026 07:36:47 GMT | AWhy Is Antivirus Software Still Essential in a Cloud-Driven World? | Siyanoav | [Read More](https://medium.com/p/389162fe632a) |
-| Sat, 14 Feb 2026 07:33:16 GMT | Privacy Hardening Toolkit 2025: 25 Practical Steps to Lock Down Your Digital Life | Very Lazy Tech | [Read More](https://medium.com/p/b91a7d1911ad) |
-| Sat, 14 Feb 2026 07:33:06 GMT | Common Misconceptions About Penetration Testing | Cynox Security LLP. | [Read More](https://medium.com/p/93ab4fc9e0ae) |
-| Sat, 14 Feb 2026 07:32:30 GMT | Membedah Serangan Cyber Lumma Stealer : FAKE CAPTCHA | Muhamad Fikri Firmansyah | [Read More](https://medium.com/p/73ea69a52225) |
-| Sat, 14 Feb 2026 07:32:28 GMT | Beyond Vulnerabilities: Understanding the Signals of a Well-Designed System | balik | [Read More](https://medium.com/p/54639540946e) |
