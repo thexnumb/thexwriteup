@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Feb 2026 22:03:31 GMT | 6 Hours, 6 Real-world Critical Bugs: A Case Study in Efficient Bug Hunting | 0xZyo | [Read More](https://medium.com/p/a88c2002abbb) |
+| Sat, 14 Feb 2026 21:53:55 GMT | Offsec “InfosecPrep” CTF writeup | sabR | [Read More](https://medium.com/p/537e97b26127) |
 | Sat, 14 Feb 2026 21:24:57 GMT | How to Run ComplianceAsCode Ansible Remediation on macOS Without OpenSCAP | Parag Poddar | [Read More](https://medium.com/p/5a6975155fc3) |
 | Sat, 14 Feb 2026 21:24:26 GMT | Data Representation · TryHackMe | RosanaFSS | [Read More](https://medium.com/p/d2f34f76cbc1) |
 | Sat, 14 Feb 2026 21:19:36 GMT | Breaking RSA with Small Keys: A Hands-On Cryptography Tutorial | Moez Ben-Azzouz | [Read More](https://medium.com/p/94ddc87b0b47) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Feb 2026 14:32:41 GMT | Product Security Manifesto | Rodrigo Sozza | [Read More](https://medium.com/p/44b95dcaee33) |
 | Sat, 14 Feb 2026 14:28:03 GMT | What Are Attack Vectors? Types Every Cybersecurity Beginner Should Know | Jenish Maharjan | [Read More](https://medium.com/p/f8963d5dfcfc) |
 | Sat, 14 Feb 2026 14:24:25 GMT | HTTP Header Walkthrough | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/5be516b9a68a) |
-| Sat, 14 Feb 2026 14:23:23 GMT | What is post exploitation | Kevin Ronex | [Read More](https://medium.com/p/aa342c5db319) |
-| Sat, 14 Feb 2026 14:22:43 GMT | THE ALIAS 3526 PROTOCOL: | Fredrik Ansethmoen | [Read More](https://medium.com/p/8b04a9d6fdb9) |
