@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Feb 2026 16:30:00 GMT | I’ve realized that when you change the words to make them lighter, you lose the gravity of the… | iknowhowtowrite | [Read More](https://medium.com/p/ceae6a93b44c) |
+| Sat, 14 Feb 2026 16:27:20 GMT | Brittle ZITADEL! Why Self Hosting Feels Brittle and What To Do Next | Niraj Kumar | [Read More](https://medium.com/p/70566cfc43a1) |
+| Sat, 14 Feb 2026 16:25:05 GMT | Why HTTPS Command Polling Often Evades AV/EDR | Derek Johnston | [Read More](https://medium.com/p/8a9041feb03f) |
+| Sat, 14 Feb 2026 16:23:08 GMT | AWS S3 Bucket Errors | Ninjeeter | [Read More](https://medium.com/p/dfeb79f5e580) |
+| Sat, 14 Feb 2026 16:23:01 GMT | Vulnerability scanning DVWA with metasploit | Mylescorey | [Read More](https://medium.com/p/ac500d975a07) |
+| Sat, 14 Feb 2026 16:19:13 GMT | Post-Quantum Security : Challenges, Impact, and the Future of Cryptography | Chehan Lasindu | [Read More](https://medium.com/p/fb55d81c9c7b) |
+| Sat, 14 Feb 2026 16:19:02 GMT | Linux Commands for Pentesters | Himanshu | [Read More](https://medium.com/p/3f69dd96f524) |
+| Sat, 14 Feb 2026 16:17:49 GMT | macOS Under Fire: Threat Actors Abuse Claude Artifacts and Google Ads to Deliver Malware | Chetan Seripally | [Read More](https://medium.com/p/f08ee8371576) |
+| Sat, 14 Feb 2026 16:16:54 GMT | How I Found a Reflected XSS in 5 Minutes by Hunting Smart, Not Hard | Birbhan Singh | [Read More](https://medium.com/p/27231b7cabd6) |
+| Sat, 14 Feb 2026 16:13:34 GMT | Understanding Inheritance in Solidity: Building Modular and Secure Smart Contracts | Akinkunmi Morakinyo | [Read More](https://medium.com/p/8d51b7c1e184) |
+| Sat, 14 Feb 2026 16:08:06 GMT | The Ultimate Hack: How God Bypassed the “Jeconiah Curse” Firewall | Nicholas Mullenski | [Read More](https://medium.com/p/0136ade4b1b7) |
+| Sat, 14 Feb 2026 16:07:27 GMT | Introduction to Digital Forensics - Lab-01 Digital Forensics | Masrul Hadi | [Read More](https://medium.com/p/9b331cd29394) |
+| Sat, 14 Feb 2026 16:03:52 GMT | Advancing Chat Security: Asymmetric Encryption for Scalable Web Applications | Tusharlaad | [Read More](https://medium.com/p/6faafd2c6bca) |
+| Sat, 14 Feb 2026 16:01:01 GMT | Know Thy Enemy: How Chain-of-Thought Fine-Tuning Defends LLMs Against Prompt Injection | Suchitra Malimbada | [Read More](https://medium.com/p/64d382b2c640) |
+| Sat, 14 Feb 2026 15:59:26 GMT | From Theory to Real Recon: How a CTF Lab Changed the Way I See Website Footprinting (eJPT Day 5) | getroot.dev | [Read More](https://medium.com/p/2b9b55041aa3) |
+| Sat, 14 Feb 2026 15:57:26 GMT | ANALYSIS OF A REAL-WORLD PHISHING EMAIL(THE URGENT INVOICE) | Onoja Agbo John | [Read More](https://medium.com/p/e861244d91e3) |
+| Sat, 14 Feb 2026 15:54:56 GMT | How Breached Credentials Revealed an API Nobody Knew Existed | Iski | [Read More](https://medium.com/p/c28890df4fe1) |
+| Sat, 14 Feb 2026 15:53:07 GMT | Manual SQL Injection to Admin Takeover - SQLite Exploitation, Hash Cracking & Cookie Manipulation | NullSecurityX | [Read More](https://medium.com/p/7ac0751db2ab) |
+| Sat, 14 Feb 2026 15:53:00 GMT | Building the Data Logistics Hub: The Strategy — 2026/02/14 — Part 2 | Martyn Jones | [Read More](https://medium.com/p/af90421fd43a) |
 | Sat, 14 Feb 2026 15:43:55 GMT | “ClickFix”: Saat CAPTCHA Menjadi Senjata Pemusnah Data (Bedah Lumma Stealer) | Dinandputra | [Read More](https://medium.com/p/81bf07736cb2) |
 | Sat, 14 Feb 2026 15:40:34 GMT | The WhatsApp security hole you don’t know you have | Christian Frank Johannsen | [Read More](https://medium.com/p/7e1ec29f2bba) |
 | Sat, 14 Feb 2026 15:39:54 GMT | High Performance is Not Pathology: A Rewrite About Armchair Psychiatry | Deanna Sianez | [Read More](https://medium.com/p/eb9fa7d00b9a) |
@@ -36,6 +55,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Feb 2026 14:06:59 GMT | 0APT RANSOMWARE: The Real FAKE! | Rakesh Krishnan | [Read More](https://medium.com/p/99c65f1d5124) |
 | Sat, 14 Feb 2026 14:06:03 GMT | How to Think Like a Penetration Tester: The Methodical Mindset Approach - TryHackMe Writeup | 0xAbhiSec | [Read More](https://medium.com/p/c458f9cad78e) |
 | Sat, 14 Feb 2026 14:04:30 GMT | When I Entered My Office on 02–02–2026 and Opened My Laptop: Everything Changed | Raajeev H Dave (AI Man) | [Read More](https://medium.com/p/0040e317f489) |
+| Sat, 14 Feb 2026 14:01:43 GMT | Ready to Build a Career in Cyber Security? | Molletibalu | [Read More](https://medium.com/p/58ada75bab40) |
 | Sat, 14 Feb 2026 13:53:21 GMT | TryHackMe Hidden Deep Into my Heart Walkthrough (Love at First Breach 2026) | Muhammad Ibrahim | [Read More](https://medium.com/p/6bf05a53ad6f) |
 | Sat, 14 Feb 2026 13:49:05 GMT | Kubernetes Requests vs Limits: The Ultimate 2026 Guide to Avoiding Common Pitfalls | Neel Shah | [Read More](https://medium.com/p/7aa2f042ac8e) |
 | Sat, 14 Feb 2026 13:31:08 GMT | CVE-2026–1731 - Exploit and Detection Overview | Omerhuyver | [Read More](https://medium.com/p/a91c28820a1c) |
@@ -94,23 +114,3 @@ Cyber Security… | Ankit rai | [Read More](https://medium.com/p/e0b4f317e43a) |
 | Sat, 14 Feb 2026 09:55:25 GMT | Undiscovered — TryHackMe CTF Walkthrough | Roshan Rajbanshi | [Read More](https://medium.com/p/dbff6b81b0e1) |
 | Sat, 14 Feb 2026 09:54:03 GMT | Your Content Is Being Stolen: The Rising Tide of Digital Theft and How to Protect Your Work in… | Uneff | [Read More](https://medium.com/p/265fd7a904a5) |
 | Sat, 14 Feb 2026 09:53:19 GMT | The Hidden Cost of Appearing Strong: Emotions We All Experience but Rarely Discuss | Ebru | [Read More](https://medium.com/p/b76ddfd60a43) |
-| Sat, 14 Feb 2026 09:48:11 GMT | Footprinting and Reconnaissance: The Ethical Hacker’s First Blueprint | Nida Arshad | [Read More](https://medium.com/p/cd7f6fe75552) |
-| Sat, 14 Feb 2026 09:44:20 GMT | Shodan: The Lens Through Which the Internet’s Hidden Architecture Comes Into View | Nida Arshad | [Read More](https://medium.com/p/0935ac159bbc) |
-| Sat, 14 Feb 2026 09:43:39 GMT | Best Way to Learn Ethical Hacking From Scratch for Students | cyber security Updates | [Read More](https://medium.com/p/169aa9ff568c) |
-| Sat, 14 Feb 2026 09:37:19 GMT | Valenfind Walkthrough (TryHackMe): Love at First Breach CTF | Muhammad Ibrahim | [Read More](https://medium.com/p/682e7959f31d) |
-| Sat, 14 Feb 2026 09:35:43 GMT | Web Requests Cheat Sheet | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/9a0a6b992962) |
-| Sat, 14 Feb 2026 09:29:00 GMT | MesaNet writeup (hard)(Bugforge) (SQLi) | 7s26Simon | [Read More](https://medium.com/p/b59bdb989213) |
-| Sat, 14 Feb 2026 09:22:14 GMT | [PicoCTF] warm-up — Forensic (Easy Level) | Shiro | [Read More](https://medium.com/p/7d27492c1540) |
-| Sat, 14 Feb 2026 09:20:46 GMT | The Amazing Zig, C and OpenSSL | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/3e75ab30963f) |
-| Sat, 14 Feb 2026 09:16:00 GMT | The First 3 Things Hackers Do With Freshly Leaked Credentials | Alexandre Vandamme | [Read More](https://medium.com/p/3f2e22937093) |
-| Sat, 14 Feb 2026 09:14:03 GMT | Smart Grid Technology | Atwine Benjamin | [Read More](https://medium.com/p/8380e25d04dd) |
-| Sat, 14 Feb 2026 09:07:36 GMT | How Reviews Influence Local SEO | Jellyfr | [Read More](https://medium.com/p/f080f9862a02) |
-| Sat, 14 Feb 2026 09:04:01 GMT | Web Security 101: Part 7 - Authentication: Sessions, JWTs | Nithishraina | [Read More](https://medium.com/p/7177fb5499b1) |
-| Sat, 14 Feb 2026 09:03:41 GMT | Cyber Threat Intelligence and Modern Defense Strategies | Kunal Arora | [Read More](https://medium.com/p/c7d0b7588210) |
-| Sat, 14 Feb 2026 08:51:04 GMT | How a Threat Actor Bypasses AV Defenses | 0rickyy. | [Read More](https://medium.com/p/db817f763379) |
-| Sat, 14 Feb 2026 08:48:33 GMT | Razzify Challenge Report — Spectral | Umang Mishra | [Read More](https://medium.com/p/d9b6aa8bcfec) |
-| Sat, 14 Feb 2026 08:39:59 GMT | Engineering Provable Agency: The H2E Framework as a Deterministic Sentinel | Frank Morales Aguilera | [Read More](https://medium.com/p/9224b50cbf4c) |
-| Sat, 14 Feb 2026 08:38:42 GMT | Part 4 — Find Dead Links in Your Notes with Python | ghostyjoe | [Read More](https://medium.com/p/e5f9a646f80e) |
-| Sat, 14 Feb 2026 08:37:17 GMT | The AI-Native Fullstack: Why Security Must Extend from Code to Autonomous Agents | Made Adi Widyananda | [Read More](https://medium.com/p/9f01d93d230a) |
-| Sat, 14 Feb 2026 08:34:14 GMT | NotebookLM: I Found Malware Hidden in a “Productivity” Plugin. Here’s How. | Mihailo Zoin | [Read More](https://medium.com/p/07fcbd6b8626) |
-| Sat, 14 Feb 2026 08:32:50 GMT | Passkeys vs Passwords: Why Apple Passkeys Are Replacing Traditional Logins in 2025 | Umer blogs | [Read More](https://medium.com/p/c99e32bb3947) |
