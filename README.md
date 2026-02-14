@@ -12,8 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Feb 2026 07:01:55 GMT | The Silent Data Leak: Why Your Employees’ “Helpful” AI Tools Are a Ticking Time Bomb | Djakson Cleber | [Read More](https://medium.com/p/f85d231936db) |
+| Sat, 14 Feb 2026 06:59:00 GMT | [Write-up] Lab 01: Introduction to Digital Forensics | 0xb4belgum | [Read More](https://medium.com/p/7f7176ad9d2b) |
+| Sat, 14 Feb 2026 06:58:48 GMT | The Myth of ‘Secure’ Wi-Fi | Rabail Zaheer | [Read More](https://medium.com/p/f9cbd30c3d20) |
+| Sat, 14 Feb 2026 06:58:48 GMT | Enterprise-Grade DDoS Protection: Why Modern Businesses Can’t Afford Downtime | DC9India | [Read More](https://medium.com/p/7376a28febd0) |
+| Sat, 14 Feb 2026 06:52:10 GMT | I Called Her a Bitch and Then I Cried | Natalie Clarke | [Read More](https://medium.com/p/4ef80e2bd16e) |
+| Sat, 14 Feb 2026 06:50:17 GMT | Integer Overflow in dr_flac (CVE-2025–14369) | maor caplan | [Read More](https://medium.com/p/2785de317496) |
+| Sat, 14 Feb 2026 06:47:34 GMT | When Prototypes Grow Up: Why Production AI & Cyber Systems Demand Enterprise Infrastructure | RafalW3bCraft | [Read More](https://medium.com/p/747b57e38f79) |
+| Sat, 14 Feb 2026 06:45:16 GMT | GRC Is the Real Control Plane of Modern Cybersecurity
+By Anil Tiwari | Dr. Anil Tiwari | [Read More](https://medium.com/p/ebdc615d34e7) |
+| Sat, 14 Feb 2026 06:36:20 GMT | How I Finally Understood the JavaScript Event Loop by Breaking a Production App | Michael Preston | [Read More](https://medium.com/p/b73dceac36ef) |
+| Sat, 14 Feb 2026 06:33:35 GMT | Layoffs in 2026: A Reset Moment for Talent Strategy | ThinkHumble | [Read More](https://medium.com/p/044aba93d667) |
+| Sat, 14 Feb 2026 06:32:17 GMT | The Cryptography Concept Journey — HSM (Hardware Security Module) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/dfa66c716285) |
+| Sat, 14 Feb 2026 06:31:01 GMT | Windows Event Logs | Ankita Sinha | [Read More](https://medium.com/p/609b2ec79a53) |
+| Sat, 14 Feb 2026 06:27:21 GMT | Power of Wasm Part 2: Building an Offline, Privacy-First PDF Editor & Scanner | Sanjeev Gulati | [Read More](https://medium.com/p/0a627c122996) |
+| Sat, 14 Feb 2026 06:20:48 GMT | Being the Strong One Gets Lonely. | Oladele Robiat | [Read More](https://medium.com/p/6874291589d9) |
+| Sat, 14 Feb 2026 06:17:35 GMT | Hashing From Scratch : The Invisible Fingerprint Behind Cybersecurity | Gajanan Tayde | [Read More](https://medium.com/p/7c867623f4a5) |
+| Sat, 14 Feb 2026 06:16:01 GMT | Google WebMCP Previews, Meta Adds Facial Rec to Glasses, and xAI’s Mass Exodus - The Daily Tech… | Souren Stepanyan | [Read More](https://medium.com/p/74724ba58605) |
 | Sat, 14 Feb 2026 06:01:25 GMT | SSHStalker Botnet Operation | Threatsys Technologies Pvt Ltd | [Read More](https://medium.com/p/ae1a19660813) |
 | Sat, 14 Feb 2026 06:01:03 GMT | Part 3: Building Your Personal Post Mortem Playbook | Abraham | [Read More](https://medium.com/p/0eed0b9ba614) |
+| Sat, 14 Feb 2026 05:59:55 GMT | Web Uygulamalarında Input Validasyon Zafiyetleri: Görmezden Gelinen Tehlike | Ahmet Sadık Şahiner | [Read More](https://medium.com/p/5bf73411e855) |
 | Sat, 14 Feb 2026 05:59:43 GMT | Why TCP/IP Runs the Internet While OSI Lives in Textbooks | Gajanan Tayde | [Read More](https://medium.com/p/7963c4603751) |
 | Sat, 14 Feb 2026 05:57:43 GMT | From Summarize Button to Full AI Jailbreak | Ali Mojaver | [Read More](https://medium.com/p/0bd51f7995d1) |
 | Sat, 14 Feb 2026 05:51:00 GMT | Intercepting Mobile Apps Traffic Using Burp and Ngrok | Harshad Shah | [Read More](https://medium.com/p/17e31f674721) |
@@ -95,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Feb 2026 19:12:48 GMT | Supply Chain: Attackers Exploit Weaker Vendors to Compromise Stronger Hospitals | Travis Ray Caverhill | [Read More](https://medium.com/p/2beb310c9019) |
 | Fri, 13 Feb 2026 19:12:12 GMT | From Network Fix to Platform Capability: How I Embedded Hybrid VPN Transit into Our Infrastructure… | Salwan Mohamed | [Read More](https://medium.com/p/691e0c5bc773) |
 | Fri, 13 Feb 2026 19:10:45 GMT | PacketDetective Lab — CyberDefender Challenge | Moinuddin Ahmed | [Read More](https://medium.com/p/acb0411ffce1) |
-| Fri, 13 Feb 2026 19:05:20 GMT | TCM Security’s PMAT Challenge: SikoMode | Sagar Joshi | [Read More](https://medium.com/p/4d1e6c2d08c9) |
-| Fri, 13 Feb 2026 19:03:51 GMT | SQL Injection Explained from Scratch (Beginner to Advanced) | Anshkamra | [Read More](https://medium.com/p/22a3911de1b7) |
-| Fri, 13 Feb 2026 19:01:00 GMT | “Subordinated Inclusion”: Population Sorting Technologies as Digital Confinement in the United… | Julie Terebkov | [Read More](https://medium.com/p/7d7ce1312f03) |
-| Fri, 13 Feb 2026 18:55:45 GMT | Backup & Restore Mastery: Avoiding Disasters Before They Happen. | Yomi Folowosele | [Read More](https://medium.com/p/15833ca79f2a) |
-| Fri, 13 Feb 2026 18:54:12 GMT | SNAP. | Vanessa Henize | [Read More](https://medium.com/p/5261ee79a203) |
-| Fri, 13 Feb 2026 18:53:26 GMT | Cybersecurity Isn’t About Hackers — It’s About Human Behavior | R. T. Ober | [Read More](https://medium.com/p/1ed40db7a57a) |
-| Fri, 13 Feb 2026 18:51:02 GMT | Web Application Layout | Songül Kızılay Özügürler | [Read More](https://medium.com/p/fd58fee421e2) |
-| Fri, 13 Feb 2026 18:49:23 GMT | WebStrike Lab — Network Forensics | Tiziano Mass | [Read More](https://medium.com/p/c46681bfdfa1) |
-| Fri, 13 Feb 2026 18:49:04 GMT | I’m Moving My Writing to Something Bigger | Bashaferoz | [Read More](https://medium.com/p/058d818c75e5) |
-| Fri, 13 Feb 2026 18:41:02 GMT | Penetration Testing on WPA2 with Aircrack-ng Suite: Auditing Wireless Security | Shraiyash Pandey | [Read More](https://medium.com/p/ea6729a85171) |
-| Fri, 13 Feb 2026 18:34:17 GMT | What Are the Epstein Files? A Clear Explanation (2026 Update) | Teach us | [Read More](https://medium.com/p/e45a2fc4d091) |
-| Fri, 13 Feb 2026 18:31:45 GMT | The Night I Found the Hidden Room | SubhechhaGautam | [Read More](https://medium.com/p/298573698d0a) |
-| Fri, 13 Feb 2026 18:19:36 GMT | Crypto Wallet Security: How To Protect User Funds From Hacks? | Lyra Bennett | [Read More](https://medium.com/p/7a02f88fb884) |
-| Fri, 13 Feb 2026 18:09:26 GMT | Locked Out Locksmith: Fast and Reliable Emergency Access | The Lock Specialist Ltd | [Read More](https://medium.com/p/4072d94e257d) |
-| Fri, 13 Feb 2026 18:02:24 GMT | Understanding SSO and SAML in knowledge base systems | KnowledgeOwl | [Read More](https://medium.com/p/73b12290e12d) |
-| Fri, 13 Feb 2026 18:01:02 GMT | Treats, Vulnerabilities, and mitigations | Binesh gurung | [Read More](https://medium.com/p/90b091e4109d) |
-| Fri, 13 Feb 2026 17:56:35 GMT | The Cybersecurity Technical Project Manager: Where Security, Strategy, and Delivery Collide | David ONeal | [Read More](https://medium.com/p/c617e24d1b9f) |
