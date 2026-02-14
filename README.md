@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Feb 2026 18:28:24 GMT | Breaking Into the Corporate Guest Network: Phase 2: A Real-World ATS WiFi Security Assessment | Tanmay Bhattacharjee | [Read More](https://medium.com/p/e414792a5160) |
+| Sat, 14 Feb 2026 18:19:45 GMT | When SameSite=Strict Fails: A Real CSRF Bypass Using Redirects | Istiyak | [Read More](https://medium.com/p/43dafcecddaa) |
+| Sat, 14 Feb 2026 18:17:37 GMT | Security Budgeting for Lean Web3 Teams: What to Buy, What to Build | Exploitless | [Read More](https://medium.com/p/bf3cd66b40e7) |
+| Sat, 14 Feb 2026 18:17:29 GMT | The Router: Your Network’s Brain or Its Biggest Blind Spot? | k3rnelpan1c | [Read More](https://medium.com/p/ca994f593880) |
+| Sat, 14 Feb 2026 18:12:52 GMT | Week 1: Security Threat Identification | Fuzail Mansuri | [Read More](https://medium.com/p/e66c2720c03d) |
+| Sat, 14 Feb 2026 18:06:33 GMT | Designing and Building My Homelab: A Self-Reflection on Curiosity, Control, and Craft | Danny Vargas - CyberSecurity Focus | [Read More](https://medium.com/p/88e2e77028e4) |
+| Sat, 14 Feb 2026 18:04:32 GMT | Analisis Kampanye Penyebaran Lumma Stealer melalui Fake CAPTCHA Berdasarkan Cyber Kill Chain | Aiko Devy Ratnasari | [Read More](https://medium.com/p/97bc6316a600) |
+| Sat, 14 Feb 2026 18:00:40 GMT | First Earning App | Chauhangsuban | [Read More](https://medium.com/p/417b9ac44d16) |
+| Sat, 14 Feb 2026 17:58:53 GMT | Hidden Deep Into my Heart — Love at First Breach 2026 Writeup | Raja Shiva Ram | [Read More](https://medium.com/p/084797c8f3f5) |
+| Sat, 14 Feb 2026 17:52:22 GMT | 50 Days of Cybersecurity Journey with H4ckerTreats as an Intern | Atinuke Awobore | [Read More](https://medium.com/p/937e034eb6e7) |
+| Sat, 14 Feb 2026 17:47:56 GMT | The Procurement of New Social Dynamics….. | Lakishaprince | [Read More](https://medium.com/p/7f7cdfb93bb2) |
+| Sat, 14 Feb 2026 17:42:12 GMT | Cybersecurity Meets DPDP: What Business needs to know in 2026 | Lumiversesolution | [Read More](https://medium.com/p/4f6c67690b59) |
 | Sat, 14 Feb 2026 17:32:45 GMT | HTTP vs HTTPS: What’s the Difference? And Where Do SSL and TLS Fit? | Manikanta majeti | [Read More](https://medium.com/p/1be133228886) |
 | Sat, 14 Feb 2026 17:23:48 GMT | Modern Bank Fraud: The New Threats You Need to Know in 2025 | Juan Moisés de la Serna | [Read More](https://medium.com/p/00c9123513a3) |
 | Sat, 14 Feb 2026 17:21:44 GMT | The Workflow Sprawl Trap: Why Small IT Teams Build Fragile Automation | Oscar Antonangelo | [Read More](https://medium.com/p/b789df9006b1) |
@@ -100,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Feb 2026 11:22:04 GMT | Online Dating Safety in 2026: How AI Scammers Are Tricking Singles — and How to Outsmart Them | Ehirim henry | [Read More](https://medium.com/p/10d4f2703b9b) |
 | Sat, 14 Feb 2026 11:21:26 GMT | Top Reasons to Hire Professional Regular Cleaning Services in Pickering | Cleaning 4Canada | [Read More](https://medium.com/p/69505fa6e5ce) |
 | Sat, 14 Feb 2026 11:18:19 GMT | [Part-II] How I Built an Automated Leak Monitoring Pipeline with n8n, APIs, & Gmail Alerts | 5hr33.j11 | [Read More](https://medium.com/p/6c0098859652) |
-| Sat, 14 Feb 2026 11:17:17 GMT | Аналіз виступу Марко Рубіо на Мюнхенській безпековій конференції | Maksym Kopystko | [Read More](https://medium.com/p/c82b48b820dc) |
-| Sat, 14 Feb 2026 11:06:55 GMT | Phishing — Merry Clickmas - Tryhackme - Day-2 | M o $ t a | [Read More](https://medium.com/p/7938ccab3b31) |
-| Sat, 14 Feb 2026 11:05:44 GMT | The Data & AI Sovereignty Risk: Why Public AI is a Professional Liability | Skeptical AI | [Read More](https://medium.com/p/549ff86b681b) |
-| Sat, 14 Feb 2026 11:00:46 GMT | Tugas Bootcamp minggu 1 | Jamalut | [Read More](https://medium.com/p/84b31e2234b6) |
-| Sat, 14 Feb 2026 11:00:30 GMT | Cybersecurity Best Practices for Startups | joe lotus | [Read More](https://medium.com/p/13225dd7e678) |
-| Sat, 14 Feb 2026 11:00:29 GMT | Empat Belas Februari | Si Kocak_Sahabat Pena | [Read More](https://medium.com/p/0cfaed50280b) |
-| Sat, 14 Feb 2026 10:58:47 GMT | Writeup Digital Forensics Lab 01 — Introduction to Digital Forensics | Arfan (p4n) | [Read More](https://medium.com/p/6d2dc59e0386) |
-| Sat, 14 Feb 2026 10:48:17 GMT | Telegram Scams and Student Greed: Why Awareness Is Still Not Enough
-By Ankit Rai
-Cyber Security… | Ankit rai | [Read More](https://medium.com/p/e0b4f317e43a) |
-| Sat, 14 Feb 2026 10:46:39 GMT | Hidden Deep Into My Heart — LAFB CTF by TryHackMe | Jatin Gahlot | [Read More](https://medium.com/p/48a75a3fab62) |
-| Sat, 14 Feb 2026 10:46:00 GMT | RHEL 9.7 vs. RHEL 10.1: Which One Should You Choose? | Emilyharbord | [Read More](https://medium.com/p/c1c37ce2617c) |
-| Sat, 14 Feb 2026 10:37:06 GMT | Apache HTTP Server 2.4.49/2.4.50 Remote Code Execution (CVE-2021–42013) | 0x3rr0rhunt3r | [Read More](https://medium.com/p/1b03e3dc49b0) |
-| Sat, 14 Feb 2026 10:29:00 GMT | Why Installing an Intermediate Certificate Is Essential for Your Website Security | Shriji Solutions | [Read More](https://medium.com/p/33bc6014aeda) |
