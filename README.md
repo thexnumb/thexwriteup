@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Feb 2026 20:17:00 GMT | Ruang Tamu Saja | Kesuraman Natur | [Read More](https://medium.com/p/ce23b40b7bc0) |
+| Sat, 14 Feb 2026 20:07:08 GMT | The Case for the Adversarial Architect | Joshua Goossen | [Read More](https://medium.com/p/f4da3be3e903) |
+| Sat, 14 Feb 2026 20:04:00 GMT | Understanding Responsibility, Control and Trust in Cloud Architectures: IaaS, PaaS, SaaS and the… | Kamiweb Project | [Read More](https://medium.com/p/42d7f9ac73f1) |
+| Sat, 14 Feb 2026 19:50:41 GMT | Cybersecurity Isn’t About Hackers — It’s About Boring Basics Nobody Does | Akshay kerkar | [Read More](https://medium.com/p/66f2e737b2e7) |
+| Sat, 14 Feb 2026 19:47:58 GMT | Pentest+ in 90 Days or Less (Hopefully) | cyber_0xGambit | [Read More](https://medium.com/p/489682ad1ad1) |
+| Sat, 14 Feb 2026 19:46:19 GMT | Familiar Pain | musingsfrommarc | [Read More](https://medium.com/p/fd7b05f2e86f) |
+| Sat, 14 Feb 2026 19:43:45 GMT | CSRF in GraphQL: How a “Fixed” Vulnerability Still Allowed a Bypass | Jitendra chandel | [Read More](https://medium.com/p/df1d314b6776) |
 | Sat, 14 Feb 2026 19:40:07 GMT | Ironclad: How to Protect Yourself Before Getting Hacked | Bishr Tabbaa | [Read More](https://medium.com/p/ce3900a64177) |
 | Sat, 14 Feb 2026 19:37:33 GMT | If You Get This Amazon Product Recall Message, It’s An Attack | Moni | [Read More](https://medium.com/p/20fd0c48a327) |
 | Sat, 14 Feb 2026 19:35:23 GMT | The Ghost in the Sidebar: How a Dead Side Project Became Outlook’s Most Dangerous Trojan | SOCFortress | [Read More](https://medium.com/p/36f4da1a3767) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Feb 2026 13:49:05 GMT | Kubernetes Requests vs Limits: The Ultimate 2026 Guide to Avoiding Common Pitfalls | Neel Shah | [Read More](https://medium.com/p/7aa2f042ac8e) |
 | Sat, 14 Feb 2026 13:31:08 GMT | CVE-2026–1731 - Exploit and Detection Overview | Omerhuyver | [Read More](https://medium.com/p/a91c28820a1c) |
 | Sat, 14 Feb 2026 13:29:49 GMT | Web Server Administration: Guide to Managing, Securing, and Optimizing Web Servers | Dennis Duke | [Read More](https://medium.com/p/6e4c56f0d845) |
-| Sat, 14 Feb 2026 13:26:00 GMT | Introduction to Digital Forensics — Lab 01 Write-Up | Toikzaki | [Read More](https://medium.com/p/76717dbba307) |
-| Sat, 14 Feb 2026 13:21:12 GMT | Fake captcha | DIKAFPS | [Read More](https://medium.com/p/40a6a08f48c9) |
-| Sat, 14 Feb 2026 13:21:00 GMT | Active Directory Basics: Cybersecurity 101 Pathway — TryHackMe | Farhad Anwari | [Read More](https://medium.com/p/cd707b8b27e0) |
-| Sat, 14 Feb 2026 13:14:11 GMT | Generative AI in Cybersecurity: The Double-Edged Sword | Vismay Patil | [Read More](https://medium.com/p/8f95532584c7) |
-| Sat, 14 Feb 2026 13:05:45 GMT | Is Bitcoin Doomed? Quantum Computers Are Coming | Lyron Foster | [Read More](https://medium.com/p/b36122d57bd8) |
-| Sat, 14 Feb 2026 13:04:15 GMT | Axtarış Sistemləri Vasitəsilə Rəqəmsal İzin Xəritələnməsi: OSINT Alətlərinin Analizi | Behbud Behbudov | [Read More](https://medium.com/p/dc25a30d1be5) |
-| Sat, 14 Feb 2026 13:02:41 GMT | Ethical Hacking Course in 2026: Why CEH Certification Is Worth It | Ryan Brooks | [Read More](https://medium.com/p/dc26590c5439) |
