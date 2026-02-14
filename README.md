@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Feb 2026 17:23:48 GMT | Modern Bank Fraud: The New Threats You Need to Know in 2025 | Juan Moisés de la Serna | [Read More](https://medium.com/p/00c9123513a3) |
+| Sat, 14 Feb 2026 17:21:44 GMT | The Workflow Sprawl Trap: Why Small IT Teams Build Fragile Automation | Oscar Antonangelo | [Read More](https://medium.com/p/b789df9006b1) |
+| Sat, 14 Feb 2026 17:21:14 GMT | DTO vs Entity in Spring Boot: Why You Should Never Expose Your Entities | Hüsna POYRAZ | [Read More](https://medium.com/p/18abf407dc1c) |
+| Sat, 14 Feb 2026 17:19:26 GMT | TryHackMe Love Letter Locker Walkthrough | Ramiz | [Read More](https://medium.com/p/86d6a57166e7) |
+| Sat, 14 Feb 2026 17:18:45 GMT | The Graphite Leak and the Myth of Digital Safety | Abdelakarim Benabdallah | [Read More](https://medium.com/p/95de17573084) |
+| Sat, 14 Feb 2026 17:17:51 GMT | While They’re Still Prompting, We’re Engineering Reality: The Dawn of Collapse-Aware AI | M.R | [Read More](https://medium.com/p/d273a7cc81b9) |
+| Sat, 14 Feb 2026 17:16:58 GMT | AI Entrapment: When Your Paid AI Locks You Out for RISKY chat, the Conversation IT Created | Berend Watchus | [Read More](https://medium.com/p/578e8289e60a) |
+| Sat, 14 Feb 2026 17:13:03 GMT | Day 2 : The Rabbit Hole | Armaan Nain | [Read More](https://medium.com/p/ea1576211150) |
+| Sat, 14 Feb 2026 17:08:33 GMT | Building a Thriving IT Export Economy: Aspirations from a Small-Business Founder | syedfromsylhet | [Read More](https://medium.com/p/5886e0d50533) |
+| Sat, 14 Feb 2026 17:07:20 GMT | Hunting WordPress Vulnerabilities — A Bug Bounty | Z3DX | [Read More](https://medium.com/p/4324c6782f1f) |
+| Sat, 14 Feb 2026 17:04:59 GMT | How to Remove Keyloggers & Spyware Safely (Without Losing Your Data) | Nazrul Islam Rana | [Read More](https://medium.com/p/8eb069618b95) |
+| Sat, 14 Feb 2026 17:01:00 GMT | Crypto Launchpad Development Under Load: What Breaks First (and What Holds) | ChainGPT | [Read More](https://medium.com/p/80d1371a414e) |
+| Sat, 14 Feb 2026 16:56:01 GMT | Ransomware Meets AI: The New Breeds of Attacks Targeting Diagnostic Devices | Michael Adedeji | [Read More](https://medium.com/p/ba71594ddd11) |
+| Sat, 14 Feb 2026 16:48:57 GMT | How Real Red Teams Chain Small Misconfigurations into Full Domain Compromise | Cynox Security LLP. | [Read More](https://medium.com/p/a0f02707555d) |
+| Sat, 14 Feb 2026 16:44:00 GMT | A Place to Hang My Hats | Jessica Gasbarro | [Read More](https://medium.com/p/99ee033ac428) |
 | Sat, 14 Feb 2026 16:30:00 GMT | I’ve realized that when you change the words to make them lighter, you lose the gravity of the… | iknowhowtowrite | [Read More](https://medium.com/p/ceae6a93b44c) |
 | Sat, 14 Feb 2026 16:27:20 GMT | Brittle ZITADEL! Why Self Hosting Feels Brittle and What To Do Next | Niraj Kumar | [Read More](https://medium.com/p/70566cfc43a1) |
 | Sat, 14 Feb 2026 16:25:05 GMT | Why HTTPS Command Polling Often Evades AV/EDR | Derek Johnston | [Read More](https://medium.com/p/8a9041feb03f) |
@@ -99,18 +114,3 @@ Cyber Security… | Ankit rai | [Read More](https://medium.com/p/e0b4f317e43a) |
 | Sat, 14 Feb 2026 10:37:06 GMT | Apache HTTP Server 2.4.49/2.4.50 Remote Code Execution (CVE-2021–42013) | 0x3rr0rhunt3r | [Read More](https://medium.com/p/1b03e3dc49b0) |
 | Sat, 14 Feb 2026 10:29:00 GMT | Why Installing an Intermediate Certificate Is Essential for Your Website Security | Shriji Solutions | [Read More](https://medium.com/p/33bc6014aeda) |
 | Sat, 14 Feb 2026 10:27:15 GMT | Elite Tactical Guards: Strong Protection for High-Threat Environments | Grdsnscrt | [Read More](https://medium.com/p/b8615d0096fb) |
-| Sat, 14 Feb 2026 10:24:56 GMT | SOC Part 3 - How I Detected a Ransomware Execution Using Splunk (SOC Practical Guide) | Kodeesh | [Read More](https://medium.com/p/f34ccd25d71d) |
-| Sat, 14 Feb 2026 10:24:45 GMT | I Found Real Credentials in Archived Data — And It Was on a Bug Bounty Program | nwhitedemon | [Read More](https://medium.com/p/9a718e8801f6) |
-| Sat, 14 Feb 2026 10:22:13 GMT | From 1.5 Years of Silence to €250: How I Learned to Fight for Bug Bounty Impact | savi0r | [Read More](https://medium.com/p/947b20f0898f) |
-| Sat, 14 Feb 2026 10:21:49 GMT | digital certificate search tools | loyalonlytoday | [Read More](https://medium.com/p/42da880ec61c) |
-| Sat, 14 Feb 2026 10:20:23 GMT | Building a Professional Malware Analysis Lab: A Text-Based Guide to UTM, FLARE VM, and REMnux | Collins Ndeto Ndeti | [Read More](https://medium.com/p/e5b6c48ead5a) |
-| Sat, 14 Feb 2026 10:18:36 GMT | ‎What You Need to Do When Your Call is Intercepted Illegally. | Yusuf Solihu | [Read More](https://medium.com/p/0b2868b80a88) |
-| Sat, 14 Feb 2026 10:17:53 GMT | How I Detected a Brute-Force Attack Using Splunk (Step-by-Step SOC Guide) | Kodeesh | [Read More](https://medium.com/p/999992b19fb5) |
-| Sat, 14 Feb 2026 10:16:30 GMT | OpenClaw Has 160K Stars and a Security Nightmare. | Sattyam Jain | [Read More](https://medium.com/p/8683ae7e256e) |
-| Sat, 14 Feb 2026 10:05:59 GMT | AI Meets the Zodiac: Building Personalised Astrology Platforms for India’s Digital Audience | Vikash Digittrix | [Read More](https://medium.com/p/43ab07d3588e) |
-| Sat, 14 Feb 2026 10:02:29 GMT | Spring Security in Microservices — Beginner to Enterprise | Pankaj P | [Read More](https://medium.com/p/00921cf9b3f3) |
-| Sat, 14 Feb 2026 10:01:01 GMT | Security by Design for Medical AI: Cybersecurity via DevSecOps, Threat Modeling, and PHI-Safe Audit… | Transvolve Consultancy Limited (Dr Mehul Pancholi) | [Read More](https://medium.com/p/b8b357ea02c6) |
-| Sat, 14 Feb 2026 09:57:19 GMT | Breaking CupidBot — A Prompt Injection CTF Write-Up | Kishor K. | [Read More](https://medium.com/p/54ce84cc87a3) |
-| Sat, 14 Feb 2026 09:55:25 GMT | Undiscovered — TryHackMe CTF Walkthrough | Roshan Rajbanshi | [Read More](https://medium.com/p/dbff6b81b0e1) |
-| Sat, 14 Feb 2026 09:54:03 GMT | Your Content Is Being Stolen: The Rising Tide of Digital Theft and How to Protect Your Work in… | Uneff | [Read More](https://medium.com/p/265fd7a904a5) |
-| Sat, 14 Feb 2026 09:53:19 GMT | The Hidden Cost of Appearing Strong: Emotions We All Experience but Rarely Discuss | Ebru | [Read More](https://medium.com/p/b76ddfd60a43) |
