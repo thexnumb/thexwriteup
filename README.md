@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Feb 2026 22:38:08 GMT | T1584.004 Lab — CyberDefender Challenge | Moinuddin Ahmed | [Read More](https://medium.com/p/13e8c611fe2a) |
+| Sat, 14 Feb 2026 22:33:47 GMT | Quantum-Safe API Architecture Designing APIs Resistant to Quantum Computing Threats | Bervice | [Read More](https://medium.com/p/a8032d9e1f6c) |
+| Sat, 14 Feb 2026 22:31:06 GMT | Love at First Breach 2026 - TryHackMe - CupidBot - Walkthrough CTF | Frhn.Isml | [Read More](https://medium.com/p/861efd978629) |
+| Sat, 14 Feb 2026 22:19:20 GMT | Account Takeover via IDOR in Password Change Functionality | Abhishek Kumar | [Read More](https://medium.com/p/199d6edd648d) |
 | Sat, 14 Feb 2026 22:03:31 GMT | 6 Hours, 6 Real-world Critical Bugs: A Case Study in Efficient Bug Hunting | 0xZyo | [Read More](https://medium.com/p/a88c2002abbb) |
 | Sat, 14 Feb 2026 21:53:55 GMT | Offsec “InfosecPrep” CTF writeup | sabR | [Read More](https://medium.com/p/537e97b26127) |
 | Sat, 14 Feb 2026 21:24:57 GMT | How to Run ComplianceAsCode Ansible Remediation on macOS Without OpenSCAP | Parag Poddar | [Read More](https://medium.com/p/5a6975155fc3) |
@@ -46,6 +50,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Feb 2026 18:42:34 GMT | Zip files slipping under your nose! | Shivam Bathla | [Read More](https://medium.com/p/90cfbe3cdfe7) |
 | Sat, 14 Feb 2026 18:37:51 GMT | Why Japan’s Tech Culture Is Different — And Why That Matters | Shriya | [Read More](https://medium.com/p/7fa1b2d6cf41) |
 | Sat, 14 Feb 2026 18:37:08 GMT | CupidBot — Love at First Breach 2026 Writeup | Raja Shiva Ram | [Read More](https://medium.com/p/89278e5ff700) |
+| Sat, 14 Feb 2026 18:31:14 GMT | TryHackMe Writeup (Love at First Breach 2026): Corp Website | Sahand Babali | [Read More](https://medium.com/p/d2b37cb20052) |
 | Sat, 14 Feb 2026 18:28:24 GMT | Breaking Into the Corporate Guest Network: Phase 2: A Real-World ATS WiFi Security Assessment | Tanmay Bhattacharjee | [Read More](https://medium.com/p/e414792a5160) |
 | Sat, 14 Feb 2026 18:28:11 GMT | We Built a Real-Time Threat Detector for AI Agents | Stanley D. Chatman | [Read More](https://medium.com/p/db794b8f20b5) |
 | Sat, 14 Feb 2026 18:19:45 GMT | When SameSite=Strict Fails: A Real CSRF Bypass Using Redirects | Istiyak | [Read More](https://medium.com/p/43dafcecddaa) |
@@ -56,6 +61,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Feb 2026 18:04:32 GMT | Analisis Kampanye Penyebaran Lumma Stealer melalui Fake CAPTCHA Berdasarkan Cyber Kill Chain | Aiko Devy Ratnasari | [Read More](https://medium.com/p/97bc6316a600) |
 | Sat, 14 Feb 2026 18:00:40 GMT | First Earning App | Chauhangsuban | [Read More](https://medium.com/p/417b9ac44d16) |
 | Sat, 14 Feb 2026 17:58:53 GMT | Hidden Deep Into my Heart — Love at First Breach 2026 Writeup | Raja Shiva Ram | [Read More](https://medium.com/p/084797c8f3f5) |
+| Sat, 14 Feb 2026 17:57:35 GMT | Exploiting Local File Inclusion: A DefHawk CTF Writeup | Rajsegar Alagarathnam | [Read More](https://medium.com/p/a26d38ee8fd4) |
 | Sat, 14 Feb 2026 17:52:22 GMT | 50 Days of Cybersecurity Journey with H4ckerTreats as an Intern | Atinuke Awobore | [Read More](https://medium.com/p/937e034eb6e7) |
 | Sat, 14 Feb 2026 17:47:56 GMT | The Procurement of New Social Dynamics….. | Lakishaprince | [Read More](https://medium.com/p/7f7cdfb93bb2) |
 | Sat, 14 Feb 2026 17:42:12 GMT | Cybersecurity Meets DPDP: What Business needs to know in 2026 | Lumiversesolution | [Read More](https://medium.com/p/4f6c67690b59) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Feb 2026 14:59:50 GMT | Stored XSS via Vulnerable File Upload Functionality | Shaunak Natu | [Read More](https://medium.com/p/95b324f208ea) |
 | Sat, 14 Feb 2026 14:59:41 GMT | Membahas Infostealer LummaC2 | komo | [Read More](https://medium.com/p/60adeae3ea01) |
 | Sat, 14 Feb 2026 14:50:36 GMT | Building a Hands-On SIEM Lab Using Wazuh (Part 2: Implementing Active Response using Virus Total… | Michael Jan Tangalin | [Read More](https://medium.com/p/4ae3a4c66460) |
-| Sat, 14 Feb 2026 14:49:44 GMT | Linux PrivEsc Arena | SUSHANT TELRANDHE | [Read More](https://medium.com/p/c317d287c6f4) |
-| Sat, 14 Feb 2026 14:47:49 GMT | Cyber Security Feels Broken Because Our Users Are Overwhelmed | GDGC MET | [Read More](https://medium.com/p/00db9b31fbba) |
-| Sat, 14 Feb 2026 14:39:12 GMT | Static Blacklists Are Failing — An AI-Driven Framework for Real-Time Malicious IP Detection | Abdullah Al Siam | [Read More](https://medium.com/p/58e07d7dffb1) |
-| Sat, 14 Feb 2026 14:32:41 GMT | Product Security Manifesto | Rodrigo Sozza | [Read More](https://medium.com/p/44b95dcaee33) |
-| Sat, 14 Feb 2026 14:28:03 GMT | What Are Attack Vectors? Types Every Cybersecurity Beginner Should Know | Jenish Maharjan | [Read More](https://medium.com/p/f8963d5dfcfc) |
-| Sat, 14 Feb 2026 14:24:25 GMT | HTTP Header Walkthrough | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/5be516b9a68a) |
