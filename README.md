@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Feb 2026 13:31:08 GMT | CVE-2026–1731 - Exploit and Detection Overview | Omerhuyver | [Read More](https://medium.com/p/a91c28820a1c) |
+| Sat, 14 Feb 2026 13:29:49 GMT | Web Server Administration: Guide to Managing, Securing, and Optimizing Web Servers | Dennis Duke | [Read More](https://medium.com/p/6e4c56f0d845) |
+| Sat, 14 Feb 2026 13:26:00 GMT | Introduction to Digital Forensics — Lab 01 Write-Up | Toikzaki | [Read More](https://medium.com/p/76717dbba307) |
+| Sat, 14 Feb 2026 13:21:12 GMT | Fake captcha | DIKAFPS | [Read More](https://medium.com/p/40a6a08f48c9) |
+| Sat, 14 Feb 2026 13:21:00 GMT | Active Directory Basics: Cybersecurity 101 Pathway — TryHackMe | Farhad Anwari | [Read More](https://medium.com/p/cd707b8b27e0) |
+| Sat, 14 Feb 2026 13:14:11 GMT | Generative AI in Cybersecurity: The Double-Edged Sword | Vismay Patil | [Read More](https://medium.com/p/8f95532584c7) |
+| Sat, 14 Feb 2026 13:05:45 GMT | Is Bitcoin Doomed? Quantum Computers Are Coming | Lyron Foster | [Read More](https://medium.com/p/b36122d57bd8) |
+| Sat, 14 Feb 2026 13:04:15 GMT | Axtarış Sistemləri Vasitəsilə Rəqəmsal İzin Xəritələnməsi: OSINT Alətlərinin Analizi | Behbud Behbudov | [Read More](https://medium.com/p/dc25a30d1be5) |
+| Sat, 14 Feb 2026 13:02:41 GMT | Ethical Hacking Course in 2026: Why CEH Certification Is Worth It | Ryan Brooks | [Read More](https://medium.com/p/dc26590c5439) |
+| Sat, 14 Feb 2026 13:01:00 GMT | Springboard Cybersecurity & CompTIA Security+ Bootcamp Review | Rich Chen | [Read More](https://medium.com/p/3fbb50f0e950) |
+| Sat, 14 Feb 2026 12:46:37 GMT | Digital Forensics Lab 01: Bedah Dasar Linux Command Line & Mitigasi Malware Penyamaran | Muhammad Ketsar Ali Abi Wahid | [Read More](https://medium.com/p/5fa051598aba) |
 | Sat, 14 Feb 2026 12:42:25 GMT | CEH Certification Guide: The Smart Way to Learn Hacking Professionally | Ryan Brooks | [Read More](https://medium.com/p/e3e34cb4e0c5) |
 | Sat, 14 Feb 2026 12:38:27 GMT | Why Deloitte Uses Python and Where It Is Used | Mohit kumawat | [Read More](https://medium.com/p/03640e64482e) |
 | Sat, 14 Feb 2026 12:33:18 GMT | Brute force attack for software engineer | Abdelkader Ould hennia | [Read More](https://medium.com/p/09fba9514d69) |
@@ -104,14 +115,3 @@ Cyber Security… | Ankit rai | [Read More](https://medium.com/p/e0b4f317e43a) |
 | Sat, 14 Feb 2026 06:47:34 GMT | When Prototypes Grow Up: Why Production AI & Cyber Systems Demand Enterprise Infrastructure | RafalW3bCraft | [Read More](https://medium.com/p/747b57e38f79) |
 | Sat, 14 Feb 2026 06:45:16 GMT | GRC Is the Real Control Plane of Modern Cybersecurity
 By Anil Tiwari | Dr. Anil Tiwari | [Read More](https://medium.com/p/ebdc615d34e7) |
-| Sat, 14 Feb 2026 06:36:20 GMT | How I Finally Understood the JavaScript Event Loop by Breaking a Production App | Michael Preston | [Read More](https://medium.com/p/b73dceac36ef) |
-| Sat, 14 Feb 2026 06:33:35 GMT | Layoffs in 2026: A Reset Moment for Talent Strategy | ThinkHumble | [Read More](https://medium.com/p/044aba93d667) |
-| Sat, 14 Feb 2026 06:32:17 GMT | The Cryptography Concept Journey — HSM (Hardware Security Module) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/dfa66c716285) |
-| Sat, 14 Feb 2026 06:31:01 GMT | Windows Event Logs | Ankita Sinha | [Read More](https://medium.com/p/609b2ec79a53) |
-| Sat, 14 Feb 2026 06:27:21 GMT | Power of Wasm Part 2: Building an Offline, Privacy-First PDF Editor & Scanner | Sanjeev Gulati | [Read More](https://medium.com/p/0a627c122996) |
-| Sat, 14 Feb 2026 06:20:48 GMT | Being the Strong One Gets Lonely. | Oladele Robiat | [Read More](https://medium.com/p/6874291589d9) |
-| Sat, 14 Feb 2026 06:17:35 GMT | Hashing From Scratch : The Invisible Fingerprint Behind Cybersecurity | Gajanan Tayde | [Read More](https://medium.com/p/7c867623f4a5) |
-| Sat, 14 Feb 2026 06:16:01 GMT | Google WebMCP Previews, Meta Adds Facial Rec to Glasses, and xAI’s Mass Exodus - The Daily Tech… | Souren Stepanyan | [Read More](https://medium.com/p/74724ba58605) |
-| Sat, 14 Feb 2026 06:01:25 GMT | SSHStalker Botnet Operation | Threatsys Technologies Pvt Ltd | [Read More](https://medium.com/p/ae1a19660813) |
-| Sat, 14 Feb 2026 06:01:03 GMT | Part 3: Building Your Personal Post Mortem Playbook | Abraham | [Read More](https://medium.com/p/0eed0b9ba614) |
-| Sat, 14 Feb 2026 05:59:55 GMT | Web Uygulamalarında Input Validasyon Zafiyetleri: Görmezden Gelinen Tehlike | Ahmet Sadık Şahiner | [Read More](https://medium.com/p/5bf73411e855) |
