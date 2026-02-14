@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Feb 2026 07:51:15 GMT | Is CTEM a framework or a solution? (AI + Cybersecurity) | Rajat Dangi ️ | [Read More](https://medium.com/p/cf1bdda4815d) |
+| Sat, 14 Feb 2026 07:36:47 GMT | AWhy Is Antivirus Software Still Essential in a Cloud-Driven World? | Siyanoav | [Read More](https://medium.com/p/389162fe632a) |
+| Sat, 14 Feb 2026 07:33:16 GMT | Privacy Hardening Toolkit 2025: 25 Practical Steps to Lock Down Your Digital Life | Very Lazy Tech | [Read More](https://medium.com/p/b91a7d1911ad) |
+| Sat, 14 Feb 2026 07:33:06 GMT | Common Misconceptions About Penetration Testing | Cynox Security LLP. | [Read More](https://medium.com/p/93ab4fc9e0ae) |
+| Sat, 14 Feb 2026 07:32:30 GMT | Membedah Serangan Cyber Lumma Stealer : FAKE CAPTCHA | Muhamad Fikri Firmansyah | [Read More](https://medium.com/p/73ea69a52225) |
+| Sat, 14 Feb 2026 07:32:28 GMT | Beyond Vulnerabilities: Understanding the Signals of a Well-Designed System | balik | [Read More](https://medium.com/p/54639540946e) |
+| Sat, 14 Feb 2026 07:20:50 GMT | Part 3 — Auto-Clean Your Downloads Folder with Python | ghostyjoe | [Read More](https://medium.com/p/99aa9b7a590c) |
+| Sat, 14 Feb 2026 07:20:43 GMT | Access workstations from anywhere using Cloudflare browser-based RDP | saurav singh | [Read More](https://medium.com/p/f93af282581b) |
+| Sat, 14 Feb 2026 07:17:51 GMT | Fast Text, Slow Certainty | James Kuhman | [Read More](https://medium.com/p/3cfcdc7bc10d) |
+| Sat, 14 Feb 2026 07:13:45 GMT | When the Bot Bites Back: The First Case of AI Revenge in Open Source | Mehmet Özel | [Read More](https://medium.com/p/1586fc93ce87) |
+| Sat, 14 Feb 2026 07:11:23 GMT | My First Triaged Report Ever | Moataz | [Read More](https://medium.com/p/4b6cd8f9e654) |
 | Sat, 14 Feb 2026 07:01:55 GMT | The Silent Data Leak: Why Your Employees’ “Helpful” AI Tools Are a Ticking Time Bomb | Djakson Cleber | [Read More](https://medium.com/p/f85d231936db) |
 | Sat, 14 Feb 2026 06:59:00 GMT | [Write-up] Lab 01: Introduction to Digital Forensics | 0xb4belgum | [Read More](https://medium.com/p/7f7176ad9d2b) |
 | Sat, 14 Feb 2026 06:58:48 GMT | The Myth of ‘Secure’ Wi-Fi | Rabail Zaheer | [Read More](https://medium.com/p/f9cbd30c3d20) |
@@ -102,14 +113,3 @@ By Anil Tiwari | Dr. Anil Tiwari | [Read More](https://medium.com/p/ebdc615d34e7
 | Fri, 13 Feb 2026 20:17:54 GMT | Bekarlık Sultanlık: Pig Butchering | Serhan Eraslan | [Read More](https://medium.com/p/8e991e2be26a) |
 | Fri, 13 Feb 2026 20:13:22 GMT | The most important word you need to know about AI, traffic not visible in network logs, securing… | Teri Radichel | [Read More](https://medium.com/p/85aaf2166a1f) |
 | Fri, 13 Feb 2026 20:04:26 GMT | Exploring Automotive Security: Hidden Risks Every Driver Faces | Abhinav Pathak | [Read More](https://medium.com/p/5ea2a76e045b) |
-| Fri, 13 Feb 2026 20:01:11 GMT | Is Your NPP Illegal? 5 Phrases You Must Add by Feb 16 | IT_Engineer | [Read More](https://medium.com/p/4980a9bcb7b5) |
-| Fri, 13 Feb 2026 19:58:59 GMT | How I Built a Hidden Encrypted Vault with VeraCrypt | ZeakPeak | [Read More](https://medium.com/p/dda3fd4e30b2) |
-| Fri, 13 Feb 2026 19:56:32 GMT | How Python is Used by JPMorgan in Cybersecurity | Vinit kumar | [Read More](https://medium.com/p/2b67dd837a4b) |
-| Fri, 13 Feb 2026 19:45:02 GMT | HTML Injection | Songül Kızılay Özügürler | [Read More](https://medium.com/p/8ac0bc44aa32) |
-| Fri, 13 Feb 2026 19:40:54 GMT | Username Enumeration via Different Responses | Wael | [Read More](https://medium.com/p/d9d81ef7f85d) |
-| Fri, 13 Feb 2026 19:30:53 GMT | Day 9 of Learning AWS: Security Groups and Network ACLs | Muhammad Kashif | [Read More](https://medium.com/p/f1168c1f8172) |
-| Fri, 13 Feb 2026 19:18:05 GMT | This Is What Happens When You’ve Been Left Too Many Times | Melissa Mc | [Read More](https://medium.com/p/a3b100aa973a) |
-| Fri, 13 Feb 2026 19:17:43 GMT | “Hey, j’ai encore un clown qui upload des fichiers vérolés” | Telynor | [Read More](https://medium.com/p/61f5fdd80ece) |
-| Fri, 13 Feb 2026 19:12:48 GMT | Supply Chain: Attackers Exploit Weaker Vendors to Compromise Stronger Hospitals | Travis Ray Caverhill | [Read More](https://medium.com/p/2beb310c9019) |
-| Fri, 13 Feb 2026 19:12:12 GMT | From Network Fix to Platform Capability: How I Embedded Hybrid VPN Transit into Our Infrastructure… | Salwan Mohamed | [Read More](https://medium.com/p/691e0c5bc773) |
-| Fri, 13 Feb 2026 19:10:45 GMT | PacketDetective Lab — CyberDefender Challenge | Moinuddin Ahmed | [Read More](https://medium.com/p/acb0411ffce1) |
