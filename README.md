@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Feb 2026 10:24:45 GMT | I Found Real Credentials in Archived Data — And It Was on a Bug Bounty Program | nwhitedemon | [Read More](https://medium.com/p/9a718e8801f6) |
+| Sat, 14 Feb 2026 10:22:13 GMT | From 1.5 Years of Silence to €250: How I Learned to Fight for Bug Bounty Impact | savi0r | [Read More](https://medium.com/p/947b20f0898f) |
+| Sat, 14 Feb 2026 10:21:49 GMT | digital certificate search tools | loyalonlytoday | [Read More](https://medium.com/p/42da880ec61c) |
+| Sat, 14 Feb 2026 10:20:23 GMT | Building a Professional Malware Analysis Lab: A Text-Based Guide to UTM, FLARE VM, and REMnux | Collins Ndeto Ndeti | [Read More](https://medium.com/p/e5b6c48ead5a) |
+| Sat, 14 Feb 2026 10:18:36 GMT | ‎What You Need to Do When Your Call is Intercepted Illegally. | Yusuf Solihu | [Read More](https://medium.com/p/0b2868b80a88) |
+| Sat, 14 Feb 2026 10:17:53 GMT | How I Detected a Brute-Force Attack Using Splunk (Step-by-Step SOC Guide) | Kodeesh | [Read More](https://medium.com/p/999992b19fb5) |
+| Sat, 14 Feb 2026 10:16:30 GMT | OpenClaw Has 160K Stars and a Security Nightmare. | Sattyam Jain | [Read More](https://medium.com/p/8683ae7e256e) |
+| Sat, 14 Feb 2026 10:05:59 GMT | AI Meets the Zodiac: Building Personalised Astrology Platforms for India’s Digital Audience | Vikash Digittrix | [Read More](https://medium.com/p/43ab07d3588e) |
+| Sat, 14 Feb 2026 10:02:29 GMT | Spring Security in Microservices — Beginner to Enterprise | Pankaj P | [Read More](https://medium.com/p/00921cf9b3f3) |
+| Sat, 14 Feb 2026 10:01:01 GMT | Security by Design for Medical AI: Cybersecurity via DevSecOps, Threat Modeling, and PHI-Safe Audit… | Transvolve Consultancy Limited (Dr Mehul Pancholi) | [Read More](https://medium.com/p/b8b357ea02c6) |
+| Sat, 14 Feb 2026 09:57:19 GMT | Breaking CupidBot — A Prompt Injection CTF Write-Up | Kishor K. | [Read More](https://medium.com/p/54ce84cc87a3) |
+| Sat, 14 Feb 2026 09:55:25 GMT | Undiscovered — TryHackMe CTF Walkthrough | Roshan Rajbanshi | [Read More](https://medium.com/p/dbff6b81b0e1) |
+| Sat, 14 Feb 2026 09:54:03 GMT | Your Content Is Being Stolen: The Rising Tide of Digital Theft and How to Protect Your Work in… | Uneff | [Read More](https://medium.com/p/265fd7a904a5) |
+| Sat, 14 Feb 2026 09:53:19 GMT | The Hidden Cost of Appearing Strong: Emotions We All Experience but Rarely Discuss | Ebru | [Read More](https://medium.com/p/b76ddfd60a43) |
+| Sat, 14 Feb 2026 09:48:11 GMT | Footprinting and Reconnaissance: The Ethical Hacker’s First Blueprint | Nida Arshad | [Read More](https://medium.com/p/cd7f6fe75552) |
+| Sat, 14 Feb 2026 09:44:20 GMT | Shodan: The Lens Through Which the Internet’s Hidden Architecture Comes Into View | Nida Arshad | [Read More](https://medium.com/p/0935ac159bbc) |
+| Sat, 14 Feb 2026 09:43:39 GMT | Best Way to Learn Ethical Hacking From Scratch for Students | cyber security Updates | [Read More](https://medium.com/p/169aa9ff568c) |
+| Sat, 14 Feb 2026 09:37:19 GMT | Valenfind Walkthrough (TryHackMe): Love at First Breach CTF | Muhammad Ibrahim | [Read More](https://medium.com/p/682e7959f31d) |
+| Sat, 14 Feb 2026 09:35:43 GMT | Web Requests Cheat Sheet | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/9a0a6b992962) |
 | Sat, 14 Feb 2026 09:29:00 GMT | MesaNet writeup (hard)(Bugforge) (SQLi) | 7s26Simon | [Read More](https://medium.com/p/b59bdb989213) |
 | Sat, 14 Feb 2026 09:22:14 GMT | [PicoCTF] warm-up — Forensic (Easy Level) | Shiro | [Read More](https://medium.com/p/7d27492c1540) |
 | Sat, 14 Feb 2026 09:20:46 GMT | The Amazing Zig, C and OpenSSL | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/3e75ab30963f) |
@@ -94,22 +113,3 @@ By Anil Tiwari | Dr. Anil Tiwari | [Read More](https://medium.com/p/ebdc615d34e7
 | Sat, 14 Feb 2026 02:43:54 GMT | Invicti: The Enterprise Web Application Security Scanner for Accurate Vulnerability Detection | Dennis Duke | [Read More](https://medium.com/p/d0ea7a90b40d) |
 | Sat, 14 Feb 2026 02:08:42 GMT | My first OffSec Proving Grounds Lab: CyberSploit1 Walkthrough | LIKITH GAJULA | [Read More](https://medium.com/p/7b9f0d1a841c) |
 | Sat, 14 Feb 2026 02:02:56 GMT | Hardware Sovereignty | The Inference Report | [Read More](https://medium.com/p/3855975f3732) |
-| Sat, 14 Feb 2026 01:51:46 GMT | Live Capture: How I Detected a Recon Attack Before Exploitation | Azad Sleigher | [Read More](https://medium.com/p/9e8de32aa50a) |
-| Sat, 14 Feb 2026 01:43:21 GMT | Keeping Your Secrets in Sync: Environment Lifecycle Management That Actually Works | Johnny Santamaria | [Read More](https://medium.com/p/d00479a024b7) |
-| Sat, 14 Feb 2026 01:41:39 GMT | Love Letter Locker — TryHackMe CTF Walkthrough | Karim Hesham | [Read More](https://medium.com/p/54aa5f6fb74a) |
-| Sat, 14 Feb 2026 01:38:46 GMT | Valenfind Walkthrough (TryHackMe) — Love at First Breach | Bl1t2Stack0x01 | [Read More](https://medium.com/p/dbce00d13482) |
-| Sat, 14 Feb 2026 01:26:49 GMT | Privacy is usually the first casualty | Rashmi Mandayam | [Read More](https://medium.com/p/a25cfbc8e3e5) |
-| Sat, 14 Feb 2026 01:25:35 GMT | How to Manage a Healthcare Data Breach: 5 Steps to Keep Your Business Safe | Emory French | [Read More](https://medium.com/p/db27191f7bf5) |
-| Sat, 14 Feb 2026 01:16:00 GMT | Top 10 Most Secure Jobs in 2025: Complete Career Rankings | Pitters Lare | [Read More](https://medium.com/p/733fb5714cca) |
-| Sat, 14 Feb 2026 00:52:14 GMT | Elk integration with Pfsense. ELK agentless monitoring and usecases of elk. | Aadit Nair | [Read More](https://medium.com/p/f0ea4556975c) |
-| Sat, 14 Feb 2026 00:46:21 GMT | Fraud and Identity Risks in Telecommunications: Designing Machine Learning Systems for Threat… | Syed Shah Safi Ullah Alvi | [Read More](https://medium.com/p/6b97f8237756) |
-| Sat, 14 Feb 2026 00:43:40 GMT | Why Overwrite-Based Secure Wipe Cannot Be Trusted on SSDs (And Why Most Security Teams Still Get It… | Raj Kamal | [Read More](https://medium.com/p/eed36f645732) |
-| Sat, 14 Feb 2026 00:40:28 GMT | Data Vault Web Writeup-FETCH THE FLAG 2026 | Mohamed Said | [Read More](https://medium.com/p/8f720078bf5f) |
-| Sat, 14 Feb 2026 00:01:01 GMT | Arp-Scan for Pentesting: Network Scanning and Firewall Bypass | JPablo13 | [Read More](https://medium.com/p/7222f9e779f2) |
-| Fri, 13 Feb 2026 23:08:15 GMT | THE USE OF INFORMATION TECHNOLOGY(IT) IN SOLVING SDG-7: AFFORDABLE AND CLEAN ENERGY | Favour Mulungi | [Read More](https://medium.com/p/a62ea7ec0529) |
-| Fri, 13 Feb 2026 22:45:32 GMT | Nmap – A Beginner’s Practical Guide | Sahdhananjay | [Read More](https://medium.com/p/36c1acace357) |
-| Fri, 13 Feb 2026 22:44:43 GMT | Your Data Has Two Collectors: One Needs a Warrant, the Other Needs $160 | R. Eric Kiser | [Read More](https://medium.com/p/e71a3d5bd76e) |
-| Fri, 13 Feb 2026 22:21:56 GMT | I Almost Lost My Gmail Account to the Most Sophisticated Phishing Attack I’ve Ever Seen | Anshul Kumar | [Read More](https://medium.com/p/b6ee10f6bbbb) |
-| Fri, 13 Feb 2026 22:19:46 GMT | Day 12 — Windows Privilege Escalation THM | Cybersecurity with Jojo | [Read More](https://medium.com/p/5fa9b4e54f2c) |
-| Fri, 13 Feb 2026 22:14:09 GMT | Implementing Apple App Attest for iOS API Security — No More Static Secrets | Egzon Pllana | [Read More](https://medium.com/p/952014ed5058) |
-| Fri, 13 Feb 2026 22:11:00 GMT | Breaking the Box: bypassing Node.js Filesystem Permissions via Symlinks (CVE-2025–55130) | Krishna Kumar | [Read More](https://medium.com/p/0b9ad44920f9) |
