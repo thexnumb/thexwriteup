@@ -12,9 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Feb 2026 11:27:19 GMT | DNS History: Analysis of an IP | Damag3dRoot | [Read More](https://medium.com/p/ce0368a363eb) |
 | Sat, 14 Feb 2026 11:22:04 GMT | Online Dating Safety in 2026: How AI Scammers Are Tricking Singles — and How to Outsmart Them | Ehirim henry | [Read More](https://medium.com/p/10d4f2703b9b) |
 | Sat, 14 Feb 2026 11:21:26 GMT | Top Reasons to Hire Professional Regular Cleaning Services in Pickering | Cleaning 4Canada | [Read More](https://medium.com/p/69505fa6e5ce) |
 | Sat, 14 Feb 2026 11:18:19 GMT | [Part-II] How I Built an Automated Leak Monitoring Pipeline with n8n, APIs, & Gmail Alerts | 5hr33.j11 | [Read More](https://medium.com/p/6c0098859652) |
+| Sat, 14 Feb 2026 11:17:17 GMT | Аналіз виступу Марко Рубіо на Мюнхенській безпековій конференції | Maksym Kopystko | [Read More](https://medium.com/p/c82b48b820dc) |
 | Sat, 14 Feb 2026 11:06:55 GMT | Phishing — Merry Clickmas - Tryhackme - Day-2 | M o $ t a | [Read More](https://medium.com/p/7938ccab3b31) |
 | Sat, 14 Feb 2026 11:05:44 GMT | The Data & AI Sovereignty Risk: Why Public AI is a Professional Liability | Skeptical AI | [Read More](https://medium.com/p/549ff86b681b) |
 | Sat, 14 Feb 2026 11:00:46 GMT | Tugas Bootcamp minggu 1 | Jamalut | [Read More](https://medium.com/p/84b31e2234b6) |
@@ -113,5 +115,3 @@ By Anil Tiwari | Dr. Anil Tiwari | [Read More](https://medium.com/p/ebdc615d34e7
 | Sat, 14 Feb 2026 05:45:00 GMT | Breaking the Web (Part 10): Advanced Topics & Modern Attacks — Chaining Vulnerabilities in the Real… | Mohammed Fahad | [Read More](https://medium.com/p/892af39d9110) |
 | Sat, 14 Feb 2026 05:40:19 GMT | Memulai Perjalanan Digital Forensics: Write-up picoCTF Kategori Easy | M Abdul Hamid A | [Read More](https://medium.com/p/07f93c2dd34f) |
 | Sat, 14 Feb 2026 05:39:32 GMT | The GCC Under the Microscope… But Who is Watching? | Bader Alharbi | [Read More](https://medium.com/p/88cd4930fa2e) |
-| Sat, 14 Feb 2026 05:33:02 GMT | Offline vs Cloud: the Real Threat Model in Password Managers | Fabio Marano | [Read More](https://medium.com/p/5f292e96e04b) |
-| Sat, 14 Feb 2026 05:30:10 GMT | Two Truths Can Be True at the Same Time | Arindora | [Read More](https://medium.com/p/0b4f7d2c0732) |
