@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Feb 2026 05:20:19 GMT | Designing an Enterprise-Grade Hybrid DNS Architecture with Amazon Route 53 Resolver | Manish Sharma | [Read More](https://medium.com/p/885c84bc3ae2) |
+| Sat, 14 Feb 2026 05:05:38 GMT | Secure OAuth flow by fixing common vulnerabilities (Open redirect URIs, missing CSRF/state tokens… | Ankit | [Read More](https://medium.com/p/89027dc9ba33) |
+| Sat, 14 Feb 2026 04:42:35 GMT | Best Free Security Tools Everyone Use in 2026 | Hameedduke | [Read More](https://medium.com/p/b24ba2a5a157) |
+| Sat, 14 Feb 2026 04:41:47 GMT | The Hidden Security Architecture Behind Managed Kubernetes (EKS, AKS, GKE) | Dixit Rathi | [Read More](https://medium.com/p/2ed6b1f318fd) |
+| Sat, 14 Feb 2026 04:34:20 GMT | Reverse Engineering: The Silent Battlefield of Modern Software | Geeky Vartika | [Read More](https://medium.com/p/cd949a94e304) |
+| Sat, 14 Feb 2026 04:25:54 GMT | IDOR (Insecure Direct Object Reference) | ZahurD | [Read More](https://medium.com/p/5d4127ebe222) |
+| Sat, 14 Feb 2026 04:22:27 GMT | I Am the Wave, the Current, and the Rage. | musingsfrommarc | [Read More](https://medium.com/p/5f23d1e7c4c2) |
+| Sat, 14 Feb 2026 04:20:09 GMT | From Theory to Practice: Solving SOC Logging Challenges with a Splunk Lab on GCP | Edson | [Read More](https://medium.com/p/7fed5f9e80a8) |
 | Sat, 14 Feb 2026 03:55:35 GMT | Entra Authentication Methods Migration 2026: Complete Enterprise Playbook (Legacy MFA/SSPR → Modern… | Jack Nelson | [Read More](https://medium.com/p/c12424ab218a) |
 | Sat, 14 Feb 2026 03:39:51 GMT | Born Secure: How We Built an Automated TLS/mTLS Certificate Issuance and Rotation System | Riaz A | [Read More](https://medium.com/p/790e79ad9c76) |
 | Sat, 14 Feb 2026 03:12:17 GMT | Why Is Gmail Letting Phishing Through in 2026? | Stefan Bargan | [Read More](https://medium.com/p/6ae8882450dd) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Feb 2026 17:08:03 GMT | What Does the USCSI CCC™ Certification Program’s Curriculum Cover? | Anu Shreya | [Read More](https://medium.com/p/139443bd5f44) |
 | Fri, 13 Feb 2026 17:07:42 GMT | Web App Hacking Lab: Finding and Exploiting XSS (Step-by-Step Beginner Guide) | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/bf18c78a2b48) |
 | Fri, 13 Feb 2026 17:04:18 GMT | Hacker101 CTF — A little something to get you started | Cyber-Rat | [Read More](https://medium.com/p/6bc48906be02) |
-| Fri, 13 Feb 2026 17:03:54 GMT | What Does Love Want From Me? | Sheisoluwanifemi | [Read More](https://medium.com/p/ac4052bcab05) |
-| Fri, 13 Feb 2026 16:59:54 GMT | America’s NATO Deal Was Simple: You Don’t Rearm, We Run the Show. Now They Want Both. | Societive | [Read More](https://medium.com/p/d494166835ac) |
-| Fri, 13 Feb 2026 16:43:33 GMT | FIGHTING AFLATOXINS.how tech is saving lives | Fridah Nankwanga | [Read More](https://medium.com/p/0f13ebce4cd7) |
-| Fri, 13 Feb 2026 16:43:06 GMT | The Best DSPM Solutions for 2026 | Forcepoint | [Read More](https://medium.com/p/e6fd7022b2d2) |
-| Fri, 13 Feb 2026 16:41:51 GMT | When AI runs the Cyberattack: What Anthropic’s Report tells us about the Future of Security | Faisal Feroz | [Read More](https://medium.com/p/de3ecfaf08bb) |
-| Fri, 13 Feb 2026 16:39:14 GMT | STRIDE and TARA Methodologies | Maram Raboudi | [Read More](https://medium.com/p/769090aedadc) |
-| Fri, 13 Feb 2026 16:37:42 GMT | My First Week Learning Linux as an Ethical Hacker | Nishant kumar | [Read More](https://medium.com/p/1515fdbf4546) |
-| Fri, 13 Feb 2026 16:37:08 GMT | Pengantar Pemrograman Web Dan Flowchart | Zurichsabil | [Read More](https://medium.com/p/b9e636f45d25) |
