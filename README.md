@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Feb 2026 06:01:25 GMT | SSHStalker Botnet Operation | Threatsys Technologies Pvt Ltd | [Read More](https://medium.com/p/ae1a19660813) |
+| Sat, 14 Feb 2026 06:01:03 GMT | Part 3: Building Your Personal Post Mortem Playbook | Abraham | [Read More](https://medium.com/p/0eed0b9ba614) |
+| Sat, 14 Feb 2026 05:59:43 GMT | Why TCP/IP Runs the Internet While OSI Lives in Textbooks | Gajanan Tayde | [Read More](https://medium.com/p/7963c4603751) |
+| Sat, 14 Feb 2026 05:57:43 GMT | From Summarize Button to Full AI Jailbreak | Ali Mojaver | [Read More](https://medium.com/p/0bd51f7995d1) |
+| Sat, 14 Feb 2026 05:51:00 GMT | Intercepting Mobile Apps Traffic Using Burp and Ngrok | Harshad Shah | [Read More](https://medium.com/p/17e31f674721) |
+| Sat, 14 Feb 2026 05:50:55 GMT | OSINT in practice — course review. | Marcin Górski | [Read More](https://medium.com/p/e2114ad594c0) |
+| Sat, 14 Feb 2026 05:50:39 GMT | Prevent cross-site scripting (XSS) by validating/escaping user input in a React application | Ankit | [Read More](https://medium.com/p/90bc034f2c03) |
+| Sat, 14 Feb 2026 05:48:39 GMT | How to Protect Apps from Data Breaches and Hacking Attacks | Maxatlasofficial | [Read More](https://medium.com/p/40ff48eb21fb) |
+| Sat, 14 Feb 2026 05:46:19 GMT | CVE-2025–4406 Writeup: Stored XSS on wpForo Forum | Muhan Luo | [Read More](https://medium.com/p/0bc2e5917219) |
+| Sat, 14 Feb 2026 05:45:00 GMT | Breaking the Web (Part 10): Advanced Topics & Modern Attacks — Chaining Vulnerabilities in the Real… | Mohammed Fahad | [Read More](https://medium.com/p/892af39d9110) |
+| Sat, 14 Feb 2026 05:40:19 GMT | Memulai Perjalanan Digital Forensics: Write-up picoCTF Kategori Easy | M Abdul Hamid A | [Read More](https://medium.com/p/07f93c2dd34f) |
+| Sat, 14 Feb 2026 05:39:32 GMT | The GCC Under the Microscope… But Who is Watching? | Bader Alharbi | [Read More](https://medium.com/p/88cd4930fa2e) |
+| Sat, 14 Feb 2026 05:33:02 GMT | Offline vs Cloud: the Real Threat Model in Password Managers | Fabio Marano | [Read More](https://medium.com/p/5f292e96e04b) |
+| Sat, 14 Feb 2026 05:30:10 GMT | Two Truths Can Be True at the Same Time | Arindora | [Read More](https://medium.com/p/0b4f7d2c0732) |
 | Sat, 14 Feb 2026 05:20:19 GMT | Designing an Enterprise-Grade Hybrid DNS Architecture with Amazon Route 53 Resolver | Manish Sharma | [Read More](https://medium.com/p/885c84bc3ae2) |
 | Sat, 14 Feb 2026 05:05:38 GMT | Secure OAuth flow by fixing common vulnerabilities (Open redirect URIs, missing CSRF/state tokens… | Ankit | [Read More](https://medium.com/p/89027dc9ba33) |
 | Sat, 14 Feb 2026 04:42:35 GMT | Best Free Security Tools Everyone Use in 2026 | Hameedduke | [Read More](https://medium.com/p/b24ba2a5a157) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Feb 2026 18:02:24 GMT | Understanding SSO and SAML in knowledge base systems | KnowledgeOwl | [Read More](https://medium.com/p/73b12290e12d) |
 | Fri, 13 Feb 2026 18:01:02 GMT | Treats, Vulnerabilities, and mitigations | Binesh gurung | [Read More](https://medium.com/p/90b091e4109d) |
 | Fri, 13 Feb 2026 17:56:35 GMT | The Cybersecurity Technical Project Manager: Where Security, Strategy, and Delivery Collide | David ONeal | [Read More](https://medium.com/p/c617e24d1b9f) |
-| Fri, 13 Feb 2026 17:55:14 GMT | Valenfind Walkthrough (TryHackMe): Love at First Breach CTF | Sahand Babali | [Read More](https://medium.com/p/f86d5585c7b5) |
-| Fri, 13 Feb 2026 17:54:09 GMT | Analisis Anatomi Malware Lumma Stealer melalui Framework Cyber Kill Chain | Joy | [Read More](https://medium.com/p/63087d755870) |
-| Fri, 13 Feb 2026 17:45:15 GMT | Day 1 : Beginning of Journey | Armaan Nain | [Read More](https://medium.com/p/cfc309d2e971) |
-| Fri, 13 Feb 2026 17:41:45 GMT | Cybersecurity News Review — Week 7 (2026) | Mladen Kirilov | [Read More](https://medium.com/p/fccb8daddecf) |
-| Fri, 13 Feb 2026 17:37:36 GMT | Alur serangan Lumma Stealer (Fake CAPTCHA) berdasarkan Cyberkill Chain | ridhsuki_ | [Read More](https://medium.com/p/1f93b7f55631) |
-| Fri, 13 Feb 2026 17:33:01 GMT | What Cybersecurity Really Looks Like in Practice | Licio Lentimo | [Read More](https://medium.com/p/4f61ddc5d182) |
-| Fri, 13 Feb 2026 17:32:27 GMT | Deep Dive into SSRF Exploitation: Why Internal Networks Are No Longer Safe | R3dBrothers | [Read More](https://medium.com/p/d6a5a11b9f27) |
-| Fri, 13 Feb 2026 17:16:07 GMT | I Just Need Somewhere to Fall | Alizabeth Amelia Rose | [Read More](https://medium.com/p/bcb76c3035a0) |
-| Fri, 13 Feb 2026 17:11:02 GMT | The 5 Most Dangerous Hacking Gadgets of the 2020s And How Tech Fought Back | Paradise technologies Inc | [Read More](https://medium.com/p/5cd163036569) |
-| Fri, 13 Feb 2026 17:10:00 GMT | When Alerts Mean Nothing: How AI Could Fix the Noise Problem in IT and Security | Richmond Abrokwa | [Read More](https://medium.com/p/101cef3d810f) |
-| Fri, 13 Feb 2026 17:08:33 GMT | Pay No Attention to the Storage Behind the AI | Len Noe | [Read More](https://medium.com/p/45e44c11642b) |
-| Fri, 13 Feb 2026 17:08:03 GMT | What Does the USCSI CCC™ Certification Program’s Curriculum Cover? | Anu Shreya | [Read More](https://medium.com/p/139443bd5f44) |
-| Fri, 13 Feb 2026 17:07:42 GMT | Web App Hacking Lab: Finding and Exploiting XSS (Step-by-Step Beginner Guide) | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/bf18c78a2b48) |
-| Fri, 13 Feb 2026 17:04:18 GMT | Hacker101 CTF — A little something to get you started | Cyber-Rat | [Read More](https://medium.com/p/6bc48906be02) |
