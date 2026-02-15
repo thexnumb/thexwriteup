@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Feb 2026 05:44:19 GMT | Day 05: Cyber Kill Chain, Alert Reporting, Escalation, and SOC Communication | Muhammad Kashif | [Read More](https://medium.com/p/da133b5920b7) |
+| Sun, 15 Feb 2026 05:40:13 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/982ce8414bbf) |
+| Sun, 15 Feb 2026 05:35:55 GMT | Understanding Open Redirect Vulnerabilities: A Complete Guide for Bug Hunters | MhmdSec | [Read More](https://medium.com/p/e3f2af3ee499) |
+| Sun, 15 Feb 2026 05:27:46 GMT | Kampanye Lumma Stealer melalui Fake CAPTCHA: Analisis Cyber Kill Chain | Abdullahrichie | [Read More](https://medium.com/p/34809f968c84) |
+| Sun, 15 Feb 2026 05:27:35 GMT | TryHackMe LazyAdmin — A Story of Backup Leaks and Dangerous Sudo | Arun1x | [Read More](https://medium.com/p/6d614d8bf434) |
+| Sun, 15 Feb 2026 05:19:58 GMT | HAWK_II — Cryptography Challenge Writeup | Cyb0rgBytes | [Read More](https://medium.com/p/9b32187f4dd5) |
+| Sun, 15 Feb 2026 05:01:03 GMT | The art of Troubleshooting from a Blue Team perspective | Kurb4n | [Read More](https://medium.com/p/1318306c87ac) |
+| Sun, 15 Feb 2026 05:01:00 GMT | Could the U.S. Switch Off Europe? | Víctor Langston | [Read More](https://medium.com/p/1e4866721590) |
+| Sun, 15 Feb 2026 05:01:00 GMT | CSRF Token and HttpOnly | Nurettin Abacı | [Read More](https://medium.com/p/1a78fc5389d3) |
+| Sun, 15 Feb 2026 04:52:45 GMT | Cupid’s Matchmaker Tryhackme | TcyberSec007 | [Read More](https://medium.com/p/e2304df22d43) |
 | Sun, 15 Feb 2026 04:46:51 GMT | TryHackMe — Nmap | Shashwat | [Read More](https://medium.com/p/b5a7ed4408bc) |
 | Sun, 15 Feb 2026 04:44:18 GMT | Zero Trust for Startups: What It Actually Means | Garrvsipani | [Read More](https://medium.com/p/c34bf7e4a4aa) |
 | Sun, 15 Feb 2026 04:41:48 GMT | Building a Self-Hosted Dark Web Monitoring Portal in 30 minutes | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/aa9a260938d7) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Feb 2026 17:47:56 GMT | The Procurement of New Social Dynamics….. | Lakishaprince | [Read More](https://medium.com/p/7f7cdfb93bb2) |
 | Sat, 14 Feb 2026 17:42:12 GMT | Cybersecurity Meets DPDP: What Business needs to know in 2026 | Lumiversesolution | [Read More](https://medium.com/p/4f6c67690b59) |
 | Sat, 14 Feb 2026 17:32:45 GMT | HTTP vs HTTPS: What’s the Difference? And Where Do SSL and TLS Fit? | Manikanta majeti | [Read More](https://medium.com/p/1be133228886) |
-| Sat, 14 Feb 2026 17:23:48 GMT | Modern Bank Fraud: The New Threats You Need to Know in 2025 | Juan Moisés de la Serna | [Read More](https://medium.com/p/00c9123513a3) |
-| Sat, 14 Feb 2026 17:21:44 GMT | The Workflow Sprawl Trap: Why Small IT Teams Build Fragile Automation | Oscar Antonangelo | [Read More](https://medium.com/p/b789df9006b1) |
-| Sat, 14 Feb 2026 17:21:14 GMT | DTO vs Entity in Spring Boot: Why You Should Never Expose Your Entities | Hüsna POYRAZ | [Read More](https://medium.com/p/18abf407dc1c) |
-| Sat, 14 Feb 2026 17:19:26 GMT | TryHackMe Love Letter Locker Walkthrough | Ramiz | [Read More](https://medium.com/p/86d6a57166e7) |
-| Sat, 14 Feb 2026 17:18:45 GMT | The Graphite Leak and the Myth of Digital Safety | Abdelakarim Benabdallah | [Read More](https://medium.com/p/95de17573084) |
-| Sat, 14 Feb 2026 17:17:51 GMT | While They’re Still Prompting, We’re Engineering Reality: The Dawn of Collapse-Aware AI | M.R | [Read More](https://medium.com/p/d273a7cc81b9) |
-| Sat, 14 Feb 2026 17:17:37 GMT | Roses Are Red, Violets Are Blue; That “Soldier in Syria” Might Be a Scammer DM’ing You | Al-ameen | [Read More](https://medium.com/p/344312b0b0fb) |
-| Sat, 14 Feb 2026 17:16:58 GMT | AI Entrapment: When Your Paid AI Locks You Out for RISKY chat, the Conversation IT Created | Berend Watchus | [Read More](https://medium.com/p/578e8289e60a) |
-| Sat, 14 Feb 2026 17:13:03 GMT | Day 2 : The Rabbit Hole | Armaan Nain | [Read More](https://medium.com/p/ea1576211150) |
-| Sat, 14 Feb 2026 17:08:33 GMT | Building a Thriving IT Export Economy: Aspirations from a Small-Business Founder | syedfromsylhet | [Read More](https://medium.com/p/5886e0d50533) |
