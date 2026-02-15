@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Feb 2026 15:24:44 GMT | Ein PSsystec-Blick auf die Munich Security Conference 2026 | PSsystec | [Read More](https://medium.com/p/0a440e7aa9e6) |
+| Sun, 15 Feb 2026 15:22:17 GMT | How I Hacked My Own AWS Account: Simulating the $80M Capital One Breach | Karol | [Read More](https://medium.com/p/a6249144b3dd) |
+| Sun, 15 Feb 2026 15:18:13 GMT | Breaking Into DarkHole V2: From Zero to Root | HEKKO | [Read More](https://medium.com/p/9977a50a437e) |
+| Sun, 15 Feb 2026 15:16:00 GMT | IDO Launchpad Development in 2026: Features Investors and Projects Actually Expect | ChainGPT | [Read More](https://medium.com/p/968f06ae155b) |
+| Sun, 15 Feb 2026 15:15:08 GMT | WHAT IS DATA EXFILTRATION? | Kevin Ronex | [Read More](https://medium.com/p/608dd3c92f16) |
+| Sun, 15 Feb 2026 15:14:51 GMT | The Industrialization of Deception: Why 2026 is the Year Cybercrime Became Autonomous | Ali Ahmed | [Read More](https://medium.com/p/d7696f4070e5) |
+| Sun, 15 Feb 2026 15:11:19 GMT | Wazuh Setup and Agent Configuration: A Practical, Real-World Walkthrough | Little_Sun4lower | [Read More](https://medium.com/p/b3ab59cec7a5) |
+| Sun, 15 Feb 2026 15:11:17 GMT | The CAPTCHA Trap: Analyzing Lumma Stealer Campaigns via Cyber Kill Chain | Afrizacho | [Read More](https://medium.com/p/5e1579a69a79) |
+| Sun, 15 Feb 2026 15:08:21 GMT | My picoCTF Warm-Up Journey: 5 beginner Challenges Write-Up | Dimasarfan | [Read More](https://medium.com/p/f42370b69b9d) |
+| Sun, 15 Feb 2026 15:03:17 GMT | Ejpt — Host & Network Penetration Testing: The Metasploit Framework CTF 2 | PwnClwn | [Read More](https://medium.com/p/1b77348136d2) |
+| Sun, 15 Feb 2026 15:01:12 GMT | The Tool Boundary Breaks 12 Popular Agent Security Myths | Quaxel | [Read More](https://medium.com/p/8232ffbfc608) |
+| Sun, 15 Feb 2026 15:01:10 GMT | A Comprehensive Guide to Creating and Using a Basic Github App for Token Management via… | Matt Cummings | [Read More](https://medium.com/p/0bfcfa39f5c1) |
+| Sun, 15 Feb 2026 15:01:09 GMT | Permission Is the Product: 10 Models That Hold Up | Velorum | [Read More](https://medium.com/p/9cf3ab00b27b) |
+| Sun, 15 Feb 2026 14:57:55 GMT | Spring Security From Zero to Production — Part 2: Understanding Filters, Sessions & How Login… | Sanjay Kumar | [Read More](https://medium.com/p/10d49e6271d8) |
 | Sun, 15 Feb 2026 14:55:14 GMT | Artificial Intelligence in Everyday Life | T Guru Karthikeya | [Read More](https://medium.com/p/5bd9b53ed874) |
+| Sun, 15 Feb 2026 14:52:43 GMT | Thinking Like an Attacker: How API Pen-Testers Identify Authentication Bypass | Madalitso Cheyo | [Read More](https://medium.com/p/662567cbd716) |
+| Sun, 15 Feb 2026 14:52:42 GMT | Linux’ta C Diski Neden Yok? Dosya Sistemi Mantığını Anlamak | Arda Derya | [Read More](https://medium.com/p/335a0221c8ce) |
 | Sun, 15 Feb 2026 14:50:42 GMT | Secure Coding in Java & Spring Boot | Vishal Lokhande | [Read More](https://medium.com/p/e57ea682efa0) |
 | Sun, 15 Feb 2026 14:45:37 GMT | Digital Forensics Lab 01 -Introduction to Digital Forensics | Aditbaps | [Read More](https://medium.com/p/bee24d42b78d) |
 | Sun, 15 Feb 2026 14:34:52 GMT | Understanding AAA in Cybersecurity: The Backbone of Access Control | Jenish Maharjan | [Read More](https://medium.com/p/7ee355247c8d) |
@@ -97,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Feb 2026 10:07:01 GMT | 7 Deadly Dangers: Why Free IPTV Playlists 2026 are a Total Scam | Yeah-iptv.tv | [Read More](https://medium.com/p/ee8cb41d5e78) |
 | Sun, 15 Feb 2026 10:06:01 GMT | Cybersecurity Career Transition: How to Switch Careers Successfully | Victoria Coker | [Read More](https://medium.com/p/95009fbc9e6a) |
 | Sun, 15 Feb 2026 10:05:35 GMT | Solving the “Flag in Flame” CTF challenge from “https://play.picoctf.org/” | Riconatanael | [Read More](https://medium.com/p/697e27b1b4e2) |
-| Sun, 15 Feb 2026 10:00:23 GMT | A Day in the Life of a Junior SOC Analyst: Taming the Chaos of Security Alerts | Marc Edison Vergeire | [Read More](https://medium.com/p/0303d9e09ef6) |
-| Sun, 15 Feb 2026 09:52:09 GMT | Time Traveling Prompt Injections: Why No LLM Is Safe | Simon Weigold | [Read More](https://medium.com/p/013f12c26847) |
-| Sun, 15 Feb 2026 09:49:58 GMT | TryHackMe Internal-Complete Walkthrough & Privilege Escalation Guide | VR | [Read More](https://medium.com/p/d9765cdcd0bf) |
-| Sun, 15 Feb 2026 09:47:23 GMT | Try Hack Me- Fowsniff CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/eeb998c36ee9) |
-| Sun, 15 Feb 2026 09:42:46 GMT | Lumma Stealer (Fake CAPTCHA): Bedah Alur Serangan dengan Framework Cyber Kill Chain. | Muhammadomarhaqqi | [Read More](https://medium.com/p/396f04e1f931) |
-| Sun, 15 Feb 2026 09:34:40 GMT | …all that AI stuff? | Bal Bansal | [Read More](https://medium.com/p/e9244d4d54aa) |
-| Sun, 15 Feb 2026 09:31:07 GMT | Capture The Flag (CTF) Write-Up: Analisis Digital Forensics, Metadata, dan Steganography pada… | I Tsarakrizmi | [Read More](https://medium.com/p/58339a5f4a19) |
-| Sun, 15 Feb 2026 09:26:13 GMT | Subdomain Enumeration | Bhanvararamchoudhary | [Read More](https://medium.com/p/c57472f351a8) |
-| Sun, 15 Feb 2026 09:26:00 GMT | Why Thousands Are Buying Mac Minis to Escape Big Tech AI Subscriptions Forever - Clawdbot | MayhemCode | [Read More](https://medium.com/p/10c970c72404) |
-| Sun, 15 Feb 2026 09:21:02 GMT | Why OSINT Is Becoming a Must-Have Skill in Cybersecurity | Dallen Sadru | [Read More](https://medium.com/p/fb90e1690479) |
-| Sun, 15 Feb 2026 09:20:10 GMT | Ottergram writeup (Broken Auth) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/39d14d883a66) |
-| Sun, 15 Feb 2026 09:11:03 GMT | 500,000 Accounts Compromised: The Chrome Extension Epidemic Nobody’s Talking About | Mehdi BAFDIL | [Read More](https://medium.com/p/afc26d9aedf4) |
-| Sun, 15 Feb 2026 09:03:54 GMT | How “Good Morning” and Festival Wishes Are Becoming Phishing Traps in India
-Author: Ankit Rai
-Cyber… | Ankit rai | [Read More](https://medium.com/p/ef3f8f9716a6) |
-| Sun, 15 Feb 2026 09:01:01 GMT | 3 LeakRadar Searches That Uncovered Forgotten Admin Panels | Alexandre Vandamme | [Read More](https://medium.com/p/916317233d2d) |
-| Sun, 15 Feb 2026 09:01:01 GMT | PhishShield AI: Advancing Cybersecurity with Real-Time Phishing Detection | Faiz Hussain | [Read More](https://medium.com/p/01f426b7a8e7) |
-| Sun, 15 Feb 2026 09:01:00 GMT | The Quiet Kind of Happiness | Oluwatomisin Pokuaa Phillips | [Read More](https://medium.com/p/e4693d85ae51) |
