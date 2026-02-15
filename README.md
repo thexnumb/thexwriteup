@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Feb 2026 11:20:35 GMT | PortSwigger: Race conditions Labs | Abdelhamid Elbouz | [Read More](https://medium.com/p/a0b7a3980ace) |
+| Sun, 15 Feb 2026 11:08:39 GMT | Supply Chain Security: When Your Dependencies Betray You | Ms. Byte Dev | [Read More](https://medium.com/p/6bf353e48011) |
+| Sun, 15 Feb 2026 11:07:09 GMT | FreeCustom — A modern temporary email service. | Ishant-singh | [Read More](https://medium.com/p/d4b170a8d817) |
+| Sun, 15 Feb 2026 11:06:00 GMT | Day 11 Attack Structure Explained: Initial Access — When Curiosity Turns Into Control | NineTales | [Read More](https://medium.com/p/39e7dc646013) |
+| Sun, 15 Feb 2026 11:05:31 GMT | Bandit Wargame Writeup 20 Level | Theokokay | [Read More](https://medium.com/p/89adc9b0facb) |
+| Sun, 15 Feb 2026 11:02:26 GMT | OpenClaw: Just a Tool or a Security Risk? | Hirushi Atapattu | [Read More](https://medium.com/p/9d5f92274881) |
+| Sun, 15 Feb 2026 11:01:01 GMT | What Happens When Someone Deepfakes Your Kid? | Greg Dessau | [Read More](https://medium.com/p/1716727b43b7) |
+| Sun, 15 Feb 2026 11:01:00 GMT | The Missing Link in Your AI Strategy: Why “Pre-AI Processing” is the 2026 Security Standard | KDAN PDF - Productivity Lab | [Read More](https://medium.com/p/b35d7eacb952) |
+| Sun, 15 Feb 2026 11:00:39 GMT | Introduction to Digital Forensics (Lab 01) | 0w0 | [Read More](https://medium.com/p/9a1357d73d04) |
 | Sun, 15 Feb 2026 10:41:42 GMT | Part 2 - Zero-Persistence Cryptography: Why Ephemeral Keys Eliminate Breach Liability | PhantomKey Technologies | [Read More](https://medium.com/p/6dac382e5f14) |
 | Sun, 15 Feb 2026 10:35:15 GMT | Agentic AI Is Not a Tool. It’s a Decision Shift — And Most People Aren’t Ready | Germano Costi | [Read More](https://medium.com/p/6174a5e617bf) |
 | Sun, 15 Feb 2026 10:28:48 GMT | Why “Never Trust, Always Verify” Is Becoming the Default Security Model | Jyoti Joshi | [Read More](https://medium.com/p/9967f77a49f3) |
@@ -106,12 +115,3 @@ so your soul never has to learn another language | Yours Only | [Read More](http
 | Sun, 15 Feb 2026 04:41:48 GMT | Building a Self-Hosted Dark Web Monitoring Portal in 30 minutes | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/aa9a260938d7) |
 | Sun, 15 Feb 2026 04:31:05 GMT | Biometric Login in Flutter (Riverpod + Bloc) | Harsh Mittal | [Read More](https://medium.com/p/b7bcca014e80) |
 | Sun, 15 Feb 2026 04:30:04 GMT | Stop Building AI Chatbots (Do This Instead) | Shahzaib | [Read More](https://medium.com/p/a09373858f7f) |
-| Sun, 15 Feb 2026 04:29:08 GMT | Client and Server Model | Aj | [Read More](https://medium.com/p/e6516b7cc5fb) |
-| Sun, 15 Feb 2026 04:15:44 GMT | How to Start CTF From Zero: A Friendly Guide for Absolute Beginners | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/b08fbe6626c8) |
-| Sun, 15 Feb 2026 04:07:21 GMT | When Help Desk Software Becomes an Attack Vector: Deep Dive into the SolarWinds Web Help Desk RCE… | Soham Jagtap | [Read More](https://medium.com/p/146c62451609) |
-| Sun, 15 Feb 2026 03:46:17 GMT | Combatting Alert Fatigue in Security Operations: A Systems, Measurement, and Governance Perspective | Ddiaz | [Read More](https://medium.com/p/d7e888ecd2e2) |
-| Sun, 15 Feb 2026 03:37:31 GMT | TryHackMe: Love at First Breach 2026 -> Corp Website | Purvansh Bhatt | [Read More](https://medium.com/p/a8f5b1c0f9cf) |
-| Sun, 15 Feb 2026 03:23:58 GMT | AdaptixC2: The Open-Source C2 That’s Blurring the Line Between Red Team Toolkit and Real-World… | Yua Mikanana | [Read More](https://medium.com/p/7f7abb09352b) |
-| Sun, 15 Feb 2026 03:12:24 GMT | iCloud Custom Domains Ship with Broken Email Security — Here’s How to Fix It | cody chamberlain | [Read More](https://medium.com/p/7b9e81e4aaaa) |
-| Sun, 15 Feb 2026 03:11:29 GMT | 10 Million Secrets, One Search Box: Inside The Library Of Leaks The Powerful Database Governments… | cybrNK | [Read More](https://medium.com/p/afa030fea6fe) |
-| Sun, 15 Feb 2026 02:41:00 GMT | Stop shipping unbounded tools: 9 ways agents exceed intent | Neurobyte | [Read More](https://medium.com/p/e4d01a7432c8) |
