@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Feb 2026 22:19:51 GMT | PPL Reaper | S12 - 0x12Dark Development | [Read More](https://medium.com/p/66b380f0662f) |
+| Sun, 15 Feb 2026 22:19:39 GMT | Don’t let your OpenClaw agent go rogue! | Raj | [Read More](https://medium.com/p/1b33f8fab573) |
+| Sun, 15 Feb 2026 22:03:43 GMT | We Disclosed a Critical Exploit to a Hackathon Winning X402 Platform Security Platform. | aurasecurity | [Read More](https://medium.com/p/c094e302c915) |
+| Sun, 15 Feb 2026 22:01:00 GMT | Unfiltered Restart — Day 4: Storage | Maximillian Rueda | [Read More](https://medium.com/p/0ca1d58c51e0) |
+| Sun, 15 Feb 2026 21:54:49 GMT | CipherLib — The Private Newspaper for Bug Hunters | Sevada797 | [Read More](https://medium.com/p/59a19794f3ae) |
+| Sun, 15 Feb 2026 21:52:07 GMT | RetailBreach (CTF Walkthrough) | Pravat Dash | [Read More](https://medium.com/p/002c6c3ae7bf) |
 | Sun, 15 Feb 2026 21:47:07 GMT | 09055019190شماره خاله تبریز شماره خاله ارومیه شماره خاله کرج | شماره خاله تبریز شماره خاله ارومیه شماره خاله کرج | [Read More](https://medium.com/p/0897708de283) |
 | Sun, 15 Feb 2026 21:46:37 GMT | 09055019190شماره خاله تبریز شماره خاله ارومیه شماره خاله کرج | شماره خاله تبریز شماره خاله ارومیه شماره خاله کرج | [Read More](https://medium.com/p/23a473125b4d) |
+| Sun, 15 Feb 2026 21:35:28 GMT | The Danzell Update: 3 Critical Changes for UK SMEs in April 2026 | Baffour Dokyi Ampaw | [Read More](https://medium.com/p/e063e3f662b2) |
 | Sun, 15 Feb 2026 21:32:12 GMT | Phishing Attacks Explained: Tactics, Indicators, and Impact | Bradley zielinski | [Read More](https://medium.com/p/f642a5bd7769) |
 | Sun, 15 Feb 2026 21:31:38 GMT | The vulnerability of releasing unfinished versions of yourself. | Favour Emmanuel | [Read More](https://medium.com/p/ffe76ca03496) |
 | Sun, 15 Feb 2026 21:29:01 GMT | LLM Prompt Injection & System Leakage: CupidBot (TryHackMe Walkthrough) | RosanaFSS | [Read More](https://medium.com/p/3c86e492f869) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Feb 2026 16:16:28 GMT | Email Defence: SPF | Duncan Hurwood | [Read More](https://medium.com/p/7847fe8c9e7b) |
 | Sun, 15 Feb 2026 16:16:10 GMT | Vulnerability scanning with Metasploit | Mylescorey | [Read More](https://medium.com/p/bc962ba212bb) |
 | Sun, 15 Feb 2026 16:13:52 GMT | The Pattern I Keep Repeating | InHerMind | [Read More](https://medium.com/p/1d2356226611) |
-| Sun, 15 Feb 2026 16:10:08 GMT | Is every data an insight? | Yamin | [Read More](https://medium.com/p/920b52ba661c) |
-| Sun, 15 Feb 2026 16:04:42 GMT | Discovering Security Weaknesses: A Practical Guide to Vulnerability Scanning | Allen Ace | [Read More](https://medium.com/p/30b2785b828f) |
-| Sun, 15 Feb 2026 16:02:33 GMT | How Does Data Actually Travel Without Getting Stolen or Delayed? | Siddhesh Y. | [Read More](https://medium.com/p/0dee3e6efe74) |
-| Sun, 15 Feb 2026 16:01:01 GMT | DNS Hijacking: How Websites Get Redirected Overnight | satyaranjan bal | [Read More](https://medium.com/p/fa4040e5336c) |
-| Sun, 15 Feb 2026 15:56:34 GMT | AI Surveillance : A Cybersecurity Perspective | Aditya Kucharlapati | [Read More](https://medium.com/p/d6495caf70ed) |
-| Sun, 15 Feb 2026 15:52:47 GMT | What Is CORS and Why Does It Exist? | Sanjeevani Bhandari | [Read More](https://medium.com/p/63bd3233886d) |
-| Sun, 15 Feb 2026 15:50:29 GMT | Lumma Stealer & FakeCAPTCHA: Heker makin pinter atau kalian yang gangerti cara pake Windows? | Obscura Nera | [Read More](https://medium.com/p/0343e91ce726) |
