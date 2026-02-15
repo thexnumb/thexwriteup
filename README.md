@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Feb 2026 23:39:40 GMT | [Write-up] Digital Forensics Lab 01: Navigating the Terminal & Uncovering Hidden Evidence | Tania | [Read More](https://medium.com/p/7a3ad6b544c5) |
+| Sun, 15 Feb 2026 23:33:32 GMT | Teaching myself AI Agent Security (2) | ai3ech | [Read More](https://medium.com/p/31cf098f1b37) |
+| Sun, 15 Feb 2026 23:28:38 GMT | Events In Information Policy & Ethics: Securing Data In Clinical Machinery | Hannah Hillery | [Read More](https://medium.com/p/47fa644c1cfb) |
 | Sun, 15 Feb 2026 23:10:30 GMT | No-Password API Authentication with ZKP Architecture: A Novel Case of Use for Service-to-Service… | Elias Andrade | [Read More](https://medium.com/p/3b45a99d0389) |
 | Sun, 15 Feb 2026 23:02:59 GMT | Essential Cybersecurity Best Practices for Businesses | CyberSecurity | [Read More](https://medium.com/p/67fb77bf4bee) |
 | Sun, 15 Feb 2026 23:01:10 GMT | Effective Cybersecurity Strategy Example for Businesses | CyberSecurity | [Read More](https://medium.com/p/d2fce0457e73) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Feb 2026 17:07:57 GMT | Moltworker: Your Personal AI Assistant on Cloudflare (No Mac Mini Required!) | Precious Kweku Obeng | [Read More](https://medium.com/p/f0362bbbec65) |
 | Sun, 15 Feb 2026 17:03:58 GMT | How I Discovered an Email Verification Misbinding Leading to Privilege Escalation | Mostafa shaban | [Read More](https://medium.com/p/7cc1ffc6ce01) |
 | Sun, 15 Feb 2026 16:59:26 GMT | Author: Shahla (Roze) | Shahla(roze) | [Read More](https://medium.com/p/2abcb4476d3a) |
-| Sun, 15 Feb 2026 16:56:42 GMT | South Korea’s STO: A “Galapagos” Regulatory Trap or a Global Springboard? | 안나 | [Read More](https://medium.com/p/6d7969aaac99) |
-| Sun, 15 Feb 2026 16:55:08 GMT | The OpenClaw Security Guide No One Wants to Write (But Everyone Needs) | Alex Rozdolskyi | [Read More](https://medium.com/p/8977831028f9) |
-| Sun, 15 Feb 2026 16:50:45 GMT | Are Safety Guardrails Making AI Less Intelligent? | Egezon Baruti | [Read More](https://medium.com/p/ab77d11da2fd) |
