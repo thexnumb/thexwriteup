@@ -12,10 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Feb 2026 19:44:09 GMT | SSRF Vulnerability in SourceCodester Website Link Extractor v1.0 | Hemant Raj Bhati | [Read More](https://medium.com/p/5df6bb708f5e) |
+| Sun, 15 Feb 2026 19:42:11 GMT | SpaceX Reportedly Exploring Dual-Class Share Structure Ahead of IPO | Tech News | [Read More](https://medium.com/p/df05a7288e43) |
+| Sun, 15 Feb 2026 19:36:11 GMT | Discord Age Verification is a Joke | David Lee | [Read More](https://medium.com/p/70950b47a8a8) |
+| Sun, 15 Feb 2026 19:32:50 GMT | AI in Cybersecurity: Real-Time Threat Detection & Prevention | ANNETTE PARTIDA | [Read More](https://medium.com/p/7000d0e57d3d) |
+| Sun, 15 Feb 2026 19:28:39 GMT | AI Agents: AresGPT Prompt Engineering for Cyber Defenders a CompTIA Security+ All Study Guide | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/522381335221) |
+| Sun, 15 Feb 2026 19:25:18 GMT | TryHackMe Writeup: Compiled | Berkay AĞGÜL | [Read More](https://medium.com/p/9a4c08045826) |
 | Sun, 15 Feb 2026 19:17:38 GMT | The Illusion of the “Villain” in Cyberspace | Sneha Thenkaraimaharajan | [Read More](https://medium.com/p/b78280fcfc3d) |
 | Sun, 15 Feb 2026 19:15:10 GMT | THE ARCHITECT SIGNALS THE END OF THE “OLD WORLD”: GLOBAL LAUNCH OF SOVEREIGN NETWORK UK SET FOR ‘27 | Simplified Complexity | [Read More](https://medium.com/p/31616341a498) |
 | Sun, 15 Feb 2026 19:11:40 GMT | Homelab - Detection and Threat Hunting Focused Homelab Architecture | Bilal Emre Ozgun | [Read More](https://medium.com/p/caa18fd5d158) |
 | Sun, 15 Feb 2026 19:10:00 GMT | Encryption: What is it, and how does it work? | Jibriel Jeelani | [Read More](https://medium.com/p/1975da5d2f6f) |
+| Sun, 15 Feb 2026 19:08:28 GMT | Is your cloud strategy protecting your reputation? | Onix | [Read More](https://medium.com/p/695386514a76) |
 | Sun, 15 Feb 2026 19:04:55 GMT | ✨ Get More from BurpSuite by Chaining It with OWASP ZAP | Yogesh Rathod | [Read More](https://medium.com/p/80ac9e104c01) |
 | Sun, 15 Feb 2026 19:04:24 GMT | Automated Sandbox Pipeline with CrowdStrike Falcon Fusion SOAR | Shraiyash Pandey | [Read More](https://medium.com/p/30445c2fed60) |
 | Sun, 15 Feb 2026 19:04:06 GMT | Homelab - Detection ve Threat Hunting Odaklı Homelab Mimarisi | Bilal Emre Ozgun | [Read More](https://medium.com/p/1193394e7e90) |
@@ -81,6 +88,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Feb 2026 15:40:11 GMT | How I Discovered React2Shell (CVE-2025–55182) During a VAPT Engagement Using a Simple Browser… | prometheus | [Read More](https://medium.com/p/c797346faca1) |
 | Sun, 15 Feb 2026 15:40:04 GMT | When Privacy Becomes a Privilege | saanvi | [Read More](https://medium.com/p/a29f000f1738) |
 | Sun, 15 Feb 2026 15:30:51 GMT | How Digital Forensics Exposes Online Deception: | Dusk Protocol Forensic - Investigations & Insights | [Read More](https://medium.com/p/b14a9158ad0b) |
+| Sun, 15 Feb 2026 15:29:46 GMT | Lumma Stealer: Malware Berbahaya Menyamar Menjadi CAPTCHA Palsu | Velskynotfound | [Read More](https://medium.com/p/1bf4657222d0) |
 | Sun, 15 Feb 2026 15:24:44 GMT | Ein PSsystec-Blick auf die Munich Security Conference 2026 | PSsystec | [Read More](https://medium.com/p/0a440e7aa9e6) |
 | Sun, 15 Feb 2026 15:22:17 GMT | How I Hacked My Own AWS Account: Simulating the $80M Capital One Breach | Karol | [Read More](https://medium.com/p/a6249144b3dd) |
 | Sun, 15 Feb 2026 15:18:13 GMT | Breaking Into DarkHole V2: From Zero to Root | HEKKO | [Read More](https://medium.com/p/9977a50a437e) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Feb 2026 14:32:47 GMT | OWASP Mobile Top 10 — M2: Inadequate Supply Chain Security | Barış Kandemir | [Read More](https://medium.com/p/47f72461e4d8) |
 | Sun, 15 Feb 2026 14:32:05 GMT | OWASP Mobile Top 10 — M2: Yetersiz Tedarik Zinciri Güvenliği (Inadequate Supply Chain Security) | Barış Kandemir | [Read More](https://medium.com/p/3b1e811c6181) |
 | Sun, 15 Feb 2026 14:31:01 GMT | 10 Agent Failure Stories That Fixed Our Tool Contracts | Thinking Loop | [Read More](https://medium.com/p/08bc49c8e697) |
-| Sun, 15 Feb 2026 14:29:10 GMT | Simplifying automation at enterprise Scale: Security Copilot + Logic Apps + MCP | Yash Mudaliar | [Read More](https://medium.com/p/148667d49da9) |
-| Sun, 15 Feb 2026 14:27:37 GMT | Insecure CaptchaVulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/1efa84610e41) |
-| Sun, 15 Feb 2026 14:26:00 GMT | Beyond ChatGPT: Why Agentic AI Is the #1 Attack Surface in 2026. | Kambetastephano | [Read More](https://medium.com/p/d95d4e89326b) |
-| Sun, 15 Feb 2026 14:17:17 GMT | QRYPTA Labs: Armoring BNB Chain for the Quantum Era with PQC, ZK-STARKs, and ISO 20022 | Qrypta | [Read More](https://medium.com/p/5d0c42f26300) |
-| Sun, 15 Feb 2026 14:16:22 GMT | Container Vulnerability Scanning and Remediation | Engineer Palsu | [Read More](https://medium.com/p/5fe0d0fe0fab) |
-| Sun, 15 Feb 2026 14:15:27 GMT | WordPress Plugin Security: 11 Vulnerabilities I Found (and Fixed) in My Own Code | Pixar Labs | [Read More](https://medium.com/p/99c415247a3a) |
-| Sun, 15 Feb 2026 14:15:01 GMT | Google Dorking: The Art of Uncovering Hidden Truths Through Search | Nida Arshad | [Read More](https://medium.com/p/badb25447022) |
-| Sun, 15 Feb 2026 14:11:55 GMT | Pico CTF : Hash Crack | Hendrawibowo | [Read More](https://medium.com/p/f8d82f22137d) |
