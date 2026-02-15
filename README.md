@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Feb 2026 23:10:30 GMT | No-Password API Authentication with ZKP Architecture: A Novel Case of Use for Service-to-Service… | Elias Andrade | [Read More](https://medium.com/p/3b45a99d0389) |
+| Sun, 15 Feb 2026 23:02:59 GMT | Essential Cybersecurity Best Practices for Businesses | CyberSecurity | [Read More](https://medium.com/p/67fb77bf4bee) |
+| Sun, 15 Feb 2026 23:01:10 GMT | Effective Cybersecurity Strategy Example for Businesses | CyberSecurity | [Read More](https://medium.com/p/d2fce0457e73) |
+| Sun, 15 Feb 2026 23:01:02 GMT | Securing AI APPS: Vulnerabilities to Look Out for When Building AI Apps | Kolawole Tosin | [Read More](https://medium.com/p/c1f2a439aa53) |
+| Sun, 15 Feb 2026 23:00:19 GMT | Rooting/Jailbreaking iPhone X IOS 16.7.10 | n00 | [Read More](https://medium.com/p/969b43e1458a) |
+| Sun, 15 Feb 2026 22:57:41 GMT | Political power under the strain of independent minds and whistleblowers | Hayat Outahar | [Read More](https://medium.com/p/2da1bdf59930) |
+| Sun, 15 Feb 2026 22:51:41 GMT | Hacker Explains How to Harden Your Home Security System & Wi-Fi Router | z3r0trust | [Read More](https://medium.com/p/29235a2b45d4) |
 | Sun, 15 Feb 2026 22:41:28 GMT | Most Useful Linux Commands for Security Engineers | Janith Malinga | [Read More](https://medium.com/p/479dcd9d921a) |
 | Sun, 15 Feb 2026 22:37:36 GMT | Váš nový počítač vás možno špehuje — rovno z krabice | Adrian Trancik | [Read More](https://medium.com/p/146d508b4cb9) |
 | Sun, 15 Feb 2026 22:25:41 GMT | 2026 Siber Saldırıları Part-3 | Zekikayaalp | [Read More](https://medium.com/p/ff7f27d06aa7) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Feb 2026 16:56:42 GMT | South Korea’s STO: A “Galapagos” Regulatory Trap or a Global Springboard? | 안나 | [Read More](https://medium.com/p/6d7969aaac99) |
 | Sun, 15 Feb 2026 16:55:08 GMT | The OpenClaw Security Guide No One Wants to Write (But Everyone Needs) | Alex Rozdolskyi | [Read More](https://medium.com/p/8977831028f9) |
 | Sun, 15 Feb 2026 16:50:45 GMT | Are Safety Guardrails Making AI Less Intelligent? | Egezon Baruti | [Read More](https://medium.com/p/ab77d11da2fd) |
-| Sun, 15 Feb 2026 16:50:36 GMT | Diva Android Challenge walkthrough | 0X0DOoOM | [Read More](https://medium.com/p/2dd512ab8fca) |
-| Sun, 15 Feb 2026 16:35:55 GMT | Warm-up Digital Forensics with Pico CTF (Easy Level) | Aryadwiaji | [Read More](https://medium.com/p/77de015859cc) |
-| Sun, 15 Feb 2026 16:31:00 GMT | 15 Agent Guardrails That Don’t Depend on Prompt Luck | Hash Block | [Read More](https://medium.com/p/1f74bb3aa665) |
-| Sun, 15 Feb 2026 16:28:28 GMT | The Simple Cybersecurity Checklist Everyone Should Follow | Richard Buchfink | [Read More](https://medium.com/p/3718141e6c4d) |
-| Sun, 15 Feb 2026 16:24:55 GMT | Cyber Defense Warm-Up (CTF Write-Ups) | Annisa Eka Putri | [Read More](https://medium.com/p/92252106f449) |
-| Sun, 15 Feb 2026 16:21:53 GMT | Week 1 Digital Forensik Lab-01 | Artha Bangkit Auliano | [Read More](https://medium.com/p/af554bf17c0b) |
-| Sun, 15 Feb 2026 16:17:54 GMT | Email Spoofing Security: DKIM | Duncan Hurwood | [Read More](https://medium.com/p/64dfe06ab3ee) |
