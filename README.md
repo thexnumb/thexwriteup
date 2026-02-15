@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Feb 2026 21:47:07 GMT | 09055019190شماره خاله تبریز شماره خاله ارومیه شماره خاله کرج | شماره خاله تبریز شماره خاله ارومیه شماره خاله کرج | [Read More](https://medium.com/p/0897708de283) |
+| Sun, 15 Feb 2026 21:46:37 GMT | 09055019190شماره خاله تبریز شماره خاله ارومیه شماره خاله کرج | شماره خاله تبریز شماره خاله ارومیه شماره خاله کرج | [Read More](https://medium.com/p/23a473125b4d) |
+| Sun, 15 Feb 2026 21:32:12 GMT | Phishing Attacks Explained: Tactics, Indicators, and Impact | Bradley zielinski | [Read More](https://medium.com/p/f642a5bd7769) |
+| Sun, 15 Feb 2026 21:31:38 GMT | The vulnerability of releasing unfinished versions of yourself. | Favour Emmanuel | [Read More](https://medium.com/p/ffe76ca03496) |
+| Sun, 15 Feb 2026 21:29:01 GMT | LLM Prompt Injection & System Leakage: CupidBot (TryHackMe Walkthrough) | RosanaFSS | [Read More](https://medium.com/p/3c86e492f869) |
 | Sun, 15 Feb 2026 21:16:43 GMT | Deterministic Computational Governance: Why Tier 0 Architecture Changes Digital Security | Adán Ignacio Ramalho Méndez | [Read More](https://medium.com/p/36a84ff782ea) |
 | Sun, 15 Feb 2026 21:15:49 GMT | NIN-SIM Linkage and the Nigeria We Desire | Prof. Tunde Akanni | [Read More](https://medium.com/p/77ab80464d6f) |
 | Sun, 15 Feb 2026 21:14:33 GMT | The Weight of the Mask | Anna K. | [Read More](https://medium.com/p/259a541d90f0) |
@@ -20,6 +25,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Feb 2026 21:04:25 GMT | 0xFun CTF - OSINT Challenges Writeup | Ahmed Mohammed | [Read More](https://medium.com/p/ddfe6a4ba08f) |
 | Sun, 15 Feb 2026 21:03:20 GMT | Time Hacking With OSINT: The Ridiculous Chronolocation Tricks Investigators Don’t Want You To Know… | cybrNK | [Read More](https://medium.com/p/3f71c1df77b9) |
 | Sun, 15 Feb 2026 20:57:36 GMT | The Two Bugs That Kill Startups: A Deep Dive into XSS and CSRF | Frank Kelechi Oge | [Read More](https://medium.com/p/eb7019e1172b) |
+| Sun, 15 Feb 2026 20:53:58 GMT | Analisis OverTheWire Bandit dalam Membangun Pemahaman Linux sebagai Fondasi Keamanan Sistem | NovanSetiadi | [Read More](https://medium.com/p/fcec8329c0e7) |
 | Sun, 15 Feb 2026 20:51:20 GMT | Microsoft Active Directory and Azure Active Directory as a Hybrid Identity and Access Management… | Jerry Kuri | [Read More](https://medium.com/p/ad7f19375d11) |
 | Sun, 15 Feb 2026 20:50:28 GMT | TryHackMe Writeup: The Phishing Pond | Berkay AĞGÜL | [Read More](https://medium.com/p/9e13e802a55c) |
 | Sun, 15 Feb 2026 20:42:42 GMT | Dijital Arka Kapı: Bir Komutla Gelen Felaket | Toprak Külekçioğlu | [Read More](https://medium.com/p/6ac791727b21) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Feb 2026 15:56:34 GMT | AI Surveillance : A Cybersecurity Perspective | Aditya Kucharlapati | [Read More](https://medium.com/p/d6495caf70ed) |
 | Sun, 15 Feb 2026 15:52:47 GMT | What Is CORS and Why Does It Exist? | Sanjeevani Bhandari | [Read More](https://medium.com/p/63bd3233886d) |
 | Sun, 15 Feb 2026 15:50:29 GMT | Lumma Stealer & FakeCAPTCHA: Heker makin pinter atau kalian yang gangerti cara pake Windows? | Obscura Nera | [Read More](https://medium.com/p/0343e91ce726) |
-| Sun, 15 Feb 2026 15:40:11 GMT | How I Discovered React2Shell (CVE-2025–55182) During a VAPT Engagement Using a Simple Browser… | prometheus | [Read More](https://medium.com/p/c797346faca1) |
-| Sun, 15 Feb 2026 15:40:04 GMT | When Privacy Becomes a Privilege | saanvi | [Read More](https://medium.com/p/a29f000f1738) |
-| Sun, 15 Feb 2026 15:30:51 GMT | How Digital Forensics Exposes Online Deception: | Dusk Protocol Forensic - Investigations & Insights | [Read More](https://medium.com/p/b14a9158ad0b) |
-| Sun, 15 Feb 2026 15:29:46 GMT | Lumma Stealer: Malware Berbahaya Menyamar Menjadi CAPTCHA Palsu | Velskynotfound | [Read More](https://medium.com/p/1bf4657222d0) |
-| Sun, 15 Feb 2026 15:24:44 GMT | Ein PSsystec-Blick auf die Munich Security Conference 2026 | PSsystec | [Read More](https://medium.com/p/0a440e7aa9e6) |
-| Sun, 15 Feb 2026 15:22:17 GMT | How I Hacked My Own AWS Account: Simulating the $80M Capital One Breach | Karol | [Read More](https://medium.com/p/a6249144b3dd) |
