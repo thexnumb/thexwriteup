@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Feb 2026 12:45:55 GMT | Email Security : What is SPF and Why it Matters | Yuvashree | [Read More](https://medium.com/p/5491fbec0ab2) |
+| Sun, 15 Feb 2026 12:41:16 GMT | OpenClaw: The Lobster That’s Eating Silicon Valley’s Lunch (And Your To-Do List) | Peter Njuguna | [Read More](https://medium.com/p/803c4e69d641) |
+| Sun, 15 Feb 2026 12:39:21 GMT | Build Your Own AI-Powered Telegram Bot with Python | VXRL | [Read More](https://medium.com/p/aa4bb558122f) |
+| Sun, 15 Feb 2026 12:32:57 GMT | SC-300 Lab1: Identity Lifecycle Management & Enterprise Skalierbarkeit in Microsoft Entra ID | S.Kaya | [Read More](https://medium.com/p/319de224aec5) |
+| Sun, 15 Feb 2026 12:32:24 GMT | The “Invisible Wall”: Balancing Ironclad Security with a Frictionless Checkout | Devaki Joshi | [Read More](https://medium.com/p/10b54c306e96) |
+| Sun, 15 Feb 2026 12:31:01 GMT | When RAG Meets Permissions, Things Break Fast | Hash Block | [Read More](https://medium.com/p/fe459d06d07c) |
+| Sun, 15 Feb 2026 12:31:01 GMT | I Tried “Agents as Teammates” — Logs Weren’t Enough | Bhagya Rana | [Read More](https://medium.com/p/25d75df11327) |
+| Sun, 15 Feb 2026 12:28:57 GMT | Cyber Law, Private Security and Societal Resilience: How UK Legislation Applies to Private Security… | Resilience Reflections | [Read More](https://medium.com/p/416765f4c0a4) |
+| Sun, 15 Feb 2026 12:21:13 GMT | Why should Pakistan include Cybersecurity in its National Security Strategy? | Samar Khalid - Global Affairs & Politics | [Read More](https://medium.com/p/a3a95f44255d) |
+| Sun, 15 Feb 2026 12:20:47 GMT | Introduction to Hacking, Virtual Machines, Linux, and Networking | Alsuhails | [Read More](https://medium.com/p/7b8acba3c371) |
+| Sun, 15 Feb 2026 12:20:30 GMT | Bulut Güvenliği 101: AWS Ekosisteminde Uçtan Uca Güvenlik Rehberi | Arda Cinar | [Read More](https://medium.com/p/f145728e116d) |
+| Sun, 15 Feb 2026 12:17:47 GMT | Will AI Take Over Cybersecurity Jobs? The Hidden Dark Side Revealed” | Su Lav | [Read More](https://medium.com/p/5e7f43721032) |
+| Sun, 15 Feb 2026 12:17:30 GMT | The Security Afterthought: Why You Won’t Care Until You’re on the Front Page | Joel Dickson | [Read More](https://medium.com/p/ddb9d63ed876) |
+| Sun, 15 Feb 2026 12:14:19 GMT | Warm-Up — 3 Chall Forensic | Yrddry | [Read More](https://medium.com/p/2f9347696a43) |
+| Sun, 15 Feb 2026 12:12:39 GMT | Wallet Security on STONfi in the TON Ecosystem | Raiden Crypto | [Read More](https://medium.com/p/be150a4febe6) |
+| Sun, 15 Feb 2026 11:59:16 GMT | LLM Security Guide for CTOs and IT Security Officers Working on AI Projects in 2026 | SapientPro | [Read More](https://medium.com/p/2e13f7a78ff7) |
+| Sun, 15 Feb 2026 11:58:24 GMT | # OIBSIP Internship Experience — Cybersecurity Domain 
+## Oasis Infobyte Internship Program… | Yashaswi | [Read More](https://medium.com/p/63e2aa3d2467) |
 | Sun, 15 Feb 2026 11:45:48 GMT | Why the ISC2 Certified in Cybersecurity (CC) Could Be the Smartest Career Move You Make This Year | berastis | [Read More](https://medium.com/p/a72e6f09c6fc) |
 | Sun, 15 Feb 2026 11:38:03 GMT | Ollie (TryHackMe) — Complete Walkthrough | Roshan Rajbanshi | [Read More](https://medium.com/p/6b96226b9cb6) |
 | Sun, 15 Feb 2026 11:37:59 GMT | 10 Essential DNS Tools for Developers & SysAdmins in 2026 | Rudraanshprajapati | [Read More](https://medium.com/p/c4eeb4c7597a) |
@@ -98,20 +116,3 @@ so your soul never has to learn another language | Yours Only | [Read More](http
 | Sun, 15 Feb 2026 07:06:55 GMT | Why Most QR Scanners Are Unsafe — And How Browser-Based Scanning Fixes It | Naimul Hasan | [Read More](https://medium.com/p/ffe27bcc5593) |
 | Sun, 15 Feb 2026 07:04:29 GMT | Prevent SQL injection by using parameterised queries instead of concatenating user input | Ankit | [Read More](https://medium.com/p/3219b1f27d28) |
 | Sun, 15 Feb 2026 06:59:37 GMT | One Click Is All It Takes: The Hidden Danger of Clickjacking Attacks | MhmdSec | [Read More](https://medium.com/p/c6d3cd263a4f) |
-| Sun, 15 Feb 2026 06:53:55 GMT | Sisi Gelap “fake CAPTCHA: Analisis Mendalam Kampanye Lumma Stealer via Cyber Kill Chain | AlfariziRamadhan | [Read More](https://medium.com/p/506995cc5788) |
-| Sun, 15 Feb 2026 06:44:26 GMT | From Autocomplete to Agent: The Liability Gap in AI Tools | James Kuhman | [Read More](https://medium.com/p/bde7eb7e7439) |
-| Sun, 15 Feb 2026 06:42:25 GMT | THE ENTROPY TRAP: The Architecture of Digital Erosion | Mehmet Turgay AKALIN | [Read More](https://medium.com/p/3f762353ca89) |
-| Sun, 15 Feb 2026 06:32:32 GMT | The Cryptography Concept Journey — Quantum Computing | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/dfa989dbb4e0) |
-| Sun, 15 Feb 2026 06:32:03 GMT | A Hacker Just Needs One Unpatched Server. They Found 8,500 of Them. | Soumyadipta Birabar | [Read More](https://medium.com/p/b1d62d56e6f4) |
-| Sun, 15 Feb 2026 06:31:00 GMT | Registry Keys: Persistence, Configuration, and Clues | Ankita Sinha | [Read More](https://medium.com/p/0d7701996b1f) |
-| Sun, 15 Feb 2026 06:18:37 GMT | Trust Between Machines: The Missing Layer in the Age of Autonomous AI Agents | Juan Pablo Castro | [Read More](https://medium.com/p/69c36dc0901d) |
-| Sun, 15 Feb 2026 06:04:17 GMT | Why I Left the Bug Bounty “Grind” to Secure Global Infrastructure | sivaaditya | [Read More](https://medium.com/p/af332f2ce6e3) |
-| Sun, 15 Feb 2026 05:55:17 GMT | Insider Threat Detection in Financial Services: A Real-World Validated Multi-Agent LLM Framework | Terrence Cai | [Read More](https://medium.com/p/13d4e9dafecb) |
-| Sun, 15 Feb 2026 05:52:09 GMT | How Malware Attacks Happen (And How to Protect Yourself) | Ademola Adebambo | [Read More](https://medium.com/p/1bd953b5f460) |
-| Sun, 15 Feb 2026 05:51:27 GMT | Cybersecurity Isn’t Underfunded — It’s Undermanaged | JC Gaillard | [Read More](https://medium.com/p/5ef64d660adb) |
-| Sun, 15 Feb 2026 05:44:19 GMT | Day 05: Cyber Kill Chain, Alert Reporting, Escalation, and SOC Communication | Muhammad Kashif | [Read More](https://medium.com/p/da133b5920b7) |
-| Sun, 15 Feb 2026 05:40:13 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/982ce8414bbf) |
-| Sun, 15 Feb 2026 05:35:55 GMT | Understanding Open Redirect Vulnerabilities: A Complete Guide for Bug Hunters | MhmdSec | [Read More](https://medium.com/p/e3f2af3ee499) |
-| Sun, 15 Feb 2026 05:27:46 GMT | Kampanye Lumma Stealer melalui Fake CAPTCHA: Analisis Cyber Kill Chain | Abdullahrichie | [Read More](https://medium.com/p/34809f968c84) |
-| Sun, 15 Feb 2026 05:27:35 GMT | TryHackMe LazyAdmin — A Story of Backup Leaks and Dangerous Sudo | Arun1x | [Read More](https://medium.com/p/6d614d8bf434) |
-| Sun, 15 Feb 2026 05:19:58 GMT | HAWK_II — Cryptography Challenge Writeup | Cyb0rgBytes | [Read More](https://medium.com/p/9b32187f4dd5) |
