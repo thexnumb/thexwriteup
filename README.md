@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Feb 2026 02:14:28 GMT | Top Bluesky SOCMINT Tools-OSINT | loyalonlytoday | [Read More](https://medium.com/p/068050d95933) |
+| Sun, 15 Feb 2026 02:11:45 GMT | One Week Review of Minion | Nwosu Rosemary | [Read More](https://medium.com/p/54468661ea18) |
+| Sun, 15 Feb 2026 02:07:18 GMT | Task 1 Pentesting: Lumma Stealer (Fake CAPTCHA) | Manzil | [Read More](https://medium.com/p/ef225e262a6c) |
+| Sun, 15 Feb 2026 02:05:01 GMT | Tugas IDN Bootcamp: Kuasain Linux Lewat Bandit Wargame | Zulfianarahmi | [Read More](https://medium.com/p/769e1abe2093) |
+| Sun, 15 Feb 2026 01:45:16 GMT | Hardening Claude Code: A Security Review Framework and the Prompt That Does It For You | Tim McAllister | [Read More](https://medium.com/p/c546831f2cec) |
+| Sun, 15 Feb 2026 01:17:39 GMT | When Order State Changes Too Early: How Logic Timing Creates Financial Bugs | Elia carlos | [Read More](https://medium.com/p/ae970f1aceac) |
+| Sun, 15 Feb 2026 00:40:34 GMT | 10 Ways to leverage AI for Vulnerability Research and Penetration Testing | offsec97 | [Read More](https://medium.com/p/a06efab34666) |
+| Sun, 15 Feb 2026 00:24:15 GMT | What is Phishing? Examples and How to Protect Yourself | Ademola Adebambo | [Read More](https://medium.com/p/de51d45ab3cb) |
+| Sun, 15 Feb 2026 00:12:34 GMT | Part 2: Feeding the SIEM — Shipping Windows Logs via Winlogbeat | Karim roshdy | [Read More](https://medium.com/p/3c1e31aa0362) |
+| Sun, 15 Feb 2026 00:09:16 GMT | Introduction to Digital Forensics — Lab 01 Write-Up | I Tsarakrizmi | [Read More](https://medium.com/p/373f13c1a0e4) |
+| Sun, 15 Feb 2026 00:05:42 GMT | Write Up Cyber Defense ID-Networkers: Week 1 | Ray D | [Read More](https://medium.com/p/380e09f81286) |
+| Sat, 14 Feb 2026 23:53:59 GMT | Tools used to track username reuse across different platforms | Cyberhamid | [Read More](https://medium.com/p/b211cf0957aa) |
+| Sat, 14 Feb 2026 23:45:46 GMT | The $15,000 Semicolon | Abdelkafi Habbeddine | [Read More](https://medium.com/p/4d3051be959a) |
 | Sat, 14 Feb 2026 23:37:33 GMT | Your Email, Calendar, and Video Calls Are Leaking — Here’s the Fix | Azazul | [Read More](https://medium.com/p/89250cb4cf28) |
 | Sat, 14 Feb 2026 23:36:04 GMT | Let AI Build Full-Stack Apps Safely with Docker Sandboxes | Doran Gao | [Read More](https://medium.com/p/895de3635443) |
 | Sat, 14 Feb 2026 23:33:31 GMT | T1110–003 Lab — CyberDefender Challenge | Moinuddin Ahmed | [Read More](https://medium.com/p/dd856f1ccfa3) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Feb 2026 16:23:01 GMT | Vulnerability scanning DVWA with metasploit | Mylescorey | [Read More](https://medium.com/p/ac500d975a07) |
 | Sat, 14 Feb 2026 16:19:13 GMT | Post-Quantum Security : Challenges, Impact, and the Future of Cryptography | Chehan Lasindu | [Read More](https://medium.com/p/fb55d81c9c7b) |
 | Sat, 14 Feb 2026 16:19:02 GMT | Linux Commands for Pentesters | Himanshu | [Read More](https://medium.com/p/3f69dd96f524) |
-| Sat, 14 Feb 2026 16:17:49 GMT | macOS Under Fire: Threat Actors Abuse Claude Artifacts and Google Ads to Deliver Malware | Chetan Seripally | [Read More](https://medium.com/p/f08ee8371576) |
-| Sat, 14 Feb 2026 16:16:54 GMT | How I Found a Reflected XSS in 5 Minutes by Hunting Smart, Not Hard | Birbhan Singh | [Read More](https://medium.com/p/27231b7cabd6) |
-| Sat, 14 Feb 2026 16:13:34 GMT | Understanding Inheritance in Solidity: Building Modular and Secure Smart Contracts | Akinkunmi Morakinyo | [Read More](https://medium.com/p/8d51b7c1e184) |
-| Sat, 14 Feb 2026 16:08:06 GMT | The Ultimate Hack: How God Bypassed the “Jeconiah Curse” Firewall | Nicholas Mullenski | [Read More](https://medium.com/p/0136ade4b1b7) |
-| Sat, 14 Feb 2026 16:07:27 GMT | Introduction to Digital Forensics - Lab-01 Digital Forensics | Masrul Hadi | [Read More](https://medium.com/p/9b331cd29394) |
-| Sat, 14 Feb 2026 16:03:52 GMT | Advancing Chat Security: Asymmetric Encryption for Scalable Web Applications | Tusharlaad | [Read More](https://medium.com/p/6faafd2c6bca) |
-| Sat, 14 Feb 2026 16:01:01 GMT | Know Thy Enemy: How Chain-of-Thought Fine-Tuning Defends LLMs Against Prompt Injection | Suchitra Malimbada | [Read More](https://medium.com/p/64d382b2c640) |
-| Sat, 14 Feb 2026 15:59:26 GMT | From Theory to Real Recon: How a CTF Lab Changed the Way I See Website Footprinting (eJPT Day 5) | getroot.dev | [Read More](https://medium.com/p/2b9b55041aa3) |
-| Sat, 14 Feb 2026 15:57:26 GMT | ANALYSIS OF A REAL-WORLD PHISHING EMAIL(THE URGENT INVOICE) | Onoja Agbo John | [Read More](https://medium.com/p/e861244d91e3) |
-| Sat, 14 Feb 2026 15:54:56 GMT | How Breached Credentials Revealed an API Nobody Knew Existed | Iski | [Read More](https://medium.com/p/c28890df4fe1) |
-| Sat, 14 Feb 2026 15:53:07 GMT | Manual SQL Injection to Admin Takeover - SQLite Exploitation, Hash Cracking & Cookie Manipulation | NullSecurityX | [Read More](https://medium.com/p/7ac0751db2ab) |
-| Sat, 14 Feb 2026 15:53:00 GMT | Building the Data Logistics Hub: The Strategy — 2026/02/14 — Part 2 | Martyn Jones | [Read More](https://medium.com/p/af90421fd43a) |
-| Sat, 14 Feb 2026 15:43:55 GMT | “ClickFix”: Saat CAPTCHA Menjadi Senjata Pemusnah Data (Bedah Lumma Stealer) | Dinandputra | [Read More](https://medium.com/p/81bf07736cb2) |
