@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Feb 2026 17:51:37 GMT | What Breaks During Port Scanning at Scale - Falcoria Part 1 | 2s1one | [Read More](https://medium.com/p/aa84945e7550) |
+| Sun, 15 Feb 2026 17:46:01 GMT | Security Operations | Binesh gurung | [Read More](https://medium.com/p/9af40afbc2a9) |
+| Sun, 15 Feb 2026 17:43:07 GMT | CryptographyVulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/28a66f949ac1) |
+| Sun, 15 Feb 2026 17:41:13 GMT | Is the tech industry stagnating? | Cross Wires News | [Read More](https://medium.com/p/46ca8b09eaee) |
+| Sun, 15 Feb 2026 17:40:31 GMT | KYC Is Dead. We Just Haven’t Admitted It. | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/41453bcdd445) |
+| Sun, 15 Feb 2026 17:38:38 GMT | Why Open Architecture is Game-Changing for Security Teams | Graylog | [Read More](https://medium.com/p/847c9d4214d1) |
+| Sun, 15 Feb 2026 17:37:37 GMT | Chaining Vulnerabilities THM | pad1ryoshi | [Read More](https://medium.com/p/1e79f799a2e6) |
+| Sun, 15 Feb 2026 17:33:18 GMT | AllSafe Android Challenge Walkthrough | 0X0DOoOM | [Read More](https://medium.com/p/ac7cc38b96e3) |
+| Sun, 15 Feb 2026 17:29:08 GMT | ANALISIS SERANGAN LUMMA STEALER DENGAN METODE FAKE CAPTCHA BERDASARKAN CYBER KILL CHAIN | M Abdul Hadi A | [Read More](https://medium.com/p/53d215270aa5) |
+| Sun, 15 Feb 2026 17:26:48 GMT | TCM PNPT personal experience | Osama Elghazaly | [Read More](https://medium.com/p/a92fed2aefbb) |
+| Sun, 15 Feb 2026 17:21:38 GMT | Roadmap for Malware Development and Evasion | Cyb0rgBytes | [Read More](https://medium.com/p/ad55d79c5bbe) |
 | Sun, 15 Feb 2026 17:16:01 GMT | Uncovering the Basics: Digital Forensics Lab 01 Walkthrough | Abdullah Fatih  Al Huda | [Read More](https://medium.com/p/f1b90532b22e) |
 | Sun, 15 Feb 2026 17:07:57 GMT | Moltworker: Your Personal AI Assistant on Cloudflare (No Mac Mini Required!) | Precious Kweku Obeng | [Read More](https://medium.com/p/f0362bbbec65) |
 | Sun, 15 Feb 2026 17:03:58 GMT | How I Discovered an Email Verification Misbinding Leading to Privilege Escalation | Mostafa shaban | [Read More](https://medium.com/p/7cc1ffc6ce01) |
@@ -101,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Feb 2026 12:17:47 GMT | Will AI Take Over Cybersecurity Jobs? The Hidden Dark Side Revealed” | Su Lav | [Read More](https://medium.com/p/5e7f43721032) |
 | Sun, 15 Feb 2026 12:17:30 GMT | The Security Afterthought: Why You Won’t Care Until You’re on the Front Page | Joel Dickson | [Read More](https://medium.com/p/ddb9d63ed876) |
 | Sun, 15 Feb 2026 12:14:19 GMT | Warm-Up — 3 Chall Forensic | Yrddry | [Read More](https://medium.com/p/2f9347696a43) |
-| Sun, 15 Feb 2026 12:12:39 GMT | Wallet Security on STONfi in the TON Ecosystem | Raiden Crypto | [Read More](https://medium.com/p/be150a4febe6) |
-| Sun, 15 Feb 2026 11:59:16 GMT | LLM Security Guide for CTOs and IT Security Officers Working on AI Projects in 2026 | SapientPro | [Read More](https://medium.com/p/2e13f7a78ff7) |
-| Sun, 15 Feb 2026 11:58:24 GMT | # OIBSIP Internship Experience — Cybersecurity Domain 
-## Oasis Infobyte Internship Program… | Yashaswi | [Read More](https://medium.com/p/63e2aa3d2467) |
-| Sun, 15 Feb 2026 11:45:48 GMT | Why the ISC2 Certified in Cybersecurity (CC) Could Be the Smartest Career Move You Make This Year | berastis | [Read More](https://medium.com/p/a72e6f09c6fc) |
-| Sun, 15 Feb 2026 11:38:03 GMT | Ollie (TryHackMe) — Complete Walkthrough | Roshan Rajbanshi | [Read More](https://medium.com/p/6b96226b9cb6) |
-| Sun, 15 Feb 2026 11:37:59 GMT | 10 Essential DNS Tools for Developers & SysAdmins in 2026 | Rudraanshprajapati | [Read More](https://medium.com/p/c4eeb4c7597a) |
-| Sun, 15 Feb 2026 11:37:48 GMT | Types of VPN and VPN Protocols: Beginner’s Guide | Jibriel Jeelani | [Read More](https://medium.com/p/74a32d7fca8a) |
-| Sun, 15 Feb 2026 11:31:07 GMT | Model Armor: The Invisible Shield Protecting AI From Threats | Preet Hirani | [Read More](https://medium.com/p/68d8cdd11581) |
-| Sun, 15 Feb 2026 11:30:07 GMT | Kabloların Ötesinde: İnternetin Görünmez Mimarisi ve Siber Güvenliğin Network Temelleri️ | ahmetesatakkus | [Read More](https://medium.com/p/10fb8a378cb1) |
-| Sun, 15 Feb 2026 11:29:54 GMT | Day 15: Windows Internals | Siddhesh Patil | [Read More](https://medium.com/p/24516492395f) |
-| Sun, 15 Feb 2026 11:20:35 GMT | PortSwigger: Race conditions Labs | Abdelhamid Elbouz | [Read More](https://medium.com/p/a0b7a3980ace) |
