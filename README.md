@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Feb 2026 16:31:00 GMT | 15 Agent Guardrails That Don’t Depend on Prompt Luck | Hash Block | [Read More](https://medium.com/p/1f74bb3aa665) |
+| Sun, 15 Feb 2026 16:28:28 GMT | The Simple Cybersecurity Checklist Everyone Should Follow | Richard Buchfink | [Read More](https://medium.com/p/3718141e6c4d) |
+| Sun, 15 Feb 2026 16:24:55 GMT | Cyber Defense Warm-Up (CTF Write-Ups) | Annisa Eka Putri | [Read More](https://medium.com/p/92252106f449) |
+| Sun, 15 Feb 2026 16:21:53 GMT | Week 1 Digital Forensik Lab-01 | Artha Bangkit Auliano | [Read More](https://medium.com/p/af554bf17c0b) |
+| Sun, 15 Feb 2026 16:17:54 GMT | Email Spoofing Security: DKIM | Duncan Hurwood | [Read More](https://medium.com/p/64dfe06ab3ee) |
+| Sun, 15 Feb 2026 16:16:28 GMT | Email Defence: SPF | Duncan Hurwood | [Read More](https://medium.com/p/7847fe8c9e7b) |
+| Sun, 15 Feb 2026 16:16:10 GMT | Vulnerability scanning with Metasploit | Mylescorey | [Read More](https://medium.com/p/bc962ba212bb) |
+| Sun, 15 Feb 2026 16:13:52 GMT | The Pattern I Keep Repeating | InHerMind | [Read More](https://medium.com/p/1d2356226611) |
+| Sun, 15 Feb 2026 16:04:42 GMT | Discovering Security Weaknesses: A Practical Guide to Vulnerability Scanning | Allen Ace | [Read More](https://medium.com/p/30b2785b828f) |
+| Sun, 15 Feb 2026 16:02:33 GMT | How Does Data Actually Travel Without Getting Stolen or Delayed? | Siddhesh Y. | [Read More](https://medium.com/p/0dee3e6efe74) |
+| Sun, 15 Feb 2026 16:01:01 GMT | DNS Hijacking: How Websites Get Redirected Overnight | satyaranjan bal | [Read More](https://medium.com/p/fa4040e5336c) |
+| Sun, 15 Feb 2026 15:56:34 GMT | AI Surveillance : A Cybersecurity Perspective | Aditya Kucharlapati | [Read More](https://medium.com/p/d6495caf70ed) |
+| Sun, 15 Feb 2026 15:52:47 GMT | What Is CORS and Why Does It Exist? | Sanjeevani Bhandari | [Read More](https://medium.com/p/63bd3233886d) |
+| Sun, 15 Feb 2026 15:50:29 GMT | Lumma Stealer & FakeCAPTCHA: Heker makin pinter atau kalian yang gangerti cara pake Windows? | Obscura Nera | [Read More](https://medium.com/p/0343e91ce726) |
+| Sun, 15 Feb 2026 15:40:11 GMT | How I Discovered React2Shell (CVE-2025–55182) During a VAPT Engagement Using a Simple Browser… | prometheus | [Read More](https://medium.com/p/c797346faca1) |
+| Sun, 15 Feb 2026 15:40:04 GMT | When Privacy Becomes a Privilege | saanvi | [Read More](https://medium.com/p/a29f000f1738) |
+| Sun, 15 Feb 2026 15:30:51 GMT | How Digital Forensics Exposes Online Deception: | Dusk Protocol Forensic - Investigations & Insights | [Read More](https://medium.com/p/b14a9158ad0b) |
 | Sun, 15 Feb 2026 15:24:44 GMT | Ein PSsystec-Blick auf die Munich Security Conference 2026 | PSsystec | [Read More](https://medium.com/p/0a440e7aa9e6) |
 | Sun, 15 Feb 2026 15:22:17 GMT | How I Hacked My Own AWS Account: Simulating the $80M Capital One Breach | Karol | [Read More](https://medium.com/p/a6249144b3dd) |
 | Sun, 15 Feb 2026 15:18:13 GMT | Breaking Into DarkHole V2: From Zero to Root | HEKKO | [Read More](https://medium.com/p/9977a50a437e) |
@@ -96,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Feb 2026 11:01:01 GMT | What Happens When Someone Deepfakes Your Kid? | Greg Dessau | [Read More](https://medium.com/p/1716727b43b7) |
 | Sun, 15 Feb 2026 11:01:00 GMT | The Missing Link in Your AI Strategy: Why “Pre-AI Processing” is the 2026 Security Standard | KDAN PDF - Productivity Lab | [Read More](https://medium.com/p/b35d7eacb952) |
 | Sun, 15 Feb 2026 11:00:39 GMT | Introduction to Digital Forensics (Lab 01) | 0w0 | [Read More](https://medium.com/p/9a1357d73d04) |
-| Sun, 15 Feb 2026 10:41:42 GMT | Part 2 - Zero-Persistence Cryptography: Why Ephemeral Keys Eliminate Breach Liability | PhantomKey Technologies | [Read More](https://medium.com/p/6dac382e5f14) |
-| Sun, 15 Feb 2026 10:35:15 GMT | Agentic AI Is Not a Tool. It’s a Decision Shift — And Most People Aren’t Ready | Germano Costi | [Read More](https://medium.com/p/6174a5e617bf) |
-| Sun, 15 Feb 2026 10:28:48 GMT | Why “Never Trust, Always Verify” Is Becoming the Default Security Model | Jyoti Joshi | [Read More](https://medium.com/p/9967f77a49f3) |
-| Sun, 15 Feb 2026 10:27:52 GMT | Building a Bulletproof Linux Server — Ep. #1: Introduction | Abdul-mu'min Omotola | [Read More](https://medium.com/p/c815fae47d12) |
-| Sun, 15 Feb 2026 10:27:27 GMT | Username enumeration via different responses Portswigger Lab | Amrik Hore | [Read More](https://medium.com/p/4769eec10931) |
-| Sun, 15 Feb 2026 10:27:13 GMT | WarmUP 3 chall picoCTF | Farizyuanda | [Read More](https://medium.com/p/af142648cfb4) |
-| Sun, 15 Feb 2026 10:27:07 GMT | CafeClub writeup (Business Logic) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/cfcb2ad4bc23) |
-| Sun, 15 Feb 2026 10:18:34 GMT | TryHeartMe: Write-Up (JWT Exploitation) | Georgi Hadzhinikiforov | [Read More](https://medium.com/p/50718e10d366) |
-| Sun, 15 Feb 2026 10:16:50 GMT | ️ Part 5 — Find and Remove Duplicate Files Safely with Python | ghostyjoe | [Read More](https://medium.com/p/dbe994e4418e) |
-| Sun, 15 Feb 2026 10:16:22 GMT | The Great Tech Exodus: Why Successful Workers Are Walking Away | Shivam Maurya | [Read More](https://medium.com/p/61bfc55424cd) |
-| Sun, 15 Feb 2026 10:16:18 GMT | Hidden Deep Into my Heart: TryHackMe Valentines Challenge | Bridget | [Read More](https://medium.com/p/77af0c648943) |
-| Sun, 15 Feb 2026 10:16:06 GMT | I Passed the TryHackMe SEC1 Exam — Quick Notes for Future Test Takers | Himanshu | [Read More](https://medium.com/p/e9bbf978edab) |
-| Sun, 15 Feb 2026 10:11:23 GMT | Learning Forensics with picoCTF (Easy): 3 Beginner Challenges Walkthrough | Adindazara | [Read More](https://medium.com/p/ffbf189c4552) |
-| Sun, 15 Feb 2026 10:09:58 GMT | Password Protect a Text File | Ascend IT Services | [Read More](https://medium.com/p/d085961d20d8) |
-| Sun, 15 Feb 2026 10:07:01 GMT | 7 Deadly Dangers: Why Free IPTV Playlists 2026 are a Total Scam | Yeah-iptv.tv | [Read More](https://medium.com/p/ee8cb41d5e78) |
-| Sun, 15 Feb 2026 10:06:01 GMT | Cybersecurity Career Transition: How to Switch Careers Successfully | Victoria Coker | [Read More](https://medium.com/p/95009fbc9e6a) |
-| Sun, 15 Feb 2026 10:05:35 GMT | Solving the “Flag in Flame” CTF challenge from “https://play.picoctf.org/” | Riconatanael | [Read More](https://medium.com/p/697e27b1b4e2) |
