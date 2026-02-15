@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Feb 2026 10:41:42 GMT | Part 2 - Zero-Persistence Cryptography: Why Ephemeral Keys Eliminate Breach Liability | PhantomKey Technologies | [Read More](https://medium.com/p/6dac382e5f14) |
+| Sun, 15 Feb 2026 10:35:15 GMT | Agentic AI Is Not a Tool. It’s a Decision Shift — And Most People Aren’t Ready | Germano Costi | [Read More](https://medium.com/p/6174a5e617bf) |
+| Sun, 15 Feb 2026 10:28:48 GMT | Why “Never Trust, Always Verify” Is Becoming the Default Security Model | Jyoti Joshi | [Read More](https://medium.com/p/9967f77a49f3) |
+| Sun, 15 Feb 2026 10:27:52 GMT | Building a Bulletproof Linux Server — Ep. #1: Introduction | Abdul-mu'min Omotola | [Read More](https://medium.com/p/c815fae47d12) |
+| Sun, 15 Feb 2026 10:27:27 GMT | Username enumeration via different responses Portswigger Lab | Amrik Hore | [Read More](https://medium.com/p/4769eec10931) |
+| Sun, 15 Feb 2026 10:27:13 GMT | WarmUP 3 chall picoCTF | Farizyuanda | [Read More](https://medium.com/p/af142648cfb4) |
+| Sun, 15 Feb 2026 10:27:07 GMT | CafeClub writeup (Business Logic) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/cfcb2ad4bc23) |
+| Sun, 15 Feb 2026 10:18:34 GMT | TryHeartMe: Write-Up (JWT Exploitation) | Georgi Hadzhinikiforov | [Read More](https://medium.com/p/50718e10d366) |
+| Sun, 15 Feb 2026 10:16:50 GMT | ️ Part 5 — Find and Remove Duplicate Files Safely with Python | ghostyjoe | [Read More](https://medium.com/p/dbe994e4418e) |
 | Sun, 15 Feb 2026 10:16:22 GMT | The Great Tech Exodus: Why Successful Workers Are Walking Away | Shivam Maurya | [Read More](https://medium.com/p/61bfc55424cd) |
 | Sun, 15 Feb 2026 10:16:18 GMT | Hidden Deep Into my Heart: TryHackMe Valentines Challenge | Bridget | [Read More](https://medium.com/p/77af0c648943) |
+| Sun, 15 Feb 2026 10:16:06 GMT | I Passed the TryHackMe SEC1 Exam — Quick Notes for Future Test Takers | Himanshu | [Read More](https://medium.com/p/e9bbf978edab) |
 | Sun, 15 Feb 2026 10:11:23 GMT | Learning Forensics with picoCTF (Easy): 3 Beginner Challenges Walkthrough | Adindazara | [Read More](https://medium.com/p/ffbf189c4552) |
 | Sun, 15 Feb 2026 10:09:58 GMT | Password Protect a Text File | Ascend IT Services | [Read More](https://medium.com/p/d085961d20d8) |
 | Sun, 15 Feb 2026 10:07:01 GMT | 7 Deadly Dangers: Why Free IPTV Playlists 2026 are a Total Scam | Yeah-iptv.tv | [Read More](https://medium.com/p/ee8cb41d5e78) |
@@ -105,13 +115,3 @@ so your soul never has to learn another language | Yours Only | [Read More](http
 | Sun, 15 Feb 2026 03:12:24 GMT | iCloud Custom Domains Ship with Broken Email Security — Here’s How to Fix It | cody chamberlain | [Read More](https://medium.com/p/7b9e81e4aaaa) |
 | Sun, 15 Feb 2026 03:11:29 GMT | 10 Million Secrets, One Search Box: Inside The Library Of Leaks The Powerful Database Governments… | cybrNK | [Read More](https://medium.com/p/afa030fea6fe) |
 | Sun, 15 Feb 2026 02:41:00 GMT | Stop shipping unbounded tools: 9 ways agents exceed intent | Neurobyte | [Read More](https://medium.com/p/e4d01a7432c8) |
-| Sun, 15 Feb 2026 02:35:04 GMT | Building a Digital Trial Card Management System for Manufacturing Workflows | Dhinesh kumaran S | [Read More](https://medium.com/p/f918fec074a4) |
-| Sun, 15 Feb 2026 02:14:28 GMT | Top Bluesky SOCMINT Tools-OSINT | loyalonlytoday | [Read More](https://medium.com/p/068050d95933) |
-| Sun, 15 Feb 2026 02:11:45 GMT | One Week Review of Minion | Nwosu Rosemary | [Read More](https://medium.com/p/54468661ea18) |
-| Sun, 15 Feb 2026 02:07:18 GMT | Task 1 Pentesting: Lumma Stealer (Fake CAPTCHA) | Manzil | [Read More](https://medium.com/p/ef225e262a6c) |
-| Sun, 15 Feb 2026 02:05:01 GMT | Tugas IDN Bootcamp: Kuasain Linux Lewat Bandit Wargame | Zulfianarahmi | [Read More](https://medium.com/p/769e1abe2093) |
-| Sun, 15 Feb 2026 01:45:16 GMT | Hardening Claude Code: A Security Review Framework and the Prompt That Does It For You | Tim McAllister | [Read More](https://medium.com/p/c546831f2cec) |
-| Sun, 15 Feb 2026 01:17:39 GMT | When Order State Changes Too Early: How Logic Timing Creates Financial Bugs | Elia carlos | [Read More](https://medium.com/p/ae970f1aceac) |
-| Sun, 15 Feb 2026 00:40:34 GMT | 10 Ways to leverage AI for Vulnerability Research and Penetration Testing | offsec97 | [Read More](https://medium.com/p/a06efab34666) |
-| Sun, 15 Feb 2026 00:24:15 GMT | What is Phishing? Examples and How to Protect Yourself | Ademola Adebambo | [Read More](https://medium.com/p/de51d45ab3cb) |
-| Sun, 15 Feb 2026 00:12:34 GMT | Part 2: Feeding the SIEM — Shipping Windows Logs via Winlogbeat | Karim roshdy | [Read More](https://medium.com/p/3c1e31aa0362) |
