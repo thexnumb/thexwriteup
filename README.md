@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Feb 2026 04:46:51 GMT | TryHackMe — Nmap | Shashwat | [Read More](https://medium.com/p/b5a7ed4408bc) |
+| Sun, 15 Feb 2026 04:44:18 GMT | Zero Trust for Startups: What It Actually Means | Garrvsipani | [Read More](https://medium.com/p/c34bf7e4a4aa) |
+| Sun, 15 Feb 2026 04:41:48 GMT | Building a Self-Hosted Dark Web Monitoring Portal in 30 minutes | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/aa9a260938d7) |
+| Sun, 15 Feb 2026 04:31:05 GMT | Biometric Login in Flutter (Riverpod + Bloc) | Harsh Mittal | [Read More](https://medium.com/p/b7bcca014e80) |
+| Sun, 15 Feb 2026 04:30:04 GMT | Stop Building AI Chatbots (Do This Instead) | Shahzaib | [Read More](https://medium.com/p/a09373858f7f) |
+| Sun, 15 Feb 2026 04:29:08 GMT | Client and Server Model | Aj | [Read More](https://medium.com/p/e6516b7cc5fb) |
+| Sun, 15 Feb 2026 04:15:44 GMT | How to Start CTF From Zero: A Friendly Guide for Absolute Beginners | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/b08fbe6626c8) |
+| Sun, 15 Feb 2026 04:07:21 GMT | When Help Desk Software Becomes an Attack Vector: Deep Dive into the SolarWinds Web Help Desk RCE… | Soham Jagtap | [Read More](https://medium.com/p/146c62451609) |
+| Sun, 15 Feb 2026 03:46:17 GMT | Combatting Alert Fatigue in Security Operations: A Systems, Measurement, and Governance Perspective | Ddiaz | [Read More](https://medium.com/p/d7e888ecd2e2) |
+| Sun, 15 Feb 2026 03:37:31 GMT | TryHackMe: Love at First Breach 2026 -> Corp Website | Purvansh Bhatt | [Read More](https://medium.com/p/a8f5b1c0f9cf) |
+| Sun, 15 Feb 2026 03:23:58 GMT | AdaptixC2: The Open-Source C2 That’s Blurring the Line Between Red Team Toolkit and Real-World… | Yua Mikanana | [Read More](https://medium.com/p/7f7abb09352b) |
+| Sun, 15 Feb 2026 03:12:24 GMT | iCloud Custom Domains Ship with Broken Email Security — Here’s How to Fix It | cody chamberlain | [Read More](https://medium.com/p/7b9e81e4aaaa) |
+| Sun, 15 Feb 2026 03:11:29 GMT | 10 Million Secrets, One Search Box: Inside The Library Of Leaks The Powerful Database Governments… | cybrNK | [Read More](https://medium.com/p/afa030fea6fe) |
+| Sun, 15 Feb 2026 02:41:00 GMT | Stop shipping unbounded tools: 9 ways agents exceed intent | Neurobyte | [Read More](https://medium.com/p/e4d01a7432c8) |
+| Sun, 15 Feb 2026 02:35:04 GMT | Building a Digital Trial Card Management System for Manufacturing Workflows | Dhinesh kumaran S | [Read More](https://medium.com/p/f918fec074a4) |
 | Sun, 15 Feb 2026 02:14:28 GMT | Top Bluesky SOCMINT Tools-OSINT | loyalonlytoday | [Read More](https://medium.com/p/068050d95933) |
 | Sun, 15 Feb 2026 02:11:45 GMT | One Week Review of Minion | Nwosu Rosemary | [Read More](https://medium.com/p/54468661ea18) |
 | Sun, 15 Feb 2026 02:07:18 GMT | Task 1 Pentesting: Lumma Stealer (Fake CAPTCHA) | Manzil | [Read More](https://medium.com/p/ef225e262a6c) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Feb 2026 17:16:58 GMT | AI Entrapment: When Your Paid AI Locks You Out for RISKY chat, the Conversation IT Created | Berend Watchus | [Read More](https://medium.com/p/578e8289e60a) |
 | Sat, 14 Feb 2026 17:13:03 GMT | Day 2 : The Rabbit Hole | Armaan Nain | [Read More](https://medium.com/p/ea1576211150) |
 | Sat, 14 Feb 2026 17:08:33 GMT | Building a Thriving IT Export Economy: Aspirations from a Small-Business Founder | syedfromsylhet | [Read More](https://medium.com/p/5886e0d50533) |
-| Sat, 14 Feb 2026 17:07:20 GMT | Hunting WordPress Vulnerabilities — A Bug Bounty | Z3DX | [Read More](https://medium.com/p/4324c6782f1f) |
-| Sat, 14 Feb 2026 17:04:59 GMT | How to Remove Keyloggers & Spyware Safely (Without Losing Your Data) | Nazrul Islam Rana | [Read More](https://medium.com/p/8eb069618b95) |
-| Sat, 14 Feb 2026 17:01:00 GMT | Crypto Launchpad Development Under Load: What Breaks First (and What Holds) | ChainGPT | [Read More](https://medium.com/p/80d1371a414e) |
-| Sat, 14 Feb 2026 16:56:01 GMT | Ransomware Meets AI: The New Breeds of Attacks Targeting Diagnostic Devices | Michael Adedeji | [Read More](https://medium.com/p/ba71594ddd11) |
-| Sat, 14 Feb 2026 16:48:57 GMT | How Real Red Teams Chain Small Misconfigurations into Full Domain Compromise | Cynox Security LLP. | [Read More](https://medium.com/p/a0f02707555d) |
-| Sat, 14 Feb 2026 16:47:57 GMT | TryHackMe - Computer Types - WriteUp | Axoloth | [Read More](https://medium.com/p/c207778dda10) |
-| Sat, 14 Feb 2026 16:44:00 GMT | A Place to Hang My Hats | Jessica Gasbarro | [Read More](https://medium.com/p/99ee033ac428) |
-| Sat, 14 Feb 2026 16:40:31 GMT | TryHackMe - Inside a Computer System - WriteUp | Axoloth | [Read More](https://medium.com/p/564d4248036e) |
-| Sat, 14 Feb 2026 16:30:00 GMT | I’ve realized that when you change the words to make them lighter, you lose the gravity of the… | iknowhowtowrite | [Read More](https://medium.com/p/ceae6a93b44c) |
-| Sat, 14 Feb 2026 16:27:20 GMT | Brittle ZITADEL! Why Self Hosting Feels Brittle and What To Do Next | Niraj Kumar | [Read More](https://medium.com/p/70566cfc43a1) |
-| Sat, 14 Feb 2026 16:25:05 GMT | Why HTTPS Command Polling Often Evades AV/EDR | Derek Johnston | [Read More](https://medium.com/p/8a9041feb03f) |
-| Sat, 14 Feb 2026 16:23:08 GMT | AWS S3 Bucket Errors | Ninjeeter | [Read More](https://medium.com/p/dfeb79f5e580) |
-| Sat, 14 Feb 2026 16:23:01 GMT | Vulnerability scanning DVWA with metasploit | Mylescorey | [Read More](https://medium.com/p/ac500d975a07) |
-| Sat, 14 Feb 2026 16:19:13 GMT | Post-Quantum Security : Challenges, Impact, and the Future of Cryptography | Chehan Lasindu | [Read More](https://medium.com/p/fb55d81c9c7b) |
-| Sat, 14 Feb 2026 16:19:02 GMT | Linux Commands for Pentesters | Himanshu | [Read More](https://medium.com/p/3f69dd96f524) |
