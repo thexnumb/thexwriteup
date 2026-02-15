@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Feb 2026 14:55:14 GMT | Artificial Intelligence in Everyday Life | T Guru Karthikeya | [Read More](https://medium.com/p/5bd9b53ed874) |
+| Sun, 15 Feb 2026 14:50:42 GMT | Secure Coding in Java & Spring Boot | Vishal Lokhande | [Read More](https://medium.com/p/e57ea682efa0) |
+| Sun, 15 Feb 2026 14:45:37 GMT | Digital Forensics Lab 01 -Introduction to Digital Forensics | Aditbaps | [Read More](https://medium.com/p/bee24d42b78d) |
+| Sun, 15 Feb 2026 14:34:52 GMT | Understanding AAA in Cybersecurity: The Backbone of Access Control | Jenish Maharjan | [Read More](https://medium.com/p/7ee355247c8d) |
+| Sun, 15 Feb 2026 14:32:47 GMT | OWASP Mobile Top 10 — M2: Inadequate Supply Chain Security | Barış Kandemir | [Read More](https://medium.com/p/47f72461e4d8) |
+| Sun, 15 Feb 2026 14:32:05 GMT | OWASP Mobile Top 10 — M2: Yetersiz Tedarik Zinciri Güvenliği (Inadequate Supply Chain Security) | Barış Kandemir | [Read More](https://medium.com/p/3b1e811c6181) |
+| Sun, 15 Feb 2026 14:31:01 GMT | 10 Agent Failure Stories That Fixed Our Tool Contracts | Thinking Loop | [Read More](https://medium.com/p/08bc49c8e697) |
+| Sun, 15 Feb 2026 14:29:10 GMT | Simplifying automation at enterprise Scale: Security Copilot + Logic Apps + MCP | Yash Mudaliar | [Read More](https://medium.com/p/148667d49da9) |
+| Sun, 15 Feb 2026 14:27:37 GMT | Insecure CaptchaVulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/1efa84610e41) |
 | Sun, 15 Feb 2026 14:26:00 GMT | Beyond ChatGPT: Why Agentic AI Is the #1 Attack Surface in 2026. | Kambetastephano | [Read More](https://medium.com/p/d95d4e89326b) |
+| Sun, 15 Feb 2026 14:17:17 GMT | QRYPTA Labs: Armoring BNB Chain for the Quantum Era with PQC, ZK-STARKs, and ISO 20022 | Qrypta | [Read More](https://medium.com/p/5d0c42f26300) |
 | Sun, 15 Feb 2026 14:16:22 GMT | Container Vulnerability Scanning and Remediation | Engineer Palsu | [Read More](https://medium.com/p/5fe0d0fe0fab) |
 | Sun, 15 Feb 2026 14:15:27 GMT | WordPress Plugin Security: 11 Vulnerabilities I Found (and Fixed) in My Own Code | Pixar Labs | [Read More](https://medium.com/p/99c415247a3a) |
 | Sun, 15 Feb 2026 14:15:01 GMT | Google Dorking: The Art of Uncovering Hidden Truths Through Search | Nida Arshad | [Read More](https://medium.com/p/badb25447022) |
@@ -105,14 +115,3 @@ Cyber… | Ankit rai | [Read More](https://medium.com/p/ef3f8f9716a6) |
 | Sun, 15 Feb 2026 09:01:01 GMT | 3 LeakRadar Searches That Uncovered Forgotten Admin Panels | Alexandre Vandamme | [Read More](https://medium.com/p/916317233d2d) |
 | Sun, 15 Feb 2026 09:01:01 GMT | PhishShield AI: Advancing Cybersecurity with Real-Time Phishing Detection | Faiz Hussain | [Read More](https://medium.com/p/01f426b7a8e7) |
 | Sun, 15 Feb 2026 09:01:00 GMT | The Quiet Kind of Happiness | Oluwatomisin Pokuaa Phillips | [Read More](https://medium.com/p/e4693d85ae51) |
-| Sun, 15 Feb 2026 08:59:47 GMT | May you fall for someone who reads your pauses,
-so your soul never has to learn another language | Yours Only | [Read More](https://medium.com/p/991b1f2a56e1) |
-| Sun, 15 Feb 2026 08:59:42 GMT | ️ Threat Hunting 101: Foundations, Methodologies & Life Cycle (Part 1) | 0verRida | [Read More](https://medium.com/p/8d1ceafaf7ac) |
-| Sun, 15 Feb 2026 08:55:55 GMT | Threat Hunting 101: Tools That Power the Hunt (Part 2) | 0verRida | [Read More](https://medium.com/p/de5121c77812) |
-| Sun, 15 Feb 2026 08:55:02 GMT | Solving Riddle Registry on picoCTF using Ubuntu Desktop | Darasamsaraayu | [Read More](https://medium.com/p/ef3db883077a) |
-| Sun, 15 Feb 2026 08:53:07 GMT | Fake Recruiters Spread Malware Through Coding Assignments | Patrik Žák | [Read More](https://medium.com/p/3e006684f826) |
-| Sun, 15 Feb 2026 08:47:29 GMT | Google Cloud Shell Takeover: 3 Auto Execution Bugs | Bipin Jitiya | [Read More](https://medium.com/p/4bdd3d474804) |
-| Sun, 15 Feb 2026 08:41:10 GMT | Top 5 Cyber Attacks That Don’t Look Like Hacking at All | pavani | [Read More](https://medium.com/p/44d676ad66cb) |
-| Sun, 15 Feb 2026 08:39:29 GMT | Introduction à un microkernel applicatif en Python | Traoreera | [Read More](https://medium.com/p/74c3cd4a8789) |
-| Sun, 15 Feb 2026 08:37:20 GMT | What Kim Ju Ae’s Rise Really Means for the World and India? | Maithilee Singh | [Read More](https://medium.com/p/71d9adf59dc4) |
-| Sun, 15 Feb 2026 08:36:47 GMT | The AI Gold Rush — And the Security Storm Behind It | Vismay Patil | [Read More](https://medium.com/p/3ba12d1cdafb) |
