@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Feb 2026 22:41:28 GMT | Most Useful Linux Commands for Security Engineers | Janith Malinga | [Read More](https://medium.com/p/479dcd9d921a) |
+| Sun, 15 Feb 2026 22:37:36 GMT | Váš nový počítač vás možno špehuje — rovno z krabice | Adrian Trancik | [Read More](https://medium.com/p/146d508b4cb9) |
+| Sun, 15 Feb 2026 22:25:41 GMT | 2026 Siber Saldırıları Part-3 | Zekikayaalp | [Read More](https://medium.com/p/ff7f27d06aa7) |
 | Sun, 15 Feb 2026 22:19:51 GMT | PPL Reaper | S12 - 0x12Dark Development | [Read More](https://medium.com/p/66b380f0662f) |
 | Sun, 15 Feb 2026 22:19:39 GMT | Don’t let your OpenClaw agent go rogue! | Raj | [Read More](https://medium.com/p/1b33f8fab573) |
 | Sun, 15 Feb 2026 22:03:43 GMT | We Disclosed a Critical Exploit to a Hackathon Winning X402 Platform Security Platform. | aurasecurity | [Read More](https://medium.com/p/c094e302c915) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Feb 2026 16:24:55 GMT | Cyber Defense Warm-Up (CTF Write-Ups) | Annisa Eka Putri | [Read More](https://medium.com/p/92252106f449) |
 | Sun, 15 Feb 2026 16:21:53 GMT | Week 1 Digital Forensik Lab-01 | Artha Bangkit Auliano | [Read More](https://medium.com/p/af554bf17c0b) |
 | Sun, 15 Feb 2026 16:17:54 GMT | Email Spoofing Security: DKIM | Duncan Hurwood | [Read More](https://medium.com/p/64dfe06ab3ee) |
-| Sun, 15 Feb 2026 16:16:28 GMT | Email Defence: SPF | Duncan Hurwood | [Read More](https://medium.com/p/7847fe8c9e7b) |
-| Sun, 15 Feb 2026 16:16:10 GMT | Vulnerability scanning with Metasploit | Mylescorey | [Read More](https://medium.com/p/bc962ba212bb) |
-| Sun, 15 Feb 2026 16:13:52 GMT | The Pattern I Keep Repeating | InHerMind | [Read More](https://medium.com/p/1d2356226611) |
