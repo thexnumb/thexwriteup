@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Feb 2026 08:37:20 GMT | What Kim Ju Ae’s Rise Really Means for the World and India? | Maithilee Singh | [Read More](https://medium.com/p/71d9adf59dc4) |
+| Sun, 15 Feb 2026 08:23:47 GMT | Stabilizer: Powering Consistency in a Volatile World | Kemisola2032 | [Read More](https://medium.com/p/eda502e361aa) |
+| Sun, 15 Feb 2026 08:20:59 GMT | From Assistant to Attachment: What the ‘AI Partner’ Backlash Reveals | Aaryan Vinod Kumar | [Read More](https://medium.com/p/06f463a94182) |
+| Sun, 15 Feb 2026 07:56:29 GMT | Net Sec Challenge | Aj | [Read More](https://medium.com/p/b05a05748a89) |
+| Sun, 15 Feb 2026 07:53:25 GMT | The Production Reality: When Your Hashing Algorithm Becomes a Liability | Nahidswe | [Read More](https://medium.com/p/1d7adab70b4e) |
+| Sun, 15 Feb 2026 07:50:38 GMT | Why Your Firewall Isn’t Enough: The Power of Defense in Depth | Sithin Adiyeri | [Read More](https://medium.com/p/1cded5a7746f) |
 | Sun, 15 Feb 2026 07:48:46 GMT | Package at 3: Legal Risk, Queue Delay, and Refund Loss | James Kuhman | [Read More](https://medium.com/p/5f0e52c1b114) |
 | Sun, 15 Feb 2026 07:45:02 GMT | SVG files are everywhere — icons, logos, illustrations, UI graphics. They’re lightweight, scalable.. | Mathias Reker | [Read More](https://medium.com/p/f81989b05368) |
 | Sun, 15 Feb 2026 07:44:44 GMT | Why Bug Bounty Programs Have Scope (And Why Black Hats Don’t Care) | ghostyjoe | [Read More](https://medium.com/p/7b858b95f51d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Feb 2026 20:04:00 GMT | Understanding Responsibility, Control and Trust in Cloud Architectures: IaaS, PaaS, SaaS and the… | Kamiweb Project | [Read More](https://medium.com/p/42d7f9ac73f1) |
 | Sat, 14 Feb 2026 19:50:41 GMT | Cybersecurity Isn’t About Hackers — It’s About Boring Basics Nobody Does | Akshay kerkar | [Read More](https://medium.com/p/66f2e737b2e7) |
 | Sat, 14 Feb 2026 19:47:58 GMT | Pentest+ in 90 Days or Less (Hopefully) | cyber_0xGambit | [Read More](https://medium.com/p/489682ad1ad1) |
-| Sat, 14 Feb 2026 19:46:19 GMT | Familiar Pain | musingsfrommarc | [Read More](https://medium.com/p/fd7b05f2e86f) |
-| Sat, 14 Feb 2026 19:43:45 GMT | CSRF in GraphQL: How a “Fixed” Vulnerability Still Allowed a Bypass | Jitendra chandel | [Read More](https://medium.com/p/df1d314b6776) |
-| Sat, 14 Feb 2026 19:40:07 GMT | Ironclad: How to Protect Yourself Before Getting Hacked | Bishr Tabbaa | [Read More](https://medium.com/p/ce3900a64177) |
-| Sat, 14 Feb 2026 19:37:33 GMT | If You Get This Amazon Product Recall Message, It’s An Attack | Moni | [Read More](https://medium.com/p/20fd0c48a327) |
-| Sat, 14 Feb 2026 19:35:23 GMT | The Ghost in the Sidebar: How a Dead Side Project Became Outlook’s Most Dangerous Trojan | SOCFortress | [Read More](https://medium.com/p/36f4da1a3767) |
-| Sat, 14 Feb 2026 19:27:00 GMT | How Strong IT Leadership Reduces Technology Risk | NordicX | [Read More](https://medium.com/p/3240ca24accf) |
