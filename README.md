@@ -12,9 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Feb 2026 19:17:38 GMT | The Illusion of the “Villain” in Cyberspace | Sneha Thenkaraimaharajan | [Read More](https://medium.com/p/b78280fcfc3d) |
+| Sun, 15 Feb 2026 19:15:10 GMT | THE ARCHITECT SIGNALS THE END OF THE “OLD WORLD”: GLOBAL LAUNCH OF SOVEREIGN NETWORK UK SET FOR ‘27 | Simplified Complexity | [Read More](https://medium.com/p/31616341a498) |
+| Sun, 15 Feb 2026 19:11:40 GMT | Homelab - Detection and Threat Hunting Focused Homelab Architecture | Bilal Emre Ozgun | [Read More](https://medium.com/p/caa18fd5d158) |
+| Sun, 15 Feb 2026 19:10:00 GMT | Encryption: What is it, and how does it work? | Jibriel Jeelani | [Read More](https://medium.com/p/1975da5d2f6f) |
+| Sun, 15 Feb 2026 19:04:55 GMT | ✨ Get More from BurpSuite by Chaining It with OWASP ZAP | Yogesh Rathod | [Read More](https://medium.com/p/80ac9e104c01) |
+| Sun, 15 Feb 2026 19:04:24 GMT | Automated Sandbox Pipeline with CrowdStrike Falcon Fusion SOAR | Shraiyash Pandey | [Read More](https://medium.com/p/30445c2fed60) |
+| Sun, 15 Feb 2026 19:04:06 GMT | Homelab - Detection ve Threat Hunting Odaklı Homelab Mimarisi | Bilal Emre Ozgun | [Read More](https://medium.com/p/1193394e7e90) |
+| Sun, 15 Feb 2026 19:01:56 GMT | I Scanned 50 Small Business Domains for Security Issues. Most Got an F. | 0xN0rD | [Read More](https://medium.com/p/06fafb9d0e72) |
+| Sun, 15 Feb 2026 18:56:22 GMT | Before I Call It Love | Namitha Suresh | [Read More](https://medium.com/p/4d6fc080d265) |
+| Sun, 15 Feb 2026 18:55:00 GMT | How I built a Python C2 Server with file Encryption capabilities | Onobrakpeya Efeturi | [Read More](https://medium.com/p/16b233dbee0b) |
+| Sun, 15 Feb 2026 18:50:23 GMT | Ilusi Kotak Ajaib: Membongkar Mitos Teknologi Digital | Nasrulwahid | [Read More](https://medium.com/p/3b4ea46d9f04) |
+| Sun, 15 Feb 2026 18:46:59 GMT | The Understanding Girl | Alizabeth Amelia Rose | [Read More](https://medium.com/p/fb49f2427c33) |
+| Sun, 15 Feb 2026 18:41:04 GMT | My First Bug Bounty: A Simple OTP Flaw That Led to Account Takeover | montaser mohsen | [Read More](https://medium.com/p/7c6a73d3dce7) |
+| Sun, 15 Feb 2026 18:35:16 GMT | Secure Deployment & Hardening of Google Cloud Platform (GCP) Projects — Part IV | SOCFortress | [Read More](https://medium.com/p/c0e86d931685) |
+| Sun, 15 Feb 2026 18:34:26 GMT | [Azure] Home Office Solution using Microsoft Azure VPN Gateway | Pedro Córdova | [Read More](https://medium.com/p/016f5393abd5) |
 | Sun, 15 Feb 2026 18:32:57 GMT | Defending Small Businesses from Cyber Attacks: The SME Security Crisis | Mohammed Annan | [Read More](https://medium.com/p/1a938875561e) |
 | Sun, 15 Feb 2026 18:32:51 GMT | The Internet Never Forgets — But Your Email Should | Warren Smith | [Read More](https://medium.com/p/252db08d2f0a) |
 | Sun, 15 Feb 2026 18:32:48 GMT | What is Python in 2026? | Azhar Shaikh | [Read More](https://medium.com/p/df42c17cd328) |
+| Sun, 15 Feb 2026 18:31:52 GMT | Implementing Zero Trust in Kubernetes: Securing Ingress, Egress, and Upstream Service Connections | Tajinder Minhas | [Read More](https://medium.com/p/74f83b638c92) |
 | Sun, 15 Feb 2026 18:26:25 GMT | Weapon of Mass Exposure | Poe LeRoy | [Read More](https://medium.com/p/1a5edfe6e5a2) |
 | Sun, 15 Feb 2026 18:19:34 GMT | Cybersecurity and Privacy | Sushanthisodadasi | [Read More](https://medium.com/p/aea3df57c8b6) |
 | Sun, 15 Feb 2026 18:17:23 GMT | Wgel CTF — TryHackMe Writeup / Walkthrough | sudo_0xksh | [Read More](https://medium.com/p/fc225e16f60c) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Feb 2026 14:15:27 GMT | WordPress Plugin Security: 11 Vulnerabilities I Found (and Fixed) in My Own Code | Pixar Labs | [Read More](https://medium.com/p/99c415247a3a) |
 | Sun, 15 Feb 2026 14:15:01 GMT | Google Dorking: The Art of Uncovering Hidden Truths Through Search | Nida Arshad | [Read More](https://medium.com/p/badb25447022) |
 | Sun, 15 Feb 2026 14:11:55 GMT | Pico CTF : Hash Crack | Hendrawibowo | [Read More](https://medium.com/p/f8d82f22137d) |
-| Sun, 15 Feb 2026 14:04:17 GMT | Analisis Serangan Lumma Stealer : Membedah Taktik Fake CAPTCHA Melalui Cyber Kill Chain. | Samudra | [Read More](https://medium.com/p/4be051dc1925) |
-| Sun, 15 Feb 2026 14:02:40 GMT | Introduction to Digital Forensics - Lab-01 Digital Forensics | Elsandro Rivalito | [Read More](https://medium.com/p/d08ecc20586b) |
-| Sun, 15 Feb 2026 13:47:47 GMT | OSINT (Open Source Intelligence — Açık Kaynak İstihbaratı) 101 | Selin Oz | [Read More](https://medium.com/p/587d832ba654) |
-| Sun, 15 Feb 2026 13:44:54 GMT | How API Pen-Testers Approach Systems: Tools, Mindset, and Methodology | Madalitso Cheyo | [Read More](https://medium.com/p/779c317df6e4) |
-| Sun, 15 Feb 2026 13:44:28 GMT | Would I Recommend the Google Cybersecurity Certificate? | Mohamed dahir | [Read More](https://medium.com/p/6b43facf00fc) |
-| Sun, 15 Feb 2026 13:38:51 GMT | WE Built a Free Gym Management Software Because Gym Owners Deserved Better | SHREYESH KOLHE | [Read More](https://medium.com/p/d8bb253f3d64) |
-| Sun, 15 Feb 2026 13:35:41 GMT | Why Login Took 30 Seconds (And Nothing Was Actually Broken) | Bakhodir Khodjayev | [Read More](https://medium.com/p/5d54f7d09226) |
-| Sun, 15 Feb 2026 13:26:43 GMT | Tryhackme’s Intermediate Nmap | CyberFuFu | [Read More](https://medium.com/p/9f2c62754c6a) |
-| Sun, 15 Feb 2026 13:23:11 GMT | The Silent Space War: How China’s Satellite Hacking Threat Could Cripple America Without a Single… | Robert Morton | [Read More](https://medium.com/p/05f9db7ed2ad) |
-| Sun, 15 Feb 2026 13:13:11 GMT | Stop Using if Statements for Security: The Power of Symfony Voters | Aghar Saifeddine | [Read More](https://medium.com/p/d4d7c0806539) |
-| Sun, 15 Feb 2026 13:09:51 GMT | Jangan Asal Klik CAPTCHA ! Satu Klik, Semua Akun Hilang | Abdul Karim Tarigan | [Read More](https://medium.com/p/97af440775db) |
-| Sun, 15 Feb 2026 13:06:59 GMT | Solving the “DISKO 1” CTF challenge from “https://play.picoctf.org/” | Riconatanael | [Read More](https://medium.com/p/9b9e03812249) |
-| Sun, 15 Feb 2026 13:06:05 GMT | Flatiron School Cybersecurity & CompTIA Security+ Bootcamp Review | Rich Chen | [Read More](https://medium.com/p/fb9bff3f9f34) |
-| Sun, 15 Feb 2026 12:50:00 GMT | Teaching myself AI Agent Security (1) | ai3ech | [Read More](https://medium.com/p/e4f7c9a66cc9) |
-| Sun, 15 Feb 2026 12:47:54 GMT | Cyber Sec. Roadmap 03 | Mehdican Büyükplevne | [Read More](https://medium.com/p/7f2daa159ddd) |
-| Sun, 15 Feb 2026 12:47:43 GMT | CupidBot CTF -Love at First Breach 2026 - TryHackMe - Walkthrough CTF | Ishbarna | [Read More](https://medium.com/p/ffdc0fdd8d8b) |
