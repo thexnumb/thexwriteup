@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Feb 2026 17:16:01 GMT | Uncovering the Basics: Digital Forensics Lab 01 Walkthrough | Abdullah Fatih  Al Huda | [Read More](https://medium.com/p/f1b90532b22e) |
+| Sun, 15 Feb 2026 17:07:57 GMT | Moltworker: Your Personal AI Assistant on Cloudflare (No Mac Mini Required!) | Precious Kweku Obeng | [Read More](https://medium.com/p/f0362bbbec65) |
+| Sun, 15 Feb 2026 17:03:58 GMT | How I Discovered an Email Verification Misbinding Leading to Privilege Escalation | Mostafa shaban | [Read More](https://medium.com/p/7cc1ffc6ce01) |
+| Sun, 15 Feb 2026 16:59:26 GMT | Author: Shahla (Roze) | Shahla(roze) | [Read More](https://medium.com/p/2abcb4476d3a) |
+| Sun, 15 Feb 2026 16:56:42 GMT | South Korea’s STO: A “Galapagos” Regulatory Trap or a Global Springboard? | 안나 | [Read More](https://medium.com/p/6d7969aaac99) |
+| Sun, 15 Feb 2026 16:55:08 GMT | The OpenClaw Security Guide No One Wants to Write (But Everyone Needs) | Alex Rozdolskyi | [Read More](https://medium.com/p/8977831028f9) |
+| Sun, 15 Feb 2026 16:50:45 GMT | Are Safety Guardrails Making AI Less Intelligent? | Egezon Baruti | [Read More](https://medium.com/p/ab77d11da2fd) |
+| Sun, 15 Feb 2026 16:50:36 GMT | Diva Android Challenge walkthrough | 0X0DOoOM | [Read More](https://medium.com/p/2dd512ab8fca) |
+| Sun, 15 Feb 2026 16:35:55 GMT | Warm-up Digital Forensics with Pico CTF (Easy Level) | Aryadwiaji | [Read More](https://medium.com/p/77de015859cc) |
 | Sun, 15 Feb 2026 16:31:00 GMT | 15 Agent Guardrails That Don’t Depend on Prompt Luck | Hash Block | [Read More](https://medium.com/p/1f74bb3aa665) |
 | Sun, 15 Feb 2026 16:28:28 GMT | The Simple Cybersecurity Checklist Everyone Should Follow | Richard Buchfink | [Read More](https://medium.com/p/3718141e6c4d) |
 | Sun, 15 Feb 2026 16:24:55 GMT | Cyber Defense Warm-Up (CTF Write-Ups) | Annisa Eka Putri | [Read More](https://medium.com/p/92252106f449) |
@@ -20,6 +29,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Feb 2026 16:16:28 GMT | Email Defence: SPF | Duncan Hurwood | [Read More](https://medium.com/p/7847fe8c9e7b) |
 | Sun, 15 Feb 2026 16:16:10 GMT | Vulnerability scanning with Metasploit | Mylescorey | [Read More](https://medium.com/p/bc962ba212bb) |
 | Sun, 15 Feb 2026 16:13:52 GMT | The Pattern I Keep Repeating | InHerMind | [Read More](https://medium.com/p/1d2356226611) |
+| Sun, 15 Feb 2026 16:10:08 GMT | Is every data an insight? | Yamin | [Read More](https://medium.com/p/920b52ba661c) |
 | Sun, 15 Feb 2026 16:04:42 GMT | Discovering Security Weaknesses: A Practical Guide to Vulnerability Scanning | Allen Ace | [Read More](https://medium.com/p/30b2785b828f) |
 | Sun, 15 Feb 2026 16:02:33 GMT | How Does Data Actually Travel Without Getting Stolen or Delayed? | Siddhesh Y. | [Read More](https://medium.com/p/0dee3e6efe74) |
 | Sun, 15 Feb 2026 16:01:01 GMT | DNS Hijacking: How Websites Get Redirected Overnight | satyaranjan bal | [Read More](https://medium.com/p/fa4040e5336c) |
@@ -103,13 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Feb 2026 11:30:07 GMT | Kabloların Ötesinde: İnternetin Görünmez Mimarisi ve Siber Güvenliğin Network Temelleri️ | ahmetesatakkus | [Read More](https://medium.com/p/10fb8a378cb1) |
 | Sun, 15 Feb 2026 11:29:54 GMT | Day 15: Windows Internals | Siddhesh Patil | [Read More](https://medium.com/p/24516492395f) |
 | Sun, 15 Feb 2026 11:20:35 GMT | PortSwigger: Race conditions Labs | Abdelhamid Elbouz | [Read More](https://medium.com/p/a0b7a3980ace) |
-| Sun, 15 Feb 2026 11:18:24 GMT | Networking (Tarmoq) nima? | Al-Kokandiy | [Read More](https://medium.com/p/e5c4538beaaa) |
-| Sun, 15 Feb 2026 11:17:43 GMT | Digital Forensics Basics - Cyber Defense Laboratory 01 | Naufal Mu'tashim Ammar | [Read More](https://medium.com/p/f25b0e5c67bd) |
-| Sun, 15 Feb 2026 11:08:39 GMT | Supply Chain Security: When Your Dependencies Betray You | Ms. Byte Dev | [Read More](https://medium.com/p/6bf353e48011) |
-| Sun, 15 Feb 2026 11:07:09 GMT | FreeCustom — A modern temporary email service. | Ishant-singh | [Read More](https://medium.com/p/d4b170a8d817) |
-| Sun, 15 Feb 2026 11:06:00 GMT | Day 11 Attack Structure Explained: Initial Access — When Curiosity Turns Into Control | NineTales | [Read More](https://medium.com/p/39e7dc646013) |
-| Sun, 15 Feb 2026 11:05:31 GMT | Bandit Wargame Writeup 20 Level | Theokokay | [Read More](https://medium.com/p/89adc9b0facb) |
-| Sun, 15 Feb 2026 11:02:26 GMT | OpenClaw: Just a Tool or a Security Risk? | Hirushi Atapattu | [Read More](https://medium.com/p/9d5f92274881) |
-| Sun, 15 Feb 2026 11:01:01 GMT | What Happens When Someone Deepfakes Your Kid? | Greg Dessau | [Read More](https://medium.com/p/1716727b43b7) |
-| Sun, 15 Feb 2026 11:01:00 GMT | The Missing Link in Your AI Strategy: Why “Pre-AI Processing” is the 2026 Security Standard | KDAN PDF - Productivity Lab | [Read More](https://medium.com/p/b35d7eacb952) |
-| Sun, 15 Feb 2026 11:00:39 GMT | Introduction to Digital Forensics (Lab 01) | 0w0 | [Read More](https://medium.com/p/9a1357d73d04) |
