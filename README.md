@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Feb 2026 10:16:22 GMT | The Great Tech Exodus: Why Successful Workers Are Walking Away | Shivam Maurya | [Read More](https://medium.com/p/61bfc55424cd) |
+| Sun, 15 Feb 2026 10:16:18 GMT | Hidden Deep Into my Heart: TryHackMe Valentines Challenge | Bridget | [Read More](https://medium.com/p/77af0c648943) |
+| Sun, 15 Feb 2026 10:11:23 GMT | Learning Forensics with picoCTF (Easy): 3 Beginner Challenges Walkthrough | Adindazara | [Read More](https://medium.com/p/ffbf189c4552) |
+| Sun, 15 Feb 2026 10:09:58 GMT | Password Protect a Text File | Ascend IT Services | [Read More](https://medium.com/p/d085961d20d8) |
+| Sun, 15 Feb 2026 10:07:01 GMT | 7 Deadly Dangers: Why Free IPTV Playlists 2026 are a Total Scam | Yeah-iptv.tv | [Read More](https://medium.com/p/ee8cb41d5e78) |
+| Sun, 15 Feb 2026 10:06:01 GMT | Cybersecurity Career Transition: How to Switch Careers Successfully | Victoria Coker | [Read More](https://medium.com/p/95009fbc9e6a) |
+| Sun, 15 Feb 2026 10:05:35 GMT | Solving the “Flag in Flame” CTF challenge from “https://play.picoctf.org/” | Riconatanael | [Read More](https://medium.com/p/697e27b1b4e2) |
+| Sun, 15 Feb 2026 10:00:23 GMT | A Day in the Life of a Junior SOC Analyst: Taming the Chaos of Security Alerts | Marc Edison Vergeire | [Read More](https://medium.com/p/0303d9e09ef6) |
+| Sun, 15 Feb 2026 09:52:09 GMT | Time Traveling Prompt Injections: Why No LLM Is Safe | Simon Weigold | [Read More](https://medium.com/p/013f12c26847) |
+| Sun, 15 Feb 2026 09:49:58 GMT | TryHackMe Internal-Complete Walkthrough & Privilege Escalation Guide | VR | [Read More](https://medium.com/p/d9765cdcd0bf) |
+| Sun, 15 Feb 2026 09:47:23 GMT | Try Hack Me- Fowsniff CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/eeb998c36ee9) |
+| Sun, 15 Feb 2026 09:42:46 GMT | Lumma Stealer (Fake CAPTCHA): Bedah Alur Serangan dengan Framework Cyber Kill Chain. | Muhammadomarhaqqi | [Read More](https://medium.com/p/396f04e1f931) |
+| Sun, 15 Feb 2026 09:34:40 GMT | …all that AI stuff? | Bal Bansal | [Read More](https://medium.com/p/e9244d4d54aa) |
+| Sun, 15 Feb 2026 09:31:07 GMT | Capture The Flag (CTF) Write-Up: Analisis Digital Forensics, Metadata, dan Steganography pada… | I Tsarakrizmi | [Read More](https://medium.com/p/58339a5f4a19) |
+| Sun, 15 Feb 2026 09:26:13 GMT | Subdomain Enumeration | Bhanvararamchoudhary | [Read More](https://medium.com/p/c57472f351a8) |
 | Sun, 15 Feb 2026 09:26:00 GMT | Why Thousands Are Buying Mac Minis to Escape Big Tech AI Subscriptions Forever - Clawdbot | MayhemCode | [Read More](https://medium.com/p/10c970c72404) |
 | Sun, 15 Feb 2026 09:21:02 GMT | Why OSINT Is Becoming a Must-Have Skill in Cybersecurity | Dallen Sadru | [Read More](https://medium.com/p/fb90e1690479) |
 | Sun, 15 Feb 2026 09:20:10 GMT | Ottergram writeup (Broken Auth) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/39d14d883a66) |
@@ -100,18 +115,3 @@ so your soul never has to learn another language | Yours Only | [Read More](http
 | Sun, 15 Feb 2026 00:40:34 GMT | 10 Ways to leverage AI for Vulnerability Research and Penetration Testing | offsec97 | [Read More](https://medium.com/p/a06efab34666) |
 | Sun, 15 Feb 2026 00:24:15 GMT | What is Phishing? Examples and How to Protect Yourself | Ademola Adebambo | [Read More](https://medium.com/p/de51d45ab3cb) |
 | Sun, 15 Feb 2026 00:12:34 GMT | Part 2: Feeding the SIEM — Shipping Windows Logs via Winlogbeat | Karim roshdy | [Read More](https://medium.com/p/3c1e31aa0362) |
-| Sun, 15 Feb 2026 00:09:16 GMT | Introduction to Digital Forensics — Lab 01 Write-Up | I Tsarakrizmi | [Read More](https://medium.com/p/373f13c1a0e4) |
-| Sun, 15 Feb 2026 00:05:42 GMT | Write Up Cyber Defense ID-Networkers: Week 1 | Ray D | [Read More](https://medium.com/p/380e09f81286) |
-| Sat, 14 Feb 2026 23:53:59 GMT | Tools used to track username reuse across different platforms | Cyberhamid | [Read More](https://medium.com/p/b211cf0957aa) |
-| Sat, 14 Feb 2026 23:45:46 GMT | The $15,000 Semicolon | Abdelkafi Habbeddine | [Read More](https://medium.com/p/4d3051be959a) |
-| Sat, 14 Feb 2026 23:37:33 GMT | Your Email, Calendar, and Video Calls Are Leaking — Here’s the Fix | Azazul | [Read More](https://medium.com/p/89250cb4cf28) |
-| Sat, 14 Feb 2026 23:36:04 GMT | Let AI Build Full-Stack Apps Safely with Docker Sandboxes | Doran Gao | [Read More](https://medium.com/p/895de3635443) |
-| Sat, 14 Feb 2026 23:33:31 GMT | T1110–003 Lab — CyberDefender Challenge | Moinuddin Ahmed | [Read More](https://medium.com/p/dd856f1ccfa3) |
-| Sat, 14 Feb 2026 23:33:24 GMT | SIEM Setup Using Elastic Stack | Karim roshdy | [Read More](https://medium.com/p/b2879fb12cde) |
-| Sat, 14 Feb 2026 23:29:40 GMT | 0xfun CTF 2026 — OSINT writeup | Hadiramr | [Read More](https://medium.com/p/e35ff2afdf3d) |
-| Sat, 14 Feb 2026 23:07:46 GMT | From LFI to Data Exfiltration: Valenfind (TryHackMe Walkthrough) | RosanaFSS | [Read More](https://medium.com/p/b408b3a9bcc6) |
-| Sat, 14 Feb 2026 23:00:04 GMT | The Architecture of Trust: Why Modern Systems Fail at the Boundaries They Assume Are Safe | David Jonathan | [Read More](https://medium.com/p/671074de1a75) |
-| Sat, 14 Feb 2026 22:58:50 GMT | OPERATION: OSSIFICATION “Why Bitcoin Must Freeze as Sound Money Before It’s Too Late.” | Beautyon | [Read More](https://medium.com/p/893a9909a877) |
-| Sat, 14 Feb 2026 22:38:08 GMT | T1584.004 Lab — CyberDefender Challenge | Moinuddin Ahmed | [Read More](https://medium.com/p/13e8c611fe2a) |
-| Sat, 14 Feb 2026 22:33:47 GMT | Quantum-Safe API Architecture Designing APIs Resistant to Quantum Computing Threats | Bervice | [Read More](https://medium.com/p/a8032d9e1f6c) |
-| Sat, 14 Feb 2026 22:31:06 GMT | Love at First Breach 2026 - TryHackMe - CupidBot - Walkthrough CTF | Frhn.Isml | [Read More](https://medium.com/p/861efd978629) |
