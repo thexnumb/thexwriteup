@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Feb 2026 07:48:46 GMT | Package at 3: Legal Risk, Queue Delay, and Refund Loss | James Kuhman | [Read More](https://medium.com/p/5f0e52c1b114) |
+| Sun, 15 Feb 2026 07:45:02 GMT | SVG files are everywhere — icons, logos, illustrations, UI graphics. They’re lightweight, scalable.. | Mathias Reker | [Read More](https://medium.com/p/f81989b05368) |
+| Sun, 15 Feb 2026 07:44:44 GMT | Why Bug Bounty Programs Have Scope (And Why Black Hats Don’t Care) | ghostyjoe | [Read More](https://medium.com/p/7b858b95f51d) |
+| Sun, 15 Feb 2026 07:42:32 GMT | Lumma Stealer via Cyber Kill Chain | ramonnpp | [Read More](https://medium.com/p/774341c34f39) |
+| Sun, 15 Feb 2026 07:40:31 GMT | Hyena Attacks and How Modern Exploits Hunt Systems That Hesitate | Talex Maxim (taimax13) - #barracuda | [Read More](https://medium.com/p/dafcd9d56275) |
+| Sun, 15 Feb 2026 07:39:42 GMT | Insider Risk Management: Proactively Defending Against Insider Threats | cyber security threat ai | [Read More](https://medium.com/p/f9c11d4bead8) |
+| Sun, 15 Feb 2026 07:37:54 GMT | The story behind rockyou.txt | Avyukt Security | [Read More](https://medium.com/p/04f987eb4806) |
+| Sun, 15 Feb 2026 07:36:04 GMT | OAuth 2.0 & OIDC, Explained Like You’re Building It (Keycloak + Consent Demo) | Kiran Adhikari | [Read More](https://medium.com/p/4c963a38199d) |
+| Sun, 15 Feb 2026 07:29:58 GMT | Top Browser Extensions Every Developer Should Install in 2026 | Nancy | [Read More](https://medium.com/p/452bfe47ee72) |
+| Sun, 15 Feb 2026 07:25:35 GMT | The Forensic Black Box: Why Logs That Can Be Deleted Are Security Theater | Kalyan Tamarapalli | [Read More](https://medium.com/p/e008cb71ff6d) |
+| Sun, 15 Feb 2026 07:20:17 GMT | Insiden penyebaran Lumma Stealer (Fake CAPTCHA) & bedah tahapan serangan Framework Cyber Kill Chain | Galih Permana Rizki | [Read More](https://medium.com/p/62ddf9ea6b41) |
+| Sun, 15 Feb 2026 07:14:50 GMT | 10 OSI Model Layers Pentesters Ignore and the Tools to Fix Them: Master Hidden Attack Surfaces | Very Lazy Tech | [Read More](https://medium.com/p/94b549da94fc) |
+| Sun, 15 Feb 2026 07:11:22 GMT | How JPMorgan Uses Python to Increase Profit and Reduce Financial Loss | Vinit kumar | [Read More](https://medium.com/p/d11aa954b050) |
+| Sun, 15 Feb 2026 07:07:06 GMT | Introduction to Digital Forensics - Lab-01 Cyber Defense | Aryadwiaji | [Read More](https://medium.com/p/5a0b5a0a157a) |
+| Sun, 15 Feb 2026 07:06:55 GMT | Why Most QR Scanners Are Unsafe — And How Browser-Based Scanning Fixes It | Naimul Hasan | [Read More](https://medium.com/p/ffe27bcc5593) |
+| Sun, 15 Feb 2026 07:04:29 GMT | Prevent SQL injection by using parameterised queries instead of concatenating user input | Ankit | [Read More](https://medium.com/p/3219b1f27d28) |
 | Sun, 15 Feb 2026 06:59:37 GMT | One Click Is All It Takes: The Hidden Danger of Clickjacking Attacks | MhmdSec | [Read More](https://medium.com/p/c6d3cd263a4f) |
 | Sun, 15 Feb 2026 06:53:55 GMT | Sisi Gelap “fake CAPTCHA: Analisis Mendalam Kampanye Lumma Stealer via Cyber Kill Chain | AlfariziRamadhan | [Read More](https://medium.com/p/506995cc5788) |
 | Sun, 15 Feb 2026 06:44:26 GMT | From Autocomplete to Agent: The Liability Gap in AI Tools | James Kuhman | [Read More](https://medium.com/p/bde7eb7e7439) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Feb 2026 19:37:33 GMT | If You Get This Amazon Product Recall Message, It’s An Attack | Moni | [Read More](https://medium.com/p/20fd0c48a327) |
 | Sat, 14 Feb 2026 19:35:23 GMT | The Ghost in the Sidebar: How a Dead Side Project Became Outlook’s Most Dangerous Trojan | SOCFortress | [Read More](https://medium.com/p/36f4da1a3767) |
 | Sat, 14 Feb 2026 19:27:00 GMT | How Strong IT Leadership Reduces Technology Risk | NordicX | [Read More](https://medium.com/p/3240ca24accf) |
-| Sat, 14 Feb 2026 19:02:25 GMT | XSS WAF Bypass: 3 Tricks to Beat Alert Blockers | Cybersecplayground | [Read More](https://medium.com/p/b7552dcde45b) |
-| Sat, 14 Feb 2026 19:01:31 GMT | The Kaleidoscope of Global Power: Where the World Order Is Actually Heading | Sachin Chitre | [Read More](https://medium.com/p/f67bb514472c) |
-| Sat, 14 Feb 2026 18:59:47 GMT | The Systems We Thought We Understood | David Jonathan | [Read More](https://medium.com/p/4e2e822346c4) |
-| Sat, 14 Feb 2026 18:56:03 GMT | Official Launch: CYBERDUDEBIVASH Threat Intelligence Platform | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/3b4d9a96cfcb) |
-| Sat, 14 Feb 2026 18:49:37 GMT | why I don’t celebrate my achievements | Diya Medhe | [Read More](https://medium.com/p/f4343931c687) |
-| Sat, 14 Feb 2026 18:47:57 GMT | Writeup OverTheWire Bandit | shirou | [Read More](https://medium.com/p/7d3e9396c6e0) |
-| Sat, 14 Feb 2026 18:45:35 GMT | When security theater becomes a business model | Truong (Jack) Luu | [Read More](https://medium.com/p/a2c117fedb67) |
-| Sat, 14 Feb 2026 18:45:27 GMT | My Journey Into Smart Contract Auditing | Abraham | [Read More](https://medium.com/p/0751be7a83ef) |
-| Sat, 14 Feb 2026 18:44:17 GMT | Lumma Stealer: Membedah Campaign Fake CAPTCHA | Kuray | [Read More](https://medium.com/p/ba411bb63865) |
-| Sat, 14 Feb 2026 18:42:34 GMT | Zip files slipping under your nose! | Shivam Bathla | [Read More](https://medium.com/p/90cfbe3cdfe7) |
-| Sat, 14 Feb 2026 18:37:51 GMT | Why Japan’s Tech Culture Is Different — And Why That Matters | Shriya | [Read More](https://medium.com/p/7fa1b2d6cf41) |
-| Sat, 14 Feb 2026 18:37:08 GMT | CupidBot — Love at First Breach 2026 Writeup | Raja Shiva Ram | [Read More](https://medium.com/p/89278e5ff700) |
-| Sat, 14 Feb 2026 18:31:14 GMT | TryHackMe Writeup (Love at First Breach 2026): Corp Website | Sahand Babali | [Read More](https://medium.com/p/d2b37cb20052) |
-| Sat, 14 Feb 2026 18:28:24 GMT | Breaking Into the Corporate Guest Network: Phase 2: A Real-World ATS WiFi Security Assessment | Tanmay Bhattacharjee | [Read More](https://medium.com/p/e414792a5160) |
-| Sat, 14 Feb 2026 18:28:11 GMT | We Built a Real-Time Threat Detector for AI Agents | Stanley D. Chatman | [Read More](https://medium.com/p/db794b8f20b5) |
-| Sat, 14 Feb 2026 18:19:45 GMT | When SameSite=Strict Fails: A Real CSRF Bypass Using Redirects | Istiyak | [Read More](https://medium.com/p/43dafcecddaa) |
