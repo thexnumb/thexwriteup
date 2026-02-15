@@ -12,7 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Feb 2026 09:26:00 GMT | Why Thousands Are Buying Mac Minis to Escape Big Tech AI Subscriptions Forever - Clawdbot | MayhemCode | [Read More](https://medium.com/p/10c970c72404) |
+| Sun, 15 Feb 2026 09:21:02 GMT | Why OSINT Is Becoming a Must-Have Skill in Cybersecurity | Dallen Sadru | [Read More](https://medium.com/p/fb90e1690479) |
+| Sun, 15 Feb 2026 09:20:10 GMT | Ottergram writeup (Broken Auth) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/39d14d883a66) |
+| Sun, 15 Feb 2026 09:11:03 GMT | 500,000 Accounts Compromised: The Chrome Extension Epidemic Nobody’s Talking About | Mehdi BAFDIL | [Read More](https://medium.com/p/afc26d9aedf4) |
+| Sun, 15 Feb 2026 09:03:54 GMT | How “Good Morning” and Festival Wishes Are Becoming Phishing Traps in India
+Author: Ankit Rai
+Cyber… | Ankit rai | [Read More](https://medium.com/p/ef3f8f9716a6) |
+| Sun, 15 Feb 2026 09:01:01 GMT | 3 LeakRadar Searches That Uncovered Forgotten Admin Panels | Alexandre Vandamme | [Read More](https://medium.com/p/916317233d2d) |
+| Sun, 15 Feb 2026 09:01:01 GMT | PhishShield AI: Advancing Cybersecurity with Real-Time Phishing Detection | Faiz Hussain | [Read More](https://medium.com/p/01f426b7a8e7) |
+| Sun, 15 Feb 2026 09:01:00 GMT | The Quiet Kind of Happiness | Oluwatomisin Pokuaa Phillips | [Read More](https://medium.com/p/e4693d85ae51) |
+| Sun, 15 Feb 2026 08:59:47 GMT | May you fall for someone who reads your pauses,
+so your soul never has to learn another language | Yours Only | [Read More](https://medium.com/p/991b1f2a56e1) |
+| Sun, 15 Feb 2026 08:59:42 GMT | ️ Threat Hunting 101: Foundations, Methodologies & Life Cycle (Part 1) | 0verRida | [Read More](https://medium.com/p/8d1ceafaf7ac) |
+| Sun, 15 Feb 2026 08:55:55 GMT | Threat Hunting 101: Tools That Power the Hunt (Part 2) | 0verRida | [Read More](https://medium.com/p/de5121c77812) |
+| Sun, 15 Feb 2026 08:55:02 GMT | Solving Riddle Registry on picoCTF using Ubuntu Desktop | Darasamsaraayu | [Read More](https://medium.com/p/ef3db883077a) |
+| Sun, 15 Feb 2026 08:53:07 GMT | Fake Recruiters Spread Malware Through Coding Assignments | Patrik Žák | [Read More](https://medium.com/p/3e006684f826) |
+| Sun, 15 Feb 2026 08:47:29 GMT | Google Cloud Shell Takeover: 3 Auto Execution Bugs | Bipin Jitiya | [Read More](https://medium.com/p/4bdd3d474804) |
+| Sun, 15 Feb 2026 08:41:10 GMT | Top 5 Cyber Attacks That Don’t Look Like Hacking at All | pavani | [Read More](https://medium.com/p/44d676ad66cb) |
+| Sun, 15 Feb 2026 08:39:29 GMT | Introduction à un microkernel applicatif en Python | Traoreera | [Read More](https://medium.com/p/74c3cd4a8789) |
 | Sun, 15 Feb 2026 08:37:20 GMT | What Kim Ju Ae’s Rise Really Means for the World and India? | Maithilee Singh | [Read More](https://medium.com/p/71d9adf59dc4) |
+| Sun, 15 Feb 2026 08:36:47 GMT | The AI Gold Rush — And the Security Storm Behind It | Vismay Patil | [Read More](https://medium.com/p/3ba12d1cdafb) |
 | Sun, 15 Feb 2026 08:23:47 GMT | Stabilizer: Powering Consistency in a Volatile World | Kemisola2032 | [Read More](https://medium.com/p/eda502e361aa) |
 | Sun, 15 Feb 2026 08:20:59 GMT | From Assistant to Attachment: What the ‘AI Partner’ Backlash Reveals | Aaryan Vinod Kumar | [Read More](https://medium.com/p/06f463a94182) |
 | Sun, 15 Feb 2026 07:56:29 GMT | Net Sec Challenge | Aj | [Read More](https://medium.com/p/b05a05748a89) |
@@ -95,20 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Feb 2026 22:38:08 GMT | T1584.004 Lab — CyberDefender Challenge | Moinuddin Ahmed | [Read More](https://medium.com/p/13e8c611fe2a) |
 | Sat, 14 Feb 2026 22:33:47 GMT | Quantum-Safe API Architecture Designing APIs Resistant to Quantum Computing Threats | Bervice | [Read More](https://medium.com/p/a8032d9e1f6c) |
 | Sat, 14 Feb 2026 22:31:06 GMT | Love at First Breach 2026 - TryHackMe - CupidBot - Walkthrough CTF | Frhn.Isml | [Read More](https://medium.com/p/861efd978629) |
-| Sat, 14 Feb 2026 22:19:20 GMT | Account Takeover via IDOR in Password Change Functionality | Abhishek Kumar | [Read More](https://medium.com/p/199d6edd648d) |
-| Sat, 14 Feb 2026 22:03:31 GMT | 6 Hours, 6 Real-world Critical Bugs: A Case Study in Efficient Bug Hunting | 0xZyo | [Read More](https://medium.com/p/a88c2002abbb) |
-| Sat, 14 Feb 2026 21:53:55 GMT | Offsec “InfosecPrep” CTF writeup | sabR | [Read More](https://medium.com/p/537e97b26127) |
-| Sat, 14 Feb 2026 21:24:57 GMT | How to Run ComplianceAsCode Ansible Remediation on macOS Without OpenSCAP | Parag Poddar | [Read More](https://medium.com/p/5a6975155fc3) |
-| Sat, 14 Feb 2026 21:24:26 GMT | Data Representation · TryHackMe | RosanaFSS | [Read More](https://medium.com/p/d2f34f76cbc1) |
-| Sat, 14 Feb 2026 21:19:36 GMT | Breaking RSA with Small Keys: A Hands-On Cryptography Tutorial | Moez Ben-Azzouz | [Read More](https://medium.com/p/94ddc87b0b47) |
-| Sat, 14 Feb 2026 21:17:02 GMT | Veritabanları (Databases) | Songül Kızılay Özügürler | [Read More](https://medium.com/p/ac137974e2b0) |
-| Sat, 14 Feb 2026 21:05:50 GMT | GraphQL Directive Injection Attacks | Sujaykumar | [Read More](https://medium.com/p/94df6bb35f60) |
-| Sat, 14 Feb 2026 20:56:29 GMT | Documenting My Transition from Computer Science to Cybersecurity. | Favour Ugochi Ogbonnaya | [Read More](https://medium.com/p/22638b5ce7dc) |
-| Sat, 14 Feb 2026 20:53:04 GMT | True Feelings or Just a Bottle of Corona? | Valeri | [Read More](https://medium.com/p/f2242bb07c2d) |
-| Sat, 14 Feb 2026 20:46:28 GMT | Membedah Lumma Stealer (Fake CAPTCHA) Menggunakan Framework Cyber Kill Chain | Sandyy Tirtaa | [Read More](https://medium.com/p/cf317cf16447) |
-| Sat, 14 Feb 2026 20:36:34 GMT | Snowflake SQL in a Nutshell: Consolidated report on Super-Role Grants in your Organization | NadirDoctor | [Read More](https://medium.com/p/e5841cc746c5) |
-| Sat, 14 Feb 2026 20:17:00 GMT | Ruang Tamu Saja | Kesuraman Natur | [Read More](https://medium.com/p/ce23b40b7bc0) |
-| Sat, 14 Feb 2026 20:07:08 GMT | The Case for the Adversarial Architect | Joshua Goossen | [Read More](https://medium.com/p/f4da3be3e903) |
-| Sat, 14 Feb 2026 20:04:00 GMT | Understanding Responsibility, Control and Trust in Cloud Architectures: IaaS, PaaS, SaaS and the… | Kamiweb Project | [Read More](https://medium.com/p/42d7f9ac73f1) |
-| Sat, 14 Feb 2026 19:50:41 GMT | Cybersecurity Isn’t About Hackers — It’s About Boring Basics Nobody Does | Akshay kerkar | [Read More](https://medium.com/p/66f2e737b2e7) |
-| Sat, 14 Feb 2026 19:47:58 GMT | Pentest+ in 90 Days or Less (Hopefully) | cyber_0xGambit | [Read More](https://medium.com/p/489682ad1ad1) |
