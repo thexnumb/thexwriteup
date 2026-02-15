@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Feb 2026 06:59:37 GMT | One Click Is All It Takes: The Hidden Danger of Clickjacking Attacks | MhmdSec | [Read More](https://medium.com/p/c6d3cd263a4f) |
+| Sun, 15 Feb 2026 06:53:55 GMT | Sisi Gelap “fake CAPTCHA: Analisis Mendalam Kampanye Lumma Stealer via Cyber Kill Chain | AlfariziRamadhan | [Read More](https://medium.com/p/506995cc5788) |
+| Sun, 15 Feb 2026 06:44:26 GMT | From Autocomplete to Agent: The Liability Gap in AI Tools | James Kuhman | [Read More](https://medium.com/p/bde7eb7e7439) |
+| Sun, 15 Feb 2026 06:42:25 GMT | THE ENTROPY TRAP: The Architecture of Digital Erosion | Mehmet Turgay AKALIN | [Read More](https://medium.com/p/3f762353ca89) |
+| Sun, 15 Feb 2026 06:32:32 GMT | The Cryptography Concept Journey — Quantum Computing | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/dfa989dbb4e0) |
+| Sun, 15 Feb 2026 06:32:03 GMT | A Hacker Just Needs One Unpatched Server. They Found 8,500 of Them. | Soumyadipta Birabar | [Read More](https://medium.com/p/b1d62d56e6f4) |
+| Sun, 15 Feb 2026 06:31:00 GMT | Registry Keys: Persistence, Configuration, and Clues | Ankita Sinha | [Read More](https://medium.com/p/0d7701996b1f) |
+| Sun, 15 Feb 2026 06:18:37 GMT | Trust Between Machines: The Missing Layer in the Age of Autonomous AI Agents | Juan Pablo Castro | [Read More](https://medium.com/p/69c36dc0901d) |
+| Sun, 15 Feb 2026 06:04:17 GMT | Why I Left the Bug Bounty “Grind” to Secure Global Infrastructure | sivaaditya | [Read More](https://medium.com/p/af332f2ce6e3) |
+| Sun, 15 Feb 2026 05:55:17 GMT | Insider Threat Detection in Financial Services: A Real-World Validated Multi-Agent LLM Framework | Terrence Cai | [Read More](https://medium.com/p/13d4e9dafecb) |
+| Sun, 15 Feb 2026 05:52:09 GMT | How Malware Attacks Happen (And How to Protect Yourself) | Ademola Adebambo | [Read More](https://medium.com/p/1bd953b5f460) |
+| Sun, 15 Feb 2026 05:51:27 GMT | Cybersecurity Isn’t Underfunded — It’s Undermanaged | JC Gaillard | [Read More](https://medium.com/p/5ef64d660adb) |
 | Sun, 15 Feb 2026 05:44:19 GMT | Day 05: Cyber Kill Chain, Alert Reporting, Escalation, and SOC Communication | Muhammad Kashif | [Read More](https://medium.com/p/da133b5920b7) |
 | Sun, 15 Feb 2026 05:40:13 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/982ce8414bbf) |
 | Sun, 15 Feb 2026 05:35:55 GMT | Understanding Open Redirect Vulnerabilities: A Complete Guide for Bug Hunters | MhmdSec | [Read More](https://medium.com/p/e3f2af3ee499) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Feb 2026 18:28:24 GMT | Breaking Into the Corporate Guest Network: Phase 2: A Real-World ATS WiFi Security Assessment | Tanmay Bhattacharjee | [Read More](https://medium.com/p/e414792a5160) |
 | Sat, 14 Feb 2026 18:28:11 GMT | We Built a Real-Time Threat Detector for AI Agents | Stanley D. Chatman | [Read More](https://medium.com/p/db794b8f20b5) |
 | Sat, 14 Feb 2026 18:19:45 GMT | When SameSite=Strict Fails: A Real CSRF Bypass Using Redirects | Istiyak | [Read More](https://medium.com/p/43dafcecddaa) |
-| Sat, 14 Feb 2026 18:17:37 GMT | Security Budgeting for Lean Web3 Teams: What to Buy, What to Build | Exploitless | [Read More](https://medium.com/p/bf3cd66b40e7) |
-| Sat, 14 Feb 2026 18:17:29 GMT | The Router: Your Network’s Brain or Its Biggest Blind Spot? | k3rnelpan1c | [Read More](https://medium.com/p/ca994f593880) |
-| Sat, 14 Feb 2026 18:12:52 GMT | Week 1: Security Threat Identification | Fuzail Mansuri | [Read More](https://medium.com/p/e66c2720c03d) |
-| Sat, 14 Feb 2026 18:06:33 GMT | Designing and Building My Homelab: A Self-Reflection on Curiosity, Control, and Craft | Danny Vargas - CyberSecurity Focus | [Read More](https://medium.com/p/88e2e77028e4) |
-| Sat, 14 Feb 2026 18:04:32 GMT | Analisis Kampanye Penyebaran Lumma Stealer melalui Fake CAPTCHA Berdasarkan Cyber Kill Chain | Aiko Devy Ratnasari | [Read More](https://medium.com/p/97bc6316a600) |
-| Sat, 14 Feb 2026 18:00:40 GMT | First Earning App | Chauhangsuban | [Read More](https://medium.com/p/417b9ac44d16) |
-| Sat, 14 Feb 2026 17:58:53 GMT | Hidden Deep Into my Heart — Love at First Breach 2026 Writeup | Raja Shiva Ram | [Read More](https://medium.com/p/084797c8f3f5) |
-| Sat, 14 Feb 2026 17:57:35 GMT | Exploiting Local File Inclusion: A DefHawk CTF Writeup | Rajsegar Alagarathnam | [Read More](https://medium.com/p/a26d38ee8fd4) |
-| Sat, 14 Feb 2026 17:52:22 GMT | 50 Days of Cybersecurity Journey with H4ckerTreats as an Intern | Atinuke Awobore | [Read More](https://medium.com/p/937e034eb6e7) |
-| Sat, 14 Feb 2026 17:47:56 GMT | The Procurement of New Social Dynamics….. | Lakishaprince | [Read More](https://medium.com/p/7f7cdfb93bb2) |
-| Sat, 14 Feb 2026 17:42:12 GMT | Cybersecurity Meets DPDP: What Business needs to know in 2026 | Lumiversesolution | [Read More](https://medium.com/p/4f6c67690b59) |
-| Sat, 14 Feb 2026 17:32:45 GMT | HTTP vs HTTPS: What’s the Difference? And Where Do SSL and TLS Fit? | Manikanta majeti | [Read More](https://medium.com/p/1be133228886) |
