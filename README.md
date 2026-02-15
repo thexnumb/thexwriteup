@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Feb 2026 21:16:43 GMT | Deterministic Computational Governance: Why Tier 0 Architecture Changes Digital Security | Adán Ignacio Ramalho Méndez | [Read More](https://medium.com/p/36a84ff782ea) |
+| Sun, 15 Feb 2026 21:15:49 GMT | NIN-SIM Linkage and the Nigeria We Desire | Prof. Tunde Akanni | [Read More](https://medium.com/p/77ab80464d6f) |
+| Sun, 15 Feb 2026 21:14:33 GMT | The Weight of the Mask | Anna K. | [Read More](https://medium.com/p/259a541d90f0) |
+| Sun, 15 Feb 2026 21:11:50 GMT | From Proof of Concept to Production: Building an Enterprise-Grade Platform for AI Systems | Rubens Zimbres | [Read More](https://medium.com/p/1fb9ebac78b9) |
+| Sun, 15 Feb 2026 21:10:29 GMT | The $500,000 Blind Spot: Why AI Integration is No Longer Optional for Corporate Security | Design Delight Inc | [Read More](https://medium.com/p/7befb6cf57c8) |
+| Sun, 15 Feb 2026 21:04:25 GMT | 0xFun CTF - OSINT Challenges Writeup | Ahmed Mohammed | [Read More](https://medium.com/p/ddfe6a4ba08f) |
+| Sun, 15 Feb 2026 21:03:20 GMT | Time Hacking With OSINT: The Ridiculous Chronolocation Tricks Investigators Don’t Want You To Know… | cybrNK | [Read More](https://medium.com/p/3f71c1df77b9) |
+| Sun, 15 Feb 2026 20:57:36 GMT | The Two Bugs That Kill Startups: A Deep Dive into XSS and CSRF | Frank Kelechi Oge | [Read More](https://medium.com/p/eb7019e1172b) |
+| Sun, 15 Feb 2026 20:51:20 GMT | Microsoft Active Directory and Azure Active Directory as a Hybrid Identity and Access Management… | Jerry Kuri | [Read More](https://medium.com/p/ad7f19375d11) |
+| Sun, 15 Feb 2026 20:50:28 GMT | TryHackMe Writeup: The Phishing Pond | Berkay AĞGÜL | [Read More](https://medium.com/p/9e13e802a55c) |
+| Sun, 15 Feb 2026 20:42:42 GMT | Dijital Arka Kapı: Bir Komutla Gelen Felaket | Toprak Külekçioğlu | [Read More](https://medium.com/p/6ac791727b21) |
+| Sun, 15 Feb 2026 20:39:29 GMT | RazorBlack — TryHackMe Walkthrough | Abdallah_samir | [Read More](https://medium.com/p/ef1fff751c15) |
+| Sun, 15 Feb 2026 20:32:47 GMT | Beyond OCR: How AI Used Logical Infrastructure to Decode Real-World Noise | Pii1123 | [Read More](https://medium.com/p/367f55cff780) |
+| Sun, 15 Feb 2026 20:32:44 GMT | Report Attacchi Hacker Inizio 2026 | Scienza et Magia | [Read More](https://medium.com/p/bb726a4fd283) |
+| Sun, 15 Feb 2026 20:28:23 GMT | INE CTF-Assessment Methodologies: Information Gathering CTF 1 by Singkhon K | Singkhon K | [Read More](https://medium.com/p/d2e40616874b) |
+| Sun, 15 Feb 2026 20:26:29 GMT | Skynet — TryHackMe | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/03336c98e577) |
 | Sun, 15 Feb 2026 20:21:32 GMT | Cross-Site Scripting (XSS) — Part 1: Reflected XSS Explained with a Lab | mayhack | [Read More](https://medium.com/p/40d3cdaa2b90) |
 | Sun, 15 Feb 2026 20:01:48 GMT | Introducing Hades | Adam Maxwell | [Read More](https://medium.com/p/0918b357d77d) |
 | Sun, 15 Feb 2026 19:59:00 GMT | We Built a Constitutional Compliance Engine. In 8 Hours | J Gray | [Read More](https://medium.com/p/93bbaced3cbc) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Feb 2026 15:29:46 GMT | Lumma Stealer: Malware Berbahaya Menyamar Menjadi CAPTCHA Palsu | Velskynotfound | [Read More](https://medium.com/p/1bf4657222d0) |
 | Sun, 15 Feb 2026 15:24:44 GMT | Ein PSsystec-Blick auf die Munich Security Conference 2026 | PSsystec | [Read More](https://medium.com/p/0a440e7aa9e6) |
 | Sun, 15 Feb 2026 15:22:17 GMT | How I Hacked My Own AWS Account: Simulating the $80M Capital One Breach | Karol | [Read More](https://medium.com/p/a6249144b3dd) |
-| Sun, 15 Feb 2026 15:18:13 GMT | Breaking Into DarkHole V2: From Zero to Root | HEKKO | [Read More](https://medium.com/p/9977a50a437e) |
-| Sun, 15 Feb 2026 15:16:00 GMT | IDO Launchpad Development in 2026: Features Investors and Projects Actually Expect | ChainGPT | [Read More](https://medium.com/p/968f06ae155b) |
-| Sun, 15 Feb 2026 15:15:08 GMT | WHAT IS DATA EXFILTRATION? | Kevin Ronex | [Read More](https://medium.com/p/608dd3c92f16) |
-| Sun, 15 Feb 2026 15:14:51 GMT | The Industrialization of Deception: Why 2026 is the Year Cybercrime Became Autonomous | Ali Ahmed | [Read More](https://medium.com/p/d7696f4070e5) |
-| Sun, 15 Feb 2026 15:11:19 GMT | Wazuh Setup and Agent Configuration: A Practical, Real-World Walkthrough | Little_Sun4lower | [Read More](https://medium.com/p/b3ab59cec7a5) |
-| Sun, 15 Feb 2026 15:11:17 GMT | The CAPTCHA Trap: Analyzing Lumma Stealer Campaigns via Cyber Kill Chain | Afrizacho | [Read More](https://medium.com/p/5e1579a69a79) |
-| Sun, 15 Feb 2026 15:08:21 GMT | My picoCTF Warm-Up Journey: 5 beginner Challenges Write-Up | Dimasarfan | [Read More](https://medium.com/p/f42370b69b9d) |
-| Sun, 15 Feb 2026 15:03:17 GMT | Ejpt — Host & Network Penetration Testing: The Metasploit Framework CTF 2 | PwnClwn | [Read More](https://medium.com/p/1b77348136d2) |
-| Sun, 15 Feb 2026 15:01:12 GMT | The Tool Boundary Breaks 12 Popular Agent Security Myths | Quaxel | [Read More](https://medium.com/p/8232ffbfc608) |
-| Sun, 15 Feb 2026 15:01:10 GMT | A Comprehensive Guide to Creating and Using a Basic Github App for Token Management via… | Matt Cummings | [Read More](https://medium.com/p/0bfcfa39f5c1) |
-| Sun, 15 Feb 2026 15:01:09 GMT | Permission Is the Product: 10 Models That Hold Up | Velorum | [Read More](https://medium.com/p/9cf3ab00b27b) |
-| Sun, 15 Feb 2026 14:57:55 GMT | Spring Security From Zero to Production — Part 2: Understanding Filters, Sessions & How Login… | Sanjay Kumar | [Read More](https://medium.com/p/10d49e6271d8) |
-| Sun, 15 Feb 2026 14:55:14 GMT | Artificial Intelligence in Everyday Life | T Guru Karthikeya | [Read More](https://medium.com/p/5bd9b53ed874) |
-| Sun, 15 Feb 2026 14:52:43 GMT | Thinking Like an Attacker: How API Pen-Testers Identify Authentication Bypass | Madalitso Cheyo | [Read More](https://medium.com/p/662567cbd716) |
-| Sun, 15 Feb 2026 14:52:42 GMT | Linux’ta C Diski Neden Yok? Dosya Sistemi Mantığını Anlamak | Arda Derya | [Read More](https://medium.com/p/335a0221c8ce) |
-| Sun, 15 Feb 2026 14:50:42 GMT | Secure Coding in Java & Spring Boot | Vishal Lokhande | [Read More](https://medium.com/p/e57ea682efa0) |
