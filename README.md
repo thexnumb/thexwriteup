@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Feb 2026 18:32:57 GMT | Defending Small Businesses from Cyber Attacks: The SME Security Crisis | Mohammed Annan | [Read More](https://medium.com/p/1a938875561e) |
+| Sun, 15 Feb 2026 18:32:51 GMT | The Internet Never Forgets — But Your Email Should | Warren Smith | [Read More](https://medium.com/p/252db08d2f0a) |
+| Sun, 15 Feb 2026 18:32:48 GMT | What is Python in 2026? | Azhar Shaikh | [Read More](https://medium.com/p/df42c17cd328) |
+| Sun, 15 Feb 2026 18:26:25 GMT | Weapon of Mass Exposure | Poe LeRoy | [Read More](https://medium.com/p/1a5edfe6e5a2) |
+| Sun, 15 Feb 2026 18:19:34 GMT | Cybersecurity and Privacy | Sushanthisodadasi | [Read More](https://medium.com/p/aea3df57c8b6) |
+| Sun, 15 Feb 2026 18:17:23 GMT | Wgel CTF — TryHackMe Writeup / Walkthrough | sudo_0xksh | [Read More](https://medium.com/p/fc225e16f60c) |
+| Sun, 15 Feb 2026 18:16:33 GMT | TomGhost — TryHackMe Writeup / Wal | sudo_0xksh | [Read More](https://medium.com/p/6f84ef4dd5da) |
+| Sun, 15 Feb 2026 18:15:56 GMT | DIGITAL FORENSICS: BASIC LINUX COMMAND LINE FOR ANALYSIS FILE & SYSTEM | z4ns._ | [Read More](https://medium.com/p/70258a3b604d) |
+| Sun, 15 Feb 2026 18:13:40 GMT | Restart Manager (rstrtmgr.dll) | Balakrishna | [Read More](https://medium.com/p/3bb177822a44) |
+| Sun, 15 Feb 2026 18:08:28 GMT | THM — ValenFind | Dfaults | [Read More](https://medium.com/p/c5a42e2cf5b2) |
+| Sun, 15 Feb 2026 18:05:55 GMT | Piercing the Veil of Timelapse: Encrypted Keys & The LAPS Revelation ️ | Nicholas Mullenski | [Read More](https://medium.com/p/716bf0c289bb) |
+| Sun, 15 Feb 2026 18:05:52 GMT | The “Dumb” Editor That Got Too Smart: When Feature Bloat Leads to RCE | Sohan Kanna D | [Read More](https://medium.com/p/0fd08d9c62cd) |
+| Sun, 15 Feb 2026 18:04:27 GMT | Security Fatigue Is the Real Breach | Sam Walker | [Read More](https://medium.com/p/3a86ca470413) |
+| Sun, 15 Feb 2026 17:56:59 GMT | The Complete Web Penetration Testing Roadmap for 2026 (Part 2) | Hossein Zarei | [Read More](https://medium.com/p/1a5be9cd157f) |
+| Sun, 15 Feb 2026 17:52:34 GMT | Hacking OpenClaw | Héctor Martos | [Read More](https://medium.com/p/07dc2003c31d) |
 | Sun, 15 Feb 2026 17:51:37 GMT | What Breaks During Port Scanning at Scale - Falcoria Part 1 | 2s1one | [Read More](https://medium.com/p/aa84945e7550) |
 | Sun, 15 Feb 2026 17:46:01 GMT | Security Operations | Binesh gurung | [Read More](https://medium.com/p/9af40afbc2a9) |
 | Sun, 15 Feb 2026 17:43:07 GMT | CryptographyVulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/28a66f949ac1) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Feb 2026 12:50:00 GMT | Teaching myself AI Agent Security (1) | ai3ech | [Read More](https://medium.com/p/e4f7c9a66cc9) |
 | Sun, 15 Feb 2026 12:47:54 GMT | Cyber Sec. Roadmap 03 | Mehdican Büyükplevne | [Read More](https://medium.com/p/7f2daa159ddd) |
 | Sun, 15 Feb 2026 12:47:43 GMT | CupidBot CTF -Love at First Breach 2026 - TryHackMe - Walkthrough CTF | Ishbarna | [Read More](https://medium.com/p/ffdc0fdd8d8b) |
-| Sun, 15 Feb 2026 12:47:01 GMT | Beyond Force Stop : A Dive into Android 15 vs. Meta’s Ecosystem - Cybersecurity Threats | Tech Analyzers | [Read More](https://medium.com/p/000ce308b616) |
-| Sun, 15 Feb 2026 12:45:55 GMT | Email Security : What is SPF and Why it Matters | Yuvashree | [Read More](https://medium.com/p/5491fbec0ab2) |
-| Sun, 15 Feb 2026 12:41:16 GMT | OpenClaw: The Lobster That’s Eating Silicon Valley’s Lunch (And Your To-Do List) | Peter Njuguna | [Read More](https://medium.com/p/803c4e69d641) |
-| Sun, 15 Feb 2026 12:39:21 GMT | Build Your Own AI-Powered Telegram Bot with Python | VXRL | [Read More](https://medium.com/p/aa4bb558122f) |
-| Sun, 15 Feb 2026 12:32:57 GMT | SC-300 Lab1: Identity Lifecycle Management & Enterprise Skalierbarkeit in Microsoft Entra ID | S.Kaya | [Read More](https://medium.com/p/319de224aec5) |
-| Sun, 15 Feb 2026 12:32:24 GMT | The “Invisible Wall”: Balancing Ironclad Security with a Frictionless Checkout | Devaki Joshi | [Read More](https://medium.com/p/10b54c306e96) |
-| Sun, 15 Feb 2026 12:31:01 GMT | When RAG Meets Permissions, Things Break Fast | Hash Block | [Read More](https://medium.com/p/fe459d06d07c) |
-| Sun, 15 Feb 2026 12:31:01 GMT | I Tried “Agents as Teammates” — Logs Weren’t Enough | Bhagya Rana | [Read More](https://medium.com/p/25d75df11327) |
-| Sun, 15 Feb 2026 12:28:57 GMT | Cyber Law, Private Security and Societal Resilience: How UK Legislation Applies to Private Security… | Resilience Reflections | [Read More](https://medium.com/p/416765f4c0a4) |
-| Sun, 15 Feb 2026 12:21:13 GMT | Why should Pakistan include Cybersecurity in its National Security Strategy? | Samar Khalid - Global Affairs & Politics | [Read More](https://medium.com/p/a3a95f44255d) |
-| Sun, 15 Feb 2026 12:20:47 GMT | Introduction to Hacking, Virtual Machines, Linux, and Networking | Alsuhails | [Read More](https://medium.com/p/7b8acba3c371) |
-| Sun, 15 Feb 2026 12:20:30 GMT | Bulut Güvenliği 101: AWS Ekosisteminde Uçtan Uca Güvenlik Rehberi | Arda Cinar | [Read More](https://medium.com/p/f145728e116d) |
-| Sun, 15 Feb 2026 12:17:47 GMT | Will AI Take Over Cybersecurity Jobs? The Hidden Dark Side Revealed” | Su Lav | [Read More](https://medium.com/p/5e7f43721032) |
-| Sun, 15 Feb 2026 12:17:30 GMT | The Security Afterthought: Why You Won’t Care Until You’re on the Front Page | Joel Dickson | [Read More](https://medium.com/p/ddb9d63ed876) |
-| Sun, 15 Feb 2026 12:14:19 GMT | Warm-Up — 3 Chall Forensic | Yrddry | [Read More](https://medium.com/p/2f9347696a43) |
