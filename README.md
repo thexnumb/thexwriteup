@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Feb 2026 14:26:00 GMT | Beyond ChatGPT: Why Agentic AI Is the #1 Attack Surface in 2026. | Kambetastephano | [Read More](https://medium.com/p/d95d4e89326b) |
+| Sun, 15 Feb 2026 14:16:22 GMT | Container Vulnerability Scanning and Remediation | Engineer Palsu | [Read More](https://medium.com/p/5fe0d0fe0fab) |
+| Sun, 15 Feb 2026 14:15:27 GMT | WordPress Plugin Security: 11 Vulnerabilities I Found (and Fixed) in My Own Code | Pixar Labs | [Read More](https://medium.com/p/99c415247a3a) |
+| Sun, 15 Feb 2026 14:15:01 GMT | Google Dorking: The Art of Uncovering Hidden Truths Through Search | Nida Arshad | [Read More](https://medium.com/p/badb25447022) |
+| Sun, 15 Feb 2026 14:11:55 GMT | Pico CTF : Hash Crack | Hendrawibowo | [Read More](https://medium.com/p/f8d82f22137d) |
+| Sun, 15 Feb 2026 14:04:17 GMT | Analisis Serangan Lumma Stealer : Membedah Taktik Fake CAPTCHA Melalui Cyber Kill Chain. | Samudra | [Read More](https://medium.com/p/4be051dc1925) |
+| Sun, 15 Feb 2026 14:02:40 GMT | Introduction to Digital Forensics - Lab-01 Digital Forensics | Elsandro Rivalito | [Read More](https://medium.com/p/d08ecc20586b) |
+| Sun, 15 Feb 2026 13:47:47 GMT | OSINT (Open Source Intelligence — Açık Kaynak İstihbaratı) 101 | Selin Oz | [Read More](https://medium.com/p/587d832ba654) |
 | Sun, 15 Feb 2026 13:44:54 GMT | How API Pen-Testers Approach Systems: Tools, Mindset, and Methodology | Madalitso Cheyo | [Read More](https://medium.com/p/779c317df6e4) |
 | Sun, 15 Feb 2026 13:44:28 GMT | Would I Recommend the Google Cybersecurity Certificate? | Mohamed dahir | [Read More](https://medium.com/p/6b43facf00fc) |
 | Sun, 15 Feb 2026 13:38:51 GMT | WE Built a Free Gym Management Software Because Gym Owners Deserved Better | SHREYESH KOLHE | [Read More](https://medium.com/p/d8bb253f3d64) |
@@ -108,11 +116,3 @@ so your soul never has to learn another language | Yours Only | [Read More](http
 | Sun, 15 Feb 2026 08:39:29 GMT | Introduction à un microkernel applicatif en Python | Traoreera | [Read More](https://medium.com/p/74c3cd4a8789) |
 | Sun, 15 Feb 2026 08:37:20 GMT | What Kim Ju Ae’s Rise Really Means for the World and India? | Maithilee Singh | [Read More](https://medium.com/p/71d9adf59dc4) |
 | Sun, 15 Feb 2026 08:36:47 GMT | The AI Gold Rush — And the Security Storm Behind It | Vismay Patil | [Read More](https://medium.com/p/3ba12d1cdafb) |
-| Sun, 15 Feb 2026 08:23:47 GMT | Stabilizer: Powering Consistency in a Volatile World | Kemisola2032 | [Read More](https://medium.com/p/eda502e361aa) |
-| Sun, 15 Feb 2026 08:20:59 GMT | From Assistant to Attachment: What the ‘AI Partner’ Backlash Reveals | Aaryan Vinod Kumar | [Read More](https://medium.com/p/06f463a94182) |
-| Sun, 15 Feb 2026 07:56:29 GMT | Net Sec Challenge | Aj | [Read More](https://medium.com/p/b05a05748a89) |
-| Sun, 15 Feb 2026 07:53:25 GMT | The Production Reality: When Your Hashing Algorithm Becomes a Liability | Nahidswe | [Read More](https://medium.com/p/1d7adab70b4e) |
-| Sun, 15 Feb 2026 07:50:38 GMT | Why Your Firewall Isn’t Enough: The Power of Defense in Depth | Sithin Adiyeri | [Read More](https://medium.com/p/1cded5a7746f) |
-| Sun, 15 Feb 2026 07:48:46 GMT | Package at 3: Legal Risk, Queue Delay, and Refund Loss | James Kuhman | [Read More](https://medium.com/p/5f0e52c1b114) |
-| Sun, 15 Feb 2026 07:45:02 GMT | SVG files are everywhere — icons, logos, illustrations, UI graphics. They’re lightweight, scalable.. | Mathias Reker | [Read More](https://medium.com/p/f81989b05368) |
-| Sun, 15 Feb 2026 07:44:44 GMT | Why Bug Bounty Programs Have Scope (And Why Black Hats Don’t Care) | ghostyjoe | [Read More](https://medium.com/p/7b858b95f51d) |
