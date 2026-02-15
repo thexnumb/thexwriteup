@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Feb 2026 20:21:32 GMT | Cross-Site Scripting (XSS) — Part 1: Reflected XSS Explained with a Lab | mayhack | [Read More](https://medium.com/p/40d3cdaa2b90) |
+| Sun, 15 Feb 2026 20:01:48 GMT | Introducing Hades | Adam Maxwell | [Read More](https://medium.com/p/0918b357d77d) |
+| Sun, 15 Feb 2026 19:59:00 GMT | We Built a Constitutional Compliance Engine. In 8 Hours | J Gray | [Read More](https://medium.com/p/93bbaced3cbc) |
+| Sun, 15 Feb 2026 19:50:48 GMT | Why You Are Failing at Bug Bounty Hunting (And the Blueprint to Fix It) | Krishna Kumar | [Read More](https://medium.com/p/e5a904ae63fa) |
+| Sun, 15 Feb 2026 19:48:55 GMT | Lord Of The Root: 1.0.1 Walkthrough | Anush M S | [Read More](https://medium.com/p/5027b5b565f2) |
 | Sun, 15 Feb 2026 19:44:09 GMT | SSRF Vulnerability in SourceCodester Website Link Extractor v1.0 | Hemant Raj Bhati | [Read More](https://medium.com/p/5df6bb708f5e) |
 | Sun, 15 Feb 2026 19:42:11 GMT | SpaceX Reportedly Exploring Dual-Class Share Structure Ahead of IPO | Tech News | [Read More](https://medium.com/p/df05a7288e43) |
 | Sun, 15 Feb 2026 19:36:11 GMT | Discord Age Verification is a Joke | David Lee | [Read More](https://medium.com/p/70950b47a8a8) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Feb 2026 14:52:43 GMT | Thinking Like an Attacker: How API Pen-Testers Identify Authentication Bypass | Madalitso Cheyo | [Read More](https://medium.com/p/662567cbd716) |
 | Sun, 15 Feb 2026 14:52:42 GMT | Linux’ta C Diski Neden Yok? Dosya Sistemi Mantığını Anlamak | Arda Derya | [Read More](https://medium.com/p/335a0221c8ce) |
 | Sun, 15 Feb 2026 14:50:42 GMT | Secure Coding in Java & Spring Boot | Vishal Lokhande | [Read More](https://medium.com/p/e57ea682efa0) |
-| Sun, 15 Feb 2026 14:45:37 GMT | Digital Forensics Lab 01 -Introduction to Digital Forensics | Aditbaps | [Read More](https://medium.com/p/bee24d42b78d) |
-| Sun, 15 Feb 2026 14:34:52 GMT | Understanding AAA in Cybersecurity: The Backbone of Access Control | Jenish Maharjan | [Read More](https://medium.com/p/7ee355247c8d) |
-| Sun, 15 Feb 2026 14:32:47 GMT | OWASP Mobile Top 10 — M2: Inadequate Supply Chain Security | Barış Kandemir | [Read More](https://medium.com/p/47f72461e4d8) |
-| Sun, 15 Feb 2026 14:32:05 GMT | OWASP Mobile Top 10 — M2: Yetersiz Tedarik Zinciri Güvenliği (Inadequate Supply Chain Security) | Barış Kandemir | [Read More](https://medium.com/p/3b1e811c6181) |
-| Sun, 15 Feb 2026 14:31:01 GMT | 10 Agent Failure Stories That Fixed Our Tool Contracts | Thinking Loop | [Read More](https://medium.com/p/08bc49c8e697) |
