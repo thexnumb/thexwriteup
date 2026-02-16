@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Feb 2026 19:39:25 GMT | Breaking and Defending HTTPS on Android: A Hands-On Certificate Pinning Lab | James Cullimore | [Read More](https://medium.com/p/d6191f01cbda) |
+| Mon, 16 Feb 2026 19:38:40 GMT | I Bought Three Used Shipping Containers Before I Learned What Actually Matters | Contractors Corner with David Whitmore | [Read More](https://medium.com/p/0a55276ad4eb) |
+| Mon, 16 Feb 2026 19:34:44 GMT | Notepad’in Evrimi ve CVE-2026–20841 | Fatih Tüzün | [Read More](https://medium.com/p/d2c160714973) |
+| Mon, 16 Feb 2026 19:23:10 GMT | How a Small OSINT Team Turned the Epstein Files Dump Into Actionable Intelligence | Lucas Matheus (1uc4s_m4theus) | [Read More](https://medium.com/p/32b7547a92b9) |
+| Mon, 16 Feb 2026 19:19:28 GMT | SecOps V2 — Control Panel | Techwin Cyber | [Read More](https://medium.com/p/63de5ac50a4c) |
+| Mon, 16 Feb 2026 19:13:15 GMT | Designing a No Subscription Fing Alternative for Field Technicians | Almost Brilliant Ideas | [Read More](https://medium.com/p/5b6c55269984) |
+| Mon, 16 Feb 2026 19:13:09 GMT | The 30-Minute Account Security Reset (2026): Stop Phishing, Takeovers & Payout Hijacks | Tahir | [Read More](https://medium.com/p/bd57ce37b7d7) |
+| Mon, 16 Feb 2026 19:12:01 GMT | The Gap | Anshuman | [Read More](https://medium.com/p/5df9f1c231bb) |
 | Mon, 16 Feb 2026 19:07:12 GMT | My Journey Through the Jr Penetration Tester Learning Path on TryHackMe | Subrat Samantaray | [Read More](https://medium.com/p/f283a6bf6f36) |
+| Mon, 16 Feb 2026 19:07:11 GMT | Analisis Lumma Stealer (Fake CAPTCHA) Menggunakan Cyber Kill Chain Framework | minouse3 | [Read More](https://medium.com/p/e0e88d6cbe46) |
 | Mon, 16 Feb 2026 19:01:54 GMT | Cybersecurity trends 2026 | AKLI ILIAS | [Read More](https://medium.com/p/48e3e1d57eac) |
 | Mon, 16 Feb 2026 19:01:01 GMT | EU GDPR — Article 15 (Right of Access by the Data Subject) | MDM Team | [Read More](https://medium.com/p/f0931191a2e0) |
 | Mon, 16 Feb 2026 18:50:10 GMT | 30 Days of Red Team: Day 24 — Pass-the-Ticket & Overpass-the-Hash | Maxwell Cross | [Read More](https://medium.com/p/aa87e2e8486c) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Feb 2026 14:14:51 GMT | This scary free world | Sepp Forscher | [Read More](https://medium.com/p/70d0aef97ff2) |
 | Mon, 16 Feb 2026 14:09:06 GMT | A Duel, a Genius, and Modern Encryption | Denys Lypnytskyi | [Read More](https://medium.com/p/567dd3ef2af8) |
 | Mon, 16 Feb 2026 14:07:07 GMT | When Bug Bounty Feels Like a Dead End (Read This Before You Quit) | Satyam Pathania | [Read More](https://medium.com/p/47c5b2dcc2a7) |
-| Mon, 16 Feb 2026 14:07:04 GMT | Day 2: The Art of Seeing the Extraordinary in the Ordinary | Kishore V | [Read More](https://medium.com/p/c30ff4e2a862) |
-| Mon, 16 Feb 2026 14:04:40 GMT | Real-World AWS Account Compromise Simulation | Davebhargavi | [Read More](https://medium.com/p/3cd39852f3dc) |
-| Mon, 16 Feb 2026 13:54:54 GMT | # From Code to Cash: Common Financial Mistakes Salaried IT Employees Make in Their 20s and 30s | Ajaiswal | [Read More](https://medium.com/p/863ab31bf011) |
-| Mon, 16 Feb 2026 13:52:10 GMT | Beginner guidelines for local storage and cookies usage | Manmohan J Mundhra, Bangalore, India | [Read More](https://medium.com/p/32d3a31e0ad5) |
-| Mon, 16 Feb 2026 13:46:05 GMT | The First Docker Build Is Fine… But Rebuilds Are the Trap! | Christoph Schweres | [Read More](https://medium.com/p/76637daaf331) |
-| Mon, 16 Feb 2026 13:45:47 GMT | Why Orange County Small Businesses Need Enterprise AI Security in 2026 | Technijian | [Read More](https://medium.com/p/d0e4e10d89f1) |
-| Mon, 16 Feb 2026 13:45:26 GMT | Detecting Phishing Emails Using Email Authentication Protocols and IOC Analysis- SOC POV | Dhakshineshwara Balaji | [Read More](https://medium.com/p/b8bea318e24a) |
-| Mon, 16 Feb 2026 13:39:53 GMT | AI Security Digest — February 2026 (Week 2) | Tal Eliyahu | [Read More](https://medium.com/p/fd25ef344919) |
-| Mon, 16 Feb 2026 13:39:44 GMT | The Reset Happening in Entry-Level Cybersecurity Roles | Taimur Ijlal | [Read More](https://medium.com/p/e48216e16d21) |
