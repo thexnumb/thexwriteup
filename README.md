@@ -12,7 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Feb 2026 08:44:03 GMT | The Invisible Bastion: Building Cybersecurity That Actually Works | Mubariz Paşayev | [Read More](https://medium.com/p/15c248dab742) |
+| Mon, 16 Feb 2026 08:35:56 GMT | Love at first breach — TryHeartMe | Scapshrk | [Read More](https://medium.com/p/31a9a01acc05) |
+| Mon, 16 Feb 2026 08:35:54 GMT | CSRF Attacks Explained: When Users Become the Hacker (Without Knowing It) | Adeshmaske | [Read More](https://medium.com/p/3bae40074d0e) |
+| Mon, 16 Feb 2026 08:34:19 GMT | QR codes | Ankit rai | [Read More](https://medium.com/p/986d811003d6) |
+| Mon, 16 Feb 2026 08:32:59 GMT | Importance of Cryptography | MD SABBIR AHMED | [Read More](https://medium.com/p/0017bfda86bf) |
+| Mon, 16 Feb 2026 08:27:25 GMT | ️ The “Defense in Depth” Philosophy | Shubham Arora | [Read More](https://medium.com/p/0ccea9f55029) |
+| Mon, 16 Feb 2026 08:26:50 GMT | Sanal Dünyada Güvenlik | Hamza Gunduz | [Read More](https://medium.com/p/ccc8fcc2e422) |
+| Mon, 16 Feb 2026 08:23:28 GMT | The Tiny Setting That Left an Admin Panel Open — and Cost $4.2 Million | 1$ Mistake | [Read More](https://medium.com/p/f485c3318993) |
+| Mon, 16 Feb 2026 08:17:01 GMT | Mastering Sprint Retrospectives: Proven Techniques for Continuous Agile Improvement | Amey Dodal | [Read More](https://medium.com/p/b9df4a260a70) |
+| Mon, 16 Feb 2026 08:16:00 GMT | Flu Proving Grounds linux lab | Cyb0rgBytes | [Read More](https://medium.com/p/5d4fae472213) |
+| Mon, 16 Feb 2026 08:15:31 GMT | Mastering Linux Fundamentals Through OverTheWire Bandit (Level 0–20) | My Ego | [Read More](https://medium.com/p/6f9271a42ae4) |
+| Mon, 16 Feb 2026 08:13:24 GMT | Impact of ai on cyber security | Mijaindholiya | [Read More](https://medium.com/p/74868197b82f) |
+| Mon, 16 Feb 2026 08:07:01 GMT | The Hacker’s Mind: Patching My Own System | Unsaid Verses | [Read More](https://medium.com/p/28230d4c7d78) |
+| Mon, 16 Feb 2026 08:06:34 GMT | Certified to Pwn: A TL;DR on ADCS Abuse using ESC 1–4 Templates | Akchhat | [Read More](https://medium.com/p/7c599638f55e) |
+| Mon, 16 Feb 2026 07:49:41 GMT | The Curious Case of the Triton Malware Fork | Brennan Kenneth Brown | [Read More](https://medium.com/p/e5365d43f2a0) |
+| Mon, 16 Feb 2026 07:46:01 GMT | Exploiting a Product Search SQL Injection in OopsSec Store | OopsSec Store | [Read More](https://medium.com/p/b3f09a3d0c81) |
+| Mon, 16 Feb 2026 07:45:21 GMT | Part 2 Outline: High-Impact Bugs Without Heavy Scanning | ghostyjoe | [Read More](https://medium.com/p/b0bdf20b50b5) |
+| Mon, 16 Feb 2026 07:42:39 GMT | Building Immutable Linux Servers for Enhanced Security | Majidbasharat | [Read More](https://medium.com/p/dcc9afa3ccf4) |
+| Mon, 16 Feb 2026 07:40:42 GMT | AI Recon Automation Stack: 12 Tools You Must Use to Supercharge Your Recon Game | Very Lazy Tech | [Read More](https://medium.com/p/e7a72ab64e0d) |
+| Mon, 16 Feb 2026 07:39:40 GMT | Smart Workflow Automation Strategies for Modern Enterprises | n8ndevelopers | [Read More](https://medium.com/p/d3a1364b4ba9) |
 | Mon, 16 Feb 2026 07:35:38 GMT | Why Modern Households Depend on Reliable Antivirus Software | Siyanoav | [Read More](https://medium.com/p/69477dc13ec1) |
+| Mon, 16 Feb 2026 07:31:01 GMT | 12 Safety Policies That Fail Without Tool Enforcement | Syntal | [Read More](https://medium.com/p/088f64f8f43d) |
 | Mon, 16 Feb 2026 07:20:53 GMT | Legal Boundaries of Red Team Operations in Cybersecurity | Cynox Security LLP. | [Read More](https://medium.com/p/71eec7e56aa1) |
 | Mon, 16 Feb 2026 07:16:17 GMT | Scaling Compliance with Baserow GRC Software | Baserow | [Read More](https://medium.com/p/7e8aae5c763b) |
 | Mon, 16 Feb 2026 07:16:09 GMT | My Weird Letter To The Editor | Evren T | [Read More](https://medium.com/p/4d939a373769) |
@@ -92,24 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Feb 2026 23:28:38 GMT | Events In Information Policy & Ethics: Securing Data In Clinical Machinery | Hannah Hillery | [Read More](https://medium.com/p/47fa644c1cfb) |
 | Sun, 15 Feb 2026 23:10:30 GMT | No-Password API Authentication with ZKP Architecture: A Novel Case of Use for Service-to-Service… | Elias Andrade | [Read More](https://medium.com/p/3b45a99d0389) |
 | Sun, 15 Feb 2026 23:02:59 GMT | Essential Cybersecurity Best Practices for Businesses | CyberSecurity | [Read More](https://medium.com/p/67fb77bf4bee) |
-| Sun, 15 Feb 2026 23:01:10 GMT | Effective Cybersecurity Strategy Example for Businesses | CyberSecurity | [Read More](https://medium.com/p/d2fce0457e73) |
-| Sun, 15 Feb 2026 23:01:02 GMT | Securing AI APPS: Vulnerabilities to Look Out for When Building AI Apps | Kolawole Tosin | [Read More](https://medium.com/p/c1f2a439aa53) |
-| Sun, 15 Feb 2026 23:00:19 GMT | Rooting/Jailbreaking iPhone X IOS 16.7.10 | n00 | [Read More](https://medium.com/p/969b43e1458a) |
-| Sun, 15 Feb 2026 22:57:41 GMT | Political power under the strain of independent minds and whistleblowers | Hayat Outahar | [Read More](https://medium.com/p/2da1bdf59930) |
-| Sun, 15 Feb 2026 22:51:41 GMT | Hacker Explains How to Harden Your Home Security System & Wi-Fi Router | z3r0trust | [Read More](https://medium.com/p/29235a2b45d4) |
-| Sun, 15 Feb 2026 22:41:28 GMT | Most Useful Linux Commands for Security Engineers | Janith Malinga | [Read More](https://medium.com/p/479dcd9d921a) |
-| Sun, 15 Feb 2026 22:37:36 GMT | Váš nový počítač vás možno špehuje — rovno z krabice | Adrian Trancik | [Read More](https://medium.com/p/146d508b4cb9) |
-| Sun, 15 Feb 2026 22:25:41 GMT | 2026 Siber Saldırıları Part-3 | Zekikayaalp | [Read More](https://medium.com/p/ff7f27d06aa7) |
-| Sun, 15 Feb 2026 22:19:51 GMT | PPL Reaper | S12 - 0x12Dark Development | [Read More](https://medium.com/p/66b380f0662f) |
-| Sun, 15 Feb 2026 22:19:39 GMT | Don’t let your OpenClaw agent go rogue! | Raj | [Read More](https://medium.com/p/1b33f8fab573) |
-| Sun, 15 Feb 2026 22:03:43 GMT | We Disclosed a Critical Exploit to a Hackathon Winning X402 Platform Security Platform. | aurasecurity | [Read More](https://medium.com/p/c094e302c915) |
-| Sun, 15 Feb 2026 22:01:00 GMT | Unfiltered Restart — Day 4: Storage | Maximillian Rueda | [Read More](https://medium.com/p/0ca1d58c51e0) |
-| Sun, 15 Feb 2026 21:54:49 GMT | CipherLib — The Private Newspaper for Bug Hunters | Sevada797 | [Read More](https://medium.com/p/59a19794f3ae) |
-| Sun, 15 Feb 2026 21:52:07 GMT | RetailBreach (CTF Walkthrough) | Pravat Dash | [Read More](https://medium.com/p/002c6c3ae7bf) |
-| Sun, 15 Feb 2026 21:47:07 GMT | 09055019190شماره خاله تبریز شماره خاله ارومیه شماره خاله کرج | شماره خاله تبریز شماره خاله ارومیه شماره خاله کرج | [Read More](https://medium.com/p/0897708de283) |
-| Sun, 15 Feb 2026 21:46:37 GMT | 09055019190شماره خاله تبریز شماره خاله ارومیه شماره خاله کرج | شماره خاله تبریز شماره خاله ارومیه شماره خاله کرج | [Read More](https://medium.com/p/23a473125b4d) |
-| Sun, 15 Feb 2026 21:35:28 GMT | The Danzell Update: 3 Critical Changes for UK SMEs in April 2026 | Baffour Dokyi Ampaw | [Read More](https://medium.com/p/e063e3f662b2) |
-| Sun, 15 Feb 2026 21:32:12 GMT | Phishing Attacks Explained: Tactics, Indicators, and Impact | Bradley zielinski | [Read More](https://medium.com/p/f642a5bd7769) |
-| Sun, 15 Feb 2026 21:31:38 GMT | The vulnerability of releasing unfinished versions of yourself. | Favour Emmanuel | [Read More](https://medium.com/p/ffe76ca03496) |
-| Sun, 15 Feb 2026 21:29:01 GMT | LLM Prompt Injection & System Leakage: CupidBot (TryHackMe Walkthrough) | RosanaFSS | [Read More](https://medium.com/p/3c86e492f869) |
-| Sun, 15 Feb 2026 21:16:43 GMT | Deterministic Computational Governance: Why Tier 0 Architecture Changes Digital Security | Adán Ignacio Ramalho Méndez | [Read More](https://medium.com/p/36a84ff782ea) |
