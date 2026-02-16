@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Feb 2026 17:01:00 GMT | Hidden Deep Into my Heart writeup (TryHackMe) | 7s26Simon | [Read More](https://medium.com/p/03a701e4ab6b) |
+| Mon, 16 Feb 2026 17:00:38 GMT | Bagaimana Lumma Stealer Mencuri Data? Analisis Menggunakan Cyber Kill Chain | Shafa Khairanisa | [Read More](https://medium.com/p/1638be7b70e1) |
+| Mon, 16 Feb 2026 16:59:47 GMT | Unauthenticated Image Access and EXIF Location Leak, Easy P4, you can find under 2 mins | Devansh Patel | [Read More](https://medium.com/p/88e5a9064a91) |
+| Mon, 16 Feb 2026 16:54:23 GMT | Ihe Mere Ịtụkwasị Obi na Exchange Kwadoro Dị Ka Bitunix Ji Dị Mkpa | Mr Alex Yung® | [Read More](https://medium.com/p/0081637cf90f) |
+| Mon, 16 Feb 2026 16:49:18 GMT | Small Business Network Security 2026: The Right Firewall Setup for Offices up to 20 Employees | Cordula Boeck | [Read More](https://medium.com/p/149f006faec5) |
+| Mon, 16 Feb 2026 16:48:15 GMT | I Installed Kali, Now What? A Beginner's Survival Guide. | Samuel | [Read More](https://medium.com/p/0d4c0ff0276c) |
+| Mon, 16 Feb 2026 16:47:12 GMT | Finding a Heap Buffer Over-Read in ascii-view (CWE-125) | CyberDucky | [Read More](https://medium.com/p/e7c9006e68f7) |
+| Mon, 16 Feb 2026 16:35:35 GMT | Keys Keys Keys | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/e993981d4d22) |
+| Mon, 16 Feb 2026 16:34:45 GMT | Cross-Site Scripting (XSS) Explained for Beginners: Simple Examples and How to Prevent It | etwinworkshop | [Read More](https://medium.com/p/49bac7301bbc) |
+| Mon, 16 Feb 2026 16:33:30 GMT | I Built My First SIEM Lab (And Broke It Multiple Times) | Simarjeet Singh Matharu | [Read More](https://medium.com/p/7be87c8dfb77) |
+| Mon, 16 Feb 2026 16:33:17 GMT | Why I Treat Every New Linux Server as Already Compromised | Faruk Ahmed | [Read More](https://medium.com/p/383d5b2c9246) |
+| Mon, 16 Feb 2026 16:32:24 GMT | The Plea of a Weeping Princess | Katalina | [Read More](https://medium.com/p/7590e8c88d73) |
+| Mon, 16 Feb 2026 16:31:00 GMT | Beyond Technology: Social Support, Risk, and Economic Value in Physicians’ Telemedicine Adoption in… | Partners in Digital Health | [Read More](https://medium.com/p/4ebfe49459e3) |
+| Mon, 16 Feb 2026 16:30:38 GMT | Upload Vulnerabilities CTF Walkthrough on TryHackMe | Tariq Farah | [Read More](https://medium.com/p/3d4c6ead9a3e) |
+| Mon, 16 Feb 2026 16:20:37 GMT | Is Test Management Outdated — or More Essential Than Ever? | Isaacdonnelson | [Read More](https://medium.com/p/2d4e646f95aa) |
+| Mon, 16 Feb 2026 16:15:40 GMT | Learning Fortinet Firewall — LESSON 1: First Bootup (Initial Setup) | Rouell Mamaril | [Read More](https://medium.com/p/0d1c15ed5a99) |
+| Mon, 16 Feb 2026 16:13:22 GMT | Stop Trusting req.body: How I Broke an Express + MongoDB App with NoSQL Injection | MR.7 | [Read More](https://medium.com/p/ba92208ebe53) |
+| Mon, 16 Feb 2026 16:06:59 GMT | Pico-Ctf challenge walkthrough {Forensics} | Arka Priya Das | [Read More](https://medium.com/p/2fe75d26981c) |
+| Mon, 16 Feb 2026 16:06:39 GMT | A Cleaner Starting Point for Threat Actor Research | Grimmsgadgets | [Read More](https://medium.com/p/905b80d822c0) |
+| Mon, 16 Feb 2026 16:02:29 GMT | A few employment truths you probably don’t want to hear | Chris Hornberger | [Read More](https://medium.com/p/aec6b9c64d8c) |
 | Mon, 16 Feb 2026 15:57:56 GMT | Presidents Don’t Run Countries. Infrastructure Does. | Anna Jacobi | [Read More](https://medium.com/p/029225e6972b) |
 | Mon, 16 Feb 2026 15:57:37 GMT | The Database Was Sold Online. but the Vulnerability Was Still Open | Iski | [Read More](https://medium.com/p/57c386c3404b) |
 | Mon, 16 Feb 2026 15:56:12 GMT | What Is OpenClaw — Is It Risky? And How to Use It Safely | akashTheDev | [Read More](https://medium.com/p/65067c09820a) |
@@ -47,6 +67,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Feb 2026 14:21:00 GMT | Identity Risk Scoring Only Works If Attribution Is Defensible | Kmori | [Read More](https://medium.com/p/1925cef1c664) |
 | Mon, 16 Feb 2026 14:16:00 GMT | Security Concepts Every Java Developer in Banking Should Master: Part 1 | Kalyani Dagde | [Read More](https://medium.com/p/3f5a79689544) |
 | Mon, 16 Feb 2026 14:15:29 GMT | What Makes a Great Cyber Security Supplier, And Why Does It Matter So Much for UK Manufacturers? | Luke Appleby | [Read More](https://medium.com/p/9b9a7a47a0fd) |
+| Mon, 16 Feb 2026 14:15:22 GMT | The Brain Does Not Optimize Truth. It Navigates Admissible Regimes. | Max Barzenkov | [Read More](https://medium.com/p/25ad336f813a) |
 | Mon, 16 Feb 2026 14:14:51 GMT | This scary free world | Sepp Forscher | [Read More](https://medium.com/p/70d0aef97ff2) |
 | Mon, 16 Feb 2026 14:09:06 GMT | A Duel, a Genius, and Modern Encryption | Denys Lypnytskyi | [Read More](https://medium.com/p/567dd3ef2af8) |
 | Mon, 16 Feb 2026 14:07:07 GMT | When Bug Bounty Feels Like a Dead End (Read This Before You Quit) | Satyam Pathania | [Read More](https://medium.com/p/47c5b2dcc2a7) |
@@ -94,24 +115,3 @@ TODAY’S… | Adeniran Michael | [Read More](https://medium.com/p/7b2798737c3b)
 | Mon, 16 Feb 2026 11:52:07 GMT | Spike Barrier: Advanced Vehicle Access Control for Secure Premises | Etradefia | [Read More](https://medium.com/p/802e0fca54bf) |
 | Mon, 16 Feb 2026 11:44:22 GMT | Phishing Attack Example — Home Lab Demonstration | SG | [Read More](https://medium.com/p/966167fbb11a) |
 | Mon, 16 Feb 2026 11:38:45 GMT | HTB Sauna — Active Directory Penetration Test | 0xRC404 | [Read More](https://medium.com/p/70872e3e5d73) |
-| Mon, 16 Feb 2026 11:36:01 GMT | Board Cyber Readiness: Prove Your Oversight Works Before It’s Tested in Public | Tyson Martin | [Read More](https://medium.com/p/722c5bb294bd) |
-| Mon, 16 Feb 2026 11:35:31 GMT | I Built a Real SOC Cyber Range Using Active Directory + Microsoft Sentinel | Anthony Okeke | [Read More](https://medium.com/p/e4c3aa043d10) |
-| Mon, 16 Feb 2026 11:31:01 GMT | How SSL andTLS Encryption Protects User Data from Modern Cyber Threats | Sparkle Web | [Read More](https://medium.com/p/90d5f4ef9d26) |
-| Mon, 16 Feb 2026 11:24:15 GMT | How to Solve: Untagged Images in ACR Still Showing in Defender for Cloud as Vulnerable | alaa barqawi | [Read More](https://medium.com/p/e24fe1cbec79) |
-| Mon, 16 Feb 2026 11:21:03 GMT | Why My ENV Variables Are Visible in the Browser (Vite + React Explained) | Sonal Sai K S | [Read More](https://medium.com/p/657924158338) |
-| Mon, 16 Feb 2026 11:13:33 GMT | ROI of Cybersecurity: How Investments Reduce Risk | Anaynams | [Read More](https://medium.com/p/d530d0bbfb3d) |
-| Mon, 16 Feb 2026 11:11:37 GMT | Why Enterprise Architecture has become a cornerstone of modern cybersecurity | 6pri1 Le | [Read More](https://medium.com/p/d0ba9cbde339) |
-| Mon, 16 Feb 2026 11:08:46 GMT | CyberASAP Demo Day 2026: What SME Cybersecurity Innovation Means for UK Small Businesses Right Now | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/a322b540b024) |
-| Mon, 16 Feb 2026 11:08:23 GMT | HTB Academy File Inclusion Skills Assessment Walkthrough — Updated Lab | Muhammad Husain | [Read More](https://medium.com/p/7b3b8a4c4896) |
-| Mon, 16 Feb 2026 11:07:42 GMT | More Than Just Backups: 5 Impactful Strategies for Business Resiliency You Might Be Overlooking | Anna Bejan | [Read More](https://medium.com/p/3b1ef9f3cf61) |
-| Mon, 16 Feb 2026 11:07:03 GMT | Cybersecurity Training: Making Training Stick in UK SMEs — Who Needs It, What Works, and Why Now | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/ac9da39980a1) |
-| Mon, 16 Feb 2026 11:06:35 GMT | Linux Basic Commands — Beginner Friendly Guide (With Examples) | Shalu | [Read More](https://medium.com/p/9751860f6414) |
-| Mon, 16 Feb 2026 10:54:15 GMT | Fake CAPTCHA : Mengulik malware berbahaya dengan Cyber Kill Chain | Boxieee | [Read More](https://medium.com/p/e26afea6457c) |
-| Mon, 16 Feb 2026 10:53:10 GMT | How i Passed eCPPTv3 ! | Mustafamahfouz | [Read More](https://medium.com/p/3c696aa63dc8) |
-| Mon, 16 Feb 2026 10:48:11 GMT | The Architecture of Provable Agency: From Functional Autonomy to H2E Governance | Frank Morales Aguilera | [Read More](https://medium.com/p/df0363e71b59) |
-| Mon, 16 Feb 2026 10:44:17 GMT | Introduction to Digital Forensics -Lab-01 | Darasamsaraayu | [Read More](https://medium.com/p/eb80f5878ad3) |
-| Mon, 16 Feb 2026 10:36:47 GMT | The Future of Machine Learning in Cyber Security 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/da9331d2e8a3) |
-| Mon, 16 Feb 2026 10:23:52 GMT | Exam Review: Certified AI/ML Pentester (C-AI/MLPen) | Dhanush N | [Read More](https://medium.com/p/d991a7704872) |
-| Mon, 16 Feb 2026 10:19:50 GMT | RI Sadi - Information Technology - Dhaka, Bangladesh | RI Sadi | [Read More](https://medium.com/p/c5c3f36c9242) |
-| Mon, 16 Feb 2026 10:13:51 GMT | Introduction Lab-01 Bootcamp Cyber Security | percobaan athn | [Read More](https://medium.com/p/f2b3c6660838) |
-| Mon, 16 Feb 2026 10:08:11 GMT | Is Your Proprietary Code the New Ransomware Target? | Finstein.ai | [Read More](https://medium.com/p/c5f9f95b7d7c) |
