@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Feb 2026 11:36:01 GMT | Board Cyber Readiness: Prove Your Oversight Works Before It’s Tested in Public | Tyson Martin | [Read More](https://medium.com/p/722c5bb294bd) |
+| Mon, 16 Feb 2026 11:35:31 GMT | I Built a Real SOC Cyber Range Using Active Directory + Microsoft Sentinel | Anthony Okeke | [Read More](https://medium.com/p/e4c3aa043d10) |
+| Mon, 16 Feb 2026 11:24:15 GMT | How to Solve: Untagged Images in ACR Still Showing in Defender for Cloud as Vulnerable | alaa barqawi | [Read More](https://medium.com/p/e24fe1cbec79) |
+| Mon, 16 Feb 2026 11:21:03 GMT | Why My ENV Variables Are Visible in the Browser (Vite + React Explained) | Sonal Sai K S | [Read More](https://medium.com/p/657924158338) |
+| Mon, 16 Feb 2026 11:13:33 GMT | ROI of Cybersecurity: How Investments Reduce Risk | Anaynams | [Read More](https://medium.com/p/d530d0bbfb3d) |
+| Mon, 16 Feb 2026 11:11:37 GMT | Why Enterprise Architecture has become a cornerstone of modern cybersecurity | 6pri1 Le | [Read More](https://medium.com/p/d0ba9cbde339) |
+| Mon, 16 Feb 2026 11:08:46 GMT | CyberASAP Demo Day 2026: What SME Cybersecurity Innovation Means for UK Small Businesses Right Now | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/a322b540b024) |
+| Mon, 16 Feb 2026 11:08:23 GMT | HTB Academy File Inclusion Skills Assessment Walkthrough — Updated Lab | Muhammad Husain | [Read More](https://medium.com/p/7b3b8a4c4896) |
+| Mon, 16 Feb 2026 11:07:42 GMT | More Than Just Backups: 5 Impactful Strategies for Business Resiliency You Might Be Overlooking | Anna Bejan | [Read More](https://medium.com/p/3b1ef9f3cf61) |
+| Mon, 16 Feb 2026 11:07:03 GMT | Cybersecurity Training: Making Training Stick in UK SMEs — Who Needs It, What Works, and Why Now | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/ac9da39980a1) |
+| Mon, 16 Feb 2026 11:06:35 GMT | Linux Basic Commands — Beginner Friendly Guide (With Examples) | Shalu | [Read More](https://medium.com/p/9751860f6414) |
+| Mon, 16 Feb 2026 10:54:15 GMT | Fake CAPTCHA : Mengulik malware berbahaya dengan Cyber Kill Chain | Boxieee | [Read More](https://medium.com/p/e26afea6457c) |
 | Mon, 16 Feb 2026 10:53:10 GMT | How i Passed eCPPTv3 ! | Mustafamahfouz | [Read More](https://medium.com/p/3c696aa63dc8) |
 | Mon, 16 Feb 2026 10:48:11 GMT | The Architecture of Provable Agency: From Functional Autonomy to H2E Governance | Frank Morales Aguilera | [Read More](https://medium.com/p/df0363e71b59) |
 | Mon, 16 Feb 2026 10:44:17 GMT | Introduction to Digital Forensics -Lab-01 | Darasamsaraayu | [Read More](https://medium.com/p/eb80f5878ad3) |
@@ -101,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Feb 2026 05:14:56 GMT | Building a Secure Personal Reverse Engineering Lab | grepStrength | [Read More](https://medium.com/p/650280a2c8a9) |
 | Mon, 16 Feb 2026 05:12:48 GMT | OpenClaw Security: What You Actually Need to Know | Rachana Gupta | [Read More](https://medium.com/p/5d8d4364f4c5) |
 | Mon, 16 Feb 2026 05:12:05 GMT | How to Choose the Best Cyber Security College for Your Career | Ritik | [Read More](https://medium.com/p/43cf87f338a4) |
-| Mon, 16 Feb 2026 05:11:47 GMT | Stored HTML Injection That Took Down the Application — Landed me in $$$ Bounty | sunny561 | [Read More](https://medium.com/p/604c1f1f40b2) |
-| Mon, 16 Feb 2026 05:11:23 GMT | Bandit Level 0 → 1: Langkah Awal Masuk ke Server Via SSH | Galih Permana Rizki | [Read More](https://medium.com/p/82fd5dedbf68) |
-| Mon, 16 Feb 2026 05:05:38 GMT | I Vibe-Coded a CryptoCurrency for the Classroom using AntiGravity: Here’s What I Learned! | Josh Beck | [Read More](https://medium.com/p/d9ef6410f38b) |
-| Mon, 16 Feb 2026 05:01:02 GMT | Staj Günlüğümden: Web Zafiyetleri ve Mobil Sızma Testi Laboratuvarı Kurulumu | Halit Batuhan ASLAN | [Read More](https://medium.com/p/7f3a161730c8) |
-| Mon, 16 Feb 2026 04:50:34 GMT | Hacking Study Notes — About Shells | jaejun835 | [Read More](https://medium.com/p/c8a8e7b08f4b) |
-| Mon, 16 Feb 2026 04:46:37 GMT | Ultimate Defense: Everything You Need to Know About McAfee Total Protection (5 Devices, 1 Year… | Order Software keys | [Read More](https://medium.com/p/b38f5e8767b1) |
-| Mon, 16 Feb 2026 04:43:44 GMT | Tryhackme - Attacktive Directory | jaejun835 | [Read More](https://medium.com/p/a2c87de04b41) |
-| Mon, 16 Feb 2026 04:31:01 GMT | Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Other Devices | Cybersphere Official | [Read More](https://medium.com/p/932752bf520b) |
-| Mon, 16 Feb 2026 04:31:01 GMT | Safety Needs Replayable Traces, Not Policy Docs | Bhagya Rana | [Read More](https://medium.com/p/2a63b4836215) |
-| Mon, 16 Feb 2026 04:29:28 GMT | WSL 2 + Kali Linux: Simple Setup for Web Pentesting (Nmap, Nuclei, DirBuster) | abdullah | [Read More](https://medium.com/p/f99fdbde5761) |
-| Mon, 16 Feb 2026 04:26:00 GMT | SOC Metrics That Actually Matter: Measuring Analyst Performance and Detection Maturity | Muskaan Arora | [Read More](https://medium.com/p/347d3984c8f6) |
-| Mon, 16 Feb 2026 04:20:59 GMT | Lumma Stealer : Ketika “Verifikasi Manusia” Menjadi Perangkap | Maulana Firdaus Nazmi | [Read More](https://medium.com/p/794e8ae158d4) |
