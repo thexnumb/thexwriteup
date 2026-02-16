@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Feb 2026 10:53:10 GMT | How i Passed eCPPTv3 ! | Mustafamahfouz | [Read More](https://medium.com/p/3c696aa63dc8) |
+| Mon, 16 Feb 2026 10:48:11 GMT | The Architecture of Provable Agency: From Functional Autonomy to H2E Governance | Frank Morales Aguilera | [Read More](https://medium.com/p/df0363e71b59) |
+| Mon, 16 Feb 2026 10:44:17 GMT | Introduction to Digital Forensics -Lab-01 | Darasamsaraayu | [Read More](https://medium.com/p/eb80f5878ad3) |
+| Mon, 16 Feb 2026 10:36:47 GMT | The Future of Machine Learning in Cyber Security 2026 | Manisha Chaudhary | [Read More](https://medium.com/p/da9331d2e8a3) |
+| Mon, 16 Feb 2026 10:23:52 GMT | Exam Review: Certified AI/ML Pentester (C-AI/MLPen) | Dhanush N | [Read More](https://medium.com/p/d991a7704872) |
+| Mon, 16 Feb 2026 10:19:50 GMT | RI Sadi - Information Technology - Dhaka, Bangladesh | RI Sadi | [Read More](https://medium.com/p/c5c3f36c9242) |
+| Mon, 16 Feb 2026 10:13:51 GMT | Introduction Lab-01 Bootcamp Cyber Security | percobaan athn | [Read More](https://medium.com/p/f2b3c6660838) |
+| Mon, 16 Feb 2026 10:08:11 GMT | Is Your Proprietary Code the New Ransomware Target? | Finstein.ai | [Read More](https://medium.com/p/c5f9f95b7d7c) |
+| Mon, 16 Feb 2026 10:06:02 GMT | CupidBot writeup (TryHackMe) | 7s26Simon | [Read More](https://medium.com/p/e7210b78a2f5) |
+| Mon, 16 Feb 2026 10:03:55 GMT | Insider Threats in Saudi Businesses: Detection and Prevention Strategies | Rahman Iqbal | [Read More](https://medium.com/p/347adeed6879) |
+| Mon, 16 Feb 2026 09:55:26 GMT | Top Qualities to Look for in an IT Solution Provider | InstaLogic | [Read More](https://medium.com/p/72215037e06d) |
+| Mon, 16 Feb 2026 09:47:27 GMT | Telecom Electronic Manufacturing Services (EMS) Market: Navigating the Future of Telecommunications… | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/8bd1a8b20feb) |
 | Mon, 16 Feb 2026 09:46:00 GMT | AI-Generated Malware: The Week That Changed Cybersecurity | BeamSec | [Read More](https://medium.com/p/494fd5c25432) |
 | Mon, 16 Feb 2026 09:45:43 GMT | Agentic AI’s Dark Turn: How 2026 Autonomous Bots Supercharge Global Laundering Networks from Moscow… | dharini lawhatre | [Read More](https://medium.com/p/a664a30c8046) |
 | Mon, 16 Feb 2026 09:43:12 GMT | Introduction to Digital Forensics | Raakin Al Hassan | [Read More](https://medium.com/p/21a7d385a635) |
@@ -101,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Feb 2026 04:29:28 GMT | WSL 2 + Kali Linux: Simple Setup for Web Pentesting (Nmap, Nuclei, DirBuster) | abdullah | [Read More](https://medium.com/p/f99fdbde5761) |
 | Mon, 16 Feb 2026 04:26:00 GMT | SOC Metrics That Actually Matter: Measuring Analyst Performance and Detection Maturity | Muskaan Arora | [Read More](https://medium.com/p/347d3984c8f6) |
 | Mon, 16 Feb 2026 04:20:59 GMT | Lumma Stealer : Ketika “Verifikasi Manusia” Menjadi Perangkap | Maulana Firdaus Nazmi | [Read More](https://medium.com/p/794e8ae158d4) |
-| Mon, 16 Feb 2026 04:14:15 GMT | Cybersecurity Salary in India 2026 | AJ | [Read More](https://medium.com/p/3c7bb743167b) |
-| Mon, 16 Feb 2026 04:11:06 GMT | Why Most ServiceNow ITSM Implementations Fail to Deliver ROI — And How to Get It Right | Alex s | [Read More](https://medium.com/p/54598e98a111) |
-| Mon, 16 Feb 2026 04:01:00 GMT | ☁️ The Shared Responsibility Model Explained: Who Secures What in the Cloud? | Rishab Nitin Tiwari | [Read More](https://medium.com/p/edfedc4a2396) |
-| Mon, 16 Feb 2026 03:57:44 GMT | Day 06: Understanding Malware Types: A SOC Analyst’s Essential Guide | Muhammad Kashif | [Read More](https://medium.com/p/bb178abf0a20) |
-| Mon, 16 Feb 2026 03:57:19 GMT | A Proposal to Apple Part 3 — Analysis Traces of “Structural Destruction” in iOS : How a Stolen… | Ryu360 | [Read More](https://medium.com/p/c4f63bfd8e0e) |
-| Mon, 16 Feb 2026 03:50:34 GMT | Every path I took. | Miss A. | [Read More](https://medium.com/p/0cf79abd2dfb) |
-| Mon, 16 Feb 2026 03:41:36 GMT | Bitcoin Slides 30% From Record High as Extreme Fear Overtakes Crypto Markets | Ali Shakeer | [Read More](https://medium.com/p/cd06d984d700) |
-| Mon, 16 Feb 2026 03:34:37 GMT | The CIA Triad — What Cybersecurity Is Actually Protecting | PlainText Cyber | [Read More](https://medium.com/p/c858842cdee9) |
-| Mon, 16 Feb 2026 03:31:01 GMT | 10 Common Mistakes in Typed Error Contracts | Arunangshu Das | [Read More](https://medium.com/p/a594390b5828) |
-| Mon, 16 Feb 2026 03:31:01 GMT | Why Most Cybersecurity Students Are Unemployable (And Don’t Know It Yet) | Manubhav Sharma | [Read More](https://medium.com/p/be6466dc0e4b) |
-| Mon, 16 Feb 2026 03:12:56 GMT | Getting Started with AI for Free: A Step-by-Step Guide to Your OpenRouter API Key | Sarfaraz Merchant | [Read More](https://medium.com/p/390ad7b43fa6) |
-| Mon, 16 Feb 2026 03:12:43 GMT | Turn Your Phone into a Hacking Machine: The 16GB RAM Cloud PC Guide | Zer0Figure | [Read More](https://medium.com/p/cc30aefa73d6) |
