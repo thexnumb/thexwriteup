@@ -12,7 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Feb 2026 06:01:01 GMT | Privileged Access: Why It’s Still the Biggest Risk in Your Organization | Hazel Chirinda | [Read More](https://medium.com/p/ad482cf762f3) |
+| Mon, 16 Feb 2026 05:58:59 GMT | Cloud-Native & DevOps Development Services for Global Businesses | GateTouch | [Read More](https://medium.com/p/d0cc08080680) |
+| Mon, 16 Feb 2026 05:46:50 GMT | AI-Powered SIEM: Fewer Alerts, Faster Decisions | NetWitness | [Read More](https://medium.com/p/625e9ec34fac) |
+| Mon, 16 Feb 2026 05:46:49 GMT | Why Companies That Use AI Actually Hire More People | Vijay Kumar Gupta | [Read More](https://medium.com/p/2aba2c764af8) |
+| Mon, 16 Feb 2026 05:42:42 GMT | GramGenies Premium Release | HAMEED | [Read More](https://medium.com/p/a589eac7be98) |
+| Mon, 16 Feb 2026 05:38:24 GMT | The Cryptography Concept Journey — Hash Chains | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/37f196861082) |
+| Mon, 16 Feb 2026 05:37:37 GMT | Breaking Down Silos: Making Business Continuity Collaborative | Opsbook | [Read More](https://medium.com/p/dac90c6f3a0f) |
+| Mon, 16 Feb 2026 05:36:37 GMT | From Google Cert to Odin Project | Temitayo Adebisi | [Read More](https://medium.com/p/09412dffa648) |
+| Mon, 16 Feb 2026 05:33:19 GMT | The Future of Crisis Management: Embrace Resilience | Opsbook | [Read More](https://medium.com/p/69b1a1b8ee6f) |
+| Mon, 16 Feb 2026 05:31:01 GMT | Secure-by-Design Development in Practice | sachhsoft | [Read More](https://medium.com/p/e78cbe1b677c) |
+| Mon, 16 Feb 2026 05:28:50 GMT | Fuzzing Wordlists for Backup Files | Abhirup Konwar | [Read More](https://medium.com/p/512dca2475b3) |
+| Mon, 16 Feb 2026 05:16:08 GMT | Over the past week, one theme stood out to me in how governments and institutions are responding to… | A D | [Read More](https://medium.com/p/00566bac9235) |
+| Mon, 16 Feb 2026 05:14:56 GMT | Building a Secure Personal Reverse Engineering Lab | grepStrength | [Read More](https://medium.com/p/650280a2c8a9) |
+| Mon, 16 Feb 2026 05:12:48 GMT | OpenClaw Security: What You Actually Need to Know | Rachana Gupta | [Read More](https://medium.com/p/5d8d4364f4c5) |
+| Mon, 16 Feb 2026 05:12:05 GMT | How to Choose the Best Cyber Security College for Your Career | Ritik | [Read More](https://medium.com/p/43cf87f338a4) |
+| Mon, 16 Feb 2026 05:11:47 GMT | Stored HTML Injection That Took Down the Application — Landed me in $$$ Bounty | sunny561 | [Read More](https://medium.com/p/604c1f1f40b2) |
+| Mon, 16 Feb 2026 05:11:23 GMT | Bandit Level 0 → 1: Langkah Awal Masuk ke Server Via SSH | Galih Permana Rizki | [Read More](https://medium.com/p/82fd5dedbf68) |
+| Mon, 16 Feb 2026 05:05:38 GMT | I Vibe-Coded a CryptoCurrency for the Classroom using AntiGravity: Here’s What I Learned! | Josh Beck | [Read More](https://medium.com/p/d9ef6410f38b) |
+| Mon, 16 Feb 2026 05:01:02 GMT | Staj Günlüğümden: Web Zafiyetleri ve Mobil Sızma Testi Laboratuvarı Kurulumu | Halit Batuhan ASLAN | [Read More](https://medium.com/p/7f3a161730c8) |
+| Mon, 16 Feb 2026 04:50:34 GMT | Hacking Study Notes — About Shells | jaejun835 | [Read More](https://medium.com/p/c8a8e7b08f4b) |
+| Mon, 16 Feb 2026 04:46:37 GMT | Ultimate Defense: Everything You Need to Know About McAfee Total Protection (5 Devices, 1 Year… | Order Software keys | [Read More](https://medium.com/p/b38f5e8767b1) |
+| Mon, 16 Feb 2026 04:43:44 GMT | Tryhackme - Attacktive Directory | jaejun835 | [Read More](https://medium.com/p/a2c87de04b41) |
 | Mon, 16 Feb 2026 04:31:01 GMT | Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Other Devices | Cybersphere Official | [Read More](https://medium.com/p/932752bf520b) |
+| Mon, 16 Feb 2026 04:31:01 GMT | Safety Needs Replayable Traces, Not Policy Docs | Bhagya Rana | [Read More](https://medium.com/p/2a63b4836215) |
+| Mon, 16 Feb 2026 04:29:28 GMT | WSL 2 + Kali Linux: Simple Setup for Web Pentesting (Nmap, Nuclei, DirBuster) | abdullah | [Read More](https://medium.com/p/f99fdbde5761) |
 | Mon, 16 Feb 2026 04:26:00 GMT | SOC Metrics That Actually Matter: Measuring Analyst Performance and Detection Maturity | Muskaan Arora | [Read More](https://medium.com/p/347d3984c8f6) |
 | Mon, 16 Feb 2026 04:14:15 GMT | Cybersecurity Salary in India 2026 | AJ | [Read More](https://medium.com/p/3c7bb743167b) |
 | Mon, 16 Feb 2026 04:11:06 GMT | Why Most ServiceNow ITSM Implementations Fail to Deliver ROI — And How to Get It Right | Alex s | [Read More](https://medium.com/p/54598e98a111) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Feb 2026 19:59:00 GMT | We Built a Constitutional Compliance Engine. In 8 Hours | J Gray | [Read More](https://medium.com/p/93bbaced3cbc) |
 | Sun, 15 Feb 2026 19:50:48 GMT | Why You Are Failing at Bug Bounty Hunting (And the Blueprint to Fix It) | Krishna Kumar | [Read More](https://medium.com/p/e5a904ae63fa) |
 | Sun, 15 Feb 2026 19:48:55 GMT | Lord Of The Root: 1.0.1 Walkthrough | Anush M S | [Read More](https://medium.com/p/5027b5b565f2) |
-| Sun, 15 Feb 2026 19:44:09 GMT | SSRF Vulnerability in SourceCodester Website Link Extractor v1.0 | Hemant Raj Bhati | [Read More](https://medium.com/p/5df6bb708f5e) |
-| Sun, 15 Feb 2026 19:42:11 GMT | SpaceX Reportedly Exploring Dual-Class Share Structure Ahead of IPO | Tech News | [Read More](https://medium.com/p/df05a7288e43) |
-| Sun, 15 Feb 2026 19:36:11 GMT | Discord Age Verification is a Joke | David Lee | [Read More](https://medium.com/p/70950b47a8a8) |
-| Sun, 15 Feb 2026 19:32:50 GMT | AI in Cybersecurity: Real-Time Threat Detection & Prevention | ANNETTE PARTIDA | [Read More](https://medium.com/p/7000d0e57d3d) |
-| Sun, 15 Feb 2026 19:28:39 GMT | AI Agents: AresGPT Prompt Engineering for Cyber Defenders a CompTIA Security+ All Study Guide | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/522381335221) |
-| Sun, 15 Feb 2026 19:25:18 GMT | TryHackMe Writeup: Compiled | Berkay AĞGÜL | [Read More](https://medium.com/p/9a4c08045826) |
-| Sun, 15 Feb 2026 19:17:38 GMT | The Illusion of the “Villain” in Cyberspace | Sneha Thenkaraimaharajan | [Read More](https://medium.com/p/b78280fcfc3d) |
-| Sun, 15 Feb 2026 19:15:10 GMT | THE ARCHITECT SIGNALS THE END OF THE “OLD WORLD”: GLOBAL LAUNCH OF SOVEREIGN NETWORK UK SET FOR ‘27 | Simplified Complexity | [Read More](https://medium.com/p/31616341a498) |
-| Sun, 15 Feb 2026 19:11:40 GMT | Homelab - Detection and Threat Hunting Focused Homelab Architecture | Bilal Emre Ozgun | [Read More](https://medium.com/p/caa18fd5d158) |
-| Sun, 15 Feb 2026 19:10:00 GMT | Encryption: What is it, and how does it work? | Jibriel Jeelani | [Read More](https://medium.com/p/1975da5d2f6f) |
-| Sun, 15 Feb 2026 19:08:28 GMT | Is your cloud strategy protecting your reputation? | Onix | [Read More](https://medium.com/p/695386514a76) |
-| Sun, 15 Feb 2026 19:04:55 GMT | ✨ Get More from BurpSuite by Chaining It with OWASP ZAP | Yogesh Rathod | [Read More](https://medium.com/p/80ac9e104c01) |
-| Sun, 15 Feb 2026 19:04:24 GMT | Automated Sandbox Pipeline with CrowdStrike Falcon Fusion SOAR | Shraiyash Pandey | [Read More](https://medium.com/p/30445c2fed60) |
-| Sun, 15 Feb 2026 19:04:06 GMT | Homelab - Detection ve Threat Hunting Odaklı Homelab Mimarisi | Bilal Emre Ozgun | [Read More](https://medium.com/p/1193394e7e90) |
-| Sun, 15 Feb 2026 19:01:56 GMT | I Scanned 50 Small Business Domains for Security Issues. Most Got an F. | 0xN0rD | [Read More](https://medium.com/p/06fafb9d0e72) |
-| Sun, 15 Feb 2026 18:56:22 GMT | Before I Call It Love | Namitha Suresh | [Read More](https://medium.com/p/4d6fc080d265) |
-| Sun, 15 Feb 2026 18:55:00 GMT | How I built a Python C2 Server with file Encryption capabilities | Onobrakpeya Efeturi | [Read More](https://medium.com/p/16b233dbee0b) |
-| Sun, 15 Feb 2026 18:50:23 GMT | Ilusi Kotak Ajaib: Membongkar Mitos Teknologi Digital | Nasrulwahid | [Read More](https://medium.com/p/3b4ea46d9f04) |
-| Sun, 15 Feb 2026 18:46:59 GMT | The Understanding Girl | Alizabeth Amelia Rose | [Read More](https://medium.com/p/fb49f2427c33) |
-| Sun, 15 Feb 2026 18:41:04 GMT | My First Bug Bounty: A Simple OTP Flaw That Led to Account Takeover | montaser mohsen | [Read More](https://medium.com/p/7c6a73d3dce7) |
-| Sun, 15 Feb 2026 18:35:16 GMT | Secure Deployment & Hardening of Google Cloud Platform (GCP) Projects — Part IV | SOCFortress | [Read More](https://medium.com/p/c0e86d931685) |
-| Sun, 15 Feb 2026 18:34:26 GMT | [Azure] Home Office Solution using Microsoft Azure VPN Gateway | Pedro Córdova | [Read More](https://medium.com/p/016f5393abd5) |
-| Sun, 15 Feb 2026 18:32:57 GMT | Defending Small Businesses from Cyber Attacks: The SME Security Crisis | Mohammed Annan | [Read More](https://medium.com/p/1a938875561e) |
-| Sun, 15 Feb 2026 18:32:51 GMT | The Internet Never Forgets — But Your Email Should | Warren Smith | [Read More](https://medium.com/p/252db08d2f0a) |
