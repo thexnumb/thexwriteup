@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Feb 2026 15:57:56 GMT | Presidents Don’t Run Countries. Infrastructure Does. | Anna Jacobi | [Read More](https://medium.com/p/029225e6972b) |
+| Mon, 16 Feb 2026 15:57:37 GMT | The Database Was Sold Online. but the Vulnerability Was Still Open | Iski | [Read More](https://medium.com/p/57c386c3404b) |
+| Mon, 16 Feb 2026 15:56:12 GMT | What Is OpenClaw — Is It Risky? And How to Use It Safely | akashTheDev | [Read More](https://medium.com/p/65067c09820a) |
+| Mon, 16 Feb 2026 15:55:48 GMT | THM - TryHeartMe | Francesco Pastore | [Read More](https://medium.com/p/0f217a6e3cd9) |
+| Mon, 16 Feb 2026 15:55:13 GMT | Why Reputation Farming Kills the Future It’s Trying to Build | Eirene Accord | [Read More](https://medium.com/p/75e8a97e10d5) |
+| Mon, 16 Feb 2026 15:52:48 GMT | THM - When Hearts Collide | Francesco Pastore | [Read More](https://medium.com/p/367f5c70c39f) |
+| Mon, 16 Feb 2026 15:44:49 GMT | Lumma Stealer dan FakeCAPTCHA : Pencuri atau Penyusup? | Nino Tokito | [Read More](https://medium.com/p/677657739f3f) |
+| Mon, 16 Feb 2026 15:42:10 GMT | Building a Bulletproof Micro SaaS: How I Achieved a 99/100 Security Score for TDC OS | Tugui Dragos-Constantin | [Read More](https://medium.com/p/da73f88d8ea0) |
+| Mon, 16 Feb 2026 15:39:15 GMT | Extracting IPA from a Non-Jailbroken iOS Device with Apple Configurator | Serhat ÇİÇEK | [Read More](https://medium.com/p/7c26de094b4f) |
+| Mon, 16 Feb 2026 15:39:00 GMT | The Tennessee Goat and the Singing Heart | John F. | [Read More](https://medium.com/p/b3033d3b3954) |
+| Mon, 16 Feb 2026 15:38:59 GMT | Overthewire Bandit Writeup | Rakha Fausta | [Read More](https://medium.com/p/5a8d58cd5da1) |
+| Mon, 16 Feb 2026 15:38:57 GMT | From Classroom Presentation to Presenting for MCA Final Years: My Steganography Project | Priyam Rohilla | [Read More](https://medium.com/p/b2fc0b741739) |
+| Mon, 16 Feb 2026 15:34:09 GMT | Ultimate Node.js Authentication & Image Management System | Krishnakumar | [Read More](https://medium.com/p/f9400b4e54e3) |
+| Mon, 16 Feb 2026 15:27:02 GMT | C2 is More Than Code | Tyreek Haynes | [Read More](https://medium.com/p/24d307c9c390) |
+| Mon, 16 Feb 2026 15:23:26 GMT | Sagas in Modern Java: From Thread Pools and Callbacks to Virtual Threads and Structured Concurrency | Jitin Kayyala | [Read More](https://medium.com/p/b223e588719d) |
 | Mon, 16 Feb 2026 15:05:43 GMT | HackSmarter:ShareThePain | Rocco Mauer | [Read More](https://medium.com/p/9f93a9a9c223) |
 | Mon, 16 Feb 2026 15:03:57 GMT | Sobre exploits y seguridad en un runtime de bytecode en el kernel con eBPF (parte 1 de 4). | Alex | [Read More](https://medium.com/p/802f9d90412a) |
 | Mon, 16 Feb 2026 15:00:23 GMT | Your SaaS Apps Are the New Active Directory And Nobody Is Governing Them | Sunnysinha | [Read More](https://medium.com/p/6ef7c28d534f) |
@@ -100,18 +115,3 @@ TODAY’S… | Adeniran Michael | [Read More](https://medium.com/p/7b2798737c3b)
 | Mon, 16 Feb 2026 10:19:50 GMT | RI Sadi - Information Technology - Dhaka, Bangladesh | RI Sadi | [Read More](https://medium.com/p/c5c3f36c9242) |
 | Mon, 16 Feb 2026 10:13:51 GMT | Introduction Lab-01 Bootcamp Cyber Security | percobaan athn | [Read More](https://medium.com/p/f2b3c6660838) |
 | Mon, 16 Feb 2026 10:08:11 GMT | Is Your Proprietary Code the New Ransomware Target? | Finstein.ai | [Read More](https://medium.com/p/c5f9f95b7d7c) |
-| Mon, 16 Feb 2026 10:06:02 GMT | CupidBot writeup (TryHackMe) | 7s26Simon | [Read More](https://medium.com/p/e7210b78a2f5) |
-| Mon, 16 Feb 2026 10:03:55 GMT | Insider Threats in Saudi Businesses: Detection and Prevention Strategies | Rahman Iqbal | [Read More](https://medium.com/p/347adeed6879) |
-| Mon, 16 Feb 2026 09:55:26 GMT | Top Qualities to Look for in an IT Solution Provider | InstaLogic | [Read More](https://medium.com/p/72215037e06d) |
-| Mon, 16 Feb 2026 09:47:27 GMT | Telecom Electronic Manufacturing Services (EMS) Market: Navigating the Future of Telecommunications… | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/8bd1a8b20feb) |
-| Mon, 16 Feb 2026 09:46:00 GMT | AI-Generated Malware: The Week That Changed Cybersecurity | BeamSec | [Read More](https://medium.com/p/494fd5c25432) |
-| Mon, 16 Feb 2026 09:45:43 GMT | Agentic AI’s Dark Turn: How 2026 Autonomous Bots Supercharge Global Laundering Networks from Moscow… | dharini lawhatre | [Read More](https://medium.com/p/a664a30c8046) |
-| Mon, 16 Feb 2026 09:43:12 GMT | Introduction to Digital Forensics | Raakin Al Hassan | [Read More](https://medium.com/p/21a7d385a635) |
-| Mon, 16 Feb 2026 09:43:02 GMT | At 2:30 AM, I Thought I Was Hunting a Bug. By Morning, a 3KG Cake Was Hunting Me. | Vivek PS | [Read More](https://medium.com/p/ee9be15570f1) |
-| Mon, 16 Feb 2026 09:43:01 GMT | Python Dictionaries Explained with Real-Life Use Cases | Praveenkumarsharma | [Read More](https://medium.com/p/2feefad59295) |
-| Mon, 16 Feb 2026 09:42:36 GMT | Security Features in Flutter for Healthcare Apps | Alfonce Micah Yano | [Read More](https://medium.com/p/e763d53ac6a4) |
-| Mon, 16 Feb 2026 09:40:29 GMT | Refining the GRC process | Adeoluwa Obadofin | [Read More](https://medium.com/p/dc6c87fb90ad) |
-| Mon, 16 Feb 2026 09:40:07 GMT | Signed Messages — TryHackMe | Nolan Stark | [Read More](https://medium.com/p/4fe0dde7fe82) |
-| Mon, 16 Feb 2026 09:31:54 GMT | Stay curious. Keep breaking things (ethically, of course ) | Andreas | [Read More](https://medium.com/p/ffe63c84338f) |
-| Mon, 16 Feb 2026 09:30:48 GMT | Why WebbyAcad Data Recovery & Outlook Tools are Industry Essentials | Alok Night | [Read More](https://medium.com/p/fe4f8112bd6a) |
-| Mon, 16 Feb 2026 09:26:53 GMT | The Day Your AI Agent Went Rogue | Praveen Govindaraj | [Read More](https://medium.com/p/63eebcecae55) |
