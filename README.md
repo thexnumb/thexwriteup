@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Feb 2026 23:18:28 GMT | The Rise of Cognitive Architectures and the Need for AI Fingerprints | Laurent-Philippe Albou | [Read More](https://medium.com/p/fcee286c0c33) |
+| Mon, 16 Feb 2026 23:12:32 GMT | Cyber Couture — OSINT and Fashion Crimes | Intel_Inquirer | [Read More](https://medium.com/p/3d91aaa8ea69) |
+| Mon, 16 Feb 2026 23:02:13 GMT | A Doomer’s Guide to Saving Cybersecurity — and the Internet | Prathamesh Verma | [Read More](https://medium.com/p/365726479d73) |
+| Mon, 16 Feb 2026 23:01:53 GMT | Post 13: SDLC Phase 2 — Analysis and Design (Part 2) | Satti Data | [Read More](https://medium.com/p/2968fcaa668c) |
+| Mon, 16 Feb 2026 22:42:55 GMT | IDOR Vulnerability in Staff Management Endpoint — Arbitrary Deletion of Staff Members — 500$ | Hasan Khan | [Read More](https://medium.com/p/aff5c84de2ff) |
+| Mon, 16 Feb 2026 22:35:27 GMT | Experiment 001: Threat Hunting AI-Assisted Analysis of Malicious Browser Extensions | JackTheSamurai | [Read More](https://medium.com/p/617c46c415c6) |
+| Mon, 16 Feb 2026 22:34:09 GMT | What if an attacker already knows everything about your company… without touching your network? | Mohamed Yasser | [Read More](https://medium.com/p/219e9d546549) |
 | Mon, 16 Feb 2026 22:24:53 GMT | A PSsystec Perspective on the Munich Security Conference 2026 | PSsystec | [Read More](https://medium.com/p/0c4af742e15c) |
 | Mon, 16 Feb 2026 22:21:26 GMT | Découverte de l’IA avec Aina Haritiana | Aina Haritiana | [Read More](https://medium.com/p/01547fdab396) |
 | Mon, 16 Feb 2026 22:06:58 GMT | BitLocker — Recovering Recovery Keys in Practice | Nexamos | [Read More](https://medium.com/p/26280265a174) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Feb 2026 15:57:56 GMT | Presidents Don’t Run Countries. Infrastructure Does. | Anna Jacobi | [Read More](https://medium.com/p/029225e6972b) |
 | Mon, 16 Feb 2026 15:57:37 GMT | The Database Was Sold Online. but the Vulnerability Was Still Open | Iski | [Read More](https://medium.com/p/57c386c3404b) |
 | Mon, 16 Feb 2026 15:56:12 GMT | What Is OpenClaw — Is It Risky? And How to Use It Safely | akashTheDev | [Read More](https://medium.com/p/65067c09820a) |
-| Mon, 16 Feb 2026 15:55:48 GMT | THM - TryHeartMe | Francesco Pastore | [Read More](https://medium.com/p/0f217a6e3cd9) |
-| Mon, 16 Feb 2026 15:55:13 GMT | Why Reputation Farming Kills the Future It’s Trying to Build | Eirene Accord | [Read More](https://medium.com/p/75e8a97e10d5) |
-| Mon, 16 Feb 2026 15:53:40 GMT | Thinking Like an Attacker: How API Pen-Testers Identify IDOR (Insecure Direct Object Reference) | Charmaine Mangorima | [Read More](https://medium.com/p/4e14445942e9) |
-| Mon, 16 Feb 2026 15:52:48 GMT | THM - When Hearts Collide | Francesco Pastore | [Read More](https://medium.com/p/367f5c70c39f) |
-| Mon, 16 Feb 2026 15:44:49 GMT | Lumma Stealer dan FakeCAPTCHA : Pencuri atau Penyusup? | Nino Tokito | [Read More](https://medium.com/p/677657739f3f) |
-| Mon, 16 Feb 2026 15:42:10 GMT | Building a Bulletproof Micro SaaS: How I Achieved a 99/100 Security Score for TDC OS | Tugui Dragos-Constantin | [Read More](https://medium.com/p/da73f88d8ea0) |
-| Mon, 16 Feb 2026 15:39:15 GMT | Extracting IPA from a Non-Jailbroken iOS Device with Apple Configurator | Serhat ÇİÇEK | [Read More](https://medium.com/p/7c26de094b4f) |
