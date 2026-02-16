@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Feb 2026 21:19:06 GMT | Simulating T1003.001: How To Detect LSASS Access with Sysmon and Splunk | Melchizedek Anyonje | [Read More](https://medium.com/p/27e5040f4c3e) |
+| Mon, 16 Feb 2026 21:12:14 GMT | The Science of Digital Trust | BlockchainBard | [Read More](https://medium.com/p/07b0385e08b7) |
+| Mon, 16 Feb 2026 21:09:37 GMT | Session Hijacking’in Anatomisi: Cookie Theft ile 2FA Nasıl Atlatılır? | isaergisi | [Read More](https://medium.com/p/35f316b1b3e4) |
+| Mon, 16 Feb 2026 21:01:09 GMT | HIRE SWIFT FOX CODER TO HELP YOU RECOVER YOUR LOST ASSETS AND MORE | Easton Wright | [Read More](https://medium.com/p/e5d407abacf4) |
+| Mon, 16 Feb 2026 21:01:01 GMT | Safer Filesystem Tools for AI Agents Using MCP and S3 | Luna | [Read More](https://medium.com/p/6dd5693d69a5) |
+| Mon, 16 Feb 2026 20:57:25 GMT | Entegrasyon Öncesi OIDC ve OAuth 2.0 Akışlarını Doğru Anlamak | Emre Onur | [Read More](https://medium.com/p/fc58534df793) |
+| Mon, 16 Feb 2026 20:57:21 GMT | If AI Can Audit Smart Contracts, Why Do We Still Need Human Auditors? | Abraham | [Read More](https://medium.com/p/9c1cef3f7212) |
+| Mon, 16 Feb 2026 20:52:26 GMT | SOCFortress CoPilot Docs Are Live: How to Get Value Fast | SOCFortress | [Read More](https://medium.com/p/46d179b40518) |
+| Mon, 16 Feb 2026 20:50:47 GMT | 404 Not Found Səhifəsini Necə Təhlükəsizlik Boşluğuna Çevirdim? | SilverXCyber | [Read More](https://medium.com/p/4547709017c6) |
+| Mon, 16 Feb 2026 20:43:18 GMT | Best IPTV for Firestick in USA — Complete 2026 Guide | Deiptv.ink | [Read More](https://medium.com/p/87fb593c4a94) |
+| Mon, 16 Feb 2026 20:43:12 GMT | Try Hack Me- OverlayFS CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/f9da2d89f13c) |
+| Mon, 16 Feb 2026 20:39:48 GMT | INE-Assessment Methodologies: Enumeration CTF 1 | Singkhon K | [Read More](https://medium.com/p/0d0254006c10) |
 | Mon, 16 Feb 2026 20:18:15 GMT | Security System | Eddie Brock | [Read More](https://medium.com/p/29e50e4f7c4a) |
 | Mon, 16 Feb 2026 20:10:33 GMT | From Raw LLM Calls to Trusted Outputs: How ShivAISecurity Transforms AI Risk into Controlled… | Amit Patriwala | [Read More](https://medium.com/p/909050e73e2c) |
 | Mon, 16 Feb 2026 20:07:51 GMT | Why Agentic AI Is the New Malware Surface: Inside the 18K Exposed OpenClaw Instances | Sebastian Buzdugan | [Read More](https://medium.com/p/76883f60ff54) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Feb 2026 15:05:43 GMT | HackSmarter:ShareThePain | Rocco Mauer | [Read More](https://medium.com/p/9f93a9a9c223) |
 | Mon, 16 Feb 2026 15:03:57 GMT | Sobre exploits y seguridad en un runtime de bytecode en el kernel con eBPF (parte 1 de 4). | Alex | [Read More](https://medium.com/p/802f9d90412a) |
 | Mon, 16 Feb 2026 15:00:23 GMT | Your SaaS Apps Are the New Active Directory And Nobody Is Governing Them | Sunnysinha | [Read More](https://medium.com/p/6ef7c28d534f) |
-| Mon, 16 Feb 2026 14:56:24 GMT | The $300k Shift: Why “Security Architect” is the Most Critical Role on Wall Street in 2026 | Shanker Goud | [Read More](https://medium.com/p/b899191bc17e) |
-| Mon, 16 Feb 2026 14:56:00 GMT | The Zero-Trust Mirage: Why Your VPN is a Liability in 2026 (And the Rise of Hardware-Level… | Toyez | [Read More](https://medium.com/p/c9071ba4d415) |
-| Mon, 16 Feb 2026 14:50:22 GMT | Ffuf & Sqlmap Urllist file txt Scan | Mr Robot Hackteam | [Read More](https://medium.com/p/b42fb07dc8d8) |
-| Mon, 16 Feb 2026 14:49:43 GMT | The Algorithm is Watching — and It’s About to Get You Sued | Djakson Cleber | [Read More](https://medium.com/p/98ca2847fa5a) |
-| Mon, 16 Feb 2026 14:45:04 GMT | Ethereum Repricing: From Rollup-Centric to Security Settlement Layer | BroadNotes by 0xjacobzhao | [Read More](https://medium.com/p/e4ce683a2864) |
-| Mon, 16 Feb 2026 14:44:13 GMT | Write-up Lengkap Bandit (OverTheWire): Dari Nol Sampai Tamat | Ibnu Hibban | [Read More](https://medium.com/p/895fb7a36b9a) |
-| Mon, 16 Feb 2026 14:43:54 GMT | Building a Real-Time Brute Force Detection System with Kali Linux and Splunk | Thompson Aiyidubie | [Read More](https://medium.com/p/0b3199a1dbdb) |
-| Mon, 16 Feb 2026 14:41:10 GMT | Types of Encryption Algorithms used in Cybersecurity | Jibriel Jeelani | [Read More](https://medium.com/p/0c894598d2da) |
-| Mon, 16 Feb 2026 14:36:42 GMT | I Ran a Security Audit on an AI Agent. What I Found Kept Me Up at Night. | Pruthvi Kuppagiri | [Read More](https://medium.com/p/a501c7ecd884) |
-| Mon, 16 Feb 2026 14:34:13 GMT | AI agent authorization with A2A protocol and HashiCorp Vault | Rosemary Wang | [Read More](https://medium.com/p/2e0c36fc2efc) |
-| Mon, 16 Feb 2026 14:31:00 GMT | Shadow Credentials Attack in Active Directory | Cynox Security LLP. | [Read More](https://medium.com/p/a3fc04755714) |
-| Mon, 16 Feb 2026 14:31:00 GMT | BOUNTY - HTB - Windows -Walkthrough - Write up | Marinovharisan | [Read More](https://medium.com/p/a89027d0b235) |
