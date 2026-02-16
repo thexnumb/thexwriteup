@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Feb 2026 20:18:15 GMT | Security System | Eddie Brock | [Read More](https://medium.com/p/29e50e4f7c4a) |
+| Mon, 16 Feb 2026 20:10:33 GMT | From Raw LLM Calls to Trusted Outputs: How ShivAISecurity Transforms AI Risk into Controlled… | Amit Patriwala | [Read More](https://medium.com/p/909050e73e2c) |
+| Mon, 16 Feb 2026 20:07:51 GMT | Why Agentic AI Is the New Malware Surface: Inside the 18K Exposed OpenClaw Instances | Sebastian Buzdugan | [Read More](https://medium.com/p/76883f60ff54) |
+| Mon, 16 Feb 2026 20:06:00 GMT | From OWASP Top 10 for LLMs to CI/CD: Securing AI Systems at Build Time | Alejandro Aucestovar | [Read More](https://medium.com/p/1dce225cb9c0) |
+| Mon, 16 Feb 2026 20:05:24 GMT | Exploiting Organisation Wildcards in OIDC Trust Policies | Sadi Zane | [Read More](https://medium.com/p/a98eda04fb46) |
+| Mon, 16 Feb 2026 20:04:50 GMT | The Ultimate 2026 Web Auth Playbook: A Senior Engineer’s Guide to Authentication & Authorization | kuldeepsharma1 | [Read More](https://medium.com/p/34a8f484aafa) |
+| Mon, 16 Feb 2026 19:53:19 GMT | WiCys: A (Cybersecurity) Girl’s Best Friend | Tarunika Kapoor | [Read More](https://medium.com/p/5dac0d2679de) |
+| Mon, 16 Feb 2026 19:52:28 GMT | Shadow Operators: How Private Security Firms Navigate the Grey Zone of Modern Warfare | Jonas Rios | [Read More](https://medium.com/p/853b18062d3c) |
+| Mon, 16 Feb 2026 19:40:57 GMT | Hacking Android through the Cloud: A Hands-On AWS Reverse Shell Guide. | Elijah Chimera | [Read More](https://medium.com/p/384282c5d4c8) |
 | Mon, 16 Feb 2026 19:39:25 GMT | Breaking and Defending HTTPS on Android: A Hands-On Certificate Pinning Lab | James Cullimore | [Read More](https://medium.com/p/d6191f01cbda) |
 | Mon, 16 Feb 2026 19:38:40 GMT | I Bought Three Used Shipping Containers Before I Learned What Actually Matters | Contractors Corner with David Whitmore | [Read More](https://medium.com/p/0a55276ad4eb) |
 | Mon, 16 Feb 2026 19:34:44 GMT | Notepad’in Evrimi ve CVE-2026–20841 | Fatih Tüzün | [Read More](https://medium.com/p/d2c160714973) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Feb 2026 14:34:13 GMT | AI agent authorization with A2A protocol and HashiCorp Vault | Rosemary Wang | [Read More](https://medium.com/p/2e0c36fc2efc) |
 | Mon, 16 Feb 2026 14:31:00 GMT | Shadow Credentials Attack in Active Directory | Cynox Security LLP. | [Read More](https://medium.com/p/a3fc04755714) |
 | Mon, 16 Feb 2026 14:31:00 GMT | BOUNTY - HTB - Windows -Walkthrough - Write up | Marinovharisan | [Read More](https://medium.com/p/a89027d0b235) |
-| Mon, 16 Feb 2026 14:29:38 GMT | Cybersecurity Essentials for Modern Apps | Jaytech | [Read More](https://medium.com/p/cc54432acc36) |
-| Mon, 16 Feb 2026 14:23:33 GMT | Yellow RAT Lab: Walkthrough | Tanmay jha | [Read More](https://medium.com/p/e62ddbf6dd55) |
-| Mon, 16 Feb 2026 14:21:00 GMT | Identity Risk Scoring Only Works If Attribution Is Defensible | Kmori | [Read More](https://medium.com/p/1925cef1c664) |
-| Mon, 16 Feb 2026 14:16:00 GMT | Security Concepts Every Java Developer in Banking Should Master: Part 1 | Kalyani Dagde | [Read More](https://medium.com/p/3f5a79689544) |
-| Mon, 16 Feb 2026 14:15:29 GMT | What Makes a Great Cyber Security Supplier, And Why Does It Matter So Much for UK Manufacturers? | Luke Appleby | [Read More](https://medium.com/p/9b9a7a47a0fd) |
-| Mon, 16 Feb 2026 14:15:22 GMT | The Brain Does Not Optimize Truth. It Navigates Admissible Regimes. | Max Barzenkov | [Read More](https://medium.com/p/25ad336f813a) |
-| Mon, 16 Feb 2026 14:14:51 GMT | This scary free world | Sepp Forscher | [Read More](https://medium.com/p/70d0aef97ff2) |
-| Mon, 16 Feb 2026 14:09:06 GMT | A Duel, a Genius, and Modern Encryption | Denys Lypnytskyi | [Read More](https://medium.com/p/567dd3ef2af8) |
-| Mon, 16 Feb 2026 14:07:07 GMT | When Bug Bounty Feels Like a Dead End (Read This Before You Quit) | Satyam Pathania | [Read More](https://medium.com/p/47c5b2dcc2a7) |
