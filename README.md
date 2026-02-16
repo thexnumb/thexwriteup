@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Feb 2026 15:05:43 GMT | HackSmarter:ShareThePain | Rocco Mauer | [Read More](https://medium.com/p/9f93a9a9c223) |
+| Mon, 16 Feb 2026 15:03:57 GMT | Sobre exploits y seguridad en un runtime de bytecode en el kernel con eBPF (parte 1 de 4). | Alex | [Read More](https://medium.com/p/802f9d90412a) |
+| Mon, 16 Feb 2026 15:00:23 GMT | Your SaaS Apps Are the New Active Directory And Nobody Is Governing Them | Sunnysinha | [Read More](https://medium.com/p/6ef7c28d534f) |
+| Mon, 16 Feb 2026 14:56:24 GMT | The $300k Shift: Why “Security Architect” is the Most Critical Role on Wall Street in 2026 | Shanker Goud | [Read More](https://medium.com/p/b899191bc17e) |
+| Mon, 16 Feb 2026 14:56:00 GMT | The Zero-Trust Mirage: Why Your VPN is a Liability in 2026 (And the Rise of Hardware-Level… | Toyez | [Read More](https://medium.com/p/c9071ba4d415) |
+| Mon, 16 Feb 2026 14:50:22 GMT | Ffuf & Sqlmap Urllist file txt Scan | Mr Robot Hackteam | [Read More](https://medium.com/p/b42fb07dc8d8) |
+| Mon, 16 Feb 2026 14:49:43 GMT | The Algorithm is Watching — and It’s About to Get You Sued | Djakson Cleber | [Read More](https://medium.com/p/98ca2847fa5a) |
+| Mon, 16 Feb 2026 14:45:04 GMT | Ethereum Repricing: From Rollup-Centric to Security Settlement Layer | BroadNotes by 0xjacobzhao | [Read More](https://medium.com/p/e4ce683a2864) |
+| Mon, 16 Feb 2026 14:44:13 GMT | Write-up Lengkap Bandit (OverTheWire): Dari Nol Sampai Tamat | Ibnu Hibban | [Read More](https://medium.com/p/895fb7a36b9a) |
+| Mon, 16 Feb 2026 14:43:54 GMT | Building a Real-Time Brute Force Detection System with Kali Linux and Splunk | Thompson Aiyidubie | [Read More](https://medium.com/p/0b3199a1dbdb) |
+| Mon, 16 Feb 2026 14:41:10 GMT | Types of Encryption Algorithms used in Cybersecurity | Jibriel Jeelani | [Read More](https://medium.com/p/0c894598d2da) |
+| Mon, 16 Feb 2026 14:36:42 GMT | I Ran a Security Audit on an AI Agent. What I Found Kept Me Up at Night. | Pruthvi Kuppagiri | [Read More](https://medium.com/p/a501c7ecd884) |
+| Mon, 16 Feb 2026 14:34:13 GMT | AI agent authorization with A2A protocol and HashiCorp Vault | Rosemary Wang | [Read More](https://medium.com/p/2e0c36fc2efc) |
+| Mon, 16 Feb 2026 14:31:00 GMT | Shadow Credentials Attack in Active Directory | Cynox Security LLP. | [Read More](https://medium.com/p/a3fc04755714) |
+| Mon, 16 Feb 2026 14:31:00 GMT | BOUNTY - HTB - Windows -Walkthrough - Write up | Marinovharisan | [Read More](https://medium.com/p/a89027d0b235) |
+| Mon, 16 Feb 2026 14:29:38 GMT | Cybersecurity Essentials for Modern Apps | Jaytech | [Read More](https://medium.com/p/cc54432acc36) |
+| Mon, 16 Feb 2026 14:23:33 GMT | Yellow RAT Lab: Walkthrough | Tanmay jha | [Read More](https://medium.com/p/e62ddbf6dd55) |
+| Mon, 16 Feb 2026 14:21:00 GMT | Identity Risk Scoring Only Works If Attribution Is Defensible | Kmori | [Read More](https://medium.com/p/1925cef1c664) |
+| Mon, 16 Feb 2026 14:16:00 GMT | Security Concepts Every Java Developer in Banking Should Master: Part 1 | Kalyani Dagde | [Read More](https://medium.com/p/3f5a79689544) |
+| Mon, 16 Feb 2026 14:15:29 GMT | What Makes a Great Cyber Security Supplier, And Why Does It Matter So Much for UK Manufacturers? | Luke Appleby | [Read More](https://medium.com/p/9b9a7a47a0fd) |
+| Mon, 16 Feb 2026 14:14:51 GMT | This scary free world | Sepp Forscher | [Read More](https://medium.com/p/70d0aef97ff2) |
 | Mon, 16 Feb 2026 14:09:06 GMT | A Duel, a Genius, and Modern Encryption | Denys Lypnytskyi | [Read More](https://medium.com/p/567dd3ef2af8) |
 | Mon, 16 Feb 2026 14:07:07 GMT | When Bug Bounty Feels Like a Dead End (Read This Before You Quit) | Satyam Pathania | [Read More](https://medium.com/p/47c5b2dcc2a7) |
 | Mon, 16 Feb 2026 14:07:04 GMT | Day 2: The Art of Seeing the Extraordinary in the Ordinary | Kishore V | [Read More](https://medium.com/p/c30ff4e2a862) |
@@ -94,24 +115,3 @@ TODAY’S… | Adeniran Michael | [Read More](https://medium.com/p/7b2798737c3b)
 | Mon, 16 Feb 2026 09:31:54 GMT | Stay curious. Keep breaking things (ethically, of course ) | Andreas | [Read More](https://medium.com/p/ffe63c84338f) |
 | Mon, 16 Feb 2026 09:30:48 GMT | Why WebbyAcad Data Recovery & Outlook Tools are Industry Essentials | Alok Night | [Read More](https://medium.com/p/fe4f8112bd6a) |
 | Mon, 16 Feb 2026 09:26:53 GMT | The Day Your AI Agent Went Rogue | Praveen Govindaraj | [Read More](https://medium.com/p/63eebcecae55) |
-| Mon, 16 Feb 2026 09:26:28 GMT | Plain Text ,Cipher Text and Type of Encryption | MD SABBIR AHMED | [Read More](https://medium.com/p/799cfa361368) |
-| Mon, 16 Feb 2026 09:24:12 GMT | Why TOTP Is Not Secure by Default | Dmytri | [Read More](https://medium.com/p/fc693c3586e1) |
-| Mon, 16 Feb 2026 09:12:51 GMT | Start Your Career as a Cyber Security SOC Analyst! | Molletibalu | [Read More](https://medium.com/p/1b290f023db4) |
-| Mon, 16 Feb 2026 09:04:07 GMT | Installing Tools on Kali Linux — Building Your Cybersecurity Arsenal the Right Way | Br4in4rd | [Read More](https://medium.com/p/5101b2c70738) |
-| Mon, 16 Feb 2026 09:01:02 GMT | Leaked Cloud Credentials: When AWS Keys End Up in Stealer Logs | Alexandre Vandamme | [Read More](https://medium.com/p/5a45acf0df1e) |
-| Mon, 16 Feb 2026 09:01:02 GMT | What is OWASP 10 ?(2026 Edition) | 0xSmit | [Read More](https://medium.com/p/48a06fa1e52c) |
-| Mon, 16 Feb 2026 08:50:13 GMT | Total Security Solutions India: Strengthening Protection with Advanced Electronic Security… | Ciss India | [Read More](https://medium.com/p/99211939ef35) |
-| Mon, 16 Feb 2026 08:44:31 GMT | Secure Messaging Predictions for 2026: Secure Messaging Trends Shaping Trust, Governance, and the… | RealTyme | [Read More](https://medium.com/p/35921d7f2dd1) |
-| Mon, 16 Feb 2026 08:44:03 GMT | The Invisible Bastion: Building Cybersecurity That Actually Works | Mubariz Paşayev | [Read More](https://medium.com/p/15c248dab742) |
-| Mon, 16 Feb 2026 08:42:31 GMT | Lab: Exploiting HTTP request smuggling to perform web cache poisoning - Portswigger | L4V4NY4  AGR3 | [Read More](https://medium.com/p/86eb5ac9edb9) |
-| Mon, 16 Feb 2026 08:35:56 GMT | Love at first breach — TryHeartMe | Scapshrk | [Read More](https://medium.com/p/31a9a01acc05) |
-| Mon, 16 Feb 2026 08:35:54 GMT | CSRF Attacks Explained: When Users Become the Hacker (Without Knowing It) | Adeshmaske | [Read More](https://medium.com/p/3bae40074d0e) |
-| Mon, 16 Feb 2026 08:34:19 GMT | QR codes | Ankit rai | [Read More](https://medium.com/p/986d811003d6) |
-| Mon, 16 Feb 2026 08:32:59 GMT | Importance of Cryptography | MD SABBIR AHMED | [Read More](https://medium.com/p/0017bfda86bf) |
-| Mon, 16 Feb 2026 08:27:25 GMT | ️ The “Defense in Depth” Philosophy | Shubham Arora | [Read More](https://medium.com/p/0ccea9f55029) |
-| Mon, 16 Feb 2026 08:26:50 GMT | Sanal Dünyada Güvenlik | Hamza Gunduz | [Read More](https://medium.com/p/ccc8fcc2e422) |
-| Mon, 16 Feb 2026 08:23:28 GMT | The Tiny Setting That Left an Admin Panel Open — and Cost $4.2 Million | 1$ Mistake | [Read More](https://medium.com/p/f485c3318993) |
-| Mon, 16 Feb 2026 08:17:01 GMT | Mastering Sprint Retrospectives: Proven Techniques for Continuous Agile Improvement | Amey Dodal | [Read More](https://medium.com/p/b9df4a260a70) |
-| Mon, 16 Feb 2026 08:16:00 GMT | Flu Proving Grounds linux lab | Cyb0rgBytes | [Read More](https://medium.com/p/5d4fae472213) |
-| Mon, 16 Feb 2026 08:15:31 GMT | Mastering Linux Fundamentals Through OverTheWire Bandit (Level 0–20) | My Ego | [Read More](https://medium.com/p/6f9271a42ae4) |
-| Mon, 16 Feb 2026 08:13:24 GMT | Impact of ai on cyber security | Mijaindholiya | [Read More](https://medium.com/p/74868197b82f) |
