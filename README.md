@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Feb 2026 18:00:29 GMT | 0What Are the Epstein Files? A Clear Explanation (2026 Update) | Teach us | [Read More](https://medium.com/p/87371c257d49) |
+| Mon, 16 Feb 2026 18:00:19 GMT | The Hidden Privacy Threat in AI | Aditya Raj | [Read More](https://medium.com/p/5e438abb5cef) |
+| Mon, 16 Feb 2026 17:48:28 GMT | Why I Started Learning Ethical Hacking? | Priyesh Patware | [Read More](https://medium.com/p/aff2bef412f2) |
+| Mon, 16 Feb 2026 17:38:00 GMT | Hidden Deep Into My Heart — TryHackMe Walkthrough | Latha | [Read More](https://medium.com/p/966c1632c182) |
+| Mon, 16 Feb 2026 17:35:48 GMT | Code or Concrete: Why Your Front Door is a Cybersecurity Lesson | Stephen Bernard Agwai | [Read More](https://medium.com/p/232d1feed76a) |
+| Mon, 16 Feb 2026 17:34:20 GMT | Fake Online Shops Are Booming: How Threat Actors Are Targeting Shoppers and Businesses | Chetan Seripally | [Read More](https://medium.com/p/79138eb2909e) |
+| Mon, 16 Feb 2026 17:30:14 GMT | 2026 Siber Saldırıları: Milano-Cortina Kış Olimpiyatları Siber Saldırısı | Berat Can Satir | [Read More](https://medium.com/p/f83670ce82f8) |
+| Mon, 16 Feb 2026 17:29:52 GMT | CSP BypassVulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/6237ee2f2f66) |
+| Mon, 16 Feb 2026 17:29:41 GMT | Cloud SOC vs On-Premise SOC: Which Security Operations Center Fits Your Organization? | Ilyess Sellami | [Read More](https://medium.com/p/5d2fa5a71244) |
+| Mon, 16 Feb 2026 17:27:27 GMT | Context Corrosion: A GPT Companion Note With the TGP Anchor | Madhusudan Gopanna | [Read More](https://medium.com/p/337622186734) |
+| Mon, 16 Feb 2026 17:21:18 GMT | THE DECISION LEDGER DOCTRINE FOR HUMAN AI COGNITIVE SYSTEMS | Matthew Wood | [Read More](https://medium.com/p/2762998a09ff) |
+| Mon, 16 Feb 2026 17:17:28 GMT | Email Spoofing Security: DMARC | Duncan Hurwood | [Read More](https://medium.com/p/154564818526) |
+| Mon, 16 Feb 2026 17:15:32 GMT | The AuthBite Blog #1 | Anish Nayak | [Read More](https://medium.com/p/7f00ffd0e930) |
+| Mon, 16 Feb 2026 17:12:36 GMT | Why Firewalls No Longer Protect the Enterprise and How Rainbow Secure Redefines the Boundary of… | Dr. Shashi Karhail | [Read More](https://medium.com/p/a5c4c07bf830) |
 | Mon, 16 Feb 2026 17:01:00 GMT | Hidden Deep Into my Heart writeup (TryHackMe) | 7s26Simon | [Read More](https://medium.com/p/03a701e4ab6b) |
 | Mon, 16 Feb 2026 17:00:38 GMT | Bagaimana Lumma Stealer Mencuri Data? Analisis Menggunakan Cyber Kill Chain | Shafa Khairanisa | [Read More](https://medium.com/p/1638be7b70e1) |
 | Mon, 16 Feb 2026 16:59:47 GMT | Unauthenticated Image Access and EXIF Location Leak, Easy P4, you can find under 2 mins | Devansh Patel | [Read More](https://medium.com/p/88e5a9064a91) |
@@ -37,6 +51,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Feb 2026 15:56:12 GMT | What Is OpenClaw — Is It Risky? And How to Use It Safely | akashTheDev | [Read More](https://medium.com/p/65067c09820a) |
 | Mon, 16 Feb 2026 15:55:48 GMT | THM - TryHeartMe | Francesco Pastore | [Read More](https://medium.com/p/0f217a6e3cd9) |
 | Mon, 16 Feb 2026 15:55:13 GMT | Why Reputation Farming Kills the Future It’s Trying to Build | Eirene Accord | [Read More](https://medium.com/p/75e8a97e10d5) |
+| Mon, 16 Feb 2026 15:53:40 GMT | Thinking Like an Attacker: How API Pen-Testers Identify IDOR (Insecure Direct Object Reference) | Charmaine Mangorima | [Read More](https://medium.com/p/4e14445942e9) |
 | Mon, 16 Feb 2026 15:52:48 GMT | THM - When Hearts Collide | Francesco Pastore | [Read More](https://medium.com/p/367f5c70c39f) |
 | Mon, 16 Feb 2026 15:44:49 GMT | Lumma Stealer dan FakeCAPTCHA : Pencuri atau Penyusup? | Nino Tokito | [Read More](https://medium.com/p/677657739f3f) |
 | Mon, 16 Feb 2026 15:42:10 GMT | Building a Bulletproof Micro SaaS: How I Achieved a 99/100 Security Score for TDC OS | Tugui Dragos-Constantin | [Read More](https://medium.com/p/da73f88d8ea0) |
@@ -100,18 +115,3 @@ TODAY’S… | Adeniran Michael | [Read More](https://medium.com/p/7b2798737c3b)
 | Mon, 16 Feb 2026 12:35:42 GMT | Effective Cybersecurity Strategy Example for Businesses | AJ | [Read More](https://medium.com/p/1b862599ddcb) |
 | Mon, 16 Feb 2026 12:31:00 GMT | Observability Is Growing Up (And It’s Pulling Security With It) | Apto Solutions | [Read More](https://medium.com/p/e24e11684d0e) |
 | Mon, 16 Feb 2026 12:29:47 GMT | The “Two-Key Turn”: Why Total Trust is a Security Nightmare | Yusif Alizade | [Read More](https://medium.com/p/774fa6c1d20b) |
-| Mon, 16 Feb 2026 12:28:18 GMT | They’re so vulnerable. | Lumina | [Read More](https://medium.com/p/966368371549) |
-| Mon, 16 Feb 2026 12:24:42 GMT | Genuine Love | zara her | [Read More](https://medium.com/p/bd23219309f3) |
-| Mon, 16 Feb 2026 12:23:52 GMT | I’m trying to solve CTF about SSTI(Server Side Template Injection) | Billy Elvonda Aron Umpel | [Read More](https://medium.com/p/851e1249d80c) |
-| Mon, 16 Feb 2026 12:21:27 GMT | Why One Lock is Never Enough: A Deep Dive into Defense in Depth | Yusif Alizade | [Read More](https://medium.com/p/da6bc01da5d5) |
-| Mon, 16 Feb 2026 12:20:39 GMT | Cheesy Does It (SQLi) writeup (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/9d841c69439e) |
-| Mon, 16 Feb 2026 12:18:12 GMT | ICE’s Secret Expansion, Chrome’s Zero-Day Nightmare, and the Computer Science Exodus - The Daily… | Souren Stepanyan | [Read More](https://medium.com/p/b797ebd40bcd) |
-| Mon, 16 Feb 2026 12:08:57 GMT | Security, Privacy & Trust: The questions every buyer asks before they trust a security platform | Securedotcom | [Read More](https://medium.com/p/812efe998c87) |
-| Mon, 16 Feb 2026 12:01:22 GMT | Establishing My Cybersecurity Baseline Before Formal Training | Favour Ugochi Ogbonnaya | [Read More](https://medium.com/p/b71078ca3f69) |
-| Mon, 16 Feb 2026 12:01:01 GMT | Understanding CWE-598: Use of GET Request Method With Sensitive Query Strings | Walter Moar | [Read More](https://medium.com/p/fe3a76872c9d) |
-| Mon, 16 Feb 2026 12:01:01 GMT | The Rising Tide of Cybersecurity Threats: Why Staying Safe Online Matters More Than Ever | Kastab Garai | [Read More](https://medium.com/p/f28c140dca46) |
-| Mon, 16 Feb 2026 11:56:36 GMT | Core Domains of Cybersecurity: A Complete Overview | Kodeesh | [Read More](https://medium.com/p/bb27c92b4116) |
-| Mon, 16 Feb 2026 11:53:29 GMT | Afghanistan: The Global Hub of Terror in 2026 | Dr Rita Pal | [Read More](https://medium.com/p/1b0b5ae1fd57) |
-| Mon, 16 Feb 2026 11:52:07 GMT | Spike Barrier: Advanced Vehicle Access Control for Secure Premises | Etradefia | [Read More](https://medium.com/p/802e0fca54bf) |
-| Mon, 16 Feb 2026 11:44:22 GMT | Phishing Attack Example — Home Lab Demonstration | SG | [Read More](https://medium.com/p/966167fbb11a) |
-| Mon, 16 Feb 2026 11:38:45 GMT | HTB Sauna — Active Directory Penetration Test | 0xRC404 | [Read More](https://medium.com/p/70872e3e5d73) |
