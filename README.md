@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Feb 2026 22:24:53 GMT | A PSsystec Perspective on the Munich Security Conference 2026 | PSsystec | [Read More](https://medium.com/p/0c4af742e15c) |
+| Mon, 16 Feb 2026 22:21:26 GMT | Découverte de l’IA avec Aina Haritiana | Aina Haritiana | [Read More](https://medium.com/p/01547fdab396) |
+| Mon, 16 Feb 2026 22:06:58 GMT | BitLocker — Recovering Recovery Keys in Practice | Nexamos | [Read More](https://medium.com/p/26280265a174) |
+| Mon, 16 Feb 2026 22:01:00 GMT | Unfiltered Restart — Day 5: Virtualization | Maximillian Rueda | [Read More](https://medium.com/p/0bd3a8f7218e) |
+| Mon, 16 Feb 2026 21:48:49 GMT | Model Context Protocol (MCP): The Layer That Elevates a Chatbot Into an Agent | number40 | [Read More](https://medium.com/p/d9b99a22120e) |
+| Mon, 16 Feb 2026 21:37:22 GMT | Is Your Risk Register a Management Tool or an Autopsy? | Rob | [Read More](https://medium.com/p/bd61cc3c0661) |
+| Mon, 16 Feb 2026 21:34:11 GMT | Why We Built a Moral Blockchain: The TML Architecture Overview. | Lev Goukassian | [Read More](https://medium.com/p/60569110d798) |
+| Mon, 16 Feb 2026 21:32:19 GMT | Before We Build More AI Governance Tools, We Need to Agree on What “AI Governance” Means | Edward Meyman | [Read More](https://medium.com/p/50acaf7ccb80) |
+| Mon, 16 Feb 2026 21:28:17 GMT | Hacker’ın Haritası: OSI Modelinin 7 Katmanında Ustalaşmak | EMRE KESEBİR | [Read More](https://medium.com/p/d353d751aa1e) |
 | Mon, 16 Feb 2026 21:19:06 GMT | Simulating T1003.001: How To Detect LSASS Access with Sysmon and Splunk | Melchizedek Anyonje | [Read More](https://medium.com/p/27e5040f4c3e) |
 | Mon, 16 Feb 2026 21:12:14 GMT | The Science of Digital Trust | BlockchainBard | [Read More](https://medium.com/p/07b0385e08b7) |
 | Mon, 16 Feb 2026 21:09:37 GMT | Session Hijacking’in Anatomisi: Cookie Theft ile 2FA Nasıl Atlatılır? | isaergisi | [Read More](https://medium.com/p/35f316b1b3e4) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Feb 2026 15:44:49 GMT | Lumma Stealer dan FakeCAPTCHA : Pencuri atau Penyusup? | Nino Tokito | [Read More](https://medium.com/p/677657739f3f) |
 | Mon, 16 Feb 2026 15:42:10 GMT | Building a Bulletproof Micro SaaS: How I Achieved a 99/100 Security Score for TDC OS | Tugui Dragos-Constantin | [Read More](https://medium.com/p/da73f88d8ea0) |
 | Mon, 16 Feb 2026 15:39:15 GMT | Extracting IPA from a Non-Jailbroken iOS Device with Apple Configurator | Serhat ÇİÇEK | [Read More](https://medium.com/p/7c26de094b4f) |
-| Mon, 16 Feb 2026 15:39:00 GMT | The Tennessee Goat and the Singing Heart | John F. | [Read More](https://medium.com/p/b3033d3b3954) |
-| Mon, 16 Feb 2026 15:38:59 GMT | Overthewire Bandit Writeup | Rakha Fausta | [Read More](https://medium.com/p/5a8d58cd5da1) |
-| Mon, 16 Feb 2026 15:38:57 GMT | From Classroom Presentation to Presenting for MCA Final Years: My Steganography Project | Priyam Rohilla | [Read More](https://medium.com/p/b2fc0b741739) |
-| Mon, 16 Feb 2026 15:34:09 GMT | Ultimate Node.js Authentication & Image Management System | Krishnakumar | [Read More](https://medium.com/p/f9400b4e54e3) |
-| Mon, 16 Feb 2026 15:27:02 GMT | C2 is More Than Code | Tyreek Haynes | [Read More](https://medium.com/p/24d307c9c390) |
-| Mon, 16 Feb 2026 15:23:26 GMT | Sagas in Modern Java: From Thread Pools and Callbacks to Virtual Threads and Structured Concurrency | Jitin Kayyala | [Read More](https://medium.com/p/b223e588719d) |
-| Mon, 16 Feb 2026 15:05:43 GMT | HackSmarter:ShareThePain | Rocco Mauer | [Read More](https://medium.com/p/9f93a9a9c223) |
-| Mon, 16 Feb 2026 15:03:57 GMT | Sobre exploits y seguridad en un runtime de bytecode en el kernel con eBPF (parte 1 de 4). | Alex | [Read More](https://medium.com/p/802f9d90412a) |
-| Mon, 16 Feb 2026 15:00:23 GMT | Your SaaS Apps Are the New Active Directory And Nobody Is Governing Them | Sunnysinha | [Read More](https://medium.com/p/6ef7c28d534f) |
