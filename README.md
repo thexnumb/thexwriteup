@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Feb 2026 19:07:12 GMT | My Journey Through the Jr Penetration Tester Learning Path on TryHackMe | Subrat Samantaray | [Read More](https://medium.com/p/f283a6bf6f36) |
+| Mon, 16 Feb 2026 19:01:54 GMT | Cybersecurity trends 2026 | AKLI ILIAS | [Read More](https://medium.com/p/48e3e1d57eac) |
+| Mon, 16 Feb 2026 19:01:01 GMT | EU GDPR — Article 15 (Right of Access by the Data Subject) | MDM Team | [Read More](https://medium.com/p/f0931191a2e0) |
+| Mon, 16 Feb 2026 18:50:10 GMT | 30 Days of Red Team: Day 24 — Pass-the-Ticket & Overpass-the-Hash | Maxwell Cross | [Read More](https://medium.com/p/aa87e2e8486c) |
+| Mon, 16 Feb 2026 18:47:00 GMT | The Strategic Importance of SOC 2 and ISO 27001 for SaaS Companies | Decrypt Compliance | [Read More](https://medium.com/p/1a6c33543026) |
+| Mon, 16 Feb 2026 18:40:25 GMT | PicoClaw and OpenClaw Are Not Infrastructure: The $10 AI Agent Myth | Mark | [Read More](https://medium.com/p/43d43e0726e3) |
+| Mon, 16 Feb 2026 18:36:54 GMT | Day 4 : The Sloth | Armaan Nain | [Read More](https://medium.com/p/ea3da7f58b85) |
+| Mon, 16 Feb 2026 18:34:05 GMT | AttackRuleMap: Scaling the Bridge Between Detections and Tests via Automation | Emre Güler | [Read More](https://medium.com/p/507f9c5c2b5a) |
+| Mon, 16 Feb 2026 18:33:11 GMT | What is Cyber Attacks? | Dhruvi Modh | [Read More](https://medium.com/p/b83f58fc0d79) |
+| Mon, 16 Feb 2026 18:30:39 GMT | Common Vulnerability Scoring System (CVSS): A Critical Analysis | Ehteshamul Islam | [Read More](https://medium.com/p/a777d84f768d) |
+| Mon, 16 Feb 2026 18:29:05 GMT | The Text Message I Didn’t Expect | Latha | [Read More](https://medium.com/p/00923e93fe66) |
+| Mon, 16 Feb 2026 18:23:14 GMT | Demystifying the Gatekeeper: A Guide to Kubernetes Ingress Controllers | Pronomita Dey | [Read More](https://medium.com/p/659cbd1c303e) |
+| Mon, 16 Feb 2026 18:22:12 GMT | Clandestine Proxy in the Middle of Proxy | Régis | [Read More](https://medium.com/p/05ee53a2ee6f) |
+| Mon, 16 Feb 2026 18:17:05 GMT | I Built a Bug Bounty Automation Pipeline on Kali Linux — Here’s Exactly How | Naveen TK | [Read More](https://medium.com/p/1775139962a8) |
+| Mon, 16 Feb 2026 18:08:34 GMT | Challenge Digital Forensics Lab 1 — Week 1 | Akmal Fauzan Ananta | [Read More](https://medium.com/p/bacdb1606474) |
+| Mon, 16 Feb 2026 18:04:40 GMT | Chains of Love (TryHackMe CTF) | vulnhunter | [Read More](https://medium.com/p/bb335500f10d) |
+| Mon, 16 Feb 2026 18:03:30 GMT | ICE-VulnHub Walkthrough | Nandhanaks | [Read More](https://medium.com/p/36ca4d7b878a) |
 | Mon, 16 Feb 2026 18:00:29 GMT | 0What Are the Epstein Files? A Clear Explanation (2026 Update) | Teach us | [Read More](https://medium.com/p/87371c257d49) |
 | Mon, 16 Feb 2026 18:00:19 GMT | The Hidden Privacy Threat in AI | Aditya Raj | [Read More](https://medium.com/p/5e438abb5cef) |
 | Mon, 16 Feb 2026 17:48:28 GMT | Why I Started Learning Ethical Hacking? | Priyesh Patware | [Read More](https://medium.com/p/aff2bef412f2) |
@@ -95,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Feb 2026 13:45:26 GMT | Detecting Phishing Emails Using Email Authentication Protocols and IOC Analysis- SOC POV | Dhakshineshwara Balaji | [Read More](https://medium.com/p/b8bea318e24a) |
 | Mon, 16 Feb 2026 13:39:53 GMT | AI Security Digest — February 2026 (Week 2) | Tal Eliyahu | [Read More](https://medium.com/p/fd25ef344919) |
 | Mon, 16 Feb 2026 13:39:44 GMT | The Reset Happening in Entry-Level Cybersecurity Roles | Taimur Ijlal | [Read More](https://medium.com/p/e48216e16d21) |
-| Mon, 16 Feb 2026 13:38:45 GMT | I’m not sure 2028 is that far away, honestly. | Michael Shapkin | [Read More](https://medium.com/p/eff97f0d2fc4) |
-| Mon, 16 Feb 2026 13:36:45 GMT | Sunucu Sürdürülebilirliği ve Güvenliği : Donanım Güncelleme Rehberi | hakan sezer | [Read More](https://medium.com/p/f81ce6f964a0) |
-| Mon, 16 Feb 2026 13:36:33 GMT | How I Built a Secure AWS IR Lab Using CloudFormation: Part 1 | vestigia | [Read More](https://medium.com/p/38b4788a47ed) |
-| Mon, 16 Feb 2026 13:34:07 GMT | I Used to Hate Hearing the Phrase “You’re Not Alone” | Casey ೃ⁀➷ | [Read More](https://medium.com/p/fb9fadd1b719) |
-| Mon, 16 Feb 2026 13:32:46 GMT | H4ckerTreats - Day 1: Welcome to Your Cybersecurity Lab
-Date: 16 Feb 2026
-Duration: 3 hours
-TODAY’S… | Adeniran Michael | [Read More](https://medium.com/p/7b2798737c3b) |
-| Mon, 16 Feb 2026 13:29:52 GMT | Watcher CTF Walkthrough -TryHackMe | Roshan Rajbanshi | [Read More](https://medium.com/p/567d6a7047a1) |
-| Mon, 16 Feb 2026 13:29:13 GMT | Lego For Hackers | Steve Prentice | [Read More](https://medium.com/p/275a667ec612) |
-| Mon, 16 Feb 2026 13:26:36 GMT | Network Services | Parvathy P Joshy | [Read More](https://medium.com/p/b9416aef2f7d) |
-| Mon, 16 Feb 2026 13:16:00 GMT | Insecurity Taking Over Your Life? 6 Ways to Rebuild Your Sense of Safety | anni | [Read More](https://medium.com/p/7ddb8dd01877) |
-| Mon, 16 Feb 2026 13:11:08 GMT | Bandit Level 1 → 2: Cara Membaca File dengan Nama Dash (-) yang Menjebak | Galih Permana Rizki | [Read More](https://medium.com/p/dced320512db) |
-| Mon, 16 Feb 2026 13:01:01 GMT | The Crustacean Conundrum: Utopian Agents, Dystopian Leaks, and One Persistent Human | Namir Sagheenanajar | [Read More](https://medium.com/p/e2908eba605d) |
-| Mon, 16 Feb 2026 12:44:43 GMT | How Are IoT Healthcare Devices Transforming Patient Care in 2026 & Beyond? | MedTech and AI Healthcare Insights | [Read More](https://medium.com/p/7cacfd340f97) |
-| Mon, 16 Feb 2026 12:37:56 GMT | Understanding Cloud IT Infrastructure | Krithika G | [Read More](https://medium.com/p/052c885dc8f0) |
-| Mon, 16 Feb 2026 12:36:01 GMT | Building a Cybersecurity Lab in AWS Part 4: Attack and SIEM Tools | Charles Christiansen | [Read More](https://medium.com/p/a20ef0b24cd9) |
-| Mon, 16 Feb 2026 12:35:42 GMT | Effective Cybersecurity Strategy Example for Businesses | AJ | [Read More](https://medium.com/p/1b862599ddcb) |
-| Mon, 16 Feb 2026 12:31:00 GMT | Observability Is Growing Up (And It’s Pulling Security With It) | Apto Solutions | [Read More](https://medium.com/p/e24e11684d0e) |
-| Mon, 16 Feb 2026 12:29:47 GMT | The “Two-Key Turn”: Why Total Trust is a Security Nightmare | Yusif Alizade | [Read More](https://medium.com/p/774fa6c1d20b) |
