@@ -12,8 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Feb 2026 13:01:01 GMT | The Crustacean Conundrum: Utopian Agents, Dystopian Leaks, and One Persistent Human | Namir Sagheenanajar | [Read More](https://medium.com/p/e2908eba605d) |
+| Mon, 16 Feb 2026 12:44:43 GMT | How Are IoT Healthcare Devices Transforming Patient Care in 2026 & Beyond? | MedTech and AI Healthcare Insights | [Read More](https://medium.com/p/7cacfd340f97) |
+| Mon, 16 Feb 2026 12:37:56 GMT | Understanding Cloud IT Infrastructure | Krithika G | [Read More](https://medium.com/p/052c885dc8f0) |
+| Mon, 16 Feb 2026 12:36:01 GMT | Building a Cybersecurity Lab in AWS Part 4: Attack and SIEM Tools | Charles Christiansen | [Read More](https://medium.com/p/a20ef0b24cd9) |
+| Mon, 16 Feb 2026 12:35:42 GMT | Effective Cybersecurity Strategy Example for Businesses | AJ | [Read More](https://medium.com/p/1b862599ddcb) |
+| Mon, 16 Feb 2026 12:31:00 GMT | Observability Is Growing Up (And It’s Pulling Security With It) | Apto Solutions | [Read More](https://medium.com/p/e24e11684d0e) |
+| Mon, 16 Feb 2026 12:29:47 GMT | The “Two-Key Turn”: Why Total Trust is a Security Nightmare | Yusif Alizade | [Read More](https://medium.com/p/774fa6c1d20b) |
+| Mon, 16 Feb 2026 12:28:18 GMT | They’re so vulnerable. | Lumina | [Read More](https://medium.com/p/966368371549) |
+| Mon, 16 Feb 2026 12:24:42 GMT | Genuine Love | zara her | [Read More](https://medium.com/p/bd23219309f3) |
+| Mon, 16 Feb 2026 12:23:52 GMT | I’m trying to solve CTF about SSTI(Server Side Template Injection) | Billy Elvonda Aron Umpel | [Read More](https://medium.com/p/851e1249d80c) |
+| Mon, 16 Feb 2026 12:21:27 GMT | Why One Lock is Never Enough: A Deep Dive into Defense in Depth | Yusif Alizade | [Read More](https://medium.com/p/da6bc01da5d5) |
+| Mon, 16 Feb 2026 12:20:39 GMT | Cheesy Does It (SQLi) writeup (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/9d841c69439e) |
+| Mon, 16 Feb 2026 12:18:12 GMT | ICE’s Secret Expansion, Chrome’s Zero-Day Nightmare, and the Computer Science Exodus - The Daily… | Souren Stepanyan | [Read More](https://medium.com/p/b797ebd40bcd) |
+| Mon, 16 Feb 2026 12:08:57 GMT | Security, Privacy & Trust: The questions every buyer asks before they trust a security platform | Securedotcom | [Read More](https://medium.com/p/812efe998c87) |
+| Mon, 16 Feb 2026 12:01:22 GMT | Establishing My Cybersecurity Baseline Before Formal Training | Favour Ugochi Ogbonnaya | [Read More](https://medium.com/p/b71078ca3f69) |
+| Mon, 16 Feb 2026 12:01:01 GMT | Understanding CWE-598: Use of GET Request Method With Sensitive Query Strings | Walter Moar | [Read More](https://medium.com/p/fe3a76872c9d) |
+| Mon, 16 Feb 2026 12:01:01 GMT | The Rising Tide of Cybersecurity Threats: Why Staying Safe Online Matters More Than Ever | Kastab Garai | [Read More](https://medium.com/p/f28c140dca46) |
+| Mon, 16 Feb 2026 11:56:36 GMT | Core Domains of Cybersecurity: A Complete Overview | Kodeesh | [Read More](https://medium.com/p/bb27c92b4116) |
+| Mon, 16 Feb 2026 11:53:29 GMT | Afghanistan: The Global Hub of Terror in 2026 | Dr Rita Pal | [Read More](https://medium.com/p/1b0b5ae1fd57) |
+| Mon, 16 Feb 2026 11:52:07 GMT | Spike Barrier: Advanced Vehicle Access Control for Secure Premises | Etradefia | [Read More](https://medium.com/p/802e0fca54bf) |
+| Mon, 16 Feb 2026 11:44:22 GMT | Phishing Attack Example — Home Lab Demonstration | SG | [Read More](https://medium.com/p/966167fbb11a) |
+| Mon, 16 Feb 2026 11:38:45 GMT | HTB Sauna — Active Directory Penetration Test | 0xRC404 | [Read More](https://medium.com/p/70872e3e5d73) |
 | Mon, 16 Feb 2026 11:36:01 GMT | Board Cyber Readiness: Prove Your Oversight Works Before It’s Tested in Public | Tyson Martin | [Read More](https://medium.com/p/722c5bb294bd) |
 | Mon, 16 Feb 2026 11:35:31 GMT | I Built a Real SOC Cyber Range Using Active Directory + Microsoft Sentinel | Anthony Okeke | [Read More](https://medium.com/p/e4c3aa043d10) |
+| Mon, 16 Feb 2026 11:31:01 GMT | How SSL andTLS Encryption Protects User Data from Modern Cyber Threats | Sparkle Web | [Read More](https://medium.com/p/90d5f4ef9d26) |
 | Mon, 16 Feb 2026 11:24:15 GMT | How to Solve: Untagged Images in ACR Still Showing in Defender for Cloud as Vulnerable | alaa barqawi | [Read More](https://medium.com/p/e24fe1cbec79) |
 | Mon, 16 Feb 2026 11:21:03 GMT | Why My ENV Variables Are Visible in the Browser (Vite + React Explained) | Sonal Sai K S | [Read More](https://medium.com/p/657924158338) |
 | Mon, 16 Feb 2026 11:13:33 GMT | ROI of Cybersecurity: How Investments Reduce Risk | Anaynams | [Read More](https://medium.com/p/d530d0bbfb3d) |
@@ -56,6 +79,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Feb 2026 08:50:13 GMT | Total Security Solutions India: Strengthening Protection with Advanced Electronic Security… | Ciss India | [Read More](https://medium.com/p/99211939ef35) |
 | Mon, 16 Feb 2026 08:44:31 GMT | Secure Messaging Predictions for 2026: Secure Messaging Trends Shaping Trust, Governance, and the… | RealTyme | [Read More](https://medium.com/p/35921d7f2dd1) |
 | Mon, 16 Feb 2026 08:44:03 GMT | The Invisible Bastion: Building Cybersecurity That Actually Works | Mubariz Paşayev | [Read More](https://medium.com/p/15c248dab742) |
+| Mon, 16 Feb 2026 08:42:31 GMT | Lab: Exploiting HTTP request smuggling to perform web cache poisoning - Portswigger | L4V4NY4  AGR3 | [Read More](https://medium.com/p/86eb5ac9edb9) |
 | Mon, 16 Feb 2026 08:35:56 GMT | Love at first breach — TryHeartMe | Scapshrk | [Read More](https://medium.com/p/31a9a01acc05) |
 | Mon, 16 Feb 2026 08:35:54 GMT | CSRF Attacks Explained: When Users Become the Hacker (Without Knowing It) | Adeshmaske | [Read More](https://medium.com/p/3bae40074d0e) |
 | Mon, 16 Feb 2026 08:34:19 GMT | QR codes | Ankit rai | [Read More](https://medium.com/p/986d811003d6) |
@@ -89,27 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Feb 2026 07:03:45 GMT | When a Denial of Service Isn’t a Vulnerability | 0xYogi | [Read More](https://medium.com/p/425e8e924d8b) |
 | Mon, 16 Feb 2026 07:03:25 GMT | From Markets to Cybersecurity: Ignore the Foam, Build the Beer | Jaiswal Siddharth | [Read More](https://medium.com/p/9c4f1e21a223) |
 | Mon, 16 Feb 2026 07:01:44 GMT | 24 Hour Locksmiths London -Fast, Reliable, and Professional Solutions | N1locksmithsltd | [Read More](https://medium.com/p/d1cab08d2c5c) |
-| Mon, 16 Feb 2026 07:01:40 GMT | Managing Cyber Risk the Right Way: A Practical Enterprise Approach Using NIST | Ashutosh Shukla | [Read More](https://medium.com/p/983689210c8b) |
-| Mon, 16 Feb 2026 06:49:21 GMT | The Skills That Will Matter for Offensive AI Security in 2026 | Arwa | [Read More](https://medium.com/p/44e2469cdc84) |
-| Mon, 16 Feb 2026 06:49:16 GMT | I Built a Zero-Knowledge Password Manager in Rust — Here’s Why | Vijay Singh | [Read More](https://medium.com/p/ae78417684b7) |
-| Mon, 16 Feb 2026 06:49:07 GMT | Building a Network Packet Analyser in Python: A Hands-On Guide | Mani vidyadhar | [Read More](https://medium.com/p/914017794f70) |
-| Mon, 16 Feb 2026 06:43:16 GMT | Toprak Değil, Veri: Modern Dünyanın Görünmeyen Sömürgesi | Recep Şenel | [Read More](https://medium.com/p/3fb246464b8e) |
-| Mon, 16 Feb 2026 06:32:35 GMT | ️ I Built an LLM Safety System: A Practical Guide to Guardrails for Prompt Injection, PII… | Venkatkumar (VK) | [Read More](https://medium.com/p/a38f11d33561) |
-| Mon, 16 Feb 2026 06:31:01 GMT | Scheduled Tasks: Silent Execution and Automation Abuse | Ankita Sinha | [Read More](https://medium.com/p/a5cbcaa0023f) |
-| Mon, 16 Feb 2026 06:11:22 GMT | I Applied a Discount Code 20 Times in One Second - Race Condition Story | TEJAS | [Read More](https://medium.com/p/caf6852fe02c) |
-| Mon, 16 Feb 2026 06:04:49 GMT | Common Tactics Used in Immigration Operations by the Department of Homeland Security | Alan Robertson | [Read More](https://medium.com/p/35a9acf21f1a) |
-| Mon, 16 Feb 2026 06:01:01 GMT | Privileged Access: Why It’s Still the Biggest Risk in Your Organization | Hazel Chirinda | [Read More](https://medium.com/p/ad482cf762f3) |
-| Mon, 16 Feb 2026 05:58:59 GMT | Cloud-Native & DevOps Development Services for Global Businesses | GateTouch | [Read More](https://medium.com/p/d0cc08080680) |
-| Mon, 16 Feb 2026 05:46:50 GMT | AI-Powered SIEM: Fewer Alerts, Faster Decisions | NetWitness | [Read More](https://medium.com/p/625e9ec34fac) |
-| Mon, 16 Feb 2026 05:46:49 GMT | Why Companies That Use AI Actually Hire More People | Vijay Kumar Gupta | [Read More](https://medium.com/p/2aba2c764af8) |
-| Mon, 16 Feb 2026 05:42:42 GMT | GramGenies Premium Release | HAMEED | [Read More](https://medium.com/p/a589eac7be98) |
-| Mon, 16 Feb 2026 05:38:24 GMT | The Cryptography Concept Journey — Hash Chains | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/37f196861082) |
-| Mon, 16 Feb 2026 05:37:37 GMT | Breaking Down Silos: Making Business Continuity Collaborative | Opsbook | [Read More](https://medium.com/p/dac90c6f3a0f) |
-| Mon, 16 Feb 2026 05:36:37 GMT | From Google Cert to Odin Project | Temitayo Adebisi | [Read More](https://medium.com/p/09412dffa648) |
-| Mon, 16 Feb 2026 05:33:19 GMT | The Future of Crisis Management: Embrace Resilience | Opsbook | [Read More](https://medium.com/p/69b1a1b8ee6f) |
-| Mon, 16 Feb 2026 05:31:01 GMT | Secure-by-Design Development in Practice | sachhsoft | [Read More](https://medium.com/p/e78cbe1b677c) |
-| Mon, 16 Feb 2026 05:28:50 GMT | Fuzzing Wordlists for Backup Files | Abhirup Konwar | [Read More](https://medium.com/p/512dca2475b3) |
-| Mon, 16 Feb 2026 05:16:08 GMT | Over the past week, one theme stood out to me in how governments and institutions are responding to… | A D | [Read More](https://medium.com/p/00566bac9235) |
-| Mon, 16 Feb 2026 05:14:56 GMT | Building a Secure Personal Reverse Engineering Lab | grepStrength | [Read More](https://medium.com/p/650280a2c8a9) |
-| Mon, 16 Feb 2026 05:12:48 GMT | OpenClaw Security: What You Actually Need to Know | Rachana Gupta | [Read More](https://medium.com/p/5d8d4364f4c5) |
-| Mon, 16 Feb 2026 05:12:05 GMT | How to Choose the Best Cyber Security College for Your Career | Ritik | [Read More](https://medium.com/p/43cf87f338a4) |
