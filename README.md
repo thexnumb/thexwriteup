@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Feb 2026 09:46:00 GMT | AI-Generated Malware: The Week That Changed Cybersecurity | BeamSec | [Read More](https://medium.com/p/494fd5c25432) |
+| Mon, 16 Feb 2026 09:45:43 GMT | Agentic AI’s Dark Turn: How 2026 Autonomous Bots Supercharge Global Laundering Networks from Moscow… | dharini lawhatre | [Read More](https://medium.com/p/a664a30c8046) |
+| Mon, 16 Feb 2026 09:43:12 GMT | Introduction to Digital Forensics | Raakin Al Hassan | [Read More](https://medium.com/p/21a7d385a635) |
+| Mon, 16 Feb 2026 09:43:02 GMT | At 2:30 AM, I Thought I Was Hunting a Bug. By Morning, a 3KG Cake Was Hunting Me. | Vivek PS | [Read More](https://medium.com/p/ee9be15570f1) |
+| Mon, 16 Feb 2026 09:43:01 GMT | Python Dictionaries Explained with Real-Life Use Cases | Praveenkumarsharma | [Read More](https://medium.com/p/2feefad59295) |
+| Mon, 16 Feb 2026 09:42:36 GMT | Security Features in Flutter for Healthcare Apps | Alfonce Micah Yano | [Read More](https://medium.com/p/e763d53ac6a4) |
+| Mon, 16 Feb 2026 09:40:29 GMT | Refining the GRC process | Adeoluwa Obadofin | [Read More](https://medium.com/p/dc6c87fb90ad) |
+| Mon, 16 Feb 2026 09:40:07 GMT | Signed Messages — TryHackMe | Nolan Stark | [Read More](https://medium.com/p/4fe0dde7fe82) |
+| Mon, 16 Feb 2026 09:31:54 GMT | Stay curious. Keep breaking things (ethically, of course ) | Andreas | [Read More](https://medium.com/p/ffe63c84338f) |
+| Mon, 16 Feb 2026 09:30:48 GMT | Why WebbyAcad Data Recovery & Outlook Tools are Industry Essentials | Alok Night | [Read More](https://medium.com/p/fe4f8112bd6a) |
+| Mon, 16 Feb 2026 09:26:53 GMT | The Day Your AI Agent Went Rogue | Praveen Govindaraj | [Read More](https://medium.com/p/63eebcecae55) |
+| Mon, 16 Feb 2026 09:26:28 GMT | Plain Text ,Cipher Text and Type of Encryption | MD SABBIR AHMED | [Read More](https://medium.com/p/799cfa361368) |
+| Mon, 16 Feb 2026 09:24:12 GMT | Why TOTP Is Not Secure by Default | Dmytri | [Read More](https://medium.com/p/fc693c3586e1) |
+| Mon, 16 Feb 2026 09:12:51 GMT | Start Your Career as a Cyber Security SOC Analyst! | Molletibalu | [Read More](https://medium.com/p/1b290f023db4) |
+| Mon, 16 Feb 2026 09:04:07 GMT | Installing Tools on Kali Linux — Building Your Cybersecurity Arsenal the Right Way | Br4in4rd | [Read More](https://medium.com/p/5101b2c70738) |
+| Mon, 16 Feb 2026 09:01:02 GMT | Leaked Cloud Credentials: When AWS Keys End Up in Stealer Logs | Alexandre Vandamme | [Read More](https://medium.com/p/5a45acf0df1e) |
+| Mon, 16 Feb 2026 09:01:02 GMT | What is OWASP 10 ?(2026 Edition) | 0xSmit | [Read More](https://medium.com/p/48a06fa1e52c) |
+| Mon, 16 Feb 2026 08:50:13 GMT | Total Security Solutions India: Strengthening Protection with Advanced Electronic Security… | Ciss India | [Read More](https://medium.com/p/99211939ef35) |
+| Mon, 16 Feb 2026 08:44:31 GMT | Secure Messaging Predictions for 2026: Secure Messaging Trends Shaping Trust, Governance, and the… | RealTyme | [Read More](https://medium.com/p/35921d7f2dd1) |
 | Mon, 16 Feb 2026 08:44:03 GMT | The Invisible Bastion: Building Cybersecurity That Actually Works | Mubariz Paşayev | [Read More](https://medium.com/p/15c248dab742) |
 | Mon, 16 Feb 2026 08:35:56 GMT | Love at first breach — TryHeartMe | Scapshrk | [Read More](https://medium.com/p/31a9a01acc05) |
 | Mon, 16 Feb 2026 08:35:54 GMT | CSRF Attacks Explained: When Users Become the Hacker (Without Knowing It) | Adeshmaske | [Read More](https://medium.com/p/3bae40074d0e) |
@@ -81,6 +100,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Feb 2026 04:31:01 GMT | Safety Needs Replayable Traces, Not Policy Docs | Bhagya Rana | [Read More](https://medium.com/p/2a63b4836215) |
 | Mon, 16 Feb 2026 04:29:28 GMT | WSL 2 + Kali Linux: Simple Setup for Web Pentesting (Nmap, Nuclei, DirBuster) | abdullah | [Read More](https://medium.com/p/f99fdbde5761) |
 | Mon, 16 Feb 2026 04:26:00 GMT | SOC Metrics That Actually Matter: Measuring Analyst Performance and Detection Maturity | Muskaan Arora | [Read More](https://medium.com/p/347d3984c8f6) |
+| Mon, 16 Feb 2026 04:20:59 GMT | Lumma Stealer : Ketika “Verifikasi Manusia” Menjadi Perangkap | Maulana Firdaus Nazmi | [Read More](https://medium.com/p/794e8ae158d4) |
 | Mon, 16 Feb 2026 04:14:15 GMT | Cybersecurity Salary in India 2026 | AJ | [Read More](https://medium.com/p/3c7bb743167b) |
 | Mon, 16 Feb 2026 04:11:06 GMT | Why Most ServiceNow ITSM Implementations Fail to Deliver ROI — And How to Get It Right | Alex s | [Read More](https://medium.com/p/54598e98a111) |
 | Mon, 16 Feb 2026 04:01:00 GMT | ☁️ The Shared Responsibility Model Explained: Who Secures What in the Cloud? | Rishab Nitin Tiwari | [Read More](https://medium.com/p/edfedc4a2396) |
@@ -93,23 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Feb 2026 03:31:01 GMT | Why Most Cybersecurity Students Are Unemployable (And Don’t Know It Yet) | Manubhav Sharma | [Read More](https://medium.com/p/be6466dc0e4b) |
 | Mon, 16 Feb 2026 03:12:56 GMT | Getting Started with AI for Free: A Step-by-Step Guide to Your OpenRouter API Key | Sarfaraz Merchant | [Read More](https://medium.com/p/390ad7b43fa6) |
 | Mon, 16 Feb 2026 03:12:43 GMT | Turn Your Phone into a Hacking Machine: The 16GB RAM Cloud PC Guide | Zer0Figure | [Read More](https://medium.com/p/cc30aefa73d6) |
-| Mon, 16 Feb 2026 02:56:53 GMT | Introduction to Digital Forensics (Lab 01) | Romadhona Fitri | [Read More](https://medium.com/p/374a35cec465) |
-| Mon, 16 Feb 2026 02:51:38 GMT | SAML Explained Simply: Enterprise SSO Guide (Part 1) | isuru perera | [Read More](https://medium.com/p/951c7b36c98f) |
-| Mon, 16 Feb 2026 02:36:01 GMT | The Company That Owned the World’s Wealth | Bridget | [Read More](https://medium.com/p/d0568f4d3778) |
-| Mon, 16 Feb 2026 02:31:01 GMT | How to Fix SSL Certificate Errors on Mac: A Complete Guide | Nikhil Goyal , DevSecOps | [Read More](https://medium.com/p/81b5c6417c5b) |
-| Mon, 16 Feb 2026 02:26:00 GMT | The Becoming Journal — Learning to See the Invisible (tcpdump) | Clark P. | [Read More](https://medium.com/p/00d21127bf70) |
-| Mon, 16 Feb 2026 01:51:10 GMT | Are companies ready for post quantum cryptography in 2026 | Bervice | [Read More](https://medium.com/p/26cfaada24dd) |
-| Mon, 16 Feb 2026 01:48:56 GMT | Tier 1: When Zero Security Meets Real Attackers | Mohammed Annan | [Read More](https://medium.com/p/c6ce553d3b2d) |
-| Mon, 16 Feb 2026 01:31:59 GMT | Why Smaller Nations Sense the Danger First | Simon Hennessy | [Read More](https://medium.com/p/0925667fe61e) |
-| Mon, 16 Feb 2026 01:25:03 GMT | INE-Assessment Methodologies: Footprinting and Scanning CTF 1 by Singkhon | Singkhon K | [Read More](https://medium.com/p/41608713cda7) |
-| Mon, 16 Feb 2026 01:20:26 GMT | Breaking a Wi-Fi Device Without Touching the Network | Michael Preston | [Read More](https://medium.com/p/6de1f1f836ef) |
-| Mon, 16 Feb 2026 01:06:12 GMT | Hidden Deep Into my Heart — TryHackMe Writeup - by P4NTHR | P4NTHR | [Read More](https://medium.com/p/bdc06a17050d) |
-| Mon, 16 Feb 2026 01:01:36 GMT | Valenfind — TryHackMe Writeup - by P4NTHR | P4NTHR | [Read More](https://medium.com/p/033107624360) |
-| Mon, 16 Feb 2026 00:36:34 GMT | OxFUN OSINT | IgnoranzaSolare | [Read More](https://medium.com/p/d780fdf6c1ec) |
-| Mon, 16 Feb 2026 00:36:23 GMT | Week in Web3 Security: $82M Lost in Five Major Attacks (9 February) | Kerberus Web3 Security | [Read More](https://medium.com/p/388c58993d3e) |
-| Sun, 15 Feb 2026 23:52:30 GMT | Part 2: I Let AI Run A Production Website | Pankaj Baranwal | [Read More](https://medium.com/p/530d53501567) |
-| Sun, 15 Feb 2026 23:39:40 GMT | [Write-up] Digital Forensics Lab 01: Navigating the Terminal & Uncovering Hidden Evidence | Tania | [Read More](https://medium.com/p/7a3ad6b544c5) |
-| Sun, 15 Feb 2026 23:33:32 GMT | Teaching myself AI Agent Security (2) | ai3ech | [Read More](https://medium.com/p/31cf098f1b37) |
-| Sun, 15 Feb 2026 23:28:38 GMT | Events In Information Policy & Ethics: Securing Data In Clinical Machinery | Hannah Hillery | [Read More](https://medium.com/p/47fa644c1cfb) |
-| Sun, 15 Feb 2026 23:10:30 GMT | No-Password API Authentication with ZKP Architecture: A Novel Case of Use for Service-to-Service… | Elias Andrade | [Read More](https://medium.com/p/3b45a99d0389) |
-| Sun, 15 Feb 2026 23:02:59 GMT | Essential Cybersecurity Best Practices for Businesses | CyberSecurity | [Read More](https://medium.com/p/67fb77bf4bee) |
