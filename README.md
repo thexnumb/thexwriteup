@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Feb 2026 04:31:01 GMT | Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Other Devices | Cybersphere Official | [Read More](https://medium.com/p/932752bf520b) |
+| Mon, 16 Feb 2026 04:26:00 GMT | SOC Metrics That Actually Matter: Measuring Analyst Performance and Detection Maturity | Muskaan Arora | [Read More](https://medium.com/p/347d3984c8f6) |
+| Mon, 16 Feb 2026 04:14:15 GMT | Cybersecurity Salary in India 2026 | AJ | [Read More](https://medium.com/p/3c7bb743167b) |
+| Mon, 16 Feb 2026 04:11:06 GMT | Why Most ServiceNow ITSM Implementations Fail to Deliver ROI — And How to Get It Right | Alex s | [Read More](https://medium.com/p/54598e98a111) |
+| Mon, 16 Feb 2026 04:01:00 GMT | ☁️ The Shared Responsibility Model Explained: Who Secures What in the Cloud? | Rishab Nitin Tiwari | [Read More](https://medium.com/p/edfedc4a2396) |
+| Mon, 16 Feb 2026 03:57:44 GMT | Day 06: Understanding Malware Types: A SOC Analyst’s Essential Guide | Muhammad Kashif | [Read More](https://medium.com/p/bb178abf0a20) |
+| Mon, 16 Feb 2026 03:57:19 GMT | A Proposal to Apple Part 3 — Analysis Traces of “Structural Destruction” in iOS : How a Stolen… | Ryu360 | [Read More](https://medium.com/p/c4f63bfd8e0e) |
+| Mon, 16 Feb 2026 03:50:34 GMT | Every path I took. | Miss A. | [Read More](https://medium.com/p/0cf79abd2dfb) |
+| Mon, 16 Feb 2026 03:41:36 GMT | Bitcoin Slides 30% From Record High as Extreme Fear Overtakes Crypto Markets | Ali Shakeer | [Read More](https://medium.com/p/cd06d984d700) |
+| Mon, 16 Feb 2026 03:34:37 GMT | The CIA Triad — What Cybersecurity Is Actually Protecting | PlainText Cyber | [Read More](https://medium.com/p/c858842cdee9) |
+| Mon, 16 Feb 2026 03:31:01 GMT | 10 Common Mistakes in Typed Error Contracts | Arunangshu Das | [Read More](https://medium.com/p/a594390b5828) |
+| Mon, 16 Feb 2026 03:31:01 GMT | Why Most Cybersecurity Students Are Unemployable (And Don’t Know It Yet) | Manubhav Sharma | [Read More](https://medium.com/p/be6466dc0e4b) |
+| Mon, 16 Feb 2026 03:12:56 GMT | Getting Started with AI for Free: A Step-by-Step Guide to Your OpenRouter API Key | Sarfaraz Merchant | [Read More](https://medium.com/p/390ad7b43fa6) |
+| Mon, 16 Feb 2026 03:12:43 GMT | Turn Your Phone into a Hacking Machine: The 16GB RAM Cloud PC Guide | Zer0Figure | [Read More](https://medium.com/p/cc30aefa73d6) |
+| Mon, 16 Feb 2026 02:56:53 GMT | Introduction to Digital Forensics (Lab 01) | Romadhona Fitri | [Read More](https://medium.com/p/374a35cec465) |
+| Mon, 16 Feb 2026 02:51:38 GMT | SAML Explained Simply: Enterprise SSO Guide (Part 1) | isuru perera | [Read More](https://medium.com/p/951c7b36c98f) |
+| Mon, 16 Feb 2026 02:36:01 GMT | The Company That Owned the World’s Wealth | Bridget | [Read More](https://medium.com/p/d0568f4d3778) |
+| Mon, 16 Feb 2026 02:31:01 GMT | How to Fix SSL Certificate Errors on Mac: A Complete Guide | Nikhil Goyal , DevSecOps | [Read More](https://medium.com/p/81b5c6417c5b) |
+| Mon, 16 Feb 2026 02:26:00 GMT | The Becoming Journal — Learning to See the Invisible (tcpdump) | Clark P. | [Read More](https://medium.com/p/00d21127bf70) |
 | Mon, 16 Feb 2026 01:51:10 GMT | Are companies ready for post quantum cryptography in 2026 | Bervice | [Read More](https://medium.com/p/26cfaada24dd) |
 | Mon, 16 Feb 2026 01:48:56 GMT | Tier 1: When Zero Security Meets Real Attackers | Mohammed Annan | [Read More](https://medium.com/p/c6ce553d3b2d) |
 | Mon, 16 Feb 2026 01:31:59 GMT | Why Smaller Nations Sense the Danger First | Simon Hennessy | [Read More](https://medium.com/p/0925667fe61e) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Feb 2026 18:34:26 GMT | [Azure] Home Office Solution using Microsoft Azure VPN Gateway | Pedro Córdova | [Read More](https://medium.com/p/016f5393abd5) |
 | Sun, 15 Feb 2026 18:32:57 GMT | Defending Small Businesses from Cyber Attacks: The SME Security Crisis | Mohammed Annan | [Read More](https://medium.com/p/1a938875561e) |
 | Sun, 15 Feb 2026 18:32:51 GMT | The Internet Never Forgets — But Your Email Should | Warren Smith | [Read More](https://medium.com/p/252db08d2f0a) |
-| Sun, 15 Feb 2026 18:32:48 GMT | What is Python in 2026? | Azhar Shaikh | [Read More](https://medium.com/p/df42c17cd328) |
-| Sun, 15 Feb 2026 18:31:52 GMT | Implementing Zero Trust in Kubernetes: Securing Ingress, Egress, and Upstream Service Connections | Tajinder Minhas | [Read More](https://medium.com/p/74f83b638c92) |
-| Sun, 15 Feb 2026 18:26:25 GMT | Weapon of Mass Exposure | Poe LeRoy | [Read More](https://medium.com/p/1a5edfe6e5a2) |
-| Sun, 15 Feb 2026 18:19:34 GMT | Cybersecurity and Privacy | Sushanthisodadasi | [Read More](https://medium.com/p/aea3df57c8b6) |
-| Sun, 15 Feb 2026 18:17:23 GMT | Wgel CTF — TryHackMe Writeup / Walkthrough | sudo_0xksh | [Read More](https://medium.com/p/fc225e16f60c) |
-| Sun, 15 Feb 2026 18:16:33 GMT | TomGhost — TryHackMe Writeup / Wal | sudo_0xksh | [Read More](https://medium.com/p/6f84ef4dd5da) |
-| Sun, 15 Feb 2026 18:15:56 GMT | DIGITAL FORENSICS: BASIC LINUX COMMAND LINE FOR ANALYSIS FILE & SYSTEM | z4ns._ | [Read More](https://medium.com/p/70258a3b604d) |
-| Sun, 15 Feb 2026 18:13:40 GMT | Restart Manager (rstrtmgr.dll) | Balakrishna | [Read More](https://medium.com/p/3bb177822a44) |
-| Sun, 15 Feb 2026 18:08:28 GMT | THM — ValenFind | Dfaults | [Read More](https://medium.com/p/c5a42e2cf5b2) |
-| Sun, 15 Feb 2026 18:05:55 GMT | Piercing the Veil of Timelapse: Encrypted Keys & The LAPS Revelation ️ | Nicholas Mullenski | [Read More](https://medium.com/p/716bf0c289bb) |
-| Sun, 15 Feb 2026 18:05:52 GMT | The “Dumb” Editor That Got Too Smart: When Feature Bloat Leads to RCE | Sohan Kanna D | [Read More](https://medium.com/p/0fd08d9c62cd) |
-| Sun, 15 Feb 2026 18:04:27 GMT | Security Fatigue Is the Real Breach | Sam Walker | [Read More](https://medium.com/p/3a86ca470413) |
-| Sun, 15 Feb 2026 17:56:59 GMT | The Complete Web Penetration Testing Roadmap for 2026 (Part 2) | Hossein Zarei | [Read More](https://medium.com/p/1a5be9cd157f) |
-| Sun, 15 Feb 2026 17:52:34 GMT | Hacking OpenClaw | Héctor Martos | [Read More](https://medium.com/p/07dc2003c31d) |
-| Sun, 15 Feb 2026 17:51:37 GMT | What Breaks During Port Scanning at Scale - Falcoria Part 1 | 2s1one | [Read More](https://medium.com/p/aa84945e7550) |
-| Sun, 15 Feb 2026 17:46:01 GMT | Security Operations | Binesh gurung | [Read More](https://medium.com/p/9af40afbc2a9) |
-| Sun, 15 Feb 2026 17:43:07 GMT | CryptographyVulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/28a66f949ac1) |
-| Sun, 15 Feb 2026 17:41:13 GMT | Is the tech industry stagnating? | Cross Wires News | [Read More](https://medium.com/p/46ca8b09eaee) |
-| Sun, 15 Feb 2026 17:40:31 GMT | KYC Is Dead. We Just Haven’t Admitted It. | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/41453bcdd445) |
