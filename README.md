@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Feb 2026 07:35:38 GMT | Why Modern Households Depend on Reliable Antivirus Software | Siyanoav | [Read More](https://medium.com/p/69477dc13ec1) |
+| Mon, 16 Feb 2026 07:20:53 GMT | Legal Boundaries of Red Team Operations in Cybersecurity | Cynox Security LLP. | [Read More](https://medium.com/p/71eec7e56aa1) |
+| Mon, 16 Feb 2026 07:16:17 GMT | Scaling Compliance with Baserow GRC Software | Baserow | [Read More](https://medium.com/p/7e8aae5c763b) |
+| Mon, 16 Feb 2026 07:16:09 GMT | My Weird Letter To The Editor | Evren T | [Read More](https://medium.com/p/4d939a373769) |
+| Mon, 16 Feb 2026 07:15:58 GMT | Breaking the Purchase Flow: When Step Order Assumptions Fail
+‏ | Elia carlos | [Read More](https://medium.com/p/b6b160c412d0) |
+| Mon, 16 Feb 2026 07:15:02 GMT | The Azure Bicep Console = ❤️ | Brian Veldman | [Read More](https://medium.com/p/cfbcb455e2db) |
+| Mon, 16 Feb 2026 07:14:46 GMT | 4Qs Already? 2025 cycle was completed | Umar Farouk | [Read More](https://medium.com/p/3212ed4bcafd) |
+| Mon, 16 Feb 2026 07:09:22 GMT | Introductions to Digital Forensics - Lab-01 | Xinli Salim | [Read More](https://medium.com/p/6f7266f733bc) |
+| Mon, 16 Feb 2026 07:04:35 GMT | The Second Scam Nobody Warns You About: How “Recovery Experts” Secretly Target Scam Victims Again | Hartarto | [Read More](https://medium.com/p/ca2129d250c4) |
+| Mon, 16 Feb 2026 07:03:45 GMT | When a Denial of Service Isn’t a Vulnerability | 0xYogi | [Read More](https://medium.com/p/425e8e924d8b) |
+| Mon, 16 Feb 2026 07:03:25 GMT | From Markets to Cybersecurity: Ignore the Foam, Build the Beer | Jaiswal Siddharth | [Read More](https://medium.com/p/9c4f1e21a223) |
+| Mon, 16 Feb 2026 07:01:44 GMT | 24 Hour Locksmiths London -Fast, Reliable, and Professional Solutions | N1locksmithsltd | [Read More](https://medium.com/p/d1cab08d2c5c) |
+| Mon, 16 Feb 2026 07:01:40 GMT | Managing Cyber Risk the Right Way: A Practical Enterprise Approach Using NIST | Ashutosh Shukla | [Read More](https://medium.com/p/983689210c8b) |
+| Mon, 16 Feb 2026 06:49:21 GMT | The Skills That Will Matter for Offensive AI Security in 2026 | Arwa | [Read More](https://medium.com/p/44e2469cdc84) |
+| Mon, 16 Feb 2026 06:49:16 GMT | I Built a Zero-Knowledge Password Manager in Rust — Here’s Why | Vijay Singh | [Read More](https://medium.com/p/ae78417684b7) |
+| Mon, 16 Feb 2026 06:49:07 GMT | Building a Network Packet Analyser in Python: A Hands-On Guide | Mani vidyadhar | [Read More](https://medium.com/p/914017794f70) |
+| Mon, 16 Feb 2026 06:43:16 GMT | Toprak Değil, Veri: Modern Dünyanın Görünmeyen Sömürgesi | Recep Şenel | [Read More](https://medium.com/p/3fb246464b8e) |
+| Mon, 16 Feb 2026 06:32:35 GMT | ️ I Built an LLM Safety System: A Practical Guide to Guardrails for Prompt Injection, PII… | Venkatkumar (VK) | [Read More](https://medium.com/p/a38f11d33561) |
+| Mon, 16 Feb 2026 06:31:01 GMT | Scheduled Tasks: Silent Execution and Automation Abuse | Ankita Sinha | [Read More](https://medium.com/p/a5cbcaa0023f) |
+| Mon, 16 Feb 2026 06:11:22 GMT | I Applied a Discount Code 20 Times in One Second - Race Condition Story | TEJAS | [Read More](https://medium.com/p/caf6852fe02c) |
+| Mon, 16 Feb 2026 06:04:49 GMT | Common Tactics Used in Immigration Operations by the Department of Homeland Security | Alan Robertson | [Read More](https://medium.com/p/35a9acf21f1a) |
 | Mon, 16 Feb 2026 06:01:01 GMT | Privileged Access: Why It’s Still the Biggest Risk in Your Organization | Hazel Chirinda | [Read More](https://medium.com/p/ad482cf762f3) |
 | Mon, 16 Feb 2026 05:58:59 GMT | Cloud-Native & DevOps Development Services for Global Businesses | GateTouch | [Read More](https://medium.com/p/d0cc08080680) |
 | Mon, 16 Feb 2026 05:46:50 GMT | AI-Powered SIEM: Fewer Alerts, Faster Decisions | NetWitness | [Read More](https://medium.com/p/625e9ec34fac) |
@@ -91,24 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Feb 2026 21:31:38 GMT | The vulnerability of releasing unfinished versions of yourself. | Favour Emmanuel | [Read More](https://medium.com/p/ffe76ca03496) |
 | Sun, 15 Feb 2026 21:29:01 GMT | LLM Prompt Injection & System Leakage: CupidBot (TryHackMe Walkthrough) | RosanaFSS | [Read More](https://medium.com/p/3c86e492f869) |
 | Sun, 15 Feb 2026 21:16:43 GMT | Deterministic Computational Governance: Why Tier 0 Architecture Changes Digital Security | Adán Ignacio Ramalho Méndez | [Read More](https://medium.com/p/36a84ff782ea) |
-| Sun, 15 Feb 2026 21:15:49 GMT | NIN-SIM Linkage and the Nigeria We Desire | Prof. Tunde Akanni | [Read More](https://medium.com/p/77ab80464d6f) |
-| Sun, 15 Feb 2026 21:14:33 GMT | The Weight of the Mask | Anna K. | [Read More](https://medium.com/p/259a541d90f0) |
-| Sun, 15 Feb 2026 21:11:50 GMT | From Proof of Concept to Production: Building an Enterprise-Grade Platform for AI Systems | Rubens Zimbres | [Read More](https://medium.com/p/1fb9ebac78b9) |
-| Sun, 15 Feb 2026 21:10:29 GMT | The $500,000 Blind Spot: Why AI Integration is No Longer Optional for Corporate Security | Design Delight Inc | [Read More](https://medium.com/p/7befb6cf57c8) |
-| Sun, 15 Feb 2026 21:04:25 GMT | 0xFun CTF - OSINT Challenges Writeup | Ahmed Mohammed | [Read More](https://medium.com/p/ddfe6a4ba08f) |
-| Sun, 15 Feb 2026 21:03:20 GMT | Time Hacking With OSINT: The Ridiculous Chronolocation Tricks Investigators Don’t Want You To Know… | cybrNK | [Read More](https://medium.com/p/3f71c1df77b9) |
-| Sun, 15 Feb 2026 20:57:36 GMT | The Two Bugs That Kill Startups: A Deep Dive into XSS and CSRF | Frank Kelechi Oge | [Read More](https://medium.com/p/eb7019e1172b) |
-| Sun, 15 Feb 2026 20:53:58 GMT | Analisis OverTheWire Bandit dalam Membangun Pemahaman Linux sebagai Fondasi Keamanan Sistem | NovanSetiadi | [Read More](https://medium.com/p/fcec8329c0e7) |
-| Sun, 15 Feb 2026 20:51:20 GMT | Microsoft Active Directory and Azure Active Directory as a Hybrid Identity and Access Management… | Jerry Kuri | [Read More](https://medium.com/p/ad7f19375d11) |
-| Sun, 15 Feb 2026 20:50:28 GMT | TryHackMe Writeup: The Phishing Pond | Berkay AĞGÜL | [Read More](https://medium.com/p/9e13e802a55c) |
-| Sun, 15 Feb 2026 20:42:42 GMT | Dijital Arka Kapı: Bir Komutla Gelen Felaket | Toprak Külekçioğlu | [Read More](https://medium.com/p/6ac791727b21) |
-| Sun, 15 Feb 2026 20:39:29 GMT | RazorBlack — TryHackMe Walkthrough | Abdallah_samir | [Read More](https://medium.com/p/ef1fff751c15) |
-| Sun, 15 Feb 2026 20:32:47 GMT | Beyond OCR: How AI Used Logical Infrastructure to Decode Real-World Noise | Pii1123 | [Read More](https://medium.com/p/367f55cff780) |
-| Sun, 15 Feb 2026 20:32:44 GMT | Report Attacchi Hacker Inizio 2026 | Scienza et Magia | [Read More](https://medium.com/p/bb726a4fd283) |
-| Sun, 15 Feb 2026 20:28:23 GMT | INE CTF-Assessment Methodologies: Information Gathering CTF 1 by Singkhon K | Singkhon K | [Read More](https://medium.com/p/d2e40616874b) |
-| Sun, 15 Feb 2026 20:26:29 GMT | Skynet — TryHackMe | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/03336c98e577) |
-| Sun, 15 Feb 2026 20:21:32 GMT | Cross-Site Scripting (XSS) — Part 1: Reflected XSS Explained with a Lab | mayhack | [Read More](https://medium.com/p/40d3cdaa2b90) |
-| Sun, 15 Feb 2026 20:01:48 GMT | Introducing Hades | Adam Maxwell | [Read More](https://medium.com/p/0918b357d77d) |
-| Sun, 15 Feb 2026 19:59:00 GMT | We Built a Constitutional Compliance Engine. In 8 Hours | J Gray | [Read More](https://medium.com/p/93bbaced3cbc) |
-| Sun, 15 Feb 2026 19:50:48 GMT | Why You Are Failing at Bug Bounty Hunting (And the Blueprint to Fix It) | Krishna Kumar | [Read More](https://medium.com/p/e5a904ae63fa) |
-| Sun, 15 Feb 2026 19:48:55 GMT | Lord Of The Root: 1.0.1 Walkthrough | Anush M S | [Read More](https://medium.com/p/5027b5b565f2) |
