@@ -12,10 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Feb 2026 11:08:17 GMT | From Learning to Splitting “alert”: My Accidental Self-XSS Story | Harsha Vardhan | [Read More](https://medium.com/p/562a4462c3d0) |
+| Tue, 17 Feb 2026 11:01:57 GMT | 30 Years of Century Solutions Group in IT Services | Century Solutions Group | [Read More](https://medium.com/p/87baaa9d7267) |
+| Tue, 17 Feb 2026 10:59:40 GMT | CYBERCOM 2.0 Is a Transformation Program Hiding in Plain Sight | Tamas Pilisko | [Read More](https://medium.com/p/c26a1b04d558) |
+| Tue, 17 Feb 2026 10:57:34 GMT | CYBERCOM 2.0 Explained: The Operating Model Behind Cyber Readiness and Mastery | Tamas Pilisko | [Read More](https://medium.com/p/a6135c7269ee) |
+| Tue, 17 Feb 2026 10:55:50 GMT | Google Chrome’da Alarm: Zero-Day Açıkları ve Sahte AI Uzantıları Aynı Anda Sahnede! | Hasancangozgec | [Read More](https://medium.com/p/1b433720e112) |
+| Tue, 17 Feb 2026 10:54:05 GMT | cve-2024–46507_AttackWalkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/c6ca65d6cbc3) |
+| Tue, 17 Feb 2026 10:53:19 GMT | Best End-User Support Services in India - Help Desk Services | Thiripathiv | [Read More](https://medium.com/p/34eac21aa7af) |
+| Tue, 17 Feb 2026 10:44:13 GMT | Top 15 Website Security Mistakes That Get Sites Hacked | 0xSmit | [Read More](https://medium.com/p/79f5ff4c27df) |
+| Tue, 17 Feb 2026 10:43:49 GMT | What is Virtualization ? | Ankanbiswasintership | [Read More](https://medium.com/p/2f0a9a97a3ee) |
+| Tue, 17 Feb 2026 10:41:25 GMT | How Managed IT Services Improve Business Productivity and Security | The MIT Pro | [Read More](https://medium.com/p/f7725cb6989b) |
+| Tue, 17 Feb 2026 10:37:50 GMT | The Ultimate ChatGPT Bug Bounty Guide: Every Prompt You Need to Find P1 Vulnerabilities — From… | BugHunter’s Journal | [Read More](https://medium.com/p/047142ef021b) |
+| Tue, 17 Feb 2026 10:36:05 GMT | A Guide to Data Security and Compliance Regulations | HawkShield | [Read More](https://medium.com/p/3c675da6e342) |
+| Tue, 17 Feb 2026 10:33:41 GMT | Is Your Security Team Overwhelmed? You Need This | Redfox Security | [Read More](https://medium.com/p/b7bd0a9951ce) |
+| Tue, 17 Feb 2026 10:27:54 GMT | Your Penetration Test Report Just Landed. Read This Before You Panic. | Dawid Makowski | [Read More](https://medium.com/p/202663f69a38) |
+| Tue, 17 Feb 2026 10:20:18 GMT | Hidden Deep Into my Heart — A TryHackMe Writeup | 0x77 | [Read More](https://medium.com/p/46adbb8b05d1) |
+| Tue, 17 Feb 2026 10:10:04 GMT | ☗ CLAVI Is the Only True Private Vault ☗ | 0NE - C L A V I | [Read More](https://medium.com/p/62592f5e7f3b) |
 | Tue, 17 Feb 2026 10:01:43 GMT | BodySnatcher: Unpacking the Critical ServiceNow Vulnerability (CVE-2025–12420) | Alessandro Pignati | [Read More](https://medium.com/p/0253771f3e83) |
 | Tue, 17 Feb 2026 10:01:03 GMT | I Found A Race Condition Vulnerability Which allow an attacker can do unlimited like & dislike on… | Md Nawshad Ahmmed | [Read More](https://medium.com/p/474659f312a8) |
 | Tue, 17 Feb 2026 09:56:25 GMT | OverTheWire Bandit Level 0: Hands-On Walkthrough | Chendur Sutharsan A C M | [Read More](https://medium.com/p/caae6bd7ab5c) |
 | Tue, 17 Feb 2026 09:55:08 GMT | The Gateway as Your Central AI Security Hub | Radicalbit | [Read More](https://medium.com/p/e7dbf2122995) |
+| Tue, 17 Feb 2026 09:51:54 GMT | Site Protect Pricing Explained: Cost, ROI and Tradeoffs | Medha | [Read More](https://medium.com/p/c7335c2af36d) |
 | Tue, 17 Feb 2026 09:51:24 GMT | Breaking the Trust Boundary: SSRF via a Misconfigured Sentry Tunnel | Ehtesham Ul Haq | [Read More](https://medium.com/p/ed054820b743) |
 | Tue, 17 Feb 2026 09:49:04 GMT | Meet WibeIT the New Privacy First Messaging App | WibeIT Application | [Read More](https://medium.com/p/60b7aa581d6d) |
 | Tue, 17 Feb 2026 09:45:16 GMT | How AI is Used To Detect and Prevent Cyber Attacks? | Manisha Chaudhary | [Read More](https://medium.com/p/6812a1aac64e) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Feb 2026 04:49:45 GMT | How to Actually Read Threat Reports (So They Become Useful) | seif | [Read More](https://medium.com/p/ce8d6c244184) |
 | Tue, 17 Feb 2026 04:39:08 GMT | Django February 2026 Security Patch Breakdown: Upgrading to 6.0.2 Safely | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/530702c75690) |
 | Tue, 17 Feb 2026 04:38:25 GMT | Part 3 — Finding High-Impact Bugs Without Heavy Scanning | ghostyjoe | [Read More](https://medium.com/p/59ee5908b475) |
-| Tue, 17 Feb 2026 04:31:01 GMT | Weekly Cybersecurity Recap: Outlook Add-in Supply Chain Attack, 0-Day Patches, Wormable Botnet & AI… | Cybersphere Official | [Read More](https://medium.com/p/02dc7b038991) |
-| Tue, 17 Feb 2026 04:26:01 GMT | IDOR Vulnerabilities Explained: A Researcher’s Guide to Authorization Flaws | Ud4y | [Read More](https://medium.com/p/82030def0e28) |
-| Tue, 17 Feb 2026 04:26:01 GMT | Day 12 Attack Structure Explained: Execution — When Access Turns Into Action | NineTales | [Read More](https://medium.com/p/700eedd7afd9) |
-| Tue, 17 Feb 2026 04:01:01 GMT | Munich Reckoning: How Trump’s America and a Rearmed Europe Are Redefining the West | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/0a9efe30451f) |
-| Tue, 17 Feb 2026 04:01:01 GMT | Writeup - Love Letter Locker - TryHackMe | Tommy S | [Read More](https://medium.com/p/6ef960e2a7b0) |
-| Tue, 17 Feb 2026 03:55:27 GMT | Evolusi Lumma Stealer: Membedah Taktik “ClickFix” dan Anatomi Serangan Melalui Cyber Kill Chain | Panser Biru | [Read More](https://medium.com/p/3df7cbdf6ae3) |
-| Tue, 17 Feb 2026 03:53:47 GMT | Bridging the Gap: What It Would Actually Take to Bring PC Modding to Console | Midlife Gamer | [Read More](https://medium.com/p/c0844ba2f3db) |
-| Tue, 17 Feb 2026 03:46:10 GMT | Day 1: Installing Kali Linux as a Beginner in Cybersecurity | Chizitelu MacDonald Ilondu | [Read More](https://medium.com/p/35580ea82fff) |
-| Tue, 17 Feb 2026 03:41:59 GMT | ISO 27001:2022 — An Introductory Guide to Information Security | Jenny | [Read More](https://medium.com/p/e423532903c4) |
-| Tue, 17 Feb 2026 03:40:32 GMT | The 2025 Cloud Security Reality Check: Critical Insights Every Leader Needs | Lakshan Weerasingha | [Read More](https://medium.com/p/bd05eccaf6ee) |
-| Tue, 17 Feb 2026 03:29:49 GMT | Laporan Praktikum Basis Data : Installasi XAMPP | Cahyoadi | [Read More](https://medium.com/p/7f167c38b4ed) |
-| Tue, 17 Feb 2026 03:26:00 GMT | Business Email Compromise: The $2.7 Billion Scam You’ve Probably Never Heard Of | Sharon Martin | [Read More](https://medium.com/p/2f8533aa8f28) |
-| Tue, 17 Feb 2026 03:22:39 GMT | 100 Top Ethical Hacking Tools in Cybersecurity | Er Raj Aryan | [Read More](https://medium.com/p/2cde572820e2) |
-| Tue, 17 Feb 2026 03:15:13 GMT | Analisis Cybercrime Toolkit Infostealer | Nolaand | [Read More](https://medium.com/p/537ff4f5a7ea) |
-| Tue, 17 Feb 2026 02:48:00 GMT | Forgotten Ruins -OSINT | Aser Ahmed | [Read More](https://medium.com/p/244fefb9e07d) |
-| Tue, 17 Feb 2026 02:42:37 GMT | Beyond the Cloud Ceiling: Edge AI and the Future of Affordable Business Intelligence | Anshul Yadav | [Read More](https://medium.com/p/1c64102c68ee) |
-| Tue, 17 Feb 2026 02:32:25 GMT | The Message Broker That Spoke Too Freely | Isaac Adebayo | [Read More](https://medium.com/p/17ab09e970c5) |
