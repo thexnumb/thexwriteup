@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Feb 2026 19:33:49 GMT | Least Privilege | Machie | [Read More](https://medium.com/p/11d17826c98b) |
+| Tue, 17 Feb 2026 19:25:05 GMT | The Dark Side of Free VPN Apps | VPNHouse | [Read More](https://medium.com/p/96c6ef788c36) |
+| Tue, 17 Feb 2026 19:24:56 GMT | Keycloak Organizations vs. Realms: Two Tools, Two Completely Different Jobs | Florian Röser | [Read More](https://medium.com/p/a022f8e1592e) |
+| Tue, 17 Feb 2026 19:23:38 GMT | Cybersecurity Foundations: Why One Wall is Never Enough | Machie | [Read More](https://medium.com/p/9e7054994ade) |
+| Tue, 17 Feb 2026 19:21:58 GMT | Versión sin editar empieza así: | Shandy Bentancor | [Read More](https://medium.com/p/31dbfb8b19e1) |
+| Tue, 17 Feb 2026 19:15:53 GMT | Why Rolling Code Failures Matter for Digital Identity | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/fdf84a032bf0) |
+| Tue, 17 Feb 2026 19:12:22 GMT | Unlocking the Future of Cyber Defense: The AI-Powered CyberDudeBivash Threat Intelligence Platform… | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/e9cc6fe6ecef) |
+| Tue, 17 Feb 2026 19:11:15 GMT | Solving a Real Problem in Modern Cybersecurity: The Post-Authentication Blind Spot | Rekuway | [Read More](https://medium.com/p/617429aa0ac3) |
+| Tue, 17 Feb 2026 19:09:53 GMT | Five Steps to OpenClaw Hardening | C.Dalrymple | [Read More](https://medium.com/p/0d5cdfc4ea7b) |
+| Tue, 17 Feb 2026 19:08:29 GMT | My First Valid AWS VDP Report: Why Even “Simple” Issues Matter | Jehovahseun Ezekiel ADEKANMI | [Read More](https://medium.com/p/528e82623c7f) |
+| Tue, 17 Feb 2026 19:08:00 GMT | Modus Pencurian data lewat Fake Captcha | Faris Jihadi Abdillah | [Read More](https://medium.com/p/2742454ff56a) |
+| Tue, 17 Feb 2026 19:07:23 GMT | Dear Delilah, | Derrick Acheampong | [Read More](https://medium.com/p/06bdc12a0745) |
+| Tue, 17 Feb 2026 19:07:09 GMT | Part 1/3: Understanding phpinfo() — The Accidental Goldmine | Cybersecplayground | [Read More](https://medium.com/p/c662da63a3c7) |
+| Tue, 17 Feb 2026 19:06:28 GMT | Capability-Based Planning. | Mohammed Brückner | [Read More](https://medium.com/p/277dfc0d8fcb) |
+| Tue, 17 Feb 2026 19:03:03 GMT | SSRF Vulnerability and Detecting It With AI, Enter See-SURF!! | Vaibhav Agrawal | [Read More](https://medium.com/p/f519b19c9d36) |
+| Tue, 17 Feb 2026 19:01:00 GMT | EU GDPR — Article 16 (Right to Rectification) | MDM Team | [Read More](https://medium.com/p/e0214f97d038) |
 | Tue, 17 Feb 2026 18:50:40 GMT | Day 5 — The Imaginary Path | Armaan Nain | [Read More](https://medium.com/p/75d24151a173) |
 | Tue, 17 Feb 2026 18:42:16 GMT | The Next Frontier in Cybersecurity: Protecting Identity Persistence After Authentication | Rekuway | [Read More](https://medium.com/p/e1c503776462) |
 | Tue, 17 Feb 2026 18:31:15 GMT | A weird encounter | Nixk2000 | [Read More](https://medium.com/p/c87d545c9402) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Feb 2026 14:47:41 GMT | The Most Secure Way to Store Crypto Seed Phrases for Inheritance Without Risking Exposure | Olivia Martillo | [Read More](https://medium.com/p/d62ab8f07b58) |
 | Tue, 17 Feb 2026 14:41:48 GMT | Lumma Stealer & Fake CAPTCHA | L0udbaa | [Read More](https://medium.com/p/ac23405efd7f) |
 | Tue, 17 Feb 2026 14:37:47 GMT | How we reduced a WooCommerce site load time from 7.2s | Rajeev Sharma | [Read More](https://medium.com/p/7fb942b6a940) |
-| Tue, 17 Feb 2026 14:36:00 GMT | How We Got AWS Security Best Practices to 100% (And Why It Matters for Your Data Team) | Luca Vehbiu | [Read More](https://medium.com/p/4e455ad636b7) |
-| Tue, 17 Feb 2026 14:31:32 GMT | AXSAS Strategic Briefing 005 | AXSAS | [Read More](https://medium.com/p/138455dbb861) |
-| Tue, 17 Feb 2026 14:30:52 GMT | Implementasi Lumma Stealer Dalam Framework Cyber Kill Chain | Fauzan Putra Ramadhan | [Read More](https://medium.com/p/61ea83276ab4) |
-| Tue, 17 Feb 2026 14:16:37 GMT | Deep legal analysis | Olga Isaeva | [Read More](https://medium.com/p/c1d85c25edd7) |
-| Tue, 17 Feb 2026 14:14:52 GMT | Behind Reinforced Walls | Lasse Waxson | [Read More](https://medium.com/p/7d38287bec16) |
-| Tue, 17 Feb 2026 14:13:29 GMT | Flowing with OAuth | Maksim Emelianchenko | [Read More](https://medium.com/p/1163c3158b70) |
-| Tue, 17 Feb 2026 14:09:10 GMT | The 2026 Fintech Security Interview: 15 Questions to Master for a $300k Salary | Shanker Goud | [Read More](https://medium.com/p/cb9f35ad57a5) |
-| Tue, 17 Feb 2026 14:08:50 GMT | Your Phone Can Already Prove a Photo Is Real. Nothing Uses It. | Franlopz | [Read More](https://medium.com/p/57a4c3ca2d54) |
-| Tue, 17 Feb 2026 14:03:49 GMT | Asymmetric Encryption and RSA | MD SABBIR AHMED | [Read More](https://medium.com/p/23ffb66f8ac5) |
-| Tue, 17 Feb 2026 14:01:41 GMT | ️ Understanding the BitB (Browser-In-The-Browser) Attack | Sreeraj S Chandran | [Read More](https://medium.com/p/1055cedfb980) |
-| Tue, 17 Feb 2026 14:01:04 GMT | Why Burnout Is the Real Online Security Risk | Tracy | [Read More](https://medium.com/p/f9f681c602eb) |
-| Tue, 17 Feb 2026 13:58:42 GMT | Scam Alert in Ghana: How Fraudsters Are Targeting Citizens in 2026 | KOSCYBER | [Read More](https://medium.com/p/f739bd182a96) |
-| Tue, 17 Feb 2026 13:58:13 GMT | The Hidden Risks of Unfinished Access Reviews in Modern Enterprises | Openiam | [Read More](https://medium.com/p/b2b6f2f2f9b0) |
-| Tue, 17 Feb 2026 13:54:21 GMT | Open HTTP RedirectVulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/a0b3fb10a46e) |
-| Tue, 17 Feb 2026 13:54:16 GMT | The Fragility of Modern DevOps: A 2026 CI/CD Exposure Report | Eldor Zufarov | [Read More](https://medium.com/p/8eb2e22f43ca) |
-| Tue, 17 Feb 2026 13:53:48 GMT | Microsoft Purview eDiscovery (Standard vs Premium): a hierarchical, end‑to‑end guide | Ahmed Monsri | [Read More](https://medium.com/p/e3f270d66ee0) |
