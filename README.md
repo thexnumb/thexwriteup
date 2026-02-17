@@ -12,7 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Feb 2026 11:54:15 GMT | Palo Alto Just Admitted What we’ve Known for a Decade: Nobody Can Run Security Alone | Thomas Patterson | [Read More](https://medium.com/p/6cb0c5bf8a6e) |
+| Tue, 17 Feb 2026 11:49:01 GMT | How Does IT Support Improve Business Efficiency? | Rx Technology | [Read More](https://medium.com/p/9b6a457d4a74) |
+| Tue, 17 Feb 2026 11:48:39 GMT | Building Sofia AI: A Security-First Multimodal Assistant with Google Gemini & Flask | Ajay kumar | [Read More](https://medium.com/p/01b42f0ef4b0) |
+| Tue, 17 Feb 2026 11:48:03 GMT | Learning Fortinet Firewall — LESSON 2: Internet Access (Basic Config) | Rouell Mamaril | [Read More](https://medium.com/p/aa67b3dafaf5) |
+| Tue, 17 Feb 2026 11:39:02 GMT | Installing Suricata IDS/IPS on Kali Linux and Integrating It with Wazuh - Home Lab | DeshmukhVinit | [Read More](https://medium.com/p/e4e8756f74c3) |
+| Tue, 17 Feb 2026 11:38:55 GMT | Africa and the Global AI Race: Are We Ready? | Rose Kawila | [Read More](https://medium.com/p/6f1d1bdc5d08) |
+| Tue, 17 Feb 2026 11:36:54 GMT | Why GDPR and DPDPA Are Now Core to Business Strategy? | A Smith | [Read More](https://medium.com/p/9314844b11d8) |
+| Tue, 17 Feb 2026 11:34:17 GMT | A Proposal to Apple Part 4 — The Resolution: 3 Architectural Fixes to Close the Passcode and VCAM… | Ryu360 | [Read More](https://medium.com/p/c782ad1aa805) |
+| Tue, 17 Feb 2026 11:33:08 GMT | How Professional Cyber Security Services Protect Businesses from Modern Threats | logging security | [Read More](https://medium.com/p/bb60e1a25211) |
+| Tue, 17 Feb 2026 11:31:01 GMT | Tool Evals Passed. Here’s How It Can Still Be Unsafe. | Velorum | [Read More](https://medium.com/p/54649f6547f1) |
+| Tue, 17 Feb 2026 11:31:00 GMT | Next-Gen Cybersecurity in an AI World: How Intelligent Systems are Defeating Modern Cyber Threats | Kastab Garai | [Read More](https://medium.com/p/b6af4953efa8) |
+| Tue, 17 Feb 2026 11:21:00 GMT | Two-Factor Authentication on WordPress — Why and How | Anthony Chaffey | [Read More](https://medium.com/p/5aa296ab7dc8) |
+| Tue, 17 Feb 2026 11:20:59 GMT | Nepal–Japan IT Forum 2025 — Tokyo Edition (JP) | Anish Shrestha | [Read More](https://medium.com/p/f211b8d6de67) |
+| Tue, 17 Feb 2026 11:20:32 GMT | Hacker Etik Anlayışı: Gri Bölgelerde Doğruyu Bulmak | Attila453 | [Read More](https://medium.com/p/f7584b53283e) |
+| Tue, 17 Feb 2026 11:17:34 GMT | WARD: Securing the Line of Fire with Blockchain and AI | Aamerkhan | [Read More](https://medium.com/p/07b05ca71694) |
+| Tue, 17 Feb 2026 11:17:27 GMT | OpenClaw: The Moment “Personal Agents” Stopped Being a Hobby | ABV | [Read More](https://medium.com/p/2dceb7a4fbcc) |
+| Tue, 17 Feb 2026 11:16:29 GMT | Phishing Attack Simulation in Microsoft Defender: Key Considerations Before You Click “Launch” | Defend Microsoft365 now! | [Read More](https://medium.com/p/8e92de39f8d8) |
 | Tue, 17 Feb 2026 11:08:17 GMT | From Learning to Splitting “alert”: My Accidental Self-XSS Story | Harsha Vardhan | [Read More](https://medium.com/p/562a4462c3d0) |
+| Tue, 17 Feb 2026 11:07:31 GMT | Why Victor Peng Is More Important Than Musk and Altman Combined | Gracie ‘Potter’ Daniel (GhG) | [Read More](https://medium.com/p/6e69e07a16e5) |
 | Tue, 17 Feb 2026 11:01:57 GMT | 30 Years of Century Solutions Group in IT Services | Century Solutions Group | [Read More](https://medium.com/p/87baaa9d7267) |
 | Tue, 17 Feb 2026 10:59:40 GMT | CYBERCOM 2.0 Is a Transformation Program Hiding in Plain Sight | Tamas Pilisko | [Read More](https://medium.com/p/c26a1b04d558) |
 | Tue, 17 Feb 2026 10:57:34 GMT | CYBERCOM 2.0 Explained: The Operating Model Behind Cyber Readiness and Mastery | Tamas Pilisko | [Read More](https://medium.com/p/a6135c7269ee) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Feb 2026 06:17:31 GMT | Why Password Length Matters More Than Complexity | Abuubakar | [Read More](https://medium.com/p/e8da2b121ae4) |
 | Tue, 17 Feb 2026 06:16:38 GMT | Security at Machine Speed: Cybersecurity Trends Defining 2026 | infosprint technologies | [Read More](https://medium.com/p/f3c3e1c870cc) |
 | Tue, 17 Feb 2026 06:08:05 GMT | Your password manager’s ‘zero knowledge’ promise is broken | JP Caparas | [Read More](https://medium.com/p/f4a4c581c4ab) |
-| Tue, 17 Feb 2026 05:52:26 GMT | Stop Killing Your Mac: 10 Apps You Should NEVER Install | Zeeshan Saghir | [Read More](https://medium.com/p/5dcc3d83e73b) |
-| Tue, 17 Feb 2026 05:50:15 GMT | Cookie Tossing : Escalating Low impact XSS into Criticals | TheCzar | [Read More](https://medium.com/p/e29a0a668a74) |
-| Tue, 17 Feb 2026 05:44:19 GMT | I Installed a Chrome Extension Last Tuesday. It Was a Mistake 37 Million People Made. | Muhammad Hassan Ali | [Read More](https://medium.com/p/03bdf654a76e) |
-| Tue, 17 Feb 2026 05:43:33 GMT | From Lure to Exfiltration: Analyzing Lumma Stealer Fake CAPTCHA Attacks via Cyber Kill Chain | Muhammad Idham Cholid | [Read More](https://medium.com/p/62b1f241df0f) |
-| Tue, 17 Feb 2026 05:31:24 GMT | AI in Cybersecurity: How Artificial Intelligence is Transforming Digital Security in 2026 | Tanvi Chauhan | [Read More](https://medium.com/p/94680b8a6e89) |
-| Tue, 17 Feb 2026 05:29:40 GMT | WriteUp Bandit Level 0–20 | Senoputraaa | [Read More](https://medium.com/p/52aab43e1f55) |
-| Tue, 17 Feb 2026 05:29:27 GMT | How Digital Forensics and Incident Response Is Shaping Cyber Resilience in 2025 | Gauri Kale | [Read More](https://medium.com/p/528a9367aeed) |
-| Tue, 17 Feb 2026 05:25:26 GMT | Beyond the Hype: Choosing Your AI North Star | Avipsa Roy | [Read More](https://medium.com/p/8a46293b7bef) |
-| Tue, 17 Feb 2026 05:25:10 GMT | What Is CVE-2026–24061 | Anandhu Kannan | [Read More](https://medium.com/p/b2f47f40199c) |
-| Tue, 17 Feb 2026 05:20:27 GMT | Zero Knowledge Proof Blockchain for Privacy and Security | alinamon | [Read More](https://medium.com/p/8bb4e0fbbf8a) |
-| Tue, 17 Feb 2026 05:15:00 GMT | Why “Works on My Machine” Is the Most Dangerous Sentence in Tech | Fateyaly | [Read More](https://medium.com/p/521069e050df) |
-| Tue, 17 Feb 2026 05:09:37 GMT | TryHackMe Slingshot: Investigating a Web Compromise | san | [Read More](https://medium.com/p/bc2033d1e471) |
-| Tue, 17 Feb 2026 05:00:33 GMT | The Silent Risk Inside Growing Digital Businesses: Untested Vulnerabilities | ANSI Technologies | [Read More](https://medium.com/p/0cf68d43e3f0) |
-| Tue, 17 Feb 2026 04:59:32 GMT | Why curl Quit HackerOne | Abhishek meena | [Read More](https://medium.com/p/526a05e12289) |
-| Tue, 17 Feb 2026 04:58:34 GMT | Scale Smarter Automation with Expert N8N Developers | n8ndevelopers | [Read More](https://medium.com/p/e05ad68a5277) |
-| Tue, 17 Feb 2026 04:49:45 GMT | How to Actually Read Threat Reports (So They Become Useful) | seif | [Read More](https://medium.com/p/ce8d6c244184) |
-| Tue, 17 Feb 2026 04:39:08 GMT | Django February 2026 Security Patch Breakdown: Upgrading to 6.0.2 Safely | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/530702c75690) |
-| Tue, 17 Feb 2026 04:38:25 GMT | Part 3 — Finding High-Impact Bugs Without Heavy Scanning | ghostyjoe | [Read More](https://medium.com/p/59ee5908b475) |
