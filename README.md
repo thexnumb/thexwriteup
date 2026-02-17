@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Feb 2026 06:57:21 GMT | ISO 27001 in the real world: it’s not an “IT project” — it’s renovating your house while the family… | Denny Roger | [Read More](https://medium.com/p/43944b51738e) |
+| Tue, 17 Feb 2026 06:56:34 GMT | Allied Boston Key Recognition in Cybersecurity Excellence - Secure n Comply | Secure n Comply | [Read More](https://medium.com/p/38aa5f913313) |
+| Tue, 17 Feb 2026 06:55:31 GMT | Public Wi-Fi Risks Explained Simply | Lucas Brown | [Read More](https://medium.com/p/522472b1b9d8) |
+| Tue, 17 Feb 2026 06:52:27 GMT | The Next Round of Layoffs Is Coming, and It’ll Be Brutal | Vijay Kumar Gupta | [Read More](https://medium.com/p/b7496a759cc4) |
+| Tue, 17 Feb 2026 06:49:12 GMT | Building a Production-Ready Malicious URL Detection System with Browser Extension and API Backend | Mani vidyadhar | [Read More](https://medium.com/p/a3c4d008ae28) |
+| Tue, 17 Feb 2026 06:46:23 GMT | Spies, Lies, and Cybercrime by Eric O’Neill: A Book Review | Amit Sharma | [Read More](https://medium.com/p/7f1182861e3d) |
+| Tue, 17 Feb 2026 06:45:05 GMT | CRAC Insights — 9th Feb — 16th Feb | CRAC Learning | [Read More](https://medium.com/p/79b7fa12a906) |
+| Tue, 17 Feb 2026 06:42:00 GMT | What Is Hyperlink Injection? Explained Simply | Abhinsubej | [Read More](https://medium.com/p/3784efbdff12) |
+| Tue, 17 Feb 2026 06:31:09 GMT | AI Deployment under PDPL: Compliance and Breach Response | Tsaaro Consulting | [Read More](https://medium.com/p/3365df7d6191) |
+| Tue, 17 Feb 2026 06:29:29 GMT | Cybersecurity for Law Firms: How to Secure Confidential Client Data and Avoid Costly Breaches | Qualysec Technologies | [Read More](https://medium.com/p/1099a5df6a0a) |
+| Tue, 17 Feb 2026 06:28:01 GMT | Hacking in 2026: What Beginners Should Actually Learn | Vaibhav Kubade | [Read More](https://medium.com/p/f4b16a4b861e) |
+| Tue, 17 Feb 2026 06:19:43 GMT | Understanding Adversary-in-the-Middle (AiTM) Phishing Attacks | Dulitha Wickramasinghe | [Read More](https://medium.com/p/53391e1d0412) |
+| Tue, 17 Feb 2026 06:17:31 GMT | Why Password Length Matters More Than Complexity | Abuubakar | [Read More](https://medium.com/p/e8da2b121ae4) |
+| Tue, 17 Feb 2026 06:08:05 GMT | Your password manager’s ‘zero knowledge’ promise is broken | JP Caparas | [Read More](https://medium.com/p/f4a4c581c4ab) |
 | Tue, 17 Feb 2026 05:52:26 GMT | Stop Killing Your Mac: 10 Apps You Should NEVER Install | Zeeshan Saghir | [Read More](https://medium.com/p/5dcc3d83e73b) |
 | Tue, 17 Feb 2026 05:50:15 GMT | Cookie Tossing : Escalating Low impact XSS into Criticals | TheCzar | [Read More](https://medium.com/p/e29a0a668a74) |
 | Tue, 17 Feb 2026 05:44:19 GMT | I Installed a Chrome Extension Last Tuesday. It Was a Mistake 37 Million People Made. | Muhammad Hassan Ali | [Read More](https://medium.com/p/03bdf654a76e) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Feb 2026 20:07:51 GMT | Why Agentic AI Is the New Malware Surface: Inside the 18K Exposed OpenClaw Instances | Sebastian Buzdugan | [Read More](https://medium.com/p/76883f60ff54) |
 | Mon, 16 Feb 2026 20:06:00 GMT | From OWASP Top 10 for LLMs to CI/CD: Securing AI Systems at Build Time | Alejandro Aucestovar | [Read More](https://medium.com/p/1dce225cb9c0) |
 | Mon, 16 Feb 2026 20:05:24 GMT | Exploiting Organisation Wildcards in OIDC Trust Policies | Sadi Zane | [Read More](https://medium.com/p/a98eda04fb46) |
-| Mon, 16 Feb 2026 20:04:50 GMT | The Ultimate 2026 Web Auth Playbook: A Senior Engineer’s Guide to Authentication & Authorization | kuldeepsharma1 | [Read More](https://medium.com/p/34a8f484aafa) |
-| Mon, 16 Feb 2026 19:53:19 GMT | WiCys: A (Cybersecurity) Girl’s Best Friend | Tarunika Kapoor | [Read More](https://medium.com/p/5dac0d2679de) |
-| Mon, 16 Feb 2026 19:52:28 GMT | Shadow Operators: How Private Security Firms Navigate the Grey Zone of Modern Warfare | Jonas Rios | [Read More](https://medium.com/p/853b18062d3c) |
-| Mon, 16 Feb 2026 19:40:57 GMT | Hacking Android through the Cloud: A Hands-On AWS Reverse Shell Guide. | Elijah Chimera | [Read More](https://medium.com/p/384282c5d4c8) |
-| Mon, 16 Feb 2026 19:39:25 GMT | Breaking and Defending HTTPS on Android: A Hands-On Certificate Pinning Lab | James Cullimore | [Read More](https://medium.com/p/d6191f01cbda) |
-| Mon, 16 Feb 2026 19:38:40 GMT | I Bought Three Used Shipping Containers Before I Learned What Actually Matters | Contractors Corner with David Whitmore | [Read More](https://medium.com/p/0a55276ad4eb) |
-| Mon, 16 Feb 2026 19:34:44 GMT | Notepad’in Evrimi ve CVE-2026–20841 | Fatih Tüzün | [Read More](https://medium.com/p/d2c160714973) |
-| Mon, 16 Feb 2026 19:23:10 GMT | How a Small OSINT Team Turned the Epstein Files Dump Into Actionable Intelligence | Lucas Matheus (1uc4s_m4theus) | [Read More](https://medium.com/p/32b7547a92b9) |
-| Mon, 16 Feb 2026 19:19:28 GMT | SecOps V2 — Control Panel | Techwin Cyber | [Read More](https://medium.com/p/63de5ac50a4c) |
-| Mon, 16 Feb 2026 19:13:15 GMT | Designing a No Subscription Fing Alternative for Field Technicians | Almost Brilliant Ideas | [Read More](https://medium.com/p/5b6c55269984) |
-| Mon, 16 Feb 2026 19:13:09 GMT | The 30-Minute Account Security Reset (2026): Stop Phishing, Takeovers & Payout Hijacks | Tahir | [Read More](https://medium.com/p/bd57ce37b7d7) |
-| Mon, 16 Feb 2026 19:12:01 GMT | The Gap | Anshuman | [Read More](https://medium.com/p/5df9f1c231bb) |
-| Mon, 16 Feb 2026 19:07:12 GMT | My Journey Through the Jr Penetration Tester Learning Path on TryHackMe | Subrat Samantaray | [Read More](https://medium.com/p/f283a6bf6f36) |
-| Mon, 16 Feb 2026 19:07:11 GMT | Analisis Lumma Stealer (Fake CAPTCHA) Menggunakan Cyber Kill Chain Framework | minouse3 | [Read More](https://medium.com/p/e0e88d6cbe46) |
