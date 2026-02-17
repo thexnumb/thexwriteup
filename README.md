@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Feb 2026 04:26:01 GMT | IDOR Vulnerabilities Explained: A Researcher’s Guide to Authorization Flaws | Ud4y | [Read More](https://medium.com/p/82030def0e28) |
+| Tue, 17 Feb 2026 04:26:01 GMT | Day 12 Attack Structure Explained: Execution — When Access Turns Into Action | NineTales | [Read More](https://medium.com/p/700eedd7afd9) |
+| Tue, 17 Feb 2026 04:01:01 GMT | Munich Reckoning: How Trump’s America and a Rearmed Europe Are Redefining the West | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/0a9efe30451f) |
+| Tue, 17 Feb 2026 04:01:01 GMT | Writeup - Love Letter Locker - TryHackMe | Tommy S | [Read More](https://medium.com/p/6ef960e2a7b0) |
+| Tue, 17 Feb 2026 03:55:27 GMT | Evolusi Lumma Stealer: Membedah Taktik “ClickFix” dan Anatomi Serangan Melalui Cyber Kill Chain | Panser Biru | [Read More](https://medium.com/p/3df7cbdf6ae3) |
+| Tue, 17 Feb 2026 03:53:47 GMT | Bridging the Gap: What It Would Actually Take to Bring PC Modding to Console | Midlife Gamer | [Read More](https://medium.com/p/c0844ba2f3db) |
+| Tue, 17 Feb 2026 03:46:10 GMT | Day 1: Installing Kali Linux as a Beginner in Cybersecurity | Chizitelu MacDonald Ilondu | [Read More](https://medium.com/p/35580ea82fff) |
+| Tue, 17 Feb 2026 03:41:59 GMT | ISO 27001:2022 — An Introductory Guide to Information Security | Jenny | [Read More](https://medium.com/p/e423532903c4) |
+| Tue, 17 Feb 2026 03:40:32 GMT | The 2025 Cloud Security Reality Check: Critical Insights Every Leader Needs | Lakshan Weerasingha | [Read More](https://medium.com/p/bd05eccaf6ee) |
+| Tue, 17 Feb 2026 03:29:49 GMT | Laporan Praktikum Basis Data : Installasi XAMPP | Cahyoadi | [Read More](https://medium.com/p/7f167c38b4ed) |
+| Tue, 17 Feb 2026 03:26:00 GMT | Business Email Compromise: The $2.7 Billion Scam You’ve Probably Never Heard Of | Sharon Martin | [Read More](https://medium.com/p/2f8533aa8f28) |
+| Tue, 17 Feb 2026 03:22:39 GMT | 100 Top Ethical Hacking Tools in Cybersecurity | Er Raj Aryan | [Read More](https://medium.com/p/2cde572820e2) |
+| Tue, 17 Feb 2026 03:15:13 GMT | Analisis Cybercrime Toolkit Infostealer | Nolaand | [Read More](https://medium.com/p/537ff4f5a7ea) |
+| Tue, 17 Feb 2026 02:48:00 GMT | Forgotten Ruins -OSINT | Aser Ahmed | [Read More](https://medium.com/p/244fefb9e07d) |
+| Tue, 17 Feb 2026 02:42:37 GMT | Beyond the Cloud Ceiling: Edge AI and the Future of Affordable Business Intelligence | Anshul Yadav | [Read More](https://medium.com/p/1c64102c68ee) |
+| Tue, 17 Feb 2026 02:32:25 GMT | The Message Broker That Spoke Too Freely | Isaac Adebayo | [Read More](https://medium.com/p/17ab09e970c5) |
+| Tue, 17 Feb 2026 02:24:25 GMT | Tuesday Morning Threat Report: Feb 17, 2026 | Mark Maguire | [Read More](https://medium.com/p/bcf37c5eeea3) |
 | Tue, 17 Feb 2026 02:00:26 GMT | INE-Assessment Methodologies: Vulnerability Assessment CTF 1 | Singkhon K | [Read More](https://medium.com/p/5ebcda607d09) |
 | Tue, 17 Feb 2026 01:58:26 GMT | How Hackers Attack AI Models: The New Battlefield in Cybersecurity | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/abddf5a48dd9) |
 | Tue, 17 Feb 2026 01:54:29 GMT | The Message Broker That Spoke Too Freely | Isaac Adebayo | [Read More](https://medium.com/p/f3863d10064f) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Feb 2026 17:48:28 GMT | Why I Started Learning Ethical Hacking? | Priyesh Patware | [Read More](https://medium.com/p/aff2bef412f2) |
 | Mon, 16 Feb 2026 17:38:00 GMT | Hidden Deep Into My Heart — TryHackMe Walkthrough | Latha | [Read More](https://medium.com/p/966c1632c182) |
 | Mon, 16 Feb 2026 17:35:48 GMT | Code or Concrete: Why Your Front Door is a Cybersecurity Lesson | Stephen Bernard Agwai | [Read More](https://medium.com/p/232d1feed76a) |
-| Mon, 16 Feb 2026 17:34:20 GMT | Fake Online Shops Are Booming: How Threat Actors Are Targeting Shoppers and Businesses | Chetan Seripally | [Read More](https://medium.com/p/79138eb2909e) |
-| Mon, 16 Feb 2026 17:30:14 GMT | 2026 Siber Saldırıları: Milano-Cortina Kış Olimpiyatları Siber Saldırısı | Berat Can Satir | [Read More](https://medium.com/p/f83670ce82f8) |
-| Mon, 16 Feb 2026 17:29:52 GMT | CSP BypassVulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/6237ee2f2f66) |
-| Mon, 16 Feb 2026 17:29:41 GMT | Cloud SOC vs On-Premise SOC: Which Security Operations Center Fits Your Organization? | Ilyess Sellami | [Read More](https://medium.com/p/5d2fa5a71244) |
-| Mon, 16 Feb 2026 17:27:27 GMT | Context Corrosion: A GPT Companion Note With the TGP Anchor | Madhusudan Gopanna | [Read More](https://medium.com/p/337622186734) |
-| Mon, 16 Feb 2026 17:21:18 GMT | THE DECISION LEDGER DOCTRINE FOR HUMAN AI COGNITIVE SYSTEMS | Matthew Wood | [Read More](https://medium.com/p/2762998a09ff) |
-| Mon, 16 Feb 2026 17:17:28 GMT | Email Spoofing Security: DMARC | Duncan Hurwood | [Read More](https://medium.com/p/154564818526) |
-| Mon, 16 Feb 2026 17:15:32 GMT | The AuthBite Blog #1 | Anish Nayak | [Read More](https://medium.com/p/7f00ffd0e930) |
-| Mon, 16 Feb 2026 17:12:36 GMT | Why Firewalls No Longer Protect the Enterprise and How Rainbow Secure Redefines the Boundary of… | Dr. Shashi Karhail | [Read More](https://medium.com/p/a5c4c07bf830) |
-| Mon, 16 Feb 2026 17:01:00 GMT | Hidden Deep Into my Heart writeup (TryHackMe) | 7s26Simon | [Read More](https://medium.com/p/03a701e4ab6b) |
-| Mon, 16 Feb 2026 17:00:38 GMT | Bagaimana Lumma Stealer Mencuri Data? Analisis Menggunakan Cyber Kill Chain | Shafa Khairanisa | [Read More](https://medium.com/p/1638be7b70e1) |
-| Mon, 16 Feb 2026 16:59:47 GMT | Unauthenticated Image Access and EXIF Location Leak, Easy P4, you can find under 2 mins | Devansh Patel | [Read More](https://medium.com/p/88e5a9064a91) |
-| Mon, 16 Feb 2026 16:54:23 GMT | Ihe Mere Ịtụkwasị Obi na Exchange Kwadoro Dị Ka Bitunix Ji Dị Mkpa | Mr Alex Yung® | [Read More](https://medium.com/p/0081637cf90f) |
-| Mon, 16 Feb 2026 16:49:18 GMT | Small Business Network Security 2026: The Right Firewall Setup for Offices up to 20 Employees | Cordula Boeck | [Read More](https://medium.com/p/149f006faec5) |
-| Mon, 16 Feb 2026 16:48:15 GMT | I Installed Kali, Now What? A Beginner's Survival Guide. | Samuel | [Read More](https://medium.com/p/0d4c0ff0276c) |
-| Mon, 16 Feb 2026 16:47:12 GMT | Finding a Heap Buffer Over-Read in ascii-view (CWE-125) | CyberDucky | [Read More](https://medium.com/p/e7c9006e68f7) |
-| Mon, 16 Feb 2026 16:35:35 GMT | Keys Keys Keys | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/e993981d4d22) |
