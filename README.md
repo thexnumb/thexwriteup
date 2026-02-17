@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Feb 2026 22:11:33 GMT | CyberDefenders: 3CX Supply Chain Lab Walkthrough | Omar Sherif | [Read More](https://medium.com/p/8c43e8bfd946) |
+| Tue, 17 Feb 2026 22:11:00 GMT | The Privacy-First Manifesto: Why Your Intelligence Data Should Never Leave Your Browser with TDC OS | Tugui Dragos-Constantin | [Read More](https://medium.com/p/5622e67d17aa) |
+| Tue, 17 Feb 2026 22:09:24 GMT | Why AI Agentic Red Teaming Is the Security Development Practice Every Enterprise Can No Longer… | Valdez Ladd | [Read More](https://medium.com/p/cb87d973e221) |
+| Tue, 17 Feb 2026 22:01:00 GMT | Unfiltered Restart — Day 6: In the Cloud | Maximillian Rueda | [Read More](https://medium.com/p/5bdba4fb1b26) |
+| Tue, 17 Feb 2026 22:00:24 GMT | Why Detective Stories Make SQL Click: The Case for Narrative-Based Database Education | anne nomynous | [Read More](https://medium.com/p/26c25c26f1a5) |
+| Tue, 17 Feb 2026 21:55:14 GMT | Bukele’s Gambit: | Miles Fisher | [Read More](https://medium.com/p/c7529ab81c60) |
+| Tue, 17 Feb 2026 21:52:11 GMT | Linux CLI Commands — aarononit.blogspot.com | Aaron DeJong | [Read More](https://medium.com/p/e499e8a98683) |
+| Tue, 17 Feb 2026 21:48:42 GMT | Practical Key Recovery via FMS: Attacking RC4 with Chosen IVs | Omarmoamen | [Read More](https://medium.com/p/470ed83512e4) |
+| Tue, 17 Feb 2026 21:43:22 GMT | Digispark ile Kayıtlı Wi-Fi Şifrelerini Çekmek ve FTP’ye Aktarmak — Rubber Ducky | Ahmet KARABAY | [Read More](https://medium.com/p/dc80ed08aae7) |
+| Tue, 17 Feb 2026 21:42:11 GMT | Mandatory Signals: Switzerland’s Cyber Reporting Regime and the Case for a Global Model | CCD-IS | [Read More](https://medium.com/p/aee7c3bfe956) |
 | Tue, 17 Feb 2026 21:34:52 GMT | Your 10 Vulnerabilities When You Install OpenClaw | Volodymyr Golosay | [Read More](https://medium.com/p/cc99a7c9eea0) |
 | Tue, 17 Feb 2026 21:32:52 GMT | Security Roadmaps That Look Good But Don’t Stop Attacks | JSOC IT BLOG | [Read More](https://medium.com/p/7313c3a0b894) |
 | Tue, 17 Feb 2026 21:29:03 GMT | We built SecPortal to eliminate the biggest bottleneck in security operations | Mert Satilmaz | [Read More](https://medium.com/p/24535e46e928) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Feb 2026 16:23:54 GMT | Membongkar Modus Fake CAPTCHA: Analisis Serangan Lumma Stealer dengan Cyber Kill Chain | Nazwass | [Read More](https://medium.com/p/9c68e5151a16) |
 | Tue, 17 Feb 2026 16:17:46 GMT | Compliance Is Not Assurance | Peter Hillier/Halton | [Read More](https://medium.com/p/dd51eaee2b19) |
 | Tue, 17 Feb 2026 16:11:54 GMT | Anatomy of a Silent Thief: Dissecting Lumma Stealer using Cyber Kill Chain | Qurrotul A'ini | [Read More](https://medium.com/p/e2c3c52be0bf) |
-| Tue, 17 Feb 2026 16:05:57 GMT | Do we need the TSA anymore? | Christopher Elliott | [Read More](https://medium.com/p/ea7190f7dc4d) |
-| Tue, 17 Feb 2026 16:04:16 GMT | The Death of Trust: Why Your Most Vulnerable API is Your Identity | Ademola Isimeme "AI" Odewade | [Read More](https://medium.com/p/53c2f7bd7a5e) |
-| Tue, 17 Feb 2026 16:00:18 GMT | Kenobi - THM | Ali M Abdo | [Read More](https://medium.com/p/216ecc71905d) |
-| Tue, 17 Feb 2026 15:58:33 GMT | Executor Workflows Made Practical: Step-by-Step Instructions and Controlled Access with InheritSafe | InheritSafe | [Read More](https://medium.com/p/beb7720c9bad) |
-| Tue, 17 Feb 2026 15:57:45 GMT | The Silent Intruder: Why No One is Safe from Call Tapping (And What You Must Do Now) | Suleiman Musa Abdullahi | [Read More](https://medium.com/p/76490a5c58c8) |
-| Tue, 17 Feb 2026 15:57:06 GMT | Introduction to Digital Forensics: Basic Linux Commands | Dixtroiza | [Read More](https://medium.com/p/fe95953eeec1) |
-| Tue, 17 Feb 2026 15:53:36 GMT | What is Red Teaming? | Cynox Security LLP. | [Read More](https://medium.com/p/be91ef21c5ff) |
-| Tue, 17 Feb 2026 15:50:16 GMT | Digital Workplace Security Considerations: Protecting Your Organization in the Modern Era | Fospertise | [Read More](https://medium.com/p/1f03afc79023) |
-| Tue, 17 Feb 2026 15:48:49 GMT | I Spent Most of My Life Trying to Deserve Love | Kompunt Jindawat | [Read More](https://medium.com/p/18580a8f2cc4) |
-| Tue, 17 Feb 2026 15:48:24 GMT | Why Compromising on Cyber Security may cost you your business | Avadh Security | [Read More](https://medium.com/p/93d1e67875d1) |
