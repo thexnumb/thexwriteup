@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Feb 2026 23:14:58 GMT | My Current Stint as a SOC Analyst | Clay Jones | [Read More](https://medium.com/p/1d6f90e74f74) |
+| Tue, 17 Feb 2026 23:07:15 GMT | Why I Just Wrote a Book on Agentic AI for Cybersecurity | Omar Santos | [Read More](https://medium.com/p/d070506b85c0) |
+| Tue, 17 Feb 2026 23:04:49 GMT | Malware Analysis Yolculuğumdan Geçmişten Bugüne Notlar | Hakan ÇEVİK | [Read More](https://medium.com/p/c34bbd2333c9) |
+| Tue, 17 Feb 2026 23:01:02 GMT | The Air-Gapped Chronicles: The Passport Stack | Piyoosh Rai | [Read More](https://medium.com/p/9a7f170ade9a) |
+| Tue, 17 Feb 2026 22:58:20 GMT | RPC Proxy Injection Part II: Breaking Elastic EDR Telemetry | S12 - 0x12Dark Development | [Read More](https://medium.com/p/7eac298508c2) |
+| Tue, 17 Feb 2026 22:53:53 GMT | How to Debug and Patch an Executable — Snyk CTF 2026 Writeup | Mahmoud Matar | [Read More](https://medium.com/p/d46cdc191d6a) |
+| Tue, 17 Feb 2026 22:50:55 GMT | Beyond the Hype of OpenClaw: A Threat Model for OpenClaw (using MAESTRO) | Omar Santos | [Read More](https://medium.com/p/b95ca422bff8) |
+| Tue, 17 Feb 2026 22:38:07 GMT | CTF Walkthroughs | Kyle | [Read More](https://medium.com/p/514a5c451001) |
+| Tue, 17 Feb 2026 22:37:30 GMT | Hacking Reality: Why Data Science Is the Blue Team’s Ultimate Exploit | Stephen Shaffer | [Read More](https://medium.com/p/236414d86ea8) |
+| Tue, 17 Feb 2026 22:36:36 GMT | REvil — GOLD SOUTHFIELD Lab(Walkthrough) | Pravat Dash | [Read More](https://medium.com/p/90db3e9d08dc) |
 | Tue, 17 Feb 2026 22:11:33 GMT | CyberDefenders: 3CX Supply Chain Lab Walkthrough | Omar Sherif | [Read More](https://medium.com/p/8c43e8bfd946) |
 | Tue, 17 Feb 2026 22:11:00 GMT | The Privacy-First Manifesto: Why Your Intelligence Data Should Never Leave Your Browser with TDC OS | Tugui Dragos-Constantin | [Read More](https://medium.com/p/5622e67d17aa) |
 | Tue, 17 Feb 2026 22:09:24 GMT | Why AI Agentic Red Teaming Is the Security Development Practice Every Enterprise Can No Longer… | Valdez Ladd | [Read More](https://medium.com/p/cb87d973e221) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Feb 2026 17:20:07 GMT | ntrecon — Your Recon Buddy | João Teodoro | [Read More](https://medium.com/p/95cc389b2a46) |
 | Tue, 17 Feb 2026 17:12:12 GMT | Cross-Site Scripting (XSS) — Part 2: Stored, DOM-Based, and Blind XSS | mayhack | [Read More](https://medium.com/p/ee96e59e01b5) |
 | Tue, 17 Feb 2026 17:04:23 GMT | The Silent AI War Has Already Begun | Pannag Kumaar | [Read More](https://medium.com/p/87efe2bfd6e2) |
-| Tue, 17 Feb 2026 16:58:50 GMT | Why Istio? From “Never Needed It” to “Can’t Live Without It” | Faheem Khan | [Read More](https://medium.com/p/360407ba7461) |
-| Tue, 17 Feb 2026 16:57:47 GMT | The OpenClaw Hangover: Why Your AI Agent Isn’t Actually You | Jaz Lin | [Read More](https://medium.com/p/37537f4696e1) |
-| Tue, 17 Feb 2026 16:50:01 GMT | Programming & Technology | Jebeltectical | [Read More](https://medium.com/p/1c23b89a0be0) |
-| Tue, 17 Feb 2026 16:47:32 GMT | Title: How I Found a Clickjacking Vulnerability — A Beginner Friendly Real-World Walkthrough | Muzamil Hussain | [Read More](https://medium.com/p/900233355ba7) |
-| Tue, 17 Feb 2026 16:41:44 GMT | Data Guard: Protecting Your Oracle Databases. | Yomi Folowosele | [Read More](https://medium.com/p/162f1c795a48) |
-| Tue, 17 Feb 2026 16:36:00 GMT | The Great Reset: 5 Surprising Realities of AI’s Impact on Cybersecurity in 2025 | Ehulse | [Read More](https://medium.com/p/6344b5e3324a) |
-| Tue, 17 Feb 2026 16:26:21 GMT | Ardamax Keylogger — Static Analysis | Mohamed Niyas | [Read More](https://medium.com/p/299f8a145409) |
-| Tue, 17 Feb 2026 16:23:54 GMT | Membongkar Modus Fake CAPTCHA: Analisis Serangan Lumma Stealer dengan Cyber Kill Chain | Nazwass | [Read More](https://medium.com/p/9c68e5151a16) |
-| Tue, 17 Feb 2026 16:17:46 GMT | Compliance Is Not Assurance | Peter Hillier/Halton | [Read More](https://medium.com/p/dd51eaee2b19) |
-| Tue, 17 Feb 2026 16:11:54 GMT | Anatomy of a Silent Thief: Dissecting Lumma Stealer using Cyber Kill Chain | Qurrotul A'ini | [Read More](https://medium.com/p/e2c3c52be0bf) |
