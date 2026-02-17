@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Feb 2026 20:37:41 GMT | Stop Painting Over Rust: Why “Secure by Design” is the Only Way Forward | Yusif Alizade | [Read More](https://medium.com/p/9a1bf3a14969) |
+| Tue, 17 Feb 2026 20:35:29 GMT | OpenClaw Is Not a Chatbot. It Is a Prototype of the Next Operating System | Faisal Feroz | [Read More](https://medium.com/p/3332b88a0ab4) |
+| Tue, 17 Feb 2026 20:34:44 GMT | The “God Mode” Problem: Why Least Privilege is Your Best Defense | Yusif Alizade | [Read More](https://medium.com/p/4f6bfa2bc0d3) |
+| Tue, 17 Feb 2026 20:29:12 GMT | Investigating SSH Authentication Logs with Splunk: A Step-by-Step Security Analysis | Famous Areguamen | [Read More](https://medium.com/p/7360d3967cb2) |
+| Tue, 17 Feb 2026 20:24:51 GMT | Next-Gen OSINT: Hunting for Leaks in AI Chat Histories | Alirezayousefzadeh | [Read More](https://medium.com/p/87e32f94bc99) |
+| Tue, 17 Feb 2026 20:24:00 GMT | Meta et géants tech bannissent OpenClaw : inquiétudes cybersécurité | L'ABESTIT | [Read More](https://medium.com/p/169e75aa5375) |
+| Tue, 17 Feb 2026 20:22:06 GMT | Your AI Agent Has a Backdoor — Here’s How I Found It | Leone Lage Perdigão | [Read More](https://medium.com/p/1ad50124cacf) |
+| Tue, 17 Feb 2026 20:12:17 GMT | DefenceNet: Building a Safer Digital Future -One Click at a Time | Vivek | [Read More](https://medium.com/p/adb0c5fbc920) |
+| Tue, 17 Feb 2026 20:09:48 GMT | Your Cloud Storage Is a Window Into Your Life — Here’s How to Close It | BogartusMaximus | [Read More](https://medium.com/p/fef260563c6a) |
+| Tue, 17 Feb 2026 20:08:08 GMT | dawn Walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/b289877c8c10) |
+| Tue, 17 Feb 2026 19:59:42 GMT | How I Built an SOC Home Lab in Microsoft AZURE, using Sentinel to monitor Real Logs | Titilope_xo | [Read More](https://medium.com/p/931b33f16a68) |
+| Tue, 17 Feb 2026 19:55:44 GMT | The Harvester: The Ultimate OSINT Tool for Cybersecurity Reconnaissance and Red Team Operations | CyberSources | [Read More](https://medium.com/p/6201606d64b7) |
+| Tue, 17 Feb 2026 19:52:03 GMT | AI as a Double-Edged Sword: How It’s Redefining Cybersecurity in 2026 | Mohiuddinmahady | [Read More](https://medium.com/p/eccd9df59e88) |
 | Tue, 17 Feb 2026 19:33:49 GMT | Least Privilege | Machie | [Read More](https://medium.com/p/11d17826c98b) |
 | Tue, 17 Feb 2026 19:25:05 GMT | The Dark Side of Free VPN Apps | VPNHouse | [Read More](https://medium.com/p/96c6ef788c36) |
 | Tue, 17 Feb 2026 19:24:56 GMT | Keycloak Organizations vs. Realms: Two Tools, Two Completely Different Jobs | Florian Röser | [Read More](https://medium.com/p/a022f8e1592e) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Feb 2026 15:14:52 GMT | I killed a mother centipede today. | Teya. | [Read More](https://medium.com/p/996303b3871f) |
 | Tue, 17 Feb 2026 15:12:37 GMT | Introduction to Digital Forensics — Lab 01 | Annisa Eka Putri | [Read More](https://medium.com/p/4ec80569c0c2) |
 | Tue, 17 Feb 2026 15:10:58 GMT | Introduction to Digital Forensics — Lab 01 | Yrddry | [Read More](https://medium.com/p/b637db54eec2) |
-| Tue, 17 Feb 2026 15:09:25 GMT | Why You Might Need a Digital Alter Ego | Andrew Keitany | [Read More](https://medium.com/p/46db4775abbe) |
-| Tue, 17 Feb 2026 15:06:50 GMT | How Security Camera Systems Work in Daily Life | AlexBryn | [Read More](https://medium.com/p/906d7d72e3b4) |
-| Tue, 17 Feb 2026 15:04:18 GMT | How Can Kubernetes Workloads Securely Access AWS? | VenuMadhav Palugula - VenKube | [Read More](https://medium.com/p/22a0aeba0b4e) |
-| Tue, 17 Feb 2026 15:01:01 GMT | Cyber Briefing: 2026.02.17 | CyberMaterial | [Read More](https://medium.com/p/19195fce3593) |
-| Tue, 17 Feb 2026 14:59:35 GMT | Security Architecture of Modern Crypto Wallets | Arun Kumar Balusamy | [Read More](https://medium.com/p/b0449201df83) |
-| Tue, 17 Feb 2026 14:59:30 GMT | How I passed the eJPT exam as a beginner | Srihari N Narayan | [Read More](https://medium.com/p/0d5b188db1dc) |
-| Tue, 17 Feb 2026 14:56:35 GMT | Dari Fake CAPTCHA ke Pencurian Data: Analisis Serangan Lumma Stealer dengan Cyber Kill Chain | enhasploit | [Read More](https://medium.com/p/79b7f8240060) |
-| Tue, 17 Feb 2026 14:54:56 GMT | How I Jailbreak AI Models Using Nothing But Conversation: A Case Study in Why Safety Theater is… | ChiggyChiggy | [Read More](https://medium.com/p/af6f9f1bb8df) |
-| Tue, 17 Feb 2026 14:50:34 GMT | I feel that vulnerability is the most misunderstood and mistreated emotion. | Rudrakshi Pradhan | [Read More](https://medium.com/p/78772f9bf7b9) |
-| Tue, 17 Feb 2026 14:49:20 GMT | The Silent Revenue Killer in Your Product: Why Weak Testing Is Costing You Growth (and How QA Fixes… | Arpit choubey | [Read More](https://medium.com/p/92f34ba2a6ce) |
-| Tue, 17 Feb 2026 14:47:41 GMT | The Most Secure Way to Store Crypto Seed Phrases for Inheritance Without Risking Exposure | Olivia Martillo | [Read More](https://medium.com/p/d62ab8f07b58) |
-| Tue, 17 Feb 2026 14:41:48 GMT | Lumma Stealer & Fake CAPTCHA | L0udbaa | [Read More](https://medium.com/p/ac23405efd7f) |
-| Tue, 17 Feb 2026 14:37:47 GMT | How we reduced a WooCommerce site load time from 7.2s | Rajeev Sharma | [Read More](https://medium.com/p/7fb942b6a940) |
