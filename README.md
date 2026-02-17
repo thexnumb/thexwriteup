@@ -12,6 +12,32 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Feb 2026 17:49:12 GMT | AI Agent: EthoGPT Red-Teaming AI Just Got A Smart Strategic Upgrade | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/54f046871f99) |
+| Tue, 17 Feb 2026 17:48:49 GMT | Refund Without Ownership Verification: A Hidden Business Logic Risk | Elia carlos | [Read More](https://medium.com/p/b16f7cb2a1a4) |
+| Tue, 17 Feb 2026 17:48:49 GMT | IT Certifications That Actually Matter | CodeZen | [Read More](https://medium.com/p/6f1a6568a3c2) |
+| Tue, 17 Feb 2026 17:48:12 GMT | [Part-III] How I Built an Automated Leak Monitoring Pipeline with n8n, APIs, & Gmail Alerts | 5hr33.j11 | [Read More](https://medium.com/p/d1ae1eda6599) |
+| Tue, 17 Feb 2026 17:46:04 GMT | SpookyPass Reversing Challenge — Understanding Hardcoded Secrets in Binaries | Anandhu Kannan | [Read More](https://medium.com/p/4d1ea4306be3) |
+| Tue, 17 Feb 2026 17:45:26 GMT | What is symmetric key | Kevin Ronex | [Read More](https://medium.com/p/84f626ab6246) |
+| Tue, 17 Feb 2026 17:43:40 GMT | We Downgraded Our Architecture — And Finally Shipped Faster | Story Crafter | [Read More](https://medium.com/p/3f022afcb4f8) |
+| Tue, 17 Feb 2026 17:43:07 GMT | The Cloud Hopper Break | Marvion Criddle | [Read More](https://medium.com/p/1f6bba53ccf8) |
+| Tue, 17 Feb 2026 17:41:56 GMT | Luminar Network: The Unified AI Layer for Visual Intelligence | LuminarNetwork | [Read More](https://medium.com/p/52d76950cc2e) |
+| Tue, 17 Feb 2026 17:41:30 GMT | Network Traffic Analysis & Detection Project | Srinija Puvvula | [Read More](https://medium.com/p/ac4ee41258f0) |
+| Tue, 17 Feb 2026 17:40:34 GMT | Installing & Configuring NXLog Agents: A Complete Guide to Service Setup | Amit Ambekar | [Read More](https://medium.com/p/ee7ae3820cc2) |
+| Tue, 17 Feb 2026 17:34:15 GMT | Simple CTF Walkthrough (TryHackMe) | Mrittika Debnath | [Read More](https://medium.com/p/bbac84c9d142) |
+| Tue, 17 Feb 2026 17:31:45 GMT | Security by Design Principle 7: Why Zero Trust Must Continue After Login and How Rainbow Secure… | Dr. Shashi Karhail | [Read More](https://medium.com/p/713340c8a2b7) |
+| Tue, 17 Feb 2026 17:31:30 GMT | THM — Hidden Deep In My Heart | Dfaults | [Read More](https://medium.com/p/e33607e7fc16) |
+| Tue, 17 Feb 2026 17:25:13 GMT | Understanding OpenID Connect (OIDC) Security: Best Practices & Threats | Kaizen Chandra | [Read More](https://medium.com/p/78037a9f4524) |
+| Tue, 17 Feb 2026 17:24:09 GMT | I Built a Hacking Lab That Fits in a Suitcase | M. | [Read More](https://medium.com/p/55db8a635cc4) |
+| Tue, 17 Feb 2026 17:20:07 GMT | ntrecon — Your Recon Buddy | João Teodoro | [Read More](https://medium.com/p/95cc389b2a46) |
+| Tue, 17 Feb 2026 17:12:12 GMT | Cross-Site Scripting (XSS) — Part 2: Stored, DOM-Based, and Blind XSS | mayhack | [Read More](https://medium.com/p/ee96e59e01b5) |
+| Tue, 17 Feb 2026 17:04:23 GMT | The Silent AI War Has Already Begun | Pannag Kumaar | [Read More](https://medium.com/p/87efe2bfd6e2) |
+| Tue, 17 Feb 2026 16:58:50 GMT | Why Istio? From “Never Needed It” to “Can’t Live Without It” | Faheem Khan | [Read More](https://medium.com/p/360407ba7461) |
+| Tue, 17 Feb 2026 16:57:47 GMT | The OpenClaw Hangover: Why Your AI Agent Isn’t Actually You | Jaz Lin | [Read More](https://medium.com/p/37537f4696e1) |
+| Tue, 17 Feb 2026 16:50:01 GMT | Programming & Technology | Jebeltectical | [Read More](https://medium.com/p/1c23b89a0be0) |
+| Tue, 17 Feb 2026 16:47:32 GMT | Title: How I Found a Clickjacking Vulnerability — A Beginner Friendly Real-World Walkthrough | Muzamil Hussain | [Read More](https://medium.com/p/900233355ba7) |
+| Tue, 17 Feb 2026 16:41:44 GMT | Data Guard: Protecting Your Oracle Databases. | Yomi Folowosele | [Read More](https://medium.com/p/162f1c795a48) |
+| Tue, 17 Feb 2026 16:36:00 GMT | The Great Reset: 5 Surprising Realities of AI’s Impact on Cybersecurity in 2025 | Ehulse | [Read More](https://medium.com/p/6344b5e3324a) |
+| Tue, 17 Feb 2026 16:26:21 GMT | Ardamax Keylogger — Static Analysis | Mohamed Niyas | [Read More](https://medium.com/p/299f8a145409) |
 | Tue, 17 Feb 2026 16:23:54 GMT | Membongkar Modus Fake CAPTCHA: Analisis Serangan Lumma Stealer dengan Cyber Kill Chain | Nazwass | [Read More](https://medium.com/p/9c68e5151a16) |
 | Tue, 17 Feb 2026 16:17:46 GMT | Compliance Is Not Assurance | Peter Hillier/Halton | [Read More](https://medium.com/p/dd51eaee2b19) |
 | Tue, 17 Feb 2026 16:11:54 GMT | Anatomy of a Silent Thief: Dissecting Lumma Stealer using Cyber Kill Chain | Qurrotul A'ini | [Read More](https://medium.com/p/e2c3c52be0bf) |
@@ -86,30 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Feb 2026 13:00:18 GMT | Perkenalkan, nama saya Lovind Luthfan Hakeem Firdaus. | Lovindfirdaus | [Read More](https://medium.com/p/9820ac6eb97b) |
 | Tue, 17 Feb 2026 12:59:51 GMT | 7 Common AI Risk Assessment Mistakes Enterprises Make | Shiva Remala | [Read More](https://medium.com/p/eb08173691d2) |
 | Tue, 17 Feb 2026 12:57:14 GMT | Lazer Noturno em 2026: O Que Escolhem os Millennials e a Geração Z? | Dasza - Gamerka i blogerka | [Read More](https://medium.com/p/7223c8732687) |
-| Tue, 17 Feb 2026 12:56:51 GMT | Understanding Access Control: A Guide for Developers | p1k4chu | [Read More](https://medium.com/p/be06947c334a) |
-| Tue, 17 Feb 2026 12:54:17 GMT | Deploy Your Own WireGuard VPN Server: A Step-by-Step Security Guide | Emilyharbord | [Read More](https://medium.com/p/480ac083e5ce) |
-| Tue, 17 Feb 2026 12:53:42 GMT | So Who Are Hackers Mostly and What Are Their Motivations? | David SEHYEON Baek | [Read More](https://medium.com/p/6ac3550e2a2e) |
-| Tue, 17 Feb 2026 12:50:28 GMT | The Complete Guide to Management: From Fundamentals to IT Excellence | Chaimaa Bahjaji | [Read More](https://medium.com/p/2373c47f71ec) |
-| Tue, 17 Feb 2026 12:47:05 GMT | One of the most dangerous and well-known vulnerabilities in the world of cybersecurity is:
- SQL… | Issa | [Read More](https://medium.com/p/cbddb37cd32a) |
-| Tue, 17 Feb 2026 12:47:05 GMT | CONCEPT OF VIRTUALIZATION | Chandradipsaha | [Read More](https://medium.com/p/ac671e0bd926) |
-| Tue, 17 Feb 2026 12:45:09 GMT | Galaxy Dash (XSS) (Medium) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/dc1a104fab9c) |
-| Tue, 17 Feb 2026 12:42:03 GMT | How Kerala’s High Digital Literacy Is Both a Strength and a Cybersecurity Risk | Kiran | [Read More](https://medium.com/p/1e4e4460f1fb) |
-| Tue, 17 Feb 2026 12:35:56 GMT | Light (TryHackMe) — Breaking a Filtered SQLite Login with Structured SQL Injection | Roshan Rajbanshi | [Read More](https://medium.com/p/3334af82503a) |
-| Tue, 17 Feb 2026 12:31:01 GMT | React Can’t Save You: How SSR Bypasses Your XSS Filters | Vamsi Krishna Kodimela | [Read More](https://medium.com/p/7e20637d88cc) |
-| Tue, 17 Feb 2026 12:26:32 GMT | Biometric Survey Services: The Future of Secure Identity Verification | Technolandsurvey | [Read More](https://medium.com/p/83ac051bf2da) |
-| Tue, 17 Feb 2026 12:16:37 GMT | The Hidden Failure of Automation-When Ownership is Missing | Gautam kumar | [Read More](https://medium.com/p/aaa70bc674de) |
-| Tue, 17 Feb 2026 12:16:09 GMT | The Hidden Failure of Automation-When Ownership is Missing | Gautamkumar | [Read More](https://medium.com/p/f0eedd03b209) |
-| Tue, 17 Feb 2026 12:12:02 GMT | Live Webinar: 2026 Cyber Resilience Predictions: Recovery Is The New Target | NAKIVO | [Read More](https://medium.com/p/b4714e143f8a) |
-| Tue, 17 Feb 2026 11:54:15 GMT | Palo Alto Just Admitted What we’ve Known for a Decade: Nobody Can Run Security Alone | Thomas Patterson | [Read More](https://medium.com/p/6cb0c5bf8a6e) |
-| Tue, 17 Feb 2026 11:49:01 GMT | How Does IT Support Improve Business Efficiency? | Rx Technology | [Read More](https://medium.com/p/9b6a457d4a74) |
-| Tue, 17 Feb 2026 11:48:39 GMT | Building Sofia AI: A Security-First Multimodal Assistant with Google Gemini & Flask | Ajay kumar | [Read More](https://medium.com/p/01b42f0ef4b0) |
-| Tue, 17 Feb 2026 11:48:03 GMT | Learning Fortinet Firewall — LESSON 2: Internet Access (Basic Config) | Rouell Mamaril | [Read More](https://medium.com/p/aa67b3dafaf5) |
-| Tue, 17 Feb 2026 11:39:02 GMT | Installing Suricata IDS/IPS on Kali Linux and Integrating It with Wazuh - Home Lab | DeshmukhVinit | [Read More](https://medium.com/p/e4e8756f74c3) |
-| Tue, 17 Feb 2026 11:38:55 GMT | Africa and the Global AI Race: Are We Ready? | Rose Kawila | [Read More](https://medium.com/p/6f1d1bdc5d08) |
-| Tue, 17 Feb 2026 11:36:54 GMT | Why GDPR and DPDPA Are Now Core to Business Strategy? | A Smith | [Read More](https://medium.com/p/9314844b11d8) |
-| Tue, 17 Feb 2026 11:34:17 GMT | A Proposal to Apple Part 4 — The Resolution: 3 Architectural Fixes to Close the Passcode and VCAM… | Ryu360 | [Read More](https://medium.com/p/c782ad1aa805) |
-| Tue, 17 Feb 2026 11:33:08 GMT | How Professional Cyber Security Services Protect Businesses from Modern Threats | logging security | [Read More](https://medium.com/p/bb60e1a25211) |
-| Tue, 17 Feb 2026 11:31:01 GMT | Tool Evals Passed. Here’s How It Can Still Be Unsafe. | Velorum | [Read More](https://medium.com/p/54649f6547f1) |
-| Tue, 17 Feb 2026 11:31:00 GMT | Next-Gen Cybersecurity in an AI World: How Intelligent Systems are Defeating Modern Cyber Threats | Kastab Garai | [Read More](https://medium.com/p/b6af4953efa8) |
-| Tue, 17 Feb 2026 11:21:00 GMT | Two-Factor Authentication on WordPress — Why and How | Anthony Chaffey | [Read More](https://medium.com/p/5aa296ab7dc8) |
