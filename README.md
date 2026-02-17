@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Feb 2026 02:00:26 GMT | INE-Assessment Methodologies: Vulnerability Assessment CTF 1 | Singkhon K | [Read More](https://medium.com/p/5ebcda607d09) |
+| Tue, 17 Feb 2026 01:58:26 GMT | How Hackers Attack AI Models: The New Battlefield in Cybersecurity | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/abddf5a48dd9) |
+| Tue, 17 Feb 2026 01:54:29 GMT | The Message Broker That Spoke Too Freely | Isaac Adebayo | [Read More](https://medium.com/p/f3863d10064f) |
+| Tue, 17 Feb 2026 01:41:08 GMT | Model Poisoning Attacks Explained: How Hackers Corrupt AI From the Inside | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/002a48ce1c4f) |
+| Tue, 17 Feb 2026 01:31:50 GMT | When AI Companies Say “Trust Us,” Who Verifies? | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/e4b148f4cfb6) |
+| Tue, 17 Feb 2026 01:21:33 GMT | TryHackMe, The Game solved in less than 2 minutes | Vick Kumar | [Read More](https://medium.com/p/f22e0723eed1) |
+| Tue, 17 Feb 2026 01:16:38 GMT | Cyber Security News Today: Threats Are Rising — Is Your Organization Ready? | KOSCYBER | [Read More](https://medium.com/p/672aa89f84b2) |
+| Tue, 17 Feb 2026 01:14:47 GMT | Algorithmic Debt in GenAI & Agentic AI | Jaibharath Ganesan | [Read More](https://medium.com/p/a7a3ff9d842d) |
+| Tue, 17 Feb 2026 01:11:00 GMT | Using AI Against AI (Without Fooling Ourselves) | Koshy | [Read More](https://medium.com/p/ad04b766a214) |
+| Tue, 17 Feb 2026 01:01:02 GMT | 9 SSH Hardening Tricks That Stopped 50,000 Attack Attempts on My Server | Ashish Singh | [Read More](https://medium.com/p/6499b7b756bf) |
+| Tue, 17 Feb 2026 00:54:31 GMT | Domain Name System (DNS) | Aj | [Read More](https://medium.com/p/f19dab68958e) |
+| Tue, 17 Feb 2026 00:52:19 GMT | UUID Might Not Be Unique (Use this to report a security issue) | Rahul Singh Chauhan | [Read More](https://medium.com/p/85e6d16b204e) |
+| Tue, 17 Feb 2026 00:21:01 GMT | Hidden Deep Into My Heart — TryHackMe writeup | Cybernerddd | [Read More](https://medium.com/p/d1bdd243ffd6) |
+| Tue, 17 Feb 2026 00:11:51 GMT | (Windows/Linux)File Transfer Methods Labs - HTB | Mohamed Mejahed | [Read More](https://medium.com/p/cca17d011a3d) |
+| Mon, 16 Feb 2026 23:52:08 GMT | They Can Hack You Just by Running `git clone`… Review Before You Run! | Ali Babayev | [Read More](https://medium.com/p/18f59336c7a5) |
 | Mon, 16 Feb 2026 23:18:28 GMT | The Rise of Cognitive Architectures and the Need for AI Fingerprints | Laurent-Philippe Albou | [Read More](https://medium.com/p/fcee286c0c33) |
 | Mon, 16 Feb 2026 23:12:32 GMT | Cyber Couture — OSINT and Fashion Crimes | Intel_Inquirer | [Read More](https://medium.com/p/3d91aaa8ea69) |
 | Mon, 16 Feb 2026 23:02:13 GMT | A Doomer’s Guide to Saving Cybersecurity — and the Internet | Prathamesh Verma | [Read More](https://medium.com/p/365726479d73) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Feb 2026 16:48:15 GMT | I Installed Kali, Now What? A Beginner's Survival Guide. | Samuel | [Read More](https://medium.com/p/0d4c0ff0276c) |
 | Mon, 16 Feb 2026 16:47:12 GMT | Finding a Heap Buffer Over-Read in ascii-view (CWE-125) | CyberDucky | [Read More](https://medium.com/p/e7c9006e68f7) |
 | Mon, 16 Feb 2026 16:35:35 GMT | Keys Keys Keys | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/e993981d4d22) |
-| Mon, 16 Feb 2026 16:34:45 GMT | Cross-Site Scripting (XSS) Explained for Beginners: Simple Examples and How to Prevent It | etwinworkshop | [Read More](https://medium.com/p/49bac7301bbc) |
-| Mon, 16 Feb 2026 16:33:30 GMT | I Built My First SIEM Lab (And Broke It Multiple Times) | Simarjeet Singh Matharu | [Read More](https://medium.com/p/7be87c8dfb77) |
-| Mon, 16 Feb 2026 16:33:17 GMT | Why I Treat Every New Linux Server as Already Compromised | Faruk Ahmed | [Read More](https://medium.com/p/383d5b2c9246) |
-| Mon, 16 Feb 2026 16:32:24 GMT | The Plea of a Weeping Princess | Katalina | [Read More](https://medium.com/p/7590e8c88d73) |
-| Mon, 16 Feb 2026 16:31:00 GMT | Beyond Technology: Social Support, Risk, and Economic Value in Physicians’ Telemedicine Adoption in… | Partners in Digital Health | [Read More](https://medium.com/p/4ebfe49459e3) |
-| Mon, 16 Feb 2026 16:30:38 GMT | Upload Vulnerabilities CTF Walkthrough on TryHackMe | Tariq Farah | [Read More](https://medium.com/p/3d4c6ead9a3e) |
-| Mon, 16 Feb 2026 16:20:37 GMT | Is Test Management Outdated — or More Essential Than Ever? | Isaacdonnelson | [Read More](https://medium.com/p/2d4e646f95aa) |
-| Mon, 16 Feb 2026 16:15:40 GMT | Learning Fortinet Firewall — LESSON 1: First Bootup (Initial Setup) | Rouell Mamaril | [Read More](https://medium.com/p/0d1c15ed5a99) |
-| Mon, 16 Feb 2026 16:13:22 GMT | Stop Trusting req.body: How I Broke an Express + MongoDB App with NoSQL Injection | MR.7 | [Read More](https://medium.com/p/ba92208ebe53) |
-| Mon, 16 Feb 2026 16:06:59 GMT | Pico-Ctf challenge walkthrough {Forensics} | Arka Priya Das | [Read More](https://medium.com/p/2fe75d26981c) |
-| Mon, 16 Feb 2026 16:06:39 GMT | A Cleaner Starting Point for Threat Actor Research | Grimmsgadgets | [Read More](https://medium.com/p/905b80d822c0) |
-| Mon, 16 Feb 2026 16:02:29 GMT | A few employment truths you probably don’t want to hear | Chris Hornberger | [Read More](https://medium.com/p/aec6b9c64d8c) |
-| Mon, 16 Feb 2026 15:57:56 GMT | Presidents Don’t Run Countries. Infrastructure Does. | Anna Jacobi | [Read More](https://medium.com/p/029225e6972b) |
-| Mon, 16 Feb 2026 15:57:37 GMT | The Database Was Sold Online. but the Vulnerability Was Still Open | Iski | [Read More](https://medium.com/p/57c386c3404b) |
-| Mon, 16 Feb 2026 15:56:12 GMT | What Is OpenClaw — Is It Risky? And How to Use It Safely | akashTheDev | [Read More](https://medium.com/p/65067c09820a) |
