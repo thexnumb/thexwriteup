@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Feb 2026 09:01:02 GMT | A Lack of Courage or a Lack of Space? | anaa | [Read More](https://medium.com/p/e155cc87e87e) |
+| Tue, 17 Feb 2026 09:01:01 GMT | Securing and Optimizing Your TAK Client: A Practical Guide | Babyf4c3 | [Read More](https://medium.com/p/78dfca2ae4bc) |
+| Tue, 17 Feb 2026 09:01:00 GMT | The Credential Leak That Exposed an Entire Company’s Internal Tools | Alexandre Vandamme | [Read More](https://medium.com/p/eea853df12e6) |
+| Tue, 17 Feb 2026 09:00:21 GMT | Token Bucket or Leaky Bucket Rate Limiter Is the Difference Between “Scales” and “Falls Over” | Anh Trần Tuấn | [Read More](https://medium.com/p/5ca4f01eb63f) |
+| Tue, 17 Feb 2026 09:00:19 GMT | CIR and the Blockchain Privacy Crisis: Why $2.47 Billion Was Stolen in Six Months | Olajide Oluwaseun David | [Read More](https://medium.com/p/ed52c57f7ffb) |
+| Tue, 17 Feb 2026 08:47:54 GMT | Inside target.com: Mapping a Hardened WordPress REST API for Bug Bounty Recon | ghostyjoe | [Read More](https://medium.com/p/eafb6ee811ca) |
+| Tue, 17 Feb 2026 08:46:41 GMT | The Strategic Advantage of Earning ACSMI Certification | ACSMI | [Read More](https://medium.com/p/8502516bd0db) |
+| Tue, 17 Feb 2026 08:44:18 GMT | Top 3 Threats to Web Applications - Explained for Beginners | Shahzaib | [Read More](https://medium.com/p/2ca39419bce4) |
+| Tue, 17 Feb 2026 08:40:53 GMT | The Hidden Vulnerability of LLM Agents: When Trusted Tools Turn Malicious | Luka | [Read More](https://medium.com/p/ce16d5b5df43) |
+| Tue, 17 Feb 2026 08:40:30 GMT | 7 Proven Steps for Adversary-Informed Threat Modeling | Pentest_Testing_Corp | [Read More](https://medium.com/p/5a5514a0d775) |
+| Tue, 17 Feb 2026 08:29:23 GMT | How to audit your IAM policies for least privilege (The sysadmin way) | RepoBaby | [Read More](https://medium.com/p/fe119d661c03) |
+| Tue, 17 Feb 2026 08:29:08 GMT | From Indicators to Intelligence: Why IOCs Alone Are No Longer Enough | ThreatLens - Security Intelligence Automation | [Read More](https://medium.com/p/b01d2545da1b) |
+| Tue, 17 Feb 2026 08:24:16 GMT | The Invisible Threats: Why Critical Vulnerabilities Slip Through the CVE Cracks | HeisKris | [Read More](https://medium.com/p/7e8bdf14dc78) |
+| Tue, 17 Feb 2026 08:24:11 GMT | Cross-Site Scripting (XSS) | Songül Kızılay Özügürler | [Read More](https://medium.com/p/3e1ef0d5d958) |
+| Tue, 17 Feb 2026 08:19:17 GMT | Why You Need Professional WordPress Cleaning Service for Security | Wpexpert24 | [Read More](https://medium.com/p/464e62ad616e) |
+| Tue, 17 Feb 2026 08:12:14 GMT | Post-work — 2. The First Test — Energy | András Dobos | [Read More](https://medium.com/p/3194fde50399) |
+| Tue, 17 Feb 2026 08:01:11 GMT | Secure Like a Pro: 10 Advanced Techniques in Symfony | Matt Mochalkin | [Read More](https://medium.com/p/3efd9fc619f6) |
+| Tue, 17 Feb 2026 08:01:07 GMT | Amazon Com Code Enter this Code Guide | Get info support | [Read More](https://medium.com/p/aa45d486ce9e) |
 | Tue, 17 Feb 2026 07:59:54 GMT | HashCracker: A Multi-Threaded Password Recovery Tool Written in Python | Ajay kumar | [Read More](https://medium.com/p/39003eb39c4a) |
 | Tue, 17 Feb 2026 07:41:06 GMT | CupidBot-THM | 0x77 | [Read More](https://medium.com/p/7fa6fccfb357) |
 | Tue, 17 Feb 2026 07:40:21 GMT | Arizona Online Cybersecurity Associate Degree: 2026 Guide to Cost, Schools & Careers | Ayesha Bashir | [Read More](https://medium.com/p/343551500a28) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Feb 2026 00:11:51 GMT | (Windows/Linux)File Transfer Methods Labs - HTB | Mohamed Mejahed | [Read More](https://medium.com/p/cca17d011a3d) |
 | Tue, 17 Feb 2026 00:01:01 GMT | Guía de sslscan: Cómo auditar certificados SSL/TLS y detectar vulnerabilidades críticas | JPablo13 | [Read More](https://medium.com/p/f7734f6532c8) |
 | Mon, 16 Feb 2026 23:52:08 GMT | They Can Hack You Just by Running `git clone`… Review Before You Run! | Ali Babayev | [Read More](https://medium.com/p/18f59336c7a5) |
-| Mon, 16 Feb 2026 23:18:28 GMT | The Rise of Cognitive Architectures and the Need for AI Fingerprints | Laurent-Philippe Albou | [Read More](https://medium.com/p/fcee286c0c33) |
-| Mon, 16 Feb 2026 23:12:32 GMT | Cyber Couture — OSINT and Fashion Crimes | Intel_Inquirer | [Read More](https://medium.com/p/3d91aaa8ea69) |
-| Mon, 16 Feb 2026 23:02:13 GMT | A Doomer’s Guide to Saving Cybersecurity — and the Internet | Prathamesh Verma | [Read More](https://medium.com/p/365726479d73) |
-| Mon, 16 Feb 2026 23:01:53 GMT | Post 13: SDLC Phase 2 — Analysis and Design (Part 2) | Satti Data | [Read More](https://medium.com/p/2968fcaa668c) |
-| Mon, 16 Feb 2026 22:42:55 GMT | IDOR Vulnerability in Staff Management Endpoint — Arbitrary Deletion of Staff Members — 500$ | Hasan Khan | [Read More](https://medium.com/p/aff5c84de2ff) |
-| Mon, 16 Feb 2026 22:35:27 GMT | Experiment 001: Threat Hunting AI-Assisted Analysis of Malicious Browser Extensions | JackTheSamurai | [Read More](https://medium.com/p/617c46c415c6) |
-| Mon, 16 Feb 2026 22:34:09 GMT | What if an attacker already knows everything about your company… without touching your network? | Mohamed Yasser | [Read More](https://medium.com/p/219e9d546549) |
-| Mon, 16 Feb 2026 22:24:53 GMT | A PSsystec Perspective on the Munich Security Conference 2026 | PSsystec | [Read More](https://medium.com/p/0c4af742e15c) |
-| Mon, 16 Feb 2026 22:21:26 GMT | Découverte de l’IA avec Aina Haritiana | Aina Haritiana | [Read More](https://medium.com/p/01547fdab396) |
-| Mon, 16 Feb 2026 22:06:58 GMT | BitLocker — Recovering Recovery Keys in Practice | Nexamos | [Read More](https://medium.com/p/26280265a174) |
-| Mon, 16 Feb 2026 22:01:00 GMT | Unfiltered Restart — Day 5: Virtualization | Maximillian Rueda | [Read More](https://medium.com/p/0bd3a8f7218e) |
-| Mon, 16 Feb 2026 21:48:49 GMT | Model Context Protocol (MCP): The Layer That Elevates a Chatbot Into an Agent | number40 | [Read More](https://medium.com/p/d9b99a22120e) |
-| Mon, 16 Feb 2026 21:37:22 GMT | Is Your Risk Register a Management Tool or an Autopsy? | Rob | [Read More](https://medium.com/p/bd61cc3c0661) |
-| Mon, 16 Feb 2026 21:34:11 GMT | Why We Built a Moral Blockchain: The TML Architecture Overview. | Lev Goukassian | [Read More](https://medium.com/p/60569110d798) |
-| Mon, 16 Feb 2026 21:32:19 GMT | Before We Build More AI Governance Tools, We Need to Agree on What “AI Governance” Means | Edward Meyman | [Read More](https://medium.com/p/50acaf7ccb80) |
-| Mon, 16 Feb 2026 21:28:17 GMT | Hacker’ın Haritası: OSI Modelinin 7 Katmanında Ustalaşmak | EMRE KESEBİR | [Read More](https://medium.com/p/d353d751aa1e) |
-| Mon, 16 Feb 2026 21:21:10 GMT | ⚠️ Hati-hati Saat Klik ‘I’m Not a Robot’: Bedah Taktik Licik Malware Lumma Stealer di Balik Fake… | razzee | [Read More](https://medium.com/p/5781d75976ff) |
-| Mon, 16 Feb 2026 21:19:06 GMT | Simulating T1003.001: How To Detect LSASS Access with Sysmon and Splunk | Melchizedek Anyonje | [Read More](https://medium.com/p/27e5040f4c3e) |
