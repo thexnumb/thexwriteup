@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Feb 2026 15:18:28 GMT | The Danger: How Stuxnet Changed Cybersecurity Forever | Grace Jaman | [Read More](https://medium.com/p/50a6dfd281d6) |
+| Tue, 17 Feb 2026 15:17:43 GMT | Why Biometric Data Is More Dangerous Than Financial Data | Migdad latif Shaw | [Read More](https://medium.com/p/e91899af4074) |
+| Tue, 17 Feb 2026 15:15:17 GMT | Why fighting the WAF is sometimes the wrong move: A lesson in DOM XSS | Alensarangsatheesh | [Read More](https://medium.com/p/a3ecb40cc587) |
+| Tue, 17 Feb 2026 15:14:52 GMT | I killed a mother centipede today. | Teya. | [Read More](https://medium.com/p/996303b3871f) |
+| Tue, 17 Feb 2026 15:12:37 GMT | Introduction to Digital Forensics — Lab 01 | Annisa Eka Putri | [Read More](https://medium.com/p/4ec80569c0c2) |
+| Tue, 17 Feb 2026 15:10:58 GMT | Introduction to Digital Forensics — Lab 01 | Yrddry | [Read More](https://medium.com/p/b637db54eec2) |
+| Tue, 17 Feb 2026 15:09:25 GMT | Why You Might Need a Digital Alter Ego | Andrew Keitany | [Read More](https://medium.com/p/46db4775abbe) |
+| Tue, 17 Feb 2026 15:06:50 GMT | How Security Camera Systems Work in Daily Life | AlexBryn | [Read More](https://medium.com/p/906d7d72e3b4) |
+| Tue, 17 Feb 2026 15:04:18 GMT | How Can Kubernetes Workloads Securely Access AWS? | VenuMadhav Palugula - VenKube | [Read More](https://medium.com/p/22a0aeba0b4e) |
+| Tue, 17 Feb 2026 15:01:01 GMT | Cyber Briefing: 2026.02.17 | CyberMaterial | [Read More](https://medium.com/p/19195fce3593) |
+| Tue, 17 Feb 2026 14:59:35 GMT | Security Architecture of Modern Crypto Wallets | Arun Kumar Balusamy | [Read More](https://medium.com/p/b0449201df83) |
+| Tue, 17 Feb 2026 14:59:30 GMT | How I passed the eJPT exam as a beginner | Srihari N Narayan | [Read More](https://medium.com/p/0d5b188db1dc) |
+| Tue, 17 Feb 2026 14:56:35 GMT | Dari Fake CAPTCHA ke Pencurian Data: Analisis Serangan Lumma Stealer dengan Cyber Kill Chain | enhasploit | [Read More](https://medium.com/p/79b7f8240060) |
+| Tue, 17 Feb 2026 14:54:56 GMT | How I Jailbreak AI Models Using Nothing But Conversation: A Case Study in Why Safety Theater is… | ChiggyChiggy | [Read More](https://medium.com/p/af6f9f1bb8df) |
+| Tue, 17 Feb 2026 14:50:34 GMT | I feel that vulnerability is the most misunderstood and mistreated emotion. | Rudrakshi Pradhan | [Read More](https://medium.com/p/78772f9bf7b9) |
+| Tue, 17 Feb 2026 14:49:20 GMT | The Silent Revenue Killer in Your Product: Why Weak Testing Is Costing You Growth (and How QA Fixes… | Arpit choubey | [Read More](https://medium.com/p/92f34ba2a6ce) |
+| Tue, 17 Feb 2026 14:47:41 GMT | The Most Secure Way to Store Crypto Seed Phrases for Inheritance Without Risking Exposure | Olivia Martillo | [Read More](https://medium.com/p/d62ab8f07b58) |
+| Tue, 17 Feb 2026 14:41:48 GMT | Lumma Stealer & Fake CAPTCHA | L0udbaa | [Read More](https://medium.com/p/ac23405efd7f) |
+| Tue, 17 Feb 2026 14:37:47 GMT | How we reduced a WooCommerce site load time from 7.2s | Rajeev Sharma | [Read More](https://medium.com/p/7fb942b6a940) |
+| Tue, 17 Feb 2026 14:36:00 GMT | How We Got AWS Security Best Practices to 100% (And Why It Matters for Your Data Team) | Luca Vehbiu | [Read More](https://medium.com/p/4e455ad636b7) |
+| Tue, 17 Feb 2026 14:31:32 GMT | AXSAS Strategic Briefing 005 | AXSAS | [Read More](https://medium.com/p/138455dbb861) |
+| Tue, 17 Feb 2026 14:30:52 GMT | Implementasi Lumma Stealer Dalam Framework Cyber Kill Chain | Fauzan Putra Ramadhan | [Read More](https://medium.com/p/61ea83276ab4) |
 | Tue, 17 Feb 2026 14:16:37 GMT | Deep legal analysis | Olga Isaeva | [Read More](https://medium.com/p/c1d85c25edd7) |
 | Tue, 17 Feb 2026 14:14:52 GMT | Behind Reinforced Walls | Lasse Waxson | [Read More](https://medium.com/p/7d38287bec16) |
 | Tue, 17 Feb 2026 14:13:29 GMT | Flowing with OAuth | Maksim Emelianchenko | [Read More](https://medium.com/p/1163c3158b70) |
@@ -91,25 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Feb 2026 10:36:05 GMT | A Guide to Data Security and Compliance Regulations | HawkShield | [Read More](https://medium.com/p/3c675da6e342) |
 | Tue, 17 Feb 2026 10:33:41 GMT | Is Your Security Team Overwhelmed? You Need This | Redfox Security | [Read More](https://medium.com/p/b7bd0a9951ce) |
 | Tue, 17 Feb 2026 10:27:54 GMT | Your Penetration Test Report Just Landed. Read This Before You Panic. | Dawid Makowski | [Read More](https://medium.com/p/202663f69a38) |
-| Tue, 17 Feb 2026 10:20:18 GMT | Hidden Deep Into my Heart — A TryHackMe Writeup | 0x77 | [Read More](https://medium.com/p/46adbb8b05d1) |
-| Tue, 17 Feb 2026 10:10:04 GMT | ☗ CLAVI Is the Only True Private Vault ☗ | 0NE - C L A V I | [Read More](https://medium.com/p/62592f5e7f3b) |
-| Tue, 17 Feb 2026 10:01:43 GMT | BodySnatcher: Unpacking the Critical ServiceNow Vulnerability (CVE-2025–12420) | Alessandro Pignati | [Read More](https://medium.com/p/0253771f3e83) |
-| Tue, 17 Feb 2026 10:01:03 GMT | I Found A Race Condition Vulnerability Which allow an attacker can do unlimited like & dislike on… | Md Nawshad Ahmmed | [Read More](https://medium.com/p/474659f312a8) |
-| Tue, 17 Feb 2026 09:56:25 GMT | OverTheWire Bandit Level 0: Hands-On Walkthrough | Chendur Sutharsan A C M | [Read More](https://medium.com/p/caae6bd7ab5c) |
-| Tue, 17 Feb 2026 09:55:08 GMT | The Gateway as Your Central AI Security Hub | Radicalbit | [Read More](https://medium.com/p/e7dbf2122995) |
-| Tue, 17 Feb 2026 09:51:54 GMT | Site Protect Pricing Explained: Cost, ROI and Tradeoffs | Medha | [Read More](https://medium.com/p/c7335c2af36d) |
-| Tue, 17 Feb 2026 09:51:24 GMT | Breaking the Trust Boundary: SSRF via a Misconfigured Sentry Tunnel | Ehtesham Ul Haq | [Read More](https://medium.com/p/ed054820b743) |
-| Tue, 17 Feb 2026 09:49:04 GMT | Meet WibeIT the New Privacy First Messaging App | WibeIT Application | [Read More](https://medium.com/p/60b7aa581d6d) |
-| Tue, 17 Feb 2026 09:45:16 GMT | How AI is Used To Detect and Prevent Cyber Attacks? | Manisha Chaudhary | [Read More](https://medium.com/p/6812a1aac64e) |
-| Tue, 17 Feb 2026 09:38:12 GMT | Your Browser is Snitching: The Hidden Reality of Browser Fingerprinting | DeltaBytes | [Read More](https://medium.com/p/181e2797b5cf) |
-| Tue, 17 Feb 2026 09:37:53 GMT | # Training Data Leakage in PLaMo Prime: Internal Infrastructure, Employee Data, and Malicious Code… | memi | [Read More](https://medium.com/p/b496c81f9407) |
-| Tue, 17 Feb 2026 09:36:17 GMT | Least Privilege — The Security Principle That Prevents Big Breaches | Kamalatluxanov | [Read More](https://medium.com/p/e45590337023) |
-| Tue, 17 Feb 2026 09:36:08 GMT | Is AI Already Killing Human Intelligence? | Manoj Aggarwal | [Read More](https://medium.com/p/78e5b6c42f27) |
-| Tue, 17 Feb 2026 09:29:54 GMT | Introduction to Digital Forensics - Lab-01 Digital Forensics | Shandyka Aditya Putra | [Read More](https://medium.com/p/b0b4d6b63470) |
-| Tue, 17 Feb 2026 09:26:52 GMT | CAPTCHA Palsu Jebakan Batman: Ketika Klik Bikin Lo Jadi Korban Pencurian Data Massal | Khaerul Muhaemin | [Read More](https://medium.com/p/0289f463a9fb) |
-| Tue, 17 Feb 2026 09:20:53 GMT | 83% of Burglars Check for an Alarm System First — Here’s What That Means for Your Business | Fmagnews | [Read More](https://medium.com/p/caaf02636519) |
-| Tue, 17 Feb 2026 09:17:50 GMT | Total Security Solutions: Why Modern Businesses Need Advanced Electronic Security Solutions | Ciss India | [Read More](https://medium.com/p/7ba77d723264) |
-| Tue, 17 Feb 2026 09:11:56 GMT | I’m trying to solve a ctf about web exploitation through a backdoor | Billy Elvonda Aron Umpel | [Read More](https://medium.com/p/905fa77d7c56) |
-| Tue, 17 Feb 2026 09:06:00 GMT | Your AI Assistant Could Be a Double Agent | Rachana Gupta | [Read More](https://medium.com/p/5ed21b8e6c8a) |
-| Tue, 17 Feb 2026 09:01:02 GMT | A Lack of Courage or a Lack of Space? | anaa | [Read More](https://medium.com/p/e155cc87e87e) |
-| Tue, 17 Feb 2026 09:01:01 GMT | Securing and Optimizing Your TAK Client: A Practical Guide | Babyf4c3 | [Read More](https://medium.com/p/78dfca2ae4bc) |
