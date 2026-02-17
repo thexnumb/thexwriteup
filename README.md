@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Feb 2026 05:52:26 GMT | Stop Killing Your Mac: 10 Apps You Should NEVER Install | Zeeshan Saghir | [Read More](https://medium.com/p/5dcc3d83e73b) |
+| Tue, 17 Feb 2026 05:50:15 GMT | Cookie Tossing : Escalating Low impact XSS into Criticals | TheCzar | [Read More](https://medium.com/p/e29a0a668a74) |
+| Tue, 17 Feb 2026 05:44:19 GMT | I Installed a Chrome Extension Last Tuesday. It Was a Mistake 37 Million People Made. | Muhammad Hassan Ali | [Read More](https://medium.com/p/03bdf654a76e) |
+| Tue, 17 Feb 2026 05:43:33 GMT | From Lure to Exfiltration: Analyzing Lumma Stealer Fake CAPTCHA Attacks via Cyber Kill Chain | Muhammad Idham Cholid | [Read More](https://medium.com/p/62b1f241df0f) |
+| Tue, 17 Feb 2026 05:31:24 GMT | AI in Cybersecurity: How Artificial Intelligence is Transforming Digital Security in 2026 | Tanvi Chauhan | [Read More](https://medium.com/p/94680b8a6e89) |
+| Tue, 17 Feb 2026 05:29:40 GMT | WriteUp Bandit Level 0–20 | Senoputraaa | [Read More](https://medium.com/p/52aab43e1f55) |
+| Tue, 17 Feb 2026 05:29:27 GMT | How Digital Forensics and Incident Response Is Shaping Cyber Resilience in 2025 | Gauri Kale | [Read More](https://medium.com/p/528a9367aeed) |
+| Tue, 17 Feb 2026 05:25:26 GMT | Beyond the Hype: Choosing Your AI North Star | Avipsa Roy | [Read More](https://medium.com/p/8a46293b7bef) |
+| Tue, 17 Feb 2026 05:25:10 GMT | What Is CVE-2026–24061 | Anandhu Kannan | [Read More](https://medium.com/p/b2f47f40199c) |
+| Tue, 17 Feb 2026 05:20:27 GMT | Zero Knowledge Proof Blockchain for Privacy and Security | alinamon | [Read More](https://medium.com/p/8bb4e0fbbf8a) |
+| Tue, 17 Feb 2026 05:15:00 GMT | Why “Works on My Machine” Is the Most Dangerous Sentence in Tech | Fateyaly | [Read More](https://medium.com/p/521069e050df) |
+| Tue, 17 Feb 2026 05:09:37 GMT | TryHackMe Slingshot: Investigating a Web Compromise | san | [Read More](https://medium.com/p/bc2033d1e471) |
+| Tue, 17 Feb 2026 05:00:33 GMT | The Silent Risk Inside Growing Digital Businesses: Untested Vulnerabilities | ANSI Technologies | [Read More](https://medium.com/p/0cf68d43e3f0) |
+| Tue, 17 Feb 2026 04:59:32 GMT | Why curl Quit HackerOne | Abhishek meena | [Read More](https://medium.com/p/526a05e12289) |
+| Tue, 17 Feb 2026 04:58:34 GMT | Scale Smarter Automation with Expert N8N Developers | n8ndevelopers | [Read More](https://medium.com/p/e05ad68a5277) |
+| Tue, 17 Feb 2026 04:49:45 GMT | How to Actually Read Threat Reports (So They Become Useful) | seif | [Read More](https://medium.com/p/ce8d6c244184) |
+| Tue, 17 Feb 2026 04:39:08 GMT | Django February 2026 Security Patch Breakdown: Upgrading to 6.0.2 Safely | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/530702c75690) |
+| Tue, 17 Feb 2026 04:38:25 GMT | Part 3 — Finding High-Impact Bugs Without Heavy Scanning | ghostyjoe | [Read More](https://medium.com/p/59ee5908b475) |
+| Tue, 17 Feb 2026 04:31:01 GMT | Weekly Cybersecurity Recap: Outlook Add-in Supply Chain Attack, 0-Day Patches, Wormable Botnet & AI… | Cybersphere Official | [Read More](https://medium.com/p/02dc7b038991) |
 | Tue, 17 Feb 2026 04:26:01 GMT | IDOR Vulnerabilities Explained: A Researcher’s Guide to Authorization Flaws | Ud4y | [Read More](https://medium.com/p/82030def0e28) |
 | Tue, 17 Feb 2026 04:26:01 GMT | Day 12 Attack Structure Explained: Execution — When Access Turns Into Action | NineTales | [Read More](https://medium.com/p/700eedd7afd9) |
 | Tue, 17 Feb 2026 04:01:01 GMT | Munich Reckoning: How Trump’s America and a Rearmed Europe Are Redefining the West | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/0a9efe30451f) |
@@ -40,9 +59,11 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Feb 2026 01:11:00 GMT | Using AI Against AI (Without Fooling Ourselves) | Koshy | [Read More](https://medium.com/p/ad04b766a214) |
 | Tue, 17 Feb 2026 01:01:02 GMT | 9 SSH Hardening Tricks That Stopped 50,000 Attack Attempts on My Server | Ashish Singh | [Read More](https://medium.com/p/6499b7b756bf) |
 | Tue, 17 Feb 2026 00:54:31 GMT | Domain Name System (DNS) | Aj | [Read More](https://medium.com/p/f19dab68958e) |
+| Tue, 17 Feb 2026 00:53:50 GMT | O que aprendi usando Neovim(até agora) | Ezequiel Dias | [Read More](https://medium.com/p/105a683d1d77) |
 | Tue, 17 Feb 2026 00:52:19 GMT | UUID Might Not Be Unique (Use this to report a security issue) | Rahul Singh Chauhan | [Read More](https://medium.com/p/85e6d16b204e) |
 | Tue, 17 Feb 2026 00:21:01 GMT | Hidden Deep Into My Heart — TryHackMe writeup | Cybernerddd | [Read More](https://medium.com/p/d1bdd243ffd6) |
 | Tue, 17 Feb 2026 00:11:51 GMT | (Windows/Linux)File Transfer Methods Labs - HTB | Mohamed Mejahed | [Read More](https://medium.com/p/cca17d011a3d) |
+| Tue, 17 Feb 2026 00:01:01 GMT | Guía de sslscan: Cómo auditar certificados SSL/TLS y detectar vulnerabilidades críticas | JPablo13 | [Read More](https://medium.com/p/f7734f6532c8) |
 | Mon, 16 Feb 2026 23:52:08 GMT | They Can Hack You Just by Running `git clone`… Review Before You Run! | Ali Babayev | [Read More](https://medium.com/p/18f59336c7a5) |
 | Mon, 16 Feb 2026 23:18:28 GMT | The Rise of Cognitive Architectures and the Need for AI Fingerprints | Laurent-Philippe Albou | [Read More](https://medium.com/p/fcee286c0c33) |
 | Mon, 16 Feb 2026 23:12:32 GMT | Cyber Couture — OSINT and Fashion Crimes | Intel_Inquirer | [Read More](https://medium.com/p/3d91aaa8ea69) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Feb 2026 19:12:01 GMT | The Gap | Anshuman | [Read More](https://medium.com/p/5df9f1c231bb) |
 | Mon, 16 Feb 2026 19:07:12 GMT | My Journey Through the Jr Penetration Tester Learning Path on TryHackMe | Subrat Samantaray | [Read More](https://medium.com/p/f283a6bf6f36) |
 | Mon, 16 Feb 2026 19:07:11 GMT | Analisis Lumma Stealer (Fake CAPTCHA) Menggunakan Cyber Kill Chain Framework | minouse3 | [Read More](https://medium.com/p/e0e88d6cbe46) |
-| Mon, 16 Feb 2026 19:01:54 GMT | Cybersecurity trends 2026 | AKLI ILIAS | [Read More](https://medium.com/p/48e3e1d57eac) |
-| Mon, 16 Feb 2026 19:01:01 GMT | EU GDPR — Article 15 (Right of Access by the Data Subject) | MDM Team | [Read More](https://medium.com/p/f0931191a2e0) |
-| Mon, 16 Feb 2026 18:50:10 GMT | 30 Days of Red Team: Day 24 — Pass-the-Ticket & Overpass-the-Hash | Maxwell Cross | [Read More](https://medium.com/p/aa87e2e8486c) |
-| Mon, 16 Feb 2026 18:47:00 GMT | The Strategic Importance of SOC 2 and ISO 27001 for SaaS Companies | Decrypt Compliance | [Read More](https://medium.com/p/1a6c33543026) |
-| Mon, 16 Feb 2026 18:40:25 GMT | PicoClaw and OpenClaw Are Not Infrastructure: The $10 AI Agent Myth | Mark | [Read More](https://medium.com/p/43d43e0726e3) |
-| Mon, 16 Feb 2026 18:36:54 GMT | Day 4 : The Sloth | Armaan Nain | [Read More](https://medium.com/p/ea3da7f58b85) |
-| Mon, 16 Feb 2026 18:34:05 GMT | AttackRuleMap: Scaling the Bridge Between Detections and Tests via Automation | Emre Güler | [Read More](https://medium.com/p/507f9c5c2b5a) |
-| Mon, 16 Feb 2026 18:33:11 GMT | What is Cyber Attacks? | Dhruvi Modh | [Read More](https://medium.com/p/b83f58fc0d79) |
-| Mon, 16 Feb 2026 18:30:39 GMT | Common Vulnerability Scoring System (CVSS): A Critical Analysis | Ehteshamul Islam | [Read More](https://medium.com/p/a777d84f768d) |
-| Mon, 16 Feb 2026 18:29:05 GMT | The Text Message I Didn’t Expect | Latha | [Read More](https://medium.com/p/00923e93fe66) |
-| Mon, 16 Feb 2026 18:23:14 GMT | Demystifying the Gatekeeper: A Guide to Kubernetes Ingress Controllers | Pronomita Dey | [Read More](https://medium.com/p/659cbd1c303e) |
-| Mon, 16 Feb 2026 18:22:12 GMT | Clandestine Proxy in the Middle of Proxy | Régis | [Read More](https://medium.com/p/05ee53a2ee6f) |
-| Mon, 16 Feb 2026 18:17:05 GMT | I Built a Bug Bounty Automation Pipeline on Kali Linux — Here’s Exactly How | Naveen TK | [Read More](https://medium.com/p/1775139962a8) |
-| Mon, 16 Feb 2026 18:08:34 GMT | Challenge Digital Forensics Lab 1 — Week 1 | Akmal Fauzan Ananta | [Read More](https://medium.com/p/bacdb1606474) |
-| Mon, 16 Feb 2026 18:04:40 GMT | Chains of Love (TryHackMe CTF) | vulnhunter | [Read More](https://medium.com/p/bb335500f10d) |
-| Mon, 16 Feb 2026 18:03:30 GMT | ICE-VulnHub Walkthrough | Nandhanaks | [Read More](https://medium.com/p/36ca4d7b878a) |
-| Mon, 16 Feb 2026 18:00:29 GMT | 0What Are the Epstein Files? A Clear Explanation (2026 Update) | Teach us | [Read More](https://medium.com/p/87371c257d49) |
-| Mon, 16 Feb 2026 18:00:19 GMT | The Hidden Privacy Threat in AI | Aditya Raj | [Read More](https://medium.com/p/5e438abb5cef) |
-| Mon, 16 Feb 2026 17:48:28 GMT | Why I Started Learning Ethical Hacking? | Priyesh Patware | [Read More](https://medium.com/p/aff2bef412f2) |
-| Mon, 16 Feb 2026 17:38:00 GMT | Hidden Deep Into My Heart — TryHackMe Walkthrough | Latha | [Read More](https://medium.com/p/966c1632c182) |
-| Mon, 16 Feb 2026 17:35:48 GMT | Code or Concrete: Why Your Front Door is a Cybersecurity Lesson | Stephen Bernard Agwai | [Read More](https://medium.com/p/232d1feed76a) |
