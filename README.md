@@ -12,10 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Feb 2026 10:01:43 GMT | BodySnatcher: Unpacking the Critical ServiceNow Vulnerability (CVE-2025–12420) | Alessandro Pignati | [Read More](https://medium.com/p/0253771f3e83) |
+| Tue, 17 Feb 2026 10:01:03 GMT | I Found A Race Condition Vulnerability Which allow an attacker can do unlimited like & dislike on… | Md Nawshad Ahmmed | [Read More](https://medium.com/p/474659f312a8) |
+| Tue, 17 Feb 2026 09:56:25 GMT | OverTheWire Bandit Level 0: Hands-On Walkthrough | Chendur Sutharsan A C M | [Read More](https://medium.com/p/caae6bd7ab5c) |
+| Tue, 17 Feb 2026 09:55:08 GMT | The Gateway as Your Central AI Security Hub | Radicalbit | [Read More](https://medium.com/p/e7dbf2122995) |
+| Tue, 17 Feb 2026 09:51:24 GMT | Breaking the Trust Boundary: SSRF via a Misconfigured Sentry Tunnel | Ehtesham Ul Haq | [Read More](https://medium.com/p/ed054820b743) |
+| Tue, 17 Feb 2026 09:49:04 GMT | Meet WibeIT the New Privacy First Messaging App | WibeIT Application | [Read More](https://medium.com/p/60b7aa581d6d) |
+| Tue, 17 Feb 2026 09:45:16 GMT | How AI is Used To Detect and Prevent Cyber Attacks? | Manisha Chaudhary | [Read More](https://medium.com/p/6812a1aac64e) |
+| Tue, 17 Feb 2026 09:38:12 GMT | Your Browser is Snitching: The Hidden Reality of Browser Fingerprinting | DeltaBytes | [Read More](https://medium.com/p/181e2797b5cf) |
+| Tue, 17 Feb 2026 09:37:53 GMT | # Training Data Leakage in PLaMo Prime: Internal Infrastructure, Employee Data, and Malicious Code… | memi | [Read More](https://medium.com/p/b496c81f9407) |
+| Tue, 17 Feb 2026 09:36:17 GMT | Least Privilege — The Security Principle That Prevents Big Breaches | Kamalatluxanov | [Read More](https://medium.com/p/e45590337023) |
+| Tue, 17 Feb 2026 09:36:08 GMT | Is AI Already Killing Human Intelligence? | Manoj Aggarwal | [Read More](https://medium.com/p/78e5b6c42f27) |
+| Tue, 17 Feb 2026 09:29:54 GMT | Introduction to Digital Forensics - Lab-01 Digital Forensics | Shandyka Aditya Putra | [Read More](https://medium.com/p/b0b4d6b63470) |
+| Tue, 17 Feb 2026 09:26:52 GMT | CAPTCHA Palsu Jebakan Batman: Ketika Klik Bikin Lo Jadi Korban Pencurian Data Massal | Khaerul Muhaemin | [Read More](https://medium.com/p/0289f463a9fb) |
+| Tue, 17 Feb 2026 09:20:53 GMT | 83% of Burglars Check for an Alarm System First — Here’s What That Means for Your Business | Fmagnews | [Read More](https://medium.com/p/caaf02636519) |
+| Tue, 17 Feb 2026 09:17:50 GMT | Total Security Solutions: Why Modern Businesses Need Advanced Electronic Security Solutions | Ciss India | [Read More](https://medium.com/p/7ba77d723264) |
+| Tue, 17 Feb 2026 09:11:56 GMT | I’m trying to solve a ctf about web exploitation through a backdoor | Billy Elvonda Aron Umpel | [Read More](https://medium.com/p/905fa77d7c56) |
+| Tue, 17 Feb 2026 09:06:00 GMT | Your AI Assistant Could Be a Double Agent | Rachana Gupta | [Read More](https://medium.com/p/5ed21b8e6c8a) |
 | Tue, 17 Feb 2026 09:01:02 GMT | A Lack of Courage or a Lack of Space? | anaa | [Read More](https://medium.com/p/e155cc87e87e) |
 | Tue, 17 Feb 2026 09:01:01 GMT | Securing and Optimizing Your TAK Client: A Practical Guide | Babyf4c3 | [Read More](https://medium.com/p/78dfca2ae4bc) |
 | Tue, 17 Feb 2026 09:01:00 GMT | The Credential Leak That Exposed an Entire Company’s Internal Tools | Alexandre Vandamme | [Read More](https://medium.com/p/eea853df12e6) |
 | Tue, 17 Feb 2026 09:00:21 GMT | Token Bucket or Leaky Bucket Rate Limiter Is the Difference Between “Scales” and “Falls Over” | Anh Trần Tuấn | [Read More](https://medium.com/p/5ca4f01eb63f) |
+| Tue, 17 Feb 2026 09:00:20 GMT | Watch Dogs: The Game That Became a Product Roadmap | Travis Gilly | [Read More](https://medium.com/p/aa9cdb018551) |
 | Tue, 17 Feb 2026 09:00:19 GMT | CIR and the Blockchain Privacy Crisis: Why $2.47 Billion Was Stolen in Six Months | Olajide Oluwaseun David | [Read More](https://medium.com/p/ed52c57f7ffb) |
 | Tue, 17 Feb 2026 08:47:54 GMT | Inside target.com: Mapping a Hardened WordPress REST API for Bug Bounty Recon | ghostyjoe | [Read More](https://medium.com/p/eafb6ee811ca) |
 | Tue, 17 Feb 2026 08:46:41 GMT | The Strategic Advantage of Earning ACSMI Certification | ACSMI | [Read More](https://medium.com/p/8502516bd0db) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Feb 2026 02:48:00 GMT | Forgotten Ruins -OSINT | Aser Ahmed | [Read More](https://medium.com/p/244fefb9e07d) |
 | Tue, 17 Feb 2026 02:42:37 GMT | Beyond the Cloud Ceiling: Edge AI and the Future of Affordable Business Intelligence | Anshul Yadav | [Read More](https://medium.com/p/1c64102c68ee) |
 | Tue, 17 Feb 2026 02:32:25 GMT | The Message Broker That Spoke Too Freely | Isaac Adebayo | [Read More](https://medium.com/p/17ab09e970c5) |
-| Tue, 17 Feb 2026 02:24:25 GMT | Tuesday Morning Threat Report: Feb 17, 2026 | Mark Maguire | [Read More](https://medium.com/p/bcf37c5eeea3) |
-| Tue, 17 Feb 2026 02:00:26 GMT | INE-Assessment Methodologies: Vulnerability Assessment CTF 1 | Singkhon K | [Read More](https://medium.com/p/5ebcda607d09) |
-| Tue, 17 Feb 2026 01:58:26 GMT | How Hackers Attack AI Models: The New Battlefield in Cybersecurity | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/abddf5a48dd9) |
-| Tue, 17 Feb 2026 01:54:29 GMT | The Message Broker That Spoke Too Freely | Isaac Adebayo | [Read More](https://medium.com/p/f3863d10064f) |
-| Tue, 17 Feb 2026 01:41:08 GMT | Model Poisoning Attacks Explained: How Hackers Corrupt AI From the Inside | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/002a48ce1c4f) |
-| Tue, 17 Feb 2026 01:31:50 GMT | When AI Companies Say “Trust Us,” Who Verifies? | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/e4b148f4cfb6) |
-| Tue, 17 Feb 2026 01:21:33 GMT | TryHackMe, The Game solved in less than 2 minutes | Vick Kumar | [Read More](https://medium.com/p/f22e0723eed1) |
-| Tue, 17 Feb 2026 01:16:38 GMT | Cyber Security News Today: Threats Are Rising — Is Your Organization Ready? | KOSCYBER | [Read More](https://medium.com/p/672aa89f84b2) |
-| Tue, 17 Feb 2026 01:14:47 GMT | Algorithmic Debt in GenAI & Agentic AI | Jaibharath Ganesan | [Read More](https://medium.com/p/a7a3ff9d842d) |
-| Tue, 17 Feb 2026 01:11:00 GMT | Using AI Against AI (Without Fooling Ourselves) | Koshy | [Read More](https://medium.com/p/ad04b766a214) |
-| Tue, 17 Feb 2026 01:01:02 GMT | 9 SSH Hardening Tricks That Stopped 50,000 Attack Attempts on My Server | Ashish Singh | [Read More](https://medium.com/p/6499b7b756bf) |
-| Tue, 17 Feb 2026 00:54:31 GMT | Domain Name System (DNS) | Aj | [Read More](https://medium.com/p/f19dab68958e) |
-| Tue, 17 Feb 2026 00:53:50 GMT | O que aprendi usando Neovim(até agora) | Ezequiel Dias | [Read More](https://medium.com/p/105a683d1d77) |
-| Tue, 17 Feb 2026 00:52:19 GMT | UUID Might Not Be Unique (Use this to report a security issue) | Rahul Singh Chauhan | [Read More](https://medium.com/p/85e6d16b204e) |
-| Tue, 17 Feb 2026 00:21:01 GMT | Hidden Deep Into My Heart — TryHackMe writeup | Cybernerddd | [Read More](https://medium.com/p/d1bdd243ffd6) |
-| Tue, 17 Feb 2026 00:11:51 GMT | (Windows/Linux)File Transfer Methods Labs - HTB | Mohamed Mejahed | [Read More](https://medium.com/p/cca17d011a3d) |
-| Tue, 17 Feb 2026 00:01:01 GMT | Guía de sslscan: Cómo auditar certificados SSL/TLS y detectar vulnerabilidades críticas | JPablo13 | [Read More](https://medium.com/p/f7734f6532c8) |
-| Mon, 16 Feb 2026 23:52:08 GMT | They Can Hack You Just by Running `git clone`… Review Before You Run! | Ali Babayev | [Read More](https://medium.com/p/18f59336c7a5) |
