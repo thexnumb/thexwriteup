@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Feb 2026 18:50:40 GMT | Day 5 — The Imaginary Path | Armaan Nain | [Read More](https://medium.com/p/75d24151a173) |
+| Tue, 17 Feb 2026 18:42:16 GMT | The Next Frontier in Cybersecurity: Protecting Identity Persistence After Authentication | Rekuway | [Read More](https://medium.com/p/e1c503776462) |
+| Tue, 17 Feb 2026 18:31:15 GMT | A weird encounter | Nixk2000 | [Read More](https://medium.com/p/c87d545c9402) |
+| Tue, 17 Feb 2026 18:31:01 GMT | Business Analysis: The Most Misunderstood Role in Tech | Marilena Agostino | [Read More](https://medium.com/p/a67b4aa41cf7) |
+| Tue, 17 Feb 2026 18:30:08 GMT | Ana Waen?! | Mohammad Tawallbeh | [Read More](https://medium.com/p/869c3d721f10) |
+| Tue, 17 Feb 2026 18:22:27 GMT | Is It Too Late to Start a Career as a Smart Contract Security Researcher? | Abraham | [Read More](https://medium.com/p/75e0bbc4c7d8) |
+| Tue, 17 Feb 2026 18:20:05 GMT | Lumma Stealer (Fake CAPTCHA) | Lovindfirdaus | [Read More](https://medium.com/p/8a917d27a643) |
+| Tue, 17 Feb 2026 18:19:43 GMT | Security Ticketing (Cybrary Lab) | Abdul Moeez Siddiqui | [Read More](https://medium.com/p/3ff93adc8b90) |
+| Tue, 17 Feb 2026 18:17:02 GMT | Stop Cloud Drive Leaks With Simple DLP Rules | Geoffrey Wenger | [Read More](https://medium.com/p/74499bdc5704) |
+| Tue, 17 Feb 2026 18:17:01 GMT | Audits in Depth: What a Serious Web3 Audit Actually Looks Like | Exploitless | [Read More](https://medium.com/p/dc2f8970fd08) |
+| Tue, 17 Feb 2026 18:13:17 GMT | Introducing ExitBox: Run AI Coding Agents in Complete Isolation | Cloud Exit | [Read More](https://medium.com/p/6013fb5bdd06) |
+| Tue, 17 Feb 2026 18:10:11 GMT | Steam Deck Hit by RAM Crisis, Apple Tests Secure RCS, and Mistral Buys a Cloud - The Daily Tech… | Souren Stepanyan | [Read More](https://medium.com/p/19aedf2de97d) |
+| Tue, 17 Feb 2026 18:10:10 GMT | CYBERDUDEBIVASH Top Tricks to Effectively Analyse a Rust-Based Malware | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/0049bd1274fd) |
+| Tue, 17 Feb 2026 18:06:24 GMT | Dialectica Project Request Q&A — 2/17/2026 | Bob Malin | [Read More](https://medium.com/p/0e79d5cda76b) |
+| Tue, 17 Feb 2026 18:02:29 GMT | When AI Defense Becomes a Security Leak: The Verbose Refusal | David Park | [Read More](https://medium.com/p/94d9b39a4013) |
+| Tue, 17 Feb 2026 17:59:06 GMT | Spring Boot Rate Limiting: Protect Your APIs from Abuse & DDoS | CodeTalks | [Read More](https://medium.com/p/6dcf5a5974ff) |
+| Tue, 17 Feb 2026 17:57:29 GMT | Burp Suite Certified Practitioner (BSCP) Çalışma Sürecim | Yiğit Şengezer | [Read More](https://medium.com/p/f0e222c57c97) |
 | Tue, 17 Feb 2026 17:49:12 GMT | AI Agent: EthoGPT Red-Teaming AI Just Got A Smart Strategic Upgrade | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/54f046871f99) |
 | Tue, 17 Feb 2026 17:48:49 GMT | Refund Without Ownership Verification: A Hidden Business Logic Risk | Elia carlos | [Read More](https://medium.com/p/b16f7cb2a1a4) |
 | Tue, 17 Feb 2026 17:48:49 GMT | IT Certifications That Actually Matter | CodeZen | [Read More](https://medium.com/p/6f1a6568a3c2) |
@@ -23,6 +40,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Feb 2026 17:41:56 GMT | Luminar Network: The Unified AI Layer for Visual Intelligence | LuminarNetwork | [Read More](https://medium.com/p/52d76950cc2e) |
 | Tue, 17 Feb 2026 17:41:30 GMT | Network Traffic Analysis & Detection Project | Srinija Puvvula | [Read More](https://medium.com/p/ac4ee41258f0) |
 | Tue, 17 Feb 2026 17:40:34 GMT | Installing & Configuring NXLog Agents: A Complete Guide to Service Setup | Amit Ambekar | [Read More](https://medium.com/p/ee7ae3820cc2) |
+| Tue, 17 Feb 2026 17:37:18 GMT | Document version control is critical for growing businesses. | Jane Brian | [Read More](https://medium.com/p/ea6a7a4e4dab) |
 | Tue, 17 Feb 2026 17:34:15 GMT | Simple CTF Walkthrough (TryHackMe) | Mrittika Debnath | [Read More](https://medium.com/p/bbac84c9d142) |
 | Tue, 17 Feb 2026 17:31:45 GMT | Security by Design Principle 7: Why Zero Trust Must Continue After Login and How Rainbow Secure… | Dr. Shashi Karhail | [Read More](https://medium.com/p/713340c8a2b7) |
 | Tue, 17 Feb 2026 17:31:30 GMT | THM — Hidden Deep In My Heart | Dfaults | [Read More](https://medium.com/p/e33607e7fc16) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Feb 2026 13:54:21 GMT | Open HTTP RedirectVulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/a0b3fb10a46e) |
 | Tue, 17 Feb 2026 13:54:16 GMT | The Fragility of Modern DevOps: A 2026 CI/CD Exposure Report | Eldor Zufarov | [Read More](https://medium.com/p/8eb2e22f43ca) |
 | Tue, 17 Feb 2026 13:53:48 GMT | Microsoft Purview eDiscovery (Standard vs Premium): a hierarchical, end‑to‑end guide | Ahmed Monsri | [Read More](https://medium.com/p/e3f270d66ee0) |
-| Tue, 17 Feb 2026 13:50:24 GMT | Yeşil Rozetin Ötesi: Yazılım Tedarik Zincirinde Güvenlik ve “Verified Commit” Mimarisi | azmicankaradas | [Read More](https://medium.com/p/54ed26c85a53) |
-| Tue, 17 Feb 2026 13:41:01 GMT | How to Overcome Insecurity: 6 Proven Strategies for Emotional Security | anni | [Read More](https://medium.com/p/09f67f07cf8a) |
-| Tue, 17 Feb 2026 13:30:21 GMT | Step Into the Future of Cyber Security with AI! | Molletibalu | [Read More](https://medium.com/p/4ae49c24c03a) |
-| Tue, 17 Feb 2026 13:21:00 GMT | This is How I Started My Learning of Cryptography. | Vikas Taank | [Read More](https://medium.com/p/0266713398e3) |
-| Tue, 17 Feb 2026 13:20:12 GMT | Decrypting MultiDesk Passwords | Luke Paris | [Read More](https://medium.com/p/58af8ad274b3) |
-| Tue, 17 Feb 2026 13:19:15 GMT | SQL Injection in 2026? Yes. And It Took One Apostrophe. | sudo uday | [Read More](https://medium.com/p/39fed99c4ce3) |
-| Tue, 17 Feb 2026 13:15:00 GMT | TryHackMe — Agent Sudo full walkthrough - A Story of User-Agent Tricks and a Dangerous Sudo Bypass | Arun1x | [Read More](https://medium.com/p/997e9625938b) |
-| Tue, 17 Feb 2026 13:11:29 GMT | I Spent Most of My Life Trying to Deserve Love | Kompunt Jindawat | [Read More](https://medium.com/p/dcae53a46d2f) |
-| Tue, 17 Feb 2026 13:07:19 GMT | How I Escalated Privileges from “User” to “Admin” | Saurabh sanmane | [Read More](https://medium.com/p/0e6aa72274fc) |
-| Tue, 17 Feb 2026 13:06:00 GMT | When Life Pauses Us: Choosing Courage Over Withdrawal | Emberhart | [Read More](https://medium.com/p/137be1218d42) |
-| Tue, 17 Feb 2026 13:01:32 GMT | Blind SSRF via XST — How a Simple Misconfiguration Can Lead to Serious Impact | Pujitha Guntumadugu | [Read More](https://medium.com/p/ee23f8d3717a) |
-| Tue, 17 Feb 2026 13:01:01 GMT | Your Agent Isn’t Safe If You Can’t Replay It | Thinking Loop | [Read More](https://medium.com/p/2013ecd69c30) |
-| Tue, 17 Feb 2026 13:01:01 GMT | Audit Logs That Save You in Agent Incidents | Quaxel | [Read More](https://medium.com/p/8d39b95bea22) |
-| Tue, 17 Feb 2026 13:01:01 GMT | Kable Academy Cybersecurity & CompTIA Security+ Bootcamp Review | Rich Chen | [Read More](https://medium.com/p/9a9057b3faab) |
-| Tue, 17 Feb 2026 13:01:00 GMT | Coding Temple Cybersecurity & CompTIA Security+ Bootcamp Review | Rich Chen | [Read More](https://medium.com/p/8ebaaec13371) |
-| Tue, 17 Feb 2026 13:00:18 GMT | Perkenalkan, nama saya Lovind Luthfan Hakeem Firdaus. | Lovindfirdaus | [Read More](https://medium.com/p/9820ac6eb97b) |
-| Tue, 17 Feb 2026 12:59:51 GMT | 7 Common AI Risk Assessment Mistakes Enterprises Make | Shiva Remala | [Read More](https://medium.com/p/eb08173691d2) |
-| Tue, 17 Feb 2026 12:57:14 GMT | Lazer Noturno em 2026: O Que Escolhem os Millennials e a Geração Z? | Dasza - Gamerka i blogerka | [Read More](https://medium.com/p/7223c8732687) |
