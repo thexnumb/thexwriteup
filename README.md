@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Feb 2026 07:59:54 GMT | HashCracker: A Multi-Threaded Password Recovery Tool Written in Python | Ajay kumar | [Read More](https://medium.com/p/39003eb39c4a) |
+| Tue, 17 Feb 2026 07:41:06 GMT | CupidBot-THM | 0x77 | [Read More](https://medium.com/p/7fa6fccfb357) |
+| Tue, 17 Feb 2026 07:40:21 GMT | Arizona Online Cybersecurity Associate Degree: 2026 Guide to Cost, Schools & Careers | Ayesha Bashir | [Read More](https://medium.com/p/343551500a28) |
+| Tue, 17 Feb 2026 07:40:15 GMT | What OpenClaw’s Security Disasters Teach Us About the Future of AI Agents | Mthamil | [Read More](https://medium.com/p/ddd89e4228ec) |
+| Tue, 17 Feb 2026 07:36:40 GMT | Full Guide to BPF Firewalls: XDP, tc, and eBPF Integration | Majidbasharat | [Read More](https://medium.com/p/81951f19354b) |
+| Tue, 17 Feb 2026 07:35:00 GMT | Introduction to Digital Forensic | Jubyjeanuby | [Read More](https://medium.com/p/9863a2542e8f) |
+| Tue, 17 Feb 2026 07:31:53 GMT | How I Make 2 Lakhs+ as a Software Engineer in Nepal with AI | Nikesh Kazi | [Read More](https://medium.com/p/681f0177b762) |
+| Tue, 17 Feb 2026 07:30:13 GMT | The “IDOR”: From Manual Tampering to Bug Bounty Gold | Cynox Security LLP. | [Read More](https://medium.com/p/62212570edbc) |
+| Tue, 17 Feb 2026 07:28:47 GMT | Using a GraphQL introspection query to apply any discount to any user | Belal | [Read More](https://medium.com/p/246e91912b64) |
+| Tue, 17 Feb 2026 07:25:00 GMT | The $0 Security Audit That Saved My Production Auth System | Maobugichi | [Read More](https://medium.com/p/295e7870ee7f) |
+| Tue, 17 Feb 2026 07:22:18 GMT | How Look alike Links and Small Tricks Are Quietly Scamming the Internet | Yash Santosh More | [Read More](https://medium.com/p/1a64d9f4305b) |
+| Tue, 17 Feb 2026 07:22:06 GMT | Identity as Infrastructure: Why Delegating Authentication Just Makes Architectural Sense | Kjetil | [Read More](https://medium.com/p/47644b3f4207) |
+| Tue, 17 Feb 2026 07:18:36 GMT | Common Root Causes Identified During Security Incident Investigations | Divya Trivedi | [Read More](https://medium.com/p/a10b3bf8120c) |
+| Tue, 17 Feb 2026 07:13:03 GMT | How Strong Is Tecno Pova Curve 2 5G Build Quality Design | Lamiya Islam | [Read More](https://medium.com/p/c302cb67fb61) |
 | Tue, 17 Feb 2026 06:57:21 GMT | ISO 27001 in the real world: it’s not an “IT project” — it’s renovating your house while the family… | Denny Roger | [Read More](https://medium.com/p/43944b51738e) |
 | Tue, 17 Feb 2026 06:56:34 GMT | Allied Boston Key Recognition in Cybersecurity Excellence - Secure n Comply | Secure n Comply | [Read More](https://medium.com/p/38aa5f913313) |
 | Tue, 17 Feb 2026 06:55:31 GMT | Public Wi-Fi Risks Explained Simply | Lucas Brown | [Read More](https://medium.com/p/522472b1b9d8) |
@@ -25,6 +39,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Feb 2026 06:28:01 GMT | Hacking in 2026: What Beginners Should Actually Learn | Vaibhav Kubade | [Read More](https://medium.com/p/f4b16a4b861e) |
 | Tue, 17 Feb 2026 06:19:43 GMT | Understanding Adversary-in-the-Middle (AiTM) Phishing Attacks | Dulitha Wickramasinghe | [Read More](https://medium.com/p/53391e1d0412) |
 | Tue, 17 Feb 2026 06:17:31 GMT | Why Password Length Matters More Than Complexity | Abuubakar | [Read More](https://medium.com/p/e8da2b121ae4) |
+| Tue, 17 Feb 2026 06:16:38 GMT | Security at Machine Speed: Cybersecurity Trends Defining 2026 | infosprint technologies | [Read More](https://medium.com/p/f3c3e1c870cc) |
 | Tue, 17 Feb 2026 06:08:05 GMT | Your password manager’s ‘zero knowledge’ promise is broken | JP Caparas | [Read More](https://medium.com/p/f4a4c581c4ab) |
 | Tue, 17 Feb 2026 05:52:26 GMT | Stop Killing Your Mac: 10 Apps You Should NEVER Install | Zeeshan Saghir | [Read More](https://medium.com/p/5dcc3d83e73b) |
 | Tue, 17 Feb 2026 05:50:15 GMT | Cookie Tossing : Escalating Low impact XSS into Criticals | TheCzar | [Read More](https://medium.com/p/e29a0a668a74) |
@@ -95,20 +110,5 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Feb 2026 21:34:11 GMT | Why We Built a Moral Blockchain: The TML Architecture Overview. | Lev Goukassian | [Read More](https://medium.com/p/60569110d798) |
 | Mon, 16 Feb 2026 21:32:19 GMT | Before We Build More AI Governance Tools, We Need to Agree on What “AI Governance” Means | Edward Meyman | [Read More](https://medium.com/p/50acaf7ccb80) |
 | Mon, 16 Feb 2026 21:28:17 GMT | Hacker’ın Haritası: OSI Modelinin 7 Katmanında Ustalaşmak | EMRE KESEBİR | [Read More](https://medium.com/p/d353d751aa1e) |
+| Mon, 16 Feb 2026 21:21:10 GMT | ⚠️ Hati-hati Saat Klik ‘I’m Not a Robot’: Bedah Taktik Licik Malware Lumma Stealer di Balik Fake… | razzee | [Read More](https://medium.com/p/5781d75976ff) |
 | Mon, 16 Feb 2026 21:19:06 GMT | Simulating T1003.001: How To Detect LSASS Access with Sysmon and Splunk | Melchizedek Anyonje | [Read More](https://medium.com/p/27e5040f4c3e) |
-| Mon, 16 Feb 2026 21:12:14 GMT | The Science of Digital Trust | BlockchainBard | [Read More](https://medium.com/p/07b0385e08b7) |
-| Mon, 16 Feb 2026 21:09:37 GMT | Session Hijacking’in Anatomisi: Cookie Theft ile 2FA Nasıl Atlatılır? | isaergisi | [Read More](https://medium.com/p/35f316b1b3e4) |
-| Mon, 16 Feb 2026 21:01:09 GMT | HIRE SWIFT FOX CODER TO HELP YOU RECOVER YOUR LOST ASSETS AND MORE | Easton Wright | [Read More](https://medium.com/p/e5d407abacf4) |
-| Mon, 16 Feb 2026 21:01:01 GMT | Safer Filesystem Tools for AI Agents Using MCP and S3 | Luna | [Read More](https://medium.com/p/6dd5693d69a5) |
-| Mon, 16 Feb 2026 20:57:25 GMT | Entegrasyon Öncesi OIDC ve OAuth 2.0 Akışlarını Doğru Anlamak | Emre Onur | [Read More](https://medium.com/p/fc58534df793) |
-| Mon, 16 Feb 2026 20:57:21 GMT | If AI Can Audit Smart Contracts, Why Do We Still Need Human Auditors? | Abraham | [Read More](https://medium.com/p/9c1cef3f7212) |
-| Mon, 16 Feb 2026 20:52:26 GMT | SOCFortress CoPilot Docs Are Live: How to Get Value Fast | SOCFortress | [Read More](https://medium.com/p/46d179b40518) |
-| Mon, 16 Feb 2026 20:50:47 GMT | 404 Not Found Səhifəsini Necə Təhlükəsizlik Boşluğuna Çevirdim? | SilverXCyber | [Read More](https://medium.com/p/4547709017c6) |
-| Mon, 16 Feb 2026 20:43:18 GMT | Best IPTV for Firestick in USA — Complete 2026 Guide | Deiptv.ink | [Read More](https://medium.com/p/87fb593c4a94) |
-| Mon, 16 Feb 2026 20:43:12 GMT | Try Hack Me- OverlayFS CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/f9da2d89f13c) |
-| Mon, 16 Feb 2026 20:39:48 GMT | INE-Assessment Methodologies: Enumeration CTF 1 | Singkhon K | [Read More](https://medium.com/p/0d0254006c10) |
-| Mon, 16 Feb 2026 20:18:15 GMT | Security System | Eddie Brock | [Read More](https://medium.com/p/29e50e4f7c4a) |
-| Mon, 16 Feb 2026 20:10:33 GMT | From Raw LLM Calls to Trusted Outputs: How ShivAISecurity Transforms AI Risk into Controlled… | Amit Patriwala | [Read More](https://medium.com/p/909050e73e2c) |
-| Mon, 16 Feb 2026 20:07:51 GMT | Why Agentic AI Is the New Malware Surface: Inside the 18K Exposed OpenClaw Instances | Sebastian Buzdugan | [Read More](https://medium.com/p/76883f60ff54) |
-| Mon, 16 Feb 2026 20:06:00 GMT | From OWASP Top 10 for LLMs to CI/CD: Securing AI Systems at Build Time | Alejandro Aucestovar | [Read More](https://medium.com/p/1dce225cb9c0) |
-| Mon, 16 Feb 2026 20:05:24 GMT | Exploiting Organisation Wildcards in OIDC Trust Policies | Sadi Zane | [Read More](https://medium.com/p/a98eda04fb46) |
