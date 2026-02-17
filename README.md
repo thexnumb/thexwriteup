@@ -12,9 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Feb 2026 16:23:54 GMT | Membongkar Modus Fake CAPTCHA: Analisis Serangan Lumma Stealer dengan Cyber Kill Chain | Nazwass | [Read More](https://medium.com/p/9c68e5151a16) |
+| Tue, 17 Feb 2026 16:17:46 GMT | Compliance Is Not Assurance | Peter Hillier/Halton | [Read More](https://medium.com/p/dd51eaee2b19) |
+| Tue, 17 Feb 2026 16:11:54 GMT | Anatomy of a Silent Thief: Dissecting Lumma Stealer using Cyber Kill Chain | Qurrotul A'ini | [Read More](https://medium.com/p/e2c3c52be0bf) |
+| Tue, 17 Feb 2026 16:05:57 GMT | Do we need the TSA anymore? | Christopher Elliott | [Read More](https://medium.com/p/ea7190f7dc4d) |
+| Tue, 17 Feb 2026 16:04:16 GMT | The Death of Trust: Why Your Most Vulnerable API is Your Identity | Ademola Isimeme "AI" Odewade | [Read More](https://medium.com/p/53c2f7bd7a5e) |
+| Tue, 17 Feb 2026 16:00:18 GMT | Kenobi - THM | Ali M Abdo | [Read More](https://medium.com/p/216ecc71905d) |
+| Tue, 17 Feb 2026 15:58:33 GMT | Executor Workflows Made Practical: Step-by-Step Instructions and Controlled Access with InheritSafe | InheritSafe | [Read More](https://medium.com/p/beb7720c9bad) |
+| Tue, 17 Feb 2026 15:57:45 GMT | The Silent Intruder: Why No One is Safe from Call Tapping (And What You Must Do Now) | Suleiman Musa Abdullahi | [Read More](https://medium.com/p/76490a5c58c8) |
+| Tue, 17 Feb 2026 15:57:06 GMT | Introduction to Digital Forensics: Basic Linux Commands | Dixtroiza | [Read More](https://medium.com/p/fe95953eeec1) |
+| Tue, 17 Feb 2026 15:53:36 GMT | What is Red Teaming? | Cynox Security LLP. | [Read More](https://medium.com/p/be91ef21c5ff) |
+| Tue, 17 Feb 2026 15:50:16 GMT | Digital Workplace Security Considerations: Protecting Your Organization in the Modern Era | Fospertise | [Read More](https://medium.com/p/1f03afc79023) |
+| Tue, 17 Feb 2026 15:48:49 GMT | I Spent Most of My Life Trying to Deserve Love | Kompunt Jindawat | [Read More](https://medium.com/p/18580a8f2cc4) |
+| Tue, 17 Feb 2026 15:48:24 GMT | Why Compromising on Cyber Security may cost you your business | Avadh Security | [Read More](https://medium.com/p/93d1e67875d1) |
+| Tue, 17 Feb 2026 15:48:03 GMT | The Email Problem That’s Blocking the AI Revolution (And a Simple Fix) | Micheal Bee | [Read More](https://medium.com/p/e175d3b6905a) |
+| Tue, 17 Feb 2026 15:46:00 GMT | The 90-Day Disruption Dividend: How Intel-Led Hunting Reduces Dwell Time Without a Massive SOC | Wes Young | [Read More](https://medium.com/p/38da6810fb18) |
+| Tue, 17 Feb 2026 15:44:33 GMT | Data Governance Automation for SecOps Teams: Enhancing Efficiency and Security | Digital Defense | [Read More](https://medium.com/p/9bcae6e9a0c0) |
+| Tue, 17 Feb 2026 15:34:58 GMT | Build Shannon AI Hacker in Python: Automate Vulnerability Hunting (GitHub’s Fastest-Rising Security… | Er.Muruganantham | [Read More](https://medium.com/p/5ade8791abb2) |
+| Tue, 17 Feb 2026 15:31:31 GMT | Why I Still Try to Figure Things Out Alone | Nora James Li | [Read More](https://medium.com/p/4721f4966760) |
+| Tue, 17 Feb 2026 15:31:00 GMT | 11 Tool Contract Details That Turn Agents Into Safe Automations | Syntal | [Read More](https://medium.com/p/aae011282428) |
+| Tue, 17 Feb 2026 15:30:04 GMT | Your API Tests Are Lying to You, The Schema Drift Problem Nobody Talks About | tanvi mittal | [Read More](https://medium.com/p/f64bc445a5ee) |
 | Tue, 17 Feb 2026 15:18:28 GMT | The Danger: How Stuxnet Changed Cybersecurity Forever | Grace Jaman | [Read More](https://medium.com/p/50a6dfd281d6) |
 | Tue, 17 Feb 2026 15:17:43 GMT | Why Biometric Data Is More Dangerous Than Financial Data | Migdad latif Shaw | [Read More](https://medium.com/p/e91899af4074) |
 | Tue, 17 Feb 2026 15:15:17 GMT | Why fighting the WAF is sometimes the wrong move: A lesson in DOM XSS | Alensarangsatheesh | [Read More](https://medium.com/p/a3ecb40cc587) |
+| Tue, 17 Feb 2026 15:15:11 GMT | Types of CCTV Cameras for Home and Business Use | AlexBryn | [Read More](https://medium.com/p/02fc2f1889a7) |
 | Tue, 17 Feb 2026 15:14:52 GMT | I killed a mother centipede today. | Teya. | [Read More](https://medium.com/p/996303b3871f) |
 | Tue, 17 Feb 2026 15:12:37 GMT | Introduction to Digital Forensics — Lab 01 | Annisa Eka Putri | [Read More](https://medium.com/p/4ec80569c0c2) |
 | Tue, 17 Feb 2026 15:10:58 GMT | Introduction to Digital Forensics — Lab 01 | Yrddry | [Read More](https://medium.com/p/b637db54eec2) |
@@ -92,24 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Feb 2026 11:31:01 GMT | Tool Evals Passed. Here’s How It Can Still Be Unsafe. | Velorum | [Read More](https://medium.com/p/54649f6547f1) |
 | Tue, 17 Feb 2026 11:31:00 GMT | Next-Gen Cybersecurity in an AI World: How Intelligent Systems are Defeating Modern Cyber Threats | Kastab Garai | [Read More](https://medium.com/p/b6af4953efa8) |
 | Tue, 17 Feb 2026 11:21:00 GMT | Two-Factor Authentication on WordPress — Why and How | Anthony Chaffey | [Read More](https://medium.com/p/5aa296ab7dc8) |
-| Tue, 17 Feb 2026 11:20:59 GMT | Nepal–Japan IT Forum 2025 — Tokyo Edition (JP) | Anish Shrestha | [Read More](https://medium.com/p/f211b8d6de67) |
-| Tue, 17 Feb 2026 11:20:32 GMT | Hacker Etik Anlayışı: Gri Bölgelerde Doğruyu Bulmak | Attila453 | [Read More](https://medium.com/p/f7584b53283e) |
-| Tue, 17 Feb 2026 11:17:34 GMT | WARD: Securing the Line of Fire with Blockchain and AI | Aamerkhan | [Read More](https://medium.com/p/07b05ca71694) |
-| Tue, 17 Feb 2026 11:17:27 GMT | OpenClaw: The Moment “Personal Agents” Stopped Being a Hobby | ABV | [Read More](https://medium.com/p/2dceb7a4fbcc) |
-| Tue, 17 Feb 2026 11:16:29 GMT | Phishing Attack Simulation in Microsoft Defender: Key Considerations Before You Click “Launch” | Defend Microsoft365 now! | [Read More](https://medium.com/p/8e92de39f8d8) |
-| Tue, 17 Feb 2026 11:08:17 GMT | From Learning to Splitting “alert”: My Accidental Self-XSS Story | Harsha Vardhan | [Read More](https://medium.com/p/562a4462c3d0) |
-| Tue, 17 Feb 2026 11:07:31 GMT | Why Victor Peng Is More Important Than Musk and Altman Combined | Gracie ‘Potter’ Daniel (GhG) | [Read More](https://medium.com/p/6e69e07a16e5) |
-| Tue, 17 Feb 2026 11:02:06 GMT | How to Build a Hack-Proof Personal Brand Online | Palak Talwar | [Read More](https://medium.com/p/4720386dedc7) |
-| Tue, 17 Feb 2026 11:01:57 GMT | 30 Years of Century Solutions Group in IT Services | Century Solutions Group | [Read More](https://medium.com/p/87baaa9d7267) |
-| Tue, 17 Feb 2026 10:59:40 GMT | CYBERCOM 2.0 Is a Transformation Program Hiding in Plain Sight | Tamas Pilisko | [Read More](https://medium.com/p/c26a1b04d558) |
-| Tue, 17 Feb 2026 10:57:34 GMT | CYBERCOM 2.0 Explained: The Operating Model Behind Cyber Readiness and Mastery | Tamas Pilisko | [Read More](https://medium.com/p/a6135c7269ee) |
-| Tue, 17 Feb 2026 10:55:50 GMT | Google Chrome’da Alarm: Zero-Day Açıkları ve Sahte AI Uzantıları Aynı Anda Sahnede! | Hasancangozgec | [Read More](https://medium.com/p/1b433720e112) |
-| Tue, 17 Feb 2026 10:54:05 GMT | cve-2024–46507_AttackWalkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/c6ca65d6cbc3) |
-| Tue, 17 Feb 2026 10:53:19 GMT | Best End-User Support Services in India - Help Desk Services | Thiripathiv | [Read More](https://medium.com/p/34eac21aa7af) |
-| Tue, 17 Feb 2026 10:44:13 GMT | Top 15 Website Security Mistakes That Get Sites Hacked | 0xSmit | [Read More](https://medium.com/p/79f5ff4c27df) |
-| Tue, 17 Feb 2026 10:43:49 GMT | What is Virtualization ? | Ankanbiswasintership | [Read More](https://medium.com/p/2f0a9a97a3ee) |
-| Tue, 17 Feb 2026 10:41:25 GMT | How Managed IT Services Improve Business Productivity and Security | The MIT Pro | [Read More](https://medium.com/p/f7725cb6989b) |
-| Tue, 17 Feb 2026 10:37:50 GMT | The Ultimate ChatGPT Bug Bounty Guide: Every Prompt You Need to Find P1 Vulnerabilities — From… | BugHunter’s Journal | [Read More](https://medium.com/p/047142ef021b) |
-| Tue, 17 Feb 2026 10:36:05 GMT | A Guide to Data Security and Compliance Regulations | HawkShield | [Read More](https://medium.com/p/3c675da6e342) |
-| Tue, 17 Feb 2026 10:33:41 GMT | Is Your Security Team Overwhelmed? You Need This | Redfox Security | [Read More](https://medium.com/p/b7bd0a9951ce) |
-| Tue, 17 Feb 2026 10:27:54 GMT | Your Penetration Test Report Just Landed. Read This Before You Panic. | Dawid Makowski | [Read More](https://medium.com/p/202663f69a38) |
