@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Feb 2026 21:34:52 GMT | Your 10 Vulnerabilities When You Install OpenClaw | Volodymyr Golosay | [Read More](https://medium.com/p/cc99a7c9eea0) |
+| Tue, 17 Feb 2026 21:32:52 GMT | Security Roadmaps That Look Good But Don’t Stop Attacks | JSOC IT BLOG | [Read More](https://medium.com/p/7313c3a0b894) |
+| Tue, 17 Feb 2026 21:29:03 GMT | We built SecPortal to eliminate the biggest bottleneck in security operations | Mert Satilmaz | [Read More](https://medium.com/p/24535e46e928) |
+| Tue, 17 Feb 2026 21:25:26 GMT | IPv4 Şəbəkələşdirmə üzrə Hesabat | Cavidtaqiyev | [Read More](https://medium.com/p/ea4bccf9ce3e) |
+| Tue, 17 Feb 2026 21:20:53 GMT | Publisher — TryHackMe | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/1b081ecb1dac) |
+| Tue, 17 Feb 2026 21:18:22 GMT | Phishing Attacks: The Silent Cyber Weapon That Steals Your Life in Minutes. | Mrinal Kumar Chandra | [Read More](https://medium.com/p/86000744e885) |
+| Tue, 17 Feb 2026 21:10:39 GMT | THM - Valenfind | Francesco Pastore | [Read More](https://medium.com/p/67bb939313f6) |
+| Tue, 17 Feb 2026 21:09:48 GMT | Cyber Defenders: GrabThePhisher Lab Walhkthrogh | Omar Sherif | [Read More](https://medium.com/p/df2aae2c3a3a) |
+| Tue, 17 Feb 2026 21:07:16 GMT | THM - Signed Messages | Francesco Pastore | [Read More](https://medium.com/p/709904ab1cf5) |
+| Tue, 17 Feb 2026 21:00:51 GMT | Why Cybersecurity has become a driver of Innovation, not a barrier | 6pri1 | [Read More](https://medium.com/p/1115937e9ee8) |
+| Tue, 17 Feb 2026 20:57:13 GMT | Anatomy of a Targeted AiTM Attack: 7 Hops, Fake Defender, and a Singing Canary | Daniel K | [Read More](https://medium.com/p/fd29fa2e4556) |
+| Tue, 17 Feb 2026 20:53:18 GMT | Back to Basics III: Understanding Sigma and YARA rules | Hariharan | [Read More](https://medium.com/p/bef1d0e90929) |
+| Tue, 17 Feb 2026 20:49:14 GMT | Path Traversal Vulnerability and Attack Techniques | Achraf Nouri | [Read More](https://medium.com/p/08ad2965dff7) |
+| Tue, 17 Feb 2026 20:48:11 GMT | The AWS Feature That Changes How You Debug AccessDenied | Elad hirsch | [Read More](https://medium.com/p/30bcef4e0f6e) |
 | Tue, 17 Feb 2026 20:37:41 GMT | Stop Painting Over Rust: Why “Secure by Design” is the Only Way Forward | Yusif Alizade | [Read More](https://medium.com/p/9a1bf3a14969) |
 | Tue, 17 Feb 2026 20:35:29 GMT | OpenClaw Is Not a Chatbot. It Is a Prototype of the Next Operating System | Faisal Feroz | [Read More](https://medium.com/p/3332b88a0ab4) |
 | Tue, 17 Feb 2026 20:34:44 GMT | The “God Mode” Problem: Why Least Privilege is Your Best Defense | Yusif Alizade | [Read More](https://medium.com/p/4f6bfa2bc0d3) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Feb 2026 15:50:16 GMT | Digital Workplace Security Considerations: Protecting Your Organization in the Modern Era | Fospertise | [Read More](https://medium.com/p/1f03afc79023) |
 | Tue, 17 Feb 2026 15:48:49 GMT | I Spent Most of My Life Trying to Deserve Love | Kompunt Jindawat | [Read More](https://medium.com/p/18580a8f2cc4) |
 | Tue, 17 Feb 2026 15:48:24 GMT | Why Compromising on Cyber Security may cost you your business | Avadh Security | [Read More](https://medium.com/p/93d1e67875d1) |
-| Tue, 17 Feb 2026 15:48:03 GMT | The Email Problem That’s Blocking the AI Revolution (And a Simple Fix) | Micheal Bee | [Read More](https://medium.com/p/e175d3b6905a) |
-| Tue, 17 Feb 2026 15:46:00 GMT | The 90-Day Disruption Dividend: How Intel-Led Hunting Reduces Dwell Time Without a Massive SOC | Wes Young | [Read More](https://medium.com/p/38da6810fb18) |
-| Tue, 17 Feb 2026 15:44:33 GMT | Data Governance Automation for SecOps Teams: Enhancing Efficiency and Security | Digital Defense | [Read More](https://medium.com/p/9bcae6e9a0c0) |
-| Tue, 17 Feb 2026 15:34:58 GMT | Build Shannon AI Hacker in Python: Automate Vulnerability Hunting (GitHub’s Fastest-Rising Security… | Er.Muruganantham | [Read More](https://medium.com/p/5ade8791abb2) |
-| Tue, 17 Feb 2026 15:31:31 GMT | Why I Still Try to Figure Things Out Alone | Nora James Li | [Read More](https://medium.com/p/4721f4966760) |
-| Tue, 17 Feb 2026 15:31:00 GMT | 11 Tool Contract Details That Turn Agents Into Safe Automations | Syntal | [Read More](https://medium.com/p/aae011282428) |
-| Tue, 17 Feb 2026 15:30:04 GMT | Your API Tests Are Lying to You, The Schema Drift Problem Nobody Talks About | tanvi mittal | [Read More](https://medium.com/p/f64bc445a5ee) |
-| Tue, 17 Feb 2026 15:18:28 GMT | The Danger: How Stuxnet Changed Cybersecurity Forever | Grace Jaman | [Read More](https://medium.com/p/50a6dfd281d6) |
-| Tue, 17 Feb 2026 15:17:43 GMT | Why Biometric Data Is More Dangerous Than Financial Data | Migdad latif Shaw | [Read More](https://medium.com/p/e91899af4074) |
-| Tue, 17 Feb 2026 15:15:17 GMT | Why fighting the WAF is sometimes the wrong move: A lesson in DOM XSS | Alensarangsatheesh | [Read More](https://medium.com/p/a3ecb40cc587) |
-| Tue, 17 Feb 2026 15:15:11 GMT | Types of CCTV Cameras for Home and Business Use | AlexBryn | [Read More](https://medium.com/p/02fc2f1889a7) |
-| Tue, 17 Feb 2026 15:14:52 GMT | I killed a mother centipede today. | Teya. | [Read More](https://medium.com/p/996303b3871f) |
-| Tue, 17 Feb 2026 15:12:37 GMT | Introduction to Digital Forensics — Lab 01 | Annisa Eka Putri | [Read More](https://medium.com/p/4ec80569c0c2) |
-| Tue, 17 Feb 2026 15:10:58 GMT | Introduction to Digital Forensics — Lab 01 | Yrddry | [Read More](https://medium.com/p/b637db54eec2) |
