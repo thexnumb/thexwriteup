@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 17 Feb 2026 13:15:00 GMT | TryHackMe — Agent Sudo full walkthrough - A Story of User-Agent Tricks and a Dangerous Sudo Bypass | Arun1x | [Read More](https://medium.com/p/997e9625938b) |
+| Tue, 17 Feb 2026 13:11:29 GMT | I Spent Most of My Life Trying to Deserve Love | Kompunt Jindawat | [Read More](https://medium.com/p/dcae53a46d2f) |
+| Tue, 17 Feb 2026 13:07:19 GMT | How I Escalated Privileges from “User” to “Admin” | Saurabh sanmane | [Read More](https://medium.com/p/0e6aa72274fc) |
+| Tue, 17 Feb 2026 13:06:00 GMT | When Life Pauses Us: Choosing Courage Over Withdrawal | Emberhart | [Read More](https://medium.com/p/137be1218d42) |
+| Tue, 17 Feb 2026 13:01:32 GMT | Blind SSRF via XST — How a Simple Misconfiguration Can Lead to Serious Impact | Pujitha Guntumadugu | [Read More](https://medium.com/p/ee23f8d3717a) |
+| Tue, 17 Feb 2026 13:01:01 GMT | Your Agent Isn’t Safe If You Can’t Replay It | Thinking Loop | [Read More](https://medium.com/p/2013ecd69c30) |
+| Tue, 17 Feb 2026 13:01:01 GMT | Audit Logs That Save You in Agent Incidents | Quaxel | [Read More](https://medium.com/p/8d39b95bea22) |
+| Tue, 17 Feb 2026 13:01:01 GMT | Kable Academy Cybersecurity & CompTIA Security+ Bootcamp Review | Rich Chen | [Read More](https://medium.com/p/9a9057b3faab) |
+| Tue, 17 Feb 2026 13:01:00 GMT | Coding Temple Cybersecurity & CompTIA Security+ Bootcamp Review | Rich Chen | [Read More](https://medium.com/p/8ebaaec13371) |
+| Tue, 17 Feb 2026 13:00:18 GMT | Perkenalkan, nama saya Lovind Luthfan Hakeem Firdaus. | Lovindfirdaus | [Read More](https://medium.com/p/9820ac6eb97b) |
+| Tue, 17 Feb 2026 12:59:51 GMT | 7 Common AI Risk Assessment Mistakes Enterprises Make | Shiva Remala | [Read More](https://medium.com/p/eb08173691d2) |
+| Tue, 17 Feb 2026 12:56:51 GMT | Understanding Access Control: A Guide for Developers | p1k4chu | [Read More](https://medium.com/p/be06947c334a) |
+| Tue, 17 Feb 2026 12:54:17 GMT | Deploy Your Own WireGuard VPN Server: A Step-by-Step Security Guide | Emilyharbord | [Read More](https://medium.com/p/480ac083e5ce) |
+| Tue, 17 Feb 2026 12:53:42 GMT | So Who Are Hackers Mostly and What Are Their Motivations? | David SEHYEON Baek | [Read More](https://medium.com/p/6ac3550e2a2e) |
+| Tue, 17 Feb 2026 12:50:28 GMT | The Complete Guide to Management: From Fundamentals to IT Excellence | Chaimaa Bahjaji | [Read More](https://medium.com/p/2373c47f71ec) |
+| Tue, 17 Feb 2026 12:47:05 GMT | One of the most dangerous and well-known vulnerabilities in the world of cybersecurity is:
+ SQL… | Issa | [Read More](https://medium.com/p/cbddb37cd32a) |
+| Tue, 17 Feb 2026 12:47:05 GMT | CONCEPT OF VIRTUALIZATION | Chandradipsaha | [Read More](https://medium.com/p/ac671e0bd926) |
+| Tue, 17 Feb 2026 12:45:09 GMT | Galaxy Dash (XSS) (Medium) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/dc1a104fab9c) |
+| Tue, 17 Feb 2026 12:35:56 GMT | Light (TryHackMe) — Breaking a Filtered SQLite Login with Structured SQL Injection | Roshan Rajbanshi | [Read More](https://medium.com/p/3334af82503a) |
+| Tue, 17 Feb 2026 12:31:01 GMT | React Can’t Save You: How SSR Bypasses Your XSS Filters | Vamsi Krishna Kodimela | [Read More](https://medium.com/p/7e20637d88cc) |
+| Tue, 17 Feb 2026 12:26:32 GMT | Biometric Survey Services: The Future of Secure Identity Verification | Technolandsurvey | [Read More](https://medium.com/p/83ac051bf2da) |
+| Tue, 17 Feb 2026 12:12:02 GMT | Live Webinar: 2026 Cyber Resilience Predictions: Recovery Is The New Target | NAKIVO | [Read More](https://medium.com/p/b4714e143f8a) |
 | Tue, 17 Feb 2026 11:54:15 GMT | Palo Alto Just Admitted What we’ve Known for a Decade: Nobody Can Run Security Alone | Thomas Patterson | [Read More](https://medium.com/p/6cb0c5bf8a6e) |
 | Tue, 17 Feb 2026 11:49:01 GMT | How Does IT Support Improve Business Efficiency? | Rx Technology | [Read More](https://medium.com/p/9b6a457d4a74) |
 | Tue, 17 Feb 2026 11:48:39 GMT | Building Sofia AI: A Security-First Multimodal Assistant with Google Gemini & Flask | Ajay kumar | [Read More](https://medium.com/p/01b42f0ef4b0) |
@@ -90,25 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Feb 2026 07:36:40 GMT | Full Guide to BPF Firewalls: XDP, tc, and eBPF Integration | Majidbasharat | [Read More](https://medium.com/p/81951f19354b) |
 | Tue, 17 Feb 2026 07:35:00 GMT | Introduction to Digital Forensic | Jubyjeanuby | [Read More](https://medium.com/p/9863a2542e8f) |
 | Tue, 17 Feb 2026 07:31:53 GMT | How I Make 2 Lakhs+ as a Software Engineer in Nepal with AI | Nikesh Kazi | [Read More](https://medium.com/p/681f0177b762) |
-| Tue, 17 Feb 2026 07:30:13 GMT | The “IDOR”: From Manual Tampering to Bug Bounty Gold | Cynox Security LLP. | [Read More](https://medium.com/p/62212570edbc) |
-| Tue, 17 Feb 2026 07:28:47 GMT | Using a GraphQL introspection query to apply any discount to any user | Belal | [Read More](https://medium.com/p/246e91912b64) |
-| Tue, 17 Feb 2026 07:25:00 GMT | The $0 Security Audit That Saved My Production Auth System | Maobugichi | [Read More](https://medium.com/p/295e7870ee7f) |
-| Tue, 17 Feb 2026 07:22:18 GMT | How Look alike Links and Small Tricks Are Quietly Scamming the Internet | Yash Santosh More | [Read More](https://medium.com/p/1a64d9f4305b) |
-| Tue, 17 Feb 2026 07:22:06 GMT | Identity as Infrastructure: Why Delegating Authentication Just Makes Architectural Sense | Kjetil | [Read More](https://medium.com/p/47644b3f4207) |
-| Tue, 17 Feb 2026 07:18:36 GMT | Common Root Causes Identified During Security Incident Investigations | Divya Trivedi | [Read More](https://medium.com/p/a10b3bf8120c) |
-| Tue, 17 Feb 2026 07:13:03 GMT | How Strong Is Tecno Pova Curve 2 5G Build Quality Design | Lamiya Islam | [Read More](https://medium.com/p/c302cb67fb61) |
-| Tue, 17 Feb 2026 06:57:21 GMT | ISO 27001 in the real world: it’s not an “IT project” — it’s renovating your house while the family… | Denny Roger | [Read More](https://medium.com/p/43944b51738e) |
-| Tue, 17 Feb 2026 06:56:34 GMT | Allied Boston Key Recognition in Cybersecurity Excellence - Secure n Comply | Secure n Comply | [Read More](https://medium.com/p/38aa5f913313) |
-| Tue, 17 Feb 2026 06:55:31 GMT | Public Wi-Fi Risks Explained Simply | Lucas Brown | [Read More](https://medium.com/p/522472b1b9d8) |
-| Tue, 17 Feb 2026 06:52:27 GMT | The Next Round of Layoffs Is Coming, and It’ll Be Brutal | Vijay Kumar Gupta | [Read More](https://medium.com/p/b7496a759cc4) |
-| Tue, 17 Feb 2026 06:49:12 GMT | Building a Production-Ready Malicious URL Detection System with Browser Extension and API Backend | Mani vidyadhar | [Read More](https://medium.com/p/a3c4d008ae28) |
-| Tue, 17 Feb 2026 06:46:23 GMT | Spies, Lies, and Cybercrime by Eric O’Neill: A Book Review | Amit Sharma | [Read More](https://medium.com/p/7f1182861e3d) |
-| Tue, 17 Feb 2026 06:45:05 GMT | CRAC Insights — 9th Feb — 16th Feb | CRAC Learning | [Read More](https://medium.com/p/79b7fa12a906) |
-| Tue, 17 Feb 2026 06:42:00 GMT | What Is Hyperlink Injection? Explained Simply | Abhinsubej | [Read More](https://medium.com/p/3784efbdff12) |
-| Tue, 17 Feb 2026 06:31:09 GMT | AI Deployment under PDPL: Compliance and Breach Response | Tsaaro Consulting | [Read More](https://medium.com/p/3365df7d6191) |
-| Tue, 17 Feb 2026 06:29:29 GMT | Cybersecurity for Law Firms: How to Secure Confidential Client Data and Avoid Costly Breaches | Qualysec Technologies | [Read More](https://medium.com/p/1099a5df6a0a) |
-| Tue, 17 Feb 2026 06:28:01 GMT | Hacking in 2026: What Beginners Should Actually Learn | Vaibhav Kubade | [Read More](https://medium.com/p/f4b16a4b861e) |
-| Tue, 17 Feb 2026 06:19:43 GMT | Understanding Adversary-in-the-Middle (AiTM) Phishing Attacks | Dulitha Wickramasinghe | [Read More](https://medium.com/p/53391e1d0412) |
-| Tue, 17 Feb 2026 06:17:31 GMT | Why Password Length Matters More Than Complexity | Abuubakar | [Read More](https://medium.com/p/e8da2b121ae4) |
-| Tue, 17 Feb 2026 06:16:38 GMT | Security at Machine Speed: Cybersecurity Trends Defining 2026 | infosprint technologies | [Read More](https://medium.com/p/f3c3e1c870cc) |
-| Tue, 17 Feb 2026 06:08:05 GMT | Your password manager’s ‘zero knowledge’ promise is broken | JP Caparas | [Read More](https://medium.com/p/f4a4c581c4ab) |
