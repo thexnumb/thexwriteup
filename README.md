@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Feb 2026 11:33:50 GMT | {Ethical Hacking} Things No-one will Teach You | Nolan Stark | [Read More](https://medium.com/p/3564e92c9be9) |
+| Wed, 18 Feb 2026 11:31:00 GMT | Microsoft’s Security Dashboard for AI: Visibility Is Not the Same as Control | Kmori | [Read More](https://medium.com/p/ae3b9debf67c) |
+| Wed, 18 Feb 2026 11:25:33 GMT | The Humility of the “Beginner’s Mind” | Paul | [Read More](https://medium.com/p/2b661f950835) |
+| Wed, 18 Feb 2026 11:23:56 GMT | Write up Inj3ction Time | Zulfianarahmi | [Read More](https://medium.com/p/18f73d306322) |
+| Wed, 18 Feb 2026 11:17:06 GMT | SOC — My Cybersecurity Journey Begins | Manish Dahal | [Read More](https://medium.com/p/a506facec6b1) |
+| Wed, 18 Feb 2026 11:09:14 GMT | I Tried Four Ways to Build RAG for Cybersecurity Data. Here’s What Actually Broke — and Why. | Bh | [Read More](https://medium.com/p/d70c6ac7578a) |
+| Wed, 18 Feb 2026 10:56:42 GMT | Fast and Professional Services by an East London Locksmith | The Lock Specialist Ltd | [Read More](https://medium.com/p/98e03b237160) |
+| Wed, 18 Feb 2026 10:54:03 GMT | 10 Python Hacks That Made Me Look Like a Cybersecurity Pro | Muhummad Zaki | [Read More](https://medium.com/p/f4a24eb17ff6) |
+| Wed, 18 Feb 2026 10:53:29 GMT | Vibe Coding Meets Cybersecurity: The AI Coding Revolution That Could Either Build Your Future… or… | Stephan Goldberg | [Read More](https://medium.com/p/4f0cb0b53a1c) |
+| Wed, 18 Feb 2026 10:51:34 GMT | HTB Soulmate Writeup and Walkthrough | The Mastermind Notes | [Read More](https://medium.com/p/1402e2ed9218) |
+| Wed, 18 Feb 2026 10:46:06 GMT | Poddtips: Intervjuer, hackerhistoria och djupdykning | Martin Björsberg | [Read More](https://medium.com/p/ff0eb352c27f) |
+| Wed, 18 Feb 2026 10:45:33 GMT | WebStrike — Cyberdefender | Naihalmerchant | [Read More](https://medium.com/p/8001d7f808b4) |
 | Wed, 18 Feb 2026 10:41:08 GMT | Cybersecurity Is a Responsibility, Not a Shift | Samyakgoel | [Read More](https://medium.com/p/e05bf2a36164) |
 | Wed, 18 Feb 2026 10:40:52 GMT | Secure Your Home with the Best Wireless Garage Door Sensor | Criminology Expert | [Read More](https://medium.com/p/3c3b2ac50f6b) |
 | Wed, 18 Feb 2026 10:36:55 GMT | Not the File, Just the Name: Exploring Stored XSS in Upload Functionality | Anuraggopalakrishnan | [Read More](https://medium.com/p/d574652eca62) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Feb 2026 05:14:05 GMT | AI Agents Turning Rogue: The New Insider Threat No One Saw Coming | itsecops cloud | [Read More](https://medium.com/p/75ce9f55ffa0) |
 | Wed, 18 Feb 2026 05:07:06 GMT | Bug Bounty Is Not About Bugs | Talyaji - Bug Bounty Hunter - $20K+ Earnings | [Read More](https://medium.com/p/831a8898046f) |
 | Wed, 18 Feb 2026 05:03:03 GMT | SQL Injection Attempt Analysis: A SOC Investigation (LetsDefend SOC165) | Berkay Vagas | [Read More](https://medium.com/p/dfb1de4a2212) |
-| Wed, 18 Feb 2026 05:01:13 GMT | Advanced Business Logic Attacks️ Part 4 — Mastering Access Control: How to Find IDOR & Broken… | ghostyjoe | [Read More](https://medium.com/p/f4c17a337b3a) |
-| Wed, 18 Feb 2026 04:53:34 GMT | CIS Critical Security Controls: The 18 Core Components of Cyber Defense | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/3ba367b2023d) |
-| Wed, 18 Feb 2026 04:52:53 GMT | Information Security Basics and the CIA Triad | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/083f83ddde08) |
-| Wed, 18 Feb 2026 04:52:41 GMT | Hire N8N Developers to Automate, Integrate & Scale Your Business | n8ndevelopers | [Read More](https://medium.com/p/de35a3dd3489) |
-| Wed, 18 Feb 2026 04:46:26 GMT | Building a Vulnerable Lab Environment (Metasploitable Setup) | Br4in4rd | [Read More](https://medium.com/p/92aff1612f71) |
-| Wed, 18 Feb 2026 04:31:02 GMT | Phishing Has Left the Inbox | Cybersphere Official | [Read More](https://medium.com/p/26185a9881b7) |
-| Wed, 18 Feb 2026 04:21:28 GMT | Model Context Protocol—Deep Dive 3.3— Security Vulnerabilities and mitigation | A B Vijay Kumar | [Read More](https://medium.com/p/d8368585f6c4) |
-| Wed, 18 Feb 2026 04:16:19 GMT | Why Cloud Security Controls Are Vital for Your Backup and Recovery Workflows | Tycoonstories | [Read More](https://medium.com/p/544f40771819) |
-| Wed, 18 Feb 2026 04:16:08 GMT | Why Cloud Security Controls Are Vital for Your Backup & Recovery Systems | Supraja | [Read More](https://medium.com/p/ed03759a7bc8) |
-| Wed, 18 Feb 2026 04:14:29 GMT | ENGINEERING STUDENTS DON’T NEED MORE MOTIVATION — THEY NEED THIS INSTEAD. | Sajitha Vivekanandan | [Read More](https://medium.com/p/47346a14039c) |
-| Wed, 18 Feb 2026 04:07:24 GMT | Day 02 of 300 | Hasib Al Hasan | [Read More](https://medium.com/p/8b3eb3eec3ec) |
-| Wed, 18 Feb 2026 04:04:49 GMT | “The illiterate of the future will not be the person who cannot read. | Jhaaparna | [Read More](https://medium.com/p/39d8cfae271e) |
