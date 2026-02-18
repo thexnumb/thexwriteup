@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Feb 2026 20:40:02 GMT | Host & Network Penetration Testing: Post-Exploitation CTF 2 | Georgi Nikolov | [Read More](https://medium.com/p/3823aa6fce0f) |
+| Wed, 18 Feb 2026 20:32:01 GMT | Hydra: A Secure Way to Use AI Agents | Rick Console | [Read More](https://medium.com/p/f828bbaef60e) |
+| Wed, 18 Feb 2026 20:30:22 GMT | Why LionSec Hub Training Is Different (And Worth Your Time Wherever You Live | Adeboye Alade | [Read More](https://medium.com/p/178aa47d46c6) |
+| Wed, 18 Feb 2026 20:30:07 GMT | Regulating Security: Sovereignty and the Governance of a Global Sector | Juri Ferrario | [Read More](https://medium.com/p/1e077d049e37) |
+| Wed, 18 Feb 2026 20:27:10 GMT | Home Security System | Eddie Brock | [Read More](https://medium.com/p/742aee7244b8) |
+| Wed, 18 Feb 2026 20:25:22 GMT | “Paradise Steam Library” Zararlı Yazılım Analizi | İbrahim Birkan Öztürk | [Read More](https://medium.com/p/4794fe14efd1) |
+| Wed, 18 Feb 2026 20:22:55 GMT | Notepad++ Patches Hijacked Update Mechanism Exploited to Deliver Targeted Malware | SCtoCS | [Read More](https://medium.com/p/24cdc7161eb9) |
+| Wed, 18 Feb 2026 20:21:08 GMT | Dell RecoverPoint for VMs Zero Day CVE-2026–22769 Exploited Since Mid 2024 | SCtoCS | [Read More](https://medium.com/p/ad99b58a7e02) |
+| Wed, 18 Feb 2026 20:15:09 GMT | Web Grey Box Penetration Testing Report: Vulnerable Bank Application | Pallavisatav | [Read More](https://medium.com/p/1dad3bee5566) |
+| Wed, 18 Feb 2026 20:00:59 GMT | Why Strong Cryptography Alone Is Never Enough? | Cipher Citadel (Ci2) | [Read More](https://medium.com/p/1aca8edab15b) |
+| Wed, 18 Feb 2026 19:52:37 GMT | The Silent Risk in Smart Hospitals: When Artificial Intelligence Outpaces Infrastructure | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/96e455a25d7b) |
 | Wed, 18 Feb 2026 19:42:42 GMT | Web Proxy’lerine Giriş | Songül Kızılay Özügürler | [Read More](https://medium.com/p/660731f8424e) |
 | Wed, 18 Feb 2026 19:42:05 GMT | EntroGuard — Day 1 | Nisarg Patel | [Read More](https://medium.com/p/404f05a2432f) |
 | Wed, 18 Feb 2026 19:39:54 GMT | Stop Exposing Your Vector Database: The Architect’s Guide to Private RAG using AWS VPCs | Shreya Singhal | [Read More](https://medium.com/p/796f84a129c3) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Feb 2026 14:29:30 GMT | From Scripts to a System: Constraints That Forced the Design - Falcoria Part 2 | 2s1one | [Read More](https://medium.com/p/51416144c0c6) |
 | Wed, 18 Feb 2026 14:23:23 GMT | Your Smart Devices Are Watching You: The Hidden Security Risks of IoT | Chinmayibhise | [Read More](https://medium.com/p/f2a890315a03) |
 | Wed, 18 Feb 2026 14:19:42 GMT | cve-2024–40453 Walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/0117e1e49086) |
-| Wed, 18 Feb 2026 14:16:55 GMT | Debunking the Top 10 VAPT Misconceptions — What Every Business Should Know | Digital Defense | [Read More](https://medium.com/p/2e53b5f54671) |
-| Wed, 18 Feb 2026 14:11:22 GMT | Bulletproof Hosting: The Internet’s Shadowy Landlords | Daniel Iwugo | [Read More](https://medium.com/p/fa72d48d35d8) |
-| Wed, 18 Feb 2026 14:08:20 GMT | 5 Open-Source Tools That Feel Illegal (But Are 100% Legal) | Saurabh Raj | [Read More](https://medium.com/p/85328a835306) |
-| Wed, 18 Feb 2026 14:06:00 GMT | The Database Siege: MSSQL Activity Doubles as Attackers Pivot from Access to Data in January 2026 | Px Mx | [Read More](https://medium.com/p/d31e053c0fe8) |
-| Wed, 18 Feb 2026 14:05:20 GMT | Why We Stopped Chasing Every Vulnerability: “Signal-First” Security | Chris Holm Roelsgaard | [Read More](https://medium.com/p/ca11f8282b6b) |
-| Wed, 18 Feb 2026 14:03:58 GMT | Service & Maintenance | Target securitygroup | [Read More](https://medium.com/p/ea5d122d6080) |
-| Wed, 18 Feb 2026 14:02:51 GMT | Leak: AirPod Pro 5s can read your mind. “Siri activated.” | Kevin Qi | [Read More](https://medium.com/p/28029312988f) |
-| Wed, 18 Feb 2026 14:01:02 GMT | SafePaste AI 2.1: Moving Beyond Text Masking to a Secure Workspace | Ittikorn Longtee | [Read More](https://medium.com/p/f5d3e5e08cbf) |
-| Wed, 18 Feb 2026 13:58:17 GMT | The January Hangover: 5 Critical Vulnerabilities Haunting Security Teams in 2026 | Cyber Aries | [Read More](https://medium.com/p/7996bca35856) |
-| Wed, 18 Feb 2026 13:56:05 GMT | Real Ethical Hacking — New Way to learn | Nolan Stark | [Read More](https://medium.com/p/9dd90ddf88d9) |
-| Wed, 18 Feb 2026 13:51:23 GMT | MetaMask Users Targeted with Phishing Emails: What Security Teams Must Know | Chetan Seripally | [Read More](https://medium.com/p/200c1cede279) |
