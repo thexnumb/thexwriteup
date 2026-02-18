@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Feb 2026 02:20:46 GMT | When YouTube Goes Down, Your Business Stays Down: Why Availability Isn’t Optional | Shield Identity | [Read More](https://medium.com/p/31f651776553) |
+| Wed, 18 Feb 2026 01:50:44 GMT | CYBER SECURITY NEWS TODAY
+Cyber threats are rising fast — and attackers are getting smarter every… | KOSCYBER | [Read More](https://medium.com/p/4911738020c6) |
+| Wed, 18 Feb 2026 01:44:40 GMT | Introduction To Digital Forensics Lab 01 | nikyfadyla | [Read More](https://medium.com/p/73f6b723f242) |
+| Wed, 18 Feb 2026 01:44:21 GMT | THM — SOC Simulator -> Phishing Unfolding | EduKayky | [Read More](https://medium.com/p/8d7f5cc6d913) |
+| Wed, 18 Feb 2026 01:37:09 GMT | Authorisation BypassVulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/820f4e7bbc53) |
+| Wed, 18 Feb 2026 01:31:01 GMT | Refusal Patterns That Break at the Tool Boundary | Praxen | [Read More](https://medium.com/p/d66df99fd1ff) |
+| Wed, 18 Feb 2026 01:31:01 GMT | When Agents Escalate Scope, It’s Usually Permission | Duckweave | [Read More](https://medium.com/p/fafbd052fe58) |
+| Wed, 18 Feb 2026 01:31:01 GMT | Shared Agent Memory: The Multi-Tenant Time Bomb | Nexumo | [Read More](https://medium.com/p/b5e2ea0b306d) |
+| Wed, 18 Feb 2026 01:21:34 GMT | ClawdBot: What Happens When Nobody Thinks | Raphael Savastano | [Read More](https://medium.com/p/ae30919eb767) |
+| Wed, 18 Feb 2026 01:19:01 GMT | Backend Handbook Part 2 — Independent of any language | Biresh Kumar Singh | [Read More](https://medium.com/p/cdb10a86c8e4) |
+| Wed, 18 Feb 2026 01:17:57 GMT | Someone I know | Susana | [Read More](https://medium.com/p/883a83d50909) |
+| Wed, 18 Feb 2026 00:51:01 GMT | Kindness | Mark Donelson | [Read More](https://medium.com/p/736090e77a4d) |
+| Wed, 18 Feb 2026 00:23:11 GMT | Building GDPR-Compliant AI Agents: I Built a PII Detection Engine That Actually Validates What It… | Sheeban Wasi | [Read More](https://medium.com/p/bf48fe5bcb18) |
+| Wed, 18 Feb 2026 00:06:51 GMT | TryHackMe VulnNet Walkthrough: Complete CTF Writeup & Privilege Escalation Guide | 5um1t0x | [Read More](https://medium.com/p/f3fdc2d9c4fa) |
+| Wed, 18 Feb 2026 00:01:01 GMT | sslscan Guide: How to audit SSL/TLS certificates and detect critical vulnerabilities | JPablo13 | [Read More](https://medium.com/p/cca7b3bb25e0) |
+| Tue, 17 Feb 2026 23:44:54 GMT | INE-Host & Network Penetration Testing: System-Host Based Attacks CTF 1 by Singkhon | Singkhon K | [Read More](https://medium.com/p/9e34c976c78c) |
+| Tue, 17 Feb 2026 23:26:22 GMT | Why Preventing OT Attacks is the Most Profitable Investment You’ll Ever Make | BlastWave | [Read More](https://medium.com/p/c01b489c7376) |
 | Tue, 17 Feb 2026 23:14:58 GMT | My Current Stint as a SOC Analyst | Clay Jones | [Read More](https://medium.com/p/1d6f90e74f74) |
 | Tue, 17 Feb 2026 23:07:15 GMT | Why I Just Wrote a Book on Agentic AI for Cybersecurity | Omar Santos | [Read More](https://medium.com/p/d070506b85c0) |
 | Tue, 17 Feb 2026 23:04:49 GMT | Malware Analysis Yolculuğumdan Geçmişten Bugüne Notlar | Hakan ÇEVİK | [Read More](https://medium.com/p/c34bbd2333c9) |
@@ -73,6 +91,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Feb 2026 19:07:23 GMT | Dear Delilah, | Derrick Acheampong | [Read More](https://medium.com/p/06bdc12a0745) |
 | Tue, 17 Feb 2026 19:07:09 GMT | Part 1/3: Understanding phpinfo() — The Accidental Goldmine | Cybersecplayground | [Read More](https://medium.com/p/c662da63a3c7) |
 | Tue, 17 Feb 2026 19:06:28 GMT | Capability-Based Planning. | Mohammed Brückner | [Read More](https://medium.com/p/277dfc0d8fcb) |
+| Tue, 17 Feb 2026 19:06:20 GMT | Exam Review: Certified AppSec Practitioner (CAP) | Mrittika Debnath | [Read More](https://medium.com/p/81b11b77532e) |
 | Tue, 17 Feb 2026 19:03:03 GMT | SSRF Vulnerability and Detecting It With AI, Enter See-SURF!! | Vaibhav Agrawal | [Read More](https://medium.com/p/f519b19c9d36) |
 | Tue, 17 Feb 2026 19:01:00 GMT | EU GDPR — Article 16 (Right to Rectification) | MDM Team | [Read More](https://medium.com/p/e0214f97d038) |
 | Tue, 17 Feb 2026 18:50:40 GMT | Day 5 — The Imaginary Path | Armaan Nain | [Read More](https://medium.com/p/75d24151a173) |
@@ -94,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 17 Feb 2026 17:57:29 GMT | Burp Suite Certified Practitioner (BSCP) Çalışma Sürecim | Yiğit Şengezer | [Read More](https://medium.com/p/f0e222c57c97) |
 | Tue, 17 Feb 2026 17:49:12 GMT | AI Agent: EthoGPT Red-Teaming AI Just Got A Smart Strategic Upgrade | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/54f046871f99) |
 | Tue, 17 Feb 2026 17:48:49 GMT | Refund Without Ownership Verification: A Hidden Business Logic Risk | Elia carlos | [Read More](https://medium.com/p/b16f7cb2a1a4) |
-| Tue, 17 Feb 2026 17:48:49 GMT | IT Certifications That Actually Matter | CodeZen | [Read More](https://medium.com/p/6f1a6568a3c2) |
-| Tue, 17 Feb 2026 17:48:12 GMT | [Part-III] How I Built an Automated Leak Monitoring Pipeline with n8n, APIs, & Gmail Alerts | 5hr33.j11 | [Read More](https://medium.com/p/d1ae1eda6599) |
-| Tue, 17 Feb 2026 17:46:04 GMT | SpookyPass Reversing Challenge — Understanding Hardcoded Secrets in Binaries | Anandhu Kannan | [Read More](https://medium.com/p/4d1ea4306be3) |
-| Tue, 17 Feb 2026 17:45:26 GMT | What is symmetric key | Kevin Ronex | [Read More](https://medium.com/p/84f626ab6246) |
-| Tue, 17 Feb 2026 17:43:40 GMT | We Downgraded Our Architecture — And Finally Shipped Faster | Story Crafter | [Read More](https://medium.com/p/3f022afcb4f8) |
-| Tue, 17 Feb 2026 17:43:07 GMT | The Cloud Hopper Break | Marvion Criddle | [Read More](https://medium.com/p/1f6bba53ccf8) |
-| Tue, 17 Feb 2026 17:41:56 GMT | Luminar Network: The Unified AI Layer for Visual Intelligence | LuminarNetwork | [Read More](https://medium.com/p/52d76950cc2e) |
-| Tue, 17 Feb 2026 17:41:30 GMT | Network Traffic Analysis & Detection Project | Srinija Puvvula | [Read More](https://medium.com/p/ac4ee41258f0) |
-| Tue, 17 Feb 2026 17:40:34 GMT | Installing & Configuring NXLog Agents: A Complete Guide to Service Setup | Amit Ambekar | [Read More](https://medium.com/p/ee7ae3820cc2) |
-| Tue, 17 Feb 2026 17:37:18 GMT | Document version control is critical for growing businesses. | Jane Brian | [Read More](https://medium.com/p/ea6a7a4e4dab) |
-| Tue, 17 Feb 2026 17:34:15 GMT | Simple CTF Walkthrough (TryHackMe) | Mrittika Debnath | [Read More](https://medium.com/p/bbac84c9d142) |
-| Tue, 17 Feb 2026 17:31:45 GMT | Security by Design Principle 7: Why Zero Trust Must Continue After Login and How Rainbow Secure… | Dr. Shashi Karhail | [Read More](https://medium.com/p/713340c8a2b7) |
-| Tue, 17 Feb 2026 17:31:30 GMT | THM — Hidden Deep In My Heart | Dfaults | [Read More](https://medium.com/p/e33607e7fc16) |
-| Tue, 17 Feb 2026 17:25:13 GMT | Understanding OpenID Connect (OIDC) Security: Best Practices & Threats | Kaizen Chandra | [Read More](https://medium.com/p/78037a9f4524) |
-| Tue, 17 Feb 2026 17:24:09 GMT | I Built a Hacking Lab That Fits in a Suitcase | M. | [Read More](https://medium.com/p/55db8a635cc4) |
-| Tue, 17 Feb 2026 17:20:07 GMT | ntrecon — Your Recon Buddy | João Teodoro | [Read More](https://medium.com/p/95cc389b2a46) |
-| Tue, 17 Feb 2026 17:12:12 GMT | Cross-Site Scripting (XSS) — Part 2: Stored, DOM-Based, and Blind XSS | mayhack | [Read More](https://medium.com/p/ee96e59e01b5) |
-| Tue, 17 Feb 2026 17:04:23 GMT | The Silent AI War Has Already Begun | Pannag Kumaar | [Read More](https://medium.com/p/87efe2bfd6e2) |
