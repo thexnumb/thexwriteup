@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Feb 2026 10:41:08 GMT | Cybersecurity Is a Responsibility, Not a Shift | Samyakgoel | [Read More](https://medium.com/p/e05bf2a36164) |
+| Wed, 18 Feb 2026 10:40:52 GMT | Secure Your Home with the Best Wireless Garage Door Sensor | Criminology Expert | [Read More](https://medium.com/p/3c3b2ac50f6b) |
+| Wed, 18 Feb 2026 10:36:55 GMT | Not the File, Just the Name: Exploring Stored XSS in Upload Functionality | Anuraggopalakrishnan | [Read More](https://medium.com/p/d574652eca62) |
+| Wed, 18 Feb 2026 10:36:19 GMT | Advanced Business Logic Attacks Part 5 | ghostyjoe | [Read More](https://medium.com/p/613438cea280) |
+| Wed, 18 Feb 2026 10:31:05 GMT | IDN Cyber Defense Bootcamp: Introduction to Digital Forensics | EnruRamadhan | [Read More](https://medium.com/p/fa31d374e3d2) |
+| Wed, 18 Feb 2026 10:30:07 GMT | How to Balance Accuracy, Cost, and Latency in AI Systems? | Maruti Techlabs | [Read More](https://medium.com/p/0b6df57a6e78) |
+| Wed, 18 Feb 2026 10:23:05 GMT | THE GHOST CHILD | O. J. Okpabi | [Read More](https://medium.com/p/68f39a34ea19) |
+| Wed, 18 Feb 2026 10:19:08 GMT | Apple Looks to Broaden Privacy Safeguards Across All Devices | GoTrust Tech | [Read More](https://medium.com/p/9e9f65192c37) |
+| Wed, 18 Feb 2026 10:19:05 GMT | Shorts: If you do AI dev then you MUST get a separate machine! | Mod Elephant | [Read More](https://medium.com/p/d5ee4abf1bf5) |
+| Wed, 18 Feb 2026 10:16:35 GMT | NTT Data Opens Four AI-Powered Cyber Defence Centres in India | GoTrust Tech | [Read More](https://medium.com/p/5acd5777d615) |
+| Wed, 18 Feb 2026 10:16:00 GMT | NERC CIP: The Mandatory Standard Protecting North America’s Power Grid | urjasec | [Read More](https://medium.com/p/0c0713cc722c) |
+| Wed, 18 Feb 2026 10:09:04 GMT | Professional IT Services: The Backbone of Secure and Scalable Business Operations | Gary Katz | [Read More](https://medium.com/p/53c32da3caf2) |
+| Wed, 18 Feb 2026 10:06:57 GMT | Best Vulnerability Assessment Test in India - CERT-In Company | Thiripathiv | [Read More](https://medium.com/p/4b550858c158) |
+| Wed, 18 Feb 2026 10:05:21 GMT | Gods Eye: The Reconnaissance Tool I Wish I Had 5 Years Ago | Dhananjay Pathak | [Read More](https://medium.com/p/e7b2a7fdb211) |
+| Wed, 18 Feb 2026 09:58:09 GMT | HTB Signed Writeup & Walkthrough | The Mastermind Notes | [Read More](https://medium.com/p/20b5d0c681c8) |
 | Wed, 18 Feb 2026 09:44:18 GMT | Let’s go physical(ly separated) | ArBauDie.IT | [Read More](https://medium.com/p/4053ae5be14c) |
 | Wed, 18 Feb 2026 09:38:25 GMT | Mastering Linux Fundamentals: OverTheWire Bandit Level 0 → 20 Write-up | Rezafairusnugraha | [Read More](https://medium.com/p/fa393a68b965) |
 | Wed, 18 Feb 2026 09:35:06 GMT | Cybersecurity Risks in School Payment Systems: Protecting the Digital Playground | EduTrak Software | [Read More](https://medium.com/p/5a6ebc1cd97b) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Feb 2026 04:14:29 GMT | ENGINEERING STUDENTS DON’T NEED MORE MOTIVATION — THEY NEED THIS INSTEAD. | Sajitha Vivekanandan | [Read More](https://medium.com/p/47346a14039c) |
 | Wed, 18 Feb 2026 04:07:24 GMT | Day 02 of 300 | Hasib Al Hasan | [Read More](https://medium.com/p/8b3eb3eec3ec) |
 | Wed, 18 Feb 2026 04:04:49 GMT | “The illiterate of the future will not be the person who cannot read. | Jhaaparna | [Read More](https://medium.com/p/39d8cfae271e) |
-| Wed, 18 Feb 2026 04:03:56 GMT | OverTheWire Bandit Level 0–20: Step-by-Step Walkthrough untuk Pemula | Firmansyah Dzakwan Arifien | [Read More](https://medium.com/p/7619b7e1a53d) |
-| Wed, 18 Feb 2026 04:03:54 GMT | Starting My Cybersecurity Journey. | Hasib Al Hasan | [Read More](https://medium.com/p/cd0826e77c9e) |
-| Wed, 18 Feb 2026 04:00:41 GMT | The Unwatchable Student: A Technical Case Study on Why Client-Side Proctoring Can’t Be Trusted | CyberAmir | [Read More](https://medium.com/p/61dc7afc3485) |
-| Wed, 18 Feb 2026 03:56:39 GMT | Best Security Awareness Training Platform for Businesses | Maxatlasofficial | [Read More](https://medium.com/p/e804f5eb20dd) |
-| Wed, 18 Feb 2026 03:52:33 GMT | Unstable Twin WriteUP TryHackMe | cat0x01 | [Read More](https://medium.com/p/e244e822493a) |
-| Wed, 18 Feb 2026 03:52:10 GMT | One-Click Account Takeover via Deep Link Token Auto-Append | BaymaxPop23 | [Read More](https://medium.com/p/ad91993bd336) |
-| Wed, 18 Feb 2026 03:37:13 GMT | Bandit Level 2 → 3: Tips Membaca Nama File yang Memiliki Spasi (Spaces in Filenames) | Galih Permana Rizki | [Read More](https://medium.com/p/620fa4c6600c) |
-| Wed, 18 Feb 2026 03:31:55 GMT | Logout Is Harder Than Login And Most Developers Don’t Realize It | Sanjeevani Bhandari | [Read More](https://medium.com/p/7a09e949497f) |
-| Wed, 18 Feb 2026 03:22:14 GMT | تحديات الباحث المستقل | Mohammad Hanifeh | [Read More](https://medium.com/p/a43d5e9374b9) |
-| Wed, 18 Feb 2026 03:01:00 GMT | The “Soul” Stealer: Why Your AI Assistant is the Newest Target for Malware | Ismail Hakim | [Read More](https://medium.com/p/be685f675849) |
-| Wed, 18 Feb 2026 02:57:39 GMT | Choosing Easy Decisions v. Habit of Choosing Better Ones | Bhar | [Read More](https://medium.com/p/e43c2d2c8ede) |
-| Wed, 18 Feb 2026 02:41:22 GMT | What Really Happens When Your PHP App Gets XSS — And You Don’t Even Notice | Ann R. | [Read More](https://medium.com/p/4147a9a8f3cd) |
-| Wed, 18 Feb 2026 02:34:30 GMT | Empathy | Adam L. | [Read More](https://medium.com/p/c8fc3b1368f5) |
-| Wed, 18 Feb 2026 02:31:01 GMT | Ward: The Laravel Security Scanner You Can’t Ignore | Sadique Ali | [Read More](https://medium.com/p/078413f0c8da) |
-| Wed, 18 Feb 2026 02:20:46 GMT | When YouTube Goes Down, Your Business Stays Down: Why Availability Isn’t Optional | Shield Identity | [Read More](https://medium.com/p/31f651776553) |
