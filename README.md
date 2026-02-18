@@ -12,7 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Feb 2026 14:19:42 GMT | cve-2024–40453 Walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/0117e1e49086) |
+| Wed, 18 Feb 2026 14:16:55 GMT | Debunking the Top 10 VAPT Misconceptions — What Every Business Should Know | Digital Defense | [Read More](https://medium.com/p/2e53b5f54671) |
+| Wed, 18 Feb 2026 14:11:22 GMT | Bulletproof Hosting: The Internet’s Shadowy Landlords | Daniel Iwugo | [Read More](https://medium.com/p/fa72d48d35d8) |
+| Wed, 18 Feb 2026 14:08:20 GMT | 5 Open-Source Tools That Feel Illegal (But Are 100% Legal) | Saurabh Raj | [Read More](https://medium.com/p/85328a835306) |
+| Wed, 18 Feb 2026 14:06:00 GMT | The Database Siege: MSSQL Activity Doubles as Attackers Pivot from Access to Data in January 2026 | Px Mx | [Read More](https://medium.com/p/d31e053c0fe8) |
+| Wed, 18 Feb 2026 14:05:20 GMT | Why We Stopped Chasing Every Vulnerability: “Signal-First” Security | Chris Holm Roelsgaard | [Read More](https://medium.com/p/ca11f8282b6b) |
+| Wed, 18 Feb 2026 14:03:58 GMT | Service & Maintenance | Target securitygroup | [Read More](https://medium.com/p/ea5d122d6080) |
+| Wed, 18 Feb 2026 14:02:51 GMT | Leak: AirPod Pro 5s can read your mind. “Siri activated.” | Kevin Qi | [Read More](https://medium.com/p/28029312988f) |
+| Wed, 18 Feb 2026 14:01:02 GMT | SafePaste AI 2.1: Moving Beyond Text Masking to a Secure Workspace | Ittikorn Longtee | [Read More](https://medium.com/p/f5d3e5e08cbf) |
+| Wed, 18 Feb 2026 13:58:17 GMT | The January Hangover: 5 Critical Vulnerabilities Haunting Security Teams in 2026 | Cyber Aries | [Read More](https://medium.com/p/7996bca35856) |
+| Wed, 18 Feb 2026 13:56:05 GMT | Real Ethical Hacking — New Way to learn | Nolan Stark | [Read More](https://medium.com/p/9dd90ddf88d9) |
+| Wed, 18 Feb 2026 13:51:23 GMT | MetaMask Users Targeted with Phishing Emails: What Security Teams Must Know | Chetan Seripally | [Read More](https://medium.com/p/200c1cede279) |
+| Wed, 18 Feb 2026 13:48:12 GMT | The Era of Vibecoding Is Here — Now We Need Vibesec | Rammohanreddy | [Read More](https://medium.com/p/dac4c4373780) |
+| Wed, 18 Feb 2026 13:47:10 GMT | Someone Cloned an Oura Ring MCP Server and Poisoned the Supply Chain. We Can Fix This. | Phil Stafford | [Read More](https://medium.com/p/931acfaac8e3) |
+| Wed, 18 Feb 2026 13:46:18 GMT | Beyond CVEs: Why Your CI/CD Pipeline Needs npm-security-auditter | Matthias Kluth | [Read More](https://medium.com/p/ec7fe3de11d6) |
+| Wed, 18 Feb 2026 13:44:14 GMT | I’m trying to complete a CTF about Cookie Monster Secret Recipe | Billy Elvonda Aron Umpel | [Read More](https://medium.com/p/cd143a76ec5b) |
+| Wed, 18 Feb 2026 13:39:57 GMT | Love at First Breach 2026 - My Complete Walk through - SERIES | 0X595 | [Read More](https://medium.com/p/0d83bd2ad289) |
+| Wed, 18 Feb 2026 13:34:26 GMT | Browser Isolation: Smart Containment or Operational Burden | Shaaheen Sheik Mahumood | [Read More](https://medium.com/p/1b128604e8aa) |
+| Wed, 18 Feb 2026 13:25:11 GMT | Bedah Kasus Lumma Stealer (Fake CAPTCHA) | B0$_JOk0 | [Read More](https://medium.com/p/8b07ce140fd1) |
 | Wed, 18 Feb 2026 13:08:45 GMT | SQL Injection in 2026: The Vulnerability That Won’t Retire | Lakshbhati | [Read More](https://medium.com/p/d65229e82e01) |
+| Wed, 18 Feb 2026 13:08:05 GMT | Security Architecture: Understanding Zones, Subnetting and CIDR | Odunuga Abd fattah | [Read More](https://medium.com/p/a4362bcdbf8b) |
+| Wed, 18 Feb 2026 13:07:07 GMT | NordVPN Review 2026 Honest Speed Tests, Privacy Features & Is It Still Worth It? | Sadam Ali | [Read More](https://medium.com/p/b1e8dac1d585) |
 | Wed, 18 Feb 2026 13:03:15 GMT | Getting Started with JSON Web Tokens (JWT) | Ruvarashe Matchaba | [Read More](https://medium.com/p/89de64a26375) |
 | Wed, 18 Feb 2026 13:01:31 GMT | Zoinks!- Unmasking Vulnerable AI Agents with AgentCore Evaluator | Mary Becken | [Read More](https://medium.com/p/525a000208c4) |
 | Wed, 18 Feb 2026 13:00:38 GMT | The Day I Got Tired of Pretending I Was Fine | Versouls | [Read More](https://medium.com/p/7037591374ad) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Feb 2026 09:08:21 GMT | Foundations Of Blue Teaming: Building Strong Cyber Defenses | Redfox Security | [Read More](https://medium.com/p/ff909e9ea38f) |
 | Wed, 18 Feb 2026 09:03:52 GMT | Defense in Depth: The Art of Building Security Like a Fortress | Ayxan Amirov | [Read More](https://medium.com/p/e860da45d8cc) |
 | Wed, 18 Feb 2026 09:01:01 GMT | I Found 200+ Leaked Passwords for a Single Company in 5 Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/0b1ccbcca462) |
-| Wed, 18 Feb 2026 08:59:30 GMT | Fix A Broken Windows Profile Without Reinstalling | Geoffrey Wenger | [Read More](https://medium.com/p/9dd0c69a497d) |
-| Wed, 18 Feb 2026 08:57:58 GMT | What Is the Difference Between Restrict and Block on Instagram? | IGtips | [Read More](https://medium.com/p/c39c1db14efd) |
-| Wed, 18 Feb 2026 08:55:09 GMT | How Influencers Are Pushing Followers Into Scam Gaming & Investment Platforms | Ankit rai | [Read More](https://medium.com/p/678c40c76143) |
-| Wed, 18 Feb 2026 08:36:22 GMT | When an AI Agent Has No Contract: What OpenClaw Proves About Tier-0 Risk | Kai L. | [Read More](https://medium.com/p/7e2d642ae51d) |
-| Wed, 18 Feb 2026 08:33:21 GMT | Love At First Breach 2026 - Cupid’s Matchmaker (Tryhackme) | Prince Damiano | [Read More](https://medium.com/p/73da249340b8) |
-| Wed, 18 Feb 2026 08:33:02 GMT | Obstacle or Opportunity? How GRC Changed my Perception of Risk | Daniel | [Read More](https://medium.com/p/c4fdc1484f38) |
-| Wed, 18 Feb 2026 08:26:37 GMT | Pengantar Keamanan Siber pada Industrial Control System (Bagian 1) | Agung Nawan | [Read More](https://medium.com/p/d9f75ed796bc) |
-| Wed, 18 Feb 2026 08:22:27 GMT | Future of AI-Powered Cybersecurity | Manisha Chaudhary | [Read More](https://medium.com/p/81a9fc686846) |
-| Wed, 18 Feb 2026 08:21:12 GMT | How Does Antivirus Software Secure PCs from Ransomware Attacks? | Siyanoav | [Read More](https://medium.com/p/f46feea65b5e) |
-| Wed, 18 Feb 2026 08:19:03 GMT | Mobile Security: Chat with MobSF | Ashish Bansal | [Read More](https://medium.com/p/62bba32caaa8) |
-| Wed, 18 Feb 2026 08:16:04 GMT | 0x1: SIEM vs SOAR — Observe the Threat. Execute the Response. | ShadowXp0it3r | [Read More](https://medium.com/p/ca0b56f97f7d) |
-| Wed, 18 Feb 2026 08:13:42 GMT | How to Use AI Without Compromising Code Quality | Roshni Savaliya | [Read More](https://medium.com/p/544741ff4983) |
-| Wed, 18 Feb 2026 08:10:30 GMT | Advanced Hunting with VirusTotal for Investigation | Damag3dRoot | [Read More](https://medium.com/p/6c9d5da7728b) |
-| Wed, 18 Feb 2026 07:57:51 GMT | SUNSET MACHINE | Athul | [Read More](https://medium.com/p/89cd89fd5bb0) |
-| Wed, 18 Feb 2026 07:57:38 GMT | Mapping LockBit’s TTPs (Tactics, Techniques, and Procedures) to MITRE ATT&CK | Akanbi Paul Favour | [Read More](https://medium.com/p/ae9171f1c27b) |
-| Wed, 18 Feb 2026 07:54:40 GMT | “ใครบอก ว่าความยาวไม่สำคัญ” หมายถึงรหัสผ่าน | Uthen DEV | [Read More](https://medium.com/p/19b84ee1d760) |
-| Wed, 18 Feb 2026 07:53:19 GMT | The Hidden Power of /xmlrpc.php: Why WordPress XML-RPC Still Deserves Your Attention | Purushotham.R | [Read More](https://medium.com/p/cd060c737c3a) |
-| Wed, 18 Feb 2026 07:52:55 GMT | How Learning SQL Can Open Doors in the IT Industry | Viwisetech | [Read More](https://medium.com/p/c5fe2fd0133a) |
-| Wed, 18 Feb 2026 07:44:21 GMT | How I Validate YARA Rules Against Real Malware Samples | Motasem Hamdan | [Read More](https://medium.com/p/6b970069f552) |
-| Wed, 18 Feb 2026 07:41:16 GMT | TryHackMe Valenfind Writeup: Hardcoded Keys & Broken Hearts | Shreyash | [Read More](https://medium.com/p/f1cede83ab12) |
-| Wed, 18 Feb 2026 07:39:34 GMT | Zero Trust and Modern Security Architecture | Cynox Security LLP. | [Read More](https://medium.com/p/cf34e8715bb4) |
