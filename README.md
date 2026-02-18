@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Feb 2026 06:00:02 GMT | Google Dorking | Priyanka Bandagale | [Read More](https://medium.com/p/2e61e61ec2a5) |
+| Wed, 18 Feb 2026 05:53:17 GMT | Cyber Safety Made Simple: Protect Yourself Online | nkavya | [Read More](https://medium.com/p/97b64163df56) |
+| Wed, 18 Feb 2026 05:51:20 GMT | A Proposal to Apple Part 5 — The Genealogy of Trust: Why Previous Fixes Fall Short of the… | Ryu360 | [Read More](https://medium.com/p/c0c6538f4cef) |
+| Wed, 18 Feb 2026 05:44:48 GMT | Why AI Security Is the Next Infrastructure Battle | Ganesh Vadlamuri | [Read More](https://medium.com/p/c08c67491df1) |
+| Wed, 18 Feb 2026 05:39:13 GMT | Top 10 Cyber Security Training Institutes in India | Lorcam Securities | [Read More](https://medium.com/p/db25dc9f56c2) |
+| Wed, 18 Feb 2026 05:37:03 GMT | From Beginner to Finding My First Critical SQL Injection in a Real VAPT Project | Indrajitchavan | [Read More](https://medium.com/p/9fe1e4b5b1ae) |
+| Wed, 18 Feb 2026 05:29:42 GMT | Heartbreak and Heists: The Rising Epidemic of Digital Romance Scams | Ben Pournader | [Read More](https://medium.com/p/7b6047362379) |
+| Wed, 18 Feb 2026 05:16:44 GMT | 50 Days of Cybersecurity Journey with H4ckerTreats as an Intern | Atinuke Awobore | [Read More](https://medium.com/p/698cbb2abcf2) |
+| Wed, 18 Feb 2026 05:14:05 GMT | AI Agents Turning Rogue: The New Insider Threat No One Saw Coming | itsecops cloud | [Read More](https://medium.com/p/75ce9f55ffa0) |
+| Wed, 18 Feb 2026 05:07:06 GMT | Bug Bounty Is Not About Bugs | Talyaji - Bug Bounty Hunter - $20K+ Earnings | [Read More](https://medium.com/p/831a8898046f) |
+| Wed, 18 Feb 2026 05:03:03 GMT | SQL Injection Attempt Analysis: A SOC Investigation (LetsDefend SOC165) | Berkay Vagas | [Read More](https://medium.com/p/dfb1de4a2212) |
+| Wed, 18 Feb 2026 05:01:13 GMT | Advanced Business Logic Attacks️ Part 4 — Mastering Access Control: How to Find IDOR & Broken… | ghostyjoe | [Read More](https://medium.com/p/f4c17a337b3a) |
+| Wed, 18 Feb 2026 04:53:34 GMT | CIS Critical Security Controls: The 18 Core Components of Cyber Defense | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/3ba367b2023d) |
+| Wed, 18 Feb 2026 04:52:53 GMT | Information Security Basics and the CIA Triad | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/083f83ddde08) |
+| Wed, 18 Feb 2026 04:52:41 GMT | Hire N8N Developers to Automate, Integrate & Scale Your Business | n8ndevelopers | [Read More](https://medium.com/p/de35a3dd3489) |
+| Wed, 18 Feb 2026 04:46:26 GMT | Building a Vulnerable Lab Environment (Metasploitable Setup) | Br4in4rd | [Read More](https://medium.com/p/92aff1612f71) |
+| Wed, 18 Feb 2026 04:31:02 GMT | Phishing Has Left the Inbox | Cybersphere Official | [Read More](https://medium.com/p/26185a9881b7) |
+| Wed, 18 Feb 2026 04:21:28 GMT | Model Context Protocol—Deep Dive 3.3— Security Vulnerabilities and mitigation | A B Vijay Kumar | [Read More](https://medium.com/p/d8368585f6c4) |
 | Wed, 18 Feb 2026 04:16:19 GMT | Why Cloud Security Controls Are Vital for Your Backup and Recovery Workflows | Tycoonstories | [Read More](https://medium.com/p/544f40771819) |
 | Wed, 18 Feb 2026 04:16:08 GMT | Why Cloud Security Controls Are Vital for Your Backup & Recovery Systems | Supraja | [Read More](https://medium.com/p/ed03759a7bc8) |
 | Wed, 18 Feb 2026 04:14:29 GMT | ENGINEERING STUDENTS DON’T NEED MORE MOTIVATION — THEY NEED THIS INSTEAD. | Sajitha Vivekanandan | [Read More](https://medium.com/p/47346a14039c) |
@@ -95,21 +113,3 @@ Cyber threats are rising fast — and attackers are getting smarter every…
 | Tue, 17 Feb 2026 20:09:48 GMT | Your Cloud Storage Is a Window Into Your Life — Here’s How to Close It | BogartusMaximus | [Read More](https://medium.com/p/fef260563c6a) |
 | Tue, 17 Feb 2026 20:08:08 GMT | dawn Walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/b289877c8c10) |
 | Tue, 17 Feb 2026 19:59:42 GMT | How I Built an SOC Home Lab in Microsoft AZURE, using Sentinel to monitor Real Logs | Titilope_xo | [Read More](https://medium.com/p/931b33f16a68) |
-| Tue, 17 Feb 2026 19:55:44 GMT | The Harvester: The Ultimate OSINT Tool for Cybersecurity Reconnaissance and Red Team Operations | CyberSources | [Read More](https://medium.com/p/6201606d64b7) |
-| Tue, 17 Feb 2026 19:52:03 GMT | AI as a Double-Edged Sword: How It’s Redefining Cybersecurity in 2026 | Mohiuddinmahady | [Read More](https://medium.com/p/eccd9df59e88) |
-| Tue, 17 Feb 2026 19:33:49 GMT | Least Privilege | Machie | [Read More](https://medium.com/p/11d17826c98b) |
-| Tue, 17 Feb 2026 19:25:05 GMT | The Dark Side of Free VPN Apps | VPNHouse | [Read More](https://medium.com/p/96c6ef788c36) |
-| Tue, 17 Feb 2026 19:24:56 GMT | Keycloak Organizations vs. Realms: Two Tools, Two Completely Different Jobs | Florian Röser | [Read More](https://medium.com/p/a022f8e1592e) |
-| Tue, 17 Feb 2026 19:23:38 GMT | Cybersecurity Foundations: Why One Wall is Never Enough | Machie | [Read More](https://medium.com/p/9e7054994ade) |
-| Tue, 17 Feb 2026 19:21:58 GMT | Versión sin editar empieza así: | Shandy Bentancor | [Read More](https://medium.com/p/31dbfb8b19e1) |
-| Tue, 17 Feb 2026 19:15:53 GMT | Why Rolling Code Failures Matter for Digital Identity | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/fdf84a032bf0) |
-| Tue, 17 Feb 2026 19:12:22 GMT | Unlocking the Future of Cyber Defense: The AI-Powered CyberDudeBivash Threat Intelligence Platform… | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/e9cc6fe6ecef) |
-| Tue, 17 Feb 2026 19:11:15 GMT | Solving a Real Problem in Modern Cybersecurity: The Post-Authentication Blind Spot | Rekuway | [Read More](https://medium.com/p/617429aa0ac3) |
-| Tue, 17 Feb 2026 19:09:53 GMT | Five Steps to OpenClaw Hardening | C.Dalrymple | [Read More](https://medium.com/p/0d5cdfc4ea7b) |
-| Tue, 17 Feb 2026 19:08:29 GMT | My First Valid AWS VDP Report: Why Even “Simple” Issues Matter | Jehovahseun Ezekiel ADEKANMI | [Read More](https://medium.com/p/528e82623c7f) |
-| Tue, 17 Feb 2026 19:08:00 GMT | Modus Pencurian data lewat Fake Captcha | Faris Jihadi Abdillah | [Read More](https://medium.com/p/2742454ff56a) |
-| Tue, 17 Feb 2026 19:07:23 GMT | Dear Delilah, | Derrick Acheampong | [Read More](https://medium.com/p/06bdc12a0745) |
-| Tue, 17 Feb 2026 19:07:09 GMT | Part 1/3: Understanding phpinfo() — The Accidental Goldmine | Cybersecplayground | [Read More](https://medium.com/p/c662da63a3c7) |
-| Tue, 17 Feb 2026 19:06:28 GMT | Capability-Based Planning. | Mohammed Brückner | [Read More](https://medium.com/p/277dfc0d8fcb) |
-| Tue, 17 Feb 2026 19:06:20 GMT | Exam Review: Certified AppSec Practitioner (CAP) | Mrittika Debnath | [Read More](https://medium.com/p/81b11b77532e) |
-| Tue, 17 Feb 2026 19:03:03 GMT | SSRF Vulnerability and Detecting It With AI, Enter See-SURF!! | Vaibhav Agrawal | [Read More](https://medium.com/p/f519b19c9d36) |
