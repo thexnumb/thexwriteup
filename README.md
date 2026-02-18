@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Feb 2026 15:26:00 GMT | Advanced Kafka Security Patterns You Can’t Ignore in 2026 | Michael Preston | [Read More](https://medium.com/p/bc04f2947284) |
+| Wed, 18 Feb 2026 15:21:42 GMT | Why Professional Security Services Are a Strategic Investment for Modern Businesses | Rapport Security | [Read More](https://medium.com/p/446cb4cb8677) |
+| Wed, 18 Feb 2026 15:17:37 GMT | Getting Started with Bug Bounties: Core Vulnerabilities and Basic Testing | MRxO1 | [Read More](https://medium.com/p/77603e58aa79) |
+| Wed, 18 Feb 2026 15:11:16 GMT | Membedah Fase Pengintaian: Information Gathering dalam Metodologi OWASP WSTG | Diva Rizky Alfitrah | [Read More](https://medium.com/p/c6c4c9d1755a) |
+| Wed, 18 Feb 2026 15:09:58 GMT | My first time using John the Ripper: It’s not what I expected | VxOM | [Read More](https://medium.com/p/000f24c21adf) |
+| Wed, 18 Feb 2026 15:01:02 GMT | Kubernetes Namespaces Explained — Organize, Secure & Scale Your Cluster | CloudOpsCraft | [Read More](https://medium.com/p/bcb4b5f84e82) |
+| Wed, 18 Feb 2026 15:01:02 GMT | Cyber Briefing: 2026.02.18 | CyberMaterial | [Read More](https://medium.com/p/476a4e00bdc8) |
+| Wed, 18 Feb 2026 14:57:32 GMT | Your Real Control Plane Is Your Customers | Dr. Enrique Somoza, D.Sc. | [Read More](https://medium.com/p/bfc2f48269a0) |
+| Wed, 18 Feb 2026 14:56:52 GMT | Palo Alto Networks Moves Toward Agentic Endpoint Security with Koi Security Acquisition | Jas | [Read More](https://medium.com/p/326ac28302b1) |
+| Wed, 18 Feb 2026 14:48:37 GMT | Cybersecurity Incident: Where does the cycle of “Life” start? | Jerome Gutierrez | [Read More](https://medium.com/p/4c056ccc86ba) |
+| Wed, 18 Feb 2026 14:44:39 GMT | From Linting to Purple Teaming: A Detection Testing Toolkit | Steve Cooper | [Read More](https://medium.com/p/428826a5e35e) |
+| Wed, 18 Feb 2026 14:41:51 GMT | Building a Microsoft Entra ID IAM Lab: Identity Lifecycle, RBAC, and Secure Offboarding | Roland Archie | [Read More](https://medium.com/p/5a45a7f601e5) |
+| Wed, 18 Feb 2026 14:40:34 GMT | VPN’s The Privacy Trap | Thomas Karat | [Read More](https://medium.com/p/4aef67f39634) |
+| Wed, 18 Feb 2026 14:37:18 GMT | Understanding React2Shell: A Critical Vulnerability in Next.js Applications | Ezardfariq | [Read More](https://medium.com/p/cf41cf971a91) |
+| Wed, 18 Feb 2026 14:35:35 GMT | Secure Communication Strategies for Cybersecurity Teams | RealTyme | [Read More](https://medium.com/p/9ef8226943a6) |
+| Wed, 18 Feb 2026 14:33:12 GMT | Building Cosmos (Part 3): Choosing Django Over Trends | Cosmos | [Read More](https://medium.com/p/7333d6f12204) |
+| Wed, 18 Feb 2026 14:31:00 GMT | Prompt Injection in 2026: What Breaks, What Holds | Bytecraft | [Read More](https://medium.com/p/0e5d7c8b6302) |
+| Wed, 18 Feb 2026 14:29:30 GMT | From Scripts to a System: Constraints That Forced the Design - Falcoria Part 2 | 2s1one | [Read More](https://medium.com/p/51416144c0c6) |
+| Wed, 18 Feb 2026 14:23:23 GMT | Your Smart Devices Are Watching You: The Hidden Security Risks of IoT | Chinmayibhise | [Read More](https://medium.com/p/f2a890315a03) |
 | Wed, 18 Feb 2026 14:19:42 GMT | cve-2024–40453 Walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/0117e1e49086) |
 | Wed, 18 Feb 2026 14:16:55 GMT | Debunking the Top 10 VAPT Misconceptions — What Every Business Should Know | Digital Defense | [Read More](https://medium.com/p/2e53b5f54671) |
 | Wed, 18 Feb 2026 14:11:22 GMT | Bulletproof Hosting: The Internet’s Shadowy Landlords | Daniel Iwugo | [Read More](https://medium.com/p/fa72d48d35d8) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Feb 2026 10:05:21 GMT | Gods Eye: The Reconnaissance Tool I Wish I Had 5 Years Ago | Dhananjay Pathak | [Read More](https://medium.com/p/e7b2a7fdb211) |
 | Wed, 18 Feb 2026 09:58:09 GMT | HTB Signed Writeup & Walkthrough | The Mastermind Notes | [Read More](https://medium.com/p/20b5d0c681c8) |
 | Wed, 18 Feb 2026 09:44:18 GMT | Let’s go physical(ly separated) | ArBauDie.IT | [Read More](https://medium.com/p/4053ae5be14c) |
-| Wed, 18 Feb 2026 09:42:30 GMT | TryHackMe — Pickle Rick — walkthrough | RK | [Read More](https://medium.com/p/bcb25fe01a93) |
-| Wed, 18 Feb 2026 09:38:25 GMT | Mastering Linux Fundamentals: OverTheWire Bandit Level 0 → 20 Write-up | Rezafairusnugraha | [Read More](https://medium.com/p/fa393a68b965) |
-| Wed, 18 Feb 2026 09:35:06 GMT | Cybersecurity Risks in School Payment Systems: Protecting the Digital Playground | EduTrak Software | [Read More](https://medium.com/p/5a6ebc1cd97b) |
-| Wed, 18 Feb 2026 09:34:52 GMT | Information Technology Programs for International Students 2026 with International Foundation Group… | Study International Foundation | [Read More](https://medium.com/p/851132734b27) |
-| Wed, 18 Feb 2026 09:30:20 GMT | Electronic Security Solutions: Building a Safer Future with Total Security Solutions | Ciss India | [Read More](https://medium.com/p/82b5d92d2cab) |
-| Wed, 18 Feb 2026 09:30:04 GMT | UK Cyber Workforce Boom: What It Means for SME Cybersecurity Budgets, Hiring, and Day-to-Day Risk | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/52df5d4669dd) |
-| Wed, 18 Feb 2026 09:28:15 GMT | Electronic Security Solutions: Building a Safer Future with Total Security Solutions | Ciss India | [Read More](https://medium.com/p/d5da5247b0d2) |
-| Wed, 18 Feb 2026 09:26:01 GMT | DMARC-TEL: Evidence-Driven Governance for Email Phishing Resilience | Samuel Partida Cabañas | [Read More](https://medium.com/p/11db1321d519) |
-| Wed, 18 Feb 2026 09:24:51 GMT | TryHackMe — Intermediate Nmap writeup​ | RK | [Read More](https://medium.com/p/08bf435cd4f1) |
-| Wed, 18 Feb 2026 09:23:32 GMT | Zero Trust Implementation | Boris Gigovic | [Read More](https://medium.com/p/d85517da0cc3) |
-| Wed, 18 Feb 2026 09:16:19 GMT | How a Session Puzzling Vulnerability Led to Financial Loss — A Real-World Case Study | Pranali Lambe | [Read More](https://medium.com/p/b31da60e4737) |
-| Wed, 18 Feb 2026 09:15:40 GMT | Nmap Commands | Swetha | [Read More](https://medium.com/p/625c93961d91) |
-| Wed, 18 Feb 2026 09:15:22 GMT | HOW THE WEB WORKS — TryHackMe Module. Room 2: HTTP IN DETAIL | Raymond Ebonine | [Read More](https://medium.com/p/c0dcf7e41116) |
-| Wed, 18 Feb 2026 09:14:39 GMT | TryHackMe Relevant Walkthrough: From Anonymous Share to SYSTEM | Ram | [Read More](https://medium.com/p/140b3b74a15d) |
-| Wed, 18 Feb 2026 09:14:14 GMT | Your dev skills are a cybersecurity career in disguise | JP Caparas | [Read More](https://medium.com/p/eeb79d302ad2) |
-| Wed, 18 Feb 2026 09:13:32 GMT | Fear Wears Two Faces | AfterRainWrites | [Read More](https://medium.com/p/005c821ad3fd) |
-| Wed, 18 Feb 2026 09:08:21 GMT | Foundations Of Blue Teaming: Building Strong Cyber Defenses | Redfox Security | [Read More](https://medium.com/p/ff909e9ea38f) |
-| Wed, 18 Feb 2026 09:03:52 GMT | Defense in Depth: The Art of Building Security Like a Fortress | Ayxan Amirov | [Read More](https://medium.com/p/e860da45d8cc) |
-| Wed, 18 Feb 2026 09:01:01 GMT | I Found 200+ Leaked Passwords for a Single Company in 5 Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/0b1ccbcca462) |
