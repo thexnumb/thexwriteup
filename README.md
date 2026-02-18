@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Feb 2026 19:42:42 GMT | Web Proxy’lerine Giriş | Songül Kızılay Özügürler | [Read More](https://medium.com/p/660731f8424e) |
+| Wed, 18 Feb 2026 19:42:05 GMT | EntroGuard — Day 1 | Nisarg Patel | [Read More](https://medium.com/p/404f05a2432f) |
+| Wed, 18 Feb 2026 19:39:54 GMT | Stop Exposing Your Vector Database: The Architect’s Guide to Private RAG using AWS VPCs | Shreya Singhal | [Read More](https://medium.com/p/796f84a129c3) |
+| Wed, 18 Feb 2026 19:38:09 GMT | That Time I Accidentally Sent My NTLM Hash to My Own Server (And What I Learned) | 404 | [Read More](https://medium.com/p/81df70d1fddf) |
+| Wed, 18 Feb 2026 19:36:50 GMT | My first story | Carlosjf It | [Read More](https://medium.com/p/7f6ab1713942) |
+| Wed, 18 Feb 2026 19:34:30 GMT | Seamless User Experiences Across Devices: Balancing Auth Friction, Security, and Data Travel | Komali Avadhani | [Read More](https://medium.com/p/10fd0c3fe452) |
+| Wed, 18 Feb 2026 19:33:47 GMT | Silent Surveillance: Why 6.2 Million Dutch Residents Need to Re-think Their Messaging Security | Amir | [Read More](https://medium.com/p/cd17fecac993) |
+| Wed, 18 Feb 2026 19:29:00 GMT | Footprinting | Mohit kumawat | [Read More](https://medium.com/p/6b85a5996e51) |
+| Wed, 18 Feb 2026 19:26:41 GMT | No Story Stats, No Distribution and Presentation of My New Story | Adalea | [Read More](https://medium.com/p/e1bddc5cc81b) |
+| Wed, 18 Feb 2026 19:17:43 GMT | The Cryptography Concept Journey — Shor’s Algorithm | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/6fc60e26daab) |
+| Wed, 18 Feb 2026 19:04:09 GMT | The CIA Triad - Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/408739f4d0ef) |
+| Wed, 18 Feb 2026 19:04:02 GMT | My Journey to the Certified AppSec Practitioner (CAP): A Comprehensive Review | MrGood | [Read More](https://medium.com/p/fe86591443dc) |
+| Wed, 18 Feb 2026 19:03:49 GMT | Broken Access Control: User Role Manipulation | Sanjivani Dobhal | [Read More](https://medium.com/p/0795d5354340) |
 | Wed, 18 Feb 2026 18:58:13 GMT | 2.4GHz jamming: The basics | Tom | [Read More](https://medium.com/p/0cae915489bc) |
 | Wed, 18 Feb 2026 18:38:58 GMT | Understanding Footprinting in Cybersecurity | Anandhu Kannan | [Read More](https://medium.com/p/8d04b57b9a3b) |
 | Wed, 18 Feb 2026 18:36:50 GMT | Enumeration | Mohit kumawat | [Read More](https://medium.com/p/e62d6ca00e1a) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Feb 2026 13:58:17 GMT | The January Hangover: 5 Critical Vulnerabilities Haunting Security Teams in 2026 | Cyber Aries | [Read More](https://medium.com/p/7996bca35856) |
 | Wed, 18 Feb 2026 13:56:05 GMT | Real Ethical Hacking — New Way to learn | Nolan Stark | [Read More](https://medium.com/p/9dd90ddf88d9) |
 | Wed, 18 Feb 2026 13:51:23 GMT | MetaMask Users Targeted with Phishing Emails: What Security Teams Must Know | Chetan Seripally | [Read More](https://medium.com/p/200c1cede279) |
-| Wed, 18 Feb 2026 13:48:12 GMT | The Era of Vibecoding Is Here — Now We Need Vibesec | Rammohanreddy | [Read More](https://medium.com/p/dac4c4373780) |
-| Wed, 18 Feb 2026 13:47:10 GMT | Someone Cloned an Oura Ring MCP Server and Poisoned the Supply Chain. We Can Fix This. | Phil Stafford | [Read More](https://medium.com/p/931acfaac8e3) |
-| Wed, 18 Feb 2026 13:46:18 GMT | Beyond CVEs: Why Your CI/CD Pipeline Needs npm-security-auditter | Matthias Kluth | [Read More](https://medium.com/p/ec7fe3de11d6) |
-| Wed, 18 Feb 2026 13:44:14 GMT | I’m trying to complete a CTF about Cookie Monster Secret Recipe | Billy Elvonda Aron Umpel | [Read More](https://medium.com/p/cd143a76ec5b) |
-| Wed, 18 Feb 2026 13:39:57 GMT | Love at First Breach 2026 - My Complete Walk through - SERIES | 0X595 | [Read More](https://medium.com/p/0d83bd2ad289) |
-| Wed, 18 Feb 2026 13:34:26 GMT | Browser Isolation: Smart Containment or Operational Burden | Shaaheen Sheik Mahumood | [Read More](https://medium.com/p/1b128604e8aa) |
-| Wed, 18 Feb 2026 13:25:11 GMT | Bedah Kasus Lumma Stealer (Fake CAPTCHA) | B0$_JOk0 | [Read More](https://medium.com/p/8b07ce140fd1) |
-| Wed, 18 Feb 2026 13:08:45 GMT | SQL Injection in 2026: The Vulnerability That Won’t Retire | Lakshbhati | [Read More](https://medium.com/p/d65229e82e01) |
-| Wed, 18 Feb 2026 13:08:05 GMT | Security Architecture: Understanding Zones, Subnetting and CIDR | Odunuga Abd fattah | [Read More](https://medium.com/p/a4362bcdbf8b) |
-| Wed, 18 Feb 2026 13:07:07 GMT | NordVPN Review 2026 Honest Speed Tests, Privacy Features & Is It Still Worth It? | Sadam Ali | [Read More](https://medium.com/p/b1e8dac1d585) |
-| Wed, 18 Feb 2026 13:03:15 GMT | Getting Started with JSON Web Tokens (JWT) | Ruvarashe Matchaba | [Read More](https://medium.com/p/89de64a26375) |
-| Wed, 18 Feb 2026 13:01:31 GMT | Zoinks!- Unmasking Vulnerable AI Agents with AgentCore Evaluator | Mary Becken | [Read More](https://medium.com/p/525a000208c4) |
-| Wed, 18 Feb 2026 13:00:38 GMT | The Day I Got Tired of Pretending I Was Fine | Versouls | [Read More](https://medium.com/p/7037591374ad) |
