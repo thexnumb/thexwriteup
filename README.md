@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Feb 2026 22:26:52 GMT | Building a Safer Future in the Age of Accelerating Technology | Bervice | [Read More](https://medium.com/p/2af7d7936fff) |
+| Wed, 18 Feb 2026 22:13:45 GMT | INE-Host & Network Penetration Testing: Network-Based Attacks CTF 1 by Singkhon | Singkhon K | [Read More](https://medium.com/p/b4e8f8b79f55) |
+| Wed, 18 Feb 2026 22:11:55 GMT | Why Your Building Has a 30% Security Void | Irwin Selvam | [Read More](https://medium.com/p/9abda0ee0da3) |
+| Wed, 18 Feb 2026 22:08:40 GMT | Detection Tuning for SOC | M. Deniz Cengiz | [Read More](https://medium.com/p/28d2ff102d72) |
+| Wed, 18 Feb 2026 22:06:00 GMT | Unfiltered Restart — Day 7: Networking Marathon, Part 2 | Maximillian Rueda | [Read More](https://medium.com/p/69bd86625099) |
+| Wed, 18 Feb 2026 22:02:56 GMT | Server-side Template Injection thm | @Knandan | [Read More](https://medium.com/p/3fc80d538a47) |
+| Wed, 18 Feb 2026 22:01:00 GMT | Unfiltered Restart — Day 7: Networking Marathon, Part 1 | Maximillian Rueda | [Read More](https://medium.com/p/1dc8ed1d92dc) |
+| Wed, 18 Feb 2026 21:58:43 GMT | OpenClaw Shows the Future of AI Agents | Jonathan Capriola | [Read More](https://medium.com/p/6be7012a44b7) |
+| Wed, 18 Feb 2026 21:55:18 GMT | DiamondNet — Explore the Hidden Web Like a Pro | Devilman24 | [Read More](https://medium.com/p/fad6e290cc3d) |
+| Wed, 18 Feb 2026 21:48:41 GMT | Speeding Toward the Encryption Cliff | Scott Dewing | [Read More](https://medium.com/p/09c1c1602a52) |
+| Wed, 18 Feb 2026 21:47:51 GMT | Free Cyber Security Consultation | Charles Burke | [Read More](https://medium.com/p/df6c102df221) |
+| Wed, 18 Feb 2026 21:37:33 GMT | The $4,000 Logo Design Offer That Turned Out to Be a Scam | Iqra Rafiq Khan | [Read More](https://medium.com/p/489fe408742f) |
 | Wed, 18 Feb 2026 21:08:03 GMT | Cisco Cybersecurity Module 1 (Part 1): The World of Cybersecurity | Favour Ugochi Ogbonnaya | [Read More](https://medium.com/p/20abbc8d40cc) |
 | Wed, 18 Feb 2026 21:01:00 GMT | The Ghost in Your Machine: Why OpenClaw’s ‘Local-First’ Autonomy Beats the Cloud Every Time | Anurag Jain | [Read More](https://medium.com/p/f626faa2ccec) |
 | Wed, 18 Feb 2026 20:59:25 GMT | How to Recover Online Accounts When Heirs Don’t Have Email Access | InheritSafe | [Read More](https://medium.com/p/5f85c89cab19) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Feb 2026 15:30:30 GMT | NIS2 Directive: Insights from the Field | Eran Atias | [Read More](https://medium.com/p/984cc67dfdf3) |
 | Wed, 18 Feb 2026 15:29:34 GMT | Beginner Web Application VAPT using DVWA (OWASP Top 10) | Shobinmendez | [Read More](https://medium.com/p/b1dccf96bf9c) |
 | Wed, 18 Feb 2026 15:26:00 GMT | Advanced Kafka Security Patterns You Can’t Ignore in 2026 | Michael Preston | [Read More](https://medium.com/p/bc04f2947284) |
-| Wed, 18 Feb 2026 15:21:42 GMT | Why Professional Security Services Are a Strategic Investment for Modern Businesses | Rapport Security | [Read More](https://medium.com/p/446cb4cb8677) |
-| Wed, 18 Feb 2026 15:17:37 GMT | Getting Started with Bug Bounties: Core Vulnerabilities and Basic Testing | MRxO1 | [Read More](https://medium.com/p/77603e58aa79) |
-| Wed, 18 Feb 2026 15:11:16 GMT | Membedah Fase Pengintaian: Information Gathering dalam Metodologi OWASP WSTG | Diva Rizky Alfitrah | [Read More](https://medium.com/p/c6c4c9d1755a) |
-| Wed, 18 Feb 2026 15:09:58 GMT | My first time using John the Ripper: It’s not what I expected | VxOM | [Read More](https://medium.com/p/000f24c21adf) |
-| Wed, 18 Feb 2026 15:01:02 GMT | Kubernetes Namespaces Explained — Organize, Secure & Scale Your Cluster | CloudOpsCraft | [Read More](https://medium.com/p/bcb4b5f84e82) |
-| Wed, 18 Feb 2026 15:01:02 GMT | Cyber Briefing: 2026.02.18 | CyberMaterial | [Read More](https://medium.com/p/476a4e00bdc8) |
-| Wed, 18 Feb 2026 14:57:32 GMT | Your Real Control Plane Is Your Customers | Dr. Enrique Somoza, D.Sc. | [Read More](https://medium.com/p/bfc2f48269a0) |
-| Wed, 18 Feb 2026 14:56:52 GMT | Palo Alto Networks Moves Toward Agentic Endpoint Security with Koi Security Acquisition | Jas | [Read More](https://medium.com/p/326ac28302b1) |
-| Wed, 18 Feb 2026 14:48:37 GMT | Cybersecurity Incident: Where does the cycle of “Life” start? | Jerome Gutierrez | [Read More](https://medium.com/p/4c056ccc86ba) |
-| Wed, 18 Feb 2026 14:44:39 GMT | From Linting to Purple Teaming: A Detection Testing Toolkit | Steve Cooper | [Read More](https://medium.com/p/428826a5e35e) |
-| Wed, 18 Feb 2026 14:41:51 GMT | Building a Microsoft Entra ID IAM Lab: Identity Lifecycle, RBAC, and Secure Offboarding | Roland Archie | [Read More](https://medium.com/p/5a45a7f601e5) |
-| Wed, 18 Feb 2026 14:40:34 GMT | VPN’s The Privacy Trap | Thomas Karat | [Read More](https://medium.com/p/4aef67f39634) |
