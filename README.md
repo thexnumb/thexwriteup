@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Feb 2026 18:58:13 GMT | 2.4GHz jamming: The basics | Tom | [Read More](https://medium.com/p/0cae915489bc) |
+| Wed, 18 Feb 2026 18:38:58 GMT | Understanding Footprinting in Cybersecurity | Anandhu Kannan | [Read More](https://medium.com/p/8d04b57b9a3b) |
+| Wed, 18 Feb 2026 18:36:50 GMT | Enumeration | Mohit kumawat | [Read More](https://medium.com/p/e62d6ca00e1a) |
+| Wed, 18 Feb 2026 18:36:00 GMT | A Bus Ride Lesson in Cybersecurity Awareness | Aisha Majeed | [Read More](https://medium.com/p/f4fe81263ba0) |
+| Wed, 18 Feb 2026 18:33:50 GMT | Secure Deployment & Hardening of Google Cloud Platform (GCP) Projects — Part VI | SOCFortress | [Read More](https://medium.com/p/f16feb00659a) |
+| Wed, 18 Feb 2026 18:31:43 GMT | I Gave an AI Agent Shell Access to My Business Server. Here’s How I Didn’t Get Pwned | Kurt Hamm | [Read More](https://medium.com/p/6779852780dd) |
+| Wed, 18 Feb 2026 18:31:28 GMT | Electromechanical Components Market: Growth, Trends, and What the Future Holds Through 2033 | Strategic Revenue Insights Inc. | [Read More](https://medium.com/p/d591313bb896) |
+| Wed, 18 Feb 2026 18:27:24 GMT | Introduction to Digital Forensic - Lab 01 | Pjovanbagas | [Read More](https://medium.com/p/70566e6cb98d) |
+| Wed, 18 Feb 2026 18:24:55 GMT | Your Own Personal Insider Threat | Niclas Kjellin | [Read More](https://medium.com/p/8971cfc1cdf2) |
+| Wed, 18 Feb 2026 18:24:15 GMT | CopyPasta writeup (BAC) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/bdf03ba7c16e) |
+| Wed, 18 Feb 2026 18:21:18 GMT | Prompt Injection: The SQL Injection of LLMs? | Servifyspheresolutions | [Read More](https://medium.com/p/59f27c0dbfac) |
+| Wed, 18 Feb 2026 18:20:32 GMT | Dreamhack Farewell write-up | Lelamhoang | [Read More](https://medium.com/p/a79928547f54) |
+| Wed, 18 Feb 2026 18:19:57 GMT | YouTube Down: A Technical Deep-Dive by Jazz Cyber Shield | Jazz Cyber Shield | [Read More](https://medium.com/p/4a84a499317a) |
+| Wed, 18 Feb 2026 18:08:46 GMT | Editor Machine / Writeup | Achraf Nouri | [Read More](https://medium.com/p/be24c0fc3b7e) |
+| Wed, 18 Feb 2026 18:00:41 GMT | I Built the Most Expensive Note-Taking Server on Campus (Just to Edit a Text File) | Prateek Sharma | [Read More](https://medium.com/p/30972049f565) |
+| Wed, 18 Feb 2026 17:54:11 GMT | Building Secure Widget Systems with JavaScript & iframes | Alex Poloziouk | [Read More](https://medium.com/p/4efd1e7963cc) |
+| Wed, 18 Feb 2026 17:52:25 GMT | Even If MFA Fails, Security Must Still Hold and How Rainbow Secure Leads the Shift | Dr. Shashi Karhail | [Read More](https://medium.com/p/478132d88db7) |
+| Wed, 18 Feb 2026 17:52:15 GMT | Top Technology Trends in India: AI, Cybersecurity, and Gadgets in 2026 | Spotlightnewswork | [Read More](https://medium.com/p/298411cce1b7) |
+| Wed, 18 Feb 2026 17:48:19 GMT | What Love Never Warns You About | Muneesh NV | [Read More](https://medium.com/p/3e68b8409d75) |
 | Wed, 18 Feb 2026 17:39:15 GMT | How Managed IT Services Improve Cybersecurity? | The Algorithm | [Read More](https://medium.com/p/bb2c5292a740) |
 | Wed, 18 Feb 2026 17:36:10 GMT | Host & Network Penetration Testing: Post-Exploitation CTF 1 | Georgi Nikolov | [Read More](https://medium.com/p/4806c7754538) |
 | Wed, 18 Feb 2026 17:33:50 GMT | Hacking “Sea” — A SeaCMS Exploitation Walkthrough (OffSec Labs) | MGMK | [Read More](https://medium.com/p/307b4a1be65e) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Feb 2026 13:03:15 GMT | Getting Started with JSON Web Tokens (JWT) | Ruvarashe Matchaba | [Read More](https://medium.com/p/89de64a26375) |
 | Wed, 18 Feb 2026 13:01:31 GMT | Zoinks!- Unmasking Vulnerable AI Agents with AgentCore Evaluator | Mary Becken | [Read More](https://medium.com/p/525a000208c4) |
 | Wed, 18 Feb 2026 13:00:38 GMT | The Day I Got Tired of Pretending I Was Fine | Versouls | [Read More](https://medium.com/p/7037591374ad) |
-| Wed, 18 Feb 2026 12:59:41 GMT | Building an Advanced Password Strength Analyzer using Python (With GUI) | Yashikamahawar | [Read More](https://medium.com/p/6f6950cf9781) |
-| Wed, 18 Feb 2026 12:54:27 GMT | Runtime Security: Definition and Why It’s No Longer Optional | Superasystem Inc. | [Read More](https://medium.com/p/20d1509ad1fc) |
-| Wed, 18 Feb 2026 12:47:47 GMT | I Reverse-Engineered Zomato’s Food Rescue Feature — Here’s What I Found Inside | Jatin Banga | [Read More](https://medium.com/p/f7043d3710ee) |
-| Wed, 18 Feb 2026 12:46:13 GMT | Cybersecurity Keeps Showing Up Too Late — and We Keep Acting Surprised | Peter Hillier/Halton | [Read More](https://medium.com/p/7a9f2d86d1c2) |
-| Wed, 18 Feb 2026 12:44:28 GMT | How to Fix the Linux Kernel sch_cake Vulnerability? | Emilyharbord | [Read More](https://medium.com/p/1d833148c3a9) |
-| Wed, 18 Feb 2026 12:42:42 GMT | Least Privilege | sahil | [Read More](https://medium.com/p/271dd9d7cb8d) |
-| Wed, 18 Feb 2026 12:40:32 GMT | The Great Bifurcation: Why the UK Must Anchor the AI Agent Economy in Hardware Reality | Simplified Complexity | [Read More](https://medium.com/p/61f34bc8e2d7) |
-| Wed, 18 Feb 2026 12:39:15 GMT | Cybersecurity | sahil | [Read More](https://medium.com/p/d6dcb1b47f80) |
-| Wed, 18 Feb 2026 12:34:32 GMT | The Evolution of AI Jailbreaking: From Manual DAN Prompts to Autonomous Adversarial Agents | Alessandro Pignati | [Read More](https://medium.com/p/77abce95674a) |
-| Wed, 18 Feb 2026 12:34:21 GMT | Lumma Stealer (Fake CAPTCHA) Cyber Kill Chain | Abdielkristopher | [Read More](https://medium.com/p/1b1782a61bf6) |
-| Wed, 18 Feb 2026 12:34:13 GMT | Architecting Trust: How Coral Protocol Secures the Internet of Agents | Alessandro Pignati | [Read More](https://medium.com/p/79f1999e8229) |
-| Wed, 18 Feb 2026 12:28:02 GMT | Practicing Exposure in the Dark | Jerv Nai Matrap | [Read More](https://medium.com/p/4fe64a5135df) |
-| Wed, 18 Feb 2026 12:25:09 GMT | What Is IoT Security? Issues, Challenges, and Best Practices | Qualysec Technologies | [Read More](https://medium.com/p/5615406f97fe) |
-| Wed, 18 Feb 2026 12:24:15 GMT | Cloud IAM Drift Is the Silent Breach | Graylog | [Read More](https://medium.com/p/101b637e9502) |
-| Wed, 18 Feb 2026 12:23:25 GMT | The Flutter Security Bible | Unikwan | [Read More](https://medium.com/p/1cd749e7cbbb) |
-| Wed, 18 Feb 2026 12:21:05 GMT | The Golden Handcuffs of a Lie: I Was Famous Online, But Couldn’t Afford Heat | Farhad | [Read More](https://medium.com/p/075a1af6f3c1) |
-| Wed, 18 Feb 2026 12:17:08 GMT | techNbudy: A Modern Business Networking App for Startup Builders | techNbuddy | [Read More](https://medium.com/p/93cea03e8b7f) |
-| Wed, 18 Feb 2026 12:11:46 GMT | The 2026 OpenClaw Vulnerability Cluster (CVE‑2026‑26323, CVE‑2026‑26327, CVE‑2026‑26317… | gm0 | [Read More](https://medium.com/p/188eee2cade5) |
-| Wed, 18 Feb 2026 12:07:22 GMT | How Modern IT Services Help Businesses Scale Faster in 2026 | Suganthi Balaji | [Read More](https://medium.com/p/f8acb807382b) |
