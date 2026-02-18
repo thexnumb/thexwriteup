@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Feb 2026 16:29:07 GMT | I Indexed 329,473 Epstein Documents for $76/Month. Here’s What I Found. | Patrick Duggan | [Read More](https://medium.com/p/68cb4d5166ed) |
+| Wed, 18 Feb 2026 16:25:31 GMT | Day 6 — The Tool Maker | Armaan Nain | [Read More](https://medium.com/p/b0f0afb6b98c) |
+| Wed, 18 Feb 2026 16:22:00 GMT | Watch Me Poison Your MCP | ToxSec | [Read More](https://medium.com/p/09e68de5a648) |
+| Wed, 18 Feb 2026 16:18:14 GMT | How I Bypassed Giant Swarm’s Nginx Regex to Score a Critical SSRF | Sumit Shah (HackSage) | [Read More](https://medium.com/p/e7872ea25e16) |
+| Wed, 18 Feb 2026 16:15:17 GMT | What Really Happens When You Visit a Website: A Plain-English Look at Digital Tracking and AdTech | Joseph Sides | [Read More](https://medium.com/p/4ccd99c14314) |
+| Wed, 18 Feb 2026 16:14:07 GMT | What Is OWASP ZAP? A Simple Guide to Web App Security Testing | Andrew Keitany | [Read More](https://medium.com/p/8635bb2bdae2) |
+| Wed, 18 Feb 2026 16:10:06 GMT | Perkenalan Tentang Digital Forensik - ‘Lab 01’ | Babadoyosky | [Read More](https://medium.com/p/424a1d75dff6) |
+| Wed, 18 Feb 2026 16:08:06 GMT | TryHackMe - Cryptography Concepts - WriteUp | Axoloth | [Read More](https://medium.com/p/f39938beba12) |
+| Wed, 18 Feb 2026 16:02:38 GMT | TryHackMe - The CIA Triad - WriteUp | Axoloth | [Read More](https://medium.com/p/019ffd55a89d) |
+| Wed, 18 Feb 2026 15:55:51 GMT | 30 Days of Red Team: Day 25 — DCSync & Domain Admin Compromise | Maxwell Cross | [Read More](https://medium.com/p/d34a557920db) |
+| Wed, 18 Feb 2026 15:51:47 GMT | Building Production-Ready AI Agents: A Complete Security Guide (2026) | Aniket giri | [Read More](https://medium.com/p/2ea71c84bc81) |
+| Wed, 18 Feb 2026 15:51:39 GMT | Memilih Masa Depan di Era ASI | Eka Y Saputra | [Read More](https://medium.com/p/19d49ba5c610) |
+| Wed, 18 Feb 2026 15:49:56 GMT | What Companies Specialize in Oracle ICT Solutions for Manufacturing? | Conacent Consulting | [Read More](https://medium.com/p/133d4967dc4f) |
+| Wed, 18 Feb 2026 15:48:42 GMT | When a Login Page Becomes a Redirect Weapon: A Security Analysis of VPN-Based Banking Portals | Fabrian Ivan Prasetya | [Read More](https://medium.com/p/86363c9f4413) |
+| Wed, 18 Feb 2026 15:42:15 GMT | Dior, Louis Vuitton & Tiffany Fined $25M After Massive Data Breaches | IT_Engineer | [Read More](https://medium.com/p/4f66bfd00e59) |
+| Wed, 18 Feb 2026 15:30:30 GMT | NIS2 Directive: Insights from the Field | Eran Atias | [Read More](https://medium.com/p/984cc67dfdf3) |
+| Wed, 18 Feb 2026 15:29:34 GMT | Beginner Web Application VAPT using DVWA (OWASP Top 10) | Shobinmendez | [Read More](https://medium.com/p/b1dccf96bf9c) |
 | Wed, 18 Feb 2026 15:26:00 GMT | Advanced Kafka Security Patterns You Can’t Ignore in 2026 | Michael Preston | [Read More](https://medium.com/p/bc04f2947284) |
 | Wed, 18 Feb 2026 15:21:42 GMT | Why Professional Security Services Are a Strategic Investment for Modern Businesses | Rapport Security | [Read More](https://medium.com/p/446cb4cb8677) |
 | Wed, 18 Feb 2026 15:17:37 GMT | Getting Started with Bug Bounties: Core Vulnerabilities and Basic Testing | MRxO1 | [Read More](https://medium.com/p/77603e58aa79) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Feb 2026 10:53:29 GMT | Vibe Coding Meets Cybersecurity: The AI Coding Revolution That Could Either Build Your Future… or… | Stephan Goldberg | [Read More](https://medium.com/p/4f0cb0b53a1c) |
 | Wed, 18 Feb 2026 10:51:34 GMT | HTB Soulmate Writeup and Walkthrough | The Mastermind Notes | [Read More](https://medium.com/p/1402e2ed9218) |
 | Wed, 18 Feb 2026 10:46:06 GMT | Poddtips: Intervjuer, hackerhistoria och djupdykning | Martin Björsberg | [Read More](https://medium.com/p/ff0eb352c27f) |
-| Wed, 18 Feb 2026 10:45:33 GMT | WebStrike — Cyberdefender | Naihalmerchant | [Read More](https://medium.com/p/8001d7f808b4) |
-| Wed, 18 Feb 2026 10:41:08 GMT | Cybersecurity Is a Responsibility, Not a Shift | Samyakgoel | [Read More](https://medium.com/p/e05bf2a36164) |
-| Wed, 18 Feb 2026 10:40:52 GMT | Secure Your Home with the Best Wireless Garage Door Sensor | Criminology Expert | [Read More](https://medium.com/p/3c3b2ac50f6b) |
-| Wed, 18 Feb 2026 10:36:55 GMT | Not the File, Just the Name: Exploring Stored XSS in Upload Functionality | Anuraggopalakrishnan | [Read More](https://medium.com/p/d574652eca62) |
-| Wed, 18 Feb 2026 10:36:19 GMT | Advanced Business Logic Attacks Part 5 | ghostyjoe | [Read More](https://medium.com/p/613438cea280) |
-| Wed, 18 Feb 2026 10:31:05 GMT | IDN Cyber Defense Bootcamp: Introduction to Digital Forensics | EnruRamadhan | [Read More](https://medium.com/p/fa31d374e3d2) |
-| Wed, 18 Feb 2026 10:30:07 GMT | How to Balance Accuracy, Cost, and Latency in AI Systems? | Maruti Techlabs | [Read More](https://medium.com/p/0b6df57a6e78) |
-| Wed, 18 Feb 2026 10:23:05 GMT | THE GHOST CHILD | O. J. Okpabi | [Read More](https://medium.com/p/68f39a34ea19) |
-| Wed, 18 Feb 2026 10:19:08 GMT | Apple Looks to Broaden Privacy Safeguards Across All Devices | GoTrust Tech | [Read More](https://medium.com/p/9e9f65192c37) |
-| Wed, 18 Feb 2026 10:19:05 GMT | Shorts: If you do AI dev then you MUST get a separate machine! | Mod Elephant | [Read More](https://medium.com/p/d5ee4abf1bf5) |
-| Wed, 18 Feb 2026 10:16:35 GMT | NTT Data Opens Four AI-Powered Cyber Defence Centres in India | GoTrust Tech | [Read More](https://medium.com/p/5acd5777d615) |
-| Wed, 18 Feb 2026 10:16:00 GMT | NERC CIP: The Mandatory Standard Protecting North America’s Power Grid | urjasec | [Read More](https://medium.com/p/0c0713cc722c) |
-| Wed, 18 Feb 2026 10:09:04 GMT | Professional IT Services: The Backbone of Secure and Scalable Business Operations | Gary Katz | [Read More](https://medium.com/p/53c32da3caf2) |
-| Wed, 18 Feb 2026 10:06:57 GMT | Best Vulnerability Assessment Test in India - CERT-In Company | Thiripathiv | [Read More](https://medium.com/p/4b550858c158) |
-| Wed, 18 Feb 2026 10:05:21 GMT | Gods Eye: The Reconnaissance Tool I Wish I Had 5 Years Ago | Dhananjay Pathak | [Read More](https://medium.com/p/e7b2a7fdb211) |
-| Wed, 18 Feb 2026 09:58:09 GMT | HTB Signed Writeup & Walkthrough | The Mastermind Notes | [Read More](https://medium.com/p/20b5d0c681c8) |
-| Wed, 18 Feb 2026 09:44:18 GMT | Let’s go physical(ly separated) | ArBauDie.IT | [Read More](https://medium.com/p/4053ae5be14c) |
