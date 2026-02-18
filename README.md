@@ -12,12 +12,32 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Feb 2026 04:16:19 GMT | Why Cloud Security Controls Are Vital for Your Backup and Recovery Workflows | Tycoonstories | [Read More](https://medium.com/p/544f40771819) |
+| Wed, 18 Feb 2026 04:16:08 GMT | Why Cloud Security Controls Are Vital for Your Backup & Recovery Systems | Supraja | [Read More](https://medium.com/p/ed03759a7bc8) |
+| Wed, 18 Feb 2026 04:14:29 GMT | ENGINEERING STUDENTS DON’T NEED MORE MOTIVATION — THEY NEED THIS INSTEAD. | Sajitha Vivekanandan | [Read More](https://medium.com/p/47346a14039c) |
+| Wed, 18 Feb 2026 04:07:24 GMT | Day 02 of 300 | Hasib Al Hasan | [Read More](https://medium.com/p/8b3eb3eec3ec) |
+| Wed, 18 Feb 2026 04:04:49 GMT | “The illiterate of the future will not be the person who cannot read. | Jhaaparna | [Read More](https://medium.com/p/39d8cfae271e) |
+| Wed, 18 Feb 2026 04:03:56 GMT | OverTheWire Bandit Level 0–20: Step-by-Step Walkthrough untuk Pemula | Firmansyah Dzakwan Arifien | [Read More](https://medium.com/p/7619b7e1a53d) |
+| Wed, 18 Feb 2026 04:03:54 GMT | Starting My Cybersecurity Journey. | Hasib Al Hasan | [Read More](https://medium.com/p/cd0826e77c9e) |
+| Wed, 18 Feb 2026 04:00:41 GMT | The Unwatchable Student: A Technical Case Study on Why Client-Side Proctoring Can’t Be Trusted | CyberAmir | [Read More](https://medium.com/p/61dc7afc3485) |
+| Wed, 18 Feb 2026 03:56:39 GMT | Best Security Awareness Training Platform for Businesses | Maxatlasofficial | [Read More](https://medium.com/p/e804f5eb20dd) |
+| Wed, 18 Feb 2026 03:52:33 GMT | Unstable Twin WriteUP TryHackMe | cat0x01 | [Read More](https://medium.com/p/e244e822493a) |
+| Wed, 18 Feb 2026 03:52:10 GMT | One-Click Account Takeover via Deep Link Token Auto-Append | BaymaxPop23 | [Read More](https://medium.com/p/ad91993bd336) |
+| Wed, 18 Feb 2026 03:37:13 GMT | Bandit Level 2 → 3: Tips Membaca Nama File yang Memiliki Spasi (Spaces in Filenames) | Galih Permana Rizki | [Read More](https://medium.com/p/620fa4c6600c) |
+| Wed, 18 Feb 2026 03:31:55 GMT | Logout Is Harder Than Login And Most Developers Don’t Realize It | Sanjeevani Bhandari | [Read More](https://medium.com/p/7a09e949497f) |
+| Wed, 18 Feb 2026 03:22:14 GMT | تحديات الباحث المستقل | Mohammad Hanifeh | [Read More](https://medium.com/p/a43d5e9374b9) |
+| Wed, 18 Feb 2026 03:01:00 GMT | The “Soul” Stealer: Why Your AI Assistant is the Newest Target for Malware | Ismail Hakim | [Read More](https://medium.com/p/be685f675849) |
+| Wed, 18 Feb 2026 02:57:39 GMT | Choosing Easy Decisions v. Habit of Choosing Better Ones | Bhar | [Read More](https://medium.com/p/e43c2d2c8ede) |
+| Wed, 18 Feb 2026 02:41:22 GMT | What Really Happens When Your PHP App Gets XSS — And You Don’t Even Notice | Ann R. | [Read More](https://medium.com/p/4147a9a8f3cd) |
+| Wed, 18 Feb 2026 02:34:30 GMT | Empathy | Adam L. | [Read More](https://medium.com/p/c8fc3b1368f5) |
+| Wed, 18 Feb 2026 02:31:01 GMT | Ward: The Laravel Security Scanner You Can’t Ignore | Sadique Ali | [Read More](https://medium.com/p/078413f0c8da) |
 | Wed, 18 Feb 2026 02:20:46 GMT | When YouTube Goes Down, Your Business Stays Down: Why Availability Isn’t Optional | Shield Identity | [Read More](https://medium.com/p/31f651776553) |
 | Wed, 18 Feb 2026 01:50:44 GMT | CYBER SECURITY NEWS TODAY
 Cyber threats are rising fast — and attackers are getting smarter every… | KOSCYBER | [Read More](https://medium.com/p/4911738020c6) |
 | Wed, 18 Feb 2026 01:44:40 GMT | Introduction To Digital Forensics Lab 01 | nikyfadyla | [Read More](https://medium.com/p/73f6b723f242) |
 | Wed, 18 Feb 2026 01:44:21 GMT | THM — SOC Simulator -> Phishing Unfolding | EduKayky | [Read More](https://medium.com/p/8d7f5cc6d913) |
 | Wed, 18 Feb 2026 01:37:09 GMT | Authorisation BypassVulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/820f4e7bbc53) |
+| Wed, 18 Feb 2026 01:33:27 GMT | Dari Fake CAPTCHA ke Credential Theft: Analisis Lumma Stealer Menggunakan Cyber Kill Chain | Syahbagus Radithya Haryo Santoso | [Read More](https://medium.com/p/a721faac88b8) |
 | Wed, 18 Feb 2026 01:31:01 GMT | Refusal Patterns That Break at the Tool Boundary | Praxen | [Read More](https://medium.com/p/d66df99fd1ff) |
 | Wed, 18 Feb 2026 01:31:01 GMT | When Agents Escalate Scope, It’s Usually Permission | Duckweave | [Read More](https://medium.com/p/fafbd052fe58) |
 | Wed, 18 Feb 2026 01:31:01 GMT | Shared Agent Memory: The Multi-Tenant Time Bomb | Nexumo | [Read More](https://medium.com/p/b5e2ea0b306d) |
@@ -93,23 +113,3 @@ Cyber threats are rising fast — and attackers are getting smarter every…
 | Tue, 17 Feb 2026 19:06:28 GMT | Capability-Based Planning. | Mohammed Brückner | [Read More](https://medium.com/p/277dfc0d8fcb) |
 | Tue, 17 Feb 2026 19:06:20 GMT | Exam Review: Certified AppSec Practitioner (CAP) | Mrittika Debnath | [Read More](https://medium.com/p/81b11b77532e) |
 | Tue, 17 Feb 2026 19:03:03 GMT | SSRF Vulnerability and Detecting It With AI, Enter See-SURF!! | Vaibhav Agrawal | [Read More](https://medium.com/p/f519b19c9d36) |
-| Tue, 17 Feb 2026 19:01:00 GMT | EU GDPR — Article 16 (Right to Rectification) | MDM Team | [Read More](https://medium.com/p/e0214f97d038) |
-| Tue, 17 Feb 2026 18:50:40 GMT | Day 5 — The Imaginary Path | Armaan Nain | [Read More](https://medium.com/p/75d24151a173) |
-| Tue, 17 Feb 2026 18:42:16 GMT | The Next Frontier in Cybersecurity: Protecting Identity Persistence After Authentication | Rekuway | [Read More](https://medium.com/p/e1c503776462) |
-| Tue, 17 Feb 2026 18:31:15 GMT | A weird encounter | Nixk2000 | [Read More](https://medium.com/p/c87d545c9402) |
-| Tue, 17 Feb 2026 18:31:01 GMT | Business Analysis: The Most Misunderstood Role in Tech | Marilena Agostino | [Read More](https://medium.com/p/a67b4aa41cf7) |
-| Tue, 17 Feb 2026 18:30:08 GMT | Ana Waen?! | Mohammad Tawallbeh | [Read More](https://medium.com/p/869c3d721f10) |
-| Tue, 17 Feb 2026 18:22:27 GMT | Is It Too Late to Start a Career as a Smart Contract Security Researcher? | Abraham | [Read More](https://medium.com/p/75e0bbc4c7d8) |
-| Tue, 17 Feb 2026 18:20:05 GMT | Lumma Stealer (Fake CAPTCHA) | Lovindfirdaus | [Read More](https://medium.com/p/8a917d27a643) |
-| Tue, 17 Feb 2026 18:19:43 GMT | Security Ticketing (Cybrary Lab) | Abdul Moeez Siddiqui | [Read More](https://medium.com/p/3ff93adc8b90) |
-| Tue, 17 Feb 2026 18:17:02 GMT | Stop Cloud Drive Leaks With Simple DLP Rules | Geoffrey Wenger | [Read More](https://medium.com/p/74499bdc5704) |
-| Tue, 17 Feb 2026 18:17:01 GMT | Audits in Depth: What a Serious Web3 Audit Actually Looks Like | Exploitless | [Read More](https://medium.com/p/dc2f8970fd08) |
-| Tue, 17 Feb 2026 18:13:17 GMT | Introducing ExitBox: Run AI Coding Agents in Complete Isolation | Cloud Exit | [Read More](https://medium.com/p/6013fb5bdd06) |
-| Tue, 17 Feb 2026 18:10:11 GMT | Steam Deck Hit by RAM Crisis, Apple Tests Secure RCS, and Mistral Buys a Cloud - The Daily Tech… | Souren Stepanyan | [Read More](https://medium.com/p/19aedf2de97d) |
-| Tue, 17 Feb 2026 18:10:10 GMT | CYBERDUDEBIVASH Top Tricks to Effectively Analyse a Rust-Based Malware | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/0049bd1274fd) |
-| Tue, 17 Feb 2026 18:06:24 GMT | Dialectica Project Request Q&A — 2/17/2026 | Bob Malin | [Read More](https://medium.com/p/0e79d5cda76b) |
-| Tue, 17 Feb 2026 18:02:29 GMT | When AI Defense Becomes a Security Leak: The Verbose Refusal | David Park | [Read More](https://medium.com/p/94d9b39a4013) |
-| Tue, 17 Feb 2026 17:59:06 GMT | Spring Boot Rate Limiting: Protect Your APIs from Abuse & DDoS | CodeTalks | [Read More](https://medium.com/p/6dcf5a5974ff) |
-| Tue, 17 Feb 2026 17:57:29 GMT | Burp Suite Certified Practitioner (BSCP) Çalışma Sürecim | Yiğit Şengezer | [Read More](https://medium.com/p/f0e222c57c97) |
-| Tue, 17 Feb 2026 17:49:12 GMT | AI Agent: EthoGPT Red-Teaming AI Just Got A Smart Strategic Upgrade | Adam M. Victor - Author - A.I. Ethics | [Read More](https://medium.com/p/54f046871f99) |
-| Tue, 17 Feb 2026 17:48:49 GMT | Refund Without Ownership Verification: A Hidden Business Logic Risk | Elia carlos | [Read More](https://medium.com/p/b16f7cb2a1a4) |
