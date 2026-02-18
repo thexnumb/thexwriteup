@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Feb 2026 08:36:22 GMT | When an AI Agent Has No Contract: What OpenClaw Proves About Tier-0 Risk | Kai L. | [Read More](https://medium.com/p/7e2d642ae51d) |
+| Wed, 18 Feb 2026 08:33:21 GMT | Love At First Breach 2026 - Cupid’s Matchmaker (Tryhackme) | Prince Damiano | [Read More](https://medium.com/p/73da249340b8) |
+| Wed, 18 Feb 2026 08:33:02 GMT | Obstacle or Opportunity? How GRC Changed my Perception of Risk | Daniel | [Read More](https://medium.com/p/c4fdc1484f38) |
+| Wed, 18 Feb 2026 08:26:37 GMT | Pengantar Keamanan Siber pada Industrial Control System (Bagian 1) | Agung Nawan | [Read More](https://medium.com/p/d9f75ed796bc) |
+| Wed, 18 Feb 2026 08:22:27 GMT | Future of AI-Powered Cybersecurity | Manisha Chaudhary | [Read More](https://medium.com/p/81a9fc686846) |
+| Wed, 18 Feb 2026 08:21:12 GMT | How Does Antivirus Software Secure PCs from Ransomware Attacks? | Siyanoav | [Read More](https://medium.com/p/f46feea65b5e) |
+| Wed, 18 Feb 2026 08:19:03 GMT | Mobile Security: Chat with MobSF | Ashish Bansal | [Read More](https://medium.com/p/62bba32caaa8) |
+| Wed, 18 Feb 2026 08:16:04 GMT | 0x1: SIEM vs SOAR — Observe the Threat. Execute the Response. | ShadowXp0it3r | [Read More](https://medium.com/p/ca0b56f97f7d) |
+| Wed, 18 Feb 2026 08:13:42 GMT | How to Use AI Without Compromising Code Quality | Roshni Savaliya | [Read More](https://medium.com/p/544741ff4983) |
+| Wed, 18 Feb 2026 08:10:30 GMT | Advanced Hunting with VirusTotal for Investigation | Damag3dRoot | [Read More](https://medium.com/p/6c9d5da7728b) |
+| Wed, 18 Feb 2026 07:57:51 GMT | SUNSET MACHINE | Athul | [Read More](https://medium.com/p/89cd89fd5bb0) |
+| Wed, 18 Feb 2026 07:57:38 GMT | Mapping LockBit’s TTPs (Tactics, Techniques, and Procedures) to MITRE ATT&CK | Akanbi Paul Favour | [Read More](https://medium.com/p/ae9171f1c27b) |
+| Wed, 18 Feb 2026 07:54:40 GMT | “ใครบอก ว่าความยาวไม่สำคัญ” หมายถึงรหัสผ่าน | Uthen DEV | [Read More](https://medium.com/p/19b84ee1d760) |
+| Wed, 18 Feb 2026 07:53:19 GMT | The Hidden Power of /xmlrpc.php: Why WordPress XML-RPC Still Deserves Your Attention | Purushotham.R | [Read More](https://medium.com/p/cd060c737c3a) |
+| Wed, 18 Feb 2026 07:52:55 GMT | How Learning SQL Can Open Doors in the IT Industry | Viwisetech | [Read More](https://medium.com/p/c5fe2fd0133a) |
+| Wed, 18 Feb 2026 07:44:21 GMT | How I Validate YARA Rules Against Real Malware Samples | Motasem Hamdan | [Read More](https://medium.com/p/6b970069f552) |
+| Wed, 18 Feb 2026 07:41:16 GMT | TryHackMe Valenfind Writeup: Hardcoded Keys & Broken Hearts | Shreyash | [Read More](https://medium.com/p/f1cede83ab12) |
+| Wed, 18 Feb 2026 07:39:34 GMT | Zero Trust and Modern Security Architecture | Cynox Security LLP. | [Read More](https://medium.com/p/cf34e8715bb4) |
+| Wed, 18 Feb 2026 07:35:51 GMT | Linux Network Namespaces for DevOps and Security | Majidbasharat | [Read More](https://medium.com/p/92acbee9c3fa) |
 | Wed, 18 Feb 2026 07:31:00 GMT | The 8 Sandbox Cuts That Keep Tool-Using Agents Safe | Modexa | [Read More](https://medium.com/p/7e882223889e) |
 | Wed, 18 Feb 2026 07:26:22 GMT | An analysis on the Tor Browser | Chetan | [Read More](https://medium.com/p/ec721aad4fd4) |
 | Wed, 18 Feb 2026 07:23:33 GMT | Burp Suite Automation: 12 Custom Extensions That Save Hours for Pentesters and Bug Hunters | Very Lazy Tech | [Read More](https://medium.com/p/30df274b2f42) |
@@ -94,22 +113,3 @@ Cyber threats are rising fast — and attackers are getting smarter every…
 | Tue, 17 Feb 2026 23:26:22 GMT | Why Preventing OT Attacks is the Most Profitable Investment You’ll Ever Make | BlastWave | [Read More](https://medium.com/p/c01b489c7376) |
 | Tue, 17 Feb 2026 23:14:58 GMT | My Current Stint as a SOC Analyst | Clay Jones | [Read More](https://medium.com/p/1d6f90e74f74) |
 | Tue, 17 Feb 2026 23:07:15 GMT | Why I Just Wrote a Book on Agentic AI for Cybersecurity | Omar Santos | [Read More](https://medium.com/p/d070506b85c0) |
-| Tue, 17 Feb 2026 23:04:49 GMT | Malware Analysis Yolculuğumdan Geçmişten Bugüne Notlar | Hakan ÇEVİK | [Read More](https://medium.com/p/c34bbd2333c9) |
-| Tue, 17 Feb 2026 23:01:02 GMT | The Air-Gapped Chronicles: The Passport Stack | Piyoosh Rai | [Read More](https://medium.com/p/9a7f170ade9a) |
-| Tue, 17 Feb 2026 22:58:20 GMT | RPC Proxy Injection Part II: Breaking Elastic EDR Telemetry | S12 - 0x12Dark Development | [Read More](https://medium.com/p/7eac298508c2) |
-| Tue, 17 Feb 2026 22:53:53 GMT | How to Debug and Patch an Executable — Snyk CTF 2026 Writeup | Mahmoud Matar | [Read More](https://medium.com/p/d46cdc191d6a) |
-| Tue, 17 Feb 2026 22:50:55 GMT | Beyond the Hype of OpenClaw: A Threat Model for OpenClaw (using MAESTRO) | Omar Santos | [Read More](https://medium.com/p/b95ca422bff8) |
-| Tue, 17 Feb 2026 22:38:07 GMT | CTF Walkthroughs | Kyle | [Read More](https://medium.com/p/514a5c451001) |
-| Tue, 17 Feb 2026 22:37:30 GMT | Hacking Reality: Why Data Science Is the Blue Team’s Ultimate Exploit | Stephen Shaffer | [Read More](https://medium.com/p/236414d86ea8) |
-| Tue, 17 Feb 2026 22:36:36 GMT | REvil — GOLD SOUTHFIELD Lab(Walkthrough) | Pravat Dash | [Read More](https://medium.com/p/90db3e9d08dc) |
-| Tue, 17 Feb 2026 22:11:33 GMT | CyberDefenders: 3CX Supply Chain Lab Walkthrough | Omar Sherif | [Read More](https://medium.com/p/8c43e8bfd946) |
-| Tue, 17 Feb 2026 22:11:00 GMT | The Privacy-First Manifesto: Why Your Intelligence Data Should Never Leave Your Browser with TDC OS | Tugui Dragos-Constantin | [Read More](https://medium.com/p/5622e67d17aa) |
-| Tue, 17 Feb 2026 22:09:24 GMT | Why AI Agentic Red Teaming Is the Security Development Practice Every Enterprise Can No Longer… | Valdez Ladd | [Read More](https://medium.com/p/cb87d973e221) |
-| Tue, 17 Feb 2026 22:01:00 GMT | Unfiltered Restart — Day 6: In the Cloud | Maximillian Rueda | [Read More](https://medium.com/p/5bdba4fb1b26) |
-| Tue, 17 Feb 2026 22:00:24 GMT | Why Detective Stories Make SQL Click: The Case for Narrative-Based Database Education | anne nomynous | [Read More](https://medium.com/p/26c25c26f1a5) |
-| Tue, 17 Feb 2026 21:55:14 GMT | Bukele’s Gambit: | Miles Fisher | [Read More](https://medium.com/p/c7529ab81c60) |
-| Tue, 17 Feb 2026 21:52:11 GMT | Linux CLI Commands — aarononit.blogspot.com | Aaron DeJong | [Read More](https://medium.com/p/e499e8a98683) |
-| Tue, 17 Feb 2026 21:48:42 GMT | Practical Key Recovery via FMS: Attacking RC4 with Chosen IVs | Omarmoamen | [Read More](https://medium.com/p/470ed83512e4) |
-| Tue, 17 Feb 2026 21:43:22 GMT | Digispark ile Kayıtlı Wi-Fi Şifrelerini Çekmek ve FTP’ye Aktarmak — Rubber Ducky | Ahmet KARABAY | [Read More](https://medium.com/p/dc80ed08aae7) |
-| Tue, 17 Feb 2026 21:42:11 GMT | Mandatory Signals: Switzerland’s Cyber Reporting Regime and the Case for a Global Model | CCD-IS | [Read More](https://medium.com/p/aee7c3bfe956) |
-| Tue, 17 Feb 2026 21:34:52 GMT | Your 10 Vulnerabilities When You Install OpenClaw | Volodymyr Golosay | [Read More](https://medium.com/p/cc99a7c9eea0) |
