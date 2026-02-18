@@ -12,7 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Feb 2026 17:39:15 GMT | How Managed IT Services Improve Cybersecurity? | The Algorithm | [Read More](https://medium.com/p/bb2c5292a740) |
+| Wed, 18 Feb 2026 17:36:10 GMT | Host & Network Penetration Testing: Post-Exploitation CTF 1 | Georgi Nikolov | [Read More](https://medium.com/p/4806c7754538) |
+| Wed, 18 Feb 2026 17:33:50 GMT | Hacking “Sea” — A SeaCMS Exploitation Walkthrough (OffSec Labs) | MGMK | [Read More](https://medium.com/p/307b4a1be65e) |
+| Wed, 18 Feb 2026 17:32:37 GMT | Why You Should Think Twice Before Sharing Photos With AI | Pranav Khankriyal | [Read More](https://medium.com/p/c04a2dbbf669) |
+| Wed, 18 Feb 2026 17:29:21 GMT | How I Think KodeKloud Powers Its AWS Labs with IAM Automation and STS | Benedicta | [Read More](https://medium.com/p/1206fa44aec8) |
+| Wed, 18 Feb 2026 17:28:08 GMT | How To Solve Introduction to Digital Forensics Lab-01 Questions | Ammarnabil | [Read More](https://medium.com/p/01ddc7f3babe) |
+| Wed, 18 Feb 2026 17:22:36 GMT | Introduction to Digital Forensics: Lab 01 | Willy Syachputra | [Read More](https://medium.com/p/1d33232d8725) |
+| Wed, 18 Feb 2026 17:17:34 GMT | Why Traditional Defenses Fail Against Prompt Injection Attacks ️⚠️ | Lumae | [Read More](https://medium.com/p/a76803f0c9b0) |
+| Wed, 18 Feb 2026 17:13:08 GMT | Security and Emergency Preparedness | thatgrrlpdx | [Read More](https://medium.com/p/53bd604aa080) |
+| Wed, 18 Feb 2026 17:11:02 GMT | Why Splunk SOAR is a Must-Have for Security Operations Teams in 2026 | bitsIO | [Read More](https://medium.com/p/451f98c74c74) |
+| Wed, 18 Feb 2026 17:09:11 GMT | 85% of Enterprises Face AI Fraud: Your 2026 Guide to Deepfake Detection | UncovAI | [Read More](https://medium.com/p/392894769bcc) |
+| Wed, 18 Feb 2026 17:04:18 GMT | Data Analytics Platform With Open Source Tools — A Complete Guide to Modern Cyber Security Fraud… | Abhishek Jain | [Read More](https://medium.com/p/fbcd77be3fd3) |
+| Wed, 18 Feb 2026 16:59:13 GMT | Never Admire Quietly. | Jennifer Ayo | [Read More](https://medium.com/p/b69f204457b5) |
+| Wed, 18 Feb 2026 16:56:54 GMT | Top 5 Dangerous Hacking Tools | mohandika | [Read More](https://medium.com/p/1af2a63a7a41) |
+| Wed, 18 Feb 2026 16:54:28 GMT | Solving a Bugforge Challenge — Exploiting SQL Injection in a Pizza Store Application | Pranaya Shrestha | [Read More](https://medium.com/p/b55906098646) |
+| Wed, 18 Feb 2026 16:46:57 GMT | When Academia Catches Up: The NUS “Zombie Agents” Paper and What I Documented First in 2025 | Berend Watchus | [Read More](https://medium.com/p/99dc0a4e6314) |
+| Wed, 18 Feb 2026 16:46:04 GMT | Security Systems in Dubai: Smart Protection Solutions by Ziotech | DubaiBusinessAnalysis | [Read More](https://medium.com/p/1a17c2f1142a) |
+| Wed, 18 Feb 2026 16:42:49 GMT | Scripts και Bots: Πώς η τεχνολογία καταπολεμά το αθέμιτο παιχνίδι | Dasha  Gamer Blogger | [Read More](https://medium.com/p/d80ef1e18bff) |
 | Wed, 18 Feb 2026 16:29:07 GMT | I Indexed 329,473 Epstein Documents for $76/Month. Here’s What I Found. | Patrick Duggan | [Read More](https://medium.com/p/68cb4d5166ed) |
+| Wed, 18 Feb 2026 16:28:56 GMT | Net Sec Challenge — TryHackMe | Zeyad Mohamed Aly | [Read More](https://medium.com/p/f12c9f405163) |
+| Wed, 18 Feb 2026 16:26:46 GMT | Why Windows File Hash Blocklists Fail? | Michael Melnyk | [Read More](https://medium.com/p/1031878cf166) |
 | Wed, 18 Feb 2026 16:25:31 GMT | Day 6 — The Tool Maker | Armaan Nain | [Read More](https://medium.com/p/b0f0afb6b98c) |
 | Wed, 18 Feb 2026 16:22:00 GMT | Watch Me Poison Your MCP | ToxSec | [Read More](https://medium.com/p/09e68de5a648) |
 | Wed, 18 Feb 2026 16:18:14 GMT | How I Bypassed Giant Swarm’s Nginx Regex to Score a Critical SSRF | Sumit Shah (HackSage) | [Read More](https://medium.com/p/e7872ea25e16) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Feb 2026 12:17:08 GMT | techNbudy: A Modern Business Networking App for Startup Builders | techNbuddy | [Read More](https://medium.com/p/93cea03e8b7f) |
 | Wed, 18 Feb 2026 12:11:46 GMT | The 2026 OpenClaw Vulnerability Cluster (CVE‑2026‑26323, CVE‑2026‑26327, CVE‑2026‑26317… | gm0 | [Read More](https://medium.com/p/188eee2cade5) |
 | Wed, 18 Feb 2026 12:07:22 GMT | How Modern IT Services Help Businesses Scale Faster in 2026 | Suganthi Balaji | [Read More](https://medium.com/p/f8acb807382b) |
-| Wed, 18 Feb 2026 12:01:01 GMT | One-Pixel Attacks: Why Computer Vision Security Is Broken | Josh Gracie | [Read More](https://medium.com/p/56e8015158b7) |
-| Wed, 18 Feb 2026 12:00:35 GMT | Mr. Robot TryHackMe CTF Writeup - Complete Walkthrough | Bennet Sharwin | [Read More](https://medium.com/p/da0a41a5dac4) |
-| Wed, 18 Feb 2026 11:58:41 GMT | A Deep Dive into CORS Misconfigurations | Cyb3r M!nds | [Read More](https://medium.com/p/c3cc536b28ef) |
-| Wed, 18 Feb 2026 11:48:13 GMT | MySocialGuard: Building a Global Shield Against Online Scams Through Community Power | Ricky Andika | [Read More](https://medium.com/p/c9f13044c7ef) |
-| Wed, 18 Feb 2026 11:46:48 GMT | The Fortress of Data: Why Defense in Depth is the Bedrock of Modern Cybersecurity | LM | [Read More](https://medium.com/p/ff60aad03633) |
-| Wed, 18 Feb 2026 11:46:22 GMT | Ethical Hacking Training: Learning Defense Techniques Practically | solitaire projects | [Read More](https://medium.com/p/ec5c76606e65) |
-| Wed, 18 Feb 2026 11:41:00 GMT | Corporate Greed Chronicles: Fewer People, Fatter Dividends for Citigroup | Namir Sagheenanajar | [Read More](https://medium.com/p/c38c5735f229) |
-| Wed, 18 Feb 2026 11:40:34 GMT | From Compliance to Cyber Resilience: | David Udeme Inyang | [Read More](https://medium.com/p/514e48a5bd6f) |
-| Wed, 18 Feb 2026 11:33:50 GMT | {Ethical Hacking} Things No-one will Teach You | Nolan Stark | [Read More](https://medium.com/p/3564e92c9be9) |
-| Wed, 18 Feb 2026 11:31:00 GMT | Microsoft’s Security Dashboard for AI: Visibility Is Not the Same as Control | Kmori | [Read More](https://medium.com/p/ae3b9debf67c) |
-| Wed, 18 Feb 2026 11:25:33 GMT | The Humility of the “Beginner’s Mind” | Paul | [Read More](https://medium.com/p/2b661f950835) |
-| Wed, 18 Feb 2026 11:23:56 GMT | Write up Inj3ction Time | Zulfianarahmi | [Read More](https://medium.com/p/18f73d306322) |
-| Wed, 18 Feb 2026 11:17:06 GMT | SOC — My Cybersecurity Journey Begins | Manish Dahal | [Read More](https://medium.com/p/a506facec6b1) |
-| Wed, 18 Feb 2026 11:14:55 GMT | Which VAPT Tool Is Best for Small vs. Enterprise Businesses in 2026? | networsys | [Read More](https://medium.com/p/b79ded02d012) |
-| Wed, 18 Feb 2026 11:09:14 GMT | I Tried Four Ways to Build RAG for Cybersecurity Data. Here’s What Actually Broke — and Why. | Bh | [Read More](https://medium.com/p/d70c6ac7578a) |
-| Wed, 18 Feb 2026 10:56:42 GMT | Fast and Professional Services by an East London Locksmith | The Lock Specialist Ltd | [Read More](https://medium.com/p/98e03b237160) |
-| Wed, 18 Feb 2026 10:54:03 GMT | 10 Python Hacks That Made Me Look Like a Cybersecurity Pro | Muhummad Zaki | [Read More](https://medium.com/p/f4a24eb17ff6) |
-| Wed, 18 Feb 2026 10:53:29 GMT | Vibe Coding Meets Cybersecurity: The AI Coding Revolution That Could Either Build Your Future… or… | Stephan Goldberg | [Read More](https://medium.com/p/4f0cb0b53a1c) |
-| Wed, 18 Feb 2026 10:51:34 GMT | HTB Soulmate Writeup and Walkthrough | The Mastermind Notes | [Read More](https://medium.com/p/1402e2ed9218) |
-| Wed, 18 Feb 2026 10:46:06 GMT | Poddtips: Intervjuer, hackerhistoria och djupdykning | Martin Björsberg | [Read More](https://medium.com/p/ff0eb352c27f) |
