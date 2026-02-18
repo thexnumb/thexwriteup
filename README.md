@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Feb 2026 23:20:15 GMT | How I Found a Critical Unauthenticated LLM Prompt Editor in AI Infrastructure | Ziad (Zierax) | [Read More](https://medium.com/p/bfca98d68e1f) |
+| Wed, 18 Feb 2026 23:12:10 GMT | Reverse Engineering OpenAI Atlas | kurani | [Read More](https://medium.com/p/ef5a7d40e629) |
+| Wed, 18 Feb 2026 23:08:00 GMT | LLM01:2025 — Prompt Injection | Cyber-AppSec | [Read More](https://medium.com/p/982b944219a5) |
+| Wed, 18 Feb 2026 22:58:54 GMT | The n8n Secret: Access Environment Variables Without Hardcoding Anything | Dhia Kassab | [Read More](https://medium.com/p/ebef87de3396) |
+| Wed, 18 Feb 2026 22:47:48 GMT | AI Won’t Replace Cybersecurity. It Will Replace What Cybersecurity Was Designed to Protect | Mammoth Cyber | [Read More](https://medium.com/p/8355bf926d2d) |
+| Wed, 18 Feb 2026 22:43:04 GMT | France Declares Cyberspace a Theatre of Power in Landmark 2026–2030 National Strategy | CCD-IS | [Read More](https://medium.com/p/41eddddddb35) |
+| Wed, 18 Feb 2026 22:33:42 GMT | Meu primeiro LAB/CHALLENGE na jornada pro PENTESTER | ShutdownProtocol | [Read More](https://medium.com/p/dc6cf9d20f23) |
 | Wed, 18 Feb 2026 22:26:52 GMT | Building a Safer Future in the Age of Accelerating Technology | Bervice | [Read More](https://medium.com/p/2af7d7936fff) |
 | Wed, 18 Feb 2026 22:13:45 GMT | INE-Host & Network Penetration Testing: Network-Based Attacks CTF 1 by Singkhon | Singkhon K | [Read More](https://medium.com/p/b4e8f8b79f55) |
 | Wed, 18 Feb 2026 22:11:55 GMT | Why Your Building Has a 30% Security Void | Irwin Selvam | [Read More](https://medium.com/p/9abda0ee0da3) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Feb 2026 16:02:38 GMT | TryHackMe - The CIA Triad - WriteUp | Axoloth | [Read More](https://medium.com/p/019ffd55a89d) |
 | Wed, 18 Feb 2026 15:55:51 GMT | 30 Days of Red Team: Day 25 — DCSync & Domain Admin Compromise | Maxwell Cross | [Read More](https://medium.com/p/d34a557920db) |
 | Wed, 18 Feb 2026 15:51:47 GMT | Building Production-Ready AI Agents: A Complete Security Guide (2026) | Aniket giri | [Read More](https://medium.com/p/2ea71c84bc81) |
-| Wed, 18 Feb 2026 15:51:39 GMT | Memilih Masa Depan di Era ASI | Eka Y Saputra | [Read More](https://medium.com/p/19d49ba5c610) |
-| Wed, 18 Feb 2026 15:49:56 GMT | What Companies Specialize in Oracle ICT Solutions for Manufacturing? | Conacent Consulting | [Read More](https://medium.com/p/133d4967dc4f) |
-| Wed, 18 Feb 2026 15:48:42 GMT | When a Login Page Becomes a Redirect Weapon: A Security Analysis of VPN-Based Banking Portals | Fabrian Ivan Prasetya | [Read More](https://medium.com/p/86363c9f4413) |
-| Wed, 18 Feb 2026 15:42:15 GMT | Dior, Louis Vuitton & Tiffany Fined $25M After Massive Data Breaches | IT_Engineer | [Read More](https://medium.com/p/4f66bfd00e59) |
-| Wed, 18 Feb 2026 15:30:30 GMT | NIS2 Directive: Insights from the Field | Eran Atias | [Read More](https://medium.com/p/984cc67dfdf3) |
-| Wed, 18 Feb 2026 15:29:34 GMT | Beginner Web Application VAPT using DVWA (OWASP Top 10) | Shobinmendez | [Read More](https://medium.com/p/b1dccf96bf9c) |
-| Wed, 18 Feb 2026 15:26:00 GMT | Advanced Kafka Security Patterns You Can’t Ignore in 2026 | Michael Preston | [Read More](https://medium.com/p/bc04f2947284) |
