@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 18 Feb 2026 21:08:03 GMT | Cisco Cybersecurity Module 1 (Part 1): The World of Cybersecurity | Favour Ugochi Ogbonnaya | [Read More](https://medium.com/p/20abbc8d40cc) |
+| Wed, 18 Feb 2026 21:01:00 GMT | The Ghost in Your Machine: Why OpenClaw’s ‘Local-First’ Autonomy Beats the Cloud Every Time | Anurag Jain | [Read More](https://medium.com/p/f626faa2ccec) |
+| Wed, 18 Feb 2026 20:59:25 GMT | How to Recover Online Accounts When Heirs Don’t Have Email Access | InheritSafe | [Read More](https://medium.com/p/5f85c89cab19) |
+| Wed, 18 Feb 2026 20:56:10 GMT | Siber Güvenliğin Perde Arkası: Saldırgan Ağa Girdiğinde Neler Olur? | SeymanurYlmz | [Read More](https://medium.com/p/d2c21f0ea9ef) |
+| Wed, 18 Feb 2026 20:43:52 GMT | Try Hack Me- ColddBox: Easy CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/fd22ba6b0d6e) |
 | Wed, 18 Feb 2026 20:40:02 GMT | Host & Network Penetration Testing: Post-Exploitation CTF 2 | Georgi Nikolov | [Read More](https://medium.com/p/3823aa6fce0f) |
+| Wed, 18 Feb 2026 20:39:53 GMT | How Drosera Network Is Redefining Smart Contract Security | Hikay_smart | [Read More](https://medium.com/p/05aa57af17d9) |
+| Wed, 18 Feb 2026 20:39:24 GMT | OpenClaw, Moltbot, Clawdbot: The AI Butler That Rebranded Three Times and Still Left the Back Door… | Ai WanderingNut News and Blog and Cooking | [Read More](https://medium.com/p/de63e2b39d90) |
 | Wed, 18 Feb 2026 20:32:01 GMT | Hydra: A Secure Way to Use AI Agents | Rick Console | [Read More](https://medium.com/p/f828bbaef60e) |
 | Wed, 18 Feb 2026 20:30:22 GMT | Why LionSec Hub Training Is Different (And Worth Your Time Wherever You Live | Adeboye Alade | [Read More](https://medium.com/p/178aa47d46c6) |
 | Wed, 18 Feb 2026 20:30:07 GMT | Regulating Security: Sovereignty and the Governance of a Global Sector | Juri Ferrario | [Read More](https://medium.com/p/1e077d049e37) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Feb 2026 14:44:39 GMT | From Linting to Purple Teaming: A Detection Testing Toolkit | Steve Cooper | [Read More](https://medium.com/p/428826a5e35e) |
 | Wed, 18 Feb 2026 14:41:51 GMT | Building a Microsoft Entra ID IAM Lab: Identity Lifecycle, RBAC, and Secure Offboarding | Roland Archie | [Read More](https://medium.com/p/5a45a7f601e5) |
 | Wed, 18 Feb 2026 14:40:34 GMT | VPN’s The Privacy Trap | Thomas Karat | [Read More](https://medium.com/p/4aef67f39634) |
-| Wed, 18 Feb 2026 14:37:18 GMT | Understanding React2Shell: A Critical Vulnerability in Next.js Applications | Ezardfariq | [Read More](https://medium.com/p/cf41cf971a91) |
-| Wed, 18 Feb 2026 14:35:35 GMT | Secure Communication Strategies for Cybersecurity Teams | RealTyme | [Read More](https://medium.com/p/9ef8226943a6) |
-| Wed, 18 Feb 2026 14:33:12 GMT | Building Cosmos (Part 3): Choosing Django Over Trends | Cosmos | [Read More](https://medium.com/p/7333d6f12204) |
-| Wed, 18 Feb 2026 14:31:00 GMT | Prompt Injection in 2026: What Breaks, What Holds | Bytecraft | [Read More](https://medium.com/p/0e5d7c8b6302) |
-| Wed, 18 Feb 2026 14:29:30 GMT | From Scripts to a System: Constraints That Forced the Design - Falcoria Part 2 | 2s1one | [Read More](https://medium.com/p/51416144c0c6) |
-| Wed, 18 Feb 2026 14:23:23 GMT | Your Smart Devices Are Watching You: The Hidden Security Risks of IoT | Chinmayibhise | [Read More](https://medium.com/p/f2a890315a03) |
-| Wed, 18 Feb 2026 14:19:42 GMT | cve-2024–40453 Walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/0117e1e49086) |
