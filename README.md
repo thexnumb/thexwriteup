@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Feb 2026 19:08:40 GMT | Once upon a time — pt2 | TheOrganizedGirl | [Read More](https://medium.com/p/e02a8292d7b4) |
+| Thu, 19 Feb 2026 19:04:38 GMT | What If the Same Mathematics That Describes Molecular Stability Also Describes Market Risk? | Harel Talasazan | [Read More](https://medium.com/p/cea56ce01daf) |
+| Thu, 19 Feb 2026 19:01:01 GMT | Who Provides Managed IT Services in Plano with Strong Data Backup, Disaster Recovery, and… | Pegasus Technology Solutions | [Read More](https://medium.com/p/18695e00868d) |
+| Thu, 19 Feb 2026 18:57:12 GMT | The Principle of Least Privilege: Less is More | Aynur Dunyamaliyeva | [Read More](https://medium.com/p/bd9239f88479) |
+| Thu, 19 Feb 2026 18:52:33 GMT | Defense in Depth: Why One Wall Is Never Enough | Aynur Dunyamaliyeva | [Read More](https://medium.com/p/ff485e1fd968) |
+| Thu, 19 Feb 2026 18:49:44 GMT | The 3CX Supply Chain Attack: How a Compromised Build Pipeline Weaponized a Trusted Update | Vaibhav Kubade | [Read More](https://medium.com/p/aabc2f2f1b08) |
+| Thu, 19 Feb 2026 18:46:54 GMT | How a Simple Update Profile Picture Endpoint Led to an IDOR Vulnerability But | Dude | [Read More](https://medium.com/p/99e8fe1ddc13) |
+| Thu, 19 Feb 2026 18:44:28 GMT | Creating a Simple Digital Marketing Strategy in 2026. | Techlo Solution | [Read More](https://medium.com/p/034c6f27eafd) |
+| Thu, 19 Feb 2026 18:31:19 GMT | Preventing Users from Installing Unauthorized Applications (Intune Policy) | Ryan Adams | [Read More](https://medium.com/p/5ba28c35eac0) |
+| Thu, 19 Feb 2026 18:31:01 GMT | Nmap: The Tool Every Cybersecurity Student Should Learn First | Anubhav_bora | [Read More](https://medium.com/p/e0063951a9ae) |
+| Thu, 19 Feb 2026 18:29:59 GMT | Secure Deployment & Hardening of Google Cloud Platform (GCP) Projects — Part VII | SOCFortress | [Read More](https://medium.com/p/3289d12d6e89) |
 | Thu, 19 Feb 2026 18:16:00 GMT | The Psychology of Web3 Incidents: Panic, Silence, and How Teams Lose Trust | Exploitless | [Read More](https://medium.com/p/e7fd4d3b5bed) |
 | Thu, 19 Feb 2026 18:11:40 GMT | The Original SMS Throttle | O. J. Okpabi | [Read More](https://medium.com/p/06fcded4b4fd) |
 | Thu, 19 Feb 2026 18:10:27 GMT | Network Performance Matters: Test, Optimize, Succeed | Yogita | [Read More](https://medium.com/p/b850bb880589) |
@@ -26,6 +37,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Feb 2026 17:31:34 GMT | Understanding CORS (The Easy Way) | Youssef | [Read More](https://medium.com/p/028e5748ea05) |
 | Thu, 19 Feb 2026 17:31:12 GMT | The Database Was Sold Online… but the Vulnerability Was Still Open | Iski | [Read More](https://medium.com/p/81b98a978b0b) |
 | Thu, 19 Feb 2026 17:30:55 GMT | Prompt Injection: The New SQL Injection of the AI Era | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/bec0ded3264a) |
+| Thu, 19 Feb 2026 17:20:42 GMT | Cyber Crime Cases in Gurgaon: Legal Remedies, Defence Strategy and Role of a Lawyer | Advocate Ravi Shankar Dwivedi | [Read More](https://medium.com/p/103a2618e009) |
 | Thu, 19 Feb 2026 17:20:03 GMT | Lab 5 & Lab 6: User ID Controlled by Request Parameter | Sanjivani Dobhal | [Read More](https://medium.com/p/868f5e21d5f1) |
 | Thu, 19 Feb 2026 17:12:57 GMT | Blockchain Honeypots: Can Blockchain Catch Hackers? | Cynox Security LLP. | [Read More](https://medium.com/p/7780867a60de) |
 | Thu, 19 Feb 2026 17:10:45 GMT | PYRAX Launches Authensure, Moving Blockchain Beyond Transactions Into Real-World Utility | PYRAX Network | [Read More](https://medium.com/p/e6b0205b333b) |
@@ -64,6 +76,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Feb 2026 15:25:30 GMT | Unlock Your F5 Certifications: Limited Time Offer | DeepDive4learn | [Read More](https://medium.com/p/e1049873c741) |
 | Thu, 19 Feb 2026 15:25:18 GMT | Day 6 of PortSwigger Academy Lab Walkthrough: Access control vulnerabilities | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/18f5cbb652f4) |
 | Thu, 19 Feb 2026 15:25:07 GMT | ​Title: The Silent Breach: Is Your Enterprise AI Obeying Orders or Simply Waiting? | The Sentenal | [Read More](https://medium.com/p/d447a28fac00) |
+| Thu, 19 Feb 2026 15:12:33 GMT | Helping Your Workforce Tackle Social Engineering Attacks | Eric Smith | [Read More](https://medium.com/p/ab5e52c119c7) |
 | Thu, 19 Feb 2026 15:11:10 GMT | How Rainbow Secure Makes Usable Security Sustainable | Dr. Shashi Karhail | [Read More](https://medium.com/p/912075b0f10b) |
 | Thu, 19 Feb 2026 15:10:04 GMT | Where the wild exploits are | Hacking Club Mate | [Read More](https://medium.com/p/12c88bfc4ee9) |
 | Thu, 19 Feb 2026 15:10:02 GMT | Weaponizing unicode case folding and URL inflation to create a new XS-Search oracle | Randomguy6407 | [Read More](https://medium.com/p/e60afdf573d3) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Feb 2026 13:36:37 GMT | Try Hack Me — Basic Pentesting Write-up | Moi_404 | [Read More](https://medium.com/p/a1ab17f91332) |
 | Thu, 19 Feb 2026 13:31:54 GMT | The One Line of Code That Exposed 50 Million Users: A Calm Look at a Costly Oversight | 1$ Mistake | [Read More](https://medium.com/p/3676bd8ead03) |
 | Thu, 19 Feb 2026 13:27:38 GMT | Defense in Depth | Nurmammadov Sabuhi | [Read More](https://medium.com/p/a4e47d2275b2) |
-| Thu, 19 Feb 2026 13:15:55 GMT | Critical Authentication Bypass Vulnerability in better auth API Keys Plugin Enables Unauthorized… | Jas | [Read More](https://medium.com/p/ef49b77d94ad) |
-| Thu, 19 Feb 2026 13:13:32 GMT | Modern Breaches Don’t Drop Malware — They Steal Identity | Yua Mikanana | [Read More](https://medium.com/p/9b7d83942a97) |
-| Thu, 19 Feb 2026 13:07:08 GMT | Shadow AI: The Silent Attack Surface | Abolfazl Vaziri | [Read More](https://medium.com/p/888cbe29a4b9) |
-| Thu, 19 Feb 2026 13:04:26 GMT | Block Malware Domains at the DNS Layer with Route 53 Resolver DNS Firewall | Amine | [Read More](https://medium.com/p/283cb720d396) |
-| Thu, 19 Feb 2026 13:02:55 GMT | Tech#48 — Authentication That Actually Passes Security Audits | Vikkas Arun Pareek | [Read More](https://medium.com/p/43fb49a82a3d) |
-| Thu, 19 Feb 2026 13:01:02 GMT | Unix Guy Abed Hamdan GRC Mastery Cybersecurity Program Review | Rich Chen | [Read More](https://medium.com/p/f09cc4bbecdd) |
-| Thu, 19 Feb 2026 12:52:56 GMT | Can anyone post anything on ‘Medium’? | Lasantha Kumara | [Read More](https://medium.com/p/f9bf0670bf09) |
-| Thu, 19 Feb 2026 12:47:01 GMT | No title | Usthetiq | [Read More](https://medium.com/p/ffe1afbde8ef) |
-| Thu, 19 Feb 2026 12:46:20 GMT | Demystifying Authentication Flows: From Passwords to OIDC (Without the Confusion) | AVINASH SHRIMALI | [Read More](https://medium.com/p/d6744fb9356e) |
-| Thu, 19 Feb 2026 12:44:57 GMT | API Bug Bounty Mastery 2026: Hunt Hidden Endpoints to Land $10k+ Payouts | Manoj | [Read More](https://medium.com/p/957832efc29c) |
-| Thu, 19 Feb 2026 12:44:14 GMT | I Owned the Domain Controller. The EDR Saw Nothing. | HR | [Read More](https://medium.com/p/c3675a76dcc8) |
-| Thu, 19 Feb 2026 12:42:25 GMT | Gift List writeup (IDOR) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/e429fbfe3c7e) |
-| Thu, 19 Feb 2026 12:38:03 GMT | Least Privilege | Abeshiri Ab | [Read More](https://medium.com/p/8e63d83174d9) |
