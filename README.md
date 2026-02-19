@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Feb 2026 21:20:32 GMT | Why I’m Writing About Agent Security | Dimiter Milushev | [Read More](https://medium.com/p/6257bcdb9748) |
+| Thu, 19 Feb 2026 21:20:15 GMT | gaara walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/4b7d23a6326d) |
+| Thu, 19 Feb 2026 21:17:36 GMT | 2026 Siber Saldırılar Part-4 | Zekikayaalp | [Read More](https://medium.com/p/2537fdb5210f) |
+| Thu, 19 Feb 2026 21:16:00 GMT | Why I Ditched the Credit Model for a Direct API Approach in Business Intelligence | Tugui Dragos-Constantin | [Read More](https://medium.com/p/ce91a7b28da6) |
+| Thu, 19 Feb 2026 21:09:59 GMT | Elixindo un almacenamento de segredos: HashiCorp Vault vs OpenBao | Sergio Rua | [Read More](https://medium.com/p/30fca5725170) |
+| Thu, 19 Feb 2026 21:06:34 GMT | CISA Identifies Four Actively Exploited Security Vulnerabilities in Latest KEV | SCtoCS | [Read More](https://medium.com/p/b4052f531b5e) |
+| Thu, 19 Feb 2026 21:06:00 GMT | Aaron W. DeJong Newsletter: Episode 4 | Aaron DeJong | [Read More](https://medium.com/p/7235350f1721) |
+| Thu, 19 Feb 2026 20:52:04 GMT | “You Don’t Get Hacked. You Get Over-Permissioned.” | HackTrace | [Read More](https://medium.com/p/494ef923e059) |
+| Thu, 19 Feb 2026 20:47:31 GMT | I Have a CS Degree, I Manage eBay Stores, and I’m Finally Coming Home! | Faizanshahid | [Read More](https://medium.com/p/8fda132872f9) |
+| Thu, 19 Feb 2026 20:42:48 GMT | Safe Torrenting in 2026: Best Clients, Security Tips, and Reliable Access Methods | Captain Blackwave | [Read More](https://medium.com/p/2c46da6a4edc) |
+| Thu, 19 Feb 2026 20:40:06 GMT | Least Privilege | Nurmammadov Sabuhi | [Read More](https://medium.com/p/aae62dc812de) |
 | Thu, 19 Feb 2026 20:29:00 GMT | The Technology Consulting Misnomer: A Critical Look at Industry Practices | Chris Geier | [Read More](https://medium.com/p/ca9e5ce4297b) |
 | Thu, 19 Feb 2026 20:28:01 GMT | Threat Response Strategies in a Data Center | Yuri Bravo | [Read More](https://medium.com/p/3f9a13c72af6) |
 | Thu, 19 Feb 2026 20:22:06 GMT | Why Your AI Agent Keeps Making the Same Mistake (And How to Fix It) | Omar Antonio Díaz Peña | [Read More](https://medium.com/p/eeb19dd9758c) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Feb 2026 15:00:46 GMT | SEC Flags Prediction Markets as Concern | Catenaa | [Read More](https://medium.com/p/383b4871b23b) |
 | Thu, 19 Feb 2026 14:51:34 GMT | ‎Bitunix Futures Grid Trading | Adebayo Adedayo Richard | [Read More](https://medium.com/p/b53105e4bdce) |
 | Thu, 19 Feb 2026 14:50:58 GMT | 0xfun CTF 2026 -Reversing, Web & OSINT Writeups | VedantShinde | [Read More](https://medium.com/p/eeeb5f0f2e3e) |
-| Thu, 19 Feb 2026 14:48:45 GMT | How to Secure Your Vibe Coding Projects | THE HOW TO BLOG -Siddhanth Dwivedi | [Read More](https://medium.com/p/1db8f5c16d67) |
-| Thu, 19 Feb 2026 14:42:33 GMT | I2P/Botnet invasion update | blackhatter | [Read More](https://medium.com/p/edc7d801f229) |
-| Thu, 19 Feb 2026 14:39:53 GMT | Is Binance Safe? Complete Security Updated Review 2026 | Vault Crypto | [Read More](https://medium.com/p/15e51f25ad9c) |
-| Thu, 19 Feb 2026 14:38:41 GMT | Implementing Passkey Authentication (WebAuthn) with Yubico in Spring Boot | bhargav ram | [Read More](https://medium.com/p/5b9ae1df444e) |
-| Thu, 19 Feb 2026 14:38:14 GMT | The Hidden Internet: How to Access .Onion Sites Safely (2026 Guide) | Tigris | [Read More](https://medium.com/p/b4cac7e3c81b) |
-| Thu, 19 Feb 2026 14:35:38 GMT | Beyond Passwords: A Developer’s Guide to OAuth and Social Login | Vanshit Patel | [Read More](https://medium.com/p/e036b00cfa13) |
-| Thu, 19 Feb 2026 14:33:19 GMT | Boardroom Cyber Leadership: Why Cybersecurity Is Now a Leadership Responsibility | Digital Defense | [Read More](https://medium.com/p/4d3b1f6ae6dc) |
-| Thu, 19 Feb 2026 14:31:56 GMT | Thinking Like an Attacker: Exploring Cybersecurity Through Hacker Mindset | Mukut - Real-World Cybersecurity | [Read More](https://medium.com/p/8ab77a9c37c1) |
-| Thu, 19 Feb 2026 14:29:13 GMT | Thinking Like an Attacker: How API Pen-Testers Identify SQL Injection Vulnerabilities | Maryblessing | [Read More](https://medium.com/p/1c07b104f8e3) |
-| Thu, 19 Feb 2026 14:24:42 GMT | How API Pen-Testers Approach Systems: Tools, Mindset, and Methodology | Chinaza Emmanuela Obidike | [Read More](https://medium.com/p/c6ac1d865ce1) |
-| Thu, 19 Feb 2026 14:23:12 GMT | Day 1 : https://github.com/Yavuzlar/VulnLab/tree/main | Issan | [Read More](https://medium.com/p/9afca9c11f9b) |
