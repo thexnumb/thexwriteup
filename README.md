@@ -12,6 +12,33 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Feb 2026 13:07:08 GMT | Shadow AI: The Silent Attack Surface | Abolfazl Vaziri | [Read More](https://medium.com/p/888cbe29a4b9) |
+| Thu, 19 Feb 2026 13:04:26 GMT | Block Malware Domains at the DNS Layer with Route 53 Resolver DNS Firewall | Amine | [Read More](https://medium.com/p/283cb720d396) |
+| Thu, 19 Feb 2026 13:02:55 GMT | Tech#48 — Authentication That Actually Passes Security Audits | Vikkas Arun Pareek | [Read More](https://medium.com/p/43fb49a82a3d) |
+| Thu, 19 Feb 2026 13:01:02 GMT | Unix Guy Abed Hamdan GRC Mastery Cybersecurity Program Review | Rich Chen | [Read More](https://medium.com/p/f09cc4bbecdd) |
+| Thu, 19 Feb 2026 12:52:56 GMT | Can anyone post anything on ‘Medium’? | Lasantha Kumara | [Read More](https://medium.com/p/f9bf0670bf09) |
+| Thu, 19 Feb 2026 12:47:01 GMT | No title | Usthetiq | [Read More](https://medium.com/p/ffe1afbde8ef) |
+| Thu, 19 Feb 2026 12:46:20 GMT | Demystifying Authentication Flows: From Passwords to OIDC (Without the Confusion) | AVINASH SHRIMALI | [Read More](https://medium.com/p/d6744fb9356e) |
+| Thu, 19 Feb 2026 12:44:57 GMT | API Bug Bounty Mastery 2026: Hunt Hidden Endpoints to Land $10k+ Payouts | Manoj | [Read More](https://medium.com/p/957832efc29c) |
+| Thu, 19 Feb 2026 12:44:14 GMT | I Owned the Domain Controller. The EDR Saw Nothing. | HR | [Read More](https://medium.com/p/c3675a76dcc8) |
+| Thu, 19 Feb 2026 12:42:25 GMT | Gift List writeup (IDOR) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/e429fbfe3c7e) |
+| Thu, 19 Feb 2026 12:38:03 GMT | Least Privilege | Abeshiri Ab | [Read More](https://medium.com/p/8e63d83174d9) |
+| Thu, 19 Feb 2026 12:37:29 GMT | From Networking to Cybersecurity: My Journey Toward Becoming a SOC Analyst in the Middle East | Manavshetty | [Read More](https://medium.com/p/5a536c64b33b) |
+| Thu, 19 Feb 2026 12:36:01 GMT | Best Cybersecurity Companies in India for Enterprises | Himanshu Sharma | [Read More](https://medium.com/p/a9696ed2c500) |
+| Thu, 19 Feb 2026 12:31:01 GMT | Two Lines of Code to Stop Phishing Your Users | Vamsi Krishna Kodimela | [Read More](https://medium.com/p/8dcd948ff911) |
+| Thu, 19 Feb 2026 12:29:47 GMT | 10 Types of Cybersecurity Services Every Business Needs | C9Lab | [Read More](https://medium.com/p/20dcdde91983) |
+| Thu, 19 Feb 2026 12:23:02 GMT | Understanding Single-Tier Architecture: A Foundational Overview | Rohith Lyadalla | [Read More](https://medium.com/p/a0c5377ef71d) |
+| Thu, 19 Feb 2026 12:12:57 GMT | Cara Belajar Linux CLI: Lewat Platform OverTheWire level Bandit | Obscura Nera | [Read More](https://medium.com/p/ec94f4edb7ca) |
+| Thu, 19 Feb 2026 12:11:39 GMT | Label the use of captcha in your forms | The Jucktion | [Read More](https://medium.com/p/485ea8d84432) |
+| Thu, 19 Feb 2026 12:10:00 GMT | Legacy VPN Access vs. Zero Trust: Why Traditional Remote Access No Longer Works | InfosecTrain | [Read More](https://medium.com/p/b29cc97dd227) |
+| Thu, 19 Feb 2026 12:05:17 GMT | Why Your Business Is Failing Disabled Customers, And What to Do About It? | Dr. Abas Mirzaei | [Read More](https://medium.com/p/cda8a8754522) |
+| Thu, 19 Feb 2026 12:01:02 GMT | Strengthening IIT Bombay E-Cell: A Story of Responsible Disclosure | Kastab Garai | [Read More](https://medium.com/p/5919406bbf47) |
+| Thu, 19 Feb 2026 12:01:01 GMT | Writeup for picoCTF challenge “findme” | Walter Moar | [Read More](https://medium.com/p/6f853bc07480) |
+| Thu, 19 Feb 2026 11:55:09 GMT | EVMbench: OpenAI & Paradigm’s Bold New Benchmark for AI‑Driven Smart Contract Security | gm0 | [Read More](https://medium.com/p/32f9b64ebf50) |
+| Thu, 19 Feb 2026 11:52:57 GMT | The Midnight Paradox | Saba Khan | [Read More](https://medium.com/p/d39b7dc97922) |
+| Thu, 19 Feb 2026 11:50:06 GMT | The Hidden Gap: Why Your Cybersecurity Certifications Won’t Get You the Job | Onur Civan | [Read More](https://medium.com/p/0f6190cc4202) |
+| Thu, 19 Feb 2026 11:45:11 GMT | How VAPT Testing Helps Identify Real-World Security Risks | Meerab Khan | [Read More](https://medium.com/p/8ac2f4443219) |
+| Thu, 19 Feb 2026 11:43:49 GMT | JSON.parse(JSON.stringify()) VS structuredClone() | Gutu Galuppo | [Read More](https://medium.com/p/e78cea14828a) |
 | Thu, 19 Feb 2026 11:30:07 GMT | Government & Public Sector Cybersecurity Market Growth, Drivers, and Realities | Technology Geek | [Read More](https://medium.com/p/88309585feb4) |
 | Thu, 19 Feb 2026 11:24:18 GMT | Think You’re Not a Target? Think Again | Cyber Sudarshan | [Read More](https://medium.com/p/731cfb75d1b5) |
 | Thu, 19 Feb 2026 11:22:10 GMT | ​I’ve been reflecting lately on where true security in the AI era actually begins... | Shahla(roze) | [Read More](https://medium.com/p/92c236e00fc5) |
@@ -85,30 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Feb 2026 07:14:26 GMT | How Long It Really Takes to Learn Web3 Security | Abraham | [Read More](https://medium.com/p/c5e5004b3b59) |
 | Thu, 19 Feb 2026 07:13:50 GMT | What’s After AI? | Manoj Aggarwal | [Read More](https://medium.com/p/7407989de6b6) |
 | Thu, 19 Feb 2026 07:09:25 GMT | The Rise of Commercial Spyware: What It Means for India | Vijay Kumar Gupta | [Read More](https://medium.com/p/375a9065a21c) |
-| Thu, 19 Feb 2026 07:05:15 GMT | The Bug That Wasn’t a Bug — Until It Was: My First Bug Bounty Story | Rajiii | [Read More](https://medium.com/p/66ef8580aab7) |
-| Thu, 19 Feb 2026 07:03:02 GMT | What is iPhone Rapid Security Response? A Look at Apple’s Quick-Fix Updates for Your Devices | Spokeo People Search | [Read More](https://medium.com/p/11ae17143aa5) |
-| Thu, 19 Feb 2026 07:01:01 GMT | Securing a Trustworthy Internet: Why They Matter Now More Than Ever | Gertrude Abagale | [Read More](https://medium.com/p/eea88eb16033) |
-| Thu, 19 Feb 2026 07:01:01 GMT | Cyber Kill Chain Delivery: The “Access Equals Delivery” Trap | the CyberStoic | [Read More](https://medium.com/p/08b1517f77f9) |
-| Thu, 19 Feb 2026 06:53:20 GMT | The Login That Was Never Real | Ethicalmanish | [Read More](https://medium.com/p/565c52f4f720) |
-| Thu, 19 Feb 2026 06:53:19 GMT | How JWT Actually Works Behind the Scenes (Not Just Copy-Paste Code) | Nimasha Gamage | [Read More](https://medium.com/p/4877cb78e487) |
-| Thu, 19 Feb 2026 06:51:41 GMT | Pakistan’s Renewed Wave of Terrorism Demands a Unified National Response | Abdul Sadiq | [Read More](https://medium.com/p/cb7003e8ed02) |
-| Thu, 19 Feb 2026 06:48:11 GMT | Google Gemini Chat History Vanished? Users in Panic as Old Chats Disappear Latest 2026 Bug Exposed! | Muhammad Abdullah | [Read More](https://medium.com/p/4402c6f65fa1) |
-| Thu, 19 Feb 2026 06:47:30 GMT | Top 5 IT Solutions Companies in Isle of Man — Why Just Technology Consulting Ltd Stands Out | Just Technology Consulting Ltd | [Read More](https://medium.com/p/5313220ce1e7) |
-| Thu, 19 Feb 2026 06:41:25 GMT | Feb 19 — Day 1: IKE, UDP Scans, and Getting Back to Hacking | sagar parajuli | [Read More](https://medium.com/p/36b3f131aafe) |
-| Thu, 19 Feb 2026 06:34:34 GMT | Why Security Teams Need Better Tools, Not More Screens | Intellve Solutions Pvt Ltd | [Read More](https://medium.com/p/a07f4ae8968f) |
-| Thu, 19 Feb 2026 06:32:10 GMT | Passkey вместо пароля | Tiku Digital | [Read More](https://medium.com/p/ebc7f1c91330) |
-| Thu, 19 Feb 2026 06:24:22 GMT | Designing Digital Civilization for Collapse: 2026 Evidence from Real Cascading Failures | Swapnil | [Read More](https://medium.com/p/ddde337847ad) |
-| Thu, 19 Feb 2026 06:24:14 GMT | Locked Out of the House Locksmith: Quick and Reliable Home Access | The Lock Specialist Ltd | [Read More](https://medium.com/p/63791506fd16) |
-| Thu, 19 Feb 2026 06:24:04 GMT | Exploiting MS17‑010 (EternalBlue) — TryHackMe Walkthrough | Chapagainn | [Read More](https://medium.com/p/43b10b9852db) |
-| Thu, 19 Feb 2026 06:21:49 GMT | To Be Wanted | Martin Jakarta | [Read More](https://medium.com/p/5f2e42d7c497) |
-| Thu, 19 Feb 2026 06:09:32 GMT | Learning to Trust My Wings | Alizabeth Amelia Rose | [Read More](https://medium.com/p/b19f3bc67b9e) |
-| Thu, 19 Feb 2026 06:09:18 GMT | Ultimate One-Click Bug Bounty Recon Pipeline | ghostyjoe | [Read More](https://medium.com/p/71cff97ea107) |
-| Thu, 19 Feb 2026 06:04:25 GMT | Local Locksmiths North London -Trusted Security Solutions When You Need Them Most | N1locksmithsltd | [Read More](https://medium.com/p/7f109b509b46) |
-| Thu, 19 Feb 2026 06:03:32 GMT | HackTheBox — Breach | PizzSec | [Read More](https://medium.com/p/c0797dd825e5) |
-| Thu, 19 Feb 2026 05:47:28 GMT | katana Walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/50e3bc81e341) |
-| Thu, 19 Feb 2026 05:46:28 GMT | Corrupted File, Digital Forensics Labs from picoCTF | Xinli Salim | [Read More](https://medium.com/p/89c20a15d4c2) |
-| Thu, 19 Feb 2026 05:46:00 GMT | Siber Güvenliğin “Kutsal Kitabı” ile Yüzleşmek, NIST SP 800–53 Gerçeği ve Uygulama Sanatı | Fatih Yuksektepe | [Read More](https://medium.com/p/fee0b292620e) |
-| Thu, 19 Feb 2026 05:40:45 GMT | The Real Bug Wasn’t in the Code | Vadik Limbachiya | [Read More](https://medium.com/p/1f4b7dc66485) |
-| Thu, 19 Feb 2026 05:39:39 GMT | Why “HTTPS Only” Is Not a Security Strategy | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/3fe3443faaa6) |
-| Thu, 19 Feb 2026 05:38:22 GMT | Protect Company Secrets When Using Generative AI | Rom | [Read More](https://medium.com/p/30d343517853) |
-| Thu, 19 Feb 2026 05:37:42 GMT | What is Network Security? | Shreyashettyctr | [Read More](https://medium.com/p/68bc9387309c) |
