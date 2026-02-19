@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Feb 2026 15:11:10 GMT | How Rainbow Secure Makes Usable Security Sustainable | Dr. Shashi Karhail | [Read More](https://medium.com/p/912075b0f10b) |
+| Thu, 19 Feb 2026 15:10:04 GMT | Where the wild exploits are | Hacking Club Mate | [Read More](https://medium.com/p/12c88bfc4ee9) |
+| Thu, 19 Feb 2026 15:10:02 GMT | Weaponizing unicode case folding and URL inflation to create a new XS-Search oracle | Randomguy6407 | [Read More](https://medium.com/p/e60afdf573d3) |
+| Thu, 19 Feb 2026 15:08:27 GMT | Lab 01 — Introduction to Digital Forensics | Shiro | [Read More](https://medium.com/p/4f615ad6c24a) |
+| Thu, 19 Feb 2026 15:04:30 GMT | Securing the AI Stack in the Cloud: Beyond Traditional CNAPP to AI-Centric Security Architecture | Fernando Cardoso | [Read More](https://medium.com/p/74efb6d21cbe) |
+| Thu, 19 Feb 2026 15:01:38 GMT | Social Engineering 2025: 20 Tools & New Vectors Every Cyber Pro Needs to Master | Very Lazy Tech | [Read More](https://medium.com/p/71937a8766df) |
+| Thu, 19 Feb 2026 15:01:03 GMT | Cyber Briefing: 2026.02.19 | CyberMaterial | [Read More](https://medium.com/p/56a67bd5f405) |
+| Thu, 19 Feb 2026 15:00:46 GMT | SEC Flags Prediction Markets as Concern | Catenaa | [Read More](https://medium.com/p/383b4871b23b) |
+| Thu, 19 Feb 2026 14:51:34 GMT | ‎Bitunix Futures Grid Trading | Adebayo Adedayo Richard | [Read More](https://medium.com/p/b53105e4bdce) |
+| Thu, 19 Feb 2026 14:50:58 GMT | 0xfun CTF 2026 -Reversing, Web & OSINT Writeups | VedantShinde | [Read More](https://medium.com/p/eeeb5f0f2e3e) |
+| Thu, 19 Feb 2026 14:48:45 GMT | How to Secure Your Vibe Coding Projects | THE HOW TO BLOG -Siddhanth Dwivedi | [Read More](https://medium.com/p/1db8f5c16d67) |
+| Thu, 19 Feb 2026 14:42:33 GMT | I2P/Botnet invasion update | blackhatter | [Read More](https://medium.com/p/edc7d801f229) |
+| Thu, 19 Feb 2026 14:39:53 GMT | Is Binance Safe? Complete Security Updated Review 2026 | Vault Crypto | [Read More](https://medium.com/p/15e51f25ad9c) |
+| Thu, 19 Feb 2026 14:38:41 GMT | Implementing Passkey Authentication (WebAuthn) with Yubico in Spring Boot | bhargav ram | [Read More](https://medium.com/p/5b9ae1df444e) |
+| Thu, 19 Feb 2026 14:38:14 GMT | The Hidden Internet: How to Access .Onion Sites Safely (2026 Guide) | Tigris | [Read More](https://medium.com/p/b4cac7e3c81b) |
+| Thu, 19 Feb 2026 14:35:38 GMT | Beyond Passwords: A Developer’s Guide to OAuth and Social Login | Vanshit Patel | [Read More](https://medium.com/p/e036b00cfa13) |
+| Thu, 19 Feb 2026 14:33:19 GMT | Boardroom Cyber Leadership: Why Cybersecurity Is Now a Leadership Responsibility | Digital Defense | [Read More](https://medium.com/p/4d3b1f6ae6dc) |
+| Thu, 19 Feb 2026 14:31:56 GMT | Thinking Like an Attacker: Exploring Cybersecurity Through Hacker Mindset | Mukut - Real-World Cybersecurity | [Read More](https://medium.com/p/8ab77a9c37c1) |
+| Thu, 19 Feb 2026 14:29:13 GMT | Thinking Like an Attacker: How API Pen-Testers Identify SQL Injection Vulnerabilities | Maryblessing | [Read More](https://medium.com/p/1c07b104f8e3) |
 | Thu, 19 Feb 2026 14:24:42 GMT | How API Pen-Testers Approach Systems: Tools, Mindset, and Methodology | Chinaza Emmanuela Obidike | [Read More](https://medium.com/p/c6ac1d865ce1) |
 | Thu, 19 Feb 2026 14:23:12 GMT | Day 1 : https://github.com/Yavuzlar/VulnLab/tree/main | Issan | [Read More](https://medium.com/p/9afca9c11f9b) |
 | Thu, 19 Feb 2026 14:20:14 GMT | SOC Analisti Olma Yolunda Öğrendiğim İlk Gerçek Güvenlik Dersi: Scanning | İbrahim Sünbül | [Read More](https://medium.com/p/114f7aecf4c4) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Feb 2026 09:48:08 GMT | The Unified Blueprint: How Five Core Principles Build an Unshakeable Security Strategy | Yusif Alizade | [Read More](https://medium.com/p/bd26380e0a5b) |
 | Thu, 19 Feb 2026 09:45:59 GMT | The Shadow Play: Is Security Through Obscurity a Valid Strategy or a Dangerous Illusion? | Yusif Alizade | [Read More](https://medium.com/p/f8b8140fb73c) |
 | Thu, 19 Feb 2026 09:45:48 GMT | Journey to the Linux Underground: Catatan Perjalanan OverTheWire Bandit (Level 0–21) | Muhammad Ketsar Ali Abi Wahid | [Read More](https://medium.com/p/18ad980c9aa0) |
-| Thu, 19 Feb 2026 09:43:29 GMT | كيف تبداء تعلم الامن السيبراني بالعربي | Shield_tech | [Read More](https://medium.com/p/76b54a7781ab) |
-| Thu, 19 Feb 2026 09:43:28 GMT | Best Security Camera in UAE and the Best CCTV Installation Company in UAE | techfra solutions | [Read More](https://medium.com/p/c8e96db4a0a8) |
-| Thu, 19 Feb 2026 09:42:17 GMT | Moving from Web2 to Web3 Security: What Breaks Your Brain First | Tabrez Mukadam | [Read More](https://medium.com/p/8264e4d404df) |
-| Thu, 19 Feb 2026 09:41:49 GMT | I’m trying to solve a ctf challenge about why “only letters or numbers” doesn’t guarantee web… | Billy Elvonda Aron Umpel | [Read More](https://medium.com/p/a3f8c04ccbba) |
-| Thu, 19 Feb 2026 09:41:35 GMT | OWASP ZAP: Your Free Cybersecurity Toolkit for Checking Websites | Andrew Keitany | [Read More](https://medium.com/p/3682018cb6d7) |
-| Thu, 19 Feb 2026 09:37:30 GMT | Will technology take your job or your data? | Cyber Medusa | [Read More](https://medium.com/p/587e5c620239) |
-| Thu, 19 Feb 2026 09:31:02 GMT | Your Business Security Is Probably Broken (And You Don’t Even Know It) | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/bbd0735b31e7) |
-| Thu, 19 Feb 2026 09:25:05 GMT | Not just a user , Be a Super user | Soorya Gokul | [Read More](https://medium.com/p/f2ab677866ad) |
-| Thu, 19 Feb 2026 09:24:29 GMT | CYBER SECURITY | Dhaya | [Read More](https://medium.com/p/f31b55f3b202) |
-| Thu, 19 Feb 2026 09:18:16 GMT | Top 10 IT Companies in Ambattur Hiring Now — Salaries, Roles & Growth | Esseindia | [Read More](https://medium.com/p/69c566641558) |
-| Thu, 19 Feb 2026 09:01:41 GMT | Software Supply Chain Security: Designing for Broken Trust | N.R. Gresham | [Read More](https://medium.com/p/c119d76a090c) |
-| Thu, 19 Feb 2026 09:01:07 GMT | Stealer Logs vs Data Breaches: Why You Need to Monitor Both | Alexandre Vandamme | [Read More](https://medium.com/p/3cec7e4860b7) |
-| Thu, 19 Feb 2026 08:49:41 GMT | The Shortcut That Costs More Than the Long Way | Alexis Klein | [Read More](https://medium.com/p/3dd9a9214917) |
-| Thu, 19 Feb 2026 08:47:24 GMT | Week 1 — My First Digital Forensics Lab in Cyber Defense Bootcamp | Muhammad Rifqi Syah | [Read More](https://medium.com/p/7e0a09252f71) |
-| Thu, 19 Feb 2026 08:37:35 GMT | 7 Powerful Defensive Chaos Engineering ROI Plays | Pentest_Testing_Corp | [Read More](https://medium.com/p/022d1e9c33f3) |
-| Thu, 19 Feb 2026 08:36:57 GMT | KeygraphHQ/shannon: Yapay Zeka Destekli Pentest Aracı | Musa ATALAY | [Read More](https://medium.com/p/3b8e4b1ad8a1) |
-| Thu, 19 Feb 2026 08:35:36 GMT | Hunting Qilin Ransomware Group | phas3P4rad0x | [Read More](https://medium.com/p/5ebbf529fbc7) |
-| Thu, 19 Feb 2026 08:33:55 GMT | Is AI Making Cybercrime More Dangerous Than Ever? | CyberSources | [Read More](https://medium.com/p/1deddea71a6e) |
-| Thu, 19 Feb 2026 08:28:48 GMT | Your Government ID Could Appear in Google Search - And Google Just Changed That | Namya Walia | [Read More](https://medium.com/p/c9a0913d9052) |
