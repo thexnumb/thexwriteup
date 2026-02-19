@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Feb 2026 10:34:05 GMT | Overthewire: Bandit Walkthrough | Alfin Syahrin | [Read More](https://medium.com/p/85bf644fdd5a) |
+| Thu, 19 Feb 2026 10:33:53 GMT | Certified Cloud Security Professional (CCSP) with CCSE Certification — Skills & Career Path | Preetihere | [Read More](https://medium.com/p/5bbae9fd167c) |
+| Thu, 19 Feb 2026 10:31:00 GMT | Clinejection: How a Simple GitHub Issue Could Have Hijacked 5 Million Developer Machines | Arg Software | [Read More](https://medium.com/p/6dfafd6939b5) |
+| Thu, 19 Feb 2026 10:30:27 GMT | Introduction to Digital Forensic — vonderchild ( Lab — 01 ) | rexaa | [Read More](https://medium.com/p/b5a5e3418aa0) |
+| Thu, 19 Feb 2026 10:30:23 GMT | Subdomain Takeover: One of the Most Misunderstood Bug Bounty Vulnerabilities | Saumadip Mandal | [Read More](https://medium.com/p/f4a64b192d55) |
+| Thu, 19 Feb 2026 10:29:58 GMT | The Cloud Computing Specializations and Their Relationship to Cybersecurity ‍♀️️ | Zainab Iskander | [Read More](https://medium.com/p/30a1d17a17b7) |
+| Thu, 19 Feb 2026 10:24:02 GMT | ⚠ Important Community Update: Preparing for Our DEX Listing | Blobetech Dev | [Read More](https://medium.com/p/f1e29d1d5a5d) |
+| Thu, 19 Feb 2026 10:21:08 GMT | Who Watches the Watchers? | Suleiman Tawil | [Read More](https://medium.com/p/d5d926f0822d) |
+| Thu, 19 Feb 2026 10:20:38 GMT | Automated Security: How to Delete Inactive Cognito Users and Stop the Cloud Security Bleed | Millicent Konadu | [Read More](https://medium.com/p/652c3d4daacf) |
+| Thu, 19 Feb 2026 10:17:30 GMT | From a Simple “What If” to Institutional Recognition: How Curiosity Led to Real ERP Security… | Sooraj Pandey | [Read More](https://medium.com/p/41ba220c96a4) |
+| Thu, 19 Feb 2026 10:14:34 GMT | Security Is No Longer Enough: | Lokskush | [Read More](https://medium.com/p/e777ac149589) |
+| Thu, 19 Feb 2026 10:12:26 GMT | Why Exploit Chains Matter More Than Single Vulnerabilities | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/c48637dc173f) |
+| Thu, 19 Feb 2026 10:04:18 GMT | Etherhide and Seek | Elijah Muzzi | [Read More](https://medium.com/p/a3b1a84a4536) |
+| Thu, 19 Feb 2026 09:56:45 GMT | Multiplexed RBAC in .NET — Part 4 —  Deterministic TRN Authorization Engine | Marco Marano | [Read More](https://medium.com/p/7605c934852a) |
+| Thu, 19 Feb 2026 09:52:22 GMT | Why Your Digital Identity is at Risk in 2026: The Ultimate Guide to IP Privacy for US Citizens… | Jake Smith | [Read More](https://medium.com/p/b36262bcf82b) |
 | Thu, 19 Feb 2026 09:48:58 GMT | From “IT Issue” to Guest Crisis, A Practical Look at Hotel Cyber Resilience | Sulaiman Basir | [Read More](https://medium.com/p/33d2abba9e3f) |
 | Thu, 19 Feb 2026 09:48:08 GMT | The Unified Blueprint: How Five Core Principles Build an Unshakeable Security Strategy | Yusif Alizade | [Read More](https://medium.com/p/bd26380e0a5b) |
 | Thu, 19 Feb 2026 09:45:59 GMT | The Shadow Play: Is Security Through Obscurity a Valid Strategy or a Dangerous Illusion? | Yusif Alizade | [Read More](https://medium.com/p/f8b8140fb73c) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Feb 2026 04:25:43 GMT | Real World Cybersecurity Lab — Article 1 | Jesse Ridley | [Read More](https://medium.com/p/1c7ff7e805dc) |
 | Thu, 19 Feb 2026 04:19:13 GMT | From Nmap to Mach Speed: Why I’m Obsessed with ZMap | Ananth S S | [Read More](https://medium.com/p/69d0cca3e02d) |
 | Thu, 19 Feb 2026 04:15:39 GMT | Here We Go | Alex | [Read More](https://medium.com/p/7f3a77b328d3) |
-| Thu, 19 Feb 2026 04:11:07 GMT | FinTech audit readiness should be an operating discipline, not a seasonal fire drill | Daksh Pandya | [Read More](https://medium.com/p/8cb18f1a7e1b) |
-| Thu, 19 Feb 2026 04:07:50 GMT | Difference Between Phishing Simulation and Email Security Gateway | Maxatlasofficial | [Read More](https://medium.com/p/e2821da9fbae) |
-| Thu, 19 Feb 2026 04:05:16 GMT | Somewhere Between Trying and Falling Apart | CuriousInk | [Read More](https://medium.com/p/111007c755d1) |
-| Thu, 19 Feb 2026 04:01:00 GMT | AI-Powered Cybersecurity Threat Detection | Cyber Explain | [Read More](https://medium.com/p/e3b35af5ab9f) |
-| Thu, 19 Feb 2026 04:01:00 GMT | Understanding PCI DSS: Maintaining Your Customers’ Data - Secure n Comply | Secure n Comply | [Read More](https://medium.com/p/d3d17daacc93) |
-| Thu, 19 Feb 2026 03:56:01 GMT | Wanting a Hug Without Wanting More | Vinsi | [Read More](https://medium.com/p/408cc6737d37) |
-| Thu, 19 Feb 2026 03:50:00 GMT | Securing AI-Powered Applications: A Comprehensive Guide to Protecting Your LLM-Integrated Web App | Jaber-Said | [Read More](https://medium.com/p/dcf8d7963e78) |
-| Thu, 19 Feb 2026 03:47:13 GMT | Linux Docker Container Escapes Cheatsheet | Indigo Shadow | [Read More](https://medium.com/p/49e47f21e27a) |
-| Thu, 19 Feb 2026 03:46:45 GMT | I Bypassed Authentication on 3 Production APIs — Here’s How | Israel Aráoz Severiche | [Read More](https://medium.com/p/600a75c032e2) |
-| Thu, 19 Feb 2026 03:41:00 GMT | Password Managers Explained: Why Your Small Business Needs One and How to Choose | Sharon Martin | [Read More](https://medium.com/p/fdd0f5114629) |
-| Thu, 19 Feb 2026 03:39:17 GMT | Lespion Lab — Cyberdefender | Naihalmerchant | [Read More](https://medium.com/p/7d20bc4bba73) |
-| Thu, 19 Feb 2026 03:32:42 GMT | Digital Forensics Incident Response (DFIR) — processing artifact offline | Savytech Np | [Read More](https://medium.com/p/fb9fb423c978) |
-| Thu, 19 Feb 2026 03:31:01 GMT | Tool Permissions for Agents: The Missing Security Layer | Bytecraft | [Read More](https://medium.com/p/04fe98332c50) |
-| Thu, 19 Feb 2026 03:31:00 GMT | How Storing User Data in JWT Tokens Eliminated Unnecessary API Calls and Boosted Performance | Oviyan S | [Read More](https://medium.com/p/44962e778606) |
-| Thu, 19 Feb 2026 03:31:00 GMT | [Part-IV] How I Built an Automated Leak Monitoring Pipeline with n8n, APIs, & Gmail Alerts | 5hr33.j11 | [Read More](https://medium.com/p/5181f1acaf1c) |
