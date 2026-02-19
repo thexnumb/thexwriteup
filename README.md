@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Feb 2026 22:32:03 GMT | Your Cloud Is Probably Misconfigured Right Now. How to Fix this. | TechEon | [Read More](https://medium.com/p/6acff5c2dbf4) |
+| Thu, 19 Feb 2026 22:01:00 GMT | Unfiltered Restart — Day 8: Networking Marathon, Part 3 | Maximillian Rueda | [Read More](https://medium.com/p/3c38a3a255c9) |
+| Thu, 19 Feb 2026 21:56:20 GMT | Android Pentest Runbook: A Practical Guide with ADB, Frida, and Objection | Jhxnvi.e | [Read More](https://medium.com/p/ebbb7a32367a) |
+| Thu, 19 Feb 2026 21:54:48 GMT | Demonstrating Windows Defender Evasion via PPL Manipulation | S12 - 0x12Dark Development | [Read More](https://medium.com/p/8767f1ee7ad9) |
+| Thu, 19 Feb 2026 21:53:12 GMT | The Air-Gapped Chronicles: The Causal Moat | Piyoosh Rai | [Read More](https://medium.com/p/d069d24353e3) |
+| Thu, 19 Feb 2026 21:51:20 GMT | We’re Entering a Quantum Computing World. Start With This Question | Danisa Jokanovich | [Read More](https://medium.com/p/41ce375473a1) |
+| Thu, 19 Feb 2026 21:49:28 GMT | ️ Is Your AI Leaking Trade Secrets? | Djakson Cleber | [Read More](https://medium.com/p/0bebad2c86fd) |
+| Thu, 19 Feb 2026 21:43:01 GMT | Become a Hacker-TryHackMe Walkthrough | Ryca | [Read More](https://medium.com/p/caa5d84feefa) |
+| Thu, 19 Feb 2026 21:37:22 GMT | Safe Cleanup: How to use Policy Intelligence to Monitor and Retire GCP Service Account Keys | Munish | [Read More](https://medium.com/p/f2a6798952e8) |
+| Thu, 19 Feb 2026 21:24:46 GMT | The Night I Learned Why “It’s Probably Nothing” Is Dangerous | Uniworth security | [Read More](https://medium.com/p/55f1b289a1a8) |
+| Thu, 19 Feb 2026 21:23:33 GMT | CWE-200: Information Disclosure to Unauthorized Actors | Bazil Brohi | [Read More](https://medium.com/p/6da54ab0805f) |
 | Thu, 19 Feb 2026 21:20:32 GMT | Why I’m Writing About Agent Security | Dimiter Milushev | [Read More](https://medium.com/p/6257bcdb9748) |
 | Thu, 19 Feb 2026 21:20:15 GMT | gaara walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/4b7d23a6326d) |
 | Thu, 19 Feb 2026 21:17:36 GMT | 2026 Siber Saldırılar Part-4 | Zekikayaalp | [Read More](https://medium.com/p/2537fdb5210f) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Feb 2026 15:25:30 GMT | Unlock Your F5 Certifications: Limited Time Offer | DeepDive4learn | [Read More](https://medium.com/p/e1049873c741) |
 | Thu, 19 Feb 2026 15:25:18 GMT | Day 6 of PortSwigger Academy Lab Walkthrough: Access control vulnerabilities | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/18f5cbb652f4) |
 | Thu, 19 Feb 2026 15:25:07 GMT | ​Title: The Silent Breach: Is Your Enterprise AI Obeying Orders or Simply Waiting? | The Sentenal | [Read More](https://medium.com/p/d447a28fac00) |
-| Thu, 19 Feb 2026 15:12:33 GMT | Helping Your Workforce Tackle Social Engineering Attacks | Eric Smith | [Read More](https://medium.com/p/ab5e52c119c7) |
-| Thu, 19 Feb 2026 15:11:10 GMT | How Rainbow Secure Makes Usable Security Sustainable | Dr. Shashi Karhail | [Read More](https://medium.com/p/912075b0f10b) |
-| Thu, 19 Feb 2026 15:10:04 GMT | Where the wild exploits are | Hacking Club Mate | [Read More](https://medium.com/p/12c88bfc4ee9) |
-| Thu, 19 Feb 2026 15:10:02 GMT | Weaponizing unicode case folding and URL inflation to create a new XS-Search oracle | Randomguy6407 | [Read More](https://medium.com/p/e60afdf573d3) |
-| Thu, 19 Feb 2026 15:08:27 GMT | Lab 01 — Introduction to Digital Forensics | Shiro | [Read More](https://medium.com/p/4f615ad6c24a) |
-| Thu, 19 Feb 2026 15:04:30 GMT | Securing the AI Stack in the Cloud: Beyond Traditional CNAPP to AI-Centric Security Architecture | Fernando Cardoso | [Read More](https://medium.com/p/74efb6d21cbe) |
-| Thu, 19 Feb 2026 15:01:38 GMT | Social Engineering 2025: 20 Tools & New Vectors Every Cyber Pro Needs to Master | Very Lazy Tech | [Read More](https://medium.com/p/71937a8766df) |
-| Thu, 19 Feb 2026 15:01:03 GMT | Cyber Briefing: 2026.02.19 | CyberMaterial | [Read More](https://medium.com/p/56a67bd5f405) |
-| Thu, 19 Feb 2026 15:00:46 GMT | SEC Flags Prediction Markets as Concern | Catenaa | [Read More](https://medium.com/p/383b4871b23b) |
-| Thu, 19 Feb 2026 14:51:34 GMT | ‎Bitunix Futures Grid Trading | Adebayo Adedayo Richard | [Read More](https://medium.com/p/b53105e4bdce) |
-| Thu, 19 Feb 2026 14:50:58 GMT | 0xfun CTF 2026 -Reversing, Web & OSINT Writeups | VedantShinde | [Read More](https://medium.com/p/eeeb5f0f2e3e) |
