@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Feb 2026 09:48:58 GMT | From “IT Issue” to Guest Crisis, A Practical Look at Hotel Cyber Resilience | Sulaiman Basir | [Read More](https://medium.com/p/33d2abba9e3f) |
+| Thu, 19 Feb 2026 09:48:08 GMT | The Unified Blueprint: How Five Core Principles Build an Unshakeable Security Strategy | Yusif Alizade | [Read More](https://medium.com/p/bd26380e0a5b) |
+| Thu, 19 Feb 2026 09:45:59 GMT | The Shadow Play: Is Security Through Obscurity a Valid Strategy or a Dangerous Illusion? | Yusif Alizade | [Read More](https://medium.com/p/f8b8140fb73c) |
+| Thu, 19 Feb 2026 09:45:48 GMT | Journey to the Linux Underground: Catatan Perjalanan OverTheWire Bandit (Level 0–21) | Muhammad Ketsar Ali Abi Wahid | [Read More](https://medium.com/p/18ad980c9aa0) |
+| Thu, 19 Feb 2026 09:43:29 GMT | كيف تبداء تعلم الامن السيبراني بالعربي | Shield_tech | [Read More](https://medium.com/p/76b54a7781ab) |
+| Thu, 19 Feb 2026 09:43:28 GMT | Best Security Camera in UAE and the Best CCTV Installation Company in UAE | techfra solutions | [Read More](https://medium.com/p/c8e96db4a0a8) |
+| Thu, 19 Feb 2026 09:42:17 GMT | Moving from Web2 to Web3 Security: What Breaks Your Brain First | Tabrez Mukadam | [Read More](https://medium.com/p/8264e4d404df) |
+| Thu, 19 Feb 2026 09:41:49 GMT | I’m trying to solve a ctf challenge about why “only letters or numbers” doesn’t guarantee web… | Billy Elvonda Aron Umpel | [Read More](https://medium.com/p/a3f8c04ccbba) |
+| Thu, 19 Feb 2026 09:41:35 GMT | OWASP ZAP: Your Free Cybersecurity Toolkit for Checking Websites | Andrew Keitany | [Read More](https://medium.com/p/3682018cb6d7) |
+| Thu, 19 Feb 2026 09:37:30 GMT | Will technology take your job or your data? | Cyber Medusa | [Read More](https://medium.com/p/587e5c620239) |
+| Thu, 19 Feb 2026 09:31:02 GMT | Your Business Security Is Probably Broken (And You Don’t Even Know It) | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/bbd0735b31e7) |
+| Thu, 19 Feb 2026 09:25:05 GMT | Not just a user , Be a Super user | Soorya Gokul | [Read More](https://medium.com/p/f2ab677866ad) |
+| Thu, 19 Feb 2026 09:24:29 GMT | CYBER SECURITY | Dhaya | [Read More](https://medium.com/p/f31b55f3b202) |
+| Thu, 19 Feb 2026 09:18:16 GMT | Top 10 IT Companies in Ambattur Hiring Now — Salaries, Roles & Growth | Esseindia | [Read More](https://medium.com/p/69c566641558) |
+| Thu, 19 Feb 2026 09:01:41 GMT | Software Supply Chain Security: Designing for Broken Trust | N.R. Gresham | [Read More](https://medium.com/p/c119d76a090c) |
+| Thu, 19 Feb 2026 09:01:07 GMT | Stealer Logs vs Data Breaches: Why You Need to Monitor Both | Alexandre Vandamme | [Read More](https://medium.com/p/3cec7e4860b7) |
+| Thu, 19 Feb 2026 08:49:41 GMT | The Shortcut That Costs More Than the Long Way | Alexis Klein | [Read More](https://medium.com/p/3dd9a9214917) |
 | Thu, 19 Feb 2026 08:47:24 GMT | Week 1 — My First Digital Forensics Lab in Cyber Defense Bootcamp | Muhammad Rifqi Syah | [Read More](https://medium.com/p/7e0a09252f71) |
 | Thu, 19 Feb 2026 08:37:35 GMT | 7 Powerful Defensive Chaos Engineering ROI Plays | Pentest_Testing_Corp | [Read More](https://medium.com/p/022d1e9c33f3) |
 | Thu, 19 Feb 2026 08:36:57 GMT | KeygraphHQ/shannon: Yapay Zeka Destekli Pentest Aracı | Musa ATALAY | [Read More](https://medium.com/p/3b8e4b1ad8a1) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Feb 2026 03:31:01 GMT | Tool Permissions for Agents: The Missing Security Layer | Bytecraft | [Read More](https://medium.com/p/04fe98332c50) |
 | Thu, 19 Feb 2026 03:31:00 GMT | How Storing User Data in JWT Tokens Eliminated Unnecessary API Calls and Boosted Performance | Oviyan S | [Read More](https://medium.com/p/44962e778606) |
 | Thu, 19 Feb 2026 03:31:00 GMT | [Part-IV] How I Built an Automated Leak Monitoring Pipeline with n8n, APIs, & Gmail Alerts | 5hr33.j11 | [Read More](https://medium.com/p/5181f1acaf1c) |
-| Thu, 19 Feb 2026 03:22:45 GMT | OpenAI’s Prism Brings AI Into the Writing Flow | Roman Fedytskyi | [Read More](https://medium.com/p/7bae12193ee4) |
-| Thu, 19 Feb 2026 03:18:58 GMT | Unreachably Reachable | Patrick Bollin | [Read More](https://medium.com/p/f27391464ca2) |
-| Thu, 19 Feb 2026 03:11:45 GMT | Understanding the Difference between Lockheed Martin Kill Chain vs. MITRE ATT&CK | Tazeen Tariq | [Read More](https://medium.com/p/faaecba2305e) |
-| Thu, 19 Feb 2026 02:56:39 GMT | INE-Host & Network Penetration Testing: The Metasploit Framework CTF 1 by Singkhon | Singkhon K | [Read More](https://medium.com/p/8a95176552a5) |
-| Thu, 19 Feb 2026 02:31:40 GMT | Technical Analysis of CVE-2026–24061 in GNU Inetutils telnetd | Criminal IP | [Read More](https://medium.com/p/27a4e5975e2a) |
-| Thu, 19 Feb 2026 02:12:05 GMT | Beyond the Tools: Deconstructing Malware Evasion in Redline, WannaCry, and SheetRAT | Lloyd Sato | [Read More](https://medium.com/p/58ae0fe6aecb) |
-| Thu, 19 Feb 2026 02:03:18 GMT | Every pip install You Run is a Bet You Are Making With Your Machine | Rafikdz | [Read More](https://medium.com/p/9fce4526fc8e) |
-| Thu, 19 Feb 2026 01:46:42 GMT | Moltbook wasn’t a failure. It was a gift. | Kase | [Read More](https://medium.com/p/4de01c5e1fe5) |
-| Thu, 19 Feb 2026 01:43:39 GMT | A Busy Week for Cybersecurity Speaking Engagements | Matthew.Rosenquist | [Read More](https://medium.com/p/b91f4c84c79f) |
-| Thu, 19 Feb 2026 01:39:24 GMT | WRITE-UP WARGAME BANDIT Level 0–20 | Aiko Devy Ratnasari | [Read More](https://medium.com/p/0f94ac447248) |
-| Thu, 19 Feb 2026 00:32:27 GMT | The Ghost in the Machine: How Cyber-Enabled Trafficking is Rewriting the Drug War | Ali Elkhouly | [Read More](https://medium.com/p/9dcae7c6f535) |
-| Wed, 18 Feb 2026 23:45:52 GMT | The DAIR Model: Dynamic Approach to Incident Response | cyber_0xGambit | [Read More](https://medium.com/p/becfd0e71d66) |
-| Wed, 18 Feb 2026 23:20:15 GMT | How I Found a Critical Unauthenticated LLM Prompt Editor in AI Infrastructure | Ziad (Zierax) | [Read More](https://medium.com/p/bfca98d68e1f) |
-| Wed, 18 Feb 2026 23:12:10 GMT | Reverse Engineering OpenAI Atlas | kurani | [Read More](https://medium.com/p/ef5a7d40e629) |
-| Wed, 18 Feb 2026 23:10:35 GMT | Moonwell cbETH Oracle Incident (MIP‑X43): the “vibe‑coded” misconfiguration that minted | Mohammad Khezer | [Read More](https://medium.com/p/84db9f6e8c4d) |
-| Wed, 18 Feb 2026 23:08:00 GMT | LLM01:2025 — Prompt Injection | Cyber-AppSec | [Read More](https://medium.com/p/982b944219a5) |
-| Wed, 18 Feb 2026 22:58:54 GMT | The n8n Secret: Access Environment Variables Without Hardcoding Anything | Dhia Kassab | [Read More](https://medium.com/p/ebef87de3396) |
