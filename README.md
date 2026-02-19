@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Feb 2026 04:29:49 GMT | Public Wi-Fi Is More Dangerous Than You Think | Sam Writes Security | [Read More](https://medium.com/p/7f13d8b842a4) |
+| Thu, 19 Feb 2026 04:29:12 GMT | Best Cheap Firewall for Small Businesses | Techwizs | [Read More](https://medium.com/p/662e92ffd48c) |
+| Thu, 19 Feb 2026 04:25:43 GMT | Real World Cybersecurity Lab — Article 1 | Jesse Ridley | [Read More](https://medium.com/p/1c7ff7e805dc) |
+| Thu, 19 Feb 2026 04:15:39 GMT | Here We Go | Alex | [Read More](https://medium.com/p/7f3a77b328d3) |
+| Thu, 19 Feb 2026 04:11:07 GMT | FinTech audit readiness should be an operating discipline, not a seasonal fire drill | Daksh Pandya | [Read More](https://medium.com/p/8cb18f1a7e1b) |
+| Thu, 19 Feb 2026 04:07:50 GMT | Difference Between Phishing Simulation and Email Security Gateway | Maxatlasofficial | [Read More](https://medium.com/p/e2821da9fbae) |
+| Thu, 19 Feb 2026 04:05:16 GMT | Somewhere Between Trying and Falling Apart | CuriousInk | [Read More](https://medium.com/p/111007c755d1) |
+| Thu, 19 Feb 2026 04:01:00 GMT | AI-Powered Cybersecurity Threat Detection | Cyber Explain | [Read More](https://medium.com/p/e3b35af5ab9f) |
+| Thu, 19 Feb 2026 04:01:00 GMT | Understanding PCI DSS: Maintaining Your Customers’ Data - Secure n Comply | Secure n Comply | [Read More](https://medium.com/p/d3d17daacc93) |
+| Thu, 19 Feb 2026 03:56:01 GMT | Wanting a Hug Without Wanting More | Vinsi | [Read More](https://medium.com/p/408cc6737d37) |
+| Thu, 19 Feb 2026 03:50:00 GMT | Securing AI-Powered Applications: A Comprehensive Guide to Protecting Your LLM-Integrated Web App | Jaber-Said | [Read More](https://medium.com/p/dcf8d7963e78) |
+| Thu, 19 Feb 2026 03:47:13 GMT | Linux Docker Container Escapes Cheatsheet | Indigo Shadow | [Read More](https://medium.com/p/49e47f21e27a) |
+| Thu, 19 Feb 2026 03:46:45 GMT | I Bypassed Authentication on 3 Production APIs — Here’s How | Israel Aráoz Severiche | [Read More](https://medium.com/p/600a75c032e2) |
+| Thu, 19 Feb 2026 03:41:00 GMT | Password Managers Explained: Why Your Small Business Needs One and How to Choose | Sharon Martin | [Read More](https://medium.com/p/fdd0f5114629) |
+| Thu, 19 Feb 2026 03:39:17 GMT | Lespion Lab — Cyberdefender | Naihalmerchant | [Read More](https://medium.com/p/7d20bc4bba73) |
+| Thu, 19 Feb 2026 03:32:42 GMT | Digital Forensics Incident Response (DFIR) — processing artifact offline | Savytech Np | [Read More](https://medium.com/p/fb9fb423c978) |
+| Thu, 19 Feb 2026 03:31:01 GMT | Tool Permissions for Agents: The Missing Security Layer | Bytecraft | [Read More](https://medium.com/p/04fe98332c50) |
+| Thu, 19 Feb 2026 03:31:00 GMT | How Storing User Data in JWT Tokens Eliminated Unnecessary API Calls and Boosted Performance | Oviyan S | [Read More](https://medium.com/p/44962e778606) |
+| Thu, 19 Feb 2026 03:31:00 GMT | [Part-IV] How I Built an Automated Leak Monitoring Pipeline with n8n, APIs, & Gmail Alerts | 5hr33.j11 | [Read More](https://medium.com/p/5181f1acaf1c) |
+| Thu, 19 Feb 2026 03:22:45 GMT | OpenAI’s Prism Brings AI Into the Writing Flow | Roman Fedytskyi | [Read More](https://medium.com/p/7bae12193ee4) |
+| Thu, 19 Feb 2026 03:18:58 GMT | Unreachably Reachable | Patrick Bollin | [Read More](https://medium.com/p/f27391464ca2) |
+| Thu, 19 Feb 2026 03:11:45 GMT | Understanding the Difference between Lockheed Martin Kill Chain vs. MITRE ATT&CK | Tazeen Tariq | [Read More](https://medium.com/p/faaecba2305e) |
+| Thu, 19 Feb 2026 02:56:39 GMT | INE-Host & Network Penetration Testing: The Metasploit Framework CTF 1 by Singkhon | Singkhon K | [Read More](https://medium.com/p/8a95176552a5) |
 | Thu, 19 Feb 2026 02:12:05 GMT | Beyond the Tools: Deconstructing Malware Evasion in Redline, WannaCry, and SheetRAT | Lloyd Sato | [Read More](https://medium.com/p/58ae0fe6aecb) |
 | Thu, 19 Feb 2026 02:03:18 GMT | Every pip install You Run is a Bet You Are Making With Your Machine | Rafikdz | [Read More](https://medium.com/p/9fce4526fc8e) |
 | Thu, 19 Feb 2026 01:46:42 GMT | Moltbook wasn’t a failure. It was a gift. | Kase | [Read More](https://medium.com/p/4de01c5e1fe5) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Feb 2026 17:52:25 GMT | Even If MFA Fails, Security Must Still Hold and How Rainbow Secure Leads the Shift | Dr. Shashi Karhail | [Read More](https://medium.com/p/478132d88db7) |
 | Wed, 18 Feb 2026 17:52:15 GMT | Top Technology Trends in India: AI, Cybersecurity, and Gadgets in 2026 | Spotlightnewswork | [Read More](https://medium.com/p/298411cce1b7) |
 | Wed, 18 Feb 2026 17:48:19 GMT | What Love Never Warns You About | Muneesh NV | [Read More](https://medium.com/p/3e68b8409d75) |
-| Wed, 18 Feb 2026 17:39:15 GMT | How Managed IT Services Improve Cybersecurity? | The Algorithm | [Read More](https://medium.com/p/bb2c5292a740) |
-| Wed, 18 Feb 2026 17:36:10 GMT | Host & Network Penetration Testing: Post-Exploitation CTF 1 | Georgi Nikolov | [Read More](https://medium.com/p/4806c7754538) |
-| Wed, 18 Feb 2026 17:33:50 GMT | Hacking “Sea” — A SeaCMS Exploitation Walkthrough (OffSec Labs) | MGMK | [Read More](https://medium.com/p/307b4a1be65e) |
-| Wed, 18 Feb 2026 17:32:37 GMT | Why You Should Think Twice Before Sharing Photos With AI | Pranav Khankriyal | [Read More](https://medium.com/p/c04a2dbbf669) |
-| Wed, 18 Feb 2026 17:29:21 GMT | How I Think KodeKloud Powers Its AWS Labs with IAM Automation and STS | Benedicta | [Read More](https://medium.com/p/1206fa44aec8) |
-| Wed, 18 Feb 2026 17:28:08 GMT | How To Solve Introduction to Digital Forensics Lab-01 Questions | Ammarnabil | [Read More](https://medium.com/p/01ddc7f3babe) |
-| Wed, 18 Feb 2026 17:22:36 GMT | Introduction to Digital Forensics: Lab 01 | Willy Syachputra | [Read More](https://medium.com/p/1d33232d8725) |
-| Wed, 18 Feb 2026 17:17:34 GMT | Why Traditional Defenses Fail Against Prompt Injection Attacks ️⚠️ | Lumae | [Read More](https://medium.com/p/a76803f0c9b0) |
-| Wed, 18 Feb 2026 17:13:08 GMT | Security and Emergency Preparedness | thatgrrlpdx | [Read More](https://medium.com/p/53bd604aa080) |
-| Wed, 18 Feb 2026 17:11:02 GMT | Why Splunk SOAR is a Must-Have for Security Operations Teams in 2026 | bitsIO | [Read More](https://medium.com/p/451f98c74c74) |
-| Wed, 18 Feb 2026 17:09:11 GMT | 85% of Enterprises Face AI Fraud: Your 2026 Guide to Deepfake Detection | UncovAI | [Read More](https://medium.com/p/392894769bcc) |
-| Wed, 18 Feb 2026 17:04:18 GMT | Data Analytics Platform With Open Source Tools — A Complete Guide to Modern Cyber Security Fraud… | Abhishek Jain | [Read More](https://medium.com/p/fbcd77be3fd3) |
-| Wed, 18 Feb 2026 16:59:13 GMT | Never Admire Quietly. | Jennifer Ayo | [Read More](https://medium.com/p/b69f204457b5) |
-| Wed, 18 Feb 2026 16:56:54 GMT | Top 5 Dangerous Hacking Tools | mohandika | [Read More](https://medium.com/p/1af2a63a7a41) |
-| Wed, 18 Feb 2026 16:54:28 GMT | Solving a Bugforge Challenge — Exploiting SQL Injection in a Pizza Store Application | Pranaya Shrestha | [Read More](https://medium.com/p/b55906098646) |
-| Wed, 18 Feb 2026 16:46:57 GMT | When Academia Catches Up: The NUS “Zombie Agents” Paper and What I Documented First in 2025 | Berend Watchus | [Read More](https://medium.com/p/99dc0a4e6314) |
-| Wed, 18 Feb 2026 16:46:04 GMT | Security Systems in Dubai: Smart Protection Solutions by Ziotech | DubaiBusinessAnalysis | [Read More](https://medium.com/p/1a17c2f1142a) |
-| Wed, 18 Feb 2026 16:42:49 GMT | Scripts και Bots: Πώς η τεχνολογία καταπολεμά το αθέμιτο παιχνίδι | Dasha  Gamer Blogger | [Read More](https://medium.com/p/d80ef1e18bff) |
-| Wed, 18 Feb 2026 16:29:07 GMT | I Indexed 329,473 Epstein Documents for $76/Month. Here’s What I Found. | Patrick Duggan | [Read More](https://medium.com/p/68cb4d5166ed) |
-| Wed, 18 Feb 2026 16:28:56 GMT | Net Sec Challenge — TryHackMe | Zeyad Mohamed Aly | [Read More](https://medium.com/p/f12c9f405163) |
-| Wed, 18 Feb 2026 16:26:46 GMT | Why Windows File Hash Blocklists Fail? | Michael Melnyk | [Read More](https://medium.com/p/1031878cf166) |
-| Wed, 18 Feb 2026 16:25:31 GMT | Day 6 — The Tool Maker | Armaan Nain | [Read More](https://medium.com/p/b0f0afb6b98c) |
-| Wed, 18 Feb 2026 16:22:00 GMT | Watch Me Poison Your MCP | ToxSec | [Read More](https://medium.com/p/09e68de5a648) |
