@@ -12,6 +12,32 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Feb 2026 17:20:03 GMT | Lab 5 & Lab 6: User ID Controlled by Request Parameter | Sanjivani Dobhal | [Read More](https://medium.com/p/868f5e21d5f1) |
+| Thu, 19 Feb 2026 17:12:57 GMT | Blockchain Honeypots: Can Blockchain Catch Hackers? | Cynox Security LLP. | [Read More](https://medium.com/p/7780867a60de) |
+| Thu, 19 Feb 2026 17:10:45 GMT | PYRAX Launches Authensure, Moving Blockchain Beyond Transactions Into Real-World Utility | PYRAX Network | [Read More](https://medium.com/p/e6b0205b333b) |
+| Thu, 19 Feb 2026 17:10:05 GMT | Why Spring Security Feels Hard and Why It Actually Isn’t | Souvanik Saha | [Read More](https://medium.com/p/728c5a94f888) |
+| Thu, 19 Feb 2026 17:09:56 GMT | Building an AI-Secure Architecture with Limited Resources | Michael Adedeji | [Read More](https://medium.com/p/96fef4afce7b) |
+| Thu, 19 Feb 2026 17:08:14 GMT | The Feeling With No Name… | Starry Eyes✨ | [Read More](https://medium.com/p/a084851c10ef) |
+| Thu, 19 Feb 2026 17:06:16 GMT | How to Deploy Multiple Eramba GRC Instances on a Single Server Using Docker | Ehoumanemmanuel | [Read More](https://medium.com/p/14886bb5185d) |
+| Thu, 19 Feb 2026 17:03:05 GMT | The Weight of “Fine” | Shivam Kumar | [Read More](https://medium.com/p/fc621bac323c) |
+| Thu, 19 Feb 2026 17:01:04 GMT | Node TLS “Tuning” That Makes Tail Latency Worse | Syntal | [Read More](https://medium.com/p/12c1209a302a) |
+| Thu, 19 Feb 2026 16:57:06 GMT | Why Supply-Chain Risk Registers Lie (Unless They’re Engineered) | Peter Hillier/Halton | [Read More](https://medium.com/p/3ee810d77f95) |
+| Thu, 19 Feb 2026 16:56:00 GMT | Configuring Windows | Aj | [Read More](https://medium.com/p/99426ef27ded) |
+| Thu, 19 Feb 2026 16:55:47 GMT | Zktor ApZktor: Powering the Future of India’s Digital Ecosystem | Rohan Kumar | [Read More](https://medium.com/p/0868a0e84742) |
+| Thu, 19 Feb 2026 16:53:50 GMT | Saudi Vision 2030 and the Rise of Data Sovereignty: What Businesses Should Actually Understand | BiyteLüm | [Read More](https://medium.com/p/dbdb6a46c79f) |
+| Thu, 19 Feb 2026 16:52:01 GMT | When the Tools Betray the Builders | Len Noe | [Read More](https://medium.com/p/eaec93bcdeba) |
+| Thu, 19 Feb 2026 16:51:29 GMT | A Safer Way to Document Hardware Wallet Instructions for Your Heirs | InheritSafe | [Read More](https://medium.com/p/3fc96514e884) |
+| Thu, 19 Feb 2026 16:47:31 GMT | OffSec Web Expert (OSWE) Course Review and Preparation Tips | Cyd Tseng | [Read More](https://medium.com/p/e67d71b6490c) |
+| Thu, 19 Feb 2026 16:44:47 GMT | Does Dark Web have a GOOD Side? | Tazeen Tariq | [Read More](https://medium.com/p/9b2a2e6a8c80) |
+| Thu, 19 Feb 2026 16:39:28 GMT | You’re In. Now What? Linux Privilege Escalation Commands That Actually Matter | Soumyadipta Birabar | [Read More](https://medium.com/p/75efea59ff19) |
+| Thu, 19 Feb 2026 16:38:01 GMT | Security Works Better When It’s Designed In, Not Bolted On | Cipher Citadel (Ci2) | [Read More](https://medium.com/p/d3c3e82035f3) |
+| Thu, 19 Feb 2026 16:35:26 GMT | Business Security System | Eddie Brock | [Read More](https://medium.com/p/fc7e0b8c6b6d) |
+| Thu, 19 Feb 2026 16:34:39 GMT | Business Analyst P.4: Elicitation & Collaboration | Fachry Andika Rachman | [Read More](https://medium.com/p/24e16012a134) |
+| Thu, 19 Feb 2026 16:30:49 GMT | How to Share a Seed Phrase After Death Without Giving It Away Today | Olivia Martillo | [Read More](https://medium.com/p/d33c44978d9a) |
+| Thu, 19 Feb 2026 16:29:37 GMT | Digital Literacy: The First Line of Defense in the Digital Age | Garv Chauhan | [Read More](https://medium.com/p/772108eef9d3) |
+| Thu, 19 Feb 2026 16:26:52 GMT | Cap Machine / writeup / IDOR, PCAP ... | Achraf Nouri | [Read More](https://medium.com/p/1d0323776e1e) |
+| Thu, 19 Feb 2026 16:21:46 GMT | The checkbox trap: Why CCTV is a warning for enterprise AI | SIRV - AI to help manage threats and disruption | [Read More](https://medium.com/p/014fd57e3f8d) |
+| Thu, 19 Feb 2026 16:09:14 GMT | You are more than a patient — when the room turns vacant | naturally naked. | [Read More](https://medium.com/p/fcb79339d8ee) |
 | Thu, 19 Feb 2026 16:06:55 GMT | A Real Social Engineering Attempt Using PowerShell | ZtotheZ | [Read More](https://medium.com/p/264b80aeed48) |
 | Thu, 19 Feb 2026 16:01:04 GMT | Tool Injection via Arguments: 9 Mitigations That Work | Thinking Loop | [Read More](https://medium.com/p/a1f2f2d3534d) |
 | Thu, 19 Feb 2026 16:01:01 GMT | I Tried Agent Memory — 7 Cross-Tenant Leaks I Didn’t Expect | Syntal | [Read More](https://medium.com/p/f41cf202ad96) |
@@ -86,29 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Feb 2026 11:56:35 GMT | Exactly Where To Start in Cybersecurity ?(Without Thinking of Giving Up!) | ShinjaNagvekar | [Read More](https://medium.com/p/5e2683e5b61f) |
 | Thu, 19 Feb 2026 11:55:09 GMT | EVMbench: OpenAI & Paradigm’s Bold New Benchmark for AI‑Driven Smart Contract Security | gm0 | [Read More](https://medium.com/p/32f9b64ebf50) |
 | Thu, 19 Feb 2026 11:52:57 GMT | The Midnight Paradox | Saba Khan | [Read More](https://medium.com/p/d39b7dc97922) |
-| Thu, 19 Feb 2026 11:50:06 GMT | The Hidden Gap: Why Your Cybersecurity Certifications Won’t Get You the Job | Onur Civan | [Read More](https://medium.com/p/0f6190cc4202) |
-| Thu, 19 Feb 2026 11:45:11 GMT | How VAPT Testing Helps Identify Real-World Security Risks | Meerab Khan | [Read More](https://medium.com/p/8ac2f4443219) |
-| Thu, 19 Feb 2026 11:43:49 GMT | JSON.parse(JSON.stringify()) VS structuredClone() | Gutu Galuppo | [Read More](https://medium.com/p/e78cea14828a) |
-| Thu, 19 Feb 2026 11:30:07 GMT | Government & Public Sector Cybersecurity Market Growth, Drivers, and Realities | Technology Geek | [Read More](https://medium.com/p/88309585feb4) |
-| Thu, 19 Feb 2026 11:26:39 GMT | Autonomous CVE Remediation: Using Agentic Workflows for Dependency Conflict Resolution | Droxi Tech Blog | [Read More](https://medium.com/p/2da605717953) |
-| Thu, 19 Feb 2026 11:24:18 GMT | Think You’re Not a Target? Think Again | Cyber Sudarshan | [Read More](https://medium.com/p/731cfb75d1b5) |
-| Thu, 19 Feb 2026 11:22:10 GMT | ​I’ve been reflecting lately on where true security in the AI era actually begins... | Shahla(roze) | [Read More](https://medium.com/p/92c236e00fc5) |
-| Thu, 19 Feb 2026 11:16:47 GMT | 5.0: HTTP Host Header Vulnerabilities: Web Cache Poisoning using Ambiguous Requests by HTTP Host… | Bazil Brohi | [Read More](https://medium.com/p/2be89b4d18b6) |
-| Thu, 19 Feb 2026 11:13:17 GMT | Best Network Management Services in India - Optimize Your Infrastructure | Anbarasans | [Read More](https://medium.com/p/24446181932c) |
-| Thu, 19 Feb 2026 11:11:55 GMT | ️ Can a Hacker Break Into Your Network Through a Wi-Fi Printer? | ghostyjoe | [Read More](https://medium.com/p/11905486854b) |
-| Thu, 19 Feb 2026 11:11:36 GMT | Why Secure Fintech Architecture Is the Real Competitive Advantage in Digital Banking | Lucas Wade | [Read More](https://medium.com/p/c176e56921f7) |
-| Thu, 19 Feb 2026 11:11:00 GMT | Decision Readiness. Stop Hoping Leaders Align Under Pressure | Tyson Martin | [Read More](https://medium.com/p/43f750dcc371) |
-| Thu, 19 Feb 2026 11:10:26 GMT | The Internet Is Not a Safe Place — Especially for Families | Seyeneotu | [Read More](https://medium.com/p/7897790fe4ae) |
-| Thu, 19 Feb 2026 11:02:34 GMT | eJPT v2 : Challenge Lab 28: Develpy | Dhanushkumar R | [Read More](https://medium.com/p/9ad4e5e8f0e3) |
-| Thu, 19 Feb 2026 10:59:11 GMT | Cybersecurity Awareness: Closing the Gaps for Individuals and Organizations | Arbaz_Akbar | [Read More](https://medium.com/p/5628e23c6211) |
-| Thu, 19 Feb 2026 10:49:39 GMT | Holding What Was Shared | Sanjini Munaweera | [Read More](https://medium.com/p/e070d30274be) |
-| Thu, 19 Feb 2026 10:47:24 GMT | Why AI Agents Are the Future of Cybersecurity Defense (Not Just Attack) | Ahmad Abdul Mannan | [Read More](https://medium.com/p/76a6ec9243e7) |
-| Thu, 19 Feb 2026 10:45:04 GMT | Where Can You Find Reliable Professional Website Development Services | JanBask Digital Design | [Read More](https://medium.com/p/89672092b7a2) |
-| Thu, 19 Feb 2026 10:34:05 GMT | Overthewire: Bandit Walkthrough | Alfin Syahrin | [Read More](https://medium.com/p/85bf644fdd5a) |
-| Thu, 19 Feb 2026 10:33:53 GMT | Certified Cloud Security Professional (CCSP) with CCSE Certification — Skills & Career Path | Preetihere | [Read More](https://medium.com/p/5bbae9fd167c) |
-| Thu, 19 Feb 2026 10:31:00 GMT | Clinejection: How a Simple GitHub Issue Could Have Hijacked 5 Million Developer Machines | Arg Software | [Read More](https://medium.com/p/6dfafd6939b5) |
-| Thu, 19 Feb 2026 10:30:27 GMT | Introduction to Digital Forensic — vonderchild ( Lab — 01 ) | rexaa | [Read More](https://medium.com/p/b5a5e3418aa0) |
-| Thu, 19 Feb 2026 10:30:23 GMT | Subdomain Takeover: One of the Most Misunderstood Bug Bounty Vulnerabilities | Saumadip Mandal | [Read More](https://medium.com/p/f4a64b192d55) |
-| Thu, 19 Feb 2026 10:29:58 GMT | The Cloud Computing Specializations and Their Relationship to Cybersecurity ‍♀️️ | Zainab Iskander | [Read More](https://medium.com/p/30a1d17a17b7) |
-| Thu, 19 Feb 2026 10:24:02 GMT | ⚠ Important Community Update: Preparing for Our DEX Listing | Blobetech Dev | [Read More](https://medium.com/p/f1e29d1d5a5d) |
-| Thu, 19 Feb 2026 10:21:08 GMT | Who Watches the Watchers? | Suleiman Tawil | [Read More](https://medium.com/p/d5d926f0822d) |
