@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Feb 2026 16:06:55 GMT | A Real Social Engineering Attempt Using PowerShell | ZtotheZ | [Read More](https://medium.com/p/264b80aeed48) |
+| Thu, 19 Feb 2026 16:01:04 GMT | Tool Injection via Arguments: 9 Mitigations That Work | Thinking Loop | [Read More](https://medium.com/p/a1f2f2d3534d) |
+| Thu, 19 Feb 2026 16:01:01 GMT | I Tried Agent Memory — 7 Cross-Tenant Leaks I Didn’t Expect | Syntal | [Read More](https://medium.com/p/f41cf202ad96) |
+| Thu, 19 Feb 2026 16:00:58 GMT | ENISA Threat Landscape 2025: Building Resilience with Thales | Liz Kelly | [Read More](https://medium.com/p/b60ecc808827) |
+| Thu, 19 Feb 2026 15:46:49 GMT | Best ELV Company in Dubai vs Others: What Sets Top ELV and Security Providers Apart | Vastechoffpage | [Read More](https://medium.com/p/3647c8f697cd) |
+| Thu, 19 Feb 2026 15:43:49 GMT | What Is Hidden Wiki? A Practical Overview of Tor’s Most Referenced Directory | Tor BBB | [Read More](https://medium.com/p/b3906c7159ba) |
+| Thu, 19 Feb 2026 15:43:05 GMT | what is white hat? | Kevin Ronex | [Read More](https://medium.com/p/964b5a40e1e1) |
+| Thu, 19 Feb 2026 15:42:23 GMT | Protecting Our Children’s Digital Footprint: A Deep Dive into App Privacy | Jonelle Owens | [Read More](https://medium.com/p/733c62adf0e8) |
+| Thu, 19 Feb 2026 15:42:22 GMT | Why Cybersecurity Job Listings Feel Impossible | Scottcmcmahan | [Read More](https://medium.com/p/5cf22af0bbeb) |
+| Thu, 19 Feb 2026 15:25:30 GMT | Unlock Your F5 Certifications: Limited Time Offer | DeepDive4learn | [Read More](https://medium.com/p/e1049873c741) |
+| Thu, 19 Feb 2026 15:25:18 GMT | Day 6 of PortSwigger Academy Lab Walkthrough: Access control vulnerabilities | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/18f5cbb652f4) |
+| Thu, 19 Feb 2026 15:25:07 GMT | ​Title: The Silent Breach: Is Your Enterprise AI Obeying Orders or Simply Waiting? | The Sentenal | [Read More](https://medium.com/p/d447a28fac00) |
 | Thu, 19 Feb 2026 15:11:10 GMT | How Rainbow Secure Makes Usable Security Sustainable | Dr. Shashi Karhail | [Read More](https://medium.com/p/912075b0f10b) |
 | Thu, 19 Feb 2026 15:10:04 GMT | Where the wild exploits are | Hacking Club Mate | [Read More](https://medium.com/p/12c88bfc4ee9) |
 | Thu, 19 Feb 2026 15:10:02 GMT | Weaponizing unicode case folding and URL inflation to create a new XS-Search oracle | Randomguy6407 | [Read More](https://medium.com/p/e60afdf573d3) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Feb 2026 10:29:58 GMT | The Cloud Computing Specializations and Their Relationship to Cybersecurity ‍♀️️ | Zainab Iskander | [Read More](https://medium.com/p/30a1d17a17b7) |
 | Thu, 19 Feb 2026 10:24:02 GMT | ⚠ Important Community Update: Preparing for Our DEX Listing | Blobetech Dev | [Read More](https://medium.com/p/f1e29d1d5a5d) |
 | Thu, 19 Feb 2026 10:21:08 GMT | Who Watches the Watchers? | Suleiman Tawil | [Read More](https://medium.com/p/d5d926f0822d) |
-| Thu, 19 Feb 2026 10:20:38 GMT | Automated Security: How to Delete Inactive Cognito Users and Stop the Cloud Security Bleed | Millicent Konadu | [Read More](https://medium.com/p/652c3d4daacf) |
-| Thu, 19 Feb 2026 10:17:30 GMT | From a Simple “What If” to Institutional Recognition: How Curiosity Led to Real ERP Security… | Sooraj Pandey | [Read More](https://medium.com/p/41ba220c96a4) |
-| Thu, 19 Feb 2026 10:14:34 GMT | Security Is No Longer Enough: | Lokskush | [Read More](https://medium.com/p/e777ac149589) |
-| Thu, 19 Feb 2026 10:12:26 GMT | Why Exploit Chains Matter More Than Single Vulnerabilities | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/c48637dc173f) |
-| Thu, 19 Feb 2026 10:05:20 GMT | [TIL] PM에게 필요한 IT 용어 정리 | Sub in sea! | [Read More](https://medium.com/p/d316cc9db4ee) |
-| Thu, 19 Feb 2026 10:04:18 GMT | Etherhide and Seek | Elijah Muzzi | [Read More](https://medium.com/p/a3b1a84a4536) |
-| Thu, 19 Feb 2026 09:56:45 GMT | Multiplexed RBAC in .NET — Part 4 —  Deterministic TRN Authorization Engine | Marco Marano | [Read More](https://medium.com/p/7605c934852a) |
-| Thu, 19 Feb 2026 09:52:22 GMT | Why Your Digital Identity is at Risk in 2026: The Ultimate Guide to IP Privacy for US Citizens… | Jake Smith | [Read More](https://medium.com/p/b36262bcf82b) |
-| Thu, 19 Feb 2026 09:48:58 GMT | From “IT Issue” to Guest Crisis, A Practical Look at Hotel Cyber Resilience | Sulaiman Basir | [Read More](https://medium.com/p/33d2abba9e3f) |
-| Thu, 19 Feb 2026 09:48:08 GMT | The Unified Blueprint: How Five Core Principles Build an Unshakeable Security Strategy | Yusif Alizade | [Read More](https://medium.com/p/bd26380e0a5b) |
-| Thu, 19 Feb 2026 09:45:59 GMT | The Shadow Play: Is Security Through Obscurity a Valid Strategy or a Dangerous Illusion? | Yusif Alizade | [Read More](https://medium.com/p/f8b8140fb73c) |
-| Thu, 19 Feb 2026 09:45:48 GMT | Journey to the Linux Underground: Catatan Perjalanan OverTheWire Bandit (Level 0–21) | Muhammad Ketsar Ali Abi Wahid | [Read More](https://medium.com/p/18ad980c9aa0) |
