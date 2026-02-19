@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Feb 2026 08:47:24 GMT | Week 1 — My First Digital Forensics Lab in Cyber Defense Bootcamp | Muhammad Rifqi Syah | [Read More](https://medium.com/p/7e0a09252f71) |
+| Thu, 19 Feb 2026 08:37:35 GMT | 7 Powerful Defensive Chaos Engineering ROI Plays | Pentest_Testing_Corp | [Read More](https://medium.com/p/022d1e9c33f3) |
+| Thu, 19 Feb 2026 08:36:57 GMT | KeygraphHQ/shannon: Yapay Zeka Destekli Pentest Aracı | Musa ATALAY | [Read More](https://medium.com/p/3b8e4b1ad8a1) |
+| Thu, 19 Feb 2026 08:35:36 GMT | Hunting Qilin Ransomware Group | phas3P4rad0x | [Read More](https://medium.com/p/5ebbf529fbc7) |
+| Thu, 19 Feb 2026 08:33:55 GMT | Is AI Making Cybercrime More Dangerous Than Ever? | CyberSources | [Read More](https://medium.com/p/1deddea71a6e) |
+| Thu, 19 Feb 2026 08:28:48 GMT | Your Government ID Could Appear in Google Search - And Google Just Changed That | Namya Walia | [Read More](https://medium.com/p/c9a0913d9052) |
+| Thu, 19 Feb 2026 08:28:23 GMT | How GitLeaks Prevented Sensitive Secrets From Leaking Into Production | Yaksh Rajput | [Read More](https://medium.com/p/7e410640b7a7) |
+| Thu, 19 Feb 2026 08:26:43 GMT | SOC: Types and Roles (A Beginner-Friendly Introduction) | Manish Dahal | [Read More](https://medium.com/p/9deadcd4a436) |
+| Thu, 19 Feb 2026 08:24:58 GMT | Beyond Tools: Building a Safe AI Ecosystem in Mushin | Gbemisola Esho | [Read More](https://medium.com/p/e93b25c9faad) |
+| Thu, 19 Feb 2026 08:18:56 GMT | Governance Questions Compliance Teams Should Ask Security Teams | Jemima Nanret Mwana | [Read More](https://medium.com/p/c5ce658f6ed8) |
+| Thu, 19 Feb 2026 08:17:32 GMT | Bypassing Target App Integrity Checks | Gaurav Kulkarni | [Read More](https://medium.com/p/ad4d254b7385) |
+| Thu, 19 Feb 2026 08:16:56 GMT | Where Is eKYC Being Broken? The Regulatory Attack Surface Behind Digital Identity | Ryu360 | [Read More](https://medium.com/p/b32e5065b0ca) |
+| Thu, 19 Feb 2026 08:14:45 GMT | Offensive PowerShell in 2025 | Cybersphere Official | [Read More](https://medium.com/p/c5069d1bb10d) |
+| Thu, 19 Feb 2026 07:57:14 GMT | CEH Course Online — Master Ethical Hacking Techniques | Ryan Brooks | [Read More](https://medium.com/p/b6938e7aaea2) |
+| Thu, 19 Feb 2026 07:54:54 GMT | A Practical Online Penetration Testing Course for Beginners (Labs + Projects Included) | cyber security Updates | [Read More](https://medium.com/p/8df457d3c6d4) |
+| Thu, 19 Feb 2026 07:41:36 GMT | Achieving Enterprise Agility and Competitive Advantage with ServiceNow ITBM | Alex s | [Read More](https://medium.com/p/f794aa33ece5) |
+| Thu, 19 Feb 2026 07:39:28 GMT | How ServiceNow Development Services Drive Digital Transformation | Alex s | [Read More](https://medium.com/p/6597d3ea00c6) |
+| Thu, 19 Feb 2026 07:36:55 GMT | Networking Fundamentals II: How Ports and Services Power the Internet | Br4in4rd | [Read More](https://medium.com/p/0dc72197a8d0) |
+| Thu, 19 Feb 2026 07:33:51 GMT | Zero Trust Architecture with Blockchain: The Future of Cybersecurity | Cynox Security LLP. | [Read More](https://medium.com/p/5c086ad81914) |
+| Thu, 19 Feb 2026 07:20:39 GMT | The Complete Guide to AI-Driven Penetration Testing: Cursor, MCP, and the Modern PT Workflow | Andrey Pautov | [Read More](https://medium.com/p/8f27ff19f9ca) |
 | Thu, 19 Feb 2026 07:18:31 GMT | RiskScan PRO v2.0.0 — Building a Powerful Python Desktop Security Scanner | Mate Technologies | [Read More](https://medium.com/p/f66bf44aeb71) |
 | Thu, 19 Feb 2026 07:16:23 GMT | 5 Signs You Are Too Tired to Retain Information | Emilycarter | [Read More](https://medium.com/p/901c7d46fc02) |
 | Thu, 19 Feb 2026 07:15:44 GMT | 12 Python API Security Tools That Prevent $100K+ Breaches (2026 Guide) | inprogrammer | [Read More](https://medium.com/p/6a9a8bf5fcc2) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Feb 2026 23:10:35 GMT | Moonwell cbETH Oracle Incident (MIP‑X43): the “vibe‑coded” misconfiguration that minted | Mohammad Khezer | [Read More](https://medium.com/p/84db9f6e8c4d) |
 | Wed, 18 Feb 2026 23:08:00 GMT | LLM01:2025 — Prompt Injection | Cyber-AppSec | [Read More](https://medium.com/p/982b944219a5) |
 | Wed, 18 Feb 2026 22:58:54 GMT | The n8n Secret: Access Environment Variables Without Hardcoding Anything | Dhia Kassab | [Read More](https://medium.com/p/ebef87de3396) |
-| Wed, 18 Feb 2026 22:47:48 GMT | AI Won’t Replace Cybersecurity. It Will Replace What Cybersecurity Was Designed to Protect | Mammoth Cyber | [Read More](https://medium.com/p/8355bf926d2d) |
-| Wed, 18 Feb 2026 22:43:04 GMT | France Declares Cyberspace a Theatre of Power in Landmark 2026–2030 National Strategy | CCD-IS | [Read More](https://medium.com/p/41eddddddb35) |
-| Wed, 18 Feb 2026 22:33:42 GMT | Meu primeiro LAB/CHALLENGE na jornada pro PENTESTER | ShutdownProtocol | [Read More](https://medium.com/p/dc6cf9d20f23) |
-| Wed, 18 Feb 2026 22:26:52 GMT | Building a Safer Future in the Age of Accelerating Technology | Bervice | [Read More](https://medium.com/p/2af7d7936fff) |
-| Wed, 18 Feb 2026 22:13:45 GMT | INE-Host & Network Penetration Testing: Network-Based Attacks CTF 1 by Singkhon | Singkhon K | [Read More](https://medium.com/p/b4e8f8b79f55) |
-| Wed, 18 Feb 2026 22:11:55 GMT | Why Your Building Has a 30% Security Void | Irwin Selvam | [Read More](https://medium.com/p/9abda0ee0da3) |
-| Wed, 18 Feb 2026 22:08:40 GMT | Detection Tuning for SOC | M. Deniz Cengiz | [Read More](https://medium.com/p/28d2ff102d72) |
-| Wed, 18 Feb 2026 22:06:00 GMT | Unfiltered Restart — Day 7: Networking Marathon, Part 2 | Maximillian Rueda | [Read More](https://medium.com/p/69bd86625099) |
-| Wed, 18 Feb 2026 22:02:56 GMT | Server-side Template Injection thm | @Knandan | [Read More](https://medium.com/p/3fc80d538a47) |
-| Wed, 18 Feb 2026 22:01:00 GMT | Unfiltered Restart — Day 7: Networking Marathon, Part 1 | Maximillian Rueda | [Read More](https://medium.com/p/1dc8ed1d92dc) |
-| Wed, 18 Feb 2026 22:01:00 GMT | Understanding AI Platform Security -Part 1 | Avinash Vishwakumar | [Read More](https://medium.com/p/4586a33c4b17) |
-| Wed, 18 Feb 2026 21:58:43 GMT | OpenClaw Shows the Future of AI Agents | Jonathan Capriola | [Read More](https://medium.com/p/6be7012a44b7) |
-| Wed, 18 Feb 2026 21:55:18 GMT | DiamondNet — Explore the Hidden Web Like a Pro | Devilman24 | [Read More](https://medium.com/p/fad6e290cc3d) |
-| Wed, 18 Feb 2026 21:48:41 GMT | Speeding Toward the Encryption Cliff | Scott Dewing | [Read More](https://medium.com/p/09c1c1602a52) |
-| Wed, 18 Feb 2026 21:47:51 GMT | Free Cyber Security Consultation | Charles Burke | [Read More](https://medium.com/p/df6c102df221) |
-| Wed, 18 Feb 2026 21:37:33 GMT | The $4,000 Logo Design Offer That Turned Out to Be a Scam | Iqra Rafiq Khan | [Read More](https://medium.com/p/489fe408742f) |
-| Wed, 18 Feb 2026 21:08:03 GMT | Cisco Cybersecurity Module 1 (Part 1): The World of Cybersecurity | Favour Ugochi Ogbonnaya | [Read More](https://medium.com/p/20abbc8d40cc) |
-| Wed, 18 Feb 2026 21:01:00 GMT | The Ghost in Your Machine: Why OpenClaw’s ‘Local-First’ Autonomy Beats the Cloud Every Time | Anurag Jain | [Read More](https://medium.com/p/f626faa2ccec) |
-| Wed, 18 Feb 2026 20:59:25 GMT | How to Recover Online Accounts When Heirs Don’t Have Email Access | InheritSafe | [Read More](https://medium.com/p/5f85c89cab19) |
-| Wed, 18 Feb 2026 20:56:10 GMT | Siber Güvenliğin Perde Arkası: Saldırgan Ağa Girdiğinde Neler Olur? | SeymanurYlmz | [Read More](https://medium.com/p/d2c21f0ea9ef) |
