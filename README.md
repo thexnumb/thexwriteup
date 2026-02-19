@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Feb 2026 19:53:07 GMT | DNS From Scratch: Making sense of Internet’s Address Book | Gajanan Tayde | [Read More](https://medium.com/p/9d78fe590a82) |
+| Thu, 19 Feb 2026 19:46:37 GMT | The Architecture of Sovereign Digital Asset Management: A Comparative Analysis of Centralized… | The Swiss Expert | [Read More](https://medium.com/p/e1b802f6c46b) |
+| Thu, 19 Feb 2026 19:43:24 GMT | DLL HIJACKING (THM) Tryhackme Walkthrough 12 Task With Answer | Lawvye | [Read More](https://medium.com/p/ff556bba5844) |
+| Thu, 19 Feb 2026 19:28:24 GMT | How To Solve Game : OverTheWire From Level 0 — 34 | Jo | [Read More](https://medium.com/p/cdfbe12981c7) |
+| Thu, 19 Feb 2026 19:27:18 GMT | The Sleepless Engineer: How AI-Powered CLIs are Reshaping DevOps (and Why We’re Not Ready… Yet) | Alex Farhadi | [Read More](https://medium.com/p/eafc7af1bae6) |
+| Thu, 19 Feb 2026 19:22:39 GMT | From data poisoning to SLSA: Why AI models need Supply Chain Security | Christian Frank Johannsen | [Read More](https://medium.com/p/6cff3f9cb44e) |
 | Thu, 19 Feb 2026 19:08:40 GMT | Once upon a time — pt2 | TheOrganizedGirl | [Read More](https://medium.com/p/e02a8292d7b4) |
 | Thu, 19 Feb 2026 19:04:38 GMT | What If the Same Mathematics That Describes Molecular Stability Also Describes Market Risk? | Harel Talasazan | [Read More](https://medium.com/p/cea56ce01daf) |
 | Thu, 19 Feb 2026 19:01:01 GMT | Who Provides Managed IT Services in Plano with Strong Data Backup, Disaster Recovery, and… | Pegasus Technology Solutions | [Read More](https://medium.com/p/18695e00868d) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Feb 2026 14:01:01 GMT | #8 From KYC to KYA: What Happens When AI Becomes the Buyer | Songtham Tung | [Read More](https://medium.com/p/4888d40d0083) |
 | Thu, 19 Feb 2026 14:00:43 GMT | In a Place Full of Noise | Susana | [Read More](https://medium.com/p/aaeb311cf960) |
 | Thu, 19 Feb 2026 13:58:34 GMT | 30 Minutes to Admin Panel Access-A $6,500 Blind XSS Story | Zhenwarx | [Read More](https://medium.com/p/65f669135802) |
-| Thu, 19 Feb 2026 13:54:33 GMT | The Great Illusion: Does VPN Grants Anonymity or Privacy | Odunuga Abd fattah | [Read More](https://medium.com/p/e3c0dbdd3362) |
-| Thu, 19 Feb 2026 13:41:21 GMT | ChatGPT Lockdown Mode: The New AI Security Shield Small Businesses Need — Actionable Security | Frank Marano | [Read More](https://medium.com/p/ce403c3fe633) |
-| Thu, 19 Feb 2026 13:38:20 GMT | Indian Businesses Guide : DPDP VS GDPR Compliance Explained | Cyber Aries | [Read More](https://medium.com/p/fff19000cfe5) |
-| Thu, 19 Feb 2026 13:36:37 GMT | Try Hack Me — Basic Pentesting Write-up | Moi_404 | [Read More](https://medium.com/p/a1ab17f91332) |
-| Thu, 19 Feb 2026 13:31:54 GMT | The One Line of Code That Exposed 50 Million Users: A Calm Look at a Costly Oversight | 1$ Mistake | [Read More](https://medium.com/p/3676bd8ead03) |
-| Thu, 19 Feb 2026 13:27:38 GMT | Defense in Depth | Nurmammadov Sabuhi | [Read More](https://medium.com/p/a4e47d2275b2) |
