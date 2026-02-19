@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Feb 2026 20:29:00 GMT | The Technology Consulting Misnomer: A Critical Look at Industry Practices | Chris Geier | [Read More](https://medium.com/p/ca9e5ce4297b) |
+| Thu, 19 Feb 2026 20:28:01 GMT | Threat Response Strategies in a Data Center | Yuri Bravo | [Read More](https://medium.com/p/3f9a13c72af6) |
+| Thu, 19 Feb 2026 20:22:06 GMT | Why Your AI Agent Keeps Making the Same Mistake (And How to Fix It) | Omar Antonio Díaz Peña | [Read More](https://medium.com/p/eeb19dd9758c) |
+| Thu, 19 Feb 2026 20:13:27 GMT | TryHackMe Writeup: CyberLens | Berkay AĞGÜL | [Read More](https://medium.com/p/8d63076b6c37) |
+| Thu, 19 Feb 2026 20:10:53 GMT | Try Hack Me- Networking Concepts CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/fdf41b2251ec) |
+| Thu, 19 Feb 2026 20:09:23 GMT | Secure by design | us3rgnv | [Read More](https://medium.com/p/d63ab4148432) |
+| Thu, 19 Feb 2026 20:05:58 GMT | Separation of Duties | us3rgnv | [Read More](https://medium.com/p/67222b1044fa) |
 | Thu, 19 Feb 2026 19:53:07 GMT | DNS From Scratch: Making sense of Internet’s Address Book | Gajanan Tayde | [Read More](https://medium.com/p/9d78fe590a82) |
+| Thu, 19 Feb 2026 19:50:16 GMT | Day 6- The Choice to Change the Momentum is love | Kishore V | [Read More](https://medium.com/p/606672de7585) |
 | Thu, 19 Feb 2026 19:46:37 GMT | The Architecture of Sovereign Digital Asset Management: A Comparative Analysis of Centralized… | The Swiss Expert | [Read More](https://medium.com/p/e1b802f6c46b) |
 | Thu, 19 Feb 2026 19:43:24 GMT | DLL HIJACKING (THM) Tryhackme Walkthrough 12 Task With Answer | Lawvye | [Read More](https://medium.com/p/ff556bba5844) |
 | Thu, 19 Feb 2026 19:28:24 GMT | How To Solve Game : OverTheWire From Level 0 — 34 | Jo | [Read More](https://medium.com/p/cdfbe12981c7) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Feb 2026 14:29:13 GMT | Thinking Like an Attacker: How API Pen-Testers Identify SQL Injection Vulnerabilities | Maryblessing | [Read More](https://medium.com/p/1c07b104f8e3) |
 | Thu, 19 Feb 2026 14:24:42 GMT | How API Pen-Testers Approach Systems: Tools, Mindset, and Methodology | Chinaza Emmanuela Obidike | [Read More](https://medium.com/p/c6ac1d865ce1) |
 | Thu, 19 Feb 2026 14:23:12 GMT | Day 1 : https://github.com/Yavuzlar/VulnLab/tree/main | Issan | [Read More](https://medium.com/p/9afca9c11f9b) |
-| Thu, 19 Feb 2026 14:20:14 GMT | SOC Analisti Olma Yolunda Öğrendiğim İlk Gerçek Güvenlik Dersi: Scanning | İbrahim Sünbül | [Read More](https://medium.com/p/114f7aecf4c4) |
-| Thu, 19 Feb 2026 14:13:05 GMT | Disaster Recovery: Building Bulletproof DR Plans | Yomi Folowosele | [Read More](https://medium.com/p/856108dc5476) |
-| Thu, 19 Feb 2026 14:10:00 GMT | Ghost story in IT industry | Henry | [Read More](https://medium.com/p/079e32ba76a1) |
-| Thu, 19 Feb 2026 14:09:40 GMT | Context Engineering > Prompt Engineering: How Senior Developers Actually Get Better AI Output | AI Transfer Lab | [Read More](https://medium.com/p/afadb756beb1) |
-| Thu, 19 Feb 2026 14:05:04 GMT | Account Takeover (ATO) Fraud — Explained Simply | Alex | [Read More](https://medium.com/p/99b4e14aacfe) |
-| Thu, 19 Feb 2026 14:01:01 GMT | #8 From KYC to KYA: What Happens When AI Becomes the Buyer | Songtham Tung | [Read More](https://medium.com/p/4888d40d0083) |
-| Thu, 19 Feb 2026 14:00:43 GMT | In a Place Full of Noise | Susana | [Read More](https://medium.com/p/aaeb311cf960) |
-| Thu, 19 Feb 2026 13:58:34 GMT | 30 Minutes to Admin Panel Access-A $6,500 Blind XSS Story | Zhenwarx | [Read More](https://medium.com/p/65f669135802) |
