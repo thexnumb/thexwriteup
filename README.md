@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Feb 2026 02:12:05 GMT | Beyond the Tools: Deconstructing Malware Evasion in Redline, WannaCry, and SheetRAT | Lloyd Sato | [Read More](https://medium.com/p/58ae0fe6aecb) |
+| Thu, 19 Feb 2026 02:03:18 GMT | Every pip install You Run is a Bet You Are Making With Your Machine | Rafikdz | [Read More](https://medium.com/p/9fce4526fc8e) |
+| Thu, 19 Feb 2026 01:46:42 GMT | Moltbook wasn’t a failure. It was a gift. | Kase | [Read More](https://medium.com/p/4de01c5e1fe5) |
+| Thu, 19 Feb 2026 01:43:39 GMT | A Busy Week for Cybersecurity Speaking Engagements | Matthew.Rosenquist | [Read More](https://medium.com/p/b91f4c84c79f) |
+| Thu, 19 Feb 2026 01:39:24 GMT | WRITE-UP WARGAME BANDIT Level 0–20 | Aiko Devy Ratnasari | [Read More](https://medium.com/p/0f94ac447248) |
+| Thu, 19 Feb 2026 00:32:27 GMT | The Ghost in the Machine: How Cyber-Enabled Trafficking is Rewriting the Drug War | Ali Elkhouly | [Read More](https://medium.com/p/9dcae7c6f535) |
+| Wed, 18 Feb 2026 23:45:52 GMT | The DAIR Model: Dynamic Approach to Incident Response | cyber_0xGambit | [Read More](https://medium.com/p/becfd0e71d66) |
 | Wed, 18 Feb 2026 23:20:15 GMT | How I Found a Critical Unauthenticated LLM Prompt Editor in AI Infrastructure | Ziad (Zierax) | [Read More](https://medium.com/p/bfca98d68e1f) |
 | Wed, 18 Feb 2026 23:12:10 GMT | Reverse Engineering OpenAI Atlas | kurani | [Read More](https://medium.com/p/ef5a7d40e629) |
 | Wed, 18 Feb 2026 23:08:00 GMT | LLM01:2025 — Prompt Injection | Cyber-AppSec | [Read More](https://medium.com/p/982b944219a5) |
@@ -59,6 +66,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Feb 2026 19:29:00 GMT | Footprinting | Mohit kumawat | [Read More](https://medium.com/p/6b85a5996e51) |
 | Wed, 18 Feb 2026 19:26:41 GMT | No Story Stats, No Distribution and Presentation of My New Story | Adalea | [Read More](https://medium.com/p/e1bddc5cc81b) |
 | Wed, 18 Feb 2026 19:17:43 GMT | The Cryptography Concept Journey — Shor’s Algorithm | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/6fc60e26daab) |
+| Wed, 18 Feb 2026 19:16:08 GMT | From Doubt to OSCP: My 5-Month Journey, First Failure, and Final Win | Omar Tamer | [Read More](https://medium.com/p/c20304eef6dc) |
 | Wed, 18 Feb 2026 19:04:09 GMT | The CIA Triad - Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/408739f4d0ef) |
 | Wed, 18 Feb 2026 19:04:02 GMT | My Journey to the Certified AppSec Practitioner (CAP): A Comprehensive Review | MrGood | [Read More](https://medium.com/p/fe86591443dc) |
 | Wed, 18 Feb 2026 19:03:49 GMT | Broken Access Control: User Role Manipulation | Sanjivani Dobhal | [Read More](https://medium.com/p/0795d5354340) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 18 Feb 2026 16:26:46 GMT | Why Windows File Hash Blocklists Fail? | Michael Melnyk | [Read More](https://medium.com/p/1031878cf166) |
 | Wed, 18 Feb 2026 16:25:31 GMT | Day 6 — The Tool Maker | Armaan Nain | [Read More](https://medium.com/p/b0f0afb6b98c) |
 | Wed, 18 Feb 2026 16:22:00 GMT | Watch Me Poison Your MCP | ToxSec | [Read More](https://medium.com/p/09e68de5a648) |
-| Wed, 18 Feb 2026 16:18:14 GMT | How I Bypassed Giant Swarm’s Nginx Regex to Score a Critical SSRF | Sumit Shah (HackSage) | [Read More](https://medium.com/p/e7872ea25e16) |
-| Wed, 18 Feb 2026 16:15:17 GMT | What Really Happens When You Visit a Website: A Plain-English Look at Digital Tracking and AdTech | Joseph Sides | [Read More](https://medium.com/p/4ccd99c14314) |
-| Wed, 18 Feb 2026 16:14:07 GMT | What Is OWASP ZAP? A Simple Guide to Web App Security Testing | Andrew Keitany | [Read More](https://medium.com/p/8635bb2bdae2) |
-| Wed, 18 Feb 2026 16:10:06 GMT | Perkenalan Tentang Digital Forensik - ‘Lab 01’ | Babadoyosky | [Read More](https://medium.com/p/424a1d75dff6) |
-| Wed, 18 Feb 2026 16:08:06 GMT | TryHackMe - Cryptography Concepts - WriteUp | Axoloth | [Read More](https://medium.com/p/f39938beba12) |
-| Wed, 18 Feb 2026 16:02:38 GMT | TryHackMe - The CIA Triad - WriteUp | Axoloth | [Read More](https://medium.com/p/019ffd55a89d) |
-| Wed, 18 Feb 2026 15:55:51 GMT | 30 Days of Red Team: Day 25 — DCSync & Domain Admin Compromise | Maxwell Cross | [Read More](https://medium.com/p/d34a557920db) |
-| Wed, 18 Feb 2026 15:51:47 GMT | Building Production-Ready AI Agents: A Complete Security Guide (2026) | Aniket giri | [Read More](https://medium.com/p/2ea71c84bc81) |
