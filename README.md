@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Feb 2026 18:16:00 GMT | The Psychology of Web3 Incidents: Panic, Silence, and How Teams Lose Trust | Exploitless | [Read More](https://medium.com/p/e7fd4d3b5bed) |
+| Thu, 19 Feb 2026 18:11:40 GMT | The Original SMS Throttle | O. J. Okpabi | [Read More](https://medium.com/p/06fcded4b4fd) |
+| Thu, 19 Feb 2026 18:10:27 GMT | Network Performance Matters: Test, Optimize, Succeed | Yogita | [Read More](https://medium.com/p/b850bb880589) |
+| Thu, 19 Feb 2026 18:07:22 GMT | It Looked Like a Normal Email — 72 Hours Later, X Business Was Gone. | Noel | [Read More](https://medium.com/p/d602d1a3b0af) |
+| Thu, 19 Feb 2026 18:06:44 GMT | I Caused an Outage on an Agentic App | Rahul Singh Chauhan | [Read More](https://medium.com/p/97eef9227d4e) |
+| Thu, 19 Feb 2026 18:05:28 GMT | How Top Bug Bounty Hunters Actually Use ChatGPT in 2026 | MainEkHacker | [Read More](https://medium.com/p/e6dd2fa2e544) |
+| Thu, 19 Feb 2026 18:03:03 GMT | Unauthenticated Deployment API on Vercel Infrastructure — A Responsible Disclosure Case Study | Anubahb paul | [Read More](https://medium.com/p/93dc0f53cb8e) |
+| Thu, 19 Feb 2026 17:49:28 GMT | Process Injection’ın Evrimi: Reflective DLL’den Mockingjay’e EDR Atlatma Sanatı | Melih Yusuf Ercan | [Read More](https://medium.com/p/f1052378f4e2) |
+| Thu, 19 Feb 2026 17:48:35 GMT | How Adversarial Attacks Fool Neural Networks: Inside the Most Subtle AI Exploit | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/fe059ee878fe) |
+| Thu, 19 Feb 2026 17:46:25 GMT | PromptSpy: The Rise of AI Powered Android Malware and What It Means for Cybersecurity | Jas | [Read More](https://medium.com/p/116dda6f1963) |
+| Thu, 19 Feb 2026 17:43:59 GMT | Lab: DOM XSS in innerHTML sink using source location.search | mayhack | [Read More](https://medium.com/p/ea065a071da5) |
+| Thu, 19 Feb 2026 17:31:34 GMT | Understanding CORS (The Easy Way) | Youssef | [Read More](https://medium.com/p/028e5748ea05) |
+| Thu, 19 Feb 2026 17:31:12 GMT | The Database Was Sold Online… but the Vulnerability Was Still Open | Iski | [Read More](https://medium.com/p/81b98a978b0b) |
+| Thu, 19 Feb 2026 17:30:55 GMT | Prompt Injection: The New SQL Injection of the AI Era | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/bec0ded3264a) |
 | Thu, 19 Feb 2026 17:20:03 GMT | Lab 5 & Lab 6: User ID Controlled by Request Parameter | Sanjivani Dobhal | [Read More](https://medium.com/p/868f5e21d5f1) |
 | Thu, 19 Feb 2026 17:12:57 GMT | Blockchain Honeypots: Can Blockchain Catch Hackers? | Cynox Security LLP. | [Read More](https://medium.com/p/7780867a60de) |
 | Thu, 19 Feb 2026 17:10:45 GMT | PYRAX Launches Authensure, Moving Blockchain Beyond Transactions Into Real-World Utility | PYRAX Network | [Read More](https://medium.com/p/e6b0205b333b) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Feb 2026 12:44:14 GMT | I Owned the Domain Controller. The EDR Saw Nothing. | HR | [Read More](https://medium.com/p/c3675a76dcc8) |
 | Thu, 19 Feb 2026 12:42:25 GMT | Gift List writeup (IDOR) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/e429fbfe3c7e) |
 | Thu, 19 Feb 2026 12:38:03 GMT | Least Privilege | Abeshiri Ab | [Read More](https://medium.com/p/8e63d83174d9) |
-| Thu, 19 Feb 2026 12:37:29 GMT | From Networking to Cybersecurity: My Journey Toward Becoming a SOC Analyst in the Middle East | Manavshetty | [Read More](https://medium.com/p/5a536c64b33b) |
-| Thu, 19 Feb 2026 12:36:01 GMT | Best Cybersecurity Companies in India for Enterprises | Himanshu Sharma | [Read More](https://medium.com/p/a9696ed2c500) |
-| Thu, 19 Feb 2026 12:31:01 GMT | Two Lines of Code to Stop Phishing Your Users | Vamsi Krishna Kodimela | [Read More](https://medium.com/p/8dcd948ff911) |
-| Thu, 19 Feb 2026 12:29:47 GMT | 10 Types of Cybersecurity Services Every Business Needs | C9Lab | [Read More](https://medium.com/p/20dcdde91983) |
-| Thu, 19 Feb 2026 12:23:02 GMT | Understanding Single-Tier Architecture: A Foundational Overview | Rohith Lyadalla | [Read More](https://medium.com/p/a0c5377ef71d) |
-| Thu, 19 Feb 2026 12:12:57 GMT | Cara Belajar Linux CLI: Lewat Platform OverTheWire level Bandit | Obscura Nera | [Read More](https://medium.com/p/ec94f4edb7ca) |
-| Thu, 19 Feb 2026 12:11:39 GMT | Label the use of captcha in your forms | The Jucktion | [Read More](https://medium.com/p/485ea8d84432) |
-| Thu, 19 Feb 2026 12:10:00 GMT | Legacy VPN Access vs. Zero Trust: Why Traditional Remote Access No Longer Works | InfosecTrain | [Read More](https://medium.com/p/b29cc97dd227) |
-| Thu, 19 Feb 2026 12:05:17 GMT | Why Your Business Is Failing Disabled Customers, And What to Do About It? | Dr. Abas Mirzaei | [Read More](https://medium.com/p/cda8a8754522) |
-| Thu, 19 Feb 2026 12:01:02 GMT | Strengthening IIT Bombay E-Cell: A Story of Responsible Disclosure | Kastab Garai | [Read More](https://medium.com/p/5919406bbf47) |
-| Thu, 19 Feb 2026 12:01:01 GMT | Writeup for picoCTF challenge “findme” | Walter Moar | [Read More](https://medium.com/p/6f853bc07480) |
-| Thu, 19 Feb 2026 11:56:35 GMT | Exactly Where To Start in Cybersecurity ?(Without Thinking of Giving Up!) | ShinjaNagvekar | [Read More](https://medium.com/p/5e2683e5b61f) |
-| Thu, 19 Feb 2026 11:55:09 GMT | EVMbench: OpenAI & Paradigm’s Bold New Benchmark for AI‑Driven Smart Contract Security | gm0 | [Read More](https://medium.com/p/32f9b64ebf50) |
-| Thu, 19 Feb 2026 11:52:57 GMT | The Midnight Paradox | Saba Khan | [Read More](https://medium.com/p/d39b7dc97922) |
