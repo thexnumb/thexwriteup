@@ -12,12 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Feb 2026 23:15:09 GMT | You Only Know My Anger | Mia | [Read More](https://medium.com/p/4560415a7f64) |
+| Thu, 19 Feb 2026 23:13:35 GMT | Weekly CP Series: Simple Techniques That Helped Me #2 | Zakaria Tabati | [Read More](https://medium.com/p/6d37687852f4) |
+| Thu, 19 Feb 2026 23:02:09 GMT | Windows 11 is a security nightmare — but I have a fix! | Igor Dunaev | [Read More](https://medium.com/p/8b9538ed8545) |
+| Thu, 19 Feb 2026 22:57:27 GMT | Security Services Sacramento: What to Know and What to Look For | Matthew | [Read More](https://medium.com/p/9f65d3fe14d9) |
+| Thu, 19 Feb 2026 22:39:59 GMT | OKTA SSO VISHING ( SESLİ OLTALAMA) SALDIRISI | serhat | [Read More](https://medium.com/p/a94c19421e20) |
+| Thu, 19 Feb 2026 22:37:48 GMT | Prompt Injection: The New SQL Injection and How to Defend Your AI | Meyoron Aghogho | [Read More](https://medium.com/p/fa4b21078e2b) |
 | Thu, 19 Feb 2026 22:32:03 GMT | Your Cloud Is Probably Misconfigured Right Now. How to Fix this. | TechEon | [Read More](https://medium.com/p/6acff5c2dbf4) |
+| Thu, 19 Feb 2026 22:31:40 GMT | CRTO Exam Dump — HTTPS CyberServices.store | Cyber Services | [Read More](https://medium.com/p/04e34a1b480c) |
+| Thu, 19 Feb 2026 22:30:32 GMT | CRTE Exam Dump — HTTPS CyberServices.store | Cyber Services | [Read More](https://medium.com/p/b34c9dd4084b) |
 | Thu, 19 Feb 2026 22:01:00 GMT | Unfiltered Restart — Day 8: Networking Marathon, Part 3 | Maximillian Rueda | [Read More](https://medium.com/p/3c38a3a255c9) |
 | Thu, 19 Feb 2026 21:56:20 GMT | Android Pentest Runbook: A Practical Guide with ADB, Frida, and Objection | Jhxnvi.e | [Read More](https://medium.com/p/ebbb7a32367a) |
 | Thu, 19 Feb 2026 21:54:48 GMT | Demonstrating Windows Defender Evasion via PPL Manipulation | S12 - 0x12Dark Development | [Read More](https://medium.com/p/8767f1ee7ad9) |
 | Thu, 19 Feb 2026 21:53:12 GMT | The Air-Gapped Chronicles: The Causal Moat | Piyoosh Rai | [Read More](https://medium.com/p/d069d24353e3) |
 | Thu, 19 Feb 2026 21:51:20 GMT | We’re Entering a Quantum Computing World. Start With This Question | Danisa Jokanovich | [Read More](https://medium.com/p/41ce375473a1) |
+| Thu, 19 Feb 2026 21:49:43 GMT | Digital-Forensic-Lab01 | Dimasarfan | [Read More](https://medium.com/p/d8e1336d81bf) |
 | Thu, 19 Feb 2026 21:49:28 GMT | ️ Is Your AI Leaking Trade Secrets? | Djakson Cleber | [Read More](https://medium.com/p/0bebad2c86fd) |
 | Thu, 19 Feb 2026 21:43:01 GMT | Become a Hacker-TryHackMe Walkthrough | Ryca | [Read More](https://medium.com/p/caa5d84feefa) |
 | Thu, 19 Feb 2026 21:37:22 GMT | Safe Cleanup: How to use Policy Intelligence to Monitor and Retire GCP Service Account Keys | Munish | [Read More](https://medium.com/p/f2a6798952e8) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Feb 2026 16:06:55 GMT | A Real Social Engineering Attempt Using PowerShell | ZtotheZ | [Read More](https://medium.com/p/264b80aeed48) |
 | Thu, 19 Feb 2026 16:01:04 GMT | Tool Injection via Arguments: 9 Mitigations That Work | Thinking Loop | [Read More](https://medium.com/p/a1f2f2d3534d) |
 | Thu, 19 Feb 2026 16:01:01 GMT | I Tried Agent Memory — 7 Cross-Tenant Leaks I Didn’t Expect | Syntal | [Read More](https://medium.com/p/f41cf202ad96) |
-| Thu, 19 Feb 2026 16:00:58 GMT | ENISA Threat Landscape 2025: Building Resilience with Thales | Liz Kelly | [Read More](https://medium.com/p/b60ecc808827) |
-| Thu, 19 Feb 2026 15:46:49 GMT | Best ELV Company in Dubai vs Others: What Sets Top ELV and Security Providers Apart | Vastechoffpage | [Read More](https://medium.com/p/3647c8f697cd) |
-| Thu, 19 Feb 2026 15:43:49 GMT | What Is Hidden Wiki? A Practical Overview of Tor’s Most Referenced Directory | Tor BBB | [Read More](https://medium.com/p/b3906c7159ba) |
-| Thu, 19 Feb 2026 15:43:05 GMT | what is white hat? | Kevin Ronex | [Read More](https://medium.com/p/964b5a40e1e1) |
-| Thu, 19 Feb 2026 15:42:23 GMT | Protecting Our Children’s Digital Footprint: A Deep Dive into App Privacy | Jonelle Owens | [Read More](https://medium.com/p/733c62adf0e8) |
-| Thu, 19 Feb 2026 15:42:22 GMT | Why Cybersecurity Job Listings Feel Impossible | Scottcmcmahan | [Read More](https://medium.com/p/5cf22af0bbeb) |
-| Thu, 19 Feb 2026 15:25:30 GMT | Unlock Your F5 Certifications: Limited Time Offer | DeepDive4learn | [Read More](https://medium.com/p/e1049873c741) |
-| Thu, 19 Feb 2026 15:25:18 GMT | Day 6 of PortSwigger Academy Lab Walkthrough: Access control vulnerabilities | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/18f5cbb652f4) |
-| Thu, 19 Feb 2026 15:25:07 GMT | ​Title: The Silent Breach: Is Your Enterprise AI Obeying Orders or Simply Waiting? | The Sentenal | [Read More](https://medium.com/p/d447a28fac00) |
