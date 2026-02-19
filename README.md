@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 19 Feb 2026 11:30:07 GMT | Government & Public Sector Cybersecurity Market Growth, Drivers, and Realities | Technology Geek | [Read More](https://medium.com/p/88309585feb4) |
+| Thu, 19 Feb 2026 11:24:18 GMT | Think You’re Not a Target? Think Again | Cyber Sudarshan | [Read More](https://medium.com/p/731cfb75d1b5) |
+| Thu, 19 Feb 2026 11:22:10 GMT | ​I’ve been reflecting lately on where true security in the AI era actually begins... | Shahla(roze) | [Read More](https://medium.com/p/92c236e00fc5) |
+| Thu, 19 Feb 2026 11:16:47 GMT | 5.0: HTTP Host Header Vulnerabilities: Web Cache Poisoning using Ambiguous Requests by HTTP Host… | Bazil Brohi | [Read More](https://medium.com/p/2be89b4d18b6) |
+| Thu, 19 Feb 2026 11:13:17 GMT | Best Network Management Services in India - Optimize Your Infrastructure | Anbarasans | [Read More](https://medium.com/p/24446181932c) |
+| Thu, 19 Feb 2026 11:11:55 GMT | ️ Can a Hacker Break Into Your Network Through a Wi-Fi Printer? | ghostyjoe | [Read More](https://medium.com/p/11905486854b) |
+| Thu, 19 Feb 2026 11:11:36 GMT | Why Secure Fintech Architecture Is the Real Competitive Advantage in Digital Banking | Lucas Wade | [Read More](https://medium.com/p/c176e56921f7) |
+| Thu, 19 Feb 2026 11:11:00 GMT | Decision Readiness. Stop Hoping Leaders Align Under Pressure | Tyson Martin | [Read More](https://medium.com/p/43f750dcc371) |
+| Thu, 19 Feb 2026 11:10:26 GMT | The Internet Is Not a Safe Place — Especially for Families | Seyeneotu | [Read More](https://medium.com/p/7897790fe4ae) |
+| Thu, 19 Feb 2026 11:02:34 GMT | eJPT v2 : Challenge Lab 28: Develpy | Dhanushkumar R | [Read More](https://medium.com/p/9ad4e5e8f0e3) |
+| Thu, 19 Feb 2026 10:59:11 GMT | Cybersecurity Awareness: Closing the Gaps for Individuals and Organizations | Arbaz_Akbar | [Read More](https://medium.com/p/5628e23c6211) |
+| Thu, 19 Feb 2026 10:49:39 GMT | Holding What Was Shared | Sanjini Munaweera | [Read More](https://medium.com/p/e070d30274be) |
+| Thu, 19 Feb 2026 10:47:24 GMT | Why AI Agents Are the Future of Cybersecurity Defense (Not Just Attack) | Ahmad Abdul Mannan | [Read More](https://medium.com/p/76a6ec9243e7) |
+| Thu, 19 Feb 2026 10:45:04 GMT | Where Can You Find Reliable Professional Website Development Services | JanBask Digital Design | [Read More](https://medium.com/p/89672092b7a2) |
 | Thu, 19 Feb 2026 10:34:05 GMT | Overthewire: Bandit Walkthrough | Alfin Syahrin | [Read More](https://medium.com/p/85bf644fdd5a) |
 | Thu, 19 Feb 2026 10:33:53 GMT | Certified Cloud Security Professional (CCSP) with CCSE Certification — Skills & Career Path | Preetihere | [Read More](https://medium.com/p/5bbae9fd167c) |
 | Thu, 19 Feb 2026 10:31:00 GMT | Clinejection: How a Simple GitHub Issue Could Have Hijacked 5 Million Developer Machines | Arg Software | [Read More](https://medium.com/p/6dfafd6939b5) |
@@ -24,6 +38,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Feb 2026 10:17:30 GMT | From a Simple “What If” to Institutional Recognition: How Curiosity Led to Real ERP Security… | Sooraj Pandey | [Read More](https://medium.com/p/41ba220c96a4) |
 | Thu, 19 Feb 2026 10:14:34 GMT | Security Is No Longer Enough: | Lokskush | [Read More](https://medium.com/p/e777ac149589) |
 | Thu, 19 Feb 2026 10:12:26 GMT | Why Exploit Chains Matter More Than Single Vulnerabilities | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/c48637dc173f) |
+| Thu, 19 Feb 2026 10:05:20 GMT | [TIL] PM에게 필요한 IT 용어 정리 | Sub in sea! | [Read More](https://medium.com/p/d316cc9db4ee) |
 | Thu, 19 Feb 2026 10:04:18 GMT | Etherhide and Seek | Elijah Muzzi | [Read More](https://medium.com/p/a3b1a84a4536) |
 | Thu, 19 Feb 2026 09:56:45 GMT | Multiplexed RBAC in .NET — Part 4 —  Deterministic TRN Authorization Engine | Marco Marano | [Read More](https://medium.com/p/7605c934852a) |
 | Thu, 19 Feb 2026 09:52:22 GMT | Why Your Digital Identity is at Risk in 2026: The Ultimate Guide to IP Privacy for US Citizens… | Jake Smith | [Read More](https://medium.com/p/b36262bcf82b) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Feb 2026 05:39:39 GMT | Why “HTTPS Only” Is Not a Security Strategy | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/3fe3443faaa6) |
 | Thu, 19 Feb 2026 05:38:22 GMT | Protect Company Secrets When Using Generative AI | Rom | [Read More](https://medium.com/p/30d343517853) |
 | Thu, 19 Feb 2026 05:37:42 GMT | What is Network Security? | Shreyashettyctr | [Read More](https://medium.com/p/68bc9387309c) |
-| Thu, 19 Feb 2026 05:37:13 GMT | How to Learn Cybersecurity Faster Using Real-World Practice | 0xSmit | [Read More](https://medium.com/p/437dd12e6db7) |
-| Thu, 19 Feb 2026 05:31:00 GMT | Guardians of the Code: AI Powered Token and Session Management for Enhanced UX | DiUS | [Read More](https://medium.com/p/1907afbddf5b) |
-| Thu, 19 Feb 2026 05:23:47 GMT | How Pass IT On MD Is Expanding Opportunity in Tech — From Internships to Innovation | Seanstechblog | [Read More](https://medium.com/p/7791d170bcaa) |
-| Thu, 19 Feb 2026 05:15:20 GMT | The Invisible Supply Chain Attack: How “ToxicSkills” Are Hijacking AI Agents | Anish Karthik | [Read More](https://medium.com/p/63d0c0697146) |
-| Thu, 19 Feb 2026 05:09:54 GMT | Post-Patch Django Security Hardening 2026: OWASP + New CVEs in Async Views (Audit Checklist) | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/ec79609ef8c8) |
-| Thu, 19 Feb 2026 04:57:17 GMT | Introducing “Information Gathering” as the First Phase of Web Security Testing | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/d3d676d1a882) |
-| Thu, 19 Feb 2026 04:56:43 GMT | 5 Cybersecurity Projects You Can Build for $50 or Less | Jesse Ridley | [Read More](https://medium.com/p/df1f809b9a49) |
-| Thu, 19 Feb 2026 04:48:44 GMT | Unpatchable? How Chinese Hackers Hid in Dell VMs for 2 Years Using "Magic Packets" | Sohan Kanna D | [Read More](https://medium.com/p/e5f8eb04e804) |
-| Thu, 19 Feb 2026 04:46:07 GMT | Build Stronger Information Security with an ISO 27001 Consultant | pricoris | [Read More](https://medium.com/p/e439c1660f9d) |
-| Thu, 19 Feb 2026 04:45:12 GMT | Finding and Exploiting an Unused API Endpoint | Bash Overflow | [Read More](https://medium.com/p/64597edeefb4) |
-| Thu, 19 Feb 2026 04:29:49 GMT | Public Wi-Fi Is More Dangerous Than You Think | Sam Writes Security | [Read More](https://medium.com/p/7f13d8b842a4) |
-| Thu, 19 Feb 2026 04:29:12 GMT | Best Cheap Firewall for Small Businesses | Techwizs | [Read More](https://medium.com/p/662e92ffd48c) |
-| Thu, 19 Feb 2026 04:25:43 GMT | Real World Cybersecurity Lab — Article 1 | Jesse Ridley | [Read More](https://medium.com/p/1c7ff7e805dc) |
-| Thu, 19 Feb 2026 04:19:13 GMT | From Nmap to Mach Speed: Why I’m Obsessed with ZMap | Ananth S S | [Read More](https://medium.com/p/69d0cca3e02d) |
-| Thu, 19 Feb 2026 04:15:39 GMT | Here We Go | Alex | [Read More](https://medium.com/p/7f3a77b328d3) |
