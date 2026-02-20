@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Feb 2026 21:11:06 GMT | What Is DCA (Dollar-Cost Averaging) and Why It Works in Crypto | Abasido Tom | [Read More](https://medium.com/p/45932ba244c5) |
+| Fri, 20 Feb 2026 21:08:22 GMT | 1-HTML Injection Bug- Web Penetration Testing Series | Hackerssg | [Read More](https://medium.com/p/858383b22580) |
+| Fri, 20 Feb 2026 21:05:01 GMT | AI Is Learning Faster Than Your Security Stack | CoopSys | [Read More](https://medium.com/p/e4901a9982d4) |
+| Fri, 20 Feb 2026 21:05:00 GMT | Separation of Duties: Engineering Trust Through Structure | Ii | [Read More](https://medium.com/p/1cea3b817f9a) |
+| Fri, 20 Feb 2026 21:04:37 GMT | The Strategic Role of the Bitunix Care Fund | Abasido Tom | [Read More](https://medium.com/p/1f5794a6a555) |
+| Fri, 20 Feb 2026 21:01:06 GMT | The Principle of Least Privilege: Reducing Risk at Its Core | Ii | [Read More](https://medium.com/p/a8d6ca3cc824) |
+| Fri, 20 Feb 2026 20:58:22 GMT | Google Cloud and the Foundations of Cloud-Based Digital Forensics | Dean | [Read More](https://medium.com/p/6790f6cc721a) |
+| Fri, 20 Feb 2026 20:57:22 GMT | My Journey into Cybersecurity & Ethical Hacking Begins | Chima A M | [Read More](https://medium.com/p/cd3f7ac196ba) |
+| Fri, 20 Feb 2026 20:53:27 GMT | Defense in Depth: The Foundation of Modern Cybersecurity | İsmayilov İsmayıl | [Read More](https://medium.com/p/16d317030cd9) |
+| Fri, 20 Feb 2026 20:48:46 GMT | Why Financial Firms Are Rethinking IT Leadership and Starting With the vCIO | CoopSys | [Read More](https://medium.com/p/c268cb6bb33a) |
+| Fri, 20 Feb 2026 20:40:45 GMT | Retakes Can Make Magic: My eJPT Journey | Hemanth Mouli.ch | [Read More](https://medium.com/p/7120637080a8) |
+| Fri, 20 Feb 2026 20:37:12 GMT | Cybersecurity Terms Explained Simply (Beginner’s Guide) | Eda | [Read More](https://medium.com/p/02b1c13f9d1e) |
 | Fri, 20 Feb 2026 20:31:15 GMT | Inside React2Shell: The RCE Vulnerability That Shook the React Ecosystem | Asimzaman | [Read More](https://medium.com/p/3c8fc1387f80) |
+| Fri, 20 Feb 2026 20:30:29 GMT | Secure Query Practices in Ruby on Rails | Muhammad Bin Hussain | [Read More](https://medium.com/p/5fa7bcb01c72) |
+| Fri, 20 Feb 2026 20:27:16 GMT | AI Governance Is the New SOX Moment | Rafat Yazdani | [Read More](https://medium.com/p/1c0ff6b85cf4) |
 | Fri, 20 Feb 2026 20:24:48 GMT | Breaking Down My First eJPT Attempt: Mistakes and Lessons | Hemanth Mouli.ch | [Read More](https://medium.com/p/cd6dd19fe560) |
 | Fri, 20 Feb 2026 20:23:52 GMT | Python: Simple Demo (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/1bfb6e51da2e) |
 | Fri, 20 Feb 2026 20:23:42 GMT | Why Least Privilege for Agentic Automation Fails Without Centralized Automation Control | Frank Kresse | [Read More](https://medium.com/p/63b6fb71f76a) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Feb 2026 15:33:28 GMT | Over The Wire : Bandit Level 0–34 Write-Up | Harmonax | [Read More](https://medium.com/p/4ae7e8b745cf) |
 | Fri, 20 Feb 2026 15:33:00 GMT | Lessons from 10 Years of Writing Code: What I’d Tell My Younger Self | Preeti Bahuguna | [Read More](https://medium.com/p/d0ace89c4119) |
 | Fri, 20 Feb 2026 15:32:09 GMT | #  CVE-2026–20140: High-Severity Privilege Escalation in Splunk Enterprise for Windows | Zeliha Zengin | [Read More](https://medium.com/p/15e08e519d38) |
-| Fri, 20 Feb 2026 15:31:01 GMT | The 5 Security Must-Haves for Vibe-Coded SaaS (AI-Generated Apps) | Merrick Hare | [Read More](https://medium.com/p/b3904679c9de) |
-| Fri, 20 Feb 2026 15:26:59 GMT | From Zero to Shell: My Journey Completing OverTheWire Bandit (Level 0–26) | razzee | [Read More](https://medium.com/p/903a8aebf0a3) |
-| Fri, 20 Feb 2026 15:23:55 GMT | AI Didn’t Betray You. It Recorded You | Meghanathan | [Read More](https://medium.com/p/c1d1c6b21e5a) |
-| Fri, 20 Feb 2026 15:23:07 GMT | AI Coding Tools Are Already in Your Codebase and so Are the Risks. | AI Transfer Lab | [Read More](https://medium.com/p/39daba3ad2a1) |
-| Fri, 20 Feb 2026 15:19:01 GMT | Tougher Than You Think | folkLaur | [Read More](https://medium.com/p/0719d800bcd3) |
-| Fri, 20 Feb 2026 15:17:52 GMT | Password Manager Emergency Access vs. | Olivia Martillo | [Read More](https://medium.com/p/76be1307444a) |
-| Fri, 20 Feb 2026 15:08:29 GMT | Building a Bulletproof Linux Server — Ep. #2: Initializing the Lab Environment | Abdul-mu'min Omotola | [Read More](https://medium.com/p/a1331964fafd) |
-| Fri, 20 Feb 2026 15:07:39 GMT | A Hands-On Security Assessment of VAmPI | Madalitso Cheyo | [Read More](https://medium.com/p/c803385f8c0e) |
-| Fri, 20 Feb 2026 15:01:07 GMT | Cyber Briefing: 2026.02.20 | CyberMaterial | [Read More](https://medium.com/p/fb1d53b4a316) |
-| Fri, 20 Feb 2026 15:01:02 GMT | Entra ID vs Defender for Identity: Architecting Identity Security in Hybrid Environments | Arun Prakash Jothimani | [Read More](https://medium.com/p/1b77316eec7d) |
-| Fri, 20 Feb 2026 15:00:54 GMT | Performance Tuning Secrets: Optimizing Databases. | Yomi Folowosele | [Read More](https://medium.com/p/417e43f8d1f5) |
-| Fri, 20 Feb 2026 15:00:08 GMT | OVERTHEWIRE BANDIT 0–20 | miftakhulzh | [Read More](https://medium.com/p/ab7d844c737a) |
-| Fri, 20 Feb 2026 14:57:07 GMT | Solving a Bugforge Challenge — Exploiting an XXE Vulnerability via XML Upload | Pranaya Shrestha | [Read More](https://medium.com/p/08f132d94aae) |
-| Fri, 20 Feb 2026 14:52:28 GMT | Cybersecurity Career Roadmap for Beginners: A Clear Path Into the Digital Defense World | Ferdi Edogawa | [Read More](https://medium.com/p/da48c2f2bb9e) |
