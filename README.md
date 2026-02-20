@@ -12,9 +12,33 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Feb 2026 08:43:03 GMT | Secure by Design: Building Security Into Systems — Not Bolting It On Later | Kamalatluxanov | [Read More](https://medium.com/p/2dc87f0ef094) |
+| Fri, 20 Feb 2026 08:36:45 GMT | Security: Seperation of duties | Asadliamir | [Read More](https://medium.com/p/f1e140de5353) |
+| Fri, 20 Feb 2026 08:34:03 GMT | Cybersecurity in Today’s Digital World: Not an Option, but a Business Necessity | Devarshi Acharya | [Read More](https://medium.com/p/857dcb3f2833) |
+| Fri, 20 Feb 2026 08:33:52 GMT | Compliance Is Not The Same Effective Compliance | Daniel | [Read More](https://medium.com/p/38d8edad8d57) |
+| Fri, 20 Feb 2026 08:32:53 GMT | HTB DFIR Sherlock: MangoBleed | WildPasta | [Read More](https://medium.com/p/899fab78b888) |
+| Fri, 20 Feb 2026 08:32:23 GMT | I think everyone has something they keep hidden. | Ziyangwind | [Read More](https://medium.com/p/4004264d3c34) |
+| Fri, 20 Feb 2026 08:31:07 GMT | ️ Beyond Passwords: Securing Windows RDP with Azure Hardening and Duo MFA | Praz Timsina | [Read More](https://medium.com/p/46f423a72efb) |
+| Fri, 20 Feb 2026 08:30:53 GMT | Vibesec Coding: A Deep Dive into Security for Vibe Coders | Rammohanreddy | [Read More](https://medium.com/p/2cdae9a33047) |
+| Fri, 20 Feb 2026 08:30:34 GMT | What Buying a Cheap CCTV Camera Really Costs You | etransit | [Read More](https://medium.com/p/64d54539c4bf) |
+| Fri, 20 Feb 2026 08:27:59 GMT | Introduction to Digital Forensics_Lab 01 Writeup | Mariskaroa | [Read More](https://medium.com/p/3678bd8c395a) |
+| Fri, 20 Feb 2026 08:26:53 GMT | Separation of Duties (SoD): The Security Principle That Prevents Chaos Before It Happens | Kamalatluxanov | [Read More](https://medium.com/p/5e9ce3d963fe) |
+| Fri, 20 Feb 2026 08:25:34 GMT | Bug Bounty and Ethical Hacking Career Paths | Crawsec | [Read More](https://medium.com/p/9a08f7a1334e) |
+| Fri, 20 Feb 2026 08:18:32 GMT | ️‍♂️ How Parameter Fuzzing Uncovered a High-Severity Customer Data Exposure ($1000 Reward) | Ankur_bari | [Read More](https://medium.com/p/fa7de61511a7) |
+| Fri, 20 Feb 2026 08:10:54 GMT | Session Fixation Leading to Full Account Takeover | <h1>Ahmed</h1> | [Read More](https://medium.com/p/5fe5c3cbde57) |
+| Fri, 20 Feb 2026 08:06:38 GMT | New Ways For Money Transfer - Bank Account Hack -Tips - Rent Hacker | BlackHat | [Read More](https://medium.com/p/2b506037dbfe) |
+| Fri, 20 Feb 2026 08:00:54 GMT | The Day “Impossible” Broke: The Story of SHA-1 and SHAttered | Sriram | [Read More](https://medium.com/p/584c7b3cc7b7) |
+| Fri, 20 Feb 2026 07:55:42 GMT | How to Implement react-native-biometrics in React Native CLI (Step-by-Step Guide) | Abdul Rehman | [Read More](https://medium.com/p/c79ae88f28e5) |
+| Fri, 20 Feb 2026 07:54:54 GMT | When a sleeping phone locks you out: smart-deadbolt risks | James Kuhman | [Read More](https://medium.com/p/5764f7b7069b) |
+| Fri, 20 Feb 2026 07:54:33 GMT | How Hackers Drained Billions from Web3 in the Last 6 Months | Cynox Security LLP. | [Read More](https://medium.com/p/82f127f73382) |
 | Fri, 20 Feb 2026 07:52:23 GMT | SQL InjectionVulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/ec8580af9143) |
 | Fri, 20 Feb 2026 07:51:44 GMT | Red Team Failures: 12 Lessons Learned (Tool Edition) — Mastering Real-World Pentesting | Very Lazy Tech | [Read More](https://medium.com/p/0e6b97af610b) |
+| Fri, 20 Feb 2026 07:51:02 GMT | Enterprise Content Moderation Solutions: Complete Guide (2026) | Manoj Biswal | [Read More](https://medium.com/p/a44c8efd6312) |
+| Fri, 20 Feb 2026 07:47:57 GMT | Bandit Wargame Level 0 — 21 | Luqman | [Read More](https://medium.com/p/66bac4ce1ffa) |
 | Fri, 20 Feb 2026 07:46:20 GMT | Session Fixation Leading to Full Account Takeover | <h1>Ahmed</h1> | [Read More](https://medium.com/p/689a784294c4) |
+| Fri, 20 Feb 2026 07:45:54 GMT | Building Adaptive Enterprises: How ServiceNow Agentic AI Enables Continuous Innovation | Alex s | [Read More](https://medium.com/p/578ac61ccfdd) |
+| Fri, 20 Feb 2026 07:45:06 GMT | Why ServiceNow Is No Longer an IT Tool but a Business Transformation Platform | Alex s | [Read More](https://medium.com/p/9d9d1906f340) |
+| Fri, 20 Feb 2026 07:45:05 GMT | AI Automation in Cyber Security | Dhiraj Ambigapathi | [Read More](https://medium.com/p/7efa302f0d66) |
 | Fri, 20 Feb 2026 07:44:21 GMT | The Kubernetes Patching Trap: Why 50% of Clusters are a Security Time Bomb | Damian Figiel | [Read More](https://medium.com/p/3a6a6fe02fd5) |
 | Fri, 20 Feb 2026 07:34:27 GMT | Write-Up Bandit Level 0–20
 A Beginner’s Journey Into Linux Enumeration | Shafa Khairanisa | [Read More](https://medium.com/p/59141892a22d) |
@@ -90,27 +114,3 @@ A Beginner’s Journey Into Linux Enumeration | Shafa Khairanisa | [Read More](h
 ​By… | wesatoshis | [Read More](https://medium.com/p/9c770293e4b9) |
 | Fri, 20 Feb 2026 01:51:03 GMT | Javascript Debofuscation Explained | d0natel00(KiroMoheb) | [Read More](https://medium.com/p/874b76b0a7a0) |
 | Fri, 20 Feb 2026 01:47:39 GMT | Nmap: The Foundation of Smart Network Reconnaissance | Nida Arshad | [Read More](https://medium.com/p/b71180d13ae3) |
-| Fri, 20 Feb 2026 01:44:47 GMT | Write-up PicoCTF (Capture The Flag) — Forbidden Paths | Sérgio Corrêa | [Read More](https://medium.com/p/2f8d38239a17) |
-| Fri, 20 Feb 2026 01:31:00 GMT | I Tested Agent Sandboxes: 8 Escape Hatches to Close This Week | Hash Block | [Read More](https://medium.com/p/0e7c3fc17077) |
-| Fri, 20 Feb 2026 01:27:17 GMT | Basic clickjacking with CSRF token protection | ★ | [Read More](https://medium.com/p/e13452f67b22) |
-| Fri, 20 Feb 2026 01:18:37 GMT | Yuk Belajar Dasar Linux lewat CTF Bandit OverTheWire | Rafli | [Read More](https://medium.com/p/ffa11eea06cf) |
-| Fri, 20 Feb 2026 01:17:41 GMT | Why Being Around People Feels Like a Performance | Emma Olia | [Read More](https://medium.com/p/c83e22e24024) |
-| Fri, 20 Feb 2026 01:10:55 GMT | All the World’s Our Stage | Anna Voigt Official | [Read More](https://medium.com/p/c6538fbf3791) |
-| Fri, 20 Feb 2026 01:10:39 GMT | Ditch tmux: Why Vim is the Only Terminal Multiplexer You Need (For Local Dev) | Սարո Ամիրխանյան | [Read More](https://medium.com/p/4d54b985ccd8) |
-| Fri, 20 Feb 2026 01:08:15 GMT | আমার নতুন যাত্রা: বাংলায় সাইবার সিকিউরিটি নিয়ে লেখা | বনি ইয়ামিন | [Read More](https://medium.com/p/a1904c291973) |
-| Fri, 20 Feb 2026 01:01:42 GMT | Introduction to Networking | Bahaa Aldeen Nawlo | [Read More](https://medium.com/p/907e6265a6b9) |
-| Fri, 20 Feb 2026 00:56:22 GMT | The Scam That Looked Real Enough to Fool Anyone | Brenda Arledge | [Read More](https://medium.com/p/eb0cc061572f) |
-| Fri, 20 Feb 2026 00:56:20 GMT | What Is a Yearner, and Why Do Women Today Want One? | Yasmin Del Rosario | [Read More](https://medium.com/p/5df3503aad7f) |
-| Fri, 20 Feb 2026 00:41:19 GMT | Seamless Integration with Smart Solutions - Techfra Solutions | techfra solutions | [Read More](https://medium.com/p/ed6c29c66cf2) |
-| Fri, 20 Feb 2026 00:19:06 GMT | Struktur Dasar Flutter | Zurichsabil | [Read More](https://medium.com/p/b77f80acb8f9) |
-| Fri, 20 Feb 2026 00:01:01 GMT | Interactsh: Guía Completa para Detectar Vulnerabilidades Blind y OOB | JPablo13 | [Read More](https://medium.com/p/777f4777280c) |
-| Thu, 19 Feb 2026 23:40:10 GMT | Time to cooperate- Why AI Is the End of the Marketing vs. IT Era | Alex Nejako | [Read More](https://medium.com/p/39ef5260b30e) |
-| Thu, 19 Feb 2026 23:35:10 GMT | Sacrificial Intelligence: Phishbait Personas for Threat Hunting | Chet Windell | [Read More](https://medium.com/p/d80195561863) |
-| Thu, 19 Feb 2026 23:27:20 GMT | I Spent 3 Months Solving a Security Gap Nobody Talks About: LLM Artifact Integrity | Ogulcan Aydogan | [Read More](https://medium.com/p/2d127da150d4) |
-| Thu, 19 Feb 2026 23:15:09 GMT | You Only Know My Anger | Mia | [Read More](https://medium.com/p/4560415a7f64) |
-| Thu, 19 Feb 2026 23:13:35 GMT | Weekly CP Series: Simple Techniques That Helped Me #2 | Zakaria Tabati | [Read More](https://medium.com/p/6d37687852f4) |
-| Thu, 19 Feb 2026 23:02:09 GMT | Windows 11 is a security nightmare — but I have a fix! | Igor Dunaev | [Read More](https://medium.com/p/8b9538ed8545) |
-| Thu, 19 Feb 2026 22:57:27 GMT | Security Services Sacramento: What to Know and What to Look For | Matthew | [Read More](https://medium.com/p/9f65d3fe14d9) |
-| Thu, 19 Feb 2026 22:39:59 GMT | OKTA SSO VISHING ( SESLİ OLTALAMA) SALDIRISI | serhat | [Read More](https://medium.com/p/a94c19421e20) |
-| Thu, 19 Feb 2026 22:37:48 GMT | Prompt Injection: The New SQL Injection and How to Defend Your AI | Meyoron Aghogho | [Read More](https://medium.com/p/fa4b21078e2b) |
-| Thu, 19 Feb 2026 22:32:03 GMT | Your Cloud Is Probably Misconfigured Right Now. How to Fix this. | TechEon | [Read More](https://medium.com/p/6acff5c2dbf4) |
