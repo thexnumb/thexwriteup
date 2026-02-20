@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Feb 2026 15:01:07 GMT | Cyber Briefing: 2026.02.20 | CyberMaterial | [Read More](https://medium.com/p/fb1d53b4a316) |
+| Fri, 20 Feb 2026 15:01:02 GMT | Entra ID vs Defender for Identity: Architecting Identity Security in Hybrid Environments | Arun Prakash Jothimani | [Read More](https://medium.com/p/1b77316eec7d) |
+| Fri, 20 Feb 2026 15:00:08 GMT | OVERTHEWIRE BANDIT 0–20 | miftakhulzh | [Read More](https://medium.com/p/ab7d844c737a) |
+| Fri, 20 Feb 2026 14:57:07 GMT | Solving a Bugforge Challenge — Exploiting an XXE Vulnerability via XML Upload | Pranaya Shrestha | [Read More](https://medium.com/p/08f132d94aae) |
+| Fri, 20 Feb 2026 14:52:28 GMT | Cybersecurity Career Roadmap for Beginners: A Clear Path Into the Digital Defense World | Ferdi Edogawa | [Read More](https://medium.com/p/da48c2f2bb9e) |
+| Fri, 20 Feb 2026 14:50:55 GMT | TryHackMe - Become a Defender - WriteUp | Axoloth | [Read More](https://medium.com/p/e7d5cfafd963) |
+| Fri, 20 Feb 2026 14:50:02 GMT | Write-up Bandit OverTheWire: Ringkasan tantangan Level 0–34 | Galih Permana Rizki | [Read More](https://medium.com/p/b0361302a7e5) |
+| Fri, 20 Feb 2026 14:44:02 GMT | XSS Attack Methodology: How Attackers Actually Exploit Your Browser | Ahmed Galal | [Read More](https://medium.com/p/07c5cbb9dd0e) |
+| Fri, 20 Feb 2026 14:43:58 GMT | Introduction to DigitalForensic (Lab01) | Ferdirisqoamardianto | [Read More](https://medium.com/p/bdf5f40209ea) |
+| Fri, 20 Feb 2026 14:39:17 GMT | From Compromise to Resilience: A Post-Hack Hardening Guide | Jarmijos | [Read More](https://medium.com/p/d6d0ad7ce518) |
+| Fri, 20 Feb 2026 14:38:11 GMT | TryHackMe - Become a Hacker - WriteUp | Axoloth | [Read More](https://medium.com/p/c563ad0ea9d2) |
+| Fri, 20 Feb 2026 14:29:31 GMT | Rooting Symfonos 3 (VulnHub): The Box Was “Idle”… Until It Wasn’t | Khaled Waleed (MrWayne) | [Read More](https://medium.com/p/4ee4e4562e0c) |
+| Fri, 20 Feb 2026 14:28:40 GMT | Risk Weights in Alarm Prioritization: From Noise to Meaning | Esra Kayhan | [Read More](https://medium.com/p/e09675865462) |
+| Fri, 20 Feb 2026 14:16:33 GMT | Decomposing Multi-Stage Attacks by the SOC: From Data to Scenario ⛓️ | Esra Kayhan | [Read More](https://medium.com/p/35b3aa3013c6) |
+| Fri, 20 Feb 2026 14:10:48 GMT | Why Starlink is not needed in Africa | THIERRY | [Read More](https://medium.com/p/b494aaaa47fe) |
 | Fri, 20 Feb 2026 14:01:01 GMT | EntroGuard — Day 2 | Nisarg Patel | [Read More](https://medium.com/p/1f8cccc64256) |
 | Fri, 20 Feb 2026 13:53:26 GMT | Reading Private Chats : How I Turned an IDOR into a $$ Privacy Breach | Mostafa Waleed Hamed | [Read More](https://medium.com/p/3720d8ed6a0c) |
 | Fri, 20 Feb 2026 13:51:00 GMT | Building a Career in Cybersecurity: My Journey Toward Ethical Hacking | Ernest Chidi | [Read More](https://medium.com/p/c03820c40b60) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Feb 2026 09:22:30 GMT | ️ GoldenEye — OSCP Raw - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/241cd53c9145) |
 | Fri, 20 Feb 2026 09:20:58 GMT | DC -1 Walkthrough - Proving Grounds | Shaik Nawaz Ahmed | [Read More](https://medium.com/p/c37c1bfc6509) |
 | Fri, 20 Feb 2026 09:19:38 GMT | Security Through Obscurity | Amir Asadli | [Read More](https://medium.com/p/5eac99e4cf0e) |
-| Fri, 20 Feb 2026 09:12:54 GMT | Baking It In, Not Bolting It On: The Imperative of Secure by Design | Verysecretmail | [Read More](https://medium.com/p/a6aa1c67d925) |
-| Fri, 20 Feb 2026 09:12:13 GMT | [first write-up กับเริ่มเรียน Cybersecurity ] Lab: Exploiting an API endpoint using documentation | Kittipobmasara | [Read More](https://medium.com/p/436e0e6a066a) |
-| Fri, 20 Feb 2026 09:11:12 GMT | Dividing the Keys to the Kingdom: Why Separation of Duties is Your Ultimate Failsafe | Verysecretmail | [Read More](https://medium.com/p/ccc461e843d8) |
-| Fri, 20 Feb 2026 09:10:29 GMT | Remotely Recovering Locked-Out Systems Using CrowdStrike Real Time Response (RTR) | Godspower Melariri-okwu | [Read More](https://medium.com/p/5dc0974c7360) |
-| Fri, 20 Feb 2026 09:01:01 GMT | 4 URL Patterns in Stealer Logs That Signal High-Value Targets | Alexandre Vandamme | [Read More](https://medium.com/p/25d005d3290f) |
-| Fri, 20 Feb 2026 08:57:15 GMT | Network Basics for cybersecurity — Day 1 | 0xSmit | [Read More](https://medium.com/p/371bb2d98195) |
-| Fri, 20 Feb 2026 08:57:10 GMT | Kotlin Coroutine: Guide of Sequential Style | Sarbjit Kaur | [Read More](https://medium.com/p/72e9736fd0b9) |
-| Fri, 20 Feb 2026 08:55:39 GMT | Hybrid SOC: The Future of Cybersecurity Is Collaborative | Redfox Security | [Read More](https://medium.com/p/635861122d32) |
-| Fri, 20 Feb 2026 08:48:02 GMT | Best Ethical Hacking Course in Trivandrum — Start Your Cybersecurity Career Today | Francycthomas | [Read More](https://medium.com/p/b6bfeee80592) |
-| Fri, 20 Feb 2026 08:43:03 GMT | Secure by Design: Building Security Into Systems — Not Bolting It On Later | Kamalatluxanov | [Read More](https://medium.com/p/2dc87f0ef094) |
-| Fri, 20 Feb 2026 08:36:45 GMT | Security: Seperation of duties | Asadliamir | [Read More](https://medium.com/p/f1e140de5353) |
-| Fri, 20 Feb 2026 08:34:03 GMT | Cybersecurity in Today’s Digital World: Not an Option, but a Business Necessity | Devarshi Acharya | [Read More](https://medium.com/p/857dcb3f2833) |
-| Fri, 20 Feb 2026 08:33:52 GMT | Compliance Is Not The Same Effective Compliance | Daniel | [Read More](https://medium.com/p/38d8edad8d57) |
-| Fri, 20 Feb 2026 08:32:53 GMT | HTB DFIR Sherlock: MangoBleed | WildPasta | [Read More](https://medium.com/p/899fab78b888) |
-| Fri, 20 Feb 2026 08:32:23 GMT | I think everyone has something they keep hidden. | Ziyangwind | [Read More](https://medium.com/p/4004264d3c34) |
