@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Feb 2026 18:55:31 GMT | Cybersecurity Ai | Hakeem | [Read More](https://medium.com/p/4a53103e7b19) |
+| Fri, 20 Feb 2026 18:55:00 GMT | 12+ MUST Know Google Dorking Commands in 2026 | truffles | [Read More](https://medium.com/p/9c8538c313c9) |
+| Fri, 20 Feb 2026 18:53:01 GMT | How I Exposed 1,900+ Partner Records on a Global API via Broken Access Control | hamza | [Read More](https://medium.com/p/d8d12486b9ec) |
+| Fri, 20 Feb 2026 18:48:26 GMT | Eksplorasi Wargame di OverTheWire: Bandit (Level 0–20) | Shabirahkhan | [Read More](https://medium.com/p/438a0f03f140) |
+| Fri, 20 Feb 2026 18:37:57 GMT | Stored Cross-Site Scripting (XSS) in Accounts Manager App Using PHP and MySQL (SourceCodester) | Hemant Raj Bhati | [Read More](https://medium.com/p/ab557de210bb) |
+| Fri, 20 Feb 2026 18:35:03 GMT | Secure Deployment & Hardening of Google Cloud Platform (GCP) Projects — Part VIII | SOCFortress | [Read More](https://medium.com/p/5a3d83000bd3) |
+| Fri, 20 Feb 2026 18:30:08 GMT | Building Enterprise SSO: A Developer’s Guide to OAuth 2.0 and OpenID Connect | Juwan Hollingsworth | [Read More](https://medium.com/p/2e189fd99b20) |
+| Fri, 20 Feb 2026 18:27:43 GMT | Automating Threat Response in Azure with Microsoft Sentinel & SOAR | Amal Udayanga Basnayake | [Read More](https://medium.com/p/a4ef7f1de222) |
+| Fri, 20 Feb 2026 18:26:00 GMT | Hobins Toolbox: M5 Stick | Hobin Rood | [Read More](https://medium.com/p/77552bd8d4aa) |
+| Fri, 20 Feb 2026 18:24:43 GMT | The AI That Refuses to Die | Aditya Srivastav | [Read More](https://medium.com/p/88afb756e9ea) |
+| Fri, 20 Feb 2026 18:19:50 GMT | A Practical Mindset for Aspiring Smart Contract Auditors | Abraham | [Read More](https://medium.com/p/486f4ec71c4f) |
+| Fri, 20 Feb 2026 18:17:43 GMT | Web3 Security Deep Dives: Your Ultimate Guide to Post Mortems, Bug Bounties, and Playbooks | Abraham | [Read More](https://medium.com/p/40e29c4040ec) |
+| Fri, 20 Feb 2026 18:14:21 GMT | Audio Steganography – Audio-Based Payload Delivery | Arda Boğa | [Read More](https://medium.com/p/fda2409296d6) |
 | Fri, 20 Feb 2026 18:01:01 GMT | Ransomware in 2026: What’s Changed and Why It Matters to Your Organization | Dr Kimma Wreh | [Read More](https://medium.com/p/09ca3c8d3bce) |
 | Fri, 20 Feb 2026 18:00:29 GMT | Part 2: The Power of “No”: Understanding the Principle of Least Privilege (PoLP) | Telman Hajibutayev | [Read More](https://medium.com/p/d878c5dd9f5c) |
 | Fri, 20 Feb 2026 17:56:31 GMT | TryHackMe — Include — Walkthrough | Alan | [Read More](https://medium.com/p/b1a44e2e31b5) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Feb 2026 13:19:07 GMT | The Billion-Dollar Cybercrime Economy: How Businesses Can Fight Back | cloudseccurity | [Read More](https://medium.com/p/94e6118866e1) |
 | Fri, 20 Feb 2026 13:16:00 GMT | Zero Trust, Explained In Plain Text | Plaintext with Rich | [Read More](https://medium.com/p/eec50840bb1e) |
 | Fri, 20 Feb 2026 13:13:08 GMT | Write-Up OverTheWire: Bandit (Level 0–27) — Tugas Bootcamp ID Networkers | Aangfajar | [Read More](https://medium.com/p/ccf2f3c7d732) |
-| Fri, 20 Feb 2026 13:13:02 GMT | How I Discovered a Critical Vulnerability in a Power Rental Vending Machine | XSniper | [Read More](https://medium.com/p/cf564073567c) |
-| Fri, 20 Feb 2026 13:08:18 GMT | MongoDB in Production: Lessons Learned the Hard Way | Vashistaraman | [Read More](https://medium.com/p/e53fedd38f1f) |
-| Fri, 20 Feb 2026 13:07:30 GMT | Cybercriminals Innovate Faster Than Companies, Here’s How | 6pri1 | [Read More](https://medium.com/p/aacfcb6fdf1d) |
-| Fri, 20 Feb 2026 13:03:03 GMT | What I Learned about Connection in a Comedy Club | Mark Flumerfelt | [Read More](https://medium.com/p/f20b6d67cbc9) |
-| Fri, 20 Feb 2026 13:01:01 GMT | Stored XSS in Gen AI Chat via Phonetic Obfuscation: Tricking Language Models into Writing Malicious… | SJ_Offsec | [Read More](https://medium.com/p/7edcc9b92f46) |
-| Fri, 20 Feb 2026 13:01:00 GMT | Copying Smart Lock Keys Explained - Sure Lock & Key | Sure Lock & Key LLC | [Read More](https://medium.com/p/9898d8a36f55) |
-| Fri, 20 Feb 2026 12:58:58 GMT | Real-Time Sysmon Monitoring with PowerShell — No SIEM Required | Vivianiwegbu | [Read More](https://medium.com/p/298306dbefeb) |
-| Fri, 20 Feb 2026 12:58:15 GMT | NTLM Kimlik Doğrulama(Authentication) Nedir? | Mustafa AVDAN | [Read More](https://medium.com/p/3b5ac799ec1b) |
-| Fri, 20 Feb 2026 12:55:27 GMT | I just want you to know who I am | Mishthi J | [Read More](https://medium.com/p/c1be8b7967b7) |
-| Fri, 20 Feb 2026 12:51:01 GMT | HASSH Fingerprinting: How I Tracked Attack Tools Across 15 IPs Using SSH Metadata Alone | Hsen Reslan | [Read More](https://medium.com/p/ce4f0c3ea826) |
-| Fri, 20 Feb 2026 12:46:41 GMT | I Deployed an SSH Honeypot and Captured 201,551 Attacks in 21 Days — Here’s What I Found | Hsen Reslan | [Read More](https://medium.com/p/c85c90c4d29d) |
-| Fri, 20 Feb 2026 12:46:05 GMT | Over The Wire Write-up for the Bandit Wargame | Augie Aristitoazka | [Read More](https://medium.com/p/76c66083ee41) |
-| Fri, 20 Feb 2026 12:45:47 GMT | ️ Rogue Printers & Man-in-the-Middle Attacks | ghostyjoe | [Read More](https://medium.com/p/39f7563db75c) |
