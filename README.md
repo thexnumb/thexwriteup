@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Feb 2026 22:53:34 GMT | A Talkative Server Leak a Fintech’s Entire Backend Through Error Messages | Isaac Adebayo | [Read More](https://medium.com/p/290de44c2d03) |
+| Fri, 20 Feb 2026 22:51:38 GMT | Wi-Fi and Bluetooth Pentesting in 2026: Tools, Techniques, and Real-World Risks | Michael Preston | [Read More](https://medium.com/p/1e96b9f9badf) |
+| Fri, 20 Feb 2026 22:41:02 GMT | CVE-2025–27520 Walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/83dac998f248) |
 | Fri, 20 Feb 2026 22:19:22 GMT | OAuth: How a Simple Misconfiguration Can Lead to Full Account Take | MUWAFAK HELAL | [Read More](https://medium.com/p/9d95f57f92ce) |
 | Fri, 20 Feb 2026 22:06:42 GMT | INQUISITION -CANCELATION TORQUEMADA AND HITTLER ALIVE ON SOCIAL MEDIA. | Delpino Neto | [Read More](https://medium.com/p/ff5402a48329) |
 | Fri, 20 Feb 2026 22:01:04 GMT | Termux Kurulum Kodları 2026 | Altayaslanberk | [Read More](https://medium.com/p/07fe206e94fc) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Feb 2026 16:00:31 GMT | How to Become a SOC Analyst in the AI Era (Roadmap, Tools & Skills That Actually Matter) | Cyber Wolf | [Read More](https://medium.com/p/77ed7393e140) |
 | Fri, 20 Feb 2026 15:55:55 GMT | Utopia Ecosystem: A Decentralized Framework for Private Communication and Financial Autonomy | James | [Read More](https://medium.com/p/4f13fd70e3f9) |
 | Fri, 20 Feb 2026 15:52:08 GMT | Simulasi Pencurian Cookie Melalui XSS(Cross Site Scripting) dan Implementasi Pertahanan Berlapis… | yongwi | [Read More](https://medium.com/p/d5fe30d0aace) |
-| Fri, 20 Feb 2026 15:52:00 GMT | The People Who Guard the Systems You Never Think About | seuntokoni | [Read More](https://medium.com/p/2ced7ead3f81) |
-| Fri, 20 Feb 2026 15:46:55 GMT | WIRESHARK: The Day Kerberos Told the Truth | Br4in4rd | [Read More](https://medium.com/p/3489b0e8f13b) |
-| Fri, 20 Feb 2026 15:41:28 GMT | Scan Before You Exploit: Alur Teknis 20 Level Pertama Bandit | Harits Adha | [Read More](https://medium.com/p/ceb209cd51e5) |
