@@ -12,8 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Feb 2026 15:55:55 GMT | Utopia Ecosystem: A Decentralized Framework for Private Communication and Financial Autonomy | James | [Read More](https://medium.com/p/4f13fd70e3f9) |
+| Fri, 20 Feb 2026 15:52:08 GMT | Simulasi Pencurian Cookie Melalui XSS(Cross Site Scripting) dan Implementasi Pertahanan Berlapis… | yongwi | [Read More](https://medium.com/p/d5fe30d0aace) |
+| Fri, 20 Feb 2026 15:46:55 GMT | WIRESHARK: The Day Kerberos Told the Truth | Br4in4rd | [Read More](https://medium.com/p/3489b0e8f13b) |
+| Fri, 20 Feb 2026 15:41:28 GMT | Scan Before You Exploit: Alur Teknis 20 Level Pertama Bandit | Harits Adha | [Read More](https://medium.com/p/ceb209cd51e5) |
+| Fri, 20 Feb 2026 15:40:57 GMT | Legacy - HTB - Manual exploit without Metasploit - Write up | Marinovharisan | [Read More](https://medium.com/p/bb2005369a51) |
+| Fri, 20 Feb 2026 15:40:11 GMT | What It Took to Run GitLab on EKS Securely (IRSA, ARM64, and S3) | Federico Abihaggle | [Read More](https://medium.com/p/28b0a9aa63d3) |
+| Fri, 20 Feb 2026 15:38:13 GMT | The New Front Line: When Hacktivists Cross into Operational Technology | Len Noe | [Read More](https://medium.com/p/b0723aebcb47) |
+| Fri, 20 Feb 2026 15:35:42 GMT | OhSHINT! Tracking a Phone Transcript to it’s Location (not the NSA kind) | Sushil Dixith | [Read More](https://medium.com/p/c5784b9b5b13) |
+| Fri, 20 Feb 2026 15:34:51 GMT | Write Up - Pengenalan Digital Forensic (Lab 01) | Asxbrianti | [Read More](https://medium.com/p/2d29f30f4a2d) |
+| Fri, 20 Feb 2026 15:33:28 GMT | Over The Wire : Bandit Level 0–34 Write-Up | Harmonax | [Read More](https://medium.com/p/4ae7e8b745cf) |
+| Fri, 20 Feb 2026 15:33:00 GMT | Lessons from 10 Years of Writing Code: What I’d Tell My Younger Self | Preeti Bahuguna | [Read More](https://medium.com/p/d0ace89c4119) |
+| Fri, 20 Feb 2026 15:32:09 GMT | #  CVE-2026–20140: High-Severity Privilege Escalation in Splunk Enterprise for Windows | Zeliha Zengin | [Read More](https://medium.com/p/15e08e519d38) |
+| Fri, 20 Feb 2026 15:31:01 GMT | The 5 Security Must-Haves for Vibe-Coded SaaS (AI-Generated Apps) | Merrick Hare | [Read More](https://medium.com/p/b3904679c9de) |
+| Fri, 20 Feb 2026 15:26:59 GMT | From Zero to Shell: My Journey Completing OverTheWire Bandit (Level 0–26) | razzee | [Read More](https://medium.com/p/903a8aebf0a3) |
+| Fri, 20 Feb 2026 15:23:55 GMT | AI Didn’t Betray You. It Recorded You | Meghanathan | [Read More](https://medium.com/p/c1d1c6b21e5a) |
+| Fri, 20 Feb 2026 15:23:07 GMT | AI Coding Tools Are Already in Your Codebase and so Are the Risks. | AI Transfer Lab | [Read More](https://medium.com/p/39daba3ad2a1) |
+| Fri, 20 Feb 2026 15:19:01 GMT | Tougher Than You Think | folkLaur | [Read More](https://medium.com/p/0719d800bcd3) |
+| Fri, 20 Feb 2026 15:17:52 GMT | Password Manager Emergency Access vs. | Olivia Martillo | [Read More](https://medium.com/p/76be1307444a) |
+| Fri, 20 Feb 2026 15:08:29 GMT | Building a Bulletproof Linux Server — Ep. #2: Initializing the Lab Environment | Abdul-mu'min Omotola | [Read More](https://medium.com/p/a1331964fafd) |
+| Fri, 20 Feb 2026 15:07:39 GMT | A Hands-On Security Assessment of VAmPI | Madalitso Cheyo | [Read More](https://medium.com/p/c803385f8c0e) |
 | Fri, 20 Feb 2026 15:01:07 GMT | Cyber Briefing: 2026.02.20 | CyberMaterial | [Read More](https://medium.com/p/fb1d53b4a316) |
 | Fri, 20 Feb 2026 15:01:02 GMT | Entra ID vs Defender for Identity: Architecting Identity Security in Hybrid Environments | Arun Prakash Jothimani | [Read More](https://medium.com/p/1b77316eec7d) |
+| Fri, 20 Feb 2026 15:00:54 GMT | Performance Tuning Secrets: Optimizing Databases. | Yomi Folowosele | [Read More](https://medium.com/p/417e43f8d1f5) |
 | Fri, 20 Feb 2026 15:00:08 GMT | OVERTHEWIRE BANDIT 0–20 | miftakhulzh | [Read More](https://medium.com/p/ab7d844c737a) |
 | Fri, 20 Feb 2026 14:57:07 GMT | Solving a Bugforge Challenge — Exploiting an XXE Vulnerability via XML Upload | Pranaya Shrestha | [Read More](https://medium.com/p/08f132d94aae) |
 | Fri, 20 Feb 2026 14:52:28 GMT | Cybersecurity Career Roadmap for Beginners: A Clear Path Into the Digital Defense World | Ferdi Edogawa | [Read More](https://medium.com/p/da48c2f2bb9e) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Feb 2026 10:27:36 GMT | How IT & Digital Marketing Together Drive Explosive Business Growth in 2026 | Pawan Reddy | [Read More](https://medium.com/p/f689ecfbbe20) |
 | Fri, 20 Feb 2026 10:24:42 GMT | The Rise of Micro-Websites: Why Small Projects Are Driving Big Hosting Demand? | Janet Watson | [Read More](https://medium.com/p/f2e36ff995a2) |
 | Fri, 20 Feb 2026 10:23:34 GMT | UCS uses new AI Model for URL Classification | Eman Khalid | [Read More](https://medium.com/p/56d22a4352dd) |
-| Fri, 20 Feb 2026 10:21:02 GMT | The Hidden Trust Problem in URL Shorteners | Ivan Bulut - Founder, URLcut.ai | [Read More](https://medium.com/p/bbee82d2d6c9) |
-| Fri, 20 Feb 2026 10:19:08 GMT | How to Install Jenkins on an EC2 Instance (Linux) | Rapolu venkatesh | [Read More](https://medium.com/p/abf73d8f5795) |
-| Fri, 20 Feb 2026 10:15:28 GMT | For anyone who’s getting started with WordPress | Lasantha Kumara | [Read More](https://medium.com/p/668035dbda4b) |
-| Fri, 20 Feb 2026 10:11:26 GMT | Web Fundamentals and Application Security for Penetration Testers and Web Developers | Sarakhadirr | [Read More](https://medium.com/p/e6992a3977ba) |
-| Fri, 20 Feb 2026 10:09:40 GMT | Write-Up Lab 1 - Introduction to Digital Foresics | eska | [Read More](https://medium.com/p/67afe4f0a3a4) |
-| Fri, 20 Feb 2026 10:05:52 GMT | Your AI Agent Has the Keys to Everything. Who Has the Keys to Your AI Agent? | 0NE - C L A V I | [Read More](https://medium.com/p/15902bf35bf2) |
-| Fri, 20 Feb 2026 09:55:15 GMT | API Authentication Explained: The Digital Bouncer Guarding Your Systems | Birma Markus | [Read More](https://medium.com/p/1ec0aa50324c) |
-| Fri, 20 Feb 2026 09:54:42 GMT | Least privilege | Haci Isayev | [Read More](https://medium.com/p/fa52d21ecec7) |
-| Fri, 20 Feb 2026 09:53:53 GMT | The Blue Bubble Betrayal | O. J. Okpabi | [Read More](https://medium.com/p/97f431f8c0a5) |
-| Fri, 20 Feb 2026 09:50:37 GMT | Task 1 : Introduction to Digital Forensic | Abrar Fathoni | [Read More](https://medium.com/p/16cd829bbf11) |
-| Fri, 20 Feb 2026 09:45:45 GMT | Calgary Security Company — Professional Protection You Can Trust | Hirasarfraz | [Read More](https://medium.com/p/e246a84fde3b) |
-| Fri, 20 Feb 2026 09:43:39 GMT | 5 Simple Rules to Keep Your Children Safe Online | Seyeneotu | [Read More](https://medium.com/p/c449b02fcfe1) |
-| Fri, 20 Feb 2026 09:41:15 GMT | Brain Chips Are Actually Happening and We Need to Talk About It | Rekhi | [Read More](https://medium.com/p/c1e4f1144e7f) |
-| Fri, 20 Feb 2026 09:35:54 GMT | A Home AI Agent as a New Attack Surface: Security of OpenClaw, Manus AI, and Moltbot | Sergey Gromov | [Read More](https://medium.com/p/6c54dd4c14be) |
-| Fri, 20 Feb 2026 09:34:43 GMT | Inclusiveness walkthrough - Proving Grounds | Shaik Nawaz Ahmed | [Read More](https://medium.com/p/0a4227e7d5e1) |
-| Fri, 20 Feb 2026 09:33:01 GMT | URLScan Dorking to find Exposed Billing & Order Checkout Details | Abhirup Konwar | [Read More](https://medium.com/p/746fed3daa28) |
-| Fri, 20 Feb 2026 09:28:01 GMT | Day 2 — Stored XSS: The Bug That Attacks Every User | Issan | [Read More](https://medium.com/p/ec7fbbb0b324) |
-| Fri, 20 Feb 2026 09:27:19 GMT | Write up Lengkap Bandit (OverTheWire) : Level 1–34 | ArkadiaPutra | [Read More](https://medium.com/p/1edcc3849df5) |
-| Fri, 20 Feb 2026 09:22:30 GMT | ️ GoldenEye — OSCP Raw - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/241cd53c9145) |
-| Fri, 20 Feb 2026 09:20:58 GMT | DC -1 Walkthrough - Proving Grounds | Shaik Nawaz Ahmed | [Read More](https://medium.com/p/c37c1bfc6509) |
-| Fri, 20 Feb 2026 09:19:38 GMT | Security Through Obscurity | Amir Asadli | [Read More](https://medium.com/p/5eac99e4cf0e) |
