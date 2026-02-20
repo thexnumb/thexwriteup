@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Feb 2026 09:34:43 GMT | Inclusiveness walkthrough - Proving Grounds | Shaik Nawaz Ahmed | [Read More](https://medium.com/p/0a4227e7d5e1) |
+| Fri, 20 Feb 2026 09:33:01 GMT | URLScan Dorking to find Exposed Billing & Order Checkout Details | Abhirup Konwar | [Read More](https://medium.com/p/746fed3daa28) |
+| Fri, 20 Feb 2026 09:28:01 GMT | Day 2 — Stored XSS: The Bug That Attacks Every User | Issan | [Read More](https://medium.com/p/ec7fbbb0b324) |
+| Fri, 20 Feb 2026 09:27:19 GMT | Write up Lengkap Bandit (OverTheWire) : Level 1–34 | ArkadiaPutra | [Read More](https://medium.com/p/1edcc3849df5) |
+| Fri, 20 Feb 2026 09:22:30 GMT | ️ GoldenEye — OSCP Raw - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/241cd53c9145) |
+| Fri, 20 Feb 2026 09:20:58 GMT | DC -1 Walkthrough - Proving Grounds | Shaik Nawaz Ahmed | [Read More](https://medium.com/p/c37c1bfc6509) |
+| Fri, 20 Feb 2026 09:19:38 GMT | Security Through Obscurity | Amir Asadli | [Read More](https://medium.com/p/5eac99e4cf0e) |
+| Fri, 20 Feb 2026 09:12:54 GMT | Baking It In, Not Bolting It On: The Imperative of Secure by Design | Verysecretmail | [Read More](https://medium.com/p/a6aa1c67d925) |
+| Fri, 20 Feb 2026 09:12:13 GMT | [first write-up กับเริ่มเรียน Cybersecurity ] Lab: Exploiting an API endpoint using documentation | Kittipobmasara | [Read More](https://medium.com/p/436e0e6a066a) |
+| Fri, 20 Feb 2026 09:11:12 GMT | Dividing the Keys to the Kingdom: Why Separation of Duties is Your Ultimate Failsafe | Verysecretmail | [Read More](https://medium.com/p/ccc461e843d8) |
+| Fri, 20 Feb 2026 09:10:29 GMT | Remotely Recovering Locked-Out Systems Using CrowdStrike Real Time Response (RTR) | Godspower Melariri-okwu | [Read More](https://medium.com/p/5dc0974c7360) |
+| Fri, 20 Feb 2026 09:01:01 GMT | 4 URL Patterns in Stealer Logs That Signal High-Value Targets | Alexandre Vandamme | [Read More](https://medium.com/p/25d005d3290f) |
+| Fri, 20 Feb 2026 08:57:15 GMT | Network Basics for cybersecurity — Day 1 | 0xSmit | [Read More](https://medium.com/p/371bb2d98195) |
+| Fri, 20 Feb 2026 08:57:10 GMT | Kotlin Coroutine: Guide of Sequential Style | Sarbjit Kaur | [Read More](https://medium.com/p/72e9736fd0b9) |
+| Fri, 20 Feb 2026 08:55:39 GMT | Hybrid SOC: The Future of Cybersecurity Is Collaborative | Redfox Security | [Read More](https://medium.com/p/635861122d32) |
+| Fri, 20 Feb 2026 08:48:02 GMT | Best Ethical Hacking Course in Trivandrum — Start Your Cybersecurity Career Today | Francycthomas | [Read More](https://medium.com/p/b6bfeee80592) |
 | Fri, 20 Feb 2026 08:43:03 GMT | Secure by Design: Building Security Into Systems — Not Bolting It On Later | Kamalatluxanov | [Read More](https://medium.com/p/2dc87f0ef094) |
 | Fri, 20 Feb 2026 08:36:45 GMT | Security: Seperation of duties | Asadliamir | [Read More](https://medium.com/p/f1e140de5353) |
 | Fri, 20 Feb 2026 08:34:03 GMT | Cybersecurity in Today’s Digital World: Not an Option, but a Business Necessity | Devarshi Acharya | [Read More](https://medium.com/p/857dcb3f2833) |
@@ -97,20 +113,3 @@ A Beginner’s Journey Into Linux Enumeration | Shafa Khairanisa | [Read More](h
 | Fri, 20 Feb 2026 03:34:00 GMT | I Built a Free Platform to Learn AI Security by Actually Hacking AI | Abdulrhman Adel | [Read More](https://medium.com/p/48157ef80d99) |
 | Fri, 20 Feb 2026 03:30:53 GMT | API Security : A Deep Dive into HTTP Fundamentals, Headers & Status Codes | Reduan Islam Badhon | [Read More](https://medium.com/p/f04faa8b97fd) |
 | Fri, 20 Feb 2026 03:18:22 GMT | API Security : A Deep Dive into HTTP Fundamentals, Headers & Status Codes | Reduan Islam Badhon | [Read More](https://medium.com/p/fe98770a3d35) |
-| Fri, 20 Feb 2026 03:18:17 GMT | I Spoke to 100+ Students About Cybersecurity Careers — Here’s What They’re Doing Wrong | Rajiv Sharma | [Read More](https://medium.com/p/4e074c6b78f0) |
-| Fri, 20 Feb 2026 03:14:58 GMT | CYBERDUDEBIVASH® AUTHORIZED PUBLICATION Subject: The Death of Manual DevOps: Scaling the Individual… | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/0da668797198) |
-| Fri, 20 Feb 2026 03:03:31 GMT | TryHackMe — Security Principles (Walkthrough) | Hudson Lois Marcus | [Read More](https://medium.com/p/cc77f023f000) |
-| Fri, 20 Feb 2026 03:01:01 GMT | Skill Atrophy in Cybersecurity: Part 6- The Accelerators — AI! | Nothing Cyber [NC] | [Read More](https://medium.com/p/952192448acb) |
-| Fri, 20 Feb 2026 02:49:48 GMT | Basic Network Scan Nessus | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/63500f73d147) |
-| Fri, 20 Feb 2026 02:35:38 GMT | INE-Host & Network Penetration Testing: The Metasploit Framework CTF 2 by Singkhon | Singkhon K | [Read More](https://medium.com/p/9dcb91b6904e) |
-| Fri, 20 Feb 2026 02:31:00 GMT | 11 agent governance rules when “autonomy” meets compliance | Codastra | [Read More](https://medium.com/p/15b8668d4d0c) |
-| Fri, 20 Feb 2026 02:29:27 GMT | 300+ Malicious Chrome Extensions, Millions of Installs… and We’re Still Installing Random Stuff at… | stanzin norzang | [Read More](https://medium.com/p/6127a5bbacda) |
-| Fri, 20 Feb 2026 02:27:25 GMT | OpenClaw 2026.2.19 Release: Fortress Upgrade with Apple Watch Support and 40+ Security Enhancements | AI Engineering | [Read More](https://medium.com/p/a3ecd2740bf8) |
-| Fri, 20 Feb 2026 02:20:19 GMT | Thick Client Application Pentesting: A Complete Practical Guide | Lernerspath | [Read More](https://medium.com/p/d0dbf27da33f) |
-| Fri, 20 Feb 2026 02:04:33 GMT | The 9 Layers of the Enterprise AI Stack: Understanding How Intelligence Is Created, How It… | Juan Pablo Castro | [Read More](https://medium.com/p/ad56c95248bc) |
-| Fri, 20 Feb 2026 01:57:32 GMT | Independence Is Not Strength. It’s Often Protection. | May Lee | [Read More](https://medium.com/p/d3b51f22f5c9) |
-| Fri, 20 Feb 2026 01:56:10 GMT | Is a Cyber Security Strategy Necessary for Small Businesses? | cyber ethos | [Read More](https://medium.com/p/6c1b6200dbec) |
-| Fri, 20 Feb 2026 01:52:03 GMT | Beyond the Seed: How 'The Panic Transaction' Defeats Both Digital Hacks and Physical Robberies
-​By… | wesatoshis | [Read More](https://medium.com/p/9c770293e4b9) |
-| Fri, 20 Feb 2026 01:51:03 GMT | Javascript Debofuscation Explained | d0natel00(KiroMoheb) | [Read More](https://medium.com/p/874b76b0a7a0) |
-| Fri, 20 Feb 2026 01:47:39 GMT | Nmap: The Foundation of Smart Network Reconnaissance | Nida Arshad | [Read More](https://medium.com/p/b71180d13ae3) |
