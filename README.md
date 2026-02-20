@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Feb 2026 06:56:31 GMT | Technology’s Role in Enterprise Risk Reduction | Gautamkumar | [Read More](https://medium.com/p/8cfe90b27252) |
+| Fri, 20 Feb 2026 06:56:13 GMT | Technology’s Role in Enterprise Risk Reduction | Gautam kumar | [Read More](https://medium.com/p/40e1e4cc723e) |
+| Fri, 20 Feb 2026 06:55:38 GMT | It works? Do not touch it. | Anton Minin Baranovskii | [Read More](https://medium.com/p/cb9921a8c8dd) |
+| Fri, 20 Feb 2026 06:52:27 GMT | How to Secure a Dedicated Server: Practical Tips | Jessica F | [Read More](https://medium.com/p/1c752071901f) |
+| Fri, 20 Feb 2026 06:52:12 GMT | Why Traditional Network Security Fails Against Modern Attack Paths | Gautamkumar | [Read More](https://medium.com/p/51fbd9161707) |
+| Fri, 20 Feb 2026 06:51:54 GMT | Why Traditional Network Security Fails Against Modern Attack Paths | Gautam kumar | [Read More](https://medium.com/p/49fa55a56a10) |
+| Fri, 20 Feb 2026 06:50:54 GMT | The Secret Life of AWS: Network Isolation (VPC & Security Groups) | Aaron Rose | [Read More](https://medium.com/p/0241168bd091) |
+| Fri, 20 Feb 2026 06:45:02 GMT | เคยเจอไหม? หน้าเว็บ Cloudflare ปลอมที่หลอกให้คุณคัดลอกคำสั่งแปลก ๆ | Sparkle | [Read More](https://medium.com/p/c1018c1c6c34) |
+| Fri, 20 Feb 2026 06:35:29 GMT | Turning Recon Into High-Impact Vulnerabilities | ghostyjoe | [Read More](https://medium.com/p/3f88bbb8cf56) |
+| Fri, 20 Feb 2026 06:34:44 GMT | Why Does Your Mac Need Reliable Antivirus Software Today? | Siyanoav | [Read More](https://medium.com/p/beb27952e5e5) |
+| Fri, 20 Feb 2026 06:28:37 GMT | API Testing: | Abdulnafayk | [Read More](https://medium.com/p/a508551c214b) |
+| Fri, 20 Feb 2026 06:22:34 GMT | The Corix Partners Friday Reading List — February 20, 2026 | JC Gaillard | [Read More](https://medium.com/p/80a84766861f) |
+| Fri, 20 Feb 2026 06:10:31 GMT | Apartment Security Guard Services in Bangalore — Protecting Residential Communities with Fortigo… | Fortigo Secure | [Read More](https://medium.com/p/7c02f53fc216) |
+| Fri, 20 Feb 2026 05:59:02 GMT | Best Security Services in Bangalore — Why Fortigo Secure Solutions Pvt Ltd is a Trusted Choice for… | Fortigo Secure | [Read More](https://medium.com/p/3c6ffbebfd37) |
+| Fri, 20 Feb 2026 05:49:27 GMT | Deploying EpicBook on Ubuntu EC2 + Private MySQL RDS in a SecureCloud Network | Ed Eguaikhide | [Read More](https://medium.com/p/3b39f9d91ee5) |
+| Fri, 20 Feb 2026 05:44:27 GMT | How Security Solutions in Singapore Help Organizations Stay Ahead of Evolving Threats | Jane Tang | [Read More](https://medium.com/p/010cc2c6828e) |
+| Fri, 20 Feb 2026 05:29:35 GMT | Rootkits: The Malware That Edits Reality | Rakshitha D H | [Read More](https://medium.com/p/34005e729281) |
 | Fri, 20 Feb 2026 05:23:53 GMT | AI Will Not Replace Leaders—But Poor Leadership Will Break AI | Dr.Abdulla Al Nuaimi | [Read More](https://medium.com/p/d2f1beeaa839) |
 | Fri, 20 Feb 2026 05:19:29 GMT | CYBER SECURITY | Dhaya | [Read More](https://medium.com/p/723383d5b89d) |
 | Fri, 20 Feb 2026 05:18:09 GMT | Symmetric vs. Asymmetric Encryption Explained | ShreehariMenon | [Read More](https://medium.com/p/ebdbbc55e63c) |
@@ -23,6 +40,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Feb 2026 04:53:19 GMT | AI-Powered NDR: How 2026 Networks Defend Themselves | NetWitness | [Read More](https://medium.com/p/dfddeadf9578) |
 | Fri, 20 Feb 2026 04:45:27 GMT | Cybersecurity Certifications vs Real Skills: What Matters More? | 0xSmit | [Read More](https://medium.com/p/0d70593dee99) |
 | Fri, 20 Feb 2026 04:45:24 GMT | How I found Critical Bug From Regular Pagination | Albertstive | [Read More](https://medium.com/p/711c83b7eff7) |
+| Fri, 20 Feb 2026 04:43:09 GMT | Ceron : The Zero Trust Security Validation,Verification and Governance for AI Agents | Anantdhavale | [Read More](https://medium.com/p/8b654f7afde1) |
 | Fri, 20 Feb 2026 04:41:04 GMT | I Found a Container Escape - | Terminals & Coffee | [Read More](https://medium.com/p/d5c6a167b76b) |
 | Fri, 20 Feb 2026 04:32:47 GMT | Magician — Full Exploitation Walkthrough | Roshan Rajbanshi | [Read More](https://medium.com/p/53ed2b8e3063) |
 | Fri, 20 Feb 2026 04:23:41 GMT | How I Bypassed Email Verification Using an Exposed API Endpoint | Fuzzyy Duck | [Read More](https://medium.com/p/f85693c5c08a) |
@@ -95,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Feb 2026 21:24:46 GMT | The Night I Learned Why “It’s Probably Nothing” Is Dangerous | Uniworth security | [Read More](https://medium.com/p/55f1b289a1a8) |
 | Thu, 19 Feb 2026 21:23:33 GMT | CWE-200: Information Disclosure to Unauthorized Actors | Bazil Brohi | [Read More](https://medium.com/p/6da54ab0805f) |
 | Thu, 19 Feb 2026 21:20:32 GMT | Why I’m Writing About Agent Security | Dimiter Milushev | [Read More](https://medium.com/p/6257bcdb9748) |
-| Thu, 19 Feb 2026 21:20:15 GMT | gaara walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/4b7d23a6326d) |
-| Thu, 19 Feb 2026 21:17:36 GMT | 2026 Siber Saldırılar Part-4 | Zekikayaalp | [Read More](https://medium.com/p/2537fdb5210f) |
-| Thu, 19 Feb 2026 21:16:00 GMT | Why I Ditched the Credit Model for a Direct API Approach in Business Intelligence | Tugui Dragos-Constantin | [Read More](https://medium.com/p/ce91a7b28da6) |
-| Thu, 19 Feb 2026 21:09:59 GMT | Elixindo un almacenamento de segredos: HashiCorp Vault vs OpenBao | Sergio Rua | [Read More](https://medium.com/p/30fca5725170) |
-| Thu, 19 Feb 2026 21:06:34 GMT | CISA Identifies Four Actively Exploited Security Vulnerabilities in Latest KEV | SCtoCS | [Read More](https://medium.com/p/b4052f531b5e) |
-| Thu, 19 Feb 2026 21:06:00 GMT | Aaron W. DeJong Newsletter: Episode 4 | Aaron DeJong | [Read More](https://medium.com/p/7235350f1721) |
-| Thu, 19 Feb 2026 20:52:04 GMT | “You Don’t Get Hacked. You Get Over-Permissioned.” | HackTrace | [Read More](https://medium.com/p/494ef923e059) |
-| Thu, 19 Feb 2026 20:47:31 GMT | I Have a CS Degree, I Manage eBay Stores, and I’m Finally Coming Home! | Faizanshahid | [Read More](https://medium.com/p/8fda132872f9) |
-| Thu, 19 Feb 2026 20:42:48 GMT | Safe Torrenting in 2026: Best Clients, Security Tips, and Reliable Access Methods | Captain Blackwave | [Read More](https://medium.com/p/2c46da6a4edc) |
-| Thu, 19 Feb 2026 20:40:06 GMT | Least Privilege | Nurmammadov Sabuhi | [Read More](https://medium.com/p/aae62dc812de) |
-| Thu, 19 Feb 2026 20:29:00 GMT | The Technology Consulting Misnomer: A Critical Look at Industry Practices | Chris Geier | [Read More](https://medium.com/p/ca9e5ce4297b) |
-| Thu, 19 Feb 2026 20:28:01 GMT | Threat Response Strategies in a Data Center | Yuri Bravo | [Read More](https://medium.com/p/3f9a13c72af6) |
-| Thu, 19 Feb 2026 20:22:06 GMT | Why Your AI Agent Keeps Making the Same Mistake (And How to Fix It) | Omar Antonio Díaz Peña | [Read More](https://medium.com/p/eeb19dd9758c) |
-| Thu, 19 Feb 2026 20:13:27 GMT | TryHackMe Writeup: CyberLens | Berkay AĞGÜL | [Read More](https://medium.com/p/8d63076b6c37) |
-| Thu, 19 Feb 2026 20:10:53 GMT | Try Hack Me- Networking Concepts CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/fdf41b2251ec) |
-| Thu, 19 Feb 2026 20:09:23 GMT | Secure by design | us3rgnv | [Read More](https://medium.com/p/d63ab4148432) |
-| Thu, 19 Feb 2026 20:05:58 GMT | Separation of Duties | us3rgnv | [Read More](https://medium.com/p/67222b1044fa) |
-| Thu, 19 Feb 2026 19:53:07 GMT | DNS From Scratch: Making sense of Internet’s Address Book | Gajanan Tayde | [Read More](https://medium.com/p/9d78fe590a82) |
