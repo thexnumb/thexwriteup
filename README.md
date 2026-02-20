@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Feb 2026 20:31:15 GMT | Inside React2Shell: The RCE Vulnerability That Shook the React Ecosystem | Asimzaman | [Read More](https://medium.com/p/3c8fc1387f80) |
+| Fri, 20 Feb 2026 20:24:48 GMT | Breaking Down My First eJPT Attempt: Mistakes and Lessons | Hemanth Mouli.ch | [Read More](https://medium.com/p/cd6dd19fe560) |
+| Fri, 20 Feb 2026 20:23:52 GMT | Python: Simple Demo (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/1bfb6e51da2e) |
+| Fri, 20 Feb 2026 20:23:42 GMT | Why Least Privilege for Agentic Automation Fails Without Centralized Automation Control | Frank Kresse | [Read More](https://medium.com/p/63b6fb71f76a) |
+| Fri, 20 Feb 2026 20:23:33 GMT | IDOR Nedir? Insecure Direct Object Reference Açıklarının Derinlemesine Analizi | Melih Yılmaz | [Read More](https://medium.com/p/20f02197c7d8) |
+| Fri, 20 Feb 2026 20:18:10 GMT | CyberHeroes Content Hub: Turning Cybersecurity Confusion into Clarity | Paul Kemp | [Read More](https://medium.com/p/1bfdc3447fb7) |
+| Fri, 20 Feb 2026 20:16:33 GMT | AI Training and Data Annotation Specialist — Austine Makwaka | Austine Makwaka | [Read More](https://medium.com/p/502ce4d96db9) |
+| Fri, 20 Feb 2026 20:14:33 GMT | Affordable Tech Products for Women That Feel Premium (Under $50) | Stellar Nook | [Read More](https://medium.com/p/fbb9dcd82909) |
+| Fri, 20 Feb 2026 20:13:17 GMT | Fusion Corp — TryHackMe Walkthrough | Abdallah_samir | [Read More](https://medium.com/p/c54a70c24380) |
+| Fri, 20 Feb 2026 20:10:06 GMT | Underestimating Aum Shinrikyo: Intelligence Failures in Democratic Counterterrorism | Vionë Dobërdoli | [Read More](https://medium.com/p/8bfa409283c1) |
+| Fri, 20 Feb 2026 20:08:37 GMT | Weekly Cyber Threat Bulletin: 19 February 2026 | Marcelle Lee | [Read More](https://medium.com/p/0d35ba6682ab) |
+| Fri, 20 Feb 2026 20:05:28 GMT | Weekly Cyber Threat Bulletin: 5 February 2026 | Marcelle Lee | [Read More](https://medium.com/p/efbe17bfae9c) |
+| Fri, 20 Feb 2026 20:02:12 GMT | Computer Security With “SentryPC” | Declanfenton | [Read More](https://medium.com/p/3bd17cdff6c0) |
+| Fri, 20 Feb 2026 19:49:18 GMT | The War You Don’t See: Insider Espionage and the Quiet Threat on U.S. Soil | Robert Morton | [Read More](https://medium.com/p/002059515457) |
+| Fri, 20 Feb 2026 19:48:45 GMT | How Bitcoin-Grade Security Enables Autonomous Agent Operations | SuperDapp | [Read More](https://medium.com/p/3d324e108d61) |
 | Fri, 20 Feb 2026 19:39:42 GMT | Cryptography Concepts Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/e5a3db54966c) |
 | Fri, 20 Feb 2026 19:39:26 GMT | The CIA Triad Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/6c3ce76b720a) |
 | Fri, 20 Feb 2026 19:31:40 GMT | DNS Zone Transfer Nedir? AXFR Açığı Nasıl Çalışır? | Songül Kızılay Özügürler | [Read More](https://medium.com/p/a9fac396e74f) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Feb 2026 15:00:08 GMT | OVERTHEWIRE BANDIT 0–20 | miftakhulzh | [Read More](https://medium.com/p/ab7d844c737a) |
 | Fri, 20 Feb 2026 14:57:07 GMT | Solving a Bugforge Challenge — Exploiting an XXE Vulnerability via XML Upload | Pranaya Shrestha | [Read More](https://medium.com/p/08f132d94aae) |
 | Fri, 20 Feb 2026 14:52:28 GMT | Cybersecurity Career Roadmap for Beginners: A Clear Path Into the Digital Defense World | Ferdi Edogawa | [Read More](https://medium.com/p/da48c2f2bb9e) |
-| Fri, 20 Feb 2026 14:50:55 GMT | TryHackMe - Become a Defender - WriteUp | Axoloth | [Read More](https://medium.com/p/e7d5cfafd963) |
-| Fri, 20 Feb 2026 14:50:02 GMT | Write-up Bandit OverTheWire: Ringkasan tantangan Level 0–34 | Galih Permana Rizki | [Read More](https://medium.com/p/b0361302a7e5) |
-| Fri, 20 Feb 2026 14:44:02 GMT | XSS Attack Methodology: How Attackers Actually Exploit Your Browser | Ahmed Galal | [Read More](https://medium.com/p/07c5cbb9dd0e) |
-| Fri, 20 Feb 2026 14:43:58 GMT | Introduction to DigitalForensic (Lab01) | Ferdirisqoamardianto | [Read More](https://medium.com/p/bdf5f40209ea) |
-| Fri, 20 Feb 2026 14:39:17 GMT | From Compromise to Resilience: A Post-Hack Hardening Guide | Jarmijos | [Read More](https://medium.com/p/d6d0ad7ce518) |
-| Fri, 20 Feb 2026 14:38:11 GMT | TryHackMe - Become a Hacker - WriteUp | Axoloth | [Read More](https://medium.com/p/c563ad0ea9d2) |
-| Fri, 20 Feb 2026 14:29:31 GMT | Rooting Symfonos 3 (VulnHub): The Box Was “Idle”… Until It Wasn’t | Khaled Waleed (MrWayne) | [Read More](https://medium.com/p/4ee4e4562e0c) |
-| Fri, 20 Feb 2026 14:28:40 GMT | Risk Weights in Alarm Prioritization: From Noise to Meaning | Esra Kayhan | [Read More](https://medium.com/p/e09675865462) |
-| Fri, 20 Feb 2026 14:16:33 GMT | Decomposing Multi-Stage Attacks by the SOC: From Data to Scenario ⛓️ | Esra Kayhan | [Read More](https://medium.com/p/35b3aa3013c6) |
-| Fri, 20 Feb 2026 14:10:48 GMT | Why Starlink is not needed in Africa | THIERRY | [Read More](https://medium.com/p/b494aaaa47fe) |
-| Fri, 20 Feb 2026 14:01:01 GMT | EntroGuard — Day 2 | Nisarg Patel | [Read More](https://medium.com/p/1f8cccc64256) |
-| Fri, 20 Feb 2026 13:53:26 GMT | Reading Private Chats : How I Turned an IDOR into a $$ Privacy Breach | Mostafa Waleed Hamed | [Read More](https://medium.com/p/3720d8ed6a0c) |
-| Fri, 20 Feb 2026 13:51:00 GMT | Building a Career in Cybersecurity: My Journey Toward Ethical Hacking | Ernest Chidi | [Read More](https://medium.com/p/c03820c40b60) |
-| Fri, 20 Feb 2026 13:43:24 GMT | OverTheWire: Bandit Wargame — Complete Write-Up (Level 0–20) | Adrian Syah Abidin | [Read More](https://medium.com/p/919d4bd113b6) |
-| Fri, 20 Feb 2026 13:40:15 GMT | Why Network Testing and Monitoring Matter More Than Ever in Today’s Digital World | Shubhra Srivastav | [Read More](https://medium.com/p/ec8d949150b7) |
