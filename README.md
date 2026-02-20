@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Feb 2026 18:01:01 GMT | Ransomware in 2026: What’s Changed and Why It Matters to Your Organization | Dr Kimma Wreh | [Read More](https://medium.com/p/09ca3c8d3bce) |
+| Fri, 20 Feb 2026 18:00:29 GMT | Part 2: The Power of “No”: Understanding the Principle of Least Privilege (PoLP) | Telman Hajibutayev | [Read More](https://medium.com/p/d878c5dd9f5c) |
+| Fri, 20 Feb 2026 17:56:31 GMT | TryHackMe — Include — Walkthrough | Alan | [Read More](https://medium.com/p/b1a44e2e31b5) |
+| Fri, 20 Feb 2026 17:54:31 GMT | Cybersecurity News Review — Week 8 (2026) | Mladen Kirilov | [Read More](https://medium.com/p/ee9807e92a9a) |
+| Fri, 20 Feb 2026 17:46:00 GMT | Managed IT Services: Why Small Businesses Can’t Afford to “Wing It” Anymore | Janeel Abrahams | [Read More](https://medium.com/p/d1999c5fb039) |
+| Fri, 20 Feb 2026 17:45:56 GMT | Understanding VACA in Cybersecurity: The Backbone of Organizational Security | Rokadesayli | [Read More](https://medium.com/p/9f0b0279a63a) |
+| Fri, 20 Feb 2026 17:44:15 GMT | Cybersecurity Fundamentals Series: Why “Defense in Depth” is More Than Just a Buzzword | Telman Hajibutayev | [Read More](https://medium.com/p/b951d8b0bd02) |
+| Fri, 20 Feb 2026 17:44:10 GMT | Reversing anogs: How Delta Force Mobile’s Anti-Cheat Enumerates Your Installed Apps on iOS | srkorwho | [Read More](https://medium.com/p/9b7d6a3ec157) |
+| Fri, 20 Feb 2026 17:42:54 GMT | Extended Data Exposure Incident Highlights Growing Risks in Financial Platforms | Sai Charan Reddy | [Read More](https://medium.com/p/0a8aba88f256) |
+| Fri, 20 Feb 2026 17:41:00 GMT | Identity and Access Management (IAM) Explained: Foundations and Keycloak Overview (Part 1) | Rupesh Sharma | [Read More](https://medium.com/p/41c0f7f99c90) |
+| Fri, 20 Feb 2026 17:40:55 GMT | Hi, I have started learning penetration testing as I prepare for my first cybersecurity job. | Madhanashanmugam | [Read More](https://medium.com/p/307d1c9c55c2) |
+| Fri, 20 Feb 2026 17:28:14 GMT | Understanding CVE-2026–2441: How a CSS Bug Crashed Chrome | Vedic_error | [Read More](https://medium.com/p/18421eff703e) |
+| Fri, 20 Feb 2026 17:16:02 GMT | Day 8 — Long term Plans | Armaan Nain | [Read More](https://medium.com/p/c4d1764e799f) |
+| Fri, 20 Feb 2026 17:07:53 GMT | The Cryptography Concept Journey — X.509 | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/779866dbb568) |
 | Fri, 20 Feb 2026 17:02:56 GMT | What Is the Best Commercial Security Camera System for Business in 2026? | Fortnexs Shield | [Read More](https://medium.com/p/99f09e3a3b37) |
 | Fri, 20 Feb 2026 16:56:25 GMT | Love Letter Locker — A TryHackMe Writeup | 0x77 | [Read More](https://medium.com/p/a5217e396138) |
 | Fri, 20 Feb 2026 16:55:47 GMT | Technical Walkthrough OverTheWire Bandit (Level 0–20): Foundational Linux and Security Concepts | Galih Fajar Fahreza | [Read More](https://medium.com/p/d716d16ac817) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Feb 2026 12:46:41 GMT | I Deployed an SSH Honeypot and Captured 201,551 Attacks in 21 Days — Here’s What I Found | Hsen Reslan | [Read More](https://medium.com/p/c85c90c4d29d) |
 | Fri, 20 Feb 2026 12:46:05 GMT | Over The Wire Write-up for the Bandit Wargame | Augie Aristitoazka | [Read More](https://medium.com/p/76c66083ee41) |
 | Fri, 20 Feb 2026 12:45:47 GMT | ️ Rogue Printers & Man-in-the-Middle Attacks | ghostyjoe | [Read More](https://medium.com/p/39f7563db75c) |
-| Fri, 20 Feb 2026 12:43:17 GMT | What It “Really” Means When Your Information Is Found on the Dark Web | Teddy Cerra | [Read More](https://medium.com/p/8b8af9a947e5) |
-| Fri, 20 Feb 2026 12:41:01 GMT | Day 13 Attack Structure Explained: Persistence — How Attackers Make Themselves Hard to Remove | NineTales | [Read More](https://medium.com/p/9e050e52418b) |
-| Fri, 20 Feb 2026 12:37:12 GMT | Seperation of duties | Abeshiri Ab | [Read More](https://medium.com/p/5c4e36d3e321) |
-| Fri, 20 Feb 2026 12:31:01 GMT | How a Single console.log Can Expose Thousands of Credit Cards | Vamsi Krishna Kodimela | [Read More](https://medium.com/p/79b5cb242651) |
-| Fri, 20 Feb 2026 12:28:03 GMT | HYLQ Strategy Corp. Adds $qONE to Treasury in Strategic OTC Purchase | qONE | [Read More](https://medium.com/p/7b54cf1e38a5) |
-| Fri, 20 Feb 2026 12:21:50 GMT | The $400 Million IDaaS Breach Lessons | Superasystem Inc. | [Read More](https://medium.com/p/a8212fc53cc9) |
-| Fri, 20 Feb 2026 12:21:29 GMT | Every Slammed Door Was Once a Knock, Nobody Answered | Reena Jha | [Read More](https://medium.com/p/4584b3608611) |
-| Fri, 20 Feb 2026 12:18:16 GMT | The AI-First Blueprint: Navigating IT Digital Transformation in 2026 | Xaltius | [Read More](https://medium.com/p/596d67c04120) |
-| Fri, 20 Feb 2026 12:14:50 GMT | BBC Reporter Hacked Live | BeamSec | [Read More](https://medium.com/p/def1f28c60b5) |
-| Fri, 20 Feb 2026 12:00:11 GMT | evilbox-one walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/3f0df72eba57) |
-| Fri, 20 Feb 2026 11:54:38 GMT | Smart Workflow Automation with Skilled N8N Professionals | n8ndevelopers | [Read More](https://medium.com/p/fa6d307bec09) |
-| Fri, 20 Feb 2026 11:53:41 GMT | Literature Review Internet Security | Claudia from Western Governors University | [Read More](https://medium.com/p/2d5f596c37fe) |
-| Fri, 20 Feb 2026 11:51:00 GMT | The Enterprise: Final Season - Layoffs Wrote Out the Leads, No One Remembers the Pilot | Namir Sagheenanajar | [Read More](https://medium.com/p/7fd935a00ca7) |
-| Fri, 20 Feb 2026 11:46:37 GMT | Lab: DOM XSS in jQuery Anchor href Attribute Using location.search | mayhack | [Read More](https://medium.com/p/499b6202457a) |
