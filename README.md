@@ -12,8 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Feb 2026 17:02:56 GMT | What Is the Best Commercial Security Camera System for Business in 2026? | Fortnexs Shield | [Read More](https://medium.com/p/99f09e3a3b37) |
+| Fri, 20 Feb 2026 16:56:25 GMT | Love Letter Locker — A TryHackMe Writeup | 0x77 | [Read More](https://medium.com/p/a5217e396138) |
+| Fri, 20 Feb 2026 16:55:47 GMT | Technical Walkthrough OverTheWire Bandit (Level 0–20): Foundational Linux and Security Concepts | Galih Fajar Fahreza | [Read More](https://medium.com/p/d716d16ac817) |
+| Fri, 20 Feb 2026 16:51:30 GMT | Microsoft Azure in 2026: Why Businesses Are Choosing Azure for Secure and Scalable Cloud Growth | Techridge Solutions | [Read More](https://medium.com/p/0695bfbe3b6a) |
+| Fri, 20 Feb 2026 16:48:20 GMT | What Is IoT? How the Internet of Things Is Quietly Changing Your Everyday Life | Techridge Solutions | [Read More](https://medium.com/p/236bcf387655) |
+| Fri, 20 Feb 2026 16:46:55 GMT | OverTheWire Bandit Levels 0–20 Walkthrough | Lovindfirdaus | [Read More](https://medium.com/p/6618e2f1a525) |
+| Fri, 20 Feb 2026 16:45:17 GMT | AI-Driven DevOps: Automated Ubuntu Security Patching Without Downtime | Ark Protocol | [Read More](https://medium.com/p/358e7f99597f) |
+| Fri, 20 Feb 2026 16:44:43 GMT | Cybersecurity Foundations Part 4: Building the Fortress from the Blueprint — Secure by Design | Elmir | [Read More](https://medium.com/p/b0a72f5d744a) |
+| Fri, 20 Feb 2026 16:42:51 GMT | “Your Cloud Isn’t Hacked. It’s Just Exposed.” | HackTrace | [Read More](https://medium.com/p/45b70b60a06a) |
+| Fri, 20 Feb 2026 16:41:03 GMT | Seperation of Duties | Nurmammadov Sabuhi | [Read More](https://medium.com/p/329412c04afc) |
+| Fri, 20 Feb 2026 16:40:24 GMT | Cybersecurity Foundations Part 3: Trust, but Verify — The Power of Separation of Duties (SoD) | Elmir | [Read More](https://medium.com/p/976e7885460f) |
+| Fri, 20 Feb 2026 16:38:13 GMT | Password Managers Promise Security. Swiss Researchers Just Challenged That Assumption. | SoBatista | [Read More](https://medium.com/p/9e0c984701a4) |
+| Fri, 20 Feb 2026 16:32:22 GMT | Overthewire : Bandit Level 0 — Level 1 - by mrahmatt74 | mrahmatt74 | [Read More](https://medium.com/p/33c7d4d0bf65) |
+| Fri, 20 Feb 2026 16:21:00 GMT | Giraffe, Giraffe. | Amore Venus ִ ࣪ | [Read More](https://medium.com/p/dcc2b06c0500) |
+| Fri, 20 Feb 2026 16:16:50 GMT | OverTheWire: Bandit Wargame Write-Up (Level 0–21) | Afrizacho | [Read More](https://medium.com/p/66720629d30e) |
+| Fri, 20 Feb 2026 16:10:35 GMT | Transforming IT: Smart Ways to Cut Costs and Enhance Performance | Ed-it Editions | [Read More](https://medium.com/p/16d7711f267d) |
+| Fri, 20 Feb 2026 16:05:34 GMT | Data Privacy Laws / Regulations Around The World | Robert Broeckelmann | [Read More](https://medium.com/p/7e1e9a1369ef) |
+| Fri, 20 Feb 2026 16:04:01 GMT | 5 Security Mistakes Developers Still Make in 2026 | Mwenda Kelvin | [Read More](https://medium.com/p/7b81fc7e20bb) |
+| Fri, 20 Feb 2026 16:03:14 GMT | WHAT SILENCE PROTECTS | A Piece Of My Mind | [Read More](https://medium.com/p/749c283b6ed1) |
+| Fri, 20 Feb 2026 16:01:02 GMT | Write-up máquina Profetas DockerLabs | Joel Morillas Pagan (Ghxstsec) | [Read More](https://medium.com/p/8ad0a852297c) |
+| Fri, 20 Feb 2026 16:00:31 GMT | How to Become a SOC Analyst in the AI Era (Roadmap, Tools & Skills That Actually Matter) | Cyber Wolf | [Read More](https://medium.com/p/77ed7393e140) |
 | Fri, 20 Feb 2026 15:55:55 GMT | Utopia Ecosystem: A Decentralized Framework for Private Communication and Financial Autonomy | James | [Read More](https://medium.com/p/4f13fd70e3f9) |
 | Fri, 20 Feb 2026 15:52:08 GMT | Simulasi Pencurian Cookie Melalui XSS(Cross Site Scripting) dan Implementasi Pertahanan Berlapis… | yongwi | [Read More](https://medium.com/p/d5fe30d0aace) |
+| Fri, 20 Feb 2026 15:52:00 GMT | The People Who Guard the Systems You Never Think About | seuntokoni | [Read More](https://medium.com/p/2ced7ead3f81) |
 | Fri, 20 Feb 2026 15:46:55 GMT | WIRESHARK: The Day Kerberos Told the Truth | Br4in4rd | [Read More](https://medium.com/p/3489b0e8f13b) |
 | Fri, 20 Feb 2026 15:41:28 GMT | Scan Before You Exploit: Alur Teknis 20 Level Pertama Bandit | Harits Adha | [Read More](https://medium.com/p/ceb209cd51e5) |
 | Fri, 20 Feb 2026 15:40:57 GMT | Legacy - HTB - Manual exploit without Metasploit - Write up | Marinovharisan | [Read More](https://medium.com/p/bb2005369a51) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Feb 2026 11:53:41 GMT | Literature Review Internet Security | Claudia from Western Governors University | [Read More](https://medium.com/p/2d5f596c37fe) |
 | Fri, 20 Feb 2026 11:51:00 GMT | The Enterprise: Final Season - Layoffs Wrote Out the Leads, No One Remembers the Pilot | Namir Sagheenanajar | [Read More](https://medium.com/p/7fd935a00ca7) |
 | Fri, 20 Feb 2026 11:46:37 GMT | Lab: DOM XSS in jQuery Anchor href Attribute Using location.search | mayhack | [Read More](https://medium.com/p/499b6202457a) |
-| Fri, 20 Feb 2026 11:43:06 GMT | Top 10 IT Companies in Coimbatore (2026 Guide): Top Software Firms, Jobs & Growth | Enterpreneurialmind | [Read More](https://medium.com/p/5e7d5ba117d2) |
-| Fri, 20 Feb 2026 11:32:43 GMT | The Art of the Appeal: Turning a “Security Friction” into a P2/S2 at Google VRP | Hasan Fleyah | [Read More](https://medium.com/p/fa1bd40f3036) |
-| Fri, 20 Feb 2026 11:31:00 GMT | From Curiosity to Bounty: TheSouledStore Security Discovery Story | Kastab Garai | [Read More](https://medium.com/p/44bbcf3c08f2) |
-| Fri, 20 Feb 2026 11:20:07 GMT | Authentication vs Authorization: Hâlâ Karışan Kavramlar | Sakarya Üniversitesi Siber Güvenlik Topluluğu | [Read More](https://medium.com/p/4bc609f26bfa) |
-| Fri, 20 Feb 2026 11:14:24 GMT | From One Site to Many: The Smarter Way Teams Manage Growth Without Chaos? | Andy | [Read More](https://medium.com/p/6a9bab54cd7d) |
-| Fri, 20 Feb 2026 11:10:40 GMT | Working with FedRAMP | Adeoluwa Obadofin | [Read More](https://medium.com/p/1d2cd474c7df) |
-| Fri, 20 Feb 2026 11:08:57 GMT | The Rise of Criminal Bounties on Emerging Hiring Platforms (And How Developers Are Being Targeted) | Alejandro Steiner | [Read More](https://medium.com/p/6f09e18ccc4d) |
-| Fri, 20 Feb 2026 11:04:05 GMT | The Global Rise of Luxury Watches — And Why Secure Storage Matters More Than Ever | Vintage Vaults | [Read More](https://medium.com/p/9cd83742a29f) |
-| Fri, 20 Feb 2026 11:02:31 GMT | What If an AI LOCAL DISCOVERY PLATFORM Knew Your City Better Than You Do? | PadosXO | [Read More](https://medium.com/p/4d3ec8131b81) |
-| Fri, 20 Feb 2026 11:01:01 GMT | OverTheWire: Bandit Walkthrough | Dwi Raysah Anandifa Kautsar | [Read More](https://medium.com/p/6c1ca8ffb2c3) |
-| Fri, 20 Feb 2026 11:00:10 GMT | GOVERNANCE, RISK, AND COMPLIANCE (GRC): THE BRIDGE BETWEEN SECURITY AND BUSINESS | Raphaam Digital (Cyber Security Updates) | [Read More](https://medium.com/p/c790591a1690) |
-| Fri, 20 Feb 2026 10:59:20 GMT | Pages of past | Kakoli Aster♡ | [Read More](https://medium.com/p/f1be19dd6fb9) |
-| Fri, 20 Feb 2026 10:53:43 GMT | Why Cybersecurity Careers Stall in Years 5–10 (And How to Break Through) | Taimur Ijlal | [Read More](https://medium.com/p/81838747d8b7) |
-| Fri, 20 Feb 2026 10:52:20 GMT | OverTheWire Bandit Level 0–21 | krisna nanda | [Read More](https://medium.com/p/a401a6f5ea81) |
-| Fri, 20 Feb 2026 10:52:03 GMT | 2026 Cyber Resilience: Is Your Recovery Strategy Ready? Join the Live Webinar | NAKIVO | [Read More](https://medium.com/p/bbfdb254d17d) |
-| Fri, 20 Feb 2026 10:51:19 GMT | Audit Committee Blind Spots in Complex Institutions | Tim Overstreet | [Read More](https://medium.com/p/0d39c1115575) |
-| Fri, 20 Feb 2026 10:46:06 GMT | What Is Social Engineering in Cybersecurity? A Plain-English Guide | Kuboid Secure Layer | [Read More](https://medium.com/p/fb20aa1866f9) |
-| Fri, 20 Feb 2026 10:32:01 GMT | DockerLabs Writeup — Eclipse (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/d237c095b5b2) |
-| Fri, 20 Feb 2026 10:30:57 GMT | Secure by Design: Why One Wall is Never Enough | Rinad | [Read More](https://medium.com/p/9c31d082b3f0) |
-| Fri, 20 Feb 2026 10:27:36 GMT | How IT & Digital Marketing Together Drive Explosive Business Growth in 2026 | Pawan Reddy | [Read More](https://medium.com/p/f689ecfbbe20) |
-| Fri, 20 Feb 2026 10:24:42 GMT | The Rise of Micro-Websites: Why Small Projects Are Driving Big Hosting Demand? | Janet Watson | [Read More](https://medium.com/p/f2e36ff995a2) |
-| Fri, 20 Feb 2026 10:23:34 GMT | UCS uses new AI Model for URL Classification | Eman Khalid | [Read More](https://medium.com/p/56d22a4352dd) |
