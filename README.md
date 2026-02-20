@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Feb 2026 13:01:01 GMT | Stored XSS in Gen AI Chat via Phonetic Obfuscation: Tricking Language Models into Writing Malicious… | SJ_Offsec | [Read More](https://medium.com/p/7edcc9b92f46) |
+| Fri, 20 Feb 2026 13:01:00 GMT | Copying Smart Lock Keys Explained - Sure Lock & Key | Sure Lock & Key LLC | [Read More](https://medium.com/p/9898d8a36f55) |
+| Fri, 20 Feb 2026 12:58:58 GMT | Real-Time Sysmon Monitoring with PowerShell — No SIEM Required | Vivianiwegbu | [Read More](https://medium.com/p/298306dbefeb) |
+| Fri, 20 Feb 2026 12:58:15 GMT | NTLM Kimlik Doğrulama(Authentication) Nedir? | Mustafa AVDAN | [Read More](https://medium.com/p/3b5ac799ec1b) |
+| Fri, 20 Feb 2026 12:51:01 GMT | HASSH Fingerprinting: How I Tracked Attack Tools Across 15 IPs Using SSH Metadata Alone | Hsen Reslan | [Read More](https://medium.com/p/ce4f0c3ea826) |
+| Fri, 20 Feb 2026 12:46:41 GMT | I Deployed an SSH Honeypot and Captured 201,551 Attacks in 21 Days — Here’s What I Found | Hsen Reslan | [Read More](https://medium.com/p/c85c90c4d29d) |
+| Fri, 20 Feb 2026 12:46:05 GMT | Over The Wire Write-up for the Bandit Wargame | Augie Aristitoazka | [Read More](https://medium.com/p/76c66083ee41) |
+| Fri, 20 Feb 2026 12:45:47 GMT | ️ Rogue Printers & Man-in-the-Middle Attacks | ghostyjoe | [Read More](https://medium.com/p/39f7563db75c) |
+| Fri, 20 Feb 2026 12:43:17 GMT | What It “Really” Means When Your Information Is Found on the Dark Web | Teddy Cerra | [Read More](https://medium.com/p/8b8af9a947e5) |
+| Fri, 20 Feb 2026 12:41:01 GMT | Day 13 Attack Structure Explained: Persistence — How Attackers Make Themselves Hard to Remove | NineTales | [Read More](https://medium.com/p/9e050e52418b) |
+| Fri, 20 Feb 2026 12:37:12 GMT | Seperation of duties | Abeshiri Ab | [Read More](https://medium.com/p/5c4e36d3e321) |
+| Fri, 20 Feb 2026 12:31:01 GMT | How a Single console.log Can Expose Thousands of Credit Cards | Vamsi Krishna Kodimela | [Read More](https://medium.com/p/79b5cb242651) |
+| Fri, 20 Feb 2026 12:28:03 GMT | HYLQ Strategy Corp. Adds $qONE to Treasury in Strategic OTC Purchase | qONE | [Read More](https://medium.com/p/7b54cf1e38a5) |
+| Fri, 20 Feb 2026 12:21:50 GMT | The $400 Million IDaaS Breach Lessons | Superasystem Inc. | [Read More](https://medium.com/p/a8212fc53cc9) |
+| Fri, 20 Feb 2026 12:21:29 GMT | Every Slammed Door Was Once a Knock, Nobody Answered | Reena Jha | [Read More](https://medium.com/p/4584b3608611) |
+| Fri, 20 Feb 2026 12:18:16 GMT | The AI-First Blueprint: Navigating IT Digital Transformation in 2026 | Xaltius | [Read More](https://medium.com/p/596d67c04120) |
+| Fri, 20 Feb 2026 12:14:50 GMT | BBC Reporter Hacked Live | BeamSec | [Read More](https://medium.com/p/def1f28c60b5) |
+| Fri, 20 Feb 2026 12:00:11 GMT | evilbox-one walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/3f0df72eba57) |
+| Fri, 20 Feb 2026 11:54:38 GMT | Smart Workflow Automation with Skilled N8N Professionals | n8ndevelopers | [Read More](https://medium.com/p/fa6d307bec09) |
+| Fri, 20 Feb 2026 11:53:41 GMT | Literature Review Internet Security | Claudia from Western Governors University | [Read More](https://medium.com/p/2d5f596c37fe) |
+| Fri, 20 Feb 2026 11:51:00 GMT | The Enterprise: Final Season - Layoffs Wrote Out the Leads, No One Remembers the Pilot | Namir Sagheenanajar | [Read More](https://medium.com/p/7fd935a00ca7) |
+| Fri, 20 Feb 2026 11:46:37 GMT | Lab: DOM XSS in jQuery Anchor href Attribute Using location.search | mayhack | [Read More](https://medium.com/p/499b6202457a) |
+| Fri, 20 Feb 2026 11:43:06 GMT | Top 10 IT Companies in Coimbatore (2026 Guide): Top Software Firms, Jobs & Growth | Enterpreneurialmind | [Read More](https://medium.com/p/5e7d5ba117d2) |
+| Fri, 20 Feb 2026 11:32:43 GMT | The Art of the Appeal: Turning a “Security Friction” into a P2/S2 at Google VRP | Hasan Fleyah | [Read More](https://medium.com/p/fa1bd40f3036) |
 | Fri, 20 Feb 2026 11:31:00 GMT | From Curiosity to Bounty: TheSouledStore Security Discovery Story | Kastab Garai | [Read More](https://medium.com/p/44bbcf3c08f2) |
 | Fri, 20 Feb 2026 11:20:07 GMT | Authentication vs Authorization: Hâlâ Karışan Kavramlar | Sakarya Üniversitesi Siber Güvenlik Topluluğu | [Read More](https://medium.com/p/4bc609f26bfa) |
 | Fri, 20 Feb 2026 11:14:24 GMT | From One Site to Many: The Smarter Way Teams Manage Growth Without Chaos? | Andy | [Read More](https://medium.com/p/6a9bab54cd7d) |
@@ -88,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Feb 2026 07:46:20 GMT | Session Fixation Leading to Full Account Takeover | <h1>Ahmed</h1> | [Read More](https://medium.com/p/689a784294c4) |
 | Fri, 20 Feb 2026 07:45:54 GMT | Building Adaptive Enterprises: How ServiceNow Agentic AI Enables Continuous Innovation | Alex s | [Read More](https://medium.com/p/578ac61ccfdd) |
 | Fri, 20 Feb 2026 07:45:06 GMT | Why ServiceNow Is No Longer an IT Tool but a Business Transformation Platform | Alex s | [Read More](https://medium.com/p/9d9d1906f340) |
-| Fri, 20 Feb 2026 07:45:05 GMT | AI Automation in Cyber Security | Dhiraj Ambigapathi | [Read More](https://medium.com/p/7efa302f0d66) |
-| Fri, 20 Feb 2026 07:44:21 GMT | The Kubernetes Patching Trap: Why 50% of Clusters are a Security Time Bomb | Damian Figiel | [Read More](https://medium.com/p/3a6a6fe02fd5) |
-| Fri, 20 Feb 2026 07:34:27 GMT | Write-Up Bandit Level 0–20
-A Beginner’s Journey Into Linux Enumeration | Shafa Khairanisa | [Read More](https://medium.com/p/59141892a22d) |
-| Fri, 20 Feb 2026 07:31:01 GMT | The Approval Flow Looked Safe — Until It Didn’t | Quaxel | [Read More](https://medium.com/p/bbf0cc5e9cc5) |
-| Fri, 20 Feb 2026 07:31:01 GMT | Can AI Write Secure Code? What Every Learner Should Understand About Cyber Risks | Netmax Technologies | [Read More](https://medium.com/p/9daf5a7cc314) |
-| Fri, 20 Feb 2026 07:26:32 GMT | Fundamental Linux Melalui OverTheWire Bandit (Level 0–20) | Sandyy Tirtaa | [Read More](https://medium.com/p/2adf012b1a31) |
-| Fri, 20 Feb 2026 07:22:55 GMT | Introduction to Digital Forensics - Lab-01 - WriteUP | Muhamad Fikri Firmansyah | [Read More](https://medium.com/p/08ac69deda00) |
-| Fri, 20 Feb 2026 07:05:03 GMT | Best AI Tools Used by Ethical Hackers | Manisha Chaudhary | [Read More](https://medium.com/p/782fac40dfa3) |
-| Fri, 20 Feb 2026 07:02:08 GMT | Cybersecurity for Startups: How to Protect Your Business from Digital Threats | Blogs | [Read More](https://medium.com/p/a7ff6135434b) |
-| Fri, 20 Feb 2026 07:01:04 GMT | Data Deletion and Forensics: The “Delete = Gone Forever” Trap | the CyberStoic | [Read More](https://medium.com/p/c2e7e44d5902) |
-| Fri, 20 Feb 2026 07:01:01 GMT | If Security Isn’t in Your Delivery System, IEC 81001–5–1 Won’t Save You | Transvolve Consultancy Limited (Dr Mehul Pancholi) | [Read More](https://medium.com/p/e1dc0b864d47) |
-| Fri, 20 Feb 2026 06:56:31 GMT | Technology’s Role in Enterprise Risk Reduction | Gautamkumar | [Read More](https://medium.com/p/8cfe90b27252) |
-| Fri, 20 Feb 2026 06:56:13 GMT | Technology’s Role in Enterprise Risk Reduction | Gautam kumar | [Read More](https://medium.com/p/40e1e4cc723e) |
-| Fri, 20 Feb 2026 06:55:38 GMT | It works? Do not touch it. | Anton Minin Baranovskii | [Read More](https://medium.com/p/cb9921a8c8dd) |
-| Fri, 20 Feb 2026 06:52:27 GMT | How to Secure a Dedicated Server: Practical Tips | Jessica F | [Read More](https://medium.com/p/1c752071901f) |
-| Fri, 20 Feb 2026 06:52:12 GMT | Why Traditional Network Security Fails Against Modern Attack Paths | Gautamkumar | [Read More](https://medium.com/p/51fbd9161707) |
-| Fri, 20 Feb 2026 06:51:54 GMT | Why Traditional Network Security Fails Against Modern Attack Paths | Gautam kumar | [Read More](https://medium.com/p/49fa55a56a10) |
-| Fri, 20 Feb 2026 06:50:54 GMT | The Secret Life of AWS: Network Isolation (VPC & Security Groups) | Aaron Rose | [Read More](https://medium.com/p/0241168bd091) |
-| Fri, 20 Feb 2026 06:45:02 GMT | เคยเจอไหม? หน้าเว็บ Cloudflare ปลอมที่หลอกให้คุณคัดลอกคำสั่งแปลก ๆ | Sparkle | [Read More](https://medium.com/p/c1018c1c6c34) |
-| Fri, 20 Feb 2026 06:35:29 GMT | Turning Recon Into High-Impact Vulnerabilities | ghostyjoe | [Read More](https://medium.com/p/3f88bbb8cf56) |
-| Fri, 20 Feb 2026 06:34:44 GMT | Why Does Your Mac Need Reliable Antivirus Software Today? | Siyanoav | [Read More](https://medium.com/p/beb27952e5e5) |
-| Fri, 20 Feb 2026 06:28:37 GMT | API Testing: | Abdulnafayk | [Read More](https://medium.com/p/a508551c214b) |
-| Fri, 20 Feb 2026 06:22:34 GMT | The Corix Partners Friday Reading List — February 20, 2026 | JC Gaillard | [Read More](https://medium.com/p/80a84766861f) |
-| Fri, 20 Feb 2026 06:10:31 GMT | Apartment Security Guard Services in Bangalore — Protecting Residential Communities with Fortigo… | Fortigo Secure | [Read More](https://medium.com/p/7c02f53fc216) |
