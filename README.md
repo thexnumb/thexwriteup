@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Feb 2026 23:23:47 GMT | Keys to IT cost management | Yuri Bravo | [Read More](https://medium.com/p/e3c7e4f679ac) |
+| Fri, 20 Feb 2026 23:19:36 GMT | Common Cybersecurity Interview Questions & Answers | AJ | [Read More](https://medium.com/p/4bda105d1db4) |
+| Fri, 20 Feb 2026 23:18:53 GMT | Creating a Comprehensive Cybersecurity Strategy Document | AJ | [Read More](https://medium.com/p/57d5522c3a93) |
+| Fri, 20 Feb 2026 23:13:38 GMT | Hackers Don’t Break In Anymore. They Log In. | Shreeya_Naik | [Read More](https://medium.com/p/11c477036820) |
+| Fri, 20 Feb 2026 23:13:12 GMT | Why Everyone Must Improve Their Knowledge of Data and Cyber Security in the Digital Age | Bervice | [Read More](https://medium.com/p/17aad2a073fd) |
+| Fri, 20 Feb 2026 23:06:05 GMT | Bypassing Free Plan Subscription Limit via Race Condition | Yahia Ibrahim khamis | [Read More](https://medium.com/p/2de79af677e1) |
+| Fri, 20 Feb 2026 23:03:42 GMT | The Economics of Cybercrime | Joe | [Read More](https://medium.com/p/986211e3d1b0) |
+| Fri, 20 Feb 2026 22:58:34 GMT | Otu Bitunix Care Fund Si Bụrụ Akụkụ Dị Mkpa N’Ịchekwa Ndị Na-Azụ Crypto | Mr Alex Yung® | [Read More](https://medium.com/p/aaaf8888e686) |
+| Fri, 20 Feb 2026 22:54:17 GMT | Cybersecurity for Absolute Beginners: Where to start in 2026 Edition | Mandlag | [Read More](https://medium.com/p/04257688995d) |
 | Fri, 20 Feb 2026 22:53:34 GMT | A Talkative Server Leak a Fintech’s Entire Backend Through Error Messages | Isaac Adebayo | [Read More](https://medium.com/p/290de44c2d03) |
 | Fri, 20 Feb 2026 22:51:38 GMT | Wi-Fi and Bluetooth Pentesting in 2026: Tools, Techniques, and Real-World Risks | Michael Preston | [Read More](https://medium.com/p/1e96b9f9badf) |
+| Fri, 20 Feb 2026 22:49:36 GMT | INE-Host & Network Penetration Testing: Exploitation CTF 1 by Singkhon | Singkhon K | [Read More](https://medium.com/p/8f2071e7dcfd) |
 | Fri, 20 Feb 2026 22:41:02 GMT | CVE-2025–27520 Walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/83dac998f248) |
 | Fri, 20 Feb 2026 22:19:22 GMT | OAuth: How a Simple Misconfiguration Can Lead to Full Account Take | MUWAFAK HELAL | [Read More](https://medium.com/p/9d95f57f92ce) |
 | Fri, 20 Feb 2026 22:06:42 GMT | INQUISITION -CANCELATION TORQUEMADA AND HITTLER ALIVE ON SOCIAL MEDIA. | Delpino Neto | [Read More](https://medium.com/p/ff5402a48329) |
@@ -50,6 +60,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Feb 2026 20:08:37 GMT | Weekly Cyber Threat Bulletin: 19 February 2026 | Marcelle Lee | [Read More](https://medium.com/p/0d35ba6682ab) |
 | Fri, 20 Feb 2026 20:05:28 GMT | Weekly Cyber Threat Bulletin: 5 February 2026 | Marcelle Lee | [Read More](https://medium.com/p/efbe17bfae9c) |
 | Fri, 20 Feb 2026 20:02:12 GMT | Computer Security With “SentryPC” | Declanfenton | [Read More](https://medium.com/p/3bd17cdff6c0) |
+| Fri, 20 Feb 2026 19:59:15 GMT | Don’t Trust Us. Trust the Architecture: OPSEC for the Solana Trenches | SOL-byte | [Read More](https://medium.com/p/900fbc483181) |
 | Fri, 20 Feb 2026 19:49:18 GMT | The War You Don’t See: Insider Espionage and the Quiet Threat on U.S. Soil | Robert Morton | [Read More](https://medium.com/p/002059515457) |
 | Fri, 20 Feb 2026 19:48:45 GMT | How Bitcoin-Grade Security Enables Autonomous Agent Operations | SuperDapp | [Read More](https://medium.com/p/3d324e108d61) |
 | Fri, 20 Feb 2026 19:39:42 GMT | Cryptography Concepts Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/e5a3db54966c) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Feb 2026 16:41:03 GMT | Seperation of Duties | Nurmammadov Sabuhi | [Read More](https://medium.com/p/329412c04afc) |
 | Fri, 20 Feb 2026 16:40:24 GMT | Cybersecurity Foundations Part 3: Trust, but Verify — The Power of Separation of Duties (SoD) | Elmir | [Read More](https://medium.com/p/976e7885460f) |
 | Fri, 20 Feb 2026 16:38:13 GMT | Password Managers Promise Security. Swiss Researchers Just Challenged That Assumption. | SoBatista | [Read More](https://medium.com/p/9e0c984701a4) |
-| Fri, 20 Feb 2026 16:32:22 GMT | Overthewire : Bandit Level 0 — Level 1 - by mrahmatt74 | mrahmatt74 | [Read More](https://medium.com/p/33c7d4d0bf65) |
-| Fri, 20 Feb 2026 16:21:00 GMT | Giraffe, Giraffe. | Amore Venus ִ ࣪ | [Read More](https://medium.com/p/dcc2b06c0500) |
-| Fri, 20 Feb 2026 16:16:50 GMT | OverTheWire: Bandit Wargame Write-Up (Level 0–21) | Afrizacho | [Read More](https://medium.com/p/66720629d30e) |
-| Fri, 20 Feb 2026 16:10:35 GMT | Transforming IT: Smart Ways to Cut Costs and Enhance Performance | Ed-it Editions | [Read More](https://medium.com/p/16d7711f267d) |
-| Fri, 20 Feb 2026 16:05:34 GMT | Data Privacy Laws / Regulations Around The World | Robert Broeckelmann | [Read More](https://medium.com/p/7e1e9a1369ef) |
-| Fri, 20 Feb 2026 16:04:01 GMT | 5 Security Mistakes Developers Still Make in 2026 | Mwenda Kelvin | [Read More](https://medium.com/p/7b81fc7e20bb) |
-| Fri, 20 Feb 2026 16:03:14 GMT | WHAT SILENCE PROTECTS | A Piece Of My Mind | [Read More](https://medium.com/p/749c283b6ed1) |
-| Fri, 20 Feb 2026 16:01:02 GMT | Write-up máquina Profetas DockerLabs | Joel Morillas Pagan (Ghxstsec) | [Read More](https://medium.com/p/8ad0a852297c) |
-| Fri, 20 Feb 2026 16:00:31 GMT | How to Become a SOC Analyst in the AI Era (Roadmap, Tools & Skills That Actually Matter) | Cyber Wolf | [Read More](https://medium.com/p/77ed7393e140) |
-| Fri, 20 Feb 2026 15:55:55 GMT | Utopia Ecosystem: A Decentralized Framework for Private Communication and Financial Autonomy | James | [Read More](https://medium.com/p/4f13fd70e3f9) |
-| Fri, 20 Feb 2026 15:52:08 GMT | Simulasi Pencurian Cookie Melalui XSS(Cross Site Scripting) dan Implementasi Pertahanan Berlapis… | yongwi | [Read More](https://medium.com/p/d5fe30d0aace) |
