@@ -12,9 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Feb 2026 05:23:53 GMT | AI Will Not Replace Leaders—But Poor Leadership Will Break AI | Dr.Abdulla Al Nuaimi | [Read More](https://medium.com/p/d2f1beeaa839) |
+| Fri, 20 Feb 2026 05:19:29 GMT | CYBER SECURITY | Dhaya | [Read More](https://medium.com/p/723383d5b89d) |
+| Fri, 20 Feb 2026 05:18:09 GMT | Symmetric vs. Asymmetric Encryption Explained | ShreehariMenon | [Read More](https://medium.com/p/ebdbbc55e63c) |
+| Fri, 20 Feb 2026 05:15:14 GMT | Top LLM Security Risks and Strategies to Avoid Them | VisionX Technologies | [Read More](https://medium.com/p/803b65a471a6) |
+| Fri, 20 Feb 2026 05:13:57 GMT | Kubernetes RBAC Simplified: A Practical Guide for Beginners & DevOps Engineers | Farhan Muntasir | [Read More](https://medium.com/p/92cead281c36) |
+| Fri, 20 Feb 2026 05:10:35 GMT | The Hidden Engines of Intelligence: What It Really Takes to Power AI | The record show | [Read More](https://medium.com/p/e0d53a9db373) |
+| Fri, 20 Feb 2026 05:03:42 GMT | Top 11 Application Security Testing Methods to Protect Modern Software in 2026 | Securis360 Inc. | [Read More](https://medium.com/p/eecb387cc8d3) |
+| Fri, 20 Feb 2026 05:01:03 GMT | Authentication and Session Security Explained: How to Make Sessions Hard to Steal and Useless if… | etwinworkshop | [Read More](https://medium.com/p/28e1cc5501c6) |
+| Fri, 20 Feb 2026 04:53:19 GMT | AI-Powered NDR: How 2026 Networks Defend Themselves | NetWitness | [Read More](https://medium.com/p/dfddeadf9578) |
+| Fri, 20 Feb 2026 04:45:27 GMT | Cybersecurity Certifications vs Real Skills: What Matters More? | 0xSmit | [Read More](https://medium.com/p/0d70593dee99) |
+| Fri, 20 Feb 2026 04:45:24 GMT | How I found Critical Bug From Regular Pagination | Albertstive | [Read More](https://medium.com/p/711c83b7eff7) |
+| Fri, 20 Feb 2026 04:41:04 GMT | I Found a Container Escape - | Terminals & Coffee | [Read More](https://medium.com/p/d5c6a167b76b) |
+| Fri, 20 Feb 2026 04:32:47 GMT | Magician — Full Exploitation Walkthrough | Roshan Rajbanshi | [Read More](https://medium.com/p/53ed2b8e3063) |
 | Fri, 20 Feb 2026 04:23:41 GMT | How I Bypassed Email Verification Using an Exposed API Endpoint | Fuzzyy Duck | [Read More](https://medium.com/p/f85693c5c08a) |
 | Fri, 20 Feb 2026 04:20:16 GMT | Metasploitable 3 (Windows) Write-up — Part XI: Port 8484 — Jetty Server Web Application… | Kalash Kundaliya | [Read More](https://medium.com/p/abcba0f82414) |
 | Fri, 20 Feb 2026 04:18:49 GMT | They Hacked the CSS: Inside Chrome’s First Zero-Day of 2026 (CVE-2026–2441) | Sohan Kanna D | [Read More](https://medium.com/p/d6087cedae2d) |
+| Fri, 20 Feb 2026 04:18:27 GMT | Backtrack — From Foothold to Root: A Step-by-Step Exploitation Walkthrough | Roshan Rajbanshi | [Read More](https://medium.com/p/ed1675be46cd) |
 | Fri, 20 Feb 2026 04:10:38 GMT | The Age of Quantum Computing: Are Your Assets Safe? | Quantarium | [Read More](https://medium.com/p/17e677581cbc) |
 | Fri, 20 Feb 2026 04:08:15 GMT | Everything You Need to Know About the DPDPA Act | Aditya Sawant | [Read More](https://medium.com/p/758eaf91ffb7) |
 | Fri, 20 Feb 2026 04:01:03 GMT | Nuclear Icebreakers and Carrier Strike Groups: The Arctic Becomes the Next Great Power Frontline | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/358578cf752c) |
@@ -99,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Feb 2026 20:09:23 GMT | Secure by design | us3rgnv | [Read More](https://medium.com/p/d63ab4148432) |
 | Thu, 19 Feb 2026 20:05:58 GMT | Separation of Duties | us3rgnv | [Read More](https://medium.com/p/67222b1044fa) |
 | Thu, 19 Feb 2026 19:53:07 GMT | DNS From Scratch: Making sense of Internet’s Address Book | Gajanan Tayde | [Read More](https://medium.com/p/9d78fe590a82) |
-| Thu, 19 Feb 2026 19:50:16 GMT | Day 6- The Choice to Change the Momentum is love | Kishore V | [Read More](https://medium.com/p/606672de7585) |
-| Thu, 19 Feb 2026 19:46:37 GMT | The Architecture of Sovereign Digital Asset Management: A Comparative Analysis of Centralized… | The Swiss Expert | [Read More](https://medium.com/p/e1b802f6c46b) |
-| Thu, 19 Feb 2026 19:43:24 GMT | DLL HIJACKING (THM) Tryhackme Walkthrough 12 Task With Answer | Lawvye | [Read More](https://medium.com/p/ff556bba5844) |
-| Thu, 19 Feb 2026 19:28:24 GMT | How To Solve Game : OverTheWire From Level 0 — 34 | Jo | [Read More](https://medium.com/p/cdfbe12981c7) |
-| Thu, 19 Feb 2026 19:27:18 GMT | The Sleepless Engineer: How AI-Powered CLIs are Reshaping DevOps (and Why We’re Not Ready… Yet) | Alex Farhadi | [Read More](https://medium.com/p/eafc7af1bae6) |
-| Thu, 19 Feb 2026 19:22:39 GMT | From data poisoning to SLSA: Why AI models need Supply Chain Security | Christian Frank Johannsen | [Read More](https://medium.com/p/6cff3f9cb44e) |
-| Thu, 19 Feb 2026 19:08:40 GMT | Once upon a time — pt2 | TheOrganizedGirl | [Read More](https://medium.com/p/e02a8292d7b4) |
-| Thu, 19 Feb 2026 19:04:38 GMT | What If the Same Mathematics That Describes Molecular Stability Also Describes Market Risk? | Harel Talasazan | [Read More](https://medium.com/p/cea56ce01daf) |
-| Thu, 19 Feb 2026 19:01:01 GMT | Who Provides Managed IT Services in Plano with Strong Data Backup, Disaster Recovery, and… | Pegasus Technology Solutions | [Read More](https://medium.com/p/18695e00868d) |
-| Thu, 19 Feb 2026 18:57:12 GMT | The Principle of Least Privilege: Less is More | Aynur Dunyamaliyeva | [Read More](https://medium.com/p/bd9239f88479) |
-| Thu, 19 Feb 2026 18:52:33 GMT | Defense in Depth: Why One Wall Is Never Enough | Aynur Dunyamaliyeva | [Read More](https://medium.com/p/ff485e1fd968) |
-| Thu, 19 Feb 2026 18:49:44 GMT | The 3CX Supply Chain Attack: How a Compromised Build Pipeline Weaponized a Trusted Update | Vaibhav Kubade | [Read More](https://medium.com/p/aabc2f2f1b08) |
-| Thu, 19 Feb 2026 18:46:54 GMT | How a Simple Update Profile Picture Endpoint Led to an IDOR Vulnerability But | Dude | [Read More](https://medium.com/p/99e8fe1ddc13) |
-| Thu, 19 Feb 2026 18:44:28 GMT | Creating a Simple Digital Marketing Strategy in 2026. | Techlo Solution | [Read More](https://medium.com/p/034c6f27eafd) |
