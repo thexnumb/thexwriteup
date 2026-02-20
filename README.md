@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Feb 2026 07:52:23 GMT | SQL InjectionVulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/ec8580af9143) |
+| Fri, 20 Feb 2026 07:51:44 GMT | Red Team Failures: 12 Lessons Learned (Tool Edition) — Mastering Real-World Pentesting | Very Lazy Tech | [Read More](https://medium.com/p/0e6b97af610b) |
+| Fri, 20 Feb 2026 07:46:20 GMT | Session Fixation Leading to Full Account Takeover | <h1>Ahmed</h1> | [Read More](https://medium.com/p/689a784294c4) |
+| Fri, 20 Feb 2026 07:44:21 GMT | The Kubernetes Patching Trap: Why 50% of Clusters are a Security Time Bomb | Damian Figiel | [Read More](https://medium.com/p/3a6a6fe02fd5) |
+| Fri, 20 Feb 2026 07:34:27 GMT | Write-Up Bandit Level 0–20
+A Beginner’s Journey Into Linux Enumeration | Shafa Khairanisa | [Read More](https://medium.com/p/59141892a22d) |
+| Fri, 20 Feb 2026 07:31:01 GMT | The Approval Flow Looked Safe — Until It Didn’t | Quaxel | [Read More](https://medium.com/p/bbf0cc5e9cc5) |
+| Fri, 20 Feb 2026 07:31:01 GMT | Can AI Write Secure Code? What Every Learner Should Understand About Cyber Risks | Netmax Technologies | [Read More](https://medium.com/p/9daf5a7cc314) |
+| Fri, 20 Feb 2026 07:26:32 GMT | Fundamental Linux Melalui OverTheWire Bandit (Level 0–20) | Sandyy Tirtaa | [Read More](https://medium.com/p/2adf012b1a31) |
+| Fri, 20 Feb 2026 07:22:55 GMT | Introduction to Digital Forensics - Lab-01 - WriteUP | Muhamad Fikri Firmansyah | [Read More](https://medium.com/p/08ac69deda00) |
+| Fri, 20 Feb 2026 07:05:03 GMT | Best AI Tools Used by Ethical Hackers | Manisha Chaudhary | [Read More](https://medium.com/p/782fac40dfa3) |
+| Fri, 20 Feb 2026 07:02:08 GMT | Cybersecurity for Startups: How to Protect Your Business from Digital Threats | Blogs | [Read More](https://medium.com/p/a7ff6135434b) |
+| Fri, 20 Feb 2026 07:01:04 GMT | Data Deletion and Forensics: The “Delete = Gone Forever” Trap | the CyberStoic | [Read More](https://medium.com/p/c2e7e44d5902) |
+| Fri, 20 Feb 2026 07:01:01 GMT | If Security Isn’t in Your Delivery System, IEC 81001–5–1 Won’t Save You | Transvolve Consultancy Limited (Dr Mehul Pancholi) | [Read More](https://medium.com/p/e1dc0b864d47) |
 | Fri, 20 Feb 2026 06:56:31 GMT | Technology’s Role in Enterprise Risk Reduction | Gautamkumar | [Read More](https://medium.com/p/8cfe90b27252) |
 | Fri, 20 Feb 2026 06:56:13 GMT | Technology’s Role in Enterprise Risk Reduction | Gautam kumar | [Read More](https://medium.com/p/40e1e4cc723e) |
 | Fri, 20 Feb 2026 06:55:38 GMT | It works? Do not touch it. | Anton Minin Baranovskii | [Read More](https://medium.com/p/cb9921a8c8dd) |
@@ -42,6 +56,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Feb 2026 04:45:24 GMT | How I found Critical Bug From Regular Pagination | Albertstive | [Read More](https://medium.com/p/711c83b7eff7) |
 | Fri, 20 Feb 2026 04:43:09 GMT | Ceron : The Zero Trust Security Validation,Verification and Governance for AI Agents | Anantdhavale | [Read More](https://medium.com/p/8b654f7afde1) |
 | Fri, 20 Feb 2026 04:41:04 GMT | I Found a Container Escape - | Terminals & Coffee | [Read More](https://medium.com/p/d5c6a167b76b) |
+| Fri, 20 Feb 2026 04:41:00 GMT | Laporan Praktikum Basis Data : Pengelolaan Tabel dengan SQL | Cahyoadi | [Read More](https://medium.com/p/8712df636c5c) |
 | Fri, 20 Feb 2026 04:32:47 GMT | Magician — Full Exploitation Walkthrough | Roshan Rajbanshi | [Read More](https://medium.com/p/53ed2b8e3063) |
 | Fri, 20 Feb 2026 04:23:41 GMT | How I Bypassed Email Verification Using an Exposed API Endpoint | Fuzzyy Duck | [Read More](https://medium.com/p/f85693c5c08a) |
 | Fri, 20 Feb 2026 04:20:16 GMT | Metasploitable 3 (Windows) Write-up — Part XI: Port 8484 — Jetty Server Web Application… | Kalash Kundaliya | [Read More](https://medium.com/p/abcba0f82414) |
@@ -99,17 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Feb 2026 22:39:59 GMT | OKTA SSO VISHING ( SESLİ OLTALAMA) SALDIRISI | serhat | [Read More](https://medium.com/p/a94c19421e20) |
 | Thu, 19 Feb 2026 22:37:48 GMT | Prompt Injection: The New SQL Injection and How to Defend Your AI | Meyoron Aghogho | [Read More](https://medium.com/p/fa4b21078e2b) |
 | Thu, 19 Feb 2026 22:32:03 GMT | Your Cloud Is Probably Misconfigured Right Now. How to Fix this. | TechEon | [Read More](https://medium.com/p/6acff5c2dbf4) |
-| Thu, 19 Feb 2026 22:31:40 GMT | CRTO Exam Dump — HTTPS CyberServices.store | Cyber Services | [Read More](https://medium.com/p/04e34a1b480c) |
-| Thu, 19 Feb 2026 22:30:32 GMT | CRTE Exam Dump — HTTPS CyberServices.store | Cyber Services | [Read More](https://medium.com/p/b34c9dd4084b) |
-| Thu, 19 Feb 2026 22:01:00 GMT | Unfiltered Restart — Day 8: Networking Marathon, Part 3 | Maximillian Rueda | [Read More](https://medium.com/p/3c38a3a255c9) |
-| Thu, 19 Feb 2026 21:56:20 GMT | Android Pentest Runbook: A Practical Guide with ADB, Frida, and Objection | Jhxnvi.e | [Read More](https://medium.com/p/ebbb7a32367a) |
-| Thu, 19 Feb 2026 21:54:48 GMT | Demonstrating Windows Defender Evasion via PPL Manipulation | S12 - 0x12Dark Development | [Read More](https://medium.com/p/8767f1ee7ad9) |
-| Thu, 19 Feb 2026 21:53:12 GMT | The Air-Gapped Chronicles: The Causal Moat | Piyoosh Rai | [Read More](https://medium.com/p/d069d24353e3) |
-| Thu, 19 Feb 2026 21:51:20 GMT | We’re Entering a Quantum Computing World. Start With This Question | Danisa Jokanovich | [Read More](https://medium.com/p/41ce375473a1) |
-| Thu, 19 Feb 2026 21:49:43 GMT | Digital-Forensic-Lab01 | Dimasarfan | [Read More](https://medium.com/p/d8e1336d81bf) |
-| Thu, 19 Feb 2026 21:49:28 GMT | ️ Is Your AI Leaking Trade Secrets? | Djakson Cleber | [Read More](https://medium.com/p/0bebad2c86fd) |
-| Thu, 19 Feb 2026 21:43:01 GMT | Become a Hacker-TryHackMe Walkthrough | Ryca | [Read More](https://medium.com/p/caa5d84feefa) |
-| Thu, 19 Feb 2026 21:37:22 GMT | Safe Cleanup: How to use Policy Intelligence to Monitor and Retire GCP Service Account Keys | Munish | [Read More](https://medium.com/p/f2a6798952e8) |
-| Thu, 19 Feb 2026 21:24:46 GMT | The Night I Learned Why “It’s Probably Nothing” Is Dangerous | Uniworth security | [Read More](https://medium.com/p/55f1b289a1a8) |
-| Thu, 19 Feb 2026 21:23:33 GMT | CWE-200: Information Disclosure to Unauthorized Actors | Bazil Brohi | [Read More](https://medium.com/p/6da54ab0805f) |
-| Thu, 19 Feb 2026 21:20:32 GMT | Why I’m Writing About Agent Security | Dimiter Milushev | [Read More](https://medium.com/p/6257bcdb9748) |
