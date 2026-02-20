@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Feb 2026 10:30:57 GMT | Secure by Design: Why One Wall is Never Enough | Rinad | [Read More](https://medium.com/p/9c31d082b3f0) |
+| Fri, 20 Feb 2026 10:27:36 GMT | How IT & Digital Marketing Together Drive Explosive Business Growth in 2026 | Pawan Reddy | [Read More](https://medium.com/p/f689ecfbbe20) |
+| Fri, 20 Feb 2026 10:24:42 GMT | The Rise of Micro-Websites: Why Small Projects Are Driving Big Hosting Demand? | Janet Watson | [Read More](https://medium.com/p/f2e36ff995a2) |
+| Fri, 20 Feb 2026 10:23:34 GMT | UCS uses new AI Model for URL Classification | Eman Khalid | [Read More](https://medium.com/p/56d22a4352dd) |
+| Fri, 20 Feb 2026 10:21:02 GMT | The Hidden Trust Problem in URL Shorteners | Ivan Bulut - Founder, URLcut.ai | [Read More](https://medium.com/p/bbee82d2d6c9) |
+| Fri, 20 Feb 2026 10:19:08 GMT | How to Install Jenkins on an EC2 Instance (Linux) | Rapolu venkatesh | [Read More](https://medium.com/p/abf73d8f5795) |
+| Fri, 20 Feb 2026 10:15:28 GMT | For anyone who’s getting started with WordPress | Lasantha Kumara | [Read More](https://medium.com/p/668035dbda4b) |
+| Fri, 20 Feb 2026 10:11:26 GMT | Web Fundamentals and Application Security for Penetration Testers and Web Developers | Sarakhadirr | [Read More](https://medium.com/p/e6992a3977ba) |
+| Fri, 20 Feb 2026 10:09:40 GMT | Write-Up Lab 1 - Introduction to Digital Foresics | eska | [Read More](https://medium.com/p/67afe4f0a3a4) |
+| Fri, 20 Feb 2026 10:05:52 GMT | Your AI Agent Has the Keys to Everything. Who Has the Keys to Your AI Agent? | 0NE - C L A V I | [Read More](https://medium.com/p/15902bf35bf2) |
+| Fri, 20 Feb 2026 09:55:15 GMT | API Authentication Explained: The Digital Bouncer Guarding Your Systems | Birma Markus | [Read More](https://medium.com/p/1ec0aa50324c) |
+| Fri, 20 Feb 2026 09:54:42 GMT | Least privilege | Haci Isayev | [Read More](https://medium.com/p/fa52d21ecec7) |
+| Fri, 20 Feb 2026 09:53:53 GMT | The Blue Bubble Betrayal | O. J. Okpabi | [Read More](https://medium.com/p/97f431f8c0a5) |
+| Fri, 20 Feb 2026 09:50:37 GMT | Task 1 : Introduction to Digital Forensic | Abrar Fathoni | [Read More](https://medium.com/p/16cd829bbf11) |
+| Fri, 20 Feb 2026 09:45:45 GMT | Calgary Security Company — Professional Protection You Can Trust | Hirasarfraz | [Read More](https://medium.com/p/e246a84fde3b) |
+| Fri, 20 Feb 2026 09:43:39 GMT | 5 Simple Rules to Keep Your Children Safe Online | Seyeneotu | [Read More](https://medium.com/p/c449b02fcfe1) |
+| Fri, 20 Feb 2026 09:41:15 GMT | Brain Chips Are Actually Happening and We Need to Talk About It | Rekhi | [Read More](https://medium.com/p/c1e4f1144e7f) |
+| Fri, 20 Feb 2026 09:35:54 GMT | A Home AI Agent as a New Attack Surface: Security of OpenClaw, Manus AI, and Moltbot | Sergey Gromov | [Read More](https://medium.com/p/6c54dd4c14be) |
 | Fri, 20 Feb 2026 09:34:43 GMT | Inclusiveness walkthrough - Proving Grounds | Shaik Nawaz Ahmed | [Read More](https://medium.com/p/0a4227e7d5e1) |
 | Fri, 20 Feb 2026 09:33:01 GMT | URLScan Dorking to find Exposed Billing & Order Checkout Details | Abhirup Konwar | [Read More](https://medium.com/p/746fed3daa28) |
 | Fri, 20 Feb 2026 09:28:01 GMT | Day 2 — Stored XSS: The Bug That Attacks Every User | Issan | [Read More](https://medium.com/p/ec7fbbb0b324) |
@@ -95,21 +113,3 @@ A Beginner’s Journey Into Linux Enumeration | Shafa Khairanisa | [Read More](h
 | Fri, 20 Feb 2026 04:45:27 GMT | Cybersecurity Certifications vs Real Skills: What Matters More? | 0xSmit | [Read More](https://medium.com/p/0d70593dee99) |
 | Fri, 20 Feb 2026 04:45:24 GMT | How I found Critical Bug From Regular Pagination | Albertstive | [Read More](https://medium.com/p/711c83b7eff7) |
 | Fri, 20 Feb 2026 04:43:09 GMT | Ceron : The Zero Trust Security Validation,Verification and Governance for AI Agents | Anantdhavale | [Read More](https://medium.com/p/8b654f7afde1) |
-| Fri, 20 Feb 2026 04:41:04 GMT | I Found a Container Escape - | Terminals & Coffee | [Read More](https://medium.com/p/d5c6a167b76b) |
-| Fri, 20 Feb 2026 04:41:00 GMT | Laporan Praktikum Basis Data : Pengelolaan Tabel dengan SQL | Cahyoadi | [Read More](https://medium.com/p/8712df636c5c) |
-| Fri, 20 Feb 2026 04:32:47 GMT | Magician — Full Exploitation Walkthrough | Roshan Rajbanshi | [Read More](https://medium.com/p/53ed2b8e3063) |
-| Fri, 20 Feb 2026 04:23:41 GMT | How I Bypassed Email Verification Using an Exposed API Endpoint | Fuzzyy Duck | [Read More](https://medium.com/p/f85693c5c08a) |
-| Fri, 20 Feb 2026 04:20:16 GMT | Metasploitable 3 (Windows) Write-up — Part XI: Port 8484 — Jetty Server Web Application… | Kalash Kundaliya | [Read More](https://medium.com/p/abcba0f82414) |
-| Fri, 20 Feb 2026 04:18:49 GMT | They Hacked the CSS: Inside Chrome’s First Zero-Day of 2026 (CVE-2026–2441) | Sohan Kanna D | [Read More](https://medium.com/p/d6087cedae2d) |
-| Fri, 20 Feb 2026 04:18:27 GMT | Backtrack — From Foothold to Root: A Step-by-Step Exploitation Walkthrough | Roshan Rajbanshi | [Read More](https://medium.com/p/ed1675be46cd) |
-| Fri, 20 Feb 2026 04:10:38 GMT | The Age of Quantum Computing: Are Your Assets Safe? | Quantarium | [Read More](https://medium.com/p/17e677581cbc) |
-| Fri, 20 Feb 2026 04:08:15 GMT | Everything You Need to Know About the DPDPA Act | Aditya Sawant | [Read More](https://medium.com/p/758eaf91ffb7) |
-| Fri, 20 Feb 2026 04:01:03 GMT | Nuclear Icebreakers and Carrier Strike Groups: The Arctic Becomes the Next Great Power Frontline | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/358578cf752c) |
-| Fri, 20 Feb 2026 03:50:40 GMT | Beginner Home-Lab Setup (Part-01) | Naihalmerchant | [Read More](https://medium.com/p/1b4abb66ecd7) |
-| Fri, 20 Feb 2026 03:47:08 GMT | Microsoft 365 Copilot Confidential Data Exposure | SOCFortress | [Read More](https://medium.com/p/1f981c4489dc) |
-| Fri, 20 Feb 2026 03:41:25 GMT | Thrunting with K80 | DE&TH Diaries | [Read More](https://medium.com/p/c2e097b150b9) |
-| Fri, 20 Feb 2026 03:40:00 GMT | Phishing Prevention Fundamentals: 12 Powerful Strategies to Stop Costly Cyber Attacks | Maxatlasofficial | [Read More](https://medium.com/p/91287a7c2a72) |
-| Fri, 20 Feb 2026 03:38:16 GMT | Memahami Konsep Linux Security Lewat OverTheWire Bandit | Nazwass | [Read More](https://medium.com/p/4d20f5b246b2) |
-| Fri, 20 Feb 2026 03:34:00 GMT | I Built a Free Platform to Learn AI Security by Actually Hacking AI | Abdulrhman Adel | [Read More](https://medium.com/p/48157ef80d99) |
-| Fri, 20 Feb 2026 03:30:53 GMT | API Security : A Deep Dive into HTTP Fundamentals, Headers & Status Codes | Reduan Islam Badhon | [Read More](https://medium.com/p/f04faa8b97fd) |
-| Fri, 20 Feb 2026 03:18:22 GMT | API Security : A Deep Dive into HTTP Fundamentals, Headers & Status Codes | Reduan Islam Badhon | [Read More](https://medium.com/p/fe98770a3d35) |
