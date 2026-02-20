@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Feb 2026 11:31:00 GMT | From Curiosity to Bounty: TheSouledStore Security Discovery Story | Kastab Garai | [Read More](https://medium.com/p/44bbcf3c08f2) |
+| Fri, 20 Feb 2026 11:20:07 GMT | Authentication vs Authorization: Hâlâ Karışan Kavramlar | Sakarya Üniversitesi Siber Güvenlik Topluluğu | [Read More](https://medium.com/p/4bc609f26bfa) |
+| Fri, 20 Feb 2026 11:14:24 GMT | From One Site to Many: The Smarter Way Teams Manage Growth Without Chaos? | Andy | [Read More](https://medium.com/p/6a9bab54cd7d) |
+| Fri, 20 Feb 2026 11:10:40 GMT | Working with FedRAMP | Adeoluwa Obadofin | [Read More](https://medium.com/p/1d2cd474c7df) |
+| Fri, 20 Feb 2026 11:08:57 GMT | The Rise of Criminal Bounties on Emerging Hiring Platforms (And How Developers Are Being Targeted) | Alejandro Steiner | [Read More](https://medium.com/p/6f09e18ccc4d) |
+| Fri, 20 Feb 2026 11:04:05 GMT | The Global Rise of Luxury Watches — And Why Secure Storage Matters More Than Ever | Vintage Vaults | [Read More](https://medium.com/p/9cd83742a29f) |
+| Fri, 20 Feb 2026 11:02:31 GMT | What If an AI LOCAL DISCOVERY PLATFORM Knew Your City Better Than You Do? | PadosXO | [Read More](https://medium.com/p/4d3ec8131b81) |
+| Fri, 20 Feb 2026 11:01:01 GMT | OverTheWire: Bandit Walkthrough | Dwi Raysah Anandifa Kautsar | [Read More](https://medium.com/p/6c1ca8ffb2c3) |
+| Fri, 20 Feb 2026 11:00:10 GMT | GOVERNANCE, RISK, AND COMPLIANCE (GRC): THE BRIDGE BETWEEN SECURITY AND BUSINESS | Raphaam Digital (Cyber Security Updates) | [Read More](https://medium.com/p/c790591a1690) |
+| Fri, 20 Feb 2026 10:59:20 GMT | Pages of past | Kakoli Aster♡ | [Read More](https://medium.com/p/f1be19dd6fb9) |
+| Fri, 20 Feb 2026 10:53:43 GMT | Why Cybersecurity Careers Stall in Years 5–10 (And How to Break Through) | Taimur Ijlal | [Read More](https://medium.com/p/81838747d8b7) |
+| Fri, 20 Feb 2026 10:52:20 GMT | OverTheWire Bandit Level 0–21 | krisna nanda | [Read More](https://medium.com/p/a401a6f5ea81) |
+| Fri, 20 Feb 2026 10:52:03 GMT | 2026 Cyber Resilience: Is Your Recovery Strategy Ready? Join the Live Webinar | NAKIVO | [Read More](https://medium.com/p/bbfdb254d17d) |
+| Fri, 20 Feb 2026 10:51:19 GMT | Audit Committee Blind Spots in Complex Institutions | Tim Overstreet | [Read More](https://medium.com/p/0d39c1115575) |
+| Fri, 20 Feb 2026 10:46:06 GMT | What Is Social Engineering in Cybersecurity? A Plain-English Guide | Kuboid Secure Layer | [Read More](https://medium.com/p/fb20aa1866f9) |
+| Fri, 20 Feb 2026 10:32:01 GMT | DockerLabs Writeup — Eclipse (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/d237c095b5b2) |
 | Fri, 20 Feb 2026 10:30:57 GMT | Secure by Design: Why One Wall is Never Enough | Rinad | [Read More](https://medium.com/p/9c31d082b3f0) |
 | Fri, 20 Feb 2026 10:27:36 GMT | How IT & Digital Marketing Together Drive Explosive Business Growth in 2026 | Pawan Reddy | [Read More](https://medium.com/p/f689ecfbbe20) |
 | Fri, 20 Feb 2026 10:24:42 GMT | The Rise of Micro-Websites: Why Small Projects Are Driving Big Hosting Demand? | Janet Watson | [Read More](https://medium.com/p/f2e36ff995a2) |
@@ -97,19 +113,3 @@ A Beginner’s Journey Into Linux Enumeration | Shafa Khairanisa | [Read More](h
 | Fri, 20 Feb 2026 06:28:37 GMT | API Testing: | Abdulnafayk | [Read More](https://medium.com/p/a508551c214b) |
 | Fri, 20 Feb 2026 06:22:34 GMT | The Corix Partners Friday Reading List — February 20, 2026 | JC Gaillard | [Read More](https://medium.com/p/80a84766861f) |
 | Fri, 20 Feb 2026 06:10:31 GMT | Apartment Security Guard Services in Bangalore — Protecting Residential Communities with Fortigo… | Fortigo Secure | [Read More](https://medium.com/p/7c02f53fc216) |
-| Fri, 20 Feb 2026 05:59:02 GMT | Best Security Services in Bangalore — Why Fortigo Secure Solutions Pvt Ltd is a Trusted Choice for… | Fortigo Secure | [Read More](https://medium.com/p/3c6ffbebfd37) |
-| Fri, 20 Feb 2026 05:49:27 GMT | Deploying EpicBook on Ubuntu EC2 + Private MySQL RDS in a SecureCloud Network | Ed Eguaikhide | [Read More](https://medium.com/p/3b39f9d91ee5) |
-| Fri, 20 Feb 2026 05:44:27 GMT | How Security Solutions in Singapore Help Organizations Stay Ahead of Evolving Threats | Jane Tang | [Read More](https://medium.com/p/010cc2c6828e) |
-| Fri, 20 Feb 2026 05:29:35 GMT | Rootkits: The Malware That Edits Reality | Rakshitha D H | [Read More](https://medium.com/p/34005e729281) |
-| Fri, 20 Feb 2026 05:23:53 GMT | AI Will Not Replace Leaders—But Poor Leadership Will Break AI | Dr.Abdulla Al Nuaimi | [Read More](https://medium.com/p/d2f1beeaa839) |
-| Fri, 20 Feb 2026 05:19:29 GMT | CYBER SECURITY | Dhaya | [Read More](https://medium.com/p/723383d5b89d) |
-| Fri, 20 Feb 2026 05:18:09 GMT | Symmetric vs. Asymmetric Encryption Explained | ShreehariMenon | [Read More](https://medium.com/p/ebdbbc55e63c) |
-| Fri, 20 Feb 2026 05:15:14 GMT | Top LLM Security Risks and Strategies to Avoid Them | VisionX Technologies | [Read More](https://medium.com/p/803b65a471a6) |
-| Fri, 20 Feb 2026 05:13:57 GMT | Kubernetes RBAC Simplified: A Practical Guide for Beginners & DevOps Engineers | Farhan Muntasir | [Read More](https://medium.com/p/92cead281c36) |
-| Fri, 20 Feb 2026 05:10:35 GMT | The Hidden Engines of Intelligence: What It Really Takes to Power AI | The record show | [Read More](https://medium.com/p/e0d53a9db373) |
-| Fri, 20 Feb 2026 05:03:42 GMT | Top 11 Application Security Testing Methods to Protect Modern Software in 2026 | Securis360 Inc. | [Read More](https://medium.com/p/eecb387cc8d3) |
-| Fri, 20 Feb 2026 05:01:03 GMT | Authentication and Session Security Explained: How to Make Sessions Hard to Steal and Useless if… | etwinworkshop | [Read More](https://medium.com/p/28e1cc5501c6) |
-| Fri, 20 Feb 2026 04:53:19 GMT | AI-Powered NDR: How 2026 Networks Defend Themselves | NetWitness | [Read More](https://medium.com/p/dfddeadf9578) |
-| Fri, 20 Feb 2026 04:45:27 GMT | Cybersecurity Certifications vs Real Skills: What Matters More? | 0xSmit | [Read More](https://medium.com/p/0d70593dee99) |
-| Fri, 20 Feb 2026 04:45:24 GMT | How I found Critical Bug From Regular Pagination | Albertstive | [Read More](https://medium.com/p/711c83b7eff7) |
-| Fri, 20 Feb 2026 04:43:09 GMT | Ceron : The Zero Trust Security Validation,Verification and Governance for AI Agents | Anantdhavale | [Read More](https://medium.com/p/8b654f7afde1) |
