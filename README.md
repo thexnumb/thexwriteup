@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Feb 2026 22:19:22 GMT | OAuth: How a Simple Misconfiguration Can Lead to Full Account Take | MUWAFAK HELAL | [Read More](https://medium.com/p/9d95f57f92ce) |
+| Fri, 20 Feb 2026 22:06:42 GMT | INQUISITION -CANCELATION TORQUEMADA AND HITTLER ALIVE ON SOCIAL MEDIA. | Delpino Neto | [Read More](https://medium.com/p/ff5402a48329) |
+| Fri, 20 Feb 2026 22:01:04 GMT | Termux Kurulum Kodları 2026 | Altayaslanberk | [Read More](https://medium.com/p/07fe206e94fc) |
+| Fri, 20 Feb 2026 22:01:01 GMT | Unfiltered Restart — Day 9: Networking Marathon, Part 4 | Maximillian Rueda | [Read More](https://medium.com/p/299ec120f7f5) |
 | Fri, 20 Feb 2026 21:47:46 GMT | When The Streetlights Come On | Dr.  Mack Jackson Jr | [Read More](https://medium.com/p/1eb7afa83b14) |
 | Fri, 20 Feb 2026 21:42:39 GMT | Helo this is Abdallah Haider aka imranked1 | Abdallahhaider | [Read More](https://medium.com/p/b8a446866acf) |
 | Fri, 20 Feb 2026 21:36:43 GMT | Why “Popular Apps” Are Not Necessarily Secure — A Zero Trust Perspective | Mohammed Lorans Alsalama | [Read More](https://medium.com/p/2bddf491a98f) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Feb 2026 15:52:00 GMT | The People Who Guard the Systems You Never Think About | seuntokoni | [Read More](https://medium.com/p/2ced7ead3f81) |
 | Fri, 20 Feb 2026 15:46:55 GMT | WIRESHARK: The Day Kerberos Told the Truth | Br4in4rd | [Read More](https://medium.com/p/3489b0e8f13b) |
 | Fri, 20 Feb 2026 15:41:28 GMT | Scan Before You Exploit: Alur Teknis 20 Level Pertama Bandit | Harits Adha | [Read More](https://medium.com/p/ceb209cd51e5) |
-| Fri, 20 Feb 2026 15:40:57 GMT | Legacy - HTB - Manual exploit without Metasploit - Write up | Marinovharisan | [Read More](https://medium.com/p/bb2005369a51) |
-| Fri, 20 Feb 2026 15:40:11 GMT | What It Took to Run GitLab on EKS Securely (IRSA, ARM64, and S3) | Federico Abihaggle | [Read More](https://medium.com/p/28b0a9aa63d3) |
-| Fri, 20 Feb 2026 15:38:13 GMT | The New Front Line: When Hacktivists Cross into Operational Technology | Len Noe | [Read More](https://medium.com/p/b0723aebcb47) |
-| Fri, 20 Feb 2026 15:35:42 GMT | OhSHINT! Tracking a Phone Transcript to it’s Location (not the NSA kind) | Sushil Dixith | [Read More](https://medium.com/p/c5784b9b5b13) |
