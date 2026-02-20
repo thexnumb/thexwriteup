@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Feb 2026 04:23:41 GMT | How I Bypassed Email Verification Using an Exposed API Endpoint | Fuzzyy Duck | [Read More](https://medium.com/p/f85693c5c08a) |
+| Fri, 20 Feb 2026 04:20:16 GMT | Metasploitable 3 (Windows) Write-up — Part XI: Port 8484 — Jetty Server Web Application… | Kalash Kundaliya | [Read More](https://medium.com/p/abcba0f82414) |
+| Fri, 20 Feb 2026 04:18:49 GMT | They Hacked the CSS: Inside Chrome’s First Zero-Day of 2026 (CVE-2026–2441) | Sohan Kanna D | [Read More](https://medium.com/p/d6087cedae2d) |
+| Fri, 20 Feb 2026 04:10:38 GMT | The Age of Quantum Computing: Are Your Assets Safe? | Quantarium | [Read More](https://medium.com/p/17e677581cbc) |
+| Fri, 20 Feb 2026 04:08:15 GMT | Everything You Need to Know About the DPDPA Act | Aditya Sawant | [Read More](https://medium.com/p/758eaf91ffb7) |
+| Fri, 20 Feb 2026 04:01:03 GMT | Nuclear Icebreakers and Carrier Strike Groups: The Arctic Becomes the Next Great Power Frontline | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/358578cf752c) |
+| Fri, 20 Feb 2026 03:50:40 GMT | Beginner Home-Lab Setup (Part-01) | Naihalmerchant | [Read More](https://medium.com/p/1b4abb66ecd7) |
+| Fri, 20 Feb 2026 03:47:08 GMT | Microsoft 365 Copilot Confidential Data Exposure | SOCFortress | [Read More](https://medium.com/p/1f981c4489dc) |
+| Fri, 20 Feb 2026 03:41:25 GMT | Thrunting with K80 | DE&TH Diaries | [Read More](https://medium.com/p/c2e097b150b9) |
+| Fri, 20 Feb 2026 03:40:00 GMT | Phishing Prevention Fundamentals: 12 Powerful Strategies to Stop Costly Cyber Attacks | Maxatlasofficial | [Read More](https://medium.com/p/91287a7c2a72) |
+| Fri, 20 Feb 2026 03:38:16 GMT | Memahami Konsep Linux Security Lewat OverTheWire Bandit | Nazwass | [Read More](https://medium.com/p/4d20f5b246b2) |
+| Fri, 20 Feb 2026 03:34:00 GMT | I Built a Free Platform to Learn AI Security by Actually Hacking AI | Abdulrhman Adel | [Read More](https://medium.com/p/48157ef80d99) |
+| Fri, 20 Feb 2026 03:30:53 GMT | API Security : A Deep Dive into HTTP Fundamentals, Headers & Status Codes | Reduan Islam Badhon | [Read More](https://medium.com/p/f04faa8b97fd) |
+| Fri, 20 Feb 2026 03:18:22 GMT | API Security : A Deep Dive into HTTP Fundamentals, Headers & Status Codes | Reduan Islam Badhon | [Read More](https://medium.com/p/fe98770a3d35) |
+| Fri, 20 Feb 2026 03:18:17 GMT | I Spoke to 100+ Students About Cybersecurity Careers — Here’s What They’re Doing Wrong | Rajiv Sharma | [Read More](https://medium.com/p/4e074c6b78f0) |
+| Fri, 20 Feb 2026 03:14:58 GMT | CYBERDUDEBIVASH® AUTHORIZED PUBLICATION Subject: The Death of Manual DevOps: Scaling the Individual… | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/0da668797198) |
+| Fri, 20 Feb 2026 03:03:31 GMT | TryHackMe — Security Principles (Walkthrough) | Hudson Lois Marcus | [Read More](https://medium.com/p/cc77f023f000) |
+| Fri, 20 Feb 2026 03:01:01 GMT | Skill Atrophy in Cybersecurity: Part 6- The Accelerators — AI! | Nothing Cyber [NC] | [Read More](https://medium.com/p/952192448acb) |
+| Fri, 20 Feb 2026 02:49:48 GMT | Basic Network Scan Nessus | Samuel Parlindungan Ulysses | [Read More](https://medium.com/p/63500f73d147) |
+| Fri, 20 Feb 2026 02:35:38 GMT | INE-Host & Network Penetration Testing: The Metasploit Framework CTF 2 by Singkhon | Singkhon K | [Read More](https://medium.com/p/9dcb91b6904e) |
+| Fri, 20 Feb 2026 02:31:00 GMT | 11 agent governance rules when “autonomy” meets compliance | Codastra | [Read More](https://medium.com/p/15b8668d4d0c) |
+| Fri, 20 Feb 2026 02:29:27 GMT | 300+ Malicious Chrome Extensions, Millions of Installs… and We’re Still Installing Random Stuff at… | stanzin norzang | [Read More](https://medium.com/p/6127a5bbacda) |
+| Fri, 20 Feb 2026 02:27:25 GMT | OpenClaw 2026.2.19 Release: Fortress Upgrade with Apple Watch Support and 40+ Security Enhancements | AI Engineering | [Read More](https://medium.com/p/a3ecd2740bf8) |
+| Fri, 20 Feb 2026 02:20:19 GMT | Thick Client Application Pentesting: A Complete Practical Guide | Lernerspath | [Read More](https://medium.com/p/d0dbf27da33f) |
 | Fri, 20 Feb 2026 02:04:33 GMT | The 9 Layers of the Enterprise AI Stack: Understanding How Intelligence Is Created, How It… | Juan Pablo Castro | [Read More](https://medium.com/p/ad56c95248bc) |
 | Fri, 20 Feb 2026 01:57:32 GMT | Independence Is Not Strength. It’s Often Protection. | May Lee | [Read More](https://medium.com/p/d3b51f22f5c9) |
 | Fri, 20 Feb 2026 01:56:10 GMT | Is a Cyber Security Strategy Necessary for Small Businesses? | cyber ethos | [Read More](https://medium.com/p/6c1b6200dbec) |
@@ -89,27 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 19 Feb 2026 18:49:44 GMT | The 3CX Supply Chain Attack: How a Compromised Build Pipeline Weaponized a Trusted Update | Vaibhav Kubade | [Read More](https://medium.com/p/aabc2f2f1b08) |
 | Thu, 19 Feb 2026 18:46:54 GMT | How a Simple Update Profile Picture Endpoint Led to an IDOR Vulnerability But | Dude | [Read More](https://medium.com/p/99e8fe1ddc13) |
 | Thu, 19 Feb 2026 18:44:28 GMT | Creating a Simple Digital Marketing Strategy in 2026. | Techlo Solution | [Read More](https://medium.com/p/034c6f27eafd) |
-| Thu, 19 Feb 2026 18:31:19 GMT | Preventing Users from Installing Unauthorized Applications (Intune Policy) | Ryan Adams | [Read More](https://medium.com/p/5ba28c35eac0) |
-| Thu, 19 Feb 2026 18:31:01 GMT | Nmap: The Tool Every Cybersecurity Student Should Learn First | Anubhav_bora | [Read More](https://medium.com/p/e0063951a9ae) |
-| Thu, 19 Feb 2026 18:29:59 GMT | Secure Deployment & Hardening of Google Cloud Platform (GCP) Projects — Part VII | SOCFortress | [Read More](https://medium.com/p/3289d12d6e89) |
-| Thu, 19 Feb 2026 18:16:00 GMT | The Psychology of Web3 Incidents: Panic, Silence, and How Teams Lose Trust | Exploitless | [Read More](https://medium.com/p/e7fd4d3b5bed) |
-| Thu, 19 Feb 2026 18:11:40 GMT | The Original SMS Throttle | O. J. Okpabi | [Read More](https://medium.com/p/06fcded4b4fd) |
-| Thu, 19 Feb 2026 18:10:27 GMT | Network Performance Matters: Test, Optimize, Succeed | Yogita | [Read More](https://medium.com/p/b850bb880589) |
-| Thu, 19 Feb 2026 18:07:22 GMT | It Looked Like a Normal Email — 72 Hours Later, X Business Was Gone. | Noel | [Read More](https://medium.com/p/d602d1a3b0af) |
-| Thu, 19 Feb 2026 18:06:44 GMT | I Caused an Outage on an Agentic App | Rahul Singh Chauhan | [Read More](https://medium.com/p/97eef9227d4e) |
-| Thu, 19 Feb 2026 18:05:28 GMT | How Top Bug Bounty Hunters Actually Use ChatGPT in 2026 | MainEkHacker | [Read More](https://medium.com/p/e6dd2fa2e544) |
-| Thu, 19 Feb 2026 18:03:03 GMT | Unauthenticated Deployment API on Vercel Infrastructure — A Responsible Disclosure Case Study | Anubahb paul | [Read More](https://medium.com/p/93dc0f53cb8e) |
-| Thu, 19 Feb 2026 17:49:28 GMT | Process Injection’ın Evrimi: Reflective DLL’den Mockingjay’e EDR Atlatma Sanatı | Melih Yusuf Ercan | [Read More](https://medium.com/p/f1052378f4e2) |
-| Thu, 19 Feb 2026 17:48:35 GMT | How Adversarial Attacks Fool Neural Networks: Inside the Most Subtle AI Exploit | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/fe059ee878fe) |
-| Thu, 19 Feb 2026 17:46:25 GMT | PromptSpy: The Rise of AI Powered Android Malware and What It Means for Cybersecurity | Jas | [Read More](https://medium.com/p/116dda6f1963) |
-| Thu, 19 Feb 2026 17:43:59 GMT | Lab: DOM XSS in innerHTML sink using source location.search | mayhack | [Read More](https://medium.com/p/ea065a071da5) |
-| Thu, 19 Feb 2026 17:31:34 GMT | Understanding CORS (The Easy Way) | Youssef | [Read More](https://medium.com/p/028e5748ea05) |
-| Thu, 19 Feb 2026 17:31:12 GMT | The Database Was Sold Online… but the Vulnerability Was Still Open | Iski | [Read More](https://medium.com/p/81b98a978b0b) |
-| Thu, 19 Feb 2026 17:30:55 GMT | Prompt Injection: The New SQL Injection of the AI Era | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/bec0ded3264a) |
-| Thu, 19 Feb 2026 17:20:42 GMT | Cyber Crime Cases in Gurgaon: Legal Remedies, Defence Strategy and Role of a Lawyer | Advocate Ravi Shankar Dwivedi | [Read More](https://medium.com/p/103a2618e009) |
-| Thu, 19 Feb 2026 17:20:03 GMT | Lab 5 & Lab 6: User ID Controlled by Request Parameter | Sanjivani Dobhal | [Read More](https://medium.com/p/868f5e21d5f1) |
-| Thu, 19 Feb 2026 17:12:57 GMT | Blockchain Honeypots: Can Blockchain Catch Hackers? | Cynox Security LLP. | [Read More](https://medium.com/p/7780867a60de) |
-| Thu, 19 Feb 2026 17:10:45 GMT | PYRAX Launches Authensure, Moving Blockchain Beyond Transactions Into Real-World Utility | PYRAX Network | [Read More](https://medium.com/p/e6b0205b333b) |
-| Thu, 19 Feb 2026 17:10:05 GMT | Why Spring Security Feels Hard and Why It Actually Isn’t | Souvanik Saha | [Read More](https://medium.com/p/728c5a94f888) |
-| Thu, 19 Feb 2026 17:09:56 GMT | Building an AI-Secure Architecture with Limited Resources | Michael Adedeji | [Read More](https://medium.com/p/96fef4afce7b) |
-| Thu, 19 Feb 2026 17:08:14 GMT | The Feeling With No Name… | Starry Eyes✨ | [Read More](https://medium.com/p/a084851c10ef) |
