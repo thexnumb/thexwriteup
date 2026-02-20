@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Feb 2026 19:39:42 GMT | Cryptography Concepts Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/e5a3db54966c) |
+| Fri, 20 Feb 2026 19:39:26 GMT | The CIA Triad Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/6c3ce76b720a) |
+| Fri, 20 Feb 2026 19:31:40 GMT | DNS Zone Transfer Nedir? AXFR Açığı Nasıl Çalışır? | Songül Kızılay Özügürler | [Read More](https://medium.com/p/a9fac396e74f) |
+| Fri, 20 Feb 2026 19:31:29 GMT | How I Found 3 Logic Bugs & 2 Access Control Issues in One Public BB Program. | Mahmoud Khalid | [Read More](https://medium.com/p/9ce2cf66fdd8) |
+| Fri, 20 Feb 2026 19:26:10 GMT | Building Production-Ready and Scalable Agent Systems: Design Patterns for AI Agent Security | Santosh Shinde | [Read More](https://medium.com/p/90c64813bf04) |
+| Fri, 20 Feb 2026 19:25:28 GMT | Write-up Bandit (OverTheWire): Dari 0–20 | Mabrurfebrian | [Read More](https://medium.com/p/507ca816c4a2) |
+| Fri, 20 Feb 2026 19:15:45 GMT | Secure by Design: Building the Foundation, Not the Wallpaper | Aynur Dunyamaliyeva | [Read More](https://medium.com/p/d62c684834f5) |
+| Fri, 20 Feb 2026 19:11:42 GMT | Separation of Duties: Why No One Should Have the “Master Key” | Aynur Dunyamaliyeva | [Read More](https://medium.com/p/8c2a3d091b70) |
+| Fri, 20 Feb 2026 19:11:11 GMT | Incident Response Life Cycle | Ahmad Khaled | [Read More](https://medium.com/p/ae4fbfd7fa47) |
+| Fri, 20 Feb 2026 19:09:35 GMT | What Is Malware? | Nway Nway Zay Ya | [Read More](https://medium.com/p/50172db6ea75) |
 | Fri, 20 Feb 2026 18:55:31 GMT | Cybersecurity Ai | Hakeem | [Read More](https://medium.com/p/4a53103e7b19) |
 | Fri, 20 Feb 2026 18:55:00 GMT | 12+ MUST Know Google Dorking Commands in 2026 | truffles | [Read More](https://medium.com/p/9c8538c313c9) |
 | Fri, 20 Feb 2026 18:53:01 GMT | How I Exposed 1,900+ Partner Records on a Global API via Broken Access Control | hamza | [Read More](https://medium.com/p/d8d12486b9ec) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Feb 2026 13:51:00 GMT | Building a Career in Cybersecurity: My Journey Toward Ethical Hacking | Ernest Chidi | [Read More](https://medium.com/p/c03820c40b60) |
 | Fri, 20 Feb 2026 13:43:24 GMT | OverTheWire: Bandit Wargame — Complete Write-Up (Level 0–20) | Adrian Syah Abidin | [Read More](https://medium.com/p/919d4bd113b6) |
 | Fri, 20 Feb 2026 13:40:15 GMT | Why Network Testing and Monitoring Matter More Than Ever in Today’s Digital World | Shubhra Srivastav | [Read More](https://medium.com/p/ec8d949150b7) |
-| Fri, 20 Feb 2026 13:36:41 GMT | Tutorial Overtherwire : Bandit level 0–20 | Boxieee | [Read More](https://medium.com/p/26cfb687bf7f) |
-| Fri, 20 Feb 2026 13:35:22 GMT | What Every SOC Analyst Must Know About Endpoint Protection and Firewall Configuration | Nitin Sharma | [Read More](https://medium.com/p/eb339c912a66) |
-| Fri, 20 Feb 2026 13:34:46 GMT | Saltwater Halos | Alizabeth Amelia Rose | [Read More](https://medium.com/p/6c3763d5aab7) |
-| Fri, 20 Feb 2026 13:30:34 GMT | Why you should always be learning something new | Irene Zamora | [Read More](https://medium.com/p/abaf44e53d7c) |
-| Fri, 20 Feb 2026 13:30:28 GMT | OverTheWire Bandit Walkthrough (Level 0–21) | Athallahputra | [Read More](https://medium.com/p/4b2ec0b4411d) |
-| Fri, 20 Feb 2026 13:29:10 GMT | Task 2 Pentest: Wargames Bandit | Manzil | [Read More](https://medium.com/p/b458061fa86f) |
-| Fri, 20 Feb 2026 13:27:10 GMT | OpenClaw Malware Campaign Compromises 1,184 Software Packages and Steals SSH Keys | Jas | [Read More](https://medium.com/p/fa5a97a72ef9) |
-| Fri, 20 Feb 2026 13:19:07 GMT | The Billion-Dollar Cybercrime Economy: How Businesses Can Fight Back | cloudseccurity | [Read More](https://medium.com/p/94e6118866e1) |
-| Fri, 20 Feb 2026 13:16:00 GMT | Zero Trust, Explained In Plain Text | Plaintext with Rich | [Read More](https://medium.com/p/eec50840bb1e) |
-| Fri, 20 Feb 2026 13:13:08 GMT | Write-Up OverTheWire: Bandit (Level 0–27) — Tugas Bootcamp ID Networkers | Aangfajar | [Read More](https://medium.com/p/ccf2f3c7d732) |
