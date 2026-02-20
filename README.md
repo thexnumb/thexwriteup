@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Feb 2026 21:47:46 GMT | When The Streetlights Come On | Dr.  Mack Jackson Jr | [Read More](https://medium.com/p/1eb7afa83b14) |
+| Fri, 20 Feb 2026 21:42:39 GMT | Helo this is Abdallah Haider aka imranked1 | Abdallahhaider | [Read More](https://medium.com/p/b8a446866acf) |
+| Fri, 20 Feb 2026 21:36:43 GMT | Why “Popular Apps” Are Not Necessarily Secure — A Zero Trust Perspective | Mohammed Lorans Alsalama | [Read More](https://medium.com/p/2bddf491a98f) |
+| Fri, 20 Feb 2026 21:22:30 GMT | How to Build a Fully Open-Source Autonomous AI Operator on Kali Linux | Ehsan | [Read More](https://medium.com/p/e9db0a5e567b) |
 | Fri, 20 Feb 2026 21:11:06 GMT | What Is DCA (Dollar-Cost Averaging) and Why It Works in Crypto | Abasido Tom | [Read More](https://medium.com/p/45932ba244c5) |
 | Fri, 20 Feb 2026 21:08:22 GMT | 1-HTML Injection Bug- Web Penetration Testing Series | Hackerssg | [Read More](https://medium.com/p/858383b22580) |
 | Fri, 20 Feb 2026 21:05:01 GMT | AI Is Learning Faster Than Your Security Stack | CoopSys | [Read More](https://medium.com/p/e4901a9982d4) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Feb 2026 15:40:11 GMT | What It Took to Run GitLab on EKS Securely (IRSA, ARM64, and S3) | Federico Abihaggle | [Read More](https://medium.com/p/28b0a9aa63d3) |
 | Fri, 20 Feb 2026 15:38:13 GMT | The New Front Line: When Hacktivists Cross into Operational Technology | Len Noe | [Read More](https://medium.com/p/b0723aebcb47) |
 | Fri, 20 Feb 2026 15:35:42 GMT | OhSHINT! Tracking a Phone Transcript to it’s Location (not the NSA kind) | Sushil Dixith | [Read More](https://medium.com/p/c5784b9b5b13) |
-| Fri, 20 Feb 2026 15:34:51 GMT | Write Up - Pengenalan Digital Forensic (Lab 01) | Asxbrianti | [Read More](https://medium.com/p/2d29f30f4a2d) |
-| Fri, 20 Feb 2026 15:33:28 GMT | Over The Wire : Bandit Level 0–34 Write-Up | Harmonax | [Read More](https://medium.com/p/4ae7e8b745cf) |
-| Fri, 20 Feb 2026 15:33:00 GMT | Lessons from 10 Years of Writing Code: What I’d Tell My Younger Self | Preeti Bahuguna | [Read More](https://medium.com/p/d0ace89c4119) |
-| Fri, 20 Feb 2026 15:32:09 GMT | #  CVE-2026–20140: High-Severity Privilege Escalation in Splunk Enterprise for Windows | Zeliha Zengin | [Read More](https://medium.com/p/15e08e519d38) |
