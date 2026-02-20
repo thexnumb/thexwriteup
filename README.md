@@ -12,10 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 20 Feb 2026 14:01:01 GMT | EntroGuard — Day 2 | Nisarg Patel | [Read More](https://medium.com/p/1f8cccc64256) |
+| Fri, 20 Feb 2026 13:53:26 GMT | Reading Private Chats : How I Turned an IDOR into a $$ Privacy Breach | Mostafa Waleed Hamed | [Read More](https://medium.com/p/3720d8ed6a0c) |
+| Fri, 20 Feb 2026 13:51:00 GMT | Building a Career in Cybersecurity: My Journey Toward Ethical Hacking | Ernest Chidi | [Read More](https://medium.com/p/c03820c40b60) |
+| Fri, 20 Feb 2026 13:43:24 GMT | OverTheWire: Bandit Wargame — Complete Write-Up (Level 0–20) | Adrian Syah Abidin | [Read More](https://medium.com/p/919d4bd113b6) |
+| Fri, 20 Feb 2026 13:40:15 GMT | Why Network Testing and Monitoring Matter More Than Ever in Today’s Digital World | Shubhra Srivastav | [Read More](https://medium.com/p/ec8d949150b7) |
+| Fri, 20 Feb 2026 13:36:41 GMT | Tutorial Overtherwire : Bandit level 0–20 | Boxieee | [Read More](https://medium.com/p/26cfb687bf7f) |
+| Fri, 20 Feb 2026 13:35:22 GMT | What Every SOC Analyst Must Know About Endpoint Protection and Firewall Configuration | Nitin Sharma | [Read More](https://medium.com/p/eb339c912a66) |
+| Fri, 20 Feb 2026 13:34:46 GMT | Saltwater Halos | Alizabeth Amelia Rose | [Read More](https://medium.com/p/6c3763d5aab7) |
+| Fri, 20 Feb 2026 13:30:34 GMT | Why you should always be learning something new | Irene Zamora | [Read More](https://medium.com/p/abaf44e53d7c) |
+| Fri, 20 Feb 2026 13:30:28 GMT | OverTheWire Bandit Walkthrough (Level 0–21) | Athallahputra | [Read More](https://medium.com/p/4b2ec0b4411d) |
+| Fri, 20 Feb 2026 13:29:10 GMT | Task 2 Pentest: Wargames Bandit | Manzil | [Read More](https://medium.com/p/b458061fa86f) |
+| Fri, 20 Feb 2026 13:27:10 GMT | OpenClaw Malware Campaign Compromises 1,184 Software Packages and Steals SSH Keys | Jas | [Read More](https://medium.com/p/fa5a97a72ef9) |
+| Fri, 20 Feb 2026 13:19:07 GMT | The Billion-Dollar Cybercrime Economy: How Businesses Can Fight Back | cloudseccurity | [Read More](https://medium.com/p/94e6118866e1) |
+| Fri, 20 Feb 2026 13:16:00 GMT | Zero Trust, Explained In Plain Text | Plaintext with Rich | [Read More](https://medium.com/p/eec50840bb1e) |
+| Fri, 20 Feb 2026 13:13:08 GMT | Write-Up OverTheWire: Bandit (Level 0–27) — Tugas Bootcamp ID Networkers | Aangfajar | [Read More](https://medium.com/p/ccf2f3c7d732) |
+| Fri, 20 Feb 2026 13:13:02 GMT | How I Discovered a Critical Vulnerability in a Power Rental Vending Machine | XSniper | [Read More](https://medium.com/p/cf564073567c) |
+| Fri, 20 Feb 2026 13:08:18 GMT | MongoDB in Production: Lessons Learned the Hard Way | Vashistaraman | [Read More](https://medium.com/p/e53fedd38f1f) |
+| Fri, 20 Feb 2026 13:07:30 GMT | Cybercriminals Innovate Faster Than Companies, Here’s How | 6pri1 | [Read More](https://medium.com/p/aacfcb6fdf1d) |
+| Fri, 20 Feb 2026 13:03:03 GMT | What I Learned about Connection in a Comedy Club | Mark Flumerfelt | [Read More](https://medium.com/p/f20b6d67cbc9) |
 | Fri, 20 Feb 2026 13:01:01 GMT | Stored XSS in Gen AI Chat via Phonetic Obfuscation: Tricking Language Models into Writing Malicious… | SJ_Offsec | [Read More](https://medium.com/p/7edcc9b92f46) |
 | Fri, 20 Feb 2026 13:01:00 GMT | Copying Smart Lock Keys Explained - Sure Lock & Key | Sure Lock & Key LLC | [Read More](https://medium.com/p/9898d8a36f55) |
 | Fri, 20 Feb 2026 12:58:58 GMT | Real-Time Sysmon Monitoring with PowerShell — No SIEM Required | Vivianiwegbu | [Read More](https://medium.com/p/298306dbefeb) |
 | Fri, 20 Feb 2026 12:58:15 GMT | NTLM Kimlik Doğrulama(Authentication) Nedir? | Mustafa AVDAN | [Read More](https://medium.com/p/3b5ac799ec1b) |
+| Fri, 20 Feb 2026 12:55:27 GMT | I just want you to know who I am | Mishthi J | [Read More](https://medium.com/p/c1be8b7967b7) |
 | Fri, 20 Feb 2026 12:51:01 GMT | HASSH Fingerprinting: How I Tracked Attack Tools Across 15 IPs Using SSH Metadata Alone | Hsen Reslan | [Read More](https://medium.com/p/ce4f0c3ea826) |
 | Fri, 20 Feb 2026 12:46:41 GMT | I Deployed an SSH Honeypot and Captured 201,551 Attacks in 21 Days — Here’s What I Found | Hsen Reslan | [Read More](https://medium.com/p/c85c90c4d29d) |
 | Fri, 20 Feb 2026 12:46:05 GMT | Over The Wire Write-up for the Bandit Wargame | Augie Aristitoazka | [Read More](https://medium.com/p/76c66083ee41) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Feb 2026 08:33:52 GMT | Compliance Is Not The Same Effective Compliance | Daniel | [Read More](https://medium.com/p/38d8edad8d57) |
 | Fri, 20 Feb 2026 08:32:53 GMT | HTB DFIR Sherlock: MangoBleed | WildPasta | [Read More](https://medium.com/p/899fab78b888) |
 | Fri, 20 Feb 2026 08:32:23 GMT | I think everyone has something they keep hidden. | Ziyangwind | [Read More](https://medium.com/p/4004264d3c34) |
-| Fri, 20 Feb 2026 08:31:07 GMT | ️ Beyond Passwords: Securing Windows RDP with Azure Hardening and Duo MFA | Praz Timsina | [Read More](https://medium.com/p/46f423a72efb) |
-| Fri, 20 Feb 2026 08:30:53 GMT | Vibesec Coding: A Deep Dive into Security for Vibe Coders | Rammohanreddy | [Read More](https://medium.com/p/2cdae9a33047) |
-| Fri, 20 Feb 2026 08:30:34 GMT | What Buying a Cheap CCTV Camera Really Costs You | etransit | [Read More](https://medium.com/p/64d54539c4bf) |
-| Fri, 20 Feb 2026 08:27:59 GMT | Introduction to Digital Forensics_Lab 01 Writeup | Mariskaroa | [Read More](https://medium.com/p/3678bd8c395a) |
-| Fri, 20 Feb 2026 08:26:53 GMT | Separation of Duties (SoD): The Security Principle That Prevents Chaos Before It Happens | Kamalatluxanov | [Read More](https://medium.com/p/5e9ce3d963fe) |
-| Fri, 20 Feb 2026 08:25:34 GMT | Bug Bounty and Ethical Hacking Career Paths | Crawsec | [Read More](https://medium.com/p/9a08f7a1334e) |
-| Fri, 20 Feb 2026 08:18:32 GMT | ️‍♂️ How Parameter Fuzzing Uncovered a High-Severity Customer Data Exposure ($1000 Reward) | Ankur_bari | [Read More](https://medium.com/p/fa7de61511a7) |
-| Fri, 20 Feb 2026 08:10:54 GMT | Session Fixation Leading to Full Account Takeover | <h1>Ahmed</h1> | [Read More](https://medium.com/p/5fe5c3cbde57) |
-| Fri, 20 Feb 2026 08:06:38 GMT | New Ways For Money Transfer - Bank Account Hack -Tips - Rent Hacker | BlackHat | [Read More](https://medium.com/p/2b506037dbfe) |
-| Fri, 20 Feb 2026 08:00:54 GMT | The Day “Impossible” Broke: The Story of SHA-1 and SHAttered | Sriram | [Read More](https://medium.com/p/584c7b3cc7b7) |
-| Fri, 20 Feb 2026 07:55:42 GMT | How to Implement react-native-biometrics in React Native CLI (Step-by-Step Guide) | Abdul Rehman | [Read More](https://medium.com/p/c79ae88f28e5) |
-| Fri, 20 Feb 2026 07:54:54 GMT | When a sleeping phone locks you out: smart-deadbolt risks | James Kuhman | [Read More](https://medium.com/p/5764f7b7069b) |
-| Fri, 20 Feb 2026 07:54:33 GMT | How Hackers Drained Billions from Web3 in the Last 6 Months | Cynox Security LLP. | [Read More](https://medium.com/p/82f127f73382) |
-| Fri, 20 Feb 2026 07:52:23 GMT | SQL InjectionVulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/ec8580af9143) |
-| Fri, 20 Feb 2026 07:51:44 GMT | Red Team Failures: 12 Lessons Learned (Tool Edition) — Mastering Real-World Pentesting | Very Lazy Tech | [Read More](https://medium.com/p/0e6b97af610b) |
-| Fri, 20 Feb 2026 07:51:02 GMT | Enterprise Content Moderation Solutions: Complete Guide (2026) | Manoj Biswal | [Read More](https://medium.com/p/a44c8efd6312) |
-| Fri, 20 Feb 2026 07:47:57 GMT | Bandit Wargame Level 0 — 21 | Luqman | [Read More](https://medium.com/p/66bac4ce1ffa) |
-| Fri, 20 Feb 2026 07:46:20 GMT | Session Fixation Leading to Full Account Takeover | <h1>Ahmed</h1> | [Read More](https://medium.com/p/689a784294c4) |
-| Fri, 20 Feb 2026 07:45:54 GMT | Building Adaptive Enterprises: How ServiceNow Agentic AI Enables Continuous Innovation | Alex s | [Read More](https://medium.com/p/578ac61ccfdd) |
-| Fri, 20 Feb 2026 07:45:06 GMT | Why ServiceNow Is No Longer an IT Tool but a Business Transformation Platform | Alex s | [Read More](https://medium.com/p/9d9d1906f340) |
