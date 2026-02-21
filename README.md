@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Feb 2026 14:18:17 GMT | When AI Creates Passwords: Convenience Turning Into a Security Risk | Jas | [Read More](https://medium.com/p/05c3adeac8e1) |
+| Sat, 21 Feb 2026 14:15:57 GMT | Enter the Hidden World of Compliance Quality Assurance (CQA) in Video Games | Van Emerson Francisco | [Read More](https://medium.com/p/5f936fb52f84) |
+| Sat, 21 Feb 2026 14:15:27 GMT | What is the CIA Triad? A Beginner’s Guide to Information Security | Mahdi | [Read More](https://medium.com/p/51217dadd508) |
+| Sat, 21 Feb 2026 14:10:19 GMT | William Binney: The NSA Cryptographer Who Built the Perfect Surveillance System Then Watched Them… | Abel | [Read More](https://medium.com/p/0f90dba3ac20) |
+| Sat, 21 Feb 2026 14:06:37 GMT | Being inhospitable: the socio-economic dilemma in the age of AI | Ashesh Devnath | [Read More](https://medium.com/p/07b4206e82ad) |
+| Sat, 21 Feb 2026 14:03:52 GMT | Cyber Champions CTF 2026- Reverse Engineering Challenges writeup | Ahmedm Mohamed | [Read More](https://medium.com/p/d20216148fea) |
+| Sat, 21 Feb 2026 14:01:01 GMT | Threat Hunting with CTI — LetsDefend [Part 1] | 0verRida | [Read More](https://medium.com/p/d97eedf85028) |
+| Sat, 21 Feb 2026 13:53:02 GMT | SOC Chronicles: Episode 3 (Malware Download and Incident Response Plan) | Abdul Moeez Siddiqui | [Read More](https://medium.com/p/564276cc3252) |
+| Sat, 21 Feb 2026 13:48:19 GMT | CEH — EC-Council | Basmala Yasser | [Read More](https://medium.com/p/445807b67c53) |
+| Sat, 21 Feb 2026 13:46:27 GMT | DevSecOps Fundamentals: Shifting Security Left Across the DevOps Lifecycle | Adityakadambari | [Read More](https://medium.com/p/506080fafaf7) |
+| Sat, 21 Feb 2026 13:46:17 GMT | İNSANLARI HACKLEMEK: SOSYAL MÜHENDİSLİK NEDEN KOD YAZMAKTAN DAHA TEHLİKELİ? | Enes Deniz | [Read More](https://medium.com/p/d327e75d0c72) |
+| Sat, 21 Feb 2026 13:45:15 GMT | Everything You Need to Know About the Dark Web ! | Cyber Sudarshan | [Read More](https://medium.com/p/b7fd888acbc0) |
 | Sat, 21 Feb 2026 13:34:39 GMT | HackTheBox Sherlock: Advent of The Relics 1 — A Call from the Museum | Dixtroiza | [Read More](https://medium.com/p/ab314cccb1bb) |
 | Sat, 21 Feb 2026 13:18:46 GMT | Building a Threat Intelligence Platform for Philippine companies | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/a842853082d4) |
 | Sat, 21 Feb 2026 13:16:11 GMT | Gen 2 vs Gen 3 Night Vision Devices: Is the PVS-14 Worth the Upgrade? | Night Vision 4 Less | [Read More](https://medium.com/p/b821a16856f2) |
@@ -102,15 +114,3 @@ As decentralized finance… | ray_5541 | [Read More](https://medium.com/p/3994c1
 | Sat, 21 Feb 2026 07:21:05 GMT | The Secret Life of AWS: Cross-Network Communication (VPC Peering) | Aaron Rose | [Read More](https://medium.com/p/1f01505e0de4) |
 | Sat, 21 Feb 2026 07:18:24 GMT | A Blueprint for a Robust Home Lab Network | Varun Shenoy | [Read More](https://medium.com/p/f7bbfc0116df) |
 | Sat, 21 Feb 2026 07:16:52 GMT | I Compared Three AI Security Certifications, here is what I found | Motasem Hamdan | [Read More](https://medium.com/p/379f72403ae2) |
-| Sat, 21 Feb 2026 07:12:22 GMT | JavaScript’s DNA | Anandhu Kannan | [Read More](https://medium.com/p/3fb35f2106a6) |
-| Sat, 21 Feb 2026 07:10:07 GMT | Discovering the Impact of Antivirus Software on iOS Security | Siyanoav | [Read More](https://medium.com/p/ebdf9e87327c) |
-| Sat, 21 Feb 2026 07:06:27 GMT | How to Become a Top Bug Bounty Hunter in 2026 | Krishna Kumar | [Read More](https://medium.com/p/e34d6bc15f56) |
-| Sat, 21 Feb 2026 07:05:20 GMT | Are Biometrics Truly Unhackable | O. J. Okpabi | [Read More](https://medium.com/p/1f947835a80f) |
-| Sat, 21 Feb 2026 07:03:25 GMT | Secure by Design | Nurmammadov Sabuhi | [Read More](https://medium.com/p/0ec430663a31) |
-| Sat, 21 Feb 2026 07:02:45 GMT | How a Security Guards Company in Singapore Adapts to Changing Security Risks | Jane Tang | [Read More](https://medium.com/p/6886d3bcdc85) |
-| Sat, 21 Feb 2026 07:00:03 GMT | Endpoint Intrusion Simulation and Detection (Splunk SIEM, Sysmon, Metasploit) | Nate Sharpley | [Read More](https://medium.com/p/49715ff40764) |
-| Sat, 21 Feb 2026 06:56:46 GMT | Why do we need Post-Quantum TLS? | Gokul B Alex | [Read More](https://medium.com/p/7f292f771243) |
-| Sat, 21 Feb 2026 06:56:06 GMT | How to Secure Your Domain with CAA DNS Records on AWS Route 53 | Narong K. | [Read More](https://medium.com/p/c0fece4e9bfa) |
-| Sat, 21 Feb 2026 06:54:09 GMT | Day 7 of PortSwigger Academy Lab Walkthrough: Authentication & WebSockets | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/0707c2ba8574) |
-| Sat, 21 Feb 2026 06:51:06 GMT | Cybersecurity and Emerging Risks in Accounting | Prabin Premkumar | [Read More](https://medium.com/p/2c40e2214839) |
-| Sat, 21 Feb 2026 06:46:00 GMT | What Happens When You Type google.com in Your Browser? | Akashbisht | [Read More](https://medium.com/p/23e1abbb5a65) |
