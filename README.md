@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Feb 2026 16:28:46 GMT | ️ How Hackers Attack Us (And How to Stay Safe) | Yeabsira Lamesaa | [Read More](https://medium.com/p/6400fb4e25e8) |
+| Sat, 21 Feb 2026 16:23:31 GMT | what is black hat? | Kevin Ronex | [Read More](https://medium.com/p/f821f6e084a8) |
+| Sat, 21 Feb 2026 16:21:25 GMT | CyberDefenders - Webstrike Lab | M.Daffa Hakiki | [Read More](https://medium.com/p/b67b28b0bd2d) |
+| Sat, 21 Feb 2026 16:14:13 GMT | One Tool to Rule Them All: File Metadata & Static Analysis for Malware Analysts and SOC Teams | Andrey Pautov | [Read More](https://medium.com/p/c6dba1f5b7de) |
+| Sat, 21 Feb 2026 16:07:49 GMT | Design Hack You Need Now: The Grainy Blur Effect (2026 Trend) | Rupesh Kumar (Graphic Designer) | [Read More](https://medium.com/p/01d95e9e109e) |
+| Sat, 21 Feb 2026 16:06:00 GMT | SURFER- TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/6040d897245f) |
+| Sat, 21 Feb 2026 15:59:28 GMT | Unifying NIST 800–53 for Cloud Automation: Introducing the NIST Cloud Security Baseline (NCSB) Tool | Karthikeyan Sadayamuthu | [Read More](https://medium.com/p/f082fe2af6ba) |
+| Sat, 21 Feb 2026 15:59:07 GMT | AI Risk Isn’t Future Risk, It’s Today’s Reality. Secure Your AI with Cygeniq. | Cygeniq_ai | [Read More](https://medium.com/p/ae413b09582c) |
+| Sat, 21 Feb 2026 15:56:17 GMT | My Personal Favorite Recon Method to Find URL Endpoints | MPGODMATCH | [Read More](https://medium.com/p/98ab843a5f48) |
+| Sat, 21 Feb 2026 15:51:26 GMT | Today's Internet Solutions: Cyber Security | Avikma | [Read More](https://medium.com/p/6be5ce7b9e5b) |
+| Sat, 21 Feb 2026 15:49:40 GMT | Stop writing policies. | Fook Hwa Tan | [Read More](https://medium.com/p/7e0391c5a9aa) |
+| Sat, 21 Feb 2026 15:46:55 GMT | BEST CRYPTO RECOVERY WEBSITES WITH NO UPFRONT FEES ? | robert john | [Read More](https://medium.com/p/c94c8950cda0) |
 | Sat, 21 Feb 2026 15:38:40 GMT | Sometimes, Crying Over the Smallest Thing Is the Only Way to Cry for Yourself | Nova Reyes | [Read More](https://medium.com/p/d7083da2d17e) |
 | Sat, 21 Feb 2026 15:29:47 GMT | Defense in Depth: The Foundation of Modern Cybersecurity | Huseyn | [Read More](https://medium.com/p/82addcc83878) |
 | Sat, 21 Feb 2026 15:29:44 GMT | Stop Email Downgrade Attacks: A Practical Guide to MTA-STS | Narong K. | [Read More](https://medium.com/p/7bdbced1ea6c) |
@@ -23,6 +35,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Feb 2026 14:57:39 GMT | AI and Facial Recognition in Public Security: Lessons from Real-World Deployments | Daniel Possebon Bargas | [Read More](https://medium.com/p/ba87b066392a) |
 | Sat, 21 Feb 2026 14:56:48 GMT | Why TryHackMe’s CyberSecurity 101 (SEC1) Builds More REAL Skill Than Multiple‑Choice Exams | Shimalka Yohan | [Read More](https://medium.com/p/2f053c35c011) |
 | Sat, 21 Feb 2026 14:47:36 GMT | AI Innovation or Market Disruption? | D09r | [Read More](https://medium.com/p/fffe41cb2eb1) |
+| Sat, 21 Feb 2026 14:39:15 GMT | Top PHP Security Libraries You Should Know in 2026 | Jaytech | [Read More](https://medium.com/p/d983b6a3e81c) |
 | Sat, 21 Feb 2026 14:34:32 GMT | From Open Ports to Remote Shell: What a Simple Nmap Scan Revealed About Real-World Risk | Rachana Appani | [Read More](https://medium.com/p/28800a71135d) |
 | Sat, 21 Feb 2026 14:33:57 GMT | HTB CDSA (2025): What It Really Takes to Pass the Certified Defensive Security Analyst Exam | Farouq Nader Farouq Hassan | [Read More](https://medium.com/p/5215213392cc) |
 | Sat, 21 Feb 2026 14:31:08 GMT | Is Your WhatsApp Safe in 2026? Here’s What You Should Do | Tanisha Bali | [Read More](https://medium.com/p/17774e913b4a) |
@@ -101,16 +114,3 @@ As decentralized finance… | ray_5541 | [Read More](https://medium.com/p/3994c1
 | Sat, 21 Feb 2026 09:43:02 GMT | Why Two-Factor Authentication Isn’t as Secure as You Think | Mike | [Read More](https://medium.com/p/55b7a2f69e3e) |
 | Sat, 21 Feb 2026 09:34:25 GMT | The Invisible Web: A Deep Dive into How Access Points Build Mesh Networks | Jazz Cyber Shield | [Read More](https://medium.com/p/4b6151a82159) |
 | Sat, 21 Feb 2026 09:32:27 GMT | Top-Notch Armed Security in San Antonio | Matrix Security Guard Services LLC | [Read More](https://medium.com/p/8181cab86237) |
-| Sat, 21 Feb 2026 09:32:20 GMT | Why AI-Powered Security is the Standard for 2026 | Top Smart Gear | [Read More](https://medium.com/p/98039af8d06f) |
-| Sat, 21 Feb 2026 09:19:06 GMT | Fraud and the Rise of GenAI and Agentic AI | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/343a6f511372) |
-| Sat, 21 Feb 2026 09:18:58 GMT | DNS (Domain Name System) | Songül Kızılay Özügürler | [Read More](https://medium.com/p/37515fbbeed0) |
-| Sat, 21 Feb 2026 09:15:46 GMT | being a hacker how i took a job of developer | Kishwordulal | [Read More](https://medium.com/p/67fe20d1139c) |
-| Sat, 21 Feb 2026 09:12:51 GMT | Pentingnya Database (Basis Data) | Faros | [Read More](https://medium.com/p/337e2aa69e33) |
-| Sat, 21 Feb 2026 09:10:25 GMT | How CAD → INR Transfers Work with Siliveru Exchange (Simple Step-By-Step) | Siliveru Exchange Inc | [Read More](https://medium.com/p/c2dd6a670c46) |
-| Sat, 21 Feb 2026 09:09:28 GMT | Cyber Security Course in Kochi | Fasalinternship | [Read More](https://medium.com/p/a94f74a86f36) |
-| Sat, 21 Feb 2026 09:03:32 GMT | Avoid breaking changes in Azure Key Vault — Adopting API Version 2026–02–01 and preparing for an… | Miguel Arcilla | [Read More](https://medium.com/p/59f48dfa7715) |
-| Sat, 21 Feb 2026 09:01:01 GMT | How I Submitted 3 P1s in One Week Using Only Leaked Credentials | Alexandre Vandamme | [Read More](https://medium.com/p/c505dce316d2) |
-| Sat, 21 Feb 2026 08:57:42 GMT | AI Is Now Hunting Your Code: Why Anthropic’s Claude Code Security Changes the Future of DevSecOps | Germano Costi | [Read More](https://medium.com/p/3664fe2671f8) |
-| Sat, 21 Feb 2026 08:51:35 GMT | Ethical Hacking Course in Trivandrum — Start Your Cybersecurity Career | Francycthomas | [Read More](https://medium.com/p/680adf0c8860) |
-| Sat, 21 Feb 2026 08:51:09 GMT | The Real Cost of On-Premise IT vs Cloud Hosting for Tax and Accounting Firms | Oneupnetworks | [Read More](https://medium.com/p/0adae85bddab) |
-| Sat, 21 Feb 2026 08:30:48 GMT | Cyber Security Is Not a Program — It’s a Governance Problem | Amin Manji | [Read More](https://medium.com/p/f381cf145234) |
