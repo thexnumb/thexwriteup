@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Feb 2026 03:51:18 GMT | Understanding SIEM: A Practical Look at Security Information and Event Management in Cybersecurity | Ronak Mishra | [Read More](https://medium.com/p/61d295ab572d) |
+| Sat, 21 Feb 2026 03:41:43 GMT | Session Hijacking: How Attackers Steal Active User Sessions | Rithikarao | [Read More](https://medium.com/p/5eb2954444c1) |
+| Sat, 21 Feb 2026 03:41:00 GMT | DNS Security: The Internet’s Phone Book Is Trying to Kill You (and How to Fix It) | Sharon Martin | [Read More](https://medium.com/p/9dab2899dd3e) |
+| Sat, 21 Feb 2026 03:25:27 GMT | Metasploitable 2 Security Assessment: Five Practical Exploitation Scenarios | شاہ میر عمران مغل | [Read More](https://medium.com/p/54e548412e7a) |
+| Sat, 21 Feb 2026 03:25:15 GMT | Why CompTIA Security+ Is More Than Just a Multiple-Choice Certification | bountyhunter | [Read More](https://medium.com/p/49638ac81424) |
+| Sat, 21 Feb 2026 03:16:11 GMT | From Business to Blue Team: Rewiring the Mind for Cybersecurity | bountyhunter | [Read More](https://medium.com/p/4c0a26cd4950) |
+| Sat, 21 Feb 2026 02:58:12 GMT | Start Before the Breach | TonyShala | [Read More](https://medium.com/p/664308d3fef0) |
+| Sat, 21 Feb 2026 02:56:29 GMT | Breaking RSA When One Prime Is Known | 3m Mohamed | [Read More](https://medium.com/p/0cc9cd8ecbeb) |
+| Sat, 21 Feb 2026 02:54:29 GMT | 8 Security Checks Every Python Web App Should Have | Rizqi Mulki | [Read More](https://medium.com/p/40cd6579311b) |
+| Sat, 21 Feb 2026 02:54:13 GMT | How to Detect a Malicious App on Linux | bektiaw | [Read More](https://medium.com/p/25566da9abe0) |
+| Sat, 21 Feb 2026 02:47:48 GMT | Watching Heated Rivalry Cracked Me Open | Tammyh_writes | [Read More](https://medium.com/p/dc49e08850cf) |
+| Sat, 21 Feb 2026 02:44:52 GMT | The Unsafe Send: How an HTTP Client Library Led to Remote Code Execution | Alperen | [Read More](https://medium.com/p/5aa1c89206c5) |
+| Sat, 21 Feb 2026 02:34:19 GMT | Vulnerability: A Curse In The Blessing | Shahrukh Gulnaz | [Read More](https://medium.com/p/90225e6b058c) |
+| Sat, 21 Feb 2026 02:31:45 GMT | Identity Theft in 2026: New Scams You Must Know to Protect Your Money | Ali Shakeer | [Read More](https://medium.com/p/415e30dd84cc) |
 | Sat, 21 Feb 2026 01:52:36 GMT | Aws secrets services (secret manager and parameter store) | Jomar Mirabeles | [Read More](https://medium.com/p/954fba5455a8) |
 | Sat, 21 Feb 2026 01:46:02 GMT | Broken Access Control — Lab #1 | Bahaa Aldeen Nawlo | [Read More](https://medium.com/p/a500995f06e7) |
 | Sat, 21 Feb 2026 01:43:28 GMT | The Chatbot LLM Asymmetry: What Goes In, What Comes Out, and the Iceberg Nobody Talks About | Berend Watchus | [Read More](https://medium.com/p/e6db65b1f366) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Feb 2026 18:14:21 GMT | Audio Steganography – Audio-Based Payload Delivery | Arda Boğa | [Read More](https://medium.com/p/fda2409296d6) |
 | Fri, 20 Feb 2026 18:01:01 GMT | Ransomware in 2026: What’s Changed and Why It Matters to Your Organization | Dr Kimma Wreh | [Read More](https://medium.com/p/09ca3c8d3bce) |
 | Fri, 20 Feb 2026 18:00:29 GMT | Part 2: The Power of “No”: Understanding the Principle of Least Privilege (PoLP) | Telman Hajibutayev | [Read More](https://medium.com/p/d878c5dd9f5c) |
-| Fri, 20 Feb 2026 17:56:31 GMT | TryHackMe — Include — Walkthrough | Alan | [Read More](https://medium.com/p/b1a44e2e31b5) |
-| Fri, 20 Feb 2026 17:54:31 GMT | Cybersecurity News Review — Week 8 (2026) | Mladen Kirilov | [Read More](https://medium.com/p/ee9807e92a9a) |
-| Fri, 20 Feb 2026 17:46:00 GMT | Managed IT Services: Why Small Businesses Can’t Afford to “Wing It” Anymore | Janeel Abrahams | [Read More](https://medium.com/p/d1999c5fb039) |
-| Fri, 20 Feb 2026 17:45:56 GMT | Understanding VACA in Cybersecurity: The Backbone of Organizational Security | Rokadesayli | [Read More](https://medium.com/p/9f0b0279a63a) |
-| Fri, 20 Feb 2026 17:44:15 GMT | Cybersecurity Fundamentals Series: Why “Defense in Depth” is More Than Just a Buzzword | Telman Hajibutayev | [Read More](https://medium.com/p/b951d8b0bd02) |
-| Fri, 20 Feb 2026 17:44:10 GMT | Reversing anogs: How Delta Force Mobile’s Anti-Cheat Enumerates Your Installed Apps on iOS | srkorwho | [Read More](https://medium.com/p/9b7d6a3ec157) |
-| Fri, 20 Feb 2026 17:42:54 GMT | Extended Data Exposure Incident Highlights Growing Risks in Financial Platforms | Sai Charan Reddy | [Read More](https://medium.com/p/0a8aba88f256) |
-| Fri, 20 Feb 2026 17:41:00 GMT | Identity and Access Management (IAM) Explained: Foundations and Keycloak Overview (Part 1) | Rupesh Sharma | [Read More](https://medium.com/p/41c0f7f99c90) |
-| Fri, 20 Feb 2026 17:40:55 GMT | Hi, I have started learning penetration testing as I prepare for my first cybersecurity job. | Madhanashanmugam | [Read More](https://medium.com/p/307d1c9c55c2) |
-| Fri, 20 Feb 2026 17:28:14 GMT | Understanding CVE-2026–2441: How a CSS Bug Crashed Chrome | Vedic_error | [Read More](https://medium.com/p/18421eff703e) |
-| Fri, 20 Feb 2026 17:16:02 GMT | Day 8 — Long term Plans | Armaan Nain | [Read More](https://medium.com/p/c4d1764e799f) |
-| Fri, 20 Feb 2026 17:07:53 GMT | The Cryptography Concept Journey — X.509 | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/779866dbb568) |
-| Fri, 20 Feb 2026 17:02:56 GMT | What Is the Best Commercial Security Camera System for Business in 2026? | Fortnexs Shield | [Read More](https://medium.com/p/99f09e3a3b37) |
-| Fri, 20 Feb 2026 16:56:25 GMT | Love Letter Locker — A TryHackMe Writeup | 0x77 | [Read More](https://medium.com/p/a5217e396138) |
