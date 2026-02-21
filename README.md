@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Feb 2026 22:39:17 GMT | Best Spy Camera for Nanny Monitoring with Audio Recording | Buyer’s Guide Pro | [Read More](https://medium.com/p/b870c88469d6) |
+| Sat, 21 Feb 2026 22:33:21 GMT | The Declaration of a 0° Draconic Pisces Sun | Nadia Bertolino | [Read More](https://medium.com/p/2b68c403694b) |
+| Sat, 21 Feb 2026 22:27:43 GMT | ID-Networks Cyber Defence Bootcamp : Task Lab 02 “Overwire Bandit” | Alif Radityo | [Read More](https://medium.com/p/0ed0417b8a33) |
 | Sat, 21 Feb 2026 22:25:44 GMT | Subdomain Collection Techniques in Cybersecurity | mohandika | [Read More](https://medium.com/p/19d0ed1f079f) |
 | Sat, 21 Feb 2026 22:13:28 GMT | JavaScript: Simple Demo Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/10c9ecb4e77e) |
 | Sat, 21 Feb 2026 21:58:50 GMT | Try Hack Me- pyLon CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/1c7c3d3d7e05) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Feb 2026 15:04:35 GMT | Why Most Aspiring Penetration Testers Never Get Hired | Hania Khan | [Read More](https://medium.com/p/4842aae2acc8) |
 | Sat, 21 Feb 2026 14:57:39 GMT | AI and Facial Recognition in Public Security: Lessons from Real-World Deployments | Daniel Possebon Bargas | [Read More](https://medium.com/p/ba87b066392a) |
 | Sat, 21 Feb 2026 14:56:48 GMT | Why TryHackMe’s CyberSecurity 101 (SEC1) Builds More REAL Skill Than Multiple‑Choice Exams | Shimalka Yohan | [Read More](https://medium.com/p/2f053c35c011) |
-| Sat, 21 Feb 2026 14:47:36 GMT | AI Innovation or Market Disruption? | D09r | [Read More](https://medium.com/p/fffe41cb2eb1) |
-| Sat, 21 Feb 2026 14:39:15 GMT | Top PHP Security Libraries You Should Know in 2026 | Jaytech | [Read More](https://medium.com/p/d983b6a3e81c) |
-| Sat, 21 Feb 2026 14:34:32 GMT | From Open Ports to Remote Shell: What a Simple Nmap Scan Revealed About Real-World Risk | Rachana Appani | [Read More](https://medium.com/p/28800a71135d) |
