@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Feb 2026 10:19:54 GMT | The Encryption Apocalypse Is Coming: Why Your RSA Keys Are Living on Borrowed Time | Joao Silva | [Read More](https://medium.com/p/0ff987d1ae65) |
+| Sat, 21 Feb 2026 10:09:12 GMT | Best Institute for Artificial Intelligence in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/abb256d0f184) |
+| Sat, 21 Feb 2026 10:08:18 GMT | Flesh: Building a Multi-Session Reverse Shell Handler in Python | Vaibhav | [Read More](https://medium.com/p/5637f2fd8458) |
+| Sat, 21 Feb 2026 10:05:34 GMT | SQL Injection in a Windows Application Exposing Millions of Records | Aland Dlshad (HexaPhp) | [Read More](https://medium.com/p/f657a6de46ac) |
+| Sat, 21 Feb 2026 09:58:07 GMT | The smartest cloud engineers I’ve worked with don’t start with code. They start with questions! | IsaacFabianK | [Read More](https://medium.com/p/c9934b9f24ab) |
+| Sat, 21 Feb 2026 09:57:55 GMT | Web Penetration Testing: Protect Data and Systems | Application Security Master | [Read More](https://medium.com/p/018a355b4303) |
+| Sat, 21 Feb 2026 09:57:42 GMT | How I Built a DevSecOps Pipeline That Catches Vulnerabilities Before They Hit Production | Abed | [Read More](https://medium.com/p/83c731968139) |
+| Sat, 21 Feb 2026 09:56:27 GMT | Investigating SSH Brute Force and Potential Lateral Movement Using Splunk | Awwal Shabi | [Read More](https://medium.com/p/27eda77da6b5) |
+| Sat, 21 Feb 2026 09:55:51 GMT | Zero Trust Architecture: Securing the Modern Digital Enterprise | Devarshi Acharya | [Read More](https://medium.com/p/7897483ec3f1) |
+| Sat, 21 Feb 2026 09:50:20 GMT | My Story Got Stolen. Here’s My Response. | Brennan Kenneth Brown | [Read More](https://medium.com/p/e4b4f79cf15e) |
+| Sat, 21 Feb 2026 09:48:47 GMT | Hashing vs Encoding vs Encryption: Understanding the Core Security Concepts | Kajal Glotra | [Read More](https://medium.com/p/71e1b3e33c55) |
+| Sat, 21 Feb 2026 09:47:18 GMT | Conti — TryHackMe - Splunk | Jose Praveen | [Read More](https://medium.com/p/194b316408e2) |
+| Sat, 21 Feb 2026 09:46:42 GMT | Exploiting a Mass Assignment Vulnerability | Bash Overflow | [Read More](https://medium.com/p/820d58138c12) |
+| Sat, 21 Feb 2026 09:43:17 GMT | Breachpoint CTF Writeup | popo | [Read More](https://medium.com/p/c33697e56c63) |
+| Sat, 21 Feb 2026 09:43:02 GMT | Why Two-Factor Authentication Isn’t as Secure as You Think | Mike | [Read More](https://medium.com/p/55b7a2f69e3e) |
+| Sat, 21 Feb 2026 09:34:25 GMT | The Invisible Web: A Deep Dive into How Access Points Build Mesh Networks | Jazz Cyber Shield | [Read More](https://medium.com/p/4b6151a82159) |
+| Sat, 21 Feb 2026 09:32:27 GMT | Top-Notch Armed Security in San Antonio | Matrix Security Guard Services LLC | [Read More](https://medium.com/p/8181cab86237) |
+| Sat, 21 Feb 2026 09:32:20 GMT | Why AI-Powered Security is the Standard for 2026 | Top Smart Gear | [Read More](https://medium.com/p/98039af8d06f) |
 | Sat, 21 Feb 2026 09:19:06 GMT | Fraud and the Rise of GenAI and Agentic AI | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/343a6f511372) |
 | Sat, 21 Feb 2026 09:18:58 GMT | DNS (Domain Name System) | Songül Kızılay Özügürler | [Read More](https://medium.com/p/37515fbbeed0) |
 | Sat, 21 Feb 2026 09:15:46 GMT | being a hacker how i took a job of developer | Kishwordulal | [Read More](https://medium.com/p/67fe20d1139c) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Feb 2026 02:54:13 GMT | How to Detect a Malicious App on Linux | bektiaw | [Read More](https://medium.com/p/25566da9abe0) |
 | Sat, 21 Feb 2026 02:47:48 GMT | Watching Heated Rivalry Cracked Me Open | Tammyh_writes | [Read More](https://medium.com/p/dc49e08850cf) |
 | Sat, 21 Feb 2026 02:44:52 GMT | The Unsafe Send: How an HTTP Client Library Led to Remote Code Execution | Alperen | [Read More](https://medium.com/p/5aa1c89206c5) |
-| Sat, 21 Feb 2026 02:34:19 GMT | Vulnerability: A Curse In The Blessing | Shahrukh Gulnaz | [Read More](https://medium.com/p/90225e6b058c) |
-| Sat, 21 Feb 2026 02:31:45 GMT | Identity Theft in 2026: New Scams You Must Know to Protect Your Money | Ali Shakeer | [Read More](https://medium.com/p/415e30dd84cc) |
-| Sat, 21 Feb 2026 01:52:36 GMT | Aws secrets services (secret manager and parameter store) | Jomar Mirabeles | [Read More](https://medium.com/p/954fba5455a8) |
-| Sat, 21 Feb 2026 01:46:02 GMT | Broken Access Control — Lab #1 | Bahaa Aldeen Nawlo | [Read More](https://medium.com/p/a500995f06e7) |
-| Sat, 21 Feb 2026 01:43:28 GMT | The Chatbot LLM Asymmetry: What Goes In, What Comes Out, and the Iceberg Nobody Talks About | Berend Watchus | [Read More](https://medium.com/p/e6db65b1f366) |
-| Sat, 21 Feb 2026 01:39:18 GMT | IT 01 - Password / Account Lockout | Amrsmooke | [Read More](https://medium.com/p/e9da50691852) |
-| Sat, 21 Feb 2026 00:24:44 GMT | picoCTF — Mini RSA (Low Exponent Attack, Hard) | 3m Mohamed | [Read More](https://medium.com/p/9a5ddbe1df43) |
-| Sat, 21 Feb 2026 00:17:29 GMT | Solving the Systems Maze — Switching J-Link between WSL and Windows | Jayashree Srinivasan | [Read More](https://medium.com/p/786bcf91f9ab) |
-| Sat, 21 Feb 2026 00:11:06 GMT | CyberDefenders: SOC Analyst Tier 1 WebStrike Walkthrough | Rifki Al Ansyari | [Read More](https://medium.com/p/bd5cf5c9af3f) |
-| Sat, 21 Feb 2026 00:07:34 GMT | The 14-Minute Massacre: The First Battle Fought Entirely by AI (And Why No Human Could Stop It) | The Forensic Archive | [Read More](https://medium.com/p/ea66f1080b34) |
-| Sat, 21 Feb 2026 00:03:35 GMT | Network Penetration Testing Fundamentals | Eric Smith | [Read More](https://medium.com/p/e2ffaa870c9a) |
-| Sat, 21 Feb 2026 00:01:03 GMT | Interactsh: Complete Guide to Detecting Blind and OOB Vulnerabilities | JPablo13 | [Read More](https://medium.com/p/e2298949816f) |
-| Fri, 20 Feb 2026 23:23:47 GMT | Keys to IT cost management | Yuri Bravo | [Read More](https://medium.com/p/e3c7e4f679ac) |
-| Fri, 20 Feb 2026 23:19:36 GMT | Common Cybersecurity Interview Questions & Answers | AJ | [Read More](https://medium.com/p/4bda105d1db4) |
-| Fri, 20 Feb 2026 23:18:53 GMT | Creating a Comprehensive Cybersecurity Strategy Document | AJ | [Read More](https://medium.com/p/57d5522c3a93) |
-| Fri, 20 Feb 2026 23:13:38 GMT | Hackers Don’t Break In Anymore. They Log In. | Shreeya_Naik | [Read More](https://medium.com/p/11c477036820) |
-| Fri, 20 Feb 2026 23:13:12 GMT | Why Everyone Must Improve Their Knowledge of Data and Cyber Security in the Digital Age | Bervice | [Read More](https://medium.com/p/17aad2a073fd) |
-| Fri, 20 Feb 2026 23:06:05 GMT | Bypassing Free Plan Subscription Limit via Race Condition | Yahia Ibrahim khamis | [Read More](https://medium.com/p/2de79af677e1) |
