@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Feb 2026 05:53:44 GMT | Step into the World of Premium Tech Careers! | Molletibalu | [Read More](https://medium.com/p/68256f6f7e35) |
+| Sat, 21 Feb 2026 05:41:50 GMT | OverTheWire Bandit | DIKAFPS | [Read More](https://medium.com/p/37540a867396) |
+| Sat, 21 Feb 2026 05:34:38 GMT | Understanding the OSI Model and Subnetting: Foundations of My Network Engineering Journey | Francis Obeng-Mensah | [Read More](https://medium.com/p/a75b0054abbf) |
+| Sat, 21 Feb 2026 05:28:47 GMT | Your Organization Went Passwordless. The Risk Didn’t Go Away | Albert D. Jee | [Read More](https://medium.com/p/17ad25195a1e) |
+| Sat, 21 Feb 2026 05:26:16 GMT | Active Directory Pentesting: LLMNR Poisoning in a Real Network | Sachin kewat | [Read More](https://medium.com/p/2aae1cb7e5be) |
 | Sat, 21 Feb 2026 05:25:36 GMT | Kubernetes Browser: Browser Isolation Guide (2026) | Sendwin | [Read More](https://medium.com/p/3d5116f0fc3f) |
+| Sat, 21 Feb 2026 05:23:44 GMT | The 5 AI Hacking Tools Black Hats Are Unleashing in 2026 (And How to Survive Them) | Garvit Haswani | [Read More](https://medium.com/p/5c5234c2f9ab) |
 | Sat, 21 Feb 2026 05:20:29 GMT | Attacking Deepfake Detection Systems: How Adversaries Evade AI-Based Fake Media Detectors | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/20317fe1537c) |
 | Sat, 21 Feb 2026 05:12:57 GMT | Security Systems Installations Service Melbourne | Borderless Solutions | [Read More](https://medium.com/p/86a316492c83) |
 | Sat, 21 Feb 2026 05:07:39 GMT | Claude Just Killed Cybersecurity | Ashish Maurya | [Read More](https://medium.com/p/58269d496645) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Feb 2026 19:48:45 GMT | How Bitcoin-Grade Security Enables Autonomous Agent Operations | SuperDapp | [Read More](https://medium.com/p/3d324e108d61) |
 | Fri, 20 Feb 2026 19:39:42 GMT | Cryptography Concepts Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/e5a3db54966c) |
 | Fri, 20 Feb 2026 19:39:26 GMT | The CIA Triad Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/6c3ce76b720a) |
-| Fri, 20 Feb 2026 19:31:40 GMT | DNS Zone Transfer Nedir? AXFR Açığı Nasıl Çalışır? | Songül Kızılay Özügürler | [Read More](https://medium.com/p/a9fac396e74f) |
-| Fri, 20 Feb 2026 19:31:29 GMT | How I Found 3 Logic Bugs & 2 Access Control Issues in One Public BB Program. | Mahmoud Khalid | [Read More](https://medium.com/p/9ce2cf66fdd8) |
-| Fri, 20 Feb 2026 19:26:10 GMT | Building Production-Ready and Scalable Agent Systems: Design Patterns for AI Agent Security | Santosh Shinde | [Read More](https://medium.com/p/90c64813bf04) |
-| Fri, 20 Feb 2026 19:25:28 GMT | Write-up Bandit (OverTheWire): Dari 0–20 | Mabrurfebrian | [Read More](https://medium.com/p/507ca816c4a2) |
-| Fri, 20 Feb 2026 19:15:45 GMT | Secure by Design: Building the Foundation, Not the Wallpaper | Aynur Dunyamaliyeva | [Read More](https://medium.com/p/d62c684834f5) |
-| Fri, 20 Feb 2026 19:11:42 GMT | Separation of Duties: Why No One Should Have the “Master Key” | Aynur Dunyamaliyeva | [Read More](https://medium.com/p/8c2a3d091b70) |
