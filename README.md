@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Feb 2026 19:23:15 GMT | Windows Shortcut Hijacking (Persistence) — an old but still effective technique. | Ravi | [Read More](https://medium.com/p/9af6d708cf5c) |
+| Sat, 21 Feb 2026 19:22:28 GMT | JKU Header Injection: From Vulnerable Code to Full Authentication Bypass | Dipesh Paul | [Read More](https://medium.com/p/fbde5815964f) |
+| Sat, 21 Feb 2026 19:20:48 GMT | How to Build a Practical PoC: A No Nonsense Guide to Command Injection | Salihugurlu | [Read More](https://medium.com/p/1cbee91efde6) |
+| Sat, 21 Feb 2026 19:18:55 GMT | Securing AI Apps at the Speed of Vibe Coding: A First Look at Arko | Craig McCart | [Read More](https://medium.com/p/a0022f8845d1) |
+| Sat, 21 Feb 2026 19:15:09 GMT | Security Through Obscurity: A Shield or a Mirage? | Aynur Dunyamaliyeva | [Read More](https://medium.com/p/6327e616e921) |
+| Sat, 21 Feb 2026 19:10:40 GMT | Cyber Security vs Web Development | Texastech Baseball | [Read More](https://medium.com/p/a1becbd4b5aa) |
+| Sat, 21 Feb 2026 19:10:35 GMT | “The $2.5 Trillion AI Bet That Could Break the Economy” | dr.fxwifi | [Read More](https://medium.com/p/9548ae4bcc4d) |
+| Sat, 21 Feb 2026 18:59:05 GMT | Database SQL Basics (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/359255c328e1) |
+| Sat, 21 Feb 2026 18:49:21 GMT | The Hidden Security Crisis in Enterprise AI | Alex Hosein | [Read More](https://medium.com/p/f5c99383a3dd) |
+| Sat, 21 Feb 2026 18:48:36 GMT | Is Anthropic’s Claude Code Security a Game Changer for Cybersecurity? | Srinija Puvvula | [Read More](https://medium.com/p/c45c06182a2f) |
+| Sat, 21 Feb 2026 18:46:00 GMT | The Day Microsoft Lost Its Signing Key | Bilal Zuberi | [Read More](https://medium.com/p/18e2ec7f8cec) |
+| Sat, 21 Feb 2026 18:45:08 GMT | TryHackMe — All-in-One — Start your adventure | mahyar kermani | [Read More](https://medium.com/p/2e12c1aa6618) |
+| Sat, 21 Feb 2026 18:41:38 GMT | Behind a Simple Click There is a Danger | Grace Jaman | [Read More](https://medium.com/p/09feaf129e39) |
 | Sat, 21 Feb 2026 18:16:00 GMT | Access Control Checkup: A One-Hour Review That Catches Real Bug | Exploitless | [Read More](https://medium.com/p/fd715957b3b3) |
 | Sat, 21 Feb 2026 18:14:20 GMT | How I Discovered a CSRF Vulnerability in a CV Update Feature | montaser mohsen | [Read More](https://medium.com/p/b3b83680ee11) |
 | Sat, 21 Feb 2026 17:57:13 GMT | Information Gathering & Ecosystem Analysis on web applications | Diva Rizky Alfitrah | [Read More](https://medium.com/p/88e006228f5d) |
@@ -100,17 +113,3 @@ As decentralized finance… | ray_5541 | [Read More](https://medium.com/p/3994c1
 | Sat, 21 Feb 2026 12:12:58 GMT | Free Udemy Courses Promo Codes | DeepDive4learn | [Read More](https://medium.com/p/7d0f38c9bce5) |
 | Sat, 21 Feb 2026 12:12:33 GMT | Governance as a Strategic Career Moat | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/4cf54af492ab) |
 | Sat, 21 Feb 2026 12:09:47 GMT | Cyber Security Training in Bangalore—Best Course to Build a High-Paying Career in 2026 | Saikiranversionit | [Read More](https://medium.com/p/8ec72481e007) |
-| Sat, 21 Feb 2026 12:01:01 GMT | Commuters and Developers Choose a Phone — and Risk a Stranded Deploy | James Kuhman | [Read More](https://medium.com/p/29e9d721332d) |
-| Sat, 21 Feb 2026 11:50:59 GMT | Bigwhales Review: Detailed Warning | Madison | [Read More](https://medium.com/p/854166ca613b) |
-| Sat, 21 Feb 2026 11:41:47 GMT | Ethical Hacking Workshop: A Practical Pathway to Real-World Cybersecurity Skills | EINITIAL24 | [Read More](https://medium.com/p/dd0afbaada14) |
-| Sat, 21 Feb 2026 11:36:50 GMT | .Pixel6Pro-Hardware-Identity-Realignment
-.Titan-M2-Integrity-Bypass-Study | Sam | [Read More](https://medium.com/p/084a0977b455) |
-| Sat, 21 Feb 2026 11:31:35 GMT | Issue #2: When IT paralysis stops the world — Lessons from the Maersk incident | Nitin Raje | [Read More](https://medium.com/p/d1b125fca315) |
-| Sat, 21 Feb 2026 11:26:50 GMT | AI in Cybersecurity: Educational Study on Drone Detection and Prevention Systems | Abishek iringathuruthy suresh | [Read More](https://medium.com/p/d850870621be) |
-| Sat, 21 Feb 2026 11:25:04 GMT | Evolutionary Architectures in Continuous Threat Exposure Management: From Snapshot Reactive Defense… | SkelerSecurity | [Read More](https://medium.com/p/7e6c8b911157) |
-| Sat, 21 Feb 2026 11:20:55 GMT | From Red to Green: Building a DevSecOps Pipeline That Actually Blocks Vulnerabilities | Ashhadali | [Read More](https://medium.com/p/5f8edf4501eb) |
-| Sat, 21 Feb 2026 11:17:02 GMT | Case Studies of Successful Ransomware Recovery | Anaynams | [Read More](https://medium.com/p/5ae8fa084a09) |
-| Sat, 21 Feb 2026 11:10:34 GMT | How I found CVE-2026–27146 (CSRF)- Cyber Tamarin | Cyber Tamarin | [Read More](https://medium.com/p/a2886542db22) |
-| Sat, 21 Feb 2026 11:00:01 GMT | Smart Crypto Wallets: Integrating AI for Security and Smarter Transactions | Xeer Technology | [Read More](https://medium.com/p/91fa7be5f7f0) |
-| Sat, 21 Feb 2026 10:56:25 GMT | ISO 27001 Is Not a Certificate. It’s a Maturity Test. | Fintech By Tanu | [Read More](https://medium.com/p/9b0f8513232a) |
-| Sat, 21 Feb 2026 10:54:10 GMT | Hack Apps While You Browse!!! | cybrNK | [Read More](https://medium.com/p/105dc85037da) |
