@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Feb 2026 14:47:36 GMT | AI Innovation or Market Disruption? | D09r | [Read More](https://medium.com/p/fffe41cb2eb1) |
+| Sat, 21 Feb 2026 14:34:32 GMT | From Open Ports to Remote Shell: What a Simple Nmap Scan Revealed About Real-World Risk | Rachana Appani | [Read More](https://medium.com/p/28800a71135d) |
+| Sat, 21 Feb 2026 14:33:57 GMT | HTB CDSA (2025): What It Really Takes to Pass the Certified Defensive Security Analyst Exam | Farouq Nader Farouq Hassan | [Read More](https://medium.com/p/5215213392cc) |
+| Sat, 21 Feb 2026 14:31:08 GMT | Is Your WhatsApp Safe in 2026? Here’s What You Should Do | Tanisha Bali | [Read More](https://medium.com/p/17774e913b4a) |
+| Sat, 21 Feb 2026 14:25:51 GMT | Argus Tool Deep Dive - Smart Recon & Analysis | Pentester Club | [Read More](https://medium.com/p/d028c8ca1429) |
+| Sat, 21 Feb 2026 14:24:31 GMT | How These CRTA Notes Helped Me Pass the Certified Red Team Analyst Exam With Confidence | James Whitmore | [Read More](https://medium.com/p/38a2a31ad696) |
+| Sat, 21 Feb 2026 14:23:21 GMT | JavaScript security risks + practical code solutions seekhoge. | Lucky Pal | [Read More](https://medium.com/p/1dad4be3faf8) |
 | Sat, 21 Feb 2026 14:18:17 GMT | When AI Creates Passwords: Convenience Turning Into a Security Risk | Jas | [Read More](https://medium.com/p/05c3adeac8e1) |
 | Sat, 21 Feb 2026 14:15:57 GMT | Enter the Hidden World of Compliance Quality Assurance (CQA) in Video Games | Van Emerson Francisco | [Read More](https://medium.com/p/5f936fb52f84) |
 | Sat, 21 Feb 2026 14:15:27 GMT | What is the CIA Triad? A Beginner’s Guide to Information Security | Mahdi | [Read More](https://medium.com/p/51217dadd508) |
@@ -107,10 +114,3 @@ As decentralized finance… | ray_5541 | [Read More](https://medium.com/p/3994c1
 | Sat, 21 Feb 2026 07:45:05 GMT | Two Weeks In: What I’ve Learned About Security, Attack Surfaces, and Thinking Like an Attacker | Gift Afortu | [Read More](https://medium.com/p/38e896b807ec) |
 | Sat, 21 Feb 2026 07:32:49 GMT | NEW Apple AI Wearables “LEAKED” AI Glasses, AI Pin & AI AirPods | Jake ◉_◉ Vale | [Read More](https://medium.com/p/518b5a7a6e06) |
 | Sat, 21 Feb 2026 07:32:36 GMT | They hacked CSS: Google Chrome zero-day vulnerability. | Usman Writes | [Read More](https://medium.com/p/6e64b3b26517) |
-| Sat, 21 Feb 2026 07:32:35 GMT | From Medium to Critical: How to Chain Vulnerabilities for Maximum Bug Bounty Impact | ghostyjoe | [Read More](https://medium.com/p/5f95c65dcec8) |
-| Sat, 21 Feb 2026 07:32:09 GMT | 7 Urgent Lessons from the 2026 Android AI App Photo Leak: A Professional Privacy Guide | Nanthakumar | [Read More](https://medium.com/p/c0510d1d9dc5) |
-| Sat, 21 Feb 2026 07:28:17 GMT | Security-Centric Foundations for Smart Digital Twin Applications | Madansecure | [Read More](https://medium.com/p/accc8fd41266) |
-| Sat, 21 Feb 2026 07:23:46 GMT | Modern Authentication Cheatsheet: 25 Tools to Master Passwords, Passkeys & MFA | Very Lazy Tech | [Read More](https://medium.com/p/f82cd84cf5f0) |
-| Sat, 21 Feb 2026 07:21:05 GMT | The Secret Life of AWS: Cross-Network Communication (VPC Peering) | Aaron Rose | [Read More](https://medium.com/p/1f01505e0de4) |
-| Sat, 21 Feb 2026 07:18:24 GMT | A Blueprint for a Robust Home Lab Network | Varun Shenoy | [Read More](https://medium.com/p/f7bbfc0116df) |
-| Sat, 21 Feb 2026 07:16:52 GMT | I Compared Three AI Security Certifications, here is what I found | Motasem Hamdan | [Read More](https://medium.com/p/379f72403ae2) |
