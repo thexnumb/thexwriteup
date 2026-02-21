@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Feb 2026 20:17:33 GMT | Day 16: Windows Event Logs | Siddhesh Patil | [Read More](https://medium.com/p/55208bdf360d) |
+| Sat, 21 Feb 2026 20:14:29 GMT | Shifting Left Security: The Power of Threat Modeling Before the AWS Landing Zone | Kandasamyarulkumar | [Read More](https://medium.com/p/5ab8245f4f4a) |
+| Sat, 21 Feb 2026 20:12:46 GMT | Is a Data Breach a Sign of Weakness? | Ilderlandio Teixeira | [Read More](https://medium.com/p/6d3e3cbbe2d8) |
+| Sat, 21 Feb 2026 20:09:13 GMT | Residential Camera Installation in Montreal: A Technical Guide to Modern Home Surveillance Systems | Midochamass | [Read More](https://medium.com/p/0935e91daa97) |
+| Sat, 21 Feb 2026 20:08:25 GMT | Hardcoded AES Keys? Hardcoded Vulnerabilities | Isaac Privett | [Read More](https://medium.com/p/075221945d01) |
+| Sat, 21 Feb 2026 20:06:26 GMT | Prinsip Desain User Interface (UI) | Zurichsabil | [Read More](https://medium.com/p/ae5d30074e08) |
+| Sat, 21 Feb 2026 19:56:47 GMT | Walking An Application - TryHackMe Write-Up | Mochammad Farros Fatchur Roji | [Read More](https://medium.com/p/5d6601cf54e6) |
+| Sat, 21 Feb 2026 19:56:31 GMT | The 7 Cyber Security Trends Of 2026 That Everyone Must Be Ready For | Abstract Mind | [Read More](https://medium.com/p/5fa92d45dc63) |
+| Sat, 21 Feb 2026 19:53:03 GMT | Data is Life: Strategic Economic Regulatory Battle | Pruthvi Kuppagiri | [Read More](https://medium.com/p/6510af556515) |
+| Sat, 21 Feb 2026 19:51:47 GMT | Secure Password Generation in Go: Why crypto/rand Matters | Priya Patidar | [Read More](https://medium.com/p/c60bf317723c) |
+| Sat, 21 Feb 2026 19:47:11 GMT | Reqfast: Not what the customer ordered | Brian Mohr | [Read More](https://medium.com/p/5cec54e38a69) |
+| Sat, 21 Feb 2026 19:43:09 GMT | Palo Alto — Global Incident Response Report 2026 | SOCFortress | [Read More](https://medium.com/p/15962ea2d3c7) |
+| Sat, 21 Feb 2026 19:42:30 GMT | The 2026 Internet Utility Belt: 20+ Tools That Actually Help (And a Few That Will Ruin Your Life) | ABV | [Read More](https://medium.com/p/d41fc46b9683) |
 | Sat, 21 Feb 2026 19:37:50 GMT | HTB DFIR Sherlock: LuckyShot | WildPasta | [Read More](https://medium.com/p/9af91d7b23cd) |
 | Sat, 21 Feb 2026 19:29:07 GMT | Compliance vs. Real-World Security: Why Passing an Audit Doesn’t Mean You’re Safe | Dr Kimma Wreh | [Read More](https://medium.com/p/445a23b0d723) |
 | Sat, 21 Feb 2026 19:27:15 GMT | Savunma Çöktüğünde | Betul Toy | [Read More](https://medium.com/p/8da90e5a2f4f) |
@@ -99,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Feb 2026 13:46:17 GMT | İNSANLARI HACKLEMEK: SOSYAL MÜHENDİSLİK NEDEN KOD YAZMAKTAN DAHA TEHLİKELİ? | Enes Deniz | [Read More](https://medium.com/p/d327e75d0c72) |
 | Sat, 21 Feb 2026 13:45:15 GMT | Everything You Need to Know About the Dark Web ! | Cyber Sudarshan | [Read More](https://medium.com/p/b7fd888acbc0) |
 | Sat, 21 Feb 2026 13:34:39 GMT | HackTheBox Sherlock: Advent of The Relics 1 — A Call from the Museum | Dixtroiza | [Read More](https://medium.com/p/ab314cccb1bb) |
-| Sat, 21 Feb 2026 13:18:46 GMT | Building a Threat Intelligence Platform for Philippine companies | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/a842853082d4) |
-| Sat, 21 Feb 2026 13:16:11 GMT | Gen 2 vs Gen 3 Night Vision Devices: Is the PVS-14 Worth the Upgrade? | Night Vision 4 Less | [Read More](https://medium.com/p/b821a16856f2) |
-| Sat, 21 Feb 2026 13:14:05 GMT | Inside CVE-2026–21509 — How a Microsoft Word Zero-Day Turned Into an Active Espionage Campaign | Himalayanvajratech | [Read More](https://medium.com/p/28b35142d1f7) |
-| Sat, 21 Feb 2026 13:08:25 GMT | Teleport Alternative? Meet BAMF — An Open Source Jump Host for SSH, Databases, and Compliance | Rio Wiraldhani | [Read More](https://medium.com/p/762c89f91d6b) |
-| Sat, 21 Feb 2026 13:05:38 GMT | The CIA Triad: The Three Pillars of Digital Security (And Where We Often Go Wrong) | Rela Lumbini | [Read More](https://medium.com/p/ff1423b7e952) |
-| Sat, 21 Feb 2026 13:02:17 GMT | The Exhaustion of the Silent Protector: Why Your Body is Tired of Being “Strong”✨ | Prachi Chauhan | [Read More](https://medium.com/p/533bf403047b) |
-| Sat, 21 Feb 2026 12:54:45 GMT | CVE-2025–32711 | Anurag Tiwari | [Read More](https://medium.com/p/2b962d367b4f) |
-| Sat, 21 Feb 2026 12:54:28 GMT | How SIEM Detection Rules Work (Beginner Guide + Mini CTF) | Tvmgouder | [Read More](https://medium.com/p/54ef4b486cef) |
-| Sat, 21 Feb 2026 12:49:01 GMT | sar walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/968e68d3ab55) |
-| Sat, 21 Feb 2026 12:47:00 GMT | --The Architecture of Alpha: Decoding the Concrete Vault Ecosystem--
-As decentralized finance… | ray_5541 | [Read More](https://medium.com/p/3994c131417f) |
-| Sat, 21 Feb 2026 12:35:04 GMT | Your AI Agent Knows You Better Than You Know Yourself & Nobody Is Protecting That | Niraj Kulkarnii | [Read More](https://medium.com/p/0ed7405891bc) |
-| Sat, 21 Feb 2026 12:33:43 GMT | QSAF: Qorvex Security AI Framework | Hazem Ali | [Read More](https://medium.com/p/02b749d3d11b) |
-| Sat, 21 Feb 2026 12:33:02 GMT | VulNyx Controler Writeup | CyberCraft | [Read More](https://medium.com/p/b9ada8e12fdd) |
