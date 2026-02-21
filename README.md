@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Feb 2026 22:25:44 GMT | Subdomain Collection Techniques in Cybersecurity | mohandika | [Read More](https://medium.com/p/19d0ed1f079f) |
+| Sat, 21 Feb 2026 22:13:28 GMT | JavaScript: Simple Demo Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/10c9ecb4e77e) |
+| Sat, 21 Feb 2026 21:58:50 GMT | Try Hack Me- pyLon CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/1c7c3d3d7e05) |
+| Sat, 21 Feb 2026 21:46:59 GMT | Synthesizing Security Concepts: Building a Cohesive Strategy | Kamalatluxanov | [Read More](https://medium.com/p/12436cd1b468) |
+| Sat, 21 Feb 2026 21:46:34 GMT | The LI job offers with a malware infection… | Roberto Capodieci | [Read More](https://medium.com/p/2d38c9880b34) |
+| Sat, 21 Feb 2026 21:46:14 GMT | Claude Code Security feels like a quiet turning point for how software security gets done. | Scottcmcmahan | [Read More](https://medium.com/p/69efdb0c6140) |
 | Sat, 21 Feb 2026 21:35:51 GMT | Security Through Obscurity: Does Hiding Really Mean Protecting? | Kamalatluxanov | [Read More](https://medium.com/p/6bb657df4826) |
 | Sat, 21 Feb 2026 21:31:14 GMT | Ottergram writeup (LFI) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/1e4fa8795e24) |
 | Sat, 21 Feb 2026 21:29:58 GMT | INE-Host & Network Penetration Testing: Exploitation CTF 2 by Sinkhon | Singkhon K | [Read More](https://medium.com/p/870dd6c95b5a) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Feb 2026 14:47:36 GMT | AI Innovation or Market Disruption? | D09r | [Read More](https://medium.com/p/fffe41cb2eb1) |
 | Sat, 21 Feb 2026 14:39:15 GMT | Top PHP Security Libraries You Should Know in 2026 | Jaytech | [Read More](https://medium.com/p/d983b6a3e81c) |
 | Sat, 21 Feb 2026 14:34:32 GMT | From Open Ports to Remote Shell: What a Simple Nmap Scan Revealed About Real-World Risk | Rachana Appani | [Read More](https://medium.com/p/28800a71135d) |
-| Sat, 21 Feb 2026 14:33:57 GMT | HTB CDSA (2025): What It Really Takes to Pass the Certified Defensive Security Analyst Exam | Farouq Nader Farouq Hassan | [Read More](https://medium.com/p/5215213392cc) |
-| Sat, 21 Feb 2026 14:31:08 GMT | Is Your WhatsApp Safe in 2026? Here’s What You Should Do | Tanisha Bali | [Read More](https://medium.com/p/17774e913b4a) |
-| Sat, 21 Feb 2026 14:25:51 GMT | Argus Tool Deep Dive - Smart Recon & Analysis | Pentester Club | [Read More](https://medium.com/p/d028c8ca1429) |
-| Sat, 21 Feb 2026 14:24:31 GMT | How These CRTA Notes Helped Me Pass the Certified Red Team Analyst Exam With Confidence | James Whitmore | [Read More](https://medium.com/p/38a2a31ad696) |
-| Sat, 21 Feb 2026 14:23:21 GMT | JavaScript security risks + practical code solutions seekhoge. | Lucky Pal | [Read More](https://medium.com/p/1dad4be3faf8) |
-| Sat, 21 Feb 2026 14:18:17 GMT | When AI Creates Passwords: Convenience Turning Into a Security Risk | Jas | [Read More](https://medium.com/p/05c3adeac8e1) |
