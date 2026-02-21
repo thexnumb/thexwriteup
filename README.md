@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Feb 2026 08:16:29 GMT | The Best Web Design & Development Company in Nepal | Rahulchh | [Read More](https://medium.com/p/4ac7b1d58880) |
+| Sat, 21 Feb 2026 08:08:26 GMT | Best AI Course Online with Certificate for Beginners | cyber security Updates | [Read More](https://medium.com/p/1c875cf41f7c) |
+| Sat, 21 Feb 2026 08:07:24 GMT | M | Manish Dahal | [Read More](https://medium.com/p/b6235011d1f8) |
+| Sat, 21 Feb 2026 08:04:38 GMT | Why Infrastructure Sovereignty is the Only Hedge Against 2026 Regulatory Volatility | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/2df5cb6077c5) |
+| Sat, 21 Feb 2026 08:01:01 GMT | When Falling Teaches You Who You Are | Versouls | [Read More](https://medium.com/p/1cfae26d547b) |
+| Sat, 21 Feb 2026 08:00:46 GMT | Phishing-as-a-Service PhaaS: Cybercrime Has Gone Subscription Based | Iqra baba | [Read More](https://medium.com/p/149f0165fce5) |
+| Sat, 21 Feb 2026 07:56:22 GMT | Exploiting clickjacking vulnerability to trigger DOM-based XSS | Ⓥ | [Read More](https://medium.com/p/831f04267099) |
+| Sat, 21 Feb 2026 07:55:38 GMT | Clickjacking with a frame buster script | Ⓥ | [Read More](https://medium.com/p/146475132924) |
 | Sat, 21 Feb 2026 07:45:05 GMT | Two Weeks In: What I’ve Learned About Security, Attack Surfaces, and Thinking Like an Attacker | Gift Afortu | [Read More](https://medium.com/p/38e896b807ec) |
 | Sat, 21 Feb 2026 07:32:49 GMT | NEW Apple AI Wearables “LEAKED” AI Glasses, AI Pin & AI AirPods | Jake ◉_◉ Vale | [Read More](https://medium.com/p/518b5a7a6e06) |
 | Sat, 21 Feb 2026 07:32:36 GMT | They hacked CSS: Google Chrome zero-day vulnerability. | Usman Writes | [Read More](https://medium.com/p/6e64b3b26517) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Feb 2026 22:16:05 GMT | How a Broken Access Control + 2 IDOR Chain Allowed Deleting Other Users’ Conversation Participants | D3v!lXØr | [Read More](https://medium.com/p/303ab5aa891d) |
 | Fri, 20 Feb 2026 22:06:42 GMT | INQUISITION -CANCELATION TORQUEMADA AND HITTLER ALIVE ON SOCIAL MEDIA. | Delpino Neto | [Read More](https://medium.com/p/ff5402a48329) |
 | Fri, 20 Feb 2026 22:01:04 GMT | Termux Kurulum Kodları 2026 | Altayaslanberk | [Read More](https://medium.com/p/07fe206e94fc) |
-| Fri, 20 Feb 2026 22:01:01 GMT | Unfiltered Restart — Day 9: Networking Marathon, Part 4 | Maximillian Rueda | [Read More](https://medium.com/p/299ec120f7f5) |
-| Fri, 20 Feb 2026 21:47:46 GMT | When The Streetlights Come On | Dr.  Mack Jackson Jr | [Read More](https://medium.com/p/1eb7afa83b14) |
-| Fri, 20 Feb 2026 21:42:39 GMT | Helo this is Abdallah Haider aka imranked1 | Abdallahhaider | [Read More](https://medium.com/p/b8a446866acf) |
-| Fri, 20 Feb 2026 21:36:43 GMT | Why “Popular Apps” Are Not Necessarily Secure — A Zero Trust Perspective | Mohammed Lorans Alsalama | [Read More](https://medium.com/p/2bddf491a98f) |
-| Fri, 20 Feb 2026 21:22:30 GMT | How to Build a Fully Open-Source Autonomous AI Operator on Kali Linux | Ehsan | [Read More](https://medium.com/p/e9db0a5e567b) |
-| Fri, 20 Feb 2026 21:11:06 GMT | What Is DCA (Dollar-Cost Averaging) and Why It Works in Crypto | Abasido Tom | [Read More](https://medium.com/p/45932ba244c5) |
-| Fri, 20 Feb 2026 21:08:22 GMT | 1-HTML Injection Bug- Web Penetration Testing Series | Hackerssg | [Read More](https://medium.com/p/858383b22580) |
-| Fri, 20 Feb 2026 21:05:01 GMT | AI Is Learning Faster Than Your Security Stack | CoopSys | [Read More](https://medium.com/p/e4901a9982d4) |
