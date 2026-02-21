@@ -12,11 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Feb 2026 07:45:05 GMT | Two Weeks In: What I’ve Learned About Security, Attack Surfaces, and Thinking Like an Attacker | Gift Afortu | [Read More](https://medium.com/p/38e896b807ec) |
+| Sat, 21 Feb 2026 07:32:49 GMT | NEW Apple AI Wearables “LEAKED” AI Glasses, AI Pin & AI AirPods | Jake ◉_◉ Vale | [Read More](https://medium.com/p/518b5a7a6e06) |
+| Sat, 21 Feb 2026 07:32:36 GMT | They hacked CSS: Google Chrome zero-day vulnerability. | Usman Writes | [Read More](https://medium.com/p/6e64b3b26517) |
+| Sat, 21 Feb 2026 07:32:35 GMT | From Medium to Critical: How to Chain Vulnerabilities for Maximum Bug Bounty Impact | ghostyjoe | [Read More](https://medium.com/p/5f95c65dcec8) |
+| Sat, 21 Feb 2026 07:32:09 GMT | 7 Urgent Lessons from the 2026 Android AI App Photo Leak: A Professional Privacy Guide | Nanthakumar | [Read More](https://medium.com/p/c0510d1d9dc5) |
+| Sat, 21 Feb 2026 07:28:17 GMT | Security-Centric Foundations for Smart Digital Twin Applications | Madansecure | [Read More](https://medium.com/p/accc8fd41266) |
+| Sat, 21 Feb 2026 07:23:46 GMT | Modern Authentication Cheatsheet: 25 Tools to Master Passwords, Passkeys & MFA | Very Lazy Tech | [Read More](https://medium.com/p/f82cd84cf5f0) |
+| Sat, 21 Feb 2026 07:21:05 GMT | The Secret Life of AWS: Cross-Network Communication (VPC Peering) | Aaron Rose | [Read More](https://medium.com/p/1f01505e0de4) |
+| Sat, 21 Feb 2026 07:18:24 GMT | A Blueprint for a Robust Home Lab Network | Varun Shenoy | [Read More](https://medium.com/p/f7bbfc0116df) |
+| Sat, 21 Feb 2026 07:16:52 GMT | I Compared Three AI Security Certifications, here is what I found | Motasem Hamdan | [Read More](https://medium.com/p/379f72403ae2) |
+| Sat, 21 Feb 2026 07:12:22 GMT | JavaScript’s DNA | Anandhu Kannan | [Read More](https://medium.com/p/3fb35f2106a6) |
+| Sat, 21 Feb 2026 07:10:07 GMT | Discovering the Impact of Antivirus Software on iOS Security | Siyanoav | [Read More](https://medium.com/p/ebdf9e87327c) |
 | Sat, 21 Feb 2026 07:06:27 GMT | How to Become a Top Bug Bounty Hunter in 2026 | Krishna Kumar | [Read More](https://medium.com/p/e34d6bc15f56) |
 | Sat, 21 Feb 2026 07:05:20 GMT | Are Biometrics Truly Unhackable | O. J. Okpabi | [Read More](https://medium.com/p/1f947835a80f) |
 | Sat, 21 Feb 2026 07:03:25 GMT | Secure by Design | Nurmammadov Sabuhi | [Read More](https://medium.com/p/0ec430663a31) |
 | Sat, 21 Feb 2026 07:02:45 GMT | How a Security Guards Company in Singapore Adapts to Changing Security Risks | Jane Tang | [Read More](https://medium.com/p/6886d3bcdc85) |
 | Sat, 21 Feb 2026 07:00:03 GMT | Endpoint Intrusion Simulation and Detection (Splunk SIEM, Sysmon, Metasploit) | Nate Sharpley | [Read More](https://medium.com/p/49715ff40764) |
+| Sat, 21 Feb 2026 06:56:46 GMT | Why do we need Post-Quantum TLS? | Gokul B Alex | [Read More](https://medium.com/p/7f292f771243) |
 | Sat, 21 Feb 2026 06:56:06 GMT | How to Secure Your Domain with CAA DNS Records on AWS Route 53 | Narong K. | [Read More](https://medium.com/p/c0fece4e9bfa) |
 | Sat, 21 Feb 2026 06:54:09 GMT | Day 7 of PortSwigger Academy Lab Walkthrough: Authentication & WebSockets | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/0707c2ba8574) |
 | Sat, 21 Feb 2026 06:51:06 GMT | Cybersecurity and Emerging Risks in Accounting | Prabin Premkumar | [Read More](https://medium.com/p/2c40e2214839) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Feb 2026 21:11:06 GMT | What Is DCA (Dollar-Cost Averaging) and Why It Works in Crypto | Abasido Tom | [Read More](https://medium.com/p/45932ba244c5) |
 | Fri, 20 Feb 2026 21:08:22 GMT | 1-HTML Injection Bug- Web Penetration Testing Series | Hackerssg | [Read More](https://medium.com/p/858383b22580) |
 | Fri, 20 Feb 2026 21:05:01 GMT | AI Is Learning Faster Than Your Security Stack | CoopSys | [Read More](https://medium.com/p/e4901a9982d4) |
-| Fri, 20 Feb 2026 21:05:00 GMT | Separation of Duties: Engineering Trust Through Structure | Ii | [Read More](https://medium.com/p/1cea3b817f9a) |
-| Fri, 20 Feb 2026 21:04:37 GMT | The Strategic Role of the Bitunix Care Fund | Abasido Tom | [Read More](https://medium.com/p/1f5794a6a555) |
-| Fri, 20 Feb 2026 21:01:06 GMT | The Principle of Least Privilege: Reducing Risk at Its Core | Ii | [Read More](https://medium.com/p/a8d6ca3cc824) |
-| Fri, 20 Feb 2026 20:58:22 GMT | Google Cloud and the Foundations of Cloud-Based Digital Forensics | Dean | [Read More](https://medium.com/p/6790f6cc721a) |
-| Fri, 20 Feb 2026 20:57:22 GMT | My Journey into Cybersecurity & Ethical Hacking Begins | Chima A M | [Read More](https://medium.com/p/cd3f7ac196ba) |
-| Fri, 20 Feb 2026 20:53:27 GMT | Defense in Depth: The Foundation of Modern Cybersecurity | İsmayilov İsmayıl | [Read More](https://medium.com/p/16d317030cd9) |
-| Fri, 20 Feb 2026 20:48:46 GMT | Why Financial Firms Are Rethinking IT Leadership and Starting With the vCIO | CoopSys | [Read More](https://medium.com/p/c268cb6bb33a) |
-| Fri, 20 Feb 2026 20:40:45 GMT | Retakes Can Make Magic: My eJPT Journey | Hemanth Mouli.ch | [Read More](https://medium.com/p/7120637080a8) |
-| Fri, 20 Feb 2026 20:37:12 GMT | Cybersecurity Terms Explained Simply (Beginner’s Guide) | Eda | [Read More](https://medium.com/p/02b1c13f9d1e) |
-| Fri, 20 Feb 2026 20:31:15 GMT | Inside React2Shell: The RCE Vulnerability That Shook the React Ecosystem | Asimzaman | [Read More](https://medium.com/p/3c8fc1387f80) |
-| Fri, 20 Feb 2026 20:30:29 GMT | Secure Query Practices in Ruby on Rails | Muhammad Bin Hussain | [Read More](https://medium.com/p/5fa7bcb01c72) |
-| Fri, 20 Feb 2026 20:27:16 GMT | AI Governance Is the New SOX Moment | Rafat Yazdani | [Read More](https://medium.com/p/1c0ff6b85cf4) |
-| Fri, 20 Feb 2026 20:24:48 GMT | Breaking Down My First eJPT Attempt: Mistakes and Lessons | Hemanth Mouli.ch | [Read More](https://medium.com/p/cd6dd19fe560) |
