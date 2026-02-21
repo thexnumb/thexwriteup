@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Feb 2026 12:49:01 GMT | sar walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/968e68d3ab55) |
+| Sat, 21 Feb 2026 12:47:00 GMT | --The Architecture of Alpha: Decoding the Concrete Vault Ecosystem--
+As decentralized finance… | ray_5541 | [Read More](https://medium.com/p/3994c131417f) |
+| Sat, 21 Feb 2026 12:35:04 GMT | Your AI Agent Knows You Better Than You Know Yourself & Nobody Is Protecting That | Niraj Kulkarnii | [Read More](https://medium.com/p/0ed7405891bc) |
+| Sat, 21 Feb 2026 12:33:43 GMT | QSAF: Qorvex Security AI Framework | Hazem Ali | [Read More](https://medium.com/p/02b749d3d11b) |
+| Sat, 21 Feb 2026 12:33:02 GMT | VulNyx Controler Writeup | CyberCraft | [Read More](https://medium.com/p/b9ada8e12fdd) |
+| Sat, 21 Feb 2026 12:31:00 GMT | What Is AI, Really? What Everyone Should Understand in 2026 | Inside Intelligence | [Read More](https://medium.com/p/ef5945c36daa) |
+| Sat, 21 Feb 2026 12:20:40 GMT | Suffering from BUGS: How I Almost Deleted My Entire Project | Greek Ai | [Read More](https://medium.com/p/9227f638ce49) |
+| Sat, 21 Feb 2026 12:18:19 GMT | The AI Alignment Gold Rush: 10 Remote Roles Paying $250k+ in 2026 | Shanker Goud | [Read More](https://medium.com/p/cd51d6e01777) |
+| Sat, 21 Feb 2026 12:12:58 GMT | Free Udemy Courses Promo Codes | DeepDive4learn | [Read More](https://medium.com/p/7d0f38c9bce5) |
+| Sat, 21 Feb 2026 12:12:33 GMT | Governance as a Strategic Career Moat | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/4cf54af492ab) |
+| Sat, 21 Feb 2026 12:09:47 GMT | Cyber Security Training in Bangalore—Best Course to Build a High-Paying Career in 2026 | Saikiranversionit | [Read More](https://medium.com/p/8ec72481e007) |
+| Sat, 21 Feb 2026 12:01:01 GMT | Commuters and Developers Choose a Phone — and Risk a Stranded Deploy | James Kuhman | [Read More](https://medium.com/p/29e9d721332d) |
+| Sat, 21 Feb 2026 11:50:59 GMT | Bigwhales Review: Detailed Warning | Madison | [Read More](https://medium.com/p/854166ca613b) |
+| Sat, 21 Feb 2026 11:41:47 GMT | Ethical Hacking Workshop: A Practical Pathway to Real-World Cybersecurity Skills | EINITIAL24 | [Read More](https://medium.com/p/dd0afbaada14) |
 | Sat, 21 Feb 2026 11:36:50 GMT | .Pixel6Pro-Hardware-Identity-Realignment
 .Titan-M2-Integrity-Bypass-Study | Sam | [Read More](https://medium.com/p/084a0977b455) |
 | Sat, 21 Feb 2026 11:31:35 GMT | Issue #2: When IT paralysis stops the world — Lessons from the Maersk incident | Nitin Raje | [Read More](https://medium.com/p/d1b125fca315) |
@@ -99,17 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Feb 2026 06:02:25 GMT | Telegram BOT OSINT using FOFA Dorking | Abhirup Konwar | [Read More](https://medium.com/p/298cb156c21b) |
 | Sat, 21 Feb 2026 05:53:44 GMT | Step into the World of Premium Tech Careers! | Molletibalu | [Read More](https://medium.com/p/68256f6f7e35) |
 | Sat, 21 Feb 2026 05:41:50 GMT | OverTheWire Bandit | DIKAFPS | [Read More](https://medium.com/p/37540a867396) |
-| Sat, 21 Feb 2026 05:34:38 GMT | Understanding the OSI Model and Subnetting: Foundations of My Network Engineering Journey | Francis Obeng-Mensah | [Read More](https://medium.com/p/a75b0054abbf) |
-| Sat, 21 Feb 2026 05:28:47 GMT | Your Organization Went Passwordless. The Risk Didn’t Go Away | Albert D. Jee | [Read More](https://medium.com/p/17ad25195a1e) |
-| Sat, 21 Feb 2026 05:26:16 GMT | Active Directory Pentesting: LLMNR Poisoning in a Real Network | Sachin kewat | [Read More](https://medium.com/p/2aae1cb7e5be) |
-| Sat, 21 Feb 2026 05:25:36 GMT | Kubernetes Browser: Browser Isolation Guide (2026) | Sendwin | [Read More](https://medium.com/p/3d5116f0fc3f) |
-| Sat, 21 Feb 2026 05:23:44 GMT | The 5 AI Hacking Tools Black Hats Are Unleashing in 2026 (And How to Survive Them) | Garvit Haswani | [Read More](https://medium.com/p/5c5234c2f9ab) |
-| Sat, 21 Feb 2026 05:20:29 GMT | Attacking Deepfake Detection Systems: How Adversaries Evade AI-Based Fake Media Detectors | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/20317fe1537c) |
-| Sat, 21 Feb 2026 05:12:57 GMT | Security Systems Installations Service Melbourne | Borderless Solutions | [Read More](https://medium.com/p/86a316492c83) |
-| Sat, 21 Feb 2026 05:07:39 GMT | Claude Just Killed Cybersecurity | Ashish Maurya | [Read More](https://medium.com/p/58269d496645) |
-| Sat, 21 Feb 2026 05:05:51 GMT | overthewire-bandit | marsha | [Read More](https://medium.com/p/80f37174281d) |
-| Sat, 21 Feb 2026 05:01:04 GMT | How Twitter Turned Microsoft’s AI Into a Nazi in 16 Hours | Kaynat Muzaffar | [Read More](https://medium.com/p/06a4291b4c5a) |
-| Sat, 21 Feb 2026 05:01:03 GMT | CORPORATE CRIMINAL LIABILITY IN CYBERSECURITY | Glory Oyewole | [Read More](https://medium.com/p/01892eca964b) |
-| Sat, 21 Feb 2026 05:01:01 GMT | Incident Response & Security | Sarah Nzeshi | [Read More](https://medium.com/p/17705b4f1630) |
-| Sat, 21 Feb 2026 05:01:01 GMT | The Hidden Cost of Words: What Readers Never See About Being a Writer | MJ Creations | [Read More](https://medium.com/p/79b06114cbc7) |
-| Sat, 21 Feb 2026 04:58:25 GMT | PowerShell | Jenishjoel | [Read More](https://medium.com/p/4c8f2ffb26a5) |
