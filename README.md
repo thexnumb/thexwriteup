@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Feb 2026 05:25:36 GMT | Kubernetes Browser: Browser Isolation Guide (2026) | Sendwin | [Read More](https://medium.com/p/3d5116f0fc3f) |
+| Sat, 21 Feb 2026 05:20:29 GMT | Attacking Deepfake Detection Systems: How Adversaries Evade AI-Based Fake Media Detectors | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/20317fe1537c) |
+| Sat, 21 Feb 2026 05:12:57 GMT | Security Systems Installations Service Melbourne | Borderless Solutions | [Read More](https://medium.com/p/86a316492c83) |
+| Sat, 21 Feb 2026 05:07:39 GMT | Claude Just Killed Cybersecurity | Ashish Maurya | [Read More](https://medium.com/p/58269d496645) |
+| Sat, 21 Feb 2026 05:05:51 GMT | overthewire-bandit | marsha | [Read More](https://medium.com/p/80f37174281d) |
+| Sat, 21 Feb 2026 05:01:04 GMT | How Twitter Turned Microsoft’s AI Into a Nazi in 16 Hours | Kaynat Muzaffar | [Read More](https://medium.com/p/06a4291b4c5a) |
+| Sat, 21 Feb 2026 05:01:03 GMT | CORPORATE CRIMINAL LIABILITY IN CYBERSECURITY | Glory Oyewole | [Read More](https://medium.com/p/01892eca964b) |
+| Sat, 21 Feb 2026 05:01:01 GMT | Incident Response & Security | Sarah Nzeshi | [Read More](https://medium.com/p/17705b4f1630) |
+| Sat, 21 Feb 2026 05:01:01 GMT | The Hidden Cost of Words: What Readers Never See About Being a Writer | MJ Creations | [Read More](https://medium.com/p/79b06114cbc7) |
+| Sat, 21 Feb 2026 04:58:25 GMT | PowerShell | Jenishjoel | [Read More](https://medium.com/p/4c8f2ffb26a5) |
+| Sat, 21 Feb 2026 04:58:24 GMT | AI-Powered Cyber Risk Intelligence Platform: Turning Raw Vulnerability Scans into Executive-Level… | Vishal Uttam Mane | [Read More](https://medium.com/p/69b0c7216f1e) |
+| Sat, 21 Feb 2026 04:49:23 GMT | The Ghost in the Commit: RCE in GitHub Actions via Command Injection | Alperen | [Read More](https://medium.com/p/b6f61cb9a813) |
+| Sat, 21 Feb 2026 04:36:02 GMT | Building an Ultra-Sovereign AI Operator | Ehsan | [Read More](https://medium.com/p/cb1c7e31120d) |
+| Sat, 21 Feb 2026 04:35:06 GMT | Hacking Microsoft IIS: From Recon to Advanced Fuzzing | Unknown | [Read More](https://medium.com/p/013989524fe2) |
+| Sat, 21 Feb 2026 04:30:33 GMT | Best Ethical Hacking Course in Trivandrum — Job Oriented Training | Francycthomas | [Read More](https://medium.com/p/8618bc6ee2cb) |
+| Sat, 21 Feb 2026 04:06:04 GMT | How Scammers Use AI Voice Cloning (And Why It’s More Dangerous Than You Think | Faragelzegil | [Read More](https://medium.com/p/8831c4e3131a) |
 | Sat, 21 Feb 2026 03:51:18 GMT | Understanding SIEM: A Practical Look at Security Information and Event Management in Cybersecurity | Ronak Mishra | [Read More](https://medium.com/p/61d295ab572d) |
 | Sat, 21 Feb 2026 03:41:43 GMT | Session Hijacking: How Attackers Steal Active User Sessions | Rithikarao | [Read More](https://medium.com/p/5eb2954444c1) |
 | Sat, 21 Feb 2026 03:41:00 GMT | DNS Security: The Internet’s Phone Book Is Trying to Kill You (and How to Fix It) | Sharon Martin | [Read More](https://medium.com/p/9dab2899dd3e) |
@@ -50,6 +66,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Feb 2026 22:49:36 GMT | INE-Host & Network Penetration Testing: Exploitation CTF 1 by Singkhon | Singkhon K | [Read More](https://medium.com/p/8f2071e7dcfd) |
 | Fri, 20 Feb 2026 22:41:02 GMT | CVE-2025–27520 Walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/83dac998f248) |
 | Fri, 20 Feb 2026 22:19:22 GMT | OAuth: How a Simple Misconfiguration Can Lead to Full Account Take | MUWAFAK HELAL | [Read More](https://medium.com/p/9d95f57f92ce) |
+| Fri, 20 Feb 2026 22:16:05 GMT | How a Broken Access Control + 2 IDOR Chain Allowed Deleting Other Users’ Conversation Participants | D3v!lXØr | [Read More](https://medium.com/p/303ab5aa891d) |
 | Fri, 20 Feb 2026 22:06:42 GMT | INQUISITION -CANCELATION TORQUEMADA AND HITTLER ALIVE ON SOCIAL MEDIA. | Delpino Neto | [Read More](https://medium.com/p/ff5402a48329) |
 | Fri, 20 Feb 2026 22:01:04 GMT | Termux Kurulum Kodları 2026 | Altayaslanberk | [Read More](https://medium.com/p/07fe206e94fc) |
 | Fri, 20 Feb 2026 22:01:01 GMT | Unfiltered Restart — Day 9: Networking Marathon, Part 4 | Maximillian Rueda | [Read More](https://medium.com/p/299ec120f7f5) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Feb 2026 19:25:28 GMT | Write-up Bandit (OverTheWire): Dari 0–20 | Mabrurfebrian | [Read More](https://medium.com/p/507ca816c4a2) |
 | Fri, 20 Feb 2026 19:15:45 GMT | Secure by Design: Building the Foundation, Not the Wallpaper | Aynur Dunyamaliyeva | [Read More](https://medium.com/p/d62c684834f5) |
 | Fri, 20 Feb 2026 19:11:42 GMT | Separation of Duties: Why No One Should Have the “Master Key” | Aynur Dunyamaliyeva | [Read More](https://medium.com/p/8c2a3d091b70) |
-| Fri, 20 Feb 2026 19:11:11 GMT | Incident Response Life Cycle | Ahmad Khaled | [Read More](https://medium.com/p/ae4fbfd7fa47) |
-| Fri, 20 Feb 2026 19:09:35 GMT | What Is Malware? | Nway Nway Zay Ya | [Read More](https://medium.com/p/50172db6ea75) |
-| Fri, 20 Feb 2026 18:55:31 GMT | Cybersecurity Ai | Hakeem | [Read More](https://medium.com/p/4a53103e7b19) |
-| Fri, 20 Feb 2026 18:55:00 GMT | 12+ MUST Know Google Dorking Commands in 2026 | truffles | [Read More](https://medium.com/p/9c8538c313c9) |
-| Fri, 20 Feb 2026 18:53:01 GMT | How I Exposed 1,900+ Partner Records on a Global API via Broken Access Control | hamza | [Read More](https://medium.com/p/d8d12486b9ec) |
-| Fri, 20 Feb 2026 18:48:26 GMT | Eksplorasi Wargame di OverTheWire: Bandit (Level 0–20) | Shabirahkhan | [Read More](https://medium.com/p/438a0f03f140) |
-| Fri, 20 Feb 2026 18:37:57 GMT | Stored Cross-Site Scripting (XSS) in Accounts Manager App Using PHP and MySQL (SourceCodester) | Hemant Raj Bhati | [Read More](https://medium.com/p/ab557de210bb) |
-| Fri, 20 Feb 2026 18:35:03 GMT | Secure Deployment & Hardening of Google Cloud Platform (GCP) Projects — Part VIII | SOCFortress | [Read More](https://medium.com/p/5a3d83000bd3) |
-| Fri, 20 Feb 2026 18:30:08 GMT | Building Enterprise SSO: A Developer’s Guide to OAuth 2.0 and OpenID Connect | Juwan Hollingsworth | [Read More](https://medium.com/p/2e189fd99b20) |
-| Fri, 20 Feb 2026 18:27:43 GMT | Automating Threat Response in Azure with Microsoft Sentinel & SOAR | Amal Udayanga Basnayake | [Read More](https://medium.com/p/a4ef7f1de222) |
-| Fri, 20 Feb 2026 18:26:00 GMT | Hobins Toolbox: M5 Stick | Hobin Rood | [Read More](https://medium.com/p/77552bd8d4aa) |
-| Fri, 20 Feb 2026 18:24:43 GMT | The AI That Refuses to Die | Aditya Srivastav | [Read More](https://medium.com/p/88afb756e9ea) |
-| Fri, 20 Feb 2026 18:19:50 GMT | A Practical Mindset for Aspiring Smart Contract Auditors | Abraham | [Read More](https://medium.com/p/486f4ec71c4f) |
-| Fri, 20 Feb 2026 18:17:43 GMT | Web3 Security Deep Dives: Your Ultimate Guide to Post Mortems, Bug Bounties, and Playbooks | Abraham | [Read More](https://medium.com/p/40e29c4040ec) |
-| Fri, 20 Feb 2026 18:14:21 GMT | Audio Steganography – Audio-Based Payload Delivery | Arda Boğa | [Read More](https://medium.com/p/fda2409296d6) |
-| Fri, 20 Feb 2026 18:01:01 GMT | Ransomware in 2026: What’s Changed and Why It Matters to Your Organization | Dr Kimma Wreh | [Read More](https://medium.com/p/09ca3c8d3bce) |
-| Fri, 20 Feb 2026 18:00:29 GMT | Part 2: The Power of “No”: Understanding the Principle of Least Privilege (PoLP) | Telman Hajibutayev | [Read More](https://medium.com/p/d878c5dd9f5c) |
