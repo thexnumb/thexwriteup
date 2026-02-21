@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Feb 2026 01:52:36 GMT | Aws secrets services (secret manager and parameter store) | Jomar Mirabeles | [Read More](https://medium.com/p/954fba5455a8) |
+| Sat, 21 Feb 2026 01:46:02 GMT | Broken Access Control — Lab #1 | Bahaa Aldeen Nawlo | [Read More](https://medium.com/p/a500995f06e7) |
+| Sat, 21 Feb 2026 01:43:28 GMT | The Chatbot LLM Asymmetry: What Goes In, What Comes Out, and the Iceberg Nobody Talks About | Berend Watchus | [Read More](https://medium.com/p/e6db65b1f366) |
+| Sat, 21 Feb 2026 01:39:18 GMT | IT 01 - Password / Account Lockout | Amrsmooke | [Read More](https://medium.com/p/e9da50691852) |
+| Sat, 21 Feb 2026 00:24:44 GMT | picoCTF — Mini RSA (Low Exponent Attack, Hard) | 3m Mohamed | [Read More](https://medium.com/p/9a5ddbe1df43) |
+| Sat, 21 Feb 2026 00:17:29 GMT | Solving the Systems Maze — Switching J-Link between WSL and Windows | Jayashree Srinivasan | [Read More](https://medium.com/p/786bcf91f9ab) |
+| Sat, 21 Feb 2026 00:11:06 GMT | CyberDefenders: SOC Analyst Tier 1 WebStrike Walkthrough | Rifki Al Ansyari | [Read More](https://medium.com/p/bd5cf5c9af3f) |
+| Sat, 21 Feb 2026 00:07:34 GMT | The 14-Minute Massacre: The First Battle Fought Entirely by AI (And Why No Human Could Stop It) | The Forensic Archive | [Read More](https://medium.com/p/ea66f1080b34) |
+| Sat, 21 Feb 2026 00:03:35 GMT | Network Penetration Testing Fundamentals | Eric Smith | [Read More](https://medium.com/p/e2ffaa870c9a) |
+| Sat, 21 Feb 2026 00:01:03 GMT | Interactsh: Complete Guide to Detecting Blind and OOB Vulnerabilities | JPablo13 | [Read More](https://medium.com/p/e2298949816f) |
 | Fri, 20 Feb 2026 23:23:47 GMT | Keys to IT cost management | Yuri Bravo | [Read More](https://medium.com/p/e3c7e4f679ac) |
 | Fri, 20 Feb 2026 23:19:36 GMT | Common Cybersecurity Interview Questions & Answers | AJ | [Read More](https://medium.com/p/4bda105d1db4) |
 | Fri, 20 Feb 2026 23:18:53 GMT | Creating a Comprehensive Cybersecurity Strategy Document | AJ | [Read More](https://medium.com/p/57d5522c3a93) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Feb 2026 17:07:53 GMT | The Cryptography Concept Journey — X.509 | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/779866dbb568) |
 | Fri, 20 Feb 2026 17:02:56 GMT | What Is the Best Commercial Security Camera System for Business in 2026? | Fortnexs Shield | [Read More](https://medium.com/p/99f09e3a3b37) |
 | Fri, 20 Feb 2026 16:56:25 GMT | Love Letter Locker — A TryHackMe Writeup | 0x77 | [Read More](https://medium.com/p/a5217e396138) |
-| Fri, 20 Feb 2026 16:55:47 GMT | Technical Walkthrough OverTheWire Bandit (Level 0–20): Foundational Linux and Security Concepts | Galih Fajar Fahreza | [Read More](https://medium.com/p/d716d16ac817) |
-| Fri, 20 Feb 2026 16:51:30 GMT | Microsoft Azure in 2026: Why Businesses Are Choosing Azure for Secure and Scalable Cloud Growth | Techridge Solutions | [Read More](https://medium.com/p/0695bfbe3b6a) |
-| Fri, 20 Feb 2026 16:48:20 GMT | What Is IoT? How the Internet of Things Is Quietly Changing Your Everyday Life | Techridge Solutions | [Read More](https://medium.com/p/236bcf387655) |
-| Fri, 20 Feb 2026 16:46:55 GMT | OverTheWire Bandit Levels 0–20 Walkthrough | Lovindfirdaus | [Read More](https://medium.com/p/6618e2f1a525) |
-| Fri, 20 Feb 2026 16:45:17 GMT | AI-Driven DevOps: Automated Ubuntu Security Patching Without Downtime | Ark Protocol | [Read More](https://medium.com/p/358e7f99597f) |
-| Fri, 20 Feb 2026 16:44:43 GMT | Cybersecurity Foundations Part 4: Building the Fortress from the Blueprint — Secure by Design | Elmir | [Read More](https://medium.com/p/b0a72f5d744a) |
-| Fri, 20 Feb 2026 16:42:51 GMT | “Your Cloud Isn’t Hacked. It’s Just Exposed.” | HackTrace | [Read More](https://medium.com/p/45b70b60a06a) |
-| Fri, 20 Feb 2026 16:41:03 GMT | Seperation of Duties | Nurmammadov Sabuhi | [Read More](https://medium.com/p/329412c04afc) |
-| Fri, 20 Feb 2026 16:40:24 GMT | Cybersecurity Foundations Part 3: Trust, but Verify — The Power of Separation of Duties (SoD) | Elmir | [Read More](https://medium.com/p/976e7885460f) |
-| Fri, 20 Feb 2026 16:38:13 GMT | Password Managers Promise Security. Swiss Researchers Just Challenged That Assumption. | SoBatista | [Read More](https://medium.com/p/9e0c984701a4) |
