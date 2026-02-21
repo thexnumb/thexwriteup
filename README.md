@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Feb 2026 15:12:26 GMT | Japon devi Advantest’in Ransomware Mücadelesi | Kaan Özyazıcı | [Read More](https://medium.com/p/8f07dfa38bd9) |
+| Sat, 21 Feb 2026 15:10:04 GMT | . | Souravmookherjee | [Read More](https://medium.com/p/1a7189396cff) |
+| Sat, 21 Feb 2026 15:06:35 GMT | Breaking into Cyber: The Student’s Survival Kit | Shruti Ingale | [Read More](https://medium.com/p/6ba8cf8184ce) |
+| Sat, 21 Feb 2026 15:04:35 GMT | Why Most Aspiring Penetration Testers Never Get Hired | Hania Khan | [Read More](https://medium.com/p/4842aae2acc8) |
+| Sat, 21 Feb 2026 14:57:39 GMT | AI and Facial Recognition in Public Security: Lessons from Real-World Deployments | Daniel Possebon Bargas | [Read More](https://medium.com/p/ba87b066392a) |
+| Sat, 21 Feb 2026 14:56:48 GMT | Why TryHackMe’s CyberSecurity 101 (SEC1) Builds More REAL Skill Than Multiple‑Choice Exams | Shimalka Yohan | [Read More](https://medium.com/p/2f053c35c011) |
 | Sat, 21 Feb 2026 14:47:36 GMT | AI Innovation or Market Disruption? | D09r | [Read More](https://medium.com/p/fffe41cb2eb1) |
 | Sat, 21 Feb 2026 14:34:32 GMT | From Open Ports to Remote Shell: What a Simple Nmap Scan Revealed About Real-World Risk | Rachana Appani | [Read More](https://medium.com/p/28800a71135d) |
 | Sat, 21 Feb 2026 14:33:57 GMT | HTB CDSA (2025): What It Really Takes to Pass the Certified Defensive Security Analyst Exam | Farouq Nader Farouq Hassan | [Read More](https://medium.com/p/5215213392cc) |
@@ -95,6 +101,7 @@ As decentralized finance… | ray_5541 | [Read More](https://medium.com/p/3994c1
 | Sat, 21 Feb 2026 09:19:06 GMT | Fraud and the Rise of GenAI and Agentic AI | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/343a6f511372) |
 | Sat, 21 Feb 2026 09:18:58 GMT | DNS (Domain Name System) | Songül Kızılay Özügürler | [Read More](https://medium.com/p/37515fbbeed0) |
 | Sat, 21 Feb 2026 09:15:46 GMT | being a hacker how i took a job of developer | Kishwordulal | [Read More](https://medium.com/p/67fe20d1139c) |
+| Sat, 21 Feb 2026 09:12:51 GMT | Pentingnya Database (Basis Data) | Faros | [Read More](https://medium.com/p/337e2aa69e33) |
 | Sat, 21 Feb 2026 09:10:25 GMT | How CAD → INR Transfers Work with Siliveru Exchange (Simple Step-By-Step) | Siliveru Exchange Inc | [Read More](https://medium.com/p/c2dd6a670c46) |
 | Sat, 21 Feb 2026 09:09:28 GMT | Cyber Security Course in Kochi | Fasalinternship | [Read More](https://medium.com/p/a94f74a86f36) |
 | Sat, 21 Feb 2026 09:03:32 GMT | Avoid breaking changes in Azure Key Vault — Adopting API Version 2026–02–01 and preparing for an… | Miguel Arcilla | [Read More](https://medium.com/p/59f48dfa7715) |
@@ -107,10 +114,3 @@ As decentralized finance… | ray_5541 | [Read More](https://medium.com/p/3994c1
 | Sat, 21 Feb 2026 08:08:26 GMT | Best AI Course Online with Certificate for Beginners | cyber security Updates | [Read More](https://medium.com/p/1c875cf41f7c) |
 | Sat, 21 Feb 2026 08:07:24 GMT | M | Manish Dahal | [Read More](https://medium.com/p/b6235011d1f8) |
 | Sat, 21 Feb 2026 08:04:38 GMT | Why Infrastructure Sovereignty is the Only Hedge Against 2026 Regulatory Volatility | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/2df5cb6077c5) |
-| Sat, 21 Feb 2026 08:01:01 GMT | When Falling Teaches You Who You Are | Versouls | [Read More](https://medium.com/p/1cfae26d547b) |
-| Sat, 21 Feb 2026 08:00:46 GMT | Phishing-as-a-Service PhaaS: Cybercrime Has Gone Subscription Based | Iqra baba | [Read More](https://medium.com/p/149f0165fce5) |
-| Sat, 21 Feb 2026 07:56:22 GMT | Exploiting clickjacking vulnerability to trigger DOM-based XSS | Ⓥ | [Read More](https://medium.com/p/831f04267099) |
-| Sat, 21 Feb 2026 07:55:38 GMT | Clickjacking with a frame buster script | Ⓥ | [Read More](https://medium.com/p/146475132924) |
-| Sat, 21 Feb 2026 07:45:05 GMT | Two Weeks In: What I’ve Learned About Security, Attack Surfaces, and Thinking Like an Attacker | Gift Afortu | [Read More](https://medium.com/p/38e896b807ec) |
-| Sat, 21 Feb 2026 07:32:49 GMT | NEW Apple AI Wearables “LEAKED” AI Glasses, AI Pin & AI AirPods | Jake ◉_◉ Vale | [Read More](https://medium.com/p/518b5a7a6e06) |
-| Sat, 21 Feb 2026 07:32:36 GMT | They hacked CSS: Google Chrome zero-day vulnerability. | Usman Writes | [Read More](https://medium.com/p/6e64b3b26517) |
