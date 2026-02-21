@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Feb 2026 21:35:51 GMT | Security Through Obscurity: Does Hiding Really Mean Protecting? | Kamalatluxanov | [Read More](https://medium.com/p/6bb657df4826) |
+| Sat, 21 Feb 2026 21:31:14 GMT | Ottergram writeup (LFI) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/1e4fa8795e24) |
+| Sat, 21 Feb 2026 21:29:58 GMT | INE-Host & Network Penetration Testing: Exploitation CTF 2 by Sinkhon | Singkhon K | [Read More](https://medium.com/p/870dd6c95b5a) |
 | Sat, 21 Feb 2026 21:20:59 GMT | Defense in Depth | Ali Shukurov | [Read More](https://medium.com/p/55661ed2e43f) |
 | Sat, 21 Feb 2026 21:16:32 GMT | Security Assumptions & Risk Disclosure for BTC-Integrated DeFi | ValoraBTC | [Read More](https://medium.com/p/7733da182aeb) |
 | Sat, 21 Feb 2026 21:14:35 GMT | --- | Slmanyzhyr | [Read More](https://medium.com/p/8c58328cb2d5) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Feb 2026 14:24:31 GMT | How These CRTA Notes Helped Me Pass the Certified Red Team Analyst Exam With Confidence | James Whitmore | [Read More](https://medium.com/p/38a2a31ad696) |
 | Sat, 21 Feb 2026 14:23:21 GMT | JavaScript security risks + practical code solutions seekhoge. | Lucky Pal | [Read More](https://medium.com/p/1dad4be3faf8) |
 | Sat, 21 Feb 2026 14:18:17 GMT | When AI Creates Passwords: Convenience Turning Into a Security Risk | Jas | [Read More](https://medium.com/p/05c3adeac8e1) |
-| Sat, 21 Feb 2026 14:15:57 GMT | Enter the Hidden World of Compliance Quality Assurance (CQA) in Video Games | Van Emerson Francisco | [Read More](https://medium.com/p/5f936fb52f84) |
-| Sat, 21 Feb 2026 14:15:27 GMT | What is the CIA Triad? A Beginner’s Guide to Information Security | Mahdi | [Read More](https://medium.com/p/51217dadd508) |
-| Sat, 21 Feb 2026 14:10:19 GMT | William Binney: The NSA Cryptographer Who Built the Perfect Surveillance System Then Watched Them… | Abel | [Read More](https://medium.com/p/0f90dba3ac20) |
