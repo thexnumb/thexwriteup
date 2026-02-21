@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Feb 2026 20:38:16 GMT | LLMs Need Guardrails, Not Free Rein | Zackary Troop | [Read More](https://medium.com/p/b5e34b8ab667) |
+| Sat, 21 Feb 2026 20:27:36 GMT | How Five African-American Innovators Are Redefining Adaptive Leadership | Lisa M. Higginbotham | [Read More](https://medium.com/p/5083e9180f50) |
+| Sat, 21 Feb 2026 20:26:12 GMT | Microsoft Teams: Enhanced Messaging Safety Features Activated by Default | Ryan Adams | [Read More](https://medium.com/p/d82e5a5b9ffd) |
 | Sat, 21 Feb 2026 20:17:33 GMT | Day 16: Windows Event Logs | Siddhesh Patil | [Read More](https://medium.com/p/55208bdf360d) |
 | Sat, 21 Feb 2026 20:14:29 GMT | Shifting Left Security: The Power of Threat Modeling Before the AWS Landing Zone | Kandasamyarulkumar | [Read More](https://medium.com/p/5ab8245f4f4a) |
 | Sat, 21 Feb 2026 20:12:46 GMT | Is a Data Breach a Sign of Weakness? | Ilderlandio Teixeira | [Read More](https://medium.com/p/6d3e3cbbe2d8) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Feb 2026 13:53:02 GMT | SOC Chronicles: Episode 3 (Malware Download and Incident Response Plan) | Abdul Moeez Siddiqui | [Read More](https://medium.com/p/564276cc3252) |
 | Sat, 21 Feb 2026 13:48:19 GMT | CEH — EC-Council | Basmala Yasser | [Read More](https://medium.com/p/445807b67c53) |
 | Sat, 21 Feb 2026 13:46:27 GMT | DevSecOps Fundamentals: Shifting Security Left Across the DevOps Lifecycle | Adityakadambari | [Read More](https://medium.com/p/506080fafaf7) |
-| Sat, 21 Feb 2026 13:46:17 GMT | İNSANLARI HACKLEMEK: SOSYAL MÜHENDİSLİK NEDEN KOD YAZMAKTAN DAHA TEHLİKELİ? | Enes Deniz | [Read More](https://medium.com/p/d327e75d0c72) |
-| Sat, 21 Feb 2026 13:45:15 GMT | Everything You Need to Know About the Dark Web ! | Cyber Sudarshan | [Read More](https://medium.com/p/b7fd888acbc0) |
-| Sat, 21 Feb 2026 13:34:39 GMT | HackTheBox Sherlock: Advent of The Relics 1 — A Call from the Museum | Dixtroiza | [Read More](https://medium.com/p/ab314cccb1bb) |
