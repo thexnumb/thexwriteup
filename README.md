@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Feb 2026 10:54:10 GMT | Hack Apps While You Browse!!! | cybrNK | [Read More](https://medium.com/p/105dc85037da) |
+| Sat, 21 Feb 2026 10:52:05 GMT | PDF Security Best Practices for Businesses | Pdfsconverter | [Read More](https://medium.com/p/549ea53f1eb8) |
+| Sat, 21 Feb 2026 10:51:06 GMT | How I discovered CVE-2026–27147 — Stored XSS - Cyber Tamarin | Cyber Tamarin | [Read More](https://medium.com/p/c5ff993a3062) |
+| Sat, 21 Feb 2026 10:46:48 GMT | When Password Reset Fails: Account Takeover via User Enumeration ($3,000–$7,000) | Abin | [Read More](https://medium.com/p/9edaa0d21d1b) |
+| Sat, 21 Feb 2026 10:43:43 GMT | How AI Expands Markets Instead of Shrinking Workforces | Vijay Kumar Gupta | [Read More](https://medium.com/p/3097f77b0c10) |
+| Sat, 21 Feb 2026 10:42:56 GMT | Dedicated IP VPN in 2026: The Smarter Choice for Secure Server Access & Stable Infrastructure | Whwebhosting | [Read More](https://medium.com/p/c6448efdb8dd) |
+| Sat, 21 Feb 2026 10:39:50 GMT | Solving a Bugforge Challenge — Exploiting Race Conditions in Shady Oaks Financial | Pranaya Shrestha | [Read More](https://medium.com/p/b173e8bbdb58) |
+| Sat, 21 Feb 2026 10:29:30 GMT | Dijital Kalenin Unutulan Arka Kapısı: IoT Cihazlarında JTAG ve UART Tehlikesi | Ahmet Delialioğlu | [Read More](https://medium.com/p/72d62e50a086) |
 | Sat, 21 Feb 2026 10:19:54 GMT | The Encryption Apocalypse Is Coming: Why Your RSA Keys Are Living on Borrowed Time | Joao Silva | [Read More](https://medium.com/p/0ff987d1ae65) |
 | Sat, 21 Feb 2026 10:09:12 GMT | Best Institute for Artificial Intelligence in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/abb256d0f184) |
 | Sat, 21 Feb 2026 10:08:18 GMT | Flesh: Building a Multi-Session Reverse Shell Handler in Python | Vaibhav | [Read More](https://medium.com/p/5637f2fd8458) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Feb 2026 03:41:43 GMT | Session Hijacking: How Attackers Steal Active User Sessions | Rithikarao | [Read More](https://medium.com/p/5eb2954444c1) |
 | Sat, 21 Feb 2026 03:41:00 GMT | DNS Security: The Internet’s Phone Book Is Trying to Kill You (and How to Fix It) | Sharon Martin | [Read More](https://medium.com/p/9dab2899dd3e) |
 | Sat, 21 Feb 2026 03:25:27 GMT | Metasploitable 2 Security Assessment: Five Practical Exploitation Scenarios | شاہ میر عمران مغل | [Read More](https://medium.com/p/54e548412e7a) |
-| Sat, 21 Feb 2026 03:25:15 GMT | Why CompTIA Security+ Is More Than Just a Multiple-Choice Certification | bountyhunter | [Read More](https://medium.com/p/49638ac81424) |
-| Sat, 21 Feb 2026 03:16:11 GMT | From Business to Blue Team: Rewiring the Mind for Cybersecurity | bountyhunter | [Read More](https://medium.com/p/4c0a26cd4950) |
-| Sat, 21 Feb 2026 02:58:12 GMT | Start Before the Breach | TonyShala | [Read More](https://medium.com/p/664308d3fef0) |
-| Sat, 21 Feb 2026 02:56:29 GMT | Breaking RSA When One Prime Is Known | 3m Mohamed | [Read More](https://medium.com/p/0cc9cd8ecbeb) |
-| Sat, 21 Feb 2026 02:54:29 GMT | 8 Security Checks Every Python Web App Should Have | Rizqi Mulki | [Read More](https://medium.com/p/40cd6579311b) |
-| Sat, 21 Feb 2026 02:54:13 GMT | How to Detect a Malicious App on Linux | bektiaw | [Read More](https://medium.com/p/25566da9abe0) |
-| Sat, 21 Feb 2026 02:47:48 GMT | Watching Heated Rivalry Cracked Me Open | Tammyh_writes | [Read More](https://medium.com/p/dc49e08850cf) |
-| Sat, 21 Feb 2026 02:44:52 GMT | The Unsafe Send: How an HTTP Client Library Led to Remote Code Execution | Alperen | [Read More](https://medium.com/p/5aa1c89206c5) |
