@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Feb 2026 13:34:39 GMT | HackTheBox Sherlock: Advent of The Relics 1 — A Call from the Museum | Dixtroiza | [Read More](https://medium.com/p/ab314cccb1bb) |
+| Sat, 21 Feb 2026 13:18:46 GMT | Building a Threat Intelligence Platform for Philippine companies | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/a842853082d4) |
+| Sat, 21 Feb 2026 13:16:11 GMT | Gen 2 vs Gen 3 Night Vision Devices: Is the PVS-14 Worth the Upgrade? | Night Vision 4 Less | [Read More](https://medium.com/p/b821a16856f2) |
+| Sat, 21 Feb 2026 13:14:05 GMT | Inside CVE-2026–21509 — How a Microsoft Word Zero-Day Turned Into an Active Espionage Campaign | Himalayanvajratech | [Read More](https://medium.com/p/28b35142d1f7) |
+| Sat, 21 Feb 2026 13:08:25 GMT | Teleport Alternative? Meet BAMF — An Open Source Jump Host for SSH, Databases, and Compliance | Rio Wiraldhani | [Read More](https://medium.com/p/762c89f91d6b) |
+| Sat, 21 Feb 2026 13:05:38 GMT | The CIA Triad: The Three Pillars of Digital Security (And Where We Often Go Wrong) | Rela Lumbini | [Read More](https://medium.com/p/ff1423b7e952) |
+| Sat, 21 Feb 2026 13:02:17 GMT | The Exhaustion of the Silent Protector: Why Your Body is Tired of Being “Strong”✨ | Prachi Chauhan | [Read More](https://medium.com/p/533bf403047b) |
+| Sat, 21 Feb 2026 12:54:45 GMT | CVE-2025–32711 | Anurag Tiwari | [Read More](https://medium.com/p/2b962d367b4f) |
+| Sat, 21 Feb 2026 12:54:28 GMT | How SIEM Detection Rules Work (Beginner Guide + Mini CTF) | Tvmgouder | [Read More](https://medium.com/p/54ef4b486cef) |
 | Sat, 21 Feb 2026 12:49:01 GMT | sar walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/968e68d3ab55) |
 | Sat, 21 Feb 2026 12:47:00 GMT | --The Architecture of Alpha: Decoding the Concrete Vault Ecosystem--
 As decentralized finance… | ray_5541 | [Read More](https://medium.com/p/3994c131417f) |
@@ -105,12 +114,3 @@ As decentralized finance… | ray_5541 | [Read More](https://medium.com/p/3994c1
 | Sat, 21 Feb 2026 06:54:09 GMT | Day 7 of PortSwigger Academy Lab Walkthrough: Authentication & WebSockets | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/0707c2ba8574) |
 | Sat, 21 Feb 2026 06:51:06 GMT | Cybersecurity and Emerging Risks in Accounting | Prabin Premkumar | [Read More](https://medium.com/p/2c40e2214839) |
 | Sat, 21 Feb 2026 06:46:00 GMT | What Happens When You Type google.com in Your Browser? | Akashbisht | [Read More](https://medium.com/p/23e1abbb5a65) |
-| Sat, 21 Feb 2026 06:42:39 GMT | QR Code Phishing Payload Engineering: A Modern Red Team Initial Access Vector | Cynox Security LLP. | [Read More](https://medium.com/p/d19c617234aa) |
-| Sat, 21 Feb 2026 06:40:12 GMT | How to Start a Career in Cyber Security in 2026: A Beginner’s Roadmap | logging security | [Read More](https://medium.com/p/d29b1168608d) |
-| Sat, 21 Feb 2026 06:36:48 GMT | Cybersecurity in the Age of Remote Work: Risks and Best Practices | Hamza Naveed Mohammed | [Read More](https://medium.com/p/31eea9f655ff) |
-| Sat, 21 Feb 2026 06:36:04 GMT | Anthropic pointed AI at well-reviewed code. It found 500 bugs. | JP Caparas | [Read More](https://medium.com/p/971a01f75c96) |
-| Sat, 21 Feb 2026 06:20:45 GMT | RingZeroCTF Coding Challenge 8 [‘Execute Me If You Can’] Writeup | Devansh Patel | [Read More](https://medium.com/p/9b0c9ad3df9c) |
-| Sat, 21 Feb 2026 06:17:47 GMT | From Zero to Recon Hero: 15 Free Pentesting Tools That Feel Like Cheat Codes | pavani | [Read More](https://medium.com/p/2d137f3e1152) |
-| Sat, 21 Feb 2026 06:02:25 GMT | Telegram BOT OSINT using FOFA Dorking | Abhirup Konwar | [Read More](https://medium.com/p/298cb156c21b) |
-| Sat, 21 Feb 2026 05:53:44 GMT | Step into the World of Premium Tech Careers! | Molletibalu | [Read More](https://medium.com/p/68256f6f7e35) |
-| Sat, 21 Feb 2026 05:41:50 GMT | OverTheWire Bandit | DIKAFPS | [Read More](https://medium.com/p/37540a867396) |
