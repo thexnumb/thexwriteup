@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Feb 2026 21:20:59 GMT | Defense in Depth | Ali Shukurov | [Read More](https://medium.com/p/55661ed2e43f) |
+| Sat, 21 Feb 2026 21:16:32 GMT | Security Assumptions & Risk Disclosure for BTC-Integrated DeFi | ValoraBTC | [Read More](https://medium.com/p/7733da182aeb) |
+| Sat, 21 Feb 2026 21:14:35 GMT | --- | Slmanyzhyr | [Read More](https://medium.com/p/8c58328cb2d5) |
+| Sat, 21 Feb 2026 20:52:40 GMT | Synthesizing Security Concepts: Building a Cohesive Strategy | us3rgnv | [Read More](https://medium.com/p/8d812204f028) |
+| Sat, 21 Feb 2026 20:47:45 GMT | Security Through Obscurity | us3rgnv | [Read More](https://medium.com/p/31524bef5972) |
+| Sat, 21 Feb 2026 20:46:55 GMT | Shady Oaks Financial writeup(Race Condition) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/9567ad1251ed) |
 | Sat, 21 Feb 2026 20:38:16 GMT | LLMs Need Guardrails, Not Free Rein | Zackary Troop | [Read More](https://medium.com/p/b5e34b8ab667) |
 | Sat, 21 Feb 2026 20:27:36 GMT | How Five African-American Innovators Are Redefining Adaptive Leadership | Lisa M. Higginbotham | [Read More](https://medium.com/p/5083e9180f50) |
 | Sat, 21 Feb 2026 20:26:12 GMT | Microsoft Teams: Enhanced Messaging Safety Features Activated by Default | Ryan Adams | [Read More](https://medium.com/p/d82e5a5b9ffd) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Feb 2026 14:15:57 GMT | Enter the Hidden World of Compliance Quality Assurance (CQA) in Video Games | Van Emerson Francisco | [Read More](https://medium.com/p/5f936fb52f84) |
 | Sat, 21 Feb 2026 14:15:27 GMT | What is the CIA Triad? A Beginner’s Guide to Information Security | Mahdi | [Read More](https://medium.com/p/51217dadd508) |
 | Sat, 21 Feb 2026 14:10:19 GMT | William Binney: The NSA Cryptographer Who Built the Perfect Surveillance System Then Watched Them… | Abel | [Read More](https://medium.com/p/0f90dba3ac20) |
-| Sat, 21 Feb 2026 14:06:37 GMT | Being inhospitable: the socio-economic dilemma in the age of AI | Ashesh Devnath | [Read More](https://medium.com/p/07b4206e82ad) |
-| Sat, 21 Feb 2026 14:03:52 GMT | Cyber Champions CTF 2026- Reverse Engineering Challenges writeup | Ahmedm Mohamed | [Read More](https://medium.com/p/d20216148fea) |
-| Sat, 21 Feb 2026 14:01:01 GMT | Threat Hunting with CTI — LetsDefend [Part 1] | 0verRida | [Read More](https://medium.com/p/d97eedf85028) |
-| Sat, 21 Feb 2026 13:53:02 GMT | SOC Chronicles: Episode 3 (Malware Download and Incident Response Plan) | Abdul Moeez Siddiqui | [Read More](https://medium.com/p/564276cc3252) |
-| Sat, 21 Feb 2026 13:48:19 GMT | CEH — EC-Council | Basmala Yasser | [Read More](https://medium.com/p/445807b67c53) |
-| Sat, 21 Feb 2026 13:46:27 GMT | DevSecOps Fundamentals: Shifting Security Left Across the DevOps Lifecycle | Adityakadambari | [Read More](https://medium.com/p/506080fafaf7) |
