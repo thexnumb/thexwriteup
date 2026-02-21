@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Feb 2026 15:38:40 GMT | Sometimes, Crying Over the Smallest Thing Is the Only Way to Cry for Yourself | Nova Reyes | [Read More](https://medium.com/p/d7083da2d17e) |
+| Sat, 21 Feb 2026 15:29:47 GMT | Defense in Depth: The Foundation of Modern Cybersecurity | Huseyn | [Read More](https://medium.com/p/82addcc83878) |
+| Sat, 21 Feb 2026 15:29:44 GMT | Stop Email Downgrade Attacks: A Practical Guide to MTA-STS | Narong K. | [Read More](https://medium.com/p/7bdbced1ea6c) |
+| Sat, 21 Feb 2026 15:27:30 GMT | Does VPN Location Matter in Bug Bounty? How to Know If Your IP Is “Burned” (And How to Fix It) | ghostyjoe | [Read More](https://medium.com/p/901999cad480) |
 | Sat, 21 Feb 2026 15:12:26 GMT | Japon devi Advantest’in Ransomware Mücadelesi | Kaan Özyazıcı | [Read More](https://medium.com/p/8f07dfa38bd9) |
 | Sat, 21 Feb 2026 15:10:04 GMT | . | Souravmookherjee | [Read More](https://medium.com/p/1a7189396cff) |
 | Sat, 21 Feb 2026 15:06:35 GMT | Breaking into Cyber: The Student’s Survival Kit | Shruti Ingale | [Read More](https://medium.com/p/6ba8cf8184ce) |
@@ -110,7 +114,3 @@ As decentralized finance… | ray_5541 | [Read More](https://medium.com/p/3994c1
 | Sat, 21 Feb 2026 08:51:35 GMT | Ethical Hacking Course in Trivandrum — Start Your Cybersecurity Career | Francycthomas | [Read More](https://medium.com/p/680adf0c8860) |
 | Sat, 21 Feb 2026 08:51:09 GMT | The Real Cost of On-Premise IT vs Cloud Hosting for Tax and Accounting Firms | Oneupnetworks | [Read More](https://medium.com/p/0adae85bddab) |
 | Sat, 21 Feb 2026 08:30:48 GMT | Cyber Security Is Not a Program — It’s a Governance Problem | Amin Manji | [Read More](https://medium.com/p/f381cf145234) |
-| Sat, 21 Feb 2026 08:16:29 GMT | The Best Web Design & Development Company in Nepal | Rahulchh | [Read More](https://medium.com/p/4ac7b1d58880) |
-| Sat, 21 Feb 2026 08:08:26 GMT | Best AI Course Online with Certificate for Beginners | cyber security Updates | [Read More](https://medium.com/p/1c875cf41f7c) |
-| Sat, 21 Feb 2026 08:07:24 GMT | M | Manish Dahal | [Read More](https://medium.com/p/b6235011d1f8) |
-| Sat, 21 Feb 2026 08:04:38 GMT | Why Infrastructure Sovereignty is the Only Hedge Against 2026 Regulatory Volatility | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/2df5cb6077c5) |
