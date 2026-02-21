@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Feb 2026 18:16:00 GMT | Access Control Checkup: A One-Hour Review That Catches Real Bug | Exploitless | [Read More](https://medium.com/p/fd715957b3b3) |
+| Sat, 21 Feb 2026 18:14:20 GMT | How I Discovered a CSRF Vulnerability in a CV Update Feature | montaser mohsen | [Read More](https://medium.com/p/b3b83680ee11) |
+| Sat, 21 Feb 2026 17:57:13 GMT | Information Gathering & Ecosystem Analysis on web applications | Diva Rizky Alfitrah | [Read More](https://medium.com/p/88e006228f5d) |
+| Sat, 21 Feb 2026 17:56:38 GMT | You made $10k from a finding .. so what | Pablo Vergara | [Read More](https://medium.com/p/da63f72b5494) |
+| Sat, 21 Feb 2026 17:55:23 GMT | The End of Annual SSL Certificates: How the 47-Day Limit Is Reshaping Cybersecurity | Vikrant Pande | [Read More](https://medium.com/p/3836c43af6ff) |
+| Sat, 21 Feb 2026 17:48:18 GMT | The Gmail PhaaS Playbook: Anatomy of a Repeat Offender | Dean | [Read More](https://medium.com/p/083c3a08d85f) |
 | Sat, 21 Feb 2026 17:45:11 GMT | I Broke Into a Database With (1=1). | SRCK | [Read More](https://medium.com/p/88f68af0ef5c) |
+| Sat, 21 Feb 2026 17:44:23 GMT | What Your IP Address Reveals About Your Location: A Deep Dive for North American Users | Jake Smith | [Read More](https://medium.com/p/841b1997f99e) |
 | Sat, 21 Feb 2026 17:38:36 GMT | Privacy vs. Transparency Paradox: Is India Quietly Weakening the Right to Information? | Pranjal | [Read More](https://medium.com/p/ea639a004340) |
 | Sat, 21 Feb 2026 17:30:01 GMT | Privacy architecture — Pocket Brain tells no tales, the nine spheres of sovereign cognition — 1/2 | Sami Belhadj | [Read More](https://medium.com/p/8633e34520c2) |
 | Sat, 21 Feb 2026 17:28:04 GMT | Never Use Your Mobile Number for Authentication Codes: The Safer Alternative is CallnFax… | Callnfax | [Read More](https://medium.com/p/79aa10fccc7e) |
@@ -107,10 +114,3 @@ As decentralized finance… | ray_5541 | [Read More](https://medium.com/p/3994c1
 | Sat, 21 Feb 2026 11:00:01 GMT | Smart Crypto Wallets: Integrating AI for Security and Smarter Transactions | Xeer Technology | [Read More](https://medium.com/p/91fa7be5f7f0) |
 | Sat, 21 Feb 2026 10:56:25 GMT | ISO 27001 Is Not a Certificate. It’s a Maturity Test. | Fintech By Tanu | [Read More](https://medium.com/p/9b0f8513232a) |
 | Sat, 21 Feb 2026 10:54:10 GMT | Hack Apps While You Browse!!! | cybrNK | [Read More](https://medium.com/p/105dc85037da) |
-| Sat, 21 Feb 2026 10:53:37 GMT | Is Your Business Ready for the Next Cyber Attack? | Deepa | [Read More](https://medium.com/p/0a3fa457ac05) |
-| Sat, 21 Feb 2026 10:52:05 GMT | PDF Security Best Practices for Businesses | Pdfsconverter | [Read More](https://medium.com/p/549ea53f1eb8) |
-| Sat, 21 Feb 2026 10:51:06 GMT | How I discovered CVE-2026–27147 — Stored XSS - Cyber Tamarin | Cyber Tamarin | [Read More](https://medium.com/p/c5ff993a3062) |
-| Sat, 21 Feb 2026 10:46:48 GMT | When Password Reset Fails: Account Takeover via User Enumeration ($3,000–$7,000) | Abin | [Read More](https://medium.com/p/9edaa0d21d1b) |
-| Sat, 21 Feb 2026 10:43:43 GMT | How AI Expands Markets Instead of Shrinking Workforces | Vijay Kumar Gupta | [Read More](https://medium.com/p/3097f77b0c10) |
-| Sat, 21 Feb 2026 10:42:56 GMT | Dedicated IP VPN in 2026: The Smarter Choice for Secure Server Access & Stable Infrastructure | Whwebhosting | [Read More](https://medium.com/p/c6448efdb8dd) |
-| Sat, 21 Feb 2026 10:39:50 GMT | Solving a Bugforge Challenge — Exploiting Race Conditions in Shady Oaks Financial | Pranaya Shrestha | [Read More](https://medium.com/p/b173e8bbdb58) |
