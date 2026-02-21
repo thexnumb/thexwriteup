@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Feb 2026 07:06:27 GMT | How to Become a Top Bug Bounty Hunter in 2026 | Krishna Kumar | [Read More](https://medium.com/p/e34d6bc15f56) |
+| Sat, 21 Feb 2026 07:05:20 GMT | Are Biometrics Truly Unhackable | O. J. Okpabi | [Read More](https://medium.com/p/1f947835a80f) |
+| Sat, 21 Feb 2026 07:03:25 GMT | Secure by Design | Nurmammadov Sabuhi | [Read More](https://medium.com/p/0ec430663a31) |
+| Sat, 21 Feb 2026 07:02:45 GMT | How a Security Guards Company in Singapore Adapts to Changing Security Risks | Jane Tang | [Read More](https://medium.com/p/6886d3bcdc85) |
+| Sat, 21 Feb 2026 07:00:03 GMT | Endpoint Intrusion Simulation and Detection (Splunk SIEM, Sysmon, Metasploit) | Nate Sharpley | [Read More](https://medium.com/p/49715ff40764) |
+| Sat, 21 Feb 2026 06:56:06 GMT | How to Secure Your Domain with CAA DNS Records on AWS Route 53 | Narong K. | [Read More](https://medium.com/p/c0fece4e9bfa) |
+| Sat, 21 Feb 2026 06:54:09 GMT | Day 7 of PortSwigger Academy Lab Walkthrough: Authentication & WebSockets | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/0707c2ba8574) |
+| Sat, 21 Feb 2026 06:51:06 GMT | Cybersecurity and Emerging Risks in Accounting | Prabin Premkumar | [Read More](https://medium.com/p/2c40e2214839) |
+| Sat, 21 Feb 2026 06:46:00 GMT | What Happens When You Type google.com in Your Browser? | Akashbisht | [Read More](https://medium.com/p/23e1abbb5a65) |
+| Sat, 21 Feb 2026 06:42:39 GMT | QR Code Phishing Payload Engineering: A Modern Red Team Initial Access Vector | Cynox Security LLP. | [Read More](https://medium.com/p/d19c617234aa) |
+| Sat, 21 Feb 2026 06:40:12 GMT | How to Start a Career in Cyber Security in 2026: A Beginner’s Roadmap | logging security | [Read More](https://medium.com/p/d29b1168608d) |
+| Sat, 21 Feb 2026 06:36:48 GMT | Cybersecurity in the Age of Remote Work: Risks and Best Practices | Hamza Naveed Mohammed | [Read More](https://medium.com/p/31eea9f655ff) |
+| Sat, 21 Feb 2026 06:36:04 GMT | Anthropic pointed AI at well-reviewed code. It found 500 bugs. | JP Caparas | [Read More](https://medium.com/p/971a01f75c96) |
+| Sat, 21 Feb 2026 06:20:45 GMT | RingZeroCTF Coding Challenge 8 [‘Execute Me If You Can’] Writeup | Devansh Patel | [Read More](https://medium.com/p/9b0c9ad3df9c) |
+| Sat, 21 Feb 2026 06:17:47 GMT | From Zero to Recon Hero: 15 Free Pentesting Tools That Feel Like Cheat Codes | pavani | [Read More](https://medium.com/p/2d137f3e1152) |
+| Sat, 21 Feb 2026 06:02:25 GMT | Telegram BOT OSINT using FOFA Dorking | Abhirup Konwar | [Read More](https://medium.com/p/298cb156c21b) |
 | Sat, 21 Feb 2026 05:53:44 GMT | Step into the World of Premium Tech Careers! | Molletibalu | [Read More](https://medium.com/p/68256f6f7e35) |
 | Sat, 21 Feb 2026 05:41:50 GMT | OverTheWire Bandit | DIKAFPS | [Read More](https://medium.com/p/37540a867396) |
 | Sat, 21 Feb 2026 05:34:38 GMT | Understanding the OSI Model and Subnetting: Foundations of My Network Engineering Journey | Francis Obeng-Mensah | [Read More](https://medium.com/p/a75b0054abbf) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Feb 2026 20:30:29 GMT | Secure Query Practices in Ruby on Rails | Muhammad Bin Hussain | [Read More](https://medium.com/p/5fa7bcb01c72) |
 | Fri, 20 Feb 2026 20:27:16 GMT | AI Governance Is the New SOX Moment | Rafat Yazdani | [Read More](https://medium.com/p/1c0ff6b85cf4) |
 | Fri, 20 Feb 2026 20:24:48 GMT | Breaking Down My First eJPT Attempt: Mistakes and Lessons | Hemanth Mouli.ch | [Read More](https://medium.com/p/cd6dd19fe560) |
-| Fri, 20 Feb 2026 20:23:52 GMT | Python: Simple Demo (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/1bfb6e51da2e) |
-| Fri, 20 Feb 2026 20:23:42 GMT | Why Least Privilege for Agentic Automation Fails Without Centralized Automation Control | Frank Kresse | [Read More](https://medium.com/p/63b6fb71f76a) |
-| Fri, 20 Feb 2026 20:23:33 GMT | IDOR Nedir? Insecure Direct Object Reference Açıklarının Derinlemesine Analizi | Melih Yılmaz | [Read More](https://medium.com/p/20f02197c7d8) |
-| Fri, 20 Feb 2026 20:18:10 GMT | CyberHeroes Content Hub: Turning Cybersecurity Confusion into Clarity | Paul Kemp | [Read More](https://medium.com/p/1bfdc3447fb7) |
-| Fri, 20 Feb 2026 20:16:33 GMT | AI Training and Data Annotation Specialist — Austine Makwaka | Austine Makwaka | [Read More](https://medium.com/p/502ce4d96db9) |
-| Fri, 20 Feb 2026 20:14:33 GMT | Affordable Tech Products for Women That Feel Premium (Under $50) | Stellar Nook | [Read More](https://medium.com/p/fbb9dcd82909) |
-| Fri, 20 Feb 2026 20:13:17 GMT | Fusion Corp — TryHackMe Walkthrough | Abdallah_samir | [Read More](https://medium.com/p/c54a70c24380) |
-| Fri, 20 Feb 2026 20:10:06 GMT | Underestimating Aum Shinrikyo: Intelligence Failures in Democratic Counterterrorism | Vionë Dobërdoli | [Read More](https://medium.com/p/8bfa409283c1) |
-| Fri, 20 Feb 2026 20:08:37 GMT | Weekly Cyber Threat Bulletin: 19 February 2026 | Marcelle Lee | [Read More](https://medium.com/p/0d35ba6682ab) |
-| Fri, 20 Feb 2026 20:05:28 GMT | Weekly Cyber Threat Bulletin: 5 February 2026 | Marcelle Lee | [Read More](https://medium.com/p/efbe17bfae9c) |
-| Fri, 20 Feb 2026 20:02:12 GMT | Computer Security With “SentryPC” | Declanfenton | [Read More](https://medium.com/p/3bd17cdff6c0) |
-| Fri, 20 Feb 2026 19:59:15 GMT | Don’t Trust Us. Trust the Architecture: OPSEC for the Solana Trenches | SOL-byte | [Read More](https://medium.com/p/900fbc483181) |
-| Fri, 20 Feb 2026 19:49:18 GMT | The War You Don’t See: Insider Espionage and the Quiet Threat on U.S. Soil | Robert Morton | [Read More](https://medium.com/p/002059515457) |
-| Fri, 20 Feb 2026 19:48:45 GMT | How Bitcoin-Grade Security Enables Autonomous Agent Operations | SuperDapp | [Read More](https://medium.com/p/3d324e108d61) |
-| Fri, 20 Feb 2026 19:39:42 GMT | Cryptography Concepts Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/e5a3db54966c) |
-| Fri, 20 Feb 2026 19:39:26 GMT | The CIA Triad Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/6c3ce76b720a) |
