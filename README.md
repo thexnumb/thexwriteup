@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Feb 2026 23:22:18 GMT | Dark LLMs, Voice Clones, and Agentic Browsers | ToxSec | [Read More](https://medium.com/p/75e09060d9f2) |
+| Sat, 21 Feb 2026 23:21:05 GMT | Become a Hacker - Tryhackme | Aaron | [Read More](https://medium.com/p/80bb380d388a) |
+| Sat, 21 Feb 2026 23:12:04 GMT | The Chrome Extension You’re Using Wrong Is Probably Making You Slower | Michael Fauda | [Read More](https://medium.com/p/31aadd6f049a) |
+| Sat, 21 Feb 2026 23:00:23 GMT | What OpenClaw Really Is in simple English | Sajjad Ahmed | [Read More](https://medium.com/p/d9844b34bdfb) |
+| Sat, 21 Feb 2026 22:47:44 GMT | Stop Letting Entra ID Secrets Expire Silently — Build Your Own Monitoring With Docker | Jerome Duchene | [Read More](https://medium.com/p/bee246bf2526) |
+| Sat, 21 Feb 2026 22:47:22 GMT | Cybersecurity and Its Impact on International Relations | Linguistic Diplomacy | [Read More](https://medium.com/p/14cfed83df3f) |
 | Sat, 21 Feb 2026 22:39:17 GMT | Best Spy Camera for Nanny Monitoring with Audio Recording | Buyer’s Guide Pro | [Read More](https://medium.com/p/b870c88469d6) |
 | Sat, 21 Feb 2026 22:33:21 GMT | The Declaration of a 0° Draconic Pisces Sun | Nadia Bertolino | [Read More](https://medium.com/p/2b68c403694b) |
 | Sat, 21 Feb 2026 22:27:43 GMT | ID-Networks Cyber Defence Bootcamp : Task Lab 02 “Overwire Bandit” | Alif Radityo | [Read More](https://medium.com/p/0ed0417b8a33) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Feb 2026 15:29:47 GMT | Defense in Depth: The Foundation of Modern Cybersecurity | Huseyn | [Read More](https://medium.com/p/82addcc83878) |
 | Sat, 21 Feb 2026 15:29:44 GMT | Stop Email Downgrade Attacks: A Practical Guide to MTA-STS | Narong K. | [Read More](https://medium.com/p/7bdbced1ea6c) |
 | Sat, 21 Feb 2026 15:27:30 GMT | Does VPN Location Matter in Bug Bounty? How to Know If Your IP Is “Burned” (And How to Fix It) | ghostyjoe | [Read More](https://medium.com/p/901999cad480) |
-| Sat, 21 Feb 2026 15:12:26 GMT | Japon devi Advantest’in Ransomware Mücadelesi | Kaan Özyazıcı | [Read More](https://medium.com/p/8f07dfa38bd9) |
-| Sat, 21 Feb 2026 15:10:04 GMT | . | Souravmookherjee | [Read More](https://medium.com/p/1a7189396cff) |
-| Sat, 21 Feb 2026 15:06:35 GMT | Breaking into Cyber: The Student’s Survival Kit | Shruti Ingale | [Read More](https://medium.com/p/6ba8cf8184ce) |
-| Sat, 21 Feb 2026 15:04:35 GMT | Why Most Aspiring Penetration Testers Never Get Hired | Hania Khan | [Read More](https://medium.com/p/4842aae2acc8) |
-| Sat, 21 Feb 2026 14:57:39 GMT | AI and Facial Recognition in Public Security: Lessons from Real-World Deployments | Daniel Possebon Bargas | [Read More](https://medium.com/p/ba87b066392a) |
-| Sat, 21 Feb 2026 14:56:48 GMT | Why TryHackMe’s CyberSecurity 101 (SEC1) Builds More REAL Skill Than Multiple‑Choice Exams | Shimalka Yohan | [Read More](https://medium.com/p/2f053c35c011) |
