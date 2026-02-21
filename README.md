@@ -12,10 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Feb 2026 19:37:50 GMT | HTB DFIR Sherlock: LuckyShot | WildPasta | [Read More](https://medium.com/p/9af91d7b23cd) |
+| Sat, 21 Feb 2026 19:29:07 GMT | Compliance vs. Real-World Security: Why Passing an Audit Doesn’t Mean You’re Safe | Dr Kimma Wreh | [Read More](https://medium.com/p/445a23b0d723) |
+| Sat, 21 Feb 2026 19:27:15 GMT | Savunma Çöktüğünde | Betul Toy | [Read More](https://medium.com/p/8da90e5a2f4f) |
 | Sat, 21 Feb 2026 19:23:15 GMT | Windows Shortcut Hijacking (Persistence) — an old but still effective technique. | Ravi | [Read More](https://medium.com/p/9af6d708cf5c) |
 | Sat, 21 Feb 2026 19:22:28 GMT | JKU Header Injection: From Vulnerable Code to Full Authentication Bypass | Dipesh Paul | [Read More](https://medium.com/p/fbde5815964f) |
 | Sat, 21 Feb 2026 19:20:48 GMT | How to Build a Practical PoC: A No Nonsense Guide to Command Injection | Salihugurlu | [Read More](https://medium.com/p/1cbee91efde6) |
 | Sat, 21 Feb 2026 19:18:55 GMT | Securing AI Apps at the Speed of Vibe Coding: A First Look at Arko | Craig McCart | [Read More](https://medium.com/p/a0022f8845d1) |
+| Sat, 21 Feb 2026 19:18:20 GMT | The Grand Architecture: Synthesizing a Cohesive Security Strategy | Aynur Dunyamaliyeva | [Read More](https://medium.com/p/5423a92b8a2c) |
 | Sat, 21 Feb 2026 19:15:09 GMT | Security Through Obscurity: A Shield or a Mirage? | Aynur Dunyamaliyeva | [Read More](https://medium.com/p/6327e616e921) |
 | Sat, 21 Feb 2026 19:10:40 GMT | Cyber Security vs Web Development | Texastech Baseball | [Read More](https://medium.com/p/a1becbd4b5aa) |
 | Sat, 21 Feb 2026 19:10:35 GMT | “The $2.5 Trillion AI Bet That Could Break the Economy” | dr.fxwifi | [Read More](https://medium.com/p/9548ae4bcc4d) |
@@ -25,6 +29,8 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Feb 2026 18:46:00 GMT | The Day Microsoft Lost Its Signing Key | Bilal Zuberi | [Read More](https://medium.com/p/18e2ec7f8cec) |
 | Sat, 21 Feb 2026 18:45:08 GMT | TryHackMe — All-in-One — Start your adventure | mahyar kermani | [Read More](https://medium.com/p/2e12c1aa6618) |
 | Sat, 21 Feb 2026 18:41:38 GMT | Behind a Simple Click There is a Danger | Grace Jaman | [Read More](https://medium.com/p/09feaf129e39) |
+| Sat, 21 Feb 2026 18:32:19 GMT | TryHackMe - Database SQL Basics - WriteUp | Axoloth | [Read More](https://medium.com/p/a85ee703a58a) |
+| Sat, 21 Feb 2026 18:30:57 GMT | TryHackMe - Client-Server Basics - WriteUp | Axoloth | [Read More](https://medium.com/p/ba4659cfbffb) |
 | Sat, 21 Feb 2026 18:16:00 GMT | Access Control Checkup: A One-Hour Review That Catches Real Bug | Exploitless | [Read More](https://medium.com/p/fd715957b3b3) |
 | Sat, 21 Feb 2026 18:14:20 GMT | How I Discovered a CSRF Vulnerability in a CV Update Feature | montaser mohsen | [Read More](https://medium.com/p/b3b83680ee11) |
 | Sat, 21 Feb 2026 17:57:13 GMT | Information Gathering & Ecosystem Analysis on web applications | Diva Rizky Alfitrah | [Read More](https://medium.com/p/88e006228f5d) |
@@ -107,9 +113,3 @@ As decentralized finance… | ray_5541 | [Read More](https://medium.com/p/3994c1
 | Sat, 21 Feb 2026 12:35:04 GMT | Your AI Agent Knows You Better Than You Know Yourself & Nobody Is Protecting That | Niraj Kulkarnii | [Read More](https://medium.com/p/0ed7405891bc) |
 | Sat, 21 Feb 2026 12:33:43 GMT | QSAF: Qorvex Security AI Framework | Hazem Ali | [Read More](https://medium.com/p/02b749d3d11b) |
 | Sat, 21 Feb 2026 12:33:02 GMT | VulNyx Controler Writeup | CyberCraft | [Read More](https://medium.com/p/b9ada8e12fdd) |
-| Sat, 21 Feb 2026 12:31:00 GMT | What Is AI, Really? What Everyone Should Understand in 2026 | Inside Intelligence | [Read More](https://medium.com/p/ef5945c36daa) |
-| Sat, 21 Feb 2026 12:20:40 GMT | Suffering from BUGS: How I Almost Deleted My Entire Project | Greek Ai | [Read More](https://medium.com/p/9227f638ce49) |
-| Sat, 21 Feb 2026 12:18:19 GMT | The AI Alignment Gold Rush: 10 Remote Roles Paying $250k+ in 2026 | Shanker Goud | [Read More](https://medium.com/p/cd51d6e01777) |
-| Sat, 21 Feb 2026 12:12:58 GMT | Free Udemy Courses Promo Codes | DeepDive4learn | [Read More](https://medium.com/p/7d0f38c9bce5) |
-| Sat, 21 Feb 2026 12:12:33 GMT | Governance as a Strategic Career Moat | Career Technology Cyber Security India Pvt. Ltd. | [Read More](https://medium.com/p/4cf54af492ab) |
-| Sat, 21 Feb 2026 12:09:47 GMT | Cyber Security Training in Bangalore—Best Course to Build a High-Paying Career in 2026 | Saikiranversionit | [Read More](https://medium.com/p/8ec72481e007) |
