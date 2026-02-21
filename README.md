@@ -12,8 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Feb 2026 17:10:18 GMT | CT Scanners vs X-ray Scanners: Why Airports Are Making the Switch | EJ Boustany | [Read More](https://medium.com/p/9b653913bf33) |
+| Sat, 21 Feb 2026 16:47:09 GMT | I Don’t Have a Blankie, But Apparently Everyone Else Does | Edrika Gutierrez | [Read More](https://medium.com/p/824426fa12a2) |
+| Sat, 21 Feb 2026 16:44:02 GMT | The End of the “Fake Internet”: Why the New Proof-of-Trust Framework Changes Everything | Adam Frąckowiak | [Read More](https://medium.com/p/cf17453621f1) |
+| Sat, 21 Feb 2026 16:41:21 GMT | Securing MCP Servers: From Vulnerable to Bulletproof with Scalekit | Sachin Pal | [Read More](https://medium.com/p/6522b07187da) |
+| Sat, 21 Feb 2026 16:39:23 GMT | React2shell | Anandhu Kannan | [Read More](https://medium.com/p/66573cd989de) |
+| Sat, 21 Feb 2026 16:38:51 GMT | Issue #3: Offshore Platforms — Why the Energy Sector is the New Front Line | Nitin Raje | [Read More](https://medium.com/p/5c783876f56b) |
+| Sat, 21 Feb 2026 16:36:55 GMT | Introduction to Digital Forensics | Faqih Ahmad Syauqi | [Read More](https://medium.com/p/0e9b34ba5761) |
+| Sat, 21 Feb 2026 16:35:21 GMT | The Most Dangerous Color in Risk Reporting | Gulet Barre | [Read More](https://medium.com/p/4b2e71420257) |
+| Sat, 21 Feb 2026 16:31:01 GMT | Cloud Infrastructure Under Siege: Why Your Security Strategy Needs an Urgent Upgrade | Fernando Cardoso | [Read More](https://medium.com/p/39ce6a345281) |
+| Sat, 21 Feb 2026 16:29:47 GMT | 5 Truths the Market Won’t Tell You This Week | ɐqɐɹ iuɐɥs | [Read More](https://medium.com/p/18c85bc8d76b) |
 | Sat, 21 Feb 2026 16:28:46 GMT | ️ How Hackers Attack Us (And How to Stay Safe) | Yeabsira Lamesaa | [Read More](https://medium.com/p/6400fb4e25e8) |
+| Sat, 21 Feb 2026 16:28:13 GMT | GraphQL Misconfiguration in Enterprise LMS | Kaali | [Read More](https://medium.com/p/452ca516e7a2) |
 | Sat, 21 Feb 2026 16:23:31 GMT | what is black hat? | Kevin Ronex | [Read More](https://medium.com/p/f821f6e084a8) |
+| Sat, 21 Feb 2026 16:22:31 GMT | How I Converted a 1990s Wired Alarm Into a Sleek Smart Home Assistant System | Mike Luck | [Read More](https://medium.com/p/4f869161c3e6) |
+| Sat, 21 Feb 2026 16:22:12 GMT | Are Edge Cases Slipping Through Production Testing? | Atharv Ajay Mannur | [Read More](https://medium.com/p/748b3f7caf64) |
 | Sat, 21 Feb 2026 16:21:25 GMT | CyberDefenders - Webstrike Lab | M.Daffa Hakiki | [Read More](https://medium.com/p/b67b28b0bd2d) |
 | Sat, 21 Feb 2026 16:14:13 GMT | One Tool to Rule Them All: File Metadata & Static Analysis for Malware Analysts and SOC Teams | Andrey Pautov | [Read More](https://medium.com/p/c6dba1f5b7de) |
 | Sat, 21 Feb 2026 16:07:49 GMT | Design Hack You Need Now: The Grainy Blur Effect (2026 Trend) | Rupesh Kumar (Graphic Designer) | [Read More](https://medium.com/p/01d95e9e109e) |
@@ -101,16 +114,3 @@ As decentralized finance… | ray_5541 | [Read More](https://medium.com/p/3994c1
 | Sat, 21 Feb 2026 10:09:12 GMT | Best Institute for Artificial Intelligence in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/abb256d0f184) |
 | Sat, 21 Feb 2026 10:08:18 GMT | Flesh: Building a Multi-Session Reverse Shell Handler in Python | Vaibhav | [Read More](https://medium.com/p/5637f2fd8458) |
 | Sat, 21 Feb 2026 10:05:34 GMT | SQL Injection in a Windows Application Exposing Millions of Records | Aland Dlshad (HexaPhp) | [Read More](https://medium.com/p/f657a6de46ac) |
-| Sat, 21 Feb 2026 09:58:07 GMT | The smartest cloud engineers I’ve worked with don’t start with code. They start with questions! | IsaacFabianK | [Read More](https://medium.com/p/c9934b9f24ab) |
-| Sat, 21 Feb 2026 09:57:55 GMT | Web Penetration Testing: Protect Data and Systems | Application Security Master | [Read More](https://medium.com/p/018a355b4303) |
-| Sat, 21 Feb 2026 09:57:42 GMT | How I Built a DevSecOps Pipeline That Catches Vulnerabilities Before They Hit Production | Abed | [Read More](https://medium.com/p/83c731968139) |
-| Sat, 21 Feb 2026 09:56:27 GMT | Investigating SSH Brute Force and Potential Lateral Movement Using Splunk | Awwal Shabi | [Read More](https://medium.com/p/27eda77da6b5) |
-| Sat, 21 Feb 2026 09:55:51 GMT | Zero Trust Architecture: Securing the Modern Digital Enterprise | Devarshi Acharya | [Read More](https://medium.com/p/7897483ec3f1) |
-| Sat, 21 Feb 2026 09:50:20 GMT | My Story Got Stolen. Here’s My Response. | Brennan Kenneth Brown | [Read More](https://medium.com/p/e4b4f79cf15e) |
-| Sat, 21 Feb 2026 09:48:47 GMT | Hashing vs Encoding vs Encryption: Understanding the Core Security Concepts | Kajal Glotra | [Read More](https://medium.com/p/71e1b3e33c55) |
-| Sat, 21 Feb 2026 09:47:18 GMT | Conti — TryHackMe - Splunk | Jose Praveen | [Read More](https://medium.com/p/194b316408e2) |
-| Sat, 21 Feb 2026 09:46:42 GMT | Exploiting a Mass Assignment Vulnerability | Bash Overflow | [Read More](https://medium.com/p/820d58138c12) |
-| Sat, 21 Feb 2026 09:43:17 GMT | Breachpoint CTF Writeup | popo | [Read More](https://medium.com/p/c33697e56c63) |
-| Sat, 21 Feb 2026 09:43:02 GMT | Why Two-Factor Authentication Isn’t as Secure as You Think | Mike | [Read More](https://medium.com/p/55b7a2f69e3e) |
-| Sat, 21 Feb 2026 09:34:25 GMT | The Invisible Web: A Deep Dive into How Access Points Build Mesh Networks | Jazz Cyber Shield | [Read More](https://medium.com/p/4b6151a82159) |
-| Sat, 21 Feb 2026 09:32:27 GMT | Top-Notch Armed Security in San Antonio | Matrix Security Guard Services LLC | [Read More](https://medium.com/p/8181cab86237) |
