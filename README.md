@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Feb 2026 11:20:55 GMT | From Red to Green: Building a DevSecOps Pipeline That Actually Blocks Vulnerabilities | Ashhadali | [Read More](https://medium.com/p/5f8edf4501eb) |
+| Sat, 21 Feb 2026 11:17:02 GMT | Case Studies of Successful Ransomware Recovery | Anaynams | [Read More](https://medium.com/p/5ae8fa084a09) |
+| Sat, 21 Feb 2026 11:10:34 GMT | How I found CVE-2026–27146 (CSRF)- Cyber Tamarin | Cyber Tamarin | [Read More](https://medium.com/p/a2886542db22) |
+| Sat, 21 Feb 2026 11:00:01 GMT | Smart Crypto Wallets: Integrating AI for Security and Smarter Transactions | Xeer Technology | [Read More](https://medium.com/p/91fa7be5f7f0) |
+| Sat, 21 Feb 2026 10:56:25 GMT | ISO 27001 Is Not a Certificate. It’s a Maturity Test. | Fintech By Tanu | [Read More](https://medium.com/p/9b0f8513232a) |
 | Sat, 21 Feb 2026 10:54:10 GMT | Hack Apps While You Browse!!! | cybrNK | [Read More](https://medium.com/p/105dc85037da) |
+| Sat, 21 Feb 2026 10:53:37 GMT | Is Your Business Ready for the Next Cyber Attack? | Deepa | [Read More](https://medium.com/p/0a3fa457ac05) |
 | Sat, 21 Feb 2026 10:52:05 GMT | PDF Security Best Practices for Businesses | Pdfsconverter | [Read More](https://medium.com/p/549ea53f1eb8) |
 | Sat, 21 Feb 2026 10:51:06 GMT | How I discovered CVE-2026–27147 — Stored XSS - Cyber Tamarin | Cyber Tamarin | [Read More](https://medium.com/p/c5ff993a3062) |
 | Sat, 21 Feb 2026 10:46:48 GMT | When Password Reset Fails: Account Takeover via User Enumeration ($3,000–$7,000) | Abin | [Read More](https://medium.com/p/9edaa0d21d1b) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Feb 2026 04:49:23 GMT | The Ghost in the Commit: RCE in GitHub Actions via Command Injection | Alperen | [Read More](https://medium.com/p/b6f61cb9a813) |
 | Sat, 21 Feb 2026 04:36:02 GMT | Building an Ultra-Sovereign AI Operator | Ehsan | [Read More](https://medium.com/p/cb1c7e31120d) |
 | Sat, 21 Feb 2026 04:35:06 GMT | Hacking Microsoft IIS: From Recon to Advanced Fuzzing | Unknown | [Read More](https://medium.com/p/013989524fe2) |
-| Sat, 21 Feb 2026 04:30:33 GMT | Best Ethical Hacking Course in Trivandrum — Job Oriented Training | Francycthomas | [Read More](https://medium.com/p/8618bc6ee2cb) |
-| Sat, 21 Feb 2026 04:06:04 GMT | How Scammers Use AI Voice Cloning (And Why It’s More Dangerous Than You Think | Faragelzegil | [Read More](https://medium.com/p/8831c4e3131a) |
-| Sat, 21 Feb 2026 03:51:18 GMT | Understanding SIEM: A Practical Look at Security Information and Event Management in Cybersecurity | Ronak Mishra | [Read More](https://medium.com/p/61d295ab572d) |
-| Sat, 21 Feb 2026 03:41:43 GMT | Session Hijacking: How Attackers Steal Active User Sessions | Rithikarao | [Read More](https://medium.com/p/5eb2954444c1) |
-| Sat, 21 Feb 2026 03:41:00 GMT | DNS Security: The Internet’s Phone Book Is Trying to Kill You (and How to Fix It) | Sharon Martin | [Read More](https://medium.com/p/9dab2899dd3e) |
-| Sat, 21 Feb 2026 03:25:27 GMT | Metasploitable 2 Security Assessment: Five Practical Exploitation Scenarios | شاہ میر عمران مغل | [Read More](https://medium.com/p/54e548412e7a) |
