@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Feb 2026 17:45:11 GMT | I Broke Into a Database With (1=1). | SRCK | [Read More](https://medium.com/p/88f68af0ef5c) |
+| Sat, 21 Feb 2026 17:38:36 GMT | Privacy vs. Transparency Paradox: Is India Quietly Weakening the Right to Information? | Pranjal | [Read More](https://medium.com/p/ea639a004340) |
+| Sat, 21 Feb 2026 17:30:01 GMT | Privacy architecture — Pocket Brain tells no tales, the nine spheres of sovereign cognition — 1/2 | Sami Belhadj | [Read More](https://medium.com/p/8633e34520c2) |
+| Sat, 21 Feb 2026 17:28:04 GMT | Never Use Your Mobile Number for Authentication Codes: The Safer Alternative is CallnFax… | Callnfax | [Read More](https://medium.com/p/79aa10fccc7e) |
 | Sat, 21 Feb 2026 17:10:18 GMT | CT Scanners vs X-ray Scanners: Why Airports Are Making the Switch | EJ Boustany | [Read More](https://medium.com/p/9b653913bf33) |
 | Sat, 21 Feb 2026 16:47:09 GMT | I Don’t Have a Blankie, But Apparently Everyone Else Does | Edrika Gutierrez | [Read More](https://medium.com/p/824426fa12a2) |
 | Sat, 21 Feb 2026 16:44:02 GMT | The End of the “Fake Internet”: Why the New Proof-of-Trust Framework Changes Everything | Adam Frąckowiak | [Read More](https://medium.com/p/cf17453621f1) |
@@ -20,6 +24,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Feb 2026 16:38:51 GMT | Issue #3: Offshore Platforms — Why the Energy Sector is the New Front Line | Nitin Raje | [Read More](https://medium.com/p/5c783876f56b) |
 | Sat, 21 Feb 2026 16:36:55 GMT | Introduction to Digital Forensics | Faqih Ahmad Syauqi | [Read More](https://medium.com/p/0e9b34ba5761) |
 | Sat, 21 Feb 2026 16:35:21 GMT | The Most Dangerous Color in Risk Reporting | Gulet Barre | [Read More](https://medium.com/p/4b2e71420257) |
+| Sat, 21 Feb 2026 16:33:34 GMT | Mon premier bug CVSS 10.0 : comment j’ai pris le contrôle de robots industriels depuis ma chambre ? | razhack_26 | [Read More](https://medium.com/p/df2fbb0377fa) |
 | Sat, 21 Feb 2026 16:31:01 GMT | Cloud Infrastructure Under Siege: Why Your Security Strategy Needs an Urgent Upgrade | Fernando Cardoso | [Read More](https://medium.com/p/39ce6a345281) |
 | Sat, 21 Feb 2026 16:29:47 GMT | 5 Truths the Market Won’t Tell You This Week | ɐqɐɹ iuɐɥs | [Read More](https://medium.com/p/18c85bc8d76b) |
 | Sat, 21 Feb 2026 16:28:46 GMT | ️ How Hackers Attack Us (And How to Stay Safe) | Yeabsira Lamesaa | [Read More](https://medium.com/p/6400fb4e25e8) |
@@ -109,8 +114,3 @@ As decentralized finance… | ray_5541 | [Read More](https://medium.com/p/3994c1
 | Sat, 21 Feb 2026 10:43:43 GMT | How AI Expands Markets Instead of Shrinking Workforces | Vijay Kumar Gupta | [Read More](https://medium.com/p/3097f77b0c10) |
 | Sat, 21 Feb 2026 10:42:56 GMT | Dedicated IP VPN in 2026: The Smarter Choice for Secure Server Access & Stable Infrastructure | Whwebhosting | [Read More](https://medium.com/p/c6448efdb8dd) |
 | Sat, 21 Feb 2026 10:39:50 GMT | Solving a Bugforge Challenge — Exploiting Race Conditions in Shady Oaks Financial | Pranaya Shrestha | [Read More](https://medium.com/p/b173e8bbdb58) |
-| Sat, 21 Feb 2026 10:29:30 GMT | Dijital Kalenin Unutulan Arka Kapısı: IoT Cihazlarında JTAG ve UART Tehlikesi | Ahmet Delialioğlu | [Read More](https://medium.com/p/72d62e50a086) |
-| Sat, 21 Feb 2026 10:19:54 GMT | The Encryption Apocalypse Is Coming: Why Your RSA Keys Are Living on Borrowed Time | Joao Silva | [Read More](https://medium.com/p/0ff987d1ae65) |
-| Sat, 21 Feb 2026 10:09:12 GMT | Best Institute for Artificial Intelligence in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/abb256d0f184) |
-| Sat, 21 Feb 2026 10:08:18 GMT | Flesh: Building a Multi-Session Reverse Shell Handler in Python | Vaibhav | [Read More](https://medium.com/p/5637f2fd8458) |
-| Sat, 21 Feb 2026 10:05:34 GMT | SQL Injection in a Windows Application Exposing Millions of Records | Aland Dlshad (HexaPhp) | [Read More](https://medium.com/p/f657a6de46ac) |
