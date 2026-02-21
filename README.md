@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Feb 2026 11:36:50 GMT | .Pixel6Pro-Hardware-Identity-Realignment
+.Titan-M2-Integrity-Bypass-Study | Sam | [Read More](https://medium.com/p/084a0977b455) |
+| Sat, 21 Feb 2026 11:31:35 GMT | Issue #2: When IT paralysis stops the world — Lessons from the Maersk incident | Nitin Raje | [Read More](https://medium.com/p/d1b125fca315) |
+| Sat, 21 Feb 2026 11:26:50 GMT | AI in Cybersecurity: Educational Study on Drone Detection and Prevention Systems | Abishek iringathuruthy suresh | [Read More](https://medium.com/p/d850870621be) |
+| Sat, 21 Feb 2026 11:25:04 GMT | Evolutionary Architectures in Continuous Threat Exposure Management: From Snapshot Reactive Defense… | SkelerSecurity | [Read More](https://medium.com/p/7e6c8b911157) |
 | Sat, 21 Feb 2026 11:20:55 GMT | From Red to Green: Building a DevSecOps Pipeline That Actually Blocks Vulnerabilities | Ashhadali | [Read More](https://medium.com/p/5f8edf4501eb) |
 | Sat, 21 Feb 2026 11:17:02 GMT | Case Studies of Successful Ransomware Recovery | Anaynams | [Read More](https://medium.com/p/5ae8fa084a09) |
 | Sat, 21 Feb 2026 11:10:34 GMT | How I found CVE-2026–27146 (CSRF)- Cyber Tamarin | Cyber Tamarin | [Read More](https://medium.com/p/a2886542db22) |
@@ -108,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Feb 2026 05:01:01 GMT | Incident Response & Security | Sarah Nzeshi | [Read More](https://medium.com/p/17705b4f1630) |
 | Sat, 21 Feb 2026 05:01:01 GMT | The Hidden Cost of Words: What Readers Never See About Being a Writer | MJ Creations | [Read More](https://medium.com/p/79b06114cbc7) |
 | Sat, 21 Feb 2026 04:58:25 GMT | PowerShell | Jenishjoel | [Read More](https://medium.com/p/4c8f2ffb26a5) |
-| Sat, 21 Feb 2026 04:58:24 GMT | AI-Powered Cyber Risk Intelligence Platform: Turning Raw Vulnerability Scans into Executive-Level… | Vishal Uttam Mane | [Read More](https://medium.com/p/69b0c7216f1e) |
-| Sat, 21 Feb 2026 04:49:23 GMT | The Ghost in the Commit: RCE in GitHub Actions via Command Injection | Alperen | [Read More](https://medium.com/p/b6f61cb9a813) |
-| Sat, 21 Feb 2026 04:36:02 GMT | Building an Ultra-Sovereign AI Operator | Ehsan | [Read More](https://medium.com/p/cb1c7e31120d) |
-| Sat, 21 Feb 2026 04:35:06 GMT | Hacking Microsoft IIS: From Recon to Advanced Fuzzing | Unknown | [Read More](https://medium.com/p/013989524fe2) |
