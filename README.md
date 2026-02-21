@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 21 Feb 2026 09:19:06 GMT | Fraud and the Rise of GenAI and Agentic AI | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/343a6f511372) |
+| Sat, 21 Feb 2026 09:18:58 GMT | DNS (Domain Name System) | Songül Kızılay Özügürler | [Read More](https://medium.com/p/37515fbbeed0) |
+| Sat, 21 Feb 2026 09:15:46 GMT | being a hacker how i took a job of developer | Kishwordulal | [Read More](https://medium.com/p/67fe20d1139c) |
+| Sat, 21 Feb 2026 09:10:25 GMT | How CAD → INR Transfers Work with Siliveru Exchange (Simple Step-By-Step) | Siliveru Exchange Inc | [Read More](https://medium.com/p/c2dd6a670c46) |
+| Sat, 21 Feb 2026 09:09:28 GMT | Cyber Security Course in Kochi | Fasalinternship | [Read More](https://medium.com/p/a94f74a86f36) |
+| Sat, 21 Feb 2026 09:03:32 GMT | Avoid breaking changes in Azure Key Vault — Adopting API Version 2026–02–01 and preparing for an… | Miguel Arcilla | [Read More](https://medium.com/p/59f48dfa7715) |
+| Sat, 21 Feb 2026 09:01:01 GMT | How I Submitted 3 P1s in One Week Using Only Leaked Credentials | Alexandre Vandamme | [Read More](https://medium.com/p/c505dce316d2) |
+| Sat, 21 Feb 2026 08:57:42 GMT | AI Is Now Hunting Your Code: Why Anthropic’s Claude Code Security Changes the Future of DevSecOps | Germano Costi | [Read More](https://medium.com/p/3664fe2671f8) |
+| Sat, 21 Feb 2026 08:51:35 GMT | Ethical Hacking Course in Trivandrum — Start Your Cybersecurity Career | Francycthomas | [Read More](https://medium.com/p/680adf0c8860) |
+| Sat, 21 Feb 2026 08:51:09 GMT | The Real Cost of On-Premise IT vs Cloud Hosting for Tax and Accounting Firms | Oneupnetworks | [Read More](https://medium.com/p/0adae85bddab) |
+| Sat, 21 Feb 2026 08:30:48 GMT | Cyber Security Is Not a Program — It’s a Governance Problem | Amin Manji | [Read More](https://medium.com/p/f381cf145234) |
 | Sat, 21 Feb 2026 08:16:29 GMT | The Best Web Design & Development Company in Nepal | Rahulchh | [Read More](https://medium.com/p/4ac7b1d58880) |
 | Sat, 21 Feb 2026 08:08:26 GMT | Best AI Course Online with Certificate for Beginners | cyber security Updates | [Read More](https://medium.com/p/1c875cf41f7c) |
 | Sat, 21 Feb 2026 08:07:24 GMT | M | Manish Dahal | [Read More](https://medium.com/p/b6235011d1f8) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 20 Feb 2026 23:13:38 GMT | Hackers Don’t Break In Anymore. They Log In. | Shreeya_Naik | [Read More](https://medium.com/p/11c477036820) |
 | Fri, 20 Feb 2026 23:13:12 GMT | Why Everyone Must Improve Their Knowledge of Data and Cyber Security in the Digital Age | Bervice | [Read More](https://medium.com/p/17aad2a073fd) |
 | Fri, 20 Feb 2026 23:06:05 GMT | Bypassing Free Plan Subscription Limit via Race Condition | Yahia Ibrahim khamis | [Read More](https://medium.com/p/2de79af677e1) |
-| Fri, 20 Feb 2026 23:03:42 GMT | The Economics of Cybercrime | Joe | [Read More](https://medium.com/p/986211e3d1b0) |
-| Fri, 20 Feb 2026 22:58:34 GMT | Otu Bitunix Care Fund Si Bụrụ Akụkụ Dị Mkpa N’Ịchekwa Ndị Na-Azụ Crypto | Mr Alex Yung® | [Read More](https://medium.com/p/aaaf8888e686) |
-| Fri, 20 Feb 2026 22:54:17 GMT | Cybersecurity for Absolute Beginners: Where to start in 2026 Edition | Mandlag | [Read More](https://medium.com/p/04257688995d) |
-| Fri, 20 Feb 2026 22:53:34 GMT | A Talkative Server Leak a Fintech’s Entire Backend Through Error Messages | Isaac Adebayo | [Read More](https://medium.com/p/290de44c2d03) |
-| Fri, 20 Feb 2026 22:51:38 GMT | Wi-Fi and Bluetooth Pentesting in 2026: Tools, Techniques, and Real-World Risks | Michael Preston | [Read More](https://medium.com/p/1e96b9f9badf) |
-| Fri, 20 Feb 2026 22:49:36 GMT | INE-Host & Network Penetration Testing: Exploitation CTF 1 by Singkhon | Singkhon K | [Read More](https://medium.com/p/8f2071e7dcfd) |
-| Fri, 20 Feb 2026 22:41:02 GMT | CVE-2025–27520 Walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/83dac998f248) |
-| Fri, 20 Feb 2026 22:19:22 GMT | OAuth: How a Simple Misconfiguration Can Lead to Full Account Take | MUWAFAK HELAL | [Read More](https://medium.com/p/9d95f57f92ce) |
-| Fri, 20 Feb 2026 22:16:05 GMT | How a Broken Access Control + 2 IDOR Chain Allowed Deleting Other Users’ Conversation Participants | D3v!lXØr | [Read More](https://medium.com/p/303ab5aa891d) |
-| Fri, 20 Feb 2026 22:06:42 GMT | INQUISITION -CANCELATION TORQUEMADA AND HITTLER ALIVE ON SOCIAL MEDIA. | Delpino Neto | [Read More](https://medium.com/p/ff5402a48329) |
-| Fri, 20 Feb 2026 22:01:04 GMT | Termux Kurulum Kodları 2026 | Altayaslanberk | [Read More](https://medium.com/p/07fe206e94fc) |
