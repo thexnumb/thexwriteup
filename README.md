@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Feb 2026 22:45:32 GMT | From Observation to Simulation: Building a Selective Forwarding Scenario in Contiki | Shreya Gajjar | [Read More](https://medium.com/p/c31f4193a586) |
 | Sun, 22 Feb 2026 22:25:57 GMT | How to Leave Exchanges Without Getting Your Account Frozen | Izakaya Global | [Read More](https://medium.com/p/526b22f18ded) |
 | Sun, 22 Feb 2026 22:22:44 GMT | From Open Ports to Zero Trust: Securing My Home Lab | Tomer Klein | [Read More](https://medium.com/p/c46d2aabf0b7) |
 | Sun, 22 Feb 2026 22:13:17 GMT | The Scam You Never See Coming (Until It’s Too Late) | Inspire Pages | [Read More](https://medium.com/p/4df15b051ce5) |
@@ -113,4 +114,3 @@ They got it wrong | Stephanie Mccabe | [Read More](https://medium.com/p/f6b9878e
 | Sun, 22 Feb 2026 16:01:13 GMT | The Road to Q-Day | Amit Tomar | [Read More](https://medium.com/p/b5e39efd000b) |
 | Sun, 22 Feb 2026 15:59:24 GMT | Building an API Security Lab as a Cybersecurity Engineer (Without Pretending It’s Production) | 'Tomiwa Adisa | [Read More](https://medium.com/p/d8547e65ea37) |
 | Sun, 22 Feb 2026 15:54:09 GMT | How to Set Up I2P (The Invisible Internet Protocol) on Linux — A Beginner-Friendly Guide | Amuy Thida | [Read More](https://medium.com/p/14d2b5a89e6c) |
-| Sun, 22 Feb 2026 15:52:23 GMT | How OSINT Is Transforming Modern Penetration Testing | CyberSources | [Read More](https://medium.com/p/1fcf61c766ee) |
