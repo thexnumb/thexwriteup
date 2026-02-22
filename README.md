@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Feb 2026 23:44:18 GMT | AI Accountability Didn’t Advance This Week. It Settled In. | A D | [Read More](https://medium.com/p/94f2890d5867) |
+| Sun, 22 Feb 2026 23:33:31 GMT | Understanding Lambda Tenant Isolation | Pubudu Jayawardana | [Read More](https://medium.com/p/485c5680695c) |
+| Sun, 22 Feb 2026 23:32:15 GMT | The feelings I feel in a introspective point of view | Unknown Unbeliever | [Read More](https://medium.com/p/3e406ff5cb97) |
+| Sun, 22 Feb 2026 23:28:33 GMT | How a VPN Works (Simple and Clear Explanation) | Shantun Parmar | [Read More](https://medium.com/p/05fd18f15a46) |
+| Sun, 22 Feb 2026 23:28:16 GMT | Claude | Rye Overly | [Read More](https://medium.com/p/2de474f25ef3) |
+| Sun, 22 Feb 2026 23:21:16 GMT | I've trained hundreds of Open Source LLMs. My Best Data is Always The Data I Can't Use. | Mariano Morales Ramírez | [Read More](https://medium.com/p/3639190b87c9) |
 | Sun, 22 Feb 2026 23:18:59 GMT | If You Think You Might Be in a Romance or Investment Scam, Start Here | El Proyecto Quiscalus | [Read More](https://medium.com/p/0be29b89fe1c) |
 | Sun, 22 Feb 2026 23:14:34 GMT | Networking -Cybersecurity 101 TryHackMe | Fabiosrocha | [Read More](https://medium.com/p/2b674bc810f4) |
 | Sun, 22 Feb 2026 23:09:12 GMT | How a Small Validation Bypass Enabled Invisible Identities | Mahmoud Farag | [Read More](https://medium.com/p/cc600577b98d) |
@@ -108,9 +114,3 @@ They got it wrong | Stephanie Mccabe | [Read More](https://medium.com/p/f6b9878e
 | Sun, 22 Feb 2026 16:34:37 GMT | Your AI Agent Is Leaking Your Secrets. Here’s What’s Actually Happening. | iamyxsh | [Read More](https://medium.com/p/8468d32a4669) |
 | Sun, 22 Feb 2026 16:27:49 GMT | The Fortress Mentality: Why Defense in Depth is the Bedrock of Cybersecurity | Abutalibov Umud | [Read More](https://medium.com/p/42eaba3c609b) |
 | Sun, 22 Feb 2026 16:26:00 GMT | The Silent Threat: How Ransomware is Evolving and What You Can Do | Indika Hiran Wiesinghe | [Read More](https://medium.com/p/d12be14331ed) |
-| Sun, 22 Feb 2026 16:24:21 GMT | AI Can Now Exploit Smart Contracts at Scale — and DeFi Isn’t Ready | Zoom In AI | [Read More](https://medium.com/p/eb72cbed1b71) |
-| Sun, 22 Feb 2026 16:24:08 GMT | Advanced Abuse of Referral Systems | ghostyjoe | [Read More](https://medium.com/p/c97cc17f705f) |
-| Sun, 22 Feb 2026 16:22:42 GMT | The Next Evolution of Cyber Threats: Regenerative Malware Ecosystems | Tata Tange | [Read More](https://medium.com/p/8be1666f281f) |
-| Sun, 22 Feb 2026 16:20:41 GMT | Literature Review On Cadastral Information System | Vanessa from Trinity College | [Read More](https://medium.com/p/858506ae1f65) |
-| Sun, 22 Feb 2026 16:19:18 GMT | GraphQL Pentesting for Bug Bounty Hunters: From Endpoint Discovery to High-Impact Exploits…! | MPGODMATCH | [Read More](https://medium.com/p/821f64a953b5) |
-| Sun, 22 Feb 2026 16:18:51 GMT | Securing the Backbone — Issue #1: What is Software Supply Chain Security & Why It Matters | Eric Gallagher | [Read More](https://medium.com/p/1868536929c7) |
