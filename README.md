@@ -12,9 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Feb 2026 10:43:43 GMT | Empowering your Digital Journey | Marketingnepaxis | [Read More](https://medium.com/p/056fcb64bef4) |
+| Sun, 22 Feb 2026 10:43:29 GMT | From Credential Stuffing to Backdoor: Investigating a Web App Compromise — HTB Sherlock Meerkat | Umarkhan | [Read More](https://medium.com/p/682d6ddd22e1) |
+| Sun, 22 Feb 2026 10:38:19 GMT | How to Build a Professional SIEM Lab on Your Laptop (Step-by-Step) | Alif Ekasmara | [Read More](https://medium.com/p/1c0fec93341e) |
+| Sun, 22 Feb 2026 10:37:10 GMT | eadingReading | zimthegoat | [Read More](https://medium.com/p/125387b1e5ac) |
+| Sun, 22 Feb 2026 10:36:24 GMT | Understanding Controls in CyberSecurity Frameworks | Jenny | [Read More](https://medium.com/p/a9f56d3fb947) |
+| Sun, 22 Feb 2026 10:31:45 GMT | Turn Your CacheGuard Gateway into a Global VPN Server — No Fixed IP Needed | CacheGuard Technologies | [Read More](https://medium.com/p/0494e7cbe567) |
 | Sun, 22 Feb 2026 10:23:23 GMT | Forging zkSNARK Proofs via Misconfigured Verification Keys: The Veil_01_ETH Exploit | Evgenii | [Read More](https://medium.com/p/2a6bb7d0078b) |
 | Sun, 22 Feb 2026 10:21:49 GMT | From a Simple Stack Trace to Accessing an SAP Portal. | Gaurang Jethva | [Read More](https://medium.com/p/4238c110ff3c) |
 | Sun, 22 Feb 2026 10:21:37 GMT | Deploying a Full-Stack Web App on AWS with Secure VPC Architecture | Varun Gopal | [Read More](https://medium.com/p/6ce2b3bc154f) |
+| Sun, 22 Feb 2026 10:18:28 GMT | Why I Built NoFileUpload.com — A Simple Privacy Tool for Everyone | AI Insights | [Read More](https://medium.com/p/5e9aa6c67869) |
 | Sun, 22 Feb 2026 10:12:49 GMT | Anthropic Launches Claude Code Security: AI Begins Taking Over Code Security | AI Engineering | [Read More](https://medium.com/p/f9b7daab325f) |
 | Sun, 22 Feb 2026 10:11:55 GMT | Android Güvenliğinin Evrimi: Permission Sistemi Kullanıcıyı Nasıl Güçlendirdi? | Rüçhan Okal | [Read More](https://medium.com/p/df4ba572ede7) |
 | Sun, 22 Feb 2026 10:01:01 GMT | Breaking Into Cybersecurity Without Coding: A Practical Guide | Victoria Coker | [Read More](https://medium.com/p/c049b23ba4f7) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Feb 2026 01:20:49 GMT | Artificial Intelligence as a Catalyst for Public Sector Digital Transformation | Daniel Possebon Bargas | [Read More](https://medium.com/p/8050d1d4cdf9) |
 | Sun, 22 Feb 2026 01:15:36 GMT | Zero Trust and Human Bias | Abdelmutalib Salih Ibrahim Ezeldeen | [Read More](https://medium.com/p/c9918c770bc2) |
 | Sun, 22 Feb 2026 01:12:08 GMT | That Green Dot on Your iPhone Isn’t As Safe As You Think | Virus Vanguard | [Read More](https://medium.com/p/d80569b5be23) |
-| Sun, 22 Feb 2026 01:03:21 GMT | Scam Awareness: How to Avoid Scams, Protect Your Identity, and Stop Fraud Before It Happens | Inspire Pages | [Read More](https://medium.com/p/086aa3d18a10) |
-| Sun, 22 Feb 2026 00:39:33 GMT | AI in Succession Infrastructure: Where It Belongs — and Where It Breaks Things | Auro Rekha | [Read More](https://medium.com/p/3a6742ac8fb0) |
-| Sun, 22 Feb 2026 00:34:17 GMT | Pass the Ticket (PtT) from Linux | Nouman Ali Khan | [Read More](https://medium.com/p/1c4d926f3dcc) |
-| Sun, 22 Feb 2026 00:29:44 GMT | When a Weakness Becomes an Entry Point | steven logansmith | [Read More](https://medium.com/p/04d6d2e799f8) |
-| Sun, 22 Feb 2026 00:24:48 GMT | Cybersecurity for Healthcare | Anish Jogi | [Read More](https://medium.com/p/7b572c10ab12) |
-| Sun, 22 Feb 2026 00:23:23 GMT | Securing AI Agents: An Architecture for Systems You Can’t Fully Control | Evangelos Pappas | [Read More](https://medium.com/p/fad4b9d5c8ef) |
-| Sun, 22 Feb 2026 00:08:55 GMT | Cybersecurity Awareness Scenario #1 | Devore McIntosh | [Read More](https://medium.com/p/9b86078e3006) |
