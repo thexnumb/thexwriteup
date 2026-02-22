@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Feb 2026 20:38:30 GMT | 3 Billion Email Addresses Just Leaked. The Hacker Calls Himself a Whistleblower. | Mehdi BAFDIL | [Read More](https://medium.com/p/4a72026b68cf) |
+| Sun, 22 Feb 2026 20:34:51 GMT | Linux: Its History, Advantages, and Essential Commands | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/ffede82b46ff) |
+| Sun, 22 Feb 2026 20:34:22 GMT | A Deep Dive into Network Models: OSI and TCP/IP | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/813baada2937) |
+| Sun, 22 Feb 2026 20:31:41 GMT | (HackTheBox) Footprinting Lab — Hard | Georgi Nikolov | [Read More](https://medium.com/p/e09549d64cd8) |
+| Sun, 22 Feb 2026 20:31:02 GMT | Threat Digest #1: CISA Shutdown Carnage, UMMC Ransomware Chaos, PayPal Leaks Confirmed | Threat.blog | [Read More](https://medium.com/p/a0542edb5ec9) |
+| Sun, 22 Feb 2026 20:29:54 GMT | Encryption Is Not Enough: Why Key Management Service (KMS) Is Critical in the Cloud Era | Lady Julia | [Read More](https://medium.com/p/27ff8e8cc6ef) |
 | Sun, 22 Feb 2026 20:15:37 GMT | The Filter of Truth | Craineanu Daniel | [Read More](https://medium.com/p/cc66dd9c90aa) |
 | Sun, 22 Feb 2026 20:12:08 GMT | How a Simple “Resend” Button Led to an MFA Fatigue Vulnerability | MrRobot | [Read More](https://medium.com/p/6a638edf54ff) |
 | Sun, 22 Feb 2026 20:10:46 GMT | Web Pentest’te Recon neden önemlidir neler kullanılmalıdır? | Zekikayaalp | [Read More](https://medium.com/p/d1ca79c5d891) |
@@ -108,9 +114,3 @@ They got it wrong | Stephanie Mccabe | [Read More](https://medium.com/p/f6b9878e
 | Sun, 22 Feb 2026 14:57:27 GMT | Step-by-Step Guide to Setting Up a Cybersecurity Home Lab (Kali Linux + VirtualBox) | Raymond Ebonine | [Read More](https://medium.com/p/090a31d1fc22) |
 | Sun, 22 Feb 2026 14:51:00 GMT | Middle Class Survival Guide: Income, Debt, and Real Wealth in 2025 | Ophaly Kate | [Read More](https://medium.com/p/1854542ddfc6) |
 | Sun, 22 Feb 2026 14:49:14 GMT | ATM Hacks, Africa Ops & The Making of Safe Security ft. Rahul Tyagi | Cyber Unbound | [Read More](https://medium.com/p/46a77c819173) |
-| Sun, 22 Feb 2026 14:46:00 GMT | 6. WebSocket Authorization Bypass Vulnerability leads to $$$ | Abhijeet kumawat | [Read More](https://medium.com/p/7dd3aa376558) |
-| Sun, 22 Feb 2026 14:42:41 GMT | Cybersecurity is not just for hackers — it’s for everyone who uses the internet. | Yogesh Mali | [Read More](https://medium.com/p/e3dd797130bb) |
-| Sun, 22 Feb 2026 14:41:55 GMT | A Critical CSS Vulnerability in Chrome? Here’s What Actually Happened (Explained Simply) | Amuy Thida | [Read More](https://medium.com/p/80bab3ce7ae3) |
-| Sun, 22 Feb 2026 14:39:56 GMT | Breaking ROT13 — picoCTF Easy Challenge Writeup | 3m Mohamed | [Read More](https://medium.com/p/1e0e15f141df) |
-| Sun, 22 Feb 2026 14:39:41 GMT | PayPal’s 16 Million-User Data Breach: Strategic Lessons for Ecommerce, FinTech and Enterprise… | eL Njas!™ | [Read More](https://medium.com/p/b1b2d07e2b90) |
-| Sun, 22 Feb 2026 14:39:37 GMT | Your Analytics Tracker Just Became a SQL Injection Gateway | OopsSec Store | [Read More](https://medium.com/p/1e6c91e46879) |
