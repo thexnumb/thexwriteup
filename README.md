@@ -12,9 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Feb 2026 12:47:46 GMT | My First CVSS 10.0 Bug: How I Took Control of Industrial Robots from My Bedroom ? | razhack_26 | [Read More](https://medium.com/p/0b2f72d66be8) |
+| Sun, 22 Feb 2026 12:40:17 GMT | The $10 Trillion Shadow: Why 2026 is the Year of the “Identity Synthesis” Breach | Cyberghost8 | [Read More](https://medium.com/p/53b47ced0081) |
+| Sun, 22 Feb 2026 12:36:16 GMT | Designing a Secure 3-Tier Architecture in Oracle Cloud Infrastructure | Tokishi | [Read More](https://medium.com/p/b9d6b50978de) |
+| Sun, 22 Feb 2026 12:36:02 GMT | Cybersecurity 101: The CIA Triad | Ojo Meshack Ohiosumuan | [Read More](https://medium.com/p/a44eedae6226) |
+| Sun, 22 Feb 2026 12:33:27 GMT | Starlink vpn Quick way to grow safely | GHAFIR | [Read More](https://medium.com/p/4c9b144af2aa) |
+| Sun, 22 Feb 2026 12:33:15 GMT | The Invite That Took Over Accounts: A Logic Flaw | Parth Narula | [Read More](https://medium.com/p/453eed1d7dbd) |
+| Sun, 22 Feb 2026 12:32:47 GMT | Exploiting Weak JWT Secrets in a Bug Bounty Target | Z3DX | [Read More](https://medium.com/p/377f79b57b26) |
+| Sun, 22 Feb 2026 12:29:48 GMT | WP-Hunter v2.0.2 Released: Faster, Smarter WordPress Security Scanning with 23 Exclusive PHP Rules | Ali Sünbül (xeloxa) | [Read More](https://medium.com/p/0f4913010afa) |
+| Sun, 22 Feb 2026 12:25:06 GMT | Festive Greetings on WhatsApp Can Be Dangerous: The Rising Threat of Festival Phishing Scams | Ankit rai | [Read More](https://medium.com/p/bc8e47f5d543) |
+| Sun, 22 Feb 2026 12:23:00 GMT | Synthesizing Security Concepts: Building a Cohesive Strategy | madslow | [Read More](https://medium.com/p/663582cb8696) |
+| Sun, 22 Feb 2026 12:17:55 GMT | A Short History of the EU and Strategic Outlook After the Munich Security Conference | Anıl’s Blog | [Read More](https://medium.com/p/141aa655a0e7) |
+| Sun, 22 Feb 2026 12:14:26 GMT | Security Through Obscurity: Assessing the Role of Secrecy in Cybersecurity | madslow | [Read More](https://medium.com/p/fb4f86da1025) |
+| Sun, 22 Feb 2026 12:12:29 GMT | Agent Manifest Papers #02 – The Problem of Implicit Authority | Hernan Capucci | [Read More](https://medium.com/p/bbf33306387d) |
+| Sun, 22 Feb 2026 12:08:22 GMT | Securing Spring Cloud Gateway with JWT Rotation & Rate‑Limiting | Munish Garg | [Read More](https://medium.com/p/42c12370c340) |
+| Sun, 22 Feb 2026 12:02:20 GMT | When Clients Don’t Pay After You Deliver the Work
+Freelancing looks easy from the outside. | Muzamil Hussain | [Read More](https://medium.com/p/cbe781948716) |
+| Sun, 22 Feb 2026 12:01:01 GMT | The Risk of Loving | Nikhil | [Read More](https://medium.com/p/000a2cf0d074) |
+| Sun, 22 Feb 2026 11:58:27 GMT | How I found CVE-2026–27161 (Sensitive Disclosure) - Cyber Tamarin | Cyber Tamarin | [Read More](https://medium.com/p/9b2e62dac238) |
+| Sun, 22 Feb 2026 11:57:00 GMT | How Android Malware Makes Itself Unkillable and “Un”-Uninstallable | carson12345 | [Read More](https://medium.com/p/02b3afa40974) |
+| Sun, 22 Feb 2026 11:53:57 GMT | Shadow World : Decryption — Chapter Five (Teaser Edition) | Bond Leung | [Read More](https://medium.com/p/bfd893983cad) |
 | Sun, 22 Feb 2026 11:41:17 GMT | From .env to RCE: Exploiting a Leaked Laravel APP_KEY | Igniterobot | [Read More](https://medium.com/p/8ec8ee670b29) |
 | Sun, 22 Feb 2026 11:40:12 GMT | google pixel 6 pro and others cpid lifetime fix with play_integrity pass. | Sam | [Read More](https://medium.com/p/aad731a15b7f) |
 | Sun, 22 Feb 2026 11:38:26 GMT | Least Privilege: Controlling Access to Reduce Systemic Risk | madsl0w | [Read More](https://medium.com/p/108c0f021243) |
+| Sun, 22 Feb 2026 11:35:43 GMT | Hacking Study Notes — Netcat Usage (Basics) | jaejun835 | [Read More](https://medium.com/p/ad81ffbf1e4f) |
+| Sun, 22 Feb 2026 11:35:27 GMT | Hacking Study Notes — Netcat Usage (Advanced) | jaejun835 | [Read More](https://medium.com/p/d8b4f4590cc0) |
 | Sun, 22 Feb 2026 11:28:06 GMT | Easy Splunk: Core Concepts the you need to know for ES | Antonella Blasetti | [Read More](https://medium.com/p/83e022c735c8) |
 | Sun, 22 Feb 2026 11:26:30 GMT | Quantum Exploits Without Quantum Computers | Talex Maxim (taimax13) - #barracuda | [Read More](https://medium.com/p/3291b42405f5) |
 | Sun, 22 Feb 2026 11:20:55 GMT | From MSSQL to Domain Admin: Fileless Lateral Movement in Hybrid Active Directory | Aenosh Rajora | [Read More](https://medium.com/p/c352dc11a836) |
@@ -91,24 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Feb 2026 05:38:24 GMT | How a User Enumeration Vulnerability was found in an OTP Authentication API | Philip James | [Read More](https://medium.com/p/a92d6235c640) |
 | Sun, 22 Feb 2026 05:35:40 GMT | My safe place to hide | Didymus The Twin | [Read More](https://medium.com/p/05b9b112da66) |
 | Sun, 22 Feb 2026 05:30:33 GMT | Cloud Security Misconfigurations: The Top 5 Mistakes That Lead to Data Breaches | Cyber Aries | [Read More](https://medium.com/p/ed8e61cf1269) |
-| Sun, 22 Feb 2026 05:26:43 GMT | Did the Market Overreact to Claude Code Security? | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/d1aeb2475290) |
-| Sun, 22 Feb 2026 05:22:31 GMT | Volt Typhoon - TryHackme - Splunk | Jose Praveen | [Read More](https://medium.com/p/2a466b9c8e88) |
-| Sun, 22 Feb 2026 05:13:33 GMT | 5 Critical Intersections Between Cybersecurity and Finance Every Small Business Owner Should… | Chandan Bhattacharya | [Read More](https://medium.com/p/8a27c883b5ba) |
-| Sun, 22 Feb 2026 05:04:46 GMT | External Embeds Don’t Fail in AEM — CSP Does | Vuong Nguyen | [Read More](https://medium.com/p/c55bb9a4ba38) |
-| Sun, 22 Feb 2026 05:03:37 GMT | From GenAI to GenUI: Why Your AI CTI Agent Is Sh*T | Thomas Roccia | [Read More](https://medium.com/p/f297800116ff) |
-| Sun, 22 Feb 2026 04:55:39 GMT | Zero Trust Architecture: The Lost Origin Story | Jade Seeker | [Read More](https://medium.com/p/ae102988dc8b) |
-| Sun, 22 Feb 2026 04:53:16 GMT | TryHackMe — JavaScript: Simple Demo | Satyamsatyarthi | [Read More](https://medium.com/p/a54dba0e6f0d) |
-| Sun, 22 Feb 2026 04:40:14 GMT | Weekly Update: What Got Built on the Threat Intelligence Platform This Week | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/51412eb4262d) |
-| Sun, 22 Feb 2026 04:39:33 GMT | Anthropic’s Claude Code Security dropped like a bombshell on cybersecurity stocks | Alex Gutscher | [Read More](https://medium.com/p/698ea44496a3) |
-| Sun, 22 Feb 2026 04:38:01 GMT | Understanding TCP Flags | Rithikarao | [Read More](https://medium.com/p/9b32a33c2e6a) |
-| Sun, 22 Feb 2026 04:31:02 GMT | PumpkinGarden Walkthrough | pavani | [Read More](https://medium.com/p/bc29f1e90b83) |
-| Sun, 22 Feb 2026 04:29:07 GMT | When AI Agents Run the Cloud: The New Cybersecurity Battlefield | Samarth Arun Narula | [Read More](https://medium.com/p/a0ac8396dcb8) |
-| Sun, 22 Feb 2026 04:26:31 GMT | The OpenClaw Security Nightmare: Why Developers are Migrating to NanoClaw (and How to Safely Build… | kakrana | [Read More](https://medium.com/p/53d6ea843384) |
-| Sun, 22 Feb 2026 04:14:49 GMT | Your JWT Implementation Is Probably Insecure | Sachin Kasana | [Read More](https://medium.com/p/851cecfc53a4) |
-| Sun, 22 Feb 2026 04:14:39 GMT | I Audited a Popular Open-Source AI Assistant. | Terminals & Coffee | [Read More](https://medium.com/p/cd20a0649b22) |
-| Sun, 22 Feb 2026 04:11:01 GMT | How I Monitor new Assets 24/7 without any VPS | Abhirup Konwar | [Read More](https://medium.com/p/13342b94fac7) |
-| Sun, 22 Feb 2026 04:04:25 GMT | TryHackMe — Computer Types Walkthrough | LEVI | [Read More](https://medium.com/p/b6f4e44ded74) |
-| Sun, 22 Feb 2026 03:56:29 GMT | I Shared My Breakdown Online. It Got 50K Views. I Still Felt Empty. | Thrive & Learn | [Read More](https://medium.com/p/42da47ddbf2b) |
-| Sun, 22 Feb 2026 03:56:01 GMT | SSRF via Stored Profile Data in an AI Chatbot — A Real-World Case Study | Xp10it | [Read More](https://medium.com/p/83355beac933) |
-| Sun, 22 Feb 2026 03:32:23 GMT | Dari Bug ke Business Value: Cara Saya Memandang Permasalahan IT | Muhammad Rifqi thufail fahmi | [Read More](https://medium.com/p/3d0062e46381) |
-| Sun, 22 Feb 2026 03:19:40 GMT | TryHackMe — Inside a Computer System Walkthrough | LEVI | [Read More](https://medium.com/p/32f7425041d4) |
