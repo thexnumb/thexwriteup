@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Feb 2026 06:37:53 GMT | Weekly Crypto & Web3 Safety Digest — CW08 2026 | 5-minute digital safety power-ups | [Read More](https://medium.com/p/a653ffa49544) |
+| Sun, 22 Feb 2026 06:35:09 GMT | When Innovation and Governance Speak Different Languages | Kelly Wan | [Read More](https://medium.com/p/4690ada96727) |
+| Sun, 22 Feb 2026 06:29:29 GMT | What is Cybersecurity? | Chima A M | [Read More](https://medium.com/p/2a8fdce184c4) |
+| Sun, 22 Feb 2026 06:27:28 GMT | From Behind the Scenes to Center Stage — What One Workshop Taught Me | Naga Gayathri | [Read More](https://medium.com/p/9a2a8eb09ea0) |
+| Sun, 22 Feb 2026 06:21:39 GMT | The CIA Triad | Ethan Wang | [Read More](https://medium.com/p/d58bb0a24738) |
+| Sun, 22 Feb 2026 06:13:10 GMT | Cybersecurity Foundations Part 6: The Master Blueprint — Synthesizing a Holistic Security Strategy | Elmir | [Read More](https://medium.com/p/b9d24ec5c564) |
+| Sun, 22 Feb 2026 06:13:06 GMT | Get hands-on with Purview Data Security Investigations! : Part 2 | Yash Mudaliar | [Read More](https://medium.com/p/cc7265cecf1e) |
+| Sun, 22 Feb 2026 06:08:42 GMT | Cybersecurity Foundations Part 5: Hiding in Plain Sight — The Great Debate Over Security Through… | Elmir | [Read More](https://medium.com/p/9bcb561cb687) |
+| Sun, 22 Feb 2026 05:47:11 GMT | The Anthropic Shockwave: Why Claude Code Security Just Nuked Cybersecurity Stocks | Mandar Karhade, MD. PhD. | [Read More](https://medium.com/p/45070d308bb9) |
+| Sun, 22 Feb 2026 05:45:59 GMT | The Pixel 10a will finally end the Tensor debate | SHAHID RIAZ | [Read More](https://medium.com/p/a41c9f6886f7) |
+| Sun, 22 Feb 2026 05:42:18 GMT | Pass the Certificate — Password Attacks | Nouman Ali Khan | [Read More](https://medium.com/p/544d80fca785) |
+| Sun, 22 Feb 2026 05:38:24 GMT | How a User Enumeration Vulnerability was found in an OTP Authentication API | Philip James | [Read More](https://medium.com/p/a92d6235c640) |
+| Sun, 22 Feb 2026 05:35:40 GMT | My safe place to hide | Didymus The Twin | [Read More](https://medium.com/p/05b9b112da66) |
 | Sun, 22 Feb 2026 05:30:33 GMT | Cloud Security Misconfigurations: The Top 5 Mistakes That Lead to Data Breaches | Cyber Aries | [Read More](https://medium.com/p/ed8e61cf1269) |
 | Sun, 22 Feb 2026 05:26:43 GMT | Did the Market Overreact to Claude Code Security? | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/d1aeb2475290) |
 | Sun, 22 Feb 2026 05:22:31 GMT | Volt Typhoon - TryHackme - Splunk | Jose Praveen | [Read More](https://medium.com/p/2a466b9c8e88) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Feb 2026 19:42:30 GMT | The 2026 Internet Utility Belt: 20+ Tools That Actually Help (And a Few That Will Ruin Your Life) | ABV | [Read More](https://medium.com/p/d41fc46b9683) |
 | Sat, 21 Feb 2026 19:37:50 GMT | HTB DFIR Sherlock: LuckyShot | WildPasta | [Read More](https://medium.com/p/9af91d7b23cd) |
 | Sat, 21 Feb 2026 19:29:07 GMT | Compliance vs. Real-World Security: Why Passing an Audit Doesn’t Mean You’re Safe | Dr Kimma Wreh | [Read More](https://medium.com/p/445a23b0d723) |
-| Sat, 21 Feb 2026 19:27:15 GMT | Savunma Çöktüğünde | Betul Toy | [Read More](https://medium.com/p/8da90e5a2f4f) |
-| Sat, 21 Feb 2026 19:23:15 GMT | Windows Shortcut Hijacking (Persistence) — an old but still effective technique. | Ravi | [Read More](https://medium.com/p/9af6d708cf5c) |
-| Sat, 21 Feb 2026 19:22:28 GMT | JKU Header Injection: From Vulnerable Code to Full Authentication Bypass | Dipesh Paul | [Read More](https://medium.com/p/fbde5815964f) |
-| Sat, 21 Feb 2026 19:20:48 GMT | How to Build a Practical PoC: A No Nonsense Guide to Command Injection | Salihugurlu | [Read More](https://medium.com/p/1cbee91efde6) |
-| Sat, 21 Feb 2026 19:18:55 GMT | Securing AI Apps at the Speed of Vibe Coding: A First Look at Arko | Craig McCart | [Read More](https://medium.com/p/a0022f8845d1) |
-| Sat, 21 Feb 2026 19:18:20 GMT | The Grand Architecture: Synthesizing a Cohesive Security Strategy | Aynur Dunyamaliyeva | [Read More](https://medium.com/p/5423a92b8a2c) |
-| Sat, 21 Feb 2026 19:15:09 GMT | Security Through Obscurity: A Shield or a Mirage? | Aynur Dunyamaliyeva | [Read More](https://medium.com/p/6327e616e921) |
-| Sat, 21 Feb 2026 19:10:40 GMT | Cyber Security vs Web Development | Texastech Baseball | [Read More](https://medium.com/p/a1becbd4b5aa) |
-| Sat, 21 Feb 2026 19:10:35 GMT | “The $2.5 Trillion AI Bet That Could Break the Economy” | dr.fxwifi | [Read More](https://medium.com/p/9548ae4bcc4d) |
-| Sat, 21 Feb 2026 18:59:05 GMT | Database SQL Basics (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/359255c328e1) |
-| Sat, 21 Feb 2026 18:49:21 GMT | The Hidden Security Crisis in Enterprise AI | Alex Hosein | [Read More](https://medium.com/p/f5c99383a3dd) |
-| Sat, 21 Feb 2026 18:48:36 GMT | Is Anthropic’s Claude Code Security a Game Changer for Cybersecurity? | Srinija Puvvula | [Read More](https://medium.com/p/c45c06182a2f) |
-| Sat, 21 Feb 2026 18:46:00 GMT | The Day Microsoft Lost Its Signing Key | Bilal Zuberi | [Read More](https://medium.com/p/18e2ec7f8cec) |
