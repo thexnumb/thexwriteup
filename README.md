@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Feb 2026 10:23:23 GMT | Forging zkSNARK Proofs via Misconfigured Verification Keys: The Veil_01_ETH Exploit | Evgenii | [Read More](https://medium.com/p/2a6bb7d0078b) |
+| Sun, 22 Feb 2026 10:21:49 GMT | From a Simple Stack Trace to Accessing an SAP Portal. | Gaurang Jethva | [Read More](https://medium.com/p/4238c110ff3c) |
+| Sun, 22 Feb 2026 10:21:37 GMT | Deploying a Full-Stack Web App on AWS with Secure VPC Architecture | Varun Gopal | [Read More](https://medium.com/p/6ce2b3bc154f) |
+| Sun, 22 Feb 2026 10:12:49 GMT | Anthropic Launches Claude Code Security: AI Begins Taking Over Code Security | AI Engineering | [Read More](https://medium.com/p/f9b7daab325f) |
+| Sun, 22 Feb 2026 10:11:55 GMT | Android Güvenliğinin Evrimi: Permission Sistemi Kullanıcıyı Nasıl Güçlendirdi? | Rüçhan Okal | [Read More](https://medium.com/p/df4ba572ede7) |
+| Sun, 22 Feb 2026 10:01:01 GMT | Breaking Into Cybersecurity Without Coding: A Practical Guide | Victoria Coker | [Read More](https://medium.com/p/c049b23ba4f7) |
+| Sun, 22 Feb 2026 09:59:56 GMT | Asset management | Deshmukha | [Read More](https://medium.com/p/1a1336324e56) |
+| Sun, 22 Feb 2026 09:55:25 GMT | Part 3 - Defeating the “Harvest Now, Decrypt Later” Paradigm | PhantomKey Technologies | [Read More](https://medium.com/p/cb73c265d98e) |
+| Sun, 22 Feb 2026 09:53:24 GMT | I Found a Critical SSRF Vulnerability That Could Have Exposed an Entire Server Here’s How | Hacker MD | [Read More](https://medium.com/p/0a69c2ba2dee) |
+| Sun, 22 Feb 2026 09:47:41 GMT | Why I’m Moving Away from “AI” Document Tools in 2026 | Muhammad Mansoor - Founder of DocCraft | [Read More](https://medium.com/p/4d1e553399e7) |
+| Sun, 22 Feb 2026 09:46:08 GMT | The $15 Billion Wake-Up Call: How Anthropic’s Claude Code Security Just Rewrote the Rules of… | Faisal haque | [Read More](https://medium.com/p/499273463ca0) |
+| Sun, 22 Feb 2026 09:39:07 GMT | What Happens When an Adversary Doesn’t Hack Your AI — They Just Feed It Lies? | Tamas Pilisko | [Read More](https://medium.com/p/b42264b7003e) |
+| Sun, 22 Feb 2026 09:33:31 GMT | Synthesizing Security Concepts: Building a Cohesive Strategy | Abeshiri Ab | [Read More](https://medium.com/p/21d83563e5ed) |
 | Sun, 22 Feb 2026 09:29:46 GMT | Bitunix security features | Abasido Tom | [Read More](https://medium.com/p/acb007859b6f) |
 | Sun, 22 Feb 2026 09:22:42 GMT | Opensource Openclaw security kit (turnkey solution) | Nino | [Read More](https://medium.com/p/61c11cb7bb22) |
 | Sun, 22 Feb 2026 09:07:03 GMT | Automate & Secure Your AI Workflow | Everton Araújo | [Read More](https://medium.com/p/2c8b905171f6) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Feb 2026 00:24:48 GMT | Cybersecurity for Healthcare | Anish Jogi | [Read More](https://medium.com/p/7b572c10ab12) |
 | Sun, 22 Feb 2026 00:23:23 GMT | Securing AI Agents: An Architecture for Systems You Can’t Fully Control | Evangelos Pappas | [Read More](https://medium.com/p/fad4b9d5c8ef) |
 | Sun, 22 Feb 2026 00:08:55 GMT | Cybersecurity Awareness Scenario #1 | Devore McIntosh | [Read More](https://medium.com/p/9b86078e3006) |
-| Sun, 22 Feb 2026 00:05:11 GMT | How Attackers Use Certutil to Download and Decode Malware | wassim A | [Read More](https://medium.com/p/b37ae45fe7e9) |
-| Sat, 21 Feb 2026 23:58:55 GMT | 13 Essential Cloud Security Tips for 2026: Protect Your Data, Apps & Infrastructure | zulmai mola khil | [Read More](https://medium.com/p/f3a14c2e256b) |
-| Sat, 21 Feb 2026 23:56:25 GMT | The Best GRC Professionals Think Like Engineers | Nikita Gupta | [Read More](https://medium.com/p/a8cd2bb16e75) |
-| Sat, 21 Feb 2026 23:50:56 GMT | I Built 15+ Free Cybersecurity Tools That Run 100% in Your Browser | Fabian Peña | [Read More](https://medium.com/p/564c517e025f) |
-| Sat, 21 Feb 2026 23:50:03 GMT | Virtual Hosts (VHost) Nedir? | Songül Kızılay Özügürler | [Read More](https://medium.com/p/0cc1e4c700d8) |
-| Sat, 21 Feb 2026 23:22:18 GMT | Dark LLMs, Voice Clones, and Agentic Browsers | ToxSec | [Read More](https://medium.com/p/75e09060d9f2) |
-| Sat, 21 Feb 2026 23:21:05 GMT | Become a Hacker - Tryhackme | Aaron | [Read More](https://medium.com/p/80bb380d388a) |
-| Sat, 21 Feb 2026 23:12:04 GMT | The Chrome Extension You’re Using Wrong Is Probably Making You Slower | Michael Fauda | [Read More](https://medium.com/p/31aadd6f049a) |
-| Sat, 21 Feb 2026 23:00:23 GMT | What OpenClaw Really Is in simple English | Sajjad Ahmed | [Read More](https://medium.com/p/d9844b34bdfb) |
-| Sat, 21 Feb 2026 22:47:44 GMT | Stop Letting Entra ID Secrets Expire Silently — Build Your Own Monitoring With Docker | Jerome Duchene | [Read More](https://medium.com/p/bee246bf2526) |
-| Sat, 21 Feb 2026 22:47:22 GMT | Cybersecurity and Its Impact on International Relations | Linguistic Diplomacy | [Read More](https://medium.com/p/14cfed83df3f) |
-| Sat, 21 Feb 2026 22:39:17 GMT | Best Spy Camera for Nanny Monitoring with Audio Recording | Buyer’s Guide Pro | [Read More](https://medium.com/p/b870c88469d6) |
-| Sat, 21 Feb 2026 22:33:21 GMT | The Declaration of a 0° Draconic Pisces Sun | Nadia Bertolino | [Read More](https://medium.com/p/2b68c403694b) |
