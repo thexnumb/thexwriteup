@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Feb 2026 22:25:57 GMT | How to Leave Exchanges Without Getting Your Account Frozen | Izakaya Global | [Read More](https://medium.com/p/526b22f18ded) |
+| Sun, 22 Feb 2026 22:22:44 GMT | From Open Ports to Zero Trust: Securing My Home Lab | Tomer Klein | [Read More](https://medium.com/p/c46d2aabf0b7) |
+| Sun, 22 Feb 2026 22:13:17 GMT | The Scam You Never See Coming (Until It’s Too Late) | Inspire Pages | [Read More](https://medium.com/p/4df15b051ce5) |
+| Sun, 22 Feb 2026 22:11:19 GMT | Become a Hacker (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/93c5cd58c2fc) |
+| Sun, 22 Feb 2026 22:08:15 GMT | INE-Host & Network Penetration Testing: Exploitation CTF 3 by Singkhon | Singkhon K | [Read More](https://medium.com/p/dce7ccd3c278) |
+| Sun, 22 Feb 2026 22:04:07 GMT | Beyond the black box: A Multi-Stage approach for Evaluating AI-Pentest tools | Yoel Apu | [Read More](https://medium.com/p/f18d158079eb) |
+| Sun, 22 Feb 2026 21:52:51 GMT | If I Had to Restart in Cybersecurity Today — Here’s What I’d Do for 6 Months | Hamood Naseer Al-Marhoubi | [Read More](https://medium.com/p/b9242f4ec641) |
+| Sun, 22 Feb 2026 21:52:40 GMT | Between Love and Responsibility: A Historical Reflection on Vulnerability | Guilherme Andrade | [Read More](https://medium.com/p/8898893ad135) |
 | Sun, 22 Feb 2026 21:38:58 GMT | How Modern EDRs Detect the “Undetectable” Red Team Tradecraft | Yua Mikanana | [Read More](https://medium.com/p/7ad46429e0b8) |
 | Sun, 22 Feb 2026 21:26:12 GMT | Escaping the Sandbox: How a Simple Python Path Flaw Led to Host RCE | Hacker MD | [Read More](https://medium.com/p/817d39c95f86) |
 | Sun, 22 Feb 2026 21:10:20 GMT | Absolutely Free Hacker? Actually Yes! | Charles Burke | [Read More](https://medium.com/p/05e47477b714) |
@@ -106,11 +114,3 @@ They got it wrong | Stephanie Mccabe | [Read More](https://medium.com/p/f6b9878e
 | Sun, 22 Feb 2026 15:59:24 GMT | Building an API Security Lab as a Cybersecurity Engineer (Without Pretending It’s Production) | 'Tomiwa Adisa | [Read More](https://medium.com/p/d8547e65ea37) |
 | Sun, 22 Feb 2026 15:54:09 GMT | How to Set Up I2P (The Invisible Internet Protocol) on Linux — A Beginner-Friendly Guide | Amuy Thida | [Read More](https://medium.com/p/14d2b5a89e6c) |
 | Sun, 22 Feb 2026 15:52:23 GMT | How OSINT Is Transforming Modern Penetration Testing | CyberSources | [Read More](https://medium.com/p/1fcf61c766ee) |
-| Sun, 22 Feb 2026 15:44:38 GMT | I Built a Tool That Turns My Messy Study Notes Into Polished Articles — Here’s How | Naveen TK | [Read More](https://medium.com/p/3a0f73e0e4a8) |
-| Sun, 22 Feb 2026 15:43:06 GMT | The AI Boom Is Just the First Layer.The Real Wealth Is in What Comes After.人工智能热潮只是第一层，真正的财富在于后续发展。 | ZenLawWriter HealInvestor MindOnMarkets | [Read More](https://medium.com/p/f7ce81c5e951) |
-| Sun, 22 Feb 2026 15:40:29 GMT | cybersploit1 Walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/74acb085f6ce) |
-| Sun, 22 Feb 2026 15:38:49 GMT | How to Remove Your Info from Whitepages (2026 Guide) | Founder at DataEgress | [Read More](https://medium.com/p/f19c28f44db3) |
-| Sun, 22 Feb 2026 15:38:37 GMT | EntroGuard — Day 3 | Nisarg Patel | [Read More](https://medium.com/p/039eca5211db) |
-| Sun, 22 Feb 2026 15:38:18 GMT | Cyber Scams: Don’t Be A Victim show | Dr Kimma Wreh | [Read More](https://medium.com/p/9ce986a0ba64) |
-| Sun, 22 Feb 2026 15:37:56 GMT | Building Privacy-Aware Data Systems on Google Cloud: My Sensitive Data Protection Skill Badge… | SIVASUBRAMANIAN | [Read More](https://medium.com/p/b2cbbac9a374) |
-| Sun, 22 Feb 2026 15:36:44 GMT | Become a Defender - TryHackMe - Walkthrough | Anipra Pandya | [Read More](https://medium.com/p/359879229332) |
