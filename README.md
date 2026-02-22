@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Feb 2026 09:29:46 GMT | Bitunix security features | Abasido Tom | [Read More](https://medium.com/p/acb007859b6f) |
+| Sun, 22 Feb 2026 09:22:42 GMT | Opensource Openclaw security kit (turnkey solution) | Nino | [Read More](https://medium.com/p/61c11cb7bb22) |
+| Sun, 22 Feb 2026 09:07:03 GMT | Automate & Secure Your AI Workflow | Everton Araújo | [Read More](https://medium.com/p/2c8b905171f6) |
+| Sun, 22 Feb 2026 09:06:23 GMT | Why CVE Scanners Miss the Attacks That Actually Matter | Talex Maxim (taimax13) - #barracuda | [Read More](https://medium.com/p/4c621bd96dd2) |
+| Sun, 22 Feb 2026 09:03:46 GMT | HackerSavanna Inc. | HackerSavanna Inc. | [Read More](https://medium.com/p/1ca78b10277c) |
+| Sun, 22 Feb 2026 09:01:01 GMT | The Password Reset That Came 6 Hours Too Late | Alexandre Vandamme | [Read More](https://medium.com/p/fb89a1eb40f1) |
+| Sun, 22 Feb 2026 08:55:58 GMT | Can We Trust the Guardian? Why Wikipedia Shut Out archive.today | Yasuhiro Hatabe | [Read More](https://medium.com/p/b78ecd6d10cf) |
+| Sun, 22 Feb 2026 08:46:09 GMT | Building a Master Shield for the Digital Age | Telman Hajibutayev | [Read More](https://medium.com/p/58bd5e10c936) |
+| Sun, 22 Feb 2026 08:43:13 GMT | Breaking the Surface of Web Pentesting | Sahil Bhelkar | [Read More](https://medium.com/p/29f9bf1f691f) |
+| Sun, 22 Feb 2026 08:34:30 GMT | The “Hidden Key” Debate: Is Security Through Obscurity Actually Secure? | Telman Hajibutayev | [Read More](https://medium.com/p/24cd90b3a965) |
+| Sun, 22 Feb 2026 08:33:30 GMT | Learning Path : Incident Response 2 | Bara | [Read More](https://medium.com/p/a90ecc9198e8) |
 | Sun, 22 Feb 2026 08:09:45 GMT | DVWA: Brute Force (Low Security) | Kamal S | [Read More](https://medium.com/p/1e17b8b0073c) |
 | Sun, 22 Feb 2026 08:07:43 GMT | CVE-2023–33831 Walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/d92db8188620) |
 | Sun, 22 Feb 2026 08:00:36 GMT | Proving Grounds — Practice — Outdated | Makoyi | [Read More](https://medium.com/p/b940a1680532) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Feb 2026 22:47:22 GMT | Cybersecurity and Its Impact on International Relations | Linguistic Diplomacy | [Read More](https://medium.com/p/14cfed83df3f) |
 | Sat, 21 Feb 2026 22:39:17 GMT | Best Spy Camera for Nanny Monitoring with Audio Recording | Buyer’s Guide Pro | [Read More](https://medium.com/p/b870c88469d6) |
 | Sat, 21 Feb 2026 22:33:21 GMT | The Declaration of a 0° Draconic Pisces Sun | Nadia Bertolino | [Read More](https://medium.com/p/2b68c403694b) |
-| Sat, 21 Feb 2026 22:27:43 GMT | ID-Networks Cyber Defence Bootcamp : Task Lab 02 “Overwire Bandit” | Alif Radityo | [Read More](https://medium.com/p/0ed0417b8a33) |
-| Sat, 21 Feb 2026 22:25:44 GMT | Subdomain Collection Techniques in Cybersecurity | mohandika | [Read More](https://medium.com/p/19d0ed1f079f) |
-| Sat, 21 Feb 2026 22:13:28 GMT | JavaScript: Simple Demo Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/10c9ecb4e77e) |
-| Sat, 21 Feb 2026 21:58:50 GMT | Try Hack Me- pyLon CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/1c7c3d3d7e05) |
-| Sat, 21 Feb 2026 21:46:59 GMT | Synthesizing Security Concepts: Building a Cohesive Strategy | Kamalatluxanov | [Read More](https://medium.com/p/12436cd1b468) |
-| Sat, 21 Feb 2026 21:46:34 GMT | The LI job offers with a malware infection… | Roberto Capodieci | [Read More](https://medium.com/p/2d38c9880b34) |
-| Sat, 21 Feb 2026 21:46:14 GMT | Claude Code Security feels like a quiet turning point for how software security gets done. | Scottcmcmahan | [Read More](https://medium.com/p/69efdb0c6140) |
-| Sat, 21 Feb 2026 21:35:51 GMT | Security Through Obscurity: Does Hiding Really Mean Protecting? | Kamalatluxanov | [Read More](https://medium.com/p/6bb657df4826) |
-| Sat, 21 Feb 2026 21:31:14 GMT | Ottergram writeup (LFI) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/1e4fa8795e24) |
-| Sat, 21 Feb 2026 21:29:58 GMT | INE-Host & Network Penetration Testing: Exploitation CTF 2 by Sinkhon | Singkhon K | [Read More](https://medium.com/p/870dd6c95b5a) |
-| Sat, 21 Feb 2026 21:20:59 GMT | Defense in Depth | Ali Shukurov | [Read More](https://medium.com/p/55661ed2e43f) |
