@@ -12,11 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Feb 2026 14:49:14 GMT | ATM Hacks, Africa Ops & The Making of Safe Security ft. Rahul Tyagi | Cyber Unbound | [Read More](https://medium.com/p/46a77c819173) |
+| Sun, 22 Feb 2026 14:46:00 GMT | 6. WebSocket Authorization Bypass Vulnerability leads to $$$ | Abhijeet kumawat | [Read More](https://medium.com/p/7dd3aa376558) |
+| Sun, 22 Feb 2026 14:42:41 GMT | Cybersecurity is not just for hackers — it’s for everyone who uses the internet. | Yogesh Mali | [Read More](https://medium.com/p/e3dd797130bb) |
+| Sun, 22 Feb 2026 14:41:55 GMT | A Critical CSS Vulnerability in Chrome? Here’s What Actually Happened (Explained Simply) | Amuy Thida | [Read More](https://medium.com/p/80bab3ce7ae3) |
+| Sun, 22 Feb 2026 14:39:56 GMT | Breaking ROT13 — picoCTF Easy Challenge Writeup | 3m Mohamed | [Read More](https://medium.com/p/1e0e15f141df) |
+| Sun, 22 Feb 2026 14:39:41 GMT | PayPal’s 16 Million-User Data Breach: Strategic Lessons for Ecommerce, FinTech and Enterprise… | eL Njas!™ | [Read More](https://medium.com/p/b1b2d07e2b90) |
+| Sun, 22 Feb 2026 14:39:37 GMT | Your Analytics Tracker Just Became a SQL Injection Gateway | OopsSec Store | [Read More](https://medium.com/p/1e6c91e46879) |
+| Sun, 22 Feb 2026 14:39:24 GMT | Thinking Like an Attacker: How SQL Injection Breaks API Authentication | Joyatee Datta | [Read More](https://medium.com/p/fff4c4e47942) |
+| Sun, 22 Feb 2026 14:38:50 GMT | Is Your Java App Sitting on a Security Time Bomb? Meet the Online JAR Vulnerability Scanner | Simon Reed | [Read More](https://medium.com/p/ceef2e3a1334) |
+| Sun, 22 Feb 2026 14:33:46 GMT | Makineler Karar Verirse Suçlu Kim? AIoT ve Geleceğin İnterneti | Emirhan Keser | [Read More](https://medium.com/p/f92b08f8df9d) |
+| Sun, 22 Feb 2026 14:32:56 GMT | My Airplane Mode Makes Me Invisible. Right??? | O. J. Okpabi | [Read More](https://medium.com/p/2fa76d2370d7) |
+| Sun, 22 Feb 2026 14:31:59 GMT | Hands-on: Implementing Security Best Practices in a Production Environment | Engineer Palsu | [Read More](https://medium.com/p/e47068a0f63d) |
+| Sun, 22 Feb 2026 14:31:00 GMT | Stop Silent Permission Drift: 9 Tool Contracts for Agents | Duckweave | [Read More](https://medium.com/p/c09832c6a683) |
+| Sun, 22 Feb 2026 14:30:38 GMT | The Principle of Least Privilege: Minimizing Risk and Strengthening Security Posture | cyberhunter | [Read More](https://medium.com/p/9dd893e662c0) |
+| Sun, 22 Feb 2026 14:30:01 GMT | AI Age — Not a Simple Wave of Layoffs, but a Structural Transformation of the Global Economy | Tiglu Mekuria | [Read More](https://medium.com/p/b5931f5a16d9) |
+| Sun, 22 Feb 2026 14:27:31 GMT | The Power of Defense in Depth: Building Layers of Protection for a Robust Cybersecurity Strategy | cyberhunter | [Read More](https://medium.com/p/a12bc8e40fbf) |
 | Sun, 22 Feb 2026 14:19:47 GMT | Pentesting Is Not Entry-Level — And That’s Exactly Why the Jobs Are Scarce | 0xAbhiSec | [Read More](https://medium.com/p/bfe382c9da04) |
 | Sun, 22 Feb 2026 14:10:10 GMT | Building Strong Cybersecurity: 5 Principles Every Tech Company Should Know | Ahmed Taghiyev | [Read More](https://medium.com/p/a3313488f40e) |
 | Sun, 22 Feb 2026 14:03:13 GMT | Why Capital Efficiency Is the Real Product in DeFi | Mukeshrana | [Read More](https://medium.com/p/329261519091) |
 | Sun, 22 Feb 2026 14:01:01 GMT | When Prompts Turn into Payloads: Tool Boundary Attacks | Thinking Loop | [Read More](https://medium.com/p/c0bc6d40e987) |
 | Sun, 22 Feb 2026 14:01:01 GMT | The New Romance Scam: How Digital Predators Really Work | Richard Buchfink | [Read More](https://medium.com/p/2d77faa4df96) |
+| Sun, 22 Feb 2026 13:52:06 GMT | Sistemin Kuralını Değiştirin: Hacker Mantığı ile Kuralları Yeniden Yazma Sanatı | shinemu rock | [Read More](https://medium.com/p/8bf41a300a96) |
 | Sun, 22 Feb 2026 13:43:30 GMT | My First Attempt at Kubernetes Network Policies | Pooja | [Read More](https://medium.com/p/16e660b603cc) |
 | Sun, 22 Feb 2026 13:41:43 GMT | Bangalore Btech Colleges with Management Quota Seats 2026 | Management Guru | [Read More](https://medium.com/p/a9c56294defa) |
 | Sun, 22 Feb 2026 13:37:32 GMT | Why Lumera Is Not “Just Another Blockchain” | Chidimma Amarachi | [Read More](https://medium.com/p/21787bf2feb0) |
@@ -63,6 +80,7 @@ Freelancing looks easy from the outside. | Muzamil Hussain | [Read More](https:/
 | Sun, 22 Feb 2026 11:26:30 GMT | Quantum Exploits Without Quantum Computers | Talex Maxim (taimax13) - #barracuda | [Read More](https://medium.com/p/3291b42405f5) |
 | Sun, 22 Feb 2026 11:20:55 GMT | From MSSQL to Domain Admin: Fileless Lateral Movement in Hybrid Active Directory | Aenosh Rajora | [Read More](https://medium.com/p/c352dc11a836) |
 | Sun, 22 Feb 2026 11:11:41 GMT | Detection & Alerting for Common Cyber Attacks Using Splunk | Jenishjoel | [Read More](https://medium.com/p/f9af2c758919) |
+| Sun, 22 Feb 2026 11:06:45 GMT | Thinking Like an Attacker: How API Pen-Testers Identify IDOR (Insecure Direct Object Reference) | Kipc-Sharon | [Read More](https://medium.com/p/2d95ed06053e) |
 | Sun, 22 Feb 2026 11:05:30 GMT | Defense in Depth: A Foundational Principle for Technology-Driven Organizations | madsl0w | [Read More](https://medium.com/p/528d2cc5ddad) |
 | Sun, 22 Feb 2026 11:05:10 GMT | SIEM Explained: A Complete Guide to Security Information & Event Management (Log Collection… | Cyber Wolf | [Read More](https://medium.com/p/e7c18b233c09) |
 | Sun, 22 Feb 2026 10:51:47 GMT | Thinking Like an Attacker: How API Pen-Testers Identify IDOR | Aishat Olayinka Yusuf | [Read More](https://medium.com/p/300cae37cff2) |
@@ -71,6 +89,7 @@ Freelancing looks easy from the outside. | Muzamil Hussain | [Read More](https:/
 | Sun, 22 Feb 2026 10:38:19 GMT | How to Build a Professional SIEM Lab on Your Laptop (Step-by-Step) | Alif Ekasmara | [Read More](https://medium.com/p/1c0fec93341e) |
 | Sun, 22 Feb 2026 10:37:10 GMT | eadingReading | zimthegoat | [Read More](https://medium.com/p/125387b1e5ac) |
 | Sun, 22 Feb 2026 10:36:24 GMT | Understanding Controls in CyberSecurity Frameworks | Jenny | [Read More](https://medium.com/p/a9f56d3fb947) |
+| Sun, 22 Feb 2026 10:35:36 GMT | Love Letter Locker | #UNKNOWN | [Read More](https://medium.com/p/783f04a33db2) |
 | Sun, 22 Feb 2026 10:31:45 GMT | Turn Your CacheGuard Gateway into a Global VPN Server — No Fixed IP Needed | CacheGuard Technologies | [Read More](https://medium.com/p/0494e7cbe567) |
 | Sun, 22 Feb 2026 10:23:23 GMT | Forging zkSNARK Proofs via Misconfigured Verification Keys: The Veil_01_ETH Exploit | Evgenii | [Read More](https://medium.com/p/2a6bb7d0078b) |
 | Sun, 22 Feb 2026 10:21:49 GMT | From a Simple Stack Trace to Accessing an SAP Portal. | Gaurang Jethva | [Read More](https://medium.com/p/4238c110ff3c) |
@@ -94,22 +113,3 @@ Freelancing looks easy from the outside. | Muzamil Hussain | [Read More](https:/
 | Sun, 22 Feb 2026 09:03:46 GMT | HackerSavanna Inc. | HackerSavanna Inc. | [Read More](https://medium.com/p/1ca78b10277c) |
 | Sun, 22 Feb 2026 09:01:01 GMT | The Password Reset That Came 6 Hours Too Late | Alexandre Vandamme | [Read More](https://medium.com/p/fb89a1eb40f1) |
 | Sun, 22 Feb 2026 08:55:58 GMT | Can We Trust the Guardian? Why Wikipedia Shut Out archive.today | Yasuhiro Hatabe | [Read More](https://medium.com/p/b78ecd6d10cf) |
-| Sun, 22 Feb 2026 08:46:09 GMT | Building a Master Shield for the Digital Age | Telman Hajibutayev | [Read More](https://medium.com/p/58bd5e10c936) |
-| Sun, 22 Feb 2026 08:43:13 GMT | Breaking the Surface of Web Pentesting | Sahil Bhelkar | [Read More](https://medium.com/p/29f9bf1f691f) |
-| Sun, 22 Feb 2026 08:34:30 GMT | The “Hidden Key” Debate: Is Security Through Obscurity Actually Secure? | Telman Hajibutayev | [Read More](https://medium.com/p/24cd90b3a965) |
-| Sun, 22 Feb 2026 08:33:30 GMT | Learning Path : Incident Response 2 | Bara | [Read More](https://medium.com/p/a90ecc9198e8) |
-| Sun, 22 Feb 2026 08:09:45 GMT | DVWA: Brute Force (Low Security) | Kamal S | [Read More](https://medium.com/p/1e17b8b0073c) |
-| Sun, 22 Feb 2026 08:07:43 GMT | CVE-2023–33831 Walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/d92db8188620) |
-| Sun, 22 Feb 2026 08:00:36 GMT | Proving Grounds — Practice — Outdated | Makoyi | [Read More](https://medium.com/p/b940a1680532) |
-| Sun, 22 Feb 2026 07:58:58 GMT | CYBER CRIME: A REAL THREAT? | Nischay Dabas | [Read More](https://medium.com/p/0ac78c819000) |
-| Sun, 22 Feb 2026 07:54:58 GMT | Kerberos Misconfiguration to Get Domain Access (AS-REP Roasting Explained) | Sachin kewat | [Read More](https://medium.com/p/df533e6cd60e) |
-| Sun, 22 Feb 2026 07:43:48 GMT | PowerHell: A PowerShell Payload Generator & Obfuscator for Red Teamers | Vaibhav | [Read More](https://medium.com/p/9ecd039255e9) |
-| Sun, 22 Feb 2026 07:42:10 GMT | Why the Smartest People in Tech Are Quietly Panicking Right Now | Vijay Kumar Gupta | [Read More](https://medium.com/p/3643b375965d) |
-| Sun, 22 Feb 2026 07:36:24 GMT | Best Online Ethical Hacking Course for Future Ethical Hackers | cyber security Updates | [Read More](https://medium.com/p/054e780059ca) |
-| Sun, 22 Feb 2026 07:35:34 GMT | DNS Hijacking & Internal Phishing | ghostyjoe | [Read More](https://medium.com/p/6d440da48212) |
-| Sun, 22 Feb 2026 07:34:33 GMT | PRACTICAL WEB HACKING — HANDS-ON. REAL LABS. REAL SKILLS. | Dallen Sadru | [Read More](https://medium.com/p/16b3d887f180) |
-| Sun, 22 Feb 2026 07:32:47 GMT | Writeup HackTheBox Sherlock: Advent of The Relics 2 — Operation Winter Blackout | Dixtroiza | [Read More](https://medium.com/p/043961e698ca) |
-| Sun, 22 Feb 2026 07:30:21 GMT | Part 4: Building the Foundation: What is “Secure by Design”? | Telman Hajibutayev | [Read More](https://medium.com/p/cbfa1a24fda3) |
-| Sun, 22 Feb 2026 07:29:14 GMT | Part 3: The “Two-Person Rule”: Mastering Separation of Duties (SoD) | Telman Hajibutayev | [Read More](https://medium.com/p/c7fe6158122a) |
-| Sun, 22 Feb 2026 07:27:25 GMT | Setting Up Your First Thick Client Testing Lab | Madhumathi chamarthi | [Read More](https://medium.com/p/fa8c1c9a4998) |
-| Sun, 22 Feb 2026 07:25:22 GMT | Websites Are Leaking Their Own Secrets. | TEJAS | [Read More](https://medium.com/p/c6e8367ba557) |
