@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Feb 2026 23:18:59 GMT | If You Think You Might Be in a Romance or Investment Scam, Start Here | El Proyecto Quiscalus | [Read More](https://medium.com/p/0be29b89fe1c) |
+| Sun, 22 Feb 2026 23:14:34 GMT | Networking -Cybersecurity 101 TryHackMe | Fabiosrocha | [Read More](https://medium.com/p/2b674bc810f4) |
+| Sun, 22 Feb 2026 23:09:12 GMT | How a Small Validation Bypass Enabled Invisible Identities | Mahmoud Farag | [Read More](https://medium.com/p/cc600577b98d) |
+| Sun, 22 Feb 2026 23:02:13 GMT | The Ransomware Came From Inside the System | Tim McAllister | [Read More](https://medium.com/p/67482de50be5) |
+| Sun, 22 Feb 2026 22:50:34 GMT | AI Dominates Cybersecurity | Matthew.Rosenquist | [Read More](https://medium.com/p/8c2b478b6a7d) |
 | Sun, 22 Feb 2026 22:45:32 GMT | From Observation to Simulation: Building a Selective Forwarding Scenario in Contiki | Shreya Gajjar | [Read More](https://medium.com/p/c31f4193a586) |
 | Sun, 22 Feb 2026 22:25:57 GMT | How to Leave Exchanges Without Getting Your Account Frozen | Izakaya Global | [Read More](https://medium.com/p/526b22f18ded) |
 | Sun, 22 Feb 2026 22:22:44 GMT | From Open Ports to Zero Trust: Securing My Home Lab | Tomer Klein | [Read More](https://medium.com/p/c46d2aabf0b7) |
@@ -109,8 +114,3 @@ They got it wrong | Stephanie Mccabe | [Read More](https://medium.com/p/f6b9878e
 | Sun, 22 Feb 2026 16:20:41 GMT | Literature Review On Cadastral Information System | Vanessa from Trinity College | [Read More](https://medium.com/p/858506ae1f65) |
 | Sun, 22 Feb 2026 16:19:18 GMT | GraphQL Pentesting for Bug Bounty Hunters: From Endpoint Discovery to High-Impact Exploits…! | MPGODMATCH | [Read More](https://medium.com/p/821f64a953b5) |
 | Sun, 22 Feb 2026 16:18:51 GMT | Securing the Backbone — Issue #1: What is Software Supply Chain Security & Why It Matters | Eric Gallagher | [Read More](https://medium.com/p/1868536929c7) |
-| Sun, 22 Feb 2026 16:14:18 GMT | What is Wazuh? My Personal Experience with Open-Source SIEM as a Cybersecurity Analyst | Maneesha Dewmina | [Read More](https://medium.com/p/c11c268a0894) |
-| Sun, 22 Feb 2026 16:02:40 GMT | FOUR WAYS TO BREAK⛓️‍ | S. Onwuchekwa (MB;BS) | [Read More](https://medium.com/p/bda6b8938bfc) |
-| Sun, 22 Feb 2026 16:01:13 GMT | The Road to Q-Day | Amit Tomar | [Read More](https://medium.com/p/b5e39efd000b) |
-| Sun, 22 Feb 2026 15:59:24 GMT | Building an API Security Lab as a Cybersecurity Engineer (Without Pretending It’s Production) | 'Tomiwa Adisa | [Read More](https://medium.com/p/d8547e65ea37) |
-| Sun, 22 Feb 2026 15:54:09 GMT | How to Set Up I2P (The Invisible Internet Protocol) on Linux — A Beginner-Friendly Guide | Amuy Thida | [Read More](https://medium.com/p/14d2b5a89e6c) |
