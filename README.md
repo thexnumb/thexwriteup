@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Feb 2026 11:11:41 GMT | Detection & Alerting for Common Cyber Attacks Using Splunk | Jenishjoel | [Read More](https://medium.com/p/f9af2c758919) |
+| Sun, 22 Feb 2026 11:05:30 GMT | Defense in Depth: A Foundational Principle for Technology-Driven Organizations | madsl0w | [Read More](https://medium.com/p/528d2cc5ddad) |
+| Sun, 22 Feb 2026 11:05:10 GMT | SIEM Explained: A Complete Guide to Security Information & Event Management (Log Collection… | Cyber Wolf | [Read More](https://medium.com/p/e7c18b233c09) |
+| Sun, 22 Feb 2026 10:51:47 GMT | Thinking Like an Attacker: How API Pen-Testers Identify IDOR | Aishat Olayinka Yusuf | [Read More](https://medium.com/p/300cae37cff2) |
 | Sun, 22 Feb 2026 10:43:43 GMT | Empowering your Digital Journey | Marketingnepaxis | [Read More](https://medium.com/p/056fcb64bef4) |
 | Sun, 22 Feb 2026 10:43:29 GMT | From Credential Stuffing to Backdoor: Investigating a Web App Compromise — HTB Sherlock Meerkat | Umarkhan | [Read More](https://medium.com/p/682d6ddd22e1) |
 | Sun, 22 Feb 2026 10:38:19 GMT | How to Build a Professional SIEM Lab on Your Laptop (Step-by-Step) | Alif Ekasmara | [Read More](https://medium.com/p/1c0fec93341e) |
@@ -27,6 +31,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Feb 2026 10:01:01 GMT | Breaking Into Cybersecurity Without Coding: A Practical Guide | Victoria Coker | [Read More](https://medium.com/p/c049b23ba4f7) |
 | Sun, 22 Feb 2026 09:59:56 GMT | Asset management | Deshmukha | [Read More](https://medium.com/p/1a1336324e56) |
 | Sun, 22 Feb 2026 09:55:25 GMT | Part 3 - Defeating the “Harvest Now, Decrypt Later” Paradigm | PhantomKey Technologies | [Read More](https://medium.com/p/cb73c265d98e) |
+| Sun, 22 Feb 2026 09:54:56 GMT | Why SAST is Broken! | Brett Crawley | [Read More](https://medium.com/p/4e2cb10c968c) |
 | Sun, 22 Feb 2026 09:53:24 GMT | I Found a Critical SSRF Vulnerability That Could Have Exposed an Entire Server Here’s How | Hacker MD | [Read More](https://medium.com/p/0a69c2ba2dee) |
 | Sun, 22 Feb 2026 09:47:41 GMT | Why I’m Moving Away from “AI” Document Tools in 2026 | Muhammad Mansoor - Founder of DocCraft | [Read More](https://medium.com/p/4d1e553399e7) |
 | Sun, 22 Feb 2026 09:46:08 GMT | The $15 Billion Wake-Up Call: How Anthropic’s Claude Code Security Just Rewrote the Rules of… | Faisal haque | [Read More](https://medium.com/p/499273463ca0) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Feb 2026 02:06:02 GMT | Symfonos 5.2 Write-Up [Turkish] | Ahmet KILIÇ | [Read More](https://medium.com/p/2b3b292d31d4) |
 | Sun, 22 Feb 2026 02:00:55 GMT | The Letter That Wasn’t Read | Mammon | [Read More](https://medium.com/p/2030d12335be) |
 | Sun, 22 Feb 2026 01:59:33 GMT | You Never Knew Who You Were Until You Lost Yourself | Mammon | [Read More](https://medium.com/p/9f717d4f9bdb) |
-| Sun, 22 Feb 2026 01:27:38 GMT | # The Hokkaido Pact: How a Disarmed Nation Could Bind Four Superpowers and Restructure East Asian… | Sunai | [Read More](https://medium.com/p/9d9a96a7c767) |
-| Sun, 22 Feb 2026 01:26:13 GMT | FahemSec HackStart CTF | 0xDolphin | [Read More](https://medium.com/p/c116113b0fd9) |
-| Sun, 22 Feb 2026 01:20:49 GMT | Artificial Intelligence as a Catalyst for Public Sector Digital Transformation | Daniel Possebon Bargas | [Read More](https://medium.com/p/8050d1d4cdf9) |
-| Sun, 22 Feb 2026 01:15:36 GMT | Zero Trust and Human Bias | Abdelmutalib Salih Ibrahim Ezeldeen | [Read More](https://medium.com/p/c9918c770bc2) |
-| Sun, 22 Feb 2026 01:12:08 GMT | That Green Dot on Your iPhone Isn’t As Safe As You Think | Virus Vanguard | [Read More](https://medium.com/p/d80569b5be23) |
