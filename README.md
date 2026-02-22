@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Feb 2026 04:26:31 GMT | The OpenClaw Security Nightmare: Why Developers are Migrating to NanoClaw (and How to Safely Build… | kakrana | [Read More](https://medium.com/p/53d6ea843384) |
+| Sun, 22 Feb 2026 04:14:49 GMT | Your JWT Implementation Is Probably Insecure | Sachin Kasana | [Read More](https://medium.com/p/851cecfc53a4) |
+| Sun, 22 Feb 2026 04:14:39 GMT | I Audited a Popular Open-Source AI Assistant. | Terminals & Coffee | [Read More](https://medium.com/p/cd20a0649b22) |
+| Sun, 22 Feb 2026 04:11:01 GMT | How I Monitor new Assets 24/7 without any VPS | Abhirup Konwar | [Read More](https://medium.com/p/13342b94fac7) |
+| Sun, 22 Feb 2026 04:04:25 GMT | TryHackMe — Computer Types Walkthrough | LEVI | [Read More](https://medium.com/p/b6f4e44ded74) |
+| Sun, 22 Feb 2026 03:56:29 GMT | I Shared My Breakdown Online. It Got 50K Views. I Still Felt Empty. | Thrive & Learn | [Read More](https://medium.com/p/42da47ddbf2b) |
+| Sun, 22 Feb 2026 03:56:01 GMT | SSRF via Stored Profile Data in an AI Chatbot — A Real-World Case Study | Xp10it | [Read More](https://medium.com/p/83355beac933) |
+| Sun, 22 Feb 2026 03:19:40 GMT | TryHackMe — Inside a Computer System Walkthrough | LEVI | [Read More](https://medium.com/p/32f7425041d4) |
+| Sun, 22 Feb 2026 03:07:13 GMT | From WordPress to Root: Compromising Basic Pentesting 1 (VulnHub) | Robert Perez | [Read More](https://medium.com/p/6b83d60ce24b) |
+| Sun, 22 Feb 2026 02:44:34 GMT | How Real Attackers Stay Inside Networks for Months | 0xpwny | [Read More](https://medium.com/p/f5bf7ca92e18) |
 | Sun, 22 Feb 2026 02:18:24 GMT | PwnedLabs: Loot Exchange, Teams and SharePoint with GraphRunner | Persecure | [Read More](https://medium.com/p/c46babca5f46) |
 | Sun, 22 Feb 2026 02:06:02 GMT | Symfonos 5.2 Write-Up [Turkish] | Ahmet KILIÇ | [Read More](https://medium.com/p/2b3b292d31d4) |
 | Sun, 22 Feb 2026 02:00:55 GMT | The Letter That Wasn’t Read | Mammon | [Read More](https://medium.com/p/2030d12335be) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Feb 2026 17:44:23 GMT | What Your IP Address Reveals About Your Location: A Deep Dive for North American Users | Jake Smith | [Read More](https://medium.com/p/841b1997f99e) |
 | Sat, 21 Feb 2026 17:38:36 GMT | Privacy vs. Transparency Paradox: Is India Quietly Weakening the Right to Information? | Pranjal | [Read More](https://medium.com/p/ea639a004340) |
 | Sat, 21 Feb 2026 17:30:01 GMT | Privacy architecture — Pocket Brain tells no tales, the nine spheres of sovereign cognition — 1/2 | Sami Belhadj | [Read More](https://medium.com/p/8633e34520c2) |
-| Sat, 21 Feb 2026 17:28:04 GMT | Never Use Your Mobile Number for Authentication Codes: The Safer Alternative is CallnFax… | Callnfax | [Read More](https://medium.com/p/79aa10fccc7e) |
-| Sat, 21 Feb 2026 17:10:18 GMT | CT Scanners vs X-ray Scanners: Why Airports Are Making the Switch | EJ Boustany | [Read More](https://medium.com/p/9b653913bf33) |
-| Sat, 21 Feb 2026 16:47:09 GMT | I Don’t Have a Blankie, But Apparently Everyone Else Does | Edrika Gutierrez | [Read More](https://medium.com/p/824426fa12a2) |
-| Sat, 21 Feb 2026 16:44:02 GMT | The End of the “Fake Internet”: Why the New Proof-of-Trust Framework Changes Everything | Adam Frąckowiak | [Read More](https://medium.com/p/cf17453621f1) |
-| Sat, 21 Feb 2026 16:41:21 GMT | Securing MCP Servers: From Vulnerable to Bulletproof with Scalekit | Sachin Pal | [Read More](https://medium.com/p/6522b07187da) |
-| Sat, 21 Feb 2026 16:39:23 GMT | React2shell | Anandhu Kannan | [Read More](https://medium.com/p/66573cd989de) |
-| Sat, 21 Feb 2026 16:38:51 GMT | Issue #3: Offshore Platforms — Why the Energy Sector is the New Front Line | Nitin Raje | [Read More](https://medium.com/p/5c783876f56b) |
-| Sat, 21 Feb 2026 16:36:55 GMT | Introduction to Digital Forensics | Faqih Ahmad Syauqi | [Read More](https://medium.com/p/0e9b34ba5761) |
-| Sat, 21 Feb 2026 16:35:21 GMT | The Most Dangerous Color in Risk Reporting | Gulet Barre | [Read More](https://medium.com/p/4b2e71420257) |
-| Sat, 21 Feb 2026 16:33:34 GMT | Mon premier bug CVSS 10.0 : comment j’ai pris le contrôle de robots industriels depuis ma chambre ? | razhack_26 | [Read More](https://medium.com/p/df2fbb0377fa) |
