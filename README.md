@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Feb 2026 21:38:58 GMT | How Modern EDRs Detect the “Undetectable” Red Team Tradecraft | Yua Mikanana | [Read More](https://medium.com/p/7ad46429e0b8) |
+| Sun, 22 Feb 2026 21:26:12 GMT | Escaping the Sandbox: How a Simple Python Path Flaw Led to Host RCE | Hacker MD | [Read More](https://medium.com/p/817d39c95f86) |
 | Sun, 22 Feb 2026 21:10:20 GMT | Absolutely Free Hacker? Actually Yes! | Charles Burke | [Read More](https://medium.com/p/05e47477b714) |
 | Sun, 22 Feb 2026 21:09:40 GMT | Breaking the Silos: Why I Built a Unified Intelligence Hub for Critical Infrastructure | CyberAnn | [Read More](https://medium.com/p/87f05baa81e3) |
 | Sun, 22 Feb 2026 21:06:31 GMT | Offline browsing tools — OSINT | loyalonlytoday | [Read More](https://medium.com/p/b20223cf96b2) |
@@ -112,5 +114,3 @@ They got it wrong | Stephanie Mccabe | [Read More](https://medium.com/p/f6b9878e
 | Sun, 22 Feb 2026 15:38:18 GMT | Cyber Scams: Don’t Be A Victim show | Dr Kimma Wreh | [Read More](https://medium.com/p/9ce986a0ba64) |
 | Sun, 22 Feb 2026 15:37:56 GMT | Building Privacy-Aware Data Systems on Google Cloud: My Sensitive Data Protection Skill Badge… | SIVASUBRAMANIAN | [Read More](https://medium.com/p/b2cbbac9a374) |
 | Sun, 22 Feb 2026 15:36:44 GMT | Become a Defender - TryHackMe - Walkthrough | Anipra Pandya | [Read More](https://medium.com/p/359879229332) |
-| Sun, 22 Feb 2026 15:34:38 GMT | Chisel: pivoting techniques, moving into subnetworks | OffsecExam - Tamarisk | [Read More](https://medium.com/p/aee02e4598cd) |
-| Sun, 22 Feb 2026 15:32:27 GMT | How to Remove Your Info from Spokeo (2026 Guide) | Founder at DataEgress | [Read More](https://medium.com/p/bbe6f4508aa1) |
