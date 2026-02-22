@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Feb 2026 15:44:38 GMT | I Built a Tool That Turns My Messy Study Notes Into Polished Articles — Here’s How | Naveen TK | [Read More](https://medium.com/p/3a0f73e0e4a8) |
+| Sun, 22 Feb 2026 15:43:06 GMT | The AI Boom Is Just the First Layer.The Real Wealth Is in What Comes After.人工智能热潮只是第一层，真正的财富在于后续发展。 | ZenLawWriter HealInvestor MindOnMarkets | [Read More](https://medium.com/p/f7ce81c5e951) |
+| Sun, 22 Feb 2026 15:40:29 GMT | cybersploit1 Walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/74acb085f6ce) |
+| Sun, 22 Feb 2026 15:38:49 GMT | How to Remove Your Info from Whitepages (2026 Guide) | Founder at DataEgress | [Read More](https://medium.com/p/f19c28f44db3) |
+| Sun, 22 Feb 2026 15:38:37 GMT | EntroGuard — Day 3 | Nisarg Patel | [Read More](https://medium.com/p/039eca5211db) |
+| Sun, 22 Feb 2026 15:38:18 GMT | Cyber Scams: Don’t Be A Victim show | Dr Kimma Wreh | [Read More](https://medium.com/p/9ce986a0ba64) |
+| Sun, 22 Feb 2026 15:37:56 GMT | Building Privacy-Aware Data Systems on Google Cloud: My Sensitive Data Protection Skill Badge… | SIVASUBRAMANIAN | [Read More](https://medium.com/p/b2cbbac9a374) |
+| Sun, 22 Feb 2026 15:36:44 GMT | Become a Defender - TryHackMe - Walkthrough | Anipra Pandya | [Read More](https://medium.com/p/359879229332) |
+| Sun, 22 Feb 2026 15:34:38 GMT | Chisel: pivoting techniques, moving into subnetworks | OffsecExam - Tamarisk | [Read More](https://medium.com/p/aee02e4598cd) |
+| Sun, 22 Feb 2026 15:32:27 GMT | How to Remove Your Info from Spokeo (2026 Guide) | Founder at DataEgress | [Read More](https://medium.com/p/bbe6f4508aa1) |
+| Sun, 22 Feb 2026 15:17:37 GMT | I Hacked a University Admin Panel With One Guess. | Yash Katiyara | [Read More](https://medium.com/p/5589efc0ae1c) |
 | Sun, 22 Feb 2026 15:17:14 GMT | I Looked Into Where Your Files Go When You “Convert” Them Online. It’s Worse Than You Think. | Myfiletool | [Read More](https://medium.com/p/4492d0369c53) |
 | Sun, 22 Feb 2026 15:15:19 GMT | FreeFlag2 - FahemSec HackStart CTF | Ahmed Hassan | [Read More](https://medium.com/p/7e68d8ebb083) |
 | Sun, 22 Feb 2026 15:10:11 GMT | “From Recon to Root: Owning a Machine Legally in 60 Minutes | pavani | [Read More](https://medium.com/p/97a11a2a8458) |
@@ -102,14 +113,3 @@ Freelancing looks easy from the outside. | Muzamil Hussain | [Read More](https:/
 | Sun, 22 Feb 2026 10:35:36 GMT | Love Letter Locker | #UNKNOWN | [Read More](https://medium.com/p/783f04a33db2) |
 | Sun, 22 Feb 2026 10:31:45 GMT | Turn Your CacheGuard Gateway into a Global VPN Server — No Fixed IP Needed | CacheGuard Technologies | [Read More](https://medium.com/p/0494e7cbe567) |
 | Sun, 22 Feb 2026 10:23:23 GMT | Forging zkSNARK Proofs via Misconfigured Verification Keys: The Veil_01_ETH Exploit | Evgenii | [Read More](https://medium.com/p/2a6bb7d0078b) |
-| Sun, 22 Feb 2026 10:21:49 GMT | From a Simple Stack Trace to Accessing an SAP Portal. | Gaurang Jethva | [Read More](https://medium.com/p/4238c110ff3c) |
-| Sun, 22 Feb 2026 10:21:37 GMT | Deploying a Full-Stack Web App on AWS with Secure VPC Architecture | Varun Gopal | [Read More](https://medium.com/p/6ce2b3bc154f) |
-| Sun, 22 Feb 2026 10:18:28 GMT | Why I Built NoFileUpload.com — A Simple Privacy Tool for Everyone | AI Insights | [Read More](https://medium.com/p/5e9aa6c67869) |
-| Sun, 22 Feb 2026 10:12:49 GMT | Anthropic Launches Claude Code Security: AI Begins Taking Over Code Security | AI Engineering | [Read More](https://medium.com/p/f9b7daab325f) |
-| Sun, 22 Feb 2026 10:11:55 GMT | Android Güvenliğinin Evrimi: Permission Sistemi Kullanıcıyı Nasıl Güçlendirdi? | Rüçhan Okal | [Read More](https://medium.com/p/df4ba572ede7) |
-| Sun, 22 Feb 2026 10:01:01 GMT | Breaking Into Cybersecurity Without Coding: A Practical Guide | Victoria Coker | [Read More](https://medium.com/p/c049b23ba4f7) |
-| Sun, 22 Feb 2026 09:59:56 GMT | Asset management | Deshmukha | [Read More](https://medium.com/p/1a1336324e56) |
-| Sun, 22 Feb 2026 09:55:25 GMT | Part 3 - Defeating the “Harvest Now, Decrypt Later” Paradigm | PhantomKey Technologies | [Read More](https://medium.com/p/cb73c265d98e) |
-| Sun, 22 Feb 2026 09:54:56 GMT | Why SAST is Broken! | Brett Crawley | [Read More](https://medium.com/p/4e2cb10c968c) |
-| Sun, 22 Feb 2026 09:53:24 GMT | I Found a Critical SSRF Vulnerability That Could Have Exposed an Entire Server Here’s How | Hacker MD | [Read More](https://medium.com/p/0a69c2ba2dee) |
-| Sun, 22 Feb 2026 09:47:41 GMT | Why I’m Moving Away from “AI” Document Tools in 2026 | Muhammad Mansoor - Founder of DocCraft | [Read More](https://medium.com/p/4d1e553399e7) |
