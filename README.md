@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Feb 2026 11:41:17 GMT | From .env to RCE: Exploiting a Leaked Laravel APP_KEY | Igniterobot | [Read More](https://medium.com/p/8ec8ee670b29) |
+| Sun, 22 Feb 2026 11:40:12 GMT | google pixel 6 pro and others cpid lifetime fix with play_integrity pass. | Sam | [Read More](https://medium.com/p/aad731a15b7f) |
+| Sun, 22 Feb 2026 11:38:26 GMT | Least Privilege: Controlling Access to Reduce Systemic Risk | madsl0w | [Read More](https://medium.com/p/108c0f021243) |
+| Sun, 22 Feb 2026 11:28:06 GMT | Easy Splunk: Core Concepts the you need to know for ES | Antonella Blasetti | [Read More](https://medium.com/p/83e022c735c8) |
+| Sun, 22 Feb 2026 11:26:30 GMT | Quantum Exploits Without Quantum Computers | Talex Maxim (taimax13) - #barracuda | [Read More](https://medium.com/p/3291b42405f5) |
+| Sun, 22 Feb 2026 11:20:55 GMT | From MSSQL to Domain Admin: Fileless Lateral Movement in Hybrid Active Directory | Aenosh Rajora | [Read More](https://medium.com/p/c352dc11a836) |
 | Sun, 22 Feb 2026 11:11:41 GMT | Detection & Alerting for Common Cyber Attacks Using Splunk | Jenishjoel | [Read More](https://medium.com/p/f9af2c758919) |
 | Sun, 22 Feb 2026 11:05:30 GMT | Defense in Depth: A Foundational Principle for Technology-Driven Organizations | madsl0w | [Read More](https://medium.com/p/528d2cc5ddad) |
 | Sun, 22 Feb 2026 11:05:10 GMT | SIEM Explained: A Complete Guide to Security Information & Event Management (Log Collection… | Cyber Wolf | [Read More](https://medium.com/p/e7c18b233c09) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Feb 2026 03:56:01 GMT | SSRF via Stored Profile Data in an AI Chatbot — A Real-World Case Study | Xp10it | [Read More](https://medium.com/p/83355beac933) |
 | Sun, 22 Feb 2026 03:32:23 GMT | Dari Bug ke Business Value: Cara Saya Memandang Permasalahan IT | Muhammad Rifqi thufail fahmi | [Read More](https://medium.com/p/3d0062e46381) |
 | Sun, 22 Feb 2026 03:19:40 GMT | TryHackMe — Inside a Computer System Walkthrough | LEVI | [Read More](https://medium.com/p/32f7425041d4) |
-| Sun, 22 Feb 2026 03:07:13 GMT | From WordPress to Root: Compromising Basic Pentesting 1 (VulnHub) | Robert Perez | [Read More](https://medium.com/p/6b83d60ce24b) |
-| Sun, 22 Feb 2026 02:44:34 GMT | How Real Attackers Stay Inside Networks for Months | 0xpwny | [Read More](https://medium.com/p/f5bf7ca92e18) |
-| Sun, 22 Feb 2026 02:18:24 GMT | PwnedLabs: Loot Exchange, Teams and SharePoint with GraphRunner | Persecure | [Read More](https://medium.com/p/c46babca5f46) |
-| Sun, 22 Feb 2026 02:06:02 GMT | Symfonos 5.2 Write-Up [Turkish] | Ahmet KILIÇ | [Read More](https://medium.com/p/2b3b292d31d4) |
-| Sun, 22 Feb 2026 02:00:55 GMT | The Letter That Wasn’t Read | Mammon | [Read More](https://medium.com/p/2030d12335be) |
-| Sun, 22 Feb 2026 01:59:33 GMT | You Never Knew Who You Were Until You Lost Yourself | Mammon | [Read More](https://medium.com/p/9f717d4f9bdb) |
