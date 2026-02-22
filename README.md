@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Feb 2026 16:27:49 GMT | The Fortress Mentality: Why Defense in Depth is the Bedrock of Cybersecurity | Abutalibov Umud | [Read More](https://medium.com/p/42eaba3c609b) |
+| Sun, 22 Feb 2026 16:26:00 GMT | The Silent Threat: How Ransomware is Evolving and What You Can Do | Indika Hiran Wiesinghe | [Read More](https://medium.com/p/d12be14331ed) |
+| Sun, 22 Feb 2026 16:24:21 GMT | AI Can Now Exploit Smart Contracts at Scale — and DeFi Isn’t Ready | Zoom In AI | [Read More](https://medium.com/p/eb72cbed1b71) |
+| Sun, 22 Feb 2026 16:24:08 GMT | Advanced Abuse of Referral Systems | ghostyjoe | [Read More](https://medium.com/p/c97cc17f705f) |
+| Sun, 22 Feb 2026 16:22:42 GMT | The Next Evolution of Cyber Threats: Regenerative Malware Ecosystems | Tata Tange | [Read More](https://medium.com/p/8be1666f281f) |
+| Sun, 22 Feb 2026 16:20:41 GMT | Literature Review On Cadastral Information System | Vanessa from Trinity College | [Read More](https://medium.com/p/858506ae1f65) |
+| Sun, 22 Feb 2026 16:19:18 GMT | GraphQL Pentesting for Bug Bounty Hunters: From Endpoint Discovery to High-Impact Exploits…! | MPGODMATCH | [Read More](https://medium.com/p/821f64a953b5) |
+| Sun, 22 Feb 2026 16:18:51 GMT | Securing the Backbone — Issue #1: What is Software Supply Chain Security & Why It Matters | Eric Gallagher | [Read More](https://medium.com/p/1868536929c7) |
+| Sun, 22 Feb 2026 16:14:18 GMT | What is Wazuh? My Personal Experience with Open-Source SIEM as a Cybersecurity Analyst | Maneesha Dewmina | [Read More](https://medium.com/p/c11c268a0894) |
+| Sun, 22 Feb 2026 16:02:40 GMT | FOUR WAYS TO BREAK⛓️‍ | S. Onwuchekwa (MB;BS) | [Read More](https://medium.com/p/bda6b8938bfc) |
+| Sun, 22 Feb 2026 16:01:13 GMT | The Road to Q-Day | Amit Tomar | [Read More](https://medium.com/p/b5e39efd000b) |
+| Sun, 22 Feb 2026 15:59:24 GMT | Building an API Security Lab as a Cybersecurity Engineer (Without Pretending It’s Production) | 'Tomiwa Adisa | [Read More](https://medium.com/p/d8547e65ea37) |
+| Sun, 22 Feb 2026 15:54:09 GMT | How to Set Up I2P (The Invisible Internet Protocol) on Linux — A Beginner-Friendly Guide | Amuy Thida | [Read More](https://medium.com/p/14d2b5a89e6c) |
+| Sun, 22 Feb 2026 15:52:23 GMT | How OSINT Is Transforming Modern Penetration Testing | CyberSources | [Read More](https://medium.com/p/1fcf61c766ee) |
 | Sun, 22 Feb 2026 15:44:38 GMT | I Built a Tool That Turns My Messy Study Notes Into Polished Articles — Here’s How | Naveen TK | [Read More](https://medium.com/p/3a0f73e0e4a8) |
 | Sun, 22 Feb 2026 15:43:06 GMT | The AI Boom Is Just the First Layer.The Real Wealth Is in What Comes After.人工智能热潮只是第一层，真正的财富在于后续发展。 | ZenLawWriter HealInvestor MindOnMarkets | [Read More](https://medium.com/p/f7ce81c5e951) |
 | Sun, 22 Feb 2026 15:40:29 GMT | cybersploit1 Walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/74acb085f6ce) |
@@ -99,17 +113,3 @@ Freelancing looks easy from the outside. | Muzamil Hussain | [Read More](https:/
 | Sun, 22 Feb 2026 11:35:27 GMT | Hacking Study Notes — Netcat Usage (Advanced) | jaejun835 | [Read More](https://medium.com/p/d8b4f4590cc0) |
 | Sun, 22 Feb 2026 11:28:06 GMT | Easy Splunk: Core Concepts the you need to know for ES | Antonella Blasetti | [Read More](https://medium.com/p/83e022c735c8) |
 | Sun, 22 Feb 2026 11:26:30 GMT | Quantum Exploits Without Quantum Computers | Talex Maxim (taimax13) - #barracuda | [Read More](https://medium.com/p/3291b42405f5) |
-| Sun, 22 Feb 2026 11:20:55 GMT | From MSSQL to Domain Admin: Fileless Lateral Movement in Hybrid Active Directory | Aenosh Rajora | [Read More](https://medium.com/p/c352dc11a836) |
-| Sun, 22 Feb 2026 11:11:41 GMT | Detection & Alerting for Common Cyber Attacks Using Splunk | Jenishjoel | [Read More](https://medium.com/p/f9af2c758919) |
-| Sun, 22 Feb 2026 11:06:45 GMT | Thinking Like an Attacker: How API Pen-Testers Identify IDOR (Insecure Direct Object Reference) | Kipc-Sharon | [Read More](https://medium.com/p/2d95ed06053e) |
-| Sun, 22 Feb 2026 11:05:30 GMT | Defense in Depth: A Foundational Principle for Technology-Driven Organizations | madsl0w | [Read More](https://medium.com/p/528d2cc5ddad) |
-| Sun, 22 Feb 2026 11:05:10 GMT | SIEM Explained: A Complete Guide to Security Information & Event Management (Log Collection… | Cyber Wolf | [Read More](https://medium.com/p/e7c18b233c09) |
-| Sun, 22 Feb 2026 10:51:47 GMT | Thinking Like an Attacker: How API Pen-Testers Identify IDOR | Aishat Olayinka Yusuf | [Read More](https://medium.com/p/300cae37cff2) |
-| Sun, 22 Feb 2026 10:43:43 GMT | Empowering your Digital Journey | Marketingnepaxis | [Read More](https://medium.com/p/056fcb64bef4) |
-| Sun, 22 Feb 2026 10:43:29 GMT | From Credential Stuffing to Backdoor: Investigating a Web App Compromise — HTB Sherlock Meerkat | Umarkhan | [Read More](https://medium.com/p/682d6ddd22e1) |
-| Sun, 22 Feb 2026 10:38:19 GMT | How to Build a Professional SIEM Lab on Your Laptop (Step-by-Step) | Alif Ekasmara | [Read More](https://medium.com/p/1c0fec93341e) |
-| Sun, 22 Feb 2026 10:37:10 GMT | eadingReading | zimthegoat | [Read More](https://medium.com/p/125387b1e5ac) |
-| Sun, 22 Feb 2026 10:36:24 GMT | Understanding Controls in CyberSecurity Frameworks | Jenny | [Read More](https://medium.com/p/a9f56d3fb947) |
-| Sun, 22 Feb 2026 10:35:36 GMT | Love Letter Locker | #UNKNOWN | [Read More](https://medium.com/p/783f04a33db2) |
-| Sun, 22 Feb 2026 10:31:45 GMT | Turn Your CacheGuard Gateway into a Global VPN Server — No Fixed IP Needed | CacheGuard Technologies | [Read More](https://medium.com/p/0494e7cbe567) |
-| Sun, 22 Feb 2026 10:23:23 GMT | Forging zkSNARK Proofs via Misconfigured Verification Keys: The Veil_01_ETH Exploit | Evgenii | [Read More](https://medium.com/p/2a6bb7d0078b) |
