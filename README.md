@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Feb 2026 13:41:43 GMT | Bangalore Btech Colleges with Management Quota Seats 2026 | Management Guru | [Read More](https://medium.com/p/a9c56294defa) |
+| Sun, 22 Feb 2026 13:37:32 GMT | Why Lumera Is Not “Just Another Blockchain” | Chidimma Amarachi | [Read More](https://medium.com/p/21787bf2feb0) |
+| Sun, 22 Feb 2026 13:36:52 GMT | Active Directory — Blog Part III: Security & Misconfigurations, Attack Paths, & The Tier… | Mark Thompson | [Read More](https://medium.com/p/eb28b81b90e0) |
+| Sun, 22 Feb 2026 13:25:12 GMT | Solving a Bugforge Challenge — Exploiting Path Traversal in Ottergram | Pranaya Shrestha | [Read More](https://medium.com/p/c77130f93c44) |
+| Sun, 22 Feb 2026 13:24:44 GMT | Lumera and the Quiet Revolution of Trust in the Digital Age | Annabel Chima | [Read More](https://medium.com/p/ec7186769973) |
+| Sun, 22 Feb 2026 13:23:39 GMT | The architecture of agency: Safety and observability in the era of autonomous AI | Piyush P | [Read More](https://medium.com/p/5bf29a6b095e) |
+| Sun, 22 Feb 2026 13:18:23 GMT | Swapping Tokens Directly in Telegram: How Omniston Delivers Better Rates on TON | Stan4Chainz | [Read More](https://medium.com/p/d35bf4d44ab9) |
+| Sun, 22 Feb 2026 13:18:01 GMT | From Index to Semantics: How AI Retrieval Is Rewiring Knowledge Discovery and Intellectual… | Supat Charoensappuech | [Read More](https://medium.com/p/742d1a110d45) |
+| Sun, 22 Feb 2026 13:12:43 GMT | How to Use ROP Vulnerability in PicoCTF Ropfu Challenge | Atul Singh | [Read More](https://medium.com/p/c316825fe60) |
+| Sun, 22 Feb 2026 13:08:42 GMT | I Had an Opportunity to Work on AWS KMS for Encryption, Here’s What I Learned.. | Meenakshi Sharma | [Read More](https://medium.com/p/c8c0e3c35c83) |
+| Sun, 22 Feb 2026 13:06:57 GMT | I am trying to solve a CTF (Capture The Flag) about Sensitive Data Leakage on heapdump | Billy Elvonda Aron Umpel | [Read More](https://medium.com/p/8854cd5f2b90) |
+| Sun, 22 Feb 2026 13:04:07 GMT | STON.fi Staking Explained: How STON Staking Works and Why It Matters | Stan4Chainz | [Read More](https://medium.com/p/090b612845b3) |
+| Sun, 22 Feb 2026 13:02:39 GMT | OtterCTF - Hopity Hop Reverse Engineering Walkthrough | Charuka Gimhan | [Read More](https://medium.com/p/966c3a75e99b) |
+| Sun, 22 Feb 2026 13:00:35 GMT | The Day the Internet Stopped: A Post-Mortem of the December 5th Meltdown | Cyberghost8 | [Read More](https://medium.com/p/f278686644f2) |
+| Sun, 22 Feb 2026 13:00:26 GMT | Privilege Escalation via Role Manipulation | C0deRevenant | [Read More](https://medium.com/p/192ade8dd937) |
+| Sun, 22 Feb 2026 12:54:55 GMT | Mass Account Lockout Using Organization Invites | Killua199 | [Read More](https://medium.com/p/cd9b69e933a1) |
 | Sun, 22 Feb 2026 12:47:46 GMT | My First CVSS 10.0 Bug: How I Took Control of Industrial Robots from My Bedroom ? | razhack_26 | [Read More](https://medium.com/p/0b2f72d66be8) |
 | Sun, 22 Feb 2026 12:40:17 GMT | The $10 Trillion Shadow: Why 2026 is the Year of the “Identity Synthesis” Breach | Cyberghost8 | [Read More](https://medium.com/p/53b47ced0081) |
 | Sun, 22 Feb 2026 12:36:16 GMT | Designing a Secure 3-Tier Architecture in Oracle Cloud Infrastructure | Tokishi | [Read More](https://medium.com/p/b9d6b50978de) |
@@ -97,19 +113,3 @@ Freelancing looks easy from the outside. | Muzamil Hussain | [Read More](https:/
 | Sun, 22 Feb 2026 07:17:21 GMT | Production Is the Only Honest Environment | Fateyaly | [Read More](https://medium.com/p/1354c79d888f) |
 | Sun, 22 Feb 2026 07:12:45 GMT | CryptoHack Challenge: Find (p, q) | 3m Mohamed | [Read More](https://medium.com/p/d5e1025f1d86) |
 | Sun, 22 Feb 2026 07:11:57 GMT | Deep-C: A scanner to catch & Exploit the misconfigured Android deepLinks | Kishor balan | [Read More](https://medium.com/p/8ba3e82970a3) |
-| Sun, 22 Feb 2026 07:05:20 GMT | Kerberos Hacking 2025: Learn 15 Essential Attacks Every Pentester Must Master | Very Lazy Tech | [Read More](https://medium.com/p/03b364ed7b3a) |
-| Sun, 22 Feb 2026 06:59:20 GMT | Cyberstalking & Cyberbullying | Victoria Landrum | [Read More](https://medium.com/p/6bb13f81d277) |
-| Sun, 22 Feb 2026 06:37:53 GMT | Weekly Crypto & Web3 Safety Digest — CW08 2026 | 5-minute digital safety power-ups | [Read More](https://medium.com/p/a653ffa49544) |
-| Sun, 22 Feb 2026 06:35:09 GMT | When Innovation and Governance Speak Different Languages | Kelly Wan | [Read More](https://medium.com/p/4690ada96727) |
-| Sun, 22 Feb 2026 06:29:29 GMT | What is Cybersecurity? | Chima A M | [Read More](https://medium.com/p/2a8fdce184c4) |
-| Sun, 22 Feb 2026 06:27:28 GMT | From Behind the Scenes to Center Stage — What One Workshop Taught Me | Naga Gayathri | [Read More](https://medium.com/p/9a2a8eb09ea0) |
-| Sun, 22 Feb 2026 06:21:39 GMT | The CIA Triad | Ethan Wang | [Read More](https://medium.com/p/d58bb0a24738) |
-| Sun, 22 Feb 2026 06:13:10 GMT | Cybersecurity Foundations Part 6: The Master Blueprint — Synthesizing a Holistic Security Strategy | Elmir | [Read More](https://medium.com/p/b9d24ec5c564) |
-| Sun, 22 Feb 2026 06:13:06 GMT | Get hands-on with Purview Data Security Investigations! : Part 2 | Yash Mudaliar | [Read More](https://medium.com/p/cc7265cecf1e) |
-| Sun, 22 Feb 2026 06:08:42 GMT | Cybersecurity Foundations Part 5: Hiding in Plain Sight — The Great Debate Over Security Through… | Elmir | [Read More](https://medium.com/p/9bcb561cb687) |
-| Sun, 22 Feb 2026 05:47:11 GMT | The Anthropic Shockwave: Why Claude Code Security Just Nuked Cybersecurity Stocks | Mandar Karhade, MD. PhD. | [Read More](https://medium.com/p/45070d308bb9) |
-| Sun, 22 Feb 2026 05:45:59 GMT | The Pixel 10a will finally end the Tensor debate | SHAHID RIAZ | [Read More](https://medium.com/p/a41c9f6886f7) |
-| Sun, 22 Feb 2026 05:42:18 GMT | Pass the Certificate — Password Attacks | Nouman Ali Khan | [Read More](https://medium.com/p/544d80fca785) |
-| Sun, 22 Feb 2026 05:38:24 GMT | How a User Enumeration Vulnerability was found in an OTP Authentication API | Philip James | [Read More](https://medium.com/p/a92d6235c640) |
-| Sun, 22 Feb 2026 05:35:40 GMT | My safe place to hide | Didymus The Twin | [Read More](https://medium.com/p/05b9b112da66) |
-| Sun, 22 Feb 2026 05:30:33 GMT | Cloud Security Misconfigurations: The Top 5 Mistakes That Lead to Data Breaches | Cyber Aries | [Read More](https://medium.com/p/ed8e61cf1269) |
