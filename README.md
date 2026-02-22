@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Feb 2026 02:18:24 GMT | PwnedLabs: Loot Exchange, Teams and SharePoint with GraphRunner | Persecure | [Read More](https://medium.com/p/c46babca5f46) |
+| Sun, 22 Feb 2026 02:06:02 GMT | Symfonos 5.2 Write-Up [Turkish] | Ahmet KILIÇ | [Read More](https://medium.com/p/2b3b292d31d4) |
+| Sun, 22 Feb 2026 02:00:55 GMT | The Letter That Wasn’t Read | Mammon | [Read More](https://medium.com/p/2030d12335be) |
+| Sun, 22 Feb 2026 01:59:33 GMT | You Never Knew Who You Were Until You Lost Yourself | Mammon | [Read More](https://medium.com/p/9f717d4f9bdb) |
+| Sun, 22 Feb 2026 01:27:38 GMT | # The Hokkaido Pact: How a Disarmed Nation Could Bind Four Superpowers and Restructure East Asian… | Sunai | [Read More](https://medium.com/p/9d9a96a7c767) |
+| Sun, 22 Feb 2026 01:26:13 GMT | FahemSec HackStart CTF | 0xDolphin | [Read More](https://medium.com/p/c116113b0fd9) |
+| Sun, 22 Feb 2026 01:20:49 GMT | Artificial Intelligence as a Catalyst for Public Sector Digital Transformation | Daniel Possebon Bargas | [Read More](https://medium.com/p/8050d1d4cdf9) |
+| Sun, 22 Feb 2026 01:15:36 GMT | Zero Trust and Human Bias | Abdelmutalib Salih Ibrahim Ezeldeen | [Read More](https://medium.com/p/c9918c770bc2) |
+| Sun, 22 Feb 2026 01:12:08 GMT | That Green Dot on Your iPhone Isn’t As Safe As You Think | Virus Vanguard | [Read More](https://medium.com/p/d80569b5be23) |
+| Sun, 22 Feb 2026 01:03:21 GMT | Scam Awareness: How to Avoid Scams, Protect Your Identity, and Stop Fraud Before It Happens | Inspire Pages | [Read More](https://medium.com/p/086aa3d18a10) |
+| Sun, 22 Feb 2026 00:39:33 GMT | AI in Succession Infrastructure: Where It Belongs — and Where It Breaks Things | Auro Rekha | [Read More](https://medium.com/p/3a6742ac8fb0) |
+| Sun, 22 Feb 2026 00:34:17 GMT | Pass the Ticket (PtT) from Linux | Nouman Ali Khan | [Read More](https://medium.com/p/1c4d926f3dcc) |
+| Sun, 22 Feb 2026 00:29:44 GMT | When a Weakness Becomes an Entry Point | steven logansmith | [Read More](https://medium.com/p/04d6d2e799f8) |
+| Sun, 22 Feb 2026 00:24:48 GMT | Cybersecurity for Healthcare | Anish Jogi | [Read More](https://medium.com/p/7b572c10ab12) |
+| Sun, 22 Feb 2026 00:23:23 GMT | Securing AI Agents: An Architecture for Systems You Can’t Fully Control | Evangelos Pappas | [Read More](https://medium.com/p/fad4b9d5c8ef) |
+| Sun, 22 Feb 2026 00:08:55 GMT | Cybersecurity Awareness Scenario #1 | Devore McIntosh | [Read More](https://medium.com/p/9b86078e3006) |
+| Sun, 22 Feb 2026 00:05:11 GMT | How Attackers Use Certutil to Download and Decode Malware | wassim A | [Read More](https://medium.com/p/b37ae45fe7e9) |
+| Sat, 21 Feb 2026 23:58:55 GMT | 13 Essential Cloud Security Tips for 2026: Protect Your Data, Apps & Infrastructure | zulmai mola khil | [Read More](https://medium.com/p/f3a14c2e256b) |
+| Sat, 21 Feb 2026 23:56:25 GMT | The Best GRC Professionals Think Like Engineers | Nikita Gupta | [Read More](https://medium.com/p/a8cd2bb16e75) |
+| Sat, 21 Feb 2026 23:50:56 GMT | I Built 15+ Free Cybersecurity Tools That Run 100% in Your Browser | Fabian Peña | [Read More](https://medium.com/p/564c517e025f) |
+| Sat, 21 Feb 2026 23:50:03 GMT | Virtual Hosts (VHost) Nedir? | Songül Kızılay Özügürler | [Read More](https://medium.com/p/0cc1e4c700d8) |
 | Sat, 21 Feb 2026 23:22:18 GMT | Dark LLMs, Voice Clones, and Agentic Browsers | ToxSec | [Read More](https://medium.com/p/75e09060d9f2) |
 | Sat, 21 Feb 2026 23:21:05 GMT | Become a Hacker - Tryhackme | Aaron | [Read More](https://medium.com/p/80bb380d388a) |
 | Sat, 21 Feb 2026 23:12:04 GMT | The Chrome Extension You’re Using Wrong Is Probably Making You Slower | Michael Fauda | [Read More](https://medium.com/p/31aadd6f049a) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Feb 2026 16:36:55 GMT | Introduction to Digital Forensics | Faqih Ahmad Syauqi | [Read More](https://medium.com/p/0e9b34ba5761) |
 | Sat, 21 Feb 2026 16:35:21 GMT | The Most Dangerous Color in Risk Reporting | Gulet Barre | [Read More](https://medium.com/p/4b2e71420257) |
 | Sat, 21 Feb 2026 16:33:34 GMT | Mon premier bug CVSS 10.0 : comment j’ai pris le contrôle de robots industriels depuis ma chambre ? | razhack_26 | [Read More](https://medium.com/p/df2fbb0377fa) |
-| Sat, 21 Feb 2026 16:31:01 GMT | Cloud Infrastructure Under Siege: Why Your Security Strategy Needs an Urgent Upgrade | Fernando Cardoso | [Read More](https://medium.com/p/39ce6a345281) |
-| Sat, 21 Feb 2026 16:29:47 GMT | 5 Truths the Market Won’t Tell You This Week | ɐqɐɹ iuɐɥs | [Read More](https://medium.com/p/18c85bc8d76b) |
-| Sat, 21 Feb 2026 16:28:46 GMT | ️ How Hackers Attack Us (And How to Stay Safe) | Yeabsira Lamesaa | [Read More](https://medium.com/p/6400fb4e25e8) |
-| Sat, 21 Feb 2026 16:28:13 GMT | GraphQL Misconfiguration in Enterprise LMS | Kaali | [Read More](https://medium.com/p/452ca516e7a2) |
-| Sat, 21 Feb 2026 16:23:31 GMT | what is black hat? | Kevin Ronex | [Read More](https://medium.com/p/f821f6e084a8) |
-| Sat, 21 Feb 2026 16:22:31 GMT | How I Converted a 1990s Wired Alarm Into a Sleek Smart Home Assistant System | Mike Luck | [Read More](https://medium.com/p/4f869161c3e6) |
-| Sat, 21 Feb 2026 16:22:12 GMT | Are Edge Cases Slipping Through Production Testing? | Atharv Ajay Mannur | [Read More](https://medium.com/p/748b3f7caf64) |
-| Sat, 21 Feb 2026 16:21:25 GMT | CyberDefenders - Webstrike Lab | M.Daffa Hakiki | [Read More](https://medium.com/p/b67b28b0bd2d) |
-| Sat, 21 Feb 2026 16:14:13 GMT | One Tool to Rule Them All: File Metadata & Static Analysis for Malware Analysts and SOC Teams | Andrey Pautov | [Read More](https://medium.com/p/c6dba1f5b7de) |
-| Sat, 21 Feb 2026 16:07:49 GMT | Design Hack You Need Now: The Grainy Blur Effect (2026 Trend) | Rupesh Kumar (Graphic Designer) | [Read More](https://medium.com/p/01d95e9e109e) |
-| Sat, 21 Feb 2026 16:06:00 GMT | SURFER- TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/6040d897245f) |
-| Sat, 21 Feb 2026 15:59:28 GMT | Unifying NIST 800–53 for Cloud Automation: Introducing the NIST Cloud Security Baseline (NCSB) Tool | Karthikeyan Sadayamuthu | [Read More](https://medium.com/p/f082fe2af6ba) |
-| Sat, 21 Feb 2026 15:59:07 GMT | AI Risk Isn’t Future Risk, It’s Today’s Reality. Secure Your AI with Cygeniq. | Cygeniq_ai | [Read More](https://medium.com/p/ae413b09582c) |
-| Sat, 21 Feb 2026 15:56:17 GMT | My Personal Favorite Recon Method to Find URL Endpoints | MPGODMATCH | [Read More](https://medium.com/p/98ab843a5f48) |
-| Sat, 21 Feb 2026 15:51:26 GMT | Today's Internet Solutions: Cyber Security | Avikma | [Read More](https://medium.com/p/6be5ce7b9e5b) |
-| Sat, 21 Feb 2026 15:49:40 GMT | Stop writing policies. | Fook Hwa Tan | [Read More](https://medium.com/p/7e0391c5a9aa) |
-| Sat, 21 Feb 2026 15:46:55 GMT | BEST CRYPTO RECOVERY WEBSITES WITH NO UPFRONT FEES ? | robert john | [Read More](https://medium.com/p/c94c8950cda0) |
-| Sat, 21 Feb 2026 15:38:40 GMT | Sometimes, Crying Over the Smallest Thing Is the Only Way to Cry for Yourself | Nova Reyes | [Read More](https://medium.com/p/d7083da2d17e) |
-| Sat, 21 Feb 2026 15:29:47 GMT | Defense in Depth: The Foundation of Modern Cybersecurity | Huseyn | [Read More](https://medium.com/p/82addcc83878) |
-| Sat, 21 Feb 2026 15:29:44 GMT | Stop Email Downgrade Attacks: A Practical Guide to MTA-STS | Narong K. | [Read More](https://medium.com/p/7bdbced1ea6c) |
-| Sat, 21 Feb 2026 15:27:30 GMT | Does VPN Location Matter in Bug Bounty? How to Know If Your IP Is “Burned” (And How to Fix It) | ghostyjoe | [Read More](https://medium.com/p/901999cad480) |
