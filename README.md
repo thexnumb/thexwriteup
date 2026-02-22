@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Feb 2026 15:17:14 GMT | I Looked Into Where Your Files Go When You “Convert” Them Online. It’s Worse Than You Think. | Myfiletool | [Read More](https://medium.com/p/4492d0369c53) |
+| Sun, 22 Feb 2026 15:15:19 GMT | FreeFlag2 - FahemSec HackStart CTF | Ahmed Hassan | [Read More](https://medium.com/p/7e68d8ebb083) |
+| Sun, 22 Feb 2026 15:10:11 GMT | “From Recon to Root: Owning a Machine Legally in 60 Minutes | pavani | [Read More](https://medium.com/p/97a11a2a8458) |
+| Sun, 22 Feb 2026 15:03:03 GMT | Run AI Code Assistants Safely: The Docker Sandbox Security Method for Claude, Cursor & More | Merwansky | [Read More](https://medium.com/p/cdefa0f7f09b) |
+| Sun, 22 Feb 2026 14:59:03 GMT | Defense in Depth: Why Layered Security Is the Foundation of Modern Cybersecurity | Akif Shikhlarov | [Read More](https://medium.com/p/2296ea5812e2) |
+| Sun, 22 Feb 2026 14:57:55 GMT | Why Nigerians must learn to cross-carpet like their Political Leaders. | Jean-kharis | [Read More](https://medium.com/p/a0f1b0913f70) |
+| Sun, 22 Feb 2026 14:57:32 GMT | How Domain Enumeration, Content Discovery, Leaked Secrets, and Service URLs Converge into… | Dzianis Skliar | [Read More](https://medium.com/p/0e6d459d3880) |
+| Sun, 22 Feb 2026 14:57:27 GMT | Step-by-Step Guide to Setting Up a Cybersecurity Home Lab (Kali Linux + VirtualBox) | Raymond Ebonine | [Read More](https://medium.com/p/090a31d1fc22) |
+| Sun, 22 Feb 2026 14:51:00 GMT | Middle Class Survival Guide: Income, Debt, and Real Wealth in 2025 | Ophaly Kate | [Read More](https://medium.com/p/1854542ddfc6) |
 | Sun, 22 Feb 2026 14:49:14 GMT | ATM Hacks, Africa Ops & The Making of Safe Security ft. Rahul Tyagi | Cyber Unbound | [Read More](https://medium.com/p/46a77c819173) |
 | Sun, 22 Feb 2026 14:46:00 GMT | 6. WebSocket Authorization Bypass Vulnerability leads to $$$ | Abhijeet kumawat | [Read More](https://medium.com/p/7dd3aa376558) |
 | Sun, 22 Feb 2026 14:42:41 GMT | Cybersecurity is not just for hackers — it’s for everyone who uses the internet. | Yogesh Mali | [Read More](https://medium.com/p/e3dd797130bb) |
@@ -29,6 +38,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Feb 2026 14:30:01 GMT | AI Age — Not a Simple Wave of Layoffs, but a Structural Transformation of the Global Economy | Tiglu Mekuria | [Read More](https://medium.com/p/b5931f5a16d9) |
 | Sun, 22 Feb 2026 14:27:31 GMT | The Power of Defense in Depth: Building Layers of Protection for a Robust Cybersecurity Strategy | cyberhunter | [Read More](https://medium.com/p/a12bc8e40fbf) |
 | Sun, 22 Feb 2026 14:19:47 GMT | Pentesting Is Not Entry-Level — And That’s Exactly Why the Jobs Are Scarce | 0xAbhiSec | [Read More](https://medium.com/p/bfe382c9da04) |
+| Sun, 22 Feb 2026 14:15:28 GMT | Hazır Araçların Ötesine Geçmek: Neden Kendi Scriptlerimizi Yazıyoruz | Yaren Daşpınar | [Read More](https://medium.com/p/b10e09b7da37) |
 | Sun, 22 Feb 2026 14:10:10 GMT | Building Strong Cybersecurity: 5 Principles Every Tech Company Should Know | Ahmed Taghiyev | [Read More](https://medium.com/p/a3313488f40e) |
 | Sun, 22 Feb 2026 14:03:13 GMT | Why Capital Efficiency Is the Real Product in DeFi | Mukeshrana | [Read More](https://medium.com/p/329261519091) |
 | Sun, 22 Feb 2026 14:01:01 GMT | When Prompts Turn into Payloads: Tool Boundary Attacks | Thinking Loop | [Read More](https://medium.com/p/c0bc6d40e987) |
@@ -103,13 +113,3 @@ Freelancing looks easy from the outside. | Muzamil Hussain | [Read More](https:/
 | Sun, 22 Feb 2026 09:54:56 GMT | Why SAST is Broken! | Brett Crawley | [Read More](https://medium.com/p/4e2cb10c968c) |
 | Sun, 22 Feb 2026 09:53:24 GMT | I Found a Critical SSRF Vulnerability That Could Have Exposed an Entire Server Here’s How | Hacker MD | [Read More](https://medium.com/p/0a69c2ba2dee) |
 | Sun, 22 Feb 2026 09:47:41 GMT | Why I’m Moving Away from “AI” Document Tools in 2026 | Muhammad Mansoor - Founder of DocCraft | [Read More](https://medium.com/p/4d1e553399e7) |
-| Sun, 22 Feb 2026 09:46:08 GMT | The $15 Billion Wake-Up Call: How Anthropic’s Claude Code Security Just Rewrote the Rules of… | Faisal haque | [Read More](https://medium.com/p/499273463ca0) |
-| Sun, 22 Feb 2026 09:39:07 GMT | What Happens When an Adversary Doesn’t Hack Your AI — They Just Feed It Lies? | Tamas Pilisko | [Read More](https://medium.com/p/b42264b7003e) |
-| Sun, 22 Feb 2026 09:33:31 GMT | Synthesizing Security Concepts: Building a Cohesive Strategy | Abeshiri Ab | [Read More](https://medium.com/p/21d83563e5ed) |
-| Sun, 22 Feb 2026 09:29:46 GMT | Bitunix security features | Abasido Tom | [Read More](https://medium.com/p/acb007859b6f) |
-| Sun, 22 Feb 2026 09:22:42 GMT | Opensource Openclaw security kit (turnkey solution) | Nino | [Read More](https://medium.com/p/61c11cb7bb22) |
-| Sun, 22 Feb 2026 09:07:03 GMT | Automate & Secure Your AI Workflow | Everton Araújo | [Read More](https://medium.com/p/2c8b905171f6) |
-| Sun, 22 Feb 2026 09:06:23 GMT | Why CVE Scanners Miss the Attacks That Actually Matter | Talex Maxim (taimax13) - #barracuda | [Read More](https://medium.com/p/4c621bd96dd2) |
-| Sun, 22 Feb 2026 09:03:46 GMT | HackerSavanna Inc. | HackerSavanna Inc. | [Read More](https://medium.com/p/1ca78b10277c) |
-| Sun, 22 Feb 2026 09:01:01 GMT | The Password Reset That Came 6 Hours Too Late | Alexandre Vandamme | [Read More](https://medium.com/p/fb89a1eb40f1) |
-| Sun, 22 Feb 2026 08:55:58 GMT | Can We Trust the Guardian? Why Wikipedia Shut Out archive.today | Yasuhiro Hatabe | [Read More](https://medium.com/p/b78ecd6d10cf) |
