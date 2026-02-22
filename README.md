@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Feb 2026 07:35:34 GMT | DNS Hijacking & Internal Phishing | ghostyjoe | [Read More](https://medium.com/p/6d440da48212) |
+| Sun, 22 Feb 2026 07:27:25 GMT | Setting Up Your First Thick Client Testing Lab | Madhumathi chamarthi | [Read More](https://medium.com/p/fa8c1c9a4998) |
+| Sun, 22 Feb 2026 07:25:22 GMT | Websites Are Leaking Their Own Secrets. | TEJAS | [Read More](https://medium.com/p/c6e8367ba557) |
+| Sun, 22 Feb 2026 07:22:44 GMT | Linux OS Mastery Course | Dallen Sadru | [Read More](https://medium.com/p/65aa1a81b9ff) |
+| Sun, 22 Feb 2026 07:22:21 GMT | Linux CLI (Introduction To digital Forensics) Security blue team Junior Analyst Path, Panduan… | Yuki Saidi Moses | [Read More](https://medium.com/p/d13d02bb7dc7) |
+| Sun, 22 Feb 2026 07:19:29 GMT | Yes, Your Mac IS Watching You | Michael Swengel | [Read More](https://medium.com/p/6d1f25b6fa59) |
+| Sun, 22 Feb 2026 07:17:21 GMT | Production Is the Only Honest Environment | Fateyaly | [Read More](https://medium.com/p/1354c79d888f) |
+| Sun, 22 Feb 2026 07:12:45 GMT | CryptoHack Challenge: Find (p, q) | 3m Mohamed | [Read More](https://medium.com/p/d5e1025f1d86) |
+| Sun, 22 Feb 2026 07:11:57 GMT | Deep-C: A scanner to catch & Exploit the misconfigured Android deepLinks | Kishor balan | [Read More](https://medium.com/p/8ba3e82970a3) |
+| Sun, 22 Feb 2026 07:05:20 GMT | Kerberos Hacking 2025: Learn 15 Essential Attacks Every Pentester Must Master | Very Lazy Tech | [Read More](https://medium.com/p/03b364ed7b3a) |
+| Sun, 22 Feb 2026 06:59:20 GMT | Cyberstalking & Cyberbullying | Victoria Landrum | [Read More](https://medium.com/p/6bb13f81d277) |
 | Sun, 22 Feb 2026 06:37:53 GMT | Weekly Crypto & Web3 Safety Digest — CW08 2026 | 5-minute digital safety power-ups | [Read More](https://medium.com/p/a653ffa49544) |
 | Sun, 22 Feb 2026 06:35:09 GMT | When Innovation and Governance Speak Different Languages | Kelly Wan | [Read More](https://medium.com/p/4690ada96727) |
 | Sun, 22 Feb 2026 06:29:29 GMT | What is Cybersecurity? | Chima A M | [Read More](https://medium.com/p/2a8fdce184c4) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Feb 2026 20:14:29 GMT | Shifting Left Security: The Power of Threat Modeling Before the AWS Landing Zone | Kandasamyarulkumar | [Read More](https://medium.com/p/5ab8245f4f4a) |
 | Sat, 21 Feb 2026 20:12:46 GMT | Is a Data Breach a Sign of Weakness? | Ilderlandio Teixeira | [Read More](https://medium.com/p/6d3e3cbbe2d8) |
 | Sat, 21 Feb 2026 20:09:13 GMT | Residential Camera Installation in Montreal: A Technical Guide to Modern Home Surveillance Systems | Midochamass | [Read More](https://medium.com/p/0935e91daa97) |
-| Sat, 21 Feb 2026 20:08:25 GMT | Hardcoded AES Keys? Hardcoded Vulnerabilities | Isaac Privett | [Read More](https://medium.com/p/075221945d01) |
-| Sat, 21 Feb 2026 20:06:26 GMT | Prinsip Desain User Interface (UI) | Zurichsabil | [Read More](https://medium.com/p/ae5d30074e08) |
-| Sat, 21 Feb 2026 19:56:47 GMT | Walking An Application - TryHackMe Write-Up | Mochammad Farros Fatchur Roji | [Read More](https://medium.com/p/5d6601cf54e6) |
-| Sat, 21 Feb 2026 19:56:31 GMT | The 7 Cyber Security Trends Of 2026 That Everyone Must Be Ready For | Abstract Mind | [Read More](https://medium.com/p/5fa92d45dc63) |
-| Sat, 21 Feb 2026 19:53:03 GMT | Data is Life: Strategic Economic Regulatory Battle | Pruthvi Kuppagiri | [Read More](https://medium.com/p/6510af556515) |
-| Sat, 21 Feb 2026 19:51:47 GMT | Secure Password Generation in Go: Why crypto/rand Matters | Priya Patidar | [Read More](https://medium.com/p/c60bf317723c) |
-| Sat, 21 Feb 2026 19:47:11 GMT | Reqfast: Not what the customer ordered | Brian Mohr | [Read More](https://medium.com/p/5cec54e38a69) |
-| Sat, 21 Feb 2026 19:43:09 GMT | Palo Alto — Global Incident Response Report 2026 | SOCFortress | [Read More](https://medium.com/p/15962ea2d3c7) |
-| Sat, 21 Feb 2026 19:42:30 GMT | The 2026 Internet Utility Belt: 20+ Tools That Actually Help (And a Few That Will Ruin Your Life) | ABV | [Read More](https://medium.com/p/d41fc46b9683) |
-| Sat, 21 Feb 2026 19:37:50 GMT | HTB DFIR Sherlock: LuckyShot | WildPasta | [Read More](https://medium.com/p/9af91d7b23cd) |
-| Sat, 21 Feb 2026 19:29:07 GMT | Compliance vs. Real-World Security: Why Passing an Audit Doesn’t Mean You’re Safe | Dr Kimma Wreh | [Read More](https://medium.com/p/445a23b0d723) |
