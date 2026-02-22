@@ -12,7 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Feb 2026 20:15:37 GMT | The Filter of Truth | Craineanu Daniel | [Read More](https://medium.com/p/cc66dd9c90aa) |
+| Sun, 22 Feb 2026 20:12:08 GMT | How a Simple “Resend” Button Led to an MFA Fatigue Vulnerability | MrRobot | [Read More](https://medium.com/p/6a638edf54ff) |
+| Sun, 22 Feb 2026 20:10:46 GMT | Web Pentest’te Recon neden önemlidir neler kullanılmalıdır? | Zekikayaalp | [Read More](https://medium.com/p/d1ca79c5d891) |
+| Sun, 22 Feb 2026 20:08:35 GMT | People lie
+They got it wrong | Stephanie Mccabe | [Read More](https://medium.com/p/f6b9878ebc84) |
+| Sun, 22 Feb 2026 20:01:30 GMT | Easy Splunk: Architecting the Modern SOC with OCSF | Antonella Blasetti | [Read More](https://medium.com/p/1ded61a8f37e) |
+| Sun, 22 Feb 2026 19:57:29 GMT | PortSwigger SQL Injection Labs — Part 4: Blind SQL Injection | Emirkilicer | [Read More](https://medium.com/p/f2a2078c6032) |
+| Sun, 22 Feb 2026 19:57:27 GMT | Debugging in Windbg | Babak | [Read More](https://medium.com/p/bd26fe57bbe2) |
+| Sun, 22 Feb 2026 19:50:26 GMT | How to Prevent Accidental Password Leaks in Your Node.js APIs | freerave | [Read More](https://medium.com/p/6f48f41b7756) |
+| Sun, 22 Feb 2026 19:49:21 GMT | Engineering GRC in the Age of AI: Cutting Through the Hype | Amrita Dash | [Read More](https://medium.com/p/1891a2efb82f) |
+| Sun, 22 Feb 2026 19:45:55 GMT | ColPali vs BM25: Two Retrieval Philosophies That Fail in Different Ways | Mohsin Khan | [Read More](https://medium.com/p/10bb33228b9c) |
 | Sun, 22 Feb 2026 19:42:19 GMT | Your threat intel feed is an mRNA vaccine. Your SOC doesn’t have an immune system. | Levente Simon | [Read More](https://medium.com/p/7903dcaa3907) |
+| Sun, 22 Feb 2026 19:40:44 GMT | How to Make a Phone Call from a Device You’ve Never Touched | Seif Ahmed Abdelaal | [Read More](https://medium.com/p/0cc9cfb31757) |
+| Sun, 22 Feb 2026 19:38:09 GMT | Does the EU Cyber Resilience Act Apply to Your Product? A Developer’s Decision Tree | CRA Decoded | [Read More](https://medium.com/p/ef6af91c68ef) |
 | Sun, 22 Feb 2026 19:29:45 GMT | pfSense Secure Provisioning & Hardening Guide | SOCFortress | [Read More](https://medium.com/p/dfbd3fdcc89b) |
 | Sun, 22 Feb 2026 19:23:49 GMT | Autonomous Defense | Federico Giampietro | [Read More](https://medium.com/p/91d63e10b6c6) |
 | Sun, 22 Feb 2026 19:18:17 GMT | Lockdown Lab Walkthrough: PCAP Analysis Edition | Everyday Explorations | [Read More](https://medium.com/p/3fce5f9c1467) |
@@ -101,15 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Feb 2026 14:39:56 GMT | Breaking ROT13 — picoCTF Easy Challenge Writeup | 3m Mohamed | [Read More](https://medium.com/p/1e0e15f141df) |
 | Sun, 22 Feb 2026 14:39:41 GMT | PayPal’s 16 Million-User Data Breach: Strategic Lessons for Ecommerce, FinTech and Enterprise… | eL Njas!™ | [Read More](https://medium.com/p/b1b2d07e2b90) |
 | Sun, 22 Feb 2026 14:39:37 GMT | Your Analytics Tracker Just Became a SQL Injection Gateway | OopsSec Store | [Read More](https://medium.com/p/1e6c91e46879) |
-| Sun, 22 Feb 2026 14:39:24 GMT | Thinking Like an Attacker: How SQL Injection Breaks API Authentication | Joyatee Datta | [Read More](https://medium.com/p/fff4c4e47942) |
-| Sun, 22 Feb 2026 14:38:50 GMT | Is Your Java App Sitting on a Security Time Bomb? Meet the Online JAR Vulnerability Scanner | Simon Reed | [Read More](https://medium.com/p/ceef2e3a1334) |
-| Sun, 22 Feb 2026 14:33:46 GMT | Makineler Karar Verirse Suçlu Kim? AIoT ve Geleceğin İnterneti | Emirhan Keser | [Read More](https://medium.com/p/f92b08f8df9d) |
-| Sun, 22 Feb 2026 14:32:56 GMT | My Airplane Mode Makes Me Invisible. Right??? | O. J. Okpabi | [Read More](https://medium.com/p/2fa76d2370d7) |
-| Sun, 22 Feb 2026 14:31:59 GMT | Hands-on: Implementing Security Best Practices in a Production Environment | Engineer Palsu | [Read More](https://medium.com/p/e47068a0f63d) |
-| Sun, 22 Feb 2026 14:31:00 GMT | Stop Silent Permission Drift: 9 Tool Contracts for Agents | Duckweave | [Read More](https://medium.com/p/c09832c6a683) |
-| Sun, 22 Feb 2026 14:30:38 GMT | The Principle of Least Privilege: Minimizing Risk and Strengthening Security Posture | cyberhunter | [Read More](https://medium.com/p/9dd893e662c0) |
-| Sun, 22 Feb 2026 14:30:01 GMT | AI Age — Not a Simple Wave of Layoffs, but a Structural Transformation of the Global Economy | Tiglu Mekuria | [Read More](https://medium.com/p/b5931f5a16d9) |
-| Sun, 22 Feb 2026 14:27:31 GMT | The Power of Defense in Depth: Building Layers of Protection for a Robust Cybersecurity Strategy | cyberhunter | [Read More](https://medium.com/p/a12bc8e40fbf) |
-| Sun, 22 Feb 2026 14:19:47 GMT | Pentesting Is Not Entry-Level — And That’s Exactly Why the Jobs Are Scarce | 0xAbhiSec | [Read More](https://medium.com/p/bfe382c9da04) |
-| Sun, 22 Feb 2026 14:15:28 GMT | Hazır Araçların Ötesine Geçmek: Neden Kendi Scriptlerimizi Yazıyoruz | Yaren Daşpınar | [Read More](https://medium.com/p/b10e09b7da37) |
-| Sun, 22 Feb 2026 14:10:10 GMT | Building Strong Cybersecurity: 5 Principles Every Tech Company Should Know | Ahmed Taghiyev | [Read More](https://medium.com/p/a3313488f40e) |
