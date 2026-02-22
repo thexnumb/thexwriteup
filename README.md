@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Feb 2026 05:30:33 GMT | Cloud Security Misconfigurations: The Top 5 Mistakes That Lead to Data Breaches | Cyber Aries | [Read More](https://medium.com/p/ed8e61cf1269) |
+| Sun, 22 Feb 2026 05:26:43 GMT | Did the Market Overreact to Claude Code Security? | Vaibhav Kumar Srivastava | [Read More](https://medium.com/p/d1aeb2475290) |
+| Sun, 22 Feb 2026 05:22:31 GMT | Volt Typhoon - TryHackme - Splunk | Jose Praveen | [Read More](https://medium.com/p/2a466b9c8e88) |
+| Sun, 22 Feb 2026 05:13:33 GMT | 5 Critical Intersections Between Cybersecurity and Finance Every Small Business Owner Should… | Chandan Bhattacharya | [Read More](https://medium.com/p/8a27c883b5ba) |
+| Sun, 22 Feb 2026 05:04:46 GMT | External Embeds Don’t Fail in AEM — CSP Does | Vuong Nguyen | [Read More](https://medium.com/p/c55bb9a4ba38) |
+| Sun, 22 Feb 2026 05:03:37 GMT | From GenAI to GenUI: Why Your AI CTI Agent Is Sh*T | Thomas Roccia | [Read More](https://medium.com/p/f297800116ff) |
+| Sun, 22 Feb 2026 04:55:39 GMT | Zero Trust Architecture: The Lost Origin Story | Jade Seeker | [Read More](https://medium.com/p/ae102988dc8b) |
+| Sun, 22 Feb 2026 04:53:16 GMT | TryHackMe — JavaScript: Simple Demo | Satyamsatyarthi | [Read More](https://medium.com/p/a54dba0e6f0d) |
+| Sun, 22 Feb 2026 04:40:14 GMT | Weekly Update: What Got Built on the Threat Intelligence Platform This Week | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/51412eb4262d) |
+| Sun, 22 Feb 2026 04:39:33 GMT | Anthropic’s Claude Code Security dropped like a bombshell on cybersecurity stocks | Alex Gutscher | [Read More](https://medium.com/p/698ea44496a3) |
+| Sun, 22 Feb 2026 04:38:01 GMT | Understanding TCP Flags | Rithikarao | [Read More](https://medium.com/p/9b32a33c2e6a) |
+| Sun, 22 Feb 2026 04:31:02 GMT | PumpkinGarden Walkthrough | pavani | [Read More](https://medium.com/p/bc29f1e90b83) |
+| Sun, 22 Feb 2026 04:29:07 GMT | When AI Agents Run the Cloud: The New Cybersecurity Battlefield | Samarth Arun Narula | [Read More](https://medium.com/p/a0ac8396dcb8) |
 | Sun, 22 Feb 2026 04:26:31 GMT | The OpenClaw Security Nightmare: Why Developers are Migrating to NanoClaw (and How to Safely Build… | kakrana | [Read More](https://medium.com/p/53d6ea843384) |
 | Sun, 22 Feb 2026 04:14:49 GMT | Your JWT Implementation Is Probably Insecure | Sachin Kasana | [Read More](https://medium.com/p/851cecfc53a4) |
 | Sun, 22 Feb 2026 04:14:39 GMT | I Audited a Popular Open-Source AI Assistant. | Terminals & Coffee | [Read More](https://medium.com/p/cd20a0649b22) |
@@ -19,6 +32,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Feb 2026 04:04:25 GMT | TryHackMe — Computer Types Walkthrough | LEVI | [Read More](https://medium.com/p/b6f4e44ded74) |
 | Sun, 22 Feb 2026 03:56:29 GMT | I Shared My Breakdown Online. It Got 50K Views. I Still Felt Empty. | Thrive & Learn | [Read More](https://medium.com/p/42da47ddbf2b) |
 | Sun, 22 Feb 2026 03:56:01 GMT | SSRF via Stored Profile Data in an AI Chatbot — A Real-World Case Study | Xp10it | [Read More](https://medium.com/p/83355beac933) |
+| Sun, 22 Feb 2026 03:32:23 GMT | Dari Bug ke Business Value: Cara Saya Memandang Permasalahan IT | Muhammad Rifqi thufail fahmi | [Read More](https://medium.com/p/3d0062e46381) |
 | Sun, 22 Feb 2026 03:19:40 GMT | TryHackMe — Inside a Computer System Walkthrough | LEVI | [Read More](https://medium.com/p/32f7425041d4) |
 | Sun, 22 Feb 2026 03:07:13 GMT | From WordPress to Root: Compromising Basic Pentesting 1 (VulnHub) | Robert Perez | [Read More](https://medium.com/p/6b83d60ce24b) |
 | Sun, 22 Feb 2026 02:44:34 GMT | How Real Attackers Stay Inside Networks for Months | 0xpwny | [Read More](https://medium.com/p/f5bf7ca92e18) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Feb 2026 18:49:21 GMT | The Hidden Security Crisis in Enterprise AI | Alex Hosein | [Read More](https://medium.com/p/f5c99383a3dd) |
 | Sat, 21 Feb 2026 18:48:36 GMT | Is Anthropic’s Claude Code Security a Game Changer for Cybersecurity? | Srinija Puvvula | [Read More](https://medium.com/p/c45c06182a2f) |
 | Sat, 21 Feb 2026 18:46:00 GMT | The Day Microsoft Lost Its Signing Key | Bilal Zuberi | [Read More](https://medium.com/p/18e2ec7f8cec) |
-| Sat, 21 Feb 2026 18:45:08 GMT | TryHackMe — All-in-One — Start your adventure | mahyar kermani | [Read More](https://medium.com/p/2e12c1aa6618) |
-| Sat, 21 Feb 2026 18:41:38 GMT | Behind a Simple Click There is a Danger | Grace Jaman | [Read More](https://medium.com/p/09feaf129e39) |
-| Sat, 21 Feb 2026 18:32:19 GMT | TryHackMe - Database SQL Basics - WriteUp | Axoloth | [Read More](https://medium.com/p/a85ee703a58a) |
-| Sat, 21 Feb 2026 18:30:57 GMT | TryHackMe - Client-Server Basics - WriteUp | Axoloth | [Read More](https://medium.com/p/ba4659cfbffb) |
-| Sat, 21 Feb 2026 18:16:00 GMT | Access Control Checkup: A One-Hour Review That Catches Real Bug | Exploitless | [Read More](https://medium.com/p/fd715957b3b3) |
-| Sat, 21 Feb 2026 18:14:20 GMT | How I Discovered a CSRF Vulnerability in a CV Update Feature | montaser mohsen | [Read More](https://medium.com/p/b3b83680ee11) |
-| Sat, 21 Feb 2026 17:57:13 GMT | Information Gathering & Ecosystem Analysis on web applications | Diva Rizky Alfitrah | [Read More](https://medium.com/p/88e006228f5d) |
-| Sat, 21 Feb 2026 17:56:38 GMT | You made $10k from a finding .. so what | Pablo Vergara | [Read More](https://medium.com/p/da63f72b5494) |
-| Sat, 21 Feb 2026 17:55:23 GMT | The End of Annual SSL Certificates: How the 47-Day Limit Is Reshaping Cybersecurity | Vikrant Pande | [Read More](https://medium.com/p/3836c43af6ff) |
-| Sat, 21 Feb 2026 17:48:18 GMT | The Gmail PhaaS Playbook: Anatomy of a Repeat Offender | Dean | [Read More](https://medium.com/p/083c3a08d85f) |
-| Sat, 21 Feb 2026 17:45:11 GMT | I Broke Into a Database With (1=1). | SRCK | [Read More](https://medium.com/p/88f68af0ef5c) |
-| Sat, 21 Feb 2026 17:44:23 GMT | What Your IP Address Reveals About Your Location: A Deep Dive for North American Users | Jake Smith | [Read More](https://medium.com/p/841b1997f99e) |
-| Sat, 21 Feb 2026 17:38:36 GMT | Privacy vs. Transparency Paradox: Is India Quietly Weakening the Right to Information? | Pranjal | [Read More](https://medium.com/p/ea639a004340) |
-| Sat, 21 Feb 2026 17:30:01 GMT | Privacy architecture — Pocket Brain tells no tales, the nine spheres of sovereign cognition — 1/2 | Sami Belhadj | [Read More](https://medium.com/p/8633e34520c2) |
