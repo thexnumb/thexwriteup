@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Feb 2026 19:18:17 GMT | Lockdown Lab Walkthrough: PCAP Analysis Edition | Everyday Explorations | [Read More](https://medium.com/p/3fce5f9c1467) |
+| Sun, 22 Feb 2026 19:18:01 GMT | FahemSec Hackstart CTF xWeb | Mohamed Walid | [Read More](https://medium.com/p/89edcf72223c) |
+| Sun, 22 Feb 2026 19:07:48 GMT | TryHackMe - Windows CLI Basics - WriteUp | Axoloth | [Read More](https://medium.com/p/a0cd19b2ba14) |
+| Sun, 22 Feb 2026 19:07:18 GMT | TryHackMe - Linux CLI Basics - WriteUp | Axoloth | [Read More](https://medium.com/p/c289a464d4ef) |
+| Sun, 22 Feb 2026 18:55:36 GMT | Disk Analysis & Autopsy | Mert Baykal | [Read More](https://medium.com/p/200df0730f52) |
+| Sun, 22 Feb 2026 18:55:02 GMT | A New Beginning! | Sanya joshy | [Read More](https://medium.com/p/fa5b7343512c) |
+| Sun, 22 Feb 2026 18:49:35 GMT | My Week 2 Takeaways from “Begin Ethical Hacking with Python” by Sanjib Sinha(Part II) | Kalkidan | [Read More](https://medium.com/p/5ba5be8995d0) |
+| Sun, 22 Feb 2026 18:48:54 GMT | Synthesizing security concepts: building a cohesive strategy (short) | Ziya | [Read More](https://medium.com/p/927f751f681a) |
+| Sun, 22 Feb 2026 18:46:09 GMT | Security through obscurity: helpful seasoning, terrible main course | Ziya | [Read More](https://medium.com/p/3af4c04e6603) |
+| Sun, 22 Feb 2026 18:45:08 GMT | Your AI Agent Just Became an Attack Surface, And Most Teams Don’t Know It Yet | Amine Raji | [Read More](https://medium.com/p/fe77eb59a222) |
+| Sun, 22 Feb 2026 18:43:08 GMT | When People Think You’re Doing Well and You’re Actually Rebuilding ( Behind The Pages) | Bella Bennz | [Read More](https://medium.com/p/0a7ca4927108) |
+| Sun, 22 Feb 2026 18:39:15 GMT | Secure by design: stop treating security like a last-minute patch | Ziya Allahverdiev | [Read More](https://medium.com/p/b5888d6a459a) |
+| Sun, 22 Feb 2026 18:33:23 GMT | Selenium/Playwright + CDP Isn’t a “Bypass” — It’s a Bug Hunter’s Power Tool | Aman Bhuiyan | [Read More](https://medium.com/p/32df3ac7d77b) |
+| Sun, 22 Feb 2026 18:32:44 GMT | Least privilege: the simple rule that saves you when things go wrong | Lightlimerick | [Read More](https://medium.com/p/b6e1d489448a) |
 | Sun, 22 Feb 2026 18:31:00 GMT | The $4.99 Million Blind Spot: Why Chat May Be Your Best Security Layer | Sergey Andreychenko | [Read More](https://medium.com/p/2570aa1c8ff8) |
 | Sun, 22 Feb 2026 18:22:13 GMT | Why Every Company and Person Should Use a Password Manager | Shubham Khirwadkar | [Read More](https://medium.com/p/f4917efbc1a8) |
 | Sun, 22 Feb 2026 18:18:55 GMT | Security of the 21st Century: 
@@ -24,6 +38,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Feb 2026 17:57:22 GMT | I Opened a Window to the Internet: 24 Hours with an Azure Honeypot | Shubham Sharma | [Read More](https://medium.com/p/23bbbb1f5da9) |
 | Sun, 22 Feb 2026 17:53:36 GMT | Securing AI Agents in the Enterprise: Building an AISecOps Plugin for OpenClaw | Viplav Fauzdar | [Read More](https://medium.com/p/f4adede08d4b) |
 | Sun, 22 Feb 2026 17:53:14 GMT | Here are 10 major challenges clients face when searching for property or rental apartments in… | LuxveraNg | [Read More](https://medium.com/p/71e6179cff84) |
+| Sun, 22 Feb 2026 17:44:51 GMT | Defense in Depth: the “don’t panic when one thing breaks” security strategy | Lightlimerick | [Read More](https://medium.com/p/0c8d8520636c) |
 | Sun, 22 Feb 2026 17:43:11 GMT | How I Got a Reverse Shell Through a File Upload — CTF Writeup | PaulRdf | [Read More](https://medium.com/p/18e605e2cb37) |
 | Sun, 22 Feb 2026 17:34:18 GMT | Framework Comparison: IEC 62443 vs NIST CSF vs NERC CIP | urjasec | [Read More](https://medium.com/p/f7afe356baa7) |
 | Sun, 22 Feb 2026 17:31:01 GMT | BEARCAT CTF 2026 WRITEUPS | Fr1cTioN | [Read More](https://medium.com/p/bf64d89a7ae0) |
@@ -98,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Feb 2026 14:03:13 GMT | Why Capital Efficiency Is the Real Product in DeFi | Mukeshrana | [Read More](https://medium.com/p/329261519091) |
 | Sun, 22 Feb 2026 14:01:01 GMT | When Prompts Turn into Payloads: Tool Boundary Attacks | Thinking Loop | [Read More](https://medium.com/p/c0bc6d40e987) |
 | Sun, 22 Feb 2026 14:01:01 GMT | The New Romance Scam: How Digital Predators Really Work | Richard Buchfink | [Read More](https://medium.com/p/2d77faa4df96) |
-| Sun, 22 Feb 2026 13:52:06 GMT | Sistemin Kuralını Değiştirin: Hacker Mantığı ile Kuralları Yeniden Yazma Sanatı | shinemu rock | [Read More](https://medium.com/p/8bf41a300a96) |
-| Sun, 22 Feb 2026 13:43:30 GMT | My First Attempt at Kubernetes Network Policies | Pooja | [Read More](https://medium.com/p/16e660b603cc) |
-| Sun, 22 Feb 2026 13:41:43 GMT | Bangalore Btech Colleges with Management Quota Seats 2026 | Management Guru | [Read More](https://medium.com/p/a9c56294defa) |
-| Sun, 22 Feb 2026 13:37:32 GMT | Why Lumera Is Not “Just Another Blockchain” | Chidimma Amarachi | [Read More](https://medium.com/p/21787bf2feb0) |
-| Sun, 22 Feb 2026 13:36:52 GMT | Active Directory — Blog Part III: Security & Misconfigurations, Attack Paths, & The Tier… | Mark Thompson | [Read More](https://medium.com/p/eb28b81b90e0) |
-| Sun, 22 Feb 2026 13:25:12 GMT | Solving a Bugforge Challenge — Exploiting Path Traversal in Ottergram | Pranaya Shrestha | [Read More](https://medium.com/p/c77130f93c44) |
-| Sun, 22 Feb 2026 13:24:44 GMT | Lumera and the Quiet Revolution of Trust in the Digital Age | Annabel Chima | [Read More](https://medium.com/p/ec7186769973) |
-| Sun, 22 Feb 2026 13:23:39 GMT | The architecture of agency: Safety and observability in the era of autonomous AI | Piyush P | [Read More](https://medium.com/p/5bf29a6b095e) |
-| Sun, 22 Feb 2026 13:18:23 GMT | Swapping Tokens Directly in Telegram: How Omniston Delivers Better Rates on TON | Stan4Chainz | [Read More](https://medium.com/p/d35bf4d44ab9) |
-| Sun, 22 Feb 2026 13:18:01 GMT | From Index to Semantics: How AI Retrieval Is Rewiring Knowledge Discovery and Intellectual… | Supat Charoensappuech | [Read More](https://medium.com/p/742d1a110d45) |
-| Sun, 22 Feb 2026 13:12:43 GMT | How to Use ROP Vulnerability in PicoCTF Ropfu Challenge | Atul Singh | [Read More](https://medium.com/p/c316825fe60) |
-| Sun, 22 Feb 2026 13:08:42 GMT | I Had an Opportunity to Work on AWS KMS for Encryption, Here’s What I Learned.. | Meenakshi Sharma | [Read More](https://medium.com/p/c8c0e3c35c83) |
-| Sun, 22 Feb 2026 13:06:57 GMT | I am trying to solve a CTF (Capture The Flag) about Sensitive Data Leakage on heapdump | Billy Elvonda Aron Umpel | [Read More](https://medium.com/p/8854cd5f2b90) |
-| Sun, 22 Feb 2026 13:04:07 GMT | STON.fi Staking Explained: How STON Staking Works and Why It Matters | Stan4Chainz | [Read More](https://medium.com/p/090b612845b3) |
-| Sun, 22 Feb 2026 13:02:39 GMT | OtterCTF - Hopity Hop Reverse Engineering Walkthrough | Charuka Gimhan | [Read More](https://medium.com/p/966c3a75e99b) |
