@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Feb 2026 17:17:02 GMT | Client-Server Basics (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/32ca03f60c16) |
+| Sun, 22 Feb 2026 17:16:16 GMT | The Linge Method: A Theory for Detecting Hidden Steganography Without Seeing the Hidden Data | John Smith | [Read More](https://medium.com/p/0e4e143e2582) |
+| Sun, 22 Feb 2026 17:13:14 GMT | OWASP Top 10: 2025—The Latest in Web Application Security Risks | XCyber | [Read More](https://medium.com/p/10faecad744a) |
+| Sun, 22 Feb 2026 17:02:13 GMT | Telecom SIEM Triage Gets Cooked in Ransomware’s First 30min | Graylog | [Read More](https://medium.com/p/1b5e523f146a) |
+| Sun, 22 Feb 2026 16:53:34 GMT | What Happens When You Click a Suspicious Link? | Nway Nway Zay Ya | [Read More](https://medium.com/p/b584d20e220b) |
+| Sun, 22 Feb 2026 16:44:45 GMT | Misunderstood Realities | Philip Mraz | [Read More](https://medium.com/p/cd5a72eacf21) |
+| Sun, 22 Feb 2026 16:40:40 GMT | HackTheBox - AoTR 1: A Call from the Museum | M.Daffa Hakiki | [Read More](https://medium.com/p/a32db8307e63) |
+| Sun, 22 Feb 2026 16:34:37 GMT | Your AI Agent Is Leaking Your Secrets. Here’s What’s Actually Happening. | iamyxsh | [Read More](https://medium.com/p/8468d32a4669) |
 | Sun, 22 Feb 2026 16:27:49 GMT | The Fortress Mentality: Why Defense in Depth is the Bedrock of Cybersecurity | Abutalibov Umud | [Read More](https://medium.com/p/42eaba3c609b) |
 | Sun, 22 Feb 2026 16:26:00 GMT | The Silent Threat: How Ransomware is Evolving and What You Can Do | Indika Hiran Wiesinghe | [Read More](https://medium.com/p/d12be14331ed) |
 | Sun, 22 Feb 2026 16:24:21 GMT | AI Can Now Exploit Smart Contracts at Scale — and DeFi Isn’t Ready | Zoom In AI | [Read More](https://medium.com/p/eb72cbed1b71) |
@@ -105,11 +113,3 @@ Freelancing looks easy from the outside. | Muzamil Hussain | [Read More](https:/
 | Sun, 22 Feb 2026 12:01:01 GMT | The Risk of Loving | Nikhil | [Read More](https://medium.com/p/000a2cf0d074) |
 | Sun, 22 Feb 2026 11:58:27 GMT | How I found CVE-2026–27161 (Sensitive Disclosure) - Cyber Tamarin | Cyber Tamarin | [Read More](https://medium.com/p/9b2e62dac238) |
 | Sun, 22 Feb 2026 11:57:00 GMT | How Android Malware Makes Itself Unkillable and “Un”-Uninstallable | carson12345 | [Read More](https://medium.com/p/02b3afa40974) |
-| Sun, 22 Feb 2026 11:53:57 GMT | Shadow World : Decryption — Chapter Five (Teaser Edition) | Bond Leung | [Read More](https://medium.com/p/bfd893983cad) |
-| Sun, 22 Feb 2026 11:41:17 GMT | From .env to RCE: Exploiting a Leaked Laravel APP_KEY | Igniterobot | [Read More](https://medium.com/p/8ec8ee670b29) |
-| Sun, 22 Feb 2026 11:40:12 GMT | google pixel 6 pro and others cpid lifetime fix with play_integrity pass. | Sam | [Read More](https://medium.com/p/aad731a15b7f) |
-| Sun, 22 Feb 2026 11:38:26 GMT | Least Privilege: Controlling Access to Reduce Systemic Risk | madsl0w | [Read More](https://medium.com/p/108c0f021243) |
-| Sun, 22 Feb 2026 11:35:43 GMT | Hacking Study Notes — Netcat Usage (Basics) | jaejun835 | [Read More](https://medium.com/p/ad81ffbf1e4f) |
-| Sun, 22 Feb 2026 11:35:27 GMT | Hacking Study Notes — Netcat Usage (Advanced) | jaejun835 | [Read More](https://medium.com/p/d8b4f4590cc0) |
-| Sun, 22 Feb 2026 11:28:06 GMT | Easy Splunk: Core Concepts the you need to know for ES | Antonella Blasetti | [Read More](https://medium.com/p/83e022c735c8) |
-| Sun, 22 Feb 2026 11:26:30 GMT | Quantum Exploits Without Quantum Computers | Talex Maxim (taimax13) - #barracuda | [Read More](https://medium.com/p/3291b42405f5) |
