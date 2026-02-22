@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Feb 2026 18:31:00 GMT | The $4.99 Million Blind Spot: Why Chat May Be Your Best Security Layer | Sergey Andreychenko | [Read More](https://medium.com/p/2570aa1c8ff8) |
+| Sun, 22 Feb 2026 18:22:13 GMT | Why Every Company and Person Should Use a Password Manager | Shubham Khirwadkar | [Read More](https://medium.com/p/f4917efbc1a8) |
+| Sun, 22 Feb 2026 18:18:55 GMT | Security of the 21st Century: 
+ From “Man-in-the-Loop” to “Society-in-the-Loop” | Denys Lypnytskyi | [Read More](https://medium.com/p/01ae2913ad9f) |
+| Sun, 22 Feb 2026 18:11:00 GMT | 13 agent evals that measure harm, not vibes | Yamishift | [Read More](https://medium.com/p/574741d4bd03) |
+| Sun, 22 Feb 2026 18:03:26 GMT | Day 95: MITRE ATT&CK | Nile Okomo | [Read More](https://medium.com/p/929714d458f2) |
+| Sun, 22 Feb 2026 18:01:59 GMT | WebStrike — CyberDefenders Lab - Week 2 Cybersecurity Bootcamp: | FAIZ AIDIL BAIHAQI | [Read More](https://medium.com/p/ca9fc0267535) |
+| Sun, 22 Feb 2026 17:58:14 GMT | Advent of The Relics Writeup - Cybersecurity Bootcamp: Week 2 | FAIZ AIDIL BAIHAQI | [Read More](https://medium.com/p/4526d6112c2b) |
+| Sun, 22 Feb 2026 17:58:05 GMT | The WhatsApp Hijack: Anatomy of an Advanced AITM Phishing Campaign | Bkm4ge | [Read More](https://medium.com/p/dd3961950586) |
+| Sun, 22 Feb 2026 17:57:22 GMT | I Opened a Window to the Internet: 24 Hours with an Azure Honeypot | Shubham Sharma | [Read More](https://medium.com/p/23bbbb1f5da9) |
+| Sun, 22 Feb 2026 17:53:36 GMT | Securing AI Agents in the Enterprise: Building an AISecOps Plugin for OpenClaw | Viplav Fauzdar | [Read More](https://medium.com/p/f4adede08d4b) |
+| Sun, 22 Feb 2026 17:53:14 GMT | Here are 10 major challenges clients face when searching for property or rental apartments in… | LuxveraNg | [Read More](https://medium.com/p/71e6179cff84) |
 | Sun, 22 Feb 2026 17:43:11 GMT | How I Got a Reverse Shell Through a File Upload — CTF Writeup | PaulRdf | [Read More](https://medium.com/p/18e605e2cb37) |
 | Sun, 22 Feb 2026 17:34:18 GMT | Framework Comparison: IEC 62443 vs NIST CSF vs NERC CIP | urjasec | [Read More](https://medium.com/p/f7afe356baa7) |
 | Sun, 22 Feb 2026 17:31:01 GMT | BEARCAT CTF 2026 WRITEUPS | Fr1cTioN | [Read More](https://medium.com/p/bf64d89a7ae0) |
@@ -101,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Feb 2026 13:06:57 GMT | I am trying to solve a CTF (Capture The Flag) about Sensitive Data Leakage on heapdump | Billy Elvonda Aron Umpel | [Read More](https://medium.com/p/8854cd5f2b90) |
 | Sun, 22 Feb 2026 13:04:07 GMT | STON.fi Staking Explained: How STON Staking Works and Why It Matters | Stan4Chainz | [Read More](https://medium.com/p/090b612845b3) |
 | Sun, 22 Feb 2026 13:02:39 GMT | OtterCTF - Hopity Hop Reverse Engineering Walkthrough | Charuka Gimhan | [Read More](https://medium.com/p/966c3a75e99b) |
-| Sun, 22 Feb 2026 13:00:35 GMT | The Day the Internet Stopped: A Post-Mortem of the December 5th Meltdown | Cyberghost8 | [Read More](https://medium.com/p/f278686644f2) |
-| Sun, 22 Feb 2026 13:00:26 GMT | Privilege Escalation via Role Manipulation | C0deRevenant | [Read More](https://medium.com/p/192ade8dd937) |
-| Sun, 22 Feb 2026 12:54:55 GMT | Mass Account Lockout Using Organization Invites | Killua199 | [Read More](https://medium.com/p/cd9b69e933a1) |
-| Sun, 22 Feb 2026 12:47:46 GMT | My First CVSS 10.0 Bug: How I Took Control of Industrial Robots from My Bedroom ? | razhack_26 | [Read More](https://medium.com/p/0b2f72d66be8) |
-| Sun, 22 Feb 2026 12:40:17 GMT | The $10 Trillion Shadow: Why 2026 is the Year of the “Identity Synthesis” Breach | Cyberghost8 | [Read More](https://medium.com/p/53b47ced0081) |
-| Sun, 22 Feb 2026 12:36:16 GMT | Designing a Secure 3-Tier Architecture in Oracle Cloud Infrastructure | Tokishi | [Read More](https://medium.com/p/b9d6b50978de) |
-| Sun, 22 Feb 2026 12:36:02 GMT | Cybersecurity 101: The CIA Triad | Ojo Meshack Ohiosumuan | [Read More](https://medium.com/p/a44eedae6226) |
-| Sun, 22 Feb 2026 12:33:27 GMT | Starlink vpn Quick way to grow safely | GHAFIR | [Read More](https://medium.com/p/4c9b144af2aa) |
-| Sun, 22 Feb 2026 12:33:15 GMT | The Invite That Took Over Accounts: A Logic Flaw | Parth Narula | [Read More](https://medium.com/p/453eed1d7dbd) |
-| Sun, 22 Feb 2026 12:32:47 GMT | Exploiting Weak JWT Secrets in a Bug Bounty Target | Z3DX | [Read More](https://medium.com/p/377f79b57b26) |
-| Sun, 22 Feb 2026 12:29:48 GMT | WP-Hunter v2.0.2 Released: Faster, Smarter WordPress Security Scanning with 23 Exclusive PHP Rules | Ali Sünbül (xeloxa) | [Read More](https://medium.com/p/0f4913010afa) |
