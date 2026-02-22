@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Feb 2026 17:43:11 GMT | How I Got a Reverse Shell Through a File Upload — CTF Writeup | PaulRdf | [Read More](https://medium.com/p/18e605e2cb37) |
+| Sun, 22 Feb 2026 17:34:18 GMT | Framework Comparison: IEC 62443 vs NIST CSF vs NERC CIP | urjasec | [Read More](https://medium.com/p/f7afe356baa7) |
+| Sun, 22 Feb 2026 17:31:01 GMT | BEARCAT CTF 2026 WRITEUPS | Fr1cTioN | [Read More](https://medium.com/p/bf64d89a7ae0) |
+| Sun, 22 Feb 2026 17:30:29 GMT | DevSecOps for Git: Building a Secure Foundation for Your DevOps Lifecycle | Adityakadambari | [Read More](https://medium.com/p/fed9c53b862f) |
+| Sun, 22 Feb 2026 17:29:53 GMT | What is blue team? | Kevin Ronex | [Read More](https://medium.com/p/c92a370e4b37) |
+| Sun, 22 Feb 2026 17:29:51 GMT | PortSwigger Labs: User ID Controlled by Request Parameter (Lab 7 & 8) | Sanjivani Dobhal | [Read More](https://medium.com/p/32bed83bfff8) |
+| Sun, 22 Feb 2026 17:26:40 GMT | Why Spiders Matter | thatone guy | [Read More](https://medium.com/p/3b7383e0e217) |
+| Sun, 22 Feb 2026 17:22:30 GMT | Agentic OpenClaw in a Zero Trust Architecture: Using Local Llama on a Raspberry Pi | Crusader2c7 | [Read More](https://medium.com/p/50e1c32b5c73) |
+| Sun, 22 Feb 2026 17:19:35 GMT | The Industrialisation of Cybercrime: Lessons from Operation Red Card 2.0 | Ebenezer Oduro | [Read More](https://medium.com/p/6fb0fe2d5abf) |
+| Sun, 22 Feb 2026 17:18:17 GMT | Beyond Interpretation: When Explainable AI Hits a Wall | Mark Bailey | [Read More](https://medium.com/p/b1620bea319a) |
 | Sun, 22 Feb 2026 17:17:02 GMT | Client-Server Basics (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/32ca03f60c16) |
 | Sun, 22 Feb 2026 17:16:16 GMT | The Linge Method: A Theory for Detecting Hidden Steganography Without Seeing the Hidden Data | John Smith | [Read More](https://medium.com/p/0e4e143e2582) |
 | Sun, 22 Feb 2026 17:13:14 GMT | OWASP Top 10: 2025—The Latest in Web Application Security Risks | XCyber | [Read More](https://medium.com/p/10faecad744a) |
@@ -102,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Feb 2026 12:33:15 GMT | The Invite That Took Over Accounts: A Logic Flaw | Parth Narula | [Read More](https://medium.com/p/453eed1d7dbd) |
 | Sun, 22 Feb 2026 12:32:47 GMT | Exploiting Weak JWT Secrets in a Bug Bounty Target | Z3DX | [Read More](https://medium.com/p/377f79b57b26) |
 | Sun, 22 Feb 2026 12:29:48 GMT | WP-Hunter v2.0.2 Released: Faster, Smarter WordPress Security Scanning with 23 Exclusive PHP Rules | Ali Sünbül (xeloxa) | [Read More](https://medium.com/p/0f4913010afa) |
-| Sun, 22 Feb 2026 12:25:06 GMT | Festive Greetings on WhatsApp Can Be Dangerous: The Rising Threat of Festival Phishing Scams | Ankit rai | [Read More](https://medium.com/p/bc8e47f5d543) |
-| Sun, 22 Feb 2026 12:23:00 GMT | Synthesizing Security Concepts: Building a Cohesive Strategy | madslow | [Read More](https://medium.com/p/663582cb8696) |
-| Sun, 22 Feb 2026 12:17:55 GMT | A Short History of the EU and Strategic Outlook After the Munich Security Conference | Anıl’s Blog | [Read More](https://medium.com/p/141aa655a0e7) |
-| Sun, 22 Feb 2026 12:14:26 GMT | Security Through Obscurity: Assessing the Role of Secrecy in Cybersecurity | madslow | [Read More](https://medium.com/p/fb4f86da1025) |
-| Sun, 22 Feb 2026 12:12:29 GMT | Agent Manifest Papers #02 – The Problem of Implicit Authority | Hernan Capucci | [Read More](https://medium.com/p/bbf33306387d) |
-| Sun, 22 Feb 2026 12:08:22 GMT | Securing Spring Cloud Gateway with JWT Rotation & Rate‑Limiting | Munish Garg | [Read More](https://medium.com/p/42c12370c340) |
-| Sun, 22 Feb 2026 12:02:20 GMT | When Clients Don’t Pay After You Deliver the Work
-Freelancing looks easy from the outside. | Muzamil Hussain | [Read More](https://medium.com/p/cbe781948716) |
-| Sun, 22 Feb 2026 12:01:01 GMT | The Risk of Loving | Nikhil | [Read More](https://medium.com/p/000a2cf0d074) |
-| Sun, 22 Feb 2026 11:58:27 GMT | How I found CVE-2026–27161 (Sensitive Disclosure) - Cyber Tamarin | Cyber Tamarin | [Read More](https://medium.com/p/9b2e62dac238) |
-| Sun, 22 Feb 2026 11:57:00 GMT | How Android Malware Makes Itself Unkillable and “Un”-Uninstallable | carson12345 | [Read More](https://medium.com/p/02b3afa40974) |
