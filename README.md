@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Feb 2026 08:09:45 GMT | DVWA: Brute Force (Low Security) | Kamal S | [Read More](https://medium.com/p/1e17b8b0073c) |
+| Sun, 22 Feb 2026 08:07:43 GMT | CVE-2023–33831 Walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/d92db8188620) |
+| Sun, 22 Feb 2026 08:00:36 GMT | Proving Grounds — Practice — Outdated | Makoyi | [Read More](https://medium.com/p/b940a1680532) |
+| Sun, 22 Feb 2026 07:58:58 GMT | CYBER CRIME: A REAL THREAT? | Nischay Dabas | [Read More](https://medium.com/p/0ac78c819000) |
+| Sun, 22 Feb 2026 07:54:58 GMT | Kerberos Misconfiguration to Get Domain Access (AS-REP Roasting Explained) | Sachin kewat | [Read More](https://medium.com/p/df533e6cd60e) |
+| Sun, 22 Feb 2026 07:43:48 GMT | PowerHell: A PowerShell Payload Generator & Obfuscator for Red Teamers | Vaibhav | [Read More](https://medium.com/p/9ecd039255e9) |
+| Sun, 22 Feb 2026 07:42:10 GMT | Why the Smartest People in Tech Are Quietly Panicking Right Now | Vijay Kumar Gupta | [Read More](https://medium.com/p/3643b375965d) |
+| Sun, 22 Feb 2026 07:36:24 GMT | Best Online Ethical Hacking Course for Future Ethical Hackers | cyber security Updates | [Read More](https://medium.com/p/054e780059ca) |
 | Sun, 22 Feb 2026 07:35:34 GMT | DNS Hijacking & Internal Phishing | ghostyjoe | [Read More](https://medium.com/p/6d440da48212) |
+| Sun, 22 Feb 2026 07:34:33 GMT | PRACTICAL WEB HACKING — HANDS-ON. REAL LABS. REAL SKILLS. | Dallen Sadru | [Read More](https://medium.com/p/16b3d887f180) |
+| Sun, 22 Feb 2026 07:32:47 GMT | Writeup HackTheBox Sherlock: Advent of The Relics 2 — Operation Winter Blackout | Dixtroiza | [Read More](https://medium.com/p/043961e698ca) |
+| Sun, 22 Feb 2026 07:30:21 GMT | Part 4: Building the Foundation: What is “Secure by Design”? | Telman Hajibutayev | [Read More](https://medium.com/p/cbfa1a24fda3) |
+| Sun, 22 Feb 2026 07:29:14 GMT | Part 3: The “Two-Person Rule”: Mastering Separation of Duties (SoD) | Telman Hajibutayev | [Read More](https://medium.com/p/c7fe6158122a) |
 | Sun, 22 Feb 2026 07:27:25 GMT | Setting Up Your First Thick Client Testing Lab | Madhumathi chamarthi | [Read More](https://medium.com/p/fa8c1c9a4998) |
 | Sun, 22 Feb 2026 07:25:22 GMT | Websites Are Leaking Their Own Secrets. | TEJAS | [Read More](https://medium.com/p/c6e8367ba557) |
 | Sun, 22 Feb 2026 07:22:44 GMT | Linux OS Mastery Course | Dallen Sadru | [Read More](https://medium.com/p/65aa1a81b9ff) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 21 Feb 2026 21:31:14 GMT | Ottergram writeup (LFI) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/1e4fa8795e24) |
 | Sat, 21 Feb 2026 21:29:58 GMT | INE-Host & Network Penetration Testing: Exploitation CTF 2 by Sinkhon | Singkhon K | [Read More](https://medium.com/p/870dd6c95b5a) |
 | Sat, 21 Feb 2026 21:20:59 GMT | Defense in Depth | Ali Shukurov | [Read More](https://medium.com/p/55661ed2e43f) |
-| Sat, 21 Feb 2026 21:16:32 GMT | Security Assumptions & Risk Disclosure for BTC-Integrated DeFi | ValoraBTC | [Read More](https://medium.com/p/7733da182aeb) |
-| Sat, 21 Feb 2026 21:14:35 GMT | --- | Slmanyzhyr | [Read More](https://medium.com/p/8c58328cb2d5) |
-| Sat, 21 Feb 2026 20:52:40 GMT | Synthesizing Security Concepts: Building a Cohesive Strategy | us3rgnv | [Read More](https://medium.com/p/8d812204f028) |
-| Sat, 21 Feb 2026 20:47:45 GMT | Security Through Obscurity | us3rgnv | [Read More](https://medium.com/p/31524bef5972) |
-| Sat, 21 Feb 2026 20:46:55 GMT | Shady Oaks Financial writeup(Race Condition) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/9567ad1251ed) |
-| Sat, 21 Feb 2026 20:38:16 GMT | LLMs Need Guardrails, Not Free Rein | Zackary Troop | [Read More](https://medium.com/p/b5e34b8ab667) |
-| Sat, 21 Feb 2026 20:27:36 GMT | How Five African-American Innovators Are Redefining Adaptive Leadership | Lisa M. Higginbotham | [Read More](https://medium.com/p/5083e9180f50) |
-| Sat, 21 Feb 2026 20:26:12 GMT | Microsoft Teams: Enhanced Messaging Safety Features Activated by Default | Ryan Adams | [Read More](https://medium.com/p/d82e5a5b9ffd) |
-| Sat, 21 Feb 2026 20:17:33 GMT | Day 16: Windows Event Logs | Siddhesh Patil | [Read More](https://medium.com/p/55208bdf360d) |
-| Sat, 21 Feb 2026 20:14:29 GMT | Shifting Left Security: The Power of Threat Modeling Before the AWS Landing Zone | Kandasamyarulkumar | [Read More](https://medium.com/p/5ab8245f4f4a) |
-| Sat, 21 Feb 2026 20:12:46 GMT | Is a Data Breach a Sign of Weakness? | Ilderlandio Teixeira | [Read More](https://medium.com/p/6d3e3cbbe2d8) |
-| Sat, 21 Feb 2026 20:09:13 GMT | Residential Camera Installation in Montreal: A Technical Guide to Modern Home Surveillance Systems | Midochamass | [Read More](https://medium.com/p/0935e91daa97) |
