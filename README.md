@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 22 Feb 2026 14:19:47 GMT | Pentesting Is Not Entry-Level — And That’s Exactly Why the Jobs Are Scarce | 0xAbhiSec | [Read More](https://medium.com/p/bfe382c9da04) |
+| Sun, 22 Feb 2026 14:10:10 GMT | Building Strong Cybersecurity: 5 Principles Every Tech Company Should Know | Ahmed Taghiyev | [Read More](https://medium.com/p/a3313488f40e) |
+| Sun, 22 Feb 2026 14:03:13 GMT | Why Capital Efficiency Is the Real Product in DeFi | Mukeshrana | [Read More](https://medium.com/p/329261519091) |
+| Sun, 22 Feb 2026 14:01:01 GMT | When Prompts Turn into Payloads: Tool Boundary Attacks | Thinking Loop | [Read More](https://medium.com/p/c0bc6d40e987) |
+| Sun, 22 Feb 2026 14:01:01 GMT | The New Romance Scam: How Digital Predators Really Work | Richard Buchfink | [Read More](https://medium.com/p/2d77faa4df96) |
+| Sun, 22 Feb 2026 13:43:30 GMT | My First Attempt at Kubernetes Network Policies | Pooja | [Read More](https://medium.com/p/16e660b603cc) |
 | Sun, 22 Feb 2026 13:41:43 GMT | Bangalore Btech Colleges with Management Quota Seats 2026 | Management Guru | [Read More](https://medium.com/p/a9c56294defa) |
 | Sun, 22 Feb 2026 13:37:32 GMT | Why Lumera Is Not “Just Another Blockchain” | Chidimma Amarachi | [Read More](https://medium.com/p/21787bf2feb0) |
 | Sun, 22 Feb 2026 13:36:52 GMT | Active Directory — Blog Part III: Security & Misconfigurations, Attack Paths, & The Tier… | Mark Thompson | [Read More](https://medium.com/p/eb28b81b90e0) |
@@ -107,9 +113,3 @@ Freelancing looks easy from the outside. | Muzamil Hussain | [Read More](https:/
 | Sun, 22 Feb 2026 07:29:14 GMT | Part 3: The “Two-Person Rule”: Mastering Separation of Duties (SoD) | Telman Hajibutayev | [Read More](https://medium.com/p/c7fe6158122a) |
 | Sun, 22 Feb 2026 07:27:25 GMT | Setting Up Your First Thick Client Testing Lab | Madhumathi chamarthi | [Read More](https://medium.com/p/fa8c1c9a4998) |
 | Sun, 22 Feb 2026 07:25:22 GMT | Websites Are Leaking Their Own Secrets. | TEJAS | [Read More](https://medium.com/p/c6e8367ba557) |
-| Sun, 22 Feb 2026 07:22:44 GMT | Linux OS Mastery Course | Dallen Sadru | [Read More](https://medium.com/p/65aa1a81b9ff) |
-| Sun, 22 Feb 2026 07:22:21 GMT | Linux CLI (Introduction To digital Forensics) Security blue team Junior Analyst Path, Panduan… | Yuki Saidi Moses | [Read More](https://medium.com/p/d13d02bb7dc7) |
-| Sun, 22 Feb 2026 07:19:29 GMT | Yes, Your Mac IS Watching You | Michael Swengel | [Read More](https://medium.com/p/6d1f25b6fa59) |
-| Sun, 22 Feb 2026 07:17:21 GMT | Production Is the Only Honest Environment | Fateyaly | [Read More](https://medium.com/p/1354c79d888f) |
-| Sun, 22 Feb 2026 07:12:45 GMT | CryptoHack Challenge: Find (p, q) | 3m Mohamed | [Read More](https://medium.com/p/d5e1025f1d86) |
-| Sun, 22 Feb 2026 07:11:57 GMT | Deep-C: A scanner to catch & Exploit the misconfigured Android deepLinks | Kishor balan | [Read More](https://medium.com/p/8ba3e82970a3) |
