@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Feb 2026 04:18:06 GMT | Cybersecurity Is Not About Hackers — It’s About Human Behavior. | Precious A | [Read More](https://medium.com/p/010a3ad4b38d) |
+| Mon, 23 Feb 2026 04:05:19 GMT | I Judged My Uber Rider. Then He Taught Me a Lesson About Success. | Lurking Lines | [Read More](https://medium.com/p/ae330de524cb) |
+| Mon, 23 Feb 2026 04:02:08 GMT | The AI Coding Boom Has a Hidden Cost: Compliance Debt (And How to Fix It) | Karthikeyan Sadayamuthu | [Read More](https://medium.com/p/e520ac5c2ba5) |
+| Mon, 23 Feb 2026 03:49:57 GMT | Video surveillance at work, the thing nobody talks about | Alexine | [Read More](https://medium.com/p/6d07c7f94094) |
+| Mon, 23 Feb 2026 03:48:12 GMT | Full Organization Account Takeover (ATO) by Changing One Parameter | Mohamed Fares | [Read More](https://medium.com/p/9f67472d3138) |
+| Mon, 23 Feb 2026 03:32:05 GMT | RARE ✨ | Yu | [Read More](https://medium.com/p/34d7a9a3bd9a) |
+| Mon, 23 Feb 2026 03:31:01 GMT | Mining Wayback URLs for High-Impact Vulnerability Discovery | Nitin Gavhane | [Read More](https://medium.com/p/dfa6ebbe63aa) |
+| Mon, 23 Feb 2026 03:31:01 GMT | FREE Bash Scripting Course (Limited Time) | Harsh Kanojia | [Read More](https://medium.com/p/d22d1b29760c) |
+| Mon, 23 Feb 2026 03:28:06 GMT | From Web to Root: Exploiting Kioptrix Level 2 Walkthrough | Robert Perez | [Read More](https://medium.com/p/b07ef5a14fb1) |
+| Mon, 23 Feb 2026 03:26:40 GMT | Ensuring Ultimate Safety with the Best Quality CCTV Installation Company in UAE and CCTV Approval… | techfra solutions | [Read More](https://medium.com/p/0d2d9acb60fd) |
+| Mon, 23 Feb 2026 03:15:14 GMT | Does Mexico Live in Seven-Year Narrative Cycles? Power as a Myth That Inflames | Alan De la Cruz | [Read More](https://medium.com/p/08496042b200) |
+| Mon, 23 Feb 2026 03:13:19 GMT | Securing AI: Combatting Threats in LLM Agent Infrastructures | Cristina R. | [Read More](https://medium.com/p/a070729f789e) |
+| Mon, 23 Feb 2026 02:43:14 GMT | AoTR1 — A Call from the Museum — HackTheBox | Yrddry | [Read More](https://medium.com/p/e3a91b27e0f8) |
+| Mon, 23 Feb 2026 02:41:34 GMT | Double Compromise: Unearthing Unauthenticated SSRF and Weaponized XSS on Legacy Oracle… | K4r33m | [Read More](https://medium.com/p/d41ed9f7f7b8) |
+| Mon, 23 Feb 2026 02:41:01 GMT | Your Database Password Is Hardcoded in a Script. Someone Has Already Found It. | revoq | [Read More](https://medium.com/p/56390b12532b) |
+| Mon, 23 Feb 2026 02:39:09 GMT | Learning Fortinet Firewall — LESSON 3: NAT Options (Dynamic SNAT and Central SNAT) | Rouell Mamaril | [Read More](https://medium.com/p/4d3390371d6c) |
+| Mon, 23 Feb 2026 02:38:08 GMT | How to Actually Analyze a Phishing Email like a SOC Analyst | Jbird | [Read More](https://medium.com/p/336919944099) |
+| Mon, 23 Feb 2026 02:37:27 GMT | Love at First Breach 2026 — TryHackMe CTF Full Walkthrough | Riddhi Sanghvi | [Read More](https://medium.com/p/c36333fbad74) |
+| Mon, 23 Feb 2026 02:34:19 GMT | The Myth of the 10x Developer | The Dev Notebook | [Read More](https://medium.com/p/0b26149b507d) |
+| Mon, 23 Feb 2026 02:28:28 GMT | After Feb 2026 Patches: Securing Async Django Apps Against New SQLi and Timing Attacks (Checklist +… | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/0d56833d2ffb) |
+| Mon, 23 Feb 2026 02:27:02 GMT | Escalating a Duplicate Finding to a CVSS 10.0: Chaining Logic and Session Flaws for Persistent ATO | K4r33m | [Read More](https://medium.com/p/7b856bfe20d7) |
+| Mon, 23 Feb 2026 02:21:08 GMT | Practical OSINT techniques with Shodan leading to CVE | Abhirup Konwar | [Read More](https://medium.com/p/62c7e095f11d) |
 | Mon, 23 Feb 2026 02:16:14 GMT | Cyber Defender Practice — Web Labstrike | Shandyka Aditya Putra | [Read More](https://medium.com/p/477534264e23) |
 | Mon, 23 Feb 2026 02:13:46 GMT | Understanding IP Addresses in Cybersecurity: Public vs Private Explained | Writesankalpagirish | [Read More](https://medium.com/p/7bd889a3ca14) |
 | Mon, 23 Feb 2026 02:10:00 GMT | Windows Ayrıcalık Yükseltme Zafiyeti: Potato Saldırıları | Cem Civelek | [Read More](https://medium.com/p/675f285ee830) |
@@ -93,26 +115,3 @@ They got it wrong | Stephanie Mccabe | [Read More](https://medium.com/p/f6b9878e
 | Sun, 22 Feb 2026 18:48:54 GMT | Synthesizing security concepts: building a cohesive strategy (short) | Ziya | [Read More](https://medium.com/p/927f751f681a) |
 | Sun, 22 Feb 2026 18:46:09 GMT | Security through obscurity: helpful seasoning, terrible main course | Ziya | [Read More](https://medium.com/p/3af4c04e6603) |
 | Sun, 22 Feb 2026 18:45:08 GMT | Your AI Agent Just Became an Attack Surface, And Most Teams Don’t Know It Yet | Amine Raji | [Read More](https://medium.com/p/fe77eb59a222) |
-| Sun, 22 Feb 2026 18:43:08 GMT | When People Think You’re Doing Well and You’re Actually Rebuilding ( Behind The Pages) | Bella Bennz | [Read More](https://medium.com/p/0a7ca4927108) |
-| Sun, 22 Feb 2026 18:39:15 GMT | Secure by design: stop treating security like a last-minute patch | Ziya Allahverdiev | [Read More](https://medium.com/p/b5888d6a459a) |
-| Sun, 22 Feb 2026 18:33:23 GMT | Selenium/Playwright + CDP Isn’t a “Bypass” — It’s a Bug Hunter’s Power Tool | Aman Bhuiyan | [Read More](https://medium.com/p/32df3ac7d77b) |
-| Sun, 22 Feb 2026 18:32:44 GMT | Least privilege: the simple rule that saves you when things go wrong | Lightlimerick | [Read More](https://medium.com/p/b6e1d489448a) |
-| Sun, 22 Feb 2026 18:31:00 GMT | The $4.99 Million Blind Spot: Why Chat May Be Your Best Security Layer | Sergey Andreychenko | [Read More](https://medium.com/p/2570aa1c8ff8) |
-| Sun, 22 Feb 2026 18:22:13 GMT | Why Every Company and Person Should Use a Password Manager | Shubham Khirwadkar | [Read More](https://medium.com/p/f4917efbc1a8) |
-| Sun, 22 Feb 2026 18:18:55 GMT | Security of the 21st Century: 
- From “Man-in-the-Loop” to “Society-in-the-Loop” | Denys Lypnytskyi | [Read More](https://medium.com/p/01ae2913ad9f) |
-| Sun, 22 Feb 2026 18:11:00 GMT | 13 agent evals that measure harm, not vibes | Yamishift | [Read More](https://medium.com/p/574741d4bd03) |
-| Sun, 22 Feb 2026 18:03:26 GMT | Day 95: MITRE ATT&CK | Nile Okomo | [Read More](https://medium.com/p/929714d458f2) |
-| Sun, 22 Feb 2026 18:01:59 GMT | WebStrike — CyberDefenders Lab - Week 2 Cybersecurity Bootcamp: | FAIZ AIDIL BAIHAQI | [Read More](https://medium.com/p/ca9fc0267535) |
-| Sun, 22 Feb 2026 17:58:14 GMT | Advent of The Relics Writeup - Cybersecurity Bootcamp: Week 2 | FAIZ AIDIL BAIHAQI | [Read More](https://medium.com/p/4526d6112c2b) |
-| Sun, 22 Feb 2026 17:58:05 GMT | The WhatsApp Hijack: Anatomy of an Advanced AITM Phishing Campaign | Bkm4ge | [Read More](https://medium.com/p/dd3961950586) |
-| Sun, 22 Feb 2026 17:57:22 GMT | I Opened a Window to the Internet: 24 Hours with an Azure Honeypot | Shubham Sharma | [Read More](https://medium.com/p/23bbbb1f5da9) |
-| Sun, 22 Feb 2026 17:53:36 GMT | Securing AI Agents in the Enterprise: Building an AISecOps Plugin for OpenClaw | Viplav Fauzdar | [Read More](https://medium.com/p/f4adede08d4b) |
-| Sun, 22 Feb 2026 17:53:14 GMT | Here are 10 major challenges clients face when searching for property or rental apartments in… | LuxveraNg | [Read More](https://medium.com/p/71e6179cff84) |
-| Sun, 22 Feb 2026 17:44:51 GMT | Defense in Depth: the “don’t panic when one thing breaks” security strategy | Lightlimerick | [Read More](https://medium.com/p/0c8d8520636c) |
-| Sun, 22 Feb 2026 17:43:11 GMT | How I Got a Reverse Shell Through a File Upload — CTF Writeup | PaulRdf | [Read More](https://medium.com/p/18e605e2cb37) |
-| Sun, 22 Feb 2026 17:34:18 GMT | Framework Comparison: IEC 62443 vs NIST CSF vs NERC CIP | urjasec | [Read More](https://medium.com/p/f7afe356baa7) |
-| Sun, 22 Feb 2026 17:31:01 GMT | BEARCAT CTF 2026 WRITEUPS | Fr1cTioN | [Read More](https://medium.com/p/bf64d89a7ae0) |
-| Sun, 22 Feb 2026 17:30:29 GMT | DevSecOps for Git: Building a Secure Foundation for Your DevOps Lifecycle | Adityakadambari | [Read More](https://medium.com/p/fed9c53b862f) |
-| Sun, 22 Feb 2026 17:29:53 GMT | What is blue team? | Kevin Ronex | [Read More](https://medium.com/p/c92a370e4b37) |
-| Sun, 22 Feb 2026 17:29:51 GMT | PortSwigger Labs: User ID Controlled by Request Parameter (Lab 7 & 8) | Sanjivani Dobhal | [Read More](https://medium.com/p/32bed83bfff8) |
