@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Feb 2026 05:59:46 GMT | To AI or Not to AI in Your SIEM? | Siddhant Mishra | [Read More](https://medium.com/p/3d798d1cdc06) |
+| Mon, 23 Feb 2026 05:59:23 GMT | The Gap Between Breach and Protection, And Why Most Companies Don’t See It Coming | Behawk Infosec | [Read More](https://medium.com/p/d4f33b5dfd81) |
+| Mon, 23 Feb 2026 05:51:58 GMT | BITSCTF | LiGhTZod | [Read More](https://medium.com/p/107d9a947b6d) |
+| Mon, 23 Feb 2026 05:48:47 GMT | Resolve Too many authentication failures on VNC on Second attempt | R Bi | [Read More](https://medium.com/p/24d52a53be89) |
+| Mon, 23 Feb 2026 05:46:09 GMT | Most People Ignore Data Breach Emails. That’s Exactly What Hackers Want | Arshad | [Read More](https://medium.com/p/438ad5ba0429) |
+| Mon, 23 Feb 2026 05:43:39 GMT | Cloud Server Documentation | J Atreyu kemp | [Read More](https://medium.com/p/2958d2c70848) |
+| Mon, 23 Feb 2026 05:43:34 GMT | How Cyber Security as a Services Reduces Risk for Growing Businesses | Abhijith Rs | [Read More](https://medium.com/p/097dc1eb0e4f) |
+| Mon, 23 Feb 2026 05:40:13 GMT | 7 Powerful Security Champions Program Plays at Scale | Pentest_Testing_Corp | [Read More](https://medium.com/p/e87bd0f3b978) |
+| Mon, 23 Feb 2026 05:38:36 GMT | Python IDS | J Atreyu kemp | [Read More](https://medium.com/p/72e917ba2494) |
+| Mon, 23 Feb 2026 05:32:34 GMT | Breaking Down cross-site scripting (XSS) part 1 - Walkthrough via PortSwigger | Hammam Awis Zukimi | [Read More](https://medium.com/p/bc2f2fb76692) |
+| Mon, 23 Feb 2026 05:26:15 GMT | Scam Centers as Political Weapons in Myanmar’s Conflict | South East Asia Report | [Read More](https://medium.com/p/9e935665164c) |
+| Mon, 23 Feb 2026 05:17:36 GMT | Crunchbase Confirms Data Breach What It Means for Startups, Investors, and SaaS Security | Mark L. Hill | [Read More](https://medium.com/p/96e721fec1c7) |
+| Mon, 23 Feb 2026 05:16:01 GMT | The Game-Changing Power of COBIT - Secure n Comply | Secure n Comply | [Read More](https://medium.com/p/c0ac292dde1a) |
+| Mon, 23 Feb 2026 04:56:35 GMT | The Hidden Attack Surface: PDF Metadata & Information Leakage | Kiell Tampubolon | [Read More](https://medium.com/p/a7aa2f4484a4) |
+| Mon, 23 Feb 2026 04:54:58 GMT | PDF Injection Attacks: What Developers Don’t Know Can Hurt Them | Kiell Tampubolon | [Read More](https://medium.com/p/bd09e24dd385) |
+| Mon, 23 Feb 2026 04:50:36 GMT | The Cryptography Security Journey — Private PKI (Public Key Infrastructure) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/c3c6f47c89f3) |
+| Mon, 23 Feb 2026 04:41:49 GMT | Why Your SOC Needs an Architecture Mindset, Not Just More Tools | Ugur Ates | [Read More](https://medium.com/p/64cea8086654) |
+| Mon, 23 Feb 2026 04:31:01 GMT | Node Dependency Sprawl: 9 Rules for Safer Installs | Vectorlane | [Read More](https://medium.com/p/209dac4327f0) |
 | Mon, 23 Feb 2026 04:18:06 GMT | Cybersecurity Is Not About Hackers — It’s About Human Behavior. | Precious A | [Read More](https://medium.com/p/010a3ad4b38d) |
 | Mon, 23 Feb 2026 04:05:19 GMT | I Judged My Uber Rider. Then He Taught Me a Lesson About Success. | Lurking Lines | [Read More](https://medium.com/p/ae330de524cb) |
 | Mon, 23 Feb 2026 04:02:08 GMT | The AI Coding Boom Has a Hidden Cost: Compliance Debt (And How to Fix It) | Karthikeyan Sadayamuthu | [Read More](https://medium.com/p/e520ac5c2ba5) |
@@ -48,7 +66,9 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Feb 2026 01:15:03 GMT | How to Get Out of Help Desk FAST | Jbird | [Read More](https://medium.com/p/ef2dffbff212) |
 | Mon, 23 Feb 2026 01:02:12 GMT | Internal Comms: The Big Gap in SaaS Vendor Docs | Andrew Zimmerman | [Read More](https://medium.com/p/d87a324e7183) |
 | Mon, 23 Feb 2026 01:00:57 GMT | API Vulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/7d1f6da31c13) |
+| Mon, 23 Feb 2026 00:52:47 GMT | Anthropic Just Crashed $15 Billion in Cybersecurity Stocks. | Phil - Rentier Digital Automation | [Read More](https://medium.com/p/17d34513d7cd) |
 | Mon, 23 Feb 2026 00:48:22 GMT | The Evolution of ClickFix: How Cybercriminals Are Weaponizing Your DNS Settings | Joe Graziano | [Read More](https://medium.com/p/cf4d58cbf23a) |
+| Sun, 22 Feb 2026 23:57:42 GMT | From Trafficking Victim to Cybercrime Whistleblower | Sergio Claudio | [Read More](https://medium.com/p/2602f628b049) |
 | Sun, 22 Feb 2026 23:57:26 GMT | Segurança em aplicações .NET | João Bosco | [Read More](https://medium.com/p/b4da2a1da01b) |
 | Sun, 22 Feb 2026 23:44:18 GMT | AI Accountability Didn’t Advance This Week. It Settled In. | A D | [Read More](https://medium.com/p/94f2890d5867) |
 | Sun, 22 Feb 2026 23:33:31 GMT | Understanding Lambda Tenant Isolation | Pubudu Jayawardana | [Read More](https://medium.com/p/485c5680695c) |
@@ -95,23 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Feb 2026 20:08:35 GMT | People lie
 They got it wrong | Stephanie Mccabe | [Read More](https://medium.com/p/f6b9878ebc84) |
 | Sun, 22 Feb 2026 20:01:30 GMT | Easy Splunk: Architecting the Modern SOC with OCSF | Antonella Blasetti | [Read More](https://medium.com/p/1ded61a8f37e) |
-| Sun, 22 Feb 2026 19:57:29 GMT | PortSwigger SQL Injection Labs — Part 4: Blind SQL Injection | Emirkilicer | [Read More](https://medium.com/p/f2a2078c6032) |
-| Sun, 22 Feb 2026 19:57:27 GMT | Debugging in Windbg | Babak | [Read More](https://medium.com/p/bd26fe57bbe2) |
-| Sun, 22 Feb 2026 19:50:26 GMT | How to Prevent Accidental Password Leaks in Your Node.js APIs | freerave | [Read More](https://medium.com/p/6f48f41b7756) |
-| Sun, 22 Feb 2026 19:49:21 GMT | Engineering GRC in the Age of AI: Cutting Through the Hype | Amrita Dash | [Read More](https://medium.com/p/1891a2efb82f) |
-| Sun, 22 Feb 2026 19:45:55 GMT | ColPali vs BM25: Two Retrieval Philosophies That Fail in Different Ways | Mohsin Khan | [Read More](https://medium.com/p/10bb33228b9c) |
-| Sun, 22 Feb 2026 19:42:19 GMT | Your threat intel feed is an mRNA vaccine. Your SOC doesn’t have an immune system. | Levente Simon | [Read More](https://medium.com/p/7903dcaa3907) |
-| Sun, 22 Feb 2026 19:40:44 GMT | How to Make a Phone Call from a Device You’ve Never Touched | Seif Ahmed Abdelaal | [Read More](https://medium.com/p/0cc9cfb31757) |
-| Sun, 22 Feb 2026 19:38:09 GMT | Does the EU Cyber Resilience Act Apply to Your Product? A Developer’s Decision Tree | CRA Decoded | [Read More](https://medium.com/p/ef6af91c68ef) |
-| Sun, 22 Feb 2026 19:29:45 GMT | pfSense Secure Provisioning & Hardening Guide | SOCFortress | [Read More](https://medium.com/p/dfbd3fdcc89b) |
-| Sun, 22 Feb 2026 19:23:49 GMT | Autonomous Defense | Federico Giampietro | [Read More](https://medium.com/p/91d63e10b6c6) |
-| Sun, 22 Feb 2026 19:18:17 GMT | Lockdown Lab Walkthrough: PCAP Analysis Edition | Everyday Explorations | [Read More](https://medium.com/p/3fce5f9c1467) |
-| Sun, 22 Feb 2026 19:18:01 GMT | FahemSec Hackstart CTF xWeb | Mohamed Walid | [Read More](https://medium.com/p/89edcf72223c) |
-| Sun, 22 Feb 2026 19:07:48 GMT | TryHackMe - Windows CLI Basics - WriteUp | Axoloth | [Read More](https://medium.com/p/a0cd19b2ba14) |
-| Sun, 22 Feb 2026 19:07:18 GMT | TryHackMe - Linux CLI Basics - WriteUp | Axoloth | [Read More](https://medium.com/p/c289a464d4ef) |
-| Sun, 22 Feb 2026 18:55:36 GMT | Disk Analysis & Autopsy | Mert Baykal | [Read More](https://medium.com/p/200df0730f52) |
-| Sun, 22 Feb 2026 18:55:02 GMT | A New Beginning! | Sanya joshy | [Read More](https://medium.com/p/fa5b7343512c) |
-| Sun, 22 Feb 2026 18:49:35 GMT | My Week 2 Takeaways from “Begin Ethical Hacking with Python” by Sanjib Sinha(Part II) | Kalkidan | [Read More](https://medium.com/p/5ba5be8995d0) |
-| Sun, 22 Feb 2026 18:48:54 GMT | Synthesizing security concepts: building a cohesive strategy (short) | Ziya | [Read More](https://medium.com/p/927f751f681a) |
-| Sun, 22 Feb 2026 18:46:09 GMT | Security through obscurity: helpful seasoning, terrible main course | Ziya | [Read More](https://medium.com/p/3af4c04e6603) |
-| Sun, 22 Feb 2026 18:45:08 GMT | Your AI Agent Just Became an Attack Surface, And Most Teams Don’t Know It Yet | Amine Raji | [Read More](https://medium.com/p/fe77eb59a222) |
