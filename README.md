@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Feb 2026 07:32:27 GMT | I’ve Spent 6 Years in Cybersecurity, and Your “AI Strategy” is Making Me Nervous | Mohit | [Read More](https://medium.com/p/6f0754569b99) |
+| Mon, 23 Feb 2026 07:30:26 GMT | Delivering AI Solutions in Highly Regulated Industries: A Data Engineer’s Perspective | YunYoung, Choi | [Read More](https://medium.com/p/04aeb2392915) |
+| Mon, 23 Feb 2026 07:17:47 GMT | Hepton CEO Munk Seo Delivers Special Lecture at Sejong Cyber University | TINA | [Read More](https://medium.com/p/4ef379597925) |
+| Mon, 23 Feb 2026 07:17:05 GMT | I Thought DentiGrid Was Just Another Honeypot. I Was Wrong. | Sam Walker | [Read More](https://medium.com/p/f8c4790e9dc5) |
+| Mon, 23 Feb 2026 07:15:57 GMT | Azure Service Groups for Flexible Resource Organization | Brian Veldman | [Read More](https://medium.com/p/ade1cad9bffe) |
+| Mon, 23 Feb 2026 07:14:59 GMT | What Makes Antivirus Software Essential for Modern Windows Security? | Siyanoav | [Read More](https://medium.com/p/12f9fff92b14) |
+| Mon, 23 Feb 2026 07:10:58 GMT | Write-up Lengkap HackTheBox Sherlock: Advent of The Relics (Part 1 & 2) — Dari Phishing hingga… | M Abdul Hamid A | [Read More](https://medium.com/p/468329f37f35) |
+| Mon, 23 Feb 2026 07:10:19 GMT | Popular IDE extension with 1.6M downloads is leaking Google Cloud credentials | Louis | [Read More](https://medium.com/p/da8f9fa225c1) |
+| Mon, 23 Feb 2026 07:09:15 GMT | My Journey Through MITM Attacks — Part 1: ARP Spoofing | ofek789 | [Read More](https://medium.com/p/e5c4c42d573f) |
+| Mon, 23 Feb 2026 07:07:53 GMT | AI-Powered Bug Hunting: 20 Tools to Find Vulnerabilities and Targets Faster | Very Lazy Tech | [Read More](https://medium.com/p/10a98b16d040) |
+| Mon, 23 Feb 2026 07:06:00 GMT | Predictive Growth Systems: Using AI to Turn Performance Data into Strategic Foresight
+Thesis | AI With Timothy | [Read More](https://medium.com/p/4fc50e9754bc) |
+| Mon, 23 Feb 2026 07:03:40 GMT | Key Factors to Migrate IBM Notes to MBOX Safely Guide 2026 | Nyxamir | [Read More](https://medium.com/p/884dc69c24c6) |
+| Mon, 23 Feb 2026 07:01:02 GMT | 1. Why Git is the Backbone of Modern DevOps | Mangesh Muley | [Read More](https://medium.com/p/fe5d5b8ebba5) |
+| Mon, 23 Feb 2026 07:01:01 GMT | The Weight of Becoming | Versouls | [Read More](https://medium.com/p/9ca833f8892b) |
+| Mon, 23 Feb 2026 07:00:22 GMT | Content Moderation Outsourcing: What Platforms Must Know | Manoj Biswal | [Read More](https://medium.com/p/1f6786562ad0) |
+| Mon, 23 Feb 2026 06:41:27 GMT | Blockchain: Building Secure Systems | Nidhi_Nilesh | [Read More](https://medium.com/p/bf19ad58e8a7) |
+| Mon, 23 Feb 2026 06:31:00 GMT | Windows Services | Ankita Sinha | [Read More](https://medium.com/p/c9901a777d4a) |
+| Mon, 23 Feb 2026 06:25:14 GMT | The Browser Security Details I Used to Ignore (Until I Realised They Hold the Keys to Everything) | Vidya Penumarthi | [Read More](https://medium.com/p/fb524763ba84) |
+| Mon, 23 Feb 2026 06:20:55 GMT | How I Found a Business Logic Vulnerability in SaaS applicationThat Allowed Unlimited Trial… | Sreejihkn | [Read More](https://medium.com/p/3f680a38f372) |
+| Mon, 23 Feb 2026 06:09:03 GMT | What are the advantages of DVR? | Doris William | [Read More](https://medium.com/p/ded8511c8443) |
+| Mon, 23 Feb 2026 06:08:42 GMT | Anthropic Just Gave Security Teams an AI-Powered Weapon | Rachana Gupta | [Read More](https://medium.com/p/d4044ee9008a) |
+| Mon, 23 Feb 2026 06:02:45 GMT | Stop Data Breaches with Proactive VAPT | Cynox Security LLP. | [Read More](https://medium.com/p/c0ac0190d03a) |
 | Mon, 23 Feb 2026 05:59:46 GMT | To AI or Not to AI in Your SIEM? | Siddhant Mishra | [Read More](https://medium.com/p/3d798d1cdc06) |
 | Mon, 23 Feb 2026 05:59:23 GMT | The Gap Between Breach and Protection, And Why Most Companies Don’t See It Coming | Behawk Infosec | [Read More](https://medium.com/p/d4f33b5dfd81) |
 | Mon, 23 Feb 2026 05:51:58 GMT | BITSCTF | LiGhTZod | [Read More](https://medium.com/p/107d9a947b6d) |
@@ -92,26 +115,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 22 Feb 2026 21:52:40 GMT | Between Love and Responsibility: A Historical Reflection on Vulnerability | Guilherme Andrade | [Read More](https://medium.com/p/8898893ad135) |
 | Sun, 22 Feb 2026 21:38:58 GMT | How Modern EDRs Detect the “Undetectable” Red Team Tradecraft | Yua Mikanana | [Read More](https://medium.com/p/7ad46429e0b8) |
 | Sun, 22 Feb 2026 21:26:12 GMT | Escaping the Sandbox: How a Simple Python Path Flaw Led to Host RCE | Hacker MD | [Read More](https://medium.com/p/817d39c95f86) |
-| Sun, 22 Feb 2026 21:10:20 GMT | Absolutely Free Hacker? Actually Yes! | Charles Burke | [Read More](https://medium.com/p/05e47477b714) |
-| Sun, 22 Feb 2026 21:09:40 GMT | Breaking the Silos: Why I Built a Unified Intelligence Hub for Critical Infrastructure | CyberAnn | [Read More](https://medium.com/p/87f05baa81e3) |
-| Sun, 22 Feb 2026 21:06:31 GMT | Offline browsing tools — OSINT | loyalonlytoday | [Read More](https://medium.com/p/b20223cf96b2) |
-| Sun, 22 Feb 2026 21:06:28 GMT | Credit Card Information Search Tools-OSINT | loyalonlytoday | [Read More](https://medium.com/p/5a442ef1d851) |
-| Sun, 22 Feb 2026 21:06:07 GMT | Command Line Interface (CLI) for Windows | Aj | [Read More](https://medium.com/p/99a8d0c04c58) |
-| Sun, 22 Feb 2026 21:05:36 GMT | The Art of Finding Bugs No Scanner Will Detect | Hania Khan | [Read More](https://medium.com/p/bea747fbce71) |
-| Sun, 22 Feb 2026 21:00:38 GMT | Distinctive Significance of Context Corrosion as an AI Vulnerability | Madhusudan Gopanna | [Read More](https://medium.com/p/b319391d4edb) |
-| Sun, 22 Feb 2026 20:57:55 GMT | Tycoon Nation: How Commoditised AiTM Kits Are Owning Microsoft 365 | Dean | [Read More](https://medium.com/p/65b42683acdd) |
-| Sun, 22 Feb 2026 20:54:40 GMT | React2Shell — CVE-2025–55182: Practical Exploitation of the Vulnerability | Sneh Bavarva | [Read More](https://medium.com/p/2581a65da695) |
-| Sun, 22 Feb 2026 20:53:10 GMT | Building a Custom PKI Infrastructure on Ubuntu Linux VMs | Cyberxploit | [Read More](https://medium.com/p/98b1106684cb) |
-| Sun, 22 Feb 2026 20:49:45 GMT | Cybersecurity is one of the fastest-growing fields in the world. | AK - Microsoft Sentinel | [Read More](https://medium.com/p/792ed97fe852) |
-| Sun, 22 Feb 2026 20:38:30 GMT | 3 Billion Email Addresses Just Leaked. The Hacker Calls Himself a Whistleblower. | Mehdi BAFDIL | [Read More](https://medium.com/p/4a72026b68cf) |
-| Sun, 22 Feb 2026 20:34:51 GMT | Linux: Its History, Advantages, and Essential Commands | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/ffede82b46ff) |
-| Sun, 22 Feb 2026 20:34:22 GMT | A Deep Dive into Network Models: OSI and TCP/IP | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/813baada2937) |
-| Sun, 22 Feb 2026 20:31:41 GMT | (HackTheBox) Footprinting Lab — Hard | Georgi Nikolov | [Read More](https://medium.com/p/e09549d64cd8) |
-| Sun, 22 Feb 2026 20:31:02 GMT | Threat Digest #1: CISA Shutdown Carnage, UMMC Ransomware Chaos, PayPal Leaks Confirmed | Threat.blog | [Read More](https://medium.com/p/a0542edb5ec9) |
-| Sun, 22 Feb 2026 20:29:54 GMT | Encryption Is Not Enough: Why Key Management Service (KMS) Is Critical in the Cloud Era | Lady Julia | [Read More](https://medium.com/p/27ff8e8cc6ef) |
-| Sun, 22 Feb 2026 20:15:37 GMT | The Filter of Truth | Craineanu Daniel | [Read More](https://medium.com/p/cc66dd9c90aa) |
-| Sun, 22 Feb 2026 20:12:08 GMT | How a Simple “Resend” Button Led to an MFA Fatigue Vulnerability | MrRobot | [Read More](https://medium.com/p/6a638edf54ff) |
-| Sun, 22 Feb 2026 20:10:46 GMT | Web Pentest’te Recon neden önemlidir neler kullanılmalıdır? | Zekikayaalp | [Read More](https://medium.com/p/d1ca79c5d891) |
-| Sun, 22 Feb 2026 20:08:35 GMT | People lie
-They got it wrong | Stephanie Mccabe | [Read More](https://medium.com/p/f6b9878ebc84) |
-| Sun, 22 Feb 2026 20:01:30 GMT | Easy Splunk: Architecting the Modern SOC with OCSF | Antonella Blasetti | [Read More](https://medium.com/p/1ded61a8f37e) |
