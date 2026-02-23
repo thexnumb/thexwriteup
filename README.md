@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Feb 2026 23:39:50 GMT | Beyond RBAC: Scaling AWS Security with Attribute-Based Access Control (ABAC) | Niraj Kumar | [Read More](https://medium.com/p/10f6ae08e0c7) |
+| Mon, 23 Feb 2026 23:25:09 GMT | WingData — HTB - Season 10 | Youssef Hussein | [Read More](https://medium.com/p/0df18ac61cae) |
+| Mon, 23 Feb 2026 23:20:20 GMT | # Approaching Firmware Security Assessments: From Interface Identification to Vulnerability… | Marwan Atia | [Read More](https://medium.com/p/fb5675bd472d) |
+| Mon, 23 Feb 2026 23:17:33 GMT | Network Scanning with Scapy: A Beginner’s Guide to ICMP Scanning | Eddie Artis Jr. | [Read More](https://medium.com/p/9a57f22edb11) |
+| Mon, 23 Feb 2026 23:09:22 GMT | Understanding AI Security — Part 2 — Authentication & Authorisation | Avinash Vishwakumar | [Read More](https://medium.com/p/81863046e87f) |
+| Mon, 23 Feb 2026 23:01:41 GMT | How I Finally Bypass the Banking App Root Detection in Android | Sahil LyfetAstic | [Read More](https://medium.com/p/ec8fa39bef28) |
+| Mon, 23 Feb 2026 22:58:56 GMT | Analysis of CMMC v. 2.0 for SMBs | Cade DeBoe | [Read More](https://medium.com/p/f2a2b4e56132) |
 | Mon, 23 Feb 2026 22:52:24 GMT | What to Expect from AI in 2026: Q&A with William Marcellino | RAND | [Read More](https://medium.com/p/73f2b583ee48) |
 | Mon, 23 Feb 2026 22:49:01 GMT | NyxWatch: A Deep Dive into Live Memory Malware Detection — Part II | RDK | [Read More](https://medium.com/p/cf47099ced81) |
 | Mon, 23 Feb 2026 22:38:51 GMT | CISSP Domain Updates: February 16–23, 2026 | Bobbie á Deild | [Read More](https://medium.com/p/744456caa1bc) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Feb 2026 15:52:16 GMT | Breaking the Perimeter: Why Your Traditional Firewall is Useless in a Kubernetes World | Sourabhkumar | [Read More](https://medium.com/p/4844ab415b07) |
 | Mon, 23 Feb 2026 15:52:07 GMT | Why Small Businesses Need Advanced Security Beyond Locks | AlexBryn | [Read More](https://medium.com/p/49c3926427e9) |
 | Mon, 23 Feb 2026 15:51:31 GMT | The Truth Machine: How Blockchain Can Fight the AI Deepfake Crisis | Cynox Security LLP. | [Read More](https://medium.com/p/f59611ab2e30) |
-| Mon, 23 Feb 2026 15:46:01 GMT | How to Set Up Claude Code’s New Security Review — The Complete Practical Guide | Reza Rezvani | [Read More](https://medium.com/p/0f900a680eb1) |
-| Mon, 23 Feb 2026 15:45:01 GMT | Invisible Eyes of Cyber Crime: How Daily Online Actions Expose Women | Sonali Punchihewa | [Read More](https://medium.com/p/102a2e4018f5) |
-| Mon, 23 Feb 2026 15:44:24 GMT | Secure Your CloudFront Origins With mTLS Authentication | Vinayak Pandey | [Read More](https://medium.com/p/1dacf340ba70) |
-| Mon, 23 Feb 2026 15:42:43 GMT | How to Choose the Right Security System for Your Home | AlexBryn | [Read More](https://medium.com/p/c35c274ff72d) |
-| Mon, 23 Feb 2026 15:39:30 GMT | Understanding the Difference Between the Dark Web and the Deep Web | Tor BBB | [Read More](https://medium.com/p/df46411bf9b5) |
-| Mon, 23 Feb 2026 15:34:20 GMT | FahmSec CTF 2026 : Func ! | VampireXRay | [Read More](https://medium.com/p/1614913bfb06) |
-| Mon, 23 Feb 2026 15:32:24 GMT | Intermediate Web Application Penetration Testing — Episode 002 - Session Management Room Tryhackme | Nolan Stark | [Read More](https://medium.com/p/8e9329350296) |
