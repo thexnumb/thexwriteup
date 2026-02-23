@@ -12,6 +12,35 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Feb 2026 13:03:03 GMT | Basic Pentest | Farid Hajiyev | [Read More](https://medium.com/p/b7091e98f3ec) |
+| Mon, 23 Feb 2026 13:02:34 GMT | Inside the Threat Landscape: What UK Manufacturers Aren’t Being Told About Security | Luke Appleby | [Read More](https://medium.com/p/37c6bf2a1b25) |
+| Mon, 23 Feb 2026 13:01:01 GMT | The Linux Server That Looked Fine Until It Wasn’t | Faruk Ahmed | [Read More](https://medium.com/p/ed5eb9deb9d0) |
+| Mon, 23 Feb 2026 12:58:20 GMT | The Headless IDE: Why Senior Engineers Are Replacing VS Code with OpenClaw, Ollama, and Telegram | kakrana | [Read More](https://medium.com/p/6d31a16524bf) |
+| Mon, 23 Feb 2026 12:57:06 GMT | When Language Becomes an Attack: A Simple History of Prompt Injection | Kavindra Kumar Ahirwar | [Read More](https://medium.com/p/e206cc569379) |
+| Mon, 23 Feb 2026 12:57:01 GMT | Database Migration Made Easy: Moving Data Without Downtime. | Yomi Folowosele | [Read More](https://medium.com/p/7061d08c239d) |
+| Mon, 23 Feb 2026 12:54:12 GMT | Evaluating Mindenious Edutech: A Modern Approach to Career-Focused Learning
+The education landscape… | Ronak Gupta | [Read More](https://medium.com/p/88ce7a5a4418) |
+| Mon, 23 Feb 2026 12:51:34 GMT | My Journey Through TryHackMe’s Pre Security Course | Sidhantchaurasiya | [Read More](https://medium.com/p/7fa396d0b8d9) |
+| Mon, 23 Feb 2026 12:48:18 GMT | Static to Reasoning: Understanding the 2026 Agentic AI Market Inversion in Cybersecurity | outofspace | [Read More](https://medium.com/p/3551bb0d445a) |
+| Mon, 23 Feb 2026 12:45:12 GMT | My First Step into the Matrix | Sanya joshy | [Read More](https://medium.com/p/65c1b8000118) |
+| Mon, 23 Feb 2026 12:43:48 GMT | Why DevOps Consulting Services Are Essential for Modern Software Development | Whizcamp LLC | [Read More](https://medium.com/p/1325994cdd5d) |
+| Mon, 23 Feb 2026 12:36:48 GMT | The Role of Security Cameras in Elderly and Child Safety | Noorio India | [Read More](https://medium.com/p/75e2252e4681) |
+| Mon, 23 Feb 2026 12:32:16 GMT | Why Cyber Resilience Is an Engineering Discipline, Not a Policy Goal | Peter Hillier/Halton | [Read More](https://medium.com/p/a06e42623827) |
+| Mon, 23 Feb 2026 12:14:21 GMT | It was just a staging server: Security Lessons I Learned the Hard Way. | Princewill Onyenanu | [Read More](https://medium.com/p/f82ed91e3bbc) |
+| Mon, 23 Feb 2026 12:12:31 GMT | Joseph Lamar Simmons Planning for Proactive National Defense | Joseph Lamar Simmons | [Read More](https://medium.com/p/6b25ac4ad746) |
+| Mon, 23 Feb 2026 12:05:52 GMT | Where Smart Website Owners Invest First — and the Results Speak for Themselves | Ann Taylor | [Read More](https://medium.com/p/42e6a4d89dce) |
+| Mon, 23 Feb 2026 12:05:24 GMT | How to Design a Great Mobile App: 10 Easy Tips | Digichorus Technologies Pvt. LTD. | [Read More](https://medium.com/p/d3779cf7435c) |
+| Mon, 23 Feb 2026 12:03:13 GMT | IT Management Mastery: A Complete Guide to Modern IT Operations | Chaimaa Bahjaji | [Read More](https://medium.com/p/cb06460896d6) |
+| Mon, 23 Feb 2026 12:01:01 GMT | Writeup for picoCTF challenge “dont-use-client-side” | Walter Moar | [Read More](https://medium.com/p/3c14f7941e2c) |
+| Mon, 23 Feb 2026 11:48:47 GMT | The Data Governance Illusion Is Cracking and DSPM Is Forcing the First Real Accountability | Niyati Daftary | [Read More](https://medium.com/p/7938e58f79b7) |
+| Mon, 23 Feb 2026 11:48:19 GMT | Security Controls Explained: How We Actually Defend Systems | Mahdi | [Read More](https://medium.com/p/368c06908d65) |
+| Mon, 23 Feb 2026 11:48:13 GMT | Ensuring Device Security in Windows | Aj | [Read More](https://medium.com/p/e82a5439ad30) |
+| Mon, 23 Feb 2026 11:48:11 GMT | Self-hosting without paranoia: The reverse proxy security checklist I actually use | Thomas Byern | [Read More](https://medium.com/p/d7586a9dab2b) |
+| Mon, 23 Feb 2026 11:48:06 GMT | How to Find Information About Anyone | mohandika | [Read More](https://medium.com/p/8a153138c665) |
+| Mon, 23 Feb 2026 11:45:22 GMT | TryHackMe — Blue WriteUp with Answers | Ahmedkhaled | [Read More](https://medium.com/p/f102d5587db2) |
+| Mon, 23 Feb 2026 11:42:28 GMT | Attacking Common Services — Part 1 | Nouman Ali Khan | [Read More](https://medium.com/p/b6f118d266e3) |
+| Mon, 23 Feb 2026 11:41:00 GMT | Stay Gold, But Get Seen: The Outsiders in the Corporate World | Namir Sagheenanajar | [Read More](https://medium.com/p/c6fa910c5cd8) |
+| Mon, 23 Feb 2026 11:38:42 GMT | How to Build a Beginner Cybersecurity Lab at Home (2026 Guide) | Men Of Letters | [Read More](https://medium.com/p/5441ba2fffe0) |
 | Mon, 23 Feb 2026 11:36:31 GMT | ROCSC 2026 — Qualification: OSINT and Network Challenges Writeups | WhosWho | [Read More](https://medium.com/p/fd4a26a87d54) |
 | Mon, 23 Feb 2026 11:36:00 GMT | Vendor Outage Tabletop Exercise. When a Critical Provider Goes Dark, Can You Still Deliver | Tyson Martin | [Read More](https://medium.com/p/cf3219c7bb1a) |
 | Mon, 23 Feb 2026 11:34:54 GMT | World Monitor: Geopolitical Intelligence For Everyone | William Couturier | [Read More](https://medium.com/p/3637d3240616) |
@@ -85,33 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Feb 2026 08:07:12 GMT | The Hidden Engine of AI Security: Knowledge Graphs at Scale | Abhijeet Pandey | [Read More](https://medium.com/p/8118b9cf520e) |
 | Mon, 23 Feb 2026 08:05:39 GMT | Hidden in Plainsight — Steganography Done Right | vulnhunter | [Read More](https://medium.com/p/f11808f0a3b2) |
 | Mon, 23 Feb 2026 08:02:35 GMT | Phobos Ransomware Malware Analysis Report | Hussam Aljaar | [Read More](https://medium.com/p/46d2bda57de4) |
-| Mon, 23 Feb 2026 08:01:17 GMT | Leveraging Automation to Accelerate Triage and Reduce Fatigue with Incident Response Services | NetWitness | [Read More](https://medium.com/p/f20e467b6d42) |
-| Mon, 23 Feb 2026 08:00:30 GMT | Week 2 of Learning Linux as an Ethical Hacker: Understanding File Systems, Networks, Software | Nishant kumar | [Read More](https://medium.com/p/32c8426f55b3) |
-| Mon, 23 Feb 2026 08:00:17 GMT | What Is Digital Privacy? | Robert Broeckelmann | [Read More](https://medium.com/p/317dcfde74d0) |
-| Mon, 23 Feb 2026 07:51:00 GMT | Beyond the Jailbreak: Why Your RAG System Is a Data Breach Waiting to Happen | Yanof Nasr | [Read More](https://medium.com/p/667df0e5009b) |
-| Mon, 23 Feb 2026 07:46:36 GMT | Şirkete Saldırmak İçin Para Alan Adamlar: Red Team Nedir? | Yusuf Ziya Kavuk | [Read More](https://medium.com/p/51de4492882c) |
-| Mon, 23 Feb 2026 07:45:36 GMT | Sex, Silence, and Truth in a Couple
-Episode 4 — What We Assume Instead of Asking | Craineanu Daniel | [Read More](https://medium.com/p/f8ff1e1f60db) |
-| Mon, 23 Feb 2026 07:35:41 GMT | Vulnerability: The Courage to Be Seen | Awonusi Oreoluwa Boluwatife | [Read More](https://medium.com/p/8ad4cfb47917) |
-| Mon, 23 Feb 2026 07:32:27 GMT | I’ve Spent 6 Years in Cybersecurity, and Your “AI Strategy” is Making Me Nervous | Mohit | [Read More](https://medium.com/p/6f0754569b99) |
-| Mon, 23 Feb 2026 07:30:26 GMT | Delivering AI Solutions in Highly Regulated Industries: A Data Engineer’s Perspective | YunYoung, Choi | [Read More](https://medium.com/p/04aeb2392915) |
-| Mon, 23 Feb 2026 07:28:06 GMT | Building Serverless Functions on Linux With OpenFaaS | Majidbasharat | [Read More](https://medium.com/p/74975207f5af) |
-| Mon, 23 Feb 2026 07:17:47 GMT | Hepton CEO Munk Seo Delivers Special Lecture at Sejong Cyber University | TINA | [Read More](https://medium.com/p/4ef379597925) |
-| Mon, 23 Feb 2026 07:17:05 GMT | I Thought DentiGrid Was Just Another Honeypot. I Was Wrong. | Sam Walker | [Read More](https://medium.com/p/f8c4790e9dc5) |
-| Mon, 23 Feb 2026 07:15:57 GMT | Azure Service Groups for Flexible Resource Organization | Brian Veldman | [Read More](https://medium.com/p/ade1cad9bffe) |
-| Mon, 23 Feb 2026 07:14:59 GMT | What Makes Antivirus Software Essential for Modern Windows Security? | Siyanoav | [Read More](https://medium.com/p/12f9fff92b14) |
-| Mon, 23 Feb 2026 07:10:58 GMT | Write-up Lengkap HackTheBox Sherlock: Advent of The Relics (Part 1 & 2) — Dari Phishing hingga… | M Abdul Hamid A | [Read More](https://medium.com/p/468329f37f35) |
-| Mon, 23 Feb 2026 07:10:19 GMT | Popular IDE extension with 1.6M downloads is leaking Google Cloud credentials | Louis | [Read More](https://medium.com/p/da8f9fa225c1) |
-| Mon, 23 Feb 2026 07:09:15 GMT | My Journey Through MITM Attacks — Part 1: ARP Spoofing | ofek789 | [Read More](https://medium.com/p/e5c4c42d573f) |
-| Mon, 23 Feb 2026 07:07:53 GMT | AI-Powered Bug Hunting: 20 Tools to Find Vulnerabilities and Targets Faster | Very Lazy Tech | [Read More](https://medium.com/p/10a98b16d040) |
-| Mon, 23 Feb 2026 07:06:00 GMT | Predictive Growth Systems: Using AI to Turn Performance Data into Strategic Foresight
-Thesis | AI With Timothy | [Read More](https://medium.com/p/4fc50e9754bc) |
-| Mon, 23 Feb 2026 07:03:40 GMT | Key Factors to Migrate IBM Notes to MBOX Safely Guide 2026 | Nyxamir | [Read More](https://medium.com/p/884dc69c24c6) |
-| Mon, 23 Feb 2026 07:01:02 GMT | 1. Why Git is the Backbone of Modern DevOps | Mangesh Muley | [Read More](https://medium.com/p/fe5d5b8ebba5) |
-| Mon, 23 Feb 2026 07:01:01 GMT | The Weight of Becoming | Versouls | [Read More](https://medium.com/p/9ca833f8892b) |
-| Mon, 23 Feb 2026 07:00:22 GMT | Content Moderation Outsourcing: What Platforms Must Know | Manoj Biswal | [Read More](https://medium.com/p/1f6786562ad0) |
-| Mon, 23 Feb 2026 06:41:27 GMT | Blockchain: Building Secure Systems | Nidhi_Nilesh | [Read More](https://medium.com/p/bf19ad58e8a7) |
-| Mon, 23 Feb 2026 06:31:00 GMT | Windows Services | Ankita Sinha | [Read More](https://medium.com/p/c9901a777d4a) |
-| Mon, 23 Feb 2026 06:25:14 GMT | The Browser Security Details I Used to Ignore (Until I Realised They Hold the Keys to Everything) | Vidya Penumarthi | [Read More](https://medium.com/p/fb524763ba84) |
-| Mon, 23 Feb 2026 06:20:55 GMT | How I Found a Business Logic Vulnerability in SaaS applicationThat Allowed Unlimited Trial… | Sreejihkn | [Read More](https://medium.com/p/3f680a38f372) |
-| Mon, 23 Feb 2026 06:09:03 GMT | What are the advantages of DVR? | Doris William | [Read More](https://medium.com/p/ded8511c8443) |
