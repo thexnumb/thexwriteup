@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Feb 2026 11:36:31 GMT | ROCSC 2026 — Qualification: OSINT and Network Challenges Writeups | WhosWho | [Read More](https://medium.com/p/fd4a26a87d54) |
+| Mon, 23 Feb 2026 11:36:00 GMT | Vendor Outage Tabletop Exercise. When a Critical Provider Goes Dark, Can You Still Deliver | Tyson Martin | [Read More](https://medium.com/p/cf3219c7bb1a) |
+| Mon, 23 Feb 2026 11:34:54 GMT | World Monitor: Geopolitical Intelligence For Everyone | William Couturier | [Read More](https://medium.com/p/3637d3240616) |
+| Mon, 23 Feb 2026 11:32:56 GMT | Cyber Security | Da | [Read More](https://medium.com/p/3c2231faebbf) |
+| Mon, 23 Feb 2026 11:31:46 GMT | When Application Decommissioning Turns Into a Cybersecurity Risk | Fabiano Moda | [Read More](https://medium.com/p/ba3c11f2d50f) |
+| Mon, 23 Feb 2026 11:22:25 GMT | Two-Factor Authentication (2FA) is Now Live on Orangescrum | Orangescrum | [Read More](https://medium.com/p/5164e70b8fe2) |
+| Mon, 23 Feb 2026 11:16:20 GMT | TERMİNALİN GÜCÜ: LİNUX 101 | Sümeyye Kaya | [Read More](https://medium.com/p/7058909084f0) |
+| Mon, 23 Feb 2026 11:15:13 GMT | Beyond Templates: How Modern Websites Are Being Built for Speed, Flexibility, and Growth? | Andy | [Read More](https://medium.com/p/bc8f9137232a) |
+| Mon, 23 Feb 2026 11:14:46 GMT | We built a firewall for AI agents. It doesn’t use AI. | Andrea P. | [Read More](https://medium.com/p/37a803d24ef9) |
+| Mon, 23 Feb 2026 11:13:04 GMT | COMMON VULNERABILITIES IN ANDROID APPLICATIONS | Krithika Ravishankar | [Read More](https://medium.com/p/8320bbc19613) |
+| Mon, 23 Feb 2026 11:09:48 GMT | Why Annual VAPT Is No Longer Enough for Modern Organizations | Lakshita Gulliya | [Read More](https://medium.com/p/0475b88e8fd7) |
+| Mon, 23 Feb 2026 11:09:43 GMT | Cybersecurity Roadmap for Beginners in 2026 (Step-by-Step) | Hassansaleemkey | [Read More](https://medium.com/p/b4584e59c68e) |
+| Mon, 23 Feb 2026 11:09:31 GMT | Bypassing CSP via JSONP Callback Injection: Intigriti Challenge 0226 Write-up | marchenaa | [Read More](https://medium.com/p/d4f0e3061123) |
+| Mon, 23 Feb 2026 11:08:30 GMT | From IT to SOC to CTI Analyst: The 3-Stage Career Roadmap and Mindset Shifts | Adam Goss | [Read More](https://medium.com/p/ff2484e64d7e) |
+| Mon, 23 Feb 2026 11:06:27 GMT | Network Security Fundamentals for Cyber Defense | Kunal Arora | [Read More](https://medium.com/p/8442f80f4c92) |
+| Mon, 23 Feb 2026 11:03:49 GMT | How Canada, USA, UK, Australia & New Zealand Share Immigration Security Information (FCC Explained) | Amin Migration LLP | [Read More](https://medium.com/p/3f9990ba3586) |
+| Mon, 23 Feb 2026 11:01:41 GMT | SAST vs Claude Code Security: A Deep Dive | Brett Crawley | [Read More](https://medium.com/p/69fcd9a74b0f) |
+| Mon, 23 Feb 2026 11:01:01 GMT | Cybersecurity Stocks Lost Billions After Anthropic Launched a Powerful New AI Tool | Mehdi BAFDIL | [Read More](https://medium.com/p/23215f869383) |
+| Mon, 23 Feb 2026 11:01:00 GMT | From a Simple Client-Side Mistake to Full Read/Write Access of an Internal Support System. | Yousef Elsheikh | [Read More](https://medium.com/p/ebd40e4588ee) |
+| Mon, 23 Feb 2026 10:59:44 GMT | Risk-Adaptive Friction: Designing Human-Aware Security Controls in CI/CD | Kalyan Tamarapalli | [Read More](https://medium.com/p/21959c1373ab) |
+| Mon, 23 Feb 2026 10:58:04 GMT | Is Your BPO Ready for Secure AI Adoption? | Rom | [Read More](https://medium.com/p/f2c9b46a0863) |
+| Mon, 23 Feb 2026 10:56:25 GMT | The Slippery Snake | Sienna Duff | [Read More](https://medium.com/p/8de70ee1a1b8) |
+| Mon, 23 Feb 2026 10:48:35 GMT | Emergency Locksmith Assistance Throughout London | The Lock Specialist Ltd | [Read More](https://medium.com/p/eec696ffa83b) |
 | Mon, 23 Feb 2026 10:38:22 GMT | Why Most Incident Response Fails in the First 30 Minutes | Gautam kumar | [Read More](https://medium.com/p/6f1d9502a049) |
 | Mon, 23 Feb 2026 10:34:15 GMT | Beyond Inspect Element: How I Looted an Application’s Internal Directories Using Only .map Files | Shreejalkc | [Read More](https://medium.com/p/8b9af5dbd3e5) |
 | Mon, 23 Feb 2026 10:33:13 GMT | JWT Secret Key: Sistemin Görünmeyen Güvenlik Katmanı | Hsdfsmvu | [Read More](https://medium.com/p/14e58ad16a33) |
@@ -92,26 +115,3 @@ Thesis | AI With Timothy | [Read More](https://medium.com/p/4fc50e9754bc) |
 | Mon, 23 Feb 2026 06:25:14 GMT | The Browser Security Details I Used to Ignore (Until I Realised They Hold the Keys to Everything) | Vidya Penumarthi | [Read More](https://medium.com/p/fb524763ba84) |
 | Mon, 23 Feb 2026 06:20:55 GMT | How I Found a Business Logic Vulnerability in SaaS applicationThat Allowed Unlimited Trial… | Sreejihkn | [Read More](https://medium.com/p/3f680a38f372) |
 | Mon, 23 Feb 2026 06:09:03 GMT | What are the advantages of DVR? | Doris William | [Read More](https://medium.com/p/ded8511c8443) |
-| Mon, 23 Feb 2026 06:08:42 GMT | Anthropic Just Gave Security Teams an AI-Powered Weapon | Rachana Gupta | [Read More](https://medium.com/p/d4044ee9008a) |
-| Mon, 23 Feb 2026 06:02:45 GMT | Stop Data Breaches with Proactive VAPT | Cynox Security LLP. | [Read More](https://medium.com/p/c0ac0190d03a) |
-| Mon, 23 Feb 2026 05:59:46 GMT | To AI or Not to AI in Your SIEM? | Siddhant Mishra | [Read More](https://medium.com/p/3d798d1cdc06) |
-| Mon, 23 Feb 2026 05:59:23 GMT | The Gap Between Breach and Protection, And Why Most Companies Don’t See It Coming | Behawk Infosec | [Read More](https://medium.com/p/d4f33b5dfd81) |
-| Mon, 23 Feb 2026 05:51:58 GMT | BITSCTF | LiGhTZod | [Read More](https://medium.com/p/107d9a947b6d) |
-| Mon, 23 Feb 2026 05:48:47 GMT | Resolve Too many authentication failures on VNC on Second attempt | R Bi | [Read More](https://medium.com/p/24d52a53be89) |
-| Mon, 23 Feb 2026 05:46:09 GMT | Most People Ignore Data Breach Emails. That’s Exactly What Hackers Want | Arshad | [Read More](https://medium.com/p/438ad5ba0429) |
-| Mon, 23 Feb 2026 05:43:39 GMT | Cloud Server Documentation | J Atreyu kemp | [Read More](https://medium.com/p/2958d2c70848) |
-| Mon, 23 Feb 2026 05:43:34 GMT | How Cyber Security as a Services Reduces Risk for Growing Businesses | Abhijith Rs | [Read More](https://medium.com/p/097dc1eb0e4f) |
-| Mon, 23 Feb 2026 05:40:13 GMT | 7 Powerful Security Champions Program Plays at Scale | Pentest_Testing_Corp | [Read More](https://medium.com/p/e87bd0f3b978) |
-| Mon, 23 Feb 2026 05:38:36 GMT | Python IDS | J Atreyu kemp | [Read More](https://medium.com/p/72e917ba2494) |
-| Mon, 23 Feb 2026 05:32:34 GMT | Breaking Down cross-site scripting (XSS) part 1 - Walkthrough via PortSwigger | Hammam Awis Zukimi | [Read More](https://medium.com/p/bc2f2fb76692) |
-| Mon, 23 Feb 2026 05:26:15 GMT | Scam Centers as Political Weapons in Myanmar’s Conflict | South East Asia Report | [Read More](https://medium.com/p/9e935665164c) |
-| Mon, 23 Feb 2026 05:17:36 GMT | Crunchbase Confirms Data Breach What It Means for Startups, Investors, and SaaS Security | Mark L. Hill | [Read More](https://medium.com/p/96e721fec1c7) |
-| Mon, 23 Feb 2026 05:16:01 GMT | The Game-Changing Power of COBIT - Secure n Comply | Secure n Comply | [Read More](https://medium.com/p/c0ac292dde1a) |
-| Mon, 23 Feb 2026 04:56:35 GMT | The Hidden Attack Surface: PDF Metadata & Information Leakage | Kiell Tampubolon | [Read More](https://medium.com/p/a7aa2f4484a4) |
-| Mon, 23 Feb 2026 04:54:58 GMT | PDF Injection Attacks: What Developers Don’t Know Can Hurt Them | Kiell Tampubolon | [Read More](https://medium.com/p/bd09e24dd385) |
-| Mon, 23 Feb 2026 04:50:36 GMT | The Cryptography Security Journey — Private PKI (Public Key Infrastructure) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/c3c6f47c89f3) |
-| Mon, 23 Feb 2026 04:41:49 GMT | Why Your SOC Needs an Architecture Mindset, Not Just More Tools | Ugur Ates | [Read More](https://medium.com/p/64cea8086654) |
-| Mon, 23 Feb 2026 04:31:01 GMT | Node Dependency Sprawl: 9 Rules for Safer Installs | Vectorlane | [Read More](https://medium.com/p/209dac4327f0) |
-| Mon, 23 Feb 2026 04:18:06 GMT | Cybersecurity Is Not About Hackers — It’s About Human Behavior. | Precious A | [Read More](https://medium.com/p/010a3ad4b38d) |
-| Mon, 23 Feb 2026 04:05:19 GMT | I Judged My Uber Rider. Then He Taught Me a Lesson About Success. | Lurking Lines | [Read More](https://medium.com/p/ae330de524cb) |
-| Mon, 23 Feb 2026 04:02:08 GMT | The AI Coding Boom Has a Hidden Cost: Compliance Debt (And How to Fix It) | Karthikeyan Sadayamuthu | [Read More](https://medium.com/p/e520ac5c2ba5) |
