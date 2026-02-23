@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Feb 2026 21:56:46 GMT | Behind the Veil: Analyzing IoT Intrusion Patterns via Smart Home Honeypots | Razored | [Read More](https://medium.com/p/77cbca1c2d85) |
+| Mon, 23 Feb 2026 21:42:42 GMT | The Governance Gap: Why Traditional Cybersecurity GRC Is Failing in the Age of AI | Tae Yeon Eom | [Read More](https://medium.com/p/bad8980e64ff) |
+| Mon, 23 Feb 2026 21:37:02 GMT | INE-Host & Network Penetration Testing: Post-Exploitation CTF 1 by Singkhon | Singkhon K | [Read More](https://medium.com/p/02794169c183) |
+| Mon, 23 Feb 2026 21:33:00 GMT | Keys to the Kingdom: A Guide to Digital Identity | Moez Ben-Azzouz | [Read More](https://medium.com/p/9bd27cc85b53) |
+| Mon, 23 Feb 2026 21:30:05 GMT | TryHackMe: Exploitation Basics — Blue | Mateusz Madrzynski | [Read More](https://medium.com/p/73d6cea6cf56) |
+| Mon, 23 Feb 2026 21:26:04 GMT | AI Exploiting Vulnerabilities | Matthew.Rosenquist | [Read More](https://medium.com/p/314bb3098abf) |
+| Mon, 23 Feb 2026 21:18:05 GMT | Resource-Constrained Security: Turning a 2011 Toshiba into a Headless SOC Lab #01 | Pinac Joshi | [Read More](https://medium.com/p/42ad81d9d16b) |
+| Mon, 23 Feb 2026 21:17:07 GMT | Why cybersecurity is no longer optional for SMEs in 2026 — And what to do about it | Broglie | [Read More](https://medium.com/p/a794a6874eaf) |
 | Mon, 23 Feb 2026 21:00:52 GMT | Furhire writeup (MFA Bypass) (Medium)(Bugforge) | 7s26Simon | [Read More](https://medium.com/p/76c31e33bd13) |
 | Mon, 23 Feb 2026 20:55:30 GMT | Ice — TryHackMe | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/3cbdd52805dc) |
 | Mon, 23 Feb 2026 20:53:16 GMT | what is red team | Kevin Ronex | [Read More](https://medium.com/p/777c62779d49) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Feb 2026 15:08:52 GMT | The Current Position of AI in Web3 Sec: AI Mirage and the High Cost of “Cheap” Security | Mibunna | [Read More](https://medium.com/p/5df6ffca427a) |
 | Mon, 23 Feb 2026 15:07:53 GMT | Keeping Hidden Assets Private Today and Ensure They are Foung After Death | Olivia Martillo | [Read More](https://medium.com/p/0a5f2a97806f) |
 | Mon, 23 Feb 2026 15:06:03 GMT | Welcome Writeup (Hack Smarter Labs) | Keith Monroe | [Read More](https://medium.com/p/87510216ad54) |
-| Mon, 23 Feb 2026 15:06:01 GMT | Which Managed IT Services Companies in Plano Specialize in Supporting Healthcare or Medical Offices… | Pegasus Technology Solutions | [Read More](https://medium.com/p/91aea2638475) |
-| Mon, 23 Feb 2026 15:06:01 GMT | Telco Hacks Deep Dive | Danny | [Read More](https://medium.com/p/8470371d5215) |
-| Mon, 23 Feb 2026 15:05:10 GMT | Simulating a Denial‑of‑Service (DoS) Attack in a Controlled Lab Environment (Part 2) | Augustine Sito | [Read More](https://medium.com/p/d82afa75a888) |
-| Mon, 23 Feb 2026 15:03:11 GMT | ফেসবুক আইডি হ্যাক হলে কী করবেন? সম্পূর্ণ রিকভারি গাইড (২০২৬ আপডেট) | Ekramul - Bangla Tech Zone | [Read More](https://medium.com/p/8c228d030659) |
-| Mon, 23 Feb 2026 15:01:03 GMT | Cyber Briefing: 2026.02.23 | CyberMaterial | [Read More](https://medium.com/p/4eaed5ac6b9d) |
-| Mon, 23 Feb 2026 14:55:36 GMT | Multi-Layer Forensic Analysis — PicoCTF Writeup (Flag in Flame) | yusnelgg | [Read More](https://medium.com/p/769c4cc8686f) |
-| Mon, 23 Feb 2026 14:53:20 GMT | Common JWT Mistakes That Quietly Break Your Auth | Pudari Madhavi | [Read More](https://medium.com/p/2be0db4b2a9a) |
-| Mon, 23 Feb 2026 14:44:58 GMT | Ripple Effects in the Silicon Supply Chain — Lessons from the 2026 Advantest Incident | Aayushbhatt | [Read More](https://medium.com/p/2d6d2d76058b) |
