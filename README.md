@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Feb 2026 22:52:24 GMT | What to Expect from AI in 2026: Q&A with William Marcellino | RAND | [Read More](https://medium.com/p/73f2b583ee48) |
+| Mon, 23 Feb 2026 22:49:01 GMT | NyxWatch: A Deep Dive into Live Memory Malware Detection — Part II | RDK | [Read More](https://medium.com/p/cf47099ced81) |
+| Mon, 23 Feb 2026 22:38:51 GMT | CISSP Domain Updates: February 16–23, 2026 | Bobbie á Deild | [Read More](https://medium.com/p/744456caa1bc) |
+| Mon, 23 Feb 2026 22:35:11 GMT | OS Command Injection — PortSwigger Labs 1–3 | Aytac | [Read More](https://medium.com/p/62820f2d5df2) |
+| Mon, 23 Feb 2026 22:31:14 GMT | Homelab Writeup | Beaucooper | [Read More](https://medium.com/p/c5c4bbb14c65) |
+| Mon, 23 Feb 2026 22:23:45 GMT | Doraemon Had Gadgets. AI Agents Have Access. That’s the Risk. | Madiha Sultana | [Read More](https://medium.com/p/9fd6a2f1b8be) |
+| Mon, 23 Feb 2026 22:22:18 GMT | “Your Data Isn’t Stolen. It’s Just Public.” | HackTrace | [Read More](https://medium.com/p/6161dab5704e) |
+| Mon, 23 Feb 2026 22:07:38 GMT | ColddBox : An Easy CTF Walkthrough [Try Hack Me] : | Amrou bekhedda | [Read More](https://medium.com/p/14073acc229e) |
+| Mon, 23 Feb 2026 22:01:01 GMT | Unfiltered Restart — Day 10: All Things Mobile | Maximillian Rueda | [Read More](https://medium.com/p/88eecb521e1a) |
 | Mon, 23 Feb 2026 21:56:46 GMT | Behind the Veil: Analyzing IoT Intrusion Patterns via Smart Home Honeypots | Razored | [Read More](https://medium.com/p/77cbca1c2d85) |
 | Mon, 23 Feb 2026 21:42:42 GMT | The Governance Gap: Why Traditional Cybersecurity GRC Is Failing in the Age of AI | Tae Yeon Eom | [Read More](https://medium.com/p/bad8980e64ff) |
 | Mon, 23 Feb 2026 21:37:02 GMT | INE-Host & Network Penetration Testing: Post-Exploitation CTF 1 by Singkhon | Singkhon K | [Read More](https://medium.com/p/02794169c183) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Feb 2026 15:39:30 GMT | Understanding the Difference Between the Dark Web and the Deep Web | Tor BBB | [Read More](https://medium.com/p/df46411bf9b5) |
 | Mon, 23 Feb 2026 15:34:20 GMT | FahmSec CTF 2026 : Func ! | VampireXRay | [Read More](https://medium.com/p/1614913bfb06) |
 | Mon, 23 Feb 2026 15:32:24 GMT | Intermediate Web Application Penetration Testing — Episode 002 - Session Management Room Tryhackme | Nolan Stark | [Read More](https://medium.com/p/8e9329350296) |
-| Mon, 23 Feb 2026 15:22:57 GMT | How a Meta “Superintelligence” Director Nuked Her Own Inbox and Exposed the Silicon Valley Expert… | Hakan Özerdem | [Read More](https://medium.com/p/a6bc4c9768a5) |
-| Mon, 23 Feb 2026 15:20:56 GMT | Valenfind — A TryHackMe Writeup | 0x77 | [Read More](https://medium.com/p/2ac25696c8c7) |
-| Mon, 23 Feb 2026 15:20:55 GMT | I Stole an Admin Cookie With a Survey Form — CTF Writeup | PaulR | [Read More](https://medium.com/p/9703cc1dbf8a) |
-| Mon, 23 Feb 2026 15:20:49 GMT | My Plugin Got Rejected 3 Times (And They Were Right) | José Manuel Chacón | [Read More](https://medium.com/p/3ee3a64993a2) |
-| Mon, 23 Feb 2026 15:19:58 GMT | Instalasi Kali Linux pada Virtual Machine | Imron | [Read More](https://medium.com/p/ed927bc95e56) |
-| Mon, 23 Feb 2026 15:19:36 GMT | EntroGuard — Day 4 | Nisarg Patel | [Read More](https://medium.com/p/341a1ff05aa1) |
-| Mon, 23 Feb 2026 15:08:52 GMT | The Current Position of AI in Web3 Sec: AI Mirage and the High Cost of “Cheap” Security | Mibunna | [Read More](https://medium.com/p/5df6ffca427a) |
-| Mon, 23 Feb 2026 15:07:53 GMT | Keeping Hidden Assets Private Today and Ensure They are Foung After Death | Olivia Martillo | [Read More](https://medium.com/p/0a5f2a97806f) |
-| Mon, 23 Feb 2026 15:06:03 GMT | Welcome Writeup (Hack Smarter Labs) | Keith Monroe | [Read More](https://medium.com/p/87510216ad54) |
