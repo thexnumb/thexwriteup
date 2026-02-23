@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Feb 2026 09:53:05 GMT | Kaspersky EDR Optimum in Practice: Essential Security Tests | Reduan Islam Badhon | [Read More](https://medium.com/p/bfd4a6979689) |
+| Mon, 23 Feb 2026 09:52:02 GMT | Computer Virus क्या है? — पूरी जानकारी आसान भाषा में | Nikkichaurasia | [Read More](https://medium.com/p/f1ea10e14b28) |
+| Mon, 23 Feb 2026 09:49:41 GMT | A Massive DHS Database, Trump Threatens Netflix, and OpenAI’s Moral Dilemma - The Daily Tech… | Souren Stepanyan | [Read More](https://medium.com/p/4187a7e62205) |
+| Mon, 23 Feb 2026 09:39:55 GMT | Auto Daifend: Securing the Software-Defined Vehicle with AI-Driven Automotive Cybersecurity | Bhawini. | [Read More](https://medium.com/p/25403f5616a8) |
+| Mon, 23 Feb 2026 09:38:20 GMT | One Brand, Many Websites: How Creators Are Managing Everything from a Single Dashboard? | Janet Watson | [Read More](https://medium.com/p/d7ef2a25c629) |
+| Mon, 23 Feb 2026 09:32:46 GMT | OWASP Top 10 Web Application Security Risks (2025) | Poonam Trimbake | [Read More](https://medium.com/p/9bcbc33e612d) |
+| Mon, 23 Feb 2026 09:32:23 GMT | How We Made Engineers Love Security | Achraf Ameddah | [Read More](https://medium.com/p/ec33b012cdf6) |
+| Mon, 23 Feb 2026 09:31:00 GMT | I Found Out My Business Could Be Fined $50,000 for a Data Breach - And I Had No Idea | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/06557e3598dd) |
+| Mon, 23 Feb 2026 09:30:49 GMT | RASP: The Silent Ninja Handling the Threats You Don't See | DataArt | [Read More](https://medium.com/p/31c8a30985fb) |
+| Mon, 23 Feb 2026 09:29:57 GMT | Regular Expressions | Citadel Cybersec | [Read More](https://medium.com/p/9c06c3edb218) |
+| Mon, 23 Feb 2026 09:28:33 GMT | A few hundred malign documents is all it takes to corrupt any AI | Enrique Dans | [Read More](https://medium.com/p/ecebe982b660) |
+| Mon, 23 Feb 2026 09:23:08 GMT | Weekly Threat Intelligence Report 9 Feb 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/0a792eb451a7) |
+| Mon, 23 Feb 2026 09:22:51 GMT | Cyber Security Courses in Chennai: Your Path to a Secure Tech Career | Boston Institute of Analytics | [Read More](https://medium.com/p/d438ae8265bc) |
+| Mon, 23 Feb 2026 09:22:45 GMT | The Secret Life of AWS: The Plaintext Password (AWS Secrets Manager) | Aaron Rose | [Read More](https://medium.com/p/0e637f94627b) |
+| Mon, 23 Feb 2026 09:16:48 GMT | Analysis of Windows Notepad Remote Code Execution Vulnerability (CVE-2026-20841) | NSHC ThreatRecon Team | [Read More](https://medium.com/p/3f7f9fbdc711) |
+| Mon, 23 Feb 2026 09:01:01 GMT | 3 Ways Attackers Monetize Your Leaked Credentials Within 24 Hours | Alexandre Vandamme | [Read More](https://medium.com/p/659d514ccc20) |
+| Mon, 23 Feb 2026 09:01:01 GMT | Your SOC Was Built for Breaches, Not Behaviour. | Yash Gorasiya | [Read More](https://medium.com/p/132e59cb502d) |
+| Mon, 23 Feb 2026 08:51:44 GMT | Information Technology (IT) Market Analysis Scope And Forecast 2035 | Shivanshpatil | [Read More](https://medium.com/p/fa43eea6fe8b) |
 | Mon, 23 Feb 2026 08:45:23 GMT | Intermediate Web Application Penetration Testing — Episode 001
  by Nolan Stark | Nolan Stark | [Read More](https://medium.com/p/595ebddaa7a2) |
 | Mon, 23 Feb 2026 08:42:16 GMT | Forget Phishing: The 5 Silent Ways Hackers Are Weaponizing AI Against Us | Dhanush N | [Read More](https://medium.com/p/07d5a4088e35) |
@@ -97,23 +115,3 @@ Thesis | AI With Timothy | [Read More](https://medium.com/p/4fc50e9754bc) |
 | Mon, 23 Feb 2026 02:28:28 GMT | After Feb 2026 Patches: Securing Async Django Apps Against New SQLi and Timing Attacks (Checklist +… | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/0d56833d2ffb) |
 | Mon, 23 Feb 2026 02:27:02 GMT | Escalating a Duplicate Finding to a CVSS 10.0: Chaining Logic and Session Flaws for Persistent ATO | K4r33m | [Read More](https://medium.com/p/7b856bfe20d7) |
 | Mon, 23 Feb 2026 02:21:08 GMT | Practical OSINT techniques with Shodan leading to CVE | Abhirup Konwar | [Read More](https://medium.com/p/62c7e095f11d) |
-| Mon, 23 Feb 2026 02:16:14 GMT | Cyber Defender Practice — Web Labstrike | Shandyka Aditya Putra | [Read More](https://medium.com/p/477534264e23) |
-| Mon, 23 Feb 2026 02:13:46 GMT | Understanding IP Addresses in Cybersecurity: Public vs Private Explained | Writesankalpagirish | [Read More](https://medium.com/p/7bd889a3ca14) |
-| Mon, 23 Feb 2026 02:10:00 GMT | Windows Ayrıcalık Yükseltme Zafiyeti: Potato Saldırıları | Cem Civelek | [Read More](https://medium.com/p/675f285ee830) |
-| Mon, 23 Feb 2026 02:06:10 GMT | Why I Chose Medium | Umair Write | [Read More](https://medium.com/p/ed34cea9275e) |
-| Mon, 23 Feb 2026 02:02:33 GMT | ️How Anonymous LDAP Enumeration Led to AS-REP Roasting and Domain Compromise | Jabaribrown | [Read More](https://medium.com/p/0f6d71b0d7a1) |
-| Mon, 23 Feb 2026 01:39:33 GMT | Kali Linux
- • Designed for professional penetration testing
- • 600 plus preinstalled security… | AB Siddiki | [Read More](https://medium.com/p/b4ade22c8543) |
-| Mon, 23 Feb 2026 01:38:17 GMT | The Bot That Ordered Lunch | Zac | [Read More](https://medium.com/p/6f5ce2ef545c) |
-| Mon, 23 Feb 2026 01:26:35 GMT | Post-AI Cyber Landscapes Beyond Openness: Sharded Sovereignty and Enclave Internets | stoomart | [Read More](https://medium.com/p/3bc1b7c5559c) |
-| Mon, 23 Feb 2026 01:22:29 GMT | Web Application XSS Attack Investigation Report | Berkay Vagas | [Read More](https://medium.com/p/800fa7538e2e) |
-| Mon, 23 Feb 2026 01:15:03 GMT | How to Get Out of Help Desk FAST | Jbird | [Read More](https://medium.com/p/ef2dffbff212) |
-| Mon, 23 Feb 2026 01:02:12 GMT | Internal Comms: The Big Gap in SaaS Vendor Docs | Andrew Zimmerman | [Read More](https://medium.com/p/d87a324e7183) |
-| Mon, 23 Feb 2026 01:00:57 GMT | API Vulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/7d1f6da31c13) |
-| Mon, 23 Feb 2026 00:52:47 GMT | Anthropic Just Crashed $15 Billion in Cybersecurity Stocks. | Phil - Rentier Digital Automation | [Read More](https://medium.com/p/17d34513d7cd) |
-| Mon, 23 Feb 2026 00:48:22 GMT | The Evolution of ClickFix: How Cybercriminals Are Weaponizing Your DNS Settings | Joe Graziano | [Read More](https://medium.com/p/cf4d58cbf23a) |
-| Sun, 22 Feb 2026 23:57:42 GMT | From Trafficking Victim to Cybercrime Whistleblower | Sergio Claudio | [Read More](https://medium.com/p/2602f628b049) |
-| Sun, 22 Feb 2026 23:57:26 GMT | Segurança em aplicações .NET | João Bosco | [Read More](https://medium.com/p/b4da2a1da01b) |
-| Sun, 22 Feb 2026 23:44:18 GMT | AI Accountability Didn’t Advance This Week. It Settled In. | A D | [Read More](https://medium.com/p/94f2890d5867) |
-| Sun, 22 Feb 2026 23:33:31 GMT | Understanding Lambda Tenant Isolation | Pubudu Jayawardana | [Read More](https://medium.com/p/485c5680695c) |
