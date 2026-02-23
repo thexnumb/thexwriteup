@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Feb 2026 15:22:57 GMT | How a Meta “Superintelligence” Director Nuked Her Own Inbox and Exposed the Silicon Valley Expert… | Hakan Özerdem | [Read More](https://medium.com/p/a6bc4c9768a5) |
+| Mon, 23 Feb 2026 15:20:56 GMT | Valenfind — A TryHackMe Writeup | 0x77 | [Read More](https://medium.com/p/2ac25696c8c7) |
+| Mon, 23 Feb 2026 15:20:55 GMT | I Stole an Admin Cookie With a Survey Form — CTF Writeup | PaulR | [Read More](https://medium.com/p/9703cc1dbf8a) |
+| Mon, 23 Feb 2026 15:20:49 GMT | My Plugin Got Rejected 3 Times (And They Were Right) | José Manuel Chacón | [Read More](https://medium.com/p/3ee3a64993a2) |
+| Mon, 23 Feb 2026 15:19:58 GMT | Instalasi Kali Linux pada Virtual Machine | Imron | [Read More](https://medium.com/p/ed927bc95e56) |
+| Mon, 23 Feb 2026 15:19:36 GMT | EntroGuard — Day 4 | Nisarg Patel | [Read More](https://medium.com/p/341a1ff05aa1) |
+| Mon, 23 Feb 2026 15:08:52 GMT | The Current Position of AI in Web3 Sec: AI Mirage and the High Cost of “Cheap” Security | Mibunna | [Read More](https://medium.com/p/5df6ffca427a) |
+| Mon, 23 Feb 2026 15:07:53 GMT | Keeping Hidden Assets Private Today and Ensure They are Foung After Death | Olivia Martillo | [Read More](https://medium.com/p/0a5f2a97806f) |
+| Mon, 23 Feb 2026 15:06:03 GMT | Welcome Writeup (Hack Smarter Labs) | Keith Monroe | [Read More](https://medium.com/p/87510216ad54) |
+| Mon, 23 Feb 2026 15:06:01 GMT | Which Managed IT Services Companies in Plano Specialize in Supporting Healthcare or Medical Offices… | Pegasus Technology Solutions | [Read More](https://medium.com/p/91aea2638475) |
+| Mon, 23 Feb 2026 15:06:01 GMT | Telco Hacks Deep Dive | Danny | [Read More](https://medium.com/p/8470371d5215) |
+| Mon, 23 Feb 2026 15:05:10 GMT | Simulating a Denial‑of‑Service (DoS) Attack in a Controlled Lab Environment (Part 2) | Augustine Sito | [Read More](https://medium.com/p/d82afa75a888) |
+| Mon, 23 Feb 2026 15:03:11 GMT | ফেসবুক আইডি হ্যাক হলে কী করবেন? সম্পূর্ণ রিকভারি গাইড (২০২৬ আপডেট) | Ekramul - Bangla Tech Zone | [Read More](https://medium.com/p/8c228d030659) |
+| Mon, 23 Feb 2026 15:01:03 GMT | Cyber Briefing: 2026.02.23 | CyberMaterial | [Read More](https://medium.com/p/4eaed5ac6b9d) |
+| Mon, 23 Feb 2026 14:55:36 GMT | Multi-Layer Forensic Analysis — PicoCTF Writeup (Flag in Flame) | yusnelgg | [Read More](https://medium.com/p/769c4cc8686f) |
+| Mon, 23 Feb 2026 14:53:20 GMT | Common JWT Mistakes That Quietly Break Your Auth | Pudari Madhavi | [Read More](https://medium.com/p/2be0db4b2a9a) |
+| Mon, 23 Feb 2026 14:44:58 GMT | Ripple Effects in the Silicon Supply Chain — Lessons from the 2026 Advantest Incident | Aayushbhatt | [Read More](https://medium.com/p/2d6d2d76058b) |
+| Mon, 23 Feb 2026 14:43:54 GMT | Starting from OpenClaw Memory: How I Borrowed, Adapted, and Extended It in SkillLite | EXboys | [Read More](https://medium.com/p/06792ccf27b5) |
+| Mon, 23 Feb 2026 14:38:43 GMT | FahmSec CTF 2026 : ReflectiveBait | VampireXRay | [Read More](https://medium.com/p/03d0e7e3f1c6) |
+| Mon, 23 Feb 2026 14:38:11 GMT | How to Choose a Liquidity Pool on STON.fi: What to Look For Before You Provide Liquidity | Stan4Chainz | [Read More](https://medium.com/p/1b6799c7a904) |
 | Mon, 23 Feb 2026 14:22:48 GMT | Solving a Bugforge Daily Challenge — Exploiting SQL Injection in Cafe Club | Pranaya Shrestha | [Read More](https://medium.com/p/4fbf0aaf6a02) |
 | Mon, 23 Feb 2026 14:19:39 GMT | How to Architect Secure AI Agents Before They Architect Your Incident | John Munn | [Read More](https://medium.com/p/d8a5b82be308) |
 | Mon, 23 Feb 2026 14:18:50 GMT | How to Host Multiple Clients on One VPS Without Security Risks | Emilyharbord | [Read More](https://medium.com/p/63d066e43878) |
@@ -93,23 +113,3 @@ The education landscape… | Ronak Gupta | [Read More](https://medium.com/p/88ce
 | Mon, 23 Feb 2026 10:21:54 GMT | I Build AI for Healthcare, and AI-Generated Code Scares Me | Hassan Ahmed | [Read More](https://medium.com/p/87ae797aa228) |
 | Mon, 23 Feb 2026 10:20:22 GMT | Title: 7 Projects in 7 Days: A High-Velocity Engineering Sprint | Nathan Iheanyi | [Read More](https://medium.com/p/8d8382591df9) |
 | Mon, 23 Feb 2026 10:19:38 GMT | Advanced Workflow Automation & Integration Solutions for Modern Businesses | n8ndevelopers | [Read More](https://medium.com/p/7d03584c0e3c) |
-| Mon, 23 Feb 2026 10:18:41 GMT | How To? Malicious IP Investigation Complete Methodology — Part2 | Damag3dRoot | [Read More](https://medium.com/p/95cba8cb93c1) |
-| Mon, 23 Feb 2026 10:18:07 GMT | Ligolo-ng Tutorial — Pivoting, Tunneling and Port Forwarding | Ahmed Elmahgob | [Read More](https://medium.com/p/f51a1123c653) |
-| Mon, 23 Feb 2026 10:15:18 GMT | Nepotism | Mohamed Walid | [Read More](https://medium.com/p/92d24e872864) |
-| Mon, 23 Feb 2026 10:15:13 GMT | icmp walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/72a8ebfbe040) |
-| Mon, 23 Feb 2026 10:12:10 GMT | How Video Door Phones Improve Kids’ Safety at Home | Discreet solution Pvt ltd | [Read More](https://medium.com/p/927f0e065dd1) |
-| Mon, 23 Feb 2026 10:11:59 GMT | Multi-Step Exploitation Strategies: How Small Bugs Turn Into Critical Bounties | ghostyjoe | [Read More](https://medium.com/p/3aa0fbab21ba) |
-| Mon, 23 Feb 2026 10:06:35 GMT | Choosing the Right Aviation Security Services in India for Airports and Airlines | Jenny Lohra | [Read More](https://medium.com/p/47ffd4da0f5a) |
-| Mon, 23 Feb 2026 09:54:48 GMT | Future Trends in IoT Services | Alex | [Read More](https://medium.com/p/b3ad7d8545b6) |
-| Mon, 23 Feb 2026 09:53:05 GMT | Kaspersky EDR Optimum in Practice: Essential Security Tests | Reduan Islam Badhon | [Read More](https://medium.com/p/bfd4a6979689) |
-| Mon, 23 Feb 2026 09:52:02 GMT | Computer Virus क्या है? — पूरी जानकारी आसान भाषा में | Nikkichaurasia | [Read More](https://medium.com/p/f1ea10e14b28) |
-| Mon, 23 Feb 2026 09:49:41 GMT | A Massive DHS Database, Trump Threatens Netflix, and OpenAI’s Moral Dilemma - The Daily Tech… | Souren Stepanyan | [Read More](https://medium.com/p/4187a7e62205) |
-| Mon, 23 Feb 2026 09:39:55 GMT | Auto Daifend: Securing the Software-Defined Vehicle with AI-Driven Automotive Cybersecurity | Bhawini. | [Read More](https://medium.com/p/25403f5616a8) |
-| Mon, 23 Feb 2026 09:38:20 GMT | One Brand, Many Websites: How Creators Are Managing Everything from a Single Dashboard? | Janet Watson | [Read More](https://medium.com/p/d7ef2a25c629) |
-| Mon, 23 Feb 2026 09:32:46 GMT | OWASP Top 10 Web Application Security Risks (2025) | Poonam Trimbake | [Read More](https://medium.com/p/9bcbc33e612d) |
-| Mon, 23 Feb 2026 09:32:23 GMT | How We Made Engineers Love Security | Achraf Ameddah | [Read More](https://medium.com/p/ec33b012cdf6) |
-| Mon, 23 Feb 2026 09:31:00 GMT | I Found Out My Business Could Be Fined $50,000 for a Data Breach - And I Had No Idea | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/06557e3598dd) |
-| Mon, 23 Feb 2026 09:30:49 GMT | RASP: The Silent Ninja Handling the Threats You Don't See | DataArt | [Read More](https://medium.com/p/31c8a30985fb) |
-| Mon, 23 Feb 2026 09:29:57 GMT | Regular Expressions | Citadel Cybersec | [Read More](https://medium.com/p/9c06c3edb218) |
-| Mon, 23 Feb 2026 09:28:33 GMT | A few hundred malign documents is all it takes to corrupt any AI | Enrique Dans | [Read More](https://medium.com/p/ecebe982b660) |
-| Mon, 23 Feb 2026 09:23:08 GMT | Weekly Threat Intelligence Report 9 Feb 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/0a792eb451a7) |
