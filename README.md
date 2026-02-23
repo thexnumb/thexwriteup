@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Feb 2026 19:52:36 GMT | Why Real API Breaches Happen Through Chains, Not Single Bugs | Boluwatife Dada | [Read More](https://medium.com/p/04888bd22057) |
+| Mon, 23 Feb 2026 19:40:43 GMT | Post-Quantum Cybersecurity | Dietmar Marggraff | [Read More](https://medium.com/p/e26ba5e1ba15) |
+| Mon, 23 Feb 2026 19:38:43 GMT | CASE FILE #DF-WEBSTRIKE - CLASSIFIED | kanieloutis | [Read More](https://medium.com/p/5fa49c94442b) |
+| Mon, 23 Feb 2026 19:33:24 GMT | 100 days AI Security: Day 1: What Is AI Security and Why It Matters More Than Ever | Budhdi Sharma | [Read More](https://medium.com/p/5f858011eb23) |
+| Mon, 23 Feb 2026 19:33:02 GMT | When the Tracks Go Silent: A Cyberattack That Didn’t Stop the Trains, but Sent a Message | Gbolahan Akinbola | [Read More](https://medium.com/p/bb96d1c6516d) |
+| Mon, 23 Feb 2026 19:28:00 GMT | Somewhere to Fall, Part II — After the Collapse | Alizabeth Amelia Rose | [Read More](https://medium.com/p/790f45d6f726) |
+| Mon, 23 Feb 2026 19:27:38 GMT | Ağ Arayüz Kartı (NIC) Nedir? Bilgisayar İnternete Nasıl Çıkıyor? | Arda Derya | [Read More](https://medium.com/p/a0b68116f8ff) |
+| Mon, 23 Feb 2026 19:21:37 GMT | A Threat Model for Agentic AI (MCP, A2A & Swarm Systems) | Viplav Fauzdar | [Read More](https://medium.com/p/f04cfcfa52ca) |
+| Mon, 23 Feb 2026 19:20:20 GMT | TryHackMe - JavaScript: Simple Demo - WriteUp | Axoloth | [Read More](https://medium.com/p/342554dc6079) |
+| Mon, 23 Feb 2026 19:08:18 GMT | Cracking DVRIP/Sofia Hashes With Python | Kostas Ereksonas | [Read More](https://medium.com/p/e7596a6004bf) |
 | Mon, 23 Feb 2026 18:47:57 GMT | Welcome to My Blog | Trueprogress_Tech | [Read More](https://medium.com/p/bfd3a08de8ec) |
 | Mon, 23 Feb 2026 18:42:52 GMT | CrowdStrike Can Manipulate Your Clock, And Other Ways Cybersecurity Vendors Ignore Least Privilege | Christopher Ariza | [Read More](https://medium.com/p/eb368ea118c2) |
 | Mon, 23 Feb 2026 18:38:00 GMT | Volume Shadow Copies: The Hidden Evidence Goldmine You Need to Know About | Dean | [Read More](https://medium.com/p/f97ee917e78f) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Feb 2026 14:11:30 GMT | Privacy by Design on GCP: Building a Secure Serverless Data Pipeline with Terraform (GDPR-Ready… | Parag Shahade | [Read More](https://medium.com/p/f72fc57764ab) |
 | Mon, 23 Feb 2026 14:03:32 GMT | RST TI Report Digest: 23 Feb 2026 | RST Cloud | [Read More](https://medium.com/p/97c23d29cb53) |
 | Mon, 23 Feb 2026 14:01:01 GMT | Battle of the Claws: Security Evaluation of Agents Against Adversarial Attacks | Nwosu Rosemary | [Read More](https://medium.com/p/ab043040a12c) |
-| Mon, 23 Feb 2026 14:00:32 GMT | Deception Evolved: Beyond the Face-Swap and Into the Age of Digital Puppets | UncovAI | [Read More](https://medium.com/p/8d91acdebc9f) |
-| Mon, 23 Feb 2026 13:59:30 GMT | Whose endpoint is this… kali?! | Alex Teixeira | [Read More](https://medium.com/p/9d69aa961092) |
-| Mon, 23 Feb 2026 13:48:36 GMT | Phishing Attacks Explained with Real Examples | Tanvi Chauhan | [Read More](https://medium.com/p/be8baff6a257) |
-| Mon, 23 Feb 2026 13:46:02 GMT | Impactful Experience At Kroneus and Coredefense: What My First Weeks as an AI Security Intern… | Siddhant Chaudhary | [Read More](https://medium.com/p/5c5d72f0960f) |
-| Mon, 23 Feb 2026 13:46:00 GMT | A Deeper Dive into NODE: Protocol — The Co-op Hacking Fantasy | Marc | [Read More](https://medium.com/p/43816cf31859) |
-| Mon, 23 Feb 2026 13:45:32 GMT | Issue #4: Architecting Against Contagion — The Technical Post-Mortem of the NotPetya/Maersk… | Nitin Raje | [Read More](https://medium.com/p/6531120e4edf) |
-| Mon, 23 Feb 2026 13:37:29 GMT | Recon Is Not Just Tools: Digging Gold | Nitin yadav | [Read More](https://medium.com/p/ffb7d4b0bb51) |
-| Mon, 23 Feb 2026 13:23:53 GMT | How to Implement Agentic AI: Strategies, Frameworks, and Best Practices - Ascendion | Ascendion | [Read More](https://medium.com/p/ee99dac0da78) |
-| Mon, 23 Feb 2026 13:21:24 GMT | Balancer x Certora: Future-Proofing Protocol Security | Joao | [Read More](https://medium.com/p/d5dfd33e4474) |
-| Mon, 23 Feb 2026 13:21:23 GMT | I Was His Second Choice Until I Realized I Was Her First | Yapper | [Read More](https://medium.com/p/9e382e49855a) |
