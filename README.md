@@ -12,8 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Feb 2026 08:45:23 GMT | Intermediate Web Application Penetration Testing — Episode 001
+ by Nolan Stark | Nolan Stark | [Read More](https://medium.com/p/595ebddaa7a2) |
+| Mon, 23 Feb 2026 08:42:16 GMT | Forget Phishing: The 5 Silent Ways Hackers Are Weaponizing AI Against Us | Dhanush N | [Read More](https://medium.com/p/07d5a4088e35) |
+| Mon, 23 Feb 2026 08:41:05 GMT | Beyond the VPN: Architecting a Unified Zero Trust Identity Strategy for Hybrid Clouds. | Kunal Sinha | [Read More](https://medium.com/p/7eea496c79ee) |
+| Mon, 23 Feb 2026 08:38:31 GMT | JWT in Mobile Apps: 5 Mistakes That Lead to Account Takeover | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/2bc0afb84c5d) |
+| Mon, 23 Feb 2026 08:33:49 GMT | The Simple SSL Setting That Quietly Broke Security for Thousands of Apps | 1$ Mistake | [Read More](https://medium.com/p/cc7ae9340e38) |
+| Mon, 23 Feb 2026 08:33:06 GMT | Commercial Security Upgrades with Ballistic Glass | Yossi | [Read More](https://medium.com/p/942da43eee28) |
+| Mon, 23 Feb 2026 08:18:05 GMT | How DevOps Consulting Companies Handle Security in 2026: From DevSecOps to Zero-Trust Cloud | Surbhi | [Read More](https://medium.com/p/a53a9f5c5bf5) |
+| Mon, 23 Feb 2026 08:10:35 GMT | Between the Turbulence | Mo YS | [Read More](https://medium.com/p/312761698144) |
+| Mon, 23 Feb 2026 08:10:34 GMT | Is the Death of Websites Already Underway? | Ade Mawan | [Read More](https://medium.com/p/2052304d645f) |
+| Mon, 23 Feb 2026 08:07:12 GMT | The Hidden Engine of AI Security: Knowledge Graphs at Scale | Abhijeet Pandey | [Read More](https://medium.com/p/8118b9cf520e) |
+| Mon, 23 Feb 2026 08:05:39 GMT | Hidden in Plainsight — Steganography Done Right | vulnhunter | [Read More](https://medium.com/p/f11808f0a3b2) |
+| Mon, 23 Feb 2026 08:02:35 GMT | Phobos Ransomware Malware Analysis Report | Hussam Aljaar | [Read More](https://medium.com/p/46d2bda57de4) |
+| Mon, 23 Feb 2026 08:01:17 GMT | Leveraging Automation to Accelerate Triage and Reduce Fatigue with Incident Response Services | NetWitness | [Read More](https://medium.com/p/f20e467b6d42) |
+| Mon, 23 Feb 2026 08:00:30 GMT | Week 2 of Learning Linux as an Ethical Hacker: Understanding File Systems, Networks, Software | Nishant kumar | [Read More](https://medium.com/p/32c8426f55b3) |
+| Mon, 23 Feb 2026 08:00:17 GMT | What Is Digital Privacy? | Robert Broeckelmann | [Read More](https://medium.com/p/317dcfde74d0) |
+| Mon, 23 Feb 2026 07:51:00 GMT | Beyond the Jailbreak: Why Your RAG System Is a Data Breach Waiting to Happen | Yanof Nasr | [Read More](https://medium.com/p/667df0e5009b) |
+| Mon, 23 Feb 2026 07:46:36 GMT | Şirkete Saldırmak İçin Para Alan Adamlar: Red Team Nedir? | Yusuf Ziya Kavuk | [Read More](https://medium.com/p/51de4492882c) |
+| Mon, 23 Feb 2026 07:45:36 GMT | Sex, Silence, and Truth in a Couple
+Episode 4 — What We Assume Instead of Asking | Craineanu Daniel | [Read More](https://medium.com/p/f8ff1e1f60db) |
+| Mon, 23 Feb 2026 07:35:41 GMT | Vulnerability: The Courage to Be Seen | Awonusi Oreoluwa Boluwatife | [Read More](https://medium.com/p/8ad4cfb47917) |
 | Mon, 23 Feb 2026 07:32:27 GMT | I’ve Spent 6 Years in Cybersecurity, and Your “AI Strategy” is Making Me Nervous | Mohit | [Read More](https://medium.com/p/6f0754569b99) |
 | Mon, 23 Feb 2026 07:30:26 GMT | Delivering AI Solutions in Highly Regulated Industries: A Data Engineer’s Perspective | YunYoung, Choi | [Read More](https://medium.com/p/04aeb2392915) |
+| Mon, 23 Feb 2026 07:28:06 GMT | Building Serverless Functions on Linux With OpenFaaS | Majidbasharat | [Read More](https://medium.com/p/74975207f5af) |
 | Mon, 23 Feb 2026 07:17:47 GMT | Hepton CEO Munk Seo Delivers Special Lecture at Sejong Cyber University | TINA | [Read More](https://medium.com/p/4ef379597925) |
 | Mon, 23 Feb 2026 07:17:05 GMT | I Thought DentiGrid Was Just Another Honeypot. I Was Wrong. | Sam Walker | [Read More](https://medium.com/p/f8c4790e9dc5) |
 | Mon, 23 Feb 2026 07:15:57 GMT | Azure Service Groups for Flexible Resource Organization | Brian Veldman | [Read More](https://medium.com/p/ade1cad9bffe) |
@@ -95,23 +117,3 @@ Thesis | AI With Timothy | [Read More](https://medium.com/p/4fc50e9754bc) |
 | Sun, 22 Feb 2026 23:57:26 GMT | Segurança em aplicações .NET | João Bosco | [Read More](https://medium.com/p/b4da2a1da01b) |
 | Sun, 22 Feb 2026 23:44:18 GMT | AI Accountability Didn’t Advance This Week. It Settled In. | A D | [Read More](https://medium.com/p/94f2890d5867) |
 | Sun, 22 Feb 2026 23:33:31 GMT | Understanding Lambda Tenant Isolation | Pubudu Jayawardana | [Read More](https://medium.com/p/485c5680695c) |
-| Sun, 22 Feb 2026 23:32:15 GMT | The feelings I feel in a introspective point of view | Unknown Unbeliever | [Read More](https://medium.com/p/3e406ff5cb97) |
-| Sun, 22 Feb 2026 23:28:33 GMT | How a VPN Works (Simple and Clear Explanation) | Shantun Parmar | [Read More](https://medium.com/p/05fd18f15a46) |
-| Sun, 22 Feb 2026 23:28:16 GMT | Claude | Rye Overly | [Read More](https://medium.com/p/2de474f25ef3) |
-| Sun, 22 Feb 2026 23:21:16 GMT | I've trained hundreds of Open Source LLMs. My Best Data is Always The Data I Can't Use. | Mariano Morales Ramírez | [Read More](https://medium.com/p/3639190b87c9) |
-| Sun, 22 Feb 2026 23:18:59 GMT | If You Think You Might Be in a Romance or Investment Scam, Start Here | El Proyecto Quiscalus | [Read More](https://medium.com/p/0be29b89fe1c) |
-| Sun, 22 Feb 2026 23:14:34 GMT | Networking -Cybersecurity 101 TryHackMe | Fabiosrocha | [Read More](https://medium.com/p/2b674bc810f4) |
-| Sun, 22 Feb 2026 23:09:12 GMT | How a Small Validation Bypass Enabled Invisible Identities | Mahmoud Farag | [Read More](https://medium.com/p/cc600577b98d) |
-| Sun, 22 Feb 2026 23:02:13 GMT | The Ransomware Came From Inside the System | Tim McAllister | [Read More](https://medium.com/p/67482de50be5) |
-| Sun, 22 Feb 2026 22:50:34 GMT | AI Dominates Cybersecurity | Matthew.Rosenquist | [Read More](https://medium.com/p/8c2b478b6a7d) |
-| Sun, 22 Feb 2026 22:45:32 GMT | From Observation to Simulation: Building a Selective Forwarding Scenario in Contiki | Shreya Gajjar | [Read More](https://medium.com/p/c31f4193a586) |
-| Sun, 22 Feb 2026 22:25:57 GMT | How to Leave Exchanges Without Getting Your Account Frozen | Izakaya Global | [Read More](https://medium.com/p/526b22f18ded) |
-| Sun, 22 Feb 2026 22:22:44 GMT | From Open Ports to Zero Trust: Securing My Home Lab | Tomer Klein | [Read More](https://medium.com/p/c46d2aabf0b7) |
-| Sun, 22 Feb 2026 22:13:17 GMT | The Scam You Never See Coming (Until It’s Too Late) | Inspire Pages | [Read More](https://medium.com/p/4df15b051ce5) |
-| Sun, 22 Feb 2026 22:11:19 GMT | Become a Hacker (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/93c5cd58c2fc) |
-| Sun, 22 Feb 2026 22:08:15 GMT | INE-Host & Network Penetration Testing: Exploitation CTF 3 by Singkhon | Singkhon K | [Read More](https://medium.com/p/dce7ccd3c278) |
-| Sun, 22 Feb 2026 22:04:07 GMT | Beyond the black box: A Multi-Stage approach for Evaluating AI-Pentest tools | Yoel Apu | [Read More](https://medium.com/p/f18d158079eb) |
-| Sun, 22 Feb 2026 21:52:51 GMT | If I Had to Restart in Cybersecurity Today — Here’s What I’d Do for 6 Months | Hamood Naseer Al-Marhoubi | [Read More](https://medium.com/p/b9242f4ec641) |
-| Sun, 22 Feb 2026 21:52:40 GMT | Between Love and Responsibility: A Historical Reflection on Vulnerability | Guilherme Andrade | [Read More](https://medium.com/p/8898893ad135) |
-| Sun, 22 Feb 2026 21:38:58 GMT | How Modern EDRs Detect the “Undetectable” Red Team Tradecraft | Yua Mikanana | [Read More](https://medium.com/p/7ad46429e0b8) |
-| Sun, 22 Feb 2026 21:26:12 GMT | Escaping the Sandbox: How a Simple Python Path Flaw Led to Host RCE | Hacker MD | [Read More](https://medium.com/p/817d39c95f86) |
