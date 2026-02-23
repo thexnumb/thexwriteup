@@ -12,12 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Feb 2026 14:22:48 GMT | Solving a Bugforge Daily Challenge — Exploiting SQL Injection in Cafe Club | Pranaya Shrestha | [Read More](https://medium.com/p/4fbf0aaf6a02) |
+| Mon, 23 Feb 2026 14:19:39 GMT | How to Architect Secure AI Agents Before They Architect Your Incident | John Munn | [Read More](https://medium.com/p/d8a5b82be308) |
+| Mon, 23 Feb 2026 14:18:50 GMT | How to Host Multiple Clients on One VPS Without Security Risks | Emilyharbord | [Read More](https://medium.com/p/63d066e43878) |
+| Mon, 23 Feb 2026 14:11:30 GMT | Privacy by Design on GCP: Building a Secure Serverless Data Pipeline with Terraform (GDPR-Ready… | Parag Shahade | [Read More](https://medium.com/p/f72fc57764ab) |
+| Mon, 23 Feb 2026 14:03:32 GMT | RST TI Report Digest: 23 Feb 2026 | RST Cloud | [Read More](https://medium.com/p/97c23d29cb53) |
+| Mon, 23 Feb 2026 14:01:01 GMT | Battle of the Claws: Security Evaluation of Agents Against Adversarial Attacks | Nwosu Rosemary | [Read More](https://medium.com/p/ab043040a12c) |
+| Mon, 23 Feb 2026 14:00:32 GMT | Deception Evolved: Beyond the Face-Swap and Into the Age of Digital Puppets | UncovAI | [Read More](https://medium.com/p/8d91acdebc9f) |
+| Mon, 23 Feb 2026 13:59:30 GMT | Whose endpoint is this… kali?! | Alex Teixeira | [Read More](https://medium.com/p/9d69aa961092) |
+| Mon, 23 Feb 2026 13:48:36 GMT | Phishing Attacks Explained with Real Examples | Tanvi Chauhan | [Read More](https://medium.com/p/be8baff6a257) |
+| Mon, 23 Feb 2026 13:46:02 GMT | Impactful Experience At Kroneus and Coredefense: What My First Weeks as an AI Security Intern… | Siddhant Chaudhary | [Read More](https://medium.com/p/5c5d72f0960f) |
+| Mon, 23 Feb 2026 13:46:00 GMT | A Deeper Dive into NODE: Protocol — The Co-op Hacking Fantasy | Marc | [Read More](https://medium.com/p/43816cf31859) |
+| Mon, 23 Feb 2026 13:45:32 GMT | Issue #4: Architecting Against Contagion — The Technical Post-Mortem of the NotPetya/Maersk… | Nitin Raje | [Read More](https://medium.com/p/6531120e4edf) |
+| Mon, 23 Feb 2026 13:37:29 GMT | Recon Is Not Just Tools: Digging Gold | Nitin yadav | [Read More](https://medium.com/p/ffb7d4b0bb51) |
+| Mon, 23 Feb 2026 13:23:53 GMT | How to Implement Agentic AI: Strategies, Frameworks, and Best Practices - Ascendion | Ascendion | [Read More](https://medium.com/p/ee99dac0da78) |
+| Mon, 23 Feb 2026 13:21:24 GMT | Balancer x Certora: Future-Proofing Protocol Security | Joao | [Read More](https://medium.com/p/d5dfd33e4474) |
+| Mon, 23 Feb 2026 13:21:23 GMT | I Was His Second Choice Until I Realized I Was Her First | Yapper | [Read More](https://medium.com/p/9e382e49855a) |
+| Mon, 23 Feb 2026 13:09:24 GMT | India’s EdTech Moment-Now or Never | Reader Div | [Read More](https://medium.com/p/040665cef826) |
 | Mon, 23 Feb 2026 13:03:03 GMT | Basic Pentest | Farid Hajiyev | [Read More](https://medium.com/p/b7091e98f3ec) |
 | Mon, 23 Feb 2026 13:02:34 GMT | Inside the Threat Landscape: What UK Manufacturers Aren’t Being Told About Security | Luke Appleby | [Read More](https://medium.com/p/37c6bf2a1b25) |
 | Mon, 23 Feb 2026 13:01:01 GMT | The Linux Server That Looked Fine Until It Wasn’t | Faruk Ahmed | [Read More](https://medium.com/p/ed5eb9deb9d0) |
 | Mon, 23 Feb 2026 12:58:20 GMT | The Headless IDE: Why Senior Engineers Are Replacing VS Code with OpenClaw, Ollama, and Telegram | kakrana | [Read More](https://medium.com/p/6d31a16524bf) |
 | Mon, 23 Feb 2026 12:57:06 GMT | When Language Becomes an Attack: A Simple History of Prompt Injection | Kavindra Kumar Ahirwar | [Read More](https://medium.com/p/e206cc569379) |
 | Mon, 23 Feb 2026 12:57:01 GMT | Database Migration Made Easy: Moving Data Without Downtime. | Yomi Folowosele | [Read More](https://medium.com/p/7061d08c239d) |
+| Mon, 23 Feb 2026 12:56:51 GMT | Day 62 of 100 Days of DevOps: Securing License Keys with Kubernetes Secrets | Damian Ogedengbe | [Read More](https://medium.com/p/d3cc6930be7b) |
 | Mon, 23 Feb 2026 12:54:12 GMT | Evaluating Mindenious Edutech: A Modern Approach to Career-Focused Learning
 The education landscape… | Ronak Gupta | [Read More](https://medium.com/p/88ce7a5a4418) |
 | Mon, 23 Feb 2026 12:51:34 GMT | My Journey Through TryHackMe’s Pre Security Course | Sidhantchaurasiya | [Read More](https://medium.com/p/7fa396d0b8d9) |
@@ -95,22 +113,3 @@ The education landscape… | Ronak Gupta | [Read More](https://medium.com/p/88ce
 | Mon, 23 Feb 2026 09:29:57 GMT | Regular Expressions | Citadel Cybersec | [Read More](https://medium.com/p/9c06c3edb218) |
 | Mon, 23 Feb 2026 09:28:33 GMT | A few hundred malign documents is all it takes to corrupt any AI | Enrique Dans | [Read More](https://medium.com/p/ecebe982b660) |
 | Mon, 23 Feb 2026 09:23:08 GMT | Weekly Threat Intelligence Report 9 Feb 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/0a792eb451a7) |
-| Mon, 23 Feb 2026 09:22:51 GMT | Cyber Security Courses in Chennai: Your Path to a Secure Tech Career | Boston Institute of Analytics | [Read More](https://medium.com/p/d438ae8265bc) |
-| Mon, 23 Feb 2026 09:22:45 GMT | The Secret Life of AWS: The Plaintext Password (AWS Secrets Manager) | Aaron Rose | [Read More](https://medium.com/p/0e637f94627b) |
-| Mon, 23 Feb 2026 09:16:48 GMT | Analysis of Windows Notepad Remote Code Execution Vulnerability (CVE-2026-20841) | NSHC ThreatRecon Team | [Read More](https://medium.com/p/3f7f9fbdc711) |
-| Mon, 23 Feb 2026 09:01:01 GMT | 3 Ways Attackers Monetize Your Leaked Credentials Within 24 Hours | Alexandre Vandamme | [Read More](https://medium.com/p/659d514ccc20) |
-| Mon, 23 Feb 2026 09:01:01 GMT | Your SOC Was Built for Breaches, Not Behaviour. | Yash Gorasiya | [Read More](https://medium.com/p/132e59cb502d) |
-| Mon, 23 Feb 2026 08:51:44 GMT | Information Technology (IT) Market Analysis Scope And Forecast 2035 | Shivanshpatil | [Read More](https://medium.com/p/fa43eea6fe8b) |
-| Mon, 23 Feb 2026 08:45:23 GMT | Intermediate Web Application Penetration Testing — Episode 001
- by Nolan Stark | Nolan Stark | [Read More](https://medium.com/p/595ebddaa7a2) |
-| Mon, 23 Feb 2026 08:42:16 GMT | Forget Phishing: The 5 Silent Ways Hackers Are Weaponizing AI Against Us | Dhanush N | [Read More](https://medium.com/p/07d5a4088e35) |
-| Mon, 23 Feb 2026 08:41:05 GMT | Beyond the VPN: Architecting a Unified Zero Trust Identity Strategy for Hybrid Clouds. | Kunal Sinha | [Read More](https://medium.com/p/7eea496c79ee) |
-| Mon, 23 Feb 2026 08:38:31 GMT | JWT in Mobile Apps: 5 Mistakes That Lead to Account Takeover | Vaibhav Shakya - Mr Neo | [Read More](https://medium.com/p/2bc0afb84c5d) |
-| Mon, 23 Feb 2026 08:33:49 GMT | The Simple SSL Setting That Quietly Broke Security for Thousands of Apps | 1$ Mistake | [Read More](https://medium.com/p/cc7ae9340e38) |
-| Mon, 23 Feb 2026 08:33:06 GMT | Commercial Security Upgrades with Ballistic Glass | Yossi | [Read More](https://medium.com/p/942da43eee28) |
-| Mon, 23 Feb 2026 08:18:05 GMT | How DevOps Consulting Companies Handle Security in 2026: From DevSecOps to Zero-Trust Cloud | Surbhi | [Read More](https://medium.com/p/a53a9f5c5bf5) |
-| Mon, 23 Feb 2026 08:10:35 GMT | Between the Turbulence | Mo YS | [Read More](https://medium.com/p/312761698144) |
-| Mon, 23 Feb 2026 08:10:34 GMT | Is the Death of Websites Already Underway? | Ade Mawan | [Read More](https://medium.com/p/2052304d645f) |
-| Mon, 23 Feb 2026 08:07:12 GMT | The Hidden Engine of AI Security: Knowledge Graphs at Scale | Abhijeet Pandey | [Read More](https://medium.com/p/8118b9cf520e) |
-| Mon, 23 Feb 2026 08:05:39 GMT | Hidden in Plainsight — Steganography Done Right | vulnhunter | [Read More](https://medium.com/p/f11808f0a3b2) |
-| Mon, 23 Feb 2026 08:02:35 GMT | Phobos Ransomware Malware Analysis Report | Hussam Aljaar | [Read More](https://medium.com/p/46d2bda57de4) |
