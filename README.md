@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Feb 2026 16:24:20 GMT | Google Suspends OpenClaw Accounts Amid Malware Abuse-What Security Teams Must Know | Chetan Seripally | [Read More](https://medium.com/p/1775af69d73b) |
+| Mon, 23 Feb 2026 16:23:56 GMT | Web Applications Are Actually Tested Using SAST & DAST | kamal kalyan | [Read More](https://medium.com/p/f4e8ad661396) |
+| Mon, 23 Feb 2026 16:21:49 GMT | Operational Risk — What Quietly Shapes an Organization’s Stability | Sponamgi | [Read More](https://medium.com/p/ab34baf38dff) |
+| Mon, 23 Feb 2026 16:00:16 GMT | The Solidity delete Trap: How a Simple Keyword Can Wipe Out a Protocol's Revenue | Hacker MD | [Read More](https://medium.com/p/1ebb7b7131ec) |
+| Mon, 23 Feb 2026 16:00:05 GMT | The Days We Feel Obliged to Be Fine” | Ebru | [Read More](https://medium.com/p/74e400aea06a) |
+| Mon, 23 Feb 2026 15:57:36 GMT | Expose Hidden Active Directory Risks with Ping Castle + Wazuh | SOCFortress | [Read More](https://medium.com/p/719f0b922224) |
+| Mon, 23 Feb 2026 15:57:21 GMT | This Free Tool Makes Windows 11 ALMOST Safe to Use — Take Back Your Privacy | Michael Swengel | [Read More](https://medium.com/p/c33be5fe3c1e) |
+| Mon, 23 Feb 2026 15:55:42 GMT | Behind the Breach: The Solarwinds Supply Chain Attack(Sunburst Malware) | Dorathy Christopher | [Read More](https://medium.com/p/f6b618849fae) |
+| Mon, 23 Feb 2026 15:53:45 GMT | OWASP LLM02:2025 Sensitive Information Disclosure | Harsh Kahate | [Read More](https://medium.com/p/4c68e39b4c56) |
+| Mon, 23 Feb 2026 15:52:39 GMT | Making Passwords Stronger Again — The Rainbow Secure Reinvention | Dr. Shashi Karhail | [Read More](https://medium.com/p/dbafca5be0ac) |
+| Mon, 23 Feb 2026 15:52:16 GMT | Breaking the Perimeter: Why Your Traditional Firewall is Useless in a Kubernetes World | Sourabhkumar | [Read More](https://medium.com/p/4844ab415b07) |
+| Mon, 23 Feb 2026 15:52:07 GMT | Why Small Businesses Need Advanced Security Beyond Locks | AlexBryn | [Read More](https://medium.com/p/49c3926427e9) |
+| Mon, 23 Feb 2026 15:51:31 GMT | The Truth Machine: How Blockchain Can Fight the AI Deepfake Crisis | Cynox Security LLP. | [Read More](https://medium.com/p/f59611ab2e30) |
+| Mon, 23 Feb 2026 15:46:01 GMT | How to Set Up Claude Code’s New Security Review — The Complete Practical Guide | Reza Rezvani | [Read More](https://medium.com/p/0f900a680eb1) |
+| Mon, 23 Feb 2026 15:45:01 GMT | Invisible Eyes of Cyber Crime: How Daily Online Actions Expose Women | Sonali Punchihewa | [Read More](https://medium.com/p/102a2e4018f5) |
+| Mon, 23 Feb 2026 15:44:24 GMT | Secure Your CloudFront Origins With mTLS Authentication | Vinayak Pandey | [Read More](https://medium.com/p/1dacf340ba70) |
+| Mon, 23 Feb 2026 15:42:43 GMT | How to Choose the Right Security System for Your Home | AlexBryn | [Read More](https://medium.com/p/c35c274ff72d) |
+| Mon, 23 Feb 2026 15:39:30 GMT | Understanding the Difference Between the Dark Web and the Deep Web | Tor BBB | [Read More](https://medium.com/p/df46411bf9b5) |
+| Mon, 23 Feb 2026 15:34:20 GMT | FahmSec CTF 2026 : Func ! | VampireXRay | [Read More](https://medium.com/p/1614913bfb06) |
+| Mon, 23 Feb 2026 15:32:24 GMT | Intermediate Web Application Penetration Testing — Episode 002 - Session Management Room Tryhackme | Nolan Stark | [Read More](https://medium.com/p/8e9329350296) |
 | Mon, 23 Feb 2026 15:22:57 GMT | How a Meta “Superintelligence” Director Nuked Her Own Inbox and Exposed the Silicon Valley Expert… | Hakan Özerdem | [Read More](https://medium.com/p/a6bc4c9768a5) |
 | Mon, 23 Feb 2026 15:20:56 GMT | Valenfind — A TryHackMe Writeup | 0x77 | [Read More](https://medium.com/p/2ac25696c8c7) |
 | Mon, 23 Feb 2026 15:20:55 GMT | I Stole an Admin Cookie With a Survey Form — CTF Writeup | PaulR | [Read More](https://medium.com/p/9703cc1dbf8a) |
@@ -30,6 +50,9 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Feb 2026 14:53:20 GMT | Common JWT Mistakes That Quietly Break Your Auth | Pudari Madhavi | [Read More](https://medium.com/p/2be0db4b2a9a) |
 | Mon, 23 Feb 2026 14:44:58 GMT | Ripple Effects in the Silicon Supply Chain — Lessons from the 2026 Advantest Incident | Aayushbhatt | [Read More](https://medium.com/p/2d6d2d76058b) |
 | Mon, 23 Feb 2026 14:43:54 GMT | Starting from OpenClaw Memory: How I Borrowed, Adapted, and Extended It in SkillLite | EXboys | [Read More](https://medium.com/p/06792ccf27b5) |
+| Mon, 23 Feb 2026 14:43:29 GMT | Metrics and KPIs That Matter for Security Leaders in 2026 | Digital Defense | [Read More](https://medium.com/p/a8e326903e3a) |
+| Mon, 23 Feb 2026 14:40:48 GMT | Cybersecurity Course in Chennai — Building Skills for the Future of Technology | Boston Institute of Analytics | [Read More](https://medium.com/p/0bad8f43c7fd) |
+| Mon, 23 Feb 2026 14:40:17 GMT | Beyond the Textbook: 5 Things I’ve Learned as a SOC Analyst Intern | Sourabhkumar | [Read More](https://medium.com/p/b0d8d7d61cfd) |
 | Mon, 23 Feb 2026 14:38:43 GMT | FahmSec CTF 2026 : ReflectiveBait | VampireXRay | [Read More](https://medium.com/p/03d0e7e3f1c6) |
 | Mon, 23 Feb 2026 14:38:11 GMT | How to Choose a Liquidity Pool on STON.fi: What to Look For Before You Provide Liquidity | Stan4Chainz | [Read More](https://medium.com/p/1b6799c7a904) |
 | Mon, 23 Feb 2026 14:22:48 GMT | Solving a Bugforge Daily Challenge — Exploiting SQL Injection in Cafe Club | Pranaya Shrestha | [Read More](https://medium.com/p/4fbf0aaf6a02) |
@@ -90,26 +113,3 @@ The education landscape… | Ronak Gupta | [Read More](https://medium.com/p/88ce
 | Mon, 23 Feb 2026 11:14:46 GMT | We built a firewall for AI agents. It doesn’t use AI. | Andrea P. | [Read More](https://medium.com/p/37a803d24ef9) |
 | Mon, 23 Feb 2026 11:13:04 GMT | COMMON VULNERABILITIES IN ANDROID APPLICATIONS | Krithika Ravishankar | [Read More](https://medium.com/p/8320bbc19613) |
 | Mon, 23 Feb 2026 11:09:48 GMT | Why Annual VAPT Is No Longer Enough for Modern Organizations | Lakshita Gulliya | [Read More](https://medium.com/p/0475b88e8fd7) |
-| Mon, 23 Feb 2026 11:09:43 GMT | Cybersecurity Roadmap for Beginners in 2026 (Step-by-Step) | Hassansaleemkey | [Read More](https://medium.com/p/b4584e59c68e) |
-| Mon, 23 Feb 2026 11:09:31 GMT | Bypassing CSP via JSONP Callback Injection: Intigriti Challenge 0226 Write-up | marchenaa | [Read More](https://medium.com/p/d4f0e3061123) |
-| Mon, 23 Feb 2026 11:08:30 GMT | From IT to SOC to CTI Analyst: The 3-Stage Career Roadmap and Mindset Shifts | Adam Goss | [Read More](https://medium.com/p/ff2484e64d7e) |
-| Mon, 23 Feb 2026 11:06:27 GMT | Network Security Fundamentals for Cyber Defense | Kunal Arora | [Read More](https://medium.com/p/8442f80f4c92) |
-| Mon, 23 Feb 2026 11:03:49 GMT | How Canada, USA, UK, Australia & New Zealand Share Immigration Security Information (FCC Explained) | Amin Migration LLP | [Read More](https://medium.com/p/3f9990ba3586) |
-| Mon, 23 Feb 2026 11:01:41 GMT | SAST vs Claude Code Security: A Deep Dive | Brett Crawley | [Read More](https://medium.com/p/69fcd9a74b0f) |
-| Mon, 23 Feb 2026 11:01:01 GMT | Cybersecurity Stocks Lost Billions After Anthropic Launched a Powerful New AI Tool | Mehdi BAFDIL | [Read More](https://medium.com/p/23215f869383) |
-| Mon, 23 Feb 2026 11:01:00 GMT | From a Simple Client-Side Mistake to Full Read/Write Access of an Internal Support System. | Yousef Elsheikh | [Read More](https://medium.com/p/ebd40e4588ee) |
-| Mon, 23 Feb 2026 10:59:44 GMT | Risk-Adaptive Friction: Designing Human-Aware Security Controls in CI/CD | Kalyan Tamarapalli | [Read More](https://medium.com/p/21959c1373ab) |
-| Mon, 23 Feb 2026 10:58:04 GMT | Is Your BPO Ready for Secure AI Adoption? | Rom | [Read More](https://medium.com/p/f2c9b46a0863) |
-| Mon, 23 Feb 2026 10:56:25 GMT | The Slippery Snake | Sienna Duff | [Read More](https://medium.com/p/8de70ee1a1b8) |
-| Mon, 23 Feb 2026 10:48:35 GMT | Emergency Locksmith Assistance Throughout London | The Lock Specialist Ltd | [Read More](https://medium.com/p/eec696ffa83b) |
-| Mon, 23 Feb 2026 10:38:22 GMT | Why Most Incident Response Fails in the First 30 Minutes | Gautam kumar | [Read More](https://medium.com/p/6f1d9502a049) |
-| Mon, 23 Feb 2026 10:34:15 GMT | Beyond Inspect Element: How I Looted an Application’s Internal Directories Using Only .map Files | Shreejalkc | [Read More](https://medium.com/p/8b9af5dbd3e5) |
-| Mon, 23 Feb 2026 10:33:13 GMT | JWT Secret Key: Sistemin Görünmeyen Güvenlik Katmanı | Hsdfsmvu | [Read More](https://medium.com/p/14e58ad16a33) |
-| Mon, 23 Feb 2026 10:32:29 GMT | Use Cases & Outcomes: What happens when security stops being manual work | Securedotcom | [Read More](https://medium.com/p/d7464dc2f181) |
-| Mon, 23 Feb 2026 10:31:22 GMT | The Website Didn’t Need to Be Hacked. It Exposed Itself. Twice. | TEJAS | [Read More](https://medium.com/p/60f306f5cf49) |
-| Mon, 23 Feb 2026 10:30:35 GMT | Foolproof Preventative Medicine for Being Cybersecure: The Defence | Shivaram Shankaranarayana Yarmunja | [Read More](https://medium.com/p/541aa0e4cb0e) |
-| Mon, 23 Feb 2026 10:29:49 GMT | NFC Payment Test at Olympics Will Inspire Mobile Attackers to Go for the Gold | Jimmy Shah | [Read More](https://medium.com/p/9ce076679e18) |
-| Mon, 23 Feb 2026 10:23:23 GMT | How Decentralized Codex Security Recovered Our Bitcoin Investment After the December 13 Trading App… | BLOCKCHAIN | [Read More](https://medium.com/p/9ef8594b758f) |
-| Mon, 23 Feb 2026 10:21:54 GMT | I Build AI for Healthcare, and AI-Generated Code Scares Me | Hassan Ahmed | [Read More](https://medium.com/p/87ae797aa228) |
-| Mon, 23 Feb 2026 10:20:22 GMT | Title: 7 Projects in 7 Days: A High-Velocity Engineering Sprint | Nathan Iheanyi | [Read More](https://medium.com/p/8d8382591df9) |
-| Mon, 23 Feb 2026 10:19:38 GMT | Advanced Workflow Automation & Integration Solutions for Modern Businesses | n8ndevelopers | [Read More](https://medium.com/p/7d03584c0e3c) |
