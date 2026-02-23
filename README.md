@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Feb 2026 17:38:25 GMT | Beyond Recon: Mastering Authentication Logic in Bug Bounty | ghostyjoe | [Read More](https://medium.com/p/9be065e13ea7) |
+| Mon, 23 Feb 2026 17:36:51 GMT | DevSecOps for Infrastructure as Code: Securing Terraform from Code to Cloud | Adityakadambari | [Read More](https://medium.com/p/d111cc4736f5) |
+| Mon, 23 Feb 2026 17:36:44 GMT | Bleeding the XFS: Anatomy of ATM Jackpotting | Dion Mulaj | [Read More](https://medium.com/p/cb8f9ef4c555) |
+| Mon, 23 Feb 2026 17:33:27 GMT | JavaScript: Simple Demo (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/233894c7ff9b) |
+| Mon, 23 Feb 2026 17:31:00 GMT | Why Most Startups Fail Their First Enterprise Security Review (Backed by Data) | Abhishek Pahuja | [Read More](https://medium.com/p/d164f334c218) |
+| Mon, 23 Feb 2026 17:25:52 GMT | From Basic Technical Knowledge to Thinking Like an Attacker: My Early Journey in AI Security | Akshatm | [Read More](https://medium.com/p/5990193a1e9d) |
+| Mon, 23 Feb 2026 17:24:05 GMT | GTFOBins Explained: How Legitimate Linux Tools Become Powerful Attack Vectors | Sidhantchaurasiya | [Read More](https://medium.com/p/ff561228d015) |
+| Mon, 23 Feb 2026 17:23:57 GMT | How to Opt-Out of BeenVerified (2026 Complete Guide) | Founder at DataEgress | [Read More](https://medium.com/p/19accb2ba9f7) |
+| Mon, 23 Feb 2026 17:21:59 GMT | How to Remove Your Info from Intelius (2026 Privacy Guide) | Founder at DataEgress | [Read More](https://medium.com/p/392ee3706759) |
+| Mon, 23 Feb 2026 17:20:24 GMT | Lab: Blind SQL injection with conditional responses - PortSwigger | Samiul Quoreshi Sourav | [Read More](https://medium.com/p/9a6f1bb5328e) |
+| Mon, 23 Feb 2026 17:16:17 GMT | Tired of spam calls? AI Tools That Block Scammers Instantly | NextGen AI Hub | [Read More](https://medium.com/p/a0598f2df318) |
+| Mon, 23 Feb 2026 17:06:00 GMT | 4 Family Secrets You Should Never Reveal to Your Relatives | Kay Young | [Read More](https://medium.com/p/568fa84d8736) |
+| Mon, 23 Feb 2026 17:05:59 GMT | Cheesy Does it writeup (Business Logic flaw)(Bugforge) | 7s26Simon | [Read More](https://medium.com/p/1fdcc7948875) |
+| Mon, 23 Feb 2026 17:03:06 GMT | One Invite Endpoint, One Race Condition — 4 Bugs Later | Raslanco | [Read More](https://medium.com/p/b48de71b280c) |
+| Mon, 23 Feb 2026 17:02:56 GMT | Why Modern IT Solutions for Government Are Critical for Digital Transformation | Pradhabini | [Read More](https://medium.com/p/7fa8dae54b13) |
+| Mon, 23 Feb 2026 16:57:42 GMT | Unsafe Deserialization in Ruby Background Workers Leading to Deterministic Remote Code Execution | NullSecurityX | [Read More](https://medium.com/p/63d216ac107a) |
+| Mon, 23 Feb 2026 16:52:03 GMT | Hack 108: Reviving the Hacker Spirit in the Corporate World | ᴅᴀɴ ᴋᴏʀᴏᴠᴛᴄʜ | [Read More](https://medium.com/p/fe544d5ab8c5) |
+| Mon, 23 Feb 2026 16:49:41 GMT | Professional Security Services in the UK for Corporate & Commercial Clients | Rapport Security | [Read More](https://medium.com/p/56afcdddff82) |
+| Mon, 23 Feb 2026 16:43:14 GMT | Malware Analysis: .NET Dropper and Encrypted UPX-Packed Infostealer (Salat Stealer) | Hack(IT)Sec | [Read More](https://medium.com/p/c5b6b5c49e8c) |
+| Mon, 23 Feb 2026 16:41:22 GMT | Turning Threat Intelligence into Bug Bounty Gold: A Practical Workflow | Iski | [Read More](https://medium.com/p/e5f36fbf1552) |
+| Mon, 23 Feb 2026 16:39:25 GMT | When length - 32 Goes Negative: A Small Check, Real Memory Bug in wolfSSL | MostReal | [Read More](https://medium.com/p/3233d28e5f52) |
 | Mon, 23 Feb 2026 16:24:20 GMT | Google Suspends OpenClaw Accounts Amid Malware Abuse-What Security Teams Must Know | Chetan Seripally | [Read More](https://medium.com/p/1775af69d73b) |
 | Mon, 23 Feb 2026 16:23:56 GMT | Web Applications Are Actually Tested Using SAST & DAST | kamal kalyan | [Read More](https://medium.com/p/f4e8ad661396) |
 | Mon, 23 Feb 2026 16:21:49 GMT | Operational Risk — What Quietly Shapes an Organization’s Stability | Sponamgi | [Read More](https://medium.com/p/ab34baf38dff) |
@@ -92,24 +113,3 @@ The education landscape… | Ronak Gupta | [Read More](https://medium.com/p/88ce
 | Mon, 23 Feb 2026 12:05:52 GMT | Where Smart Website Owners Invest First — and the Results Speak for Themselves | Ann Taylor | [Read More](https://medium.com/p/42e6a4d89dce) |
 | Mon, 23 Feb 2026 12:05:24 GMT | How to Design a Great Mobile App: 10 Easy Tips | Digichorus Technologies Pvt. LTD. | [Read More](https://medium.com/p/d3779cf7435c) |
 | Mon, 23 Feb 2026 12:03:13 GMT | IT Management Mastery: A Complete Guide to Modern IT Operations | Chaimaa Bahjaji | [Read More](https://medium.com/p/cb06460896d6) |
-| Mon, 23 Feb 2026 12:01:01 GMT | Writeup for picoCTF challenge “dont-use-client-side” | Walter Moar | [Read More](https://medium.com/p/3c14f7941e2c) |
-| Mon, 23 Feb 2026 11:48:47 GMT | The Data Governance Illusion Is Cracking and DSPM Is Forcing the First Real Accountability | Niyati Daftary | [Read More](https://medium.com/p/7938e58f79b7) |
-| Mon, 23 Feb 2026 11:48:19 GMT | Security Controls Explained: How We Actually Defend Systems | Mahdi | [Read More](https://medium.com/p/368c06908d65) |
-| Mon, 23 Feb 2026 11:48:13 GMT | Ensuring Device Security in Windows | Aj | [Read More](https://medium.com/p/e82a5439ad30) |
-| Mon, 23 Feb 2026 11:48:11 GMT | Self-hosting without paranoia: The reverse proxy security checklist I actually use | Thomas Byern | [Read More](https://medium.com/p/d7586a9dab2b) |
-| Mon, 23 Feb 2026 11:48:06 GMT | How to Find Information About Anyone | mohandika | [Read More](https://medium.com/p/8a153138c665) |
-| Mon, 23 Feb 2026 11:45:22 GMT | TryHackMe — Blue WriteUp with Answers | Ahmedkhaled | [Read More](https://medium.com/p/f102d5587db2) |
-| Mon, 23 Feb 2026 11:42:28 GMT | Attacking Common Services — Part 1 | Nouman Ali Khan | [Read More](https://medium.com/p/b6f118d266e3) |
-| Mon, 23 Feb 2026 11:41:00 GMT | Stay Gold, But Get Seen: The Outsiders in the Corporate World | Namir Sagheenanajar | [Read More](https://medium.com/p/c6fa910c5cd8) |
-| Mon, 23 Feb 2026 11:38:42 GMT | How to Build a Beginner Cybersecurity Lab at Home (2026 Guide) | Men Of Letters | [Read More](https://medium.com/p/5441ba2fffe0) |
-| Mon, 23 Feb 2026 11:36:31 GMT | ROCSC 2026 — Qualification: OSINT and Network Challenges Writeups | WhosWho | [Read More](https://medium.com/p/fd4a26a87d54) |
-| Mon, 23 Feb 2026 11:36:00 GMT | Vendor Outage Tabletop Exercise. When a Critical Provider Goes Dark, Can You Still Deliver | Tyson Martin | [Read More](https://medium.com/p/cf3219c7bb1a) |
-| Mon, 23 Feb 2026 11:34:54 GMT | World Monitor: Geopolitical Intelligence For Everyone | William Couturier | [Read More](https://medium.com/p/3637d3240616) |
-| Mon, 23 Feb 2026 11:32:56 GMT | Cyber Security | Da | [Read More](https://medium.com/p/3c2231faebbf) |
-| Mon, 23 Feb 2026 11:31:46 GMT | When Application Decommissioning Turns Into a Cybersecurity Risk | Fabiano Moda | [Read More](https://medium.com/p/ba3c11f2d50f) |
-| Mon, 23 Feb 2026 11:22:25 GMT | Two-Factor Authentication (2FA) is Now Live on Orangescrum | Orangescrum | [Read More](https://medium.com/p/5164e70b8fe2) |
-| Mon, 23 Feb 2026 11:16:20 GMT | TERMİNALİN GÜCÜ: LİNUX 101 | Sümeyye Kaya | [Read More](https://medium.com/p/7058909084f0) |
-| Mon, 23 Feb 2026 11:15:13 GMT | Beyond Templates: How Modern Websites Are Being Built for Speed, Flexibility, and Growth? | Andy | [Read More](https://medium.com/p/bc8f9137232a) |
-| Mon, 23 Feb 2026 11:14:46 GMT | We built a firewall for AI agents. It doesn’t use AI. | Andrea P. | [Read More](https://medium.com/p/37a803d24ef9) |
-| Mon, 23 Feb 2026 11:13:04 GMT | COMMON VULNERABILITIES IN ANDROID APPLICATIONS | Krithika Ravishankar | [Read More](https://medium.com/p/8320bbc19613) |
-| Mon, 23 Feb 2026 11:09:48 GMT | Why Annual VAPT Is No Longer Enough for Modern Organizations | Lakshita Gulliya | [Read More](https://medium.com/p/0475b88e8fd7) |
