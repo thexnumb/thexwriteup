@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Feb 2026 21:00:52 GMT | Furhire writeup (MFA Bypass) (Medium)(Bugforge) | 7s26Simon | [Read More](https://medium.com/p/76c31e33bd13) |
+| Mon, 23 Feb 2026 20:55:30 GMT | Ice — TryHackMe | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/3cbdd52805dc) |
+| Mon, 23 Feb 2026 20:53:16 GMT | what is red team | Kevin Ronex | [Read More](https://medium.com/p/777c62779d49) |
+| Mon, 23 Feb 2026 20:51:05 GMT | Building an Agentic SOC on Elastic | One Equals One | [Read More](https://medium.com/p/0edfa46ddb10) |
+| Mon, 23 Feb 2026 20:46:09 GMT | How the CISO Role Transformed Before My Eyes From Technical Gatekeeper to Strategist Leader | Younos Nazarian | [Read More](https://medium.com/p/f217c95a1ffb) |
+| Mon, 23 Feb 2026 20:39:52 GMT | Every Threat Model Dies Within Two Sprints | Animesh Srivastava | [Read More](https://medium.com/p/fbced48a8c9c) |
+| Mon, 23 Feb 2026 20:32:13 GMT | FahemSec HackStart CTF | Salma Muhamed | [Read More](https://medium.com/p/63daccb960fb) |
+| Mon, 23 Feb 2026 20:24:23 GMT | Try Hack Me- Atlas CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/694e663a8374) |
+| Mon, 23 Feb 2026 20:09:14 GMT | How Python Can Be Used to Extract Geolocation and Metadata from Documents, Images, and Browsers | Bits & Bytes Podcast Newsletter | [Read More](https://medium.com/p/d5ffa6abea9f) |
+| Mon, 23 Feb 2026 20:07:34 GMT | How I Tracked a Hacker from China: WebStrike Forensic Investigation | Allif Maulana Sakti | [Read More](https://medium.com/p/9aadbbd22446) |
+| Mon, 23 Feb 2026 20:06:24 GMT | Designing a sub-millisecond, self-hostable risk scoring component for login flows | Kardespro | [Read More](https://medium.com/p/388a58a1760c) |
 | Mon, 23 Feb 2026 19:52:36 GMT | Why Real API Breaches Happen Through Chains, Not Single Bugs | Boluwatife Dada | [Read More](https://medium.com/p/04888bd22057) |
 | Mon, 23 Feb 2026 19:40:43 GMT | Post-Quantum Cybersecurity | Dietmar Marggraff | [Read More](https://medium.com/p/e26ba5e1ba15) |
 | Mon, 23 Feb 2026 19:38:43 GMT | CASE FILE #DF-WEBSTRIKE - CLASSIFIED | kanieloutis | [Read More](https://medium.com/p/5fa49c94442b) |
@@ -40,6 +51,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Feb 2026 17:51:22 GMT | Offensive Security, Red Team & Pentest: Você Não Entende Nenhum dos Três | Sp1d3rM | [Read More](https://medium.com/p/6fdd27ff0000) |
 | Mon, 23 Feb 2026 17:44:57 GMT | The Ghost in the Browser: Why Cookies are a Hacker’s Favorite Snack | XCyber | [Read More](https://medium.com/p/862de5b6bb77) |
 | Mon, 23 Feb 2026 17:43:03 GMT | CVE-2025–15556 分析：Notepad++ 的供應鏈攻擊與防禦策略 | segalee | [Read More](https://medium.com/p/9d0e0a5f4444) |
+| Mon, 23 Feb 2026 17:40:45 GMT | Exposed and Unseen: How Public Social Media Profiles Put Women at Risk of Cybercrime | Sonali Punchihewa | [Read More](https://medium.com/p/97059dfa62b2) |
 | Mon, 23 Feb 2026 17:38:25 GMT | Beyond Recon: Mastering Authentication Logic in Bug Bounty | ghostyjoe | [Read More](https://medium.com/p/9be065e13ea7) |
 | Mon, 23 Feb 2026 17:36:51 GMT | DevSecOps for Infrastructure as Code: Securing Terraform from Code to Cloud | Adityakadambari | [Read More](https://medium.com/p/d111cc4736f5) |
 | Mon, 23 Feb 2026 17:36:44 GMT | Bleeding the XFS: Anatomy of ATM Jackpotting | Dion Mulaj | [Read More](https://medium.com/p/cb8f9ef4c555) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Feb 2026 14:55:36 GMT | Multi-Layer Forensic Analysis — PicoCTF Writeup (Flag in Flame) | yusnelgg | [Read More](https://medium.com/p/769c4cc8686f) |
 | Mon, 23 Feb 2026 14:53:20 GMT | Common JWT Mistakes That Quietly Break Your Auth | Pudari Madhavi | [Read More](https://medium.com/p/2be0db4b2a9a) |
 | Mon, 23 Feb 2026 14:44:58 GMT | Ripple Effects in the Silicon Supply Chain — Lessons from the 2026 Advantest Incident | Aayushbhatt | [Read More](https://medium.com/p/2d6d2d76058b) |
-| Mon, 23 Feb 2026 14:43:54 GMT | Starting from OpenClaw Memory: How I Borrowed, Adapted, and Extended It in SkillLite | EXboys | [Read More](https://medium.com/p/06792ccf27b5) |
-| Mon, 23 Feb 2026 14:43:29 GMT | Metrics and KPIs That Matter for Security Leaders in 2026 | Digital Defense | [Read More](https://medium.com/p/a8e326903e3a) |
-| Mon, 23 Feb 2026 14:40:48 GMT | Cybersecurity Course in Chennai — Building Skills for the Future of Technology | Boston Institute of Analytics | [Read More](https://medium.com/p/0bad8f43c7fd) |
-| Mon, 23 Feb 2026 14:40:17 GMT | Beyond the Textbook: 5 Things I’ve Learned as a SOC Analyst Intern | Sourabhkumar | [Read More](https://medium.com/p/b0d8d7d61cfd) |
-| Mon, 23 Feb 2026 14:38:43 GMT | FahmSec CTF 2026 : ReflectiveBait | VampireXRay | [Read More](https://medium.com/p/03d0e7e3f1c6) |
-| Mon, 23 Feb 2026 14:38:11 GMT | How to Choose a Liquidity Pool on STON.fi: What to Look For Before You Provide Liquidity | Stan4Chainz | [Read More](https://medium.com/p/1b6799c7a904) |
-| Mon, 23 Feb 2026 14:22:48 GMT | Solving a Bugforge Daily Challenge — Exploiting SQL Injection in Cafe Club | Pranaya Shrestha | [Read More](https://medium.com/p/4fbf0aaf6a02) |
-| Mon, 23 Feb 2026 14:19:39 GMT | How to Architect Secure AI Agents Before They Architect Your Incident | John Munn | [Read More](https://medium.com/p/d8a5b82be308) |
-| Mon, 23 Feb 2026 14:18:50 GMT | How to Host Multiple Clients on One VPS Without Security Risks | Emilyharbord | [Read More](https://medium.com/p/63d066e43878) |
-| Mon, 23 Feb 2026 14:11:30 GMT | Privacy by Design on GCP: Building a Secure Serverless Data Pipeline with Terraform (GDPR-Ready… | Parag Shahade | [Read More](https://medium.com/p/f72fc57764ab) |
-| Mon, 23 Feb 2026 14:03:32 GMT | RST TI Report Digest: 23 Feb 2026 | RST Cloud | [Read More](https://medium.com/p/97c23d29cb53) |
-| Mon, 23 Feb 2026 14:01:01 GMT | Battle of the Claws: Security Evaluation of Agents Against Adversarial Attacks | Nwosu Rosemary | [Read More](https://medium.com/p/ab043040a12c) |
