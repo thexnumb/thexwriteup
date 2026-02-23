@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 23 Feb 2026 02:16:14 GMT | Cyber Defender Practice — Web Labstrike | Shandyka Aditya Putra | [Read More](https://medium.com/p/477534264e23) |
+| Mon, 23 Feb 2026 02:13:46 GMT | Understanding IP Addresses in Cybersecurity: Public vs Private Explained | Writesankalpagirish | [Read More](https://medium.com/p/7bd889a3ca14) |
+| Mon, 23 Feb 2026 02:10:00 GMT | Windows Ayrıcalık Yükseltme Zafiyeti: Potato Saldırıları | Cem Civelek | [Read More](https://medium.com/p/675f285ee830) |
+| Mon, 23 Feb 2026 02:06:10 GMT | Why I Chose Medium | Umair Write | [Read More](https://medium.com/p/ed34cea9275e) |
+| Mon, 23 Feb 2026 02:02:33 GMT | ️How Anonymous LDAP Enumeration Led to AS-REP Roasting and Domain Compromise | Jabaribrown | [Read More](https://medium.com/p/0f6d71b0d7a1) |
+| Mon, 23 Feb 2026 01:39:33 GMT | Kali Linux
+ • Designed for professional penetration testing
+ • 600 plus preinstalled security… | AB Siddiki | [Read More](https://medium.com/p/b4ade22c8543) |
+| Mon, 23 Feb 2026 01:38:17 GMT | The Bot That Ordered Lunch | Zac | [Read More](https://medium.com/p/6f5ce2ef545c) |
+| Mon, 23 Feb 2026 01:26:35 GMT | Post-AI Cyber Landscapes Beyond Openness: Sharded Sovereignty and Enclave Internets | stoomart | [Read More](https://medium.com/p/3bc1b7c5559c) |
+| Mon, 23 Feb 2026 01:22:29 GMT | Web Application XSS Attack Investigation Report | Berkay Vagas | [Read More](https://medium.com/p/800fa7538e2e) |
+| Mon, 23 Feb 2026 01:15:03 GMT | How to Get Out of Help Desk FAST | Jbird | [Read More](https://medium.com/p/ef2dffbff212) |
+| Mon, 23 Feb 2026 01:02:12 GMT | Internal Comms: The Big Gap in SaaS Vendor Docs | Andrew Zimmerman | [Read More](https://medium.com/p/d87a324e7183) |
+| Mon, 23 Feb 2026 01:00:57 GMT | API Vulnerability Analysis in DVWA (Low to Impossible) | Narathama Firmansyah Putra | [Read More](https://medium.com/p/7d1f6da31c13) |
+| Mon, 23 Feb 2026 00:48:22 GMT | The Evolution of ClickFix: How Cybercriminals Are Weaponizing Your DNS Settings | Joe Graziano | [Read More](https://medium.com/p/cf4d58cbf23a) |
+| Sun, 22 Feb 2026 23:57:26 GMT | Segurança em aplicações .NET | João Bosco | [Read More](https://medium.com/p/b4da2a1da01b) |
 | Sun, 22 Feb 2026 23:44:18 GMT | AI Accountability Didn’t Advance This Week. It Settled In. | A D | [Read More](https://medium.com/p/94f2890d5867) |
 | Sun, 22 Feb 2026 23:33:31 GMT | Understanding Lambda Tenant Isolation | Pubudu Jayawardana | [Read More](https://medium.com/p/485c5680695c) |
 | Sun, 22 Feb 2026 23:32:15 GMT | The feelings I feel in a introspective point of view | Unknown Unbeliever | [Read More](https://medium.com/p/3e406ff5cb97) |
@@ -100,17 +116,3 @@ They got it wrong | Stephanie Mccabe | [Read More](https://medium.com/p/f6b9878e
 | Sun, 22 Feb 2026 17:30:29 GMT | DevSecOps for Git: Building a Secure Foundation for Your DevOps Lifecycle | Adityakadambari | [Read More](https://medium.com/p/fed9c53b862f) |
 | Sun, 22 Feb 2026 17:29:53 GMT | What is blue team? | Kevin Ronex | [Read More](https://medium.com/p/c92a370e4b37) |
 | Sun, 22 Feb 2026 17:29:51 GMT | PortSwigger Labs: User ID Controlled by Request Parameter (Lab 7 & 8) | Sanjivani Dobhal | [Read More](https://medium.com/p/32bed83bfff8) |
-| Sun, 22 Feb 2026 17:26:40 GMT | Why Spiders Matter | thatone guy | [Read More](https://medium.com/p/3b7383e0e217) |
-| Sun, 22 Feb 2026 17:22:30 GMT | Agentic OpenClaw in a Zero Trust Architecture: Using Local Llama on a Raspberry Pi | Crusader2c7 | [Read More](https://medium.com/p/50e1c32b5c73) |
-| Sun, 22 Feb 2026 17:19:35 GMT | The Industrialisation of Cybercrime: Lessons from Operation Red Card 2.0 | Ebenezer Oduro | [Read More](https://medium.com/p/6fb0fe2d5abf) |
-| Sun, 22 Feb 2026 17:18:17 GMT | Beyond Interpretation: When Explainable AI Hits a Wall | Mark Bailey | [Read More](https://medium.com/p/b1620bea319a) |
-| Sun, 22 Feb 2026 17:17:02 GMT | Client-Server Basics (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/32ca03f60c16) |
-| Sun, 22 Feb 2026 17:16:16 GMT | The Linge Method: A Theory for Detecting Hidden Steganography Without Seeing the Hidden Data | John Smith | [Read More](https://medium.com/p/0e4e143e2582) |
-| Sun, 22 Feb 2026 17:13:14 GMT | OWASP Top 10: 2025—The Latest in Web Application Security Risks | XCyber | [Read More](https://medium.com/p/10faecad744a) |
-| Sun, 22 Feb 2026 17:02:13 GMT | Telecom SIEM Triage Gets Cooked in Ransomware’s First 30min | Graylog | [Read More](https://medium.com/p/1b5e523f146a) |
-| Sun, 22 Feb 2026 16:53:34 GMT | What Happens When You Click a Suspicious Link? | Nway Nway Zay Ya | [Read More](https://medium.com/p/b584d20e220b) |
-| Sun, 22 Feb 2026 16:44:45 GMT | Misunderstood Realities | Philip Mraz | [Read More](https://medium.com/p/cd5a72eacf21) |
-| Sun, 22 Feb 2026 16:40:40 GMT | HackTheBox - AoTR 1: A Call from the Museum | M.Daffa Hakiki | [Read More](https://medium.com/p/a32db8307e63) |
-| Sun, 22 Feb 2026 16:34:37 GMT | Your AI Agent Is Leaking Your Secrets. Here’s What’s Actually Happening. | iamyxsh | [Read More](https://medium.com/p/8468d32a4669) |
-| Sun, 22 Feb 2026 16:27:49 GMT | The Fortress Mentality: Why Defense in Depth is the Bedrock of Cybersecurity | Abutalibov Umud | [Read More](https://medium.com/p/42eaba3c609b) |
-| Sun, 22 Feb 2026 16:26:00 GMT | The Silent Threat: How Ransomware is Evolving and What You Can Do | Indika Hiran Wiesinghe | [Read More](https://medium.com/p/d12be14331ed) |
