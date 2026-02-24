@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Feb 2026 11:55:25 GMT | Behind the Scenes: How Threat Monitoring Actually Works | JSOC IT BLOG | [Read More](https://medium.com/p/109f659bcc9e) |
+| Tue, 24 Feb 2026 11:43:21 GMT | Air Escaped— Love Shown In | Breathe & Be Still | [Read More](https://medium.com/p/87eec03806b8) |
+| Tue, 24 Feb 2026 11:40:08 GMT | Indian IT: Cycle or Change? | Growthvine Capital | [Read More](https://medium.com/p/c13e8adeaa9c) |
+| Tue, 24 Feb 2026 11:38:39 GMT | Designing Cloud Systems That Finance Teams Don’t Fight | Gautamkumar | [Read More](https://medium.com/p/e8443ee25280) |
+| Tue, 24 Feb 2026 11:37:37 GMT | Designing Cloud Systems That Finance Teams Don’t Fight | Gautam kumar | [Read More](https://medium.com/p/28c3e09821a3) |
+| Tue, 24 Feb 2026 11:31:36 GMT | Why traditional network security fails against modern attack paths | Gautamkumar | [Read More](https://medium.com/p/5448c3738011) |
+| Tue, 24 Feb 2026 11:30:16 GMT | Why traditional network security fails against modern attack paths | Gautam kumar | [Read More](https://medium.com/p/b362faf8fb94) |
+| Tue, 24 Feb 2026 11:26:00 GMT | A Bot Accused a Maintainer of Prejudice. Humans Sided With the Bot. | Can Artuc | [Read More](https://medium.com/p/91a7824d2ddb) |
+| Tue, 24 Feb 2026 11:24:37 GMT | DefectDojo: centralizando achados de segurança e mantendo histórico entre releases | Wallace Maia | [Read More](https://medium.com/p/b24ebeaa6899) |
+| Tue, 24 Feb 2026 11:22:10 GMT | Roadmap of machine learning for non-technical background explained | cyber security Updates | [Read More](https://medium.com/p/06f1900a646e) |
 | Tue, 24 Feb 2026 11:09:39 GMT | Enhancing Business Protection with Security Services | Managed Service Provider | [Read More](https://medium.com/p/2986875cd8ba) |
 | Tue, 24 Feb 2026 11:08:35 GMT | Bug Bounties Are the New Gold Rush (But Most Hunters Will Go Broke) | Joshua Certain | [Read More](https://medium.com/p/b896b58c337f) |
 | Tue, 24 Feb 2026 11:02:57 GMT | I made a mistake replying. | Margins of Mind | [Read More](https://medium.com/p/7c3b6c1fdb07) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Feb 2026 06:26:00 GMT | How to Pass CSA v2 Exam on First Attempt — My 91% Score Strategy | Abhinsubej | [Read More](https://medium.com/p/a7aace0051ec) |
 | Tue, 24 Feb 2026 06:24:56 GMT | How to Give Your AI Agent Access to Your Chrome Browser (And Why You Should Be Scared) | Sébastien Dubois | [Read More](https://medium.com/p/d39a391773fb) |
 | Tue, 24 Feb 2026 06:22:37 GMT | The AI That Controls the World: A Tech-Thriller Series (Part 1) | Chamindu Dilshan | [Read More](https://medium.com/p/4ea43c211d04) |
-| Tue, 24 Feb 2026 06:21:36 GMT | HTTP Headers Every Hacker Should Know: When One Header Breaks All Security | Nitin yadav | [Read More](https://medium.com/p/6531aece5d89) |
-| Tue, 24 Feb 2026 06:20:52 GMT | AoTR2 — Operation Winter Blackout — HackTheBox | Yrddry | [Read More](https://medium.com/p/b6f72a37a61e) |
-| Tue, 24 Feb 2026 06:20:43 GMT | Token Theft and Session Hijacking: The New Frontier of Identity Attacks | Cynox Security LLP. | [Read More](https://medium.com/p/dccce0cc625a) |
-| Tue, 24 Feb 2026 06:20:32 GMT | Cyber Threat Intelligence Neden Önemlidir? — CTI Toolları Serisine Giriş | kaanvardar | [Read More](https://medium.com/p/b9a62cb8e1c0) |
-| Tue, 24 Feb 2026 06:05:27 GMT | Wide OpenClaw: Abusing Loose Permissions for the Powerful AI Assistant | grepStrength | [Read More](https://medium.com/p/e18c4469c15b) |
-| Tue, 24 Feb 2026 05:57:31 GMT | What Is Tactical Threat Intelligence and Why Your Organization Needs It | Trust Consulting Services | [Read More](https://medium.com/p/c10170063d9c) |
-| Tue, 24 Feb 2026 05:56:50 GMT | Security Shutters in Melbourne: Why Are They Essential | Nebojsa Malenic | [Read More](https://medium.com/p/abf6a41a89ce) |
-| Tue, 24 Feb 2026 05:55:43 GMT | Claude Code Security Found 500 Vulnerabilities. A Smarter Scanner That Still Needs a Human. | Kaynat Muzaffar | [Read More](https://medium.com/p/ff2d145c73d6) |
-| Tue, 24 Feb 2026 05:50:04 GMT | Why CAPTCHA Is Killing Your AI Traffic (And What to Do Instead) | Bridge AI | [Read More](https://medium.com/p/ea1d6acae3be) |
-| Tue, 24 Feb 2026 05:35:08 GMT | 28bet 2026: Phân Tích Hệ Thống Bảo Mật Và Tiêu Chuẩn Công Nghệ Cá Cược Toàn Cầu | 報數十一員 | [Read More](https://medium.com/p/6b091741f85b) |
