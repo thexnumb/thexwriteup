@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Feb 2026 09:18:57 GMT | The Silent Sentinels: Why Global Data Centers are the Fortresses of Our Digital Lives | Ishitanagtilak | [Read More](https://medium.com/p/8b4eba4c21bb) |
+| Tue, 24 Feb 2026 09:18:27 GMT | The Evolution of Style Transfer: A Comprehensive Analysis of StyleDrop (2026) | Career Growth Notes | [Read More](https://medium.com/p/676a8347e59e) |
+| Tue, 24 Feb 2026 09:17:36 GMT | How Agentic AI Ensures Data Privacy and Security - Ascendion | Ascendion | [Read More](https://medium.com/p/5bd9ae2506c5) |
+| Tue, 24 Feb 2026 09:15:16 GMT | How to Unblock WhatsApp Calls in the UAE (2026 Full Guide) | Sergey Blinov | [Read More](https://medium.com/p/a4596b6267ee) |
+| Tue, 24 Feb 2026 09:10:42 GMT | Innovation is the New Arms Race | The Singularity Group | [Read More](https://medium.com/p/0e178a450cb0) |
+| Tue, 24 Feb 2026 09:08:33 GMT | Strengthen Cyber Resilience with the Right Security Orchestration, Automation, and Response… | Gauri Kale | [Read More](https://medium.com/p/da0a9182a5b4) |
+| Tue, 24 Feb 2026 09:06:25 GMT | CORS vulnerability with trusted insecure protocols | Ⓥ | [Read More](https://medium.com/p/72090f53053b) |
+| Tue, 24 Feb 2026 09:06:00 GMT | Multistep clickjacking | Ⓥ | [Read More](https://medium.com/p/ced9cab49d73) |
+| Tue, 24 Feb 2026 09:01:54 GMT | iOS 9.3.5 Security Research & Penetration Testing | aadhil m | [Read More](https://medium.com/p/afb28033a330) |
+| Tue, 24 Feb 2026 09:01:01 GMT | The Madness of Hidden Overtime | Beyond Monday | [Read More](https://medium.com/p/7855daf7a001) |
+| Tue, 24 Feb 2026 09:01:01 GMT | What One Infected Laptop Reveals About Your Entire Company | Alexandre Vandamme | [Read More](https://medium.com/p/55f835d1f54f) |
+| Tue, 24 Feb 2026 08:57:00 GMT | Getting The Full Picture of The Web Server Infrastructure in Cyber Security Based on WSTG | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/1bef29073291) |
+| Tue, 24 Feb 2026 08:54:49 GMT | Why Agentic AI Forces a Rethink of Enterprise Security and Compliance | Karthik Subramanian | [Read More](https://medium.com/p/8873bc243126) |
+| Tue, 24 Feb 2026 08:54:04 GMT | Securing the AI Frontier: The CISO’s Guide for Enterprise Model Context Protocol (MCP) Enablement | Tom Croll | [Read More](https://medium.com/p/793e58a0f838) |
+| Tue, 24 Feb 2026 08:52:44 GMT | Your LLM Is Not Safe Yet: How to Build Proper Guardrails | Aju John | [Read More](https://medium.com/p/78efae7ad17f) |
+| Tue, 24 Feb 2026 08:48:59 GMT | 5 Compliance Certifications That Make NetSuite Third Party Audit-Ready | Linkederp | [Read More](https://medium.com/p/31c760d0f9ee) |
+| Tue, 24 Feb 2026 08:41:28 GMT | A Practical Guide to Microsoft 365 Licensing for IT and Business Leaders | Allan Banday | [Read More](https://medium.com/p/33b21ed46608) |
+| Tue, 24 Feb 2026 08:31:21 GMT | Why Canadian Businesses Need a Cybersecurity Posture — Not Just Tools | infosprint technologies | [Read More](https://medium.com/p/6d67dcc59e98) |
+| Tue, 24 Feb 2026 08:31:00 GMT | Vulnerabilities of CI/CD | Aniket Deshmukh | [Read More](https://medium.com/p/bc0d0c619bda) |
+| Tue, 24 Feb 2026 08:21:02 GMT | Why Is It Important to Follow a Recognized Pentesting Methodology | Hacker’s View on Cybersecurity | [Read More](https://medium.com/p/79532e905f88) |
+| Tue, 24 Feb 2026 08:19:38 GMT | The 2026 Ghost Protocol: Why Your Passwords Are Already Obsolete | Th4_Pr3acher | [Read More](https://medium.com/p/9c630bad43ed) |
+| Tue, 24 Feb 2026 08:07:26 GMT | 10 macOS Security Features That Protect You 24/7 | Zeeshan Saghir | [Read More](https://medium.com/p/fc06f98e374d) |
 | Tue, 24 Feb 2026 07:59:29 GMT | Task Week 2 (LABS: HackTheBox) | Romadhona Fitri | [Read More](https://medium.com/p/f4a28ca8e93b) |
 | Tue, 24 Feb 2026 07:50:46 GMT | Conduent Data Breach: 25+ Million Americans Impacted in One of the Largest U.S. Cyber Incidents | Sohan Kanna D | [Read More](https://medium.com/p/d0928a08f8da) |
 | Tue, 24 Feb 2026 07:50:26 GMT | Unlock the Superpower of Digital Investigation: Launching Cyber Strike & Operation Cyber Shield… | Paras Jangra | [Read More](https://medium.com/p/3bda04ef3588) |
@@ -39,6 +61,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Feb 2026 06:53:18 GMT | Securing Azure Storage Accounts with Private Endpoints, A Hands-On AZ-500 Lab | Amal Udayanga Basnayake | [Read More](https://medium.com/p/ea657f2defa5) |
 | Tue, 24 Feb 2026 06:52:34 GMT | SITUS WEB ONLINE TERPERCAYA 2026 | Kayulaut | [Read More](https://medium.com/p/5e3cb58ad92e) |
 | Tue, 24 Feb 2026 06:43:30 GMT | DOM XSS: When JavaScript Becomes the Vulnerability | Issan | [Read More](https://medium.com/p/887cc0dee69f) |
+| Tue, 24 Feb 2026 06:42:50 GMT | How AI Became the Operator: Inside the First Known AI-Orchestrated Cyber Espionage Campaign… | Zusss | [Read More](https://medium.com/p/576fd71ea852) |
 | Tue, 24 Feb 2026 06:38:51 GMT | How to Prevent SQL Injection in Modern Applications | Mark L. Hill | [Read More](https://medium.com/p/78d8b82142db) |
 | Tue, 24 Feb 2026 06:36:56 GMT | How Secure Web Apps Build Customer Trust and Compliance | Sameer Khandelwal | [Read More](https://medium.com/p/65bb61b84890) |
 | Tue, 24 Feb 2026 06:35:19 GMT | What is a Private Branch Exchange (PBX)? | Doris William | [Read More](https://medium.com/p/7e315e1f64ba) |
@@ -49,6 +72,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Feb 2026 06:21:36 GMT | HTTP Headers Every Hacker Should Know: When One Header Breaks All Security | Nitin yadav | [Read More](https://medium.com/p/6531aece5d89) |
 | Tue, 24 Feb 2026 06:20:52 GMT | AoTR2 — Operation Winter Blackout — HackTheBox | Yrddry | [Read More](https://medium.com/p/b6f72a37a61e) |
 | Tue, 24 Feb 2026 06:20:43 GMT | Token Theft and Session Hijacking: The New Frontier of Identity Attacks | Cynox Security LLP. | [Read More](https://medium.com/p/dccce0cc625a) |
+| Tue, 24 Feb 2026 06:20:32 GMT | Cyber Threat Intelligence Neden Önemlidir? — CTI Toolları Serisine Giriş | kaanvardar | [Read More](https://medium.com/p/b9a62cb8e1c0) |
 | Tue, 24 Feb 2026 06:05:27 GMT | Wide OpenClaw: Abusing Loose Permissions for the Powerful AI Assistant | grepStrength | [Read More](https://medium.com/p/e18c4469c15b) |
 | Tue, 24 Feb 2026 05:57:31 GMT | What Is Tactical Threat Intelligence and Why Your Organization Needs It | Trust Consulting Services | [Read More](https://medium.com/p/c10170063d9c) |
 | Tue, 24 Feb 2026 05:56:50 GMT | Security Shutters in Melbourne: Why Are They Essential | Nebojsa Malenic | [Read More](https://medium.com/p/abf6a41a89ce) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Feb 2026 02:11:51 GMT | Tuesday Morning Threat Report: Feb 24, 2026 | Mark Maguire | [Read More](https://medium.com/p/1bcbea47d9b0) |
 | Tue, 24 Feb 2026 02:09:30 GMT | AI Pentesting—A New Career Path in Offensive Security | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/01ea1e128cc8) |
 | Tue, 24 Feb 2026 01:58:20 GMT | LLM02:2025 — Sensitive Information Disclosure Explained | Cyber-AppSec | [Read More](https://medium.com/p/632cf85af439) |
-| Tue, 24 Feb 2026 01:47:33 GMT | Some Nights, You Don’t Cry. You Just Notice. | Unspokenby.P | [Read More](https://medium.com/p/5dbc3799687b) |
-| Tue, 24 Feb 2026 01:45:44 GMT | Vulnhub: Book-Shelf: 1 Walkthrough | Antonio | [Read More](https://medium.com/p/c87f88f3a783) |
-| Tue, 24 Feb 2026 01:33:14 GMT | Protecting Your Online Business from Scams | Hugh Bembridge | [Read More](https://medium.com/p/d01f5325cb21) |
-| Tue, 24 Feb 2026 01:24:59 GMT | JWT — Json web token | Sudha Rajamanickam | [Read More](https://medium.com/p/7996463610c1) |
-| Tue, 24 Feb 2026 00:58:07 GMT | How SQL + Vector Search Is Redefining Data Platforms | Sruthi | [Read More](https://medium.com/p/8093cc4e0ad9) |
-| Tue, 24 Feb 2026 00:37:49 GMT | The Great AI Heist: Why Elon Musk is Calling Anthropic “Hypocritical” Over Stolen Data | Aaron | [Read More](https://medium.com/p/c59fcee0b123) |
-| Tue, 24 Feb 2026 00:35:03 GMT | Hacking only with cmd and powershell baby | Nexamos | [Read More](https://medium.com/p/3e34d95b4916) |
-| Tue, 24 Feb 2026 00:29:54 GMT | AI + PQC at the Core of Mytier’s Security Architecture | sengom | [Read More](https://medium.com/p/56ee6c1e7db0) |
-| Tue, 24 Feb 2026 00:23:29 GMT | Docker is an Illusion: Building a Container from Scratch in C | iygoktas | [Read More](https://medium.com/p/8d10443ee8f0) |
-| Tue, 24 Feb 2026 00:23:00 GMT | Cryptographic Agility in the Quantum Era | sengom | [Read More](https://medium.com/p/1053b82830c9) |
-| Tue, 24 Feb 2026 00:07:08 GMT | How a Single Exported ContentProvider Can Break an Entire Application’s Security Model | Seif Ahmed Abdelaal | [Read More](https://medium.com/p/924176b916f9) |
-| Tue, 24 Feb 2026 00:06:38 GMT | deterministic agent security at ms scale: lilith-zero | 1ron | [Read More](https://medium.com/p/ab6bff4c3ff0) |
-| Tue, 24 Feb 2026 00:01:16 GMT | I spent $11. In Ai Agent to recon and exploit | Ahmad A Abdulla | [Read More](https://medium.com/p/420150376557) |
-| Tue, 24 Feb 2026 00:01:01 GMT | Guía de Hakrawler: Rastreo Web Ultra Rápido para Bug Hunting y Recon | JPablo13 | [Read More](https://medium.com/p/915889ad2e77) |
-| Mon, 23 Feb 2026 23:46:27 GMT | Deleting an Admin Isn’t Enough: A Broken Access Control Case | Zyad Ibrahim | [Read More](https://medium.com/p/e82d9f2ac002) |
-| Mon, 23 Feb 2026 23:45:41 GMT | I Hacked Google With Just 9 Search Methods | Deep concept | [Read More](https://medium.com/p/019b8a95b065) |
-| Mon, 23 Feb 2026 23:39:50 GMT | Beyond RBAC: Scaling AWS Security with Attribute-Based Access Control (ABAC) | Niraj Kumar | [Read More](https://medium.com/p/10f6ae08e0c7) |
-| Mon, 23 Feb 2026 23:25:09 GMT | WingData — HTB - Season 10 | Youssef Hussein | [Read More](https://medium.com/p/0df18ac61cae) |
-| Mon, 23 Feb 2026 23:20:20 GMT | # Approaching Firmware Security Assessments: From Interface Identification to Vulnerability… | Marwan Atia | [Read More](https://medium.com/p/fb5675bd472d) |
-| Mon, 23 Feb 2026 23:17:33 GMT | Network Scanning with Scapy: A Beginner’s Guide to ICMP Scanning | Eddie Artis Jr. | [Read More](https://medium.com/p/9a57f22edb11) |
-| Mon, 23 Feb 2026 23:09:22 GMT | Understanding AI Security — Part 2 — Authentication & Authorisation | Avinash Vishwakumar | [Read More](https://medium.com/p/81863046e87f) |
-| Mon, 23 Feb 2026 23:01:41 GMT | How I Finally Bypass the Banking App Root Detection in Android | Sahil LyfetAstic | [Read More](https://medium.com/p/ec8fa39bef28) |
-| Mon, 23 Feb 2026 22:58:56 GMT | Analysis of CMMC v. 2.0 for SMBs | Cade DeBoe | [Read More](https://medium.com/p/f2a2b4e56132) |
-| Mon, 23 Feb 2026 22:52:24 GMT | What to Expect from AI in 2026: Q&A with William Marcellino | RAND | [Read More](https://medium.com/p/73f2b583ee48) |
