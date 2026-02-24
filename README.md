@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Feb 2026 04:28:50 GMT | What is Phishing Attack? A Beginner’s Guide to Stay Safe Online | Yogesh Mali | [Read More](https://medium.com/p/45d148c9bad9) |
+| Tue, 24 Feb 2026 04:25:47 GMT | Cloud-Based Password Managers Share a Hidden Weakness | Tomas Bucek | [Read More](https://medium.com/p/b70bd7a4f030) |
+| Tue, 24 Feb 2026 04:25:30 GMT | The Abstraction Cascade | Michael Schroeder | [Read More](https://medium.com/p/52e7d28ef44f) |
+| Tue, 24 Feb 2026 04:23:11 GMT | CIPP/E Certification 2025: New Exam Pattern, Updated Topics, and Preparation Guide | InfosecTrain | [Read More](https://medium.com/p/3ab969995ee7) |
+| Tue, 24 Feb 2026 04:11:49 GMT | Enhance Account Security and Management with PVACreator's Automation Tools | Thomasjuan | [Read More](https://medium.com/p/ac84deb4d8e3) |
+| Tue, 24 Feb 2026 04:11:04 GMT | Axiom vs. Method of Access in AI Era: A Paradigm Shift in IP Law | Supat Charoensappuech | [Read More](https://medium.com/p/de0f661e80b6) |
+| Tue, 24 Feb 2026 04:09:52 GMT | Deobfuscating Weaponized LNKs: HTB Sherlocks “A Call from the Museum” Write-up | Allif Maulana Sakti | [Read More](https://medium.com/p/be27833be407) |
+| Tue, 24 Feb 2026 04:09:11 GMT | Beyond the Jump Box: Why the Bastion Host is Now a Legacy Pattern | Rushikesh Nikam | [Read More](https://medium.com/p/f0a2f2d90f40) |
+| Tue, 24 Feb 2026 03:46:54 GMT | Damn Shame | Mina Kazimierczak | [Read More](https://medium.com/p/c5c18228430e) |
+| Tue, 24 Feb 2026 03:35:15 GMT | Automated Guardrails in Cybersecurity: How to Enforce Security Without Slowing Down Innovation | Dennis Duke | [Read More](https://medium.com/p/e397e710bb5d) |
+| Tue, 24 Feb 2026 03:35:11 GMT | The World’s Most Secure Operating System: Qubes OS | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/859f390cb7e0) |
+| Tue, 24 Feb 2026 03:32:09 GMT | Become a Sponsor on Cyber Kalki Matrix — Permanent Visibility in the Cyber Kalki Intelligence… | ElonMuskTheAntichrist | [Read More](https://medium.com/p/82567a8507fe) |
+| Tue, 24 Feb 2026 02:59:46 GMT | From Reactive to Autonomous Defense: Multi-Agent AI in Brokerage Security | Ashmitha Nagraj | [Read More](https://medium.com/p/c0e4b2d84b8a) |
+| Tue, 24 Feb 2026 02:54:26 GMT | Most Code Reviews Are Theater | The Dev Notebook | [Read More](https://medium.com/p/f7d4b7149772) |
+| Tue, 24 Feb 2026 02:41:36 GMT | Recon? Fuzzing? Exploitation? No just a web sec write-up. | 123456789uwu | [Read More](https://medium.com/p/58ff5f992611) |
+| Tue, 24 Feb 2026 02:34:29 GMT | Intigriti Challenge 0226 : Stored XSS & CSP Bypass | Achraf (@40rbidd3n) | [Read More](https://medium.com/p/a8d65a55631f) |
+| Tue, 24 Feb 2026 02:31:01 GMT | The Ultimate Public Crime Scene: Why Web3 Hackers Don’t Need Server Logs | Tabrez Mukadam | [Read More](https://medium.com/p/4d4589ff8f85) |
+| Tue, 24 Feb 2026 02:26:01 GMT | XSS Challenge Walkthrough — Time Out! | sh4d0wpkt | [Read More](https://medium.com/p/6b00084f03fb) |
+| Tue, 24 Feb 2026 02:23:07 GMT | 12 Seconds Is All You Need to Take a Summarized Note!! | Alareqi | [Read More](https://medium.com/p/ce195626732e) |
 | Tue, 24 Feb 2026 02:22:02 GMT | From Semantics to Unified Spiderweb Fields | Supat Charoensappuech | [Read More](https://medium.com/p/154d43b170c3) |
 | Tue, 24 Feb 2026 02:11:51 GMT | Tuesday Morning Threat Report: Feb 24, 2026 | Mark Maguire | [Read More](https://medium.com/p/1bcbea47d9b0) |
 | Tue, 24 Feb 2026 02:09:30 GMT | AI Pentesting—A New Career Path in Offensive Security | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/01ea1e128cc8) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Feb 2026 17:59:26 GMT | Built to Doubt: The Adoptee’s Lifelong Struggle with Trust | MS | [Read More](https://medium.com/p/8f8cd06448e6) |
 | Mon, 23 Feb 2026 17:57:11 GMT | Red Team Weapon: RapidDNS CLI + Nuclei/Httpx for Automated Vulnerability Mining Pipeline | rapiddns | [Read More](https://medium.com/p/c903ba691dc7) |
 | Mon, 23 Feb 2026 17:51:22 GMT | Offensive Security, Red Team & Pentest: Você Não Entende Nenhum dos Três | Sp1d3rM | [Read More](https://medium.com/p/6fdd27ff0000) |
-| Mon, 23 Feb 2026 17:44:57 GMT | The Ghost in the Browser: Why Cookies are a Hacker’s Favorite Snack | XCyber | [Read More](https://medium.com/p/862de5b6bb77) |
-| Mon, 23 Feb 2026 17:43:03 GMT | CVE-2025–15556 分析：Notepad++ 的供應鏈攻擊與防禦策略 | segalee | [Read More](https://medium.com/p/9d0e0a5f4444) |
-| Mon, 23 Feb 2026 17:40:45 GMT | Exposed and Unseen: How Public Social Media Profiles Put Women at Risk of Cybercrime | Sonali Punchihewa | [Read More](https://medium.com/p/97059dfa62b2) |
-| Mon, 23 Feb 2026 17:38:25 GMT | Beyond Recon: Mastering Authentication Logic in Bug Bounty | ghostyjoe | [Read More](https://medium.com/p/9be065e13ea7) |
-| Mon, 23 Feb 2026 17:36:51 GMT | DevSecOps for Infrastructure as Code: Securing Terraform from Code to Cloud | Adityakadambari | [Read More](https://medium.com/p/d111cc4736f5) |
-| Mon, 23 Feb 2026 17:36:44 GMT | Bleeding the XFS: Anatomy of ATM Jackpotting | Dion Mulaj | [Read More](https://medium.com/p/cb8f9ef4c555) |
-| Mon, 23 Feb 2026 17:34:05 GMT | Introduction to Cross‑Platform Development | 23DA2-0515 M.I.M. Amhar | [Read More](https://medium.com/p/257a229cd9b6) |
-| Mon, 23 Feb 2026 17:33:27 GMT | JavaScript: Simple Demo (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/233894c7ff9b) |
-| Mon, 23 Feb 2026 17:31:00 GMT | Why Most Startups Fail Their First Enterprise Security Review (Backed by Data) | Abhishek Pahuja | [Read More](https://medium.com/p/d164f334c218) |
-| Mon, 23 Feb 2026 17:25:52 GMT | From Basic Technical Knowledge to Thinking Like an Attacker: My Early Journey in AI Security | Akshatm | [Read More](https://medium.com/p/5990193a1e9d) |
-| Mon, 23 Feb 2026 17:24:05 GMT | GTFOBins Explained: How Legitimate Linux Tools Become Powerful Attack Vectors | Sidhantchaurasiya | [Read More](https://medium.com/p/ff561228d015) |
-| Mon, 23 Feb 2026 17:23:57 GMT | How to Opt-Out of BeenVerified (2026 Complete Guide) | Founder at DataEgress | [Read More](https://medium.com/p/19accb2ba9f7) |
-| Mon, 23 Feb 2026 17:21:59 GMT | How to Remove Your Info from Intelius (2026 Privacy Guide) | Founder at DataEgress | [Read More](https://medium.com/p/392ee3706759) |
-| Mon, 23 Feb 2026 17:20:24 GMT | Lab: Blind SQL injection with conditional responses - PortSwigger | Samiul Quoreshi Sourav | [Read More](https://medium.com/p/9a6f1bb5328e) |
-| Mon, 23 Feb 2026 17:16:17 GMT | Tired of spam calls? AI Tools That Block Scammers Instantly | NextGen AI Hub | [Read More](https://medium.com/p/a0598f2df318) |
-| Mon, 23 Feb 2026 17:06:00 GMT | 4 Family Secrets You Should Never Reveal to Your Relatives | Kay Young | [Read More](https://medium.com/p/568fa84d8736) |
-| Mon, 23 Feb 2026 17:05:59 GMT | Cheesy Does it writeup (Business Logic flaw)(Bugforge) | 7s26Simon | [Read More](https://medium.com/p/1fdcc7948875) |
-| Mon, 23 Feb 2026 17:03:06 GMT | One Invite Endpoint, One Race Condition — 4 Bugs Later | Raslanco | [Read More](https://medium.com/p/b48de71b280c) |
-| Mon, 23 Feb 2026 17:02:56 GMT | Why Modern IT Solutions for Government Are Critical for Digital Transformation | Pradhabini | [Read More](https://medium.com/p/7fa8dae54b13) |
