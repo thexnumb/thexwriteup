@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Feb 2026 23:17:24 GMT | CAPTCHApocalypse writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/a1b82a1d4fc0) |
+| Tue, 24 Feb 2026 23:07:19 GMT | AoTR2 WRITEUP | Elsandro Rivalito | [Read More](https://medium.com/p/a50f5ddc68f9) |
+| Tue, 24 Feb 2026 23:01:09 GMT | A Step-by-Step Guide to Uncovering Vulnerabilities in a Mobile App | Ahmad A Abdulla | [Read More](https://medium.com/p/5a6b05e6b23b) |
+| Tue, 24 Feb 2026 22:57:58 GMT | Intigriti February 2026 Challenge - CTF Write-up | roguenull | [Read More](https://medium.com/p/33b7dbc17264) |
+| Tue, 24 Feb 2026 22:54:42 GMT | Become a Defender (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/0ff941964384) |
+| Tue, 24 Feb 2026 22:54:32 GMT | A New Era for Global Cybersecurity Governance: The UN’s “Global Mechanism” Launches in 2026 | CCD-IS | [Read More](https://medium.com/p/44910e57fbb5) |
+| Tue, 24 Feb 2026 22:49:54 GMT | Building an Event-Driven Automation Engine to Eliminate Repetitive Operations | Olawale Aro | [Read More](https://medium.com/p/ef3d85716293) |
+| Tue, 24 Feb 2026 22:45:51 GMT | You Probably Installed Something Dangerous Last Week. (You Just Don’t Know It Yet) | Joshua Certain | [Read More](https://medium.com/p/f8405b365d5b) |
+| Tue, 24 Feb 2026 22:44:27 GMT | Zero Audit Findings: What 5 Years in Cybersecurity Taught Me About Third-Party Risk | Srinija Puvvula | [Read More](https://medium.com/p/248ad6857e2d) |
+| Tue, 24 Feb 2026 22:43:17 GMT | I stopped eating apples: My Journey to DFIR | Precious Odediran | [Read More](https://medium.com/p/c6447e538177) |
 | Tue, 24 Feb 2026 22:35:07 GMT | Command and Control (C2) Frameworks | Allen Ace | [Read More](https://medium.com/p/99a58f87fae8) |
 | Tue, 24 Feb 2026 22:33:23 GMT | Configuration and Deployment Management Testing | Diva Rizky Alfitrah | [Read More](https://medium.com/p/1dd501944f73) |
 | Tue, 24 Feb 2026 22:24:44 GMT | What a Cyberpsychologist Sees When You Open Instagram | Michael Davis | [Read More](https://medium.com/p/c41ad2f116b4) |
@@ -103,13 +113,3 @@ Exploring Semantic Methods + Alphabet… | Rahul_M | [Read More](https://medium.
 | Tue, 24 Feb 2026 16:02:16 GMT | PHP LOGIN SECURITY — “Things I Must Never Forget” | gixs | [Read More](https://medium.com/p/bd67d2cae005) |
 | Tue, 24 Feb 2026 15:49:45 GMT | Understanding Safe Darkweb Browsing Tips: Privacy, Risk & Reality | Tor BBB | [Read More](https://medium.com/p/acfdc55ed342) |
 | Tue, 24 Feb 2026 15:49:34 GMT | Handling Security & Error Handling in React Applications (Production Guide) | shahrukh akhter | [Read More](https://medium.com/p/99bb27d4d659) |
-| Tue, 24 Feb 2026 15:47:49 GMT | Lavarand: A Mind-Bending Application for a Classic Symbol of the 1960s | Harlan Brothers | [Read More](https://medium.com/p/a075741bc0cd) |
-| Tue, 24 Feb 2026 15:46:40 GMT | Web Application Penetration Test on Zero Bank (OWASP Top 10–2025 Aligned) | Kartheeksaibalaga | [Read More](https://medium.com/p/617d99ece7f0) |
-| Tue, 24 Feb 2026 15:46:00 GMT | CISA Flags Dell RecoverPoint Zero-Day: Backup Systems as the New Beachhead | Wes Young | [Read More](https://medium.com/p/67b0b521b235) |
-| Tue, 24 Feb 2026 15:45:42 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/0797504da7ea) |
-| Tue, 24 Feb 2026 15:43:09 GMT | Building an Asynchronous Notification Service on GCP | Ag2004 | [Read More](https://medium.com/p/2568e0bfbd13) |
-| Tue, 24 Feb 2026 15:42:08 GMT | Passkeys in Keycloak: A Practical Migration Guide | Florian Röser | [Read More](https://medium.com/p/b70922440b8f) |
-| Tue, 24 Feb 2026 15:38:14 GMT | Identity Is the New SOC: Why Security Monitoring Is Shifting to IAM | Sunnysinha | [Read More](https://medium.com/p/8b34622deadc) |
-| Tue, 24 Feb 2026 15:35:23 GMT | ZinadIT CTF 2026 — Calc&Broken Reversing | VampireXRay | [Read More](https://medium.com/p/2f28052a0cbd) |
-| Tue, 24 Feb 2026 15:30:49 GMT | PayPal’s Silent Data Leak: The 6-Month Security Failure Nobody Noticed | Hartarto | [Read More](https://medium.com/p/ef5211a1997c) |
-| Tue, 24 Feb 2026 15:18:22 GMT | I Wish We Understood That Being ‘Cool’ Costs You Depth | LSD | [Read More](https://medium.com/p/5c57581b181e) |
