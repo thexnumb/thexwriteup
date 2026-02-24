@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Feb 2026 02:22:02 GMT | From Semantics to Unified Spiderweb Fields | Supat Charoensappuech | [Read More](https://medium.com/p/154d43b170c3) |
+| Tue, 24 Feb 2026 02:11:51 GMT | Tuesday Morning Threat Report: Feb 24, 2026 | Mark Maguire | [Read More](https://medium.com/p/1bcbea47d9b0) |
+| Tue, 24 Feb 2026 02:09:30 GMT | AI Pentesting—A New Career Path in Offensive Security | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/01ea1e128cc8) |
+| Tue, 24 Feb 2026 01:58:20 GMT | LLM02:2025 — Sensitive Information Disclosure Explained | Cyber-AppSec | [Read More](https://medium.com/p/632cf85af439) |
+| Tue, 24 Feb 2026 01:47:33 GMT | Some Nights, You Don’t Cry. You Just Notice. | Unspokenby.P | [Read More](https://medium.com/p/5dbc3799687b) |
+| Tue, 24 Feb 2026 01:45:44 GMT | Vulnhub: Book-Shelf: 1 Walkthrough | Antonio | [Read More](https://medium.com/p/c87f88f3a783) |
+| Tue, 24 Feb 2026 01:33:14 GMT | Protecting Your Online Business from Scams | Hugh Bembridge | [Read More](https://medium.com/p/d01f5325cb21) |
+| Tue, 24 Feb 2026 01:24:59 GMT | JWT — Json web token | Sudha Rajamanickam | [Read More](https://medium.com/p/7996463610c1) |
+| Tue, 24 Feb 2026 00:58:07 GMT | How SQL + Vector Search Is Redefining Data Platforms | Sruthi | [Read More](https://medium.com/p/8093cc4e0ad9) |
+| Tue, 24 Feb 2026 00:37:49 GMT | The Great AI Heist: Why Elon Musk is Calling Anthropic “Hypocritical” Over Stolen Data | Aaron | [Read More](https://medium.com/p/c59fcee0b123) |
+| Tue, 24 Feb 2026 00:35:03 GMT | Hacking only with cmd and powershell baby | Nexamos | [Read More](https://medium.com/p/3e34d95b4916) |
+| Tue, 24 Feb 2026 00:29:54 GMT | AI + PQC at the Core of Mytier’s Security Architecture | sengom | [Read More](https://medium.com/p/56ee6c1e7db0) |
+| Tue, 24 Feb 2026 00:23:29 GMT | Docker is an Illusion: Building a Container from Scratch in C | iygoktas | [Read More](https://medium.com/p/8d10443ee8f0) |
+| Tue, 24 Feb 2026 00:23:00 GMT | Cryptographic Agility in the Quantum Era | sengom | [Read More](https://medium.com/p/1053b82830c9) |
+| Tue, 24 Feb 2026 00:07:08 GMT | How a Single Exported ContentProvider Can Break an Entire Application’s Security Model | Seif Ahmed Abdelaal | [Read More](https://medium.com/p/924176b916f9) |
+| Tue, 24 Feb 2026 00:06:38 GMT | deterministic agent security at ms scale: lilith-zero | 1ron | [Read More](https://medium.com/p/ab6bff4c3ff0) |
+| Tue, 24 Feb 2026 00:01:16 GMT | I spent $11. In Ai Agent to recon and exploit | Ahmad A Abdulla | [Read More](https://medium.com/p/420150376557) |
+| Tue, 24 Feb 2026 00:01:01 GMT | Guía de Hakrawler: Rastreo Web Ultra Rápido para Bug Hunting y Recon | JPablo13 | [Read More](https://medium.com/p/915889ad2e77) |
+| Mon, 23 Feb 2026 23:46:27 GMT | Deleting an Admin Isn’t Enough: A Broken Access Control Case | Zyad Ibrahim | [Read More](https://medium.com/p/e82d9f2ac002) |
+| Mon, 23 Feb 2026 23:45:41 GMT | I Hacked Google With Just 9 Search Methods | Deep concept | [Read More](https://medium.com/p/019b8a95b065) |
 | Mon, 23 Feb 2026 23:39:50 GMT | Beyond RBAC: Scaling AWS Security with Attribute-Based Access Control (ABAC) | Niraj Kumar | [Read More](https://medium.com/p/10f6ae08e0c7) |
 | Mon, 23 Feb 2026 23:25:09 GMT | WingData — HTB - Season 10 | Youssef Hussein | [Read More](https://medium.com/p/0df18ac61cae) |
 | Mon, 23 Feb 2026 23:20:20 GMT | # Approaching Firmware Security Assessments: From Interface Identification to Vulnerability… | Marwan Atia | [Read More](https://medium.com/p/fb5675bd472d) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Feb 2026 17:05:59 GMT | Cheesy Does it writeup (Business Logic flaw)(Bugforge) | 7s26Simon | [Read More](https://medium.com/p/1fdcc7948875) |
 | Mon, 23 Feb 2026 17:03:06 GMT | One Invite Endpoint, One Race Condition — 4 Bugs Later | Raslanco | [Read More](https://medium.com/p/b48de71b280c) |
 | Mon, 23 Feb 2026 17:02:56 GMT | Why Modern IT Solutions for Government Are Critical for Digital Transformation | Pradhabini | [Read More](https://medium.com/p/7fa8dae54b13) |
-| Mon, 23 Feb 2026 16:57:42 GMT | Unsafe Deserialization in Ruby Background Workers Leading to Deterministic Remote Code Execution | NullSecurityX | [Read More](https://medium.com/p/63d216ac107a) |
-| Mon, 23 Feb 2026 16:52:03 GMT | Hack 108: Reviving the Hacker Spirit in the Corporate World | ᴅᴀɴ ᴋᴏʀᴏᴠᴛᴄʜ | [Read More](https://medium.com/p/fe544d5ab8c5) |
-| Mon, 23 Feb 2026 16:49:41 GMT | Professional Security Services in the UK for Corporate & Commercial Clients | Rapport Security | [Read More](https://medium.com/p/56afcdddff82) |
-| Mon, 23 Feb 2026 16:43:14 GMT | Malware Analysis: .NET Dropper and Encrypted UPX-Packed Infostealer (Salat Stealer) | Hack(IT)Sec | [Read More](https://medium.com/p/c5b6b5c49e8c) |
-| Mon, 23 Feb 2026 16:41:22 GMT | Turning Threat Intelligence into Bug Bounty Gold: A Practical Workflow | Iski | [Read More](https://medium.com/p/e5f36fbf1552) |
-| Mon, 23 Feb 2026 16:39:25 GMT | When length - 32 Goes Negative: A Small Check, Real Memory Bug in wolfSSL | MostReal | [Read More](https://medium.com/p/3233d28e5f52) |
-| Mon, 23 Feb 2026 16:24:20 GMT | Google Suspends OpenClaw Accounts Amid Malware Abuse-What Security Teams Must Know | Chetan Seripally | [Read More](https://medium.com/p/1775af69d73b) |
-| Mon, 23 Feb 2026 16:23:56 GMT | Web Applications Are Actually Tested Using SAST & DAST | kamal kalyan | [Read More](https://medium.com/p/f4e8ad661396) |
-| Mon, 23 Feb 2026 16:21:49 GMT | Operational Risk — What Quietly Shapes an Organization’s Stability | Sponamgi | [Read More](https://medium.com/p/ab34baf38dff) |
-| Mon, 23 Feb 2026 16:05:14 GMT | Membangun Sistem Monitoring Keamanan Terpusat Menggunakan Wazuh di Ubuntu dan Windows | Christopher Gilbert | [Read More](https://medium.com/p/598c92e82c53) |
-| Mon, 23 Feb 2026 16:00:16 GMT | The Solidity delete Trap: How a Simple Keyword Can Wipe Out a Protocol's Revenue | Hacker MD | [Read More](https://medium.com/p/1ebb7b7131ec) |
-| Mon, 23 Feb 2026 16:00:05 GMT | The Days We Feel Obliged to Be Fine” | Ebru | [Read More](https://medium.com/p/74e400aea06a) |
-| Mon, 23 Feb 2026 15:57:36 GMT | Expose Hidden Active Directory Risks with Ping Castle + Wazuh | SOCFortress | [Read More](https://medium.com/p/719f0b922224) |
-| Mon, 23 Feb 2026 15:57:21 GMT | This Free Tool Makes Windows 11 ALMOST Safe to Use — Take Back Your Privacy | Michael Swengel | [Read More](https://medium.com/p/c33be5fe3c1e) |
-| Mon, 23 Feb 2026 15:55:42 GMT | Behind the Breach: The Solarwinds Supply Chain Attack(Sunburst Malware) | Dorathy Christopher | [Read More](https://medium.com/p/f6b618849fae) |
-| Mon, 23 Feb 2026 15:53:45 GMT | OWASP LLM02:2025 Sensitive Information Disclosure | Harsh Kahate | [Read More](https://medium.com/p/4c68e39b4c56) |
-| Mon, 23 Feb 2026 15:52:39 GMT | Making Passwords Stronger Again — The Rainbow Secure Reinvention | Dr. Shashi Karhail | [Read More](https://medium.com/p/dbafca5be0ac) |
-| Mon, 23 Feb 2026 15:52:16 GMT | Breaking the Perimeter: Why Your Traditional Firewall is Useless in a Kubernetes World | Sourabhkumar | [Read More](https://medium.com/p/4844ab415b07) |
-| Mon, 23 Feb 2026 15:52:07 GMT | Why Small Businesses Need Advanced Security Beyond Locks | AlexBryn | [Read More](https://medium.com/p/49c3926427e9) |
-| Mon, 23 Feb 2026 15:51:31 GMT | The Truth Machine: How Blockchain Can Fight the AI Deepfake Crisis | Cynox Security LLP. | [Read More](https://medium.com/p/f59611ab2e30) |
