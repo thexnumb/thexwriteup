@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Feb 2026 20:44:50 GMT | Phantom Protocol (Razzify) . | mayhack | [Read More](https://medium.com/p/f4cb3ae40e20) |
+| Tue, 24 Feb 2026 20:31:00 GMT | Aglarin Dilini Cozmek: Nmap ile Ilk Adimlar | Zerioth Cypher Evidence | [Read More](https://medium.com/p/9e125c887075) |
+| Tue, 24 Feb 2026 20:26:00 GMT | When a Parent’s Pain Becomes Personal, Building Tech to Protect Kids Stops Being Just a Job | Cyber Dive | [Read More](https://medium.com/p/9722074e4bd8) |
+| Tue, 24 Feb 2026 20:25:17 GMT | The Personality Hire Who Accidentally Found Her People | Demetria Washington | [Read More](https://medium.com/p/48cf006647fc) |
+| Tue, 24 Feb 2026 20:20:22 GMT | Stop Fearing Anthropic’s Tools | Anil Jangra, MBA | [Read More](https://medium.com/p/1abe663c90a2) |
+| Tue, 24 Feb 2026 20:19:40 GMT | IP Banned: What to do if a website blocks your IP address? | OnlineProxy | [Read More](https://medium.com/p/06ef6b73d00a) |
+| Tue, 24 Feb 2026 20:19:39 GMT | Batman’s Kitchen CTF (BKCTF) 2026: web/My First Blog | Chimdi | [Read More](https://medium.com/p/818edfd22b0d) |
+| Tue, 24 Feb 2026 20:17:35 GMT | Batman’s Kitchen CTF (BKCTF) 2026: web/TinySQL | Chimdi | [Read More](https://medium.com/p/e4d394064448) |
+| Tue, 24 Feb 2026 20:15:24 GMT | Cisco Cybersecurity Module 1 (Part 2): Organizational Data, Security Layers, and Real-World Risks | Favour Ugochi Ogbonnaya | [Read More](https://medium.com/p/d7a6634586fa) |
+| Tue, 24 Feb 2026 20:11:29 GMT | Are Smart AI Security Cameras Worth It for Cedar Park Businesses? | TrueProtection | [Read More](https://medium.com/p/17f7ba1b0f09) |
+| Tue, 24 Feb 2026 20:01:34 GMT | My Cybersecurity Learning Journey — Day 1 | Favour ekeh onyinye | [Read More](https://medium.com/p/4e141fa740b7) |
+| Tue, 24 Feb 2026 19:49:30 GMT | Hogwarts: Names & Delegation | Jasvir Nagra | [Read More](https://medium.com/p/e5a47ab2a64f) |
+| Tue, 24 Feb 2026 19:47:07 GMT | AI Is Reviewing Your Code for Security Now — And That Changes Everything | Waeel Kheshfeh | [Read More](https://medium.com/p/8476e1eb985d) |
 | Tue, 24 Feb 2026 19:38:57 GMT | Why Information Systems Matter More Than Ever: A Simple Guide for Beginners | Sandaliranmini | [Read More](https://medium.com/p/6dd3ac25aee8) |
 | Tue, 24 Feb 2026 19:34:59 GMT | The Computer in Your Pocket is Your Biggest Vulnerability: A Guide to Mobile Hacking | Axoloth | [Read More](https://medium.com/p/6cc27e355c56) |
 | Tue, 24 Feb 2026 19:31:18 GMT | The Top AI Problem for CISOs | Matthew.Rosenquist | [Read More](https://medium.com/p/d95542d28963) |
@@ -36,12 +49,14 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Feb 2026 17:55:03 GMT | Breaking Authentication — Part 1 | ghostyjoe | [Read More](https://medium.com/p/672980a40f65) |
 | Tue, 24 Feb 2026 17:45:51 GMT | Public Today. Weaponized Tomorrow. | Hitesh Said | [Read More](https://medium.com/p/296a34ff45fb) |
 | Tue, 24 Feb 2026 17:42:03 GMT | Day 2: How AI Models Actually Learn and Why That Is the Root of Every Security Problem | Budhdi Sharma | [Read More](https://medium.com/p/e9222e77fcc1) |
+| Tue, 24 Feb 2026 17:37:32 GMT | Buy the Latest Release: “Intro to Cybersecurity: Don’t Be a Victim” | Dr Kimma Wreh | [Read More](https://medium.com/p/90c3532c4aec) |
 | Tue, 24 Feb 2026 17:37:23 GMT | Marketing Services for Private Equity: How Firms Build Durable Growth and Stronger Exits | Percepture | [Read More](https://medium.com/p/ef6f4ffbcb54) |
 | Tue, 24 Feb 2026 17:31:07 GMT | The Silent Threat: How Git History Becomes Your Biggest Liability | Mr.MELVIN | [Read More](https://medium.com/p/542622adf55d) |
 | Tue, 24 Feb 2026 17:30:32 GMT | Eduroam CAT Authentication Bypass: How Hundreds of Institutions were Vulnerable to a Single Exploit | Nahit Sogutlu | [Read More](https://medium.com/p/32e19580fd57) |
 | Tue, 24 Feb 2026 17:29:45 GMT | what is script kiddie | Kevin Ronex | [Read More](https://medium.com/p/7ac4ccd57218) |
 | Tue, 24 Feb 2026 17:28:09 GMT | Password Hashing | Ashutosh Dwivedi | [Read More](https://medium.com/p/d6f067886b64) |
 | Tue, 24 Feb 2026 17:27:58 GMT | Tokenomics as Security: How Incentive Design Prevents (or Enables) Exploits | Exploitless | [Read More](https://medium.com/p/4e52cd9453f9) |
+| Tue, 24 Feb 2026 17:25:52 GMT | AiTM Funny Looking Phishing Kits | Robert Gonzalez | [Read More](https://medium.com/p/2df0764ba368) |
 | Tue, 24 Feb 2026 17:21:05 GMT | We Built an Agent That Hacks Itself — Here’s What It Found | Nick Homyk | [Read More](https://medium.com/p/f22d40bb9cdc) |
 | Tue, 24 Feb 2026 17:17:03 GMT | Future of Cybersecurity: What to Expect After 2026 | Digital Defense | [Read More](https://medium.com/p/959bed1530ba) |
 | Tue, 24 Feb 2026 17:14:00 GMT | TryHackMe — Pentesting Fundamentals (Walkthrough) | Hudson Lois Marcus | [Read More](https://medium.com/p/35e50ffc59b1) |
@@ -56,6 +71,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Feb 2026 16:37:49 GMT | VulnHub: Tr0ll 2 Write-Up | Khaled Waleed (MrWayne) | [Read More](https://medium.com/p/b2ca4eecfa7f) |
 | Tue, 24 Feb 2026 16:35:03 GMT | When One Being Reaches for Another | Jeanettegardner | [Read More](https://medium.com/p/0fb401ad8879) |
 | Tue, 24 Feb 2026 16:19:14 GMT | Malware Analysis: payloadfinal.bin (Agent Tesla) | Cyd Tseng | [Read More](https://medium.com/p/c38cb9bc8c88) |
+| Tue, 24 Feb 2026 16:15:53 GMT | Ending Password Fatigue — Security Without Punishment | Dr. Shashi Karhail | [Read More](https://medium.com/p/dca12ecfdba5) |
 | Tue, 24 Feb 2026 16:12:34 GMT | “I Have Asset Nobody Knows About” Planning: A Safer Way to Document Hidden Wealth | InheritSafe | [Read More](https://medium.com/p/ee1294703faf) |
 | Tue, 24 Feb 2026 16:05:44 GMT | What is NoSQL Injection? | BinaryShield | [Read More](https://medium.com/p/68b410d58faa) |
 | Tue, 24 Feb 2026 16:02:16 GMT | PHP LOGIN SECURITY — “Things I Must Never Forget” | gixs | [Read More](https://medium.com/p/bd67d2cae005) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Feb 2026 14:23:43 GMT | Securing the Backbone — Issue #2: The Anatomy of a Software Supply Chain Attack — Case Studies &… | Eric Gallagher | [Read More](https://medium.com/p/4dc538669785) |
 | Tue, 24 Feb 2026 14:19:16 GMT | Smart Career Move: Online Cybersecurity Training for High-Paying Jobs in 2026 | Janbask Training | [Read More](https://medium.com/p/12c3507c6582) |
 | Tue, 24 Feb 2026 14:14:33 GMT | Wireshark — The Hacker’s Magnifying Glass | Dinesh V | [Read More](https://medium.com/p/d6d30877b066) |
-| Tue, 24 Feb 2026 13:57:50 GMT | Maravel-Framework lost another 3.7k rows of testing code | marius-ciclistu | [Read More](https://medium.com/p/a56624b035a5) |
-| Tue, 24 Feb 2026 13:55:55 GMT | Evil in Disguise: The Murder of Sasha Samsudean | True Scares & Real-Life Nightmares | [Read More](https://medium.com/p/4e6023615737) |
-| Tue, 24 Feb 2026 13:55:28 GMT | Which AI Model to Use in Pentesting / Security Research? | Sle3pyHead ‍ | [Read More](https://medium.com/p/3a74d55d9b7c) |
-| Tue, 24 Feb 2026 13:54:20 GMT | Security in Kubernetes — PART 1 | Sathvika B | [Read More](https://medium.com/p/54ccb06e6c19) |
-| Tue, 24 Feb 2026 13:52:28 GMT | Your Employees Are Your Biggest Security Risk. Here’s How To Fix That | Ajekigbe Michael. A | [Read More](https://medium.com/p/a2b712329cd4) |
-| Tue, 24 Feb 2026 13:48:27 GMT | How to Solve the Climate Crisis — Part 2 | Erik Kvam | [Read More](https://medium.com/p/647694d3b3ee) |
-| Tue, 24 Feb 2026 13:47:58 GMT | Hacker101 CTF — Postbook | Cyber-Rat | [Read More](https://medium.com/p/dcb7a449ca0f) |
-| Tue, 24 Feb 2026 13:46:29 GMT | Solving a Bugforge Challenge — Exploiting Business Logic Flaw in Cheesy Does It | Pranaya Shrestha | [Read More](https://medium.com/p/4db41a7f627b) |
-| Tue, 24 Feb 2026 13:40:11 GMT | Can CNAPP Become Intent-Aware? | mm | [Read More](https://medium.com/p/e04f0d086a1b) |
-| Tue, 24 Feb 2026 13:39:59 GMT | How Agentic AI is Redefining Autonomy: Governance, Risk, and the New Era of Automated… | Brian Haman, PhD | [Read More](https://medium.com/p/2f820d9243fb) |
-| Tue, 24 Feb 2026 13:34:45 GMT | When Intelligence Becomes Infrastructure | Tom Yonashiro | [Read More](https://medium.com/p/d9e82abc9d40) |
-| Tue, 24 Feb 2026 13:32:40 GMT | Why Industry Thinks SSE Is Academic | Peter Hillier/Halton | [Read More](https://medium.com/p/0e0cab1d27aa) |
-| Tue, 24 Feb 2026 13:31:00 GMT | The Chargeback and Return Fraud Surge: Key Search Trends Canadian Retailers Need to Know | SusTern Inc. | [Read More](https://medium.com/p/2e2502fd551a) |
-| Tue, 24 Feb 2026 13:23:02 GMT | When Reach Becomes Risk: The Brand Impact of Open Redirect Vulnerabilities | Raghunandan Gupta | [Read More](https://medium.com/p/b4ed18b58224) |
-| Tue, 24 Feb 2026 13:14:27 GMT | Why Biometric E-Signatures Are the Future of Secure Digital Contracts | Shagunkaurr | [Read More](https://medium.com/p/e7388889e9f3) |
-| Tue, 24 Feb 2026 13:11:33 GMT | Are Your Cyber Defenses Actually Working? Purple Team Exercises Have the Answer | Akhil r nath | [Read More](https://medium.com/p/a11848d10860) |
