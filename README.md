@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Feb 2026 18:58:58 GMT | What is Cloud Computing? | SlingshotIntoIT | [Read More](https://medium.com/p/09a172f43d10) |
+| Tue, 24 Feb 2026 18:54:31 GMT | Why Your Network Perimeter is Already Dead (and How the ‘Four Guardians of Zero Trust’ Can Save It) | Latonya White Official | [Read More](https://medium.com/p/9338c6f29ed5) |
+| Tue, 24 Feb 2026 18:54:29 GMT | Vulnerable Labs for Offensive Security | Adam Pentester | [Read More](https://medium.com/p/c9927f362ff2) |
+| Tue, 24 Feb 2026 18:49:11 GMT | Burp Suite: The Swiss-knife of Modern Security Testing | Julio Arredondo | [Read More](https://medium.com/p/3cb79b74bca0) |
+| Tue, 24 Feb 2026 18:45:26 GMT | VESSEL (Vulnerability Evaluation and Secure Software Engineering Layer) | Atharv Kulkarni | [Read More](https://medium.com/p/78250e113b8a) |
+| Tue, 24 Feb 2026 18:39:51 GMT | “Part 1 — The Docker Isolation Illusion: Bypassing internal: true Networks via Layer 2 Injection" | Rishav raj | [Read More](https://medium.com/p/27025340ee06) |
+| Tue, 24 Feb 2026 18:38:04 GMT | Code From Your Phone: Building OpenClaw — A Zero-Trust DevOps AI Agent via Telegram | anil | [Read More](https://medium.com/p/e579d9390b47) |
+| Tue, 24 Feb 2026 18:31:00 GMT | SQL Injection ile Gizli Verileri Elde Etmek — WHERE Clause Exploit (Adim Adim) | Zerioth Cypher Evidence | [Read More](https://medium.com/p/0a274488b879) |
+| Tue, 24 Feb 2026 18:31:00 GMT | Yapay Zeka: Siber Guvenligin Yeni Kalkani mi, Yoksa En Tehlikeli Silahi mi? | Zerioth Cypher Evidence | [Read More](https://medium.com/p/bc935fe45263) |
+| Tue, 24 Feb 2026 18:30:26 GMT | Notepad++ Updates: One for You, One for the Ministry of State Security | EternalR00ted | [Read More](https://medium.com/p/2878d9f39f4e) |
+| Tue, 24 Feb 2026 18:26:27 GMT | Lab: DOM XSS in jQuery Selector Sink Using a Hashchange Event | mayhack | [Read More](https://medium.com/p/84d68cb0f00e) |
+| Tue, 24 Feb 2026 18:24:00 GMT | Lab: Blind SQL injection with conditional errors - PortSwigger | Samiul Quoreshi Sourav | [Read More](https://medium.com/p/a09da14c5c72) |
+| Tue, 24 Feb 2026 18:07:24 GMT | The Flag Was Just One Number Away — CTF Writeup | PaulR | [Read More](https://medium.com/p/bfd401a8ad99) |
+| Tue, 24 Feb 2026 17:59:36 GMT | This 1 Prompt Helped Me Master Any Bug I Didn’t Understand | Md Tanjimul Islam Sifat | [Read More](https://medium.com/p/c7af22e245dc) |
+| Tue, 24 Feb 2026 17:55:03 GMT | Breaking Authentication — Part 1 | ghostyjoe | [Read More](https://medium.com/p/672980a40f65) |
+| Tue, 24 Feb 2026 17:45:51 GMT | Public Today. Weaponized Tomorrow. | Hitesh Said | [Read More](https://medium.com/p/296a34ff45fb) |
+| Tue, 24 Feb 2026 17:42:03 GMT | Day 2: How AI Models Actually Learn and Why That Is the Root of Every Security Problem | Budhdi Sharma | [Read More](https://medium.com/p/e9222e77fcc1) |
+| Tue, 24 Feb 2026 17:37:23 GMT | Marketing Services for Private Equity: How Firms Build Durable Growth and Stronger Exits | Percepture | [Read More](https://medium.com/p/ef6f4ffbcb54) |
 | Tue, 24 Feb 2026 17:31:07 GMT | The Silent Threat: How Git History Becomes Your Biggest Liability | Mr.MELVIN | [Read More](https://medium.com/p/542622adf55d) |
 | Tue, 24 Feb 2026 17:30:32 GMT | Eduroam CAT Authentication Bypass: How Hundreds of Institutions were Vulnerable to a Single Exploit | Nahit Sogutlu | [Read More](https://medium.com/p/32e19580fd57) |
 | Tue, 24 Feb 2026 17:29:45 GMT | what is script kiddie | Kevin Ronex | [Read More](https://medium.com/p/7ac4ccd57218) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Feb 2026 12:42:27 GMT | Web Security 101: Part 8— Server-Side Injection | Nithishraina | [Read More](https://medium.com/p/81f5e53bf0cb) |
 | Tue, 24 Feb 2026 12:33:27 GMT | CORS Isn’t a Bug — It’s Your Browser Protecting You | learnwithshrey | [Read More](https://medium.com/p/220fd54ed848) |
 | Tue, 24 Feb 2026 12:29:56 GMT | Hayaletleri Kovalamak: Şüpheli Bir PNG Dosyasının Adli Bilişim (Forensics) Günlüğü 101 | Hakan ÇEVİK | [Read More](https://medium.com/p/37e1e5ea0df3) |
-| Tue, 24 Feb 2026 12:23:59 GMT | Is VPN just another lie? | Tazeen Tariq | [Read More](https://medium.com/p/608c52c1d7f1) |
-| Tue, 24 Feb 2026 12:23:45 GMT | IT 02 - Slow Computer | Amrsmooke | [Read More](https://medium.com/p/cd4fb395d76f) |
-| Tue, 24 Feb 2026 12:14:56 GMT | Secure Remote File Access: Safeguarding Compliance in a Digital Workplace | My workdrive | [Read More](https://medium.com/p/ded854c935b3) |
-| Tue, 24 Feb 2026 12:01:01 GMT | I Managed RBAC Like Nothing in All My Applications | Mahmoud Bebars | [Read More](https://medium.com/p/6b9c8db92773) |
-| Tue, 24 Feb 2026 12:01:01 GMT | 8 tool-contract myths (and what actually prevents bad actions) | Yamishift | [Read More](https://medium.com/p/e19eb7d03da5) |
-| Tue, 24 Feb 2026 12:01:01 GMT | Interconnection queue stalls solar builds and forces power delays | James Kuhman | [Read More](https://medium.com/p/fde44eaf49d4) |
-| Tue, 24 Feb 2026 11:55:25 GMT | Behind the Scenes: How Threat Monitoring Actually Works | JSOC IT BLOG | [Read More](https://medium.com/p/109f659bcc9e) |
-| Tue, 24 Feb 2026 11:43:21 GMT | Air Escaped— Love Shown In | Breathe & Be Still | [Read More](https://medium.com/p/87eec03806b8) |
-| Tue, 24 Feb 2026 11:40:08 GMT | Indian IT: Cycle or Change? | Growthvine Capital | [Read More](https://medium.com/p/c13e8adeaa9c) |
-| Tue, 24 Feb 2026 11:38:39 GMT | Designing Cloud Systems That Finance Teams Don’t Fight | Gautamkumar | [Read More](https://medium.com/p/e8443ee25280) |
-| Tue, 24 Feb 2026 11:37:37 GMT | Designing Cloud Systems That Finance Teams Don’t Fight | Gautam kumar | [Read More](https://medium.com/p/28c3e09821a3) |
-| Tue, 24 Feb 2026 11:31:36 GMT | Why traditional network security fails against modern attack paths | Gautamkumar | [Read More](https://medium.com/p/5448c3738011) |
-| Tue, 24 Feb 2026 11:30:16 GMT | Why traditional network security fails against modern attack paths | Gautam kumar | [Read More](https://medium.com/p/b362faf8fb94) |
-| Tue, 24 Feb 2026 11:26:00 GMT | A Bot Accused a Maintainer of Prejudice. Humans Sided With the Bot. | Can Artuc | [Read More](https://medium.com/p/91a7824d2ddb) |
-| Tue, 24 Feb 2026 11:24:37 GMT | DefectDojo: centralizando achados de segurança e mantendo histórico entre releases | Wallace Maia | [Read More](https://medium.com/p/b24ebeaa6899) |
-| Tue, 24 Feb 2026 11:22:10 GMT | Roadmap of machine learning for non-technical background explained | cyber security Updates | [Read More](https://medium.com/p/06f1900a646e) |
-| Tue, 24 Feb 2026 11:09:39 GMT | Enhancing Business Protection with Security Services | Managed Service Provider | [Read More](https://medium.com/p/2986875cd8ba) |
-| Tue, 24 Feb 2026 11:08:35 GMT | Bug Bounties Are the New Gold Rush (But Most Hunters Will Go Broke) | Joshua Certain | [Read More](https://medium.com/p/b896b58c337f) |
