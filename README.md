@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Feb 2026 14:46:00 GMT | Write-up Máquina LFI.elf de DockerLabs | Joel Morillas Pagan (Ghxstsec) | [Read More](https://medium.com/p/f68e4c44e21f) |
+| Tue, 24 Feb 2026 14:45:16 GMT | Why Your Bug Bounty Hunting Will Earn Nothing (And Technical Skills Aren’t the Problem | R.H Rizvi | [Read More](https://medium.com/p/247f778fae6a) |
+| Tue, 24 Feb 2026 14:44:57 GMT | LXD Üzerinde On-Prem Kubernetes: Mikro-Segmentasyon, Gözlemlenebilirlik ve MetalLB Mimarisi | Silaabahadir | [Read More](https://medium.com/p/2256d46860f6) |
+| Tue, 24 Feb 2026 14:39:06 GMT | Enterprise ELK: Security, Alerting & Cost Optimization | Alfatah Jalalludin | [Read More](https://medium.com/p/53d60d157ada) |
+| Tue, 24 Feb 2026 14:36:01 GMT | The Internet Has a Trust Problem. OpenVPT Is My Attempt to Fix It. | Vojtech Sejkora | [Read More](https://medium.com/p/372c05b0c633) |
+| Tue, 24 Feb 2026 14:35:14 GMT | A Service That Locks Everything Until Death Is Verified, Without Handing Over Access Too Early | Olivia Martillo | [Read More](https://medium.com/p/8ef28f0904fc) |
+| Tue, 24 Feb 2026 14:35:08 GMT | The “Traceability” Gap: How to Write Logs That Actually Solve Problems | Adityadalwadi | [Read More](https://medium.com/p/012f470eb8a7) |
+| Tue, 24 Feb 2026 14:32:53 GMT | Industrial-Scale Distillation Attacks: The New Frontier Threat to AI Systems | Rakeshkhanduja | [Read More](https://medium.com/p/cde62e906a8f) |
+| Tue, 24 Feb 2026 14:31:01 GMT | Mükemmel Kodun Peşinde: Siber Güvenlikte ‘İnsani’ Yanılgılarımız | Zerioth Cypher Evidence | [Read More](https://medium.com/p/20e82e889910) |
+| Tue, 24 Feb 2026 14:31:00 GMT | PromptSpy: A Practical Signal of AI-Driven Malware Evolution | Kmori | [Read More](https://medium.com/p/29244c5c6ab4) |
+| Tue, 24 Feb 2026 14:30:36 GMT | What is HTTP Host Header Attacks | BinaryShield | [Read More](https://medium.com/p/c4d049914933) |
+| Tue, 24 Feb 2026 14:30:04 GMT | Hackviser Riverly | AMH4CK3R | [Read More](https://medium.com/p/0130747d59cf) |
+| Tue, 24 Feb 2026 14:28:14 GMT | Windows PrivEsc Arena THM lab Walkthrough | SUSHANT TELRANDHE | [Read More](https://medium.com/p/50b51722df2b) |
+| Tue, 24 Feb 2026 14:25:05 GMT | Why SQL Injection Is Still Relevant in 2026 | Cyber Aries | [Read More](https://medium.com/p/920931e850e9) |
+| Tue, 24 Feb 2026 14:25:01 GMT | How Hotels and Hospitality Businesses Can Safeguard Guest Data and Improve System Uptime - CMIT | Best IT Service Solution Anaheim | [Read More](https://medium.com/p/55f7ed338083) |
+| Tue, 24 Feb 2026 14:24:56 GMT | Exploring NAS Trends and Top Models in 2025–2026 | Deiasiwaju | [Read More](https://medium.com/p/1191d14e5716) |
+| Tue, 24 Feb 2026 14:23:43 GMT | Securing the Backbone — Issue #2: The Anatomy of a Software Supply Chain Attack — Case Studies &… | Eric Gallagher | [Read More](https://medium.com/p/4dc538669785) |
+| Tue, 24 Feb 2026 14:14:33 GMT | Wireshark — The Hacker’s Magnifying Glass | Dinesh V | [Read More](https://medium.com/p/d6d30877b066) |
+| Tue, 24 Feb 2026 13:57:50 GMT | Maravel-Framework lost another 3.7k rows of testing code | marius-ciclistu | [Read More](https://medium.com/p/a56624b035a5) |
+| Tue, 24 Feb 2026 13:55:55 GMT | Evil in Disguise: The Murder of Sasha Samsudean | True Scares & Real-Life Nightmares | [Read More](https://medium.com/p/4e6023615737) |
+| Tue, 24 Feb 2026 13:54:20 GMT | Security in Kubernetes — PART 1 | Sathvika B | [Read More](https://medium.com/p/54ccb06e6c19) |
+| Tue, 24 Feb 2026 13:48:27 GMT | How to Solve the Climate Crisis — Part 2 | Erik Kvam | [Read More](https://medium.com/p/647694d3b3ee) |
+| Tue, 24 Feb 2026 13:47:58 GMT | Hacker101 CTF — Postbook | Cyber-Rat | [Read More](https://medium.com/p/dcb7a449ca0f) |
 | Tue, 24 Feb 2026 13:46:29 GMT | Solving a Bugforge Challenge — Exploiting Business Logic Flaw in Cheesy Does It | Pranaya Shrestha | [Read More](https://medium.com/p/4db41a7f627b) |
 | Tue, 24 Feb 2026 13:40:11 GMT | Can CNAPP Become Intent-Aware? | mm | [Read More](https://medium.com/p/e04f0d086a1b) |
 | Tue, 24 Feb 2026 13:39:59 GMT | How Agentic AI is Redefining Autonomy: Governance, Risk, and the New Era of Automated… | Brian Haman, PhD | [Read More](https://medium.com/p/2f820d9243fb) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Feb 2026 09:01:01 GMT | The Madness of Hidden Overtime | Beyond Monday | [Read More](https://medium.com/p/7855daf7a001) |
 | Tue, 24 Feb 2026 09:01:01 GMT | What One Infected Laptop Reveals About Your Entire Company | Alexandre Vandamme | [Read More](https://medium.com/p/55f835d1f54f) |
 | Tue, 24 Feb 2026 08:57:00 GMT | Getting The Full Picture of The Web Server Infrastructure in Cyber Security Based on WSTG | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/1bef29073291) |
-| Tue, 24 Feb 2026 08:54:49 GMT | Why Agentic AI Forces a Rethink of Enterprise Security and Compliance | Karthik Subramanian | [Read More](https://medium.com/p/8873bc243126) |
-| Tue, 24 Feb 2026 08:54:04 GMT | Securing the AI Frontier: The CISO’s Guide for Enterprise Model Context Protocol (MCP) Enablement | Tom Croll | [Read More](https://medium.com/p/793e58a0f838) |
-| Tue, 24 Feb 2026 08:52:44 GMT | Your LLM Is Not Safe Yet: How to Build Proper Guardrails | Aju John | [Read More](https://medium.com/p/78efae7ad17f) |
-| Tue, 24 Feb 2026 08:48:59 GMT | 5 Compliance Certifications That Make NetSuite Third Party Audit-Ready | Linkederp | [Read More](https://medium.com/p/31c760d0f9ee) |
-| Tue, 24 Feb 2026 08:41:28 GMT | A Practical Guide to Microsoft 365 Licensing for IT and Business Leaders | Allan Banday | [Read More](https://medium.com/p/33b21ed46608) |
-| Tue, 24 Feb 2026 08:31:21 GMT | Why Canadian Businesses Need a Cybersecurity Posture — Not Just Tools | infosprint technologies | [Read More](https://medium.com/p/6d67dcc59e98) |
-| Tue, 24 Feb 2026 08:31:00 GMT | Vulnerabilities of CI/CD | Aniket Deshmukh | [Read More](https://medium.com/p/bc0d0c619bda) |
-| Tue, 24 Feb 2026 08:21:02 GMT | Why Is It Important to Follow a Recognized Pentesting Methodology | Hacker’s View on Cybersecurity | [Read More](https://medium.com/p/79532e905f88) |
-| Tue, 24 Feb 2026 08:19:38 GMT | The 2026 Ghost Protocol: Why Your Passwords Are Already Obsolete | Th4_Pr3acher | [Read More](https://medium.com/p/9c630bad43ed) |
-| Tue, 24 Feb 2026 08:07:26 GMT | 10 macOS Security Features That Protect You 24/7 | Zeeshan Saghir | [Read More](https://medium.com/p/fc06f98e374d) |
-| Tue, 24 Feb 2026 07:59:29 GMT | Task Week 2 (LABS: HackTheBox) | Romadhona Fitri | [Read More](https://medium.com/p/f4a28ca8e93b) |
-| Tue, 24 Feb 2026 07:50:46 GMT | Conduent Data Breach: 25+ Million Americans Impacted in One of the Largest U.S. Cyber Incidents | Sohan Kanna D | [Read More](https://medium.com/p/d0928a08f8da) |
-| Tue, 24 Feb 2026 07:50:26 GMT | Unlock the Superpower of Digital Investigation: Launching Cyber Strike & Operation Cyber Shield… | Paras Jangra | [Read More](https://medium.com/p/3bda04ef3588) |
-| Tue, 24 Feb 2026 07:48:33 GMT | WordPress Core Security 2026 — Part 2 | Leetsec Sarwar | [Read More](https://medium.com/p/80a541e38dfe) |
-| Tue, 24 Feb 2026 07:48:26 GMT | Here’s How I Designed a Cryptographically Verifiable Clinical Document System | Sandipan Paul | [Read More](https://medium.com/p/dab29baa6875) |
-| Tue, 24 Feb 2026 07:46:16 GMT | The Structural Shift in Web3 Security: What We Must Prepare for in 2026 | Br4inL3ak | [Read More](https://medium.com/p/48620ba86184) |
-| Tue, 24 Feb 2026 07:46:09 GMT | When SAP Enforced TOTP: How It Broke the Log Analyzer — and How It Was Fixed | Andrei Lescu | [Read More](https://medium.com/p/6322269a3304) |
-| Tue, 24 Feb 2026 07:38:24 GMT | Windows Privilege Escalation (LDAP) | Sherman Davis | [Read More](https://medium.com/p/c167a2652085) |
-| Tue, 24 Feb 2026 07:38:15 GMT | Glassdoor’s IDOR vulnerability to retrieve email addresses of all users without interaction | safehacker_2715 | [Read More](https://medium.com/p/db44c9606495) |
-| Tue, 24 Feb 2026 07:36:09 GMT | When the Threat Model Is the Model | Bipinrimal | [Read More](https://medium.com/p/962613a609a3) |
-| Tue, 24 Feb 2026 07:33:20 GMT | AI Model Distillation Attacks: How 16 Million Claude Queries Expose a New Cybersecurity Threat to… | Germano Costi | [Read More](https://medium.com/p/857e18a47e37) |
-| Tue, 24 Feb 2026 07:31:11 GMT | Easy Splunk: Enterprise Security Admin Concepts and Best Practices | Antonella Blasetti | [Read More](https://medium.com/p/e1572f4a15c4) |
-| Tue, 24 Feb 2026 07:27:28 GMT | Cyber Espionage Campaign Targets Sensitive Sites Across 37 Countries | Hanzalahtariq | [Read More](https://medium.com/p/16da18969fc4) |
