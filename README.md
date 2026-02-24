@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Feb 2026 17:31:07 GMT | The Silent Threat: How Git History Becomes Your Biggest Liability | Mr.MELVIN | [Read More](https://medium.com/p/542622adf55d) |
+| Tue, 24 Feb 2026 17:30:32 GMT | Eduroam CAT Authentication Bypass: How Hundreds of Institutions were Vulnerable to a Single Exploit | Nahit Sogutlu | [Read More](https://medium.com/p/32e19580fd57) |
+| Tue, 24 Feb 2026 17:29:45 GMT | what is script kiddie | Kevin Ronex | [Read More](https://medium.com/p/7ac4ccd57218) |
+| Tue, 24 Feb 2026 17:28:09 GMT | Password Hashing | Ashutosh Dwivedi | [Read More](https://medium.com/p/d6f067886b64) |
+| Tue, 24 Feb 2026 17:27:58 GMT | Tokenomics as Security: How Incentive Design Prevents (or Enables) Exploits | Exploitless | [Read More](https://medium.com/p/4e52cd9453f9) |
+| Tue, 24 Feb 2026 17:21:05 GMT | We Built an Agent That Hacks Itself — Here’s What It Found | Nick Homyk | [Read More](https://medium.com/p/f22d40bb9cdc) |
+| Tue, 24 Feb 2026 17:17:03 GMT | Future of Cybersecurity: What to Expect After 2026 | Digital Defense | [Read More](https://medium.com/p/959bed1530ba) |
+| Tue, 24 Feb 2026 17:14:00 GMT | TryHackMe — Pentesting Fundamentals (Walkthrough) | Hudson Lois Marcus | [Read More](https://medium.com/p/35e50ffc59b1) |
+| Tue, 24 Feb 2026 17:11:47 GMT | Pressed Petals | Alizabeth Amelia Rose | [Read More](https://medium.com/p/99a17d343f73) |
+| Tue, 24 Feb 2026 17:11:29 GMT | AI Just Found 500 Bugs in “Safe” Code. Is Yours Next? | Xyzvilan | [Read More](https://medium.com/p/787ff9cdd733) |
+| Tue, 24 Feb 2026 17:11:01 GMT | CompTIA Linux+ vs. Real Linux: Where Did the Multiple-Choice Questions Go? | Crystalcascade14 | [Read More](https://medium.com/p/8688bd18f936) |
+| Tue, 24 Feb 2026 17:04:37 GMT | Siber Güvenliğin Kutsal Kasesi: CIA Üçlüsü Nedir? | Yiğit Ataman | [Read More](https://medium.com/p/b036ef47f24a) |
+| Tue, 24 Feb 2026 16:57:16 GMT | VM Snapshot Disk Recovery | Marduk I Am | [Read More](https://medium.com/p/657019478cbe) |
+| Tue, 24 Feb 2026 16:51:13 GMT | Digital Honey Traps: Are you looking for ‘True Love’ or a ₹50,000 Bill? | Archana Ms. | [Read More](https://medium.com/p/b485752c42d7) |
+| Tue, 24 Feb 2026 16:47:38 GMT | Securing the Supply Chain: My First Open Source Contribution to WSO2 | Nilumindakavishka | [Read More](https://medium.com/p/c61ff62e74cb) |
+| Tue, 24 Feb 2026 16:39:44 GMT | The Urge to Be Chosen | blue_07 | [Read More](https://medium.com/p/fe1ef4e4edfe) |
+| Tue, 24 Feb 2026 16:37:49 GMT | VulnHub: Tr0ll 2 Write-Up | Khaled Waleed (MrWayne) | [Read More](https://medium.com/p/b2ca4eecfa7f) |
+| Tue, 24 Feb 2026 16:35:03 GMT | When One Being Reaches for Another | Jeanettegardner | [Read More](https://medium.com/p/0fb401ad8879) |
+| Tue, 24 Feb 2026 16:19:14 GMT | Malware Analysis: payloadfinal.bin (Agent Tesla) | Cyd Tseng | [Read More](https://medium.com/p/c38cb9bc8c88) |
+| Tue, 24 Feb 2026 16:12:34 GMT | “I Have Asset Nobody Knows About” Planning: A Safer Way to Document Hidden Wealth | InheritSafe | [Read More](https://medium.com/p/ee1294703faf) |
+| Tue, 24 Feb 2026 16:05:44 GMT | What is NoSQL Injection? | BinaryShield | [Read More](https://medium.com/p/68b410d58faa) |
+| Tue, 24 Feb 2026 16:02:16 GMT | PHP LOGIN SECURITY — “Things I Must Never Forget” | gixs | [Read More](https://medium.com/p/bd67d2cae005) |
 | Tue, 24 Feb 2026 15:49:45 GMT | Understanding Safe Darkweb Browsing Tips: Privacy, Risk & Reality | Tor BBB | [Read More](https://medium.com/p/acfdc55ed342) |
 | Tue, 24 Feb 2026 15:49:34 GMT | Handling Security & Error Handling in React Applications (Production Guide) | shahrukh akhter | [Read More](https://medium.com/p/99bb27d4d659) |
 | Tue, 24 Feb 2026 15:47:49 GMT | Lavarand: A Mind-Bending Application for a Classic Symbol of the 1960s | Harlan Brothers | [Read More](https://medium.com/p/a075741bc0cd) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Feb 2026 11:22:10 GMT | Roadmap of machine learning for non-technical background explained | cyber security Updates | [Read More](https://medium.com/p/06f1900a646e) |
 | Tue, 24 Feb 2026 11:09:39 GMT | Enhancing Business Protection with Security Services | Managed Service Provider | [Read More](https://medium.com/p/2986875cd8ba) |
 | Tue, 24 Feb 2026 11:08:35 GMT | Bug Bounties Are the New Gold Rush (But Most Hunters Will Go Broke) | Joshua Certain | [Read More](https://medium.com/p/b896b58c337f) |
-| Tue, 24 Feb 2026 11:02:57 GMT | I made a mistake replying. | Margins of Mind | [Read More](https://medium.com/p/7c3b6c1fdb07) |
-| Tue, 24 Feb 2026 11:01:00 GMT | Japan Tightens Crypto Cybersecurity as the Market Scales | GMO-Z.com Trust Company | [Read More](https://medium.com/p/8ff4e4dfe294) |
-| Tue, 24 Feb 2026 11:00:10 GMT | Why Cyber Security Is One of the Most Future-Proof Careers Today | logging security | [Read More](https://medium.com/p/8a755991d1eb) |
-| Tue, 24 Feb 2026 10:57:24 GMT | How to Approach High-Value Authentication Bug Bounty Programs | ghostyjoe | [Read More](https://medium.com/p/7c2366d329d5) |
-| Tue, 24 Feb 2026 10:55:08 GMT | loly Walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/17109a0a7c52) |
-| Tue, 24 Feb 2026 10:50:06 GMT | Amazon Ring Security Challenge Highlights Growing Risks in Cloud Connected Smart Devices | Jas | [Read More](https://medium.com/p/19bac4a1c20c) |
-| Tue, 24 Feb 2026 10:44:42 GMT | How I Deployed a Full WordPress Site on AWS EC2 — From Scratch | Devayhncoleman | [Read More](https://medium.com/p/8b0f7dd5be49) |
-| Tue, 24 Feb 2026 10:42:31 GMT | The Back Button Is a Security Risk (If You Don’t Control It) | Segun Ibidokun | [Read More](https://medium.com/p/efeeeee78cc3) |
-| Tue, 24 Feb 2026 10:41:52 GMT | D001 to V001 — Hacked Your Account! | Ghost | [Read More](https://medium.com/p/cae2b5b881dc) |
-| Tue, 24 Feb 2026 10:41:41 GMT | Professional Security Service Training & Housekeeping Training in Chennai — Trust Security Force | Fowsiyadigitalmarketer | [Read More](https://medium.com/p/16f6d0acbe7f) |
-| Tue, 24 Feb 2026 10:34:04 GMT | Pre-Security (New) TryHackme | FrijolSec | [Read More](https://medium.com/p/d1b749b4a5d2) |
-| Tue, 24 Feb 2026 10:32:46 GMT | Most Businesses Fail GDPR Cybersecurity Because of This One Reason. Don’t Be One of Them. | Redfox Security | [Read More](https://medium.com/p/5b0d8e482933) |
-| Tue, 24 Feb 2026 10:28:14 GMT | How Carbon Management Software Is Transforming Corporate Emission Tracking | DailyScope | [Read More](https://medium.com/p/954d76a0c7f5) |
-| Tue, 24 Feb 2026 10:15:29 GMT | How Google Search Works in 2026: AI, Crawling, and Ranking | Shreya Patil | [Read More](https://medium.com/p/202c7e793152) |
-| Tue, 24 Feb 2026 10:15:25 GMT | Taking 2FA for 9000$ | Anonymous Traiger | [Read More](https://medium.com/p/a91407bc0ccc) |
-| Tue, 24 Feb 2026 10:10:01 GMT | How Ransomware Attacks Work — And How to Protect Your Business | Ademola Adebambo | [Read More](https://medium.com/p/1af60d52dab1) |
-| Tue, 24 Feb 2026 10:02:13 GMT | Healthcare Breaches Start With Access. Most HIPAA Audits Can’t Prove It. | Graylog | [Read More](https://medium.com/p/b797b49b361a) |
-| Tue, 24 Feb 2026 10:00:16 GMT | The Girl They Wanted to See | Her View | [Read More](https://medium.com/p/1b6f1a5f2863) |
-| Tue, 24 Feb 2026 09:58:22 GMT | Microsoft Purview Information Protection Kurumsal Sensitivity Label Tasarımı — Bölüm 1 | Yiğit Şener | [Read More](https://medium.com/p/0e6cc30aa609) |
-| Tue, 24 Feb 2026 09:56:00 GMT | Health Information System Literature Review | Natalie from Cuyahoga Community College | [Read More](https://medium.com/p/ac627a12241a) |
-| Tue, 24 Feb 2026 09:55:47 GMT | Enterprise Security Architecture in the Zero Trust Era | Michael Goldshtein | [Read More](https://medium.com/p/fe4dc6bc0525) |
-| Tue, 24 Feb 2026 09:55:30 GMT | Emergency & Residential Locksmith Services by a Leading Locksmith | The Lock Specialist Ltd | [Read More](https://medium.com/p/63d30072f919) |
