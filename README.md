@@ -12,11 +12,32 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Feb 2026 07:59:29 GMT | Task Week 2 (LABS: HackTheBox) | Romadhona Fitri | [Read More](https://medium.com/p/f4a28ca8e93b) |
+| Tue, 24 Feb 2026 07:50:46 GMT | Conduent Data Breach: 25+ Million Americans Impacted in One of the Largest U.S. Cyber Incidents | Sohan Kanna D | [Read More](https://medium.com/p/d0928a08f8da) |
+| Tue, 24 Feb 2026 07:50:26 GMT | Unlock the Superpower of Digital Investigation: Launching Cyber Strike & Operation Cyber Shield… | Paras Jangra | [Read More](https://medium.com/p/3bda04ef3588) |
+| Tue, 24 Feb 2026 07:48:33 GMT | WordPress Core Security 2026 — Part 2 | Leetsec Sarwar | [Read More](https://medium.com/p/80a541e38dfe) |
+| Tue, 24 Feb 2026 07:48:26 GMT | Here’s How I Designed a Cryptographically Verifiable Clinical Document System | Sandipan Paul | [Read More](https://medium.com/p/dab29baa6875) |
+| Tue, 24 Feb 2026 07:46:16 GMT | The Structural Shift in Web3 Security: What We Must Prepare for in 2026 | Br4inL3ak | [Read More](https://medium.com/p/48620ba86184) |
+| Tue, 24 Feb 2026 07:46:09 GMT | When SAP Enforced TOTP: How It Broke the Log Analyzer — and How It Was Fixed | Andrei Lescu | [Read More](https://medium.com/p/6322269a3304) |
+| Tue, 24 Feb 2026 07:38:24 GMT | Windows Privilege Escalation (LDAP) | Sherman Davis | [Read More](https://medium.com/p/c167a2652085) |
+| Tue, 24 Feb 2026 07:38:15 GMT | Glassdoor’s IDOR vulnerability to retrieve email addresses of all users without interaction | safehacker_2715 | [Read More](https://medium.com/p/db44c9606495) |
+| Tue, 24 Feb 2026 07:36:09 GMT | When the Threat Model Is the Model | Bipinrimal | [Read More](https://medium.com/p/962613a609a3) |
+| Tue, 24 Feb 2026 07:33:20 GMT | AI Model Distillation Attacks: How 16 Million Claude Queries Expose a New Cybersecurity Threat to… | Germano Costi | [Read More](https://medium.com/p/857e18a47e37) |
+| Tue, 24 Feb 2026 07:31:11 GMT | Easy Splunk: Enterprise Security Admin Concepts and Best Practices | Antonella Blasetti | [Read More](https://medium.com/p/e1572f4a15c4) |
+| Tue, 24 Feb 2026 07:27:28 GMT | Cyber Espionage Campaign Targets Sensitive Sites Across 37 Countries | Hanzalahtariq | [Read More](https://medium.com/p/16da18969fc4) |
+| Tue, 24 Feb 2026 07:27:20 GMT | A Practical Guide to Choosing the Right Antivirus Software for 2026 | Siyanoav | [Read More](https://medium.com/p/de396d503803) |
+| Tue, 24 Feb 2026 07:25:12 GMT | How Small Mistakes Can Violate Saudi Cybersecurity Regulations | Rahman Iqbal | [Read More](https://medium.com/p/069eee884891) |
+| Tue, 24 Feb 2026 07:18:24 GMT | HTML Attribute Injection: Breaking Out of the Tag | Issan | [Read More](https://medium.com/p/b52069572c01) |
+| Tue, 24 Feb 2026 07:09:37 GMT | Professional Event Security Solutions for Safe and Successful Gatherings | Big Guys Agency | [Read More](https://medium.com/p/eafca586edea) |
+| Tue, 24 Feb 2026 07:06:24 GMT | Intigriti CTF February 2026: CSRF+XSS+IDOR Chain | safehacker_2715 | [Read More](https://medium.com/p/9850654bd6b9) |
+| Tue, 24 Feb 2026 07:05:22 GMT | How to prevent (Infosec) Burnout | 0xapt | [Read More](https://medium.com/p/eb206d3c0240) |
 | Tue, 24 Feb 2026 07:02:14 GMT | How Is Construction Site Security Protecting Projects From Theft? | Ravi Kalidindi | [Read More](https://medium.com/p/aa4a5e38ae05) |
+| Tue, 24 Feb 2026 07:02:13 GMT | Hardware Hacking: 12 Tools That Changed Pentesting Forever (Learn the Game Changers) | Very Lazy Tech | [Read More](https://medium.com/p/d4ab72b59c78) |
 | Tue, 24 Feb 2026 07:01:00 GMT | 2️. Understanding Git Architecture | Mangesh Muley | [Read More](https://medium.com/p/3b74d50aed53) |
 | Tue, 24 Feb 2026 06:58:29 GMT | PAYPAL DATA BREACH SHOCKER: Millions Trust It — But Your Identity Might Have Been Exposed | Hartarto | [Read More](https://medium.com/p/0841cb179877) |
 | Tue, 24 Feb 2026 06:55:35 GMT | How To Protect Your Business Data When Employees Work From Anywhere | Ajekigbe Michael. A | [Read More](https://medium.com/p/23be0634f362) |
 | Tue, 24 Feb 2026 06:53:18 GMT | Securing Azure Storage Accounts with Private Endpoints, A Hands-On AZ-500 Lab | Amal Udayanga Basnayake | [Read More](https://medium.com/p/ea657f2defa5) |
+| Tue, 24 Feb 2026 06:52:34 GMT | SITUS WEB ONLINE TERPERCAYA 2026 | Kayulaut | [Read More](https://medium.com/p/5e3cb58ad92e) |
 | Tue, 24 Feb 2026 06:43:30 GMT | DOM XSS: When JavaScript Becomes the Vulnerability | Issan | [Read More](https://medium.com/p/887cc0dee69f) |
 | Tue, 24 Feb 2026 06:38:51 GMT | How to Prevent SQL Injection in Modern Applications | Mark L. Hill | [Read More](https://medium.com/p/78d8b82142db) |
 | Tue, 24 Feb 2026 06:36:56 GMT | How Secure Web Apps Build Customer Trust and Compliance | Sameer Khandelwal | [Read More](https://medium.com/p/65bb61b84890) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Feb 2026 23:01:41 GMT | How I Finally Bypass the Banking App Root Detection in Android | Sahil LyfetAstic | [Read More](https://medium.com/p/ec8fa39bef28) |
 | Mon, 23 Feb 2026 22:58:56 GMT | Analysis of CMMC v. 2.0 for SMBs | Cade DeBoe | [Read More](https://medium.com/p/f2a2b4e56132) |
 | Mon, 23 Feb 2026 22:52:24 GMT | What to Expect from AI in 2026: Q&A with William Marcellino | RAND | [Read More](https://medium.com/p/73f2b583ee48) |
-| Mon, 23 Feb 2026 22:49:01 GMT | NyxWatch: A Deep Dive into Live Memory Malware Detection — Part II | RDK | [Read More](https://medium.com/p/cf47099ced81) |
-| Mon, 23 Feb 2026 22:38:51 GMT | CISSP Domain Updates: February 16–23, 2026 | Bobbie á Deild | [Read More](https://medium.com/p/744456caa1bc) |
-| Mon, 23 Feb 2026 22:35:11 GMT | OS Command Injection — PortSwigger Labs 1–3 | Aytac | [Read More](https://medium.com/p/62820f2d5df2) |
-| Mon, 23 Feb 2026 22:31:14 GMT | Homelab Writeup | Beaucooper | [Read More](https://medium.com/p/c5c4bbb14c65) |
-| Mon, 23 Feb 2026 22:23:45 GMT | Doraemon Had Gadgets. AI Agents Have Access. That’s the Risk. | Madiha Sultana | [Read More](https://medium.com/p/9fd6a2f1b8be) |
-| Mon, 23 Feb 2026 22:22:18 GMT | “Your Data Isn’t Stolen. It’s Just Public.” | HackTrace | [Read More](https://medium.com/p/6161dab5704e) |
-| Mon, 23 Feb 2026 22:07:38 GMT | ColddBox : An Easy CTF Walkthrough [Try Hack Me] : | Amrou bekhedda | [Read More](https://medium.com/p/14073acc229e) |
-| Mon, 23 Feb 2026 22:01:01 GMT | Unfiltered Restart — Day 10: All Things Mobile | Maximillian Rueda | [Read More](https://medium.com/p/88eecb521e1a) |
-| Mon, 23 Feb 2026 21:56:46 GMT | Behind the Veil: Analyzing IoT Intrusion Patterns via Smart Home Honeypots | Razored | [Read More](https://medium.com/p/77cbca1c2d85) |
-| Mon, 23 Feb 2026 21:42:42 GMT | The Governance Gap: Why Traditional Cybersecurity GRC Is Failing in the Age of AI | Tae Yeon Eom | [Read More](https://medium.com/p/bad8980e64ff) |
-| Mon, 23 Feb 2026 21:37:02 GMT | INE-Host & Network Penetration Testing: Post-Exploitation CTF 1 by Singkhon | Singkhon K | [Read More](https://medium.com/p/02794169c183) |
-| Mon, 23 Feb 2026 21:33:00 GMT | Keys to the Kingdom: A Guide to Digital Identity | Moez Ben-Azzouz | [Read More](https://medium.com/p/9bd27cc85b53) |
-| Mon, 23 Feb 2026 21:30:05 GMT | TryHackMe: Exploitation Basics — Blue | Mateusz Madrzynski | [Read More](https://medium.com/p/73d6cea6cf56) |
-| Mon, 23 Feb 2026 21:26:04 GMT | AI Exploiting Vulnerabilities | Matthew.Rosenquist | [Read More](https://medium.com/p/314bb3098abf) |
-| Mon, 23 Feb 2026 21:18:05 GMT | Resource-Constrained Security: Turning a 2011 Toshiba into a Headless SOC Lab #01 | Pinac Joshi | [Read More](https://medium.com/p/42ad81d9d16b) |
-| Mon, 23 Feb 2026 21:17:07 GMT | Why cybersecurity is no longer optional for SMEs in 2026 — And what to do about it | Broglie | [Read More](https://medium.com/p/a794a6874eaf) |
-| Mon, 23 Feb 2026 21:00:52 GMT | Furhire writeup (MFA Bypass) (Medium)(Bugforge) | 7s26Simon | [Read More](https://medium.com/p/76c31e33bd13) |
-| Mon, 23 Feb 2026 20:55:30 GMT | Ice — TryHackMe | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/3cbdd52805dc) |
-| Mon, 23 Feb 2026 20:53:16 GMT | what is red team | Kevin Ronex | [Read More](https://medium.com/p/777c62779d49) |
-| Mon, 23 Feb 2026 20:51:05 GMT | Building an Agentic SOC on Elastic | One Equals One | [Read More](https://medium.com/p/0edfa46ddb10) |
-| Mon, 23 Feb 2026 20:46:09 GMT | How the CISO Role Transformed Before My Eyes From Technical Gatekeeper to Strategist Leader | Younos Nazarian | [Read More](https://medium.com/p/f217c95a1ffb) |
