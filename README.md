@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Feb 2026 13:46:29 GMT | Solving a Bugforge Challenge — Exploiting Business Logic Flaw in Cheesy Does It | Pranaya Shrestha | [Read More](https://medium.com/p/4db41a7f627b) |
+| Tue, 24 Feb 2026 13:40:11 GMT | Can CNAPP Become Intent-Aware? | mm | [Read More](https://medium.com/p/e04f0d086a1b) |
+| Tue, 24 Feb 2026 13:39:59 GMT | How Agentic AI is Redefining Autonomy: Governance, Risk, and the New Era of Automated… | Brian Haman, PhD | [Read More](https://medium.com/p/2f820d9243fb) |
+| Tue, 24 Feb 2026 13:34:45 GMT | When Intelligence Becomes Infrastructure | Tom Yonashiro | [Read More](https://medium.com/p/d9e82abc9d40) |
+| Tue, 24 Feb 2026 13:32:40 GMT | Why Industry Thinks SSE Is Academic | Peter Hillier/Halton | [Read More](https://medium.com/p/0e0cab1d27aa) |
+| Tue, 24 Feb 2026 13:31:00 GMT | The Chargeback and Return Fraud Surge: Key Search Trends Canadian Retailers Need to Know | SusTern Inc. | [Read More](https://medium.com/p/2e2502fd551a) |
+| Tue, 24 Feb 2026 13:23:02 GMT | When Reach Becomes Risk: The Brand Impact of Open Redirect Vulnerabilities | Raghunandan Gupta | [Read More](https://medium.com/p/b4ed18b58224) |
+| Tue, 24 Feb 2026 13:14:27 GMT | Why Biometric E-Signatures Are the Future of Secure Digital Contracts | Shagunkaurr | [Read More](https://medium.com/p/e7388889e9f3) |
+| Tue, 24 Feb 2026 13:11:33 GMT | Are Your Cyber Defenses Actually Working? Purple Team Exercises Have the Answer | Akhil r nath | [Read More](https://medium.com/p/a11848d10860) |
+| Tue, 24 Feb 2026 13:09:53 GMT | Custom Tooling using Burp - THM | Ali Essam | [Read More](https://medium.com/p/d584fcad059b) |
+| Tue, 24 Feb 2026 13:09:53 GMT | REAL LIFE, SIMPLE LIFE, FAMILY. WORKING ON CYBERSECURITY. | DELPINO NETO | [Read More](https://medium.com/p/8d746eeac490) |
+| Tue, 24 Feb 2026 12:52:32 GMT | Tryhackme - Vulnerability Capstone Challenge | jaejun835 | [Read More](https://medium.com/p/2d672c404652) |
+| Tue, 24 Feb 2026 12:46:53 GMT | A Structured Penetration Testing Walkthrough Using Metasploitable 2 | Charitymkakina | [Read More](https://medium.com/p/65c6d8ec8d75) |
+| Tue, 24 Feb 2026 12:42:27 GMT | Web Security 101: Part 8— Server-Side Injection | Nithishraina | [Read More](https://medium.com/p/81f5e53bf0cb) |
+| Tue, 24 Feb 2026 12:33:27 GMT | CORS Isn’t a Bug — It’s Your Browser Protecting You | learnwithshrey | [Read More](https://medium.com/p/220fd54ed848) |
+| Tue, 24 Feb 2026 12:29:56 GMT | Hayaletleri Kovalamak: Şüpheli Bir PNG Dosyasının Adli Bilişim (Forensics) Günlüğü 101 | Hakan ÇEVİK | [Read More](https://medium.com/p/37e1e5ea0df3) |
+| Tue, 24 Feb 2026 12:23:59 GMT | Is VPN just another lie? | Tazeen Tariq | [Read More](https://medium.com/p/608c52c1d7f1) |
+| Tue, 24 Feb 2026 12:23:45 GMT | IT 02 - Slow Computer | Amrsmooke | [Read More](https://medium.com/p/cd4fb395d76f) |
+| Tue, 24 Feb 2026 12:14:56 GMT | Secure Remote File Access: Safeguarding Compliance in a Digital Workplace | My workdrive | [Read More](https://medium.com/p/ded854c935b3) |
+| Tue, 24 Feb 2026 12:01:01 GMT | I Managed RBAC Like Nothing in All My Applications | Mahmoud Bebars | [Read More](https://medium.com/p/6b9c8db92773) |
+| Tue, 24 Feb 2026 12:01:01 GMT | 8 tool-contract myths (and what actually prevents bad actions) | Yamishift | [Read More](https://medium.com/p/e19eb7d03da5) |
+| Tue, 24 Feb 2026 12:01:01 GMT | Interconnection queue stalls solar builds and forces power delays | James Kuhman | [Read More](https://medium.com/p/fde44eaf49d4) |
 | Tue, 24 Feb 2026 11:55:25 GMT | Behind the Scenes: How Threat Monitoring Actually Works | JSOC IT BLOG | [Read More](https://medium.com/p/109f659bcc9e) |
 | Tue, 24 Feb 2026 11:43:21 GMT | Air Escaped— Love Shown In | Breathe & Be Still | [Read More](https://medium.com/p/87eec03806b8) |
 | Tue, 24 Feb 2026 11:40:08 GMT | Indian IT: Cycle or Change? | Growthvine Capital | [Read More](https://medium.com/p/c13e8adeaa9c) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Feb 2026 07:33:20 GMT | AI Model Distillation Attacks: How 16 Million Claude Queries Expose a New Cybersecurity Threat to… | Germano Costi | [Read More](https://medium.com/p/857e18a47e37) |
 | Tue, 24 Feb 2026 07:31:11 GMT | Easy Splunk: Enterprise Security Admin Concepts and Best Practices | Antonella Blasetti | [Read More](https://medium.com/p/e1572f4a15c4) |
 | Tue, 24 Feb 2026 07:27:28 GMT | Cyber Espionage Campaign Targets Sensitive Sites Across 37 Countries | Hanzalahtariq | [Read More](https://medium.com/p/16da18969fc4) |
-| Tue, 24 Feb 2026 07:27:20 GMT | A Practical Guide to Choosing the Right Antivirus Software for 2026 | Siyanoav | [Read More](https://medium.com/p/de396d503803) |
-| Tue, 24 Feb 2026 07:25:12 GMT | How Small Mistakes Can Violate Saudi Cybersecurity Regulations | Rahman Iqbal | [Read More](https://medium.com/p/069eee884891) |
-| Tue, 24 Feb 2026 07:18:24 GMT | HTML Attribute Injection: Breaking Out of the Tag | Issan | [Read More](https://medium.com/p/b52069572c01) |
-| Tue, 24 Feb 2026 07:09:37 GMT | Professional Event Security Solutions for Safe and Successful Gatherings | Big Guys Agency | [Read More](https://medium.com/p/eafca586edea) |
-| Tue, 24 Feb 2026 07:06:24 GMT | Intigriti CTF February 2026: CSRF+XSS+IDOR Chain | safehacker_2715 | [Read More](https://medium.com/p/9850654bd6b9) |
-| Tue, 24 Feb 2026 07:05:22 GMT | How to prevent (Infosec) Burnout | 0xapt | [Read More](https://medium.com/p/eb206d3c0240) |
-| Tue, 24 Feb 2026 07:02:14 GMT | How Is Construction Site Security Protecting Projects From Theft? | Ravi Kalidindi | [Read More](https://medium.com/p/aa4a5e38ae05) |
-| Tue, 24 Feb 2026 07:02:13 GMT | Hardware Hacking: 12 Tools That Changed Pentesting Forever (Learn the Game Changers) | Very Lazy Tech | [Read More](https://medium.com/p/d4ab72b59c78) |
-| Tue, 24 Feb 2026 07:01:00 GMT | 2️. Understanding Git Architecture | Mangesh Muley | [Read More](https://medium.com/p/3b74d50aed53) |
-| Tue, 24 Feb 2026 06:58:29 GMT | PAYPAL DATA BREACH SHOCKER: Millions Trust It — But Your Identity Might Have Been Exposed | Hartarto | [Read More](https://medium.com/p/0841cb179877) |
-| Tue, 24 Feb 2026 06:55:35 GMT | How To Protect Your Business Data When Employees Work From Anywhere | Ajekigbe Michael. A | [Read More](https://medium.com/p/23be0634f362) |
-| Tue, 24 Feb 2026 06:53:18 GMT | Securing Azure Storage Accounts with Private Endpoints, A Hands-On AZ-500 Lab | Amal Udayanga Basnayake | [Read More](https://medium.com/p/ea657f2defa5) |
-| Tue, 24 Feb 2026 06:52:34 GMT | SITUS WEB ONLINE TERPERCAYA 2026 | Kayulaut | [Read More](https://medium.com/p/5e3cb58ad92e) |
-| Tue, 24 Feb 2026 06:43:30 GMT | DOM XSS: When JavaScript Becomes the Vulnerability | Issan | [Read More](https://medium.com/p/887cc0dee69f) |
-| Tue, 24 Feb 2026 06:42:50 GMT | How AI Became the Operator: Inside the First Known AI-Orchestrated Cyber Espionage Campaign… | Zusss | [Read More](https://medium.com/p/576fd71ea852) |
-| Tue, 24 Feb 2026 06:38:51 GMT | How to Prevent SQL Injection in Modern Applications | Mark L. Hill | [Read More](https://medium.com/p/78d8b82142db) |
-| Tue, 24 Feb 2026 06:36:56 GMT | How Secure Web Apps Build Customer Trust and Compliance | Sameer Khandelwal | [Read More](https://medium.com/p/65bb61b84890) |
-| Tue, 24 Feb 2026 06:35:19 GMT | What is a Private Branch Exchange (PBX)? | Doris William | [Read More](https://medium.com/p/7e315e1f64ba) |
-| Tue, 24 Feb 2026 06:35:02 GMT | AI as a Capital Multiplier: Why Humans Become More Valuable | Vijay Kumar Gupta | [Read More](https://medium.com/p/12334e4831c5) |
-| Tue, 24 Feb 2026 06:26:00 GMT | How to Pass CSA v2 Exam on First Attempt — My 91% Score Strategy | Abhinsubej | [Read More](https://medium.com/p/a7aace0051ec) |
-| Tue, 24 Feb 2026 06:24:56 GMT | How to Give Your AI Agent Access to Your Chrome Browser (And Why You Should Be Scared) | Sébastien Dubois | [Read More](https://medium.com/p/d39a391773fb) |
-| Tue, 24 Feb 2026 06:22:37 GMT | The AI That Controls the World: A Tech-Thriller Series (Part 1) | Chamindu Dilshan | [Read More](https://medium.com/p/4ea43c211d04) |
