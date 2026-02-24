@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Feb 2026 19:38:57 GMT | Why Information Systems Matter More Than Ever: A Simple Guide for Beginners | Sandaliranmini | [Read More](https://medium.com/p/6dd3ac25aee8) |
+| Tue, 24 Feb 2026 19:34:59 GMT | The Computer in Your Pocket is Your Biggest Vulnerability: A Guide to Mobile Hacking | Axoloth | [Read More](https://medium.com/p/6cc27e355c56) |
+| Tue, 24 Feb 2026 19:31:18 GMT | The Top AI Problem for CISOs | Matthew.Rosenquist | [Read More](https://medium.com/p/d95542d28963) |
+| Tue, 24 Feb 2026 19:26:01 GMT | Aircrack-ng: A Suite of Tools Every Wireless Pentester Needs | Mark Puckett | [Read More](https://medium.com/p/8875b9163359) |
+| Tue, 24 Feb 2026 19:16:01 GMT | Try Hack Me- Iron Corp CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/fed8b3ff53b0) |
+| Tue, 24 Feb 2026 19:09:32 GMT | Hackopedia Case Study: Bridgestone and the Multi-Million-Dollar Click | BlastWave | [Read More](https://medium.com/p/a262c1ceed1b) |
+| Tue, 24 Feb 2026 19:09:11 GMT | Australian Signals Directorate — Open-Sourced Azul Malware Analysis | SOCFortress | [Read More](https://medium.com/p/ad4e3751bdbb) |
 | Tue, 24 Feb 2026 18:58:58 GMT | What is Cloud Computing? | SlingshotIntoIT | [Read More](https://medium.com/p/09a172f43d10) |
 | Tue, 24 Feb 2026 18:54:31 GMT | Why Your Network Perimeter is Already Dead (and How the ‘Four Guardians of Zero Trust’ Can Save It) | Latonya White Official | [Read More](https://medium.com/p/9338c6f29ed5) |
 | Tue, 24 Feb 2026 18:54:29 GMT | Vulnerable Labs for Offensive Security | Adam Pentester | [Read More](https://medium.com/p/c9927f362ff2) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Feb 2026 13:23:02 GMT | When Reach Becomes Risk: The Brand Impact of Open Redirect Vulnerabilities | Raghunandan Gupta | [Read More](https://medium.com/p/b4ed18b58224) |
 | Tue, 24 Feb 2026 13:14:27 GMT | Why Biometric E-Signatures Are the Future of Secure Digital Contracts | Shagunkaurr | [Read More](https://medium.com/p/e7388889e9f3) |
 | Tue, 24 Feb 2026 13:11:33 GMT | Are Your Cyber Defenses Actually Working? Purple Team Exercises Have the Answer | Akhil r nath | [Read More](https://medium.com/p/a11848d10860) |
-| Tue, 24 Feb 2026 13:09:53 GMT | Custom Tooling using Burp - THM | Ali Essam | [Read More](https://medium.com/p/d584fcad059b) |
-| Tue, 24 Feb 2026 13:09:53 GMT | REAL LIFE, SIMPLE LIFE, FAMILY. WORKING ON CYBERSECURITY. | DELPINO NETO | [Read More](https://medium.com/p/8d746eeac490) |
-| Tue, 24 Feb 2026 12:52:32 GMT | Tryhackme - Vulnerability Capstone Challenge | jaejun835 | [Read More](https://medium.com/p/2d672c404652) |
-| Tue, 24 Feb 2026 12:46:53 GMT | A Structured Penetration Testing Walkthrough Using Metasploitable 2 | Charitymkakina | [Read More](https://medium.com/p/65c6d8ec8d75) |
-| Tue, 24 Feb 2026 12:42:27 GMT | Web Security 101: Part 8— Server-Side Injection | Nithishraina | [Read More](https://medium.com/p/81f5e53bf0cb) |
-| Tue, 24 Feb 2026 12:33:27 GMT | CORS Isn’t a Bug — It’s Your Browser Protecting You | learnwithshrey | [Read More](https://medium.com/p/220fd54ed848) |
-| Tue, 24 Feb 2026 12:29:56 GMT | Hayaletleri Kovalamak: Şüpheli Bir PNG Dosyasının Adli Bilişim (Forensics) Günlüğü 101 | Hakan ÇEVİK | [Read More](https://medium.com/p/37e1e5ea0df3) |
