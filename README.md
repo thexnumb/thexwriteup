@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Feb 2026 10:15:29 GMT | How Google Search Works in 2026: AI, Crawling, and Ranking | Shreya Patil | [Read More](https://medium.com/p/202c7e793152) |
+| Tue, 24 Feb 2026 10:15:25 GMT | Taking 2FA for 9000$ | Anonymous Traiger | [Read More](https://medium.com/p/a91407bc0ccc) |
+| Tue, 24 Feb 2026 10:10:01 GMT | How Ransomware Attacks Work — And How to Protect Your Business | Ademola Adebambo | [Read More](https://medium.com/p/1af60d52dab1) |
+| Tue, 24 Feb 2026 10:02:13 GMT | Healthcare Breaches Start With Access. Most HIPAA Audits Can’t Prove It. | Graylog | [Read More](https://medium.com/p/b797b49b361a) |
+| Tue, 24 Feb 2026 10:00:16 GMT | The Girl They Wanted to See | Her View | [Read More](https://medium.com/p/1b6f1a5f2863) |
+| Tue, 24 Feb 2026 09:58:22 GMT | Microsoft Purview Information Protection Kurumsal Sensitivity Label Tasarımı — Bölüm 1 | Yiğit Şener | [Read More](https://medium.com/p/0e6cc30aa609) |
+| Tue, 24 Feb 2026 09:56:00 GMT | Health Information System Literature Review | Natalie from Cuyahoga Community College | [Read More](https://medium.com/p/ac627a12241a) |
+| Tue, 24 Feb 2026 09:55:47 GMT | Enterprise Security Architecture in the Zero Trust Era | Michael Goldshtein | [Read More](https://medium.com/p/fe4dc6bc0525) |
+| Tue, 24 Feb 2026 09:55:30 GMT | Emergency & Residential Locksmith Services by a Leading Locksmith | The Lock Specialist Ltd | [Read More](https://medium.com/p/63d30072f919) |
+| Tue, 24 Feb 2026 09:53:22 GMT | Penetration Test Web Application Security Tips | Application Security Master | [Read More](https://medium.com/p/ab4edc2660d4) |
+| Tue, 24 Feb 2026 09:52:06 GMT | 9 Powerful Defensive Simulation Workflows for IR | Pentest_Testing_Corp | [Read More](https://medium.com/p/eb8fdae44ade) |
+| Tue, 24 Feb 2026 09:51:21 GMT | Hacking Active Directory: From Initial Foothold to Domain Admin | Candy Wong | [Read More](https://medium.com/p/bbacbe19d2aa) |
+| Tue, 24 Feb 2026 09:47:00 GMT | Inside Google Data Center Security: How Your Data is Protected | Shreya Patil | [Read More](https://medium.com/p/a2ef6c9a3240) |
+| Tue, 24 Feb 2026 09:46:56 GMT | The Digital Fortress: A Peek Inside the High-Tech World of Google Data Centers | Gurleen Kaur Lohia | [Read More](https://medium.com/p/3d943474bfbc) |
+| Tue, 24 Feb 2026 09:46:44 GMT | Inside a Google Data Centre: The High-Tech Engine Powering Your Digital Life in India | Samidhahagavane | [Read More](https://medium.com/p/a8fb8a98b234) |
+| Tue, 24 Feb 2026 09:45:26 GMT | What OEMs Need to Know About Vehicle Alarm Exporters? | Gajesh Arya | [Read More](https://medium.com/p/db9142f33661) |
+| Tue, 24 Feb 2026 09:42:11 GMT | I Found 7 Python Security Mistakes in My Own Code (And Here Is How I Fixed Them) | inprogrammer | [Read More](https://medium.com/p/1c83ac976eb5) |
+| Tue, 24 Feb 2026 09:19:31 GMT | The Double Edged Sword (AI Coding Agent): Power, Illusion & Hidden Cost | Anmolrajput | [Read More](https://medium.com/p/f3faf17143f6) |
 | Tue, 24 Feb 2026 09:18:57 GMT | The Silent Sentinels: Why Global Data Centers are the Fortresses of Our Digital Lives | Ishitanagtilak | [Read More](https://medium.com/p/8b4eba4c21bb) |
 | Tue, 24 Feb 2026 09:18:27 GMT | The Evolution of Style Transfer: A Comprehensive Analysis of StyleDrop (2026) | Career Growth Notes | [Read More](https://medium.com/p/676a8347e59e) |
 | Tue, 24 Feb 2026 09:17:36 GMT | How Agentic AI Ensures Data Privacy and Security - Ascendion | Ascendion | [Read More](https://medium.com/p/5bd9ae2506c5) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Feb 2026 04:24:00 GMT | Hashing: The Silent Guardian of Digital Security | Goutham Kalla | [Read More](https://medium.com/p/58bfa0faced8) |
 | Tue, 24 Feb 2026 04:23:11 GMT | CIPP/E Certification 2025: New Exam Pattern, Updated Topics, and Preparation Guide | InfosecTrain | [Read More](https://medium.com/p/3ab969995ee7) |
 | Tue, 24 Feb 2026 04:11:49 GMT | Enhance Account Security and Management with PVACreator's Automation Tools | Thomasjuan | [Read More](https://medium.com/p/ac84deb4d8e3) |
-| Tue, 24 Feb 2026 04:11:04 GMT | Axiom vs. Method of Access in AI Era: A Paradigm Shift in IP Law | Supat Charoensappuech | [Read More](https://medium.com/p/de0f661e80b6) |
-| Tue, 24 Feb 2026 04:09:52 GMT | Deobfuscating Weaponized LNKs: HTB Sherlocks “A Call from the Museum” Write-up | Allif Maulana Sakti | [Read More](https://medium.com/p/be27833be407) |
-| Tue, 24 Feb 2026 04:09:11 GMT | Beyond the Jump Box: Why the Bastion Host is Now a Legacy Pattern | Rushikesh Nikam | [Read More](https://medium.com/p/f0a2f2d90f40) |
-| Tue, 24 Feb 2026 03:46:54 GMT | Damn Shame | Mina Kazimierczak | [Read More](https://medium.com/p/c5c18228430e) |
-| Tue, 24 Feb 2026 03:35:15 GMT | Automated Guardrails in Cybersecurity: How to Enforce Security Without Slowing Down Innovation | Dennis Duke | [Read More](https://medium.com/p/e397e710bb5d) |
-| Tue, 24 Feb 2026 03:35:11 GMT | The World’s Most Secure Operating System: Qubes OS | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/859f390cb7e0) |
-| Tue, 24 Feb 2026 03:32:09 GMT | Become a Sponsor on Cyber Kalki Matrix — Permanent Visibility in the Cyber Kalki Intelligence… | ElonMuskTheAntichrist | [Read More](https://medium.com/p/82567a8507fe) |
-| Tue, 24 Feb 2026 02:59:46 GMT | From Reactive to Autonomous Defense: Multi-Agent AI in Brokerage Security | Ashmitha Nagraj | [Read More](https://medium.com/p/c0e4b2d84b8a) |
-| Tue, 24 Feb 2026 02:54:26 GMT | Most Code Reviews Are Theater | The Dev Notebook | [Read More](https://medium.com/p/f7d4b7149772) |
-| Tue, 24 Feb 2026 02:41:36 GMT | Recon? Fuzzing? Exploitation? No just a web sec write-up. | 123456789uwu | [Read More](https://medium.com/p/58ff5f992611) |
-| Tue, 24 Feb 2026 02:34:29 GMT | Intigriti Challenge 0226 : Stored XSS & CSP Bypass | Achraf (@40rbidd3n) | [Read More](https://medium.com/p/a8d65a55631f) |
-| Tue, 24 Feb 2026 02:31:01 GMT | The Ultimate Public Crime Scene: Why Web3 Hackers Don’t Need Server Logs | Tabrez Mukadam | [Read More](https://medium.com/p/4d4589ff8f85) |
-| Tue, 24 Feb 2026 02:26:01 GMT | XSS Challenge Walkthrough — Time Out! | sh4d0wpkt | [Read More](https://medium.com/p/6b00084f03fb) |
-| Tue, 24 Feb 2026 02:23:07 GMT | 12 Seconds Is All You Need to Take a Summarized Note!! | Alareqi | [Read More](https://medium.com/p/ce195626732e) |
-| Tue, 24 Feb 2026 02:22:02 GMT | From Semantics to Unified Spiderweb Fields | Supat Charoensappuech | [Read More](https://medium.com/p/154d43b170c3) |
-| Tue, 24 Feb 2026 02:11:51 GMT | Tuesday Morning Threat Report: Feb 24, 2026 | Mark Maguire | [Read More](https://medium.com/p/1bcbea47d9b0) |
-| Tue, 24 Feb 2026 02:09:30 GMT | AI Pentesting—A New Career Path in Offensive Security | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/01ea1e128cc8) |
-| Tue, 24 Feb 2026 01:58:20 GMT | LLM02:2025 — Sensitive Information Disclosure Explained | Cyber-AppSec | [Read More](https://medium.com/p/632cf85af439) |
