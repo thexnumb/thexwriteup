@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Feb 2026 07:02:14 GMT | How Is Construction Site Security Protecting Projects From Theft? | Ravi Kalidindi | [Read More](https://medium.com/p/aa4a5e38ae05) |
+| Tue, 24 Feb 2026 07:01:00 GMT | 2️. Understanding Git Architecture | Mangesh Muley | [Read More](https://medium.com/p/3b74d50aed53) |
+| Tue, 24 Feb 2026 06:58:29 GMT | PAYPAL DATA BREACH SHOCKER: Millions Trust It — But Your Identity Might Have Been Exposed | Hartarto | [Read More](https://medium.com/p/0841cb179877) |
+| Tue, 24 Feb 2026 06:55:35 GMT | How To Protect Your Business Data When Employees Work From Anywhere | Ajekigbe Michael. A | [Read More](https://medium.com/p/23be0634f362) |
+| Tue, 24 Feb 2026 06:53:18 GMT | Securing Azure Storage Accounts with Private Endpoints, A Hands-On AZ-500 Lab | Amal Udayanga Basnayake | [Read More](https://medium.com/p/ea657f2defa5) |
+| Tue, 24 Feb 2026 06:43:30 GMT | DOM XSS: When JavaScript Becomes the Vulnerability | Issan | [Read More](https://medium.com/p/887cc0dee69f) |
+| Tue, 24 Feb 2026 06:38:51 GMT | How to Prevent SQL Injection in Modern Applications | Mark L. Hill | [Read More](https://medium.com/p/78d8b82142db) |
+| Tue, 24 Feb 2026 06:36:56 GMT | How Secure Web Apps Build Customer Trust and Compliance | Sameer Khandelwal | [Read More](https://medium.com/p/65bb61b84890) |
+| Tue, 24 Feb 2026 06:35:19 GMT | What is a Private Branch Exchange (PBX)? | Doris William | [Read More](https://medium.com/p/7e315e1f64ba) |
+| Tue, 24 Feb 2026 06:35:02 GMT | AI as a Capital Multiplier: Why Humans Become More Valuable | Vijay Kumar Gupta | [Read More](https://medium.com/p/12334e4831c5) |
+| Tue, 24 Feb 2026 06:26:00 GMT | How to Pass CSA v2 Exam on First Attempt — My 91% Score Strategy | Abhinsubej | [Read More](https://medium.com/p/a7aace0051ec) |
+| Tue, 24 Feb 2026 06:24:56 GMT | How to Give Your AI Agent Access to Your Chrome Browser (And Why You Should Be Scared) | Sébastien Dubois | [Read More](https://medium.com/p/d39a391773fb) |
+| Tue, 24 Feb 2026 06:22:37 GMT | The AI That Controls the World: A Tech-Thriller Series (Part 1) | Chamindu Dilshan | [Read More](https://medium.com/p/4ea43c211d04) |
+| Tue, 24 Feb 2026 06:21:36 GMT | HTTP Headers Every Hacker Should Know: When One Header Breaks All Security | Nitin yadav | [Read More](https://medium.com/p/6531aece5d89) |
+| Tue, 24 Feb 2026 06:20:52 GMT | AoTR2 — Operation Winter Blackout — HackTheBox | Yrddry | [Read More](https://medium.com/p/b6f72a37a61e) |
+| Tue, 24 Feb 2026 06:20:43 GMT | Token Theft and Session Hijacking: The New Frontier of Identity Attacks | Cynox Security LLP. | [Read More](https://medium.com/p/dccce0cc625a) |
+| Tue, 24 Feb 2026 06:05:27 GMT | Wide OpenClaw: Abusing Loose Permissions for the Powerful AI Assistant | grepStrength | [Read More](https://medium.com/p/e18c4469c15b) |
+| Tue, 24 Feb 2026 05:57:31 GMT | What Is Tactical Threat Intelligence and Why Your Organization Needs It | Trust Consulting Services | [Read More](https://medium.com/p/c10170063d9c) |
+| Tue, 24 Feb 2026 05:56:50 GMT | Security Shutters in Melbourne: Why Are They Essential | Nebojsa Malenic | [Read More](https://medium.com/p/abf6a41a89ce) |
+| Tue, 24 Feb 2026 05:55:43 GMT | Claude Code Security Found 500 Vulnerabilities. A Smarter Scanner That Still Needs a Human. | Kaynat Muzaffar | [Read More](https://medium.com/p/ff2d145c73d6) |
+| Tue, 24 Feb 2026 05:50:04 GMT | Why CAPTCHA Is Killing Your AI Traffic (And What to Do Instead) | Bridge AI | [Read More](https://medium.com/p/ea1d6acae3be) |
 | Tue, 24 Feb 2026 05:35:08 GMT | 28bet 2026: Phân Tích Hệ Thống Bảo Mật Và Tiêu Chuẩn Công Nghệ Cá Cược Toàn Cầu | 報數十一員 | [Read More](https://medium.com/p/6b091741f85b) |
 | Tue, 24 Feb 2026 05:31:00 GMT | When /phpmyadmin Isn’t Hidden Anymore: An Exposed Database Panel | Manav | [Read More](https://medium.com/p/a48c85ad8188) |
 | Tue, 24 Feb 2026 05:25:46 GMT | Exploring ISTIO Ambient Mode on Nutanix Kubernetes Platform(NKP) | Arun Kumar R | [Read More](https://medium.com/p/599fd40af394) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Feb 2026 20:53:16 GMT | what is red team | Kevin Ronex | [Read More](https://medium.com/p/777c62779d49) |
 | Mon, 23 Feb 2026 20:51:05 GMT | Building an Agentic SOC on Elastic | One Equals One | [Read More](https://medium.com/p/0edfa46ddb10) |
 | Mon, 23 Feb 2026 20:46:09 GMT | How the CISO Role Transformed Before My Eyes From Technical Gatekeeper to Strategist Leader | Younos Nazarian | [Read More](https://medium.com/p/f217c95a1ffb) |
-| Mon, 23 Feb 2026 20:39:52 GMT | Every Threat Model Dies Within Two Sprints | Animesh Srivastava | [Read More](https://medium.com/p/fbced48a8c9c) |
-| Mon, 23 Feb 2026 20:32:13 GMT | FahemSec HackStart CTF | Salma Muhamed | [Read More](https://medium.com/p/63daccb960fb) |
-| Mon, 23 Feb 2026 20:24:23 GMT | Try Hack Me- Atlas CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/694e663a8374) |
-| Mon, 23 Feb 2026 20:09:14 GMT | How Python Can Be Used to Extract Geolocation and Metadata from Documents, Images, and Browsers | Bits & Bytes Podcast Newsletter | [Read More](https://medium.com/p/d5ffa6abea9f) |
-| Mon, 23 Feb 2026 20:07:34 GMT | How I Tracked a Hacker from China: WebStrike Forensic Investigation | Allif Maulana Sakti | [Read More](https://medium.com/p/9aadbbd22446) |
-| Mon, 23 Feb 2026 20:06:24 GMT | Designing a sub-millisecond, self-hostable risk scoring component for login flows | Kardespro | [Read More](https://medium.com/p/388a58a1760c) |
-| Mon, 23 Feb 2026 19:52:36 GMT | Why Real API Breaches Happen Through Chains, Not Single Bugs | Boluwatife Dada | [Read More](https://medium.com/p/04888bd22057) |
-| Mon, 23 Feb 2026 19:40:43 GMT | Post-Quantum Cybersecurity | Dietmar Marggraff | [Read More](https://medium.com/p/e26ba5e1ba15) |
-| Mon, 23 Feb 2026 19:38:43 GMT | CASE FILE #DF-WEBSTRIKE - CLASSIFIED | kanieloutis | [Read More](https://medium.com/p/5fa49c94442b) |
-| Mon, 23 Feb 2026 19:33:24 GMT | 100 days AI Security: Day 1: What Is AI Security and Why It Matters More Than Ever | Budhdi Sharma | [Read More](https://medium.com/p/5f858011eb23) |
-| Mon, 23 Feb 2026 19:33:02 GMT | When the Tracks Go Silent: A Cyberattack That Didn’t Stop the Trains, but Sent a Message | Gbolahan Akinbola | [Read More](https://medium.com/p/bb96d1c6516d) |
-| Mon, 23 Feb 2026 19:28:00 GMT | Somewhere to Fall, Part II — After the Collapse | Alizabeth Amelia Rose | [Read More](https://medium.com/p/790f45d6f726) |
-| Mon, 23 Feb 2026 19:27:38 GMT | Ağ Arayüz Kartı (NIC) Nedir? Bilgisayar İnternete Nasıl Çıkıyor? | Arda Derya | [Read More](https://medium.com/p/a0b68116f8ff) |
-| Mon, 23 Feb 2026 19:21:37 GMT | A Threat Model for Agentic AI (MCP, A2A & Swarm Systems) | Viplav Fauzdar | [Read More](https://medium.com/p/f04cfcfa52ca) |
-| Mon, 23 Feb 2026 19:20:20 GMT | TryHackMe - JavaScript: Simple Demo - WriteUp | Axoloth | [Read More](https://medium.com/p/342554dc6079) |
-| Mon, 23 Feb 2026 19:08:18 GMT | Cracking DVRIP/Sofia Hashes With Python | Kostas Ereksonas | [Read More](https://medium.com/p/e7596a6004bf) |
-| Mon, 23 Feb 2026 18:47:57 GMT | Welcome to My Blog | Trueprogress_Tech | [Read More](https://medium.com/p/bfd3a08de8ec) |
-| Mon, 23 Feb 2026 18:42:52 GMT | CrowdStrike Can Manipulate Your Clock, And Other Ways Cybersecurity Vendors Ignore Least Privilege | Christopher Ariza | [Read More](https://medium.com/p/eb368ea118c2) |
-| Mon, 23 Feb 2026 18:38:00 GMT | Volume Shadow Copies: The Hidden Evidence Goldmine You Need to Know About | Dean | [Read More](https://medium.com/p/f97ee917e78f) |
-| Mon, 23 Feb 2026 18:28:49 GMT | I Bypassed an Admin Panel Using One HTTP Header | TEJAS | [Read More](https://medium.com/p/a8587a4e6f7c) |
-| Mon, 23 Feb 2026 18:24:29 GMT | Part 5: The Grand Finale — Building a Master Shield for the Digital Age | Telman Hajibutayev | [Read More](https://medium.com/p/1a4ac49b2c66) |
