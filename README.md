@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Feb 2026 22:35:07 GMT | Command and Control (C2) Frameworks | Allen Ace | [Read More](https://medium.com/p/99a58f87fae8) |
+| Tue, 24 Feb 2026 22:33:23 GMT | Configuration and Deployment Management Testing | Diva Rizky Alfitrah | [Read More](https://medium.com/p/1dd501944f73) |
+| Tue, 24 Feb 2026 22:24:44 GMT | What a Cyberpsychologist Sees When You Open Instagram | Michael Davis | [Read More](https://medium.com/p/c41ad2f116b4) |
+| Tue, 24 Feb 2026 22:16:48 GMT | Speck Shellcode Encryption with Session Key Wrapping | S12 - 0x12Dark Development | [Read More](https://medium.com/p/d5f226fa7a71) |
+| Tue, 24 Feb 2026 22:03:53 GMT | Təhlükəsizlik Konsepsiyalarının Sintezi: Vahid Təhlükəsizlik Strategiyasının Qurulması | Nurmammadov Sabuhi | [Read More](https://medium.com/p/582a0f5b5081) |
+| Tue, 24 Feb 2026 22:03:30 GMT | Security Through Obscurity | Nurmammadov Sabuhi | [Read More](https://medium.com/p/a00a5c2eaf40) |
+| Tue, 24 Feb 2026 22:01:12 GMT | Fixing “error while loading shared libraries” on Arch Linux | sassywoocoo | [Read More](https://medium.com/p/29c67361519e) |
+| Tue, 24 Feb 2026 22:01:01 GMT | Unfiltered Restart — Day 11: Printers | Maximillian Rueda | [Read More](https://medium.com/p/000268de963f) |
+| Tue, 24 Feb 2026 22:00:21 GMT | Title: My Journey through Bandit Level 8 → Level 9: The Power of “Strings” | Abderrhim Aoudj | [Read More](https://medium.com/p/50495a0f64fe) |
+| Tue, 24 Feb 2026 21:53:49 GMT | Beyond the Exploit: Why Euclid Protocol’s Virtual Liquidity is DeFi’s New Shield | Osas Edosa | [Read More](https://medium.com/p/9a7d11894c96) |
+| Tue, 24 Feb 2026 21:52:25 GMT | TuesdayTool 40: RansomLook, Real-Time Ransomware Threat Intelligence Dashboard | Oloyede Olajumoke Elizabeth | [Read More](https://medium.com/p/d14c869c77e1) |
+| Tue, 24 Feb 2026 21:47:18 GMT | A Dual-Channel Framework for Future Adverse Event Detection
+Exploring Semantic Methods + Alphabet… | Rahul_M | [Read More](https://medium.com/p/31a9d4a7038b) |
+| Tue, 24 Feb 2026 21:42:30 GMT | SentinelOS: Integrity-First Debian With Policy-as-Packages (and Why Drift is a Security Bug) | GHx57d3v | [Read More](https://medium.com/p/4796e24dfe33) |
+| Tue, 24 Feb 2026 21:37:07 GMT | I Find IDOR Bug in Hacking Hub Challenge - VulnBegin | The Cyberboy | [Read More](https://medium.com/p/e0fa7188668b) |
+| Tue, 24 Feb 2026 21:36:34 GMT | Networking Finally Clicked: How OSI, Nmap, and Host Discovery Started Making Sense (eJPT Day 6) | getroot.dev | [Read More](https://medium.com/p/a46853a80527) |
 | Tue, 24 Feb 2026 21:33:13 GMT | From Zero to Domain Admin: Building and Attacking an Active Directory Lab | Robert Perez | [Read More](https://medium.com/p/8e1f95a8e205) |
 | Tue, 24 Feb 2026 21:28:15 GMT | Security risks with Blockchain hot/cold wallets | Rpp | [Read More](https://medium.com/p/b0d7d6157488) |
 | Tue, 24 Feb 2026 21:25:03 GMT | Why Your Family Needs a VPN in 2026 — And How to Pick the Right One | @l3j0 | [Read More](https://medium.com/p/edbbb9254f72) |
@@ -97,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Feb 2026 15:35:23 GMT | ZinadIT CTF 2026 — Calc&Broken Reversing | VampireXRay | [Read More](https://medium.com/p/2f28052a0cbd) |
 | Tue, 24 Feb 2026 15:30:49 GMT | PayPal’s Silent Data Leak: The 6-Month Security Failure Nobody Noticed | Hartarto | [Read More](https://medium.com/p/ef5211a1997c) |
 | Tue, 24 Feb 2026 15:18:22 GMT | I Wish We Understood That Being ‘Cool’ Costs You Depth | LSD | [Read More](https://medium.com/p/5c57581b181e) |
-| Tue, 24 Feb 2026 15:11:23 GMT | AI-Powered Cyber Attacks | Baffour Dokyi Ampaw | [Read More](https://medium.com/p/58874c3bd98e) |
-| Tue, 24 Feb 2026 15:05:13 GMT | 10 Persistence Methods Every Red Teamer MUST Master | Candy Wong | [Read More](https://medium.com/p/fd07a68b0f83) |
-| Tue, 24 Feb 2026 15:02:21 GMT | D4/60: Cyber Attack Concepts and Techniques | Chima A M | [Read More](https://medium.com/p/d9be8679d9b4) |
-| Tue, 24 Feb 2026 15:01:14 GMT | Cyber Briefing: 2026.02.24 | CyberMaterial | [Read More](https://medium.com/p/238b5e2d2d50) |
-| Tue, 24 Feb 2026 14:53:06 GMT | The One Thing Every AI Startup Gets Wrong About Agent Execution | Aniket giri | [Read More](https://medium.com/p/dd295020dbb1) |
-| Tue, 24 Feb 2026 14:50:15 GMT | Reliable WordPress QA Testing Service for Bug-Free, Secure & High-Performance Websites | Wpexpert24 | [Read More](https://medium.com/p/da9581caf8f6) |
-| Tue, 24 Feb 2026 14:46:00 GMT | Write-up Máquina LFI.elf de DockerLabs | Joel Morillas Pagan (Ghxstsec) | [Read More](https://medium.com/p/f68e4c44e21f) |
-| Tue, 24 Feb 2026 14:45:16 GMT | Why Your Bug Bounty Hunting Will Earn Nothing (And Technical Skills Aren’t the Problem | R.H Rizvi | [Read More](https://medium.com/p/247f778fae6a) |
-| Tue, 24 Feb 2026 14:44:57 GMT | LXD Üzerinde On-Prem Kubernetes: Mikro-Segmentasyon, Gözlemlenebilirlik ve MetalLB Mimarisi | Silaabahadir | [Read More](https://medium.com/p/2256d46860f6) |
-| Tue, 24 Feb 2026 14:39:06 GMT | Enterprise ELK: Security, Alerting & Cost Optimization | Alfatah Jalalludin | [Read More](https://medium.com/p/53d60d157ada) |
-| Tue, 24 Feb 2026 14:36:01 GMT | The Internet Has a Trust Problem. OpenVPT Is My Attempt to Fix It. | Vojtech Sejkora | [Read More](https://medium.com/p/372c05b0c633) |
-| Tue, 24 Feb 2026 14:35:14 GMT | A Service That Locks Everything Until Death Is Verified, Without Handing Over Access Too Early | Olivia Martillo | [Read More](https://medium.com/p/8ef28f0904fc) |
-| Tue, 24 Feb 2026 14:35:08 GMT | The “Traceability” Gap: How to Write Logs That Actually Solve Problems | Adityadalwadi | [Read More](https://medium.com/p/012f470eb8a7) |
-| Tue, 24 Feb 2026 14:32:53 GMT | Industrial-Scale Distillation Attacks: The New Frontier Threat to AI Systems | Rakeshkhanduja | [Read More](https://medium.com/p/cde62e906a8f) |
-| Tue, 24 Feb 2026 14:31:01 GMT | Mükemmel Kodun Peşinde: Siber Güvenlikte ‘İnsani’ Yanılgılarımız | Zerioth Cypher Evidence | [Read More](https://medium.com/p/20e82e889910) |
