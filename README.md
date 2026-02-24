@@ -12,9 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 24 Feb 2026 05:35:08 GMT | 28bet 2026: Phân Tích Hệ Thống Bảo Mật Và Tiêu Chuẩn Công Nghệ Cá Cược Toàn Cầu | 報數十一員 | [Read More](https://medium.com/p/6b091741f85b) |
+| Tue, 24 Feb 2026 05:31:00 GMT | When /phpmyadmin Isn’t Hidden Anymore: An Exposed Database Panel | Manav | [Read More](https://medium.com/p/a48c85ad8188) |
+| Tue, 24 Feb 2026 05:25:46 GMT | Exploring ISTIO Ambient Mode on Nutanix Kubernetes Platform(NKP) | Arun Kumar R | [Read More](https://medium.com/p/599fd40af394) |
+| Tue, 24 Feb 2026 05:21:13 GMT | Top 10 Networking Concepts Every Ethical Hacker Must Know | 0xSmit | [Read More](https://medium.com/p/663b80896fb1) |
+| Tue, 24 Feb 2026 05:20:46 GMT | The Ultimate Mobile App Security Checklist for 2026 | Devin Rosario | [Read More](https://medium.com/p/6239b1e4ecc2) |
+| Tue, 24 Feb 2026 04:58:24 GMT | HTTP Is Not the Whole Story | Afina Browser | [Read More](https://medium.com/p/acbaa7d0cb3f) |
+| Tue, 24 Feb 2026 04:41:00 GMT | 8 tool-contract myths (and what actually prevents bad actions) | Yamishift | [Read More](https://medium.com/p/fbd31ba63478) |
+| Tue, 24 Feb 2026 04:38:14 GMT | Post-Quantum Cryptography: The Upgrade the Internet Can’t Postpone | Vijayakumar Manjunatha | [Read More](https://medium.com/p/f7d0c54dd8ea) |
+| Tue, 24 Feb 2026 04:31:01 GMT | How to React When You Face a Security Breach in Your Application | Muthukumar Kannan | [Read More](https://medium.com/p/bf54942102e2) |
+| Tue, 24 Feb 2026 04:31:01 GMT | Anthropic Introduces Claude Code Security for AI-Driven Vulnerability Detection and Patch… | Cybersphere Official | [Read More](https://medium.com/p/6f51f566c934) |
 | Tue, 24 Feb 2026 04:28:50 GMT | What is Phishing Attack? A Beginner’s Guide to Stay Safe Online | Yogesh Mali | [Read More](https://medium.com/p/45d148c9bad9) |
 | Tue, 24 Feb 2026 04:25:47 GMT | Cloud-Based Password Managers Share a Hidden Weakness | Tomas Bucek | [Read More](https://medium.com/p/b70bd7a4f030) |
 | Tue, 24 Feb 2026 04:25:30 GMT | The Abstraction Cascade | Michael Schroeder | [Read More](https://medium.com/p/52e7d28ef44f) |
+| Tue, 24 Feb 2026 04:24:00 GMT | Hashing: The Silent Guardian of Digital Security | Goutham Kalla | [Read More](https://medium.com/p/58bfa0faced8) |
 | Tue, 24 Feb 2026 04:23:11 GMT | CIPP/E Certification 2025: New Exam Pattern, Updated Topics, and Preparation Guide | InfosecTrain | [Read More](https://medium.com/p/3ab969995ee7) |
 | Tue, 24 Feb 2026 04:11:49 GMT | Enhance Account Security and Management with PVACreator's Automation Tools | Thomasjuan | [Read More](https://medium.com/p/ac84deb4d8e3) |
 | Tue, 24 Feb 2026 04:11:04 GMT | Axiom vs. Method of Access in AI Era: A Paradigm Shift in IP Law | Supat Charoensappuech | [Read More](https://medium.com/p/de0f661e80b6) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 23 Feb 2026 18:38:00 GMT | Volume Shadow Copies: The Hidden Evidence Goldmine You Need to Know About | Dean | [Read More](https://medium.com/p/f97ee917e78f) |
 | Mon, 23 Feb 2026 18:28:49 GMT | I Bypassed an Admin Panel Using One HTTP Header | TEJAS | [Read More](https://medium.com/p/a8587a4e6f7c) |
 | Mon, 23 Feb 2026 18:24:29 GMT | Part 5: The Grand Finale — Building a Master Shield for the Digital Age | Telman Hajibutayev | [Read More](https://medium.com/p/1a4ac49b2c66) |
-| Mon, 23 Feb 2026 18:24:14 GMT | Part4: The “Hidden Key” Debate: Is Security Through Obscurity Actually Secure? | Telman Hajibutayev | [Read More](https://medium.com/p/29522d3a905f) |
-| Mon, 23 Feb 2026 18:18:31 GMT | 7 Cybersecurity Mistakes Small Businesses Make (And How to Fix Them Today) | AbuHussain | [Read More](https://medium.com/p/1222ae0b0b26) |
-| Mon, 23 Feb 2026 18:05:45 GMT | IEC 62443: The “Gold Standard” for Industrial Security Simplified | Dasmanish | [Read More](https://medium.com/p/7e920937bc9f) |
-| Mon, 23 Feb 2026 18:03:20 GMT | 5 GRC Resume Templates for Cybersecurity Beginners | Rich Chen | [Read More](https://medium.com/p/b09901534351) |
-| Mon, 23 Feb 2026 18:01:03 GMT | Dispatch queue at shift start: one wrong sign, missed transfers | James Kuhman | [Read More](https://medium.com/p/240eba5ae42e) |
-| Mon, 23 Feb 2026 18:00:30 GMT | Your Privacy Isn’t Just Yours | Shivadharshini A | [Read More](https://medium.com/p/d8aa2d7d06dd) |
-| Mon, 23 Feb 2026 18:00:27 GMT | 5 Help Desk Resume Templates for Cybersecurity Beginners | Rich Chen | [Read More](https://medium.com/p/7d65c5f3aa9b) |
-| Mon, 23 Feb 2026 17:59:42 GMT | 5 Frontend Security Hacks to Save Your React App in 2026, My Real-World Fixes | Sanjeevani Bhandari | [Read More](https://medium.com/p/486cda6fbc64) |
-| Mon, 23 Feb 2026 17:59:26 GMT | Built to Doubt: The Adoptee’s Lifelong Struggle with Trust | MS | [Read More](https://medium.com/p/8f8cd06448e6) |
-| Mon, 23 Feb 2026 17:57:11 GMT | Red Team Weapon: RapidDNS CLI + Nuclei/Httpx for Automated Vulnerability Mining Pipeline | rapiddns | [Read More](https://medium.com/p/c903ba691dc7) |
-| Mon, 23 Feb 2026 17:51:22 GMT | Offensive Security, Red Team & Pentest: Você Não Entende Nenhum dos Três | Sp1d3rM | [Read More](https://medium.com/p/6fdd27ff0000) |
