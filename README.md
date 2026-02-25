@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Feb 2026 19:53:00 GMT | AI’s Future — Bible’s Predictions: Humanity’s Destination | - The Dribbler - | [Read More](https://medium.com/p/78e1dc2ff5b0) |
+| Wed, 25 Feb 2026 19:48:58 GMT | TryHackMe - Defensive Security Intro - WriteUp | Axoloth | [Read More](https://medium.com/p/df0eba43bddc) |
+| Wed, 25 Feb 2026 19:38:17 GMT | “Your Cloud Isn’t Secure. It’s Just Unscanned.” | HackTrace | [Read More](https://medium.com/p/f37ca7156a94) |
+| Wed, 25 Feb 2026 19:32:31 GMT | One Love, One Network: What Bob Marley Can Teach MSPs About Cybersecurity | Saltiest of Souls | [Read More](https://medium.com/p/c3a91194fe9e) |
+| Wed, 25 Feb 2026 19:32:14 GMT | THM: Vulnerability Capstone | Murad Salem | [Read More](https://medium.com/p/1fdba87fd651) |
+| Wed, 25 Feb 2026 19:32:04 GMT | Least Context Access Control: A Framework for Pre-Execution AI Governance | Qstackfield | [Read More](https://medium.com/p/e3b54d1493d7) |
+| Wed, 25 Feb 2026 19:31:38 GMT | Access Control Vulnerabilities — PortSwigger Labs - Apprentice Levels | Aytac | [Read More](https://medium.com/p/f210cee7bbc0) |
+| Wed, 25 Feb 2026 19:19:27 GMT | The Old Con, Upgraded | Raphael Savastano | [Read More](https://medium.com/p/872b87da1511) |
+| Wed, 25 Feb 2026 19:17:01 GMT | Mastering User Access Review: A Guide to Identity Governance and Compliance | Rasika Satpute | [Read More](https://medium.com/p/7e6576a34a4d) |
+| Wed, 25 Feb 2026 19:13:35 GMT | Most Sites Have No Idea What’s Crawling Them. We’re Fixing That. | Silkbriar | [Read More](https://medium.com/p/96c44aa88ba0) |
+| Wed, 25 Feb 2026 19:06:47 GMT | Deepfakes and Women’s Dignity | ADITI | [Read More](https://medium.com/p/a962191f3733) |
+| Wed, 25 Feb 2026 19:02:18 GMT | Microsoft Introduces User Site Permissions Report in SharePoint Admin Center | Ryan Adams | [Read More](https://medium.com/p/e5034697f7a1) |
 | Wed, 25 Feb 2026 19:01:01 GMT | Cybersecurity Best Practices 2024: Enterprise Security Guide | Zyvora Technologies | [Read More](https://medium.com/p/776a4adf7edf) |
 | Wed, 25 Feb 2026 18:58:23 GMT | How to Bypass WhatsApp Verification without a Phone Number in 2026 | NNayak | [Read More](https://medium.com/p/5dfc4e263a0d) |
 | Wed, 25 Feb 2026 18:53:01 GMT | Data Center Marketing Guide (2026): How to Build Trust, Win Shortlists, and Grow Pipeline | Percepture | [Read More](https://medium.com/p/2b0fc0be9a68) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Feb 2026 13:43:30 GMT | How to Buy, Manage, and Act on Security Testing at Your Company | Spurt! | [Read More](https://medium.com/p/05f388c29cbc) |
 | Wed, 25 Feb 2026 13:27:23 GMT | Is Your Partner Hiding Something? How to Find the Truth in the Digital Age | ShababX | [Read More](https://medium.com/p/24c0e3633ca6) |
 | Wed, 25 Feb 2026 13:25:09 GMT | What Happens During a Real Cybersecurity Incident? (Step-by-Step Breakdown) | Dhakshineshwara Balaji | [Read More](https://medium.com/p/274c6616778a) |
-| Wed, 25 Feb 2026 13:16:12 GMT | WSTG-CONF-06, WSTG-SESS-02, WSTG-SESS-06 | Narathama Firmansyah Putra | [Read More](https://medium.com/p/ed43e6ef9117) |
-| Wed, 25 Feb 2026 13:06:15 GMT | Why Technology First AI Initiatives Fail And How Business Led Strategy Delivers Real Enterprise… | Vygha | [Read More](https://medium.com/p/bdb18dc74fa2) |
-| Wed, 25 Feb 2026 13:00:30 GMT | Vaultwarden on Docker: Backups, admin access model, and restore test (a real setup) | Thomas Byern | [Read More](https://medium.com/p/0509183e34ff) |
-| Wed, 25 Feb 2026 13:00:29 GMT | Session Management: Session — Cookie — JWT (How Do We Prove Our Identity in a Stateless World?) | Melisa Akkuş | [Read More](https://medium.com/p/d2eeea1b960c) |
-| Wed, 25 Feb 2026 12:59:47 GMT | Oturum Yönetimi: Session — Cookie — JWT (Stateless Dünyada Kimliğimizi Nasıl Kanıtlıyoruz?) | Melisa Akkuş | [Read More](https://medium.com/p/ecf07226eaae) |
-| Wed, 25 Feb 2026 12:42:51 GMT | Advanced Command Vehicles for Modern Emergency Response | Olivia Williams | [Read More](https://medium.com/p/6a4b14ab12f2) |
-| Wed, 25 Feb 2026 12:42:17 GMT | What They Don’t Tell You About AI | Brian Rosta | [Read More](https://medium.com/p/76fa5169a555) |
-| Wed, 25 Feb 2026 12:41:57 GMT | stapler walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/62b762e6f19d) |
-| Wed, 25 Feb 2026 12:41:28 GMT | How the Internet Works | Ruchimandhare | [Read More](https://medium.com/p/2e7b90140acd) |
-| Wed, 25 Feb 2026 12:40:20 GMT | Google Data Center | Ruchimandhare | [Read More](https://medium.com/p/0705a7128e61) |
-| Wed, 25 Feb 2026 12:30:46 GMT | Improve Safety with Contractor Compliance Software | Semieta | [Read More](https://medium.com/p/d2cbcd887158) |
-| Wed, 25 Feb 2026 12:25:46 GMT | The Dark Side of Generative AI in Cybercrime | Abdullah Mohammed Mushtaq | [Read More](https://medium.com/p/b0f0d06275bd) |
