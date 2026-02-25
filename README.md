@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Feb 2026 11:37:44 GMT | The Chrome Bug That Turns CSS Into a Weapon (And It’s Already Being Exploited) | J.C. James | [Read More](https://medium.com/p/b5bfc829a0e1) |
+| Wed, 25 Feb 2026 11:31:23 GMT | From Correlation to Context: How Modern SIEMs Think in 2026 | NetWitness | [Read More](https://medium.com/p/18cd938a644a) |
+| Wed, 25 Feb 2026 11:26:28 GMT | The Website Upgrade Most Growing Businesses Get Wrong (and How to Do It Right) | Ann Taylor | [Read More](https://medium.com/p/f6d2534ea5a0) |
+| Wed, 25 Feb 2026 11:25:59 GMT | Understanding Modern Cybersecurity Practices for Scalable SaaS Protection | Black Lock | [Read More](https://medium.com/p/ce22dbf9fc1c) |
+| Wed, 25 Feb 2026 11:25:33 GMT | The Founder Playbook Behind a CEE Startup’s Multi-Million Dollar Exit: The SPLX Story | Petar Tsachev | [Read More](https://medium.com/p/17b1c1fc7d13) |
+| Wed, 25 Feb 2026 11:23:39 GMT | Penetration Testing Services: Protecting Your Business in a Digital‑First World | SmartCLOUD Australia | [Read More](https://medium.com/p/af5f05f8d617) |
+| Wed, 25 Feb 2026 11:11:41 GMT | Building Resilient SaaS Security with Modern Cybersecurity Practices | Black Lock | [Read More](https://medium.com/p/26c11e7efe6d) |
+| Wed, 25 Feb 2026 11:08:11 GMT | Why Red Teaming Is Critical for Healthcare Cybersecurity in 2026 | Lucas Wade | [Read More](https://medium.com/p/c04e38a68947) |
+| Wed, 25 Feb 2026 11:05:58 GMT | Artificial Intelligence Cyber Security Course: The Future of Cyber Defense Skills | Beta New | [Read More](https://medium.com/p/c6571a91e109) |
+| Wed, 25 Feb 2026 11:01:01 GMT | When Trust Becomes the Payload | Kmori | [Read More](https://medium.com/p/3635e54f3c00) |
+| Wed, 25 Feb 2026 10:57:32 GMT | Cross-Platform Technology | Da | [Read More](https://medium.com/p/f0b38b7b35be) |
+| Wed, 25 Feb 2026 10:56:52 GMT | Operational Resilience in the Face of Cybersecurity Threats: Key Lessons from the Indigo Airlines… | Joseph Bailey | [Read More](https://medium.com/p/170e796ac60a) |
+| Wed, 25 Feb 2026 10:56:38 GMT | No one really talks about digital fatigue. | Divine Egyabeng | [Read More](https://medium.com/p/772e97fa2b24) |
+| Wed, 25 Feb 2026 10:51:56 GMT | Critical Disk Encryption Vulnerabilities Expose Systems to Root Access and Credential Theft | Jas | [Read More](https://medium.com/p/5b756068ee55) |
+| Wed, 25 Feb 2026 10:43:35 GMT | Cyber Defenders : Webstrike Lab Question and How to Solved | Muhamad Jhony Agus Stiawan | [Read More](https://medium.com/p/43d101162dd4) |
+| Wed, 25 Feb 2026 10:40:26 GMT | AI Agents Match Humans in Scientific Workflows, 2026 AI Safety Report | James Lawson | [Read More](https://medium.com/p/1cc1af545abb) |
 | Wed, 25 Feb 2026 10:40:21 GMT | Evasive — Hacksmarter writeup | GauthamV | [Read More](https://medium.com/p/1c8d2a0de52c) |
 | Wed, 25 Feb 2026 10:37:43 GMT | Beyond Support: Compliance & Privacy Services MSPs Offer in 2026 | Elevate | [Read More](https://medium.com/p/6031e232b18e) |
 | Wed, 25 Feb 2026 10:34:51 GMT | Mastering Broken Access Control: A Manual Deep Dive into OWASP Top 10 | Yashkasbe | [Read More](https://medium.com/p/89c397ccc491) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Feb 2026 06:17:33 GMT | From Monitoring to Prevention: Why Modern Businesses Need Proactive Cyber Defense | Behawk Infosec | [Read More](https://medium.com/p/6ebf8bbec51f) |
 | Wed, 25 Feb 2026 06:14:09 GMT | Top 10 Cyber Security Companies in Jaipur (Service-Focused Overview) | Anshul Goyal | [Read More](https://medium.com/p/3fc7fc8deb22) |
 | Wed, 25 Feb 2026 06:13:37 GMT | Tutorial Instalasi Virtual Box dan Kali Linux-ethical hacking | Azqia Fattimah | [Read More](https://medium.com/p/65391f51f21a) |
-| Wed, 25 Feb 2026 06:06:00 GMT | The Blast Radius Checklist: 7 Questions to Ask Before Your Next Incident | Ignatius Gigis | [Read More](https://medium.com/p/00551c64ec1d) |
-| Wed, 25 Feb 2026 06:05:22 GMT | Why Convergence India 2026 Signals the Next Wave of Technology Transformation? | LDT Technology | [Read More](https://medium.com/p/8e944425bf91) |
-| Wed, 25 Feb 2026 05:59:33 GMT | Is “Good” Enough in UX? What It Really Means to Be a UXer in 2026 | Meileah Smith | [Read More](https://medium.com/p/70fcc3de27a4) |
-| Wed, 25 Feb 2026 05:49:59 GMT | The Ultimate Guide to CISSP: Your Path to Security Mastery | Irfan Sharief | [Read More](https://medium.com/p/0732fe034fa9) |
-| Wed, 25 Feb 2026 05:40:02 GMT | Bug Bounty Hunting Routine: Why It Matters and Why You Should Follow One | Md Tanjimul Islam Sifat | [Read More](https://medium.com/p/32028d9ec906) |
-| Wed, 25 Feb 2026 05:37:28 GMT | How I Cleared CREST CPSA in 5 Days (And Built the Tool That Made It Possible) | sudosuraj | [Read More](https://medium.com/p/7d0dab2a4689) |
-| Wed, 25 Feb 2026 05:34:34 GMT | The Next Major Breach Won’t Start With Malware. It Will Start With Identity Drift. | Jaymeet Patel | [Read More](https://medium.com/p/d2939f50e367) |
-| Wed, 25 Feb 2026 05:34:22 GMT | TryHackMe — Introductory Network | Shashwat | [Read More](https://medium.com/p/f0010a578b71) |
-| Wed, 25 Feb 2026 05:28:25 GMT | The 2026 Digital Campus Guide: Top Tech Specializations at LPU and Jain University Online | Akashuv | [Read More](https://medium.com/p/eff419477d72) |
-| Wed, 25 Feb 2026 05:10:09 GMT | What is Web3? Here’s an explanation | Cynox Security LLP. | [Read More](https://medium.com/p/f91027d5783c) |
-| Wed, 25 Feb 2026 05:08:12 GMT | DLP an overview | rootRS7 | [Read More](https://medium.com/p/403b9e81c90e) |
-| Wed, 25 Feb 2026 04:59:56 GMT | The Leader Who Fumbles Forward. | Amlesh Ranjan | [Read More](https://medium.com/p/a55090cb2ee6) |
-| Wed, 25 Feb 2026 04:55:02 GMT | Stop Logging Into WhatsApp Web or using pendrives to share files in College Labs , Offices and… | Ojesh | [Read More](https://medium.com/p/3cdebec68c68) |
-| Wed, 25 Feb 2026 04:52:09 GMT | “ My inicio ” | Mora Jimenez | [Read More](https://medium.com/p/21f68e48be47) |
-| Wed, 25 Feb 2026 04:47:49 GMT | Response Manipulation Leading to Free Plan Limit Bypass | Mahmoud Gamal | [Read More](https://medium.com/p/a167235796b5) |
-| Wed, 25 Feb 2026 04:46:00 GMT | Independent Contractors vs Employees — The Legal Line Indian Startups Keep Crossing | Akhil Mishra | [Read More](https://medium.com/p/612678955b03) |
