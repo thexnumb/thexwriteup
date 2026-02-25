@@ -12,6 +12,34 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Feb 2026 16:01:07 GMT | Beyond the Click: Why Your MFA is Failing and the Rise of the Session Hijackers | Ehulse | [Read More](https://medium.com/p/143c7af12dca) |
+| Wed, 25 Feb 2026 15:59:19 GMT | How I Actually Secured My OpenClaw Setup | Mariano Mattei | [Read More](https://medium.com/p/954753e08e03) |
+| Wed, 25 Feb 2026 15:58:09 GMT | The “Delete Without Delete” Problem in AI | Amjad Saeed | [Read More](https://medium.com/p/60028b5e4454) |
+| Wed, 25 Feb 2026 15:57:30 GMT | The Dragon in the Room: Why Ghidra is the GOAT of Reverse Engineering | Sayan Ghosh | [Read More](https://medium.com/p/71d55183c11c) |
+| Wed, 25 Feb 2026 15:57:10 GMT | ₹3,000 Lost Through Google Pay Without Sending Money — What Happened? | Deepika Ponnusamy | [Read More](https://medium.com/p/2186b89fdb1e) |
+| Wed, 25 Feb 2026 15:56:00 GMT | The Secret to Winning a Middle-Aged Woman’s Heart That Sweet Talk Can’t Match | Queena Bryan | [Read More](https://medium.com/p/921f4b7f76e2) |
+| Wed, 25 Feb 2026 15:55:37 GMT | Shift-Left Security for Terraform: Why We Built tfgaurd.com ️ | Sandipan Saha | [Read More](https://medium.com/p/5aeb7d3e140a) |
+| Wed, 25 Feb 2026 15:53:02 GMT | Pico CTF Web Exploitation Challenge 1 Easy Category [Crack The Gate 1] | Devansh Patel | [Read More](https://medium.com/p/dea520feadce) |
+| Wed, 25 Feb 2026 15:52:15 GMT | Industrialized Software Supply Chain Security: Why AI Assistants Cannot Replace Systemic Control | John | [Read More](https://medium.com/p/62e83a951ffc) |
+| Wed, 25 Feb 2026 15:49:53 GMT | The Pedestal Paradox: When Being “Brave” Still Leaves You Lonely | Leyla Stuber | [Read More](https://medium.com/p/ed67f57bfa4d) |
+| Wed, 25 Feb 2026 15:48:52 GMT | Introduction of Cryptography | Aj | [Read More](https://medium.com/p/01e636ccb500) |
+| Wed, 25 Feb 2026 15:47:09 GMT | No One Talks About How Exhausting It Is to Look Strong | Mehmetresulozcan | [Read More](https://medium.com/p/59e2e1b56a8f) |
+| Wed, 25 Feb 2026 15:47:07 GMT | Cyber Damage Control Is Not Incident Response | Peter Hillier/Halton | [Read More](https://medium.com/p/479ac7855fd1) |
+| Wed, 25 Feb 2026 15:45:12 GMT | CASE FILE #DF-AOTR-01 - CLASSIFIED | kanieloutis | [Read More](https://medium.com/p/85972616c7ca) |
+| Wed, 25 Feb 2026 15:44:48 GMT | The Bitcoin Crash is a Decoy. | Konoe | [Read More](https://medium.com/p/7f8ace9f3c07) |
+| Wed, 25 Feb 2026 15:44:39 GMT | Breaking the Text-Only Barrier — Expanding the Entropy Space | Dr. Shashi Karhail | [Read More](https://medium.com/p/2dc1bbbf9b62) |
+| Wed, 25 Feb 2026 15:38:18 GMT | What are Access Control Vulnerabilities? | BinaryShield | [Read More](https://medium.com/p/4d2174ad242a) |
+| Wed, 25 Feb 2026 15:37:54 GMT | Merayakan Kehilangan. | Alonica. | [Read More](https://medium.com/p/f2873470fc82) |
+| Wed, 25 Feb 2026 15:25:14 GMT | Lab: Exploiting XXE to retrieve data by repurposing a local DTD (writeup) | </Y55F> | [Read More](https://medium.com/p/70f22d75d0fe) |
+| Wed, 25 Feb 2026 15:15:42 GMT | Bug Bounty 2026: 7 Brutal Truths Every Hunter Needs to Know Before Submitting Another Report | R.H Rizvi | [Read More](https://medium.com/p/efd244fafacc) |
+| Wed, 25 Feb 2026 15:13:19 GMT | The Version Of Me That Spoke | Jiya katariya | [Read More](https://medium.com/p/13d243ccc980) |
+| Wed, 25 Feb 2026 15:10:52 GMT | From rm -rf to $250K — Why Every AI Agent Needs a Policy Gate | Gzxuexi | [Read More](https://medium.com/p/550c62459011) |
+| Wed, 25 Feb 2026 15:06:33 GMT | Cybersecurity Red Teaming: When Assumptions Aren’t Enough | Cynox Security LLP. | [Read More](https://medium.com/p/19d832eb4602) |
+| Wed, 25 Feb 2026 15:06:11 GMT | Become a Hacker Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/86d38c769677) |
+| Wed, 25 Feb 2026 15:00:23 GMT | From Enumeration to Access: A Custom Wordlist RDP Attack Simulation | zerodaystudios | [Read More](https://medium.com/p/e4088b77a99d) |
+| Wed, 25 Feb 2026 14:42:00 GMT | Persistence via Network Firmware Implants | ghostyjoe | [Read More](https://medium.com/p/32ab930b884f) |
+| Wed, 25 Feb 2026 14:35:31 GMT | From Zero to Network+ in One Week : My Exact Strategy | a3x0 | [Read More](https://medium.com/p/e7091e14d82d) |
+| Wed, 25 Feb 2026 14:28:49 GMT | Why ‘Nothing Interesting Found’ Is a Recon Failure | Nitin yadav | [Read More](https://medium.com/p/a19202c93028) |
 | Wed, 25 Feb 2026 14:27:15 GMT | How to Set Up a Bug Bounty Recon Automation with Python & Nuclei | Hacker MD | [Read More](https://medium.com/p/5d120ee608b3) |
 | Wed, 25 Feb 2026 14:26:41 GMT | Data Security Incident Involving Wynn Resorts | Dr.  Mack Jackson Jr | [Read More](https://medium.com/p/6d3d823cd48f) |
 | Wed, 25 Feb 2026 14:25:53 GMT | Cybersecurity Engineers: Here’s What You Need to Learn Before You Become Irrelevant | M Umar Akhlaq | [Read More](https://medium.com/p/25ca179ad9c1) |
@@ -84,31 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Feb 2026 10:01:01 GMT | “Je n’ai rien à cacher” : la phrase la plus dangereuse en cybersécurité | nullbytepro | [Read More](https://medium.com/p/520bdca949e4) |
 | Wed, 25 Feb 2026 10:00:26 GMT | How Industries Compare to Penetration Testing Their Network | Hacker’s View on Cybersecurity | [Read More](https://medium.com/p/c7d69b7fe348) |
 | Wed, 25 Feb 2026 09:57:36 GMT | Impact of AI in Indian IT | The Business Models | [Read More](https://medium.com/p/194c7784f927) |
-| Wed, 25 Feb 2026 09:47:01 GMT | Best Cybersecurity Course for Students — Special Holi Discount | cyber security Updates | [Read More](https://medium.com/p/39e839ece1da) |
-| Wed, 25 Feb 2026 09:40:58 GMT | Smart Door Lock India: Why Digital Door Locks Are Becoming Essential for Smart Home Security | Discreet solution Pvt ltd | [Read More](https://medium.com/p/12ed144188a6) |
-| Wed, 25 Feb 2026 09:40:18 GMT | How to Pick the Best Smart Door Lock in India | Jal Digital System | [Read More](https://medium.com/p/b7366ff8b96c) |
-| Wed, 25 Feb 2026 09:39:56 GMT | Code is written faster. Has business accelerated? | Evan Veinberg | [Read More](https://medium.com/p/09f29d4d8c84) |
-| Wed, 25 Feb 2026 09:39:28 GMT | HackTheBox - Lab AOTR 2 (Advent of The Relics 2) — Operation Winter Blackout | M.Daffa Hakiki | [Read More](https://medium.com/p/a0fd920c8d8b) |
-| Wed, 25 Feb 2026 09:35:49 GMT | Hacklenen Sadece Veriniz Değil, Bedeniniz Olursa? | Emirhan Keser | [Read More](https://medium.com/p/9f43cee1acf1) |
-| Wed, 25 Feb 2026 09:34:39 GMT | Threat Detection Using Elasticsearch Vector Search for Behavioral Security Analytics | Vjkumar | [Read More](https://medium.com/p/c835c29bae03) |
-| Wed, 25 Feb 2026 09:30:29 GMT | Станислав Кондрашов: Биометрия и «геометрия лица» в правилах сервиса | Станислав Дмитриевич Кондрашов | [Read More](https://medium.com/p/eada81fbf4c6) |
-| Wed, 25 Feb 2026 09:27:57 GMT | OSINT: How Public Data Can Give You a Strategic Edge | CyberSources | [Read More](https://medium.com/p/f5cf3bb78a28) |
-| Wed, 25 Feb 2026 09:25:39 GMT | CRA 101: Başlangıç için 15 Pratik Adım | Duygu Fidancıoğlu | [Read More](https://medium.com/p/f585c506f490) |
-| Wed, 25 Feb 2026 09:25:11 GMT | I Found a DRM Bypass While Watching a Course — Here’s What It Taught Me About Real Hacking | Ammar Harris | [Read More](https://medium.com/p/371b4e0125ec) |
-| Wed, 25 Feb 2026 09:21:04 GMT | What Are the Different Types of Hackers? Complete Guide for 2026 | Bluecodesecurity | [Read More](https://medium.com/p/659167e232f0) |
-| Wed, 25 Feb 2026 09:18:52 GMT | USA Jobs Today – High Paying Jobs in America with Visa Sponsorship | Teach us | [Read More](https://medium.com/p/38b1b8766353) |
-| Wed, 25 Feb 2026 09:17:20 GMT | Deception Engineering in Cybersecurity | Taiyab Lokhandwala | [Read More](https://medium.com/p/754384fe3169) |
-| Wed, 25 Feb 2026 09:15:55 GMT | Securing Generative AI Pipelines: From Prompt Injection to Compliant Fine-Tuning | Vatsamistry | [Read More](https://medium.com/p/1ea43e7a5f91) |
-| Wed, 25 Feb 2026 09:11:52 GMT | Apple Account Security Mac Lockout Recovery | Geoffrey Wenger | [Read More](https://medium.com/p/85ec8f15b2b4) |
-| Wed, 25 Feb 2026 09:09:33 GMT | IoT Gateway Security: A Complete Guide | BigDataCentric | [Read More](https://medium.com/p/5aefe3c130ef) |
-| Wed, 25 Feb 2026 09:03:47 GMT | Cyber Security & Ethical Hacking Academy in Calicut | Shahana Sherin | [Read More](https://medium.com/p/11441950273b) |
-| Wed, 25 Feb 2026 09:01:05 GMT | How I Found a Company’s Entire Internal Infrastructure in One Search | Alexandre Vandamme | [Read More](https://medium.com/p/960466fc931b) |
-| Wed, 25 Feb 2026 08:58:31 GMT | Panduan Recon & Enumeration Bug Bounty (Chime) untuk Pemula | Adrian Syah Abidin | [Read More](https://medium.com/p/a37c559d2e72) |
-| Wed, 25 Feb 2026 08:57:34 GMT | TryHackMe: Bricks Heist — From RCE to Crypto-Forensics | hacker_space11 | [Read More](https://medium.com/p/26fd43c4d244) |
-| Wed, 25 Feb 2026 08:37:59 GMT | Capture, Redirect, Analyse — Thick Client Traffic Interception Guide | srinivasec19 | [Read More](https://medium.com/p/c08a4210b702) |
-| Wed, 25 Feb 2026 08:31:46 GMT | When the Universe Delivers Your Payload | Isaac Adebayo | [Read More](https://medium.com/p/08166c46ae22) |
-| Wed, 25 Feb 2026 08:31:00 GMT | Your Brain on Alerts: The Cognitive Science of Security Triage | Andrea | [Read More](https://medium.com/p/b07c122d56f6) |
-| Wed, 25 Feb 2026 08:28:36 GMT | The Agent Assurance Dossier: Building Auditable, Policy-Bound Agentic AI | Samuel Partida Cabañas | [Read More](https://medium.com/p/7ef03ba9b157) |
-| Wed, 25 Feb 2026 08:22:05 GMT | Day 5 — The Image That Executes Code (Attribute Injection XSS) | Issan | [Read More](https://medium.com/p/5ec342cb9825) |
-| Wed, 25 Feb 2026 08:19:19 GMT | Step Into the World of Cyber Security! | Molletibalu | [Read More](https://medium.com/p/26e82ae4fd3a) |
-| Wed, 25 Feb 2026 08:19:12 GMT | LAB: WebStrike by Cyber Defenders | NetPhantom | [Read More](https://medium.com/p/113483781abe) |
