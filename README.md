@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Feb 2026 20:31:43 GMT | How Hackers Really Think — And Why Many Companies Misunderstand Their Approach | Cordula Boeck | [Read More](https://medium.com/p/e807cd02772a) |
+| Wed, 25 Feb 2026 20:28:29 GMT | VIBE101: Vibe Coding’den Vibe Security’e | Nisa Çayır | [Read More](https://medium.com/p/859ed87bba4f) |
+| Wed, 25 Feb 2026 20:22:58 GMT | What Is A Subdomain And How To Perform Subdomain Enumaration? | Kutay Söker | [Read More](https://medium.com/p/2a9ce4d64d4f) |
+| Wed, 25 Feb 2026 20:16:24 GMT | Lab: Reflected XSS into Attribute with Angle Brackets HTML-Encoded | mayhack | [Read More](https://medium.com/p/e042b6c6d596) |
+| Wed, 25 Feb 2026 20:14:24 GMT | When ‘Big No’ Becomes Your Turning Point | Dewi Mutiara Nurani | [Read More](https://medium.com/p/5eadf72728a1) |
+| Wed, 25 Feb 2026 20:02:56 GMT | Who Did That? Solving AI Agent Provenance in Agentic Systems | Felipe Olivera | [Read More](https://medium.com/p/c27ed3ed3b9a) |
+| Wed, 25 Feb 2026 20:00:43 GMT | Feb 25, 2026 Was a Stress Test for the AI Boom | Jesus Perez Mojica (Mr. Hotfix) | [Read More](https://medium.com/p/831b66e7037d) |
 | Wed, 25 Feb 2026 19:53:00 GMT | AI’s Future — Bible’s Predictions: Humanity’s Destination | - The Dribbler - | [Read More](https://medium.com/p/78e1dc2ff5b0) |
 | Wed, 25 Feb 2026 19:48:58 GMT | TryHackMe - Defensive Security Intro - WriteUp | Axoloth | [Read More](https://medium.com/p/df0eba43bddc) |
 | Wed, 25 Feb 2026 19:38:17 GMT | “Your Cloud Isn’t Secure. It’s Just Unscanned.” | HackTrace | [Read More](https://medium.com/p/f37ca7156a94) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Feb 2026 14:22:08 GMT | HackTheBox — AoTR2 : Operation Winter Blackout | irvan wahyudin | [Read More](https://medium.com/p/cc8bfd48b07f) |
 | Wed, 25 Feb 2026 14:18:51 GMT | W1seGuy TryHackMe Writeup | Kavusan Yesuraja | [Read More](https://medium.com/p/11384527fec8) |
 | Wed, 25 Feb 2026 14:13:28 GMT | 6 Lessons From Making Our AI Agent Explainable | Edan Hauon Dream | [Read More](https://medium.com/p/c7954c19ccef) |
-| Wed, 25 Feb 2026 14:13:17 GMT | Navigating AI Unemployment: Skills to Stay Relevant in 2026 | Tarush Sharma | [Read More](https://medium.com/p/278b7a9ec7f9) |
-| Wed, 25 Feb 2026 14:13:09 GMT | Understanding and Exploiting the Samba Usermap Script Vulnerability | Charitymkakina | [Read More](https://medium.com/p/71e69ad22044) |
-| Wed, 25 Feb 2026 14:08:48 GMT | WSTG-INFO-02 | Narathama Firmansyah Putra | [Read More](https://medium.com/p/61932a9c9e96) |
-| Wed, 25 Feb 2026 14:07:44 GMT | Understanding Dark Web Leak Monitoring and Why It Matters | Tor BBB | [Read More](https://medium.com/p/0dee0d884f16) |
-| Wed, 25 Feb 2026 13:43:30 GMT | How to Buy, Manage, and Act on Security Testing at Your Company | Spurt! | [Read More](https://medium.com/p/05f388c29cbc) |
-| Wed, 25 Feb 2026 13:27:23 GMT | Is Your Partner Hiding Something? How to Find the Truth in the Digital Age | ShababX | [Read More](https://medium.com/p/24c0e3633ca6) |
-| Wed, 25 Feb 2026 13:25:09 GMT | What Happens During a Real Cybersecurity Incident? (Step-by-Step Breakdown) | Dhakshineshwara Balaji | [Read More](https://medium.com/p/274c6616778a) |
