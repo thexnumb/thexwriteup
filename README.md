@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Feb 2026 02:20:44 GMT | To Homelab Or Not: Why I Decided to Build A Real Server | Jeremy McKinzie | [Read More](https://medium.com/p/de9507c1dcb2) |
+| Wed, 25 Feb 2026 02:09:56 GMT | A New Era Begins: How AI Is Rewriting the Rules of Cybersecurity | Betre Betre | [Read More](https://medium.com/p/58b99c9d70e7) |
+| Wed, 25 Feb 2026 02:00:22 GMT | Snyk and uv, Better Together | Snyk | [Read More](https://medium.com/p/160bea7bc75b) |
+| Wed, 25 Feb 2026 02:00:04 GMT | Half Your Employees Can Access Data They Should Never See. | revoq | [Read More](https://medium.com/p/48677ee0f5d7) |
+| Wed, 25 Feb 2026 01:51:58 GMT | My Cybersecurity Journey Begins – CEH Started! | Taimoor Matloob | [Read More](https://medium.com/p/505cccda6553) |
+| Wed, 25 Feb 2026 01:49:23 GMT | I have decided to become Technical… | HMadzinga | [Read More](https://medium.com/p/4faa337de928) |
+| Wed, 25 Feb 2026 01:47:45 GMT | How I Found a Path Traversal in the Rancher Dashboard via HAR Replay | Divyanshu | [Read More](https://medium.com/p/4fc8d8fa930d) |
+| Wed, 25 Feb 2026 01:41:06 GMT | We Built a Monster and Forgot the Cage: The Frankenstein Story of OpenClaw | Deep Agency AI | [Read More](https://medium.com/p/af838117662e) |
+| Wed, 25 Feb 2026 01:31:03 GMT | What I Realized in My First 18 Months as a Threat Analyst | Manubhav Sharma | [Read More](https://medium.com/p/562c04cefa77) |
+| Wed, 25 Feb 2026 01:27:07 GMT | Buffer Overflow Attack Lab: A Hands-On Journey Through Software Security | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/1403d055267c) |
+| Wed, 25 Feb 2026 01:25:38 GMT | Break It on Purpose: What an NSG Failure Taught Me About Modern Infrastructure | Nichelle Fields | [Read More](https://medium.com/p/ea75c05673ea) |
+| Wed, 25 Feb 2026 01:18:20 GMT | DART - TIPE DATA DAN OPERATOR | Farand Kennard Fauzi | [Read More](https://medium.com/p/75f92a0dfba5) |
+| Wed, 25 Feb 2026 01:16:16 GMT | Neden En Güçlü Şifreler Bile Bazen Yetersiz Kalır? Vaka Analizleriyle SOSYAL MÜHENDİSLİK | isa ergişi | [Read More](https://medium.com/p/be729ac366f5) |
+| Wed, 25 Feb 2026 01:01:32 GMT | How To Get an eSim | David Sim | [Read More](https://medium.com/p/7c44d9dda70c) |
+| Wed, 25 Feb 2026 01:00:45 GMT | Your Red Team Lab Is Lying to You | Yua Mikanana | [Read More](https://medium.com/p/123b914260ce) |
+| Wed, 25 Feb 2026 00:40:05 GMT | Icy “Doodle” Site - ATC CTF 2.0 - Google Dorking- CTFs | Angie | [Read More](https://medium.com/p/01ecdfe3022f) |
+| Wed, 25 Feb 2026 00:38:47 GMT | Vulnhub: Lampião: 1 Walkthrough | Antonio | [Read More](https://medium.com/p/0f946b89ac65) |
+| Wed, 25 Feb 2026 00:01:02 GMT | Hakrawler Guide: Ultra-Fast Web Crawling for Bug Hunting and Recon | JPablo13 | [Read More](https://medium.com/p/5ae9bf44be29) |
+| Tue, 24 Feb 2026 23:57:36 GMT | Firewalls | Ramya Sree G | [Read More](https://medium.com/p/d7cc6e7a5fda) |
+| Tue, 24 Feb 2026 23:45:13 GMT | I asked Claude what OpenClaw really does. | Terry Seanard | [Read More](https://medium.com/p/7550dc91aca5) |
+| Tue, 24 Feb 2026 23:35:01 GMT | Proving Grounds — Practice — Fantastic | Makoyi | [Read More](https://medium.com/p/8b86abcce209) |
 | Tue, 24 Feb 2026 23:17:24 GMT | CAPTCHApocalypse writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/a1b82a1d4fc0) |
 | Tue, 24 Feb 2026 23:07:19 GMT | AoTR2 WRITEUP | Elsandro Rivalito | [Read More](https://medium.com/p/a50f5ddc68f9) |
 | Tue, 24 Feb 2026 23:01:09 GMT | A Step-by-Step Guide to Uncovering Vulnerabilities in a Mobile App | Ahmad A Abdulla | [Read More](https://medium.com/p/5a6b05e6b23b) |
@@ -92,24 +113,3 @@ Exploring Semantic Methods + Alphabet… | Rahul_M | [Read More](https://medium.
 | Tue, 24 Feb 2026 17:29:45 GMT | what is script kiddie | Kevin Ronex | [Read More](https://medium.com/p/7ac4ccd57218) |
 | Tue, 24 Feb 2026 17:28:09 GMT | Password Hashing | Ashutosh Dwivedi | [Read More](https://medium.com/p/d6f067886b64) |
 | Tue, 24 Feb 2026 17:27:58 GMT | Tokenomics as Security: How Incentive Design Prevents (or Enables) Exploits | Exploitless | [Read More](https://medium.com/p/4e52cd9453f9) |
-| Tue, 24 Feb 2026 17:25:52 GMT | AiTM Funny Looking Phishing Kits | Robert Gonzalez | [Read More](https://medium.com/p/2df0764ba368) |
-| Tue, 24 Feb 2026 17:21:05 GMT | We Built an Agent That Hacks Itself — Here’s What It Found | Nick Homyk | [Read More](https://medium.com/p/f22d40bb9cdc) |
-| Tue, 24 Feb 2026 17:17:03 GMT | Future of Cybersecurity: What to Expect After 2026 | Digital Defense | [Read More](https://medium.com/p/959bed1530ba) |
-| Tue, 24 Feb 2026 17:14:00 GMT | TryHackMe — Pentesting Fundamentals (Walkthrough) | Hudson Lois Marcus | [Read More](https://medium.com/p/35e50ffc59b1) |
-| Tue, 24 Feb 2026 17:11:47 GMT | Pressed Petals | Alizabeth Amelia Rose | [Read More](https://medium.com/p/99a17d343f73) |
-| Tue, 24 Feb 2026 17:11:29 GMT | AI Just Found 500 Bugs in “Safe” Code. Is Yours Next? | Xyzvilan | [Read More](https://medium.com/p/787ff9cdd733) |
-| Tue, 24 Feb 2026 17:11:01 GMT | CompTIA Linux+ vs. Real Linux: Where Did the Multiple-Choice Questions Go? | Crystalcascade14 | [Read More](https://medium.com/p/8688bd18f936) |
-| Tue, 24 Feb 2026 17:04:37 GMT | Siber Güvenliğin Kutsal Kasesi: CIA Üçlüsü Nedir? | Yiğit Ataman | [Read More](https://medium.com/p/b036ef47f24a) |
-| Tue, 24 Feb 2026 16:57:16 GMT | VM Snapshot Disk Recovery | Marduk I Am | [Read More](https://medium.com/p/657019478cbe) |
-| Tue, 24 Feb 2026 16:51:13 GMT | Digital Honey Traps: Are you looking for ‘True Love’ or a ₹50,000 Bill? | Archana Ms. | [Read More](https://medium.com/p/b485752c42d7) |
-| Tue, 24 Feb 2026 16:47:38 GMT | Securing the Supply Chain: My First Open Source Contribution to WSO2 | Nilumindakavishka | [Read More](https://medium.com/p/c61ff62e74cb) |
-| Tue, 24 Feb 2026 16:39:44 GMT | The Urge to Be Chosen | blue_07 | [Read More](https://medium.com/p/fe1ef4e4edfe) |
-| Tue, 24 Feb 2026 16:37:49 GMT | VulnHub: Tr0ll 2 Write-Up | Khaled Waleed (MrWayne) | [Read More](https://medium.com/p/b2ca4eecfa7f) |
-| Tue, 24 Feb 2026 16:35:03 GMT | When One Being Reaches for Another | Jeanettegardner | [Read More](https://medium.com/p/0fb401ad8879) |
-| Tue, 24 Feb 2026 16:19:14 GMT | Malware Analysis: payloadfinal.bin (Agent Tesla) | Cyd Tseng | [Read More](https://medium.com/p/c38cb9bc8c88) |
-| Tue, 24 Feb 2026 16:15:53 GMT | Ending Password Fatigue — Security Without Punishment | Dr. Shashi Karhail | [Read More](https://medium.com/p/dca12ecfdba5) |
-| Tue, 24 Feb 2026 16:12:34 GMT | “I Have Asset Nobody Knows About” Planning: A Safer Way to Document Hidden Wealth | InheritSafe | [Read More](https://medium.com/p/ee1294703faf) |
-| Tue, 24 Feb 2026 16:05:44 GMT | What is NoSQL Injection? | BinaryShield | [Read More](https://medium.com/p/68b410d58faa) |
-| Tue, 24 Feb 2026 16:02:16 GMT | PHP LOGIN SECURITY — “Things I Must Never Forget” | gixs | [Read More](https://medium.com/p/bd67d2cae005) |
-| Tue, 24 Feb 2026 15:49:45 GMT | Understanding Safe Darkweb Browsing Tips: Privacy, Risk & Reality | Tor BBB | [Read More](https://medium.com/p/acfdc55ed342) |
-| Tue, 24 Feb 2026 15:49:34 GMT | Handling Security & Error Handling in React Applications (Production Guide) | shahrukh akhter | [Read More](https://medium.com/p/99bb27d4d659) |
