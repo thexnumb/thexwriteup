@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Feb 2026 08:37:59 GMT | Capture, Redirect, Analyse — Thick Client Traffic Interception Guide | srinivasec19 | [Read More](https://medium.com/p/c08a4210b702) |
+| Wed, 25 Feb 2026 08:31:46 GMT | When the Universe Delivers Your Payload | Isaac Adebayo | [Read More](https://medium.com/p/08166c46ae22) |
+| Wed, 25 Feb 2026 08:31:00 GMT | Your Brain on Alerts: The Cognitive Science of Security Triage | Andrea | [Read More](https://medium.com/p/b07c122d56f6) |
+| Wed, 25 Feb 2026 08:28:36 GMT | The Agent Assurance Dossier: Building Auditable, Policy-Bound Agentic AI | Samuel Partida Cabañas | [Read More](https://medium.com/p/7ef03ba9b157) |
+| Wed, 25 Feb 2026 08:22:05 GMT | Day 5 — The Image That Executes Code (Attribute Injection XSS) | Issan | [Read More](https://medium.com/p/5ec342cb9825) |
+| Wed, 25 Feb 2026 08:19:19 GMT | Step Into the World of Cyber Security! | Molletibalu | [Read More](https://medium.com/p/26e82ae4fd3a) |
+| Wed, 25 Feb 2026 08:19:12 GMT | LAB: WebStrike by Cyber Defenders | NetPhantom | [Read More](https://medium.com/p/113483781abe) |
+| Wed, 25 Feb 2026 08:12:36 GMT | Stop Hacking Networks. Start Hacking Models: A Pentester’s Guide to the Top 10 ML Vulnerabilities | Dhanush N | [Read More](https://medium.com/p/b9d978c4a608) |
+| Wed, 25 Feb 2026 08:10:12 GMT | Local Authority-picoCTF | Vishvambhar ranoshe | [Read More](https://medium.com/p/a011d7225769) |
+| Wed, 25 Feb 2026 08:07:53 GMT | 7 Critical Agentic AI Security Risks Facing Enterprises in 2026 | The SecOps Lead | [Read More](https://medium.com/p/61377caea52f) |
+| Wed, 25 Feb 2026 08:06:34 GMT | Automation for Sales Teams: AI-Driven Follow-ups & Scheduling | La Net Team Software Solutions Pvt Ltd | [Read More](https://medium.com/p/7367ad9a17e7) |
+| Wed, 25 Feb 2026 08:04:08 GMT | What are the advantages of XVR? | Doris William | [Read More](https://medium.com/p/a7a9cad05782) |
+| Wed, 25 Feb 2026 07:41:33 GMT | How Browser Fingerprinting Can Support Targeted Phishing Attacks | Albertstive | [Read More](https://medium.com/p/d7ed784b9ef1) |
+| Wed, 25 Feb 2026 07:31:01 GMT | The Permission Map That Saved Our Agent | Bhagya Rana | [Read More](https://medium.com/p/788a79f2c3a2) |
+| Wed, 25 Feb 2026 07:24:25 GMT | FingerprintJS is Not Enough: How to Track the Silicon, Not the Browser | Kushal | [Read More](https://medium.com/p/41525435c80c) |
 | Wed, 25 Feb 2026 07:21:17 GMT | How I Found an Exposed Prometheus Metrics Endpoint and Earned ₹5,000 in Bug Bounty | Rahul Masal | [Read More](https://medium.com/p/f2f72a5766c2) |
 | Wed, 25 Feb 2026 07:15:33 GMT | Bypassing Client-Side Encryption in Hybrid Mobile Apps via JavaScript Monkey Patching | Roosewelt | [Read More](https://medium.com/p/0408dd4181af) |
 | Wed, 25 Feb 2026 07:13:21 GMT | Your iPhone Isn’t Safe If You Haven’t Updated Since December | Anil Kumar Bakkashetti | [Read More](https://medium.com/p/0a04bb11583c) |
@@ -32,6 +47,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Feb 2026 06:45:49 GMT | Millions of Gazans’ Personal Information at Risk: How Did the NCAG's Records Get Leaked? | Ahmad Herzallah | [Read More](https://medium.com/p/608675764471) |
 | Wed, 25 Feb 2026 06:41:49 GMT | How to Steal an AI Without Breaking In | Phil Stafford | [Read More](https://medium.com/p/ca0d9d951705) |
 | Wed, 25 Feb 2026 06:32:21 GMT | Cybersecurity course | Naflansari | [Read More](https://medium.com/p/bd8c08fa9399) |
+| Wed, 25 Feb 2026 06:31:01 GMT | WMI Event Subscription: | Ankita Sinha | [Read More](https://medium.com/p/eaea2922132c) |
 | Wed, 25 Feb 2026 06:29:14 GMT | Tailscale - One Tool, Less Infrastucture | HumbleBeeAI | [Read More](https://medium.com/p/d356d5b38065) |
 | Wed, 25 Feb 2026 06:26:00 GMT | Bash Scripting Guide for Beginners and Professionals with Practical Examples by Intelithics | Intelithics | [Read More](https://medium.com/p/dfb0c6c363ca) |
 | Wed, 25 Feb 2026 06:21:30 GMT | The Privacy Tools I Use Every Day (All Free, All Browser-Based) | gofortool | [Read More](https://medium.com/p/106181e4f80a) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 24 Feb 2026 23:45:13 GMT | I asked Claude what OpenClaw really does. | Terry Seanard | [Read More](https://medium.com/p/7550dc91aca5) |
 | Tue, 24 Feb 2026 23:35:01 GMT | Proving Grounds — Practice — Fantastic | Makoyi | [Read More](https://medium.com/p/8b86abcce209) |
 | Tue, 24 Feb 2026 23:17:24 GMT | CAPTCHApocalypse writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/a1b82a1d4fc0) |
-| Tue, 24 Feb 2026 23:07:19 GMT | AoTR2 WRITEUP | Elsandro Rivalito | [Read More](https://medium.com/p/a50f5ddc68f9) |
-| Tue, 24 Feb 2026 23:01:09 GMT | A Step-by-Step Guide to Uncovering Vulnerabilities in a Mobile App | Ahmad A Abdulla | [Read More](https://medium.com/p/5a6b05e6b23b) |
-| Tue, 24 Feb 2026 22:57:58 GMT | Intigriti February 2026 Challenge - CTF Write-up | roguenull | [Read More](https://medium.com/p/33b7dbc17264) |
-| Tue, 24 Feb 2026 22:54:42 GMT | Become a Defender (THM) Tryhackme Walkthrough | Lawvye | [Read More](https://medium.com/p/0ff941964384) |
-| Tue, 24 Feb 2026 22:54:32 GMT | A New Era for Global Cybersecurity Governance: The UN’s “Global Mechanism” Launches in 2026 | CCD-IS | [Read More](https://medium.com/p/44910e57fbb5) |
-| Tue, 24 Feb 2026 22:49:54 GMT | Building an Event-Driven Automation Engine to Eliminate Repetitive Operations | Olawale Aro | [Read More](https://medium.com/p/ef3d85716293) |
-| Tue, 24 Feb 2026 22:45:51 GMT | You Probably Installed Something Dangerous Last Week. (You Just Don’t Know It Yet) | Joshua Certain | [Read More](https://medium.com/p/f8405b365d5b) |
-| Tue, 24 Feb 2026 22:44:27 GMT | Zero Audit Findings: What 5 Years in Cybersecurity Taught Me About Third-Party Risk | Srinija Puvvula | [Read More](https://medium.com/p/248ad6857e2d) |
-| Tue, 24 Feb 2026 22:43:17 GMT | I stopped eating apples: My Journey to DFIR | Precious Odediran | [Read More](https://medium.com/p/c6447e538177) |
-| Tue, 24 Feb 2026 22:35:07 GMT | Command and Control (C2) Frameworks | Allen Ace | [Read More](https://medium.com/p/99a58f87fae8) |
-| Tue, 24 Feb 2026 22:33:23 GMT | Configuration and Deployment Management Testing | Diva Rizky Alfitrah | [Read More](https://medium.com/p/1dd501944f73) |
-| Tue, 24 Feb 2026 22:24:44 GMT | What a Cyberpsychologist Sees When You Open Instagram | Michael Davis | [Read More](https://medium.com/p/c41ad2f116b4) |
-| Tue, 24 Feb 2026 22:16:48 GMT | Speck Shellcode Encryption with Session Key Wrapping | S12 - 0x12Dark Development | [Read More](https://medium.com/p/d5f226fa7a71) |
-| Tue, 24 Feb 2026 22:03:53 GMT | Təhlükəsizlik Konsepsiyalarının Sintezi: Vahid Təhlükəsizlik Strategiyasının Qurulması | Nurmammadov Sabuhi | [Read More](https://medium.com/p/582a0f5b5081) |
-| Tue, 24 Feb 2026 22:03:30 GMT | Security Through Obscurity | Nurmammadov Sabuhi | [Read More](https://medium.com/p/a00a5c2eaf40) |
-| Tue, 24 Feb 2026 22:01:12 GMT | Fixing “error while loading shared libraries” on Arch Linux | sassywoocoo | [Read More](https://medium.com/p/29c67361519e) |
