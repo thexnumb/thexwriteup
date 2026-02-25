@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Feb 2026 22:30:05 GMT | What Actually Happens When You Type a URL Into Your Browser? | Jacob Ferguson | [Read More](https://medium.com/p/62dfeeeb0725) |
+| Wed, 25 Feb 2026 22:22:20 GMT | Mythic C2 Framework | Allen Ace | [Read More](https://medium.com/p/4248dcc0470e) |
+| Wed, 25 Feb 2026 22:14:40 GMT | CrowdStrike 2026 Global Threat Report | SOCFortress | [Read More](https://medium.com/p/7396c631c65d) |
+| Wed, 25 Feb 2026 22:05:24 GMT | 7 Days of Monitoring My Phone’s Network Activity: My Device Network Heatmap | Ace | [Read More](https://medium.com/p/f22a3a4eed4e) |
+| Wed, 25 Feb 2026 22:01:01 GMT | Unfiltered Restart — Day 12: Troubleshooting, Day 1 | Maximillian Rueda | [Read More](https://medium.com/p/7e347e82c756) |
+| Wed, 25 Feb 2026 22:00:13 GMT | How to install parrot os in vmware… | Mahim Avi | [Read More](https://medium.com/p/41f06f27c6b8) |
+| Wed, 25 Feb 2026 21:59:12 GMT | What Really Happens When Email Verification Can Be Bypassed? | Ann R. | [Read More](https://medium.com/p/ce13d5b97e53) |
+| Wed, 25 Feb 2026 21:49:59 GMT | Don’t Switch Targets, Here’s How Sticking to One Company Makes You a Better Bug Hunter | Sirat Sami (analyz3r) | [Read More](https://medium.com/p/496ad6229d3f) |
+| Wed, 25 Feb 2026 21:47:19 GMT | What Actually Happens During A Regulatory Cybersecurity Investigation | Jemima Nanret Mwana | [Read More](https://medium.com/p/5fb96c104fe9) |
+| Wed, 25 Feb 2026 21:36:15 GMT | Information Disclosure— PortSwigger Labs - Apprentice Levels | Aytac | [Read More](https://medium.com/p/740c29f42ee9) |
 | Wed, 25 Feb 2026 21:32:35 GMT | Building a Complete Cybersecurity Home Lab Using VMware | Razahamza | [Read More](https://medium.com/p/6a315df97a85) |
+| Wed, 25 Feb 2026 21:24:27 GMT | Why Dealership NPS Is Declining in 2026 and What Key Management Has to Do With It | Nicole | [Read More](https://medium.com/p/15b971dc3457) |
 | Wed, 25 Feb 2026 21:18:53 GMT | Preparing IT for the Future: How MCP and AI Agents Transform Infrastructure | Terzo HQ | [Read More](https://medium.com/p/8be476af53af) |
 | Wed, 25 Feb 2026 21:17:39 GMT | Mayday, Mayday! How Are We Supposed to Deal with All These AI-Generated Comments? | AIDA | [Read More](https://medium.com/p/4cda0e4d4cfb) |
 | Wed, 25 Feb 2026 21:04:12 GMT | My Late-Night Pizza Hunger Taught Me Networking! | Sanya joshy | [Read More](https://medium.com/p/6e4b2680d8cc) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Feb 2026 15:44:48 GMT | The Bitcoin Crash is a Decoy. | Konoe | [Read More](https://medium.com/p/7f8ace9f3c07) |
 | Wed, 25 Feb 2026 15:44:39 GMT | Breaking the Text-Only Barrier — Expanding the Entropy Space | Dr. Shashi Karhail | [Read More](https://medium.com/p/2dc1bbbf9b62) |
 | Wed, 25 Feb 2026 15:38:18 GMT | What are Access Control Vulnerabilities? | BinaryShield | [Read More](https://medium.com/p/4d2174ad242a) |
-| Wed, 25 Feb 2026 15:37:54 GMT | Merayakan Kehilangan. | Alonica. | [Read More](https://medium.com/p/f2873470fc82) |
-| Wed, 25 Feb 2026 15:25:14 GMT | Lab: Exploiting XXE to retrieve data by repurposing a local DTD (writeup) | </Y55F> | [Read More](https://medium.com/p/70f22d75d0fe) |
-| Wed, 25 Feb 2026 15:15:42 GMT | Bug Bounty 2026: 7 Brutal Truths Every Hunter Needs to Know Before Submitting Another Report | R.H Rizvi | [Read More](https://medium.com/p/efd244fafacc) |
-| Wed, 25 Feb 2026 15:13:19 GMT | The Version Of Me That Spoke | Jiya katariya | [Read More](https://medium.com/p/13d243ccc980) |
-| Wed, 25 Feb 2026 15:10:52 GMT | From rm -rf to $250K — Why Every AI Agent Needs a Policy Gate | Gzxuexi | [Read More](https://medium.com/p/550c62459011) |
-| Wed, 25 Feb 2026 15:06:33 GMT | Cybersecurity Red Teaming: When Assumptions Aren’t Enough | Cynox Security LLP. | [Read More](https://medium.com/p/19d832eb4602) |
-| Wed, 25 Feb 2026 15:06:11 GMT | Become a Hacker Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/86d38c769677) |
-| Wed, 25 Feb 2026 15:00:23 GMT | From Enumeration to Access: A Custom Wordlist RDP Attack Simulation | zerodaystudios | [Read More](https://medium.com/p/e4088b77a99d) |
-| Wed, 25 Feb 2026 14:42:00 GMT | Persistence via Network Firmware Implants | ghostyjoe | [Read More](https://medium.com/p/32ab930b884f) |
-| Wed, 25 Feb 2026 14:35:31 GMT | From Zero to Network+ in One Week : My Exact Strategy | a3x0 | [Read More](https://medium.com/p/e7091e14d82d) |
-| Wed, 25 Feb 2026 14:28:49 GMT | Why ‘Nothing Interesting Found’ Is a Recon Failure | Nitin yadav | [Read More](https://medium.com/p/a19202c93028) |
