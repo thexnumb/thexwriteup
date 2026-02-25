@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Feb 2026 09:47:01 GMT | Best Cybersecurity Course for Students — Special Holi Discount | cyber security Updates | [Read More](https://medium.com/p/39e839ece1da) |
+| Wed, 25 Feb 2026 09:40:58 GMT | Smart Door Lock India: Why Digital Door Locks Are Becoming Essential for Smart Home Security | Discreet solution Pvt ltd | [Read More](https://medium.com/p/12ed144188a6) |
+| Wed, 25 Feb 2026 09:40:18 GMT | How to Pick the Best Smart Door Lock in India | Jal Digital System | [Read More](https://medium.com/p/b7366ff8b96c) |
+| Wed, 25 Feb 2026 09:39:56 GMT | Code is written faster. Has business accelerated? | Evan Veinberg | [Read More](https://medium.com/p/09f29d4d8c84) |
+| Wed, 25 Feb 2026 09:39:28 GMT | HackTheBox - Lab AOTR 2 (Advent of The Relics 2) — Operation Winter Blackout | M.Daffa Hakiki | [Read More](https://medium.com/p/a0fd920c8d8b) |
+| Wed, 25 Feb 2026 09:35:49 GMT | Hacklenen Sadece Veriniz Değil, Bedeniniz Olursa? | Emirhan Keser | [Read More](https://medium.com/p/9f43cee1acf1) |
+| Wed, 25 Feb 2026 09:34:39 GMT | Threat Detection Using Elasticsearch Vector Search for Behavioral Security Analytics | Vjkumar | [Read More](https://medium.com/p/c835c29bae03) |
+| Wed, 25 Feb 2026 09:30:29 GMT | Станислав Кондрашов: Биометрия и «геометрия лица» в правилах сервиса | Станислав Дмитриевич Кондрашов | [Read More](https://medium.com/p/eada81fbf4c6) |
+| Wed, 25 Feb 2026 09:27:57 GMT | OSINT: How Public Data Can Give You a Strategic Edge | CyberSources | [Read More](https://medium.com/p/f5cf3bb78a28) |
+| Wed, 25 Feb 2026 09:25:39 GMT | CRA 101: Başlangıç için 15 Pratik Adım | Duygu Fidancıoğlu | [Read More](https://medium.com/p/f585c506f490) |
+| Wed, 25 Feb 2026 09:25:11 GMT | I Found a DRM Bypass While Watching a Course — Here’s What It Taught Me About Real Hacking | Ammar Harris | [Read More](https://medium.com/p/371b4e0125ec) |
+| Wed, 25 Feb 2026 09:21:04 GMT | What Are the Different Types of Hackers? Complete Guide for 2026 | Bluecodesecurity | [Read More](https://medium.com/p/659167e232f0) |
+| Wed, 25 Feb 2026 09:18:52 GMT | USA Jobs Today – High Paying Jobs in America with Visa Sponsorship | Teach us | [Read More](https://medium.com/p/38b1b8766353) |
+| Wed, 25 Feb 2026 09:17:20 GMT | Deception Engineering in Cybersecurity | Taiyab Lokhandwala | [Read More](https://medium.com/p/754384fe3169) |
+| Wed, 25 Feb 2026 09:15:55 GMT | Securing Generative AI Pipelines: From Prompt Injection to Compliant Fine-Tuning | Vatsamistry | [Read More](https://medium.com/p/1ea43e7a5f91) |
+| Wed, 25 Feb 2026 09:11:52 GMT | Apple Account Security Mac Lockout Recovery | Geoffrey Wenger | [Read More](https://medium.com/p/85ec8f15b2b4) |
+| Wed, 25 Feb 2026 09:09:33 GMT | IoT Gateway Security: A Complete Guide | BigDataCentric | [Read More](https://medium.com/p/5aefe3c130ef) |
+| Wed, 25 Feb 2026 09:03:47 GMT | Cyber Security & Ethical Hacking Academy in Calicut | Shahana Sherin | [Read More](https://medium.com/p/11441950273b) |
+| Wed, 25 Feb 2026 09:01:05 GMT | How I Found a Company’s Entire Internal Infrastructure in One Search | Alexandre Vandamme | [Read More](https://medium.com/p/960466fc931b) |
+| Wed, 25 Feb 2026 08:58:31 GMT | Panduan Recon & Enumeration Bug Bounty (Chime) untuk Pemula | Adrian Syah Abidin | [Read More](https://medium.com/p/a37c559d2e72) |
+| Wed, 25 Feb 2026 08:57:34 GMT | TryHackMe: Bricks Heist — From RCE to Crypto-Forensics | hacker_space11 | [Read More](https://medium.com/p/26fd43c4d244) |
 | Wed, 25 Feb 2026 08:37:59 GMT | Capture, Redirect, Analyse — Thick Client Traffic Interception Guide | srinivasec19 | [Read More](https://medium.com/p/c08a4210b702) |
 | Wed, 25 Feb 2026 08:31:46 GMT | When the Universe Delivers Your Payload | Isaac Adebayo | [Read More](https://medium.com/p/08166c46ae22) |
 | Wed, 25 Feb 2026 08:31:00 GMT | Your Brain on Alerts: The Cognitive Science of Security Triage | Andrea | [Read More](https://medium.com/p/b07c122d56f6) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Feb 2026 02:43:19 GMT | Responsible Disclosure: SQL Injection in Rutgers ROMS Platform | Abbushad shaikh | [Read More](https://medium.com/p/92840932280e) |
 | Wed, 25 Feb 2026 02:35:43 GMT | NPM Security Features: 10 Critical Points Every Developer Must Know | Sreejith Velappan | [Read More](https://medium.com/p/1cdbd3503aa4) |
 | Wed, 25 Feb 2026 02:20:44 GMT | To Homelab Or Not: Why I Decided to Build A Real Server | Jeremy McKinzie | [Read More](https://medium.com/p/de9507c1dcb2) |
-| Wed, 25 Feb 2026 02:09:56 GMT | A New Era Begins: How AI Is Rewriting the Rules of Cybersecurity | Betre Betre | [Read More](https://medium.com/p/58b99c9d70e7) |
-| Wed, 25 Feb 2026 02:00:22 GMT | Snyk and uv, Better Together | Snyk | [Read More](https://medium.com/p/160bea7bc75b) |
-| Wed, 25 Feb 2026 02:00:04 GMT | Half Your Employees Can Access Data They Should Never See. | revoq | [Read More](https://medium.com/p/48677ee0f5d7) |
-| Wed, 25 Feb 2026 01:51:58 GMT | My Cybersecurity Journey Begins – CEH Started! | Taimoor Matloob | [Read More](https://medium.com/p/505cccda6553) |
-| Wed, 25 Feb 2026 01:49:23 GMT | I have decided to become Technical… | HMadzinga | [Read More](https://medium.com/p/4faa337de928) |
-| Wed, 25 Feb 2026 01:47:45 GMT | How I Found a Path Traversal in the Rancher Dashboard via HAR Replay | Divyanshu | [Read More](https://medium.com/p/4fc8d8fa930d) |
-| Wed, 25 Feb 2026 01:41:06 GMT | We Built a Monster and Forgot the Cage: The Frankenstein Story of OpenClaw | Deep Agency AI | [Read More](https://medium.com/p/af838117662e) |
-| Wed, 25 Feb 2026 01:31:03 GMT | What I Realized in My First 18 Months as a Threat Analyst | Manubhav Sharma | [Read More](https://medium.com/p/562c04cefa77) |
-| Wed, 25 Feb 2026 01:27:07 GMT | Buffer Overflow Attack Lab: A Hands-On Journey Through Software Security | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/1403d055267c) |
-| Wed, 25 Feb 2026 01:25:38 GMT | Break It on Purpose: What an NSG Failure Taught Me About Modern Infrastructure | Nichelle Fields | [Read More](https://medium.com/p/ea75c05673ea) |
-| Wed, 25 Feb 2026 01:18:20 GMT | DART - TIPE DATA DAN OPERATOR | Farand Kennard Fauzi | [Read More](https://medium.com/p/75f92a0dfba5) |
-| Wed, 25 Feb 2026 01:16:16 GMT | Neden En Güçlü Şifreler Bile Bazen Yetersiz Kalır? Vaka Analizleriyle SOSYAL MÜHENDİSLİK | isa ergişi | [Read More](https://medium.com/p/be729ac366f5) |
-| Wed, 25 Feb 2026 01:01:32 GMT | How To Get an eSim | David Sim | [Read More](https://medium.com/p/7c44d9dda70c) |
-| Wed, 25 Feb 2026 01:00:45 GMT | Your Red Team Lab Is Lying to You | Yua Mikanana | [Read More](https://medium.com/p/123b914260ce) |
-| Wed, 25 Feb 2026 00:40:05 GMT | Icy “Doodle” Site - ATC CTF 2.0 - Google Dorking- CTFs | Angie | [Read More](https://medium.com/p/01ecdfe3022f) |
-| Wed, 25 Feb 2026 00:38:47 GMT | Vulnhub: Lampião: 1 Walkthrough | Antonio | [Read More](https://medium.com/p/0f946b89ac65) |
-| Wed, 25 Feb 2026 00:01:02 GMT | Hakrawler Guide: Ultra-Fast Web Crawling for Bug Hunting and Recon | JPablo13 | [Read More](https://medium.com/p/5ae9bf44be29) |
-| Tue, 24 Feb 2026 23:57:36 GMT | Firewalls | Ramya Sree G | [Read More](https://medium.com/p/d7cc6e7a5fda) |
-| Tue, 24 Feb 2026 23:45:13 GMT | I asked Claude what OpenClaw really does. | Terry Seanard | [Read More](https://medium.com/p/7550dc91aca5) |
-| Tue, 24 Feb 2026 23:35:01 GMT | Proving Grounds — Practice — Fantastic | Makoyi | [Read More](https://medium.com/p/8b86abcce209) |
-| Tue, 24 Feb 2026 23:17:24 GMT | CAPTCHApocalypse writeup — TryHackMe | 0xH1S | [Read More](https://medium.com/p/a1b82a1d4fc0) |
