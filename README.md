@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Feb 2026 14:27:15 GMT | How to Set Up a Bug Bounty Recon Automation with Python & Nuclei | Hacker MD | [Read More](https://medium.com/p/5d120ee608b3) |
+| Wed, 25 Feb 2026 14:26:41 GMT | Data Security Incident Involving Wynn Resorts | Dr.  Mack Jackson Jr | [Read More](https://medium.com/p/6d3d823cd48f) |
+| Wed, 25 Feb 2026 14:25:53 GMT | Cybersecurity Engineers: Here’s What You Need to Learn Before You Become Irrelevant | M Umar Akhlaq | [Read More](https://medium.com/p/25ca179ad9c1) |
+| Wed, 25 Feb 2026 14:22:21 GMT | Net-Guard_AI: Harnessing AI for Smarter Network Security | Ukwedje Taiwo Goodness | [Read More](https://medium.com/p/af757bcd6110) |
+| Wed, 25 Feb 2026 14:22:08 GMT | HackTheBox — AoTR2 : Operation Winter Blackout | irvan wahyudin | [Read More](https://medium.com/p/cc8bfd48b07f) |
+| Wed, 25 Feb 2026 14:18:51 GMT | W1seGuy TryHackMe Writeup | Kavusan Yesuraja | [Read More](https://medium.com/p/11384527fec8) |
+| Wed, 25 Feb 2026 14:13:28 GMT | 6 Lessons From Making Our AI Agent Explainable | Edan Hauon Dream | [Read More](https://medium.com/p/c7954c19ccef) |
+| Wed, 25 Feb 2026 14:13:17 GMT | Navigating AI Unemployment: Skills to Stay Relevant in 2026 | Tarush Sharma | [Read More](https://medium.com/p/278b7a9ec7f9) |
+| Wed, 25 Feb 2026 14:13:09 GMT | Understanding and Exploiting the Samba Usermap Script Vulnerability | Charitymkakina | [Read More](https://medium.com/p/71e69ad22044) |
+| Wed, 25 Feb 2026 14:08:48 GMT | WSTG-INFO-02 | Narathama Firmansyah Putra | [Read More](https://medium.com/p/61932a9c9e96) |
+| Wed, 25 Feb 2026 14:07:44 GMT | Understanding Dark Web Leak Monitoring and Why It Matters | Tor BBB | [Read More](https://medium.com/p/0dee0d884f16) |
+| Wed, 25 Feb 2026 13:43:30 GMT | How to Buy, Manage, and Act on Security Testing at Your Company | Spurt! | [Read More](https://medium.com/p/05f388c29cbc) |
+| Wed, 25 Feb 2026 13:27:23 GMT | Is Your Partner Hiding Something? How to Find the Truth in the Digital Age | ShababX | [Read More](https://medium.com/p/24c0e3633ca6) |
+| Wed, 25 Feb 2026 13:25:09 GMT | What Happens During a Real Cybersecurity Incident? (Step-by-Step Breakdown) | Dhakshineshwara Balaji | [Read More](https://medium.com/p/274c6616778a) |
+| Wed, 25 Feb 2026 13:16:12 GMT | WSTG-CONF-06, WSTG-SESS-02, WSTG-SESS-06 | Narathama Firmansyah Putra | [Read More](https://medium.com/p/ed43e6ef9117) |
+| Wed, 25 Feb 2026 13:06:15 GMT | Why Technology First AI Initiatives Fail And How Business Led Strategy Delivers Real Enterprise… | Vygha | [Read More](https://medium.com/p/bdb18dc74fa2) |
 | Wed, 25 Feb 2026 13:00:30 GMT | Vaultwarden on Docker: Backups, admin access model, and restore test (a real setup) | Thomas Byern | [Read More](https://medium.com/p/0509183e34ff) |
 | Wed, 25 Feb 2026 13:00:29 GMT | Session Management: Session — Cookie — JWT (How Do We Prove Our Identity in a Stateless World?) | Melisa Akkuş | [Read More](https://medium.com/p/d2eeea1b960c) |
 | Wed, 25 Feb 2026 12:59:47 GMT | Oturum Yönetimi: Session — Cookie — JWT (Stateless Dünyada Kimliğimizi Nasıl Kanıtlıyoruz?) | Melisa Akkuş | [Read More](https://medium.com/p/ecf07226eaae) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Feb 2026 08:22:05 GMT | Day 5 — The Image That Executes Code (Attribute Injection XSS) | Issan | [Read More](https://medium.com/p/5ec342cb9825) |
 | Wed, 25 Feb 2026 08:19:19 GMT | Step Into the World of Cyber Security! | Molletibalu | [Read More](https://medium.com/p/26e82ae4fd3a) |
 | Wed, 25 Feb 2026 08:19:12 GMT | LAB: WebStrike by Cyber Defenders | NetPhantom | [Read More](https://medium.com/p/113483781abe) |
-| Wed, 25 Feb 2026 08:12:36 GMT | Stop Hacking Networks. Start Hacking Models: A Pentester’s Guide to the Top 10 ML Vulnerabilities | Dhanush N | [Read More](https://medium.com/p/b9d978c4a608) |
-| Wed, 25 Feb 2026 08:10:12 GMT | Local Authority-picoCTF | Vishvambhar ranoshe | [Read More](https://medium.com/p/a011d7225769) |
-| Wed, 25 Feb 2026 08:07:53 GMT | 7 Critical Agentic AI Security Risks Facing Enterprises in 2026 | The SecOps Lead | [Read More](https://medium.com/p/61377caea52f) |
-| Wed, 25 Feb 2026 08:06:34 GMT | Automation for Sales Teams: AI-Driven Follow-ups & Scheduling | La Net Team Software Solutions Pvt Ltd | [Read More](https://medium.com/p/7367ad9a17e7) |
-| Wed, 25 Feb 2026 08:04:08 GMT | What are the advantages of XVR? | Doris William | [Read More](https://medium.com/p/a7a9cad05782) |
-| Wed, 25 Feb 2026 07:41:33 GMT | How Browser Fingerprinting Can Support Targeted Phishing Attacks | Albertstive | [Read More](https://medium.com/p/d7ed784b9ef1) |
-| Wed, 25 Feb 2026 07:31:01 GMT | The Permission Map That Saved Our Agent | Bhagya Rana | [Read More](https://medium.com/p/788a79f2c3a2) |
-| Wed, 25 Feb 2026 07:24:25 GMT | FingerprintJS is Not Enough: How to Track the Silicon, Not the Browser | Kushal | [Read More](https://medium.com/p/41525435c80c) |
-| Wed, 25 Feb 2026 07:21:17 GMT | How I Found an Exposed Prometheus Metrics Endpoint and Earned ₹5,000 in Bug Bounty | Rahul Masal | [Read More](https://medium.com/p/f2f72a5766c2) |
-| Wed, 25 Feb 2026 07:15:33 GMT | Bypassing Client-Side Encryption in Hybrid Mobile Apps via JavaScript Monkey Patching | Roosewelt | [Read More](https://medium.com/p/0408dd4181af) |
-| Wed, 25 Feb 2026 07:13:21 GMT | Your iPhone Isn’t Safe If You Haven’t Updated Since December | Anil Kumar Bakkashetti | [Read More](https://medium.com/p/0a04bb11583c) |
-| Wed, 25 Feb 2026 07:12:35 GMT | Stuxnet-First Cyber Weapon | Abolfazl Vaziri | [Read More](https://medium.com/p/87c04003f402) |
-| Wed, 25 Feb 2026 07:07:58 GMT | “Safety Is Dead at xAI.” The Pentagon Hired Them Anyway. | Zoom In AI | [Read More](https://medium.com/p/1b5e3b3db925) |
-| Wed, 25 Feb 2026 07:07:57 GMT | PAYPAL DATA BREACH SHOCKER: Millions Trust It — But Your Identity Might Have Been Exposed | Hartarto | [Read More](https://medium.com/p/26a805e7586c) |
-| Wed, 25 Feb 2026 07:07:33 GMT | cyber security course | Rajarajan | [Read More](https://medium.com/p/3770fb1d95c2) |
-| Wed, 25 Feb 2026 07:03:39 GMT | Water, Food, Energy: The Security Crisis We Still Ignore | Paul Floren | [Read More](https://medium.com/p/998444ee84aa) |
