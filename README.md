@@ -12,12 +12,38 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Feb 2026 17:26:16 GMT | AI Cybersecurity vs Cloud Security: Why Traditional Approaches Fall Short | Cygeniq_ai | [Read More](https://medium.com/p/f993cc5eafcd) |
+| Wed, 25 Feb 2026 17:15:39 GMT | Best Free VPN in 2026: What Actually Works? | VPNHouse | [Read More](https://medium.com/p/9d2f7cfba84a) |
+| Wed, 25 Feb 2026 17:14:24 GMT | Update Beneficiaries and Access Rules Anytime with a Secure Inheritance Vault | InheritSafe | [Read More](https://medium.com/p/bc3d63dfa22c) |
+| Wed, 25 Feb 2026 17:10:09 GMT | The $2M Question Every Startup Ignores Until It’s Too Late | Omiigoniwari | [Read More](https://medium.com/p/89a5e97a7113) |
+| Wed, 25 Feb 2026 17:07:22 GMT | Tryhackme “Tomghost” CTF Writeup | sabR | [Read More](https://medium.com/p/572fb17a0dea) |
+| Wed, 25 Feb 2026 17:01:50 GMT | US Sanctions Exploit Broker Network Linked to Stolen Government Cyber Tools | Jas | [Read More](https://medium.com/p/2afb3f9e4bd4) |
+| Wed, 25 Feb 2026 16:59:01 GMT | OSINT Sock Puppets: Purpose, Risks & Ethics | Pentester Club | [Read More](https://medium.com/p/977e2f1a8f10) |
+| Wed, 25 Feb 2026 16:55:34 GMT | Chrome Under Fire: Inside the CVE-2026–2441 Zero-Day Exploit and the Emergency Patch Rollout. | eL Njas!™ | [Read More](https://medium.com/p/be0a829c9a47) |
+| Wed, 25 Feb 2026 16:55:23 GMT | What is state sponsored hacker? | Kevin Ronex | [Read More](https://medium.com/p/23cfc68be563) |
+| Wed, 25 Feb 2026 16:51:55 GMT | Best Garmin for CrossFit and Running — Top 5 Reviewed | Narjis Arshad | [Read More](https://medium.com/p/177b2781d8da) |
+| Wed, 25 Feb 2026 16:51:01 GMT | I Audited OpenClaw’s Code to See How It Remembers — And Whether I Should Trust It With My Machine | Elliott Girard | [Read More](https://medium.com/p/81857703eb2d) |
+| Wed, 25 Feb 2026 16:50:26 GMT | Enterprise-Scale Google Ads API Access: A Governance-First Architecture for Secure Multi-Project… | Kunal G | [Read More](https://medium.com/p/060bda12e9e2) |
+| Wed, 25 Feb 2026 16:45:10 GMT | Your Phone Number: The Silent Spy on Your Life | Anaselmendili | [Read More](https://medium.com/p/e48245c9ca78) |
+| Wed, 25 Feb 2026 16:41:50 GMT | When AI tools start replacing security teams, who wins? | Truong (Jack) Luu | [Read More](https://medium.com/p/e7466cf48cb0) |
+| Wed, 25 Feb 2026 16:28:35 GMT | VPNLY has been giving me grief, clear the cache! | Ascend IT Services | [Read More](https://medium.com/p/c4d5c901e6f1) |
+| Wed, 25 Feb 2026 16:26:01 GMT | Tales from Hobin: The M&S hacks of 2025 | Hobin Rood | [Read More](https://medium.com/p/e81ab5e70965) |
+| Wed, 25 Feb 2026 16:25:47 GMT | Journey of my life | Nakul | [Read More](https://medium.com/p/34cd771f5ac8) |
+| Wed, 25 Feb 2026 16:22:10 GMT | What is an authentication vulnerability? | BinaryShield | [Read More](https://medium.com/p/863d0edc58d0) |
+| Wed, 25 Feb 2026 16:17:34 GMT | Beauty / Borrowed Light | Alizabeth Amelia Rose | [Read More](https://medium.com/p/d494eae2cb7b) |
+| Wed, 25 Feb 2026 16:16:24 GMT | Choosing the Right Business Security System | AlexBryn | [Read More](https://medium.com/p/f61d4db98f88) |
+| Wed, 25 Feb 2026 16:15:08 GMT | Issue #3: Meet the Hackers Trying to Ruin Your Day — Cybercriminals & Nation-States | Eric Gallagher | [Read More](https://medium.com/p/4a30a6eca106) |
+| Wed, 25 Feb 2026 16:13:44 GMT | Shodan-Cat:Maximizing Shodan Data Extraction Without API Credits | Мартин. | [Read More](https://medium.com/p/76bdc9dfef9e) |
+| Wed, 25 Feb 2026 16:12:47 GMT | CRTA Certification Journey: Stepping Into Red Teaming | Rakesh Elamaran | [Read More](https://medium.com/p/33da9198b043) |
+| Wed, 25 Feb 2026 16:09:30 GMT | IDORs Explained: How One Number Can Hack an Entire Company | Krishna Kumar | [Read More](https://medium.com/p/8872fef31c2d) |
+| Wed, 25 Feb 2026 16:06:03 GMT | Data Sovereignty Laws Around The World | Robert Broeckelmann | [Read More](https://medium.com/p/22b3a2dbc2ad) |
 | Wed, 25 Feb 2026 16:01:07 GMT | Beyond the Click: Why Your MFA is Failing and the Rise of the Session Hijackers | Ehulse | [Read More](https://medium.com/p/143c7af12dca) |
 | Wed, 25 Feb 2026 15:59:19 GMT | How I Actually Secured My OpenClaw Setup | Mariano Mattei | [Read More](https://medium.com/p/954753e08e03) |
 | Wed, 25 Feb 2026 15:58:09 GMT | The “Delete Without Delete” Problem in AI | Amjad Saeed | [Read More](https://medium.com/p/60028b5e4454) |
 | Wed, 25 Feb 2026 15:57:30 GMT | The Dragon in the Room: Why Ghidra is the GOAT of Reverse Engineering | Sayan Ghosh | [Read More](https://medium.com/p/71d55183c11c) |
 | Wed, 25 Feb 2026 15:57:10 GMT | ₹3,000 Lost Through Google Pay Without Sending Money — What Happened? | Deepika Ponnusamy | [Read More](https://medium.com/p/2186b89fdb1e) |
 | Wed, 25 Feb 2026 15:56:00 GMT | The Secret to Winning a Middle-Aged Woman’s Heart That Sweet Talk Can’t Match | Queena Bryan | [Read More](https://medium.com/p/921f4b7f76e2) |
+| Wed, 25 Feb 2026 15:55:49 GMT | The Evolution of Technology: How Innovation Shapes Our World and Defines Our Future | Fejiro Otogbeghan | [Read More](https://medium.com/p/0b31cbd0ad2c) |
 | Wed, 25 Feb 2026 15:55:37 GMT | Shift-Left Security for Terraform: Why We Built tfgaurd.com ️ | Sandipan Saha | [Read More](https://medium.com/p/5aeb7d3e140a) |
 | Wed, 25 Feb 2026 15:53:02 GMT | Pico CTF Web Exploitation Challenge 1 Easy Category [Crack The Gate 1] | Devansh Patel | [Read More](https://medium.com/p/dea520feadce) |
 | Wed, 25 Feb 2026 15:52:15 GMT | Industrialized Software Supply Chain Security: Why AI Assistants Cannot Replace Systemic Control | John | [Read More](https://medium.com/p/62e83a951ffc) |
@@ -86,29 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Feb 2026 11:08:11 GMT | Why Red Teaming Is Critical for Healthcare Cybersecurity in 2026 | Lucas Wade | [Read More](https://medium.com/p/c04e38a68947) |
 | Wed, 25 Feb 2026 11:05:58 GMT | Artificial Intelligence Cyber Security Course: The Future of Cyber Defense Skills | Beta New | [Read More](https://medium.com/p/c6571a91e109) |
 | Wed, 25 Feb 2026 11:01:01 GMT | When Trust Becomes the Payload | Kmori | [Read More](https://medium.com/p/3635e54f3c00) |
-| Wed, 25 Feb 2026 10:57:32 GMT | Cross-Platform Technology | Da | [Read More](https://medium.com/p/f0b38b7b35be) |
-| Wed, 25 Feb 2026 10:56:52 GMT | Operational Resilience in the Face of Cybersecurity Threats: Key Lessons from the Indigo Airlines… | Joseph Bailey | [Read More](https://medium.com/p/170e796ac60a) |
-| Wed, 25 Feb 2026 10:56:38 GMT | No one really talks about digital fatigue. | Divine Egyabeng | [Read More](https://medium.com/p/772e97fa2b24) |
-| Wed, 25 Feb 2026 10:51:56 GMT | Critical Disk Encryption Vulnerabilities Expose Systems to Root Access and Credential Theft | Jas | [Read More](https://medium.com/p/5b756068ee55) |
-| Wed, 25 Feb 2026 10:43:35 GMT | Cyber Defenders : Webstrike Lab Question and How to Solved | Muhamad Jhony Agus Stiawan | [Read More](https://medium.com/p/43d101162dd4) |
-| Wed, 25 Feb 2026 10:40:26 GMT | AI Agents Match Humans in Scientific Workflows, 2026 AI Safety Report | James Lawson | [Read More](https://medium.com/p/1cc1af545abb) |
-| Wed, 25 Feb 2026 10:40:21 GMT | Evasive — Hacksmarter writeup | GauthamV | [Read More](https://medium.com/p/1c8d2a0de52c) |
-| Wed, 25 Feb 2026 10:37:43 GMT | Beyond Support: Compliance & Privacy Services MSPs Offer in 2026 | Elevate | [Read More](https://medium.com/p/6031e232b18e) |
-| Wed, 25 Feb 2026 10:34:51 GMT | Mastering Broken Access Control: A Manual Deep Dive into OWASP Top 10 | Yashkasbe | [Read More](https://medium.com/p/89c397ccc491) |
-| Wed, 25 Feb 2026 10:34:43 GMT | When Hackers Talk to Your AI: Prompt Injection in the Wild and How to Defend Against It | Taylor Brudos | [Read More](https://medium.com/p/fe728d98d6f4) |
-| Wed, 25 Feb 2026 10:28:55 GMT | What Growing Websites Discover After Outgrowing Entry-Level Hosting? | Mary Thomas | [Read More](https://medium.com/p/3256324f20a1) |
-| Wed, 25 Feb 2026 10:24:34 GMT | Residential Security Guard Services West Covina for Gated Access Control | GuardLine Chronicles | [Read More](https://medium.com/p/b4f46a6d5376) |
-| Wed, 25 Feb 2026 10:20:16 GMT | How API Pen-Testers Approach Systems: Tools, Mindset, and Methodology | Peace Dennis | [Read More](https://medium.com/p/f039a8c87b80) |
-| Wed, 25 Feb 2026 10:17:01 GMT | Unbeatable Tic-Tac-Toe AI by CYBER KALKI — Can You Beat It or Only Draw? | ElonMuskTheAntichrist | [Read More](https://medium.com/p/a3b2d9fc2759) |
-| Wed, 25 Feb 2026 10:14:49 GMT | AI-Powered Hacking Tools in CEH v13: What You’ll Learn in 2026 | Appin Technology Lab | [Read More](https://medium.com/p/1113a376bad4) |
-| Wed, 25 Feb 2026 10:13:06 GMT | How IoT is Transforming Logistics & E-commerce Security in 2026 | Kirti Labs | [Read More](https://medium.com/p/6829d7c2c4c6) |
-| Wed, 25 Feb 2026 10:10:08 GMT | How I Cracked My First Pentesting Certification (eJPTv2) in 3 Months | Mohammad Anas Nirban | [Read More](https://medium.com/p/a33284ed1599) |
-| Wed, 25 Feb 2026 10:06:00 GMT | Revisiting the Harvey Industries Conundrum: Too Many Nuts, Not Enough Sense | Namir Sagheenanajar | [Read More](https://medium.com/p/fd0d15c107c1) |
-| Wed, 25 Feb 2026 10:03:22 GMT | Zero Trust Architecture: Why “Trust” is a Taboo Word in Security (NIST SP 800–207) | Mahdi | [Read More](https://medium.com/p/b1d279d614c6) |
-| Wed, 25 Feb 2026 10:03:00 GMT | How Hackers Actually Break Into Systems | Hania Khan | [Read More](https://medium.com/p/f4724db74a5b) |
-| Wed, 25 Feb 2026 10:02:46 GMT | Passwords Are Dead. Here’s What Actually Protects Your Business Now | Ajekigbe Michael. A | [Read More](https://medium.com/p/9333b9c584a9) |
-| Wed, 25 Feb 2026 10:02:39 GMT | A Framework in Motion, An Experience in Question: Are we Digitising — or Simply Launching Portals? | NeemaRhonnahMkenda | [Read More](https://medium.com/p/759433286654) |
-| Wed, 25 Feb 2026 10:02:28 GMT | Demystifying Asymmetric Cryptography: Keys, Signatures, and Double Encryption | Mahdi | [Read More](https://medium.com/p/494506ba5553) |
-| Wed, 25 Feb 2026 10:01:01 GMT | “Je n’ai rien à cacher” : la phrase la plus dangereuse en cybersécurité | nullbytepro | [Read More](https://medium.com/p/520bdca949e4) |
-| Wed, 25 Feb 2026 10:00:26 GMT | How Industries Compare to Penetration Testing Their Network | Hacker’s View on Cybersecurity | [Read More](https://medium.com/p/c7d69b7fe348) |
-| Wed, 25 Feb 2026 09:57:36 GMT | Impact of AI in Indian IT | The Business Models | [Read More](https://medium.com/p/194c7784f927) |
