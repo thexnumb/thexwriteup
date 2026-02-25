@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Feb 2026 23:29:47 GMT | How to Use OnionShare for Secure File Sharing | Immergrow | [Read More](https://medium.com/p/8d5b7e7bb4d2) |
+| Wed, 25 Feb 2026 23:20:15 GMT | The Invisible Fortress: Building a Banking-Grade Payment Infrastructure on AWS | Mateus | [Read More](https://medium.com/p/66d33376aaac) |
+| Wed, 25 Feb 2026 23:17:07 GMT | Navigating the Quantum Horizon: A Transition Framework for Financial Systems to PQC | Michael Myers | [Read More](https://medium.com/p/886c847dfeba) |
+| Wed, 25 Feb 2026 23:05:24 GMT | Financial Privacy Is Economic Security | Fortress Protocol | [Read More](https://medium.com/p/faa12d1d5365) |
+| Wed, 25 Feb 2026 23:05:19 GMT | Aider + OpenClaw: How Autonomous Exploit Generators Rewrite the Rules of Security Research | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/e26e9ff5d8fa) |
+| Wed, 25 Feb 2026 22:57:39 GMT | Security Monitoring For Small Teams Without A SOC | Geoffrey Wenger | [Read More](https://medium.com/p/540696920e18) |
+| Wed, 25 Feb 2026 22:57:39 GMT | SOC Analyst L1 Alert Triage: Step-by-Step Guide: | Muppalla Sai Prasanna | [Read More](https://medium.com/p/4b85e4987c0d) |
+| Wed, 25 Feb 2026 22:42:54 GMT | Home SOC Lab with Splunk: Log Analysis and Detection of Abnormal Logins and Brute Force Attacks | Kabir | [Read More](https://medium.com/p/42b8e5ca4985) |
+| Wed, 25 Feb 2026 22:35:25 GMT | Mengerjakan AoTR 2 — Operation Winter Blackout | Farizyuanda | [Read More](https://medium.com/p/b30d6c7434e8) |
 | Wed, 25 Feb 2026 22:30:05 GMT | What Actually Happens When You Type a URL Into Your Browser? | Jacob Ferguson | [Read More](https://medium.com/p/62dfeeeb0725) |
 | Wed, 25 Feb 2026 22:22:20 GMT | Mythic C2 Framework | Allen Ace | [Read More](https://medium.com/p/4248dcc0470e) |
 | Wed, 25 Feb 2026 22:14:40 GMT | CrowdStrike 2026 Global Threat Report | SOCFortress | [Read More](https://medium.com/p/7396c631c65d) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Feb 2026 15:55:49 GMT | The Evolution of Technology: How Innovation Shapes Our World and Defines Our Future | Fejiro Otogbeghan | [Read More](https://medium.com/p/0b31cbd0ad2c) |
 | Wed, 25 Feb 2026 15:55:37 GMT | Shift-Left Security for Terraform: Why We Built tfgaurd.com ️ | Sandipan Saha | [Read More](https://medium.com/p/5aeb7d3e140a) |
 | Wed, 25 Feb 2026 15:53:02 GMT | Pico CTF Web Exploitation Challenge 1 Easy Category [Crack The Gate 1] | Devansh Patel | [Read More](https://medium.com/p/dea520feadce) |
-| Wed, 25 Feb 2026 15:52:15 GMT | Industrialized Software Supply Chain Security: Why AI Assistants Cannot Replace Systemic Control | John | [Read More](https://medium.com/p/62e83a951ffc) |
-| Wed, 25 Feb 2026 15:49:53 GMT | The Pedestal Paradox: When Being “Brave” Still Leaves You Lonely | Leyla Stuber | [Read More](https://medium.com/p/ed67f57bfa4d) |
-| Wed, 25 Feb 2026 15:48:52 GMT | Introduction of Cryptography | Aj | [Read More](https://medium.com/p/01e636ccb500) |
-| Wed, 25 Feb 2026 15:47:09 GMT | No One Talks About How Exhausting It Is to Look Strong | Mehmetresulozcan | [Read More](https://medium.com/p/59e2e1b56a8f) |
-| Wed, 25 Feb 2026 15:47:07 GMT | Cyber Damage Control Is Not Incident Response | Peter Hillier/Halton | [Read More](https://medium.com/p/479ac7855fd1) |
-| Wed, 25 Feb 2026 15:45:12 GMT | CASE FILE #DF-AOTR-01 - CLASSIFIED | kanieloutis | [Read More](https://medium.com/p/85972616c7ca) |
-| Wed, 25 Feb 2026 15:44:48 GMT | The Bitcoin Crash is a Decoy. | Konoe | [Read More](https://medium.com/p/7f8ace9f3c07) |
-| Wed, 25 Feb 2026 15:44:39 GMT | Breaking the Text-Only Barrier — Expanding the Entropy Space | Dr. Shashi Karhail | [Read More](https://medium.com/p/2dc1bbbf9b62) |
-| Wed, 25 Feb 2026 15:38:18 GMT | What are Access Control Vulnerabilities? | BinaryShield | [Read More](https://medium.com/p/4d2174ad242a) |
