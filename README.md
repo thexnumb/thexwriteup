@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 25 Feb 2026 23:51:18 GMT | Intigriti Challenge 2026 — Stored XSS to Admin Flag | Pot4to | [Read More](https://medium.com/p/f90acc22ae03) |
+| Wed, 25 Feb 2026 23:45:19 GMT | AI Shocks the Cybersecurity Market | Matthew.Rosenquist | [Read More](https://medium.com/p/1c244e0b9605) |
+| Wed, 25 Feb 2026 23:42:13 GMT | Exposing the Hidden Dangers of IoT Bridge Attacks on Smart Home Devices | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/6c63ecbb93c4) |
+| Wed, 25 Feb 2026 23:36:28 GMT | “Run This Repo, Let’s Go Through Figma” — How a Web3 “Platform” Tried to Own My Machine | Stanislav Obrazcoff | [Read More](https://medium.com/p/c0f6e9a4dd23) |
+| Wed, 25 Feb 2026 23:35:34 GMT | I Pointed my Reasoning Engine at Platform Decay. It Found a Hidden Mechanism | Daniel Straughair | [Read More](https://medium.com/p/01b9d5cb8ede) |
+| Wed, 25 Feb 2026 23:34:04 GMT | 2026: İnsan Ölçeğindeki Savunmanın Sonu ve “Otonom” Çağın Başlangıcı | serhat | [Read More](https://medium.com/p/1a43bec5f023) |
 | Wed, 25 Feb 2026 23:29:47 GMT | How to Use OnionShare for Secure File Sharing | Immergrow | [Read More](https://medium.com/p/8d5b7e7bb4d2) |
+| Wed, 25 Feb 2026 23:27:42 GMT | Cisco Cybersecurity Module 1 (Part 3): Exploits, Security Breaches, and Their Impact | Favour Ugochi Ogbonnaya | [Read More](https://medium.com/p/7a946f4ace89) |
+| Wed, 25 Feb 2026 23:25:59 GMT | Precision Over Volume: Why Structure Is the New Competitive Advantage in Federal Contracting | FEDERAL BID PARTNERS LLC | [Read More](https://medium.com/p/f0d73d043595) |
 | Wed, 25 Feb 2026 23:20:15 GMT | The Invisible Fortress: Building a Banking-Grade Payment Infrastructure on AWS | Mateus | [Read More](https://medium.com/p/66d33376aaac) |
 | Wed, 25 Feb 2026 23:17:07 GMT | Navigating the Quantum Horizon: A Transition Framework for Financial Systems to PQC | Michael Myers | [Read More](https://medium.com/p/886c847dfeba) |
 | Wed, 25 Feb 2026 23:05:24 GMT | Financial Privacy Is Economic Security | Fortress Protocol | [Read More](https://medium.com/p/faa12d1d5365) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Feb 2026 16:09:30 GMT | IDORs Explained: How One Number Can Hack an Entire Company | Krishna Kumar | [Read More](https://medium.com/p/8872fef31c2d) |
 | Wed, 25 Feb 2026 16:06:03 GMT | Data Sovereignty Laws Around The World | Robert Broeckelmann | [Read More](https://medium.com/p/22b3a2dbc2ad) |
 | Wed, 25 Feb 2026 16:01:07 GMT | Beyond the Click: Why Your MFA is Failing and the Rise of the Session Hijackers | Ehulse | [Read More](https://medium.com/p/143c7af12dca) |
-| Wed, 25 Feb 2026 15:59:19 GMT | How I Actually Secured My OpenClaw Setup | Mariano Mattei | [Read More](https://medium.com/p/954753e08e03) |
-| Wed, 25 Feb 2026 15:58:09 GMT | The “Delete Without Delete” Problem in AI | Amjad Saeed | [Read More](https://medium.com/p/60028b5e4454) |
-| Wed, 25 Feb 2026 15:57:30 GMT | The Dragon in the Room: Why Ghidra is the GOAT of Reverse Engineering | Sayan Ghosh | [Read More](https://medium.com/p/71d55183c11c) |
-| Wed, 25 Feb 2026 15:57:10 GMT | ₹3,000 Lost Through Google Pay Without Sending Money — What Happened? | Deepika Ponnusamy | [Read More](https://medium.com/p/2186b89fdb1e) |
-| Wed, 25 Feb 2026 15:56:00 GMT | The Secret to Winning a Middle-Aged Woman’s Heart That Sweet Talk Can’t Match | Queena Bryan | [Read More](https://medium.com/p/921f4b7f76e2) |
-| Wed, 25 Feb 2026 15:55:49 GMT | The Evolution of Technology: How Innovation Shapes Our World and Defines Our Future | Fejiro Otogbeghan | [Read More](https://medium.com/p/0b31cbd0ad2c) |
-| Wed, 25 Feb 2026 15:55:37 GMT | Shift-Left Security for Terraform: Why We Built tfgaurd.com ️ | Sandipan Saha | [Read More](https://medium.com/p/5aeb7d3e140a) |
-| Wed, 25 Feb 2026 15:53:02 GMT | Pico CTF Web Exploitation Challenge 1 Easy Category [Crack The Gate 1] | Devansh Patel | [Read More](https://medium.com/p/dea520feadce) |
