@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Feb 2026 14:33:14 GMT | How sinesync Works: Encrypted, Searchable Memory for AI Coding Tools | Michael Lipscombe | [Read More](https://medium.com/p/50b2c4127b36) |
+| Thu, 26 Feb 2026 14:31:00 GMT | What Cybersecurity Feels Like to Me in 2026 | Nitin yadav | [Read More](https://medium.com/p/ace426adfcec) |
+| Thu, 26 Feb 2026 14:21:23 GMT | Email Header & Metadata Investigation: A Beginner’s Guide Using PhishTool | Lohithchowdary | [Read More](https://medium.com/p/a5d1c6af7455) |
+| Thu, 26 Feb 2026 14:21:00 GMT | IT Consulting in San Diego: Why Local IT Consulting Near You Matters for Your Business | Xonicwave IT Support | [Read More](https://medium.com/p/262588c74a38) |
+| Thu, 26 Feb 2026 14:20:13 GMT | dc-1 Walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/38263a85bf3c) |
+| Thu, 26 Feb 2026 14:19:29 GMT | Advent of The Relics 1 & 2 | Darasamsaraayu | [Read More](https://medium.com/p/7e9a21371897) |
+| Thu, 26 Feb 2026 14:17:09 GMT | Why 70% of AppSec Time Is Spent Validating Findings — And What Agentic AI Changes | Kate Bennett | [Read More](https://medium.com/p/6ee60ce9dbcf) |
+| Thu, 26 Feb 2026 14:10:53 GMT | WebStrike — CyberDefenders Lab - WRITEUP | Elsandro Rivalito | [Read More](https://medium.com/p/ee1cd5f681c7) |
+| Thu, 26 Feb 2026 14:10:20 GMT | Subnet Design 101: Save Yourself the Headache | Karthick Dk | [Read More](https://medium.com/p/6619708016e9) |
+| Thu, 26 Feb 2026 13:59:24 GMT | Siber Güvenlik ve CTF’ler İçin Linux Temelleri : Neden Linux? | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/beea0b465003) |
+| Thu, 26 Feb 2026 13:59:01 GMT | Damn Vulnerable Web Application (DVWA) Setup on Local machine | Mawira Victor | [Read More](https://medium.com/p/4d773a562a23) |
+| Thu, 26 Feb 2026 13:57:45 GMT | Breaking Into the SOC in 2026: The Certifications That Matter | Cyber Aries | [Read More](https://medium.com/p/6b169c7bf36a) |
+| Thu, 26 Feb 2026 13:52:45 GMT | My Life as a Digital Horse: | Rajeshsoni | [Read More](https://medium.com/p/9fa7e526c8f6) |
 | Thu, 26 Feb 2026 13:40:13 GMT | Day 7: When the Vulnerability Is Human, Phishing and Social Engineering Through a SOC Lens | Muhammad Kashif | [Read More](https://medium.com/p/7e07ec4c0067) |
 | Thu, 26 Feb 2026 13:39:43 GMT | The Breathackers Manifesto: A Letter from B Block | Abhinav Jain | [Read More](https://medium.com/p/a209ec23079e) |
 | Thu, 26 Feb 2026 13:38:05 GMT | BREAT-HACKERS: The Manifesto. The Rules. The Standard. | Abhinav Jain | [Read More](https://medium.com/p/931a3139e507) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Feb 2026 09:39:34 GMT | My Journey in DANTE HTB Pro Lab | caulk94 | [Read More](https://medium.com/p/5a3155bf294f) |
 | Thu, 26 Feb 2026 09:38:16 GMT | Artificial Intelligence Certification Course Holi Offer 2026 — Apply Now | cyber security Updates | [Read More](https://medium.com/p/6325f86a5678) |
 | Thu, 26 Feb 2026 09:23:37 GMT | Improper Session Invalidations: When Admin Privileges Linger | Mantosh Sah | [Read More](https://medium.com/p/f85a66ff22ad) |
-| Thu, 26 Feb 2026 09:18:52 GMT | TECHNOLOGY News & Gadget Reviews - GoTrendingToday | gotrendingtoday57 | [Read More](https://medium.com/p/a2299e13251d) |
-| Thu, 26 Feb 2026 09:18:09 GMT | WordPress Core Security 2026 — Part 3 | Leetsec Sarwar | [Read More](https://medium.com/p/0ca8ddef5a34) |
-| Thu, 26 Feb 2026 09:06:23 GMT | Day 8 — The Image That Wasn’t an Image (Stored XSS via File Upload) | Issan | [Read More](https://medium.com/p/3bedd377a502) |
-| Thu, 26 Feb 2026 09:03:34 GMT | The End of Passwords: A Technical Deep Dive into Passkeys | Archana Shukla | [Read More](https://medium.com/p/81ab5bb50e81) |
-| Thu, 26 Feb 2026 09:01:00 GMT | 5 Signs Your Credentials Were Stolen This Week, Not Last Year | Alexandre Vandamme | [Read More](https://medium.com/p/cb671edabbdc) |
-| Thu, 26 Feb 2026 08:59:52 GMT | $1,500 PII Leak via GraphQL Field-Level Permission Bypass | tinopreter | [Read More](https://medium.com/p/1e7ea2d1a019) |
-| Thu, 26 Feb 2026 08:59:15 GMT | FortiGate Addresses | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/5bce1d141d11) |
-| Thu, 26 Feb 2026 08:59:00 GMT | Network Segmentation with FortiGate: Creating and Routing Between Departments | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/ba20ebe469eb) |
-| Thu, 26 Feb 2026 08:55:40 GMT | I Am 30 And Disappointed To My Family | Positive Thinker | [Read More](https://medium.com/p/261d83492aa2) |
-| Thu, 26 Feb 2026 08:53:16 GMT | What Is Blockchain Privacy? How Privacy Payments Work on Blockchains? | BenFen | [Read More](https://medium.com/p/c3d572f518a0) |
-| Thu, 26 Feb 2026 08:46:42 GMT | When a Link Becomes JavaScript (Stored XSS via javascript: URL) | Issan | [Read More](https://medium.com/p/f0490479e428) |
-| Thu, 26 Feb 2026 08:43:45 GMT | The Hidden Job Explosion AI Is Quietly Creating | Vijay Kumar Gupta | [Read More](https://medium.com/p/f01128185357) |
-| Thu, 26 Feb 2026 08:33:55 GMT | AI and Mobile Data Privacy: Understanding Potential Risks and How to Protect Your Information. | Rajesh Rawat | [Read More](https://medium.com/p/5bb37abc5d0b) |
