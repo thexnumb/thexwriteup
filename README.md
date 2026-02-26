@@ -12,8 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Feb 2026 11:06:53 GMT | Predictability as a Service: Why Founders Prioritize Risk Control Over Engineering Capacity | Wamisoftware | [Read More](https://medium.com/p/987cafeeac5c) |
+| Thu, 26 Feb 2026 11:00:28 GMT | From Code to Context: How Building Data Tools at Factly Changed my Understanding of Public… | Hussain Ummadi | [Read More](https://medium.com/p/82448772fad3) |
+| Thu, 26 Feb 2026 10:59:48 GMT | Building an Enterprise-Style Azure Hub-and-Spoke Security Architecture (AZ-500 Lab) | Amal Udayanga Basnayake | [Read More](https://medium.com/p/8b2eaec687ca) |
+| Thu, 26 Feb 2026 10:56:53 GMT | WAF Bypass and JavaScript Incomplete Handling of Unicode Characters Leading to DOM-XSS | Sushil Chaudhary | [Read More](https://medium.com/p/33e4aea1346e) |
+| Thu, 26 Feb 2026 10:56:14 GMT | Widget Tata Letak | Zurichsabil | [Read More](https://medium.com/p/8ea2b646fc3a) |
+| Thu, 26 Feb 2026 10:47:44 GMT | France’s Visio Migration Transfers Risk, It Does Not Eliminate It | Kaynat Muzaffar | [Read More](https://medium.com/p/607531240f22) |
+| Thu, 26 Feb 2026 10:45:10 GMT | The Upgrade: Out With The Old, In With The New | Jeremy McKinzie | [Read More](https://medium.com/p/d9d413877a43) |
+| Thu, 26 Feb 2026 10:43:55 GMT | Top 5 IT Skills That Will Make You Rich in 2026 | CodeZen | [Read More](https://medium.com/p/04deda12225d) |
+| Thu, 26 Feb 2026 10:40:20 GMT | A LinkedIn for AI Agents? | Manuel Tress | [Read More](https://medium.com/p/22b36f79bfc6) |
+| Thu, 26 Feb 2026 10:36:15 GMT | How to Fix the Problem of App Crashes on Launch: Stabilizing Your Mobile OS | Talha Javed | [Read More](https://medium.com/p/4929ec60e2eb) |
+| Thu, 26 Feb 2026 10:33:41 GMT | Digital Deception and Disruption: Let's Trap some Hackers with Honeypots and Honeynets (MITRE… | Mahdi | [Read More](https://medium.com/p/61c0a8b223f7) |
+| Thu, 26 Feb 2026 10:31:46 GMT | PE Import Analyzer: A Practical Guide for Malware Analysts and Reverse Engineers | Andrey Pautov | [Read More](https://medium.com/p/29b8b98aeaf3) |
+| Thu, 26 Feb 2026 10:31:41 GMT | Episode 3 : What Is a PhD? And What’s the Difference Between a PhD and a Doctor? | VoiceVibes_101 | [Read More](https://medium.com/p/3db9b85a02d9) |
+| Thu, 26 Feb 2026 10:28:52 GMT | AAA Framework and CA In Simple Language | Mahdi | [Read More](https://medium.com/p/11cdb15a27d0) |
+| Thu, 26 Feb 2026 10:28:10 GMT | The 30-Day “Warm-up” Protocol: How to Safely Re-Enter the Platform After a Temporary Ban | William Scott | [Read More](https://medium.com/p/3237ea4ec556) |
+| Thu, 26 Feb 2026 10:25:00 GMT | The New Affordable Web Hosting Playbook for Builders, Bloggers, and Businesses | Mary Thomas | [Read More](https://medium.com/p/cb536d8f19ba) |
+| Thu, 26 Feb 2026 10:19:25 GMT | Understanding Static vs Dynamic Analysis in Mobile Application Penetration Testing | Penetolabspentest | [Read More](https://medium.com/p/1a3e5df806c8) |
+| Thu, 26 Feb 2026 10:19:17 GMT | The 44-Day Window: Leading Through the Collapse of Vulnerability Cycles | Damian Figiel | [Read More](https://medium.com/p/69318b88eddb) |
+| Thu, 26 Feb 2026 10:18:28 GMT | Why is Network Monitoring and Management important for businesses? | Skyviewtechnology | [Read More](https://medium.com/p/38d3d4b927f8) |
 | Thu, 26 Feb 2026 10:04:28 GMT | Stop Using Passwords: The Ultimate Guide to SSH Key Security | ServerMO | [Read More](https://medium.com/p/1777bce0c1fc) |
 | Thu, 26 Feb 2026 10:03:44 GMT | Search source-picoCTF | Vishvambhar ranoshe | [Read More](https://medium.com/p/1a0fa6264b4c) |
+| Thu, 26 Feb 2026 10:01:23 GMT | How Smart Home Security Systems Protect Your Home and Help You Save Money | Acfalarm | [Read More](https://medium.com/p/d5823934f902) |
 | Thu, 26 Feb 2026 09:58:21 GMT | Why crypto security needs a new model | HASHWallet | [Read More](https://medium.com/p/e22ca0c881c3) |
 | Thu, 26 Feb 2026 09:58:12 GMT | Lab: Stored XSS into anchor href attribute with double quotes HTML-encoded | mayhack | [Read More](https://medium.com/p/efc3fdd60da8) |
 | Thu, 26 Feb 2026 09:56:18 GMT | Qol’ah sholahuddin, Cairo Mesir | MUHAMMAD SUBHAN KHOIR SITORUS | [Read More](https://medium.com/p/1108a10cc7ed) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Feb 2026 05:07:47 GMT | Hashing: What It Is and Why It Matters | Roy Collins | [Read More](https://medium.com/p/6fb82d2a717a) |
 | Thu, 26 Feb 2026 05:00:42 GMT | Breaking Authentication — Part 2 | ghostyjoe | [Read More](https://medium.com/p/f89a58b837dd) |
 | Thu, 26 Feb 2026 04:58:36 GMT | Will Snapdragon 8 Elite Gen 6 Be Used in Samsung Flagship Phones? | Lamiya Islam | [Read More](https://medium.com/p/7433909c18ef) |
-| Thu, 26 Feb 2026 04:43:34 GMT | compliance monitoring tools matters for business growth. | Fieldwatch.ai | [Read More](https://medium.com/p/2df9cb6734d5) |
-| Thu, 26 Feb 2026 04:36:46 GMT | INSTALASI VIRTUALBOX dan KALI LINUX | Dhiya Rahma | [Read More](https://medium.com/p/8bcd5c74a470) |
-| Thu, 26 Feb 2026 04:24:27 GMT | AI in Terrorism: Emerging Threats for State Security | Ne Ha | [Read More](https://medium.com/p/edc23c5926b0) |
-| Thu, 26 Feb 2026 04:21:37 GMT | Secure Socket Layer (SSL) | Bhuvana Medicherla | [Read More](https://medium.com/p/06929ac02d4b) |
-| Thu, 26 Feb 2026 04:16:49 GMT | Cybersecurity Governance Gaps in Emerging Digital Economies : Why Risk-Based Regulation Matter | Mildred | [Read More](https://medium.com/p/48c463b6b504) |
-| Thu, 26 Feb 2026 04:10:35 GMT | AI Associated Risks and How to Mitigate Them? | InfosecTrain | [Read More](https://medium.com/p/16c214315395) |
-| Thu, 26 Feb 2026 04:05:45 GMT | Designing a Tamper-Evident Remote Disk Acquisition Tool | Kemal Sebzeci | [Read More](https://medium.com/p/bfec94813756) |
-| Thu, 26 Feb 2026 03:56:00 GMT | Securing Google Cloud MCP Servers: Configuring Read-Only Access | sathish vj | [Read More](https://medium.com/p/938d351efe5e) |
-| Thu, 26 Feb 2026 03:49:00 GMT | Why the Smartest People in Tech Are Quietly Panicking Right Now. | Moral Elliott | [Read More](https://medium.com/p/a273c5ace480) |
-| Thu, 26 Feb 2026 03:41:00 GMT | Attacking LSASS: HackTheBox Walkthrough - Peneteration Tester Path | zerodaystudios | [Read More](https://medium.com/p/a75de254cfc1) |
-| Thu, 26 Feb 2026 03:18:51 GMT | WebStrike Lab — CyberDefenders | satoshi_nakamura | [Read More](https://medium.com/p/b48eb4a0f599) |
-| Thu, 26 Feb 2026 03:16:51 GMT | AI in Cybersecurity: Where Machine Learning Succeeds and Where It Fails | Vijayalakshmi Datascience | [Read More](https://medium.com/p/a168d96b0d7e) |
-| Thu, 26 Feb 2026 03:12:41 GMT | The Rise of the Hospital Zombie | Stanley Egba | [Read More](https://medium.com/p/f2bb7f8fa046) |
-| Thu, 26 Feb 2026 03:09:21 GMT | Mobile App Security in 2026 | Dinesh Kachhot | [Read More](https://medium.com/p/997b1db18c0e) |
-| Thu, 26 Feb 2026 03:08:30 GMT | Microservices Didn’t Make Us Faster — They Made Us Busy | The Dev Notebook | [Read More](https://medium.com/p/b7517299cfa0) |
-| Thu, 26 Feb 2026 02:56:46 GMT | Sometimes, Yeah, We All Need That Someone | PRINSOO | [Read More](https://medium.com/p/ac775d127081) |
-| Thu, 26 Feb 2026 02:53:52 GMT | The Week “Trust Us” Stopped Being Enough: Four Events That Revealed AI’s Deepest Accountability Gap | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/f9461ab1208f) |
-| Thu, 26 Feb 2026 02:51:00 GMT | How to Know If Your Cybersecurity Is Good Enough | Tyson Martin | [Read More](https://medium.com/p/519d94d0d963) |
-| Thu, 26 Feb 2026 02:32:54 GMT | When Being on the Same Coffee Shop Wi-Fi Is All an Attacker Needs | Seif Ahmed Abdelaal | [Read More](https://medium.com/p/7c6645723d1e) |
-| Thu, 26 Feb 2026 02:31:00 GMT | 8 safety guardrail myths (and what actually reduces harm) | Nikulsinh Rajput | [Read More](https://medium.com/p/c466f5433ba1) |
