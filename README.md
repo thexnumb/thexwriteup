@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Feb 2026 21:52:25 GMT | Your LLM Probably Just Hallucinated a URL. Nobody Checked. | Raviteja Nekkalapu | [Read More](https://medium.com/p/b40d3e050433) |
+| Thu, 26 Feb 2026 21:50:19 GMT | How Attackers Bypass AI Moderation: Techniques Used to Defeat AI Safety Filters | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/d36bf318c8fe) |
+| Thu, 26 Feb 2026 21:43:22 GMT | Beware of Malicious “Interview Tasks” on LinkedIn: How Scammers Distribute Harmful Code | Alexander Scherbatyuk | [Read More](https://medium.com/p/8050a02b2df3) |
+| Thu, 26 Feb 2026 21:42:11 GMT | TryHackMe - Offensive Security Intro - WriteUp | Axoloth | [Read More](https://medium.com/p/462136bcbfb8) |
+| Thu, 26 Feb 2026 21:37:10 GMT | Hidden in Plain Sight: How Attackers Weaponize Alternate Data Streams to Hide Malware | Dean | [Read More](https://medium.com/p/f7090f6c5480) |
+| Thu, 26 Feb 2026 21:34:12 GMT | The Biometric Heist: Why Your Kindness is a Scammer’s Best Tool | George William Amalan | [Read More](https://medium.com/p/68ac1adf5802) |
+| Thu, 26 Feb 2026 21:32:19 GMT | Hidden Deep Into my Heart — CTF Writeup | PaulR | [Read More](https://medium.com/p/29e3ac6b7584) |
+| Thu, 26 Feb 2026 21:31:59 GMT | Hack The Box vs CRTP: Which One Is Actually Better? | Joshua Goossen | [Read More](https://medium.com/p/fad1f9e35a5f) |
+| Thu, 26 Feb 2026 21:18:12 GMT | Authentication vs Authorization: The Developer’s Guide to Secure Identity | Alina Kovtun✨ | [Read More](https://medium.com/p/0ecb9042a929) |
+| Thu, 26 Feb 2026 21:15:45 GMT | Advent of The Relics 1 — A Call from the Museum | ridzt | [Read More](https://medium.com/p/7435b5171b0c) |
+| Thu, 26 Feb 2026 21:15:43 GMT | awsmap v1.5.0: Your AWS Inventory Now Has a Brain | Tarek CHEIKH | [Read More](https://medium.com/p/2c253f9b23cd) |
+| Thu, 26 Feb 2026 21:13:45 GMT | Distillation Attacks | Ratnadeep Dey Roy | [Read More](https://medium.com/p/2e9b31f08f91) |
+| Thu, 26 Feb 2026 21:10:47 GMT | Threat Is a Trajectory, NOT a Type | Kevin Schell | [Read More](https://medium.com/p/7cb86f249eff) |
+| Thu, 26 Feb 2026 21:09:19 GMT | Advent of The Relics 2 — Operation Winter Blackout | ridzt | [Read More](https://medium.com/p/dee8cf7c71cf) |
 | Thu, 26 Feb 2026 21:01:54 GMT | Authentication vs Authorization in Azure — Explained Simply | CloudWithAarya | [Read More](https://medium.com/p/638ed85ef62a) |
+| Thu, 26 Feb 2026 20:56:53 GMT | Pen-testing a Prod H3C Private Environment in 2026: Complete Redacted Findings & Pentester Playbook | suicidal_teddy | [Read More](https://medium.com/p/959df1746516) |
 | Thu, 26 Feb 2026 20:56:16 GMT | Lab: Reflected XSS into a JavaScript string with angle brackets HTML encoded | mayhack | [Read More](https://medium.com/p/56ed2d1021e8) |
 | Thu, 26 Feb 2026 20:46:00 GMT | The Neuroscience of Cybercrime: What Makes a Hacker’s Mind Different? | Prisha Patel | [Read More](https://medium.com/p/c24047b19a71) |
 | Thu, 26 Feb 2026 20:36:23 GMT | CLAVI FAQ 2026: The Definitive Guide to CLAVI Switzerland AG’s Sovereign Self-Custody Platform | The Swiss Expert | [Read More](https://medium.com/p/964f3c794a93) |
@@ -98,18 +113,3 @@ Dictionary-Rainbow | Felciaharini | [Read More](https://medium.com/p/165c7ea885b
 | Thu, 26 Feb 2026 15:52:37 GMT | mTLS: The Cryptographic Passport System Your Devices Already Use (with a Go Demo) | Rajesh Pachaikani | [Read More](https://medium.com/p/3501fd5ad821) |
 | Thu, 26 Feb 2026 15:47:45 GMT | From Zero to Root: A Complete HackMyVM “yuan111” Walkthrough (LFI, SSH & Privilege Escalation) | SWALE | [Read More](https://medium.com/p/56b57bc82316) |
 | Thu, 26 Feb 2026 15:47:15 GMT | Certificate Based Tool Authorization for MCP Agents | David Culver | [Read More](https://medium.com/p/6d0c6a893a93) |
-| Thu, 26 Feb 2026 15:40:08 GMT | SLH Cybercrime Group Weaponizes Vishing to Bypass MFA and Compromise Enterprises | Shashank Mannar | [Read More](https://medium.com/p/73f004ea3bca) |
-| Thu, 26 Feb 2026 15:39:35 GMT | Internet of Things 01— LED Blink | Kenneth Moses Saragih | [Read More](https://medium.com/p/6cb229c9148e) |
-| Thu, 26 Feb 2026 15:35:17 GMT | Advanced Analysis of Proxies and Reverse Proxies in Network Security | Meravytes | [Read More](https://medium.com/p/1bccd5682162) |
-| Thu, 26 Feb 2026 15:34:11 GMT | মোবাইল হ্যাক হয়েছে কিনা বুঝবেন কিভাবে? ১০টি ভয়ংকর লক্ষণ ও সমাধান (২০২৬ গাইড) | Ekramul - Bangla Tech Zone | [Read More](https://medium.com/p/26a09f5a62c9) |
-| Thu, 26 Feb 2026 15:33:01 GMT | Russia’s Cyber Warfare Just Escalated — And Europe Isn’t Ready | Vivek Anand | [Read More](https://medium.com/p/0a68a521d399) |
-| Thu, 26 Feb 2026 15:32:49 GMT | Documentação Ritual — EVM++ Sidecars — Inferência de IA | Thomas Fiorio | [Read More](https://medium.com/p/792a89783d76) |
-| Thu, 26 Feb 2026 15:32:47 GMT | Account Takeover Is Not Just a Cyber Problem — It’s a Structural Economic One | Alex | [Read More](https://medium.com/p/6155d26e9b90) |
-| Thu, 26 Feb 2026 15:31:00 GMT | Tool Descriptions Are Part of Your Threat Model | Praxen | [Read More](https://medium.com/p/7675f7c5bd62) |
-| Thu, 26 Feb 2026 15:29:17 GMT | Intermediate Nmap- TryHackMe challenege Walkthrough | Kavusan Yesuraja | [Read More](https://medium.com/p/7c597c7fa14b) |
-| Thu, 26 Feb 2026 15:28:16 GMT | Documentação Ritual — EVM++ Sidecars | Thomas Fiorio | [Read More](https://medium.com/p/5efa9dd8e734) |
-| Thu, 26 Feb 2026 15:26:40 GMT | Top 10 Secure Alternatives to WhatsApp Business in 2026 | RealTyme | [Read More](https://medium.com/p/44f43f4527cd) |
-| Thu, 26 Feb 2026 15:26:28 GMT | Is Your Node.js App Sitting on a Dependency Time Bomb? Meet the NPM Vulnerability Scanner | Emily Rose | [Read More](https://medium.com/p/423e70ed00c9) |
-| Thu, 26 Feb 2026 15:26:12 GMT | Neighbour TryHackMe Writeup | Kavusan Yesuraja | [Read More](https://medium.com/p/67ac0eb1e509) |
-| Thu, 26 Feb 2026 15:23:18 GMT | Why Most Ethical Hackers Never Get Paid — And the Complete Bug Bounty Roadmap That Actually Changes… | R.H Rizvi | [Read More](https://medium.com/p/e9940396b777) |
-| Thu, 26 Feb 2026 15:23:09 GMT | From Zero to Paid Hunter: The Counter-Intuitive Bug Bounty Roadmap Nobody Talks About in 2026 | R.H Rizvi | [Read More](https://medium.com/p/04cb04bfbf1b) |
