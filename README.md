@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Feb 2026 21:01:54 GMT | Authentication vs Authorization in Azure — Explained Simply | CloudWithAarya | [Read More](https://medium.com/p/638ed85ef62a) |
+| Thu, 26 Feb 2026 20:56:16 GMT | Lab: Reflected XSS into a JavaScript string with angle brackets HTML encoded | mayhack | [Read More](https://medium.com/p/56ed2d1021e8) |
+| Thu, 26 Feb 2026 20:46:00 GMT | The Neuroscience of Cybercrime: What Makes a Hacker’s Mind Different? | Prisha Patel | [Read More](https://medium.com/p/c24047b19a71) |
+| Thu, 26 Feb 2026 20:36:23 GMT | CLAVI FAQ 2026: The Definitive Guide to CLAVI Switzerland AG’s Sovereign Self-Custody Platform | The Swiss Expert | [Read More](https://medium.com/p/964f3c794a93) |
+| Thu, 26 Feb 2026 20:34:48 GMT | Understanding Least Privilege Through a Windows User Account | Grace Jaman | [Read More](https://medium.com/p/d6d04618df3d) |
+| Thu, 26 Feb 2026 20:25:32 GMT | The Internet was Weeks away from Disaster | Gayathry Dasika | [Read More](https://medium.com/p/b377bbba4c43) |
+| Thu, 26 Feb 2026 20:23:42 GMT | DotnetFastMCP: Enforcing Multi-Factor Authentication (MFA) for Critical AI Tools ️ | Gagan Bajaj | [Read More](https://medium.com/p/338884f0bb30) |
+| Thu, 26 Feb 2026 20:21:05 GMT | The Era of Agentic Warfare | Kawser Ayoub | [Read More](https://medium.com/p/100a5f9f5822) |
+| Thu, 26 Feb 2026 20:20:57 GMT | TryHackMe Module Metasploit | U S A N | [Read More](https://medium.com/p/6f421158dc8c) |
+| Thu, 26 Feb 2026 20:20:29 GMT | Cyber Defenders : Webstrike Lab Question and How to Solved | irvan wahyudin | [Read More](https://medium.com/p/4fa1fca68199) |
+| Thu, 26 Feb 2026 20:10:43 GMT | From Social Engineering to Societal Design: The Architects of Perception | Ziya Gokalp | [Read More](https://medium.com/p/21458d6987ee) |
+| Thu, 26 Feb 2026 20:09:09 GMT | The Great Indian Intelligence Crisis | Samar Haldey | [Read More](https://medium.com/p/3171a300e3bc) |
+| Thu, 26 Feb 2026 20:07:42 GMT | Deprecating Yield DTF Batch Auctions: EasyAuction.sol Division-by-Zero | Patrick Mckelvy | [Read More](https://medium.com/p/85fd10212c97) |
+| Thu, 26 Feb 2026 20:01:23 GMT | When Automation in SOC Helps — and When It Hurts | JSOC IT BLOG | [Read More](https://medium.com/p/3de1783dc46a) |
+| Thu, 26 Feb 2026 20:01:00 GMT | The Worst Wi-Fi Security Advice I Found on Facebook (And Why It’s a Hacker’s Dream) | freerave | [Read More](https://medium.com/p/bebfcf1e86fb) |
+| Thu, 26 Feb 2026 19:54:12 GMT | Design of a Remote-Control Trojan Program Suitable for Beginner-Level Information Security Learners | Wisdomapple | [Read More](https://medium.com/p/549a91fd3f30) |
 | Thu, 26 Feb 2026 19:29:10 GMT | PostgreSQL Hardening Guide | SOCFortress | [Read More](https://medium.com/p/8b8554e22336) |
 | Thu, 26 Feb 2026 19:24:37 GMT | Anonymous — TryHackMe Writeup | Hemantha Krishna Challa | [Read More](https://medium.com/p/7727401d444e) |
 | Thu, 26 Feb 2026 19:20:01 GMT | Zero-Trust Agent Architecture: Practical Hardening Patterns for Autonomous Systems | John Matylonek | [Read More](https://medium.com/p/858267e7a0db) |
@@ -30,8 +46,10 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Feb 2026 18:45:21 GMT | HTB-TeamBlueLabs - AoTR 2: Operation Winter Blackout | Kiana Anaceliya | [Read More](https://medium.com/p/7bbce8813944) |
 | Thu, 26 Feb 2026 18:40:47 GMT | AoTR 1 — A Call from the Museum | Dikoo | [Read More](https://medium.com/p/fca5dd578bf7) |
 | Thu, 26 Feb 2026 18:33:52 GMT | Creating a Bayesian Behavioral Detector in Google SecOps (pt 1) | Greg Kushmerek | [Read More](https://medium.com/p/c5ca50b95d54) |
+| Thu, 26 Feb 2026 18:33:50 GMT | Cyber Security | MR NOBODY | [Read More](https://medium.com/p/aab7c52e3358) |
 | Thu, 26 Feb 2026 18:33:21 GMT | Encryption and Secure Data Management in iOS | Gaye Uğur | [Read More](https://medium.com/p/7451891f6638) |
 | Thu, 26 Feb 2026 18:29:23 GMT | Anatomy of a Cloud Native Attack: How We Pwned Kubernetes for $100k | Krishna Kumar | [Read More](https://medium.com/p/6201ce3808af) |
+| Thu, 26 Feb 2026 18:26:00 GMT | How to Stop WhatsApp From Automatically Downloading Files and Take Back Control of Your Phone | Divine Egyabeng | [Read More](https://medium.com/p/7ea5fdb02991) |
 | Thu, 26 Feb 2026 18:20:55 GMT | HackThisSite Basic Missions: A Pentester’s Walkthrough (Levels 1–11) | AG_Notes | [Read More](https://medium.com/p/0a63c2065646) |
 | Thu, 26 Feb 2026 18:15:25 GMT | How a PS5 Controller Hijacked 7,000 Robot Vacuums | Ship X/ TechX | [Read More](https://medium.com/p/f60a0ec71805) |
 | Thu, 26 Feb 2026 18:13:44 GMT | Your Device is Blacklisted at runtime, now what? | Suprit Pandurangi | [Read More](https://medium.com/p/cfc1a66973dc) |
@@ -95,21 +113,3 @@ Dictionary-Rainbow | Felciaharini | [Read More](https://medium.com/p/165c7ea885b
 | Thu, 26 Feb 2026 15:26:12 GMT | Neighbour TryHackMe Writeup | Kavusan Yesuraja | [Read More](https://medium.com/p/67ac0eb1e509) |
 | Thu, 26 Feb 2026 15:23:18 GMT | Why Most Ethical Hackers Never Get Paid — And the Complete Bug Bounty Roadmap That Actually Changes… | R.H Rizvi | [Read More](https://medium.com/p/e9940396b777) |
 | Thu, 26 Feb 2026 15:23:09 GMT | From Zero to Paid Hunter: The Counter-Intuitive Bug Bounty Roadmap Nobody Talks About in 2026 | R.H Rizvi | [Read More](https://medium.com/p/04cb04bfbf1b) |
-| Thu, 26 Feb 2026 15:22:26 GMT | The Data Guardian: A GDPR Odyssey in the Age of Digital Shadows | Lalit kumar | [Read More](https://medium.com/p/c4c8a54693a3) |
-| Thu, 26 Feb 2026 15:16:41 GMT | How to Pass CEH v13 (Theory + Practical) on Your First Attempt — A 6-Month Study Plan That Actually… | Akash Madanu | [Read More](https://medium.com/p/75c84b053d81) |
-| Thu, 26 Feb 2026 15:15:53 GMT | Backend API Best Practices in Node.js (2026 Edition) | Samuel Ruiz | [Read More](https://medium.com/p/1bdf642b3fcd) |
-| Thu, 26 Feb 2026 15:15:22 GMT | The 72-Hour Race: Why Your Patch Hygiene is Your Biggest Risk in 2026 | IT_Engineer | [Read More](https://medium.com/p/8503def3f777) |
-| Thu, 26 Feb 2026 15:12:25 GMT | IT 03 - Windows Commands | Amrsmooke | [Read More](https://medium.com/p/fb50923629a3) |
-| Thu, 26 Feb 2026 14:52:16 GMT | Different Access Levels for Family and Executors: How to Organize Your Digital Estate Safely | Olivia Martillo | [Read More](https://medium.com/p/8b52ad494a64) |
-| Thu, 26 Feb 2026 14:33:14 GMT | How sinesync Works: Encrypted, Searchable Memory for AI Coding Tools | Michael Lipscombe | [Read More](https://medium.com/p/50b2c4127b36) |
-| Thu, 26 Feb 2026 14:31:00 GMT | What Cybersecurity Feels Like to Me in 2026 | Nitin yadav | [Read More](https://medium.com/p/ace426adfcec) |
-| Thu, 26 Feb 2026 14:21:23 GMT | Email Header & Metadata Investigation: A Beginner’s Guide Using PhishTool | Lohithchowdary | [Read More](https://medium.com/p/a5d1c6af7455) |
-| Thu, 26 Feb 2026 14:21:00 GMT | IT Consulting in San Diego: Why Local IT Consulting Near You Matters for Your Business | Xonicwave IT Support | [Read More](https://medium.com/p/262588c74a38) |
-| Thu, 26 Feb 2026 14:20:13 GMT | dc-1 Walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/38263a85bf3c) |
-| Thu, 26 Feb 2026 14:19:29 GMT | Advent of The Relics 1 & 2 | Darasamsaraayu | [Read More](https://medium.com/p/7e9a21371897) |
-| Thu, 26 Feb 2026 14:17:09 GMT | Why 70% of AppSec Time Is Spent Validating Findings — And What Agentic AI Changes | Kate Bennett | [Read More](https://medium.com/p/6ee60ce9dbcf) |
-| Thu, 26 Feb 2026 14:10:53 GMT | WebStrike — CyberDefenders Lab - WRITEUP | Elsandro Rivalito | [Read More](https://medium.com/p/ee1cd5f681c7) |
-| Thu, 26 Feb 2026 14:10:20 GMT | Subnet Design 101: Save Yourself the Headache | Karthick Dk | [Read More](https://medium.com/p/6619708016e9) |
-| Thu, 26 Feb 2026 13:59:24 GMT | Siber Güvenlik ve CTF’ler İçin Linux Temelleri : Neden Linux? | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/beea0b465003) |
-| Thu, 26 Feb 2026 13:59:01 GMT | Damn Vulnerable Web Application (DVWA) Setup on Local machine | Mawira Victor | [Read More](https://medium.com/p/4d773a562a23) |
-| Thu, 26 Feb 2026 13:57:45 GMT | Breaking Into the SOC in 2026: The Certifications That Matter | Cyber Aries | [Read More](https://medium.com/p/6b169c7bf36a) |
