@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Feb 2026 04:24:27 GMT | AI in Terrorism: Emerging Threats for State Security | Ne Ha | [Read More](https://medium.com/p/edc23c5926b0) |
+| Thu, 26 Feb 2026 04:21:37 GMT | Secure Socket Layer (SSL) | Bhuvana Medicherla | [Read More](https://medium.com/p/06929ac02d4b) |
+| Thu, 26 Feb 2026 04:16:49 GMT | Cybersecurity Governance Gaps in Emerging Digital Economies : Why Risk-Based Regulation Matter | Mildred | [Read More](https://medium.com/p/48c463b6b504) |
+| Thu, 26 Feb 2026 04:10:35 GMT | AI Associated Risks and How to Mitigate Them? | InfosecTrain | [Read More](https://medium.com/p/16c214315395) |
+| Thu, 26 Feb 2026 04:05:45 GMT | Designing a Tamper-Evident Remote Disk Acquisition Tool | Kemal Sebzeci | [Read More](https://medium.com/p/bfec94813756) |
+| Thu, 26 Feb 2026 03:56:00 GMT | Securing Google Cloud MCP Servers: Configuring Read-Only Access | sathish vj | [Read More](https://medium.com/p/938d351efe5e) |
+| Thu, 26 Feb 2026 03:49:00 GMT | Why the Smartest People in Tech Are Quietly Panicking Right Now. | Moral Elliott | [Read More](https://medium.com/p/a273c5ace480) |
+| Thu, 26 Feb 2026 03:41:00 GMT | Attacking LSASS: HackTheBox Walkthrough - Peneteration Tester Path | zerodaystudios | [Read More](https://medium.com/p/a75de254cfc1) |
+| Thu, 26 Feb 2026 03:18:51 GMT | WebStrike Lab — CyberDefenders | satoshi_nakamura | [Read More](https://medium.com/p/b48eb4a0f599) |
+| Thu, 26 Feb 2026 03:16:51 GMT | AI in Cybersecurity: Where Machine Learning Succeeds and Where It Fails | Vijayalakshmi Datascience | [Read More](https://medium.com/p/a168d96b0d7e) |
+| Thu, 26 Feb 2026 03:12:41 GMT | The Rise of the Hospital Zombie | Stanley Egba | [Read More](https://medium.com/p/f2bb7f8fa046) |
+| Thu, 26 Feb 2026 03:09:21 GMT | Mobile App Security in 2026 | Dinesh Kachhot | [Read More](https://medium.com/p/997b1db18c0e) |
+| Thu, 26 Feb 2026 03:08:30 GMT | Microservices Didn’t Make Us Faster — They Made Us Busy | The Dev Notebook | [Read More](https://medium.com/p/b7517299cfa0) |
+| Thu, 26 Feb 2026 02:56:46 GMT | Sometimes, Yeah, We All Need That Someone | PRINSOO | [Read More](https://medium.com/p/ac775d127081) |
+| Thu, 26 Feb 2026 02:53:52 GMT | The Week “Trust Us” Stopped Being Enough: Four Events That Revealed AI’s Deepest Accountability Gap | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/f9461ab1208f) |
+| Thu, 26 Feb 2026 02:51:00 GMT | How to Know If Your Cybersecurity Is Good Enough | Tyson Martin | [Read More](https://medium.com/p/519d94d0d963) |
+| Thu, 26 Feb 2026 02:32:54 GMT | When Being on the Same Coffee Shop Wi-Fi Is All an Attacker Needs | Seif Ahmed Abdelaal | [Read More](https://medium.com/p/7c6645723d1e) |
+| Thu, 26 Feb 2026 02:31:00 GMT | 8 safety guardrail myths (and what actually reduces harm) | Nikulsinh Rajput | [Read More](https://medium.com/p/c466f5433ba1) |
+| Thu, 26 Feb 2026 02:31:00 GMT | Inside a Root CA: What Most People Don’t Understand | Vijayakumar Manjunatha | [Read More](https://medium.com/p/3ed1df2c9a4d) |
 | Thu, 26 Feb 2026 02:11:01 GMT | Learning Fortinet Firewall — LESSON 4: DHCP Server | Rouell Mamaril | [Read More](https://medium.com/p/f6fd2600b23a) |
 | Thu, 26 Feb 2026 01:56:30 GMT | Counterfeit Fluency
 When Coherence Feels Like Truth | Roger Gale | [Read More](https://medium.com/p/10ccad9016af) |
@@ -95,22 +114,3 @@ When Coherence Feels Like Truth | Roger Gale | [Read More](https://medium.com/p/
 | Wed, 25 Feb 2026 18:37:51 GMT | Mantle × Bybit × Byreal × Solana: The 4D Capital Loop Strategy with $MNT | Andima Isobara | [Read More](https://medium.com/p/23a1533b0df6) |
 | Wed, 25 Feb 2026 18:37:03 GMT | How I Built a Splunk Homelab for Splunk Certified Core User (SPLK-1001) — Installation, SPL Queries… | Citadel Cybersec | [Read More](https://medium.com/p/1259f0d5da42) |
 | Wed, 25 Feb 2026 18:37:00 GMT | Cyber Security मधील नवे बदल आणि वाढती गरज | Durgesh Waje | [Read More](https://medium.com/p/e0adb0e270c6) |
-| Wed, 25 Feb 2026 18:24:29 GMT | APK Vulnerability Scanner Online: Your Android App Is Shipping Vulnerable Libraries — Here’s How to… | Emily Rose | [Read More](https://medium.com/p/0ff294d46cde) |
-| Wed, 25 Feb 2026 18:16:01 GMT | When HR Saves a Protocol: Case Studies of Hiring Decisions That Changed Everything | Veretin Recruitment | [Read More](https://medium.com/p/f35e24fe6b62) |
-| Wed, 25 Feb 2026 18:15:56 GMT | I Built a Recon & Attack Vector Mapper Online Tool for Bug Bounty | Md Tanjimul Islam Sifat | [Read More](https://medium.com/p/cb553efdf247) |
-| Wed, 25 Feb 2026 18:14:03 GMT | Zero-click account takeover worth 1500€ | Sakshi Rathore | [Read More](https://medium.com/p/28ea7bd537ed) |
-| Wed, 25 Feb 2026 18:13:44 GMT | Legacy Cybersecurity is blind to Context, Claude Code Security is not | Ravindra Satyanarayana | [Read More](https://medium.com/p/a3af09a09fed) |
-| Wed, 25 Feb 2026 17:42:22 GMT | Cross-Site Request Forgery Leading to Account Takeover | montaser mohsen | [Read More](https://medium.com/p/640f9ee3b2be) |
-| Wed, 25 Feb 2026 17:41:46 GMT | W1seGuy Walkthrough (for beginners) | CEHacka | [Read More](https://medium.com/p/d3290b75bbe2) |
-| Wed, 25 Feb 2026 17:31:12 GMT | When Your Car Gets Hacked: The Real World of Automotive Cybersecurity | Budhdi Sharma | [Read More](https://medium.com/p/3da19a30b76e) |
-| Wed, 25 Feb 2026 17:26:16 GMT | AI Cybersecurity vs Cloud Security: Why Traditional Approaches Fall Short | Cygeniq_ai | [Read More](https://medium.com/p/f993cc5eafcd) |
-| Wed, 25 Feb 2026 17:15:39 GMT | Best Free VPN in 2026: What Actually Works? | VPNHouse | [Read More](https://medium.com/p/9d2f7cfba84a) |
-| Wed, 25 Feb 2026 17:14:24 GMT | Update Beneficiaries and Access Rules Anytime with a Secure Inheritance Vault | InheritSafe | [Read More](https://medium.com/p/bc3d63dfa22c) |
-| Wed, 25 Feb 2026 17:10:09 GMT | The $2M Question Every Startup Ignores Until It’s Too Late | Omiigoniwari | [Read More](https://medium.com/p/89a5e97a7113) |
-| Wed, 25 Feb 2026 17:07:22 GMT | Tryhackme “Tomghost” CTF Writeup | sabR | [Read More](https://medium.com/p/572fb17a0dea) |
-| Wed, 25 Feb 2026 17:01:50 GMT | US Sanctions Exploit Broker Network Linked to Stolen Government Cyber Tools | Jas | [Read More](https://medium.com/p/2afb3f9e4bd4) |
-| Wed, 25 Feb 2026 16:59:01 GMT | OSINT Sock Puppets: Purpose, Risks & Ethics | Pentester Club | [Read More](https://medium.com/p/977e2f1a8f10) |
-| Wed, 25 Feb 2026 16:55:34 GMT | Chrome Under Fire: Inside the CVE-2026–2441 Zero-Day Exploit and the Emergency Patch Rollout. | eL Njas!™ | [Read More](https://medium.com/p/be0a829c9a47) |
-| Wed, 25 Feb 2026 16:55:23 GMT | What is state sponsored hacker? | Kevin Ronex | [Read More](https://medium.com/p/23cfc68be563) |
-| Wed, 25 Feb 2026 16:51:55 GMT | Best Garmin for CrossFit and Running — Top 5 Reviewed | Narjis Arshad | [Read More](https://medium.com/p/177b2781d8da) |
-| Wed, 25 Feb 2026 16:51:01 GMT | I Audited OpenClaw’s Code to See How It Remembers — And Whether I Should Trust It With My Machine | Elliott Girard | [Read More](https://medium.com/p/81857703eb2d) |
