@@ -12,7 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Feb 2026 07:57:18 GMT | The Complete List of Virtual Doorman Responsibilities & Duties | Doris William | [Read More](https://medium.com/p/6792031cf683) |
+| Thu, 26 Feb 2026 07:56:38 GMT | How Real‑Time AI Alerts Improve Industrial Incident Response | Spotem | [Read More](https://medium.com/p/976d0f9de56d) |
+| Thu, 26 Feb 2026 07:49:45 GMT | Agentic AI Diploma | Umairtariq | [Read More](https://medium.com/p/bb3c07a58809) |
+| Thu, 26 Feb 2026 07:45:00 GMT | How AI-Powered Cyber Attacks Are Driving Demand for Ethical Hacking | Francycthomas | [Read More](https://medium.com/p/eee043e97600) |
+| Thu, 26 Feb 2026 07:42:31 GMT | A Subtle Audit Log Consideration in AWS | Suresh Gururajan | [Read More](https://medium.com/p/063752150b20) |
+| Thu, 26 Feb 2026 07:42:28 GMT | Global Endpoint Detection And Response Market 2026–2034: Trends, Growth, and Forecast Analysis | Sophia | [Read More](https://medium.com/p/b61dd955d911) |
+| Thu, 26 Feb 2026 07:40:54 GMT | EntroGuard — Day 5 | Nisarg Patel | [Read More](https://medium.com/p/c405d439e07f) |
+| Thu, 26 Feb 2026 07:33:48 GMT | Digital Fortresses: How Google Keeps Your Data Under 7 Layers of Lock and Key | Yadavshreya | [Read More](https://medium.com/p/1b9abc2fba0a) |
+| Thu, 26 Feb 2026 07:31:01 GMT | Writing Code in Concrete: Why Solidity Breaks Web2 Developers | Tabrez Mukadam | [Read More](https://medium.com/p/81162a7de3a7) |
+| Thu, 26 Feb 2026 07:27:01 GMT | Cybersecurity Keeping Your Digital House Safe | Ronitsinha | [Read More](https://medium.com/p/addf60664ebb) |
+| Thu, 26 Feb 2026 07:25:01 GMT | ประจำวันพฤหัสบดีที่ 26 กุมภาพันธ์ 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/436979fc567a) |
+| Thu, 26 Feb 2026 07:24:54 GMT | I Replaced My Python Security Stack With 3 Tools. It Worked. | inprogrammer | [Read More](https://medium.com/p/53033db399c9) |
+| Thu, 26 Feb 2026 07:23:59 GMT | The World is On A Wild Goose Chase | Evren Tanson | [Read More](https://medium.com/p/e1c408fa3916) |
+| Thu, 26 Feb 2026 07:20:53 GMT | Google Data Center Security | Ayeshamulani | [Read More](https://medium.com/p/73d7dbaf616b) |
+| Thu, 26 Feb 2026 07:19:48 GMT | The USB Port Is the Most Trusted Interface in Computing — And We Barely Use It | Harshal Vij | [Read More](https://medium.com/p/7e73ea551b5c) |
+| Thu, 26 Feb 2026 07:15:35 GMT | Fortress (THM) Tryhackme Only Answer | Lawvye | [Read More](https://medium.com/p/b7f8454d980d) |
+| Thu, 26 Feb 2026 07:09:02 GMT | AI-Powered IT Operations Management for Modern Enterprise Efficiency | Travisbeckham | [Read More](https://medium.com/p/e5218aceac72) |
+| Thu, 26 Feb 2026 07:08:13 GMT | Message Exchange between Alice and Bob maintaining Authenticity, Integrity, and Confidentiality | Shubham Kumar | [Read More](https://medium.com/p/f0764f5b6ba7) |
+| Thu, 26 Feb 2026 07:07:22 GMT | Wormable XMRig BYOVD Cryptomining Campaign | Threatsys Technologies Pvt Ltd | [Read More](https://medium.com/p/0ccb2aa054b5) |
+| Thu, 26 Feb 2026 07:03:30 GMT | Saldırganın Gözüyle Savunmak: Penetration Testi | Buğra Melih Yenice | [Read More](https://medium.com/p/67acd33567fa) |
+| Thu, 26 Feb 2026 07:01:01 GMT | 4. Merge vs Rebase — What Every DevOps Fresher Should Know | Mangesh Muley | [Read More](https://medium.com/p/a4b272f524c3) |
+| Thu, 26 Feb 2026 07:01:01 GMT | Alone, But Not Entirely | Versouls | [Read More](https://medium.com/p/9e26cbe60228) |
 | Thu, 26 Feb 2026 06:54:21 GMT | Trust & Safety Infrastructure: What Every Platform Needs in 2026 | Manoj Biswal | [Read More](https://medium.com/p/d5c8b8646998) |
+| Thu, 26 Feb 2026 06:52:06 GMT | The Quiet Productivity Killer Nobody Talks About (And a Weird Fix That Actually Works) | Michael Fauda | [Read More](https://medium.com/p/9ab0b6a57e12) |
 | Thu, 26 Feb 2026 06:52:00 GMT | What is VAPT? Guide to the Introductory Vulnerability Assessment and Penetration Testing. | Lorcam Securities | [Read More](https://medium.com/p/200e7170639d) |
 | Thu, 26 Feb 2026 06:51:00 GMT | Hacking agents seems easy, now what… | Owencorstens | [Read More](https://medium.com/p/916c33b60968) |
 | Thu, 26 Feb 2026 06:49:57 GMT | Hacker Jailbreaks Claude AI to Write Exploit Code and Steal Government Data | Gligits.ini | [Read More](https://medium.com/p/d1b3770f5736) |
@@ -91,26 +114,3 @@ When Coherence Feels Like Truth | Roger Gale | [Read More](https://medium.com/p/
 | Wed, 25 Feb 2026 23:20:15 GMT | The Invisible Fortress: Building a Banking-Grade Payment Infrastructure on AWS | Mateus | [Read More](https://medium.com/p/66d33376aaac) |
 | Wed, 25 Feb 2026 23:17:07 GMT | Navigating the Quantum Horizon: A Transition Framework for Financial Systems to PQC | Michael Myers | [Read More](https://medium.com/p/886c847dfeba) |
 | Wed, 25 Feb 2026 23:05:24 GMT | Financial Privacy Is Economic Security | Fortress Protocol | [Read More](https://medium.com/p/faa12d1d5365) |
-| Wed, 25 Feb 2026 23:05:19 GMT | Aider + OpenClaw: How Autonomous Exploit Generators Rewrite the Rules of Security Research | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/e26e9ff5d8fa) |
-| Wed, 25 Feb 2026 22:57:39 GMT | Security Monitoring For Small Teams Without A SOC | Geoffrey Wenger | [Read More](https://medium.com/p/540696920e18) |
-| Wed, 25 Feb 2026 22:57:39 GMT | SOC Analyst L1 Alert Triage: Step-by-Step Guide: | Muppalla Sai Prasanna | [Read More](https://medium.com/p/4b85e4987c0d) |
-| Wed, 25 Feb 2026 22:42:54 GMT | Home SOC Lab with Splunk: Log Analysis and Detection of Abnormal Logins and Brute Force Attacks | Kabir | [Read More](https://medium.com/p/42b8e5ca4985) |
-| Wed, 25 Feb 2026 22:35:25 GMT | Mengerjakan AoTR 2 — Operation Winter Blackout | Farizyuanda | [Read More](https://medium.com/p/b30d6c7434e8) |
-| Wed, 25 Feb 2026 22:30:05 GMT | What Actually Happens When You Type a URL Into Your Browser? | Jacob Ferguson | [Read More](https://medium.com/p/62dfeeeb0725) |
-| Wed, 25 Feb 2026 22:22:20 GMT | Mythic C2 Framework | Allen Ace | [Read More](https://medium.com/p/4248dcc0470e) |
-| Wed, 25 Feb 2026 22:14:40 GMT | CrowdStrike 2026 Global Threat Report | SOCFortress | [Read More](https://medium.com/p/7396c631c65d) |
-| Wed, 25 Feb 2026 22:05:24 GMT | 7 Days of Monitoring My Phone’s Network Activity: My Device Network Heatmap | Ace | [Read More](https://medium.com/p/f22a3a4eed4e) |
-| Wed, 25 Feb 2026 22:01:01 GMT | Unfiltered Restart — Day 12: Troubleshooting, Day 1 | Maximillian Rueda | [Read More](https://medium.com/p/7e347e82c756) |
-| Wed, 25 Feb 2026 22:00:13 GMT | How to install parrot os in vmware… | Mahim Avi | [Read More](https://medium.com/p/41f06f27c6b8) |
-| Wed, 25 Feb 2026 21:59:12 GMT | What Really Happens When Email Verification Can Be Bypassed? | Ann R. | [Read More](https://medium.com/p/ce13d5b97e53) |
-| Wed, 25 Feb 2026 21:49:59 GMT | Don’t Switch Targets, Here’s How Sticking to One Company Makes You a Better Bug Hunter | Sirat Sami (analyz3r) | [Read More](https://medium.com/p/496ad6229d3f) |
-| Wed, 25 Feb 2026 21:47:19 GMT | What Actually Happens During A Regulatory Cybersecurity Investigation | Jemima Nanret Mwana | [Read More](https://medium.com/p/5fb96c104fe9) |
-| Wed, 25 Feb 2026 21:36:15 GMT | Information Disclosure— PortSwigger Labs - Apprentice Levels | Aytac | [Read More](https://medium.com/p/740c29f42ee9) |
-| Wed, 25 Feb 2026 21:32:35 GMT | Building a Complete Cybersecurity Home Lab Using VMware | Razahamza | [Read More](https://medium.com/p/6a315df97a85) |
-| Wed, 25 Feb 2026 21:24:27 GMT | Why Dealership NPS Is Declining in 2026 and What Key Management Has to Do With It | Nicole | [Read More](https://medium.com/p/15b971dc3457) |
-| Wed, 25 Feb 2026 21:18:53 GMT | Preparing IT for the Future: How MCP and AI Agents Transform Infrastructure | Terzo HQ | [Read More](https://medium.com/p/8be476af53af) |
-| Wed, 25 Feb 2026 21:17:39 GMT | Mayday, Mayday! How Are We Supposed to Deal with All These AI-Generated Comments? | AIDA | [Read More](https://medium.com/p/4cda0e4d4cfb) |
-| Wed, 25 Feb 2026 21:04:12 GMT | My Late-Night Pizza Hunger Taught Me Networking! | Sanya joshy | [Read More](https://medium.com/p/6e4b2680d8cc) |
-| Wed, 25 Feb 2026 20:59:25 GMT | OpenClaw vs Local-First AI: A Different Approach to Autonomous Systems | jamie Folsom | [Read More](https://medium.com/p/16f2aeacc4bf) |
-| Wed, 25 Feb 2026 20:48:03 GMT | AI Agents Keep Getting Manipulated — And Your Security Stack Won’t Stop It | Suleiman Tawil | [Read More](https://medium.com/p/47a237ac7b35) |
-| Wed, 25 Feb 2026 20:45:02 GMT | VulnOSv2 | Rohithrrohi | [Read More](https://medium.com/p/fe3d6e81ec5e) |
