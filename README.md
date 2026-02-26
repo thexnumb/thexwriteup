@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Feb 2026 15:47:45 GMT | From Zero to Root: A Complete HackMyVM “yuan111” Walkthrough (LFI, SSH & Privilege Escalation) | SWALE | [Read More](https://medium.com/p/56b57bc82316) |
+| Thu, 26 Feb 2026 15:47:15 GMT | Certificate Based Tool Authorization for MCP Agents | David Culver | [Read More](https://medium.com/p/6d0c6a893a93) |
+| Thu, 26 Feb 2026 15:40:08 GMT | SLH Cybercrime Group Weaponizes Vishing to Bypass MFA and Compromise Enterprises | Shashank Mannar | [Read More](https://medium.com/p/73f004ea3bca) |
+| Thu, 26 Feb 2026 15:39:35 GMT | Internet of Things 01— LED Blink | Kenneth Moses Saragih | [Read More](https://medium.com/p/6cb229c9148e) |
+| Thu, 26 Feb 2026 15:35:17 GMT | Advanced Analysis of Proxies and Reverse Proxies in Network Security | Meravytes | [Read More](https://medium.com/p/1bccd5682162) |
+| Thu, 26 Feb 2026 15:34:11 GMT | মোবাইল হ্যাক হয়েছে কিনা বুঝবেন কিভাবে? ১০টি ভয়ংকর লক্ষণ ও সমাধান (২০২৬ গাইড) | Ekramul - Bangla Tech Zone | [Read More](https://medium.com/p/26a09f5a62c9) |
+| Thu, 26 Feb 2026 15:33:01 GMT | Russia’s Cyber Warfare Just Escalated — And Europe Isn’t Ready | Vivek Anand | [Read More](https://medium.com/p/0a68a521d399) |
+| Thu, 26 Feb 2026 15:32:49 GMT | Documentação Ritual — EVM++ Sidecars — Inferência de IA | Thomas Fiorio | [Read More](https://medium.com/p/792a89783d76) |
+| Thu, 26 Feb 2026 15:32:47 GMT | Account Takeover Is Not Just a Cyber Problem — It’s a Structural Economic One | Alex | [Read More](https://medium.com/p/6155d26e9b90) |
+| Thu, 26 Feb 2026 15:31:00 GMT | Tool Descriptions Are Part of Your Threat Model | Praxen | [Read More](https://medium.com/p/7675f7c5bd62) |
+| Thu, 26 Feb 2026 15:29:17 GMT | Intermediate Nmap- TryHackMe challenege Walkthrough | Kavusan Yesuraja | [Read More](https://medium.com/p/7c597c7fa14b) |
+| Thu, 26 Feb 2026 15:28:16 GMT | Documentação Ritual — EVM++ Sidecars | Thomas Fiorio | [Read More](https://medium.com/p/5efa9dd8e734) |
+| Thu, 26 Feb 2026 15:26:40 GMT | Top 10 Secure Alternatives to WhatsApp Business in 2026 | RealTyme | [Read More](https://medium.com/p/44f43f4527cd) |
+| Thu, 26 Feb 2026 15:26:28 GMT | Is Your Node.js App Sitting on a Dependency Time Bomb? Meet the NPM Vulnerability Scanner | Emily Rose | [Read More](https://medium.com/p/423e70ed00c9) |
+| Thu, 26 Feb 2026 15:26:12 GMT | Neighbour TryHackMe Writeup | Kavusan Yesuraja | [Read More](https://medium.com/p/67ac0eb1e509) |
+| Thu, 26 Feb 2026 15:23:18 GMT | Why Most Ethical Hackers Never Get Paid — And the Complete Bug Bounty Roadmap That Actually Changes… | R.H Rizvi | [Read More](https://medium.com/p/e9940396b777) |
+| Thu, 26 Feb 2026 15:23:09 GMT | From Zero to Paid Hunter: The Counter-Intuitive Bug Bounty Roadmap Nobody Talks About in 2026 | R.H Rizvi | [Read More](https://medium.com/p/04cb04bfbf1b) |
+| Thu, 26 Feb 2026 15:22:26 GMT | The Data Guardian: A GDPR Odyssey in the Age of Digital Shadows | Lalit kumar | [Read More](https://medium.com/p/c4c8a54693a3) |
+| Thu, 26 Feb 2026 15:16:41 GMT | How to Pass CEH v13 (Theory + Practical) on Your First Attempt — A 6-Month Study Plan That Actually… | Akash Madanu | [Read More](https://medium.com/p/75c84b053d81) |
+| Thu, 26 Feb 2026 15:15:53 GMT | Backend API Best Practices in Node.js (2026 Edition) | Samuel Ruiz | [Read More](https://medium.com/p/1bdf642b3fcd) |
+| Thu, 26 Feb 2026 15:15:22 GMT | The 72-Hour Race: Why Your Patch Hygiene is Your Biggest Risk in 2026 | IT_Engineer | [Read More](https://medium.com/p/8503def3f777) |
+| Thu, 26 Feb 2026 15:12:25 GMT | IT 03 - Windows Commands | Amrsmooke | [Read More](https://medium.com/p/fb50923629a3) |
+| Thu, 26 Feb 2026 14:52:16 GMT | Different Access Levels for Family and Executors: How to Organize Your Digital Estate Safely | Olivia Martillo | [Read More](https://medium.com/p/8b52ad494a64) |
 | Thu, 26 Feb 2026 14:33:14 GMT | How sinesync Works: Encrypted, Searchable Memory for AI Coding Tools | Michael Lipscombe | [Read More](https://medium.com/p/50b2c4127b36) |
 | Thu, 26 Feb 2026 14:31:00 GMT | What Cybersecurity Feels Like to Me in 2026 | Nitin yadav | [Read More](https://medium.com/p/ace426adfcec) |
 | Thu, 26 Feb 2026 14:21:23 GMT | Email Header & Metadata Investigation: A Beginner’s Guide Using PhishTool | Lohithchowdary | [Read More](https://medium.com/p/a5d1c6af7455) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Feb 2026 10:40:20 GMT | A LinkedIn for AI Agents? | Manuel Tress | [Read More](https://medium.com/p/22b36f79bfc6) |
 | Thu, 26 Feb 2026 10:36:15 GMT | How to Fix the Problem of App Crashes on Launch: Stabilizing Your Mobile OS | Talha Javed | [Read More](https://medium.com/p/4929ec60e2eb) |
 | Thu, 26 Feb 2026 10:33:41 GMT | Digital Deception and Disruption: Let's Trap some Hackers with Honeypots and Honeynets (MITRE… | Mahdi | [Read More](https://medium.com/p/61c0a8b223f7) |
-| Thu, 26 Feb 2026 10:31:46 GMT | PE Import Analyzer: A Practical Guide for Malware Analysts and Reverse Engineers | Andrey Pautov | [Read More](https://medium.com/p/29b8b98aeaf3) |
-| Thu, 26 Feb 2026 10:31:41 GMT | Episode 3 : What Is a PhD? And What’s the Difference Between a PhD and a Doctor? | VoiceVibes_101 | [Read More](https://medium.com/p/3db9b85a02d9) |
-| Thu, 26 Feb 2026 10:28:52 GMT | AAA Framework and CA In Simple Language | Mahdi | [Read More](https://medium.com/p/11cdb15a27d0) |
-| Thu, 26 Feb 2026 10:28:10 GMT | The 30-Day “Warm-up” Protocol: How to Safely Re-Enter the Platform After a Temporary Ban | William Scott | [Read More](https://medium.com/p/3237ea4ec556) |
-| Thu, 26 Feb 2026 10:25:00 GMT | The New Affordable Web Hosting Playbook for Builders, Bloggers, and Businesses | Mary Thomas | [Read More](https://medium.com/p/cb536d8f19ba) |
-| Thu, 26 Feb 2026 10:19:25 GMT | Understanding Static vs Dynamic Analysis in Mobile Application Penetration Testing | Penetolabspentest | [Read More](https://medium.com/p/1a3e5df806c8) |
-| Thu, 26 Feb 2026 10:19:17 GMT | The 44-Day Window: Leading Through the Collapse of Vulnerability Cycles | Damian Figiel | [Read More](https://medium.com/p/69318b88eddb) |
-| Thu, 26 Feb 2026 10:18:28 GMT | Why is Network Monitoring and Management important for businesses? | Skyviewtechnology | [Read More](https://medium.com/p/38d3d4b927f8) |
-| Thu, 26 Feb 2026 10:04:28 GMT | Stop Using Passwords: The Ultimate Guide to SSH Key Security | ServerMO | [Read More](https://medium.com/p/1777bce0c1fc) |
-| Thu, 26 Feb 2026 10:03:44 GMT | Search source-picoCTF | Vishvambhar ranoshe | [Read More](https://medium.com/p/1a0fa6264b4c) |
-| Thu, 26 Feb 2026 10:01:23 GMT | How Smart Home Security Systems Protect Your Home and Help You Save Money | Acfalarm | [Read More](https://medium.com/p/d5823934f902) |
-| Thu, 26 Feb 2026 09:58:21 GMT | Why crypto security needs a new model | HASHWallet | [Read More](https://medium.com/p/e22ca0c881c3) |
-| Thu, 26 Feb 2026 09:58:12 GMT | Lab: Stored XSS into anchor href attribute with double quotes HTML-encoded | mayhack | [Read More](https://medium.com/p/efc3fdd60da8) |
-| Thu, 26 Feb 2026 09:56:18 GMT | Qol’ah sholahuddin, Cairo Mesir | MUHAMMAD SUBHAN KHOIR SITORUS | [Read More](https://medium.com/p/1108a10cc7ed) |
-| Thu, 26 Feb 2026 09:55:44 GMT | How I Exploited a Race Condition to Bypass Subscription Limits | 0xGh4zy | [Read More](https://medium.com/p/8f7c37b8a572) |
-| Thu, 26 Feb 2026 09:55:34 GMT | From Market Turbulence to Personal Safety: What Kind of “Ultimate Shield” Does Crypto Security Need… | Digital Shield Offcial | [Read More](https://medium.com/p/120766e9adef) |
-| Thu, 26 Feb 2026 09:54:46 GMT | #64. Security As A Feature: Selling Safety To Non-Technical Buyers | Nicholas Idoko | [Read More](https://medium.com/p/7cb635a28652) |
-| Thu, 26 Feb 2026 09:47:26 GMT | Affordable CCTV Camera Installation in Gurgaon | Smartsafetyindia | [Read More](https://medium.com/p/3635847be1ef) |
-| Thu, 26 Feb 2026 09:45:41 GMT | Digital Shield Launches Twitter Space Event to Deeply Explore the Construction of a Seamless… | Digital Shield Offcial | [Read More](https://medium.com/p/32d99d1e9759) |
-| Thu, 26 Feb 2026 09:42:34 GMT | Data Breaches in India: Will the DPDP Act Change the Game? | Ankit rai | [Read More](https://medium.com/p/55f4f78cea4d) |
-| Thu, 26 Feb 2026 09:39:34 GMT | My Journey in DANTE HTB Pro Lab | caulk94 | [Read More](https://medium.com/p/5a3155bf294f) |
-| Thu, 26 Feb 2026 09:38:16 GMT | Artificial Intelligence Certification Course Holi Offer 2026 — Apply Now | cyber security Updates | [Read More](https://medium.com/p/6325f86a5678) |
-| Thu, 26 Feb 2026 09:23:37 GMT | Improper Session Invalidations: When Admin Privileges Linger | Mantosh Sah | [Read More](https://medium.com/p/f85a66ff22ad) |
