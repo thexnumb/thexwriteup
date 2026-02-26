@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Feb 2026 19:29:10 GMT | PostgreSQL Hardening Guide | SOCFortress | [Read More](https://medium.com/p/8b8554e22336) |
+| Thu, 26 Feb 2026 19:24:37 GMT | Anonymous — TryHackMe Writeup | Hemantha Krishna Challa | [Read More](https://medium.com/p/7727401d444e) |
+| Thu, 26 Feb 2026 19:20:01 GMT | Zero-Trust Agent Architecture: Practical Hardening Patterns for Autonomous Systems | John Matylonek | [Read More](https://medium.com/p/858267e7a0db) |
+| Thu, 26 Feb 2026 19:16:18 GMT | Week 2 Sherlock AoTR 1 : A Call from the Museum | Surya Agung Wicaksono | [Read More](https://medium.com/p/d7548f81ae66) |
 | Thu, 26 Feb 2026 19:08:08 GMT | A Day in the Life of a SOC Analyst Using Wazuh | Abdullah Al Siam | [Read More](https://medium.com/p/8c61df9db6f3) |
 | Thu, 26 Feb 2026 19:05:02 GMT | Keys to the Kingdom: A Guide to Digital Identity | Moez Ben-Azzouz | [Read More](https://medium.com/p/924622d6e9ac) |
 | Thu, 26 Feb 2026 19:02:01 GMT | Is 2026 a new era for Tech Industry? | Areej | [Read More](https://medium.com/p/7e0e6b0dc04f) |
@@ -109,7 +113,3 @@ Dictionary-Rainbow | Felciaharini | [Read More](https://medium.com/p/165c7ea885b
 | Thu, 26 Feb 2026 13:59:24 GMT | Siber Güvenlik ve CTF’ler İçin Linux Temelleri : Neden Linux? | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/beea0b465003) |
 | Thu, 26 Feb 2026 13:59:01 GMT | Damn Vulnerable Web Application (DVWA) Setup on Local machine | Mawira Victor | [Read More](https://medium.com/p/4d773a562a23) |
 | Thu, 26 Feb 2026 13:57:45 GMT | Breaking Into the SOC in 2026: The Certifications That Matter | Cyber Aries | [Read More](https://medium.com/p/6b169c7bf36a) |
-| Thu, 26 Feb 2026 13:52:45 GMT | My Life as a Digital Horse: | Rajeshsoni | [Read More](https://medium.com/p/9fa7e526c8f6) |
-| Thu, 26 Feb 2026 13:40:13 GMT | Day 7: When the Vulnerability Is Human, Phishing and Social Engineering Through a SOC Lens | Muhammad Kashif | [Read More](https://medium.com/p/7e07ec4c0067) |
-| Thu, 26 Feb 2026 13:39:43 GMT | The Breathackers Manifesto: A Letter from B Block | Abhinav Jain | [Read More](https://medium.com/p/a209ec23079e) |
-| Thu, 26 Feb 2026 13:38:05 GMT | BREAT-HACKERS: The Manifesto. The Rules. The Standard. | Abhinav Jain | [Read More](https://medium.com/p/931a3139e507) |
