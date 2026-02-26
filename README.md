@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Feb 2026 02:11:01 GMT | Learning Fortinet Firewall — LESSON 4: DHCP Server | Rouell Mamaril | [Read More](https://medium.com/p/f6fd2600b23a) |
+| Thu, 26 Feb 2026 01:56:30 GMT | Counterfeit Fluency
+When Coherence Feels Like Truth | Roger Gale | [Read More](https://medium.com/p/10ccad9016af) |
+| Thu, 26 Feb 2026 01:53:30 GMT | ‍♂️ Pulling Off the Heist: A Methodical HTB Takedown | Jabaribrown | [Read More](https://medium.com/p/c4829c144bb2) |
+| Thu, 26 Feb 2026 01:52:37 GMT | Mastering the New CRTA: A 6-Hour, 17-Flag Sprint Guide (2026 Update)
+​The Old Guard vs. | Yousef Kh. | [Read More](https://medium.com/p/da0eb381295f) |
+| Thu, 26 Feb 2026 01:40:41 GMT | AdversaryPilot + garak: How to Turn LLM Scan Results into a Next-Step Attack Strategy | Aviral Srivastava | [Read More](https://medium.com/p/c7644ae7c89d) |
+| Thu, 26 Feb 2026 01:25:29 GMT | The Ghost in the Machine: Securing the Next Frontier of AI Agents | Ajay Singh | [Read More](https://medium.com/p/cba76d3da5a7) |
+| Thu, 26 Feb 2026 01:23:15 GMT | HTB Sherlock — AoTR 1: A Call from the Museum | Tania | [Read More](https://medium.com/p/ca6124da4fd4) |
+| Thu, 26 Feb 2026 01:21:43 GMT | Why Most “Reliable” Hosting Providers Are Just Selling You Comfort | dbk.one | [Read More](https://medium.com/p/4e4b8d74a70b) |
+| Thu, 26 Feb 2026 01:19:48 GMT | The Bouncer of the Backend | Sushila Devi | [Read More](https://medium.com/p/ed2e76efa635) |
+| Thu, 26 Feb 2026 01:09:15 GMT | CompTIA Security+ (SY0–701): Conceitos gerais de segurança | Davi Loyola | [Read More](https://medium.com/p/3e916e499a67) |
+| Thu, 26 Feb 2026 01:05:08 GMT | Day 2 — Getting Started to Become a Master Hacker | Nakul | [Read More](https://medium.com/p/b1f3f80f0f95) |
+| Thu, 26 Feb 2026 00:55:14 GMT | Week 2 HTB-Sherlock AoTR 2: Operation Winter Blackout | Artha Bangkit Auliano | [Read More](https://medium.com/p/7c4ce08b3866) |
+| Thu, 26 Feb 2026 00:50:39 GMT | How to pass the SC-900 Microsoft Security, Compliance, and Identity Fundamentals | Laura Verghote | [Read More](https://medium.com/p/1e0c8f334218) |
+| Thu, 26 Feb 2026 00:49:54 GMT | Proving Grounds — Practice — Graph | Makoyi | [Read More](https://medium.com/p/00c67de7e694) |
+| Thu, 26 Feb 2026 00:47:58 GMT | From Shodan Recon to Multiple Security Flaws in the Same Program | Marwan Elshamy | [Read More](https://medium.com/p/2a3dd91d1457) |
+| Thu, 26 Feb 2026 00:22:28 GMT | 5 Million-Dollar Gaps in Cybersecurity No One Is Filling | J.C. James | [Read More](https://medium.com/p/94a965fb8fef) |
 | Wed, 25 Feb 2026 23:51:18 GMT | Intigriti Challenge 2026 — Stored XSS to Admin Flag | Pot4to | [Read More](https://medium.com/p/f90acc22ae03) |
 | Wed, 25 Feb 2026 23:45:19 GMT | AI Shocks the Cybersecurity Market | Matthew.Rosenquist | [Read More](https://medium.com/p/1c244e0b9605) |
 | Wed, 25 Feb 2026 23:42:13 GMT | Exposing the Hidden Dangers of IoT Bridge Attacks on Smart Home Devices | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/6c63ecbb93c4) |
@@ -96,19 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 25 Feb 2026 16:55:23 GMT | What is state sponsored hacker? | Kevin Ronex | [Read More](https://medium.com/p/23cfc68be563) |
 | Wed, 25 Feb 2026 16:51:55 GMT | Best Garmin for CrossFit and Running — Top 5 Reviewed | Narjis Arshad | [Read More](https://medium.com/p/177b2781d8da) |
 | Wed, 25 Feb 2026 16:51:01 GMT | I Audited OpenClaw’s Code to See How It Remembers — And Whether I Should Trust It With My Machine | Elliott Girard | [Read More](https://medium.com/p/81857703eb2d) |
-| Wed, 25 Feb 2026 16:50:26 GMT | Enterprise-Scale Google Ads API Access: A Governance-First Architecture for Secure Multi-Project… | Kunal G | [Read More](https://medium.com/p/060bda12e9e2) |
-| Wed, 25 Feb 2026 16:45:10 GMT | Your Phone Number: The Silent Spy on Your Life | Anaselmendili | [Read More](https://medium.com/p/e48245c9ca78) |
-| Wed, 25 Feb 2026 16:41:50 GMT | When AI tools start replacing security teams, who wins? | Truong (Jack) Luu | [Read More](https://medium.com/p/e7466cf48cb0) |
-| Wed, 25 Feb 2026 16:36:00 GMT | It’s honestly difficult to stay focused online. | Divine Egyabeng | [Read More](https://medium.com/p/6e587ee18d35) |
-| Wed, 25 Feb 2026 16:28:35 GMT | VPNLY has been giving me grief, clear the cache! | Ascend IT Services | [Read More](https://medium.com/p/c4d5c901e6f1) |
-| Wed, 25 Feb 2026 16:26:01 GMT | Tales from Hobin: The M&S hacks of 2025 | Hobin Rood | [Read More](https://medium.com/p/e81ab5e70965) |
-| Wed, 25 Feb 2026 16:25:47 GMT | Journey of my life | Nakul | [Read More](https://medium.com/p/34cd771f5ac8) |
-| Wed, 25 Feb 2026 16:22:10 GMT | What is an authentication vulnerability? | BinaryShield | [Read More](https://medium.com/p/863d0edc58d0) |
-| Wed, 25 Feb 2026 16:17:34 GMT | Beauty / Borrowed Light | Alizabeth Amelia Rose | [Read More](https://medium.com/p/d494eae2cb7b) |
-| Wed, 25 Feb 2026 16:16:24 GMT | Choosing the Right Business Security System | AlexBryn | [Read More](https://medium.com/p/f61d4db98f88) |
-| Wed, 25 Feb 2026 16:15:08 GMT | Issue #3: Meet the Hackers Trying to Ruin Your Day — Cybercriminals & Nation-States | Eric Gallagher | [Read More](https://medium.com/p/4a30a6eca106) |
-| Wed, 25 Feb 2026 16:13:44 GMT | Shodan-Cat:Maximizing Shodan Data Extraction Without API Credits | Мартин. | [Read More](https://medium.com/p/76bdc9dfef9e) |
-| Wed, 25 Feb 2026 16:12:47 GMT | CRTA Certification Journey: Stepping Into Red Teaming | Rakesh Elamaran | [Read More](https://medium.com/p/33da9198b043) |
-| Wed, 25 Feb 2026 16:09:30 GMT | IDORs Explained: How One Number Can Hack an Entire Company | Krishna Kumar | [Read More](https://medium.com/p/8872fef31c2d) |
-| Wed, 25 Feb 2026 16:06:03 GMT | Data Sovereignty Laws Around The World | Robert Broeckelmann | [Read More](https://medium.com/p/22b3a2dbc2ad) |
-| Wed, 25 Feb 2026 16:01:07 GMT | Beyond the Click: Why Your MFA is Failing and the Rise of the Session Hijackers | Ehulse | [Read More](https://medium.com/p/143c7af12dca) |
