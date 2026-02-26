@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Feb 2026 09:06:23 GMT | Day 8 — The Image That Wasn’t an Image (Stored XSS via File Upload) | Issan | [Read More](https://medium.com/p/3bedd377a502) |
+| Thu, 26 Feb 2026 09:03:34 GMT | The End of Passwords: A Technical Deep Dive into Passkeys | Archana Shukla | [Read More](https://medium.com/p/81ab5bb50e81) |
+| Thu, 26 Feb 2026 09:01:00 GMT | 5 Signs Your Credentials Were Stolen This Week, Not Last Year | Alexandre Vandamme | [Read More](https://medium.com/p/cb671edabbdc) |
+| Thu, 26 Feb 2026 08:59:52 GMT | $1,500 PII Leak via GraphQL Field-Level Permission Bypass | tinopreter | [Read More](https://medium.com/p/1e7ea2d1a019) |
+| Thu, 26 Feb 2026 08:59:15 GMT | FortiGate Addresses | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/5bce1d141d11) |
+| Thu, 26 Feb 2026 08:59:00 GMT | Network Segmentation with FortiGate: Creating and Routing Between Departments | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/ba20ebe469eb) |
+| Thu, 26 Feb 2026 08:55:40 GMT | I Am 30 And Disappointed To My Family | Positive Thinker | [Read More](https://medium.com/p/261d83492aa2) |
+| Thu, 26 Feb 2026 08:53:16 GMT | What Is Blockchain Privacy? How Privacy Payments Work on Blockchains? | BenFen | [Read More](https://medium.com/p/c3d572f518a0) |
+| Thu, 26 Feb 2026 08:46:42 GMT | When a Link Becomes JavaScript (Stored XSS via javascript: URL) | Issan | [Read More](https://medium.com/p/f0490479e428) |
+| Thu, 26 Feb 2026 08:43:45 GMT | The Hidden Job Explosion AI Is Quietly Creating | Vijay Kumar Gupta | [Read More](https://medium.com/p/f01128185357) |
+| Thu, 26 Feb 2026 08:22:24 GMT | 不再把 Encode 當加密：前端工程師必懂的 JWT 與認證架構指南 | Rita 依依 | [Read More](https://medium.com/p/09765ba2a102) |
+| Thu, 26 Feb 2026 08:16:42 GMT | Why Some Hackers Choose the Dark Path When They Could Get Paid Legitimately | Travis Ray Caverhill | [Read More](https://medium.com/p/ce7d60f57997) |
+| Thu, 26 Feb 2026 08:10:55 GMT | Cisco SD-WAN Zero-Day CVE-2026–20127 Actively Exploited Since 2023: What Security Teams Must Know… | Germano Costi | [Read More](https://medium.com/p/e5b7dd7f4580) |
+| Thu, 26 Feb 2026 08:01:08 GMT | OpenClaw and the 2026 AI Agent Security Crisis: When “Autonomous Productivity” Turns Into… | Germano Costi | [Read More](https://medium.com/p/dd1a88fbe620) |
 | Thu, 26 Feb 2026 07:57:18 GMT | The Complete List of Virtual Doorman Responsibilities & Duties | Doris William | [Read More](https://medium.com/p/6792031cf683) |
 | Thu, 26 Feb 2026 07:56:38 GMT | How Real‑Time AI Alerts Improve Industrial Incident Response | Spotem | [Read More](https://medium.com/p/976d0f9de56d) |
 | Thu, 26 Feb 2026 07:49:45 GMT | Agentic AI Diploma | Umairtariq | [Read More](https://medium.com/p/bb3c07a58809) |
@@ -100,17 +114,3 @@ When Coherence Feels Like Truth | Roger Gale | [Read More](https://medium.com/p/
 | Thu, 26 Feb 2026 00:55:14 GMT | Week 2 HTB-Sherlock AoTR 2: Operation Winter Blackout | Artha Bangkit Auliano | [Read More](https://medium.com/p/7c4ce08b3866) |
 | Thu, 26 Feb 2026 00:50:39 GMT | How to pass the SC-900 Microsoft Security, Compliance, and Identity Fundamentals | Laura Verghote | [Read More](https://medium.com/p/1e0c8f334218) |
 | Thu, 26 Feb 2026 00:49:54 GMT | Proving Grounds — Practice — Graph | Makoyi | [Read More](https://medium.com/p/00c67de7e694) |
-| Thu, 26 Feb 2026 00:47:58 GMT | From Shodan Recon to Multiple Security Flaws in the Same Program | Marwan Elshamy | [Read More](https://medium.com/p/2a3dd91d1457) |
-| Thu, 26 Feb 2026 00:22:28 GMT | 5 Million-Dollar Gaps in Cybersecurity No One Is Filling | J.C. James | [Read More](https://medium.com/p/94a965fb8fef) |
-| Wed, 25 Feb 2026 23:51:18 GMT | Intigriti Challenge 2026 — Stored XSS to Admin Flag | Pot4to | [Read More](https://medium.com/p/f90acc22ae03) |
-| Wed, 25 Feb 2026 23:45:19 GMT | AI Shocks the Cybersecurity Market | Matthew.Rosenquist | [Read More](https://medium.com/p/1c244e0b9605) |
-| Wed, 25 Feb 2026 23:42:13 GMT | Exposing the Hidden Dangers of IoT Bridge Attacks on Smart Home Devices | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/6c63ecbb93c4) |
-| Wed, 25 Feb 2026 23:36:28 GMT | “Run This Repo, Let’s Go Through Figma” — How a Web3 “Platform” Tried to Own My Machine | Stanislav Obrazcoff | [Read More](https://medium.com/p/c0f6e9a4dd23) |
-| Wed, 25 Feb 2026 23:35:34 GMT | I Pointed my Reasoning Engine at Platform Decay. It Found a Hidden Mechanism | Daniel Straughair | [Read More](https://medium.com/p/01b9d5cb8ede) |
-| Wed, 25 Feb 2026 23:34:04 GMT | 2026: İnsan Ölçeğindeki Savunmanın Sonu ve “Otonom” Çağın Başlangıcı | serhat | [Read More](https://medium.com/p/1a43bec5f023) |
-| Wed, 25 Feb 2026 23:29:47 GMT | How to Use OnionShare for Secure File Sharing | Immergrow | [Read More](https://medium.com/p/8d5b7e7bb4d2) |
-| Wed, 25 Feb 2026 23:27:42 GMT | Cisco Cybersecurity Module 1 (Part 3): Exploits, Security Breaches, and Their Impact | Favour Ugochi Ogbonnaya | [Read More](https://medium.com/p/7a946f4ace89) |
-| Wed, 25 Feb 2026 23:25:59 GMT | Precision Over Volume: Why Structure Is the New Competitive Advantage in Federal Contracting | FEDERAL BID PARTNERS LLC | [Read More](https://medium.com/p/f0d73d043595) |
-| Wed, 25 Feb 2026 23:20:15 GMT | The Invisible Fortress: Building a Banking-Grade Payment Infrastructure on AWS | Mateus | [Read More](https://medium.com/p/66d33376aaac) |
-| Wed, 25 Feb 2026 23:17:07 GMT | Navigating the Quantum Horizon: A Transition Framework for Financial Systems to PQC | Michael Myers | [Read More](https://medium.com/p/886c847dfeba) |
-| Wed, 25 Feb 2026 23:05:24 GMT | Financial Privacy Is Economic Security | Fortress Protocol | [Read More](https://medium.com/p/faa12d1d5365) |
