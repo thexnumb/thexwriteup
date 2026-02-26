@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Feb 2026 16:53:09 GMT | Wifies Lover #2 CTF Writeup — BitSkrieg CTF 2026 | Shoaib Bin Rashid | [Read More](https://medium.com/p/33b37d1fa456) |
+| Thu, 26 Feb 2026 16:50:56 GMT | Penetration Testing Report for ClientWriting | Mujahid Hasan | [Read More](https://medium.com/p/11214ce82768) |
+| Thu, 26 Feb 2026 16:50:49 GMT | Your Fingerprint is a Security Nightmare, and You Can’t Change It | Numan Nadeem | [Read More](https://medium.com/p/8278de8e53cb) |
+| Thu, 26 Feb 2026 16:48:51 GMT | Reverse Shell Cheat Sheet (OSCP & CPTS Exam) | cyber_public_school | [Read More](https://medium.com/p/4becb1fcc2eb) |
+| Thu, 26 Feb 2026 16:44:42 GMT | Issue #5: IT vs. OT — A Tale of Two Realities | Nitin Raje | [Read More](https://medium.com/p/20915126c15d) |
+| Thu, 26 Feb 2026 16:42:28 GMT | One Hacker, One Laptop, and $1.4 Billion in Damage: AI Just Rewrote the Rules of Cybercrime | AMO Publications | [Read More](https://medium.com/p/76d24a832832) |
+| Thu, 26 Feb 2026 16:38:25 GMT | Shift Left… All the Way? Testing a Security Scanner That Lives in Your IDE | Ian Zammit | [Read More](https://medium.com/p/7c544f5c84b0) |
+| Thu, 26 Feb 2026 16:37:28 GMT | Identity is the New Perimeter: | Virus Vanguard | [Read More](https://medium.com/p/b7c7a0d3177f) |
+| Thu, 26 Feb 2026 16:35:21 GMT | The CISO Advantage: Eliminating the Security vs Productivity Trade-Off | Dr. Shashi Karhail | [Read More](https://medium.com/p/8aff9b68de07) |
+| Thu, 26 Feb 2026 16:35:04 GMT | This is How to Solve AoTR 1 on HackTheBox | Ammarnabil | [Read More](https://medium.com/p/5acf3f6e1f43) |
+| Thu, 26 Feb 2026 16:32:27 GMT | What is OAuth vulnerability? | BinaryShield | [Read More](https://medium.com/p/40de5524ae63) |
+| Thu, 26 Feb 2026 16:32:24 GMT | What Hackers Talk About at 2 AM: Using Dark Web Forums for Recon ️ | Iski | [Read More](https://medium.com/p/bdbff44bdea5) |
+| Thu, 26 Feb 2026 16:31:55 GMT | What is SSRF (server-side request forgery)? | BinaryShield | [Read More](https://medium.com/p/e5b64018662c) |
+| Thu, 26 Feb 2026 16:29:00 GMT | HTB — Soulmate(Linux) | 6cloudguy | [Read More](https://medium.com/p/796e854e097b) |
+| Thu, 26 Feb 2026 16:18:29 GMT | A Safe Way to Store Documents + Credentials + Instructions in One Place | InheritSafe | [Read More](https://medium.com/p/67abb8bf9eeb) |
+| Thu, 26 Feb 2026 16:14:12 GMT | Between White Walls and Quiet Bells | Antarayaami Bodhicitta | [Read More](https://medium.com/p/485571d8cfe6) |
+| Thu, 26 Feb 2026 16:03:16 GMT | The Perfect Digital Storm: Why the WEF Ranks Cybersecurity as India’s #1 Risk in 2026 | Sohan Kanna | [Read More](https://medium.com/p/e61c5350861b) |
+| Thu, 26 Feb 2026 16:03:03 GMT | The 5 Low-Hanging Bugs You Should Never Skip | Md Tanjimul Islam Sifat | [Read More](https://medium.com/p/44ea84c4f9ee) |
+| Thu, 26 Feb 2026 15:59:25 GMT | What is the difference between IDOR and Privilege Escalation? | Aditya Mohanty | [Read More](https://medium.com/p/52695fd32a58) |
+| Thu, 26 Feb 2026 15:52:37 GMT | mTLS: The Cryptographic Passport System Your Devices Already Use (with a Go Demo) | Rajesh Pachaikani | [Read More](https://medium.com/p/3501fd5ad821) |
 | Thu, 26 Feb 2026 15:47:45 GMT | From Zero to Root: A Complete HackMyVM “yuan111” Walkthrough (LFI, SSH & Privilege Escalation) | SWALE | [Read More](https://medium.com/p/56b57bc82316) |
 | Thu, 26 Feb 2026 15:47:15 GMT | Certificate Based Tool Authorization for MCP Agents | David Culver | [Read More](https://medium.com/p/6d0c6a893a93) |
 | Thu, 26 Feb 2026 15:40:08 GMT | SLH Cybercrime Group Weaponizes Vishing to Bypass MFA and Compromise Enterprises | Shashank Mannar | [Read More](https://medium.com/p/73f004ea3bca) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Feb 2026 11:37:37 GMT | LLM Governance, Security, and Policy Enforcement in 2026 , From Principles to Production Controls | Sasipreetham | [Read More](https://medium.com/p/d6ea4ff096e8) |
 | Thu, 26 Feb 2026 11:36:30 GMT | I’m trying to solve a CTF challenge about finding flags in the server response. | Billy Elvonda Aron Umpel | [Read More](https://medium.com/p/1d0d88cb8f14) |
 | Thu, 26 Feb 2026 11:34:30 GMT | # “AI İnsanları Əvəz Edəcəkmi? | cybershieldy.com | [Read More](https://medium.com/p/ce98b8a5b2ea) |
-| Thu, 26 Feb 2026 11:27:25 GMT | Sosyal Mühendisliği ve Psikolojiyi Anlamak | Hakan ÇEVİK | [Read More](https://medium.com/p/f07a6b02d28c) |
-| Thu, 26 Feb 2026 11:24:43 GMT | User-Controlled External Link Injection in Generated PDF | Abdelrahman Maged | [Read More](https://medium.com/p/3ba186bda72b) |
-| Thu, 26 Feb 2026 11:22:31 GMT | How Access Control Systems Are Transforming Security in Apartment Complexes | Discreet solution Pvt ltd | [Read More](https://medium.com/p/db021449ae28) |
-| Thu, 26 Feb 2026 11:22:08 GMT | 7 Bulletproof Secure AI Pentesting Workflows | Pentest_Testing_Corp | [Read More](https://medium.com/p/919ad80ea936) |
-| Thu, 26 Feb 2026 11:21:53 GMT | Ağ Yönetiminde Otomasyon ve Güvenlik: VTP & DTP’yi Ne Kadar Tanıyoruz? | Tolga Solmaz | [Read More](https://medium.com/p/d71ae3222985) |
-| Thu, 26 Feb 2026 11:21:15 GMT | Free DNS Mastery Without Expensive Courses | Tarun Telang | [Read More](https://medium.com/p/7f25c6a51b47) |
-| Thu, 26 Feb 2026 11:19:10 GMT | When Shared Stops Working: A Practical Guide to Your Next Hosting Move | Ann Taylor | [Read More](https://medium.com/p/083db6b762ca) |
-| Thu, 26 Feb 2026 11:13:09 GMT | Best 15 Paid and Free VAPT Tools | networsys | [Read More](https://medium.com/p/4080c414e4a0) |
-| Thu, 26 Feb 2026 11:10:51 GMT | Betrayed at My Most Vulnerable Moment | Sharedmessage | [Read More](https://medium.com/p/aef2093cd8a0) |
-| Thu, 26 Feb 2026 11:06:53 GMT | Predictability as a Service: Why Founders Prioritize Risk Control Over Engineering Capacity | Wamisoftware | [Read More](https://medium.com/p/987cafeeac5c) |
-| Thu, 26 Feb 2026 11:00:28 GMT | From Code to Context: How Building Data Tools at Factly Changed my Understanding of Public… | Hussain Ummadi | [Read More](https://medium.com/p/82448772fad3) |
-| Thu, 26 Feb 2026 10:59:48 GMT | Building an Enterprise-Style Azure Hub-and-Spoke Security Architecture (AZ-500 Lab) | Amal Udayanga Basnayake | [Read More](https://medium.com/p/8b2eaec687ca) |
-| Thu, 26 Feb 2026 10:56:53 GMT | WAF Bypass and JavaScript Incomplete Handling of Unicode Characters Leading to DOM-XSS | Sushil Chaudhary | [Read More](https://medium.com/p/33e4aea1346e) |
-| Thu, 26 Feb 2026 10:56:14 GMT | Widget Tata Letak | Zurichsabil | [Read More](https://medium.com/p/8ea2b646fc3a) |
-| Thu, 26 Feb 2026 10:47:44 GMT | France’s Visio Migration Transfers Risk, It Does Not Eliminate It | Kaynat Muzaffar | [Read More](https://medium.com/p/607531240f22) |
-| Thu, 26 Feb 2026 10:45:10 GMT | The Upgrade: Out With The Old, In With The New | Jeremy McKinzie | [Read More](https://medium.com/p/d9d413877a43) |
-| Thu, 26 Feb 2026 10:43:55 GMT | Top 5 IT Skills That Will Make You Rich in 2026 | CodeZen | [Read More](https://medium.com/p/04deda12225d) |
-| Thu, 26 Feb 2026 10:40:20 GMT | A LinkedIn for AI Agents? | Manuel Tress | [Read More](https://medium.com/p/22b36f79bfc6) |
-| Thu, 26 Feb 2026 10:36:15 GMT | How to Fix the Problem of App Crashes on Launch: Stabilizing Your Mobile OS | Talha Javed | [Read More](https://medium.com/p/4929ec60e2eb) |
-| Thu, 26 Feb 2026 10:33:41 GMT | Digital Deception and Disruption: Let's Trap some Hackers with Honeypots and Honeynets (MITRE… | Mahdi | [Read More](https://medium.com/p/61c0a8b223f7) |
