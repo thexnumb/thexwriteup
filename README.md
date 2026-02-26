@@ -12,8 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Feb 2026 22:26:43 GMT | Starting a new chapter at HIMSS | Karolina Tądel | [Read More](https://medium.com/p/0b430dd06dfc) |
+| Thu, 26 Feb 2026 22:21:12 GMT | Common Cybersecurity Threats for Small Businesses in 2026: How to Stay Protected | Tent Of Tech | [Read More](https://medium.com/p/472f5254804b) |
+| Thu, 26 Feb 2026 22:17:28 GMT | THIS TINY DEVICE HELPED ME HACK MY UNI’S NETWORK | Trish | [Read More](https://medium.com/p/ab9a5294cfee) |
+| Thu, 26 Feb 2026 22:11:15 GMT | A New Milestone in Network Security: Developing an Integrated Event Collection, Analysis, and… | Hasan Serdar | [Read More](https://medium.com/p/6ae0d0e9a49f) |
+| Thu, 26 Feb 2026 22:01:00 GMT | Unfiltered Restart — Day 13: Troubleshooting, Day 2 | Maximillian Rueda | [Read More](https://medium.com/p/8b7c0fc6b761) |
+| Thu, 26 Feb 2026 21:55:30 GMT | Tesla Joins as Official Sponsor of the #SDNetworkingEvents Tech Summit | M.L. Ruscscak | [Read More](https://medium.com/p/3175784647fc) |
 | Thu, 26 Feb 2026 21:52:25 GMT | Your LLM Probably Just Hallucinated a URL. Nobody Checked. | Raviteja Nekkalapu | [Read More](https://medium.com/p/b40d3e050433) |
 | Thu, 26 Feb 2026 21:50:19 GMT | How Attackers Bypass AI Moderation: Techniques Used to Defeat AI Safety Filters | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/d36bf318c8fe) |
+| Thu, 26 Feb 2026 21:48:19 GMT | Compile-Time XOR String Encryption | S12 - 0x12Dark Development | [Read More](https://medium.com/p/9e4b74de5539) |
 | Thu, 26 Feb 2026 21:43:22 GMT | Beware of Malicious “Interview Tasks” on LinkedIn: How Scammers Distribute Harmful Code | Alexander Scherbatyuk | [Read More](https://medium.com/p/8050a02b2df3) |
 | Thu, 26 Feb 2026 21:42:11 GMT | TryHackMe - Offensive Security Intro - WriteUp | Axoloth | [Read More](https://medium.com/p/462136bcbfb8) |
 | Thu, 26 Feb 2026 21:37:10 GMT | Hidden in Plain Sight: How Attackers Weaponize Alternate Data Streams to Hide Malware | Dean | [Read More](https://medium.com/p/f7090f6c5480) |
@@ -106,10 +113,3 @@ Dictionary-Rainbow | Felciaharini | [Read More](https://medium.com/p/165c7ea885b
 | Thu, 26 Feb 2026 16:31:55 GMT | What is SSRF (server-side request forgery)? | BinaryShield | [Read More](https://medium.com/p/e5b64018662c) |
 | Thu, 26 Feb 2026 16:29:00 GMT | HTB — Soulmate(Linux) | 6cloudguy | [Read More](https://medium.com/p/796e854e097b) |
 | Thu, 26 Feb 2026 16:18:29 GMT | A Safe Way to Store Documents + Credentials + Instructions in One Place | InheritSafe | [Read More](https://medium.com/p/67abb8bf9eeb) |
-| Thu, 26 Feb 2026 16:14:12 GMT | Between White Walls and Quiet Bells | Antarayaami Bodhicitta | [Read More](https://medium.com/p/485571d8cfe6) |
-| Thu, 26 Feb 2026 16:03:16 GMT | The Perfect Digital Storm: Why the WEF Ranks Cybersecurity as India’s #1 Risk in 2026 | Sohan Kanna | [Read More](https://medium.com/p/e61c5350861b) |
-| Thu, 26 Feb 2026 16:03:03 GMT | The 5 Low-Hanging Bugs You Should Never Skip | Md Tanjimul Islam Sifat | [Read More](https://medium.com/p/44ea84c4f9ee) |
-| Thu, 26 Feb 2026 15:59:25 GMT | What is the difference between IDOR and Privilege Escalation? | Aditya Mohanty | [Read More](https://medium.com/p/52695fd32a58) |
-| Thu, 26 Feb 2026 15:52:37 GMT | mTLS: The Cryptographic Passport System Your Devices Already Use (with a Go Demo) | Rajesh Pachaikani | [Read More](https://medium.com/p/3501fd5ad821) |
-| Thu, 26 Feb 2026 15:47:45 GMT | From Zero to Root: A Complete HackMyVM “yuan111” Walkthrough (LFI, SSH & Privilege Escalation) | SWALE | [Read More](https://medium.com/p/56b57bc82316) |
-| Thu, 26 Feb 2026 15:47:15 GMT | Certificate Based Tool Authorization for MCP Agents | David Culver | [Read More](https://medium.com/p/6d0c6a893a93) |
