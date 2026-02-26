@@ -12,7 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Feb 2026 06:54:21 GMT | Trust & Safety Infrastructure: What Every Platform Needs in 2026 | Manoj Biswal | [Read More](https://medium.com/p/d5c8b8646998) |
+| Thu, 26 Feb 2026 06:52:00 GMT | What is VAPT? Guide to the Introductory Vulnerability Assessment and Penetration Testing. | Lorcam Securities | [Read More](https://medium.com/p/200e7170639d) |
+| Thu, 26 Feb 2026 06:51:00 GMT | Hacking agents seems easy, now what… | Owencorstens | [Read More](https://medium.com/p/916c33b60968) |
+| Thu, 26 Feb 2026 06:49:57 GMT | Hacker Jailbreaks Claude AI to Write Exploit Code and Steal Government Data | Gligits.ini | [Read More](https://medium.com/p/d1b3770f5736) |
+| Thu, 26 Feb 2026 06:44:47 GMT | The Claude Code Effect: Why AI-Driven Development Demands Smarter Product Security | Chandan Bhattacharya | [Read More](https://medium.com/p/8ac47fec1a95) |
+| Thu, 26 Feb 2026 06:38:12 GMT | Why Enterprises Look for Certified Archiving | Karkavel M Jegadeesan | [Read More](https://medium.com/p/b4001f7fce00) |
+| Thu, 26 Feb 2026 06:31:59 GMT | Copypasta writeup (BAC) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/376b901623f4) |
+| Thu, 26 Feb 2026 06:30:28 GMT | Why Indian Companies Must Prioritize Penetration Testing in 2026 | Qualysec Technologies | [Read More](https://medium.com/p/1400b11dd4e4) |
+| Thu, 26 Feb 2026 06:29:18 GMT | Understanding VAPT: A Comprehensive Guide to Vulnerability Assessment and Penetration Testing | QualysecEurope | [Read More](https://medium.com/p/5d7f4223ec7e) |
+| Thu, 26 Feb 2026 06:27:04 GMT | A Practical Guide to String Analyzer: Extract and Analyze Strings from Binaries (Without the… | Andrey Pautov | [Read More](https://medium.com/p/875dc74e4868) |
+| Thu, 26 Feb 2026 06:23:36 GMT | Anatomy of a Build Tool Vulnerability: Auditing Nubank’s Vessel | Levp | [Read More](https://medium.com/p/dd824a73f99d) |
+| Thu, 26 Feb 2026 06:12:23 GMT | D6/60: Protecting the digital world we live in | Chima A M | [Read More](https://medium.com/p/32b0db632567) |
+| Thu, 26 Feb 2026 06:11:01 GMT | Watch Over Your Property From Anywhere: The Benefits of Remote Video Surveillance Services for… | Simple Security Solutions | [Read More](https://medium.com/p/589fc84166e7) |
+| Thu, 26 Feb 2026 06:10:41 GMT | Best Cyber Security Training in Kuwait to Enroll in 2026 | Edoxi kuwait | [Read More](https://medium.com/p/79df045935b6) |
+| Thu, 26 Feb 2026 05:53:00 GMT | The Great Virtualization Exodus: Why Enterprises Are Ditching the “Big Fish” for Proxmox | Amila kothalawala | [Read More](https://medium.com/p/afb73343e448) |
+| Thu, 26 Feb 2026 05:48:54 GMT | Why SMEs fail their first audit. It’s not the tech, it’s the missing policies | Gaurav Shukla | [Read More](https://medium.com/p/d010d935f2fe) |
+| Thu, 26 Feb 2026 05:47:24 GMT | Red Teaming Nation-State Cyber Warfare: Simulating Cyber War Scenarios | Cynox Security LLP. | [Read More](https://medium.com/p/308ea6c2a24c) |
+| Thu, 26 Feb 2026 05:45:42 GMT | IT Asset Management Best Practices for Maximizing ROI | Emergys | [Read More](https://medium.com/p/63dcf3c40f91) |
 | Thu, 26 Feb 2026 05:35:20 GMT | Google Cloud Perimeter Strategy | Or Abudi | [Read More](https://medium.com/p/742d073bbedf) |
+| Thu, 26 Feb 2026 05:33:40 GMT | Indonesia’s Involvement on Board of Peace | Mierza Barvezian | [Read More](https://medium.com/p/0b01ad815eed) |
 | Thu, 26 Feb 2026 05:31:59 GMT | Kisah OpenClaw | D. Husni Fahri Rizal | [Read More](https://medium.com/p/c00c1870d393) |
 | Thu, 26 Feb 2026 05:30:11 GMT | Getting Login on Troll (VulnHub) — A Beginner-Friendly Kali Linux Walkthrough | Kola. Yeswanth | [Read More](https://medium.com/p/bf74e3f2d369) |
 | Thu, 26 Feb 2026 05:20:59 GMT | Building a Defensible Moat as an AI-Native Creator | AI With Timothy | [Read More](https://medium.com/p/e147fb688cc3) |
@@ -95,22 +114,3 @@ When Coherence Feels Like Truth | Roger Gale | [Read More](https://medium.com/p/
 | Wed, 25 Feb 2026 20:59:25 GMT | OpenClaw vs Local-First AI: A Different Approach to Autonomous Systems | jamie Folsom | [Read More](https://medium.com/p/16f2aeacc4bf) |
 | Wed, 25 Feb 2026 20:48:03 GMT | AI Agents Keep Getting Manipulated — And Your Security Stack Won’t Stop It | Suleiman Tawil | [Read More](https://medium.com/p/47a237ac7b35) |
 | Wed, 25 Feb 2026 20:45:02 GMT | VulnOSv2 | Rohithrrohi | [Read More](https://medium.com/p/fe3d6e81ec5e) |
-| Wed, 25 Feb 2026 20:31:43 GMT | How Hackers Really Think — And Why Many Companies Misunderstand Their Approach | Cordula Boeck | [Read More](https://medium.com/p/e807cd02772a) |
-| Wed, 25 Feb 2026 20:28:29 GMT | VIBE101: Vibe Coding’den Vibe Security’e | Nisa Çayır | [Read More](https://medium.com/p/859ed87bba4f) |
-| Wed, 25 Feb 2026 20:22:58 GMT | What Is A Subdomain And How To Perform Subdomain Enumaration? | Kutay Söker | [Read More](https://medium.com/p/2a9ce4d64d4f) |
-| Wed, 25 Feb 2026 20:16:24 GMT | Lab: Reflected XSS into Attribute with Angle Brackets HTML-Encoded | mayhack | [Read More](https://medium.com/p/e042b6c6d596) |
-| Wed, 25 Feb 2026 20:14:24 GMT | When ‘Big No’ Becomes Your Turning Point | Dewi Mutiara Nurani | [Read More](https://medium.com/p/5eadf72728a1) |
-| Wed, 25 Feb 2026 20:02:56 GMT | Who Did That? Solving AI Agent Provenance in Agentic Systems | Felipe Olivera | [Read More](https://medium.com/p/c27ed3ed3b9a) |
-| Wed, 25 Feb 2026 20:00:43 GMT | Feb 25, 2026 Was a Stress Test for the AI Boom | Jesus Perez Mojica (Mr. Hotfix) | [Read More](https://medium.com/p/831b66e7037d) |
-| Wed, 25 Feb 2026 19:53:00 GMT | AI’s Future — Bible’s Predictions: Humanity’s Destination | - The Dribbler - | [Read More](https://medium.com/p/78e1dc2ff5b0) |
-| Wed, 25 Feb 2026 19:48:58 GMT | TryHackMe - Defensive Security Intro - WriteUp | Axoloth | [Read More](https://medium.com/p/df0eba43bddc) |
-| Wed, 25 Feb 2026 19:38:17 GMT | “Your Cloud Isn’t Secure. It’s Just Unscanned.” | HackTrace | [Read More](https://medium.com/p/f37ca7156a94) |
-| Wed, 25 Feb 2026 19:32:31 GMT | One Love, One Network: What Bob Marley Can Teach MSPs About Cybersecurity | Saltiest of Souls | [Read More](https://medium.com/p/c3a91194fe9e) |
-| Wed, 25 Feb 2026 19:32:14 GMT | THM: Vulnerability Capstone | Murad Salem | [Read More](https://medium.com/p/1fdba87fd651) |
-| Wed, 25 Feb 2026 19:32:04 GMT | Least Context Access Control: A Framework for Pre-Execution AI Governance | Qstackfield | [Read More](https://medium.com/p/e3b54d1493d7) |
-| Wed, 25 Feb 2026 19:31:38 GMT | Access Control Vulnerabilities — PortSwigger Labs - Apprentice Levels | Aytac | [Read More](https://medium.com/p/f210cee7bbc0) |
-| Wed, 25 Feb 2026 19:19:27 GMT | The Old Con, Upgraded | Raphael Savastano | [Read More](https://medium.com/p/872b87da1511) |
-| Wed, 25 Feb 2026 19:17:01 GMT | Mastering User Access Review: A Guide to Identity Governance and Compliance | Rasika Satpute | [Read More](https://medium.com/p/7e6576a34a4d) |
-| Wed, 25 Feb 2026 19:13:35 GMT | Most Sites Have No Idea What’s Crawling Them. We’re Fixing That. | Silkbriar | [Read More](https://medium.com/p/96c44aa88ba0) |
-| Wed, 25 Feb 2026 19:06:47 GMT | Deepfakes and Women’s Dignity | ADITI | [Read More](https://medium.com/p/a962191f3733) |
-| Wed, 25 Feb 2026 19:02:18 GMT | Microsoft Introduces User Site Permissions Report in SharePoint Admin Center | Ryan Adams | [Read More](https://medium.com/p/e5034697f7a1) |
