@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Feb 2026 23:14:49 GMT | Day 13 : Wordpress HTB room | Cybersecurity with Jojo | [Read More](https://medium.com/p/b1f453b56135) |
+| Thu, 26 Feb 2026 23:13:45 GMT | So Anthropic Just Accused Three Chinese AI Labs of Stealing From Claude. I Have Questions. | Vikas Sharma | [Read More](https://medium.com/p/c76565b04254) |
+| Thu, 26 Feb 2026 23:02:48 GMT | Professional Cyber Security Services for Brisbane & Townsville Businesses | Adits Australia | [Read More](https://medium.com/p/f8b4ffb2b6bf) |
+| Thu, 26 Feb 2026 23:02:32 GMT | Taking a Weekly OSINT Review Hiatus | OSINT Amy | [Read More](https://medium.com/p/d5ca94a7bbcc) |
+| Thu, 26 Feb 2026 23:01:49 GMT | Cryptography and Cryptanalysis | Aj | [Read More](https://medium.com/p/ce482a78b98a) |
+| Thu, 26 Feb 2026 22:58:22 GMT | Introducing CYBERDUDEBIVASH® Auth Bypass Tester — Premium Edition v1.0.0: | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/eeb25731459e) |
+| Thu, 26 Feb 2026 22:54:32 GMT | Building a SOC Homelab on 8GB RAM Laptop Using WSL and Docker | beginner6874 | [Read More](https://medium.com/p/0ad90f7e509b) |
+| Thu, 26 Feb 2026 22:43:24 GMT | I Built a tiny SOC so I can watch my own little island. Meet : MatchBox | Aaron L | [Read More](https://medium.com/p/e52bdc9875b6) |
+| Thu, 26 Feb 2026 22:40:37 GMT | AI in a Lambda Function, Amazon Bedrock Agents, Cookie Cutter Vibe Coding, Finding Security Bugs… | Teri Radichel | [Read More](https://medium.com/p/11973341a658) |
+| Thu, 26 Feb 2026 22:37:55 GMT | 10 Python Testing Practices That Prevent Production Bugs | Muhammad Huzair Awan | [Read More](https://medium.com/p/b42d1f728f07) |
+| Thu, 26 Feb 2026 22:28:58 GMT | safezip — A small, zero-dependency wrapper for secure ZIP extraction | Artur Barseghyan | [Read More](https://medium.com/p/f6dd72cdeda6) |
 | Thu, 26 Feb 2026 22:26:43 GMT | Starting a new chapter at HIMSS | Karolina Tądel | [Read More](https://medium.com/p/0b430dd06dfc) |
 | Thu, 26 Feb 2026 22:21:12 GMT | Common Cybersecurity Threats for Small Businesses in 2026: How to Stay Protected | Tent Of Tech | [Read More](https://medium.com/p/472f5254804b) |
 | Thu, 26 Feb 2026 22:17:28 GMT | THIS TINY DEVICE HELPED ME HACK MY UNI’S NETWORK | Trish | [Read More](https://medium.com/p/ab9a5294cfee) |
@@ -102,14 +113,3 @@ Dictionary-Rainbow | Felciaharini | [Read More](https://medium.com/p/165c7ea885b
 | Thu, 26 Feb 2026 16:50:56 GMT | Penetration Testing Report for ClientWriting | Mujahid Hasan | [Read More](https://medium.com/p/11214ce82768) |
 | Thu, 26 Feb 2026 16:50:49 GMT | Your Fingerprint is a Security Nightmare, and You Can’t Change It | Numan Nadeem | [Read More](https://medium.com/p/8278de8e53cb) |
 | Thu, 26 Feb 2026 16:48:51 GMT | Reverse Shell Cheat Sheet (OSCP & CPTS Exam) | cyber_public_school | [Read More](https://medium.com/p/4becb1fcc2eb) |
-| Thu, 26 Feb 2026 16:44:42 GMT | Issue #5: IT vs. OT — A Tale of Two Realities | Nitin Raje | [Read More](https://medium.com/p/20915126c15d) |
-| Thu, 26 Feb 2026 16:42:28 GMT | One Hacker, One Laptop, and $1.4 Billion in Damage: AI Just Rewrote the Rules of Cybercrime | AMO Publications | [Read More](https://medium.com/p/76d24a832832) |
-| Thu, 26 Feb 2026 16:38:25 GMT | Shift Left… All the Way? Testing a Security Scanner That Lives in Your IDE | Ian Zammit | [Read More](https://medium.com/p/7c544f5c84b0) |
-| Thu, 26 Feb 2026 16:37:28 GMT | Identity is the New Perimeter: | Virus Vanguard | [Read More](https://medium.com/p/b7c7a0d3177f) |
-| Thu, 26 Feb 2026 16:35:21 GMT | The CISO Advantage: Eliminating the Security vs Productivity Trade-Off | Dr. Shashi Karhail | [Read More](https://medium.com/p/8aff9b68de07) |
-| Thu, 26 Feb 2026 16:35:04 GMT | This is How to Solve AoTR 1 on HackTheBox | Ammarnabil | [Read More](https://medium.com/p/5acf3f6e1f43) |
-| Thu, 26 Feb 2026 16:32:27 GMT | What is OAuth vulnerability? | BinaryShield | [Read More](https://medium.com/p/40de5524ae63) |
-| Thu, 26 Feb 2026 16:32:24 GMT | What Hackers Talk About at 2 AM: Using Dark Web Forums for Recon ️ | Iski | [Read More](https://medium.com/p/bdbff44bdea5) |
-| Thu, 26 Feb 2026 16:31:55 GMT | What is SSRF (server-side request forgery)? | BinaryShield | [Read More](https://medium.com/p/e5b64018662c) |
-| Thu, 26 Feb 2026 16:29:00 GMT | HTB — Soulmate(Linux) | 6cloudguy | [Read More](https://medium.com/p/796e854e097b) |
-| Thu, 26 Feb 2026 16:18:29 GMT | A Safe Way to Store Documents + Credentials + Instructions in One Place | InheritSafe | [Read More](https://medium.com/p/67abb8bf9eeb) |
