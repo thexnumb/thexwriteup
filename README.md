@@ -12,7 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 26 Feb 2026 19:08:08 GMT | A Day in the Life of a SOC Analyst Using Wazuh | Abdullah Al Siam | [Read More](https://medium.com/p/8c61df9db6f3) |
+| Thu, 26 Feb 2026 19:05:02 GMT | Keys to the Kingdom: A Guide to Digital Identity | Moez Ben-Azzouz | [Read More](https://medium.com/p/924622d6e9ac) |
+| Thu, 26 Feb 2026 19:02:01 GMT | Is 2026 a new era for Tech Industry? | Areej | [Read More](https://medium.com/p/7e0e6b0dc04f) |
+| Thu, 26 Feb 2026 19:01:00 GMT | Username & Email Collision Leading to Account Lockout and identity collision☠️ | 0xMo7areb | [Read More](https://medium.com/p/1cc963fb3d38) |
+| Thu, 26 Feb 2026 19:00:40 GMT | VulnNet: Active (THM) Tryhackme Only Answer | Lawvye | [Read More](https://medium.com/p/dbd9428ade4c) |
+| Thu, 26 Feb 2026 18:57:08 GMT | Become an AI Hacker in 2026 | Haniakhan | [Read More](https://medium.com/p/4119e50a3f28) |
+| Thu, 26 Feb 2026 18:56:52 GMT | Hacking in 2025 | Blogger World | [Read More](https://medium.com/p/8a09718246fa) |
+| Thu, 26 Feb 2026 18:56:21 GMT | Why Biometric AI Systems Fail in Production — And How Architecture Prevents It | Daniel Possebon Bargas | [Read More](https://medium.com/p/65401538ae95) |
+| Thu, 26 Feb 2026 18:52:26 GMT | AI Threat Modeling: Securing Autonomous AI Agents and MCP Architectures | Yog Yadav | [Read More](https://medium.com/p/6db1b8aec237) |
+| Thu, 26 Feb 2026 18:51:36 GMT | AI Agents Are the New Security Risk Nobody Talks About | techWithNeer | [Read More](https://medium.com/p/9ba0e7aa0f8f) |
+| Thu, 26 Feb 2026 18:46:23 GMT | Proving Grounds Twiggy: Backport | Nicolas Garcia | [Read More](https://medium.com/p/21cb0830fdda) |
+| Thu, 26 Feb 2026 18:45:21 GMT | HTB-TeamBlueLabs - AoTR 2: Operation Winter Blackout | Kiana Anaceliya | [Read More](https://medium.com/p/7bbce8813944) |
+| Thu, 26 Feb 2026 18:40:47 GMT | AoTR 1 — A Call from the Museum | Dikoo | [Read More](https://medium.com/p/fca5dd578bf7) |
+| Thu, 26 Feb 2026 18:33:52 GMT | Creating a Bayesian Behavioral Detector in Google SecOps (pt 1) | Greg Kushmerek | [Read More](https://medium.com/p/c5ca50b95d54) |
+| Thu, 26 Feb 2026 18:33:21 GMT | Encryption and Secure Data Management in iOS | Gaye Uğur | [Read More](https://medium.com/p/7451891f6638) |
+| Thu, 26 Feb 2026 18:29:23 GMT | Anatomy of a Cloud Native Attack: How We Pwned Kubernetes for $100k | Krishna Kumar | [Read More](https://medium.com/p/6201ce3808af) |
+| Thu, 26 Feb 2026 18:20:55 GMT | HackThisSite Basic Missions: A Pentester’s Walkthrough (Levels 1–11) | AG_Notes | [Read More](https://medium.com/p/0a63c2065646) |
+| Thu, 26 Feb 2026 18:15:25 GMT | How a PS5 Controller Hijacked 7,000 Robot Vacuums | Ship X/ TechX | [Read More](https://medium.com/p/f60a0ec71805) |
+| Thu, 26 Feb 2026 18:13:44 GMT | Your Device is Blacklisted at runtime, now what? | Suprit Pandurangi | [Read More](https://medium.com/p/cfc1a66973dc) |
+| Thu, 26 Feb 2026 18:10:46 GMT | CEH (Certified Ethical Hacking)-1 | Nomanjoyo | [Read More](https://medium.com/p/949d7f17cf07) |
+| Thu, 26 Feb 2026 18:06:21 GMT | Technical Analysis: Session Persistence Risks in WhatsApp Web & Proposed Security Mitigations | Investdfs | [Read More](https://medium.com/p/c1546417ce77) |
 | Thu, 26 Feb 2026 18:03:22 GMT | Linux Redirection Under the Hood: How the Shell Really Handles I/O | MR.7 | [Read More](https://medium.com/p/10dc47510ae5) |
+| Thu, 26 Feb 2026 18:01:01 GMT | The dashboard line drops, but the reopened thread won’t stay dead | James Kuhman | [Read More](https://medium.com/p/e272a3198cfd) |
 | Thu, 26 Feb 2026 17:57:57 GMT | El Diablo CTF Writeup— BitSkrieg CTF 2026 | Shoaib Bin Rashid | [Read More](https://medium.com/p/d0381cc40f68) |
 | Thu, 26 Feb 2026 17:57:50 GMT | Your AI Agents Have the Keys to Everything. Who’s Watching the Door? | Ravichandran K | [Read More](https://medium.com/p/1f929684a36e) |
 | Thu, 26 Feb 2026 17:56:27 GMT | How Short-Term Growth Thinking Creates Long-Term Cyber Debt | Digital Defense | [Read More](https://medium.com/p/49c29ec4cfba) |
@@ -91,25 +113,3 @@ Dictionary-Rainbow | Felciaharini | [Read More](https://medium.com/p/165c7ea885b
 | Thu, 26 Feb 2026 13:40:13 GMT | Day 7: When the Vulnerability Is Human, Phishing and Social Engineering Through a SOC Lens | Muhammad Kashif | [Read More](https://medium.com/p/7e07ec4c0067) |
 | Thu, 26 Feb 2026 13:39:43 GMT | The Breathackers Manifesto: A Letter from B Block | Abhinav Jain | [Read More](https://medium.com/p/a209ec23079e) |
 | Thu, 26 Feb 2026 13:38:05 GMT | BREAT-HACKERS: The Manifesto. The Rules. The Standard. | Abhinav Jain | [Read More](https://medium.com/p/931a3139e507) |
-| Thu, 26 Feb 2026 13:31:51 GMT | OTP BYPASS IN REGISTRATION PAGE | Mohammed Yassin | [Read More](https://medium.com/p/7fd0d07a431b) |
-| Thu, 26 Feb 2026 13:26:35 GMT | Hybrid Cloud Security Challenges: Why It’s More Complex Than You Think | Harsh Udani | [Read More](https://medium.com/p/1db6fdbeb0ea) |
-| Thu, 26 Feb 2026 13:26:10 GMT | Encryption Didn’t Kill Surveillance — Metadata Survived It | Tech Intel | [Read More](https://medium.com/p/0b0d184e6cd1) |
-| Thu, 26 Feb 2026 13:20:35 GMT | Stop Confusing Authentication: The Ultimate Guide to JWT vs OAuth2 vs SSO | Pau Dang | [Read More](https://medium.com/p/5fc251a59334) |
-| Thu, 26 Feb 2026 13:20:25 GMT | Why Network Testing is the Key to Success for Businesses in 2026 | Shubhra Srivastav | [Read More](https://medium.com/p/7e0d1612530b) |
-| Thu, 26 Feb 2026 13:17:49 GMT | Your Browser Knows You Better Than Your IP Address Ever Did | Tech Intel | [Read More](https://medium.com/p/c7c2d1586876) |
-| Thu, 26 Feb 2026 13:16:31 GMT | Why I Built My Own SMS-to-Email Forwarder App (and Why Your Team Should Too) | Benji | [Read More](https://medium.com/p/dfaa172da958) |
-| Thu, 26 Feb 2026 13:14:33 GMT | Deepfake: How Different Generations Detect AI‑generated Content. | Jardan Valentina | [Read More](https://medium.com/p/800cd0262c0d) |
-| Thu, 26 Feb 2026 13:12:40 GMT | The Blurred Line Between Corporate Management and Malware | Finstein.ai | [Read More](https://medium.com/p/fc5b60da4273) |
-| Thu, 26 Feb 2026 13:12:14 GMT | “Secure by Design” Is Meaningless Without Lifecycle Authority | Peter Hillier/Halton | [Read More](https://medium.com/p/e596293ef730) |
-| Thu, 26 Feb 2026 13:01:19 GMT | Top 7 Features Every Successful Mobile App Must Have | Digiauxilio | [Read More](https://medium.com/p/9fea69c10db0) |
-| Thu, 26 Feb 2026 13:01:01 GMT | Welcome to Your Bank’s New 17 Factor Authentication Process | Alice Wilson | [Read More](https://medium.com/p/6eed7c1a0afc) |
-| Thu, 26 Feb 2026 12:57:22 GMT | IT Sektörüne Yeni Girdim: CRM, SAP, ERP, Network, Ticket, Cherwell, Excel, Power BI ve SQL (Hiç… | Sıla Yeler | [Read More](https://medium.com/p/88b24dc059e8) |
-| Thu, 26 Feb 2026 12:56:50 GMT | Mumbai, Sydney, London: Meet Thales at 3 Flagship Gartner Summits | Liz Kelly | [Read More](https://medium.com/p/eaa7cbcb3059) |
-| Thu, 26 Feb 2026 12:54:40 GMT | Ethical Hacking Online Training Course with AI Tools | EINITIAL24 | [Read More](https://medium.com/p/0f29402c5196) |
-| Thu, 26 Feb 2026 12:46:16 GMT | CVE‑2026‑27727: Remote Code Execution in mchange‑commons‑java via JNDI Reference Resolution | gm0 | [Read More](https://medium.com/p/49016d015e12) |
-| Thu, 26 Feb 2026 12:41:24 GMT | Red vs Blue Is Outdated Invield Enables Collaborative Cyber Defense | Gautam kumar | [Read More](https://medium.com/p/35b8aa176b24) |
-| Thu, 26 Feb 2026 12:36:01 GMT | Your SaaS App Has an Open Door. Most Founders Never Check It. | Cyphersilhouette | [Read More](https://medium.com/p/78fddc0bd28f) |
-| Thu, 26 Feb 2026 12:35:24 GMT | Beyond Static Credentials: A Guide to Automated Vault Secret Rotation | Alain Airom (Ayrom) | [Read More](https://medium.com/p/101af92b3e0c) |
-| Thu, 26 Feb 2026 12:33:26 GMT | Hack Apps While You Browse!!! | cybrNK | [Read More](https://medium.com/p/1a836eef70a4) |
-| Thu, 26 Feb 2026 12:28:29 GMT | PRIVATE SECURITY MANAGEMENT AND PROJECT GOVERNANCE | Thiago Stephano | [Read More](https://medium.com/p/e0b30c7d28c9) |
-| Thu, 26 Feb 2026 12:18:28 GMT | What Happens to Your Data After You Delete an App? | Hafizbilaltariq | [Read More](https://medium.com/p/e88579d97dc6) |
