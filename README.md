@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Feb 2026 08:35:46 GMT | Yapay Zeka Sızma Testi (AI Pentest) ve AI Red Teaming | Hazar Taspinar | [Read More](https://medium.com/p/e9880d109f5a) |
+| Fri, 27 Feb 2026 08:30:31 GMT | India’s SIM-Binding Rule: A New Era of Digital Identity Enforcement | Ankit rai | [Read More](https://medium.com/p/932c96dcab0b) |
+| Fri, 27 Feb 2026 08:23:52 GMT | “Bug Bounty Bootcamp #25: Local File Disclosure — Breaking Out of the Web Root to Steal Server… | Aman Sharma | [Read More](https://medium.com/p/3bce67264df0) |
+| Fri, 27 Feb 2026 08:22:01 GMT | HackTheBox — AoTR 2 : Operation Winter Blackout | Shiro | [Read More](https://medium.com/p/90f6e7bd036c) |
+| Fri, 27 Feb 2026 08:19:19 GMT | Article 01 — Privacy | Satish Mishra | [Read More](https://medium.com/p/6e56cb917663) |
+| Fri, 27 Feb 2026 08:15:29 GMT | “Advent of The Relic 2: Operations Winter Blackout” Digital Forensics Labs | Xinlisalim | [Read More](https://medium.com/p/e304120b78f5) |
+| Fri, 27 Feb 2026 08:07:43 GMT | Build “Sign in with Google” Using OAuth 2.0 in Python | Anusha Reddy | [Read More](https://medium.com/p/458e3eba75e9) |
+| Fri, 27 Feb 2026 08:02:41 GMT | Beyond the Trigger: Uncovering SSRF in Azure Functions | Xpl0itZ3r0X | [Read More](https://medium.com/p/c9281a04e062) |
+| Fri, 27 Feb 2026 07:56:00 GMT | How AI Is Rewiring Your Attention and What It’s Doing to Your Brain | Vipin Singh Bagri | [Read More](https://medium.com/p/537282116ca8) |
+| Fri, 27 Feb 2026 07:49:03 GMT | Kali Linux Just Got an AI Brain. Here’s Why That Changes Everything. | Aryan Srivastava | [Read More](https://medium.com/p/0121e7e2abac) |
 | Fri, 27 Feb 2026 07:33:29 GMT | Roundtable Talk 1 - Discussion on the Safety, Responsibility, and Identity Issues of AI Agents | OpenAgents | [Read More](https://medium.com/p/332d3dbdcfbe) |
 | Fri, 27 Feb 2026 07:31:04 GMT | How a VPN Works (From a Cybersecurity Perspective) | The SecOps Lead | [Read More](https://medium.com/p/d98b4904dd19) |
 | Fri, 27 Feb 2026 07:30:56 GMT | WSTG-CLNT-09 | Narathama Firmansyah Putra | [Read More](https://medium.com/p/0a40460cf484) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Feb 2026 23:13:45 GMT | So Anthropic Just Accused Three Chinese AI Labs of Stealing From Claude. I Have Questions. | Vikas Sharma | [Read More](https://medium.com/p/c76565b04254) |
 | Thu, 26 Feb 2026 23:08:07 GMT | Benarkah Pesan Enkripsi Mudah Digunakan Bagi Pengguna Umum | Abdul Halim Ichwan | [Read More](https://medium.com/p/dc7a9abe922b) |
 | Thu, 26 Feb 2026 23:02:48 GMT | Professional Cyber Security Services for Brisbane & Townsville Businesses | Adits Australia | [Read More](https://medium.com/p/f8b4ffb2b6bf) |
-| Thu, 26 Feb 2026 23:02:32 GMT | Taking a Weekly OSINT Review Hiatus | OSINT Amy | [Read More](https://medium.com/p/d5ca94a7bbcc) |
-| Thu, 26 Feb 2026 23:01:49 GMT | Cryptography and Cryptanalysis | Aj | [Read More](https://medium.com/p/ce482a78b98a) |
-| Thu, 26 Feb 2026 22:58:22 GMT | Introducing CYBERDUDEBIVASH® Auth Bypass Tester — Premium Edition v1.0.0: | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/eeb25731459e) |
-| Thu, 26 Feb 2026 22:54:32 GMT | Building a SOC Homelab on 8GB RAM Laptop Using WSL and Docker | beginner6874 | [Read More](https://medium.com/p/0ad90f7e509b) |
-| Thu, 26 Feb 2026 22:43:24 GMT | I Built a tiny SOC so I can watch my own little island. Meet : MatchBox | Aaron L | [Read More](https://medium.com/p/e52bdc9875b6) |
-| Thu, 26 Feb 2026 22:40:37 GMT | AI in a Lambda Function, Amazon Bedrock Agents, Cookie Cutter Vibe Coding, Finding Security Bugs… | Teri Radichel | [Read More](https://medium.com/p/11973341a658) |
-| Thu, 26 Feb 2026 22:37:55 GMT | 10 Python Testing Practices That Prevent Production Bugs | Muhammad Huzair Awan | [Read More](https://medium.com/p/b42d1f728f07) |
-| Thu, 26 Feb 2026 22:28:58 GMT | safezip — A small, zero-dependency wrapper for secure ZIP extraction | Artur Barseghyan | [Read More](https://medium.com/p/f6dd72cdeda6) |
-| Thu, 26 Feb 2026 22:26:43 GMT | Starting a new chapter at HIMSS | Karolina Tądel | [Read More](https://medium.com/p/0b430dd06dfc) |
-| Thu, 26 Feb 2026 22:21:12 GMT | Common Cybersecurity Threats for Small Businesses in 2026: How to Stay Protected | Tent Of Tech | [Read More](https://medium.com/p/472f5254804b) |
