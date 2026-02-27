@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Feb 2026 14:57:10 GMT | Advent Of The Relics 2 | Abdullahfatihalhuda | [Read More](https://medium.com/p/e4a205ecd85d) |
+| Fri, 27 Feb 2026 14:53:53 GMT | ChatGPT Ads Are Here — Why They’re More Dangerous Than Search Ads | Karl Buhl | [Read More](https://medium.com/p/f2e14f2af519) |
+| Fri, 27 Feb 2026 14:52:49 GMT | CISA KEV Expands as Malware Campaigns Target Enterprise Infrastructure | Loginsoft | [Read More](https://medium.com/p/1039390573b9) |
+| Fri, 27 Feb 2026 14:47:25 GMT | funboxeasy walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/6985fdf37437) |
+| Fri, 27 Feb 2026 14:47:12 GMT | Advent of The Relics 2 — Operation Winter Blackout | Raakin Al Hassan | [Read More](https://medium.com/p/038181c23400) |
+| Fri, 27 Feb 2026 14:46:46 GMT | Dead Man’s Switch Services for Credentials and Instructions: A Smarter, Safer Approach | Olivia Martillo | [Read More](https://medium.com/p/7627f3c92f68) |
+| Fri, 27 Feb 2026 14:42:15 GMT | CVE-2026–21522 - Microsoft ACI Confidential Containers Elevation of Privilege Vulnerability | Aakash Rahsi | [Read More](https://medium.com/p/688a66203a69) |
+| Fri, 27 Feb 2026 14:39:39 GMT | Designing a Data-Driven IT Performance Dashboard as a Systems Administrator | Hunter Ryskoski | [Read More](https://medium.com/p/ffcc067197f4) |
+| Fri, 27 Feb 2026 14:38:19 GMT | From Wi‑Fi Access to Root: Reverse Engineering a $50 CarPlay Dongle | Louis Erbkamm | [Read More](https://medium.com/p/a3fbeeeb0be9) |
+| Fri, 27 Feb 2026 14:31:35 GMT | Microsoft Entra ID Sync Explained: The Step Most AD to Entra Migrations Underestimate | Opsole Migrate | [Read More](https://medium.com/p/10cfac24f0d5) |
+| Fri, 27 Feb 2026 14:31:03 GMT | CyberTalent: Escape_202 | disha | [Read More](https://medium.com/p/b0b2554b9bfe) |
+| Fri, 27 Feb 2026 14:26:32 GMT | No Risk, No Reward: Enterprise Risk Management Basics | Financial Poise | [Read More](https://medium.com/p/b12c59834eaf) |
+| Fri, 27 Feb 2026 14:20:33 GMT | The Small Garage Upgrade Most Homeowners Don’t Know They Need | Criminology Expert | [Read More](https://medium.com/p/c1e1afcb9b8d) |
 | Fri, 27 Feb 2026 14:01:01 GMT | Don’t You Want Someone? The Exhausting Truth About Trying to Move On | MJ-1604 | [Read More](https://medium.com/p/b24e030818c9) |
+| Fri, 27 Feb 2026 14:01:01 GMT | The Role of Strike Plates in Residential Lock Security - SLK | Sure Lock & Key LLC | [Read More](https://medium.com/p/6e12c7afc3d9) |
 | Fri, 27 Feb 2026 13:59:06 GMT | Threat Hunting in AWS Using Athena + VPC Flow Logs | Davebhargavi | [Read More](https://medium.com/p/5bce8d548a31) |
 | Fri, 27 Feb 2026 13:57:36 GMT | Information Gathering in Web Security Testing: The Initial Stage that Determines Everything | Habibi | [Read More](https://medium.com/p/346e26060688) |
 | Fri, 27 Feb 2026 13:56:36 GMT | Blue Team Capture The Flag Challenges: WebStrike Lab - CyberDefenders | Xinlisalim | [Read More](https://medium.com/p/85331937e2ad) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Feb 2026 09:45:04 GMT | The Address Book of the Internet: IPv4 & Subnets | Olajubu Olasubomi | [Read More](https://medium.com/p/dfb03c5a72a1) |
 | Fri, 27 Feb 2026 09:36:38 GMT | Unmasking Network Infrastructure Through TTL Analysis. | Kobla Edem | [Read More](https://medium.com/p/3ba6790e2a15) |
 | Fri, 27 Feb 2026 09:31:00 GMT | I Tested Both Password Managers for 6 Months. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/c8e7601967f6) |
-| Fri, 27 Feb 2026 09:31:00 GMT | Mr. Phisher - TryHackMe Write-up | iIyas | [Read More](https://medium.com/p/6e070b25cd81) |
-| Fri, 27 Feb 2026 09:30:45 GMT | HTB: Era | bluesnow | [Read More](https://medium.com/p/68e21d0699a7) |
-| Fri, 27 Feb 2026 09:26:17 GMT | How Internet Security Works: TLS, HTTPS & Certificates | ShreehariMenon | [Read More](https://medium.com/p/a457882ce28f) |
-| Fri, 27 Feb 2026 09:23:38 GMT | WP-Hunter: Smarter WordPress Recon with Heuristic Scoring + Semgrep SAST | Ali Sünbül (xeloxa) | [Read More](https://medium.com/p/e006fae619f9) |
-| Fri, 27 Feb 2026 09:23:27 GMT | Architectural Asymmetry in Authentication: Part 2 — Risk Before Context | Anton Minin Baranovskii | [Read More](https://medium.com/p/4ab46766bf63) |
-| Fri, 27 Feb 2026 09:18:23 GMT | HackTheBox — AoTR 2 : Operation Winter Blackout | 0w0 | [Read More](https://medium.com/p/4d7422f796d4) |
-| Fri, 27 Feb 2026 09:18:21 GMT | Secure Cloud Storage for Small Businesses: The Complete 2026 Guide | Cloudegytechnology | [Read More](https://medium.com/p/480e3e3445ce) |
-| Fri, 27 Feb 2026 09:17:56 GMT | Carlos Didn’t Make a Mistake. The AI Did……….. | TEJAS | [Read More](https://medium.com/p/076941be742a) |
-| Fri, 27 Feb 2026 09:16:00 GMT | Why Thinking Before You Post Online Is One of the Smartest Digital Habits You Can Build | Divine Egyabeng | [Read More](https://medium.com/p/c40f7a3e5177) |
-| Fri, 27 Feb 2026 09:06:00 GMT | Investigasi Forensik Digital: Membongkar Forum Kriminal Dalam Operasi Winter Blackout | Donysetyon | [Read More](https://medium.com/p/372906a59fb7) |
-| Fri, 27 Feb 2026 09:03:06 GMT | DockerLabs Writeup — Fooding (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/12d13664aa45) |
-| Fri, 27 Feb 2026 09:01:04 GMT | I Checked 10 Random Companies for Leaked Credentials. All 10 Were Exposed. | Alexandre Vandamme | [Read More](https://medium.com/p/30e425471b81) |
-| Fri, 27 Feb 2026 09:00:41 GMT | The Minimal Website Formula Behind Fast, Safe, and Budget-Friendly Projects | Andy | [Read More](https://medium.com/p/96c1c1fd51be) |
-| Fri, 27 Feb 2026 08:58:22 GMT | Why Professional Alarm Response Services Are Essential for Your Business | Secure 24 Seven | [Read More](https://medium.com/p/d1d647a824af) |
