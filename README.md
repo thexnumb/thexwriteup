@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Feb 2026 02:15:13 GMT | 15 JavaScript Tricks That Make Your Code Slower | CodeByUmar | [Read More](https://medium.com/p/b16dbe63198c) |
+| Fri, 27 Feb 2026 02:14:40 GMT | Most Pentest Reports Answer the Wrong Questions for the Wrong People | Louis Sanchez | [Read More](https://medium.com/p/4edfe500cb32) |
+| Fri, 27 Feb 2026 02:05:00 GMT | Why Jio Blocking Supabase Is a Bigger Problem Than It Looks | SOVANNARO | [Read More](https://medium.com/p/6a4c442d7b15) |
+| Fri, 27 Feb 2026 02:01:01 GMT | 133rd Monthly Technical Session | Simon Juba | [Read More](https://medium.com/p/415cff942cda) |
+| Fri, 27 Feb 2026 01:50:41 GMT | 9 JavaScript Patterns That Reduce Bugs Before They Exist | CodeByUmar | [Read More](https://medium.com/p/93e029069487) |
+| Fri, 27 Feb 2026 01:31:00 GMT | 9 Redaction Failures That Still Leak Meaning in RAG | Quaxel | [Read More](https://medium.com/p/f82c160196d6) |
+| Fri, 27 Feb 2026 01:31:00 GMT | 7 Prompt Injections Hiding in PDFs and Screenshots | Modexa | [Read More](https://medium.com/p/bbe38b17ee14) |
+| Fri, 27 Feb 2026 01:26:00 GMT | The Hidden Language of “Cries for Help” We All Use | Xiaochen | [Read More](https://medium.com/p/0894193131a1) |
+| Fri, 27 Feb 2026 01:14:31 GMT | The Digital Dexter: He Learned Hebrew in the U.S Air Force. Now He Hunts Child Predators Online. | Jess B, Investigator | [Read More](https://medium.com/p/d7fa15b11a6e) |
+| Fri, 27 Feb 2026 00:48:16 GMT | Samsung Galaxy S26 Ultra and the Privacy Shield Dilemma: An Engineering Triumph That Unbalanced… | Thauan Andrade | [Read More](https://medium.com/p/68fc9616bbcb) |
+| Fri, 27 Feb 2026 00:41:21 GMT | Where Sadness and Insecurity Go on a Date | LinaLi | [Read More](https://medium.com/p/e1be0a53280d) |
+| Fri, 27 Feb 2026 00:41:04 GMT | The Loudest Silence in the Room | LinaLi | [Read More](https://medium.com/p/5f54f3ab413d) |
+| Fri, 27 Feb 2026 00:36:44 GMT | How Honest Do I Need to Be? | noonseol’s journey | [Read More](https://medium.com/p/5ac76f7d3830) |
+| Fri, 27 Feb 2026 00:06:02 GMT | Exploiting HTTP request smuggling to bypass front-end security controls, CL.TE vulnerability | Ⓥ | [Read More](https://medium.com/p/db659c05bf2a) |
+| Fri, 27 Feb 2026 00:05:38 GMT | HTTP request smuggling, confirming a CL.TE vulnerability via differential responses | Ⓥ | [Read More](https://medium.com/p/0309d2335a35) |
+| Fri, 27 Feb 2026 00:02:29 GMT | Cisco SD-WAN Is Actively Exploited by UAT-8616 | SOCFortress | [Read More](https://medium.com/p/84530e467ba5) |
+| Fri, 27 Feb 2026 00:01:02 GMT | Why Behavioral Bot Detection Is Becoming Essential in 2026 | STCLab, Inc. | [Read More](https://medium.com/p/48f9f5671981) |
+| Fri, 27 Feb 2026 00:01:01 GMT | Guía de Netcat para Pentesting: Comandos, Reverse Shells y Exfiltración | JPablo13 | [Read More](https://medium.com/p/0faaf51cb703) |
+| Thu, 26 Feb 2026 23:23:45 GMT | Team dark-4rmy Laps | Ahmed Abdelnasser | [Read More](https://medium.com/p/b1aab7b0dbe7) |
 | Thu, 26 Feb 2026 23:14:49 GMT | Day 13 : Wordpress HTB room | Cybersecurity with Jojo | [Read More](https://medium.com/p/b1f453b56135) |
 | Thu, 26 Feb 2026 23:13:45 GMT | So Anthropic Just Accused Three Chinese AI Labs of Stealing From Claude. I Have Questions. | Vikas Sharma | [Read More](https://medium.com/p/c76565b04254) |
 | Thu, 26 Feb 2026 23:02:48 GMT | Professional Cyber Security Services for Brisbane & Townsville Businesses | Adits Australia | [Read More](https://medium.com/p/f8b4ffb2b6bf) |
@@ -93,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Feb 2026 17:57:57 GMT | El Diablo CTF Writeup— BitSkrieg CTF 2026 | Shoaib Bin Rashid | [Read More](https://medium.com/p/d0381cc40f68) |
 | Thu, 26 Feb 2026 17:57:50 GMT | Your AI Agents Have the Keys to Everything. Who’s Watching the Door? | Ravichandran K | [Read More](https://medium.com/p/1f929684a36e) |
 | Thu, 26 Feb 2026 17:56:27 GMT | How Short-Term Growth Thinking Creates Long-Term Cyber Debt | Digital Defense | [Read More](https://medium.com/p/49c29ec4cfba) |
-| Thu, 26 Feb 2026 17:52:57 GMT | We Got Hacked — Here’s What We Did in the First 24 Hours | Shanu Reddy | [Read More](https://medium.com/p/58a06a66dac2) |
-| Thu, 26 Feb 2026 17:46:23 GMT | The Ghost Bugs Playbook: How Elite Testers Expose Intermittent Defects That Refuse to Be Reproduced | Arpit choubey | [Read More](https://medium.com/p/7d6841c42c1a) |
-| Thu, 26 Feb 2026 17:42:52 GMT | Hackers Used Claude to Hack. What Went Wrong at Anthropic? | Twinkle Jaineera | [Read More](https://medium.com/p/589f736208a6) |
-| Thu, 26 Feb 2026 17:38:42 GMT | The Day I Watched a Video and Accidentally Started an Infrastructure Project | Yusuf Razak | [Read More](https://medium.com/p/34bfc93f79ce) |
-| Thu, 26 Feb 2026 17:37:53 GMT | Breaking Authentication — Part 3 | ghostyjoe | [Read More](https://medium.com/p/670a789ef279) |
-| Thu, 26 Feb 2026 17:35:37 GMT | DockerDash: When Your AI Assistant Becomes the Attack Vector | Mukesh Giri | [Read More](https://medium.com/p/8114fa11e6ad) |
-| Thu, 26 Feb 2026 17:33:08 GMT | The Invisible War: How AI Is Both Your Bodyguard and Your Biggest Threat | cerolina  ferninddis | [Read More](https://medium.com/p/104f22b4ef10) |
-| Thu, 26 Feb 2026 17:30:27 GMT | Navigating the State Privacy Patchwork: A 20-State Compliance Checklist for SMBs | Ivan Stepanchuk | [Read More](https://medium.com/p/bfc3fab9de25) |
-| Thu, 26 Feb 2026 17:29:19 GMT | Instalasi Kali Linux | Arel Lioza Akhmad | [Read More](https://medium.com/p/0df780e19ffd) |
-| Thu, 26 Feb 2026 17:27:35 GMT | My Complete Bug Bounty Hunting Workflow Every Command I Use, Step by Step | Hacker MD | [Read More](https://medium.com/p/68484276471f) |
-| Thu, 26 Feb 2026 17:20:04 GMT | HOW I GAINED FULL CONTROL OF A WEBSITE USING SQL INJECTION (Beginner Writeup) | ANKUSH KUMAR TIWARI | [Read More](https://medium.com/p/6583a64efeab) |
-| Thu, 26 Feb 2026 17:19:07 GMT | Slop Squatting… | blackhatter | [Read More](https://medium.com/p/0b89fe86010b) |
-| Thu, 26 Feb 2026 17:16:30 GMT | Top Password Generator Tools Online | Rituraj Shakti | [Read More](https://medium.com/p/5c76c94cb687) |
-| Thu, 26 Feb 2026 17:12:19 GMT | Password Cracking Exposed: The Brute Force
-Dictionary-Rainbow | Felciaharini | [Read More](https://medium.com/p/165c7ea885b5) |
-| Thu, 26 Feb 2026 17:11:01 GMT | The Automation Paradox: You Spent $26 Million and Analysts Are Still Drowning | Ehulse | [Read More](https://medium.com/p/3631e7f27021) |
-| Thu, 26 Feb 2026 16:53:09 GMT | Wifies Lover #2 CTF Writeup — BitSkrieg CTF 2026 | Shoaib Bin Rashid | [Read More](https://medium.com/p/33b37d1fa456) |
-| Thu, 26 Feb 2026 16:50:56 GMT | Penetration Testing Report for ClientWriting | Mujahid Hasan | [Read More](https://medium.com/p/11214ce82768) |
-| Thu, 26 Feb 2026 16:50:49 GMT | Your Fingerprint is a Security Nightmare, and You Can’t Change It | Numan Nadeem | [Read More](https://medium.com/p/8278de8e53cb) |
-| Thu, 26 Feb 2026 16:48:51 GMT | Reverse Shell Cheat Sheet (OSCP & CPTS Exam) | cyber_public_school | [Read More](https://medium.com/p/4becb1fcc2eb) |
