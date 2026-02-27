@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Feb 2026 11:22:00 GMT | Why DevOps will be the most Valuable Skill for Developers in an AI-Driven Future | Olamigoke Philip A | [Read More](https://medium.com/p/8c0df39d160b) |
+| Fri, 27 Feb 2026 11:18:32 GMT | Why NDR (Network Detection and Response) Is No Longer Optional Today | NetWitness | [Read More](https://medium.com/p/dc47bd2d6dd3) |
+| Fri, 27 Feb 2026 11:17:08 GMT | Why Keycloak Should Be the Security Backbone of Your MCP Architecture | Rohit Goyal | [Read More](https://medium.com/p/e80257dd590e) |
+| Fri, 27 Feb 2026 11:12:06 GMT | SOAP picoCTF Web Exploitation Medium Challenge - XXE Injection | Fadil Adzima | [Read More](https://medium.com/p/8ede79960819) |
+| Fri, 27 Feb 2026 11:08:30 GMT | The 3:00 AM Extinction Event: Why Your IT Team Is Already Too Late | ProfitShield AI | [Read More](https://medium.com/p/86e24b9a063c) |
+| Fri, 27 Feb 2026 11:06:56 GMT | Why is the “Update” Button The Most Dangerous Attacker? (Change Management) | Mahdi | [Read More](https://medium.com/p/9d719928e54d) |
+| Fri, 27 Feb 2026 11:06:16 GMT | The Importance of VPNs in Today’s Digital Era: Spotlight on TunnelDeck | Tunneldeck | [Read More](https://medium.com/p/4368245bf070) |
+| Fri, 27 Feb 2026 11:06:00 GMT | 8 Tabletop Mistakes That Create False Confidence | Tyson Martin | [Read More](https://medium.com/p/779fe846d4f6) |
+| Fri, 27 Feb 2026 11:03:30 GMT | From Coffee Shops to Centrifuges: The Modern Cyber War Stories | Genrunic | [Read More](https://medium.com/p/bedf89a435fd) |
+| Fri, 27 Feb 2026 10:59:19 GMT | AI Didn’t Replace the Human. It Replaced the Human Who Was Already a Wrapper | Jayal Yadav | [Read More](https://medium.com/p/0c20b47a98d7) |
+| Fri, 27 Feb 2026 10:57:30 GMT | Founder Insecure Design: When You Build Empires on Borrowed Ground | Jayal Yadav | [Read More](https://medium.com/p/4dc3e0d8e7cf) |
+| Fri, 27 Feb 2026 10:56:03 GMT | Zooty x YSC Event Blog - 08th Feb 2026 - Delhi | Akhil Gupta | [Read More](https://medium.com/p/9f2bc38b2665) |
+| Fri, 27 Feb 2026 10:49:14 GMT | ️ Leveling Up: Web Security Essentials | Chamith Sirisena | [Read More](https://medium.com/p/eeb2f29e2891) |
+| Fri, 27 Feb 2026 10:46:31 GMT | Ensuring Safety and Peace of Mind with Alfa Security Services | Alfa Security Services Pty ltd | [Read More](https://medium.com/p/b796061955d0) |
 | Fri, 27 Feb 2026 10:37:44 GMT | Best Endpoint Security Services in India - Protect Your Endpoint Devices | Thiripathiv | [Read More](https://medium.com/p/33b10e7e4118) |
 | Fri, 27 Feb 2026 10:32:12 GMT | Customer Service in the Digital Age: What Today’s Travelers Expect | Adegbaju olufunmilayo Esther | [Read More](https://medium.com/p/1283bbc007d8) |
 | Fri, 27 Feb 2026 10:31:03 GMT | WebStrike Lab Write-Up: Investigating a Web Shell Attack Using Wireshark | Darasamsaraayu | [Read More](https://medium.com/p/6b5253b51dd6) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Feb 2026 05:40:42 GMT | You Say AI “Thinks.” That’s the First Mistake in Understanding How It Works. | Vipin Singh Bagri | [Read More](https://medium.com/p/103c9bdc5f6a) |
 | Fri, 27 Feb 2026 05:25:37 GMT | What is Rejection Sampling and Why is it important for Lattice Cryptography? | Gokul B Alex | [Read More](https://medium.com/p/ceec2f5a1324) |
 | Fri, 27 Feb 2026 05:21:52 GMT | MITRE ATT&CK: Turning Cyber Threats Into Understandable Intelligence | Zefai Insights | [Read More](https://medium.com/p/09b50938591e) |
-| Fri, 27 Feb 2026 05:21:37 GMT | A Technical Reconstruction of the xz Supply-Chain Attack | Shubham Rath | [Read More](https://medium.com/p/5b3479f2cbf5) |
-| Fri, 27 Feb 2026 05:12:19 GMT | The AI Agent: The New Employee Who Never Sleeps and Never Asks for a Raise | Sakti Bagchi | [Read More](https://medium.com/p/b5d7556a905c) |
-| Fri, 27 Feb 2026 04:59:56 GMT | RoguePilot: How a Passive Prompt Injection Led to GitHub Repository Takeovers | Sohan Kanna | [Read More](https://medium.com/p/d9b59dbc6d7d) |
-| Fri, 27 Feb 2026 04:58:58 GMT | THM — When Hearts Collide | Dfaults | [Read More](https://medium.com/p/6d2a020c6310) |
-| Fri, 27 Feb 2026 04:57:10 GMT | Ethical Hacking Course in Calicut | Jhoninternship | [Read More](https://medium.com/p/0ae10d3755f7) |
-| Fri, 27 Feb 2026 04:55:39 GMT | Speed, Simplicity, Scale: What the Next Generation of Websites Really Needs? | Janet Watson | [Read More](https://medium.com/p/2c748c2e52a9) |
-| Fri, 27 Feb 2026 04:49:07 GMT | From Blueprint to Build: How AI Is Reshaping Modern Construction | Alex | [Read More](https://medium.com/p/e677511c5238) |
-| Fri, 27 Feb 2026 04:45:11 GMT | THM — Corp Website | Dfaults | [Read More](https://medium.com/p/7b58ed3b8cbb) |
-| Fri, 27 Feb 2026 04:35:34 GMT | Claude Code RCE: How Three Vulnerabilities Turned a Git Clone Into a Full System Compromise | Soumyadipta Birabar | [Read More](https://medium.com/p/b5e8597afcb3) |
-| Fri, 27 Feb 2026 04:35:21 GMT | Directory Brute-Forcing Using FFUF | InfosecTrain | [Read More](https://medium.com/p/27f3785bd6e3) |
-| Fri, 27 Feb 2026 04:34:59 GMT | AI 도입, 이대로 안전한가? | AI AEGIS Lab | [Read More](https://medium.com/p/93d88b546ec8) |
-| Fri, 27 Feb 2026 04:33:52 GMT | Smart Protest in a Surveillance State | Matyas Koszegi | [Read More](https://medium.com/p/613882aa6764) |
-| Fri, 27 Feb 2026 04:31:01 GMT | Top 12 Kubernetes Security Best Practices You Need In 2026 | Neel Shah | [Read More](https://medium.com/p/77fd3f578862) |
-| Fri, 27 Feb 2026 04:19:49 GMT | Quantum-Resilient State Machines — Designing Consensus for Cryptographic Evolution | sengom | [Read More](https://medium.com/p/4d6355aa9ab0) |
