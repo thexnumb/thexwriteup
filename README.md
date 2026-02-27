@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Feb 2026 07:33:29 GMT | Roundtable Talk 1 - Discussion on the Safety, Responsibility, and Identity Issues of AI Agents | OpenAgents | [Read More](https://medium.com/p/332d3dbdcfbe) |
+| Fri, 27 Feb 2026 07:31:04 GMT | How a VPN Works (From a Cybersecurity Perspective) | The SecOps Lead | [Read More](https://medium.com/p/d98b4904dd19) |
+| Fri, 27 Feb 2026 07:30:56 GMT | WSTG-CLNT-09 | Narathama Firmansyah Putra | [Read More](https://medium.com/p/0a40460cf484) |
+| Fri, 27 Feb 2026 07:19:11 GMT | WHAT IS DNS AND WHAT IS ITS ROLE IN THE WORKING OF THE WEB? | Sana K S | [Read More](https://medium.com/p/64ab5e8a18b8) |
+| Fri, 27 Feb 2026 07:17:35 GMT | Why Privacy-First Messaging Apps Sacrifice Features (And Why That’s Not a Bug) | Kalikto (a.k.a. Smit Mehta) | [Read More](https://medium.com/p/2312a7bd7290) |
+| Fri, 27 Feb 2026 07:14:10 GMT | What Does an AI-Augmented SOC Analyst Actually Look Like? | ThreatLens - Security Intelligence Automation | [Read More](https://medium.com/p/74c04fe2a08e) |
+| Fri, 27 Feb 2026 07:14:02 GMT | Basics Of Cybersecurity | Zainababbas | [Read More](https://medium.com/p/2e1903c60fa6) |
+| Fri, 27 Feb 2026 07:11:35 GMT | Weekly Threat Intelligence Report 16 Feb 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/22feb7bccb83) |
+| Fri, 27 Feb 2026 07:11:17 GMT | EntroGuard — Day 6 | Nisarg Patel | [Read More](https://medium.com/p/9bcea7948a96) |
+| Fri, 27 Feb 2026 07:07:05 GMT | Unleashing CYBERDUDEBIVASH® Ransomware IOC Blocker v1.0.0: | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/8bf38460c3d6) |
+| Fri, 27 Feb 2026 07:03:50 GMT | Defensive Security Intro | Abdulnafayk | [Read More](https://medium.com/p/b4d4a9b0496a) |
+| Fri, 27 Feb 2026 07:01:01 GMT | 5. Handling Merge and Rebase Conflicts as a Beginners | Mangesh Muley | [Read More](https://medium.com/p/a10ef88e6882) |
+| Fri, 27 Feb 2026 07:01:01 GMT | Cognitive Password Attacks — The “Rainbow Table” Trap | the CyberStoic | [Read More](https://medium.com/p/7bff2d69d96e) |
+| Fri, 27 Feb 2026 06:59:32 GMT | Cisco Catalyst SD-WAN Zero-Day Exploitation and Root Privilege Escalation via Software Downgrade… | NSHC ThreatRecon Team | [Read More](https://medium.com/p/00ba36e25e47) |
+| Fri, 27 Feb 2026 06:56:50 GMT | BREACH | Tasha AI DIR | [Read More](https://medium.com/p/886ffc041f25) |
+| Fri, 27 Feb 2026 06:56:32 GMT | The ₹1 Laptop That Should Have Cost ₹80000 | rahul sahay | [Read More](https://medium.com/p/6d6063b72937) |
+| Fri, 27 Feb 2026 06:55:45 GMT | PicoCTF Web Exploitation Easy Category Web Challenge [SSTL 1] | Devansh Patel | [Read More](https://medium.com/p/1fc109221169) |
 | Fri, 27 Feb 2026 06:49:34 GMT | Top 10 Cybersecurity Threats in 2026 & How to Prevent Them | Ntech Global Solutions | [Read More](https://medium.com/p/4fdc7734eefa) |
 | Fri, 27 Feb 2026 06:48:49 GMT | Hands-on OSINT Investigation Using SOCMINT: Tracking a Suspicious Social Media Profile | pavani | [Read More](https://medium.com/p/09fd1d56bec9) |
 | Fri, 27 Feb 2026 06:46:30 GMT | Cyber Security Training for Beginners: A Complete Starter Guide | Gurjant Singh | [Read More](https://medium.com/p/8a2ec82a307e) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Feb 2026 22:28:58 GMT | safezip — A small, zero-dependency wrapper for secure ZIP extraction | Artur Barseghyan | [Read More](https://medium.com/p/f6dd72cdeda6) |
 | Thu, 26 Feb 2026 22:26:43 GMT | Starting a new chapter at HIMSS | Karolina Tądel | [Read More](https://medium.com/p/0b430dd06dfc) |
 | Thu, 26 Feb 2026 22:21:12 GMT | Common Cybersecurity Threats for Small Businesses in 2026: How to Stay Protected | Tent Of Tech | [Read More](https://medium.com/p/472f5254804b) |
-| Thu, 26 Feb 2026 22:17:28 GMT | THIS TINY DEVICE HELPED ME HACK MY UNI’S NETWORK | Trish | [Read More](https://medium.com/p/ab9a5294cfee) |
-| Thu, 26 Feb 2026 22:11:15 GMT | A New Milestone in Network Security: Developing an Integrated Event Collection, Analysis, and… | Hasan Serdar | [Read More](https://medium.com/p/6ae0d0e9a49f) |
-| Thu, 26 Feb 2026 22:01:00 GMT | Unfiltered Restart — Day 13: Troubleshooting, Day 2 | Maximillian Rueda | [Read More](https://medium.com/p/8b7c0fc6b761) |
-| Thu, 26 Feb 2026 21:55:30 GMT | Tesla Joins as Official Sponsor of the #SDNetworkingEvents Tech Summit | M.L. Ruscscak | [Read More](https://medium.com/p/3175784647fc) |
-| Thu, 26 Feb 2026 21:52:25 GMT | Your LLM Probably Just Hallucinated a URL. Nobody Checked. | Raviteja Nekkalapu | [Read More](https://medium.com/p/b40d3e050433) |
-| Thu, 26 Feb 2026 21:50:19 GMT | How Attackers Bypass AI Moderation: Techniques Used to Defeat AI Safety Filters | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/d36bf318c8fe) |
-| Thu, 26 Feb 2026 21:48:19 GMT | Compile-Time XOR String Encryption | S12 - 0x12Dark Development | [Read More](https://medium.com/p/9e4b74de5539) |
-| Thu, 26 Feb 2026 21:43:22 GMT | Beware of Malicious “Interview Tasks” on LinkedIn: How Scammers Distribute Harmful Code | Alexander Scherbatyuk | [Read More](https://medium.com/p/8050a02b2df3) |
-| Thu, 26 Feb 2026 21:42:11 GMT | TryHackMe - Offensive Security Intro - WriteUp | Axoloth | [Read More](https://medium.com/p/462136bcbfb8) |
-| Thu, 26 Feb 2026 21:37:10 GMT | Hidden in Plain Sight: How Attackers Weaponize Alternate Data Streams to Hide Malware | Dean | [Read More](https://medium.com/p/f7090f6c5480) |
-| Thu, 26 Feb 2026 21:34:12 GMT | The Biometric Heist: Why Your Kindness is a Scammer’s Best Tool | George William Amalan | [Read More](https://medium.com/p/68ac1adf5802) |
-| Thu, 26 Feb 2026 21:32:19 GMT | Hidden Deep Into my Heart — CTF Writeup | PaulR | [Read More](https://medium.com/p/29e3ac6b7584) |
-| Thu, 26 Feb 2026 21:31:59 GMT | Hack The Box vs CRTP: Which One Is Actually Better? | Joshua Goossen | [Read More](https://medium.com/p/fad1f9e35a5f) |
-| Thu, 26 Feb 2026 21:18:12 GMT | Authentication vs Authorization: The Developer’s Guide to Secure Identity | Alina Kovtun✨ | [Read More](https://medium.com/p/0ecb9042a929) |
-| Thu, 26 Feb 2026 21:15:45 GMT | Advent of The Relics 1 — A Call from the Museum | ridzt | [Read More](https://medium.com/p/7435b5171b0c) |
-| Thu, 26 Feb 2026 21:15:43 GMT | awsmap v1.5.0: Your AWS Inventory Now Has a Brain | Tarek CHEIKH | [Read More](https://medium.com/p/2c253f9b23cd) |
-| Thu, 26 Feb 2026 21:13:45 GMT | Distillation Attacks | Ratnadeep Dey Roy | [Read More](https://medium.com/p/2e9b31f08f91) |
