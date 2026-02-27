@@ -12,8 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Feb 2026 19:40:54 GMT | Guardrails Are Not Enough: Why AI Security Has to Be a Runtime Problem | Jonathan Gill | [Read More](https://medium.com/p/773b6a54b08c) |
+| Fri, 27 Feb 2026 19:27:59 GMT | The Linux Security Journey — SSH Password based Authentication | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/93d895eb1238) |
+| Fri, 27 Feb 2026 19:19:45 GMT | Setting up OWASP BLT on the go! Fast and Free. | Chigorin | [Read More](https://medium.com/p/524f55b302cc) |
+| Fri, 27 Feb 2026 19:16:32 GMT | Wordpress: CVE-2021–29447 (THM) Tryhackme Write-Up With Answer | Lawvye | [Read More](https://medium.com/p/2b1cec049c34) |
+| Fri, 27 Feb 2026 19:14:40 GMT | The Attack Happens Before the Attack: How Cybercriminals Exploit Trust, Decision Processes, and… | Juan Pablo Castro | [Read More](https://medium.com/p/d5098cfc1642) |
 | Fri, 27 Feb 2026 19:08:09 GMT | Most Beginner Bug Bounty Hunters Never Turn Pro — Here’s the Complete Blueprint That Actually… | R.H Rizvi | [Read More](https://medium.com/p/15e3ce0416de) |
 | Fri, 27 Feb 2026 19:08:00 GMT | Consistent Bug Bounty Income Is Not About Finding More Bugs — Here’s the Strategic Blueprint That… | R.H Rizvi | [Read More](https://medium.com/p/48ece5296eb9) |
+| Fri, 27 Feb 2026 19:04:38 GMT | How to Download Audio from YouTube Safely (High-Quality MP3 Guide for 2026) | M. Tayyab | [Read More](https://medium.com/p/d872610bea30) |
 | Fri, 27 Feb 2026 19:03:53 GMT | Compliance Theater Presents: The Phantom of the Audit | Justin Ohms | [Read More](https://medium.com/p/e339fdb156c2) |
 | Fri, 27 Feb 2026 19:01:01 GMT | Is Your Threat Hunting Program Mature, or Just Busy? | Raphaam Digital (Cyber Security Updates) | [Read More](https://medium.com/p/d25e4dbd5f64) |
 | Fri, 27 Feb 2026 18:56:32 GMT | Why Cyber Investigation Matters More Than Ever | MH  Santo | [Read More](https://medium.com/p/39b0cc4f7f1d) |
@@ -107,9 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Feb 2026 14:39:39 GMT | Designing a Data-Driven IT Performance Dashboard as a Systems Administrator | Hunter Ryskoski | [Read More](https://medium.com/p/ffcc067197f4) |
 | Fri, 27 Feb 2026 14:38:19 GMT | From Wi‑Fi Access to Root: Reverse Engineering a $50 CarPlay Dongle | Louis Erbkamm | [Read More](https://medium.com/p/a3fbeeeb0be9) |
 | Fri, 27 Feb 2026 14:31:35 GMT | Microsoft Entra ID Sync Explained: The Step Most AD to Entra Migrations Underestimate | Opsole Migrate | [Read More](https://medium.com/p/10cfac24f0d5) |
-| Fri, 27 Feb 2026 14:31:03 GMT | CyberTalent: Escape_202 | disha | [Read More](https://medium.com/p/b0b2554b9bfe) |
-| Fri, 27 Feb 2026 14:26:32 GMT | No Risk, No Reward: Enterprise Risk Management Basics | Financial Poise | [Read More](https://medium.com/p/b12c59834eaf) |
-| Fri, 27 Feb 2026 14:20:33 GMT | The Small Garage Upgrade Most Homeowners Don’t Know They Need | Criminology Expert | [Read More](https://medium.com/p/c1e1afcb9b8d) |
-| Fri, 27 Feb 2026 14:01:01 GMT | Don’t You Want Someone? The Exhausting Truth About Trying to Move On | MJ-1604 | [Read More](https://medium.com/p/b24e030818c9) |
-| Fri, 27 Feb 2026 14:01:01 GMT | The Role of Strike Plates in Residential Lock Security - SLK | Sure Lock & Key LLC | [Read More](https://medium.com/p/6e12c7afc3d9) |
-| Fri, 27 Feb 2026 13:59:06 GMT | Threat Hunting in AWS Using Athena + VPC Flow Logs | Davebhargavi | [Read More](https://medium.com/p/5bce8d548a31) |
