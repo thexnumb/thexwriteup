@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Feb 2026 06:49:34 GMT | Top 10 Cybersecurity Threats in 2026 & How to Prevent Them | Ntech Global Solutions | [Read More](https://medium.com/p/4fdc7734eefa) |
+| Fri, 27 Feb 2026 06:48:49 GMT | Hands-on OSINT Investigation Using SOCMINT: Tracking a Suspicious Social Media Profile | pavani | [Read More](https://medium.com/p/09fd1d56bec9) |
+| Fri, 27 Feb 2026 06:46:30 GMT | Cyber Security Training for Beginners: A Complete Starter Guide | Gurjant Singh | [Read More](https://medium.com/p/8a2ec82a307e) |
+| Fri, 27 Feb 2026 06:45:11 GMT | How to Get into Cybersecurity from a Non-IT Background | Muhammad Haider Tallal | [Read More](https://medium.com/p/ace708892b00) |
+| Fri, 27 Feb 2026 06:42:53 GMT | The Minimal Website Formula Behind Fast, Safe, and Budget-Friendly Projects | Ann Taylor | [Read More](https://medium.com/p/fc4cf503f69c) |
+| Fri, 27 Feb 2026 06:42:07 GMT | Identity Is the New Perimeter | Cybersphere Official | [Read More](https://medium.com/p/2123bf054417) |
+| Fri, 27 Feb 2026 06:37:58 GMT | When the Chatbot Became the Weapon: The Mexico AI Hack and the Global Reckoning It Demands | CCD-IS | [Read More](https://medium.com/p/5b16e7d3e606) |
+| Fri, 27 Feb 2026 06:33:18 GMT | Best Web Development Companies in Nepal | Web House Nepal | [Read More](https://medium.com/p/fc5c19ad3d87) |
+| Fri, 27 Feb 2026 06:22:54 GMT | Building a Secure, Testable, and Reproducible Terraform Pipeline with Terratest, LocalStack… | Shilu | [Read More](https://medium.com/p/661356d0cd59) |
+| Fri, 27 Feb 2026 06:22:47 GMT | Investigasi Digital: Melacak Serangan Siber Melalui Email Berbahaya | Donysetyon | [Read More](https://medium.com/p/544d40a9ee92) |
+| Fri, 27 Feb 2026 06:22:32 GMT | TryHackMe - Network Security Essentials Task 7 Perimeter Logs Investigating the Breach (SIEM… | Birdv | [Read More](https://medium.com/p/a0588b072df7) |
+| Fri, 27 Feb 2026 06:18:01 GMT | Part 1: Cleaning Malicious “Hidden” Content & Div Injections | Raj (CISSP - CCSP - CISA - CRISC - ISO- PMP-AWS) | [Read More](https://medium.com/p/635cc9f0e946) |
+| Fri, 27 Feb 2026 06:17:36 GMT | How a Split-Source-of-Truth Bug Let Me Bypass a Commercial Trial | Vivek PS | [Read More](https://medium.com/p/fe880f141174) |
+| Fri, 27 Feb 2026 06:11:25 GMT | Anthropic Found 500 Zero-Day Vulnerabilities Using AI. | Ahmed M. Abdelfattah | [Read More](https://medium.com/p/472d359e78ac) |
+| Fri, 27 Feb 2026 06:10:47 GMT | Chain Link Fences in Saudi Arabia Reliable Perimeter Security for Industrial and Urban Growth | Hitechfence | [Read More](https://medium.com/p/271b8ac76fec) |
+| Fri, 27 Feb 2026 06:06:01 GMT | Data Centers and Power | 'Wine' Roland Mucciarelli | [Read More](https://medium.com/p/d0cf2343f717) |
+| Fri, 27 Feb 2026 06:02:55 GMT | Space and Satellite Cyber Attacks: The Next Frontier of Cyber Warfare | Cynox Security LLP. | [Read More](https://medium.com/p/f38ac517a4a0) |
+| Fri, 27 Feb 2026 05:58:57 GMT | From SSRF to AWS Pwnage: A Hacker’s Guide to Cloud-Native Exploits | Krishna Kumar | [Read More](https://medium.com/p/bc4621ebb048) |
+| Fri, 27 Feb 2026 05:50:35 GMT | The Evolution of Password Hashing: From Plain Text to Modern Secure Systems | Tejas Ghondage | [Read More](https://medium.com/p/96bb68bc51f1) |
+| Fri, 27 Feb 2026 05:40:42 GMT | You Say AI “Thinks.” That’s the First Mistake in Understanding How It Works. | Vipin Singh Bagri | [Read More](https://medium.com/p/103c9bdc5f6a) |
+| Fri, 27 Feb 2026 05:25:37 GMT | What is Rejection Sampling and Why is it important for Lattice Cryptography? | Gokul B Alex | [Read More](https://medium.com/p/ceec2f5a1324) |
 | Fri, 27 Feb 2026 05:21:52 GMT | MITRE ATT&CK: Turning Cyber Threats Into Understandable Intelligence | Zefai Insights | [Read More](https://medium.com/p/09b50938591e) |
 | Fri, 27 Feb 2026 05:21:37 GMT | A Technical Reconstruction of the xz Supply-Chain Attack | Shubham Rath | [Read More](https://medium.com/p/5b3479f2cbf5) |
 | Fri, 27 Feb 2026 05:12:19 GMT | The AI Agent: The New Employee Who Never Sleeps and Never Asks for a Raise | Sakti Bagchi | [Read More](https://medium.com/p/b5d7556a905c) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Feb 2026 21:15:45 GMT | Advent of The Relics 1 — A Call from the Museum | ridzt | [Read More](https://medium.com/p/7435b5171b0c) |
 | Thu, 26 Feb 2026 21:15:43 GMT | awsmap v1.5.0: Your AWS Inventory Now Has a Brain | Tarek CHEIKH | [Read More](https://medium.com/p/2c253f9b23cd) |
 | Thu, 26 Feb 2026 21:13:45 GMT | Distillation Attacks | Ratnadeep Dey Roy | [Read More](https://medium.com/p/2e9b31f08f91) |
-| Thu, 26 Feb 2026 21:10:47 GMT | Threat Is a Trajectory, NOT a Type | Kevin Schell | [Read More](https://medium.com/p/7cb86f249eff) |
-| Thu, 26 Feb 2026 21:09:19 GMT | Advent of The Relics 2 — Operation Winter Blackout | ridzt | [Read More](https://medium.com/p/dee8cf7c71cf) |
-| Thu, 26 Feb 2026 21:01:54 GMT | Authentication vs Authorization in Azure — Explained Simply | CloudWithAarya | [Read More](https://medium.com/p/638ed85ef62a) |
-| Thu, 26 Feb 2026 20:56:53 GMT | Pen-testing a Prod H3C Private Environment in 2026: Complete Redacted Findings & Pentester Playbook | suicidal_teddy | [Read More](https://medium.com/p/959df1746516) |
-| Thu, 26 Feb 2026 20:56:16 GMT | Lab: Reflected XSS into a JavaScript string with angle brackets HTML encoded | mayhack | [Read More](https://medium.com/p/56ed2d1021e8) |
-| Thu, 26 Feb 2026 20:46:00 GMT | The Neuroscience of Cybercrime: What Makes a Hacker’s Mind Different? | Prisha Patel | [Read More](https://medium.com/p/c24047b19a71) |
-| Thu, 26 Feb 2026 20:36:23 GMT | CLAVI FAQ 2026: The Definitive Guide to CLAVI Switzerland AG’s Sovereign Self-Custody Platform | The Swiss Expert | [Read More](https://medium.com/p/964f3c794a93) |
-| Thu, 26 Feb 2026 20:34:48 GMT | Understanding Least Privilege Through a Windows User Account | Grace Jaman | [Read More](https://medium.com/p/d6d04618df3d) |
-| Thu, 26 Feb 2026 20:25:32 GMT | The Internet was Weeks away from Disaster | Gayathry Dasika | [Read More](https://medium.com/p/b377bbba4c43) |
-| Thu, 26 Feb 2026 20:23:42 GMT | DotnetFastMCP: Enforcing Multi-Factor Authentication (MFA) for Critical AI Tools ️ | Gagan Bajaj | [Read More](https://medium.com/p/338884f0bb30) |
-| Thu, 26 Feb 2026 20:21:05 GMT | The Era of Agentic Warfare | Kawser Ayoub | [Read More](https://medium.com/p/100a5f9f5822) |
-| Thu, 26 Feb 2026 20:20:57 GMT | TryHackMe Module Metasploit | U S A N | [Read More](https://medium.com/p/6f421158dc8c) |
-| Thu, 26 Feb 2026 20:20:29 GMT | Cyber Defenders : Webstrike Lab Question and How to Solved | irvan wahyudin | [Read More](https://medium.com/p/4fa1fca68199) |
-| Thu, 26 Feb 2026 20:10:43 GMT | From Social Engineering to Societal Design: The Architects of Perception | Ziya Gokalp | [Read More](https://medium.com/p/21458d6987ee) |
-| Thu, 26 Feb 2026 20:09:09 GMT | The Great Indian Intelligence Crisis | Samar Haldey | [Read More](https://medium.com/p/3171a300e3bc) |
-| Thu, 26 Feb 2026 20:07:42 GMT | Deprecating Yield DTF Batch Auctions: EasyAuction.sol Division-by-Zero | Patrick Mckelvy | [Read More](https://medium.com/p/85fd10212c97) |
-| Thu, 26 Feb 2026 20:01:23 GMT | When Automation in SOC Helps — and When It Hurts | JSOC IT BLOG | [Read More](https://medium.com/p/3de1783dc46a) |
-| Thu, 26 Feb 2026 20:01:00 GMT | The Worst Wi-Fi Security Advice I Found on Facebook (And Why It’s a Hacker’s Dream) | freerave | [Read More](https://medium.com/p/bebfcf1e86fb) |
-| Thu, 26 Feb 2026 19:54:12 GMT | Design of a Remote-Control Trojan Program Suitable for Beginner-Level Information Security Learners | Wisdomapple | [Read More](https://medium.com/p/549a91fd3f30) |
-| Thu, 26 Feb 2026 19:29:10 GMT | PostgreSQL Hardening Guide | SOCFortress | [Read More](https://medium.com/p/8b8554e22336) |
-| Thu, 26 Feb 2026 19:24:37 GMT | Anonymous — TryHackMe Writeup | Hemantha Krishna Challa | [Read More](https://medium.com/p/7727401d444e) |
