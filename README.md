@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Feb 2026 17:56:06 GMT | Jia Tan, Andrew Freund, and the night a tiny backdoor almost slipped into the internet | Arjun Hayes | [Read More](https://medium.com/p/ff49d5c0b5ce) |
+| Fri, 27 Feb 2026 17:53:43 GMT | “Any lawful use” meets data fusion: why Anthropic drew a line | Victor Alejandria | [Read More](https://medium.com/p/379c43652328) |
+| Fri, 27 Feb 2026 17:48:53 GMT | The $25 Per Million Token Accomplice: How Claude Hacked a Government and Validated Our Autonomous… | Trinitite | [Read More](https://medium.com/p/a087c325b20a) |
+| Fri, 27 Feb 2026 17:48:14 GMT | Try Hack Me- HTTP in Detail Walkthrough | PulseEinher | [Read More](https://medium.com/p/a6c1d4383f40) |
+| Fri, 27 Feb 2026 17:48:11 GMT | Planning an AI Red Team Exercise | Naveen Murugan | [Read More](https://medium.com/p/741563425391) |
+| Fri, 27 Feb 2026 17:47:12 GMT | Week 3 HTB-Sherlock Brutus | Artha Bangkit Auliano | [Read More](https://medium.com/p/44bb0bbbed63) |
+| Fri, 27 Feb 2026 17:45:46 GMT | Authentication & Authorization: A Practical Guide for Web Developers | Mubashir | [Read More](https://medium.com/p/3969e3c25c9c) |
+| Fri, 27 Feb 2026 17:45:10 GMT | The Digital Battlefield: A Student’s Guide to Ethical Hacking and AI-Powered Defense
+​By [Your… | Muhammad Sohaib Qamar | [Read More](https://medium.com/p/be7318487a5f) |
+| Fri, 27 Feb 2026 17:43:45 GMT | The Rise of Agentic AI: Why Automated Pentesting Is Our Best Defense | Len Noe | [Read More](https://medium.com/p/8ab822daef18) |
+| Fri, 27 Feb 2026 17:42:40 GMT | Threat Actors Build an Active Phishing Empire Targeting Ghana’s Entire Banking Sector | Prince Lassey | [Read More](https://medium.com/p/db56f06cf50a) |
+| Fri, 27 Feb 2026 17:38:35 GMT | TryHackMe: Offensive Security Intro Walkthrough | hazmatmonstarrr | [Read More](https://medium.com/p/7f1c43c17096) |
+| Fri, 27 Feb 2026 17:37:23 GMT | Beyond Web Apps: A Complete Guide to Thick Client Application Security Testing | Pratik Solanki | [Read More](https://medium.com/p/d6547e00ae5f) |
+| Fri, 27 Feb 2026 17:26:37 GMT | The Ultimate TryHackMe Roadmap: Don’t Start Your Cybersecurity Journey Without Playing These Rooms… | Motasem Hamdan | [Read More](https://medium.com/p/f4b60f2b594c) |
+| Fri, 27 Feb 2026 17:23:08 GMT | Broken Access Control: From IDOR to Privilege Escalation | vamos | [Read More](https://medium.com/p/dbb76b0b839e) |
+| Fri, 27 Feb 2026 17:19:47 GMT | Tech#53 — NextSaaS: “Would Your SaaS Pass a Security Audit? (Honest Checklist) | Vikkas Arun Pareek | [Read More](https://medium.com/p/c168a49f735c) |
+| Fri, 27 Feb 2026 17:11:32 GMT | vtrains:This is a control panel based on Whisper. | Мартин. | [Read More](https://medium.com/p/e7f0ee2d94da) |
+| Fri, 27 Feb 2026 17:03:28 GMT | PRISM’den Algoritmalara: Sosyal Medya Bir Gözetim Aracı mı? | Hakan ÇEVİK | [Read More](https://medium.com/p/8495cac5c96c) |
+| Fri, 27 Feb 2026 17:01:58 GMT | The first feedback at work and how it taught me a lesson to never forget | Robson Zacarias | [Read More](https://medium.com/p/8cc5fc866733) |
+| Fri, 27 Feb 2026 17:01:01 GMT | Cybersecurity Awareness Scenario #2 | Devore McIntosh | [Read More](https://medium.com/p/668f36cb9c9c) |
+| Fri, 27 Feb 2026 17:00:51 GMT | We learned that ethical hacking is not about breaking systems for harm, but about protecting… | Jksantak | [Read More](https://medium.com/p/94ef75ca121f) |
+| Fri, 27 Feb 2026 16:58:57 GMT | Best Ring Compatible Smart Locks — Ultimate Guide (2026) | Narjis Arshad | [Read More](https://medium.com/p/49d0c715c990) |
 | Fri, 27 Feb 2026 16:57:00 GMT | Lab: Basic server-side template injection (code context) - PortSwigger | SIGKILLers | [Read More](https://medium.com/p/e7af67f193c6) |
 | Fri, 27 Feb 2026 16:55:46 GMT | Scheme Catcher — AOC Side Quest TryHackme | Jatin Gahlot | [Read More](https://medium.com/p/2ce5846ba45c) |
 | Fri, 27 Feb 2026 16:52:58 GMT | Bootcamp IDN Week 2: Advent of The Relics (AoTR) 1 & 2 — A Call from the Museum | EnruRamadhan | [Read More](https://medium.com/p/b08753e52f09) |
@@ -91,24 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Feb 2026 13:23:46 GMT | RazorBlack TryHackMe Walkthrough | Contact Aryan Here | [Read More](https://medium.com/p/4bd11c05ac91) |
 | Fri, 27 Feb 2026 13:21:57 GMT | xZeroProtect: A File-Based PHP Firewall With No External Dependencies | BEN | [Read More](https://medium.com/p/f4317998686d) |
 | Fri, 27 Feb 2026 13:18:33 GMT | I Built a Local Logwatch Analyzer with Ollama So I Can Sleep Better | Bruno Santos | [Read More](https://medium.com/p/035c6c5a73ef) |
-| Fri, 27 Feb 2026 13:18:20 GMT | Information disclosure in version control history - Portswigger Web Security Academy Lab | Amrik Hore | [Read More](https://medium.com/p/b8d18e18e811) |
-| Fri, 27 Feb 2026 13:17:41 GMT | Recognition and enumeration: the true power of the hacker who understands before acting | Devilman24 | [Read More](https://medium.com/p/79d65d3a2abd) |
-| Fri, 27 Feb 2026 13:17:32 GMT | Privacy and Security in Healthcare: An QA Guide by QASource | timothy joseph | [Read More](https://medium.com/p/801aec3dc20b) |
-| Fri, 27 Feb 2026 13:16:51 GMT | Why Engineers Already Know How to Fix Cybersecurity | Peter Hillier/Halton | [Read More](https://medium.com/p/c23841373c2f) |
-| Fri, 27 Feb 2026 13:12:26 GMT | Hunting in the Dark Forest: How I Uncovered a Private $25M Simulation Fork via an RPC… | Hacker MD | [Read More](https://medium.com/p/4b4193f90ac5) |
-| Fri, 27 Feb 2026 13:05:44 GMT | stuck in maybe | Yanyan | [Read More](https://medium.com/p/21278df20aad) |
-| Fri, 27 Feb 2026 13:03:46 GMT | Contact AVG Customer Service UK | Zuerevalexander | [Read More](https://medium.com/p/6bc523b8408c) |
-| Fri, 27 Feb 2026 12:56:05 GMT | The Compliance Trap | O. J. Okpabi | [Read More](https://medium.com/p/42976fe9c1b6) |
-| Fri, 27 Feb 2026 12:53:18 GMT | Contact McAfee Customer Service UK | Zuerevalexander | [Read More](https://medium.com/p/122cfa7ef8cd) |
-| Fri, 27 Feb 2026 12:48:57 GMT | Hacking Blind: Terminating TCP Connections Without Sniffing | Saadan ashraf | [Read More](https://medium.com/p/9d9e7208548f) |
-| Fri, 27 Feb 2026 12:45:01 GMT | Understanding IDOR (Insecure Direct Object Reference) | Mansi Sharma | [Read More](https://medium.com/p/b99690842319) |
-| Fri, 27 Feb 2026 12:41:19 GMT | Why Judgment Will Outlast Every AI Breakthrough | Anil Jangra, MBA | [Read More](https://medium.com/p/ce25fd39a916) |
-| Fri, 27 Feb 2026 12:41:07 GMT | RSA oracle guide (PicoCTF) | gabbage | [Read More](https://medium.com/p/54372033eadb) |
-| Fri, 27 Feb 2026 12:35:54 GMT | OpenClaw: What I Learned Hardening a 3-Month-Old AI System That Breaks Often | Mariano Mattei | [Read More](https://medium.com/p/c4bd7ba34795) |
-| Fri, 27 Feb 2026 12:33:58 GMT | The Next Attack Surface Is Your Attention | Michael Kraft | [Read More](https://medium.com/p/74e4eeec01d4) |
-| Fri, 27 Feb 2026 12:33:57 GMT | Crack the Gate 2 — picoCTF Writeup | mayhack | [Read More](https://medium.com/p/3fe35153dad3) |
-| Fri, 27 Feb 2026 12:30:02 GMT | From ACM to ALB: A Step-by-Step Guide to Managed TLS/SSL in EKS Auto Mode | Dickson Victor Omasi | [Read More](https://medium.com/p/ca66cc0da72f) |
-| Fri, 27 Feb 2026 12:25:11 GMT | WebStrike Lab | Abdullah Fatih  Al Huda | [Read More](https://medium.com/p/8f5f6a8aa412) |
-| Fri, 27 Feb 2026 12:15:13 GMT | Threat Intelligence in Incident Response: Turning Data into Action | NetWitness | [Read More](https://medium.com/p/a4ef6a38cd89) |
-| Fri, 27 Feb 2026 12:14:21 GMT | Quantum Computers Will Break the Internet’s Locks | Phanindra Baddula | [Read More](https://medium.com/p/6b63cbae991a) |
-| Fri, 27 Feb 2026 12:08:36 GMT | PCI DSS v4.0 Is Not an Upgrade. It Is a Rethink. | Gee Kibwana | [Read More](https://medium.com/p/b798258e75ef) |
