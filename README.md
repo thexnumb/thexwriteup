@@ -12,7 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Feb 2026 09:36:38 GMT | Unmasking Network Infrastructure Through TTL Analysis. | Kobla Edem | [Read More](https://medium.com/p/3ba6790e2a15) |
+| Fri, 27 Feb 2026 09:31:00 GMT | I Tested Both Password Managers for 6 Months. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/c8e7601967f6) |
+| Fri, 27 Feb 2026 09:31:00 GMT | Mr. Phisher - TryHackMe Write-up | iIyas | [Read More](https://medium.com/p/6e070b25cd81) |
+| Fri, 27 Feb 2026 09:26:17 GMT | How Internet Security Works: TLS, HTTPS & Certificates | ShreehariMenon | [Read More](https://medium.com/p/a457882ce28f) |
+| Fri, 27 Feb 2026 09:23:38 GMT | WP-Hunter: Smarter WordPress Recon with Heuristic Scoring + Semgrep SAST | Ali Sünbül (xeloxa) | [Read More](https://medium.com/p/e006fae619f9) |
+| Fri, 27 Feb 2026 09:23:27 GMT | Architectural Asymmetry in Authentication: Part 2 — Risk Before Context | Anton Minin Baranovskii | [Read More](https://medium.com/p/4ab46766bf63) |
+| Fri, 27 Feb 2026 09:18:23 GMT | HackTheBox — AoTR 2 : Operation Winter Blackout | 0w0 | [Read More](https://medium.com/p/4d7422f796d4) |
+| Fri, 27 Feb 2026 09:18:21 GMT | Secure Cloud Storage for Small Businesses: The Complete 2026 Guide | Cloudegytechnology | [Read More](https://medium.com/p/480e3e3445ce) |
+| Fri, 27 Feb 2026 09:17:56 GMT | Carlos Didn’t Make a Mistake. The AI Did……….. | TEJAS | [Read More](https://medium.com/p/076941be742a) |
+| Fri, 27 Feb 2026 09:16:00 GMT | Why Thinking Before You Post Online Is One of the Smartest Digital Habits You Can Build | Divine Egyabeng | [Read More](https://medium.com/p/c40f7a3e5177) |
+| Fri, 27 Feb 2026 09:06:00 GMT | Investigasi Forensik Digital: Membongkar Forum Kriminal Dalam Operasi Winter Blackout | Donysetyon | [Read More](https://medium.com/p/372906a59fb7) |
+| Fri, 27 Feb 2026 09:03:06 GMT | DockerLabs Writeup — Fooding (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/12d13664aa45) |
+| Fri, 27 Feb 2026 09:01:04 GMT | I Checked 10 Random Companies for Leaked Credentials. All 10 Were Exposed. | Alexandre Vandamme | [Read More](https://medium.com/p/30e425471b81) |
+| Fri, 27 Feb 2026 09:00:41 GMT | The Minimal Website Formula Behind Fast, Safe, and Budget-Friendly Projects | Andy | [Read More](https://medium.com/p/96c1c1fd51be) |
+| Fri, 27 Feb 2026 08:58:22 GMT | Why Professional Alarm Response Services Are Essential for Your Business | Secure 24 Seven | [Read More](https://medium.com/p/d1d647a824af) |
+| Fri, 27 Feb 2026 08:49:50 GMT | How I Built a Bank-Grade Emulator Detector to Stop Hackers Dead — Part 1 | Harrison Kuria | [Read More](https://medium.com/p/e4ac14aa75ab) |
+| Fri, 27 Feb 2026 08:45:30 GMT | JWT Authentication Bypass Using HackUtils — PortSwigger Lab Walkthrough | Fabian Peña | [Read More](https://medium.com/p/1cf06bf817e7) |
+| Fri, 27 Feb 2026 08:45:26 GMT | The Reverse Gear of AI: Why the Future Belongs to the “AI Firewall” | Miksi | [Read More](https://medium.com/p/136964683474) |
+| Fri, 27 Feb 2026 08:42:20 GMT | How I Bypassed Email Verification on a Bug Bounty Target Using Just a Browser | Josekutty Kunnelthazhe Binu | [Read More](https://medium.com/p/f10b4e5210ff) |
+| Fri, 27 Feb 2026 08:38:55 GMT | Global and Regional Headlines Shaping Today: A Trend-Driven Overview | Saqib Bhatti | [Read More](https://medium.com/p/a5b1520bdf45) |
 | Fri, 27 Feb 2026 08:35:46 GMT | Yapay Zeka Sızma Testi (AI Pentest) ve AI Red Teaming | Hazar Taspinar | [Read More](https://medium.com/p/e9880d109f5a) |
+| Fri, 27 Feb 2026 08:35:00 GMT | The Complete Guide to Choosing a Tripod Turnstile for Your Facility | Etradefia | [Read More](https://medium.com/p/3cdc1ebfa829) |
 | Fri, 27 Feb 2026 08:30:31 GMT | India’s SIM-Binding Rule: A New Era of Digital Identity Enforcement | Ankit rai | [Read More](https://medium.com/p/932c96dcab0b) |
 | Fri, 27 Feb 2026 08:23:52 GMT | “Bug Bounty Bootcamp #25: Local File Disclosure — Breaking Out of the Web Root to Steal Server… | Aman Sharma | [Read More](https://medium.com/p/3bce67264df0) |
 | Fri, 27 Feb 2026 08:22:01 GMT | HackTheBox — AoTR 2 : Operation Winter Blackout | Shiro | [Read More](https://medium.com/p/90f6e7bd036c) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Feb 2026 02:19:57 GMT | Red Teaming Large Language Models: How to Break AI Before Attackers Do | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/ad3f6a8c3dde) |
 | Fri, 27 Feb 2026 02:15:13 GMT | 15 JavaScript Tricks That Make Your Code Slower | CodeByUmar | [Read More](https://medium.com/p/b16dbe63198c) |
 | Fri, 27 Feb 2026 02:14:40 GMT | Most Pentest Reports Answer the Wrong Questions for the Wrong People | Louis Sanchez | [Read More](https://medium.com/p/4edfe500cb32) |
-| Fri, 27 Feb 2026 02:05:00 GMT | Why Jio Blocking Supabase Is a Bigger Problem Than It Looks | SOVANNARO | [Read More](https://medium.com/p/6a4c442d7b15) |
-| Fri, 27 Feb 2026 02:01:01 GMT | 133rd Monthly Technical Session | Simon Juba | [Read More](https://medium.com/p/415cff942cda) |
-| Fri, 27 Feb 2026 01:50:41 GMT | 9 JavaScript Patterns That Reduce Bugs Before They Exist | CodeByUmar | [Read More](https://medium.com/p/93e029069487) |
-| Fri, 27 Feb 2026 01:31:00 GMT | 9 Redaction Failures That Still Leak Meaning in RAG | Quaxel | [Read More](https://medium.com/p/f82c160196d6) |
-| Fri, 27 Feb 2026 01:31:00 GMT | 7 Prompt Injections Hiding in PDFs and Screenshots | Modexa | [Read More](https://medium.com/p/bbe38b17ee14) |
-| Fri, 27 Feb 2026 01:26:00 GMT | The Hidden Language of “Cries for Help” We All Use | Xiaochen | [Read More](https://medium.com/p/0894193131a1) |
-| Fri, 27 Feb 2026 01:14:31 GMT | The Digital Dexter: He Learned Hebrew in the U.S Air Force. Now He Hunts Child Predators Online. | Jess B, Investigator | [Read More](https://medium.com/p/d7fa15b11a6e) |
-| Fri, 27 Feb 2026 00:48:16 GMT | Samsung Galaxy S26 Ultra and the Privacy Shield Dilemma: An Engineering Triumph That Unbalanced… | Thauan Andrade | [Read More](https://medium.com/p/68fc9616bbcb) |
-| Fri, 27 Feb 2026 00:41:21 GMT | Where Sadness and Insecurity Go on a Date | LinaLi | [Read More](https://medium.com/p/e1be0a53280d) |
-| Fri, 27 Feb 2026 00:41:04 GMT | The Loudest Silence in the Room | LinaLi | [Read More](https://medium.com/p/5f54f3ab413d) |
-| Fri, 27 Feb 2026 00:36:44 GMT | How Honest Do I Need to Be? | noonseol’s journey | [Read More](https://medium.com/p/5ac76f7d3830) |
-| Fri, 27 Feb 2026 00:06:02 GMT | Exploiting HTTP request smuggling to bypass front-end security controls, CL.TE vulnerability | Ⓥ | [Read More](https://medium.com/p/db659c05bf2a) |
-| Fri, 27 Feb 2026 00:05:38 GMT | HTTP request smuggling, confirming a CL.TE vulnerability via differential responses | Ⓥ | [Read More](https://medium.com/p/0309d2335a35) |
-| Fri, 27 Feb 2026 00:02:29 GMT | Cisco SD-WAN Is Actively Exploited by UAT-8616 | SOCFortress | [Read More](https://medium.com/p/84530e467ba5) |
-| Fri, 27 Feb 2026 00:01:02 GMT | Why Behavioral Bot Detection Is Becoming Essential in 2026 | STCLab, Inc. | [Read More](https://medium.com/p/48f9f5671981) |
-| Fri, 27 Feb 2026 00:01:01 GMT | Guía de Netcat para Pentesting: Comandos, Reverse Shells y Exfiltración | JPablo13 | [Read More](https://medium.com/p/0faaf51cb703) |
-| Thu, 26 Feb 2026 23:23:45 GMT | Team dark-4rmy Laps | Ahmed Abdelnasser | [Read More](https://medium.com/p/b1aab7b0dbe7) |
-| Thu, 26 Feb 2026 23:14:49 GMT | Day 13 : Wordpress HTB room | Cybersecurity with Jojo | [Read More](https://medium.com/p/b1f453b56135) |
-| Thu, 26 Feb 2026 23:13:45 GMT | So Anthropic Just Accused Three Chinese AI Labs of Stealing From Claude. I Have Questions. | Vikas Sharma | [Read More](https://medium.com/p/c76565b04254) |
-| Thu, 26 Feb 2026 23:08:07 GMT | Benarkah Pesan Enkripsi Mudah Digunakan Bagi Pengguna Umum | Abdul Halim Ichwan | [Read More](https://medium.com/p/dc7a9abe922b) |
-| Thu, 26 Feb 2026 23:02:48 GMT | Professional Cyber Security Services for Brisbane & Townsville Businesses | Adits Australia | [Read More](https://medium.com/p/f8b4ffb2b6bf) |
