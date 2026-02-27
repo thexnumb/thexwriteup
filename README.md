@@ -12,10 +12,34 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Feb 2026 16:57:00 GMT | Lab: Basic server-side template injection (code context) - PortSwigger | SIGKILLers | [Read More](https://medium.com/p/e7af67f193c6) |
+| Fri, 27 Feb 2026 16:55:46 GMT | Scheme Catcher — AOC Side Quest TryHackme | Jatin Gahlot | [Read More](https://medium.com/p/2ce5846ba45c) |
+| Fri, 27 Feb 2026 16:52:58 GMT | Bootcamp IDN Week 2: Advent of The Relics (AoTR) 1 & 2 — A Call from the Museum | EnruRamadhan | [Read More](https://medium.com/p/b08753e52f09) |
+| Fri, 27 Feb 2026 16:52:06 GMT | ⏱️️ Timelapse — One Certificate. Full Compromise | Jabaribrown | [Read More](https://medium.com/p/291f85b551a3) |
+| Fri, 27 Feb 2026 16:46:50 GMT | 2026 Siber Saldırıları Part-5 | Zekikayaalp | [Read More](https://medium.com/p/6e949ea4fc5e) |
+| Fri, 27 Feb 2026 16:43:31 GMT | SIEM Nedir ve Nasıl Çalışır? | Mehdican Büyükplevne | [Read More](https://medium.com/p/35aada2f83d4) |
+| Fri, 27 Feb 2026 16:40:12 GMT | Dropping Shells from the Mosh Pit: A Lesson in Zero-Trust and Remote Pivoting | Prateek Sharma | [Read More](https://medium.com/p/0a1253818f5c) |
+| Fri, 27 Feb 2026 16:37:19 GMT | Top Benefits of CCTV Cameras for Small Businesses | AlexBryn | [Read More](https://medium.com/p/ae3793c58742) |
+| Fri, 27 Feb 2026 16:35:42 GMT | ERP Legacy, migration Cloud ou modernisation agile : le vrai coût comparé | TSplus Academy | [Read More](https://medium.com/p/958d73606175) |
+| Fri, 27 Feb 2026 16:35:35 GMT | How the Xbox Was Hacked in the 2000s — And Why the Lessons Still Matter Today | Cordula Boeck | [Read More](https://medium.com/p/6883faccefee) |
+| Fri, 27 Feb 2026 16:35:32 GMT | Hidden Deep Inside My Heart(tryhackme web vulnerability room) | Jaiakassh Sathish | [Read More](https://medium.com/p/e8270e9aa47a) |
+| Fri, 27 Feb 2026 16:31:39 GMT | APT3 vs APT29: A Comparative Cyber Threat Intelligence Analysis Using MITRE ATT&CK | Pranav More | [Read More](https://medium.com/p/2861cfee68fb) |
+| Fri, 27 Feb 2026 16:31:19 GMT | The Price for Intelligence | Pratikshit Chowdhury | [Read More](https://medium.com/p/59205b4ceb0b) |
+| Fri, 27 Feb 2026 16:27:42 GMT | IPv6 Is Not Just Bigger Addresses — It Quietly Fixes 40 Years of IPv4 Security Problems | Gajanan Tayde | [Read More](https://medium.com/p/083edd83b1b5) |
+| Fri, 27 Feb 2026 16:25:13 GMT | The bus just left, and it’s okay | Hugo Pan | [Read More](https://medium.com/p/9fb066131afa) |
+| Fri, 27 Feb 2026 16:24:21 GMT | Salesforce Managed Services: A Strategic Growth Engine for Modern Enterprises | Abhaya | [Read More](https://medium.com/p/3faf58c7690a) |
+| Fri, 27 Feb 2026 16:14:34 GMT | CONSENT IS THE NEW SECURITY LAYER | NanoChain | [Read More](https://medium.com/p/719c97625cbd) |
+| Fri, 27 Feb 2026 16:11:00 GMT | How to Tell if a Man Is Reliable: 3 Warning Signs You Can’t Ignore | Riva Smith | [Read More](https://medium.com/p/416a04a6f208) |
+| Fri, 27 Feb 2026 16:08:28 GMT | CVE-2025–55182 (React2Shell): Vulnerable Docker Container with Deep-Dive Detection/Exploitation… | Josh Beck | [Read More](https://medium.com/p/c1be639bb428) |
+| Fri, 27 Feb 2026 16:06:57 GMT | TryHackMe - Compiled — Write-Up | GHOST PORT | [Read More](https://medium.com/p/12f7884662f4) |
+| Fri, 27 Feb 2026 16:04:06 GMT | 50K Downloads Later: What the “ambar-src” NPM Attack Taught Me About DevSecOps | Harshit Nagila | [Read More](https://medium.com/p/9732960f7566) |
+| Fri, 27 Feb 2026 16:00:28 GMT | Preparing for a Panel of Technical Interviews | Dominic Aquilina | [Read More](https://medium.com/p/47377f54a12a) |
 | Fri, 27 Feb 2026 15:54:33 GMT | Ransomware Is a Billion-Dollar Industry | Timsux Wales | [Read More](https://medium.com/p/5f1689d27454) |
+| Fri, 27 Feb 2026 15:53:32 GMT | Next.js Feels Mature, and That Comes With TradeOffs | Vinit K | [Read More](https://medium.com/p/1fc5a95544ca) |
 | Fri, 27 Feb 2026 15:51:28 GMT | Odido Data Breach Highlights Persistent Telecom & Customer Data Risks | Chetan Seripally | [Read More](https://medium.com/p/eb16201416bb) |
 | Fri, 27 Feb 2026 15:50:24 GMT | Exploiting an Exported Android Activity via Intent Injection | Bharathkannan | [Read More](https://medium.com/p/466df8b05912) |
 | Fri, 27 Feb 2026 15:48:54 GMT | Operating System and Linux Explained Simply | Kswzahidali | [Read More](https://medium.com/p/32cf7c830309) |
+| Fri, 27 Feb 2026 15:39:13 GMT | Documentação Ritual — EVM++ Sidecars — Chamadas de Rede (Network Calls) | Thomas Fiorio | [Read More](https://medium.com/p/11fe82049e12) |
 | Fri, 27 Feb 2026 15:37:33 GMT | From Student to Ethical Hacker: My 2026 Journey Into Cybersecurity | Kswzahidali | [Read More](https://medium.com/p/8dff839cd710) |
 | Fri, 27 Feb 2026 15:37:18 GMT | How OSINT Researchers Use Twitter Viewers in 2026 | Peter Anderson | [Read More](https://medium.com/p/6c704a808757) |
 | Fri, 27 Feb 2026 15:36:42 GMT | Professional Security Camera Installation & CCTV Services in Queens, Manhattan, Bronx & Long Island… | Seonitinsandlus | [Read More](https://medium.com/p/4faf0490b9a1) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Feb 2026 12:15:13 GMT | Threat Intelligence in Incident Response: Turning Data into Action | NetWitness | [Read More](https://medium.com/p/a4ef6a38cd89) |
 | Fri, 27 Feb 2026 12:14:21 GMT | Quantum Computers Will Break the Internet’s Locks | Phanindra Baddula | [Read More](https://medium.com/p/6b63cbae991a) |
 | Fri, 27 Feb 2026 12:08:36 GMT | PCI DSS v4.0 Is Not an Upgrade. It Is a Rethink. | Gee Kibwana | [Read More](https://medium.com/p/b798258e75ef) |
-| Fri, 27 Feb 2026 12:01:01 GMT | AI ER Triage Can Block a CT Slot — How It Saves Lives and Misses Some | James Kuhman | [Read More](https://medium.com/p/b434539df6d5) |
-| Fri, 27 Feb 2026 12:00:26 GMT | The AI Security Illusion: Why “Capability” is No Longer the Metric That Matters | Arafat Ansari | [Read More](https://medium.com/p/cb5e87d82e2f) |
-| Fri, 27 Feb 2026 11:55:00 GMT | Forbidden Paths-picoCTF | Vishvambhar ranoshe | [Read More](https://medium.com/p/733c8904a4ac) |
-| Fri, 27 Feb 2026 11:52:14 GMT | AI-Driven Penetration Testing with Kali Linux & Claude — Part 1: Infrastructure Setup | Priyanshu Manash | [Read More](https://medium.com/p/81b6e79d5ae4) |
-| Fri, 27 Feb 2026 11:38:50 GMT | Vibe Coding Cleanup Industry is Already Here | Timothy Neale | [Read More](https://medium.com/p/f90f06aade3f) |
-| Fri, 27 Feb 2026 11:38:23 GMT | Cap Htb Writeup | Songül Kızılay Özügürler | [Read More](https://medium.com/p/407ab0bf17be) |
-| Fri, 27 Feb 2026 11:38:12 GMT | How API Pen-Testers Approach Systems: Tools, Mindset, and Methodology | Endework abera | [Read More](https://medium.com/p/798a21bc7307) |
-| Fri, 27 Feb 2026 11:36:00 GMT | The $2.3 Million Lesson Hidden in 14 Lines of Code | Cyphersilhouette | [Read More](https://medium.com/p/8d0f4b083684) |
-| Fri, 27 Feb 2026 11:32:06 GMT | Day 9 — Breaking Login With a Single Quote (SQL Injection Begins) | Issan | [Read More](https://medium.com/p/afa7828e73aa) |
-| Fri, 27 Feb 2026 11:22:00 GMT | Why DevOps will be the most Valuable Skill for Developers in an AI-Driven Future | Olamigoke Philip A | [Read More](https://medium.com/p/8c0df39d160b) |
-| Fri, 27 Feb 2026 11:18:32 GMT | Why NDR (Network Detection and Response) Is No Longer Optional Today | NetWitness | [Read More](https://medium.com/p/dc47bd2d6dd3) |
-| Fri, 27 Feb 2026 11:17:08 GMT | Why Keycloak Should Be the Security Backbone of Your MCP Architecture | Rohit Goyal | [Read More](https://medium.com/p/e80257dd590e) |
-| Fri, 27 Feb 2026 11:12:06 GMT | SOAP picoCTF Web Exploitation Medium Challenge - XXE Injection | Fadil Adzima | [Read More](https://medium.com/p/8ede79960819) |
-| Fri, 27 Feb 2026 11:08:30 GMT | The 3:00 AM Extinction Event: Why Your IT Team Is Already Too Late | ProfitShield AI | [Read More](https://medium.com/p/86e24b9a063c) |
-| Fri, 27 Feb 2026 11:06:56 GMT | Why is the “Update” Button The Most Dangerous Attacker? (Change Management) | Mahdi | [Read More](https://medium.com/p/9d719928e54d) |
-| Fri, 27 Feb 2026 11:06:16 GMT | The Importance of VPNs in Today’s Digital Era: Spotlight on TunnelDeck | Tunneldeck | [Read More](https://medium.com/p/4368245bf070) |
-| Fri, 27 Feb 2026 11:06:00 GMT | 8 Tabletop Mistakes That Create False Confidence | Tyson Martin | [Read More](https://medium.com/p/779fe846d4f6) |
-| Fri, 27 Feb 2026 11:03:30 GMT | From Coffee Shops to Centrifuges: The Modern Cyber War Stories | Genrunic | [Read More](https://medium.com/p/bedf89a435fd) |
-| Fri, 27 Feb 2026 10:59:19 GMT | AI Didn’t Replace the Human. It Replaced the Human Who Was Already a Wrapper | Jayal Yadav | [Read More](https://medium.com/p/0c20b47a98d7) |
-| Fri, 27 Feb 2026 10:57:30 GMT | Founder Insecure Design: When You Build Empires on Borrowed Ground | Jayal Yadav | [Read More](https://medium.com/p/4dc3e0d8e7cf) |
-| Fri, 27 Feb 2026 10:56:03 GMT | Zooty x YSC Event Blog - 08th Feb 2026 - Delhi | Akhil Gupta | [Read More](https://medium.com/p/9f2bc38b2665) |
-| Fri, 27 Feb 2026 10:49:14 GMT | ️ Leveling Up: Web Security Essentials | Chamith Sirisena | [Read More](https://medium.com/p/eeb2f29e2891) |
-| Fri, 27 Feb 2026 10:46:31 GMT | Ensuring Safety and Peace of Mind with Alfa Security Services | Alfa Security Services Pty ltd | [Read More](https://medium.com/p/b796061955d0) |
-| Fri, 27 Feb 2026 10:37:44 GMT | Best Endpoint Security Services in India - Protect Your Endpoint Devices | Thiripathiv | [Read More](https://medium.com/p/33b10e7e4118) |
