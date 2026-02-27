@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Feb 2026 10:37:44 GMT | Best Endpoint Security Services in India - Protect Your Endpoint Devices | Thiripathiv | [Read More](https://medium.com/p/33b10e7e4118) |
+| Fri, 27 Feb 2026 10:32:12 GMT | Customer Service in the Digital Age: What Today’s Travelers Expect | Adegbaju olufunmilayo Esther | [Read More](https://medium.com/p/1283bbc007d8) |
+| Fri, 27 Feb 2026 10:31:03 GMT | WebStrike Lab Write-Up: Investigating a Web Shell Attack Using Wireshark | Darasamsaraayu | [Read More](https://medium.com/p/6b5253b51dd6) |
+| Fri, 27 Feb 2026 10:28:37 GMT | My 2 cents on vibe coding and how I created a bespoke parenting app for myself | Veronika Aleksova | [Read More](https://medium.com/p/b519bd329ca3) |
+| Fri, 27 Feb 2026 10:21:00 GMT | How It Ends…Bursting the AI Bubble and Humanity’s Basic Reboot | Namir Sagheenanajar | [Read More](https://medium.com/p/6e22cb363517) |
+| Fri, 27 Feb 2026 10:19:13 GMT | Day-to-Day Responsibilities of a Cyber Security Professional | Dkvilas | [Read More](https://medium.com/p/f4694cc7d037) |
+| Fri, 27 Feb 2026 10:15:42 GMT | HackTheBox Sherlock — AoTR 1: A Call from the Museum | rexaa | [Read More](https://medium.com/p/618ccd953731) |
+| Fri, 27 Feb 2026 10:13:01 GMT | Web Penetration Testing’e Giriş: Temel Kavramlar | Berre Zehra | [Read More](https://medium.com/p/67ad217ff690) |
+| Fri, 27 Feb 2026 10:12:50 GMT | Wireshark Traffic Analysis: A Comprehensive Guide | Citadel Cybersec | [Read More](https://medium.com/p/098d2cb155a2) |
+| Fri, 27 Feb 2026 10:10:46 GMT | Understanding Cybersecurity: Key Trends & Data Safety in 2026 | willsaysss | [Read More](https://medium.com/p/eab7aeeafe98) |
+| Fri, 27 Feb 2026 10:10:14 GMT | The Core Challenge: The Math of RSA | Shivansh Mishra | [Read More](https://medium.com/p/aef2e3afe2e2) |
+| Fri, 27 Feb 2026 10:09:25 GMT | Attachment Wounds: How Healing Leads to Integration and Self-Actualization | LIANA VIBES | [Read More](https://medium.com/p/fc32ed9ebe71) |
+| Fri, 27 Feb 2026 09:53:12 GMT | Job Oriented IT Training in Katihar: Learn Skills That Lead to Employment | Brainzima Innovation Institute | [Read More](https://medium.com/p/2612266bb7e1) |
+| Fri, 27 Feb 2026 09:52:50 GMT | How AI Helped Me Fix Angular Bugs 5x Faster | Annu Kumari | [Read More](https://medium.com/p/984a732ea704) |
+| Fri, 27 Feb 2026 09:52:32 GMT | How to Connect & Use Burp MCP with Antigravity? | Sle3pyHead ‍ | [Read More](https://medium.com/p/484e665ca973) |
+| Fri, 27 Feb 2026 09:45:04 GMT | The Address Book of the Internet: IPv4 & Subnets | Olajubu Olasubomi | [Read More](https://medium.com/p/dfb03c5a72a1) |
 | Fri, 27 Feb 2026 09:36:38 GMT | Unmasking Network Infrastructure Through TTL Analysis. | Kobla Edem | [Read More](https://medium.com/p/3ba6790e2a15) |
 | Fri, 27 Feb 2026 09:31:00 GMT | I Tested Both Password Managers for 6 Months. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/c8e7601967f6) |
 | Fri, 27 Feb 2026 09:31:00 GMT | Mr. Phisher - TryHackMe Write-up | iIyas | [Read More](https://medium.com/p/6e070b25cd81) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Feb 2026 04:33:52 GMT | Smart Protest in a Surveillance State | Matyas Koszegi | [Read More](https://medium.com/p/613882aa6764) |
 | Fri, 27 Feb 2026 04:31:01 GMT | Top 12 Kubernetes Security Best Practices You Need In 2026 | Neel Shah | [Read More](https://medium.com/p/77fd3f578862) |
 | Fri, 27 Feb 2026 04:19:49 GMT | Quantum-Resilient State Machines — Designing Consensus for Cryptographic Evolution | sengom | [Read More](https://medium.com/p/4d6355aa9ab0) |
-| Fri, 27 Feb 2026 04:19:47 GMT | Post-Quantum Identity — Rethinking Trust Without Exposure | sengom | [Read More](https://medium.com/p/0a6d489d8eda) |
-| Fri, 27 Feb 2026 04:15:27 GMT | Pretext Phishing Is Escalating in the Philippines: Don’t Be the Next Victim | 0xJameSaiyajin | [Read More](https://medium.com/p/21ae56e983d8) |
-| Fri, 27 Feb 2026 04:13:45 GMT | The “Skeleton Key” AI Jailbreak That Can Break Guardrails | TEJAS | [Read More](https://medium.com/p/4f41ecdd191e) |
-| Fri, 27 Feb 2026 04:06:27 GMT | Best Free Online Cybersecurity Courses in 2026: Learn from Top Universities and Tech Giants | sasankdev | [Read More](https://medium.com/p/17d90177c137) |
-| Fri, 27 Feb 2026 04:03:32 GMT | My Secure App is Now Broken: The Vibe Coder’s Guide to Fixing What Security Fixed | Karla Ortiz-Flores | [Read More](https://medium.com/p/e83b9fad02b6) |
-| Fri, 27 Feb 2026 03:56:34 GMT | NULLPOINT CTF | balu | [Read More](https://medium.com/p/f7e331317950) |
-| Fri, 27 Feb 2026 03:52:29 GMT | Balancing Innovation and Security: A Strategic Approach to Mitigating Cybersecurity Risks in… | Sreejith M | [Read More](https://medium.com/p/b1e228559a16) |
-| Fri, 27 Feb 2026 03:47:26 GMT | Stop Paying for Slow VPNs: Build Your Own WireGuard Server in 5 Minutes | ServerMO | [Read More](https://medium.com/p/accd352123dc) |
-| Fri, 27 Feb 2026 03:41:41 GMT | Tutorial Instalasi Kali Linux di Oracle VirtualBox | Wiyandra Syaiful Abidin | [Read More](https://medium.com/p/073a7274fbe1) |
-| Fri, 27 Feb 2026 03:25:36 GMT | Understanding Microsoft Entra Agent ID | Will Velida | [Read More](https://medium.com/p/c437e5629a32) |
-| Fri, 27 Feb 2026 02:47:42 GMT | I Pointed a Reasoning Engine at “Overthinking.” It Found What the Word Was Hiding | Daniel Straughair | [Read More](https://medium.com/p/6894141b43b8) |
-| Fri, 27 Feb 2026 02:41:00 GMT | You Encrypted Your Database, But Your Encryption Keys Are Sitting In A Text File. | revoq | [Read More](https://medium.com/p/92486d015de5) |
-| Fri, 27 Feb 2026 02:23:18 GMT | Fileless Malware Execution Using LOLBins: A Controlled Lab Demonstration | شاہ میر عمران مغل | [Read More](https://medium.com/p/b11f0f21ce20) |
-| Fri, 27 Feb 2026 02:19:57 GMT | Red Teaming Large Language Models: How to Break AI Before Attackers Do | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/ad3f6a8c3dde) |
-| Fri, 27 Feb 2026 02:15:13 GMT | 15 JavaScript Tricks That Make Your Code Slower | CodeByUmar | [Read More](https://medium.com/p/b16dbe63198c) |
-| Fri, 27 Feb 2026 02:14:40 GMT | Most Pentest Reports Answer the Wrong Questions for the Wrong People | Louis Sanchez | [Read More](https://medium.com/p/4edfe500cb32) |
