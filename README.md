@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Feb 2026 19:08:09 GMT | Most Beginner Bug Bounty Hunters Never Turn Pro — Here’s the Complete Blueprint That Actually… | R.H Rizvi | [Read More](https://medium.com/p/15e3ce0416de) |
+| Fri, 27 Feb 2026 19:08:00 GMT | Consistent Bug Bounty Income Is Not About Finding More Bugs — Here’s the Strategic Blueprint That… | R.H Rizvi | [Read More](https://medium.com/p/48ece5296eb9) |
+| Fri, 27 Feb 2026 19:03:53 GMT | Compliance Theater Presents: The Phantom of the Audit | Justin Ohms | [Read More](https://medium.com/p/e339fdb156c2) |
+| Fri, 27 Feb 2026 19:01:01 GMT | Is Your Threat Hunting Program Mature, or Just Busy? | Raphaam Digital (Cyber Security Updates) | [Read More](https://medium.com/p/d25e4dbd5f64) |
+| Fri, 27 Feb 2026 18:56:32 GMT | Why Cyber Investigation Matters More Than Ever | MH  Santo | [Read More](https://medium.com/p/39b0cc4f7f1d) |
+| Fri, 27 Feb 2026 18:55:47 GMT | A World Without Cybersecurity in the Age of Generative AI | Sam | [Read More](https://medium.com/p/fe3e035775b8) |
+| Fri, 27 Feb 2026 18:54:57 GMT | Remote Code Execution in Offline Hospital Management System (CVE-2026–26462) | DARN | [Read More](https://medium.com/p/bc7ac54314c4) |
+| Fri, 27 Feb 2026 18:49:45 GMT | The Pentagon Ultimatum: Why the US Government is Threatening to Take Over Anthropic | Aaron | [Read More](https://medium.com/p/4380bb752867) |
+| Fri, 27 Feb 2026 18:43:29 GMT | The Difference Between a Hardware Bug and a Hardware Backdoor | Surabhi Misra | [Read More](https://medium.com/p/0a5ece7c14ea) |
+| Fri, 27 Feb 2026 18:36:47 GMT | Mexican Government Data Exposed in AI-Assisted Cyberattack | RealSec.io | [Read More](https://medium.com/p/53965a9b8be6) |
+| Fri, 27 Feb 2026 18:36:14 GMT | How Fear-Based Security Messaging Backfires in Organizations | Digital Defense | [Read More](https://medium.com/p/d8671a450a33) |
+| Fri, 27 Feb 2026 18:35:06 GMT | Cyber Safety Guide for Bangladesh — Awareness Handbook for Students and Internet Users | Sheikh Samir Ali Affan | [Read More](https://medium.com/p/04182e163edd) |
+| Fri, 27 Feb 2026 18:31:07 GMT | Bug Bounty in 2026: Look for these Bugs! | Jeosantos | [Read More](https://medium.com/p/254a837e9662) |
+| Fri, 27 Feb 2026 18:28:06 GMT | Digital Rights in the Modern Era: Why Policy Matters More Than Ever | Garv Chauhan | [Read More](https://medium.com/p/9039d4f167ce) |
+| Fri, 27 Feb 2026 18:19:07 GMT | Wizer #61 Write Up | Jeff Maley | [Read More](https://medium.com/p/33db87440cf5) |
+| Fri, 27 Feb 2026 18:17:37 GMT | TryHackMe -Room Team Writeup | giorgi gochitidze | [Read More](https://medium.com/p/d25e0d10edb3) |
+| Fri, 27 Feb 2026 18:16:21 GMT | Safety by Ignorance vs Safety by Understanding: What the Claude–DoD Debate Is Really About | Saad Ahmad | [Read More](https://medium.com/p/9a11c7ba955d) |
+| Fri, 27 Feb 2026 18:12:18 GMT | CSP and CORS in Modern Web Applications | Avinash theppala | [Read More](https://medium.com/p/28edad2e4d6d) |
+| Fri, 27 Feb 2026 18:10:31 GMT | Introducing Me | Taylynn Bozarth | [Read More](https://medium.com/p/463c3f072468) |
+| Fri, 27 Feb 2026 18:02:22 GMT | Learning Exploit Active Directory | Moci | [Read More](https://medium.com/p/4caf514c8216) |
 | Fri, 27 Feb 2026 17:56:06 GMT | Jia Tan, Andrew Freund, and the night a tiny backdoor almost slipped into the internet | Arjun Hayes | [Read More](https://medium.com/p/ff49d5c0b5ce) |
 | Fri, 27 Feb 2026 17:53:43 GMT | “Any lawful use” meets data fusion: why Anthropic drew a line | Victor Alejandria | [Read More](https://medium.com/p/379c43652328) |
 | Fri, 27 Feb 2026 17:48:53 GMT | The $25 Per Million Token Accomplice: How Claude Hacked a Government and Validated Our Autonomous… | Trinitite | [Read More](https://medium.com/p/a087c325b20a) |
@@ -93,23 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Feb 2026 14:01:01 GMT | Don’t You Want Someone? The Exhausting Truth About Trying to Move On | MJ-1604 | [Read More](https://medium.com/p/b24e030818c9) |
 | Fri, 27 Feb 2026 14:01:01 GMT | The Role of Strike Plates in Residential Lock Security - SLK | Sure Lock & Key LLC | [Read More](https://medium.com/p/6e12c7afc3d9) |
 | Fri, 27 Feb 2026 13:59:06 GMT | Threat Hunting in AWS Using Athena + VPC Flow Logs | Davebhargavi | [Read More](https://medium.com/p/5bce8d548a31) |
-| Fri, 27 Feb 2026 13:57:36 GMT | Information Gathering in Web Security Testing: The Initial Stage that Determines Everything | Habibi | [Read More](https://medium.com/p/346e26060688) |
-| Fri, 27 Feb 2026 13:56:36 GMT | Blue Team Capture The Flag Challenges: WebStrike Lab - CyberDefenders | Xinlisalim | [Read More](https://medium.com/p/85331937e2ad) |
-| Fri, 27 Feb 2026 13:53:36 GMT | 2026 Siber Saldırıları Part-5 | Zekikayaalp | [Read More](https://medium.com/p/d17956c52b10) |
-| Fri, 27 Feb 2026 13:53:30 GMT | Road to Comptia PenTest+ (PT0–003): Tactical Playbook | urhnrblpntstr | [Read More](https://medium.com/p/6fb4abe9f700) |
-| Fri, 27 Feb 2026 13:51:41 GMT | I Scanned Over 50 Lovable Apps For Security Vulnerabilities | jacob p | [Read More](https://medium.com/p/d05b2ad94006) |
-| Fri, 27 Feb 2026 13:51:00 GMT | Linux Security: Simple Rules that You can Follow | Raunak Jha | [Read More](https://medium.com/p/4d495cb70b7e) |
-| Fri, 27 Feb 2026 13:47:09 GMT | The Chapter You Almost Cut | Evan Swensen | [Read More](https://medium.com/p/afe21946ef29) |
-| Fri, 27 Feb 2026 13:44:46 GMT | PicoCTF Challenge : WinAntiDbg0x100 | Marawankawasmy | [Read More](https://medium.com/p/2903e85cd2c3) |
-| Fri, 27 Feb 2026 13:41:38 GMT | Advent of The Relics 1 — A Call from The Museum | Dimas Adrian | [Read More](https://medium.com/p/a3e394d6d79d) |
-| Fri, 27 Feb 2026 13:38:21 GMT | The OpenClaw Security Crisis | Na-Bila Tigenoah | [Read More](https://medium.com/p/65faae1dd93c) |
-| Fri, 27 Feb 2026 13:31:13 GMT | McAfee Customer Service Australia | Customer Support Information | [Read More](https://medium.com/p/f74f0a933e6a) |
-| Fri, 27 Feb 2026 13:30:55 GMT | API Security Is Not a Feature- It’s a Responsibility | Aishat Olayinka Yusuf | [Read More](https://medium.com/p/7081cbb01578) |
-| Fri, 27 Feb 2026 13:28:42 GMT | Air-gapped is geen bescherming meer | V.A. (Victor) Angelier BSc. MSc. | [Read More](https://medium.com/p/d1a61c05915d) |
-| Fri, 27 Feb 2026 13:28:14 GMT | Paywall Bypass: How Client-Side Trust Led to a Free Premium Upgrade | default_0x | [Read More](https://medium.com/p/f54e65699628) |
-| Fri, 27 Feb 2026 13:27:25 GMT | cyber security course in Kerala. | Shengeorge In | [Read More](https://medium.com/p/92e173e1e0fe) |
-| Fri, 27 Feb 2026 13:24:48 GMT | Privacy & Safety When Using NSFW AI Tools — What You Must Know | Bindu Biwaal | [Read More](https://medium.com/p/373938331599) |
-| Fri, 27 Feb 2026 13:24:00 GMT | Windows Server 2022 ile Kurumsal Dosya Sunucusu Mimarisi | Umutonatt1 | [Read More](https://medium.com/p/3638e11d32ac) |
-| Fri, 27 Feb 2026 13:23:46 GMT | RazorBlack TryHackMe Walkthrough | Contact Aryan Here | [Read More](https://medium.com/p/4bd11c05ac91) |
-| Fri, 27 Feb 2026 13:21:57 GMT | xZeroProtect: A File-Based PHP Firewall With No External Dependencies | BEN | [Read More](https://medium.com/p/f4317998686d) |
-| Fri, 27 Feb 2026 13:18:33 GMT | I Built a Local Logwatch Analyzer with Ollama So I Can Sleep Better | Bruno Santos | [Read More](https://medium.com/p/035c6c5a73ef) |
