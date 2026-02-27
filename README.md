@@ -12,8 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Feb 2026 22:16:27 GMT | Escape_202 | MS.Jix | [Read More](https://medium.com/p/26f73140d509) |
+| Fri, 27 Feb 2026 22:01:00 GMT | Understanding AI Security — Part 3 — Information Security | Avinash Vishwakumar | [Read More](https://medium.com/p/d8c2adda5a23) |
+| Fri, 27 Feb 2026 22:01:00 GMT | Unfiltered Restart — Day 14: Exam Prep, Prelim | Maximillian Rueda | [Read More](https://medium.com/p/a3a0b2c98271) |
+| Fri, 27 Feb 2026 21:55:48 GMT | Automating Security Audits with AI: A Hands-on Guide to Watchtower | Hahaha I got you | [Read More](https://medium.com/p/ab25366bb0f9) |
+| Fri, 27 Feb 2026 21:55:10 GMT | ROT13 in terminal | Abderrahim Aoudj | [Read More](https://medium.com/p/84c24b119ffb) |
+| Fri, 27 Feb 2026 21:53:18 GMT | Why I Stopped Using iLovePDF for Sensitive Documents | Ezzmarwan | [Read More](https://medium.com/p/8de9d7a86567) |
+| Fri, 27 Feb 2026 21:51:42 GMT | Ethical Hacking | Anas | [Read More](https://medium.com/p/8d70050bb9ba) |
+| Fri, 27 Feb 2026 21:44:12 GMT | Find An Interesting Account Take-Over Vulnerability. | Md Nawshad Ahmmed | [Read More](https://medium.com/p/dd0d0353e71d) |
+| Fri, 27 Feb 2026 21:38:31 GMT | From Hunted to Hunter: Tony Capo Turns the Tables on Scammers, Delivering Justice to Fraud Victims | Admin | [Read More](https://medium.com/p/8106019ac213) |
+| Fri, 27 Feb 2026 21:38:03 GMT | The Day Admin Access Became an Organisation Takeover | Kaivalya Gurav | [Read More](https://medium.com/p/0ee5d34677e5) |
+| Fri, 27 Feb 2026 21:33:12 GMT | IMPORTANCE OF DUAL BOOTING | Favour Mulungi | [Read More](https://medium.com/p/f659f40129ac) |
 | Fri, 27 Feb 2026 21:28:10 GMT | Command Injection Nedir? DVWA Üzerinde Komut Çalıştırma Senaryosu | Melih Yılmaz | [Read More](https://medium.com/p/f46c629c637f) |
+| Fri, 27 Feb 2026 21:27:19 GMT | Kali Linux and Network Security: From Command Lines to Post-Quantum Cryptography | Samet Erkalp | [Read More](https://medium.com/p/c0e3c3022cbf) |
 | Fri, 27 Feb 2026 21:19:17 GMT | Building Wintermute: From Reactive Chatbot to Autonomous Intelligence | Jyrki Huhta | [Read More](https://medium.com/p/57741e8fbd96) |
+| Fri, 27 Feb 2026 21:18:57 GMT | Cloud Is Not Neutral: Data Protection Risk in the UAE Market | BiyteLüm | [Read More](https://medium.com/p/18c1314dfa13) |
+| Fri, 27 Feb 2026 21:18:03 GMT | Why the Human Brain Is So Easy to Hack | Ammar Abubaker | [Read More](https://medium.com/p/8c033411e90d) |
 | Fri, 27 Feb 2026 21:14:58 GMT | GenAI and Public Data | ADITI | [Read More](https://medium.com/p/72038c2a7af3) |
 | Fri, 27 Feb 2026 21:10:24 GMT | Understanding OAuth2 in a Simple and Practical Way | Tran Anh Duy NGUYEN | [Read More](https://medium.com/p/8f086a98f6ae) |
 | Fri, 27 Feb 2026 20:59:38 GMT | Cross-Site Scripting (XSS) Attack Lab: A Hands-On Journey Through Client-Side Exploitation | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/554eece9a255) |
@@ -99,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Feb 2026 16:11:00 GMT | How to Tell if a Man Is Reliable: 3 Warning Signs You Can’t Ignore | Riva Smith | [Read More](https://medium.com/p/416a04a6f208) |
 | Fri, 27 Feb 2026 16:08:28 GMT | CVE-2025–55182 (React2Shell): Vulnerable Docker Container with Deep-Dive Detection/Exploitation… | Josh Beck | [Read More](https://medium.com/p/c1be639bb428) |
 | Fri, 27 Feb 2026 16:06:57 GMT | TryHackMe - Compiled — Write-Up | GHOST PORT | [Read More](https://medium.com/p/12f7884662f4) |
-| Fri, 27 Feb 2026 16:06:28 GMT | A New Era of Passwords: Designed, Not Typed | Dr. Shashi Karhail | [Read More](https://medium.com/p/2f6df7d2b70a) |
-| Fri, 27 Feb 2026 16:04:06 GMT | 50K Downloads Later: What the “ambar-src” NPM Attack Taught Me About DevSecOps | Harshit Nagila | [Read More](https://medium.com/p/9732960f7566) |
-| Fri, 27 Feb 2026 16:00:28 GMT | Preparing for a Panel of Technical Interviews | Dominic Aquilina | [Read More](https://medium.com/p/47377f54a12a) |
-| Fri, 27 Feb 2026 15:54:33 GMT | Ransomware Is a Billion-Dollar Industry | Timsux Wales | [Read More](https://medium.com/p/5f1689d27454) |
-| Fri, 27 Feb 2026 15:53:32 GMT | Next.js Feels Mature, and That Comes With TradeOffs | Vinit K | [Read More](https://medium.com/p/1fc5a95544ca) |
-| Fri, 27 Feb 2026 15:51:28 GMT | Odido Data Breach Highlights Persistent Telecom & Customer Data Risks | Chetan Seripally | [Read More](https://medium.com/p/eb16201416bb) |
-| Fri, 27 Feb 2026 15:50:24 GMT | Exploiting an Exported Android Activity via Intent Injection | Bharathkannan | [Read More](https://medium.com/p/466df8b05912) |
-| Fri, 27 Feb 2026 15:48:54 GMT | Operating System and Linux Explained Simply | Kswzahidali | [Read More](https://medium.com/p/32cf7c830309) |
-| Fri, 27 Feb 2026 15:39:13 GMT | Documentação Ritual — EVM++ Sidecars — Chamadas de Rede (Network Calls) | Thomas Fiorio | [Read More](https://medium.com/p/11fe82049e12) |
-| Fri, 27 Feb 2026 15:37:33 GMT | From Student to Ethical Hacker: My 2026 Journey Into Cybersecurity | Kswzahidali | [Read More](https://medium.com/p/8dff839cd710) |
-| Fri, 27 Feb 2026 15:37:18 GMT | How OSINT Researchers Use Twitter Viewers in 2026 | Peter Anderson | [Read More](https://medium.com/p/6c704a808757) |
-| Fri, 27 Feb 2026 15:36:42 GMT | Professional Security Camera Installation & CCTV Services in Queens, Manhattan, Bronx & Long Island… | Seonitinsandlus | [Read More](https://medium.com/p/4faf0490b9a1) |
-| Fri, 27 Feb 2026 15:26:48 GMT | Auditing EP2: Where Legacy Payment Logic Meets Modern APIs | Garv Kamra | [Read More](https://medium.com/p/989fb21e675e) |
-| Fri, 27 Feb 2026 15:24:39 GMT | Why Gen AI Pilots are Failing in Companies | Soumitra Mandal | [Read More](https://medium.com/p/97159cbc6323) |
