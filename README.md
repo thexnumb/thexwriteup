@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Feb 2026 23:38:13 GMT | Redis to SYSTEM—TryHackMe VulnNet: Active | Robert Perez | [Read More](https://medium.com/p/0ccef43e1e6c) |
+| Fri, 27 Feb 2026 23:33:59 GMT | Is Claude Security The Death of Application Security Tools? | Andrew Blooman | [Read More](https://medium.com/p/e2164659b595) |
+| Fri, 27 Feb 2026 23:30:15 GMT | GenAI Isn’t the Real Risk. Your Data Is. | Cyber-AppSec | [Read More](https://medium.com/p/de127f9d59ed) |
+| Fri, 27 Feb 2026 23:22:42 GMT | Phishing “Interview Invitation” — Malicious Word Doc. | Brandon Love | [Read More](https://medium.com/p/b35d2a30f100) |
 | Fri, 27 Feb 2026 23:10:03 GMT | Cybersecurity Bootcamp Week 2 : Advent of The Relics 2 | Ferdirisqoamardianto | [Read More](https://medium.com/p/85bf77747738) |
 | Fri, 27 Feb 2026 23:04:03 GMT | Have a good day! | drivingwithnohands | [Read More](https://medium.com/p/cf699926a4ac) |
 | Fri, 27 Feb 2026 22:41:28 GMT | Seald’s U.S. Shutdown: Migration Options | Patrick Walsh | [Read More](https://medium.com/p/698ae319c824) |
@@ -109,7 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Feb 2026 16:52:06 GMT | ⏱️️ Timelapse — One Certificate. Full Compromise | Jabaribrown | [Read More](https://medium.com/p/291f85b551a3) |
 | Fri, 27 Feb 2026 16:46:50 GMT | 2026 Siber Saldırıları Part-5 | Zekikayaalp | [Read More](https://medium.com/p/6e949ea4fc5e) |
 | Fri, 27 Feb 2026 16:43:31 GMT | SIEM Nedir ve Nasıl Çalışır? | Mehdican Büyükplevne | [Read More](https://medium.com/p/35aada2f83d4) |
-| Fri, 27 Feb 2026 16:40:12 GMT | Dropping Shells from the Mosh Pit: A Lesson in Zero-Trust and Remote Pivoting | Prateek Sharma | [Read More](https://medium.com/p/0a1253818f5c) |
-| Fri, 27 Feb 2026 16:37:19 GMT | Top Benefits of CCTV Cameras for Small Businesses | AlexBryn | [Read More](https://medium.com/p/ae3793c58742) |
-| Fri, 27 Feb 2026 16:35:42 GMT | ERP Legacy, migration Cloud ou modernisation agile : le vrai coût comparé | TSplus Academy | [Read More](https://medium.com/p/958d73606175) |
-| Fri, 27 Feb 2026 16:35:35 GMT | How the Xbox Was Hacked in the 2000s — And Why the Lessons Still Matter Today | Cordula Boeck | [Read More](https://medium.com/p/6883faccefee) |
