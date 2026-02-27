@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Feb 2026 20:24:11 GMT | SQL Injection Attack Lab: A Hands-On Journey Through Database Exploitation | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/40d63b03d874) |
+| Fri, 27 Feb 2026 20:17:24 GMT | PortSwigger Access Control Vulnerabilities Lab Notes | Emre A. | [Read More](https://medium.com/p/d99a6201258f) |
+| Fri, 27 Feb 2026 20:16:09 GMT | Monitoramento de domínios suspeitos | Alex Feleol | [Read More](https://medium.com/p/04066f8710cc) |
+| Fri, 27 Feb 2026 20:14:13 GMT | I Roasted a Service Account and Walked Out with the Whole Domain: TryHackMe Attacktive Directory | Robert Perez | [Read More](https://medium.com/p/b7aaa05e1aea) |
+| Fri, 27 Feb 2026 20:09:56 GMT | Prevenção a Fraudes na Black Friday | Alex Feleol | [Read More](https://medium.com/p/2421bccfd100) |
+| Fri, 27 Feb 2026 20:06:30 GMT | The Mission Layer #1: Every AI Defense Broke. The Pattern Tells You Why. | Sergey Vlasov | [Read More](https://medium.com/p/752878339594) |
+| Fri, 27 Feb 2026 20:03:48 GMT | Cybersecurity Bootcamp Week 2 : Advent of The Relics 1 | Ferdirisqoamardianto | [Read More](https://medium.com/p/8bdf539f7f43) |
+| Fri, 27 Feb 2026 19:56:56 GMT | I Thought I Understood Computers… Until I Opened One | Malishemmanuelabui | [Read More](https://medium.com/p/b57d47164457) |
+| Fri, 27 Feb 2026 19:56:04 GMT | Luxury Home Security: Protecting Your Estate Without Compromising Style | Monica Fabbio | [Read More](https://medium.com/p/839017dcb3be) |
+| Fri, 27 Feb 2026 19:52:26 GMT | The AI Skills That Will Make You Unemployable –And the Ones That Won’t | Brainstorm_delight | [Read More](https://medium.com/p/5ae7e3885e4b) |
 | Fri, 27 Feb 2026 19:40:54 GMT | Guardrails Are Not Enough: Why AI Security Has to Be a Runtime Problem | Jonathan Gill | [Read More](https://medium.com/p/773b6a54b08c) |
 | Fri, 27 Feb 2026 19:27:59 GMT | The Linux Security Journey — SSH Password based Authentication | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/93d895eb1238) |
 | Fri, 27 Feb 2026 19:19:45 GMT | Setting up OWASP BLT on the go! Fast and Free. | Chigorin | [Read More](https://medium.com/p/524f55b302cc) |
@@ -80,6 +90,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Feb 2026 16:11:00 GMT | How to Tell if a Man Is Reliable: 3 Warning Signs You Can’t Ignore | Riva Smith | [Read More](https://medium.com/p/416a04a6f208) |
 | Fri, 27 Feb 2026 16:08:28 GMT | CVE-2025–55182 (React2Shell): Vulnerable Docker Container with Deep-Dive Detection/Exploitation… | Josh Beck | [Read More](https://medium.com/p/c1be639bb428) |
 | Fri, 27 Feb 2026 16:06:57 GMT | TryHackMe - Compiled — Write-Up | GHOST PORT | [Read More](https://medium.com/p/12f7884662f4) |
+| Fri, 27 Feb 2026 16:06:28 GMT | A New Era of Passwords: Designed, Not Typed | Dr. Shashi Karhail | [Read More](https://medium.com/p/2f6df7d2b70a) |
 | Fri, 27 Feb 2026 16:04:06 GMT | 50K Downloads Later: What the “ambar-src” NPM Attack Taught Me About DevSecOps | Harshit Nagila | [Read More](https://medium.com/p/9732960f7566) |
 | Fri, 27 Feb 2026 16:00:28 GMT | Preparing for a Panel of Technical Interviews | Dominic Aquilina | [Read More](https://medium.com/p/47377f54a12a) |
 | Fri, 27 Feb 2026 15:54:33 GMT | Ransomware Is a Billion-Dollar Industry | Timsux Wales | [Read More](https://medium.com/p/5f1689d27454) |
@@ -102,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Feb 2026 15:05:19 GMT | From Secrets to Service Accounts: A Technical Post-Mortem on Google’s API Key Model in the… | Niko Mao | [Read More](https://medium.com/p/a94ce87b7de4) |
 | Fri, 27 Feb 2026 15:04:42 GMT | I Built a Browser Extension to Share Credentials Without Revealing Passwords (Now I Can Stop Lying… | Ifeanyi Yahweh Aghasili | [Read More](https://medium.com/p/c01b6de2a7fe) |
 | Fri, 27 Feb 2026 15:04:09 GMT | Webstrike lab | Agungspace | [Read More](https://medium.com/p/435e603abcbb) |
-| Fri, 27 Feb 2026 15:02:25 GMT | Securing the Modern Web: A Deep Dive into JWT with RSA256 | Sachin Verma | [Read More](https://medium.com/p/c83ee6344151) |
-| Fri, 27 Feb 2026 14:57:10 GMT | Advent Of The Relics 2 | Abdullahfatihalhuda | [Read More](https://medium.com/p/e4a205ecd85d) |
-| Fri, 27 Feb 2026 14:53:53 GMT | ChatGPT Ads Are Here — Why They’re More Dangerous Than Search Ads | Karl Buhl | [Read More](https://medium.com/p/f2e14f2af519) |
-| Fri, 27 Feb 2026 14:52:49 GMT | CISA KEV Expands as Malware Campaigns Target Enterprise Infrastructure | Loginsoft | [Read More](https://medium.com/p/1039390573b9) |
-| Fri, 27 Feb 2026 14:47:25 GMT | funboxeasy walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/6985fdf37437) |
-| Fri, 27 Feb 2026 14:47:12 GMT | Advent of The Relics 2 — Operation Winter Blackout | Raakin Al Hassan | [Read More](https://medium.com/p/038181c23400) |
-| Fri, 27 Feb 2026 14:46:46 GMT | Dead Man’s Switch Services for Credentials and Instructions: A Smarter, Safer Approach | Olivia Martillo | [Read More](https://medium.com/p/7627f3c92f68) |
-| Fri, 27 Feb 2026 14:42:15 GMT | CVE-2026–21522 - Microsoft ACI Confidential Containers Elevation of Privilege Vulnerability | Aakash Rahsi | [Read More](https://medium.com/p/688a66203a69) |
-| Fri, 27 Feb 2026 14:39:39 GMT | Designing a Data-Driven IT Performance Dashboard as a Systems Administrator | Hunter Ryskoski | [Read More](https://medium.com/p/ffcc067197f4) |
-| Fri, 27 Feb 2026 14:38:19 GMT | From Wi‑Fi Access to Root: Reverse Engineering a $50 CarPlay Dongle | Louis Erbkamm | [Read More](https://medium.com/p/a3fbeeeb0be9) |
-| Fri, 27 Feb 2026 14:31:35 GMT | Microsoft Entra ID Sync Explained: The Step Most AD to Entra Migrations Underestimate | Opsole Migrate | [Read More](https://medium.com/p/10cfac24f0d5) |
