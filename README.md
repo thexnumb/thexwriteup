@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Feb 2026 05:21:52 GMT | MITRE ATT&CK: Turning Cyber Threats Into Understandable Intelligence | Zefai Insights | [Read More](https://medium.com/p/09b50938591e) |
+| Fri, 27 Feb 2026 05:21:37 GMT | A Technical Reconstruction of the xz Supply-Chain Attack | Shubham Rath | [Read More](https://medium.com/p/5b3479f2cbf5) |
+| Fri, 27 Feb 2026 05:12:19 GMT | The AI Agent: The New Employee Who Never Sleeps and Never Asks for a Raise | Sakti Bagchi | [Read More](https://medium.com/p/b5d7556a905c) |
+| Fri, 27 Feb 2026 04:59:56 GMT | RoguePilot: How a Passive Prompt Injection Led to GitHub Repository Takeovers | Sohan Kanna | [Read More](https://medium.com/p/d9b59dbc6d7d) |
+| Fri, 27 Feb 2026 04:58:58 GMT | THM — When Hearts Collide | Dfaults | [Read More](https://medium.com/p/6d2a020c6310) |
+| Fri, 27 Feb 2026 04:57:10 GMT | Ethical Hacking Course in Calicut | Jhoninternship | [Read More](https://medium.com/p/0ae10d3755f7) |
+| Fri, 27 Feb 2026 04:55:39 GMT | Speed, Simplicity, Scale: What the Next Generation of Websites Really Needs? | Janet Watson | [Read More](https://medium.com/p/2c748c2e52a9) |
+| Fri, 27 Feb 2026 04:49:07 GMT | From Blueprint to Build: How AI Is Reshaping Modern Construction | Alex | [Read More](https://medium.com/p/e677511c5238) |
+| Fri, 27 Feb 2026 04:45:11 GMT | THM — Corp Website | Dfaults | [Read More](https://medium.com/p/7b58ed3b8cbb) |
+| Fri, 27 Feb 2026 04:35:34 GMT | Claude Code RCE: How Three Vulnerabilities Turned a Git Clone Into a Full System Compromise | Soumyadipta Birabar | [Read More](https://medium.com/p/b5e8597afcb3) |
+| Fri, 27 Feb 2026 04:35:21 GMT | Directory Brute-Forcing Using FFUF | InfosecTrain | [Read More](https://medium.com/p/27f3785bd6e3) |
+| Fri, 27 Feb 2026 04:34:59 GMT | AI 도입, 이대로 안전한가? | AI AEGIS Lab | [Read More](https://medium.com/p/93d88b546ec8) |
+| Fri, 27 Feb 2026 04:33:52 GMT | Smart Protest in a Surveillance State | Matyas Koszegi | [Read More](https://medium.com/p/613882aa6764) |
+| Fri, 27 Feb 2026 04:31:01 GMT | Top 12 Kubernetes Security Best Practices You Need In 2026 | Neel Shah | [Read More](https://medium.com/p/77fd3f578862) |
 | Fri, 27 Feb 2026 04:19:49 GMT | Quantum-Resilient State Machines — Designing Consensus for Cryptographic Evolution | sengom | [Read More](https://medium.com/p/4d6355aa9ab0) |
 | Fri, 27 Feb 2026 04:19:47 GMT | Post-Quantum Identity — Rethinking Trust Without Exposure | sengom | [Read More](https://medium.com/p/0a6d489d8eda) |
 | Fri, 27 Feb 2026 04:15:27 GMT | Pretext Phishing Is Escalating in the Philippines: Don’t Be the Next Victim | 0xJameSaiyajin | [Read More](https://medium.com/p/21ae56e983d8) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Feb 2026 19:54:12 GMT | Design of a Remote-Control Trojan Program Suitable for Beginner-Level Information Security Learners | Wisdomapple | [Read More](https://medium.com/p/549a91fd3f30) |
 | Thu, 26 Feb 2026 19:29:10 GMT | PostgreSQL Hardening Guide | SOCFortress | [Read More](https://medium.com/p/8b8554e22336) |
 | Thu, 26 Feb 2026 19:24:37 GMT | Anonymous — TryHackMe Writeup | Hemantha Krishna Challa | [Read More](https://medium.com/p/7727401d444e) |
-| Thu, 26 Feb 2026 19:20:01 GMT | Zero-Trust Agent Architecture: Practical Hardening Patterns for Autonomous Systems | John Matylonek | [Read More](https://medium.com/p/858267e7a0db) |
-| Thu, 26 Feb 2026 19:16:18 GMT | Week 2 Sherlock AoTR 1 : A Call from the Museum | Surya Agung Wicaksono | [Read More](https://medium.com/p/d7548f81ae66) |
-| Thu, 26 Feb 2026 19:08:08 GMT | A Day in the Life of a SOC Analyst Using Wazuh | Abdullah Al Siam | [Read More](https://medium.com/p/8c61df9db6f3) |
-| Thu, 26 Feb 2026 19:05:02 GMT | Keys to the Kingdom: A Guide to Digital Identity | Moez Ben-Azzouz | [Read More](https://medium.com/p/924622d6e9ac) |
-| Thu, 26 Feb 2026 19:02:01 GMT | Is 2026 a new era for Tech Industry? | Areej | [Read More](https://medium.com/p/7e0e6b0dc04f) |
-| Thu, 26 Feb 2026 19:01:00 GMT | Username & Email Collision Leading to Account Lockout and identity collision☠️ | 0xMo7areb | [Read More](https://medium.com/p/1cc963fb3d38) |
-| Thu, 26 Feb 2026 19:00:40 GMT | VulnNet: Active (THM) Tryhackme Only Answer | Lawvye | [Read More](https://medium.com/p/dbd9428ade4c) |
-| Thu, 26 Feb 2026 18:57:08 GMT | Become an AI Hacker in 2026 | Haniakhan | [Read More](https://medium.com/p/4119e50a3f28) |
-| Thu, 26 Feb 2026 18:56:52 GMT | Hacking in 2025 | Blogger World | [Read More](https://medium.com/p/8a09718246fa) |
-| Thu, 26 Feb 2026 18:56:21 GMT | Why Biometric AI Systems Fail in Production — And How Architecture Prevents It | Daniel Possebon Bargas | [Read More](https://medium.com/p/65401538ae95) |
-| Thu, 26 Feb 2026 18:52:26 GMT | AI Threat Modeling: Securing Autonomous AI Agents and MCP Architectures | Yog Yadav | [Read More](https://medium.com/p/6db1b8aec237) |
-| Thu, 26 Feb 2026 18:51:36 GMT | AI Agents Are the New Security Risk Nobody Talks About | techWithNeer | [Read More](https://medium.com/p/9ba0e7aa0f8f) |
-| Thu, 26 Feb 2026 18:46:23 GMT | Proving Grounds Twiggy: Backport | Nicolas Garcia | [Read More](https://medium.com/p/21cb0830fdda) |
-| Thu, 26 Feb 2026 18:45:21 GMT | HTB-TeamBlueLabs - AoTR 2: Operation Winter Blackout | Kiana Anaceliya | [Read More](https://medium.com/p/7bbce8813944) |
