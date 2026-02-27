@@ -12,6 +12,34 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Feb 2026 14:01:01 GMT | Don’t You Want Someone? The Exhausting Truth About Trying to Move On | MJ-1604 | [Read More](https://medium.com/p/b24e030818c9) |
+| Fri, 27 Feb 2026 13:59:06 GMT | Threat Hunting in AWS Using Athena + VPC Flow Logs | Davebhargavi | [Read More](https://medium.com/p/5bce8d548a31) |
+| Fri, 27 Feb 2026 13:57:36 GMT | Information Gathering in Web Security Testing: The Initial Stage that Determines Everything | Habibi | [Read More](https://medium.com/p/346e26060688) |
+| Fri, 27 Feb 2026 13:56:36 GMT | Blue Team Capture The Flag Challenges: WebStrike Lab - CyberDefenders | Xinlisalim | [Read More](https://medium.com/p/85331937e2ad) |
+| Fri, 27 Feb 2026 13:53:36 GMT | 2026 Siber Saldırıları Part-5 | Zekikayaalp | [Read More](https://medium.com/p/d17956c52b10) |
+| Fri, 27 Feb 2026 13:53:30 GMT | Road to Comptia PenTest+ (PT0–003): Tactical Playbook | urhnrblpntstr | [Read More](https://medium.com/p/6fb4abe9f700) |
+| Fri, 27 Feb 2026 13:51:41 GMT | I Scanned Over 50 Lovable Apps For Security Vulnerabilities | jacob p | [Read More](https://medium.com/p/d05b2ad94006) |
+| Fri, 27 Feb 2026 13:51:00 GMT | Linux Security: Simple Rules that You can Follow | Raunak Jha | [Read More](https://medium.com/p/4d495cb70b7e) |
+| Fri, 27 Feb 2026 13:47:09 GMT | The Chapter You Almost Cut | Evan Swensen | [Read More](https://medium.com/p/afe21946ef29) |
+| Fri, 27 Feb 2026 13:44:46 GMT | PicoCTF Challenge : WinAntiDbg0x100 | Marawankawasmy | [Read More](https://medium.com/p/2903e85cd2c3) |
+| Fri, 27 Feb 2026 13:41:38 GMT | Advent of The Relics 1 — A Call from The Museum | Dimas Adrian | [Read More](https://medium.com/p/a3e394d6d79d) |
+| Fri, 27 Feb 2026 13:38:21 GMT | The OpenClaw Security Crisis | Na-Bila Tigenoah | [Read More](https://medium.com/p/65faae1dd93c) |
+| Fri, 27 Feb 2026 13:31:13 GMT | McAfee Customer Service Australia | Customer Support Information | [Read More](https://medium.com/p/f74f0a933e6a) |
+| Fri, 27 Feb 2026 13:30:55 GMT | API Security Is Not a Feature- It’s a Responsibility | Aishat Olayinka Yusuf | [Read More](https://medium.com/p/7081cbb01578) |
+| Fri, 27 Feb 2026 13:28:42 GMT | Air-gapped is geen bescherming meer | V.A. (Victor) Angelier BSc. MSc. | [Read More](https://medium.com/p/d1a61c05915d) |
+| Fri, 27 Feb 2026 13:28:14 GMT | Paywall Bypass: How Client-Side Trust Led to a Free Premium Upgrade | default_0x | [Read More](https://medium.com/p/f54e65699628) |
+| Fri, 27 Feb 2026 13:27:25 GMT | cyber security course in Kerala. | Shengeorge In | [Read More](https://medium.com/p/92e173e1e0fe) |
+| Fri, 27 Feb 2026 13:24:48 GMT | Privacy & Safety When Using NSFW AI Tools — What You Must Know | Bindu Biwaal | [Read More](https://medium.com/p/373938331599) |
+| Fri, 27 Feb 2026 13:24:00 GMT | Windows Server 2022 ile Kurumsal Dosya Sunucusu Mimarisi | Umutonatt1 | [Read More](https://medium.com/p/3638e11d32ac) |
+| Fri, 27 Feb 2026 13:23:46 GMT | RazorBlack TryHackMe Walkthrough | Contact Aryan Here | [Read More](https://medium.com/p/4bd11c05ac91) |
+| Fri, 27 Feb 2026 13:21:57 GMT | xZeroProtect: A File-Based PHP Firewall With No External Dependencies | BEN | [Read More](https://medium.com/p/f4317998686d) |
+| Fri, 27 Feb 2026 13:18:33 GMT | I Built a Local Logwatch Analyzer with Ollama So I Can Sleep Better | Bruno Santos | [Read More](https://medium.com/p/035c6c5a73ef) |
+| Fri, 27 Feb 2026 13:18:20 GMT | Information disclosure in version control history - Portswigger Web Security Academy Lab | Amrik Hore | [Read More](https://medium.com/p/b8d18e18e811) |
+| Fri, 27 Feb 2026 13:17:41 GMT | Recognition and enumeration: the true power of the hacker who understands before acting | Devilman24 | [Read More](https://medium.com/p/79d65d3a2abd) |
+| Fri, 27 Feb 2026 13:17:32 GMT | Privacy and Security in Healthcare: An QA Guide by QASource | timothy joseph | [Read More](https://medium.com/p/801aec3dc20b) |
+| Fri, 27 Feb 2026 13:16:51 GMT | Why Engineers Already Know How to Fix Cybersecurity | Peter Hillier/Halton | [Read More](https://medium.com/p/c23841373c2f) |
+| Fri, 27 Feb 2026 13:12:26 GMT | Hunting in the Dark Forest: How I Uncovered a Private $25M Simulation Fork via an RPC… | Hacker MD | [Read More](https://medium.com/p/4b4193f90ac5) |
+| Fri, 27 Feb 2026 13:05:44 GMT | stuck in maybe | Yanyan | [Read More](https://medium.com/p/21278df20aad) |
 | Fri, 27 Feb 2026 13:03:46 GMT | Contact AVG Customer Service UK | Zuerevalexander | [Read More](https://medium.com/p/6bc523b8408c) |
 | Fri, 27 Feb 2026 12:56:05 GMT | The Compliance Trap | O. J. Okpabi | [Read More](https://medium.com/p/42976fe9c1b6) |
 | Fri, 27 Feb 2026 12:53:18 GMT | Contact McAfee Customer Service UK | Zuerevalexander | [Read More](https://medium.com/p/122cfa7ef8cd) |
@@ -84,31 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Feb 2026 09:01:04 GMT | I Checked 10 Random Companies for Leaked Credentials. All 10 Were Exposed. | Alexandre Vandamme | [Read More](https://medium.com/p/30e425471b81) |
 | Fri, 27 Feb 2026 09:00:41 GMT | The Minimal Website Formula Behind Fast, Safe, and Budget-Friendly Projects | Andy | [Read More](https://medium.com/p/96c1c1fd51be) |
 | Fri, 27 Feb 2026 08:58:22 GMT | Why Professional Alarm Response Services Are Essential for Your Business | Secure 24 Seven | [Read More](https://medium.com/p/d1d647a824af) |
-| Fri, 27 Feb 2026 08:49:50 GMT | How I Built a Bank-Grade Emulator Detector to Stop Hackers Dead — Part 1 | Harrison Kuria | [Read More](https://medium.com/p/e4ac14aa75ab) |
-| Fri, 27 Feb 2026 08:45:30 GMT | JWT Authentication Bypass Using HackUtils — PortSwigger Lab Walkthrough | Fabian Peña | [Read More](https://medium.com/p/1cf06bf817e7) |
-| Fri, 27 Feb 2026 08:45:26 GMT | The Reverse Gear of AI: Why the Future Belongs to the “AI Firewall” | Miksi | [Read More](https://medium.com/p/136964683474) |
-| Fri, 27 Feb 2026 08:42:20 GMT | How I Bypassed Email Verification on a Bug Bounty Target Using Just a Browser | Josekutty Kunnelthazhe Binu | [Read More](https://medium.com/p/f10b4e5210ff) |
-| Fri, 27 Feb 2026 08:38:55 GMT | Global and Regional Headlines Shaping Today: A Trend-Driven Overview | Saqib Bhatti | [Read More](https://medium.com/p/a5b1520bdf45) |
-| Fri, 27 Feb 2026 08:35:46 GMT | Yapay Zeka Sızma Testi (AI Pentest) ve AI Red Teaming | Hazar Taspinar | [Read More](https://medium.com/p/e9880d109f5a) |
-| Fri, 27 Feb 2026 08:35:00 GMT | The Complete Guide to Choosing a Tripod Turnstile for Your Facility | Etradefia | [Read More](https://medium.com/p/3cdc1ebfa829) |
-| Fri, 27 Feb 2026 08:30:31 GMT | India’s SIM-Binding Rule: A New Era of Digital Identity Enforcement | Ankit rai | [Read More](https://medium.com/p/932c96dcab0b) |
-| Fri, 27 Feb 2026 08:23:52 GMT | “Bug Bounty Bootcamp #25: Local File Disclosure — Breaking Out of the Web Root to Steal Server… | Aman Sharma | [Read More](https://medium.com/p/3bce67264df0) |
-| Fri, 27 Feb 2026 08:22:01 GMT | HackTheBox — AoTR 2 : Operation Winter Blackout | Shiro | [Read More](https://medium.com/p/90f6e7bd036c) |
-| Fri, 27 Feb 2026 08:19:19 GMT | Article 01 — Privacy | Satish Mishra | [Read More](https://medium.com/p/6e56cb917663) |
-| Fri, 27 Feb 2026 08:15:29 GMT | “Advent of The Relic 2: Operations Winter Blackout” Digital Forensics Labs | Xinlisalim | [Read More](https://medium.com/p/e304120b78f5) |
-| Fri, 27 Feb 2026 08:07:43 GMT | Build “Sign in with Google” Using OAuth 2.0 in Python | Anusha Reddy | [Read More](https://medium.com/p/458e3eba75e9) |
-| Fri, 27 Feb 2026 08:02:41 GMT | Beyond the Trigger: Uncovering SSRF in Azure Functions | Xpl0itZ3r0X | [Read More](https://medium.com/p/c9281a04e062) |
-| Fri, 27 Feb 2026 07:56:00 GMT | How AI Is Rewiring Your Attention and What It’s Doing to Your Brain | Vipin Singh Bagri | [Read More](https://medium.com/p/537282116ca8) |
-| Fri, 27 Feb 2026 07:49:03 GMT | Kali Linux Just Got an AI Brain. Here’s Why That Changes Everything. | Aryan Srivastava | [Read More](https://medium.com/p/0121e7e2abac) |
-| Fri, 27 Feb 2026 07:33:29 GMT | Roundtable Talk 1 - Discussion on the Safety, Responsibility, and Identity Issues of AI Agents | OpenAgents | [Read More](https://medium.com/p/332d3dbdcfbe) |
-| Fri, 27 Feb 2026 07:31:04 GMT | How a VPN Works (From a Cybersecurity Perspective) | The SecOps Lead | [Read More](https://medium.com/p/d98b4904dd19) |
-| Fri, 27 Feb 2026 07:30:56 GMT | WSTG-CLNT-09 | Narathama Firmansyah Putra | [Read More](https://medium.com/p/0a40460cf484) |
-| Fri, 27 Feb 2026 07:19:11 GMT | WHAT IS DNS AND WHAT IS ITS ROLE IN THE WORKING OF THE WEB? | Sana K S | [Read More](https://medium.com/p/64ab5e8a18b8) |
-| Fri, 27 Feb 2026 07:17:35 GMT | Why Privacy-First Messaging Apps Sacrifice Features (And Why That’s Not a Bug) | Kalikto (a.k.a. Smit Mehta) | [Read More](https://medium.com/p/2312a7bd7290) |
-| Fri, 27 Feb 2026 07:14:10 GMT | What Does an AI-Augmented SOC Analyst Actually Look Like? | ThreatLens - Security Intelligence Automation | [Read More](https://medium.com/p/74c04fe2a08e) |
-| Fri, 27 Feb 2026 07:14:02 GMT | Basics Of Cybersecurity | Zainababbas | [Read More](https://medium.com/p/2e1903c60fa6) |
-| Fri, 27 Feb 2026 07:11:35 GMT | Weekly Threat Intelligence Report 16 Feb 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/22feb7bccb83) |
-| Fri, 27 Feb 2026 07:11:17 GMT | EntroGuard — Day 6 | Nisarg Patel | [Read More](https://medium.com/p/9bcea7948a96) |
-| Fri, 27 Feb 2026 07:07:05 GMT | Unleashing CYBERDUDEBIVASH® Ransomware IOC Blocker v1.0.0: | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/8bf38460c3d6) |
-| Fri, 27 Feb 2026 07:03:50 GMT | Defensive Security Intro | Abdulnafayk | [Read More](https://medium.com/p/b4d4a9b0496a) |
-| Fri, 27 Feb 2026 07:01:01 GMT | 5. Handling Merge and Rebase Conflicts as a Beginners | Mangesh Muley | [Read More](https://medium.com/p/a10ef88e6882) |
