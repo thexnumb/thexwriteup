@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Feb 2026 21:28:10 GMT | Command Injection Nedir? DVWA Üzerinde Komut Çalıştırma Senaryosu | Melih Yılmaz | [Read More](https://medium.com/p/f46c629c637f) |
+| Fri, 27 Feb 2026 21:19:17 GMT | Building Wintermute: From Reactive Chatbot to Autonomous Intelligence | Jyrki Huhta | [Read More](https://medium.com/p/57741e8fbd96) |
+| Fri, 27 Feb 2026 21:14:58 GMT | GenAI and Public Data | ADITI | [Read More](https://medium.com/p/72038c2a7af3) |
+| Fri, 27 Feb 2026 21:10:24 GMT | Understanding OAuth2 in a Simple and Practical Way | Tran Anh Duy NGUYEN | [Read More](https://medium.com/p/8f086a98f6ae) |
+| Fri, 27 Feb 2026 20:59:38 GMT | Cross-Site Scripting (XSS) Attack Lab: A Hands-On Journey Through Client-Side Exploitation | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/554eece9a255) |
+| Fri, 27 Feb 2026 20:58:32 GMT | SRUM-DUMP v3: A Practical Guide to Windows Forensics with the New GUI and Feature | Dean | [Read More](https://medium.com/p/9497cabdc007) |
+| Fri, 27 Feb 2026 20:41:28 GMT | UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor | SOCFortress | [Read More](https://medium.com/p/f3b89e944278) |
+| Fri, 27 Feb 2026 20:41:00 GMT | INE-Web Application Penetration Testing CTF 1 by Singkhon | Singkhon K | [Read More](https://medium.com/p/5d0edafcc7ef) |
+| Fri, 27 Feb 2026 20:24:51 GMT | The First Crucial Step to Secure AI | Matthew.Rosenquist | [Read More](https://medium.com/p/65e51a286086) |
 | Fri, 27 Feb 2026 20:24:11 GMT | SQL Injection Attack Lab: A Hands-On Journey Through Database Exploitation | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/40d63b03d874) |
 | Fri, 27 Feb 2026 20:17:24 GMT | PortSwigger Access Control Vulnerabilities Lab Notes | Emre A. | [Read More](https://medium.com/p/d99a6201258f) |
 | Fri, 27 Feb 2026 20:16:09 GMT | Monitoramento de domínios suspeitos | Alex Feleol | [Read More](https://medium.com/p/04066f8710cc) |
@@ -104,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Feb 2026 15:36:42 GMT | Professional Security Camera Installation & CCTV Services in Queens, Manhattan, Bronx & Long Island… | Seonitinsandlus | [Read More](https://medium.com/p/4faf0490b9a1) |
 | Fri, 27 Feb 2026 15:26:48 GMT | Auditing EP2: Where Legacy Payment Logic Meets Modern APIs | Garv Kamra | [Read More](https://medium.com/p/989fb21e675e) |
 | Fri, 27 Feb 2026 15:24:39 GMT | Why Gen AI Pilots are Failing in Companies | Soumitra Mandal | [Read More](https://medium.com/p/97159cbc6323) |
-| Fri, 27 Feb 2026 15:23:13 GMT | Read Team | Heavenblack | [Read More](https://medium.com/p/9b94466915be) |
-| Fri, 27 Feb 2026 15:20:36 GMT | ESLint: Scaling Code Quality Without the Friction | Alexandre Bétourné | [Read More](https://medium.com/p/01c64628cebe) |
-| Fri, 27 Feb 2026 15:16:31 GMT | Solving a Bugforge Challenge — Exploiting JWT Forging in Sokudo | Pranaya Shrestha | [Read More](https://medium.com/p/56777f48f900) |
-| Fri, 27 Feb 2026 15:12:58 GMT | Audit Logs in a Secure Vault: Tracking Who Accessed What After Death | InheritSafe | [Read More](https://medium.com/p/09b01299f67d) |
-| Fri, 27 Feb 2026 15:10:09 GMT | Day 12 of Learning AWS: Network Load Balancer (Layer 4) | Muhammad Kashif | [Read More](https://medium.com/p/0a3619d046b3) |
-| Fri, 27 Feb 2026 15:06:01 GMT | Cyber Briefing: 2026.02.27 | CyberMaterial | [Read More](https://medium.com/p/be66f612a7e6) |
-| Fri, 27 Feb 2026 15:05:19 GMT | From Secrets to Service Accounts: A Technical Post-Mortem on Google’s API Key Model in the… | Niko Mao | [Read More](https://medium.com/p/a94ce87b7de4) |
-| Fri, 27 Feb 2026 15:04:42 GMT | I Built a Browser Extension to Share Credentials Without Revealing Passwords (Now I Can Stop Lying… | Ifeanyi Yahweh Aghasili | [Read More](https://medium.com/p/c01b6de2a7fe) |
-| Fri, 27 Feb 2026 15:04:09 GMT | Webstrike lab | Agungspace | [Read More](https://medium.com/p/435e603abcbb) |
