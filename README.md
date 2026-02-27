@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Feb 2026 23:10:03 GMT | Cybersecurity Bootcamp Week 2 : Advent of The Relics 2 | Ferdirisqoamardianto | [Read More](https://medium.com/p/85bf77747738) |
+| Fri, 27 Feb 2026 23:04:03 GMT | Have a good day! | drivingwithnohands | [Read More](https://medium.com/p/cf699926a4ac) |
 | Fri, 27 Feb 2026 22:41:28 GMT | Seald’s U.S. Shutdown: Migration Options | Patrick Walsh | [Read More](https://medium.com/p/698ae319c824) |
 | Fri, 27 Feb 2026 22:39:30 GMT | The Alert that Nobody Actioned — until I Built this on Elastic | SHUBHENDU SHUBHAM | [Read More](https://medium.com/p/7c5c58409937) |
 | Fri, 27 Feb 2026 22:32:36 GMT | Fighting Fire with Fire: Using AI to Detect Generative-AI Phishing Scams | Aysha Saifi | [Read More](https://medium.com/p/3e1e575cf93f) |
@@ -111,5 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Feb 2026 16:37:19 GMT | Top Benefits of CCTV Cameras for Small Businesses | AlexBryn | [Read More](https://medium.com/p/ae3793c58742) |
 | Fri, 27 Feb 2026 16:35:42 GMT | ERP Legacy, migration Cloud ou modernisation agile : le vrai coût comparé | TSplus Academy | [Read More](https://medium.com/p/958d73606175) |
 | Fri, 27 Feb 2026 16:35:35 GMT | How the Xbox Was Hacked in the 2000s — And Why the Lessons Still Matter Today | Cordula Boeck | [Read More](https://medium.com/p/6883faccefee) |
-| Fri, 27 Feb 2026 16:35:32 GMT | Hidden Deep Inside My Heart(tryhackme web vulnerability room) | Jaiakassh Sathish | [Read More](https://medium.com/p/e8270e9aa47a) |
-| Fri, 27 Feb 2026 16:31:39 GMT | APT3 vs APT29: A Comparative Cyber Threat Intelligence Analysis Using MITRE ATT&CK | Pranav More | [Read More](https://medium.com/p/2861cfee68fb) |
