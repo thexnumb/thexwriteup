@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Feb 2026 22:41:28 GMT | Seald’s U.S. Shutdown: Migration Options | Patrick Walsh | [Read More](https://medium.com/p/698ae319c824) |
+| Fri, 27 Feb 2026 22:39:30 GMT | The Alert that Nobody Actioned — until I Built this on Elastic | SHUBHENDU SHUBHAM | [Read More](https://medium.com/p/7c5c58409937) |
+| Fri, 27 Feb 2026 22:32:36 GMT | Fighting Fire with Fire: Using AI to Detect Generative-AI Phishing Scams | Aysha Saifi | [Read More](https://medium.com/p/3e1e575cf93f) |
+| Fri, 27 Feb 2026 22:32:12 GMT | The End of the Secret | Scindia Edwin | [Read More](https://medium.com/p/1fb837745fee) |
+| Fri, 27 Feb 2026 22:29:43 GMT | Prompt Engineering for Hackers | Spectat0rguy | [Read More](https://medium.com/p/0710b6dc922f) |
+| Fri, 27 Feb 2026 22:28:37 GMT | Dumbest Security Fails: The Submissions Box | Snarky Lisa | [Read More](https://medium.com/p/f3021789d8d6) |
+| Fri, 27 Feb 2026 22:27:19 GMT | How to Make a Passwordless Web App with Prizes Secure | Cognition Interactive | [Read More](https://medium.com/p/55917fc8d086) |
+| Fri, 27 Feb 2026 22:22:00 GMT | Stop Reacting to Cyberattacks. Start Predicting Them. | Thomas Perry | [Read More](https://medium.com/p/4087e6fea50a) |
 | Fri, 27 Feb 2026 22:16:27 GMT | Escape_202 | MS.Jix | [Read More](https://medium.com/p/26f73140d509) |
 | Fri, 27 Feb 2026 22:01:00 GMT | Understanding AI Security — Part 3 — Information Security | Avinash Vishwakumar | [Read More](https://medium.com/p/d8c2adda5a23) |
 | Fri, 27 Feb 2026 22:01:00 GMT | Unfiltered Restart — Day 14: Exam Prep, Prelim | Maximillian Rueda | [Read More](https://medium.com/p/a3a0b2c98271) |
@@ -105,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Feb 2026 16:35:35 GMT | How the Xbox Was Hacked in the 2000s — And Why the Lessons Still Matter Today | Cordula Boeck | [Read More](https://medium.com/p/6883faccefee) |
 | Fri, 27 Feb 2026 16:35:32 GMT | Hidden Deep Inside My Heart(tryhackme web vulnerability room) | Jaiakassh Sathish | [Read More](https://medium.com/p/e8270e9aa47a) |
 | Fri, 27 Feb 2026 16:31:39 GMT | APT3 vs APT29: A Comparative Cyber Threat Intelligence Analysis Using MITRE ATT&CK | Pranav More | [Read More](https://medium.com/p/2861cfee68fb) |
-| Fri, 27 Feb 2026 16:31:19 GMT | The Price for Intelligence | Pratikshit Chowdhury | [Read More](https://medium.com/p/59205b4ceb0b) |
-| Fri, 27 Feb 2026 16:27:42 GMT | IPv6 Is Not Just Bigger Addresses — It Quietly Fixes 40 Years of IPv4 Security Problems | Gajanan Tayde | [Read More](https://medium.com/p/083edd83b1b5) |
-| Fri, 27 Feb 2026 16:25:13 GMT | The bus just left, and it’s okay | Hugo Pan | [Read More](https://medium.com/p/9fb066131afa) |
-| Fri, 27 Feb 2026 16:24:21 GMT | Salesforce Managed Services: A Strategic Growth Engine for Modern Enterprises | Abhaya | [Read More](https://medium.com/p/3faf58c7690a) |
-| Fri, 27 Feb 2026 16:14:34 GMT | CONSENT IS THE NEW SECURITY LAYER | NanoChain | [Read More](https://medium.com/p/719c97625cbd) |
-| Fri, 27 Feb 2026 16:11:00 GMT | How to Tell if a Man Is Reliable: 3 Warning Signs You Can’t Ignore | Riva Smith | [Read More](https://medium.com/p/416a04a6f208) |
-| Fri, 27 Feb 2026 16:08:28 GMT | CVE-2025–55182 (React2Shell): Vulnerable Docker Container with Deep-Dive Detection/Exploitation… | Josh Beck | [Read More](https://medium.com/p/c1be639bb428) |
-| Fri, 27 Feb 2026 16:06:57 GMT | TryHackMe - Compiled — Write-Up | GHOST PORT | [Read More](https://medium.com/p/12f7884662f4) |
