@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Feb 2026 04:19:49 GMT | Quantum-Resilient State Machines — Designing Consensus for Cryptographic Evolution | sengom | [Read More](https://medium.com/p/4d6355aa9ab0) |
+| Fri, 27 Feb 2026 04:19:47 GMT | Post-Quantum Identity — Rethinking Trust Without Exposure | sengom | [Read More](https://medium.com/p/0a6d489d8eda) |
+| Fri, 27 Feb 2026 04:15:27 GMT | Pretext Phishing Is Escalating in the Philippines: Don’t Be the Next Victim | 0xJameSaiyajin | [Read More](https://medium.com/p/21ae56e983d8) |
+| Fri, 27 Feb 2026 04:13:45 GMT | The “Skeleton Key” AI Jailbreak That Can Break Guardrails | TEJAS | [Read More](https://medium.com/p/4f41ecdd191e) |
+| Fri, 27 Feb 2026 04:06:27 GMT | Best Free Online Cybersecurity Courses in 2026: Learn from Top Universities and Tech Giants | sasankdev | [Read More](https://medium.com/p/17d90177c137) |
+| Fri, 27 Feb 2026 04:03:32 GMT | My Secure App is Now Broken: The Vibe Coder’s Guide to Fixing What Security Fixed | Karla Ortiz-Flores | [Read More](https://medium.com/p/e83b9fad02b6) |
+| Fri, 27 Feb 2026 03:56:34 GMT | NULLPOINT CTF | balu | [Read More](https://medium.com/p/f7e331317950) |
+| Fri, 27 Feb 2026 03:52:29 GMT | Balancing Innovation and Security: A Strategic Approach to Mitigating Cybersecurity Risks in… | Sreejith M | [Read More](https://medium.com/p/b1e228559a16) |
+| Fri, 27 Feb 2026 03:47:26 GMT | Stop Paying for Slow VPNs: Build Your Own WireGuard Server in 5 Minutes | ServerMO | [Read More](https://medium.com/p/accd352123dc) |
+| Fri, 27 Feb 2026 03:41:41 GMT | Tutorial Instalasi Kali Linux di Oracle VirtualBox | Wiyandra Syaiful Abidin | [Read More](https://medium.com/p/073a7274fbe1) |
+| Fri, 27 Feb 2026 03:25:36 GMT | Understanding Microsoft Entra Agent ID | Will Velida | [Read More](https://medium.com/p/c437e5629a32) |
+| Fri, 27 Feb 2026 02:47:42 GMT | I Pointed a Reasoning Engine at “Overthinking.” It Found What the Word Was Hiding | Daniel Straughair | [Read More](https://medium.com/p/6894141b43b8) |
+| Fri, 27 Feb 2026 02:41:00 GMT | You Encrypted Your Database, But Your Encryption Keys Are Sitting In A Text File. | revoq | [Read More](https://medium.com/p/92486d015de5) |
+| Fri, 27 Feb 2026 02:23:18 GMT | Fileless Malware Execution Using LOLBins: A Controlled Lab Demonstration | شاہ میر عمران مغل | [Read More](https://medium.com/p/b11f0f21ce20) |
+| Fri, 27 Feb 2026 02:19:57 GMT | Red Teaming Large Language Models: How to Break AI Before Attackers Do | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/ad3f6a8c3dde) |
 | Fri, 27 Feb 2026 02:15:13 GMT | 15 JavaScript Tricks That Make Your Code Slower | CodeByUmar | [Read More](https://medium.com/p/b16dbe63198c) |
 | Fri, 27 Feb 2026 02:14:40 GMT | Most Pentest Reports Answer the Wrong Questions for the Wrong People | Louis Sanchez | [Read More](https://medium.com/p/4edfe500cb32) |
 | Fri, 27 Feb 2026 02:05:00 GMT | Why Jio Blocking Supabase Is a Bigger Problem Than It Looks | SOVANNARO | [Read More](https://medium.com/p/6a4c442d7b15) |
@@ -33,6 +48,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Feb 2026 23:23:45 GMT | Team dark-4rmy Laps | Ahmed Abdelnasser | [Read More](https://medium.com/p/b1aab7b0dbe7) |
 | Thu, 26 Feb 2026 23:14:49 GMT | Day 13 : Wordpress HTB room | Cybersecurity with Jojo | [Read More](https://medium.com/p/b1f453b56135) |
 | Thu, 26 Feb 2026 23:13:45 GMT | So Anthropic Just Accused Three Chinese AI Labs of Stealing From Claude. I Have Questions. | Vikas Sharma | [Read More](https://medium.com/p/c76565b04254) |
+| Thu, 26 Feb 2026 23:08:07 GMT | Benarkah Pesan Enkripsi Mudah Digunakan Bagi Pengguna Umum | Abdul Halim Ichwan | [Read More](https://medium.com/p/dc7a9abe922b) |
 | Thu, 26 Feb 2026 23:02:48 GMT | Professional Cyber Security Services for Brisbane & Townsville Businesses | Adits Australia | [Read More](https://medium.com/p/f8b4ffb2b6bf) |
 | Thu, 26 Feb 2026 23:02:32 GMT | Taking a Weekly OSINT Review Hiatus | OSINT Amy | [Read More](https://medium.com/p/d5ca94a7bbcc) |
 | Thu, 26 Feb 2026 23:01:49 GMT | Cryptography and Cryptanalysis | Aj | [Read More](https://medium.com/p/ce482a78b98a) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 26 Feb 2026 18:51:36 GMT | AI Agents Are the New Security Risk Nobody Talks About | techWithNeer | [Read More](https://medium.com/p/9ba0e7aa0f8f) |
 | Thu, 26 Feb 2026 18:46:23 GMT | Proving Grounds Twiggy: Backport | Nicolas Garcia | [Read More](https://medium.com/p/21cb0830fdda) |
 | Thu, 26 Feb 2026 18:45:21 GMT | HTB-TeamBlueLabs - AoTR 2: Operation Winter Blackout | Kiana Anaceliya | [Read More](https://medium.com/p/7bbce8813944) |
-| Thu, 26 Feb 2026 18:40:47 GMT | AoTR 1 — A Call from the Museum | Dikoo | [Read More](https://medium.com/p/fca5dd578bf7) |
-| Thu, 26 Feb 2026 18:33:52 GMT | Creating a Bayesian Behavioral Detector in Google SecOps (pt 1) | Greg Kushmerek | [Read More](https://medium.com/p/c5ca50b95d54) |
-| Thu, 26 Feb 2026 18:33:50 GMT | Cyber Security | MR NOBODY | [Read More](https://medium.com/p/aab7c52e3358) |
-| Thu, 26 Feb 2026 18:33:21 GMT | Encryption and Secure Data Management in iOS | Gaye Uğur | [Read More](https://medium.com/p/7451891f6638) |
-| Thu, 26 Feb 2026 18:29:23 GMT | Anatomy of a Cloud Native Attack: How We Pwned Kubernetes for $100k | Krishna Kumar | [Read More](https://medium.com/p/6201ce3808af) |
-| Thu, 26 Feb 2026 18:26:00 GMT | How to Stop WhatsApp From Automatically Downloading Files and Take Back Control of Your Phone | Divine Egyabeng | [Read More](https://medium.com/p/7ea5fdb02991) |
-| Thu, 26 Feb 2026 18:20:55 GMT | HackThisSite Basic Missions: A Pentester’s Walkthrough (Levels 1–11) | AG_Notes | [Read More](https://medium.com/p/0a63c2065646) |
-| Thu, 26 Feb 2026 18:15:25 GMT | How a PS5 Controller Hijacked 7,000 Robot Vacuums | Ship X/ TechX | [Read More](https://medium.com/p/f60a0ec71805) |
-| Thu, 26 Feb 2026 18:13:44 GMT | Your Device is Blacklisted at runtime, now what? | Suprit Pandurangi | [Read More](https://medium.com/p/cfc1a66973dc) |
-| Thu, 26 Feb 2026 18:10:46 GMT | CEH (Certified Ethical Hacking)-1 | Nomanjoyo | [Read More](https://medium.com/p/949d7f17cf07) |
-| Thu, 26 Feb 2026 18:06:21 GMT | Technical Analysis: Session Persistence Risks in WhatsApp Web & Proposed Security Mitigations | Investdfs | [Read More](https://medium.com/p/c1546417ce77) |
-| Thu, 26 Feb 2026 18:03:22 GMT | Linux Redirection Under the Hood: How the Shell Really Handles I/O | MR.7 | [Read More](https://medium.com/p/10dc47510ae5) |
-| Thu, 26 Feb 2026 18:01:01 GMT | The dashboard line drops, but the reopened thread won’t stay dead | James Kuhman | [Read More](https://medium.com/p/e272a3198cfd) |
-| Thu, 26 Feb 2026 17:57:57 GMT | El Diablo CTF Writeup— BitSkrieg CTF 2026 | Shoaib Bin Rashid | [Read More](https://medium.com/p/d0381cc40f68) |
-| Thu, 26 Feb 2026 17:57:50 GMT | Your AI Agents Have the Keys to Everything. Who’s Watching the Door? | Ravichandran K | [Read More](https://medium.com/p/1f929684a36e) |
-| Thu, 26 Feb 2026 17:56:27 GMT | How Short-Term Growth Thinking Creates Long-Term Cyber Debt | Digital Defense | [Read More](https://medium.com/p/49c29ec4cfba) |
