@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 27 Feb 2026 15:54:33 GMT | Ransomware Is a Billion-Dollar Industry | Timsux Wales | [Read More](https://medium.com/p/5f1689d27454) |
+| Fri, 27 Feb 2026 15:51:28 GMT | Odido Data Breach Highlights Persistent Telecom & Customer Data Risks | Chetan Seripally | [Read More](https://medium.com/p/eb16201416bb) |
+| Fri, 27 Feb 2026 15:50:24 GMT | Exploiting an Exported Android Activity via Intent Injection | Bharathkannan | [Read More](https://medium.com/p/466df8b05912) |
+| Fri, 27 Feb 2026 15:48:54 GMT | Operating System and Linux Explained Simply | Kswzahidali | [Read More](https://medium.com/p/32cf7c830309) |
+| Fri, 27 Feb 2026 15:37:33 GMT | From Student to Ethical Hacker: My 2026 Journey Into Cybersecurity | Kswzahidali | [Read More](https://medium.com/p/8dff839cd710) |
+| Fri, 27 Feb 2026 15:37:18 GMT | How OSINT Researchers Use Twitter Viewers in 2026 | Peter Anderson | [Read More](https://medium.com/p/6c704a808757) |
+| Fri, 27 Feb 2026 15:36:42 GMT | Professional Security Camera Installation & CCTV Services in Queens, Manhattan, Bronx & Long Island… | Seonitinsandlus | [Read More](https://medium.com/p/4faf0490b9a1) |
+| Fri, 27 Feb 2026 15:26:48 GMT | Auditing EP2: Where Legacy Payment Logic Meets Modern APIs | Garv Kamra | [Read More](https://medium.com/p/989fb21e675e) |
+| Fri, 27 Feb 2026 15:24:39 GMT | Why Gen AI Pilots are Failing in Companies | Soumitra Mandal | [Read More](https://medium.com/p/97159cbc6323) |
+| Fri, 27 Feb 2026 15:23:13 GMT | Read Team | Heavenblack | [Read More](https://medium.com/p/9b94466915be) |
+| Fri, 27 Feb 2026 15:20:36 GMT | ESLint: Scaling Code Quality Without the Friction | Alexandre Bétourné | [Read More](https://medium.com/p/01c64628cebe) |
+| Fri, 27 Feb 2026 15:16:31 GMT | Solving a Bugforge Challenge — Exploiting JWT Forging in Sokudo | Pranaya Shrestha | [Read More](https://medium.com/p/56777f48f900) |
+| Fri, 27 Feb 2026 15:12:58 GMT | Audit Logs in a Secure Vault: Tracking Who Accessed What After Death | InheritSafe | [Read More](https://medium.com/p/09b01299f67d) |
+| Fri, 27 Feb 2026 15:10:09 GMT | Day 12 of Learning AWS: Network Load Balancer (Layer 4) | Muhammad Kashif | [Read More](https://medium.com/p/0a3619d046b3) |
+| Fri, 27 Feb 2026 15:06:01 GMT | Cyber Briefing: 2026.02.27 | CyberMaterial | [Read More](https://medium.com/p/be66f612a7e6) |
+| Fri, 27 Feb 2026 15:05:19 GMT | From Secrets to Service Accounts: A Technical Post-Mortem on Google’s API Key Model in the… | Niko Mao | [Read More](https://medium.com/p/a94ce87b7de4) |
+| Fri, 27 Feb 2026 15:04:42 GMT | I Built a Browser Extension to Share Credentials Without Revealing Passwords (Now I Can Stop Lying… | Ifeanyi Yahweh Aghasili | [Read More](https://medium.com/p/c01b6de2a7fe) |
+| Fri, 27 Feb 2026 15:04:09 GMT | Webstrike lab | Agungspace | [Read More](https://medium.com/p/435e603abcbb) |
+| Fri, 27 Feb 2026 15:02:25 GMT | Securing the Modern Web: A Deep Dive into JWT with RSA256 | Sachin Verma | [Read More](https://medium.com/p/c83ee6344151) |
 | Fri, 27 Feb 2026 14:57:10 GMT | Advent Of The Relics 2 | Abdullahfatihalhuda | [Read More](https://medium.com/p/e4a205ecd85d) |
 | Fri, 27 Feb 2026 14:53:53 GMT | ChatGPT Ads Are Here — Why They’re More Dangerous Than Search Ads | Karl Buhl | [Read More](https://medium.com/p/f2e14f2af519) |
 | Fri, 27 Feb 2026 14:52:49 GMT | CISA KEV Expands as Malware Campaigns Target Enterprise Infrastructure | Loginsoft | [Read More](https://medium.com/p/1039390573b9) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Feb 2026 10:49:14 GMT | ️ Leveling Up: Web Security Essentials | Chamith Sirisena | [Read More](https://medium.com/p/eeb2f29e2891) |
 | Fri, 27 Feb 2026 10:46:31 GMT | Ensuring Safety and Peace of Mind with Alfa Security Services | Alfa Security Services Pty ltd | [Read More](https://medium.com/p/b796061955d0) |
 | Fri, 27 Feb 2026 10:37:44 GMT | Best Endpoint Security Services in India - Protect Your Endpoint Devices | Thiripathiv | [Read More](https://medium.com/p/33b10e7e4118) |
-| Fri, 27 Feb 2026 10:32:12 GMT | Customer Service in the Digital Age: What Today’s Travelers Expect | Adegbaju olufunmilayo Esther | [Read More](https://medium.com/p/1283bbc007d8) |
-| Fri, 27 Feb 2026 10:31:03 GMT | WebStrike Lab Write-Up: Investigating a Web Shell Attack Using Wireshark | Darasamsaraayu | [Read More](https://medium.com/p/6b5253b51dd6) |
-| Fri, 27 Feb 2026 10:28:37 GMT | My 2 cents on vibe coding and how I created a bespoke parenting app for myself | Veronika Aleksova | [Read More](https://medium.com/p/b519bd329ca3) |
-| Fri, 27 Feb 2026 10:21:00 GMT | How It Ends…Bursting the AI Bubble and Humanity’s Basic Reboot | Namir Sagheenanajar | [Read More](https://medium.com/p/6e22cb363517) |
-| Fri, 27 Feb 2026 10:19:13 GMT | Day-to-Day Responsibilities of a Cyber Security Professional | Dkvilas | [Read More](https://medium.com/p/f4694cc7d037) |
-| Fri, 27 Feb 2026 10:15:42 GMT | HackTheBox Sherlock — AoTR 1: A Call from the Museum | rexaa | [Read More](https://medium.com/p/618ccd953731) |
-| Fri, 27 Feb 2026 10:13:01 GMT | Web Penetration Testing’e Giriş: Temel Kavramlar | Berre Zehra | [Read More](https://medium.com/p/67ad217ff690) |
-| Fri, 27 Feb 2026 10:12:50 GMT | Wireshark Traffic Analysis: A Comprehensive Guide | Citadel Cybersec | [Read More](https://medium.com/p/098d2cb155a2) |
-| Fri, 27 Feb 2026 10:10:46 GMT | Understanding Cybersecurity: Key Trends & Data Safety in 2026 | willsaysss | [Read More](https://medium.com/p/eab7aeeafe98) |
-| Fri, 27 Feb 2026 10:10:14 GMT | The Core Challenge: The Math of RSA | Shivansh Mishra | [Read More](https://medium.com/p/aef2e3afe2e2) |
-| Fri, 27 Feb 2026 10:09:25 GMT | Attachment Wounds: How Healing Leads to Integration and Self-Actualization | LIANA VIBES | [Read More](https://medium.com/p/fc32ed9ebe71) |
-| Fri, 27 Feb 2026 10:08:45 GMT | Top Cybersecurity Threats Impacting Businesses in the UAE Today | NR Doshi & Partners | [Read More](https://medium.com/p/e2502d0ccbd3) |
-| Fri, 27 Feb 2026 10:02:48 GMT | Best Cybersecurity Service Company in India (2026) | Vinod Senthil | [Read More](https://medium.com/p/c05d6e821f4e) |
-| Fri, 27 Feb 2026 09:53:12 GMT | Job Oriented IT Training in Katihar: Learn Skills That Lead to Employment | Brainzima Innovation Institute | [Read More](https://medium.com/p/2612266bb7e1) |
-| Fri, 27 Feb 2026 09:52:50 GMT | How AI Helped Me Fix Angular Bugs 5x Faster | Annu Kumari | [Read More](https://medium.com/p/984a732ea704) |
-| Fri, 27 Feb 2026 09:52:32 GMT | How to Connect & Use Burp MCP with Antigravity? | Sle3pyHead ‍ | [Read More](https://medium.com/p/484e665ca973) |
-| Fri, 27 Feb 2026 09:45:04 GMT | The Address Book of the Internet: IPv4 & Subnets | Olajubu Olasubomi | [Read More](https://medium.com/p/dfb03c5a72a1) |
-| Fri, 27 Feb 2026 09:36:38 GMT | Unmasking Network Infrastructure Through TTL Analysis. | Kobla Edem | [Read More](https://medium.com/p/3ba6790e2a15) |
-| Fri, 27 Feb 2026 09:31:00 GMT | I Tested Both Password Managers for 6 Months. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/c8e7601967f6) |
