@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 18:30:03 GMT | What is DevSecOps & Why It Matters | Gautammakwana | [Read More](https://medium.com/p/ab0367625208) |
+| Sat, 28 Feb 2026 18:21:33 GMT | Marker Interface 與 Annotation（Attribute）的比較 | 思維舞步 MindSteps | [Read More](https://medium.com/p/2bf56d76c982) |
+| Sat, 28 Feb 2026 18:20:27 GMT | Implementing Least Privilege Access to Amazon S3 Using AWS IAM | Nicholas Palumbi | [Read More](https://medium.com/p/c1fb8c7c4187) |
+| Sat, 28 Feb 2026 18:20:20 GMT | Web4 & Spatial Computing: Beyond the Metaverse | Mai Tran | [Read More](https://medium.com/p/a0ef58cb5978) |
+| Sat, 28 Feb 2026 18:12:43 GMT | I Didn’t Lose Money That Day | Tara Sanjay | [Read More](https://medium.com/p/98b855af6d3a) |
+| Sat, 28 Feb 2026 17:58:26 GMT | Why Your AI Costs Keep Rising and How LLMs Actually Count Tokens | Tara Prasad Routray | [Read More](https://medium.com/p/270defddaf31) |
+| Sat, 28 Feb 2026 17:56:48 GMT | [Prod-001] Production issues — stories | Sarvsav Sharma | [Read More](https://medium.com/p/4ffe5a9ceb79) |
+| Sat, 28 Feb 2026 17:46:53 GMT | Self-Hosted Infrastructure Using VPS & Cloud Computing | Hack'n'Tea | [Read More](https://medium.com/p/ec88a39437d4) |
+| Sat, 28 Feb 2026 17:43:56 GMT | तू मेरे पास बैठ ना… | Vinsi | [Read More](https://medium.com/p/2462ccb0de56) |
+| Sat, 28 Feb 2026 17:41:38 GMT | CASE FILE #DF-EVTX-01 - CLASSIFIED | kanieloutis | [Read More](https://medium.com/p/a2631b716c25) |
 | Sat, 28 Feb 2026 17:33:19 GMT | The Week I Called It Casual and She Called It Love | Gabriel Lucatero | [Read More](https://medium.com/p/4477fa242235) |
 | Sat, 28 Feb 2026 17:27:37 GMT | The Algorithmic Economy: When Algorithms Make Financial Decisions | Mai Tran | [Read More](https://medium.com/p/f3f54b7e82ec) |
 | Sat, 28 Feb 2026 17:26:27 GMT | 3,100 Cyber Attacks a Week: Why Reactive Security Is Dead | Clara Smith | [Read More](https://medium.com/p/99b0a30f3da0) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Feb 2026 11:38:52 GMT | The Registration Struggle: Why Your Personal Phone Number is a Risk and How Virtual Numbers Solve… | NNayak | [Read More](https://medium.com/p/d4c4287b2d87) |
 | Sat, 28 Feb 2026 11:34:05 GMT | ethical hacking | Ehtishamjk | [Read More](https://medium.com/p/e390c162526d) |
 | Sat, 28 Feb 2026 11:30:11 GMT | Restricted: Securing Sensitive Financial Data in Web Apps | Ojage Salathiel | [Read More](https://medium.com/p/c2888c5e4e58) |
-| Sat, 28 Feb 2026 11:23:27 GMT | How I Earned a €700 Bounty from an Information Disclosure Vulnerability | DOD cyber solutions | [Read More](https://medium.com/p/79a246e10116) |
-| Sat, 28 Feb 2026 11:21:00 GMT | Why Violence Has Erupted in Mexico And Why It Matters More Than You Realize | Sagar S Nair | [Read More](https://medium.com/p/b83fe4ed44c6) |
-| Sat, 28 Feb 2026 11:17:42 GMT | How to Identify Industry-Oriented Cyber Security Programs. | logging security | [Read More](https://medium.com/p/8666309e83cc) |
-| Sat, 28 Feb 2026 11:17:36 GMT | ISO 27001 Is Not a Certificate. It’s a Stress Test for Your Company. | Fintech By Tanu | [Read More](https://medium.com/p/a1e8bdc68134) |
-| Sat, 28 Feb 2026 11:15:58 GMT | Cloud Security Essentials for Modern Organizations | Kunal Arora | [Read More](https://medium.com/p/e50d29c2d20c) |
-| Sat, 28 Feb 2026 11:08:58 GMT | When File Explorer Becomes an Attack Vector: How Hackers Are Using WebDAV for Stealthy Malware… | Jas | [Read More](https://medium.com/p/4bde5c646246) |
-| Sat, 28 Feb 2026 11:01:48 GMT | O Ransonware ”Bonzinho” — uma análise comportamental. | Paulo Henrique | [Read More](https://medium.com/p/cdaa663ad396) |
-| Sat, 28 Feb 2026 10:51:17 GMT | Yozlaşan Düzen ve Hayatta Kalmak: Sosyal Mühendisliği ve Psikolojiyi Anlamak 3 | Hakan ÇEVİK | [Read More](https://medium.com/p/f7b8e8e354d8) |
-| Sat, 28 Feb 2026 10:47:32 GMT | 1.Scope, Legality, and Ethics of Ethical Hacking | Waqashk | [Read More](https://medium.com/p/8ee3ddef0139) |
-| Sat, 28 Feb 2026 10:46:02 GMT | Authentication Strategies Explained — JWT vs Sessions vs OAuth vs Magic Link | Kunj Baldha | [Read More](https://medium.com/p/2d47715f2c2c) |
