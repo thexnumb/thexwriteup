@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 01:35:41 GMT | The Weight of Feeling Like a Failure: Am I Losing a Race I Never Asked to Run? | The Silent Journaler | [Read More](https://medium.com/p/58eefecafd31) |
+| Sat, 28 Feb 2026 01:26:00 GMT | How I Built a Bank-Grade Emulator Detector to Stop Hackers Dead — Part 2 | Harrison Kuria | [Read More](https://medium.com/p/a9d45eb9ec49) |
+| Sat, 28 Feb 2026 00:56:38 GMT | We Thought It Was Just a Slow Computer… — Until the Ransomware Note Appeared | WEBULITY | [Read More](https://medium.com/p/18f01b3a5ada) |
+| Sat, 28 Feb 2026 00:49:13 GMT | Your Government Can’t Prove It Sent You That Email | Markus Sandelin | [Read More](https://medium.com/p/e15ef719929a) |
+| Sat, 28 Feb 2026 00:31:02 GMT | 10 TypeScript validation mistakes that make tool calls unsafe | Yamishift | [Read More](https://medium.com/p/2e1d7157a744) |
+| Sat, 28 Feb 2026 00:26:37 GMT | Deconstructing Extremist Ideologies: A Research Series on Global Human Rights. | Mohammad Hanifeh | [Read More](https://medium.com/p/6118ebeb1292) |
+| Sat, 28 Feb 2026 00:10:32 GMT | Kali Linux Serisi#1: Yeni Başlayanlar İçin Kali Linux Nedir ve Neden Kullanılır? | Şüheda Yavuz | [Read More](https://medium.com/p/a50761722cca) |
+| Sat, 28 Feb 2026 00:10:12 GMT | Cybersecurity has become an essential part of Ugandan society as the country rapidly adopts digital… | Kamarunga Tabitha Judith | [Read More](https://medium.com/p/f05ff4656cca) |
+| Sat, 28 Feb 2026 00:01:03 GMT | Netcat Guide for Pentesting: Commands, Reverse Shells, and Exfiltration | JPablo13 | [Read More](https://medium.com/p/88d2d956c1ee) |
+| Fri, 27 Feb 2026 23:59:42 GMT | If AI Eats Software, What Happens to Security? | Todd Gamble | [Read More](https://medium.com/p/13c9a998391a) |
+| Fri, 27 Feb 2026 23:53:38 GMT | Keep Your BILLCO Glass Cutter Alive! A IT Consulting Case Study to Provide Value | Seeley Solutions - Technical Writer & Consultant | [Read More](https://medium.com/p/7a0843b2e630) |
+| Fri, 27 Feb 2026 23:49:12 GMT | AI Defense II | Saniye Nur | [Read More](https://medium.com/p/a4534d62ca89) |
 | Fri, 27 Feb 2026 23:38:13 GMT | Redis to SYSTEM—TryHackMe VulnNet: Active | Robert Perez | [Read More](https://medium.com/p/0ccef43e1e6c) |
 | Fri, 27 Feb 2026 23:33:59 GMT | Is Claude Security The Death of Application Security Tools? | Andrew Blooman | [Read More](https://medium.com/p/e2164659b595) |
 | Fri, 27 Feb 2026 23:30:15 GMT | GenAI Isn’t the Real Risk. Your Data Is. | Cyber-AppSec | [Read More](https://medium.com/p/de127f9d59ed) |
@@ -101,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Feb 2026 17:26:37 GMT | The Ultimate TryHackMe Roadmap: Don’t Start Your Cybersecurity Journey Without Playing These Rooms… | Motasem Hamdan | [Read More](https://medium.com/p/f4b60f2b594c) |
 | Fri, 27 Feb 2026 17:23:08 GMT | Broken Access Control: From IDOR to Privilege Escalation | vamos | [Read More](https://medium.com/p/dbb76b0b839e) |
 | Fri, 27 Feb 2026 17:19:47 GMT | Tech#53 — NextSaaS: “Would Your SaaS Pass a Security Audit? (Honest Checklist) | Vikkas Arun Pareek | [Read More](https://medium.com/p/c168a49f735c) |
-| Fri, 27 Feb 2026 17:11:32 GMT | vtrains:This is a control panel based on Whisper. | Мартин. | [Read More](https://medium.com/p/e7f0ee2d94da) |
-| Fri, 27 Feb 2026 17:03:28 GMT | PRISM’den Algoritmalara: Sosyal Medya Bir Gözetim Aracı mı? | Hakan ÇEVİK | [Read More](https://medium.com/p/8495cac5c96c) |
-| Fri, 27 Feb 2026 17:01:58 GMT | The first feedback at work and how it taught me a lesson to never forget | Robson Zacarias | [Read More](https://medium.com/p/8cc5fc866733) |
-| Fri, 27 Feb 2026 17:01:01 GMT | Cybersecurity Awareness Scenario #2 | Devore McIntosh | [Read More](https://medium.com/p/668f36cb9c9c) |
-| Fri, 27 Feb 2026 17:00:51 GMT | We learned that ethical hacking is not about breaking systems for harm, but about protecting… | Jksantak | [Read More](https://medium.com/p/94ef75ca121f) |
-| Fri, 27 Feb 2026 16:58:57 GMT | Best Ring Compatible Smart Locks — Ultimate Guide (2026) | Narjis Arshad | [Read More](https://medium.com/p/49d0c715c990) |
-| Fri, 27 Feb 2026 16:57:00 GMT | Lab: Basic server-side template injection (code context) - PortSwigger | SIGKILLers | [Read More](https://medium.com/p/e7af67f193c6) |
-| Fri, 27 Feb 2026 16:55:46 GMT | Scheme Catcher — AOC Side Quest TryHackme | Jatin Gahlot | [Read More](https://medium.com/p/2ce5846ba45c) |
-| Fri, 27 Feb 2026 16:52:58 GMT | Bootcamp IDN Week 2: Advent of The Relics (AoTR) 1 & 2 — A Call from the Museum | EnruRamadhan | [Read More](https://medium.com/p/b08753e52f09) |
-| Fri, 27 Feb 2026 16:52:06 GMT | ⏱️️ Timelapse — One Certificate. Full Compromise | Jabaribrown | [Read More](https://medium.com/p/291f85b551a3) |
-| Fri, 27 Feb 2026 16:46:50 GMT | 2026 Siber Saldırıları Part-5 | Zekikayaalp | [Read More](https://medium.com/p/6e949ea4fc5e) |
-| Fri, 27 Feb 2026 16:43:31 GMT | SIEM Nedir ve Nasıl Çalışır? | Mehdican Büyükplevne | [Read More](https://medium.com/p/35aada2f83d4) |
