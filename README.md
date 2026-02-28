@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 14:21:36 GMT | Checking if Node.js is vulnerablewhile | RungkritSys | [Read More](https://medium.com/p/d6013feb05ab) |
+| Sat, 28 Feb 2026 14:21:17 GMT | In 2015 I Built the First Tool to Measure Security Culture. Now I Am Measuring What Comes Next. | Kai Roer | [Read More](https://medium.com/p/029eaa84430a) |
+| Sat, 28 Feb 2026 14:19:00 GMT | Network Pivoting Explained for OSCP - Step-by-Step Walkthrough | cyber_public_school | [Read More](https://medium.com/p/bdaba125a901) |
+| Sat, 28 Feb 2026 14:18:09 GMT | Metasploit Tutorial for Beginners: Gain Remote Access in 10 Minutes | The SecOps Lead | [Read More](https://medium.com/p/7182688c2284) |
+| Sat, 28 Feb 2026 14:17:33 GMT | Why the Internet’s Security Actually Depends on a 1970s Toy | Jarif | [Read More](https://medium.com/p/7d73b2618e79) |
+| Sat, 28 Feb 2026 14:17:08 GMT | The “FBI Moment” for Anthropic | Egezon Baruti | [Read More](https://medium.com/p/699330e10fa4) |
+| Sat, 28 Feb 2026 14:11:48 GMT | PyRIT Ship — Linux version | 喂美女你好! | [Read More](https://medium.com/p/e6a13f174d4f) |
+| Sat, 28 Feb 2026 14:05:05 GMT | Is Front-end development still worth learning in 2026? | IbnH | [Read More](https://medium.com/p/14334b5f58c0) |
+| Sat, 28 Feb 2026 14:01:01 GMT | Threat Hunting with CTI — LetsDefend [Part 3] | 0verRida | [Read More](https://medium.com/p/9b77240240f3) |
+| Sat, 28 Feb 2026 13:58:02 GMT | Lab: DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded | mayhack | [Read More](https://medium.com/p/a3233f24a651) |
+| Sat, 28 Feb 2026 13:57:20 GMT | D-Wave Acquires Quantum Circuits: The First Dual-Platform Quantum Leader Emerges (2026) | Quantumhorizon.it | [Read More](https://medium.com/p/924cefaff40e) |
+| Sat, 28 Feb 2026 13:49:49 GMT | The Dynamic Runtime Supply Chain: A New Security Risk for Autonomous AI | Savyasachi | [Read More](https://medium.com/p/926eff30c48b) |
+| Sat, 28 Feb 2026 13:41:31 GMT | Wish We Didn’t Treat Vulnerability Like Bad Marketing | LSD | [Read More](https://medium.com/p/7f8d3ea84aee) |
+| Sat, 28 Feb 2026 13:38:39 GMT | The Cryptography Paradox: Why Do You Have to Share Your "Private" Key? (Key Escrow) | Mahdi | [Read More](https://medium.com/p/f0707e5c2f31) |
 | Sat, 28 Feb 2026 13:23:23 GMT | Investigasi Brute-Force SSH dengan auth.log & wtmp | Arfan (p4n) | [Read More](https://medium.com/p/caf975def880) |
 | Sat, 28 Feb 2026 13:15:56 GMT | Dancing with SMB: Exploring Misconfigured Windows Shares on HTB | Omar Abdelmetaal | [Read More](https://medium.com/p/55fc7fb9c2c0) |
 | Sat, 28 Feb 2026 13:15:21 GMT | In Search of Good News | Elvis M. D. Browne | [Read More](https://medium.com/p/e197d13ea9ba) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Feb 2026 08:08:29 GMT | Beware of Fake Dropbox Emails: Inside a Sophisticated Multi-Stage PDF Phishing Attack | Deven Chhajed | [Read More](https://medium.com/p/0facbed8aef2) |
 | Sat, 28 Feb 2026 08:07:52 GMT | ️ nezuko:1 — OSCP Raw - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/90383b5de47b) |
 | Sat, 28 Feb 2026 08:02:05 GMT | Implementing Azure Monitor Private Link Scope (AMPLS) for Production-Grade Isolation | Ibrahim Dauda | [Read More](https://medium.com/p/2e0cfe71f824) |
-| Sat, 28 Feb 2026 08:02:01 GMT | Reviving a WordPress Honeypot with Vibe Coding | William Touzalin | [Read More](https://medium.com/p/2f3489d3a9d5) |
-| Sat, 28 Feb 2026 07:53:08 GMT | Week 12 — The Art of Failing Better: A Confession of a Struggling Idealist | Siddhi Agrawal | [Read More](https://medium.com/p/cf47fcd8a428) |
-| Sat, 28 Feb 2026 07:51:30 GMT | How to Handle File Uploads in Node.js (Beginner Guide to Multer) | Dipika_gandash | [Read More](https://medium.com/p/c3810de38b81) |
-| Sat, 28 Feb 2026 07:44:20 GMT | Güçlü Parola Nedir? PBKDF2 Neden Şifrelemede Kritik Rol Oynar? | Ali Yaşe | [Read More](https://medium.com/p/00f26c29e449) |
-| Sat, 28 Feb 2026 07:39:59 GMT | CYBERDUDEBIVASH® SSRF Filter + Secure Proxy Service v1.0.0 | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/5ef48168b729) |
-| Sat, 28 Feb 2026 07:37:27 GMT | सायबर सुरक्षा आणि एथिकल हॅकिंग: डिजिटल युगातील अभेद्य कवच | Smit Shah | [Read More](https://medium.com/p/e272624ac2f7) |
-| Sat, 28 Feb 2026 07:33:34 GMT | The EU just launched the ICT Supply Chain Security Toolbox to standardize vendor risk assessments | Denny Roger | [Read More](https://medium.com/p/3a2c20eda237) |
-| Sat, 28 Feb 2026 07:28:16 GMT | The Truth About “Secure By Default” Frameworks | Mwenda Kelvin | [Read More](https://medium.com/p/bfbfdfdf1266) |
-| Sat, 28 Feb 2026 07:26:11 GMT | How Someone Almost Hacked Every Linux Server on the Planet | Bhargav | [Read More](https://medium.com/p/3037d6e53f1b) |
-| Sat, 28 Feb 2026 07:21:05 GMT | Google Told Developers Their API Keys Were Not Secrets. Then Gemini Arrived. | Soumyadipta Birabar | [Read More](https://medium.com/p/dc65731cc824) |
-| Sat, 28 Feb 2026 07:20:54 GMT | Security Best Practices: Protecting Your Application | Yakhilesh | [Read More](https://medium.com/p/f23f32f03847) |
-| Sat, 28 Feb 2026 07:20:48 GMT | How Compliant is Microsoft Security Copilot? | Yash Mudaliar | [Read More](https://medium.com/p/8cb50247b7e5) |
-| Sat, 28 Feb 2026 07:15:50 GMT | No, Microsoft Isn’t Spying on You. But Here’s What’s Really Happening | Arshad | [Read More](https://medium.com/p/5338dfeac17e) |
-| Sat, 28 Feb 2026 07:09:38 GMT | Microsoft Enhances Windows 11 with New Batch File Security and Performance Upgrades | Rakibul Hasan Sagor | [Read More](https://medium.com/p/7c5a426d4b93) |
