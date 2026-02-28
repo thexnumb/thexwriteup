@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 22:05:33 GMT | Passkeys WebAuthn Tutorial 2026: How to Kill Passwords in Your Next App | Tent Of Tech | [Read More](https://medium.com/p/cf2a72a75a54) |
+| Sat, 28 Feb 2026 22:02:57 GMT | Cross-Site Request Forgery (CSRF) Attack Lab: A Hands-On Journey Through Request Manipulation | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/892265859abb) |
+| Sat, 28 Feb 2026 21:44:04 GMT | The AI Observability Crisis No One Is Talking About | George William Amalan | [Read More](https://medium.com/p/f7531156acbd) |
+| Sat, 28 Feb 2026 21:43:48 GMT | From Fake Chrome to Shikata Shellcode: Rebuilding a Multi-Stage Infection Step by Step | Dhico satria | [Read More](https://medium.com/p/cc7486bbb298) |
 | Sat, 28 Feb 2026 21:39:48 GMT | Rancher Default Roles — The Hidden Path to Cluster Takeover | Sadi Zane | [Read More](https://medium.com/p/60b5d0632d8c) |
 | Sat, 28 Feb 2026 21:34:45 GMT | How I Saved $1 Million by Moving Load Balancing Off F5 - One Cluster at a Time | Pooja Chandolu | [Read More](https://medium.com/p/cdba2709bb70) |
 | Sat, 28 Feb 2026 21:30:28 GMT | I Tracked My Digital Footprint for 30 Days. Here’s What I Found and Why It Should Worry You | The SecOps Lead | [Read More](https://medium.com/p/9746cd106c09) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Feb 2026 14:21:17 GMT | In 2015 I Built the First Tool to Measure Security Culture. Now I Am Measuring What Comes Next. | Kai Roer | [Read More](https://medium.com/p/029eaa84430a) |
 | Sat, 28 Feb 2026 14:19:00 GMT | Network Pivoting Explained for OSCP - Step-by-Step Walkthrough | cyber_public_school | [Read More](https://medium.com/p/bdaba125a901) |
 | Sat, 28 Feb 2026 14:18:09 GMT | Metasploit Tutorial for Beginners: Gain Remote Access in 10 Minutes | The SecOps Lead | [Read More](https://medium.com/p/7182688c2284) |
-| Sat, 28 Feb 2026 14:17:33 GMT | Why the Internet’s Security Actually Depends on a 1970s Toy | Jarif | [Read More](https://medium.com/p/7d73b2618e79) |
-| Sat, 28 Feb 2026 14:17:08 GMT | The “FBI Moment” for Anthropic | Egezon Baruti | [Read More](https://medium.com/p/699330e10fa4) |
-| Sat, 28 Feb 2026 14:11:48 GMT | PyRIT Ship — Linux version | 喂美女你好! | [Read More](https://medium.com/p/e6a13f174d4f) |
-| Sat, 28 Feb 2026 14:05:05 GMT | Is Front-end development still worth learning in 2026? | IbnH | [Read More](https://medium.com/p/14334b5f58c0) |
