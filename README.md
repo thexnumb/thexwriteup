@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 07:15:50 GMT | No, Microsoft Isn’t Spying on You. But Here’s What’s Really Happening | Arshad | [Read More](https://medium.com/p/5338dfeac17e) |
+| Sat, 28 Feb 2026 07:09:38 GMT | Microsoft Enhances Windows 11 with New Batch File Security and Performance Upgrades | Rakibul Hasan Sagor | [Read More](https://medium.com/p/7c5a426d4b93) |
+| Sat, 28 Feb 2026 07:07:03 GMT | SSL Certificates Explained: A Deep Dive into Encryption, Attacks, and How HTTPS Secures the Web | Jack Pritom Soren | [Read More](https://medium.com/p/4a16366766ce) |
+| Sat, 28 Feb 2026 07:06:53 GMT | What is Contract Source Code Verified? Why It Matters for Token Safety | assetslink | [Read More](https://medium.com/p/0c561a747947) |
+| Sat, 28 Feb 2026 07:06:17 GMT | The Future of Cybersecurity: Why Strong Digital Protection Is Now Required | Viginet Pvt Ltd | [Read More](https://medium.com/p/adec6fdc80a9) |
+| Sat, 28 Feb 2026 07:05:32 GMT | Cybersecurity, once an IT issue, is now considered a business survival strategy. | Sparklecode Technologies | [Read More](https://medium.com/p/f22e2cb27ad5) |
+| Sat, 28 Feb 2026 07:01:54 GMT | What Happens When Your PHP API Doesn’t Have Rate Limiting? | Ann R. | [Read More](https://medium.com/p/1824edd8e3c1) |
+| Sat, 28 Feb 2026 07:01:00 GMT | 6. Essential Git Commands Every DevOps Fresher Must Know | Mangesh Muley | [Read More](https://medium.com/p/7964cb134781) |
+| Sat, 28 Feb 2026 06:59:26 GMT | ethical hacking | Aathiraks | [Read More](https://medium.com/p/b1fdfb90357a) |
+| Sat, 28 Feb 2026 06:57:49 GMT | One Year on Medium | War Vithin | [Read More](https://medium.com/p/4e01297babe1) |
+| Sat, 28 Feb 2026 06:51:55 GMT | gcc (Ghost C Compiler) CTF Writeup— BitSkrieg CTF 2026 | Shoaib Bin Rashid | [Read More](https://medium.com/p/c803aa8a2610) |
+| Sat, 28 Feb 2026 06:51:40 GMT | CYBERDUDEBIVASH® Identity Anomaly Detector + Ansible Patcher v1.0.0 | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/d0b54ae54101) |
+| Sat, 28 Feb 2026 06:51:21 GMT | Marlboro CTF Writeup — BitSkrieg CTF 2026 | Shoaib Bin Rashid | [Read More](https://medium.com/p/e0045dc23dc4) |
+| Sat, 28 Feb 2026 06:51:16 GMT | Deceptive Pop-Ups | Temitayo Adebisi | [Read More](https://medium.com/p/ff61bf812ec0) |
+| Sat, 28 Feb 2026 06:49:27 GMT | The path to the core | Progsky | [Read More](https://medium.com/p/9c1fd3d527db) |
+| Sat, 28 Feb 2026 06:45:44 GMT | Data Privacy in 2026: The Rules Have Changed — Have You? | Deoatharva | [Read More](https://medium.com/p/4810a9e4e0a9) |
+| Sat, 28 Feb 2026 06:39:13 GMT | A Practical Memory Leak Hunting Guide | Fateyaly | [Read More](https://medium.com/p/3067606e914d) |
 | Sat, 28 Feb 2026 06:31:01 GMT | Command-Line Investigation in the Age of EDR | Ankita Sinha | [Read More](https://medium.com/p/db87034cee4f) |
 | Sat, 28 Feb 2026 06:24:56 GMT | Advent of The Relics 2 — Operation Winter Blackout | Dimas Adrian | [Read More](https://medium.com/p/8205fef7cbc0) |
 | Sat, 28 Feb 2026 06:22:58 GMT | I tried to solve the ctf challenge about finding the flag by logging into a user whose password is… | Billy Elvonda Aron Umpel | [Read More](https://medium.com/p/de4a4ac097eb) |
@@ -96,20 +113,3 @@ Inside a Python Keylogger Built for Awareness!? | AizaKhurram | [Read More](http
 | Fri, 27 Feb 2026 21:19:17 GMT | Building Wintermute: From Reactive Chatbot to Autonomous Intelligence | Jyrki Huhta | [Read More](https://medium.com/p/57741e8fbd96) |
 | Fri, 27 Feb 2026 21:18:57 GMT | Cloud Is Not Neutral: Data Protection Risk in the UAE Market | BiyteLüm | [Read More](https://medium.com/p/18c1314dfa13) |
 | Fri, 27 Feb 2026 21:18:03 GMT | Why the Human Brain Is So Easy to Hack | Ammar Abubaker | [Read More](https://medium.com/p/8c033411e90d) |
-| Fri, 27 Feb 2026 21:14:58 GMT | GenAI and Public Data | ADITI | [Read More](https://medium.com/p/72038c2a7af3) |
-| Fri, 27 Feb 2026 21:10:24 GMT | Understanding OAuth2 in a Simple and Practical Way | Tran Anh Duy NGUYEN | [Read More](https://medium.com/p/8f086a98f6ae) |
-| Fri, 27 Feb 2026 20:59:38 GMT | Cross-Site Scripting (XSS) Attack Lab: A Hands-On Journey Through Client-Side Exploitation | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/554eece9a255) |
-| Fri, 27 Feb 2026 20:58:32 GMT | SRUM-DUMP v3: A Practical Guide to Windows Forensics with the New GUI and Feature | Dean | [Read More](https://medium.com/p/9497cabdc007) |
-| Fri, 27 Feb 2026 20:41:28 GMT | UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor | SOCFortress | [Read More](https://medium.com/p/f3b89e944278) |
-| Fri, 27 Feb 2026 20:41:00 GMT | INE-Web Application Penetration Testing CTF 1 by Singkhon | Singkhon K | [Read More](https://medium.com/p/5d0edafcc7ef) |
-| Fri, 27 Feb 2026 20:24:51 GMT | The First Crucial Step to Secure AI | Matthew.Rosenquist | [Read More](https://medium.com/p/65e51a286086) |
-| Fri, 27 Feb 2026 20:24:11 GMT | SQL Injection Attack Lab: A Hands-On Journey Through Database Exploitation | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/40d63b03d874) |
-| Fri, 27 Feb 2026 20:17:24 GMT | PortSwigger Access Control Vulnerabilities Lab Notes | Emre A. | [Read More](https://medium.com/p/d99a6201258f) |
-| Fri, 27 Feb 2026 20:16:09 GMT | Monitoramento de domínios suspeitos | Alex Feleol | [Read More](https://medium.com/p/04066f8710cc) |
-| Fri, 27 Feb 2026 20:14:13 GMT | I Roasted a Service Account and Walked Out with the Whole Domain: TryHackMe Attacktive Directory | Robert Perez | [Read More](https://medium.com/p/b7aaa05e1aea) |
-| Fri, 27 Feb 2026 20:09:56 GMT | Prevenção a Fraudes na Black Friday | Alex Feleol | [Read More](https://medium.com/p/2421bccfd100) |
-| Fri, 27 Feb 2026 20:06:30 GMT | The Mission Layer #1: Every AI Defense Broke. The Pattern Tells You Why. | Sergey Vlasov | [Read More](https://medium.com/p/752878339594) |
-| Fri, 27 Feb 2026 20:03:48 GMT | Cybersecurity Bootcamp Week 2 : Advent of The Relics 1 | Ferdirisqoamardianto | [Read More](https://medium.com/p/8bdf539f7f43) |
-| Fri, 27 Feb 2026 19:56:56 GMT | I Thought I Understood Computers… Until I Opened One | Malishemmanuelabui | [Read More](https://medium.com/p/b57d47164457) |
-| Fri, 27 Feb 2026 19:56:04 GMT | Luxury Home Security: Protecting Your Estate Without Compromising Style | Monica Fabbio | [Read More](https://medium.com/p/839017dcb3be) |
-| Fri, 27 Feb 2026 19:52:26 GMT | The AI Skills That Will Make You Unemployable –And the Ones That Won’t | Brainstorm_delight | [Read More](https://medium.com/p/5ae7e3885e4b) |
