@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 20:30:16 GMT | Israel’s Historic Cyberattacks Against the Islamic Republic: Consequences, Outcomes, and the Long… | CCD-IS | [Read More](https://medium.com/p/b8979d605848) |
 | Sat, 28 Feb 2026 20:25:32 GMT | My Cyber Defenses: From Log4Shell to RDP | Nitin Sharma | [Read More](https://medium.com/p/8036353fb55e) |
 | Sat, 28 Feb 2026 20:20:02 GMT | I Installed OpenClaw on a 12-Year-Old MacBook. Here’s What Everyone Gets Wrong About Security. | Syed Abbas T. | [Read More](https://medium.com/p/3f843ff25fc3) |
 | Sat, 28 Feb 2026 20:15:24 GMT | BluePrint (THM) Write-up Only Answer | Lawvye | [Read More](https://medium.com/p/c7a13ec66924) |
@@ -30,6 +31,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Feb 2026 19:01:00 GMT | Spyware Industry: The Zero-Click Empire | Jerry | [Read More](https://medium.com/p/a1deec54f2ea) |
 | Sat, 28 Feb 2026 18:56:00 GMT | EU GDPR — Article 25 (Data Protection by Design and by Default) | MDM Team | [Read More](https://medium.com/p/4a941045536f) |
 | Sat, 28 Feb 2026 18:51:15 GMT | Small Business Technology News: A ChatGPT Smart Speaker | Gene Marks | [Read More](https://medium.com/p/9c42226fe389) |
+| Sat, 28 Feb 2026 18:49:41 GMT | Why Cybersecurity Is No Longer About Prevention It’s About Survivability | CybeCloud | [Read More](https://medium.com/p/e35ea0cf14f5) |
 | Sat, 28 Feb 2026 18:49:17 GMT | Artificial Intelligence: A Simple Guide to Understanding AI | Techridge Solutions | [Read More](https://medium.com/p/0aac1f544e89) |
 | Sat, 28 Feb 2026 18:38:40 GMT | Exploring Burpsuite MCP Server: Connecting WSL to Burpsuite MCP Server | Ayyubnoezher | [Read More](https://medium.com/p/a1fc4c875279) |
 | Sat, 28 Feb 2026 18:36:18 GMT | The Great Identity Heist: Why We Stopped Trusting Passwords and Started Trusting “Okta” | Pandit Shivam | [Read More](https://medium.com/p/5b2d448a39c5) |
@@ -64,6 +66,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Feb 2026 16:17:44 GMT | Tried to Hack an AI-Built App. It Took Me 7 Minutes. | AIThinkerLab | [Read More](https://medium.com/p/da1c648a4462) |
 | Sat, 28 Feb 2026 16:17:04 GMT | The Tap That Broke Greece | O. J. Okpabi | [Read More](https://medium.com/p/35b3174b9f5f) |
 | Sat, 28 Feb 2026 16:13:45 GMT | Prompt Injection Is the New SQL Injection | Tara Prasad Routray | [Read More](https://medium.com/p/5510c32a5d06) |
+| Sat, 28 Feb 2026 16:11:55 GMT | A Critical IDOR Vulnerability That Allowed Deletion & Modification of (Any) User’s Address (Mass… | Mustafa Adam Gamaraldin Abdalla | [Read More](https://medium.com/p/8b79caf49ded) |
 | Sat, 28 Feb 2026 16:08:47 GMT | Erişim Kontrolü Modelleri: Gizlilikten Bütünlüğe Güvenliğin Temelleri | Cagatayonbasioglu | [Read More](https://medium.com/p/0d8ae7f9c4cf) |
 | Sat, 28 Feb 2026 16:03:10 GMT | MCP’s Dirty Secret: 43% of Servers Are Vulnerable — And Your AI Agent Might Be Next | Mritunjaypratapsinghh | [Read More](https://medium.com/p/65cf94744ae0) |
 | Sat, 28 Feb 2026 15:56:52 GMT | When Kinetic Conflict Escalates: Understanding the Cyber Dimension of U.S.-Iran Tensions | Deniz Topaloglu | [Read More](https://medium.com/p/b7fa9410b86f) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Feb 2026 13:15:56 GMT | Dancing with SMB: Exploring Misconfigured Windows Shares on HTB | Omar Abdelmetaal | [Read More](https://medium.com/p/55fc7fb9c2c0) |
 | Sat, 28 Feb 2026 13:15:21 GMT | In Search of Good News | Elvis M. D. Browne | [Read More](https://medium.com/p/e197d13ea9ba) |
 | Sat, 28 Feb 2026 13:06:13 GMT | Thousands of Public Google Cloud API Keys Exposed, Creating Gemini AI Security Risks | Chetan Seripally | [Read More](https://medium.com/p/faafc5640cef) |
-| Sat, 28 Feb 2026 13:06:00 GMT | Migrating from NGINX to Istio Ingress Gateway on AKS | Sridhar | [Read More](https://medium.com/p/d983565f4d7f) |
-| Sat, 28 Feb 2026 13:05:33 GMT | TryHackMe — DogCat Writeup | giorgi gochitidze | [Read More](https://medium.com/p/7f1d829a04ba) |
-| Sat, 28 Feb 2026 13:05:22 GMT | How to upgrade Sailpoint Identity IQ from version 8.4 to 8.5 | Gualtieri Ciccio | [Read More](https://medium.com/p/fd7a5f7eceeb) |
