@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 08:10:12 GMT | Unpacker: A Practical Guide to Modular Malware Packer Detection and Unpacking | Andrey Pautov | [Read More](https://medium.com/p/cf8ba924f25b) |
+| Sat, 28 Feb 2026 08:08:29 GMT | Beware of Fake Dropbox Emails: Inside a Sophisticated Multi-Stage PDF Phishing Attack | Deven Chhajed | [Read More](https://medium.com/p/0facbed8aef2) |
+| Sat, 28 Feb 2026 08:07:52 GMT | ️ nezuko:1 — OSCP Raw - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/90383b5de47b) |
+| Sat, 28 Feb 2026 08:02:05 GMT | Implementing Azure Monitor Private Link Scope (AMPLS) for Production-Grade Isolation | Ibrahim Dauda | [Read More](https://medium.com/p/2e0cfe71f824) |
+| Sat, 28 Feb 2026 08:02:01 GMT | Reviving a WordPress Honeypot with Vibe Coding | William Touzalin | [Read More](https://medium.com/p/2f3489d3a9d5) |
+| Sat, 28 Feb 2026 07:53:08 GMT | Week 12 — The Art of Failing Better: A Confession of a Struggling Idealist | Siddhi Agrawal | [Read More](https://medium.com/p/cf47fcd8a428) |
+| Sat, 28 Feb 2026 07:44:20 GMT | Güçlü Parola Nedir? PBKDF2 Neden Şifrelemede Kritik Rol Oynar? | Ali Yaşe | [Read More](https://medium.com/p/00f26c29e449) |
+| Sat, 28 Feb 2026 07:39:59 GMT | CYBERDUDEBIVASH® SSRF Filter + Secure Proxy Service v1.0.0 | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/5ef48168b729) |
+| Sat, 28 Feb 2026 07:37:27 GMT | सायबर सुरक्षा आणि एथिकल हॅकिंग: डिजिटल युगातील अभेद्य कवच | Smit Shah | [Read More](https://medium.com/p/e272624ac2f7) |
 | Sat, 28 Feb 2026 07:33:34 GMT | The EU just launched the ICT Supply Chain Security Toolbox to standardize vendor risk assessments | Denny Roger | [Read More](https://medium.com/p/3a2c20eda237) |
 | Sat, 28 Feb 2026 07:28:16 GMT | The Truth About “Secure By Default” Frameworks | Mwenda Kelvin | [Read More](https://medium.com/p/bfbfdfdf1266) |
 | Sat, 28 Feb 2026 07:26:11 GMT | How Someone Almost Hacked Every Linux Server on the Planet | Bhargav | [Read More](https://medium.com/p/3037d6e53f1b) |
@@ -104,12 +113,3 @@ Inside a Python Keylogger Built for Awareness!? | AizaKhurram | [Read More](http
 | Fri, 27 Feb 2026 22:27:19 GMT | How to Make a Passwordless Web App with Prizes Secure | Cognition Interactive | [Read More](https://medium.com/p/55917fc8d086) |
 | Fri, 27 Feb 2026 22:22:00 GMT | Stop Reacting to Cyberattacks. Start Predicting Them. | Thomas Perry | [Read More](https://medium.com/p/4087e6fea50a) |
 | Fri, 27 Feb 2026 22:16:27 GMT | Escape_202 | MS.Jix | [Read More](https://medium.com/p/26f73140d509) |
-| Fri, 27 Feb 2026 22:01:00 GMT | Understanding AI Security — Part 3 — Information Security | Avinash Vishwakumar | [Read More](https://medium.com/p/d8c2adda5a23) |
-| Fri, 27 Feb 2026 22:01:00 GMT | Unfiltered Restart — Day 14: Exam Prep, Prelim | Maximillian Rueda | [Read More](https://medium.com/p/a3a0b2c98271) |
-| Fri, 27 Feb 2026 21:55:48 GMT | Automating Security Audits with AI: A Hands-on Guide to Watchtower | Hahaha I got you | [Read More](https://medium.com/p/ab25366bb0f9) |
-| Fri, 27 Feb 2026 21:55:10 GMT | ROT13 in terminal | Abderrahim Aoudj | [Read More](https://medium.com/p/84c24b119ffb) |
-| Fri, 27 Feb 2026 21:53:18 GMT | Why I Stopped Using iLovePDF for Sensitive Documents | Ezzmarwan | [Read More](https://medium.com/p/8de9d7a86567) |
-| Fri, 27 Feb 2026 21:51:42 GMT | Ethical Hacking | Anas | [Read More](https://medium.com/p/8d70050bb9ba) |
-| Fri, 27 Feb 2026 21:44:12 GMT | Find An Interesting Account Take-Over Vulnerability. | Md Nawshad Ahmmed | [Read More](https://medium.com/p/dd0d0353e71d) |
-| Fri, 27 Feb 2026 21:38:31 GMT | From Hunted to Hunter: Tony Capo Turns the Tables on Scammers, Delivering Justice to Fraud Victims | Admin | [Read More](https://medium.com/p/8106019ac213) |
-| Fri, 27 Feb 2026 21:38:03 GMT | The Day Admin Access Became an Organisation Takeover | Kaivalya Gurav | [Read More](https://medium.com/p/0ee5d34677e5) |
