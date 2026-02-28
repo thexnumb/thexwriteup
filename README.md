@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 21:12:01 GMT | Cámaras de Acero Inoxidable: Minería y Seguridad | GGroup & Co. | [Read More](https://medium.com/p/187442939e1b) |
+| Sat, 28 Feb 2026 21:11:37 GMT | I Shouldn’t Be Sharing This: The 2026 Google Dork Bible That Still Finds Leaks Big Tech Hides | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/7484e655e686) |
+| Sat, 28 Feb 2026 21:08:37 GMT | Understanding Ahmia Dark Web Search and How It Indexes Onion Sites | Tor BBB | [Read More](https://medium.com/p/23ead466637c) |
+| Sat, 28 Feb 2026 21:05:07 GMT | Your Phone Has Built-In Photo Protection. Most People Don’t Use It. | Mark Russo | [Read More](https://medium.com/p/dab73266a5e5) |
+| Sat, 28 Feb 2026 20:53:35 GMT | Linux Privilege Escalation For Beginners That You Need to Know | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/23bc8ccaa319) |
+| Sat, 28 Feb 2026 20:51:00 GMT | Does Your App Reveal Its Server Header? You Might Be Helping Attackers | SmartScanner | [Read More](https://medium.com/p/f9643614208c) |
+| Sat, 28 Feb 2026 20:47:10 GMT | I Scanned 5 Random OpenClaw Skills. 3 Came Back Critical | Syed Abbas T. | [Read More](https://medium.com/p/54f8449b71a1) |
 | Sat, 28 Feb 2026 20:30:16 GMT | Israel’s Historic Cyberattacks Against the Islamic Republic: Consequences, Outcomes, and the Long… | CCD-IS | [Read More](https://medium.com/p/b8979d605848) |
 | Sat, 28 Feb 2026 20:25:32 GMT | My Cyber Defenses: From Log4Shell to RDP | Nitin Sharma | [Read More](https://medium.com/p/8036353fb55e) |
 | Sat, 28 Feb 2026 20:20:02 GMT | I Installed OpenClaw on a 12-Year-Old MacBook. Here’s What Everyone Gets Wrong About Security. | Syed Abbas T. | [Read More](https://medium.com/p/3f843ff25fc3) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Feb 2026 14:01:01 GMT | Threat Hunting with CTI — LetsDefend [Part 3] | 0verRida | [Read More](https://medium.com/p/9b77240240f3) |
 | Sat, 28 Feb 2026 13:58:02 GMT | Lab: DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded | mayhack | [Read More](https://medium.com/p/a3233f24a651) |
 | Sat, 28 Feb 2026 13:57:20 GMT | D-Wave Acquires Quantum Circuits: The First Dual-Platform Quantum Leader Emerges (2026) | Quantumhorizon.it | [Read More](https://medium.com/p/924cefaff40e) |
-| Sat, 28 Feb 2026 13:49:49 GMT | The Dynamic Runtime Supply Chain: A New Security Risk for Autonomous AI | Savyasachi | [Read More](https://medium.com/p/926eff30c48b) |
-| Sat, 28 Feb 2026 13:41:31 GMT | Wish We Didn’t Treat Vulnerability Like Bad Marketing | LSD | [Read More](https://medium.com/p/7f8d3ea84aee) |
-| Sat, 28 Feb 2026 13:38:39 GMT | The Cryptography Paradox: Why Do You Have to Share Your "Private" Key? (Key Escrow) | Mahdi | [Read More](https://medium.com/p/f0707e5c2f31) |
-| Sat, 28 Feb 2026 13:23:23 GMT | Investigasi Brute-Force SSH dengan auth.log & wtmp | Arfan (p4n) | [Read More](https://medium.com/p/caf975def880) |
-| Sat, 28 Feb 2026 13:15:56 GMT | Dancing with SMB: Exploring Misconfigured Windows Shares on HTB | Omar Abdelmetaal | [Read More](https://medium.com/p/55fc7fb9c2c0) |
-| Sat, 28 Feb 2026 13:15:21 GMT | In Search of Good News | Elvis M. D. Browne | [Read More](https://medium.com/p/e197d13ea9ba) |
-| Sat, 28 Feb 2026 13:06:13 GMT | Thousands of Public Google Cloud API Keys Exposed, Creating Gemini AI Security Risks | Chetan Seripally | [Read More](https://medium.com/p/faafc5640cef) |
