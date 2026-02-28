@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 05:48:01 GMT | LazyAdmin | Errorcode14 | [Read More](https://medium.com/p/d7408a569208) |
+| Sat, 28 Feb 2026 05:47:37 GMT | Beyond the Cybersecurity Soundbites | JC Gaillard | [Read More](https://medium.com/p/c8801c0cf480) |
+| Sat, 28 Feb 2026 05:47:18 GMT | How Priminent Encourages Students to Go Beyond Basic Learning | Priminent | [Read More](https://medium.com/p/2b13a96abc96) |
+| Sat, 28 Feb 2026 05:36:42 GMT | On Surgical Pilgrimages and the Art of Chosen Vulnerability | Alexandra Gulbis, LCSW, ABS | [Read More](https://medium.com/p/8eac024fb9b4) |
+| Sat, 28 Feb 2026 05:28:52 GMT | What is Bug Bounty And How Real Hackers Find Bugs | Novashield | [Read More](https://medium.com/p/8782500666fa) |
+| Sat, 28 Feb 2026 05:22:35 GMT | People I Gravitate Towards | Dr. Seema Patel (PhD) | [Read More](https://medium.com/p/28271efadb8b) |
+| Sat, 28 Feb 2026 05:13:55 GMT | A Silent Witness: 
+Inside a Python Keylogger Built for Awareness!? | AizaKhurram | [Read More](https://medium.com/p/609b904f309c) |
+| Sat, 28 Feb 2026 05:01:00 GMT | Is the German Shepherd the Ultimate “Smart Home” Accessory in 2026? | Ali Hassan — Dog Care Guide | [Read More](https://medium.com/p/51222c087031) |
 | Sat, 28 Feb 2026 05:00:19 GMT | TryHackMe Pre Security (SEC0) Exam Review | Rich | [Read More](https://medium.com/p/761040035a83) |
 | Sat, 28 Feb 2026 04:56:24 GMT | Dataverse Security: The Day I Stopped Clicking the Big Green Circle | Sajeda Sultana | [Read More](https://medium.com/p/5f71c4515f0f) |
 | Sat, 28 Feb 2026 04:40:38 GMT | AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf] | Aman Shekhar | [Read More](https://medium.com/p/732525335314) |
@@ -33,6 +42,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Feb 2026 02:41:22 GMT | How I completed eJPTv2 in 6 hours ?Tips and Tricks (2026) | ARoy | [Read More](https://medium.com/p/5a70eb1f8be1) |
 | Sat, 28 Feb 2026 02:40:39 GMT | Phone Numbers Hide DARK SECRETS. This Chrome Hack Exposes Them Instantly! | cybrNK | [Read More](https://medium.com/p/5ee686255208) |
 | Sat, 28 Feb 2026 02:40:20 GMT | Top 10 Skills Every Ethical Hacker Must Master | Shahzaib | [Read More](https://medium.com/p/f660b27ad525) |
+| Sat, 28 Feb 2026 02:38:27 GMT | Top PCI Resources for Small Businesses | Emory French | [Read More](https://medium.com/p/d267aca5cacf) |
 | Sat, 28 Feb 2026 01:35:41 GMT | The Weight of Feeling Like a Failure: Am I Losing a Race I Never Asked to Run? | The Silent Journaler | [Read More](https://medium.com/p/58eefecafd31) |
 | Sat, 28 Feb 2026 01:26:00 GMT | How I Built a Bank-Grade Emulator Detector to Stop Hackers Dead — Part 2 | Harrison Kuria | [Read More](https://medium.com/p/a9d45eb9ec49) |
 | Sat, 28 Feb 2026 00:56:38 GMT | We Thought It Was Just a Slow Computer… — Until the Ransomware Note Appeared | WEBULITY | [Read More](https://medium.com/p/18f01b3a5ada) |
@@ -103,12 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Feb 2026 19:03:53 GMT | Compliance Theater Presents: The Phantom of the Audit | Justin Ohms | [Read More](https://medium.com/p/e339fdb156c2) |
 | Fri, 27 Feb 2026 19:01:01 GMT | Is Your Threat Hunting Program Mature, or Just Busy? | Raphaam Digital (Cyber Security Updates) | [Read More](https://medium.com/p/d25e4dbd5f64) |
 | Fri, 27 Feb 2026 18:56:32 GMT | Why Cyber Investigation Matters More Than Ever | MH  Santo | [Read More](https://medium.com/p/39b0cc4f7f1d) |
-| Fri, 27 Feb 2026 18:55:47 GMT | A World Without Cybersecurity in the Age of Generative AI | Sam | [Read More](https://medium.com/p/fe3e035775b8) |
-| Fri, 27 Feb 2026 18:54:57 GMT | Remote Code Execution in Offline Hospital Management System (CVE-2026–26462) | DARN | [Read More](https://medium.com/p/bc7ac54314c4) |
-| Fri, 27 Feb 2026 18:49:45 GMT | The Pentagon Ultimatum: Why the US Government is Threatening to Take Over Anthropic | Aaron | [Read More](https://medium.com/p/4380bb752867) |
-| Fri, 27 Feb 2026 18:43:29 GMT | The Difference Between a Hardware Bug and a Hardware Backdoor | Surabhi Misra | [Read More](https://medium.com/p/0a5ece7c14ea) |
-| Fri, 27 Feb 2026 18:36:47 GMT | Mexican Government Data Exposed in AI-Assisted Cyberattack | RealSec.io | [Read More](https://medium.com/p/53965a9b8be6) |
-| Fri, 27 Feb 2026 18:36:14 GMT | How Fear-Based Security Messaging Backfires in Organizations | Digital Defense | [Read More](https://medium.com/p/d8671a450a33) |
-| Fri, 27 Feb 2026 18:35:06 GMT | Cyber Safety Guide for Bangladesh — Awareness Handbook for Students and Internet Users | Sheikh Samir Ali Affan | [Read More](https://medium.com/p/04182e163edd) |
-| Fri, 27 Feb 2026 18:31:07 GMT | Bug Bounty in 2026: Look for these Bugs! | Jeosantos | [Read More](https://medium.com/p/254a837e9662) |
-| Fri, 27 Feb 2026 18:28:06 GMT | Digital Rights in the Modern Era: Why Policy Matters More Than Ever | Garv Chauhan | [Read More](https://medium.com/p/9039d4f167ce) |
