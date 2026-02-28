@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 16:18:57 GMT | New Wave of “gov-*.bond” Domains Registered — Coordinated Phishing Infrastructure? | Natasha Fuller / Founder of  weAFAR Global Justice | [Read More](https://medium.com/p/5b7150db2efc) |
+| Sat, 28 Feb 2026 16:17:50 GMT | Agentic AI in Healthcare: The Secure Deployment Playbook for Autonomous Clinical Systems | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/ed57351ac319) |
+| Sat, 28 Feb 2026 16:17:44 GMT | Tried to Hack an AI-Built App. It Took Me 7 Minutes. | AIThinkerLab | [Read More](https://medium.com/p/da1c648a4462) |
+| Sat, 28 Feb 2026 16:17:04 GMT | The Tap That Broke Greece | O. J. Okpabi | [Read More](https://medium.com/p/35b3174b9f5f) |
+| Sat, 28 Feb 2026 16:13:45 GMT | Prompt Injection Is the New SQL Injection | Tara Prasad Routray | [Read More](https://medium.com/p/5510c32a5d06) |
+| Sat, 28 Feb 2026 16:03:10 GMT | MCP’s Dirty Secret: 43% of Servers Are Vulnerable — And Your AI Agent Might Be Next | Mritunjaypratapsinghh | [Read More](https://medium.com/p/65cf94744ae0) |
+| Sat, 28 Feb 2026 15:56:52 GMT | When Kinetic Conflict Escalates: Understanding the Cyber Dimension of U.S.-Iran Tensions | Deniz Topaloglu | [Read More](https://medium.com/p/b7fa9410b86f) |
+| Sat, 28 Feb 2026 15:49:09 GMT | The Blockchain That Gets Harder to Attack the More You Use It | Chuck Loon | [Read More](https://medium.com/p/6928915014ee) |
+| Sat, 28 Feb 2026 15:47:51 GMT | GoWebInfo — A Trusted IT and Digital Solution Company Helping Businesses Grow Online | Rukanshu Abrol | [Read More](https://medium.com/p/9c0b984080d1) |
 | Sat, 28 Feb 2026 15:35:58 GMT | Door Ringer: A Complete Guide to Choosing the Best Doorbell for Your Home | Healthyifyeva Taylor | [Read More](https://medium.com/p/cfb552406133) |
 | Sat, 28 Feb 2026 15:25:31 GMT | Advent Of The Relics 2 | Abdullah Fatih  Al Huda | [Read More](https://medium.com/p/eb01b4d3b6d8) |
 | Sat, 28 Feb 2026 15:23:05 GMT | OSINT + AI: The Ocean Beneath the Surface — A Deep Dive | Mahetagaurang | [Read More](https://medium.com/p/d81f45dee41b) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Feb 2026 10:05:11 GMT | Why the Mac Mini Became the Surprise Weapon Against AI Subscriptions | Tarun Singh | [Read More](https://medium.com/p/1797f3a55196) |
 | Sat, 28 Feb 2026 10:04:08 GMT | Diagnosing Battery Failures on Windows: A Practical Example of Troubleshooting | Declan | [Read More](https://medium.com/p/25f3648ef6e9) |
 | Sat, 28 Feb 2026 09:58:46 GMT | Shady Oaks Financial writeup (BFLA) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/d48f002446ba) |
-| Sat, 28 Feb 2026 09:57:33 GMT | Handling Leaked Secrets and Credentials in Version Control Repositories | Gaurang Malvankar | [Read More](https://medium.com/p/e11149b8a8b9) |
-| Sat, 28 Feb 2026 09:54:39 GMT | The Human Layer of OT Cybersecurity: Fatigue, Shortcuts, and Informal Practices in Industrial… | Asad Naeem | [Read More](https://medium.com/p/76185565acf1) |
-| Sat, 28 Feb 2026 09:51:38 GMT | picoCTF Writeup — Event-Viewing | Arfan (p4n) | [Read More](https://medium.com/p/933a15af4698) |
-| Sat, 28 Feb 2026 09:45:55 GMT | Strong Passwords vs Weak Passwords: The Small Habit That Prevents Big Breaches | Rela Lumbini | [Read More](https://medium.com/p/68077e973d4d) |
-| Sat, 28 Feb 2026 09:44:33 GMT | Cloning a Bank UI Won’t Hack It! Here’s Why. | Rishabh Srivastava | [Read More](https://medium.com/p/16db9fa82b8a) |
-| Sat, 28 Feb 2026 09:44:06 GMT | SOC336 — Windows OLE Zero-Click RCE Exploitation Detected (CVE-2025–21298) | Pablo Rodriguez Sanz | [Read More](https://medium.com/p/d16c60548abf) |
-| Sat, 28 Feb 2026 09:41:01 GMT | Certified Ethical Hacking | Gigadexterity | [Read More](https://medium.com/p/3cf77ba10ad0) |
-| Sat, 28 Feb 2026 09:34:48 GMT | Why Real API Breaches Happen Through Chains, Not Single Bugs | Peace Dennis | [Read More](https://medium.com/p/b4b790c23d2f) |
-| Sat, 28 Feb 2026 09:33:58 GMT | DNA Testing In This Day And Age | Atwine Benjamin | [Read More](https://medium.com/p/c4c4343e78e3) |
