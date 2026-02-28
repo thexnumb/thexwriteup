@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 11:01:48 GMT | O Ransonware ”Bonzinho” — uma análise comportamental. | Paulo Henrique | [Read More](https://medium.com/p/cdaa663ad396) |
+| Sat, 28 Feb 2026 10:51:17 GMT | Yozlaşan Düzen ve Hayatta Kalmak: Sosyal Mühendisliği ve Psikolojiyi Anlamak 3 | Hakan ÇEVİK | [Read More](https://medium.com/p/f7b8e8e354d8) |
+| Sat, 28 Feb 2026 10:47:32 GMT | 1.Scope, Legality, and Ethics of Ethical Hacking | Waqashk | [Read More](https://medium.com/p/8ee3ddef0139) |
+| Sat, 28 Feb 2026 10:46:02 GMT | Authentication Strategies Explained — JWT vs Sessions vs OAuth vs Magic Link | Kunj Baldha | [Read More](https://medium.com/p/2d47715f2c2c) |
+| Sat, 28 Feb 2026 10:46:01 GMT | In The Midst Of Forgiving, I Long For A Hand To Hold | syhearme | [Read More](https://medium.com/p/725e6ea11a10) |
+| Sat, 28 Feb 2026 10:44:28 GMT | Building a Deep Packet Inspection Engine in C++ | Aryan Wadhwa | [Read More](https://medium.com/p/4c44690eb1cb) |
 | Sat, 28 Feb 2026 10:38:17 GMT | Incident Response and Digital Forensics in Cybersecurity | Kunal Arora | [Read More](https://medium.com/p/3376f4d5f6a2) |
 | Sat, 28 Feb 2026 10:36:27 GMT | Active Directory Security Series — Part 2 | servet demirci | [Read More](https://medium.com/p/887f9338f381) |
 | Sat, 28 Feb 2026 10:30:02 GMT | NoSQL Injection Gone Wild: Logging into Any User, Stealing Garba Tickets, and ₹1 Purchases on a… | Raj Ukani | [Read More](https://medium.com/p/417cb9cbd00a) |
@@ -107,9 +113,3 @@ Inside a Python Keylogger Built for Awareness!? | AizaKhurram | [Read More](http
 | Sat, 28 Feb 2026 05:01:00 GMT | Is the German Shepherd the Ultimate “Smart Home” Accessory in 2026? | Ali Hassan — Dog Care Guide | [Read More](https://medium.com/p/51222c087031) |
 | Sat, 28 Feb 2026 05:00:19 GMT | TryHackMe Pre Security (SEC0) Exam Review | Rich | [Read More](https://medium.com/p/761040035a83) |
 | Sat, 28 Feb 2026 04:56:24 GMT | Dataverse Security: The Day I Stopped Clicking the Big Green Circle | Sajeda Sultana | [Read More](https://medium.com/p/5f71c4515f0f) |
-| Sat, 28 Feb 2026 04:40:38 GMT | AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf] | Aman Shekhar | [Read More](https://medium.com/p/732525335314) |
-| Sat, 28 Feb 2026 04:18:07 GMT | Internet of Things 02 — I/O | Kenneth Moses Saragih | [Read More](https://medium.com/p/728fd095a318) |
-| Sat, 28 Feb 2026 04:17:00 GMT | Creating Entra Agent ID Blueprints and Identities with PowerShell and .NET | Will Velida | [Read More](https://medium.com/p/fba03825e74c) |
-| Sat, 28 Feb 2026 03:44:57 GMT | Meera Sharma's Tuesday morning was already off to a chaotic start. | Ponjitdowarah | [Read More](https://medium.com/p/173c93484893) |
-| Sat, 28 Feb 2026 03:39:16 GMT | Lab: DOM XSS in document.write sink using source location.search inside a select element | mayhack | [Read More](https://medium.com/p/0b8c90e82e08) |
-| Sat, 28 Feb 2026 03:31:00 GMT | The “Private Network” Wall: Why You Need a Self-Hosted Azure DevOps Agent | Vivek Patel | [Read More](https://medium.com/p/ae1209a8baa4) |
