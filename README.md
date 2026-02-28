@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 15:23:05 GMT | OSINT + AI: The Ocean Beneath the Surface — A Deep Dive | Mahetagaurang | [Read More](https://medium.com/p/d81f45dee41b) |
+| Sat, 28 Feb 2026 15:21:28 GMT | Deus Ex Humana, Part 2: AI Safety, AI Job-loss, and Cyber MAD | Wanderer-in-the-Loop | [Read More](https://medium.com/p/f0ab444433c1) |
+| Sat, 28 Feb 2026 15:09:44 GMT | HTB — AoTR : Operation Winter Blackout Write-Up | Annisa Eka Putri | [Read More](https://medium.com/p/42411a520013) |
+| Sat, 28 Feb 2026 15:07:13 GMT | Ready to Level Up Your Cybersecurity Career ? | Malik Rashid Ahmad | [Read More](https://medium.com/p/acc1a7fc6bf9) |
+| Sat, 28 Feb 2026 15:01:03 GMT | Anthropic Posted a Blog. IBM Shed $31 Billion. Then Cybersecurity Dropped Another $15 Billion. | Zoom In AI | [Read More](https://medium.com/p/e1c25ad09f91) |
+| Sat, 28 Feb 2026 15:01:00 GMT | The-Ultimate-Nuclei-Guide For Hackers In 2026:- | MainEkHacker | [Read More](https://medium.com/p/603d6aa2ad4d) |
+| Sat, 28 Feb 2026 15:00:10 GMT | How I Exploited an Exposed Redis Server on HTB’s Redeemer Machine | Omar Abdelmetaal | [Read More](https://medium.com/p/4fec0cad26b4) |
+| Sat, 28 Feb 2026 14:45:15 GMT | Solving a Bugforge Challenge — Exploiting Role Tampering in Shady Oaks Financial | Pranaya Shrestha | [Read More](https://medium.com/p/8533e2515f4b) |
+| Sat, 28 Feb 2026 14:41:45 GMT | Day 10 — Dumping Passwords With UNION (SQL Injection Escalates) | Issan | [Read More](https://medium.com/p/0ba7e11a8eb8) |
+| Sat, 28 Feb 2026 14:41:00 GMT | Protect Your Kids Online: Essential Kids Protection Tips | Paul Meyer | [Read More](https://medium.com/p/7e47c8c453ae) |
 | Sat, 28 Feb 2026 14:36:53 GMT | Unpacking Smartcomply’s & TechCabal’s AI & the Cyber Frontier 2026 Report: Kenya’s & East Africa’s… | Moses Mwemezi Kemibaro | [Read More](https://medium.com/p/e8f2035dc4f5) |
 | Sat, 28 Feb 2026 14:36:11 GMT | SOC and Defense Strategies | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/aaf376eb21a5) |
 | Sat, 28 Feb 2026 14:35:56 GMT | How to Create a FortiGate IPS Filter Profile | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/01dc76124cea) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Feb 2026 09:28:14 GMT | Security-Aware Cloud-Native AI Models for Fraud Prevention in Insurance | Keerthi Amistapuram | [Read More](https://medium.com/p/eaf5a4b01c92) |
 | Sat, 28 Feb 2026 09:27:22 GMT | Forensic Academy — Diploma in Cyber Security in Punjab, Chandigarh , Delhi | Forensic Academy | [Read More](https://medium.com/p/5c3e73925373) |
 | Sat, 28 Feb 2026 09:26:15 GMT | Wiz Cloud Hunting Games Challenge Writeup: A Complete Cloud Attack Chain | Bpple | [Read More](https://medium.com/p/a584ccacee3b) |
-| Sat, 28 Feb 2026 09:22:34 GMT | Hacking Kioptrix Level 3 (1.2): | Jawad Abbasi | [Read More](https://medium.com/p/06c5ef0ae664) |
-| Sat, 28 Feb 2026 09:21:00 GMT | Why Smart Online Security Is About Systems Not Willpower | Divine Egyabeng | [Read More](https://medium.com/p/b83903e0c027) |
-| Sat, 28 Feb 2026 09:16:20 GMT | When a Report Generator Lets You Write the Query (in Production) | Jobson | [Read More](https://medium.com/p/ccfaaacf651a) |
-| Sat, 28 Feb 2026 09:13:20 GMT | Why Your Expensive Antivirus Is Actually Welcoming Hackers Inside | ProfitShield AI | [Read More](https://medium.com/p/94ba9d07e578) |
-| Sat, 28 Feb 2026 09:09:18 GMT | He Wasn’t What I Planned For — But He Was What I Needed | Kathija Raihana | [Read More](https://medium.com/p/900524496290) |
-| Sat, 28 Feb 2026 09:07:56 GMT | The Hidden Security Crisis Behind “Vibe Coding” and AI Agents in 2026 | Subhan Ali | [Read More](https://medium.com/p/bb42ce942ae5) |
-| Sat, 28 Feb 2026 09:01:26 GMT | CASE FILE #DF-BRUTUS - CLASSIFIED | kanieloutis | [Read More](https://medium.com/p/ddd28b18564a) |
-| Sat, 28 Feb 2026 09:01:00 GMT | The 3 Filters That Turn LeakRadar Into a Bug Bounty Weapon | Alexandre Vandamme | [Read More](https://medium.com/p/0c72981c2583) |
-| Sat, 28 Feb 2026 08:52:04 GMT | Is Your PDF Editor Leaking Data? How to Switch to a Privacy-First Workflow | Shuvo Habib | [Read More](https://medium.com/p/9083f0abf770) |
-| Sat, 28 Feb 2026 08:51:12 GMT | 2026 IT Readiness: Your Year-End Cybersecurity Guide | Jeremy Martin | [Read More](https://medium.com/p/16fcac8cb76c) |
