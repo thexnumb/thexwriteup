@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 22:33:36 GMT | The Trends That Will Actually Matter in the Next Decade | The KPI Strikes Back | [Read More](https://medium.com/p/3e6f9851e036) |
+| Sat, 28 Feb 2026 22:25:17 GMT | Phishing Email and Suspicious URL investigation — A Documentation. | Joelovie | [Read More](https://medium.com/p/a3008b1bf954) |
+| Sat, 28 Feb 2026 22:24:50 GMT | Day 15: Let’s get back to enumeration (HTB Nmap room) pt.1 | Cybersecurity with Jojo | [Read More](https://medium.com/p/34e89dc7906d) |
+| Sat, 28 Feb 2026 22:17:26 GMT | The 6-Digit Death Trap: Why Your Phone’s 2FA Is Handing Hackers Your Life Savings | ProfitShield AI | [Read More](https://medium.com/p/3a1907fd894c) |
 | Sat, 28 Feb 2026 22:05:33 GMT | Passkeys WebAuthn Tutorial 2026: How to Kill Passwords in Your Next App | Tent Of Tech | [Read More](https://medium.com/p/cf2a72a75a54) |
 | Sat, 28 Feb 2026 22:02:57 GMT | Cross-Site Request Forgery (CSRF) Attack Lab: A Hands-On Journey Through Request Manipulation | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/892265859abb) |
 | Sat, 28 Feb 2026 21:44:04 GMT | The AI Observability Crisis No One Is Talking About | George William Amalan | [Read More](https://medium.com/p/f7531156acbd) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Feb 2026 14:32:47 GMT | TryHackMe FREE CTF Walkthrough- Love at First Breach 2026: Valenfind | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/b5d3766b7dad) |
 | Sat, 28 Feb 2026 14:31:40 GMT | Ottergram writeup (BAC) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/a46c997a1068) |
 | Sat, 28 Feb 2026 14:25:10 GMT | YouTube to MP3 Conversion Explained: Safety, Quality & Legal Risks | Hamzazafar | [Read More](https://medium.com/p/e44753956e1e) |
-| Sat, 28 Feb 2026 14:21:36 GMT | Checking if Node.js is vulnerablewhile | RungkritSys | [Read More](https://medium.com/p/d6013feb05ab) |
-| Sat, 28 Feb 2026 14:21:17 GMT | In 2015 I Built the First Tool to Measure Security Culture. Now I Am Measuring What Comes Next. | Kai Roer | [Read More](https://medium.com/p/029eaa84430a) |
-| Sat, 28 Feb 2026 14:19:00 GMT | Network Pivoting Explained for OSCP - Step-by-Step Walkthrough | cyber_public_school | [Read More](https://medium.com/p/bdaba125a901) |
-| Sat, 28 Feb 2026 14:18:09 GMT | Metasploit Tutorial for Beginners: Gain Remote Access in 10 Minutes | The SecOps Lead | [Read More](https://medium.com/p/7182688c2284) |
