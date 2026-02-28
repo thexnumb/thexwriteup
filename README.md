@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 13:23:23 GMT | Investigasi Brute-Force SSH dengan auth.log & wtmp | Arfan (p4n) | [Read More](https://medium.com/p/caf975def880) |
+| Sat, 28 Feb 2026 13:15:56 GMT | Dancing with SMB: Exploring Misconfigured Windows Shares on HTB | Omar Abdelmetaal | [Read More](https://medium.com/p/55fc7fb9c2c0) |
+| Sat, 28 Feb 2026 13:15:21 GMT | In Search of Good News | Elvis M. D. Browne | [Read More](https://medium.com/p/e197d13ea9ba) |
+| Sat, 28 Feb 2026 13:06:13 GMT | Thousands of Public Google Cloud API Keys Exposed, Creating Gemini AI Security Risks | Chetan Seripally | [Read More](https://medium.com/p/faafc5640cef) |
+| Sat, 28 Feb 2026 13:06:00 GMT | Migrating from NGINX to Istio Ingress Gateway on AKS | Sridhar | [Read More](https://medium.com/p/d983565f4d7f) |
+| Sat, 28 Feb 2026 13:05:33 GMT | TryHackMe — DogCat Writeup | giorgi gochitidze | [Read More](https://medium.com/p/7f1d829a04ba) |
+| Sat, 28 Feb 2026 13:05:22 GMT | How to upgrade Sailpoint Identity IQ from version 8.4 to 8.5 | Gualtieri Ciccio | [Read More](https://medium.com/p/fd7a5f7eceeb) |
+| Sat, 28 Feb 2026 12:50:34 GMT | ️ Decidary: Building a Governance System That Treats Decisions Like Evidence | Mohan Kumar | [Read More](https://medium.com/p/2b9358b8b0e9) |
+| Sat, 28 Feb 2026 12:47:30 GMT | Risk | K.Ash | [Read More](https://medium.com/p/1932d9deda6a) |
+| Sat, 28 Feb 2026 12:44:31 GMT | Security & Privacy Audit: poof.new | Nyakojiru | [Read More](https://medium.com/p/16cb83a1a5a4) |
 | Sat, 28 Feb 2026 12:41:21 GMT | A Deepfake Lawsuit, a Provenance Bill Surge, and Section 230’s 30th Birthday All Happened in 48… | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/48d7da984169) |
 | Sat, 28 Feb 2026 12:26:35 GMT | How to Build a Cybersecurity Roadmap for an Indian SME | Imperium Digital Network Pvt Ltd. | [Read More](https://medium.com/p/0477efdcd501) |
 | Sat, 28 Feb 2026 12:24:51 GMT | How I Went from Zero to CRTP in 60 Days: A Structured Study Plan | n0rmh3ll | [Read More](https://medium.com/p/fe533b17b9c7) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Feb 2026 07:20:48 GMT | How Compliant is Microsoft Security Copilot? | Yash Mudaliar | [Read More](https://medium.com/p/8cb50247b7e5) |
 | Sat, 28 Feb 2026 07:15:50 GMT | No, Microsoft Isn’t Spying on You. But Here’s What’s Really Happening | Arshad | [Read More](https://medium.com/p/5338dfeac17e) |
 | Sat, 28 Feb 2026 07:09:38 GMT | Microsoft Enhances Windows 11 with New Batch File Security and Performance Upgrades | Rakibul Hasan Sagor | [Read More](https://medium.com/p/7c5a426d4b93) |
-| Sat, 28 Feb 2026 07:07:03 GMT | SSL Certificates Explained: A Deep Dive into Encryption, Attacks, and How HTTPS Secures the Web | Jack Pritom Soren | [Read More](https://medium.com/p/4a16366766ce) |
-| Sat, 28 Feb 2026 07:06:53 GMT | What is Contract Source Code Verified? Why It Matters for Token Safety | assetslink | [Read More](https://medium.com/p/0c561a747947) |
-| Sat, 28 Feb 2026 07:06:17 GMT | The Future of Cybersecurity: Why Strong Digital Protection Is Now Required | Viginet Pvt Ltd | [Read More](https://medium.com/p/adec6fdc80a9) |
-| Sat, 28 Feb 2026 07:05:32 GMT | Cybersecurity, once an IT issue, is now considered a business survival strategy. | Sparklecode Technologies | [Read More](https://medium.com/p/f22e2cb27ad5) |
-| Sat, 28 Feb 2026 07:01:54 GMT | What Happens When Your PHP API Doesn’t Have Rate Limiting? | Ann R. | [Read More](https://medium.com/p/1824edd8e3c1) |
-| Sat, 28 Feb 2026 07:01:00 GMT | 6. Essential Git Commands Every DevOps Fresher Must Know | Mangesh Muley | [Read More](https://medium.com/p/7964cb134781) |
-| Sat, 28 Feb 2026 06:59:26 GMT | ethical hacking | Aathiraks | [Read More](https://medium.com/p/b1fdfb90357a) |
-| Sat, 28 Feb 2026 06:57:49 GMT | One Year on Medium | War Vithin | [Read More](https://medium.com/p/4e01297babe1) |
-| Sat, 28 Feb 2026 06:51:55 GMT | gcc (Ghost C Compiler) CTF Writeup— BitSkrieg CTF 2026 | Shoaib Bin Rashid | [Read More](https://medium.com/p/c803aa8a2610) |
-| Sat, 28 Feb 2026 06:51:40 GMT | CYBERDUDEBIVASH® Identity Anomaly Detector + Ansible Patcher v1.0.0 | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/d0b54ae54101) |
