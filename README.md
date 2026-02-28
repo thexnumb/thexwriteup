@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 09:45:55 GMT | Strong Passwords vs Weak Passwords: The Small Habit That Prevents Big Breaches | Rela Lumbini | [Read More](https://medium.com/p/68077e973d4d) |
+| Sat, 28 Feb 2026 09:44:33 GMT | Cloning a Bank UI Won’t Hack It! Here’s Why. | Rishabh Srivastava | [Read More](https://medium.com/p/16db9fa82b8a) |
+| Sat, 28 Feb 2026 09:41:01 GMT | Certified Ethical Hacking | Gigadexterity | [Read More](https://medium.com/p/3cf77ba10ad0) |
+| Sat, 28 Feb 2026 09:34:48 GMT | Why Real API Breaches Happen Through Chains, Not Single Bugs | Peace Dennis | [Read More](https://medium.com/p/b4b790c23d2f) |
+| Sat, 28 Feb 2026 09:33:58 GMT | DNA Testing In This Day And Age | Atwine Benjamin | [Read More](https://medium.com/p/c4c4343e78e3) |
+| Sat, 28 Feb 2026 09:31:10 GMT | Google Dork’un Pentest Yaşam Döngüsündeki Yeri | ahmetesatakkus | [Read More](https://medium.com/p/4e1fcb854c86) |
+| Sat, 28 Feb 2026 09:28:14 GMT | Security-Aware Cloud-Native AI Models for Fraud Prevention in Insurance | Keerthi Amistapuram | [Read More](https://medium.com/p/eaf5a4b01c92) |
+| Sat, 28 Feb 2026 09:27:22 GMT | Forensic Academy — Diploma in Cyber Security in Punjab, Chandigarh , Delhi | Forensic Academy | [Read More](https://medium.com/p/5c3e73925373) |
 | Sat, 28 Feb 2026 09:26:15 GMT | Wiz Cloud Hunting Games Challenge Writeup: A Complete Cloud Attack Chain | Bpple | [Read More](https://medium.com/p/a584ccacee3b) |
+| Sat, 28 Feb 2026 09:22:34 GMT | Hacking Kioptrix Level 3 (1.2): | Jawad Abbasi | [Read More](https://medium.com/p/06c5ef0ae664) |
 | Sat, 28 Feb 2026 09:21:00 GMT | Why Smart Online Security Is About Systems Not Willpower | Divine Egyabeng | [Read More](https://medium.com/p/b83903e0c027) |
 | Sat, 28 Feb 2026 09:16:20 GMT | When a Report Generator Lets You Write the Query (in Production) | Jobson | [Read More](https://medium.com/p/ccfaaacf651a) |
 | Sat, 28 Feb 2026 09:13:20 GMT | Why Your Expensive Antivirus Is Actually Welcoming Hackers Inside | ProfitShield AI | [Read More](https://medium.com/p/94ba9d07e578) |
@@ -104,12 +113,3 @@ Inside a Python Keylogger Built for Awareness!? | AizaKhurram | [Read More](http
 | Sat, 28 Feb 2026 01:26:00 GMT | How I Built a Bank-Grade Emulator Detector to Stop Hackers Dead — Part 2 | Harrison Kuria | [Read More](https://medium.com/p/a9d45eb9ec49) |
 | Sat, 28 Feb 2026 00:56:38 GMT | We Thought It Was Just a Slow Computer… — Until the Ransomware Note Appeared | WEBULITY | [Read More](https://medium.com/p/18f01b3a5ada) |
 | Sat, 28 Feb 2026 00:49:13 GMT | Your Government Can’t Prove It Sent You That Email | Markus Sandelin | [Read More](https://medium.com/p/e15ef719929a) |
-| Sat, 28 Feb 2026 00:31:02 GMT | 10 TypeScript validation mistakes that make tool calls unsafe | Yamishift | [Read More](https://medium.com/p/2e1d7157a744) |
-| Sat, 28 Feb 2026 00:26:37 GMT | Deconstructing Extremist Ideologies: A Research Series on Global Human Rights. | Mohammad Hanifeh | [Read More](https://medium.com/p/6118ebeb1292) |
-| Sat, 28 Feb 2026 00:10:32 GMT | Kali Linux Serisi#1: Yeni Başlayanlar İçin Kali Linux Nedir ve Neden Kullanılır? | Şüheda Yavuz | [Read More](https://medium.com/p/a50761722cca) |
-| Sat, 28 Feb 2026 00:10:12 GMT | Cybersecurity has become an essential part of Ugandan society as the country rapidly adopts digital… | Kamarunga Tabitha Judith | [Read More](https://medium.com/p/f05ff4656cca) |
-| Sat, 28 Feb 2026 00:01:03 GMT | Netcat Guide for Pentesting: Commands, Reverse Shells, and Exfiltration | JPablo13 | [Read More](https://medium.com/p/88d2d956c1ee) |
-| Fri, 27 Feb 2026 23:59:42 GMT | If AI Eats Software, What Happens to Security? | Todd Gamble | [Read More](https://medium.com/p/13c9a998391a) |
-| Fri, 27 Feb 2026 23:53:38 GMT | Keep Your BILLCO Glass Cutter Alive! A IT Consulting Case Study to Provide Value | Seeley Solutions - Technical Writer & Consultant | [Read More](https://medium.com/p/7a0843b2e630) |
-| Fri, 27 Feb 2026 23:49:12 GMT | AI Defense II | Saniye Nur | [Read More](https://medium.com/p/a4534d62ca89) |
-| Fri, 27 Feb 2026 23:38:13 GMT | Redis to SYSTEM—TryHackMe VulnNet: Active | Robert Perez | [Read More](https://medium.com/p/0ccef43e1e6c) |
