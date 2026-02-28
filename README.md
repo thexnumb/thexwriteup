@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 17:33:19 GMT | The Week I Called It Casual and She Called It Love | Gabriel Lucatero | [Read More](https://medium.com/p/4477fa242235) |
+| Sat, 28 Feb 2026 17:27:37 GMT | The Algorithmic Economy: When Algorithms Make Financial Decisions | Mai Tran | [Read More](https://medium.com/p/f3f54b7e82ec) |
+| Sat, 28 Feb 2026 17:26:27 GMT | 3,100 Cyber Attacks a Week: Why Reactive Security Is Dead | Clara Smith | [Read More](https://medium.com/p/99b0a30f3da0) |
+| Sat, 28 Feb 2026 17:24:15 GMT | CRTP Outside CRTP: Do the Skills Survive in the Wild? | Joshua Goossen | [Read More](https://medium.com/p/1cb7f866919e) |
+| Sat, 28 Feb 2026 17:23:23 GMT | Is Your Gradle Project Sitting on a Dependency Time Bomb? Meet the Gradle Vulnerability Scanner | Rameez Shaikh | [Read More](https://medium.com/p/74c02b9565e4) |
+| Sat, 28 Feb 2026 17:14:22 GMT | The One Sentence That Traps Smart People in Government Impersonation Scams | Natasha Fuller / Founder of  weAFAR Global Justice | [Read More](https://medium.com/p/4dd70286955c) |
 | Sat, 28 Feb 2026 16:54:04 GMT | TryHackMe: Offensive Security Intro Walkthrough | Nadeenmoreb | [Read More](https://medium.com/p/35bca59dd6d1) |
 | Sat, 28 Feb 2026 16:51:39 GMT | ChatGPT as a Covert C2 Channel | Eslam Hussein | [Read More](https://medium.com/p/da9221178ff5) |
 | Sat, 28 Feb 2026 16:50:44 GMT | The Reality of Blockchain in Global Supply Chains | Cynox Security LLP. | [Read More](https://medium.com/p/8cb93c754d3f) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Feb 2026 10:51:17 GMT | Yozlaşan Düzen ve Hayatta Kalmak: Sosyal Mühendisliği ve Psikolojiyi Anlamak 3 | Hakan ÇEVİK | [Read More](https://medium.com/p/f7b8e8e354d8) |
 | Sat, 28 Feb 2026 10:47:32 GMT | 1.Scope, Legality, and Ethics of Ethical Hacking | Waqashk | [Read More](https://medium.com/p/8ee3ddef0139) |
 | Sat, 28 Feb 2026 10:46:02 GMT | Authentication Strategies Explained — JWT vs Sessions vs OAuth vs Magic Link | Kunj Baldha | [Read More](https://medium.com/p/2d47715f2c2c) |
-| Sat, 28 Feb 2026 10:46:01 GMT | In The Midst Of Forgiving, I Long For A Hand To Hold | syhearme | [Read More](https://medium.com/p/725e6ea11a10) |
-| Sat, 28 Feb 2026 10:44:28 GMT | Building a Deep Packet Inspection Engine in C++ | Aryan Wadhwa | [Read More](https://medium.com/p/4c44690eb1cb) |
-| Sat, 28 Feb 2026 10:38:17 GMT | Incident Response and Digital Forensics in Cybersecurity | Kunal Arora | [Read More](https://medium.com/p/3376f4d5f6a2) |
-| Sat, 28 Feb 2026 10:36:27 GMT | Active Directory Security Series — Part 2 | servet demirci | [Read More](https://medium.com/p/887f9338f381) |
-| Sat, 28 Feb 2026 10:30:02 GMT | NoSQL Injection Gone Wild: Logging into Any User, Stealing Garba Tickets, and ₹1 Purchases on a… | Raj Ukani | [Read More](https://medium.com/p/417cb9cbd00a) |
-| Sat, 28 Feb 2026 10:27:12 GMT | WebStrike — Blue Team CTF CyberDefenders | Rozid | [Read More](https://medium.com/p/3bbbf59daf89) |
