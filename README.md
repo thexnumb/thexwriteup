@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 21:39:48 GMT | Rancher Default Roles — The Hidden Path to Cluster Takeover | Sadi Zane | [Read More](https://medium.com/p/60b5d0632d8c) |
+| Sat, 28 Feb 2026 21:34:45 GMT | How I Saved $1 Million by Moving Load Balancing Off F5 - One Cluster at a Time | Pooja Chandolu | [Read More](https://medium.com/p/cdba2709bb70) |
+| Sat, 28 Feb 2026 21:30:28 GMT | I Tracked My Digital Footprint for 30 Days. Here’s What I Found and Why It Should Worry You | The SecOps Lead | [Read More](https://medium.com/p/9746cd106c09) |
 | Sat, 28 Feb 2026 21:12:01 GMT | Cámaras de Acero Inoxidable: Minería y Seguridad | GGroup & Co. | [Read More](https://medium.com/p/187442939e1b) |
 | Sat, 28 Feb 2026 21:11:37 GMT | I Shouldn’t Be Sharing This: The 2026 Google Dork Bible That Still Finds Leaks Big Tech Hides | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/7484e655e686) |
 | Sat, 28 Feb 2026 21:08:37 GMT | Understanding Ahmia Dark Web Search and How It Indexes Onion Sites | Tor BBB | [Read More](https://medium.com/p/23ead466637c) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Feb 2026 14:17:08 GMT | The “FBI Moment” for Anthropic | Egezon Baruti | [Read More](https://medium.com/p/699330e10fa4) |
 | Sat, 28 Feb 2026 14:11:48 GMT | PyRIT Ship — Linux version | 喂美女你好! | [Read More](https://medium.com/p/e6a13f174d4f) |
 | Sat, 28 Feb 2026 14:05:05 GMT | Is Front-end development still worth learning in 2026? | IbnH | [Read More](https://medium.com/p/14334b5f58c0) |
-| Sat, 28 Feb 2026 14:01:01 GMT | Threat Hunting with CTI — LetsDefend [Part 3] | 0verRida | [Read More](https://medium.com/p/9b77240240f3) |
-| Sat, 28 Feb 2026 13:58:02 GMT | Lab: DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded | mayhack | [Read More](https://medium.com/p/a3233f24a651) |
-| Sat, 28 Feb 2026 13:57:20 GMT | D-Wave Acquires Quantum Circuits: The First Dual-Platform Quantum Leader Emerges (2026) | Quantumhorizon.it | [Read More](https://medium.com/p/924cefaff40e) |
