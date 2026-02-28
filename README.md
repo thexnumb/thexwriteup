@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 09:26:15 GMT | Wiz Cloud Hunting Games Challenge Writeup: A Complete Cloud Attack Chain | Bpple | [Read More](https://medium.com/p/a584ccacee3b) |
+| Sat, 28 Feb 2026 09:21:00 GMT | Why Smart Online Security Is About Systems Not Willpower | Divine Egyabeng | [Read More](https://medium.com/p/b83903e0c027) |
+| Sat, 28 Feb 2026 09:16:20 GMT | When a Report Generator Lets You Write the Query (in Production) | Jobson | [Read More](https://medium.com/p/ccfaaacf651a) |
+| Sat, 28 Feb 2026 09:13:20 GMT | Why Your Expensive Antivirus Is Actually Welcoming Hackers Inside | ProfitShield AI | [Read More](https://medium.com/p/94ba9d07e578) |
+| Sat, 28 Feb 2026 09:09:18 GMT | He Wasn’t What I Planned For — But He Was What I Needed | Kathija Raihana | [Read More](https://medium.com/p/900524496290) |
+| Sat, 28 Feb 2026 09:07:56 GMT | The Hidden Security Crisis Behind “Vibe Coding” and AI Agents in 2026 | Subhan Ali | [Read More](https://medium.com/p/bb42ce942ae5) |
+| Sat, 28 Feb 2026 09:01:26 GMT | CASE FILE #DF-BRUTUS - CLASSIFIED | kanieloutis | [Read More](https://medium.com/p/ddd28b18564a) |
+| Sat, 28 Feb 2026 09:01:00 GMT | The 3 Filters That Turn LeakRadar Into a Bug Bounty Weapon | Alexandre Vandamme | [Read More](https://medium.com/p/0c72981c2583) |
+| Sat, 28 Feb 2026 08:52:04 GMT | Is Your PDF Editor Leaking Data? How to Switch to a Privacy-First Workflow | Shuvo Habib | [Read More](https://medium.com/p/9083f0abf770) |
+| Sat, 28 Feb 2026 08:51:12 GMT | 2026 IT Readiness: Your Year-End Cybersecurity Guide | Jeremy Martin | [Read More](https://medium.com/p/16fcac8cb76c) |
+| Sat, 28 Feb 2026 08:43:35 GMT | HOW An API WORKS | MUHAMMED RUMAIS MV | [Read More](https://medium.com/p/2cceb3a865f9) |
+| Sat, 28 Feb 2026 08:42:30 GMT | SATIP — Strategic Adversaries Threat Intelligence Platform | TΞLΞMΞTRY | [Read More](https://medium.com/p/1c3f24c2d2c4) |
+| Sat, 28 Feb 2026 08:40:20 GMT | Research Portfolio Index | Samuel Partida Cabañas | [Read More](https://medium.com/p/f895c0f9942d) |
+| Sat, 28 Feb 2026 08:31:22 GMT | The Panic in the Room: Why Your 2026 Security Strategy is Failing the “Human Test” | Mohit | [Read More](https://medium.com/p/5e07042d3376) |
 | Sat, 28 Feb 2026 08:10:12 GMT | Unpacker: A Practical Guide to Modular Malware Packer Detection and Unpacking | Andrey Pautov | [Read More](https://medium.com/p/cf8ba924f25b) |
 | Sat, 28 Feb 2026 08:08:29 GMT | Beware of Fake Dropbox Emails: Inside a Sophisticated Multi-Stage PDF Phishing Attack | Deven Chhajed | [Read More](https://medium.com/p/0facbed8aef2) |
 | Sat, 28 Feb 2026 08:07:52 GMT | ️ nezuko:1 — OSCP Raw - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/90383b5de47b) |
@@ -99,17 +113,3 @@ Inside a Python Keylogger Built for Awareness!? | AizaKhurram | [Read More](http
 | Fri, 27 Feb 2026 23:53:38 GMT | Keep Your BILLCO Glass Cutter Alive! A IT Consulting Case Study to Provide Value | Seeley Solutions - Technical Writer & Consultant | [Read More](https://medium.com/p/7a0843b2e630) |
 | Fri, 27 Feb 2026 23:49:12 GMT | AI Defense II | Saniye Nur | [Read More](https://medium.com/p/a4534d62ca89) |
 | Fri, 27 Feb 2026 23:38:13 GMT | Redis to SYSTEM—TryHackMe VulnNet: Active | Robert Perez | [Read More](https://medium.com/p/0ccef43e1e6c) |
-| Fri, 27 Feb 2026 23:33:59 GMT | Is Claude Security The Death of Application Security Tools? | Andrew Blooman | [Read More](https://medium.com/p/e2164659b595) |
-| Fri, 27 Feb 2026 23:30:15 GMT | GenAI Isn’t the Real Risk. Your Data Is. | Cyber-AppSec | [Read More](https://medium.com/p/de127f9d59ed) |
-| Fri, 27 Feb 2026 23:22:42 GMT | Phishing “Interview Invitation” — Malicious Word Doc. | Brandon Love | [Read More](https://medium.com/p/b35d2a30f100) |
-| Fri, 27 Feb 2026 23:10:03 GMT | Cybersecurity Bootcamp Week 2 : Advent of The Relics 2 | Ferdirisqoamardianto | [Read More](https://medium.com/p/85bf77747738) |
-| Fri, 27 Feb 2026 23:04:03 GMT | Have a good day! | drivingwithnohands | [Read More](https://medium.com/p/cf699926a4ac) |
-| Fri, 27 Feb 2026 22:41:28 GMT | Seald’s U.S. Shutdown: Migration Options | Patrick Walsh | [Read More](https://medium.com/p/698ae319c824) |
-| Fri, 27 Feb 2026 22:39:30 GMT | The Alert that Nobody Actioned — until I Built this on Elastic | SHUBHENDU SHUBHAM | [Read More](https://medium.com/p/7c5c58409937) |
-| Fri, 27 Feb 2026 22:32:36 GMT | Fighting Fire with Fire: Using AI to Detect Generative-AI Phishing Scams | Aysha Saifi | [Read More](https://medium.com/p/3e1e575cf93f) |
-| Fri, 27 Feb 2026 22:32:12 GMT | The End of the Secret | Scindia Edwin | [Read More](https://medium.com/p/1fb837745fee) |
-| Fri, 27 Feb 2026 22:29:43 GMT | Prompt Engineering for Hackers | Spectat0rguy | [Read More](https://medium.com/p/0710b6dc922f) |
-| Fri, 27 Feb 2026 22:28:37 GMT | Dumbest Security Fails: The Submissions Box | Snarky Lisa | [Read More](https://medium.com/p/f3021789d8d6) |
-| Fri, 27 Feb 2026 22:27:19 GMT | How to Make a Passwordless Web App with Prizes Secure | Cognition Interactive | [Read More](https://medium.com/p/55917fc8d086) |
-| Fri, 27 Feb 2026 22:22:00 GMT | Stop Reacting to Cyberattacks. Start Predicting Them. | Thomas Perry | [Read More](https://medium.com/p/4087e6fea50a) |
-| Fri, 27 Feb 2026 22:16:27 GMT | Escape_202 | MS.Jix | [Read More](https://medium.com/p/26f73140d509) |
