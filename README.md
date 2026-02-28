@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 20:25:32 GMT | My Cyber Defenses: From Log4Shell to RDP | Nitin Sharma | [Read More](https://medium.com/p/8036353fb55e) |
+| Sat, 28 Feb 2026 20:20:02 GMT | I Installed OpenClaw on a 12-Year-Old MacBook. Here’s What Everyone Gets Wrong About Security. | Syed Abbas T. | [Read More](https://medium.com/p/3f843ff25fc3) |
+| Sat, 28 Feb 2026 20:15:24 GMT | BluePrint (THM) Write-up Only Answer | Lawvye | [Read More](https://medium.com/p/c7a13ec66924) |
+| Sat, 28 Feb 2026 20:12:13 GMT | Top Cybersecurity Companies in Bangladesh (2026): Why the Market Is Rapidly Maturing | Sam Walker | [Read More](https://medium.com/p/cb3ff31049da) |
+| Sat, 28 Feb 2026 20:11:32 GMT | The Art of the Deal in the Age of AI: How OpenAI Won the Pentagon and What It Means for the Future… | CCD-IS | [Read More](https://medium.com/p/7b12626b9517) |
+| Sat, 28 Feb 2026 20:04:52 GMT | Flutter Secrets: Why SharedPreferences Will Betray You and How flutter_secure_storage Saves the Day | Harsh Kumar Khatri | [Read More](https://medium.com/p/78e42af2bfe9) |
+| Sat, 28 Feb 2026 19:59:27 GMT | The CVSS Illusion: Why Your Vulnerability Prioritization Strategy Is Probably Getting People Hacked | HRK | [Read More](https://medium.com/p/246e544d66ae) |
+| Sat, 28 Feb 2026 19:55:24 GMT | Designing a Zero-Trust Architecture for SaaS LLM Integrations | Kartikeya Mishra | [Read More](https://medium.com/p/d9d1b9f6d71a) |
+| Sat, 28 Feb 2026 19:53:23 GMT | Lookup writeup THM (español) | Us0lfr | [Read More](https://medium.com/p/ba0c07e74987) |
+| Sat, 28 Feb 2026 19:53:06 GMT | IoT Hacking: Your Smart Home is a Security Nightmare | Axoloth | [Read More](https://medium.com/p/639445fd6f0e) |
 | Sat, 28 Feb 2026 19:33:48 GMT | Microsoft SQL Server 2019 / 2022 Secure Deployment & Hardening Guide (CIS Benchmarks) | SOCFortress | [Read More](https://medium.com/p/70bf7ecb6700) |
 | Sat, 28 Feb 2026 19:24:16 GMT | Vulnerability, the thread by which we all hang? | Natasha Seagrove | [Read More](https://medium.com/p/e6244e56367f) |
 | Sat, 28 Feb 2026 19:18:20 GMT | Career Plot Twist (Featuring Lagos Buses) | ERIN-ORITSE | [Read More](https://medium.com/p/c151446f9f07) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Feb 2026 13:06:00 GMT | Migrating from NGINX to Istio Ingress Gateway on AKS | Sridhar | [Read More](https://medium.com/p/d983565f4d7f) |
 | Sat, 28 Feb 2026 13:05:33 GMT | TryHackMe — DogCat Writeup | giorgi gochitidze | [Read More](https://medium.com/p/7f1d829a04ba) |
 | Sat, 28 Feb 2026 13:05:22 GMT | How to upgrade Sailpoint Identity IQ from version 8.4 to 8.5 | Gualtieri Ciccio | [Read More](https://medium.com/p/fd7a5f7eceeb) |
-| Sat, 28 Feb 2026 12:50:34 GMT | ️ Decidary: Building a Governance System That Treats Decisions Like Evidence | Mohan Kumar | [Read More](https://medium.com/p/2b9358b8b0e9) |
-| Sat, 28 Feb 2026 12:47:30 GMT | Risk | K.Ash | [Read More](https://medium.com/p/1932d9deda6a) |
-| Sat, 28 Feb 2026 12:44:31 GMT | Security & Privacy Audit: poof.new | Nyakojiru | [Read More](https://medium.com/p/16cb83a1a5a4) |
-| Sat, 28 Feb 2026 12:44:09 GMT | Lapoan Praktikum Struktur Data : Linked List Dalam Python | Cahyoadi | [Read More](https://medium.com/p/059eae9981e8) |
-| Sat, 28 Feb 2026 12:41:21 GMT | A Deepfake Lawsuit, a Provenance Bill Surge, and Section 230’s 30th Birthday All Happened in 48… | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/48d7da984169) |
-| Sat, 28 Feb 2026 12:26:35 GMT | How to Build a Cybersecurity Roadmap for an Indian SME | Imperium Digital Network Pvt Ltd. | [Read More](https://medium.com/p/0477efdcd501) |
-| Sat, 28 Feb 2026 12:24:51 GMT | How I Went from Zero to CRTP in 60 Days: A Structured Study Plan | n0rmh3ll | [Read More](https://medium.com/p/fe533b17b9c7) |
-| Sat, 28 Feb 2026 12:19:38 GMT | Dari Event Viewer Windows Hingga Serangan Brutal SSH - DFIR Write-up | Muhammad Ketsar Ali Abi Wahid | [Read More](https://medium.com/p/70ce0cf01fdf) |
-| Sat, 28 Feb 2026 12:17:28 GMT | How Hackers Actually Hack You — It’s Simpler Than You Think | Mooki W | [Read More](https://medium.com/p/a2a1696ae600) |
-| Sat, 28 Feb 2026 12:14:52 GMT | [New Podcast] A Conversation on AI, Cyber Risk & Digital Trust in Kenya & East Africa with… | Moses Mwemezi Kemibaro | [Read More](https://medium.com/p/eeb87f6209c8) |
