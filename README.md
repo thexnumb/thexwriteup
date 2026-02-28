@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 03:44:57 GMT | Meera Sharma's Tuesday morning was already off to a chaotic start. | Ponjitdowarah | [Read More](https://medium.com/p/173c93484893) |
+| Sat, 28 Feb 2026 03:39:16 GMT | Lab: DOM XSS in document.write sink using source location.search inside a select element | mayhack | [Read More](https://medium.com/p/0b8c90e82e08) |
+| Sat, 28 Feb 2026 03:31:00 GMT | The “Private Network” Wall: Why You Need a Self-Hosted Azure DevOps Agent | Vivek Patel | [Read More](https://medium.com/p/ae1209a8baa4) |
+| Sat, 28 Feb 2026 03:19:49 GMT | We are like a box of paint | iLan Azoulai | [Read More](https://medium.com/p/786287608849) |
+| Sat, 28 Feb 2026 02:48:51 GMT | What is OS command injection? | BinaryShield | [Read More](https://medium.com/p/c4a0a17f9292) |
+| Sat, 28 Feb 2026 02:48:14 GMT | What are JWT vulnerabilities? | BinaryShield | [Read More](https://medium.com/p/a2e0f5834948) |
+| Sat, 28 Feb 2026 02:42:09 GMT | 13 Dark Web OSINT Tools You’ll Wish You Knew About Sooner | cybrNK | [Read More](https://medium.com/p/2b1740ad9d21) |
+| Sat, 28 Feb 2026 02:42:08 GMT | Free GRC Platforms That Simulate a Real GRC Program | MandaPandaJoe | [Read More](https://medium.com/p/bca5653c8fe7) |
+| Sat, 28 Feb 2026 02:42:06 GMT | What is Tokenization and How Can I Use it for PCI DSS Compliance? | Emory French | [Read More](https://medium.com/p/660913a4208d) |
+| Sat, 28 Feb 2026 02:41:50 GMT | ️ Unearthing the Truth in DC-1 - From Drupalgeddon to Root ️ | Nicholas Mullenski | [Read More](https://medium.com/p/8cb0f626ebee) |
+| Sat, 28 Feb 2026 02:41:48 GMT | Ensuring Windows Security | Aj | [Read More](https://medium.com/p/31af7e1c7fe3) |
+| Sat, 28 Feb 2026 02:41:44 GMT | A List of Every Cybersecurity Abbreviation There Is (Part 6) | Raymond Ebonine | [Read More](https://medium.com/p/ba67540c1585) |
+| Sat, 28 Feb 2026 02:41:27 GMT | AI-Powered Bug Hunting: 20 Tools to Dominate Your Next Recon | MainEkHacker | [Read More](https://medium.com/p/8ee3501bd5ef) |
+| Sat, 28 Feb 2026 02:41:22 GMT | How I completed eJPTv2 in 6 hours ?Tips and Tricks (2026) | ARoy | [Read More](https://medium.com/p/5a70eb1f8be1) |
+| Sat, 28 Feb 2026 02:40:39 GMT | Phone Numbers Hide DARK SECRETS. This Chrome Hack Exposes Them Instantly! | cybrNK | [Read More](https://medium.com/p/5ee686255208) |
+| Sat, 28 Feb 2026 02:40:20 GMT | Top 10 Skills Every Ethical Hacker Must Master | Shahzaib | [Read More](https://medium.com/p/f660b27ad525) |
 | Sat, 28 Feb 2026 01:35:41 GMT | The Weight of Feeling Like a Failure: Am I Losing a Race I Never Asked to Run? | The Silent Journaler | [Read More](https://medium.com/p/58eefecafd31) |
 | Sat, 28 Feb 2026 01:26:00 GMT | How I Built a Bank-Grade Emulator Detector to Stop Hackers Dead — Part 2 | Harrison Kuria | [Read More](https://medium.com/p/a9d45eb9ec49) |
 | Sat, 28 Feb 2026 00:56:38 GMT | We Thought It Was Just a Slow Computer… — Until the Ransomware Note Appeared | WEBULITY | [Read More](https://medium.com/p/18f01b3a5ada) |
@@ -96,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Feb 2026 18:16:21 GMT | Safety by Ignorance vs Safety by Understanding: What the Claude–DoD Debate Is Really About | Saad Ahmad | [Read More](https://medium.com/p/9a11c7ba955d) |
 | Fri, 27 Feb 2026 18:12:18 GMT | CSP and CORS in Modern Web Applications | Avinash theppala | [Read More](https://medium.com/p/28edad2e4d6d) |
 | Fri, 27 Feb 2026 18:10:31 GMT | Introducing Me | Taylynn Bozarth | [Read More](https://medium.com/p/463c3f072468) |
-| Fri, 27 Feb 2026 18:02:22 GMT | Learning Exploit Active Directory | Moci | [Read More](https://medium.com/p/4caf514c8216) |
-| Fri, 27 Feb 2026 17:56:06 GMT | Jia Tan, Andrew Freund, and the night a tiny backdoor almost slipped into the internet | Arjun Hayes | [Read More](https://medium.com/p/ff49d5c0b5ce) |
-| Fri, 27 Feb 2026 17:53:43 GMT | “Any lawful use” meets data fusion: why Anthropic drew a line | Victor Alejandria | [Read More](https://medium.com/p/379c43652328) |
-| Fri, 27 Feb 2026 17:48:53 GMT | The $25 Per Million Token Accomplice: How Claude Hacked a Government and Validated Our Autonomous… | Trinitite | [Read More](https://medium.com/p/a087c325b20a) |
-| Fri, 27 Feb 2026 17:48:14 GMT | Try Hack Me- HTTP in Detail Walkthrough | PulseEinher | [Read More](https://medium.com/p/a6c1d4383f40) |
-| Fri, 27 Feb 2026 17:48:11 GMT | Planning an AI Red Team Exercise | Naveen Murugan | [Read More](https://medium.com/p/741563425391) |
-| Fri, 27 Feb 2026 17:47:12 GMT | Week 3 HTB-Sherlock Brutus | Artha Bangkit Auliano | [Read More](https://medium.com/p/44bb0bbbed63) |
-| Fri, 27 Feb 2026 17:45:46 GMT | Authentication & Authorization: A Practical Guide for Web Developers | Mubashir | [Read More](https://medium.com/p/3969e3c25c9c) |
-| Fri, 27 Feb 2026 17:45:10 GMT | The Digital Battlefield: A Student’s Guide to Ethical Hacking and AI-Powered Defense
-​By [Your… | Muhammad Sohaib Qamar | [Read More](https://medium.com/p/be7318487a5f) |
-| Fri, 27 Feb 2026 17:43:45 GMT | The Rise of Agentic AI: Why Automated Pentesting Is Our Best Defense | Len Noe | [Read More](https://medium.com/p/8ab822daef18) |
-| Fri, 27 Feb 2026 17:42:40 GMT | Threat Actors Build an Active Phishing Empire Targeting Ghana’s Entire Banking Sector | Prince Lassey | [Read More](https://medium.com/p/db56f06cf50a) |
-| Fri, 27 Feb 2026 17:38:35 GMT | TryHackMe: Offensive Security Intro Walkthrough | hazmatmonstarrr | [Read More](https://medium.com/p/7f1c43c17096) |
-| Fri, 27 Feb 2026 17:37:23 GMT | Beyond Web Apps: A Complete Guide to Thick Client Application Security Testing | Pratik Solanki | [Read More](https://medium.com/p/d6547e00ae5f) |
-| Fri, 27 Feb 2026 17:26:37 GMT | The Ultimate TryHackMe Roadmap: Don’t Start Your Cybersecurity Journey Without Playing These Rooms… | Motasem Hamdan | [Read More](https://medium.com/p/f4b60f2b594c) |
-| Fri, 27 Feb 2026 17:23:08 GMT | Broken Access Control: From IDOR to Privilege Escalation | vamos | [Read More](https://medium.com/p/dbb76b0b839e) |
-| Fri, 27 Feb 2026 17:19:47 GMT | Tech#53 — NextSaaS: “Would Your SaaS Pass a Security Audit? (Honest Checklist) | Vikkas Arun Pareek | [Read More](https://medium.com/p/c168a49f735c) |
