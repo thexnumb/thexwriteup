@@ -12,11 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 16:51:39 GMT | ChatGPT as a Covert C2 Channel | Eslam Hussein | [Read More](https://medium.com/p/da9221178ff5) |
+| Sat, 28 Feb 2026 16:50:44 GMT | The Reality of Blockchain in Global Supply Chains | Cynox Security LLP. | [Read More](https://medium.com/p/8cb93c754d3f) |
+| Sat, 28 Feb 2026 16:37:45 GMT | The Day the Router Met Nginx: When Mixture of Experts Crashed the Systems Engineering Party | Sagar Pandita | [Read More](https://medium.com/p/333dc3034fec) |
+| Sat, 28 Feb 2026 16:37:41 GMT | Secrets-picoCTF | Vishvambhar ranoshe | [Read More](https://medium.com/p/2ea6fbb5027b) |
+| Sat, 28 Feb 2026 16:35:19 GMT | Extracting Installed Applications (APK) from Android | Ch. Thedorou | [Read More](https://medium.com/p/aef90822d551) |
+| Sat, 28 Feb 2026 16:34:55 GMT | Roboto Sans-picoCTF | Vishvambhar ranoshe | [Read More](https://medium.com/p/e729f5cb365e) |
+| Sat, 28 Feb 2026 16:25:19 GMT | Trust But Verify: Securing RAG with LangChain4J Guardrails | Dennis Lee | [Read More](https://medium.com/p/4373d1d6db75) |
 | Sat, 28 Feb 2026 16:18:57 GMT | New Wave of “gov-*.bond” Domains Registered — Coordinated Phishing Infrastructure? | Natasha Fuller / Founder of  weAFAR Global Justice | [Read More](https://medium.com/p/5b7150db2efc) |
 | Sat, 28 Feb 2026 16:17:50 GMT | Agentic AI in Healthcare: The Secure Deployment Playbook for Autonomous Clinical Systems | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/ed57351ac319) |
 | Sat, 28 Feb 2026 16:17:44 GMT | Tried to Hack an AI-Built App. It Took Me 7 Minutes. | AIThinkerLab | [Read More](https://medium.com/p/da1c648a4462) |
 | Sat, 28 Feb 2026 16:17:04 GMT | The Tap That Broke Greece | O. J. Okpabi | [Read More](https://medium.com/p/35b3174b9f5f) |
 | Sat, 28 Feb 2026 16:13:45 GMT | Prompt Injection Is the New SQL Injection | Tara Prasad Routray | [Read More](https://medium.com/p/5510c32a5d06) |
+| Sat, 28 Feb 2026 16:08:47 GMT | Erişim Kontrolü Modelleri: Gizlilikten Bütünlüğe Güvenliğin Temelleri | Cagatayonbasioglu | [Read More](https://medium.com/p/0d8ae7f9c4cf) |
 | Sat, 28 Feb 2026 16:03:10 GMT | MCP’s Dirty Secret: 43% of Servers Are Vulnerable — And Your AI Agent Might Be Next | Mritunjaypratapsinghh | [Read More](https://medium.com/p/65cf94744ae0) |
 | Sat, 28 Feb 2026 15:56:52 GMT | When Kinetic Conflict Escalates: Understanding the Cyber Dimension of U.S.-Iran Tensions | Deniz Topaloglu | [Read More](https://medium.com/p/b7fa9410b86f) |
 | Sat, 28 Feb 2026 15:49:09 GMT | The Blockchain That Gets Harder to Attack the More You Use It | Chuck Loon | [Read More](https://medium.com/p/6928915014ee) |
@@ -40,6 +48,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Feb 2026 14:35:56 GMT | How to Create a FortiGate IPS Filter Profile | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/01dc76124cea) |
 | Sat, 28 Feb 2026 14:33:57 GMT | Dissecting BlackSnake Ransomware: Reverse Engineering a .NET Malware | Sharat Nautiyal | [Read More](https://medium.com/p/87f73a4c87ac) |
 | Sat, 28 Feb 2026 14:33:54 GMT | DVWA: Command Injection Vulnerability (Low Security) | Kamal S | [Read More](https://medium.com/p/073f99105889) |
+| Sat, 28 Feb 2026 14:32:47 GMT | TryHackMe FREE CTF Walkthrough- Love at First Breach 2026: Valenfind | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/b5d3766b7dad) |
 | Sat, 28 Feb 2026 14:31:40 GMT | Ottergram writeup (BAC) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/a46c997a1068) |
 | Sat, 28 Feb 2026 14:25:10 GMT | YouTube to MP3 Conversion Explained: Safety, Quality & Legal Risks | Hamzazafar | [Read More](https://medium.com/p/e44753956e1e) |
 | Sat, 28 Feb 2026 14:21:36 GMT | Checking if Node.js is vulnerablewhile | RungkritSys | [Read More](https://medium.com/p/d6013feb05ab) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Feb 2026 10:27:12 GMT | WebStrike — Blue Team CTF CyberDefenders | Rozid | [Read More](https://medium.com/p/3bbbf59daf89) |
 | Sat, 28 Feb 2026 10:25:39 GMT | Ph4nt0m 1ntrud3r — PicoCTF | Yrddry | [Read More](https://medium.com/p/863d563a242b) |
 | Sat, 28 Feb 2026 10:25:05 GMT | 888new 2026: Phân Tích Hệ Sinh Thái Tài Chính Và Bảo Mật | Weien | [Read More](https://medium.com/p/91281037560b) |
-| Sat, 28 Feb 2026 10:23:33 GMT | SQL Injection Vulnerability in Appointment Check-In Endpoint — Patient Queue Management System… | Ravi Pipalwa | [Read More](https://medium.com/p/cb6d32c08382) |
-| Sat, 28 Feb 2026 10:22:46 GMT | Breaking Authentication — Part 4 | ghostyjoe | [Read More](https://medium.com/p/d04234553433) |
-| Sat, 28 Feb 2026 10:22:36 GMT | Become a Cybersecurity Expert with Firewall-Zone Institute of IT — Hyderabad | Firewall Zone Institute of IT | [Read More](https://medium.com/p/d67dba20322d) |
-| Sat, 28 Feb 2026 10:21:13 GMT | The Threat of Cyber Attacks against Indonesia 2026 | MITRE Doggy | [Read More](https://medium.com/p/1b8983fdb819) |
-| Sat, 28 Feb 2026 10:12:49 GMT | Stored Cross-Site Scripting (XSS) in Reservation Management — SourceCodester Resort Reservation… | Ravi Pipalwa | [Read More](https://medium.com/p/894ee77d7312) |
-| Sat, 28 Feb 2026 10:06:05 GMT | How to Protect Workers from Artificial intelligence [AI] | AYOADE Ibrahim | [Read More](https://medium.com/p/c3ae6b27014e) |
-| Sat, 28 Feb 2026 10:05:11 GMT | Why the Mac Mini Became the Surprise Weapon Against AI Subscriptions | Tarun Singh | [Read More](https://medium.com/p/1797f3a55196) |
-| Sat, 28 Feb 2026 10:04:08 GMT | Diagnosing Battery Failures on Windows: A Practical Example of Troubleshooting | Declan | [Read More](https://medium.com/p/25f3648ef6e9) |
-| Sat, 28 Feb 2026 09:58:46 GMT | Shady Oaks Financial writeup (BFLA) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/d48f002446ba) |
