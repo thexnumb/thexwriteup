@@ -12,8 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 16:54:04 GMT | TryHackMe: Offensive Security Intro Walkthrough | Nadeenmoreb | [Read More](https://medium.com/p/35bca59dd6d1) |
 | Sat, 28 Feb 2026 16:51:39 GMT | ChatGPT as a Covert C2 Channel | Eslam Hussein | [Read More](https://medium.com/p/da9221178ff5) |
 | Sat, 28 Feb 2026 16:50:44 GMT | The Reality of Blockchain in Global Supply Chains | Cynox Security LLP. | [Read More](https://medium.com/p/8cb93c754d3f) |
+| Sat, 28 Feb 2026 16:43:38 GMT | Day 14 : Hacking wordpress HTB skill assessment | Cybersecurity with Jojo | [Read More](https://medium.com/p/06a4a3bf4aad) |
 | Sat, 28 Feb 2026 16:37:45 GMT | The Day the Router Met Nginx: When Mixture of Experts Crashed the Systems Engineering Party | Sagar Pandita | [Read More](https://medium.com/p/333dc3034fec) |
 | Sat, 28 Feb 2026 16:37:41 GMT | Secrets-picoCTF | Vishvambhar ranoshe | [Read More](https://medium.com/p/2ea6fbb5027b) |
 | Sat, 28 Feb 2026 16:35:19 GMT | Extracting Installed Applications (APK) from Android | Ch. Thedorou | [Read More](https://medium.com/p/aef90822d551) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Feb 2026 10:36:27 GMT | Active Directory Security Series — Part 2 | servet demirci | [Read More](https://medium.com/p/887f9338f381) |
 | Sat, 28 Feb 2026 10:30:02 GMT | NoSQL Injection Gone Wild: Logging into Any User, Stealing Garba Tickets, and ₹1 Purchases on a… | Raj Ukani | [Read More](https://medium.com/p/417cb9cbd00a) |
 | Sat, 28 Feb 2026 10:27:12 GMT | WebStrike — Blue Team CTF CyberDefenders | Rozid | [Read More](https://medium.com/p/3bbbf59daf89) |
-| Sat, 28 Feb 2026 10:25:39 GMT | Ph4nt0m 1ntrud3r — PicoCTF | Yrddry | [Read More](https://medium.com/p/863d563a242b) |
-| Sat, 28 Feb 2026 10:25:05 GMT | 888new 2026: Phân Tích Hệ Sinh Thái Tài Chính Và Bảo Mật | Weien | [Read More](https://medium.com/p/91281037560b) |
