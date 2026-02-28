@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 12:41:21 GMT | A Deepfake Lawsuit, a Provenance Bill Surge, and Section 230’s 30th Birthday All Happened in 48… | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/48d7da984169) |
+| Sat, 28 Feb 2026 12:26:35 GMT | How to Build a Cybersecurity Roadmap for an Indian SME | Imperium Digital Network Pvt Ltd. | [Read More](https://medium.com/p/0477efdcd501) |
+| Sat, 28 Feb 2026 12:24:51 GMT | How I Went from Zero to CRTP in 60 Days: A Structured Study Plan | n0rmh3ll | [Read More](https://medium.com/p/fe533b17b9c7) |
+| Sat, 28 Feb 2026 12:19:38 GMT | Dari Event Viewer Windows Hingga Serangan Brutal SSH - DFIR Write-up | Muhammad Ketsar Ali Abi Wahid | [Read More](https://medium.com/p/70ce0cf01fdf) |
+| Sat, 28 Feb 2026 12:17:28 GMT | How Hackers Actually Hack You — It’s Simpler Than You Think | Mooki W | [Read More](https://medium.com/p/a2a1696ae600) |
+| Sat, 28 Feb 2026 12:14:52 GMT | [New Podcast] A Conversation on AI, Cyber Risk & Digital Trust in Kenya & East Africa with… | Moses Mwemezi Kemibaro | [Read More](https://medium.com/p/eeb87f6209c8) |
+| Sat, 28 Feb 2026 12:12:23 GMT | “Bug Bounty Bootcamp #26: SQL Injection Fundamentals — Learning to Speak the Database’s Language” | Aman Sharma | [Read More](https://medium.com/p/9cafd7bb6b40) |
+| Sat, 28 Feb 2026 12:06:29 GMT | Key Skills You Need to Succeed in Cybersecurity (Beyond Just Technical Knowledge) | Ferdi Edogawa | [Read More](https://medium.com/p/473d935362c8) |
+| Sat, 28 Feb 2026 12:05:20 GMT | ️Microsoft Sentinel Analytic Rules | jay75chauhan | [Read More](https://medium.com/p/f62eb3a85a50) |
+| Sat, 28 Feb 2026 12:03:12 GMT | Port Forwarding: The Art of Punching Holes in Your Digital Fort (Securely) | Hamza Bharmal | [Read More](https://medium.com/p/f827765cbf5c) |
+| Sat, 28 Feb 2026 12:03:12 GMT | Kendi Laboratuvarımda Zafiyet Analizi: Nessus ve Metasploitable | Enes Bayraker | [Read More](https://medium.com/p/3cdf2d218ac1) |
+| Sat, 28 Feb 2026 11:54:29 GMT | RedC: Automate Your Red Team Infrastructure Deployment in Minutes | Bountyguy | [Read More](https://medium.com/p/ed90fd7642c9) |
+| Sat, 28 Feb 2026 11:51:56 GMT | The 2026 Cybersecurity Survival Guide: Beyond the Hype and Into the AI Shift | Shanker Goud | [Read More](https://medium.com/p/7d1c413d9c91) |
+| Sat, 28 Feb 2026 11:46:00 GMT | Integration of Cloudflare and CDN Solutions for Django Web Applications | Rupesh | [Read More](https://medium.com/p/5a82138d05fc) |
+| Sat, 28 Feb 2026 11:46:00 GMT | Your SaaS Went Live This Morning. Someone’s Already Scanning It. | Cyphersilhouette | [Read More](https://medium.com/p/4b815b4c7a89) |
 | Sat, 28 Feb 2026 11:38:52 GMT | The Registration Struggle: Why Your Personal Phone Number is a Risk and How Virtual Numbers Solve… | NNayak | [Read More](https://medium.com/p/d4c4287b2d87) |
+| Sat, 28 Feb 2026 11:34:05 GMT | ethical hacking | Ehtishamjk | [Read More](https://medium.com/p/e390c162526d) |
 | Sat, 28 Feb 2026 11:30:11 GMT | Restricted: Securing Sensitive Financial Data in Web Apps | Ojage Salathiel | [Read More](https://medium.com/p/c2888c5e4e58) |
 | Sat, 28 Feb 2026 11:23:27 GMT | How I Earned a €700 Bounty from an Information Disclosure Vulnerability | DOD cyber solutions | [Read More](https://medium.com/p/79a246e10116) |
 | Sat, 28 Feb 2026 11:21:00 GMT | Why Violence Has Erupted in Mexico And Why It Matters More Than You Realize | Sagar S Nair | [Read More](https://medium.com/p/b83fe4ed44c6) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Feb 2026 06:57:49 GMT | One Year on Medium | War Vithin | [Read More](https://medium.com/p/4e01297babe1) |
 | Sat, 28 Feb 2026 06:51:55 GMT | gcc (Ghost C Compiler) CTF Writeup— BitSkrieg CTF 2026 | Shoaib Bin Rashid | [Read More](https://medium.com/p/c803aa8a2610) |
 | Sat, 28 Feb 2026 06:51:40 GMT | CYBERDUDEBIVASH® Identity Anomaly Detector + Ansible Patcher v1.0.0 | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/d0b54ae54101) |
-| Sat, 28 Feb 2026 06:51:21 GMT | Marlboro CTF Writeup — BitSkrieg CTF 2026 | Shoaib Bin Rashid | [Read More](https://medium.com/p/e0045dc23dc4) |
-| Sat, 28 Feb 2026 06:51:16 GMT | Deceptive Pop-Ups | Temitayo Adebisi | [Read More](https://medium.com/p/ff61bf812ec0) |
-| Sat, 28 Feb 2026 06:49:27 GMT | The path to the core | Progsky | [Read More](https://medium.com/p/9c1fd3d527db) |
-| Sat, 28 Feb 2026 06:45:44 GMT | Data Privacy in 2026: The Rules Have Changed — Have You? | Deoatharva | [Read More](https://medium.com/p/4810a9e4e0a9) |
-| Sat, 28 Feb 2026 06:39:13 GMT | A Practical Memory Leak Hunting Guide | Fateyaly | [Read More](https://medium.com/p/3067606e914d) |
-| Sat, 28 Feb 2026 06:31:01 GMT | Command-Line Investigation in the Age of EDR | Ankita Sinha | [Read More](https://medium.com/p/db87034cee4f) |
-| Sat, 28 Feb 2026 06:24:56 GMT | Advent of The Relics 2 — Operation Winter Blackout | Dimas Adrian | [Read More](https://medium.com/p/8205fef7cbc0) |
-| Sat, 28 Feb 2026 06:22:58 GMT | I tried to solve the ctf challenge about finding the flag by logging into a user whose password is… | Billy Elvonda Aron Umpel | [Read More](https://medium.com/p/de4a4ac097eb) |
-| Sat, 28 Feb 2026 06:22:38 GMT | Why 90% of Personal Websites Become Inactive After 3 Months? | dbk.one | [Read More](https://medium.com/p/5f837482fb8d) |
-| Sat, 28 Feb 2026 06:15:40 GMT | Living-off-the-Land Attacks: How Adversaries Use Legitimate Tools to Stay Invisible | Cynox Security LLP. | [Read More](https://medium.com/p/f12dd3cfa474) |
-| Sat, 28 Feb 2026 06:10:27 GMT | Google Groups OSINT for Pentesting | Abhirup Konwar | [Read More](https://medium.com/p/abe68b46c482) |
-| Sat, 28 Feb 2026 06:02:52 GMT | The Ghost in the Machine: Why My 6 Years in Cybersecurity Made Me a Better Writer | Mohit | [Read More](https://medium.com/p/dd9c4b9b80ff) |
-| Sat, 28 Feb 2026 06:01:01 GMT | How API Pen-Testers Approach Systems: Tools, Mindset, and Methodology | Odunlade Adeola | [Read More](https://medium.com/p/9933c8906f09) |
-| Sat, 28 Feb 2026 06:00:54 GMT | The Immutable Command: An Exhaustive Analysis of Aeternum C2, Blockchain Infrastructure Abuse, and… | Rakibul Hasan Sagor | [Read More](https://medium.com/p/17f05f49bf0f) |
-| Sat, 28 Feb 2026 06:00:05 GMT | Boosting Your Startup with IT Staff Augmentation Services | Solus USA | [Read More](https://medium.com/p/72235229f140) |
-| Sat, 28 Feb 2026 05:56:51 GMT | The Day the Government Blacklisted an AI Company: What the Anthropic-Pentagon Showdown Really Means | CCD-IS | [Read More](https://medium.com/p/008cf1562b3f) |
