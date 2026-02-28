@@ -12,12 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 15:35:58 GMT | Door Ringer: A Complete Guide to Choosing the Best Doorbell for Your Home | Healthyifyeva Taylor | [Read More](https://medium.com/p/cfb552406133) |
+| Sat, 28 Feb 2026 15:25:31 GMT | Advent Of The Relics 2 | Abdullah Fatih  Al Huda | [Read More](https://medium.com/p/eb01b4d3b6d8) |
 | Sat, 28 Feb 2026 15:23:05 GMT | OSINT + AI: The Ocean Beneath the Surface — A Deep Dive | Mahetagaurang | [Read More](https://medium.com/p/d81f45dee41b) |
 | Sat, 28 Feb 2026 15:21:28 GMT | Deus Ex Humana, Part 2: AI Safety, AI Job-loss, and Cyber MAD | Wanderer-in-the-Loop | [Read More](https://medium.com/p/f0ab444433c1) |
+| Sat, 28 Feb 2026 15:14:21 GMT | Why Modern UK Businesses Can’t Afford to Overlook Professional Security | Rapport Security | [Read More](https://medium.com/p/c672c265759a) |
 | Sat, 28 Feb 2026 15:09:44 GMT | HTB — AoTR : Operation Winter Blackout Write-Up | Annisa Eka Putri | [Read More](https://medium.com/p/42411a520013) |
 | Sat, 28 Feb 2026 15:07:13 GMT | Ready to Level Up Your Cybersecurity Career ? | Malik Rashid Ahmad | [Read More](https://medium.com/p/acc1a7fc6bf9) |
 | Sat, 28 Feb 2026 15:01:03 GMT | Anthropic Posted a Blog. IBM Shed $31 Billion. Then Cybersecurity Dropped Another $15 Billion. | Zoom In AI | [Read More](https://medium.com/p/e1c25ad09f91) |
 | Sat, 28 Feb 2026 15:01:00 GMT | The-Ultimate-Nuclei-Guide For Hackers In 2026:- | MainEkHacker | [Read More](https://medium.com/p/603d6aa2ad4d) |
+| Sat, 28 Feb 2026 15:01:00 GMT | Los pagos por ransomware decaen a su punto más bajo en su historia aunque aumentan los ataques | Tiziano Mass | [Read More](https://medium.com/p/368331b7fd6f) |
 | Sat, 28 Feb 2026 15:00:10 GMT | How I Exploited an Exposed Redis Server on HTB’s Redeemer Machine | Omar Abdelmetaal | [Read More](https://medium.com/p/4fec0cad26b4) |
 | Sat, 28 Feb 2026 14:45:15 GMT | Solving a Bugforge Challenge — Exploiting Role Tampering in Shady Oaks Financial | Pranaya Shrestha | [Read More](https://medium.com/p/8533e2515f4b) |
 | Sat, 28 Feb 2026 14:41:45 GMT | Day 10 — Dumping Passwords With UNION (SQL Injection Escalates) | Issan | [Read More](https://medium.com/p/0ba7e11a8eb8) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Feb 2026 09:41:01 GMT | Certified Ethical Hacking | Gigadexterity | [Read More](https://medium.com/p/3cf77ba10ad0) |
 | Sat, 28 Feb 2026 09:34:48 GMT | Why Real API Breaches Happen Through Chains, Not Single Bugs | Peace Dennis | [Read More](https://medium.com/p/b4b790c23d2f) |
 | Sat, 28 Feb 2026 09:33:58 GMT | DNA Testing In This Day And Age | Atwine Benjamin | [Read More](https://medium.com/p/c4c4343e78e3) |
-| Sat, 28 Feb 2026 09:31:10 GMT | Google Dork’un Pentest Yaşam Döngüsündeki Yeri | ahmetesatakkus | [Read More](https://medium.com/p/4e1fcb854c86) |
-| Sat, 28 Feb 2026 09:28:14 GMT | Security-Aware Cloud-Native AI Models for Fraud Prevention in Insurance | Keerthi Amistapuram | [Read More](https://medium.com/p/eaf5a4b01c92) |
-| Sat, 28 Feb 2026 09:27:22 GMT | Forensic Academy — Diploma in Cyber Security in Punjab, Chandigarh , Delhi | Forensic Academy | [Read More](https://medium.com/p/5c3e73925373) |
-| Sat, 28 Feb 2026 09:26:15 GMT | Wiz Cloud Hunting Games Challenge Writeup: A Complete Cloud Attack Chain | Bpple | [Read More](https://medium.com/p/a584ccacee3b) |
