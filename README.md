@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 19:04:04 GMT | Critical Web3 Vulnerability: Full Account Takeover via Arbitrary Internal Self-Calls in Smart… | Hacker MD | [Read More](https://medium.com/p/84a5646ba66b) |
+| Sat, 28 Feb 2026 19:01:00 GMT | Spyware Industry: The Zero-Click Empire | Jerry | [Read More](https://medium.com/p/a1deec54f2ea) |
+| Sat, 28 Feb 2026 18:56:00 GMT | EU GDPR — Article 25 (Data Protection by Design and by Default) | MDM Team | [Read More](https://medium.com/p/4a941045536f) |
+| Sat, 28 Feb 2026 18:51:15 GMT | Small Business Technology News: A ChatGPT Smart Speaker | Gene Marks | [Read More](https://medium.com/p/9c42226fe389) |
+| Sat, 28 Feb 2026 18:49:17 GMT | Artificial Intelligence: A Simple Guide to Understanding AI | Techridge Solutions | [Read More](https://medium.com/p/0aac1f544e89) |
+| Sat, 28 Feb 2026 18:38:40 GMT | Exploring Burpsuite MCP Server: Connecting WSL to Burpsuite MCP Server | Ayyubnoezher | [Read More](https://medium.com/p/a1fc4c875279) |
+| Sat, 28 Feb 2026 18:36:18 GMT | The Great Identity Heist: Why We Stopped Trusting Passwords and Started Trusting “Okta” | Pandit Shivam | [Read More](https://medium.com/p/5b2d448a39c5) |
 | Sat, 28 Feb 2026 18:30:03 GMT | What is DevSecOps & Why It Matters | Gautammakwana | [Read More](https://medium.com/p/ab0367625208) |
+| Sat, 28 Feb 2026 18:27:11 GMT | When Your Client Data is Leaked: A Practical Guide for Nigerian Companies | Esther Idibiye David (Legalinbloom) | [Read More](https://medium.com/p/54d3d7f21e12) |
 | Sat, 28 Feb 2026 18:21:33 GMT | Marker Interface 與 Annotation（Attribute）的比較 | 思維舞步 MindSteps | [Read More](https://medium.com/p/2bf56d76c982) |
 | Sat, 28 Feb 2026 18:20:27 GMT | Implementing Least Privilege Access to Amazon S3 Using AWS IAM | Nicholas Palumbi | [Read More](https://medium.com/p/c1fb8c7c4187) |
 | Sat, 28 Feb 2026 18:20:20 GMT | Web4 & Spatial Computing: Beyond the Metaverse | Mai Tran | [Read More](https://medium.com/p/a0ef58cb5978) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Feb 2026 12:06:29 GMT | Key Skills You Need to Succeed in Cybersecurity (Beyond Just Technical Knowledge) | Ferdi Edogawa | [Read More](https://medium.com/p/473d935362c8) |
 | Sat, 28 Feb 2026 12:05:20 GMT | ️Microsoft Sentinel Analytic Rules | jay75chauhan | [Read More](https://medium.com/p/f62eb3a85a50) |
 | Sat, 28 Feb 2026 12:03:12 GMT | Port Forwarding: The Art of Punching Holes in Your Digital Fort (Securely) | Hamza Bharmal | [Read More](https://medium.com/p/f827765cbf5c) |
-| Sat, 28 Feb 2026 12:03:12 GMT | Kendi Laboratuvarımda Zafiyet Analizi: Nessus ve Metasploitable | Enes Bayraker | [Read More](https://medium.com/p/3cdf2d218ac1) |
-| Sat, 28 Feb 2026 11:54:29 GMT | RedC: Automate Your Red Team Infrastructure Deployment in Minutes | Bountyguy | [Read More](https://medium.com/p/ed90fd7642c9) |
-| Sat, 28 Feb 2026 11:51:56 GMT | The 2026 Cybersecurity Survival Guide: Beyond the Hype and Into the AI Shift | Shanker Goud | [Read More](https://medium.com/p/7d1c413d9c91) |
-| Sat, 28 Feb 2026 11:46:00 GMT | Integration of Cloudflare and CDN Solutions for Django Web Applications | Rupesh | [Read More](https://medium.com/p/5a82138d05fc) |
-| Sat, 28 Feb 2026 11:46:00 GMT | Your SaaS Went Live This Morning. Someone’s Already Scanning It. | Cyphersilhouette | [Read More](https://medium.com/p/4b815b4c7a89) |
-| Sat, 28 Feb 2026 11:38:52 GMT | The Registration Struggle: Why Your Personal Phone Number is a Risk and How Virtual Numbers Solve… | NNayak | [Read More](https://medium.com/p/d4c4287b2d87) |
-| Sat, 28 Feb 2026 11:34:05 GMT | ethical hacking | Ehtishamjk | [Read More](https://medium.com/p/e390c162526d) |
-| Sat, 28 Feb 2026 11:30:11 GMT | Restricted: Securing Sensitive Financial Data in Web Apps | Ojage Salathiel | [Read More](https://medium.com/p/c2888c5e4e58) |
