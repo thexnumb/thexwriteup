@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 14:36:53 GMT | Unpacking Smartcomply’s & TechCabal’s AI & the Cyber Frontier 2026 Report: Kenya’s & East Africa’s… | Moses Mwemezi Kemibaro | [Read More](https://medium.com/p/e8f2035dc4f5) |
+| Sat, 28 Feb 2026 14:36:11 GMT | SOC and Defense Strategies | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/aaf376eb21a5) |
+| Sat, 28 Feb 2026 14:35:56 GMT | How to Create a FortiGate IPS Filter Profile | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/01dc76124cea) |
+| Sat, 28 Feb 2026 14:33:57 GMT | Dissecting BlackSnake Ransomware: Reverse Engineering a .NET Malware | Sharat Nautiyal | [Read More](https://medium.com/p/87f73a4c87ac) |
+| Sat, 28 Feb 2026 14:33:54 GMT | DVWA: Command Injection Vulnerability (Low Security) | Kamal S | [Read More](https://medium.com/p/073f99105889) |
+| Sat, 28 Feb 2026 14:31:40 GMT | Ottergram writeup (BAC) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/a46c997a1068) |
+| Sat, 28 Feb 2026 14:25:10 GMT | YouTube to MP3 Conversion Explained: Safety, Quality & Legal Risks | Hamzazafar | [Read More](https://medium.com/p/e44753956e1e) |
 | Sat, 28 Feb 2026 14:21:36 GMT | Checking if Node.js is vulnerablewhile | RungkritSys | [Read More](https://medium.com/p/d6013feb05ab) |
 | Sat, 28 Feb 2026 14:21:17 GMT | In 2015 I Built the First Tool to Measure Security Culture. Now I Am Measuring What Comes Next. | Kai Roer | [Read More](https://medium.com/p/029eaa84430a) |
 | Sat, 28 Feb 2026 14:19:00 GMT | Network Pivoting Explained for OSCP - Step-by-Step Walkthrough | cyber_public_school | [Read More](https://medium.com/p/bdaba125a901) |
@@ -36,6 +43,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Feb 2026 12:50:34 GMT | ️ Decidary: Building a Governance System That Treats Decisions Like Evidence | Mohan Kumar | [Read More](https://medium.com/p/2b9358b8b0e9) |
 | Sat, 28 Feb 2026 12:47:30 GMT | Risk | K.Ash | [Read More](https://medium.com/p/1932d9deda6a) |
 | Sat, 28 Feb 2026 12:44:31 GMT | Security & Privacy Audit: poof.new | Nyakojiru | [Read More](https://medium.com/p/16cb83a1a5a4) |
+| Sat, 28 Feb 2026 12:44:09 GMT | Lapoan Praktikum Struktur Data : Linked List Dalam Python | Cahyoadi | [Read More](https://medium.com/p/059eae9981e8) |
 | Sat, 28 Feb 2026 12:41:21 GMT | A Deepfake Lawsuit, a Provenance Bill Surge, and Section 230’s 30th Birthday All Happened in 48… | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/48d7da984169) |
 | Sat, 28 Feb 2026 12:26:35 GMT | How to Build a Cybersecurity Roadmap for an Indian SME | Imperium Digital Network Pvt Ltd. | [Read More](https://medium.com/p/0477efdcd501) |
 | Sat, 28 Feb 2026 12:24:51 GMT | How I Went from Zero to CRTP in 60 Days: A Structured Study Plan | n0rmh3ll | [Read More](https://medium.com/p/fe533b17b9c7) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Feb 2026 09:01:00 GMT | The 3 Filters That Turn LeakRadar Into a Bug Bounty Weapon | Alexandre Vandamme | [Read More](https://medium.com/p/0c72981c2583) |
 | Sat, 28 Feb 2026 08:52:04 GMT | Is Your PDF Editor Leaking Data? How to Switch to a Privacy-First Workflow | Shuvo Habib | [Read More](https://medium.com/p/9083f0abf770) |
 | Sat, 28 Feb 2026 08:51:12 GMT | 2026 IT Readiness: Your Year-End Cybersecurity Guide | Jeremy Martin | [Read More](https://medium.com/p/16fcac8cb76c) |
-| Sat, 28 Feb 2026 08:43:35 GMT | HOW An API WORKS | MUHAMMED RUMAIS MV | [Read More](https://medium.com/p/2cceb3a865f9) |
-| Sat, 28 Feb 2026 08:42:30 GMT | SATIP — Strategic Adversaries Threat Intelligence Platform | TΞLΞMΞTRY | [Read More](https://medium.com/p/1c3f24c2d2c4) |
-| Sat, 28 Feb 2026 08:40:20 GMT | Research Portfolio Index | Samuel Partida Cabañas | [Read More](https://medium.com/p/f895c0f9942d) |
-| Sat, 28 Feb 2026 08:31:22 GMT | The Panic in the Room: Why Your 2026 Security Strategy is Failing the “Human Test” | Mohit | [Read More](https://medium.com/p/5e07042d3376) |
-| Sat, 28 Feb 2026 08:10:12 GMT | Unpacker: A Practical Guide to Modular Malware Packer Detection and Unpacking | Andrey Pautov | [Read More](https://medium.com/p/cf8ba924f25b) |
-| Sat, 28 Feb 2026 08:08:29 GMT | Beware of Fake Dropbox Emails: Inside a Sophisticated Multi-Stage PDF Phishing Attack | Deven Chhajed | [Read More](https://medium.com/p/0facbed8aef2) |
-| Sat, 28 Feb 2026 08:07:52 GMT | ️ nezuko:1 — OSCP Raw - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/90383b5de47b) |
-| Sat, 28 Feb 2026 08:02:05 GMT | Implementing Azure Monitor Private Link Scope (AMPLS) for Production-Grade Isolation | Ibrahim Dauda | [Read More](https://medium.com/p/2e0cfe71f824) |
