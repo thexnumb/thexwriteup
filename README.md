@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 19:33:48 GMT | Microsoft SQL Server 2019 / 2022 Secure Deployment & Hardening Guide (CIS Benchmarks) | SOCFortress | [Read More](https://medium.com/p/70bf7ecb6700) |
+| Sat, 28 Feb 2026 19:24:16 GMT | Vulnerability, the thread by which we all hang? | Natasha Seagrove | [Read More](https://medium.com/p/e6244e56367f) |
+| Sat, 28 Feb 2026 19:18:20 GMT | Career Plot Twist (Featuring Lagos Buses) | ERIN-ORITSE | [Read More](https://medium.com/p/c151446f9f07) |
+| Sat, 28 Feb 2026 19:12:26 GMT | ⚠️ Supply Chain Cybersecurity: The Energy Industry’s Achilles Heel ⚡ | Shaam Farooq | [Read More](https://medium.com/p/521b033c7e02) |
 | Sat, 28 Feb 2026 19:04:04 GMT | Critical Web3 Vulnerability: Full Account Takeover via Arbitrary Internal Self-Calls in Smart… | Hacker MD | [Read More](https://medium.com/p/84a5646ba66b) |
 | Sat, 28 Feb 2026 19:01:00 GMT | Spyware Industry: The Zero-Click Empire | Jerry | [Read More](https://medium.com/p/a1deec54f2ea) |
 | Sat, 28 Feb 2026 18:56:00 GMT | EU GDPR — Article 25 (Data Protection by Design and by Default) | MDM Team | [Read More](https://medium.com/p/4a941045536f) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Feb 2026 12:19:38 GMT | Dari Event Viewer Windows Hingga Serangan Brutal SSH - DFIR Write-up | Muhammad Ketsar Ali Abi Wahid | [Read More](https://medium.com/p/70ce0cf01fdf) |
 | Sat, 28 Feb 2026 12:17:28 GMT | How Hackers Actually Hack You — It’s Simpler Than You Think | Mooki W | [Read More](https://medium.com/p/a2a1696ae600) |
 | Sat, 28 Feb 2026 12:14:52 GMT | [New Podcast] A Conversation on AI, Cyber Risk & Digital Trust in Kenya & East Africa with… | Moses Mwemezi Kemibaro | [Read More](https://medium.com/p/eeb87f6209c8) |
-| Sat, 28 Feb 2026 12:12:23 GMT | “Bug Bounty Bootcamp #26: SQL Injection Fundamentals — Learning to Speak the Database’s Language” | Aman Sharma | [Read More](https://medium.com/p/9cafd7bb6b40) |
-| Sat, 28 Feb 2026 12:06:29 GMT | Key Skills You Need to Succeed in Cybersecurity (Beyond Just Technical Knowledge) | Ferdi Edogawa | [Read More](https://medium.com/p/473d935362c8) |
-| Sat, 28 Feb 2026 12:05:20 GMT | ️Microsoft Sentinel Analytic Rules | jay75chauhan | [Read More](https://medium.com/p/f62eb3a85a50) |
-| Sat, 28 Feb 2026 12:03:12 GMT | Port Forwarding: The Art of Punching Holes in Your Digital Fort (Securely) | Hamza Bharmal | [Read More](https://medium.com/p/f827765cbf5c) |
