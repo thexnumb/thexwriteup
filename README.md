@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 11:38:52 GMT | The Registration Struggle: Why Your Personal Phone Number is a Risk and How Virtual Numbers Solve… | NNayak | [Read More](https://medium.com/p/d4c4287b2d87) |
+| Sat, 28 Feb 2026 11:30:11 GMT | Restricted: Securing Sensitive Financial Data in Web Apps | Ojage Salathiel | [Read More](https://medium.com/p/c2888c5e4e58) |
+| Sat, 28 Feb 2026 11:23:27 GMT | How I Earned a €700 Bounty from an Information Disclosure Vulnerability | DOD cyber solutions | [Read More](https://medium.com/p/79a246e10116) |
+| Sat, 28 Feb 2026 11:21:00 GMT | Why Violence Has Erupted in Mexico And Why It Matters More Than You Realize | Sagar S Nair | [Read More](https://medium.com/p/b83fe4ed44c6) |
+| Sat, 28 Feb 2026 11:17:42 GMT | How to Identify Industry-Oriented Cyber Security Programs. | logging security | [Read More](https://medium.com/p/8666309e83cc) |
+| Sat, 28 Feb 2026 11:17:36 GMT | ISO 27001 Is Not a Certificate. It’s a Stress Test for Your Company. | Fintech By Tanu | [Read More](https://medium.com/p/a1e8bdc68134) |
+| Sat, 28 Feb 2026 11:15:58 GMT | Cloud Security Essentials for Modern Organizations | Kunal Arora | [Read More](https://medium.com/p/e50d29c2d20c) |
+| Sat, 28 Feb 2026 11:08:58 GMT | When File Explorer Becomes an Attack Vector: How Hackers Are Using WebDAV for Stealthy Malware… | Jas | [Read More](https://medium.com/p/4bde5c646246) |
 | Sat, 28 Feb 2026 11:01:48 GMT | O Ransonware ”Bonzinho” — uma análise comportamental. | Paulo Henrique | [Read More](https://medium.com/p/cdaa663ad396) |
 | Sat, 28 Feb 2026 10:51:17 GMT | Yozlaşan Düzen ve Hayatta Kalmak: Sosyal Mühendisliği ve Psikolojiyi Anlamak 3 | Hakan ÇEVİK | [Read More](https://medium.com/p/f7b8e8e354d8) |
 | Sat, 28 Feb 2026 10:47:32 GMT | 1.Scope, Legality, and Ethics of Ethical Hacking | Waqashk | [Read More](https://medium.com/p/8ee3ddef0139) |
@@ -38,6 +46,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Feb 2026 09:51:38 GMT | picoCTF Writeup — Event-Viewing | Arfan (p4n) | [Read More](https://medium.com/p/933a15af4698) |
 | Sat, 28 Feb 2026 09:45:55 GMT | Strong Passwords vs Weak Passwords: The Small Habit That Prevents Big Breaches | Rela Lumbini | [Read More](https://medium.com/p/68077e973d4d) |
 | Sat, 28 Feb 2026 09:44:33 GMT | Cloning a Bank UI Won’t Hack It! Here’s Why. | Rishabh Srivastava | [Read More](https://medium.com/p/16db9fa82b8a) |
+| Sat, 28 Feb 2026 09:44:06 GMT | SOC336 — Windows OLE Zero-Click RCE Exploitation Detected (CVE-2025–21298) | Pablo Rodriguez Sanz | [Read More](https://medium.com/p/d16c60548abf) |
 | Sat, 28 Feb 2026 09:41:01 GMT | Certified Ethical Hacking | Gigadexterity | [Read More](https://medium.com/p/3cf77ba10ad0) |
 | Sat, 28 Feb 2026 09:34:48 GMT | Why Real API Breaches Happen Through Chains, Not Single Bugs | Peace Dennis | [Read More](https://medium.com/p/b4b790c23d2f) |
 | Sat, 28 Feb 2026 09:33:58 GMT | DNA Testing In This Day And Age | Atwine Benjamin | [Read More](https://medium.com/p/c4c4343e78e3) |
@@ -65,6 +74,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Feb 2026 08:02:05 GMT | Implementing Azure Monitor Private Link Scope (AMPLS) for Production-Grade Isolation | Ibrahim Dauda | [Read More](https://medium.com/p/2e0cfe71f824) |
 | Sat, 28 Feb 2026 08:02:01 GMT | Reviving a WordPress Honeypot with Vibe Coding | William Touzalin | [Read More](https://medium.com/p/2f3489d3a9d5) |
 | Sat, 28 Feb 2026 07:53:08 GMT | Week 12 — The Art of Failing Better: A Confession of a Struggling Idealist | Siddhi Agrawal | [Read More](https://medium.com/p/cf47fcd8a428) |
+| Sat, 28 Feb 2026 07:51:30 GMT | How to Handle File Uploads in Node.js (Beginner Guide to Multer) | Dipika_gandash | [Read More](https://medium.com/p/c3810de38b81) |
 | Sat, 28 Feb 2026 07:44:20 GMT | Güçlü Parola Nedir? PBKDF2 Neden Şifrelemede Kritik Rol Oynar? | Ali Yaşe | [Read More](https://medium.com/p/00f26c29e449) |
 | Sat, 28 Feb 2026 07:39:59 GMT | CYBERDUDEBIVASH® SSRF Filter + Secure Proxy Service v1.0.0 | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/5ef48168b729) |
 | Sat, 28 Feb 2026 07:37:27 GMT | सायबर सुरक्षा आणि एथिकल हॅकिंग: डिजिटल युगातील अभेद्य कवच | Smit Shah | [Read More](https://medium.com/p/e272624ac2f7) |
@@ -102,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Feb 2026 06:00:54 GMT | The Immutable Command: An Exhaustive Analysis of Aeternum C2, Blockchain Infrastructure Abuse, and… | Rakibul Hasan Sagor | [Read More](https://medium.com/p/17f05f49bf0f) |
 | Sat, 28 Feb 2026 06:00:05 GMT | Boosting Your Startup with IT Staff Augmentation Services | Solus USA | [Read More](https://medium.com/p/72235229f140) |
 | Sat, 28 Feb 2026 05:56:51 GMT | The Day the Government Blacklisted an AI Company: What the Anthropic-Pentagon Showdown Really Means | CCD-IS | [Read More](https://medium.com/p/008cf1562b3f) |
-| Sat, 28 Feb 2026 05:48:01 GMT | LazyAdmin | Errorcode14 | [Read More](https://medium.com/p/d7408a569208) |
-| Sat, 28 Feb 2026 05:47:37 GMT | Beyond the Cybersecurity Soundbites | JC Gaillard | [Read More](https://medium.com/p/c8801c0cf480) |
-| Sat, 28 Feb 2026 05:47:18 GMT | How Priminent Encourages Students to Go Beyond Basic Learning | Priminent | [Read More](https://medium.com/p/2b13a96abc96) |
-| Sat, 28 Feb 2026 05:36:42 GMT | On Surgical Pilgrimages and the Art of Chosen Vulnerability | Alexandra Gulbis, LCSW, ABS | [Read More](https://medium.com/p/8eac024fb9b4) |
-| Sat, 28 Feb 2026 05:28:52 GMT | What is Bug Bounty And How Real Hackers Find Bugs | Novashield | [Read More](https://medium.com/p/8782500666fa) |
-| Sat, 28 Feb 2026 05:22:35 GMT | People I Gravitate Towards | Dr. Seema Patel (PhD) | [Read More](https://medium.com/p/28271efadb8b) |
-| Sat, 28 Feb 2026 05:13:55 GMT | A Silent Witness: 
-Inside a Python Keylogger Built for Awareness!? | AizaKhurram | [Read More](https://medium.com/p/609b904f309c) |
-| Sat, 28 Feb 2026 05:01:00 GMT | Is the German Shepherd the Ultimate “Smart Home” Accessory in 2026? | Ali Hassan — Dog Care Guide | [Read More](https://medium.com/p/51222c087031) |
-| Sat, 28 Feb 2026 05:00:19 GMT | TryHackMe Pre Security (SEC0) Exam Review | Rich | [Read More](https://medium.com/p/761040035a83) |
-| Sat, 28 Feb 2026 04:56:24 GMT | Dataverse Security: The Day I Stopped Clicking the Big Green Circle | Sajeda Sultana | [Read More](https://medium.com/p/5f71c4515f0f) |
