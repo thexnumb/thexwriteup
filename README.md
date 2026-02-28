@@ -12,12 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 23:11:00 GMT | Artificial Intelligence (AI) | Cyber Explain | [Read More](https://medium.com/p/acfd723c04b8) |
+| Sat, 28 Feb 2026 23:07:51 GMT | The Lesson Policing Taught Me About Cybersecurity
+Working in law enforcement taught me something… | IBE KINGSLEY | [Read More](https://medium.com/p/87172a818d30) |
+| Sat, 28 Feb 2026 23:06:48 GMT | Hijacking an admin account through a “support access” feature | OopsSec Store | [Read More](https://medium.com/p/d2af293229a9) |
+| Sat, 28 Feb 2026 23:06:40 GMT | Insufficient Input Validation Attack Lab: A Hands-On Journey Through File Upload Bypass Techniques | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/9ede65deea8e) |
+| Sat, 28 Feb 2026 23:05:51 GMT | Safety vs Speed: The Fight That Will Shape Enterprise AI in 2026 | Dave Patten | [Read More](https://medium.com/p/aad97d4103c5) |
+| Sat, 28 Feb 2026 22:51:22 GMT | The Quiet Automation of Medical Authority: How AI Is Redefining Who Doctors Listen To | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/70c785aa1e61) |
+| Sat, 28 Feb 2026 22:46:11 GMT | Enforcing Post-Quantum Cryptography in Kubernetes: Building Sentinel-PQC | Prudhvichanda | [Read More](https://medium.com/p/27cf2a04f8ee) |
 | Sat, 28 Feb 2026 22:33:36 GMT | The Trends That Will Actually Matter in the Next Decade | The KPI Strikes Back | [Read More](https://medium.com/p/3e6f9851e036) |
 | Sat, 28 Feb 2026 22:25:17 GMT | Phishing Email and Suspicious URL investigation — A Documentation. | Joelovie | [Read More](https://medium.com/p/a3008b1bf954) |
 | Sat, 28 Feb 2026 22:24:50 GMT | Day 15: Let’s get back to enumeration (HTB Nmap room) pt.1 | Cybersecurity with Jojo | [Read More](https://medium.com/p/34e89dc7906d) |
 | Sat, 28 Feb 2026 22:17:26 GMT | The 6-Digit Death Trap: Why Your Phone’s 2FA Is Handing Hackers Your Life Savings | ProfitShield AI | [Read More](https://medium.com/p/3a1907fd894c) |
 | Sat, 28 Feb 2026 22:05:33 GMT | Passkeys WebAuthn Tutorial 2026: How to Kill Passwords in Your Next App | Tent Of Tech | [Read More](https://medium.com/p/cf2a72a75a54) |
 | Sat, 28 Feb 2026 22:02:57 GMT | Cross-Site Request Forgery (CSRF) Attack Lab: A Hands-On Journey Through Request Manipulation | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/892265859abb) |
+| Sat, 28 Feb 2026 21:47:16 GMT | La importancia del análisis técnico en la gestión de incidentes digitales | Héctor Soriano | [Read More](https://medium.com/p/dba9f06e5d72) |
 | Sat, 28 Feb 2026 21:44:04 GMT | The AI Observability Crisis No One Is Talking About | George William Amalan | [Read More](https://medium.com/p/f7531156acbd) |
 | Sat, 28 Feb 2026 21:43:48 GMT | From Fake Chrome to Shikata Shellcode: Rebuilding a Multi-Stage Infection Step by Step | Dhico satria | [Read More](https://medium.com/p/cc7486bbb298) |
 | Sat, 28 Feb 2026 21:39:48 GMT | Rancher Default Roles — The Hidden Path to Cluster Takeover | Sadi Zane | [Read More](https://medium.com/p/60b5d0632d8c) |
@@ -104,11 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Feb 2026 14:45:15 GMT | Solving a Bugforge Challenge — Exploiting Role Tampering in Shady Oaks Financial | Pranaya Shrestha | [Read More](https://medium.com/p/8533e2515f4b) |
 | Sat, 28 Feb 2026 14:41:45 GMT | Day 10 — Dumping Passwords With UNION (SQL Injection Escalates) | Issan | [Read More](https://medium.com/p/0ba7e11a8eb8) |
 | Sat, 28 Feb 2026 14:41:00 GMT | Protect Your Kids Online: Essential Kids Protection Tips | Paul Meyer | [Read More](https://medium.com/p/7e47c8c453ae) |
-| Sat, 28 Feb 2026 14:36:53 GMT | Unpacking Smartcomply’s & TechCabal’s AI & the Cyber Frontier 2026 Report: Kenya’s & East Africa’s… | Moses Mwemezi Kemibaro | [Read More](https://medium.com/p/e8f2035dc4f5) |
-| Sat, 28 Feb 2026 14:36:11 GMT | SOC and Defense Strategies | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/aaf376eb21a5) |
-| Sat, 28 Feb 2026 14:35:56 GMT | How to Create a FortiGate IPS Filter Profile | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/01dc76124cea) |
-| Sat, 28 Feb 2026 14:33:57 GMT | Dissecting BlackSnake Ransomware: Reverse Engineering a .NET Malware | Sharat Nautiyal | [Read More](https://medium.com/p/87f73a4c87ac) |
-| Sat, 28 Feb 2026 14:33:54 GMT | DVWA: Command Injection Vulnerability (Low Security) | Kamal S | [Read More](https://medium.com/p/073f99105889) |
-| Sat, 28 Feb 2026 14:32:47 GMT | TryHackMe FREE CTF Walkthrough- Love at First Breach 2026: Valenfind | Hibullahi AbdulAzeez | [Read More](https://medium.com/p/b5d3766b7dad) |
-| Sat, 28 Feb 2026 14:31:40 GMT | Ottergram writeup (BAC) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/a46c997a1068) |
-| Sat, 28 Feb 2026 14:25:10 GMT | YouTube to MP3 Conversion Explained: Safety, Quality & Legal Risks | Hamzazafar | [Read More](https://medium.com/p/e44753956e1e) |
