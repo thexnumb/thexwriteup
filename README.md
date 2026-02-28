@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 10:21:13 GMT | The Threat of Cyber Attacks against Indonesia 2026 | MITRE Doggy | [Read More](https://medium.com/p/1b8983fdb819) |
+| Sat, 28 Feb 2026 10:12:49 GMT | Stored Cross-Site Scripting (XSS) in Reservation Management — SourceCodester Resort Reservation… | Ravi Pipalwa | [Read More](https://medium.com/p/894ee77d7312) |
+| Sat, 28 Feb 2026 10:06:05 GMT | How to Protect Workers from Artificial intelligence [AI] | AYOADE Ibrahim | [Read More](https://medium.com/p/c3ae6b27014e) |
+| Sat, 28 Feb 2026 10:05:11 GMT | Why the Mac Mini Became the Surprise Weapon Against AI Subscriptions | Tarun Singh | [Read More](https://medium.com/p/1797f3a55196) |
+| Sat, 28 Feb 2026 10:04:08 GMT | Diagnosing Battery Failures on Windows: A Practical Example of Troubleshooting | Declan | [Read More](https://medium.com/p/25f3648ef6e9) |
+| Sat, 28 Feb 2026 09:58:46 GMT | Shady Oaks Financial writeup (BFLA) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/d48f002446ba) |
+| Sat, 28 Feb 2026 09:57:33 GMT | Handling Leaked Secrets and Credentials in Version Control Repositories | Gaurang Malvankar | [Read More](https://medium.com/p/e11149b8a8b9) |
+| Sat, 28 Feb 2026 09:54:39 GMT | The Human Layer of OT Cybersecurity: Fatigue, Shortcuts, and Informal Practices in Industrial… | Asad Naeem | [Read More](https://medium.com/p/76185565acf1) |
+| Sat, 28 Feb 2026 09:51:38 GMT | picoCTF Writeup — Event-Viewing | Arfan (p4n) | [Read More](https://medium.com/p/933a15af4698) |
 | Sat, 28 Feb 2026 09:45:55 GMT | Strong Passwords vs Weak Passwords: The Small Habit That Prevents Big Breaches | Rela Lumbini | [Read More](https://medium.com/p/68077e973d4d) |
 | Sat, 28 Feb 2026 09:44:33 GMT | Cloning a Bank UI Won’t Hack It! Here’s Why. | Rishabh Srivastava | [Read More](https://medium.com/p/16db9fa82b8a) |
 | Sat, 28 Feb 2026 09:41:01 GMT | Certified Ethical Hacking | Gigadexterity | [Read More](https://medium.com/p/3cf77ba10ad0) |
@@ -104,12 +113,3 @@ Inside a Python Keylogger Built for Awareness!? | AizaKhurram | [Read More](http
 | Sat, 28 Feb 2026 02:41:50 GMT | ️ Unearthing the Truth in DC-1 - From Drupalgeddon to Root ️ | Nicholas Mullenski | [Read More](https://medium.com/p/8cb0f626ebee) |
 | Sat, 28 Feb 2026 02:41:48 GMT | Ensuring Windows Security | Aj | [Read More](https://medium.com/p/31af7e1c7fe3) |
 | Sat, 28 Feb 2026 02:41:44 GMT | A List of Every Cybersecurity Abbreviation There Is (Part 6) | Raymond Ebonine | [Read More](https://medium.com/p/ba67540c1585) |
-| Sat, 28 Feb 2026 02:41:27 GMT | AI-Powered Bug Hunting: 20 Tools to Dominate Your Next Recon | MainEkHacker | [Read More](https://medium.com/p/8ee3501bd5ef) |
-| Sat, 28 Feb 2026 02:41:22 GMT | How I completed eJPTv2 in 6 hours ?Tips and Tricks (2026) | ARoy | [Read More](https://medium.com/p/5a70eb1f8be1) |
-| Sat, 28 Feb 2026 02:40:39 GMT | Phone Numbers Hide DARK SECRETS. This Chrome Hack Exposes Them Instantly! | cybrNK | [Read More](https://medium.com/p/5ee686255208) |
-| Sat, 28 Feb 2026 02:40:20 GMT | Top 10 Skills Every Ethical Hacker Must Master | Shahzaib | [Read More](https://medium.com/p/f660b27ad525) |
-| Sat, 28 Feb 2026 02:38:27 GMT | Top PCI Resources for Small Businesses | Emory French | [Read More](https://medium.com/p/d267aca5cacf) |
-| Sat, 28 Feb 2026 01:35:41 GMT | The Weight of Feeling Like a Failure: Am I Losing a Race I Never Asked to Run? | The Silent Journaler | [Read More](https://medium.com/p/58eefecafd31) |
-| Sat, 28 Feb 2026 01:26:00 GMT | How I Built a Bank-Grade Emulator Detector to Stop Hackers Dead — Part 2 | Harrison Kuria | [Read More](https://medium.com/p/a9d45eb9ec49) |
-| Sat, 28 Feb 2026 00:56:38 GMT | We Thought It Was Just a Slow Computer… — Until the Ransomware Note Appeared | WEBULITY | [Read More](https://medium.com/p/18f01b3a5ada) |
-| Sat, 28 Feb 2026 00:49:13 GMT | Your Government Can’t Prove It Sent You That Email | Markus Sandelin | [Read More](https://medium.com/p/e15ef719929a) |
