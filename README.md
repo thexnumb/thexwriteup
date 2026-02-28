@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 07:33:34 GMT | The EU just launched the ICT Supply Chain Security Toolbox to standardize vendor risk assessments | Denny Roger | [Read More](https://medium.com/p/3a2c20eda237) |
+| Sat, 28 Feb 2026 07:28:16 GMT | The Truth About “Secure By Default” Frameworks | Mwenda Kelvin | [Read More](https://medium.com/p/bfbfdfdf1266) |
+| Sat, 28 Feb 2026 07:26:11 GMT | How Someone Almost Hacked Every Linux Server on the Planet | Bhargav | [Read More](https://medium.com/p/3037d6e53f1b) |
+| Sat, 28 Feb 2026 07:21:05 GMT | Google Told Developers Their API Keys Were Not Secrets. Then Gemini Arrived. | Soumyadipta Birabar | [Read More](https://medium.com/p/dc65731cc824) |
+| Sat, 28 Feb 2026 07:20:54 GMT | Security Best Practices: Protecting Your Application | Yakhilesh | [Read More](https://medium.com/p/f23f32f03847) |
+| Sat, 28 Feb 2026 07:20:48 GMT | How Compliant is Microsoft Security Copilot? | Yash Mudaliar | [Read More](https://medium.com/p/8cb50247b7e5) |
 | Sat, 28 Feb 2026 07:15:50 GMT | No, Microsoft Isn’t Spying on You. But Here’s What’s Really Happening | Arshad | [Read More](https://medium.com/p/5338dfeac17e) |
 | Sat, 28 Feb 2026 07:09:38 GMT | Microsoft Enhances Windows 11 with New Batch File Security and Performance Upgrades | Rakibul Hasan Sagor | [Read More](https://medium.com/p/7c5a426d4b93) |
 | Sat, 28 Feb 2026 07:07:03 GMT | SSL Certificates Explained: A Deep Dive into Encryption, Attacks, and How HTTPS Secures the Web | Jack Pritom Soren | [Read More](https://medium.com/p/4a16366766ce) |
@@ -107,9 +113,3 @@ Inside a Python Keylogger Built for Awareness!? | AizaKhurram | [Read More](http
 | Fri, 27 Feb 2026 21:44:12 GMT | Find An Interesting Account Take-Over Vulnerability. | Md Nawshad Ahmmed | [Read More](https://medium.com/p/dd0d0353e71d) |
 | Fri, 27 Feb 2026 21:38:31 GMT | From Hunted to Hunter: Tony Capo Turns the Tables on Scammers, Delivering Justice to Fraud Victims | Admin | [Read More](https://medium.com/p/8106019ac213) |
 | Fri, 27 Feb 2026 21:38:03 GMT | The Day Admin Access Became an Organisation Takeover | Kaivalya Gurav | [Read More](https://medium.com/p/0ee5d34677e5) |
-| Fri, 27 Feb 2026 21:33:12 GMT | IMPORTANCE OF DUAL BOOTING | Favour Mulungi | [Read More](https://medium.com/p/f659f40129ac) |
-| Fri, 27 Feb 2026 21:28:10 GMT | Command Injection Nedir? DVWA Üzerinde Komut Çalıştırma Senaryosu | Melih Yılmaz | [Read More](https://medium.com/p/f46c629c637f) |
-| Fri, 27 Feb 2026 21:27:19 GMT | Kali Linux and Network Security: From Command Lines to Post-Quantum Cryptography | Samet Erkalp | [Read More](https://medium.com/p/c0e3c3022cbf) |
-| Fri, 27 Feb 2026 21:19:17 GMT | Building Wintermute: From Reactive Chatbot to Autonomous Intelligence | Jyrki Huhta | [Read More](https://medium.com/p/57741e8fbd96) |
-| Fri, 27 Feb 2026 21:18:57 GMT | Cloud Is Not Neutral: Data Protection Risk in the UAE Market | BiyteLüm | [Read More](https://medium.com/p/18c1314dfa13) |
-| Fri, 27 Feb 2026 21:18:03 GMT | Why the Human Brain Is So Easy to Hack | Ammar Abubaker | [Read More](https://medium.com/p/8c033411e90d) |
