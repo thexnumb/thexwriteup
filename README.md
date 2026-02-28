@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 23:36:27 GMT | HackTheBox Blocky Writeup: From Source Code Credentials to Root | Onurcan Genç | [Read More](https://medium.com/p/90a703f552a6) |
+| Sat, 28 Feb 2026 23:35:39 GMT | Global Cyberwarfare Threat 2026: Defending Your Cloud Infrastructure During the Middle East… | Tent Of Tech | [Read More](https://medium.com/p/7adb1fd563b6) |
+| Sat, 28 Feb 2026 23:30:36 GMT | Cyber Security Offense and Defense Home Lab — Part 1 | Mahim Avi | [Read More](https://medium.com/p/8de597a3078a) |
+| Sat, 28 Feb 2026 23:28:39 GMT | Digital Decapitation: U.S.–Israeli Cyber-Kinetic Integration Against the Iranian State | David SEHYEON Baek | [Read More](https://medium.com/p/2deb31cc5ad0) |
+| Sat, 28 Feb 2026 23:20:28 GMT | Cookie Tossing Attack PoC: | Bazil Brohi | [Read More](https://medium.com/p/c287ab36be0b) |
 | Sat, 28 Feb 2026 23:11:00 GMT | Artificial Intelligence (AI) | Cyber Explain | [Read More](https://medium.com/p/acfd723c04b8) |
 | Sat, 28 Feb 2026 23:07:51 GMT | The Lesson Policing Taught Me About Cybersecurity
 Working in law enforcement taught me something… | IBE KINGSLEY | [Read More](https://medium.com/p/87172a818d30) |
@@ -108,8 +113,3 @@ Working in law enforcement taught me something… | IBE KINGSLEY | [Read More](h
 | Sat, 28 Feb 2026 15:07:13 GMT | Ready to Level Up Your Cybersecurity Career ? | Malik Rashid Ahmad | [Read More](https://medium.com/p/acc1a7fc6bf9) |
 | Sat, 28 Feb 2026 15:01:03 GMT | Anthropic Posted a Blog. IBM Shed $31 Billion. Then Cybersecurity Dropped Another $15 Billion. | Zoom In AI | [Read More](https://medium.com/p/e1c25ad09f91) |
 | Sat, 28 Feb 2026 15:01:00 GMT | The-Ultimate-Nuclei-Guide For Hackers In 2026:- | MainEkHacker | [Read More](https://medium.com/p/603d6aa2ad4d) |
-| Sat, 28 Feb 2026 15:01:00 GMT | Los pagos por ransomware decaen a su punto más bajo en su historia aunque aumentan los ataques | Tiziano Mass | [Read More](https://medium.com/p/368331b7fd6f) |
-| Sat, 28 Feb 2026 15:00:10 GMT | How I Exploited an Exposed Redis Server on HTB’s Redeemer Machine | Omar Abdelmetaal | [Read More](https://medium.com/p/4fec0cad26b4) |
-| Sat, 28 Feb 2026 14:45:15 GMT | Solving a Bugforge Challenge — Exploiting Role Tampering in Shady Oaks Financial | Pranaya Shrestha | [Read More](https://medium.com/p/8533e2515f4b) |
-| Sat, 28 Feb 2026 14:41:45 GMT | Day 10 — Dumping Passwords With UNION (SQL Injection Escalates) | Issan | [Read More](https://medium.com/p/0ba7e11a8eb8) |
-| Sat, 28 Feb 2026 14:41:00 GMT | Protect Your Kids Online: Essential Kids Protection Tips | Paul Meyer | [Read More](https://medium.com/p/7e47c8c453ae) |
