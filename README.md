@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 10:38:17 GMT | Incident Response and Digital Forensics in Cybersecurity | Kunal Arora | [Read More](https://medium.com/p/3376f4d5f6a2) |
+| Sat, 28 Feb 2026 10:36:27 GMT | Active Directory Security Series — Part 2 | servet demirci | [Read More](https://medium.com/p/887f9338f381) |
+| Sat, 28 Feb 2026 10:30:02 GMT | NoSQL Injection Gone Wild: Logging into Any User, Stealing Garba Tickets, and ₹1 Purchases on a… | Raj Ukani | [Read More](https://medium.com/p/417cb9cbd00a) |
+| Sat, 28 Feb 2026 10:27:12 GMT | WebStrike — Blue Team CTF CyberDefenders | Rozid | [Read More](https://medium.com/p/3bbbf59daf89) |
+| Sat, 28 Feb 2026 10:25:39 GMT | Ph4nt0m 1ntrud3r — PicoCTF | Yrddry | [Read More](https://medium.com/p/863d563a242b) |
+| Sat, 28 Feb 2026 10:25:05 GMT | 888new 2026: Phân Tích Hệ Sinh Thái Tài Chính Và Bảo Mật | Weien | [Read More](https://medium.com/p/91281037560b) |
+| Sat, 28 Feb 2026 10:23:33 GMT | SQL Injection Vulnerability in Appointment Check-In Endpoint — Patient Queue Management System… | Ravi Pipalwa | [Read More](https://medium.com/p/cb6d32c08382) |
+| Sat, 28 Feb 2026 10:22:46 GMT | Breaking Authentication — Part 4 | ghostyjoe | [Read More](https://medium.com/p/d04234553433) |
+| Sat, 28 Feb 2026 10:22:36 GMT | Become a Cybersecurity Expert with Firewall-Zone Institute of IT — Hyderabad | Firewall Zone Institute of IT | [Read More](https://medium.com/p/d67dba20322d) |
 | Sat, 28 Feb 2026 10:21:13 GMT | The Threat of Cyber Attacks against Indonesia 2026 | MITRE Doggy | [Read More](https://medium.com/p/1b8983fdb819) |
 | Sat, 28 Feb 2026 10:12:49 GMT | Stored Cross-Site Scripting (XSS) in Reservation Management — SourceCodester Resort Reservation… | Ravi Pipalwa | [Read More](https://medium.com/p/894ee77d7312) |
 | Sat, 28 Feb 2026 10:06:05 GMT | How to Protect Workers from Artificial intelligence [AI] | AYOADE Ibrahim | [Read More](https://medium.com/p/c3ae6b27014e) |
@@ -104,12 +113,3 @@ Inside a Python Keylogger Built for Awareness!? | AizaKhurram | [Read More](http
 | Sat, 28 Feb 2026 03:44:57 GMT | Meera Sharma's Tuesday morning was already off to a chaotic start. | Ponjitdowarah | [Read More](https://medium.com/p/173c93484893) |
 | Sat, 28 Feb 2026 03:39:16 GMT | Lab: DOM XSS in document.write sink using source location.search inside a select element | mayhack | [Read More](https://medium.com/p/0b8c90e82e08) |
 | Sat, 28 Feb 2026 03:31:00 GMT | The “Private Network” Wall: Why You Need a Self-Hosted Azure DevOps Agent | Vivek Patel | [Read More](https://medium.com/p/ae1209a8baa4) |
-| Sat, 28 Feb 2026 03:19:49 GMT | We are like a box of paint | iLan Azoulai | [Read More](https://medium.com/p/786287608849) |
-| Sat, 28 Feb 2026 02:48:51 GMT | What is OS command injection? | BinaryShield | [Read More](https://medium.com/p/c4a0a17f9292) |
-| Sat, 28 Feb 2026 02:48:14 GMT | What are JWT vulnerabilities? | BinaryShield | [Read More](https://medium.com/p/a2e0f5834948) |
-| Sat, 28 Feb 2026 02:42:09 GMT | 13 Dark Web OSINT Tools You’ll Wish You Knew About Sooner | cybrNK | [Read More](https://medium.com/p/2b1740ad9d21) |
-| Sat, 28 Feb 2026 02:42:08 GMT | Free GRC Platforms That Simulate a Real GRC Program | MandaPandaJoe | [Read More](https://medium.com/p/bca5653c8fe7) |
-| Sat, 28 Feb 2026 02:42:06 GMT | What is Tokenization and How Can I Use it for PCI DSS Compliance? | Emory French | [Read More](https://medium.com/p/660913a4208d) |
-| Sat, 28 Feb 2026 02:41:50 GMT | ️ Unearthing the Truth in DC-1 - From Drupalgeddon to Root ️ | Nicholas Mullenski | [Read More](https://medium.com/p/8cb0f626ebee) |
-| Sat, 28 Feb 2026 02:41:48 GMT | Ensuring Windows Security | Aj | [Read More](https://medium.com/p/31af7e1c7fe3) |
-| Sat, 28 Feb 2026 02:41:44 GMT | A List of Every Cybersecurity Abbreviation There Is (Part 6) | Raymond Ebonine | [Read More](https://medium.com/p/ba67540c1585) |
