@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 28 Feb 2026 05:00:19 GMT | TryHackMe Pre Security (SEC0) Exam Review | Rich | [Read More](https://medium.com/p/761040035a83) |
+| Sat, 28 Feb 2026 04:56:24 GMT | Dataverse Security: The Day I Stopped Clicking the Big Green Circle | Sajeda Sultana | [Read More](https://medium.com/p/5f71c4515f0f) |
+| Sat, 28 Feb 2026 04:40:38 GMT | AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf] | Aman Shekhar | [Read More](https://medium.com/p/732525335314) |
+| Sat, 28 Feb 2026 04:18:07 GMT | Internet of Things 02 — I/O | Kenneth Moses Saragih | [Read More](https://medium.com/p/728fd095a318) |
+| Sat, 28 Feb 2026 04:17:00 GMT | Creating Entra Agent ID Blueprints and Identities with PowerShell and .NET | Will Velida | [Read More](https://medium.com/p/fba03825e74c) |
 | Sat, 28 Feb 2026 03:44:57 GMT | Meera Sharma's Tuesday morning was already off to a chaotic start. | Ponjitdowarah | [Read More](https://medium.com/p/173c93484893) |
 | Sat, 28 Feb 2026 03:39:16 GMT | Lab: DOM XSS in document.write sink using source location.search inside a select element | mayhack | [Read More](https://medium.com/p/0b8c90e82e08) |
 | Sat, 28 Feb 2026 03:31:00 GMT | The “Private Network” Wall: Why You Need a Self-Hosted Azure DevOps Agent | Vivek Patel | [Read More](https://medium.com/p/ae1209a8baa4) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 27 Feb 2026 18:35:06 GMT | Cyber Safety Guide for Bangladesh — Awareness Handbook for Students and Internet Users | Sheikh Samir Ali Affan | [Read More](https://medium.com/p/04182e163edd) |
 | Fri, 27 Feb 2026 18:31:07 GMT | Bug Bounty in 2026: Look for these Bugs! | Jeosantos | [Read More](https://medium.com/p/254a837e9662) |
 | Fri, 27 Feb 2026 18:28:06 GMT | Digital Rights in the Modern Era: Why Policy Matters More Than Ever | Garv Chauhan | [Read More](https://medium.com/p/9039d4f167ce) |
-| Fri, 27 Feb 2026 18:19:07 GMT | Wizer #61 Write Up | Jeff Maley | [Read More](https://medium.com/p/33db87440cf5) |
-| Fri, 27 Feb 2026 18:17:37 GMT | TryHackMe -Room Team Writeup | giorgi gochitidze | [Read More](https://medium.com/p/d25e0d10edb3) |
-| Fri, 27 Feb 2026 18:16:21 GMT | Safety by Ignorance vs Safety by Understanding: What the Claude–DoD Debate Is Really About | Saad Ahmad | [Read More](https://medium.com/p/9a11c7ba955d) |
-| Fri, 27 Feb 2026 18:12:18 GMT | CSP and CORS in Modern Web Applications | Avinash theppala | [Read More](https://medium.com/p/28edad2e4d6d) |
-| Fri, 27 Feb 2026 18:10:31 GMT | Introducing Me | Taylynn Bozarth | [Read More](https://medium.com/p/463c3f072468) |
