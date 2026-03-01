@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Mar 2026 16:25:53 GMT | 【威脅情資】濫用 Windows 檔案總管與 WebDAV 攻擊手法分析與防禦策略 | segalee | [Read More](https://medium.com/p/d8c5a1d34a53) |
+| Sun, 01 Mar 2026 16:19:15 GMT | Why I’m Starting My Robotics Journey as an IT Engineering Student | roshan | [Read More](https://medium.com/p/35bfb09b5fd7) |
+| Sun, 01 Mar 2026 16:15:58 GMT | From RBAC to Risk-Based AI Control: Why “Human-in-the-Loop” Isn’t a Security Strategy | Marton Schneider | [Read More](https://medium.com/p/d28c6a43b01b) |
+| Sun, 01 Mar 2026 16:13:27 GMT | From Troubleshooting Devices to Thinking About Security | Rinu_MJ | [Read More](https://medium.com/p/5875e6ebd6b0) |
+| Sun, 01 Mar 2026 16:11:02 GMT | The Silent Force That Is Changing Our Lives Every Second | Keshavajax | [Read More](https://medium.com/p/e99eb03011dc) |
+| Sun, 01 Mar 2026 16:08:55 GMT | Inside a Full Internal Penetration Test: How Four Critical Vulnerabilities Led to Complete Root… | Oluwatobi Adeyemi | [Read More](https://medium.com/p/5f308f4c1ebb) |
+| Sun, 01 Mar 2026 16:08:23 GMT | The Invisible Kill Chain: Detecting Non-Human Identity Attacks Across Telemetry Boundaries | Koifsec | [Read More](https://medium.com/p/90ffa0f1578a) |
+| Sun, 01 Mar 2026 16:07:13 GMT | The App Apple Wants You to Delete | Anil Kumar Bakkashetti | [Read More](https://medium.com/p/a3d8a8706855) |
+| Sun, 01 Mar 2026 16:06:41 GMT | Secure Session Management in Spring Boot — Let’s Talk About It | Neha Pal | [Read More](https://medium.com/p/c971c5ee6ace) |
+| Sun, 01 Mar 2026 16:03:37 GMT | How to not accidentally shoot yourself in the foot with AI development | Patrick Collins | [Read More](https://medium.com/p/b5f529ca7823) |
+| Sun, 01 Mar 2026 15:56:45 GMT | AI Safety is No Longer Optional: Why 'SafeAIY' is the New Standard for Enterprise Branding | M Ibrahimhossainn | [Read More](https://medium.com/p/7b73db7651b5) |
+| Sun, 01 Mar 2026 15:46:31 GMT | Sherlock Holmes: The Case Of AI Brought Down Our Servers | programmerraja | [Read More](https://medium.com/p/e3d748912f96) |
+| Sun, 01 Mar 2026 15:42:18 GMT | AI Will Revolutionize Cybersecurity — Here’s Why | Lily C | [Read More](https://medium.com/p/a42fc7e1335a) |
+| Sun, 01 Mar 2026 15:41:05 GMT | Shop PicoCTF Reverse Engineering | Aun Raza | [Read More](https://medium.com/p/74585f341c07) |
 | Sun, 01 Mar 2026 15:27:51 GMT | The Anatomy of Cyber Attacks: The Cyber Kill Chain in 7 Stages | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/7274d45fc09f) |
 | Sun, 01 Mar 2026 15:27:46 GMT | What is the MITRE ATT&CK Framework? | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/4136a212800d) |
 | Sun, 01 Mar 2026 15:27:25 GMT | HackTheBox CTF: Memory Forensics | Santoshisamal | [Read More](https://medium.com/p/aa9fc032adf6) |
@@ -66,6 +80,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Mar 2026 11:46:59 GMT | The Mindset Of A Young Programmer — Gaurav Pandey | Gaurav Pandey | [Read More](https://medium.com/p/41b560b650c8) |
 | Sun, 01 Mar 2026 11:40:21 GMT | Building a Multi-Endpoint SOC Home Lab using Wazuh SIEM | R.Santhoshkumar | [Read More](https://medium.com/p/5270cf6d9440) |
 | Sun, 01 Mar 2026 11:35:51 GMT | You Will Always Fall in Love, and It Will Always Be Like Having Your Throat Cut. | Ernest Husk. | [Read More](https://medium.com/p/282f1f49b8e7) |
+| Sun, 01 Mar 2026 11:23:36 GMT | Day 8–9 of PortSwigger Academy Lab Walkthrough: Insecure deserialization, Information disclosure… | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/9d1cf801059e) |
 | Sun, 01 Mar 2026 11:15:00 GMT | The Keychain Paradox: Why Your Expired “Plastic” is a 2026 Social Engineering Seed | Tapan Kumar Saikia | [Read More](https://medium.com/p/73d3be6e32a7) |
 | Sun, 01 Mar 2026 11:14:08 GMT | A Backdoor You Can Talk To: Persistence via Bedrock AgentCore | Adan | [Read More](https://medium.com/p/0db60320e737) |
 | Sun, 01 Mar 2026 11:13:57 GMT | The Firewall of the Heart: Why High Achievers Need a ‘Zero-Trust’ Policy | Cyber Soul Systems | [Read More](https://medium.com/p/35a80cb1678f) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Mar 2026 09:25:31 GMT | Try Hack Me- Hidden Deep Into My Heart Walkthrough | PulseEinher | [Read More](https://medium.com/p/e7e87e7080af) |
 | Sun, 01 Mar 2026 09:19:30 GMT | Deteriorating Global Security in Trump’s Era: Implications for Global Peace | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/510409bc0b13) |
 | Sun, 01 Mar 2026 09:01:00 GMT | What Fresh Stealer Logs Reveal That Old Breaches Can’t | Alexandre Vandamme | [Read More](https://medium.com/p/7ac7d59f7690) |
-| Sun, 01 Mar 2026 08:59:21 GMT | Rainbow Table Saldırısı Nedir? Şifreler Nasıl Önceden Hesaplanabilir? | Ali Yaşe | [Read More](https://medium.com/p/ad99ee14718e) |
-| Sun, 01 Mar 2026 08:53:55 GMT | An Information Security Job | Tooth Truth Roopa Vikesh | [Read More](https://medium.com/p/e09dd9d5b730) |
-| Sun, 01 Mar 2026 08:53:43 GMT | US-Israel Attack on Iran for Regime Change: Consequences for Regional Peace and Stability | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/2e1f95b88759) |
-| Sun, 01 Mar 2026 08:52:18 GMT | Brute Force Saldırısı Nedir? Gerçekten Şifreleri Kırabilir mi? | Ali Yaşe | [Read More](https://medium.com/p/55188fe00e4e) |
-| Sun, 01 Mar 2026 08:30:32 GMT | CVE-2026–23842 — My First CVE: Exploiting Connection Pool Exhaustion in a Popular Python Chatbot | Aditya Bhatt | [Read More](https://medium.com/p/1be9a736c697) |
-| Sun, 01 Mar 2026 08:16:00 GMT | Elastic Stack: The Basics — TryHackMe Walkthrough | Owais Ali Khan | [Read More](https://medium.com/p/e267ac275033) |
-| Sun, 01 Mar 2026 08:07:28 GMT | The OTP I Didn’t Ask For And the Design Lesson Hidden Inside It | Harshit K | [Read More](https://medium.com/p/09c869564df7) |
-| Sun, 01 Mar 2026 08:04:30 GMT | In 2026, the “Golden Hour” of a crime scene isn’t just about physical tape and fingerprints. | Paras Jangra | [Read More](https://medium.com/p/92162b55d191) |
-| Sun, 01 Mar 2026 08:02:05 GMT | Window Service Exploitation | Kuldip sarvaiya | [Read More](https://medium.com/p/f57cf4bd27b7) |
-| Sun, 01 Mar 2026 08:01:47 GMT | ClawJacked: How Malicious Websites Could Hijack Local OpenClaw AI Agents via WebSocket | Germano Costi | [Read More](https://medium.com/p/156ad6b6a59c) |
-| Sun, 01 Mar 2026 08:01:01 GMT | Stop Memory Leaks Without Killing Personalization | Praxen | [Read More](https://medium.com/p/4535a2f1fe4b) |
-| Sun, 01 Mar 2026 08:01:01 GMT | I Was Fourteen, and I Wanted to Disappear | Łukasz Ratajczak | [Read More](https://medium.com/p/937e101e6ba5) |
-| Sun, 01 Mar 2026 07:58:59 GMT | Overhead Garage Door Sensor: A Small Upgrade That Makes Your Home Safer | Criminology Expert | [Read More](https://medium.com/p/43ab50388dd0) |
-| Sun, 01 Mar 2026 07:58:42 GMT | Differential Privacy — Stochastic Gradient Descent in Deep Learning: Implementing DP-SGD on… | Aditya Bhatt | [Read More](https://medium.com/p/658e52fe9121) |
-| Sun, 01 Mar 2026 07:48:48 GMT | What Is Cybersecurity? A Simple Guide to Understanding Digital Security Today | Antonyrajvedamanickam | [Read More](https://medium.com/p/be8da3cb7f85) |
