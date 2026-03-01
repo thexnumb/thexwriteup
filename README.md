@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Mar 2026 13:31:09 GMT | My First XSS Vulnerability. The Day I Started My Bug Bounty Journey | Muhammad Uzair Khan | [Read More](https://medium.com/p/07e13ef7b465) |
+| Sun, 01 Mar 2026 13:24:45 GMT | Replay Attack | Vishnu Shivalal P | [Read More](https://medium.com/p/a1ca219c4328) |
+| Sun, 01 Mar 2026 13:23:13 GMT | Beyond Cracking the 4-Way Handshake: How I Used hcxdumptool, Hashcat, and OSINT to Compromise a… | Atindra Girish | [Read More](https://medium.com/p/62a968cb0611) |
+| Sun, 01 Mar 2026 13:09:06 GMT | Maritime Cybersecurity Risk in the Strait of Hormuz | Julius | [Read More](https://medium.com/p/858a7d10bcf9) |
+| Sun, 01 Mar 2026 13:08:30 GMT | From Broken JWT Authentication to Production-Grade Security | Ashutosh Hacks | [Read More](https://medium.com/p/5745d4fab4e0) |
+| Sun, 01 Mar 2026 13:03:19 GMT | What If Your Attack Surface Isn’t the Problem — Your Understanding of It Is? | Sidhartha Nair | [Read More](https://medium.com/p/415e82a6063b) |
+| Sun, 01 Mar 2026 13:01:01 GMT | What I’ve been reading (, watching, and listening to) this week ending 1 March 2026 | Jason Yip | [Read More](https://medium.com/p/07be1022d9b2) |
+| Sun, 01 Mar 2026 13:00:22 GMT | Why Every Web 3 Startup Needs Smart Contract Security Audit Services Before Launch | Web5 Nexus | [Read More](https://medium.com/p/142bdd95239c) |
+| Sun, 01 Mar 2026 12:59:05 GMT | Paste With Caution: How a Fake Claude Code Installer Drops a Fileless Implant via Deserialization | Maurice Fielenbach | [Read More](https://medium.com/p/a85068955c0a) |
+| Sun, 01 Mar 2026 12:39:51 GMT | Securing LLM and Agentic Systems: Architecture, Threat Models, and Defensive Controls (2026) | Mjgmario | [Read More](https://medium.com/p/72711c5a0184) |
 | Sun, 01 Mar 2026 12:35:45 GMT | What 20 Years in Critical Infrastructure Taught Me About Digital Risk | Dr. Anil Tiwari | [Read More](https://medium.com/p/bae142faa360) |
 | Sun, 01 Mar 2026 12:34:20 GMT | OSI vs TCP/IP — Ağların Gerçek Anatomisi | HSD Gümüşhane | [Read More](https://medium.com/p/0d199bdf95af) |
 | Sun, 01 Mar 2026 12:28:37 GMT | I Thought CORS Was a Server Feature… Until I Finally Understood It | @asiri_manjitha | [Read More](https://medium.com/p/ae30836eb5ad) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Mar 2026 04:44:26 GMT | The AI IP Pipeline: Every Session Is a Confession | Thomas Perry | [Read More](https://medium.com/p/71abd97dc756) |
 | Sun, 01 Mar 2026 04:44:15 GMT | Phishy Lab-Cyberdefenders | Areeya B. | [Read More](https://medium.com/p/f8cfd1d34a6e) |
 | Sun, 01 Mar 2026 04:39:59 GMT | CyberDefenders — WebStrike Lab Write-Up | Annisa Eka Putri | [Read More](https://medium.com/p/4bd6126dca2f) |
-| Sun, 01 Mar 2026 04:29:51 GMT | When Men’s Pain Becomes Entertainment | Lori A. A. | [Read More](https://medium.com/p/5524e4da346f) |
-| Sun, 01 Mar 2026 04:25:03 GMT | Best ISO 27001 Audits in 2026 | Digital Duffer | [Read More](https://medium.com/p/c6fb1010d464) |
-| Sun, 01 Mar 2026 04:21:19 GMT | Brutus :Investigating Brute Force Attacks in Linux Logs | Abdullah Fatih  Al Huda | [Read More](https://medium.com/p/5146a18cd264) |
-| Sun, 01 Mar 2026 04:17:05 GMT | TryHackMe | Ravi Modhvadiya | [Read More](https://medium.com/p/1d3954083589) |
-| Sun, 01 Mar 2026 04:12:02 GMT | The Google Antigravity Deletion Deficit | Gracie ‘Potter’ Daniel (GhG) | [Read More](https://medium.com/p/9c6368501977) |
-| Sun, 01 Mar 2026 04:02:49 GMT | How Hackers Actually Break Into Accounts | TechTales | [Read More](https://medium.com/p/2f74bd6cccd6) |
-| Sun, 01 Mar 2026 04:01:00 GMT | “Hard Work Never Betrays Anyone” is the Biggest Lie We Tell Ourselves. | Pachpicha Pansuk | [Read More](https://medium.com/p/9e4b69dc3991) |
-| Sun, 01 Mar 2026 03:49:03 GMT | The Crossroads Ahead: AI, Time, and the Last Shared Language | Chier Hu | [Read More](https://medium.com/p/c213726c7b27) |
-| Sun, 01 Mar 2026 03:41:00 GMT | How to Protect Your Child’s Digital Footprint From Birth to College | Screen Less Play More | [Read More](https://medium.com/p/8d08a6faeb91) |
-| Sun, 01 Mar 2026 03:39:06 GMT | Ignorance by Design: Saat Ketidaktahuan Menjadi Bagian dari Rencana Institusi | yasismee | [Read More](https://medium.com/p/83413813220a) |
