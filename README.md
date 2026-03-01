@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Mar 2026 10:11:55 GMT | Dijital Vatanda Tam Hakimiyet: Hibrit Savaş Çağında Milli Teknoloji ve Siber Güvenlik Zorunluluğu | Mustafa YILMAZ | [Read More](https://medium.com/p/bb8fb38223b5) |
+| Sun, 01 Mar 2026 10:08:24 GMT | The AI Agent With 200K GitHub Stars That Security Researchers Are Losing Sleep Over — OPENCLAW | Ajay Kotnala | [Read More](https://medium.com/p/99d0e51e805f) |
+| Sun, 01 Mar 2026 10:03:56 GMT | picoCTF Ph4nt0m 1ntrud3r & Event-Viewing Write Up | Elsandro Rivalito | [Read More](https://medium.com/p/27fb52cdec64) |
+| Sun, 01 Mar 2026 10:01:00 GMT | Entry-Level Cybersecurity Roles: A Beginner’s Global Guide | Victoria Coker | [Read More](https://medium.com/p/aed205873412) |
+| Sun, 01 Mar 2026 09:58:51 GMT | TryHackMe — Blog Writeup | giorgi gochitidze | [Read More](https://medium.com/p/32eddd6a3558) |
+| Sun, 01 Mar 2026 09:57:30 GMT | Cisco Cybersecurity Module 1 (Part 4): Cyber Attackers and Types of Threats | Favour Ugochi Ogbonnaya | [Read More](https://medium.com/p/44b54cfe7bd2) |
+| Sun, 01 Mar 2026 09:48:32 GMT | Identifying Real-World Website Security Misconfigurations: A Practical Bug Hunter’s Guide | Shivam Kumar | [Read More](https://medium.com/p/d89ce96ee44e) |
+| Sun, 01 Mar 2026 09:44:53 GMT | When Citizens Die and the State Speaks in Metaphors: Woro and Nigeria’s Crisis of Governance | Abduljalil Hassan Muhammad | [Read More](https://medium.com/p/6a2de06450af) |
+| Sun, 01 Mar 2026 09:39:34 GMT | Quantum AI Part 2: The Master Key that Breaks Every Lock | Digital Jasoosi Kavach ️ | [Read More](https://medium.com/p/8d601472e5a1) |
+| Sun, 01 Mar 2026 09:35:26 GMT | Write Up Wargame OverTheWire Bandit Level 0–10 | Yoga Asqa Nurhafiz | [Read More](https://medium.com/p/c6f7e738c9bb) |
 | Sun, 01 Mar 2026 09:31:00 GMT | Your Remote Workers Just Handed Hackers a Skeleton Key - And You Probably Don’t Know It | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/e50aa1b1b49a) |
 | Sun, 01 Mar 2026 09:30:57 GMT | Building a Free IP Reputation Enrichment Tool Using Python and Excel | Ashwanth saran JC | [Read More](https://medium.com/p/28a4f800740a) |
 | Sun, 01 Mar 2026 09:25:31 GMT | Try Hack Me- Hidden Deep Into My Heart Walkthrough | PulseEinher | [Read More](https://medium.com/p/e7e87e7080af) |
@@ -102,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Feb 2026 23:28:39 GMT | Digital Decapitation: U.S.–Israeli Cyber-Kinetic Integration Against the Iranian State | David SEHYEON Baek | [Read More](https://medium.com/p/2deb31cc5ad0) |
 | Sat, 28 Feb 2026 23:20:28 GMT | Cookie Tossing Attack PoC: | Bazil Brohi | [Read More](https://medium.com/p/c287ab36be0b) |
 | Sat, 28 Feb 2026 23:18:09 GMT | Are containers really isolated ? (Part 1) | Alhousseini Mohamed Sori | [Read More](https://medium.com/p/4103079e70f8) |
-| Sat, 28 Feb 2026 23:11:00 GMT | Artificial Intelligence (AI) | Cyber Explain | [Read More](https://medium.com/p/acfd723c04b8) |
-| Sat, 28 Feb 2026 23:07:51 GMT | The Lesson Policing Taught Me About Cybersecurity
-Working in law enforcement taught me something… | IBE KINGSLEY | [Read More](https://medium.com/p/87172a818d30) |
-| Sat, 28 Feb 2026 23:06:48 GMT | Hijacking an admin account through a “support access” feature | OopsSec Store | [Read More](https://medium.com/p/d2af293229a9) |
-| Sat, 28 Feb 2026 23:06:40 GMT | Insufficient Input Validation Attack Lab: A Hands-On Journey Through File Upload Bypass Techniques | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/9ede65deea8e) |
-| Sat, 28 Feb 2026 23:05:51 GMT | Safety vs Speed: The Fight That Will Shape Enterprise AI in 2026 | Dave Patten | [Read More](https://medium.com/p/aad97d4103c5) |
-| Sat, 28 Feb 2026 22:51:22 GMT | The Quiet Automation of Medical Authority: How AI Is Redefining Who Doctors Listen To | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/70c785aa1e61) |
-| Sat, 28 Feb 2026 22:46:11 GMT | Enforcing Post-Quantum Cryptography in Kubernetes: Building Sentinel-PQC | Prudhvichanda | [Read More](https://medium.com/p/27cf2a04f8ee) |
-| Sat, 28 Feb 2026 22:33:36 GMT | The Trends That Will Actually Matter in the Next Decade | The KPI Strikes Back | [Read More](https://medium.com/p/3e6f9851e036) |
-| Sat, 28 Feb 2026 22:25:17 GMT | Phishing Email and Suspicious URL investigation — A Documentation. | Joelovie | [Read More](https://medium.com/p/a3008b1bf954) |
-| Sat, 28 Feb 2026 22:24:50 GMT | Day 15: Let’s get back to enumeration (HTB Nmap room) pt.1 | Cybersecurity with Jojo | [Read More](https://medium.com/p/34e89dc7906d) |
