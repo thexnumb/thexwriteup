@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Mar 2026 10:39:15 GMT | Stay sharp—cybercriminals are moving fast in 2026, using tools like Agentic AI and deepfakes to… | prabhas K | [Read More](https://medium.com/p/5d8e7180d520) |
+| Sun, 01 Mar 2026 10:36:39 GMT | Entra ID support for Azure Bastion | Brian Veldman | [Read More](https://medium.com/p/32b2bb16b8d6) |
+| Sun, 01 Mar 2026 10:33:37 GMT | Active Directory Security Series — Part 3 | servet demirci | [Read More](https://medium.com/p/30a3c6e4310d) |
+| Sun, 01 Mar 2026 10:27:54 GMT | PicoCTF: 3v@l | Abhinav | [Read More](https://medium.com/p/d469906ce58e) |
 | Sun, 01 Mar 2026 10:11:55 GMT | Dijital Vatanda Tam Hakimiyet: Hibrit Savaş Çağında Milli Teknoloji ve Siber Güvenlik Zorunluluğu | Mustafa YILMAZ | [Read More](https://medium.com/p/bb8fb38223b5) |
 | Sun, 01 Mar 2026 10:08:24 GMT | The AI Agent With 200K GitHub Stars That Security Researchers Are Losing Sleep Over — OPENCLAW | Ajay Kotnala | [Read More](https://medium.com/p/99d0e51e805f) |
 | Sun, 01 Mar 2026 10:03:56 GMT | picoCTF Ph4nt0m 1ntrud3r & Event-Viewing Write Up | Elsandro Rivalito | [Read More](https://medium.com/p/27fb52cdec64) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 28 Feb 2026 23:52:41 GMT | Bir Yönlendiricinin Sırrını Çalmak: TP-Link Firmware’ini Tersine Mühendislikle Analiz Etmek | Alirizagocer | [Read More](https://medium.com/p/a1981945974b) |
 | Sat, 28 Feb 2026 23:36:27 GMT | HackTheBox Blocky Writeup: From Source Code Credentials to Root | Onurcan Genç | [Read More](https://medium.com/p/90a703f552a6) |
 | Sat, 28 Feb 2026 23:35:39 GMT | Global Cyberwarfare Threat 2026: Defending Your Cloud Infrastructure During the Middle East… | Tent Of Tech | [Read More](https://medium.com/p/7adb1fd563b6) |
-| Sat, 28 Feb 2026 23:30:36 GMT | Cyber Security Offense and Defense Home Lab — Part 1 | Mahim Avi | [Read More](https://medium.com/p/8de597a3078a) |
-| Sat, 28 Feb 2026 23:28:39 GMT | Digital Decapitation: U.S.–Israeli Cyber-Kinetic Integration Against the Iranian State | David SEHYEON Baek | [Read More](https://medium.com/p/2deb31cc5ad0) |
-| Sat, 28 Feb 2026 23:20:28 GMT | Cookie Tossing Attack PoC: | Bazil Brohi | [Read More](https://medium.com/p/c287ab36be0b) |
-| Sat, 28 Feb 2026 23:18:09 GMT | Are containers really isolated ? (Part 1) | Alhousseini Mohamed Sori | [Read More](https://medium.com/p/4103079e70f8) |
