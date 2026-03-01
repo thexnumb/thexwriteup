@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Mar 2026 22:04:37 GMT | Arbitrary Process Termination via Vulnerable Driver: BYOVD | S12 - 0x12Dark Development | [Read More](https://medium.com/p/7451cd059a66) |
+| Sun, 01 Mar 2026 21:54:02 GMT | Enhancing Threat Detection and Incident Response with Big Data Analytics | Pasha | [Read More](https://medium.com/p/d22c56270390) |
+| Sun, 01 Mar 2026 21:52:31 GMT | C2 Servers Are Dead; Long Live the New C2 Servers | Yasin Gurgen | [Read More](https://medium.com/p/11dcda05a8d8) |
+| Sun, 01 Mar 2026 21:51:00 GMT | The Transparency Trap | Gabriel Mahia | [Read More](https://medium.com/p/96f931d44923) |
+| Sun, 01 Mar 2026 21:50:37 GMT | From Learning APIs to Protecting Systems: My API Security Journey | Joyatee Datta | [Read More](https://medium.com/p/671d0f263284) |
+| Sun, 01 Mar 2026 21:49:24 GMT | You Have to Design for Copilot Agent Mode and it’s Risks | number40 | [Read More](https://medium.com/p/b3fcc63b2b48) |
 | Sun, 01 Mar 2026 21:39:43 GMT | How I Cracked Linux Chrome’s Password Encryption | Lembou pharel | [Read More](https://medium.com/p/497053843064) |
 | Sun, 01 Mar 2026 21:29:13 GMT | I’m Sick Of AI, and Other Cybersecurity Stories | Helen Patton | [Read More](https://medium.com/p/0cf723cf60d8) |
 | Sun, 01 Mar 2026 21:19:27 GMT | The Inevitable Evolution of the Software Engineer: From Writing Code to Orchestrating Systems | Carlos Anaya Ruiz | [Read More](https://medium.com/p/08d6487bdc63) |
@@ -108,9 +114,3 @@ I want to be upfront about something… | Travis Stein | [Read More](https://med
 | Sun, 01 Mar 2026 15:13:07 GMT | F5 BIG-IP PROMO CODES @ UDEMY LATEST NEW | DeepDive4learn | [Read More](https://medium.com/p/6ce5140478cf) |
 | Sun, 01 Mar 2026 15:04:46 GMT | PCI-DSS Explained: Why the Global Payment Standard is the Ultimate Cybersecurity Blueprint | Shanker Goud | [Read More](https://medium.com/p/2cc2adab793c) |
 | Sun, 01 Mar 2026 15:03:27 GMT | CVE-2025–27636 Walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/1766fbbc19c3) |
-| Sun, 01 Mar 2026 15:02:13 GMT | Event-Viewing — PicoCTF | Yrddry | [Read More](https://medium.com/p/f377e3126b04) |
-| Sun, 01 Mar 2026 15:01:59 GMT | Damn Vulnerable DeFi — Challenge 5: The Rewarder | 32bitsToby | [Read More](https://medium.com/p/0467e4dfdd1d) |
-| Sun, 01 Mar 2026 14:51:54 GMT | The Irony of a Content Writer who Struggles to Write | Swapna Joshi Talwelkar | [Read More](https://medium.com/p/e268ca04de96) |
-| Sun, 01 Mar 2026 14:49:44 GMT | Day 17: Linux Internals for SOC | Siddhesh Patil | [Read More](https://medium.com/p/6d9edbdb67cc) |
-| Sun, 01 Mar 2026 14:41:44 GMT | NymVPN ২০২৫–২০২৬: ইন্টারনেট সেন্সরশিপের বিরুদ্ধে নতুন এক লড়াই | Rabib Bin Nur | [Read More](https://medium.com/p/44f88230f971) |
-| Sun, 01 Mar 2026 14:41:09 GMT | Complete Guide to Hashing in Java: Types, Algorithms & Examples.. | Shubham Vartak | [Read More](https://medium.com/p/d5174d272e32) |
