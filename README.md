@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Mar 2026 21:39:43 GMT | How I Cracked Linux Chrome’s Password Encryption | Lembou pharel | [Read More](https://medium.com/p/497053843064) |
+| Sun, 01 Mar 2026 21:29:13 GMT | I’m Sick Of AI, and Other Cybersecurity Stories | Helen Patton | [Read More](https://medium.com/p/0cf723cf60d8) |
 | Sun, 01 Mar 2026 21:19:27 GMT | The Inevitable Evolution of the Software Engineer: From Writing Code to Orchestrating Systems | Carlos Anaya Ruiz | [Read More](https://medium.com/p/08d6487bdc63) |
 | Sun, 01 Mar 2026 21:16:28 GMT | I set up my resume on the deep web as a cyber threat intelligence project | Gabriel Pires | [Read More](https://medium.com/p/4cd98f03f894) |
 | Sun, 01 Mar 2026 21:09:28 GMT | Try Hack Me- Sustah CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/355786f36d13) |
@@ -112,5 +114,3 @@ I want to be upfront about something… | Travis Stein | [Read More](https://med
 | Sun, 01 Mar 2026 14:49:44 GMT | Day 17: Linux Internals for SOC | Siddhesh Patil | [Read More](https://medium.com/p/6d9edbdb67cc) |
 | Sun, 01 Mar 2026 14:41:44 GMT | NymVPN ২০২৫–২০২৬: ইন্টারনেট সেন্সরশিপের বিরুদ্ধে নতুন এক লড়াই | Rabib Bin Nur | [Read More](https://medium.com/p/44f88230f971) |
 | Sun, 01 Mar 2026 14:41:09 GMT | Complete Guide to Hashing in Java: Types, Algorithms & Examples.. | Shubham Vartak | [Read More](https://medium.com/p/d5174d272e32) |
-| Sun, 01 Mar 2026 14:41:00 GMT | Job Scams Are Taking Over: How a Fake CVS Recruiter Installed Malware on My PC | Brandon Brasson | [Read More](https://medium.com/p/852bc31929c1) |
-| Sun, 01 Mar 2026 14:32:05 GMT | TryHackMe Writeup: Whiterose | Berkay AĞGÜL | [Read More](https://medium.com/p/8cda3396a58d) |
