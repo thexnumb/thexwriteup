@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Mar 2026 21:19:27 GMT | The Inevitable Evolution of the Software Engineer: From Writing Code to Orchestrating Systems | Carlos Anaya Ruiz | [Read More](https://medium.com/p/08d6487bdc63) |
+| Sun, 01 Mar 2026 21:16:28 GMT | I set up my resume on the deep web as a cyber threat intelligence project | Gabriel Pires | [Read More](https://medium.com/p/4cd98f03f894) |
+| Sun, 01 Mar 2026 21:09:28 GMT | Try Hack Me- Sustah CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/355786f36d13) |
+| Sun, 01 Mar 2026 21:05:13 GMT | From Help Desk to Security Engineer: The Honest Version
+I want to be upfront about something… | Travis Stein | [Read More](https://medium.com/p/39641ef00139) |
+| Sun, 01 Mar 2026 20:59:16 GMT | Siber Tehdit İstihbaratı Nedir ve Neden Önemlidir? | Eray Atalay | [Read More](https://medium.com/p/ec7be41e2608) |
 | Sun, 01 Mar 2026 20:52:03 GMT | The Trust Token Factory | Dr Shaun Conway | [Read More](https://medium.com/p/df691458e9e7) |
 | Sun, 01 Mar 2026 20:51:38 GMT | Best Free VPN for PC in 2026: Stay Safe Online Without the Subscription | GAMER MONE | [Read More](https://medium.com/p/e21c67217093) |
 | Sun, 01 Mar 2026 20:51:29 GMT | The Anatomy of an Insecure Web App: Lessons from a Penetration Test | Joseph Oxan | [Read More](https://medium.com/p/7560b4e2a8b6) |
@@ -108,8 +114,3 @@ I want to be upfront about something… | Travis Stein | [Read More](https://med
 | Sun, 01 Mar 2026 14:41:09 GMT | Complete Guide to Hashing in Java: Types, Algorithms & Examples.. | Shubham Vartak | [Read More](https://medium.com/p/d5174d272e32) |
 | Sun, 01 Mar 2026 14:41:00 GMT | Job Scams Are Taking Over: How a Fake CVS Recruiter Installed Malware on My PC | Brandon Brasson | [Read More](https://medium.com/p/852bc31929c1) |
 | Sun, 01 Mar 2026 14:32:05 GMT | TryHackMe Writeup: Whiterose | Berkay AĞGÜL | [Read More](https://medium.com/p/8cda3396a58d) |
-| Sun, 01 Mar 2026 14:29:20 GMT | Burp Suite: The Basics — TryHackMe Pentesting Tools | Tayyeb Nadeem Somro | [Read More](https://medium.com/p/d6dd775e9841) |
-| Sun, 01 Mar 2026 14:24:40 GMT | What Is Predictive Cyber Threat Detection? A Simple Guide for Beginners | The SecOps Lead | [Read More](https://medium.com/p/99cf8303410e) |
-| Sun, 01 Mar 2026 14:20:56 GMT | Valenfind— CTF Writeup | PaulR | [Read More](https://medium.com/p/053b92a9f304) |
-| Sun, 01 Mar 2026 14:16:17 GMT | Part 1: From Spreadsheet Chaos to Cyber Resilience: Automating Vulnerability Tracking with… | Maxim Patancev | [Read More](https://medium.com/p/30632cc9a900) |
-| Sun, 01 Mar 2026 14:14:20 GMT | API Security Monitoring like a Boss | Israel Aráoz Severiche | [Read More](https://medium.com/p/1f1a0def79a7) |
