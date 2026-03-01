@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Mar 2026 19:36:21 GMT | How Multi-Property Hotels Should Manage DNR Lists | Innstrata | [Read More](https://medium.com/p/180c676367fd) |
+| Sun, 01 Mar 2026 19:34:21 GMT | The Butchers Of Jahi In A Billion-Dollar Lie | O. J. Okpabi | [Read More](https://medium.com/p/08cd8a96ba28) |
+| Sun, 01 Mar 2026 19:29:56 GMT | Exposed Google Cloud API Keys Are Getting a Gateway to Gemini and Sensitive Data | Hacker's Den | [Read More](https://medium.com/p/075e088985de) |
 | Sun, 01 Mar 2026 19:15:01 GMT | Beginner-Friendly Cybersecurity Writeups & CTF Guides | xFr0ggy | [Read More](https://medium.com/p/afccc5ae2f25) |
 | Sun, 01 Mar 2026 19:12:44 GMT | When AI Becomes an Attack Surface for Medical Decision Manipulation | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/d49833d0ac00) |
 | Sun, 01 Mar 2026 19:07:11 GMT | TryHackMe Walkthrough: Cyber Security 101 — Start Your Cyber Security Journey | Shubham Khirwadkar | [Read More](https://medium.com/p/27c79af7b9c8) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Mar 2026 13:01:01 GMT | What I’ve been reading (, watching, and listening to) this week ending 1 March 2026 | Jason Yip | [Read More](https://medium.com/p/07be1022d9b2) |
 | Sun, 01 Mar 2026 13:00:22 GMT | Why Every Web 3 Startup Needs Smart Contract Security Audit Services Before Launch | Web5 Nexus | [Read More](https://medium.com/p/142bdd95239c) |
 | Sun, 01 Mar 2026 12:59:05 GMT | Paste With Caution: How a Fake Claude Code Installer Drops a Fileless Implant via Deserialization | Maurice Fielenbach | [Read More](https://medium.com/p/a85068955c0a) |
-| Sun, 01 Mar 2026 12:39:51 GMT | Securing LLM and Agentic Systems: Architecture, Threat Models, and Defensive Controls (2026) | Mjgmario | [Read More](https://medium.com/p/72711c5a0184) |
-| Sun, 01 Mar 2026 12:35:45 GMT | What 20 Years in Critical Infrastructure Taught Me About Digital Risk | Dr. Anil Tiwari | [Read More](https://medium.com/p/bae142faa360) |
-| Sun, 01 Mar 2026 12:34:20 GMT | OSI vs TCP/IP — Ağların Gerçek Anatomisi | HSD Gümüşhane | [Read More](https://medium.com/p/0d199bdf95af) |
