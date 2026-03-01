@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Mar 2026 08:30:32 GMT | CVE-2026–23842 — My First CVE: Exploiting Connection Pool Exhaustion in a Popular Python Chatbot | Aditya Bhatt | [Read More](https://medium.com/p/1be9a736c697) |
+| Sun, 01 Mar 2026 08:16:00 GMT | Elastic Stack: The Basics — TryHackMe Walkthrough | Owais Ali Khan | [Read More](https://medium.com/p/e267ac275033) |
+| Sun, 01 Mar 2026 08:07:28 GMT | The OTP I Didn’t Ask For And the Design Lesson Hidden Inside It | Harshit K | [Read More](https://medium.com/p/09c869564df7) |
+| Sun, 01 Mar 2026 08:04:30 GMT | In 2026, the “Golden Hour” of a crime scene isn’t just about physical tape and fingerprints. | Paras Jangra | [Read More](https://medium.com/p/92162b55d191) |
+| Sun, 01 Mar 2026 08:02:05 GMT | Window Service Exploitation | Kuldip sarvaiya | [Read More](https://medium.com/p/f57cf4bd27b7) |
+| Sun, 01 Mar 2026 08:01:47 GMT | ClawJacked: How Malicious Websites Could Hijack Local OpenClaw AI Agents via WebSocket | Germano Costi | [Read More](https://medium.com/p/156ad6b6a59c) |
+| Sun, 01 Mar 2026 08:01:01 GMT | Stop Memory Leaks Without Killing Personalization | Praxen | [Read More](https://medium.com/p/4535a2f1fe4b) |
+| Sun, 01 Mar 2026 08:01:01 GMT | I Was Fourteen, and I Wanted to Disappear | Łukasz Ratajczak | [Read More](https://medium.com/p/937e101e6ba5) |
+| Sun, 01 Mar 2026 07:58:59 GMT | Overhead Garage Door Sensor: A Small Upgrade That Makes Your Home Safer | Criminology Expert | [Read More](https://medium.com/p/43ab50388dd0) |
+| Sun, 01 Mar 2026 07:58:42 GMT | Differential Privacy — Stochastic Gradient Descent in Deep Learning: Implementing DP-SGD on… | Aditya Bhatt | [Read More](https://medium.com/p/658e52fe9121) |
+| Sun, 01 Mar 2026 07:48:48 GMT | What Is Cybersecurity? A Simple Guide to Understanding Digital Security Today | Antonyrajvedamanickam | [Read More](https://medium.com/p/be8da3cb7f85) |
+| Sun, 01 Mar 2026 07:47:08 GMT | Starting Over in Cybersecurity, One Vulnerability at a Time | Groovin' | [Read More](https://medium.com/p/aa4ae12823df) |
+| Sun, 01 Mar 2026 07:35:30 GMT | Shopify Account Takeover via Email Verification Bypass - Bug Bounty PoC $22,500 | NullSecurityX | [Read More](https://medium.com/p/2088b7d539d4) |
 | Sun, 01 Mar 2026 07:30:37 GMT | Stored xss exposed cookies via .svg in [ cisco] = P3 Bug → P1 bug | Sai Jayanth | [Read More](https://medium.com/p/d2f6c67265af) |
 | Sun, 01 Mar 2026 07:01:00 GMT | 7. Git Triggers and CI/CD Pipelines in Real Projects | Mangesh Muley | [Read More](https://medium.com/p/b6b1e56afdb4) |
 | Sun, 01 Mar 2026 06:43:59 GMT | Building a Home SOC Lab: Practical Cybersecurity Experience | Rıza Korkusuz | [Read More](https://medium.com/p/cc433a754cec) |
@@ -100,16 +113,3 @@ Working in law enforcement taught me something… | IBE KINGSLEY | [Read More](h
 | Sat, 28 Feb 2026 21:34:45 GMT | How I Saved $1 Million by Moving Load Balancing Off F5 - One Cluster at a Time | Pooja Chandolu | [Read More](https://medium.com/p/cdba2709bb70) |
 | Sat, 28 Feb 2026 21:30:28 GMT | I Tracked My Digital Footprint for 30 Days. Here’s What I Found and Why It Should Worry You | The SecOps Lead | [Read More](https://medium.com/p/9746cd106c09) |
 | Sat, 28 Feb 2026 21:12:01 GMT | Cámaras de Acero Inoxidable: Minería y Seguridad | GGroup & Co. | [Read More](https://medium.com/p/187442939e1b) |
-| Sat, 28 Feb 2026 21:11:37 GMT | I Shouldn’t Be Sharing This: The 2026 Google Dork Bible That Still Finds Leaks Big Tech Hides | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/7484e655e686) |
-| Sat, 28 Feb 2026 21:08:37 GMT | Understanding Ahmia Dark Web Search and How It Indexes Onion Sites | Tor BBB | [Read More](https://medium.com/p/23ead466637c) |
-| Sat, 28 Feb 2026 21:05:07 GMT | Your Phone Has Built-In Photo Protection. Most People Don’t Use It. | Mark Russo | [Read More](https://medium.com/p/dab73266a5e5) |
-| Sat, 28 Feb 2026 20:53:35 GMT | Linux Privilege Escalation For Beginners That You Need to Know | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/23bc8ccaa319) |
-| Sat, 28 Feb 2026 20:51:00 GMT | Does Your App Reveal Its Server Header? You Might Be Helping Attackers | SmartScanner | [Read More](https://medium.com/p/f9643614208c) |
-| Sat, 28 Feb 2026 20:47:10 GMT | I Scanned 5 Random OpenClaw Skills. 3 Came Back Critical | Syed Abbas T. | [Read More](https://medium.com/p/54f8449b71a1) |
-| Sat, 28 Feb 2026 20:30:16 GMT | Israel’s Historic Cyberattacks Against the Islamic Republic: Consequences, Outcomes, and the Long… | CCD-IS | [Read More](https://medium.com/p/b8979d605848) |
-| Sat, 28 Feb 2026 20:25:32 GMT | My Cyber Defenses: From Log4Shell to RDP | Nitin Sharma | [Read More](https://medium.com/p/8036353fb55e) |
-| Sat, 28 Feb 2026 20:20:02 GMT | I Installed OpenClaw on a 12-Year-Old MacBook. Here’s What Everyone Gets Wrong About Security. | Syed Abbas T. | [Read More](https://medium.com/p/3f843ff25fc3) |
-| Sat, 28 Feb 2026 20:15:24 GMT | BluePrint (THM) Write-up Only Answer | Lawvye | [Read More](https://medium.com/p/c7a13ec66924) |
-| Sat, 28 Feb 2026 20:12:13 GMT | Top Cybersecurity Companies in Bangladesh (2026): Why the Market Is Rapidly Maturing | Sam Walker | [Read More](https://medium.com/p/cb3ff31049da) |
-| Sat, 28 Feb 2026 20:11:32 GMT | The Art of the Deal in the Age of AI: How OpenAI Won the Pentagon and What It Means for the Future… | CCD-IS | [Read More](https://medium.com/p/7b12626b9517) |
-| Sat, 28 Feb 2026 20:04:52 GMT | Flutter Secrets: Why SharedPreferences Will Betray You and How flutter_secure_storage Saves the Day | Harsh Kumar Khatri | [Read More](https://medium.com/p/78e42af2bfe9) |
