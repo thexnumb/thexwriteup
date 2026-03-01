@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Mar 2026 20:52:03 GMT | The Trust Token Factory | Dr Shaun Conway | [Read More](https://medium.com/p/df691458e9e7) |
+| Sun, 01 Mar 2026 20:51:38 GMT | Best Free VPN for PC in 2026: Stay Safe Online Without the Subscription | GAMER MONE | [Read More](https://medium.com/p/e21c67217093) |
+| Sun, 01 Mar 2026 20:51:29 GMT | The Anatomy of an Insecure Web App: Lessons from a Penetration Test | Joseph Oxan | [Read More](https://medium.com/p/7560b4e2a8b6) |
+| Sun, 01 Mar 2026 20:51:00 GMT | Breaking Into IT — The Real Truth | SlingshotIntoIT | [Read More](https://medium.com/p/19753d9c470f) |
+| Sun, 01 Mar 2026 20:40:43 GMT | Can Moments Dissolve the Salt Between Us? | Author Black Phoenix | [Read More](https://medium.com/p/69b6d57f4500) |
+| Sun, 01 Mar 2026 20:37:14 GMT | My Week 3 Takeaways from “Begin Ethical Hacking with Python” by Sanjib Sinha(Part III) | Kalkidan | [Read More](https://medium.com/p/8f2f9a807314) |
+| Sun, 01 Mar 2026 20:36:40 GMT | mTLS and TLS Explained: The Mental Model Nobody Gave You | Arslan Ahmed Arif | [Read More](https://medium.com/p/d6b259989cbe) |
 | Sun, 01 Mar 2026 20:21:46 GMT | Learning how real attacks start with misconfigurations, not exploits | Yağız Kırnapcı | [Read More](https://medium.com/p/39b20ef68439) |
 | Sun, 01 Mar 2026 20:19:23 GMT | From Drupal RCE to Root: DC-1 Walkthrough (Vulnhub) | Satyamsatyarthi | [Read More](https://medium.com/p/8e4c3abed6b4) |
 | Sun, 01 Mar 2026 20:13:19 GMT | ZICO 2: 1 — OSCP Raw - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/b889ebef5a15) |
@@ -106,10 +113,3 @@ I want to be upfront about something… | Travis Stein | [Read More](https://med
 | Sun, 01 Mar 2026 14:20:56 GMT | Valenfind— CTF Writeup | PaulR | [Read More](https://medium.com/p/053b92a9f304) |
 | Sun, 01 Mar 2026 14:16:17 GMT | Part 1: From Spreadsheet Chaos to Cyber Resilience: Automating Vulnerability Tracking with… | Maxim Patancev | [Read More](https://medium.com/p/30632cc9a900) |
 | Sun, 01 Mar 2026 14:14:20 GMT | API Security Monitoring like a Boss | Israel Aráoz Severiche | [Read More](https://medium.com/p/1f1a0def79a7) |
-| Sun, 01 Mar 2026 14:04:57 GMT | Application Environment Isolation | Robert Broeckelmann | [Read More](https://medium.com/p/064c7380b1c9) |
-| Sun, 01 Mar 2026 14:03:04 GMT | Internal Transmission — Breathacker Network, Encrypted at Source | Abhinav Jain | [Read More](https://medium.com/p/b3e8f76d6579) |
-| Sun, 01 Mar 2026 14:02:24 GMT | A letter from the Ghosts who type in the dark | Abhinav Jain | [Read More](https://medium.com/p/4ad2ce56a8e6) |
-| Sun, 01 Mar 2026 14:01:00 GMT | The Courage to Be Human | Erik Victor Reed | [Read More](https://medium.com/p/a1e0460116c5) |
-| Sun, 01 Mar 2026 13:53:44 GMT | A comprehensive Guide to the CyberArk Venafi Certificate Management Service | Manish Sharma | [Read More](https://medium.com/p/80807404b894) |
-| Sun, 01 Mar 2026 13:50:01 GMT | Privacy Protection Made Simple - Must-Know Checklist | Pentester Club | [Read More](https://medium.com/p/1b3e9e859c80) |
-| Sun, 01 Mar 2026 13:49:29 GMT | The Universal AI Framework Pinnacle Edition | Ehsan | [Read More](https://medium.com/p/da6dc85c18d7) |
