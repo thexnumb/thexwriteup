@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Mar 2026 04:45:15 GMT | Understanding React2Shell (CVE-2025–55182) | Indigo Shadow | [Read More](https://medium.com/p/d0eda51ee4dd) |
+| Sun, 01 Mar 2026 04:44:26 GMT | The AI IP Pipeline: Every Session Is a Confession | Thomas Perry | [Read More](https://medium.com/p/71abd97dc756) |
+| Sun, 01 Mar 2026 04:44:15 GMT | Phishy Lab-Cyberdefenders | Areeya B. | [Read More](https://medium.com/p/f8cfd1d34a6e) |
+| Sun, 01 Mar 2026 04:39:59 GMT | CyberDefenders — WebStrike Lab Write-Up | Annisa Eka Putri | [Read More](https://medium.com/p/4bd6126dca2f) |
+| Sun, 01 Mar 2026 04:29:51 GMT | When Men’s Pain Becomes Entertainment | Lori A. A. | [Read More](https://medium.com/p/5524e4da346f) |
+| Sun, 01 Mar 2026 04:25:03 GMT | Best ISO 27001 Audits in 2026 | Digital Duffer | [Read More](https://medium.com/p/c6fb1010d464) |
+| Sun, 01 Mar 2026 04:21:19 GMT | Brutus :Investigating Brute Force Attacks in Linux Logs | Abdullah Fatih  Al Huda | [Read More](https://medium.com/p/5146a18cd264) |
+| Sun, 01 Mar 2026 04:17:05 GMT | TryHackMe | Ravi Modhvadiya | [Read More](https://medium.com/p/1d3954083589) |
+| Sun, 01 Mar 2026 04:12:02 GMT | The Google Antigravity Deletion Deficit | Gracie ‘Potter’ Daniel (GhG) | [Read More](https://medium.com/p/9c6368501977) |
+| Sun, 01 Mar 2026 04:02:49 GMT | How Hackers Actually Break Into Accounts | TechTales | [Read More](https://medium.com/p/2f74bd6cccd6) |
+| Sun, 01 Mar 2026 04:01:00 GMT | “Hard Work Never Betrays Anyone” is the Biggest Lie We Tell Ourselves. | Pachpicha Pansuk | [Read More](https://medium.com/p/9e4b69dc3991) |
+| Sun, 01 Mar 2026 03:49:03 GMT | The Crossroads Ahead: AI, Time, and the Last Shared Language | Chier Hu | [Read More](https://medium.com/p/c213726c7b27) |
+| Sun, 01 Mar 2026 03:41:00 GMT | How to Protect Your Child’s Digital Footprint From Birth to College | Screen Less Play More | [Read More](https://medium.com/p/8d08a6faeb91) |
+| Sun, 01 Mar 2026 03:33:02 GMT | 3 Projects to Get You Into IT Security | Eric Smith | [Read More](https://medium.com/p/ef035cbafd2f) |
+| Sun, 01 Mar 2026 03:26:48 GMT | How You Can Increase Your IT Budget and Get Security Buy-In from Your Executive Team | Eric Smith | [Read More](https://medium.com/p/3c1859171d33) |
+| Sun, 01 Mar 2026 03:26:11 GMT | Singing Feels Like Freedom | Steve Longinidis | [Read More](https://medium.com/p/f443577e93c0) |
+| Sun, 01 Mar 2026 03:24:41 GMT | #GirlMom #BoyMom | Esteepryor | [Read More](https://medium.com/p/aa960ee34e19) |
+| Sun, 01 Mar 2026 03:08:55 GMT | Game Zone | LIMZ | [Read More](https://medium.com/p/63b57073a6de) |
+| Sun, 01 Mar 2026 02:50:55 GMT | The Cheaper Information Gets, the Pricier Attention Becomes | Maggie | [Read More](https://medium.com/p/422a5311cc0c) |
+| Sun, 01 Mar 2026 02:37:59 GMT | The M&A Clock Is Ticking on the Agent-Web Transition — and Most Founders Don’t Realize It’s Started | Ivan Ruzic, Ph.D. | [Read More](https://medium.com/p/f53da9661896) |
 | Sun, 01 Mar 2026 02:24:31 GMT | WHY CYBER INSURANCE NEEDS CONTINUOUS RISK MONITORING, NOT ANNUAL ASSESSMENTS | Chetan Ratnawat | [Read More](https://medium.com/p/bec4bd88e6b9) |
 | Sun, 01 Mar 2026 02:13:37 GMT | تحليل سجلات المصادقة في لينكس من منظور محلل SOC | Ahmed Alwedyan | [Read More](https://medium.com/p/6ac6ea93d1b7) |
 | Sun, 01 Mar 2026 01:51:42 GMT | The 764 Network: Tactics, Targeting, And Trust Manipulation | Swati (The Cybergirl) Gupta | [Read More](https://medium.com/p/7df616b5f8d2) |
@@ -24,12 +44,14 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Mar 2026 01:01:01 GMT | Authentication vs Authorization Explained Clearly (With Real-World Examples) | Bhanu sai V | [Read More](https://medium.com/p/13bc779a1547) |
 | Sun, 01 Mar 2026 00:50:29 GMT | You’re gonna lose if you use AI and do not follow these simple rules | Andrii Shyshenko | [Read More](https://medium.com/p/efa0575d7d43) |
 | Sun, 01 Mar 2026 00:46:10 GMT | Hacked Through a Fish Tank: The Uncomfortable Truth About Modern Cybersecurity in 2026 | Talal Abbasi | [Read More](https://medium.com/p/ead27b450111) |
+| Sun, 01 Mar 2026 00:31:58 GMT | The AI Gold Rush Is Breaking Security That Took Decades to Build | Simardeep Singh | [Read More](https://medium.com/p/52767458a5d0) |
 | Sat, 28 Feb 2026 23:52:41 GMT | Bir Yönlendiricinin Sırrını Çalmak: TP-Link Firmware’ini Tersine Mühendislikle Analiz Etmek | Alirizagocer | [Read More](https://medium.com/p/a1981945974b) |
 | Sat, 28 Feb 2026 23:36:27 GMT | HackTheBox Blocky Writeup: From Source Code Credentials to Root | Onurcan Genç | [Read More](https://medium.com/p/90a703f552a6) |
 | Sat, 28 Feb 2026 23:35:39 GMT | Global Cyberwarfare Threat 2026: Defending Your Cloud Infrastructure During the Middle East… | Tent Of Tech | [Read More](https://medium.com/p/7adb1fd563b6) |
 | Sat, 28 Feb 2026 23:30:36 GMT | Cyber Security Offense and Defense Home Lab — Part 1 | Mahim Avi | [Read More](https://medium.com/p/8de597a3078a) |
 | Sat, 28 Feb 2026 23:28:39 GMT | Digital Decapitation: U.S.–Israeli Cyber-Kinetic Integration Against the Iranian State | David SEHYEON Baek | [Read More](https://medium.com/p/2deb31cc5ad0) |
 | Sat, 28 Feb 2026 23:20:28 GMT | Cookie Tossing Attack PoC: | Bazil Brohi | [Read More](https://medium.com/p/c287ab36be0b) |
+| Sat, 28 Feb 2026 23:18:09 GMT | Are containers really isolated ? (Part 1) | Alhousseini Mohamed Sori | [Read More](https://medium.com/p/4103079e70f8) |
 | Sat, 28 Feb 2026 23:11:00 GMT | Artificial Intelligence (AI) | Cyber Explain | [Read More](https://medium.com/p/acfd723c04b8) |
 | Sat, 28 Feb 2026 23:07:51 GMT | The Lesson Policing Taught Me About Cybersecurity
 Working in law enforcement taught me something… | IBE KINGSLEY | [Read More](https://medium.com/p/87172a818d30) |
@@ -91,25 +113,3 @@ Working in law enforcement taught me something… | IBE KINGSLEY | [Read More](h
 | Sat, 28 Feb 2026 17:46:53 GMT | Self-Hosted Infrastructure Using VPS & Cloud Computing | Hack'n'Tea | [Read More](https://medium.com/p/ec88a39437d4) |
 | Sat, 28 Feb 2026 17:43:56 GMT | तू मेरे पास बैठ ना… | Vinsi | [Read More](https://medium.com/p/2462ccb0de56) |
 | Sat, 28 Feb 2026 17:41:38 GMT | CASE FILE #DF-EVTX-01 - CLASSIFIED | kanieloutis | [Read More](https://medium.com/p/a2631b716c25) |
-| Sat, 28 Feb 2026 17:33:19 GMT | The Week I Called It Casual and She Called It Love | Gabriel Lucatero | [Read More](https://medium.com/p/4477fa242235) |
-| Sat, 28 Feb 2026 17:27:37 GMT | The Algorithmic Economy: When Algorithms Make Financial Decisions | Mai Tran | [Read More](https://medium.com/p/f3f54b7e82ec) |
-| Sat, 28 Feb 2026 17:26:27 GMT | 3,100 Cyber Attacks a Week: Why Reactive Security Is Dead | Clara Smith | [Read More](https://medium.com/p/99b0a30f3da0) |
-| Sat, 28 Feb 2026 17:24:15 GMT | CRTP Outside CRTP: Do the Skills Survive in the Wild? | Joshua Goossen | [Read More](https://medium.com/p/1cb7f866919e) |
-| Sat, 28 Feb 2026 17:23:23 GMT | Is Your Gradle Project Sitting on a Dependency Time Bomb? Meet the Gradle Vulnerability Scanner | Rameez Shaikh | [Read More](https://medium.com/p/74c02b9565e4) |
-| Sat, 28 Feb 2026 17:14:22 GMT | The One Sentence That Traps Smart People in Government Impersonation Scams | Natasha Fuller / Founder of  weAFAR Global Justice | [Read More](https://medium.com/p/4dd70286955c) |
-| Sat, 28 Feb 2026 16:54:04 GMT | TryHackMe: Offensive Security Intro Walkthrough | Nadeenmoreb | [Read More](https://medium.com/p/35bca59dd6d1) |
-| Sat, 28 Feb 2026 16:51:39 GMT | ChatGPT as a Covert C2 Channel | Eslam Hussein | [Read More](https://medium.com/p/da9221178ff5) |
-| Sat, 28 Feb 2026 16:50:44 GMT | The Reality of Blockchain in Global Supply Chains | Cynox Security LLP. | [Read More](https://medium.com/p/8cb93c754d3f) |
-| Sat, 28 Feb 2026 16:43:38 GMT | Day 14 : Hacking wordpress HTB skill assessment | Cybersecurity with Jojo | [Read More](https://medium.com/p/06a4a3bf4aad) |
-| Sat, 28 Feb 2026 16:37:45 GMT | The Day the Router Met Nginx: When Mixture of Experts Crashed the Systems Engineering Party | Sagar Pandita | [Read More](https://medium.com/p/333dc3034fec) |
-| Sat, 28 Feb 2026 16:37:41 GMT | Secrets-picoCTF | Vishvambhar ranoshe | [Read More](https://medium.com/p/2ea6fbb5027b) |
-| Sat, 28 Feb 2026 16:35:19 GMT | Extracting Installed Applications (APK) from Android | Ch. Thedorou | [Read More](https://medium.com/p/aef90822d551) |
-| Sat, 28 Feb 2026 16:34:55 GMT | Roboto Sans-picoCTF | Vishvambhar ranoshe | [Read More](https://medium.com/p/e729f5cb365e) |
-| Sat, 28 Feb 2026 16:25:19 GMT | Trust But Verify: Securing RAG with LangChain4J Guardrails | Dennis Lee | [Read More](https://medium.com/p/4373d1d6db75) |
-| Sat, 28 Feb 2026 16:18:57 GMT | New Wave of “gov-*.bond” Domains Registered — Coordinated Phishing Infrastructure? | Natasha Fuller / Founder of  weAFAR Global Justice | [Read More](https://medium.com/p/5b7150db2efc) |
-| Sat, 28 Feb 2026 16:17:50 GMT | Agentic AI in Healthcare: The Secure Deployment Playbook for Autonomous Clinical Systems | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/ed57351ac319) |
-| Sat, 28 Feb 2026 16:17:44 GMT | Tried to Hack an AI-Built App. It Took Me 7 Minutes. | AIThinkerLab | [Read More](https://medium.com/p/da1c648a4462) |
-| Sat, 28 Feb 2026 16:17:04 GMT | The Tap That Broke Greece | O. J. Okpabi | [Read More](https://medium.com/p/35b3174b9f5f) |
-| Sat, 28 Feb 2026 16:13:45 GMT | Prompt Injection Is the New SQL Injection | Tara Prasad Routray | [Read More](https://medium.com/p/5510c32a5d06) |
-| Sat, 28 Feb 2026 16:11:55 GMT | A Critical IDOR Vulnerability That Allowed Deletion & Modification of (Any) User’s Address (Mass… | Mustafa Adam Gamaraldin Abdalla | [Read More](https://medium.com/p/8b79caf49ded) |
-| Sat, 28 Feb 2026 16:08:47 GMT | Erişim Kontrolü Modelleri: Gizlilikten Bütünlüğe Güvenliğin Temelleri | Cagatayonbasioglu | [Read More](https://medium.com/p/0d8ae7f9c4cf) |
