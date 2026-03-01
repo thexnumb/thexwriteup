@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Mar 2026 19:15:01 GMT | Beginner-Friendly Cybersecurity Writeups & CTF Guides | xFr0ggy | [Read More](https://medium.com/p/afccc5ae2f25) |
+| Sun, 01 Mar 2026 19:12:44 GMT | When AI Becomes an Attack Surface for Medical Decision Manipulation | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/d49833d0ac00) |
+| Sun, 01 Mar 2026 19:07:11 GMT | TryHackMe Walkthrough: Cyber Security 101 — Start Your Cyber Security Journey | Shubham Khirwadkar | [Read More](https://medium.com/p/27c79af7b9c8) |
+| Sun, 01 Mar 2026 19:02:27 GMT | 200 OK — A Click Through a Hidden Traffic Ecosystem | Control | [Read More](https://medium.com/p/586ec73a0314) |
+| Sun, 01 Mar 2026 18:58:25 GMT | Data Governance: Because everyone needs something to hold onto. | Pranav Sabnis | [Read More](https://medium.com/p/7c1cc00615ab) |
+| Sun, 01 Mar 2026 18:58:22 GMT | What Is a Firewall? Types, Generations & Real-World Use Cases | Ritikpatel | [Read More](https://medium.com/p/f98a436458b5) |
+| Sun, 01 Mar 2026 18:54:11 GMT | Day 174 — Building a Data Wiping Detection Engine in 24 Hours (ISEA Hackathon) | Jinay | [Read More](https://medium.com/p/8274c231a6ff) |
+| Sun, 01 Mar 2026 18:48:46 GMT | Sophos Central Was Drowning Me in Alerts. So I Built an AI Copilot. | Oluwagbenga Ogungbemi | [Read More](https://medium.com/p/c4f532a61d03) |
+| Sun, 01 Mar 2026 18:40:47 GMT | Cyber Threat Profiles of Iranian Threat Actors & Iranian Cyber Proxies | SIMKRA | [Read More](https://medium.com/p/1a0afe973c8a) |
+| Sun, 01 Mar 2026 18:38:46 GMT | Team dark-4rmy Task 2 | Ahmed Abdelnasser | [Read More](https://medium.com/p/fa904e8d9467) |
 | Sun, 01 Mar 2026 18:26:36 GMT | Trend Micro warns of critical Apex One code execution flaws | SOCFortress | [Read More](https://medium.com/p/dd24b0797887) |
 | Sun, 01 Mar 2026 18:26:06 GMT | One Time Pad (OTP): The Unbreakable Cipher | Mahdi | [Read More](https://medium.com/p/2ff83731d84f) |
 | Sun, 01 Mar 2026 18:25:37 GMT | Mitigating Risk in Mendix Applications | Thijs de Jong | [Read More](https://medium.com/p/7cc177236b5a) |
@@ -48,6 +58,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Mar 2026 16:19:15 GMT | Why I’m Starting My Robotics Journey as an IT Engineering Student | roshan | [Read More](https://medium.com/p/35bfb09b5fd7) |
 | Sun, 01 Mar 2026 16:15:58 GMT | From RBAC to Risk-Based AI Control: Why “Human-in-the-Loop” Isn’t a Security Strategy | Marton Schneider | [Read More](https://medium.com/p/d28c6a43b01b) |
 | Sun, 01 Mar 2026 16:13:27 GMT | From Troubleshooting Devices to Thinking About Security | Rinu_MJ | [Read More](https://medium.com/p/5875e6ebd6b0) |
+| Sun, 01 Mar 2026 16:11:45 GMT | 10 Administrator-to-SYSTEM Privilege Escalation Techniques Every Red Teamer MUST Master | Candy Wong | [Read More](https://medium.com/p/43e4fdb1c871) |
 | Sun, 01 Mar 2026 16:11:02 GMT | The Silent Force That Is Changing Our Lives Every Second | Keshavajax | [Read More](https://medium.com/p/e99eb03011dc) |
 | Sun, 01 Mar 2026 16:08:55 GMT | Inside a Full Internal Penetration Test: How Four Critical Vulnerabilities Led to Complete Root… | Oluwatobi Adeyemi | [Read More](https://medium.com/p/5f308f4c1ebb) |
 | Sun, 01 Mar 2026 16:08:23 GMT | The Invisible Kill Chain: Detecting Non-Human Identity Attacks Across Telemetry Boundaries | Koifsec | [Read More](https://medium.com/p/90ffa0f1578a) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Mar 2026 12:39:51 GMT | Securing LLM and Agentic Systems: Architecture, Threat Models, and Defensive Controls (2026) | Mjgmario | [Read More](https://medium.com/p/72711c5a0184) |
 | Sun, 01 Mar 2026 12:35:45 GMT | What 20 Years in Critical Infrastructure Taught Me About Digital Risk | Dr. Anil Tiwari | [Read More](https://medium.com/p/bae142faa360) |
 | Sun, 01 Mar 2026 12:34:20 GMT | OSI vs TCP/IP — Ağların Gerçek Anatomisi | HSD Gümüşhane | [Read More](https://medium.com/p/0d199bdf95af) |
-| Sun, 01 Mar 2026 12:28:37 GMT | I Thought CORS Was a Server Feature… Until I Finally Understood It | @asiri_manjitha | [Read More](https://medium.com/p/ae30836eb5ad) |
-| Sun, 01 Mar 2026 12:21:53 GMT | Burner Email for Developers: A Practical Tool for Testing & Privacy | Chaitanya Patankar | [Read More](https://medium.com/p/2cda1e5e806d) |
-| Sun, 01 Mar 2026 12:21:50 GMT | Starting a homelab during the privacy apocalypse: A beginner’s guide towards reclaiming your data | D Dinisdimitris | [Read More](https://medium.com/p/bd430c49359e) |
-| Sun, 01 Mar 2026 12:21:25 GMT | Quantum EMotion Acquires SecureKey Platform To Supercharge Cybersecurity Strategy | Jacky Kapadia | [Read More](https://medium.com/p/bd5bf2359845) |
-| Sun, 01 Mar 2026 12:05:32 GMT | From Swagger to Shell: Turning a Misconfigured configUrl into a $400 RXSS Bounty | dr34m14 | [Read More](https://medium.com/p/74375c700a51) |
-| Sun, 01 Mar 2026 11:57:44 GMT | Aldatma Sanatını Anlamak | Hakan ÇEVİK | [Read More](https://medium.com/p/6d60724f4ae3) |
-| Sun, 01 Mar 2026 11:53:23 GMT | Building a Real-Time Cloud Intrusion Detection System with Python and AWS | OLUMAYOWA OYENIYI OYETUNJI | [Read More](https://medium.com/p/345fe233069a) |
-| Sun, 01 Mar 2026 11:51:00 GMT | Three Years of Breaking Into SaaS Products for Money Taught Me Five Things About How Software Gets… | Cyphersilhouette | [Read More](https://medium.com/p/1e8febf39469) |
-| Sun, 01 Mar 2026 11:46:59 GMT | The Mindset Of A Young Programmer — Gaurav Pandey | Gaurav Pandey | [Read More](https://medium.com/p/41b560b650c8) |
-| Sun, 01 Mar 2026 11:40:21 GMT | Building a Multi-Endpoint SOC Home Lab using Wazuh SIEM | R.Santhoshkumar | [Read More](https://medium.com/p/5270cf6d9440) |
-| Sun, 01 Mar 2026 11:35:51 GMT | You Will Always Fall in Love, and It Will Always Be Like Having Your Throat Cut. | Ernest Husk. | [Read More](https://medium.com/p/282f1f49b8e7) |
