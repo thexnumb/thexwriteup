@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Mar 2026 11:15:00 GMT | The Keychain Paradox: Why Your Expired “Plastic” is a 2026 Social Engineering Seed | Tapan Kumar Saikia | [Read More](https://medium.com/p/73d3be6e32a7) |
+| Sun, 01 Mar 2026 11:14:08 GMT | A Backdoor You Can Talk To: Persistence via Bedrock AgentCore | Adan | [Read More](https://medium.com/p/0db60320e737) |
+| Sun, 01 Mar 2026 11:13:57 GMT | The Firewall of the Heart: Why High Achievers Need a ‘Zero-Trust’ Policy | Cyber Soul Systems | [Read More](https://medium.com/p/35a80cb1678f) |
+| Sun, 01 Mar 2026 11:13:32 GMT | PicoCTF — SSTI 1 & 2 | Abhinav | [Read More](https://medium.com/p/a8e389d09567) |
+| Sun, 01 Mar 2026 11:09:42 GMT | AoTR 2: Operation Winter Blackout | Arfan (p4n) | [Read More](https://medium.com/p/bd6c7675ee28) |
+| Sun, 01 Mar 2026 11:07:24 GMT | Verification Code Problem: How to Fix SMS & Email Delays | Talha Tech Reviews | [Read More](https://medium.com/p/bdcee93330bf) |
+| Sun, 01 Mar 2026 11:01:36 GMT | Ghost Mantis — Faculty Upload (Hard Web CTF Challenge -Creator Writeup) | Kaif Tarasgar | [Read More](https://medium.com/p/33999fbe7b77) |
+| Sun, 01 Mar 2026 10:58:19 GMT | H@rDl4u6H — CTF_writeup | wal-z1 | [Read More](https://medium.com/p/5f85dc2a664b) |
+| Sun, 01 Mar 2026 10:55:42 GMT | Part 4 - Beyond the Vault: The Death of Shamir’s and PKI | PhantomKey Technologies | [Read More](https://medium.com/p/4b2b67694fff) |
+| Sun, 01 Mar 2026 10:49:45 GMT | 2026 Cybersecurity Career & Knowledge Handbook - Dice USA | Shanker Goud | [Read More](https://medium.com/p/17624e703dd6) |
+| Sun, 01 Mar 2026 10:48:31 GMT | The Skills Paradox: Why Being “Good” is No Longer Enough (And How to Stop Fighting for Scraps) | Tohbie Adelaja | [Read More](https://medium.com/p/289c3d2e44c7) |
 | Sun, 01 Mar 2026 10:39:15 GMT | Stay sharp—cybercriminals are moving fast in 2026, using tools like Agentic AI and deepfakes to… | prabhas K | [Read More](https://medium.com/p/5d8e7180d520) |
 | Sun, 01 Mar 2026 10:36:39 GMT | Entra ID support for Azure Bastion | Brian Veldman | [Read More](https://medium.com/p/32b2bb16b8d6) |
 | Sun, 01 Mar 2026 10:33:37 GMT | Active Directory Security Series — Part 3 | servet demirci | [Read More](https://medium.com/p/30a3c6e4310d) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Mar 2026 01:51:42 GMT | The 764 Network: Tactics, Targeting, And Trust Manipulation | Swati (The Cybergirl) Gupta | [Read More](https://medium.com/p/7df616b5f8d2) |
 | Sun, 01 Mar 2026 01:38:36 GMT | Goodbye Khamenei (It’s Hard to Die) | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/3eb760f9a523) |
 | Sun, 01 Mar 2026 01:36:06 GMT | MENGENAL BERITA, FEATURE, EDITORIAL, DAN OPINI PADA MEDIA MASSA BESERTA CONTOH ANALISISNYA | Lilis Nur Laela | [Read More](https://medium.com/p/93098eaea7e8) |
-| Sun, 01 Mar 2026 01:20:05 GMT | NETSEC THM- Writeup | Cybernerddd | [Read More](https://medium.com/p/e0ab047e6c93) |
-| Sun, 01 Mar 2026 01:05:44 GMT | AI: To Be or Not to Be — A Privacy Wake-Up Call | Bhavin Yadav | [Read More](https://medium.com/p/7d5cd0499cee) |
-| Sun, 01 Mar 2026 01:03:01 GMT | squ1d g4m3 — CyberTalents Web Challenge (Medium) | MS.Jix | [Read More](https://medium.com/p/dc354fd5a823) |
-| Sun, 01 Mar 2026 01:01:23 GMT | Securing AI Systems with IAM: Your First Line of Defense | Yashasvi Sharma | [Read More](https://medium.com/p/f1c1874226b2) |
-| Sun, 01 Mar 2026 01:01:01 GMT | Authentication vs Authorization Explained Clearly (With Real-World Examples) | Bhanu sai V | [Read More](https://medium.com/p/13bc779a1547) |
-| Sun, 01 Mar 2026 00:50:29 GMT | You’re gonna lose if you use AI and do not follow these simple rules | Andrii Shyshenko | [Read More](https://medium.com/p/efa0575d7d43) |
-| Sun, 01 Mar 2026 00:46:10 GMT | Hacked Through a Fish Tank: The Uncomfortable Truth About Modern Cybersecurity in 2026 | Talal Abbasi | [Read More](https://medium.com/p/ead27b450111) |
-| Sun, 01 Mar 2026 00:31:58 GMT | The AI Gold Rush Is Breaking Security That Took Decades to Build | Simardeep Singh | [Read More](https://medium.com/p/52767458a5d0) |
-| Sat, 28 Feb 2026 23:52:41 GMT | Bir Yönlendiricinin Sırrını Çalmak: TP-Link Firmware’ini Tersine Mühendislikle Analiz Etmek | Alirizagocer | [Read More](https://medium.com/p/a1981945974b) |
-| Sat, 28 Feb 2026 23:36:27 GMT | HackTheBox Blocky Writeup: From Source Code Credentials to Root | Onurcan Genç | [Read More](https://medium.com/p/90a703f552a6) |
-| Sat, 28 Feb 2026 23:35:39 GMT | Global Cyberwarfare Threat 2026: Defending Your Cloud Infrastructure During the Middle East… | Tent Of Tech | [Read More](https://medium.com/p/7adb1fd563b6) |
