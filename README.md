@@ -12,9 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Mar 2026 20:21:46 GMT | Learning how real attacks start with misconfigurations, not exploits | Yağız Kırnapcı | [Read More](https://medium.com/p/39b20ef68439) |
+| Sun, 01 Mar 2026 20:19:23 GMT | From Drupal RCE to Root: DC-1 Walkthrough (Vulnhub) | Satyamsatyarthi | [Read More](https://medium.com/p/8e4c3abed6b4) |
+| Sun, 01 Mar 2026 20:13:19 GMT | ZICO 2: 1 — OSCP Raw - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/b889ebef5a15) |
+| Sun, 01 Mar 2026 20:13:05 GMT | Security Analysis with Mistral Devstral | jon allen | [Read More](https://medium.com/p/4090c4aa688d) |
+| Sun, 01 Mar 2026 19:58:11 GMT | Poster Postgres RDBMS (THM) Tryhackme WriteUp Answer | Lawvye | [Read More](https://medium.com/p/33e203ac69ec) |
+| Sun, 01 Mar 2026 19:57:06 GMT | Zero-Knowledge Is Not a Feature. It’s a Survival Strategy. | Afina Browser | [Read More](https://medium.com/p/e79051d074c0) |
+| Sun, 01 Mar 2026 19:56:09 GMT | Wanna Start Linux Command Line? Here’s the secret! | Soumyadip Manna | [Read More](https://medium.com/p/9c4544a3abda) |
+| Sun, 01 Mar 2026 19:54:13 GMT | The Linux Security Journey — FFS (Forward Secure sealing) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/3225958948a9) |
+| Sun, 01 Mar 2026 19:52:29 GMT | From Help Desk to Security Engineer: The Honest Version
+I want to be upfront about something… | Travis Stein | [Read More](https://medium.com/p/8511c41f584b) |
+| Sun, 01 Mar 2026 19:51:00 GMT | Machines of Loving Grace, The Adolescence of Technology, and the Moment Execution Became the… | Jonathan Capriola | [Read More](https://medium.com/p/7b7c28209c1c) |
+| Sun, 01 Mar 2026 19:40:23 GMT | AI in Cyber Defense Is No Longer Optional — It Is Operationally Necessary | Manjunatha B M | [Read More](https://medium.com/p/a48448a3064e) |
 | Sun, 01 Mar 2026 19:36:21 GMT | How Multi-Property Hotels Should Manage DNR Lists | Innstrata | [Read More](https://medium.com/p/180c676367fd) |
 | Sun, 01 Mar 2026 19:34:21 GMT | The Butchers Of Jahi In A Billion-Dollar Lie | O. J. Okpabi | [Read More](https://medium.com/p/08cd8a96ba28) |
 | Sun, 01 Mar 2026 19:29:56 GMT | Exposed Google Cloud API Keys Are Getting a Gateway to Gemini and Sensitive Data | Hacker's Den | [Read More](https://medium.com/p/075e088985de) |
+| Sun, 01 Mar 2026 19:29:10 GMT | The AlphaGo Moment for NPCs Happened in 2023 and Everyone Laughed | Berend Watchus | [Read More](https://medium.com/p/38f0e1da0d80) |
 | Sun, 01 Mar 2026 19:15:01 GMT | Beginner-Friendly Cybersecurity Writeups & CTF Guides | xFr0ggy | [Read More](https://medium.com/p/afccc5ae2f25) |
 | Sun, 01 Mar 2026 19:12:44 GMT | When AI Becomes an Attack Surface for Medical Decision Manipulation | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/d49833d0ac00) |
 | Sun, 01 Mar 2026 19:07:11 GMT | TryHackMe Walkthrough: Cyber Security 101 — Start Your Cyber Security Journey | Shubham Khirwadkar | [Read More](https://medium.com/p/27c79af7b9c8) |
@@ -100,15 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Mar 2026 13:53:44 GMT | A comprehensive Guide to the CyberArk Venafi Certificate Management Service | Manish Sharma | [Read More](https://medium.com/p/80807404b894) |
 | Sun, 01 Mar 2026 13:50:01 GMT | Privacy Protection Made Simple - Must-Know Checklist | Pentester Club | [Read More](https://medium.com/p/1b3e9e859c80) |
 | Sun, 01 Mar 2026 13:49:29 GMT | The Universal AI Framework Pinnacle Edition | Ehsan | [Read More](https://medium.com/p/da6dc85c18d7) |
-| Sun, 01 Mar 2026 13:48:17 GMT | Why We Turned On MFA for Every Login (And How We Chose the Tech) | Deepak Rao Gaikwad | [Read More](https://medium.com/p/640969afcd6e) |
-| Sun, 01 Mar 2026 13:47:08 GMT | Video-Türsprechanlagen mit Fingerabdruckmodul: Eine neue Stufe der Zutrittskontrolle | Intercomshop | [Read More](https://medium.com/p/a1dda5442ddc) |
-| Sun, 01 Mar 2026 13:44:55 GMT | The Art of Scanning: Finding Silence Between the Signals | Y0Ux01 | [Read More](https://medium.com/p/26aeedfe2612) |
-| Sun, 01 Mar 2026 13:31:09 GMT | My First XSS Vulnerability. The Day I Started My Bug Bounty Journey | Muhammad Uzair Khan | [Read More](https://medium.com/p/07e13ef7b465) |
-| Sun, 01 Mar 2026 13:24:45 GMT | Replay Attack | Vishnu Shivalal P | [Read More](https://medium.com/p/a1ca219c4328) |
-| Sun, 01 Mar 2026 13:23:13 GMT | Beyond Cracking the 4-Way Handshake: How I Used hcxdumptool, Hashcat, and OSINT to Compromise a… | Atindra Girish | [Read More](https://medium.com/p/62a968cb0611) |
-| Sun, 01 Mar 2026 13:09:06 GMT | Maritime Cybersecurity Risk in the Strait of Hormuz | Julius | [Read More](https://medium.com/p/858a7d10bcf9) |
-| Sun, 01 Mar 2026 13:08:30 GMT | From Broken JWT Authentication to Production-Grade Security | Ashutosh Hacks | [Read More](https://medium.com/p/5745d4fab4e0) |
-| Sun, 01 Mar 2026 13:03:19 GMT | What If Your Attack Surface Isn’t the Problem — Your Understanding of It Is? | Sidhartha Nair | [Read More](https://medium.com/p/415e82a6063b) |
-| Sun, 01 Mar 2026 13:01:01 GMT | What I’ve been reading (, watching, and listening to) this week ending 1 March 2026 | Jason Yip | [Read More](https://medium.com/p/07be1022d9b2) |
-| Sun, 01 Mar 2026 13:00:22 GMT | Why Every Web 3 Startup Needs Smart Contract Security Audit Services Before Launch | Web5 Nexus | [Read More](https://medium.com/p/142bdd95239c) |
-| Sun, 01 Mar 2026 12:59:05 GMT | Paste With Caution: How a Fake Claude Code Installer Drops a Fileless Implant via Deserialization | Maurice Fielenbach | [Read More](https://medium.com/p/a85068955c0a) |
