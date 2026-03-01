@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Mar 2026 14:41:44 GMT | NymVPN ২০২৫–২০২৬: ইন্টারনেট সেন্সরশিপের বিরুদ্ধে নতুন এক লড়াই | Rabib Bin Nur | [Read More](https://medium.com/p/44f88230f971) |
+| Sun, 01 Mar 2026 14:41:09 GMT | Complete Guide to Hashing in Java: Types, Algorithms & Examples.. | Shubham Vartak | [Read More](https://medium.com/p/d5174d272e32) |
+| Sun, 01 Mar 2026 14:41:00 GMT | Job Scams Are Taking Over: How a Fake CVS Recruiter Installed Malware on My PC | Brandon Brasson | [Read More](https://medium.com/p/852bc31929c1) |
+| Sun, 01 Mar 2026 14:32:05 GMT | TryHackMe Writeup: Whiterose | Berkay AĞGÜL | [Read More](https://medium.com/p/8cda3396a58d) |
+| Sun, 01 Mar 2026 14:29:20 GMT | Burp Suite: The Basics — TryHackMe Pentesting Tools | Tayyeb Nadeem Somro | [Read More](https://medium.com/p/d6dd775e9841) |
+| Sun, 01 Mar 2026 14:24:40 GMT | What Is Predictive Cyber Threat Detection? A Simple Guide for Beginners | The SecOps Lead | [Read More](https://medium.com/p/99cf8303410e) |
 | Sun, 01 Mar 2026 14:20:56 GMT | Valenfind— CTF Writeup | PaulR | [Read More](https://medium.com/p/053b92a9f304) |
 | Sun, 01 Mar 2026 14:16:17 GMT | Part 1: From Spreadsheet Chaos to Cyber Resilience: Automating Vulnerability Tracking with… | Maxim Patancev | [Read More](https://medium.com/p/30632cc9a900) |
 | Sun, 01 Mar 2026 14:14:20 GMT | API Security Monitoring like a Boss | Israel Aráoz Severiche | [Read More](https://medium.com/p/1f1a0def79a7) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Mar 2026 05:58:44 GMT | “Stop Using Google for Recon. Seriously.” | Pushkar Padhye | [Read More](https://medium.com/p/f5ceea631ff8) |
 | Sun, 01 Mar 2026 05:55:10 GMT | Digital Drama: Why Small Online Actions Can Create Big Real-World Consequences | Swikritinarang | [Read More](https://medium.com/p/2399395e1767) |
 | Sun, 01 Mar 2026 05:49:08 GMT | CyberDefenders: WebStrike Lab | Rodrigo Lopez | [Read More](https://medium.com/p/f8a8cf64654b) |
-| Sun, 01 Mar 2026 05:46:41 GMT | The $25M Deepfake: When Successful Authentication Becomes the New Single Point of Failure | Ryu360 | [Read More](https://medium.com/p/bf50995d3648) |
-| Sun, 01 Mar 2026 05:42:43 GMT | Weekly Crypto & Web3 Safety Digest — CW09 2026 (5-Minute Edition) | 5-minute digital safety power-ups | [Read More](https://medium.com/p/07117b22d8bc) |
-| Sun, 01 Mar 2026 05:39:37 GMT | Bug Bounty Platforms: How to Choose the Right Programs (And Avoid Instant Rejection) | ghostyjoe | [Read More](https://medium.com/p/8c2b2c80c225) |
-| Sun, 01 Mar 2026 05:31:00 GMT | The Role of AI in Next-Gen SOC Operations | Cyber Aries | [Read More](https://medium.com/p/11d626f5d9ff) |
-| Sun, 01 Mar 2026 05:11:24 GMT | Threat Intelligence vs Threat Hunting: What’s the Difference? | Abhinsubej | [Read More](https://medium.com/p/57d16dbeec3c) |
-| Sun, 01 Mar 2026 05:05:56 GMT | ISO 27001 Certification Project Management Tools | Digital Duffer | [Read More](https://medium.com/p/f8c3e8dc6e59) |
