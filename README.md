@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Mar 2026 17:45:54 GMT | The Boundary of Isolation: Why Sandboxes Don’t Separate — They Trigger Cascades | Michael Kraft | [Read More](https://medium.com/p/e30c20234b39) |
+| Sun, 01 Mar 2026 17:37:04 GMT | Running Multiple Bug Bounty Targets at the Same Time — Is It Legal? | ghostyjoe | [Read More](https://medium.com/p/f5978de6f9be) |
+| Sun, 01 Mar 2026 17:29:55 GMT | Certified THM SEC1 with the (almost) chaos | Chananya Choosak | [Read More](https://medium.com/p/bf7341842c5e) |
 | Sun, 01 Mar 2026 17:15:20 GMT | Dc4 Write-up | Tugrulakagunduz | [Read More](https://medium.com/p/ce4b3b24558a) |
 | Sun, 01 Mar 2026 17:14:43 GMT | RootMe — TryHackMe Walkthrough - Complete Beginner-Friendly Write-Up | Sneha | [Read More](https://medium.com/p/7b94e5ec191d) |
 | Sun, 01 Mar 2026 17:13:45 GMT | CyberTalents: Strength Calculator WEB CTF | MS.Jix | [Read More](https://medium.com/p/3ba669c3a081) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Mar 2026 10:36:39 GMT | Entra ID support for Azure Bastion | Brian Veldman | [Read More](https://medium.com/p/32b2bb16b8d6) |
 | Sun, 01 Mar 2026 10:33:37 GMT | Active Directory Security Series — Part 3 | servet demirci | [Read More](https://medium.com/p/30a3c6e4310d) |
 | Sun, 01 Mar 2026 10:27:54 GMT | PicoCTF: 3v@l | Abhinav | [Read More](https://medium.com/p/d469906ce58e) |
-| Sun, 01 Mar 2026 10:11:55 GMT | Dijital Vatanda Tam Hakimiyet: Hibrit Savaş Çağında Milli Teknoloji ve Siber Güvenlik Zorunluluğu | Mustafa YILMAZ | [Read More](https://medium.com/p/bb8fb38223b5) |
-| Sun, 01 Mar 2026 10:08:24 GMT | The AI Agent With 200K GitHub Stars That Security Researchers Are Losing Sleep Over — OPENCLAW | Ajay Kotnala | [Read More](https://medium.com/p/99d0e51e805f) |
-| Sun, 01 Mar 2026 10:03:56 GMT | picoCTF Ph4nt0m 1ntrud3r & Event-Viewing Write Up | Elsandro Rivalito | [Read More](https://medium.com/p/27fb52cdec64) |
