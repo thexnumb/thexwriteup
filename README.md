@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Mar 2026 12:35:45 GMT | What 20 Years in Critical Infrastructure Taught Me About Digital Risk | Dr. Anil Tiwari | [Read More](https://medium.com/p/bae142faa360) |
+| Sun, 01 Mar 2026 12:34:20 GMT | OSI vs TCP/IP — Ağların Gerçek Anatomisi | HSD Gümüşhane | [Read More](https://medium.com/p/0d199bdf95af) |
+| Sun, 01 Mar 2026 12:28:37 GMT | I Thought CORS Was a Server Feature… Until I Finally Understood It | @asiri_manjitha | [Read More](https://medium.com/p/ae30836eb5ad) |
+| Sun, 01 Mar 2026 12:21:53 GMT | Burner Email for Developers: A Practical Tool for Testing & Privacy | Chaitanya Patankar | [Read More](https://medium.com/p/2cda1e5e806d) |
+| Sun, 01 Mar 2026 12:21:50 GMT | Starting a homelab during the privacy apocalypse: A beginner’s guide towards reclaiming your data | D Dinisdimitris | [Read More](https://medium.com/p/bd430c49359e) |
+| Sun, 01 Mar 2026 12:21:25 GMT | Quantum EMotion Acquires SecureKey Platform To Supercharge Cybersecurity Strategy | Jacky Kapadia | [Read More](https://medium.com/p/bd5bf2359845) |
+| Sun, 01 Mar 2026 12:05:32 GMT | From Swagger to Shell: Turning a Misconfigured configUrl into a $400 RXSS Bounty | dr34m14 | [Read More](https://medium.com/p/74375c700a51) |
+| Sun, 01 Mar 2026 11:57:44 GMT | Aldatma Sanatını Anlamak | Hakan ÇEVİK | [Read More](https://medium.com/p/6d60724f4ae3) |
+| Sun, 01 Mar 2026 11:53:23 GMT | Building a Real-Time Cloud Intrusion Detection System with Python and AWS | OLUMAYOWA OYENIYI OYETUNJI | [Read More](https://medium.com/p/345fe233069a) |
+| Sun, 01 Mar 2026 11:51:00 GMT | Three Years of Breaking Into SaaS Products for Money Taught Me Five Things About How Software Gets… | Cyphersilhouette | [Read More](https://medium.com/p/1e8febf39469) |
+| Sun, 01 Mar 2026 11:46:59 GMT | The Mindset Of A Young Programmer — Gaurav Pandey | Gaurav Pandey | [Read More](https://medium.com/p/41b560b650c8) |
+| Sun, 01 Mar 2026 11:40:21 GMT | Building a Multi-Endpoint SOC Home Lab using Wazuh SIEM | R.Santhoshkumar | [Read More](https://medium.com/p/5270cf6d9440) |
+| Sun, 01 Mar 2026 11:35:51 GMT | You Will Always Fall in Love, and It Will Always Be Like Having Your Throat Cut. | Ernest Husk. | [Read More](https://medium.com/p/282f1f49b8e7) |
 | Sun, 01 Mar 2026 11:15:00 GMT | The Keychain Paradox: Why Your Expired “Plastic” is a 2026 Social Engineering Seed | Tapan Kumar Saikia | [Read More](https://medium.com/p/73d3be6e32a7) |
 | Sun, 01 Mar 2026 11:14:08 GMT | A Backdoor You Can Talk To: Persistence via Bedrock AgentCore | Adan | [Read More](https://medium.com/p/0db60320e737) |
 | Sun, 01 Mar 2026 11:13:57 GMT | The Firewall of the Heart: Why High Achievers Need a ‘Zero-Trust’ Policy | Cyber Soul Systems | [Read More](https://medium.com/p/35a80cb1678f) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Mar 2026 03:49:03 GMT | The Crossroads Ahead: AI, Time, and the Last Shared Language | Chier Hu | [Read More](https://medium.com/p/c213726c7b27) |
 | Sun, 01 Mar 2026 03:41:00 GMT | How to Protect Your Child’s Digital Footprint From Birth to College | Screen Less Play More | [Read More](https://medium.com/p/8d08a6faeb91) |
 | Sun, 01 Mar 2026 03:39:06 GMT | Ignorance by Design: Saat Ketidaktahuan Menjadi Bagian dari Rencana Institusi | yasismee | [Read More](https://medium.com/p/83413813220a) |
-| Sun, 01 Mar 2026 03:33:02 GMT | 3 Projects to Get You Into IT Security | Eric Smith | [Read More](https://medium.com/p/ef035cbafd2f) |
-| Sun, 01 Mar 2026 03:26:48 GMT | How You Can Increase Your IT Budget and Get Security Buy-In from Your Executive Team | Eric Smith | [Read More](https://medium.com/p/3c1859171d33) |
-| Sun, 01 Mar 2026 03:26:11 GMT | Singing Feels Like Freedom | Steve Longinidis | [Read More](https://medium.com/p/f443577e93c0) |
-| Sun, 01 Mar 2026 03:24:41 GMT | #GirlMom #BoyMom | Esteepryor | [Read More](https://medium.com/p/aa960ee34e19) |
-| Sun, 01 Mar 2026 03:08:55 GMT | Game Zone | LIMZ | [Read More](https://medium.com/p/63b57073a6de) |
-| Sun, 01 Mar 2026 02:50:55 GMT | The Cheaper Information Gets, the Pricier Attention Becomes | Maggie | [Read More](https://medium.com/p/422a5311cc0c) |
-| Sun, 01 Mar 2026 02:40:48 GMT | Entre o arrependimento e o recomeço | Victor Antonio Menezes | [Read More](https://medium.com/p/1d8151330add) |
-| Sun, 01 Mar 2026 02:37:59 GMT | The M&A Clock Is Ticking on the Agent-Web Transition — and Most Founders Don’t Realize It’s Started | Ivan Ruzic, Ph.D. | [Read More](https://medium.com/p/f53da9661896) |
-| Sun, 01 Mar 2026 02:24:31 GMT | WHY CYBER INSURANCE NEEDS CONTINUOUS RISK MONITORING, NOT ANNUAL ASSESSMENTS | Chetan Ratnawat | [Read More](https://medium.com/p/bec4bd88e6b9) |
-| Sun, 01 Mar 2026 02:13:37 GMT | تحليل سجلات المصادقة في لينكس من منظور محلل SOC | Ahmed Alwedyan | [Read More](https://medium.com/p/6ac6ea93d1b7) |
-| Sun, 01 Mar 2026 01:51:42 GMT | The 764 Network: Tactics, Targeting, And Trust Manipulation | Swati (The Cybergirl) Gupta | [Read More](https://medium.com/p/7df616b5f8d2) |
-| Sun, 01 Mar 2026 01:38:36 GMT | Goodbye Khamenei (It’s Hard to Die) | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/3eb760f9a523) |
-| Sun, 01 Mar 2026 01:36:06 GMT | MENGENAL BERITA, FEATURE, EDITORIAL, DAN OPINI PADA MEDIA MASSA BESERTA CONTOH ANALISISNYA | Lilis Nur Laela | [Read More](https://medium.com/p/93098eaea7e8) |
