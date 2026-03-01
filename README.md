@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Mar 2026 15:15:13 GMT | Day 11 — Extracting Data Without Seeing It (Boolean-Based Blind SQL Injection) | Issan | [Read More](https://medium.com/p/85419f828649) |
+| Sun, 01 Mar 2026 15:14:32 GMT | Cybersecurity Foundations Series-part 1 | Dushani Ekanayake | [Read More](https://medium.com/p/319eaf3dee90) |
+| Sun, 01 Mar 2026 15:13:07 GMT | F5 BIG-IP PROMO CODES @ UDEMY LATEST NEW | DeepDive4learn | [Read More](https://medium.com/p/6ce5140478cf) |
+| Sun, 01 Mar 2026 15:04:46 GMT | PCI-DSS Explained: Why the Global Payment Standard is the Ultimate Cybersecurity Blueprint | Shanker Goud | [Read More](https://medium.com/p/2cc2adab793c) |
+| Sun, 01 Mar 2026 15:03:27 GMT | CVE-2025–27636 Walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/1766fbbc19c3) |
+| Sun, 01 Mar 2026 15:02:13 GMT | Event-Viewing — PicoCTF | Yrddry | [Read More](https://medium.com/p/f377e3126b04) |
+| Sun, 01 Mar 2026 15:01:59 GMT | Damn Vulnerable DeFi — Challenge 5: The Rewarder | 32bitsToby | [Read More](https://medium.com/p/0467e4dfdd1d) |
+| Sun, 01 Mar 2026 14:51:54 GMT | The Irony of a Content Writer who Struggles to Write | Swapna Joshi Talwelkar | [Read More](https://medium.com/p/e268ca04de96) |
+| Sun, 01 Mar 2026 14:49:44 GMT | Day 17: Linux Internals for SOC | Siddhesh Patil | [Read More](https://medium.com/p/6d9edbdb67cc) |
 | Sun, 01 Mar 2026 14:41:44 GMT | NymVPN ২০২৫–২০২৬: ইন্টারনেট সেন্সরশিপের বিরুদ্ধে নতুন এক লড়াই | Rabib Bin Nur | [Read More](https://medium.com/p/44f88230f971) |
 | Sun, 01 Mar 2026 14:41:09 GMT | Complete Guide to Hashing in Java: Types, Algorithms & Examples.. | Shubham Vartak | [Read More](https://medium.com/p/d5174d272e32) |
 | Sun, 01 Mar 2026 14:41:00 GMT | Job Scams Are Taking Over: How a Fake CVS Recruiter Installed Malware on My PC | Brandon Brasson | [Read More](https://medium.com/p/852bc31929c1) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Mar 2026 07:35:30 GMT | Shopify Account Takeover via Email Verification Bypass - Bug Bounty PoC $22,500 | NullSecurityX | [Read More](https://medium.com/p/2088b7d539d4) |
 | Sun, 01 Mar 2026 07:30:37 GMT | Stored xss exposed cookies via .svg in [ cisco] = P3 Bug → P1 bug | Sai Jayanth | [Read More](https://medium.com/p/d2f6c67265af) |
 | Sun, 01 Mar 2026 07:01:00 GMT | 7. Git Triggers and CI/CD Pipelines in Real Projects | Mangesh Muley | [Read More](https://medium.com/p/b6b1e56afdb4) |
-| Sun, 01 Mar 2026 06:43:59 GMT | Building a Home SOC Lab: Practical Cybersecurity Experience | Rıza Korkusuz | [Read More](https://medium.com/p/cc433a754cec) |
-| Sun, 01 Mar 2026 06:40:11 GMT | No rate limit on forget/reset password leads to email triggering | Arif Hossain | [Read More](https://medium.com/p/d86285f1569d) |
-| Sun, 01 Mar 2026 06:31:52 GMT | Holi Special Discount on Career-Oriented Cybersecurity Course | cyber security Updates | [Read More](https://medium.com/p/d16f38fa34f7) |
-| Sun, 01 Mar 2026 06:23:22 GMT | Host Header Injection: The Quiet Vulnerability That Breaks Trust | Purushotham.R | [Read More](https://medium.com/p/aea3eb2cdb77) |
-| Sun, 01 Mar 2026 06:22:55 GMT | SAST vs DAST vs SCA — The Security Trio Every DevOps Engineer Must Understand | TechwidSush | [Read More](https://medium.com/p/a1c9b74b7936) |
-| Sun, 01 Mar 2026 06:01:23 GMT | Sometimes I Think It’s Just Scary to Open Up Like That | Pandu Rijal Pasa | [Read More](https://medium.com/p/94d335f2d138) |
-| Sun, 01 Mar 2026 05:58:44 GMT | “Stop Using Google for Recon. Seriously.” | Pushkar Padhye | [Read More](https://medium.com/p/f5ceea631ff8) |
-| Sun, 01 Mar 2026 05:55:10 GMT | Digital Drama: Why Small Online Actions Can Create Big Real-World Consequences | Swikritinarang | [Read More](https://medium.com/p/2399395e1767) |
-| Sun, 01 Mar 2026 05:49:08 GMT | CyberDefenders: WebStrike Lab | Rodrigo Lopez | [Read More](https://medium.com/p/f8a8cf64654b) |
