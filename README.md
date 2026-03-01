@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Mar 2026 17:15:20 GMT | Dc4 Write-up | Tugrulakagunduz | [Read More](https://medium.com/p/ce4b3b24558a) |
+| Sun, 01 Mar 2026 17:14:43 GMT | RootMe — TryHackMe Walkthrough - Complete Beginner-Friendly Write-Up | Sneha | [Read More](https://medium.com/p/7b94e5ec191d) |
+| Sun, 01 Mar 2026 17:13:45 GMT | CyberTalents: Strength Calculator WEB CTF | MS.Jix | [Read More](https://medium.com/p/3ba669c3a081) |
+| Sun, 01 Mar 2026 17:09:41 GMT | Why Has It Become So Hard to Build Real Bonds in a Digital World? | cernartiste | [Read More](https://medium.com/p/25d48784f39c) |
+| Sun, 01 Mar 2026 17:08:44 GMT | From EAP to NTLM: What Happens After 802.1X Reaches the Server | winnietheSUii | [Read More](https://medium.com/p/ed41a9cb48e7) |
+| Sun, 01 Mar 2026 17:03:13 GMT | Basic Static Malware Analysis: From Triage to Unpacking — Explained and Automated | Andrey Pautov | [Read More](https://medium.com/p/9442ef3b11b8) |
+| Sun, 01 Mar 2026 16:52:13 GMT | What are business logic vulnerabilities? | BinaryShield | [Read More](https://medium.com/p/e0ed964e2468) |
+| Sun, 01 Mar 2026 16:51:55 GMT | What are CORS vulnerabilities (cross-origin resource sharing)? | BinaryShield | [Read More](https://medium.com/p/0b1f3c97af4e) |
+| Sun, 01 Mar 2026 16:42:34 GMT | From Curious Mind to Cybersecurity Professional: My Journey Begins | Swapnilmagar | [Read More](https://medium.com/p/c3adadd06341) |
+| Sun, 01 Mar 2026 16:38:01 GMT | India Just Changed How WhatsApp Works - And Most People Are Missing the Real Story | Mrunal chawda | [Read More](https://medium.com/p/d09706acb424) |
+| Sun, 01 Mar 2026 16:34:08 GMT | Ghost Pods and Fileless Malware in Kubernetes: A Technical Deep Dive | Alex | [Read More](https://medium.com/p/4435e6dbba14) |
+| Sun, 01 Mar 2026 16:31:35 GMT | Building DevSecOps Workflow | Harshitaa Ashish | [Read More](https://medium.com/p/0d7f2f880869) |
+| Sun, 01 Mar 2026 16:25:54 GMT | picoCTF - Ph4nt0m 1ntrud3r | M.Daffa Hakiki | [Read More](https://medium.com/p/a6838703c4b7) |
 | Sun, 01 Mar 2026 16:25:53 GMT | 【威脅情資】濫用 Windows 檔案總管與 WebDAV 攻擊手法分析與防禦策略 | segalee | [Read More](https://medium.com/p/d8c5a1d34a53) |
 | Sun, 01 Mar 2026 16:19:15 GMT | Why I’m Starting My Robotics Journey as an IT Engineering Student | roshan | [Read More](https://medium.com/p/35bfb09b5fd7) |
 | Sun, 01 Mar 2026 16:15:58 GMT | From RBAC to Risk-Based AI Control: Why “Human-in-the-Loop” Isn’t a Security Strategy | Marton Schneider | [Read More](https://medium.com/p/d28c6a43b01b) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Mar 2026 10:11:55 GMT | Dijital Vatanda Tam Hakimiyet: Hibrit Savaş Çağında Milli Teknoloji ve Siber Güvenlik Zorunluluğu | Mustafa YILMAZ | [Read More](https://medium.com/p/bb8fb38223b5) |
 | Sun, 01 Mar 2026 10:08:24 GMT | The AI Agent With 200K GitHub Stars That Security Researchers Are Losing Sleep Over — OPENCLAW | Ajay Kotnala | [Read More](https://medium.com/p/99d0e51e805f) |
 | Sun, 01 Mar 2026 10:03:56 GMT | picoCTF Ph4nt0m 1ntrud3r & Event-Viewing Write Up | Elsandro Rivalito | [Read More](https://medium.com/p/27fb52cdec64) |
-| Sun, 01 Mar 2026 10:01:00 GMT | Entry-Level Cybersecurity Roles: A Beginner’s Global Guide | Victoria Coker | [Read More](https://medium.com/p/aed205873412) |
-| Sun, 01 Mar 2026 09:58:51 GMT | TryHackMe — Blog Writeup | giorgi gochitidze | [Read More](https://medium.com/p/32eddd6a3558) |
-| Sun, 01 Mar 2026 09:57:30 GMT | Cisco Cybersecurity Module 1 (Part 4): Cyber Attackers and Types of Threats | Favour Ugochi Ogbonnaya | [Read More](https://medium.com/p/44b54cfe7bd2) |
-| Sun, 01 Mar 2026 09:56:45 GMT | HTB: Soulmate | bluesnow | [Read More](https://medium.com/p/450af1c0b5d6) |
-| Sun, 01 Mar 2026 09:48:32 GMT | Identifying Real-World Website Security Misconfigurations: A Practical Bug Hunter’s Guide | Shivam Kumar | [Read More](https://medium.com/p/d89ce96ee44e) |
-| Sun, 01 Mar 2026 09:44:53 GMT | When Citizens Die and the State Speaks in Metaphors: Woro and Nigeria’s Crisis of Governance | Abduljalil Hassan Muhammad | [Read More](https://medium.com/p/6a2de06450af) |
-| Sun, 01 Mar 2026 09:39:34 GMT | Quantum AI Part 2: The Master Key that Breaks Every Lock | Digital Jasoosi Kavach ️ | [Read More](https://medium.com/p/8d601472e5a1) |
-| Sun, 01 Mar 2026 09:35:26 GMT | Write Up Wargame OverTheWire Bandit Level 0–10 | Yoga Asqa Nurhafiz | [Read More](https://medium.com/p/c6f7e738c9bb) |
-| Sun, 01 Mar 2026 09:31:00 GMT | Your Remote Workers Just Handed Hackers a Skeleton Key - And You Probably Don’t Know It | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/e50aa1b1b49a) |
-| Sun, 01 Mar 2026 09:30:57 GMT | Building a Free IP Reputation Enrichment Tool Using Python and Excel | Ashwanth saran JC | [Read More](https://medium.com/p/28a4f800740a) |
-| Sun, 01 Mar 2026 09:25:31 GMT | Try Hack Me- Hidden Deep Into My Heart Walkthrough | PulseEinher | [Read More](https://medium.com/p/e7e87e7080af) |
-| Sun, 01 Mar 2026 09:19:30 GMT | Deteriorating Global Security in Trump’s Era: Implications for Global Peace | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/510409bc0b13) |
-| Sun, 01 Mar 2026 09:01:00 GMT | What Fresh Stealer Logs Reveal That Old Breaches Can’t | Alexandre Vandamme | [Read More](https://medium.com/p/7ac7d59f7690) |
