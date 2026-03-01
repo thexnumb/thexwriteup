@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Mar 2026 05:42:43 GMT | Weekly Crypto & Web3 Safety Digest — CW09 2026 (5-Minute Edition) | 5-minute digital safety power-ups | [Read More](https://medium.com/p/07117b22d8bc) |
+| Sun, 01 Mar 2026 05:39:37 GMT | Bug Bounty Platforms: How to Choose the Right Programs (And Avoid Instant Rejection) | ghostyjoe | [Read More](https://medium.com/p/8c2b2c80c225) |
+| Sun, 01 Mar 2026 05:31:00 GMT | The Role of AI in Next-Gen SOC Operations | Cyber Aries | [Read More](https://medium.com/p/11d626f5d9ff) |
+| Sun, 01 Mar 2026 05:11:24 GMT | Threat Intelligence vs Threat Hunting: What’s the Difference? | Abhinsubej | [Read More](https://medium.com/p/57d16dbeec3c) |
+| Sun, 01 Mar 2026 05:05:56 GMT | ISO 27001 Certification Project Management Tools | Digital Duffer | [Read More](https://medium.com/p/f8c3e8dc6e59) |
+| Sun, 01 Mar 2026 04:59:10 GMT | HackTheBox - Lab Brutus | M.Daffa Hakiki | [Read More](https://medium.com/p/485acee83947) |
+| Sun, 01 Mar 2026 04:58:45 GMT | Kali Linux Meets Claude AI: Is Natural Language Pentesting going to make a difference? | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/b1dddc58cdce) |
+| Sun, 01 Mar 2026 04:58:11 GMT | The State of Quantum Computing in 2026: Real Breakthroughs, Lingering Hype, and Commercial Reality | Noor Mohamad | [Read More](https://medium.com/p/081b5d14fb28) |
+| Sun, 01 Mar 2026 04:56:37 GMT | Stop Using Environment Variables for Secrets in Docker Compose | Bernardo Carvalho | [Read More](https://medium.com/p/fd0be09ebcc5) |
+| Sun, 01 Mar 2026 04:55:58 GMT | When Opening a Project Can Compromise Your System: My Take on the Claude Code Vulnerabilities | Harshit Nagila | [Read More](https://medium.com/p/7e039b817f24) |
+| Sun, 01 Mar 2026 04:55:33 GMT | Implementasi Snort IDS pada Server Ubuntu untuk Deteksi Serangan Web secara Real-Time | Christopher Gilbert | [Read More](https://medium.com/p/4d0c54df5eaf) |
+| Sun, 01 Mar 2026 04:54:46 GMT | It Costs $50 to Create a Fake Company That Fools Everyone | Thomas Perry | [Read More](https://medium.com/p/7b2df39403e5) |
+| Sun, 01 Mar 2026 04:53:30 GMT | Your Small Business Will Be Hacked. The Only Question Is When. | Karan Dhillon | [Read More](https://medium.com/p/3365b1c9a5c1) |
+| Sun, 01 Mar 2026 04:45:25 GMT | Most Used Technical Buddy! | Ajitadhungana | [Read More](https://medium.com/p/307fc5b1df35) |
 | Sun, 01 Mar 2026 04:45:15 GMT | Understanding React2Shell (CVE-2025–55182) | Indigo Shadow | [Read More](https://medium.com/p/d0eda51ee4dd) |
 | Sun, 01 Mar 2026 04:44:26 GMT | The AI IP Pipeline: Every Session Is a Confession | Thomas Perry | [Read More](https://medium.com/p/71abd97dc756) |
 | Sun, 01 Mar 2026 04:44:15 GMT | Phishy Lab-Cyberdefenders | Areeya B. | [Read More](https://medium.com/p/f8cfd1d34a6e) |
@@ -31,6 +45,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Mar 2026 03:24:41 GMT | #GirlMom #BoyMom | Esteepryor | [Read More](https://medium.com/p/aa960ee34e19) |
 | Sun, 01 Mar 2026 03:08:55 GMT | Game Zone | LIMZ | [Read More](https://medium.com/p/63b57073a6de) |
 | Sun, 01 Mar 2026 02:50:55 GMT | The Cheaper Information Gets, the Pricier Attention Becomes | Maggie | [Read More](https://medium.com/p/422a5311cc0c) |
+| Sun, 01 Mar 2026 02:40:48 GMT | Entre o arrependimento e o recomeço | Victor Antonio Menezes | [Read More](https://medium.com/p/1d8151330add) |
 | Sun, 01 Mar 2026 02:37:59 GMT | The M&A Clock Is Ticking on the Agent-Web Transition — and Most Founders Don’t Realize It’s Started | Ivan Ruzic, Ph.D. | [Read More](https://medium.com/p/f53da9661896) |
 | Sun, 01 Mar 2026 02:24:31 GMT | WHY CYBER INSURANCE NEEDS CONTINUOUS RISK MONITORING, NOT ANNUAL ASSESSMENTS | Chetan Ratnawat | [Read More](https://medium.com/p/bec4bd88e6b9) |
 | Sun, 01 Mar 2026 02:13:37 GMT | تحليل سجلات المصادقة في لينكس من منظور محلل SOC | Ahmed Alwedyan | [Read More](https://medium.com/p/6ac6ea93d1b7) |
@@ -98,18 +113,3 @@ Working in law enforcement taught me something… | IBE KINGSLEY | [Read More](h
 | Sat, 28 Feb 2026 19:01:00 GMT | Spyware Industry: The Zero-Click Empire | Jerry | [Read More](https://medium.com/p/a1deec54f2ea) |
 | Sat, 28 Feb 2026 18:56:00 GMT | EU GDPR — Article 25 (Data Protection by Design and by Default) | MDM Team | [Read More](https://medium.com/p/4a941045536f) |
 | Sat, 28 Feb 2026 18:51:15 GMT | Small Business Technology News: A ChatGPT Smart Speaker | Gene Marks | [Read More](https://medium.com/p/9c42226fe389) |
-| Sat, 28 Feb 2026 18:49:41 GMT | Why Cybersecurity Is No Longer About Prevention It’s About Survivability | CybeCloud | [Read More](https://medium.com/p/e35ea0cf14f5) |
-| Sat, 28 Feb 2026 18:49:17 GMT | Artificial Intelligence: A Simple Guide to Understanding AI | Techridge Solutions | [Read More](https://medium.com/p/0aac1f544e89) |
-| Sat, 28 Feb 2026 18:38:40 GMT | Exploring Burpsuite MCP Server: Connecting WSL to Burpsuite MCP Server | Ayyubnoezher | [Read More](https://medium.com/p/a1fc4c875279) |
-| Sat, 28 Feb 2026 18:36:18 GMT | The Great Identity Heist: Why We Stopped Trusting Passwords and Started Trusting “Okta” | Pandit Shivam | [Read More](https://medium.com/p/5b2d448a39c5) |
-| Sat, 28 Feb 2026 18:30:03 GMT | What is DevSecOps & Why It Matters | Gautammakwana | [Read More](https://medium.com/p/ab0367625208) |
-| Sat, 28 Feb 2026 18:27:11 GMT | When Your Client Data is Leaked: A Practical Guide for Nigerian Companies | Esther Idibiye David (Legalinbloom) | [Read More](https://medium.com/p/54d3d7f21e12) |
-| Sat, 28 Feb 2026 18:21:33 GMT | Marker Interface 與 Annotation（Attribute）的比較 | 思維舞步 MindSteps | [Read More](https://medium.com/p/2bf56d76c982) |
-| Sat, 28 Feb 2026 18:20:27 GMT | Implementing Least Privilege Access to Amazon S3 Using AWS IAM | Nicholas Palumbi | [Read More](https://medium.com/p/c1fb8c7c4187) |
-| Sat, 28 Feb 2026 18:20:20 GMT | Web4 & Spatial Computing: Beyond the Metaverse | Mai Tran | [Read More](https://medium.com/p/a0ef58cb5978) |
-| Sat, 28 Feb 2026 18:12:43 GMT | I Didn’t Lose Money That Day | Tara Sanjay | [Read More](https://medium.com/p/98b855af6d3a) |
-| Sat, 28 Feb 2026 17:58:26 GMT | Why Your AI Costs Keep Rising and How LLMs Actually Count Tokens | Tara Prasad Routray | [Read More](https://medium.com/p/270defddaf31) |
-| Sat, 28 Feb 2026 17:56:48 GMT | [Prod-001] Production issues — stories | Sarvsav Sharma | [Read More](https://medium.com/p/4ffe5a9ceb79) |
-| Sat, 28 Feb 2026 17:46:53 GMT | Self-Hosted Infrastructure Using VPS & Cloud Computing | Hack'n'Tea | [Read More](https://medium.com/p/ec88a39437d4) |
-| Sat, 28 Feb 2026 17:43:56 GMT | तू मेरे पास बैठ ना… | Vinsi | [Read More](https://medium.com/p/2462ccb0de56) |
-| Sat, 28 Feb 2026 17:41:38 GMT | CASE FILE #DF-EVTX-01 - CLASSIFIED | kanieloutis | [Read More](https://medium.com/p/a2631b716c25) |
