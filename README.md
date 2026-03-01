@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Mar 2026 18:26:36 GMT | Trend Micro warns of critical Apex One code execution flaws | SOCFortress | [Read More](https://medium.com/p/dd24b0797887) |
+| Sun, 01 Mar 2026 18:26:06 GMT | One Time Pad (OTP): The Unbreakable Cipher | Mahdi | [Read More](https://medium.com/p/2ff83731d84f) |
+| Sun, 01 Mar 2026 18:25:37 GMT | Mitigating Risk in Mendix Applications | Thijs de Jong | [Read More](https://medium.com/p/7cc177236b5a) |
+| Sun, 01 Mar 2026 18:24:35 GMT | How I Found 4 Vulnerabilities in 3 Days — Beginner Journey | MhndFi | [Read More](https://medium.com/p/dcc84ecee094) |
+| Sun, 01 Mar 2026 18:22:26 GMT | I was Wrong About the MatPlotLib AI Hit Piece, and the Truth is Scarier | Thea Elizabeth | [Read More](https://medium.com/p/f7ff8d1268ca) |
+| Sun, 01 Mar 2026 18:20:04 GMT | Simple Hack-The-Box Security Architecture Takeaways (Part 1) | Joshua Goossen | [Read More](https://medium.com/p/9c08881bb466) |
+| Sun, 01 Mar 2026 18:18:58 GMT | 3 U.S. Cybersecurity Apprenticeship Paths That Actually Work | Cyber Lee | [Read More](https://medium.com/p/195d95a37de0) |
+| Sun, 01 Mar 2026 18:18:07 GMT | CRA Product Classification: Is Your Product Default, Important, or Critical? | CRA Decoded | [Read More](https://medium.com/p/7c59a9ed1bcf) |
+| Sun, 01 Mar 2026 18:16:57 GMT | 用音樂會來理解 .NET Host Service | 思維舞步 MindSteps | [Read More](https://medium.com/p/c4d747db03bd) |
+| Sun, 01 Mar 2026 18:16:52 GMT | Backend Mastery: The Real Bug Bounty Superpower (2026 Guide) | Md Tanjimul Islam Sifat | [Read More](https://medium.com/p/0141f8e271de) |
+| Sun, 01 Mar 2026 18:15:39 GMT | The Most Dangerous Lie We Tell Starts with “I Feel…” | Thats Eli | [Read More](https://medium.com/p/12da16ae9146) |
+| Sun, 01 Mar 2026 18:09:28 GMT | Title: The Boy Who Wanted to Be Enough | Dickran Guerguerian | [Read More](https://medium.com/p/64d1f76279cf) |
+| Sun, 01 Mar 2026 18:04:32 GMT | The Edge AI Paradox: Why “Privacy-First” Devices Are a Hacker’s Best Friend | Jose Baena Cobos | [Read More](https://medium.com/p/383977d55c21) |
+| Sun, 01 Mar 2026 18:01:02 GMT | Anglerphish | George Petropoulos | [Read More](https://medium.com/p/6dc3e5520242) |
+| Sun, 01 Mar 2026 18:00:40 GMT | What Is Cybersecurity? The Complete 2026 Guide to Digital Protection | Sam Walker | [Read More](https://medium.com/p/1d6c2ead4494) |
 | Sun, 01 Mar 2026 17:45:54 GMT | The Boundary of Isolation: Why Sandboxes Don’t Separate — They Trigger Cascades | Michael Kraft | [Read More](https://medium.com/p/e30c20234b39) |
+| Sun, 01 Mar 2026 17:44:53 GMT | A Practical Guide to Finding Broken Access Control (BAC) | NullSec | [Read More](https://medium.com/p/c1be9f23dc24) |
 | Sun, 01 Mar 2026 17:37:04 GMT | Running Multiple Bug Bounty Targets at the Same Time — Is It Legal? | ghostyjoe | [Read More](https://medium.com/p/f5978de6f9be) |
 | Sun, 01 Mar 2026 17:29:55 GMT | Certified THM SEC1 with the (almost) chaos | Chananya Choosak | [Read More](https://medium.com/p/bf7341842c5e) |
 | Sun, 01 Mar 2026 17:15:20 GMT | Dc4 Write-up | Tugrulakagunduz | [Read More](https://medium.com/p/ce4b3b24558a) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Mar 2026 11:46:59 GMT | The Mindset Of A Young Programmer — Gaurav Pandey | Gaurav Pandey | [Read More](https://medium.com/p/41b560b650c8) |
 | Sun, 01 Mar 2026 11:40:21 GMT | Building a Multi-Endpoint SOC Home Lab using Wazuh SIEM | R.Santhoshkumar | [Read More](https://medium.com/p/5270cf6d9440) |
 | Sun, 01 Mar 2026 11:35:51 GMT | You Will Always Fall in Love, and It Will Always Be Like Having Your Throat Cut. | Ernest Husk. | [Read More](https://medium.com/p/282f1f49b8e7) |
-| Sun, 01 Mar 2026 11:23:36 GMT | Day 8–9 of PortSwigger Academy Lab Walkthrough: Insecure deserialization, Information disclosure… | ALESSANDRO FARREL GERRARD WIJAYA | [Read More](https://medium.com/p/9d1cf801059e) |
-| Sun, 01 Mar 2026 11:15:00 GMT | The Keychain Paradox: Why Your Expired “Plastic” is a 2026 Social Engineering Seed | Tapan Kumar Saikia | [Read More](https://medium.com/p/73d3be6e32a7) |
-| Sun, 01 Mar 2026 11:14:08 GMT | A Backdoor You Can Talk To: Persistence via Bedrock AgentCore | Adan | [Read More](https://medium.com/p/0db60320e737) |
-| Sun, 01 Mar 2026 11:13:57 GMT | The Firewall of the Heart: Why High Achievers Need a ‘Zero-Trust’ Policy | Cyber Soul Systems | [Read More](https://medium.com/p/35a80cb1678f) |
-| Sun, 01 Mar 2026 11:13:32 GMT | PicoCTF — SSTI 1 & 2 | Abhinav | [Read More](https://medium.com/p/a8e389d09567) |
-| Sun, 01 Mar 2026 11:09:42 GMT | AoTR 2: Operation Winter Blackout | Arfan (p4n) | [Read More](https://medium.com/p/bd6c7675ee28) |
-| Sun, 01 Mar 2026 11:07:24 GMT | Verification Code Problem: How to Fix SMS & Email Delays | Talha Tech Reviews | [Read More](https://medium.com/p/bdcee93330bf) |
-| Sun, 01 Mar 2026 11:01:36 GMT | Ghost Mantis — Faculty Upload (Hard Web CTF Challenge -Creator Writeup) | Kaif Tarasgar | [Read More](https://medium.com/p/33999fbe7b77) |
-| Sun, 01 Mar 2026 10:58:19 GMT | H@rDl4u6H — CTF_writeup | wal-z1 | [Read More](https://medium.com/p/5f85dc2a664b) |
-| Sun, 01 Mar 2026 10:55:42 GMT | Part 4 - Beyond the Vault: The Death of Shamir’s and PKI | PhantomKey Technologies | [Read More](https://medium.com/p/4b2b67694fff) |
-| Sun, 01 Mar 2026 10:49:45 GMT | 2026 Cybersecurity Career & Knowledge Handbook - Dice USA | Shanker Goud | [Read More](https://medium.com/p/17624e703dd6) |
-| Sun, 01 Mar 2026 10:48:31 GMT | The Skills Paradox: Why Being “Good” is No Longer Enough (And How to Stop Fighting for Scraps) | Tohbie Adelaja | [Read More](https://medium.com/p/289c3d2e44c7) |
-| Sun, 01 Mar 2026 10:39:15 GMT | Stay sharp—cybercriminals are moving fast in 2026, using tools like Agentic AI and deepfakes to… | prabhas K | [Read More](https://medium.com/p/5d8e7180d520) |
-| Sun, 01 Mar 2026 10:36:39 GMT | Entra ID support for Azure Bastion | Brian Veldman | [Read More](https://medium.com/p/32b2bb16b8d6) |
-| Sun, 01 Mar 2026 10:33:37 GMT | Active Directory Security Series — Part 3 | servet demirci | [Read More](https://medium.com/p/30a3c6e4310d) |
-| Sun, 01 Mar 2026 10:27:54 GMT | PicoCTF: 3v@l | Abhinav | [Read More](https://medium.com/p/d469906ce58e) |
