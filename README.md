@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Mar 2026 14:20:56 GMT | Valenfind— CTF Writeup | PaulR | [Read More](https://medium.com/p/053b92a9f304) |
+| Sun, 01 Mar 2026 14:16:17 GMT | Part 1: From Spreadsheet Chaos to Cyber Resilience: Automating Vulnerability Tracking with… | Maxim Patancev | [Read More](https://medium.com/p/30632cc9a900) |
+| Sun, 01 Mar 2026 14:14:20 GMT | API Security Monitoring like a Boss | Israel Aráoz Severiche | [Read More](https://medium.com/p/1f1a0def79a7) |
+| Sun, 01 Mar 2026 14:04:57 GMT | Application Environment Isolation | Robert Broeckelmann | [Read More](https://medium.com/p/064c7380b1c9) |
+| Sun, 01 Mar 2026 14:03:04 GMT | Internal Transmission — Breathacker Network, Encrypted at Source | Abhinav Jain | [Read More](https://medium.com/p/b3e8f76d6579) |
+| Sun, 01 Mar 2026 14:02:24 GMT | A letter from the Ghosts who type in the dark | Abhinav Jain | [Read More](https://medium.com/p/4ad2ce56a8e6) |
+| Sun, 01 Mar 2026 14:01:00 GMT | The Courage to Be Human | Erik Victor Reed | [Read More](https://medium.com/p/a1e0460116c5) |
+| Sun, 01 Mar 2026 13:53:44 GMT | A comprehensive Guide to the CyberArk Venafi Certificate Management Service | Manish Sharma | [Read More](https://medium.com/p/80807404b894) |
+| Sun, 01 Mar 2026 13:50:01 GMT | Privacy Protection Made Simple - Must-Know Checklist | Pentester Club | [Read More](https://medium.com/p/1b3e9e859c80) |
+| Sun, 01 Mar 2026 13:49:29 GMT | The Universal AI Framework Pinnacle Edition | Ehsan | [Read More](https://medium.com/p/da6dc85c18d7) |
+| Sun, 01 Mar 2026 13:48:17 GMT | Why We Turned On MFA for Every Login (And How We Chose the Tech) | Deepak Rao Gaikwad | [Read More](https://medium.com/p/640969afcd6e) |
+| Sun, 01 Mar 2026 13:47:08 GMT | Video-Türsprechanlagen mit Fingerabdruckmodul: Eine neue Stufe der Zutrittskontrolle | Intercomshop | [Read More](https://medium.com/p/a1dda5442ddc) |
+| Sun, 01 Mar 2026 13:44:55 GMT | The Art of Scanning: Finding Silence Between the Signals | Y0Ux01 | [Read More](https://medium.com/p/26aeedfe2612) |
 | Sun, 01 Mar 2026 13:31:09 GMT | My First XSS Vulnerability. The Day I Started My Bug Bounty Journey | Muhammad Uzair Khan | [Read More](https://medium.com/p/07e13ef7b465) |
 | Sun, 01 Mar 2026 13:24:45 GMT | Replay Attack | Vishnu Shivalal P | [Read More](https://medium.com/p/a1ca219c4328) |
 | Sun, 01 Mar 2026 13:23:13 GMT | Beyond Cracking the 4-Way Handshake: How I Used hcxdumptool, Hashcat, and OSINT to Compromise a… | Atindra Girish | [Read More](https://medium.com/p/62a968cb0611) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Mar 2026 05:31:00 GMT | The Role of AI in Next-Gen SOC Operations | Cyber Aries | [Read More](https://medium.com/p/11d626f5d9ff) |
 | Sun, 01 Mar 2026 05:11:24 GMT | Threat Intelligence vs Threat Hunting: What’s the Difference? | Abhinsubej | [Read More](https://medium.com/p/57d16dbeec3c) |
 | Sun, 01 Mar 2026 05:05:56 GMT | ISO 27001 Certification Project Management Tools | Digital Duffer | [Read More](https://medium.com/p/f8c3e8dc6e59) |
-| Sun, 01 Mar 2026 04:59:10 GMT | HackTheBox - Lab Brutus | M.Daffa Hakiki | [Read More](https://medium.com/p/485acee83947) |
-| Sun, 01 Mar 2026 04:58:45 GMT | Kali Linux Meets Claude AI: Is Natural Language Pentesting going to make a difference? | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/b1dddc58cdce) |
-| Sun, 01 Mar 2026 04:58:11 GMT | The State of Quantum Computing in 2026: Real Breakthroughs, Lingering Hype, and Commercial Reality | Noor Mohamad | [Read More](https://medium.com/p/081b5d14fb28) |
-| Sun, 01 Mar 2026 04:56:37 GMT | Stop Using Environment Variables for Secrets in Docker Compose | Bernardo Carvalho | [Read More](https://medium.com/p/fd0be09ebcc5) |
-| Sun, 01 Mar 2026 04:55:58 GMT | When Opening a Project Can Compromise Your System: My Take on the Claude Code Vulnerabilities | Harshit Nagila | [Read More](https://medium.com/p/7e039b817f24) |
-| Sun, 01 Mar 2026 04:55:33 GMT | Implementasi Snort IDS pada Server Ubuntu untuk Deteksi Serangan Web secara Real-Time | Christopher Gilbert | [Read More](https://medium.com/p/4d0c54df5eaf) |
-| Sun, 01 Mar 2026 04:54:46 GMT | It Costs $50 to Create a Fake Company That Fools Everyone | Thomas Perry | [Read More](https://medium.com/p/7b2df39403e5) |
-| Sun, 01 Mar 2026 04:53:30 GMT | Your Small Business Will Be Hacked. The Only Question Is When. | Karan Dhillon | [Read More](https://medium.com/p/3365b1c9a5c1) |
-| Sun, 01 Mar 2026 04:45:25 GMT | Most Used Technical Buddy! | Ajitadhungana | [Read More](https://medium.com/p/307fc5b1df35) |
-| Sun, 01 Mar 2026 04:45:15 GMT | Understanding React2Shell (CVE-2025–55182) | Indigo Shadow | [Read More](https://medium.com/p/d0eda51ee4dd) |
-| Sun, 01 Mar 2026 04:44:26 GMT | The AI IP Pipeline: Every Session Is a Confession | Thomas Perry | [Read More](https://medium.com/p/71abd97dc756) |
-| Sun, 01 Mar 2026 04:44:15 GMT | Phishy Lab-Cyberdefenders | Areeya B. | [Read More](https://medium.com/p/f8cfd1d34a6e) |
-| Sun, 01 Mar 2026 04:39:59 GMT | CyberDefenders — WebStrike Lab Write-Up | Annisa Eka Putri | [Read More](https://medium.com/p/4bd6126dca2f) |
