@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Mar 2026 07:30:37 GMT | Stored xss exposed cookies via .svg in [ cisco] = P3 Bug → P1 bug | Sai Jayanth | [Read More](https://medium.com/p/d2f6c67265af) |
+| Sun, 01 Mar 2026 07:01:00 GMT | 7. Git Triggers and CI/CD Pipelines in Real Projects | Mangesh Muley | [Read More](https://medium.com/p/b6b1e56afdb4) |
 | Sun, 01 Mar 2026 06:43:59 GMT | Building a Home SOC Lab: Practical Cybersecurity Experience | Rıza Korkusuz | [Read More](https://medium.com/p/cc433a754cec) |
 | Sun, 01 Mar 2026 06:40:11 GMT | No rate limit on forget/reset password leads to email triggering | Arif Hossain | [Read More](https://medium.com/p/d86285f1569d) |
 | Sun, 01 Mar 2026 06:31:52 GMT | Holi Special Discount on Career-Oriented Cybersecurity Course | cyber security Updates | [Read More](https://medium.com/p/d16f38fa34f7) |
@@ -111,5 +113,3 @@ Working in law enforcement taught me something… | IBE KINGSLEY | [Read More](h
 | Sat, 28 Feb 2026 20:12:13 GMT | Top Cybersecurity Companies in Bangladesh (2026): Why the Market Is Rapidly Maturing | Sam Walker | [Read More](https://medium.com/p/cb3ff31049da) |
 | Sat, 28 Feb 2026 20:11:32 GMT | The Art of the Deal in the Age of AI: How OpenAI Won the Pentagon and What It Means for the Future… | CCD-IS | [Read More](https://medium.com/p/7b12626b9517) |
 | Sat, 28 Feb 2026 20:04:52 GMT | Flutter Secrets: Why SharedPreferences Will Betray You and How flutter_secure_storage Saves the Day | Harsh Kumar Khatri | [Read More](https://medium.com/p/78e42af2bfe9) |
-| Sat, 28 Feb 2026 19:59:27 GMT | The CVSS Illusion: Why Your Vulnerability Prioritization Strategy Is Probably Getting People Hacked | HRK | [Read More](https://medium.com/p/246e544d66ae) |
-| Sat, 28 Feb 2026 19:55:24 GMT | Designing a Zero-Trust Architecture for SaaS LLM Integrations | Kartikeya Mishra | [Read More](https://medium.com/p/d9d1b9f6d71a) |
