@@ -12,12 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Mar 2026 23:33:12 GMT | Cyber Security Offense and Defense Home Lab — Part 3 (Installing pfsense firewall) | Mahim Avi | [Read More](https://medium.com/p/6ca5250fedee) |
+| Sun, 01 Mar 2026 23:30:40 GMT | So… Apparently I Have Cancer | Susan League | [Read More](https://medium.com/p/aac8b4ca2bbb) |
+| Sun, 01 Mar 2026 23:24:13 GMT | Cyber Security Offense and Defense Home Lab — Part 2 (Covers vmware download and installation… | Mahim Avi | [Read More](https://medium.com/p/5f4d9878ef90) |
 | Sun, 01 Mar 2026 23:22:06 GMT | The 130°C Blindspot: Why F1’s 2026 Regulations Demand Zero-Trust Edge Compute Trackside | Timothy D. Harmon, CISSP | [Read More](https://medium.com/p/c1d999566d42) |
 | Sun, 01 Mar 2026 23:20:49 GMT | Access Control List’i Kurcalamak — Part 1 | Umuteren | [Read More](https://medium.com/p/d152d20aebf0) |
 | Sun, 01 Mar 2026 23:20:21 GMT | Automated Crypto Trading: A Simple Explanation for Beginners | Sara - Side Hustles & Learning | [Read More](https://medium.com/p/a0730fe6a05c) |
 | Sun, 01 Mar 2026 23:16:24 GMT | This Week in AI Governance? Power, Control, and Accountability | A D | [Read More](https://medium.com/p/644a0a10297b) |
 | Sun, 01 Mar 2026 23:12:57 GMT | Understanding Torch Dark Web Search and Its Role in Onion Discovery | Tor BBB | [Read More](https://medium.com/p/e1567d03d2e6) |
 | Sun, 01 Mar 2026 23:07:34 GMT | AI Security Digest — February 2026 (Week 4) | Tal Eliyahu | [Read More](https://medium.com/p/21e8c32435a7) |
+| Sun, 01 Mar 2026 22:54:02 GMT | SlotMachineToken PRO — Der erste echte CEX–DEX Hybrid‑Token mit Compliance‑Layer | Spongoo | [Read More](https://medium.com/p/320736f5bcab) |
 | Sun, 01 Mar 2026 22:38:10 GMT | Constitutional Survivability Under Adversarial Pressure | Lev Goukassian | [Read More](https://medium.com/p/401bd905ea00) |
 | Sun, 01 Mar 2026 22:04:37 GMT | Arbitrary Process Termination via Vulnerable Driver: BYOVD | S12 - 0x12Dark Development | [Read More](https://medium.com/p/7451cd059a66) |
 | Sun, 01 Mar 2026 21:54:02 GMT | Enhancing Threat Detection and Incident Response with Big Data Analytics | Pasha | [Read More](https://medium.com/p/d22c56270390) |
@@ -110,7 +114,3 @@ I want to be upfront about something… | Travis Stein | [Read More](https://med
 | Sun, 01 Mar 2026 16:06:41 GMT | Secure Session Management in Spring Boot — Let’s Talk About It | Neha Pal | [Read More](https://medium.com/p/c971c5ee6ace) |
 | Sun, 01 Mar 2026 16:03:37 GMT | How to not accidentally shoot yourself in the foot with AI development | Patrick Collins | [Read More](https://medium.com/p/b5f529ca7823) |
 | Sun, 01 Mar 2026 15:56:45 GMT | AI Safety is No Longer Optional: Why 'SafeAIY' is the New Standard for Enterprise Branding | M Ibrahimhossainn | [Read More](https://medium.com/p/7b73db7651b5) |
-| Sun, 01 Mar 2026 15:46:31 GMT | Sherlock Holmes: The Case Of AI Brought Down Our Servers | programmerraja | [Read More](https://medium.com/p/e3d748912f96) |
-| Sun, 01 Mar 2026 15:42:18 GMT | AI Will Revolutionize Cybersecurity — Here’s Why | Lily C | [Read More](https://medium.com/p/a42fc7e1335a) |
-| Sun, 01 Mar 2026 15:41:05 GMT | Shop PicoCTF Reverse Engineering | Aun Raza | [Read More](https://medium.com/p/74585f341c07) |
-| Sun, 01 Mar 2026 15:27:51 GMT | The Anatomy of Cyber Attacks: The Cyber Kill Chain in 7 Stages | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/7274d45fc09f) |
