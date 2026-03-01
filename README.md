@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Mar 2026 09:31:00 GMT | Your Remote Workers Just Handed Hackers a Skeleton Key - And You Probably Don’t Know It | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/e50aa1b1b49a) |
+| Sun, 01 Mar 2026 09:30:57 GMT | Building a Free IP Reputation Enrichment Tool Using Python and Excel | Ashwanth saran JC | [Read More](https://medium.com/p/28a4f800740a) |
+| Sun, 01 Mar 2026 09:25:31 GMT | Try Hack Me- Hidden Deep Into My Heart Walkthrough | PulseEinher | [Read More](https://medium.com/p/e7e87e7080af) |
+| Sun, 01 Mar 2026 09:19:30 GMT | Deteriorating Global Security in Trump’s Era: Implications for Global Peace | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/510409bc0b13) |
+| Sun, 01 Mar 2026 09:01:00 GMT | What Fresh Stealer Logs Reveal That Old Breaches Can’t | Alexandre Vandamme | [Read More](https://medium.com/p/7ac7d59f7690) |
+| Sun, 01 Mar 2026 08:59:21 GMT | Rainbow Table Saldırısı Nedir? Şifreler Nasıl Önceden Hesaplanabilir? | Ali Yaşe | [Read More](https://medium.com/p/ad99ee14718e) |
+| Sun, 01 Mar 2026 08:53:55 GMT | An Information Security Job | Tooth Truth Roopa Vikesh | [Read More](https://medium.com/p/e09dd9d5b730) |
+| Sun, 01 Mar 2026 08:53:43 GMT | US-Israel Attack on Iran for Regime Change: Consequences for Regional Peace and Stability | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/2e1f95b88759) |
+| Sun, 01 Mar 2026 08:52:18 GMT | Brute Force Saldırısı Nedir? Gerçekten Şifreleri Kırabilir mi? | Ali Yaşe | [Read More](https://medium.com/p/55188fe00e4e) |
 | Sun, 01 Mar 2026 08:30:32 GMT | CVE-2026–23842 — My First CVE: Exploiting Connection Pool Exhaustion in a Popular Python Chatbot | Aditya Bhatt | [Read More](https://medium.com/p/1be9a736c697) |
 | Sun, 01 Mar 2026 08:16:00 GMT | Elastic Stack: The Basics — TryHackMe Walkthrough | Owais Ali Khan | [Read More](https://medium.com/p/e267ac275033) |
 | Sun, 01 Mar 2026 08:07:28 GMT | The OTP I Didn’t Ask For And the Design Lesson Hidden Inside It | Harshit K | [Read More](https://medium.com/p/09c869564df7) |
@@ -64,6 +73,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Mar 2026 04:01:00 GMT | “Hard Work Never Betrays Anyone” is the Biggest Lie We Tell Ourselves. | Pachpicha Pansuk | [Read More](https://medium.com/p/9e4b69dc3991) |
 | Sun, 01 Mar 2026 03:49:03 GMT | The Crossroads Ahead: AI, Time, and the Last Shared Language | Chier Hu | [Read More](https://medium.com/p/c213726c7b27) |
 | Sun, 01 Mar 2026 03:41:00 GMT | How to Protect Your Child’s Digital Footprint From Birth to College | Screen Less Play More | [Read More](https://medium.com/p/8d08a6faeb91) |
+| Sun, 01 Mar 2026 03:39:06 GMT | Ignorance by Design: Saat Ketidaktahuan Menjadi Bagian dari Rencana Institusi | yasismee | [Read More](https://medium.com/p/83413813220a) |
 | Sun, 01 Mar 2026 03:33:02 GMT | 3 Projects to Get You Into IT Security | Eric Smith | [Read More](https://medium.com/p/ef035cbafd2f) |
 | Sun, 01 Mar 2026 03:26:48 GMT | How You Can Increase Your IT Budget and Get Security Buy-In from Your Executive Team | Eric Smith | [Read More](https://medium.com/p/3c1859171d33) |
 | Sun, 01 Mar 2026 03:26:11 GMT | Singing Feels Like Freedom | Steve Longinidis | [Read More](https://medium.com/p/f443577e93c0) |
@@ -103,13 +113,3 @@ Working in law enforcement taught me something… | IBE KINGSLEY | [Read More](h
 | Sat, 28 Feb 2026 22:33:36 GMT | The Trends That Will Actually Matter in the Next Decade | The KPI Strikes Back | [Read More](https://medium.com/p/3e6f9851e036) |
 | Sat, 28 Feb 2026 22:25:17 GMT | Phishing Email and Suspicious URL investigation — A Documentation. | Joelovie | [Read More](https://medium.com/p/a3008b1bf954) |
 | Sat, 28 Feb 2026 22:24:50 GMT | Day 15: Let’s get back to enumeration (HTB Nmap room) pt.1 | Cybersecurity with Jojo | [Read More](https://medium.com/p/34e89dc7906d) |
-| Sat, 28 Feb 2026 22:17:26 GMT | The 6-Digit Death Trap: Why Your Phone’s 2FA Is Handing Hackers Your Life Savings | ProfitShield AI | [Read More](https://medium.com/p/3a1907fd894c) |
-| Sat, 28 Feb 2026 22:05:33 GMT | Passkeys WebAuthn Tutorial 2026: How to Kill Passwords in Your Next App | Tent Of Tech | [Read More](https://medium.com/p/cf2a72a75a54) |
-| Sat, 28 Feb 2026 22:02:57 GMT | Cross-Site Request Forgery (CSRF) Attack Lab: A Hands-On Journey Through Request Manipulation | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/892265859abb) |
-| Sat, 28 Feb 2026 21:47:16 GMT | La importancia del análisis técnico en la gestión de incidentes digitales | Héctor Soriano | [Read More](https://medium.com/p/dba9f06e5d72) |
-| Sat, 28 Feb 2026 21:44:04 GMT | The AI Observability Crisis No One Is Talking About | George William Amalan | [Read More](https://medium.com/p/f7531156acbd) |
-| Sat, 28 Feb 2026 21:43:48 GMT | From Fake Chrome to Shikata Shellcode: Rebuilding a Multi-Stage Infection Step by Step | Dhico satria | [Read More](https://medium.com/p/cc7486bbb298) |
-| Sat, 28 Feb 2026 21:39:48 GMT | Rancher Default Roles — The Hidden Path to Cluster Takeover | Sadi Zane | [Read More](https://medium.com/p/60b5d0632d8c) |
-| Sat, 28 Feb 2026 21:34:45 GMT | How I Saved $1 Million by Moving Load Balancing Off F5 - One Cluster at a Time | Pooja Chandolu | [Read More](https://medium.com/p/cdba2709bb70) |
-| Sat, 28 Feb 2026 21:30:28 GMT | I Tracked My Digital Footprint for 30 Days. Here’s What I Found and Why It Should Worry You | The SecOps Lead | [Read More](https://medium.com/p/9746cd106c09) |
-| Sat, 28 Feb 2026 21:12:01 GMT | Cámaras de Acero Inoxidable: Minería y Seguridad | GGroup & Co. | [Read More](https://medium.com/p/187442939e1b) |
