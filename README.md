@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Mar 2026 06:43:59 GMT | Building a Home SOC Lab: Practical Cybersecurity Experience | Rıza Korkusuz | [Read More](https://medium.com/p/cc433a754cec) |
+| Sun, 01 Mar 2026 06:40:11 GMT | No rate limit on forget/reset password leads to email triggering | Arif Hossain | [Read More](https://medium.com/p/d86285f1569d) |
+| Sun, 01 Mar 2026 06:31:52 GMT | Holi Special Discount on Career-Oriented Cybersecurity Course | cyber security Updates | [Read More](https://medium.com/p/d16f38fa34f7) |
+| Sun, 01 Mar 2026 06:23:22 GMT | Host Header Injection: The Quiet Vulnerability That Breaks Trust | Purushotham.R | [Read More](https://medium.com/p/aea3eb2cdb77) |
+| Sun, 01 Mar 2026 06:22:55 GMT | SAST vs DAST vs SCA — The Security Trio Every DevOps Engineer Must Understand | TechwidSush | [Read More](https://medium.com/p/a1c9b74b7936) |
+| Sun, 01 Mar 2026 06:01:23 GMT | Sometimes I Think It’s Just Scary to Open Up Like That | Pandu Rijal Pasa | [Read More](https://medium.com/p/94d335f2d138) |
+| Sun, 01 Mar 2026 05:58:44 GMT | “Stop Using Google for Recon. Seriously.” | Pushkar Padhye | [Read More](https://medium.com/p/f5ceea631ff8) |
+| Sun, 01 Mar 2026 05:55:10 GMT | Digital Drama: Why Small Online Actions Can Create Big Real-World Consequences | Swikritinarang | [Read More](https://medium.com/p/2399395e1767) |
+| Sun, 01 Mar 2026 05:49:08 GMT | CyberDefenders: WebStrike Lab | Rodrigo Lopez | [Read More](https://medium.com/p/f8a8cf64654b) |
+| Sun, 01 Mar 2026 05:46:41 GMT | The $25M Deepfake: When Successful Authentication Becomes the New Single Point of Failure | Ryu360 | [Read More](https://medium.com/p/bf50995d3648) |
 | Sun, 01 Mar 2026 05:42:43 GMT | Weekly Crypto & Web3 Safety Digest — CW09 2026 (5-Minute Edition) | 5-minute digital safety power-ups | [Read More](https://medium.com/p/07117b22d8bc) |
 | Sun, 01 Mar 2026 05:39:37 GMT | Bug Bounty Platforms: How to Choose the Right Programs (And Avoid Instant Rejection) | ghostyjoe | [Read More](https://medium.com/p/8c2b2c80c225) |
 | Sun, 01 Mar 2026 05:31:00 GMT | The Role of AI in Next-Gen SOC Operations | Cyber Aries | [Read More](https://medium.com/p/11d626f5d9ff) |
@@ -103,13 +113,3 @@ Working in law enforcement taught me something… | IBE KINGSLEY | [Read More](h
 | Sat, 28 Feb 2026 20:04:52 GMT | Flutter Secrets: Why SharedPreferences Will Betray You and How flutter_secure_storage Saves the Day | Harsh Kumar Khatri | [Read More](https://medium.com/p/78e42af2bfe9) |
 | Sat, 28 Feb 2026 19:59:27 GMT | The CVSS Illusion: Why Your Vulnerability Prioritization Strategy Is Probably Getting People Hacked | HRK | [Read More](https://medium.com/p/246e544d66ae) |
 | Sat, 28 Feb 2026 19:55:24 GMT | Designing a Zero-Trust Architecture for SaaS LLM Integrations | Kartikeya Mishra | [Read More](https://medium.com/p/d9d1b9f6d71a) |
-| Sat, 28 Feb 2026 19:53:23 GMT | Lookup writeup THM (español) | Us0lfr | [Read More](https://medium.com/p/ba0c07e74987) |
-| Sat, 28 Feb 2026 19:53:06 GMT | IoT Hacking: Your Smart Home is a Security Nightmare | Axoloth | [Read More](https://medium.com/p/639445fd6f0e) |
-| Sat, 28 Feb 2026 19:33:48 GMT | Microsoft SQL Server 2019 / 2022 Secure Deployment & Hardening Guide (CIS Benchmarks) | SOCFortress | [Read More](https://medium.com/p/70bf7ecb6700) |
-| Sat, 28 Feb 2026 19:24:16 GMT | Vulnerability, the thread by which we all hang? | Natasha Seagrove | [Read More](https://medium.com/p/e6244e56367f) |
-| Sat, 28 Feb 2026 19:18:20 GMT | Career Plot Twist (Featuring Lagos Buses) | ERIN-ORITSE | [Read More](https://medium.com/p/c151446f9f07) |
-| Sat, 28 Feb 2026 19:12:26 GMT | ⚠️ Supply Chain Cybersecurity: The Energy Industry’s Achilles Heel ⚡ | Shaam Farooq | [Read More](https://medium.com/p/521b033c7e02) |
-| Sat, 28 Feb 2026 19:04:04 GMT | Critical Web3 Vulnerability: Full Account Takeover via Arbitrary Internal Self-Calls in Smart… | Hacker MD | [Read More](https://medium.com/p/84a5646ba66b) |
-| Sat, 28 Feb 2026 19:01:00 GMT | Spyware Industry: The Zero-Click Empire | Jerry | [Read More](https://medium.com/p/a1deec54f2ea) |
-| Sat, 28 Feb 2026 18:56:00 GMT | EU GDPR — Article 25 (Data Protection by Design and by Default) | MDM Team | [Read More](https://medium.com/p/4a941045536f) |
-| Sat, 28 Feb 2026 18:51:15 GMT | Small Business Technology News: A ChatGPT Smart Speaker | Gene Marks | [Read More](https://medium.com/p/9c42226fe389) |
