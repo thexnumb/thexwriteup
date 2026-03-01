@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Mar 2026 15:27:51 GMT | The Anatomy of Cyber Attacks: The Cyber Kill Chain in 7 Stages | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/7274d45fc09f) |
+| Sun, 01 Mar 2026 15:27:46 GMT | What is the MITRE ATT&CK Framework? | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/4136a212800d) |
+| Sun, 01 Mar 2026 15:27:25 GMT | HackTheBox CTF: Memory Forensics | Santoshisamal | [Read More](https://medium.com/p/aa9fc032adf6) |
 | Sun, 01 Mar 2026 15:15:13 GMT | Day 11 — Extracting Data Without Seeing It (Boolean-Based Blind SQL Injection) | Issan | [Read More](https://medium.com/p/85419f828649) |
 | Sun, 01 Mar 2026 15:14:32 GMT | Cybersecurity Foundations Series-part 1 | Dushani Ekanayake | [Read More](https://medium.com/p/319eaf3dee90) |
 | Sun, 01 Mar 2026 15:13:07 GMT | F5 BIG-IP PROMO CODES @ UDEMY LATEST NEW | DeepDive4learn | [Read More](https://medium.com/p/6ce5140478cf) |
@@ -84,6 +87,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Mar 2026 10:01:00 GMT | Entry-Level Cybersecurity Roles: A Beginner’s Global Guide | Victoria Coker | [Read More](https://medium.com/p/aed205873412) |
 | Sun, 01 Mar 2026 09:58:51 GMT | TryHackMe — Blog Writeup | giorgi gochitidze | [Read More](https://medium.com/p/32eddd6a3558) |
 | Sun, 01 Mar 2026 09:57:30 GMT | Cisco Cybersecurity Module 1 (Part 4): Cyber Attackers and Types of Threats | Favour Ugochi Ogbonnaya | [Read More](https://medium.com/p/44b54cfe7bd2) |
+| Sun, 01 Mar 2026 09:56:45 GMT | HTB: Soulmate | bluesnow | [Read More](https://medium.com/p/450af1c0b5d6) |
 | Sun, 01 Mar 2026 09:48:32 GMT | Identifying Real-World Website Security Misconfigurations: A Practical Bug Hunter’s Guide | Shivam Kumar | [Read More](https://medium.com/p/d89ce96ee44e) |
 | Sun, 01 Mar 2026 09:44:53 GMT | When Citizens Die and the State Speaks in Metaphors: Woro and Nigeria’s Crisis of Governance | Abduljalil Hassan Muhammad | [Read More](https://medium.com/p/6a2de06450af) |
 | Sun, 01 Mar 2026 09:39:34 GMT | Quantum AI Part 2: The Master Key that Breaks Every Lock | Digital Jasoosi Kavach ️ | [Read More](https://medium.com/p/8d601472e5a1) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Mar 2026 07:58:59 GMT | Overhead Garage Door Sensor: A Small Upgrade That Makes Your Home Safer | Criminology Expert | [Read More](https://medium.com/p/43ab50388dd0) |
 | Sun, 01 Mar 2026 07:58:42 GMT | Differential Privacy — Stochastic Gradient Descent in Deep Learning: Implementing DP-SGD on… | Aditya Bhatt | [Read More](https://medium.com/p/658e52fe9121) |
 | Sun, 01 Mar 2026 07:48:48 GMT | What Is Cybersecurity? A Simple Guide to Understanding Digital Security Today | Antonyrajvedamanickam | [Read More](https://medium.com/p/be8da3cb7f85) |
-| Sun, 01 Mar 2026 07:47:08 GMT | Starting Over in Cybersecurity, One Vulnerability at a Time | Groovin' | [Read More](https://medium.com/p/aa4ae12823df) |
-| Sun, 01 Mar 2026 07:35:30 GMT | Shopify Account Takeover via Email Verification Bypass - Bug Bounty PoC $22,500 | NullSecurityX | [Read More](https://medium.com/p/2088b7d539d4) |
-| Sun, 01 Mar 2026 07:30:37 GMT | Stored xss exposed cookies via .svg in [ cisco] = P3 Bug → P1 bug | Sai Jayanth | [Read More](https://medium.com/p/d2f6c67265af) |
-| Sun, 01 Mar 2026 07:01:00 GMT | 7. Git Triggers and CI/CD Pipelines in Real Projects | Mangesh Muley | [Read More](https://medium.com/p/b6b1e56afdb4) |
