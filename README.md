@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 01 Mar 2026 02:24:31 GMT | WHY CYBER INSURANCE NEEDS CONTINUOUS RISK MONITORING, NOT ANNUAL ASSESSMENTS | Chetan Ratnawat | [Read More](https://medium.com/p/bec4bd88e6b9) |
+| Sun, 01 Mar 2026 02:13:37 GMT | تحليل سجلات المصادقة في لينكس من منظور محلل SOC | Ahmed Alwedyan | [Read More](https://medium.com/p/6ac6ea93d1b7) |
+| Sun, 01 Mar 2026 01:51:42 GMT | The 764 Network: Tactics, Targeting, And Trust Manipulation | Swati (The Cybergirl) Gupta | [Read More](https://medium.com/p/7df616b5f8d2) |
+| Sun, 01 Mar 2026 01:38:36 GMT | Goodbye Khamenei (It’s Hard to Die) | Andrew (אברהם נפתלי) Blumenthal | [Read More](https://medium.com/p/3eb760f9a523) |
+| Sun, 01 Mar 2026 01:36:06 GMT | MENGENAL BERITA, FEATURE, EDITORIAL, DAN OPINI PADA MEDIA MASSA BESERTA CONTOH ANALISISNYA | Lilis Nur Laela | [Read More](https://medium.com/p/93098eaea7e8) |
+| Sun, 01 Mar 2026 01:20:05 GMT | NETSEC THM- Writeup | Cybernerddd | [Read More](https://medium.com/p/e0ab047e6c93) |
+| Sun, 01 Mar 2026 01:05:44 GMT | AI: To Be or Not to Be — A Privacy Wake-Up Call | Bhavin Yadav | [Read More](https://medium.com/p/7d5cd0499cee) |
+| Sun, 01 Mar 2026 01:03:01 GMT | squ1d g4m3 — CyberTalents Web Challenge (Medium) | MS.Jix | [Read More](https://medium.com/p/dc354fd5a823) |
+| Sun, 01 Mar 2026 01:01:23 GMT | Securing AI Systems with IAM: Your First Line of Defense | Yashasvi Sharma | [Read More](https://medium.com/p/f1c1874226b2) |
+| Sun, 01 Mar 2026 01:01:01 GMT | Authentication vs Authorization Explained Clearly (With Real-World Examples) | Bhanu sai V | [Read More](https://medium.com/p/13bc779a1547) |
+| Sun, 01 Mar 2026 00:50:29 GMT | You’re gonna lose if you use AI and do not follow these simple rules | Andrii Shyshenko | [Read More](https://medium.com/p/efa0575d7d43) |
+| Sun, 01 Mar 2026 00:46:10 GMT | Hacked Through a Fish Tank: The Uncomfortable Truth About Modern Cybersecurity in 2026 | Talal Abbasi | [Read More](https://medium.com/p/ead27b450111) |
+| Sat, 28 Feb 2026 23:52:41 GMT | Bir Yönlendiricinin Sırrını Çalmak: TP-Link Firmware’ini Tersine Mühendislikle Analiz Etmek | Alirizagocer | [Read More](https://medium.com/p/a1981945974b) |
 | Sat, 28 Feb 2026 23:36:27 GMT | HackTheBox Blocky Writeup: From Source Code Credentials to Root | Onurcan Genç | [Read More](https://medium.com/p/90a703f552a6) |
 | Sat, 28 Feb 2026 23:35:39 GMT | Global Cyberwarfare Threat 2026: Defending Your Cloud Infrastructure During the Middle East… | Tent Of Tech | [Read More](https://medium.com/p/7adb1fd563b6) |
 | Sat, 28 Feb 2026 23:30:36 GMT | Cyber Security Offense and Defense Home Lab — Part 1 | Mahim Avi | [Read More](https://medium.com/p/8de597a3078a) |
@@ -100,16 +113,3 @@ Working in law enforcement taught me something… | IBE KINGSLEY | [Read More](h
 | Sat, 28 Feb 2026 16:13:45 GMT | Prompt Injection Is the New SQL Injection | Tara Prasad Routray | [Read More](https://medium.com/p/5510c32a5d06) |
 | Sat, 28 Feb 2026 16:11:55 GMT | A Critical IDOR Vulnerability That Allowed Deletion & Modification of (Any) User’s Address (Mass… | Mustafa Adam Gamaraldin Abdalla | [Read More](https://medium.com/p/8b79caf49ded) |
 | Sat, 28 Feb 2026 16:08:47 GMT | Erişim Kontrolü Modelleri: Gizlilikten Bütünlüğe Güvenliğin Temelleri | Cagatayonbasioglu | [Read More](https://medium.com/p/0d8ae7f9c4cf) |
-| Sat, 28 Feb 2026 16:03:10 GMT | MCP’s Dirty Secret: 43% of Servers Are Vulnerable — And Your AI Agent Might Be Next | Mritunjaypratapsinghh | [Read More](https://medium.com/p/65cf94744ae0) |
-| Sat, 28 Feb 2026 15:56:52 GMT | When Kinetic Conflict Escalates: Understanding the Cyber Dimension of U.S.-Iran Tensions | Deniz Topaloglu | [Read More](https://medium.com/p/b7fa9410b86f) |
-| Sat, 28 Feb 2026 15:49:09 GMT | The Blockchain That Gets Harder to Attack the More You Use It | Chuck Loon | [Read More](https://medium.com/p/6928915014ee) |
-| Sat, 28 Feb 2026 15:47:51 GMT | GoWebInfo — A Trusted IT and Digital Solution Company Helping Businesses Grow Online | Rukanshu Abrol | [Read More](https://medium.com/p/9c0b984080d1) |
-| Sat, 28 Feb 2026 15:35:58 GMT | Door Ringer: A Complete Guide to Choosing the Best Doorbell for Your Home | Healthyifyeva Taylor | [Read More](https://medium.com/p/cfb552406133) |
-| Sat, 28 Feb 2026 15:25:31 GMT | Advent Of The Relics 2 | Abdullah Fatih  Al Huda | [Read More](https://medium.com/p/eb01b4d3b6d8) |
-| Sat, 28 Feb 2026 15:23:05 GMT | OSINT + AI: The Ocean Beneath the Surface — A Deep Dive | Mahetagaurang | [Read More](https://medium.com/p/d81f45dee41b) |
-| Sat, 28 Feb 2026 15:21:28 GMT | Deus Ex Humana, Part 2: AI Safety, AI Job-loss, and Cyber MAD | Wanderer-in-the-Loop | [Read More](https://medium.com/p/f0ab444433c1) |
-| Sat, 28 Feb 2026 15:14:21 GMT | Why Modern UK Businesses Can’t Afford to Overlook Professional Security | Rapport Security | [Read More](https://medium.com/p/c672c265759a) |
-| Sat, 28 Feb 2026 15:09:44 GMT | HTB — AoTR : Operation Winter Blackout Write-Up | Annisa Eka Putri | [Read More](https://medium.com/p/42411a520013) |
-| Sat, 28 Feb 2026 15:07:13 GMT | Ready to Level Up Your Cybersecurity Career ? | Malik Rashid Ahmad | [Read More](https://medium.com/p/acc1a7fc6bf9) |
-| Sat, 28 Feb 2026 15:01:03 GMT | Anthropic Posted a Blog. IBM Shed $31 Billion. Then Cybersecurity Dropped Another $15 Billion. | Zoom In AI | [Read More](https://medium.com/p/e1c25ad09f91) |
-| Sat, 28 Feb 2026 15:01:00 GMT | The-Ultimate-Nuclei-Guide For Hackers In 2026:- | MainEkHacker | [Read More](https://medium.com/p/603d6aa2ad4d) |
