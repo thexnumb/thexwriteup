@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Mar 2026 15:58:58 GMT | Official Launch: CYBERDUDEBIVASH® CyberTwin v1.0 | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/d6ab6b56f15a) |
+| Mon, 02 Mar 2026 15:45:28 GMT | OpenClaw, ClaudeBot, and the Illusion of Control | Len Noe | [Read More](https://medium.com/p/553d26613909) |
+| Mon, 02 Mar 2026 15:44:31 GMT | Malware Analysis and Reverse Engineering Report: A Hands-On Journey Through Macro Malware… | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/eb95fde9f8de) |
+| Mon, 02 Mar 2026 15:38:40 GMT | I Stopped Sending My Data to AI Companies. Here’s What I Use Instead. | AIThinkerLab | [Read More](https://medium.com/p/1fd62ec4fbd9) |
+| Mon, 02 Mar 2026 15:32:20 GMT | Exploiting GraphQL: A Full-Spectrum Security Assessment Covering Introspection, Injection, and… | Kiza | [Read More](https://medium.com/p/560f49a44f36) |
+| Mon, 02 Mar 2026 15:31:01 GMT | Your AI Agents Are Burning Your Attestation Theater Down | Trinitite | [Read More](https://medium.com/p/ae5f3daeb2bf) |
+| Mon, 02 Mar 2026 15:26:14 GMT | More SQLi — picoCTF Writeup | mayhack | [Read More](https://medium.com/p/d04ff3728a8b) |
+| Mon, 02 Mar 2026 15:24:35 GMT | Lab: Reflected DOM XSS | mayhack | [Read More](https://medium.com/p/e39990824f57) |
+| Mon, 02 Mar 2026 15:16:33 GMT | How Japan’s Top Cybersecurity Threats for 2026 Reveal the Rise of AI Risks: A Threat Intelligence… | an7arc71ca | [Read More](https://medium.com/p/97a10332d577) |
+| Mon, 02 Mar 2026 15:16:07 GMT | Mastering Linux User & Group Management: Step-by-Step Guide for DevOps Beginners | AKUBUKO JAPHET UCHENNA | [Read More](https://medium.com/p/bb4adb202215) |
+| Mon, 02 Mar 2026 15:15:23 GMT | CySA+ Hands-On Lab — Metasploitable vs Windows XP 64 machine | Bob Malin | [Read More](https://medium.com/p/d7223cb5c680) |
+| Mon, 02 Mar 2026 15:15:13 GMT | Debunked: The 7 Biggest Misconceptions about AI Agents You Need to Ignore | Xaltius | [Read More](https://medium.com/p/90b9a89fd8b4) |
+| Mon, 02 Mar 2026 15:04:53 GMT | Thinking Shallow Will Kill Your Career in the AI Era | timepersonified | [Read More](https://medium.com/p/3ec7c7a74395) |
+| Mon, 02 Mar 2026 15:02:34 GMT | MalDev 101: Writing Your First Shellcode Runner in C | Keith Monroe | [Read More](https://medium.com/p/3bc861169796) |
+| Mon, 02 Mar 2026 15:02:03 GMT | Hackviser: SentryNode Write-ups | Written by k41r0s3 | [Read More](https://medium.com/p/e5372a2b3971) |
+| Mon, 02 Mar 2026 15:01:03 GMT | How to Write a Vulnerability Report That Gets Paid -Not Rejected | Hacker MD | [Read More](https://medium.com/p/77c2351134fa) |
 | Mon, 02 Mar 2026 14:56:20 GMT | Deploying Offline LLMs Safely: Technical, Ethical, and Operational Guidelines for Edge AI | Avelagalihemanth | [Read More](https://medium.com/p/29c9ae54d8e4) |
 | Mon, 02 Mar 2026 14:52:17 GMT | The Ultimate Unified CTI Platform: Integrating Local AI, Predictive Analytics, and Automated Threat… | Maneesha Dewmina | [Read More](https://medium.com/p/93d8cdd1c9c9) |
 | Mon, 02 Mar 2026 14:51:39 GMT | How a Missing Type Check Turned Into a Remote Node Crash ($100 Bounty) | Sumit Shah (HackSage) | [Read More](https://medium.com/p/ed8dcc29f123) |
@@ -96,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Mar 2026 10:35:59 GMT | The Biggest Lie in SME Cybersecurity: “We’re Too Small to Be a Target” | Gaurav Shukla | [Read More](https://medium.com/p/0853805be18b) |
 | Mon, 02 Mar 2026 10:27:05 GMT | Defense in Depth: The Bedrock of Modern Cybersecurity | Guillaume Forget | [Read More](https://medium.com/p/8b30315d8dc2) |
 | Mon, 02 Mar 2026 10:18:14 GMT | When Infrastructure Bleeds: Aadhaar, Debit Cards & the Fragility of Digital Trust | Vasant Bhadauria | [Read More](https://medium.com/p/c526d16b55e8) |
-| Mon, 02 Mar 2026 10:10:49 GMT | Password Cracking: Technical Analysis and Real-World Comparison of Three Major Attack Methods | VASANTH | [Read More](https://medium.com/p/b5099a667371) |
-| Mon, 02 Mar 2026 10:08:47 GMT | Security First MSP in London: Ensuring Data Safety | Proxar IT Consulting | [Read More](https://medium.com/p/8b73e5d8b937) |
-| Mon, 02 Mar 2026 10:04:41 GMT | PicoCTF-Forensics - Event-Viewing | M.Daffa Hakiki | [Read More](https://medium.com/p/238bf68945ec) |
-| Mon, 02 Mar 2026 10:04:03 GMT | Bảo Vệ Là Gì? Hiểu Đúng Vai Trò & Nhiệm Vụ | Bảo vệ Ngày & Đêm Tây Bắc SG | [Read More](https://medium.com/p/af1d3070f25b) |
-| Mon, 02 Mar 2026 10:01:11 GMT | Why Businesses Need Total Security Solutions and Advanced Electronic Security Solutions Today | Ciss India | [Read More](https://medium.com/p/e43eb9a45817) |
-| Mon, 02 Mar 2026 09:55:35 GMT | Why a Security First MSP in Dubai is Essential for Businesses | TechCloud IT Services L.L.C. | [Read More](https://medium.com/p/843869908f2d) |
-| Mon, 02 Mar 2026 09:52:42 GMT | Affordable Security Camera System Mumbai for Homes and Offices | Tanisha Singh | [Read More](https://medium.com/p/6ad294fb0538) |
-| Mon, 02 Mar 2026 09:50:12 GMT | “5 Most Common Configuration Mistakes Attacking Web Applications (According to OWASP)” | Habibi | [Read More](https://medium.com/p/76699b8f7007) |
-| Mon, 02 Mar 2026 09:46:43 GMT | Usage & Practical Concerns: What day-to-day security work actually feels like | Securedotcom | [Read More](https://medium.com/p/3d2927159ada) |
-| Mon, 02 Mar 2026 09:44:33 GMT | Operation Epic Fury, Anthropic’s Federal Ban, and Polymarket’s War Bets - The Daily Tech Digest: 02… | Souren Stepanyan | [Read More](https://medium.com/p/1ff26ee7eddc) |
-| Mon, 02 Mar 2026 09:35:34 GMT | Gerçek Hayatta En Büyük Veri Sızıntıları: Milyarlarca Kayıt Nasıl Açığa Çıktı? | Ali Yaşe | [Read More](https://medium.com/p/dd96f57024d7) |
-| Mon, 02 Mar 2026 09:31:46 GMT | Backup and Recovery | Order Software keys | [Read More](https://medium.com/p/d23425f74748) |
-| Mon, 02 Mar 2026 09:31:00 GMT | Multi-Factor Authentication (MFA) in a Microservices Architecture | Luca Parimbelli | [Read More](https://medium.com/p/163aa175737d) |
-| Mon, 02 Mar 2026 09:31:00 GMT | Simple CTF - TryHackMe Write-up | iIyas | [Read More](https://medium.com/p/34d67cce3770) |
-| Mon, 02 Mar 2026 09:30:33 GMT | FloraChain Privacy 
-Anchored by DarkHorse — | MetaFlora | [Read More](https://medium.com/p/734531d4ba76) |
-| Mon, 02 Mar 2026 09:27:56 GMT | Cybersecurity Experts for Construction Tech Growth | Job24by7 | [Read More](https://medium.com/p/c97c59fedbac) |
