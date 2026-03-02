@@ -12,6 +12,37 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Mar 2026 06:53:06 GMT | How CISOs Can Get Instant Answers to Cyber Risk Questions Using ZIN Advisor | Zeron | [Read More](https://medium.com/p/43ace68e3694) |
+| Mon, 02 Mar 2026 06:49:37 GMT | 7 Ways a Virtual Doorman Improves Building Security | Doris William | [Read More](https://medium.com/p/22ecac2e5063) |
+| Mon, 02 Mar 2026 06:48:53 GMT | Solving a Bugforge Daily Challenge (Feb 28) — Exploiting Hidden API Endpoint in Ottergram | Pranaya Shrestha | [Read More](https://medium.com/p/8bcb2dd30b92) |
+| Mon, 02 Mar 2026 06:45:14 GMT | HackTheBox — AoTR 1: A Call From the Museum | Riconatanael | [Read More](https://medium.com/p/f975d2f93d0b) |
+| Mon, 02 Mar 2026 06:45:11 GMT | Digital Shield Joins ChainInsight for Successful Conclusion of PickleBall & Play 2026 Social Party… | Digital Shield Offcial | [Read More](https://medium.com/p/9caa7a48a270) |
+| Mon, 02 Mar 2026 06:45:08 GMT | 7,000 Chrome Users Installed a “Google Lens” Extension — It Turned Into a Crypto-Stealing Malware | Subhan Ali | [Read More](https://medium.com/p/392421a0682a) |
+| Mon, 02 Mar 2026 06:43:42 GMT | Some threats for hacking the password | Muniyappan P | [Read More](https://medium.com/p/b07e10008c7f) |
+| Mon, 02 Mar 2026 06:40:41 GMT | Bitlocker-2 picoCTF by Robbin_lev | Robbin_lev | [Read More](https://medium.com/p/4c3c99024753) |
+| Mon, 02 Mar 2026 06:39:52 GMT | What a U.S./Israel — Iran Escalation Means for Your Financial Assets? | Sannia Abdullah Close | [Read More](https://medium.com/p/2ba38e689b6e) |
+| Mon, 02 Mar 2026 06:37:45 GMT | Day 12 — Making the Database Sleep (Time-Based Blind SQL Injection) | Issan | [Read More](https://medium.com/p/e13b0f36983b) |
+| Mon, 02 Mar 2026 06:35:46 GMT | Joseph Lamar Simmons describes Cyber defense strategies on safety | Joseph Lamar Simmons | [Read More](https://medium.com/p/ec4bf37d79fb) |
+| Mon, 02 Mar 2026 06:35:11 GMT | I Found 5 Python Security Holes in My AI App (And How I Fixed Them) | inprogrammer | [Read More](https://medium.com/p/4366d9af1bf3) |
+| Mon, 02 Mar 2026 06:33:00 GMT | Blue Teaming Helps in Detection, Response, and Fatigue | Gautam kumar | [Read More](https://medium.com/p/46a6cb44689b) |
+| Mon, 02 Mar 2026 06:31:05 GMT | Exhaustibility is not an enhancement. It is a first-class invariant. | Paul Knowles | [Read More](https://medium.com/p/c3a19008077e) |
+| Mon, 02 Mar 2026 06:23:33 GMT | Could World War III Be a Cyber War? | Sana Hussain | [Read More](https://medium.com/p/421bb4a44d96) |
+| Mon, 02 Mar 2026 06:20:25 GMT | Smarter IT. Stronger Security. Confident Growth. | ShopAustralia | [Read More](https://medium.com/p/024272b793c3) |
+| Mon, 02 Mar 2026 06:15:18 GMT | Autonomous SOCs Start with Next-Gen SIEM | NetWitness | [Read More](https://medium.com/p/0cca9c212bce) |
+| Mon, 02 Mar 2026 06:13:53 GMT | Digital Shield Joins ChainInsight for Successful Conclusion of PickleBall & Play 2026 Social Party… | Digital Shield | [Read More](https://medium.com/p/739166eb3821) |
+| Mon, 02 Mar 2026 06:09:08 GMT | Technology Excellence and Customer Impact in Digital Threat Intelligence Management | Gauri Kale | [Read More](https://medium.com/p/40f90087b780) |
+| Mon, 02 Mar 2026 06:07:33 GMT | How Banking Apps Prevent Certificate Outages with Triple Pinning | MdNiks | [Read More](https://medium.com/p/d2214f3661d5) |
+| Mon, 02 Mar 2026 06:02:41 GMT | Breaking Authentication — Part 5 | ghostyjoe | [Read More](https://medium.com/p/5ce8d4b7aa74) |
+| Mon, 02 Mar 2026 06:02:06 GMT | A Hacker Used Claude to Steal 195 Million Government Records | Usman Writes | [Read More](https://medium.com/p/fd09c4a3becd) |
+| Mon, 02 Mar 2026 06:01:01 GMT | Thinking Like an Attacker: How API Pen-Testers Identify IDOR Vulnerabilities | Odunlade Adeola | [Read More](https://medium.com/p/e57719de5a88) |
+| Mon, 02 Mar 2026 06:01:00 GMT | Telefonun Ötesinde: “Kendi Nesneni Getir” (BYOT) Çağında Kurumsal Güvenliği Sağlamak | Kartaca | [Read More](https://medium.com/p/29778582c0fa) |
+| Mon, 02 Mar 2026 05:59:34 GMT | Make safer endpoints by simulating bruteforce attack! | Jeff Nasseri | [Read More](https://medium.com/p/dcf29267afa8) |
+| Mon, 02 Mar 2026 05:54:11 GMT | Behind the Login Button: How Websites Remember You | Gyaneshchand | [Read More](https://medium.com/p/00cbe0933123) |
+| Mon, 02 Mar 2026 05:43:00 GMT | 5 Chrome Extensions That Save Me $50 a Month (The Automation Audit) | Echoed Thoughts | [Read More](https://medium.com/p/e00848039ec0) |
+| Mon, 02 Mar 2026 05:36:41 GMT | Using Fleak.ai for Security Log Data Normalisation | Francis Dong | [Read More](https://medium.com/p/422655ec3364) |
+| Mon, 02 Mar 2026 05:34:54 GMT | AMC (Annual Maintenance Contract): The Silent Backbone of Reliable IT | Zefai Insights | [Read More](https://medium.com/p/48a10875c607) |
+| Mon, 02 Mar 2026 05:34:43 GMT | GraphQL API Security: Common Vulnerabilities and Exploits | Cynox Security LLP. | [Read More](https://medium.com/p/8efa8e463657) |
+| Mon, 02 Mar 2026 05:33:44 GMT | Is Anthropic Killing the IT Industry? Or Are We Just Panicking Again? | Mobile Application Developer - Vaidhik | [Read More](https://medium.com/p/db4660951c3f) |
 | Mon, 02 Mar 2026 05:24:52 GMT | Executive Protection in Baltimore: How Business Leaders Stay Safe at Public Appearances | Jeremysjackson | [Read More](https://medium.com/p/13f6dcb4d45e) |
 | Mon, 02 Mar 2026 05:24:24 GMT | CyberDefenders — WebStrike Lab (CTF Challenge) | Riconatanael | [Read More](https://medium.com/p/2d1db7cae3e4) |
 | Mon, 02 Mar 2026 05:17:50 GMT | Day 3: Adversarial Attacks in Depth: FGSM, PGD, C&W, and Why the Obvious Defenses Fail | Budhdi Sharma | [Read More](https://medium.com/p/89b01c8fa123) |
@@ -81,36 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 01 Mar 2026 21:51:00 GMT | The Transparency Trap | Gabriel Mahia | [Read More](https://medium.com/p/96f931d44923) |
 | Sun, 01 Mar 2026 21:50:37 GMT | From Learning APIs to Protecting Systems: My API Security Journey | Joyatee Datta | [Read More](https://medium.com/p/671d0f263284) |
 | Sun, 01 Mar 2026 21:49:24 GMT | You Have to Design for Copilot Agent Mode and it’s Risks | number40 | [Read More](https://medium.com/p/b3fcc63b2b48) |
-| Sun, 01 Mar 2026 21:39:43 GMT | How I Cracked Linux Chrome’s Password Encryption | Lembou pharel | [Read More](https://medium.com/p/497053843064) |
-| Sun, 01 Mar 2026 21:29:13 GMT | I’m Sick Of AI, and Other Cybersecurity Stories | Helen Patton | [Read More](https://medium.com/p/0cf723cf60d8) |
-| Sun, 01 Mar 2026 21:19:27 GMT | The Inevitable Evolution of the Software Engineer: From Writing Code to Orchestrating Systems | Carlos Anaya Ruiz | [Read More](https://medium.com/p/08d6487bdc63) |
-| Sun, 01 Mar 2026 21:16:28 GMT | I set up my resume on the deep web as a cyber threat intelligence project | Gabriel Pires | [Read More](https://medium.com/p/4cd98f03f894) |
-| Sun, 01 Mar 2026 21:09:28 GMT | Try Hack Me- Sustah CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/355786f36d13) |
-| Sun, 01 Mar 2026 21:05:13 GMT | From Help Desk to Security Engineer: The Honest Version
-I want to be upfront about something… | Travis Stein | [Read More](https://medium.com/p/39641ef00139) |
-| Sun, 01 Mar 2026 20:59:16 GMT | Siber Tehdit İstihbaratı Nedir ve Neden Önemlidir? | Eray Atalay | [Read More](https://medium.com/p/ec7be41e2608) |
-| Sun, 01 Mar 2026 20:52:03 GMT | The Trust Token Factory | Dr Shaun Conway | [Read More](https://medium.com/p/df691458e9e7) |
-| Sun, 01 Mar 2026 20:51:38 GMT | Best Free VPN for PC in 2026: Stay Safe Online Without the Subscription | GAMER MONE | [Read More](https://medium.com/p/e21c67217093) |
-| Sun, 01 Mar 2026 20:51:29 GMT | The Anatomy of an Insecure Web App: Lessons from a Penetration Test | Joseph Oxan | [Read More](https://medium.com/p/7560b4e2a8b6) |
-| Sun, 01 Mar 2026 20:51:00 GMT | Breaking Into IT — The Real Truth | SlingshotIntoIT | [Read More](https://medium.com/p/19753d9c470f) |
-| Sun, 01 Mar 2026 20:40:43 GMT | Can Moments Dissolve the Salt Between Us? | Author Black Phoenix | [Read More](https://medium.com/p/69b6d57f4500) |
-| Sun, 01 Mar 2026 20:37:14 GMT | My Week 3 Takeaways from “Begin Ethical Hacking with Python” by Sanjib Sinha(Part III) | Kalkidan | [Read More](https://medium.com/p/8f2f9a807314) |
-| Sun, 01 Mar 2026 20:36:40 GMT | mTLS and TLS Explained: The Mental Model Nobody Gave You | Arslan Ahmed Arif | [Read More](https://medium.com/p/d6b259989cbe) |
-| Sun, 01 Mar 2026 20:21:46 GMT | Learning how real attacks start with misconfigurations, not exploits | Yağız Kırnapcı | [Read More](https://medium.com/p/39b20ef68439) |
-| Sun, 01 Mar 2026 20:19:23 GMT | From Drupal RCE to Root: DC-1 Walkthrough (Vulnhub) | Satyamsatyarthi | [Read More](https://medium.com/p/8e4c3abed6b4) |
-| Sun, 01 Mar 2026 20:13:19 GMT | ZICO 2: 1 — OSCP Raw - NullyBlissful | NullyBlissful | [Read More](https://medium.com/p/b889ebef5a15) |
-| Sun, 01 Mar 2026 20:13:05 GMT | Security Analysis with Mistral Devstral | jon allen | [Read More](https://medium.com/p/4090c4aa688d) |
-| Sun, 01 Mar 2026 19:58:11 GMT | Poster Postgres RDBMS (THM) Tryhackme WriteUp Answer | Lawvye | [Read More](https://medium.com/p/33e203ac69ec) |
-| Sun, 01 Mar 2026 19:57:06 GMT | Zero-Knowledge Is Not a Feature. It’s a Survival Strategy. | Afina Browser | [Read More](https://medium.com/p/e79051d074c0) |
-| Sun, 01 Mar 2026 19:56:09 GMT | Wanna Start Linux Command Line? Here’s the secret! | Soumyadip Manna | [Read More](https://medium.com/p/9c4544a3abda) |
-| Sun, 01 Mar 2026 19:54:13 GMT | The Linux Security Journey — FFS (Forward Secure sealing) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/3225958948a9) |
-| Sun, 01 Mar 2026 19:52:29 GMT | From Help Desk to Security Engineer: The Honest Version
-I want to be upfront about something… | Travis Stein | [Read More](https://medium.com/p/8511c41f584b) |
-| Sun, 01 Mar 2026 19:51:00 GMT | Machines of Loving Grace, The Adolescence of Technology, and the Moment Execution Became the… | Jonathan Capriola | [Read More](https://medium.com/p/7b7c28209c1c) |
-| Sun, 01 Mar 2026 19:40:23 GMT | AI in Cyber Defense Is No Longer Optional — It Is Operationally Necessary | Manjunatha B M | [Read More](https://medium.com/p/a48448a3064e) |
-| Sun, 01 Mar 2026 19:36:21 GMT | How Multi-Property Hotels Should Manage DNR Lists | Innstrata | [Read More](https://medium.com/p/180c676367fd) |
-| Sun, 01 Mar 2026 19:34:21 GMT | The Butchers Of Jahi In A Billion-Dollar Lie | O. J. Okpabi | [Read More](https://medium.com/p/08cd8a96ba28) |
-| Sun, 01 Mar 2026 19:29:56 GMT | Exposed Google Cloud API Keys Are Getting a Gateway to Gemini and Sensitive Data | Hacker's Den | [Read More](https://medium.com/p/075e088985de) |
-| Sun, 01 Mar 2026 19:29:10 GMT | The AlphaGo Moment for NPCs Happened in 2023 and Everyone Laughed | Berend Watchus | [Read More](https://medium.com/p/38f0e1da0d80) |
-| Sun, 01 Mar 2026 19:15:01 GMT | Beginner-Friendly Cybersecurity Writeups & CTF Guides | xFr0ggy | [Read More](https://medium.com/p/afccc5ae2f25) |
-| Sun, 01 Mar 2026 19:12:44 GMT | When AI Becomes an Attack Surface for Medical Decision Manipulation | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/d49833d0ac00) |
