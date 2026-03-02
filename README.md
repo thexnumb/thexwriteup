@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Mar 2026 04:23:35 GMT | picoCTF Challenges & HTB Brutus | Jason Utama | [Read More](https://medium.com/p/23bfc09ddf23) |
+| Mon, 02 Mar 2026 04:16:43 GMT | How Race condition leading to business logic flaws affecting | Mesalam_17 | [Read More](https://medium.com/p/945f6949539f) |
+| Mon, 02 Mar 2026 04:02:23 GMT | Would You Still Stay Knowing Me More? | awnu | [Read More](https://medium.com/p/b7d854d3ee51) |
+| Mon, 02 Mar 2026 03:56:52 GMT | How I Found a Broken Object Level Authorization (BOLA) in a Real Production App | 77r4sed | [Read More](https://medium.com/p/808a12aac664) |
+| Mon, 02 Mar 2026 03:22:21 GMT | Event-Viewing — PicoCTF | Najafghifari | [Read More](https://medium.com/p/d8ba5783b38c) |
+| Mon, 02 Mar 2026 03:17:41 GMT | Career Pivot or Environment Shift? | Cheryl Clark | [Read More](https://medium.com/p/2c7c3da6b1af) |
+| Mon, 02 Mar 2026 03:14:41 GMT | Cybersecurity and AI: Will Humans Be Replaced? | Antonyrajvedamanickam | [Read More](https://medium.com/p/6e48952dcd8e) |
+| Mon, 02 Mar 2026 03:13:50 GMT | Breaking Down cross-site scripting (XSS) part 2- Walkthrough via PortSwigger | Hammam Awis Zukimi | [Read More](https://medium.com/p/22ba857de028) |
+| Mon, 02 Mar 2026 03:10:44 GMT | researching how we research is also HCI | seal(theo)ry | [Read More](https://medium.com/p/38e94bbeb3e3) |
+| Mon, 02 Mar 2026 03:10:03 GMT | LLMs Are Non-Deterministic. Your Security Pipeline Shouldn’t Be. | Jeremyah Joel | [Read More](https://medium.com/p/8e5185922e13) |
+| Mon, 02 Mar 2026 02:52:06 GMT | IMDSv1 Lab-Cyberdefenders | Areeya B. | [Read More](https://medium.com/p/f36d38cfbab5) |
+| Mon, 02 Mar 2026 02:51:35 GMT | Cybersecurity Is Not Just VAPT: Understanding the Real Security Landscape | Pronay Biswas | [Read More](https://medium.com/p/9881ae74bfd1) |
+| Mon, 02 Mar 2026 02:47:51 GMT | I Thought I Outsmarted Hackers With Double Hashing. | Shadhujan Jeyachandran | [Read More](https://medium.com/p/61d3f8154595) |
+| Mon, 02 Mar 2026 02:44:35 GMT | Seriously? What’s So Hard About Authentication? | Anton Minin Baranovskii | [Read More](https://medium.com/p/dab75adc634a) |
+| Mon, 02 Mar 2026 02:40:12 GMT | What Is Burp Suite? | Yamini Yadav_369 | [Read More](https://medium.com/p/c5f98d045bde) |
 | Mon, 02 Mar 2026 02:15:36 GMT | An AI Agent Just Talked Its Way Into Your Software Supply Chain. Nobody Noticed. | AstraSync AI | [Read More](https://medium.com/p/435a1149f79b) |
 | Mon, 02 Mar 2026 02:14:54 GMT | 18 Ways to Root a Linux Box; TryHackMe Linux PrivEsc Walkthrough | Robert Perez | [Read More](https://medium.com/p/68dd90e18b24) |
 | Mon, 02 Mar 2026 02:08:02 GMT | New Gmail Account Attack Warning Hackers Abuse Critical Security Check | Moni | [Read More](https://medium.com/p/e887d13b4f50) |
@@ -99,18 +114,3 @@ I want to be upfront about something… | Travis Stein | [Read More](https://med
 | Sun, 01 Mar 2026 18:20:04 GMT | Simple Hack-The-Box Security Architecture Takeaways (Part 1) | Joshua Goossen | [Read More](https://medium.com/p/9c08881bb466) |
 | Sun, 01 Mar 2026 18:18:58 GMT | 3 U.S. Cybersecurity Apprenticeship Paths That Actually Work | Cyber Lee | [Read More](https://medium.com/p/195d95a37de0) |
 | Sun, 01 Mar 2026 18:18:07 GMT | CRA Product Classification: Is Your Product Default, Important, or Critical? | CRA Decoded | [Read More](https://medium.com/p/7c59a9ed1bcf) |
-| Sun, 01 Mar 2026 18:16:57 GMT | 用音樂會來理解 .NET Host Service | 思維舞步 MindSteps | [Read More](https://medium.com/p/c4d747db03bd) |
-| Sun, 01 Mar 2026 18:16:52 GMT | Backend Mastery: The Real Bug Bounty Superpower (2026 Guide) | Md Tanjimul Islam Sifat | [Read More](https://medium.com/p/0141f8e271de) |
-| Sun, 01 Mar 2026 18:15:39 GMT | The Most Dangerous Lie We Tell Starts with “I Feel…” | Thats Eli | [Read More](https://medium.com/p/12da16ae9146) |
-| Sun, 01 Mar 2026 18:09:28 GMT | Title: The Boy Who Wanted to Be Enough | Dickran Guerguerian | [Read More](https://medium.com/p/64d1f76279cf) |
-| Sun, 01 Mar 2026 18:04:32 GMT | The Edge AI Paradox: Why “Privacy-First” Devices Are a Hacker’s Best Friend | Jose Baena Cobos | [Read More](https://medium.com/p/383977d55c21) |
-| Sun, 01 Mar 2026 18:01:02 GMT | Anglerphish | George Petropoulos | [Read More](https://medium.com/p/6dc3e5520242) |
-| Sun, 01 Mar 2026 18:00:40 GMT | What Is Cybersecurity? The Complete 2026 Guide to Digital Protection | Sam Walker | [Read More](https://medium.com/p/1d6c2ead4494) |
-| Sun, 01 Mar 2026 17:45:54 GMT | The Boundary of Isolation: Why Sandboxes Don’t Separate — They Trigger Cascades | Michael Kraft | [Read More](https://medium.com/p/e30c20234b39) |
-| Sun, 01 Mar 2026 17:44:53 GMT | A Practical Guide to Finding Broken Access Control (BAC) | NullSec | [Read More](https://medium.com/p/c1be9f23dc24) |
-| Sun, 01 Mar 2026 17:37:04 GMT | Running Multiple Bug Bounty Targets at the Same Time — Is It Legal? | ghostyjoe | [Read More](https://medium.com/p/f5978de6f9be) |
-| Sun, 01 Mar 2026 17:29:55 GMT | Certified THM SEC1 with the (almost) chaos | Chananya Choosak | [Read More](https://medium.com/p/bf7341842c5e) |
-| Sun, 01 Mar 2026 17:15:20 GMT | Dc4 Write-up | Tugrulakagunduz | [Read More](https://medium.com/p/ce4b3b24558a) |
-| Sun, 01 Mar 2026 17:14:43 GMT | RootMe — TryHackMe Walkthrough - Complete Beginner-Friendly Write-Up | Sneha | [Read More](https://medium.com/p/7b94e5ec191d) |
-| Sun, 01 Mar 2026 17:13:45 GMT | CyberTalents: Strength Calculator WEB CTF | MS.Jix | [Read More](https://medium.com/p/3ba669c3a081) |
-| Sun, 01 Mar 2026 17:09:41 GMT | Why Has It Become So Hard to Build Real Bonds in a Digital World? | cernartiste | [Read More](https://medium.com/p/25d48784f39c) |
