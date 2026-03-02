@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Mar 2026 11:33:35 GMT | TryHackMe: Easy Peasy Walkthrough (Spoiler: The name is a trap!) | VxOM | [Read More](https://medium.com/p/d859719b4241) |
+| Mon, 02 Mar 2026 11:31:48 GMT | Beyond the Cipher: Breaking Client-Side Encryption and Uncovering Systemic API Failures | HR | [Read More](https://medium.com/p/790bd22d6a7c) |
+| Mon, 02 Mar 2026 11:31:00 GMT | Interim CISO Services: Build a Security Program Quickly (Without Creating Chaos) | Tyson Martin | [Read More](https://medium.com/p/43d5dc1a5f39) |
+| Mon, 02 Mar 2026 11:29:23 GMT | ️ The Tale of Alerts: True or False in Cybersecurity | Latha | [Read More](https://medium.com/p/4778909d7d45) |
+| Mon, 02 Mar 2026 11:26:21 GMT | The Silent Hijack: How GGUF Chat Templates Create Hidden AI Backdoors | Alessandro Pignati | [Read More](https://medium.com/p/a58ce1a6371d) |
+| Mon, 02 Mar 2026 11:21:53 GMT | How I Found a Critical PII Leak in a Public API - Cyber Tamarin | Cyber Tamarin | [Read More](https://medium.com/p/c48230542ec4) |
+| Mon, 02 Mar 2026 11:19:08 GMT | Network Micro-segmentation in short: A weapon against lateral movement | Aanshsavla | [Read More](https://medium.com/p/f4697dd8824d) |
+| Mon, 02 Mar 2026 11:16:00 GMT | Decision Latency in Strategy Execution. The Silent Killer of “Good Strategy” | Tyson Martin | [Read More](https://medium.com/p/21f640c30b91) |
+| Mon, 02 Mar 2026 11:13:42 GMT | Top 10 IT Companies in Pune Hiring Now—Salaries, Roles & Growth Guide | Vivek Esseindia | [Read More](https://medium.com/p/87253e1ae017) |
+| Mon, 02 Mar 2026 11:09:02 GMT | Your MFA Didn’t Fail — It Was Bypassed | Cyber Safety Zone | [Read More](https://medium.com/p/675ea9e151da) |
 | Mon, 02 Mar 2026 11:05:14 GMT | How the Best DevSecOps Companies Reduce Breaches by 70% | Devseccopsai | [Read More](https://medium.com/p/307b7ced6ab5) |
+| Mon, 02 Mar 2026 11:03:04 GMT | I Built 3 Python Scripts That Automatically Audit My AI App’s Security | inprogrammer | [Read More](https://medium.com/p/cc70ac87ad2d) |
 | Mon, 02 Mar 2026 10:55:33 GMT | Dubai & UAE on March 2, 2026 — A Nation Navigates Uncertainty Amid Regional Conflict | Justblogo | [Read More](https://medium.com/p/648ef6468b7c) |
 | Mon, 02 Mar 2026 10:55:19 GMT | • How Computers Actually Work (Simple & Detailed Explanation) | Aariz Khan | [Read More](https://medium.com/p/c1395c14da6a) |
 | Mon, 02 Mar 2026 10:51:58 GMT | How I Found Yet Another Misconfiguration on This College Site | Md Tanjimul Islam Sifat | [Read More](https://medium.com/p/e92925c6cb47) |
@@ -102,14 +113,3 @@ Anchored by DarkHorse — | MetaFlora | [Read More](https://medium.com/p/734531d
 | Mon, 02 Mar 2026 06:39:52 GMT | What a U.S./Israel — Iran Escalation Means for Your Financial Assets? | Sannia Abdullah Close | [Read More](https://medium.com/p/2ba38e689b6e) |
 | Mon, 02 Mar 2026 06:37:45 GMT | Day 12 — Making the Database Sleep (Time-Based Blind SQL Injection) | Issan | [Read More](https://medium.com/p/e13b0f36983b) |
 | Mon, 02 Mar 2026 06:35:46 GMT | Joseph Lamar Simmons describes Cyber defense strategies on safety | Joseph Lamar Simmons | [Read More](https://medium.com/p/ec4bf37d79fb) |
-| Mon, 02 Mar 2026 06:35:11 GMT | I Found 5 Python Security Holes in My AI App (And How I Fixed Them) | inprogrammer | [Read More](https://medium.com/p/4366d9af1bf3) |
-| Mon, 02 Mar 2026 06:33:00 GMT | Blue Teaming Helps in Detection, Response, and Fatigue | Gautam kumar | [Read More](https://medium.com/p/46a6cb44689b) |
-| Mon, 02 Mar 2026 06:31:05 GMT | Exhaustibility is not an enhancement. It is a first-class invariant. | Paul Knowles | [Read More](https://medium.com/p/c3a19008077e) |
-| Mon, 02 Mar 2026 06:23:33 GMT | Could World War III Be a Cyber War? | Sana Hussain | [Read More](https://medium.com/p/421bb4a44d96) |
-| Mon, 02 Mar 2026 06:20:25 GMT | Smarter IT. Stronger Security. Confident Growth. | ShopAustralia | [Read More](https://medium.com/p/024272b793c3) |
-| Mon, 02 Mar 2026 06:15:18 GMT | Autonomous SOCs Start with Next-Gen SIEM | NetWitness | [Read More](https://medium.com/p/0cca9c212bce) |
-| Mon, 02 Mar 2026 06:13:53 GMT | Digital Shield Joins ChainInsight for Successful Conclusion of PickleBall & Play 2026 Social Party… | Digital Shield | [Read More](https://medium.com/p/739166eb3821) |
-| Mon, 02 Mar 2026 06:09:08 GMT | Technology Excellence and Customer Impact in Digital Threat Intelligence Management | Gauri Kale | [Read More](https://medium.com/p/40f90087b780) |
-| Mon, 02 Mar 2026 06:07:33 GMT | How Banking Apps Prevent Certificate Outages with Triple Pinning | MdNiks | [Read More](https://medium.com/p/d2214f3661d5) |
-| Mon, 02 Mar 2026 06:02:41 GMT | Breaking Authentication — Part 5 | ghostyjoe | [Read More](https://medium.com/p/5ce8d4b7aa74) |
-| Mon, 02 Mar 2026 06:02:06 GMT | A Hacker Used Claude to Steal 195 Million Government Records | Usman Writes | [Read More](https://medium.com/p/fd09c4a3becd) |
