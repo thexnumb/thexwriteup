@@ -12,9 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Mar 2026 19:35:14 GMT | Bug Bounty Cheatsheet Worth 7890$ | Anonymous Traiger | [Read More](https://medium.com/p/fa163d281067) |
+| Mon, 02 Mar 2026 19:34:32 GMT | You Don’t Get TLS | Atishay Jain | [Read More](https://medium.com/p/b154fe792c62) |
+| Mon, 02 Mar 2026 19:33:11 GMT | ️When Your Data Disappears: How Active Data Studio Helps | Anjani Patel | [Read More](https://medium.com/p/7ec907471cf6) |
+| Mon, 02 Mar 2026 19:30:22 GMT | Detecting Jailbroken iPhones in Production Apps Without Private APIs | Sunil Gandham | [Read More](https://medium.com/p/7df119405d1b) |
+| Mon, 02 Mar 2026 19:30:12 GMT | The False Promise of Multi Login Isolation: An Architectural “Identity Bridge” in Google’s… | Jawad Momani | [Read More](https://medium.com/p/080d8db462d4) |
+| Mon, 02 Mar 2026 19:16:57 GMT | Observations from recent alerts: Part 2 | Hariharan | [Read More](https://medium.com/p/fbfafa3d4dbb) |
+| Mon, 02 Mar 2026 19:11:06 GMT | Understanding Haystak Dark Web Search and How It Indexes Onion Sites | Tor BBB | [Read More](https://medium.com/p/23527262459f) |
 | Mon, 02 Mar 2026 19:05:21 GMT | Why API Penetration Testing Is Different from Web Application Testing | Iseoluwa Ogunnaike | [Read More](https://medium.com/p/475dee9f6440) |
+| Mon, 02 Mar 2026 19:04:21 GMT | How Attackers Move Laterally Without Triggering Alerts | JSOC IT BLOG | [Read More](https://medium.com/p/260f328d787b) |
 | Mon, 02 Mar 2026 19:02:39 GMT | NIST AI RMF: Implementation Guide | Ashish Bansal | [Read More](https://medium.com/p/ace431b78729) |
 | Mon, 02 Mar 2026 19:01:11 GMT | Cloud Security in the Digital Era | alinamon | [Read More](https://medium.com/p/db46c58ab4c5) |
+| Mon, 02 Mar 2026 19:01:00 GMT | Amos Stealer “malext” variant spread in a global malvertising campaign using free text-sharing… | Gi7w0rm | [Read More](https://medium.com/p/4d240e11d7e2) |
 | Mon, 02 Mar 2026 19:00:59 GMT | PHPUnit: Cuando tu framework de pruebas se convierte en una puerta trasera ( CVE-2026–24765) | C37webak1ix | [Read More](https://medium.com/p/ca614722e6b9) |
 | Mon, 02 Mar 2026 18:39:03 GMT | AOV Solar Cameras: How Always-On Video Eliminates Security Blind Spots | Samkon Lee | [Read More](https://medium.com/p/bfa1c0db0752) |
 | Mon, 02 Mar 2026 18:35:18 GMT | date spot - CTF_writeup-EHAX CTF2026 | wal-z1 | [Read More](https://medium.com/p/059411e57b4f) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Mar 2026 13:36:40 GMT | Beginner’s Guide to Setting Up OpenVAS (GVM) on Kali Linux) | Priyanka Behera | [Read More](https://medium.com/p/753aba86e185) |
 | Mon, 02 Mar 2026 13:34:47 GMT | “Missile attacks and air defenses activating” | Adam Cark | [Read More](https://medium.com/p/e089f6eb4aa0) |
 | Mon, 02 Mar 2026 13:31:52 GMT | From Recon to Exploitation: How Attackers Discover, Exploit, and Chain Web App Vulnerabilities —… | Aanchal Singh Rajawat | [Read More](https://medium.com/p/79acf227650b) |
-| Mon, 02 Mar 2026 13:31:00 GMT | BRUTE FORCE DETECTION WITH PYTHON: Log Analysis and Security Automation | dilan alpaltun | [Read More](https://medium.com/p/b58207a260c2) |
-| Mon, 02 Mar 2026 13:31:00 GMT | Peppol AS4 Under the Microscope: From TCP Handshake to Encrypted Invoice | Alex Olsson | [Read More](https://medium.com/p/4da0e02b4e3c) |
-| Mon, 02 Mar 2026 13:25:51 GMT | Malware Development — 4 (APC Injection) | 0r | [Read More](https://medium.com/p/54d3ffa512f4) |
-| Mon, 02 Mar 2026 13:10:22 GMT | Access Control Vulnerabilities (Through Burp Suite Labs) Pt. 2: Horizontal Privilege Escalation | heckor | [Read More](https://medium.com/p/f71081367ab1) |
-| Mon, 02 Mar 2026 13:09:45 GMT | OTP Bypass via Response Manipulation — Account Security Flaw | mohamed badawy | [Read More](https://medium.com/p/e3d403b7aae2) |
-| Mon, 02 Mar 2026 13:07:25 GMT | The State of Ethical Hacking Tools in 2026-A Comprehensive Guide for Security Leaders | Chetan Seripally | [Read More](https://medium.com/p/283634b6f61b) |
-| Mon, 02 Mar 2026 13:01:47 GMT | Your Password Is Not as Strong as You Think — And Hackers Know It | Harveen Kaur | [Read More](https://medium.com/p/f2979323c9c8) |
-| Mon, 02 Mar 2026 12:58:35 GMT | When Silence Is Not an Option: Odido, ShinyHunters, and the Cost of Refusing to Pay | Gbolahan Akinbola | [Read More](https://medium.com/p/7ebabb805104) |
-| Mon, 02 Mar 2026 12:54:42 GMT | Linked List dalam Python | Aghnia Azka | [Read More](https://medium.com/p/03a0d82fff4b) |
