@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Mar 2026 22:41:21 GMT | Open Source Supply Chain Attacks 2026: The Silent Frontline of the Middle East War | Tent Of Tech | [Read More](https://medium.com/p/c4ec6ec55edd) |
+| Mon, 02 Mar 2026 22:35:31 GMT | How are AI-powered APIs reshaping the technology landscape? | Anadi Chiransa | [Read More](https://medium.com/p/f6d31e8aeda1) |
+| Mon, 02 Mar 2026 22:33:47 GMT | Exposing an Android SMS-to-Telegram Malware: Reverse Engineering a Real OTP Stealer | razzee | [Read More](https://medium.com/p/a4710be2cba4) |
 | Mon, 02 Mar 2026 22:28:44 GMT | HTB — Analytics By Ashbo3n | Ashborn | [Read More](https://medium.com/p/de9e510f7ff4) |
+| Mon, 02 Mar 2026 22:24:55 GMT | From Learning APIs to Protecting Systems: My API Security Journey | Sharon Nicole Dube | [Read More](https://medium.com/p/aa25cdbc11a2) |
+| Mon, 02 Mar 2026 22:24:45 GMT | Keys to the Kingdom: A Guide to Digital Identity | Moez Ben-Azzouz | [Read More](https://medium.com/p/898884e96e7c) |
 | Mon, 02 Mar 2026 22:23:24 GMT | How API Pen-Testers Approach Systems: Tools, Mindset, and Methodology | Sharon Nicole Dube | [Read More](https://medium.com/p/851f8791306f) |
 | Mon, 02 Mar 2026 22:19:04 GMT | The Role of a Smart Contract Security Researcher | Abraham | [Read More](https://medium.com/p/e296b20f273c) |
 | Mon, 02 Mar 2026 22:18:25 GMT | CVE-2026–0628: When AI Moves Into the Browser, Chrome Extensions Get a New Way to Break the Rules | Germano Costi | [Read More](https://medium.com/p/695dd1097ab6) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Mar 2026 16:16:46 GMT | Beyond Silicon Valley: Why Orange County is the New ‘Security Coast’ for Tech Pros in 2026 | Shanker Goud | [Read More](https://medium.com/p/ba7817559990) |
 | Mon, 02 Mar 2026 16:09:45 GMT | Linux Fundamentals for Cybersecurity and CTFs: Why Linux? | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/be44e70c6a79) |
 | Mon, 02 Mar 2026 16:08:52 GMT | The Blue Whale Challenge - Pakistan’s Hidden Digital Trap | SunoRaaz | [Read More](https://medium.com/p/94b30df4af88) |
-| Mon, 02 Mar 2026 16:08:45 GMT | Securing AI-Powered APIs: What API Security Looks Like in the Age of LLM | Animashawunkomolara | [Read More](https://medium.com/p/ccc3588c070c) |
-| Mon, 02 Mar 2026 15:58:58 GMT | Official Launch: CYBERDUDEBIVASH® CyberTwin v1.0 | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/d6ab6b56f15a) |
-| Mon, 02 Mar 2026 15:45:28 GMT | OpenClaw, ClaudeBot, and the Illusion of Control | Len Noe | [Read More](https://medium.com/p/553d26613909) |
-| Mon, 02 Mar 2026 15:44:31 GMT | Malware Analysis and Reverse Engineering Report: A Hands-On Journey Through Macro Malware… | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/eb95fde9f8de) |
-| Mon, 02 Mar 2026 15:38:40 GMT | I Stopped Sending My Data to AI Companies. Here’s What I Use Instead. | AIThinkerLab | [Read More](https://medium.com/p/1fd62ec4fbd9) |
