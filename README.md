@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Mar 2026 20:36:31 GMT | API Penetration Testing: Exploiting Vulnerabilities in the Damn Vulnerable RESTaurant | Reduan Islam Badhon | [Read More](https://medium.com/p/e6cb652d5d03) |
+| Mon, 02 Mar 2026 20:27:07 GMT | Thinking Like an Attacker: How API Pen-Testers Identify Injection Vulnerabilities | Esther Kenneth | [Read More](https://medium.com/p/fd09efa899bb) |
+| Mon, 02 Mar 2026 20:25:15 GMT | Leaked Playbooks to Fragmented Ecosystem: The Evolution of Conti (2022–2026) | Chrissa Constantine (a.k.a. T3mp3st) | [Read More](https://medium.com/p/21521d54b9ef) |
+| Mon, 02 Mar 2026 20:21:55 GMT | Windows Ransomware Investigation - TryHackMe 25 Days of Cyber Security Day 23 | RosanaFSS | [Read More](https://medium.com/p/d3debc2f578c) |
+| Mon, 02 Mar 2026 20:17:25 GMT | Cisco Cybersecurity Module 1 (Part 5): Cyber Warfare | Favour Ugochi Ogbonnaya | [Read More](https://medium.com/p/35ba8b37f524) |
+| Mon, 02 Mar 2026 20:15:18 GMT | Repo‑Cloak CLI: Enterprise AI Coding Doesn’t Have to Be All or Nothing | Shazni Shiraz | [Read More](https://medium.com/p/b65b5775bf1c) |
+| Mon, 02 Mar 2026 20:11:00 GMT | Hobins Toolbox: The pwnagotchi | Hobin Rood | [Read More](https://medium.com/p/49367da612ac) |
+| Mon, 02 Mar 2026 20:08:48 GMT | A Note to Myself | Thomas | [Read More](https://medium.com/p/b96bdeb91d2f) |
+| Mon, 02 Mar 2026 20:07:43 GMT | Is There a Cancer Checklist? | Susan League | [Read More](https://medium.com/p/b74d1a583bdc) |
+| Mon, 02 Mar 2026 20:02:09 GMT | I’m Here to Share Everything - Cybersecurity | Harsh Jannawar | [Read More](https://medium.com/p/128502aa15c3) |
+| Mon, 02 Mar 2026 20:01:00 GMT | Connecting to Snowflake MCP Servers with OAuth 2.0 and Role-Based Access Control: A Complete Guide | Ram Palagummi | [Read More](https://medium.com/p/c17d20be8a67) |
+| Mon, 02 Mar 2026 19:59:49 GMT | Exploiting Webmin RCE (CVE-2019–15107) on Void | Osman Erdem | [Read More](https://medium.com/p/a69c8ca60b1e) |
+| Mon, 02 Mar 2026 19:51:03 GMT | Teaching Tokens: Implementing Private, Lightweight AI in the Classroom (MiniJarvis) | Josh Beck | [Read More](https://medium.com/p/a28fd3259eb6) |
+| Mon, 02 Mar 2026 19:46:32 GMT | The Cryptography Concept Journey — P-Box (Permutation Box) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/af275d3dad5b) |
 | Mon, 02 Mar 2026 19:35:14 GMT | Bug Bounty Cheatsheet Worth 7890$ | Anonymous Traiger | [Read More](https://medium.com/p/fa163d281067) |
 | Mon, 02 Mar 2026 19:34:32 GMT | You Don’t Get TLS | Atishay Jain | [Read More](https://medium.com/p/b154fe792c62) |
 | Mon, 02 Mar 2026 19:33:11 GMT | ️When Your Data Disappears: How Active Data Studio Helps | Anjani Patel | [Read More](https://medium.com/p/7ec907471cf6) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Mar 2026 14:27:56 GMT | New Roles Emerge for AI Evaluation | Valentin Podkamennyi | [Read More](https://medium.com/p/9096c01d8f79) |
 | Mon, 02 Mar 2026 14:26:20 GMT | How Hackers Bypass Multi-Factor Authentication (MFA) in 2026 | Cynox Security LLP. | [Read More](https://medium.com/p/6d8023901e65) |
 | Mon, 02 Mar 2026 14:14:47 GMT | Understanding Sliver C2 Framework: Beacon and Session Modes | Allen Ace | [Read More](https://medium.com/p/6324f74d9d43) |
-| Mon, 02 Mar 2026 14:11:50 GMT | Why I Built This Cybersecurity Checklist for UK Manufacturers in 2026 | Luke Appleby | [Read More](https://medium.com/p/815dd9a7cc35) |
-| Mon, 02 Mar 2026 14:09:24 GMT | Why Most Companies Misconfigure Active Directory And Don’t Realize It Until It’s Too Late | CybeCloud | [Read More](https://medium.com/p/f10df70126e0) |
-| Mon, 02 Mar 2026 14:02:38 GMT | Transmission: The Feed is a Weapon | Abhinav Jain | [Read More](https://medium.com/p/57c1cf125e27) |
-| Mon, 02 Mar 2026 14:01:14 GMT | The Loneliness of Being Undisturbed | Adina I. | [Read More](https://medium.com/p/ca7ee511d03a) |
-| Mon, 02 Mar 2026 14:01:01 GMT | In the Space Between Fathers and Sons | Evelyn Foreman | [Read More](https://medium.com/p/d479ec8b8913) |
-| Mon, 02 Mar 2026 14:01:00 GMT | Authentication vs Authorization: Stop Mixing Them Up | Ahmet Emre DEMİRŞEN | [Read More](https://medium.com/p/5b4f5193e6a4) |
-| Mon, 02 Mar 2026 14:00:48 GMT | HTB DFIR Sherlock: SmartyPants | WildPasta | [Read More](https://medium.com/p/a71c8de82e55) |
-| Mon, 02 Mar 2026 13:51:22 GMT | AndroDialer Challenge-8KSEC | Mohamed Ayman | [Read More](https://medium.com/p/eebf357da038) |
-| Mon, 02 Mar 2026 13:48:29 GMT | Why Traders Will Migrate to Yellow Network Instead of Choosing Between CEXs and DEXs | Alhajimali | [Read More](https://medium.com/p/84f0d357bb75) |
-| Mon, 02 Mar 2026 13:42:28 GMT | Android Static Analysis — Red Team | Yrddry | [Read More](https://medium.com/p/bcdf640ca4cb) |
-| Mon, 02 Mar 2026 13:37:10 GMT | Ready to Build a Career in Cyber Security? | Molletibalu | [Read More](https://medium.com/p/e198781e1a26) |
-| Mon, 02 Mar 2026 13:36:40 GMT | Beginner’s Guide to Setting Up OpenVAS (GVM) on Kali Linux) | Priyanka Behera | [Read More](https://medium.com/p/753aba86e185) |
-| Mon, 02 Mar 2026 13:34:47 GMT | “Missile attacks and air defenses activating” | Adam Cark | [Read More](https://medium.com/p/e089f6eb4aa0) |
-| Mon, 02 Mar 2026 13:31:52 GMT | From Recon to Exploitation: How Attackers Discover, Exploit, and Chain Web App Vulnerabilities —… | Aanchal Singh Rajawat | [Read More](https://medium.com/p/79acf227650b) |
