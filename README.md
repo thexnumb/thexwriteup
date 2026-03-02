@@ -12,7 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Mar 2026 07:53:50 GMT | What 3 Years of Enterprise IAM Taught me About Securing Cloud Identities | Vivek Kumar | [Read More](https://medium.com/p/386b03202177) |
+| Mon, 02 Mar 2026 07:49:34 GMT | How to securely access your EC2 instances without opening any ports | RepoBaby | [Read More](https://medium.com/p/722fbfcc9310) |
+| Mon, 02 Mar 2026 07:46:00 GMT | Şifreniz Doğru Olsa Bile Girişiniz Neden Engellendi? | Fatih Yuksektepe | [Read More](https://medium.com/p/04d7aaa71b4c) |
+| Mon, 02 Mar 2026 07:41:42 GMT | What Is Counter Terrorism and Its Role in Modern Threat Prevention? | Trust Consulting Services | [Read More](https://medium.com/p/79c27cdeec29) |
+| Mon, 02 Mar 2026 07:31:00 GMT | When Agent Tool Caches Turn Into Attack Surfaces | Nexumo | [Read More](https://medium.com/p/041119393328) |
+| Mon, 02 Mar 2026 07:30:48 GMT | What should enterprises look for in a hybrid data integration platform? | concret.io | [Read More](https://medium.com/p/45a21b82dd3c) |
+| Mon, 02 Mar 2026 07:28:33 GMT | Why My EC2 Instance Wasn’t Accessible — Until I Understood NACL vs Security Groups | Narmadha | [Read More](https://medium.com/p/74819c0a9037) |
+| Mon, 02 Mar 2026 07:26:09 GMT | Hackers vs. Humans: The Battle for Digital Security | Asadullahzardari | [Read More](https://medium.com/p/67682672528a) |
+| Mon, 02 Mar 2026 07:25:26 GMT | Why Manufacturing Units Need Industrial Security Guards | Crewforge India | [Read More](https://medium.com/p/662861802b22) |
+| Mon, 02 Mar 2026 07:24:59 GMT | Zero Trust Architecture Implementation in Hybrid Environments | Majidbasharat | [Read More](https://medium.com/p/1ae92949f5b4) |
+| Mon, 02 Mar 2026 07:24:01 GMT | CafeClub writeup (LFI) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/63907e642e14) |
+| Mon, 02 Mar 2026 07:19:17 GMT | Day 14 of Learning AWS: Reserved Instances and Multiple Network Interfaces | Muhammad Kashif | [Read More](https://medium.com/p/588e304ce72f) |
+| Mon, 02 Mar 2026 07:10:59 GMT | How AI Generated Malware Is Changing Cyber Attacks | The SecOps Lead | [Read More](https://medium.com/p/f2d7e04f7e03) |
+| Mon, 02 Mar 2026 07:10:40 GMT | SQL Injection Authentication Bypass Cheat Sheet | Surya Sadanala | [Read More](https://medium.com/p/dd686ce686c0) |
+| Mon, 02 Mar 2026 07:10:17 GMT | How UE5 Reflection Works and How People Dump SDKs With It | user32 | [Read More](https://medium.com/p/32091c39ab3e) |
+| Mon, 02 Mar 2026 07:10:03 GMT | Cross-Site Scripting (XSS): Why innerHTML Is Dangerous (and What Else to Avoid) | Comviva MFS Engineering Tech Blog | [Read More](https://medium.com/p/0a11e550dda9) |
+| Mon, 02 Mar 2026 07:09:38 GMT | Cross-Site Scripting (XSS): Why innerHTML Is Dangerous (and What Else to Avoid) | Sudhakar Bhat | [Read More](https://medium.com/p/8eef0e259370) |
+| Mon, 02 Mar 2026 07:08:30 GMT | Lost Keys -Trusted Locksmith Services by SE1 Locksmiths | SE1 Locksmiths Ltd | [Read More](https://medium.com/p/667f27e61043) |
+| Mon, 02 Mar 2026 07:01:01 GMT | 8. Common Git Mistakes That Can Cause Security Issues | Mangesh Muley | [Read More](https://medium.com/p/89ab4c1a24cd) |
+| Mon, 02 Mar 2026 06:54:09 GMT | The Hidden Role of Security in Warehouse Performance | ICORP Security | [Read More](https://medium.com/p/50e2307db782) |
 | Mon, 02 Mar 2026 06:53:06 GMT | How CISOs Can Get Instant Answers to Cyber Risk Questions Using ZIN Advisor | Zeron | [Read More](https://medium.com/p/43ace68e3694) |
+| Mon, 02 Mar 2026 06:52:57 GMT | Why Letting Go Is Harder Than Creating. | Talie Rowe | [Read More](https://medium.com/p/15f1517af3fc) |
 | Mon, 02 Mar 2026 06:49:37 GMT | 7 Ways a Virtual Doorman Improves Building Security | Doris William | [Read More](https://medium.com/p/22ecac2e5063) |
 | Mon, 02 Mar 2026 06:48:53 GMT | Solving a Bugforge Daily Challenge (Feb 28) — Exploiting Hidden API Endpoint in Ottergram | Pranaya Shrestha | [Read More](https://medium.com/p/8bcb2dd30b92) |
 | Mon, 02 Mar 2026 06:45:14 GMT | HackTheBox — AoTR 1: A Call From the Museum | Riconatanael | [Read More](https://medium.com/p/f975d2f93d0b) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Mar 2026 01:12:58 GMT | HTB Keeper Writeup: How a Danish Dessert Unlocked Root Access | Onurcan Genç | [Read More](https://medium.com/p/798f995e72be) |
 | Mon, 02 Mar 2026 01:03:33 GMT | Day 3 of getting started to become a Master hacker | Nakul | [Read More](https://medium.com/p/f5fa42f1964c) |
 | Mon, 02 Mar 2026 01:02:52 GMT | WSTG-CONF-07 | Narathama Firmansyah Putra | [Read More](https://medium.com/p/c0c5c85e6ede) |
-| Mon, 02 Mar 2026 00:56:04 GMT | How I Found a Broken Object Level Authorization (BOLA) in a Real Production App | 77r4sed | [Read More](https://medium.com/p/0c6e681a1f7b) |
-| Mon, 02 Mar 2026 00:15:01 GMT | Steel Mountain -TryHackMe Writeup | Hemantha Krishna Challa | [Read More](https://medium.com/p/c4acbb18efe2) |
-| Mon, 02 Mar 2026 00:07:49 GMT | Securing AI: The iRAID™ Adaptive Layered Closed-Loop Architecture | Govind Palakuri | [Read More](https://medium.com/p/f55caa2b2b4e) |
-| Sun, 01 Mar 2026 23:52:07 GMT | Sensitive Data Exposure Attack Lab: A Hands-On Journey Through Information Leakage and File… | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/beb94aff190a) |
-| Sun, 01 Mar 2026 23:33:12 GMT | Cyber Security Offense and Defense Home Lab — Part 3 (Installing pfsense firewall) | Mahim Avi | [Read More](https://medium.com/p/6ca5250fedee) |
-| Sun, 01 Mar 2026 23:30:40 GMT | So… Apparently I Have Cancer | Susan League | [Read More](https://medium.com/p/aac8b4ca2bbb) |
-| Sun, 01 Mar 2026 23:24:13 GMT | Cyber Security Offense and Defense Home Lab — Part 2 (Covers vmware download and installation… | Mahim Avi | [Read More](https://medium.com/p/5f4d9878ef90) |
-| Sun, 01 Mar 2026 23:22:06 GMT | The 130°C Blindspot: Why F1’s 2026 Regulations Demand Zero-Trust Edge Compute Trackside | Timothy D. Harmon, CISSP | [Read More](https://medium.com/p/c1d999566d42) |
-| Sun, 01 Mar 2026 23:20:49 GMT | Access Control List’i Kurcalamak — Part 1 | Umuteren | [Read More](https://medium.com/p/d152d20aebf0) |
-| Sun, 01 Mar 2026 23:20:21 GMT | Automated Crypto Trading: A Simple Explanation for Beginners | Sara - Side Hustles & Learning | [Read More](https://medium.com/p/a0730fe6a05c) |
-| Sun, 01 Mar 2026 23:16:24 GMT | This Week in AI Governance? Power, Control, and Accountability | A D | [Read More](https://medium.com/p/644a0a10297b) |
-| Sun, 01 Mar 2026 23:12:57 GMT | Understanding Torch Dark Web Search and Its Role in Onion Discovery | Tor BBB | [Read More](https://medium.com/p/e1567d03d2e6) |
-| Sun, 01 Mar 2026 23:07:34 GMT | AI Security Digest — February 2026 (Week 4) | Tal Eliyahu | [Read More](https://medium.com/p/21e8c32435a7) |
-| Sun, 01 Mar 2026 22:54:02 GMT | SlotMachineToken PRO — Der erste echte CEX–DEX Hybrid‑Token mit Compliance‑Layer | Spongoo | [Read More](https://medium.com/p/320736f5bcab) |
-| Sun, 01 Mar 2026 22:38:10 GMT | Constitutional Survivability Under Adversarial Pressure | Lev Goukassian | [Read More](https://medium.com/p/401bd905ea00) |
-| Sun, 01 Mar 2026 22:04:37 GMT | Arbitrary Process Termination via Vulnerable Driver: BYOVD | S12 - 0x12Dark Development | [Read More](https://medium.com/p/7451cd059a66) |
-| Sun, 01 Mar 2026 21:54:02 GMT | Enhancing Threat Detection and Incident Response with Big Data Analytics | Pasha | [Read More](https://medium.com/p/d22c56270390) |
-| Sun, 01 Mar 2026 21:52:31 GMT | C2 Servers Are Dead; Long Live the New C2 Servers | Yasin Gurgen | [Read More](https://medium.com/p/11dcda05a8d8) |
-| Sun, 01 Mar 2026 21:51:00 GMT | The Transparency Trap | Gabriel Mahia | [Read More](https://medium.com/p/96f931d44923) |
-| Sun, 01 Mar 2026 21:50:37 GMT | From Learning APIs to Protecting Systems: My API Security Journey | Joyatee Datta | [Read More](https://medium.com/p/671d0f263284) |
-| Sun, 01 Mar 2026 21:49:24 GMT | You Have to Design for Copilot Agent Mode and it’s Risks | number40 | [Read More](https://medium.com/p/b3fcc63b2b48) |
