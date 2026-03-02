@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Mar 2026 05:24:52 GMT | Executive Protection in Baltimore: How Business Leaders Stay Safe at Public Appearances | Jeremysjackson | [Read More](https://medium.com/p/13f6dcb4d45e) |
+| Mon, 02 Mar 2026 05:24:24 GMT | CyberDefenders — WebStrike Lab (CTF Challenge) | Riconatanael | [Read More](https://medium.com/p/2d1db7cae3e4) |
+| Mon, 02 Mar 2026 05:17:50 GMT | Day 3: Adversarial Attacks in Depth: FGSM, PGD, C&W, and Why the Obvious Defenses Fail | Budhdi Sharma | [Read More](https://medium.com/p/89b01c8fa123) |
+| Mon, 02 Mar 2026 05:09:00 GMT | Pentesting ohne IT-Erfahrung: Ist der OSCP genug? | Donbread Service | [Read More](https://medium.com/p/487fd025e002) |
+| Mon, 02 Mar 2026 05:07:19 GMT | Ghost Mantis CTF 2026 — CREST PCU | Laxmikant Dhawade | [Read More](https://medium.com/p/9c17654ef62b) |
+| Mon, 02 Mar 2026 05:06:17 GMT | PART 8 — Problem Management: Eliminating Root Causes and Preventing Repeat Cyber Incidents | Abraham Karikari | [Read More](https://medium.com/p/a3b70291458c) |
+| Mon, 02 Mar 2026 05:04:54 GMT | Internet and Cyberbullying. How to educate teens about Cyberbullying? | Lina C Tran | [Read More](https://medium.com/p/7d9293844367) |
+| Mon, 02 Mar 2026 05:00:59 GMT | The “Claude Code” Effect: Are AI Agents Disrupting Cybersecurity and Legacy Tech? | Tanmay Bansal | [Read More](https://medium.com/p/2727628eaf0f) |
+| Mon, 02 Mar 2026 04:48:32 GMT | How a Software Development Company in California Helps Startups and Enterprises Scale Faster | A Smith | [Read More](https://medium.com/p/f4302056565b) |
+| Mon, 02 Mar 2026 04:44:01 GMT | Dystopia 2035: The War on Privacy & Free Speech_Ep. #26–1 | z3r0trust | [Read More](https://medium.com/p/d0aadaed1550) |
+| Mon, 02 Mar 2026 04:43:59 GMT | Cyber Resilience in Education: Why Schools Are Prime Ransomware Target…And Why That Must Change | Faraz Ishaq | [Read More](https://medium.com/p/68bdfad3de0d) |
+| Mon, 02 Mar 2026 04:42:44 GMT | When Hackers and Governments Share the Same AI Co‑Pilot | Senaaravichandran A | [Read More](https://medium.com/p/1226df4b277a) |
+| Mon, 02 Mar 2026 04:41:38 GMT | RPS-(Rock, Paper, Scissors)-picoCTF | Vishvambhar ranoshe | [Read More](https://medium.com/p/be11355bb1a4) |
+| Mon, 02 Mar 2026 04:38:50 GMT | Explain transformers from an information-flow perspective. | NS Academy | [Read More](https://medium.com/p/3368f97cc0bd) |
+| Mon, 02 Mar 2026 04:38:10 GMT | SQLiLite-picoCTF | Vishvambhar ranoshe | [Read More](https://medium.com/p/5b21632954c7) |
 | Mon, 02 Mar 2026 04:23:35 GMT | picoCTF Challenges & HTB Brutus | Jason Utama | [Read More](https://medium.com/p/23bfc09ddf23) |
+| Mon, 02 Mar 2026 04:22:01 GMT | AI-Powered VIP Security in India: How Secura Sense Redefines Protection with Intelligence | Vikram Kumar | [Read More](https://medium.com/p/6a09bd445fe7) |
 | Mon, 02 Mar 2026 04:16:43 GMT | How Race condition leading to business logic flaws affecting | Mesalam_17 | [Read More](https://medium.com/p/945f6949539f) |
 | Mon, 02 Mar 2026 04:02:23 GMT | Would You Still Stay Knowing Me More? | awnu | [Read More](https://medium.com/p/b7d854d3ee51) |
 | Mon, 02 Mar 2026 03:56:52 GMT | How I Found a Broken Object Level Authorization (BOLA) in a Real Production App | 77r4sed | [Read More](https://medium.com/p/808a12aac664) |
@@ -98,19 +114,3 @@ I want to be upfront about something… | Travis Stein | [Read More](https://med
 | Sun, 01 Mar 2026 19:29:10 GMT | The AlphaGo Moment for NPCs Happened in 2023 and Everyone Laughed | Berend Watchus | [Read More](https://medium.com/p/38f0e1da0d80) |
 | Sun, 01 Mar 2026 19:15:01 GMT | Beginner-Friendly Cybersecurity Writeups & CTF Guides | xFr0ggy | [Read More](https://medium.com/p/afccc5ae2f25) |
 | Sun, 01 Mar 2026 19:12:44 GMT | When AI Becomes an Attack Surface for Medical Decision Manipulation | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/d49833d0ac00) |
-| Sun, 01 Mar 2026 19:07:11 GMT | TryHackMe Walkthrough: Cyber Security 101 — Start Your Cyber Security Journey | Shubham Khirwadkar | [Read More](https://medium.com/p/27c79af7b9c8) |
-| Sun, 01 Mar 2026 19:02:27 GMT | 200 OK — A Click Through a Hidden Traffic Ecosystem | Control | [Read More](https://medium.com/p/586ec73a0314) |
-| Sun, 01 Mar 2026 18:58:25 GMT | Data Governance: Because everyone needs something to hold onto. | Pranav Sabnis | [Read More](https://medium.com/p/7c1cc00615ab) |
-| Sun, 01 Mar 2026 18:58:22 GMT | What Is a Firewall? Types, Generations & Real-World Use Cases | Ritikpatel | [Read More](https://medium.com/p/f98a436458b5) |
-| Sun, 01 Mar 2026 18:54:11 GMT | Day 174 — Building a Data Wiping Detection Engine in 24 Hours (ISEA Hackathon) | Jinay | [Read More](https://medium.com/p/8274c231a6ff) |
-| Sun, 01 Mar 2026 18:48:46 GMT | Sophos Central Was Drowning Me in Alerts. So I Built an AI Copilot. | Oluwagbenga Ogungbemi | [Read More](https://medium.com/p/c4f532a61d03) |
-| Sun, 01 Mar 2026 18:40:47 GMT | Cyber Threat Profiles of Iranian Threat Actors & Iranian Cyber Proxies | SIMKRA | [Read More](https://medium.com/p/1a0afe973c8a) |
-| Sun, 01 Mar 2026 18:38:46 GMT | Team dark-4rmy Task 2 | Ahmed Abdelnasser | [Read More](https://medium.com/p/fa904e8d9467) |
-| Sun, 01 Mar 2026 18:26:36 GMT | Trend Micro warns of critical Apex One code execution flaws | SOCFortress | [Read More](https://medium.com/p/dd24b0797887) |
-| Sun, 01 Mar 2026 18:26:06 GMT | One Time Pad (OTP): The Unbreakable Cipher | Mahdi | [Read More](https://medium.com/p/2ff83731d84f) |
-| Sun, 01 Mar 2026 18:25:37 GMT | Mitigating Risk in Mendix Applications | Thijs de Jong | [Read More](https://medium.com/p/7cc177236b5a) |
-| Sun, 01 Mar 2026 18:24:35 GMT | How I Found 4 Vulnerabilities in 3 Days — Beginner Journey | MhndFi | [Read More](https://medium.com/p/dcc84ecee094) |
-| Sun, 01 Mar 2026 18:22:26 GMT | I was Wrong About the MatPlotLib AI Hit Piece, and the Truth is Scarier | Thea Elizabeth | [Read More](https://medium.com/p/f7ff8d1268ca) |
-| Sun, 01 Mar 2026 18:20:04 GMT | Simple Hack-The-Box Security Architecture Takeaways (Part 1) | Joshua Goossen | [Read More](https://medium.com/p/9c08881bb466) |
-| Sun, 01 Mar 2026 18:18:58 GMT | 3 U.S. Cybersecurity Apprenticeship Paths That Actually Work | Cyber Lee | [Read More](https://medium.com/p/195d95a37de0) |
-| Sun, 01 Mar 2026 18:18:07 GMT | CRA Product Classification: Is Your Product Default, Important, or Critical? | CRA Decoded | [Read More](https://medium.com/p/7c59a9ed1bcf) |
