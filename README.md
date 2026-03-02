@@ -12,7 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Mar 2026 14:56:20 GMT | Deploying Offline LLMs Safely: Technical, Ethical, and Operational Guidelines for Edge AI | Avelagalihemanth | [Read More](https://medium.com/p/29c9ae54d8e4) |
+| Mon, 02 Mar 2026 14:52:17 GMT | The Ultimate Unified CTI Platform: Integrating Local AI, Predictive Analytics, and Automated Threat… | Maneesha Dewmina | [Read More](https://medium.com/p/93d8cdd1c9c9) |
+| Mon, 02 Mar 2026 14:51:39 GMT | How a Missing Type Check Turned Into a Remote Node Crash ($100 Bounty) | Sumit Shah (HackSage) | [Read More](https://medium.com/p/ed8dcc29f123) |
+| Mon, 02 Mar 2026 14:49:57 GMT | When AI Enters the War Room: The U.S. Military and Claude | Sharanraju | [Read More](https://medium.com/p/0cb69528d56f) |
+| Mon, 02 Mar 2026 14:46:49 GMT | How I Built an AI Malware Triage Swarm (And Stopped it from Hallucinating) | Akashwaris | [Read More](https://medium.com/p/112a2684fb95) |
+| Mon, 02 Mar 2026 14:46:30 GMT | Part 2: Thinking Like an API Attacker | Falilatowolabi(leogold) | [Read More](https://medium.com/p/5e4c75671d49) |
+| Mon, 02 Mar 2026 14:45:51 GMT | SIEM Rules: What They Are, How They’re Built, and Why They’re Harder Than They Look | Oluwatosin Ogunjimi | [Read More](https://medium.com/p/b94d4a581463) |
+| Mon, 02 Mar 2026 14:45:29 GMT | Retracted TryHackMe Writeup | Kavusan Yesuraja | [Read More](https://medium.com/p/931d2dc86b66) |
+| Mon, 02 Mar 2026 14:40:54 GMT | Type Punning (Linux x86–64) crackmes.one — AUTHOR — MAS | Aditya Raj | [Read More](https://medium.com/p/5135564c7017) |
+| Mon, 02 Mar 2026 14:40:46 GMT | Troubleshooting the Azure Activity Data Connector in Microsoft Sentinel | Defend Microsoft365 now! | [Read More](https://medium.com/p/d93e9f233203) |
+| Mon, 02 Mar 2026 14:37:25 GMT | Monday Monitor TryHackMe Writeup | Kavusan Yesuraja | [Read More](https://medium.com/p/b1d0a98c07ed) |
+| Mon, 02 Mar 2026 14:35:37 GMT | Post‑Quantum Cryptography and the Coming Legal Ramifications | Pragmatic Security | [Read More](https://medium.com/p/c0ca5481347b) |
+| Mon, 02 Mar 2026 14:31:00 GMT | The 18-Month Automation Wall (And How to See It Coming) | Ehulse | [Read More](https://medium.com/p/c464be04f9fb) |
+| Mon, 02 Mar 2026 14:27:56 GMT | New Roles Emerge for AI Evaluation | Valentin Podkamennyi | [Read More](https://medium.com/p/9096c01d8f79) |
+| Mon, 02 Mar 2026 14:26:20 GMT | How Hackers Bypass Multi-Factor Authentication (MFA) in 2026 | Cynox Security LLP. | [Read More](https://medium.com/p/6d8023901e65) |
+| Mon, 02 Mar 2026 14:14:47 GMT | Understanding Sliver C2 Framework: Beacon and Session Modes | Allen Ace | [Read More](https://medium.com/p/6324f74d9d43) |
+| Mon, 02 Mar 2026 14:11:50 GMT | Why I Built This Cybersecurity Checklist for UK Manufacturers in 2026 | Luke Appleby | [Read More](https://medium.com/p/815dd9a7cc35) |
+| Mon, 02 Mar 2026 14:09:24 GMT | Why Most Companies Misconfigure Active Directory And Don’t Realize It Until It’s Too Late | CybeCloud | [Read More](https://medium.com/p/f10df70126e0) |
 | Mon, 02 Mar 2026 14:02:38 GMT | Transmission: The Feed is a Weapon | Abhinav Jain | [Read More](https://medium.com/p/57c1cf125e27) |
+| Mon, 02 Mar 2026 14:01:14 GMT | The Loneliness of Being Undisturbed | Adina I. | [Read More](https://medium.com/p/ca7ee511d03a) |
+| Mon, 02 Mar 2026 14:01:01 GMT | In the Space Between Fathers and Sons | Evelyn Foreman | [Read More](https://medium.com/p/d479ec8b8913) |
+| Mon, 02 Mar 2026 14:01:00 GMT | Authentication vs Authorization: Stop Mixing Them Up | Ahmet Emre DEMİRŞEN | [Read More](https://medium.com/p/5b4f5193e6a4) |
 | Mon, 02 Mar 2026 14:00:48 GMT | HTB DFIR Sherlock: SmartyPants | WildPasta | [Read More](https://medium.com/p/a71c8de82e55) |
 | Mon, 02 Mar 2026 13:51:22 GMT | AndroDialer Challenge-8KSEC | Mohamed Ayman | [Read More](https://medium.com/p/eebf357da038) |
 | Mon, 02 Mar 2026 13:48:29 GMT | Why Traders Will Migrate to Yellow Network Instead of Choosing Between CEXs and DEXs | Alhajimali | [Read More](https://medium.com/p/84f0d357bb75) |
@@ -75,6 +96,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Mar 2026 10:35:59 GMT | The Biggest Lie in SME Cybersecurity: “We’re Too Small to Be a Target” | Gaurav Shukla | [Read More](https://medium.com/p/0853805be18b) |
 | Mon, 02 Mar 2026 10:27:05 GMT | Defense in Depth: The Bedrock of Modern Cybersecurity | Guillaume Forget | [Read More](https://medium.com/p/8b30315d8dc2) |
 | Mon, 02 Mar 2026 10:18:14 GMT | When Infrastructure Bleeds: Aadhaar, Debit Cards & the Fragility of Digital Trust | Vasant Bhadauria | [Read More](https://medium.com/p/c526d16b55e8) |
+| Mon, 02 Mar 2026 10:10:49 GMT | Password Cracking: Technical Analysis and Real-World Comparison of Three Major Attack Methods | VASANTH | [Read More](https://medium.com/p/b5099a667371) |
 | Mon, 02 Mar 2026 10:08:47 GMT | Security First MSP in London: Ensuring Data Safety | Proxar IT Consulting | [Read More](https://medium.com/p/8b73e5d8b937) |
 | Mon, 02 Mar 2026 10:04:41 GMT | PicoCTF-Forensics - Event-Viewing | M.Daffa Hakiki | [Read More](https://medium.com/p/238bf68945ec) |
 | Mon, 02 Mar 2026 10:04:03 GMT | Bảo Vệ Là Gì? Hiểu Đúng Vai Trò & Nhiệm Vụ | Bảo vệ Ngày & Đêm Tây Bắc SG | [Read More](https://medium.com/p/af1d3070f25b) |
@@ -91,25 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Mar 2026 09:30:33 GMT | FloraChain Privacy 
 Anchored by DarkHorse — | MetaFlora | [Read More](https://medium.com/p/734531d4ba76) |
 | Mon, 02 Mar 2026 09:27:56 GMT | Cybersecurity Experts for Construction Tech Growth | Job24by7 | [Read More](https://medium.com/p/c97c59fedbac) |
-| Mon, 02 Mar 2026 09:27:02 GMT | That Free Charging Port at the Airport Could Cost You Everything | Divine Egyabeng | [Read More](https://medium.com/p/fcc2899c8a28) |
-| Mon, 02 Mar 2026 09:21:55 GMT | Ghost Mantis — Quantum Entanglement Console (Hard Web CTF Challenge - Creator Writeup & Full Solve) | Kaif Tarasgar | [Read More](https://medium.com/p/8123cf526ca8) |
-| Mon, 02 Mar 2026 09:18:24 GMT | The defender’s reverse uno | h@shtalk | [Read More](https://medium.com/p/0dd8b451ab4f) |
-| Mon, 02 Mar 2026 09:17:30 GMT | Ethical Hacking: Stopping Hackers Before They Strike | afreeza | [Read More](https://medium.com/p/991a7e6c7bf3) |
-| Mon, 02 Mar 2026 09:14:29 GMT | “Mapping Web Applications: 5 OWASP Information Gathering Steps for Pro Pentesters” | Habibi | [Read More](https://medium.com/p/386e8fb8a39c) |
-| Mon, 02 Mar 2026 09:14:26 GMT | SELinux fundamentals | Odumosu Pamilerin | [Read More](https://medium.com/p/f488c1303d2b) |
-| Mon, 02 Mar 2026 09:14:22 GMT | Talsec RASP+ and AppiCrypt for Apple TV Apps | Talsec | [Read More](https://medium.com/p/ee6807969f63) |
-| Mon, 02 Mar 2026 09:01:00 GMT | One Employee, 47 Leaked Passwords: A Real Stealer Log Breakdown | Alexandre Vandamme | [Read More](https://medium.com/p/3c153b8a674a) |
-| Mon, 02 Mar 2026 08:55:50 GMT | How to Hash Passwords in Python and Encrypt Sensitive Data the Right Way | Nuno Bispo | [Read More](https://medium.com/p/96e1760b3d25) |
-| Mon, 02 Mar 2026 08:40:28 GMT | The Analogy Project #:10 Would you leave your front door unlocked? | Jonathan Henault | [Read More](https://medium.com/p/95feffac2aa6) |
-| Mon, 02 Mar 2026 08:37:48 GMT | You Didn’t Get Scammed. You Gave Permission. | Ankit rai | [Read More](https://medium.com/p/04c85a5a26ab) |
-| Mon, 02 Mar 2026 08:33:42 GMT | South Korea’s AI Transparency Law: What the Room Actually Sounded Like | Tae Yeon Eom | [Read More](https://medium.com/p/adf5abd16355) |
-| Mon, 02 Mar 2026 08:30:57 GMT | Volatility Traces Lab-Cyberdefenders | Areeya B. | [Read More](https://medium.com/p/093dd69856f2) |
-| Mon, 02 Mar 2026 08:27:45 GMT | Will AI Kill Cybersecurity Jobs? | Shahzaib | [Read More](https://medium.com/p/21de80319a01) |
-| Mon, 02 Mar 2026 08:25:32 GMT | Different Standards and Methodologies of Penetration Testing | احمد عصام | [Read More](https://medium.com/p/92bc197f68b3) |
-| Mon, 02 Mar 2026 08:23:46 GMT | Lau Dai Im Ang Hack: Khi Sinh Ton Kinh Di Tro Nen De Tho Nhung Van Cang Nao | DLMOD | [Read More](https://medium.com/p/f790e389189d) |
-| Mon, 02 Mar 2026 08:19:36 GMT | The “Middleman” Attack: Hijacking Accounts via Password Reset Poisoning | Mukilan Baskaran | [Read More](https://medium.com/p/9dd3d1832f75) |
-| Mon, 02 Mar 2026 08:19:20 GMT | Why I Built an AI Agent to Hack for Me: The Rise of MCP-Powered Bug Hunting | Mr Horbio | [Read More](https://medium.com/p/52cf29d8ff3c) |
-| Mon, 02 Mar 2026 08:18:54 GMT | Top-Rated RHCSA Holi Offer with Hands-On Labs & Live Classes | cyber security Updates | [Read More](https://medium.com/p/13179dc27491) |
-| Mon, 02 Mar 2026 08:17:09 GMT | ตรวจสอบด่วน! ช่องโหว่ใน Grandstream GXP1600 VoIP Phones เสี่ยงถูกยึดเครื่อง | ThaiCERT By NCSA | [Read More](https://medium.com/p/26717b9e321f) |
-| Mon, 02 Mar 2026 08:13:28 GMT | ประจำวันจันทร์ที่ 2 มีนาคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/d5319a9fe0cf) |
-| Mon, 02 Mar 2026 08:10:36 GMT | Building Scalable Mobile and Web Applications in 2026 | AcmeMinds | [Read More](https://medium.com/p/a68ce1a8e4aa) |
