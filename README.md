@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Mar 2026 17:01:02 GMT | SOTU 2026: Empires (Part 1) | Edbert Chan | [Read More](https://medium.com/p/b0eea4d0eb3d) |
+| Mon, 02 Mar 2026 16:56:59 GMT | Day 18: Authentication & Access Logs | Siddhesh Patil | [Read More](https://medium.com/p/3b4a3801cb58) |
+| Mon, 02 Mar 2026 16:56:00 GMT | The XZ Backdoor (CVE-2024–3094): How a Supply Chain Attack Nearly Compromised Every Linux Server | Sohan Kanna | [Read More](https://medium.com/p/fae44fe73a21) |
+| Mon, 02 Mar 2026 16:46:14 GMT | I Built the First Security Scanner for MCP Servers. Then I Ran It Against 5 Popular Ones. | Nick Homyk | [Read More](https://medium.com/p/4d3969ff854c) |
+| Mon, 02 Mar 2026 16:43:20 GMT | One Wrong Dash Broke My Command (Lessons from Learning the Linux Shell) | Grace Jaman | [Read More](https://medium.com/p/6c92108ddb4e) |
+| Mon, 02 Mar 2026 16:41:00 GMT | Cloudflare D1 Remote Modes: Balancing Security and Development Flexibility | Zintrust Zin | [Read More](https://medium.com/p/4f8382aa848b) |
+| Mon, 02 Mar 2026 16:40:12 GMT | Why Most OT Cybersecurity Fails Before the Attack Even Begins — 7 Critical Architecture Mistakes… | Muhammad Ali Khan | [Read More](https://medium.com/p/ad4a268a0d61) |
+| Mon, 02 Mar 2026 16:35:26 GMT | Configuration and Deployment Management Testing | Diva Rizky Alfitrah | [Read More](https://medium.com/p/f67f2d37515e) |
+| Mon, 02 Mar 2026 16:33:35 GMT | Quantum-Safe HTTPS: What Google’s New Direction Means for Certificate Authorities (CAs) | Vijayakumar Manjunatha | [Read More](https://medium.com/p/3291862b9a96) |
+| Mon, 02 Mar 2026 16:28:59 GMT | What exactly is SSH?? | SriCharan Battu | [Read More](https://medium.com/p/915561edbc92) |
+| Mon, 02 Mar 2026 16:28:53 GMT | Paris Cybersecurity Evolution: How Graph Databases Like Neo4j Are Powering Defensive Security | Sai kiran | [Read More](https://medium.com/p/91e11febe311) |
+| Mon, 02 Mar 2026 16:23:51 GMT | Credential Harvesting Techniques Explained (From a Defensive Perspective) | Pentester Club | [Read More](https://medium.com/p/38552bacb3c6) |
+| Mon, 02 Mar 2026 16:18:28 GMT | A Technical Guide to AI Agent Sandboxing | Oleg Sucharevich | [Read More](https://medium.com/p/dfdf9571dd2d) |
+| Mon, 02 Mar 2026 16:16:46 GMT | Beyond Silicon Valley: Why Orange County is the New ‘Security Coast’ for Tech Pros in 2026 | Shanker Goud | [Read More](https://medium.com/p/ba7817559990) |
+| Mon, 02 Mar 2026 16:09:45 GMT | Linux Fundamentals for Cybersecurity and CTFs: Why Linux? | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/be44e70c6a79) |
+| Mon, 02 Mar 2026 16:08:52 GMT | The Blue Whale Challenge - Pakistan’s Hidden Digital Trap | SunoRaaz | [Read More](https://medium.com/p/94b30df4af88) |
+| Mon, 02 Mar 2026 16:08:45 GMT | Securing AI-Powered APIs: What API Security Looks Like in the Age of LLM | Animashawunkomolara | [Read More](https://medium.com/p/ccc3588c070c) |
 | Mon, 02 Mar 2026 15:58:58 GMT | Official Launch: CYBERDUDEBIVASH® CyberTwin v1.0 | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/d6ab6b56f15a) |
 | Mon, 02 Mar 2026 15:45:28 GMT | OpenClaw, ClaudeBot, and the Illusion of Control | Len Noe | [Read More](https://medium.com/p/553d26613909) |
 | Mon, 02 Mar 2026 15:44:31 GMT | Malware Analysis and Reverse Engineering Report: A Hands-On Journey Through Macro Malware… | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/eb95fde9f8de) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Mar 2026 11:19:08 GMT | Network Micro-segmentation in short: A weapon against lateral movement | Aanshsavla | [Read More](https://medium.com/p/f4697dd8824d) |
 | Mon, 02 Mar 2026 11:16:00 GMT | Decision Latency in Strategy Execution. The Silent Killer of “Good Strategy” | Tyson Martin | [Read More](https://medium.com/p/21f640c30b91) |
 | Mon, 02 Mar 2026 11:13:42 GMT | Top 10 IT Companies in Pune Hiring Now—Salaries, Roles & Growth Guide | Vivek Esseindia | [Read More](https://medium.com/p/87253e1ae017) |
-| Mon, 02 Mar 2026 11:09:02 GMT | Your MFA Didn’t Fail — It Was Bypassed | Cyber Safety Zone | [Read More](https://medium.com/p/675ea9e151da) |
-| Mon, 02 Mar 2026 11:05:14 GMT | How the Best DevSecOps Companies Reduce Breaches by 70% | Devseccopsai | [Read More](https://medium.com/p/307b7ced6ab5) |
-| Mon, 02 Mar 2026 11:03:04 GMT | I Built 3 Python Scripts That Automatically Audit My AI App’s Security | inprogrammer | [Read More](https://medium.com/p/cc70ac87ad2d) |
-| Mon, 02 Mar 2026 10:55:33 GMT | Dubai & UAE on March 2, 2026 — A Nation Navigates Uncertainty Amid Regional Conflict | Justblogo | [Read More](https://medium.com/p/648ef6468b7c) |
-| Mon, 02 Mar 2026 10:55:19 GMT | • How Computers Actually Work (Simple & Detailed Explanation) | Aariz Khan | [Read More](https://medium.com/p/c1395c14da6a) |
-| Mon, 02 Mar 2026 10:51:58 GMT | How I Found Yet Another Misconfiguration on This College Site | Md Tanjimul Islam Sifat | [Read More](https://medium.com/p/e92925c6cb47) |
-| Mon, 02 Mar 2026 10:49:09 GMT | Python Injection Attacks | Maikel Mardjan | [Read More](https://medium.com/p/1e9039222040) |
-| Mon, 02 Mar 2026 10:46:29 GMT | The Proliferation of Edge-Based Botnets in Asia-Pacific Telecommunications Networks | David SEHYEON Baek | [Read More](https://medium.com/p/6d7b82ad8909) |
-| Mon, 02 Mar 2026 10:45:53 GMT | The Meltdown Before the Meltdown: What Three Mile Island Teaches About CVE Management | Levente Simon | [Read More](https://medium.com/p/b7ad6fa92f70) |
-| Mon, 02 Mar 2026 10:44:58 GMT | How Certified Security Analyst Training Prepares You for Real-World Cyber Threats | Naflansari | [Read More](https://medium.com/p/3e10144d78db) |
-| Mon, 02 Mar 2026 10:44:09 GMT | My API Security Journey: From Endpoints to Thinking Like an Attacker | Animashawunkomolara | [Read More](https://medium.com/p/06846f90f39b) |
-| Mon, 02 Mar 2026 10:43:59 GMT | Why Website Ownership Is Becoming More Valuable Than Social Media Reach? | Janet Watson | [Read More](https://medium.com/p/4a84d7668d30) |
-| Mon, 02 Mar 2026 10:42:38 GMT | Et si la cybersécurité apprenait à vivre ? | Cedrik Darel | [Read More](https://medium.com/p/6097bfa1c9ab) |
-| Mon, 02 Mar 2026 10:36:49 GMT | How Bots Direct World — Politicians,Superstars,Fenomens,Companies | ALIABBAS ABASOV 5 X BEATZ | [Read More](https://medium.com/p/629abbb73b2b) |
-| Mon, 02 Mar 2026 10:35:59 GMT | The Biggest Lie in SME Cybersecurity: “We’re Too Small to Be a Target” | Gaurav Shukla | [Read More](https://medium.com/p/0853805be18b) |
-| Mon, 02 Mar 2026 10:27:05 GMT | Defense in Depth: The Bedrock of Modern Cybersecurity | Guillaume Forget | [Read More](https://medium.com/p/8b30315d8dc2) |
-| Mon, 02 Mar 2026 10:18:14 GMT | When Infrastructure Bleeds: Aadhaar, Debit Cards & the Fragility of Digital Trust | Vasant Bhadauria | [Read More](https://medium.com/p/c526d16b55e8) |
