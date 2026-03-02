@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Mar 2026 23:46:26 GMT | HTB Knife: PHP 8.1.0-dev Supply Chain Backdoor RCE to Root | Onurcan Genç | [Read More](https://medium.com/p/c5e0bfa9fe25) |
+| Mon, 02 Mar 2026 23:35:16 GMT | Cyber Security Offense and Defense Home Lab — Part 4b (Configuring pfsense firewall-GUI) | Mahim Avi | [Read More](https://medium.com/p/d8583447b6cc) |
+| Mon, 02 Mar 2026 23:33:55 GMT | Self-Hosted AI Isn’t Safer by Default | Karla Ortiz-Flores | [Read More](https://medium.com/p/3fdc8ffe3f87) |
+| Mon, 02 Mar 2026 23:24:56 GMT | Cyber Security Offense and Defense Home Lab — Part 4a (Configuring pfsense firewall-CLI) | Mahim Avi | [Read More](https://medium.com/p/b44cdeee48c5) |
 | Mon, 02 Mar 2026 23:13:06 GMT | Driftingblue6 Walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/6bd5a70c9989) |
 | Mon, 02 Mar 2026 23:12:30 GMT | Do Not Call Yourself a Cybersecurity Enthusiast If You Don’t Know This. | Priyanshu Manash | [Read More](https://medium.com/p/674a2c7c3fc4) |
 | Mon, 02 Mar 2026 23:10:29 GMT | Security hardening on AI agent integration with AWS using IAM Roles Anywhere | Danushka Fernando | [Read More](https://medium.com/p/68dba655ee4a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Mar 2026 16:41:00 GMT | Cloudflare D1 Remote Modes: Balancing Security and Development Flexibility | Zintrust Zin | [Read More](https://medium.com/p/4f8382aa848b) |
 | Mon, 02 Mar 2026 16:40:12 GMT | Why Most OT Cybersecurity Fails Before the Attack Even Begins — 7 Critical Architecture Mistakes… | Muhammad Ali Khan | [Read More](https://medium.com/p/ad4a268a0d61) |
 | Mon, 02 Mar 2026 16:35:26 GMT | Configuration and Deployment Management Testing | Diva Rizky Alfitrah | [Read More](https://medium.com/p/f67f2d37515e) |
-| Mon, 02 Mar 2026 16:33:35 GMT | Quantum-Safe HTTPS: What Google’s New Direction Means for Certificate Authorities (CAs) | Vijayakumar Manjunatha | [Read More](https://medium.com/p/3291862b9a96) |
-| Mon, 02 Mar 2026 16:28:59 GMT | What exactly is SSH?? | SriCharan Battu | [Read More](https://medium.com/p/915561edbc92) |
-| Mon, 02 Mar 2026 16:28:53 GMT | Paris Cybersecurity Evolution: How Graph Databases Like Neo4j Are Powering Defensive Security | Sai kiran | [Read More](https://medium.com/p/91e11febe311) |
-| Mon, 02 Mar 2026 16:23:51 GMT | Credential Harvesting Techniques Explained (From a Defensive Perspective) | Pentester Club | [Read More](https://medium.com/p/38552bacb3c6) |
