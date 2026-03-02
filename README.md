@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Mar 2026 19:05:21 GMT | Why API Penetration Testing Is Different from Web Application Testing | Iseoluwa Ogunnaike | [Read More](https://medium.com/p/475dee9f6440) |
+| Mon, 02 Mar 2026 19:02:39 GMT | NIST AI RMF: Implementation Guide | Ashish Bansal | [Read More](https://medium.com/p/ace431b78729) |
+| Mon, 02 Mar 2026 19:01:11 GMT | Cloud Security in the Digital Era | alinamon | [Read More](https://medium.com/p/db46c58ab4c5) |
+| Mon, 02 Mar 2026 19:00:59 GMT | PHPUnit: Cuando tu framework de pruebas se convierte en una puerta trasera ( CVE-2026–24765) | C37webak1ix | [Read More](https://medium.com/p/ca614722e6b9) |
+| Mon, 02 Mar 2026 18:39:03 GMT | AOV Solar Cameras: How Always-On Video Eliminates Security Blind Spots | Samkon Lee | [Read More](https://medium.com/p/bfa1c0db0752) |
+| Mon, 02 Mar 2026 18:35:18 GMT | date spot - CTF_writeup-EHAX CTF2026 | wal-z1 | [Read More](https://medium.com/p/059411e57b4f) |
+| Mon, 02 Mar 2026 18:31:58 GMT | New Zealand’s Cyber Security Strategy | SOCFortress | [Read More](https://medium.com/p/c0fd7e0aaa99) |
+| Mon, 02 Mar 2026 18:31:00 GMT | Your In-House IT Team Is Costing You 40% More Than It Should | Jenny | [Read More](https://medium.com/p/9f55c8320cc9) |
+| Mon, 02 Mar 2026 18:28:45 GMT | The Complete Red Teaming Roadmap -Beginner to Professional (100% Free Resources) | Hacker MD | [Read More](https://medium.com/p/6183e451ee4a) |
+| Mon, 02 Mar 2026 18:25:41 GMT | UAC-0252 Cyber Attacks Using SHADOWSNIFF and SALATSTEALER Stealers (CERT-UA#20032) | SIMKRA | [Read More](https://medium.com/p/5214e3bff7c2) |
+| Mon, 02 Mar 2026 18:25:03 GMT | The hard truth of being an introvert in IT. | The Purple Horsey | [Read More](https://medium.com/p/ce8532ac10b9) |
+| Mon, 02 Mar 2026 18:24:28 GMT | EVEN RSA CAN BE BROKEN??? — picoCTF Writeup | patrickjane | [Read More](https://medium.com/p/05ece10b68eb) |
+| Mon, 02 Mar 2026 18:22:54 GMT | The Architecture Owner: Why the CISO’s Next Battle Isn’t in the Boardroom. | Younos Nazarian | [Read More](https://medium.com/p/1571fff4c304) |
+| Mon, 02 Mar 2026 18:22:45 GMT | Quantum Shift in Industry | Mithrais | [Read More](https://medium.com/p/27b01ca8f62d) |
+| Mon, 02 Mar 2026 18:13:28 GMT | Hardening Remote Access on RDK X5 (and Other Embedded Linux Systems) | Suryansh Srivastava | [Read More](https://medium.com/p/eba326d58a3d) |
+| Mon, 02 Mar 2026 18:07:21 GMT | Hidden in plainsight— PicoCTF Writeup - by Avani Prakasan | Avani Prakasan | [Read More](https://medium.com/p/ffd2f5af693e) |
 | Mon, 02 Mar 2026 17:58:54 GMT | Authorized, But Not Aligned: The Structural Risk of AI Agents on Modern Endpoints | Lorand Pervizaj (DaSl0th) | [Read More](https://medium.com/p/eb1807fb7b8b) |
 | Mon, 02 Mar 2026 17:57:36 GMT | I Built an Open-Source Service Fingerprinter — Here’s What It Finds | Nathan Sportsman | [Read More](https://medium.com/p/0daae3ccc74a) |
 | Mon, 02 Mar 2026 17:50:36 GMT | Expiro File Infector Is Back | C M UPPIN | [Read More](https://medium.com/p/0304e8ea8243) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Mar 2026 13:01:47 GMT | Your Password Is Not as Strong as You Think — And Hackers Know It | Harveen Kaur | [Read More](https://medium.com/p/f2979323c9c8) |
 | Mon, 02 Mar 2026 12:58:35 GMT | When Silence Is Not an Option: Odido, ShinyHunters, and the Cost of Refusing to Pay | Gbolahan Akinbola | [Read More](https://medium.com/p/7ebabb805104) |
 | Mon, 02 Mar 2026 12:54:42 GMT | Linked List dalam Python | Aghnia Azka | [Read More](https://medium.com/p/03a0d82fff4b) |
-| Mon, 02 Mar 2026 12:47:09 GMT | ️ Cybersecurity Roadmap 2026: The Complete Guide to Breaking Into (and Leveling Up in)… | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/eda56464e507) |
-| Mon, 02 Mar 2026 12:36:57 GMT | Web Application Security: Hands-On Practice (Chapter 12 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/eecac766c21a) |
-| Mon, 02 Mar 2026 12:29:37 GMT | Why Small Businesses in India Are the Biggest Targets for Cyber Attacks (And How to Stay… | Logging Security | [Read More](https://medium.com/p/39402e335e41) |
-| Mon, 02 Mar 2026 12:29:19 GMT | The Importance of Professional Personal Security Services | Abhishek Yadav | [Read More](https://medium.com/p/00743b26ae9b) |
-| Mon, 02 Mar 2026 12:24:48 GMT | Where Compliance Risk Management Fits in SSE (and Where It Quietly Breaks) | Peter Hillier/Halton | [Read More](https://medium.com/p/c83dc2a0339b) |
-| Mon, 02 Mar 2026 12:22:16 GMT | Why Network Problems Are Costing Businesses More Than They Realize | Shubhra Srivastav | [Read More](https://medium.com/p/6892ba751f36) |
-| Mon, 02 Mar 2026 12:21:00 GMT | Managed Cyber Security Services: What You Are Really Buying at 2 A.M. | Shomikx | [Read More](https://medium.com/p/4a5352df6e91) |
-| Mon, 02 Mar 2026 12:09:58 GMT | Ph4nt0m 1ntrud3r — PicoCTF WriteUp | Najafghifari | [Read More](https://medium.com/p/1eae9012bb76) |
-| Mon, 02 Mar 2026 12:06:00 GMT | Zero Trust Architecture in Video Conferencing: A Practical Guide for Secure, Compliant… | Digital Samba | [Read More](https://medium.com/p/2a850d3b90f0) |
-| Mon, 02 Mar 2026 12:05:31 GMT | The Organizational Blind Spot No Security Tool Can Fix | Digital Defense | [Read More](https://medium.com/p/090824864991) |
-| Mon, 02 Mar 2026 12:01:01 GMT | CTF Basics: Understanding JSON | Walter Moar | [Read More](https://medium.com/p/2f14e4eef59d) |
-| Mon, 02 Mar 2026 12:01:00 GMT | I’ve Reviewed 47 SaaS Authentication Systems. Here Are the Five Patterns I Keep Finding. | Cyphersilhouette | [Read More](https://medium.com/p/315180f94afc) |
-| Mon, 02 Mar 2026 11:57:55 GMT | FactsDroid Challaenge-8ksec | Mohamed Ayman | [Read More](https://medium.com/p/1ddf57d52160) |
-| Mon, 02 Mar 2026 11:56:16 GMT | AI-Driven API Security: From Deterministic to Probabilistic Models | Salih Başak | [Read More](https://medium.com/p/e7be4e9b1da4) |
-| Mon, 02 Mar 2026 11:51:39 GMT | The Cost Curve Nobody Talks About: Late Security vs. Early Engineering | Peter Hillier/Halton | [Read More](https://medium.com/p/50167fd82ff0) |
-| Mon, 02 Mar 2026 11:51:02 GMT | CrossCurve Exploit Post-Mortem: $1.4M Lost to a Missing Access Control Check | Olympix | [Read More](https://medium.com/p/c128e0aeb360) |
