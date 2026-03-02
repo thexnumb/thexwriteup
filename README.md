@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Mar 2026 17:58:54 GMT | Authorized, But Not Aligned: The Structural Risk of AI Agents on Modern Endpoints | Lorand Pervizaj (DaSl0th) | [Read More](https://medium.com/p/eb1807fb7b8b) |
+| Mon, 02 Mar 2026 17:57:36 GMT | I Built an Open-Source Service Fingerprinter — Here’s What It Finds | Nathan Sportsman | [Read More](https://medium.com/p/0daae3ccc74a) |
+| Mon, 02 Mar 2026 17:50:36 GMT | Expiro File Infector Is Back | C M UPPIN | [Read More](https://medium.com/p/0304e8ea8243) |
+| Mon, 02 Mar 2026 17:46:52 GMT | Inside the Iran–Israel ‘Shadow War’ in 2026: Cyber Attacks, Proxy Clashes, and What Comes Next | abualyaanart | [Read More](https://medium.com/p/181f708acdbf) |
+| Mon, 02 Mar 2026 17:42:28 GMT | Citrix Bleed: How a Single Bug Leaked Corporate Secrets (CVE-2023–4966) | Krishna Kumar | [Read More](https://medium.com/p/45e9c6fbe9f6) |
+| Mon, 02 Mar 2026 17:34:39 GMT | (High-vuln) How I Bypassed IP Restrictions, CAPTCHA, and Unlocked Unlimited Brute-Force in One Shot | Ziad (Zierax) | [Read More](https://medium.com/p/ec2b7063ef5d) |
+| Mon, 02 Mar 2026 17:31:38 GMT | Automating PCAP Analysis: picoCTF Ph4nt0m 1ntrud3r Write-Up | Allif Maulana Sakti | [Read More](https://medium.com/p/b3540d42d779) |
+| Mon, 02 Mar 2026 17:24:28 GMT | Cross-Site Scripting Uncovered: Breaking the Trust Between Browser and Web Application | Haripriya | [Read More](https://medium.com/p/f1c95f35ebcf) |
+| Mon, 02 Mar 2026 17:22:32 GMT | Jordan in the Crosshairs: What Today’s Grain Silo Hack Tells Us About Tomorrow | Odai Mherat | [Read More](https://medium.com/p/a2fc59f4946a) |
+| Mon, 02 Mar 2026 17:11:06 GMT | Lessons from Reading Hundreds of SME Security Policies | Gaurav Shukla | [Read More](https://medium.com/p/9ca30ef86020) |
+| Mon, 02 Mar 2026 17:07:30 GMT | TryHackMe CTF Writeup of Hidden Deep Into my Heart | Devansh Patel | [Read More](https://medium.com/p/a6624334a4b0) |
 | Mon, 02 Mar 2026 17:01:02 GMT | SOTU 2026: Empires (Part 1) | Edbert Chan | [Read More](https://medium.com/p/b0eea4d0eb3d) |
+| Mon, 02 Mar 2026 17:00:51 GMT | Beyond Authentication: Securing Identity Before Login and Governing Privilege After | Dr. Shashi Karhail | [Read More](https://medium.com/p/daf6adb4329d) |
 | Mon, 02 Mar 2026 16:56:59 GMT | Day 18: Authentication & Access Logs | Siddhesh Patil | [Read More](https://medium.com/p/3b4a3801cb58) |
 | Mon, 02 Mar 2026 16:56:00 GMT | The XZ Backdoor (CVE-2024–3094): How a Supply Chain Attack Nearly Compromised Every Linux Server | Sohan Kanna | [Read More](https://medium.com/p/fae44fe73a21) |
 | Mon, 02 Mar 2026 16:46:14 GMT | I Built the First Security Scanner for MCP Servers. Then I Ran It Against 5 Popular Ones. | Nick Homyk | [Read More](https://medium.com/p/4d3969ff854c) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Mar 2026 11:56:16 GMT | AI-Driven API Security: From Deterministic to Probabilistic Models | Salih Başak | [Read More](https://medium.com/p/e7be4e9b1da4) |
 | Mon, 02 Mar 2026 11:51:39 GMT | The Cost Curve Nobody Talks About: Late Security vs. Early Engineering | Peter Hillier/Halton | [Read More](https://medium.com/p/50167fd82ff0) |
 | Mon, 02 Mar 2026 11:51:02 GMT | CrossCurve Exploit Post-Mortem: $1.4M Lost to a Missing Access Control Check | Olympix | [Read More](https://medium.com/p/c128e0aeb360) |
-| Mon, 02 Mar 2026 11:51:00 GMT | The Security Blind Spots Every Java Developer in Banking Ignores (Until It’s Too Late) | inside Nikita's Mind | [Read More](https://medium.com/p/7555d88fab41) |
-| Mon, 02 Mar 2026 11:47:24 GMT | ₹250 Crore Data Risk. Would your organisation survive? | Secure n Comply | [Read More](https://medium.com/p/360f8c0c1803) |
-| Mon, 02 Mar 2026 11:44:47 GMT | I’m Just Tired of Being “The Strong One” |  | [Read More](https://medium.com/p/b4ddd84d8277) |
-| Mon, 02 Mar 2026 11:33:35 GMT | TryHackMe: Easy Peasy Walkthrough (Spoiler: The name is a trap!) | VxOM | [Read More](https://medium.com/p/d859719b4241) |
-| Mon, 02 Mar 2026 11:31:48 GMT | Beyond the Cipher: Breaking Client-Side Encryption and Uncovering Systemic API Failures | HR | [Read More](https://medium.com/p/790bd22d6a7c) |
-| Mon, 02 Mar 2026 11:31:00 GMT | Interim CISO Services: Build a Security Program Quickly (Without Creating Chaos) | Tyson Martin | [Read More](https://medium.com/p/43d5dc1a5f39) |
-| Mon, 02 Mar 2026 11:29:23 GMT | ️ The Tale of Alerts: True or False in Cybersecurity | Latha | [Read More](https://medium.com/p/4778909d7d45) |
-| Mon, 02 Mar 2026 11:26:21 GMT | The Silent Hijack: How GGUF Chat Templates Create Hidden AI Backdoors | Alessandro Pignati | [Read More](https://medium.com/p/a58ce1a6371d) |
-| Mon, 02 Mar 2026 11:21:53 GMT | How I Found a Critical PII Leak in a Public API - Cyber Tamarin | Cyber Tamarin | [Read More](https://medium.com/p/c48230542ec4) |
-| Mon, 02 Mar 2026 11:19:08 GMT | Network Micro-segmentation in short: A weapon against lateral movement | Aanshsavla | [Read More](https://medium.com/p/f4697dd8824d) |
-| Mon, 02 Mar 2026 11:16:00 GMT | Decision Latency in Strategy Execution. The Silent Killer of “Good Strategy” | Tyson Martin | [Read More](https://medium.com/p/21f640c30b91) |
-| Mon, 02 Mar 2026 11:13:42 GMT | Top 10 IT Companies in Pune Hiring Now—Salaries, Roles & Growth Guide | Vivek Esseindia | [Read More](https://medium.com/p/87253e1ae017) |
