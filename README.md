@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Mar 2026 12:58:35 GMT | When Silence Is Not an Option: Odido, ShinyHunters, and the Cost of Refusing to Pay | Gbolahan Akinbola | [Read More](https://medium.com/p/7ebabb805104) |
+| Mon, 02 Mar 2026 12:54:42 GMT | Linked List dalam Python | Aghnia Azka | [Read More](https://medium.com/p/03a0d82fff4b) |
+| Mon, 02 Mar 2026 12:47:09 GMT | ️ Cybersecurity Roadmap 2026: The Complete Guide to Breaking Into (and Leveling Up in)… | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/eda56464e507) |
+| Mon, 02 Mar 2026 12:36:57 GMT | Web Application Security: Hands-On Practice (Chapter 12 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/eecac766c21a) |
+| Mon, 02 Mar 2026 12:29:37 GMT | Why Small Businesses in India Are the Biggest Targets for Cyber Attacks (And How to Stay… | Logging Security | [Read More](https://medium.com/p/39402e335e41) |
+| Mon, 02 Mar 2026 12:29:19 GMT | The Importance of Professional Personal Security Services | Abhishek Yadav | [Read More](https://medium.com/p/00743b26ae9b) |
+| Mon, 02 Mar 2026 12:24:48 GMT | Where Compliance Risk Management Fits in SSE (and Where It Quietly Breaks) | Peter Hillier/Halton | [Read More](https://medium.com/p/c83dc2a0339b) |
+| Mon, 02 Mar 2026 12:22:16 GMT | Why Network Problems Are Costing Businesses More Than They Realize | Shubhra Srivastav | [Read More](https://medium.com/p/6892ba751f36) |
+| Mon, 02 Mar 2026 12:21:00 GMT | Managed Cyber Security Services: What You Are Really Buying at 2 A.M. | Shomikx | [Read More](https://medium.com/p/4a5352df6e91) |
+| Mon, 02 Mar 2026 12:09:58 GMT | Ph4nt0m 1ntrud3r — PicoCTF WriteUp | Najafghifari | [Read More](https://medium.com/p/1eae9012bb76) |
+| Mon, 02 Mar 2026 12:06:00 GMT | Zero Trust Architecture in Video Conferencing: A Practical Guide for Secure, Compliant… | Digital Samba | [Read More](https://medium.com/p/2a850d3b90f0) |
+| Mon, 02 Mar 2026 12:05:31 GMT | The Organizational Blind Spot No Security Tool Can Fix | Digital Defense | [Read More](https://medium.com/p/090824864991) |
+| Mon, 02 Mar 2026 12:01:01 GMT | CTF Basics: Understanding JSON | Walter Moar | [Read More](https://medium.com/p/2f14e4eef59d) |
+| Mon, 02 Mar 2026 12:01:00 GMT | I’ve Reviewed 47 SaaS Authentication Systems. Here Are the Five Patterns I Keep Finding. | Cyphersilhouette | [Read More](https://medium.com/p/315180f94afc) |
+| Mon, 02 Mar 2026 11:57:55 GMT | FactsDroid Challaenge-8ksec | Mohamed Ayman | [Read More](https://medium.com/p/1ddf57d52160) |
+| Mon, 02 Mar 2026 11:56:16 GMT | AI-Driven API Security: From Deterministic to Probabilistic Models | Salih Başak | [Read More](https://medium.com/p/e7be4e9b1da4) |
+| Mon, 02 Mar 2026 11:51:39 GMT | The Cost Curve Nobody Talks About: Late Security vs. Early Engineering | Peter Hillier/Halton | [Read More](https://medium.com/p/50167fd82ff0) |
+| Mon, 02 Mar 2026 11:51:02 GMT | CrossCurve Exploit Post-Mortem: $1.4M Lost to a Missing Access Control Check | Olympix | [Read More](https://medium.com/p/c128e0aeb360) |
+| Mon, 02 Mar 2026 11:51:00 GMT | The Security Blind Spots Every Java Developer in Banking Ignores (Until It’s Too Late) | inside Nikita's Mind | [Read More](https://medium.com/p/7555d88fab41) |
+| Mon, 02 Mar 2026 11:47:24 GMT | ₹250 Crore Data Risk. Would your organisation survive? | Secure n Comply | [Read More](https://medium.com/p/360f8c0c1803) |
+| Mon, 02 Mar 2026 11:44:47 GMT | I’m Just Tired of Being “The Strong One” |  | [Read More](https://medium.com/p/b4ddd84d8277) |
 | Mon, 02 Mar 2026 11:33:35 GMT | TryHackMe: Easy Peasy Walkthrough (Spoiler: The name is a trap!) | VxOM | [Read More](https://medium.com/p/d859719b4241) |
 | Mon, 02 Mar 2026 11:31:48 GMT | Beyond the Cipher: Breaking Client-Side Encryption and Uncovering Systemic API Failures | HR | [Read More](https://medium.com/p/790bd22d6a7c) |
 | Mon, 02 Mar 2026 11:31:00 GMT | Interim CISO Services: Build a Security Program Quickly (Without Creating Chaos) | Tyson Martin | [Read More](https://medium.com/p/43d5dc1a5f39) |
@@ -92,24 +113,3 @@ Anchored by DarkHorse — | MetaFlora | [Read More](https://medium.com/p/734531d
 | Mon, 02 Mar 2026 07:25:26 GMT | Why Manufacturing Units Need Industrial Security Guards | Crewforge India | [Read More](https://medium.com/p/662861802b22) |
 | Mon, 02 Mar 2026 07:24:59 GMT | Zero Trust Architecture Implementation in Hybrid Environments | Majidbasharat | [Read More](https://medium.com/p/1ae92949f5b4) |
 | Mon, 02 Mar 2026 07:24:01 GMT | CafeClub writeup (LFI) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/63907e642e14) |
-| Mon, 02 Mar 2026 07:19:17 GMT | Day 14 of Learning AWS: Reserved Instances and Multiple Network Interfaces | Muhammad Kashif | [Read More](https://medium.com/p/588e304ce72f) |
-| Mon, 02 Mar 2026 07:10:59 GMT | How AI Generated Malware Is Changing Cyber Attacks | The SecOps Lead | [Read More](https://medium.com/p/f2d7e04f7e03) |
-| Mon, 02 Mar 2026 07:10:40 GMT | SQL Injection Authentication Bypass Cheat Sheet | Surya Sadanala | [Read More](https://medium.com/p/dd686ce686c0) |
-| Mon, 02 Mar 2026 07:10:17 GMT | How UE5 Reflection Works and How People Dump SDKs With It | user32 | [Read More](https://medium.com/p/32091c39ab3e) |
-| Mon, 02 Mar 2026 07:10:03 GMT | Cross-Site Scripting (XSS): Why innerHTML Is Dangerous (and What Else to Avoid) | Comviva MFS Engineering Tech Blog | [Read More](https://medium.com/p/0a11e550dda9) |
-| Mon, 02 Mar 2026 07:09:38 GMT | Cross-Site Scripting (XSS): Why innerHTML Is Dangerous (and What Else to Avoid) | Sudhakar Bhat | [Read More](https://medium.com/p/8eef0e259370) |
-| Mon, 02 Mar 2026 07:08:30 GMT | Lost Keys -Trusted Locksmith Services by SE1 Locksmiths | SE1 Locksmiths Ltd | [Read More](https://medium.com/p/667f27e61043) |
-| Mon, 02 Mar 2026 07:01:01 GMT | 8. Common Git Mistakes That Can Cause Security Issues | Mangesh Muley | [Read More](https://medium.com/p/89ab4c1a24cd) |
-| Mon, 02 Mar 2026 06:54:09 GMT | The Hidden Role of Security in Warehouse Performance | ICORP Security | [Read More](https://medium.com/p/50e2307db782) |
-| Mon, 02 Mar 2026 06:53:06 GMT | How CISOs Can Get Instant Answers to Cyber Risk Questions Using ZIN Advisor | Zeron | [Read More](https://medium.com/p/43ace68e3694) |
-| Mon, 02 Mar 2026 06:52:57 GMT | Why Letting Go Is Harder Than Creating. | Talie Rowe | [Read More](https://medium.com/p/15f1517af3fc) |
-| Mon, 02 Mar 2026 06:49:37 GMT | 7 Ways a Virtual Doorman Improves Building Security | Doris William | [Read More](https://medium.com/p/22ecac2e5063) |
-| Mon, 02 Mar 2026 06:48:53 GMT | Solving a Bugforge Daily Challenge (Feb 28) — Exploiting Hidden API Endpoint in Ottergram | Pranaya Shrestha | [Read More](https://medium.com/p/8bcb2dd30b92) |
-| Mon, 02 Mar 2026 06:45:14 GMT | HackTheBox — AoTR 1: A Call From the Museum | Riconatanael | [Read More](https://medium.com/p/f975d2f93d0b) |
-| Mon, 02 Mar 2026 06:45:11 GMT | Digital Shield Joins ChainInsight for Successful Conclusion of PickleBall & Play 2026 Social Party… | Digital Shield Offcial | [Read More](https://medium.com/p/9caa7a48a270) |
-| Mon, 02 Mar 2026 06:45:08 GMT | 7,000 Chrome Users Installed a “Google Lens” Extension — It Turned Into a Crypto-Stealing Malware | Subhan Ali | [Read More](https://medium.com/p/392421a0682a) |
-| Mon, 02 Mar 2026 06:43:42 GMT | Some threats for hacking the password | Muniyappan P | [Read More](https://medium.com/p/b07e10008c7f) |
-| Mon, 02 Mar 2026 06:40:41 GMT | Bitlocker-2 picoCTF by Robbin_lev | Robbin_lev | [Read More](https://medium.com/p/4c3c99024753) |
-| Mon, 02 Mar 2026 06:39:52 GMT | What a U.S./Israel — Iran Escalation Means for Your Financial Assets? | Sannia Abdullah Close | [Read More](https://medium.com/p/2ba38e689b6e) |
-| Mon, 02 Mar 2026 06:37:45 GMT | Day 12 — Making the Database Sleep (Time-Based Blind SQL Injection) | Issan | [Read More](https://medium.com/p/e13b0f36983b) |
-| Mon, 02 Mar 2026 06:35:46 GMT | Joseph Lamar Simmons describes Cyber defense strategies on safety | Joseph Lamar Simmons | [Read More](https://medium.com/p/ec4bf37d79fb) |
