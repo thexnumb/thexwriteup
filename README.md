@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Mar 2026 10:04:41 GMT | PicoCTF-Forensics - Event-Viewing | M.Daffa Hakiki | [Read More](https://medium.com/p/238bf68945ec) |
+| Mon, 02 Mar 2026 10:01:11 GMT | Why Businesses Need Total Security Solutions and Advanced Electronic Security Solutions Today | Ciss India | [Read More](https://medium.com/p/e43eb9a45817) |
+| Mon, 02 Mar 2026 09:55:35 GMT | Why a Security First MSP in Dubai is Essential for Businesses | TechCloud IT Services L.L.C. | [Read More](https://medium.com/p/843869908f2d) |
+| Mon, 02 Mar 2026 09:52:42 GMT | Affordable Security Camera System Mumbai for Homes and Offices | Tanisha Singh | [Read More](https://medium.com/p/6ad294fb0538) |
+| Mon, 02 Mar 2026 09:50:12 GMT | “5 Most Common Configuration Mistakes Attacking Web Applications (According to OWASP)” | Habibi | [Read More](https://medium.com/p/76699b8f7007) |
+| Mon, 02 Mar 2026 09:46:43 GMT | Usage & Practical Concerns: What day-to-day security work actually feels like | Securedotcom | [Read More](https://medium.com/p/3d2927159ada) |
+| Mon, 02 Mar 2026 09:44:33 GMT | Operation Epic Fury, Anthropic’s Federal Ban, and Polymarket’s War Bets - The Daily Tech Digest: 02… | Souren Stepanyan | [Read More](https://medium.com/p/1ff26ee7eddc) |
+| Mon, 02 Mar 2026 09:35:34 GMT | Gerçek Hayatta En Büyük Veri Sızıntıları: Milyarlarca Kayıt Nasıl Açığa Çıktı? | Ali Yaşe | [Read More](https://medium.com/p/dd96f57024d7) |
+| Mon, 02 Mar 2026 09:31:46 GMT | Backup and Recovery | Order Software keys | [Read More](https://medium.com/p/d23425f74748) |
+| Mon, 02 Mar 2026 09:31:00 GMT | Multi-Factor Authentication (MFA) in a Microservices Architecture | Luca Parimbelli | [Read More](https://medium.com/p/163aa175737d) |
+| Mon, 02 Mar 2026 09:31:00 GMT | Simple CTF - TryHackMe Write-up | iIyas | [Read More](https://medium.com/p/34d67cce3770) |
+| Mon, 02 Mar 2026 09:30:33 GMT | FloraChain Privacy 
+Anchored by DarkHorse — | MetaFlora | [Read More](https://medium.com/p/734531d4ba76) |
+| Mon, 02 Mar 2026 09:27:56 GMT | Cybersecurity Experts for Construction Tech Growth | Job24by7 | [Read More](https://medium.com/p/c97c59fedbac) |
+| Mon, 02 Mar 2026 09:27:02 GMT | That Free Charging Port at the Airport Could Cost You Everything | Divine Egyabeng | [Read More](https://medium.com/p/fcc2899c8a28) |
+| Mon, 02 Mar 2026 09:21:55 GMT | Ghost Mantis — Quantum Entanglement Console (Hard Web CTF Challenge - Creator Writeup & Full Solve) | Kaif Tarasgar | [Read More](https://medium.com/p/8123cf526ca8) |
+| Mon, 02 Mar 2026 09:18:24 GMT | The defender’s reverse uno | h@shtalk | [Read More](https://medium.com/p/0dd8b451ab4f) |
+| Mon, 02 Mar 2026 09:17:30 GMT | Ethical Hacking: Stopping Hackers Before They Strike | afreeza | [Read More](https://medium.com/p/991a7e6c7bf3) |
+| Mon, 02 Mar 2026 09:14:29 GMT | “Mapping Web Applications: 5 OWASP Information Gathering Steps for Pro Pentesters” | Habibi | [Read More](https://medium.com/p/386e8fb8a39c) |
+| Mon, 02 Mar 2026 09:14:26 GMT | SELinux fundamentals | Odumosu Pamilerin | [Read More](https://medium.com/p/f488c1303d2b) |
+| Mon, 02 Mar 2026 09:14:22 GMT | Talsec RASP+ and AppiCrypt for Apple TV Apps | Talsec | [Read More](https://medium.com/p/ee6807969f63) |
+| Mon, 02 Mar 2026 09:01:00 GMT | One Employee, 47 Leaked Passwords: A Real Stealer Log Breakdown | Alexandre Vandamme | [Read More](https://medium.com/p/3c153b8a674a) |
 | Mon, 02 Mar 2026 08:55:50 GMT | How to Hash Passwords in Python and Encrypt Sensitive Data the Right Way | Nuno Bispo | [Read More](https://medium.com/p/96e1760b3d25) |
 | Mon, 02 Mar 2026 08:40:28 GMT | The Analogy Project #:10 Would you leave your front door unlocked? | Jonathan Henault | [Read More](https://medium.com/p/95feffac2aa6) |
 | Mon, 02 Mar 2026 08:37:48 GMT | You Didn’t Get Scammed. You Gave Permission. | Ankit rai | [Read More](https://medium.com/p/04c85a5a26ab) |
@@ -91,24 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Mar 2026 05:06:17 GMT | PART 8 — Problem Management: Eliminating Root Causes and Preventing Repeat Cyber Incidents | Abraham Karikari | [Read More](https://medium.com/p/a3b70291458c) |
 | Mon, 02 Mar 2026 05:04:54 GMT | Internet and Cyberbullying. How to educate teens about Cyberbullying? | Lina C Tran | [Read More](https://medium.com/p/7d9293844367) |
 | Mon, 02 Mar 2026 05:00:59 GMT | The “Claude Code” Effect: Are AI Agents Disrupting Cybersecurity and Legacy Tech? | Tanmay Bansal | [Read More](https://medium.com/p/2727628eaf0f) |
-| Mon, 02 Mar 2026 04:48:32 GMT | How a Software Development Company in California Helps Startups and Enterprises Scale Faster | A Smith | [Read More](https://medium.com/p/f4302056565b) |
-| Mon, 02 Mar 2026 04:44:01 GMT | Dystopia 2035: The War on Privacy & Free Speech_Ep. #26–1 | z3r0trust | [Read More](https://medium.com/p/d0aadaed1550) |
-| Mon, 02 Mar 2026 04:43:59 GMT | Cyber Resilience in Education: Why Schools Are Prime Ransomware Target…And Why That Must Change | Faraz Ishaq | [Read More](https://medium.com/p/68bdfad3de0d) |
-| Mon, 02 Mar 2026 04:42:44 GMT | When Hackers and Governments Share the Same AI Co‑Pilot | Senaaravichandran A | [Read More](https://medium.com/p/1226df4b277a) |
-| Mon, 02 Mar 2026 04:41:38 GMT | RPS-(Rock, Paper, Scissors)-picoCTF | Vishvambhar ranoshe | [Read More](https://medium.com/p/be11355bb1a4) |
-| Mon, 02 Mar 2026 04:38:50 GMT | Explain transformers from an information-flow perspective. | NS Academy | [Read More](https://medium.com/p/3368f97cc0bd) |
-| Mon, 02 Mar 2026 04:38:10 GMT | SQLiLite-picoCTF | Vishvambhar ranoshe | [Read More](https://medium.com/p/5b21632954c7) |
-| Mon, 02 Mar 2026 04:23:35 GMT | picoCTF Challenges & HTB Brutus | Jason Utama | [Read More](https://medium.com/p/23bfc09ddf23) |
-| Mon, 02 Mar 2026 04:22:01 GMT | AI-Powered VIP Security in India: How Secura Sense Redefines Protection with Intelligence | Vikram Kumar | [Read More](https://medium.com/p/6a09bd445fe7) |
-| Mon, 02 Mar 2026 04:16:43 GMT | How Race condition leading to business logic flaws affecting | Mesalam_17 | [Read More](https://medium.com/p/945f6949539f) |
-| Mon, 02 Mar 2026 04:02:23 GMT | Would You Still Stay Knowing Me More? | awnu | [Read More](https://medium.com/p/b7d854d3ee51) |
-| Mon, 02 Mar 2026 03:56:52 GMT | How I Found a Broken Object Level Authorization (BOLA) in a Real Production App | 77r4sed | [Read More](https://medium.com/p/808a12aac664) |
-| Mon, 02 Mar 2026 03:22:21 GMT | Event-Viewing — PicoCTF | Najafghifari | [Read More](https://medium.com/p/d8ba5783b38c) |
-| Mon, 02 Mar 2026 03:17:41 GMT | Career Pivot or Environment Shift? | Cheryl Clark | [Read More](https://medium.com/p/2c7c3da6b1af) |
-| Mon, 02 Mar 2026 03:14:41 GMT | Cybersecurity and AI: Will Humans Be Replaced? | Antonyrajvedamanickam | [Read More](https://medium.com/p/6e48952dcd8e) |
-| Mon, 02 Mar 2026 03:13:50 GMT | Breaking Down cross-site scripting (XSS) part 2- Walkthrough via PortSwigger | Hammam Awis Zukimi | [Read More](https://medium.com/p/22ba857de028) |
-| Mon, 02 Mar 2026 03:10:44 GMT | researching how we research is also HCI | seal(theo)ry | [Read More](https://medium.com/p/38e94bbeb3e3) |
-| Mon, 02 Mar 2026 03:10:03 GMT | LLMs Are Non-Deterministic. Your Security Pipeline Shouldn’t Be. | Jeremyah Joel | [Read More](https://medium.com/p/8e5185922e13) |
-| Mon, 02 Mar 2026 02:52:06 GMT | IMDSv1 Lab-Cyberdefenders | Areeya B. | [Read More](https://medium.com/p/f36d38cfbab5) |
-| Mon, 02 Mar 2026 02:51:35 GMT | Cybersecurity Is Not Just VAPT: Understanding the Real Security Landscape | Pronay Biswas | [Read More](https://medium.com/p/9881ae74bfd1) |
-| Mon, 02 Mar 2026 02:47:51 GMT | I Thought I Outsmarted Hackers With Double Hashing. | Shadhujan Jeyachandran | [Read More](https://medium.com/p/61d3f8154595) |
