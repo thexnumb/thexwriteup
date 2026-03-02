@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Mar 2026 21:31:00 GMT | OpenClaw Was the Future of AI. Then Big Tech Banned It, Broke It, and Bought It | Adham Khaled | [Read More](https://medium.com/p/f950d37cbdaf) |
+| Mon, 02 Mar 2026 21:20:50 GMT | Stop Training Humans Like Firewalls | Michael Davis | [Read More](https://medium.com/p/1666640294fd) |
+| Mon, 02 Mar 2026 21:19:14 GMT | When “Human in the Loop” Becomes “Human Lost in the Queue” | Basil C. Puglisi | [Read More](https://medium.com/p/10f499ad1e9d) |
+| Mon, 02 Mar 2026 21:15:16 GMT | CRA Compliance for Device Manufacturers: A Pragmatic Toolstack Guide | Vladislav Klass - Werkspilot | [Read More](https://medium.com/p/2197bccabbbf) |
+| Mon, 02 Mar 2026 21:15:06 GMT | How I Built a Lightweight Network Packet Analyzer in Python ️‍♂️ | Sriman kundu | [Read More](https://medium.com/p/57e7adfbff99) |
+| Mon, 02 Mar 2026 21:14:34 GMT | Thinking Like an Attacker: How API Pen-Testers Identify Authentication Bypass | Veronica Peter | [Read More](https://medium.com/p/34e3ac0afb4a) |
+| Mon, 02 Mar 2026 21:14:33 GMT | Why Cyber Attackers Benefit More from AI Technology than Defenders | Matthew.Rosenquist | [Read More](https://medium.com/p/98efd14ac664) |
+| Mon, 02 Mar 2026 21:13:10 GMT | BYOK: the subtle shift that could reshape how we pay for AI | Enrique Dans | [Read More](https://medium.com/p/9e165d9e63cd) |
+| Mon, 02 Mar 2026 21:11:13 GMT | Malware Development: Part 1 — Understanding the Windows Architecture | Ravi | [Read More](https://medium.com/p/ce97f370b2f7) |
+| Mon, 02 Mar 2026 21:06:42 GMT | The 72-Hour Rule: How Long Would Your Community Function Without Power? | Tyson Figueroa | [Read More](https://medium.com/p/c7691b7a04da) |
 | Mon, 02 Mar 2026 20:36:31 GMT | API Penetration Testing: Exploiting Vulnerabilities in the Damn Vulnerable RESTaurant | Reduan Islam Badhon | [Read More](https://medium.com/p/e6cb652d5d03) |
 | Mon, 02 Mar 2026 20:27:07 GMT | Thinking Like an Attacker: How API Pen-Testers Identify Injection Vulnerabilities | Esther Kenneth | [Read More](https://medium.com/p/fd09efa899bb) |
 | Mon, 02 Mar 2026 20:25:15 GMT | Leaked Playbooks to Fragmented Ecosystem: The Evolution of Conti (2022–2026) | Chrissa Constantine (a.k.a. T3mp3st) | [Read More](https://medium.com/p/21521d54b9ef) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Mar 2026 14:49:57 GMT | When AI Enters the War Room: The U.S. Military and Claude | Sharanraju | [Read More](https://medium.com/p/0cb69528d56f) |
 | Mon, 02 Mar 2026 14:46:49 GMT | How I Built an AI Malware Triage Swarm (And Stopped it from Hallucinating) | Akashwaris | [Read More](https://medium.com/p/112a2684fb95) |
 | Mon, 02 Mar 2026 14:46:30 GMT | Part 2: Thinking Like an API Attacker | Falilatowolabi(leogold) | [Read More](https://medium.com/p/5e4c75671d49) |
-| Mon, 02 Mar 2026 14:45:51 GMT | SIEM Rules: What They Are, How They’re Built, and Why They’re Harder Than They Look | Oluwatosin Ogunjimi | [Read More](https://medium.com/p/b94d4a581463) |
-| Mon, 02 Mar 2026 14:45:29 GMT | Retracted TryHackMe Writeup | Kavusan Yesuraja | [Read More](https://medium.com/p/931d2dc86b66) |
-| Mon, 02 Mar 2026 14:40:54 GMT | Type Punning (Linux x86–64) crackmes.one — AUTHOR — MAS | Aditya Raj | [Read More](https://medium.com/p/5135564c7017) |
-| Mon, 02 Mar 2026 14:40:46 GMT | Troubleshooting the Azure Activity Data Connector in Microsoft Sentinel | Defend Microsoft365 now! | [Read More](https://medium.com/p/d93e9f233203) |
-| Mon, 02 Mar 2026 14:37:25 GMT | Monday Monitor TryHackMe Writeup | Kavusan Yesuraja | [Read More](https://medium.com/p/b1d0a98c07ed) |
-| Mon, 02 Mar 2026 14:35:37 GMT | Post‑Quantum Cryptography and the Coming Legal Ramifications | Pragmatic Security | [Read More](https://medium.com/p/c0ca5481347b) |
-| Mon, 02 Mar 2026 14:31:00 GMT | The 18-Month Automation Wall (And How to See It Coming) | Ehulse | [Read More](https://medium.com/p/c464be04f9fb) |
-| Mon, 02 Mar 2026 14:27:56 GMT | New Roles Emerge for AI Evaluation | Valentin Podkamennyi | [Read More](https://medium.com/p/9096c01d8f79) |
-| Mon, 02 Mar 2026 14:26:20 GMT | How Hackers Bypass Multi-Factor Authentication (MFA) in 2026 | Cynox Security LLP. | [Read More](https://medium.com/p/6d8023901e65) |
-| Mon, 02 Mar 2026 14:14:47 GMT | Understanding Sliver C2 Framework: Beacon and Session Modes | Allen Ace | [Read More](https://medium.com/p/6324f74d9d43) |
