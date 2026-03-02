@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Mar 2026 22:28:44 GMT | HTB — Analytics By Ashbo3n | Ashborn | [Read More](https://medium.com/p/de9e510f7ff4) |
+| Mon, 02 Mar 2026 22:23:24 GMT | How API Pen-Testers Approach Systems: Tools, Mindset, and Methodology | Sharon Nicole Dube | [Read More](https://medium.com/p/851f8791306f) |
+| Mon, 02 Mar 2026 22:19:04 GMT | The Role of a Smart Contract Security Researcher | Abraham | [Read More](https://medium.com/p/e296b20f273c) |
+| Mon, 02 Mar 2026 22:18:25 GMT | CVE-2026–0628: When AI Moves Into the Browser, Chrome Extensions Get a New Way to Break the Rules | Germano Costi | [Read More](https://medium.com/p/695dd1097ab6) |
+| Mon, 02 Mar 2026 22:14:18 GMT | Your University Is Letting AI See Everything. And Nobody’s Talking About It. | Siddhi Rohan | [Read More](https://medium.com/p/3e25e0e6cc37) |
+| Mon, 02 Mar 2026 22:06:22 GMT | The Return of the Yeti (THM) WriteUp Answer | Lawvye | [Read More](https://medium.com/p/e9ffe7222115) |
+| Mon, 02 Mar 2026 22:01:00 GMT | Unfiltered Restart — Day 15: Exam Prep, Day 1 | Maximillian Rueda | [Read More](https://medium.com/p/03857385ca13) |
+| Mon, 02 Mar 2026 22:00:43 GMT | Security Alert: Unpatched Backend Flaw in Ring Cameras — Tony Capo Warning | Admin | [Read More](https://medium.com/p/81e75deee4ea) |
+| Mon, 02 Mar 2026 21:59:58 GMT | AI Security Series : INSECURE AI APIs | Damilola Faith Ashiedu | [Read More](https://medium.com/p/0ecb9ed84129) |
+| Mon, 02 Mar 2026 21:56:44 GMT | Configuring ACLs in Cisco Packet Tracer | markachko | [Read More](https://medium.com/p/0bb2fb217b7e) |
+| Mon, 02 Mar 2026 21:56:41 GMT | Control a Pack of AI Coding Agents From My Telegram Group Chat | Itay Shmool | [Read More](https://medium.com/p/9eda4277bbc5) |
+| Mon, 02 Mar 2026 21:56:24 GMT | RST TI Report Digest: 02 Mar 2026 | RST Cloud | [Read More](https://medium.com/p/c6de27a00cf8) |
+| Mon, 02 Mar 2026 21:52:04 GMT | Creating a Backend for Workflow Automation: How the platform knows who you are? | Ankit Arsh | [Read More](https://medium.com/p/af6e9174c370) |
+| Mon, 02 Mar 2026 21:49:05 GMT | The Death of Probabilistic Safety: 99 Patents for Deterministic AI Governance | Gene Salvatore | [Read More](https://medium.com/p/888e51a14a04) |
+| Mon, 02 Mar 2026 21:47:26 GMT | HTB Sherlock : Telly | h4nr1_s3ld0n | [Read More](https://medium.com/p/ee20252cb940) |
+| Mon, 02 Mar 2026 21:46:25 GMT | AI Isn’t Coming for Your Job, It’s Coming to Be Your Most Enthusiastic Intern | Caksa Aji | [Read More](https://medium.com/p/6c1c40c1a0fb) |
+| Mon, 02 Mar 2026 21:46:01 GMT | Homologation in 2026: The Center of Gravity Has Moved from Test Reports to Audit Evidence (UN… | Xeeniq Intelligence | [Read More](https://medium.com/p/673aaf77b5b4) |
+| Mon, 02 Mar 2026 21:37:20 GMT | LOLBAS: Log-Oriented Leakage Breaking Advanced Security | SysBin | [Read More](https://medium.com/p/e2b1d653ce18) |
 | Mon, 02 Mar 2026 21:31:00 GMT | OpenClaw Was the Future of AI. Then Big Tech Banned It, Broke It, and Bought It | Adham Khaled | [Read More](https://medium.com/p/f950d37cbdaf) |
 | Mon, 02 Mar 2026 21:20:50 GMT | Stop Training Humans Like Firewalls | Michael Davis | [Read More](https://medium.com/p/1666640294fd) |
 | Mon, 02 Mar 2026 21:19:14 GMT | When “Human in the Loop” Becomes “Human Lost in the Queue” | Basil C. Puglisi | [Read More](https://medium.com/p/10f499ad1e9d) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Mar 2026 15:45:28 GMT | OpenClaw, ClaudeBot, and the Illusion of Control | Len Noe | [Read More](https://medium.com/p/553d26613909) |
 | Mon, 02 Mar 2026 15:44:31 GMT | Malware Analysis and Reverse Engineering Report: A Hands-On Journey Through Macro Malware… | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/eb95fde9f8de) |
 | Mon, 02 Mar 2026 15:38:40 GMT | I Stopped Sending My Data to AI Companies. Here’s What I Use Instead. | AIThinkerLab | [Read More](https://medium.com/p/1fd62ec4fbd9) |
-| Mon, 02 Mar 2026 15:32:20 GMT | Exploiting GraphQL: A Full-Spectrum Security Assessment Covering Introspection, Injection, and… | Kiza | [Read More](https://medium.com/p/560f49a44f36) |
-| Mon, 02 Mar 2026 15:31:01 GMT | Your AI Agents Are Burning Your Attestation Theater Down | Trinitite | [Read More](https://medium.com/p/ae5f3daeb2bf) |
-| Mon, 02 Mar 2026 15:26:14 GMT | More SQLi — picoCTF Writeup | mayhack | [Read More](https://medium.com/p/d04ff3728a8b) |
-| Mon, 02 Mar 2026 15:24:35 GMT | Lab: Reflected DOM XSS | mayhack | [Read More](https://medium.com/p/e39990824f57) |
-| Mon, 02 Mar 2026 15:16:33 GMT | How Japan’s Top Cybersecurity Threats for 2026 Reveal the Rise of AI Risks: A Threat Intelligence… | an7arc71ca | [Read More](https://medium.com/p/97a10332d577) |
-| Mon, 02 Mar 2026 15:16:07 GMT | Mastering Linux User & Group Management: Step-by-Step Guide for DevOps Beginners | AKUBUKO JAPHET UCHENNA | [Read More](https://medium.com/p/bb4adb202215) |
-| Mon, 02 Mar 2026 15:15:23 GMT | CySA+ Hands-On Lab — Metasploitable vs Windows XP 64 machine | Bob Malin | [Read More](https://medium.com/p/d7223cb5c680) |
-| Mon, 02 Mar 2026 15:15:13 GMT | Debunked: The 7 Biggest Misconceptions about AI Agents You Need to Ignore | Xaltius | [Read More](https://medium.com/p/90b9a89fd8b4) |
-| Mon, 02 Mar 2026 15:04:53 GMT | Thinking Shallow Will Kill Your Career in the AI Era | timepersonified | [Read More](https://medium.com/p/3ec7c7a74395) |
-| Mon, 02 Mar 2026 15:02:34 GMT | MalDev 101: Writing Your First Shellcode Runner in C | Keith Monroe | [Read More](https://medium.com/p/3bc861169796) |
-| Mon, 02 Mar 2026 15:02:03 GMT | Hackviser: SentryNode Write-ups | Written by k41r0s3 | [Read More](https://medium.com/p/e5372a2b3971) |
-| Mon, 02 Mar 2026 15:01:03 GMT | How to Write a Vulnerability Report That Gets Paid -Not Rejected | Hacker MD | [Read More](https://medium.com/p/77c2351134fa) |
-| Mon, 02 Mar 2026 14:56:20 GMT | Deploying Offline LLMs Safely: Technical, Ethical, and Operational Guidelines for Edge AI | Avelagalihemanth | [Read More](https://medium.com/p/29c9ae54d8e4) |
-| Mon, 02 Mar 2026 14:52:17 GMT | The Ultimate Unified CTI Platform: Integrating Local AI, Predictive Analytics, and Automated Threat… | Maneesha Dewmina | [Read More](https://medium.com/p/93d8cdd1c9c9) |
-| Mon, 02 Mar 2026 14:51:39 GMT | How a Missing Type Check Turned Into a Remote Node Crash ($100 Bounty) | Sumit Shah (HackSage) | [Read More](https://medium.com/p/ed8dcc29f123) |
-| Mon, 02 Mar 2026 14:49:57 GMT | When AI Enters the War Room: The U.S. Military and Claude | Sharanraju | [Read More](https://medium.com/p/0cb69528d56f) |
-| Mon, 02 Mar 2026 14:46:49 GMT | How I Built an AI Malware Triage Swarm (And Stopped it from Hallucinating) | Akashwaris | [Read More](https://medium.com/p/112a2684fb95) |
-| Mon, 02 Mar 2026 14:46:30 GMT | Part 2: Thinking Like an API Attacker | Falilatowolabi(leogold) | [Read More](https://medium.com/p/5e4c75671d49) |
