@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Mar 2026 14:02:38 GMT | Transmission: The Feed is a Weapon | Abhinav Jain | [Read More](https://medium.com/p/57c1cf125e27) |
+| Mon, 02 Mar 2026 14:00:48 GMT | HTB DFIR Sherlock: SmartyPants | WildPasta | [Read More](https://medium.com/p/a71c8de82e55) |
+| Mon, 02 Mar 2026 13:51:22 GMT | AndroDialer Challenge-8KSEC | Mohamed Ayman | [Read More](https://medium.com/p/eebf357da038) |
+| Mon, 02 Mar 2026 13:48:29 GMT | Why Traders Will Migrate to Yellow Network Instead of Choosing Between CEXs and DEXs | Alhajimali | [Read More](https://medium.com/p/84f0d357bb75) |
+| Mon, 02 Mar 2026 13:42:28 GMT | Android Static Analysis — Red Team | Yrddry | [Read More](https://medium.com/p/bcdf640ca4cb) |
+| Mon, 02 Mar 2026 13:37:10 GMT | Ready to Build a Career in Cyber Security? | Molletibalu | [Read More](https://medium.com/p/e198781e1a26) |
+| Mon, 02 Mar 2026 13:36:40 GMT | Beginner’s Guide to Setting Up OpenVAS (GVM) on Kali Linux) | Priyanka Behera | [Read More](https://medium.com/p/753aba86e185) |
+| Mon, 02 Mar 2026 13:34:47 GMT | “Missile attacks and air defenses activating” | Adam Cark | [Read More](https://medium.com/p/e089f6eb4aa0) |
+| Mon, 02 Mar 2026 13:31:52 GMT | From Recon to Exploitation: How Attackers Discover, Exploit, and Chain Web App Vulnerabilities —… | Aanchal Singh Rajawat | [Read More](https://medium.com/p/79acf227650b) |
+| Mon, 02 Mar 2026 13:31:00 GMT | BRUTE FORCE DETECTION WITH PYTHON: Log Analysis and Security Automation | dilan alpaltun | [Read More](https://medium.com/p/b58207a260c2) |
+| Mon, 02 Mar 2026 13:31:00 GMT | Peppol AS4 Under the Microscope: From TCP Handshake to Encrypted Invoice | Alex Olsson | [Read More](https://medium.com/p/4da0e02b4e3c) |
+| Mon, 02 Mar 2026 13:25:51 GMT | Malware Development — 4 (APC Injection) | 0r | [Read More](https://medium.com/p/54d3ffa512f4) |
+| Mon, 02 Mar 2026 13:10:22 GMT | Access Control Vulnerabilities (Through Burp Suite Labs) Pt. 2: Horizontal Privilege Escalation | heckor | [Read More](https://medium.com/p/f71081367ab1) |
+| Mon, 02 Mar 2026 13:09:45 GMT | OTP Bypass via Response Manipulation — Account Security Flaw | mohamed badawy | [Read More](https://medium.com/p/e3d403b7aae2) |
+| Mon, 02 Mar 2026 13:07:25 GMT | The State of Ethical Hacking Tools in 2026-A Comprehensive Guide for Security Leaders | Chetan Seripally | [Read More](https://medium.com/p/283634b6f61b) |
+| Mon, 02 Mar 2026 13:01:47 GMT | Your Password Is Not as Strong as You Think — And Hackers Know It | Harveen Kaur | [Read More](https://medium.com/p/f2979323c9c8) |
 | Mon, 02 Mar 2026 12:58:35 GMT | When Silence Is Not an Option: Odido, ShinyHunters, and the Cost of Refusing to Pay | Gbolahan Akinbola | [Read More](https://medium.com/p/7ebabb805104) |
 | Mon, 02 Mar 2026 12:54:42 GMT | Linked List dalam Python | Aghnia Azka | [Read More](https://medium.com/p/03a0d82fff4b) |
 | Mon, 02 Mar 2026 12:47:09 GMT | ️ Cybersecurity Roadmap 2026: The Complete Guide to Breaking Into (and Leveling Up in)… | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/eda56464e507) |
@@ -97,19 +113,3 @@ Anchored by DarkHorse — | MetaFlora | [Read More](https://medium.com/p/734531d
 | Mon, 02 Mar 2026 08:17:09 GMT | ตรวจสอบด่วน! ช่องโหว่ใน Grandstream GXP1600 VoIP Phones เสี่ยงถูกยึดเครื่อง | ThaiCERT By NCSA | [Read More](https://medium.com/p/26717b9e321f) |
 | Mon, 02 Mar 2026 08:13:28 GMT | ประจำวันจันทร์ที่ 2 มีนาคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/d5319a9fe0cf) |
 | Mon, 02 Mar 2026 08:10:36 GMT | Building Scalable Mobile and Web Applications in 2026 | AcmeMinds | [Read More](https://medium.com/p/a68ce1a8e4aa) |
-| Mon, 02 Mar 2026 08:05:35 GMT | Bug Bounty Hunting — Complete Guide (Part-165) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/ffbdc66b6adc) |
-| Mon, 02 Mar 2026 08:03:59 GMT | Bug Bounty Hunting — Complete Guide (Part-164) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/4904f5b58a59) |
-| Mon, 02 Mar 2026 08:02:21 GMT | Galaxy Dash writeup (SQLi) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/08ddb098fbc1) |
-| Mon, 02 Mar 2026 08:00:15 GMT | From Swagger to XSS: Turning a Misconfigured configUrl into a $400 RXSS Bounty | dr34m14 | [Read More](https://medium.com/p/34b60301b12b) |
-| Mon, 02 Mar 2026 07:56:00 GMT | “Strong” and “Weak” Clients: Why This Is a False Divide | Valentina Artamonova | [Read More](https://medium.com/p/cb8bb9d82be9) |
-| Mon, 02 Mar 2026 07:53:50 GMT | What 3 Years of Enterprise IAM Taught me About Securing Cloud Identities | Vivek Kumar | [Read More](https://medium.com/p/386b03202177) |
-| Mon, 02 Mar 2026 07:49:34 GMT | How to securely access your EC2 instances without opening any ports | RepoBaby | [Read More](https://medium.com/p/722fbfcc9310) |
-| Mon, 02 Mar 2026 07:46:00 GMT | Şifreniz Doğru Olsa Bile Girişiniz Neden Engellendi? | Fatih Yuksektepe | [Read More](https://medium.com/p/04d7aaa71b4c) |
-| Mon, 02 Mar 2026 07:41:42 GMT | What Is Counter Terrorism and Its Role in Modern Threat Prevention? | Trust Consulting Services | [Read More](https://medium.com/p/79c27cdeec29) |
-| Mon, 02 Mar 2026 07:31:00 GMT | When Agent Tool Caches Turn Into Attack Surfaces | Nexumo | [Read More](https://medium.com/p/041119393328) |
-| Mon, 02 Mar 2026 07:30:48 GMT | What should enterprises look for in a hybrid data integration platform? | concret.io | [Read More](https://medium.com/p/45a21b82dd3c) |
-| Mon, 02 Mar 2026 07:28:33 GMT | Why My EC2 Instance Wasn’t Accessible — Until I Understood NACL vs Security Groups | Narmadha | [Read More](https://medium.com/p/74819c0a9037) |
-| Mon, 02 Mar 2026 07:26:09 GMT | Hackers vs. Humans: The Battle for Digital Security | Asadullahzardari | [Read More](https://medium.com/p/67682672528a) |
-| Mon, 02 Mar 2026 07:25:26 GMT | Why Manufacturing Units Need Industrial Security Guards | Crewforge India | [Read More](https://medium.com/p/662861802b22) |
-| Mon, 02 Mar 2026 07:24:59 GMT | Zero Trust Architecture Implementation in Hybrid Environments | Majidbasharat | [Read More](https://medium.com/p/1ae92949f5b4) |
-| Mon, 02 Mar 2026 07:24:01 GMT | CafeClub writeup (LFI) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/63907e642e14) |
