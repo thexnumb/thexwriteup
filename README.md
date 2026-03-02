@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Mar 2026 02:15:36 GMT | An AI Agent Just Talked Its Way Into Your Software Supply Chain. Nobody Noticed. | AstraSync AI | [Read More](https://medium.com/p/435a1149f79b) |
+| Mon, 02 Mar 2026 02:14:54 GMT | 18 Ways to Root a Linux Box; TryHackMe Linux PrivEsc Walkthrough | Robert Perez | [Read More](https://medium.com/p/68dd90e18b24) |
+| Mon, 02 Mar 2026 02:08:02 GMT | New Gmail Account Attack Warning Hackers Abuse Critical Security Check | Moni | [Read More](https://medium.com/p/e887d13b4f50) |
+| Mon, 02 Mar 2026 02:07:41 GMT | Linux Fundamentals Every Cybersecurity Student Must Master (With Practical Explanation) | Taimoor Matloob | [Read More](https://medium.com/p/8b326eda6c77) |
+| Mon, 02 Mar 2026 02:06:06 GMT | Run Garak on (Headless) Linux to Red Team a Small Locally-hosted (Ollama) Model | 喂美女你好! | [Read More](https://medium.com/p/896c37e7a92d) |
+| Mon, 02 Mar 2026 01:57:35 GMT | Hardening Snowflake Security with Malicious IP Protection: A Production-Grade Implementation Guide | Satish Kumar | [Read More](https://medium.com/p/7a6659872652) |
+| Mon, 02 Mar 2026 01:51:25 GMT | What is penetration testing? - What is pen testing? | Fatihbadem | [Read More](https://medium.com/p/ebd68a4dc388) |
+| Mon, 02 Mar 2026 01:47:55 GMT | How Hackers Attack Cloud Environments | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/0bd48450151d) |
+| Mon, 02 Mar 2026 01:45:23 GMT | The 29-Minute Window: Why AI is No Longer Optional in Cybersecurity | Md Rahat Rahman Akas | [Read More](https://medium.com/p/985aa0c3311d) |
+| Mon, 02 Mar 2026 01:40:35 GMT | Microgpt | Aman Shekhar | [Read More](https://medium.com/p/88c6dad41751) |
+| Mon, 02 Mar 2026 01:31:00 GMT | Retries Can Corrupt State When Scopes Change | Quaxel | [Read More](https://medium.com/p/30f8d7f6cff7) |
+| Mon, 02 Mar 2026 01:31:00 GMT | When “Read-Only” Tools Still Change Things | Modexa | [Read More](https://medium.com/p/5ce6ff3a3737) |
+| Mon, 02 Mar 2026 01:15:48 GMT | OffSec: Moneybox Walkthrough | Antonio | [Read More](https://medium.com/p/5025deb0c1af) |
+| Mon, 02 Mar 2026 01:14:11 GMT | Passkeys Are Going Mainstream — But Architecture Still Defines Security | Anton Minin Baranovskii | [Read More](https://medium.com/p/4ab1a47098e0) |
+| Mon, 02 Mar 2026 01:12:58 GMT | HTB Keeper Writeup: How a Danish Dessert Unlocked Root Access | Onurcan Genç | [Read More](https://medium.com/p/798f995e72be) |
+| Mon, 02 Mar 2026 01:03:33 GMT | Day 3 of getting started to become a Master hacker | Nakul | [Read More](https://medium.com/p/f5fa42f1964c) |
+| Mon, 02 Mar 2026 01:02:52 GMT | WSTG-CONF-07 | Narathama Firmansyah Putra | [Read More](https://medium.com/p/c0c5c85e6ede) |
+| Mon, 02 Mar 2026 00:56:04 GMT | How I Found a Broken Object Level Authorization (BOLA) in a Real Production App | 77r4sed | [Read More](https://medium.com/p/0c6e681a1f7b) |
+| Mon, 02 Mar 2026 00:15:01 GMT | Steel Mountain -TryHackMe Writeup | Hemantha Krishna Challa | [Read More](https://medium.com/p/c4acbb18efe2) |
+| Mon, 02 Mar 2026 00:07:49 GMT | Securing AI: The iRAID™ Adaptive Layered Closed-Loop Architecture | Govind Palakuri | [Read More](https://medium.com/p/f55caa2b2b4e) |
+| Sun, 01 Mar 2026 23:52:07 GMT | Sensitive Data Exposure Attack Lab: A Hands-On Journey Through Information Leakage and File… | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/beb94aff190a) |
 | Sun, 01 Mar 2026 23:33:12 GMT | Cyber Security Offense and Defense Home Lab — Part 3 (Installing pfsense firewall) | Mahim Avi | [Read More](https://medium.com/p/6ca5250fedee) |
 | Sun, 01 Mar 2026 23:30:40 GMT | So… Apparently I Have Cancer | Susan League | [Read More](https://medium.com/p/aac8b4ca2bbb) |
 | Sun, 01 Mar 2026 23:24:13 GMT | Cyber Security Offense and Defense Home Lab — Part 2 (Covers vmware download and installation… | Mahim Avi | [Read More](https://medium.com/p/5f4d9878ef90) |
@@ -93,24 +114,3 @@ I want to be upfront about something… | Travis Stein | [Read More](https://med
 | Sun, 01 Mar 2026 17:14:43 GMT | RootMe — TryHackMe Walkthrough - Complete Beginner-Friendly Write-Up | Sneha | [Read More](https://medium.com/p/7b94e5ec191d) |
 | Sun, 01 Mar 2026 17:13:45 GMT | CyberTalents: Strength Calculator WEB CTF | MS.Jix | [Read More](https://medium.com/p/3ba669c3a081) |
 | Sun, 01 Mar 2026 17:09:41 GMT | Why Has It Become So Hard to Build Real Bonds in a Digital World? | cernartiste | [Read More](https://medium.com/p/25d48784f39c) |
-| Sun, 01 Mar 2026 17:08:44 GMT | From EAP to NTLM: What Happens After 802.1X Reaches the Server | winnietheSUii | [Read More](https://medium.com/p/ed41a9cb48e7) |
-| Sun, 01 Mar 2026 17:03:13 GMT | Basic Static Malware Analysis: From Triage to Unpacking — Explained and Automated | Andrey Pautov | [Read More](https://medium.com/p/9442ef3b11b8) |
-| Sun, 01 Mar 2026 16:52:13 GMT | What are business logic vulnerabilities? | BinaryShield | [Read More](https://medium.com/p/e0ed964e2468) |
-| Sun, 01 Mar 2026 16:51:55 GMT | What are CORS vulnerabilities (cross-origin resource sharing)? | BinaryShield | [Read More](https://medium.com/p/0b1f3c97af4e) |
-| Sun, 01 Mar 2026 16:42:34 GMT | From Curious Mind to Cybersecurity Professional: My Journey Begins | Swapnilmagar | [Read More](https://medium.com/p/c3adadd06341) |
-| Sun, 01 Mar 2026 16:38:01 GMT | India Just Changed How WhatsApp Works - And Most People Are Missing the Real Story | Mrunal chawda | [Read More](https://medium.com/p/d09706acb424) |
-| Sun, 01 Mar 2026 16:34:08 GMT | Ghost Pods and Fileless Malware in Kubernetes: A Technical Deep Dive | Alex | [Read More](https://medium.com/p/4435e6dbba14) |
-| Sun, 01 Mar 2026 16:31:35 GMT | Building DevSecOps Workflow | Harshitaa Ashish | [Read More](https://medium.com/p/0d7f2f880869) |
-| Sun, 01 Mar 2026 16:25:54 GMT | picoCTF - Ph4nt0m 1ntrud3r | M.Daffa Hakiki | [Read More](https://medium.com/p/a6838703c4b7) |
-| Sun, 01 Mar 2026 16:25:53 GMT | 【威脅情資】濫用 Windows 檔案總管與 WebDAV 攻擊手法分析與防禦策略 | segalee | [Read More](https://medium.com/p/d8c5a1d34a53) |
-| Sun, 01 Mar 2026 16:19:15 GMT | Why I’m Starting My Robotics Journey as an IT Engineering Student | roshan | [Read More](https://medium.com/p/35bfb09b5fd7) |
-| Sun, 01 Mar 2026 16:15:58 GMT | From RBAC to Risk-Based AI Control: Why “Human-in-the-Loop” Isn’t a Security Strategy | Marton Schneider | [Read More](https://medium.com/p/d28c6a43b01b) |
-| Sun, 01 Mar 2026 16:13:27 GMT | From Troubleshooting Devices to Thinking About Security | Rinu_MJ | [Read More](https://medium.com/p/5875e6ebd6b0) |
-| Sun, 01 Mar 2026 16:11:45 GMT | 10 Administrator-to-SYSTEM Privilege Escalation Techniques Every Red Teamer MUST Master | Candy Wong | [Read More](https://medium.com/p/43e4fdb1c871) |
-| Sun, 01 Mar 2026 16:11:02 GMT | The Silent Force That Is Changing Our Lives Every Second | Keshavajax | [Read More](https://medium.com/p/e99eb03011dc) |
-| Sun, 01 Mar 2026 16:08:55 GMT | Inside a Full Internal Penetration Test: How Four Critical Vulnerabilities Led to Complete Root… | Oluwatobi Adeyemi | [Read More](https://medium.com/p/5f308f4c1ebb) |
-| Sun, 01 Mar 2026 16:08:23 GMT | The Invisible Kill Chain: Detecting Non-Human Identity Attacks Across Telemetry Boundaries | Koifsec | [Read More](https://medium.com/p/90ffa0f1578a) |
-| Sun, 01 Mar 2026 16:07:13 GMT | The App Apple Wants You to Delete | Anil Kumar Bakkashetti | [Read More](https://medium.com/p/a3d8a8706855) |
-| Sun, 01 Mar 2026 16:06:41 GMT | Secure Session Management in Spring Boot — Let’s Talk About It | Neha Pal | [Read More](https://medium.com/p/c971c5ee6ace) |
-| Sun, 01 Mar 2026 16:03:37 GMT | How to not accidentally shoot yourself in the foot with AI development | Patrick Collins | [Read More](https://medium.com/p/b5f529ca7823) |
-| Sun, 01 Mar 2026 15:56:45 GMT | AI Safety is No Longer Optional: Why 'SafeAIY' is the New Standard for Enterprise Branding | M Ibrahimhossainn | [Read More](https://medium.com/p/7b73db7651b5) |
