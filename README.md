@@ -12,7 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 02 Mar 2026 11:05:14 GMT | How the Best DevSecOps Companies Reduce Breaches by 70% | Devseccopsai | [Read More](https://medium.com/p/307b7ced6ab5) |
+| Mon, 02 Mar 2026 10:55:33 GMT | Dubai & UAE on March 2, 2026 — A Nation Navigates Uncertainty Amid Regional Conflict | Justblogo | [Read More](https://medium.com/p/648ef6468b7c) |
+| Mon, 02 Mar 2026 10:55:19 GMT | • How Computers Actually Work (Simple & Detailed Explanation) | Aariz Khan | [Read More](https://medium.com/p/c1395c14da6a) |
+| Mon, 02 Mar 2026 10:51:58 GMT | How I Found Yet Another Misconfiguration on This College Site | Md Tanjimul Islam Sifat | [Read More](https://medium.com/p/e92925c6cb47) |
+| Mon, 02 Mar 2026 10:49:09 GMT | Python Injection Attacks | Maikel Mardjan | [Read More](https://medium.com/p/1e9039222040) |
+| Mon, 02 Mar 2026 10:46:29 GMT | The Proliferation of Edge-Based Botnets in Asia-Pacific Telecommunications Networks | David SEHYEON Baek | [Read More](https://medium.com/p/6d7b82ad8909) |
+| Mon, 02 Mar 2026 10:45:53 GMT | The Meltdown Before the Meltdown: What Three Mile Island Teaches About CVE Management | Levente Simon | [Read More](https://medium.com/p/b7ad6fa92f70) |
+| Mon, 02 Mar 2026 10:44:58 GMT | How Certified Security Analyst Training Prepares You for Real-World Cyber Threats | Naflansari | [Read More](https://medium.com/p/3e10144d78db) |
+| Mon, 02 Mar 2026 10:44:09 GMT | My API Security Journey: From Endpoints to Thinking Like an Attacker | Animashawunkomolara | [Read More](https://medium.com/p/06846f90f39b) |
+| Mon, 02 Mar 2026 10:43:59 GMT | Why Website Ownership Is Becoming More Valuable Than Social Media Reach? | Janet Watson | [Read More](https://medium.com/p/4a84d7668d30) |
+| Mon, 02 Mar 2026 10:42:38 GMT | Et si la cybersécurité apprenait à vivre ? | Cedrik Darel | [Read More](https://medium.com/p/6097bfa1c9ab) |
+| Mon, 02 Mar 2026 10:36:49 GMT | How Bots Direct World — Politicians,Superstars,Fenomens,Companies | ALIABBAS ABASOV 5 X BEATZ | [Read More](https://medium.com/p/629abbb73b2b) |
+| Mon, 02 Mar 2026 10:35:59 GMT | The Biggest Lie in SME Cybersecurity: “We’re Too Small to Be a Target” | Gaurav Shukla | [Read More](https://medium.com/p/0853805be18b) |
+| Mon, 02 Mar 2026 10:27:05 GMT | Defense in Depth: The Bedrock of Modern Cybersecurity | Guillaume Forget | [Read More](https://medium.com/p/8b30315d8dc2) |
+| Mon, 02 Mar 2026 10:18:14 GMT | When Infrastructure Bleeds: Aadhaar, Debit Cards & the Fragility of Digital Trust | Vasant Bhadauria | [Read More](https://medium.com/p/c526d16b55e8) |
+| Mon, 02 Mar 2026 10:08:47 GMT | Security First MSP in London: Ensuring Data Safety | Proxar IT Consulting | [Read More](https://medium.com/p/8b73e5d8b937) |
 | Mon, 02 Mar 2026 10:04:41 GMT | PicoCTF-Forensics - Event-Viewing | M.Daffa Hakiki | [Read More](https://medium.com/p/238bf68945ec) |
+| Mon, 02 Mar 2026 10:04:03 GMT | Bảo Vệ Là Gì? Hiểu Đúng Vai Trò & Nhiệm Vụ | Bảo vệ Ngày & Đêm Tây Bắc SG | [Read More](https://medium.com/p/af1d3070f25b) |
 | Mon, 02 Mar 2026 10:01:11 GMT | Why Businesses Need Total Security Solutions and Advanced Electronic Security Solutions Today | Ciss India | [Read More](https://medium.com/p/e43eb9a45817) |
 | Mon, 02 Mar 2026 09:55:35 GMT | Why a Security First MSP in Dubai is Essential for Businesses | TechCloud IT Services L.L.C. | [Read More](https://medium.com/p/843869908f2d) |
 | Mon, 02 Mar 2026 09:52:42 GMT | Affordable Security Camera System Mumbai for Homes and Offices | Tanisha Singh | [Read More](https://medium.com/p/6ad294fb0538) |
@@ -96,20 +113,3 @@ Anchored by DarkHorse — | MetaFlora | [Read More](https://medium.com/p/734531d
 | Mon, 02 Mar 2026 06:07:33 GMT | How Banking Apps Prevent Certificate Outages with Triple Pinning | MdNiks | [Read More](https://medium.com/p/d2214f3661d5) |
 | Mon, 02 Mar 2026 06:02:41 GMT | Breaking Authentication — Part 5 | ghostyjoe | [Read More](https://medium.com/p/5ce8d4b7aa74) |
 | Mon, 02 Mar 2026 06:02:06 GMT | A Hacker Used Claude to Steal 195 Million Government Records | Usman Writes | [Read More](https://medium.com/p/fd09c4a3becd) |
-| Mon, 02 Mar 2026 06:01:01 GMT | Thinking Like an Attacker: How API Pen-Testers Identify IDOR Vulnerabilities | Odunlade Adeola | [Read More](https://medium.com/p/e57719de5a88) |
-| Mon, 02 Mar 2026 06:01:00 GMT | Telefonun Ötesinde: “Kendi Nesneni Getir” (BYOT) Çağında Kurumsal Güvenliği Sağlamak | Kartaca | [Read More](https://medium.com/p/29778582c0fa) |
-| Mon, 02 Mar 2026 05:59:34 GMT | Make safer endpoints by simulating bruteforce attack! | Jeff Nasseri | [Read More](https://medium.com/p/dcf29267afa8) |
-| Mon, 02 Mar 2026 05:54:11 GMT | Behind the Login Button: How Websites Remember You | Gyaneshchand | [Read More](https://medium.com/p/00cbe0933123) |
-| Mon, 02 Mar 2026 05:43:00 GMT | 5 Chrome Extensions That Save Me $50 a Month (The Automation Audit) | Echoed Thoughts | [Read More](https://medium.com/p/e00848039ec0) |
-| Mon, 02 Mar 2026 05:36:41 GMT | Using Fleak.ai for Security Log Data Normalisation | Francis Dong | [Read More](https://medium.com/p/422655ec3364) |
-| Mon, 02 Mar 2026 05:34:54 GMT | AMC (Annual Maintenance Contract): The Silent Backbone of Reliable IT | Zefai Insights | [Read More](https://medium.com/p/48a10875c607) |
-| Mon, 02 Mar 2026 05:34:43 GMT | GraphQL API Security: Common Vulnerabilities and Exploits | Cynox Security LLP. | [Read More](https://medium.com/p/8efa8e463657) |
-| Mon, 02 Mar 2026 05:33:44 GMT | Is Anthropic Killing the IT Industry? Or Are We Just Panicking Again? | Mobile Application Developer - Vaidhik | [Read More](https://medium.com/p/db4660951c3f) |
-| Mon, 02 Mar 2026 05:24:52 GMT | Executive Protection in Baltimore: How Business Leaders Stay Safe at Public Appearances | Jeremysjackson | [Read More](https://medium.com/p/13f6dcb4d45e) |
-| Mon, 02 Mar 2026 05:24:24 GMT | CyberDefenders — WebStrike Lab (CTF Challenge) | Riconatanael | [Read More](https://medium.com/p/2d1db7cae3e4) |
-| Mon, 02 Mar 2026 05:17:50 GMT | Day 3: Adversarial Attacks in Depth: FGSM, PGD, C&W, and Why the Obvious Defenses Fail | Budhdi Sharma | [Read More](https://medium.com/p/89b01c8fa123) |
-| Mon, 02 Mar 2026 05:09:00 GMT | Pentesting ohne IT-Erfahrung: Ist der OSCP genug? | Donbread Service | [Read More](https://medium.com/p/487fd025e002) |
-| Mon, 02 Mar 2026 05:07:19 GMT | Ghost Mantis CTF 2026 — CREST PCU | Laxmikant Dhawade | [Read More](https://medium.com/p/9c17654ef62b) |
-| Mon, 02 Mar 2026 05:06:17 GMT | PART 8 — Problem Management: Eliminating Root Causes and Preventing Repeat Cyber Incidents | Abraham Karikari | [Read More](https://medium.com/p/a3b70291458c) |
-| Mon, 02 Mar 2026 05:04:54 GMT | Internet and Cyberbullying. How to educate teens about Cyberbullying? | Lina C Tran | [Read More](https://medium.com/p/7d9293844367) |
-| Mon, 02 Mar 2026 05:00:59 GMT | The “Claude Code” Effect: Are AI Agents Disrupting Cybersecurity and Legacy Tech? | Tanmay Bansal | [Read More](https://medium.com/p/2727628eaf0f) |
