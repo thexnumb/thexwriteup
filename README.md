@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Mar 2026 09:42:10 GMT | Anthropic Just Released Claude Code Security, and the Internet Declared Bug Hunting Dead | Muhammad Haider Tallal | [Read More](https://medium.com/p/94d16ed3a879) |
+| Tue, 03 Mar 2026 09:38:54 GMT | Dijital Minimalizm ve Güvenlik: Daha Az Veri, Daha Fazla Kontrol | Ali Yaşe | [Read More](https://medium.com/p/11a2ea061246) |
+| Tue, 03 Mar 2026 09:37:07 GMT | Click Fraud: The Silent Drain on Digital Ads | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/e2c1d440305e) |
+| Tue, 03 Mar 2026 09:37:03 GMT | How to Fix McAfee identity protection alert — Complete Troubleshooting Guide | Support | [Read More](https://medium.com/p/3e50d038f890) |
+| Tue, 03 Mar 2026 09:31:00 GMT | Controlling the Endpoint: How Headwind MDM Secures ATAK Devices in a Tactical Zero Trust Network | Babyf4c3 | [Read More](https://medium.com/p/9c1f9911efba) |
+| Tue, 03 Mar 2026 09:30:07 GMT | ความปลอดภัยของการอัปโหลดไฟล์ ไม่ใช่แค่ Validation — แต่มันคือ Architecture | Thiti Apiwong | [Read More](https://medium.com/p/9801530fc9da) |
+| Tue, 03 Mar 2026 09:26:31 GMT | AWS IAM Security Best Practices — Why Over-Permissive Access Is Your Biggest Cloud Risk | Kuboid Secure Layer | [Read More](https://medium.com/p/b39e9a0f6cae) |
+| Tue, 03 Mar 2026 09:17:24 GMT | PicoCTF - Ph4nt0m 1ntrud3r | irvan wahyudin | [Read More](https://medium.com/p/9ca80207544e) |
+| Tue, 03 Mar 2026 09:14:26 GMT | ATEŞİ KONTROL ETTİK, BELİRSİZLİĞİ YÖNETEBİLİYOR MUYUZ? | Makersx | [Read More](https://medium.com/p/f3d474ca5d74) |
+| Tue, 03 Mar 2026 09:13:38 GMT | Event-Viewing - PicoCTF Digital Forensics Challenge | Xinlisalim | [Read More](https://medium.com/p/7f1e3bffc600) |
+| Tue, 03 Mar 2026 09:12:31 GMT | Linux Local Privilege Escalation — Skills Assessment | Psychopath-Traveler | [Read More](https://medium.com/p/0cb5575cd7db) |
+| Tue, 03 Mar 2026 09:01:03 GMT | A Beginners Guide to Information Technology | Training Facility | [Read More](https://medium.com/p/2237b378d3bf) |
+| Tue, 03 Mar 2026 09:01:01 GMT | How Security Teams Use LeakRadar to Find Exposures in 10 Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/bb43b28b217a) |
+| Tue, 03 Mar 2026 09:01:00 GMT | RSA Cipher Challenge — Cryptography Writeup | Santhosh Kumar R | [Read More](https://medium.com/p/e2d47365b6e7) |
+| Tue, 03 Mar 2026 08:59:34 GMT | SOC L1 Alert Reporting | lukewago | [Read More](https://medium.com/p/cb373ad0c168) |
+| Tue, 03 Mar 2026 08:54:00 GMT | How to Download View-Only / Non-Downloadable Videos from Google Drive | Hack Storage | [Read More](https://medium.com/p/43c900c13113) |
+| Tue, 03 Mar 2026 08:53:35 GMT | The Democratization of Capability, the Vacuum of Responsibility: The Unlocked Door AI Opened | kimdonglin | [Read More](https://medium.com/p/b516388fa116) |
+| Tue, 03 Mar 2026 08:49:34 GMT | Why Odoo ERP Is Ideal for Growing Small Businesses? | Lisa Brown | [Read More](https://medium.com/p/56b1f10b44af) |
+| Tue, 03 Mar 2026 08:46:41 GMT | Your Ultimate Guide to Door Access Control Installation in Dubai | Installations Experts | [Read More](https://medium.com/p/4f53e2207e26) |
+| Tue, 03 Mar 2026 08:45:58 GMT | How to Create a Secure Website Using HTTPS | David Smith | [Read More](https://medium.com/p/aa79d9879ab5) |
+| Tue, 03 Mar 2026 08:44:50 GMT | Horizontal AI Is the Real Revolution | Dina Jankovic | [Read More](https://medium.com/p/a05ebe048856) |
 | Tue, 03 Mar 2026 08:33:27 GMT | Active Directory Attack Cheat Sheet | jaejun835 | [Read More](https://medium.com/p/bd79bef0a418) |
 | Tue, 03 Mar 2026 08:31:18 GMT | When AI Does Too Much: The Hidden Risk of Excessive Agency | Alessandro Pignati | [Read More](https://medium.com/p/6aa9e64ba6df) |
 | Tue, 03 Mar 2026 08:31:04 GMT | Necessity of Database Management Systems in Information Technology | Training Facility | [Read More](https://medium.com/p/7d3797a77f59) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Mar 2026 04:22:59 GMT | The Trilogy of Abusing Sign Up Page | han | [Read More](https://medium.com/p/c90d6515954b) |
 | Tue, 03 Mar 2026 04:20:52 GMT | Different Roles in Cybersecurity | Antonyrajvedamanickam | [Read More](https://medium.com/p/cad899d51dcf) |
 | Tue, 03 Mar 2026 04:18:34 GMT | Is OpenClaw Safe to Use in 2026? What You Need to Know | Hanzala | [Read More](https://medium.com/p/0b74a31548de) |
-| Tue, 03 Mar 2026 04:09:05 GMT | Why APY Is the Most Misunderstood Metric in DeFi | Mukeshrana | [Read More](https://medium.com/p/79f85a37bf1b) |
-| Tue, 03 Mar 2026 03:58:11 GMT | The AI Coding Boom Has a Hidden Cost — Part 2: Closing the Compliance Gaps with 18 Security Gates | Karthikeyan Sadayamuthu | [Read More](https://medium.com/p/92b252179fca) |
-| Tue, 03 Mar 2026 03:57:16 GMT | Compliance Automation is the Next Biggest Threat to Cyber Resilience, Just Behind the Adversary | Ian Yip | [Read More](https://medium.com/p/723996d2a412) |
-| Tue, 03 Mar 2026 03:41:09 GMT | The AI World Is on Fire This Week — Here Are 7 Things You Need to Know (March 2026) | Chase Xu | [Read More](https://medium.com/p/4b372e46124e) |
-| Tue, 03 Mar 2026 03:36:20 GMT | The Verification Tax: How Deepfakes Just Turned “Trust” Into a Luxury Good | A.Rehman | [Read More](https://medium.com/p/09617f9991f2) |
-| Tue, 03 Mar 2026 03:34:38 GMT | Designing an Enterprise Hybrid Identity Architecture (Part 2): Organizational Unit Design & RBAC… | Roland Archie | [Read More](https://medium.com/p/d82e4e47db38) |
-| Tue, 03 Mar 2026 03:30:24 GMT | Hacking DVWA: A Deep Dive into Reflected and Stored XSS | Mawira Victor | [Read More](https://medium.com/p/dacb8a2b3c81) |
-| Tue, 03 Mar 2026 03:27:57 GMT | Access-First Authentication Goes Live: Opening the Toqen.app Pilot Program | Anton Minin Baranovskii | [Read More](https://medium.com/p/e7314f90b838) |
-| Tue, 03 Mar 2026 03:16:53 GMT | I Was Sending Files Wrong for Years — Here Is What I Actually Use Now | sreehari annam | [Read More](https://medium.com/p/ade40f955dca) |
-| Tue, 03 Mar 2026 02:59:48 GMT | Pentesting Android #1: Bongkar Insecure Local Storage di AndroGoat | Ibnu Hibban | [Read More](https://medium.com/p/6bb982377d98) |
-| Tue, 03 Mar 2026 02:39:08 GMT | CSRF To 1-Step Account Takeover | Yousef | [Read More](https://medium.com/p/92ce90fc9ac5) |
-| Tue, 03 Mar 2026 02:20:58 GMT | The Only Time Anyone Cares About Audit Logs Is After Your Name Is On The Incident Report | revoq | [Read More](https://medium.com/p/88b9c9cdbad5) |
-| Tue, 03 Mar 2026 02:18:52 GMT | digital forensics — torrent file analysis for windows! | akili | [Read More](https://medium.com/p/b310a5d27fbf) |
-| Tue, 03 Mar 2026 02:14:45 GMT | The 2026 Blueprint for App Security: How to Audit Performance and Privacy Before You Play | GuideSEE | [Read More](https://medium.com/p/3d766ef72b28) |
-| Tue, 03 Mar 2026 02:14:43 GMT | Understanding OAuth PAR: Front-Channel vs Back-Channel | Rohit Jangid | [Read More](https://medium.com/p/b71f1a4780e2) |
-| Tue, 03 Mar 2026 02:12:56 GMT | IT AUDIT FUNDAMENTALS UNTUK MENINGKATKAN KEAMANAN DAN KEPATUHAN SISTEM INFORMASI | Nisbi Indonesia | [Read More](https://medium.com/p/169875e43bd7) |
-| Tue, 03 Mar 2026 01:50:45 GMT | The Moment a Company Says “We Need AI,” Most Teams Fall Into These Traps (and How to Avoid Them) | MLBoy | [Read More](https://medium.com/p/3cae456f6e35) |
-| Tue, 03 Mar 2026 01:42:26 GMT | When the Code Reviewer Is Not Human: Claude and the Reinvention of Security | Mahesh Aswani | [Read More](https://medium.com/p/adac4beedf6e) |
-| Tue, 03 Mar 2026 01:40:59 GMT | Designed for Documentation or Built for Pressure? | Zac Moore | [Read More](https://medium.com/p/0ad715b6259d) |
-| Tue, 03 Mar 2026 01:37:15 GMT | We Just Made It Harder to Fool Your Parents. Two New Free Tools from ShieldWord. | Howard Orloff | [Read More](https://medium.com/p/092604978aa4) |
-| Tue, 03 Mar 2026 01:17:10 GMT | PICO CTF -Ph4nt0m 1ntrud3r | Sansssadt | [Read More](https://medium.com/p/8c2462ccd927) |
