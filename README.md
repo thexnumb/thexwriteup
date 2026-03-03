@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Mar 2026 15:04:23 GMT | ETHDenver, AI Agents in Security: Amplification Without Automation | Irene Basaglia | [Read More](https://medium.com/p/da48e4aec383) |
+| Tue, 03 Mar 2026 15:01:02 GMT | Leverage this AWS feature to securely share S3 files with your users | Ryan Baker | [Read More](https://medium.com/p/d853171b0c40) |
+| Tue, 03 Mar 2026 15:01:02 GMT | Cyber Briefing: 2026.03.03 | CyberMaterial | [Read More](https://medium.com/p/ae233861fb75) |
+| Tue, 03 Mar 2026 15:00:57 GMT | A Buyer Just Used AI to Steal From a Seller — And the Platform Let It Happen | UncovAI | [Read More](https://medium.com/p/85f0fb6bf29b) |
+| Tue, 03 Mar 2026 15:00:02 GMT | Enforcing Zero Trust with Azure Conditional Access (MFA Lab AZ-500) | Amal Udayanga Basnayake | [Read More](https://medium.com/p/d7fe925e74c6) |
+| Tue, 03 Mar 2026 14:59:24 GMT | ⚖️ Section 65B Explained: When Does Digital Evidence Become Admissible in Court? | Nimit Shyara | [Read More](https://medium.com/p/9f71fe20d27a) |
+| Tue, 03 Mar 2026 14:59:11 GMT | OTP Bypass via Premature Session Cookie | Dipesh Paul | [Read More](https://medium.com/p/9297ed196d5b) |
+| Tue, 03 Mar 2026 14:56:00 GMT | Professional Security Services in the UK — Manned Guarding & Event Security Explained | Rapport Security | [Read More](https://medium.com/p/669d75737716) |
+| Tue, 03 Mar 2026 14:54:45 GMT | How does an attacker actually get access to execute the ghost pod attack? | Alex | [Read More](https://medium.com/p/e1f0a84365e8) |
+| Tue, 03 Mar 2026 14:54:43 GMT | CyberDefenders - PsExec Hunt Lab | M.Daffa Hakiki | [Read More](https://medium.com/p/a316da18368a) |
+| Tue, 03 Mar 2026 14:50:59 GMT | TCF-event-viewing | Agungspace | [Read More](https://medium.com/p/ced0b4116532) |
+| Tue, 03 Mar 2026 14:50:35 GMT | Threat and Vulnerabilities Report-February 2026 | Loginsoft | [Read More](https://medium.com/p/74f1ab2a1bce) |
+| Tue, 03 Mar 2026 14:45:10 GMT | Zero Trust in IT Automation: Why ScriptRunner Is the Ideal Foundation | Frank Kresse | [Read More](https://medium.com/p/9c979cae6400) |
+| Tue, 03 Mar 2026 14:43:49 GMT | ️ Building a Packet Sniffer Using Python & Scapy | Vivekprajapati | [Read More](https://medium.com/p/59f2d58039f9) |
+| Tue, 03 Mar 2026 14:40:11 GMT | You’ve Been Hacked Before. You Just Don’t Know It Yet. | AgentCore | [Read More](https://medium.com/p/024bd0520d6b) |
+| Tue, 03 Mar 2026 14:32:01 GMT | From 5G to 6G: AI-Native Telecom Networks and the Emerging Cybersecurity Battlefield | Cynox Security LLP. | [Read More](https://medium.com/p/cd132aa4cc74) |
+| Tue, 03 Mar 2026 14:31:01 GMT | Cancer, But Make it a Movie! | Susan League | [Read More](https://medium.com/p/65ddf8cd2442) |
+| Tue, 03 Mar 2026 14:27:28 GMT | CIO’lar Ne Bekler, Teknik Ekipler Ne Gösterir? | ODYA Teknoloji | [Read More](https://medium.com/p/906a42a36a78) |
+| Tue, 03 Mar 2026 14:25:38 GMT | Is Your Network Ready for 2026? Why Professional Network Testing Is No Longer Optional | Shubhra Srivastav | [Read More](https://medium.com/p/79336e86870c) |
+| Tue, 03 Mar 2026 14:17:07 GMT | From Ethical Hacking to AI-Powered Cyber Defense | Mtuaha | [Read More](https://medium.com/p/ade935506ccd) |
 | Tue, 03 Mar 2026 13:59:08 GMT | Why Most Companies Fail Their First VAPT in India | Rajiv Sharma | [Read More](https://medium.com/p/fe96adc6e062) |
 | Tue, 03 Mar 2026 13:53:23 GMT | Cloudflare’s Lava Lamps: The Grooviest Security System Protecting 20% of the Internet | Huzaima Rafiq | [Read More](https://medium.com/p/177ee7a65dfd) |
 | Tue, 03 Mar 2026 13:49:56 GMT | The only madness we celebrate; | The Human Thesis | [Read More](https://medium.com/p/5b6256bb5523) |
@@ -93,23 +113,3 @@ AI-Powered Security Through the Eyes of a Veteran | interconnctd | [Read More](h
 | Tue, 03 Mar 2026 09:26:31 GMT | AWS IAM Security Best Practices — Why Over-Permissive Access Is Your Biggest Cloud Risk | Kuboid Secure Layer | [Read More](https://medium.com/p/b39e9a0f6cae) |
 | Tue, 03 Mar 2026 09:17:24 GMT | PicoCTF - Ph4nt0m 1ntrud3r | irvan wahyudin | [Read More](https://medium.com/p/9ca80207544e) |
 | Tue, 03 Mar 2026 09:14:26 GMT | ATEŞİ KONTROL ETTİK, BELİRSİZLİĞİ YÖNETEBİLİYOR MUYUZ? | Makersx | [Read More](https://medium.com/p/f3d474ca5d74) |
-| Tue, 03 Mar 2026 09:13:38 GMT | Event-Viewing - PicoCTF Digital Forensics Challenge | Xinlisalim | [Read More](https://medium.com/p/7f1e3bffc600) |
-| Tue, 03 Mar 2026 09:12:31 GMT | Linux Local Privilege Escalation — Skills Assessment | Psychopath-Traveler | [Read More](https://medium.com/p/0cb5575cd7db) |
-| Tue, 03 Mar 2026 09:01:03 GMT | A Beginners Guide to Information Technology | Training Facility | [Read More](https://medium.com/p/2237b378d3bf) |
-| Tue, 03 Mar 2026 09:01:01 GMT | How Security Teams Use LeakRadar to Find Exposures in 10 Minutes | Alexandre Vandamme | [Read More](https://medium.com/p/bb43b28b217a) |
-| Tue, 03 Mar 2026 09:01:00 GMT | RSA Cipher Challenge — Cryptography Writeup | Santhosh Kumar R | [Read More](https://medium.com/p/e2d47365b6e7) |
-| Tue, 03 Mar 2026 08:59:34 GMT | SOC L1 Alert Reporting | lukewago | [Read More](https://medium.com/p/cb373ad0c168) |
-| Tue, 03 Mar 2026 08:54:00 GMT | How to Download View-Only / Non-Downloadable Videos from Google Drive | Hack Storage | [Read More](https://medium.com/p/43c900c13113) |
-| Tue, 03 Mar 2026 08:53:35 GMT | The Democratization of Capability, the Vacuum of Responsibility: The Unlocked Door AI Opened | kimdonglin | [Read More](https://medium.com/p/b516388fa116) |
-| Tue, 03 Mar 2026 08:49:34 GMT | Why Odoo ERP Is Ideal for Growing Small Businesses? | Lisa Brown | [Read More](https://medium.com/p/56b1f10b44af) |
-| Tue, 03 Mar 2026 08:46:41 GMT | Your Ultimate Guide to Door Access Control Installation in Dubai | Installations Experts | [Read More](https://medium.com/p/4f53e2207e26) |
-| Tue, 03 Mar 2026 08:45:58 GMT | How to Create a Secure Website Using HTTPS | David Smith | [Read More](https://medium.com/p/aa79d9879ab5) |
-| Tue, 03 Mar 2026 08:44:50 GMT | Horizontal AI Is the Real Revolution | Dina Jankovic | [Read More](https://medium.com/p/a05ebe048856) |
-| Tue, 03 Mar 2026 08:42:47 GMT | When Security Meets Creativity | Palupidyahr | [Read More](https://medium.com/p/425a383c2c60) |
-| Tue, 03 Mar 2026 08:33:27 GMT | Active Directory Attack Cheat Sheet | jaejun835 | [Read More](https://medium.com/p/bd79bef0a418) |
-| Tue, 03 Mar 2026 08:31:18 GMT | When AI Does Too Much: The Hidden Risk of Excessive Agency | Alessandro Pignati | [Read More](https://medium.com/p/6aa9e64ba6df) |
-| Tue, 03 Mar 2026 08:31:04 GMT | Necessity of Database Management Systems in Information Technology | Training Facility | [Read More](https://medium.com/p/7d3797a77f59) |
-| Tue, 03 Mar 2026 08:29:47 GMT | The Fear of Something That Could Stay… | Puneet Kaur | [Read More](https://medium.com/p/bc7416b63fed) |
-| Tue, 03 Mar 2026 08:26:04 GMT | Inside Claude CoWork: A Security-Centric Architecture Breakdown for Technical Teams | Rakeshkhanduja | [Read More](https://medium.com/p/cbce046f4c65) |
-| Tue, 03 Mar 2026 08:25:14 GMT | SOC Investigation Report: RDP Brute Force Attack Leading to Unauthorized Remote Access | chicorax | [Read More](https://medium.com/p/4462fb23344d) |
-| Tue, 03 Mar 2026 08:21:50 GMT | Mengapa Verifikasi Domain Penting di Era Platform Digital | adminflying | [Read More](https://medium.com/p/f417d81f1856) |
