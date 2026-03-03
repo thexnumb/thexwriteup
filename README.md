@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Mar 2026 02:20:58 GMT | The Only Time Anyone Cares About Audit Logs Is After Your Name Is On The Incident Report | revoq | [Read More](https://medium.com/p/88b9c9cdbad5) |
+| Tue, 03 Mar 2026 02:18:52 GMT | digital forensics — torrent file analysis for windows! | akili | [Read More](https://medium.com/p/b310a5d27fbf) |
+| Tue, 03 Mar 2026 02:14:45 GMT | The 2026 Blueprint for App Security: How to Audit Performance and Privacy Before You Play | GuideSEE | [Read More](https://medium.com/p/3d766ef72b28) |
+| Tue, 03 Mar 2026 02:14:43 GMT | Understanding OAuth PAR: Front-Channel vs Back-Channel | Rohit Jangid | [Read More](https://medium.com/p/b71f1a4780e2) |
+| Tue, 03 Mar 2026 02:12:56 GMT | IT AUDIT FUNDAMENTALS UNTUK MENINGKATKAN KEAMANAN DAN KEPATUHAN SISTEM INFORMASI | Nisbi Indonesia | [Read More](https://medium.com/p/169875e43bd7) |
+| Tue, 03 Mar 2026 01:50:45 GMT | The Moment a Company Says “We Need AI,” Most Teams Fall Into These Traps (and How to Avoid Them) | MLBoy | [Read More](https://medium.com/p/3cae456f6e35) |
+| Tue, 03 Mar 2026 01:42:26 GMT | When the Code Reviewer Is Not Human: Claude and the Reinvention of Security | Mahesh Aswani | [Read More](https://medium.com/p/adac4beedf6e) |
+| Tue, 03 Mar 2026 01:40:59 GMT | Designed for Documentation or Built for Pressure? | Zac Moore | [Read More](https://medium.com/p/0ad715b6259d) |
+| Tue, 03 Mar 2026 01:37:15 GMT | We Just Made It Harder to Fool Your Parents. Two New Free Tools from ShieldWord. | Howard Orloff | [Read More](https://medium.com/p/092604978aa4) |
+| Tue, 03 Mar 2026 01:17:10 GMT | PICO CTF -Ph4nt0m 1ntrud3r | Sansssadt | [Read More](https://medium.com/p/8c2462ccd927) |
+| Tue, 03 Mar 2026 01:05:13 GMT | Menyelami Forensik Digital: Analisis Log, Lalu Lintas Jaringan dan Insiden Siber | Donysetyon | [Read More](https://medium.com/p/f1c7d30dd618) |
+| Tue, 03 Mar 2026 00:42:18 GMT | The Quantum Reckoning Is Coming — And Most Blockchains Are Not Ready | Ibrahim Dajin | [Read More](https://medium.com/p/d5bd0bd7886c) |
+| Tue, 03 Mar 2026 00:24:36 GMT | Cellframe Network | Ibrahim Dajin | [Read More](https://medium.com/p/47f976899120) |
+| Tue, 03 Mar 2026 00:14:59 GMT | My Bank Account Got Drained in 12 Minutes. Here’s the “Freeze First” Protocol I Use Now. | SoftLife | [Read More](https://medium.com/p/ff05d60d58ef) |
+| Tue, 03 Mar 2026 00:01:01 GMT | Guía de Waybackurls: Extracción de URLs Históricas para Bug Bounty | JPablo13 | [Read More](https://medium.com/p/0c16c5942cfd) |
 | Mon, 02 Mar 2026 23:46:26 GMT | HTB Knife: PHP 8.1.0-dev Supply Chain Backdoor RCE to Root | Onurcan Genç | [Read More](https://medium.com/p/c5e0bfa9fe25) |
 | Mon, 02 Mar 2026 23:35:16 GMT | Cyber Security Offense and Defense Home Lab — Part 4b (Configuring pfsense firewall-GUI) | Mahim Avi | [Read More](https://medium.com/p/d8583447b6cc) |
 | Mon, 02 Mar 2026 23:33:55 GMT | Self-Hosted AI Isn’t Safer by Default | Karla Ortiz-Flores | [Read More](https://medium.com/p/3fdc8ffe3f87) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Mar 2026 17:50:36 GMT | Expiro File Infector Is Back | C M UPPIN | [Read More](https://medium.com/p/0304e8ea8243) |
 | Mon, 02 Mar 2026 17:46:52 GMT | Inside the Iran–Israel ‘Shadow War’ in 2026: Cyber Attacks, Proxy Clashes, and What Comes Next | abualyaanart | [Read More](https://medium.com/p/181f708acdbf) |
 | Mon, 02 Mar 2026 17:42:28 GMT | Citrix Bleed: How a Single Bug Leaked Corporate Secrets (CVE-2023–4966) | Krishna Kumar | [Read More](https://medium.com/p/45e9c6fbe9f6) |
-| Mon, 02 Mar 2026 17:34:39 GMT | (High-vuln) How I Bypassed IP Restrictions, CAPTCHA, and Unlocked Unlimited Brute-Force in One Shot | Ziad (Zierax) | [Read More](https://medium.com/p/ec2b7063ef5d) |
-| Mon, 02 Mar 2026 17:31:38 GMT | Automating PCAP Analysis: picoCTF Ph4nt0m 1ntrud3r Write-Up | Allif Maulana Sakti | [Read More](https://medium.com/p/b3540d42d779) |
-| Mon, 02 Mar 2026 17:24:28 GMT | Cross-Site Scripting Uncovered: Breaking the Trust Between Browser and Web Application | Haripriya | [Read More](https://medium.com/p/f1c95f35ebcf) |
-| Mon, 02 Mar 2026 17:22:32 GMT | Jordan in the Crosshairs: What Today’s Grain Silo Hack Tells Us About Tomorrow | Odai Mherat | [Read More](https://medium.com/p/a2fc59f4946a) |
-| Mon, 02 Mar 2026 17:11:06 GMT | Lessons from Reading Hundreds of SME Security Policies | Gaurav Shukla | [Read More](https://medium.com/p/9ca30ef86020) |
-| Mon, 02 Mar 2026 17:07:30 GMT | TryHackMe CTF Writeup of Hidden Deep Into my Heart | Devansh Patel | [Read More](https://medium.com/p/a6624334a4b0) |
-| Mon, 02 Mar 2026 17:01:02 GMT | SOTU 2026: Empires (Part 1) | Edbert Chan | [Read More](https://medium.com/p/b0eea4d0eb3d) |
-| Mon, 02 Mar 2026 17:00:51 GMT | Beyond Authentication: Securing Identity Before Login and Governing Privilege After | Dr. Shashi Karhail | [Read More](https://medium.com/p/daf6adb4329d) |
-| Mon, 02 Mar 2026 16:56:59 GMT | Day 18: Authentication & Access Logs | Siddhesh Patil | [Read More](https://medium.com/p/3b4a3801cb58) |
-| Mon, 02 Mar 2026 16:56:00 GMT | The XZ Backdoor (CVE-2024–3094): How a Supply Chain Attack Nearly Compromised Every Linux Server | Sohan Kanna | [Read More](https://medium.com/p/fae44fe73a21) |
-| Mon, 02 Mar 2026 16:46:14 GMT | I Built the First Security Scanner for MCP Servers. Then I Ran It Against 5 Popular Ones. | Nick Homyk | [Read More](https://medium.com/p/4d3969ff854c) |
-| Mon, 02 Mar 2026 16:43:20 GMT | One Wrong Dash Broke My Command (Lessons from Learning the Linux Shell) | Grace Jaman | [Read More](https://medium.com/p/6c92108ddb4e) |
-| Mon, 02 Mar 2026 16:41:00 GMT | Cloudflare D1 Remote Modes: Balancing Security and Development Flexibility | Zintrust Zin | [Read More](https://medium.com/p/4f8382aa848b) |
-| Mon, 02 Mar 2026 16:40:12 GMT | Why Most OT Cybersecurity Fails Before the Attack Even Begins — 7 Critical Architecture Mistakes… | Muhammad Ali Khan | [Read More](https://medium.com/p/ad4a268a0d61) |
-| Mon, 02 Mar 2026 16:35:26 GMT | Configuration and Deployment Management Testing | Diva Rizky Alfitrah | [Read More](https://medium.com/p/f67f2d37515e) |
