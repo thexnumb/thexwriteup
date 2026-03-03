@@ -12,8 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Mar 2026 13:00:27 GMT | 0-Day: The Human Brain Vulnerability | matitanium | [Read More](https://medium.com/p/2db7b8547dae) |
+| Tue, 03 Mar 2026 12:49:22 GMT | What is a Load Balancer? | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/f3da2a58b952) |
+| Tue, 03 Mar 2026 12:49:18 GMT | The Pyramid of Pain in Cybersecurity | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/b8d1fa01f815) |
+| Tue, 03 Mar 2026 12:36:43 GMT | Rethinking SOC Defense in the Age of AI-Driven Intrusions | Sarah Bankole | [Read More](https://medium.com/p/37cc7d47704a) |
+| Tue, 03 Mar 2026 12:31:51 GMT | The CISO’s Confidant:
+AI-Powered Security Through the Eyes of a Veteran | interconnctd | [Read More](https://medium.com/p/27e53d184580) |
+| Tue, 03 Mar 2026 12:31:02 GMT | The Quiet Trap of “Solution Engineering” | Peter Hillier/Halton | [Read More](https://medium.com/p/4cad24dbd5d7) |
+| Tue, 03 Mar 2026 12:29:08 GMT | Why Multi-Cloud DevSecOps Is Becoming the Most Strategic Career Move in IT | RealTech-IT-Academy | [Read More](https://medium.com/p/ab276cc4e284) |
+| Tue, 03 Mar 2026 12:27:15 GMT | Why Zero-Knowledge Means Something Different for AI Agents | Wisdomademiju | [Read More](https://medium.com/p/3f4d40ea6160) |
+| Tue, 03 Mar 2026 12:18:13 GMT | My AI Agent Ordered 500 Pizzas, Deleted a Database, and Emailed My Boss “I Quit” | AI Agent Safety | [Read More](https://medium.com/p/9dad8352adea) |
+| Tue, 03 Mar 2026 12:17:31 GMT | I tried to solve the CTF challenge about login by brute forcing the website | Billy Elvonda Aron Umpel | [Read More](https://medium.com/p/4d9b56af8ec4) |
+| Tue, 03 Mar 2026 12:16:54 GMT | From a Simple Export Button to Full Data Exposure — Discovering a Broken Access Control in a SaaS… | Dedrknex | [Read More](https://medium.com/p/b29a3141a789) |
+| Tue, 03 Mar 2026 12:13:57 GMT | Awareness: The OLX Scam of Receiving Payment | Soumya Viswanathan | [Read More](https://medium.com/p/9e4eb3458f16) |
+| Tue, 03 Mar 2026 12:04:14 GMT | THM: Year Of The Owl CTF Walkthrough | Abhay Ingale | [Read More](https://medium.com/p/226e2bc19818) |
+| Tue, 03 Mar 2026 12:03:45 GMT | २०२६ मधील तंत्रज्ञान क्रांती: केवळ कोडिंग की मानवी कल्याणाचा मार्ग? | Rohit Shinde | [Read More](https://medium.com/p/e79946fa0848) |
+| Tue, 03 Mar 2026 12:01:01 GMT | Keeping Secrets Secret: Key Vault to Secure Identity Data Access in Azure | Riccardo Zito | [Read More](https://medium.com/p/7f610d4c2225) |
+| Tue, 03 Mar 2026 11:56:22 GMT | Maybe One Day? | Zain Manna | [Read More](https://medium.com/p/47169d50ef5c) |
+| Tue, 03 Mar 2026 11:50:48 GMT | What do most SME’s need from an IT Support Company? | David McCord | [Read More](https://medium.com/p/405193fe2d24) |
+| Tue, 03 Mar 2026 11:47:11 GMT | Hack Gmail Password | Tony pear | [Read More](https://medium.com/p/2113674359ce) |
+| Tue, 03 Mar 2026 11:42:31 GMT | One Pillar Failed. The Bank Lost Everything. | PRASAD BHONDE | [Read More](https://medium.com/p/252ebb4f24f9) |
 | Tue, 03 Mar 2026 11:17:18 GMT | S3nd me your bitcoinz — the moment no DR plan describes | Jere Le | [Read More](https://medium.com/p/688e1c9a53e3) |
 | Tue, 03 Mar 2026 11:17:00 GMT | FlagYard — GOT Me - Pwn Writeup | ibrahim | [Read More](https://medium.com/p/0103bbff1d0a) |
+| Tue, 03 Mar 2026 11:13:36 GMT | Expanding Phishing Detection at Scale with Automatic SSL Decryption | ANY.RUN | [Read More](https://medium.com/p/70f01cc9169e) |
 | Tue, 03 Mar 2026 11:10:55 GMT | The Coming Cyberstorm: AI-Generated Hacks No One Is Ready For | Team TIE | [Read More](https://medium.com/p/397ee8349428) |
 | Tue, 03 Mar 2026 11:06:00 GMT | Cuando ser vulnerable se convierte en una estrategia de poder | Andrés Seminario | [Read More](https://medium.com/p/c3759fbd49f9) |
 | Tue, 03 Mar 2026 11:01:00 GMT | ‘We all need to realise that we must stand together!’ | European Court of Auditors | [Read More](https://medium.com/p/e04f83a5c03e) |
@@ -92,23 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Mar 2026 07:21:13 GMT | Antivirus Pro Explained: Smart Security for Windows and Mac Users | Siyanoav | [Read More](https://medium.com/p/2d7bec9162cf) |
 | Tue, 03 Mar 2026 07:21:02 GMT | From Streaming Redirect to Suspicious Payload: A Mini Threat Analysis Case Study | .. | [Read More](https://medium.com/p/064c10ee4ed6) |
 | Tue, 03 Mar 2026 07:20:48 GMT | Top 10 Artificial Intelligence (AI) Training Institutes in Delhi NCR | Sarfraj Ahmad | [Read More](https://medium.com/p/70d079b60965) |
-| Tue, 03 Mar 2026 07:20:26 GMT | Offensive Security Proving Grounds Write-up: Muddy | Henry Post | [Read More](https://medium.com/p/bb7400006a29) |
-| Tue, 03 Mar 2026 07:14:57 GMT | SMA Terbaik untuk Masa Depan di Bidang IT dan Cyber security | Ali Ridlo | [Read More](https://medium.com/p/6eae47930c0f) |
-| Tue, 03 Mar 2026 07:09:55 GMT | 3 Basic Security Layer for OpenClaw 2026.3.1. | Fairo Bagoes | [Read More](https://medium.com/p/9f0770f23288) |
-| Tue, 03 Mar 2026 07:01:54 GMT | Exploiting Server-Side Parameter Pollution in a REST URL | Bash Overflow | [Read More](https://medium.com/p/9881fe6bddbf) |
-| Tue, 03 Mar 2026 07:01:06 GMT | 9. The Real Meaning of CI/CD in Modern Software Delivery | Mangesh Muley | [Read More](https://medium.com/p/3823dca01b7f) |
-| Tue, 03 Mar 2026 06:59:10 GMT | How Scammers Vet Clients Through Technology And How You Can Reverse It On Them | Evren Tanson | [Read More](https://medium.com/p/9448a32c4d31) |
-| Tue, 03 Mar 2026 06:50:56 GMT | Strengthening Identity Security with Azure Privileged Identity Management (PIM) | Amal Udayanga Basnayake | [Read More](https://medium.com/p/0afaaf1fa4a3) |
-| Tue, 03 Mar 2026 06:50:20 GMT | Your API Is a Hacker’s Favorite Target — Here’s How to Secure It Before It’s Too Late. | Sreenath Macha | [Read More](https://medium.com/p/14604fa209b6) |
-| Tue, 03 Mar 2026 06:48:58 GMT | What is Penetration Testing? A complete Beginner’s Guide(2026) part — 1 | 0xSmit | [Read More](https://medium.com/p/11dcbffffea8) |
-| Tue, 03 Mar 2026 06:43:59 GMT | Top 5 Cybersecurity Certifications to Boost Your Career | Marketing | [Read More](https://medium.com/p/fb06dddf13c1) |
-| Tue, 03 Mar 2026 06:43:14 GMT | Avira Customer Service Number Australia | Customer Support Information | [Read More](https://medium.com/p/9eb4f9f44545) |
-| Tue, 03 Mar 2026 06:41:32 GMT | Cyber security services in India | Cyberlancer | [Read More](https://medium.com/p/ac7bdd77f5b2) |
-| Tue, 03 Mar 2026 06:39:46 GMT | Top ethical hacking certification course available online with placement support | cyber security Updates | [Read More](https://medium.com/p/67977be289aa) |
-| Tue, 03 Mar 2026 06:39:35 GMT | 7 Powerful AI Risk Modeling Moves for Security | Pentest_Testing_Corp | [Read More](https://medium.com/p/acedc2e16c2d) |
-| Tue, 03 Mar 2026 06:34:08 GMT | Most Startups Don’t Get Hacked by Elite Hackers — They Get Hacked by this. | Ritwish Basu | [Read More](https://medium.com/p/03467ae303f1) |
-| Tue, 03 Mar 2026 06:34:04 GMT | Three shifts separate a cybersecurity manager from a cybersecurity leader | Denny Roger | [Read More](https://medium.com/p/b0dc270433d4) |
-| Tue, 03 Mar 2026 06:32:43 GMT | Why Do Algorithms Beat Knowledge? | CloudMosa, Inc. | [Read More](https://medium.com/p/12a51297fbb7) |
-| Tue, 03 Mar 2026 06:26:15 GMT | Cyber Security Training: Protecting Your Digital World | Rashi Chauhan | [Read More](https://medium.com/p/14d45461f91d) |
-| Tue, 03 Mar 2026 06:24:26 GMT | Why SSL Certificate Matters for Your Website Security | Smit Pipaliya | [Read More](https://medium.com/p/14cac697bb23) |
-| Tue, 03 Mar 2026 06:22:43 GMT | Neutralizing Zero-Day Threats Before They Can Strike: CloudMosa’s Remote Browser Isolation Done… | CloudMosa, Inc. | [Read More](https://medium.com/p/91682df15404) |
