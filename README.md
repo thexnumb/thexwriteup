@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Mar 2026 21:19:22 GMT | Analisis malware pada POS.apk Secara Statis dengan mobSF dan Jadx-GUI | L0udbaa | [Read More](https://medium.com/p/c4f3d882b69c) |
+| Tue, 03 Mar 2026 21:13:57 GMT | Infrastructure as a Security Asset: Setting Up Centralized Logging in Azure | Onobrakpeya Efeturi | [Read More](https://medium.com/p/ff4e1dceda91) |
+| Tue, 03 Mar 2026 21:13:12 GMT | Cyber Defender — PsExec Hunt Lab | Sansssadt | [Read More](https://medium.com/p/9947e7d96eef) |
+| Tue, 03 Mar 2026 21:00:21 GMT | The Day We Learned the CIA Could Enter Your Phone | Robert Morton | [Read More](https://medium.com/p/e3e640abe231) |
+| Tue, 03 Mar 2026 20:59:41 GMT | I Tried Shannon AI: And Discovered Noobs Can Now Do Penetration Testing | Joe Njenga | [Read More](https://medium.com/p/0c257536c9ca) |
+| Tue, 03 Mar 2026 20:55:36 GMT | Snowflake’s Strong Authentication Hub: Turning MFA Enforcement into an Operational Workflow | Pascal Pfäffle | [Read More](https://medium.com/p/4353fe908d3e) |
+| Tue, 03 Mar 2026 20:50:35 GMT | Offensive Security Proving Grounds: Internal | Henry Post | [Read More](https://medium.com/p/bf9087d986fe) |
+| Tue, 03 Mar 2026 20:46:15 GMT | An Article on Why APY Is the Most Misunderstood Metric in DeFi | Babatunde Bello | [Read More](https://medium.com/p/1a41799f57d4) |
+| Tue, 03 Mar 2026 20:41:15 GMT | When War Echoes in the Wires | Gbolahan Akinbola | [Read More](https://medium.com/p/50d704e12b1f) |
 | Tue, 03 Mar 2026 20:31:00 GMT | I Thought I Was Too Tech-Savvy to Be Scammed. Then It Happened | Cyber Dive | [Read More](https://medium.com/p/afef8c9d3f0c) |
 | Tue, 03 Mar 2026 20:29:52 GMT | From Kinetic Threats to Kinetic Defense: An Elastic-Powered Autonomous Agent for L1/L2 ICS… | Varun Sinha | [Read More](https://medium.com/p/154c6eb763d7) |
 | Tue, 03 Mar 2026 20:27:29 GMT | penguin — CTF writeup-EHAX2026 | wal-z1 | [Read More](https://medium.com/p/f3409359e032) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Mar 2026 14:56:00 GMT | Professional Security Services in the UK — Manned Guarding & Event Security Explained | Rapport Security | [Read More](https://medium.com/p/669d75737716) |
 | Tue, 03 Mar 2026 14:54:45 GMT | How does an attacker actually get access to execute the ghost pod attack? | Alex | [Read More](https://medium.com/p/e1f0a84365e8) |
 | Tue, 03 Mar 2026 14:54:43 GMT | CyberDefenders - PsExec Hunt Lab | M.Daffa Hakiki | [Read More](https://medium.com/p/a316da18368a) |
-| Tue, 03 Mar 2026 14:50:59 GMT | TCF-event-viewing | Agungspace | [Read More](https://medium.com/p/ced0b4116532) |
-| Tue, 03 Mar 2026 14:50:35 GMT | Threat and Vulnerabilities Report-February 2026 | Loginsoft | [Read More](https://medium.com/p/74f1ab2a1bce) |
-| Tue, 03 Mar 2026 14:45:10 GMT | Zero Trust in IT Automation: Why ScriptRunner Is the Ideal Foundation | Frank Kresse | [Read More](https://medium.com/p/9c979cae6400) |
-| Tue, 03 Mar 2026 14:43:49 GMT | ️ Building a Packet Sniffer Using Python & Scapy | Vivekprajapati | [Read More](https://medium.com/p/59f2d58039f9) |
-| Tue, 03 Mar 2026 14:40:11 GMT | You’ve Been Hacked Before. You Just Don’t Know It Yet. | AgentCore | [Read More](https://medium.com/p/024bd0520d6b) |
-| Tue, 03 Mar 2026 14:32:01 GMT | From 5G to 6G: AI-Native Telecom Networks and the Emerging Cybersecurity Battlefield | Cynox Security LLP. | [Read More](https://medium.com/p/cd132aa4cc74) |
-| Tue, 03 Mar 2026 14:31:01 GMT | Cancer, But Make it a Movie! | Susan League | [Read More](https://medium.com/p/65ddf8cd2442) |
-| Tue, 03 Mar 2026 14:27:28 GMT | CIO’lar Ne Bekler, Teknik Ekipler Ne Gösterir? | ODYA Teknoloji | [Read More](https://medium.com/p/906a42a36a78) |
-| Tue, 03 Mar 2026 14:25:38 GMT | Is Your Network Ready for 2026? Why Professional Network Testing Is No Longer Optional | Shubhra Srivastav | [Read More](https://medium.com/p/79336e86870c) |
