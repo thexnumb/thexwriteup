@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Mar 2026 23:28:14 GMT | Securing Nginx With ModSecurity: A Step-by-Step Guide to Deploying a Web Application Firewall (WAF) | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/0b6dbacde270) |
+| Tue, 03 Mar 2026 23:15:33 GMT | How to Download Free Movies, Series, and Anime Online | Sonofkenneth | [Read More](https://medium.com/p/5ea2776492ec) |
+| Tue, 03 Mar 2026 23:01:02 GMT | Phishing Exposed: How Attackers Exploit Cloud Subdomains and How Your Team Can Defend Against It | Bibiresanmi David | [Read More](https://medium.com/p/acf5ef7b06da) |
+| Tue, 03 Mar 2026 22:59:18 GMT | Network Forensics: RedisShell — Kinsing Lab | Khoa | [Read More](https://medium.com/p/1159f167a721) |
+| Tue, 03 Mar 2026 22:50:59 GMT | The Future of Critical Infrastructure Cybersecurity: From Engineering Problem to Resilience… | Muhammad Ali Khan | [Read More](https://medium.com/p/ce3cca8cf4c9) |
+| Tue, 03 Mar 2026 22:47:12 GMT | Splunk BOTS SOC Investigation Guide - SPL, Threat Hunting & Detection Logic | Youssef Abbas | [Read More](https://medium.com/p/4b3b43982019) |
+| Tue, 03 Mar 2026 22:45:54 GMT | Navigating the Digital Frontier: From Crypto Markets to Cybersecurity Essentials | Jaymes Baker | [Read More](https://medium.com/p/5e92c3440fda) |
+| Tue, 03 Mar 2026 22:31:13 GMT | AI Security Tools — February 2026 | Tal Eliyahu | [Read More](https://medium.com/p/785547586971) |
+| Tue, 03 Mar 2026 22:30:36 GMT | HTB Broker Writeup | Onurcan Genç | [Read More](https://medium.com/p/fb2ea9e65a21) |
 | Tue, 03 Mar 2026 22:26:49 GMT | URGENT CRITICAL ALERT – Upemba National Park ,DR Congo | Kivuhub | [Read More](https://medium.com/p/1c78a99f8444) |
 | Tue, 03 Mar 2026 22:24:50 GMT | Preventive War and the Erosion of Restraint | Dr. Thomas Jreige | [Read More](https://medium.com/p/731d7411e7b6) |
 | Tue, 03 Mar 2026 22:13:14 GMT | Kali Meet Claude: Your New BFF | BillfordX | [Read More](https://medium.com/p/659f8689b5fb) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Mar 2026 16:07:58 GMT | Understanding the MITRE ATT&CK Framework: A Beginner’s Guide to Thinking Like an Attacker | Rinu M J | [Read More](https://medium.com/p/bf300db21e85) |
 | Tue, 03 Mar 2026 16:06:10 GMT | How I Built Zero-Knowledge File Sharing Using the Web Crypto API (AES-256-GCM in the Browser) | Fileshot Adm | [Read More](https://medium.com/p/152b03ad0051) |
 | Tue, 03 Mar 2026 15:53:31 GMT | Why Charlotte NC Businesses Need Around-the-Clock IT Protection in 2026 and Beyond | Paradise technologies Inc | [Read More](https://medium.com/p/cb31e188cc6d) |
-| Tue, 03 Mar 2026 15:52:20 GMT | The First 90 Days Will Make or Break Your Cybersecurity Career | Taimur Ijlal | [Read More](https://medium.com/p/5d9ef76d14d0) |
-| Tue, 03 Mar 2026 15:42:19 GMT | Being a Security Researcher (SR) Changed How I See DeFi | Abraham | [Read More](https://medium.com/p/227bbcb17e5d) |
-| Tue, 03 Mar 2026 15:32:41 GMT | #4 From Webhook to War Room: End-to-End Alert Pipeline Architecture | TheMachine | [Read More](https://medium.com/p/2f33e0111be5) |
-| Tue, 03 Mar 2026 15:31:01 GMT | Psychological Safety at Work starts with Vulnerability | Padraig Coaching | [Read More](https://medium.com/p/ae440651a996) |
-| Tue, 03 Mar 2026 15:25:15 GMT | How Does Business Email Compromise Work? | TrustRacer | [Read More](https://medium.com/p/99cfa68c9245) |
-| Tue, 03 Mar 2026 15:24:17 GMT | Why I Chose Cybersecurity as a CSE Student -And Where I Started | Riya Shajan | [Read More](https://medium.com/p/c67eea119187) |
-| Tue, 03 Mar 2026 15:23:25 GMT | DroidCave Challenge-8kSEC | Mohamed Ayman | [Read More](https://medium.com/p/3305a7cb704f) |
-| Tue, 03 Mar 2026 15:22:51 GMT | Would You Trade Your Data to Skip the Line? | Jodi Daniels | [Read More](https://medium.com/p/2e5911d6a6b5) |
-| Tue, 03 Mar 2026 15:22:45 GMT | How to Secure Your Home in 2026 | AlexBryn | [Read More](https://medium.com/p/1db63e8751f7) |
