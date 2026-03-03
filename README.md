@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Mar 2026 19:44:03 GMT | Firewall Annoyed Me: So I Built ufWall | Ansari | [Read More](https://medium.com/p/afa0b99f1dc2) |
+| Tue, 03 Mar 2026 19:35:35 GMT | Pentest GPT: Wie LLMs das Penetration Testing wirklich verändern | Kerimkoc | [Read More](https://medium.com/p/0ae7c471719a) |
+| Tue, 03 Mar 2026 19:31:02 GMT | Cybersecurity 2026: Pakistan + Global Digital Security Outlook - iTechSpot Report | ITech Spot | [Read More](https://medium.com/p/e8c799eddf0c) |
+| Tue, 03 Mar 2026 19:29:30 GMT | Wie angreifbar ist Ihr Unternehmen wirklich? | Kerimkoc | [Read More](https://medium.com/p/bfd1f34f82bf) |
+| Tue, 03 Mar 2026 19:28:42 GMT | Cybersecurity 2026: Pakistan + Global Digital Security Outlook - iTechSpot Report | Tech Spot Usa | [Read More](https://medium.com/p/147e5dff47c4) |
+| Tue, 03 Mar 2026 19:24:02 GMT | Agent-first Secure Software Development Lifecycle | Bárbara Vieira | [Read More](https://medium.com/p/ba40512147a9) |
+| Tue, 03 Mar 2026 19:23:35 GMT | How Modern Cryptography Was Born: Breaking Old Ciphers and Learning to Prove Security | Adidev Bhattacharya | [Read More](https://medium.com/p/f1e36aff28a9) |
+| Tue, 03 Mar 2026 19:22:48 GMT | Human-in-the-Loop Best Practices for AI-Enabled Digital GMP Manufacturing | Valdez Ladd | [Read More](https://medium.com/p/e60b74908c0a) |
+| Tue, 03 Mar 2026 19:19:53 GMT | How Does M-Pesa Know My PIN Is Wrong? (And Do They Actually Know It?) | Joel Orie | [Read More](https://medium.com/p/eceae75f5e6f) |
+| Tue, 03 Mar 2026 19:15:58 GMT | Siber Pusula #1 -Hacking MSSQL Server — Impersonate CyberExam | Toprak Külekçioğlu | [Read More](https://medium.com/p/6701722f66fa) |
+| Tue, 03 Mar 2026 19:15:55 GMT | Finding Your Place in Cybersecurity: A Beginner’s Journey Through the Three Pillars | Gajanan Tayde | [Read More](https://medium.com/p/6f1a9c2b0118) |
+| Tue, 03 Mar 2026 19:14:28 GMT | The Invoice That Wasn’t: Uncovering a Remcos RAT-Driven Email Abuse Attack | Vignesh Naidu | [Read More](https://medium.com/p/3fa9ff64df0d) |
+| Tue, 03 Mar 2026 19:13:38 GMT | Hackviser Write-up [EN / TR] — Reflected XSS via HTML Attribute Manipulation | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/441c5535f409) |
+| Tue, 03 Mar 2026 19:06:19 GMT | Zero Trust Security: Redefining the Boundaries of Digital Trust | Vasanth Bupathi S | [Read More](https://medium.com/p/2c883c58d311) |
+| Tue, 03 Mar 2026 19:05:07 GMT | SQL Injection (SQLi) | Ahmed Essam | [Read More](https://medium.com/p/ab86f3c6f304) |
+| Tue, 03 Mar 2026 18:56:00 GMT | EU GDPR — Article 27 (Representatives of Controllers or Processors Not Established in the Union) | MDM Team | [Read More](https://medium.com/p/4655b08ef845) |
+| Tue, 03 Mar 2026 18:40:12 GMT | Part 2: Building the Analytics Engine — Automating Vulnerability Tracking with PowerShell | Maxim Patancev | [Read More](https://medium.com/p/edf1356cab72) |
+| Tue, 03 Mar 2026 18:20:06 GMT | I Stopped Watching Random Cybersecurity Videos — And Finally Chose a Path | the copy ninja | [Read More](https://medium.com/p/2c1660eeff34) |
+| Tue, 03 Mar 2026 18:16:33 GMT | Trezor-Crypto Scammer Unmasked | Prtheus | [Read More](https://medium.com/p/8f0f657e7779) |
+| Tue, 03 Mar 2026 18:11:14 GMT | Confused About Cybersecurity Careers? | Shahzaib | [Read More](https://medium.com/p/62c566090630) |
 | Tue, 03 Mar 2026 17:58:30 GMT | Washington DC Cyber Security Company - Advanced Network & Data Protection Services | Qriyalowe | [Read More](https://medium.com/p/9f8bed6588af) |
 | Tue, 03 Mar 2026 17:56:55 GMT | NGINX Secure Deployment & Hardening Guide — CIS Benchmarks | SOCFortress | [Read More](https://medium.com/p/dc68b5938843) |
 | Tue, 03 Mar 2026 17:53:45 GMT | A Brand New Study Just Solved Yesterday’s Problem | Berend Watchus | [Read More](https://medium.com/p/4b7e1f12a580) |
@@ -92,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Mar 2026 13:31:01 GMT | Permission Maps: The 10 Mistakes That Cause Writes | Vectorlane | [Read More](https://medium.com/p/2a6ccbd3cf6f) |
 | Tue, 03 Mar 2026 13:31:00 GMT | Securing Ontario’s Retail Data: The Trust Layer of Agentic Commerce | SusTern Inc. | [Read More](https://medium.com/p/438e0026e7f8) |
 | Tue, 03 Mar 2026 13:31:00 GMT | The ₹250 Crore Question: Why Cybersecurity is Now a Boardroom Liability | Cyber Aries | [Read More](https://medium.com/p/88917d5110ae) |
-| Tue, 03 Mar 2026 13:27:00 GMT | Breaking Down Advanced Malware: DLL Side-Loading, Direct Syscalls, and Browser Credential Theft | Omar Al Sahily | [Read More](https://medium.com/p/4a7a1ded422e) |
-| Tue, 03 Mar 2026 13:20:35 GMT | CytoScnPy -Fast, Rust-Powered Static Analyzer for Python | Krunal Hedaoo | [Read More](https://medium.com/p/84ce98e0aac1) |
-| Tue, 03 Mar 2026 13:12:28 GMT | Thick Client Security Testing — Static Analysis-PART-1 | Madhumathi chamarthi | [Read More](https://medium.com/p/94c79773134a) |
-| Tue, 03 Mar 2026 13:11:44 GMT | The Great Rift: What the Anthropic-Pentagon Standoff Means for the Future of AI Security | Sourav Mukherjee | [Read More](https://medium.com/p/17e4aa156bff) |
-| Tue, 03 Mar 2026 13:03:18 GMT | How to Choose the Best Cybersecurity Certification That Offers Top Career Opportunities for You | Lorcam Securities | [Read More](https://medium.com/p/03e1ebed2484) |
-| Tue, 03 Mar 2026 13:01:01 GMT | 5 Web Development Mistakes That Silently Sabotage Your Projects (And How to Fix Them) | Dharanidharan | [Read More](https://medium.com/p/89ad55215559) |
-| Tue, 03 Mar 2026 13:00:27 GMT | 0-Day: The Human Brain Vulnerability | matitanium | [Read More](https://medium.com/p/2db7b8547dae) |
-| Tue, 03 Mar 2026 12:55:12 GMT | Why Did America and Israel Attack Iran? Let’s Talk About What Really Drives Wars | Aurelia Shade | [Read More](https://medium.com/p/9039b06ca687) |
-| Tue, 03 Mar 2026 12:49:22 GMT | What is a Load Balancer? | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/f3da2a58b952) |
-| Tue, 03 Mar 2026 12:49:18 GMT | The Pyramid of Pain in Cybersecurity | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/b8d1fa01f815) |
-| Tue, 03 Mar 2026 12:36:43 GMT | Rethinking SOC Defense in the Age of AI-Driven Intrusions | Sarah Bankole | [Read More](https://medium.com/p/37cc7d47704a) |
-| Tue, 03 Mar 2026 12:31:51 GMT | The CISO’s Confidant:
-AI-Powered Security Through the Eyes of a Veteran | interconnctd | [Read More](https://medium.com/p/27e53d184580) |
-| Tue, 03 Mar 2026 12:31:02 GMT | The Quiet Trap of “Solution Engineering” | Peter Hillier/Halton | [Read More](https://medium.com/p/4cad24dbd5d7) |
-| Tue, 03 Mar 2026 12:29:08 GMT | Why Multi-Cloud DevSecOps Is Becoming the Most Strategic Career Move in IT | RealTech-IT-Academy | [Read More](https://medium.com/p/ab276cc4e284) |
-| Tue, 03 Mar 2026 12:27:15 GMT | Why Zero-Knowledge Means Something Different for AI Agents | Wisdomademiju | [Read More](https://medium.com/p/3f4d40ea6160) |
-| Tue, 03 Mar 2026 12:18:13 GMT | My AI Agent Ordered 500 Pizzas, Deleted a Database, and Emailed My Boss “I Quit” | AI Agent Safety | [Read More](https://medium.com/p/9dad8352adea) |
-| Tue, 03 Mar 2026 12:17:31 GMT | I tried to solve the CTF challenge about login by brute forcing the website | Billy Elvonda Aron Umpel | [Read More](https://medium.com/p/4d9b56af8ec4) |
-| Tue, 03 Mar 2026 12:16:54 GMT | From a Simple Export Button to Full Data Exposure — Discovering a Broken Access Control in a SaaS… | Dedrknex | [Read More](https://medium.com/p/b29a3141a789) |
-| Tue, 03 Mar 2026 12:13:57 GMT | Awareness: The OLX Scam of Receiving Payment | Soumya Viswanathan | [Read More](https://medium.com/p/9e4eb3458f16) |
-| Tue, 03 Mar 2026 12:04:14 GMT | THM: Year Of The Owl CTF Walkthrough | Abhay Ingale | [Read More](https://medium.com/p/226e2bc19818) |
