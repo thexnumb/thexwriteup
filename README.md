@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Mar 2026 05:19:40 GMT | The Real Risk in PQC Migration: Implementation and Compiler Failures | ExeQuantum | [Read More](https://medium.com/p/4bec79a4dc4d) |
+| Tue, 03 Mar 2026 05:17:58 GMT | Space Communications Security: Why the Final Frontier Is a Cybersecurity Battlefield | Michael Preston | [Read More](https://medium.com/p/d4165cce7522) |
+| Tue, 03 Mar 2026 05:16:22 GMT | The Secret Bug Hunter Browser Extension Replaced Burp | Md Tanjimul Islam Sifat | [Read More](https://medium.com/p/26f5d226e682) |
+| Tue, 03 Mar 2026 05:11:49 GMT | Information Technology Colleges in Mumbai for Career Growth | Bharatvidyapeeth | [Read More](https://medium.com/p/1af087df8cdb) |
+| Tue, 03 Mar 2026 05:06:20 GMT | Suspicious RFQ Email Containing JavaScript Trojan — Incident Response Case Study #1 | Fajri Setiawan | [Read More](https://medium.com/p/b7c3ce12a2f2) |
+| Tue, 03 Mar 2026 05:05:18 GMT | How I Built a Farsi Telegram Channel Monitor for OSINT During the Iran Conflict | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/94a969d1259f) |
+| Tue, 03 Mar 2026 05:02:41 GMT | How Ethical Hacking Books Build a Strong Foundation for Cybersecurity Careers | Emma Jones | [Read More](https://medium.com/p/f60660ebac0f) |
+| Tue, 03 Mar 2026 04:59:48 GMT | You’re one “forgotten secret” away from a broken production build. | EnvDock | [Read More](https://medium.com/p/af2ab479995b) |
+| Tue, 03 Mar 2026 04:56:33 GMT | Breaking a Microservice into Two: Database Separation, Auth Isolation & Real-World Strategy.. | Shubham Vartak | [Read More](https://medium.com/p/79d94a9f25fe) |
+| Tue, 03 Mar 2026 04:53:36 GMT | Google Cloud’s MCP Security Framework Explained: Your AI Agent shouldn’t have more access than it… | Virinchi T | [Read More](https://medium.com/p/900af267b7bd) |
+| Tue, 03 Mar 2026 04:53:33 GMT | Brutus-HackTheBox — WriteUp | Najafghifari | [Read More](https://medium.com/p/c1739ab8bc5d) |
+| Tue, 03 Mar 2026 04:50:46 GMT | Why Should You Be Worried About XSS Attacks on Your Site? | Silversky Technology | [Read More](https://medium.com/p/4b99e3986876) |
+| Tue, 03 Mar 2026 04:45:16 GMT | Unlock Elite Ethical Hacking Course in Trivandrum Mastery | Niranjandotnot | [Read More](https://medium.com/p/ef406de59a3f) |
+| Tue, 03 Mar 2026 04:44:05 GMT | My First Practice with Basic Linux Commands — A Beginner Experience | Zahid (Cybersecurity Student) | [Read More](https://medium.com/p/186900f17a9e) |
+| Tue, 03 Mar 2026 04:42:27 GMT | How to Start VAPT for Beginners ️Testing Series — Part 3 | VAPTify | [Read More](https://medium.com/p/99dc9f4cfc29) |
+| Tue, 03 Mar 2026 04:41:18 GMT | XSS Injection Lab — PentestGarage.com — Walkthrough by Freejo Jose | Freejo jose | [Read More](https://medium.com/p/6fc6fe9a5859) |
+| Tue, 03 Mar 2026 04:39:16 GMT | What Is Penetration Testing? Complete Beginner Guide (2026) part — 2 | 0xSmit | [Read More](https://medium.com/p/9512b340ee36) |
+| Tue, 03 Mar 2026 04:38:51 GMT | Weekly Threat Intelligence Report 23 Feb 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/6b74c1dd6c7d) |
+| Tue, 03 Mar 2026 04:22:59 GMT | The Trilogy of Abusing Sign Up Page | han | [Read More](https://medium.com/p/c90d6515954b) |
 | Tue, 03 Mar 2026 04:20:52 GMT | Different Roles in Cybersecurity | Antonyrajvedamanickam | [Read More](https://medium.com/p/cad899d51dcf) |
 | Tue, 03 Mar 2026 04:18:34 GMT | Is OpenClaw Safe to Use in 2026? What You Need to Know | Hanzala | [Read More](https://medium.com/p/0b74a31548de) |
 | Tue, 03 Mar 2026 04:09:05 GMT | Why APY Is the Most Misunderstood Metric in DeFi | Mukeshrana | [Read More](https://medium.com/p/79f85a37bf1b) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Mar 2026 20:01:00 GMT | Connecting to Snowflake MCP Servers with OAuth 2.0 and Role-Based Access Control: A Complete Guide | Ram Palagummi | [Read More](https://medium.com/p/c17d20be8a67) |
 | Mon, 02 Mar 2026 19:59:49 GMT | Exploiting Webmin RCE (CVE-2019–15107) on Void | Osman Erdem | [Read More](https://medium.com/p/a69c8ca60b1e) |
 | Mon, 02 Mar 2026 19:51:03 GMT | Teaching Tokens: Implementing Private, Lightweight AI in the Classroom (MiniJarvis) | Josh Beck | [Read More](https://medium.com/p/a28fd3259eb6) |
-| Mon, 02 Mar 2026 19:46:32 GMT | The Cryptography Concept Journey — P-Box (Permutation Box) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/af275d3dad5b) |
-| Mon, 02 Mar 2026 19:35:14 GMT | Bug Bounty Cheatsheet Worth 7890$ | Anonymous Traiger | [Read More](https://medium.com/p/fa163d281067) |
-| Mon, 02 Mar 2026 19:34:32 GMT | You Don’t Get TLS | Atishay Jain | [Read More](https://medium.com/p/b154fe792c62) |
-| Mon, 02 Mar 2026 19:33:11 GMT | ️When Your Data Disappears: How Active Data Studio Helps | Anjani Patel | [Read More](https://medium.com/p/7ec907471cf6) |
-| Mon, 02 Mar 2026 19:30:22 GMT | Detecting Jailbroken iPhones in Production Apps Without Private APIs | Sunil Gandham | [Read More](https://medium.com/p/7df119405d1b) |
-| Mon, 02 Mar 2026 19:30:12 GMT | The False Promise of Multi Login Isolation: An Architectural “Identity Bridge” in Google’s… | Jawad Momani | [Read More](https://medium.com/p/080d8db462d4) |
-| Mon, 02 Mar 2026 19:16:57 GMT | Observations from recent alerts: Part 2 | Hariharan | [Read More](https://medium.com/p/fbfafa3d4dbb) |
-| Mon, 02 Mar 2026 19:11:06 GMT | Understanding Haystak Dark Web Search and How It Indexes Onion Sites | Tor BBB | [Read More](https://medium.com/p/23527262459f) |
-| Mon, 02 Mar 2026 19:05:21 GMT | Why API Penetration Testing Is Different from Web Application Testing | Iseoluwa Ogunnaike | [Read More](https://medium.com/p/475dee9f6440) |
-| Mon, 02 Mar 2026 19:04:21 GMT | How Attackers Move Laterally Without Triggering Alerts | JSOC IT BLOG | [Read More](https://medium.com/p/260f328d787b) |
-| Mon, 02 Mar 2026 19:02:39 GMT | NIST AI RMF: Implementation Guide | Ashish Bansal | [Read More](https://medium.com/p/ace431b78729) |
-| Mon, 02 Mar 2026 19:01:11 GMT | Cloud Security in the Digital Era | alinamon | [Read More](https://medium.com/p/db46c58ab4c5) |
-| Mon, 02 Mar 2026 19:01:00 GMT | Amos Stealer “malext” variant spread in a global malvertising campaign using free text-sharing… | Gi7w0rm | [Read More](https://medium.com/p/4d240e11d7e2) |
-| Mon, 02 Mar 2026 19:00:59 GMT | PHPUnit: Cuando tu framework de pruebas se convierte en una puerta trasera ( CVE-2026–24765) | C37webak1ix | [Read More](https://medium.com/p/ca614722e6b9) |
-| Mon, 02 Mar 2026 18:39:03 GMT | AOV Solar Cameras: How Always-On Video Eliminates Security Blind Spots | Samkon Lee | [Read More](https://medium.com/p/bfa1c0db0752) |
-| Mon, 02 Mar 2026 18:35:18 GMT | date spot - CTF_writeup-EHAX CTF2026 | wal-z1 | [Read More](https://medium.com/p/059411e57b4f) |
-| Mon, 02 Mar 2026 18:31:58 GMT | New Zealand’s Cyber Security Strategy | SOCFortress | [Read More](https://medium.com/p/c0fd7e0aaa99) |
-| Mon, 02 Mar 2026 18:31:00 GMT | Your In-House IT Team Is Costing You 40% More Than It Should | Jenny | [Read More](https://medium.com/p/9f55c8320cc9) |
-| Mon, 02 Mar 2026 18:28:45 GMT | The Complete Red Teaming Roadmap -Beginner to Professional (100% Free Resources) | Hacker MD | [Read More](https://medium.com/p/6183e451ee4a) |
