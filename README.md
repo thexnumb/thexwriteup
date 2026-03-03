@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Mar 2026 08:33:27 GMT | Active Directory Attack Cheat Sheet | jaejun835 | [Read More](https://medium.com/p/bd79bef0a418) |
+| Tue, 03 Mar 2026 08:31:18 GMT | When AI Does Too Much: The Hidden Risk of Excessive Agency | Alessandro Pignati | [Read More](https://medium.com/p/6aa9e64ba6df) |
+| Tue, 03 Mar 2026 08:31:04 GMT | Necessity of Database Management Systems in Information Technology | Training Facility | [Read More](https://medium.com/p/7d3797a77f59) |
+| Tue, 03 Mar 2026 08:29:47 GMT | The Fear of Something That Could Stay… | Puneet Kaur | [Read More](https://medium.com/p/bc7416b63fed) |
+| Tue, 03 Mar 2026 08:26:04 GMT | Inside Claude CoWork: A Security-Centric Architecture Breakdown for Technical Teams | Rakeshkhanduja | [Read More](https://medium.com/p/cbce046f4c65) |
+| Tue, 03 Mar 2026 08:25:14 GMT | SOC Investigation Report: RDP Brute Force Attack Leading to Unauthorized Remote Access | chicorax | [Read More](https://medium.com/p/4462fb23344d) |
+| Tue, 03 Mar 2026 08:21:50 GMT | Mengapa Verifikasi Domain Penting di Era Platform Digital | adminflying | [Read More](https://medium.com/p/f417d81f1856) |
+| Tue, 03 Mar 2026 08:17:25 GMT | The strangest scenario I’ve found: Improper authentication | k4e | [Read More](https://medium.com/p/5f27f6a1b9d9) |
+| Tue, 03 Mar 2026 08:17:10 GMT | Hidden Flag Hunt — Web Challenge Writeup | Santhosh Kumar R | [Read More](https://medium.com/p/5c4f81547037) |
+| Tue, 03 Mar 2026 08:15:44 GMT | PicoCTF - Event-Viewing | irvan wahyudin | [Read More](https://medium.com/p/5fc6f8b50f25) |
+| Tue, 03 Mar 2026 08:05:52 GMT | The DevOps Interview Question That Eliminates 70% of Candidates Immediately | Zudonu Osomudeya | [Read More](https://medium.com/p/c80295d1800f) |
+| Tue, 03 Mar 2026 08:01:02 GMT | When the Cloud Falls: The Hidden Cost of Trusting Big Tech With Everything | MayhemCode | [Read More](https://medium.com/p/7f7ffa05d05e) |
+| Tue, 03 Mar 2026 07:56:20 GMT | Mastering Application Security Code Review Today | Application Security Master | [Read More](https://medium.com/p/7117b85feccc) |
+| Tue, 03 Mar 2026 07:53:03 GMT | EntroGuard — Day 7 | Nisarg Patel | [Read More](https://medium.com/p/2a00683a3e30) |
+| Tue, 03 Mar 2026 07:47:45 GMT | Is Quantum Encryption the End of Hacking — or Just the Beginning of a New Cybersecurity Era? | R TechReview | [Read More](https://medium.com/p/da1449fdd6ef) |
+| Tue, 03 Mar 2026 07:46:29 GMT | Your Cybersecurity Tools Aren’t the Problem — Your Enterprise Cybersecurity Architecture Is | AI, Cloud & Digital Transformation Company CQLsys | [Read More](https://medium.com/p/d02590386f4c) |
+| Tue, 03 Mar 2026 07:43:04 GMT | Large Pizza, Small Price: Exploiting a Critical Business Logic Flaw in Checkout | Raslanco | [Read More](https://medium.com/p/55f7497e5ab6) |
 | Tue, 03 Mar 2026 07:39:30 GMT | I Made a Store Pay Me to Buy a $1337 Jacket — On Holi. | TEJAS | [Read More](https://medium.com/p/266c78c6b275) |
 | Tue, 03 Mar 2026 07:34:21 GMT | The Black Market for AI Agents: When Jailbreaking Becomes a Product | Contact Nn | [Read More](https://medium.com/p/65764d0e96b2) |
 | Tue, 03 Mar 2026 07:33:34 GMT | Mastering Proxies for Brand Protection in the Digital Economy | Proxy-Seller | [Read More](https://medium.com/p/b2f2dcf6c207) |
@@ -22,6 +39,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Mar 2026 07:21:02 GMT | From Streaming Redirect to Suspicious Payload: A Mini Threat Analysis Case Study | .. | [Read More](https://medium.com/p/064c10ee4ed6) |
 | Tue, 03 Mar 2026 07:20:48 GMT | Top 10 Artificial Intelligence (AI) Training Institutes in Delhi NCR | Sarfraj Ahmad | [Read More](https://medium.com/p/70d079b60965) |
 | Tue, 03 Mar 2026 07:20:26 GMT | Offensive Security Proving Grounds Write-up: Muddy | Henry Post | [Read More](https://medium.com/p/bb7400006a29) |
+| Tue, 03 Mar 2026 07:14:57 GMT | SMA Terbaik untuk Masa Depan di Bidang IT dan Cyber security | Ali Ridlo | [Read More](https://medium.com/p/6eae47930c0f) |
 | Tue, 03 Mar 2026 07:09:55 GMT | 3 Basic Security Layer for OpenClaw 2026.3.1. | Fairo Bagoes | [Read More](https://medium.com/p/9f0770f23288) |
 | Tue, 03 Mar 2026 07:01:54 GMT | Exploiting Server-Side Parameter Pollution in a REST URL | Bash Overflow | [Read More](https://medium.com/p/9881fe6bddbf) |
 | Tue, 03 Mar 2026 07:01:06 GMT | 9. The Real Meaning of CI/CD in Modern Software Delivery | Mangesh Muley | [Read More](https://medium.com/p/3823dca01b7f) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Mar 2026 01:40:59 GMT | Designed for Documentation or Built for Pressure? | Zac Moore | [Read More](https://medium.com/p/0ad715b6259d) |
 | Tue, 03 Mar 2026 01:37:15 GMT | We Just Made It Harder to Fool Your Parents. Two New Free Tools from ShieldWord. | Howard Orloff | [Read More](https://medium.com/p/092604978aa4) |
 | Tue, 03 Mar 2026 01:17:10 GMT | PICO CTF -Ph4nt0m 1ntrud3r | Sansssadt | [Read More](https://medium.com/p/8c2462ccd927) |
-| Tue, 03 Mar 2026 01:05:13 GMT | Menyelami Forensik Digital: Analisis Log, Lalu Lintas Jaringan dan Insiden Siber | Donysetyon | [Read More](https://medium.com/p/f1c7d30dd618) |
-| Tue, 03 Mar 2026 00:42:18 GMT | The Quantum Reckoning Is Coming — And Most Blockchains Are Not Ready | Ibrahim Dajin | [Read More](https://medium.com/p/d5bd0bd7886c) |
-| Tue, 03 Mar 2026 00:24:36 GMT | Cellframe Network | Ibrahim Dajin | [Read More](https://medium.com/p/47f976899120) |
-| Tue, 03 Mar 2026 00:14:59 GMT | My Bank Account Got Drained in 12 Minutes. Here’s the “Freeze First” Protocol I Use Now. | SoftLife | [Read More](https://medium.com/p/ff05d60d58ef) |
-| Tue, 03 Mar 2026 00:01:01 GMT | Guía de Waybackurls: Extracción de URLs Históricas para Bug Bounty | JPablo13 | [Read More](https://medium.com/p/0c16c5942cfd) |
-| Mon, 02 Mar 2026 23:46:26 GMT | HTB Knife: PHP 8.1.0-dev Supply Chain Backdoor RCE to Root | Onurcan Genç | [Read More](https://medium.com/p/c5e0bfa9fe25) |
-| Mon, 02 Mar 2026 23:35:16 GMT | Cyber Security Offense and Defense Home Lab — Part 4b (Configuring pfsense firewall-GUI) | Mahim Avi | [Read More](https://medium.com/p/d8583447b6cc) |
-| Mon, 02 Mar 2026 23:33:55 GMT | Self-Hosted AI Isn’t Safer by Default | Karla Ortiz-Flores | [Read More](https://medium.com/p/3fdc8ffe3f87) |
-| Mon, 02 Mar 2026 23:24:56 GMT | Cyber Security Offense and Defense Home Lab — Part 4a (Configuring pfsense firewall-CLI) | Mahim Avi | [Read More](https://medium.com/p/b44cdeee48c5) |
-| Mon, 02 Mar 2026 23:13:06 GMT | Driftingblue6 Walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/6bd5a70c9989) |
-| Mon, 02 Mar 2026 23:12:30 GMT | Do Not Call Yourself a Cybersecurity Enthusiast If You Don’t Know This. | Priyanshu Manash | [Read More](https://medium.com/p/674a2c7c3fc4) |
-| Mon, 02 Mar 2026 23:10:29 GMT | Security hardening on AI agent integration with AWS using IAM Roles Anywhere | Danushka Fernando | [Read More](https://medium.com/p/68dba655ee4a) |
-| Mon, 02 Mar 2026 23:02:02 GMT | How To Get Into Cyber Security??? | Muhammadharis | [Read More](https://medium.com/p/2a482cc5b0bd) |
-| Mon, 02 Mar 2026 22:41:21 GMT | Open Source Supply Chain Attacks 2026: The Silent Frontline of the Middle East War | Tent Of Tech | [Read More](https://medium.com/p/c4ec6ec55edd) |
-| Mon, 02 Mar 2026 22:35:31 GMT | How are AI-powered APIs reshaping the technology landscape? | Anadi Chiransa | [Read More](https://medium.com/p/f6d31e8aeda1) |
-| Mon, 02 Mar 2026 22:33:47 GMT | Exposing an Android SMS-to-Telegram Malware: Reverse Engineering a Real OTP Stealer | razzee | [Read More](https://medium.com/p/a4710be2cba4) |
-| Mon, 02 Mar 2026 22:28:44 GMT | HTB — Analytics By Ashbo3n | Ashborn | [Read More](https://medium.com/p/de9e510f7ff4) |
-| Mon, 02 Mar 2026 22:24:55 GMT | From Learning APIs to Protecting Systems: My API Security Journey | Sharon Nicole Dube | [Read More](https://medium.com/p/aa25cdbc11a2) |
