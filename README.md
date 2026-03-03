@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Mar 2026 04:20:52 GMT | Different Roles in Cybersecurity | Antonyrajvedamanickam | [Read More](https://medium.com/p/cad899d51dcf) |
+| Tue, 03 Mar 2026 04:18:34 GMT | Is OpenClaw Safe to Use in 2026? What You Need to Know | Hanzala | [Read More](https://medium.com/p/0b74a31548de) |
+| Tue, 03 Mar 2026 04:09:05 GMT | Why APY Is the Most Misunderstood Metric in DeFi | Mukeshrana | [Read More](https://medium.com/p/79f85a37bf1b) |
+| Tue, 03 Mar 2026 03:58:11 GMT | The AI Coding Boom Has a Hidden Cost — Part 2: Closing the Compliance Gaps with 18 Security Gates | Karthikeyan Sadayamuthu | [Read More](https://medium.com/p/92b252179fca) |
+| Tue, 03 Mar 2026 03:57:16 GMT | Compliance Automation is the Next Biggest Threat to Cyber Resilience, Just Behind the Adversary | Ian Yip | [Read More](https://medium.com/p/723996d2a412) |
+| Tue, 03 Mar 2026 03:41:09 GMT | The AI World Is on Fire This Week — Here Are 7 Things You Need to Know (March 2026) | Chase Xu | [Read More](https://medium.com/p/4b372e46124e) |
+| Tue, 03 Mar 2026 03:36:20 GMT | The Verification Tax: How Deepfakes Just Turned “Trust” Into a Luxury Good | A.Rehman | [Read More](https://medium.com/p/09617f9991f2) |
+| Tue, 03 Mar 2026 03:34:38 GMT | Designing an Enterprise Hybrid Identity Architecture (Part 2): Organizational Unit Design & RBAC… | Roland Archie | [Read More](https://medium.com/p/d82e4e47db38) |
+| Tue, 03 Mar 2026 03:30:24 GMT | Hacking DVWA: A Deep Dive into Reflected and Stored XSS | Mawira Victor | [Read More](https://medium.com/p/dacb8a2b3c81) |
+| Tue, 03 Mar 2026 03:27:57 GMT | Access-First Authentication Goes Live: Opening the Toqen.app Pilot Program | Anton Minin Baranovskii | [Read More](https://medium.com/p/e7314f90b838) |
+| Tue, 03 Mar 2026 02:59:48 GMT | Pentesting Android #1: Bongkar Insecure Local Storage di AndroGoat | Ibnu Hibban | [Read More](https://medium.com/p/6bb982377d98) |
+| Tue, 03 Mar 2026 02:39:08 GMT | CSRF To 1-Step Account Takeover | Yousef | [Read More](https://medium.com/p/92ce90fc9ac5) |
 | Tue, 03 Mar 2026 02:20:58 GMT | The Only Time Anyone Cares About Audit Logs Is After Your Name Is On The Incident Report | revoq | [Read More](https://medium.com/p/88b9c9cdbad5) |
 | Tue, 03 Mar 2026 02:18:52 GMT | digital forensics — torrent file analysis for windows! | akili | [Read More](https://medium.com/p/b310a5d27fbf) |
 | Tue, 03 Mar 2026 02:14:45 GMT | The 2026 Blueprint for App Security: How to Audit Performance and Privacy Before You Play | GuideSEE | [Read More](https://medium.com/p/3d766ef72b28) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Mar 2026 18:31:58 GMT | New Zealand’s Cyber Security Strategy | SOCFortress | [Read More](https://medium.com/p/c0fd7e0aaa99) |
 | Mon, 02 Mar 2026 18:31:00 GMT | Your In-House IT Team Is Costing You 40% More Than It Should | Jenny | [Read More](https://medium.com/p/9f55c8320cc9) |
 | Mon, 02 Mar 2026 18:28:45 GMT | The Complete Red Teaming Roadmap -Beginner to Professional (100% Free Resources) | Hacker MD | [Read More](https://medium.com/p/6183e451ee4a) |
-| Mon, 02 Mar 2026 18:25:41 GMT | UAC-0252 Cyber Attacks Using SHADOWSNIFF and SALATSTEALER Stealers (CERT-UA#20032) | SIMKRA | [Read More](https://medium.com/p/5214e3bff7c2) |
-| Mon, 02 Mar 2026 18:25:03 GMT | The hard truth of being an introvert in IT. | The Purple Horsey | [Read More](https://medium.com/p/ce8532ac10b9) |
-| Mon, 02 Mar 2026 18:24:28 GMT | EVEN RSA CAN BE BROKEN??? — picoCTF Writeup | patrickjane | [Read More](https://medium.com/p/05ece10b68eb) |
-| Mon, 02 Mar 2026 18:22:54 GMT | The Architecture Owner: Why the CISO’s Next Battle Isn’t in the Boardroom. | Younos Nazarian | [Read More](https://medium.com/p/1571fff4c304) |
-| Mon, 02 Mar 2026 18:22:45 GMT | Quantum Shift in Industry | Mithrais | [Read More](https://medium.com/p/27b01ca8f62d) |
-| Mon, 02 Mar 2026 18:13:28 GMT | Hardening Remote Access on RDK X5 (and Other Embedded Linux Systems) | Suryansh Srivastava | [Read More](https://medium.com/p/eba326d58a3d) |
-| Mon, 02 Mar 2026 18:07:21 GMT | Hidden in plainsight— PicoCTF Writeup - by Avani Prakasan | Avani Prakasan | [Read More](https://medium.com/p/ffd2f5af693e) |
-| Mon, 02 Mar 2026 17:58:54 GMT | Authorized, But Not Aligned: The Structural Risk of AI Agents on Modern Endpoints | Lorand Pervizaj (DaSl0th) | [Read More](https://medium.com/p/eb1807fb7b8b) |
-| Mon, 02 Mar 2026 17:57:36 GMT | I Built an Open-Source Service Fingerprinter — Here’s What It Finds | Nathan Sportsman | [Read More](https://medium.com/p/0daae3ccc74a) |
-| Mon, 02 Mar 2026 17:50:36 GMT | Expiro File Infector Is Back | C M UPPIN | [Read More](https://medium.com/p/0304e8ea8243) |
-| Mon, 02 Mar 2026 17:46:52 GMT | Inside the Iran–Israel ‘Shadow War’ in 2026: Cyber Attacks, Proxy Clashes, and What Comes Next | abualyaanart | [Read More](https://medium.com/p/181f708acdbf) |
-| Mon, 02 Mar 2026 17:42:28 GMT | Citrix Bleed: How a Single Bug Leaked Corporate Secrets (CVE-2023–4966) | Krishna Kumar | [Read More](https://medium.com/p/45e9c6fbe9f6) |
