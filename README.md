@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Mar 2026 07:39:30 GMT | I Made a Store Pay Me to Buy a $1337 Jacket — On Holi. | TEJAS | [Read More](https://medium.com/p/266c78c6b275) |
+| Tue, 03 Mar 2026 07:34:21 GMT | The Black Market for AI Agents: When Jailbreaking Becomes a Product | Contact Nn | [Read More](https://medium.com/p/65764d0e96b2) |
+| Tue, 03 Mar 2026 07:33:34 GMT | Mastering Proxies for Brand Protection in the Digital Economy | Proxy-Seller | [Read More](https://medium.com/p/b2f2dcf6c207) |
+| Tue, 03 Mar 2026 07:32:19 GMT | Yara meets Sigma | Abhik Kumawat | [Read More](https://medium.com/p/55c327b7421d) |
+| Tue, 03 Mar 2026 07:25:27 GMT | Virtual Doorman vs Traditional Security: Which is Right? | Doris William | [Read More](https://medium.com/p/8c6d34c7c57c) |
+| Tue, 03 Mar 2026 07:22:35 GMT | The “Intended Behavior” Gaslight: The Broken Reality of Bug Bounty Bureaucracy | Vivek PS | [Read More](https://medium.com/p/bd7798331184) |
+| Tue, 03 Mar 2026 07:21:13 GMT | Antivirus Pro Explained: Smart Security for Windows and Mac Users | Siyanoav | [Read More](https://medium.com/p/2d7bec9162cf) |
+| Tue, 03 Mar 2026 07:21:02 GMT | From Streaming Redirect to Suspicious Payload: A Mini Threat Analysis Case Study | .. | [Read More](https://medium.com/p/064c10ee4ed6) |
+| Tue, 03 Mar 2026 07:20:48 GMT | Top 10 Artificial Intelligence (AI) Training Institutes in Delhi NCR | Sarfraj Ahmad | [Read More](https://medium.com/p/70d079b60965) |
+| Tue, 03 Mar 2026 07:20:26 GMT | Offensive Security Proving Grounds Write-up: Muddy | Henry Post | [Read More](https://medium.com/p/bb7400006a29) |
+| Tue, 03 Mar 2026 07:09:55 GMT | 3 Basic Security Layer for OpenClaw 2026.3.1. | Fairo Bagoes | [Read More](https://medium.com/p/9f0770f23288) |
+| Tue, 03 Mar 2026 07:01:54 GMT | Exploiting Server-Side Parameter Pollution in a REST URL | Bash Overflow | [Read More](https://medium.com/p/9881fe6bddbf) |
+| Tue, 03 Mar 2026 07:01:06 GMT | 9. The Real Meaning of CI/CD in Modern Software Delivery | Mangesh Muley | [Read More](https://medium.com/p/3823dca01b7f) |
+| Tue, 03 Mar 2026 06:59:10 GMT | How Scammers Vet Clients Through Technology And How You Can Reverse It On Them | Evren Tanson | [Read More](https://medium.com/p/9448a32c4d31) |
 | Tue, 03 Mar 2026 06:50:56 GMT | Strengthening Identity Security with Azure Privileged Identity Management (PIM) | Amal Udayanga Basnayake | [Read More](https://medium.com/p/0afaaf1fa4a3) |
 | Tue, 03 Mar 2026 06:50:20 GMT | Your API Is a Hacker’s Favorite Target — Here’s How to Secure It Before It’s Too Late. | Sreenath Macha | [Read More](https://medium.com/p/14604fa209b6) |
 | Tue, 03 Mar 2026 06:48:58 GMT | What is Penetration Testing? A complete Beginner’s Guide(2026) part — 1 | 0xSmit | [Read More](https://medium.com/p/11dcbffffea8) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 02 Mar 2026 22:33:47 GMT | Exposing an Android SMS-to-Telegram Malware: Reverse Engineering a Real OTP Stealer | razzee | [Read More](https://medium.com/p/a4710be2cba4) |
 | Mon, 02 Mar 2026 22:28:44 GMT | HTB — Analytics By Ashbo3n | Ashborn | [Read More](https://medium.com/p/de9e510f7ff4) |
 | Mon, 02 Mar 2026 22:24:55 GMT | From Learning APIs to Protecting Systems: My API Security Journey | Sharon Nicole Dube | [Read More](https://medium.com/p/aa25cdbc11a2) |
-| Mon, 02 Mar 2026 22:24:45 GMT | Keys to the Kingdom: A Guide to Digital Identity | Moez Ben-Azzouz | [Read More](https://medium.com/p/898884e96e7c) |
-| Mon, 02 Mar 2026 22:23:24 GMT | How API Pen-Testers Approach Systems: Tools, Mindset, and Methodology | Sharon Nicole Dube | [Read More](https://medium.com/p/851f8791306f) |
-| Mon, 02 Mar 2026 22:19:04 GMT | The Role of a Smart Contract Security Researcher | Abraham | [Read More](https://medium.com/p/e296b20f273c) |
-| Mon, 02 Mar 2026 22:18:25 GMT | CVE-2026–0628: When AI Moves Into the Browser, Chrome Extensions Get a New Way to Break the Rules | Germano Costi | [Read More](https://medium.com/p/695dd1097ab6) |
-| Mon, 02 Mar 2026 22:14:18 GMT | Your University Is Letting AI See Everything. And Nobody’s Talking About It. | Siddhi Rohan | [Read More](https://medium.com/p/3e25e0e6cc37) |
-| Mon, 02 Mar 2026 22:06:22 GMT | The Return of the Yeti (THM) WriteUp Answer | Lawvye | [Read More](https://medium.com/p/e9ffe7222115) |
-| Mon, 02 Mar 2026 22:01:00 GMT | Unfiltered Restart — Day 15: Exam Prep, Day 1 | Maximillian Rueda | [Read More](https://medium.com/p/03857385ca13) |
-| Mon, 02 Mar 2026 22:00:43 GMT | Security Alert: Unpatched Backend Flaw in Ring Cameras — Tony Capo Warning | Admin | [Read More](https://medium.com/p/81e75deee4ea) |
-| Mon, 02 Mar 2026 21:59:58 GMT | AI Security Series : INSECURE AI APIs | Damilola Faith Ashiedu | [Read More](https://medium.com/p/0ecb9ed84129) |
-| Mon, 02 Mar 2026 21:56:44 GMT | Configuring ACLs in Cisco Packet Tracer | markachko | [Read More](https://medium.com/p/0bb2fb217b7e) |
-| Mon, 02 Mar 2026 21:56:41 GMT | Control a Pack of AI Coding Agents From My Telegram Group Chat | Itay Shmool | [Read More](https://medium.com/p/9eda4277bbc5) |
-| Mon, 02 Mar 2026 21:56:24 GMT | RST TI Report Digest: 02 Mar 2026 | RST Cloud | [Read More](https://medium.com/p/c6de27a00cf8) |
-| Mon, 02 Mar 2026 21:52:04 GMT | Creating a Backend for Workflow Automation: How the platform knows who you are? | Ankit Arsh | [Read More](https://medium.com/p/af6e9174c370) |
-| Mon, 02 Mar 2026 21:49:05 GMT | The Death of Probabilistic Safety: 99 Patents for Deterministic AI Governance | Gene Salvatore | [Read More](https://medium.com/p/888e51a14a04) |
