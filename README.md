@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Mar 2026 22:26:49 GMT | URGENT CRITICAL ALERT – Upemba National Park ,DR Congo | Kivuhub | [Read More](https://medium.com/p/1c78a99f8444) |
+| Tue, 03 Mar 2026 22:24:50 GMT | Preventive War and the Erosion of Restraint | Dr. Thomas Jreige | [Read More](https://medium.com/p/731d7411e7b6) |
+| Tue, 03 Mar 2026 22:13:14 GMT | Kali Meet Claude: Your New BFF | BillfordX | [Read More](https://medium.com/p/659f8689b5fb) |
+| Tue, 03 Mar 2026 22:06:25 GMT | THM — PS Eclipse | h4nr1_s3ld0n | [Read More](https://medium.com/p/182606a3e018) |
+| Tue, 03 Mar 2026 22:02:00 GMT | AI, National Security, and the Disappearing Red Lines. | Neela ️ | [Read More](https://medium.com/p/da2bbe637c59) |
+| Tue, 03 Mar 2026 22:01:57 GMT | Building a Transformer based end-to-end Web Application Firewall (WAF)pipeline | Harshdeep Athawale | [Read More](https://medium.com/p/704b3d191039) |
+| Tue, 03 Mar 2026 22:01:01 GMT | Privacy is Obsolete — The EFF and ACLU Lost the Privacy Fight | Samuel Brice | [Read More](https://medium.com/p/c2fd545e6ad7) |
+| Tue, 03 Mar 2026 22:01:01 GMT | Unfiltered Restart — Day 16: Exam Prep, Day 2 | Maximillian Rueda | [Read More](https://medium.com/p/c3a3467b31da) |
+| Tue, 03 Mar 2026 21:56:34 GMT | How to Fix “App Not Installed” Error (All Solutions) | Sohail Khan | [Read More](https://medium.com/p/fff56b5f865d) |
+| Tue, 03 Mar 2026 21:53:53 GMT | Where to Sell GPUs in Bulk: A Practical Guide for AI and Data Center Hardware | Sam Lam | [Read More](https://medium.com/p/7d9c2216f020) |
+| Tue, 03 Mar 2026 21:49:05 GMT | Think Like a Hacker Using Claude | Joshua Goossen | [Read More](https://medium.com/p/47998e404277) |
+| Tue, 03 Mar 2026 21:36:24 GMT | Reflective DLL Injection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/9c720868d550) |
 | Tue, 03 Mar 2026 21:19:22 GMT | Analisis malware pada POS.apk Secara Statis dengan mobSF dan Jadx-GUI | L0udbaa | [Read More](https://medium.com/p/c4f3d882b69c) |
 | Tue, 03 Mar 2026 21:13:57 GMT | Infrastructure as a Security Asset: Setting Up Centralized Logging in Azure | Onobrakpeya Efeturi | [Read More](https://medium.com/p/ff4e1dceda91) |
 | Tue, 03 Mar 2026 21:13:12 GMT | Cyber Defender — PsExec Hunt Lab | Sansssadt | [Read More](https://medium.com/p/9947e7d96eef) |
@@ -21,6 +33,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Mar 2026 20:50:35 GMT | Offensive Security Proving Grounds: Internal | Henry Post | [Read More](https://medium.com/p/bf9087d986fe) |
 | Tue, 03 Mar 2026 20:46:15 GMT | An Article on Why APY Is the Most Misunderstood Metric in DeFi | Babatunde Bello | [Read More](https://medium.com/p/1a41799f57d4) |
 | Tue, 03 Mar 2026 20:41:15 GMT | When War Echoes in the Wires | Gbolahan Akinbola | [Read More](https://medium.com/p/50d704e12b1f) |
+| Tue, 03 Mar 2026 20:34:18 GMT | JavaScript Kodunu Gizlemek: | Meryem Eroğlu | [Read More](https://medium.com/p/695caeac03a8) |
 | Tue, 03 Mar 2026 20:31:00 GMT | I Thought I Was Too Tech-Savvy to Be Scammed. Then It Happened | Cyber Dive | [Read More](https://medium.com/p/afef8c9d3f0c) |
 | Tue, 03 Mar 2026 20:29:52 GMT | From Kinetic Threats to Kinetic Defense: An Elastic-Powered Autonomous Agent for L1/L2 ICS… | Varun Sinha | [Read More](https://medium.com/p/154c6eb763d7) |
 | Tue, 03 Mar 2026 20:27:29 GMT | penguin — CTF writeup-EHAX2026 | wal-z1 | [Read More](https://medium.com/p/f3409359e032) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Mar 2026 15:23:25 GMT | DroidCave Challenge-8kSEC | Mohamed Ayman | [Read More](https://medium.com/p/3305a7cb704f) |
 | Tue, 03 Mar 2026 15:22:51 GMT | Would You Trade Your Data to Skip the Line? | Jodi Daniels | [Read More](https://medium.com/p/2e5911d6a6b5) |
 | Tue, 03 Mar 2026 15:22:45 GMT | How to Secure Your Home in 2026 | AlexBryn | [Read More](https://medium.com/p/1db63e8751f7) |
-| Tue, 03 Mar 2026 15:15:44 GMT | The Hidden Record | Jonelle Owens | [Read More](https://medium.com/p/797f639dd5a5) |
-| Tue, 03 Mar 2026 15:15:16 GMT | Hands-On Memory Forensics: A DFIR Investigation of a Compromised Windows XP Machine | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/ed8a6ea7993c) |
-| Tue, 03 Mar 2026 15:04:23 GMT | ETHDenver, AI Agents in Security: Amplification Without Automation | Irene Basaglia | [Read More](https://medium.com/p/da48e4aec383) |
-| Tue, 03 Mar 2026 15:01:02 GMT | Leverage this AWS feature to securely share S3 files with your users | Ryan Baker | [Read More](https://medium.com/p/d853171b0c40) |
-| Tue, 03 Mar 2026 15:01:02 GMT | Cyber Briefing: 2026.03.03 | CyberMaterial | [Read More](https://medium.com/p/ae233861fb75) |
-| Tue, 03 Mar 2026 15:00:57 GMT | A Buyer Just Used AI to Steal From a Seller — And the Platform Let It Happen | UncovAI | [Read More](https://medium.com/p/85f0fb6bf29b) |
-| Tue, 03 Mar 2026 15:00:02 GMT | Enforcing Zero Trust with Azure Conditional Access (MFA Lab AZ-500) | Amal Udayanga Basnayake | [Read More](https://medium.com/p/d7fe925e74c6) |
-| Tue, 03 Mar 2026 14:59:24 GMT | ⚖️ Section 65B Explained: When Does Digital Evidence Become Admissible in Court? | Nimit Shyara | [Read More](https://medium.com/p/9f71fe20d27a) |
-| Tue, 03 Mar 2026 14:59:11 GMT | OTP Bypass via Premature Session Cookie | Dipesh Paul | [Read More](https://medium.com/p/9297ed196d5b) |
-| Tue, 03 Mar 2026 14:56:31 GMT | Why I Pay via Credit Card on UPI — The Financial Security Layer Most Ignore. | Satish Mishra | [Read More](https://medium.com/p/6034183bfb0c) |
-| Tue, 03 Mar 2026 14:56:00 GMT | Professional Security Services in the UK — Manned Guarding & Event Security Explained | Rapport Security | [Read More](https://medium.com/p/669d75737716) |
-| Tue, 03 Mar 2026 14:54:45 GMT | How does an attacker actually get access to execute the ghost pod attack? | Alex | [Read More](https://medium.com/p/e1f0a84365e8) |
-| Tue, 03 Mar 2026 14:54:43 GMT | CyberDefenders - PsExec Hunt Lab | M.Daffa Hakiki | [Read More](https://medium.com/p/a316da18368a) |
