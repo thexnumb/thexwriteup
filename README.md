@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Mar 2026 11:17:18 GMT | S3nd me your bitcoinz — the moment no DR plan describes | Jere Le | [Read More](https://medium.com/p/688e1c9a53e3) |
+| Tue, 03 Mar 2026 11:17:00 GMT | FlagYard — GOT Me - Pwn Writeup | ibrahim | [Read More](https://medium.com/p/0103bbff1d0a) |
+| Tue, 03 Mar 2026 11:10:55 GMT | The Coming Cyberstorm: AI-Generated Hacks No One Is Ready For | Team TIE | [Read More](https://medium.com/p/397ee8349428) |
+| Tue, 03 Mar 2026 11:06:00 GMT | Cuando ser vulnerable se convierte en una estrategia de poder | Andrés Seminario | [Read More](https://medium.com/p/c3759fbd49f9) |
+| Tue, 03 Mar 2026 11:01:00 GMT | ‘We all need to realise that we must stand together!’ | European Court of Auditors | [Read More](https://medium.com/p/e04f83a5c03e) |
+| Tue, 03 Mar 2026 10:54:32 GMT | How a Cyber Security Certification Course Can Boost Your IT Career | Janbask Training | [Read More](https://medium.com/p/33a747a566e8) |
+| Tue, 03 Mar 2026 10:53:15 GMT | Convenience without Consent — Remote Working in a Post-COVID world | Ollie Peers | [Read More](https://medium.com/p/7df55d3ee0fd) |
+| Tue, 03 Mar 2026 10:50:32 GMT | CI CD Misconfiguration Exposes Enterprise Giants to Automated Bot Attacks | Jas | [Read More](https://medium.com/p/45ffd340dea0) |
+| Tue, 03 Mar 2026 10:50:01 GMT | Ollama Pentesting: A Comprehensive 2026 Cheat Sheet. | Matthew Beddoes | [Read More](https://medium.com/p/5ef39946faca) |
+| Tue, 03 Mar 2026 10:45:57 GMT | How Insecure JavaScript Handling Leads to DOM-Based Vulnerabilities | Naveen TK | [Read More](https://medium.com/p/cbe6bad25e9e) |
 | Tue, 03 Mar 2026 10:41:14 GMT | Why Offline Encryption Tools Beat Hardware Wallets for Seed Phrase Security | Paranoid Qrypto | [Read More](https://medium.com/p/5e187d516015) |
 | Tue, 03 Mar 2026 10:38:13 GMT | OWASP WSTG Guide: Testing Configuration & Deployment for Web Security | Habibi | [Read More](https://medium.com/p/61ac270df5af) |
 | Tue, 03 Mar 2026 10:36:30 GMT | Your Computer’s Clock Belongs to the US Navy | huizhou92 | [Read More](https://medium.com/p/597c189c0072) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Mar 2026 06:26:15 GMT | Cyber Security Training: Protecting Your Digital World | Rashi Chauhan | [Read More](https://medium.com/p/14d45461f91d) |
 | Tue, 03 Mar 2026 06:24:26 GMT | Why SSL Certificate Matters for Your Website Security | Smit Pipaliya | [Read More](https://medium.com/p/14cac697bb23) |
 | Tue, 03 Mar 2026 06:22:43 GMT | Neutralizing Zero-Day Threats Before They Can Strike: CloudMosa’s Remote Browser Isolation Done… | CloudMosa, Inc. | [Read More](https://medium.com/p/91682df15404) |
-| Tue, 03 Mar 2026 06:22:21 GMT | How Phishing Attacks Work in 2026 — Techniques, Examples & Defence | Kuboid Secure Layer | [Read More](https://medium.com/p/6440b55c580f) |
-| Tue, 03 Mar 2026 06:21:03 GMT | From Zero to Recon: How Beginners Can Start Bug Bounty Hunting the Smart Way | ghostyjoe | [Read More](https://medium.com/p/bd65d3f9234a) |
-| Tue, 03 Mar 2026 06:11:43 GMT | Top Smart Contract Development Companies: Comparison Based on Pricing, Security & Delivery | Blockchain Ai In | [Read More](https://medium.com/p/66299b46b4d6) |
-| Tue, 03 Mar 2026 06:09:22 GMT | Zero-Infra Cloud Exploitation: Hijacking Google’s Gemini via Public API Keys | Sohan Kanna | [Read More](https://medium.com/p/70959af91c7a) |
-| Tue, 03 Mar 2026 06:08:25 GMT | Solving a Bugforge Challenge — Exploiting LFI in Cafe Club | Pranaya Shrestha | [Read More](https://medium.com/p/bdceef76cf54) |
-| Tue, 03 Mar 2026 06:00:49 GMT | Day 13 :I Tried to Freeze the Database but it Stared Back;) | Issan | [Read More](https://medium.com/p/a25edd71a0ff) |
-| Tue, 03 Mar 2026 05:57:14 GMT | OSINT Writeup — Roam the World (500) | Midhun S | [Read More](https://medium.com/p/2363bf9e0808) |
-| Tue, 03 Mar 2026 05:43:57 GMT | AI Is Now the Biggest Cybersecurity Threat — And the Best Defense. | Cynox Security LLP. | [Read More](https://medium.com/p/db2fe6489832) |
-| Tue, 03 Mar 2026 05:34:47 GMT | Security Importance | Saiful Gazi | [Read More](https://medium.com/p/16396e375daf) |
-| Tue, 03 Mar 2026 05:34:39 GMT | Documenting my journey. | Nikita Poojary | [Read More](https://medium.com/p/9a85fa128576) |
