@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Mar 2026 16:59:29 GMT | [Dev Update] In NODE: PROTOCOL, stealing the data is only half the job. | Marc | [Read More](https://medium.com/p/f528d8e8949a) |
+| Tue, 03 Mar 2026 16:57:06 GMT | Sherlock HackTheBox: Brutus | Dixtroiza | [Read More](https://medium.com/p/215bdee079bb) |
+| Tue, 03 Mar 2026 16:56:10 GMT | A Practical Guide to SABSA: Securing Enterprise Infrastructure by Design | Tom Croll | [Read More](https://medium.com/p/a7b4702ba0a4) |
+| Tue, 03 Mar 2026 16:56:01 GMT | Keycloak IAM Core Concepts Explained (Part 2): Realms, Users, Groups, Clients, Roles and OIDC Token… | Rupesh Sharma | [Read More](https://medium.com/p/f0d8a8feb6b2) |
+| Tue, 03 Mar 2026 16:53:48 GMT | Nigerian E-voting Technology. | Funmitoadesola | [Read More](https://medium.com/p/2fab6f42f1c9) |
+| Tue, 03 Mar 2026 16:48:36 GMT | How a Simple %61 Bypassed a Reverse Proxy: EHAX CTF Writeup | Devanshu Pathak | [Read More](https://medium.com/p/eeec0bb82af1) |
+| Tue, 03 Mar 2026 16:46:58 GMT | Load Balancing in System Design: Understanding Consistent Hashing and Scalable Request Allocation | Tech Savvy Talks by Sanjana | [Read More](https://medium.com/p/e9f3f7b3b7dc) |
+| Tue, 03 Mar 2026 16:43:32 GMT | OpenFang: Anatomy and Engineering of the First Secure Autonomous Agent OS | Stéphane Stéphane | [Read More](https://medium.com/p/c5fcef2ab34d) |
+| Tue, 03 Mar 2026 16:43:31 GMT | Business Logic Vulnerability in Subscription Checkout | Mahmoud Magdy | [Read More](https://medium.com/p/31845a3685f4) |
+| Tue, 03 Mar 2026 16:42:56 GMT | Cyber Laws in India: The Digital Persona, Personation, and Privacy | Vasuki | [Read More](https://medium.com/p/c8736f07ecb3) |
+| Tue, 03 Mar 2026 16:21:07 GMT | The 47-Second Breach: How AI Changed Cybercrime Forever | AIThinkerLab | [Read More](https://medium.com/p/5b13472557c8) |
+| Tue, 03 Mar 2026 16:07:58 GMT | Understanding the MITRE ATT&CK Framework: A Beginner’s Guide to Thinking Like an Attacker | Rinu M J | [Read More](https://medium.com/p/bf300db21e85) |
+| Tue, 03 Mar 2026 16:06:10 GMT | How I Built Zero-Knowledge File Sharing Using the Web Crypto API (AES-256-GCM in the Browser) | Fileshot Adm | [Read More](https://medium.com/p/152b03ad0051) |
 | Tue, 03 Mar 2026 15:53:31 GMT | Why Charlotte NC Businesses Need Around-the-Clock IT Protection in 2026 and Beyond | Paradise technologies Inc | [Read More](https://medium.com/p/cb31e188cc6d) |
 | Tue, 03 Mar 2026 15:52:20 GMT | The First 90 Days Will Make or Break Your Cybersecurity Career | Taimur Ijlal | [Read More](https://medium.com/p/5d9ef76d14d0) |
 | Tue, 03 Mar 2026 15:42:19 GMT | Being a Security Researcher (SR) Changed How I See DeFi | Abraham | [Read More](https://medium.com/p/227bbcb17e5d) |
@@ -31,6 +44,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Mar 2026 15:00:02 GMT | Enforcing Zero Trust with Azure Conditional Access (MFA Lab AZ-500) | Amal Udayanga Basnayake | [Read More](https://medium.com/p/d7fe925e74c6) |
 | Tue, 03 Mar 2026 14:59:24 GMT | ⚖️ Section 65B Explained: When Does Digital Evidence Become Admissible in Court? | Nimit Shyara | [Read More](https://medium.com/p/9f71fe20d27a) |
 | Tue, 03 Mar 2026 14:59:11 GMT | OTP Bypass via Premature Session Cookie | Dipesh Paul | [Read More](https://medium.com/p/9297ed196d5b) |
+| Tue, 03 Mar 2026 14:56:31 GMT | Why I Pay via Credit Card on UPI — The Financial Security Layer Most Ignore. | Satish Mishra | [Read More](https://medium.com/p/6034183bfb0c) |
 | Tue, 03 Mar 2026 14:56:00 GMT | Professional Security Services in the UK — Manned Guarding & Event Security Explained | Rapport Security | [Read More](https://medium.com/p/669d75737716) |
 | Tue, 03 Mar 2026 14:54:45 GMT | How does an attacker actually get access to execute the ghost pod attack? | Alex | [Read More](https://medium.com/p/e1f0a84365e8) |
 | Tue, 03 Mar 2026 14:54:43 GMT | CyberDefenders - PsExec Hunt Lab | M.Daffa Hakiki | [Read More](https://medium.com/p/a316da18368a) |
@@ -99,17 +113,3 @@ AI-Powered Security Through the Eyes of a Veteran | interconnctd | [Read More](h
 | Tue, 03 Mar 2026 10:36:30 GMT | Your Computer’s Clock Belongs to the US Navy | huizhou92 | [Read More](https://medium.com/p/597c189c0072) |
 | Tue, 03 Mar 2026 10:35:27 GMT | Your AI Coding Assistant Might Be Setting a Trap for You | 0xKali | [Read More](https://medium.com/p/960fe00af266) |
 | Tue, 03 Mar 2026 10:31:20 GMT | The “Anti-AI” Strategy: Why the Future of Enterprise Software is More Human Than Ever | Samshtechtechnologies | [Read More](https://medium.com/p/a27b7950e7db) |
-| Tue, 03 Mar 2026 10:28:51 GMT | How Visiting the Wrong Website Could Turn Your AI Assistant Into a Spy | Numan Nadeem | [Read More](https://medium.com/p/c9ff497a8617) |
-| Tue, 03 Mar 2026 10:24:00 GMT | Careers Are Collapsing. Jobs Are Dying. The Smartest People Are Doing This Right Now | EINITIAL24 | [Read More](https://medium.com/p/320c5f3547cc) |
-| Tue, 03 Mar 2026 10:21:05 GMT | The XZ Utils Backdoor (CVE-2024-3094) | Vineet Kumar | [Read More](https://medium.com/p/2e61f484c990) |
-| Tue, 03 Mar 2026 10:19:50 GMT | The Illusion of Cloud Security: Why Growing Companies Must Validate Before They Scale | ANSI Technologies | [Read More](https://medium.com/p/6d09fa463807) |
-| Tue, 03 Mar 2026 10:19:41 GMT | PNPT OSINT Techniques Cheat Sheet | jaejun835 | [Read More](https://medium.com/p/561ad029f386) |
-| Tue, 03 Mar 2026 10:15:36 GMT | EIPIO Interview | Matteo Pederzoli | [Read More](https://medium.com/p/88fcadaa7178) |
-| Tue, 03 Mar 2026 10:10:07 GMT | Investigasi Lateral Movement dengan Wireshark: Analisis Traffic PCAP Berbasis Network Forensics | Donysetyon | [Read More](https://medium.com/p/c4365546b7a4) |
-| Tue, 03 Mar 2026 10:07:01 GMT | Why Reliable Hosting Starts with Simplicity (Not Expensive Servers)? | Mary Thomas | [Read More](https://medium.com/p/7261b067a459) |
-| Tue, 03 Mar 2026 09:59:59 GMT | Best Web Security Mitigations Every Developer Should Follow | Shayaan Khan | [Read More](https://medium.com/p/bd83531fee27) |
-| Tue, 03 Mar 2026 09:59:58 GMT | Infonomics Trends | Jerry Grzegorzek (SuperBusinessManager.com) | [Read More](https://medium.com/p/4a2410d0a642) |
-| Tue, 03 Mar 2026 09:57:44 GMT | What Are The Different Types Of Security Patrols | CitiGuard Australia | [Read More](https://medium.com/p/dcbbb22d7f31) |
-| Tue, 03 Mar 2026 09:56:33 GMT | Total Security Solutions India and the Growing Importance of Security Consultancy | Ciss India | [Read More](https://medium.com/p/424b09df7a4d) |
-| Tue, 03 Mar 2026 09:53:02 GMT | The Cyber Risk Blind Spot in UAE Businesses — And How VAPT Closes It | ANSI Technologies | [Read More](https://medium.com/p/1953cb9d2024) |
-| Tue, 03 Mar 2026 09:51:53 GMT | PsExec Hunt Lab — Cyberdefenders | Yrddry | [Read More](https://medium.com/p/5ab4c4f3aa73) |
