@@ -12,7 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Mar 2026 23:31:14 GMT | Add Authentication with MFA to Your NestJS Application | Murtaza Nooruddin | [Read More](https://medium.com/p/185ee022d0fe) |
 | Tue, 03 Mar 2026 23:28:14 GMT | Securing Nginx With ModSecurity: A Step-by-Step Guide to Deploying a Web Application Firewall (WAF) | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/0b6dbacde270) |
+| Tue, 03 Mar 2026 23:27:00 GMT | Welcome to NextGenTechPress: Your Blueprint for Code, Hardware, and Security | NextGen Tech Press | [Read More](https://medium.com/p/3eb37777c887) |
 | Tue, 03 Mar 2026 23:15:33 GMT | How to Download Free Movies, Series, and Anime Online | Sonofkenneth | [Read More](https://medium.com/p/5ea2776492ec) |
 | Tue, 03 Mar 2026 23:01:02 GMT | Phishing Exposed: How Attackers Exploit Cloud Subdomains and How Your Team Can Defend Against It | Bibiresanmi David | [Read More](https://medium.com/p/acf5ef7b06da) |
 | Tue, 03 Mar 2026 22:59:18 GMT | Network Forensics: RedisShell — Kinsing Lab | Khoa | [Read More](https://medium.com/p/1159f167a721) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Mar 2026 16:42:56 GMT | Cyber Laws in India: The Digital Persona, Personation, and Privacy | Vasuki | [Read More](https://medium.com/p/c8736f07ecb3) |
 | Tue, 03 Mar 2026 16:21:07 GMT | The 47-Second Breach: How AI Changed Cybercrime Forever | AIThinkerLab | [Read More](https://medium.com/p/5b13472557c8) |
 | Tue, 03 Mar 2026 16:07:58 GMT | Understanding the MITRE ATT&CK Framework: A Beginner’s Guide to Thinking Like an Attacker | Rinu M J | [Read More](https://medium.com/p/bf300db21e85) |
-| Tue, 03 Mar 2026 16:06:10 GMT | How I Built Zero-Knowledge File Sharing Using the Web Crypto API (AES-256-GCM in the Browser) | Fileshot Adm | [Read More](https://medium.com/p/152b03ad0051) |
-| Tue, 03 Mar 2026 15:53:31 GMT | Why Charlotte NC Businesses Need Around-the-Clock IT Protection in 2026 and Beyond | Paradise technologies Inc | [Read More](https://medium.com/p/cb31e188cc6d) |
