@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Mar 2026 20:31:00 GMT | I Thought I Was Too Tech-Savvy to Be Scammed. Then It Happened | Cyber Dive | [Read More](https://medium.com/p/afef8c9d3f0c) |
+| Tue, 03 Mar 2026 20:29:52 GMT | From Kinetic Threats to Kinetic Defense: An Elastic-Powered Autonomous Agent for L1/L2 ICS… | Varun Sinha | [Read More](https://medium.com/p/154c6eb763d7) |
+| Tue, 03 Mar 2026 20:27:29 GMT | penguin — CTF writeup-EHAX2026 | wal-z1 | [Read More](https://medium.com/p/f3409359e032) |
+| Tue, 03 Mar 2026 20:21:07 GMT | Ukraine could be the first country to deploy battlefield lasers | Aurel Stratan | [Read More](https://medium.com/p/181ad860655b) |
+| Tue, 03 Mar 2026 20:20:37 GMT | # 808080 – CTF Write-up-EHAX CTF2026 | wal-z1 | [Read More](https://medium.com/p/721cc22e9be3) |
+| Tue, 03 Mar 2026 20:18:09 GMT | Threat Intelligence Integration in SIEM: Enhancing Wazuh for Modern SOC Operations | Sadequzzaman Shohan | [Read More](https://medium.com/p/e5e4e33b973a) |
+| Tue, 03 Mar 2026 20:16:59 GMT | New Microsoft 365 Security Configurations to Review in 2025 | Ryan Adams | [Read More](https://medium.com/p/a677983b56cb) |
+| Tue, 03 Mar 2026 20:12:34 GMT | The Cyber Frontlines: How Digital Warfare is Redefining the Iran-Israel-US Conflict | Huzaifazeeshan | [Read More](https://medium.com/p/ba73b228da4e) |
+| Tue, 03 Mar 2026 20:09:11 GMT | What is a Rambo Attack in Cybersecurity? | Amanuzzaman M | [Read More](https://medium.com/p/5f36247811c9) |
+| Tue, 03 Mar 2026 19:59:00 GMT | The Invisible Enemy | Alexander Chase Doty | [Read More](https://medium.com/p/ebd83d684c5e) |
+| Tue, 03 Mar 2026 19:58:24 GMT | Educational Technology for Newbies | Jayden Clark | [Read More](https://medium.com/p/ef72d7637593) |
+| Tue, 03 Mar 2026 19:56:28 GMT | Your Users Are Still Using ‘password123’ in 2026. Here’s How I Built an API to Stop Them. | Devashish Gupta | [Read More](https://medium.com/p/d98c2a13c716) |
 | Tue, 03 Mar 2026 19:44:03 GMT | Firewall Annoyed Me: So I Built ufWall | Ansari | [Read More](https://medium.com/p/afa0b99f1dc2) |
 | Tue, 03 Mar 2026 19:35:35 GMT | Pentest GPT: Wie LLMs das Penetration Testing wirklich verändern | Kerimkoc | [Read More](https://medium.com/p/0ae7c471719a) |
 | Tue, 03 Mar 2026 19:31:02 GMT | Cybersecurity 2026: Pakistan + Global Digital Security Outlook - iTechSpot Report | ITech Spot | [Read More](https://medium.com/p/e8c799eddf0c) |
@@ -53,6 +65,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Mar 2026 17:17:44 GMT | Industrial and Construction Site Security: Protecting Projects from Costly Risks | Accoladeguards | [Read More](https://medium.com/p/23e55ead168c) |
 | Tue, 03 Mar 2026 17:12:49 GMT | For my daughter, For my Sons | Alizabeth Amelia Rose | [Read More](https://medium.com/p/dc280539ad4d) |
 | Tue, 03 Mar 2026 17:09:37 GMT | QUEUE | Zuhdansani | [Read More](https://medium.com/p/58bd6a9c49fc) |
+| Tue, 03 Mar 2026 17:08:57 GMT | QSpy: Old Trick, New Label | Berend Watchus | [Read More](https://medium.com/p/0ff816f400f0) |
 | Tue, 03 Mar 2026 17:01:02 GMT | Cowardice and other synonyms | Princess Odey | [Read More](https://medium.com/p/ffcbf99c82e6) |
 | Tue, 03 Mar 2026 16:59:29 GMT | [Dev Update] In NODE: PROTOCOL, stealing the data is only half the job. | Marc | [Read More](https://medium.com/p/f528d8e8949a) |
 | Tue, 03 Mar 2026 16:57:06 GMT | Sherlock HackTheBox: Brutus | Dixtroiza | [Read More](https://medium.com/p/215bdee079bb) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Mar 2026 14:31:01 GMT | Cancer, But Make it a Movie! | Susan League | [Read More](https://medium.com/p/65ddf8cd2442) |
 | Tue, 03 Mar 2026 14:27:28 GMT | CIO’lar Ne Bekler, Teknik Ekipler Ne Gösterir? | ODYA Teknoloji | [Read More](https://medium.com/p/906a42a36a78) |
 | Tue, 03 Mar 2026 14:25:38 GMT | Is Your Network Ready for 2026? Why Professional Network Testing Is No Longer Optional | Shubhra Srivastav | [Read More](https://medium.com/p/79336e86870c) |
-| Tue, 03 Mar 2026 14:17:07 GMT | From Ethical Hacking to AI-Powered Cyber Defense | Mtuaha | [Read More](https://medium.com/p/ade935506ccd) |
-| Tue, 03 Mar 2026 13:59:08 GMT | Why Most Companies Fail Their First VAPT in India | Rajiv Sharma | [Read More](https://medium.com/p/fe96adc6e062) |
-| Tue, 03 Mar 2026 13:53:23 GMT | Cloudflare’s Lava Lamps: The Grooviest Security System Protecting 20% of the Internet | Huzaima Rafiq | [Read More](https://medium.com/p/177ee7a65dfd) |
-| Tue, 03 Mar 2026 13:49:56 GMT | The only madness we celebrate; | The Human Thesis | [Read More](https://medium.com/p/5b6256bb5523) |
-| Tue, 03 Mar 2026 13:48:29 GMT | ️ Secure Your Spring Boot APIs: A Production-Ready JWT Implementation Guide | Sachin Verma | [Read More](https://medium.com/p/8b80bf89c05e) |
-| Tue, 03 Mar 2026 13:48:19 GMT | eJPT v2 : Challenge Lab 29: Python PlayGround | Dhanushkumar R | [Read More](https://medium.com/p/75e881663eb4) |
-| Tue, 03 Mar 2026 13:47:59 GMT | ChatGPT’s Mass Exodus, Nvidia’s $4B Photonics Bet, and the $599 iPhone 17e - The Daily Tech Digest… | Souren Stepanyan | [Read More](https://medium.com/p/f51ea38917d5) |
-| Tue, 03 Mar 2026 13:47:09 GMT | ATO Admin Account via Broken Password Reset Flow | El Professor Qais | [Read More](https://medium.com/p/24c77d169967) |
-| Tue, 03 Mar 2026 13:36:31 GMT | The Digital Illusion: Why AI Can’t Save Your Company, and Why the “Purple Team” is Your Only… | Alexander Hayes | [Read More](https://medium.com/p/214b19217d69) |
-| Tue, 03 Mar 2026 13:35:36 GMT | Installing Kali Linux on MacBook M4 & M5 (Apple Silicon) Using VMware Fusion | Ayo Bami | [Read More](https://medium.com/p/b3a390095dae) |
-| Tue, 03 Mar 2026 13:31:01 GMT | Permission Maps: The 10 Mistakes That Cause Writes | Vectorlane | [Read More](https://medium.com/p/2a6ccbd3cf6f) |
-| Tue, 03 Mar 2026 13:31:00 GMT | Securing Ontario’s Retail Data: The Trust Layer of Agentic Commerce | SusTern Inc. | [Read More](https://medium.com/p/438e0026e7f8) |
-| Tue, 03 Mar 2026 13:31:00 GMT | The ₹250 Crore Question: Why Cybersecurity is Now a Boardroom Liability | Cyber Aries | [Read More](https://medium.com/p/88917d5110ae) |
