@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Mar 2026 15:53:31 GMT | Why Charlotte NC Businesses Need Around-the-Clock IT Protection in 2026 and Beyond | Paradise technologies Inc | [Read More](https://medium.com/p/cb31e188cc6d) |
+| Tue, 03 Mar 2026 15:52:20 GMT | The First 90 Days Will Make or Break Your Cybersecurity Career | Taimur Ijlal | [Read More](https://medium.com/p/5d9ef76d14d0) |
+| Tue, 03 Mar 2026 15:42:19 GMT | Being a Security Researcher (SR) Changed How I See DeFi | Abraham | [Read More](https://medium.com/p/227bbcb17e5d) |
+| Tue, 03 Mar 2026 15:32:41 GMT | #4 From Webhook to War Room: End-to-End Alert Pipeline Architecture | TheMachine | [Read More](https://medium.com/p/2f33e0111be5) |
+| Tue, 03 Mar 2026 15:31:01 GMT | Psychological Safety at Work starts with Vulnerability | Padraig Coaching | [Read More](https://medium.com/p/ae440651a996) |
+| Tue, 03 Mar 2026 15:25:15 GMT | How Does Business Email Compromise Work? | TrustRacer | [Read More](https://medium.com/p/99cfa68c9245) |
+| Tue, 03 Mar 2026 15:24:17 GMT | Why I Chose Cybersecurity as a CSE Student -And Where I Started | Riya Shajan | [Read More](https://medium.com/p/c67eea119187) |
+| Tue, 03 Mar 2026 15:23:25 GMT | DroidCave Challenge-8kSEC | Mohamed Ayman | [Read More](https://medium.com/p/3305a7cb704f) |
+| Tue, 03 Mar 2026 15:22:51 GMT | Would You Trade Your Data to Skip the Line? | Jodi Daniels | [Read More](https://medium.com/p/2e5911d6a6b5) |
+| Tue, 03 Mar 2026 15:22:45 GMT | How to Secure Your Home in 2026 | AlexBryn | [Read More](https://medium.com/p/1db63e8751f7) |
+| Tue, 03 Mar 2026 15:15:44 GMT | The Hidden Record | Jonelle Owens | [Read More](https://medium.com/p/797f639dd5a5) |
+| Tue, 03 Mar 2026 15:15:16 GMT | Hands-On Memory Forensics: A DFIR Investigation of a Compromised Windows XP Machine | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/ed8a6ea7993c) |
 | Tue, 03 Mar 2026 15:04:23 GMT | ETHDenver, AI Agents in Security: Amplification Without Automation | Irene Basaglia | [Read More](https://medium.com/p/da48e4aec383) |
 | Tue, 03 Mar 2026 15:01:02 GMT | Leverage this AWS feature to securely share S3 files with your users | Ryan Baker | [Read More](https://medium.com/p/d853171b0c40) |
 | Tue, 03 Mar 2026 15:01:02 GMT | Cyber Briefing: 2026.03.03 | CyberMaterial | [Read More](https://medium.com/p/ae233861fb75) |
@@ -101,15 +113,3 @@ AI-Powered Security Through the Eyes of a Veteran | interconnctd | [Read More](h
 | Tue, 03 Mar 2026 09:56:33 GMT | Total Security Solutions India and the Growing Importance of Security Consultancy | Ciss India | [Read More](https://medium.com/p/424b09df7a4d) |
 | Tue, 03 Mar 2026 09:53:02 GMT | The Cyber Risk Blind Spot in UAE Businesses — And How VAPT Closes It | ANSI Technologies | [Read More](https://medium.com/p/1953cb9d2024) |
 | Tue, 03 Mar 2026 09:51:53 GMT | PsExec Hunt Lab — Cyberdefenders | Yrddry | [Read More](https://medium.com/p/5ab4c4f3aa73) |
-| Tue, 03 Mar 2026 09:50:04 GMT | Disney $2.75 Million CCPA Fine: Biggest Penalty so Far | Oran F | [Read More](https://medium.com/p/38e5f5ef0c0f) |
-| Tue, 03 Mar 2026 09:43:59 GMT | The Security Gaps Hiding in Everyday IT Operations | Rinu M J | [Read More](https://medium.com/p/34f387e7369c) |
-| Tue, 03 Mar 2026 09:42:35 GMT | Why Most Beginner Hackers Never Make Money (And How to Avoid Their Mistakes) | Satyam Pathania | [Read More](https://medium.com/p/ef5680511362) |
-| Tue, 03 Mar 2026 09:42:10 GMT | Anthropic Just Released Claude Code Security, and the Internet Declared Bug Hunting Dead | Muhammad Haider Tallal | [Read More](https://medium.com/p/94d16ed3a879) |
-| Tue, 03 Mar 2026 09:38:54 GMT | Dijital Minimalizm ve Güvenlik: Daha Az Veri, Daha Fazla Kontrol | Ali Yaşe | [Read More](https://medium.com/p/11a2ea061246) |
-| Tue, 03 Mar 2026 09:37:07 GMT | Click Fraud: The Silent Drain on Digital Ads | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/e2c1d440305e) |
-| Tue, 03 Mar 2026 09:37:03 GMT | How to Fix McAfee identity protection alert — Complete Troubleshooting Guide | Support | [Read More](https://medium.com/p/3e50d038f890) |
-| Tue, 03 Mar 2026 09:31:00 GMT | Controlling the Endpoint: How Headwind MDM Secures ATAK Devices in a Tactical Zero Trust Network | Babyf4c3 | [Read More](https://medium.com/p/9c1f9911efba) |
-| Tue, 03 Mar 2026 09:30:07 GMT | ความปลอดภัยของการอัปโหลดไฟล์ ไม่ใช่แค่ Validation — แต่มันคือ Architecture | Thiti Apiwong | [Read More](https://medium.com/p/9801530fc9da) |
-| Tue, 03 Mar 2026 09:26:31 GMT | AWS IAM Security Best Practices — Why Over-Permissive Access Is Your Biggest Cloud Risk | Kuboid Secure Layer | [Read More](https://medium.com/p/b39e9a0f6cae) |
-| Tue, 03 Mar 2026 09:17:24 GMT | PicoCTF - Ph4nt0m 1ntrud3r | irvan wahyudin | [Read More](https://medium.com/p/9ca80207544e) |
-| Tue, 03 Mar 2026 09:14:26 GMT | ATEŞİ KONTROL ETTİK, BELİRSİZLİĞİ YÖNETEBİLİYOR MUYUZ? | Makersx | [Read More](https://medium.com/p/f3d474ca5d74) |
