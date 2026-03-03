@@ -12,7 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 03 Mar 2026 13:59:08 GMT | Why Most Companies Fail Their First VAPT in India | Rajiv Sharma | [Read More](https://medium.com/p/fe96adc6e062) |
+| Tue, 03 Mar 2026 13:53:23 GMT | Cloudflare’s Lava Lamps: The Grooviest Security System Protecting 20% of the Internet | Huzaima Rafiq | [Read More](https://medium.com/p/177ee7a65dfd) |
+| Tue, 03 Mar 2026 13:49:56 GMT | The only madness we celebrate; | The Human Thesis | [Read More](https://medium.com/p/5b6256bb5523) |
+| Tue, 03 Mar 2026 13:48:29 GMT | ️ Secure Your Spring Boot APIs: A Production-Ready JWT Implementation Guide | Sachin Verma | [Read More](https://medium.com/p/8b80bf89c05e) |
+| Tue, 03 Mar 2026 13:48:19 GMT | eJPT v2 : Challenge Lab 29: Python PlayGround | Dhanushkumar R | [Read More](https://medium.com/p/75e881663eb4) |
+| Tue, 03 Mar 2026 13:47:59 GMT | ChatGPT’s Mass Exodus, Nvidia’s $4B Photonics Bet, and the $599 iPhone 17e - The Daily Tech Digest… | Souren Stepanyan | [Read More](https://medium.com/p/f51ea38917d5) |
+| Tue, 03 Mar 2026 13:47:09 GMT | ATO Admin Account via Broken Password Reset Flow | El Professor Qais | [Read More](https://medium.com/p/24c77d169967) |
+| Tue, 03 Mar 2026 13:36:31 GMT | The Digital Illusion: Why AI Can’t Save Your Company, and Why the “Purple Team” is Your Only… | Alexander Hayes | [Read More](https://medium.com/p/214b19217d69) |
+| Tue, 03 Mar 2026 13:35:36 GMT | Installing Kali Linux on MacBook M4 & M5 (Apple Silicon) Using VMware Fusion | Ayo Bami | [Read More](https://medium.com/p/b3a390095dae) |
+| Tue, 03 Mar 2026 13:31:01 GMT | Permission Maps: The 10 Mistakes That Cause Writes | Vectorlane | [Read More](https://medium.com/p/2a6ccbd3cf6f) |
+| Tue, 03 Mar 2026 13:31:00 GMT | Securing Ontario’s Retail Data: The Trust Layer of Agentic Commerce | SusTern Inc. | [Read More](https://medium.com/p/438e0026e7f8) |
+| Tue, 03 Mar 2026 13:31:00 GMT | The ₹250 Crore Question: Why Cybersecurity is Now a Boardroom Liability | Cyber Aries | [Read More](https://medium.com/p/88917d5110ae) |
+| Tue, 03 Mar 2026 13:27:00 GMT | Breaking Down Advanced Malware: DLL Side-Loading, Direct Syscalls, and Browser Credential Theft | Omar Al Sahily | [Read More](https://medium.com/p/4a7a1ded422e) |
+| Tue, 03 Mar 2026 13:20:35 GMT | CytoScnPy -Fast, Rust-Powered Static Analyzer for Python | Krunal Hedaoo | [Read More](https://medium.com/p/84ce98e0aac1) |
+| Tue, 03 Mar 2026 13:12:28 GMT | Thick Client Security Testing — Static Analysis-PART-1 | Madhumathi chamarthi | [Read More](https://medium.com/p/94c79773134a) |
+| Tue, 03 Mar 2026 13:11:44 GMT | The Great Rift: What the Anthropic-Pentagon Standoff Means for the Future of AI Security | Sourav Mukherjee | [Read More](https://medium.com/p/17e4aa156bff) |
+| Tue, 03 Mar 2026 13:03:18 GMT | How to Choose the Best Cybersecurity Certification That Offers Top Career Opportunities for You | Lorcam Securities | [Read More](https://medium.com/p/03e1ebed2484) |
+| Tue, 03 Mar 2026 13:01:01 GMT | 5 Web Development Mistakes That Silently Sabotage Your Projects (And How to Fix Them) | Dharanidharan | [Read More](https://medium.com/p/89ad55215559) |
 | Tue, 03 Mar 2026 13:00:27 GMT | 0-Day: The Human Brain Vulnerability | matitanium | [Read More](https://medium.com/p/2db7b8547dae) |
+| Tue, 03 Mar 2026 12:55:12 GMT | Why Did America and Israel Attack Iran? Let’s Talk About What Really Drives Wars | Aurelia Shade | [Read More](https://medium.com/p/9039b06ca687) |
 | Tue, 03 Mar 2026 12:49:22 GMT | What is a Load Balancer? | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/f3da2a58b952) |
 | Tue, 03 Mar 2026 12:49:18 GMT | The Pyramid of Pain in Cybersecurity | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/b8d1fa01f815) |
 | Tue, 03 Mar 2026 12:36:43 GMT | Rethinking SOC Defense in the Age of AI-Driven Intrusions | Sarah Bankole | [Read More](https://medium.com/p/37cc7d47704a) |
@@ -94,22 +113,3 @@ AI-Powered Security Through the Eyes of a Veteran | interconnctd | [Read More](h
 | Tue, 03 Mar 2026 08:26:04 GMT | Inside Claude CoWork: A Security-Centric Architecture Breakdown for Technical Teams | Rakeshkhanduja | [Read More](https://medium.com/p/cbce046f4c65) |
 | Tue, 03 Mar 2026 08:25:14 GMT | SOC Investigation Report: RDP Brute Force Attack Leading to Unauthorized Remote Access | chicorax | [Read More](https://medium.com/p/4462fb23344d) |
 | Tue, 03 Mar 2026 08:21:50 GMT | Mengapa Verifikasi Domain Penting di Era Platform Digital | adminflying | [Read More](https://medium.com/p/f417d81f1856) |
-| Tue, 03 Mar 2026 08:17:25 GMT | The strangest scenario I’ve found: Improper authentication | k4e | [Read More](https://medium.com/p/5f27f6a1b9d9) |
-| Tue, 03 Mar 2026 08:17:10 GMT | Hidden Flag Hunt — Web Challenge Writeup | Santhosh Kumar R | [Read More](https://medium.com/p/5c4f81547037) |
-| Tue, 03 Mar 2026 08:15:44 GMT | PicoCTF - Event-Viewing | irvan wahyudin | [Read More](https://medium.com/p/5fc6f8b50f25) |
-| Tue, 03 Mar 2026 08:05:52 GMT | The DevOps Interview Question That Eliminates 70% of Candidates Immediately | Zudonu Osomudeya | [Read More](https://medium.com/p/c80295d1800f) |
-| Tue, 03 Mar 2026 08:01:02 GMT | When the Cloud Falls: The Hidden Cost of Trusting Big Tech With Everything | MayhemCode | [Read More](https://medium.com/p/7f7ffa05d05e) |
-| Tue, 03 Mar 2026 07:56:20 GMT | Mastering Application Security Code Review Today | Application Security Master | [Read More](https://medium.com/p/7117b85feccc) |
-| Tue, 03 Mar 2026 07:53:03 GMT | EntroGuard — Day 7 | Nisarg Patel | [Read More](https://medium.com/p/2a00683a3e30) |
-| Tue, 03 Mar 2026 07:47:45 GMT | Is Quantum Encryption the End of Hacking — or Just the Beginning of a New Cybersecurity Era? | R TechReview | [Read More](https://medium.com/p/da1449fdd6ef) |
-| Tue, 03 Mar 2026 07:46:29 GMT | Your Cybersecurity Tools Aren’t the Problem — Your Enterprise Cybersecurity Architecture Is | AI, Cloud & Digital Transformation Company CQLsys | [Read More](https://medium.com/p/d02590386f4c) |
-| Tue, 03 Mar 2026 07:43:04 GMT | Large Pizza, Small Price: Exploiting a Critical Business Logic Flaw in Checkout | Raslanco | [Read More](https://medium.com/p/55f7497e5ab6) |
-| Tue, 03 Mar 2026 07:39:30 GMT | I Made a Store Pay Me to Buy a $1337 Jacket — On Holi. | TEJAS | [Read More](https://medium.com/p/266c78c6b275) |
-| Tue, 03 Mar 2026 07:34:21 GMT | The Black Market for AI Agents: When Jailbreaking Becomes a Product | Contact Nn | [Read More](https://medium.com/p/65764d0e96b2) |
-| Tue, 03 Mar 2026 07:33:34 GMT | Mastering Proxies for Brand Protection in the Digital Economy | Proxy-Seller | [Read More](https://medium.com/p/b2f2dcf6c207) |
-| Tue, 03 Mar 2026 07:32:19 GMT | Yara meets Sigma | Abhik Kumawat | [Read More](https://medium.com/p/55c327b7421d) |
-| Tue, 03 Mar 2026 07:25:27 GMT | Virtual Doorman vs Traditional Security: Which is Right? | Doris William | [Read More](https://medium.com/p/8c6d34c7c57c) |
-| Tue, 03 Mar 2026 07:22:35 GMT | The “Intended Behavior” Gaslight: The Broken Reality of Bug Bounty Bureaucracy | Vivek PS | [Read More](https://medium.com/p/bd7798331184) |
-| Tue, 03 Mar 2026 07:21:13 GMT | Antivirus Pro Explained: Smart Security for Windows and Mac Users | Siyanoav | [Read More](https://medium.com/p/2d7bec9162cf) |
-| Tue, 03 Mar 2026 07:21:02 GMT | From Streaming Redirect to Suspicious Payload: A Mini Threat Analysis Case Study | .. | [Read More](https://medium.com/p/064c10ee4ed6) |
-| Tue, 03 Mar 2026 07:20:48 GMT | Top 10 Artificial Intelligence (AI) Training Institutes in Delhi NCR | Sarfraj Ahmad | [Read More](https://medium.com/p/70d079b60965) |
