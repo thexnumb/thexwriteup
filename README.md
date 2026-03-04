@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Mar 2026 19:02:50 GMT | End-to-End Encryption: The Math That Lets You Whisper in a Stadium of Eavesdroppers | Ashutosh Jha | [Read More](https://medium.com/p/ac8d8747bbf9) |
+| Wed, 04 Mar 2026 18:56:00 GMT | EU GDPR — Article 28 (Processor) | MDM Team | [Read More](https://medium.com/p/32c46d794bff) |
+| Wed, 04 Mar 2026 18:55:28 GMT | Employee IT Security Training: Why Your Employees Are Your Biggest Cyber Risk | Cordula Boeck | [Read More](https://medium.com/p/e96d81821bb6) |
+| Wed, 04 Mar 2026 18:51:31 GMT | How a Simple RBAC Mistake Led to a $20K+ Admin Takeover | seek-404 | [Read More](https://medium.com/p/d196694791dd) |
+| Wed, 04 Mar 2026 18:49:43 GMT | Why Your Security Stack Has 60 Muscles and No Nervous System | Assaf | [Read More](https://medium.com/p/5da983917924) |
+| Wed, 04 Mar 2026 18:46:41 GMT | Trust Engines : Secure AI Agents, Data & Decisions by Design | Pradeep Kumar Muthukamatchi | [Read More](https://medium.com/p/eb96b496a073) |
+| Wed, 04 Mar 2026 18:45:31 GMT | AI Security Review Fails in Practice — an analysis of Opus 4.6 | Gadi Bashvitz | [Read More](https://medium.com/p/87af7486efa3) |
+| Wed, 04 Mar 2026 18:43:40 GMT | The AI Coding Revolution | Apolis | [Read More](https://medium.com/p/1319c1334951) |
+| Wed, 04 Mar 2026 18:33:00 GMT | Bluetooth in Cybersecurity | Abderrahim Aoudj | [Read More](https://medium.com/p/ce43b284a2a1) |
+| Wed, 04 Mar 2026 18:25:59 GMT | My framework for success: EAT - Empathy, Authenticity & Transparency | Dhruv Jalota | [Read More](https://medium.com/p/63c5cca270a2) |
+| Wed, 04 Mar 2026 18:21:18 GMT | Nmap for Students: A Simple Guide to Understand Network Scanning (The Right Way) | Abhinabo Roy | [Read More](https://medium.com/p/4fec7225252c) |
+| Wed, 04 Mar 2026 18:18:21 GMT | Missiles on Data Centers: Iran Just Lit the Fuse Under the Gulf’s $100B+ AI Bet | Huzaifazeeshan | [Read More](https://medium.com/p/96f00b114679) |
+| Wed, 04 Mar 2026 18:16:32 GMT | Literature Review On Hospital Information System | Jason from Nicholls State University | [Read More](https://medium.com/p/29435333e174) |
+| Wed, 04 Mar 2026 18:14:56 GMT | Demystifying .NET | Shadhujan Jeyachandran | [Read More](https://medium.com/p/4ef316b8f9e1) |
+| Wed, 04 Mar 2026 18:12:53 GMT | Python Programming - Educational Simplified TCP and UDP Protocol Packet Transmission Experiment-TCP | Wisdomapple | [Read More](https://medium.com/p/75129b9785c2) |
+| Wed, 04 Mar 2026 18:11:44 GMT | Copypasta (SQLi) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/bfad05fae0a0) |
+| Wed, 04 Mar 2026 18:10:14 GMT | Symmetric Key Count | Tvmgouder | [Read More](https://medium.com/p/a1b60ad210ce) |
+| Wed, 04 Mar 2026 18:09:51 GMT | The CISO’s Confidant:
+AI-Powered Security Through the Eyes of a Veteran | Miracle Ojo | [Read More](https://medium.com/p/cfec10c857fc) |
+| Wed, 04 Mar 2026 18:08:32 GMT | Continuous Pentesting | Joshua Goossen | [Read More](https://medium.com/p/fa82107abb66) |
+| Wed, 04 Mar 2026 18:05:22 GMT | Why “Least Privilege” Is the Most Ignored Security Principle | Cybersphere Official | [Read More](https://medium.com/p/405158e7c834) |
+| Wed, 04 Mar 2026 18:04:48 GMT | Membongkar Kedok Malware “Kurir Paket” (PT. POS Indonesia.apk) Android Static Analysis Write-up | Syahbagus Radithya Haryo Santoso | [Read More](https://medium.com/p/a03996974654) |
+| Wed, 04 Mar 2026 18:01:03 GMT | Tanuki (SSRF) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/7ea950fa4485) |
+| Wed, 04 Mar 2026 18:01:02 GMT | Finance Blocks the Payout Batch When Benchmark Wins Still Risk Loss | James Kuhman | [Read More](https://medium.com/p/61b1ec235694) |
 | Wed, 04 Mar 2026 17:54:06 GMT | Online Romance and Escort Scams: How Fake Female Profiles Trick Victims Into Sending Money | Mr Technology | [Read More](https://medium.com/p/26f1aba14239) |
 | Wed, 04 Mar 2026 17:53:19 GMT | Python Programming - Educational Simplified TCP and UDP Protocol Packet Transmission Experiment-TCP | Wisdomapple | [Read More](https://medium.com/p/e0c54f0c43bd) |
 | Wed, 04 Mar 2026 17:52:29 GMT | Introduction to DOM Based Open Redirection | Naveen TK | [Read More](https://medium.com/p/fd248b34bdd0) |
@@ -89,26 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Mar 2026 13:18:06 GMT | Vulnerability Data Enrichment for CVE Records: 259 CNAs on the Enrichment Recognition List for… | CVE Program Blog | [Read More](https://medium.com/p/4c7e42797059) |
 | Wed, 04 Mar 2026 13:15:51 GMT | Centralized Crypto Exchange Development: Core Concepts | John Galt | [Read More](https://medium.com/p/3918988dec71) |
 | Wed, 04 Mar 2026 13:09:53 GMT | The Internet Is Full of Vulnerabilities — TrinetLayer Helps You Find Them | Researchbynidhi | [Read More](https://medium.com/p/2fd4ff34adba) |
-| Wed, 04 Mar 2026 12:57:34 GMT | When Missiles Launch, Malware Follows: The Hidden Cyberwar Behind the Iran Strikes | Ananthuharikumar | [Read More](https://medium.com/p/1b045c58c386) |
-| Wed, 04 Mar 2026 12:57:13 GMT | Cultivating attentiveness for a Multispecies World | Sheeba Amir | [Read More](https://medium.com/p/3a9ac409a9a9) |
-| Wed, 04 Mar 2026 12:52:26 GMT | Leaked US Cyberweapons, Apple’s M5 Chips, and Anduril’s $60B Valuation - The Daily Tech Digest: 04… | Souren Stepanyan | [Read More](https://medium.com/p/20dd7d1f5198) |
-| Wed, 04 Mar 2026 12:50:06 GMT | TryHackMe Slingshot: I Watched an Attacker Steal a Customer Database in Real Time | sn0x | [Read More](https://medium.com/p/a34784d584a5) |
-| Wed, 04 Mar 2026 12:45:47 GMT | The KDD Dataset: A Beginner’s Guide to the Most Famous Benchmark in Intrusion Detection | Zineb Hidila, PhD | [Read More](https://medium.com/p/49765f83adf4) |
-| Wed, 04 Mar 2026 12:32:46 GMT | Find Last Connected USB on your system (USB Forensics) | Pentester Club | [Read More](https://medium.com/p/769b135cd5c4) |
-| Wed, 04 Mar 2026 12:32:20 GMT | Burping, Ffufing, and Breaking Things: TCM Security Practical Bug Bounty Lab | Gamuchirai | [Read More](https://medium.com/p/ace7409b4ea9) |
-| Wed, 04 Mar 2026 12:21:18 GMT | RAT Attacks in 2026: Understanding the Threat and How to Stay Safe | Tapasprajapati | [Read More](https://medium.com/p/0e2f1a8ad271) |
-| Wed, 04 Mar 2026 12:15:03 GMT | Your Threat Intelligence Copilot Is Now in Your Pocket | Threat Landscape | [Read More](https://medium.com/p/1676c7bc1e7f) |
-| Wed, 04 Mar 2026 12:09:21 GMT | How the Iran-Israel World War Is Rewriting the Rules of the Global Tech Industry — What Every IT… | Solminica | [Read More](https://medium.com/p/44562d612789) |
-| Wed, 04 Mar 2026 12:01:01 GMT | How My Audit Methodology Changed When the Stakes Became Real | Cyphersilhouette | [Read More](https://medium.com/p/492826d33f7c) |
-| Wed, 04 Mar 2026 11:59:55 GMT | Leonard Shelby and the AI Memory Problem: What Building a Multi-Agent AI CTF Platform Taught Me… | Dhillon Andrew Kannabhiran | [Read More](https://medium.com/p/4f4c8fd6ab78) |
-| Wed, 04 Mar 2026 11:59:30 GMT | Don’t Trust the Name (Verify the Service) | Grace Jaman | [Read More](https://medium.com/p/e1156463aa5f) |
-| Wed, 04 Mar 2026 11:55:40 GMT | Writeup 01: Command Injection via file extension | BL4CKD3V0P5 | [Read More](https://medium.com/p/c3da6a4661ad) |
-| Wed, 04 Mar 2026 11:51:11 GMT | Active Directory ist 2026 noch immer der größte Schwachpunkt — Warum kaum jemand es richtig testet | Moldrive | [Read More](https://medium.com/p/961092ce1da3) |
-| Wed, 04 Mar 2026 11:45:17 GMT | Pentest Cost 2026: What Companies Should Expect to Pay for Cybersecurity Testing | Moldrive | [Read More](https://medium.com/p/fe465c8c9252) |
-| Wed, 04 Mar 2026 11:33:56 GMT | DepEd Lucena Data Leak By: Ch4nc3ll0rX_1337 | Ch4nc3ll0rX_1337 | [Read More](https://medium.com/p/21b6df9b7b52) |
-| Wed, 04 Mar 2026 11:30:28 GMT | Hackers Are Now Faking Google's Security Tools—Here's What Gmail Users Need to Know | Muneeb | [Read More](https://medium.com/p/ca78c070296a) |
-| Wed, 04 Mar 2026 11:23:39 GMT | CyberDefenders Lespion Write-up | Solace | [Read More](https://medium.com/p/1bfc8212d5bf) |
-| Wed, 04 Mar 2026 11:18:02 GMT | Quantum Computing vs Encryption: Is Today’s Data at Risk? | Brainnova | [Read More](https://medium.com/p/2a5ec9fbcf4c) |
-| Wed, 04 Mar 2026 11:15:37 GMT | Solving a Bugforge Challenge — Exploiting Refund Logic in Cheesy Does It | Pranaya Shrestha | [Read More](https://medium.com/p/239cb12c92e2) |
-| Wed, 04 Mar 2026 11:07:03 GMT | Implementing Tor blocking in AWS WAF after Cloudflare | Alexandr Ivenin | [Read More](https://medium.com/p/5feee0ba13fa) |
-| Wed, 04 Mar 2026 11:06:25 GMT | GRUB2 Use-After-Free Vulnerability on RHEL: Fix CVE-2025–0622 | Emilyharbord | [Read More](https://medium.com/p/c789b92b8902) |
