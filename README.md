@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Mar 2026 08:39:34 GMT | Account Compromise: First 60 Minutes Response Guide | Geoffrey Wenger | [Read More](https://medium.com/p/fcbab392fcaa) |
+| Wed, 04 Mar 2026 08:33:05 GMT | Context Is Everything: A Practical Guide to XSS | Marduk I Am | [Read More](https://medium.com/p/eff8d30421df) |
+| Wed, 04 Mar 2026 08:32:00 GMT | Path Traversal | Abdulnafayk | [Read More](https://medium.com/p/7b0c9f455eb4) |
+| Wed, 04 Mar 2026 08:28:31 GMT | Why Small Businesses Are the Number One Target for Cyberattacks | asma usman | [Read More](https://medium.com/p/af19a325e145) |
+| Wed, 04 Mar 2026 08:27:36 GMT | How I Use MITRE ATT&CK Navigator | Palupidyahr | [Read More](https://medium.com/p/931c2da520aa) |
+| Wed, 04 Mar 2026 08:12:56 GMT | 10 Ways I’m Protecting My Professional Identity in 2026 | Emory French | [Read More](https://medium.com/p/5ee15795dbb5) |
+| Wed, 04 Mar 2026 08:08:18 GMT | The AI Security Paradox | CyberTrails by Mildred Owens | [Read More](https://medium.com/p/40d016a53b74) |
+| Wed, 04 Mar 2026 08:00:19 GMT | Hardware Isolation for Data Security | TrustKernel | [Read More](https://medium.com/p/b42da38b8a41) |
+| Wed, 04 Mar 2026 07:59:22 GMT | CyberDefenders — WebStrike Lab | 0w0 | [Read More](https://medium.com/p/38877008a0a3) |
+| Wed, 04 Mar 2026 07:58:20 GMT | AWS Networking: Satpam Komplek vs Petugas Paspor (Subnet, NACL, & Security Group) | dikidian | [Read More](https://medium.com/p/3174bf5ab10f) |
+| Wed, 04 Mar 2026 07:55:40 GMT | The Cybersecurity Tool Sprawl Problem: How to Organize & Maintain Your Security Toolkit | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/3447b85f8a31) |
+| Wed, 04 Mar 2026 07:55:40 GMT | Building an Enterprise .NET 10 API — Part 2: Security & Authentication | Marc Kenneth Lomio & Melrose Mejidana | [Read More](https://medium.com/p/756ebf99bc7a) |
 | Wed, 04 Mar 2026 07:52:17 GMT | The Rise of AI in PRC Influence Operations: Nine Takeaways from the GoLaxy Documents | Doublethink Lab | [Read More](https://medium.com/p/2d6617a753e5) |
 | Wed, 04 Mar 2026 07:50:04 GMT | A Super Quick TryHackMe Walkthrough: Nmap Intermediate | VxOM | [Read More](https://medium.com/p/91ac209b68ff) |
 | Wed, 04 Mar 2026 07:48:58 GMT | The Pipeline Is the Payload: Detecting AI Supply Chain Attacks with CloudTrail | Srivathsa Sharma | [Read More](https://medium.com/p/e13f079640dc) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Mar 2026 23:01:02 GMT | Phishing Exposed: How Attackers Exploit Cloud Subdomains and How Your Team Can Defend Against It | Bibiresanmi David | [Read More](https://medium.com/p/acf5ef7b06da) |
 | Tue, 03 Mar 2026 22:59:18 GMT | Network Forensics: RedisShell — Kinsing Lab | Khoa | [Read More](https://medium.com/p/1159f167a721) |
 | Tue, 03 Mar 2026 22:50:59 GMT | The Future of Critical Infrastructure Cybersecurity: From Engineering Problem to Resilience… | Muhammad Ali Khan | [Read More](https://medium.com/p/ce3cca8cf4c9) |
-| Tue, 03 Mar 2026 22:47:12 GMT | Splunk BOTS SOC Investigation Guide - SPL, Threat Hunting & Detection Logic | Youssef Abbas | [Read More](https://medium.com/p/4b3b43982019) |
-| Tue, 03 Mar 2026 22:45:54 GMT | Navigating the Digital Frontier: From Crypto Markets to Cybersecurity Essentials | Jaymes Baker | [Read More](https://medium.com/p/5e92c3440fda) |
-| Tue, 03 Mar 2026 22:31:13 GMT | AI Security Tools — February 2026 | Tal Eliyahu | [Read More](https://medium.com/p/785547586971) |
-| Tue, 03 Mar 2026 22:30:36 GMT | HTB Broker Writeup | Onurcan Genç | [Read More](https://medium.com/p/fb2ea9e65a21) |
-| Tue, 03 Mar 2026 22:26:49 GMT | URGENT CRITICAL ALERT – Upemba National Park ,DR Congo | Kivuhub | [Read More](https://medium.com/p/1c78a99f8444) |
-| Tue, 03 Mar 2026 22:24:50 GMT | Preventive War and the Erosion of Restraint | Dr. Thomas Jreige | [Read More](https://medium.com/p/731d7411e7b6) |
-| Tue, 03 Mar 2026 22:13:14 GMT | Kali Meet Claude: Your New BFF | BillfordX | [Read More](https://medium.com/p/659f8689b5fb) |
-| Tue, 03 Mar 2026 22:06:25 GMT | THM — PS Eclipse | h4nr1_s3ld0n | [Read More](https://medium.com/p/182606a3e018) |
-| Tue, 03 Mar 2026 22:02:00 GMT | AI, National Security, and the Disappearing Red Lines. | Neela ️ | [Read More](https://medium.com/p/da2bbe637c59) |
-| Tue, 03 Mar 2026 22:01:57 GMT | Building a Transformer based end-to-end Web Application Firewall (WAF)pipeline | Harshdeep Athawale | [Read More](https://medium.com/p/704b3d191039) |
-| Tue, 03 Mar 2026 22:01:01 GMT | Privacy is Obsolete — The EFF and ACLU Lost the Privacy Fight | Samuel Brice | [Read More](https://medium.com/p/c2fd545e6ad7) |
-| Tue, 03 Mar 2026 22:01:01 GMT | Unfiltered Restart — Day 16: Exam Prep, Day 2 | Maximillian Rueda | [Read More](https://medium.com/p/c3a3467b31da) |
