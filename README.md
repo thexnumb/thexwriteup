@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Mar 2026 19:43:27 GMT | Unmasking RCE-55128: Achieving Full Remote Code Execution On An Ai Platform Via Next.js | AKM | [Read More](https://medium.com/p/e653fbad6452) |
+| Wed, 04 Mar 2026 19:38:10 GMT | Least Privilege in Oracle Fusion ERP: Role Design That Survives Audits and Operations | Khadernawazk | [Read More](https://medium.com/p/f2d5187a9b7a) |
+| Wed, 04 Mar 2026 19:26:43 GMT | I Thought I Was a Hacker… Turns Out I Was Just Clicking Buttons | Murari Pothuru | [Read More](https://medium.com/p/9bd1a2459fe3) |
+| Wed, 04 Mar 2026 19:20:06 GMT | TryHackMe : Pickle Rick Walkthrough | Twilight | [Read More](https://medium.com/p/da62d2a1cc44) |
+| Wed, 04 Mar 2026 19:16:59 GMT | The 270-Day Blueprint: From JD Sports to Digital Forensics | Oluwaferanmi Oyebiyi | [Read More](https://medium.com/p/959b8a4e51b8) |
+| Wed, 04 Mar 2026 19:14:20 GMT | Eligibility for the Bugfreak Academy Cybersecurity Mentorship Certification | Bugfreak Academy | [Read More](https://medium.com/p/eccf40455fee) |
+| Wed, 04 Mar 2026 19:03:40 GMT | Kali Linux: | mahammad | [Read More](https://medium.com/p/4289dfab6fe5) |
 | Wed, 04 Mar 2026 19:02:50 GMT | End-to-End Encryption: The Math That Lets You Whisper in a Stadium of Eavesdroppers | Ashutosh Jha | [Read More](https://medium.com/p/ac8d8747bbf9) |
 | Wed, 04 Mar 2026 18:56:00 GMT | EU GDPR — Article 28 (Processor) | MDM Team | [Read More](https://medium.com/p/32c46d794bff) |
 | Wed, 04 Mar 2026 18:55:28 GMT | Employee IT Security Training: Why Your Employees Are Your Biggest Cyber Risk | Cordula Boeck | [Read More](https://medium.com/p/e96d81821bb6) |
@@ -106,10 +113,3 @@ AI-Powered Security Through the Eyes of a Veteran | Miracle Ojo | [Read More](ht
 | Wed, 04 Mar 2026 13:49:22 GMT | Cyberattack Exposes 15.8 Million Medical Records, Including Sensitive Health Details | VertexMD | [Read More](https://medium.com/p/6e08922da7c6) |
 | Wed, 04 Mar 2026 13:48:49 GMT | Como profissionais de cibersegurança podem ajudar na Black Friday? | Alex Feleol | [Read More](https://medium.com/p/cc19b3952b8e) |
 | Wed, 04 Mar 2026 13:43:35 GMT | How the WhatsApp worm spreads automatically — Real life analysis | Umang Mishra | [Read More](https://medium.com/p/8cc39cc6a062) |
-| Wed, 04 Mar 2026 13:42:21 GMT | Boss of the SOC v1: Threat Hunting with Splunk - samclass | AbbasMurshid | [Read More](https://medium.com/p/9b0e931c8d7d) |
-| Wed, 04 Mar 2026 13:42:06 GMT | CPL — Final Override CTF SEE Challenge WriteUp. | z3r0trac3 | [Read More](https://medium.com/p/9e3e36f83433) |
-| Wed, 04 Mar 2026 13:41:52 GMT | Every Fintech company should be a cybersecurity company | Aham Uzoma | [Read More](https://medium.com/p/f84fea5a3d00) |
-| Wed, 04 Mar 2026 13:38:12 GMT | How I Found a Hidden Role in JavaScript That Became a Permanent Backdoor. | 0xhun73r | [Read More](https://medium.com/p/d78acb8b81af) |
-| Wed, 04 Mar 2026 13:18:06 GMT | Vulnerability Data Enrichment for CVE Records: 259 CNAs on the Enrichment Recognition List for… | CVE Program Blog | [Read More](https://medium.com/p/4c7e42797059) |
-| Wed, 04 Mar 2026 13:15:51 GMT | Centralized Crypto Exchange Development: Core Concepts | John Galt | [Read More](https://medium.com/p/3918988dec71) |
-| Wed, 04 Mar 2026 13:09:53 GMT | The Internet Is Full of Vulnerabilities — TrinetLayer Helps You Find Them | Researchbynidhi | [Read More](https://medium.com/p/2fd4ff34adba) |
