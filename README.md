@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Mar 2026 21:30:07 GMT | Energy Leverage and Strategic Competition: Oil Disruptions and the Shifting US-China Balance | Josh Johnson | [Read More](https://medium.com/p/04b5de90c2c6) |
+| Wed, 04 Mar 2026 21:29:05 GMT | Why Incident Response Plans Often Fail in Real Life | JSOC IT BLOG | [Read More](https://medium.com/p/b7c55e00ec22) |
+| Wed, 04 Mar 2026 21:17:11 GMT | Why Did the PMKID Attack Surprise Researchers? | Willian Bachini - MZTBTG | [Read More](https://medium.com/p/6ebccc8185fa) |
+| Wed, 04 Mar 2026 20:52:35 GMT | My Journey Through MITM Attacks — Part 2: DHCP starvation & Rogue Server | ofek789 | [Read More](https://medium.com/p/ad381027c74c) |
+| Wed, 04 Mar 2026 20:51:44 GMT | Spetsnaz Security International Limited: 5 Red Flags When Hiring London Bodyguards (Security… | Spetsnaz Security International Limited | [Read More](https://medium.com/p/9ce9a083ad1d) |
+| Wed, 04 Mar 2026 20:51:14 GMT | KinoSec.ai Becomes the #1 Black-Box Autonomous Pentesting Platform in the World | Alexis Lingad | [Read More](https://medium.com/p/9d463e55ddbd) |
+| Wed, 04 Mar 2026 20:48:53 GMT | Spetsnaz Security International Limited:  London’s 2026 Executive Protection Checklist: Verify… | Spetsnaz Security International Limited | [Read More](https://medium.com/p/48823f078b80) |
+| Wed, 04 Mar 2026 20:48:31 GMT | Apple Pay Scam Hitting Millions of Phones — Stop & verify before you hand over your Apple ID access | Karl Buhl | [Read More](https://medium.com/p/8fd4833a69c8) |
+| Wed, 04 Mar 2026 20:40:45 GMT | PicoCTF — Riddle Registry | Swetha | [Read More](https://medium.com/p/42430d1ef8a7) |
+| Wed, 04 Mar 2026 20:40:36 GMT | PicoCTF — Log Hunt | Swetha | [Read More](https://medium.com/p/21ccdd3b8aa1) |
+| Wed, 04 Mar 2026 20:40:34 GMT | I Watched a $48 Tool Save a Startup From Getting Bankrupted | Ajekigbe Michael. A | [Read More](https://medium.com/p/cd00a95b1557) |
+| Wed, 04 Mar 2026 20:30:03 GMT | Incident Response & Security Hardening Report | Aditya Bhatt | [Read More](https://medium.com/p/c78743000759) |
 | Wed, 04 Mar 2026 20:29:02 GMT | SSRF (Server-Side Request Forgery) | Aditya Bhatt | [Read More](https://medium.com/p/688b9e87f02c) |
 | Wed, 04 Mar 2026 20:25:14 GMT | Building a Cybersecurity Governance Strategy for a Healthcare Organisation Using NIST CSF | Kabir | [Read More](https://medium.com/p/6f2f0bb9aa5d) |
 | Wed, 04 Mar 2026 20:13:26 GMT | How I Got 3 Bugs No Automation, Just Logic | Mado | [Read More](https://medium.com/p/65f372c664cd) |
@@ -101,15 +113,3 @@ AI-Powered Security Through the Eyes of a Veteran | Miracle Ojo | [Read More](ht
 | Wed, 04 Mar 2026 14:45:20 GMT | #5 From RSS to Threat Hunt: Turning News into Detection Queries with an AI CTI Module | TheMachine | [Read More](https://medium.com/p/f3fbff389a86) |
 | Wed, 04 Mar 2026 14:43:57 GMT | Analisis Malware Android Pada PT. POS Indonesia.apk | Alfin Syahrin | [Read More](https://medium.com/p/b7ba3945d5b9) |
 | Wed, 04 Mar 2026 14:43:12 GMT | System Design Is Not About Systems — It’s About Thinking in Constraints | Jarif | [Read More](https://medium.com/p/67d495af61d1) |
-| Wed, 04 Mar 2026 14:40:31 GMT | Why Authentication Alone Doesn’t Make Your App Secure | Ritwish Basu | [Read More](https://medium.com/p/332fd20f5be4) |
-| Wed, 04 Mar 2026 14:33:27 GMT | Title | Aryangade | [Read More](https://medium.com/p/125b860d8417) |
-| Wed, 04 Mar 2026 14:31:00 GMT | The Shift to a Zero Trust Society | Mark A. Herschberg | [Read More](https://medium.com/p/2563ff0abaa6) |
-| Wed, 04 Mar 2026 14:31:00 GMT | Managed IT Services: When Internal IT Starts to Fail | Michael Intravartolo | [Read More](https://medium.com/p/36aca057d481) |
-| Wed, 04 Mar 2026 14:25:46 GMT | My First Major Open Source Contribution: Adding Google Antigravity Support to Project CodeGuard | Bit_Picker | [Read More](https://medium.com/p/b47419ac8c3c) |
-| Wed, 04 Mar 2026 14:22:45 GMT | 4 Key Switch Metrics | Dmitriy Plaks | [Read More](https://medium.com/p/8f91d2c93595) |
-| Wed, 04 Mar 2026 14:19:54 GMT | Top 10 Cybersecurity Tools Every Student Should Learn | Antonyrajvedamanickam | [Read More](https://medium.com/p/aa9d95173486) |
-| Wed, 04 Mar 2026 14:11:00 GMT | Does the Moon Have a Medium Account? Because My Horoscope was Super Spot On… | Susan League | [Read More](https://medium.com/p/b8be16c893fd) |
-| Wed, 04 Mar 2026 14:04:45 GMT | flu Walkthrough (proving ground) | cyber_public_school | [Read More](https://medium.com/p/70a5ed1ef30b) |
-| Wed, 04 Mar 2026 14:02:09 GMT | CISA Warns About Actively Exploited VMware Aria Operations Vulnerability | Sharanraju | [Read More](https://medium.com/p/9bd935f2acd6) |
-| Wed, 04 Mar 2026 14:01:25 GMT | Analisis Malware APK “PT. POS Indonesia.apk” Menggunakan MobSF dan jadx.gui (Bootcamp Task5) | Muhammaddavidfirmansyah | [Read More](https://medium.com/p/5982fbccae9c) |
-| Wed, 04 Mar 2026 13:58:34 GMT | The Quarantine Room of Cybersecurity: What is a Sandbox and Why Does It Matter? | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/49988912c58b) |
