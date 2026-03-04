@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Mar 2026 14:50:37 GMT | Week 3 PicoCTF-Ph4nt0m 1ntrud3r | Artha Bangkit Auliano | [Read More](https://medium.com/p/15cde1528da3) |
+| Wed, 04 Mar 2026 14:45:20 GMT | #5 From RSS to Threat Hunt: Turning News into Detection Queries with an AI CTI Module | TheMachine | [Read More](https://medium.com/p/f3fbff389a86) |
+| Wed, 04 Mar 2026 14:43:57 GMT | Analisis Malware Android Pada PT. POS Indonesia.apk | Alfin Syahrin | [Read More](https://medium.com/p/b7ba3945d5b9) |
+| Wed, 04 Mar 2026 14:43:12 GMT | System Design Is Not About Systems — It’s About Thinking in Constraints | Jarif | [Read More](https://medium.com/p/67d495af61d1) |
+| Wed, 04 Mar 2026 14:40:31 GMT | Why Authentication Alone Doesn’t Make Your App Secure | Ritwish Basu | [Read More](https://medium.com/p/332fd20f5be4) |
+| Wed, 04 Mar 2026 14:33:27 GMT | Title | Aryangade | [Read More](https://medium.com/p/125b860d8417) |
+| Wed, 04 Mar 2026 14:31:00 GMT | The Shift to a Zero Trust Society | Mark A. Herschberg | [Read More](https://medium.com/p/2563ff0abaa6) |
+| Wed, 04 Mar 2026 14:31:00 GMT | Managed IT Services: When Internal IT Starts to Fail | Michael Intravartolo | [Read More](https://medium.com/p/36aca057d481) |
+| Wed, 04 Mar 2026 14:25:46 GMT | My First Major Open Source Contribution: Adding Google Antigravity Support to Project CodeGuard | Bit_Picker | [Read More](https://medium.com/p/b47419ac8c3c) |
+| Wed, 04 Mar 2026 14:22:45 GMT | 4 Key Switch Metrics | Dmitriy Plaks | [Read More](https://medium.com/p/8f91d2c93595) |
+| Wed, 04 Mar 2026 14:19:54 GMT | Top 10 Cybersecurity Tools Every Student Should Learn | Antonyrajvedamanickam | [Read More](https://medium.com/p/aa9d95173486) |
+| Wed, 04 Mar 2026 14:11:00 GMT | Does the Moon Have a Medium Account? Because My Horoscope was Super Spot On… | Susan League | [Read More](https://medium.com/p/b8be16c893fd) |
+| Wed, 04 Mar 2026 14:04:45 GMT | flu Walkthrough (proving ground) | cyber_public_school | [Read More](https://medium.com/p/70a5ed1ef30b) |
+| Wed, 04 Mar 2026 14:02:09 GMT | CISA Warns About Actively Exploited VMware Aria Operations Vulnerability | Sharanraju | [Read More](https://medium.com/p/9bd935f2acd6) |
+| Wed, 04 Mar 2026 13:58:34 GMT | The Quarantine Room of Cybersecurity: What is a Sandbox and Why Does It Matter? | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/49988912c58b) |
 | Wed, 04 Mar 2026 13:53:54 GMT | Laporan Praktikum Struktur Data : Stack Dalam Pyhton | Cahyoadi | [Read More](https://medium.com/p/02ec52079679) |
 | Wed, 04 Mar 2026 13:51:29 GMT | Hackviser Write-up [EN / TR] — Stored XSS in Anchor Href Attribute HTML-Encoded | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/2566946d47d8) |
 | Wed, 04 Mar 2026 13:51:12 GMT | How Blockchain Is Transforming Document Security and Becoming the Notary of the Digital Age | Legal Chain | [Read More](https://medium.com/p/ca20b297cc25) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Mar 2026 07:55:40 GMT | The Cybersecurity Tool Sprawl Problem: How to Organize & Maintain Your Security Toolkit | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/3447b85f8a31) |
 | Wed, 04 Mar 2026 07:55:40 GMT | Building an Enterprise .NET 10 API — Part 2: Security & Authentication | Marc Kenneth Lomio & Melrose Mejidana | [Read More](https://medium.com/p/756ebf99bc7a) |
 | Wed, 04 Mar 2026 07:52:17 GMT | The Rise of AI in PRC Influence Operations: Nine Takeaways from the GoLaxy Documents | Doublethink Lab | [Read More](https://medium.com/p/2d6617a753e5) |
-| Wed, 04 Mar 2026 07:50:04 GMT | A Super Quick TryHackMe Walkthrough: Nmap Intermediate | VxOM | [Read More](https://medium.com/p/91ac209b68ff) |
-| Wed, 04 Mar 2026 07:48:58 GMT | The Pipeline Is the Payload: Detecting AI Supply Chain Attacks with CloudTrail | Srivathsa Sharma | [Read More](https://medium.com/p/e13f079640dc) |
-| Wed, 04 Mar 2026 07:31:00 GMT | Agent Memory: 9 Retrieval Rules That Stop Leaks | Vectorlane | [Read More](https://medium.com/p/cb463ab245cd) |
-| Wed, 04 Mar 2026 07:25:44 GMT | Enterprise Backup: The Insurance Policy Your Business Cannot Ignore | Zefai Insights | [Read More](https://medium.com/p/358f8142cf6e) |
-| Wed, 04 Mar 2026 07:18:19 GMT | IPFire 2.29 Core Update 200 Ships Linux Kernel 6.18 LTS | Khurram Shahzad | [Read More](https://medium.com/p/649b020f3880) |
-| Wed, 04 Mar 2026 07:08:20 GMT | The Future of Safe and Efficient Campuses: Better Learning, Safer Grounds, Easier Management | LifeSmart | [Read More](https://medium.com/p/4d5b5af0175a) |
-| Wed, 04 Mar 2026 07:04:04 GMT | Is Cybersecurity a Good Career Choice in Trivandrum? Salary, Demand & Future Scope | Aslam Aslu | [Read More](https://medium.com/p/5b693e613b49) |
-| Wed, 04 Mar 2026 07:04:01 GMT | Day-to-Day Responsibilities of a Cyber Security Professional | Dkvilas | [Read More](https://medium.com/p/a4e297227510) |
-| Wed, 04 Mar 2026 07:01:02 GMT | 11. End-to-End Dev to Production Workflow | Mangesh Muley | [Read More](https://medium.com/p/802b945cdbda) |
-| Wed, 04 Mar 2026 06:58:56 GMT | Creating Value Through Adaptive Partnership with Amazon and AWS | Ascendion | [Read More](https://medium.com/p/b827eeb6832c) |
-| Wed, 04 Mar 2026 06:58:53 GMT | Why Firewall Management is Essential for Network Security | Bluechip Advanced Technologies | [Read More](https://medium.com/p/e0eb40bfa86a) |
-| Wed, 04 Mar 2026 06:49:58 GMT | CISA just put CVE-2026–22719 on the KEV list — and that’s VMware admins’ cue to move fast | Germano Costi | [Read More](https://medium.com/p/070c8fcaabf9) |
-| Wed, 04 Mar 2026 06:49:49 GMT | Turning Wazuh Into an AI-Powered Security Assistant with MCP | Tahir hussain | [Read More](https://medium.com/p/18cb8ef6575d) |
-| Wed, 04 Mar 2026 06:49:47 GMT | Your Bank’s AI Can Be Fooled By a Single Pixel Change. Here’s How. | Dhanush N | [Read More](https://medium.com/p/1f9f1d0cb90e) |
-| Wed, 04 Mar 2026 06:49:11 GMT | EventID-263 - SOC-287 -  LetsDefend | Soumodeep Das | [Read More](https://medium.com/p/480d36828ace) |
