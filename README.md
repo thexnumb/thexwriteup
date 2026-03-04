@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Mar 2026 01:50:38 GMT | I Taught Claude Code to Be a Security Auditor. | Hafiq Iqmal | [Read More](https://medium.com/p/ae315011d2ed) |
+| Wed, 04 Mar 2026 01:34:39 GMT | Linux Log Analysis in Action: Solving HTB Sherlock ‘Brutus’ | Allif Maulana Sakti | [Read More](https://medium.com/p/da0211d7a457) |
+| Wed, 04 Mar 2026 01:31:00 GMT | How Recruiters Actually Read a Cybersecurity Resume | Manubhav Sharma | [Read More](https://medium.com/p/286704b82012) |
+| Wed, 04 Mar 2026 01:31:00 GMT | Agentic Browsing: Read-Only That Still Writes | Duckweave | [Read More](https://medium.com/p/d833c0e2bd83) |
+| Wed, 04 Mar 2026 01:29:31 GMT | ️Turning Directory Data into Domain Access | Jabaribrown | [Read More](https://medium.com/p/74ce70eed60e) |
+| Wed, 04 Mar 2026 01:15:58 GMT | Not Your Keys, Not Your Coins: The Privacy-First Bitcoin Wallet Most People Actually Need | BogartusMaximus | [Read More](https://medium.com/p/28a8b0e36fc8) |
+| Wed, 04 Mar 2026 01:12:15 GMT | Your Cybersecurity Setup Is Incomplete Without These VMs | cybrNK | [Read More](https://medium.com/p/2872db10a260) |
+| Wed, 04 Mar 2026 01:11:55 GMT | Symmetric Encryption | Aj | [Read More](https://medium.com/p/98ceb41570b4) |
+| Wed, 04 Mar 2026 01:11:07 GMT | Forcing an AI App to generate Payloads to Cause HTML Injection | Rahul Singh Chauhan | [Read More](https://medium.com/p/47fac36d9d7a) |
+| Wed, 04 Mar 2026 01:10:33 GMT | Official Cisco Ethical Hacking Course Is FREE | Shahzaib | [Read More](https://medium.com/p/71901b746382) |
+| Wed, 04 Mar 2026 01:07:10 GMT | THIS TINY DEVICE HELPED ME HACK MY UNI’S NETWORK | Satyam Pathania | [Read More](https://medium.com/p/2f790357d64f) |
+| Wed, 04 Mar 2026 00:38:33 GMT | Exploiting HTTP request smuggling to deliver reflected XSS | Ⓥ | [Read More](https://medium.com/p/e0257e27ba29) |
+| Wed, 04 Mar 2026 00:38:14 GMT | Exploiting HTTP request smuggling to reveal front-end request rewriting | Ⓥ | [Read More](https://medium.com/p/d47195bb2ef3) |
+| Wed, 04 Mar 2026 00:25:16 GMT | Monitoring AWS Services: Splunk, Security Operations - TryHackMe | RosanaFSS | [Read More](https://medium.com/p/7238d308d4ed) |
+| Wed, 04 Mar 2026 00:12:27 GMT | Why Some Links Open Mobile Apps Instead of Websites — And the Security Risks Behind It | Seif Ahmed Abdelaal | [Read More](https://medium.com/p/d01faaf693a8) |
+| Wed, 04 Mar 2026 00:04:16 GMT | CVE Program Report for Quarter 4 Calendar Year (Q4 CY) 2025 | CVE Program Blog | [Read More](https://medium.com/p/e0f3031e8d4e) |
+| Wed, 04 Mar 2026 00:01:01 GMT | Waybackurls Guide: Extracting Historical URLs for Bug Bounty | JPablo13 | [Read More](https://medium.com/p/1ea665dd7c14) |
+| Wed, 04 Mar 2026 00:01:01 GMT | Engineering Stalls the Merge Queue When Green CI Hides Rollback Risk | James Kuhman | [Read More](https://medium.com/p/6b9cf4d74f7d) |
+| Tue, 03 Mar 2026 23:52:03 GMT | From Default Password to SYSTEM: A Beginner’s Walkthrough of TryHackMe Alfred | Robert Perez | [Read More](https://medium.com/p/61172a3d67e6) |
 | Tue, 03 Mar 2026 23:31:14 GMT | Add Authentication with MFA to Your NestJS Application | Murtaza Nooruddin | [Read More](https://medium.com/p/185ee022d0fe) |
 | Tue, 03 Mar 2026 23:28:14 GMT | Securing Nginx With ModSecurity: A Step-by-Step Guide to Deploying a Web Application Firewall (WAF) | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/0b6dbacde270) |
 | Tue, 03 Mar 2026 23:27:00 GMT | Welcome to NextGenTechPress: Your Blueprint for Code, Hardware, and Security | NextGen Tech Press | [Read More](https://medium.com/p/3eb37777c887) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Mar 2026 17:29:46 GMT | Siber Pusula #1 -Hacking MSSQL Server — Impersonate CyberExam | Toprak Külekçioğlu | [Read More](https://medium.com/p/b4ff381a1d8a) |
 | Tue, 03 Mar 2026 17:26:58 GMT | Where I Shrink When I’m Comfortable | Rejoice Moses | [Read More](https://medium.com/p/28154708b3c3) |
 | Tue, 03 Mar 2026 17:23:11 GMT | AI Security Revolution: From San Diego to the US | Teona | [Read More](https://medium.com/p/8acaa8fcb3e2) |
-| Tue, 03 Mar 2026 17:22:50 GMT | Cybersecurity Awareness: The Shadow AI Crisis Bleeding Your Data Through Invisible APIs | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/0915e109e9ad) |
-| Tue, 03 Mar 2026 17:18:51 GMT | Why the Best Bug Hunters Think Like Detectives, Not Hackers — And What That Difference Earns Them | R.H Rizvi | [Read More](https://medium.com/p/3c93e99d6fc9) |
-| Tue, 03 Mar 2026 17:17:44 GMT | Industrial and Construction Site Security: Protecting Projects from Costly Risks | Accoladeguards | [Read More](https://medium.com/p/23e55ead168c) |
-| Tue, 03 Mar 2026 17:12:49 GMT | For my daughter, For my Sons | Alizabeth Amelia Rose | [Read More](https://medium.com/p/dc280539ad4d) |
-| Tue, 03 Mar 2026 17:09:37 GMT | QUEUE | Zuhdansani | [Read More](https://medium.com/p/58bd6a9c49fc) |
-| Tue, 03 Mar 2026 17:08:57 GMT | QSpy: Old Trick, New Label | Berend Watchus | [Read More](https://medium.com/p/0ff816f400f0) |
-| Tue, 03 Mar 2026 17:01:02 GMT | Cowardice and other synonyms | Princess Odey | [Read More](https://medium.com/p/ffcbf99c82e6) |
-| Tue, 03 Mar 2026 16:59:29 GMT | [Dev Update] In NODE: PROTOCOL, stealing the data is only half the job. | Marc | [Read More](https://medium.com/p/f528d8e8949a) |
-| Tue, 03 Mar 2026 16:57:06 GMT | Sherlock HackTheBox: Brutus | Dixtroiza | [Read More](https://medium.com/p/215bdee079bb) |
-| Tue, 03 Mar 2026 16:56:10 GMT | A Practical Guide to SABSA: Securing Enterprise Infrastructure by Design | Tom Croll | [Read More](https://medium.com/p/a7b4702ba0a4) |
-| Tue, 03 Mar 2026 16:56:01 GMT | Keycloak IAM Core Concepts Explained (Part 2): Realms, Users, Groups, Clients, Roles and OIDC Token… | Rupesh Sharma | [Read More](https://medium.com/p/f0d8a8feb6b2) |
-| Tue, 03 Mar 2026 16:53:48 GMT | Nigerian E-voting Technology. | Funmitoadesola | [Read More](https://medium.com/p/2fab6f42f1c9) |
-| Tue, 03 Mar 2026 16:48:36 GMT | How a Simple %61 Bypassed a Reverse Proxy: EHAX CTF Writeup | Devanshu Pathak | [Read More](https://medium.com/p/eeec0bb82af1) |
-| Tue, 03 Mar 2026 16:46:58 GMT | Load Balancing in System Design: Understanding Consistent Hashing and Scalable Request Allocation | Tech Savvy Talks by Sanjana | [Read More](https://medium.com/p/e9f3f7b3b7dc) |
-| Tue, 03 Mar 2026 16:43:32 GMT | OpenFang: Anatomy and Engineering of the First Secure Autonomous Agent OS | Stéphane Stéphane | [Read More](https://medium.com/p/c5fcef2ab34d) |
-| Tue, 03 Mar 2026 16:43:31 GMT | Business Logic Vulnerability in Subscription Checkout | Mahmoud Magdy | [Read More](https://medium.com/p/31845a3685f4) |
-| Tue, 03 Mar 2026 16:42:56 GMT | Cyber Laws in India: The Digital Persona, Personation, and Privacy | Vasuki | [Read More](https://medium.com/p/c8736f07ecb3) |
-| Tue, 03 Mar 2026 16:21:07 GMT | The 47-Second Breach: How AI Changed Cybercrime Forever | AIThinkerLab | [Read More](https://medium.com/p/5b13472557c8) |
-| Tue, 03 Mar 2026 16:07:58 GMT | Understanding the MITRE ATT&CK Framework: A Beginner’s Guide to Thinking Like an Attacker | Rinu M J | [Read More](https://medium.com/p/bf300db21e85) |
