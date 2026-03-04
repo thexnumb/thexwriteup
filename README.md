@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Mar 2026 09:38:40 GMT | Why Municipal Buildings in Nebraska Are Upgrading to Modern Security Systems | ASI Systems Pro | [Read More](https://medium.com/p/a217ae64be42) |
+| Wed, 04 Mar 2026 09:37:39 GMT | The Cyber Battlefield Has Already Started — Are You Ready? | Cyberhead0n | [Read More](https://medium.com/p/16833e2b7070) |
+| Wed, 04 Mar 2026 09:27:25 GMT | The Great Firestick Crackdown: Why 3rd‑Party Apps Are Disappearing — And What It Means for… | Lionsharedigitalagency | [Read More](https://medium.com/p/2abe9f95a3b6) |
+| Wed, 04 Mar 2026 09:24:19 GMT | How Hackers Are Weaponizing AI Like Claude for Cyber Attacks | Abhinsubej | [Read More](https://medium.com/p/e4107649b229) |
+| Wed, 04 Mar 2026 09:15:38 GMT | Why APY Is the Most Misunderstood Metric in DeFi | Mercybesthairs | [Read More](https://medium.com/p/81009c99f419) |
+| Wed, 04 Mar 2026 09:10:14 GMT | Self-Hosting DNS: Pi-hole, Unbound, and Tailscale | Atharva | [Read More](https://medium.com/p/fafcb2625783) |
+| Wed, 04 Mar 2026 09:07:29 GMT | Critical Review: “Obstacles to the Adoption of Secure Communication Tools” (Abu-Salma et al., 2017) | Yoki Oktorian Sukardi | [Read More](https://medium.com/p/f1432116bc2f) |
+| Wed, 04 Mar 2026 09:01:01 GMT | What Founders Misunderstand About Compliance | Gaurav Shukla | [Read More](https://medium.com/p/859f37bc52c7) |
+| Wed, 04 Mar 2026 08:59:41 GMT | I Found Valid VPN Credentials for 7 Out of 10 Companies I Searched | Alexandre Vandamme | [Read More](https://medium.com/p/62b583f713df) |
+| Wed, 04 Mar 2026 08:52:50 GMT | TryHackMe - Mr Robot CTF Writeup | giorgi gochitidze | [Read More](https://medium.com/p/396290ce5abf) |
+| Wed, 04 Mar 2026 08:52:48 GMT | How I Document Threat Campaigns as a CTI Analyst — A Real Report Sample | Palupidyahr | [Read More](https://medium.com/p/21d211fd2733) |
 | Wed, 04 Mar 2026 08:39:34 GMT | Account Compromise: First 60 Minutes Response Guide | Geoffrey Wenger | [Read More](https://medium.com/p/fcbab392fcaa) |
 | Wed, 04 Mar 2026 08:33:05 GMT | Context Is Everything: A Practical Guide to XSS | Marduk I Am | [Read More](https://medium.com/p/eff8d30421df) |
 | Wed, 04 Mar 2026 08:32:00 GMT | Path Traversal | Abdulnafayk | [Read More](https://medium.com/p/7b0c9f455eb4) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Mar 2026 00:38:14 GMT | Exploiting HTTP request smuggling to reveal front-end request rewriting | Ⓥ | [Read More](https://medium.com/p/d47195bb2ef3) |
 | Wed, 04 Mar 2026 00:25:16 GMT | Monitoring AWS Services: Splunk, Security Operations - TryHackMe | RosanaFSS | [Read More](https://medium.com/p/7238d308d4ed) |
 | Wed, 04 Mar 2026 00:12:27 GMT | Why Some Links Open Mobile Apps Instead of Websites — And the Security Risks Behind It | Seif Ahmed Abdelaal | [Read More](https://medium.com/p/d01faaf693a8) |
-| Wed, 04 Mar 2026 00:04:16 GMT | CVE Program Report for Quarter 4 Calendar Year (Q4 CY) 2025 | CVE Program Blog | [Read More](https://medium.com/p/e0f3031e8d4e) |
-| Wed, 04 Mar 2026 00:01:01 GMT | Waybackurls Guide: Extracting Historical URLs for Bug Bounty | JPablo13 | [Read More](https://medium.com/p/1ea665dd7c14) |
-| Wed, 04 Mar 2026 00:01:01 GMT | Engineering Stalls the Merge Queue When Green CI Hides Rollback Risk | James Kuhman | [Read More](https://medium.com/p/6b9cf4d74f7d) |
-| Tue, 03 Mar 2026 23:52:03 GMT | From Default Password to SYSTEM: A Beginner’s Walkthrough of TryHackMe Alfred | Robert Perez | [Read More](https://medium.com/p/61172a3d67e6) |
-| Tue, 03 Mar 2026 23:31:14 GMT | Add Authentication with MFA to Your NestJS Application | Murtaza Nooruddin | [Read More](https://medium.com/p/185ee022d0fe) |
-| Tue, 03 Mar 2026 23:28:14 GMT | Securing Nginx With ModSecurity: A Step-by-Step Guide to Deploying a Web Application Firewall (WAF) | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/0b6dbacde270) |
-| Tue, 03 Mar 2026 23:27:00 GMT | Welcome to NextGenTechPress: Your Blueprint for Code, Hardware, and Security | NextGen Tech Press | [Read More](https://medium.com/p/3eb37777c887) |
-| Tue, 03 Mar 2026 23:15:33 GMT | How to Download Free Movies, Series, and Anime Online | Sonofkenneth | [Read More](https://medium.com/p/5ea2776492ec) |
-| Tue, 03 Mar 2026 23:01:02 GMT | Phishing Exposed: How Attackers Exploit Cloud Subdomains and How Your Team Can Defend Against It | Bibiresanmi David | [Read More](https://medium.com/p/acf5ef7b06da) |
-| Tue, 03 Mar 2026 22:59:18 GMT | Network Forensics: RedisShell — Kinsing Lab | Khoa | [Read More](https://medium.com/p/1159f167a721) |
-| Tue, 03 Mar 2026 22:50:59 GMT | The Future of Critical Infrastructure Cybersecurity: From Engineering Problem to Resilience… | Muhammad Ali Khan | [Read More](https://medium.com/p/ce3cca8cf4c9) |
