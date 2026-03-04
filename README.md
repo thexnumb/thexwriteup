@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Mar 2026 22:27:21 GMT | The 60-Second Extinction: Why Your Backup Plan is a Fatal Joke | ProfitShield AI | [Read More](https://medium.com/p/4fdf1bbdb1a2) |
+| Wed, 04 Mar 2026 22:23:07 GMT | OSCP Command(Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/bd38997458ff) |
+| Wed, 04 Mar 2026 22:21:00 GMT | The Dependency Trap: Why Modern Software Fails Through Third-Party Fragility | David Jonathan | [Read More](https://medium.com/p/2d307dfd9fbd) |
+| Wed, 04 Mar 2026 22:17:29 GMT | Mayhem (THM) Tryhackme WriteUp Answer | Lawvye | [Read More](https://medium.com/p/82b705e76f10) |
+| Wed, 04 Mar 2026 22:10:49 GMT | Mapping The White Space in AI-Era Cybersecurity | Associate Team @ Chingona Ventures | [Read More](https://medium.com/p/b7f146b02b1b) |
+| Wed, 04 Mar 2026 22:00:59 GMT | From Encryption to Operational Paralysis: Why Ransomware 5.0 Targets Your Downtime | Ivan Stepanchuk | [Read More](https://medium.com/p/1dd10de7b4ad) |
+| Wed, 04 Mar 2026 22:00:01 GMT | What to Expect from Iran’s Digital Counterstrike | Matthew.Rosenquist | [Read More](https://medium.com/p/92b295b59149) |
+| Wed, 04 Mar 2026 21:57:25 GMT | The Way Of IT: Issue#1 | THE WAY OF IT | [Read More](https://medium.com/p/99a15215e0a7) |
+| Wed, 04 Mar 2026 21:55:07 GMT | Resource-Constrained Security: Hardening the Perimeter & Solving the Moving IP Headache #02 | Pinac Joshi | [Read More](https://medium.com/p/f7ac1f502475) |
+| Wed, 04 Mar 2026 21:54:28 GMT | Basic Linux Commands: A Beginner’s Guide to the Terminal | Mtuaha | [Read More](https://medium.com/p/f0320afe6836) |
+| Wed, 04 Mar 2026 21:50:19 GMT | I saw a life that is already full, already complete | iknowhowtowrite | [Read More](https://medium.com/p/8ccb50b48739) |
+| Wed, 04 Mar 2026 21:45:57 GMT | Protegendo Aplicações RAG contra Prompt Injection Indireto com Spotlight | Guilp03 | [Read More](https://medium.com/p/eca3629734b1) |
+| Wed, 04 Mar 2026 21:38:15 GMT | Try Hack Me- The Blob Blog CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/0b58c55ea3c9) |
+| Wed, 04 Mar 2026 21:37:07 GMT | Open Ports and their vulnerabilities. | rkn | [Read More](https://medium.com/p/951df5d4f790) |
+| Wed, 04 Mar 2026 21:34:51 GMT | Facts Machine HTB Solution | PsYc0 | [Read More](https://medium.com/p/6af33527d232) |
 | Wed, 04 Mar 2026 21:30:07 GMT | Energy Leverage and Strategic Competition: Oil Disruptions and the Shifting US-China Balance | Josh Johnson | [Read More](https://medium.com/p/04b5de90c2c6) |
 | Wed, 04 Mar 2026 21:29:05 GMT | Why Incident Response Plans Often Fail in Real Life | JSOC IT BLOG | [Read More](https://medium.com/p/b7c55e00ec22) |
 | Wed, 04 Mar 2026 21:17:11 GMT | Why Did the PMKID Attack Surprise Researchers? | Willian Bachini - MZTBTG | [Read More](https://medium.com/p/6ebccc8185fa) |
@@ -98,18 +113,3 @@ AI-Powered Security Through the Eyes of a Veteran | Miracle Ojo | [Read More](ht
 | Wed, 04 Mar 2026 15:58:25 GMT | AI & LLM Security: Hacking the Brain of 2026 | Axoloth | [Read More](https://medium.com/p/199944abdc82) |
 | Wed, 04 Mar 2026 15:52:15 GMT | From Innovation to Escalation: The AI Arms Race Is No Longer Theoretical | Len Noe | [Read More](https://medium.com/p/0b0d047e3d8d) |
 | Wed, 04 Mar 2026 15:48:01 GMT | Ph4nt0m 1ntrud3r - Digital Forensics Challenge | Xinlisalim | [Read More](https://medium.com/p/cdf62a368fa8) |
-| Wed, 04 Mar 2026 15:47:45 GMT | Cybersecurity in Bangladesh 2026: Challenges, Trends & Strategic Imperatives | Sam Walker | [Read More](https://medium.com/p/824a56cf0cd7) |
-| Wed, 04 Mar 2026 15:45:26 GMT | The Friction Illusion Why Smart Money Treats Japan as a Financial Bunker | Konoe | [Read More](https://medium.com/p/ad7d51eaf25a) |
-| Wed, 04 Mar 2026 15:41:08 GMT | Hybrid Join vs Microsoft Entra Join with Windows Autopilot: What IT Teams Actually Need to Know | Opsole Migrate | [Read More](https://medium.com/p/90f5efc98db1) |
-| Wed, 04 Mar 2026 15:36:36 GMT | HTB Bashed Writeup: From phpbash WebShell to Root via Cron Job Abuse | Onurcan Genç | [Read More](https://medium.com/p/009592015dc3) |
-| Wed, 04 Mar 2026 15:34:36 GMT | The Hidden Problem in Construction Projects: Poor Sound Performance | Cocokelapa64 | [Read More](https://medium.com/p/128e6ce92ca3) |
-| Wed, 04 Mar 2026 15:34:22 GMT | I Simulated an SSH Brute-Force Attack on My Home Lab — Then Caught It in Splunk | Kimberly Kuya | [Read More](https://medium.com/p/e4ed29a3524e) |
-| Wed, 04 Mar 2026 15:26:05 GMT | Web Exploitation Writeup — Client-Side Exposure & Cookie Analysis | Midhun S | [Read More](https://medium.com/p/16bb789d59f5) |
-| Wed, 04 Mar 2026 15:25:40 GMT | Digital Forensics Writeup — Metadata, Corruption & Macro Analysis | Midhun S | [Read More](https://medium.com/p/25e8c3c6b57e) |
-| Wed, 04 Mar 2026 15:24:14 GMT | Wardriving: Red Team Research | Zerone Security | [Read More](https://medium.com/p/376501d2f3e8) |
-| Wed, 04 Mar 2026 15:16:07 GMT | Attacking Kiosk Devices: Red Team Research | Zerone Security | [Read More](https://medium.com/p/bfe586da8adf) |
-| Wed, 04 Mar 2026 15:00:54 GMT | Learning about Cryptography/Ratchets part 1 of ? | cyberpunkwitch | [Read More](https://medium.com/p/bdfed57cafa8) |
-| Wed, 04 Mar 2026 14:50:37 GMT | Week 3 PicoCTF-Ph4nt0m 1ntrud3r | Artha Bangkit Auliano | [Read More](https://medium.com/p/15cde1528da3) |
-| Wed, 04 Mar 2026 14:45:20 GMT | #5 From RSS to Threat Hunt: Turning News into Detection Queries with an AI CTI Module | TheMachine | [Read More](https://medium.com/p/f3fbff389a86) |
-| Wed, 04 Mar 2026 14:43:57 GMT | Analisis Malware Android Pada PT. POS Indonesia.apk | Alfin Syahrin | [Read More](https://medium.com/p/b7ba3945d5b9) |
-| Wed, 04 Mar 2026 14:43:12 GMT | System Design Is Not About Systems — It’s About Thinking in Constraints | Jarif | [Read More](https://medium.com/p/67d495af61d1) |
