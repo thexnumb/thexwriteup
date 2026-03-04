@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Mar 2026 20:29:02 GMT | SSRF (Server-Side Request Forgery) | Aditya Bhatt | [Read More](https://medium.com/p/688b9e87f02c) |
+| Wed, 04 Mar 2026 20:25:14 GMT | Building a Cybersecurity Governance Strategy for a Healthcare Organisation Using NIST CSF | Kabir | [Read More](https://medium.com/p/6f2f0bb9aa5d) |
+| Wed, 04 Mar 2026 20:13:26 GMT | How I Got 3 Bugs No Automation, Just Logic | Mado | [Read More](https://medium.com/p/65f372c664cd) |
+| Wed, 04 Mar 2026 20:08:14 GMT | Recon in Bug Bounty: The “Stalking” Phase of Ethical Hacking | loopXvedant | [Read More](https://medium.com/p/015e40d1b1ce) |
+| Wed, 04 Mar 2026 20:03:24 GMT | Why Do We See http:// or https:// in Website URLs? | Amol Raut | [Read More](https://medium.com/p/79392ba7429d) |
+| Wed, 04 Mar 2026 19:55:39 GMT | Push Your Live Stream or Private Network Camera Feed to Bloodcat Map for Subscribers to Play | Мартин. | [Read More](https://medium.com/p/49bbb7c6cfb5) |
 | Wed, 04 Mar 2026 19:43:27 GMT | Unmasking RCE-55128: Achieving Full Remote Code Execution On An Ai Platform Via Next.js | AKM | [Read More](https://medium.com/p/e653fbad6452) |
 | Wed, 04 Mar 2026 19:38:10 GMT | Least Privilege in Oracle Fusion ERP: Role Design That Survives Audits and Operations | Khadernawazk | [Read More](https://medium.com/p/f2d5187a9b7a) |
 | Wed, 04 Mar 2026 19:26:43 GMT | I Thought I Was a Hacker… Turns Out I Was Just Clicking Buttons | Murari Pothuru | [Read More](https://medium.com/p/9bd1a2459fe3) |
@@ -107,9 +113,3 @@ AI-Powered Security Through the Eyes of a Veteran | Miracle Ojo | [Read More](ht
 | Wed, 04 Mar 2026 14:02:09 GMT | CISA Warns About Actively Exploited VMware Aria Operations Vulnerability | Sharanraju | [Read More](https://medium.com/p/9bd935f2acd6) |
 | Wed, 04 Mar 2026 14:01:25 GMT | Analisis Malware APK “PT. POS Indonesia.apk” Menggunakan MobSF dan jadx.gui (Bootcamp Task5) | Muhammaddavidfirmansyah | [Read More](https://medium.com/p/5982fbccae9c) |
 | Wed, 04 Mar 2026 13:58:34 GMT | The Quarantine Room of Cybersecurity: What is a Sandbox and Why Does It Matter? | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/49988912c58b) |
-| Wed, 04 Mar 2026 13:53:54 GMT | Laporan Praktikum Struktur Data : Stack Dalam Pyhton | Cahyoadi | [Read More](https://medium.com/p/02ec52079679) |
-| Wed, 04 Mar 2026 13:51:29 GMT | Hackviser Write-up [EN / TR] — Stored XSS in Anchor Href Attribute HTML-Encoded | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/2566946d47d8) |
-| Wed, 04 Mar 2026 13:51:12 GMT | How Blockchain Is Transforming Document Security and Becoming the Notary of the Digital Age | Legal Chain | [Read More](https://medium.com/p/ca20b297cc25) |
-| Wed, 04 Mar 2026 13:49:22 GMT | Cyberattack Exposes 15.8 Million Medical Records, Including Sensitive Health Details | VertexMD | [Read More](https://medium.com/p/6e08922da7c6) |
-| Wed, 04 Mar 2026 13:48:49 GMT | Como profissionais de cibersegurança podem ajudar na Black Friday? | Alex Feleol | [Read More](https://medium.com/p/cc19b3952b8e) |
-| Wed, 04 Mar 2026 13:43:35 GMT | How the WhatsApp worm spreads automatically — Real life analysis | Umang Mishra | [Read More](https://medium.com/p/8cc39cc6a062) |
