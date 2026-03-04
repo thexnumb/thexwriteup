@@ -12,8 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Mar 2026 10:22:41 GMT | Secrets management in Docker Compose: .env, SOPS, Bitwarden, and the “good enough” threat model | Thomas Byern | [Read More](https://medium.com/p/2bbc6d8e1064) |
+| Wed, 04 Mar 2026 10:21:25 GMT | FusionCorp — TryHackMe Writeup | Rolando Enriquez | [Read More](https://medium.com/p/bc9c0386d560) |
+| Wed, 04 Mar 2026 10:20:08 GMT | EntroGuard — Day 8 | Nisarg Patel | [Read More](https://medium.com/p/810d33d59df1) |
+| Wed, 04 Mar 2026 10:16:21 GMT | The Linux Security Journey — auditd (Auditing Daemon) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/c53b4e4a19f8) |
+| Wed, 04 Mar 2026 10:12:15 GMT | SentinelOne Detection Center — Library Rules, Emerging Threats, and What It All Actually Means | Dean | [Read More](https://medium.com/p/f0b06ccf2512) |
+| Wed, 04 Mar 2026 10:10:11 GMT | Information About the RAM and Processor | KRISHNA VERNEKAR | [Read More](https://medium.com/p/a8502a455ffa) |
+| Wed, 04 Mar 2026 10:08:40 GMT | What Is Zero-Knowledge Secrets Management for AI Agents? | Wisdomademiju | [Read More](https://medium.com/p/c73af6823264) |
+| Wed, 04 Mar 2026 10:06:29 GMT | TryHackMe: Wonderland (Full Raw Walkthrough) | Vinay trivedi | [Read More](https://medium.com/p/64d1de06999c) |
+| Wed, 04 Mar 2026 10:05:09 GMT | How 54 Percent of Cyberattacks Go Completely Unnoticed | Merryusman | [Read More](https://medium.com/p/f2d3fcdb2ae0) |
+| Wed, 04 Mar 2026 10:03:50 GMT | Reset — TryHackMe Writeup | Rolando Enriquez | [Read More](https://medium.com/p/cf7457eca5a9) |
+| Wed, 04 Mar 2026 10:02:10 GMT | Vulnhub Walkthrough: Sunset | Sachin Kesav | [Read More](https://medium.com/p/13e87ce07240) |
+| Wed, 04 Mar 2026 10:01:56 GMT | Algoritmalar Seni Senden İyi Tanıyor mu? (Ve Bu Neden Önemli) | Ali Yaşe | [Read More](https://medium.com/p/bc1fa995b38b) |
+| Wed, 04 Mar 2026 09:52:01 GMT | Day 14 — I Changed One Number and Suddenly Everyone’s Data Was Mine | Issan | [Read More](https://medium.com/p/1b09ef0b50cc) |
+| Wed, 04 Mar 2026 09:49:34 GMT | Apakah Secure Email Sudah Benar-Benar Mudah Digunakan? | Fikrimuzaki | [Read More](https://medium.com/p/211f9a6b743a) |
+| Wed, 04 Mar 2026 09:46:47 GMT | AI in cybersecurity is not going to save you (and it’s not going to kill you either) | h@shtalk | [Read More](https://medium.com/p/1709a8f60df0) |
+| Wed, 04 Mar 2026 09:46:09 GMT | The Defender’s Roadmap: Building a Career in the Digital Trenches | Genrunic | [Read More](https://medium.com/p/e56b295c91af) |
 | Wed, 04 Mar 2026 09:38:40 GMT | Why Municipal Buildings in Nebraska Are Upgrading to Modern Security Systems | ASI Systems Pro | [Read More](https://medium.com/p/a217ae64be42) |
 | Wed, 04 Mar 2026 09:37:39 GMT | The Cyber Battlefield Has Already Started — Are You Ready? | Cyberhead0n | [Read More](https://medium.com/p/16833e2b7070) |
+| Wed, 04 Mar 2026 09:35:28 GMT | The curious case of poisoned context | Elina Maliarsky | [Read More](https://medium.com/p/b6e523e1d507) |
 | Wed, 04 Mar 2026 09:27:25 GMT | The Great Firestick Crackdown: Why 3rd‑Party Apps Are Disappearing — And What It Means for… | Lionsharedigitalagency | [Read More](https://medium.com/p/2abe9f95a3b6) |
 | Wed, 04 Mar 2026 09:24:19 GMT | How Hackers Are Weaponizing AI Like Claude for Cyber Attacks | Abhinsubej | [Read More](https://medium.com/p/e4107649b229) |
 | Wed, 04 Mar 2026 09:15:38 GMT | Why APY Is the Most Misunderstood Metric in DeFi | Mercybesthairs | [Read More](https://medium.com/p/81009c99f419) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Mar 2026 02:48:52 GMT | I Built a Log Analyzer That Detects Cyberattacks — Here’s How It Works | Sanketh Subhas | [Read More](https://medium.com/p/0427c91f47bc) |
 | Wed, 04 Mar 2026 02:48:24 GMT | HackMyVM: Lazzycorp Writeup | Antonio | [Read More](https://medium.com/p/a5a18b4999e6) |
 | Wed, 04 Mar 2026 02:34:43 GMT | The Invisible Trail: What is a Digital Footprint ? | Vidoq | [Read More](https://medium.com/p/91baf8c02134) |
-| Wed, 04 Mar 2026 02:31:00 GMT | I Scroll My Contacts and Text Myself Instead | Wareaha | [Read More](https://medium.com/p/88c9859a71cc) |
-| Wed, 04 Mar 2026 02:18:37 GMT | My Magnet Virtual Summit CTF 2026 Experience | Joshua Hee | [Read More](https://medium.com/p/ccde033309b4) |
-| Wed, 04 Mar 2026 01:50:38 GMT | I Taught Claude Code to Be a Security Auditor. | Hafiq Iqmal | [Read More](https://medium.com/p/ae315011d2ed) |
-| Wed, 04 Mar 2026 01:34:39 GMT | Linux Log Analysis in Action: Solving HTB Sherlock ‘Brutus’ | Allif Maulana Sakti | [Read More](https://medium.com/p/da0211d7a457) |
-| Wed, 04 Mar 2026 01:31:00 GMT | How Recruiters Actually Read a Cybersecurity Resume | Manubhav Sharma | [Read More](https://medium.com/p/286704b82012) |
-| Wed, 04 Mar 2026 01:31:00 GMT | Agentic Browsing: Read-Only That Still Writes | Duckweave | [Read More](https://medium.com/p/d833c0e2bd83) |
-| Wed, 04 Mar 2026 01:29:31 GMT | ️Turning Directory Data into Domain Access | Jabaribrown | [Read More](https://medium.com/p/74ce70eed60e) |
-| Wed, 04 Mar 2026 01:15:58 GMT | Not Your Keys, Not Your Coins: The Privacy-First Bitcoin Wallet Most People Actually Need | BogartusMaximus | [Read More](https://medium.com/p/28a8b0e36fc8) |
-| Wed, 04 Mar 2026 01:12:15 GMT | Your Cybersecurity Setup Is Incomplete Without These VMs | cybrNK | [Read More](https://medium.com/p/2872db10a260) |
-| Wed, 04 Mar 2026 01:11:55 GMT | Symmetric Encryption | Aj | [Read More](https://medium.com/p/98ceb41570b4) |
-| Wed, 04 Mar 2026 01:11:07 GMT | Forcing an AI App to generate Payloads to Cause HTML Injection | Rahul Singh Chauhan | [Read More](https://medium.com/p/47fac36d9d7a) |
-| Wed, 04 Mar 2026 01:10:33 GMT | Official Cisco Ethical Hacking Course Is FREE | Shahzaib | [Read More](https://medium.com/p/71901b746382) |
-| Wed, 04 Mar 2026 01:07:10 GMT | THIS TINY DEVICE HELPED ME HACK MY UNI’S NETWORK | Satyam Pathania | [Read More](https://medium.com/p/2f790357d64f) |
-| Wed, 04 Mar 2026 00:38:33 GMT | Exploiting HTTP request smuggling to deliver reflected XSS | Ⓥ | [Read More](https://medium.com/p/e0257e27ba29) |
-| Wed, 04 Mar 2026 00:38:14 GMT | Exploiting HTTP request smuggling to reveal front-end request rewriting | Ⓥ | [Read More](https://medium.com/p/d47195bb2ef3) |
-| Wed, 04 Mar 2026 00:25:16 GMT | Monitoring AWS Services: Splunk, Security Operations - TryHackMe | RosanaFSS | [Read More](https://medium.com/p/7238d308d4ed) |
-| Wed, 04 Mar 2026 00:12:27 GMT | Why Some Links Open Mobile Apps Instead of Websites — And the Security Risks Behind It | Seif Ahmed Abdelaal | [Read More](https://medium.com/p/d01faaf693a8) |
