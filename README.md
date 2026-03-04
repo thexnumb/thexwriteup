@@ -12,7 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Mar 2026 07:04:04 GMT | Is Cybersecurity a Good Career Choice in Trivandrum? Salary, Demand & Future Scope | Aslam Aslu | [Read More](https://medium.com/p/5b693e613b49) |
+| Wed, 04 Mar 2026 07:04:01 GMT | Day-to-Day Responsibilities of a Cyber Security Professional | Dkvilas | [Read More](https://medium.com/p/a4e297227510) |
+| Wed, 04 Mar 2026 06:58:56 GMT | Creating Value Through Adaptive Partnership with Amazon and AWS | Ascendion | [Read More](https://medium.com/p/b827eeb6832c) |
+| Wed, 04 Mar 2026 06:58:53 GMT | Why Firewall Management is Essential for Network Security | Bluechip Advanced Technologies | [Read More](https://medium.com/p/e0eb40bfa86a) |
+| Wed, 04 Mar 2026 06:49:58 GMT | CISA just put CVE-2026–22719 on the KEV list — and that’s VMware admins’ cue to move fast | Germano Costi | [Read More](https://medium.com/p/070c8fcaabf9) |
+| Wed, 04 Mar 2026 06:49:49 GMT | Turning Wazuh Into an AI-Powered Security Assistant with MCP | Tahir hussain | [Read More](https://medium.com/p/18cb8ef6575d) |
+| Wed, 04 Mar 2026 06:49:47 GMT | Your Bank’s AI Can Be Fooled By a Single Pixel Change. Here’s How. | Dhanush N | [Read More](https://medium.com/p/1f9f1d0cb90e) |
+| Wed, 04 Mar 2026 06:49:11 GMT | EventID-263 - SOC-287 -  LetsDefend | Soumodeep Das | [Read More](https://medium.com/p/480d36828ace) |
+| Wed, 04 Mar 2026 06:46:57 GMT | Scribd’s Public-by-Default Model and the Quiet Risk of Discoverability | Vasuki | [Read More](https://medium.com/p/aa9976da1d72) |
+| Wed, 04 Mar 2026 06:45:29 GMT | Mastering TShark for Network Forensics: PsExec Hunt Lab Walkthrough | Allif Maulana Sakti | [Read More](https://medium.com/p/99a6e84f9f4d) |
+| Wed, 04 Mar 2026 06:44:16 GMT | Holy robot (vacuum) army Batman! | Adam Spencer | [Read More](https://medium.com/p/c6d34d5af8a8) |
+| Wed, 04 Mar 2026 06:34:28 GMT | Web Application Security: Hands-On Practice (Chapter 13 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/310057b183bd) |
+| Wed, 04 Mar 2026 06:33:59 GMT | Assessment Methodologies: Enumeration CTF 1 | Prasad | [Read More](https://medium.com/p/0cef0ff6fa3c) |
+| Wed, 04 Mar 2026 06:27:09 GMT | How Hackers Attack Websites | Saiful Gazi | [Read More](https://medium.com/p/e913e950d048) |
+| Wed, 04 Mar 2026 06:27:07 GMT | CeWL vs Crunch: How to Build Smart Wordlists for Bug Bounty Recon | ghostyjoe | [Read More](https://medium.com/p/b9e0658dd370) |
+| Wed, 04 Mar 2026 06:23:36 GMT | ProofOfRank Exchange Insight: Toobit — Strengths & Areas for Improvement | ProofOfRank | [Read More](https://medium.com/p/b6093353e6f2) |
+| Wed, 04 Mar 2026 06:20:57 GMT | How Did Google Implement Post-Quantum Certificate Transparency? | Gokul B Alex | [Read More](https://medium.com/p/b70af98bc4ff) |
+| Wed, 04 Mar 2026 06:19:24 GMT | The 3-Day Fast: My Body Ate Itself, and My Focus Spiked 40% | Adi Insights and Innovations | [Read More](https://medium.com/p/afefcaa95c2f) |
 | Wed, 04 Mar 2026 06:02:52 GMT | From Magic to Monster: How Moltbot (OpenClaw) Changed the World | Joe Ward | [Read More](https://medium.com/p/f9e51a9ed9d5) |
+| Wed, 04 Mar 2026 05:56:06 GMT | Proven Success with Ethical Hacking Course in Trivandrum Training Center | Niranjandotnot | [Read More](https://medium.com/p/2530d8bc816e) |
+| Wed, 04 Mar 2026 05:53:41 GMT | Why the Military Might Survive Even After Global Unification | Dr. Nyang | [Read More](https://medium.com/p/22c93e9d66f9) |
 | Wed, 04 Mar 2026 05:50:11 GMT | Cyber and Space as Primary Instruments of Modern Warfare: Strategic Implications of the Pentagon’s… | CCD-IS | [Read More](https://medium.com/p/e021de0cdb06) |
 | Wed, 04 Mar 2026 05:48:54 GMT | Certified Bug Bounty Hunter (CBBH) Course in India - Ethical Hacking Training with Practical Labs —… | mrweb secure | [Read More](https://medium.com/p/6cbb52c4ddcd) |
 | Wed, 04 Mar 2026 05:36:32 GMT | USB Forensics with Autopsy | Herique Tavares | [Read More](https://medium.com/p/66e47731fa3e) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Mar 2026 21:19:22 GMT | Analisis malware pada POS.apk Secara Statis dengan mobSF dan Jadx-GUI | L0udbaa | [Read More](https://medium.com/p/c4f3d882b69c) |
 | Tue, 03 Mar 2026 21:13:57 GMT | Infrastructure as a Security Asset: Setting Up Centralized Logging in Azure | Onobrakpeya Efeturi | [Read More](https://medium.com/p/ff4e1dceda91) |
 | Tue, 03 Mar 2026 21:13:12 GMT | Cyber Defender — PsExec Hunt Lab | Sansssadt | [Read More](https://medium.com/p/9947e7d96eef) |
-| Tue, 03 Mar 2026 21:00:21 GMT | The Day We Learned the CIA Could Enter Your Phone | Robert Morton | [Read More](https://medium.com/p/e3e640abe231) |
-| Tue, 03 Mar 2026 20:59:41 GMT | I Tried Shannon AI: And Discovered Noobs Can Now Do Penetration Testing | Joe Njenga | [Read More](https://medium.com/p/0c257536c9ca) |
-| Tue, 03 Mar 2026 20:55:36 GMT | Snowflake’s Strong Authentication Hub: Turning MFA Enforcement into an Operational Workflow | Pascal Pfäffle | [Read More](https://medium.com/p/4353fe908d3e) |
-| Tue, 03 Mar 2026 20:50:35 GMT | Offensive Security Proving Grounds: Internal | Henry Post | [Read More](https://medium.com/p/bf9087d986fe) |
-| Tue, 03 Mar 2026 20:46:15 GMT | An Article on Why APY Is the Most Misunderstood Metric in DeFi | Babatunde Bello | [Read More](https://medium.com/p/1a41799f57d4) |
-| Tue, 03 Mar 2026 20:41:15 GMT | When War Echoes in the Wires | Gbolahan Akinbola | [Read More](https://medium.com/p/50d704e12b1f) |
-| Tue, 03 Mar 2026 20:34:18 GMT | JavaScript Kodunu Gizlemek: | Meryem Eroğlu | [Read More](https://medium.com/p/695caeac03a8) |
-| Tue, 03 Mar 2026 20:31:00 GMT | I Thought I Was Too Tech-Savvy to Be Scammed. Then It Happened | Cyber Dive | [Read More](https://medium.com/p/afef8c9d3f0c) |
-| Tue, 03 Mar 2026 20:29:52 GMT | From Kinetic Threats to Kinetic Defense: An Elastic-Powered Autonomous Agent for L1/L2 ICS… | Varun Sinha | [Read More](https://medium.com/p/154c6eb763d7) |
-| Tue, 03 Mar 2026 20:27:29 GMT | penguin — CTF writeup-EHAX2026 | wal-z1 | [Read More](https://medium.com/p/f3409359e032) |
-| Tue, 03 Mar 2026 20:21:07 GMT | Ukraine could be the first country to deploy battlefield lasers | Aurel Stratan | [Read More](https://medium.com/p/181ad860655b) |
-| Tue, 03 Mar 2026 20:20:37 GMT | # 808080 – CTF Write-up-EHAX CTF2026 | wal-z1 | [Read More](https://medium.com/p/721cc22e9be3) |
-| Tue, 03 Mar 2026 20:18:09 GMT | Threat Intelligence Integration in SIEM: Enhancing Wazuh for Modern SOC Operations | Sadequzzaman Shohan | [Read More](https://medium.com/p/e5e4e33b973a) |
-| Tue, 03 Mar 2026 20:16:59 GMT | New Microsoft 365 Security Configurations to Review in 2025 | Ryan Adams | [Read More](https://medium.com/p/a677983b56cb) |
-| Tue, 03 Mar 2026 20:12:34 GMT | The Cyber Frontlines: How Digital Warfare is Redefining the Iran-Israel-US Conflict | Huzaifazeeshan | [Read More](https://medium.com/p/ba73b228da4e) |
-| Tue, 03 Mar 2026 20:09:11 GMT | What is a Rambo Attack in Cybersecurity? | Amanuzzaman M | [Read More](https://medium.com/p/5f36247811c9) |
-| Tue, 03 Mar 2026 19:59:00 GMT | The Invisible Enemy | Alexander Chase Doty | [Read More](https://medium.com/p/ebd83d684c5e) |
-| Tue, 03 Mar 2026 19:58:24 GMT | Educational Technology for Newbies | Jayden Clark | [Read More](https://medium.com/p/ef72d7637593) |
-| Tue, 03 Mar 2026 19:56:28 GMT | Your Users Are Still Using ‘password123’ in 2026. Here’s How I Built an API to Stop Them. | Devashish Gupta | [Read More](https://medium.com/p/d98c2a13c716) |
-| Tue, 03 Mar 2026 19:44:03 GMT | Firewall Annoyed Me: So I Built ufWall | Ansari | [Read More](https://medium.com/p/afa0b99f1dc2) |
