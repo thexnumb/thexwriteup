@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Mar 2026 13:53:54 GMT | Laporan Praktikum Struktur Data : Stack Dalam Pyhton | Cahyoadi | [Read More](https://medium.com/p/02ec52079679) |
+| Wed, 04 Mar 2026 13:51:29 GMT | Hackviser Write-up [EN / TR] — Stored XSS in Anchor Href Attribute HTML-Encoded | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/2566946d47d8) |
+| Wed, 04 Mar 2026 13:51:12 GMT | How Blockchain Is Transforming Document Security and Becoming the Notary of the Digital Age | Legal Chain | [Read More](https://medium.com/p/ca20b297cc25) |
+| Wed, 04 Mar 2026 13:49:22 GMT | Cyberattack Exposes 15.8 Million Medical Records, Including Sensitive Health Details | VertexMD | [Read More](https://medium.com/p/6e08922da7c6) |
+| Wed, 04 Mar 2026 13:48:49 GMT | Como profissionais de cibersegurança podem ajudar na Black Friday? | Alex Feleol | [Read More](https://medium.com/p/cc19b3952b8e) |
+| Wed, 04 Mar 2026 13:43:35 GMT | How the WhatsApp worm spreads automatically — Real life analysis | Umang Mishra | [Read More](https://medium.com/p/8cc39cc6a062) |
+| Wed, 04 Mar 2026 13:42:21 GMT | Boss of the SOC v1: Threat Hunting with Splunk - samclass | AbbasMurshid | [Read More](https://medium.com/p/9b0e931c8d7d) |
+| Wed, 04 Mar 2026 13:42:06 GMT | CPL — Final Override CTF SEE Challenge WriteUp. | z3r0trac3 | [Read More](https://medium.com/p/9e3e36f83433) |
+| Wed, 04 Mar 2026 13:41:52 GMT | Every Fintech company should be a cybersecurity company | Aham Uzoma | [Read More](https://medium.com/p/f84fea5a3d00) |
+| Wed, 04 Mar 2026 13:38:12 GMT | How I Found a Hidden Role in JavaScript That Became a Permanent Backdoor. | 0xhun73r | [Read More](https://medium.com/p/d78acb8b81af) |
+| Wed, 04 Mar 2026 13:18:06 GMT | Vulnerability Data Enrichment for CVE Records: 259 CNAs on the Enrichment Recognition List for… | CVE Program Blog | [Read More](https://medium.com/p/4c7e42797059) |
+| Wed, 04 Mar 2026 13:15:51 GMT | Centralized Crypto Exchange Development: Core Concepts | John Galt | [Read More](https://medium.com/p/3918988dec71) |
+| Wed, 04 Mar 2026 13:09:53 GMT | The Internet Is Full of Vulnerabilities — TrinetLayer Helps You Find Them | Researchbynidhi | [Read More](https://medium.com/p/2fd4ff34adba) |
+| Wed, 04 Mar 2026 12:57:34 GMT | When Missiles Launch, Malware Follows: The Hidden Cyberwar Behind the Iran Strikes | Ananthuharikumar | [Read More](https://medium.com/p/1b045c58c386) |
+| Wed, 04 Mar 2026 12:57:13 GMT | Cultivating attentiveness for a Multispecies World | Sheeba Amir | [Read More](https://medium.com/p/3a9ac409a9a9) |
 | Wed, 04 Mar 2026 12:52:26 GMT | Leaked US Cyberweapons, Apple’s M5 Chips, and Anduril’s $60B Valuation - The Daily Tech Digest: 04… | Souren Stepanyan | [Read More](https://medium.com/p/20dd7d1f5198) |
 | Wed, 04 Mar 2026 12:50:06 GMT | TryHackMe Slingshot: I Watched an Attacker Steal a Customer Database in Real Time | sn0x | [Read More](https://medium.com/p/a34784d584a5) |
 | Wed, 04 Mar 2026 12:45:47 GMT | The KDD Dataset: A Beginner’s Guide to the Most Famous Benchmark in Intrusion Detection | Zineb Hidila, PhD | [Read More](https://medium.com/p/49765f83adf4) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Mar 2026 06:49:49 GMT | Turning Wazuh Into an AI-Powered Security Assistant with MCP | Tahir hussain | [Read More](https://medium.com/p/18cb8ef6575d) |
 | Wed, 04 Mar 2026 06:49:47 GMT | Your Bank’s AI Can Be Fooled By a Single Pixel Change. Here’s How. | Dhanush N | [Read More](https://medium.com/p/1f9f1d0cb90e) |
 | Wed, 04 Mar 2026 06:49:11 GMT | EventID-263 - SOC-287 -  LetsDefend | Soumodeep Das | [Read More](https://medium.com/p/480d36828ace) |
-| Wed, 04 Mar 2026 06:46:57 GMT | Scribd’s Public-by-Default Model and the Quiet Risk of Discoverability | Vasuki | [Read More](https://medium.com/p/aa9976da1d72) |
-| Wed, 04 Mar 2026 06:45:29 GMT | Mastering TShark for Network Forensics: PsExec Hunt Lab Walkthrough | Allif Maulana Sakti | [Read More](https://medium.com/p/99a6e84f9f4d) |
-| Wed, 04 Mar 2026 06:44:16 GMT | Holy robot (vacuum) army Batman! | Adam Spencer | [Read More](https://medium.com/p/c6d34d5af8a8) |
-| Wed, 04 Mar 2026 06:34:28 GMT | Web Application Security: Hands-On Practice (Chapter 13 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/310057b183bd) |
-| Wed, 04 Mar 2026 06:33:59 GMT | Assessment Methodologies: Enumeration CTF 1 | Prasad | [Read More](https://medium.com/p/0cef0ff6fa3c) |
-| Wed, 04 Mar 2026 06:27:09 GMT | How Hackers Attack Websites | Saiful Gazi | [Read More](https://medium.com/p/e913e950d048) |
-| Wed, 04 Mar 2026 06:27:07 GMT | CeWL vs Crunch: How to Build Smart Wordlists for Bug Bounty Recon | ghostyjoe | [Read More](https://medium.com/p/b9e0658dd370) |
-| Wed, 04 Mar 2026 06:23:36 GMT | ProofOfRank Exchange Insight: Toobit — Strengths & Areas for Improvement | ProofOfRank | [Read More](https://medium.com/p/b6093353e6f2) |
-| Wed, 04 Mar 2026 06:20:57 GMT | How Did Google Implement Post-Quantum Certificate Transparency? | Gokul B Alex | [Read More](https://medium.com/p/b70af98bc4ff) |
-| Wed, 04 Mar 2026 06:19:24 GMT | The 3-Day Fast: My Body Ate Itself, and My Focus Spiked 40% | Adi Insights and Innovations | [Read More](https://medium.com/p/afefcaa95c2f) |
-| Wed, 04 Mar 2026 06:02:52 GMT | From Magic to Monster: How Moltbot (OpenClaw) Changed the World | Joe Ward | [Read More](https://medium.com/p/f9e51a9ed9d5) |
-| Wed, 04 Mar 2026 05:56:06 GMT | Proven Success with Ethical Hacking Course in Trivandrum Training Center | Niranjandotnot | [Read More](https://medium.com/p/2530d8bc816e) |
-| Wed, 04 Mar 2026 05:53:41 GMT | Why the Military Might Survive Even After Global Unification | Dr. Nyang | [Read More](https://medium.com/p/22c93e9d66f9) |
-| Wed, 04 Mar 2026 05:50:11 GMT | Cyber and Space as Primary Instruments of Modern Warfare: Strategic Implications of the Pentagon’s… | CCD-IS | [Read More](https://medium.com/p/e021de0cdb06) |
-| Wed, 04 Mar 2026 05:48:54 GMT | Certified Bug Bounty Hunter (CBBH) Course in India - Ethical Hacking Training with Practical Labs —… | mrweb secure | [Read More](https://medium.com/p/6cbb52c4ddcd) |
