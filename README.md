@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Mar 2026 04:01:52 GMT | — | Fethallah Abdelkader GHELLAIMI | [Read More](https://medium.com/p/ab89f732ec36) |
+| Wed, 04 Mar 2026 03:54:13 GMT | What are the top ten headlines in the news right now? | Miraal Elliott | [Read More](https://medium.com/p/077b3468d9f6) |
+| Wed, 04 Mar 2026 03:46:05 GMT | Telegram and the Architectural Formalization of the Access Layer through OIDC | Anton Minin Baranovskii | [Read More](https://medium.com/p/86b7d2f8409b) |
+| Wed, 04 Mar 2026 03:39:55 GMT | aSTEAM Village Metaverse Stadium Design, Finance, and Build Challenge Seeks Immediate Sponsorship | Andrew Williams Jr | [Read More](https://medium.com/p/f750d083263e) |
+| Wed, 04 Mar 2026 03:36:48 GMT | Developments from the world of technology as of today: | Miraal Elliott | [Read More](https://medium.com/p/f64870596257) |
+| Wed, 04 Mar 2026 03:31:00 GMT | The Identity Exposure Gap That Makes SME Cloud Teams Safer Targets in 2026 | Jaymeet Patel | [Read More](https://medium.com/p/ab0c17675883) |
+| Wed, 04 Mar 2026 03:30:47 GMT | Hackers: Protectors of the Internet or Digital Criminals? | Abhishek Kumar Maury | [Read More](https://medium.com/p/2fbaf4d98f4c) |
+| Wed, 04 Mar 2026 03:20:59 GMT | Using OpenClaw Safely for Bug Bounty | ghostyjoe | [Read More](https://medium.com/p/c9e3317f0481) |
+| Wed, 04 Mar 2026 03:17:58 GMT | Stop Blaming Machines: Reveal the Real Causes of Downtime with Data | Dongha | [Read More](https://medium.com/p/8a2e0e721d88) |
+| Wed, 04 Mar 2026 02:55:04 GMT | What is active Directory | Kevin Ronex | [Read More](https://medium.com/p/5769b81fd041) |
+| Wed, 04 Mar 2026 02:48:52 GMT | I Built a Log Analyzer That Detects Cyberattacks — Here’s How It Works | Sanketh Subhas | [Read More](https://medium.com/p/0427c91f47bc) |
+| Wed, 04 Mar 2026 02:48:24 GMT | HackMyVM: Lazzycorp Writeup | Antonio | [Read More](https://medium.com/p/a5a18b4999e6) |
+| Wed, 04 Mar 2026 02:34:43 GMT | The Invisible Trail: What is a Digital Footprint ? | Vidoq | [Read More](https://medium.com/p/91baf8c02134) |
+| Wed, 04 Mar 2026 02:31:00 GMT | I Scroll My Contacts and Text Myself Instead | Wareaha | [Read More](https://medium.com/p/88c9859a71cc) |
+| Wed, 04 Mar 2026 02:18:37 GMT | My Magnet Virtual Summit CTF 2026 Experience | Joshua Hee | [Read More](https://medium.com/p/ccde033309b4) |
 | Wed, 04 Mar 2026 01:50:38 GMT | I Taught Claude Code to Be a Security Auditor. | Hafiq Iqmal | [Read More](https://medium.com/p/ae315011d2ed) |
 | Wed, 04 Mar 2026 01:34:39 GMT | Linux Log Analysis in Action: Solving HTB Sherlock ‘Brutus’ | Allif Maulana Sakti | [Read More](https://medium.com/p/da0211d7a457) |
 | Wed, 04 Mar 2026 01:31:00 GMT | How Recruiters Actually Read a Cybersecurity Resume | Manubhav Sharma | [Read More](https://medium.com/p/286704b82012) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Mar 2026 18:16:33 GMT | Trezor-Crypto Scammer Unmasked | Prtheus | [Read More](https://medium.com/p/8f0f657e7779) |
 | Tue, 03 Mar 2026 18:11:14 GMT | Confused About Cybersecurity Careers? | Shahzaib | [Read More](https://medium.com/p/62c566090630) |
 | Tue, 03 Mar 2026 17:58:30 GMT | Washington DC Cyber Security Company - Advanced Network & Data Protection Services | Qriyalowe | [Read More](https://medium.com/p/9f8bed6588af) |
-| Tue, 03 Mar 2026 17:56:55 GMT | NGINX Secure Deployment & Hardening Guide — CIS Benchmarks | SOCFortress | [Read More](https://medium.com/p/dc68b5938843) |
-| Tue, 03 Mar 2026 17:53:45 GMT | A Brand New Study Just Solved Yesterday’s Problem | Berend Watchus | [Read More](https://medium.com/p/4b7e1f12a580) |
-| Tue, 03 Mar 2026 17:49:34 GMT | I’ve been running | Susana | [Read More](https://medium.com/p/674f94bb9c78) |
-| Tue, 03 Mar 2026 17:46:00 GMT | Where High-Net-Worth Families Store Inheritance Access Details Securely | InheritSafe | [Read More](https://medium.com/p/1381ae955386) |
-| Tue, 03 Mar 2026 17:45:32 GMT | Why Access Token + Refresh Token? | Rashi | [Read More](https://medium.com/p/149142381cf8) |
-| Tue, 03 Mar 2026 17:43:13 GMT | I Built My Entire Startup Operating System in Claude Code. Here’s What Actually Happened | Assaf | [Read More](https://medium.com/p/3ab922957afa) |
-| Tue, 03 Mar 2026 17:42:00 GMT | Lookup-A TryHackMe Writeup | 0x77 | [Read More](https://medium.com/p/63710b4367fe) |
-| Tue, 03 Mar 2026 17:41:48 GMT | Post-Quantum Readiness in Django: Preparing Your Encryption for the 2026 Security Standards | Yogeshkrishnanseeniraj | [Read More](https://medium.com/p/f0b532763dfc) |
-| Tue, 03 Mar 2026 17:38:57 GMT | A Smarter Way to Prepare Google and Apple Account Recovery for the People You Leave Behind | Olivia Martillo | [Read More](https://medium.com/p/210df49ec8c1) |
-| Tue, 03 Mar 2026 17:33:05 GMT | If Dr. Richard Pearson’s Torture in Washington, DC, is Scaled, Vast Segments of Population Harmed | Darton Arnold | [Read More](https://medium.com/p/aa8ee4eb76ef) |
-| Tue, 03 Mar 2026 17:31:59 GMT | Active Directory 3.0: Why Your 2026 Identity Strategy is Failing Without AI | Dennischacko | [Read More](https://medium.com/p/ddd83daf6aef) |
-| Tue, 03 Mar 2026 17:31:01 GMT | ToolsRus walkthrough (TryHackMe) | Crystalcascade14 | [Read More](https://medium.com/p/44882ab42935) |
-| Tue, 03 Mar 2026 17:29:46 GMT | Siber Pusula #1 -Hacking MSSQL Server — Impersonate CyberExam | Toprak Külekçioğlu | [Read More](https://medium.com/p/b4ff381a1d8a) |
-| Tue, 03 Mar 2026 17:26:58 GMT | Where I Shrink When I’m Comfortable | Rejoice Moses | [Read More](https://medium.com/p/28154708b3c3) |
-| Tue, 03 Mar 2026 17:23:11 GMT | AI Security Revolution: From San Diego to the US | Teona | [Read More](https://medium.com/p/8acaa8fcb3e2) |
