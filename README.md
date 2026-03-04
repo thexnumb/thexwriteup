@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Mar 2026 15:58:25 GMT | AI & LLM Security: Hacking the Brain of 2026 | Axoloth | [Read More](https://medium.com/p/199944abdc82) |
+| Wed, 04 Mar 2026 15:52:15 GMT | From Innovation to Escalation: The AI Arms Race Is No Longer Theoretical | Len Noe | [Read More](https://medium.com/p/0b0d047e3d8d) |
+| Wed, 04 Mar 2026 15:48:01 GMT | Ph4nt0m 1ntrud3r - Digital Forensics Challenge | Xinlisalim | [Read More](https://medium.com/p/cdf62a368fa8) |
+| Wed, 04 Mar 2026 15:47:45 GMT | Cybersecurity in Bangladesh 2026: Challenges, Trends & Strategic Imperatives | Sam Walker | [Read More](https://medium.com/p/824a56cf0cd7) |
+| Wed, 04 Mar 2026 15:45:26 GMT | The Friction Illusion Why Smart Money Treats Japan as a Financial Bunker | Konoe | [Read More](https://medium.com/p/ad7d51eaf25a) |
+| Wed, 04 Mar 2026 15:41:08 GMT | Hybrid Join vs Microsoft Entra Join with Windows Autopilot: What IT Teams Actually Need to Know | Opsole Migrate | [Read More](https://medium.com/p/90f5efc98db1) |
+| Wed, 04 Mar 2026 15:36:36 GMT | HTB Bashed Writeup: From phpbash WebShell to Root via Cron Job Abuse | Onurcan Genç | [Read More](https://medium.com/p/009592015dc3) |
+| Wed, 04 Mar 2026 15:34:36 GMT | The Hidden Problem in Construction Projects: Poor Sound Performance | Cocokelapa64 | [Read More](https://medium.com/p/128e6ce92ca3) |
+| Wed, 04 Mar 2026 15:34:22 GMT | I Simulated an SSH Brute-Force Attack on My Home Lab — Then Caught It in Splunk | Kimberly Kuya | [Read More](https://medium.com/p/e4ed29a3524e) |
+| Wed, 04 Mar 2026 15:26:05 GMT | Web Exploitation Writeup — Client-Side Exposure & Cookie Analysis | Midhun S | [Read More](https://medium.com/p/16bb789d59f5) |
+| Wed, 04 Mar 2026 15:25:40 GMT | Digital Forensics Writeup — Metadata, Corruption & Macro Analysis | Midhun S | [Read More](https://medium.com/p/25e8c3c6b57e) |
+| Wed, 04 Mar 2026 15:24:14 GMT | Wardriving: Red Team Research | Zerone Security | [Read More](https://medium.com/p/376501d2f3e8) |
+| Wed, 04 Mar 2026 15:16:07 GMT | Attacking Kiosk Devices: Red Team Research | Zerone Security | [Read More](https://medium.com/p/bfe586da8adf) |
+| Wed, 04 Mar 2026 15:00:54 GMT | Learning about Cryptography/Ratchets part 1 of ? | cyberpunkwitch | [Read More](https://medium.com/p/bdfed57cafa8) |
 | Wed, 04 Mar 2026 14:50:37 GMT | Week 3 PicoCTF-Ph4nt0m 1ntrud3r | Artha Bangkit Auliano | [Read More](https://medium.com/p/15cde1528da3) |
 | Wed, 04 Mar 2026 14:45:20 GMT | #5 From RSS to Threat Hunt: Turning News into Detection Queries with an AI CTI Module | TheMachine | [Read More](https://medium.com/p/f3fbff389a86) |
 | Wed, 04 Mar 2026 14:43:57 GMT | Analisis Malware Android Pada PT. POS Indonesia.apk | Alfin Syahrin | [Read More](https://medium.com/p/b7ba3945d5b9) |
@@ -26,6 +40,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Mar 2026 14:11:00 GMT | Does the Moon Have a Medium Account? Because My Horoscope was Super Spot On… | Susan League | [Read More](https://medium.com/p/b8be16c893fd) |
 | Wed, 04 Mar 2026 14:04:45 GMT | flu Walkthrough (proving ground) | cyber_public_school | [Read More](https://medium.com/p/70a5ed1ef30b) |
 | Wed, 04 Mar 2026 14:02:09 GMT | CISA Warns About Actively Exploited VMware Aria Operations Vulnerability | Sharanraju | [Read More](https://medium.com/p/9bd935f2acd6) |
+| Wed, 04 Mar 2026 14:01:25 GMT | Analisis Malware APK “PT. POS Indonesia.apk” Menggunakan MobSF dan jadx.gui (Bootcamp Task5) | Muhammaddavidfirmansyah | [Read More](https://medium.com/p/5982fbccae9c) |
 | Wed, 04 Mar 2026 13:58:34 GMT | The Quarantine Room of Cybersecurity: What is a Sandbox and Why Does It Matter? | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/49988912c58b) |
 | Wed, 04 Mar 2026 13:53:54 GMT | Laporan Praktikum Struktur Data : Stack Dalam Pyhton | Cahyoadi | [Read More](https://medium.com/p/02ec52079679) |
 | Wed, 04 Mar 2026 13:51:29 GMT | Hackviser Write-up [EN / TR] — Stored XSS in Anchor Href Attribute HTML-Encoded | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/2566946d47d8) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Mar 2026 09:07:29 GMT | Critical Review: “Obstacles to the Adoption of Secure Communication Tools” (Abu-Salma et al., 2017) | Yoki Oktorian Sukardi | [Read More](https://medium.com/p/f1432116bc2f) |
 | Wed, 04 Mar 2026 09:01:01 GMT | What Founders Misunderstand About Compliance | Gaurav Shukla | [Read More](https://medium.com/p/859f37bc52c7) |
 | Wed, 04 Mar 2026 08:59:41 GMT | I Found Valid VPN Credentials for 7 Out of 10 Companies I Searched | Alexandre Vandamme | [Read More](https://medium.com/p/62b583f713df) |
-| Wed, 04 Mar 2026 08:52:50 GMT | TryHackMe - Mr Robot CTF Writeup | giorgi gochitidze | [Read More](https://medium.com/p/396290ce5abf) |
-| Wed, 04 Mar 2026 08:52:48 GMT | How I Document Threat Campaigns as a CTI Analyst — A Real Report Sample | Palupidyahr | [Read More](https://medium.com/p/21d211fd2733) |
-| Wed, 04 Mar 2026 08:39:34 GMT | Account Compromise: First 60 Minutes Response Guide | Geoffrey Wenger | [Read More](https://medium.com/p/fcbab392fcaa) |
-| Wed, 04 Mar 2026 08:33:05 GMT | Context Is Everything: A Practical Guide to XSS | Marduk I Am | [Read More](https://medium.com/p/eff8d30421df) |
-| Wed, 04 Mar 2026 08:32:00 GMT | Path Traversal | Abdulnafayk | [Read More](https://medium.com/p/7b0c9f455eb4) |
-| Wed, 04 Mar 2026 08:28:31 GMT | Why Small Businesses Are the Number One Target for Cyberattacks | asma usman | [Read More](https://medium.com/p/af19a325e145) |
-| Wed, 04 Mar 2026 08:27:36 GMT | How I Use MITRE ATT&CK Navigator | Palupidyahr | [Read More](https://medium.com/p/931c2da520aa) |
-| Wed, 04 Mar 2026 08:12:56 GMT | 10 Ways I’m Protecting My Professional Identity in 2026 | Emory French | [Read More](https://medium.com/p/5ee15795dbb5) |
-| Wed, 04 Mar 2026 08:08:18 GMT | The AI Security Paradox | CyberTrails by Mildred Owens | [Read More](https://medium.com/p/40d016a53b74) |
-| Wed, 04 Mar 2026 08:00:19 GMT | Hardware Isolation for Data Security | TrustKernel | [Read More](https://medium.com/p/b42da38b8a41) |
-| Wed, 04 Mar 2026 07:59:22 GMT | CyberDefenders — WebStrike Lab | 0w0 | [Read More](https://medium.com/p/38877008a0a3) |
-| Wed, 04 Mar 2026 07:58:20 GMT | AWS Networking: Satpam Komplek vs Petugas Paspor (Subnet, NACL, & Security Group) | dikidian | [Read More](https://medium.com/p/3174bf5ab10f) |
-| Wed, 04 Mar 2026 07:55:40 GMT | The Cybersecurity Tool Sprawl Problem: How to Organize & Maintain Your Security Toolkit | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/3447b85f8a31) |
-| Wed, 04 Mar 2026 07:55:40 GMT | Building an Enterprise .NET 10 API — Part 2: Security & Authentication | Marc Kenneth Lomio & Melrose Mejidana | [Read More](https://medium.com/p/756ebf99bc7a) |
-| Wed, 04 Mar 2026 07:52:17 GMT | The Rise of AI in PRC Influence Operations: Nine Takeaways from the GoLaxy Documents | Doublethink Lab | [Read More](https://medium.com/p/2d6617a753e5) |
