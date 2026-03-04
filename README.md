@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Mar 2026 17:54:06 GMT | Online Romance and Escort Scams: How Fake Female Profiles Trick Victims Into Sending Money | Mr Technology | [Read More](https://medium.com/p/26f1aba14239) |
+| Wed, 04 Mar 2026 17:53:19 GMT | Python Programming - Educational Simplified TCP and UDP Protocol Packet Transmission Experiment-TCP | Wisdomapple | [Read More](https://medium.com/p/e0c54f0c43bd) |
+| Wed, 04 Mar 2026 17:52:29 GMT | Introduction to DOM Based Open Redirection | Naveen TK | [Read More](https://medium.com/p/fd248b34bdd0) |
+| Wed, 04 Mar 2026 17:51:00 GMT | With LLMs, everyone goes terminal. | Mohammed Brückner | [Read More](https://medium.com/p/4579d89352b4) |
+| Wed, 04 Mar 2026 17:49:51 GMT | Detecting Suspicious Login Activity Using Splunk (Beginner SOC Use Case) | mr | [Read More](https://medium.com/p/827eb70f7f7e) |
+| Wed, 04 Mar 2026 17:42:26 GMT | Decoding the Tycoon 2FA Phishing Kit Bust-Why Attackers Are Targeting Multi-Factor Authentication | Chetan Seripally | [Read More](https://medium.com/p/dc99e2c6c57c) |
+| Wed, 04 Mar 2026 17:40:20 GMT | Alphabet Soup: LotL Shellcode Obfuscation | Tom O'Neill | [Read More](https://medium.com/p/891667a6ee46) |
+| Wed, 04 Mar 2026 17:38:57 GMT | How a Simple RBAC Mistake Led to a $30K+ Admin Takeover | seek-404 | [Read More](https://medium.com/p/0533913c8383) |
+| Wed, 04 Mar 2026 17:35:15 GMT | ISO/IEC 42001 — Standard for Artificial Intelligence (AI) management systems — Part I: Planning for… | SOCFortress | [Read More](https://medium.com/p/d3cf5b87c045) |
+| Wed, 04 Mar 2026 17:34:29 GMT | Shellerator: A simple yet powerful CLI tool to generate reverse, bind and web shells | 0liverFlow | [Read More](https://medium.com/p/2af033731d65) |
+| Wed, 04 Mar 2026 17:28:50 GMT | Building an AI-Driven Cloud Threat Detection Platform | Gowtham Revanur | [Read More](https://medium.com/p/e82b8d6d28e0) |
+| Wed, 04 Mar 2026 17:24:05 GMT | When Faces Are No Longer Real: The Hidden Dangers of Deepfake and Morphing Technology | MrKarthikKN | [Read More](https://medium.com/p/21fd869d1560) |
+| Wed, 04 Mar 2026 17:23:09 GMT | 4 Stocks to Watch in 2026 | Motion Bloc | [Read More](https://medium.com/p/6ed47d89dce1) |
+| Wed, 04 Mar 2026 17:19:15 GMT | OpenClaw Vulnerability (ClawJacked) Explained: How Malicious Websites Hijacked AI Agents | IT_Engineer | [Read More](https://medium.com/p/ecc64d073235) |
+| Wed, 04 Mar 2026 17:16:08 GMT | The “Coat-Check” Method. Session-Based Auth and the “Cookie Tax” | Alina Kovtun✨ | [Read More](https://medium.com/p/cf81f252204d) |
+| Wed, 04 Mar 2026 17:13:23 GMT | The Danger of the “State Police” Gamble in Nigeria | I. NAJEEB | [Read More](https://medium.com/p/fd32f11cf19f) |
+| Wed, 04 Mar 2026 17:07:07 GMT | I Built a Free Prompt Kit That Helps Bug Bounty Hunters Get More P1s With Any AI | Md Tanjimul Islam Sifat | [Read More](https://medium.com/p/e5ba6c295c45) |
 | Wed, 04 Mar 2026 16:57:40 GMT | Static Analysis Android Malware: APK “PT POS INDONESIA -2_3.apk” | Abyan Zikra | [Read More](https://medium.com/p/56eeb7647962) |
 | Wed, 04 Mar 2026 16:54:03 GMT | Health, Forgetfulness, and the Hunger to Be Known | Mark Sanford, Ph.D. | [Read More](https://medium.com/p/57e9d340f372) |
 | Wed, 04 Mar 2026 16:51:00 GMT | Private Endpoint DNS Checklist (What to Verify, in Order) | Practical IT | [Read More](https://medium.com/p/6ba981f87af2) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Mar 2026 11:15:37 GMT | Solving a Bugforge Challenge — Exploiting Refund Logic in Cheesy Does It | Pranaya Shrestha | [Read More](https://medium.com/p/239cb12c92e2) |
 | Wed, 04 Mar 2026 11:07:03 GMT | Implementing Tor blocking in AWS WAF after Cloudflare | Alexandr Ivenin | [Read More](https://medium.com/p/5feee0ba13fa) |
 | Wed, 04 Mar 2026 11:06:25 GMT | GRUB2 Use-After-Free Vulnerability on RHEL: Fix CVE-2025–0622 | Emilyharbord | [Read More](https://medium.com/p/c789b92b8902) |
-| Wed, 04 Mar 2026 11:06:00 GMT | What we learned securing AI agents in production | deepsense.ai | [Read More](https://medium.com/p/7d325cbc4155) |
-| Wed, 04 Mar 2026 11:03:15 GMT | How SSenStone Hardens IoT and PLC Edge Security With Server-Side Secretless Authentication | David SEHYEON Baek | [Read More](https://medium.com/p/b4e6805095d0) |
-| Wed, 04 Mar 2026 10:51:02 GMT | In an era where data is the new currency, APIs are the vaults. | Chinaza Emmanuela Obidike | [Read More](https://medium.com/p/afe4aa95d440) |
-| Wed, 04 Mar 2026 10:46:32 GMT | Containers Are Not a Security Boundary. Designing Secure Multi-Tenant Code Execution on Kubernetes. | Christian Del Monte | [Read More](https://medium.com/p/054a63d438c5) |
-| Wed, 04 Mar 2026 10:44:06 GMT | Remote Firmware Injection in Popular Solar Inverters | Marlon Starkloff | [Read More](https://medium.com/p/3eed6a8131f4) |
-| Wed, 04 Mar 2026 10:42:38 GMT | Recon Is Not Scanning | Fateyaly | [Read More](https://medium.com/p/d3e9b24f189c) |
-| Wed, 04 Mar 2026 10:35:20 GMT | What is klr login service 137? | Mohd Azher | [Read More](https://medium.com/p/bad03dd3d03d) |
-| Wed, 04 Mar 2026 10:33:02 GMT | No One Was Watching: Simple Web Skimming Campaign That Actually Worked | Oran F | [Read More](https://medium.com/p/870ca026a273) |
-| Wed, 04 Mar 2026 10:22:41 GMT | Secrets management in Docker Compose: .env, SOPS, Bitwarden, and the “good enough” threat model | Thomas Byern | [Read More](https://medium.com/p/2bbc6d8e1064) |
-| Wed, 04 Mar 2026 10:21:25 GMT | FusionCorp — TryHackMe Writeup | Rolando Enriquez | [Read More](https://medium.com/p/bc9c0386d560) |
-| Wed, 04 Mar 2026 10:20:08 GMT | EntroGuard — Day 8 | Nisarg Patel | [Read More](https://medium.com/p/810d33d59df1) |
-| Wed, 04 Mar 2026 10:16:21 GMT | The Linux Security Journey — auditd (Auditing Daemon) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/c53b4e4a19f8) |
-| Wed, 04 Mar 2026 10:12:15 GMT | SentinelOne Detection Center — Library Rules, Emerging Threats, and What It All Actually Means | Dean | [Read More](https://medium.com/p/f0b06ccf2512) |
-| Wed, 04 Mar 2026 10:10:11 GMT | Information About the RAM and Processor | KRISHNA VERNEKAR | [Read More](https://medium.com/p/a8502a455ffa) |
-| Wed, 04 Mar 2026 10:08:40 GMT | What Is Zero-Knowledge Secrets Management for AI Agents? | Wisdomademiju | [Read More](https://medium.com/p/c73af6823264) |
-| Wed, 04 Mar 2026 10:06:29 GMT | TryHackMe: Wonderland (Full Raw Walkthrough) | Vinay trivedi | [Read More](https://medium.com/p/64d1de06999c) |
-| Wed, 04 Mar 2026 10:05:09 GMT | How 54 Percent of Cyberattacks Go Completely Unnoticed | Merryusman | [Read More](https://medium.com/p/f2d3fcdb2ae0) |
