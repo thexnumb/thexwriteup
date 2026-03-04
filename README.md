@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Mar 2026 05:07:29 GMT | Digital Technology Information for Startup Innovation | Ga Bisa SEO | [Read More](https://medium.com/p/32e51fbb751b) |
+| Wed, 04 Mar 2026 05:03:59 GMT | Cyber Business Interruption: How to Protect Your Business from Digital Disruptions | Mandanakkalakshmipriya | [Read More](https://medium.com/p/1380313d5570) |
+| Wed, 04 Mar 2026 05:00:42 GMT | Proving Grounds — Practice — Flimsy | Makoyi | [Read More](https://medium.com/p/12cecfedb257) |
+| Wed, 04 Mar 2026 04:59:29 GMT | Become a Pro with an Ethical Hacking Course in Trivandrum | Niranjandotnot | [Read More](https://medium.com/p/5ec0a6b89647) |
+| Wed, 04 Mar 2026 04:55:50 GMT | PsExec Hunt Lab — CyberDefenders Write Up | Najafghifari | [Read More](https://medium.com/p/313e4c9e7c8b) |
+| Wed, 04 Mar 2026 04:54:21 GMT | 5G vs. Jamming: How the Iran- USA Conflict (2026) Exposed Next-Gen Network Vulnerabilities | Tarush Sharma | [Read More](https://medium.com/p/4e10aabefe0c) |
+| Wed, 04 Mar 2026 04:48:02 GMT | From Risk Data to AI Governance: How BCBS 239 Became the Foundation of Sovereign AI in Banking | Robert Saghafi | [Read More](https://medium.com/p/26813e0bdf8a) |
+| Wed, 04 Mar 2026 04:46:42 GMT | Career Opportunities in Ethical Hacking | Jhoninternship | [Read More](https://medium.com/p/43aed58621b5) |
+| Wed, 04 Mar 2026 04:31:01 GMT | Agent Safety Gates: 12 Preflight Checks Before Tools Run | Thinking Loop | [Read More](https://medium.com/p/ecf1c41ba252) |
+| Wed, 04 Mar 2026 04:25:23 GMT | Corporate Greed Chronicles: Profits Soar, People Plummet at Block Inc. | Namir Sagheenanajar | [Read More](https://medium.com/p/1bfda22bed42) |
+| Wed, 04 Mar 2026 04:07:53 GMT | Monitoring AWS Services - TryHackme - Splunk | Jose Praveen | [Read More](https://medium.com/p/1f02d12faf35) |
 | Wed, 04 Mar 2026 04:01:52 GMT | — | Fethallah Abdelkader GHELLAIMI | [Read More](https://medium.com/p/ab89f732ec36) |
 | Wed, 04 Mar 2026 03:54:13 GMT | What are the top ten headlines in the news right now? | Miraal Elliott | [Read More](https://medium.com/p/077b3468d9f6) |
 | Wed, 04 Mar 2026 03:46:05 GMT | Telegram and the Architectural Formalization of the Access Layer through OIDC | Anton Minin Baranovskii | [Read More](https://medium.com/p/86b7d2f8409b) |
@@ -68,6 +79,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Mar 2026 21:56:34 GMT | How to Fix “App Not Installed” Error (All Solutions) | Sohail Khan | [Read More](https://medium.com/p/fff56b5f865d) |
 | Tue, 03 Mar 2026 21:53:53 GMT | Where to Sell GPUs in Bulk: A Practical Guide for AI and Data Center Hardware | Sam Lam | [Read More](https://medium.com/p/7d9c2216f020) |
 | Tue, 03 Mar 2026 21:49:05 GMT | Think Like a Hacker Using Claude | Joshua Goossen | [Read More](https://medium.com/p/47998e404277) |
+| Tue, 03 Mar 2026 21:39:36 GMT | Chronus Mafia: cuando los nombres cambian pero el ecosistema permanece | Hacking en México | [Read More](https://medium.com/p/ebf68f7bf9fa) |
 | Tue, 03 Mar 2026 21:36:24 GMT | Reflective DLL Injection | S12 - 0x12Dark Development | [Read More](https://medium.com/p/9c720868d550) |
 | Tue, 03 Mar 2026 21:19:22 GMT | Analisis malware pada POS.apk Secara Statis dengan mobSF dan Jadx-GUI | L0udbaa | [Read More](https://medium.com/p/c4f3d882b69c) |
 | Tue, 03 Mar 2026 21:13:57 GMT | Infrastructure as a Security Asset: Setting Up Centralized Logging in Azure | Onobrakpeya Efeturi | [Read More](https://medium.com/p/ff4e1dceda91) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 03 Mar 2026 19:23:35 GMT | How Modern Cryptography Was Born: Breaking Old Ciphers and Learning to Prove Security | Adidev Bhattacharya | [Read More](https://medium.com/p/f1e36aff28a9) |
 | Tue, 03 Mar 2026 19:22:48 GMT | Human-in-the-Loop Best Practices for AI-Enabled Digital GMP Manufacturing | Valdez Ladd | [Read More](https://medium.com/p/e60b74908c0a) |
 | Tue, 03 Mar 2026 19:19:53 GMT | How Does M-Pesa Know My PIN Is Wrong? (And Do They Actually Know It?) | Joel Orie | [Read More](https://medium.com/p/eceae75f5e6f) |
-| Tue, 03 Mar 2026 19:15:58 GMT | Siber Pusula #1 -Hacking MSSQL Server — Impersonate CyberExam | Toprak Külekçioğlu | [Read More](https://medium.com/p/6701722f66fa) |
-| Tue, 03 Mar 2026 19:15:55 GMT | Finding Your Place in Cybersecurity: A Beginner’s Journey Through the Three Pillars | Gajanan Tayde | [Read More](https://medium.com/p/6f1a9c2b0118) |
-| Tue, 03 Mar 2026 19:14:28 GMT | The Invoice That Wasn’t: Uncovering a Remcos RAT-Driven Email Abuse Attack | Vignesh Naidu | [Read More](https://medium.com/p/3fa9ff64df0d) |
-| Tue, 03 Mar 2026 19:13:38 GMT | Hackviser Write-up [EN / TR] — Reflected XSS via HTML Attribute Manipulation | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/441c5535f409) |
-| Tue, 03 Mar 2026 19:06:19 GMT | Zero Trust Security: Redefining the Boundaries of Digital Trust | Vasanth Bupathi S | [Read More](https://medium.com/p/2c883c58d311) |
-| Tue, 03 Mar 2026 19:05:07 GMT | SQL Injection (SQLi) | Ahmed Essam | [Read More](https://medium.com/p/ab86f3c6f304) |
-| Tue, 03 Mar 2026 18:56:00 GMT | EU GDPR — Article 27 (Representatives of Controllers or Processors Not Established in the Union) | MDM Team | [Read More](https://medium.com/p/4655b08ef845) |
-| Tue, 03 Mar 2026 18:40:12 GMT | Part 2: Building the Analytics Engine — Automating Vulnerability Tracking with PowerShell | Maxim Patancev | [Read More](https://medium.com/p/edf1356cab72) |
-| Tue, 03 Mar 2026 18:20:06 GMT | I Stopped Watching Random Cybersecurity Videos — And Finally Chose a Path | the copy ninja | [Read More](https://medium.com/p/2c1660eeff34) |
-| Tue, 03 Mar 2026 18:16:33 GMT | Trezor-Crypto Scammer Unmasked | Prtheus | [Read More](https://medium.com/p/8f0f657e7779) |
-| Tue, 03 Mar 2026 18:11:14 GMT | Confused About Cybersecurity Careers? | Shahzaib | [Read More](https://medium.com/p/62c566090630) |
-| Tue, 03 Mar 2026 17:58:30 GMT | Washington DC Cyber Security Company - Advanced Network & Data Protection Services | Qriyalowe | [Read More](https://medium.com/p/9f8bed6588af) |
