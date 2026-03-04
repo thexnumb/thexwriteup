@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Mar 2026 23:31:00 GMT | Confidential Computing: Protecting Data While It’s Being Processed | Rahul Kaklotar | [Read More](https://medium.com/p/3b7085601fbe) |
+| Wed, 04 Mar 2026 23:19:19 GMT | Building a Cybersecurity Home Lab — Part 5.2: Enhanced Auditing / Logging | JBXSec | [Read More](https://medium.com/p/67057f27a20b) |
+| Wed, 04 Mar 2026 23:17:17 GMT | AI and Cybersecurity in Financial Infrastructure: Strategic Risks for the Next Decade | Andres Viña | [Read More](https://medium.com/p/dd7cbdc425b5) |
+| Wed, 04 Mar 2026 23:11:00 GMT | Securing Symfony Applications on Kubernetes with Prisma Cloud | Shingai Zivuku | [Read More](https://medium.com/p/281093e31f1f) |
+| Wed, 04 Mar 2026 23:00:51 GMT | Data Privacy and Security in MLOps | Saidatta Vikram Sabale | [Read More](https://medium.com/p/e2ae06494ced) |
+| Wed, 04 Mar 2026 22:59:03 GMT | Your Home Router Is Spying on You — Here’s How to Stop It | Jazz Cyber Shield | [Read More](https://medium.com/p/894ddf2ef5bd) |
+| Wed, 04 Mar 2026 22:48:56 GMT | Microsoft Defender for Endpoint: Unified, Built-In Endpoint Protection | Ryan Adams | [Read More](https://medium.com/p/c67bed43ed27) |
+| Wed, 04 Mar 2026 22:45:39 GMT | Your AI Strategy Is Probably Broken. Here’s How to Fix It. | Cyber-AppSec | [Read More](https://medium.com/p/141d103a2ea3) |
+| Wed, 04 Mar 2026 22:40:01 GMT | Did You Know Your Images May Contain Hidden Personal Data? | Myimagecompressor | [Read More](https://medium.com/p/cb1d334fb438) |
+| Wed, 04 Mar 2026 22:38:06 GMT | Safeguarding Patient Trust: The Intersection of Cloud Security and Machine Learning in Healthcare… | Gagandeep | [Read More](https://medium.com/p/1f6af14dea20) |
+| Wed, 04 Mar 2026 22:35:11 GMT | Why AI Agents Need Their Own Passports: The Engineering of Autonomous Identity | Soham Dutta | [Read More](https://medium.com/p/28b1f3241361) |
 | Wed, 04 Mar 2026 22:27:21 GMT | The 60-Second Extinction: Why Your Backup Plan is a Fatal Joke | ProfitShield AI | [Read More](https://medium.com/p/4fdf1bbdb1a2) |
 | Wed, 04 Mar 2026 22:23:07 GMT | OSCP Command(Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/bd38997458ff) |
 | Wed, 04 Mar 2026 22:21:00 GMT | The Dependency Trap: Why Modern Software Fails Through Third-Party Fragility | David Jonathan | [Read More](https://medium.com/p/2d307dfd9fbd) |
@@ -60,6 +71,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Mar 2026 18:46:41 GMT | Trust Engines : Secure AI Agents, Data & Decisions by Design | Pradeep Kumar Muthukamatchi | [Read More](https://medium.com/p/eb96b496a073) |
 | Wed, 04 Mar 2026 18:45:31 GMT | AI Security Review Fails in Practice — an analysis of Opus 4.6 | Gadi Bashvitz | [Read More](https://medium.com/p/87af7486efa3) |
 | Wed, 04 Mar 2026 18:43:40 GMT | The AI Coding Revolution | Apolis | [Read More](https://medium.com/p/1319c1334951) |
+| Wed, 04 Mar 2026 18:41:34 GMT | Perjalanan Linux: Dari Kernel Sederhana hingga Ekosistem Global | Neverland Studio | [Read More](https://medium.com/p/d4ae194deee4) |
 | Wed, 04 Mar 2026 18:33:00 GMT | Bluetooth in Cybersecurity | Abderrahim Aoudj | [Read More](https://medium.com/p/ce43b284a2a1) |
 | Wed, 04 Mar 2026 18:25:59 GMT | My framework for success: EAT - Empathy, Authenticity & Transparency | Dhruv Jalota | [Read More](https://medium.com/p/63c5cca270a2) |
 | Wed, 04 Mar 2026 18:21:18 GMT | Nmap for Students: A Simple Guide to Understand Network Scanning (The Right Way) | Abhinabo Roy | [Read More](https://medium.com/p/4fec7225252c) |
@@ -101,15 +113,3 @@ AI-Powered Security Through the Eyes of a Veteran | Miracle Ojo | [Read More](ht
 | Wed, 04 Mar 2026 16:38:06 GMT | Running AI Locally with Ollama and LLaMA 3: Why It’s a Big Deal for Engineers | Little_Sun4lower | [Read More](https://medium.com/p/0ba2f936e652) |
 | Wed, 04 Mar 2026 16:34:19 GMT | Week 3 HTB-Sherlock Brutus | Surya Agung Wicaksono | [Read More](https://medium.com/p/a820bb5ff2d2) |
 | Wed, 04 Mar 2026 16:34:16 GMT | Hidden Deep Into my Heart — THM Lab Writeup | Riad Moudjahed | [Read More](https://medium.com/p/0a6a1401a74a) |
-| Wed, 04 Mar 2026 16:29:48 GMT | How to Manage Multiple Executors Without Creating Access Chaos | InheritSafe | [Read More](https://medium.com/p/d5ae647d4312) |
-| Wed, 04 Mar 2026 16:27:27 GMT | Are Data Centers Good War Targets? | News Folder 19 | [Read More](https://medium.com/p/1b4980e41453) |
-| Wed, 04 Mar 2026 16:24:07 GMT | The Fake Loan App : An OSINT Writeup #4 | Kurious Kakashi | [Read More](https://medium.com/p/efbafb14467f) |
-| Wed, 04 Mar 2026 16:22:56 GMT | Why Endpoint Hardening Has Become Critical in 2026 | Suman Panta | [Read More](https://medium.com/p/ffe34ef5577f) |
-| Wed, 04 Mar 2026 16:19:16 GMT | Sécuriser un site WordPress efficacement en 2026 | Advisuel Freelance site Web Toulouse | [Read More](https://medium.com/p/e386e239b796) |
-| Wed, 04 Mar 2026 16:18:09 GMT | Still stuck between a 4-year degree and a tech career? | Theusamaabdullah | [Read More](https://medium.com/p/4969dd732707) |
-| Wed, 04 Mar 2026 16:17:23 GMT | What is SOC in Cybersecurity | Chima A M | [Read More](https://medium.com/p/dfbfba2d80a2) |
-| Wed, 04 Mar 2026 16:14:53 GMT | The Hidden Workforce Behind Smarter AI Models | Humberto Acosta | [Read More](https://medium.com/p/92f9176dfe5c) |
-| Wed, 04 Mar 2026 16:03:49 GMT | What Information Is Included In A Literature Review | Luis from Eastern Gateway Community College | [Read More](https://medium.com/p/050706329d60) |
-| Wed, 04 Mar 2026 15:58:25 GMT | AI & LLM Security: Hacking the Brain of 2026 | Axoloth | [Read More](https://medium.com/p/199944abdc82) |
-| Wed, 04 Mar 2026 15:52:15 GMT | From Innovation to Escalation: The AI Arms Race Is No Longer Theoretical | Len Noe | [Read More](https://medium.com/p/0b0d047e3d8d) |
-| Wed, 04 Mar 2026 15:48:01 GMT | Ph4nt0m 1ntrud3r - Digital Forensics Challenge | Xinlisalim | [Read More](https://medium.com/p/cdf62a368fa8) |
