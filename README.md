@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Mar 2026 16:57:40 GMT | Static Analysis Android Malware: APK “PT POS INDONESIA -2_3.apk” | Abyan Zikra | [Read More](https://medium.com/p/56eeb7647962) |
+| Wed, 04 Mar 2026 16:54:03 GMT | Health, Forgetfulness, and the Hunger to Be Known | Mark Sanford, Ph.D. | [Read More](https://medium.com/p/57e9d340f372) |
+| Wed, 04 Mar 2026 16:51:00 GMT | Private Endpoint DNS Checklist (What to Verify, in Order) | Practical IT | [Read More](https://medium.com/p/6ba981f87af2) |
+| Wed, 04 Mar 2026 16:45:12 GMT | Brutus Write Up — HackTheBox | Elsandro Rivalito | [Read More](https://medium.com/p/8f25fb1eb14c) |
+| Wed, 04 Mar 2026 16:42:35 GMT | 98% of organisations would be exposed to an attack if their MSP failed according to research from… | Louise Rolfe | [Read More](https://medium.com/p/127c52500e91) |
+| Wed, 04 Mar 2026 16:38:06 GMT | Running AI Locally with Ollama and LLaMA 3: Why It’s a Big Deal for Engineers | Little_Sun4lower | [Read More](https://medium.com/p/0ba2f936e652) |
+| Wed, 04 Mar 2026 16:34:19 GMT | Week 3 HTB-Sherlock Brutus | Surya Agung Wicaksono | [Read More](https://medium.com/p/a820bb5ff2d2) |
+| Wed, 04 Mar 2026 16:34:16 GMT | Hidden Deep Into my Heart — THM Lab Writeup | Riad Moudjahed | [Read More](https://medium.com/p/0a6a1401a74a) |
+| Wed, 04 Mar 2026 16:29:48 GMT | How to Manage Multiple Executors Without Creating Access Chaos | InheritSafe | [Read More](https://medium.com/p/d5ae647d4312) |
+| Wed, 04 Mar 2026 16:27:27 GMT | Are Data Centers Good War Targets? | News Folder 19 | [Read More](https://medium.com/p/1b4980e41453) |
+| Wed, 04 Mar 2026 16:24:07 GMT | The Fake Loan App : An OSINT Writeup #4 | Kurious Kakashi | [Read More](https://medium.com/p/efbafb14467f) |
+| Wed, 04 Mar 2026 16:22:56 GMT | Why Endpoint Hardening Has Become Critical in 2026 | Suman Panta | [Read More](https://medium.com/p/ffe34ef5577f) |
+| Wed, 04 Mar 2026 16:19:16 GMT | Sécuriser un site WordPress efficacement en 2026 | Advisuel Freelance site Web Toulouse | [Read More](https://medium.com/p/e386e239b796) |
+| Wed, 04 Mar 2026 16:18:09 GMT | Still stuck between a 4-year degree and a tech career? | Theusamaabdullah | [Read More](https://medium.com/p/4969dd732707) |
+| Wed, 04 Mar 2026 16:17:23 GMT | What is SOC in Cybersecurity | Chima A M | [Read More](https://medium.com/p/dfbfba2d80a2) |
+| Wed, 04 Mar 2026 16:14:53 GMT | The Hidden Workforce Behind Smarter AI Models | Humberto Acosta | [Read More](https://medium.com/p/92f9176dfe5c) |
+| Wed, 04 Mar 2026 16:03:49 GMT | What Information Is Included In A Literature Review | Luis from Eastern Gateway Community College | [Read More](https://medium.com/p/050706329d60) |
 | Wed, 04 Mar 2026 15:58:25 GMT | AI & LLM Security: Hacking the Brain of 2026 | Axoloth | [Read More](https://medium.com/p/199944abdc82) |
 | Wed, 04 Mar 2026 15:52:15 GMT | From Innovation to Escalation: The AI Arms Race Is No Longer Theoretical | Len Noe | [Read More](https://medium.com/p/0b0d047e3d8d) |
 | Wed, 04 Mar 2026 15:48:01 GMT | Ph4nt0m 1ntrud3r - Digital Forensics Challenge | Xinlisalim | [Read More](https://medium.com/p/cdf62a368fa8) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Mar 2026 10:08:40 GMT | What Is Zero-Knowledge Secrets Management for AI Agents? | Wisdomademiju | [Read More](https://medium.com/p/c73af6823264) |
 | Wed, 04 Mar 2026 10:06:29 GMT | TryHackMe: Wonderland (Full Raw Walkthrough) | Vinay trivedi | [Read More](https://medium.com/p/64d1de06999c) |
 | Wed, 04 Mar 2026 10:05:09 GMT | How 54 Percent of Cyberattacks Go Completely Unnoticed | Merryusman | [Read More](https://medium.com/p/f2d3fcdb2ae0) |
-| Wed, 04 Mar 2026 10:03:50 GMT | Reset — TryHackMe Writeup | Rolando Enriquez | [Read More](https://medium.com/p/cf7457eca5a9) |
-| Wed, 04 Mar 2026 10:02:10 GMT | Vulnhub Walkthrough: Sunset | Sachin Kesav | [Read More](https://medium.com/p/13e87ce07240) |
-| Wed, 04 Mar 2026 10:01:56 GMT | Algoritmalar Seni Senden İyi Tanıyor mu? (Ve Bu Neden Önemli) | Ali Yaşe | [Read More](https://medium.com/p/bc1fa995b38b) |
-| Wed, 04 Mar 2026 09:52:01 GMT | Day 14 — I Changed One Number and Suddenly Everyone’s Data Was Mine | Issan | [Read More](https://medium.com/p/1b09ef0b50cc) |
-| Wed, 04 Mar 2026 09:49:34 GMT | Apakah Secure Email Sudah Benar-Benar Mudah Digunakan? | Fikrimuzaki | [Read More](https://medium.com/p/211f9a6b743a) |
-| Wed, 04 Mar 2026 09:46:47 GMT | AI in cybersecurity is not going to save you (and it’s not going to kill you either) | h@shtalk | [Read More](https://medium.com/p/1709a8f60df0) |
-| Wed, 04 Mar 2026 09:46:09 GMT | The Defender’s Roadmap: Building a Career in the Digital Trenches | Genrunic | [Read More](https://medium.com/p/e56b295c91af) |
-| Wed, 04 Mar 2026 09:38:40 GMT | Why Municipal Buildings in Nebraska Are Upgrading to Modern Security Systems | ASI Systems Pro | [Read More](https://medium.com/p/a217ae64be42) |
-| Wed, 04 Mar 2026 09:37:39 GMT | The Cyber Battlefield Has Already Started — Are You Ready? | Cyberhead0n | [Read More](https://medium.com/p/16833e2b7070) |
-| Wed, 04 Mar 2026 09:35:28 GMT | The curious case of poisoned context | Elina Maliarsky | [Read More](https://medium.com/p/b6e523e1d507) |
-| Wed, 04 Mar 2026 09:27:25 GMT | The Great Firestick Crackdown: Why 3rd‑Party Apps Are Disappearing — And What It Means for… | Lionsharedigitalagency | [Read More](https://medium.com/p/2abe9f95a3b6) |
-| Wed, 04 Mar 2026 09:24:19 GMT | How Hackers Are Weaponizing AI Like Claude for Cyber Attacks | Abhinsubej | [Read More](https://medium.com/p/e4107649b229) |
-| Wed, 04 Mar 2026 09:15:38 GMT | Why APY Is the Most Misunderstood Metric in DeFi | Mercybesthairs | [Read More](https://medium.com/p/81009c99f419) |
-| Wed, 04 Mar 2026 09:10:14 GMT | Self-Hosting DNS: Pi-hole, Unbound, and Tailscale | Atharva | [Read More](https://medium.com/p/fafcb2625783) |
-| Wed, 04 Mar 2026 09:07:29 GMT | Critical Review: “Obstacles to the Adoption of Secure Communication Tools” (Abu-Salma et al., 2017) | Yoki Oktorian Sukardi | [Read More](https://medium.com/p/f1432116bc2f) |
-| Wed, 04 Mar 2026 09:01:01 GMT | What Founders Misunderstand About Compliance | Gaurav Shukla | [Read More](https://medium.com/p/859f37bc52c7) |
-| Wed, 04 Mar 2026 08:59:41 GMT | I Found Valid VPN Credentials for 7 Out of 10 Companies I Searched | Alexandre Vandamme | [Read More](https://medium.com/p/62b583f713df) |
