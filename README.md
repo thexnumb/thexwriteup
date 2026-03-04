@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Mar 2026 11:30:28 GMT | Hackers Are Now Faking Google's Security Tools—Here's What Gmail Users Need to Know | Muneeb | [Read More](https://medium.com/p/ca78c070296a) |
+| Wed, 04 Mar 2026 11:23:39 GMT | CyberDefenders Lespion Write-up | Solace | [Read More](https://medium.com/p/1bfc8212d5bf) |
+| Wed, 04 Mar 2026 11:18:02 GMT | Quantum Computing vs Encryption: Is Today’s Data at Risk? | Brainnova | [Read More](https://medium.com/p/2a5ec9fbcf4c) |
+| Wed, 04 Mar 2026 11:15:37 GMT | Solving a Bugforge Challenge — Exploiting Refund Logic in Cheesy Does It | Pranaya Shrestha | [Read More](https://medium.com/p/239cb12c92e2) |
+| Wed, 04 Mar 2026 11:07:03 GMT | Implementing Tor blocking in AWS WAF after Cloudflare | Alexandr Ivenin | [Read More](https://medium.com/p/5feee0ba13fa) |
+| Wed, 04 Mar 2026 11:06:25 GMT | GRUB2 Use-After-Free Vulnerability on RHEL: Fix CVE-2025–0622 | Emilyharbord | [Read More](https://medium.com/p/c789b92b8902) |
+| Wed, 04 Mar 2026 11:06:00 GMT | What we learned securing AI agents in production | deepsense.ai | [Read More](https://medium.com/p/7d325cbc4155) |
+| Wed, 04 Mar 2026 11:03:15 GMT | How SSenStone Hardens IoT and PLC Edge Security With Server-Side Secretless Authentication | David SEHYEON Baek | [Read More](https://medium.com/p/b4e6805095d0) |
+| Wed, 04 Mar 2026 10:51:02 GMT | In an era where data is the new currency, APIs are the vaults. | Chinaza Emmanuela Obidike | [Read More](https://medium.com/p/afe4aa95d440) |
+| Wed, 04 Mar 2026 10:46:32 GMT | Containers Are Not a Security Boundary. Designing Secure Multi-Tenant Code Execution on Kubernetes. | Christian Del Monte | [Read More](https://medium.com/p/054a63d438c5) |
+| Wed, 04 Mar 2026 10:44:06 GMT | Remote Firmware Injection in Popular Solar Inverters | Marlon Starkloff | [Read More](https://medium.com/p/3eed6a8131f4) |
+| Wed, 04 Mar 2026 10:42:38 GMT | Recon Is Not Scanning | Fateyaly | [Read More](https://medium.com/p/d3e9b24f189c) |
+| Wed, 04 Mar 2026 10:35:20 GMT | What is klr login service 137? | Mohd Azher | [Read More](https://medium.com/p/bad03dd3d03d) |
 | Wed, 04 Mar 2026 10:22:41 GMT | Secrets management in Docker Compose: .env, SOPS, Bitwarden, and the “good enough” threat model | Thomas Byern | [Read More](https://medium.com/p/2bbc6d8e1064) |
 | Wed, 04 Mar 2026 10:21:25 GMT | FusionCorp — TryHackMe Writeup | Rolando Enriquez | [Read More](https://medium.com/p/bc9c0386d560) |
 | Wed, 04 Mar 2026 10:20:08 GMT | EntroGuard — Day 8 | Nisarg Patel | [Read More](https://medium.com/p/810d33d59df1) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Mar 2026 04:31:01 GMT | Agent Safety Gates: 12 Preflight Checks Before Tools Run | Thinking Loop | [Read More](https://medium.com/p/ecf1c41ba252) |
 | Wed, 04 Mar 2026 04:25:23 GMT | Corporate Greed Chronicles: Profits Soar, People Plummet at Block Inc. | Namir Sagheenanajar | [Read More](https://medium.com/p/1bfda22bed42) |
 | Wed, 04 Mar 2026 04:07:53 GMT | Monitoring AWS Services - TryHackme - Splunk | Jose Praveen | [Read More](https://medium.com/p/1f02d12faf35) |
-| Wed, 04 Mar 2026 04:01:52 GMT | — | Fethallah Abdelkader GHELLAIMI | [Read More](https://medium.com/p/ab89f732ec36) |
-| Wed, 04 Mar 2026 03:54:13 GMT | What are the top ten headlines in the news right now? | Miraal Elliott | [Read More](https://medium.com/p/077b3468d9f6) |
-| Wed, 04 Mar 2026 03:46:05 GMT | Telegram and the Architectural Formalization of the Access Layer through OIDC | Anton Minin Baranovskii | [Read More](https://medium.com/p/86b7d2f8409b) |
-| Wed, 04 Mar 2026 03:39:55 GMT | aSTEAM Village Metaverse Stadium Design, Finance, and Build Challenge Seeks Immediate Sponsorship | Andrew Williams Jr | [Read More](https://medium.com/p/f750d083263e) |
-| Wed, 04 Mar 2026 03:36:48 GMT | Developments from the world of technology as of today: | Miraal Elliott | [Read More](https://medium.com/p/f64870596257) |
-| Wed, 04 Mar 2026 03:31:00 GMT | The Identity Exposure Gap That Makes SME Cloud Teams Safer Targets in 2026 | Jaymeet Patel | [Read More](https://medium.com/p/ab0c17675883) |
-| Wed, 04 Mar 2026 03:30:47 GMT | Hackers: Protectors of the Internet or Digital Criminals? | Abhishek Kumar Maury | [Read More](https://medium.com/p/2fbaf4d98f4c) |
-| Wed, 04 Mar 2026 03:20:59 GMT | Using OpenClaw Safely for Bug Bounty | ghostyjoe | [Read More](https://medium.com/p/c9e3317f0481) |
-| Wed, 04 Mar 2026 03:17:58 GMT | Stop Blaming Machines: Reveal the Real Causes of Downtime with Data | Dongha | [Read More](https://medium.com/p/8a2e0e721d88) |
-| Wed, 04 Mar 2026 02:55:04 GMT | What is active Directory | Kevin Ronex | [Read More](https://medium.com/p/5769b81fd041) |
-| Wed, 04 Mar 2026 02:48:52 GMT | I Built a Log Analyzer That Detects Cyberattacks — Here’s How It Works | Sanketh Subhas | [Read More](https://medium.com/p/0427c91f47bc) |
-| Wed, 04 Mar 2026 02:48:24 GMT | HackMyVM: Lazzycorp Writeup | Antonio | [Read More](https://medium.com/p/a5a18b4999e6) |
-| Wed, 04 Mar 2026 02:34:43 GMT | The Invisible Trail: What is a Digital Footprint ? | Vidoq | [Read More](https://medium.com/p/91baf8c02134) |
