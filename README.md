@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 04 Mar 2026 12:52:26 GMT | Leaked US Cyberweapons, Apple’s M5 Chips, and Anduril’s $60B Valuation - The Daily Tech Digest: 04… | Souren Stepanyan | [Read More](https://medium.com/p/20dd7d1f5198) |
+| Wed, 04 Mar 2026 12:50:06 GMT | TryHackMe Slingshot: I Watched an Attacker Steal a Customer Database in Real Time | sn0x | [Read More](https://medium.com/p/a34784d584a5) |
+| Wed, 04 Mar 2026 12:45:47 GMT | The KDD Dataset: A Beginner’s Guide to the Most Famous Benchmark in Intrusion Detection | Zineb Hidila, PhD | [Read More](https://medium.com/p/49765f83adf4) |
+| Wed, 04 Mar 2026 12:32:46 GMT | Find Last Connected USB on your system (USB Forensics) | Pentester Club | [Read More](https://medium.com/p/769b135cd5c4) |
+| Wed, 04 Mar 2026 12:32:20 GMT | Burping, Ffufing, and Breaking Things: TCM Security Practical Bug Bounty Lab | Gamuchirai | [Read More](https://medium.com/p/ace7409b4ea9) |
+| Wed, 04 Mar 2026 12:21:18 GMT | RAT Attacks in 2026: Understanding the Threat and How to Stay Safe | Tapasprajapati | [Read More](https://medium.com/p/0e2f1a8ad271) |
+| Wed, 04 Mar 2026 12:15:03 GMT | Your Threat Intelligence Copilot Is Now in Your Pocket | Threat Landscape | [Read More](https://medium.com/p/1676c7bc1e7f) |
+| Wed, 04 Mar 2026 12:09:21 GMT | How the Iran-Israel World War Is Rewriting the Rules of the Global Tech Industry — What Every IT… | Solminica | [Read More](https://medium.com/p/44562d612789) |
+| Wed, 04 Mar 2026 12:01:01 GMT | How My Audit Methodology Changed When the Stakes Became Real | Cyphersilhouette | [Read More](https://medium.com/p/492826d33f7c) |
+| Wed, 04 Mar 2026 11:59:55 GMT | Leonard Shelby and the AI Memory Problem: What Building a Multi-Agent AI CTF Platform Taught Me… | Dhillon Andrew Kannabhiran | [Read More](https://medium.com/p/4f4c8fd6ab78) |
+| Wed, 04 Mar 2026 11:59:30 GMT | Don’t Trust the Name (Verify the Service) | Grace Jaman | [Read More](https://medium.com/p/e1156463aa5f) |
+| Wed, 04 Mar 2026 11:55:40 GMT | Writeup 01: Command Injection via file extension | BL4CKD3V0P5 | [Read More](https://medium.com/p/c3da6a4661ad) |
+| Wed, 04 Mar 2026 11:51:11 GMT | Active Directory ist 2026 noch immer der größte Schwachpunkt — Warum kaum jemand es richtig testet | Moldrive | [Read More](https://medium.com/p/961092ce1da3) |
+| Wed, 04 Mar 2026 11:45:17 GMT | Pentest Cost 2026: What Companies Should Expect to Pay for Cybersecurity Testing | Moldrive | [Read More](https://medium.com/p/fe465c8c9252) |
+| Wed, 04 Mar 2026 11:33:56 GMT | DepEd Lucena Data Leak By: Ch4nc3ll0rX_1337 | Ch4nc3ll0rX_1337 | [Read More](https://medium.com/p/21b6df9b7b52) |
 | Wed, 04 Mar 2026 11:30:28 GMT | Hackers Are Now Faking Google's Security Tools—Here's What Gmail Users Need to Know | Muneeb | [Read More](https://medium.com/p/ca78c070296a) |
 | Wed, 04 Mar 2026 11:23:39 GMT | CyberDefenders Lespion Write-up | Solace | [Read More](https://medium.com/p/1bfc8212d5bf) |
 | Wed, 04 Mar 2026 11:18:02 GMT | Quantum Computing vs Encryption: Is Today’s Data at Risk? | Brainnova | [Read More](https://medium.com/p/2a5ec9fbcf4c) |
@@ -25,6 +40,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Mar 2026 10:44:06 GMT | Remote Firmware Injection in Popular Solar Inverters | Marlon Starkloff | [Read More](https://medium.com/p/3eed6a8131f4) |
 | Wed, 04 Mar 2026 10:42:38 GMT | Recon Is Not Scanning | Fateyaly | [Read More](https://medium.com/p/d3e9b24f189c) |
 | Wed, 04 Mar 2026 10:35:20 GMT | What is klr login service 137? | Mohd Azher | [Read More](https://medium.com/p/bad03dd3d03d) |
+| Wed, 04 Mar 2026 10:33:02 GMT | No One Was Watching: Simple Web Skimming Campaign That Actually Worked | Oran F | [Read More](https://medium.com/p/870ca026a273) |
 | Wed, 04 Mar 2026 10:22:41 GMT | Secrets management in Docker Compose: .env, SOPS, Bitwarden, and the “good enough” threat model | Thomas Byern | [Read More](https://medium.com/p/2bbc6d8e1064) |
 | Wed, 04 Mar 2026 10:21:25 GMT | FusionCorp — TryHackMe Writeup | Rolando Enriquez | [Read More](https://medium.com/p/bc9c0386d560) |
 | Wed, 04 Mar 2026 10:20:08 GMT | EntroGuard — Day 8 | Nisarg Patel | [Read More](https://medium.com/p/810d33d59df1) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Mar 2026 05:53:41 GMT | Why the Military Might Survive Even After Global Unification | Dr. Nyang | [Read More](https://medium.com/p/22c93e9d66f9) |
 | Wed, 04 Mar 2026 05:50:11 GMT | Cyber and Space as Primary Instruments of Modern Warfare: Strategic Implications of the Pentagon’s… | CCD-IS | [Read More](https://medium.com/p/e021de0cdb06) |
 | Wed, 04 Mar 2026 05:48:54 GMT | Certified Bug Bounty Hunter (CBBH) Course in India - Ethical Hacking Training with Practical Labs —… | mrweb secure | [Read More](https://medium.com/p/6cbb52c4ddcd) |
-| Wed, 04 Mar 2026 05:36:32 GMT | USB Forensics with Autopsy | Herique Tavares | [Read More](https://medium.com/p/66e47731fa3e) |
-| Wed, 04 Mar 2026 05:34:09 GMT | The Easiest RCE? How One Node.js Variable Creates Chaos | Krishna Kumar | [Read More](https://medium.com/p/4168c5010e2a) |
-| Wed, 04 Mar 2026 05:32:55 GMT | How I Identified a Location from a Single Image Using GEOINT Techniques | pavani | [Read More](https://medium.com/p/5068da11b34f) |
-| Wed, 04 Mar 2026 05:25:41 GMT | 5 WordPress Security Switches You Should Turn On Today (Before Hackers Do) | Asish K Antony | [Read More](https://medium.com/p/ca8497a8bb76) |
-| Wed, 04 Mar 2026 05:24:42 GMT | The Pentagon Tried to Unplug Claude. Then It Used Claude to Bomb Iran. | Tasmay Shah | [Read More](https://medium.com/p/c1d269db38a1) |
-| Wed, 04 Mar 2026 05:07:29 GMT | Digital Technology Information for Startup Innovation | Ga Bisa SEO | [Read More](https://medium.com/p/32e51fbb751b) |
-| Wed, 04 Mar 2026 05:03:59 GMT | Cyber Business Interruption: How to Protect Your Business from Digital Disruptions | Mandanakkalakshmipriya | [Read More](https://medium.com/p/1380313d5570) |
-| Wed, 04 Mar 2026 05:00:42 GMT | Proving Grounds — Practice — Flimsy | Makoyi | [Read More](https://medium.com/p/12cecfedb257) |
-| Wed, 04 Mar 2026 04:59:29 GMT | Become a Pro with an Ethical Hacking Course in Trivandrum | Niranjandotnot | [Read More](https://medium.com/p/5ec0a6b89647) |
-| Wed, 04 Mar 2026 04:55:50 GMT | PsExec Hunt Lab — CyberDefenders Write Up | Najafghifari | [Read More](https://medium.com/p/313e4c9e7c8b) |
-| Wed, 04 Mar 2026 04:54:21 GMT | 5G vs. Jamming: How the Iran- USA Conflict (2026) Exposed Next-Gen Network Vulnerabilities | Tarush Sharma | [Read More](https://medium.com/p/4e10aabefe0c) |
-| Wed, 04 Mar 2026 04:48:02 GMT | From Risk Data to AI Governance: How BCBS 239 Became the Foundation of Sovereign AI in Banking | Robert Saghafi | [Read More](https://medium.com/p/26813e0bdf8a) |
-| Wed, 04 Mar 2026 04:46:42 GMT | Career Opportunities in Ethical Hacking | Jhoninternship | [Read More](https://medium.com/p/43aed58621b5) |
-| Wed, 04 Mar 2026 04:31:01 GMT | Agent Safety Gates: 12 Preflight Checks Before Tools Run | Thinking Loop | [Read More](https://medium.com/p/ecf1c41ba252) |
-| Wed, 04 Mar 2026 04:25:23 GMT | Corporate Greed Chronicles: Profits Soar, People Plummet at Block Inc. | Namir Sagheenanajar | [Read More](https://medium.com/p/1bfda22bed42) |
-| Wed, 04 Mar 2026 04:07:53 GMT | Monitoring AWS Services - TryHackme - Splunk | Jose Praveen | [Read More](https://medium.com/p/1f02d12faf35) |
