@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Mar 2026 10:38:04 GMT | Two Coupons. One Logic Flaw. A Free $1337 Jacket. | TEJAS | [Read More](https://medium.com/p/a88c6d1f80a4) |
+| Thu, 05 Mar 2026 10:36:09 GMT | Moltbook and the Illusion of AI Society | F.M.C. - 孫婕 | [Read More](https://medium.com/p/6fb4de50807b) |
+| Thu, 05 Mar 2026 10:35:50 GMT | ZENfra | ZENfra | [Read More](https://medium.com/p/9fda6b3e05fd) |
+| Thu, 05 Mar 2026 10:30:35 GMT | S4x26: 6 Gedanken, die hängen bleiben | Sarah Fluchs | [Read More](https://medium.com/p/88d2d25b2cc5) |
+| Thu, 05 Mar 2026 10:30:16 GMT | I Audited 169 AI Agent Skills After 820 Malicious Ones Were Found on ClawHub. | Digitrendz | [Read More](https://medium.com/p/ae0c6de7efdf) |
+| Thu, 05 Mar 2026 10:28:51 GMT | The Future of Parking: Smart, Secure, and Easy Management Systems | Grdsnscrt | [Read More](https://medium.com/p/237c8d7f4bc6) |
+| Thu, 05 Mar 2026 10:27:34 GMT | HOW THE WEB WORKS -TryHackMe Module. Room 3: How Websites Work. | Raymond Ebonine | [Read More](https://medium.com/p/5fb07c03c0ff) |
+| Thu, 05 Mar 2026 10:27:14 GMT | What is KYC and How It Works | Biometric.Vision | [Read More](https://medium.com/p/ed077b98573d) |
+| Thu, 05 Mar 2026 10:25:02 GMT | AI 浪潮下的供應鏈重塑：2026 年投資機會解析 | Hsiehsungling | [Read More](https://medium.com/p/e2bd4697d602) |
+| Thu, 05 Mar 2026 10:23:53 GMT | Top Technical Skills to Learn in 2026 for a Successful IT Career | sri ram | [Read More](https://medium.com/p/7e9bf470fb14) |
+| Thu, 05 Mar 2026 10:19:44 GMT | My IOC Enrichment Workflow | Palupidyahr | [Read More](https://medium.com/p/c3bad78298aa) |
+| Thu, 05 Mar 2026 10:17:16 GMT | Lespion Lab by Cyberdefenders | Palupidyahr | [Read More](https://medium.com/p/8f6ac814f982) |
+| Thu, 05 Mar 2026 10:16:48 GMT | S4x26: 6 thoughts that stuck with me | Sarah Fluchs | [Read More](https://medium.com/p/08b0c1058d47) |
+| Thu, 05 Mar 2026 10:12:30 GMT | The Digital Transformation of the Security Dilemma: The Paradox from Anarchy to Algorithm | Ziya Gokalp | [Read More](https://medium.com/p/69c0a6c6d17b) |
+| Thu, 05 Mar 2026 10:03:51 GMT | Etik Hacker Nedir? Siber Güvenliğin Görünmeyen Savunma Hattı | HSD İnönü Üniversitesi | [Read More](https://medium.com/p/20419b1df205) |
+| Thu, 05 Mar 2026 10:01:11 GMT | Top PHP Security Libraries You Should Know in 2026 (Complete Developer Guide) | Neha Singh | [Read More](https://medium.com/p/65d12f9a4ea0) |
+| Thu, 05 Mar 2026 09:53:22 GMT | SELinux Troubleshooting | Odumosu Pamilerin | [Read More](https://medium.com/p/62fe850a6439) |
+| Thu, 05 Mar 2026 09:52:27 GMT | How Enterprises Can Embrace AI Agent — Securely | cha0s | [Read More](https://medium.com/p/48227fa88395) |
+| Thu, 05 Mar 2026 09:52:08 GMT | Useful Websites in India for Information (2026) | Info.results | [Read More](https://medium.com/p/8637b99493fb) |
 | Thu, 05 Mar 2026 09:32:32 GMT | When a nation’s own surveillance infrastructure becomes its greatest vulnerability.(The | MUHAMMED RUMAIS MV | [Read More](https://medium.com/p/9b9bed3c7c50) |
 | Thu, 05 Mar 2026 09:32:31 GMT | Deepfake Fraud Explodes, Putting Global Businesses at Risk | Speed Insights | [Read More](https://medium.com/p/f1ff291a9075) |
 | Thu, 05 Mar 2026 09:30:07 GMT | When AI Starts Hacking: The Trivy Incident and the Future of Automated Exploitation | Hacker's Perspective | [Read More](https://medium.com/p/7c6000e9b7ec) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Mar 2026 03:44:42 GMT | New Explorations in the Integration of AI and the Crypto Market: Digital Shield Debuts at AMA to… | Digital Shield | [Read More](https://medium.com/p/77ea0f8acf16) |
 | Thu, 05 Mar 2026 03:33:11 GMT | The US-Iran-Israel Conflict Roils the Crypto Market, Prompting Deep Thoughts on Digital Asset… | Digital Shield | [Read More](https://medium.com/p/52236a0dda3a) |
 | Thu, 05 Mar 2026 03:30:22 GMT | Các kĩ thuật tấn công web bypass firewall/proxy | Dattq | [Read More](https://medium.com/p/7e278e8191e5) |
-| Thu, 05 Mar 2026 03:29:31 GMT | The US-Iran-Israel Conflict Roils the Crypto Market, Prompting Deep Thoughts on Digital Asset… | Digital Shield Offcial | [Read More](https://medium.com/p/6102bd7a39ec) |
-| Thu, 05 Mar 2026 03:25:26 GMT | MHL CTF - Airsecure writeup | Ayoubbensalem | [Read More](https://medium.com/p/ca03ed94c25b) |
-| Thu, 05 Mar 2026 03:24:57 GMT | New Explorations in the Integration of AI and the Crypto Market: Digital Shield Debuts at AMA to… | Digital Shield Offcial | [Read More](https://medium.com/p/81d0d6c2bc12) |
-| Thu, 05 Mar 2026 03:12:00 GMT | Beyond the Spec Sheet: 3 Hidden Resources Every IT Architect Should Read in 2026 | Robert - Enterprise Storage Expert | [Read More](https://medium.com/p/a993715b393b) |
-| Thu, 05 Mar 2026 03:05:49 GMT | Cloud Cybersecurity for AI Browsers: Securing AI Agents and Extensions in a Zero-Trust Model | CloudMosa, Inc. | [Read More](https://medium.com/p/eb2a70829243) |
-| Thu, 05 Mar 2026 03:04:55 GMT | The Three Pillars of CloudMosa Cybersecurity: Isolating Risk in the Cloud | CloudMosa, Inc. | [Read More](https://medium.com/p/d00ac1d7e284) |
-| Thu, 05 Mar 2026 03:04:37 GMT | The Broken Key:Why Voice Biometrics Was a Security Mistake | Berend Watchus | [Read More](https://medium.com/p/379d71da549a) |
-| Thu, 05 Mar 2026 03:03:41 GMT | Weekly Threat Intelligence Report 2 Mar 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/e50cc830efc4) |
-| Thu, 05 Mar 2026 03:02:49 GMT | Same Operation. Two American Broadcasts. Two Different Stories. | Berend Watchus | [Read More](https://medium.com/p/917391058eff) |
-| Thu, 05 Mar 2026 03:02:47 GMT | PG Play — FunboxRookie | Antonio | [Read More](https://medium.com/p/c9d0ea68860c) |
-| Thu, 05 Mar 2026 02:53:36 GMT | Android Static Analysis — Fake PT.Pos Indonesia — Red Team | Harmonax | [Read More](https://medium.com/p/452277a056db) |
-| Thu, 05 Mar 2026 02:53:28 GMT | picoCTF writeup: Operation Oni - Forensics Series | Sarah Qym | [Read More](https://medium.com/p/6b024e8828ec) |
-| Thu, 05 Mar 2026 02:51:57 GMT | HTB Sherlock (Brutus) | Romadhona Fitri | [Read More](https://medium.com/p/7b6d21a26c6d) |
-| Thu, 05 Mar 2026 02:49:48 GMT | How I Passed the CEH v13 Practical Exam: A Structured, Hands-On Approach | Batraju Sairam | [Read More](https://medium.com/p/3ecbc638a999) |
-| Thu, 05 Mar 2026 02:41:00 GMT | Your Database Will Not Be Hacked by a Zero Day. It Will Be Hacked By "Temp_Admin_2020". | revoq | [Read More](https://medium.com/p/3718683279aa) |
-| Thu, 05 Mar 2026 02:16:04 GMT | How Attackers Abuse Microsoft Dev Tunnels for Stealthy C2 Infrastructure | Jason Fresco | [Read More](https://medium.com/p/9d7eb3f80534) |
-| Thu, 05 Mar 2026 02:14:28 GMT | Bridging Information Warfare and Crisis Management Through AI Diplomacy | Sagar Kaul | [Read More](https://medium.com/p/6accd040f8bb) |
-| Thu, 05 Mar 2026 02:11:25 GMT | HTB Brutus Walkthrough : How to Solve | Muhamad Jhony Agus Stiawan | [Read More](https://medium.com/p/c440a93d223b) |
-| Thu, 05 Mar 2026 02:05:19 GMT | Event Viewer PicoCTF Task Week 3 | Randy Iqbal Putra | [Read More](https://medium.com/p/42af2019ef73) |
