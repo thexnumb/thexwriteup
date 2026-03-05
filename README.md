@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Mar 2026 22:22:24 GMT | Hutch (Proving Grounds) Walkthrough: An Active Directory Attack Path | SilentExploit | [Read More](https://medium.com/p/c8d4ab4b1691) |
+| Thu, 05 Mar 2026 22:16:01 GMT | Teaching Persons With Disabilities Advanced Digital Skills: What Facilitators Get Wrong — And How… | Victor Ekwueme | [Read More](https://medium.com/p/958e92e94396) |
+| Thu, 05 Mar 2026 22:10:45 GMT | Slack Bug Bounty — $1,750 Easy Bug | Sirat Sami (analyz3r) | [Read More](https://medium.com/p/af0db2e81231) |
+| Thu, 05 Mar 2026 22:01:01 GMT | Unfiltered Restart — Day 17+18: Exam Prep, Day 3+4 | Maximillian Rueda | [Read More](https://medium.com/p/89ae87cd2777) |
+| Thu, 05 Mar 2026 21:57:15 GMT | Lab 28 — Gathering DNS information with dnsenum | Hassen Hannachi | [Read More](https://medium.com/p/73ba532f4ac4) |
+| Thu, 05 Mar 2026 21:56:32 GMT | When Algorithms Go to War: The Invisible Frontline of the Iran–U.S. Cyber Conflict | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/ca3d2c2be2e0) |
+| Thu, 05 Mar 2026 21:45:19 GMT | Berlin im Visier der Hacker: Warum jedes Unternehmen heute einen Penetrationstest braucht | Donbread Service | [Read More](https://medium.com/p/cbe3a4823c04) |
+| Thu, 05 Mar 2026 21:41:26 GMT | Finding a P1 in NASA: The Power of Google Dorking | Khandaniyal | [Read More](https://medium.com/p/ec0151376224) |
 | Thu, 05 Mar 2026 21:27:49 GMT | From Imperial College to the Heart of the Politburo: The Cai Qi Connection | Marty Day | [Read More](https://medium.com/p/7aabe2906a43) |
 | Thu, 05 Mar 2026 21:24:26 GMT | Getting Started with the Stardust Shellcode Generator Template | S12 - 0x12Dark Development | [Read More](https://medium.com/p/bd7ceddeada1) |
 | Thu, 05 Mar 2026 21:06:36 GMT | Why Every Scanner Missed This RCE: Reviving CVE-2020–7961 On A 7 Year old Instance of Liferay | Phil | [Read More](https://medium.com/p/a0d1c4af0738) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Mar 2026 14:57:42 GMT | Attachment Day 01: My First Look Into Enterprise Cybersecurity | Arittroskr | [Read More](https://medium.com/p/9220bd6c2e3c) |
 | Thu, 05 Mar 2026 14:51:03 GMT | TryHackMe - Monitoring Active Directory - WriteUp | Axoloth | [Read More](https://medium.com/p/d602a91c34ba) |
 | Thu, 05 Mar 2026 14:50:09 GMT | Pyrat: A Capture The Flag Challenge Walkthrough | fub96 | [Read More](https://medium.com/p/6ca337db9b5f) |
-| Thu, 05 Mar 2026 14:50:03 GMT | idinahui — CTF_writeup-EHAX CTF2026 | wal-z1 | [Read More](https://medium.com/p/d736b36a83b8) |
-| Thu, 05 Mar 2026 14:45:04 GMT | What is Cybersecurity? A Beginner Friendly Guide | Rocket Raccoon Real | [Read More](https://medium.com/p/6c7e768e8a65) |
-| Thu, 05 Mar 2026 14:43:35 GMT | Linux Não Pega Vírus? A Verdade Por Trás do Maior Mito da Tecnologia | Paulo Henrique Oliveira | [Read More](https://medium.com/p/d7b357f6aeeb) |
-| Thu, 05 Mar 2026 14:32:10 GMT | Inside Consumer DVRs — Hardware & Firmware Security Evaluation (L1) - DS-80299_P Rev 1.1 | Aaronjjose | [Read More](https://medium.com/p/f8fc25ac56f2) |
-| Thu, 05 Mar 2026 14:28:36 GMT | Crypto Wallet Development Guide: How Wallets Work and How to Build One | John Galt | [Read More](https://medium.com/p/57b626faf15a) |
-| Thu, 05 Mar 2026 14:27:18 GMT | We are not Gen Z — We are Gen AI | Tanatswa Kamanga | [Read More](https://medium.com/p/0e0583f0aacb) |
-| Thu, 05 Mar 2026 14:18:36 GMT | noname walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/8788375b9f43) |
-| Thu, 05 Mar 2026 14:14:08 GMT | JWT None Algorithm Attack: Testing Signature Validation in Web Applications | Marwan Alsaifi | [Read More](https://medium.com/p/b3f5d99b28b0) |
