@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Mar 2026 21:27:49 GMT | From Imperial College to the Heart of the Politburo: The Cai Qi Connection | Marty Day | [Read More](https://medium.com/p/7aabe2906a43) |
+| Thu, 05 Mar 2026 21:24:26 GMT | Getting Started with the Stardust Shellcode Generator Template | S12 - 0x12Dark Development | [Read More](https://medium.com/p/bd7ceddeada1) |
+| Thu, 05 Mar 2026 21:06:36 GMT | Why Every Scanner Missed This RCE: Reviving CVE-2020–7961 On A 7 Year old Instance of Liferay | Phil | [Read More](https://medium.com/p/a0d1c4af0738) |
+| Thu, 05 Mar 2026 20:54:17 GMT | CIA Triad | Sujon Al Mamun | [Read More](https://medium.com/p/bdf471b0796b) |
+| Thu, 05 Mar 2026 20:52:14 GMT | Why Modern Developer Security Needs a Public Path and a Private Path | Mammoth Cyber | [Read More](https://medium.com/p/2ef15876df2a) |
+| Thu, 05 Mar 2026 20:49:21 GMT | Ağ Sistemlerinde Yerli Dönüşüm: Neden Bu Projeye Başladık? | Hasan Serdar | [Read More](https://medium.com/p/9b597b924c2f) |
+| Thu, 05 Mar 2026 20:49:14 GMT | The Hidden Risk of AI/LLM Hallucinations in Security Workflows | Raman Gautam - rghx | [Read More](https://medium.com/p/bc672e72ad2e) |
+| Thu, 05 Mar 2026 20:48:56 GMT | What is GRC? | Sujon Al Mamun | [Read More](https://medium.com/p/87e1c626416b) |
+| Thu, 05 Mar 2026 20:43:21 GMT | Playing it safe — on Google Cloud Platform | Mohammed Brückner | [Read More](https://medium.com/p/3bdefdf3ff0f) |
+| Thu, 05 Mar 2026 20:40:21 GMT | Understanding EDR, From the Lens of a Backend Engineer | Pratham Sharma | [Read More](https://medium.com/p/9081fa2d26f7) |
+| Thu, 05 Mar 2026 20:39:30 GMT | Hardening Your Salesforce Organisation | Connor Jackson | [Read More](https://medium.com/p/1e9121777efb) |
 | Thu, 05 Mar 2026 20:22:05 GMT | I Built a CIS Benchmark Compliance Checker That Works on Both macOS and Linux | Sanketh Subhas | [Read More](https://medium.com/p/05d732d51b7d) |
 | Thu, 05 Mar 2026 20:20:52 GMT | ChatGPT’yi Ferrari Gibi Sürmek: Üretkenliğinizi 10 Katına Çıkaracak 10 Gizli Hack | Mehmet AYDIN | [Read More](https://medium.com/p/32e7aa31f44d) |
 | Thu, 05 Mar 2026 20:20:02 GMT | Predatory Patterns in Cybersecurity Career Gatekeeping: A Pattern-Based OSINT Analysis of… | BlueBirdIntel | [Read More](https://medium.com/p/9da79380f1b8) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Mar 2026 14:27:18 GMT | We are not Gen Z — We are Gen AI | Tanatswa Kamanga | [Read More](https://medium.com/p/0e0583f0aacb) |
 | Thu, 05 Mar 2026 14:18:36 GMT | noname walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/8788375b9f43) |
 | Thu, 05 Mar 2026 14:14:08 GMT | JWT None Algorithm Attack: Testing Signature Validation in Web Applications | Marwan Alsaifi | [Read More](https://medium.com/p/b3f5d99b28b0) |
-| Thu, 05 Mar 2026 14:03:36 GMT | What Exactly Is GRC? | The GRC Guy | [Read More](https://medium.com/p/6aa1bbbbc434) |
-| Thu, 05 Mar 2026 13:56:35 GMT | Automated SOC 2 Evidence Collection on AWS | Davebhargavi | [Read More](https://medium.com/p/fa1f33f9a516) |
-| Thu, 05 Mar 2026 13:55:25 GMT | Task 3 (PsExec Hunt) | Okto | [Read More](https://medium.com/p/abf6e7a422a4) |
-| Thu, 05 Mar 2026 13:54:47 GMT | How Acoustic Testing Improves Comfort in Modern Buildings | Cocokelapa64 | [Read More](https://medium.com/p/4e425b0bdcbc) |
-| Thu, 05 Mar 2026 13:53:50 GMT | Solving a Bugforge Challenge — Exploiting SSRF in Tanuki | Pranaya Shrestha | [Read More](https://medium.com/p/7abb697378f1) |
-| Thu, 05 Mar 2026 13:51:58 GMT | Task 3 (Ph4nt0m 1ntrud3r) | Okto | [Read More](https://medium.com/p/f2b553c18461) |
-| Thu, 05 Mar 2026 13:44:07 GMT | AndroGoat — Red Team | Yrddry | [Read More](https://medium.com/p/f3c47101c195) |
-| Thu, 05 Mar 2026 13:44:00 GMT | TryHackMe Writeup: Creative | Berkay AĞGÜL | [Read More](https://medium.com/p/9d6147209a51) |
-| Thu, 05 Mar 2026 13:41:52 GMT | AI Powered Cyber Attacks: The New Threat in 2026 | Sanjana | [Read More](https://medium.com/p/bce1a82d964e) |
-| Thu, 05 Mar 2026 13:40:14 GMT | From Infrastructure to Real-World Utility: How Cellframe Network and KELVPN Are Building the… | Ibrahim Dajin | [Read More](https://medium.com/p/e86047207d38) |
-| Thu, 05 Mar 2026 13:36:55 GMT | The Missing Angle: Why “Capability” is the Final Ingredient of Fraud | Bhawnakapoormailbox | [Read More](https://medium.com/p/d2696dee29ad) |
