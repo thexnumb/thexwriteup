@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Mar 2026 04:12:44 GMT | Setting up an onion service | Vaibhav Yadav | [Read More](https://medium.com/p/356b3ef2c206) |
+| Thu, 05 Mar 2026 04:12:43 GMT | Understanding Cyber Security Skills Every Ship Crew Member Should Know | Seafarer.online | [Read More](https://medium.com/p/2d15d556c34d) |
+| Thu, 05 Mar 2026 04:11:16 GMT | How I Uncovered Employee Data on a Crypto Exchange via WordPress Misconfiguration | Levp | [Read More](https://medium.com/p/c8723d0cc2c4) |
+| Thu, 05 Mar 2026 04:07:28 GMT | CyberDefenders Lab : psExec hunt Walkthrough | Muhamad Jhony Agus Stiawan | [Read More](https://medium.com/p/54cdd0c31237) |
+| Thu, 05 Mar 2026 04:00:41 GMT | Over The Wire : Bandit : Level 4 | Soumyadip Manna | [Read More](https://medium.com/p/22bb51482db5) |
+| Thu, 05 Mar 2026 03:59:02 GMT | Pawz Engram biologically-inspired memory architecture for persistent AI agents | gotham64 | [Read More](https://medium.com/p/3ccb18a2a4f1) |
+| Thu, 05 Mar 2026 03:56:41 GMT | Over The Wire : Bandit Level 3 | Soumyadip Manna | [Read More](https://medium.com/p/3b3f61f8380d) |
+| Thu, 05 Mar 2026 03:51:29 GMT | New SSH Key Generation and Adding it to GitHub Account | Jajati Behera | [Read More](https://medium.com/p/ab9f3b15c6c7) |
+| Thu, 05 Mar 2026 03:46:43 GMT | Breaking Authentication Using AI (Without Getting Banned) | ghostyjoe | [Read More](https://medium.com/p/311ec7a0a29f) |
+| Thu, 05 Mar 2026 03:44:42 GMT | New Explorations in the Integration of AI and the Crypto Market: Digital Shield Debuts at AMA to… | Digital Shield | [Read More](https://medium.com/p/77ea0f8acf16) |
+| Thu, 05 Mar 2026 03:33:11 GMT | The US-Iran-Israel Conflict Roils the Crypto Market, Prompting Deep Thoughts on Digital Asset… | Digital Shield | [Read More](https://medium.com/p/52236a0dda3a) |
+| Thu, 05 Mar 2026 03:30:22 GMT | Các kĩ thuật tấn công web bypass firewall/proxy | Dattq | [Read More](https://medium.com/p/7e278e8191e5) |
+| Thu, 05 Mar 2026 03:29:31 GMT | The US-Iran-Israel Conflict Roils the Crypto Market, Prompting Deep Thoughts on Digital Asset… | Digital Shield Offcial | [Read More](https://medium.com/p/6102bd7a39ec) |
+| Thu, 05 Mar 2026 03:24:57 GMT | New Explorations in the Integration of AI and the Crypto Market: Digital Shield Debuts at AMA to… | Digital Shield Offcial | [Read More](https://medium.com/p/81d0d6c2bc12) |
+| Thu, 05 Mar 2026 03:12:00 GMT | Beyond the Spec Sheet: 3 Hidden Resources Every IT Architect Should Read in 2026 | Robert - Enterprise Storage Expert | [Read More](https://medium.com/p/a993715b393b) |
+| Thu, 05 Mar 2026 03:05:49 GMT | Cloud Cybersecurity for AI Browsers: Securing AI Agents and Extensions in a Zero-Trust Model | CloudMosa, Inc. | [Read More](https://medium.com/p/eb2a70829243) |
+| Thu, 05 Mar 2026 03:04:55 GMT | The Three Pillars of CloudMosa Cybersecurity: Isolating Risk in the Cloud | CloudMosa, Inc. | [Read More](https://medium.com/p/d00ac1d7e284) |
+| Thu, 05 Mar 2026 03:03:41 GMT | Weekly Threat Intelligence Report 2 Mar 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/e50cc830efc4) |
+| Thu, 05 Mar 2026 03:02:47 GMT | PG Play — FunboxRookie | Antonio | [Read More](https://medium.com/p/c9d0ea68860c) |
+| Thu, 05 Mar 2026 02:53:36 GMT | Android Static Analysis — Fake PT.Pos Indonesia — Red Team | Harmonax | [Read More](https://medium.com/p/452277a056db) |
+| Thu, 05 Mar 2026 02:53:28 GMT | picoCTF writeup: Operation Oni - Forensics Series | Sarah Qym | [Read More](https://medium.com/p/6b024e8828ec) |
+| Thu, 05 Mar 2026 02:51:57 GMT | HTB Sherlock (Brutus) | Romadhona Fitri | [Read More](https://medium.com/p/7b6d21a26c6d) |
+| Thu, 05 Mar 2026 02:49:48 GMT | How I Passed the CEH v13 Practical Exam: A Structured, Hands-On Approach | Batraju Sairam | [Read More](https://medium.com/p/3ecbc638a999) |
+| Thu, 05 Mar 2026 02:41:00 GMT | Your Database Will Not Be Hacked by a Zero Day. It Will Be Hacked By "Temp_Admin_2020". | revoq | [Read More](https://medium.com/p/3718683279aa) |
 | Thu, 05 Mar 2026 02:16:04 GMT | How Attackers Abuse Microsoft Dev Tunnels for Stealthy C2 Infrastructure | Jason Fresco | [Read More](https://medium.com/p/9d7eb3f80534) |
 | Thu, 05 Mar 2026 02:14:28 GMT | Bridging Information Warfare and Crisis Management Through AI Diplomacy | Sagar Kaul | [Read More](https://medium.com/p/6accd040f8bb) |
 | Thu, 05 Mar 2026 02:11:25 GMT | HTB Brutus Walkthrough : How to Solve | Muhamad Jhony Agus Stiawan | [Read More](https://medium.com/p/c440a93d223b) |
@@ -88,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Mar 2026 18:56:00 GMT | EU GDPR — Article 28 (Processor) | MDM Team | [Read More](https://medium.com/p/32c46d794bff) |
 | Wed, 04 Mar 2026 18:55:28 GMT | Employee IT Security Training: Why Your Employees Are Your Biggest Cyber Risk | Cordula Boeck | [Read More](https://medium.com/p/e96d81821bb6) |
 | Wed, 04 Mar 2026 18:51:31 GMT | How a Simple RBAC Mistake Led to a $20K+ Admin Takeover | seek-404 | [Read More](https://medium.com/p/d196694791dd) |
-| Wed, 04 Mar 2026 18:49:43 GMT | Why Your Security Stack Has 60 Muscles and No Nervous System | Assaf | [Read More](https://medium.com/p/5da983917924) |
-| Wed, 04 Mar 2026 18:46:41 GMT | Trust Engines : Secure AI Agents, Data & Decisions by Design | Pradeep Kumar Muthukamatchi | [Read More](https://medium.com/p/eb96b496a073) |
-| Wed, 04 Mar 2026 18:45:31 GMT | AI Security Review Fails in Practice — an analysis of Opus 4.6 | Gadi Bashvitz | [Read More](https://medium.com/p/87af7486efa3) |
-| Wed, 04 Mar 2026 18:43:40 GMT | The AI Coding Revolution | Apolis | [Read More](https://medium.com/p/1319c1334951) |
-| Wed, 04 Mar 2026 18:41:34 GMT | Perjalanan Linux: Dari Kernel Sederhana hingga Ekosistem Global | Neverland Studio | [Read More](https://medium.com/p/d4ae194deee4) |
-| Wed, 04 Mar 2026 18:33:00 GMT | Bluetooth in Cybersecurity | Abderrahim Aoudj | [Read More](https://medium.com/p/ce43b284a2a1) |
-| Wed, 04 Mar 2026 18:25:59 GMT | My framework for success: EAT - Empathy, Authenticity & Transparency | Dhruv Jalota | [Read More](https://medium.com/p/63c5cca270a2) |
-| Wed, 04 Mar 2026 18:21:18 GMT | Nmap for Students: A Simple Guide to Understand Network Scanning (The Right Way) | Abhinabo Roy | [Read More](https://medium.com/p/4fec7225252c) |
-| Wed, 04 Mar 2026 18:18:21 GMT | Missiles on Data Centers: Iran Just Lit the Fuse Under the Gulf’s $100B+ AI Bet | Huzaifazeeshan | [Read More](https://medium.com/p/96f00b114679) |
-| Wed, 04 Mar 2026 18:16:32 GMT | Literature Review On Hospital Information System | Jason from Nicholls State University | [Read More](https://medium.com/p/29435333e174) |
-| Wed, 04 Mar 2026 18:14:56 GMT | Demystifying .NET | Shadhujan Jeyachandran | [Read More](https://medium.com/p/4ef316b8f9e1) |
-| Wed, 04 Mar 2026 18:12:53 GMT | Python Programming - Educational Simplified TCP and UDP Protocol Packet Transmission Experiment-TCP | Wisdomapple | [Read More](https://medium.com/p/75129b9785c2) |
-| Wed, 04 Mar 2026 18:11:44 GMT | Copypasta (SQLi) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/bfad05fae0a0) |
-| Wed, 04 Mar 2026 18:10:14 GMT | Symmetric Key Count | Tvmgouder | [Read More](https://medium.com/p/a1b60ad210ce) |
-| Wed, 04 Mar 2026 18:09:51 GMT | The CISO’s Confidant:
-AI-Powered Security Through the Eyes of a Veteran | Miracle Ojo | [Read More](https://medium.com/p/cfec10c857fc) |
-| Wed, 04 Mar 2026 18:08:32 GMT | Continuous Pentesting | Joshua Goossen | [Read More](https://medium.com/p/fa82107abb66) |
-| Wed, 04 Mar 2026 18:05:22 GMT | Why “Least Privilege” Is the Most Ignored Security Principle | Cybersphere Official | [Read More](https://medium.com/p/405158e7c834) |
-| Wed, 04 Mar 2026 18:04:48 GMT | Membongkar Kedok Malware “Kurir Paket” (PT. POS Indonesia.apk) Android Static Analysis Write-up | Syahbagus Radithya Haryo Santoso | [Read More](https://medium.com/p/a03996974654) |
-| Wed, 04 Mar 2026 18:01:03 GMT | Tanuki (SSRF) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/7ea950fa4485) |
-| Wed, 04 Mar 2026 18:01:02 GMT | Finance Blocks the Payout Batch When Benchmark Wins Still Risk Loss | James Kuhman | [Read More](https://medium.com/p/61b1ec235694) |
-| Wed, 04 Mar 2026 17:54:06 GMT | Online Romance and Escort Scams: How Fake Female Profiles Trick Victims Into Sending Money | Mr Technology | [Read More](https://medium.com/p/26f1aba14239) |
-| Wed, 04 Mar 2026 17:53:19 GMT | Python Programming - Educational Simplified TCP and UDP Protocol Packet Transmission Experiment-TCP | Wisdomapple | [Read More](https://medium.com/p/e0c54f0c43bd) |
-| Wed, 04 Mar 2026 17:52:29 GMT | Introduction to DOM Based Open Redirection | Naveen TK | [Read More](https://medium.com/p/fd248b34bdd0) |
-| Wed, 04 Mar 2026 17:51:00 GMT | With LLMs, everyone goes terminal. | Mohammed Brückner | [Read More](https://medium.com/p/4579d89352b4) |
