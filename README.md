@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Mar 2026 11:21:24 GMT | Modern Automation Strategies for Growing Businesses | n8ndevelopers | [Read More](https://medium.com/p/e640a9b47343) |
+| Thu, 05 Mar 2026 11:18:08 GMT | Everything You Know About Passwords Is Wrong | TextKit | [Read More](https://medium.com/p/20c417c7428a) |
+| Thu, 05 Mar 2026 11:14:00 GMT | Gemini’s Wrongful Death Lawsuit, The Epic-Google Truce, and Apple’s MacBook Neo - The Daily Tech… | Souren Stepanyan | [Read More](https://medium.com/p/36f1087ac400) |
+| Thu, 05 Mar 2026 11:13:44 GMT | Beginner Penetration Testing Lab: Exploiting vsftpd 2.3.4 on Metasploitable | Ertsberg Tjahyosedjati | [Read More](https://medium.com/p/533ae5e59fb5) |
+| Thu, 05 Mar 2026 11:12:36 GMT | Complete Guide to Installing TurboTax on Mac | Jellyfr | [Read More](https://medium.com/p/d19944a48b9f) |
+| Thu, 05 Mar 2026 11:11:31 GMT | Understanding Open Proxies: Risks to business and Infrastructure and how to block them | Whatoblock.com | [Read More](https://medium.com/p/9590146df661) |
+| Thu, 05 Mar 2026 11:10:30 GMT | The Ultimate Guide to Stopping AI Widgets from Destroying Your Smartphone Screen | Talha Tech Reviews | [Read More](https://medium.com/p/89b66ac2e55b) |
+| Thu, 05 Mar 2026 11:09:48 GMT | The Trust Tax: Securing the Software Supply Chain | Priyanka Guha | [Read More](https://medium.com/p/2e07aabcffb0) |
+| Thu, 05 Mar 2026 11:03:23 GMT | I’m trying to solve a ctf challenge about controlling a server by inputting files | Billy Elvonda Aron Umpel | [Read More](https://medium.com/p/41e48a09dede) |
+| Thu, 05 Mar 2026 11:00:55 GMT | From IDOR to Full ATO: Exploiting Identity Logic in Workspace Creation Flows | KimoSec | [Read More](https://medium.com/p/ba4ff1559723) |
+| Thu, 05 Mar 2026 11:00:06 GMT | Stop Your AI Agents from Going Rogue: Building a Governance Layer with FlowLite-MCP Bridge | Olufemi Oluoje | [Read More](https://medium.com/p/9534100f5823) |
+| Thu, 05 Mar 2026 10:56:31 GMT | How to Prevent DDoS Attacks? Key Strategies | Smit Pipaliya | [Read More](https://medium.com/p/08276d26be84) |
+| Thu, 05 Mar 2026 10:53:12 GMT | The Trust Tax: How Implicit Trust in CI/CD Enables Software Supply Chain Attacks | Priyanka Guha | [Read More](https://medium.com/p/aef31b0687f5) |
+| Thu, 05 Mar 2026 10:52:59 GMT | Why Cyber Security Training in Bangalore Is the Smartest Career Move in 2026 | Beta New | [Read More](https://medium.com/p/a0511b38bacf) |
+| Thu, 05 Mar 2026 10:51:02 GMT | Data anonymization for AI success to protect Sensitive Data | Rom | [Read More](https://medium.com/p/718d36a00a66) |
+| Thu, 05 Mar 2026 10:46:23 GMT | Spring Boot Security Best Practices (2026 Guide for Production Apps) | CodeTalks | [Read More](https://medium.com/p/4ecb37f9428d) |
+| Thu, 05 Mar 2026 10:40:44 GMT | The Week AI’s Foundations Shifted | Jayal Yadav | [Read More](https://medium.com/p/666e55ebee55) |
 | Thu, 05 Mar 2026 10:38:04 GMT | Two Coupons. One Logic Flaw. A Free $1337 Jacket. | TEJAS | [Read More](https://medium.com/p/a88c6d1f80a4) |
 | Thu, 05 Mar 2026 10:36:09 GMT | Moltbook and the Illusion of AI Society | F.M.C. - 孫婕 | [Read More](https://medium.com/p/6fb4de50807b) |
 | Thu, 05 Mar 2026 10:35:50 GMT | ZENfra | ZENfra | [Read More](https://medium.com/p/9fda6b3e05fd) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Mar 2026 05:09:16 GMT | How Microsoft Defender Protects Businesses from Ransomware Attacks | techzoidtechnologies | [Read More](https://medium.com/p/b68c5654a47a) |
 | Thu, 05 Mar 2026 05:00:33 GMT | How to Choose the Best IT Certification for Your Career in 2026 | Mandanakkalakshmipriya | [Read More](https://medium.com/p/359f3db4a91d) |
 | Thu, 05 Mar 2026 04:56:11 GMT | The AWS Security Blind Spot: Why Small Businesses Must Monitor AWS Management Actions | Chandan Bhattacharya | [Read More](https://medium.com/p/095adc6df44d) |
-| Thu, 05 Mar 2026 04:41:00 GMT | Recovering Deleted Files: What Really Happens Behind the Scenes in Digital Forensics | pavani | [Read More](https://medium.com/p/3d1bb7e3aa3a) |
-| Thu, 05 Mar 2026 04:36:09 GMT | Subdomain enumeration technique to discover critical vulnerabilities… | Mahim Avi | [Read More](https://medium.com/p/7bddfcafcc2f) |
-| Thu, 05 Mar 2026 04:28:48 GMT | The $380 Billion Standoff: Why Anthropic’s $20B Revenue Milestone is a Wake-Up Call for the AI… | Siddhesh Surve | [Read More](https://medium.com/p/8c95dcebef20) |
-| Thu, 05 Mar 2026 04:23:09 GMT | Penetration Testing | Cybersafetyeducation | [Read More](https://medium.com/p/58b87dc9082f) |
-| Thu, 05 Mar 2026 04:23:02 GMT | Cyber Safety Tips (2026) | JYOTI GUARD | [Read More](https://medium.com/p/7a7524bb935e) |
-| Thu, 05 Mar 2026 04:12:44 GMT | Setting up an onion service | Vaibhav Yadav | [Read More](https://medium.com/p/356b3ef2c206) |
-| Thu, 05 Mar 2026 04:12:43 GMT | Understanding Cyber Security Skills Every Ship Crew Member Should Know | Seafarer.online | [Read More](https://medium.com/p/2d15d556c34d) |
-| Thu, 05 Mar 2026 04:11:16 GMT | How I Uncovered Employee Data on a Crypto Exchange via WordPress Misconfiguration | Levp | [Read More](https://medium.com/p/c8723d0cc2c4) |
-| Thu, 05 Mar 2026 04:07:28 GMT | CyberDefenders Lab : psExec hunt Walkthrough | Muhamad Jhony Agus Stiawan | [Read More](https://medium.com/p/54cdd0c31237) |
-| Thu, 05 Mar 2026 04:00:41 GMT | Over The Wire : Bandit : Level 4 | Soumyadip Manna | [Read More](https://medium.com/p/22bb51482db5) |
-| Thu, 05 Mar 2026 03:59:02 GMT | Pawz Engram biologically-inspired memory architecture for persistent AI agents | gotham64 | [Read More](https://medium.com/p/3ccb18a2a4f1) |
-| Thu, 05 Mar 2026 03:56:41 GMT | Over The Wire : Bandit Level 3 | Soumyadip Manna | [Read More](https://medium.com/p/3b3f61f8380d) |
-| Thu, 05 Mar 2026 03:51:29 GMT | New SSH Key Generation and Adding it to GitHub Account | Jajati Behera | [Read More](https://medium.com/p/ab9f3b15c6c7) |
-| Thu, 05 Mar 2026 03:46:43 GMT | Breaking Authentication Using AI (Without Getting Banned) | ghostyjoe | [Read More](https://medium.com/p/311ec7a0a29f) |
-| Thu, 05 Mar 2026 03:44:42 GMT | New Explorations in the Integration of AI and the Crypto Market: Digital Shield Debuts at AMA to… | Digital Shield | [Read More](https://medium.com/p/77ea0f8acf16) |
-| Thu, 05 Mar 2026 03:33:11 GMT | The US-Iran-Israel Conflict Roils the Crypto Market, Prompting Deep Thoughts on Digital Asset… | Digital Shield | [Read More](https://medium.com/p/52236a0dda3a) |
-| Thu, 05 Mar 2026 03:30:22 GMT | Các kĩ thuật tấn công web bypass firewall/proxy | Dattq | [Read More](https://medium.com/p/7e278e8191e5) |
