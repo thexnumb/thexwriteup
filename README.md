@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Mar 2026 14:03:36 GMT | What Exactly Is GRC? | The GRC Guy | [Read More](https://medium.com/p/6aa1bbbbc434) |
+| Thu, 05 Mar 2026 13:56:35 GMT | Automated SOC 2 Evidence Collection on AWS | Davebhargavi | [Read More](https://medium.com/p/fa1f33f9a516) |
+| Thu, 05 Mar 2026 13:55:25 GMT | Task 3 (PsExec Hunt) | Okto | [Read More](https://medium.com/p/abf6e7a422a4) |
+| Thu, 05 Mar 2026 13:54:47 GMT | How Acoustic Testing Improves Comfort in Modern Buildings | Cocokelapa64 | [Read More](https://medium.com/p/4e425b0bdcbc) |
+| Thu, 05 Mar 2026 13:53:50 GMT | Solving a Bugforge Challenge — Exploiting SSRF in Tanuki | Pranaya Shrestha | [Read More](https://medium.com/p/7abb697378f1) |
+| Thu, 05 Mar 2026 13:51:58 GMT | Task 3 (Ph4nt0m 1ntrud3r) | Okto | [Read More](https://medium.com/p/f2b553c18461) |
+| Thu, 05 Mar 2026 13:44:07 GMT | AndroGoat — Red Team | Yrddry | [Read More](https://medium.com/p/f3c47101c195) |
+| Thu, 05 Mar 2026 13:44:00 GMT | TryHackMe Writeup: Creative | Berkay AĞGÜL | [Read More](https://medium.com/p/9d6147209a51) |
+| Thu, 05 Mar 2026 13:41:52 GMT | AI Powered Cyber Attacks: The New Threat in 2026 | Sanjana | [Read More](https://medium.com/p/bce1a82d964e) |
+| Thu, 05 Mar 2026 13:40:14 GMT | From Infrastructure to Real-World Utility: How Cellframe Network and KELVPN Are Building the… | Ibrahim Dajin | [Read More](https://medium.com/p/e86047207d38) |
+| Thu, 05 Mar 2026 13:36:55 GMT | The Missing Angle: Why “Capability” is the Final Ingredient of Fraud | Bhawnakapoormailbox | [Read More](https://medium.com/p/d2696dee29ad) |
+| Thu, 05 Mar 2026 13:36:00 GMT | 5 Cybersecurity Signals Every Business Should Know in 2026 | Lead Marketing Strategies | [Read More](https://medium.com/p/bbf7158e4b93) |
+| Thu, 05 Mar 2026 13:32:08 GMT | Security and Compliance Compete, Systems Lose | Peter Hillier/Halton | [Read More](https://medium.com/p/89df76f926ab) |
+| Thu, 05 Mar 2026 13:31:01 GMT | Zero Trust Architecture: A Strategic Approach for Modern Organizations | dilan alpaltun | [Read More](https://medium.com/p/bef2ce6a9e0c) |
+| Thu, 05 Mar 2026 13:13:31 GMT | BorderDroid-Challenge-8KSEC | Mohamed Ayman | [Read More](https://medium.com/p/f998df989962) |
+| Thu, 05 Mar 2026 13:02:11 GMT | I just finished a mind-blowing lecture on Reset Password Vulnerabilities… and honestly, my jaw… | Issa | [Read More](https://medium.com/p/7d4051b4669c) |
+| Thu, 05 Mar 2026 13:00:34 GMT | Understanding Linux File Permissions: A Beginner-Friendly Guide | Mtuaha | [Read More](https://medium.com/p/627563a0b8ed) |
+| Thu, 05 Mar 2026 12:59:41 GMT | Instagram Account Recovery! | Black Hat World | [Read More](https://medium.com/p/f75b00950b61) |
+| Thu, 05 Mar 2026 12:56:12 GMT | Instagram Account Recovery 2026! | Black Hat World | [Read More](https://medium.com/p/c6cd554441ef) |
 | Thu, 05 Mar 2026 12:44:53 GMT | SOC101- Phishing Mail Detected Event ID : 8 by LetsDefend.io | Harshkadam | [Read More](https://medium.com/p/fde7566805fe) |
 | Thu, 05 Mar 2026 12:44:00 GMT | New Research: 64% of 3rd-Party Applications Access Sensitive Data Without Justification | Oran F | [Read More](https://medium.com/p/6b740534beaa) |
 | Thu, 05 Mar 2026 12:39:42 GMT | The dreams I rarely say out loud | chel writes | [Read More](https://medium.com/p/1239b78124a6) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Mar 2026 07:38:21 GMT | Reaffirming InfoScale’s Commitment to Secure Infrastructure in an Evolving World | Varun Verma | [Read More](https://medium.com/p/0afa669565d4) |
 | Thu, 05 Mar 2026 07:27:48 GMT | From moths to Monty Python: The strange history of the tech we use daily | Tania Nunes | [Read More](https://medium.com/p/e9276bfd0f28) |
 | Thu, 05 Mar 2026 07:27:08 GMT | Empowering the Future of Customer Experiences Through Generative AI | Ascendion | [Read More](https://medium.com/p/80c4fd489342) |
-| Thu, 05 Mar 2026 07:19:10 GMT | Top Cybersecurity Threats Facing Australian SMBs in 2026 | bytewayptyltd | [Read More](https://medium.com/p/2c3621d2c5d5) |
-| Thu, 05 Mar 2026 07:18:25 GMT | I’ve Been a DevOps Engineer for Over a Decade. Here’s Why I Went Back for a PhD in Cybersecurity. | Ola Lawrence O | [Read More](https://medium.com/p/dd426174396d) |
-| Thu, 05 Mar 2026 07:13:38 GMT | Top 5 Apps to Turn Your Android Phone into a Home Security System | CCTV Mobile Camera | [Read More](https://medium.com/p/d458fdc1de1a) |
-| Thu, 05 Mar 2026 07:11:10 GMT | In the current landscape of supply-chain vulnerabilities and AI-driven social engineering, the… | Hughmanmicheal | [Read More](https://medium.com/p/63b94720e625) |
-| Thu, 05 Mar 2026 07:04:40 GMT | A Complete Mac Security Guide with the Right Antivirus Software | Siyanoav | [Read More](https://medium.com/p/19267fc3c4a5) |
-| Thu, 05 Mar 2026 07:04:02 GMT | When Threat Modelling becomes a continuous process | Ashish Shroff | [Read More](https://medium.com/p/cab621c2dc1d) |
-| Thu, 05 Mar 2026 07:01:03 GMT | Crisis Communication Types — The “Legal First” Trap | the CyberStoic | [Read More](https://medium.com/p/b5393fc8e535) |
-| Thu, 05 Mar 2026 07:01:01 GMT | 12. Artifact Management in CI/CD Pipeline. | Mangesh Muley | [Read More](https://medium.com/p/cb081c79694d) |
-| Thu, 05 Mar 2026 06:58:51 GMT | How to Fix Wireshark Errors on Linux (The Complete Guide) | ghostyjoe | [Read More](https://medium.com/p/7a94c6427b3b) |
-| Thu, 05 Mar 2026 06:56:11 GMT | Top 5 Digital Scams in 2026: How Cybercriminals Are Tricking Millions Online | Kshahabaj | [Read More](https://medium.com/p/249e928007cb) |
-| Thu, 05 Mar 2026 06:53:23 GMT | HTB LAB: Facts Machine (S10) | Zwikty | [Read More](https://medium.com/p/24b9557784f7) |
-| Thu, 05 Mar 2026 06:53:16 GMT | I Watched the Samsung ChatGPT Leak Story and Realized I Was Making the Same Mistake Every Day | Apoorv Sharma | [Read More](https://medium.com/p/8ad52ac7c116) |
-| Thu, 05 Mar 2026 06:53:03 GMT | Hack Snake.io: Trai Nghiem Ran San Moi “Ba Dao” Voi Bat Tu Va Vo Han Tien | DLMOD | [Read More](https://medium.com/p/5c58459c4e0a) |
-| Thu, 05 Mar 2026 06:50:53 GMT | EC Council CEH v13 Training & Certification in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/ff5d24a448f2) |
-| Thu, 05 Mar 2026 06:45:46 GMT | ประจำวันพฤหัสบดีที่ 5 มีนาคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/47632c317a47) |
-| Thu, 05 Mar 2026 06:43:09 GMT | AI in Cybersecurity: The Future of Digital Protection | alinamon | [Read More](https://medium.com/p/c8a7e67393de) |
-| Thu, 05 Mar 2026 06:41:16 GMT | Benefits of 24/7 Live Monitoring Services and Why King Gate Secure Is the Best Choice | Kgatesecure | [Read More](https://medium.com/p/032cd160fa8d) |
-| Thu, 05 Mar 2026 06:39:48 GMT | I Turned Myself Into an Admin… and Deleted Carlos | TEJAS | [Read More](https://medium.com/p/ee921f8f4651) |
-| Thu, 05 Mar 2026 06:36:49 GMT | A Look at the Base Security Level of MacOS Kiosks Running Uniguest Software | Mike Manrod | [Read More](https://medium.com/p/da5c57660978) |
