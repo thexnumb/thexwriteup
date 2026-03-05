@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Mar 2026 05:10:07 GMT | Incident Response Strategies for Mobile App Security Breaches | Maxatlasofficial | [Read More](https://medium.com/p/6d3bc9214441) |
+| Thu, 05 Mar 2026 05:09:16 GMT | How Microsoft Defender Protects Businesses from Ransomware Attacks | techzoidtechnologies | [Read More](https://medium.com/p/b68c5654a47a) |
+| Thu, 05 Mar 2026 05:00:33 GMT | How to Choose the Best IT Certification for Your Career in 2026 | Mandanakkalakshmipriya | [Read More](https://medium.com/p/359f3db4a91d) |
+| Thu, 05 Mar 2026 04:56:11 GMT | The AWS Security Blind Spot: Why Small Businesses Must Monitor AWS Management Actions | Chandan Bhattacharya | [Read More](https://medium.com/p/095adc6df44d) |
+| Thu, 05 Mar 2026 04:41:00 GMT | Recovering Deleted Files: What Really Happens Behind the Scenes in Digital Forensics | pavani | [Read More](https://medium.com/p/3d1bb7e3aa3a) |
+| Thu, 05 Mar 2026 04:36:09 GMT | Subdomain enumeration technique to discover critical vulnerabilities… | Mahim Avi | [Read More](https://medium.com/p/7bddfcafcc2f) |
+| Thu, 05 Mar 2026 04:28:48 GMT | The $380 Billion Standoff: Why Anthropic’s $20B Revenue Milestone is a Wake-Up Call for the AI… | Siddhesh Surve | [Read More](https://medium.com/p/8c95dcebef20) |
+| Thu, 05 Mar 2026 04:23:09 GMT | Penetration Testing | Cybersafetyeducation | [Read More](https://medium.com/p/58b87dc9082f) |
+| Thu, 05 Mar 2026 04:23:02 GMT | Cyber Safety Tips (2026) | JYOTI GUARD | [Read More](https://medium.com/p/7a7524bb935e) |
 | Thu, 05 Mar 2026 04:12:44 GMT | Setting up an onion service | Vaibhav Yadav | [Read More](https://medium.com/p/356b3ef2c206) |
 | Thu, 05 Mar 2026 04:12:43 GMT | Understanding Cyber Security Skills Every Ship Crew Member Should Know | Seafarer.online | [Read More](https://medium.com/p/2d15d556c34d) |
 | Thu, 05 Mar 2026 04:11:16 GMT | How I Uncovered Employee Data on a Crypto Exchange via WordPress Misconfiguration | Levp | [Read More](https://medium.com/p/c8723d0cc2c4) |
@@ -25,11 +34,14 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Mar 2026 03:33:11 GMT | The US-Iran-Israel Conflict Roils the Crypto Market, Prompting Deep Thoughts on Digital Asset… | Digital Shield | [Read More](https://medium.com/p/52236a0dda3a) |
 | Thu, 05 Mar 2026 03:30:22 GMT | Các kĩ thuật tấn công web bypass firewall/proxy | Dattq | [Read More](https://medium.com/p/7e278e8191e5) |
 | Thu, 05 Mar 2026 03:29:31 GMT | The US-Iran-Israel Conflict Roils the Crypto Market, Prompting Deep Thoughts on Digital Asset… | Digital Shield Offcial | [Read More](https://medium.com/p/6102bd7a39ec) |
+| Thu, 05 Mar 2026 03:25:26 GMT | MHL CTF - Airsecure writeup | Ayoubbensalem | [Read More](https://medium.com/p/ca03ed94c25b) |
 | Thu, 05 Mar 2026 03:24:57 GMT | New Explorations in the Integration of AI and the Crypto Market: Digital Shield Debuts at AMA to… | Digital Shield Offcial | [Read More](https://medium.com/p/81d0d6c2bc12) |
 | Thu, 05 Mar 2026 03:12:00 GMT | Beyond the Spec Sheet: 3 Hidden Resources Every IT Architect Should Read in 2026 | Robert - Enterprise Storage Expert | [Read More](https://medium.com/p/a993715b393b) |
 | Thu, 05 Mar 2026 03:05:49 GMT | Cloud Cybersecurity for AI Browsers: Securing AI Agents and Extensions in a Zero-Trust Model | CloudMosa, Inc. | [Read More](https://medium.com/p/eb2a70829243) |
 | Thu, 05 Mar 2026 03:04:55 GMT | The Three Pillars of CloudMosa Cybersecurity: Isolating Risk in the Cloud | CloudMosa, Inc. | [Read More](https://medium.com/p/d00ac1d7e284) |
+| Thu, 05 Mar 2026 03:04:37 GMT | The Broken Key:Why Voice Biometrics Was a Security Mistake | Berend Watchus | [Read More](https://medium.com/p/379d71da549a) |
 | Thu, 05 Mar 2026 03:03:41 GMT | Weekly Threat Intelligence Report 2 Mar 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/e50cc830efc4) |
+| Thu, 05 Mar 2026 03:02:49 GMT | Same Operation. Two American Broadcasts. Two Different Stories. | Berend Watchus | [Read More](https://medium.com/p/917391058eff) |
 | Thu, 05 Mar 2026 03:02:47 GMT | PG Play — FunboxRookie | Antonio | [Read More](https://medium.com/p/c9d0ea68860c) |
 | Thu, 05 Mar 2026 02:53:36 GMT | Android Static Analysis — Fake PT.Pos Indonesia — Red Team | Harmonax | [Read More](https://medium.com/p/452277a056db) |
 | Thu, 05 Mar 2026 02:53:28 GMT | picoCTF writeup: Operation Oni - Forensics Series | Sarah Qym | [Read More](https://medium.com/p/6b024e8828ec) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Mar 2026 20:13:26 GMT | How I Got 3 Bugs No Automation, Just Logic | Mado | [Read More](https://medium.com/p/65f372c664cd) |
 | Wed, 04 Mar 2026 20:08:14 GMT | Recon in Bug Bounty: The “Stalking” Phase of Ethical Hacking | loopXvedant | [Read More](https://medium.com/p/015e40d1b1ce) |
 | Wed, 04 Mar 2026 20:03:24 GMT | Why Do We See http:// or https:// in Website URLs? | Amol Raut | [Read More](https://medium.com/p/79392ba7429d) |
-| Wed, 04 Mar 2026 19:55:39 GMT | Push Your Live Stream or Private Network Camera Feed to Bloodcat Map for Subscribers to Play | Мартин. | [Read More](https://medium.com/p/49bbb7c6cfb5) |
-| Wed, 04 Mar 2026 19:43:27 GMT | Unmasking RCE-55128: Achieving Full Remote Code Execution On An Ai Platform Via Next.js | AKM | [Read More](https://medium.com/p/e653fbad6452) |
-| Wed, 04 Mar 2026 19:38:10 GMT | Least Privilege in Oracle Fusion ERP: Role Design That Survives Audits and Operations | Khadernawazk | [Read More](https://medium.com/p/f2d5187a9b7a) |
-| Wed, 04 Mar 2026 19:26:43 GMT | I Thought I Was a Hacker… Turns Out I Was Just Clicking Buttons | Murari Pothuru | [Read More](https://medium.com/p/9bd1a2459fe3) |
-| Wed, 04 Mar 2026 19:20:06 GMT | TryHackMe : Pickle Rick Walkthrough | Twilight | [Read More](https://medium.com/p/da62d2a1cc44) |
-| Wed, 04 Mar 2026 19:16:59 GMT | The 270-Day Blueprint: From JD Sports to Digital Forensics | Oluwaferanmi Oyebiyi | [Read More](https://medium.com/p/959b8a4e51b8) |
-| Wed, 04 Mar 2026 19:14:20 GMT | Eligibility for the Bugfreak Academy Cybersecurity Mentorship Certification | Bugfreak Academy | [Read More](https://medium.com/p/eccf40455fee) |
-| Wed, 04 Mar 2026 19:03:40 GMT | Kali Linux: | mahammad | [Read More](https://medium.com/p/4289dfab6fe5) |
-| Wed, 04 Mar 2026 19:02:50 GMT | End-to-End Encryption: The Math That Lets You Whisper in a Stadium of Eavesdroppers | Ashutosh Jha | [Read More](https://medium.com/p/ac8d8747bbf9) |
-| Wed, 04 Mar 2026 18:56:00 GMT | EU GDPR — Article 28 (Processor) | MDM Team | [Read More](https://medium.com/p/32c46d794bff) |
-| Wed, 04 Mar 2026 18:55:28 GMT | Employee IT Security Training: Why Your Employees Are Your Biggest Cyber Risk | Cordula Boeck | [Read More](https://medium.com/p/e96d81821bb6) |
-| Wed, 04 Mar 2026 18:51:31 GMT | How a Simple RBAC Mistake Led to a $20K+ Admin Takeover | seek-404 | [Read More](https://medium.com/p/d196694791dd) |
