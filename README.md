@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Mar 2026 09:32:32 GMT | When a nation’s own surveillance infrastructure becomes its greatest vulnerability.(The | MUHAMMED RUMAIS MV | [Read More](https://medium.com/p/9b9bed3c7c50) |
+| Thu, 05 Mar 2026 09:32:31 GMT | Deepfake Fraud Explodes, Putting Global Businesses at Risk | Speed Insights | [Read More](https://medium.com/p/f1ff291a9075) |
+| Thu, 05 Mar 2026 09:30:07 GMT | When AI Starts Hacking: The Trivy Incident and the Future of Automated Exploitation | Hacker's Perspective | [Read More](https://medium.com/p/7c6000e9b7ec) |
+| Thu, 05 Mar 2026 09:20:16 GMT | Penetration Testing With AWS Security Agent | Vinayak Pandey | [Read More](https://medium.com/p/7d3ac44c8268) |
+| Thu, 05 Mar 2026 09:20:15 GMT | Can AI Secure Your Flutter Apps Better Than Developers? | Pravin Kunnure | [Read More](https://medium.com/p/91ea91bd3294) |
+| Thu, 05 Mar 2026 09:05:07 GMT | Thinking Like an Attacker: How API Pen-Testers Identify Insecure Direct Object Reference (IDOR) | Stella Obatoye | [Read More](https://medium.com/p/19cbd37c5f8c) |
+| Thu, 05 Mar 2026 09:04:17 GMT | PicoCTF — Event Viewing & Ph4nt0m 1ntrud3r WriteUP | rexaa | [Read More](https://medium.com/p/e7ea15c8f60b) |
+| Thu, 05 Mar 2026 09:04:03 GMT | Your agent doesn’t need one security tool that does everything. It never did. | Andrea P. | [Read More](https://medium.com/p/77a1edf1ac38) |
+| Thu, 05 Mar 2026 09:01:01 GMT | How I Got Paid $4,200 From a Single Leaked Credential | Alexandre Vandamme | [Read More](https://medium.com/p/8c87a1be7d68) |
+| Thu, 05 Mar 2026 08:53:37 GMT | How to Identify Malicious or Unsafe Links Before Clicking | Hassan Khattak | [Read More](https://medium.com/p/01b8019aac38) |
+| Thu, 05 Mar 2026 08:39:18 GMT | How I Found a Hardcoded RSA Private Key in a Major Crypto Exchange’s Frontend | Hacker MD | [Read More](https://medium.com/p/dd27b6a78fb2) |
 | Thu, 05 Mar 2026 08:32:49 GMT | Best Door Frame Metal Detector Dealer in India | Smartsafetyindia | [Read More](https://medium.com/p/1f84c7ecad49) |
 | Thu, 05 Mar 2026 08:31:01 GMT | 2026: The Year the Operating System Started Thinking for Us | Lalit Tech Savvy | [Read More](https://medium.com/p/845aea2996a3) |
 | Thu, 05 Mar 2026 08:17:36 GMT | The Resident’s Guide to Using a Virtual Doorman System | Doris William | [Read More](https://medium.com/p/dbe534b530cc) |
@@ -60,6 +71,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Mar 2026 05:52:56 GMT | How Too Much Information Destroy Your Brain | Haden M | [Read More](https://medium.com/p/0ff7fd7dd7ba) |
 | Thu, 05 Mar 2026 05:47:46 GMT | Cloud Security Through a Red Team Lens: Identifying Hidden Attack Paths | Cynox Security LLP. | [Read More](https://medium.com/p/37ecc90a1a70) |
 | Thu, 05 Mar 2026 05:47:34 GMT | Top 5 Cybersecurity Courses and Certifications for Beginners in 2026 | Akshay Patil | [Read More](https://medium.com/p/69cb49f0414c) |
+| Thu, 05 Mar 2026 05:25:23 GMT | From Alerts to Action: The Rise of Autonomous NDR in 2026 | NetWitness | [Read More](https://medium.com/p/4971ac887cc4) |
 | Thu, 05 Mar 2026 05:10:07 GMT | Incident Response Strategies for Mobile App Security Breaches | Maxatlasofficial | [Read More](https://medium.com/p/6d3bc9214441) |
 | Thu, 05 Mar 2026 05:09:16 GMT | How Microsoft Defender Protects Businesses from Ransomware Attacks | techzoidtechnologies | [Read More](https://medium.com/p/b68c5654a47a) |
 | Thu, 05 Mar 2026 05:00:33 GMT | How to Choose the Best IT Certification for Your Career in 2026 | Mandanakkalakshmipriya | [Read More](https://medium.com/p/359f3db4a91d) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Mar 2026 02:14:28 GMT | Bridging Information Warfare and Crisis Management Through AI Diplomacy | Sagar Kaul | [Read More](https://medium.com/p/6accd040f8bb) |
 | Thu, 05 Mar 2026 02:11:25 GMT | HTB Brutus Walkthrough : How to Solve | Muhamad Jhony Agus Stiawan | [Read More](https://medium.com/p/c440a93d223b) |
 | Thu, 05 Mar 2026 02:05:19 GMT | Event Viewer PicoCTF Task Week 3 | Randy Iqbal Putra | [Read More](https://medium.com/p/42af2019ef73) |
-| Thu, 05 Mar 2026 02:01:01 GMT | AT&T Employees Steal Customer SIM Cards and AT&T Covers It Up | Samuel Brice | [Read More](https://medium.com/p/2c4247cdd028) |
-| Thu, 05 Mar 2026 01:51:51 GMT | Crypto’s Biggest Trade-Off Is Finally Breaking . And Cellframe May Have Solved It | Ibrahim Dajin | [Read More](https://medium.com/p/2f8a080b4b99) |
-| Thu, 05 Mar 2026 01:43:18 GMT | Securing the Backbone: Issue #4: The Business Cost of Software Supply Chain Attacks — How Much $$$… | Eric Gallagher | [Read More](https://medium.com/p/4a1fcf46e393) |
-| Thu, 05 Mar 2026 01:24:29 GMT | Why AI Security Cameras Are Critical for Modern Manufacturing | Tony Somerset | [Read More](https://medium.com/p/780244cc8bdb) |
-| Thu, 05 Mar 2026 01:24:00 GMT | The Quiet Shift From Model Safety to Execution Safety: What IMDA’s Agentic AI Framework Signals for… | Jonathan Capriola | [Read More](https://medium.com/p/c545eb4cc1ce) |
-| Thu, 05 Mar 2026 01:12:44 GMT | How to Tell What is Real Versus AI-Generated Content | Bits & Bytes Podcast Newsletter | [Read More](https://medium.com/p/e244ac3d4464) |
-| Thu, 05 Mar 2026 01:08:49 GMT | 04.03.26 - Is This Same Weakness Holding You Back? | Phoenix Files | [Read More](https://medium.com/p/1cd1c5e29c3a) |
-| Thu, 05 Mar 2026 01:06:04 GMT | CyberTalent: Game Zone | 0xAstr0x | [Read More](https://medium.com/p/1959f0878581) |
-| Thu, 05 Mar 2026 01:03:43 GMT | Proving Grounds — Practice — Wheels | Makoyi | [Read More](https://medium.com/p/ec2758e0ac53) |
-| Thu, 05 Mar 2026 00:49:13 GMT | The 184-File Breaking Point: How I Used Python to Cure My Chronic “Downloads” Chaos | Obioma Felicity Uzoh | [Read More](https://medium.com/p/8f4d2f19e5b6) |
-| Thu, 05 Mar 2026 00:24:22 GMT | Bir Hacker İçin Portlar Ne Anlama Gelir? | Zekikayaalp | [Read More](https://medium.com/p/6a1d0aaae7f6) |
-| Thu, 05 Mar 2026 00:20:53 GMT | After LockBit: The Ransomware Market Never Shrinks | privacyinsightsolutions.com | [Read More](https://medium.com/p/b11f17b6d5ba) |
