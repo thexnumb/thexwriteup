@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Mar 2026 08:32:49 GMT | Best Door Frame Metal Detector Dealer in India | Smartsafetyindia | [Read More](https://medium.com/p/1f84c7ecad49) |
+| Thu, 05 Mar 2026 08:31:01 GMT | 2026: The Year the Operating System Started Thinking for Us | Lalit Tech Savvy | [Read More](https://medium.com/p/845aea2996a3) |
+| Thu, 05 Mar 2026 08:17:36 GMT | The Resident’s Guide to Using a Virtual Doorman System | Doris William | [Read More](https://medium.com/p/dbe534b530cc) |
+| Thu, 05 Mar 2026 08:17:02 GMT | My First Merged Open Source Contribution to Cybersecurity Threat Intelligence | Anudevv | [Read More](https://medium.com/p/8812285a864e) |
+| Thu, 05 Mar 2026 08:16:49 GMT | Magnetic Door Sensor: A Simple Way to Strengthen Your Home Security | Criminology Expert | [Read More](https://medium.com/p/5d873512f023) |
+| Thu, 05 Mar 2026 08:16:12 GMT | The Unforgiving Computer: Why Web3 Hackers Run Out of Gas ⛽ | Tabrez Mukadam | [Read More](https://medium.com/p/c720b80b14c0) |
+| Thu, 05 Mar 2026 08:15:58 GMT | Our App Was Cloned by Hackers: Why Mobile Security Is Never Just “Optional” | Rafi zimraan arjuna wijaya | [Read More](https://medium.com/p/91f9f323999e) |
+| Thu, 05 Mar 2026 08:00:51 GMT | Lab3 — Cyberdefens Blueteam PsExec-Hunt | percobaan athn | [Read More](https://medium.com/p/34cf1cf30680) |
+| Thu, 05 Mar 2026 07:58:58 GMT | OS For Pentesters and SOC | Whoisaryantom4r | [Read More](https://medium.com/p/2b2bdf7589ca) |
+| Thu, 05 Mar 2026 07:55:49 GMT | The subscription model sucks | Lino | [Read More](https://medium.com/p/dbe3d9d5f0b9) |
+| Thu, 05 Mar 2026 07:55:28 GMT | El modelo de suscripción apesta | Lino | [Read More](https://medium.com/p/719f21da02b5) |
+| Thu, 05 Mar 2026 07:51:44 GMT | Cyber Security SEO Guide for Tech Businesses | Sterling Outreach Firms | [Read More](https://medium.com/p/7c38c2300452) |
+| Thu, 05 Mar 2026 07:46:43 GMT | SECURITY SHOULD INFORM. NOT JUST WARN. | NanoChain | [Read More](https://medium.com/p/3559c11eaa7e) |
+| Thu, 05 Mar 2026 07:39:34 GMT | Brutus Sherlock - Digital Forensics Challenge | Xinlisalim | [Read More](https://medium.com/p/7c5525c7be89) |
+| Thu, 05 Mar 2026 07:38:21 GMT | Reaffirming InfoScale’s Commitment to Secure Infrastructure in an Evolving World | Varun Verma | [Read More](https://medium.com/p/0afa669565d4) |
 | Thu, 05 Mar 2026 07:27:48 GMT | From moths to Monty Python: The strange history of the tech we use daily | Tania Nunes | [Read More](https://medium.com/p/e9276bfd0f28) |
 | Thu, 05 Mar 2026 07:27:08 GMT | Empowering the Future of Customer Experiences Through Generative AI | Ascendion | [Read More](https://medium.com/p/80c4fd489342) |
 | Thu, 05 Mar 2026 07:19:10 GMT | Top Cybersecurity Threats Facing Australian SMBs in 2026 | bytewayptyltd | [Read More](https://medium.com/p/2c3621d2c5d5) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Mar 2026 00:49:13 GMT | The 184-File Breaking Point: How I Used Python to Cure My Chronic “Downloads” Chaos | Obioma Felicity Uzoh | [Read More](https://medium.com/p/8f4d2f19e5b6) |
 | Thu, 05 Mar 2026 00:24:22 GMT | Bir Hacker İçin Portlar Ne Anlama Gelir? | Zekikayaalp | [Read More](https://medium.com/p/6a1d0aaae7f6) |
 | Thu, 05 Mar 2026 00:20:53 GMT | After LockBit: The Ransomware Market Never Shrinks | privacyinsightsolutions.com | [Read More](https://medium.com/p/b11f17b6d5ba) |
-| Thu, 05 Mar 2026 00:18:36 GMT | Eagle Vision Security Unveils Intelligent Facility Management (iFM)™ to Combat Rising Cargo Theft | Eaglevisionyards | [Read More](https://medium.com/p/6c3dd6a2e908) |
-| Thu, 05 Mar 2026 00:14:34 GMT | Spetsnaz Security International Limited: Technology in Modern Bodyguard Services: 2026 Trends from… | Spetsnaz Security International Limited Fidel VIP | [Read More](https://medium.com/p/8ee330eb266e) |
-| Thu, 05 Mar 2026 00:06:13 GMT | Introducing Kvlar: Runtime Security for AI Agents | Kvlar Team | [Read More](https://medium.com/p/e6cfaaad8078) |
-| Wed, 04 Mar 2026 23:33:23 GMT | Spetsnaz Security International Limited: How Much Does It Really Cost to Hire a Bodyguard in London… | #1: London UK Based V.I.P. Close Protection Guards | [Read More](https://medium.com/p/bcf9bc1ce7f0) |
-| Wed, 04 Mar 2026 23:31:00 GMT | Confidential Computing: Protecting Data While It’s Being Processed | Rahul Kaklotar | [Read More](https://medium.com/p/3b7085601fbe) |
-| Wed, 04 Mar 2026 23:19:19 GMT | Building a Cybersecurity Home Lab — Part 5.2: Enhanced Auditing / Logging | JBXSec | [Read More](https://medium.com/p/67057f27a20b) |
-| Wed, 04 Mar 2026 23:17:17 GMT | AI and Cybersecurity in Financial Infrastructure: Strategic Risks for the Next Decade | Andres Viña | [Read More](https://medium.com/p/dd7cbdc425b5) |
-| Wed, 04 Mar 2026 23:11:00 GMT | Securing Symfony Applications on Kubernetes with Prisma Cloud | Shingai Zivuku | [Read More](https://medium.com/p/281093e31f1f) |
-| Wed, 04 Mar 2026 23:00:51 GMT | Data Privacy and Security in MLOps | Saidatta Vikram Sabale | [Read More](https://medium.com/p/e2ae06494ced) |
-| Wed, 04 Mar 2026 22:59:03 GMT | Your Home Router Is Spying on You — Here’s How to Stop It | Jazz Cyber Shield | [Read More](https://medium.com/p/894ddf2ef5bd) |
-| Wed, 04 Mar 2026 22:48:56 GMT | Microsoft Defender for Endpoint: Unified, Built-In Endpoint Protection | Ryan Adams | [Read More](https://medium.com/p/c67bed43ed27) |
-| Wed, 04 Mar 2026 22:45:39 GMT | Your AI Strategy Is Probably Broken. Here’s How to Fix It. | Cyber-AppSec | [Read More](https://medium.com/p/141d103a2ea3) |
-| Wed, 04 Mar 2026 22:40:01 GMT | Did You Know Your Images May Contain Hidden Personal Data? | Myimagecompressor | [Read More](https://medium.com/p/cb1d334fb438) |
-| Wed, 04 Mar 2026 22:38:06 GMT | Safeguarding Patient Trust: The Intersection of Cloud Security and Machine Learning in Healthcare… | Gagandeep | [Read More](https://medium.com/p/1f6af14dea20) |
-| Wed, 04 Mar 2026 22:35:11 GMT | Why AI Agents Need Their Own Passports: The Engineering of Autonomous Identity | Soham Dutta | [Read More](https://medium.com/p/28b1f3241361) |
