@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Mar 2026 23:43:16 GMT | Building a HIPAA-Grade WAF on GCP: Cloud Armor, Rate Limiting, and a Secure Cloud Run Deployment | Iamabdullah | [Read More](https://medium.com/p/55d5e05fae75) |
+| Thu, 05 Mar 2026 23:41:29 GMT | SSO Misconfiguration Leading to Privilege Escalation Lead to Full Organization Takeover + SSO Email… | ali alhassoun | [Read More](https://medium.com/p/7d161e093c9e) |
+| Thu, 05 Mar 2026 23:34:32 GMT | What is Metasploit - The Beginner’s Guide | Ahm3d_Sec | [Read More](https://medium.com/p/3556c995dd50) |
+| Thu, 05 Mar 2026 23:26:03 GMT | The Death of Digital Sincerity: Why Your $10M Firewall is Now Irrelevant | Madhura Raj | [Read More](https://medium.com/p/75c3c7278a33) |
+| Thu, 05 Mar 2026 23:19:22 GMT | SecretPictures: HackTheBox Write-up | Braeden Allen | [Read More](https://medium.com/p/c4ab71d8996f) |
+| Thu, 05 Mar 2026 23:18:28 GMT | Birat Bazar Advances Growth Strategy with Diversified Digital Business Model | Barta Bari | [Read More](https://medium.com/p/4e4fd93a1d4c) |
+| Thu, 05 Mar 2026 23:11:49 GMT | Wenn gute Hacker ins Gefängnis kommen: Die paradoxe Realität der Cybersecurity in Berlin | Fatihbadem | [Read More](https://medium.com/p/9ceda8dc1442) |
+| Thu, 05 Mar 2026 23:09:49 GMT | Why I Stopped Leaving My Crypto on Exchanges (And You Should Too) | GuardiaCrypto | [Read More](https://medium.com/p/6563acbd15a3) |
+| Thu, 05 Mar 2026 22:55:26 GMT | Mobile Pentesting : Androgoat | L0udbaa | [Read More](https://medium.com/p/495650b46c8c) |
+| Thu, 05 Mar 2026 22:43:40 GMT | Day 17 : SOC L1 Alert Triage THM | Cybersecurity with Jojo | [Read More](https://medium.com/p/1bf0ff70d3d0) |
+| Thu, 05 Mar 2026 22:42:43 GMT | Kali Linux ile Steganografi: Dijital Dünyada Veri Gizleme | Zeynep ÖZÇELİK | [Read More](https://medium.com/p/7b26a7cdb7e1) |
+| Thu, 05 Mar 2026 22:38:28 GMT | Cheese CTF (THM) Tryhackme WriteUp Answer | Lawvye | [Read More](https://medium.com/p/bdaf295dd895) |
+| Thu, 05 Mar 2026 22:37:12 GMT | Are People Using Your Images Without Permission? | Myimagecompressor | [Read More](https://medium.com/p/12b1cb1ee3c8) |
+| Thu, 05 Mar 2026 22:36:13 GMT | The “Unhackable” Lie: Why Your Security Budget is Actually Making You a Target | ProfitShield AI | [Read More](https://medium.com/p/8c5ebb96117b) |
+| Thu, 05 Mar 2026 22:30:49 GMT | mKingdom An Easy [Try Hack Me] Lab : | Amrou bekhedda | [Read More](https://medium.com/p/20138d9a2bef) |
+| Thu, 05 Mar 2026 22:29:37 GMT | CodexField: Built for Structured Collaboration. Engineered for Secure, Scalable Web3 Execution. | Gee Pee | [Read More](https://medium.com/p/b8e5e606b108) |
 | Thu, 05 Mar 2026 22:22:24 GMT | Hutch (Proving Grounds) Walkthrough: An Active Directory Attack Path | SilentExploit | [Read More](https://medium.com/p/c8d4ab4b1691) |
 | Thu, 05 Mar 2026 22:16:01 GMT | Teaching Persons With Disabilities Advanced Digital Skills: What Facilitators Get Wrong — And How… | Victor Ekwueme | [Read More](https://medium.com/p/958e92e94396) |
 | Thu, 05 Mar 2026 22:10:45 GMT | Slack Bug Bounty — $1,750 Easy Bug | Sirat Sami (analyz3r) | [Read More](https://medium.com/p/af0db2e81231) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Mar 2026 15:46:00 GMT | [DEEP RESEARCH] Who’s Most Likely to Abuse MCP Integrations? UNC3944, TraderTraitor, UNC6293 | Wes Young | [Read More](https://medium.com/p/d0e9c4be2510) |
 | Thu, 05 Mar 2026 15:39:21 GMT | Browser Fingerprinting Nedir? Çerezler Olmadan Bile Nasıl Takip Edilebilirsin? | Ali Yaşe | [Read More](https://medium.com/p/50a6973d1710) |
 | Thu, 05 Mar 2026 15:32:26 GMT | Fast Email Investigation cheat sheet | Ismailmohamedmalash | [Read More](https://medium.com/p/e83f696c9a78) |
-| Thu, 05 Mar 2026 15:26:19 GMT | Principais serviços de VPN | Alex Feleol | [Read More](https://medium.com/p/eed908f7449b) |
-| Thu, 05 Mar 2026 15:22:09 GMT | Antivírus para dispositivos Android | Alex Feleol | [Read More](https://medium.com/p/c53e38711076) |
-| Thu, 05 Mar 2026 15:18:33 GMT | CVE-2026–29000: Critical Authentication Bypass in pac4j-jwt, Using Only a Public Key (CVSS 10) | Amartya Jha | [Read More](https://medium.com/p/d7bba3c41c6f) |
-| Thu, 05 Mar 2026 15:17:45 GMT | Hunters in the Dark: AI Agents and the Cyberecurity Trade-Off | JY Chan | [Read More](https://medium.com/p/719115e6608e) |
-| Thu, 05 Mar 2026 15:15:51 GMT | Writeup — PsExec Hunt Lab (CyberDefenders - Cybersecurity Bootcamp IDN Week 3 (Blue Team) | FAIZ AIDIL BAIHAQI | [Read More](https://medium.com/p/0ed16bc00fe5) |
-| Thu, 05 Mar 2026 15:14:58 GMT | Python Password Generator for Strong Cybersecurity | Muhammad Imran Zia | [Read More](https://medium.com/p/ae5c4da389a0) |
-| Thu, 05 Mar 2026 15:13:25 GMT | When You Can’t Trust the Voice: Deepfake Phishing and Real-Time AI Impersonation Threats to… | Cynox Security LLP. | [Read More](https://medium.com/p/8fa23e0da22d) |
-| Thu, 05 Mar 2026 15:06:07 GMT | The Hidden Cost Of AI Convenience Nobody Talks About | Brainstorm_delight | [Read More](https://medium.com/p/69f297cc0111) |
-| Thu, 05 Mar 2026 15:05:04 GMT | SOC Alert Triage Explained: How Security Analysts Handle Alerts | Antonyrajvedamanickam | [Read More](https://medium.com/p/f1b542ef2369) |
-| Thu, 05 Mar 2026 15:02:40 GMT | You Don’t Need to Be a Genius to Find Real Security Vulnerabilities — You Need a Better Process | R.H Rizvi | [Read More](https://medium.com/p/392669c80ec8) |
-| Thu, 05 Mar 2026 15:02:24 GMT | The Penetration Tester’s Paradox: Why the Best Hackers Think Like Defenders First | R.H Rizvi | [Read More](https://medium.com/p/f9c21bbc6d24) |
-| Thu, 05 Mar 2026 15:01:02 GMT | Cyber Briefing: 2026.03.05 | CyberMaterial | [Read More](https://medium.com/p/a3c27b13f30a) |
-| Thu, 05 Mar 2026 14:59:40 GMT | Solve PicoCTF Challenges: Event-Viewing & Ph4nt0m 1ntrud3r | Darasamsaraayu | [Read More](https://medium.com/p/074db25b8441) |
-| Thu, 05 Mar 2026 14:57:42 GMT | Attachment Day 01: My First Look Into Enterprise Cybersecurity | Arittroskr | [Read More](https://medium.com/p/9220bd6c2e3c) |
-| Thu, 05 Mar 2026 14:51:03 GMT | TryHackMe - Monitoring Active Directory - WriteUp | Axoloth | [Read More](https://medium.com/p/d602a91c34ba) |
-| Thu, 05 Mar 2026 14:50:09 GMT | Pyrat: A Capture The Flag Challenge Walkthrough | fub96 | [Read More](https://medium.com/p/6ca337db9b5f) |
