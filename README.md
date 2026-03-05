@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Mar 2026 06:45:46 GMT | ประจำวันพฤหัสบดีที่ 5 มีนาคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/47632c317a47) |
+| Thu, 05 Mar 2026 06:43:09 GMT | AI in Cybersecurity: The Future of Digital Protection | alinamon | [Read More](https://medium.com/p/c8a7e67393de) |
+| Thu, 05 Mar 2026 06:41:16 GMT | Benefits of 24/7 Live Monitoring Services and Why King Gate Secure Is the Best Choice | Kgatesecure | [Read More](https://medium.com/p/032cd160fa8d) |
+| Thu, 05 Mar 2026 06:39:48 GMT | I Turned Myself Into an Admin… and Deleted Carlos | TEJAS | [Read More](https://medium.com/p/ee921f8f4651) |
+| Thu, 05 Mar 2026 06:36:49 GMT | A Look at the Base Security Level of MacOS Kiosks Running Uniguest Software | Mike Manrod | [Read More](https://medium.com/p/da5c57660978) |
+| Thu, 05 Mar 2026 06:31:00 GMT | XSS Explained: How Hackers Inject Code Into Websites | loopXvedant | [Read More](https://medium.com/p/7d840ce05d4c) |
+| Thu, 05 Mar 2026 06:28:21 GMT | AI Is the Best Cybersecurity Teacher — If You Use It Correctly | jagadeesh kommoju | [Read More](https://medium.com/p/96d69f1c47d1) |
+| Thu, 05 Mar 2026 06:27:38 GMT | SSL Pinning in Flutter: Protecting Your App from Man-in-the-Middle Attacks | Nithin TA | [Read More](https://medium.com/p/da0372117961) |
+| Thu, 05 Mar 2026 06:24:31 GMT | Stop Burning Tokens on Security: How ControlGate Saves Your AI Context Window (and Your Budget) | Karthikeyan Sadayamuthu | [Read More](https://medium.com/p/a3cd6255e923) |
+| Thu, 05 Mar 2026 06:23:29 GMT | What is DevSecOps? A Simple Guide for Beginners | RealTech-IT-Academy | [Read More](https://medium.com/p/62db427be6e3) |
+| Thu, 05 Mar 2026 06:21:27 GMT | Top 10 AI Movies to Watch in 2026 | EINITIAL24 | [Read More](https://medium.com/p/95bbc116d416) |
+| Thu, 05 Mar 2026 06:16:40 GMT | Day 15 — I Paid Half Price for Tickets just by editing one number! | Issan | [Read More](https://medium.com/p/d4b98c7addeb) |
+| Thu, 05 Mar 2026 06:01:02 GMT | Stop chasing the perfect sentence because your flaws are what actually connect us | Pachpicha Pansuk | [Read More](https://medium.com/p/a93ea5ec315f) |
+| Thu, 05 Mar 2026 05:59:01 GMT | Don’t Reinvent the Wheel on Auth — But Do It Right: JWT + Google OAuth in Production | Leoucmao | [Read More](https://medium.com/p/7deb51a873e2) |
+| Thu, 05 Mar 2026 05:52:56 GMT | How Too Much Information Destroy Your Brain | Haden M | [Read More](https://medium.com/p/0ff7fd7dd7ba) |
+| Thu, 05 Mar 2026 05:47:46 GMT | Cloud Security Through a Red Team Lens: Identifying Hidden Attack Paths | Cynox Security LLP. | [Read More](https://medium.com/p/37ecc90a1a70) |
+| Thu, 05 Mar 2026 05:47:34 GMT | Top 5 Cybersecurity Courses and Certifications for Beginners in 2026 | Akshay Patil | [Read More](https://medium.com/p/69cb49f0414c) |
 | Thu, 05 Mar 2026 05:10:07 GMT | Incident Response Strategies for Mobile App Security Breaches | Maxatlasofficial | [Read More](https://medium.com/p/6d3bc9214441) |
 | Thu, 05 Mar 2026 05:09:16 GMT | How Microsoft Defender Protects Businesses from Ransomware Attacks | techzoidtechnologies | [Read More](https://medium.com/p/b68c5654a47a) |
 | Thu, 05 Mar 2026 05:00:33 GMT | How to Choose the Best IT Certification for Your Career in 2026 | Mandanakkalakshmipriya | [Read More](https://medium.com/p/359f3db4a91d) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Mar 2026 21:38:15 GMT | Try Hack Me- The Blob Blog CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/0b58c55ea3c9) |
 | Wed, 04 Mar 2026 21:37:07 GMT | Open Ports and their vulnerabilities. | rkn | [Read More](https://medium.com/p/951df5d4f790) |
 | Wed, 04 Mar 2026 21:34:51 GMT | Facts Machine HTB Solution | PsYc0 | [Read More](https://medium.com/p/6af33527d232) |
-| Wed, 04 Mar 2026 21:30:07 GMT | Energy Leverage and Strategic Competition: Oil Disruptions and the Shifting US-China Balance | Josh Johnson | [Read More](https://medium.com/p/04b5de90c2c6) |
-| Wed, 04 Mar 2026 21:29:05 GMT | Why Incident Response Plans Often Fail in Real Life | JSOC IT BLOG | [Read More](https://medium.com/p/b7c55e00ec22) |
-| Wed, 04 Mar 2026 21:17:11 GMT | Why Did the PMKID Attack Surprise Researchers? | Willian Bachini - MZTBTG | [Read More](https://medium.com/p/6ebccc8185fa) |
-| Wed, 04 Mar 2026 20:52:35 GMT | My Journey Through MITM Attacks — Part 2: DHCP starvation & Rogue Server | ofek789 | [Read More](https://medium.com/p/ad381027c74c) |
-| Wed, 04 Mar 2026 20:51:44 GMT | Spetsnaz Security International Limited: 5 Red Flags When Hiring London Bodyguards (Security… | Spetsnaz Security International Limited | [Read More](https://medium.com/p/9ce9a083ad1d) |
-| Wed, 04 Mar 2026 20:51:14 GMT | KinoSec.ai Becomes the #1 Black-Box Autonomous Pentesting Platform in the World | Alexis Lingad | [Read More](https://medium.com/p/9d463e55ddbd) |
-| Wed, 04 Mar 2026 20:48:53 GMT | Spetsnaz Security International Limited:  London’s 2026 Executive Protection Checklist: Verify… | Spetsnaz Security International Limited | [Read More](https://medium.com/p/48823f078b80) |
-| Wed, 04 Mar 2026 20:48:31 GMT | Apple Pay Scam Hitting Millions of Phones — Stop & verify before you hand over your Apple ID access | Karl Buhl | [Read More](https://medium.com/p/8fd4833a69c8) |
-| Wed, 04 Mar 2026 20:40:45 GMT | PicoCTF — Riddle Registry | Swetha | [Read More](https://medium.com/p/42430d1ef8a7) |
-| Wed, 04 Mar 2026 20:40:36 GMT | PicoCTF — Log Hunt | Swetha | [Read More](https://medium.com/p/21ccdd3b8aa1) |
-| Wed, 04 Mar 2026 20:40:34 GMT | I Watched a $48 Tool Save a Startup From Getting Bankrupted | Ajekigbe Michael. A | [Read More](https://medium.com/p/cd00a95b1557) |
-| Wed, 04 Mar 2026 20:30:03 GMT | Incident Response & Security Hardening Report | Aditya Bhatt | [Read More](https://medium.com/p/c78743000759) |
-| Wed, 04 Mar 2026 20:29:02 GMT | SSRF (Server-Side Request Forgery) | Aditya Bhatt | [Read More](https://medium.com/p/688b9e87f02c) |
-| Wed, 04 Mar 2026 20:25:14 GMT | Building a Cybersecurity Governance Strategy for a Healthcare Organisation Using NIST CSF | Kabir | [Read More](https://medium.com/p/6f2f0bb9aa5d) |
-| Wed, 04 Mar 2026 20:13:26 GMT | How I Got 3 Bugs No Automation, Just Logic | Mado | [Read More](https://medium.com/p/65f372c664cd) |
-| Wed, 04 Mar 2026 20:08:14 GMT | Recon in Bug Bounty: The “Stalking” Phase of Ethical Hacking | loopXvedant | [Read More](https://medium.com/p/015e40d1b1ce) |
-| Wed, 04 Mar 2026 20:03:24 GMT | Why Do We See http:// or https:// in Website URLs? | Amol Raut | [Read More](https://medium.com/p/79392ba7429d) |
