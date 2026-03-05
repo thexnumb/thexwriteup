@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Mar 2026 07:27:48 GMT | From moths to Monty Python: The strange history of the tech we use daily | Tania Nunes | [Read More](https://medium.com/p/e9276bfd0f28) |
+| Thu, 05 Mar 2026 07:27:08 GMT | Empowering the Future of Customer Experiences Through Generative AI | Ascendion | [Read More](https://medium.com/p/80c4fd489342) |
+| Thu, 05 Mar 2026 07:19:10 GMT | Top Cybersecurity Threats Facing Australian SMBs in 2026 | bytewayptyltd | [Read More](https://medium.com/p/2c3621d2c5d5) |
+| Thu, 05 Mar 2026 07:18:25 GMT | I’ve Been a DevOps Engineer for Over a Decade. Here’s Why I Went Back for a PhD in Cybersecurity. | Ola Lawrence O | [Read More](https://medium.com/p/dd426174396d) |
+| Thu, 05 Mar 2026 07:13:38 GMT | Top 5 Apps to Turn Your Android Phone into a Home Security System | CCTV Mobile Camera | [Read More](https://medium.com/p/d458fdc1de1a) |
+| Thu, 05 Mar 2026 07:11:10 GMT | In the current landscape of supply-chain vulnerabilities and AI-driven social engineering, the… | Hughmanmicheal | [Read More](https://medium.com/p/63b94720e625) |
+| Thu, 05 Mar 2026 07:04:40 GMT | A Complete Mac Security Guide with the Right Antivirus Software | Siyanoav | [Read More](https://medium.com/p/19267fc3c4a5) |
+| Thu, 05 Mar 2026 07:04:02 GMT | When Threat Modelling becomes a continuous process | Ashish Shroff | [Read More](https://medium.com/p/cab621c2dc1d) |
+| Thu, 05 Mar 2026 07:01:03 GMT | Crisis Communication Types — The “Legal First” Trap | the CyberStoic | [Read More](https://medium.com/p/b5393fc8e535) |
+| Thu, 05 Mar 2026 07:01:01 GMT | 12. Artifact Management in CI/CD Pipeline. | Mangesh Muley | [Read More](https://medium.com/p/cb081c79694d) |
+| Thu, 05 Mar 2026 06:58:51 GMT | How to Fix Wireshark Errors on Linux (The Complete Guide) | ghostyjoe | [Read More](https://medium.com/p/7a94c6427b3b) |
+| Thu, 05 Mar 2026 06:56:11 GMT | Top 5 Digital Scams in 2026: How Cybercriminals Are Tricking Millions Online | Kshahabaj | [Read More](https://medium.com/p/249e928007cb) |
+| Thu, 05 Mar 2026 06:53:23 GMT | HTB LAB: Facts Machine (S10) | Zwikty | [Read More](https://medium.com/p/24b9557784f7) |
+| Thu, 05 Mar 2026 06:53:16 GMT | I Watched the Samsung ChatGPT Leak Story and Realized I Was Making the Same Mistake Every Day | Apoorv Sharma | [Read More](https://medium.com/p/8ad52ac7c116) |
+| Thu, 05 Mar 2026 06:53:03 GMT | Hack Snake.io: Trai Nghiem Ran San Moi “Ba Dao” Voi Bat Tu Va Vo Han Tien | DLMOD | [Read More](https://medium.com/p/5c58459c4e0a) |
+| Thu, 05 Mar 2026 06:50:53 GMT | EC Council CEH v13 Training & Certification in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/ff5d24a448f2) |
 | Thu, 05 Mar 2026 06:45:46 GMT | ประจำวันพฤหัสบดีที่ 5 มีนาคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/47632c317a47) |
 | Thu, 05 Mar 2026 06:43:09 GMT | AI in Cybersecurity: The Future of Digital Protection | alinamon | [Read More](https://medium.com/p/c8a7e67393de) |
 | Thu, 05 Mar 2026 06:41:16 GMT | Benefits of 24/7 Live Monitoring Services and Why King Gate Secure Is the Best Choice | Kgatesecure | [Read More](https://medium.com/p/032cd160fa8d) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Mar 2026 22:40:01 GMT | Did You Know Your Images May Contain Hidden Personal Data? | Myimagecompressor | [Read More](https://medium.com/p/cb1d334fb438) |
 | Wed, 04 Mar 2026 22:38:06 GMT | Safeguarding Patient Trust: The Intersection of Cloud Security and Machine Learning in Healthcare… | Gagandeep | [Read More](https://medium.com/p/1f6af14dea20) |
 | Wed, 04 Mar 2026 22:35:11 GMT | Why AI Agents Need Their Own Passports: The Engineering of Autonomous Identity | Soham Dutta | [Read More](https://medium.com/p/28b1f3241361) |
-| Wed, 04 Mar 2026 22:27:21 GMT | The 60-Second Extinction: Why Your Backup Plan is a Fatal Joke | ProfitShield AI | [Read More](https://medium.com/p/4fdf1bbdb1a2) |
-| Wed, 04 Mar 2026 22:23:07 GMT | OSCP Command(Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/bd38997458ff) |
-| Wed, 04 Mar 2026 22:21:00 GMT | The Dependency Trap: Why Modern Software Fails Through Third-Party Fragility | David Jonathan | [Read More](https://medium.com/p/2d307dfd9fbd) |
-| Wed, 04 Mar 2026 22:17:29 GMT | Mayhem (THM) Tryhackme WriteUp Answer | Lawvye | [Read More](https://medium.com/p/82b705e76f10) |
-| Wed, 04 Mar 2026 22:10:49 GMT | Mapping The White Space in AI-Era Cybersecurity | Associate Team @ Chingona Ventures | [Read More](https://medium.com/p/b7f146b02b1b) |
-| Wed, 04 Mar 2026 22:00:59 GMT | From Encryption to Operational Paralysis: Why Ransomware 5.0 Targets Your Downtime | Ivan Stepanchuk | [Read More](https://medium.com/p/1dd10de7b4ad) |
-| Wed, 04 Mar 2026 22:00:01 GMT | What to Expect from Iran’s Digital Counterstrike | Matthew.Rosenquist | [Read More](https://medium.com/p/92b295b59149) |
-| Wed, 04 Mar 2026 21:57:25 GMT | The Way Of IT: Issue#1 | THE WAY OF IT | [Read More](https://medium.com/p/99a15215e0a7) |
-| Wed, 04 Mar 2026 21:55:07 GMT | Resource-Constrained Security: Hardening the Perimeter & Solving the Moving IP Headache #02 | Pinac Joshi | [Read More](https://medium.com/p/f7ac1f502475) |
-| Wed, 04 Mar 2026 21:54:28 GMT | Basic Linux Commands: A Beginner’s Guide to the Terminal | Mtuaha | [Read More](https://medium.com/p/f0320afe6836) |
-| Wed, 04 Mar 2026 21:50:19 GMT | I saw a life that is already full, already complete | iknowhowtowrite | [Read More](https://medium.com/p/8ccb50b48739) |
-| Wed, 04 Mar 2026 21:50:04 GMT | Speed Chatting-Unrestricted File Upload to Root RCE - TryHackMe Love at First Breach 2026 | m0ro23 | [Read More](https://medium.com/p/a0d13b2970ad) |
-| Wed, 04 Mar 2026 21:45:57 GMT | Protegendo Aplicações RAG contra Prompt Injection Indireto com Spotlight | Guilp03 | [Read More](https://medium.com/p/eca3629734b1) |
-| Wed, 04 Mar 2026 21:38:15 GMT | Try Hack Me- The Blob Blog CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/0b58c55ea3c9) |
-| Wed, 04 Mar 2026 21:37:07 GMT | Open Ports and their vulnerabilities. | rkn | [Read More](https://medium.com/p/951df5d4f790) |
-| Wed, 04 Mar 2026 21:34:51 GMT | Facts Machine HTB Solution | PsYc0 | [Read More](https://medium.com/p/6af33527d232) |
