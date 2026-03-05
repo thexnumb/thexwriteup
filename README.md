@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Mar 2026 20:22:05 GMT | I Built a CIS Benchmark Compliance Checker That Works on Both macOS and Linux | Sanketh Subhas | [Read More](https://medium.com/p/05d732d51b7d) |
+| Thu, 05 Mar 2026 20:20:52 GMT | ChatGPT’yi Ferrari Gibi Sürmek: Üretkenliğinizi 10 Katına Çıkaracak 10 Gizli Hack | Mehmet AYDIN | [Read More](https://medium.com/p/32e7aa31f44d) |
+| Thu, 05 Mar 2026 20:20:02 GMT | Predatory Patterns in Cybersecurity Career Gatekeeping: A Pattern-Based OSINT Analysis of… | BlueBirdIntel | [Read More](https://medium.com/p/9da79380f1b8) |
+| Thu, 05 Mar 2026 20:07:56 GMT | My very first bug : Finding BAC in Hubspot | CaoCao | [Read More](https://medium.com/p/5964dec7ade5) |
+| Thu, 05 Mar 2026 20:07:46 GMT | Burp Suite Features Most Pentesters Ignore (But Shouldn’t) | Hackers Things | [Read More](https://medium.com/p/09e1fe2f4ff7) |
+| Thu, 05 Mar 2026 20:06:34 GMT | Read Team | Heavenblack | [Read More](https://medium.com/p/d3e27374957c) |
+| Thu, 05 Mar 2026 20:05:14 GMT | Speaker Johnson’s Covenant Eyes Scandal Sent Users to Punge. Here’s What They Were Afraid Of. | Mark Russo | [Read More](https://medium.com/p/7bcf189d10fe) |
+| Thu, 05 Mar 2026 20:04:18 GMT | Building a Full SIEM From Scratch and Teaching an AI Agent to Hunt Threats in it | George Makris | [Read More](https://medium.com/p/f5c563374471) |
+| Thu, 05 Mar 2026 20:00:10 GMT | Networking for Cybersecurity: The Moment Attacks Stopped Looking Like Magic | WinXcipher | [Read More](https://medium.com/p/c2e116c60294) |
+| Thu, 05 Mar 2026 19:58:33 GMT | Strings — Android Challenge | Anwer | [Read More](https://medium.com/p/487790ed2e7b) |
+| Thu, 05 Mar 2026 19:38:34 GMT | The Most Underestimated Cyber Threat Isn’t Technical — It’s Executive Misalignment | ᴅᴀɴ ᴋᴏʀᴏᴠᴛᴄʜ | [Read More](https://medium.com/p/e6fcfe19220b) |
 | Thu, 05 Mar 2026 19:28:42 GMT | The Cybercrime Subscription You Never Signed Up For | Joao Silva | [Read More](https://medium.com/p/f28a9c1e77af) |
 | Thu, 05 Mar 2026 19:28:06 GMT | Cyber Kill Chain 1.1: A Guide to Passive Information Gathering (OSINT) | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/35d6ab24300c) |
 | Thu, 05 Mar 2026 19:28:01 GMT | Splunk: A Powerful Log Management Tool — How to Install and Use It | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/4f29c73353f5) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Mar 2026 13:41:52 GMT | AI Powered Cyber Attacks: The New Threat in 2026 | Sanjana | [Read More](https://medium.com/p/bce1a82d964e) |
 | Thu, 05 Mar 2026 13:40:14 GMT | From Infrastructure to Real-World Utility: How Cellframe Network and KELVPN Are Building the… | Ibrahim Dajin | [Read More](https://medium.com/p/e86047207d38) |
 | Thu, 05 Mar 2026 13:36:55 GMT | The Missing Angle: Why “Capability” is the Final Ingredient of Fraud | Bhawnakapoormailbox | [Read More](https://medium.com/p/d2696dee29ad) |
-| Thu, 05 Mar 2026 13:36:00 GMT | 5 Cybersecurity Signals Every Business Should Know in 2026 | Lead Marketing Strategies | [Read More](https://medium.com/p/bbf7158e4b93) |
-| Thu, 05 Mar 2026 13:32:08 GMT | Security and Compliance Compete, Systems Lose | Peter Hillier/Halton | [Read More](https://medium.com/p/89df76f926ab) |
-| Thu, 05 Mar 2026 13:31:01 GMT | Zero Trust Architecture: A Strategic Approach for Modern Organizations | dilan alpaltun | [Read More](https://medium.com/p/bef2ce6a9e0c) |
-| Thu, 05 Mar 2026 13:13:31 GMT | BorderDroid-Challenge-8KSEC | Mohamed Ayman | [Read More](https://medium.com/p/f998df989962) |
-| Thu, 05 Mar 2026 13:02:11 GMT | I just finished a mind-blowing lecture on Reset Password Vulnerabilities… and honestly, my jaw… | Issa | [Read More](https://medium.com/p/7d4051b4669c) |
-| Thu, 05 Mar 2026 13:00:34 GMT | Understanding Linux File Permissions: A Beginner-Friendly Guide | Mtuaha | [Read More](https://medium.com/p/627563a0b8ed) |
-| Thu, 05 Mar 2026 12:59:41 GMT | Instagram Account Recovery! | Black Hat World | [Read More](https://medium.com/p/f75b00950b61) |
-| Thu, 05 Mar 2026 12:56:12 GMT | Instagram Account Recovery 2026! | Black Hat World | [Read More](https://medium.com/p/c6cd554441ef) |
-| Thu, 05 Mar 2026 12:44:53 GMT | SOC101- Phishing Mail Detected Event ID : 8 by LetsDefend.io | Harshkadam | [Read More](https://medium.com/p/fde7566805fe) |
-| Thu, 05 Mar 2026 12:44:00 GMT | New Research: 64% of 3rd-Party Applications Access Sensitive Data Without Justification | Oran F | [Read More](https://medium.com/p/6b740534beaa) |
-| Thu, 05 Mar 2026 12:39:42 GMT | The dreams I rarely say out loud | chel writes | [Read More](https://medium.com/p/1239b78124a6) |
