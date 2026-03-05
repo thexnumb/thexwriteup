@@ -12,6 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Mar 2026 18:06:49 GMT | How Hotels Handle Guest Safety With Unarmed Security Near New York City? | The Safety Perspective | [Read More](https://medium.com/p/e2f3a82d2cb1) |
+| Thu, 05 Mar 2026 18:01:02 GMT | Remote Work Security: What Still Goes Wrong and How to Fix It | Dr Kimma Wreh | [Read More](https://medium.com/p/3c3ae9397b4f) |
+| Thu, 05 Mar 2026 18:00:25 GMT | Stop Hardcoding SSO in Vue: The Keycloak + Azure AD B2C Setup That Actually Works (Login + Reset +… | Mikhail Petrusheuski | [Read More](https://medium.com/p/9f62db769af8) |
+| Thu, 05 Mar 2026 17:56:52 GMT | The Linux Forensic Journey — Trash | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/52c75d18391f) |
+| Thu, 05 Mar 2026 17:54:51 GMT | Is the Person Next to You at the Café Recording You Right Now? | ByteSwift Digital pro | [Read More](https://medium.com/p/d4f6eb448a2f) |
+| Thu, 05 Mar 2026 17:51:00 GMT | Zero-trust networking in Azure: the operator’s version (not the slide deck) | Practical IT | [Read More](https://medium.com/p/4c6aed546c19) |
+| Thu, 05 Mar 2026 17:37:03 GMT | SPF, DMARC and DKIM settings in public domains for safe email. | SOCFortress | [Read More](https://medium.com/p/9b3457200fc6) |
+| Thu, 05 Mar 2026 17:36:01 GMT | Is our Password a “Welcome” Mat for Hackers? | Sanya joshy | [Read More](https://medium.com/p/0487e958db80) |
+| Thu, 05 Mar 2026 17:35:23 GMT | RedAlert Mobile Espionage Campaign: How Crisis Situations Are Being Weaponized in Modern Cyber… | Chetan Seripally | [Read More](https://medium.com/p/4a2c267f7349) |
+| Thu, 05 Mar 2026 17:35:19 GMT | OAuth Is Broken for AI Agents. Here’s the Cryptographic Fix. | Murlidhar B | [Read More](https://medium.com/p/06d84b40a1b0) |
+| Thu, 05 Mar 2026 17:31:53 GMT | 10 Mistakes I Made While Learning Cybersecurity (And How to Avoid Them) | Jiyaa25 | [Read More](https://medium.com/p/6fe364705a31) |
+| Thu, 05 Mar 2026 17:28:43 GMT | picoCTF writeup: MacroHard WeakEdge - Forensics Series | Sarah Qym | [Read More](https://medium.com/p/acda8e8b4acd) |
+| Thu, 05 Mar 2026 17:23:31 GMT | We Speak in Code | Maryam Jamil | [Read More](https://medium.com/p/a7cc4d04ff77) |
+| Thu, 05 Mar 2026 17:22:51 GMT | What Pain Taught Me That Comfort Never Could | Ms Viv | [Read More](https://medium.com/p/7c120b2a9bae) |
+| Thu, 05 Mar 2026 17:16:25 GMT | Top 10 Tech Skills Training Centers in Onitsha | Bitfundia | [Read More](https://medium.com/p/78ae5768acd7) |
+| Thu, 05 Mar 2026 17:08:27 GMT | International Law and the Attacks on Iran: What the Law Actually Says | Jahanzeb Ali Rizvi | [Read More](https://medium.com/p/5bb820fb9395) |
+| Thu, 05 Mar 2026 16:55:14 GMT | I Shared My Deepest Confession Online — And Felt Like a Fraud | Sweta Prasad | [Read More](https://medium.com/p/7012a0b89939) |
+| Thu, 05 Mar 2026 16:46:54 GMT | Translating Cyber Risk into Dollars: A Board-Level Guide to Security Spending | Ivan Stepanchuk | [Read More](https://medium.com/p/45a1b91ce3d0) |
+| Thu, 05 Mar 2026 16:44:30 GMT | Facebook | morgan mbuli | [Read More](https://medium.com/p/fa2a3981b1d2) |
+| Thu, 05 Mar 2026 16:36:35 GMT | Architecting Red Team Infrastructure: The AWS 3-Tier Model | Tyreek Haynes | [Read More](https://medium.com/p/f62f00d2e73c) |
+| Thu, 05 Mar 2026 16:29:08 GMT | Chaining IDOR to Admin Panel Takeover to SQLI | cryptoshant | [Read More](https://medium.com/p/b2ce412e5259) |
+| Thu, 05 Mar 2026 16:22:08 GMT | Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities: What Enterprises… | Germano Costi | [Read More](https://medium.com/p/43f6d07d8392) |
+| Thu, 05 Mar 2026 16:08:21 GMT | Your Security Training Is Useless…Here’s Why? | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/93c890a533a7) |
+| Thu, 05 Mar 2026 16:01:01 GMT | Securing the Agentic Frontier in the AI-Driven Era | Ehulse | [Read More](https://medium.com/p/fee0b1aa8d40) |
+| Thu, 05 Mar 2026 16:00:50 GMT | Building an Immutable, “Zero-Port” Music Cloud Server | Yuval Gorelik | [Read More](https://medium.com/p/671a7c5a6b87) |
 | Thu, 05 Mar 2026 15:56:44 GMT | Top Security Tech Trends in Canada for 2026 | AlexBryn | [Read More](https://medium.com/p/ad070a56804e) |
 | Thu, 05 Mar 2026 15:50:33 GMT | Threat Analysis: Chinese MSS Warns of Overseas Hackers Targeting E-Commerce Platforms for Critical… | an7arc71ca | [Read More](https://medium.com/p/0d23f56cbd15) |
 | Thu, 05 Mar 2026 15:50:05 GMT | Free VPN vs Paid VPN: The Truth They Hide (2026) | Jazz Cyber Shield | [Read More](https://medium.com/p/c6c977f3948e) |
@@ -87,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Mar 2026 11:10:30 GMT | The Ultimate Guide to Stopping AI Widgets from Destroying Your Smartphone Screen | Talha Tech Reviews | [Read More](https://medium.com/p/89b66ac2e55b) |
 | Thu, 05 Mar 2026 11:09:48 GMT | The Trust Tax: Securing the Software Supply Chain | Priyanka Guha | [Read More](https://medium.com/p/2e07aabcffb0) |
 | Thu, 05 Mar 2026 11:03:23 GMT | I’m trying to solve a ctf challenge about controlling a server by inputting files | Billy Elvonda Aron Umpel | [Read More](https://medium.com/p/41e48a09dede) |
-| Thu, 05 Mar 2026 11:00:55 GMT | From IDOR to Full ATO: Exploiting Identity Logic in Workspace Creation Flows | KimoSec | [Read More](https://medium.com/p/ba4ff1559723) |
-| Thu, 05 Mar 2026 11:00:06 GMT | Stop Your AI Agents from Going Rogue: Building a Governance Layer with FlowLite-MCP Bridge | Olufemi Oluoje | [Read More](https://medium.com/p/9534100f5823) |
-| Thu, 05 Mar 2026 10:56:31 GMT | How to Prevent DDoS Attacks? Key Strategies | Smit Pipaliya | [Read More](https://medium.com/p/08276d26be84) |
-| Thu, 05 Mar 2026 10:53:12 GMT | The Trust Tax: How Implicit Trust in CI/CD Enables Software Supply Chain Attacks | Priyanka Guha | [Read More](https://medium.com/p/aef31b0687f5) |
-| Thu, 05 Mar 2026 10:52:59 GMT | Why Cyber Security Training in Bangalore Is the Smartest Career Move in 2026 | Beta New | [Read More](https://medium.com/p/a0511b38bacf) |
-| Thu, 05 Mar 2026 10:51:02 GMT | Data anonymization for AI success to protect Sensitive Data | Rom | [Read More](https://medium.com/p/718d36a00a66) |
-| Thu, 05 Mar 2026 10:46:23 GMT | Spring Boot Security Best Practices (2026 Guide for Production Apps) | CodeTalks | [Read More](https://medium.com/p/4ecb37f9428d) |
-| Thu, 05 Mar 2026 10:40:44 GMT | The Week AI’s Foundations Shifted | Jayal Yadav | [Read More](https://medium.com/p/666e55ebee55) |
-| Thu, 05 Mar 2026 10:38:04 GMT | Two Coupons. One Logic Flaw. A Free $1337 Jacket. | TEJAS | [Read More](https://medium.com/p/a88c6d1f80a4) |
-| Thu, 05 Mar 2026 10:36:09 GMT | Moltbook and the Illusion of AI Society | F.M.C. - 孫婕 | [Read More](https://medium.com/p/6fb4de50807b) |
-| Thu, 05 Mar 2026 10:35:50 GMT | ZENfra | ZENfra | [Read More](https://medium.com/p/9fda6b3e05fd) |
-| Thu, 05 Mar 2026 10:30:35 GMT | S4x26: 6 Gedanken, die hängen bleiben | Sarah Fluchs | [Read More](https://medium.com/p/88d2d25b2cc5) |
-| Thu, 05 Mar 2026 10:30:16 GMT | I Audited 169 AI Agent Skills After 820 Malicious Ones Were Found on ClawHub. | Digitrendz | [Read More](https://medium.com/p/ae0c6de7efdf) |
-| Thu, 05 Mar 2026 10:28:51 GMT | The Future of Parking: Smart, Secure, and Easy Management Systems | Grdsnscrt | [Read More](https://medium.com/p/237c8d7f4bc6) |
-| Thu, 05 Mar 2026 10:27:34 GMT | HOW THE WEB WORKS -TryHackMe Module. Room 3: How Websites Work. | Raymond Ebonine | [Read More](https://medium.com/p/5fb07c03c0ff) |
-| Thu, 05 Mar 2026 10:27:14 GMT | What is KYC and How It Works | Biometric.Vision | [Read More](https://medium.com/p/ed077b98573d) |
-| Thu, 05 Mar 2026 10:25:02 GMT | AI 浪潮下的供應鏈重塑：2026 年投資機會解析 | Hsiehsungling | [Read More](https://medium.com/p/e2bd4697d602) |
-| Thu, 05 Mar 2026 10:23:53 GMT | Top Technical Skills to Learn in 2026 for a Successful IT Career | sri ram | [Read More](https://medium.com/p/7e9bf470fb14) |
-| Thu, 05 Mar 2026 10:19:44 GMT | My IOC Enrichment Workflow | Palupidyahr | [Read More](https://medium.com/p/c3bad78298aa) |
-| Thu, 05 Mar 2026 10:17:16 GMT | Lespion Lab by Cyberdefenders | Palupidyahr | [Read More](https://medium.com/p/8f6ac814f982) |
-| Thu, 05 Mar 2026 10:16:48 GMT | S4x26: 6 thoughts that stuck with me | Sarah Fluchs | [Read More](https://medium.com/p/08b0c1058d47) |
-| Thu, 05 Mar 2026 10:12:30 GMT | The Digital Transformation of the Security Dilemma: The Paradox from Anarchy to Algorithm | Ziya Gokalp | [Read More](https://medium.com/p/69c0a6c6d17b) |
-| Thu, 05 Mar 2026 10:03:51 GMT | Etik Hacker Nedir? Siber Güvenliğin Görünmeyen Savunma Hattı | HSD İnönü Üniversitesi | [Read More](https://medium.com/p/20419b1df205) |
-| Thu, 05 Mar 2026 10:01:11 GMT | Top PHP Security Libraries You Should Know in 2026 (Complete Developer Guide) | Neha Singh | [Read More](https://medium.com/p/65d12f9a4ea0) |
-| Thu, 05 Mar 2026 09:53:22 GMT | SELinux Troubleshooting | Odumosu Pamilerin | [Read More](https://medium.com/p/62fe850a6439) |
