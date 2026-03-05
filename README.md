@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Mar 2026 12:44:53 GMT | SOC101- Phishing Mail Detected Event ID : 8 by LetsDefend.io | Harshkadam | [Read More](https://medium.com/p/fde7566805fe) |
+| Thu, 05 Mar 2026 12:44:00 GMT | New Research: 64% of 3rd-Party Applications Access Sensitive Data Without Justification | Oran F | [Read More](https://medium.com/p/6b740534beaa) |
+| Thu, 05 Mar 2026 12:39:42 GMT | The dreams I rarely say out loud | chel writes | [Read More](https://medium.com/p/1239b78124a6) |
+| Thu, 05 Mar 2026 12:36:11 GMT | Revocation Only Works If Someone Actually Checks | James Moody | [Read More](https://medium.com/p/641929510f12) |
+| Thu, 05 Mar 2026 12:35:45 GMT | Linkə Klik Etmək Bank Hesabınızı Necə Oğurlada bilər? - Phishing və Hacker Hücumları (2026) | cybershieldy.com | [Read More](https://medium.com/p/f9f5b52c3605) |
+| Thu, 05 Mar 2026 12:35:01 GMT | Security Theatre of StopNCII | Lakshit Singh Bisht | [Read More](https://medium.com/p/efd3681cf0df) |
+| Thu, 05 Mar 2026 12:10:53 GMT | How to Deploy Wazuh Multi-Node Architecture: A Complete Step-by-Step Guide (2026) | Neetrox | [Read More](https://medium.com/p/9ab05a68946e) |
+| Thu, 05 Mar 2026 12:09:54 GMT | Encryption After Upload Is Not Secure Key Management | James Moody | [Read More](https://medium.com/p/79ec29dfcea2) |
+| Thu, 05 Mar 2026 12:05:57 GMT | Extracción Masiva en Lote (Blue Team Labs ) | IgnoranzaSolare | [Read More](https://medium.com/p/bd800f0c620b) |
+| Thu, 05 Mar 2026 12:02:53 GMT | A Practical Security Checklist for Atlassian Marketplace Apps | Yamuno | [Read More](https://medium.com/p/cc8a60b61d73) |
+| Thu, 05 Mar 2026 12:01:01 GMT | CTF Basics: Understanding APIs and JavaScript | Walter Moar | [Read More](https://medium.com/p/ba7d00d54bc7) |
+| Thu, 05 Mar 2026 12:01:01 GMT | The Penetration Test Report Problem (And What to Ask For Instead) | Cyphersilhouette | [Read More](https://medium.com/p/0231f83e29bb) |
+| Thu, 05 Mar 2026 12:01:00 GMT | Safety Rejects the Launch Checklist When the Policy PDF Buys Liability | James Kuhman | [Read More](https://medium.com/p/348c8afabb32) |
+| Thu, 05 Mar 2026 11:58:47 GMT | Security Controls Don’t Design Secure Systems | Peter Hillier/Halton | [Read More](https://medium.com/p/d0e3e3e71cb5) |
+| Thu, 05 Mar 2026 11:57:21 GMT | Security and Access Control Systems for Smart Buildings Explained | Robert Smith | [Read More](https://medium.com/p/d60a4751a623) |
+| Thu, 05 Mar 2026 11:32:44 GMT | Why More Women Are Joining the Security Industry — And Thriving | courses4u | [Read More](https://medium.com/p/8e881caf524a) |
+| Thu, 05 Mar 2026 11:31:12 GMT | I Built My First Cybersecurity Trap ! Here’s What I Learned About Honeypots | Shamini Nirodya | [Read More](https://medium.com/p/c076c9d592c1) |
 | Thu, 05 Mar 2026 11:21:24 GMT | Modern Automation Strategies for Growing Businesses | n8ndevelopers | [Read More](https://medium.com/p/e640a9b47343) |
 | Thu, 05 Mar 2026 11:18:08 GMT | Everything You Know About Passwords Is Wrong | TextKit | [Read More](https://medium.com/p/20c417c7428a) |
 | Thu, 05 Mar 2026 11:14:00 GMT | Gemini’s Wrongful Death Lawsuit, The Epic-Google Truce, and Apple’s MacBook Neo - The Daily Tech… | Souren Stepanyan | [Read More](https://medium.com/p/36f1087ac400) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Mar 2026 06:41:16 GMT | Benefits of 24/7 Live Monitoring Services and Why King Gate Secure Is the Best Choice | Kgatesecure | [Read More](https://medium.com/p/032cd160fa8d) |
 | Thu, 05 Mar 2026 06:39:48 GMT | I Turned Myself Into an Admin… and Deleted Carlos | TEJAS | [Read More](https://medium.com/p/ee921f8f4651) |
 | Thu, 05 Mar 2026 06:36:49 GMT | A Look at the Base Security Level of MacOS Kiosks Running Uniguest Software | Mike Manrod | [Read More](https://medium.com/p/da5c57660978) |
-| Thu, 05 Mar 2026 06:31:00 GMT | XSS Explained: How Hackers Inject Code Into Websites | loopXvedant | [Read More](https://medium.com/p/7d840ce05d4c) |
-| Thu, 05 Mar 2026 06:28:21 GMT | AI Is the Best Cybersecurity Teacher — If You Use It Correctly | jagadeesh kommoju | [Read More](https://medium.com/p/96d69f1c47d1) |
-| Thu, 05 Mar 2026 06:27:38 GMT | SSL Pinning in Flutter: Protecting Your App from Man-in-the-Middle Attacks | Nithin TA | [Read More](https://medium.com/p/da0372117961) |
-| Thu, 05 Mar 2026 06:24:31 GMT | Stop Burning Tokens on Security: How ControlGate Saves Your AI Context Window (and Your Budget) | Karthikeyan Sadayamuthu | [Read More](https://medium.com/p/a3cd6255e923) |
-| Thu, 05 Mar 2026 06:23:29 GMT | What is DevSecOps? A Simple Guide for Beginners | RealTech-IT-Academy | [Read More](https://medium.com/p/62db427be6e3) |
-| Thu, 05 Mar 2026 06:21:27 GMT | Top 10 AI Movies to Watch in 2026 | EINITIAL24 | [Read More](https://medium.com/p/95bbc116d416) |
-| Thu, 05 Mar 2026 06:16:40 GMT | Day 15 — I Paid Half Price for Tickets just by editing one number! | Issan | [Read More](https://medium.com/p/d4b98c7addeb) |
-| Thu, 05 Mar 2026 06:01:02 GMT | Stop chasing the perfect sentence because your flaws are what actually connect us | Pachpicha Pansuk | [Read More](https://medium.com/p/a93ea5ec315f) |
-| Thu, 05 Mar 2026 05:59:01 GMT | Don’t Reinvent the Wheel on Auth — But Do It Right: JWT + Google OAuth in Production | Leoucmao | [Read More](https://medium.com/p/7deb51a873e2) |
-| Thu, 05 Mar 2026 05:52:56 GMT | How Too Much Information Destroy Your Brain | Haden M | [Read More](https://medium.com/p/0ff7fd7dd7ba) |
-| Thu, 05 Mar 2026 05:47:46 GMT | Cloud Security Through a Red Team Lens: Identifying Hidden Attack Paths | Cynox Security LLP. | [Read More](https://medium.com/p/37ecc90a1a70) |
-| Thu, 05 Mar 2026 05:47:34 GMT | Top 5 Cybersecurity Courses and Certifications for Beginners in 2026 | Akshay Patil | [Read More](https://medium.com/p/69cb49f0414c) |
-| Thu, 05 Mar 2026 05:25:23 GMT | From Alerts to Action: The Rise of Autonomous NDR in 2026 | NetWitness | [Read More](https://medium.com/p/4971ac887cc4) |
-| Thu, 05 Mar 2026 05:10:07 GMT | Incident Response Strategies for Mobile App Security Breaches | Maxatlasofficial | [Read More](https://medium.com/p/6d3bc9214441) |
-| Thu, 05 Mar 2026 05:09:16 GMT | How Microsoft Defender Protects Businesses from Ransomware Attacks | techzoidtechnologies | [Read More](https://medium.com/p/b68c5654a47a) |
-| Thu, 05 Mar 2026 05:00:33 GMT | How to Choose the Best IT Certification for Your Career in 2026 | Mandanakkalakshmipriya | [Read More](https://medium.com/p/359f3db4a91d) |
-| Thu, 05 Mar 2026 04:56:11 GMT | The AWS Security Blind Spot: Why Small Businesses Must Monitor AWS Management Actions | Chandan Bhattacharya | [Read More](https://medium.com/p/095adc6df44d) |
