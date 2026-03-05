@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Mar 2026 02:16:04 GMT | How Attackers Abuse Microsoft Dev Tunnels for Stealthy C2 Infrastructure | Jason Fresco | [Read More](https://medium.com/p/9d7eb3f80534) |
+| Thu, 05 Mar 2026 02:14:28 GMT | Bridging Information Warfare and Crisis Management Through AI Diplomacy | Sagar Kaul | [Read More](https://medium.com/p/6accd040f8bb) |
+| Thu, 05 Mar 2026 02:11:25 GMT | HTB Brutus Walkthrough : How to Solve | Muhamad Jhony Agus Stiawan | [Read More](https://medium.com/p/c440a93d223b) |
+| Thu, 05 Mar 2026 02:05:19 GMT | Event Viewer PicoCTF Task Week 3 | Randy Iqbal Putra | [Read More](https://medium.com/p/42af2019ef73) |
+| Thu, 05 Mar 2026 02:01:01 GMT | AT&T Employees Steal Customer SIM Cards and AT&T Covers It Up | Samuel Brice | [Read More](https://medium.com/p/2c4247cdd028) |
+| Thu, 05 Mar 2026 01:51:51 GMT | Crypto’s Biggest Trade-Off Is Finally Breaking . And Cellframe May Have Solved It | Ibrahim Dajin | [Read More](https://medium.com/p/2f8a080b4b99) |
+| Thu, 05 Mar 2026 01:43:18 GMT | Securing the Backbone: Issue #4: The Business Cost of Software Supply Chain Attacks — How Much $$$… | Eric Gallagher | [Read More](https://medium.com/p/4a1fcf46e393) |
+| Thu, 05 Mar 2026 01:24:29 GMT | Why AI Security Cameras Are Critical for Modern Manufacturing | Tony Somerset | [Read More](https://medium.com/p/780244cc8bdb) |
+| Thu, 05 Mar 2026 01:24:00 GMT | The Quiet Shift From Model Safety to Execution Safety: What IMDA’s Agentic AI Framework Signals for… | Jonathan Capriola | [Read More](https://medium.com/p/c545eb4cc1ce) |
+| Thu, 05 Mar 2026 01:12:44 GMT | How to Tell What is Real Versus AI-Generated Content | Bits & Bytes Podcast Newsletter | [Read More](https://medium.com/p/e244ac3d4464) |
+| Thu, 05 Mar 2026 01:08:49 GMT | 04.03.26 - Is This Same Weakness Holding You Back? | Phoenix Files | [Read More](https://medium.com/p/1cd1c5e29c3a) |
+| Thu, 05 Mar 2026 01:06:04 GMT | CyberTalent: Game Zone | 0xAstr0x | [Read More](https://medium.com/p/1959f0878581) |
+| Thu, 05 Mar 2026 01:03:43 GMT | Proving Grounds — Practice — Wheels | Makoyi | [Read More](https://medium.com/p/ec2758e0ac53) |
+| Thu, 05 Mar 2026 00:49:13 GMT | The 184-File Breaking Point: How I Used Python to Cure My Chronic “Downloads” Chaos | Obioma Felicity Uzoh | [Read More](https://medium.com/p/8f4d2f19e5b6) |
+| Thu, 05 Mar 2026 00:24:22 GMT | Bir Hacker İçin Portlar Ne Anlama Gelir? | Zekikayaalp | [Read More](https://medium.com/p/6a1d0aaae7f6) |
+| Thu, 05 Mar 2026 00:20:53 GMT | After LockBit: The Ransomware Market Never Shrinks | privacyinsightsolutions.com | [Read More](https://medium.com/p/b11f17b6d5ba) |
+| Thu, 05 Mar 2026 00:18:36 GMT | Eagle Vision Security Unveils Intelligent Facility Management (iFM)™ to Combat Rising Cargo Theft | Eaglevisionyards | [Read More](https://medium.com/p/6c3dd6a2e908) |
+| Thu, 05 Mar 2026 00:14:34 GMT | Spetsnaz Security International Limited: Technology in Modern Bodyguard Services: 2026 Trends from… | Spetsnaz Security International Limited Fidel VIP | [Read More](https://medium.com/p/8ee330eb266e) |
+| Thu, 05 Mar 2026 00:06:13 GMT | Introducing Kvlar: Runtime Security for AI Agents | Kvlar Team | [Read More](https://medium.com/p/e6cfaaad8078) |
+| Wed, 04 Mar 2026 23:33:23 GMT | Spetsnaz Security International Limited: How Much Does It Really Cost to Hire a Bodyguard in London… | #1: London UK Based V.I.P. Close Protection Guards | [Read More](https://medium.com/p/bcf9bc1ce7f0) |
 | Wed, 04 Mar 2026 23:31:00 GMT | Confidential Computing: Protecting Data While It’s Being Processed | Rahul Kaklotar | [Read More](https://medium.com/p/3b7085601fbe) |
 | Wed, 04 Mar 2026 23:19:19 GMT | Building a Cybersecurity Home Lab — Part 5.2: Enhanced Auditing / Logging | JBXSec | [Read More](https://medium.com/p/67057f27a20b) |
 | Wed, 04 Mar 2026 23:17:17 GMT | AI and Cybersecurity in Financial Infrastructure: Strategic Risks for the Next Decade | Andres Viña | [Read More](https://medium.com/p/dd7cbdc425b5) |
@@ -34,6 +54,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 04 Mar 2026 21:55:07 GMT | Resource-Constrained Security: Hardening the Perimeter & Solving the Moving IP Headache #02 | Pinac Joshi | [Read More](https://medium.com/p/f7ac1f502475) |
 | Wed, 04 Mar 2026 21:54:28 GMT | Basic Linux Commands: A Beginner’s Guide to the Terminal | Mtuaha | [Read More](https://medium.com/p/f0320afe6836) |
 | Wed, 04 Mar 2026 21:50:19 GMT | I saw a life that is already full, already complete | iknowhowtowrite | [Read More](https://medium.com/p/8ccb50b48739) |
+| Wed, 04 Mar 2026 21:50:04 GMT | Speed Chatting-Unrestricted File Upload to Root RCE - TryHackMe Love at First Breach 2026 | m0ro23 | [Read More](https://medium.com/p/a0d13b2970ad) |
 | Wed, 04 Mar 2026 21:45:57 GMT | Protegendo Aplicações RAG contra Prompt Injection Indireto com Spotlight | Guilp03 | [Read More](https://medium.com/p/eca3629734b1) |
 | Wed, 04 Mar 2026 21:38:15 GMT | Try Hack Me- The Blob Blog CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/0b58c55ea3c9) |
 | Wed, 04 Mar 2026 21:37:07 GMT | Open Ports and their vulnerabilities. | rkn | [Read More](https://medium.com/p/951df5d4f790) |
@@ -92,24 +113,3 @@ AI-Powered Security Through the Eyes of a Veteran | Miracle Ojo | [Read More](ht
 | Wed, 04 Mar 2026 17:53:19 GMT | Python Programming - Educational Simplified TCP and UDP Protocol Packet Transmission Experiment-TCP | Wisdomapple | [Read More](https://medium.com/p/e0c54f0c43bd) |
 | Wed, 04 Mar 2026 17:52:29 GMT | Introduction to DOM Based Open Redirection | Naveen TK | [Read More](https://medium.com/p/fd248b34bdd0) |
 | Wed, 04 Mar 2026 17:51:00 GMT | With LLMs, everyone goes terminal. | Mohammed Brückner | [Read More](https://medium.com/p/4579d89352b4) |
-| Wed, 04 Mar 2026 17:49:51 GMT | Detecting Suspicious Login Activity Using Splunk (Beginner SOC Use Case) | mr | [Read More](https://medium.com/p/827eb70f7f7e) |
-| Wed, 04 Mar 2026 17:42:26 GMT | Decoding the Tycoon 2FA Phishing Kit Bust-Why Attackers Are Targeting Multi-Factor Authentication | Chetan Seripally | [Read More](https://medium.com/p/dc99e2c6c57c) |
-| Wed, 04 Mar 2026 17:40:20 GMT | Alphabet Soup: LotL Shellcode Obfuscation | Tom O'Neill | [Read More](https://medium.com/p/891667a6ee46) |
-| Wed, 04 Mar 2026 17:38:57 GMT | How a Simple RBAC Mistake Led to a $30K+ Admin Takeover | seek-404 | [Read More](https://medium.com/p/0533913c8383) |
-| Wed, 04 Mar 2026 17:35:15 GMT | ISO/IEC 42001 — Standard for Artificial Intelligence (AI) management systems — Part I: Planning for… | SOCFortress | [Read More](https://medium.com/p/d3cf5b87c045) |
-| Wed, 04 Mar 2026 17:34:29 GMT | Shellerator: A simple yet powerful CLI tool to generate reverse, bind and web shells | 0liverFlow | [Read More](https://medium.com/p/2af033731d65) |
-| Wed, 04 Mar 2026 17:28:50 GMT | Building an AI-Driven Cloud Threat Detection Platform | Gowtham Revanur | [Read More](https://medium.com/p/e82b8d6d28e0) |
-| Wed, 04 Mar 2026 17:24:05 GMT | When Faces Are No Longer Real: The Hidden Dangers of Deepfake and Morphing Technology | MrKarthikKN | [Read More](https://medium.com/p/21fd869d1560) |
-| Wed, 04 Mar 2026 17:23:09 GMT | 4 Stocks to Watch in 2026 | Motion Bloc | [Read More](https://medium.com/p/6ed47d89dce1) |
-| Wed, 04 Mar 2026 17:19:15 GMT | OpenClaw Vulnerability (ClawJacked) Explained: How Malicious Websites Hijacked AI Agents | IT_Engineer | [Read More](https://medium.com/p/ecc64d073235) |
-| Wed, 04 Mar 2026 17:16:08 GMT | The “Coat-Check” Method. Session-Based Auth and the “Cookie Tax” | Alina Kovtun✨ | [Read More](https://medium.com/p/cf81f252204d) |
-| Wed, 04 Mar 2026 17:13:23 GMT | The Danger of the “State Police” Gamble in Nigeria | I. NAJEEB | [Read More](https://medium.com/p/fd32f11cf19f) |
-| Wed, 04 Mar 2026 17:07:07 GMT | I Built a Free Prompt Kit That Helps Bug Bounty Hunters Get More P1s With Any AI | Md Tanjimul Islam Sifat | [Read More](https://medium.com/p/e5ba6c295c45) |
-| Wed, 04 Mar 2026 16:57:40 GMT | Static Analysis Android Malware: APK “PT POS INDONESIA -2_3.apk” | Abyan Zikra | [Read More](https://medium.com/p/56eeb7647962) |
-| Wed, 04 Mar 2026 16:54:03 GMT | Health, Forgetfulness, and the Hunger to Be Known | Mark Sanford, Ph.D. | [Read More](https://medium.com/p/57e9d340f372) |
-| Wed, 04 Mar 2026 16:51:00 GMT | Private Endpoint DNS Checklist (What to Verify, in Order) | Practical IT | [Read More](https://medium.com/p/6ba981f87af2) |
-| Wed, 04 Mar 2026 16:45:12 GMT | Brutus Write Up — HackTheBox | Elsandro Rivalito | [Read More](https://medium.com/p/8f25fb1eb14c) |
-| Wed, 04 Mar 2026 16:42:35 GMT | 98% of organisations would be exposed to an attack if their MSP failed according to research from… | Louise Rolfe | [Read More](https://medium.com/p/127c52500e91) |
-| Wed, 04 Mar 2026 16:38:06 GMT | Running AI Locally with Ollama and LLaMA 3: Why It’s a Big Deal for Engineers | Little_Sun4lower | [Read More](https://medium.com/p/0ba2f936e652) |
-| Wed, 04 Mar 2026 16:34:19 GMT | Week 3 HTB-Sherlock Brutus | Surya Agung Wicaksono | [Read More](https://medium.com/p/a820bb5ff2d2) |
-| Wed, 04 Mar 2026 16:34:16 GMT | Hidden Deep Into my Heart — THM Lab Writeup | Riad Moudjahed | [Read More](https://medium.com/p/0a6a1401a74a) |
