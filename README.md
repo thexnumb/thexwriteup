@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Mar 2026 15:22:09 GMT | Antivírus para dispositivos Android | Alex Feleol | [Read More](https://medium.com/p/c53e38711076) |
+| Thu, 05 Mar 2026 15:18:33 GMT | CVE-2026–29000: Critical Authentication Bypass in pac4j-jwt, Using Only a Public Key (CVSS 10) | Amartya Jha | [Read More](https://medium.com/p/d7bba3c41c6f) |
+| Thu, 05 Mar 2026 15:13:25 GMT | When You Can’t Trust the Voice: Deepfake Phishing and Real-Time AI Impersonation Threats to… | Cynox Security LLP. | [Read More](https://medium.com/p/8fa23e0da22d) |
+| Thu, 05 Mar 2026 15:06:07 GMT | The Hidden Cost Of AI Convenience Nobody Talks About | Brainstorm_delight | [Read More](https://medium.com/p/69f297cc0111) |
+| Thu, 05 Mar 2026 15:05:04 GMT | SOC Alert Triage Explained: How Security Analysts Handle Alerts | Antonyrajvedamanickam | [Read More](https://medium.com/p/f1b542ef2369) |
+| Thu, 05 Mar 2026 15:02:40 GMT | You Don’t Need to Be a Genius to Find Real Security Vulnerabilities — You Need a Better Process | R.H Rizvi | [Read More](https://medium.com/p/392669c80ec8) |
+| Thu, 05 Mar 2026 15:02:24 GMT | The Penetration Tester’s Paradox: Why the Best Hackers Think Like Defenders First | R.H Rizvi | [Read More](https://medium.com/p/f9c21bbc6d24) |
+| Thu, 05 Mar 2026 15:01:02 GMT | Cyber Briefing: 2026.03.05 | CyberMaterial | [Read More](https://medium.com/p/a3c27b13f30a) |
+| Thu, 05 Mar 2026 14:59:40 GMT | Solve PicoCTF Challenges: Event-Viewing & Ph4nt0m 1ntrud3r | Darasamsaraayu | [Read More](https://medium.com/p/074db25b8441) |
+| Thu, 05 Mar 2026 14:51:03 GMT | TryHackMe - Monitoring Active Directory - WriteUp | Axoloth | [Read More](https://medium.com/p/d602a91c34ba) |
+| Thu, 05 Mar 2026 14:50:09 GMT | Pyrat: A Capture The Flag Challenge Walkthrough | fub96 | [Read More](https://medium.com/p/6ca337db9b5f) |
+| Thu, 05 Mar 2026 14:50:03 GMT | idinahui — CTF_writeup-EHAX CTF2026 | wal-z1 | [Read More](https://medium.com/p/d736b36a83b8) |
+| Thu, 05 Mar 2026 14:45:04 GMT | What is Cybersecurity? A Beginner Friendly Guide | Rocket Raccoon Real | [Read More](https://medium.com/p/6c7e768e8a65) |
+| Thu, 05 Mar 2026 14:43:35 GMT | Linux Não Pega Vírus? A Verdade Por Trás do Maior Mito da Tecnologia | Paulo Henrique Oliveira | [Read More](https://medium.com/p/d7b357f6aeeb) |
+| Thu, 05 Mar 2026 14:32:10 GMT | Inside Consumer DVRs — Hardware & Firmware Security Evaluation (L1) - DS-80299_P Rev 1.1 | Aaronjjose | [Read More](https://medium.com/p/f8fc25ac56f2) |
+| Thu, 05 Mar 2026 14:28:36 GMT | Crypto Wallet Development Guide: How Wallets Work and How to Build One | John Galt | [Read More](https://medium.com/p/57b626faf15a) |
+| Thu, 05 Mar 2026 14:27:18 GMT | We are not Gen Z — We are Gen AI | Tanatswa Kamanga | [Read More](https://medium.com/p/0e0583f0aacb) |
+| Thu, 05 Mar 2026 14:18:36 GMT | noname walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/8788375b9f43) |
+| Thu, 05 Mar 2026 14:14:08 GMT | JWT None Algorithm Attack: Testing Signature Validation in Web Applications | Marwan Alsaifi | [Read More](https://medium.com/p/b3f5d99b28b0) |
 | Thu, 05 Mar 2026 14:03:36 GMT | What Exactly Is GRC? | The GRC Guy | [Read More](https://medium.com/p/6aa1bbbbc434) |
 | Thu, 05 Mar 2026 13:56:35 GMT | Automated SOC 2 Evidence Collection on AWS | Davebhargavi | [Read More](https://medium.com/p/fa1f33f9a516) |
 | Thu, 05 Mar 2026 13:55:25 GMT | Task 3 (PsExec Hunt) | Okto | [Read More](https://medium.com/p/abf6e7a422a4) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Mar 2026 09:04:17 GMT | PicoCTF — Event Viewing & Ph4nt0m 1ntrud3r WriteUP | rexaa | [Read More](https://medium.com/p/e7ea15c8f60b) |
 | Thu, 05 Mar 2026 09:04:03 GMT | Your agent doesn’t need one security tool that does everything. It never did. | Andrea P. | [Read More](https://medium.com/p/77a1edf1ac38) |
 | Thu, 05 Mar 2026 09:01:01 GMT | How I Got Paid $4,200 From a Single Leaked Credential | Alexandre Vandamme | [Read More](https://medium.com/p/8c87a1be7d68) |
-| Thu, 05 Mar 2026 08:53:37 GMT | How to Identify Malicious or Unsafe Links Before Clicking | Hassan Khattak | [Read More](https://medium.com/p/01b8019aac38) |
-| Thu, 05 Mar 2026 08:39:18 GMT | How I Found a Hardcoded RSA Private Key in a Major Crypto Exchange’s Frontend | Hacker MD | [Read More](https://medium.com/p/dd27b6a78fb2) |
-| Thu, 05 Mar 2026 08:32:49 GMT | Best Door Frame Metal Detector Dealer in India | Smartsafetyindia | [Read More](https://medium.com/p/1f84c7ecad49) |
-| Thu, 05 Mar 2026 08:31:01 GMT | 2026: The Year the Operating System Started Thinking for Us | Lalit Tech Savvy | [Read More](https://medium.com/p/845aea2996a3) |
-| Thu, 05 Mar 2026 08:17:36 GMT | The Resident’s Guide to Using a Virtual Doorman System | Doris William | [Read More](https://medium.com/p/dbe534b530cc) |
-| Thu, 05 Mar 2026 08:17:02 GMT | My First Merged Open Source Contribution to Cybersecurity Threat Intelligence | Anudevv | [Read More](https://medium.com/p/8812285a864e) |
-| Thu, 05 Mar 2026 08:16:49 GMT | Magnetic Door Sensor: A Simple Way to Strengthen Your Home Security | Criminology Expert | [Read More](https://medium.com/p/5d873512f023) |
-| Thu, 05 Mar 2026 08:16:12 GMT | The Unforgiving Computer: Why Web3 Hackers Run Out of Gas ⛽ | Tabrez Mukadam | [Read More](https://medium.com/p/c720b80b14c0) |
-| Thu, 05 Mar 2026 08:15:58 GMT | Our App Was Cloned by Hackers: Why Mobile Security Is Never Just “Optional” | Rafi zimraan arjuna wijaya | [Read More](https://medium.com/p/91f9f323999e) |
-| Thu, 05 Mar 2026 08:00:51 GMT | Lab3 — Cyberdefens Blueteam PsExec-Hunt | percobaan athn | [Read More](https://medium.com/p/34cf1cf30680) |
-| Thu, 05 Mar 2026 07:58:58 GMT | OS For Pentesters and SOC | Whoisaryantom4r | [Read More](https://medium.com/p/2b2bdf7589ca) |
-| Thu, 05 Mar 2026 07:55:49 GMT | The subscription model sucks | Lino | [Read More](https://medium.com/p/dbe3d9d5f0b9) |
-| Thu, 05 Mar 2026 07:55:28 GMT | El modelo de suscripción apesta | Lino | [Read More](https://medium.com/p/719f21da02b5) |
-| Thu, 05 Mar 2026 07:51:44 GMT | Cyber Security SEO Guide for Tech Businesses | Sterling Outreach Firms | [Read More](https://medium.com/p/7c38c2300452) |
-| Thu, 05 Mar 2026 07:46:43 GMT | SECURITY SHOULD INFORM. NOT JUST WARN. | NanoChain | [Read More](https://medium.com/p/3559c11eaa7e) |
-| Thu, 05 Mar 2026 07:39:34 GMT | Brutus Sherlock - Digital Forensics Challenge | Xinlisalim | [Read More](https://medium.com/p/7c5525c7be89) |
-| Thu, 05 Mar 2026 07:38:21 GMT | Reaffirming InfoScale’s Commitment to Secure Infrastructure in an Evolving World | Varun Verma | [Read More](https://medium.com/p/0afa669565d4) |
-| Thu, 05 Mar 2026 07:27:48 GMT | From moths to Monty Python: The strange history of the tech we use daily | Tania Nunes | [Read More](https://medium.com/p/e9276bfd0f28) |
-| Thu, 05 Mar 2026 07:27:08 GMT | Empowering the Future of Customer Experiences Through Generative AI | Ascendion | [Read More](https://medium.com/p/80c4fd489342) |
