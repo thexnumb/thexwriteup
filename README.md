@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 05 Mar 2026 15:56:44 GMT | Top Security Tech Trends in Canada for 2026 | AlexBryn | [Read More](https://medium.com/p/ad070a56804e) |
+| Thu, 05 Mar 2026 15:50:33 GMT | Threat Analysis: Chinese MSS Warns of Overseas Hackers Targeting E-Commerce Platforms for Critical… | an7arc71ca | [Read More](https://medium.com/p/0d23f56cbd15) |
+| Thu, 05 Mar 2026 15:50:05 GMT | Free VPN vs Paid VPN: The Truth They Hide (2026) | Jazz Cyber Shield | [Read More](https://medium.com/p/c6c977f3948e) |
+| Thu, 05 Mar 2026 15:48:39 GMT | Beyond Ethnicity: What Nigeria Should Really Expect from IGP Olatunji Disu | Bamisaye Adeniran | [Read More](https://medium.com/p/38bb63cc1223) |
+| Thu, 05 Mar 2026 15:46:00 GMT | [DEEP RESEARCH] Who’s Most Likely to Abuse MCP Integrations? UNC3944, TraderTraitor, UNC6293 | Wes Young | [Read More](https://medium.com/p/d0e9c4be2510) |
+| Thu, 05 Mar 2026 15:39:21 GMT | Browser Fingerprinting Nedir? Çerezler Olmadan Bile Nasıl Takip Edilebilirsin? | Ali Yaşe | [Read More](https://medium.com/p/50a6973d1710) |
+| Thu, 05 Mar 2026 15:32:26 GMT | Fast Email Investigation cheat sheet | Ismailmohamedmalash | [Read More](https://medium.com/p/e83f696c9a78) |
+| Thu, 05 Mar 2026 15:26:19 GMT | Principais serviços de VPN | Alex Feleol | [Read More](https://medium.com/p/eed908f7449b) |
 | Thu, 05 Mar 2026 15:22:09 GMT | Antivírus para dispositivos Android | Alex Feleol | [Read More](https://medium.com/p/c53e38711076) |
 | Thu, 05 Mar 2026 15:18:33 GMT | CVE-2026–29000: Critical Authentication Bypass in pac4j-jwt, Using Only a Public Key (CVSS 10) | Amartya Jha | [Read More](https://medium.com/p/d7bba3c41c6f) |
+| Thu, 05 Mar 2026 15:17:45 GMT | Hunters in the Dark: AI Agents and the Cyberecurity Trade-Off | JY Chan | [Read More](https://medium.com/p/719115e6608e) |
+| Thu, 05 Mar 2026 15:15:51 GMT | Writeup — PsExec Hunt Lab (CyberDefenders - Cybersecurity Bootcamp IDN Week 3 (Blue Team) | FAIZ AIDIL BAIHAQI | [Read More](https://medium.com/p/0ed16bc00fe5) |
+| Thu, 05 Mar 2026 15:14:58 GMT | Python Password Generator for Strong Cybersecurity | Muhammad Imran Zia | [Read More](https://medium.com/p/ae5c4da389a0) |
 | Thu, 05 Mar 2026 15:13:25 GMT | When You Can’t Trust the Voice: Deepfake Phishing and Real-Time AI Impersonation Threats to… | Cynox Security LLP. | [Read More](https://medium.com/p/8fa23e0da22d) |
 | Thu, 05 Mar 2026 15:06:07 GMT | The Hidden Cost Of AI Convenience Nobody Talks About | Brainstorm_delight | [Read More](https://medium.com/p/69f297cc0111) |
 | Thu, 05 Mar 2026 15:05:04 GMT | SOC Alert Triage Explained: How Security Analysts Handle Alerts | Antonyrajvedamanickam | [Read More](https://medium.com/p/f1b542ef2369) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Mar 2026 10:03:51 GMT | Etik Hacker Nedir? Siber Güvenliğin Görünmeyen Savunma Hattı | HSD İnönü Üniversitesi | [Read More](https://medium.com/p/20419b1df205) |
 | Thu, 05 Mar 2026 10:01:11 GMT | Top PHP Security Libraries You Should Know in 2026 (Complete Developer Guide) | Neha Singh | [Read More](https://medium.com/p/65d12f9a4ea0) |
 | Thu, 05 Mar 2026 09:53:22 GMT | SELinux Troubleshooting | Odumosu Pamilerin | [Read More](https://medium.com/p/62fe850a6439) |
-| Thu, 05 Mar 2026 09:52:27 GMT | How Enterprises Can Embrace AI Agent — Securely | cha0s | [Read More](https://medium.com/p/48227fa88395) |
-| Thu, 05 Mar 2026 09:52:08 GMT | Useful Websites in India for Information (2026) | Info.results | [Read More](https://medium.com/p/8637b99493fb) |
-| Thu, 05 Mar 2026 09:32:32 GMT | When a nation’s own surveillance infrastructure becomes its greatest vulnerability.(The | MUHAMMED RUMAIS MV | [Read More](https://medium.com/p/9b9bed3c7c50) |
-| Thu, 05 Mar 2026 09:32:31 GMT | Deepfake Fraud Explodes, Putting Global Businesses at Risk | Speed Insights | [Read More](https://medium.com/p/f1ff291a9075) |
-| Thu, 05 Mar 2026 09:30:07 GMT | When AI Starts Hacking: The Trivy Incident and the Future of Automated Exploitation | Hacker's Perspective | [Read More](https://medium.com/p/7c6000e9b7ec) |
-| Thu, 05 Mar 2026 09:20:16 GMT | Penetration Testing With AWS Security Agent | Vinayak Pandey | [Read More](https://medium.com/p/7d3ac44c8268) |
-| Thu, 05 Mar 2026 09:20:15 GMT | Can AI Secure Your Flutter Apps Better Than Developers? | Pravin Kunnure | [Read More](https://medium.com/p/91ea91bd3294) |
-| Thu, 05 Mar 2026 09:05:07 GMT | Thinking Like an Attacker: How API Pen-Testers Identify Insecure Direct Object Reference (IDOR) | Stella Obatoye | [Read More](https://medium.com/p/19cbd37c5f8c) |
-| Thu, 05 Mar 2026 09:04:17 GMT | PicoCTF — Event Viewing & Ph4nt0m 1ntrud3r WriteUP | rexaa | [Read More](https://medium.com/p/e7ea15c8f60b) |
-| Thu, 05 Mar 2026 09:04:03 GMT | Your agent doesn’t need one security tool that does everything. It never did. | Andrea P. | [Read More](https://medium.com/p/77a1edf1ac38) |
-| Thu, 05 Mar 2026 09:01:01 GMT | How I Got Paid $4,200 From a Single Leaked Credential | Alexandre Vandamme | [Read More](https://medium.com/p/8c87a1be7d68) |
