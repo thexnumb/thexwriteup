@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Mar 2026 05:18:29 GMT | Skill development center in Delhi NCR | Rohit Kanyal | [Read More](https://medium.com/p/0f6b59835375) |
+| Fri, 06 Mar 2026 05:13:53 GMT | OpenClaw: Security Scare vs The AI Dream | Park Sehun | [Read More](https://medium.com/p/c5eeeaffd176) |
+| Fri, 06 Mar 2026 05:08:47 GMT | Incident Response for CISOs: Aligning Security and Business Goals | NetWitness | [Read More](https://medium.com/p/37d4063c62ba) |
+| Fri, 06 Mar 2026 05:06:31 GMT | Cloud Security Controls for Backup and Recovery: Safeguarding Your Data | Mandanakkalakshmipriya | [Read More](https://medium.com/p/dc78bd440bac) |
+| Fri, 06 Mar 2026 05:05:36 GMT | The “Original Sin” of the Internet: Why Our Protocols Are Built for Trust, Not Security | Dushani Ekanayake | [Read More](https://medium.com/p/15f2180440b7) |
+| Fri, 06 Mar 2026 05:02:53 GMT | 2026 Cybersecurity Outlook & Lessons | Emory French | [Read More](https://medium.com/p/fb91b4a35f8f) |
+| Fri, 06 Mar 2026 05:01:02 GMT | If you want to become serious about bug bounty hunting or penetration testing, one thing becomes… | jagadeesh kommoju | [Read More](https://medium.com/p/17e46e9d7c22) |
+| Fri, 06 Mar 2026 04:53:06 GMT | From CTFs to Enterprise Security: What I Learned on Day One | Shoaib Bin Rashid | [Read More](https://medium.com/p/025f68566a58) |
+| Fri, 06 Mar 2026 04:50:05 GMT | For AI-Powered Internal Security: A Guide for Boise Businesses to Detect and Stop Insider Threats | Microtechsystems | [Read More](https://medium.com/p/1bc6993e0573) |
+| Fri, 06 Mar 2026 04:46:39 GMT | The Edge of Trust. | Sanjay K Mohindroo | [Read More](https://medium.com/p/281163c6f6a4) |
+| Fri, 06 Mar 2026 04:32:16 GMT | Least Privilege in Oracle Fusion HCM: Protecting PII with Role and Population Design | Khader Nawaz khan | [Read More](https://medium.com/p/de4808d0e2d9) |
+| Fri, 06 Mar 2026 04:31:02 GMT | HTB: Dog | bluesnow | [Read More](https://medium.com/p/99e03cb7428e) |
 | Fri, 06 Mar 2026 04:10:16 GMT | CRA Uyum 101: Üreticilerin Sorumlulukları | Duygu Fidancıoğlu | [Read More](https://medium.com/p/7c3b9efb35ce) |
 | Fri, 06 Mar 2026 04:08:42 GMT | From Curious Student to Ethical Hacker: My First Steps Into Cybersecurity | Uvish | [Read More](https://medium.com/p/a9f170366f6e) |
 | Fri, 06 Mar 2026 04:04:28 GMT | Bypassing Rate Limits via Race Conditions | Bash Overflow | [Read More](https://medium.com/p/ab4f91d8e0ca) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Mar 2026 20:00:10 GMT | Networking for Cybersecurity: The Moment Attacks Stopped Looking Like Magic | WinXcipher | [Read More](https://medium.com/p/c2e116c60294) |
 | Thu, 05 Mar 2026 19:58:33 GMT | Strings — Android Challenge | Anwer | [Read More](https://medium.com/p/487790ed2e7b) |
 | Thu, 05 Mar 2026 19:38:34 GMT | The Most Underestimated Cyber Threat Isn’t Technical — It’s Executive Misalignment | ᴅᴀɴ ᴋᴏʀᴏᴠᴛᴄʜ | [Read More](https://medium.com/p/e6fcfe19220b) |
-| Thu, 05 Mar 2026 19:28:42 GMT | The Cybercrime Subscription You Never Signed Up For | Joao Silva | [Read More](https://medium.com/p/f28a9c1e77af) |
-| Thu, 05 Mar 2026 19:28:06 GMT | Cyber Kill Chain 1.1: A Guide to Passive Information Gathering (OSINT) | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/35d6ab24300c) |
-| Thu, 05 Mar 2026 19:28:01 GMT | Splunk: A Powerful Log Management Tool — How to Install and Use It | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/4f29c73353f5) |
-| Thu, 05 Mar 2026 19:18:31 GMT | Still paying 4 years for a tech career? | Theusamaabdullah | [Read More](https://medium.com/p/fe2ffcacc99d) |
-| Thu, 05 Mar 2026 19:16:00 GMT | Transforming Unstructured Data: The Role of LLMs and AI Agents in Document Intelligence | Terzo HQ | [Read More](https://medium.com/p/1455f9845005) |
-| Thu, 05 Mar 2026 19:13:17 GMT | Inside the Hacker’s Mind -The Thin Line Between Criminal Curiosity and Ethical Responsibility | Ayushman Misra | [Read More](https://medium.com/p/da0fc4838ac7) |
-| Thu, 05 Mar 2026 19:12:36 GMT | Protect WordPress from Spam Bots Using Cloudflare (Complete Security Guide) | MiscPros | [Read More](https://medium.com/p/3161add66609) |
-| Thu, 05 Mar 2026 19:05:03 GMT | Best Free DLP Testing Tools in 2026 | Jibsoni | [Read More](https://medium.com/p/fd97129a21d9) |
-| Thu, 05 Mar 2026 19:01:00 GMT | A Critical Referral Logic Flaw Enabling Unlimited Financial Exposure | 0xMo7areb | [Read More](https://medium.com/p/44dd753e0269) |
-| Thu, 05 Mar 2026 19:01:00 GMT | You Can Bring the Environment Back — and Still Be Dead | Jere Le | [Read More](https://medium.com/p/811af831bda9) |
-| Thu, 05 Mar 2026 18:55:43 GMT | Introducing Managed IT Services from Advanced Computers | Info | [Read More](https://medium.com/p/211022a58d58) |
-| Thu, 05 Mar 2026 18:55:04 GMT | The Weakest Link: How Bad Code Destroys Good Security — Cybersecurity Unlocked Ep. 11 | Yash Kitey | [Read More](https://medium.com/p/8424e969e428) |
