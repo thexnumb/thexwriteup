@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Mar 2026 20:31:23 GMT | A Chrome AI Feature Could’ve Let Extensions Spy on Your Camera, Mic & Files (CVE-2026–0628… | Subhan Ali | [Read More](https://medium.com/p/8901e1d8b70a) |
+| Fri, 06 Mar 2026 20:29:18 GMT | PwnSec CTF 2025 Mobile — RudeFrida | Mohannad Handoumeh | [Read More](https://medium.com/p/8356fcf69264) |
+| Fri, 06 Mar 2026 20:26:51 GMT | AI-Powered Hacking: How Hackers Weaponized AI in 2025 | Ahmed Fouad Kadhim | [Read More](https://medium.com/p/c9c2548ea9a1) |
+| Fri, 06 Mar 2026 20:22:09 GMT | Penetration Testing Android Pada aplikasi AndroidGoat | Firmansyahfebi | [Read More](https://medium.com/p/6c05abaef8b7) |
+| Fri, 06 Mar 2026 20:19:48 GMT | Red Team Checklist: Web Server Initial Access Part — 01 | Cybernaumad | [Read More](https://medium.com/p/fefca162f636) |
+| Fri, 06 Mar 2026 20:18:07 GMT | Cybersecurity Is a Leadership Issue Not Just an IT Problem | Dr Kimma Wreh | [Read More](https://medium.com/p/24b7d4d38589) |
+| Fri, 06 Mar 2026 20:17:18 GMT | I don’t want a weak spot | StillVoice | [Read More](https://medium.com/p/c3e3a797071f) |
+| Fri, 06 Mar 2026 20:15:42 GMT | Full CRUD With Low Privileges: RBAC Misconfigurations and the Dark Side of Bug Bounty | Muhammad Wageh | [Read More](https://medium.com/p/de055217e612) |
+| Fri, 06 Mar 2026 20:15:33 GMT | Linux Server Best Practices | Fabius lihanda | [Read More](https://medium.com/p/12324813d627) |
+| Fri, 06 Mar 2026 20:12:30 GMT | Exploring Cybersecurity with Nova Cybersecurity Lab Game | Daria Korsun | [Read More](https://medium.com/p/67023edaac2a) |
+| Fri, 06 Mar 2026 20:10:30 GMT | O cliente não fala CVE | Holzweg | [Read More](https://medium.com/p/7d45ed7999b6) |
+| Fri, 06 Mar 2026 20:06:38 GMT | FUNBOX SCRIPT KIDDIE WALKTHROUGH USING FTP VULNERABILITY | Yash naik | [Read More](https://medium.com/p/853b7eca88ae) |
+| Fri, 06 Mar 2026 20:03:55 GMT | What happens when you are not used to receiving? | Big general Podcast | [Read More](https://medium.com/p/bcec37030de8) |
+| Fri, 06 Mar 2026 20:01:01 GMT | Scanning Images for Vulnerabilities in Snowpark Container Services | Vladimir Timofeenko | [Read More](https://medium.com/p/cc85ca34957f) |
+| Fri, 06 Mar 2026 19:40:50 GMT | IDOR: The Phone Number That Speaks Everyone’s Secrets | Anandhan | [Read More](https://medium.com/p/a6f97f381cd0) |
+| Fri, 06 Mar 2026 19:37:30 GMT | The Name of War, the Limits of Solidarity | Gökçen Kunukcu | [Read More](https://medium.com/p/86ca0c2c53f6) |
+| Fri, 06 Mar 2026 19:32:38 GMT | How I Exposed My Local Services to the Internet Using Cloudflare Tunnel | Ram Singh Panwar | [Read More](https://medium.com/p/bb8a69e84f08) |
 | Fri, 06 Mar 2026 19:32:31 GMT | Görünmeyenin Tehlikesi: CVE-2021–22204, Metadata Manipülasyonu ve RCE | Erdem Ceylan | [Read More](https://medium.com/p/fe5fa0ffdd50) |
 | Fri, 06 Mar 2026 19:31:39 GMT | Sistemas operacionais para Analistas de Segurança | Alex Feleol | [Read More](https://medium.com/p/7dd5cb1eac21) |
 | Fri, 06 Mar 2026 19:30:58 GMT | Active Directory Security Series — Part 4 | servet demirci | [Read More](https://medium.com/p/e571d2fabb64) |
@@ -96,20 +113,3 @@ How a free Telegram channel… | Mirmahmood | [Read More](https://medium.com/p/8
 | Fri, 06 Mar 2026 14:46:01 GMT | 10 action-audit patterns that make agents defensible in reviews | Nikulsinh Rajput | [Read More](https://medium.com/p/e814f7fce962) |
 | Fri, 06 Mar 2026 14:45:01 GMT | Bypassing Network Policies Using Host Network | Vinayak Pandey | [Read More](https://medium.com/p/d6390cf4ca99) |
 | Fri, 06 Mar 2026 14:44:11 GMT | Engineering a Forensic-Grade Hybrid Pipeline for Deepfake Detection | ABU SAMEER | [Read More](https://medium.com/p/f24b1643f49d) |
-| Fri, 06 Mar 2026 14:36:00 GMT | What You Edit Out Reveals Who You Are as a Writer | Ella | [Read More](https://medium.com/p/086ccc4ebcfa) |
-| Fri, 06 Mar 2026 14:32:47 GMT | Day 18 : Vulnerability Assessment from HackTheBox | Cybersecurity with Jojo | [Read More](https://medium.com/p/6a368e8850fa) |
-| Fri, 06 Mar 2026 14:21:00 GMT | Disappointment Breakup: How to Win Her Back When She’s Given Up on You | Xiaochen | [Read More](https://medium.com/p/19af783174b6) |
-| Fri, 06 Mar 2026 14:19:37 GMT | If I’m Not What They Want | Dilara Türk | [Read More](https://medium.com/p/015fa940d8e9) |
-| Fri, 06 Mar 2026 14:17:44 GMT | Why the Cloud Is No Longer Optional — And Why the Right Partner Makes All the Difference | Always On | [Read More](https://medium.com/p/864bacd5cd7a) |
-| Fri, 06 Mar 2026 14:14:40 GMT | Zidhuxd: Young Cybersecurity Researcher from Kerala Building a Digital Identity | Sidharth S / zidhuxd | [Read More](https://medium.com/p/ab414e4a2a6e) |
-| Fri, 06 Mar 2026 14:03:22 GMT | Solving a Bugforge Challenge — Exploiting SQL Injection in CopyPasta | Pranaya Shrestha | [Read More](https://medium.com/p/672e72cf56d3) |
-| Fri, 06 Mar 2026 14:02:46 GMT | The Naugatuck Homeowner’s Guide to Locksmiths - SLK | Sure Lock & Key LLC | [Read More](https://medium.com/p/f0e881060a9d) |
-| Fri, 06 Mar 2026 13:58:38 GMT | Why Role Based Access Control is a Product problem, not just a Security problem | Ashu Kohli | [Read More](https://medium.com/p/5bd5a6ab9055) |
-| Fri, 06 Mar 2026 13:55:18 GMT | Beyond Passwords: Why Identity Security Must Evolve for the Modern Threat Landscape | Dr. Shashi Karhail | [Read More](https://medium.com/p/3ce64cc3973c) |
-| Fri, 06 Mar 2026 13:53:26 GMT | [EN-TR] Linux File System & Essential Commands | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/d77caaed1d07) |
-| Fri, 06 Mar 2026 13:47:24 GMT | Why More Security‑Minded Users Are Moving from Google’s 8.8.8.8 to Quad9 (9.9.9.9) | Mithrais | [Read More](https://medium.com/p/fbdb897875e9) |
-| Fri, 06 Mar 2026 13:44:21 GMT | The Hack That Shook Mexico’s Military: Inside the Guacamaya Leaks | K | [Read More](https://medium.com/p/e30c430fc3bf) |
-| Fri, 06 Mar 2026 13:41:55 GMT | Understanding VAPT Training and Why It Is Important for Cyber Security Careers | logging security | [Read More](https://medium.com/p/32eda6d91c36) |
-| Fri, 06 Mar 2026 13:38:27 GMT | When The Boardroom Built The Breach | O. J. Okpabi | [Read More](https://medium.com/p/60b3ab72b4a8) |
-| Fri, 06 Mar 2026 13:37:26 GMT | Eyes are the window to the soul, and they shall prove our personhood | Stnzlip | [Read More](https://medium.com/p/1f6d7fd8de8e) |
-| Fri, 06 Mar 2026 13:36:38 GMT | Merkle Manifests: Why Build Servers Lie (How to Cryptographically Prove It) | Kalyan Tamarapalli | [Read More](https://medium.com/p/836e19a67545) |
