@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Mar 2026 17:01:01 GMT | Cybersecurity Awareness Scenario #3 | Devore McIntosh | [Read More](https://medium.com/p/eed083799820) |
+| Fri, 06 Mar 2026 16:54:56 GMT | Spring Boot API Gateway Security (2026 Guide with Real Code) | CodeTalks | [Read More](https://medium.com/p/db6eee984be4) |
+| Fri, 06 Mar 2026 16:52:29 GMT | Vega’s $120M series B signals a shift in AI-Native cybersecurity infrastructure | Universal Venture Capital | [Read More](https://medium.com/p/f00853df295e) |
+| Fri, 06 Mar 2026 16:50:29 GMT | What We Found: 225 Vulnerabilities in 45 Open Source Projects | Kolega.Dev | [Read More](https://medium.com/p/e70177e16422) |
+| Fri, 06 Mar 2026 16:45:39 GMT | OpenClaw 2026: Security Crisis and Technological Innovation at a Crossroads | Park Sehun | [Read More](https://medium.com/p/4d61770d9669) |
+| Fri, 06 Mar 2026 16:45:07 GMT | Cybersecurity News Review — Week 10 (2026) | Mladen Kirilov | [Read More](https://medium.com/p/d7a7d0b38a92) |
+| Fri, 06 Mar 2026 16:43:46 GMT | The 7 Best Code Security Solutions for 2026: Why Scanning the Old Way Isn’t Enough | Kolega.Dev | [Read More](https://medium.com/p/889421128e87) |
+| Fri, 06 Mar 2026 16:39:17 GMT | On the internet, people are selling your home address | Miraal Elliott | [Read More](https://medium.com/p/4eecf2bda2f3) |
+| Fri, 06 Mar 2026 16:35:47 GMT | Exploit PHP Type Strictness to Kill Entire Attack Classes | Asian Digital Hub | [Read More](https://medium.com/p/e29cf2e272c3) |
+| Fri, 06 Mar 2026 16:32:29 GMT | That config file you pasted into ChatGPT last week? It might already be part of the training data. | Apoorv Sharma | [Read More](https://medium.com/p/d3ed1f8e14a0) |
+| Fri, 06 Mar 2026 16:25:53 GMT | Post-Exploitation Arsenal: Leveraging Static Binaries on Compromised Linux Machines | 0xMaximux | [Read More](https://medium.com/p/12cb9e06ba5f) |
+| Fri, 06 Mar 2026 16:24:24 GMT | Menelusuri Lateral Movement: Write-up PsExec Hunt Lab | M Abdul Hamid A | [Read More](https://medium.com/p/3be3d01bbed3) |
+| Fri, 06 Mar 2026 16:14:52 GMT | ‎ What is the most recent technology news? | Miraal Elliott | [Read More](https://medium.com/p/6087d71bd7d7) |
+| Fri, 06 Mar 2026 16:06:42 GMT | Why Capture the Flag (CTF) Is Important in Cyber Security | Faraz Weerabangsa | [Read More](https://medium.com/p/be2878e57c32) |
+| Fri, 06 Mar 2026 16:02:08 GMT | From Zero to Admin: How I Escalated Privileges. | obito | [Read More](https://medium.com/p/a46d1c50d243) |
+| Fri, 06 Mar 2026 16:01:43 GMT | Understanding the Cyber Kill Chain: How Cyber Attacks Actually Happen | Antonyrajvedamanickam | [Read More](https://medium.com/p/eaef9236f63f) |
+| Fri, 06 Mar 2026 16:01:01 GMT | When Tool Refusals Quietly Leak Capability | Modexa | [Read More](https://medium.com/p/fa236a9fe00c) |
+| Fri, 06 Mar 2026 15:57:58 GMT | Linux Basic Commands | Gigadexterity | [Read More](https://medium.com/p/1bf8892fc076) |
 | Fri, 06 Mar 2026 15:46:00 GMT | The Ghost in the Machine: Why the Secret to Cybersecurity Isn’t Software — It’s Psychology | Ehulse | [Read More](https://medium.com/p/ae4468daa20a) |
 | Fri, 06 Mar 2026 15:41:08 GMT | PentAGI: I Let an Autonomous AI Pentester Loose on My Staging Environment | Pravin Jha | [Read More](https://medium.com/p/64efccc55c03) |
 | Fri, 06 Mar 2026 15:41:01 GMT | Deathnote - Vulnhub - Detailed Writeup(1/100) | Veetaragpatil | [Read More](https://medium.com/p/80caf9fffc46) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Mar 2026 10:50:52 GMT | OpenClaw, “Bans,” and the Real Reason Big Vendors Are Nervous | Tommi Talasma | [Read More](https://medium.com/p/5c2e37638ddf) |
 | Fri, 06 Mar 2026 10:49:50 GMT | TheJavaSea.me Leaks AIO-TLP370: What It Means for Cybersecurity and Online Safety | Kaceechristian | [Read More](https://medium.com/p/5c4c02006f3b) |
 | Fri, 06 Mar 2026 10:46:08 GMT | Hash Nedir? Şifreleme ile Arasındaki Fark Neden Çok Önemlidir? | Ali Yaşe | [Read More](https://medium.com/p/73e3eaf163f5) |
-| Fri, 06 Mar 2026 10:43:59 GMT | GoCryptoBet.com Wallet: Features, Security, and How It Works | Kaceechristian | [Read More](https://medium.com/p/2cfd8d9338ae) |
-| Fri, 06 Mar 2026 10:41:43 GMT | When Light “Thinks” Like the Brain | Seema Tripathi | [Read More](https://medium.com/p/be9102c8df59) |
-| Fri, 06 Mar 2026 10:40:16 GMT | Secure Your Home with Premium Europa Main Door Locks | That Hardware Store | [Read More](https://medium.com/p/43995b213876) |
-| Fri, 06 Mar 2026 10:38:16 GMT | I Built a Production-Ready Spring Boot Architecture (So You Don’t Have To) | Mohamed Awwaad | [Read More](https://medium.com/p/ed6a2918cbe1) |
-| Fri, 06 Mar 2026 10:35:49 GMT | Comprehensive Guide to Preventing SQL Injection | Shamir Ajmir Khan | [Read More](https://medium.com/p/a2a79484efd1) |
-| Fri, 06 Mar 2026 10:31:23 GMT | Day 16: I changed his password and the server let me do it;) | Issan | [Read More](https://medium.com/p/4c49837de6aa) |
-| Fri, 06 Mar 2026 10:21:55 GMT | picoCTF: Ph4nt0m 1ntrud3r | Dixtroiza | [Read More](https://medium.com/p/b059d3c6132a) |
-| Fri, 06 Mar 2026 10:18:59 GMT | Introducing CVPN — Secure Internet Access Without Borders | Mike Mandi | [Read More](https://medium.com/p/1294b459bdaa) |
-| Fri, 06 Mar 2026 10:17:00 GMT | PicoCTF: Event-Viewing | Dixtroiza | [Read More](https://medium.com/p/becb7bd091a3) |
-| Fri, 06 Mar 2026 10:16:00 GMT | Dijital Kimliğin Kırılma Noktası ve SIM Swapping Tehdidi | Fatih Yuksektepe | [Read More](https://medium.com/p/7c670427b19f) |
-| Fri, 06 Mar 2026 10:13:03 GMT | Business Logic Bug — Bypassing Gift Card Limits Using a Single Card | rootxJeet | [Read More](https://medium.com/p/d61d33d9798c) |
-| Fri, 06 Mar 2026 10:13:02 GMT | GPT-5.4 Unleashed, Anthropic Sues the Pentagon, and Apple Geofences TikTok - The Daily Tech Digest… | Souren Stepanyan | [Read More](https://medium.com/p/a759199908bf) |
-| Fri, 06 Mar 2026 10:11:54 GMT | Unmasking the Ph4nt0m: How I Traced a Digital Intruder Through Network Traffic | Abdullah Fatih  Al Huda | [Read More](https://medium.com/p/53dbde68929f) |
-| Fri, 06 Mar 2026 10:08:23 GMT | When Missiles Hit the Cloud: How Attacks on Data Centers Could Cripple the Future of AI | Er. Utkarsh Malpani | [Read More](https://medium.com/p/28791a8d7e37) |
-| Fri, 06 Mar 2026 10:04:41 GMT | I Have Solved PsExec Hunt Lab Challenge | Ammarnabil | [Read More](https://medium.com/p/2bbf77cfa612) |
-| Fri, 06 Mar 2026 09:57:55 GMT | The war started on a friday. The cyber war started before that. | h@shtalk | [Read More](https://medium.com/p/3386ea78b9fc) |
-| Fri, 06 Mar 2026 09:50:01 GMT | In the current cybersecurity landscape, the “Detection Gap” is the single greatest risk to business… | Sathvik Bellave | [Read More](https://medium.com/p/f124e9d743c2) |
-| Fri, 06 Mar 2026 09:44:44 GMT | I Built the Ultimate CompTIA Security+ [SY0-701] Roadmap (You don’t need anything else) | Mohammed Afnaan Ahmed | [Read More](https://medium.com/p/4ecd01fbb736) |
