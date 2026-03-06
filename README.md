@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Mar 2026 14:58:43 GMT | 149 Hacktivist DDoS Attacks Disrupt 110 Organizations Across 16 Countries | Ananthuharikumar | [Read More](https://medium.com/p/fab49b8a3d97) |
+| Fri, 06 Mar 2026 14:58:29 GMT | # How We Cut SOC Alert Handling Costs by 94% Using GPT-4o-mini and Smart Caching | Nguyen Dong | [Read More](https://medium.com/p/522282c4ec6c) |
+| Fri, 06 Mar 2026 14:56:46 GMT | Finding Your North Star — From IT Foundations to OT Security: My Cybersecurity Journey. | Mamatyitki | [Read More](https://medium.com/p/ebb8cc15ec13) |
+| Fri, 06 Mar 2026 14:56:11 GMT | Cybersecurity Strategies for Critical Infrastructure in the Digital Era | Omer Akin | [Read More](https://medium.com/p/1080bb2a85ef) |
+| Fri, 06 Mar 2026 14:47:30 GMT | PsExec Hunt Lab — SOC Investigation Writeup | Abdullah Fatih  Al Huda | [Read More](https://medium.com/p/9b8244635d3e) |
+| Fri, 06 Mar 2026 14:46:14 GMT | Joshua Adam Schulte: The CIA Engineer Who Leaked Vault 7 and Got 40 Years in Prison | Abel | [Read More](https://medium.com/p/0c6ea61406df) |
+| Fri, 06 Mar 2026 14:46:01 GMT | 10 action-audit patterns that make agents defensible in reviews | Nikulsinh Rajput | [Read More](https://medium.com/p/e814f7fce962) |
+| Fri, 06 Mar 2026 14:45:01 GMT | Bypassing Network Policies Using Host Network | Vinayak Pandey | [Read More](https://medium.com/p/d6390cf4ca99) |
+| Fri, 06 Mar 2026 14:44:11 GMT | Engineering a Forensic-Grade Hybrid Pipeline for Deepfake Detection | ABU SAMEER | [Read More](https://medium.com/p/f24b1643f49d) |
+| Fri, 06 Mar 2026 14:36:00 GMT | What You Edit Out Reveals Who You Are as a Writer | Ella | [Read More](https://medium.com/p/086ccc4ebcfa) |
+| Fri, 06 Mar 2026 14:32:47 GMT | Day 18 : Vulnerability Assessment from HackTheBox | Cybersecurity with Jojo | [Read More](https://medium.com/p/6a368e8850fa) |
+| Fri, 06 Mar 2026 14:21:00 GMT | Disappointment Breakup: How to Win Her Back When She’s Given Up on You | Xiaochen | [Read More](https://medium.com/p/19af783174b6) |
+| Fri, 06 Mar 2026 14:19:37 GMT | If I’m Not What They Want | Dilara Türk | [Read More](https://medium.com/p/015fa940d8e9) |
+| Fri, 06 Mar 2026 14:17:44 GMT | Why the Cloud Is No Longer Optional — And Why the Right Partner Makes All the Difference | Always On | [Read More](https://medium.com/p/864bacd5cd7a) |
+| Fri, 06 Mar 2026 14:14:40 GMT | Zidhuxd: Young Cybersecurity Researcher from Kerala Building a Digital Identity | Sidharth S / zidhuxd | [Read More](https://medium.com/p/ab414e4a2a6e) |
+| Fri, 06 Mar 2026 14:03:22 GMT | Solving a Bugforge Challenge — Exploiting SQL Injection in CopyPasta | Pranaya Shrestha | [Read More](https://medium.com/p/672e72cf56d3) |
 | Fri, 06 Mar 2026 14:02:46 GMT | The Naugatuck Homeowner’s Guide to Locksmiths - SLK | Sure Lock & Key LLC | [Read More](https://medium.com/p/f0e881060a9d) |
 | Fri, 06 Mar 2026 13:58:38 GMT | Why Role Based Access Control is a Product problem, not just a Security problem | Ashu Kohli | [Read More](https://medium.com/p/5bd5a6ab9055) |
 | Fri, 06 Mar 2026 13:55:18 GMT | Beyond Passwords: Why Identity Security Must Evolve for the Modern Threat Landscape | Dr. Shashi Karhail | [Read More](https://medium.com/p/3ce64cc3973c) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Mar 2026 08:46:39 GMT | C:I:A — A Human Triad for the Digital Age | Oyin Ajayi | [Read More](https://medium.com/p/11d247a77099) |
 | Fri, 06 Mar 2026 08:46:29 GMT | The Software Engineering Principles and Terminologies That Define Great Engineers | Samuel Adedolapo Adebiyi | [Read More](https://medium.com/p/226e520602d0) |
 | Fri, 06 Mar 2026 08:46:00 GMT | Your CI/CD Pipeline is a Target: How to Stop Treating It Like Plumbing | Ola Lawrence O | [Read More](https://medium.com/p/dd2965caa62d) |
-| Fri, 06 Mar 2026 08:39:44 GMT | From View to Destroy: Exploiting BOLA for Full Cross-User Document Compromise | Aditya Bhatt | [Read More](https://medium.com/p/61fc24b972c6) |
-| Fri, 06 Mar 2026 08:38:42 GMT | ️ TryHackMe Write-Up: Command Injection | Aditya Bhatt | [Read More](https://medium.com/p/543cdf7e40ee) |
-| Fri, 06 Mar 2026 08:33:29 GMT | Feeling Lost: Give Yourself One Last Chance Before Giving Up | Anshul | [Read More](https://medium.com/p/a3d7e4cc5482) |
-| Fri, 06 Mar 2026 08:18:56 GMT | Why Do You Have a Certificate But Still Can’t Get a Job Offer? | Onur Civan | [Read More](https://medium.com/p/c933d136005f) |
-| Fri, 06 Mar 2026 08:16:45 GMT | The Corix Partners Friday Reading List — March 6, 2026 | JC Gaillard | [Read More](https://medium.com/p/f958e3859339) |
-| Fri, 06 Mar 2026 08:08:32 GMT | What I Learned in 7 Days at Tech Academy: A Practical Breakdown | Somtochime | [Read More](https://medium.com/p/aeb3ee46e944) |
-| Fri, 06 Mar 2026 08:08:10 GMT | 2025 Global Cyber Threat Landscape | NSHC ThreatRecon Team | [Read More](https://medium.com/p/dd0da508b433) |
-| Fri, 06 Mar 2026 08:06:33 GMT | Kritik Java Güvenlik Duyurusu: pac4j-jwt Kimlik Doğrulama Atlatma Zafiyeti (CVSS 10.0) | Emirhan Kartal | [Read More](https://medium.com/p/3fdb9cde56fc) |
-| Fri, 06 Mar 2026 08:01:33 GMT | From Penetration Testing to DevSecOps: Integrating Security into the Software Delivery Pipeline | Marwan Atia | [Read More](https://medium.com/p/c14f9e703fc4) |
-| Fri, 06 Mar 2026 08:01:04 GMT | Assisted triage | Aurélien Praga | [Read More](https://medium.com/p/1de895f5a0fc) |
-| Fri, 06 Mar 2026 08:01:02 GMT | Triage assisté | Aurélien Praga | [Read More](https://medium.com/p/fe9c1c48441d) |
-| Fri, 06 Mar 2026 08:01:02 GMT | The Problems I See Again and Again in Scoping Exercises | Gaurav Shukla | [Read More](https://medium.com/p/e9942b49e87b) |
-| Fri, 06 Mar 2026 07:50:56 GMT | How to Start a Career in Ethical Hacking After 12th | cyber security Updates | [Read More](https://medium.com/p/7d8ecfdbbbbe) |
-| Fri, 06 Mar 2026 07:49:10 GMT | Demystifying Burp Suite: Your First Step into Web Hacking for Absolute Beginners | Patwardhanmayuri | [Read More](https://medium.com/p/b5a2d07c3cb1) |
-| Fri, 06 Mar 2026 07:38:30 GMT | Purview Information Protection Scanner: On-Prem File Server’ı Nasıl Etiketlersin? — Bölüm 2 | Yiğit Şener | [Read More](https://medium.com/p/c0dae7834684) |
-| Fri, 06 Mar 2026 07:33:54 GMT | How OSINT and Client-Side Analysis Led to Multiple Auth Bypass Vulnerabilities | Mukund Bhuva | [Read More](https://medium.com/p/1960ac274e2b) |
