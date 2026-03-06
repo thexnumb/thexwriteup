@@ -12,11 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Mar 2026 09:35:03 GMT | AI Will Not Replace Your IT Team. But This Will. | Empacso Technologies | [Read More](https://medium.com/p/22345f2beef0) |
+| Fri, 06 Mar 2026 09:31:17 GMT | From Curiosity to CVE: Discovering a Kiosk Breakout Vulnerability in Technogym Fitness Equipment | Asparuh Stefanov | [Read More](https://medium.com/p/5f80e3171375) |
+| Fri, 06 Mar 2026 09:23:41 GMT | 5 Self-Hosted WAFs Engineers Are Actually Using in 2026 | John Hawkins | [Read More](https://medium.com/p/f5020b980b82) |
+| Fri, 06 Mar 2026 09:22:44 GMT | Bootcamp Blue Team idn.networkers WeeklyTask #3 , Cyberdefenders psexec-hunt | Muhammad Sava Alfarisy | [Read More](https://medium.com/p/bf94e2f13aca) |
+| Fri, 06 Mar 2026 09:13:40 GMT | The Hackers Labs Writeup — Horizon (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/176a15a3c1c6) |
+| Fri, 06 Mar 2026 09:11:08 GMT | (WSTG) Configuration and Deployment Management Testing | Diva Rizky Alfitrah | [Read More](https://medium.com/p/7f5e37a9eb1b) |
+| Fri, 06 Mar 2026 09:01:55 GMT | What I Learned in 7 Days at Tech Academy: A Practical Breakdown I just finished an intensive week… | Somtochime | [Read More](https://medium.com/p/dd6325609850) |
+| Fri, 06 Mar 2026 09:01:05 GMT | AI Shapes Ethical Hacking Threats and Defenses | Niranjandotnot | [Read More](https://medium.com/p/9f8389d5dbce) |
+| Fri, 06 Mar 2026 09:01:01 GMT | I Searched 5 Banks for Leaked Credentials. Here’s What I Found. | Alexandre Vandamme | [Read More](https://medium.com/p/394a7ab826c5) |
+| Fri, 06 Mar 2026 08:59:38 GMT | Mengapa Kompleksitas Sistem Menghambat Adopsi Secure Email Pada Masyarakat (Pengguna Awam) | Apriotamailham | [Read More](https://medium.com/p/b153b7f043d8) |
+| Fri, 06 Mar 2026 08:46:39 GMT | C:I:A — A Human Triad for the Digital Age | Oyin Ajayi | [Read More](https://medium.com/p/11d247a77099) |
+| Fri, 06 Mar 2026 08:46:29 GMT | The Software Engineering Principles and Terminologies That Define Great Engineers | Samuel Adedolapo Adebiyi | [Read More](https://medium.com/p/226e520602d0) |
+| Fri, 06 Mar 2026 08:46:00 GMT | Your CI/CD Pipeline is a Target: How to Stop Treating It Like Plumbing | Ola Lawrence O | [Read More](https://medium.com/p/dd2965caa62d) |
+| Fri, 06 Mar 2026 08:39:44 GMT | From View to Destroy: Exploiting BOLA for Full Cross-User Document Compromise | Aditya Bhatt | [Read More](https://medium.com/p/61fc24b972c6) |
+| Fri, 06 Mar 2026 08:38:42 GMT | ️ TryHackMe Write-Up: Command Injection | Aditya Bhatt | [Read More](https://medium.com/p/543cdf7e40ee) |
 | Fri, 06 Mar 2026 08:33:29 GMT | Feeling Lost: Give Yourself One Last Chance Before Giving Up | Anshul | [Read More](https://medium.com/p/a3d7e4cc5482) |
 | Fri, 06 Mar 2026 08:18:56 GMT | Why Do You Have a Certificate But Still Can’t Get a Job Offer? | Onur Civan | [Read More](https://medium.com/p/c933d136005f) |
 | Fri, 06 Mar 2026 08:16:45 GMT | The Corix Partners Friday Reading List — March 6, 2026 | JC Gaillard | [Read More](https://medium.com/p/f958e3859339) |
 | Fri, 06 Mar 2026 08:08:32 GMT | What I Learned in 7 Days at Tech Academy: A Practical Breakdown | Somtochime | [Read More](https://medium.com/p/aeb3ee46e944) |
 | Fri, 06 Mar 2026 08:08:10 GMT | 2025 Global Cyber Threat Landscape | NSHC ThreatRecon Team | [Read More](https://medium.com/p/dd0da508b433) |
+| Fri, 06 Mar 2026 08:06:33 GMT | Kritik Java Güvenlik Duyurusu: pac4j-jwt Kimlik Doğrulama Atlatma Zafiyeti (CVSS 10.0) | Emirhan Kartal | [Read More](https://medium.com/p/3fdb9cde56fc) |
 | Fri, 06 Mar 2026 08:01:33 GMT | From Penetration Testing to DevSecOps: Integrating Security into the Software Delivery Pipeline | Marwan Atia | [Read More](https://medium.com/p/c14f9e703fc4) |
 | Fri, 06 Mar 2026 08:01:04 GMT | Assisted triage | Aurélien Praga | [Read More](https://medium.com/p/1de895f5a0fc) |
 | Fri, 06 Mar 2026 08:01:02 GMT | Triage assisté | Aurélien Praga | [Read More](https://medium.com/p/fe9c1c48441d) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Mar 2026 03:01:07 GMT | Linux: The Operating System That Powers the Cyber World | Shubham Khirwadkar | [Read More](https://medium.com/p/ad3c40e51b31) |
 | Fri, 06 Mar 2026 02:48:26 GMT | Kubernetes Security in Production: A Deep Dive for Senior DevOps Engineers | Naushil Jain | [Read More](https://medium.com/p/78c1b871f357) |
 | Fri, 06 Mar 2026 02:48:20 GMT | Your AI Assistant Has a Trust Problem — And You Aren’t Talking About It Enough | Christopher D Hill | [Read More](https://medium.com/p/f2b8b0eaa77f) |
-| Fri, 06 Mar 2026 02:46:00 GMT | Server Side Template Injection (SSTI ) Got Exploited | MainEkHacker | [Read More](https://medium.com/p/e083fae95708) |
-| Fri, 06 Mar 2026 02:38:05 GMT | What is the best privacy-focused notes app for everyday use, and what features make it stand out? | Anjneya tech | [Read More](https://medium.com/p/efd717ec6e11) |
-| Fri, 06 Mar 2026 02:27:12 GMT | HackMyVM: Skid Walkthrough | Antonio | [Read More](https://medium.com/p/04d52fb85eaf) |
-| Fri, 06 Mar 2026 02:14:35 GMT | From Zero to RF Security Engineer | Michael Preston | [Read More](https://medium.com/p/766b8f7b9b9f) |
-| Fri, 06 Mar 2026 02:07:04 GMT | Understanding SASE Through the Lens of Changi Airport | Ian Loe | [Read More](https://medium.com/p/0eafffb455f0) |
-| Fri, 06 Mar 2026 02:01:20 GMT | picoCTF-Ph4nt0m 1ntrud3r | 0w0 | [Read More](https://medium.com/p/eb3871032274) |
-| Fri, 06 Mar 2026 01:52:55 GMT | Analisis Malware Android: Penyamaran PT POS Indonesia sebagai SMS Stealer. | Damiereee | [Read More](https://medium.com/p/49fdd696cd57) |
-| Fri, 06 Mar 2026 01:52:13 GMT | Most Common Smartphone Security Threats — And How to Reduce Them | Cloudbric VPN | [Read More](https://medium.com/p/3e66741c8211) |
-| Fri, 06 Mar 2026 01:50:49 GMT | Data governance and ethics, privacy and security: Wāhine in Data Ōtautahi Panel, February 2026 | aimee whitcroft | [Read More](https://medium.com/p/3a8ed8d445af) |
-| Fri, 06 Mar 2026 01:50:06 GMT | Data governance and ethics, privacy and security: Wāhine in Data Ōtautahi Panel, February 2026 | aimee whitcroft | [Read More](https://medium.com/p/571936f3b0ec) |
-| Fri, 06 Mar 2026 01:46:35 GMT | tunn3l v1s10n — picoCTF writeup | Arfan (p4n) | [Read More](https://medium.com/p/89b34c6114c8) |
-| Fri, 06 Mar 2026 01:36:40 GMT | Living-Off-the-Land Attacks: | Mahmoud Ibrahim | [Read More](https://medium.com/p/e3eb8aac3c43) |
-| Fri, 06 Mar 2026 01:25:36 GMT | How I Found a “Zombie Bug” That Refused to Die: A Lesson in Logic Flaws | Abdelkafi Habbeddine | [Read More](https://medium.com/p/1e3b164bd99a) |
-| Fri, 06 Mar 2026 01:22:59 GMT | Why Outsourcing Your Help Desk Is One of the Smartest IT Decisions Your Business Can Make | Always On | [Read More](https://medium.com/p/9e0b2e4d1fa1) |
-| Fri, 06 Mar 2026 01:10:27 GMT | OpenClaw Meetup Thailand Part 1 : ปลดล็อก AI Agent, เทคนิคประหยัด Token และเรื่อง Security✨ | Monchavin Pinthong | [Read More](https://medium.com/p/62fa62cabfa0) |
-| Fri, 06 Mar 2026 01:08:51 GMT | How Hackers Break Into Companies Without Cracking a Single Password | Armansyah hakim | [Read More](https://medium.com/p/a171313813eb) |
