@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Mar 2026 23:18:52 GMT | Geopolitics and Cyberwarfare Between Iran, the United States, and Its Allies | Bits & Bytes Podcast Newsletter | [Read More](https://medium.com/p/52e39a91c32b) |
+| Fri, 06 Mar 2026 23:10:47 GMT | pyLon Python Script (THM) Tryhackme WriteUp Answer | Lawvye | [Read More](https://medium.com/p/c77ad459d29c) |
+| Fri, 06 Mar 2026 22:56:01 GMT | OSINT, Mapping software and keeping the Ukranian public informed | Hobin Rood | [Read More](https://medium.com/p/7a5885171d9f) |
+| Fri, 06 Mar 2026 22:38:44 GMT | I Failed This Cybersecurity Exam — Three Years Later It Became One of My Biggest Wins | Rebecca Ihenyen | [Read More](https://medium.com/p/54afbeb79bd2) |
+| Fri, 06 Mar 2026 22:36:00 GMT | Finding the Best NYC Interim CISO: How to choose fast, reduce risk, and stabilize leadership in 90… | Tyson Martin | [Read More](https://medium.com/p/8d30fca55b3d) |
+| Fri, 06 Mar 2026 22:34:06 GMT | 3 Logic Bugs in Zendesk : A Single API Request Gave Me an Administrator’s Identity in Zendesk. | onboard | [Read More](https://medium.com/p/ade443ea3353) |
+| Fri, 06 Mar 2026 22:33:27 GMT | TryHackMe Introduction to SIEM Walkthrough | Kamal Kishor Mahto | [Read More](https://medium.com/p/732a74a92cc2) |
+| Fri, 06 Mar 2026 22:27:19 GMT | Questions to Ask Before Choosing a SOC Provider | JSOC IT BLOG | [Read More](https://medium.com/p/b21d9a48e951) |
+| Fri, 06 Mar 2026 22:23:14 GMT | 1XTRADE.COM REVIEW: INVESTOR COMPLAINTS, WITHDRAWAL ISSUES, AND HOW VICTIMS CAN RECOVER LOST CRYPTO… | James Bells | [Read More](https://medium.com/p/19be060d2a77) |
 | Fri, 06 Mar 2026 22:01:01 GMT | Unfiltered Restart — Day 19: Exam Prep, Day 5 | Maximillian Rueda | [Read More](https://medium.com/p/86d41b6bde5e) |
 | Fri, 06 Mar 2026 21:55:09 GMT | Microsoft  Intune | Railsdevabam | [Read More](https://medium.com/p/f7925c3e5bb6) |
 | Fri, 06 Mar 2026 21:54:59 GMT | Cybersecurity 101: From CIA Triad to Cybersecurity Framework, With a Spice of Modern Oversight | Miha Stele | [Read More](https://medium.com/p/e89741b24484) |
@@ -52,6 +61,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Mar 2026 20:01:01 GMT | Scanning Images for Vulnerabilities in Snowpark Container Services | Vladimir Timofeenko | [Read More](https://medium.com/p/cc85ca34957f) |
 | Fri, 06 Mar 2026 19:40:50 GMT | IDOR: The Phone Number That Speaks Everyone’s Secrets | Anandhan | [Read More](https://medium.com/p/a6f97f381cd0) |
 | Fri, 06 Mar 2026 19:37:30 GMT | The Name of War, the Limits of Solidarity | Gökçen Kunukcu | [Read More](https://medium.com/p/86ca0c2c53f6) |
+| Fri, 06 Mar 2026 19:36:50 GMT | Memahami Routing Jaringan: Duel Klasik OSPF vs RIP dan Cara Kerja Algoritmanya | Luqman | [Read More](https://medium.com/p/28a576d498c4) |
 | Fri, 06 Mar 2026 19:32:38 GMT | How I Exposed My Local Services to the Internet Using Cloudflare Tunnel | Ram Singh Panwar | [Read More](https://medium.com/p/bb8a69e84f08) |
 | Fri, 06 Mar 2026 19:32:31 GMT | Görünmeyenin Tehlikesi: CVE-2021–22204, Metadata Manipülasyonu ve RCE | Erdem Ceylan | [Read More](https://medium.com/p/fe5fa0ffdd50) |
 | Fri, 06 Mar 2026 19:31:39 GMT | Sistemas operacionais para Analistas de Segurança | Alex Feleol | [Read More](https://medium.com/p/7dd5cb1eac21) |
@@ -103,13 +113,3 @@ How a free Telegram channel… | Mirmahmood | [Read More](https://medium.com/p/8
 | Fri, 06 Mar 2026 16:45:07 GMT | Cybersecurity News Review — Week 10 (2026) | Mladen Kirilov | [Read More](https://medium.com/p/d7a7d0b38a92) |
 | Fri, 06 Mar 2026 16:43:46 GMT | The 7 Best Code Security Solutions for 2026: Why Scanning the Old Way Isn’t Enough | Kolega.Dev | [Read More](https://medium.com/p/889421128e87) |
 | Fri, 06 Mar 2026 16:39:17 GMT | On the internet, people are selling your home address | Miraal Elliott | [Read More](https://medium.com/p/4eecf2bda2f3) |
-| Fri, 06 Mar 2026 16:35:47 GMT | Exploit PHP Type Strictness to Kill Entire Attack Classes | Asian Digital Hub | [Read More](https://medium.com/p/e29cf2e272c3) |
-| Fri, 06 Mar 2026 16:32:29 GMT | That config file you pasted into ChatGPT last week? It might already be part of the training data. | Apoorv Sharma | [Read More](https://medium.com/p/d3ed1f8e14a0) |
-| Fri, 06 Mar 2026 16:25:53 GMT | Post-Exploitation Arsenal: Leveraging Static Binaries on Compromised Linux Machines | 0xMaximux | [Read More](https://medium.com/p/12cb9e06ba5f) |
-| Fri, 06 Mar 2026 16:24:24 GMT | Menelusuri Lateral Movement: Write-up PsExec Hunt Lab | M Abdul Hamid A | [Read More](https://medium.com/p/3be3d01bbed3) |
-| Fri, 06 Mar 2026 16:14:52 GMT | ‎ What is the most recent technology news? | Miraal Elliott | [Read More](https://medium.com/p/6087d71bd7d7) |
-| Fri, 06 Mar 2026 16:06:42 GMT | Why Capture the Flag (CTF) Is Important in Cyber Security | Faraz Weerabangsa | [Read More](https://medium.com/p/be2878e57c32) |
-| Fri, 06 Mar 2026 16:02:08 GMT | From Zero to Admin: How I Escalated Privileges. | obito | [Read More](https://medium.com/p/a46d1c50d243) |
-| Fri, 06 Mar 2026 16:01:43 GMT | Understanding the Cyber Kill Chain: How Cyber Attacks Actually Happen | Antonyrajvedamanickam | [Read More](https://medium.com/p/eaef9236f63f) |
-| Fri, 06 Mar 2026 16:01:01 GMT | When Tool Refusals Quietly Leak Capability | Modexa | [Read More](https://medium.com/p/fa236a9fe00c) |
-| Fri, 06 Mar 2026 15:57:58 GMT | Linux Basic Commands | Gigadexterity | [Read More](https://medium.com/p/1bf8892fc076) |
