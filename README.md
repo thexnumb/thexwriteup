@@ -12,9 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Mar 2026 21:23:38 GMT | A Path Hidden in Plain Sight: Owning Active Directory | Jabaribrown | [Read More](https://medium.com/p/4595a7b730bc) |
+| Fri, 06 Mar 2026 21:19:52 GMT | How AI Apps Finally Plug Into the Real World: Understanding MCP | Meghna Manoj Nair | [Read More](https://medium.com/p/cb01443f74c1) |
+| Fri, 06 Mar 2026 21:11:32 GMT | The Mysterious Journey of a Powerful iOS Exploit Kit | SOCFortress | [Read More](https://medium.com/p/e270b15f8697) |
+| Fri, 06 Mar 2026 21:08:41 GMT | Found a Risk? Here are your 4 Power Moves! ️ | Sujon Al Mamun | [Read More](https://medium.com/p/b5d166638981) |
+| Fri, 06 Mar 2026 21:04:45 GMT | The Architecture of Trust: A TryHackMe Walkthrough of ‘Governance & Regulation’ | Joanna Adegbile | [Read More](https://medium.com/p/10a0a466c413) |
+| Fri, 06 Mar 2026 21:04:31 GMT | A Piece of Advice on Kali Linux For Beginners | Taulan Zauzanov | [Read More](https://medium.com/p/f39b115b9e72) |
+| Fri, 06 Mar 2026 21:03:58 GMT | Risk Assessment: The Business Radar | Sujon Al Mamun | [Read More](https://medium.com/p/5e6e018981f7) |
+| Fri, 06 Mar 2026 21:01:04 GMT | BRabbit Lab — Threat Intelligence | Ismaelggm | [Read More](https://medium.com/p/2126eab67aec) |
+| Fri, 06 Mar 2026 20:53:37 GMT | The Linux Forensic Journey — recently-used.xbel (Recently Used Files) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f9ef41a7a32a) |
+| Fri, 06 Mar 2026 20:52:59 GMT | VulnNet Active TryHackMe Writeup | phantom_hat | [Read More](https://medium.com/p/341e0835ca73) |
+| Fri, 06 Mar 2026 20:43:27 GMT | Red Team Checklist: Web Server Initial Access Part — 02 (Last Part) | Cybernaumad | [Read More](https://medium.com/p/c74ac3a7b37a) |
+| Fri, 06 Mar 2026 20:42:16 GMT | Lab: Stored DOM XSS | mayhack | [Read More](https://medium.com/p/ef6a33c19622) |
+| Fri, 06 Mar 2026 20:37:28 GMT | Initial Access Series 1 : Infrastructure Setup for Phishing-to-C2 Lab | redteamblog101 | [Read More](https://medium.com/p/cf7f51a7ee10) |
+| Fri, 06 Mar 2026 20:36:09 GMT | Ransomware 2025: The Year Cybercrime Became a $57 Billion Industry | Ahmed Fouad Kadhim | [Read More](https://medium.com/p/977d023fec1a) |
 | Fri, 06 Mar 2026 20:31:23 GMT | A Chrome AI Feature Could’ve Let Extensions Spy on Your Camera, Mic & Files (CVE-2026–0628… | Subhan Ali | [Read More](https://medium.com/p/8901e1d8b70a) |
 | Fri, 06 Mar 2026 20:29:18 GMT | PwnSec CTF 2025 Mobile — RudeFrida | Mohannad Handoumeh | [Read More](https://medium.com/p/8356fcf69264) |
 | Fri, 06 Mar 2026 20:26:51 GMT | AI-Powered Hacking: How Hackers Weaponized AI in 2025 | Ahmed Fouad Kadhim | [Read More](https://medium.com/p/c9c2548ea9a1) |
+| Fri, 06 Mar 2026 20:24:27 GMT | Google Confirms Trio Of Critical Chrome Security Vulnerabilities | Moni | [Read More](https://medium.com/p/346a275a8d98) |
 | Fri, 06 Mar 2026 20:22:09 GMT | Penetration Testing Android Pada aplikasi AndroidGoat | Firmansyahfebi | [Read More](https://medium.com/p/6c05abaef8b7) |
 | Fri, 06 Mar 2026 20:19:48 GMT | Red Team Checklist: Web Server Initial Access Part — 01 | Cybernaumad | [Read More](https://medium.com/p/fefca162f636) |
 | Fri, 06 Mar 2026 20:18:07 GMT | Cybersecurity Is a Leadership Issue Not Just an IT Problem | Dr Kimma Wreh | [Read More](https://medium.com/p/24b7d4d38589) |
@@ -98,18 +113,3 @@ How a free Telegram channel… | Mirmahmood | [Read More](https://medium.com/p/8
 | Fri, 06 Mar 2026 15:12:53 GMT | HackTheBox Shoppy Writeup: NoSQL Injection to Docker Privilege Escalation | Akulata | [Read More](https://medium.com/p/20c4297fea9b) |
 | Fri, 06 Mar 2026 15:12:50 GMT | Event Viewing (PicoCTF Write Up) | Annisa Eka Putri | [Read More](https://medium.com/p/3a47c27d174f) |
 | Fri, 06 Mar 2026 15:12:00 GMT | Cybersecurity Career Roadmap (2026) | Jeenasebastian | [Read More](https://medium.com/p/c317057a6bf7) |
-| Fri, 06 Mar 2026 15:08:50 GMT | How to Break Into Tech in the UK (Without a Computer Science Degree) | Grant Tunner | [Read More](https://medium.com/p/64b6ecff20dc) |
-| Fri, 06 Mar 2026 15:06:35 GMT | photographer walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/15062b43b58a) |
-| Fri, 06 Mar 2026 15:05:47 GMT | Dash Evolution chain Integrates Zcash’s Orchard shielded Pool. | Chibuike Augustine | [Read More](https://medium.com/p/623e9f1ba633) |
-| Fri, 06 Mar 2026 15:05:45 GMT | Exploring Android Application Security Through AndroGoat Lab | razzee | [Read More](https://medium.com/p/96f3b4123320) |
-| Fri, 06 Mar 2026 14:58:43 GMT | 149 Hacktivist DDoS Attacks Disrupt 110 Organizations Across 16 Countries | Ananthuharikumar | [Read More](https://medium.com/p/fab49b8a3d97) |
-| Fri, 06 Mar 2026 14:58:29 GMT | # How We Cut SOC Alert Handling Costs by 94% Using GPT-4o-mini and Smart Caching | Nguyen Dong | [Read More](https://medium.com/p/522282c4ec6c) |
-| Fri, 06 Mar 2026 14:56:47 GMT | Struktur Data : Pengertian dan Jenis-Jenisnya | Dika Pramana | [Read More](https://medium.com/p/f5b30f257623) |
-| Fri, 06 Mar 2026 14:56:46 GMT | Finding Your North Star — From IT Foundations to OT Security: My Cybersecurity Journey. | Mamatyitki | [Read More](https://medium.com/p/ebb8cc15ec13) |
-| Fri, 06 Mar 2026 14:56:11 GMT | Cybersecurity Strategies for Critical Infrastructure in the Digital Era | Omer Akin | [Read More](https://medium.com/p/1080bb2a85ef) |
-| Fri, 06 Mar 2026 14:56:00 GMT | What Is Computer Activity Monitoring? A Complete Guide for Parents and Businesses (2026) | Paul Meyer | [Read More](https://medium.com/p/e4a0de0f7684) |
-| Fri, 06 Mar 2026 14:47:30 GMT | PsExec Hunt Lab — SOC Investigation Writeup | Abdullah Fatih  Al Huda | [Read More](https://medium.com/p/9b8244635d3e) |
-| Fri, 06 Mar 2026 14:46:14 GMT | Joshua Adam Schulte: The CIA Engineer Who Leaked Vault 7 and Got 40 Years in Prison | Abel | [Read More](https://medium.com/p/0c6ea61406df) |
-| Fri, 06 Mar 2026 14:46:01 GMT | 10 action-audit patterns that make agents defensible in reviews | Nikulsinh Rajput | [Read More](https://medium.com/p/e814f7fce962) |
-| Fri, 06 Mar 2026 14:45:01 GMT | Bypassing Network Policies Using Host Network | Vinayak Pandey | [Read More](https://medium.com/p/d6390cf4ca99) |
-| Fri, 06 Mar 2026 14:44:11 GMT | Engineering a Forensic-Grade Hybrid Pipeline for Deepfake Detection | ABU SAMEER | [Read More](https://medium.com/p/f24b1643f49d) |
