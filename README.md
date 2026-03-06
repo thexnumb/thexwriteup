@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Mar 2026 10:35:49 GMT | Comprehensive Guide to Preventing SQL Injection | Shamir Ajmir Khan | [Read More](https://medium.com/p/a2a79484efd1) |
+| Fri, 06 Mar 2026 10:21:55 GMT | picoCTF: Ph4nt0m 1ntrud3r | Dixtroiza | [Read More](https://medium.com/p/b059d3c6132a) |
+| Fri, 06 Mar 2026 10:18:59 GMT | Introducing CVPN — Secure Internet Access Without Borders | Mike Mandi | [Read More](https://medium.com/p/1294b459bdaa) |
+| Fri, 06 Mar 2026 10:17:00 GMT | PicoCTF: Event-Viewing | Dixtroiza | [Read More](https://medium.com/p/becb7bd091a3) |
+| Fri, 06 Mar 2026 10:16:00 GMT | Dijital Kimliğin Kırılma Noktası ve SIM Swapping Tehdidi | Fatih Yuksektepe | [Read More](https://medium.com/p/7c670427b19f) |
+| Fri, 06 Mar 2026 10:13:03 GMT | Business Logic Bug — Bypassing Gift Card Limits Using a Single Card | rootxJeet | [Read More](https://medium.com/p/d61d33d9798c) |
+| Fri, 06 Mar 2026 10:13:02 GMT | GPT-5.4 Unleashed, Anthropic Sues the Pentagon, and Apple Geofences TikTok - The Daily Tech Digest… | Souren Stepanyan | [Read More](https://medium.com/p/a759199908bf) |
+| Fri, 06 Mar 2026 10:11:54 GMT | Unmasking the Ph4nt0m: How I Traced a Digital Intruder Through Network Traffic | Abdullah Fatih  Al Huda | [Read More](https://medium.com/p/53dbde68929f) |
+| Fri, 06 Mar 2026 10:08:23 GMT | When Missiles Hit the Cloud: How Attacks on Data Centers Could Cripple the Future of AI | Er. Utkarsh Malpani | [Read More](https://medium.com/p/28791a8d7e37) |
+| Fri, 06 Mar 2026 10:04:41 GMT | I Have Solved PsExec Hunt Lab Challenge | Ammarnabil | [Read More](https://medium.com/p/2bbf77cfa612) |
+| Fri, 06 Mar 2026 09:57:55 GMT | The war started on a friday. The cyber war started before that. | h@shtalk | [Read More](https://medium.com/p/3386ea78b9fc) |
+| Fri, 06 Mar 2026 09:50:01 GMT | In the current cybersecurity landscape, the “Detection Gap” is the single greatest risk to business… | Sathvik Bellave | [Read More](https://medium.com/p/f124e9d743c2) |
+| Fri, 06 Mar 2026 09:44:44 GMT | I Built the Ultimate CompTIA Security+ [SY0-701] Roadmap (You don’t need anything else) | Mohammed Afnaan Ahmed | [Read More](https://medium.com/p/4ecd01fbb736) |
+| Fri, 06 Mar 2026 09:44:09 GMT | Dari Reverse Engineering hingga Exploit: Pentesting Aplikasi Lab Android AndroGoat | Raden Dika Natakusumah | [Read More](https://medium.com/p/fb7be0d93597) |
 | Fri, 06 Mar 2026 09:35:03 GMT | AI Will Not Replace Your IT Team. But This Will. | Empacso Technologies | [Read More](https://medium.com/p/22345f2beef0) |
 | Fri, 06 Mar 2026 09:31:17 GMT | From Curiosity to CVE: Discovering a Kiosk Breakout Vulnerability in Technogym Fitness Equipment | Asparuh Stefanov | [Read More](https://medium.com/p/5f80e3171375) |
 | Fri, 06 Mar 2026 09:23:41 GMT | 5 Self-Hosted WAFs Engineers Are Actually Using in 2026 | John Hawkins | [Read More](https://medium.com/p/f5020b980b82) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Mar 2026 03:51:47 GMT | Monitoring AWS Workloads - TryHackMe - Splunk | Jose Praveen | [Read More](https://medium.com/p/43707608bee3) |
 | Fri, 06 Mar 2026 03:49:28 GMT | What Would an IT Expert See in Your Business That You Can’t? | Tcitservices | [Read More](https://medium.com/p/4ba94f6bce6a) |
 | Fri, 06 Mar 2026 03:48:26 GMT | Proving Grounds — Practice — Robust | Makoyi | [Read More](https://medium.com/p/8f3f22de19d0) |
-| Fri, 06 Mar 2026 03:46:00 GMT | When Deleting One File Deletes Everything: An Unauthenticated BOLA in an AI Analytics Portal | Xp10it | [Read More](https://medium.com/p/600b3957803e) |
-| Fri, 06 Mar 2026 03:43:00 GMT | Stop Writing Insecure Code: 10 Rules Used by Engineers at Google and Netflix | Ade Mawan | [Read More](https://medium.com/p/6b1fb591f4b1) |
-| Fri, 06 Mar 2026 03:41:40 GMT | Age Verification Is Quietly Building the Internet’s Next Surveillance System | Matyas Koszegi | [Read More](https://medium.com/p/37c94629cdca) |
-| Fri, 06 Mar 2026 03:41:39 GMT | TryHackMe Walkthrough: AD Basic Enumeration — Discovering Users, SMB Shares, and Domain Information | Ibnu Hibban | [Read More](https://medium.com/p/93940de3d3ae) |
-| Fri, 06 Mar 2026 03:34:22 GMT | How a Public Feature Flag Misconfiguration Led to a Premium Paywall Bypass | Revokatus Ivo | [Read More](https://medium.com/p/46150429856a) |
-| Fri, 06 Mar 2026 03:32:57 GMT | Android Pentesting Insecure Local Storage: AndroGoat | Muhammaddavidfirmansyah | [Read More](https://medium.com/p/d1e4512206ce) |
-| Fri, 06 Mar 2026 03:31:00 GMT | 5 Mistakes I Made as a Cybersecurity Beginner | loopXvedant | [Read More](https://medium.com/p/e03cdfe36219) |
-| Fri, 06 Mar 2026 03:30:55 GMT | Lock It Down: Your Essential Guide to Encrypting Sensitive Files | Rahul Ahir | [Read More](https://medium.com/p/91bbbe5ac34b) |
-| Fri, 06 Mar 2026 03:21:58 GMT | PNPT External Penetration Testing Cheat Sheet | jaejun835 | [Read More](https://medium.com/p/9bd92f870770) |
-| Fri, 06 Mar 2026 03:13:47 GMT | Why Your File Sharing App Knows Too Much (And What I Built Instead) | Fileshot Adm | [Read More](https://medium.com/p/22e1fb869214) |
-| Fri, 06 Mar 2026 03:13:10 GMT | Starting My Cybersecurity Journey: Building the Foundation with Networking | Mubashirakisham | [Read More](https://medium.com/p/9208deace8dd) |
-| Fri, 06 Mar 2026 03:01:07 GMT | Linux: The Operating System That Powers the Cyber World | Shubham Khirwadkar | [Read More](https://medium.com/p/ad3c40e51b31) |
-| Fri, 06 Mar 2026 02:48:26 GMT | Kubernetes Security in Production: A Deep Dive for Senior DevOps Engineers | Naushil Jain | [Read More](https://medium.com/p/78c1b871f357) |
-| Fri, 06 Mar 2026 02:48:20 GMT | Your AI Assistant Has a Trust Problem — And You Aren’t Talking About It Enough | Christopher D Hill | [Read More](https://medium.com/p/f2b8b0eaa77f) |
