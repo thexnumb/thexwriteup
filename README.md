@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Mar 2026 19:32:31 GMT | Görünmeyenin Tehlikesi: CVE-2021–22204, Metadata Manipülasyonu ve RCE | Erdem Ceylan | [Read More](https://medium.com/p/fe5fa0ffdd50) |
+| Fri, 06 Mar 2026 19:31:39 GMT | Sistemas operacionais para Analistas de Segurança | Alex Feleol | [Read More](https://medium.com/p/7dd5cb1eac21) |
+| Fri, 06 Mar 2026 19:30:58 GMT | Active Directory Security Series — Part 4 | servet demirci | [Read More](https://medium.com/p/e571d2fabb64) |
+| Fri, 06 Mar 2026 19:25:46 GMT | Regional Multipolarity in the Middle East | Gökçen Şahin | [Read More](https://medium.com/p/a569d9e0aea5) |
+| Fri, 06 Mar 2026 19:25:32 GMT | Cybersecurity Consulting, Cyber Security Consulting, and Cybersecurity Services: How CyberSecOp… | Jeffery Walker | [Read More](https://medium.com/p/23694beee8bb) |
+| Fri, 06 Mar 2026 19:19:43 GMT | Your CI Pipeline Is Blocking the Wrong Deployments | André Ataíde | [Read More](https://medium.com/p/b6e193f7459c) |
+| Fri, 06 Mar 2026 19:18:55 GMT | Bug Bounty Recon vs Pentesting Recon: Why the Same Techniques Follow Very Different Rules | ghostyjoe | [Read More](https://medium.com/p/e2da90f2d16d) |
+| Fri, 06 Mar 2026 19:13:38 GMT | I Tried a Simple Redirect Test… and Found a Filter Bypass - Cyber Tamarin | Cyber Tamarin | [Read More](https://medium.com/p/28f5b548f486) |
+| Fri, 06 Mar 2026 19:08:57 GMT | Proving Grounds Practice — Resourced (part 1) | SilentExploit | [Read More](https://medium.com/p/bfca8a0c696b) |
+| Fri, 06 Mar 2026 19:06:57 GMT | 295% Uninstall Surge: Why the World is Ditching ChatGPT for Claude | Aaron | [Read More](https://medium.com/p/cba6d576dcd3) |
+| Fri, 06 Mar 2026 19:00:02 GMT | A pentest of the Teckin Click wifi camera (SquashFS 4.0 reflash modification) | Ianbokcho | [Read More](https://medium.com/p/afe799570fa3) |
 | Fri, 06 Mar 2026 18:56:01 GMT | EU GDPR — Article 30 (Records of Processing Activities) | MDM Team | [Read More](https://medium.com/p/e6f6f4d0eba5) |
+| Fri, 06 Mar 2026 18:47:16 GMT | Washington’s New Cyber Strategy on China: Tough Talk, Weak Armor | CCD-IS | [Read More](https://medium.com/p/632a3f1ddd7e) |
 | Fri, 06 Mar 2026 18:44:03 GMT | The Principle of Least Privilege: Reducing Risk Through Controlled Access | Wilfriedpanol | [Read More](https://medium.com/p/5cd6e4bd7da2) |
 | Fri, 06 Mar 2026 18:42:55 GMT | Week 1: Information Gathering & Networking Fundamentals | Manveer Singh | [Read More](https://medium.com/p/93fbcfa1d719) |
 | Fri, 06 Mar 2026 18:38:15 GMT | Understanding Generative AI and LLM Security: Foundations Every Security Engineer Should Know | Chiakiichan | [Read More](https://medium.com/p/f2fb38375e02) |
@@ -101,15 +113,3 @@ How a free Telegram channel… | Mirmahmood | [Read More](https://medium.com/p/8
 | Fri, 06 Mar 2026 13:38:27 GMT | When The Boardroom Built The Breach | O. J. Okpabi | [Read More](https://medium.com/p/60b3ab72b4a8) |
 | Fri, 06 Mar 2026 13:37:26 GMT | Eyes are the window to the soul, and they shall prove our personhood | Stnzlip | [Read More](https://medium.com/p/1f6d7fd8de8e) |
 | Fri, 06 Mar 2026 13:36:38 GMT | Merkle Manifests: Why Build Servers Lie (How to Cryptographically Prove It) | Kalyan Tamarapalli | [Read More](https://medium.com/p/836e19a67545) |
-| Fri, 06 Mar 2026 13:28:35 GMT | Cyber Kill Chain | Ahmedmohamedosman | [Read More](https://medium.com/p/7c2a0201d6c3) |
-| Fri, 06 Mar 2026 13:24:29 GMT | Weekly Update: Telegram Channel Monitor Is Now Built Into the Dashboard | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/bc1f6c96f3f6) |
-| Fri, 06 Mar 2026 13:14:23 GMT | How I Passed eCPPT within 3 months Without Losing My Mind | Sudeepa Shiranthaka | [Read More](https://medium.com/p/ea6639ac8e40) |
-| Fri, 06 Mar 2026 13:10:30 GMT | [Dev Update] SIGNAL_DECOUPLER v4.2 // Tactical SIGINT Suite // Node Protocol | Marc | [Read More](https://medium.com/p/393e9d919cb6) |
-| Fri, 06 Mar 2026 13:06:00 GMT | Fortigate Dersleri: Web Filter ve HTTPS İncelemesine Derinlemesine Bakış-2 | Azra K. | [Read More](https://medium.com/p/5e9060c999f0) |
-| Fri, 06 Mar 2026 12:52:38 GMT | Modernise your Rails applications with Hotwire and Turbo. | goldeneagleai | [Read More](https://medium.com/p/f59ba8e3e5df) |
-| Fri, 06 Mar 2026 12:48:56 GMT | Trusted Professional Texas Security Guard Services | Matrix Security Guard Services LLC | [Read More](https://medium.com/p/5cadc1ec91e5) |
-| Fri, 06 Mar 2026 12:47:01 GMT | The Burglar Who Dwells Inside Your Network | O. J. Okpabi | [Read More](https://medium.com/p/5fb13ce14fd0) |
-| Fri, 06 Mar 2026 12:45:12 GMT | Unlimited Shopping: Exploiting a Cart Logic Flaw to Bypass Product Limits | Raslanco | [Read More](https://medium.com/p/0c0d26e22672) |
-| Fri, 06 Mar 2026 12:37:37 GMT | What Should We Pay Attention to when we conduct a Dynamic Analysis? | Naihalmerchant | [Read More](https://medium.com/p/0fc0b03be87a) |
-| Fri, 06 Mar 2026 12:35:56 GMT | How Technology Is Revolutionizing Modern Law Enforcement | Daniel K. Morrison | [Read More](https://medium.com/p/5780e694bbbf) |
-| Fri, 06 Mar 2026 12:34:38 GMT | Protecting Materials and Machinery: The Power of Professional Construction Security | Grdsnscrt | [Read More](https://medium.com/p/87b4672b2ad0) |
