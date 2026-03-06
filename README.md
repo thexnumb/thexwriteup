@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Mar 2026 22:01:01 GMT | Unfiltered Restart — Day 19: Exam Prep, Day 5 | Maximillian Rueda | [Read More](https://medium.com/p/86d41b6bde5e) |
+| Fri, 06 Mar 2026 21:55:09 GMT | Microsoft  Intune | Railsdevabam | [Read More](https://medium.com/p/f7925c3e5bb6) |
+| Fri, 06 Mar 2026 21:54:59 GMT | Cybersecurity 101: From CIA Triad to Cybersecurity Framework, With a Spice of Modern Oversight | Miha Stele | [Read More](https://medium.com/p/e89741b24484) |
+| Fri, 06 Mar 2026 21:49:40 GMT | grok | Ebukafelix | [Read More](https://medium.com/p/fe524c09a4e2) |
+| Fri, 06 Mar 2026 21:45:55 GMT | Your CISO Just Left. Now What? A Practical Next-Step Guide | Tyson Martin | [Read More](https://medium.com/p/0930cbe649a7) |
+| Fri, 06 Mar 2026 21:43:59 GMT | Weekly Cyber Threat Bulletin: 5 March 2026 | Marcelle Lee | [Read More](https://medium.com/p/c7ea59d0e561) |
+| Fri, 06 Mar 2026 21:40:00 GMT | Why pointer Type Matters : Typecasting and Memory Behaviour in C | Prashant Raj | [Read More](https://medium.com/p/20bc4594d2b1) |
+| Fri, 06 Mar 2026 21:38:06 GMT | Wazuh and DFIR-IRIS Integration | Enitan Ogungbade | [Read More](https://medium.com/p/402868abb73b) |
+| Fri, 06 Mar 2026 21:28:21 GMT | The Operator Who Didn’t Care: Profiling the Exit of Archive.today | Berend Watchus | [Read More](https://medium.com/p/f9c847710784) |
 | Fri, 06 Mar 2026 21:23:38 GMT | A Path Hidden in Plain Sight: Owning Active Directory | Jabaribrown | [Read More](https://medium.com/p/4595a7b730bc) |
 | Fri, 06 Mar 2026 21:19:52 GMT | How AI Apps Finally Plug Into the Real World: Understanding MCP | Meghna Manoj Nair | [Read More](https://medium.com/p/cb01443f74c1) |
 | Fri, 06 Mar 2026 21:11:32 GMT | The Mysterious Journey of a Powerful iOS Exploit Kit | SOCFortress | [Read More](https://medium.com/p/e270b15f8697) |
@@ -104,12 +113,3 @@ How a free Telegram channel… | Mirmahmood | [Read More](https://medium.com/p/8
 | Fri, 06 Mar 2026 16:01:43 GMT | Understanding the Cyber Kill Chain: How Cyber Attacks Actually Happen | Antonyrajvedamanickam | [Read More](https://medium.com/p/eaef9236f63f) |
 | Fri, 06 Mar 2026 16:01:01 GMT | When Tool Refusals Quietly Leak Capability | Modexa | [Read More](https://medium.com/p/fa236a9fe00c) |
 | Fri, 06 Mar 2026 15:57:58 GMT | Linux Basic Commands | Gigadexterity | [Read More](https://medium.com/p/1bf8892fc076) |
-| Fri, 06 Mar 2026 15:46:00 GMT | The Ghost in the Machine: Why the Secret to Cybersecurity Isn’t Software — It’s Psychology | Ehulse | [Read More](https://medium.com/p/ae4468daa20a) |
-| Fri, 06 Mar 2026 15:41:08 GMT | PentAGI: I Let an Autonomous AI Pentester Loose on My Staging Environment | Pravin Jha | [Read More](https://medium.com/p/64efccc55c03) |
-| Fri, 06 Mar 2026 15:41:01 GMT | Deathnote - Vulnhub - Detailed Writeup(1/100) | Veetaragpatil | [Read More](https://medium.com/p/80caf9fffc46) |
-| Fri, 06 Mar 2026 15:35:04 GMT | CTF Pwn102 @ TryHackMe | Rafael David | [Read More](https://medium.com/p/4967e4f6804c) |
-| Fri, 06 Mar 2026 15:16:22 GMT | The AI Bug Bounty Crisis: When Fake Vulnerability Reports Flood the Internet | Bugitrix | [Read More](https://medium.com/p/96ac1164755e) |
-| Fri, 06 Mar 2026 15:15:22 GMT | Tugas Week 3 CyberDefenders-PsExec Hunt Lab | Muhammad Rafi Arrachman | [Read More](https://medium.com/p/61d1f02eba97) |
-| Fri, 06 Mar 2026 15:12:53 GMT | HackTheBox Shoppy Writeup: NoSQL Injection to Docker Privilege Escalation | Akulata | [Read More](https://medium.com/p/20c4297fea9b) |
-| Fri, 06 Mar 2026 15:12:50 GMT | Event Viewing (PicoCTF Write Up) | Annisa Eka Putri | [Read More](https://medium.com/p/3a47c27d174f) |
-| Fri, 06 Mar 2026 15:12:00 GMT | Cybersecurity Career Roadmap (2026) | Jeenasebastian | [Read More](https://medium.com/p/c317057a6bf7) |
