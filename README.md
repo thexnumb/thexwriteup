@@ -12,10 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Mar 2026 15:46:00 GMT | The Ghost in the Machine: Why the Secret to Cybersecurity Isn’t Software — It’s Psychology | Ehulse | [Read More](https://medium.com/p/ae4468daa20a) |
+| Fri, 06 Mar 2026 15:41:08 GMT | PentAGI: I Let an Autonomous AI Pentester Loose on My Staging Environment | Pravin Jha | [Read More](https://medium.com/p/64efccc55c03) |
+| Fri, 06 Mar 2026 15:41:01 GMT | Deathnote - Vulnhub - Detailed Writeup(1/100) | Veetaragpatil | [Read More](https://medium.com/p/80caf9fffc46) |
+| Fri, 06 Mar 2026 15:35:04 GMT | CTF Pwn102 @ TryHackMe | Rafael David | [Read More](https://medium.com/p/4967e4f6804c) |
+| Fri, 06 Mar 2026 15:16:22 GMT | The AI Bug Bounty Crisis: When Fake Vulnerability Reports Flood the Internet | Bugitrix | [Read More](https://medium.com/p/96ac1164755e) |
+| Fri, 06 Mar 2026 15:15:22 GMT | Tugas Week 3 CyberDefenders-PsExec Hunt Lab | Muhammad Rafi Arrachman | [Read More](https://medium.com/p/61d1f02eba97) |
+| Fri, 06 Mar 2026 15:12:53 GMT | HackTheBox Shoppy Writeup: NoSQL Injection to Docker Privilege Escalation | Akulata | [Read More](https://medium.com/p/20c4297fea9b) |
+| Fri, 06 Mar 2026 15:12:50 GMT | Event Viewing (PicoCTF Write Up) | Annisa Eka Putri | [Read More](https://medium.com/p/3a47c27d174f) |
+| Fri, 06 Mar 2026 15:12:00 GMT | Cybersecurity Career Roadmap (2026) | Jeenasebastian | [Read More](https://medium.com/p/c317057a6bf7) |
+| Fri, 06 Mar 2026 15:08:50 GMT | How to Break Into Tech in the UK (Without a Computer Science Degree) | Grant Tunner | [Read More](https://medium.com/p/64b6ecff20dc) |
+| Fri, 06 Mar 2026 15:06:35 GMT | photographer walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/15062b43b58a) |
+| Fri, 06 Mar 2026 15:05:47 GMT | Dash Evolution chain Integrates Zcash’s Orchard shielded Pool. | Chibuike Augustine | [Read More](https://medium.com/p/623e9f1ba633) |
+| Fri, 06 Mar 2026 15:05:45 GMT | Exploring Android Application Security Through AndroGoat Lab | razzee | [Read More](https://medium.com/p/96f3b4123320) |
 | Fri, 06 Mar 2026 14:58:43 GMT | 149 Hacktivist DDoS Attacks Disrupt 110 Organizations Across 16 Countries | Ananthuharikumar | [Read More](https://medium.com/p/fab49b8a3d97) |
 | Fri, 06 Mar 2026 14:58:29 GMT | # How We Cut SOC Alert Handling Costs by 94% Using GPT-4o-mini and Smart Caching | Nguyen Dong | [Read More](https://medium.com/p/522282c4ec6c) |
+| Fri, 06 Mar 2026 14:56:47 GMT | Struktur Data : Pengertian dan Jenis-Jenisnya | Dika Pramana | [Read More](https://medium.com/p/f5b30f257623) |
 | Fri, 06 Mar 2026 14:56:46 GMT | Finding Your North Star — From IT Foundations to OT Security: My Cybersecurity Journey. | Mamatyitki | [Read More](https://medium.com/p/ebb8cc15ec13) |
 | Fri, 06 Mar 2026 14:56:11 GMT | Cybersecurity Strategies for Critical Infrastructure in the Digital Era | Omer Akin | [Read More](https://medium.com/p/1080bb2a85ef) |
+| Fri, 06 Mar 2026 14:56:00 GMT | What Is Computer Activity Monitoring? A Complete Guide for Parents and Businesses (2026) | Paul Meyer | [Read More](https://medium.com/p/e4a0de0f7684) |
 | Fri, 06 Mar 2026 14:47:30 GMT | PsExec Hunt Lab — SOC Investigation Writeup | Abdullah Fatih  Al Huda | [Read More](https://medium.com/p/9b8244635d3e) |
 | Fri, 06 Mar 2026 14:46:14 GMT | Joshua Adam Schulte: The CIA Engineer Who Leaked Vault 7 and Got 40 Years in Prison | Abel | [Read More](https://medium.com/p/0c6ea61406df) |
 | Fri, 06 Mar 2026 14:46:01 GMT | 10 action-audit patterns that make agents defensible in reviews | Nikulsinh Rajput | [Read More](https://medium.com/p/e814f7fce962) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Mar 2026 09:57:55 GMT | The war started on a friday. The cyber war started before that. | h@shtalk | [Read More](https://medium.com/p/3386ea78b9fc) |
 | Fri, 06 Mar 2026 09:50:01 GMT | In the current cybersecurity landscape, the “Detection Gap” is the single greatest risk to business… | Sathvik Bellave | [Read More](https://medium.com/p/f124e9d743c2) |
 | Fri, 06 Mar 2026 09:44:44 GMT | I Built the Ultimate CompTIA Security+ [SY0-701] Roadmap (You don’t need anything else) | Mohammed Afnaan Ahmed | [Read More](https://medium.com/p/4ecd01fbb736) |
-| Fri, 06 Mar 2026 09:44:09 GMT | Dari Reverse Engineering hingga Exploit: Pentesting Aplikasi Lab Android AndroGoat | Raden Dika Natakusumah | [Read More](https://medium.com/p/fb7be0d93597) |
-| Fri, 06 Mar 2026 09:35:03 GMT | AI Will Not Replace Your IT Team. But This Will. | Empacso Technologies | [Read More](https://medium.com/p/22345f2beef0) |
-| Fri, 06 Mar 2026 09:31:17 GMT | From Curiosity to CVE: Discovering a Kiosk Breakout Vulnerability in Technogym Fitness Equipment | Asparuh Stefanov | [Read More](https://medium.com/p/5f80e3171375) |
-| Fri, 06 Mar 2026 09:23:41 GMT | 5 Self-Hosted WAFs Engineers Are Actually Using in 2026 | John Hawkins | [Read More](https://medium.com/p/f5020b980b82) |
-| Fri, 06 Mar 2026 09:22:44 GMT | Bootcamp Blue Team idn.networkers WeeklyTask #3 , Cyberdefenders psexec-hunt | Muhammad Sava Alfarisy | [Read More](https://medium.com/p/bf94e2f13aca) |
-| Fri, 06 Mar 2026 09:13:40 GMT | The Hackers Labs Writeup — Horizon (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/176a15a3c1c6) |
-| Fri, 06 Mar 2026 09:11:08 GMT | (WSTG) Configuration and Deployment Management Testing | Diva Rizky Alfitrah | [Read More](https://medium.com/p/7f5e37a9eb1b) |
-| Fri, 06 Mar 2026 09:04:00 GMT | Wikipedia Just Went Read-Only. The Secret Reason Is Actually Shocking. | Pythonpom | [Read More](https://medium.com/p/3f5583cac549) |
-| Fri, 06 Mar 2026 09:01:55 GMT | What I Learned in 7 Days at Tech Academy: A Practical Breakdown I just finished an intensive week… | Somtochime | [Read More](https://medium.com/p/dd6325609850) |
-| Fri, 06 Mar 2026 09:01:05 GMT | AI Shapes Ethical Hacking Threats and Defenses | Niranjandotnot | [Read More](https://medium.com/p/9f8389d5dbce) |
-| Fri, 06 Mar 2026 09:01:01 GMT | I Searched 5 Banks for Leaked Credentials. Here’s What I Found. | Alexandre Vandamme | [Read More](https://medium.com/p/394a7ab826c5) |
-| Fri, 06 Mar 2026 08:59:38 GMT | Mengapa Kompleksitas Sistem Menghambat Adopsi Secure Email Pada Masyarakat (Pengguna Awam) | Apriotamailham | [Read More](https://medium.com/p/b153b7f043d8) |
-| Fri, 06 Mar 2026 08:46:39 GMT | C:I:A — A Human Triad for the Digital Age | Oyin Ajayi | [Read More](https://medium.com/p/11d247a77099) |
-| Fri, 06 Mar 2026 08:46:29 GMT | The Software Engineering Principles and Terminologies That Define Great Engineers | Samuel Adedolapo Adebiyi | [Read More](https://medium.com/p/226e520602d0) |
-| Fri, 06 Mar 2026 08:46:00 GMT | Your CI/CD Pipeline is a Target: How to Stop Treating It Like Plumbing | Ola Lawrence O | [Read More](https://medium.com/p/dd2965caa62d) |
