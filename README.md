@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Mar 2026 18:56:01 GMT | EU GDPR — Article 30 (Records of Processing Activities) | MDM Team | [Read More](https://medium.com/p/e6f6f4d0eba5) |
+| Fri, 06 Mar 2026 18:44:03 GMT | The Principle of Least Privilege: Reducing Risk Through Controlled Access | Wilfriedpanol | [Read More](https://medium.com/p/5cd6e4bd7da2) |
+| Fri, 06 Mar 2026 18:42:55 GMT | Week 1: Information Gathering & Networking Fundamentals | Manveer Singh | [Read More](https://medium.com/p/93fbcfa1d719) |
+| Fri, 06 Mar 2026 18:38:15 GMT | Understanding Generative AI and LLM Security: Foundations Every Security Engineer Should Know | Chiakiichan | [Read More](https://medium.com/p/f2fb38375e02) |
+| Fri, 06 Mar 2026 18:32:09 GMT | OSINT Investigation: Tracking Active Malware & Phishing Infrastructure | Amiteshwar Singh | [Read More](https://medium.com/p/7919d9800f5d) |
+| Fri, 06 Mar 2026 18:29:12 GMT | How I Built a SQL-Driven User Access Review & Compliance Audit | Sanketh Subhas | [Read More](https://medium.com/p/6a32ce1caa75) |
+| Fri, 06 Mar 2026 18:27:45 GMT | 5 Actions Critical for Cybersecurity Leadership During International Conflicts | Matthew.Rosenquist | [Read More](https://medium.com/p/d13eedea0a09) |
+| Fri, 06 Mar 2026 18:27:36 GMT | Simple cybersecurity guide for every PC owner | Chidubem Samuel Orji | [Read More](https://medium.com/p/9025749c27e7) |
+| Fri, 06 Mar 2026 18:17:24 GMT | Write-up: Exploiting Shellshock and Bypassing Restricted Environments in Troll 2 | Seifeldeen | [Read More](https://medium.com/p/5e9f3f5779cd) |
+| Fri, 06 Mar 2026 18:17:16 GMT | How AWS Security Hub Simplifies Cloud Security Operations? | Amit Tidke | [Read More](https://medium.com/p/7bf8945158ab) |
+| Fri, 06 Mar 2026 18:11:51 GMT | Why Schools with IT Curriculum Are Becoming More Important Than Ever | Joko Sampurno | [Read More](https://medium.com/p/a7cbb517468e) |
+| Fri, 06 Mar 2026 18:11:31 GMT | Congress’s Quiet War on Online Anonymity: Why KOSA and Age Verification Could Change the Internet… | Infinite Solutions by J. I. Memphis | [Read More](https://medium.com/p/30d2cdfa5f9a) |
+| Fri, 06 Mar 2026 18:09:45 GMT | Your Senses and Judgment Are Lying to You. It Could Cost You Millions | Mikolaj Pasecki | [Read More](https://medium.com/p/36930a2394ce) |
+| Fri, 06 Mar 2026 18:09:14 GMT | Defense in Depth: The Foundation of a Strong Cybersecurity Strategy | Wilfriedpanol | [Read More](https://medium.com/p/cc8dc37765e0) |
+| Fri, 06 Mar 2026 17:59:06 GMT | Intelligence and Counterintelligence: History, Modernity, Facts | Andrey Spiridonov | [Read More](https://medium.com/p/a920f647843d) |
+| Fri, 06 Mar 2026 17:53:04 GMT | localStorage vs sessionStorage vs Cookies | shivam-pawar-7 | [Read More](https://medium.com/p/8a9f0fdfa44c) |
 | Fri, 06 Mar 2026 17:51:21 GMT | The Silent Invader: Everything You Need to Know About Remote Access Trojans - Part 1 | Muhammedfaris | [Read More](https://medium.com/p/45243cd82097) |
 | Fri, 06 Mar 2026 17:51:00 GMT | Show me the money. | Jere Le | [Read More](https://medium.com/p/984476c0a54b) |
 | Fri, 06 Mar 2026 17:45:14 GMT | HackMyVM: GameShell2 Walkthrough | SWALE | [Read More](https://medium.com/p/c4646d760091) |
@@ -97,19 +113,3 @@ How a free Telegram channel… | Mirmahmood | [Read More](https://medium.com/p/8
 | Fri, 06 Mar 2026 12:37:37 GMT | What Should We Pay Attention to when we conduct a Dynamic Analysis? | Naihalmerchant | [Read More](https://medium.com/p/0fc0b03be87a) |
 | Fri, 06 Mar 2026 12:35:56 GMT | How Technology Is Revolutionizing Modern Law Enforcement | Daniel K. Morrison | [Read More](https://medium.com/p/5780e694bbbf) |
 | Fri, 06 Mar 2026 12:34:38 GMT | Protecting Materials and Machinery: The Power of Professional Construction Security | Grdsnscrt | [Read More](https://medium.com/p/87b4672b2ad0) |
-| Fri, 06 Mar 2026 12:29:49 GMT | Path Traversal Vulnerability Explained: The Hidden Door Inside Web Applications | Ishant Gupta | [Read More](https://medium.com/p/2f56474f9e75) |
-| Fri, 06 Mar 2026 12:25:16 GMT | Crypto’s Biggest Security Failures in Early 2026 Weren’t Smart Contract Hacks | OKcontract Chainwall | [Read More](https://medium.com/p/0eebff733e0a) |
-| Fri, 06 Mar 2026 12:24:39 GMT | HTB - Redeemer | Golubsource | [Read More](https://medium.com/p/afdfd5a451e9) |
-| Fri, 06 Mar 2026 12:18:37 GMT | How AI in Microsoft Defender XDR Detects and Blocks Cyber Threats | AndrewCooper2503 | [Read More](https://medium.com/p/3da5f5e963e2) |
-| Fri, 06 Mar 2026 12:12:15 GMT | 2 Menit Mengenal Data Science | Felicia Setiawan | [Read More](https://medium.com/p/57b22b892ac7) |
-| Fri, 06 Mar 2026 12:10:31 GMT | JWT Authentication (Postcards & Wax Seals). Why Tokens Aren’t “Secret” | Alina Kovtun✨ | [Read More](https://medium.com/p/da1177718bf4) |
-| Fri, 06 Mar 2026 12:09:44 GMT | I Have Completed the Event-Viewing Section of PicoCTF | Ammarnabil | [Read More](https://medium.com/p/61c8f3982239) |
-| Fri, 06 Mar 2026 12:03:53 GMT | Exploiting HTTP request smuggling to capture other users’ requests | Ⓥ | [Read More](https://medium.com/p/be7353b950c2) |
-| Fri, 06 Mar 2026 12:03:46 GMT | Response queue poisoning via H2.TE request smuggling | Ⓥ | [Read More](https://medium.com/p/96efca756a9d) |
-| Fri, 06 Mar 2026 12:02:34 GMT | Threat Intelligence in Genesis: Lessons from Joseph for SOC Analysts | Afolayan Jane | [Read More](https://medium.com/p/3db40fcd9a06) |
-| Fri, 06 Mar 2026 12:00:10 GMT | Why Link2Cyber Matters | Ben Linkous | [Read More](https://medium.com/p/5dfd1a3f9029) |
-| Fri, 06 Mar 2026 11:56:24 GMT | The Fear of the Next Question: Why I Pretended to Have No Hobbies | Vidisha Srivastava | [Read More](https://medium.com/p/00c05a5c2961) |
-| Fri, 06 Mar 2026 11:50:35 GMT | Blind XSS Unleashed: Automating Payloads to Catch Vulnerabilities You Can’t See | Monika sharma | [Read More](https://medium.com/p/180fe779cbae) |
-| Fri, 06 Mar 2026 11:32:00 GMT | Cybersecurity Mindset (with Meetup) | Aiden | [Read More](https://medium.com/p/061b1135bcde) |
-| Fri, 06 Mar 2026 11:25:15 GMT | DotNetToJScript: Execute C# from Jscript | Pentester Club | [Read More](https://medium.com/p/9c5638c0cf4a) |
-| Fri, 06 Mar 2026 11:20:10 GMT | Why Residential Complexes Look for the Best Security Service in Hyderabad | Find Security Service | [Read More](https://medium.com/p/4fe6b7cbad4a) |
