@@ -12,8 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Mar 2026 07:28:10 GMT | Secure Code Review Series | Aryah | [Read More](https://medium.com/p/66ec8224f0d2) |
+| Fri, 06 Mar 2026 07:27:58 GMT | NKSCX Exchange Review: A Clean, Confidence-First Trading Experience | NexiRank | [Read More](https://medium.com/p/5de2a328b543) |
+| Fri, 06 Mar 2026 07:22:02 GMT | Integrated Physical & Cyber Security Solutions: The Future of Comprehensive Protection | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/2985d59daab9) |
+| Fri, 06 Mar 2026 07:21:49 GMT | How Organizations Can Monitor Cyber Compliance Effectively | Rahman Iqbal | [Read More](https://medium.com/p/9e4bb61748df) |
+| Fri, 06 Mar 2026 07:13:33 GMT | Choosing the Right Consultant for Cybersecurity Maturity Model Certification in New York | Compciti | [Read More](https://medium.com/p/21769bfc56b0) |
+| Fri, 06 Mar 2026 07:12:32 GMT | I Built an AI Powered SOC Investigation Tool Using Claude + MCP And It Changed How I Analyze… | Revanth S | [Read More](https://medium.com/p/aec32d5f28aa) |
+| Fri, 06 Mar 2026 07:07:51 GMT | ⚡ Building a Bug Bounty Recon Script That Launches OpenClaw for Analysis | ghostyjoe | [Read More](https://medium.com/p/7a6d5b2bbfe8) |
+| Fri, 06 Mar 2026 07:07:16 GMT | How to Optimize IT Support Services for Your Business Needs | Rx Technology | [Read More](https://medium.com/p/5feaf31c5c2c) |
+| Fri, 06 Mar 2026 07:05:25 GMT | Why Most Cybersecurity Solutions Detect Attacks Too Late | Behawk Infosec | [Read More](https://medium.com/p/10ed0f26c0ea) |
+| Fri, 06 Mar 2026 07:02:59 GMT | RSA Explained: The Simple Math Behind Internet Security | ShreehariMenon | [Read More](https://medium.com/p/e41a0091da9c) |
+| Fri, 06 Mar 2026 07:01:24 GMT | Corporate Greed Chronicles: Record Profits, Record Excuses, 3% Reduction at Morgan Stanley | Namir Sagheenanajar | [Read More](https://medium.com/p/cde0d4215ab8) |
+| Fri, 06 Mar 2026 07:01:05 GMT | 13. Jenkins Architecture and Internal Working | Mangesh Muley | [Read More](https://medium.com/p/77df40886e09) |
+| Fri, 06 Mar 2026 07:01:01 GMT | Data Enrichment — The “Deep Learning Does Everything” Trap | the CyberStoic | [Read More](https://medium.com/p/754adbf72bc5) |
+| Fri, 06 Mar 2026 07:01:01 GMT | When the Key Lives in the Request: Breaking Client-Side AES Encryption in a Real Web Application | urhnrblpntstr | [Read More](https://medium.com/p/36a8555f3900) |
+| Fri, 06 Mar 2026 06:59:39 GMT | Certified Penetration Testing Course with AI in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/338bfdc79444) |
+| Fri, 06 Mar 2026 06:54:25 GMT | BlockQuotient Review: NKSCX’s Exchange Direction | BlockQuotient | [Read More](https://medium.com/p/40748b180dad) |
 | Fri, 06 Mar 2026 06:52:35 GMT | Cryptography in Information Security | Tathya | [Read More](https://medium.com/p/868f2888743d) |
 | Fri, 06 Mar 2026 06:51:38 GMT | File Uploads in the BoldSign Mobile App: Everything You Need to Know | Reethika Moovendhan | [Read More](https://medium.com/p/ea46de56d696) |
+| Fri, 06 Mar 2026 06:48:06 GMT | Agent Security: Why You Are the New Attack Vector (And How to Defend Your Apps) | Tim Lin | [Read More](https://medium.com/p/94cfd8c5f74b) |
 | Fri, 06 Mar 2026 06:39:05 GMT | Bug Bounty and Ethical Hacking Career Paths: A Complete Guide | EINITIAL24 | [Read More](https://medium.com/p/f7bf84a6de89) |
 | Fri, 06 Mar 2026 06:37:45 GMT | The Technology Behind Modern Antivirus Software for Advanced PC Protection | Siyanoav | [Read More](https://medium.com/p/ebf2dcc42567) |
 | Fri, 06 Mar 2026 06:36:57 GMT | Memahami Vulnerability dalam OWASP Top 10 2021 | Fauzandp | [Read More](https://medium.com/p/bfe5ffc89b9c) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Mar 2026 23:09:49 GMT | Why I Stopped Leaving My Crypto on Exchanges (And You Should Too) | GuardiaCrypto | [Read More](https://medium.com/p/6563acbd15a3) |
 | Thu, 05 Mar 2026 22:55:26 GMT | Mobile Pentesting : Androgoat | L0udbaa | [Read More](https://medium.com/p/495650b46c8c) |
 | Thu, 05 Mar 2026 22:43:40 GMT | Day 17 : SOC L1 Alert Triage THM | Cybersecurity with Jojo | [Read More](https://medium.com/p/1bf0ff70d3d0) |
-| Thu, 05 Mar 2026 22:42:43 GMT | Kali Linux ile Steganografi: Dijital Dünyada Veri Gizleme | Zeynep ÖZÇELİK | [Read More](https://medium.com/p/7b26a7cdb7e1) |
-| Thu, 05 Mar 2026 22:38:28 GMT | Cheese CTF (THM) Tryhackme WriteUp Answer | Lawvye | [Read More](https://medium.com/p/bdaf295dd895) |
-| Thu, 05 Mar 2026 22:37:12 GMT | Are People Using Your Images Without Permission? | Myimagecompressor | [Read More](https://medium.com/p/12b1cb1ee3c8) |
-| Thu, 05 Mar 2026 22:36:13 GMT | The “Unhackable” Lie: Why Your Security Budget is Actually Making You a Target | ProfitShield AI | [Read More](https://medium.com/p/8c5ebb96117b) |
-| Thu, 05 Mar 2026 22:30:49 GMT | mKingdom An Easy [Try Hack Me] Lab : | Amrou bekhedda | [Read More](https://medium.com/p/20138d9a2bef) |
-| Thu, 05 Mar 2026 22:29:37 GMT | CodexField: Built for Structured Collaboration. Engineered for Secure, Scalable Web3 Execution. | Gee Pee | [Read More](https://medium.com/p/b8e5e606b108) |
-| Thu, 05 Mar 2026 22:22:24 GMT | Hutch (Proving Grounds) Walkthrough: An Active Directory Attack Path | SilentExploit | [Read More](https://medium.com/p/c8d4ab4b1691) |
-| Thu, 05 Mar 2026 22:16:01 GMT | Teaching Persons With Disabilities Advanced Digital Skills: What Facilitators Get Wrong — And How… | Victor Ekwueme | [Read More](https://medium.com/p/958e92e94396) |
-| Thu, 05 Mar 2026 22:10:45 GMT | Slack Bug Bounty — $1,750 Easy Bug | Sirat Sami (analyz3r) | [Read More](https://medium.com/p/af0db2e81231) |
-| Thu, 05 Mar 2026 22:01:01 GMT | Unfiltered Restart — Day 17+18: Exam Prep, Day 3+4 | Maximillian Rueda | [Read More](https://medium.com/p/89ae87cd2777) |
-| Thu, 05 Mar 2026 21:57:15 GMT | Lab 28 — Gathering DNS information with dnsenum | Hassen Hannachi | [Read More](https://medium.com/p/73ba532f4ac4) |
-| Thu, 05 Mar 2026 21:56:32 GMT | When Algorithms Go to War: The Invisible Frontline of the Iran–U.S. Cyber Conflict | Ahmed Awad ( NullC0d3 ) | [Read More](https://medium.com/p/ca3d2c2be2e0) |
-| Thu, 05 Mar 2026 21:45:19 GMT | Berlin im Visier der Hacker: Warum jedes Unternehmen heute einen Penetrationstest braucht | Donbread Service | [Read More](https://medium.com/p/cbe3a4823c04) |
-| Thu, 05 Mar 2026 21:41:26 GMT | Finding a P1 in NASA: The Power of Google Dorking | Khandaniyal | [Read More](https://medium.com/p/ec0151376224) |
-| Thu, 05 Mar 2026 21:27:49 GMT | From Imperial College to the Heart of the Politburo: The Cai Qi Connection | Marty Day | [Read More](https://medium.com/p/7aabe2906a43) |
-| Thu, 05 Mar 2026 21:24:26 GMT | Getting Started with the Stardust Shellcode Generator Template | S12 - 0x12Dark Development | [Read More](https://medium.com/p/bd7ceddeada1) |
-| Thu, 05 Mar 2026 21:06:36 GMT | Why Every Scanner Missed This RCE: Reviving CVE-2020–7961 On A 7 Year old Instance of Liferay | Phil | [Read More](https://medium.com/p/a0d1c4af0738) |
