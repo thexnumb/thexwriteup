@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Mar 2026 14:02:46 GMT | The Naugatuck Homeowner’s Guide to Locksmiths - SLK | Sure Lock & Key LLC | [Read More](https://medium.com/p/f0e881060a9d) |
+| Fri, 06 Mar 2026 13:58:38 GMT | Why Role Based Access Control is a Product problem, not just a Security problem | Ashu Kohli | [Read More](https://medium.com/p/5bd5a6ab9055) |
+| Fri, 06 Mar 2026 13:55:18 GMT | Beyond Passwords: Why Identity Security Must Evolve for the Modern Threat Landscape | Dr. Shashi Karhail | [Read More](https://medium.com/p/3ce64cc3973c) |
+| Fri, 06 Mar 2026 13:53:26 GMT | [EN-TR] Linux File System & Essential Commands | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/d77caaed1d07) |
+| Fri, 06 Mar 2026 13:47:24 GMT | Why More Security‑Minded Users Are Moving from Google’s 8.8.8.8 to Quad9 (9.9.9.9) | Mithrais | [Read More](https://medium.com/p/fbdb897875e9) |
+| Fri, 06 Mar 2026 13:44:21 GMT | The Hack That Shook Mexico’s Military: Inside the Guacamaya Leaks | K | [Read More](https://medium.com/p/e30c430fc3bf) |
+| Fri, 06 Mar 2026 13:41:55 GMT | Understanding VAPT Training and Why It Is Important for Cyber Security Careers | logging security | [Read More](https://medium.com/p/32eda6d91c36) |
+| Fri, 06 Mar 2026 13:38:27 GMT | When The Boardroom Built The Breach | O. J. Okpabi | [Read More](https://medium.com/p/60b3ab72b4a8) |
+| Fri, 06 Mar 2026 13:37:26 GMT | Eyes are the window to the soul, and they shall prove our personhood | Stnzlip | [Read More](https://medium.com/p/1f6d7fd8de8e) |
+| Fri, 06 Mar 2026 13:36:38 GMT | Merkle Manifests: Why Build Servers Lie (How to Cryptographically Prove It) | Kalyan Tamarapalli | [Read More](https://medium.com/p/836e19a67545) |
+| Fri, 06 Mar 2026 13:28:35 GMT | Cyber Kill Chain | Ahmedmohamedosman | [Read More](https://medium.com/p/7c2a0201d6c3) |
+| Fri, 06 Mar 2026 13:24:29 GMT | Weekly Update: Telegram Channel Monitor Is Now Built Into the Dashboard | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/bc1f6c96f3f6) |
+| Fri, 06 Mar 2026 13:14:23 GMT | How I Passed eCPPT within 3 months Without Losing My Mind | Sudeepa Shiranthaka | [Read More](https://medium.com/p/ea6639ac8e40) |
+| Fri, 06 Mar 2026 13:10:30 GMT | [Dev Update] SIGNAL_DECOUPLER v4.2 // Tactical SIGINT Suite // Node Protocol | Marc | [Read More](https://medium.com/p/393e9d919cb6) |
+| Fri, 06 Mar 2026 13:06:00 GMT | Fortigate Dersleri: Web Filter ve HTTPS İncelemesine Derinlemesine Bakış-2 | Azra K. | [Read More](https://medium.com/p/5e9060c999f0) |
 | Fri, 06 Mar 2026 12:52:38 GMT | Modernise your Rails applications with Hotwire and Turbo. | goldeneagleai | [Read More](https://medium.com/p/f59ba8e3e5df) |
 | Fri, 06 Mar 2026 12:48:56 GMT | Trusted Professional Texas Security Guard Services | Matrix Security Guard Services LLC | [Read More](https://medium.com/p/5cadc1ec91e5) |
 | Fri, 06 Mar 2026 12:47:01 GMT | The Burglar Who Dwells Inside Your Network | O. J. Okpabi | [Read More](https://medium.com/p/5fb13ce14fd0) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Mar 2026 07:49:10 GMT | Demystifying Burp Suite: Your First Step into Web Hacking for Absolute Beginners | Patwardhanmayuri | [Read More](https://medium.com/p/b5a2d07c3cb1) |
 | Fri, 06 Mar 2026 07:38:30 GMT | Purview Information Protection Scanner: On-Prem File Server’ı Nasıl Etiketlersin? — Bölüm 2 | Yiğit Şener | [Read More](https://medium.com/p/c0dae7834684) |
 | Fri, 06 Mar 2026 07:33:54 GMT | How OSINT and Client-Side Analysis Led to Multiple Auth Bypass Vulnerabilities | Mukund Bhuva | [Read More](https://medium.com/p/1960ac274e2b) |
-| Fri, 06 Mar 2026 07:33:18 GMT | SQL Injection: What a Secure Code Reviewer Sees That Developers Don’t | Aryah | [Read More](https://medium.com/p/7a29fa4e7ed8) |
-| Fri, 06 Mar 2026 07:28:10 GMT | Secure Code Review Series | Aryah | [Read More](https://medium.com/p/66ec8224f0d2) |
-| Fri, 06 Mar 2026 07:27:58 GMT | NKSCX Exchange Review: A Clean, Confidence-First Trading Experience | NexiRank | [Read More](https://medium.com/p/5de2a328b543) |
-| Fri, 06 Mar 2026 07:22:02 GMT | Integrated Physical & Cyber Security Solutions: The Future of Comprehensive Protection | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/2985d59daab9) |
-| Fri, 06 Mar 2026 07:21:49 GMT | How Organizations Can Monitor Cyber Compliance Effectively | Rahman Iqbal | [Read More](https://medium.com/p/9e4bb61748df) |
-| Fri, 06 Mar 2026 07:13:33 GMT | Choosing the Right Consultant for Cybersecurity Maturity Model Certification in New York | Compciti | [Read More](https://medium.com/p/21769bfc56b0) |
-| Fri, 06 Mar 2026 07:12:32 GMT | I Built an AI Powered SOC Investigation Tool Using Claude + MCP And It Changed How I Analyze… | Revanth S | [Read More](https://medium.com/p/aec32d5f28aa) |
-| Fri, 06 Mar 2026 07:07:51 GMT | ⚡ Building a Bug Bounty Recon Script That Launches OpenClaw for Analysis | ghostyjoe | [Read More](https://medium.com/p/7a6d5b2bbfe8) |
-| Fri, 06 Mar 2026 07:07:16 GMT | How to Optimize IT Support Services for Your Business Needs | Rx Technology | [Read More](https://medium.com/p/5feaf31c5c2c) |
-| Fri, 06 Mar 2026 07:05:25 GMT | Why Most Cybersecurity Solutions Detect Attacks Too Late | Behawk Infosec | [Read More](https://medium.com/p/10ed0f26c0ea) |
-| Fri, 06 Mar 2026 07:02:59 GMT | RSA Explained: The Simple Math Behind Internet Security | ShreehariMenon | [Read More](https://medium.com/p/e41a0091da9c) |
-| Fri, 06 Mar 2026 07:01:24 GMT | Corporate Greed Chronicles: Record Profits, Record Excuses, 3% Reduction at Morgan Stanley | Namir Sagheenanajar | [Read More](https://medium.com/p/cde0d4215ab8) |
-| Fri, 06 Mar 2026 07:01:05 GMT | 13. Jenkins Architecture and Internal Working | Mangesh Muley | [Read More](https://medium.com/p/77df40886e09) |
-| Fri, 06 Mar 2026 07:01:01 GMT | Data Enrichment — The “Deep Learning Does Everything” Trap | the CyberStoic | [Read More](https://medium.com/p/754adbf72bc5) |
-| Fri, 06 Mar 2026 07:01:01 GMT | When the Key Lives in the Request: Breaking Client-Side AES Encryption in a Real Web Application | urhnrblpntstr | [Read More](https://medium.com/p/36a8555f3900) |
