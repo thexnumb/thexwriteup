@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Mar 2026 08:33:29 GMT | Feeling Lost: Give Yourself One Last Chance Before Giving Up | Anshul | [Read More](https://medium.com/p/a3d7e4cc5482) |
+| Fri, 06 Mar 2026 08:18:56 GMT | Why Do You Have a Certificate But Still Can’t Get a Job Offer? | Onur Civan | [Read More](https://medium.com/p/c933d136005f) |
+| Fri, 06 Mar 2026 08:16:45 GMT | The Corix Partners Friday Reading List — March 6, 2026 | JC Gaillard | [Read More](https://medium.com/p/f958e3859339) |
+| Fri, 06 Mar 2026 08:08:32 GMT | What I Learned in 7 Days at Tech Academy: A Practical Breakdown | Somtochime | [Read More](https://medium.com/p/aeb3ee46e944) |
+| Fri, 06 Mar 2026 08:08:10 GMT | 2025 Global Cyber Threat Landscape | NSHC ThreatRecon Team | [Read More](https://medium.com/p/dd0da508b433) |
+| Fri, 06 Mar 2026 08:01:33 GMT | From Penetration Testing to DevSecOps: Integrating Security into the Software Delivery Pipeline | Marwan Atia | [Read More](https://medium.com/p/c14f9e703fc4) |
+| Fri, 06 Mar 2026 08:01:04 GMT | Assisted triage | Aurélien Praga | [Read More](https://medium.com/p/1de895f5a0fc) |
+| Fri, 06 Mar 2026 08:01:02 GMT | Triage assisté | Aurélien Praga | [Read More](https://medium.com/p/fe9c1c48441d) |
+| Fri, 06 Mar 2026 08:01:02 GMT | The Problems I See Again and Again in Scoping Exercises | Gaurav Shukla | [Read More](https://medium.com/p/e9942b49e87b) |
+| Fri, 06 Mar 2026 07:50:56 GMT | How to Start a Career in Ethical Hacking After 12th | cyber security Updates | [Read More](https://medium.com/p/7d8ecfdbbbbe) |
+| Fri, 06 Mar 2026 07:49:10 GMT | Demystifying Burp Suite: Your First Step into Web Hacking for Absolute Beginners | Patwardhanmayuri | [Read More](https://medium.com/p/b5a2d07c3cb1) |
+| Fri, 06 Mar 2026 07:38:30 GMT | Purview Information Protection Scanner: On-Prem File Server’ı Nasıl Etiketlersin? — Bölüm 2 | Yiğit Şener | [Read More](https://medium.com/p/c0dae7834684) |
+| Fri, 06 Mar 2026 07:33:54 GMT | How OSINT and Client-Side Analysis Led to Multiple Auth Bypass Vulnerabilities | Mukund Bhuva | [Read More](https://medium.com/p/1960ac274e2b) |
+| Fri, 06 Mar 2026 07:33:18 GMT | SQL Injection: What a Secure Code Reviewer Sees That Developers Don’t | Aryah | [Read More](https://medium.com/p/7a29fa4e7ed8) |
 | Fri, 06 Mar 2026 07:28:10 GMT | Secure Code Review Series | Aryah | [Read More](https://medium.com/p/66ec8224f0d2) |
 | Fri, 06 Mar 2026 07:27:58 GMT | NKSCX Exchange Review: A Clean, Confidence-First Trading Experience | NexiRank | [Read More](https://medium.com/p/5de2a328b543) |
 | Fri, 06 Mar 2026 07:22:02 GMT | Integrated Physical & Cyber Security Solutions: The Future of Comprehensive Protection | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/2985d59daab9) |
@@ -45,6 +59,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Mar 2026 06:03:40 GMT | Centene Cybersecurity Crisis: How a TRICARE Data Failure Exposed Millions of Military Families | Centengate | [Read More](https://medium.com/p/9134135e120e) |
 | Fri, 06 Mar 2026 05:56:22 GMT | Network basics for cybersecurity — Day 3 | 0xSmit | [Read More](https://medium.com/p/cfbae548daf1) |
 | Fri, 06 Mar 2026 05:54:27 GMT | Professional CCTV Monitoring Solutions That Actually Work | Doris William | [Read More](https://medium.com/p/9587ec3ef6fe) |
+| Fri, 06 Mar 2026 05:53:35 GMT | The cybersecurity problem we keep solving too late | Shioupyn Shen | [Read More](https://medium.com/p/deb80a342f2e) |
 | Fri, 06 Mar 2026 05:50:42 GMT | Widget Tata Letak Pembuatan Kartu | Zurichsabil | [Read More](https://medium.com/p/d860c4f1e809) |
 | Fri, 06 Mar 2026 05:45:37 GMT | User Enumeration via WordPress REST API: A Security Testing Walkthrough | gasmask | [Read More](https://medium.com/p/17a6517d3934) |
 | Fri, 06 Mar 2026 05:32:57 GMT | Azerbaijan’sPower Dynamics in the Caucasus: Azerbaijan’s Rise from the “Land of Fire” to a… | Fadi Jamil | [Read More](https://medium.com/p/3af7ba428dd4) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Mar 2026 01:22:59 GMT | Why Outsourcing Your Help Desk Is One of the Smartest IT Decisions Your Business Can Make | Always On | [Read More](https://medium.com/p/9e0b2e4d1fa1) |
 | Fri, 06 Mar 2026 01:10:27 GMT | OpenClaw Meetup Thailand Part 1 : ปลดล็อก AI Agent, เทคนิคประหยัด Token และเรื่อง Security✨ | Monchavin Pinthong | [Read More](https://medium.com/p/62fa62cabfa0) |
 | Fri, 06 Mar 2026 01:08:51 GMT | How Hackers Break Into Companies Without Cracking a Single Password | Armansyah hakim | [Read More](https://medium.com/p/a171313813eb) |
-| Fri, 06 Mar 2026 00:50:03 GMT | How OpenPawz secures AI agents: Defense layers from memory encryption to multi-agent governance | gotham64 | [Read More](https://medium.com/p/f28dbee65566) |
-| Fri, 06 Mar 2026 00:49:46 GMT | Malware Development with NIM — InfoStealers 101 | Edgar Huemac Sanchez Hernandez | [Read More](https://medium.com/p/7a30456de168) |
-| Fri, 06 Mar 2026 00:31:14 GMT | The Death of Alert Fatigue: How ShadowMap Leverages Rust and AI to Reclaim Security “Alpha” | Mohammad Abir Abbas | [Read More](https://medium.com/p/eebeacf8b99f) |
-| Fri, 06 Mar 2026 00:01:01 GMT | Guía de XSS Fundamentals: Vulnerabilidades, Payloads y Bypass de WAF/CSP | JPablo13 | [Read More](https://medium.com/p/c2585522a8a8) |
-| Thu, 05 Mar 2026 23:49:36 GMT | Burp Suite : The Beginners Guide | Ahm3d_Sec | [Read More](https://medium.com/p/169c5f45acb3) |
-| Thu, 05 Mar 2026 23:43:16 GMT | Building a HIPAA-Grade WAF on GCP: Cloud Armor, Rate Limiting, and a Secure Cloud Run Deployment | Iamabdullah | [Read More](https://medium.com/p/55d5e05fae75) |
-| Thu, 05 Mar 2026 23:41:29 GMT | SSO Misconfiguration Leading to Privilege Escalation Lead to Full Organization Takeover + SSO Email… | ali alhassoun | [Read More](https://medium.com/p/7d161e093c9e) |
-| Thu, 05 Mar 2026 23:34:32 GMT | What is Metasploit - The Beginner’s Guide | Ahm3d_Sec | [Read More](https://medium.com/p/3556c995dd50) |
-| Thu, 05 Mar 2026 23:26:03 GMT | The Death of Digital Sincerity: Why Your $10M Firewall is Now Irrelevant | Madhura Raj | [Read More](https://medium.com/p/75c3c7278a33) |
-| Thu, 05 Mar 2026 23:19:22 GMT | SecretPictures: HackTheBox Write-up | Braeden Allen | [Read More](https://medium.com/p/c4ab71d8996f) |
-| Thu, 05 Mar 2026 23:18:28 GMT | Birat Bazar Advances Growth Strategy with Diversified Digital Business Model | Barta Bari | [Read More](https://medium.com/p/4e4fd93a1d4c) |
-| Thu, 05 Mar 2026 23:11:49 GMT | Wenn gute Hacker ins Gefängnis kommen: Die paradoxe Realität der Cybersecurity in Berlin | Fatihbadem | [Read More](https://medium.com/p/9ceda8dc1442) |
-| Thu, 05 Mar 2026 23:09:49 GMT | Why I Stopped Leaving My Crypto on Exchanges (And You Should Too) | GuardiaCrypto | [Read More](https://medium.com/p/6563acbd15a3) |
-| Thu, 05 Mar 2026 22:55:26 GMT | Mobile Pentesting : Androgoat | L0udbaa | [Read More](https://medium.com/p/495650b46c8c) |
-| Thu, 05 Mar 2026 22:43:40 GMT | Day 17 : SOC L1 Alert Triage THM | Cybersecurity with Jojo | [Read More](https://medium.com/p/1bf0ff70d3d0) |
