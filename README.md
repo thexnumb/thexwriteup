@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 06 Mar 2026 06:52:35 GMT | Cryptography in Information Security | Tathya | [Read More](https://medium.com/p/868f2888743d) |
+| Fri, 06 Mar 2026 06:51:38 GMT | File Uploads in the BoldSign Mobile App: Everything You Need to Know | Reethika Moovendhan | [Read More](https://medium.com/p/ea46de56d696) |
+| Fri, 06 Mar 2026 06:39:05 GMT | Bug Bounty and Ethical Hacking Career Paths: A Complete Guide | EINITIAL24 | [Read More](https://medium.com/p/f7bf84a6de89) |
+| Fri, 06 Mar 2026 06:37:45 GMT | The Technology Behind Modern Antivirus Software for Advanced PC Protection | Siyanoav | [Read More](https://medium.com/p/ebf2dcc42567) |
+| Fri, 06 Mar 2026 06:36:57 GMT | Memahami Vulnerability dalam OWASP Top 10 2021 | Fauzandp | [Read More](https://medium.com/p/bfe5ffc89b9c) |
+| Fri, 06 Mar 2026 06:31:00 GMT | Email Analysis & Investigation | Ankita Sinha | [Read More](https://medium.com/p/bb2aeceac248) |
+| Fri, 06 Mar 2026 06:29:00 GMT | Transform Your Cybersecurity Strategy with Continuous Exposure Validation | Gauri Kale | [Read More](https://medium.com/p/3140c91ce0ff) |
+| Fri, 06 Mar 2026 06:23:40 GMT | Malware Development — 5 (Go lsass dumper) | 0r | [Read More](https://medium.com/p/0907cc331963) |
+| Fri, 06 Mar 2026 06:20:02 GMT | What Is Malware Protection? Best Practices for the Modern World | Danial Carter | [Read More](https://medium.com/p/439020dcf1b9) |
+| Fri, 06 Mar 2026 06:19:10 GMT | ब्लॉग: कृत्रिम बुद्धिमत्तेचे (AI) महत्त्व | jimmy Jha | [Read More](https://medium.com/p/5ab40cb10609) |
+| Fri, 06 Mar 2026 06:18:26 GMT | Macron’s forward deterrence and Europe’s energy lesson | Moh. Wahyu Syafi'ul Mubarok | [Read More](https://medium.com/p/005ec75aeab9) |
+| Fri, 06 Mar 2026 06:13:35 GMT | DeFi Security Vulnerabilities and Exploits: A Technical Analysis | Cynox Security LLP. | [Read More](https://medium.com/p/271ab668ba77) |
+| Fri, 06 Mar 2026 06:05:01 GMT | Secure AI Architecture for Enterprise Systems | Shreekansha | [Read More](https://medium.com/p/e73ecc00cd7b) |
+| Fri, 06 Mar 2026 06:03:40 GMT | Centene Cybersecurity Crisis: How a TRICARE Data Failure Exposed Millions of Military Families | Centengate | [Read More](https://medium.com/p/9134135e120e) |
+| Fri, 06 Mar 2026 05:56:22 GMT | Network basics for cybersecurity — Day 3 | 0xSmit | [Read More](https://medium.com/p/cfbae548daf1) |
+| Fri, 06 Mar 2026 05:54:27 GMT | Professional CCTV Monitoring Solutions That Actually Work | Doris William | [Read More](https://medium.com/p/9587ec3ef6fe) |
+| Fri, 06 Mar 2026 05:50:42 GMT | Widget Tata Letak Pembuatan Kartu | Zurichsabil | [Read More](https://medium.com/p/d860c4f1e809) |
+| Fri, 06 Mar 2026 05:45:37 GMT | User Enumeration via WordPress REST API: A Security Testing Walkthrough | gasmask | [Read More](https://medium.com/p/17a6517d3934) |
+| Fri, 06 Mar 2026 05:32:57 GMT | Azerbaijan’sPower Dynamics in the Caucasus: Azerbaijan’s Rise from the “Land of Fire” to a… | Fadi Jamil | [Read More](https://medium.com/p/3af7ba428dd4) |
 | Fri, 06 Mar 2026 05:18:29 GMT | Skill development center in Delhi NCR | Rohit Kanyal | [Read More](https://medium.com/p/0f6b59835375) |
 | Fri, 06 Mar 2026 05:13:53 GMT | OpenClaw: Security Scare vs The AI Dream | Park Sehun | [Read More](https://medium.com/p/c5eeeaffd176) |
 | Fri, 06 Mar 2026 05:08:47 GMT | Incident Response for CISOs: Aligning Security and Business Goals | NetWitness | [Read More](https://medium.com/p/37d4063c62ba) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 05 Mar 2026 21:27:49 GMT | From Imperial College to the Heart of the Politburo: The Cai Qi Connection | Marty Day | [Read More](https://medium.com/p/7aabe2906a43) |
 | Thu, 05 Mar 2026 21:24:26 GMT | Getting Started with the Stardust Shellcode Generator Template | S12 - 0x12Dark Development | [Read More](https://medium.com/p/bd7ceddeada1) |
 | Thu, 05 Mar 2026 21:06:36 GMT | Why Every Scanner Missed This RCE: Reviving CVE-2020–7961 On A 7 Year old Instance of Liferay | Phil | [Read More](https://medium.com/p/a0d1c4af0738) |
-| Thu, 05 Mar 2026 20:54:17 GMT | CIA Triad | Sujon Al Mamun | [Read More](https://medium.com/p/bdf471b0796b) |
-| Thu, 05 Mar 2026 20:52:14 GMT | Why Modern Developer Security Needs a Public Path and a Private Path | Mammoth Cyber | [Read More](https://medium.com/p/2ef15876df2a) |
-| Thu, 05 Mar 2026 20:49:21 GMT | Ağ Sistemlerinde Yerli Dönüşüm: Neden Bu Projeye Başladık? | Hasan Serdar | [Read More](https://medium.com/p/9b597b924c2f) |
-| Thu, 05 Mar 2026 20:49:14 GMT | The Hidden Risk of AI/LLM Hallucinations in Security Workflows | Raman Gautam - rghx | [Read More](https://medium.com/p/bc672e72ad2e) |
-| Thu, 05 Mar 2026 20:48:56 GMT | What is GRC? | Sujon Al Mamun | [Read More](https://medium.com/p/87e1c626416b) |
-| Thu, 05 Mar 2026 20:43:21 GMT | Playing it safe — on Google Cloud Platform | Mohammed Brückner | [Read More](https://medium.com/p/3bdefdf3ff0f) |
-| Thu, 05 Mar 2026 20:40:21 GMT | Understanding EDR, From the Lens of a Backend Engineer | Pratham Sharma | [Read More](https://medium.com/p/9081fa2d26f7) |
-| Thu, 05 Mar 2026 20:39:30 GMT | Hardening Your Salesforce Organisation | Connor Jackson | [Read More](https://medium.com/p/1e9121777efb) |
-| Thu, 05 Mar 2026 20:22:05 GMT | I Built a CIS Benchmark Compliance Checker That Works on Both macOS and Linux | Sanketh Subhas | [Read More](https://medium.com/p/05d732d51b7d) |
-| Thu, 05 Mar 2026 20:20:52 GMT | ChatGPT’yi Ferrari Gibi Sürmek: Üretkenliğinizi 10 Katına Çıkaracak 10 Gizli Hack | Mehmet AYDIN | [Read More](https://medium.com/p/32e7aa31f44d) |
-| Thu, 05 Mar 2026 20:20:02 GMT | Predatory Patterns in Cybersecurity Career Gatekeeping: A Pattern-Based OSINT Analysis of… | BlueBirdIntel | [Read More](https://medium.com/p/9da79380f1b8) |
-| Thu, 05 Mar 2026 20:07:56 GMT | My very first bug : Finding BAC in Hubspot | CaoCao | [Read More](https://medium.com/p/5964dec7ade5) |
-| Thu, 05 Mar 2026 20:07:46 GMT | Burp Suite Features Most Pentesters Ignore (But Shouldn’t) | Hackers Things | [Read More](https://medium.com/p/09e1fe2f4ff7) |
-| Thu, 05 Mar 2026 20:06:34 GMT | Read Team | Heavenblack | [Read More](https://medium.com/p/d3e27374957c) |
-| Thu, 05 Mar 2026 20:05:14 GMT | Speaker Johnson’s Covenant Eyes Scandal Sent Users to Punge. Here’s What They Were Afraid Of. | Mark Russo | [Read More](https://medium.com/p/7bcf189d10fe) |
-| Thu, 05 Mar 2026 20:04:18 GMT | Building a Full SIEM From Scratch and Teaching an AI Agent to Hunt Threats in it | George Makris | [Read More](https://medium.com/p/f5c563374471) |
-| Thu, 05 Mar 2026 20:00:10 GMT | Networking for Cybersecurity: The Moment Attacks Stopped Looking Like Magic | WinXcipher | [Read More](https://medium.com/p/c2e116c60294) |
-| Thu, 05 Mar 2026 19:58:33 GMT | Strings — Android Challenge | Anwer | [Read More](https://medium.com/p/487790ed2e7b) |
-| Thu, 05 Mar 2026 19:38:34 GMT | The Most Underestimated Cyber Threat Isn’t Technical — It’s Executive Misalignment | ᴅᴀɴ ᴋᴏʀᴏᴠᴛᴄʜ | [Read More](https://medium.com/p/e6fcfe19220b) |
