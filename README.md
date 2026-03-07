@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Mar 2026 20:38:29 GMT | Bastard — HTB Walkthrough | Hemantha Krishna Challa | [Read More](https://medium.com/p/eafa8b3eb2c2) |
+| Sat, 07 Mar 2026 20:38:13 GMT | Browser Forensics Just Got Way Easier — And It’s Free | Dean | [Read More](https://medium.com/p/f5eed9264d94) |
+| Sat, 07 Mar 2026 20:37:19 GMT | Ditch the Subscriptions: Why You Should Build a Private Smart Home Security System | NextGen Tech Press | [Read More](https://medium.com/p/f19f8d73acd0) |
+| Sat, 07 Mar 2026 20:36:20 GMT | Found a Denial of Service Vulnerability in a Major Company’s Production Infrastructure Using Shodan | Hacker MD | [Read More](https://medium.com/p/e5f766a4df79) |
+| Sat, 07 Mar 2026 20:30:23 GMT | The Linux Forensic Journey — Thumbnails Cache | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/4cbff2dce51e) |
 | Sat, 07 Mar 2026 20:10:13 GMT | Expressway Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/edb56665e955) |
 | Sat, 07 Mar 2026 19:55:56 GMT | How I Curiously Built a Tiny AI Lab in My Laptop — And Why You Might Want One Too | Khurshid Hassan | [Read More](https://medium.com/p/ec068854d5c7) |
 | Sat, 07 Mar 2026 19:54:46 GMT | Cheesy Does It writeup (BLF) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/898ddd8e9f96) |
@@ -100,15 +105,10 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 14:31:00 GMT | Win Back Your Ex After an Emotional Breakup | Dancemi Clare | [Read More](https://medium.com/p/18931e9f9b52) |
 | Sat, 07 Mar 2026 14:27:26 GMT | Side-Channel Attacks Explained: How Physical Leakage Breaks Cryptographic Systems | Vijayalakshmi Datascience | [Read More](https://medium.com/p/19f47d2e9a4b) |
 | Sat, 07 Mar 2026 14:19:08 GMT | Daniel Rigmaiden: The Tax Fraud Hacker Who Exposed FBI Stingray Surveillance from His Jail Cell | Abel | [Read More](https://medium.com/p/993a5831e7bb) |
+| Sat, 07 Mar 2026 14:14:43 GMT | Comment devenir pentester en 2026 : guide complet pour débuter dans le hacking éthique | Dubois Mathieu | [Read More](https://medium.com/p/e4ff48b0293c) |
 | Sat, 07 Mar 2026 14:12:10 GMT | Solving a Bugforge Challenge — Exploiting Broken Access Control in Sokudo | Pranaya Shrestha | [Read More](https://medium.com/p/51360943ac17) |
 | Sat, 07 Mar 2026 14:04:04 GMT | How to Build a Cybersecurity Lab at Home: A Practical Guide for Beginners | Ferdi Edogawa | [Read More](https://medium.com/p/fe2a15b56606) |
 | Sat, 07 Mar 2026 14:03:02 GMT | Python ile SSH Brute Force Saldırılarını Tespit Etmek: Basit Bir Log Analizi Aracı | Erkin KASIM | [Read More](https://medium.com/p/51c2fe232d31) |
 | Sat, 07 Mar 2026 14:02:03 GMT | Day 20: DNS Logs & Their Value | Siddhesh Patil | [Read More](https://medium.com/p/bfe8a563b278) |
 | Sat, 07 Mar 2026 14:01:01 GMT | Threat Hunting for Web Attacks Web Shell Upload— LetsDefend [Part 1] | 0verRida | [Read More](https://medium.com/p/3d768dc6ebe1) |
 | Sat, 07 Mar 2026 14:00:26 GMT | Distroless Images, the musl Problem, and Why Chainguard Changes Everything | vu manh | [Read More](https://medium.com/p/0ca9562bd264) |
-| Sat, 07 Mar 2026 13:54:00 GMT | The Most Intimate thing I ever wanted from you was to listen. | Jessica Eliza | [Read More](https://medium.com/p/1b123269bdb7) |
-| Sat, 07 Mar 2026 13:51:47 GMT | TryHackMe Writeup: Soupedecode 01 | Berkay AĞGÜL | [Read More](https://medium.com/p/14a6ab4ec341) |
-| Sat, 07 Mar 2026 13:47:50 GMT | Offensive Security Is Not About Hacking — And That’s Why Most Red Teamers Fail | Yua Mikanana | [Read More](https://medium.com/p/59f88df7e08c) |
-| Sat, 07 Mar 2026 13:46:55 GMT | Understanding Sigma Rules: The Language Behind Modern Threat Detection | NineTales | [Read More](https://medium.com/p/0fca5caba714) |
-| Sat, 07 Mar 2026 13:44:06 GMT | The 20-Second Review: How AI Is Choosing Who Dies — And Why No One Can Prove a Human Approved It | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/088853664aa3) |
-| Sat, 07 Mar 2026 13:35:28 GMT | Building Secure JWT Authentication System with Go using Clean Architecture: Access-Refresh Token… | Yehezkiel | [Read More](https://medium.com/p/46e0a14fdca4) |
