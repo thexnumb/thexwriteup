@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Mar 2026 16:26:45 GMT | Hackviser Write-Up [EN/TR] — Manipulating Images with the HTML Attribute | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/6d85ac357a77) |
+| Sat, 07 Mar 2026 16:17:54 GMT | HTB Shocker: RCE via CGI-bin + Perl Privesc | Onurcan Genç | [Read More](https://medium.com/p/8e428ccd7b36) |
+| Sat, 07 Mar 2026 16:16:33 GMT | Is AI really a threat for humans, or are we exaggerating it? | Ibix18 | [Read More](https://medium.com/p/ea047edd178d) |
+| Sat, 07 Mar 2026 16:16:19 GMT | Write-Up CTF “Juicy Details “— TryHackMe | Thomas H | [Read More](https://medium.com/p/b5a8c4757be8) |
+| Sat, 07 Mar 2026 16:12:50 GMT | Mind Meets Machine: New Directions in Cognitive Psychology and Computer Science | AMOGH SAHORE | [Read More](https://medium.com/p/73bd44b66450) |
+| Sat, 07 Mar 2026 16:06:40 GMT | Build Your Own Local AI Automation Stack with n8n, Ollama, and Docker | Noman Iqbal | [Read More](https://medium.com/p/e821f8ceb544) |
+| Sat, 07 Mar 2026 15:57:00 GMT | Writeup picoCTF: Menyelesaikan Challenge “Cookies” (Web Exploitation) | Malvin Wijaya | [Read More](https://medium.com/p/8ffb16bfb1dc) |
+| Sat, 07 Mar 2026 15:55:13 GMT | How DuckDuckGo Works Inside the Tor Network | Tor BBB | [Read More](https://medium.com/p/86007a9fd482) |
+| Sat, 07 Mar 2026 15:53:41 GMT | Sonar Unveils Agent Centric Development Cycle: Modernizing CI for the AI Era | Harshit Nagila | [Read More](https://medium.com/p/5b2cc362b8bc) |
+| Sat, 07 Mar 2026 15:53:26 GMT | I tried to solve the ctf challenge about logging into the server using SSTI (Server Side Template… | Billy Elvonda Aron Umpel | [Read More](https://medium.com/p/2dfcc687fc73) |
+| Sat, 07 Mar 2026 15:43:06 GMT | TryHackMe AD: Basic Enumeration — Walkthrough dan Write Up | Farhan Auliya Abrar | [Read More](https://medium.com/p/f656a279a5f2) |
 | Sat, 07 Mar 2026 15:37:54 GMT | nickel walkthrough (proving ground-windows) | cyber_public_school | [Read More](https://medium.com/p/c0bf1661468b) |
 | Sat, 07 Mar 2026 15:35:30 GMT | Common Vulnerabilities | Aniket Deshmukh | [Read More](https://medium.com/p/bdb0ee0c4641) |
 | Sat, 07 Mar 2026 15:31:01 GMT | It’s Just a Picture. Or Is It? | Ethics In Beta | [Read More](https://medium.com/p/8499df34feca) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 09:08:45 GMT | Access, Disable, Destroy | Julien Simon | [Read More](https://medium.com/p/ca5ddffa230e) |
 | Sat, 07 Mar 2026 09:05:59 GMT | IMPORTANCE OF VIRTUAL LOCAL AREA NETWORKs(VLANs) IN MODERN NETWORK DESIGN | Favour Mulungi | [Read More](https://medium.com/p/1919bc705476) |
 | Sat, 07 Mar 2026 09:05:36 GMT | picoCTF Event Viewing | Dimas Adrian | [Read More](https://medium.com/p/2c3906d88c56) |
-| Sat, 07 Mar 2026 09:03:43 GMT | Ntech Global Solutions — Leading IT Training Institute in Andheri East, Mumbai | Ntech Global Solutions | [Read More](https://medium.com/p/5e40b883eb33) |
-| Sat, 07 Mar 2026 09:01:03 GMT | How to Enable Free SSL (HTTPS) on Your Wazuh Dashboard with Let’s Encrypt and Nginx | Neetrox | [Read More](https://medium.com/p/df8b3aefafa6) |
-| Sat, 07 Mar 2026 08:59:26 GMT | Best Z Wave Door Sensor for Smart Home Security: 5 Reliable Picks | Criminology Expert | [Read More](https://medium.com/p/9f1b8db904e1) |
-| Sat, 07 Mar 2026 08:53:19 GMT | İRAN — İSRAİL — ABD Savaşının SİBER CEPHESİ! | Onur OKTAY | [Read More](https://medium.com/p/c686a6fd7a93) |
-| Sat, 07 Mar 2026 08:49:40 GMT | Some Mayo With Your Oil and Vinegar? | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/83ee96d65aff) |
-| Sat, 07 Mar 2026 08:44:43 GMT | Architecting a Data Perimeter for Autonomous Enterprise Agents | Suresh Gururajan | [Read More](https://medium.com/p/95dac97f9396) |
-| Sat, 07 Mar 2026 08:37:13 GMT | Code Review Best Practices to Improve Code Quality Fast | Application Security Master | [Read More](https://medium.com/p/030d179a1940) |
-| Sat, 07 Mar 2026 08:35:57 GMT | Digital engagement strategy case study: How Tijn Maessen built a voting platform to increase event… | DeletedUser45843823342809 | [Read More](https://medium.com/p/4beeb292fa94) |
-| Sat, 07 Mar 2026 08:34:25 GMT | Quishing Nedir? QR Phishing saldırısı nasıl gerçekleşir? ⚠️ | Mustafa YILMAZ | [Read More](https://medium.com/p/a435e48d4b55) |
-| Sat, 07 Mar 2026 08:30:10 GMT | Hire Security Guards Near Me — Professional Security Services for Complete Protection | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/9fbc1988282f) |
-| Sat, 07 Mar 2026 08:28:15 GMT | The Trust Model Is Changing. Most PKI Practitioners Are Not Ready. | James Moody | [Read More](https://medium.com/p/b619883cfe92) |
