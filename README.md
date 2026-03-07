@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Mar 2026 10:42:28 GMT | TryHackMe MD2PDF Write-up — Exploiting Markdown to PDF for SSRF | MAIMO HARRIS | [Read More](https://medium.com/p/e8b6cba0b557) |
+| Sat, 07 Mar 2026 10:34:42 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/4c49e416a1f2) |
 | Sat, 07 Mar 2026 10:07:29 GMT | How CTF Challenges Help You Think Like a Hacker | Alex Carter | [Read More](https://medium.com/p/0df20656da59) |
 | Sat, 07 Mar 2026 10:07:20 GMT | Introduction to Information Security: Mengapa Keamanan Informasi Penting? | Putri Damayanti | [Read More](https://medium.com/p/78aeadf122a0) |
 | Sat, 07 Mar 2026 10:07:09 GMT | The AI Arms Race: How 2026 Is Rewriting the Cybersecurity Playbook | Renjurnair | [Read More](https://medium.com/p/a09f73c662ca) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 02:00:50 GMT | How I Bypassed a Paid Feature Using Just Browser DevTools | Rahul Masal | [Read More](https://medium.com/p/376af537950f) |
 | Sat, 07 Mar 2026 01:58:40 GMT | When People Realize a Scam Was Real, the First Question Usually Isn’t “How?” | ScamAnalysis | [Read More](https://medium.com/p/d40c9cc24fd6) |
 | Sat, 07 Mar 2026 01:49:13 GMT | Write-Up: AD Basic Enumeration - TryHackMe | Zarradobe | [Read More](https://medium.com/p/7c4082608099) |
-| Sat, 07 Mar 2026 01:33:31 GMT | Attacking Common Services — Part 2 | Nouman Ali Khan | [Read More](https://medium.com/p/2a9f7b629652) |
-| Sat, 07 Mar 2026 01:26:13 GMT | Web Application Security: Hands-On Practice (Chapter 14 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/1edd620663ca) |
