@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Mar 2026 10:07:29 GMT | How CTF Challenges Help You Think Like a Hacker | Alex Carter | [Read More](https://medium.com/p/0df20656da59) |
+| Sat, 07 Mar 2026 10:07:20 GMT | Introduction to Information Security: Mengapa Keamanan Informasi Penting? | Putri Damayanti | [Read More](https://medium.com/p/78aeadf122a0) |
+| Sat, 07 Mar 2026 10:07:09 GMT | The AI Arms Race: How 2026 Is Rewriting the Cybersecurity Playbook | Renjurnair | [Read More](https://medium.com/p/a09f73c662ca) |
+| Sat, 07 Mar 2026 10:06:35 GMT | Gatekeeping our Privacy | Glory | [Read More](https://medium.com/p/95fc78b47751) |
+| Sat, 07 Mar 2026 10:05:59 GMT | Is Someone Watching? How Hackers Access Your Security Cameras — and How to Stop Them | Jazz Cyber Shield | [Read More](https://medium.com/p/6ed54637c320) |
+| Sat, 07 Mar 2026 09:51:33 GMT | Top 10 Uses of Artificial Intelligence in Cybersecurity | EINITIAL24 | [Read More](https://medium.com/p/f8922aa703fe) |
+| Sat, 07 Mar 2026 09:50:28 GMT | Passive & Active Reconnaissance for Beginners: The Complete Guide - eJPT Part 1.1 | Shoaib Bin Rashid | [Read More](https://medium.com/p/8f989446fe7f) |
+| Sat, 07 Mar 2026 09:50:05 GMT | How can you make your main door smarter and safer without changing your whole home? | Discreet solution Pvt ltd | [Read More](https://medium.com/p/12a915804053) |
+| Sat, 07 Mar 2026 09:41:56 GMT | Best Antivirus Pro Software in 2026 — Features, Pricing & Download | Siyanoav | [Read More](https://medium.com/p/7227ce3a282d) |
 | Sat, 07 Mar 2026 09:19:19 GMT | External Penetration Testing Cheat Sheet — Part 1 | jaejun835 | [Read More](https://medium.com/p/6920b2585c20) |
 | Sat, 07 Mar 2026 09:17:33 GMT | Agents of Chaos | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/9ee2815f0375) |
 | Sat, 07 Mar 2026 09:12:11 GMT | EHAX CTF 2026 - Forensics | SirynShell | [Read More](https://medium.com/p/212db09a8bf0) |
@@ -65,6 +74,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 06:04:09 GMT | Cybersecurity in 2026: What You Need to Know | Anders wisdom | [Read More](https://medium.com/p/03ade2631f75) |
 | Sat, 07 Mar 2026 06:01:00 GMT | China’s Expanding Nuclear Fleet Could Target the U.S. | Geopolitics / Economy / Technology | [Read More](https://medium.com/p/856963f9099b) |
 | Sat, 07 Mar 2026 05:54:57 GMT | Evil Twin Attacks in Enterprise Networks | Cynox Security LLP. | [Read More](https://medium.com/p/2364bb63b459) |
+| Sat, 07 Mar 2026 05:44:35 GMT | Android Pentesting: Capturing API Requests Without SSL Pinning Bypass!!! | aiswaryaKs | [Read More](https://medium.com/p/24a4382c393d) |
 | Sat, 07 Mar 2026 05:36:00 GMT | Stop Enabling Every AWS Security Service | Sena Yakut | [Read More](https://medium.com/p/fb171635a25c) |
 | Sat, 07 Mar 2026 05:32:34 GMT | Cyber Security Course in Kerala with Pen Testing & DDoS Coaching | Munaveernesa | [Read More](https://medium.com/p/d69b61fc897c) |
 | Sat, 07 Mar 2026 05:25:48 GMT | picoCTF — Event-Viewing | Shiro | [Read More](https://medium.com/p/06989886c3c5) |
@@ -72,9 +82,11 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 05:19:10 GMT | Shielding Vital Data from Evolving Digital Attacks in UAE | Tekhabeeb | [Read More](https://medium.com/p/cf8fbbe5254a) |
 | Sat, 07 Mar 2026 05:13:58 GMT | The Knowledge That Writing Left Behind | Clement Leong | [Read More](https://medium.com/p/a66b24da61ea) |
 | Sat, 07 Mar 2026 05:11:39 GMT | Decoding SSL, TLS, and HTTPS: The 2026 Ultimate Guide | Vivek Kumar Sinha | [Read More](https://medium.com/p/07799372d997) |
+| Sat, 07 Mar 2026 05:06:50 GMT | Stop Confusing Agents With IntelligenceStop Confusing Agents With Intelligence | MKarthik | [Read More](https://medium.com/p/782b50ce2d24) |
 | Sat, 07 Mar 2026 04:59:34 GMT | Building a Multi-Graph Math Engine with LangGraph: Local + Remote Graphs in Action | Alexander Machekhin | [Read More](https://medium.com/p/d7f30cee1864) |
 | Sat, 07 Mar 2026 04:49:23 GMT | CyberDefenders — PsExec Hunt | 0w0 | [Read More](https://medium.com/p/35b4e6c80fc0) |
 | Sat, 07 Mar 2026 04:25:23 GMT | HTB Mirai: Default Creds, Pi-hole & USB Forensics | Onurcan Genç | [Read More](https://medium.com/p/aad5e45a6116) |
+| Sat, 07 Mar 2026 04:12:01 GMT | Cloud Agnostic — Zero-Bastion PostgreSQL Access Across Clouds with Teleport and PgBouncer | Verihubs | [Read More](https://medium.com/p/d2a58fdf66dd) |
 | Sat, 07 Mar 2026 04:09:52 GMT | Threat Intelligence Investigation — Dropbox Phishing Domain Analysis | Karim roshdy | [Read More](https://medium.com/p/372d8f17ffcf) |
 | Sat, 07 Mar 2026 04:07:44 GMT | Lenovo charger | Laptopgiant | [Read More](https://medium.com/p/dbd57c66c42d) |
 | Sat, 07 Mar 2026 04:06:09 GMT | How I Used Reflected XSS + CORS to Get 1-Click OAuth Misconfiguration | Muhammed Mubarak | [Read More](https://medium.com/p/82088e94c96c) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 01:49:13 GMT | Write-Up: AD Basic Enumeration - TryHackMe | Zarradobe | [Read More](https://medium.com/p/7c4082608099) |
 | Sat, 07 Mar 2026 01:33:31 GMT | Attacking Common Services — Part 2 | Nouman Ali Khan | [Read More](https://medium.com/p/2a9f7b629652) |
 | Sat, 07 Mar 2026 01:26:13 GMT | Web Application Security: Hands-On Practice (Chapter 14 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/1edd620663ca) |
-| Sat, 07 Mar 2026 01:11:15 GMT | The Silent Observer: A Deep Dive into Shodan Dorks for Security Researchers | Hassansaleemkey | [Read More](https://medium.com/p/f4f19138283b) |
-| Sat, 07 Mar 2026 01:10:49 GMT | DNS Enumeration : The Beginners Guide | Ahm3d_Sec | [Read More](https://medium.com/p/54cd372de10f) |
-| Sat, 07 Mar 2026 00:57:43 GMT | Siber Pusula #2 - Privilege Escalation — Exploiting PATH CyberExam | Toprak Külekçioğlu | [Read More](https://medium.com/p/c64644982235) |
-| Sat, 07 Mar 2026 00:18:10 GMT | FahemSec CTF Writeup: Bad USB (Digital Forensics) | Zeyadalarby | [Read More](https://medium.com/p/08b03695f487) |
-| Sat, 07 Mar 2026 00:05:27 GMT | Introduction to Red Teaming AI Systems — OSAI OffSec Module 1 | cyber_public_school | [Read More](https://medium.com/p/652201176bba) |
-| Sat, 07 Mar 2026 00:04:58 GMT | IT 04 - Windows Commands 2 | Amrsmooke | [Read More](https://medium.com/p/484ae6f4575c) |
-| Sat, 07 Mar 2026 00:01:01 GMT | Guide to XSS Fundamentals: Vulnerabilities, Payloads, and WAF/CSP Bypasses | JPablo13 | [Read More](https://medium.com/p/6811853b8226) |
-| Fri, 06 Mar 2026 23:45:51 GMT | Building an Automated Threat Intelligence Workflow with n8n, VirusTotal, and Gemini AI | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/4e1094c1bfee) |
-| Fri, 06 Mar 2026 23:33:29 GMT | Linux for Cybersecurity: What It Is, How It Works, and Why You Can’t Ignore It | Bheeshma | [Read More](https://medium.com/p/e0f65386dbb4) |
-| Fri, 06 Mar 2026 23:30:08 GMT | Neden Tüm Sırlarımızı Bulut Şirketlerine Veriyoruz? | Ahmet Kayra Kama | [Read More](https://medium.com/p/f0133b8f4d92) |
-| Fri, 06 Mar 2026 23:25:52 GMT | Critical RCE Vulnerability in React Server Components — CVE-2025–55182 (React2Shell) — Largify… | SkelerSecurity | [Read More](https://medium.com/p/868b1a009718) |
-| Fri, 06 Mar 2026 23:18:52 GMT | Geopolitics and Cyberwarfare Between Iran, the United States, and Its Allies | Bits & Bytes Podcast Newsletter | [Read More](https://medium.com/p/52e39a91c32b) |
