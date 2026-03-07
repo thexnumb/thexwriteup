@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Mar 2026 09:19:19 GMT | External Penetration Testing Cheat Sheet — Part 1 | jaejun835 | [Read More](https://medium.com/p/6920b2585c20) |
+| Sat, 07 Mar 2026 09:17:33 GMT | Agents of Chaos | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/9ee2815f0375) |
+| Sat, 07 Mar 2026 09:12:11 GMT | EHAX CTF 2026 - Forensics | SirynShell | [Read More](https://medium.com/p/212db09a8bf0) |
+| Sat, 07 Mar 2026 09:08:45 GMT | Access, Disable, Destroy | Julien Simon | [Read More](https://medium.com/p/ca5ddffa230e) |
+| Sat, 07 Mar 2026 09:05:59 GMT | IMPORTANCE OF VIRTUAL LOCAL AREA NETWORKs(VLANs) IN MODERN NETWORK DESIGN | Favour Mulungi | [Read More](https://medium.com/p/1919bc705476) |
+| Sat, 07 Mar 2026 09:05:36 GMT | picoCTF Event Viewing | Dimas Adrian | [Read More](https://medium.com/p/2c3906d88c56) |
+| Sat, 07 Mar 2026 09:03:43 GMT | Ntech Global Solutions — Leading IT Training Institute in Andheri East, Mumbai | Ntech Global Solutions | [Read More](https://medium.com/p/5e40b883eb33) |
+| Sat, 07 Mar 2026 09:01:03 GMT | How to Enable Free SSL (HTTPS) on Your Wazuh Dashboard with Let’s Encrypt and Nginx | Neetrox | [Read More](https://medium.com/p/df8b3aefafa6) |
+| Sat, 07 Mar 2026 08:59:26 GMT | Best Z Wave Door Sensor for Smart Home Security: 5 Reliable Picks | Criminology Expert | [Read More](https://medium.com/p/9f1b8db904e1) |
+| Sat, 07 Mar 2026 08:53:19 GMT | İRAN — İSRAİL — ABD Savaşının SİBER CEPHESİ! | Onur OKTAY | [Read More](https://medium.com/p/c686a6fd7a93) |
+| Sat, 07 Mar 2026 08:49:40 GMT | Some Mayo With Your Oil and Vinegar? | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/83ee96d65aff) |
+| Sat, 07 Mar 2026 08:44:43 GMT | Architecting a Data Perimeter for Autonomous Enterprise Agents | Suresh Gururajan | [Read More](https://medium.com/p/95dac97f9396) |
+| Sat, 07 Mar 2026 08:37:13 GMT | Code Review Best Practices to Improve Code Quality Fast | Application Security Master | [Read More](https://medium.com/p/030d179a1940) |
+| Sat, 07 Mar 2026 08:35:57 GMT | Digital engagement strategy case study: How Tijn Maessen built a voting platform to increase event… | DeletedUser45843823342809 | [Read More](https://medium.com/p/4beeb292fa94) |
+| Sat, 07 Mar 2026 08:34:25 GMT | Quishing Nedir? QR Phishing saldırısı nasıl gerçekleşir? ⚠️ | Mustafa YILMAZ | [Read More](https://medium.com/p/a435e48d4b55) |
 | Sat, 07 Mar 2026 08:30:10 GMT | Hire Security Guards Near Me — Professional Security Services for Complete Protection | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/9fbc1988282f) |
 | Sat, 07 Mar 2026 08:28:15 GMT | The Trust Model Is Changing. Most PKI Practitioners Are Not Ready. | James Moody | [Read More](https://medium.com/p/b619883cfe92) |
 | Sat, 07 Mar 2026 08:22:29 GMT | Gamerais 4444: A Dark Internet Past | Xaenos | [Read More](https://medium.com/p/ec496c8e40b9) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Mar 2026 23:30:08 GMT | Neden Tüm Sırlarımızı Bulut Şirketlerine Veriyoruz? | Ahmet Kayra Kama | [Read More](https://medium.com/p/f0133b8f4d92) |
 | Fri, 06 Mar 2026 23:25:52 GMT | Critical RCE Vulnerability in React Server Components — CVE-2025–55182 (React2Shell) — Largify… | SkelerSecurity | [Read More](https://medium.com/p/868b1a009718) |
 | Fri, 06 Mar 2026 23:18:52 GMT | Geopolitics and Cyberwarfare Between Iran, the United States, and Its Allies | Bits & Bytes Podcast Newsletter | [Read More](https://medium.com/p/52e39a91c32b) |
-| Fri, 06 Mar 2026 23:10:47 GMT | pyLon Python Script (THM) Tryhackme WriteUp Answer | Lawvye | [Read More](https://medium.com/p/c77ad459d29c) |
-| Fri, 06 Mar 2026 22:56:01 GMT | OSINT, Mapping software and keeping the Ukranian public informed | Hobin Rood | [Read More](https://medium.com/p/7a5885171d9f) |
-| Fri, 06 Mar 2026 22:38:44 GMT | I Failed This Cybersecurity Exam — Three Years Later It Became One of My Biggest Wins | Rebecca Ihenyen | [Read More](https://medium.com/p/54afbeb79bd2) |
-| Fri, 06 Mar 2026 22:36:00 GMT | Finding the Best NYC Interim CISO: How to choose fast, reduce risk, and stabilize leadership in 90… | Tyson Martin | [Read More](https://medium.com/p/8d30fca55b3d) |
-| Fri, 06 Mar 2026 22:34:06 GMT | 3 Logic Bugs in Zendesk : A Single API Request Gave Me an Administrator’s Identity in Zendesk. | onboard | [Read More](https://medium.com/p/ade443ea3353) |
-| Fri, 06 Mar 2026 22:33:27 GMT | TryHackMe Introduction to SIEM Walkthrough | Kamal Kishor Mahto | [Read More](https://medium.com/p/732a74a92cc2) |
-| Fri, 06 Mar 2026 22:27:19 GMT | Questions to Ask Before Choosing a SOC Provider | JSOC IT BLOG | [Read More](https://medium.com/p/b21d9a48e951) |
-| Fri, 06 Mar 2026 22:23:14 GMT | 1XTRADE.COM REVIEW: INVESTOR COMPLAINTS, WITHDRAWAL ISSUES, AND HOW VICTIMS CAN RECOVER LOST CRYPTO… | James Bells | [Read More](https://medium.com/p/19be060d2a77) |
-| Fri, 06 Mar 2026 22:01:01 GMT | Unfiltered Restart — Day 19: Exam Prep, Day 5 | Maximillian Rueda | [Read More](https://medium.com/p/86d41b6bde5e) |
-| Fri, 06 Mar 2026 21:55:09 GMT | Microsoft  Intune | Railsdevabam | [Read More](https://medium.com/p/f7925c3e5bb6) |
-| Fri, 06 Mar 2026 21:54:59 GMT | Cybersecurity 101: From CIA Triad to Cybersecurity Framework, With a Spice of Modern Oversight | Miha Stele | [Read More](https://medium.com/p/e89741b24484) |
-| Fri, 06 Mar 2026 21:49:40 GMT | grok | Ebukafelix | [Read More](https://medium.com/p/fe524c09a4e2) |
-| Fri, 06 Mar 2026 21:45:55 GMT | Your CISO Just Left. Now What? A Practical Next-Step Guide | Tyson Martin | [Read More](https://medium.com/p/0930cbe649a7) |
-| Fri, 06 Mar 2026 21:43:59 GMT | Weekly Cyber Threat Bulletin: 5 March 2026 | Marcelle Lee | [Read More](https://medium.com/p/c7ea59d0e561) |
-| Fri, 06 Mar 2026 21:40:00 GMT | Why pointer Type Matters : Typecasting and Memory Behaviour in C | Prashant Raj | [Read More](https://medium.com/p/20bc4594d2b1) |
