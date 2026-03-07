@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Mar 2026 08:30:10 GMT | Hire Security Guards Near Me — Professional Security Services for Complete Protection | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/9fbc1988282f) |
+| Sat, 07 Mar 2026 08:28:15 GMT | The Trust Model Is Changing. Most PKI Practitioners Are Not Ready. | James Moody | [Read More](https://medium.com/p/b619883cfe92) |
+| Sat, 07 Mar 2026 08:22:29 GMT | Gamerais 4444: A Dark Internet Past | Xaenos | [Read More](https://medium.com/p/ec496c8e40b9) |
+| Sat, 07 Mar 2026 08:22:14 GMT | Why a Strong Password Generator Is the Smartest Way to Protect Your Online Life in 2026 | Safia Begum | [Read More](https://medium.com/p/ad00053f73eb) |
+| Sat, 07 Mar 2026 08:09:01 GMT | Here’s What Claude Cowork and Codex are Actually Doing on your Machine. | Marco Kotrotsos | [Read More](https://medium.com/p/751eef4588c3) |
+| Sat, 07 Mar 2026 08:04:35 GMT | Instant Access for Users, Fast Integration for Developers | Anton Minin Baranovskii | [Read More](https://medium.com/p/9a5621f6a803) |
+| Sat, 07 Mar 2026 08:01:52 GMT | You Pressed Send | Franciswagonda | [Read More](https://medium.com/p/31eb69851b63) |
+| Sat, 07 Mar 2026 08:01:48 GMT | Manual vs Automated Certificate Management | PrimeSSL Certificate | [Read More](https://medium.com/p/ad68a6c28075) |
+| Sat, 07 Mar 2026 07:55:30 GMT | Unlimited Image Uploads?! How I Found a Missing Rate Limit Vulnerability | Rahul Masal | [Read More](https://medium.com/p/9d7e6c940751) |
+| Sat, 07 Mar 2026 07:55:16 GMT | Reflected XSS in Facebook, Twitter & Google Training Platforms | NullSecurityX | [Read More](https://medium.com/p/f98198d65657) |
+| Sat, 07 Mar 2026 07:51:12 GMT | How to Read JavaScript Files for Hidden Endpoints | ghostyjoe | [Read More](https://medium.com/p/ef1d77787ebe) |
+| Sat, 07 Mar 2026 07:47:15 GMT | The Hidden Trap of Cloud Backups: Why Enterprises are Pivoting to Bare-Metal Servers for Disaster… | Fit Servers | [Read More](https://medium.com/p/7b5908457456) |
+| Sat, 07 Mar 2026 07:46:00 GMT | NorthBridge Systems — HackSmarter Writeup | GauthamV | [Read More](https://medium.com/p/3eed7d8b5723) |
+| Sat, 07 Mar 2026 07:31:57 GMT | IPv4 vs IPv6 — The Story of the Internet Outgrowing Its Own Address Book | Gajanan Tayde | [Read More](https://medium.com/p/8fab9898d3e1) |
+| Sat, 07 Mar 2026 07:30:26 GMT | FUNBOX ROOKIE VIRTUAL MACHINE | Darshanrajapure | [Read More](https://medium.com/p/d2f8d87ed151) |
 | Sat, 07 Mar 2026 07:19:46 GMT | Top 10 Windows Event IDs Every SOC Analyst Should Know (With Splunk Examples) | Rajan | [Read More](https://medium.com/p/9ce4c500c9df) |
 | Sat, 07 Mar 2026 07:19:05 GMT | FUNBOX ROOKIE VIRTUAL MACHINE | Kalechandrakant | [Read More](https://medium.com/p/d57f564993a2) |
 | Sat, 07 Mar 2026 07:16:07 GMT | PCI DSS Is Where Fintech Fantasy Meets Operational Reality | Fintech By Tanu | [Read More](https://medium.com/p/96d472e8be2c) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Mar 2026 21:45:55 GMT | Your CISO Just Left. Now What? A Practical Next-Step Guide | Tyson Martin | [Read More](https://medium.com/p/0930cbe649a7) |
 | Fri, 06 Mar 2026 21:43:59 GMT | Weekly Cyber Threat Bulletin: 5 March 2026 | Marcelle Lee | [Read More](https://medium.com/p/c7ea59d0e561) |
 | Fri, 06 Mar 2026 21:40:00 GMT | Why pointer Type Matters : Typecasting and Memory Behaviour in C | Prashant Raj | [Read More](https://medium.com/p/20bc4594d2b1) |
-| Fri, 06 Mar 2026 21:38:06 GMT | Wazuh and DFIR-IRIS Integration | Enitan Ogungbade | [Read More](https://medium.com/p/402868abb73b) |
-| Fri, 06 Mar 2026 21:28:21 GMT | The Operator Who Didn’t Care: Profiling the Exit of Archive.today | Berend Watchus | [Read More](https://medium.com/p/f9c847710784) |
-| Fri, 06 Mar 2026 21:23:38 GMT | A Path Hidden in Plain Sight: Owning Active Directory | Jabaribrown | [Read More](https://medium.com/p/4595a7b730bc) |
-| Fri, 06 Mar 2026 21:19:52 GMT | How AI Apps Finally Plug Into the Real World: Understanding MCP | Meghna Manoj Nair | [Read More](https://medium.com/p/cb01443f74c1) |
-| Fri, 06 Mar 2026 21:17:10 GMT | Agentic AI and Security: Innovation vs. Risk | Anthony Mai | [Read More](https://medium.com/p/db70ccf29a23) |
-| Fri, 06 Mar 2026 21:11:32 GMT | The Mysterious Journey of a Powerful iOS Exploit Kit | SOCFortress | [Read More](https://medium.com/p/e270b15f8697) |
-| Fri, 06 Mar 2026 21:08:41 GMT | Found a Risk? Here are your 4 Power Moves! ️ | Sujon Al Mamun | [Read More](https://medium.com/p/b5d166638981) |
-| Fri, 06 Mar 2026 21:04:45 GMT | The Architecture of Trust: A TryHackMe Walkthrough of ‘Governance & Regulation’ | Joanna Adegbile | [Read More](https://medium.com/p/10a0a466c413) |
-| Fri, 06 Mar 2026 21:04:31 GMT | A Piece of Advice on Kali Linux For Beginners | Taulan Zauzanov | [Read More](https://medium.com/p/f39b115b9e72) |
-| Fri, 06 Mar 2026 21:03:58 GMT | Risk Assessment: The Business Radar | Sujon Al Mamun | [Read More](https://medium.com/p/5e6e018981f7) |
-| Fri, 06 Mar 2026 21:01:04 GMT | BRabbit Lab — Threat Intelligence | Ismaelggm | [Read More](https://medium.com/p/2126eab67aec) |
-| Fri, 06 Mar 2026 20:53:37 GMT | The Linux Forensic Journey — recently-used.xbel (Recently Used Files) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f9ef41a7a32a) |
-| Fri, 06 Mar 2026 20:52:59 GMT | VulnNet Active TryHackMe Writeup | phantom_hat | [Read More](https://medium.com/p/341e0835ca73) |
-| Fri, 06 Mar 2026 20:43:27 GMT | Red Team Checklist: Web Server Initial Access Part — 02 (Last Part) | Cybernaumad | [Read More](https://medium.com/p/c74ac3a7b37a) |
-| Fri, 06 Mar 2026 20:42:16 GMT | Lab: Stored DOM XSS | mayhack | [Read More](https://medium.com/p/ef6a33c19622) |
