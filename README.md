@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Mar 2026 14:19:08 GMT | Daniel Rigmaiden: The Tax Fraud Hacker Who Exposed FBI Stingray Surveillance from His Jail Cell | Abel | [Read More](https://medium.com/p/993a5831e7bb) |
+| Sat, 07 Mar 2026 14:12:10 GMT | Solving a Bugforge Challenge — Exploiting Broken Access Control in Sokudo | Pranaya Shrestha | [Read More](https://medium.com/p/51360943ac17) |
+| Sat, 07 Mar 2026 14:04:04 GMT | How to Build a Cybersecurity Lab at Home: A Practical Guide for Beginners | Ferdi Edogawa | [Read More](https://medium.com/p/fe2a15b56606) |
+| Sat, 07 Mar 2026 14:03:02 GMT | Python ile SSH Brute Force Saldırılarını Tespit Etmek: Basit Bir Log Analizi Aracı | Erkin KASIM | [Read More](https://medium.com/p/51c2fe232d31) |
+| Sat, 07 Mar 2026 14:02:03 GMT | Day 20: DNS Logs & Their Value | Siddhesh Patil | [Read More](https://medium.com/p/bfe8a563b278) |
+| Sat, 07 Mar 2026 14:01:01 GMT | Threat Hunting for Web Attacks Web Shell Upload— LetsDefend [Part 1] | 0verRida | [Read More](https://medium.com/p/3d768dc6ebe1) |
+| Sat, 07 Mar 2026 14:00:26 GMT | Distroless Images, the musl Problem, and Why Chainguard Changes Everything | vu manh | [Read More](https://medium.com/p/0ca9562bd264) |
+| Sat, 07 Mar 2026 13:54:00 GMT | The Most Intimate thing I ever wanted from you was to listen. | Jessica Eliza | [Read More](https://medium.com/p/1b123269bdb7) |
+| Sat, 07 Mar 2026 13:51:47 GMT | TryHackMe Writeup: Soupedecode 01 | Berkay AĞGÜL | [Read More](https://medium.com/p/14a6ab4ec341) |
+| Sat, 07 Mar 2026 13:47:50 GMT | Offensive Security Is Not About Hacking — And That’s Why Most Red Teamers Fail | Yua Mikanana | [Read More](https://medium.com/p/59f88df7e08c) |
+| Sat, 07 Mar 2026 13:46:55 GMT | Understanding Sigma Rules: The Language Behind Modern Threat Detection | NineTales | [Read More](https://medium.com/p/0fca5caba714) |
+| Sat, 07 Mar 2026 13:44:06 GMT | The 20-Second Review: How AI Is Choosing Who Dies — And Why No One Can Prove a Human Approved It | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/088853664aa3) |
 | Sat, 07 Mar 2026 13:35:28 GMT | Building Secure JWT Authentication System with Go using Clean Architecture: Access-Refresh Token… | Yehezkiel | [Read More](https://medium.com/p/46e0a14fdca4) |
 | Sat, 07 Mar 2026 13:31:40 GMT | Securing Products at Inference Speed | Antariksha Akhilesh Sharma | [Read More](https://medium.com/p/b4f2dce07793) |
 | Sat, 07 Mar 2026 13:21:04 GMT | Master DNS Enumeration - 4 Easy Methods Explained | Pentester Club | [Read More](https://medium.com/p/368687f0c0f8) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 06:55:30 GMT | What Hackers Actually Do After They Breach a System (Step-by-Step) | Mukhtarabdul | [Read More](https://medium.com/p/8ed8c74375b5) |
 | Sat, 07 Mar 2026 06:54:37 GMT | How to Study for the CISSP Certificate: Tips & Tricks | Irfan Sharief | [Read More](https://medium.com/p/8c1cd5d67f51) |
 | Sat, 07 Mar 2026 06:48:31 GMT | Uncovering Origin IPs with “CloudFail”: What’s Hiding Behind Cloudflare? | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/71abfafc323f) |
-| Sat, 07 Mar 2026 06:48:26 GMT | Cyber Kill Chain 1.2: A Detailed Guide to Active Information Gathering with Nmap | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/6dcfad8aab3d) |
-| Sat, 07 Mar 2026 06:47:40 GMT | Funbox Rookie CTF Walkthrough (Step-by-Step) - Ethical Hacking Practice | Pavankolkar | [Read More](https://medium.com/p/fc935de6cde6) |
-| Sat, 07 Mar 2026 06:33:50 GMT | How Joker Malware Hiding in Google Play and Steal Your Money | Kirill Nayduik | [Read More](https://medium.com/p/4a88a8b944b7) |
-| Sat, 07 Mar 2026 06:31:01 GMT | CTF for Beginners — What Nobody Tells You Before You Start | loopXvedant | [Read More](https://medium.com/p/96167a32ad4f) |
-| Sat, 07 Mar 2026 06:31:00 GMT | Beyond the Battlefield: Cyber Operations in the Israel–Iran Conflict | Ankita Sinha | [Read More](https://medium.com/p/acd35c979ace) |
-| Sat, 07 Mar 2026 06:28:43 GMT | Google Drive Integration for Easy Backups | Smit Pipaliya | [Read More](https://medium.com/p/a5812e684260) |
-| Sat, 07 Mar 2026 06:28:10 GMT | PABX System Installation Explained | IT Solution Dubai | [Read More](https://medium.com/p/6ac139b3b41c) |
-| Sat, 07 Mar 2026 06:27:52 GMT | Advanced Cyber Security Course In Dehradun with AI | Brillica Services | [Read More](https://medium.com/p/9f9447eb2d9c) |
-| Sat, 07 Mar 2026 06:23:31 GMT | Forensics & Steganography Challenges — CTF Writeups | Santhosh Kumar R | [Read More](https://medium.com/p/0f71112ddf4a) |
-| Sat, 07 Mar 2026 06:17:27 GMT | From DNS Queries to C2: A Real SOC Investigation | InsideTheSOC | [Read More](https://medium.com/p/8577cdd42cfb) |
-| Sat, 07 Mar 2026 06:04:09 GMT | Cybersecurity in 2026: What You Need to Know | Anders wisdom | [Read More](https://medium.com/p/03ade2631f75) |
-| Sat, 07 Mar 2026 06:01:00 GMT | China’s Expanding Nuclear Fleet Could Target the U.S. | Geopolitics / Economy / Technology | [Read More](https://medium.com/p/856963f9099b) |
