@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Mar 2026 04:09:52 GMT | Threat Intelligence Investigation — Dropbox Phishing Domain Analysis | Karim roshdy | [Read More](https://medium.com/p/372d8f17ffcf) |
+| Sat, 07 Mar 2026 04:06:09 GMT | How I Used Reflected XSS + CORS to Get 1-Click OAuth Misconfiguration | Muhammed Mubarak | [Read More](https://medium.com/p/82088e94c96c) |
+| Sat, 07 Mar 2026 04:01:40 GMT | The Role of AI in SOC and VAPT | Antonyrajvedamanickam | [Read More](https://medium.com/p/e9681ca062db) |
+| Sat, 07 Mar 2026 03:56:28 GMT | Steel Mountain: Exploiting HFS and Escalating to SYSTEM on Windows | Robert Perez | [Read More](https://medium.com/p/11851e71e650) |
+| Sat, 07 Mar 2026 03:53:42 GMT | Day 17 : I sent money from an account that wasn’t mine;) | Issan | [Read More](https://medium.com/p/ed91e3bcf3e3) |
+| Sat, 07 Mar 2026 03:48:18 GMT | Managed IT Services Oman: Driving Business Efficiency and Digital Growth | Siddiquitauseef | [Read More](https://medium.com/p/f9c5fe5e8622) |
+| Sat, 07 Mar 2026 03:31:11 GMT | How to Set Up a GRUB Password | Chandan Kumar Kushwaha | [Read More](https://medium.com/p/80d4d3a7c0b3) |
+| Sat, 07 Mar 2026 03:15:50 GMT | Stop Deploying IAM Platforms Your IT Team Cannot Run | Shomikx | [Read More](https://medium.com/p/89716d5dc5b6) |
+| Sat, 07 Mar 2026 03:06:55 GMT | 5 Crypto Security Mistakes That Still Get Investors Hacked in 2026 | Snout0x | [Read More](https://medium.com/p/e0feb62e8147) |
+| Sat, 07 Mar 2026 03:06:27 GMT | Hunting Threats with Precision: A Practical Guide to YARA Rules for Detection | Jonathan H | [Read More](https://medium.com/p/a04f7fbdcaac) |
+| Sat, 07 Mar 2026 03:02:25 GMT | The On-Premises Problem: 3 Major Issues With Outsourced Cybersecurity & Why Top Brands Are Moving… | Christina Martin | [Read More](https://medium.com/p/ab94b18168bc) |
+| Sat, 07 Mar 2026 03:01:58 GMT | HackTheBox — Brutus | 0w0 | [Read More](https://medium.com/p/c9e6c1ac4fe1) |
+| Sat, 07 Mar 2026 02:39:04 GMT | The Modern Security Attack Surface: Lessons from Cloud, AI, and Supply Chains | Dhruv Gundecha | [Read More](https://medium.com/p/8d30b779dcf4) |
+| Sat, 07 Mar 2026 02:38:54 GMT | # AI can speed up defenders in Firefox security work | JakkHackJP | [Read More](https://medium.com/p/361b57c239ac) |
+| Sat, 07 Mar 2026 02:26:49 GMT | PNPT Privilege Escalation (PrivEsc) Cheat Sheet | jaejun835 | [Read More](https://medium.com/p/ad5c6d49f53e) |
+| Sat, 07 Mar 2026 02:12:51 GMT | Nemu Data Sensitif Terbuka di Internet? | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/48b4e1b60ad8) |
+| Sat, 07 Mar 2026 02:04:03 GMT | Lock Down Your Angular Routes: Auth Guards with OIDC in 5 Minutes | Fuji Nguyen | [Read More](https://medium.com/p/fc48d2766da8) |
 | Sat, 07 Mar 2026 02:00:50 GMT | How I Bypassed a Paid Feature Using Just Browser DevTools | Rahul Masal | [Read More](https://medium.com/p/376af537950f) |
 | Sat, 07 Mar 2026 01:58:40 GMT | When People Realize a Scam Was Real, the First Question Usually Isn’t “How?” | ScamAnalysis | [Read More](https://medium.com/p/d40c9cc24fd6) |
 | Sat, 07 Mar 2026 01:49:13 GMT | Write-Up: AD Basic Enumeration - TryHackMe | Zarradobe | [Read More](https://medium.com/p/7c4082608099) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Mar 2026 18:47:16 GMT | Washington’s New Cyber Strategy on China: Tough Talk, Weak Armor | CCD-IS | [Read More](https://medium.com/p/632a3f1ddd7e) |
 | Fri, 06 Mar 2026 18:44:03 GMT | The Principle of Least Privilege: Reducing Risk Through Controlled Access | Wilfriedpanol | [Read More](https://medium.com/p/5cd6e4bd7da2) |
 | Fri, 06 Mar 2026 18:42:55 GMT | Week 1: Information Gathering & Networking Fundamentals | Manveer Singh | [Read More](https://medium.com/p/93fbcfa1d719) |
-| Fri, 06 Mar 2026 18:38:15 GMT | Understanding Generative AI and LLM Security: Foundations Every Security Engineer Should Know | Chiakiichan | [Read More](https://medium.com/p/f2fb38375e02) |
-| Fri, 06 Mar 2026 18:32:09 GMT | OSINT Investigation: Tracking Active Malware & Phishing Infrastructure | Amiteshwar Singh | [Read More](https://medium.com/p/7919d9800f5d) |
-| Fri, 06 Mar 2026 18:29:12 GMT | How I Built a SQL-Driven User Access Review & Compliance Audit | Sanketh Subhas | [Read More](https://medium.com/p/6a32ce1caa75) |
-| Fri, 06 Mar 2026 18:27:45 GMT | 5 Actions Critical for Cybersecurity Leadership During International Conflicts | Matthew.Rosenquist | [Read More](https://medium.com/p/d13eedea0a09) |
-| Fri, 06 Mar 2026 18:27:36 GMT | Simple cybersecurity guide for every PC owner | Chidubem Samuel Orji | [Read More](https://medium.com/p/9025749c27e7) |
-| Fri, 06 Mar 2026 18:17:24 GMT | Write-up: Exploiting Shellshock and Bypassing Restricted Environments in Troll 2 | Seifeldeen | [Read More](https://medium.com/p/5e9f3f5779cd) |
-| Fri, 06 Mar 2026 18:17:16 GMT | How AWS Security Hub Simplifies Cloud Security Operations? | Amit Tidke | [Read More](https://medium.com/p/7bf8945158ab) |
-| Fri, 06 Mar 2026 18:11:51 GMT | Why Schools with IT Curriculum Are Becoming More Important Than Ever | Joko Sampurno | [Read More](https://medium.com/p/a7cbb517468e) |
-| Fri, 06 Mar 2026 18:11:31 GMT | Congress’s Quiet War on Online Anonymity: Why KOSA and Age Verification Could Change the Internet… | Infinite Solutions by J. I. Memphis | [Read More](https://medium.com/p/30d2cdfa5f9a) |
-| Fri, 06 Mar 2026 18:09:45 GMT | Your Senses and Judgment Are Lying to You. It Could Cost You Millions | Mikolaj Pasecki | [Read More](https://medium.com/p/36930a2394ce) |
-| Fri, 06 Mar 2026 18:09:14 GMT | Defense in Depth: The Foundation of a Strong Cybersecurity Strategy | Wilfriedpanol | [Read More](https://medium.com/p/cc8dc37765e0) |
-| Fri, 06 Mar 2026 17:59:06 GMT | Intelligence and Counterintelligence: History, Modernity, Facts | Andrey Spiridonov | [Read More](https://medium.com/p/a920f647843d) |
-| Fri, 06 Mar 2026 17:53:04 GMT | localStorage vs sessionStorage vs Cookies | shivam-pawar-7 | [Read More](https://medium.com/p/8a9f0fdfa44c) |
-| Fri, 06 Mar 2026 17:51:21 GMT | The Silent Invader: Everything You Need to Know About Remote Access Trojans - Part 1 | Muhammedfaris | [Read More](https://medium.com/p/45243cd82097) |
-| Fri, 06 Mar 2026 17:51:00 GMT | Show me the money. | Jere Le | [Read More](https://medium.com/p/984476c0a54b) |
-| Fri, 06 Mar 2026 17:45:14 GMT | HackMyVM: GameShell2 Walkthrough | SWALE | [Read More](https://medium.com/p/c4646d760091) |
-| Fri, 06 Mar 2026 17:45:01 GMT | Tool Poisoning in MCP: Turning an AI Plugin Store into an Attack Vector | Murlidhar B | [Read More](https://medium.com/p/611d4b5702ce) |
