@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Mar 2026 17:41:24 GMT | Data Centre Security in Warzone | S Sarswat | [Read More](https://medium.com/p/eb8c27b2e631) |
+| Sat, 07 Mar 2026 17:40:11 GMT | Trump tells Iran to surrender claiming its Airforce and navy are “gone” | Everclear | [Read More](https://medium.com/p/796d8fe5cc84) |
+| Sat, 07 Mar 2026 17:38:46 GMT | HackTheBox — Brutus Log Analysis | Dimas Adrian | [Read More](https://medium.com/p/dfcccc5ae6ce) |
+| Sat, 07 Mar 2026 17:38:08 GMT | AI Found 22 Zero-Days in Firefox in Two Weeks. Your Patch Management Policy Wasn’t Built for This. | Stuardo Rodriguez | [Read More](https://medium.com/p/392b2b97fd82) |
+| Sat, 07 Mar 2026 17:36:04 GMT | Starting My Journey of Learning Cybersecurity in Public | Yash Shinde | [Read More](https://medium.com/p/48ed6b8bfea3) |
+| Sat, 07 Mar 2026 17:32:07 GMT | The Invisible Shield: Why Most System Architectures Are Failing in 2026 | Skyauctus | [Read More](https://medium.com/p/79d5224d98a3) |
+| Sat, 07 Mar 2026 17:27:57 GMT | Pfsense download steps and simple configuration | cyberwriter | [Read More](https://medium.com/p/d02a28c8c99d) |
+| Sat, 07 Mar 2026 17:23:11 GMT | I Built a Spring Boot Auth System in 30 Minutes — Then Production Broke | CodeTalks | [Read More](https://medium.com/p/8fdb0352bf05) |
+| Sat, 07 Mar 2026 17:15:34 GMT | Living the AI revolution — My Honest Journey With AI | Jessica | [Read More](https://medium.com/p/879a6fe8b421) |
 | Sat, 07 Mar 2026 17:08:52 GMT | Finding a Critical Authorization Flaw That Allowed Deleting Any User Account | Shir0E | [Read More](https://medium.com/p/846eb5af9dda) |
 | Sat, 07 Mar 2026 17:08:45 GMT | TryHackMe Ice Walkthrough - Exploiting a Vulnerable Icecast Server | Rajeesh R L | [Read More](https://medium.com/p/1d07e71e86a2) |
 | Sat, 07 Mar 2026 17:07:09 GMT | The No-Code Security Paradox: Why the Most Dangerous Ethical Hackers Are Now Building Workflows… | R.H Rizvi | [Read More](https://medium.com/p/7de7fa3b537d) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 11:16:00 GMT | Could Our Conflict With Iran Turn Into a Cyber War? | Rick Gregson | [Read More](https://medium.com/p/c8368cf7846c) |
 | Sat, 07 Mar 2026 11:15:17 GMT | Codex Security and the New Standard for AI Cybersecurity - A Practitioner’s Perspective | Aakash Rahsi | [Read More](https://medium.com/p/c225411992f7) |
 | Sat, 07 Mar 2026 11:15:06 GMT | CTI Research: Sandworm / APT44 | Andrey Pautov | [Read More](https://medium.com/p/649332e8af44) |
-| Sat, 07 Mar 2026 11:10:59 GMT | Learning Hacking and Cyber Security Now Compared to 10 years ago | Cyb0rgBytes | [Read More](https://medium.com/p/eebd596fd59b) |
-| Sat, 07 Mar 2026 11:10:10 GMT | TryHackMe Linux Temelleri Bölüm 2 — Oda Çözümü | Mustafa Şen | [Read More](https://medium.com/p/d33cbde51a87) |
-| Sat, 07 Mar 2026 11:06:45 GMT | OpenAI Introduces Codex Security to Detect and Fix Software Vulnerabilities | Jas | [Read More](https://medium.com/p/ded28cb2c597) |
-| Sat, 07 Mar 2026 11:05:03 GMT | Top 10 API Security and Vulnerabilities | Charles Ikulayo - Senior Software Engineer | [Read More](https://medium.com/p/d37d906b441b) |
-| Sat, 07 Mar 2026 10:43:54 GMT | Affordable Web Design Cape Town: A Smart Investment for Your Business | Ava Jones | [Read More](https://medium.com/p/9a7c6887678c) |
-| Sat, 07 Mar 2026 10:42:28 GMT | TryHackMe MD2PDF Write-up — Exploiting Markdown to PDF for SSRF | MAIMO HARRIS | [Read More](https://medium.com/p/e8b6cba0b557) |
-| Sat, 07 Mar 2026 10:34:42 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/4c49e416a1f2) |
-| Sat, 07 Mar 2026 10:07:29 GMT | How CTF Challenges Help You Think Like a Hacker | Alex Carter | [Read More](https://medium.com/p/0df20656da59) |
-| Sat, 07 Mar 2026 10:07:20 GMT | Introduction to Information Security: Mengapa Keamanan Informasi Penting? | Putri Damayanti | [Read More](https://medium.com/p/78aeadf122a0) |
