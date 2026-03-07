@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Mar 2026 13:35:28 GMT | Building Secure JWT Authentication System with Go using Clean Architecture: Access-Refresh Token… | Yehezkiel | [Read More](https://medium.com/p/46e0a14fdca4) |
+| Sat, 07 Mar 2026 13:31:40 GMT | Securing Products at Inference Speed | Antariksha Akhilesh Sharma | [Read More](https://medium.com/p/b4f2dce07793) |
+| Sat, 07 Mar 2026 13:21:04 GMT | Master DNS Enumeration - 4 Easy Methods Explained | Pentester Club | [Read More](https://medium.com/p/368687f0c0f8) |
+| Sat, 07 Mar 2026 13:15:53 GMT | SELinux Basics | Babatunde | [Read More](https://medium.com/p/6c3820f7a6a2) |
+| Sat, 07 Mar 2026 13:08:43 GMT | Trusted Security Guards for Banks and Financial Facilities | Grdsnscrt | [Read More](https://medium.com/p/614a5b710c65) |
+| Sat, 07 Mar 2026 13:06:00 GMT | Fortigate Dersleri: Application Control ve Firewall Policy Düzenlemeye Bakış-3 | Azra K. | [Read More](https://medium.com/p/f6ce5a40720a) |
+| Sat, 07 Mar 2026 13:01:31 GMT | One User, Multiple Votes: A Race Condition | Parth Narula | [Read More](https://medium.com/p/f55e0bf55186) |
+| Sat, 07 Mar 2026 13:00:39 GMT | Insurance BEC Gets Expensive When Proof Comes Too Late | Graylog | [Read More](https://medium.com/p/9f5f6efbac05) |
+| Sat, 07 Mar 2026 12:56:24 GMT | The Smart Path to Microsoft Entra ID: Modernize Devices Without Disruption | Opsole Migrate | [Read More](https://medium.com/p/841c27f93e56) |
 | Sat, 07 Mar 2026 12:52:14 GMT | From a JavaScript File to Full Owner Access: How a Single Exposed Token Compromised an Entire B2B… | AgentZeroX | [Read More](https://medium.com/p/24296110c9a4) |
+| Sat, 07 Mar 2026 12:51:00 GMT | The Messy Part of Automating Policy Creation Nobody Talks About | Gaurav Shukla | [Read More](https://medium.com/p/ca93d186384e) |
 | Sat, 07 Mar 2026 12:34:54 GMT | THE REAL TALK IN TECH | Ààrẹ Adékúnlé ALIU | [Read More](https://medium.com/p/02cd0368a88b) |
 | Sat, 07 Mar 2026 12:31:47 GMT | Gero Dashboard 2.6.2: Advanced Wallet Security and the Return of the Gero Card | GeroWallet | [Read More](https://medium.com/p/1398290330e2) |
 | Sat, 07 Mar 2026 12:29:40 GMT | AI:- Threat or Blessing in Cybersecurity | Arun Adhikari | [Read More](https://medium.com/p/f070ca03b251) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 06:17:27 GMT | From DNS Queries to C2: A Real SOC Investigation | InsideTheSOC | [Read More](https://medium.com/p/8577cdd42cfb) |
 | Sat, 07 Mar 2026 06:04:09 GMT | Cybersecurity in 2026: What You Need to Know | Anders wisdom | [Read More](https://medium.com/p/03ade2631f75) |
 | Sat, 07 Mar 2026 06:01:00 GMT | China’s Expanding Nuclear Fleet Could Target the U.S. | Geopolitics / Economy / Technology | [Read More](https://medium.com/p/856963f9099b) |
-| Sat, 07 Mar 2026 05:54:57 GMT | Evil Twin Attacks in Enterprise Networks | Cynox Security LLP. | [Read More](https://medium.com/p/2364bb63b459) |
-| Sat, 07 Mar 2026 05:44:35 GMT | Android Pentesting: Capturing API Requests Without SSL Pinning Bypass!!! | aiswaryaKs | [Read More](https://medium.com/p/24a4382c393d) |
-| Sat, 07 Mar 2026 05:36:00 GMT | Stop Enabling Every AWS Security Service | Sena Yakut | [Read More](https://medium.com/p/fb171635a25c) |
-| Sat, 07 Mar 2026 05:32:34 GMT | Cyber Security Course in Kerala with Pen Testing & DDoS Coaching | Munaveernesa | [Read More](https://medium.com/p/d69b61fc897c) |
-| Sat, 07 Mar 2026 05:25:48 GMT | picoCTF — Event-Viewing | Shiro | [Read More](https://medium.com/p/06989886c3c5) |
-| Sat, 07 Mar 2026 05:20:09 GMT | The Networking-Cyber Linkage | Kiiza | [Read More](https://medium.com/p/929777fef853) |
-| Sat, 07 Mar 2026 05:19:10 GMT | Shielding Vital Data from Evolving Digital Attacks in UAE | Tekhabeeb | [Read More](https://medium.com/p/cf8fbbe5254a) |
-| Sat, 07 Mar 2026 05:13:58 GMT | The Knowledge That Writing Left Behind | Clement Leong | [Read More](https://medium.com/p/a66b24da61ea) |
-| Sat, 07 Mar 2026 05:11:39 GMT | Decoding SSL, TLS, and HTTPS: The 2026 Ultimate Guide | Vivek Kumar Sinha | [Read More](https://medium.com/p/07799372d997) |
-| Sat, 07 Mar 2026 05:06:50 GMT | Stop Confusing Agents With IntelligenceStop Confusing Agents With Intelligence | MKarthik | [Read More](https://medium.com/p/782b50ce2d24) |
