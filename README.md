@@ -12,8 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Mar 2026 19:15:24 GMT | How I Discovered a Price Manipulation Vulnerability in a Public Bug Bounty Program | Scander_0X | [Read More](https://medium.com/p/344dc6e9c1ed) |
+| Sat, 07 Mar 2026 19:11:16 GMT | Ownership Matters: From ACL Abuse to GPO Takeover | Hishamrazak | [Read More](https://medium.com/p/dc9dbe73eb04) |
+| Sat, 07 Mar 2026 19:09:48 GMT | Python ile Phishing E-posta Analiz Aracı Geliştirmek (VirusTotal Entegrasyonu) | Erkin KASIM | [Read More](https://medium.com/p/89b55a5385ca) |
+| Sat, 07 Mar 2026 19:08:44 GMT | <What are the root problems?/> | Igino Corona, Eng PhD | [Read More](https://medium.com/p/2103647bc11a) |
+| Sat, 07 Mar 2026 19:01:00 GMT | C# Basic Introduction | Theebiga Vicknarajah | [Read More](https://medium.com/p/5a39ec51941e) |
+| Sat, 07 Mar 2026 18:58:10 GMT | How to Actually Test Proxy Quality (Most Tools Get It Wrong) | Scambuster | [Read More](https://medium.com/p/fca33c8c61e7) |
+| Sat, 07 Mar 2026 18:56:00 GMT | EU GDPR — Article 31 (Cooperation with the Supervisory Authority) | MDM Team | [Read More](https://medium.com/p/82bbb536be66) |
+| Sat, 07 Mar 2026 18:47:04 GMT | Stop Giving AI Agents Ambient OS Permissions: The Case for Runtime Trust Infrastructure | Tony W | [Read More](https://medium.com/p/9583d7821f70) |
+| Sat, 07 Mar 2026 18:46:30 GMT | Threat Hunting Lab Part 1: Reconnaissance | Andreas Maroulis | [Read More](https://medium.com/p/6a680a6f2bfd) |
+| Sat, 07 Mar 2026 18:46:01 GMT | HTTP DURUM KODLARI | Zeynel Demirdağ | [Read More](https://medium.com/p/6604d8ffaa17) |
+| Sat, 07 Mar 2026 18:44:49 GMT | Arctic — HTB Walkthrough | Hemantha Krishna Challa | [Read More](https://medium.com/p/b8ae68aea971) |
+| Sat, 07 Mar 2026 18:44:05 GMT | The Static Risk Approximation | Gracie ‘Potter’ Daniel (GhG) | [Read More](https://medium.com/p/b85d08cafe0f) |
+| Sat, 07 Mar 2026 18:40:30 GMT | From Rejection to RCE: How a Dependency Confusion Finding Came Back Four Months Later and earned… | Sagar Dhoot | [Read More](https://medium.com/p/e3ef1669fe24) |
+| Sat, 07 Mar 2026 18:38:44 GMT | Two Signals Your Protocol is Under Attack: Flow Anomaly and Threshold Breaches | Exploitless | [Read More](https://medium.com/p/7447d3e338c1) |
+| Sat, 07 Mar 2026 18:37:02 GMT | Rate Limiting Strategies: How to Protect Your APIs Without Slowing Everything Down | Abhay upadhyay | [Read More](https://medium.com/p/2f85601b2e59) |
 | Sat, 07 Mar 2026 18:33:07 GMT | I punish myself and call it awareness. | noe | [Read More](https://medium.com/p/07efb64ef855) |
 | Sat, 07 Mar 2026 18:31:00 GMT | Hiding My Precious Mind | organic flow. | [Read More](https://medium.com/p/ee9ab2f0a4d5) |
+| Sat, 07 Mar 2026 18:30:18 GMT | Lab: Exploiting NoSQL operator injection to extract unknown fields (writeup) | </Y55F> | [Read More](https://medium.com/p/889e5d26cffc) |
 | Sat, 07 Mar 2026 18:26:59 GMT | Cybereason vs. DarkSide: Breaking Down the Ransomware That Thought It Was Untouchable | Pranav More | [Read More](https://medium.com/p/9239ba69ff79) |
 | Sat, 07 Mar 2026 18:26:01 GMT | EXPOSE- TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/e3e6833d50ac) |
 | Sat, 07 Mar 2026 18:23:35 GMT | Quantum Bilgisayarlar Şifrelemeyi Kırabilir mi? | Ali Yaşe | [Read More](https://medium.com/p/65f2c3822fc3) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 13:08:43 GMT | Trusted Security Guards for Banks and Financial Facilities | Grdsnscrt | [Read More](https://medium.com/p/614a5b710c65) |
 | Sat, 07 Mar 2026 13:06:00 GMT | Fortigate Dersleri: Application Control ve Firewall Policy Düzenlemeye Bakış-3 | Azra K. | [Read More](https://medium.com/p/f6ce5a40720a) |
 | Sat, 07 Mar 2026 13:01:31 GMT | One User, Multiple Votes: A Race Condition | Parth Narula | [Read More](https://medium.com/p/f55e0bf55186) |
-| Sat, 07 Mar 2026 13:00:39 GMT | Insurance BEC Gets Expensive When Proof Comes Too Late | Graylog | [Read More](https://medium.com/p/9f5f6efbac05) |
-| Sat, 07 Mar 2026 12:56:24 GMT | The Smart Path to Microsoft Entra ID: Modernize Devices Without Disruption | Opsole Migrate | [Read More](https://medium.com/p/841c27f93e56) |
-| Sat, 07 Mar 2026 12:52:14 GMT | From a JavaScript File to Full Owner Access: How a Single Exposed Token Compromised an Entire B2B… | AgentZeroX | [Read More](https://medium.com/p/24296110c9a4) |
-| Sat, 07 Mar 2026 12:51:00 GMT | The Messy Part of Automating Policy Creation Nobody Talks About | Gaurav Shukla | [Read More](https://medium.com/p/ca93d186384e) |
-| Sat, 07 Mar 2026 12:34:54 GMT | THE REAL TALK IN TECH | Ààrẹ Adékúnlé ALIU | [Read More](https://medium.com/p/02cd0368a88b) |
-| Sat, 07 Mar 2026 12:31:47 GMT | Gero Dashboard 2.6.2: Advanced Wallet Security and the Return of the Gero Card | GeroWallet | [Read More](https://medium.com/p/1398290330e2) |
-| Sat, 07 Mar 2026 12:29:40 GMT | AI:- Threat or Blessing in Cybersecurity | Arun Adhikari | [Read More](https://medium.com/p/f070ca03b251) |
-| Sat, 07 Mar 2026 12:29:01 GMT | How Hackers Discover Path Traversal Vulnerabilities | Ishant Gupta | [Read More](https://medium.com/p/f2e240501cd6) |
-| Sat, 07 Mar 2026 12:22:27 GMT | The Netskope Paradox: Why “Block Everything” is a Surrender to Inefficiency | Divsh | [Read More](https://medium.com/p/330a055fdf57) |
-| Sat, 07 Mar 2026 12:16:18 GMT | Prompt Injection grew up. Now it moves laterally | h@shtalk | [Read More](https://medium.com/p/7530960abec5) |
-| Sat, 07 Mar 2026 12:13:24 GMT | 9 Reasons Why Cyber Security Is One of the Best Careers Today | logging security | [Read More](https://medium.com/p/9891a8760cb7) |
-| Sat, 07 Mar 2026 12:08:45 GMT | DDoS Attack Prevention by Solve The Network | Tushar M Kumawat | [Read More](https://medium.com/p/4162fcf9bbc1) |
-| Sat, 07 Mar 2026 11:58:45 GMT | A Simple Honeypot Strategy for Detecting Web Scrapers | Freeze Francis | [Read More](https://medium.com/p/40eab1c9b00d) |
-| Sat, 07 Mar 2026 11:54:06 GMT | Iran’s Cyber War Has Already Begun And America’s Defenses Are Running on Fumes | Ajay Yadav | [Read More](https://medium.com/p/fd96aa96f49c) |
-| Sat, 07 Mar 2026 11:47:56 GMT | Discovering OSINT: A beginner’s journey into Open Source Intelligence | CosmicByte | [Read More](https://medium.com/p/e4633963f959) |
-| Sat, 07 Mar 2026 11:46:14 GMT | Elastic Stack: The Basics - TryHackMe Walkthrough | Nishasorallikar | [Read More](https://medium.com/p/642ebc35cc3c) |
