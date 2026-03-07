@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Mar 2026 14:34:39 GMT | Cracking CrackIt(crackmes.one): A Step-by-Step Reverse Engineering Walkthrough | an0th3rh4ck | [Read More](https://medium.com/p/59db8043e4a4) |
+| Sat, 07 Mar 2026 14:32:41 GMT | Understanding Networking Basics (A Beginner Friendly Guide) | Zahid (Cybersecurity Student) | [Read More](https://medium.com/p/d6b7d176a029) |
+| Sat, 07 Mar 2026 14:32:09 GMT | Cyber Defense and Optical Laser Communications: The Next Generation of Space Stations and… | Rodrigo Rivera Vidal | [Read More](https://medium.com/p/45a87e8d6318) |
+| Sat, 07 Mar 2026 14:31:22 GMT | Networking Basics: Nmap & tcpdump | Mdporschaa | [Read More](https://medium.com/p/fdc4c587b910) |
+| Sat, 07 Mar 2026 14:31:00 GMT | Win Back Your Ex After an Emotional Breakup | Dancemi Clare | [Read More](https://medium.com/p/18931e9f9b52) |
+| Sat, 07 Mar 2026 14:27:26 GMT | Side-Channel Attacks Explained: How Physical Leakage Breaks Cryptographic Systems | Vijayalakshmi Datascience | [Read More](https://medium.com/p/19f47d2e9a4b) |
 | Sat, 07 Mar 2026 14:19:08 GMT | Daniel Rigmaiden: The Tax Fraud Hacker Who Exposed FBI Stingray Surveillance from His Jail Cell | Abel | [Read More](https://medium.com/p/993a5831e7bb) |
 | Sat, 07 Mar 2026 14:12:10 GMT | Solving a Bugforge Challenge — Exploiting Broken Access Control in Sokudo | Pranaya Shrestha | [Read More](https://medium.com/p/51360943ac17) |
 | Sat, 07 Mar 2026 14:04:04 GMT | How to Build a Cybersecurity Lab at Home: A Practical Guide for Beginners | Ferdi Edogawa | [Read More](https://medium.com/p/fe2a15b56606) |
@@ -27,6 +33,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 13:35:28 GMT | Building Secure JWT Authentication System with Go using Clean Architecture: Access-Refresh Token… | Yehezkiel | [Read More](https://medium.com/p/46e0a14fdca4) |
 | Sat, 07 Mar 2026 13:31:40 GMT | Securing Products at Inference Speed | Antariksha Akhilesh Sharma | [Read More](https://medium.com/p/b4f2dce07793) |
 | Sat, 07 Mar 2026 13:21:04 GMT | Master DNS Enumeration - 4 Easy Methods Explained | Pentester Club | [Read More](https://medium.com/p/368687f0c0f8) |
+| Sat, 07 Mar 2026 13:18:00 GMT | Crusial Things You Need to Do After Buying a New Android Phone | Caffeine Tech | [Read More](https://medium.com/p/15d7c1d9f082) |
 | Sat, 07 Mar 2026 13:15:53 GMT | SELinux Basics | Babatunde | [Read More](https://medium.com/p/6c3820f7a6a2) |
 | Sat, 07 Mar 2026 13:08:43 GMT | Trusted Security Guards for Banks and Financial Facilities | Grdsnscrt | [Read More](https://medium.com/p/614a5b710c65) |
 | Sat, 07 Mar 2026 13:06:00 GMT | Fortigate Dersleri: Application Control ve Firewall Policy Düzenlemeye Bakış-3 | Azra K. | [Read More](https://medium.com/p/f6ce5a40720a) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 07:19:46 GMT | Top 10 Windows Event IDs Every SOC Analyst Should Know (With Splunk Examples) | Rajan | [Read More](https://medium.com/p/9ce4c500c9df) |
 | Sat, 07 Mar 2026 07:19:05 GMT | FUNBOX ROOKIE VIRTUAL MACHINE | Kalechandrakant | [Read More](https://medium.com/p/d57f564993a2) |
 | Sat, 07 Mar 2026 07:16:07 GMT | PCI DSS Is Where Fintech Fantasy Meets Operational Reality | Fintech By Tanu | [Read More](https://medium.com/p/96d472e8be2c) |
-| Sat, 07 Mar 2026 07:15:27 GMT | What is AWS Identity and Access Management (IAM)? | Srushti Thakare | [Read More](https://medium.com/p/6a8359bcd73f) |
-| Sat, 07 Mar 2026 07:14:20 GMT | Which Cyber Security Course is Best After 12th? Complete Guide | cyber security Updates | [Read More](https://medium.com/p/c451f7b06df8) |
-| Sat, 07 Mar 2026 07:07:03 GMT | Write-Up: Attacktive Directory - TryHackMe | Zarradobe | [Read More](https://medium.com/p/e00411e58e0a) |
-| Sat, 07 Mar 2026 07:04:11 GMT | Rain Down the Music — Rockstar Language Challenge (Writeups) | Santhosh Kumar R | [Read More](https://medium.com/p/19f4b0568c6a) |
-| Sat, 07 Mar 2026 06:55:30 GMT | What Hackers Actually Do After They Breach a System (Step-by-Step) | Mukhtarabdul | [Read More](https://medium.com/p/8ed8c74375b5) |
-| Sat, 07 Mar 2026 06:54:37 GMT | How to Study for the CISSP Certificate: Tips & Tricks | Irfan Sharief | [Read More](https://medium.com/p/8c1cd5d67f51) |
-| Sat, 07 Mar 2026 06:48:31 GMT | Uncovering Origin IPs with “CloudFail”: What’s Hiding Behind Cloudflare? | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/71abfafc323f) |
