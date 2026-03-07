@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Mar 2026 02:00:50 GMT | How I Bypassed a Paid Feature Using Just Browser DevTools | Rahul Masal | [Read More](https://medium.com/p/376af537950f) |
+| Sat, 07 Mar 2026 01:58:40 GMT | When People Realize a Scam Was Real, the First Question Usually Isn’t “How?” | ScamAnalysis | [Read More](https://medium.com/p/d40c9cc24fd6) |
+| Sat, 07 Mar 2026 01:49:13 GMT | Write-Up: AD Basic Enumeration - TryHackMe | Zarradobe | [Read More](https://medium.com/p/7c4082608099) |
+| Sat, 07 Mar 2026 01:33:31 GMT | Attacking Common Services — Part 2 | Nouman Ali Khan | [Read More](https://medium.com/p/2a9f7b629652) |
+| Sat, 07 Mar 2026 01:26:13 GMT | Web Application Security: Hands-On Practice (Chapter 14 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/1edd620663ca) |
+| Sat, 07 Mar 2026 01:11:15 GMT | The Silent Observer: A Deep Dive into Shodan Dorks for Security Researchers | Hassansaleemkey | [Read More](https://medium.com/p/f4f19138283b) |
+| Sat, 07 Mar 2026 01:10:49 GMT | DNS Enumeration : The Beginners Guide | Ahm3d_Sec | [Read More](https://medium.com/p/54cd372de10f) |
+| Sat, 07 Mar 2026 00:57:43 GMT | Siber Pusula #2 - Privilege Escalation — Exploiting PATH CyberExam | Toprak Külekçioğlu | [Read More](https://medium.com/p/c64644982235) |
+| Sat, 07 Mar 2026 00:18:10 GMT | FahemSec CTF Writeup: Bad USB (Digital Forensics) | Zeyadalarby | [Read More](https://medium.com/p/08b03695f487) |
+| Sat, 07 Mar 2026 00:05:27 GMT | Introduction to Red Teaming AI Systems — OSAI OffSec Module 1 | cyber_public_school | [Read More](https://medium.com/p/652201176bba) |
+| Sat, 07 Mar 2026 00:04:58 GMT | IT 04 - Windows Commands 2 | Amrsmooke | [Read More](https://medium.com/p/484ae6f4575c) |
+| Sat, 07 Mar 2026 00:01:01 GMT | Guide to XSS Fundamentals: Vulnerabilities, Payloads, and WAF/CSP Bypasses | JPablo13 | [Read More](https://medium.com/p/6811853b8226) |
 | Fri, 06 Mar 2026 23:45:51 GMT | Building an Automated Threat Intelligence Workflow with n8n, VirusTotal, and Gemini AI | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/4e1094c1bfee) |
 | Fri, 06 Mar 2026 23:33:29 GMT | Linux for Cybersecurity: What It Is, How It Works, and Why You Can’t Ignore It | Bheeshma | [Read More](https://medium.com/p/e0f65386dbb4) |
 | Fri, 06 Mar 2026 23:30:08 GMT | Neden Tüm Sırlarımızı Bulut Şirketlerine Veriyoruz? | Ahmet Kayra Kama | [Read More](https://medium.com/p/f0133b8f4d92) |
@@ -36,6 +48,7 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Mar 2026 21:28:21 GMT | The Operator Who Didn’t Care: Profiling the Exit of Archive.today | Berend Watchus | [Read More](https://medium.com/p/f9c847710784) |
 | Fri, 06 Mar 2026 21:23:38 GMT | A Path Hidden in Plain Sight: Owning Active Directory | Jabaribrown | [Read More](https://medium.com/p/4595a7b730bc) |
 | Fri, 06 Mar 2026 21:19:52 GMT | How AI Apps Finally Plug Into the Real World: Understanding MCP | Meghna Manoj Nair | [Read More](https://medium.com/p/cb01443f74c1) |
+| Fri, 06 Mar 2026 21:17:10 GMT | Agentic AI and Security: Innovation vs. Risk | Anthony Mai | [Read More](https://medium.com/p/db70ccf29a23) |
 | Fri, 06 Mar 2026 21:11:32 GMT | The Mysterious Journey of a Powerful iOS Exploit Kit | SOCFortress | [Read More](https://medium.com/p/e270b15f8697) |
 | Fri, 06 Mar 2026 21:08:41 GMT | Found a Risk? Here are your 4 Power Moves! ️ | Sujon Al Mamun | [Read More](https://medium.com/p/b5d166638981) |
 | Fri, 06 Mar 2026 21:04:45 GMT | The Architecture of Trust: A TryHackMe Walkthrough of ‘Governance & Regulation’ | Joanna Adegbile | [Read More](https://medium.com/p/10a0a466c413) |
@@ -99,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Mar 2026 17:51:00 GMT | Show me the money. | Jere Le | [Read More](https://medium.com/p/984476c0a54b) |
 | Fri, 06 Mar 2026 17:45:14 GMT | HackMyVM: GameShell2 Walkthrough | SWALE | [Read More](https://medium.com/p/c4646d760091) |
 | Fri, 06 Mar 2026 17:45:01 GMT | Tool Poisoning in MCP: Turning an AI Plugin Store into an Attack Vector | Murlidhar B | [Read More](https://medium.com/p/611d4b5702ce) |
-| Fri, 06 Mar 2026 17:41:13 GMT | Chain of Custody Explained: Protecting the Integrity of Digital Evidence in Cyber Investigations | Nimit Shyara | [Read More](https://medium.com/p/a6d562845fec) |
-| Fri, 06 Mar 2026 17:36:21 GMT | AI Jailbreaking-Mind Game | Neeru Gupta | [Read More](https://medium.com/p/f2b83205a2ec) |
-| Fri, 06 Mar 2026 17:32:34 GMT | Aaj ke time mein mobile sirf call karne ke liye nahi hota. | Manas | [Read More](https://medium.com/p/68e0af85cf51) |
-| Fri, 06 Mar 2026 17:23:06 GMT | A Deep Dive Into Endianness | John Audu | [Read More](https://medium.com/p/6e020f0da2e7) |
-| Fri, 06 Mar 2026 17:21:57 GMT | Certified Pre-Owned, Uncovered: Full AD CS Visibility With Wazuh — Part 1 | Cybersensus | [Read More](https://medium.com/p/be4ab35533a1) |
-| Fri, 06 Mar 2026 17:21:43 GMT | TransferGate: The Agent Bodyguard on Incentiv — How Native Security Rules Make Rogue Agents… | Dr. Mainnet | [Read More](https://medium.com/p/594cc9f1b6c8) |
-| Fri, 06 Mar 2026 17:08:59 GMT | The ICS Supply Chain Problem Nobody Is Talking About | Chethanmohan | [Read More](https://medium.com/p/35507e57c6b8) |
-| Fri, 06 Mar 2026 17:06:41 GMT | Iran-Linked APT “Dust Specter” Targets Iraqi Officials with New Malware. | Dibya ranjan mohanty | [Read More](https://medium.com/p/522f60a106df) |
-| Fri, 06 Mar 2026 17:05:25 GMT | I Was Completely Lost in Cybersecurity — Until I Found This Community
-How a free Telegram channel… | Mirmahmood | [Read More](https://medium.com/p/82ebd967f4ad) |
-| Fri, 06 Mar 2026 17:01:01 GMT | Cybersecurity Awareness Scenario #3 | Devore McIntosh | [Read More](https://medium.com/p/eed083799820) |
-| Fri, 06 Mar 2026 16:54:56 GMT | Spring Boot API Gateway Security (2026 Guide with Real Code) | CodeTalks | [Read More](https://medium.com/p/db6eee984be4) |
-| Fri, 06 Mar 2026 16:52:29 GMT | Vega’s $120M series B signals a shift in AI-Native cybersecurity infrastructure | Universal Venture Capital | [Read More](https://medium.com/p/f00853df295e) |
-| Fri, 06 Mar 2026 16:50:29 GMT | What We Found: 225 Vulnerabilities in 45 Open Source Projects | Kolega.Dev | [Read More](https://medium.com/p/e70177e16422) |
