@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Mar 2026 15:24:42 GMT | Why AI Agents Are Becoming the Most Dangerous Identities in Your Organization | Sunnysinha | [Read More](https://medium.com/p/1aeb26fb551e) |
+| Sat, 07 Mar 2026 15:24:41 GMT | The Tool That Explains Any Shell Command | Cybersphere Official | [Read More](https://medium.com/p/d7a95d7aacdb) |
+| Sat, 07 Mar 2026 15:24:32 GMT | Investigating with Splunk TryHackMe Writeup | Kavusan Yesuraja | [Read More](https://medium.com/p/5b9e45042975) |
+| Sat, 07 Mar 2026 15:22:24 GMT | ItsyBitsy TryHackMe Writeup | Kavusan Yesuraja | [Read More](https://medium.com/p/be566da5b695) |
+| Sat, 07 Mar 2026 15:18:36 GMT | Can Cyber Security Be Learned Since High School? | Joko Sampurno | [Read More](https://medium.com/p/df2a8eca1cb0) |
+| Sat, 07 Mar 2026 15:13:10 GMT | Cybersecurity in the Digital Age:-Protecting Your Business and Data | Shanafzal | [Read More](https://medium.com/p/92292b2f413f) |
+| Sat, 07 Mar 2026 15:08:57 GMT | CyberDefenders: PsExec (Analisis Pergerakan Lateral Attacker) | Dixtroiza | [Read More](https://medium.com/p/8486048aa7c8) |
+| Sat, 07 Mar 2026 15:08:04 GMT | Evil Twin Attacks in Enterprise Networks | Cynox Security LLP. | [Read More](https://medium.com/p/ade477b81bd5) |
+| Sat, 07 Mar 2026 15:07:05 GMT | How Claude Opus 4.6 Discovered 22 CVEs in the World’s Most Tested Browser | Tanmay Deshpande | [Read More](https://medium.com/p/af6f8bcb53c9) |
+| Sat, 07 Mar 2026 15:01:01 GMT | Crecen las advertencias sobre posibles ciberataques en medio del conflicto bélico en Medio Oriente | Tiziano Mass | [Read More](https://medium.com/p/409abd1c81f2) |
 | Sat, 07 Mar 2026 14:34:39 GMT | Cracking CrackIt(crackmes.one): A Step-by-Step Reverse Engineering Walkthrough | an0th3rh4ck | [Read More](https://medium.com/p/59db8043e4a4) |
 | Sat, 07 Mar 2026 14:32:41 GMT | Understanding Networking Basics (A Beginner Friendly Guide) | Zahid (Cybersecurity Student) | [Read More](https://medium.com/p/d6b7d176a029) |
 | Sat, 07 Mar 2026 14:32:09 GMT | Cyber Defense and Optical Laser Communications: The Next Generation of Space Stations and… | Rodrigo Rivera Vidal | [Read More](https://medium.com/p/45a87e8d6318) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 08:04:35 GMT | Instant Access for Users, Fast Integration for Developers | Anton Minin Baranovskii | [Read More](https://medium.com/p/9a5621f6a803) |
 | Sat, 07 Mar 2026 08:01:52 GMT | You Pressed Send | Franciswagonda | [Read More](https://medium.com/p/31eb69851b63) |
 | Sat, 07 Mar 2026 08:01:48 GMT | Manual vs Automated Certificate Management | PrimeSSL Certificate | [Read More](https://medium.com/p/ad68a6c28075) |
-| Sat, 07 Mar 2026 07:55:30 GMT | Unlimited Image Uploads?! How I Found a Missing Rate Limit Vulnerability | Rahul Masal | [Read More](https://medium.com/p/9d7e6c940751) |
-| Sat, 07 Mar 2026 07:55:16 GMT | Reflected XSS in Facebook, Twitter & Google Training Platforms | NullSecurityX | [Read More](https://medium.com/p/f98198d65657) |
-| Sat, 07 Mar 2026 07:51:12 GMT | How to Read JavaScript Files for Hidden Endpoints | ghostyjoe | [Read More](https://medium.com/p/ef1d77787ebe) |
-| Sat, 07 Mar 2026 07:47:15 GMT | The Hidden Trap of Cloud Backups: Why Enterprises are Pivoting to Bare-Metal Servers for Disaster… | Fit Servers | [Read More](https://medium.com/p/7b5908457456) |
-| Sat, 07 Mar 2026 07:46:00 GMT | NorthBridge Systems — HackSmarter Writeup | GauthamV | [Read More](https://medium.com/p/3eed7d8b5723) |
-| Sat, 07 Mar 2026 07:31:57 GMT | IPv4 vs IPv6 — The Story of the Internet Outgrowing Its Own Address Book | Gajanan Tayde | [Read More](https://medium.com/p/8fab9898d3e1) |
-| Sat, 07 Mar 2026 07:30:26 GMT | FUNBOX ROOKIE VIRTUAL MACHINE | Darshanrajapure | [Read More](https://medium.com/p/d2f8d87ed151) |
-| Sat, 07 Mar 2026 07:19:46 GMT | Top 10 Windows Event IDs Every SOC Analyst Should Know (With Splunk Examples) | Rajan | [Read More](https://medium.com/p/9ce4c500c9df) |
-| Sat, 07 Mar 2026 07:19:05 GMT | FUNBOX ROOKIE VIRTUAL MACHINE | Kalechandrakant | [Read More](https://medium.com/p/d57f564993a2) |
-| Sat, 07 Mar 2026 07:16:07 GMT | PCI DSS Is Where Fintech Fantasy Meets Operational Reality | Fintech By Tanu | [Read More](https://medium.com/p/96d472e8be2c) |
