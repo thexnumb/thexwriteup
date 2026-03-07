@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Mar 2026 23:42:52 GMT | AI Security Research — February 2026 | Tal Eliyahu | [Read More](https://medium.com/p/6208733b0eba) |
+| Sat, 07 Mar 2026 23:40:45 GMT | Iran Hits on Amazon’s Gulf Datacentres Cause Disruption And Triggers Serious Rethinking | James Marinero, MSc, MBA | [Read More](https://medium.com/p/911cb4d4a60f) |
+| Sat, 07 Mar 2026 23:33:48 GMT | TryHackMe Writeup AD: Basic Enumeration | Anggor0x | [Read More](https://medium.com/p/db337aafc255) |
+| Sat, 07 Mar 2026 23:29:43 GMT | 2026 International Women’s Day Message from Echoes of Women in Africa Initiatives. | Louisa Eikhomun-Agbonkhese | [Read More](https://medium.com/p/17615e6f487a) |
 | Sat, 07 Mar 2026 23:12:50 GMT | Breaking Systems to Secure Them: The Intersection of Cloud, Security, and Human Error | OTHMANE EL MQIDDEM | [Read More](https://medium.com/p/df1c7130ef39) |
 | Sat, 07 Mar 2026 23:12:28 GMT | Day 19 : SOC Team Internals Tryhackme | Cybersecurity with Jojo | [Read More](https://medium.com/p/999062431924) |
 | Sat, 07 Mar 2026 23:12:25 GMT | Reentrancy Explained for Beginners | Abraham | [Read More](https://medium.com/p/7847ca61cf8d) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 15:53:41 GMT | Sonar Unveils Agent Centric Development Cycle: Modernizing CI for the AI Era | Harshit Nagila | [Read More](https://medium.com/p/5b2cc362b8bc) |
 | Sat, 07 Mar 2026 15:53:26 GMT | I tried to solve the ctf challenge about logging into the server using SSTI (Server Side Template… | Billy Elvonda Aron Umpel | [Read More](https://medium.com/p/2dfcc687fc73) |
 | Sat, 07 Mar 2026 15:43:06 GMT | TryHackMe AD: Basic Enumeration — Walkthrough dan Write Up | Farhan Auliya Abrar | [Read More](https://medium.com/p/f656a279a5f2) |
-| Sat, 07 Mar 2026 15:37:54 GMT | nickel walkthrough (proving ground-windows) | cyber_public_school | [Read More](https://medium.com/p/c0bf1661468b) |
-| Sat, 07 Mar 2026 15:35:30 GMT | Common Vulnerabilities | Aniket Deshmukh | [Read More](https://medium.com/p/bdb0ee0c4641) |
-| Sat, 07 Mar 2026 15:31:01 GMT | It’s Just a Picture. Or Is It? | Ethics In Beta | [Read More](https://medium.com/p/8499df34feca) |
-| Sat, 07 Mar 2026 15:30:55 GMT | CyberGenics 2025 Year in Review: ปีที่พิสูจน์ตัวเอง — และ 2026 ที่จะไปไกลกว่าเดิม | Attaphon Phayak | [Read More](https://medium.com/p/6637f311b3ea) |
