@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Mar 2026 11:35:06 GMT | STRIDE Threat Model | Kayisalprns | [Read More](https://medium.com/p/7eb8215c8298) |
+| Sat, 07 Mar 2026 11:28:35 GMT | TryHackMe AD: Basic Enumeration Writeup | Muhammad Luqmaan | [Read More](https://medium.com/p/2ebc95c2921e) |
+| Sat, 07 Mar 2026 11:24:53 GMT | How Digital Platforms Improve Decision Making | Connecttly | [Read More](https://medium.com/p/33e6798b0127) |
+| Sat, 07 Mar 2026 11:23:36 GMT | Why Should You Upgrade Your Home With Electronic Security In 2026? | Ron William | [Read More](https://medium.com/p/327f7304d8c8) |
+| Sat, 07 Mar 2026 11:21:00 GMT | Future of Cyber Defense: Strategic Security Models for Organizations | Omer Akin | [Read More](https://medium.com/p/4dd1350b8a6d) |
+| Sat, 07 Mar 2026 11:19:03 GMT | AI: The Villian and the Hero of Cybersecurity | Rinu M J | [Read More](https://medium.com/p/39480e7a2dc3) |
+| Sat, 07 Mar 2026 11:18:10 GMT | BLE Security Vulnerabilities Every Android Developer Is Ignoring (And How to Fix Them) | BLE Advertiser | [Read More](https://medium.com/p/4ed6b2ce451e) |
+| Sat, 07 Mar 2026 11:16:00 GMT | Could Our Conflict With Iran Turn Into a Cyber War? | Rick Gregson | [Read More](https://medium.com/p/c8368cf7846c) |
+| Sat, 07 Mar 2026 11:15:17 GMT | Codex Security and the New Standard for AI Cybersecurity - A Practitioner’s Perspective | Aakash Rahsi | [Read More](https://medium.com/p/c225411992f7) |
+| Sat, 07 Mar 2026 11:15:06 GMT | CTI Research: Sandworm / APT44 | Andrey Pautov | [Read More](https://medium.com/p/649332e8af44) |
 | Sat, 07 Mar 2026 11:10:59 GMT | Learning Hacking and Cyber Security Now Compared to 10 years ago | Cyb0rgBytes | [Read More](https://medium.com/p/eebd596fd59b) |
+| Sat, 07 Mar 2026 11:10:10 GMT | TryHackMe Linux Temelleri Bölüm 2 — Oda Çözümü | Mustafa Şen | [Read More](https://medium.com/p/d33cbde51a87) |
 | Sat, 07 Mar 2026 11:06:45 GMT | OpenAI Introduces Codex Security to Detect and Fix Software Vulnerabilities | Jas | [Read More](https://medium.com/p/ded28cb2c597) |
 | Sat, 07 Mar 2026 11:05:03 GMT | Top 10 API Security and Vulnerabilities | Charles Ikulayo - Senior Software Engineer | [Read More](https://medium.com/p/d37d906b441b) |
 | Sat, 07 Mar 2026 10:43:54 GMT | Affordable Web Design Cape Town: A Smart Investment for Your Business | Ava Jones | [Read More](https://medium.com/p/9a7c6887678c) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 04:01:40 GMT | The Role of AI in SOC and VAPT | Antonyrajvedamanickam | [Read More](https://medium.com/p/e9681ca062db) |
 | Sat, 07 Mar 2026 03:56:28 GMT | Steel Mountain: Exploiting HFS and Escalating to SYSTEM on Windows | Robert Perez | [Read More](https://medium.com/p/11851e71e650) |
 | Sat, 07 Mar 2026 03:53:42 GMT | Day 17 : I sent money from an account that wasn’t mine;) | Issan | [Read More](https://medium.com/p/ed91e3bcf3e3) |
-| Sat, 07 Mar 2026 03:48:18 GMT | Managed IT Services Oman: Driving Business Efficiency and Digital Growth | Siddiquitauseef | [Read More](https://medium.com/p/f9c5fe5e8622) |
-| Sat, 07 Mar 2026 03:31:11 GMT | How to Set Up a GRUB Password | Chandan Kumar Kushwaha | [Read More](https://medium.com/p/80d4d3a7c0b3) |
-| Sat, 07 Mar 2026 03:15:50 GMT | Stop Deploying IAM Platforms Your IT Team Cannot Run | Shomikx | [Read More](https://medium.com/p/89716d5dc5b6) |
-| Sat, 07 Mar 2026 03:06:55 GMT | 5 Crypto Security Mistakes That Still Get Investors Hacked in 2026 | Snout0x | [Read More](https://medium.com/p/e0feb62e8147) |
-| Sat, 07 Mar 2026 03:06:27 GMT | Hunting Threats with Precision: A Practical Guide to YARA Rules for Detection | Jonathan H | [Read More](https://medium.com/p/a04f7fbdcaac) |
-| Sat, 07 Mar 2026 03:02:25 GMT | The On-Premises Problem: 3 Major Issues With Outsourced Cybersecurity & Why Top Brands Are Moving… | Christina Martin | [Read More](https://medium.com/p/ab94b18168bc) |
-| Sat, 07 Mar 2026 03:01:58 GMT | HackTheBox — Brutus | 0w0 | [Read More](https://medium.com/p/c9e6c1ac4fe1) |
-| Sat, 07 Mar 2026 02:39:04 GMT | The Modern Security Attack Surface: Lessons from Cloud, AI, and Supply Chains | Dhruv Gundecha | [Read More](https://medium.com/p/8d30b779dcf4) |
-| Sat, 07 Mar 2026 02:38:54 GMT | # AI can speed up defenders in Firefox security work | JakkHackJP | [Read More](https://medium.com/p/361b57c239ac) |
-| Sat, 07 Mar 2026 02:26:49 GMT | PNPT Privilege Escalation (PrivEsc) Cheat Sheet | jaejun835 | [Read More](https://medium.com/p/ad5c6d49f53e) |
-| Sat, 07 Mar 2026 02:12:51 GMT | Nemu Data Sensitif Terbuka di Internet? | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/48b4e1b60ad8) |
