@@ -12,8 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Mar 2026 05:36:00 GMT | Stop Enabling Every AWS Security Service | Sena Yakut | [Read More](https://medium.com/p/fb171635a25c) |
+| Sat, 07 Mar 2026 05:32:34 GMT | Cyber Security Course in Kerala with Pen Testing & DDoS Coaching | Munaveernesa | [Read More](https://medium.com/p/d69b61fc897c) |
+| Sat, 07 Mar 2026 05:25:48 GMT | picoCTF — Event-Viewing | Shiro | [Read More](https://medium.com/p/06989886c3c5) |
 | Sat, 07 Mar 2026 05:20:09 GMT | The Networking-Cyber Linkage | Kiiza | [Read More](https://medium.com/p/929777fef853) |
 | Sat, 07 Mar 2026 05:19:10 GMT | Shielding Vital Data from Evolving Digital Attacks in UAE | Tekhabeeb | [Read More](https://medium.com/p/cf8fbbe5254a) |
+| Sat, 07 Mar 2026 05:13:58 GMT | The Knowledge That Writing Left Behind | Clement Leong | [Read More](https://medium.com/p/a66b24da61ea) |
 | Sat, 07 Mar 2026 05:11:39 GMT | Decoding SSL, TLS, and HTTPS: The 2026 Ultimate Guide | Vivek Kumar Sinha | [Read More](https://medium.com/p/07799372d997) |
 | Sat, 07 Mar 2026 04:59:34 GMT | Building a Multi-Graph Math Engine with LangGraph: Local + Remote Graphs in Action | Alexander Machekhin | [Read More](https://medium.com/p/d7f30cee1864) |
 | Sat, 07 Mar 2026 04:49:23 GMT | CyberDefenders — PsExec Hunt | 0w0 | [Read More](https://medium.com/p/35b4e6c80fc0) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Mar 2026 19:32:38 GMT | How I Exposed My Local Services to the Internet Using Cloudflare Tunnel | Ram Singh Panwar | [Read More](https://medium.com/p/bb8a69e84f08) |
 | Fri, 06 Mar 2026 19:32:31 GMT | Görünmeyenin Tehlikesi: CVE-2021–22204, Metadata Manipülasyonu ve RCE | Erdem Ceylan | [Read More](https://medium.com/p/fe5fa0ffdd50) |
 | Fri, 06 Mar 2026 19:31:39 GMT | Sistemas operacionais para Analistas de Segurança | Alex Feleol | [Read More](https://medium.com/p/7dd5cb1eac21) |
-| Fri, 06 Mar 2026 19:30:58 GMT | Active Directory Security Series — Part 4 | servet demirci | [Read More](https://medium.com/p/e571d2fabb64) |
-| Fri, 06 Mar 2026 19:25:46 GMT | Regional Multipolarity in the Middle East | Gökçen Şahin | [Read More](https://medium.com/p/a569d9e0aea5) |
-| Fri, 06 Mar 2026 19:25:32 GMT | Cybersecurity Consulting, Cyber Security Consulting, and Cybersecurity Services: How CyberSecOp… | Jeffery Walker | [Read More](https://medium.com/p/23694beee8bb) |
-| Fri, 06 Mar 2026 19:19:43 GMT | Your CI Pipeline Is Blocking the Wrong Deployments | André Ataíde | [Read More](https://medium.com/p/b6e193f7459c) |
