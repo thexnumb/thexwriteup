@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Mar 2026 22:38:19 GMT | ExpressWay writeup (HackTheBox) | 7s26Simon | [Read More](https://medium.com/p/8d1385c9bfce) |
+| Sat, 07 Mar 2026 22:28:49 GMT | TryHackMe SOC Analyst Road Map Part-7 | safa kaya | [Read More](https://medium.com/p/512ac9149948) |
+| Sat, 07 Mar 2026 22:27:12 GMT | Perfectly Secret Encryption Explained: Why “Scrambling” Isn’t Security | Adidev Bhattacharya | [Read More](https://medium.com/p/746b200c9c73) |
 | Sat, 07 Mar 2026 22:20:25 GMT | Cryptography in DRM: What It Actually Does | Luis Santiago | [Read More](https://medium.com/p/376738e059d4) |
+| Sat, 07 Mar 2026 22:17:07 GMT | LLM01: Prompt Injection — A Hidden Security Risk in AI Applications | Seema Gupta | [Read More](https://medium.com/p/e38cce6810a4) |
 | Sat, 07 Mar 2026 22:11:31 GMT | Adversary Consolidation: Per-Host Attack Intensity Doubles in February 2026 | Px Mx | [Read More](https://medium.com/p/626c5cd9a163) |
 | Sat, 07 Mar 2026 22:01:00 GMT | SAML Authentication | Rhea Gupta | [Read More](https://medium.com/p/a98971e1fb17) |
 | Sat, 07 Mar 2026 22:01:00 GMT | Unfiltered Restart — Day 20: Core 1 Exam Day | Maximillian Rueda | [Read More](https://medium.com/p/88899b3edaf4) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 15:24:41 GMT | The Tool That Explains Any Shell Command | Cybersphere Official | [Read More](https://medium.com/p/d7a95d7aacdb) |
 | Sat, 07 Mar 2026 15:24:32 GMT | Investigating with Splunk TryHackMe Writeup | Kavusan Yesuraja | [Read More](https://medium.com/p/5b9e45042975) |
 | Sat, 07 Mar 2026 15:22:24 GMT | ItsyBitsy TryHackMe Writeup | Kavusan Yesuraja | [Read More](https://medium.com/p/be566da5b695) |
-| Sat, 07 Mar 2026 15:22:02 GMT | Your greatest fear might be a superpower | Bhee | [Read More](https://medium.com/p/de2c0698efae) |
-| Sat, 07 Mar 2026 15:18:36 GMT | Can Cyber Security Be Learned Since High School? | Joko Sampurno | [Read More](https://medium.com/p/df2a8eca1cb0) |
-| Sat, 07 Mar 2026 15:13:10 GMT | Cybersecurity in the Digital Age:-Protecting Your Business and Data | Shanafzal | [Read More](https://medium.com/p/92292b2f413f) |
-| Sat, 07 Mar 2026 15:08:57 GMT | CyberDefenders: PsExec (Analisis Pergerakan Lateral Attacker) | Dixtroiza | [Read More](https://medium.com/p/8486048aa7c8) |
