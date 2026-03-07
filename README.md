@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Mar 2026 20:10:13 GMT | Expressway Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/edb56665e955) |
+| Sat, 07 Mar 2026 19:55:56 GMT | How I Curiously Built a Tiny AI Lab in My Laptop — And Why You Might Want One Too | Khurshid Hassan | [Read More](https://medium.com/p/ec068854d5c7) |
+| Sat, 07 Mar 2026 19:54:46 GMT | Cheesy Does It writeup (BLF) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/898ddd8e9f96) |
+| Sat, 07 Mar 2026 19:53:00 GMT | Who Are SOC Analysts and Why Are They Important? | Nway Nway Zay Ya | [Read More](https://medium.com/p/574928bf5362) |
 | Sat, 07 Mar 2026 19:31:04 GMT | Your WiFi Network Sees Everything | Vishal Yadav | [Read More](https://medium.com/p/f01ab292be06) |
 | Sat, 07 Mar 2026 19:21:00 GMT | From National Cyber Policy to Ship Design: The Maritime Implications of the U.S. Cyber Strategy | Julius Shin | [Read More](https://medium.com/p/be8a9b58a1fc) |
 | Sat, 07 Mar 2026 19:16:03 GMT | SQL Injection Walkthrough — TryHackMe | Aditya Bhatt | [Read More](https://medium.com/p/986c3c62f6e6) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 13:46:55 GMT | Understanding Sigma Rules: The Language Behind Modern Threat Detection | NineTales | [Read More](https://medium.com/p/0fca5caba714) |
 | Sat, 07 Mar 2026 13:44:06 GMT | The 20-Second Review: How AI Is Choosing Who Dies — And Why No One Can Prove a Human Approved It | VeritasChain Standards Organization (VSO) | [Read More](https://medium.com/p/088853664aa3) |
 | Sat, 07 Mar 2026 13:35:28 GMT | Building Secure JWT Authentication System with Go using Clean Architecture: Access-Refresh Token… | Yehezkiel | [Read More](https://medium.com/p/46e0a14fdca4) |
-| Sat, 07 Mar 2026 13:31:40 GMT | Securing Products at Inference Speed | Antariksha Akhilesh Sharma | [Read More](https://medium.com/p/b4f2dce07793) |
-| Sat, 07 Mar 2026 13:21:04 GMT | Master DNS Enumeration - 4 Easy Methods Explained | Pentester Club | [Read More](https://medium.com/p/368687f0c0f8) |
-| Sat, 07 Mar 2026 13:18:00 GMT | Crusial Things You Need to Do After Buying a New Android Phone | Caffeine Tech | [Read More](https://medium.com/p/15d7c1d9f082) |
-| Sat, 07 Mar 2026 13:15:53 GMT | SELinux Basics | Babatunde | [Read More](https://medium.com/p/6c3820f7a6a2) |
