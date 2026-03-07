@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Mar 2026 19:31:04 GMT | Your WiFi Network Sees Everything | Vishal Yadav | [Read More](https://medium.com/p/f01ab292be06) |
+| Sat, 07 Mar 2026 19:21:00 GMT | From National Cyber Policy to Ship Design: The Maritime Implications of the U.S. Cyber Strategy | Julius Shin | [Read More](https://medium.com/p/be8a9b58a1fc) |
+| Sat, 07 Mar 2026 19:16:03 GMT | SQL Injection Walkthrough — TryHackMe | Aditya Bhatt | [Read More](https://medium.com/p/986c3c62f6e6) |
 | Sat, 07 Mar 2026 19:15:24 GMT | How I Discovered a Price Manipulation Vulnerability in a Public Bug Bounty Program | Scander_0X | [Read More](https://medium.com/p/344dc6e9c1ed) |
 | Sat, 07 Mar 2026 19:11:16 GMT | Ownership Matters: From ACL Abuse to GPO Takeover | Hishamrazak | [Read More](https://medium.com/p/dc9dbe73eb04) |
 | Sat, 07 Mar 2026 19:09:48 GMT | Python ile Phishing E-posta Analiz Aracı Geliştirmek (VirusTotal Entegrasyonu) | Erkin KASIM | [Read More](https://medium.com/p/89b55a5385ca) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 13:21:04 GMT | Master DNS Enumeration - 4 Easy Methods Explained | Pentester Club | [Read More](https://medium.com/p/368687f0c0f8) |
 | Sat, 07 Mar 2026 13:18:00 GMT | Crusial Things You Need to Do After Buying a New Android Phone | Caffeine Tech | [Read More](https://medium.com/p/15d7c1d9f082) |
 | Sat, 07 Mar 2026 13:15:53 GMT | SELinux Basics | Babatunde | [Read More](https://medium.com/p/6c3820f7a6a2) |
-| Sat, 07 Mar 2026 13:08:43 GMT | Trusted Security Guards for Banks and Financial Facilities | Grdsnscrt | [Read More](https://medium.com/p/614a5b710c65) |
-| Sat, 07 Mar 2026 13:06:00 GMT | Fortigate Dersleri: Application Control ve Firewall Policy Düzenlemeye Bakış-3 | Azra K. | [Read More](https://medium.com/p/f6ce5a40720a) |
-| Sat, 07 Mar 2026 13:01:31 GMT | One User, Multiple Votes: A Race Condition | Parth Narula | [Read More](https://medium.com/p/f55e0bf55186) |
