@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Mar 2026 12:52:14 GMT | From a JavaScript File to Full Owner Access: How a Single Exposed Token Compromised an Entire B2B… | AgentZeroX | [Read More](https://medium.com/p/24296110c9a4) |
+| Sat, 07 Mar 2026 12:34:54 GMT | THE REAL TALK IN TECH | Ààrẹ Adékúnlé ALIU | [Read More](https://medium.com/p/02cd0368a88b) |
+| Sat, 07 Mar 2026 12:31:47 GMT | Gero Dashboard 2.6.2: Advanced Wallet Security and the Return of the Gero Card | GeroWallet | [Read More](https://medium.com/p/1398290330e2) |
+| Sat, 07 Mar 2026 12:29:40 GMT | AI:- Threat or Blessing in Cybersecurity | Arun Adhikari | [Read More](https://medium.com/p/f070ca03b251) |
+| Sat, 07 Mar 2026 12:29:01 GMT | How Hackers Discover Path Traversal Vulnerabilities | Ishant Gupta | [Read More](https://medium.com/p/f2e240501cd6) |
+| Sat, 07 Mar 2026 12:22:27 GMT | The Netskope Paradox: Why “Block Everything” is a Surrender to Inefficiency | Divsh | [Read More](https://medium.com/p/330a055fdf57) |
+| Sat, 07 Mar 2026 12:16:18 GMT | Prompt Injection grew up. Now it moves laterally | h@shtalk | [Read More](https://medium.com/p/7530960abec5) |
+| Sat, 07 Mar 2026 12:13:24 GMT | 9 Reasons Why Cyber Security Is One of the Best Careers Today | logging security | [Read More](https://medium.com/p/9891a8760cb7) |
+| Sat, 07 Mar 2026 12:08:45 GMT | DDoS Attack Prevention by Solve The Network | Tushar M Kumawat | [Read More](https://medium.com/p/4162fcf9bbc1) |
+| Sat, 07 Mar 2026 11:58:45 GMT | A Simple Honeypot Strategy for Detecting Web Scrapers | Freeze Francis | [Read More](https://medium.com/p/40eab1c9b00d) |
+| Sat, 07 Mar 2026 11:54:06 GMT | Iran’s Cyber War Has Already Begun And America’s Defenses Are Running on Fumes | Ajay Yadav | [Read More](https://medium.com/p/fd96aa96f49c) |
+| Sat, 07 Mar 2026 11:46:14 GMT | Elastic Stack: The Basics - TryHackMe Walkthrough | Nishasorallikar | [Read More](https://medium.com/p/642ebc35cc3c) |
 | Sat, 07 Mar 2026 11:35:06 GMT | STRIDE Threat Model | Kayisalprns | [Read More](https://medium.com/p/7eb8215c8298) |
 | Sat, 07 Mar 2026 11:28:35 GMT | TryHackMe AD: Basic Enumeration Writeup | Muhammad Luqmaan | [Read More](https://medium.com/p/2ebc95c2921e) |
 | Sat, 07 Mar 2026 11:24:53 GMT | How Digital Platforms Improve Decision Making | Connecttly | [Read More](https://medium.com/p/33e6798b0127) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 05:13:58 GMT | The Knowledge That Writing Left Behind | Clement Leong | [Read More](https://medium.com/p/a66b24da61ea) |
 | Sat, 07 Mar 2026 05:11:39 GMT | Decoding SSL, TLS, and HTTPS: The 2026 Ultimate Guide | Vivek Kumar Sinha | [Read More](https://medium.com/p/07799372d997) |
 | Sat, 07 Mar 2026 05:06:50 GMT | Stop Confusing Agents With IntelligenceStop Confusing Agents With Intelligence | MKarthik | [Read More](https://medium.com/p/782b50ce2d24) |
-| Sat, 07 Mar 2026 04:59:34 GMT | Building a Multi-Graph Math Engine with LangGraph: Local + Remote Graphs in Action | Alexander Machekhin | [Read More](https://medium.com/p/d7f30cee1864) |
-| Sat, 07 Mar 2026 04:49:23 GMT | CyberDefenders — PsExec Hunt | 0w0 | [Read More](https://medium.com/p/35b4e6c80fc0) |
-| Sat, 07 Mar 2026 04:25:23 GMT | HTB Mirai: Default Creds, Pi-hole & USB Forensics | Onurcan Genç | [Read More](https://medium.com/p/aad5e45a6116) |
-| Sat, 07 Mar 2026 04:12:01 GMT | Cloud Agnostic — Zero-Bastion PostgreSQL Access Across Clouds with Teleport and PgBouncer | Verihubs | [Read More](https://medium.com/p/d2a58fdf66dd) |
-| Sat, 07 Mar 2026 04:09:52 GMT | Threat Intelligence Investigation — Dropbox Phishing Domain Analysis | Karim roshdy | [Read More](https://medium.com/p/372d8f17ffcf) |
-| Sat, 07 Mar 2026 04:07:44 GMT | Lenovo charger | Laptopgiant | [Read More](https://medium.com/p/dbd57c66c42d) |
-| Sat, 07 Mar 2026 04:06:09 GMT | How I Used Reflected XSS + CORS to Get 1-Click OAuth Misconfiguration | Muhammed Mubarak | [Read More](https://medium.com/p/82088e94c96c) |
-| Sat, 07 Mar 2026 04:04:53 GMT | Microsoft’s February 2026 Tech Updates: What Businesses Should Know | Aditi | [Read More](https://medium.com/p/71131a45e665) |
-| Sat, 07 Mar 2026 04:03:16 GMT | AiTM and the Adversarial Operations Framework | Joshua Goossen | [Read More](https://medium.com/p/7b6f54f5bf18) |
-| Sat, 07 Mar 2026 04:01:40 GMT | The Role of AI in SOC and VAPT | Antonyrajvedamanickam | [Read More](https://medium.com/p/e9681ca062db) |
-| Sat, 07 Mar 2026 03:56:28 GMT | Steel Mountain: Exploiting HFS and Escalating to SYSTEM on Windows | Robert Perez | [Read More](https://medium.com/p/11851e71e650) |
-| Sat, 07 Mar 2026 03:53:42 GMT | Day 17 : I sent money from an account that wasn’t mine;) | Issan | [Read More](https://medium.com/p/ed91e3bcf3e3) |
