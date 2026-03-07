@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Mar 2026 06:48:31 GMT | Uncovering Origin IPs with “CloudFail”: What’s Hiding Behind Cloudflare? | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/71abfafc323f) |
+| Sat, 07 Mar 2026 06:48:26 GMT | Cyber Kill Chain 1.2: A Detailed Guide to Active Information Gathering with Nmap | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/6dcfad8aab3d) |
+| Sat, 07 Mar 2026 06:47:40 GMT | Funbox Rookie CTF Walkthrough (Step-by-Step) - Ethical Hacking Practice | Pavankolkar | [Read More](https://medium.com/p/fc935de6cde6) |
+| Sat, 07 Mar 2026 06:33:50 GMT | How Joker Malware Hiding in Google Play and Steal Your Money | Kirill Nayduik | [Read More](https://medium.com/p/4a88a8b944b7) |
+| Sat, 07 Mar 2026 06:31:01 GMT | CTF for Beginners — What Nobody Tells You Before You Start | loopXvedant | [Read More](https://medium.com/p/96167a32ad4f) |
+| Sat, 07 Mar 2026 06:31:00 GMT | Beyond the Battlefield: Cyber Operations in the Israel–Iran Conflict | Ankita Sinha | [Read More](https://medium.com/p/acd35c979ace) |
+| Sat, 07 Mar 2026 06:28:43 GMT | Google Drive Integration for Easy Backups | Smit Pipaliya | [Read More](https://medium.com/p/a5812e684260) |
+| Sat, 07 Mar 2026 06:28:10 GMT | PABX System Installation Explained | IT Solution Dubai | [Read More](https://medium.com/p/6ac139b3b41c) |
+| Sat, 07 Mar 2026 06:27:52 GMT | Advanced Cyber Security Course In Dehradun with AI | Brillica Services | [Read More](https://medium.com/p/9f9447eb2d9c) |
+| Sat, 07 Mar 2026 06:23:31 GMT | Forensics & Steganography Challenges — CTF Writeups | Santhosh Kumar R | [Read More](https://medium.com/p/0f71112ddf4a) |
+| Sat, 07 Mar 2026 06:17:27 GMT | From DNS Queries to C2: A Real SOC Investigation | InsideTheSOC | [Read More](https://medium.com/p/8577cdd42cfb) |
+| Sat, 07 Mar 2026 06:04:09 GMT | Cybersecurity in 2026: What You Need to Know | Anders wisdom | [Read More](https://medium.com/p/03ade2631f75) |
+| Sat, 07 Mar 2026 06:01:00 GMT | China’s Expanding Nuclear Fleet Could Target the U.S. | Geopolitics / Economy / Technology | [Read More](https://medium.com/p/856963f9099b) |
+| Sat, 07 Mar 2026 05:54:57 GMT | Evil Twin Attacks in Enterprise Networks | Cynox Security LLP. | [Read More](https://medium.com/p/2364bb63b459) |
 | Sat, 07 Mar 2026 05:36:00 GMT | Stop Enabling Every AWS Security Service | Sena Yakut | [Read More](https://medium.com/p/fb171635a25c) |
 | Sat, 07 Mar 2026 05:32:34 GMT | Cyber Security Course in Kerala with Pen Testing & DDoS Coaching | Munaveernesa | [Read More](https://medium.com/p/d69b61fc897c) |
 | Sat, 07 Mar 2026 05:25:48 GMT | picoCTF — Event-Viewing | Shiro | [Read More](https://medium.com/p/06989886c3c5) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Mar 2026 20:22:09 GMT | Penetration Testing Android Pada aplikasi AndroidGoat | Firmansyahfebi | [Read More](https://medium.com/p/6c05abaef8b7) |
 | Fri, 06 Mar 2026 20:19:48 GMT | Red Team Checklist: Web Server Initial Access Part — 01 | Cybernaumad | [Read More](https://medium.com/p/fefca162f636) |
 | Fri, 06 Mar 2026 20:18:07 GMT | Cybersecurity Is a Leadership Issue Not Just an IT Problem | Dr Kimma Wreh | [Read More](https://medium.com/p/24b7d4d38589) |
-| Fri, 06 Mar 2026 20:17:18 GMT | I don’t want a weak spot | StillVoice | [Read More](https://medium.com/p/c3e3a797071f) |
-| Fri, 06 Mar 2026 20:15:42 GMT | Full CRUD With Low Privileges: RBAC Misconfigurations and the Dark Side of Bug Bounty | Muhammad Wageh | [Read More](https://medium.com/p/de055217e612) |
-| Fri, 06 Mar 2026 20:15:33 GMT | Linux Server Best Practices | Fabius lihanda | [Read More](https://medium.com/p/12324813d627) |
-| Fri, 06 Mar 2026 20:12:30 GMT | Exploring Cybersecurity with Nova Cybersecurity Lab Game | Daria Korsun | [Read More](https://medium.com/p/67023edaac2a) |
-| Fri, 06 Mar 2026 20:10:30 GMT | O cliente não fala CVE | Holzweg | [Read More](https://medium.com/p/7d45ed7999b6) |
-| Fri, 06 Mar 2026 20:06:38 GMT | FUNBOX SCRIPT KIDDIE WALKTHROUGH USING FTP VULNERABILITY | Yash naik | [Read More](https://medium.com/p/853b7eca88ae) |
-| Fri, 06 Mar 2026 20:03:55 GMT | What happens when you are not used to receiving? | Big general Podcast | [Read More](https://medium.com/p/bcec37030de8) |
-| Fri, 06 Mar 2026 20:01:01 GMT | Scanning Images for Vulnerabilities in Snowpark Container Services | Vladimir Timofeenko | [Read More](https://medium.com/p/cc85ca34957f) |
-| Fri, 06 Mar 2026 19:40:50 GMT | IDOR: The Phone Number That Speaks Everyone’s Secrets | Anandhan | [Read More](https://medium.com/p/a6f97f381cd0) |
-| Fri, 06 Mar 2026 19:37:30 GMT | The Name of War, the Limits of Solidarity | Gökçen Kunukcu | [Read More](https://medium.com/p/86ca0c2c53f6) |
-| Fri, 06 Mar 2026 19:36:50 GMT | Memahami Routing Jaringan: Duel Klasik OSPF vs RIP dan Cara Kerja Algoritmanya | Luqman | [Read More](https://medium.com/p/28a576d498c4) |
-| Fri, 06 Mar 2026 19:32:38 GMT | How I Exposed My Local Services to the Internet Using Cloudflare Tunnel | Ram Singh Panwar | [Read More](https://medium.com/p/bb8a69e84f08) |
-| Fri, 06 Mar 2026 19:32:31 GMT | Görünmeyenin Tehlikesi: CVE-2021–22204, Metadata Manipülasyonu ve RCE | Erdem Ceylan | [Read More](https://medium.com/p/fe5fa0ffdd50) |
-| Fri, 06 Mar 2026 19:31:39 GMT | Sistemas operacionais para Analistas de Segurança | Alex Feleol | [Read More](https://medium.com/p/7dd5cb1eac21) |
