@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Mar 2026 21:37:45 GMT | Vibe Coding Is Eating Your Security. And Most Developers Haven’t Noticed Yet. | Tech Trends by Tähīr | [Read More](https://medium.com/p/0e7e8ee624e5) |
+| Sat, 07 Mar 2026 21:37:36 GMT | CVE-2025–29969: When “Event Log Backup” Becomes a Remote Write Primitive | Iliasarmenakis | [Read More](https://medium.com/p/784680e04e8f) |
+| Sat, 07 Mar 2026 21:37:06 GMT | Creating a Bayesian Behavioral Detector in Google SecOps (pt 2) | Greg Kushmerek | [Read More](https://medium.com/p/7cf05aaacddf) |
+| Sat, 07 Mar 2026 21:34:51 GMT | AI in the Middle: When Your “Helpful Assistant” Becomes the Attacker’s Relay | Iliasarmenakis | [Read More](https://medium.com/p/31d8a7ebb23c) |
+| Sat, 07 Mar 2026 21:30:26 GMT | Shodan: Exposing the Internet’s Hidden Devices | Sarah Qym | [Read More](https://medium.com/p/4b09ce2848c4) |
+| Sat, 07 Mar 2026 21:28:03 GMT | Overcoming the “Contributor” Trap: Implementing Least Privilege Custom Roles in Azure Data Factory | Siva Pinnaka | [Read More](https://medium.com/p/1e0d3da84ba6) |
 | Sat, 07 Mar 2026 21:12:24 GMT | Building a Centralized Windows Log Forwarding Pipeline with Winlogbeat, Logstash, Elasticsearch… | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/0817b2298579) |
 | Sat, 07 Mar 2026 21:08:05 GMT | Building a Security Monitoring Stack: Integrating Any Tool with Elasticsearch Using Docker | VampireXRay | [Read More](https://medium.com/p/0a3e0c8cbc93) |
 | Sat, 07 Mar 2026 21:06:58 GMT | Görünmezin Peşinde: Bant Dışı XSS (OOB-XSS) ve Zafiyetli Sistemlerin Domino Etkisi | Erdem Ceylan | [Read More](https://medium.com/p/be8172818bcd) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 15:07:05 GMT | How Claude Opus 4.6 Discovered 22 CVEs in the World’s Most Tested Browser | Tanmay Deshpande | [Read More](https://medium.com/p/af6f8bcb53c9) |
 | Sat, 07 Mar 2026 15:01:01 GMT | Crecen las advertencias sobre posibles ciberataques en medio del conflicto bélico en Medio Oriente | Tiziano Mass | [Read More](https://medium.com/p/409abd1c81f2) |
 | Sat, 07 Mar 2026 14:34:39 GMT | Cracking CrackIt(crackmes.one): A Step-by-Step Reverse Engineering Walkthrough | an0th3rh4ck | [Read More](https://medium.com/p/59db8043e4a4) |
-| Sat, 07 Mar 2026 14:32:41 GMT | Understanding Networking Basics (A Beginner Friendly Guide) | Zahid (Cybersecurity Student) | [Read More](https://medium.com/p/d6b7d176a029) |
-| Sat, 07 Mar 2026 14:32:09 GMT | Cyber Defense and Optical Laser Communications: The Next Generation of Space Stations and… | Rodrigo Rivera Vidal | [Read More](https://medium.com/p/45a87e8d6318) |
-| Sat, 07 Mar 2026 14:31:22 GMT | Networking Basics: Nmap & tcpdump | Mdporschaa | [Read More](https://medium.com/p/fdc4c587b910) |
-| Sat, 07 Mar 2026 14:31:00 GMT | Win Back Your Ex After an Emotional Breakup | Dancemi Clare | [Read More](https://medium.com/p/18931e9f9b52) |
-| Sat, 07 Mar 2026 14:27:26 GMT | Side-Channel Attacks Explained: How Physical Leakage Breaks Cryptographic Systems | Vijayalakshmi Datascience | [Read More](https://medium.com/p/19f47d2e9a4b) |
-| Sat, 07 Mar 2026 14:19:08 GMT | Daniel Rigmaiden: The Tax Fraud Hacker Who Exposed FBI Stingray Surveillance from His Jail Cell | Abel | [Read More](https://medium.com/p/993a5831e7bb) |
