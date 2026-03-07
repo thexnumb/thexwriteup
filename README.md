@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Mar 2026 22:20:25 GMT | Cryptography in DRM: What It Actually Does | Luis Santiago | [Read More](https://medium.com/p/376738e059d4) |
+| Sat, 07 Mar 2026 22:11:31 GMT | Adversary Consolidation: Per-Host Attack Intensity Doubles in February 2026 | Px Mx | [Read More](https://medium.com/p/626c5cd9a163) |
+| Sat, 07 Mar 2026 22:01:00 GMT | SAML Authentication | Rhea Gupta | [Read More](https://medium.com/p/a98971e1fb17) |
+| Sat, 07 Mar 2026 22:01:00 GMT | Unfiltered Restart — Day 20: Core 1 Exam Day | Maximillian Rueda | [Read More](https://medium.com/p/88899b3edaf4) |
 | Sat, 07 Mar 2026 21:37:45 GMT | Vibe Coding Is Eating Your Security. And Most Developers Haven’t Noticed Yet. | Tech Trends by Tähīr | [Read More](https://medium.com/p/0e7e8ee624e5) |
 | Sat, 07 Mar 2026 21:37:36 GMT | CVE-2025–29969: When “Event Log Backup” Becomes a Remote Write Primitive | Iliasarmenakis | [Read More](https://medium.com/p/784680e04e8f) |
 | Sat, 07 Mar 2026 21:37:06 GMT | Creating a Bayesian Behavioral Detector in Google SecOps (pt 2) | Greg Kushmerek | [Read More](https://medium.com/p/7cf05aaacddf) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 15:18:36 GMT | Can Cyber Security Be Learned Since High School? | Joko Sampurno | [Read More](https://medium.com/p/df2a8eca1cb0) |
 | Sat, 07 Mar 2026 15:13:10 GMT | Cybersecurity in the Digital Age:-Protecting Your Business and Data | Shanafzal | [Read More](https://medium.com/p/92292b2f413f) |
 | Sat, 07 Mar 2026 15:08:57 GMT | CyberDefenders: PsExec (Analisis Pergerakan Lateral Attacker) | Dixtroiza | [Read More](https://medium.com/p/8486048aa7c8) |
-| Sat, 07 Mar 2026 15:08:04 GMT | Evil Twin Attacks in Enterprise Networks | Cynox Security LLP. | [Read More](https://medium.com/p/ade477b81bd5) |
-| Sat, 07 Mar 2026 15:07:05 GMT | How Claude Opus 4.6 Discovered 22 CVEs in the World’s Most Tested Browser | Tanmay Deshpande | [Read More](https://medium.com/p/af6f8bcb53c9) |
-| Sat, 07 Mar 2026 15:01:01 GMT | Crecen las advertencias sobre posibles ciberataques en medio del conflicto bélico en Medio Oriente | Tiziano Mass | [Read More](https://medium.com/p/409abd1c81f2) |
-| Sat, 07 Mar 2026 14:34:39 GMT | Cracking CrackIt(crackmes.one): A Step-by-Step Reverse Engineering Walkthrough | an0th3rh4ck | [Read More](https://medium.com/p/59db8043e4a4) |
