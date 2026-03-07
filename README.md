@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Mar 2026 07:19:46 GMT | Top 10 Windows Event IDs Every SOC Analyst Should Know (With Splunk Examples) | Rajan | [Read More](https://medium.com/p/9ce4c500c9df) |
+| Sat, 07 Mar 2026 07:19:05 GMT | FUNBOX ROOKIE VIRTUAL MACHINE | Kalechandrakant | [Read More](https://medium.com/p/d57f564993a2) |
+| Sat, 07 Mar 2026 07:16:07 GMT | PCI DSS Is Where Fintech Fantasy Meets Operational Reality | Fintech By Tanu | [Read More](https://medium.com/p/96d472e8be2c) |
+| Sat, 07 Mar 2026 07:15:27 GMT | What is AWS Identity and Access Management (IAM)? | Srushti Thakare | [Read More](https://medium.com/p/6a8359bcd73f) |
+| Sat, 07 Mar 2026 07:14:20 GMT | Which Cyber Security Course is Best After 12th? Complete Guide | cyber security Updates | [Read More](https://medium.com/p/c451f7b06df8) |
+| Sat, 07 Mar 2026 07:07:03 GMT | Write-Up: Attacktive Directory - TryHackMe | Zarradobe | [Read More](https://medium.com/p/e00411e58e0a) |
+| Sat, 07 Mar 2026 07:04:11 GMT | Rain Down the Music — Rockstar Language Challenge (Writeups) | Santhosh Kumar R | [Read More](https://medium.com/p/19f4b0568c6a) |
+| Sat, 07 Mar 2026 06:55:30 GMT | What Hackers Actually Do After They Breach a System (Step-by-Step) | Mukhtarabdul | [Read More](https://medium.com/p/8ed8c74375b5) |
+| Sat, 07 Mar 2026 06:54:37 GMT | How to Study for the CISSP Certificate: Tips & Tricks | Irfan Sharief | [Read More](https://medium.com/p/8c1cd5d67f51) |
 | Sat, 07 Mar 2026 06:48:31 GMT | Uncovering Origin IPs with “CloudFail”: What’s Hiding Behind Cloudflare? | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/71abfafc323f) |
 | Sat, 07 Mar 2026 06:48:26 GMT | Cyber Kill Chain 1.2: A Detailed Guide to Active Information Gathering with Nmap | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/6dcfad8aab3d) |
 | Sat, 07 Mar 2026 06:47:40 GMT | Funbox Rookie CTF Walkthrough (Step-by-Step) - Ethical Hacking Practice | Pavankolkar | [Read More](https://medium.com/p/fc935de6cde6) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Mar 2026 20:52:59 GMT | VulnNet Active TryHackMe Writeup | phantom_hat | [Read More](https://medium.com/p/341e0835ca73) |
 | Fri, 06 Mar 2026 20:43:27 GMT | Red Team Checklist: Web Server Initial Access Part — 02 (Last Part) | Cybernaumad | [Read More](https://medium.com/p/c74ac3a7b37a) |
 | Fri, 06 Mar 2026 20:42:16 GMT | Lab: Stored DOM XSS | mayhack | [Read More](https://medium.com/p/ef6a33c19622) |
-| Fri, 06 Mar 2026 20:37:28 GMT | Initial Access Series 1 : Infrastructure Setup for Phishing-to-C2 Lab | redteamblog101 | [Read More](https://medium.com/p/cf7f51a7ee10) |
-| Fri, 06 Mar 2026 20:36:09 GMT | Ransomware 2025: The Year Cybercrime Became a $57 Billion Industry | Ahmed Fouad Kadhim | [Read More](https://medium.com/p/977d023fec1a) |
-| Fri, 06 Mar 2026 20:31:23 GMT | A Chrome AI Feature Could’ve Let Extensions Spy on Your Camera, Mic & Files (CVE-2026–0628… | Subhan Ali | [Read More](https://medium.com/p/8901e1d8b70a) |
-| Fri, 06 Mar 2026 20:29:18 GMT | PwnSec CTF 2025 Mobile — RudeFrida | Mohannad Handoumeh | [Read More](https://medium.com/p/8356fcf69264) |
-| Fri, 06 Mar 2026 20:26:51 GMT | AI-Powered Hacking: How Hackers Weaponized AI in 2025 | Ahmed Fouad Kadhim | [Read More](https://medium.com/p/c9c2548ea9a1) |
-| Fri, 06 Mar 2026 20:24:27 GMT | Google Confirms Trio Of Critical Chrome Security Vulnerabilities | Moni | [Read More](https://medium.com/p/346a275a8d98) |
-| Fri, 06 Mar 2026 20:22:09 GMT | Penetration Testing Android Pada aplikasi AndroidGoat | Firmansyahfebi | [Read More](https://medium.com/p/6c05abaef8b7) |
-| Fri, 06 Mar 2026 20:19:48 GMT | Red Team Checklist: Web Server Initial Access Part — 01 | Cybernaumad | [Read More](https://medium.com/p/fefca162f636) |
-| Fri, 06 Mar 2026 20:18:07 GMT | Cybersecurity Is a Leadership Issue Not Just an IT Problem | Dr Kimma Wreh | [Read More](https://medium.com/p/24b7d4d38589) |
