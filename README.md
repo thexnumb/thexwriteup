@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Mar 2026 23:12:50 GMT | Breaking Systems to Secure Them: The Intersection of Cloud, Security, and Human Error | OTHMANE EL MQIDDEM | [Read More](https://medium.com/p/df1c7130ef39) |
+| Sat, 07 Mar 2026 23:12:28 GMT | Day 19 : SOC Team Internals Tryhackme | Cybersecurity with Jojo | [Read More](https://medium.com/p/999062431924) |
+| Sat, 07 Mar 2026 23:12:25 GMT | Reentrancy Explained for Beginners | Abraham | [Read More](https://medium.com/p/7847ca61cf8d) |
+| Sat, 07 Mar 2026 23:02:38 GMT | How I Accessed Google’s Internal AI Models via a Consumer Gmail Account | hamza | [Read More](https://medium.com/p/56dbb62f2d54) |
+| Sat, 07 Mar 2026 22:52:58 GMT | Best Skills to Learn in 2026 and How to Master Them until You head into your First Job | Waled CH | [Read More](https://medium.com/p/c1b2344130b2) |
 | Sat, 07 Mar 2026 22:38:19 GMT | ExpressWay writeup (HackTheBox) | 7s26Simon | [Read More](https://medium.com/p/8d1385c9bfce) |
 | Sat, 07 Mar 2026 22:28:49 GMT | TryHackMe SOC Analyst Road Map Part-7 | safa kaya | [Read More](https://medium.com/p/512ac9149948) |
 | Sat, 07 Mar 2026 22:27:12 GMT | Perfectly Secret Encryption Explained: Why “Scrambling” Isn’t Security | Adidev Bhattacharya | [Read More](https://medium.com/p/746b200c9c73) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 15:35:30 GMT | Common Vulnerabilities | Aniket Deshmukh | [Read More](https://medium.com/p/bdb0ee0c4641) |
 | Sat, 07 Mar 2026 15:31:01 GMT | It’s Just a Picture. Or Is It? | Ethics In Beta | [Read More](https://medium.com/p/8499df34feca) |
 | Sat, 07 Mar 2026 15:30:55 GMT | CyberGenics 2025 Year in Review: ปีที่พิสูจน์ตัวเอง — และ 2026 ที่จะไปไกลกว่าเดิม | Attaphon Phayak | [Read More](https://medium.com/p/6637f311b3ea) |
-| Sat, 07 Mar 2026 15:28:30 GMT | Merkle Tree Certificates and the Evolution of Internet Trust | James Moody | [Read More](https://medium.com/p/f06b5648ac6f) |
-| Sat, 07 Mar 2026 15:24:42 GMT | Why AI Agents Are Becoming the Most Dangerous Identities in Your Organization | Sunnysinha | [Read More](https://medium.com/p/1aeb26fb551e) |
-| Sat, 07 Mar 2026 15:24:41 GMT | The Tool That Explains Any Shell Command | Cybersphere Official | [Read More](https://medium.com/p/d7a95d7aacdb) |
-| Sat, 07 Mar 2026 15:24:32 GMT | Investigating with Splunk TryHackMe Writeup | Kavusan Yesuraja | [Read More](https://medium.com/p/5b9e45042975) |
-| Sat, 07 Mar 2026 15:22:24 GMT | ItsyBitsy TryHackMe Writeup | Kavusan Yesuraja | [Read More](https://medium.com/p/be566da5b695) |
