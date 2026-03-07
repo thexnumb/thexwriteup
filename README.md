@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Mar 2026 11:10:59 GMT | Learning Hacking and Cyber Security Now Compared to 10 years ago | Cyb0rgBytes | [Read More](https://medium.com/p/eebd596fd59b) |
+| Sat, 07 Mar 2026 11:06:45 GMT | OpenAI Introduces Codex Security to Detect and Fix Software Vulnerabilities | Jas | [Read More](https://medium.com/p/ded28cb2c597) |
+| Sat, 07 Mar 2026 11:05:03 GMT | Top 10 API Security and Vulnerabilities | Charles Ikulayo - Senior Software Engineer | [Read More](https://medium.com/p/d37d906b441b) |
+| Sat, 07 Mar 2026 10:43:54 GMT | Affordable Web Design Cape Town: A Smart Investment for Your Business | Ava Jones | [Read More](https://medium.com/p/9a7c6887678c) |
 | Sat, 07 Mar 2026 10:42:28 GMT | TryHackMe MD2PDF Write-up — Exploiting Markdown to PDF for SSRF | MAIMO HARRIS | [Read More](https://medium.com/p/e8b6cba0b557) |
 | Sat, 07 Mar 2026 10:34:42 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/4c49e416a1f2) |
 | Sat, 07 Mar 2026 10:07:29 GMT | How CTF Challenges Help You Think Like a Hacker | Alex Carter | [Read More](https://medium.com/p/0df20656da59) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 02:38:54 GMT | # AI can speed up defenders in Firefox security work | JakkHackJP | [Read More](https://medium.com/p/361b57c239ac) |
 | Sat, 07 Mar 2026 02:26:49 GMT | PNPT Privilege Escalation (PrivEsc) Cheat Sheet | jaejun835 | [Read More](https://medium.com/p/ad5c6d49f53e) |
 | Sat, 07 Mar 2026 02:12:51 GMT | Nemu Data Sensitif Terbuka di Internet? | Raja Muhammad Kurnia Setyawan | [Read More](https://medium.com/p/48b4e1b60ad8) |
-| Sat, 07 Mar 2026 02:04:03 GMT | Lock Down Your Angular Routes: Auth Guards with OIDC in 5 Minutes | Fuji Nguyen | [Read More](https://medium.com/p/fc48d2766da8) |
-| Sat, 07 Mar 2026 02:00:50 GMT | How I Bypassed a Paid Feature Using Just Browser DevTools | Rahul Masal | [Read More](https://medium.com/p/376af537950f) |
-| Sat, 07 Mar 2026 01:58:40 GMT | When People Realize a Scam Was Real, the First Question Usually Isn’t “How?” | ScamAnalysis | [Read More](https://medium.com/p/d40c9cc24fd6) |
-| Sat, 07 Mar 2026 01:49:13 GMT | Write-Up: AD Basic Enumeration - TryHackMe | Zarradobe | [Read More](https://medium.com/p/7c4082608099) |
