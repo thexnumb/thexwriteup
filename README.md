@@ -12,8 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Mar 2026 05:20:09 GMT | The Networking-Cyber Linkage | Kiiza | [Read More](https://medium.com/p/929777fef853) |
+| Sat, 07 Mar 2026 05:19:10 GMT | Shielding Vital Data from Evolving Digital Attacks in UAE | Tekhabeeb | [Read More](https://medium.com/p/cf8fbbe5254a) |
+| Sat, 07 Mar 2026 05:11:39 GMT | Decoding SSL, TLS, and HTTPS: The 2026 Ultimate Guide | Vivek Kumar Sinha | [Read More](https://medium.com/p/07799372d997) |
+| Sat, 07 Mar 2026 04:59:34 GMT | Building a Multi-Graph Math Engine with LangGraph: Local + Remote Graphs in Action | Alexander Machekhin | [Read More](https://medium.com/p/d7f30cee1864) |
+| Sat, 07 Mar 2026 04:49:23 GMT | CyberDefenders — PsExec Hunt | 0w0 | [Read More](https://medium.com/p/35b4e6c80fc0) |
+| Sat, 07 Mar 2026 04:25:23 GMT | HTB Mirai: Default Creds, Pi-hole & USB Forensics | Onurcan Genç | [Read More](https://medium.com/p/aad5e45a6116) |
 | Sat, 07 Mar 2026 04:09:52 GMT | Threat Intelligence Investigation — Dropbox Phishing Domain Analysis | Karim roshdy | [Read More](https://medium.com/p/372d8f17ffcf) |
+| Sat, 07 Mar 2026 04:07:44 GMT | Lenovo charger | Laptopgiant | [Read More](https://medium.com/p/dbd57c66c42d) |
 | Sat, 07 Mar 2026 04:06:09 GMT | How I Used Reflected XSS + CORS to Get 1-Click OAuth Misconfiguration | Muhammed Mubarak | [Read More](https://medium.com/p/82088e94c96c) |
+| Sat, 07 Mar 2026 04:04:53 GMT | Microsoft’s February 2026 Tech Updates: What Businesses Should Know | Aditi | [Read More](https://medium.com/p/71131a45e665) |
+| Sat, 07 Mar 2026 04:03:16 GMT | AiTM and the Adversarial Operations Framework | Joshua Goossen | [Read More](https://medium.com/p/7b6f54f5bf18) |
 | Sat, 07 Mar 2026 04:01:40 GMT | The Role of AI in SOC and VAPT | Antonyrajvedamanickam | [Read More](https://medium.com/p/e9681ca062db) |
 | Sat, 07 Mar 2026 03:56:28 GMT | Steel Mountain: Exploiting HFS and Escalating to SYSTEM on Windows | Robert Perez | [Read More](https://medium.com/p/11851e71e650) |
 | Sat, 07 Mar 2026 03:53:42 GMT | Day 17 : I sent money from an account that wasn’t mine;) | Issan | [Read More](https://medium.com/p/ed91e3bcf3e3) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 06 Mar 2026 19:25:46 GMT | Regional Multipolarity in the Middle East | Gökçen Şahin | [Read More](https://medium.com/p/a569d9e0aea5) |
 | Fri, 06 Mar 2026 19:25:32 GMT | Cybersecurity Consulting, Cyber Security Consulting, and Cybersecurity Services: How CyberSecOp… | Jeffery Walker | [Read More](https://medium.com/p/23694beee8bb) |
 | Fri, 06 Mar 2026 19:19:43 GMT | Your CI Pipeline Is Blocking the Wrong Deployments | André Ataíde | [Read More](https://medium.com/p/b6e193f7459c) |
-| Fri, 06 Mar 2026 19:18:55 GMT | Bug Bounty Recon vs Pentesting Recon: Why the Same Techniques Follow Very Different Rules | ghostyjoe | [Read More](https://medium.com/p/e2da90f2d16d) |
-| Fri, 06 Mar 2026 19:13:38 GMT | I Tried a Simple Redirect Test… and Found a Filter Bypass - Cyber Tamarin | Cyber Tamarin | [Read More](https://medium.com/p/28f5b548f486) |
-| Fri, 06 Mar 2026 19:08:57 GMT | Proving Grounds Practice — Resourced (part 1) | SilentExploit | [Read More](https://medium.com/p/bfca8a0c696b) |
-| Fri, 06 Mar 2026 19:06:57 GMT | 295% Uninstall Surge: Why the World is Ditching ChatGPT for Claude | Aaron | [Read More](https://medium.com/p/cba6d576dcd3) |
-| Fri, 06 Mar 2026 19:00:02 GMT | A pentest of the Teckin Click wifi camera (SquashFS 4.0 reflash modification) | Ianbokcho | [Read More](https://medium.com/p/afe799570fa3) |
-| Fri, 06 Mar 2026 18:56:01 GMT | EU GDPR — Article 30 (Records of Processing Activities) | MDM Team | [Read More](https://medium.com/p/e6f6f4d0eba5) |
-| Fri, 06 Mar 2026 18:47:16 GMT | Washington’s New Cyber Strategy on China: Tough Talk, Weak Armor | CCD-IS | [Read More](https://medium.com/p/632a3f1ddd7e) |
-| Fri, 06 Mar 2026 18:44:03 GMT | The Principle of Least Privilege: Reducing Risk Through Controlled Access | Wilfriedpanol | [Read More](https://medium.com/p/5cd6e4bd7da2) |
-| Fri, 06 Mar 2026 18:42:55 GMT | Week 1: Information Gathering & Networking Fundamentals | Manveer Singh | [Read More](https://medium.com/p/93fbcfa1d719) |
