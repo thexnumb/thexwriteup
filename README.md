@@ -12,7 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Mar 2026 17:08:52 GMT | Finding a Critical Authorization Flaw That Allowed Deleting Any User Account | Shir0E | [Read More](https://medium.com/p/846eb5af9dda) |
+| Sat, 07 Mar 2026 17:08:45 GMT | TryHackMe Ice Walkthrough - Exploiting a Vulnerable Icecast Server | Rajeesh R L | [Read More](https://medium.com/p/1d07e71e86a2) |
+| Sat, 07 Mar 2026 17:07:09 GMT | The No-Code Security Paradox: Why the Most Dangerous Ethical Hackers Are Now Building Workflows… | R.H Rizvi | [Read More](https://medium.com/p/7de7fa3b537d) |
+| Sat, 07 Mar 2026 17:07:01 GMT | The Bug Bounty Automation Trap: Why the Hunters Finding the Most Vulnerabilities Are Running Fewer… | R.H Rizvi | [Read More](https://medium.com/p/50cd02b07f3a) |
+| Sat, 07 Mar 2026 17:03:41 GMT | Obfuscation — The Egg Shell File | Girija | [Read More](https://medium.com/p/8e060959c01f) |
+| Sat, 07 Mar 2026 17:03:11 GMT | 4 Dangerous Active Directory Misconfigurations Attackers Exploit Every Day | Kotra Amitha | [Read More](https://medium.com/p/ac779dcb1fe7) |
+| Sat, 07 Mar 2026 17:02:31 GMT | Beyond IT: Applying IDS to Automotive CAN Bus Networks | Greivin Sanchez | [Read More](https://medium.com/p/f28eec6571db) |
+| Sat, 07 Mar 2026 17:00:46 GMT | Pay less. Learn faster. Work sooner. | Theusamaabdullah | [Read More](https://medium.com/p/e84dc0568ae1) |
+| Sat, 07 Mar 2026 16:51:00 GMT | 5 Habits That Lead to a Lonely Retirement — Every Woman Must Break These Now | Elaine Ford | [Read More](https://medium.com/p/8dfa3de51038) |
+| Sat, 07 Mar 2026 16:39:11 GMT | The Iceberg Series — Part 3: The Gap They Are Required to Keep | Berend Watchus | [Read More](https://medium.com/p/c23d608c0018) |
+| Sat, 07 Mar 2026 16:37:30 GMT | My First Week Learning Cybersecurity — What Actually Happened | Nivedhitha K S | [Read More](https://medium.com/p/9a102d639248) |
 | Sat, 07 Mar 2026 16:26:45 GMT | Hackviser Write-Up [EN/TR] — Manipulating Images with the HTML Attribute | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/6d85ac357a77) |
+| Sat, 07 Mar 2026 16:26:43 GMT | You Pressed Send | Francis Precious Wagonda | [Read More](https://medium.com/p/a69f1226f138) |
 | Sat, 07 Mar 2026 16:17:54 GMT | HTB Shocker: RCE via CGI-bin + Perl Privesc | Onurcan Genç | [Read More](https://medium.com/p/8e428ccd7b36) |
 | Sat, 07 Mar 2026 16:16:33 GMT | Is AI really a threat for humans, or are we exaggerating it? | Ibix18 | [Read More](https://medium.com/p/ea047edd178d) |
 | Sat, 07 Mar 2026 16:16:19 GMT | Write-Up CTF “Juicy Details “— TryHackMe | Thomas H | [Read More](https://medium.com/p/b5a8c4757be8) |
@@ -79,6 +91,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 12:08:45 GMT | DDoS Attack Prevention by Solve The Network | Tushar M Kumawat | [Read More](https://medium.com/p/4162fcf9bbc1) |
 | Sat, 07 Mar 2026 11:58:45 GMT | A Simple Honeypot Strategy for Detecting Web Scrapers | Freeze Francis | [Read More](https://medium.com/p/40eab1c9b00d) |
 | Sat, 07 Mar 2026 11:54:06 GMT | Iran’s Cyber War Has Already Begun And America’s Defenses Are Running on Fumes | Ajay Yadav | [Read More](https://medium.com/p/fd96aa96f49c) |
+| Sat, 07 Mar 2026 11:47:56 GMT | Discovering OSINT: A beginner’s journey into Open Source Intelligence | CosmicByte | [Read More](https://medium.com/p/e4633963f959) |
 | Sat, 07 Mar 2026 11:46:14 GMT | Elastic Stack: The Basics - TryHackMe Walkthrough | Nishasorallikar | [Read More](https://medium.com/p/642ebc35cc3c) |
 | Sat, 07 Mar 2026 11:35:06 GMT | STRIDE Threat Model | Kayisalprns | [Read More](https://medium.com/p/7eb8215c8298) |
 | Sat, 07 Mar 2026 11:28:35 GMT | TryHackMe AD: Basic Enumeration Writeup | Muhammad Luqmaan | [Read More](https://medium.com/p/2ebc95c2921e) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 10:34:42 GMT | Malloc Privacy Weekly | Malloc | [Read More](https://medium.com/p/4c49e416a1f2) |
 | Sat, 07 Mar 2026 10:07:29 GMT | How CTF Challenges Help You Think Like a Hacker | Alex Carter | [Read More](https://medium.com/p/0df20656da59) |
 | Sat, 07 Mar 2026 10:07:20 GMT | Introduction to Information Security: Mengapa Keamanan Informasi Penting? | Putri Damayanti | [Read More](https://medium.com/p/78aeadf122a0) |
-| Sat, 07 Mar 2026 10:07:09 GMT | The AI Arms Race: How 2026 Is Rewriting the Cybersecurity Playbook | Renjurnair | [Read More](https://medium.com/p/a09f73c662ca) |
-| Sat, 07 Mar 2026 10:06:35 GMT | Gatekeeping our Privacy | Glory | [Read More](https://medium.com/p/95fc78b47751) |
-| Sat, 07 Mar 2026 10:05:59 GMT | Is Someone Watching? How Hackers Access Your Security Cameras — and How to Stop Them | Jazz Cyber Shield | [Read More](https://medium.com/p/6ed54637c320) |
-| Sat, 07 Mar 2026 09:51:33 GMT | Top 10 Uses of Artificial Intelligence in Cybersecurity | EINITIAL24 | [Read More](https://medium.com/p/f8922aa703fe) |
-| Sat, 07 Mar 2026 09:50:28 GMT | Passive & Active Reconnaissance for Beginners: The Complete Guide - eJPT Part 1.1 | Shoaib Bin Rashid | [Read More](https://medium.com/p/8f989446fe7f) |
-| Sat, 07 Mar 2026 09:50:05 GMT | How can you make your main door smarter and safer without changing your whole home? | Discreet solution Pvt ltd | [Read More](https://medium.com/p/12a915804053) |
-| Sat, 07 Mar 2026 09:41:56 GMT | Best Antivirus Pro Software in 2026 — Features, Pricing & Download | Siyanoav | [Read More](https://medium.com/p/7227ce3a282d) |
-| Sat, 07 Mar 2026 09:19:19 GMT | External Penetration Testing Cheat Sheet — Part 1 | jaejun835 | [Read More](https://medium.com/p/6920b2585c20) |
-| Sat, 07 Mar 2026 09:17:33 GMT | Agents of Chaos | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/9ee2815f0375) |
-| Sat, 07 Mar 2026 09:12:11 GMT | EHAX CTF 2026 - Forensics | SirynShell | [Read More](https://medium.com/p/212db09a8bf0) |
-| Sat, 07 Mar 2026 09:08:45 GMT | Access, Disable, Destroy | Julien Simon | [Read More](https://medium.com/p/ca5ddffa230e) |
-| Sat, 07 Mar 2026 09:05:59 GMT | IMPORTANCE OF VIRTUAL LOCAL AREA NETWORKs(VLANs) IN MODERN NETWORK DESIGN | Favour Mulungi | [Read More](https://medium.com/p/1919bc705476) |
-| Sat, 07 Mar 2026 09:05:36 GMT | picoCTF Event Viewing | Dimas Adrian | [Read More](https://medium.com/p/2c3906d88c56) |
