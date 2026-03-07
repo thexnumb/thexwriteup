@@ -12,10 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Mar 2026 15:37:54 GMT | nickel walkthrough (proving ground-windows) | cyber_public_school | [Read More](https://medium.com/p/c0bf1661468b) |
+| Sat, 07 Mar 2026 15:35:30 GMT | Common Vulnerabilities | Aniket Deshmukh | [Read More](https://medium.com/p/bdb0ee0c4641) |
+| Sat, 07 Mar 2026 15:31:01 GMT | It’s Just a Picture. Or Is It? | Ethics In Beta | [Read More](https://medium.com/p/8499df34feca) |
+| Sat, 07 Mar 2026 15:30:55 GMT | CyberGenics 2025 Year in Review: ปีที่พิสูจน์ตัวเอง — และ 2026 ที่จะไปไกลกว่าเดิม | Attaphon Phayak | [Read More](https://medium.com/p/6637f311b3ea) |
+| Sat, 07 Mar 2026 15:28:30 GMT | Merkle Tree Certificates and the Evolution of Internet Trust | James Moody | [Read More](https://medium.com/p/f06b5648ac6f) |
 | Sat, 07 Mar 2026 15:24:42 GMT | Why AI Agents Are Becoming the Most Dangerous Identities in Your Organization | Sunnysinha | [Read More](https://medium.com/p/1aeb26fb551e) |
 | Sat, 07 Mar 2026 15:24:41 GMT | The Tool That Explains Any Shell Command | Cybersphere Official | [Read More](https://medium.com/p/d7a95d7aacdb) |
 | Sat, 07 Mar 2026 15:24:32 GMT | Investigating with Splunk TryHackMe Writeup | Kavusan Yesuraja | [Read More](https://medium.com/p/5b9e45042975) |
 | Sat, 07 Mar 2026 15:22:24 GMT | ItsyBitsy TryHackMe Writeup | Kavusan Yesuraja | [Read More](https://medium.com/p/be566da5b695) |
+| Sat, 07 Mar 2026 15:22:02 GMT | Your greatest fear might be a superpower | Bhee | [Read More](https://medium.com/p/de2c0698efae) |
 | Sat, 07 Mar 2026 15:18:36 GMT | Can Cyber Security Be Learned Since High School? | Joko Sampurno | [Read More](https://medium.com/p/df2a8eca1cb0) |
 | Sat, 07 Mar 2026 15:13:10 GMT | Cybersecurity in the Digital Age:-Protecting Your Business and Data | Shanafzal | [Read More](https://medium.com/p/92292b2f413f) |
 | Sat, 07 Mar 2026 15:08:57 GMT | CyberDefenders: PsExec (Analisis Pergerakan Lateral Attacker) | Dixtroiza | [Read More](https://medium.com/p/8486048aa7c8) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 08:34:25 GMT | Quishing Nedir? QR Phishing saldırısı nasıl gerçekleşir? ⚠️ | Mustafa YILMAZ | [Read More](https://medium.com/p/a435e48d4b55) |
 | Sat, 07 Mar 2026 08:30:10 GMT | Hire Security Guards Near Me — Professional Security Services for Complete Protection | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/9fbc1988282f) |
 | Sat, 07 Mar 2026 08:28:15 GMT | The Trust Model Is Changing. Most PKI Practitioners Are Not Ready. | James Moody | [Read More](https://medium.com/p/b619883cfe92) |
-| Sat, 07 Mar 2026 08:22:29 GMT | Gamerais 4444: A Dark Internet Past | Xaenos | [Read More](https://medium.com/p/ec496c8e40b9) |
-| Sat, 07 Mar 2026 08:22:14 GMT | Why a Strong Password Generator Is the Smartest Way to Protect Your Online Life in 2026 | Safia Begum | [Read More](https://medium.com/p/ad00053f73eb) |
-| Sat, 07 Mar 2026 08:09:01 GMT | Here’s What Claude Cowork and Codex are Actually Doing on your Machine. | Marco Kotrotsos | [Read More](https://medium.com/p/751eef4588c3) |
-| Sat, 07 Mar 2026 08:04:35 GMT | Instant Access for Users, Fast Integration for Developers | Anton Minin Baranovskii | [Read More](https://medium.com/p/9a5621f6a803) |
-| Sat, 07 Mar 2026 08:01:52 GMT | You Pressed Send | Franciswagonda | [Read More](https://medium.com/p/31eb69851b63) |
-| Sat, 07 Mar 2026 08:01:48 GMT | Manual vs Automated Certificate Management | PrimeSSL Certificate | [Read More](https://medium.com/p/ad68a6c28075) |
