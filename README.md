@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Mar 2026 21:12:24 GMT | Building a Centralized Windows Log Forwarding Pipeline with Winlogbeat, Logstash, Elasticsearch… | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/0817b2298579) |
+| Sat, 07 Mar 2026 21:08:05 GMT | Building a Security Monitoring Stack: Integrating Any Tool with Elasticsearch Using Docker | VampireXRay | [Read More](https://medium.com/p/0a3e0c8cbc93) |
+| Sat, 07 Mar 2026 21:06:58 GMT | Görünmezin Peşinde: Bant Dışı XSS (OOB-XSS) ve Zafiyetli Sistemlerin Domino Etkisi | Erdem Ceylan | [Read More](https://medium.com/p/be8172818bcd) |
+| Sat, 07 Mar 2026 21:03:43 GMT | Beyond the Perimeter: How Darkmap Helps in Threat Intelligence for the Modern Investigator | Darkmap Osint | [Read More](https://medium.com/p/7d6b052a537e) |
+| Sat, 07 Mar 2026 21:00:27 GMT | Iranian APT Seedworm: Active Operations on U.S. Networks — March 2026 Threat Intelligence Bulletin | Parminder Kumar Sharma | [Read More](https://medium.com/p/7e6ac7e1b578) |
+| Sat, 07 Mar 2026 20:45:47 GMT | The Button That Sells Your Identity: What Really Happens When You 'Login with Google' | Alok | [Read More](https://medium.com/p/4d6cb08e02d0) |
+| Sat, 07 Mar 2026 20:43:33 GMT | The 9-Hour Fuse: 5 Surprising Realities of the Middle East’s New Digital Front | SOCFortress | [Read More](https://medium.com/p/f6f99be9b39c) |
 | Sat, 07 Mar 2026 20:38:29 GMT | Bastard — HTB Walkthrough | Hemantha Krishna Challa | [Read More](https://medium.com/p/eafa8b3eb2c2) |
 | Sat, 07 Mar 2026 20:38:13 GMT | Browser Forensics Just Got Way Easier — And It’s Free | Dean | [Read More](https://medium.com/p/f5eed9264d94) |
 | Sat, 07 Mar 2026 20:37:19 GMT | Ditch the Subscriptions: Why You Should Build a Private Smart Home Security System | NextGen Tech Press | [Read More](https://medium.com/p/f19f8d73acd0) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 14:31:00 GMT | Win Back Your Ex After an Emotional Breakup | Dancemi Clare | [Read More](https://medium.com/p/18931e9f9b52) |
 | Sat, 07 Mar 2026 14:27:26 GMT | Side-Channel Attacks Explained: How Physical Leakage Breaks Cryptographic Systems | Vijayalakshmi Datascience | [Read More](https://medium.com/p/19f47d2e9a4b) |
 | Sat, 07 Mar 2026 14:19:08 GMT | Daniel Rigmaiden: The Tax Fraud Hacker Who Exposed FBI Stingray Surveillance from His Jail Cell | Abel | [Read More](https://medium.com/p/993a5831e7bb) |
-| Sat, 07 Mar 2026 14:14:43 GMT | Comment devenir pentester en 2026 : guide complet pour débuter dans le hacking éthique | Dubois Mathieu | [Read More](https://medium.com/p/e4ff48b0293c) |
-| Sat, 07 Mar 2026 14:12:10 GMT | Solving a Bugforge Challenge — Exploiting Broken Access Control in Sokudo | Pranaya Shrestha | [Read More](https://medium.com/p/51360943ac17) |
-| Sat, 07 Mar 2026 14:04:04 GMT | How to Build a Cybersecurity Lab at Home: A Practical Guide for Beginners | Ferdi Edogawa | [Read More](https://medium.com/p/fe2a15b56606) |
-| Sat, 07 Mar 2026 14:03:02 GMT | Python ile SSH Brute Force Saldırılarını Tespit Etmek: Basit Bir Log Analizi Aracı | Erkin KASIM | [Read More](https://medium.com/p/51c2fe232d31) |
-| Sat, 07 Mar 2026 14:02:03 GMT | Day 20: DNS Logs & Their Value | Siddhesh Patil | [Read More](https://medium.com/p/bfe8a563b278) |
-| Sat, 07 Mar 2026 14:01:01 GMT | Threat Hunting for Web Attacks Web Shell Upload— LetsDefend [Part 1] | 0verRida | [Read More](https://medium.com/p/3d768dc6ebe1) |
-| Sat, 07 Mar 2026 14:00:26 GMT | Distroless Images, the musl Problem, and Why Chainguard Changes Everything | vu manh | [Read More](https://medium.com/p/0ca9562bd264) |
