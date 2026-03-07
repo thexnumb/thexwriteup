@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 07 Mar 2026 18:33:07 GMT | I punish myself and call it awareness. | noe | [Read More](https://medium.com/p/07efb64ef855) |
+| Sat, 07 Mar 2026 18:31:00 GMT | Hiding My Precious Mind | organic flow. | [Read More](https://medium.com/p/ee9ab2f0a4d5) |
+| Sat, 07 Mar 2026 18:26:59 GMT | Cybereason vs. DarkSide: Breaking Down the Ransomware That Thought It Was Untouchable | Pranav More | [Read More](https://medium.com/p/9239ba69ff79) |
+| Sat, 07 Mar 2026 18:26:01 GMT | EXPOSE- TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/e3e6833d50ac) |
+| Sat, 07 Mar 2026 18:23:35 GMT | Quantum Bilgisayarlar Şifrelemeyi Kırabilir mi? | Ali Yaşe | [Read More](https://medium.com/p/65f2c3822fc3) |
+| Sat, 07 Mar 2026 18:21:41 GMT | Architecting the Unbreakable: The 100% Hand-Coded Web3 Ecosystem by Ayamil Coders | 516 Hackers | [Read More](https://medium.com/p/4fa299685938) |
+| Sat, 07 Mar 2026 18:11:03 GMT | Bazı CTI Raporları Neden İşlevsiz ve 2026 Orta Doğu Tırmanışında Gerçekte Neler Oluyor? | Gökhan AYNACI | [Read More](https://medium.com/p/76dae0891b82) |
+| Sat, 07 Mar 2026 18:06:00 GMT | Scamming Scammers in My Free Time | Eniela P. Vela | [Read More](https://medium.com/p/a0975344cb03) |
+| Sat, 07 Mar 2026 17:57:43 GMT | Healthcare Supply Chain Under Cyber Siege: Lessons from the Cognizant TriZetto Data Breach | Chetan Seripally | [Read More](https://medium.com/p/ad595bf7dc3d) |
+| Sat, 07 Mar 2026 17:55:20 GMT | Salt Nedir ve Neden Parola Güvenliğinin En Önemli Parçasıdır? | Ali Yaşe | [Read More](https://medium.com/p/6d22599c1833) |
 | Sat, 07 Mar 2026 17:41:24 GMT | Data Centre Security in Warzone | S Sarswat | [Read More](https://medium.com/p/eb8c27b2e631) |
 | Sat, 07 Mar 2026 17:40:11 GMT | Trump tells Iran to surrender claiming its Airforce and navy are “gone” | Everclear | [Read More](https://medium.com/p/796d8fe5cc84) |
 | Sat, 07 Mar 2026 17:38:46 GMT | HackTheBox — Brutus Log Analysis | Dimas Adrian | [Read More](https://medium.com/p/dfcccc5ae6ce) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 11:54:06 GMT | Iran’s Cyber War Has Already Begun And America’s Defenses Are Running on Fumes | Ajay Yadav | [Read More](https://medium.com/p/fd96aa96f49c) |
 | Sat, 07 Mar 2026 11:47:56 GMT | Discovering OSINT: A beginner’s journey into Open Source Intelligence | CosmicByte | [Read More](https://medium.com/p/e4633963f959) |
 | Sat, 07 Mar 2026 11:46:14 GMT | Elastic Stack: The Basics - TryHackMe Walkthrough | Nishasorallikar | [Read More](https://medium.com/p/642ebc35cc3c) |
-| Sat, 07 Mar 2026 11:35:06 GMT | STRIDE Threat Model | Kayisalprns | [Read More](https://medium.com/p/7eb8215c8298) |
-| Sat, 07 Mar 2026 11:28:35 GMT | TryHackMe AD: Basic Enumeration Writeup | Muhammad Luqmaan | [Read More](https://medium.com/p/2ebc95c2921e) |
-| Sat, 07 Mar 2026 11:24:53 GMT | How Digital Platforms Improve Decision Making | Connecttly | [Read More](https://medium.com/p/33e6798b0127) |
-| Sat, 07 Mar 2026 11:23:36 GMT | Why Should You Upgrade Your Home With Electronic Security In 2026? | Ron William | [Read More](https://medium.com/p/327f7304d8c8) |
-| Sat, 07 Mar 2026 11:21:00 GMT | Future of Cyber Defense: Strategic Security Models for Organizations | Omer Akin | [Read More](https://medium.com/p/4dd1350b8a6d) |
-| Sat, 07 Mar 2026 11:19:03 GMT | AI: The Villian and the Hero of Cybersecurity | Rinu M J | [Read More](https://medium.com/p/39480e7a2dc3) |
-| Sat, 07 Mar 2026 11:18:10 GMT | BLE Security Vulnerabilities Every Android Developer Is Ignoring (And How to Fix Them) | BLE Advertiser | [Read More](https://medium.com/p/4ed6b2ce451e) |
-| Sat, 07 Mar 2026 11:16:00 GMT | Could Our Conflict With Iran Turn Into a Cyber War? | Rick Gregson | [Read More](https://medium.com/p/c8368cf7846c) |
-| Sat, 07 Mar 2026 11:15:17 GMT | Codex Security and the New Standard for AI Cybersecurity - A Practitioner’s Perspective | Aakash Rahsi | [Read More](https://medium.com/p/c225411992f7) |
-| Sat, 07 Mar 2026 11:15:06 GMT | CTI Research: Sandworm / APT44 | Andrey Pautov | [Read More](https://medium.com/p/649332e8af44) |
