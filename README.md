@@ -12,7 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Mar 2026 23:16:45 GMT | BlackArch Linux: A Security Distribution Built for Those Who Already Know What They Are Doing | Rehimovmahmud | [Read More](https://medium.com/p/baef8c9a0a4f) |
+| Sun, 08 Mar 2026 23:16:17 GMT | Debian 12 — Researching ImageMagick Vulnerabilities discovered with Wazuh | Kenneth Davis | [Read More](https://medium.com/p/48ffe93dba52) |
+| Sun, 08 Mar 2026 23:07:10 GMT | SSH Enumeration in Penetration Testing | 7FINGER-KNIGHT-HACK | [Read More](https://medium.com/p/0b6681aa6960) |
+| Sun, 08 Mar 2026 23:05:30 GMT | How I Built a Python Network Scanner That Thinks Like an Attacker | Sanketh Subhas | [Read More](https://medium.com/p/ecac34b79784) |
+| Sun, 08 Mar 2026 23:04:12 GMT | Pentest na prática — Thales (parte 1) | Drifter | [Read More](https://medium.com/p/485828c542da) |
+| Sun, 08 Mar 2026 23:01:01 GMT | Blue Team Labs Online: Network Analysis — Web Shell Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/49c3729dc869) |
+| Sun, 08 Mar 2026 22:54:17 GMT | AI, IoT and the Human Factor: Rebuilding an Undocumented Enterprise Network | S Gokhman | [Read More](https://medium.com/p/4050600b2457) |
 | Sun, 08 Mar 2026 22:49:48 GMT | OTP / Verification Code Brute Force Vulnerability | Youssefelbakrey | [Read More](https://medium.com/p/43756b5f15ed) |
+| Sun, 08 Mar 2026 22:45:53 GMT | I Built a DevSecOps Pipeline From Scratch. Here’s What It Found. | Saniyabhaladhare | [Read More](https://medium.com/p/5022509cd9e4) |
 | Sun, 08 Mar 2026 22:44:54 GMT | AWS Security Cards: 54 Services, One Card Each | Tarek CHEIKH | [Read More](https://medium.com/p/24041204b520) |
 | Sun, 08 Mar 2026 22:27:05 GMT | The State of AWS Security 2026: Free Whitepaper, No Gate | Tarek CHEIKH | [Read More](https://medium.com/p/66eebc90d2d9) |
 | Sun, 08 Mar 2026 22:26:53 GMT | Global Data Infrastructure: How Data Centers and Undersea Cables Stay Secure Against Wars… | Syed Muhammad Irfan | [Read More](https://medium.com/p/aab8b52c1062) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Mar 2026 16:02:02 GMT | How I Analyzed Suspicious Files Using Static Analysis (Student Walkthrough) | znoobie | [Read More](https://medium.com/p/7472d579326d) |
 | Sun, 08 Mar 2026 16:01:02 GMT | ApoorvCTF Havok’s Cosmic Rings — Full Pwn Writeup | k45w4ra | [Read More](https://medium.com/p/c86135b1489a) |
 | Sun, 08 Mar 2026 16:00:10 GMT | 7. XS-Leaks Vulnerability leads to $$$ | Abhijeet kumawat | [Read More](https://medium.com/p/f7951373772f) |
-| Sun, 08 Mar 2026 16:00:07 GMT | How to Verify Telegram, WhatsApp, and Facebook Without Your Real Number | TrustOtp | [Read More](https://medium.com/p/a48513b6fb7d) |
-| Sun, 08 Mar 2026 15:58:51 GMT | Automated Web Recon & Misconfiguration Assessment on DVWA | Mylescorey | [Read More](https://medium.com/p/ad40b167bd84) |
-| Sun, 08 Mar 2026 15:54:54 GMT | The Importance of Cybersecurity in the Digital Age | Paghadayash | [Read More](https://medium.com/p/1d5ce768e63d) |
-| Sun, 08 Mar 2026 15:47:34 GMT | Your SOC Is Measuring Efficiency, Not Effectiveness | George Chen | [Read More](https://medium.com/p/5a0afa436195) |
-| Sun, 08 Mar 2026 15:46:47 GMT | Okay… refreshing token. But when? | Fábio Mendes | [Read More](https://medium.com/p/071cc4865a07) |
-| Sun, 08 Mar 2026 15:44:25 GMT | Writeup 02: I know your JWT Private Key? | BL4CKD3V0P5 | [Read More](https://medium.com/p/5f24c3b76475) |
-| Sun, 08 Mar 2026 15:43:40 GMT | How to Protect Leaking Sensitive Data to ChatGPT/Gemini/Claude (Practical Guide for 2026) | Apoorv Sharma | [Read More](https://medium.com/p/3df291e4c755) |
-| Sun, 08 Mar 2026 15:43:19 GMT | Sweettooth.inc — From Username Leak to Root Compromise | Roshan Rajbanshi | [Read More](https://medium.com/p/f51eb958d6a7) |
