@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Mar 2026 10:47:46 GMT | What a Group of Women on Motorcycles Taught Me About Leadership | Adeliah Jacobs | [Read More](https://medium.com/p/9dccf8ec76f9) |
+| Sun, 08 Mar 2026 10:39:19 GMT | Blockchain ve Kriptografi İlişkisi | Fırat Blockchain Topluluğu | [Read More](https://medium.com/p/d45d7d2bed89) |
+| Sun, 08 Mar 2026 10:35:03 GMT | How the noclobber Option Improves Bash Security | Pankaj Sharma | [Read More](https://medium.com/p/c4865a708cae) |
+| Sun, 08 Mar 2026 10:33:41 GMT | Das NIS2-Effizienz-Paradoxon: Warum wir ein harmonisiertes Register für Security Assessments… | Max Kristmann | [Read More](https://medium.com/p/afbd83baa63f) |
+| Sun, 08 Mar 2026 10:32:44 GMT | The Ethical Crisis of Iran’s AI Wartime Targeting in 2026 — Who Decides When Machines Kill? | Pankaj dhawan | [Read More](https://medium.com/p/f858c6145dbd) |
+| Sun, 08 Mar 2026 10:26:07 GMT | CVE-2025–27136 Walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/6d28c998a78a) |
 | Sun, 08 Mar 2026 10:18:16 GMT | 9 Powerful Attack Surface Management Checks Before a Pentest | Pentest_Testing_Corp | [Read More](https://medium.com/p/5dde941db823) |
 | Sun, 08 Mar 2026 10:17:17 GMT | A Guide to the Metasploit Framework | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/6a1f3cf05a7a) |
 | Sun, 08 Mar 2026 10:17:12 GMT | A Guide to Vulnerability Analysis with Nessus | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/7e856151fc50) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Mar 2026 01:15:03 GMT | Tools I’m Learning in Cybersecurity | Chima A M | [Read More](https://medium.com/p/f0909c1e06e0) |
 | Sun, 08 Mar 2026 01:12:41 GMT | Deep Dive Forensic Analysis: Splashtop in Incident Response | seif | [Read More](https://medium.com/p/b702eb09a728) |
 | Sun, 08 Mar 2026 01:09:43 GMT | HackMyVM: Animetronic Walkthrough | Antonio | [Read More](https://medium.com/p/a9fb9319e672) |
-| Sun, 08 Mar 2026 01:00:12 GMT | IAM Misconfigurations That Lead to Full Account Takeover | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/cf2d99970ce8) |
-| Sun, 08 Mar 2026 00:55:32 GMT | AWS 보안 그룹을 다 닫아도 내 DB는 열려있다? Tailscale VPN 연결의 비밀 | 이진만 (Jamie) | [Read More](https://medium.com/p/43b1d325307a) |
-| Sun, 08 Mar 2026 00:47:16 GMT | Ağ Trafiği Ele Geçirme: MitM (Man-in-the-Middle) Simülasyonu | okan soylu | [Read More](https://medium.com/p/5c1068c73d09) |
-| Sun, 08 Mar 2026 00:34:19 GMT | Basic Pentesting Writeup | Abraamadel | [Read More](https://medium.com/p/c2ecf89c47f7) |
-| Sun, 08 Mar 2026 00:32:21 GMT | Açık Port Bulduk Şimdi Ne Yapalım? | Zekikayaalp | [Read More](https://medium.com/p/1b9b66785eb1) |
-| Sun, 08 Mar 2026 00:26:53 GMT | Top 10 AWS Misconfigurations Hackers Exploit | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/74ff86446c78) |
