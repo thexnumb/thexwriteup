@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Mar 2026 23:32:06 GMT | Building TOTP from Scratch in Go | #[Pragmatic(Kiwi)] | [Read More](https://medium.com/p/8320f2e0a9df) |
+| Sun, 08 Mar 2026 23:31:00 GMT | Why Businesses May See More Phishing Attempts Right Now | Janeel Abrahams | [Read More](https://medium.com/p/b2d83dfa328c) |
 | Sun, 08 Mar 2026 23:16:45 GMT | BlackArch Linux: A Security Distribution Built for Those Who Already Know What They Are Doing | Rehimovmahmud | [Read More](https://medium.com/p/baef8c9a0a4f) |
 | Sun, 08 Mar 2026 23:16:17 GMT | Debian 12 — Researching ImageMagick Vulnerabilities discovered with Wazuh | Kenneth Davis | [Read More](https://medium.com/p/48ffe93dba52) |
 | Sun, 08 Mar 2026 23:07:10 GMT | SSH Enumeration in Penetration Testing | 7FINGER-KNIGHT-HACK | [Read More](https://medium.com/p/0b6681aa6960) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Mar 2026 16:06:16 GMT | I Tricked Three AI Models With a Fake Email Chain | Leonardo M. Burgatte | [Read More](https://medium.com/p/358923e13161) |
 | Sun, 08 Mar 2026 16:02:08 GMT | macOS Security Checkup, Part 1 (2026): How to Scan Your Mac for Open Ports and Reduce Attack… | kryo | [Read More](https://medium.com/p/bfa16d159941) |
 | Sun, 08 Mar 2026 16:02:02 GMT | How I Analyzed Suspicious Files Using Static Analysis (Student Walkthrough) | znoobie | [Read More](https://medium.com/p/7472d579326d) |
-| Sun, 08 Mar 2026 16:01:02 GMT | ApoorvCTF Havok’s Cosmic Rings — Full Pwn Writeup | k45w4ra | [Read More](https://medium.com/p/c86135b1489a) |
-| Sun, 08 Mar 2026 16:00:10 GMT | 7. XS-Leaks Vulnerability leads to $$$ | Abhijeet kumawat | [Read More](https://medium.com/p/f7951373772f) |
