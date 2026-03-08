@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Mar 2026 14:47:26 GMT | The Hidden Security Risks of Lovable’s AI App Builder | Eve Brennan | [Read More](https://medium.com/p/b138ae3dc619) |
+| Sun, 08 Mar 2026 14:44:08 GMT | JSON Web Tokens in 2026: The Complete Developer Guide | Asanka Sampath | [Read More](https://medium.com/p/6da3e8d3e597) |
+| Sun, 08 Mar 2026 14:37:24 GMT | Shared IP vs Dedicated IP: Security, Email Deliverability, and SEO Explained | Whwebhosting | [Read More](https://medium.com/p/b1bd87d76775) |
+| Sun, 08 Mar 2026 14:31:35 GMT | Bugforge Write-up — Exploiting JWT Role Manipulation in Shady Oaks Financials | Pranaya Shrestha | [Read More](https://medium.com/p/3d00e7b74a29) |
+| Sun, 08 Mar 2026 14:26:17 GMT | Basic Pentesting:1 Walkthrough - Vulnhub | Farhanhippargi | [Read More](https://medium.com/p/78d620b8b16e) |
 | Sun, 08 Mar 2026 14:12:07 GMT | Understanding JWT: The Secret Behind Modern Web Authentication | Deep Pathak | [Read More](https://medium.com/p/607335c293c9) |
 | Sun, 08 Mar 2026 14:05:48 GMT | Kioptrix 2 Walkthrough 2026 | RenVector | [Read More](https://medium.com/p/4d37eb492315) |
 | Sun, 08 Mar 2026 14:05:31 GMT | Writeup: PsExec Hunt — CyberDefenders | Arfan (p4n) | [Read More](https://medium.com/p/3b88e08b40f5) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Mar 2026 06:07:18 GMT | Apple Bug Bounty Program Guide (2026): How Ethical Hackers Can Earn Millions Securing the Apple… | Bugitrix | [Read More](https://medium.com/p/8490004ead3e) |
 | Sun, 08 Mar 2026 06:02:54 GMT | Your TryHackMe Streak Means Nothing. I Learned That The Hard Way. | Soumyadipta Birabar | [Read More](https://medium.com/p/32a6295074d8) |
 | Sun, 08 Mar 2026 06:01:01 GMT | As Fears of World War III Spike, Western Nations Balk at Funding Their Security | Geopolitics / Economy / Technology | [Read More](https://medium.com/p/cb1ab2695e80) |
-| Sun, 08 Mar 2026 05:58:38 GMT | Internal Controls: Your 4 Layers of Defense ️ | Sujon Al Mamun | [Read More](https://medium.com/p/8e7b2c1f6af4) |
-| Sun, 08 Mar 2026 05:57:53 GMT | Simple CTF Write-Up - TryHackMe | Nazeer Rassed | [Read More](https://medium.com/p/0f46b3cedae2) |
-| Sun, 08 Mar 2026 05:54:08 GMT | How I Found an IDOR Vulnerability Leaking Student PII on DigiiCampus — And What It Taught Me | 0xAbhiSec | [Read More](https://medium.com/p/0ffba849a948) |
-| Sun, 08 Mar 2026 05:49:43 GMT | The Day Recon Alone Found the Vulnerability | Fateyaly | [Read More](https://medium.com/p/1ac332767c49) |
-| Sun, 08 Mar 2026 05:45:12 GMT | Network Packet Analysis Using Wireshark: A Practical Beginner’s Guide | Priyanka Behera | [Read More](https://medium.com/p/ef4c9ef53e32) |
