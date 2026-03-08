@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Mar 2026 08:27:17 GMT | NordVPN vs Surfshark vs PureVPN vs CyberGhost: Which VPN Is Actually Worth It in 2026? | TechSaver | [Read More](https://medium.com/p/d2e159b27fca) |
+| Sun, 08 Mar 2026 08:18:30 GMT | Ethical Hacking Course in Hindi — Cyber Security Training Guide | EINITIAL24 | [Read More](https://medium.com/p/f6f29a1c909e) |
+| Sun, 08 Mar 2026 08:16:45 GMT | How Pakistani TV Channels Were Hijacked | Aditya Sunny | [Read More](https://medium.com/p/b062e63aafe1) |
+| Sun, 08 Mar 2026 08:01:01 GMT | Stop hiding the tech gender pay gap behind job titles | Jemma Davis | [Read More](https://medium.com/p/af0d0e94529b) |
+| Sun, 08 Mar 2026 07:53:07 GMT | TryHackMe Attacktive Directory — WriteUp | Farhan Auliya Abrar | [Read More](https://medium.com/p/063384ba84a5) |
+| Sun, 08 Mar 2026 07:52:03 GMT | Is Artificial intelligence a threat or an opportunity? | Wajahat Mehdi | [Read More](https://medium.com/p/e63c1a2a8b59) |
+| Sun, 08 Mar 2026 07:50:11 GMT | How to Fix a DNS Leak Fast | Inatantiplookup | [Read More](https://medium.com/p/18fba9796eaa) |
 | Sun, 08 Mar 2026 07:40:46 GMT | WordPress Core Security 2026 — Part 4 | Leetsec Sarwar | [Read More](https://medium.com/p/b3cbf211fa60) |
 | Sun, 08 Mar 2026 07:31:37 GMT | CYBERDUDEBIVASH SENTINEL APEX v43.0 GENESIS ARCHITECTURE WHITEPAPER | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/3e3abe6cf474) |
 | Sun, 08 Mar 2026 07:24:48 GMT | To AI or Not To AI | Leisha  B. | [Read More](https://medium.com/p/1590c731e157) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 22:01:00 GMT | SAML Authentication | Rhea Gupta | [Read More](https://medium.com/p/a98971e1fb17) |
 | Sat, 07 Mar 2026 22:01:00 GMT | Unfiltered Restart — Day 20: Core 1 Exam Day | Maximillian Rueda | [Read More](https://medium.com/p/88899b3edaf4) |
 | Sat, 07 Mar 2026 21:37:45 GMT | Vibe Coding Is Eating Your Security. And Most Developers Haven’t Noticed Yet. | Tech Trends by Tähīr | [Read More](https://medium.com/p/0e7e8ee624e5) |
-| Sat, 07 Mar 2026 21:37:36 GMT | CVE-2025–29969: When “Event Log Backup” Becomes a Remote Write Primitive | Iliasarmenakis | [Read More](https://medium.com/p/784680e04e8f) |
-| Sat, 07 Mar 2026 21:37:06 GMT | Creating a Bayesian Behavioral Detector in Google SecOps (pt 2) | Greg Kushmerek | [Read More](https://medium.com/p/7cf05aaacddf) |
-| Sat, 07 Mar 2026 21:34:51 GMT | AI in the Middle: When Your “Helpful Assistant” Becomes the Attacker’s Relay | Iliasarmenakis | [Read More](https://medium.com/p/31d8a7ebb23c) |
-| Sat, 07 Mar 2026 21:30:26 GMT | Shodan: Exposing the Internet’s Hidden Devices | Sarah Qym | [Read More](https://medium.com/p/4b09ce2848c4) |
-| Sat, 07 Mar 2026 21:28:03 GMT | Overcoming the “Contributor” Trap: Implementing Least Privilege Custom Roles in Azure Data Factory | Siva Pinnaka | [Read More](https://medium.com/p/1e0d3da84ba6) |
-| Sat, 07 Mar 2026 21:12:24 GMT | Building a Centralized Windows Log Forwarding Pipeline with Winlogbeat, Logstash, Elasticsearch… | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/0817b2298579) |
-| Sat, 07 Mar 2026 21:08:05 GMT | Building a Security Monitoring Stack: Integrating Any Tool with Elasticsearch Using Docker | VampireXRay | [Read More](https://medium.com/p/0a3e0c8cbc93) |
