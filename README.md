@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Mar 2026 19:13:32 GMT | The Day the Cloud Cracked | Bilawal Khan | [Read More](https://medium.com/p/e0aa72830567) |
+| Sun, 08 Mar 2026 19:06:07 GMT | Bypassing File Upload Filters Using .htaccess | Mythguyb | [Read More](https://medium.com/p/fc4091d1e51a) |
+| Sun, 08 Mar 2026 19:00:37 GMT | Network Discovery Detection — TryHackMe Walkthrough | Owais Ali Khan | [Read More](https://medium.com/p/7e3370dfec4b) |
+| Sun, 08 Mar 2026 18:56:13 GMT | Upcoming Changes to Apple Business Manager | Ryan Adams | [Read More](https://medium.com/p/07c95d4598a4) |
+| Sun, 08 Mar 2026 18:55:29 GMT | How to Get 4 Premium VPNs for Up to 80% Off (Without a 2-Year Lock-In) | TechSaver | [Read More](https://medium.com/p/0578c4dd6908) |
+| Sun, 08 Mar 2026 18:49:28 GMT | Nmapping and scanning methods guide: | Ankita Bardhan | [Read More](https://medium.com/p/140cac6f3a42) |
+| Sun, 08 Mar 2026 18:40:34 GMT | HackSudo: Thor Machine Walkthrough | Ssmsnehalmore | [Read More](https://medium.com/p/684df312524f) |
 | Sun, 08 Mar 2026 18:28:32 GMT | Hacking DC-1: Your First Step into the DC Series | Omkar Bilguche | [Read More](https://medium.com/p/e7df72ae6d65) |
 | Sun, 08 Mar 2026 18:24:46 GMT | Ransomware-as-a-Service in 2026: The Business Model Behind Cybercrime | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/2dcbf89f7ac0) |
 | Sun, 08 Mar 2026 18:20:26 GMT | AWS Beginner Guide: From Zero to Hosting Your First Website on EC2 | Karan Singh | [Read More](https://medium.com/p/743fb5381a89) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Mar 2026 12:23:41 GMT | Unknown Number Calling? It’s Probably Not Random | Mr Technology | [Read More](https://medium.com/p/bd20fc1979a2) |
 | Sun, 08 Mar 2026 12:11:34 GMT | Blue Tryhackme Writeup | french_baguette | [Read More](https://medium.com/p/b4349e816124) |
 | Sun, 08 Mar 2026 12:07:52 GMT | BaileysSandbox: An AI-Powered Malware Analysis Sandbox | VXRL | [Read More](https://medium.com/p/90b1b18ad3bf) |
-| Sun, 08 Mar 2026 12:01:03 GMT | The Right and the Wrong Way to Learn AWS Security in 2026 | Taimur Ijlal | [Read More](https://medium.com/p/44ad02af28bb) |
-| Sun, 08 Mar 2026 12:01:01 GMT | The Strange Network Pattern That Made Me Investigate My Linux Server | Faruk Ahmed | [Read More](https://medium.com/p/99c0df0a36d8) |
-| Sun, 08 Mar 2026 11:58:20 GMT | An Empty Gimmick? | Terry Schwadron | [Read More](https://medium.com/p/b6b1fdf1eeb4) |
-| Sun, 08 Mar 2026 11:57:39 GMT | Livewire pitfalls: How one misunderstanding produced 6 critical vulnerabilities in a single… | Mohamed Alrasheed | [Read More](https://medium.com/p/cf16b63ce25f) |
-| Sun, 08 Mar 2026 11:53:49 GMT | How a Few Words Can Hack an AI System | Aadith Sukumar | [Read More](https://medium.com/p/d9025991e405) |
-| Sun, 08 Mar 2026 11:44:42 GMT | Understanding AI Security — Part 5 — Governance | Avinash Vishwakumar | [Read More](https://medium.com/p/03e1b2764d3d) |
-| Sun, 08 Mar 2026 11:41:44 GMT | The 2026 Guide to Cybersecurity: Breaking News & Top Courses to Future-Proof Your Career | Binu Lal K T | [Read More](https://medium.com/p/edc8d98e5153) |
