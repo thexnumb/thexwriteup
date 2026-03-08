@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Mar 2026 22:24:37 GMT | Build Your Own Cybersecurity Game — Learn Security by Playing | ghostyjoe | [Read More](https://medium.com/p/786ca1ece01a) |
+| Sun, 08 Mar 2026 22:22:46 GMT | Building a Reverse Shell Shellcode with Stardust | S12 - 0x12Dark Development | [Read More](https://medium.com/p/dae845cd1db8) |
+| Sun, 08 Mar 2026 22:15:01 GMT | The Bug-Hunting Singularity: Claude Finds 22 Firefox Vulnerabilities, and the Clock Starts Ticking | Ilias Armenakis | [Read More](https://medium.com/p/95d8db6d692a) |
+| Sun, 08 Mar 2026 22:12:31 GMT | Threat-Modeling the OWASP Top 10 for LLM Applications | Evangelos Pappas | [Read More](https://medium.com/p/58e88255b11f) |
+| Sun, 08 Mar 2026 22:02:18 GMT | Building a Lightweight Log Forwarding Pipeline with Fluent Bit and Elasticsearch | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/c651a5bf28a3) |
 | Sun, 08 Mar 2026 21:45:48 GMT | You Can’t Prompt Your Way to the Next Uber: Why AI Won’t Build Your App Alone | Caksa Aji | [Read More](https://medium.com/p/4c74eb4efbd9) |
 | Sun, 08 Mar 2026 21:39:19 GMT | HackPark: Brute Forcing BlogEngine.NET and Escalating to SYSTEM via Scheduled Task | Robert Perez | [Read More](https://medium.com/p/d1e7473e4e01) |
 | Sun, 08 Mar 2026 21:35:27 GMT | BloodHound Entra ID CTF #2 — From Guest to Global Admin: Exploiting Application Administrator via… | Cyberguy | [Read More](https://medium.com/p/251d6d32e3ea) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Mar 2026 15:31:13 GMT | CyberHeroes Writeup | Abraamadel | [Read More](https://medium.com/p/5fa2bde4b51e) |
 | Sun, 08 Mar 2026 15:21:01 GMT | The New Diplomatic Frontier: How Generative AI Is Reshaping Global Power Dynamics | Bastian Friborg | [Read More](https://medium.com/p/e2456a8cdd38) |
 | Sun, 08 Mar 2026 15:19:36 GMT | End of the World’s Largest Phishing Service — Europol Dismantles Tycoon 2FA | Patrik Žák | [Read More](https://medium.com/p/5d5e6244be0f) |
-| Sun, 08 Mar 2026 15:18:44 GMT | From 398 Days to 47: Why Legacy Pinning Breaks and How SPKI Fixes It | Mark Solo | [Read More](https://medium.com/p/48fbf5069bae) |
-| Sun, 08 Mar 2026 15:14:24 GMT | Part 5 - The Enigma Killer: Uncrackable Communications via Tokenization | PhantomKey Technologies | [Read More](https://medium.com/p/bd363761ad5c) |
-| Sun, 08 Mar 2026 15:10:40 GMT | CVE-2014–6271 — Shellshock Vulnerability Explained | Anaselmendili | [Read More](https://medium.com/p/ca784ba60b5e) |
-| Sun, 08 Mar 2026 15:01:04 GMT | JWT Is Not Authentication — And This Misconception Is In 70% of Production Apps | The Thread Whisperer | [Read More](https://medium.com/p/088d5c7805b0) |
-| Sun, 08 Mar 2026 15:00:10 GMT | Cyber Security Audit Services: Complete 2026 Guide for Enterprises & Web 3 Platforms | Web5 Nexus | [Read More](https://medium.com/p/2f2dd5f54a50) |
