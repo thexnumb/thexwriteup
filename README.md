@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Mar 2026 19:29:58 GMT | The Relationship Between UX and Security: Why Good Design Makes Systems Safer | Christine Osama | [Read More](https://medium.com/p/8d426cc92440) |
+| Sun, 08 Mar 2026 19:24:22 GMT | Authentication & Brute‑Force Exposure Assessment on DVWA | Mylescorey | [Read More](https://medium.com/p/f318979b8955) |
+| Sun, 08 Mar 2026 19:23:56 GMT | The Era of Vibe Coding Needs a Verification Layer | Carther Theogene | [Read More](https://medium.com/p/9fb11ca5f865) |
 | Sun, 08 Mar 2026 19:13:32 GMT | The Day the Cloud Cracked | Bilawal Khan | [Read More](https://medium.com/p/e0aa72830567) |
 | Sun, 08 Mar 2026 19:06:07 GMT | Bypassing File Upload Filters Using .htaccess | Mythguyb | [Read More](https://medium.com/p/fc4091d1e51a) |
 | Sun, 08 Mar 2026 19:00:37 GMT | Network Discovery Detection — TryHackMe Walkthrough | Owais Ali Khan | [Read More](https://medium.com/p/7e3370dfec4b) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Mar 2026 12:33:25 GMT | Laravel Security Use Cases: Real-World Examples for Prod Apps | Coder Manjeet | [Read More](https://medium.com/p/15d4cd078c7a) |
 | Sun, 08 Mar 2026 12:31:00 GMT | Banking App Security vs. Developer Mode | Nourgweda | [Read More](https://medium.com/p/0aa1fa4cb5e9) |
 | Sun, 08 Mar 2026 12:26:21 GMT | Why ST Player Is Becoming the World’s Safest Video Vault | Strstudioapps | [Read More](https://medium.com/p/77797966e9d9) |
-| Sun, 08 Mar 2026 12:23:41 GMT | Unknown Number Calling? It’s Probably Not Random | Mr Technology | [Read More](https://medium.com/p/bd20fc1979a2) |
-| Sun, 08 Mar 2026 12:11:34 GMT | Blue Tryhackme Writeup | french_baguette | [Read More](https://medium.com/p/b4349e816124) |
-| Sun, 08 Mar 2026 12:07:52 GMT | BaileysSandbox: An AI-Powered Malware Analysis Sandbox | VXRL | [Read More](https://medium.com/p/90b1b18ad3bf) |
