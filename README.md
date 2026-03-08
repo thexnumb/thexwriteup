@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Mar 2026 12:53:48 GMT | DVWA : Cross Site Request Forgery (CSRF) Vulnerability (Low Security) | Kamal S | [Read More](https://medium.com/p/b02dce2423b4) |
+| Sun, 08 Mar 2026 12:37:27 GMT | AI Cybersecurity for Startups: 7 Powerful Ways AAVETech Is Transforming Digital Security | AAVETech - AI-Driven Cybersecurity | [Read More](https://medium.com/p/2d5913a75eef) |
+| Sun, 08 Mar 2026 12:33:25 GMT | Laravel Security Use Cases: Real-World Examples for Prod Apps | Coder Manjeet | [Read More](https://medium.com/p/15d4cd078c7a) |
+| Sun, 08 Mar 2026 12:31:00 GMT | Banking App Security vs. Developer Mode | Nourgweda | [Read More](https://medium.com/p/0aa1fa4cb5e9) |
+| Sun, 08 Mar 2026 12:26:21 GMT | Why ST Player Is Becoming the World’s Safest Video Vault | Strstudioapps | [Read More](https://medium.com/p/77797966e9d9) |
+| Sun, 08 Mar 2026 12:23:41 GMT | Unknown Number Calling? It’s Probably Not Random | Mr Technology | [Read More](https://medium.com/p/bd20fc1979a2) |
+| Sun, 08 Mar 2026 12:11:34 GMT | Blue Tryhackme Writeup | french_baguette | [Read More](https://medium.com/p/b4349e816124) |
+| Sun, 08 Mar 2026 12:07:52 GMT | BaileysSandbox: An AI-Powered Malware Analysis Sandbox | VXRL | [Read More](https://medium.com/p/90b1b18ad3bf) |
+| Sun, 08 Mar 2026 12:01:03 GMT | The Right and the Wrong Way to Learn AWS Security in 2026 | Taimur Ijlal | [Read More](https://medium.com/p/44ad02af28bb) |
+| Sun, 08 Mar 2026 12:01:01 GMT | The Strange Network Pattern That Made Me Investigate My Linux Server | Faruk Ahmed | [Read More](https://medium.com/p/99c0df0a36d8) |
+| Sun, 08 Mar 2026 11:58:20 GMT | An Empty Gimmick? | Terry Schwadron | [Read More](https://medium.com/p/b6b1fdf1eeb4) |
+| Sun, 08 Mar 2026 11:57:39 GMT | Livewire pitfalls: How one misunderstanding produced 6 critical vulnerabilities in a single… | Mohamed Alrasheed | [Read More](https://medium.com/p/cf16b63ce25f) |
+| Sun, 08 Mar 2026 11:53:49 GMT | How a Few Words Can Hack an AI System | Aadith Sukumar | [Read More](https://medium.com/p/d9025991e405) |
+| Sun, 08 Mar 2026 11:44:42 GMT | Understanding AI Security — Part 5 — Governance | Avinash Vishwakumar | [Read More](https://medium.com/p/03e1b2764d3d) |
+| Sun, 08 Mar 2026 11:41:44 GMT | The 2026 Guide to Cybersecurity: Breaking News & Top Courses to Future-Proof Your Career | Binu Lal K T | [Read More](https://medium.com/p/edc8d98e5153) |
 | Sun, 08 Mar 2026 11:31:00 GMT | From Path Traversal to Full Server Access | Ishant Gupta | [Read More](https://medium.com/p/9f55b3226a93) |
 | Sun, 08 Mar 2026 11:28:36 GMT | Your Password Is Not the Problem Anymore. Here’s What Actually Gets People Hacked in 2026 | Nitesh K | [Read More](https://medium.com/p/cc91322f30f6) |
 | Sun, 08 Mar 2026 11:15:00 GMT | Understanding Rate Limiting and How It Affects Bug Bounty Testing | ghostyjoe | [Read More](https://medium.com/p/8e3dc8cb83f0) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Mar 2026 03:55:01 GMT | From a Single Attack to Campaign Intelligence Using Only a JavaScript Filename | Daniel K | [Read More](https://medium.com/p/5b5f8120f930) |
 | Sun, 08 Mar 2026 03:54:12 GMT | When You Turn On Your PC: A Story of Awakening | Gajanan Tayde | [Read More](https://medium.com/p/4550b54cfce7) |
 | Sun, 08 Mar 2026 03:49:46 GMT | GHOST: Where OSINT Data Finally Gets Organized!!! | cybrNK | [Read More](https://medium.com/p/2b81c7ee7bed) |
-| Sun, 08 Mar 2026 03:45:09 GMT | An Executive Guide to Understanding Brazil’s “Operational Calendar” | ᴅᴀɴ ᴋᴏʀᴏᴠᴛᴄʜ | [Read More](https://medium.com/p/3ae8a50087e4) |
-| Sun, 08 Mar 2026 03:43:57 GMT | HTB — Brutus Write Up | Annisa Eka Putri | [Read More](https://medium.com/p/0e7a895b8374) |
-| Sun, 08 Mar 2026 03:38:40 GMT | The Great Open Source Shutdown | Morgan Ellis | [Read More](https://medium.com/p/f3be1ed4c27d) |
-| Sun, 08 Mar 2026 03:29:58 GMT | Crash after crash reshaped how Generation X thinks about work, loyalty, and financial security. | Tiny Desk Publishing | [Read More](https://medium.com/p/c15e719e58d3) |
-| Sun, 08 Mar 2026 03:29:17 GMT | Hunting the Hunters Ep. 1: Operation Duck Hunt | Michael Reichstein | [Read More](https://medium.com/p/214fcc71c861) |
-| Sun, 08 Mar 2026 02:51:11 GMT | How I Discovered an Account Takeover Vulnerability via Improper Session Handling | RAHUL -Nj | [Read More](https://medium.com/p/7182a65448a1) |
-| Sun, 08 Mar 2026 02:42:38 GMT | Monitoring Active Directory (THM) Tryhackme WriteUp Answer | Lawvye | [Read More](https://medium.com/p/851a49ffafd4) |
-| Sun, 08 Mar 2026 02:35:45 GMT | PNPT Report Writing Guide | jaejun835 | [Read More](https://medium.com/p/eab7d7da9b6b) |
-| Sun, 08 Mar 2026 02:09:25 GMT | Never Forget a Bearer Token Again: Angular’s HTTP Interceptor Explained | Fuji Nguyen | [Read More](https://medium.com/p/805b7a63d9c7) |
-| Sun, 08 Mar 2026 02:06:27 GMT | Blue Team Journey #0 Introducing Blue Team Labs Online (BTLO) | Aditya Prayoga | [Read More](https://medium.com/p/0d07b00d3c6c) |
-| Sun, 08 Mar 2026 01:51:39 GMT | Designing an Enterprise Cyber Risk Management Program | Neviar Rawlinson, MBA | [Read More](https://medium.com/p/0080a4a0c858) |
-| Sun, 08 Mar 2026 01:37:31 GMT | Internal TryHackme en Español | Us0lfr | [Read More](https://medium.com/p/0f1b9476d387) |
-| Sun, 08 Mar 2026 01:33:31 GMT | Cybersecurity is one of the most important and fastest-growing industries in the world today. | CyberRise Institute | [Read More](https://medium.com/p/cec7c96d8682) |
-| Sun, 08 Mar 2026 01:30:30 GMT | The $100bn Hallucination | Chiara Collection | [Read More](https://medium.com/p/c9453309ac01) |
-| Sun, 08 Mar 2026 01:29:08 GMT | Gulf Billionaire Torches Trump: “Who Gave You Permission to Start This War?” | Dr. Thomas Jreige | [Read More](https://medium.com/p/24b65ec6f408) |
