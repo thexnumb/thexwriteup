@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Mar 2026 20:20:53 GMT | My Week 4 Takeaways from “Begin Ethical Hacking with Python” by Sanjib Sinha(Part IV) | Kalkidan | [Read More](https://medium.com/p/a14c2936213f) |
+| Sun, 08 Mar 2026 20:11:55 GMT | Vulnix Machine Walkthrough. | Akhilkulkarni | [Read More](https://medium.com/p/7f436878bdda) |
+| Sun, 08 Mar 2026 20:10:59 GMT | DirBuster: Uncovering Hidden Web Directories | Sarthak | [Read More](https://medium.com/p/5fe76eb5a189) |
+| Sun, 08 Mar 2026 20:10:24 GMT | The Compliance Trap: Why Security Frameworks Often Replace Thinking | Sarah | [Read More](https://medium.com/p/16c74a66aea1) |
+| Sun, 08 Mar 2026 20:10:03 GMT | Excessive Agency: When AI Gets Too Much Power | Will Giles - Cybersecurity | [Read More](https://medium.com/p/586b1af7d92d) |
+| Sun, 08 Mar 2026 20:06:45 GMT | How to Free Up Gigabytes on Your Mac Without Buying Anything | William Meller | [Read More](https://medium.com/p/a6a5d9767822) |
+| Sun, 08 Mar 2026 20:04:11 GMT | Cybersecurity’s Secret Weapon: The Art of the Digital Distraction | Lalit Tech Savvy | [Read More](https://medium.com/p/e1fb979f8e78) |
+| Sun, 08 Mar 2026 20:03:53 GMT | Docker Secrets Management: The Complete Guide to Securing Your Containers | Teguhwin | [Read More](https://medium.com/p/16f21e0ca8df) |
+| Sun, 08 Mar 2026 19:59:04 GMT | The Case for a Fractional CIO — And How It Changes Everything | Always On | [Read More](https://medium.com/p/2547a2b3ac6a) |
+| Sun, 08 Mar 2026 19:54:17 GMT | Adventures and Lessons from Kiosk Hacking on ChromeOS | Mike Manrod | [Read More](https://medium.com/p/4a9438bf67c9) |
+| Sun, 08 Mar 2026 19:47:43 GMT | Digital Sentinels: How to Auto-Stop API Leaks and Bad Code in Python | Gamze Babayiğit | [Read More](https://medium.com/p/9eb41f22aa52) |
+| Sun, 08 Mar 2026 19:46:34 GMT | How communication makes life lighter | Little Turtle | [Read More](https://medium.com/p/ae31372506ad) |
+| Sun, 08 Mar 2026 19:44:01 GMT | Zero Knowledge Nedir? Bir Şeyi Anlatmadan Nasıl Kanıtlayabilirsiniz? | Ali Yaşe | [Read More](https://medium.com/p/660d693f4532) |
 | Sun, 08 Mar 2026 19:29:58 GMT | The Relationship Between UX and Security: Why Good Design Makes Systems Safer | Christine Osama | [Read More](https://medium.com/p/8d426cc92440) |
 | Sun, 08 Mar 2026 19:24:22 GMT | Authentication & Brute‑Force Exposure Assessment on DVWA | Mylescorey | [Read More](https://medium.com/p/f318979b8955) |
 | Sun, 08 Mar 2026 19:23:56 GMT | The Era of Vibe Coding Needs a Verification Layer | Carther Theogene | [Read More](https://medium.com/p/9fb11ca5f865) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Mar 2026 13:28:52 GMT | ClickFix Campaign: The “Copy-Paste” Social Engineering Threat of 2026 | DeltaBytes | [Read More](https://medium.com/p/4971f2bc0924) |
 | Sun, 08 Mar 2026 13:27:14 GMT | How to Choose a Reliable Crypto Exchange: A 2026 Guide to Crypto Security and Exchange Platforms | Clayton Bruce | [Read More](https://medium.com/p/09cfe745fb2f) |
 | Sun, 08 Mar 2026 13:25:58 GMT | A Loyal AI Knows Whose Instructions to Follow. Most Don’t. That’s Prompt Injection. | Roy Tirthadeep | [Read More](https://medium.com/p/beb0a16b9ec0) |
-| Sun, 08 Mar 2026 13:20:53 GMT | Behind the Screens: How Technology Actually Runs Inside Modern Companies | Yash Shinde | [Read More](https://medium.com/p/378af3bcd1fd) |
-| Sun, 08 Mar 2026 13:16:00 GMT | Fortigate Dersleri: Addresses Tanımlamaya Bakış-4 | Azra K. | [Read More](https://medium.com/p/a5335e765570) |
-| Sun, 08 Mar 2026 13:12:18 GMT | DevSecOps Explained: Shift Left, Think Security, and Start Threat Modeling | TechwidSush | [Read More](https://medium.com/p/90ffb2264723) |
-| Sun, 08 Mar 2026 13:06:54 GMT | Breaking Into Hacker-Feast 2019 (VulnHub) — A Complete Penetration Testing Walkthrough. | Arfatmdyusuf | [Read More](https://medium.com/p/e11591feb931) |
-| Sun, 08 Mar 2026 13:03:13 GMT | My Tryst with Failure: Learning to Live with Impostor Syndrome | Tanishka Saluja | [Read More](https://medium.com/p/a7c73e68f183) |
-| Sun, 08 Mar 2026 12:57:00 GMT | Intercepting Android HTTPS Traffic for Bug Bounty | lanlan i | [Read More](https://medium.com/p/027b361b52b4) |
-| Sun, 08 Mar 2026 12:53:48 GMT | DVWA : Cross Site Request Forgery (CSRF) Vulnerability (Low Security) | Kamal S | [Read More](https://medium.com/p/b02dce2423b4) |
-| Sun, 08 Mar 2026 12:51:27 GMT | The $1000 remote worker | Ugo Mary | [Read More](https://medium.com/p/5bc22830590f) |
-| Sun, 08 Mar 2026 12:44:00 GMT | 2026 Is The Year Privacy Gets Real (And Really Technical) | Learn With Hatty | [Read More](https://medium.com/p/7206e11fe5a4) |
-| Sun, 08 Mar 2026 12:37:27 GMT | AI Cybersecurity for Startups: 7 Powerful Ways AAVETech Is Transforming Digital Security | AAVETech - AI-Driven Cybersecurity | [Read More](https://medium.com/p/2d5913a75eef) |
-| Sun, 08 Mar 2026 12:33:25 GMT | Laravel Security Use Cases: Real-World Examples for Prod Apps | Coder Manjeet | [Read More](https://medium.com/p/15d4cd078c7a) |
-| Sun, 08 Mar 2026 12:31:00 GMT | Banking App Security vs. Developer Mode | Nourgweda | [Read More](https://medium.com/p/0aa1fa4cb5e9) |
-| Sun, 08 Mar 2026 12:26:21 GMT | Why ST Player Is Becoming the World’s Safest Video Vault | Strstudioapps | [Read More](https://medium.com/p/77797966e9d9) |
