@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Mar 2026 05:58:38 GMT | Internal Controls: Your 4 Layers of Defense ️ | Sujon Al Mamun | [Read More](https://medium.com/p/8e7b2c1f6af4) |
+| Sun, 08 Mar 2026 05:57:53 GMT | Simple CTF Write-Up - TryHackMe | Nazeer Rassed | [Read More](https://medium.com/p/0f46b3cedae2) |
+| Sun, 08 Mar 2026 05:54:08 GMT | How I Found an IDOR Vulnerability Leaking Student PII on DigiiCampus — And What It Taught Me | 0xAbhiSec | [Read More](https://medium.com/p/0ffba849a948) |
+| Sun, 08 Mar 2026 05:49:43 GMT | The Day Recon Alone Found the Vulnerability | Fateyaly | [Read More](https://medium.com/p/1ac332767c49) |
+| Sun, 08 Mar 2026 05:45:12 GMT | Network Packet Analysis Using Wireshark: A Practical Beginner’s Guide | Priyanka Behera | [Read More](https://medium.com/p/ef4c9ef53e32) |
+| Sun, 08 Mar 2026 05:43:31 GMT | The Architecture of Agentic Safety: Designing a Zero-Trust MCP Control Plane | Ashish Ryot | [Read More](https://medium.com/p/1d17d4cead30) |
+| Sun, 08 Mar 2026 05:42:46 GMT | I Let AI Attack My Digital Life. Here’s How It Broke My Security Habits And How You Can Fix Yours! | Vidura Bandara Wijekoon | [Read More](https://medium.com/p/498ec6c6bb72) |
 | Sun, 08 Mar 2026 05:04:33 GMT | I Hacked Your Account with a 6-Digit PIN: The Brute-Force Nightmare You Need to Fix | Krishna Kumar | [Read More](https://medium.com/p/7707309ca8c4) |
 | Sun, 08 Mar 2026 04:42:39 GMT | OSINT Spain | Snooptsz | [Read More](https://medium.com/p/5a2c557a92e6) |
 | Sun, 08 Mar 2026 04:42:28 GMT | Windows 11 Is Sending Your Gameplay Data to Microsoft — Here’s How to Stop It | Algo Insights | [Read More](https://medium.com/p/cc658ef84f91) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 19:09:48 GMT | Python ile Phishing E-posta Analiz Aracı Geliştirmek (VirusTotal Entegrasyonu) | Erkin KASIM | [Read More](https://medium.com/p/89b55a5385ca) |
 | Sat, 07 Mar 2026 19:08:44 GMT | <What are the root problems?/> | Igino Corona, Eng PhD | [Read More](https://medium.com/p/2103647bc11a) |
 | Sat, 07 Mar 2026 19:01:00 GMT | C# Basic Introduction | Theebiga Vicknarajah | [Read More](https://medium.com/p/5a39ec51941e) |
-| Sat, 07 Mar 2026 18:58:10 GMT | How to Actually Test Proxy Quality (Most Tools Get It Wrong) | Scambuster | [Read More](https://medium.com/p/fca33c8c61e7) |
-| Sat, 07 Mar 2026 18:56:00 GMT | EU GDPR — Article 31 (Cooperation with the Supervisory Authority) | MDM Team | [Read More](https://medium.com/p/82bbb536be66) |
-| Sat, 07 Mar 2026 18:47:04 GMT | Stop Giving AI Agents Ambient OS Permissions: The Case for Runtime Trust Infrastructure | Tony W | [Read More](https://medium.com/p/9583d7821f70) |
-| Sat, 07 Mar 2026 18:46:30 GMT | Threat Hunting Lab Part 1: Reconnaissance | Andreas Maroulis | [Read More](https://medium.com/p/6a680a6f2bfd) |
-| Sat, 07 Mar 2026 18:46:01 GMT | HTTP DURUM KODLARI | Zeynel Demirdağ | [Read More](https://medium.com/p/6604d8ffaa17) |
-| Sat, 07 Mar 2026 18:44:49 GMT | Arctic — HTB Walkthrough | Hemantha Krishna Challa | [Read More](https://medium.com/p/b8ae68aea971) |
-| Sat, 07 Mar 2026 18:44:05 GMT | The Static Risk Approximation | Gracie ‘Potter’ Daniel (GhG) | [Read More](https://medium.com/p/b85d08cafe0f) |
