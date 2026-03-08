@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Mar 2026 21:06:18 GMT | Building Production Grade K3s Clusters with Cilium WireGuard Encryption in Air-Gapped Environments | Balasubramanian Jayamoorthy | [Read More](https://medium.com/p/c5a1273186b6) |
+| Sun, 08 Mar 2026 21:01:02 GMT | Detect. Download. Extract. Automating Source Code Recovery with DotGit-Enhanced | Maor Dayan - מאור דיין | [Read More](https://medium.com/p/35b0e72402f3) |
+| Sun, 08 Mar 2026 21:01:01 GMT | IAM Role Creation and Management in AWS | Rhea Gupta | [Read More](https://medium.com/p/db778044065c) |
 | Sun, 08 Mar 2026 20:50:33 GMT | Threat Visibility for FireOps Systems | Expadox Lab | [Read More](https://medium.com/p/71a370e64b11) |
 | Sun, 08 Mar 2026 20:50:27 GMT | LLM02: Sensitive Information Disclosure — A Growing Risk in AI Systems (2025) | Seema Gupta | [Read More](https://medium.com/p/e218d8f9cee1) |
 | Sun, 08 Mar 2026 20:47:35 GMT | El coraje de mostrarnos imperfectos | Andrea del Pilar Vargas Sarmiento | [Read More](https://medium.com/p/829495e046b0) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Mar 2026 14:31:35 GMT | Bugforge Write-up — Exploiting JWT Role Manipulation in Shady Oaks Financials | Pranaya Shrestha | [Read More](https://medium.com/p/3d00e7b74a29) |
 | Sun, 08 Mar 2026 14:26:17 GMT | Basic Pentesting:1 Walkthrough - Vulnhub | Farhanhippargi | [Read More](https://medium.com/p/78d620b8b16e) |
 | Sun, 08 Mar 2026 14:12:07 GMT | Understanding JWT: The Secret Behind Modern Web Authentication | Deep Pathak | [Read More](https://medium.com/p/607335c293c9) |
-| Sun, 08 Mar 2026 14:05:48 GMT | Kioptrix 2 Walkthrough 2026 | RenVector | [Read More](https://medium.com/p/4d37eb492315) |
-| Sun, 08 Mar 2026 14:05:31 GMT | Writeup: PsExec Hunt — CyberDefenders | Arfan (p4n) | [Read More](https://medium.com/p/3b88e08b40f5) |
-| Sun, 08 Mar 2026 14:05:06 GMT | Safely Rendering HTML Inside Markdown in React | Anja Beisel | [Read More](https://medium.com/p/94f9c23a22c5) |
