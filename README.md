@@ -12,7 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Mar 2026 11:15:00 GMT | Understanding Rate Limiting and How It Affects Bug Bounty Testing | ghostyjoe | [Read More](https://medium.com/p/8e3dc8cb83f0) |
+| Sun, 08 Mar 2026 11:13:15 GMT | Niyə Kali Linux? | Behbud Behbudov | [Read More](https://medium.com/p/e382c4218733) |
+| Sun, 08 Mar 2026 11:11:59 GMT | Stop Building Super Agents — Here’s How AI Agents Should Actually Work | Shubh Jain | [Read More](https://medium.com/p/f4f1894ead08) |
+| Sun, 08 Mar 2026 11:04:41 GMT | Your Database Just Leaked. How Fast Can Attackers Crack the Passwords? | Herman Paul | [Read More](https://medium.com/p/9cc654b4ca07) |
+| Sun, 08 Mar 2026 10:51:22 GMT | Hidden in Plainsight - PicoCTF Challenge | Xinlisalim | [Read More](https://medium.com/p/a61b5910f452) |
 | Sun, 08 Mar 2026 10:47:46 GMT | What a Group of Women on Motorcycles Taught Me About Leadership | Adeliah Jacobs | [Read More](https://medium.com/p/9dccf8ec76f9) |
+| Sun, 08 Mar 2026 10:42:46 GMT | Best Artificial Intelligence Training Institute in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/740818d17918) |
 | Sun, 08 Mar 2026 10:39:19 GMT | Blockchain ve Kriptografi İlişkisi | Fırat Blockchain Topluluğu | [Read More](https://medium.com/p/d45d7d2bed89) |
 | Sun, 08 Mar 2026 10:35:03 GMT | How the noclobber Option Improves Bash Security | Pankaj Sharma | [Read More](https://medium.com/p/c4865a708cae) |
 | Sun, 08 Mar 2026 10:33:41 GMT | Das NIS2-Effizienz-Paradoxon: Warum wir ein harmonisiertes Register für Security Assessments… | Max Kristmann | [Read More](https://medium.com/p/afbd83baa63f) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Mar 2026 01:29:08 GMT | Gulf Billionaire Torches Trump: “Who Gave You Permission to Start This War?” | Dr. Thomas Jreige | [Read More](https://medium.com/p/24b65ec6f408) |
 | Sun, 08 Mar 2026 01:27:53 GMT | GoldenSpray Lab (CyberDefenders) | Syam Prakash | [Read More](https://medium.com/p/8ed14b20d351) |
 | Sun, 08 Mar 2026 01:27:27 GMT | The Hidden Skill That Separates Good AI Developers From Everyone Else | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/91f45c4c0a3c) |
-| Sun, 08 Mar 2026 01:17:10 GMT | Your Backup Strategy Is Not a Disaster Recovery Plan — Here’s the Difference (and Why It Matters) | Always On | [Read More](https://medium.com/p/b25dc0054e26) |
-| Sun, 08 Mar 2026 01:16:52 GMT | ProFTPD 1.3.5 RCE & Apache Log Zehirlenmesi | Muhammed Burak Orakçi | [Read More](https://medium.com/p/a44ab6a3c77a) |
-| Sun, 08 Mar 2026 01:15:58 GMT | How I Built a Phishing Email Analyzer That Scores Risk 0–100 | Sanketh Subhas | [Read More](https://medium.com/p/9eb721fab2de) |
-| Sun, 08 Mar 2026 01:15:03 GMT | Tools I’m Learning in Cybersecurity | Chima A M | [Read More](https://medium.com/p/f0909c1e06e0) |
-| Sun, 08 Mar 2026 01:12:41 GMT | Deep Dive Forensic Analysis: Splashtop in Incident Response | seif | [Read More](https://medium.com/p/b702eb09a728) |
-| Sun, 08 Mar 2026 01:09:43 GMT | HackMyVM: Animetronic Walkthrough | Antonio | [Read More](https://medium.com/p/a9fb9319e672) |
