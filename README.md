@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Mar 2026 02:09:25 GMT | Never Forget a Bearer Token Again: Angular’s HTTP Interceptor Explained | Fuji Nguyen | [Read More](https://medium.com/p/805b7a63d9c7) |
+| Sun, 08 Mar 2026 02:06:27 GMT | Blue Team Journey #0 Introducing Blue Team Labs Online (BTLO) | Aditya Prayoga | [Read More](https://medium.com/p/0d07b00d3c6c) |
+| Sun, 08 Mar 2026 01:51:39 GMT | Designing an Enterprise Cyber Risk Management Program | Neviar Rawlinson, MBA | [Read More](https://medium.com/p/0080a4a0c858) |
+| Sun, 08 Mar 2026 01:37:31 GMT | Internal TryHackme en Español | Us0lfr | [Read More](https://medium.com/p/0f1b9476d387) |
+| Sun, 08 Mar 2026 01:33:31 GMT | Cybersecurity is one of the most important and fastest-growing industries in the world today. | CyberRise Institute | [Read More](https://medium.com/p/cec7c96d8682) |
+| Sun, 08 Mar 2026 01:30:30 GMT | The $100bn Hallucination | Chiara Collection | [Read More](https://medium.com/p/c9453309ac01) |
+| Sun, 08 Mar 2026 01:29:08 GMT | Gulf Billionaire Torches Trump: “Who Gave You Permission to Start This War?” | Dr. Thomas Jreige | [Read More](https://medium.com/p/24b65ec6f408) |
+| Sun, 08 Mar 2026 01:27:53 GMT | GoldenSpray Lab (CyberDefenders) | Syam Prakash | [Read More](https://medium.com/p/8ed14b20d351) |
+| Sun, 08 Mar 2026 01:27:27 GMT | The Hidden Skill That Separates Good AI Developers From Everyone Else | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/91f45c4c0a3c) |
+| Sun, 08 Mar 2026 01:17:10 GMT | Your Backup Strategy Is Not a Disaster Recovery Plan — Here’s the Difference (and Why It Matters) | Always On | [Read More](https://medium.com/p/b25dc0054e26) |
+| Sun, 08 Mar 2026 01:16:52 GMT | ProFTPD 1.3.5 RCE & Apache Log Zehirlenmesi | Muhammed Burak Orakçi | [Read More](https://medium.com/p/a44ab6a3c77a) |
+| Sun, 08 Mar 2026 01:15:58 GMT | How I Built a Phishing Email Analyzer That Scores Risk 0–100 | Sanketh Subhas | [Read More](https://medium.com/p/9eb721fab2de) |
+| Sun, 08 Mar 2026 01:15:03 GMT | Tools I’m Learning in Cybersecurity | Chima A M | [Read More](https://medium.com/p/f0909c1e06e0) |
+| Sun, 08 Mar 2026 01:12:41 GMT | Deep Dive Forensic Analysis: Splashtop in Incident Response | seif | [Read More](https://medium.com/p/b702eb09a728) |
+| Sun, 08 Mar 2026 01:09:43 GMT | HackMyVM: Animetronic Walkthrough | Antonio | [Read More](https://medium.com/p/a9fb9319e672) |
+| Sun, 08 Mar 2026 01:00:12 GMT | IAM Misconfigurations That Lead to Full Account Takeover | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/cf2d99970ce8) |
+| Sun, 08 Mar 2026 00:55:32 GMT | AWS 보안 그룹을 다 닫아도 내 DB는 열려있다? Tailscale VPN 연결의 비밀 | 이진만 (Jamie) | [Read More](https://medium.com/p/43b1d325307a) |
+| Sun, 08 Mar 2026 00:47:16 GMT | Ağ Trafiği Ele Geçirme: MitM (Man-in-the-Middle) Simülasyonu | okan soylu | [Read More](https://medium.com/p/5c1068c73d09) |
+| Sun, 08 Mar 2026 00:34:19 GMT | Basic Pentesting Writeup | Abraamadel | [Read More](https://medium.com/p/c2ecf89c47f7) |
+| Sun, 08 Mar 2026 00:32:21 GMT | Açık Port Bulduk Şimdi Ne Yapalım? | Zekikayaalp | [Read More](https://medium.com/p/1b9b66785eb1) |
+| Sun, 08 Mar 2026 00:26:53 GMT | Top 10 AWS Misconfigurations Hackers Exploit | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/74ff86446c78) |
 | Sat, 07 Mar 2026 23:42:52 GMT | AI Security Research — February 2026 | Tal Eliyahu | [Read More](https://medium.com/p/6208733b0eba) |
 | Sat, 07 Mar 2026 23:40:45 GMT | Iran Hits on Amazon’s Gulf Datacentres Cause Disruption And Triggers Serious Rethinking | James Marinero, MSc, MBA | [Read More](https://medium.com/p/911cb4d4a60f) |
 | Sat, 07 Mar 2026 23:33:48 GMT | TryHackMe Writeup AD: Basic Enumeration | Anggor0x | [Read More](https://medium.com/p/db337aafc255) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 17:15:34 GMT | Living the AI revolution — My Honest Journey With AI | Jessica | [Read More](https://medium.com/p/879a6fe8b421) |
 | Sat, 07 Mar 2026 17:08:52 GMT | Finding a Critical Authorization Flaw That Allowed Deleting Any User Account | Shir0E | [Read More](https://medium.com/p/846eb5af9dda) |
 | Sat, 07 Mar 2026 17:08:45 GMT | TryHackMe Ice Walkthrough - Exploiting a Vulnerable Icecast Server | Rajeesh R L | [Read More](https://medium.com/p/1d07e71e86a2) |
-| Sat, 07 Mar 2026 17:07:09 GMT | The No-Code Security Paradox: Why the Most Dangerous Ethical Hackers Are Now Building Workflows… | R.H Rizvi | [Read More](https://medium.com/p/7de7fa3b537d) |
-| Sat, 07 Mar 2026 17:07:01 GMT | The Bug Bounty Automation Trap: Why the Hunters Finding the Most Vulnerabilities Are Running Fewer… | R.H Rizvi | [Read More](https://medium.com/p/50cd02b07f3a) |
-| Sat, 07 Mar 2026 17:03:41 GMT | Obfuscation — The Egg Shell File | Girija | [Read More](https://medium.com/p/8e060959c01f) |
-| Sat, 07 Mar 2026 17:03:11 GMT | 4 Dangerous Active Directory Misconfigurations Attackers Exploit Every Day | Kotra Amitha | [Read More](https://medium.com/p/ac779dcb1fe7) |
-| Sat, 07 Mar 2026 17:02:31 GMT | Beyond IT: Applying IDS to Automotive CAN Bus Networks | Greivin Sanchez | [Read More](https://medium.com/p/f28eec6571db) |
-| Sat, 07 Mar 2026 17:00:46 GMT | Pay less. Learn faster. Work sooner. | Theusamaabdullah | [Read More](https://medium.com/p/e84dc0568ae1) |
-| Sat, 07 Mar 2026 16:51:00 GMT | 5 Habits That Lead to a Lonely Retirement — Every Woman Must Break These Now | Elaine Ford | [Read More](https://medium.com/p/8dfa3de51038) |
-| Sat, 07 Mar 2026 16:39:11 GMT | The Iceberg Series — Part 3: The Gap They Are Required to Keep | Berend Watchus | [Read More](https://medium.com/p/c23d608c0018) |
-| Sat, 07 Mar 2026 16:37:30 GMT | My First Week Learning Cybersecurity — What Actually Happened | Nivedhitha K S | [Read More](https://medium.com/p/9a102d639248) |
-| Sat, 07 Mar 2026 16:26:45 GMT | Hackviser Write-Up [EN/TR] — Manipulating Images with the HTML Attribute | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/6d85ac357a77) |
-| Sat, 07 Mar 2026 16:26:43 GMT | You Pressed Send | Francis Precious Wagonda | [Read More](https://medium.com/p/a69f1226f138) |
-| Sat, 07 Mar 2026 16:17:54 GMT | HTB Shocker: RCE via CGI-bin + Perl Privesc | Onurcan Genç | [Read More](https://medium.com/p/8e428ccd7b36) |
-| Sat, 07 Mar 2026 16:16:33 GMT | Is AI really a threat for humans, or are we exaggerating it? | Ibix18 | [Read More](https://medium.com/p/ea047edd178d) |
-| Sat, 07 Mar 2026 16:16:19 GMT | Write-Up CTF “Juicy Details “— TryHackMe | Thomas H | [Read More](https://medium.com/p/b5a8c4757be8) |
-| Sat, 07 Mar 2026 16:12:50 GMT | Mind Meets Machine: New Directions in Cognitive Psychology and Computer Science | AMOGH SAHORE | [Read More](https://medium.com/p/73bd44b66450) |
-| Sat, 07 Mar 2026 16:06:40 GMT | Build Your Own Local AI Automation Stack with n8n, Ollama, and Docker | Noman Iqbal | [Read More](https://medium.com/p/e821f8ceb544) |
-| Sat, 07 Mar 2026 15:57:00 GMT | Writeup picoCTF: Menyelesaikan Challenge “Cookies” (Web Exploitation) | Malvin Wijaya | [Read More](https://medium.com/p/8ffb16bfb1dc) |
-| Sat, 07 Mar 2026 15:55:13 GMT | How DuckDuckGo Works Inside the Tor Network | Tor BBB | [Read More](https://medium.com/p/86007a9fd482) |
-| Sat, 07 Mar 2026 15:53:41 GMT | Sonar Unveils Agent Centric Development Cycle: Modernizing CI for the AI Era | Harshit Nagila | [Read More](https://medium.com/p/5b2cc362b8bc) |
-| Sat, 07 Mar 2026 15:53:26 GMT | I tried to solve the ctf challenge about logging into the server using SSTI (Server Side Template… | Billy Elvonda Aron Umpel | [Read More](https://medium.com/p/2dfcc687fc73) |
-| Sat, 07 Mar 2026 15:43:06 GMT | TryHackMe AD: Basic Enumeration — Walkthrough dan Write Up | Farhan Auliya Abrar | [Read More](https://medium.com/p/f656a279a5f2) |
