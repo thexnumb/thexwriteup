@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Mar 2026 10:18:16 GMT | 9 Powerful Attack Surface Management Checks Before a Pentest | Pentest_Testing_Corp | [Read More](https://medium.com/p/5dde941db823) |
+| Sun, 08 Mar 2026 10:17:17 GMT | A Guide to the Metasploit Framework | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/6a1f3cf05a7a) |
+| Sun, 08 Mar 2026 10:17:12 GMT | A Guide to Vulnerability Analysis with Nessus | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/7e856151fc50) |
+| Sun, 08 Mar 2026 10:11:31 GMT | Active Directory Enumeration — TryHackMe AD Basic Enumeration Walkthrough | Arip Rahman Nurrohim | [Read More](https://medium.com/p/10559a17d62d) |
+| Sun, 08 Mar 2026 10:01:00 GMT | Cybersecurity Mentorship Programmes: A Smart Career Growth Strategy | Victoria Coker | [Read More](https://medium.com/p/5d89496c1f25) |
+| Sun, 08 Mar 2026 09:58:52 GMT | How to Secure Your Bitcoin Wallet: 5 Proven Tips to Protect Your Crypto from Hackers | Info Brothersmoney | [Read More](https://medium.com/p/d4ddc21e7ea9) |
+| Sun, 08 Mar 2026 09:58:12 GMT | Empire Breakout — CTF Full Walkthrough | Oluwasemipe Aransiola | [Read More](https://medium.com/p/c92163bb3c49) |
+| Sun, 08 Mar 2026 09:56:00 GMT | How Automated Policy Generation Works Behind the Scenes | Gaurav Shukla | [Read More](https://medium.com/p/a0761a2dd2f6) |
+| Sun, 08 Mar 2026 09:56:00 GMT | CRA vs NIS2 vs GDPR vs EU AI Act: Which One Actually Applies to You? | CRA Decoded | [Read More](https://medium.com/p/21a42134fd22) |
+| Sun, 08 Mar 2026 09:46:00 GMT | Solstice OffSec Machine Write-Up | Suraj Bhagat | [Read More](https://medium.com/p/8a3e40b46f0a) |
+| Sun, 08 Mar 2026 09:43:05 GMT | The Archetype of the Default Dependency | Jugaad Tiger | [Read More](https://medium.com/p/a336520c477b) |
+| Sun, 08 Mar 2026 09:40:01 GMT | When Security Architects Think in UMAMI | Jugaad Tiger | [Read More](https://medium.com/p/504edf966c8f) |
+| Sun, 08 Mar 2026 09:39:45 GMT | 5分鐘快速了解什麼是 XSS！ | Yuna Kao | [Read More](https://medium.com/p/d9e3b1576586) |
+| Sun, 08 Mar 2026 09:33:15 GMT | How to Fix the Problem of Your Personal Data in AI Training Models: A Step-by-Step Removal Guide | Talha Tech Reviews | [Read More](https://medium.com/p/eec501882281) |
 | Sun, 08 Mar 2026 09:29:43 GMT | Q-Day Gets Nearer? | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/25fee3efdd90) |
 | Sun, 08 Mar 2026 09:00:17 GMT | How Do You Implement Multi-Factor Authentication (MFA) in Spring Security Without Getting Stuck in… | Anh Trần Tuấn | [Read More](https://medium.com/p/d0dfbaab2368) |
 | Sun, 08 Mar 2026 08:57:39 GMT | I Built a Phishing Framework. Here’s What I Learned. | Vaibhav | [Read More](https://medium.com/p/0e5135061c2d) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Mar 2026 00:34:19 GMT | Basic Pentesting Writeup | Abraamadel | [Read More](https://medium.com/p/c2ecf89c47f7) |
 | Sun, 08 Mar 2026 00:32:21 GMT | Açık Port Bulduk Şimdi Ne Yapalım? | Zekikayaalp | [Read More](https://medium.com/p/1b9b66785eb1) |
 | Sun, 08 Mar 2026 00:26:53 GMT | Top 10 AWS Misconfigurations Hackers Exploit | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/74ff86446c78) |
-| Sat, 07 Mar 2026 23:42:52 GMT | AI Security Research — February 2026 | Tal Eliyahu | [Read More](https://medium.com/p/6208733b0eba) |
-| Sat, 07 Mar 2026 23:40:45 GMT | Iran Hits on Amazon’s Gulf Datacentres Cause Disruption And Triggers Serious Rethinking | James Marinero, MSc, MBA | [Read More](https://medium.com/p/911cb4d4a60f) |
-| Sat, 07 Mar 2026 23:33:48 GMT | TryHackMe Writeup AD: Basic Enumeration | Anggor0x | [Read More](https://medium.com/p/db337aafc255) |
-| Sat, 07 Mar 2026 23:29:43 GMT | 2026 International Women’s Day Message from Echoes of Women in Africa Initiatives. | Louisa Eikhomun-Agbonkhese | [Read More](https://medium.com/p/17615e6f487a) |
-| Sat, 07 Mar 2026 23:12:50 GMT | Breaking Systems to Secure Them: The Intersection of Cloud, Security, and Human Error | OTHMANE EL MQIDDEM | [Read More](https://medium.com/p/df1c7130ef39) |
-| Sat, 07 Mar 2026 23:12:28 GMT | Day 19 : SOC Team Internals Tryhackme | Cybersecurity with Jojo | [Read More](https://medium.com/p/999062431924) |
-| Sat, 07 Mar 2026 23:12:25 GMT | Reentrancy Explained for Beginners | Abraham | [Read More](https://medium.com/p/7847ca61cf8d) |
-| Sat, 07 Mar 2026 23:02:38 GMT | How I Accessed Google’s Internal AI Models via a Consumer Gmail Account | hamza | [Read More](https://medium.com/p/56dbb62f2d54) |
-| Sat, 07 Mar 2026 22:52:58 GMT | Best Skills to Learn in 2026 and How to Master Them until You head into your First Job | Waled CH | [Read More](https://medium.com/p/c1b2344130b2) |
-| Sat, 07 Mar 2026 22:38:19 GMT | ExpressWay writeup (HackTheBox) | 7s26Simon | [Read More](https://medium.com/p/8d1385c9bfce) |
-| Sat, 07 Mar 2026 22:28:49 GMT | TryHackMe SOC Analyst Road Map Part-7 | safa kaya | [Read More](https://medium.com/p/512ac9149948) |
-| Sat, 07 Mar 2026 22:27:12 GMT | Perfectly Secret Encryption Explained: Why “Scrambling” Isn’t Security | Adidev Bhattacharya | [Read More](https://medium.com/p/746b200c9c73) |
-| Sat, 07 Mar 2026 22:20:25 GMT | Cryptography in DRM: What It Actually Does | Luis Santiago | [Read More](https://medium.com/p/376738e059d4) |
-| Sat, 07 Mar 2026 22:17:07 GMT | LLM01: Prompt Injection — A Hidden Security Risk in AI Applications | Seema Gupta | [Read More](https://medium.com/p/e38cce6810a4) |
