@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Mar 2026 09:29:43 GMT | Q-Day Gets Nearer? | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/25fee3efdd90) |
+| Sun, 08 Mar 2026 09:00:17 GMT | How Do You Implement Multi-Factor Authentication (MFA) in Spring Security Without Getting Stuck in… | Anh Trần Tuấn | [Read More](https://medium.com/p/d0dfbaab2368) |
+| Sun, 08 Mar 2026 08:57:39 GMT | I Built a Phishing Framework. Here’s What I Learned. | Vaibhav | [Read More](https://medium.com/p/0e5135061c2d) |
+| Sun, 08 Mar 2026 08:40:33 GMT | 7 WordPress Security Mistakes That Will Get You Hacked (And The Latest Vulnerability You Must Fix) | shahid irfan | [Read More](https://medium.com/p/1acdc17a1dd3) |
 | Sun, 08 Mar 2026 08:27:17 GMT | NordVPN vs Surfshark vs PureVPN vs CyberGhost: Which VPN Is Actually Worth It in 2026? | TechSaver | [Read More](https://medium.com/p/d2e159b27fca) |
 | Sun, 08 Mar 2026 08:18:30 GMT | Ethical Hacking Course in Hindi — Cyber Security Training Guide | EINITIAL24 | [Read More](https://medium.com/p/f6f29a1c909e) |
 | Sun, 08 Mar 2026 08:16:45 GMT | How Pakistani TV Channels Were Hijacked | Aditya Sunny | [Read More](https://medium.com/p/b062e63aafe1) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 22:27:12 GMT | Perfectly Secret Encryption Explained: Why “Scrambling” Isn’t Security | Adidev Bhattacharya | [Read More](https://medium.com/p/746b200c9c73) |
 | Sat, 07 Mar 2026 22:20:25 GMT | Cryptography in DRM: What It Actually Does | Luis Santiago | [Read More](https://medium.com/p/376738e059d4) |
 | Sat, 07 Mar 2026 22:17:07 GMT | LLM01: Prompt Injection — A Hidden Security Risk in AI Applications | Seema Gupta | [Read More](https://medium.com/p/e38cce6810a4) |
-| Sat, 07 Mar 2026 22:11:31 GMT | Adversary Consolidation: Per-Host Attack Intensity Doubles in February 2026 | Px Mx | [Read More](https://medium.com/p/626c5cd9a163) |
-| Sat, 07 Mar 2026 22:01:00 GMT | SAML Authentication | Rhea Gupta | [Read More](https://medium.com/p/a98971e1fb17) |
-| Sat, 07 Mar 2026 22:01:00 GMT | Unfiltered Restart — Day 20: Core 1 Exam Day | Maximillian Rueda | [Read More](https://medium.com/p/88899b3edaf4) |
-| Sat, 07 Mar 2026 21:37:45 GMT | Vibe Coding Is Eating Your Security. And Most Developers Haven’t Noticed Yet. | Tech Trends by Tähīr | [Read More](https://medium.com/p/0e7e8ee624e5) |
