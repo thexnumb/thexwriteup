@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Mar 2026 06:57:23 GMT | SSPR: A Help Desk Win and a Security Disaster | Albert D. Jee | [Read More](https://medium.com/p/cecfaf9d01c7) |
+| Sun, 08 Mar 2026 06:55:13 GMT | Why Web Application Security is Important for Modern Websites | cyber security Updates | [Read More](https://medium.com/p/919626220130) |
+| Sun, 08 Mar 2026 06:52:02 GMT | The Control Plane Resilience Model (CPRM): Engineering Identity Survivability | Albert D. Jee | [Read More](https://medium.com/p/992e7dff9489) |
+| Sun, 08 Mar 2026 06:48:12 GMT | How AI Improves Decision-Making Rather Than Replacing Leaders | Vijay Kumar Gupta | [Read More](https://medium.com/p/00b0a6f6bf00) |
+| Sun, 08 Mar 2026 06:42:18 GMT | Multi-endpoint Race Conditions | Bash Overflow | [Read More](https://medium.com/p/d57591a462f7) |
+| Sun, 08 Mar 2026 06:38:32 GMT | AD: Basic Enumeration — TryHackMe | Yrddry | [Read More](https://medium.com/p/fc65c59157d8) |
+| Sun, 08 Mar 2026 06:34:38 GMT | A 19-Year-Old’s Guide to Passing the ISC2 Certified in Cybersecurity Exam | Srivardhni Palaniappan | [Read More](https://medium.com/p/d895296aaa77) |
+| Sun, 08 Mar 2026 06:31:00 GMT | How I Found My First Bug on a Government Website | loopXvedant | [Read More](https://medium.com/p/32eb3c0d0dc2) |
+| Sun, 08 Mar 2026 06:23:24 GMT | SOC257 — VPN Connection Detected from Unauthorized Country | Araf Rahman | [Read More](https://medium.com/p/6486f8356c41) |
+| Sun, 08 Mar 2026 06:07:49 GMT | Making Your Go Backend 10x Faster with Redis: REST API Caching and Secure JWT Token Rotation | Yehezkiel | [Read More](https://medium.com/p/d57877da8207) |
+| Sun, 08 Mar 2026 06:07:18 GMT | Apple Bug Bounty Program Guide (2026): How Ethical Hackers Can Earn Millions Securing the Apple… | Bugitrix | [Read More](https://medium.com/p/8490004ead3e) |
+| Sun, 08 Mar 2026 06:02:54 GMT | Your TryHackMe Streak Means Nothing. I Learned That The Hard Way. | Soumyadipta Birabar | [Read More](https://medium.com/p/32a6295074d8) |
+| Sun, 08 Mar 2026 06:01:01 GMT | As Fears of World War III Spike, Western Nations Balk at Funding Their Security | Geopolitics / Economy / Technology | [Read More](https://medium.com/p/cb1ab2695e80) |
 | Sun, 08 Mar 2026 05:58:38 GMT | Internal Controls: Your 4 Layers of Defense ️ | Sujon Al Mamun | [Read More](https://medium.com/p/8e7b2c1f6af4) |
 | Sun, 08 Mar 2026 05:57:53 GMT | Simple CTF Write-Up - TryHackMe | Nazeer Rassed | [Read More](https://medium.com/p/0f46b3cedae2) |
 | Sun, 08 Mar 2026 05:54:08 GMT | How I Found an IDOR Vulnerability Leaking Student PII on DigiiCampus — And What It Taught Me | 0xAbhiSec | [Read More](https://medium.com/p/0ffba849a948) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 20:38:13 GMT | Browser Forensics Just Got Way Easier — And It’s Free | Dean | [Read More](https://medium.com/p/f5eed9264d94) |
 | Sat, 07 Mar 2026 20:37:19 GMT | Ditch the Subscriptions: Why You Should Build a Private Smart Home Security System | NextGen Tech Press | [Read More](https://medium.com/p/f19f8d73acd0) |
 | Sat, 07 Mar 2026 20:36:20 GMT | Found a Denial of Service Vulnerability in a Major Company’s Production Infrastructure Using Shodan | Hacker MD | [Read More](https://medium.com/p/e5f766a4df79) |
-| Sat, 07 Mar 2026 20:30:23 GMT | The Linux Forensic Journey — Thumbnails Cache | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/4cbff2dce51e) |
-| Sat, 07 Mar 2026 20:10:13 GMT | Expressway Writeup (HackTheBox Easy Machine) | Ivan Daňo | [Read More](https://medium.com/p/edb56665e955) |
-| Sat, 07 Mar 2026 19:55:56 GMT | How I Curiously Built a Tiny AI Lab in My Laptop — And Why You Might Want One Too | Khurshid Hassan | [Read More](https://medium.com/p/ec068854d5c7) |
-| Sat, 07 Mar 2026 19:54:46 GMT | Cheesy Does It writeup (BLF) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/898ddd8e9f96) |
-| Sat, 07 Mar 2026 19:53:00 GMT | Who Are SOC Analysts and Why Are They Important? | Nway Nway Zay Ya | [Read More](https://medium.com/p/574928bf5362) |
-| Sat, 07 Mar 2026 19:31:04 GMT | Your WiFi Network Sees Everything | Vishal Yadav | [Read More](https://medium.com/p/f01ab292be06) |
-| Sat, 07 Mar 2026 19:21:00 GMT | From National Cyber Policy to Ship Design: The Maritime Implications of the U.S. Cyber Strategy | Julius Shin | [Read More](https://medium.com/p/be8a9b58a1fc) |
-| Sat, 07 Mar 2026 19:16:03 GMT | SQL Injection Walkthrough — TryHackMe | Aditya Bhatt | [Read More](https://medium.com/p/986c3c62f6e6) |
-| Sat, 07 Mar 2026 19:15:24 GMT | How I Discovered a Price Manipulation Vulnerability in a Public Bug Bounty Program | Scander_0X | [Read More](https://medium.com/p/344dc6e9c1ed) |
-| Sat, 07 Mar 2026 19:11:16 GMT | Ownership Matters: From ACL Abuse to GPO Takeover | Hishamrazak | [Read More](https://medium.com/p/dc9dbe73eb04) |
-| Sat, 07 Mar 2026 19:09:48 GMT | Python ile Phishing E-posta Analiz Aracı Geliştirmek (VirusTotal Entegrasyonu) | Erkin KASIM | [Read More](https://medium.com/p/89b55a5385ca) |
-| Sat, 07 Mar 2026 19:08:44 GMT | <What are the root problems?/> | Igino Corona, Eng PhD | [Read More](https://medium.com/p/2103647bc11a) |
-| Sat, 07 Mar 2026 19:01:00 GMT | C# Basic Introduction | Theebiga Vicknarajah | [Read More](https://medium.com/p/5a39ec51941e) |
