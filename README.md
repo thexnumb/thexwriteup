@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Mar 2026 17:11:36 GMT | Menjaga Benteng Digital: Memahami CIA Triad dalam Information Security | Ngakanman | [Read More](https://medium.com/p/44577b4d1ae9) |
+| Sun, 08 Mar 2026 17:08:05 GMT | Phishing: Emerging Threats & Proactive Defenses | Medjue Gore | [Read More](https://medium.com/p/29571ce14e41) |
+| Sun, 08 Mar 2026 17:05:52 GMT | Will AI Make You Jobless? How AI is Transforming the Workplace | Raghav Agarwal | [Read More](https://medium.com/p/2984c06dbd4f) |
+| Sun, 08 Mar 2026 17:05:51 GMT | Received a $300 bounty for this Mobile OTP Verification Bypass. | Ch4ndan das | [Read More](https://medium.com/p/0997b498aff7) |
+| Sun, 08 Mar 2026 17:02:49 GMT | Bypassing vCenter’s Absolute URLs and Hardcoded WebSockets Behind a Reverse Proxy | Jaime G.E. | [Read More](https://medium.com/p/c735cb1f499a) |
+| Sun, 08 Mar 2026 16:42:00 GMT | Ukraine, Iran, and the New Sequencing of Hybrid War | SIMKRA | [Read More](https://medium.com/p/f867d9badf56) |
+| Sun, 08 Mar 2026 16:36:01 GMT | HashiCorp Vault: The Right Way to Store Secrets | bektiaw | [Read More](https://medium.com/p/89676c963815) |
+| Sun, 08 Mar 2026 16:31:00 GMT | Exploiting CVE-2026–1731: A Critical Pre-Auth RCE in BeyondTrust | Lakshan Sameera | [Read More](https://medium.com/p/89249b3dcaf6) |
 | Sun, 08 Mar 2026 16:30:12 GMT | Boiler CTF — Complete TryHackMe Walkthrough | Karthikparambil | [Read More](https://medium.com/p/7301ec0b5246) |
+| Sun, 08 Mar 2026 16:23:10 GMT | Kimlik ve Erişim Yönetimi Labı | Mahir Kay | [Read More](https://medium.com/p/f368d2759792) |
 | Sun, 08 Mar 2026 16:22:43 GMT | Day 11 of 30: Cross-Site Scripting (XSS) Explained | SalmaAhmed | [Read More](https://medium.com/p/e689eb4f51f6) |
 | Sun, 08 Mar 2026 16:12:02 GMT | Write-up picoCTF 2021: Menyelesaikan Challenge “Scavenger Hunt” (Web Exploitation) | Malvin Wijaya | [Read More](https://medium.com/p/f6b32dfcd486) |
 | Sun, 08 Mar 2026 16:10:04 GMT | Day 18: I changed someone else’s address and the server didn’t notice! | Issan | [Read More](https://medium.com/p/7d2d4d3df25a) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Mar 2026 10:01:00 GMT | Cybersecurity Mentorship Programmes: A Smart Career Growth Strategy | Victoria Coker | [Read More](https://medium.com/p/5d89496c1f25) |
 | Sun, 08 Mar 2026 09:58:52 GMT | How to Secure Your Bitcoin Wallet: 5 Proven Tips to Protect Your Crypto from Hackers | Info Brothersmoney | [Read More](https://medium.com/p/d4ddc21e7ea9) |
 | Sun, 08 Mar 2026 09:58:12 GMT | Empire Breakout — CTF Full Walkthrough | Oluwasemipe Aransiola | [Read More](https://medium.com/p/c92163bb3c49) |
-| Sun, 08 Mar 2026 09:56:00 GMT | How Automated Policy Generation Works Behind the Scenes | Gaurav Shukla | [Read More](https://medium.com/p/a0761a2dd2f6) |
-| Sun, 08 Mar 2026 09:56:00 GMT | CRA vs NIS2 vs GDPR vs EU AI Act: Which One Actually Applies to You? | CRA Decoded | [Read More](https://medium.com/p/21a42134fd22) |
-| Sun, 08 Mar 2026 09:46:00 GMT | Solstice OffSec Machine Write-Up | Suraj Bhagat | [Read More](https://medium.com/p/8a3e40b46f0a) |
-| Sun, 08 Mar 2026 09:43:05 GMT | The Archetype of the Default Dependency | Jugaad Tiger | [Read More](https://medium.com/p/a336520c477b) |
-| Sun, 08 Mar 2026 09:40:01 GMT | When Security Architects Think in UMAMI | Jugaad Tiger | [Read More](https://medium.com/p/504edf966c8f) |
-| Sun, 08 Mar 2026 09:39:45 GMT | 5分鐘快速了解什麼是 XSS！ | Yuna Kao | [Read More](https://medium.com/p/d9e3b1576586) |
-| Sun, 08 Mar 2026 09:33:15 GMT | How to Fix the Problem of Your Personal Data in AI Training Models: A Step-by-Step Removal Guide | Talha Tech Reviews | [Read More](https://medium.com/p/eec501882281) |
-| Sun, 08 Mar 2026 09:29:43 GMT | Q-Day Gets Nearer? | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/25fee3efdd90) |
-| Sun, 08 Mar 2026 09:00:17 GMT | How Do You Implement Multi-Factor Authentication (MFA) in Spring Security Without Getting Stuck in… | Anh Trần Tuấn | [Read More](https://medium.com/p/d0dfbaab2368) |
