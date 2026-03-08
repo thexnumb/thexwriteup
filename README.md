@@ -12,7 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Mar 2026 15:42:38 GMT | ⚡ My Complete Journey to the eJPT v2 — Course, Exam & Final Tips | Rajarshi Sarkar | [Read More](https://medium.com/p/ed704c95e63e) |
+| Sun, 08 Mar 2026 15:31:13 GMT | CyberHeroes Writeup | Abraamadel | [Read More](https://medium.com/p/5fa2bde4b51e) |
 | Sun, 08 Mar 2026 15:21:01 GMT | The New Diplomatic Frontier: How Generative AI Is Reshaping Global Power Dynamics | Bastian Friborg | [Read More](https://medium.com/p/e2456a8cdd38) |
+| Sun, 08 Mar 2026 15:19:36 GMT | End of the World’s Largest Phishing Service — Europol Dismantles Tycoon 2FA | Patrik Žák | [Read More](https://medium.com/p/5d5e6244be0f) |
 | Sun, 08 Mar 2026 15:18:44 GMT | From 398 Days to 47: Why Legacy Pinning Breaks and How SPKI Fixes It | Mark Solo | [Read More](https://medium.com/p/48fbf5069bae) |
 | Sun, 08 Mar 2026 15:14:24 GMT | Part 5 - The Enigma Killer: Uncrackable Communications via Tokenization | PhantomKey Technologies | [Read More](https://medium.com/p/bd363761ad5c) |
 | Sun, 08 Mar 2026 15:10:40 GMT | CVE-2014–6271 — Shellshock Vulnerability Explained | Anaselmendili | [Read More](https://medium.com/p/ca784ba60b5e) |
@@ -109,6 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Mar 2026 06:57:23 GMT | SSPR: A Help Desk Win and a Security Disaster | Albert D. Jee | [Read More](https://medium.com/p/cecfaf9d01c7) |
 | Sun, 08 Mar 2026 06:55:13 GMT | Why Web Application Security is Important for Modern Websites | cyber security Updates | [Read More](https://medium.com/p/919626220130) |
 | Sun, 08 Mar 2026 06:52:02 GMT | The Control Plane Resilience Model (CPRM): Engineering Identity Survivability | Albert D. Jee | [Read More](https://medium.com/p/992e7dff9489) |
-| Sun, 08 Mar 2026 06:50:53 GMT | XSS Inbound Attack: I Didn’t Steal Your Cookie. I Stole Your Souls. | 歔欷と | [Read More](https://medium.com/p/f9f18fc2e2f4) |
-| Sun, 08 Mar 2026 06:48:12 GMT | How AI Improves Decision-Making Rather Than Replacing Leaders | Vijay Kumar Gupta | [Read More](https://medium.com/p/00b0a6f6bf00) |
-| Sun, 08 Mar 2026 06:42:18 GMT | Multi-endpoint Race Conditions | Bash Overflow | [Read More](https://medium.com/p/d57591a462f7) |
