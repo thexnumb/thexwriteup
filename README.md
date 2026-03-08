@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Mar 2026 04:17:02 GMT | When a Learner Can See Everyone: Finding a Hidden Data Exposure Bug | Rahul Masal | [Read More](https://medium.com/p/29d4373e2d0d) |
+| Sun, 08 Mar 2026 04:13:14 GMT | I built a Windows Update blocker that actually works — without breaking MedicSvc or fighting the OS | The_Big_Show_4096 | [Read More](https://medium.com/p/38d97318cfa0) |
+| Sun, 08 Mar 2026 04:05:39 GMT | AI Red Team Spent Two Weeks Breaking Autonomous Agents — Here Is What They Found | Jbird | [Read More](https://medium.com/p/25e7d19d1374) |
+| Sun, 08 Mar 2026 03:55:01 GMT | From a Single Attack to Campaign Intelligence Using Only a JavaScript Filename | Daniel K | [Read More](https://medium.com/p/5b5f8120f930) |
+| Sun, 08 Mar 2026 03:54:12 GMT | When You Turn On Your PC: A Story of Awakening | Gajanan Tayde | [Read More](https://medium.com/p/4550b54cfce7) |
+| Sun, 08 Mar 2026 03:49:46 GMT | GHOST: Where OSINT Data Finally Gets Organized!!! | cybrNK | [Read More](https://medium.com/p/2b81c7ee7bed) |
+| Sun, 08 Mar 2026 03:45:09 GMT | An Executive Guide to Understanding Brazil’s “Operational Calendar” | ᴅᴀɴ ᴋᴏʀᴏᴠᴛᴄʜ | [Read More](https://medium.com/p/3ae8a50087e4) |
+| Sun, 08 Mar 2026 03:43:57 GMT | HTB — Brutus Write Up | Annisa Eka Putri | [Read More](https://medium.com/p/0e7a895b8374) |
+| Sun, 08 Mar 2026 03:38:40 GMT | The Great Open Source Shutdown | Morgan Ellis | [Read More](https://medium.com/p/f3be1ed4c27d) |
+| Sun, 08 Mar 2026 03:29:58 GMT | Crash after crash reshaped how Generation X thinks about work, loyalty, and financial security. | Tiny Desk Publishing | [Read More](https://medium.com/p/c15e719e58d3) |
+| Sun, 08 Mar 2026 03:29:17 GMT | Hunting the Hunters Ep. 1: Operation Duck Hunt | Michael Reichstein | [Read More](https://medium.com/p/214fcc71c861) |
+| Sun, 08 Mar 2026 02:51:11 GMT | How I Discovered an Account Takeover Vulnerability via Improper Session Handling | RAHUL -Nj | [Read More](https://medium.com/p/7182a65448a1) |
+| Sun, 08 Mar 2026 02:42:38 GMT | Monitoring Active Directory (THM) Tryhackme WriteUp Answer | Lawvye | [Read More](https://medium.com/p/851a49ffafd4) |
+| Sun, 08 Mar 2026 02:35:45 GMT | PNPT Report Writing Guide | jaejun835 | [Read More](https://medium.com/p/eab7d7da9b6b) |
 | Sun, 08 Mar 2026 02:09:25 GMT | Never Forget a Bearer Token Again: Angular’s HTTP Interceptor Explained | Fuji Nguyen | [Read More](https://medium.com/p/805b7a63d9c7) |
 | Sun, 08 Mar 2026 02:06:27 GMT | Blue Team Journey #0 Introducing Blue Team Labs Online (BTLO) | Aditya Prayoga | [Read More](https://medium.com/p/0d07b00d3c6c) |
 | Sun, 08 Mar 2026 01:51:39 GMT | Designing an Enterprise Cyber Risk Management Program | Neviar Rawlinson, MBA | [Read More](https://medium.com/p/0080a4a0c858) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 18:23:35 GMT | Quantum Bilgisayarlar Şifrelemeyi Kırabilir mi? | Ali Yaşe | [Read More](https://medium.com/p/65f2c3822fc3) |
 | Sat, 07 Mar 2026 18:21:41 GMT | Architecting the Unbreakable: The 100% Hand-Coded Web3 Ecosystem by Ayamil Coders | 516 Hackers | [Read More](https://medium.com/p/4fa299685938) |
 | Sat, 07 Mar 2026 18:11:03 GMT | Bazı CTI Raporları Neden İşlevsiz ve 2026 Orta Doğu Tırmanışında Gerçekte Neler Oluyor? | Gökhan AYNACI | [Read More](https://medium.com/p/76dae0891b82) |
-| Sat, 07 Mar 2026 18:06:00 GMT | Scamming Scammers in My Free Time | Eniela P. Vela | [Read More](https://medium.com/p/a0975344cb03) |
-| Sat, 07 Mar 2026 17:57:43 GMT | Healthcare Supply Chain Under Cyber Siege: Lessons from the Cognizant TriZetto Data Breach | Chetan Seripally | [Read More](https://medium.com/p/ad595bf7dc3d) |
-| Sat, 07 Mar 2026 17:55:20 GMT | Salt Nedir ve Neden Parola Güvenliğinin En Önemli Parçasıdır? | Ali Yaşe | [Read More](https://medium.com/p/6d22599c1833) |
-| Sat, 07 Mar 2026 17:41:24 GMT | Data Centre Security in Warzone | S Sarswat | [Read More](https://medium.com/p/eb8c27b2e631) |
-| Sat, 07 Mar 2026 17:40:11 GMT | Trump tells Iran to surrender claiming its Airforce and navy are “gone” | Everclear | [Read More](https://medium.com/p/796d8fe5cc84) |
-| Sat, 07 Mar 2026 17:38:46 GMT | HackTheBox — Brutus Log Analysis | Dimas Adrian | [Read More](https://medium.com/p/dfcccc5ae6ce) |
-| Sat, 07 Mar 2026 17:38:08 GMT | AI Found 22 Zero-Days in Firefox in Two Weeks. Your Patch Management Policy Wasn’t Built for This. | Stuardo Rodriguez | [Read More](https://medium.com/p/392b2b97fd82) |
-| Sat, 07 Mar 2026 17:36:04 GMT | Starting My Journey of Learning Cybersecurity in Public | Yash Shinde | [Read More](https://medium.com/p/48ed6b8bfea3) |
-| Sat, 07 Mar 2026 17:32:07 GMT | The Invisible Shield: Why Most System Architectures Are Failing in 2026 | Skyauctus | [Read More](https://medium.com/p/79d5224d98a3) |
-| Sat, 07 Mar 2026 17:27:57 GMT | Pfsense download steps and simple configuration | cyberwriter | [Read More](https://medium.com/p/d02a28c8c99d) |
-| Sat, 07 Mar 2026 17:23:11 GMT | I Built a Spring Boot Auth System in 30 Minutes — Then Production Broke | CodeTalks | [Read More](https://medium.com/p/8fdb0352bf05) |
-| Sat, 07 Mar 2026 17:15:34 GMT | Living the AI revolution — My Honest Journey With AI | Jessica | [Read More](https://medium.com/p/879a6fe8b421) |
-| Sat, 07 Mar 2026 17:08:52 GMT | Finding a Critical Authorization Flaw That Allowed Deleting Any User Account | Shir0E | [Read More](https://medium.com/p/846eb5af9dda) |
-| Sat, 07 Mar 2026 17:08:45 GMT | TryHackMe Ice Walkthrough - Exploiting a Vulnerable Icecast Server | Rajeesh R L | [Read More](https://medium.com/p/1d07e71e86a2) |
