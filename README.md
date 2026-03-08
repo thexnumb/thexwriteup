@@ -12,6 +12,8 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Mar 2026 11:31:00 GMT | From Path Traversal to Full Server Access | Ishant Gupta | [Read More](https://medium.com/p/9f55b3226a93) |
+| Sun, 08 Mar 2026 11:28:36 GMT | Your Password Is Not the Problem Anymore. Here’s What Actually Gets People Hacked in 2026 | Nitesh K | [Read More](https://medium.com/p/cc91322f30f6) |
 | Sun, 08 Mar 2026 11:15:00 GMT | Understanding Rate Limiting and How It Affects Bug Bounty Testing | ghostyjoe | [Read More](https://medium.com/p/8e3dc8cb83f0) |
 | Sun, 08 Mar 2026 11:13:15 GMT | Niyə Kali Linux? | Behbud Behbudov | [Read More](https://medium.com/p/e382c4218733) |
 | Sun, 08 Mar 2026 11:11:59 GMT | Stop Building Super Agents — Here’s How AI Agents Should Actually Work | Shubh Jain | [Read More](https://medium.com/p/f4f1894ead08) |
@@ -110,5 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Mar 2026 01:33:31 GMT | Cybersecurity is one of the most important and fastest-growing industries in the world today. | CyberRise Institute | [Read More](https://medium.com/p/cec7c96d8682) |
 | Sun, 08 Mar 2026 01:30:30 GMT | The $100bn Hallucination | Chiara Collection | [Read More](https://medium.com/p/c9453309ac01) |
 | Sun, 08 Mar 2026 01:29:08 GMT | Gulf Billionaire Torches Trump: “Who Gave You Permission to Start This War?” | Dr. Thomas Jreige | [Read More](https://medium.com/p/24b65ec6f408) |
-| Sun, 08 Mar 2026 01:27:53 GMT | GoldenSpray Lab (CyberDefenders) | Syam Prakash | [Read More](https://medium.com/p/8ed14b20d351) |
-| Sun, 08 Mar 2026 01:27:27 GMT | The Hidden Skill That Separates Good AI Developers From Everyone Else | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/91f45c4c0a3c) |
