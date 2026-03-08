@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Mar 2026 07:40:46 GMT | WordPress Core Security 2026 — Part 4 | Leetsec Sarwar | [Read More](https://medium.com/p/b3cbf211fa60) |
+| Sun, 08 Mar 2026 07:31:37 GMT | CYBERDUDEBIVASH SENTINEL APEX v43.0 GENESIS ARCHITECTURE WHITEPAPER | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/3e3abe6cf474) |
+| Sun, 08 Mar 2026 07:24:48 GMT | To AI or Not To AI | Leisha  B. | [Read More](https://medium.com/p/1590c731e157) |
+| Sun, 08 Mar 2026 07:23:33 GMT | The “Agentic” Mirage: Why My 6 Years in Cyber Taught Me to Distrust “Seamless” | Mohit | [Read More](https://medium.com/p/5aa58acc26ff) |
+| Sun, 08 Mar 2026 07:17:20 GMT | The Security Checklist Every Founder Ignores (Until It’s Too Late) | Ajekigbe Michael. A | [Read More](https://medium.com/p/f173ae4bc723) |
+| Sun, 08 Mar 2026 07:17:11 GMT | Blockchain Technology: The Backbone of the Digital Future | NEws Journal | [Read More](https://medium.com/p/fcfc1847f959) |
+| Sun, 08 Mar 2026 07:08:34 GMT | What does a quantum-safe Internet look like? | Jennifer Tran | [Read More](https://medium.com/p/41eb183d1437) |
+| Sun, 08 Mar 2026 07:07:10 GMT | Coruna iOS Exploit Kit Uses 23 Exploits Across Five Chains | Ahsan | [Read More](https://medium.com/p/56b6a0093d40) |
+| Sun, 08 Mar 2026 07:00:54 GMT | Enterprise-Grade Security Remediation in 2026: A Step-by-Step Action Plan for SaaS Production… | Lalatendu Keshari Swain | [Read More](https://medium.com/p/3b58ee9300e8) |
 | Sun, 08 Mar 2026 06:57:23 GMT | SSPR: A Help Desk Win and a Security Disaster | Albert D. Jee | [Read More](https://medium.com/p/cecfaf9d01c7) |
 | Sun, 08 Mar 2026 06:55:13 GMT | Why Web Application Security is Important for Modern Websites | cyber security Updates | [Read More](https://medium.com/p/919626220130) |
 | Sun, 08 Mar 2026 06:52:02 GMT | The Control Plane Resilience Model (CPRM): Engineering Identity Survivability | Albert D. Jee | [Read More](https://medium.com/p/992e7dff9489) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 21:28:03 GMT | Overcoming the “Contributor” Trap: Implementing Least Privilege Custom Roles in Azure Data Factory | Siva Pinnaka | [Read More](https://medium.com/p/1e0d3da84ba6) |
 | Sat, 07 Mar 2026 21:12:24 GMT | Building a Centralized Windows Log Forwarding Pipeline with Winlogbeat, Logstash, Elasticsearch… | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/0817b2298579) |
 | Sat, 07 Mar 2026 21:08:05 GMT | Building a Security Monitoring Stack: Integrating Any Tool with Elasticsearch Using Docker | VampireXRay | [Read More](https://medium.com/p/0a3e0c8cbc93) |
-| Sat, 07 Mar 2026 21:06:58 GMT | Görünmezin Peşinde: Bant Dışı XSS (OOB-XSS) ve Zafiyetli Sistemlerin Domino Etkisi | Erdem Ceylan | [Read More](https://medium.com/p/be8172818bcd) |
-| Sat, 07 Mar 2026 21:03:43 GMT | Beyond the Perimeter: How Darkmap Helps in Threat Intelligence for the Modern Investigator | Darkmap Osint | [Read More](https://medium.com/p/7d6b052a537e) |
-| Sat, 07 Mar 2026 21:00:27 GMT | Iranian APT Seedworm: Active Operations on U.S. Networks — March 2026 Threat Intelligence Bulletin | Parminder Kumar Sharma | [Read More](https://medium.com/p/7e6ac7e1b578) |
-| Sat, 07 Mar 2026 20:45:47 GMT | The Button That Sells Your Identity: What Really Happens When You 'Login with Google' | Alok | [Read More](https://medium.com/p/4d6cb08e02d0) |
-| Sat, 07 Mar 2026 20:43:33 GMT | The 9-Hour Fuse: 5 Surprising Realities of the Middle East’s New Digital Front | SOCFortress | [Read More](https://medium.com/p/f6f99be9b39c) |
-| Sat, 07 Mar 2026 20:38:29 GMT | Bastard — HTB Walkthrough | Hemantha Krishna Challa | [Read More](https://medium.com/p/eafa8b3eb2c2) |
-| Sat, 07 Mar 2026 20:38:13 GMT | Browser Forensics Just Got Way Easier — And It’s Free | Dean | [Read More](https://medium.com/p/f5eed9264d94) |
-| Sat, 07 Mar 2026 20:37:19 GMT | Ditch the Subscriptions: Why You Should Build a Private Smart Home Security System | NextGen Tech Press | [Read More](https://medium.com/p/f19f8d73acd0) |
-| Sat, 07 Mar 2026 20:36:20 GMT | Found a Denial of Service Vulnerability in a Major Company’s Production Infrastructure Using Shodan | Hacker MD | [Read More](https://medium.com/p/e5f766a4df79) |
