@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Mar 2026 21:45:48 GMT | You Can’t Prompt Your Way to the Next Uber: Why AI Won’t Build Your App Alone | Caksa Aji | [Read More](https://medium.com/p/4c74eb4efbd9) |
+| Sun, 08 Mar 2026 21:39:19 GMT | HackPark: Brute Forcing BlogEngine.NET and Escalating to SYSTEM via Scheduled Task | Robert Perez | [Read More](https://medium.com/p/d1e7473e4e01) |
+| Sun, 08 Mar 2026 21:35:27 GMT | BloodHound Entra ID CTF #2 — From Guest to Global Admin: Exploiting Application Administrator via… | Cyberguy | [Read More](https://medium.com/p/251d6d32e3ea) |
+| Sun, 08 Mar 2026 21:32:00 GMT | I Hired 4 AI Agents to Audit My App. They Found Things I’d Been Shipping to Production. | SOHAM PAWASKAR | [Read More](https://medium.com/p/462420a9dbc8) |
+| Sun, 08 Mar 2026 21:30:23 GMT | The Windows 11 Feature Update That’s Quietly Killing Your NAC Deployment | Jbird | [Read More](https://medium.com/p/a5c64361e545) |
+| Sun, 08 Mar 2026 21:28:22 GMT | CodeGuardian: AI-Driven Security Code Review With Natural Language Understanding | Sage Khan | [Read More](https://medium.com/p/08fc1954d93f) |
+| Sun, 08 Mar 2026 21:22:08 GMT | The Moment AI Finally Made Sense to Me | Omotola Olatujayan | [Read More](https://medium.com/p/6e7630c69c05) |
 | Sun, 08 Mar 2026 21:06:18 GMT | Building Production Grade K3s Clusters with Cilium WireGuard Encryption in Air-Gapped Environments | Balasubramanian Jayamoorthy | [Read More](https://medium.com/p/c5a1273186b6) |
 | Sun, 08 Mar 2026 21:01:02 GMT | Detect. Download. Extract. Automating Source Code Recovery with DotGit-Enhanced | Maor Dayan - מאור דיין | [Read More](https://medium.com/p/35b0e72402f3) |
 | Sun, 08 Mar 2026 21:01:01 GMT | IAM Role Creation and Management in AWS | Rhea Gupta | [Read More](https://medium.com/p/db778044065c) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Mar 2026 15:10:40 GMT | CVE-2014–6271 — Shellshock Vulnerability Explained | Anaselmendili | [Read More](https://medium.com/p/ca784ba60b5e) |
 | Sun, 08 Mar 2026 15:01:04 GMT | JWT Is Not Authentication — And This Misconception Is In 70% of Production Apps | The Thread Whisperer | [Read More](https://medium.com/p/088d5c7805b0) |
 | Sun, 08 Mar 2026 15:00:10 GMT | Cyber Security Audit Services: Complete 2026 Guide for Enterprises & Web 3 Platforms | Web5 Nexus | [Read More](https://medium.com/p/2f2dd5f54a50) |
-| Sun, 08 Mar 2026 14:49:31 GMT | I’m cooking in the cloud and the recipe has 7 key ingredients! | IsaacFabianK | [Read More](https://medium.com/p/7114ab4b8189) |
-| Sun, 08 Mar 2026 14:47:26 GMT | The Hidden Security Risks of Lovable’s AI App Builder | Eve Brennan | [Read More](https://medium.com/p/b138ae3dc619) |
-| Sun, 08 Mar 2026 14:44:08 GMT | JSON Web Tokens in 2026: The Complete Developer Guide | Asanka Sampath | [Read More](https://medium.com/p/6da3e8d3e597) |
-| Sun, 08 Mar 2026 14:37:24 GMT | Shared IP vs Dedicated IP: Security, Email Deliverability, and SEO Explained | Whwebhosting | [Read More](https://medium.com/p/b1bd87d76775) |
-| Sun, 08 Mar 2026 14:31:35 GMT | Bugforge Write-up — Exploiting JWT Role Manipulation in Shady Oaks Financials | Pranaya Shrestha | [Read More](https://medium.com/p/3d00e7b74a29) |
-| Sun, 08 Mar 2026 14:26:17 GMT | Basic Pentesting:1 Walkthrough - Vulnhub | Farhanhippargi | [Read More](https://medium.com/p/78d620b8b16e) |
-| Sun, 08 Mar 2026 14:12:07 GMT | Understanding JWT: The Secret Behind Modern Web Authentication | Deep Pathak | [Read More](https://medium.com/p/607335c293c9) |
