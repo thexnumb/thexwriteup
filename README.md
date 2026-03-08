@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Mar 2026 15:21:01 GMT | The New Diplomatic Frontier: How Generative AI Is Reshaping Global Power Dynamics | Bastian Friborg | [Read More](https://medium.com/p/e2456a8cdd38) |
+| Sun, 08 Mar 2026 15:18:44 GMT | From 398 Days to 47: Why Legacy Pinning Breaks and How SPKI Fixes It | Mark Solo | [Read More](https://medium.com/p/48fbf5069bae) |
+| Sun, 08 Mar 2026 15:14:24 GMT | Part 5 - The Enigma Killer: Uncrackable Communications via Tokenization | PhantomKey Technologies | [Read More](https://medium.com/p/bd363761ad5c) |
+| Sun, 08 Mar 2026 15:10:40 GMT | CVE-2014–6271 — Shellshock Vulnerability Explained | Anaselmendili | [Read More](https://medium.com/p/ca784ba60b5e) |
+| Sun, 08 Mar 2026 15:01:04 GMT | JWT Is Not Authentication — And This Misconception Is In 70% of Production Apps | The Thread Whisperer | [Read More](https://medium.com/p/088d5c7805b0) |
+| Sun, 08 Mar 2026 15:00:10 GMT | Cyber Security Audit Services: Complete 2026 Guide for Enterprises & Web 3 Platforms | Web5 Nexus | [Read More](https://medium.com/p/2f2dd5f54a50) |
+| Sun, 08 Mar 2026 14:49:31 GMT | I’m cooking in the cloud and the recipe has 7 key ingredients! | IsaacFabianK | [Read More](https://medium.com/p/7114ab4b8189) |
 | Sun, 08 Mar 2026 14:47:26 GMT | The Hidden Security Risks of Lovable’s AI App Builder | Eve Brennan | [Read More](https://medium.com/p/b138ae3dc619) |
 | Sun, 08 Mar 2026 14:44:08 GMT | JSON Web Tokens in 2026: The Complete Developer Guide | Asanka Sampath | [Read More](https://medium.com/p/6da3e8d3e597) |
 | Sun, 08 Mar 2026 14:37:24 GMT | Shared IP vs Dedicated IP: Security, Email Deliverability, and SEO Explained | Whwebhosting | [Read More](https://medium.com/p/b1bd87d76775) |
@@ -102,13 +109,6 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Mar 2026 06:57:23 GMT | SSPR: A Help Desk Win and a Security Disaster | Albert D. Jee | [Read More](https://medium.com/p/cecfaf9d01c7) |
 | Sun, 08 Mar 2026 06:55:13 GMT | Why Web Application Security is Important for Modern Websites | cyber security Updates | [Read More](https://medium.com/p/919626220130) |
 | Sun, 08 Mar 2026 06:52:02 GMT | The Control Plane Resilience Model (CPRM): Engineering Identity Survivability | Albert D. Jee | [Read More](https://medium.com/p/992e7dff9489) |
+| Sun, 08 Mar 2026 06:50:53 GMT | XSS Inbound Attack: I Didn’t Steal Your Cookie. I Stole Your Souls. | 歔欷と | [Read More](https://medium.com/p/f9f18fc2e2f4) |
 | Sun, 08 Mar 2026 06:48:12 GMT | How AI Improves Decision-Making Rather Than Replacing Leaders | Vijay Kumar Gupta | [Read More](https://medium.com/p/00b0a6f6bf00) |
 | Sun, 08 Mar 2026 06:42:18 GMT | Multi-endpoint Race Conditions | Bash Overflow | [Read More](https://medium.com/p/d57591a462f7) |
-| Sun, 08 Mar 2026 06:38:32 GMT | AD: Basic Enumeration — TryHackMe | Yrddry | [Read More](https://medium.com/p/fc65c59157d8) |
-| Sun, 08 Mar 2026 06:34:38 GMT | A 19-Year-Old’s Guide to Passing the ISC2 Certified in Cybersecurity Exam | Srivardhni Palaniappan | [Read More](https://medium.com/p/d895296aaa77) |
-| Sun, 08 Mar 2026 06:31:00 GMT | How I Found My First Bug on a Government Website | loopXvedant | [Read More](https://medium.com/p/32eb3c0d0dc2) |
-| Sun, 08 Mar 2026 06:23:24 GMT | SOC257 — VPN Connection Detected from Unauthorized Country | Araf Rahman | [Read More](https://medium.com/p/6486f8356c41) |
-| Sun, 08 Mar 2026 06:07:49 GMT | Making Your Go Backend 10x Faster with Redis: REST API Caching and Secure JWT Token Rotation | Yehezkiel | [Read More](https://medium.com/p/d57877da8207) |
-| Sun, 08 Mar 2026 06:07:18 GMT | Apple Bug Bounty Program Guide (2026): How Ethical Hackers Can Earn Millions Securing the Apple… | Bugitrix | [Read More](https://medium.com/p/8490004ead3e) |
-| Sun, 08 Mar 2026 06:02:54 GMT | Your TryHackMe Streak Means Nothing. I Learned That The Hard Way. | Soumyadipta Birabar | [Read More](https://medium.com/p/32a6295074d8) |
-| Sun, 08 Mar 2026 06:01:01 GMT | As Fears of World War III Spike, Western Nations Balk at Funding Their Security | Geopolitics / Economy / Technology | [Read More](https://medium.com/p/cb1ab2695e80) |
