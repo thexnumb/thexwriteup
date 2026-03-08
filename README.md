@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Mar 2026 22:49:48 GMT | OTP / Verification Code Brute Force Vulnerability | Youssefelbakrey | [Read More](https://medium.com/p/43756b5f15ed) |
+| Sun, 08 Mar 2026 22:44:54 GMT | AWS Security Cards: 54 Services, One Card Each | Tarek CHEIKH | [Read More](https://medium.com/p/24041204b520) |
+| Sun, 08 Mar 2026 22:27:05 GMT | The State of AWS Security 2026: Free Whitepaper, No Gate | Tarek CHEIKH | [Read More](https://medium.com/p/66eebc90d2d9) |
+| Sun, 08 Mar 2026 22:26:53 GMT | Global Data Infrastructure: How Data Centers and Undersea Cables Stay Secure Against Wars… | Syed Muhammad Irfan | [Read More](https://medium.com/p/aab8b52c1062) |
 | Sun, 08 Mar 2026 22:24:37 GMT | Build Your Own Cybersecurity Game — Learn Security by Playing | ghostyjoe | [Read More](https://medium.com/p/786ca1ece01a) |
 | Sun, 08 Mar 2026 22:22:46 GMT | Building a Reverse Shell Shellcode with Stardust | S12 - 0x12Dark Development | [Read More](https://medium.com/p/dae845cd1db8) |
 | Sun, 08 Mar 2026 22:15:01 GMT | The Bug-Hunting Singularity: Claude Finds 22 Firefox Vulnerabilities, and the Clock Starts Ticking | Ilias Armenakis | [Read More](https://medium.com/p/95d8db6d692a) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Mar 2026 15:44:25 GMT | Writeup 02: I know your JWT Private Key? | BL4CKD3V0P5 | [Read More](https://medium.com/p/5f24c3b76475) |
 | Sun, 08 Mar 2026 15:43:40 GMT | How to Protect Leaking Sensitive Data to ChatGPT/Gemini/Claude (Practical Guide for 2026) | Apoorv Sharma | [Read More](https://medium.com/p/3df291e4c755) |
 | Sun, 08 Mar 2026 15:43:19 GMT | Sweettooth.inc — From Username Leak to Root Compromise | Roshan Rajbanshi | [Read More](https://medium.com/p/f51eb958d6a7) |
-| Sun, 08 Mar 2026 15:42:38 GMT | ⚡ My Complete Journey to the eJPT v2 — Course, Exam & Final Tips | Rajarshi Sarkar | [Read More](https://medium.com/p/ed704c95e63e) |
-| Sun, 08 Mar 2026 15:31:13 GMT | CyberHeroes Writeup | Abraamadel | [Read More](https://medium.com/p/5fa2bde4b51e) |
-| Sun, 08 Mar 2026 15:21:01 GMT | The New Diplomatic Frontier: How Generative AI Is Reshaping Global Power Dynamics | Bastian Friborg | [Read More](https://medium.com/p/e2456a8cdd38) |
-| Sun, 08 Mar 2026 15:19:36 GMT | End of the World’s Largest Phishing Service — Europol Dismantles Tycoon 2FA | Patrik Žák | [Read More](https://medium.com/p/5d5e6244be0f) |
