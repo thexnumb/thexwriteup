@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Mar 2026 05:04:33 GMT | I Hacked Your Account with a 6-Digit PIN: The Brute-Force Nightmare You Need to Fix | Krishna Kumar | [Read More](https://medium.com/p/7707309ca8c4) |
+| Sun, 08 Mar 2026 04:42:39 GMT | OSINT Spain | Snooptsz | [Read More](https://medium.com/p/5a2c557a92e6) |
+| Sun, 08 Mar 2026 04:42:28 GMT | Windows 11 Is Sending Your Gameplay Data to Microsoft — Here’s How to Stop It | Algo Insights | [Read More](https://medium.com/p/cc658ef84f91) |
+| Sun, 08 Mar 2026 04:42:07 GMT | Why OAuth 2.0 Matters in Today’s Digital World | Syed Aaqib Hussain | [Read More](https://medium.com/p/3f73fac12125) |
+| Sun, 08 Mar 2026 04:41:13 GMT | After Being Hacked, Substack Finally Decided I’m Old Enough So I’ll Be Back Soon | Aiden (Owner of Illumination Gaming) | [Read More](https://medium.com/p/f3215752557f) |
+| Sun, 08 Mar 2026 04:38:34 GMT | Online Scammers are Not hacking your Phone — They are Hacking Your Mind | Writerapoorva | [Read More](https://medium.com/p/3cf34268e6f8) |
+| Sun, 08 Mar 2026 04:31:42 GMT | Building an OAuth2 library in Dart from scratch. | Tobi Franklin | [Read More](https://medium.com/p/93bc55c1c991) |
+| Sun, 08 Mar 2026 04:31:16 GMT | Why Your Penetration Test Report Is Useless (And What to Do About It) | Vidar Frostbjorn | [Read More](https://medium.com/p/238d5e451abc) |
+| Sun, 08 Mar 2026 04:30:06 GMT | I Started With Curiosity. It Led Me to Cybersecurity in the Age of AI. | Mr.safni | [Read More](https://medium.com/p/97571e80a4e5) |
+| Sun, 08 Mar 2026 04:28:19 GMT | Attacktive Directory — TryHackMe Walkthrough | Ibnu Hibban | [Read More](https://medium.com/p/afb0a6db2fa9) |
+| Sun, 08 Mar 2026 04:23:57 GMT | LAB TIME: GRWM AS A Threat Intelligence Analyst | Karim roshdy | [Read More](https://medium.com/p/b1258ca3d9ce) |
 | Sun, 08 Mar 2026 04:17:02 GMT | When a Learner Can See Everyone: Finding a Hidden Data Exposure Bug | Rahul Masal | [Read More](https://medium.com/p/29d4373e2d0d) |
 | Sun, 08 Mar 2026 04:13:14 GMT | I built a Windows Update blocker that actually works — without breaking MedicSvc or fighting the OS | The_Big_Show_4096 | [Read More](https://medium.com/p/38d97318cfa0) |
 | Sun, 08 Mar 2026 04:05:39 GMT | AI Red Team Spent Two Weeks Breaking Autonomous Agents — Here Is What They Found | Jbird | [Read More](https://medium.com/p/25e7d19d1374) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 07 Mar 2026 18:46:01 GMT | HTTP DURUM KODLARI | Zeynel Demirdağ | [Read More](https://medium.com/p/6604d8ffaa17) |
 | Sat, 07 Mar 2026 18:44:49 GMT | Arctic — HTB Walkthrough | Hemantha Krishna Challa | [Read More](https://medium.com/p/b8ae68aea971) |
 | Sat, 07 Mar 2026 18:44:05 GMT | The Static Risk Approximation | Gracie ‘Potter’ Daniel (GhG) | [Read More](https://medium.com/p/b85d08cafe0f) |
-| Sat, 07 Mar 2026 18:40:30 GMT | From Rejection to RCE: How a Dependency Confusion Finding Came Back Four Months Later and earned… | Sagar Dhoot | [Read More](https://medium.com/p/e3ef1669fe24) |
-| Sat, 07 Mar 2026 18:38:44 GMT | Two Signals Your Protocol is Under Attack: Flow Anomaly and Threshold Breaches | Exploitless | [Read More](https://medium.com/p/7447d3e338c1) |
-| Sat, 07 Mar 2026 18:37:02 GMT | Rate Limiting Strategies: How to Protect Your APIs Without Slowing Everything Down | Abhay upadhyay | [Read More](https://medium.com/p/2f85601b2e59) |
-| Sat, 07 Mar 2026 18:33:07 GMT | I punish myself and call it awareness. | noe | [Read More](https://medium.com/p/07efb64ef855) |
-| Sat, 07 Mar 2026 18:31:00 GMT | Hiding My Precious Mind | organic flow. | [Read More](https://medium.com/p/ee9ab2f0a4d5) |
-| Sat, 07 Mar 2026 18:30:18 GMT | Lab: Exploiting NoSQL operator injection to extract unknown fields (writeup) | </Y55F> | [Read More](https://medium.com/p/889e5d26cffc) |
-| Sat, 07 Mar 2026 18:26:59 GMT | Cybereason vs. DarkSide: Breaking Down the Ransomware That Thought It Was Untouchable | Pranav More | [Read More](https://medium.com/p/9239ba69ff79) |
-| Sat, 07 Mar 2026 18:26:01 GMT | EXPOSE- TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/e3e6833d50ac) |
-| Sat, 07 Mar 2026 18:23:35 GMT | Quantum Bilgisayarlar Şifrelemeyi Kırabilir mi? | Ali Yaşe | [Read More](https://medium.com/p/65f2c3822fc3) |
-| Sat, 07 Mar 2026 18:21:41 GMT | Architecting the Unbreakable: The 100% Hand-Coded Web3 Ecosystem by Ayamil Coders | 516 Hackers | [Read More](https://medium.com/p/4fa299685938) |
-| Sat, 07 Mar 2026 18:11:03 GMT | Bazı CTI Raporları Neden İşlevsiz ve 2026 Orta Doğu Tırmanışında Gerçekte Neler Oluyor? | Gökhan AYNACI | [Read More](https://medium.com/p/76dae0891b82) |
