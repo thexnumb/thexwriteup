@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Mar 2026 13:27:14 GMT | How to Choose a Reliable Crypto Exchange: A 2026 Guide to Crypto Security and Exchange Platforms | Clayton Bruce | [Read More](https://medium.com/p/09cfe745fb2f) |
+| Sun, 08 Mar 2026 13:25:58 GMT | A Loyal AI Knows Whose Instructions to Follow. Most Don’t. That’s Prompt Injection. | Roy Tirthadeep | [Read More](https://medium.com/p/beb0a16b9ec0) |
+| Sun, 08 Mar 2026 13:20:53 GMT | Behind the Screens: How Technology Actually Runs Inside Modern Companies | Yash Shinde | [Read More](https://medium.com/p/378af3bcd1fd) |
+| Sun, 08 Mar 2026 13:16:00 GMT | Fortigate Dersleri: Addresses Tanımlamaya Bakış-4 | Azra K. | [Read More](https://medium.com/p/a5335e765570) |
+| Sun, 08 Mar 2026 13:12:18 GMT | DevSecOps Explained: Shift Left, Think Security, and Start Threat Modeling | TechwidSush | [Read More](https://medium.com/p/90ffb2264723) |
+| Sun, 08 Mar 2026 13:06:54 GMT | Breaking Into Hacker-Feast 2019 (VulnHub) — A Complete Penetration Testing Walkthrough. | Arfatmdyusuf | [Read More](https://medium.com/p/e11591feb931) |
+| Sun, 08 Mar 2026 13:03:13 GMT | My Tryst with Failure: Learning to Live with Impostor Syndrome | Tanishka Saluja | [Read More](https://medium.com/p/a7c73e68f183) |
+| Sun, 08 Mar 2026 12:57:00 GMT | Intercepting Android HTTPS Traffic for Bug Bounty | lanlan i | [Read More](https://medium.com/p/027b361b52b4) |
 | Sun, 08 Mar 2026 12:53:48 GMT | DVWA : Cross Site Request Forgery (CSRF) Vulnerability (Low Security) | Kamal S | [Read More](https://medium.com/p/b02dce2423b4) |
+| Sun, 08 Mar 2026 12:51:27 GMT | The $1000 remote worker | Ugo Mary | [Read More](https://medium.com/p/5bc22830590f) |
+| Sun, 08 Mar 2026 12:44:00 GMT | 2026 Is The Year Privacy Gets Real (And Really Technical) | Learn With Hatty | [Read More](https://medium.com/p/7206e11fe5a4) |
 | Sun, 08 Mar 2026 12:37:27 GMT | AI Cybersecurity for Startups: 7 Powerful Ways AAVETech Is Transforming Digital Security | AAVETech - AI-Driven Cybersecurity | [Read More](https://medium.com/p/2d5913a75eef) |
 | Sun, 08 Mar 2026 12:33:25 GMT | Laravel Security Use Cases: Real-World Examples for Prod Apps | Coder Manjeet | [Read More](https://medium.com/p/15d4cd078c7a) |
 | Sun, 08 Mar 2026 12:31:00 GMT | Banking App Security vs. Developer Mode | Nourgweda | [Read More](https://medium.com/p/0aa1fa4cb5e9) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Mar 2026 04:41:13 GMT | After Being Hacked, Substack Finally Decided I’m Old Enough So I’ll Be Back Soon | Aiden (Owner of Illumination Gaming) | [Read More](https://medium.com/p/f3215752557f) |
 | Sun, 08 Mar 2026 04:38:34 GMT | Online Scammers are Not hacking your Phone — They are Hacking Your Mind | Writerapoorva | [Read More](https://medium.com/p/3cf34268e6f8) |
 | Sun, 08 Mar 2026 04:31:42 GMT | Building an OAuth2 library in Dart from scratch. | Tobi Franklin | [Read More](https://medium.com/p/93bc55c1c991) |
-| Sun, 08 Mar 2026 04:31:16 GMT | Why Your Penetration Test Report Is Useless (And What to Do About It) | Vidar Frostbjorn | [Read More](https://medium.com/p/238d5e451abc) |
-| Sun, 08 Mar 2026 04:30:06 GMT | I Started With Curiosity. It Led Me to Cybersecurity in the Age of AI. | Mr.safni | [Read More](https://medium.com/p/97571e80a4e5) |
-| Sun, 08 Mar 2026 04:28:19 GMT | Attacktive Directory — TryHackMe Walkthrough | Ibnu Hibban | [Read More](https://medium.com/p/afb0a6db2fa9) |
-| Sun, 08 Mar 2026 04:23:57 GMT | LAB TIME: GRWM AS A Threat Intelligence Analyst | Karim roshdy | [Read More](https://medium.com/p/b1258ca3d9ce) |
-| Sun, 08 Mar 2026 04:17:02 GMT | When a Learner Can See Everyone: Finding a Hidden Data Exposure Bug | Rahul Masal | [Read More](https://medium.com/p/29d4373e2d0d) |
-| Sun, 08 Mar 2026 04:13:14 GMT | I built a Windows Update blocker that actually works — without breaking MedicSvc or fighting the OS | The_Big_Show_4096 | [Read More](https://medium.com/p/38d97318cfa0) |
-| Sun, 08 Mar 2026 04:05:39 GMT | AI Red Team Spent Two Weeks Breaking Autonomous Agents — Here Is What They Found | Jbird | [Read More](https://medium.com/p/25e7d19d1374) |
-| Sun, 08 Mar 2026 03:55:01 GMT | From a Single Attack to Campaign Intelligence Using Only a JavaScript Filename | Daniel K | [Read More](https://medium.com/p/5b5f8120f930) |
-| Sun, 08 Mar 2026 03:54:12 GMT | When You Turn On Your PC: A Story of Awakening | Gajanan Tayde | [Read More](https://medium.com/p/4550b54cfce7) |
-| Sun, 08 Mar 2026 03:49:46 GMT | GHOST: Where OSINT Data Finally Gets Organized!!! | cybrNK | [Read More](https://medium.com/p/2b81c7ee7bed) |
