@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Mar 2026 17:44:03 GMT | When Ads Become Surveillance: How Advertising Data Turned Smartphones into Government Tracking… | eL Njas!™ | [Read More](https://medium.com/p/43e7a9f43b78) |
+| Sun, 08 Mar 2026 17:34:11 GMT | upCTF writeup : Microsoft Axel — Web | SadInfinite | [Read More](https://medium.com/p/408def5621bd) |
+| Sun, 08 Mar 2026 17:32:24 GMT | CyberDefender — PsExec Hunt Lab | Dimas Adrian | [Read More](https://medium.com/p/d8e5ec24a00b) |
+| Sun, 08 Mar 2026 17:30:23 GMT | When Renewable Energy Gets Hacked: Teaching AI to Catch the Problem | Siruni Pulijala | [Read More](https://medium.com/p/c9e3a2a761eb) |
+| Sun, 08 Mar 2026 17:28:55 GMT | I Was Wrong About Ethics of AI Content | ADITI | [Read More](https://medium.com/p/edcc2351ccb8) |
+| Sun, 08 Mar 2026 17:28:21 GMT | Blinded, Bypassed, Broken: The Systematic Dismantling of Iran’s IADS | Mehdi Kazmie | [Read More](https://medium.com/p/1366597d0e95) |
+| Sun, 08 Mar 2026 17:28:04 GMT | Renouvellement de contrat de services : ce que votre prestataire espère que vous ne ferez jamais | Abrennis | [Read More](https://medium.com/p/0c7e9f16063c) |
+| Sun, 08 Mar 2026 17:21:15 GMT | Shifting from Minimizing Security Risk to Minimizing the Risk of Technology | Hi, I'm Mikey. | [Read More](https://medium.com/p/7a5ccaca740f) |
+| Sun, 08 Mar 2026 17:21:00 GMT | I Spent a Weekend Digging Into How Safari and Edge Actually Encrypt Your Passwords. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/3464a88d9d5e) |
 | Sun, 08 Mar 2026 17:11:36 GMT | Menjaga Benteng Digital: Memahami CIA Triad dalam Information Security | Ngakanman | [Read More](https://medium.com/p/44577b4d1ae9) |
 | Sun, 08 Mar 2026 17:08:05 GMT | Phishing: Emerging Threats & Proactive Defenses | Medjue Gore | [Read More](https://medium.com/p/29571ce14e41) |
 | Sun, 08 Mar 2026 17:05:52 GMT | Will AI Make You Jobless? How AI is Transforming the Workplace | Raghav Agarwal | [Read More](https://medium.com/p/2984c06dbd4f) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Mar 2026 10:39:19 GMT | Blockchain ve Kriptografi İlişkisi | Fırat Blockchain Topluluğu | [Read More](https://medium.com/p/d45d7d2bed89) |
 | Sun, 08 Mar 2026 10:35:03 GMT | How the noclobber Option Improves Bash Security | Pankaj Sharma | [Read More](https://medium.com/p/c4865a708cae) |
 | Sun, 08 Mar 2026 10:33:41 GMT | Das NIS2-Effizienz-Paradoxon: Warum wir ein harmonisiertes Register für Security Assessments… | Max Kristmann | [Read More](https://medium.com/p/afbd83baa63f) |
-| Sun, 08 Mar 2026 10:32:44 GMT | The Ethical Crisis of Iran’s AI Wartime Targeting in 2026 — Who Decides When Machines Kill? | Pankaj dhawan | [Read More](https://medium.com/p/f858c6145dbd) |
-| Sun, 08 Mar 2026 10:26:07 GMT | CVE-2025–27136 Walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/6d28c998a78a) |
-| Sun, 08 Mar 2026 10:18:16 GMT | 9 Powerful Attack Surface Management Checks Before a Pentest | Pentest_Testing_Corp | [Read More](https://medium.com/p/5dde941db823) |
-| Sun, 08 Mar 2026 10:17:17 GMT | A Guide to the Metasploit Framework | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/6a1f3cf05a7a) |
-| Sun, 08 Mar 2026 10:17:12 GMT | A Guide to Vulnerability Analysis with Nessus | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/7e856151fc50) |
-| Sun, 08 Mar 2026 10:11:31 GMT | Active Directory Enumeration — TryHackMe AD Basic Enumeration Walkthrough | Arip Rahman Nurrohim | [Read More](https://medium.com/p/10559a17d62d) |
-| Sun, 08 Mar 2026 10:01:00 GMT | Cybersecurity Mentorship Programmes: A Smart Career Growth Strategy | Victoria Coker | [Read More](https://medium.com/p/5d89496c1f25) |
-| Sun, 08 Mar 2026 09:58:52 GMT | How to Secure Your Bitcoin Wallet: 5 Proven Tips to Protect Your Crypto from Hackers | Info Brothersmoney | [Read More](https://medium.com/p/d4ddc21e7ea9) |
-| Sun, 08 Mar 2026 09:58:12 GMT | Empire Breakout — CTF Full Walkthrough | Oluwasemipe Aransiola | [Read More](https://medium.com/p/c92163bb3c49) |
