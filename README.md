@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Mar 2026 14:12:07 GMT | Understanding JWT: The Secret Behind Modern Web Authentication | Deep Pathak | [Read More](https://medium.com/p/607335c293c9) |
+| Sun, 08 Mar 2026 14:05:48 GMT | Kioptrix 2 Walkthrough 2026 | RenVector | [Read More](https://medium.com/p/4d37eb492315) |
+| Sun, 08 Mar 2026 14:05:31 GMT | Writeup: PsExec Hunt — CyberDefenders | Arfan (p4n) | [Read More](https://medium.com/p/3b88e08b40f5) |
+| Sun, 08 Mar 2026 14:05:06 GMT | Safely Rendering HTML Inside Markdown in React | Anja Beisel | [Read More](https://medium.com/p/94f9c23a22c5) |
+| Sun, 08 Mar 2026 13:49:32 GMT | Passwords Are Dying—Here's Why Passkeys Are Taking Over (And Why You Should Care) | Bamidele Olanrewaju | [Read More](https://medium.com/p/b7e59ee8afb5) |
+| Sun, 08 Mar 2026 13:47:25 GMT | Sua Senha “123456” Ainda Tá Aí? Então Este Artigo É Para Você | Techsimplesbr | [Read More](https://medium.com/p/ad09fe722515) |
+| Sun, 08 Mar 2026 13:47:09 GMT | Curiosity, Mistakes, and Persistence: My Coding Journey | KuroSh1ro | [Read More](https://medium.com/p/678fb27112d3) |
+| Sun, 08 Mar 2026 13:45:12 GMT | [Dev Update] NODE: PROTOCOL — Bitcoin heists | Marc | [Read More](https://medium.com/p/8a1d8255f21b) |
+| Sun, 08 Mar 2026 13:40:30 GMT | Twitter’s Bots are Telling on Themselves. | eesha | [Read More](https://medium.com/p/92edcbc9b848) |
 | Sun, 08 Mar 2026 13:27:14 GMT | How to Choose a Reliable Crypto Exchange: A 2026 Guide to Crypto Security and Exchange Platforms | Clayton Bruce | [Read More](https://medium.com/p/09cfe745fb2f) |
 | Sun, 08 Mar 2026 13:25:58 GMT | A Loyal AI Knows Whose Instructions to Follow. Most Don’t. That’s Prompt Injection. | Roy Tirthadeep | [Read More](https://medium.com/p/beb0a16b9ec0) |
 | Sun, 08 Mar 2026 13:20:53 GMT | Behind the Screens: How Technology Actually Runs Inside Modern Companies | Yash Shinde | [Read More](https://medium.com/p/378af3bcd1fd) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Mar 2026 05:54:08 GMT | How I Found an IDOR Vulnerability Leaking Student PII on DigiiCampus — And What It Taught Me | 0xAbhiSec | [Read More](https://medium.com/p/0ffba849a948) |
 | Sun, 08 Mar 2026 05:49:43 GMT | The Day Recon Alone Found the Vulnerability | Fateyaly | [Read More](https://medium.com/p/1ac332767c49) |
 | Sun, 08 Mar 2026 05:45:12 GMT | Network Packet Analysis Using Wireshark: A Practical Beginner’s Guide | Priyanka Behera | [Read More](https://medium.com/p/ef4c9ef53e32) |
-| Sun, 08 Mar 2026 05:43:31 GMT | The Architecture of Agentic Safety: Designing a Zero-Trust MCP Control Plane | Ashish Ryot | [Read More](https://medium.com/p/1d17d4cead30) |
-| Sun, 08 Mar 2026 05:42:46 GMT | I Let AI Attack My Digital Life. Here’s How It Broke My Security Habits And How You Can Fix Yours! | Vidura Bandara Wijekoon | [Read More](https://medium.com/p/498ec6c6bb72) |
-| Sun, 08 Mar 2026 05:04:33 GMT | I Hacked Your Account with a 6-Digit PIN: The Brute-Force Nightmare You Need to Fix | Krishna Kumar | [Read More](https://medium.com/p/7707309ca8c4) |
-| Sun, 08 Mar 2026 04:42:39 GMT | OSINT Spain | Snooptsz | [Read More](https://medium.com/p/5a2c557a92e6) |
-| Sun, 08 Mar 2026 04:42:28 GMT | Windows 11 Is Sending Your Gameplay Data to Microsoft — Here’s How to Stop It | Algo Insights | [Read More](https://medium.com/p/cc658ef84f91) |
-| Sun, 08 Mar 2026 04:42:07 GMT | Why OAuth 2.0 Matters in Today’s Digital World | Syed Aaqib Hussain | [Read More](https://medium.com/p/3f73fac12125) |
-| Sun, 08 Mar 2026 04:41:13 GMT | After Being Hacked, Substack Finally Decided I’m Old Enough So I’ll Be Back Soon | Aiden (Owner of Illumination Gaming) | [Read More](https://medium.com/p/f3215752557f) |
-| Sun, 08 Mar 2026 04:38:34 GMT | Online Scammers are Not hacking your Phone — They are Hacking Your Mind | Writerapoorva | [Read More](https://medium.com/p/3cf34268e6f8) |
-| Sun, 08 Mar 2026 04:31:42 GMT | Building an OAuth2 library in Dart from scratch. | Tobi Franklin | [Read More](https://medium.com/p/93bc55c1c991) |
