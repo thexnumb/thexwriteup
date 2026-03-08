@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Mar 2026 16:30:12 GMT | Boiler CTF — Complete TryHackMe Walkthrough | Karthikparambil | [Read More](https://medium.com/p/7301ec0b5246) |
+| Sun, 08 Mar 2026 16:22:43 GMT | Day 11 of 30: Cross-Site Scripting (XSS) Explained | SalmaAhmed | [Read More](https://medium.com/p/e689eb4f51f6) |
+| Sun, 08 Mar 2026 16:12:02 GMT | Write-up picoCTF 2021: Menyelesaikan Challenge “Scavenger Hunt” (Web Exploitation) | Malvin Wijaya | [Read More](https://medium.com/p/f6b32dfcd486) |
+| Sun, 08 Mar 2026 16:10:04 GMT | Day 18: I changed someone else’s address and the server didn’t notice! | Issan | [Read More](https://medium.com/p/7d2d4d3df25a) |
+| Sun, 08 Mar 2026 16:09:12 GMT | Beyond Formal Verification: | William Famy | [Read More](https://medium.com/p/8b127d4451f0) |
+| Sun, 08 Mar 2026 16:08:58 GMT | Spring Boot Security in 2026: Zero-Trust APIs with Spring Security | Dolly | [Read More](https://medium.com/p/9a4cd51dccb2) |
+| Sun, 08 Mar 2026 16:06:19 GMT | The Indian Ocean: an emerging maritime battlefield in the Contemporary Geopolitics | Aadish Reflects | [Read More](https://medium.com/p/0d2dc90d6efe) |
+| Sun, 08 Mar 2026 16:06:16 GMT | I Tricked Three AI Models With a Fake Email Chain | Leonardo M. Burgatte | [Read More](https://medium.com/p/358923e13161) |
+| Sun, 08 Mar 2026 16:02:08 GMT | macOS Security Checkup, Part 1 (2026): How to Scan Your Mac for Open Ports and Reduce Attack… | kryo | [Read More](https://medium.com/p/bfa16d159941) |
+| Sun, 08 Mar 2026 16:02:02 GMT | How I Analyzed Suspicious Files Using Static Analysis (Student Walkthrough) | znoobie | [Read More](https://medium.com/p/7472d579326d) |
+| Sun, 08 Mar 2026 16:01:02 GMT | ApoorvCTF Havok’s Cosmic Rings — Full Pwn Writeup | k45w4ra | [Read More](https://medium.com/p/c86135b1489a) |
+| Sun, 08 Mar 2026 16:00:10 GMT | 7. XS-Leaks Vulnerability leads to $$$ | Abhijeet kumawat | [Read More](https://medium.com/p/f7951373772f) |
+| Sun, 08 Mar 2026 16:00:07 GMT | How to Verify Telegram, WhatsApp, and Facebook Without Your Real Number | TrustOtp | [Read More](https://medium.com/p/a48513b6fb7d) |
+| Sun, 08 Mar 2026 15:58:51 GMT | Automated Web Recon & Misconfiguration Assessment on DVWA | Mylescorey | [Read More](https://medium.com/p/ad40b167bd84) |
+| Sun, 08 Mar 2026 15:54:54 GMT | The Importance of Cybersecurity in the Digital Age | Paghadayash | [Read More](https://medium.com/p/1d5ce768e63d) |
+| Sun, 08 Mar 2026 15:47:34 GMT | Your SOC Is Measuring Efficiency, Not Effectiveness | George Chen | [Read More](https://medium.com/p/5a0afa436195) |
+| Sun, 08 Mar 2026 15:46:47 GMT | Okay… refreshing token. But when? | Fábio Mendes | [Read More](https://medium.com/p/071cc4865a07) |
+| Sun, 08 Mar 2026 15:44:25 GMT | Writeup 02: I know your JWT Private Key? | BL4CKD3V0P5 | [Read More](https://medium.com/p/5f24c3b76475) |
+| Sun, 08 Mar 2026 15:43:40 GMT | How to Protect Leaking Sensitive Data to ChatGPT/Gemini/Claude (Practical Guide for 2026) | Apoorv Sharma | [Read More](https://medium.com/p/3df291e4c755) |
+| Sun, 08 Mar 2026 15:43:19 GMT | Sweettooth.inc — From Username Leak to Root Compromise | Roshan Rajbanshi | [Read More](https://medium.com/p/f51eb958d6a7) |
 | Sun, 08 Mar 2026 15:42:38 GMT | ⚡ My Complete Journey to the eJPT v2 — Course, Exam & Final Tips | Rajarshi Sarkar | [Read More](https://medium.com/p/ed704c95e63e) |
 | Sun, 08 Mar 2026 15:31:13 GMT | CyberHeroes Writeup | Abraamadel | [Read More](https://medium.com/p/5fa2bde4b51e) |
 | Sun, 08 Mar 2026 15:21:01 GMT | The New Diplomatic Frontier: How Generative AI Is Reshaping Global Power Dynamics | Bastian Friborg | [Read More](https://medium.com/p/e2456a8cdd38) |
@@ -36,6 +56,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Mar 2026 13:47:09 GMT | Curiosity, Mistakes, and Persistence: My Coding Journey | KuroSh1ro | [Read More](https://medium.com/p/678fb27112d3) |
 | Sun, 08 Mar 2026 13:45:12 GMT | [Dev Update] NODE: PROTOCOL — Bitcoin heists | Marc | [Read More](https://medium.com/p/8a1d8255f21b) |
 | Sun, 08 Mar 2026 13:40:30 GMT | Twitter’s Bots are Telling on Themselves. | eesha | [Read More](https://medium.com/p/92edcbc9b848) |
+| Sun, 08 Mar 2026 13:28:52 GMT | ClickFix Campaign: The “Copy-Paste” Social Engineering Threat of 2026 | DeltaBytes | [Read More](https://medium.com/p/4971f2bc0924) |
 | Sun, 08 Mar 2026 13:27:14 GMT | How to Choose a Reliable Crypto Exchange: A 2026 Guide to Crypto Security and Exchange Platforms | Clayton Bruce | [Read More](https://medium.com/p/09cfe745fb2f) |
 | Sun, 08 Mar 2026 13:25:58 GMT | A Loyal AI Knows Whose Instructions to Follow. Most Don’t. That’s Prompt Injection. | Roy Tirthadeep | [Read More](https://medium.com/p/beb0a16b9ec0) |
 | Sun, 08 Mar 2026 13:20:53 GMT | Behind the Screens: How Technology Actually Runs Inside Modern Companies | Yash Shinde | [Read More](https://medium.com/p/378af3bcd1fd) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Mar 2026 09:33:15 GMT | How to Fix the Problem of Your Personal Data in AI Training Models: A Step-by-Step Removal Guide | Talha Tech Reviews | [Read More](https://medium.com/p/eec501882281) |
 | Sun, 08 Mar 2026 09:29:43 GMT | Q-Day Gets Nearer? | Prof Bill Buchanan OBE FRSE | [Read More](https://medium.com/p/25fee3efdd90) |
 | Sun, 08 Mar 2026 09:00:17 GMT | How Do You Implement Multi-Factor Authentication (MFA) in Spring Security Without Getting Stuck in… | Anh Trần Tuấn | [Read More](https://medium.com/p/d0dfbaab2368) |
-| Sun, 08 Mar 2026 08:57:39 GMT | I Built a Phishing Framework. Here’s What I Learned. | Vaibhav | [Read More](https://medium.com/p/0e5135061c2d) |
-| Sun, 08 Mar 2026 08:40:33 GMT | 7 WordPress Security Mistakes That Will Get You Hacked (And The Latest Vulnerability You Must Fix) | shahid irfan | [Read More](https://medium.com/p/1acdc17a1dd3) |
-| Sun, 08 Mar 2026 08:27:17 GMT | NordVPN vs Surfshark vs PureVPN vs CyberGhost: Which VPN Is Actually Worth It in 2026? | TechSaver | [Read More](https://medium.com/p/d2e159b27fca) |
-| Sun, 08 Mar 2026 08:18:30 GMT | Ethical Hacking Course in Hindi — Cyber Security Training Guide | EINITIAL24 | [Read More](https://medium.com/p/f6f29a1c909e) |
-| Sun, 08 Mar 2026 08:16:45 GMT | How Pakistani TV Channels Were Hijacked | Aditya Sunny | [Read More](https://medium.com/p/b062e63aafe1) |
-| Sun, 08 Mar 2026 08:01:01 GMT | Stop hiding the tech gender pay gap behind job titles | Jemma Davis | [Read More](https://medium.com/p/af0d0e94529b) |
-| Sun, 08 Mar 2026 07:53:07 GMT | TryHackMe Attacktive Directory — WriteUp | Farhan Auliya Abrar | [Read More](https://medium.com/p/063384ba84a5) |
-| Sun, 08 Mar 2026 07:52:03 GMT | Is Artificial intelligence a threat or an opportunity? | Wajahat Mehdi | [Read More](https://medium.com/p/e63c1a2a8b59) |
-| Sun, 08 Mar 2026 07:50:11 GMT | How to Fix a DNS Leak Fast | Inatantiplookup | [Read More](https://medium.com/p/18fba9796eaa) |
-| Sun, 08 Mar 2026 07:40:46 GMT | WordPress Core Security 2026 — Part 4 | Leetsec Sarwar | [Read More](https://medium.com/p/b3cbf211fa60) |
-| Sun, 08 Mar 2026 07:31:37 GMT | CYBERDUDEBIVASH SENTINEL APEX v43.0 GENESIS ARCHITECTURE WHITEPAPER | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/3e3abe6cf474) |
-| Sun, 08 Mar 2026 07:24:48 GMT | To AI or Not To AI | Leisha  B. | [Read More](https://medium.com/p/1590c731e157) |
-| Sun, 08 Mar 2026 07:23:33 GMT | The “Agentic” Mirage: Why My 6 Years in Cyber Taught Me to Distrust “Seamless” | Mohit | [Read More](https://medium.com/p/5aa58acc26ff) |
-| Sun, 08 Mar 2026 07:17:20 GMT | The Security Checklist Every Founder Ignores (Until It’s Too Late) | Ajekigbe Michael. A | [Read More](https://medium.com/p/f173ae4bc723) |
-| Sun, 08 Mar 2026 07:17:11 GMT | Blockchain Technology: The Backbone of the Digital Future | NEws Journal | [Read More](https://medium.com/p/fcfc1847f959) |
-| Sun, 08 Mar 2026 07:08:34 GMT | What does a quantum-safe Internet look like? | Jennifer Tran | [Read More](https://medium.com/p/41eb183d1437) |
-| Sun, 08 Mar 2026 07:07:10 GMT | Coruna iOS Exploit Kit Uses 23 Exploits Across Five Chains | Ahsan | [Read More](https://medium.com/p/56b6a0093d40) |
-| Sun, 08 Mar 2026 07:00:54 GMT | Enterprise-Grade Security Remediation in 2026: A Step-by-Step Action Plan for SaaS Production… | Lalatendu Keshari Swain | [Read More](https://medium.com/p/3b58ee9300e8) |
-| Sun, 08 Mar 2026 06:57:23 GMT | SSPR: A Help Desk Win and a Security Disaster | Albert D. Jee | [Read More](https://medium.com/p/cecfaf9d01c7) |
-| Sun, 08 Mar 2026 06:55:13 GMT | Why Web Application Security is Important for Modern Websites | cyber security Updates | [Read More](https://medium.com/p/919626220130) |
-| Sun, 08 Mar 2026 06:52:02 GMT | The Control Plane Resilience Model (CPRM): Engineering Identity Survivability | Albert D. Jee | [Read More](https://medium.com/p/992e7dff9489) |
