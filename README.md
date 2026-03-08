@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 08 Mar 2026 20:50:33 GMT | Threat Visibility for FireOps Systems | Expadox Lab | [Read More](https://medium.com/p/71a370e64b11) |
+| Sun, 08 Mar 2026 20:50:27 GMT | LLM02: Sensitive Information Disclosure — A Growing Risk in AI Systems (2025) | Seema Gupta | [Read More](https://medium.com/p/e218d8f9cee1) |
+| Sun, 08 Mar 2026 20:47:35 GMT | El coraje de mostrarnos imperfectos | Andrea del Pilar Vargas Sarmiento | [Read More](https://medium.com/p/829495e046b0) |
+| Sun, 08 Mar 2026 20:42:27 GMT | I Built a Tool to Share My Claude Code Setup — Then Discovered It Could Hack Anyone Who Used It | Nizan Rosh | [Read More](https://medium.com/p/427e816f5128) |
+| Sun, 08 Mar 2026 20:39:08 GMT | This Google Feature Accidentally Created a Scammer’s Paradise | Mia Kotalik | [Read More](https://medium.com/p/9d1bf8bdc796) |
+| Sun, 08 Mar 2026 20:27:10 GMT | Why Trust Boundaries Matter in Security Architecture | Cipher Citadel (Ci2) | [Read More](https://medium.com/p/cec2978253fe) |
 | Sun, 08 Mar 2026 20:20:53 GMT | My Week 4 Takeaways from “Begin Ethical Hacking with Python” by Sanjib Sinha(Part IV) | Kalkidan | [Read More](https://medium.com/p/a14c2936213f) |
 | Sun, 08 Mar 2026 20:11:55 GMT | Vulnix Machine Walkthrough. | Akhilkulkarni | [Read More](https://medium.com/p/7f436878bdda) |
 | Sun, 08 Mar 2026 20:10:59 GMT | DirBuster: Uncovering Hidden Web Directories | Sarthak | [Read More](https://medium.com/p/5fe76eb5a189) |
@@ -25,6 +31,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Mar 2026 19:47:43 GMT | Digital Sentinels: How to Auto-Stop API Leaks and Bad Code in Python | Gamze Babayiğit | [Read More](https://medium.com/p/9eb41f22aa52) |
 | Sun, 08 Mar 2026 19:46:34 GMT | How communication makes life lighter | Little Turtle | [Read More](https://medium.com/p/ae31372506ad) |
 | Sun, 08 Mar 2026 19:44:01 GMT | Zero Knowledge Nedir? Bir Şeyi Anlatmadan Nasıl Kanıtlayabilirsiniz? | Ali Yaşe | [Read More](https://medium.com/p/660d693f4532) |
+| Sun, 08 Mar 2026 19:36:08 GMT | Securing LLM Systems: A Practical Guide to the OWASP Top 10 | Maciej Zalwert | [Read More](https://medium.com/p/c95453611374) |
 | Sun, 08 Mar 2026 19:29:58 GMT | The Relationship Between UX and Security: Why Good Design Makes Systems Safer | Christine Osama | [Read More](https://medium.com/p/8d426cc92440) |
 | Sun, 08 Mar 2026 19:24:22 GMT | Authentication & Brute‑Force Exposure Assessment on DVWA | Mylescorey | [Read More](https://medium.com/p/f318979b8955) |
 | Sun, 08 Mar 2026 19:23:56 GMT | The Era of Vibe Coding Needs a Verification Layer | Carther Theogene | [Read More](https://medium.com/p/9fb11ca5f865) |
@@ -48,6 +55,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Mar 2026 17:44:03 GMT | When Ads Become Surveillance: How Advertising Data Turned Smartphones into Government Tracking… | eL Njas!™ | [Read More](https://medium.com/p/43e7a9f43b78) |
 | Sun, 08 Mar 2026 17:43:46 GMT | Detecting Phishing Emails Through Data: A Data Science Exploration | Areebaofficial | [Read More](https://medium.com/p/63238edc6f09) |
 | Sun, 08 Mar 2026 17:42:27 GMT | Rails Security Audit in 2026 — Lessons from Breach Simulation | Raza Hussain | [Read More](https://medium.com/p/6571e20f1130) |
+| Sun, 08 Mar 2026 17:40:21 GMT | Menjaga Benteng Digital Memahami CIA Triad dalam Information Security | Dewa Ngakan Nyoman Martina Putra | [Read More](https://medium.com/p/f8585cd45cc7) |
 | Sun, 08 Mar 2026 17:34:11 GMT | upCTF writeup : Microsoft Axel — Web | SadInfinite | [Read More](https://medium.com/p/408def5621bd) |
 | Sun, 08 Mar 2026 17:32:24 GMT | CyberDefender — PsExec Hunt Lab | Dimas Adrian | [Read More](https://medium.com/p/d8e5ec24a00b) |
 | Sun, 08 Mar 2026 17:30:23 GMT | When Renewable Energy Gets Hacked: Teaching AI to Catch the Problem | Siruni Pulijala | [Read More](https://medium.com/p/c9e3a2a761eb) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Mar 2026 14:05:48 GMT | Kioptrix 2 Walkthrough 2026 | RenVector | [Read More](https://medium.com/p/4d37eb492315) |
 | Sun, 08 Mar 2026 14:05:31 GMT | Writeup: PsExec Hunt — CyberDefenders | Arfan (p4n) | [Read More](https://medium.com/p/3b88e08b40f5) |
 | Sun, 08 Mar 2026 14:05:06 GMT | Safely Rendering HTML Inside Markdown in React | Anja Beisel | [Read More](https://medium.com/p/94f9c23a22c5) |
-| Sun, 08 Mar 2026 13:49:32 GMT | Passwords Are Dying—Here's Why Passkeys Are Taking Over (And Why You Should Care) | Bamidele Olanrewaju | [Read More](https://medium.com/p/b7e59ee8afb5) |
-| Sun, 08 Mar 2026 13:47:25 GMT | Sua Senha “123456” Ainda Tá Aí? Então Este Artigo É Para Você | Techsimplesbr | [Read More](https://medium.com/p/ad09fe722515) |
-| Sun, 08 Mar 2026 13:47:09 GMT | Curiosity, Mistakes, and Persistence: My Coding Journey | KuroSh1ro | [Read More](https://medium.com/p/678fb27112d3) |
-| Sun, 08 Mar 2026 13:45:12 GMT | [Dev Update] NODE: PROTOCOL — Bitcoin heists | Marc | [Read More](https://medium.com/p/8a1d8255f21b) |
-| Sun, 08 Mar 2026 13:40:30 GMT | Twitter’s Bots are Telling on Themselves. | eesha | [Read More](https://medium.com/p/92edcbc9b848) |
-| Sun, 08 Mar 2026 13:28:52 GMT | ClickFix Campaign: The “Copy-Paste” Social Engineering Threat of 2026 | DeltaBytes | [Read More](https://medium.com/p/4971f2bc0924) |
-| Sun, 08 Mar 2026 13:27:14 GMT | How to Choose a Reliable Crypto Exchange: A 2026 Guide to Crypto Security and Exchange Platforms | Clayton Bruce | [Read More](https://medium.com/p/09cfe745fb2f) |
-| Sun, 08 Mar 2026 13:25:58 GMT | A Loyal AI Knows Whose Instructions to Follow. Most Don’t. That’s Prompt Injection. | Roy Tirthadeep | [Read More](https://medium.com/p/beb0a16b9ec0) |
