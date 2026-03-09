@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Mar 2026 20:33:20 GMT | The End of the Safe Career: Why Smart Professionals Are Rewriting the Rules of Work | Pankaj Wadhwa | [Read More](https://medium.com/p/7fa31d624962) |
+| Mon, 09 Mar 2026 20:24:46 GMT | Offsec “PyExp” CTF writeup | sabR | [Read More](https://medium.com/p/d4d01708b0ec) |
+| Mon, 09 Mar 2026 20:16:28 GMT | IT 05 - Advanced Windows Commands | Amrsmooke | [Read More](https://medium.com/p/2538fa7a177f) |
+| Mon, 09 Mar 2026 20:16:00 GMT | Tap-and-Go: 1-Page Architecture & Control Checklist for CIOs | Ryan Aminollahi | [Read More](https://medium.com/p/ec3c0f2fcd62) |
+| Mon, 09 Mar 2026 20:13:33 GMT | MOI — CTF . hireplus - by Abdullah Ali | Abdullah Ali | [Read More](https://medium.com/p/a007627b95c8) |
+| Mon, 09 Mar 2026 20:03:43 GMT | HSTS protokolu və MitM | Ali Aghayev | [Read More](https://medium.com/p/7207c36f897f) |
+| Mon, 09 Mar 2026 20:01:54 GMT | How I Set Up a SECURITY.md When Building With AI Agents | Sebiomo Aanuoluwapo | [Read More](https://medium.com/p/e7b18be3f21d) |
+| Mon, 09 Mar 2026 19:55:49 GMT | Data Protection in Oracle Fusion Cloud SaaS (ERP and HCM): Encryption, Data Access Policies, and… | Khader Nawaz khan | [Read More](https://medium.com/p/c1c726d75be8) |
+| Mon, 09 Mar 2026 19:52:16 GMT | The $249 AI Revolution | Syed Abbas T. | [Read More](https://medium.com/p/7e91e3dcca58) |
+| Mon, 09 Mar 2026 19:51:28 GMT | Root Shell on a POS Payment Terminal: Security Analysis of the Worldline Yomani XR | Marcel Rick-Cen | [Read More](https://medium.com/p/3f8fa82e3c3c) |
+| Mon, 09 Mar 2026 19:45:42 GMT | The Fastest Way To Lose Credibility In An Executive Incident Briefing | Cody Cooper | [Read More](https://medium.com/p/1f4e9e67e26e) |
+| Mon, 09 Mar 2026 19:45:09 GMT | A Bell and A Pomegranate (Vayakhel/Pekudei) | Rabbi Menachem Creditor | [Read More](https://medium.com/p/e5daf347f2d7) |
 | Mon, 09 Mar 2026 19:31:39 GMT | OpenClaw and the Emerging AI Agent Security Crisis | Chetan Seripally | [Read More](https://medium.com/p/7748581291d6) |
 | Mon, 09 Mar 2026 19:21:12 GMT | Networking Fundamentals: OSI vs TCP/IP Explained | Kilian J | [Read More](https://medium.com/p/e1ecac5351d5) |
 | Mon, 09 Mar 2026 19:20:53 GMT | Manage AI Like an Employee or Expect Human-Sized Mistakes | Chris Buxton | [Read More](https://medium.com/p/f99b175db30d) |
@@ -101,15 +113,3 @@ Part 2: Methods of Infiltration Used in Cyber Attacks | Favour Ugochi Ogbonnaya 
 | Mon, 09 Mar 2026 14:47:48 GMT | Crypto Wallet Development: How to Build One | John Galt | [Read More](https://medium.com/p/b40313ddc2b4) |
 | Mon, 09 Mar 2026 14:46:04 GMT | Abusing AD-DACL: WriteDacl | Youssef Said Thabet | [Read More](https://medium.com/p/c3993a7c3748) |
 | Mon, 09 Mar 2026 14:45:14 GMT | Cybersecurity with a Digital Twin: Why Real-Time Data Streaming Matters | Kai Waehner | [Read More](https://medium.com/p/c18fe38c7792) |
-| Mon, 09 Mar 2026 14:31:14 GMT | Bug Bounty Bootcamp #27: SQL Injection on INSERT — Turning Comment Forms into Data Exfiltration… | Aman Sharma | [Read More](https://medium.com/p/d49968b1f7ca) |
-| Mon, 09 Mar 2026 14:30:21 GMT | Detecting Publicly Leaked Secrets Using GitGuardian HMSL | Kartik Verma | [Read More](https://medium.com/p/e3f5bb62ae7f) |
-| Mon, 09 Mar 2026 14:22:21 GMT | URL Encoding Explained: The Complete Beginner-to-Advanced Guide | Ishant Gupta | [Read More](https://medium.com/p/9a955437fd40) |
-| Mon, 09 Mar 2026 14:20:40 GMT | Stack dalam Python | Aghnia Azka | [Read More](https://medium.com/p/a112272b33f4) |
-| Mon, 09 Mar 2026 14:16:31 GMT | The Compounding Interest of Unfixed Vulnerabilities | Digital Defense | [Read More](https://medium.com/p/0b16825ba7c1) |
-| Mon, 09 Mar 2026 14:15:33 GMT | Cybersecurity Awareness: The Rise of Deepfake-as-a-Service — When Your CEO’s Voice Becomes a Weapon | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/c2581a56e79a) |
-| Mon, 09 Mar 2026 14:13:50 GMT | Predator Spyware Exposed: Architecture, Infrastructure and Attack Lifecycle | Raoelinirina Sergio | [Read More](https://medium.com/p/d6714f2ee690) |
-| Mon, 09 Mar 2026 14:13:46 GMT | IDOR in Flowise Authentication Configuration (CVE-2026–30823) | Berk Dedekargınoğlu | [Read More](https://medium.com/p/f636111ed7c4) |
-| Mon, 09 Mar 2026 14:12:21 GMT | How to Build a Lightning-Fast AI-Powered Burp Suite Scanner with Cached Payloads | HemanthKunani | [Read More](https://medium.com/p/eb5245d18932) |
-| Mon, 09 Mar 2026 14:11:02 GMT | How Cyber Warfare Is Rewriting the Rules of Modern Conflict | Aditya Sawant | [Read More](https://medium.com/p/14b2f5db38b2) |
-| Mon, 09 Mar 2026 14:10:12 GMT | HexStrike AI: The Future of Penetration Testing | Pentester Club | [Read More](https://medium.com/p/e9b8d068d2e4) |
-| Mon, 09 Mar 2026 14:09:53 GMT | Burp Suite for Beginners: The Hacker’s Gateway to Web Security | Bugitrix | [Read More](https://medium.com/p/4529bd8a84f9) |
