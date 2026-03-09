@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Mar 2026 08:01:01 GMT | Do. Or do not. There is no try. | Jere Le | [Read More](https://medium.com/p/d6c4e3e6fea3) |
+| Mon, 09 Mar 2026 07:56:00 GMT | What Blockchain Hackers Know That You DON’T | Antonio Lopez | [Read More](https://medium.com/p/821af6fd499d) |
+| Mon, 09 Mar 2026 07:49:04 GMT | Why Semiconductor Manufacturers Depend on Automatic Test Equipment | Nova Raze | [Read More](https://medium.com/p/5d9a2b256c76) |
+| Mon, 09 Mar 2026 07:47:59 GMT | Find a bug in University website | Somsop | [Read More](https://medium.com/p/2d5ab0e73428) |
+| Mon, 09 Mar 2026 07:47:09 GMT | The Terrifying Truth About Brute Force Attacks and Corporate Security | Dhanush N | [Read More](https://medium.com/p/653cae401f22) |
+| Mon, 09 Mar 2026 07:44:54 GMT | Breaking Down cross-site scripting (XSS) part 3 - Walkthrough via PortSwigger | Hammam Awis Zukimi | [Read More](https://medium.com/p/bc96159c4f82) |
+| Mon, 09 Mar 2026 07:37:47 GMT | KingRat C2 — The first HTTPS Rat? | KZTools | [Read More](https://medium.com/p/96605fe92f02) |
+| Mon, 09 Mar 2026 07:36:49 GMT | Your Roadmap to the SOC: A Step-by-Step Guide to Success | Aditya InfosecTrain | [Read More](https://medium.com/p/33c228810761) |
+| Mon, 09 Mar 2026 07:36:00 GMT | Securing Kubernetes in Production: Lessons from the Trenches | Ola Lawrence O | [Read More](https://medium.com/p/b4f8ba179074) |
+| Mon, 09 Mar 2026 07:34:25 GMT | เตือนภัย Infostealer Malware กำลังเปลี่ยน “ข้อมูลบัญชีที่ถูกขโมย” ให้กลายเป็น “ตัวตนจริง”… | ThaiCERT By NCSA | [Read More](https://medium.com/p/0777a30acd12) |
+| Mon, 09 Mar 2026 07:32:52 GMT | The 75-Cent Error: Why Decoy IPs Are the Ultimate Digital Tripwires | Dennischacko | [Read More](https://medium.com/p/eca85ec4482c) |
+| Mon, 09 Mar 2026 07:31:44 GMT | An AI-Powered Poly-crisis is here, and it is rewriting cyber postures. Are you breach-ready yet? | Agnidipta Sarkar | [Read More](https://medium.com/p/f1b963169e5c) |
+| Mon, 09 Mar 2026 07:31:06 GMT | Handling CC Attacks with SafeLine WAF: A Practical Guide for Self-Hosted Environments | John Hawkins | [Read More](https://medium.com/p/983a99592ae7) |
+| Mon, 09 Mar 2026 07:31:00 GMT | Europe Is Rearming With Chinese Weapons — And Doesn’t Know It | Brian Iselin | [Read More](https://medium.com/p/34a999197c8c) |
+| Mon, 09 Mar 2026 07:27:24 GMT | Planning a PABX System Installation | IT Solution Dubai | [Read More](https://medium.com/p/1896594b6aa3) |
+| Mon, 09 Mar 2026 07:12:40 GMT | Riverside Security Guards — Professional Protection When It Matters | Travel time | [Read More](https://medium.com/p/aaf5d3fd362f) |
+| Mon, 09 Mar 2026 07:12:03 GMT | Why Most Security Alerts Are Noise (And How to Fix It) | Jost Faganel | [Read More](https://medium.com/p/9693f89a512f) |
+| Mon, 09 Mar 2026 07:09:27 GMT | The High Cost of a Polished Life: Why Your Messy Parts are the Only Ones That Matter | Yash Patil | [Read More](https://medium.com/p/8b0b704665fd) |
+| Mon, 09 Mar 2026 07:01:35 GMT | Hack the Human First: How Psychology Makes Cyber Attacks Easier | Vedant Sawant | [Read More](https://medium.com/p/0aef0f90e220) |
 | Mon, 09 Mar 2026 06:49:43 GMT | Detecting the Unknown: How SafeLine WAF Mitigates 0-Day Web Attacks | John Hawkins | [Read More](https://medium.com/p/fc02fd388464) |
 | Mon, 09 Mar 2026 06:48:10 GMT | Stop Trying to Prompt-Engineer AI Safety. Treat it Like Fraud Detection. | Naman Tripathi | [Read More](https://medium.com/p/191cddf67c08) |
 | Mon, 09 Mar 2026 06:47:08 GMT | Hacking AI Agents for 20,000$ | Anonymous Traiger | [Read More](https://medium.com/p/15436be41eb9) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Mar 2026 23:01:01 GMT | Blue Team Labs Online: Network Analysis — Web Shell Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/49c3729dc869) |
 | Sun, 08 Mar 2026 22:54:17 GMT | AI, IoT and the Human Factor: Rebuilding an Undocumented Enterprise Network | S Gokhman | [Read More](https://medium.com/p/4050600b2457) |
 | Sun, 08 Mar 2026 22:49:48 GMT | OTP / Verification Code Brute Force Vulnerability | Youssefelbakrey | [Read More](https://medium.com/p/43756b5f15ed) |
-| Sun, 08 Mar 2026 22:45:53 GMT | I Built a DevSecOps Pipeline From Scratch. Here’s What It Found. | Saniyabhaladhare | [Read More](https://medium.com/p/5022509cd9e4) |
-| Sun, 08 Mar 2026 22:44:54 GMT | AWS Security Cards: 54 Services, One Card Each | Tarek CHEIKH | [Read More](https://medium.com/p/24041204b520) |
-| Sun, 08 Mar 2026 22:27:05 GMT | The State of AWS Security 2026: Free Whitepaper, No Gate | Tarek CHEIKH | [Read More](https://medium.com/p/66eebc90d2d9) |
-| Sun, 08 Mar 2026 22:26:53 GMT | Global Data Infrastructure: How Data Centers and Undersea Cables Stay Secure Against Wars… | Syed Muhammad Irfan | [Read More](https://medium.com/p/aab8b52c1062) |
-| Sun, 08 Mar 2026 22:24:37 GMT | Build Your Own Cybersecurity Game — Learn Security by Playing | ghostyjoe | [Read More](https://medium.com/p/786ca1ece01a) |
-| Sun, 08 Mar 2026 22:22:46 GMT | Building a Reverse Shell Shellcode with Stardust | S12 - 0x12Dark Development | [Read More](https://medium.com/p/dae845cd1db8) |
-| Sun, 08 Mar 2026 22:15:01 GMT | The Bug-Hunting Singularity: Claude Finds 22 Firefox Vulnerabilities, and the Clock Starts Ticking | Ilias Armenakis | [Read More](https://medium.com/p/95d8db6d692a) |
-| Sun, 08 Mar 2026 22:12:31 GMT | Threat-Modeling the OWASP Top 10 for LLM Applications | Evangelos Pappas | [Read More](https://medium.com/p/58e88255b11f) |
-| Sun, 08 Mar 2026 22:02:18 GMT | Building a Lightweight Log Forwarding Pipeline with Fluent Bit and Elasticsearch | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/c651a5bf28a3) |
-| Sun, 08 Mar 2026 21:45:48 GMT | You Can’t Prompt Your Way to the Next Uber: Why AI Won’t Build Your App Alone | Caksa Aji | [Read More](https://medium.com/p/4c74eb4efbd9) |
-| Sun, 08 Mar 2026 21:39:19 GMT | HackPark: Brute Forcing BlogEngine.NET and Escalating to SYSTEM via Scheduled Task | Robert Perez | [Read More](https://medium.com/p/d1e7473e4e01) |
-| Sun, 08 Mar 2026 21:35:27 GMT | BloodHound Entra ID CTF #2 — From Guest to Global Admin: Exploiting Application Administrator via… | Cyberguy | [Read More](https://medium.com/p/251d6d32e3ea) |
-| Sun, 08 Mar 2026 21:32:00 GMT | I Hired 4 AI Agents to Audit My App. They Found Things I’d Been Shipping to Production. | SOHAM PAWASKAR | [Read More](https://medium.com/p/462420a9dbc8) |
-| Sun, 08 Mar 2026 21:30:23 GMT | The Windows 11 Feature Update That’s Quietly Killing Your NAC Deployment | Jbird | [Read More](https://medium.com/p/a5c64361e545) |
-| Sun, 08 Mar 2026 21:28:22 GMT | CodeGuardian: AI-Driven Security Code Review With Natural Language Understanding | Sage Khan | [Read More](https://medium.com/p/08fc1954d93f) |
-| Sun, 08 Mar 2026 21:22:08 GMT | The Moment AI Finally Made Sense to Me | Omotola Olatujayan | [Read More](https://medium.com/p/6e7630c69c05) |
-| Sun, 08 Mar 2026 21:06:18 GMT | Building Production Grade K3s Clusters with Cilium WireGuard Encryption in Air-Gapped Environments | Balasubramanian Jayamoorthy | [Read More](https://medium.com/p/c5a1273186b6) |
-| Sun, 08 Mar 2026 21:01:02 GMT | Detect. Download. Extract. Automating Source Code Recovery with DotGit-Enhanced | Maor Dayan - מאור דיין | [Read More](https://medium.com/p/35b0e72402f3) |
-| Sun, 08 Mar 2026 21:01:01 GMT | IAM Role Creation and Management in AWS | Rhea Gupta | [Read More](https://medium.com/p/db778044065c) |
