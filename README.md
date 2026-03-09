@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Mar 2026 14:22:21 GMT | URL Encoding Explained: The Complete Beginner-to-Advanced Guide | Ishant Gupta | [Read More](https://medium.com/p/9a955437fd40) |
+| Mon, 09 Mar 2026 14:16:31 GMT | The Compounding Interest of Unfixed Vulnerabilities | Digital Defense | [Read More](https://medium.com/p/0b16825ba7c1) |
+| Mon, 09 Mar 2026 14:15:33 GMT | Cybersecurity Awareness: The Rise of Deepfake-as-a-Service — When Your CEO’s Voice Becomes a Weapon | Eugenia - Cybersecurity Awareness | [Read More](https://medium.com/p/c2581a56e79a) |
+| Mon, 09 Mar 2026 14:13:50 GMT | Predator Spyware Exposed: Architecture, Infrastructure and Attack Lifecycle | Raoelinirina Sergio | [Read More](https://medium.com/p/d6714f2ee690) |
+| Mon, 09 Mar 2026 14:13:46 GMT | IDOR in Flowise Authentication Configuration (CVE-2026–30823) | Berk Dedekargınoğlu | [Read More](https://medium.com/p/f636111ed7c4) |
+| Mon, 09 Mar 2026 14:12:21 GMT | How to Build a Lightning-Fast AI-Powered Burp Suite Scanner with Cached Payloads | HemanthKunani | [Read More](https://medium.com/p/eb5245d18932) |
+| Mon, 09 Mar 2026 14:11:02 GMT | How Cyber Warfare Is Rewriting the Rules of Modern Conflict | Aditya Sawant | [Read More](https://medium.com/p/14b2f5db38b2) |
+| Mon, 09 Mar 2026 14:10:12 GMT | HexStrike AI: The Future of Penetration Testing | Pentester Club | [Read More](https://medium.com/p/e9b8d068d2e4) |
+| Mon, 09 Mar 2026 14:09:53 GMT | Burp Suite for Beginners: The Hacker’s Gateway to Web Security | Bugitrix | [Read More](https://medium.com/p/4529bd8a84f9) |
+| Mon, 09 Mar 2026 14:09:09 GMT | How I got my first CVE - $$$ Bounty | Abhirup Konwar | [Read More](https://medium.com/p/381c078a6715) |
+| Mon, 09 Mar 2026 14:06:55 GMT | Why Goliath Struggles and David Does Not Lose : The Logic of the U.S.-Iran War | Young Joon Oh | [Read More](https://medium.com/p/2add8fee76b8) |
+| Mon, 09 Mar 2026 14:06:00 GMT | Locksmith Services in Torrington CT - Sure Lock & Key | Sure Lock & Key LLC | [Read More](https://medium.com/p/80379310c826) |
+| Mon, 09 Mar 2026 14:03:00 GMT | Control over an LLM isn’t about commands, it’s about probability and boundaries | freerangethoughts | [Read More](https://medium.com/p/52eb8a138b77) |
+| Mon, 09 Mar 2026 14:02:00 GMT | Monitoring Active Directory - TryHackMe - Splunk | Jose Praveen | [Read More](https://medium.com/p/5eca94d95250) |
+| Mon, 09 Mar 2026 14:01:01 GMT | The five most misunderstood parts of NIST CSF | Gaurav Shukla | [Read More](https://medium.com/p/3a60b62aa04a) |
+| Mon, 09 Mar 2026 14:01:01 GMT | Cyber Briefing: 2026.03.09 | CyberMaterial | [Read More](https://medium.com/p/2f49c7b27501) |
+| Mon, 09 Mar 2026 13:56:19 GMT | Android Application Pentesting — AndroGoat | Harmonax | [Read More](https://medium.com/p/b3fca0ddc66e) |
+| Mon, 09 Mar 2026 13:53:42 GMT | From Reconnaissance to Exploitation: Understanding Penetration Testing Methodologies | Sameer | [Read More](https://medium.com/p/34f23e574096) |
+| Mon, 09 Mar 2026 13:51:18 GMT | Millions of Surveillance Cameras at Risk: Critical Hikvision Security Flaw Discovered | Ananthuharikumar | [Read More](https://medium.com/p/2b3515ec6735) |
+| Mon, 09 Mar 2026 13:36:00 GMT | Hartford, CT Garage Door Repair - Up & Down Garage Doors | Up & Down Garage Door Services | [Read More](https://medium.com/p/a90764d0e239) |
+| Mon, 09 Mar 2026 13:32:08 GMT | Approve Plan? AI Deleted Production Data. | Mammoth Cyber | [Read More](https://medium.com/p/547adea4a881) |
+| Mon, 09 Mar 2026 13:21:00 GMT | New Kubernetes Admission Controller Bypass via Mutating Webhook Manipulation | Krishna Kumar | [Read More](https://medium.com/p/c0ccc0792b9c) |
+| Mon, 09 Mar 2026 13:16:17 GMT | MQTT Writeup | Abraamadel | [Read More](https://medium.com/p/4ae9c6ba08e7) |
 | Mon, 09 Mar 2026 13:11:48 GMT | Dari Data Pribadi hingga Sistem Digital: Pentingnya Belajar Information Security | Ninaannastasya | [Read More](https://medium.com/p/8e5f12538218) |
 | Mon, 09 Mar 2026 13:07:29 GMT | The Ethics of Drone Warfare | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/3db454eac282) |
 | Mon, 09 Mar 2026 13:07:22 GMT | Windows Event Log Analysis for Incident Response | Sidhantchaurasiya | [Read More](https://medium.com/p/b82647fb890d) |
@@ -32,9 +55,11 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Mar 2026 12:25:09 GMT | Information Security Companies: Protecting the Digital World | Sky Properties | [Read More](https://medium.com/p/6b00756fe2ef) |
 | Mon, 09 Mar 2026 12:13:40 GMT | Stop Paying the ‘Late Fix’ Tax: Why SSE Changes Security Economics | Peter Hillier/Halton | [Read More](https://medium.com/p/b4f5aa427357) |
 | Mon, 09 Mar 2026 12:10:51 GMT | HTTP Parameter Pollution (HPP) -Pentest Field Guide | Lost_hacker | [Read More](https://medium.com/p/9670584bcab5) |
+| Mon, 09 Mar 2026 12:09:41 GMT | Consultoría Informática Para Empresas: Guía Completa | Pablohmmadrid | [Read More](https://medium.com/p/6886bdf6f4bf) |
 | Mon, 09 Mar 2026 12:06:41 GMT | Best Security Guard Management Software in Australia (2026 Guide) | SecurityTime | [Read More](https://medium.com/p/9c60f3f6182c) |
 | Mon, 09 Mar 2026 11:57:15 GMT | Bug Bounty vs Penetration Testing: Which Is Better for Beginners? | 0xSmit | [Read More](https://medium.com/p/310c4b7c6596) |
 | Mon, 09 Mar 2026 11:55:49 GMT | This Wasn’t in the Patch Notes: The Ubisoft Hack | Arunopal | [Read More](https://medium.com/p/e4365a116a2d) |
+| Mon, 09 Mar 2026 11:52:40 GMT | Fortinet FortiCloud SSO Zero-Day | Taiyab Lokhandwala | [Read More](https://medium.com/p/dc7369854dfc) |
 | Mon, 09 Mar 2026 11:51:15 GMT | How Some Threat Actors Stay Undetected in Networks for Years | Paritosh | [Read More](https://medium.com/p/6a40f28d2d2c) |
 | Mon, 09 Mar 2026 11:45:49 GMT | Convenience Is the Enemy: How Modern UX Quietly Breaks Security | KbhattSec | [Read More](https://medium.com/p/6fb31336194c) |
 | Mon, 09 Mar 2026 11:43:38 GMT | Securing Your REST API: A Comprehensive Guide to Modern Defense Strategies | Ramteke Rakesh | [Read More](https://medium.com/p/610e5363f6e6) |
@@ -84,31 +109,6 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Mar 2026 09:11:19 GMT | Your AI System Is Probably Vulnerable | Séв(aѕтιen) L. ⚠ | [Read More](https://medium.com/p/e02e6907bf69) |
 | Mon, 09 Mar 2026 09:10:14 GMT | Cybersecurity Basics: How Hackers Actually Hack | Abdul Wajid | [Read More](https://medium.com/p/bd68e6e64e7d) |
 | Mon, 09 Mar 2026 09:06:18 GMT | MyDataRemoval Review 2026: Free Scan With Real Results | Fod Sic | [Read More](https://medium.com/p/a2ed3e59e38e) |
+| Mon, 09 Mar 2026 09:03:40 GMT | Why RBI Regulatory Compliance is Significant for Businesses - Secure n Comply | Secure n Comply | [Read More](https://medium.com/p/3dff326681cd) |
 | Mon, 09 Mar 2026 09:01:53 GMT | Best Performance Marketing Agency in Kerala — Velytron | velytron | [Read More](https://medium.com/p/386c0fe70651) |
 | Mon, 09 Mar 2026 09:01:01 GMT | Post mortem: A love-hate story about a BunkerWeb misconfiguration | David Garcia | [Read More](https://medium.com/p/4354a16a4275) |
-| Mon, 09 Mar 2026 08:59:59 GMT | TryHackMe Writeup: AD Basic Enumeration — Langkah Awal Memahami Active Directory. | Adrian Dwi Fahrezi Rizki | [Read More](https://medium.com/p/719b6d550f22) |
-| Mon, 09 Mar 2026 08:57:51 GMT | Hikvision Vulnerability Could Allow Attackers to Take Control of Surveillance Systems | Sharanraju | [Read More](https://medium.com/p/d487f64ce2ed) |
-| Mon, 09 Mar 2026 08:56:14 GMT | hacker fest 2019 complete walk through | Fahadkhanpathan | [Read More](https://medium.com/p/382b08421249) |
-| Mon, 09 Mar 2026 08:55:44 GMT | SOCAT and sshuttle with practical examples | Memmedovvaleh | [Read More](https://medium.com/p/b24d01d0e04b) |
-| Mon, 09 Mar 2026 08:53:49 GMT | Sunset: Noontide | Irbaazmakandar | [Read More](https://medium.com/p/fbd841610885) |
-| Mon, 09 Mar 2026 08:53:16 GMT | Hacker Feast :2019 (Complete walk-through) | Danishmankavi | [Read More](https://medium.com/p/185628a87f15) |
-| Mon, 09 Mar 2026 08:46:19 GMT | Cybersecurity: Protecting the Digital World | Tanish Jain | [Read More](https://medium.com/p/4794f5863cb2) |
-| Mon, 09 Mar 2026 08:40:09 GMT | Active Directory Exploitation 101: A Walkthrough of TryHackMe’s Attacktive Directory | Syauqiala | [Read More](https://medium.com/p/9fde91737565) |
-| Mon, 09 Mar 2026 08:38:42 GMT | The Algorithmic Battlefield | Hayanan | [Read More](https://medium.com/p/7cca867e210f) |
-| Mon, 09 Mar 2026 08:33:25 GMT | “How Many More Must Die?” - By Aduragbemi Adesina | Aduramizzy Aduragbemi | [Read More](https://medium.com/p/c88361a12ab2) |
-| Mon, 09 Mar 2026 08:32:31 GMT | NAME : UBAID.N.BEPARI | Ubaid bepari | [Read More](https://medium.com/p/5a6785a2b0c3) |
-| Mon, 09 Mar 2026 08:28:59 GMT | Sneak Peak Into Nicholas Reid Angell’s Most Recent Research | Nicholas Reid Angell | [Read More](https://medium.com/p/3ae355c56ea9) |
-| Mon, 09 Mar 2026 08:28:33 GMT | The Dark Side of AI: How Hackers Are Using Artificial Intelligence for Cyber Attacks | Ankit rai | [Read More](https://medium.com/p/cdbacee2a3d9) |
-| Mon, 09 Mar 2026 08:23:39 GMT | ️ Code First / Database First / Model First 是什麼？三種 EF 模式的理解 | 思維舞步 MindSteps | [Read More](https://medium.com/p/2c54647ef0ba) |
-| Mon, 09 Mar 2026 08:23:32 GMT | How to Protect Your Data While Surfing the Internet | Tier | [Read More](https://medium.com/p/165834ccd124) |
-| Mon, 09 Mar 2026 08:23:12 GMT | Getting Started with OT Security: Hands-On Modbus Pentesting with Real OT Lab (Part 5) | aravind0x7 | [Read More](https://medium.com/p/029a1912ab1c) |
-| Mon, 09 Mar 2026 08:22:42 GMT | Single-Endpoint Race Conditions — Writeup | Anonymousd | [Read More](https://medium.com/p/3e2aaa996af7) |
-| Mon, 09 Mar 2026 08:13:52 GMT | The 25-Year-Old Flaw That Brought Down the U.S. Government | Dhanush N | [Read More](https://medium.com/p/bee20f30a253) |
-| Mon, 09 Mar 2026 08:06:36 GMT | Best Software Development Company in India | Vast Web India | [Read More](https://medium.com/p/ce74b704258f) |
-| Mon, 09 Mar 2026 08:02:53 GMT | 7 Most Influential  Women in Cybersecurity You Should Follow in 2026 | Oran F | [Read More](https://medium.com/p/84f5ff1f77f4) |
-| Mon, 09 Mar 2026 08:01:01 GMT | Do. Or do not. There is no try. | Jere Le | [Read More](https://medium.com/p/d6c4e3e6fea3) |
-| Mon, 09 Mar 2026 07:58:35 GMT | The Top B2B Directories to Watch in 2026 | J | [Read More](https://medium.com/p/517fca3fc0dc) |
-| Mon, 09 Mar 2026 07:56:00 GMT | What Blockchain Hackers Know That You DON’T | Antonio Lopez | [Read More](https://medium.com/p/821af6fd499d) |
-| Mon, 09 Mar 2026 07:49:04 GMT | Why Semiconductor Manufacturers Depend on Automatic Test Equipment | Nova Raze | [Read More](https://medium.com/p/5d9a2b256c76) |
-| Mon, 09 Mar 2026 07:47:59 GMT | Find a bug in University website | Somsop | [Read More](https://medium.com/p/2d5ab0e73428) |
-| Mon, 09 Mar 2026 07:47:09 GMT | The Terrifying Truth About Brute Force Attacks and Corporate Security | Dhanush N | [Read More](https://medium.com/p/653cae401f22) |
