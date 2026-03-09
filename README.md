@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Mar 2026 21:31:00 GMT | Why Is My Browser Suddenly Full of Pop-Ups? | Janeel Abrahams | [Read More](https://medium.com/p/ff8e44917ed1) |
+| Mon, 09 Mar 2026 21:25:33 GMT | Cyber Security Foundation Series — Computer Networking Part -05(Firewall, Proxy Server, VPN, VLAN… | Kamal Kishor Mahto | [Read More](https://medium.com/p/9f024c526713) |
+| Mon, 09 Mar 2026 21:25:24 GMT | PicoCTF 2026: Hashgate | Ammar yasser El-sayed | [Read More](https://medium.com/p/0a6a328b5dd4) |
+| Mon, 09 Mar 2026 21:24:40 GMT | Bandit OverTheWire Level 21–33 Walkthrough (Step-by-Step Guide for Beginners) Years 2026 | Hisyam | [Read More](https://medium.com/p/210fde71e9f3) |
+| Mon, 09 Mar 2026 21:21:03 GMT | I Built a Security Lab the Right Way, and “the Right Way” Meant Starting With a Decision Not to… | OTHMANE EL MQIDDEM | [Read More](https://medium.com/p/df23ef2c9958) |
+| Mon, 09 Mar 2026 21:17:26 GMT | Navigating the AI Threat Horizon: | Bobbie á Deild | [Read More](https://medium.com/p/7020f46c59bb) |
+| Mon, 09 Mar 2026 21:17:21 GMT | API Hunting to Employee PII Data | SIDDHANT SHUKLA | [Read More](https://medium.com/p/638866e3f494) |
+| Mon, 09 Mar 2026 21:09:00 GMT | ChatGPT Backlash, Google’s Global AI Push, and Amazon’s $200 Billion Bet on the Future of AI | Qandeel Akhtar | [Read More](https://medium.com/p/ce3d15a8c92c) |
+| Mon, 09 Mar 2026 21:01:02 GMT | Unfiltered Restart — Day 21: Catching Up and Starting Core 2 | Maximillian Rueda | [Read More](https://medium.com/p/54255eb4ee48) |
+| Mon, 09 Mar 2026 20:52:34 GMT | Adversarial AI: The Hidden Cybersecurity Threat We Can’t ignore | Nandini Sharma | [Read More](https://medium.com/p/7d27894e409a) |
+| Mon, 09 Mar 2026 20:52:14 GMT | We’re Repeating the Cloud Mistake — But This Time It’s AI Agents | Simon Mestdagh | [Read More](https://medium.com/p/10fcae5c5144) |
+| Mon, 09 Mar 2026 20:50:14 GMT | Securing Kubernetes Software Supply Chains with Konflux. | Harsh Kumar | [Read More](https://medium.com/p/c2fa961cf6b4) |
+| Mon, 09 Mar 2026 20:48:32 GMT | Lab: SQL injection UNION attack, finding a column containing text | Songül Kızılay Özügürler | [Read More](https://medium.com/p/dba317ce4a28) |
+| Mon, 09 Mar 2026 20:42:17 GMT | Cloud Cost Savings: How Charlotte SMBs Are Cutting IT Expenses Without Sacrificing Security | Paradise technologies Inc | [Read More](https://medium.com/p/dd0162a9fd2e) |
+| Mon, 09 Mar 2026 20:42:02 GMT | Bir Farenin Gölgesinde Sızma Testi: WiFi Mouse RCE ve Shadow Track Analizi | Erdem Ceylan | [Read More](https://medium.com/p/991237aa5f80) |
+| Mon, 09 Mar 2026 20:40:14 GMT | Key Technical Differences Between GPT/UEFI and MBR/Legacy Systems | Ryan Adams | [Read More](https://medium.com/p/6dc597534aa7) |
 | Mon, 09 Mar 2026 20:33:20 GMT | The End of the Safe Career: Why Smart Professionals Are Rewriting the Rules of Work | Pankaj Wadhwa | [Read More](https://medium.com/p/7fa31d624962) |
 | Mon, 09 Mar 2026 20:24:46 GMT | Offsec “PyExp” CTF writeup | sabR | [Read More](https://medium.com/p/d4d01708b0ec) |
 | Mon, 09 Mar 2026 20:16:28 GMT | IT 05 - Advanced Windows Commands | Amrsmooke | [Read More](https://medium.com/p/2538fa7a177f) |
@@ -97,19 +113,3 @@ Part 2: Methods of Infiltration Used in Cyber Attacks | Favour Ugochi Ogbonnaya 
 | Mon, 09 Mar 2026 15:36:39 GMT | If Packets Could Talk: A High-Speed Journey Through the Wires | Venkatesh Ravichandran | [Read More](https://medium.com/p/c3a766100b73) |
 | Mon, 09 Mar 2026 15:31:49 GMT | IoT Security — A Backdoor in Your Front Door | Alessandro Tagliafierro | [Read More](https://medium.com/p/e28d79158fc5) |
 | Mon, 09 Mar 2026 15:27:47 GMT | HTB Sense: Hacking The Firewall | Onurcan Genç | [Read More](https://medium.com/p/045cb2246e68) |
-| Mon, 09 Mar 2026 15:26:40 GMT | TryHackMe - Linux Logging for SOC — Writeup | Nelmar | [Read More](https://medium.com/p/0c5cda80b0fa) |
-| Mon, 09 Mar 2026 15:22:05 GMT | Small Cybersecurity Mistakes That Lead to Big Problems | Mohsina Rauf | [Read More](https://medium.com/p/12a0d81e1a89) |
-| Mon, 09 Mar 2026 15:21:17 GMT | Tryhackme: Direktori Serangan | Firmansyahfebi | [Read More](https://medium.com/p/afe008cc056d) |
-| Mon, 09 Mar 2026 15:18:47 GMT | # **From Zero to 11 SQLi: Creating A Professional Penetration Testing Framework** | Kakashi | [Read More](https://medium.com/p/565b376f1e85) |
-| Mon, 09 Mar 2026 15:17:47 GMT | What Happens When You Put Off Security… Until It’s Too Late? | Luke Appleby | [Read More](https://medium.com/p/fc134295bac9) |
-| Mon, 09 Mar 2026 15:17:28 GMT | Reconnaissance Before Exploitation: How Penetration Testers Actually Study Their Targets | Jigyasha Rajbhandari | [Read More](https://medium.com/p/b4751ff2b595) |
-| Mon, 09 Mar 2026 15:14:41 GMT | The AI That Taught Itself to Break Out of Its Cage | PIXIPACE | [Read More](https://medium.com/p/0b011704b311) |
-| Mon, 09 Mar 2026 15:13:57 GMT | Logster: The AI That Detects Zero-Day Threats Before the Damage Is Done | Eman Khalid | [Read More](https://medium.com/p/c049ea9cee60) |
-| Mon, 09 Mar 2026 15:13:25 GMT | Sentinel for CMMC & SOC 2: Automating Compliance Reporting in the Cloud Era | IT_Engineer | [Read More](https://medium.com/p/25cc795781e4) |
-| Mon, 09 Mar 2026 15:09:56 GMT | Building a Cloud Web Application Using Azure App Service and Azure SQL Database: Hands-On Lab | Amal Udayanga Basnayake | [Read More](https://medium.com/p/049dba915f79) |
-| Mon, 09 Mar 2026 15:09:17 GMT | No Certs, No Degree, No Problem — But You Do Need to Stop Listening to Bad Advice | Jbird | [Read More](https://medium.com/p/33746bd786e7) |
-| Mon, 09 Mar 2026 15:09:06 GMT | The Metrics Trap: Why We Still Can’t Measure Security, and What I’d Measure Instead | Younos Nazarian | [Read More](https://medium.com/p/dde472d32d4f) |
-| Mon, 09 Mar 2026 14:57:50 GMT | What Is Risk-Adjusted Yield and Why Does It Matter? | catrules | [Read More](https://medium.com/p/dd5e0003cf64) |
-| Mon, 09 Mar 2026 14:47:48 GMT | Crypto Wallet Development: How to Build One | John Galt | [Read More](https://medium.com/p/b40313ddc2b4) |
-| Mon, 09 Mar 2026 14:46:04 GMT | Abusing AD-DACL: WriteDacl | Youssef Said Thabet | [Read More](https://medium.com/p/c3993a7c3748) |
-| Mon, 09 Mar 2026 14:45:14 GMT | Cybersecurity with a Digital Twin: Why Real-Time Data Streaming Matters | Kai Waehner | [Read More](https://medium.com/p/c18fe38c7792) |
