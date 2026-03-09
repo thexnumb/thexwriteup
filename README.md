@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Mar 2026 02:15:48 GMT | Building HeuriGuard: Detecting Malicious URLs and SMS Spam Using Machine Learning | MD JAVEED KHAN | [Read More](https://medium.com/p/94b0bb9d384f) |
+| Mon, 09 Mar 2026 02:12:45 GMT | 7 Silent Ways Hackers Steal Your Data (Most People Never Notice) | Armansyah hakim | [Read More](https://medium.com/p/9074f8dfe665) |
+| Mon, 09 Mar 2026 02:12:26 GMT | Separating the Real from the Fake: StarScope Builds a Strong Defense Against Deepfake Risks | Yuanli Technology | [Read More](https://medium.com/p/d659c1402363) |
+| Mon, 09 Mar 2026 02:11:54 GMT | Something Strange Is Happening in AI Regulation Right Now | A D | [Read More](https://medium.com/p/e8f773a00cda) |
+| Mon, 09 Mar 2026 02:07:39 GMT | Deepfakes and AI Scams: What a Beginner in Cybersecurity Is Seeing in 2026 | Ronak Mishra | [Read More](https://medium.com/p/8d7948e384cd) |
+| Mon, 09 Mar 2026 02:05:05 GMT | Deploying a Headless Ubuntu Server | Pace Gaming | [Read More](https://medium.com/p/fe4ffa0bf8e1) |
+| Mon, 09 Mar 2026 02:00:56 GMT | Chocolate Factory — CTF Writeup | Roshan Rajbanshi | [Read More](https://medium.com/p/749e4d28891d) |
+| Mon, 09 Mar 2026 01:53:25 GMT | OverTheWire leviathan : level1-level7 | Ahm3d_Sec | [Read More](https://medium.com/p/74d8e220b317) |
+| Mon, 09 Mar 2026 01:52:30 GMT | Keamanan Digital di Era Globalisasi Teknologi: Pentingnya Awareness terhadap Information Security | Maytaandani | [Read More](https://medium.com/p/729aea26472f) |
+| Mon, 09 Mar 2026 01:39:58 GMT | Public Admin Signup Leads to Unauthorized Administrative Access | Kiteegti | [Read More](https://medium.com/p/02c3218ed767) |
+| Mon, 09 Mar 2026 01:37:56 GMT | You Can Build on AgentSecrets | Wisdomademiju | [Read More](https://medium.com/p/948f8a776c85) |
+| Mon, 09 Mar 2026 01:25:10 GMT | Unstable Twin (THM) Tryhackme WriteUp CTF | Lawvye | [Read More](https://medium.com/p/584b63c8786c) |
+| Mon, 09 Mar 2026 00:52:22 GMT | OffSec PG Play: InfosecPrep Walkthrough | Antonio | [Read More](https://medium.com/p/462ae46cc2f2) |
+| Mon, 09 Mar 2026 00:46:21 GMT | Is a Zero-Day Really Unpreventable? The Truth About Zero-Day Defence | Candy Wong | [Read More](https://medium.com/p/12c5798cc8ae) |
+| Mon, 09 Mar 2026 00:35:23 GMT | Github Organization Security Checklist | Momo | [Read More](https://medium.com/p/cbbf48d306f3) |
+| Mon, 09 Mar 2026 00:12:55 GMT | “Notes From a Freelancer Watching the Future Arrive” | Ermiyah Tabansi | [Read More](https://medium.com/p/e0cbbf2f34fa) |
+| Mon, 09 Mar 2026 00:06:00 GMT | Cyber Threat Intelligence Report: StegaBin, 90 Minutes, Typosquatting, and a Steganographic… | SerapHim | [Read More](https://medium.com/p/afa47311bbb5) |
+| Sun, 08 Mar 2026 23:52:05 GMT | Lame Machine — HTB Writeup | William Shively | [Read More](https://medium.com/p/57d6331e31c9) |
 | Sun, 08 Mar 2026 23:32:06 GMT | Building TOTP from Scratch in Go | #[Pragmatic(Kiwi)] | [Read More](https://medium.com/p/8320f2e0a9df) |
 | Sun, 08 Mar 2026 23:31:00 GMT | Why Businesses May See More Phishing Attempts Right Now | Janeel Abrahams | [Read More](https://medium.com/p/b2d83dfa328c) |
 | Sun, 08 Mar 2026 23:16:45 GMT | BlackArch Linux: A Security Distribution Built for Those Who Already Know What They Are Doing | Rehimovmahmud | [Read More](https://medium.com/p/baef8c9a0a4f) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Mar 2026 17:21:15 GMT | Shifting from Minimizing Security Risk to Minimizing the Risk of Technology | Hi, I'm Mikey. | [Read More](https://medium.com/p/7a5ccaca740f) |
 | Sun, 08 Mar 2026 17:21:00 GMT | I Spent a Weekend Digging Into How Safari and Edge Actually Encrypt Your Passwords. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/3464a88d9d5e) |
 | Sun, 08 Mar 2026 17:11:36 GMT | Menjaga Benteng Digital: Memahami CIA Triad dalam Information Security | Ngakanman | [Read More](https://medium.com/p/44577b4d1ae9) |
-| Sun, 08 Mar 2026 17:08:05 GMT | Phishing: Emerging Threats & Proactive Defenses | Medjue Gore | [Read More](https://medium.com/p/29571ce14e41) |
-| Sun, 08 Mar 2026 17:05:52 GMT | Will AI Make You Jobless? How AI is Transforming the Workplace | Raghav Agarwal | [Read More](https://medium.com/p/2984c06dbd4f) |
-| Sun, 08 Mar 2026 17:05:51 GMT | Received a $300 bounty for this Mobile OTP Verification Bypass. | Ch4ndan das | [Read More](https://medium.com/p/0997b498aff7) |
-| Sun, 08 Mar 2026 17:02:49 GMT | Bypassing vCenter’s Absolute URLs and Hardcoded WebSockets Behind a Reverse Proxy | Jaime G.E. | [Read More](https://medium.com/p/c735cb1f499a) |
-| Sun, 08 Mar 2026 16:42:00 GMT | Ukraine, Iran, and the New Sequencing of Hybrid War | SIMKRA | [Read More](https://medium.com/p/f867d9badf56) |
-| Sun, 08 Mar 2026 16:36:01 GMT | HashiCorp Vault: The Right Way to Store Secrets | bektiaw | [Read More](https://medium.com/p/89676c963815) |
-| Sun, 08 Mar 2026 16:31:00 GMT | Exploiting CVE-2026–1731: A Critical Pre-Auth RCE in BeyondTrust | Lakshan Sameera | [Read More](https://medium.com/p/89249b3dcaf6) |
-| Sun, 08 Mar 2026 16:30:12 GMT | Boiler CTF — Complete TryHackMe Walkthrough | Karthikparambil | [Read More](https://medium.com/p/7301ec0b5246) |
-| Sun, 08 Mar 2026 16:23:10 GMT | Kimlik ve Erişim Yönetimi Labı | Mahir Kay | [Read More](https://medium.com/p/f368d2759792) |
-| Sun, 08 Mar 2026 16:22:43 GMT | Day 11 of 30: Cross-Site Scripting (XSS) Explained | SalmaAhmed | [Read More](https://medium.com/p/e689eb4f51f6) |
-| Sun, 08 Mar 2026 16:12:02 GMT | Write-up picoCTF 2021: Menyelesaikan Challenge “Scavenger Hunt” (Web Exploitation) | Malvin Wijaya | [Read More](https://medium.com/p/f6b32dfcd486) |
-| Sun, 08 Mar 2026 16:10:04 GMT | Day 18: I changed someone else’s address and the server didn’t notice! | Issan | [Read More](https://medium.com/p/7d2d4d3df25a) |
-| Sun, 08 Mar 2026 16:09:12 GMT | Beyond Formal Verification: | William Famy | [Read More](https://medium.com/p/8b127d4451f0) |
-| Sun, 08 Mar 2026 16:08:58 GMT | Spring Boot Security in 2026: Zero-Trust APIs with Spring Security | Dolly | [Read More](https://medium.com/p/9a4cd51dccb2) |
-| Sun, 08 Mar 2026 16:06:19 GMT | The Indian Ocean: an emerging maritime battlefield in the Contemporary Geopolitics | Aadish Reflects | [Read More](https://medium.com/p/0d2dc90d6efe) |
-| Sun, 08 Mar 2026 16:06:16 GMT | I Tricked Three AI Models With a Fake Email Chain | Leonardo M. Burgatte | [Read More](https://medium.com/p/358923e13161) |
-| Sun, 08 Mar 2026 16:02:08 GMT | macOS Security Checkup, Part 1 (2026): How to Scan Your Mac for Open Ports and Reduce Attack… | kryo | [Read More](https://medium.com/p/bfa16d159941) |
-| Sun, 08 Mar 2026 16:02:02 GMT | How I Analyzed Suspicious Files Using Static Analysis (Student Walkthrough) | znoobie | [Read More](https://medium.com/p/7472d579326d) |
