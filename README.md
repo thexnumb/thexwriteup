@@ -12,7 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Mar 2026 08:56:14 GMT | hacker fest 2019 complete walk through | Fahadkhanpathan | [Read More](https://medium.com/p/382b08421249) |
+| Mon, 09 Mar 2026 08:55:44 GMT | SOCAT and sshuttle with practical examples | Memmedovvaleh | [Read More](https://medium.com/p/b24d01d0e04b) |
+| Mon, 09 Mar 2026 08:53:49 GMT | Sunset: Noontide | Irbaazmakandar | [Read More](https://medium.com/p/fbd841610885) |
+| Mon, 09 Mar 2026 08:53:16 GMT | Hacker Feast :2019 (Complete walk-through) | Danishmankavi | [Read More](https://medium.com/p/185628a87f15) |
+| Mon, 09 Mar 2026 08:46:19 GMT | Cybersecurity: Protecting the Digital World | Tanish Jain | [Read More](https://medium.com/p/4794f5863cb2) |
+| Mon, 09 Mar 2026 08:40:09 GMT | Active Directory Exploitation 101: A Walkthrough of TryHackMe’s Attacktive Directory | Syauqiala | [Read More](https://medium.com/p/9fde91737565) |
+| Mon, 09 Mar 2026 08:38:42 GMT | The Algorithmic Battlefield | Hayanan | [Read More](https://medium.com/p/7cca867e210f) |
+| Mon, 09 Mar 2026 08:33:25 GMT | “How Many More Must Die?” - By Aduragbemi Adesina | Aduramizzy Aduragbemi | [Read More](https://medium.com/p/c88361a12ab2) |
+| Mon, 09 Mar 2026 08:32:31 GMT | NAME : UBAID.N.BEPARI | Ubaid bepari | [Read More](https://medium.com/p/5a6785a2b0c3) |
+| Mon, 09 Mar 2026 08:28:59 GMT | Sneak Peak Into Nicholas Reid Angell’s Most Recent Research | Nicholas Reid Angell | [Read More](https://medium.com/p/3ae355c56ea9) |
+| Mon, 09 Mar 2026 08:28:33 GMT | The Dark Side of AI: How Hackers Are Using Artificial Intelligence for Cyber Attacks | Ankit rai | [Read More](https://medium.com/p/cdbacee2a3d9) |
+| Mon, 09 Mar 2026 08:23:39 GMT | ️ Code First / Database First / Model First 是什麼？三種 EF 模式的理解 | 思維舞步 MindSteps | [Read More](https://medium.com/p/2c54647ef0ba) |
+| Mon, 09 Mar 2026 08:23:32 GMT | How to Protect Your Data While Surfing the Internet | Tier | [Read More](https://medium.com/p/165834ccd124) |
+| Mon, 09 Mar 2026 08:23:12 GMT | Getting Started with OT Security: Hands-On Modbus Pentesting with Real OT Lab (Part 5) | aravind0x7 | [Read More](https://medium.com/p/029a1912ab1c) |
+| Mon, 09 Mar 2026 08:22:42 GMT | Single-Endpoint Race Conditions — Writeup | Anonymousd | [Read More](https://medium.com/p/3e2aaa996af7) |
+| Mon, 09 Mar 2026 08:13:52 GMT | The 25-Year-Old Flaw That Brought Down the U.S. Government | Dhanush N | [Read More](https://medium.com/p/bee20f30a253) |
+| Mon, 09 Mar 2026 08:06:36 GMT | Best Software Development Company in India | Vast Web India | [Read More](https://medium.com/p/ce74b704258f) |
+| Mon, 09 Mar 2026 08:02:53 GMT | 7 Most Influential  Women in Cybersecurity You Should Follow in 2026 | Oran F | [Read More](https://medium.com/p/84f5ff1f77f4) |
 | Mon, 09 Mar 2026 08:01:01 GMT | Do. Or do not. There is no try. | Jere Le | [Read More](https://medium.com/p/d6c4e3e6fea3) |
+| Mon, 09 Mar 2026 07:58:35 GMT | The Top B2B Directories to Watch in 2026 | J | [Read More](https://medium.com/p/517fca3fc0dc) |
 | Mon, 09 Mar 2026 07:56:00 GMT | What Blockchain Hackers Know That You DON’T | Antonio Lopez | [Read More](https://medium.com/p/821af6fd499d) |
 | Mon, 09 Mar 2026 07:49:04 GMT | Why Semiconductor Manufacturers Depend on Automatic Test Equipment | Nova Raze | [Read More](https://medium.com/p/5d9a2b256c76) |
 | Mon, 09 Mar 2026 07:47:59 GMT | Find a bug in University website | Somsop | [Read More](https://medium.com/p/2d5ab0e73428) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Mar 2026 02:00:56 GMT | Chocolate Factory — CTF Writeup | Roshan Rajbanshi | [Read More](https://medium.com/p/749e4d28891d) |
 | Mon, 09 Mar 2026 01:53:25 GMT | OverTheWire leviathan : level1-level7 | Ahm3d_Sec | [Read More](https://medium.com/p/74d8e220b317) |
 | Mon, 09 Mar 2026 01:52:30 GMT | Keamanan Digital di Era Globalisasi Teknologi: Pentingnya Awareness terhadap Information Security | Maytaandani | [Read More](https://medium.com/p/729aea26472f) |
-| Mon, 09 Mar 2026 01:39:58 GMT | Public Admin Signup Leads to Unauthorized Administrative Access | Kiteegti | [Read More](https://medium.com/p/02c3218ed767) |
-| Mon, 09 Mar 2026 01:37:56 GMT | You Can Build on AgentSecrets | Wisdomademiju | [Read More](https://medium.com/p/948f8a776c85) |
-| Mon, 09 Mar 2026 01:25:10 GMT | Unstable Twin (THM) Tryhackme WriteUp CTF | Lawvye | [Read More](https://medium.com/p/584b63c8786c) |
-| Mon, 09 Mar 2026 00:52:22 GMT | OffSec PG Play: InfosecPrep Walkthrough | Antonio | [Read More](https://medium.com/p/462ae46cc2f2) |
-| Mon, 09 Mar 2026 00:46:21 GMT | Is a Zero-Day Really Unpreventable? The Truth About Zero-Day Defence | Candy Wong | [Read More](https://medium.com/p/12c5798cc8ae) |
-| Mon, 09 Mar 2026 00:35:23 GMT | Github Organization Security Checklist | Momo | [Read More](https://medium.com/p/cbbf48d306f3) |
-| Mon, 09 Mar 2026 00:12:55 GMT | “Notes From a Freelancer Watching the Future Arrive” | Ermiyah Tabansi | [Read More](https://medium.com/p/e0cbbf2f34fa) |
-| Mon, 09 Mar 2026 00:06:00 GMT | Cyber Threat Intelligence Report: StegaBin, 90 Minutes, Typosquatting, and a Steganographic… | SerapHim | [Read More](https://medium.com/p/afa47311bbb5) |
-| Sun, 08 Mar 2026 23:52:05 GMT | Lame Machine — HTB Writeup | William Shively | [Read More](https://medium.com/p/57d6331e31c9) |
-| Sun, 08 Mar 2026 23:32:06 GMT | Building TOTP from Scratch in Go | #[Pragmatic(Kiwi)] | [Read More](https://medium.com/p/8320f2e0a9df) |
-| Sun, 08 Mar 2026 23:31:00 GMT | Why Businesses May See More Phishing Attempts Right Now | Janeel Abrahams | [Read More](https://medium.com/p/b2d83dfa328c) |
-| Sun, 08 Mar 2026 23:16:45 GMT | BlackArch Linux: A Security Distribution Built for Those Who Already Know What They Are Doing | Rehimovmahmud | [Read More](https://medium.com/p/baef8c9a0a4f) |
-| Sun, 08 Mar 2026 23:16:17 GMT | Debian 12 — Researching ImageMagick Vulnerabilities discovered with Wazuh | Kenneth Davis | [Read More](https://medium.com/p/48ffe93dba52) |
-| Sun, 08 Mar 2026 23:07:10 GMT | SSH Enumeration in Penetration Testing | 7FINGER-KNIGHT-HACK | [Read More](https://medium.com/p/0b6681aa6960) |
-| Sun, 08 Mar 2026 23:05:30 GMT | How I Built a Python Network Scanner That Thinks Like an Attacker | Sanketh Subhas | [Read More](https://medium.com/p/ecac34b79784) |
-| Sun, 08 Mar 2026 23:04:12 GMT | Pentest na prática — Thales (parte 1) | Drifter | [Read More](https://medium.com/p/485828c542da) |
-| Sun, 08 Mar 2026 23:01:01 GMT | Blue Team Labs Online: Network Analysis — Web Shell Challenge Walkthrough | Drew Arpino | [Read More](https://medium.com/p/49c3729dc869) |
-| Sun, 08 Mar 2026 22:54:17 GMT | AI, IoT and the Human Factor: Rebuilding an Undocumented Enterprise Network | S Gokhman | [Read More](https://medium.com/p/4050600b2457) |
-| Sun, 08 Mar 2026 22:49:48 GMT | OTP / Verification Code Brute Force Vulnerability | Youssefelbakrey | [Read More](https://medium.com/p/43756b5f15ed) |
