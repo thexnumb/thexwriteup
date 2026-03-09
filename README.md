@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Mar 2026 22:03:26 GMT | Trust Boundaries in Agentic AI | Facundo Fernandez | [Read More](https://medium.com/p/3b6ffddffdba) |
+| Mon, 09 Mar 2026 22:02:18 GMT | ApoorvCTF 4.0 — OSINT Writeup | Alwin Thomas | [Read More](https://medium.com/p/4e8aad6258fe) |
+| Mon, 09 Mar 2026 21:59:30 GMT | Try Hack Me- Simple CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/c8cc034d7599) |
+| Mon, 09 Mar 2026 21:52:26 GMT | Data Security: Understanding How Information Stays Safe | Techridge Solutions | [Read More](https://medium.com/p/8e89e848385d) |
+| Mon, 09 Mar 2026 21:49:19 GMT | Understanding Web Applications: The Foundation for Investigating Web App Security Alerts | CipherX9F Security | [Read More](https://medium.com/p/d48174fce4c3) |
+| Mon, 09 Mar 2026 21:46:42 GMT | Mock Professional Brief for Blue Cross Blue Shield Cybersecurity Division | Amarachi | [Read More](https://medium.com/p/68fe46039798) |
+| Mon, 09 Mar 2026 21:45:45 GMT | From Firewall to Endpoint: Building a Hands-On Sophos Intercept X EDR Lab | FıratCan Bekar | [Read More](https://medium.com/p/881aee5dcec9) |
+| Mon, 09 Mar 2026 21:40:08 GMT | Hospitals are going Digital — Is Yours Ready ? | Malik Rashid Ahmad | [Read More](https://medium.com/p/b3e265c364cf) |
+| Mon, 09 Mar 2026 21:38:36 GMT | Why “Vibe Coding” is a Financial Liability | Alfa | [Read More](https://medium.com/p/6e66437f9c73) |
 | Mon, 09 Mar 2026 21:31:00 GMT | Why Is My Browser Suddenly Full of Pop-Ups? | Janeel Abrahams | [Read More](https://medium.com/p/ff8e44917ed1) |
 | Mon, 09 Mar 2026 21:25:33 GMT | Cyber Security Foundation Series — Computer Networking Part -05(Firewall, Proxy Server, VPN, VLAN… | Kamal Kishor Mahto | [Read More](https://medium.com/p/9f024c526713) |
 | Mon, 09 Mar 2026 21:25:24 GMT | PicoCTF 2026: Hashgate | Ammar yasser El-sayed | [Read More](https://medium.com/p/0a6a328b5dd4) |
@@ -104,12 +113,3 @@ Part 2: Methods of Infiltration Used in Cyber Attacks | Favour Ugochi Ogbonnaya 
 | Mon, 09 Mar 2026 16:24:31 GMT | Ce este un atac phishing și cum îl recunoști | Mocanu Dorinel | [Read More](https://medium.com/p/a4a1a21502a0) |
 | Mon, 09 Mar 2026 16:19:20 GMT | Literature Review On Food Security | Jonathan from Ohio Christian University | [Read More](https://medium.com/p/0601c1d584df) |
 | Mon, 09 Mar 2026 16:16:51 GMT | Product Managers Are Secret Storytellers | Lakshmi Prabha | [Read More](https://medium.com/p/817addcaacd1) |
-| Mon, 09 Mar 2026 16:11:22 GMT | Write-Up: AD Basic Enumeration — TryHackMe | Muhammaddavidfirmansyah | [Read More](https://medium.com/p/cf383488bf54) |
-| Mon, 09 Mar 2026 16:02:54 GMT | Literature Review On Student Information System | Troy from Canadian Securities Institute | [Read More](https://medium.com/p/c69833ec5f3f) |
-| Mon, 09 Mar 2026 16:01:36 GMT | Privacy in the Age of Surveillance Capitalism: Power, Consent, and Regulation in Digital Society | Iacopo Boaron Otero | [Read More](https://medium.com/p/5fbd5f7fb91a) |
-| Mon, 09 Mar 2026 15:55:57 GMT | OpenAI Just Turned Software Security Into a Background Job. | Newzino | [Read More](https://medium.com/p/a62ba52c006b) |
-| Mon, 09 Mar 2026 15:54:33 GMT | Duty Of Care, Show-Stop Plans And Other Emergency Provisions | Seth Kenvin | [Read More](https://medium.com/p/607fba31b903) |
-| Mon, 09 Mar 2026 15:45:47 GMT | Benefits of Professional Security System Installation | AlexBryn | [Read More](https://medium.com/p/2d7a6319b937) |
-| Mon, 09 Mar 2026 15:36:39 GMT | If Packets Could Talk: A High-Speed Journey Through the Wires | Venkatesh Ravichandran | [Read More](https://medium.com/p/c3a766100b73) |
-| Mon, 09 Mar 2026 15:31:49 GMT | IoT Security — A Backdoor in Your Front Door | Alessandro Tagliafierro | [Read More](https://medium.com/p/e28d79158fc5) |
-| Mon, 09 Mar 2026 15:27:47 GMT | HTB Sense: Hacking The Firewall | Onurcan Genç | [Read More](https://medium.com/p/045cb2246e68) |
