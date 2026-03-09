@@ -12,6 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Mar 2026 16:41:00 GMT | Hack Smarter: Polution — Privilege Escalation via Prototype Pollution to XSS | charlier0cks | [Read More](https://medium.com/p/7187eb534df4) |
+| Mon, 09 Mar 2026 16:40:55 GMT | 7 Spring Boot Security Misconfigurations Hackers Love (And How to Fix Them) | Karuna | [Read More](https://medium.com/p/70378ce98c0a) |
+| Mon, 09 Mar 2026 16:40:41 GMT | Latin America Under Siege: The Rising Tide of Cybercrime and the Hard Lessons from Colombia. | Alexis Medina | [Read More](https://medium.com/p/6d2cc19b86b7) |
+| Mon, 09 Mar 2026 16:37:50 GMT | Is Someone Watching? How Hackers Access Your Security Cameras — and How to Stop Them | Temma | [Read More](https://medium.com/p/9e305bf86423) |
+| Mon, 09 Mar 2026 16:37:00 GMT | The Lie of Privacy: How Messengers Track You | Private.Ki | [Read More](https://medium.com/p/be77705fc3aa) |
+| Mon, 09 Mar 2026 16:36:26 GMT | Cisco SD-WAN Under Fire: When “Actively Exploited” Means Patch, Not Panic | Ilias Armenakis | [Read More](https://medium.com/p/59345314fa72) |
+| Mon, 09 Mar 2026 16:34:11 GMT | Aplikasi Mobile: Membuat My Card App Menggunakan Flutter Widgets | Yasa Wijaya | [Read More](https://medium.com/p/2bf0774487c9) |
+| Mon, 09 Mar 2026 16:33:37 GMT | How Kerberoasting Actually Works in Real Enterprise Environments | CybeCloud | [Read More](https://medium.com/p/234103dee3a4) |
+| Mon, 09 Mar 2026 16:31:00 GMT | Four Tools, Three Machines, One Question | Andrew Kutuzov | [Read More](https://medium.com/p/833c5e9bd688) |
+| Mon, 09 Mar 2026 16:28:31 GMT | Zero-Trust at the Edge: Rethinking the eDMZ Perimeter (Part 1) | Cheuk Ming Au | [Read More](https://medium.com/p/91937823c8fb) |
+| Mon, 09 Mar 2026 16:27:56 GMT | Kubernetes y Wireguard: CNI vs VM | Sergio Rua | [Read More](https://medium.com/p/7fbe3dba961e) |
+| Mon, 09 Mar 2026 16:27:45 GMT | Strategic Escalation Risks in the Emerging Middle East Security Landscape | Tim Suleyman | [Read More](https://medium.com/p/aace768ebbd9) |
+| Mon, 09 Mar 2026 16:26:05 GMT | Investigating a PowerShell Based EDR Bypass Attack -LetsDefend SOC Case Study | Ben Rubin (Zedocun) | [Read More](https://medium.com/p/743ba8074a8b) |
+| Mon, 09 Mar 2026 16:25:25 GMT | Think Like a Hacker, Build Like an Engineer: Why Red Teaming is the Secret to Better Software | Skyauctus | [Read More](https://medium.com/p/2f270d025662) |
+| Mon, 09 Mar 2026 16:24:31 GMT | Ce este un atac phishing și cum îl recunoști | Mocanu Dorinel | [Read More](https://medium.com/p/a4a1a21502a0) |
+| Mon, 09 Mar 2026 16:19:20 GMT | Literature Review On Food Security | Jonathan from Ohio Christian University | [Read More](https://medium.com/p/0601c1d584df) |
+| Mon, 09 Mar 2026 16:16:51 GMT | Product Managers Are Secret Storytellers | Lakshmi Prabha | [Read More](https://medium.com/p/817addcaacd1) |
+| Mon, 09 Mar 2026 16:11:22 GMT | Write-Up: AD Basic Enumeration — TryHackMe | Muhammaddavidfirmansyah | [Read More](https://medium.com/p/cf383488bf54) |
+| Mon, 09 Mar 2026 16:02:54 GMT | Literature Review On Student Information System | Troy from Canadian Securities Institute | [Read More](https://medium.com/p/c69833ec5f3f) |
+| Mon, 09 Mar 2026 16:01:36 GMT | Privacy in the Age of Surveillance Capitalism: Power, Consent, and Regulation in Digital Society | Iacopo Boaron Otero | [Read More](https://medium.com/p/5fbd5f7fb91a) |
+| Mon, 09 Mar 2026 15:55:57 GMT | OpenAI Just Turned Software Security Into a Background Job. | Newzino | [Read More](https://medium.com/p/a62ba52c006b) |
+| Mon, 09 Mar 2026 15:54:33 GMT | Duty Of Care, Show-Stop Plans And Other Emergency Provisions | Seth Kenvin | [Read More](https://medium.com/p/607fba31b903) |
+| Mon, 09 Mar 2026 15:45:47 GMT | Benefits of Professional Security System Installation | AlexBryn | [Read More](https://medium.com/p/2d7a6319b937) |
+| Mon, 09 Mar 2026 15:36:39 GMT | If Packets Could Talk: A High-Speed Journey Through the Wires | Venkatesh Ravichandran | [Read More](https://medium.com/p/c3a766100b73) |
+| Mon, 09 Mar 2026 15:31:49 GMT | IoT Security — A Backdoor in Your Front Door | Alessandro Tagliafierro | [Read More](https://medium.com/p/e28d79158fc5) |
 | Mon, 09 Mar 2026 15:27:47 GMT | HTB Sense: Hacking The Firewall | Onurcan Genç | [Read More](https://medium.com/p/045cb2246e68) |
 | Mon, 09 Mar 2026 15:26:40 GMT | TryHackMe - Linux Logging for SOC — Writeup | Nelmar | [Read More](https://medium.com/p/0c5cda80b0fa) |
 | Mon, 09 Mar 2026 15:22:05 GMT | Small Cybersecurity Mistakes That Lead to Big Problems | Mohsina Rauf | [Read More](https://medium.com/p/12a0d81e1a89) |
@@ -87,28 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Mar 2026 11:41:57 GMT | Top 10 Mobile Application Security Testing Tools | cyber security Updates | [Read More](https://medium.com/p/5c8a461e42c8) |
 | Mon, 09 Mar 2026 11:37:40 GMT | HTB: Editor | bluesnow | [Read More](https://medium.com/p/406f8fc6dee2) |
 | Mon, 09 Mar 2026 11:34:59 GMT | I Built a Full SIEM Lab on Azure — Here’s Everything That Broke (and What I Learned)- Part 2 | Florence Nwizugbe | [Read More](https://medium.com/p/dca60c5e1e9d) |
-| Mon, 09 Mar 2026 11:33:59 GMT | The State of Authentication in Rails in 2026 - A comparison between Laravel, Django and Next.js | Brandyn Britton | [Read More](https://medium.com/p/a3c52c085961) |
-| Mon, 09 Mar 2026 11:19:47 GMT | How to Investigate a Phishing Email: A Practical Guide for Security Analysts | xoxo | [Read More](https://medium.com/p/d94b41dfe16e) |
-| Mon, 09 Mar 2026 11:19:29 GMT | Why Reliable Security Services Are Essential for Modern UK Businesses | Rapport Security | [Read More](https://medium.com/p/86b9a3d47dec) |
-| Mon, 09 Mar 2026 11:17:53 GMT | IDOR Mastery: From Basic ID Changes to Advanced Techniques That Pay $10K+ Bounties | BugHunter’s Journal | [Read More](https://medium.com/p/1f106016e039) |
-| Mon, 09 Mar 2026 11:13:24 GMT | Truth in the Age of Deepfakes: Legal Frontiers Against Digital Deception and Image Abuse | Olisa Agbakoba Legal (OAL) | [Read More](https://medium.com/p/e88579bd14b2) |
-| Mon, 09 Mar 2026 11:13:11 GMT | Hackers are stealing data every day… but companies are hiring Ethical Hackers to stop them! | 4Achievers | [Read More](https://medium.com/p/f98dd5c0b4de) |
-| Mon, 09 Mar 2026 11:10:16 GMT | TCS HackQuest Season 10 CTF Writeup — Round 1, Round 2 and Interview Experience | Kamalesh | [Read More](https://medium.com/p/5dfdb31ba865) |
-| Mon, 09 Mar 2026 11:05:33 GMT | I Told the Internet Not to Install OpenClaw. The Internet Did Not Listen. | Safoura jolfaei | [Read More](https://medium.com/p/5e3016a74b1b) |
-| Mon, 09 Mar 2026 11:04:10 GMT | Backup vs Disaster Recovery: Why the Difference Matters | Modern Vision | [Read More](https://medium.com/p/075dfc2dd380) |
-| Mon, 09 Mar 2026 11:01:01 GMT | Understanding CWE-316: Cleartext Storage of Sensitive Information in Memory | Walter Moar | [Read More](https://medium.com/p/7b3f88eb8fdf) |
-| Mon, 09 Mar 2026 10:57:04 GMT | The 2015 Screenshot Somebody Kept | O. J. Okpabi | [Read More](https://medium.com/p/5b94a7071869) |
-| Mon, 09 Mar 2026 10:54:46 GMT | 5 Quick Wins to Ace Your Next Penetration Test | Redfox Security | [Read More](https://medium.com/p/98758c641f5f) |
-| Mon, 09 Mar 2026 10:53:41 GMT | The Evolution of Industrial Communication Protocols | Systems & Networks | [Read More](https://medium.com/p/1bc5f0422e52) |
-| Mon, 09 Mar 2026 10:49:09 GMT | What is Device Security Posture Monitoring? | Lesya Popovich | [Read More](https://medium.com/p/7517fa8d45b6) |
-| Mon, 09 Mar 2026 10:46:00 GMT | Are Interim CISO Services Right for Your Compliance Gap? | Tyson Martin | [Read More](https://medium.com/p/91a3152f0adc) |
-| Mon, 09 Mar 2026 10:45:20 GMT | Stop Giving Your Industrial Secrets to AI: The Shield of Open Source and GDPR | Taic.ai | [Read More](https://medium.com/p/895352e36aa7) |
-| Mon, 09 Mar 2026 10:44:27 GMT | Singapore PDPA (Personal Data Protection Act) Compliance: Ultimate Guide | QualysecEurope | [Read More](https://medium.com/p/eac18693e9d3) |
-| Mon, 09 Mar 2026 10:40:40 GMT | AI-Driven DevSecOps: Güvenlik ve Otomasyonun Yeni Kesişim Noktası | Muhammed Asef | [Read More](https://medium.com/p/43979d499e98) |
-| Mon, 09 Mar 2026 10:35:27 GMT | In-Depth Security Analysis with the OWASP Top 10 | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/a6293cd207d5) |
-| Mon, 09 Mar 2026 10:35:23 GMT | What is Burp Suite and How Do You Use It? | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/5b6de8a04575) |
-| Mon, 09 Mar 2026 10:24:31 GMT | POLYMORPHIC TIME-BASED | Justen V. | [Read More](https://medium.com/p/42ea3667c3d9) |
-| Mon, 09 Mar 2026 10:21:15 GMT | The Key Code Incident: Why AI Security Isn’t a Feature — It’s an Architecture | Una by Polydom | [Read More](https://medium.com/p/55058e655b27) |
-| Mon, 09 Mar 2026 10:19:36 GMT | Menghadapi Deepfakes dan Serangan AI: Mengapa Kita Perlu Belajar Information Security Sekarang. | Taraayu | [Read More](https://medium.com/p/dc524a63dd35) |
-| Mon, 09 Mar 2026 10:18:16 GMT | How Managed Security Services Improve Security Event Correlation Across Tools | Gavin Ellis | [Read More](https://medium.com/p/bb4e2ea97b4c) |
-| Mon, 09 Mar 2026 10:11:45 GMT | Never Give Out Your WiFi Password Again — QR Codes Made Simple! | New Trend Computer Networks | [Read More](https://medium.com/p/5237e2bc4f92) |
