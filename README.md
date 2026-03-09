@@ -12,7 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Mar 2026 18:51:00 GMT | Arjun: The Ultimate Parameter Discovery Tool For Bug Hunters | MainEkHacker | [Read More](https://medium.com/p/fd97a12b6c58) |
+| Mon, 09 Mar 2026 18:44:33 GMT | POSTURA: Graph-Based Security Analysis That Understands Context | Arunabh Majumdar | [Read More](https://medium.com/p/bcf340f3ba57) |
+| Mon, 09 Mar 2026 18:43:20 GMT | Attachment Day 02: Exploring Cybersecurity Frameworks and Enterprise Capability Models | Arittroskr | [Read More](https://medium.com/p/1e64ada071f5) |
+| Mon, 09 Mar 2026 18:42:38 GMT | Cisco Cybersecurity Module 2
+Part 2: Methods of Infiltration Used in Cyber Attacks | Favour Ugochi Ogbonnaya | [Read More](https://medium.com/p/b01b8aba575f) |
+| Mon, 09 Mar 2026 18:42:34 GMT | Antivirus software should only be one part of your cybersecurity strategy | Cordula Boeck | [Read More](https://medium.com/p/1e5d0ffaa4cf) |
+| Mon, 09 Mar 2026 18:40:52 GMT | Over 100 GitHub Repositories Distributing BoryptGrab Stealer | SOCFortress | [Read More](https://medium.com/p/a0d6da5ab28f) |
+| Mon, 09 Mar 2026 18:38:01 GMT | SOC Chronicles: Episode 4 (Advanced Malware Analysis and Incident Response) | Abdul Moeez Siddiqui | [Read More](https://medium.com/p/45b89f130e3c) |
+| Mon, 09 Mar 2026 18:26:33 GMT | Cryptography: A method to ensure the pillars of information security are followed. | Houeto Audrey | [Read More](https://medium.com/p/d9638a2fd1f5) |
+| Mon, 09 Mar 2026 18:26:07 GMT | Rooting Android Studio Emulator with KernelSU (Apple Silicon M1/M2/M3/M4) — Enable Root on Google… | mjais | [Read More](https://medium.com/p/c1b7d8417bea) |
+| Mon, 09 Mar 2026 18:21:21 GMT | The Hidden Security Risk in Linux: Why the /tmp Directory Must Be Properly Secured | Adnan Anik | [Read More](https://medium.com/p/e2c3625c917d) |
+| Mon, 09 Mar 2026 18:17:35 GMT | CodePartTwo HackTheBox Writeup | 0xCYRUS | [Read More](https://medium.com/p/adb70502ff4c) |
+| Mon, 09 Mar 2026 18:16:07 GMT | Süni İntellekt (AI) Agentləri vs. | Servoogle Studio | [Read More](https://medium.com/p/8a80d64bf418) |
+| Mon, 09 Mar 2026 18:13:56 GMT | The Stranger at the Door | Ryan Foster | [Read More](https://medium.com/p/1820b84a9b8e) |
+| Mon, 09 Mar 2026 18:10:28 GMT | Jailbreak HTB — How I solved it | Olina Kundu | [Read More](https://medium.com/p/36b838bb1226) |
+| Mon, 09 Mar 2026 18:07:54 GMT | Active Directory Recon Without Credentials — TryHackMe AD Basic Enumeration Walkthrough | razzee | [Read More](https://medium.com/p/ad196addd4e5) |
+| Mon, 09 Mar 2026 18:02:18 GMT | The Governance Problem Behind AI Systems | Priyansh Singh | [Read More](https://medium.com/p/7c8584ebb95c) |
+| Mon, 09 Mar 2026 17:53:56 GMT | How I Found the InnerTube Identity Bridge: The Methodology | Jawad Momani | [Read More](https://medium.com/p/0757e3aebb75) |
+| Mon, 09 Mar 2026 17:52:14 GMT | Day 19: I edited someone’s profile without their permission! | Issan | [Read More](https://medium.com/p/b0fb8d60706f) |
+| Mon, 09 Mar 2026 17:45:35 GMT | Your SBOM Data Has Been Gathering Dust - Until Now | Brett Crawley | [Read More](https://medium.com/p/3956a6bbe81a) |
 | Mon, 09 Mar 2026 17:43:35 GMT | The Stacking Principle in Machine Learning: Base Learners, Meta-Learners, and the Art of Learning… | Lumina | [Read More](https://medium.com/p/524a085f3255) |
+| Mon, 09 Mar 2026 17:40:17 GMT | Spammers Are Bad. Are Telephone Spammers Worse? | BillfordX | [Read More](https://medium.com/p/0f9289f1ab3f) |
 | Mon, 09 Mar 2026 17:38:31 GMT | The MCP Security Guide Nobody Wrote — Until Someone Got Hacked | Ayesha Mughal | [Read More](https://medium.com/p/53e3b23f6ac0) |
 | Mon, 09 Mar 2026 17:35:10 GMT | Why the Most Technically Skilled Hackers Are Not the Ones Earning the Highest Bug Bounty Payouts | R.H Rizvi | [Read More](https://medium.com/p/2b5021ace7f3) |
 | Mon, 09 Mar 2026 17:34:58 GMT | The Proxy Tool Paradox: Why the Most Powerful Feature in Web Security Testing Is the One Most… | R.H Rizvi | [Read More](https://medium.com/p/98e35fbf7afc) |
@@ -28,6 +49,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Mar 2026 17:05:18 GMT | I Changed One Cookie Value… and Became Admin | TEJAS | [Read More](https://medium.com/p/f60fbdbcca96) |
 | Mon, 09 Mar 2026 17:01:01 GMT | Why Never Feeling Safe Can Shape Lifelong Anxiety | K_UK | [Read More](https://medium.com/p/5896c4976937) |
 | Mon, 09 Mar 2026 16:58:29 GMT | Implementing The OWASP Top 10 2025 in a Django Module: Part 1 | Yasmine Putri Viryadhani | [Read More](https://medium.com/p/29b431acad13) |
+| Mon, 09 Mar 2026 16:49:42 GMT | The New Security Perimeter: Why Identity Defense Is the Future of Cybersecurity? | Dr. Shashi Karhail | [Read More](https://medium.com/p/6753fb4ba749) |
 | Mon, 09 Mar 2026 16:41:00 GMT | Hack Smarter: Polution — Privilege Escalation via Prototype Pollution to XSS | charlier0cks | [Read More](https://medium.com/p/7187eb534df4) |
 | Mon, 09 Mar 2026 16:40:55 GMT | 7 Spring Boot Security Misconfigurations Hackers Love (And How to Fix Them) | Karuna | [Read More](https://medium.com/p/70378ce98c0a) |
 | Mon, 09 Mar 2026 16:40:41 GMT | Latin America Under Siege: The Rising Tide of Cybercrime and the Hard Lessons from Colombia. | Alexis Medina | [Read More](https://medium.com/p/6d2cc19b86b7) |
@@ -91,24 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Mar 2026 14:01:01 GMT | The five most misunderstood parts of NIST CSF | Gaurav Shukla | [Read More](https://medium.com/p/3a60b62aa04a) |
 | Mon, 09 Mar 2026 14:01:01 GMT | Cyber Briefing: 2026.03.09 | CyberMaterial | [Read More](https://medium.com/p/2f49c7b27501) |
 | Mon, 09 Mar 2026 13:56:19 GMT | Android Application Pentesting — AndroGoat | Harmonax | [Read More](https://medium.com/p/b3fca0ddc66e) |
-| Mon, 09 Mar 2026 13:53:42 GMT | From Reconnaissance to Exploitation: Understanding Penetration Testing Methodologies | Sameer | [Read More](https://medium.com/p/34f23e574096) |
-| Mon, 09 Mar 2026 13:51:18 GMT | Millions of Surveillance Cameras at Risk: Critical Hikvision Security Flaw Discovered | Ananthuharikumar | [Read More](https://medium.com/p/2b3515ec6735) |
-| Mon, 09 Mar 2026 13:36:00 GMT | Hartford, CT Garage Door Repair - Up & Down Garage Doors | Up & Down Garage Door Services | [Read More](https://medium.com/p/a90764d0e239) |
-| Mon, 09 Mar 2026 13:32:08 GMT | Approve Plan? AI Deleted Production Data. | Mammoth Cyber | [Read More](https://medium.com/p/547adea4a881) |
-| Mon, 09 Mar 2026 13:21:00 GMT | New Kubernetes Admission Controller Bypass via Mutating Webhook Manipulation | Krishna Kumar | [Read More](https://medium.com/p/c0ccc0792b9c) |
-| Mon, 09 Mar 2026 13:16:17 GMT | MQTT Writeup | Abraamadel | [Read More](https://medium.com/p/4ae9c6ba08e7) |
-| Mon, 09 Mar 2026 13:11:48 GMT | Dari Data Pribadi hingga Sistem Digital: Pentingnya Belajar Information Security | Ninaannastasya | [Read More](https://medium.com/p/8e5f12538218) |
-| Mon, 09 Mar 2026 13:07:29 GMT | The Ethics of Drone Warfare | Fiazur Rehman- Researcher | [Read More](https://medium.com/p/3db454eac282) |
-| Mon, 09 Mar 2026 13:07:22 GMT | Windows Event Log Analysis for Incident Response | Sidhantchaurasiya | [Read More](https://medium.com/p/b82647fb890d) |
-| Mon, 09 Mar 2026 13:07:13 GMT | The Quantum Heist: Defeating “Store Now, Decrypt Later” with Merkle Tree Certificates | Sohan Kanna | [Read More](https://medium.com/p/5d93bf318249) |
-| Mon, 09 Mar 2026 13:05:00 GMT | Your AI Agent Just Asked to Delete a Folder. Should You Worry? | Ryann - Digital Systems Architect | [Read More](https://medium.com/p/fa1ee1130ae5) |
-| Mon, 09 Mar 2026 13:03:45 GMT | Why HashiCorp Vault Infrastructure Requirements Are Not Negotiable | Mark Carriedo | [Read More](https://medium.com/p/63e763858121) |
-| Mon, 09 Mar 2026 13:00:39 GMT | The SSH Hardening Checklist I Run on Every New Linux Server | Faruk Ahmed | [Read More](https://medium.com/p/ba3f44c912b7) |
-| Mon, 09 Mar 2026 12:56:00 GMT | Malaysia Is Betting Big on Quantum Intelligence. Your Encrypted Data Depends on It. | Hafiq Iqmal | [Read More](https://medium.com/p/2d678aa6a1ef) |
-| Mon, 09 Mar 2026 12:56:00 GMT | Understanding a Woman’s True Feelings Through Her Vulnerable Zones | PhoebeWhite | [Read More](https://medium.com/p/d3d6659e86a5) |
-| Mon, 09 Mar 2026 12:55:49 GMT | They’re Already Stealing Your Encrypted Data. They Just Can’t Read It Yet. | Nov Tech | [Read More](https://medium.com/p/f38fdc7a3d82) |
-| Mon, 09 Mar 2026 12:52:33 GMT | Expressway HackTheBox Writeup | phantom_hat | [Read More](https://medium.com/p/e379f33d1d40) |
-| Mon, 09 Mar 2026 12:51:16 GMT | What Are Security Guard Services? (Complete Guide) | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/e0d520e83920) |
-| Mon, 09 Mar 2026 12:50:01 GMT | PNPT External Penetration Cheat Sheet | jaejun835 | [Read More](https://medium.com/p/ce5480a266ee) |
-| Mon, 09 Mar 2026 12:49:46 GMT | Endpoint Protection: Why Your Laptop Isn’t Just “Your Laptop” Anymore | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/ce215577bf36) |
-| Mon, 09 Mar 2026 12:38:34 GMT | Customer Data Privacy and Protection: What Indian Websites Must Do in 2026 | Innovatrix Infotech | [Read More](https://medium.com/p/91e473506d98) |
