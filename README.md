@@ -12,7 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Mar 2026 19:31:39 GMT | OpenClaw and the Emerging AI Agent Security Crisis | Chetan Seripally | [Read More](https://medium.com/p/7748581291d6) |
+| Mon, 09 Mar 2026 19:21:12 GMT | Networking Fundamentals: OSI vs TCP/IP Explained | Kilian J | [Read More](https://medium.com/p/e1ecac5351d5) |
+| Mon, 09 Mar 2026 19:20:53 GMT | Manage AI Like an Employee or Expect Human-Sized Mistakes | Chris Buxton | [Read More](https://medium.com/p/f99b175db30d) |
+| Mon, 09 Mar 2026 19:19:09 GMT | “Linux Won’t Boot? The Complete GRUB Bootloader Guide to Fix and Rescue Your System” | Cyber Wolf | [Read More](https://medium.com/p/9f0f440958d9) |
+| Mon, 09 Mar 2026 19:13:25 GMT | THM,Windows Event Logs write-up :) | Aya Emad | [Read More](https://medium.com/p/767ecf1ed4ce) |
+| Mon, 09 Mar 2026 18:52:40 GMT | How to implement bitlocker on top of windows 11 pro | Mahim Avi | [Read More](https://medium.com/p/99336e8df6f4) |
 | Mon, 09 Mar 2026 18:51:00 GMT | Arjun: The Ultimate Parameter Discovery Tool For Bug Hunters | MainEkHacker | [Read More](https://medium.com/p/fd97a12b6c58) |
+| Mon, 09 Mar 2026 18:49:55 GMT | Walkthrough: Vulnerability Scanning w/ OpenVAS | Daryl Brooks | [Read More](https://medium.com/p/69a1b447138a) |
 | Mon, 09 Mar 2026 18:44:33 GMT | POSTURA: Graph-Based Security Analysis That Understands Context | Arunabh Majumdar | [Read More](https://medium.com/p/bcf340f3ba57) |
 | Mon, 09 Mar 2026 18:43:20 GMT | Attachment Day 02: Exploring Cybersecurity Frameworks and Enterprise Capability Models | Arittroskr | [Read More](https://medium.com/p/1e64ada071f5) |
 | Mon, 09 Mar 2026 18:42:38 GMT | Cisco Cybersecurity Module 2
@@ -35,6 +42,7 @@ Part 2: Methods of Infiltration Used in Cyber Attacks | Favour Ugochi Ogbonnaya 
 | Mon, 09 Mar 2026 17:43:35 GMT | The Stacking Principle in Machine Learning: Base Learners, Meta-Learners, and the Art of Learning… | Lumina | [Read More](https://medium.com/p/524a085f3255) |
 | Mon, 09 Mar 2026 17:40:17 GMT | Spammers Are Bad. Are Telephone Spammers Worse? | BillfordX | [Read More](https://medium.com/p/0f9289f1ab3f) |
 | Mon, 09 Mar 2026 17:38:31 GMT | The MCP Security Guide Nobody Wrote — Until Someone Got Hacked | Ayesha Mughal | [Read More](https://medium.com/p/53e3b23f6ac0) |
+| Mon, 09 Mar 2026 17:35:37 GMT | Secure Patterns para Agentes LLM: como o padrão Action-Selector protege sua aplicação de prompt… | Guilp03 | [Read More](https://medium.com/p/340c5f200d5c) |
 | Mon, 09 Mar 2026 17:35:10 GMT | Why the Most Technically Skilled Hackers Are Not the Ones Earning the Highest Bug Bounty Payouts | R.H Rizvi | [Read More](https://medium.com/p/2b5021ace7f3) |
 | Mon, 09 Mar 2026 17:34:58 GMT | The Proxy Tool Paradox: Why the Most Powerful Feature in Web Security Testing Is the One Most… | R.H Rizvi | [Read More](https://medium.com/p/98e35fbf7afc) |
 | Mon, 09 Mar 2026 17:30:24 GMT | The Strange Underground Economy Living in Your Terminal — Homebrew | Adarsha Karki | [Read More](https://medium.com/p/9d155171090d) |
@@ -105,11 +113,3 @@ Part 2: Methods of Infiltration Used in Cyber Attacks | Favour Ugochi Ogbonnaya 
 | Mon, 09 Mar 2026 14:11:02 GMT | How Cyber Warfare Is Rewriting the Rules of Modern Conflict | Aditya Sawant | [Read More](https://medium.com/p/14b2f5db38b2) |
 | Mon, 09 Mar 2026 14:10:12 GMT | HexStrike AI: The Future of Penetration Testing | Pentester Club | [Read More](https://medium.com/p/e9b8d068d2e4) |
 | Mon, 09 Mar 2026 14:09:53 GMT | Burp Suite for Beginners: The Hacker’s Gateway to Web Security | Bugitrix | [Read More](https://medium.com/p/4529bd8a84f9) |
-| Mon, 09 Mar 2026 14:09:09 GMT | How I got my first CVE - $$$ Bounty | Abhirup Konwar | [Read More](https://medium.com/p/381c078a6715) |
-| Mon, 09 Mar 2026 14:06:55 GMT | Why Goliath Struggles and David Does Not Lose : The Logic of the U.S.-Iran War | Young Joon Oh | [Read More](https://medium.com/p/2add8fee76b8) |
-| Mon, 09 Mar 2026 14:06:00 GMT | Locksmith Services in Torrington CT - Sure Lock & Key | Sure Lock & Key LLC | [Read More](https://medium.com/p/80379310c826) |
-| Mon, 09 Mar 2026 14:03:00 GMT | Control over an LLM isn’t about commands, it’s about probability and boundaries | freerangethoughts | [Read More](https://medium.com/p/52eb8a138b77) |
-| Mon, 09 Mar 2026 14:02:00 GMT | Monitoring Active Directory - TryHackMe - Splunk | Jose Praveen | [Read More](https://medium.com/p/5eca94d95250) |
-| Mon, 09 Mar 2026 14:01:01 GMT | The five most misunderstood parts of NIST CSF | Gaurav Shukla | [Read More](https://medium.com/p/3a60b62aa04a) |
-| Mon, 09 Mar 2026 14:01:01 GMT | Cyber Briefing: 2026.03.09 | CyberMaterial | [Read More](https://medium.com/p/2f49c7b27501) |
-| Mon, 09 Mar 2026 13:56:19 GMT | Android Application Pentesting — AndroGoat | Harmonax | [Read More](https://medium.com/p/b3fca0ddc66e) |
