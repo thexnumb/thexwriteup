@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Mar 2026 04:12:07 GMT | Continuous Compliance Monitoring: Why Is It So Important? | Fieldwatch.ai | [Read More](https://medium.com/p/7998ba57b4a8) |
+| Mon, 09 Mar 2026 04:11:20 GMT | Making Prompt Injection Harder Against AI Coding Agents | Chiradeep Chhaya | [Read More](https://medium.com/p/f4719c083a5c) |
+| Mon, 09 Mar 2026 04:10:14 GMT | Building an AI System to Evaluate SOC Analyst Investigations | Caner Akbulut | [Read More](https://medium.com/p/a919b6dcdf3e) |
+| Mon, 09 Mar 2026 04:01:00 GMT | Weekly Crypto & Web3 Safety Digest — CW10 2026 (5-Minute Edition) | 5-minute digital safety power-ups | [Read More](https://medium.com/p/b353f13d4d85) |
+| Mon, 09 Mar 2026 03:54:48 GMT | Active Directory Lab Write-Up: From Network Mapping to Password Spraying | Yogatama | [Read More](https://medium.com/p/1f7889f93a30) |
+| Mon, 09 Mar 2026 03:50:45 GMT | Centene’s Cyber Failures Ripple Across Agencies | Sovfacts | [Read More](https://medium.com/p/6f484b977925) |
+| Mon, 09 Mar 2026 03:45:36 GMT | HackMyVM: Uvalde Walkthrough | Antonio | [Read More](https://medium.com/p/77d303319f72) |
+| Mon, 09 Mar 2026 03:35:53 GMT | Tempest TryHackMe — Writeup | Mohamed-Mahmoud | [Read More](https://medium.com/p/087d9691f46a) |
+| Mon, 09 Mar 2026 03:34:28 GMT | What Learning Cybersecurity Actually Feels Like | Ritwish Basu | [Read More](https://medium.com/p/26f965e20050) |
+| Mon, 09 Mar 2026 03:29:22 GMT | Cybersecurity Tools I Actually Use (And Why They Matter) | Ritwish Basu | [Read More](https://medium.com/p/7024ce6ca62c) |
+| Mon, 09 Mar 2026 03:28:36 GMT | HTB Querier — Walkthrough | Hemantha Krishna Challa | [Read More](https://medium.com/p/acf8c617cb68) |
+| Mon, 09 Mar 2026 03:06:25 GMT | HTB CCTV: From SQL Injection to RCE | Seifeldeen | [Read More](https://medium.com/p/64fd332a108a) |
+| Mon, 09 Mar 2026 02:57:57 GMT | Linux Kernel v7.0-rc1 — v7.0-rc3 Vulnerabilities | Antonius Wisdom | [Read More](https://medium.com/p/7086866827df) |
+| Mon, 09 Mar 2026 02:55:09 GMT | Before the Hack: Understanding Information Gathering in Penetration Testing | Architshrestha | [Read More](https://medium.com/p/7d286a8498bb) |
+| Mon, 09 Mar 2026 02:54:20 GMT | Penetration Testing Methodologies: Reconnaissance | Vinetalk | [Read More](https://medium.com/p/ccab7887b0c5) |
+| Mon, 09 Mar 2026 02:38:14 GMT | Bastion — HTB Writeup | Hemantha Krishna Challa | [Read More](https://medium.com/p/f11e3b0cf8c5) |
+| Mon, 09 Mar 2026 02:36:33 GMT | Secure Encryption in PHP: Stop Storing Data the Wrong Way | Neha Singh | [Read More](https://medium.com/p/c1f70cccd886) |
+| Mon, 09 Mar 2026 02:33:45 GMT | The $1B Biometric Surveillance Industry Hiding Behind 'Child Safety' | Park Sehun | [Read More](https://medium.com/p/6f3327c544b4) |
+| Mon, 09 Mar 2026 02:26:29 GMT | Show the Right Buttons to the Right People: Role-Based UI in Angular | Fuji Nguyen | [Read More](https://medium.com/p/a111feeea94c) |
 | Mon, 09 Mar 2026 02:15:48 GMT | Building HeuriGuard: Detecting Malicious URLs and SMS Spam Using Machine Learning | MD JAVEED KHAN | [Read More](https://medium.com/p/94b0bb9d384f) |
 | Mon, 09 Mar 2026 02:12:45 GMT | 7 Silent Ways Hackers Steal Your Data (Most People Never Notice) | Armansyah hakim | [Read More](https://medium.com/p/9074f8dfe665) |
 | Mon, 09 Mar 2026 02:12:26 GMT | Separating the Real from the Fake: StarScope Builds a Strong Defense Against Deepfake Risks | Yuanli Technology | [Read More](https://medium.com/p/d659c1402363) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Mar 2026 18:24:46 GMT | Ransomware-as-a-Service in 2026: The Business Model Behind Cybercrime | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/2dcbf89f7ac0) |
 | Sun, 08 Mar 2026 18:20:26 GMT | AWS Beginner Guide: From Zero to Hosting Your First Website on EC2 | Karan Singh | [Read More](https://medium.com/p/743fb5381a89) |
 | Sun, 08 Mar 2026 18:15:16 GMT | Temassız Tehdit: Havada Kalan Güvenlik | Ali Okan Yüksel | [Read More](https://medium.com/p/420034c08efc) |
-| Sun, 08 Mar 2026 18:06:54 GMT | From Paste Site to Payout: How a Single Dump Led to a Critical Bug | Iski | [Read More](https://medium.com/p/56bf0677d1cf) |
-| Sun, 08 Mar 2026 18:06:00 GMT | CVE-2022–26134: OGNL Injection Vulnerability Report | MainEkHacker | [Read More](https://medium.com/p/e2701690c8d2) |
-| Sun, 08 Mar 2026 18:04:05 GMT | Quiz: To SIM or Not To SIM | Jacqueline Schaalje | [Read More](https://medium.com/p/dcb0f798cc20) |
-| Sun, 08 Mar 2026 18:01:15 GMT | The AI-Powered Threat Surge: Why Offensive Skills are No Longer Optional | LostHeaven | [Read More](https://medium.com/p/81576c97d54a) |
-| Sun, 08 Mar 2026 18:01:00 GMT | Cyber Scams: Don’t Be a Victim | Dr Kimma Wreh | [Read More](https://medium.com/p/159e704cb424) |
-| Sun, 08 Mar 2026 17:46:09 GMT | Learning Fortinet Firewall — LESSON 5: DNAT & Port Forwarding LAB | Rouell Mamaril | [Read More](https://medium.com/p/090bf8d154e9) |
-| Sun, 08 Mar 2026 17:44:03 GMT | When Ads Become Surveillance: How Advertising Data Turned Smartphones into Government Tracking… | eL Njas!™ | [Read More](https://medium.com/p/43e7a9f43b78) |
-| Sun, 08 Mar 2026 17:43:46 GMT | Detecting Phishing Emails Through Data: A Data Science Exploration | Areebaofficial | [Read More](https://medium.com/p/63238edc6f09) |
-| Sun, 08 Mar 2026 17:42:27 GMT | Rails Security Audit in 2026 — Lessons from Breach Simulation | Raza Hussain | [Read More](https://medium.com/p/6571e20f1130) |
-| Sun, 08 Mar 2026 17:40:21 GMT | Menjaga Benteng Digital Memahami CIA Triad dalam Information Security | Dewa Ngakan Nyoman Martina Putra | [Read More](https://medium.com/p/f8585cd45cc7) |
-| Sun, 08 Mar 2026 17:34:11 GMT | upCTF writeup : Microsoft Axel — Web | SadInfinite | [Read More](https://medium.com/p/408def5621bd) |
-| Sun, 08 Mar 2026 17:32:24 GMT | CyberDefender — PsExec Hunt Lab | Dimas Adrian | [Read More](https://medium.com/p/d8e5ec24a00b) |
-| Sun, 08 Mar 2026 17:30:23 GMT | When Renewable Energy Gets Hacked: Teaching AI to Catch the Problem | Siruni Pulijala | [Read More](https://medium.com/p/c9e3a2a761eb) |
-| Sun, 08 Mar 2026 17:28:55 GMT | I Was Wrong About Ethics of AI Content | ADITI | [Read More](https://medium.com/p/edcc2351ccb8) |
-| Sun, 08 Mar 2026 17:28:21 GMT | Blinded, Bypassed, Broken: The Systematic Dismantling of Iran’s IADS | Mehdi Kazmie | [Read More](https://medium.com/p/1366597d0e95) |
-| Sun, 08 Mar 2026 17:28:04 GMT | Renouvellement de contrat de services : ce que votre prestataire espère que vous ne ferez jamais | Abrennis | [Read More](https://medium.com/p/0c7e9f16063c) |
-| Sun, 08 Mar 2026 17:21:15 GMT | Shifting from Minimizing Security Risk to Minimizing the Risk of Technology | Hi, I'm Mikey. | [Read More](https://medium.com/p/7a5ccaca740f) |
-| Sun, 08 Mar 2026 17:21:00 GMT | I Spent a Weekend Digging Into How Safari and Edge Actually Encrypt Your Passwords. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/3464a88d9d5e) |
-| Sun, 08 Mar 2026 17:11:36 GMT | Menjaga Benteng Digital: Memahami CIA Triad dalam Information Security | Ngakanman | [Read More](https://medium.com/p/44577b4d1ae9) |
