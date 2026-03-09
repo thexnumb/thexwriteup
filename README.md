@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Mar 2026 23:13:56 GMT | TryHackMe Write-Up: AD Basic Enumeration | Senoputraaa | [Read More](https://medium.com/p/79b167cd1160) |
+| Mon, 09 Mar 2026 22:51:46 GMT | Managed Cyber Security Services: What Queensland Businesses Need to Know | YesIT Services | [Read More](https://medium.com/p/dc1e6d430181) |
+| Mon, 09 Mar 2026 22:44:25 GMT | Hackers Are Using AI to Plan Cyber Attacks | Rashad Edwards | [Read More](https://medium.com/p/c9c8b5cf89e3) |
+| Mon, 09 Mar 2026 22:30:59 GMT | The Fractional CISO Gold Rush | Michael Reichstein | [Read More](https://medium.com/p/2afd0c43cc2f) |
+| Mon, 09 Mar 2026 22:30:34 GMT | Understanding UAC on Windows — Why It Matters, How It’s Bypassed, and Why It’s Still Relevant | Yua Mikanana | [Read More](https://medium.com/p/e3c4467df364) |
+| Mon, 09 Mar 2026 22:28:10 GMT | Sold to the Highest Bidder: How a Trusted Chrome Extension Became a Malware Delivery Chain | Jbird | [Read More](https://medium.com/p/f31952627451) |
+| Mon, 09 Mar 2026 22:24:53 GMT | Inside the “InCoin” Trap:
+How a Fake Deposit App Turns College Students Into Criminals | Cyb3r.Y4sh | [Read More](https://medium.com/p/8db67f7b9f30) |
+| Mon, 09 Mar 2026 22:22:57 GMT | Cheesy Does It (Business Logic Vuln) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/0008c34d12f5) |
 | Mon, 09 Mar 2026 22:03:26 GMT | Trust Boundaries in Agentic AI | Facundo Fernandez | [Read More](https://medium.com/p/3b6ffddffdba) |
 | Mon, 09 Mar 2026 22:02:18 GMT | ApoorvCTF 4.0 — OSINT Writeup | Alwin Thomas | [Read More](https://medium.com/p/4e8aad6258fe) |
 | Mon, 09 Mar 2026 21:59:30 GMT | Try Hack Me- Simple CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/c8cc034d7599) |
@@ -105,11 +114,3 @@ Part 2: Methods of Infiltration Used in Cyber Attacks | Favour Ugochi Ogbonnaya 
 | Mon, 09 Mar 2026 16:33:37 GMT | How Kerberoasting Actually Works in Real Enterprise Environments | CybeCloud | [Read More](https://medium.com/p/234103dee3a4) |
 | Mon, 09 Mar 2026 16:31:51 GMT | Docker Hardened System Packages: seguridad de la cadena de suministro más allá de la imagen | Gloria Palma González | [Read More](https://medium.com/p/fd582328074f) |
 | Mon, 09 Mar 2026 16:31:00 GMT | Four Tools, Three Machines, One Question | Andrew Kutuzov | [Read More](https://medium.com/p/833c5e9bd688) |
-| Mon, 09 Mar 2026 16:28:31 GMT | Zero-Trust at the Edge: Rethinking the eDMZ Perimeter (Part 1) | Cheuk Ming Au | [Read More](https://medium.com/p/91937823c8fb) |
-| Mon, 09 Mar 2026 16:27:56 GMT | Kubernetes y Wireguard: CNI vs VM | Sergio Rua | [Read More](https://medium.com/p/7fbe3dba961e) |
-| Mon, 09 Mar 2026 16:27:45 GMT | Strategic Escalation Risks in the Emerging Middle East Security Landscape | Tim Suleyman | [Read More](https://medium.com/p/aace768ebbd9) |
-| Mon, 09 Mar 2026 16:26:05 GMT | Investigating a PowerShell Based EDR Bypass Attack -LetsDefend SOC Case Study | Ben Rubin (Zedocun) | [Read More](https://medium.com/p/743ba8074a8b) |
-| Mon, 09 Mar 2026 16:25:25 GMT | Think Like a Hacker, Build Like an Engineer: Why Red Teaming is the Secret to Better Software | Skyauctus | [Read More](https://medium.com/p/2f270d025662) |
-| Mon, 09 Mar 2026 16:24:31 GMT | Ce este un atac phishing și cum îl recunoști | Mocanu Dorinel | [Read More](https://medium.com/p/a4a1a21502a0) |
-| Mon, 09 Mar 2026 16:19:20 GMT | Literature Review On Food Security | Jonathan from Ohio Christian University | [Read More](https://medium.com/p/0601c1d584df) |
-| Mon, 09 Mar 2026 16:16:51 GMT | Product Managers Are Secret Storytellers | Lakshmi Prabha | [Read More](https://medium.com/p/817addcaacd1) |
