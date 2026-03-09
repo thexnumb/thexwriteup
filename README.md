@@ -12,9 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Mar 2026 10:57:04 GMT | The 2015 Screenshot Somebody Kept | O. J. Okpabi | [Read More](https://medium.com/p/5b94a7071869) |
+| Mon, 09 Mar 2026 10:54:46 GMT | 5 Quick Wins to Ace Your Next Penetration Test | Redfox Security | [Read More](https://medium.com/p/98758c641f5f) |
+| Mon, 09 Mar 2026 10:53:41 GMT | The Evolution of Industrial Communication Protocols | Systems & Networks | [Read More](https://medium.com/p/1bc5f0422e52) |
+| Mon, 09 Mar 2026 10:49:09 GMT | What is Device Security Posture Monitoring? | Lesya Popovich | [Read More](https://medium.com/p/7517fa8d45b6) |
+| Mon, 09 Mar 2026 10:46:00 GMT | Are Interim CISO Services Right for Your Compliance Gap? | Tyson Martin | [Read More](https://medium.com/p/91a3152f0adc) |
+| Mon, 09 Mar 2026 10:45:20 GMT | Stop Giving Your Industrial Secrets to AI: The Shield of Open Source and GDPR | Taic.ai | [Read More](https://medium.com/p/895352e36aa7) |
+| Mon, 09 Mar 2026 10:44:27 GMT | Singapore PDPA (Personal Data Protection Act) Compliance: Ultimate Guide | QualysecEurope | [Read More](https://medium.com/p/eac18693e9d3) |
+| Mon, 09 Mar 2026 10:40:40 GMT | AI-Driven DevSecOps: Güvenlik ve Otomasyonun Yeni Kesişim Noktası | Muhammed Asef | [Read More](https://medium.com/p/43979d499e98) |
+| Mon, 09 Mar 2026 10:35:27 GMT | In-Depth Security Analysis with the OWASP Top 10 | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/a6293cd207d5) |
+| Mon, 09 Mar 2026 10:35:23 GMT | What is Burp Suite and How Do You Use It? | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/5b6de8a04575) |
+| Mon, 09 Mar 2026 10:24:31 GMT | POLYMORPHIC TIME-BASED | Justen V. | [Read More](https://medium.com/p/42ea3667c3d9) |
+| Mon, 09 Mar 2026 10:21:15 GMT | The Key Code Incident: Why AI Security Isn’t a Feature — It’s an Architecture | Una by Polydom | [Read More](https://medium.com/p/55058e655b27) |
+| Mon, 09 Mar 2026 10:19:36 GMT | Menghadapi Deepfakes dan Serangan AI: Mengapa Kita Perlu Belajar Information Security Sekarang. | Taraayu | [Read More](https://medium.com/p/dc524a63dd35) |
+| Mon, 09 Mar 2026 10:18:16 GMT | How Managed Security Services Improve Security Event Correlation Across Tools | Gavin Ellis | [Read More](https://medium.com/p/bb4e2ea97b4c) |
+| Mon, 09 Mar 2026 10:11:45 GMT | Never Give Out Your WiFi Password Again — QR Codes Made Simple! | New Trend Computer Networks | [Read More](https://medium.com/p/5237e2bc4f92) |
 | Mon, 09 Mar 2026 10:07:18 GMT | Security Is a UX Problem | Himanshu Singh | [Read More](https://medium.com/p/7ef6113b09e8) |
 | Mon, 09 Mar 2026 10:06:07 GMT | WinRM — Port 5985, 5986 — How to exploit? | Very Lazy Tech | [Read More](https://medium.com/p/e6ecc660dc3b) |
 | Mon, 09 Mar 2026 10:01:54 GMT | Securing RAG Pipelines on AWS: Preventing Prompt Injection & Data Leakage | Davebhargavi | [Read More](https://medium.com/p/542ffb2637b7) |
+| Mon, 09 Mar 2026 09:59:23 GMT | The Internet Is Always Being Scanned: Is Your Business Ready? | Behawk Infosec | [Read More](https://medium.com/p/388579daf131) |
 | Mon, 09 Mar 2026 09:58:42 GMT | The CTEM Divide: Why 84% of Security Programs Are Falling Behind | Oran F | [Read More](https://medium.com/p/9b0813ec6d6f) |
 | Mon, 09 Mar 2026 09:56:41 GMT | How To Prove It Really Happened: A Deep Dive Into Niyapic | Aisha Mahdiya | [Read More](https://medium.com/p/110b57a08b54) |
 | Mon, 09 Mar 2026 09:44:26 GMT | The Glass Guillotine | Corin Hathaway | [Read More](https://medium.com/p/0fcab5722802) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Mar 2026 05:06:53 GMT | DC-2 Walkthrough: WordPress Enumeration to Root via Git Sudo Privilege Escalation | Prince Amah | [Read More](https://medium.com/p/652ce5c1a08f) |
 | Mon, 09 Mar 2026 05:02:58 GMT | How to Set up Your Own VPN Tunnels With Tailscale | Dean J Murphy | [Read More](https://medium.com/p/80b2bf87f3e3) |
 | Mon, 09 Mar 2026 04:59:40 GMT | How mTLS Works: Practical Guide to PKCS12, keytool, OpenSSL & Truststores | Chandan Pal | [Read More](https://medium.com/p/a2ffe784d0ae) |
-| Mon, 09 Mar 2026 04:57:49 GMT | Extending BurpSuite with MCP: Leveraging GitHub Copilot for Offensive Security Automation | Rio Darmawan | [Read More](https://medium.com/p/d4d68f4a924f) |
-| Mon, 09 Mar 2026 04:56:10 GMT | Top Security Breaches in India Despite CCTV Surveillance — Lessons for Modern Security Systems | Vikram Kumar | [Read More](https://medium.com/p/8ce4b4b58f9d) |
-| Mon, 09 Mar 2026 04:52:14 GMT | How a Single Missing AuthZ Check Becomes a Breach: OWASP BOLA in Microservices | Munish Garg | [Read More](https://medium.com/p/0da2583fc5cc) |
-| Mon, 09 Mar 2026 04:47:40 GMT | Why Are Security Guard Services Essential in Rohtak? | Lakshay Security | [Read More](https://medium.com/p/6492d2d20e56) |
-| Mon, 09 Mar 2026 04:43:46 GMT | PART 9 – Disaster Recovery: Ensuring Business Continuity in the Face of Major Disruptions | Abraham Karikari | [Read More](https://medium.com/p/7de8706bfff6) |
-| Mon, 09 Mar 2026 04:43:06 GMT | The Rise of Agentic Red Teaming: Securing Autonomous AI Systems in the Era of Intelligent Agents | Nikshitakasture | [Read More](https://medium.com/p/5fb03e9cadce) |
-| Mon, 09 Mar 2026 04:41:49 GMT | Networking basics for beginners: IP addressing, CIDR, Subnets and ports | unica 02 | [Read More](https://medium.com/p/96de08aefb42) |
-| Mon, 09 Mar 2026 04:37:16 GMT | OWASP’s Top 10 for LLMs, Explained for Builders | Faisal Feroz | [Read More](https://medium.com/p/4ddbe0d9f1fe) |
-| Mon, 09 Mar 2026 04:27:32 GMT | U.S. Age-Verification Laws Reshape Online Access for Adults | Fabio Tongson | [Read More](https://medium.com/p/8ae5596ca0b0) |
-| Mon, 09 Mar 2026 04:12:07 GMT | Continuous Compliance Monitoring: Why Is It So Important? | Fieldwatch.ai | [Read More](https://medium.com/p/7998ba57b4a8) |
-| Mon, 09 Mar 2026 04:11:20 GMT | Making Prompt Injection Harder Against AI Coding Agents | Chiradeep Chhaya | [Read More](https://medium.com/p/f4719c083a5c) |
-| Mon, 09 Mar 2026 04:10:14 GMT | Building an AI System to Evaluate SOC Analyst Investigations | Caner Akbulut | [Read More](https://medium.com/p/a919b6dcdf3e) |
-| Mon, 09 Mar 2026 04:01:00 GMT | Weekly Crypto & Web3 Safety Digest — CW10 2026 (5-Minute Edition) | 5-minute digital safety power-ups | [Read More](https://medium.com/p/b353f13d4d85) |
-| Mon, 09 Mar 2026 03:54:48 GMT | Active Directory Lab Write-Up: From Network Mapping to Password Spraying | Yogatama | [Read More](https://medium.com/p/1f7889f93a30) |
-| Mon, 09 Mar 2026 03:50:45 GMT | Centene’s Cyber Failures Ripple Across Agencies | Sovfacts | [Read More](https://medium.com/p/6f484b977925) |
-| Mon, 09 Mar 2026 03:45:36 GMT | HackMyVM: Uvalde Walkthrough | Antonio | [Read More](https://medium.com/p/77d303319f72) |
