@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Mar 2026 17:43:35 GMT | The Stacking Principle in Machine Learning: Base Learners, Meta-Learners, and the Art of Learning… | Lumina | [Read More](https://medium.com/p/524a085f3255) |
+| Mon, 09 Mar 2026 17:38:31 GMT | The MCP Security Guide Nobody Wrote — Until Someone Got Hacked | Ayesha Mughal | [Read More](https://medium.com/p/53e3b23f6ac0) |
+| Mon, 09 Mar 2026 17:35:10 GMT | Why the Most Technically Skilled Hackers Are Not the Ones Earning the Highest Bug Bounty Payouts | R.H Rizvi | [Read More](https://medium.com/p/2b5021ace7f3) |
+| Mon, 09 Mar 2026 17:34:58 GMT | The Proxy Tool Paradox: Why the Most Powerful Feature in Web Security Testing Is the One Most… | R.H Rizvi | [Read More](https://medium.com/p/98e35fbf7afc) |
+| Mon, 09 Mar 2026 17:30:24 GMT | The Strange Underground Economy Living in Your Terminal — Homebrew | Adarsha Karki | [Read More](https://medium.com/p/9d155171090d) |
+| Mon, 09 Mar 2026 17:28:55 GMT | Smart Contract & Web 3.0 Hacking | Axoloth | [Read More](https://medium.com/p/b4e3b024defb) |
+| Mon, 09 Mar 2026 17:25:20 GMT | From Detection to Action: Redefining Cyber Hygiene for UK Businesses | Farrukhshaheen | [Read More](https://medium.com/p/24ceb9cbea23) |
+| Mon, 09 Mar 2026 17:23:31 GMT | Machine-Speed Threat Hunting: NDR’s Role in the AI Security Era | NetWitness | [Read More](https://medium.com/p/980937d8e3c7) |
+| Mon, 09 Mar 2026 17:20:54 GMT | How I Built a MITRE ATT&CK Threat Mapping Dashboard in Python | Sanketh Subhas | [Read More](https://medium.com/p/e2fc356e43b4) |
+| Mon, 09 Mar 2026 17:20:47 GMT | The Foundation of Data Security in Mobile Applications: CIA Triad | Yarem Malta | [Read More](https://medium.com/p/73aa41da3dfd) |
+| Mon, 09 Mar 2026 17:20:18 GMT | Devvortex (HTB): A Practical Walkthrough from Enumeration to Privilege Escalation | Waris Damkham | [Read More](https://medium.com/p/807cce6e34b7) |
+| Mon, 09 Mar 2026 17:11:45 GMT | Resolving Wazuh FIM “Maximum File Limit Reached” — Why /tmp Is Killing Your Agent | Neetrox | [Read More](https://medium.com/p/6033b6d4a08f) |
+| Mon, 09 Mar 2026 17:07:02 GMT | Your AI Meeting Assistant Might Be the Biggest Security Risk in Your Office | Len Noe | [Read More](https://medium.com/p/4cf7c2f63edf) |
+| Mon, 09 Mar 2026 17:05:18 GMT | I Changed One Cookie Value… and Became Admin | TEJAS | [Read More](https://medium.com/p/f60fbdbcca96) |
+| Mon, 09 Mar 2026 17:01:01 GMT | Why Never Feeling Safe Can Shape Lifelong Anxiety | K_UK | [Read More](https://medium.com/p/5896c4976937) |
+| Mon, 09 Mar 2026 16:58:29 GMT | Implementing The OWASP Top 10 2025 in a Django Module: Part 1 | Yasmine Putri Viryadhani | [Read More](https://medium.com/p/29b431acad13) |
 | Mon, 09 Mar 2026 16:41:00 GMT | Hack Smarter: Polution — Privilege Escalation via Prototype Pollution to XSS | charlier0cks | [Read More](https://medium.com/p/7187eb534df4) |
 | Mon, 09 Mar 2026 16:40:55 GMT | 7 Spring Boot Security Misconfigurations Hackers Love (And How to Fix Them) | Karuna | [Read More](https://medium.com/p/70378ce98c0a) |
 | Mon, 09 Mar 2026 16:40:41 GMT | Latin America Under Siege: The Rising Tide of Cybercrime and the Hard Lessons from Colombia. | Alexis Medina | [Read More](https://medium.com/p/6d2cc19b86b7) |
@@ -20,6 +36,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Mar 2026 16:36:26 GMT | Cisco SD-WAN Under Fire: When “Actively Exploited” Means Patch, Not Panic | Ilias Armenakis | [Read More](https://medium.com/p/59345314fa72) |
 | Mon, 09 Mar 2026 16:34:11 GMT | Aplikasi Mobile: Membuat My Card App Menggunakan Flutter Widgets | Yasa Wijaya | [Read More](https://medium.com/p/2bf0774487c9) |
 | Mon, 09 Mar 2026 16:33:37 GMT | How Kerberoasting Actually Works in Real Enterprise Environments | CybeCloud | [Read More](https://medium.com/p/234103dee3a4) |
+| Mon, 09 Mar 2026 16:31:51 GMT | Docker Hardened System Packages: seguridad de la cadena de suministro más allá de la imagen | Gloria Palma González | [Read More](https://medium.com/p/fd582328074f) |
 | Mon, 09 Mar 2026 16:31:00 GMT | Four Tools, Three Machines, One Question | Andrew Kutuzov | [Read More](https://medium.com/p/833c5e9bd688) |
 | Mon, 09 Mar 2026 16:28:31 GMT | Zero-Trust at the Edge: Rethinking the eDMZ Perimeter (Part 1) | Cheuk Ming Au | [Read More](https://medium.com/p/91937823c8fb) |
 | Mon, 09 Mar 2026 16:27:56 GMT | Kubernetes y Wireguard: CNI vs VM | Sergio Rua | [Read More](https://medium.com/p/7fbe3dba961e) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Mar 2026 12:50:01 GMT | PNPT External Penetration Cheat Sheet | jaejun835 | [Read More](https://medium.com/p/ce5480a266ee) |
 | Mon, 09 Mar 2026 12:49:46 GMT | Endpoint Protection: Why Your Laptop Isn’t Just “Your Laptop” Anymore | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/ce215577bf36) |
 | Mon, 09 Mar 2026 12:38:34 GMT | Customer Data Privacy and Protection: What Indian Websites Must Do in 2026 | Innovatrix Infotech | [Read More](https://medium.com/p/91e473506d98) |
-| Mon, 09 Mar 2026 12:34:36 GMT | How I Built an All-In-One Bug Bounty Recon Engine for Kali Linux (Stealth & Aggressive Modes) | ghostyjoe | [Read More](https://medium.com/p/8c2f1aa491c1) |
-| Mon, 09 Mar 2026 12:25:46 GMT | Kali Linux’ta Wi-Fi Kartını Monitor Mode ve Managed Mode Arasında Nasıl Değiştiririz? | Furkan Ünlü | [Read More](https://medium.com/p/92b3c43663a6) |
-| Mon, 09 Mar 2026 12:25:09 GMT | Information Security Companies: Protecting the Digital World | Sky Properties | [Read More](https://medium.com/p/6b00756fe2ef) |
-| Mon, 09 Mar 2026 12:13:40 GMT | Stop Paying the ‘Late Fix’ Tax: Why SSE Changes Security Economics | Peter Hillier/Halton | [Read More](https://medium.com/p/b4f5aa427357) |
-| Mon, 09 Mar 2026 12:10:51 GMT | HTTP Parameter Pollution (HPP) -Pentest Field Guide | Lost_hacker | [Read More](https://medium.com/p/9670584bcab5) |
-| Mon, 09 Mar 2026 12:09:41 GMT | Consultoría Informática Para Empresas: Guía Completa | Pablohmmadrid | [Read More](https://medium.com/p/6886bdf6f4bf) |
-| Mon, 09 Mar 2026 12:06:41 GMT | Best Security Guard Management Software in Australia (2026 Guide) | SecurityTime | [Read More](https://medium.com/p/9c60f3f6182c) |
-| Mon, 09 Mar 2026 11:57:15 GMT | Bug Bounty vs Penetration Testing: Which Is Better for Beginners? | 0xSmit | [Read More](https://medium.com/p/310c4b7c6596) |
-| Mon, 09 Mar 2026 11:55:49 GMT | This Wasn’t in the Patch Notes: The Ubisoft Hack | Arunopal | [Read More](https://medium.com/p/e4365a116a2d) |
-| Mon, 09 Mar 2026 11:52:40 GMT | Fortinet FortiCloud SSO Zero-Day | Taiyab Lokhandwala | [Read More](https://medium.com/p/dc7369854dfc) |
-| Mon, 09 Mar 2026 11:51:15 GMT | How Some Threat Actors Stay Undetected in Networks for Years | Paritosh | [Read More](https://medium.com/p/6a40f28d2d2c) |
-| Mon, 09 Mar 2026 11:45:49 GMT | Convenience Is the Enemy: How Modern UX Quietly Breaks Security | KbhattSec | [Read More](https://medium.com/p/6fb31336194c) |
-| Mon, 09 Mar 2026 11:43:38 GMT | Securing Your REST API: A Comprehensive Guide to Modern Defense Strategies | Ramteke Rakesh | [Read More](https://medium.com/p/610e5363f6e6) |
-| Mon, 09 Mar 2026 11:43:24 GMT | The Rise of AI Generated Malware: Transparent Tribe’s Vibeware Strategy Signals a New Cyber Threat… | Jas | [Read More](https://medium.com/p/10ea292b8b85) |
-| Mon, 09 Mar 2026 11:41:57 GMT | Top 10 Mobile Application Security Testing Tools | cyber security Updates | [Read More](https://medium.com/p/5c8a461e42c8) |
-| Mon, 09 Mar 2026 11:37:40 GMT | HTB: Editor | bluesnow | [Read More](https://medium.com/p/406f8fc6dee2) |
-| Mon, 09 Mar 2026 11:34:59 GMT | I Built a Full SIEM Lab on Azure — Here’s Everything That Broke (and What I Learned)- Part 2 | Florence Nwizugbe | [Read More](https://medium.com/p/dca60c5e1e9d) |
