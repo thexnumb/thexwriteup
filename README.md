@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Mar 2026 11:51:15 GMT | How Some Threat Actors Stay Undetected in Networks for Years | Paritosh | [Read More](https://medium.com/p/6a40f28d2d2c) |
+| Mon, 09 Mar 2026 11:45:49 GMT | Convenience Is the Enemy: How Modern UX Quietly Breaks Security | KbhattSec | [Read More](https://medium.com/p/6fb31336194c) |
+| Mon, 09 Mar 2026 11:43:38 GMT | Securing Your REST API: A Comprehensive Guide to Modern Defense Strategies | Ramteke Rakesh | [Read More](https://medium.com/p/610e5363f6e6) |
+| Mon, 09 Mar 2026 11:43:24 GMT | The Rise of AI Generated Malware: Transparent Tribe’s Vibeware Strategy Signals a New Cyber Threat… | Jas | [Read More](https://medium.com/p/10ea292b8b85) |
+| Mon, 09 Mar 2026 11:41:57 GMT | Top 10 Mobile Application Security Testing Tools | cyber security Updates | [Read More](https://medium.com/p/5c8a461e42c8) |
+| Mon, 09 Mar 2026 11:34:59 GMT | I Built a Full SIEM Lab on Azure — Here’s Everything That Broke (and What I Learned)- Part 2 | Florence Nwizugbe | [Read More](https://medium.com/p/dca60c5e1e9d) |
+| Mon, 09 Mar 2026 11:33:59 GMT | The State of Authentication in Rails in 2026 - A comparison between Laravel, Django and Next.js | Brandyn Britton | [Read More](https://medium.com/p/a3c52c085961) |
+| Mon, 09 Mar 2026 11:19:47 GMT | How to Investigate a Phishing Email: A Practical Guide for Security Analysts | xoxo | [Read More](https://medium.com/p/d94b41dfe16e) |
+| Mon, 09 Mar 2026 11:19:29 GMT | Why Reliable Security Services Are Essential for Modern UK Businesses | Rapport Security | [Read More](https://medium.com/p/86b9a3d47dec) |
+| Mon, 09 Mar 2026 11:17:53 GMT | IDOR Mastery: From Basic ID Changes to Advanced Techniques That Pay $10K+ Bounties | BugHunter’s Journal | [Read More](https://medium.com/p/1f106016e039) |
+| Mon, 09 Mar 2026 11:13:24 GMT | Truth in the Age of Deepfakes: Legal Frontiers Against Digital Deception and Image Abuse | Olisa Agbakoba Legal (OAL) | [Read More](https://medium.com/p/e88579bd14b2) |
+| Mon, 09 Mar 2026 11:13:11 GMT | Hackers are stealing data every day… but companies are hiring Ethical Hackers to stop them! | 4Achievers | [Read More](https://medium.com/p/f98dd5c0b4de) |
+| Mon, 09 Mar 2026 11:10:16 GMT | TCS HackQuest Season 10 CTF Writeup — Round 1, Round 2 and Interview Experience | Kamalesh | [Read More](https://medium.com/p/5dfdb31ba865) |
+| Mon, 09 Mar 2026 11:05:33 GMT | I Told the Internet Not to Install OpenClaw. The Internet Did Not Listen. | Safoura jolfaei | [Read More](https://medium.com/p/5e3016a74b1b) |
+| Mon, 09 Mar 2026 11:04:10 GMT | Backup vs Disaster Recovery: Why the Difference Matters | Modern Vision | [Read More](https://medium.com/p/075dfc2dd380) |
+| Mon, 09 Mar 2026 11:01:01 GMT | Understanding CWE-316: Cleartext Storage of Sensitive Information in Memory | Walter Moar | [Read More](https://medium.com/p/7b3f88eb8fdf) |
 | Mon, 09 Mar 2026 10:57:04 GMT | The 2015 Screenshot Somebody Kept | O. J. Okpabi | [Read More](https://medium.com/p/5b94a7071869) |
 | Mon, 09 Mar 2026 10:54:46 GMT | 5 Quick Wins to Ace Your Next Penetration Test | Redfox Security | [Read More](https://medium.com/p/98758c641f5f) |
 | Mon, 09 Mar 2026 10:53:41 GMT | The Evolution of Industrial Communication Protocols | Systems & Networks | [Read More](https://medium.com/p/1bc5f0422e52) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 09 Mar 2026 06:11:08 GMT | Your RAG’s Secret Backdoor: Leaking Data Through Vector Databases | Krishna Kumar | [Read More](https://medium.com/p/c33755a5abbe) |
 | Mon, 09 Mar 2026 06:07:09 GMT | Protecting Your Business from Modern Email Threats. | ZM Technologies | [Read More](https://medium.com/p/6995f3ce3e9f) |
 | Mon, 09 Mar 2026 06:01:04 GMT | The Irreversible Archive: Why Digital Dissent Survives Regime Change | Nelson Torres | [Read More](https://medium.com/p/f75883e0dcae) |
-| Mon, 09 Mar 2026 06:01:00 GMT | Trump Cuts Anthropic as OpenAI Enters Pentagon Networks | Geopolitics / Economy / Technology | [Read More](https://medium.com/p/68de841d1ddc) |
-| Mon, 09 Mar 2026 05:58:15 GMT | Computify with Me… | LeslieAine | [Read More](https://medium.com/p/295ff4134c38) |
-| Mon, 09 Mar 2026 05:55:25 GMT | The Rise of Phishing Attacks and How to Protect Your Organization | Securitiescyber | [Read More](https://medium.com/p/fa0bf3cad5c7) |
-| Mon, 09 Mar 2026 05:50:02 GMT | Fortifying the Financial Endpoint with Hardware Security | KSI Keyboards | [Read More](https://medium.com/p/f2a0eb46d361) |
-| Mon, 09 Mar 2026 05:49:04 GMT | The Future of Cloud Data Centers: Powering the Digital World | Dipak Kumar | [Read More](https://medium.com/p/270c459d6939) |
-| Mon, 09 Mar 2026 05:47:09 GMT | Gaps in Gas, Grid, and Governance: Why Europeans Are Not Renewing Their Energy | Pieter van Ysseldijk | [Read More](https://medium.com/p/6da4e5311dbf) |
-| Mon, 09 Mar 2026 05:32:29 GMT | How AI‑Powered Video Analytics Improves Multi‑Site Surveillance | Spotem | [Read More](https://medium.com/p/5fe0bb448a91) |
-| Mon, 09 Mar 2026 05:30:55 GMT | Secure Digital Systems Webinar Series — Ongoing Updates | Hamza Naveed Mohammed | [Read More](https://medium.com/p/f0945ced5ae2) |
-| Mon, 09 Mar 2026 05:30:10 GMT | Quantum Computing Threat to Crypto | Cynox Security LLP. | [Read More](https://medium.com/p/38ba664e9fd7) |
-| Mon, 09 Mar 2026 05:25:45 GMT | Cross-Field XSS – A Creative Bypass I Found During Testing | Mvenkatasaiamrutha | [Read More](https://medium.com/p/c33c6c77d5e9) |
-| Mon, 09 Mar 2026 05:19:18 GMT | Cyber Security Course in Trivandrum Start Your Career in Cybersecurity | Aslam Aslu | [Read More](https://medium.com/p/de29063add3c) |
-| Mon, 09 Mar 2026 05:09:14 GMT | Beginner’s Guide to Installing TurboTax Software | Jellyfr | [Read More](https://medium.com/p/7654bdbb58ac) |
-| Mon, 09 Mar 2026 05:07:33 GMT | RAID Failure? Here’s the Proven Way to Recover All Your Files Safely | Shreya Loyal | [Read More](https://medium.com/p/997ff450ee8a) |
-| Mon, 09 Mar 2026 05:06:53 GMT | DC-2 Walkthrough: WordPress Enumeration to Root via Git Sudo Privilege Escalation | Prince Amah | [Read More](https://medium.com/p/652ce5c1a08f) |
-| Mon, 09 Mar 2026 05:02:58 GMT | How to Set up Your Own VPN Tunnels With Tailscale | Dean J Murphy | [Read More](https://medium.com/p/80b2bf87f3e3) |
-| Mon, 09 Mar 2026 04:59:40 GMT | How mTLS Works: Practical Guide to PKCS12, keytool, OpenSSL & Truststores | Chandan Pal | [Read More](https://medium.com/p/a2ffe784d0ae) |
