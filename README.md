@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Mar 2026 05:32:29 GMT | How AI‑Powered Video Analytics Improves Multi‑Site Surveillance | Spotem | [Read More](https://medium.com/p/5fe0bb448a91) |
+| Mon, 09 Mar 2026 05:30:55 GMT | Secure Digital Systems Webinar Series — Ongoing Updates | Hamza Naveed Mohammed | [Read More](https://medium.com/p/f0945ced5ae2) |
+| Mon, 09 Mar 2026 05:30:10 GMT | Quantum Computing Threat to Crypto | Cynox Security LLP. | [Read More](https://medium.com/p/38ba664e9fd7) |
+| Mon, 09 Mar 2026 05:25:45 GMT | Cross-Field XSS – A Creative Bypass I Found During Testing | Mvenkatasaiamrutha | [Read More](https://medium.com/p/c33c6c77d5e9) |
+| Mon, 09 Mar 2026 05:19:18 GMT | Cyber Security Course in Trivandrum Start Your Career in Cybersecurity | Aslam Aslu | [Read More](https://medium.com/p/de29063add3c) |
+| Mon, 09 Mar 2026 05:09:14 GMT | Beginner’s Guide to Installing TurboTax Software | Jellyfr | [Read More](https://medium.com/p/7654bdbb58ac) |
+| Mon, 09 Mar 2026 05:07:33 GMT | RAID Failure? Here’s the Proven Way to Recover All Your Files Safely | Shreya Loyal | [Read More](https://medium.com/p/997ff450ee8a) |
+| Mon, 09 Mar 2026 05:06:53 GMT | DC-2 Walkthrough: WordPress Enumeration to Root via Git Sudo Privilege Escalation | Prince Amah | [Read More](https://medium.com/p/652ce5c1a08f) |
+| Mon, 09 Mar 2026 05:02:58 GMT | How to Set up Your Own VPN Tunnels With Tailscale | Dean J Murphy | [Read More](https://medium.com/p/80b2bf87f3e3) |
+| Mon, 09 Mar 2026 04:59:40 GMT | How mTLS Works: Practical Guide to PKCS12, keytool, OpenSSL & Truststores | Chandan Pal | [Read More](https://medium.com/p/a2ffe784d0ae) |
+| Mon, 09 Mar 2026 04:57:49 GMT | Extending BurpSuite with MCP: Leveraging GitHub Copilot for Offensive Security Automation | Rio Darmawan | [Read More](https://medium.com/p/d4d68f4a924f) |
+| Mon, 09 Mar 2026 04:56:10 GMT | Top Security Breaches in India Despite CCTV Surveillance — Lessons for Modern Security Systems | Vikram Kumar | [Read More](https://medium.com/p/8ce4b4b58f9d) |
+| Mon, 09 Mar 2026 04:52:14 GMT | How a Single Missing AuthZ Check Becomes a Breach: OWASP BOLA in Microservices | Munish Garg | [Read More](https://medium.com/p/0da2583fc5cc) |
+| Mon, 09 Mar 2026 04:47:40 GMT | Why Are Security Guard Services Essential in Rohtak? | Lakshay Security | [Read More](https://medium.com/p/6492d2d20e56) |
+| Mon, 09 Mar 2026 04:43:46 GMT | PART 9 – Disaster Recovery: Ensuring Business Continuity in the Face of Major Disruptions | Abraham Karikari | [Read More](https://medium.com/p/7de8706bfff6) |
+| Mon, 09 Mar 2026 04:43:06 GMT | The Rise of Agentic Red Teaming: Securing Autonomous AI Systems in the Era of Intelligent Agents | Nikshitakasture | [Read More](https://medium.com/p/5fb03e9cadce) |
+| Mon, 09 Mar 2026 04:41:49 GMT | Networking basics for beginners: IP addressing, CIDR, Subnets and ports | unica 02 | [Read More](https://medium.com/p/96de08aefb42) |
+| Mon, 09 Mar 2026 04:37:16 GMT | OWASP’s Top 10 for LLMs, Explained for Builders | Faisal Feroz | [Read More](https://medium.com/p/4ddbe0d9f1fe) |
+| Mon, 09 Mar 2026 04:27:32 GMT | U.S. Age-Verification Laws Reshape Online Access for Adults | Fabio Tongson | [Read More](https://medium.com/p/8ae5596ca0b0) |
 | Mon, 09 Mar 2026 04:12:07 GMT | Continuous Compliance Monitoring: Why Is It So Important? | Fieldwatch.ai | [Read More](https://medium.com/p/7998ba57b4a8) |
 | Mon, 09 Mar 2026 04:11:20 GMT | Making Prompt Injection Harder Against AI Coding Agents | Chiradeep Chhaya | [Read More](https://medium.com/p/f4719c083a5c) |
 | Mon, 09 Mar 2026 04:10:14 GMT | Building an AI System to Evaluate SOC Analyst Investigations | Caner Akbulut | [Read More](https://medium.com/p/a919b6dcdf3e) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Mar 2026 20:04:11 GMT | Cybersecurity’s Secret Weapon: The Art of the Digital Distraction | Lalit Tech Savvy | [Read More](https://medium.com/p/e1fb979f8e78) |
 | Sun, 08 Mar 2026 20:03:53 GMT | Docker Secrets Management: The Complete Guide to Securing Your Containers | Teguhwin | [Read More](https://medium.com/p/16f21e0ca8df) |
 | Sun, 08 Mar 2026 19:59:04 GMT | The Case for a Fractional CIO — And How It Changes Everything | Always On | [Read More](https://medium.com/p/2547a2b3ac6a) |
-| Sun, 08 Mar 2026 19:54:17 GMT | Adventures and Lessons from Kiosk Hacking on ChromeOS | Mike Manrod | [Read More](https://medium.com/p/4a9438bf67c9) |
-| Sun, 08 Mar 2026 19:47:43 GMT | Digital Sentinels: How to Auto-Stop API Leaks and Bad Code in Python | Gamze Babayiğit | [Read More](https://medium.com/p/9eb41f22aa52) |
-| Sun, 08 Mar 2026 19:46:34 GMT | How communication makes life lighter | Little Turtle | [Read More](https://medium.com/p/ae31372506ad) |
-| Sun, 08 Mar 2026 19:44:01 GMT | Zero Knowledge Nedir? Bir Şeyi Anlatmadan Nasıl Kanıtlayabilirsiniz? | Ali Yaşe | [Read More](https://medium.com/p/660d693f4532) |
-| Sun, 08 Mar 2026 19:36:08 GMT | Securing LLM Systems: A Practical Guide to the OWASP Top 10 | Maciej Zalwert | [Read More](https://medium.com/p/c95453611374) |
-| Sun, 08 Mar 2026 19:29:58 GMT | The Relationship Between UX and Security: Why Good Design Makes Systems Safer | Christine Osama | [Read More](https://medium.com/p/8d426cc92440) |
-| Sun, 08 Mar 2026 19:24:22 GMT | Authentication & Brute‑Force Exposure Assessment on DVWA | Mylescorey | [Read More](https://medium.com/p/f318979b8955) |
-| Sun, 08 Mar 2026 19:23:56 GMT | The Era of Vibe Coding Needs a Verification Layer | Carther Theogene | [Read More](https://medium.com/p/9fb11ca5f865) |
-| Sun, 08 Mar 2026 19:13:32 GMT | The Day the Cloud Cracked | Bilawal Khan | [Read More](https://medium.com/p/e0aa72830567) |
-| Sun, 08 Mar 2026 19:06:07 GMT | Bypassing File Upload Filters Using .htaccess | Mythguyb | [Read More](https://medium.com/p/fc4091d1e51a) |
-| Sun, 08 Mar 2026 19:00:37 GMT | Network Discovery Detection — TryHackMe Walkthrough | Owais Ali Khan | [Read More](https://medium.com/p/7e3370dfec4b) |
-| Sun, 08 Mar 2026 18:56:13 GMT | Upcoming Changes to Apple Business Manager | Ryan Adams | [Read More](https://medium.com/p/07c95d4598a4) |
-| Sun, 08 Mar 2026 18:55:29 GMT | How to Get 4 Premium VPNs for Up to 80% Off (Without a 2-Year Lock-In) | TechSaver | [Read More](https://medium.com/p/0578c4dd6908) |
-| Sun, 08 Mar 2026 18:49:28 GMT | Nmapping and scanning methods guide: | Ankita Bardhan | [Read More](https://medium.com/p/140cac6f3a42) |
-| Sun, 08 Mar 2026 18:40:34 GMT | HackSudo: Thor Machine Walkthrough | Ssmsnehalmore | [Read More](https://medium.com/p/684df312524f) |
-| Sun, 08 Mar 2026 18:28:32 GMT | Hacking DC-1: Your First Step into the DC Series | Omkar Bilguche | [Read More](https://medium.com/p/e7df72ae6d65) |
-| Sun, 08 Mar 2026 18:24:46 GMT | Ransomware-as-a-Service in 2026: The Business Model Behind Cybercrime | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/2dcbf89f7ac0) |
-| Sun, 08 Mar 2026 18:20:26 GMT | AWS Beginner Guide: From Zero to Hosting Your First Website on EC2 | Karan Singh | [Read More](https://medium.com/p/743fb5381a89) |
-| Sun, 08 Mar 2026 18:15:16 GMT | Temassız Tehdit: Havada Kalan Güvenlik | Ali Okan Yüksel | [Read More](https://medium.com/p/420034c08efc) |
