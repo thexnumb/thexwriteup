@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 09 Mar 2026 06:49:43 GMT | Detecting the Unknown: How SafeLine WAF Mitigates 0-Day Web Attacks | John Hawkins | [Read More](https://medium.com/p/fc02fd388464) |
+| Mon, 09 Mar 2026 06:48:10 GMT | Stop Trying to Prompt-Engineer AI Safety. Treat it Like Fraud Detection. | Naman Tripathi | [Read More](https://medium.com/p/191cddf67c08) |
+| Mon, 09 Mar 2026 06:47:08 GMT | Hacking AI Agents for 20,000$ | Anonymous Traiger | [Read More](https://medium.com/p/15436be41eb9) |
+| Mon, 09 Mar 2026 06:27:36 GMT | How CCTV Cameras Are Quietly Changing Crime Patterns | etransit | [Read More](https://medium.com/p/b3a3e063c95d) |
+| Mon, 09 Mar 2026 06:25:22 GMT | Canada's Next AI Moment: Brilliant Science, Borrowed Infrastructure | Tae Yeon Eom | [Read More](https://medium.com/p/900154854f26) |
+| Mon, 09 Mar 2026 06:20:22 GMT | KYC: Everyone Clicks “Next” on This Step… But It’s the Backbone of FinTech Security | AartiWrites | [Read More](https://medium.com/p/141a456a8c60) |
+| Mon, 09 Mar 2026 06:11:08 GMT | Your RAG’s Secret Backdoor: Leaking Data Through Vector Databases | Krishna Kumar | [Read More](https://medium.com/p/c33755a5abbe) |
+| Mon, 09 Mar 2026 06:07:09 GMT | Protecting Your Business from Modern Email Threats. | ZM Technologies | [Read More](https://medium.com/p/6995f3ce3e9f) |
+| Mon, 09 Mar 2026 06:01:04 GMT | The Irreversible Archive: Why Digital Dissent Survives Regime Change | Nelson Torres | [Read More](https://medium.com/p/f75883e0dcae) |
+| Mon, 09 Mar 2026 06:01:00 GMT | Trump Cuts Anthropic as OpenAI Enters Pentagon Networks | Geopolitics / Economy / Technology | [Read More](https://medium.com/p/68de841d1ddc) |
+| Mon, 09 Mar 2026 05:58:15 GMT | Computify with Me… | LeslieAine | [Read More](https://medium.com/p/295ff4134c38) |
+| Mon, 09 Mar 2026 05:55:25 GMT | The Rise of Phishing Attacks and How to Protect Your Organization | Securitiescyber | [Read More](https://medium.com/p/fa0bf3cad5c7) |
+| Mon, 09 Mar 2026 05:50:02 GMT | Fortifying the Financial Endpoint with Hardware Security | KSI Keyboards | [Read More](https://medium.com/p/f2a0eb46d361) |
+| Mon, 09 Mar 2026 05:49:04 GMT | The Future of Cloud Data Centers: Powering the Digital World | Dipak Kumar | [Read More](https://medium.com/p/270c459d6939) |
+| Mon, 09 Mar 2026 05:47:09 GMT | Gaps in Gas, Grid, and Governance: Why Europeans Are Not Renewing Their Energy | Pieter van Ysseldijk | [Read More](https://medium.com/p/6da4e5311dbf) |
 | Mon, 09 Mar 2026 05:32:29 GMT | How AI‑Powered Video Analytics Improves Multi‑Site Surveillance | Spotem | [Read More](https://medium.com/p/5fe0bb448a91) |
 | Mon, 09 Mar 2026 05:30:55 GMT | Secure Digital Systems Webinar Series — Ongoing Updates | Hamza Naveed Mohammed | [Read More](https://medium.com/p/f0945ced5ae2) |
 | Mon, 09 Mar 2026 05:30:10 GMT | Quantum Computing Threat to Crypto | Cynox Security LLP. | [Read More](https://medium.com/p/38ba664e9fd7) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 08 Mar 2026 21:06:18 GMT | Building Production Grade K3s Clusters with Cilium WireGuard Encryption in Air-Gapped Environments | Balasubramanian Jayamoorthy | [Read More](https://medium.com/p/c5a1273186b6) |
 | Sun, 08 Mar 2026 21:01:02 GMT | Detect. Download. Extract. Automating Source Code Recovery with DotGit-Enhanced | Maor Dayan - מאור דיין | [Read More](https://medium.com/p/35b0e72402f3) |
 | Sun, 08 Mar 2026 21:01:01 GMT | IAM Role Creation and Management in AWS | Rhea Gupta | [Read More](https://medium.com/p/db778044065c) |
-| Sun, 08 Mar 2026 20:50:33 GMT | Threat Visibility for FireOps Systems | Expadox Lab | [Read More](https://medium.com/p/71a370e64b11) |
-| Sun, 08 Mar 2026 20:50:27 GMT | LLM02: Sensitive Information Disclosure — A Growing Risk in AI Systems (2025) | Seema Gupta | [Read More](https://medium.com/p/e218d8f9cee1) |
-| Sun, 08 Mar 2026 20:47:35 GMT | El coraje de mostrarnos imperfectos | Andrea del Pilar Vargas Sarmiento | [Read More](https://medium.com/p/829495e046b0) |
-| Sun, 08 Mar 2026 20:42:27 GMT | I Built a Tool to Share My Claude Code Setup — Then Discovered It Could Hack Anyone Who Used It | Nizan Rosh | [Read More](https://medium.com/p/427e816f5128) |
-| Sun, 08 Mar 2026 20:39:08 GMT | This Google Feature Accidentally Created a Scammer’s Paradise | Mia Kotalik | [Read More](https://medium.com/p/9d1bf8bdc796) |
-| Sun, 08 Mar 2026 20:27:10 GMT | Why Trust Boundaries Matter in Security Architecture | Cipher Citadel (Ci2) | [Read More](https://medium.com/p/cec2978253fe) |
-| Sun, 08 Mar 2026 20:20:53 GMT | My Week 4 Takeaways from “Begin Ethical Hacking with Python” by Sanjib Sinha(Part IV) | Kalkidan | [Read More](https://medium.com/p/a14c2936213f) |
-| Sun, 08 Mar 2026 20:11:55 GMT | Vulnix Machine Walkthrough. | Akhilkulkarni | [Read More](https://medium.com/p/7f436878bdda) |
-| Sun, 08 Mar 2026 20:10:59 GMT | DirBuster: Uncovering Hidden Web Directories | Sarthak | [Read More](https://medium.com/p/5fe76eb5a189) |
-| Sun, 08 Mar 2026 20:10:24 GMT | The Compliance Trap: Why Security Frameworks Often Replace Thinking | Sarah | [Read More](https://medium.com/p/16c74a66aea1) |
-| Sun, 08 Mar 2026 20:10:03 GMT | Excessive Agency: When AI Gets Too Much Power | Will Giles - Cybersecurity | [Read More](https://medium.com/p/586b1af7d92d) |
-| Sun, 08 Mar 2026 20:06:45 GMT | How to Free Up Gigabytes on Your Mac Without Buying Anything | William Meller | [Read More](https://medium.com/p/a6a5d9767822) |
-| Sun, 08 Mar 2026 20:04:11 GMT | Cybersecurity’s Secret Weapon: The Art of the Digital Distraction | Lalit Tech Savvy | [Read More](https://medium.com/p/e1fb979f8e78) |
-| Sun, 08 Mar 2026 20:03:53 GMT | Docker Secrets Management: The Complete Guide to Securing Your Containers | Teguhwin | [Read More](https://medium.com/p/16f21e0ca8df) |
-| Sun, 08 Mar 2026 19:59:04 GMT | The Case for a Fractional CIO — And How It Changes Everything | Always On | [Read More](https://medium.com/p/2547a2b3ac6a) |
