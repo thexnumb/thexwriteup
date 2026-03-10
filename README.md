@@ -12,7 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Mar 2026 05:31:34 GMT | I Built a Cybersecurity Framework That Gaslights Hackers (And I’d Do It Again) | Isaac Onyemaechi | [Read More](https://medium.com/p/5accba0610dd) |
+| Tue, 10 Mar 2026 05:31:18 GMT | Single-endpoint Race Conditions | Bash Overflow | [Read More](https://medium.com/p/7a3879c09e79) |
+| Tue, 10 Mar 2026 05:16:00 GMT | A Fake Social Security Administration Website and The Automatic File Download | Brandon Council | [Read More](https://medium.com/p/b6734c29eae7) |
+| Tue, 10 Mar 2026 05:08:54 GMT | Corporate — HTB Insane Writeup (Adapted from 2024 Notes) | Waris Damkham | [Read More](https://medium.com/p/27d45a5a9693) |
+| Tue, 10 Mar 2026 05:07:54 GMT | SUDO MAKE ME A SANDWICH — PicoCTF 2026 | SourceFul Space | [Read More](https://medium.com/p/e1bffe1d6b05) |
+| Tue, 10 Mar 2026 05:04:46 GMT | I Got a TCS Prime Offer — Here’s Exactly How It Happened | Pravinthorve | [Read More](https://medium.com/p/b6f4d742c290) |
+| Tue, 10 Mar 2026 04:56:21 GMT | Solving Relationship Conflicts with These Communication Strategies | Vilena Kovaleva | [Read More](https://medium.com/p/409464dbbba2) |
+| Tue, 10 Mar 2026 04:47:28 GMT | Stop Treating .env Files Like a Secret Strategy: Why Varlock Is a Smarter Upgrade | CodeRonin | [Read More](https://medium.com/p/b8c4bfd82d86) |
+| Tue, 10 Mar 2026 04:45:11 GMT | How to detect hidden spy apps on your phone | Techwizs | [Read More](https://medium.com/p/8d1f0cf7d500) |
+| Tue, 10 Mar 2026 04:44:42 GMT | ,  ,   , … | . | [Read More](https://medium.com/p/e4c772c8cf49) |
+| Tue, 10 Mar 2026 04:41:20 GMT | Differences Between Ethical Hacking and Cyber Security | Shahana Sherin | [Read More](https://medium.com/p/78a85c9911f2) |
+| Tue, 10 Mar 2026 04:39:52 GMT | Importance of App Security in Mobile Applications | James Andersonuk | [Read More](https://medium.com/p/24f6b2bee021) |
+| Tue, 10 Mar 2026 04:36:14 GMT | B.Tech in Cyber Security: A Promising Career Path After Plus Two | Chinmaya Vishwa Vidyapeeth | [Read More](https://medium.com/p/5c5558e8c7bd) |
+| Tue, 10 Mar 2026 04:31:55 GMT | Journey to My First Bounty! | Prakash darji | [Read More](https://medium.com/p/72175d620b10) |
+| Tue, 10 Mar 2026 04:26:22 GMT | C0ldBox — VulnHub Writeup | Abacusready | [Read More](https://medium.com/p/b69363665cf2) |
+| Tue, 10 Mar 2026 04:24:15 GMT | APIs: The Invisible Technology Behind Almost Everything You Do Online | Arpine Keyan | [Read More](https://medium.com/p/976abf3c5042) |
+| Tue, 10 Mar 2026 04:22:36 GMT | Why I Get Paid to Break Things While Others Build Them | Eraser | [Read More](https://medium.com/p/011aa88180f6) |
+| Tue, 10 Mar 2026 04:18:59 GMT | Multi-Factor Authentication (MFA) Integration for Backend User Flows | Silversky Technology | [Read More](https://medium.com/p/30f3a2e1dc51) |
 | Tue, 10 Mar 2026 04:17:55 GMT | The Quiet Loneliness of Leadership | Tom Kehner | [Read More](https://medium.com/p/82f85412febe) |
+| Tue, 10 Mar 2026 04:16:01 GMT | ☁️ ️ Your Azure Bill is Skyrocketing?  You Might Be Under Attack | Krishna Kumar | [Read More](https://medium.com/p/30056ffcf7a8) |
 | Tue, 10 Mar 2026 04:08:42 GMT | Your WiFi Router Can Now See You Through Walls. Someone Just Open-Sourced It. | Algo Insights | [Read More](https://medium.com/p/76c265fcb6c7) |
 | Tue, 10 Mar 2026 04:03:24 GMT | Cybersecurity: Protecting the Digital World (Without Wearing a Cape) | Benoitedemadigbli | [Read More](https://medium.com/p/0bd14b180035) |
 | Tue, 10 Mar 2026 03:58:56 GMT | [Booking.com] When a Loyalty Program Makes Customers Less Loyal | Vera Jean | [Read More](https://medium.com/p/df266b9336a5) |
@@ -94,23 +113,3 @@ How a Fake Deposit App Turns College Students Into Criminals | Cyb3r.Y4sh | [Rea
 | Mon, 09 Mar 2026 19:19:09 GMT | “Linux Won’t Boot? The Complete GRUB Bootloader Guide to Fix and Rescue Your System” | Cyber Wolf | [Read More](https://medium.com/p/9f0f440958d9) |
 | Mon, 09 Mar 2026 19:13:25 GMT | THM,Windows Event Logs write-up :) | Aya Emad | [Read More](https://medium.com/p/767ecf1ed4ce) |
 | Mon, 09 Mar 2026 18:52:40 GMT | How to implement bitlocker on top of windows 11 pro | Mahim Avi | [Read More](https://medium.com/p/99336e8df6f4) |
-| Mon, 09 Mar 2026 18:51:00 GMT | Arjun: The Ultimate Parameter Discovery Tool For Bug Hunters | MainEkHacker | [Read More](https://medium.com/p/fd97a12b6c58) |
-| Mon, 09 Mar 2026 18:49:55 GMT | Walkthrough: Vulnerability Scanning w/ OpenVAS | Daryl Brooks | [Read More](https://medium.com/p/69a1b447138a) |
-| Mon, 09 Mar 2026 18:44:33 GMT | POSTURA: Graph-Based Security Analysis That Understands Context | Arunabh Majumdar | [Read More](https://medium.com/p/bcf340f3ba57) |
-| Mon, 09 Mar 2026 18:43:20 GMT | Attachment Day 02: Exploring Cybersecurity Frameworks and Enterprise Capability Models | Arittroskr | [Read More](https://medium.com/p/1e64ada071f5) |
-| Mon, 09 Mar 2026 18:42:38 GMT | Cisco Cybersecurity Module 2
-Part 2: Methods of Infiltration Used in Cyber Attacks | Favour Ugochi Ogbonnaya | [Read More](https://medium.com/p/b01b8aba575f) |
-| Mon, 09 Mar 2026 18:42:34 GMT | Antivirus software should only be one part of your cybersecurity strategy | Cordula Boeck | [Read More](https://medium.com/p/1e5d0ffaa4cf) |
-| Mon, 09 Mar 2026 18:40:52 GMT | Over 100 GitHub Repositories Distributing BoryptGrab Stealer | SOCFortress | [Read More](https://medium.com/p/a0d6da5ab28f) |
-| Mon, 09 Mar 2026 18:38:01 GMT | SOC Chronicles: Episode 4 (Advanced Malware Analysis and Incident Response) | Abdul Moeez Siddiqui | [Read More](https://medium.com/p/45b89f130e3c) |
-| Mon, 09 Mar 2026 18:26:33 GMT | Cryptography: A method to ensure the pillars of information security are followed. | Houeto Audrey | [Read More](https://medium.com/p/d9638a2fd1f5) |
-| Mon, 09 Mar 2026 18:26:07 GMT | Rooting Android Studio Emulator with KernelSU (Apple Silicon M1/M2/M3/M4) — Enable Root on Google… | mjais | [Read More](https://medium.com/p/c1b7d8417bea) |
-| Mon, 09 Mar 2026 18:21:21 GMT | The Hidden Security Risk in Linux: Why the /tmp Directory Must Be Properly Secured | Adnan Anik | [Read More](https://medium.com/p/e2c3625c917d) |
-| Mon, 09 Mar 2026 18:17:35 GMT | CodePartTwo HackTheBox Writeup | 0xCYRUS | [Read More](https://medium.com/p/adb70502ff4c) |
-| Mon, 09 Mar 2026 18:16:07 GMT | Süni İntellekt (AI) Agentləri vs. | Servoogle Studio | [Read More](https://medium.com/p/8a80d64bf418) |
-| Mon, 09 Mar 2026 18:13:56 GMT | The Stranger at the Door | Ryan Foster | [Read More](https://medium.com/p/1820b84a9b8e) |
-| Mon, 09 Mar 2026 18:10:28 GMT | Jailbreak HTB — How I solved it | Olina Kundu | [Read More](https://medium.com/p/36b838bb1226) |
-| Mon, 09 Mar 2026 18:07:54 GMT | Active Directory Recon Without Credentials — TryHackMe AD Basic Enumeration Walkthrough | razzee | [Read More](https://medium.com/p/ad196addd4e5) |
-| Mon, 09 Mar 2026 18:02:18 GMT | The Governance Problem Behind AI Systems | Priyansh Singh | [Read More](https://medium.com/p/7c8584ebb95c) |
-| Mon, 09 Mar 2026 17:53:56 GMT | How I Found the InnerTube Identity Bridge: The Methodology | Jawad Momani | [Read More](https://medium.com/p/0757e3aebb75) |
-| Mon, 09 Mar 2026 17:52:14 GMT | Day 19: I edited someone’s profile without their permission! | Issan | [Read More](https://medium.com/p/b0fb8d60706f) |
