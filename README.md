@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Mar 2026 18:40:01 GMT | I Ran an AI Agent Against My Own Network. Here’s What It Did That I Couldn’t Stop. | Muhammad Haider Tallal | [Read More](https://medium.com/p/907e647562ed) |
+| Tue, 10 Mar 2026 18:35:42 GMT | Coding like Tony Stark: The Stark Strategy for Web Security | Navaneethan Bhaskaran | [Read More](https://medium.com/p/a68b4684c5b7) |
+| Tue, 10 Mar 2026 18:30:12 GMT | Phishing Email Analysis SOC Analyst Guide Part-1 Introuction. | Vaibhavrajsahu | [Read More](https://medium.com/p/2ece982c4c77) |
+| Tue, 10 Mar 2026 18:29:01 GMT | LLM Winter and the Coming Hacker Paradise | Zeynel Erciyas | [Read More](https://medium.com/p/006f10b6b203) |
+| Tue, 10 Mar 2026 18:28:48 GMT | Analytics — HackTheBox Walkthrough | Hemantha Krishna Challa | [Read More](https://medium.com/p/933c49004220) |
+| Tue, 10 Mar 2026 18:26:51 GMT | Mini AI Factories and the Rise of Sovereign Compute | Valdez Ladd | [Read More](https://medium.com/p/0b1a926968e5) |
+| Tue, 10 Mar 2026 18:25:20 GMT | Firewall Log Analysis and Security Investigation | Amruthabezawada | [Read More](https://medium.com/p/3795bf5b2134) |
+| Tue, 10 Mar 2026 18:25:06 GMT | IT Security 4 Humans | Paolo Casoto | [Read More](https://medium.com/p/28f79c7838ad) |
+| Tue, 10 Mar 2026 18:24:30 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/ecbc6d8a0582) |
+| Tue, 10 Mar 2026 18:22:16 GMT | How I Found a $1,000 Signature Replay Vulnerability in a Blockchain Bridge SDK | Hacker MD | [Read More](https://medium.com/p/61cdf25c901c) |
+| Tue, 10 Mar 2026 18:19:08 GMT | AI Surveillance and Privacy: How Much Monitoring Is Too Much? | TechScribeHub | [Read More](https://medium.com/p/077c1f30907e) |
+| Tue, 10 Mar 2026 18:17:54 GMT | Advanced File Discovery and Carving Techniques in Digital Forensics | Indupattem | [Read More](https://medium.com/p/df45a8ed78fb) |
+| Tue, 10 Mar 2026 18:16:00 GMT | Security for the Lifecycle: Building Resilience from Seed to Institutional Mainnet | Exploitless | [Read More](https://medium.com/p/d997b55db570) |
+| Tue, 10 Mar 2026 18:11:31 GMT | Let’s Explore robots.txt | Anshkamra | [Read More](https://medium.com/p/d975628d621c) |
+| Tue, 10 Mar 2026 18:10:03 GMT | Pre-Auth RCE on Juniper PTX: When “Internal Only” Accidentally Means “Internet” | Ilias Armenakis | [Read More](https://medium.com/p/10257f1b2d1e) |
+| Tue, 10 Mar 2026 18:09:23 GMT | How I Accidentally Hacked a Government Payment Portal While Looking for Bugs | LETCHU PKT | [Read More](https://medium.com/p/b5ecf75e1089) |
+| Tue, 10 Mar 2026 18:02:13 GMT | The Night I Realized My Favorite YouTube Preacher Was AI | Vidya Ransam | [Read More](https://medium.com/p/8ef7b10a7110) |
+| Tue, 10 Mar 2026 17:56:14 GMT | OSINT Is Not About Finding More Data — It Is About Asking Better Questions Than Everyone Else | R.H Rizvi | [Read More](https://medium.com/p/3aed9d263613) |
+| Tue, 10 Mar 2026 17:55:57 GMT | The Cross-Site Scripting Paradox: Why Developers Who Sanitize Input Still Get Exploited | R.H Rizvi | [Read More](https://medium.com/p/b6a1d6273e6f) |
+| Tue, 10 Mar 2026 17:54:14 GMT | TENGU RANSOMWARE | Rakesh Krishnan | [Read More](https://medium.com/p/bb1f1dfc04e0) |
+| Tue, 10 Mar 2026 17:53:26 GMT | Kure Monitor | Igor Koricanac | [Read More](https://medium.com/p/7a048ea8ae32) |
+| Tue, 10 Mar 2026 17:52:17 GMT | “How I built my own Port Scanner using Python” | Akhilswami | [Read More](https://medium.com/p/2335b7978d16) |
 | Tue, 10 Mar 2026 17:48:54 GMT | Conducting a Security Audit: A Beginner Cybersecurity Case Study | Jayesh | [Read More](https://medium.com/p/491c1a3cb07c) |
 | Tue, 10 Mar 2026 17:43:55 GMT | Your Convenience Is Their Business Model | Don Lupo | [Read More](https://medium.com/p/e96cc1194652) |
 | Tue, 10 Mar 2026 17:43:25 GMT | How Operating Systems Actually Work | Aariz Khan | [Read More](https://medium.com/p/4291cb523954) |
@@ -91,25 +113,3 @@ Module 2 : Attacks, Concepts and Techniques— Part 3: Security… | Favour 
 | Tue, 10 Mar 2026 13:46:50 GMT | How I Found Two Critical Vulnerabilities in a Desktop App Exposing Internal Systems and User PII | Abdelrhman Amin | [Read More](https://medium.com/p/854cf3532e42) |
 | Tue, 10 Mar 2026 13:45:04 GMT | Will humans stop with AI? | Manvitha Siri Phani Y | [Read More](https://medium.com/p/8fe1fc309bb1) |
 | Tue, 10 Mar 2026 13:37:49 GMT | How Digital KYC Platforms Are Transforming Financial Institutions | Pratik Chavan | [Read More](https://medium.com/p/cca0a9bc3a0d) |
-| Tue, 10 Mar 2026 13:36:00 GMT | Staying Power: Wholehearted Leadership in Business, Creativity, and Character | Emberhart | [Read More](https://medium.com/p/0f8a693fbba3) |
-| Tue, 10 Mar 2026 13:29:48 GMT | Your company’s name is on the Dark Web. You just don’t know it yet. | Issa | [Read More](https://medium.com/p/7fdb5971239a) |
-| Tue, 10 Mar 2026 13:24:35 GMT | When I Began Embracing my Sensitivity | Pascale Bouchard | [Read More](https://medium.com/p/ccbfbf3bde76) |
-| Tue, 10 Mar 2026 13:06:16 GMT | I Spent a Month Building an AI-Assisted SOC Platform From Scratch | Nikhil Shakya | [Read More](https://medium.com/p/9dcd1a45ae3b) |
-| Tue, 10 Mar 2026 12:59:35 GMT | The Future of the Internet: Will AI Run Everything? | Hafizbilaltariq | [Read More](https://medium.com/p/bfc7479ab1e3) |
-| Tue, 10 Mar 2026 12:54:08 GMT | Using AI to Review Bug Bounty Recon Results | ghostyjoe | [Read More](https://medium.com/p/09cd51e50326) |
-| Tue, 10 Mar 2026 12:53:40 GMT | AI is Reshaping Cybersecurity in 2026 | Initfusion Pvt. Ltd | [Read More](https://medium.com/p/3804e50b3f37) |
-| Tue, 10 Mar 2026 12:52:28 GMT | GitHub Repos Every Cybersecurity Beginner Should Bookmark Right Now | DevSphere | [Read More](https://medium.com/p/3f6030c23249) |
-| Tue, 10 Mar 2026 12:51:00 GMT | The Ultimate Guide to Pedestrian Garage Doors - 24H | 24H Garage Doors | [Read More](https://medium.com/p/00dd870d779b) |
-| Tue, 10 Mar 2026 12:41:32 GMT | TCP mi, UDP mi? Ağ Protokollerinin Kilit Farkları ve Neden Önemli Oldukları! | Göktan İren | [Read More](https://medium.com/p/61271b5d225d) |
-| Tue, 10 Mar 2026 12:39:39 GMT | When AI Hacks Back | Dr Tyrone Grandison | [Read More](https://medium.com/p/9425ea297841) |
-| Tue, 10 Mar 2026 12:36:36 GMT | Breaking Down a Cyber Attack: Understanding the Cyber Kill Chain | Rinu M J | [Read More](https://medium.com/p/97ecc2ffb608) |
-| Tue, 10 Mar 2026 12:29:49 GMT | Strategic Security Management: Why Professional Personnel are the Core of Asset Protection | Alpha Security Services | [Read More](https://medium.com/p/8e33fa477cec) |
-| Tue, 10 Mar 2026 12:29:23 GMT | Fast AI Adoption Comes With Expensive Risks — Here Is What They Are | Stacha_C | [Read More](https://medium.com/p/f80c1e296931) |
-| Tue, 10 Mar 2026 12:28:17 GMT | HTTP Responses: Status Codes and Security Vulnerabilities | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/248be5c50673) |
-| Tue, 10 Mar 2026 12:28:12 GMT | SQL Injection | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/a346d8caac59) |
-| Tue, 10 Mar 2026 12:25:43 GMT | Reverse proxy rate limiting for humans: Stop bots without breaking apps | Thomas Byern on Self-Hosting | [Read More](https://medium.com/p/a873ad55d4ea) |
-| Tue, 10 Mar 2026 12:21:11 GMT | Lab: Exploiting an API endpoint using documentation | jaejun835 | [Read More](https://medium.com/p/caa88251f625) |
-| Tue, 10 Mar 2026 12:14:07 GMT | How to Install and Use Arachni for Web Vulnerability Scanning on Linux | Ahmat Prayoga Sembiring | [Read More](https://medium.com/p/3d360a95d551) |
-| Tue, 10 Mar 2026 12:09:50 GMT | Unlocking the Power of Your Data with the Ontology SDK (OSDK) | Udit Shahu | [Read More](https://medium.com/p/82640d0cda1a) |
-| Tue, 10 Mar 2026 12:01:01 GMT | Inside the AI-Powered Phishing Arsenal of 2026 | Dev Suthar | [Read More](https://medium.com/p/69c411393af6) |
-| Tue, 10 Mar 2026 11:40:41 GMT | Can Beginners Start a Cyber Security Course Online? A Complete Guide | Janbask Training | [Read More](https://medium.com/p/be06c83e8b8b) |
