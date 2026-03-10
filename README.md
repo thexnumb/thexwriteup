@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Mar 2026 09:45:44 GMT | Rethinking OpenClaw Security Boundaries: When AI Agent Safety Rules Live in Prompts, Not Systems | JIN | [Read More](https://medium.com/p/479381b89a95) |
+| Tue, 10 Mar 2026 09:31:07 GMT | Shadow AI & MCP → Security Risk? | Nehad | [Read More](https://medium.com/p/6458caa7ea7e) |
+| Tue, 10 Mar 2026 09:28:32 GMT | CodeVinci CTF 2026 — social engineering challenges write-up | Ahmed Yasser | [Read More](https://medium.com/p/a085de0d2484) |
+| Tue, 10 Mar 2026 09:24:06 GMT | Next-gen supply chain security with HashiCorp Vault and Tekton Chains | David Cañadillas | [Read More](https://medium.com/p/8e1cd95ab94f) |
+| Tue, 10 Mar 2026 09:23:51 GMT | Data Security Solutions: Protecting Your Business in the Digital Age | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/8d651613b3ee) |
+| Tue, 10 Mar 2026 09:20:38 GMT | Maced AI | Mnm | [Read More](https://medium.com/p/09b931297cf2) |
+| Tue, 10 Mar 2026 09:20:27 GMT | Deception Technology: A Smart Approach to Detect Cyber Threats Early | Gauri Kale | [Read More](https://medium.com/p/8fc96b4c3f7c) |
+| Tue, 10 Mar 2026 09:17:18 GMT | I Gave AI My Entire Workflow for 30 Days. It Broke the One Task I Least Expected. | Ajekigbe Michael. A | [Read More](https://medium.com/p/011ddde9f135) |
+| Tue, 10 Mar 2026 09:16:21 GMT | Breaking ZenML: A Deep Dive into CVE-2024-2083 | Saptak Das | [Read More](https://medium.com/p/ee305e40ba9a) |
+| Tue, 10 Mar 2026 09:14:31 GMT | I Had Zero Hacking Skills. 90 Days Later, I Got Paid to Break Into a Website — Legally. | Bugitrix | [Read More](https://medium.com/p/0d12efe2b714) |
+| Tue, 10 Mar 2026 09:13:48 GMT | DORA Is Live. Your Website Still Looks Like 2022 | Serhat Oypan | [Read More](https://medium.com/p/2d7e98b87d83) |
+| Tue, 10 Mar 2026 09:09:12 GMT | Browser Fingerprinting Nedir? İnternette Cihazınız Nasıl Tanınır? | Ali Yaşe | [Read More](https://medium.com/p/5f2bab3222d1) |
+| Tue, 10 Mar 2026 09:01:09 GMT | How I Bypassed OTP Rate Limits and Earned $303 in a Bug Bounty Hunt | Lokesh Soni | [Read More](https://medium.com/p/9e686274e5f4) |
+| Tue, 10 Mar 2026 08:56:55 GMT | 100$ Bug — The Hidden Cost of “Unsigned” Uploads: Exploiting Cloudinary for Denial of Wallet | Zer0Figure | [Read More](https://medium.com/p/a2c0d6c74890) |
+| Tue, 10 Mar 2026 08:56:00 GMT | 38 Researchers Gave AI Agents Real Tools. One Deleted Its Own Mail Server to Keep a Secret. | Tuğhan Belbek | [Read More](https://medium.com/p/979b000bb8db) |
 | Tue, 10 Mar 2026 08:46:25 GMT | 6 eCommerce Trends in 2026 That Are Reshaping Online Store Performance | i95Dev | [Read More](https://medium.com/p/93302119dc4f) |
 | Tue, 10 Mar 2026 08:44:35 GMT | Kubernetes Policy Enforcement Made Simple with Kyverno — Part I | Ramesh | [Read More](https://medium.com/p/7e8407efcd79) |
 | Tue, 10 Mar 2026 08:37:51 GMT | The Quantum Threat to Classic VAPT: Moving Beyond the “Classical” Perimeter | Cynox Security LLP. | [Read More](https://medium.com/p/e808d036b903) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Mar 2026 03:55:20 GMT | SQL For Red Teamers | M. John | [Read More](https://medium.com/p/8fc617183216) |
 | Tue, 10 Mar 2026 03:40:15 GMT | What Is a Next-Generation Firewall (NGFW) and Why Businesses Need One | Sistro Networks | [Read More](https://medium.com/p/e4f7c2581274) |
 | Tue, 10 Mar 2026 03:30:28 GMT | Malicious Document Analysis: Tools, Workflow, and What I Learned | Jorge Ruiz | [Read More](https://medium.com/p/2870f672584c) |
-| Tue, 10 Mar 2026 03:27:12 GMT | Hackers Aren’t Always the Bad Guys: A Deep Dive into Ethical Hacking. | Eraser | [Read More](https://medium.com/p/97069c63d777) |
-| Tue, 10 Mar 2026 03:23:29 GMT | Your App Might Be Secure… But What About the Pipeline That Ships It? | Muhammed Asfan - Cybersecurity Researcher | [Read More](https://medium.com/p/8ca54db0b713) |
-| Tue, 10 Mar 2026 02:59:36 GMT | Why SOC Analysts Are Important for Organizations and How They Help Reduce Cyber Attacks | Antonyrajvedamanickam | [Read More](https://medium.com/p/303efd287fb8) |
-| Tue, 10 Mar 2026 02:47:30 GMT | A Practical Web Pentesting CTF Challenge — Step-by-Step Walkthrough | cryptoshant | [Read More](https://medium.com/p/2c2bc2d63ef7) |
-| Tue, 10 Mar 2026 02:41:48 GMT | Why Cybersecurity Will Be One of India’s Most Important Careers in the Next Decade | Ashishsinghu | [Read More](https://medium.com/p/18ec19309ee7) |
-| Tue, 10 Mar 2026 02:37:17 GMT | Log Analysis with SIEM (THM) Tryhackme WriteUp | Lawvye | [Read More](https://medium.com/p/924263adfddc) |
-| Tue, 10 Mar 2026 02:26:23 GMT | What Happens to Your Data After a Data Breach | Armansyah hakim | [Read More](https://medium.com/p/b35ad86731d0) |
-| Tue, 10 Mar 2026 02:06:27 GMT | Finding the Best IT Service Company Near Me for Reliable Business Support | Siddiquitauseef | [Read More](https://medium.com/p/01f442afe72e) |
-| Tue, 10 Mar 2026 01:46:28 GMT | Top 7 OSINT Tools REVEALED for 2026 | Shahzaib | [Read More](https://medium.com/p/a58860c74f66) |
-| Tue, 10 Mar 2026 01:45:19 GMT | Asymmetric Encryption | Aj | [Read More](https://medium.com/p/7c837c5280b8) |
-| Tue, 10 Mar 2026 01:32:45 GMT | Is This Text Message a Scam? A Quick Guide | Ken | [Read More](https://medium.com/p/8c17ec110329) |
-| Tue, 10 Mar 2026 01:25:16 GMT | How Hackers Break Into Companies Without Cracking a Single Password | Armansyah hakim | [Read More](https://medium.com/p/782026489389) |
-| Tue, 10 Mar 2026 01:11:00 GMT | Retro Forensics | G-smag404 | [Read More](https://medium.com/p/ce78891370fb) |
-| Tue, 10 Mar 2026 01:03:34 GMT | Most People Trust Their Credit Card More Than Their Phone. They Shouldn't . | Grigorios Avramidis | [Read More](https://medium.com/p/f35ea2c6d533) |
-| Tue, 10 Mar 2026 00:57:28 GMT | Tuesday Morning Threat Report: Mar 10, 2026 | Mark Maguire | [Read More](https://medium.com/p/04158556ee2a) |
