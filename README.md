@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Mar 2026 16:48:25 GMT | HTB Academy — Web Fuzzing with ffuf: Full Walkthrough | Zeyad Mostafa | [Read More](https://medium.com/p/c7fdc469e1af) |
+| Tue, 10 Mar 2026 16:44:17 GMT | I Turned My Recon Cheat Sheets Into a Bash Script | MhndFi | [Read More](https://medium.com/p/2fdca4046491) |
+| Tue, 10 Mar 2026 16:36:00 GMT | Attacking Docker Desktop via MCP: From Theory to PoC | Amine Raji | [Read More](https://medium.com/p/8adc888dc10b) |
+| Tue, 10 Mar 2026 16:35:22 GMT | Hackers Aren’t Smarter Than the Systems Protecting Us | Rashad Edwards | [Read More](https://medium.com/p/a1958758d2c9) |
+| Tue, 10 Mar 2026 16:25:41 GMT | The Two-Step Secret Handshake: Solving the Chicken-and-Egg Problem in Multi-Tenant API Onboarding | Karan Gupta | [Read More](https://medium.com/p/b60d0f22784d) |
+| Tue, 10 Mar 2026 16:25:23 GMT | The Emperor Has No Firewall | Joshua Moses | [Read More](https://medium.com/p/3a7e21520cfa) |
+| Tue, 10 Mar 2026 16:25:13 GMT | OSI Model: Explained through a Cricket scoreboard | Saksham Joshi | [Read More](https://medium.com/p/aff8f709f849) |
+| Tue, 10 Mar 2026 16:25:08 GMT | Hackazon Pentest Report - By Elmehdi LAASSIRI | Elmehdi Laassiri | [Read More](https://medium.com/p/2b39d445aff7) |
+| Tue, 10 Mar 2026 16:23:06 GMT | Phase 2: n8n (The Workflow Orchestrator) | Root | [Read More](https://medium.com/p/e730afc77573) |
+| Tue, 10 Mar 2026 16:18:13 GMT | Geolocation 2026: How OSINT, AI, and satellite forensics are rewriting the map and NiamonX OSINT… | NiamonX LTD | [Read More](https://medium.com/p/0bc30fc49746) |
+| Tue, 10 Mar 2026 16:18:04 GMT | Phase 1: Wazuh (The Detection Engine) | Root | [Read More](https://medium.com/p/08a7e8d8c6de) |
+| Tue, 10 Mar 2026 16:10:31 GMT | Agent-callable: skip the boring approvals in Claude Code | Guillaume Rams | [Read More](https://medium.com/p/2ddb21dc2afb) |
+| Tue, 10 Mar 2026 16:10:20 GMT | Cisco Cybersecurity Series
+Module 2 : Attacks, Concepts and Techniques— Part 3: Security… | Favour Ugochi Ogbonnaya | [Read More](https://medium.com/p/64e1fc5fc431) |
+| Tue, 10 Mar 2026 16:09:23 GMT | 8 Years on Discord and Ban Evaders Still Find a Way | Grainger | [Read More](https://medium.com/p/59268d5569d0) |
+| Tue, 10 Mar 2026 16:03:37 GMT | Why Social Media Account Recovery Is Important Today | James Haller | [Read More](https://medium.com/p/6d31dfec8e82) |
+| Tue, 10 Mar 2026 16:02:35 GMT | My Portfolio Site! Hidden CTFs! | Aaronashley | [Read More](https://medium.com/p/4cc7f2cf4e60) |
+| Tue, 10 Mar 2026 15:43:44 GMT | When Cyber Risk Becomes Physical Risk: AI and the New Threat to Critical Infrastructure | Shaam Farooq | [Read More](https://medium.com/p/f049255d8027) |
+| Tue, 10 Mar 2026 15:35:44 GMT | The Biggest Cyber Attacks of 2026 So Far: 5 Incidents Reshaping Global Security | Santhosh Kumar R | [Read More](https://medium.com/p/60c4503ff166) |
+| Tue, 10 Mar 2026 15:35:17 GMT | How Multi-Factor Authentication Works Behind the Scenes | Cedriconyedika | [Read More](https://medium.com/p/f3b7646d7c2e) |
+| Tue, 10 Mar 2026 15:31:46 GMT | Components of information system | Premananthan_Thanoyan | [Read More](https://medium.com/p/eae63c7ffd8c) |
+| Tue, 10 Mar 2026 15:29:39 GMT | Career Paths After CEH: Choosing the Right Cybersecurity Role | Atishbabar | [Read More](https://medium.com/p/4a0542d050d5) |
 | Tue, 10 Mar 2026 15:22:04 GMT | How to Start a Career in Cybersecurity: A Beginner’s Guide | Atishbabar | [Read More](https://medium.com/p/5a7cd161881c) |
 | Tue, 10 Mar 2026 15:18:00 GMT | TryHackMe — Attacktive Directory Write-Up | Muhammad Khairin | [Read More](https://medium.com/p/0a1415e46433) |
 | Tue, 10 Mar 2026 15:17:27 GMT | Web Cache Basics for Beginners: Understanding Cache, Cache Keys, and Cache Rules | DIVYANSH  SINGH | [Read More](https://medium.com/p/ce95e08df7c4) |
@@ -91,24 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Mar 2026 10:51:04 GMT | Twisted Pair Cable in Computer Networks: Structure, Working Principle, and Real-World Use | Ndu | [Read More](https://medium.com/p/553dc433e5a6) |
 | Tue, 10 Mar 2026 10:45:45 GMT | The IT Industry’s Best Kept Secrets: Which Tech Giants Actually Walk the Talk? | Melvinsteppe | [Read More](https://medium.com/p/3a816d6bc191) |
 | Tue, 10 Mar 2026 10:36:57 GMT | OWASP Top 10: 2021 vs 2025 | KLEAP Institute of Information Security | [Read More](https://medium.com/p/481b17a70181) |
-| Tue, 10 Mar 2026 10:36:00 GMT | Your Data Is Probably Already on the Dark Web. Here’s How to Find Out. | Ajay Yadav | [Read More](https://medium.com/p/51c17bc9b078) |
-| Tue, 10 Mar 2026 10:35:46 GMT | Why Managed SIEM for SMBs and SOC as a Service for SMBs Are Essential for Modern Cybersecurity | Vijilan | [Read More](https://medium.com/p/4bc7ea9b89f4) |
-| Tue, 10 Mar 2026 10:34:45 GMT | The Practical Linux Networking Playbook | Vedant Domadiya | [Read More](https://medium.com/p/ad5b7d118dc3) |
-| Tue, 10 Mar 2026 10:34:26 GMT | ISO 27001 Internal Audit | Digital Duffer | [Read More](https://medium.com/p/132c9c583e5d) |
-| Tue, 10 Mar 2026 10:28:50 GMT | TOCTOU Race vulnerability in Refresh Tokens | Anton Caballes | [Read More](https://medium.com/p/12700783a368) |
-| Tue, 10 Mar 2026 10:27:18 GMT | 5 Signs You’re About to Get Scammed (What Scammers Don’t Want You to Know) | Decode Help | [Read More](https://medium.com/p/0e0da3cfdb31) |
-| Tue, 10 Mar 2026 10:26:47 GMT | Micro-Breaks: The Tiny Habit Transforming Work | RASHID KHAN | [Read More](https://medium.com/p/3373e6645cbd) |
-| Tue, 10 Mar 2026 10:26:14 GMT | Top-Notch End USer Support Services and Their Techniques | Gowthammathiew | [Read More](https://medium.com/p/abef6cae877e) |
-| Tue, 10 Mar 2026 10:22:57 GMT | Routine Checks — Forensics CTF challenge. | go3-14 | [Read More](https://medium.com/p/b3f62625d279) |
-| Tue, 10 Mar 2026 10:21:36 GMT | Types of Guided Transmission Media: Twisted Pair, Coaxial, and Fiber Optic Explained Clearly | Ndu | [Read More](https://medium.com/p/0e34d87aed3c) |
-| Tue, 10 Mar 2026 09:59:23 GMT | I Thought I Found 259 Exposed Systems in Bengaluru… I Was Wrong | Russel Dsouza | [Read More](https://medium.com/p/39811d88d213) |
-| Tue, 10 Mar 2026 09:59:12 GMT | Security Challenges in Metaverse Platforms Explained | Soudik Sinha | [Read More](https://medium.com/p/1e465220e344) |
-| Tue, 10 Mar 2026 09:56:00 GMT | Scattered Spider: Reading the Chain, A SOC Analyst’s Breakdown | Oluwatosin Ogunjimi | [Read More](https://medium.com/p/10b3a1909c10) |
-| Tue, 10 Mar 2026 09:45:44 GMT | Rethinking OpenClaw Security Boundaries: When AI Agent Safety Rules Live in Prompts, Not Systems | JIN | [Read More](https://medium.com/p/479381b89a95) |
-| Tue, 10 Mar 2026 09:41:38 GMT | VulnNet: Roasted ( THM Writeup) | Nikhil CP | [Read More](https://medium.com/p/d04f105a396c) |
-| Tue, 10 Mar 2026 09:31:07 GMT | Shadow AI & MCP → Security Risk? | Nehad | [Read More](https://medium.com/p/6458caa7ea7e) |
-| Tue, 10 Mar 2026 09:28:32 GMT | CodeVinci CTF 2026 — social engineering challenges write-up | Ahmed Yasser | [Read More](https://medium.com/p/a085de0d2484) |
-| Tue, 10 Mar 2026 09:24:06 GMT | Next-gen supply chain security with HashiCorp Vault and Tekton Chains | David Cañadillas | [Read More](https://medium.com/p/8e1cd95ab94f) |
-| Tue, 10 Mar 2026 09:23:51 GMT | Data Security Solutions: Protecting Your Business in the Digital Age | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/8d651613b3ee) |
-| Tue, 10 Mar 2026 09:20:38 GMT | Maced AI | Mnm | [Read More](https://medium.com/p/09b931297cf2) |
-| Tue, 10 Mar 2026 09:20:27 GMT | Deception Technology: A Smart Approach to Detect Cyber Threats Early | Gauri Kale | [Read More](https://medium.com/p/8fc96b4c3f7c) |
