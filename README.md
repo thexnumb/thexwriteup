@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Mar 2026 22:16:36 GMT | I Switched Sides: What It’s Like Investigating an Attack Instead of Running One | Robert Perez | [Read More](https://medium.com/p/3afa29c1f556) |
+| Tue, 10 Mar 2026 22:14:46 GMT | Microsoft Sentinel Threat Detection | Navraj Gill | [Read More](https://medium.com/p/59f1c0494733) |
+| Tue, 10 Mar 2026 22:10:20 GMT | Bulletproof Hosting: Explorations of a curious mind | Matt | [Read More](https://medium.com/p/16e122ee3e66) |
+| Tue, 10 Mar 2026 22:07:24 GMT | The new security frontier for LLMs; SIEM evasion | Daniel Knight | [Read More](https://medium.com/p/488e8f3c8d7d) |
+| Tue, 10 Mar 2026 22:06:00 GMT | The Problem With Security Benchmarks (And Why We Still Need Them) | Kai Roer | [Read More](https://medium.com/p/ea2836bca350) |
+| Tue, 10 Mar 2026 22:02:14 GMT | Discover the Exciting Stories of the IT Industry from the 1960s | Stacklegend | [Read More](https://medium.com/p/447a70722c70) |
+| Tue, 10 Mar 2026 21:57:08 GMT | Why AI Compliance Tools Need Deterministic Validation, Not Just LLM Outputs | Mihir Dabhi | [Read More](https://medium.com/p/05b5073a697a) |
+| Tue, 10 Mar 2026 21:54:34 GMT | EU GDPR — Article 32 (Security of Processing) | MDM Team | [Read More](https://medium.com/p/a4b4983bbd67) |
+| Tue, 10 Mar 2026 21:54:32 GMT | Why Antivirus Software Is Still Important in 2026 | Viginet Pvt Ltd | [Read More](https://medium.com/p/edc37225af9f) |
+| Tue, 10 Mar 2026 21:52:37 GMT | TryHackMe Writeup: Active Directory Basic Enumeration (Jr-Pentester AD v01) | Nazwass | [Read More](https://medium.com/p/5c10cba35a5d) |
+| Tue, 10 Mar 2026 21:43:36 GMT | Complete Elastic Stack Onboarding Guide: Installing and Configuring Elasticsearch, Kibana, Fleet… | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/53972ee878ae) |
+| Tue, 10 Mar 2026 21:41:59 GMT | Nginx UI’da Kritik Güvenlik Açığı: CVE‑2026‑27944 ve Yedeklerin Tehlikeli İfşası | Erdem Ceylan | [Read More](https://medium.com/p/9034a68fb845) |
+| Tue, 10 Mar 2026 21:41:55 GMT | Tool Overload: When More Security Products Make You Less Secure | JSOC IT BLOG | [Read More](https://medium.com/p/d20e06758d87) |
+| Tue, 10 Mar 2026 21:38:33 GMT | This is the time | Erik Kvam | [Read More](https://medium.com/p/d4a1a467aa30) |
+| Tue, 10 Mar 2026 21:32:31 GMT | Layered Polymorphic String Encryption | S12 - 0x12Dark Development | [Read More](https://medium.com/p/58e6a3bf57d6) |
+| Tue, 10 Mar 2026 21:31:00 GMT | That “Missed Call” Text Might Be a Trap | Janeel Abrahams | [Read More](https://medium.com/p/88c485eb9a85) |
+| Tue, 10 Mar 2026 21:28:18 GMT | I Built a Flight Recorder for AI Coding Agents | bluemacaw | [Read More](https://medium.com/p/ef11e451b154) |
 | Tue, 10 Mar 2026 21:14:15 GMT | Abusing AD-DACL: GenericWrite | Youssef Said Thabet | [Read More](https://medium.com/p/dbb187257ef4) |
 | Tue, 10 Mar 2026 21:01:01 GMT | Unfiltered Restart — Day 22: OS Intro, Windows Versions and Installation | Maximillian Rueda | [Read More](https://medium.com/p/dbfc66acbc63) |
 | Tue, 10 Mar 2026 20:55:41 GMT | Android Content Provider Security: A Pentester’s Deep Dive — Part 1 | Mustafa Mohamed | [Read More](https://medium.com/p/9682c35d1b2d) |
@@ -50,6 +67,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Mar 2026 18:29:01 GMT | LLM Winter and the Coming Hacker Paradise | Zeynel Erciyas | [Read More](https://medium.com/p/006f10b6b203) |
 | Tue, 10 Mar 2026 18:28:48 GMT | Analytics — HackTheBox Walkthrough | Hemantha Krishna Challa | [Read More](https://medium.com/p/933c49004220) |
 | Tue, 10 Mar 2026 18:26:51 GMT | Mini AI Factories and the Rise of Sovereign Compute | Valdez Ladd | [Read More](https://medium.com/p/0b1a926968e5) |
+| Tue, 10 Mar 2026 18:26:50 GMT | Keindahan yang Menggoda | $bills | [Read More](https://medium.com/p/623d959785c2) |
 | Tue, 10 Mar 2026 18:25:20 GMT | Firewall Log Analysis and Security Investigation | Amruthabezawada | [Read More](https://medium.com/p/3795bf5b2134) |
 | Tue, 10 Mar 2026 18:25:06 GMT | IT Security 4 Humans | Paolo Casoto | [Read More](https://medium.com/p/28f79c7838ad) |
 | Tue, 10 Mar 2026 18:24:30 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/ecbc6d8a0582) |
@@ -94,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Mar 2026 16:18:13 GMT | Geolocation 2026: How OSINT, AI, and satellite forensics are rewriting the map and NiamonX OSINT… | NiamonX LTD | [Read More](https://medium.com/p/0bc30fc49746) |
 | Tue, 10 Mar 2026 16:18:04 GMT | Phase 1: Wazuh (The Detection Engine) | Root | [Read More](https://medium.com/p/08a7e8d8c6de) |
 | Tue, 10 Mar 2026 16:10:31 GMT | Agent-callable: skip the boring approvals in Claude Code | Guillaume Rams | [Read More](https://medium.com/p/2ddb21dc2afb) |
-| Tue, 10 Mar 2026 16:10:20 GMT | Cisco Cybersecurity Series
-Module 2 : Attacks, Concepts and Techniques— Part 3: Security… | Favour Ugochi Ogbonnaya | [Read More](https://medium.com/p/64e1fc5fc431) |
-| Tue, 10 Mar 2026 16:09:23 GMT | 8 Years on Discord and Ban Evaders Still Find a Way | Grainger | [Read More](https://medium.com/p/59268d5569d0) |
-| Tue, 10 Mar 2026 16:03:37 GMT | Why Social Media Account Recovery Is Important Today | James Haller | [Read More](https://medium.com/p/6d31dfec8e82) |
-| Tue, 10 Mar 2026 16:02:35 GMT | My Portfolio Site! Hidden CTFs! | Aaronashley | [Read More](https://medium.com/p/4cc7f2cf4e60) |
-| Tue, 10 Mar 2026 15:57:16 GMT | Passwords Are Already Compromised- Why Identity Security Must Move Beyond Passwords? | Dr. Shashi Karhail | [Read More](https://medium.com/p/c5d6679e1ee5) |
-| Tue, 10 Mar 2026 15:43:44 GMT | When Cyber Risk Becomes Physical Risk: AI and the New Threat to Critical Infrastructure | Shaam Farooq | [Read More](https://medium.com/p/f049255d8027) |
-| Tue, 10 Mar 2026 15:35:44 GMT | The Biggest Cyber Attacks of 2026 So Far: 5 Incidents Reshaping Global Security | Santhosh Kumar R | [Read More](https://medium.com/p/60c4503ff166) |
-| Tue, 10 Mar 2026 15:35:17 GMT | How Multi-Factor Authentication Works Behind the Scenes | Cedriconyedika | [Read More](https://medium.com/p/f3b7646d7c2e) |
-| Tue, 10 Mar 2026 15:31:46 GMT | Components of information system | Premananthan_Thanoyan | [Read More](https://medium.com/p/eae63c7ffd8c) |
-| Tue, 10 Mar 2026 15:29:39 GMT | Career Paths After CEH: Choosing the Right Cybersecurity Role | Atishbabar | [Read More](https://medium.com/p/4a0542d050d5) |
-| Tue, 10 Mar 2026 15:26:24 GMT | Security Awareness Program: Strengthening the Human Layer of Cybersecurity | Femto Security | [Read More](https://medium.com/p/376fe111139b) |
-| Tue, 10 Mar 2026 15:22:04 GMT | How to Start a Career in Cybersecurity: A Beginner’s Guide | Atishbabar | [Read More](https://medium.com/p/5a7cd161881c) |
-| Tue, 10 Mar 2026 15:18:00 GMT | TryHackMe — Attacktive Directory Write-Up | Muhammad Khairin | [Read More](https://medium.com/p/0a1415e46433) |
-| Tue, 10 Mar 2026 15:17:27 GMT | Web Cache Basics for Beginners: Understanding Cache, Cache Keys, and Cache Rules | DIVYANSH  SINGH | [Read More](https://medium.com/p/ce95e08df7c4) |
-| Tue, 10 Mar 2026 15:12:46 GMT | Guardians of the Registry: A Guide to Docker Image Signing | Deeghayu Fernando | [Read More](https://medium.com/p/49b5e61a798b) |
-| Tue, 10 Mar 2026 15:02:46 GMT | ClaudeTab: What Happens When AI Reads Your Proxy Traffic | Saksham Jaiswal | [Read More](https://medium.com/p/90204f66d1c7) |
-| Tue, 10 Mar 2026 15:02:36 GMT | Memory Forensics with Volatility Framework | Shivashiva | [Read More](https://medium.com/p/061f03a76dde) |
-| Tue, 10 Mar 2026 15:01:02 GMT | Prompt Injection Isn’t Just an LLM Problem — It’s Coming for Your SOC (A Practical Defense Guide) | Narayan Regmi | [Read More](https://medium.com/p/dfad23e15308) |
