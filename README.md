@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Mar 2026 01:46:28 GMT | Top 7 OSINT Tools REVEALED for 2026 | Shahzaib | [Read More](https://medium.com/p/a58860c74f66) |
+| Tue, 10 Mar 2026 01:45:19 GMT | Asymmetric Encryption | Aj | [Read More](https://medium.com/p/7c837c5280b8) |
+| Tue, 10 Mar 2026 01:32:45 GMT | Is This Text Message a Scam? A Quick Guide | Ken | [Read More](https://medium.com/p/8c17ec110329) |
+| Tue, 10 Mar 2026 01:25:16 GMT | How Hackers Break Into Companies Without Cracking a Single Password | Armansyah hakim | [Read More](https://medium.com/p/782026489389) |
+| Tue, 10 Mar 2026 01:11:00 GMT | Retro Forensics | G-smag404 | [Read More](https://medium.com/p/ce78891370fb) |
+| Tue, 10 Mar 2026 01:03:34 GMT | Most People Trust Their Credit Card More Than Their Phone. They Shouldn't . | Grigorios Avramidis | [Read More](https://medium.com/p/f35ea2c6d533) |
+| Tue, 10 Mar 2026 00:57:28 GMT | Tuesday Morning Threat Report: Mar 10, 2026 | Mark Maguire | [Read More](https://medium.com/p/04158556ee2a) |
+| Tue, 10 Mar 2026 00:45:40 GMT | Introducing CIAO: The Governance Meta-Standard the Compliance World Has Been Missing | CIAO Standard | [Read More](https://medium.com/p/cd323f46676d) |
+| Tue, 10 Mar 2026 00:28:49 GMT | sams walkthrough (proving groung-windows) | cyber_public_school | [Read More](https://medium.com/p/f36113b89216) |
+| Tue, 10 Mar 2026 00:05:11 GMT | Cybersecurity Compliance, Safeguarding Your Business Digital Assets | Hakim Fubara CIA, CISA, CISSP | [Read More](https://medium.com/p/9cfa13d4ef7a) |
+| Tue, 10 Mar 2026 00:01:02 GMT | Guía de XXE Injection: Fundamentos, Payloads y Estrategias de Bug Bounty | JPablo13 | [Read More](https://medium.com/p/71536d05e0a5) |
+| Mon, 09 Mar 2026 23:48:39 GMT | Security Should Make Business Sense,but too Often It Doesn’t | Hakim Fubara CIA, CISA, CISSP | [Read More](https://medium.com/p/cd92f453a1c5) |
+| Mon, 09 Mar 2026 23:34:04 GMT | Blue Writeup Español TryHackMe | Us0lfr | [Read More](https://medium.com/p/80976425166d) |
+| Mon, 09 Mar 2026 23:32:07 GMT | THM: Windows Privilege Escalation | Murad Salem | [Read More](https://medium.com/p/40306d8ec94a) |
 | Mon, 09 Mar 2026 23:13:56 GMT | TryHackMe Write-Up: AD Basic Enumeration | Senoputraaa | [Read More](https://medium.com/p/79b167cd1160) |
 | Mon, 09 Mar 2026 22:51:46 GMT | Managed Cyber Security Services: What Queensland Businesses Need to Know | YesIT Services | [Read More](https://medium.com/p/dc1e6d430181) |
 | Mon, 09 Mar 2026 22:44:25 GMT | Hackers Are Using AI to Plan Cyber Attacks | Rashad Edwards | [Read More](https://medium.com/p/c9c8b5cf89e3) |
@@ -100,17 +114,3 @@ Part 2: Methods of Infiltration Used in Cyber Attacks | Favour Ugochi Ogbonnaya 
 | Mon, 09 Mar 2026 17:20:18 GMT | Devvortex (HTB): A Practical Walkthrough from Enumeration to Privilege Escalation | Waris Damkham | [Read More](https://medium.com/p/807cce6e34b7) |
 | Mon, 09 Mar 2026 17:11:45 GMT | Resolving Wazuh FIM “Maximum File Limit Reached” — Why /tmp Is Killing Your Agent | Neetrox | [Read More](https://medium.com/p/6033b6d4a08f) |
 | Mon, 09 Mar 2026 17:07:02 GMT | Your AI Meeting Assistant Might Be the Biggest Security Risk in Your Office | Len Noe | [Read More](https://medium.com/p/4cf7c2f63edf) |
-| Mon, 09 Mar 2026 17:05:18 GMT | I Changed One Cookie Value… and Became Admin | TEJAS | [Read More](https://medium.com/p/f60fbdbcca96) |
-| Mon, 09 Mar 2026 17:01:01 GMT | Why Never Feeling Safe Can Shape Lifelong Anxiety | K_UK | [Read More](https://medium.com/p/5896c4976937) |
-| Mon, 09 Mar 2026 16:58:29 GMT | Implementing The OWASP Top 10 2025 in a Django Module: Part 1 | Yasmine Putri Viryadhani | [Read More](https://medium.com/p/29b431acad13) |
-| Mon, 09 Mar 2026 16:49:42 GMT | The New Security Perimeter: Why Identity Defense Is the Future of Cybersecurity? | Dr. Shashi Karhail | [Read More](https://medium.com/p/6753fb4ba749) |
-| Mon, 09 Mar 2026 16:41:00 GMT | Hack Smarter: Polution — Privilege Escalation via Prototype Pollution to XSS | charlier0cks | [Read More](https://medium.com/p/7187eb534df4) |
-| Mon, 09 Mar 2026 16:40:55 GMT | 7 Spring Boot Security Misconfigurations Hackers Love (And How to Fix Them) | Karuna | [Read More](https://medium.com/p/70378ce98c0a) |
-| Mon, 09 Mar 2026 16:40:41 GMT | Latin America Under Siege: The Rising Tide of Cybercrime and the Hard Lessons from Colombia. | Alexis Medina | [Read More](https://medium.com/p/6d2cc19b86b7) |
-| Mon, 09 Mar 2026 16:37:50 GMT | Is Someone Watching? How Hackers Access Your Security Cameras — and How to Stop Them | Temma | [Read More](https://medium.com/p/9e305bf86423) |
-| Mon, 09 Mar 2026 16:37:00 GMT | The Lie of Privacy: How Messengers Track You | Private.Ki | [Read More](https://medium.com/p/be77705fc3aa) |
-| Mon, 09 Mar 2026 16:36:26 GMT | Cisco SD-WAN Under Fire: When “Actively Exploited” Means Patch, Not Panic | Ilias Armenakis | [Read More](https://medium.com/p/59345314fa72) |
-| Mon, 09 Mar 2026 16:34:11 GMT | Aplikasi Mobile: Membuat My Card App Menggunakan Flutter Widgets | Yasa Wijaya | [Read More](https://medium.com/p/2bf0774487c9) |
-| Mon, 09 Mar 2026 16:33:37 GMT | How Kerberoasting Actually Works in Real Enterprise Environments | CybeCloud | [Read More](https://medium.com/p/234103dee3a4) |
-| Mon, 09 Mar 2026 16:31:51 GMT | Docker Hardened System Packages: seguridad de la cadena de suministro más allá de la imagen | Gloria Palma González | [Read More](https://medium.com/p/fd582328074f) |
-| Mon, 09 Mar 2026 16:31:00 GMT | Four Tools, Three Machines, One Question | Andrew Kutuzov | [Read More](https://medium.com/p/833c5e9bd688) |
