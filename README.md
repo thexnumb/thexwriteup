@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Mar 2026 12:54:08 GMT | Using AI to Review Bug Bounty Recon Results | ghostyjoe | [Read More](https://medium.com/p/09cd51e50326) |
+| Tue, 10 Mar 2026 12:53:40 GMT | AI is Reshaping Cybersecurity in 2026 | Initfusion Pvt. Ltd | [Read More](https://medium.com/p/3804e50b3f37) |
+| Tue, 10 Mar 2026 12:52:28 GMT | GitHub Repos Every Cybersecurity Beginner Should Bookmark Right Now | DevSphere | [Read More](https://medium.com/p/3f6030c23249) |
+| Tue, 10 Mar 2026 12:51:00 GMT | The Ultimate Guide to Pedestrian Garage Doors - 24H | 24H Garage Doors | [Read More](https://medium.com/p/00dd870d779b) |
+| Tue, 10 Mar 2026 12:41:32 GMT | TCP mi, UDP mi? Ağ Protokollerinin Kilit Farkları ve Neden Önemli Oldukları! | Göktan İren | [Read More](https://medium.com/p/61271b5d225d) |
+| Tue, 10 Mar 2026 12:39:39 GMT | When AI Hacks Back | Dr Tyrone Grandison | [Read More](https://medium.com/p/9425ea297841) |
+| Tue, 10 Mar 2026 12:36:36 GMT | Breaking Down a Cyber Attack: Understanding the Cyber Kill Chain | Rinu M J | [Read More](https://medium.com/p/97ecc2ffb608) |
+| Tue, 10 Mar 2026 12:29:49 GMT | Strategic Security Management: Why Professional Personnel are the Core of Asset Protection | Alpha Security Services | [Read More](https://medium.com/p/8e33fa477cec) |
+| Tue, 10 Mar 2026 12:29:23 GMT | Fast AI Adoption Comes With Expensive Risks — Here Is What They Are | Stacha_C | [Read More](https://medium.com/p/f80c1e296931) |
+| Tue, 10 Mar 2026 12:28:17 GMT | HTTP Responses: Status Codes and Security Vulnerabilities | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/248be5c50673) |
+| Tue, 10 Mar 2026 12:28:12 GMT | SQL Injection | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/a346d8caac59) |
+| Tue, 10 Mar 2026 12:25:43 GMT | Reverse proxy rate limiting for humans: Stop bots without breaking apps | Thomas Byern on Self-Hosting | [Read More](https://medium.com/p/a873ad55d4ea) |
+| Tue, 10 Mar 2026 12:21:11 GMT | Lab: Exploiting an API endpoint using documentation | jaejun835 | [Read More](https://medium.com/p/caa88251f625) |
+| Tue, 10 Mar 2026 12:14:07 GMT | How to Install and Use Arachni for Web Vulnerability Scanning on Linux | Ahmat Prayoga Sembiring | [Read More](https://medium.com/p/3d360a95d551) |
+| Tue, 10 Mar 2026 12:09:50 GMT | Unlocking the Power of Your Data with the Ontology SDK (OSDK) | Udit Shahu | [Read More](https://medium.com/p/82640d0cda1a) |
+| Tue, 10 Mar 2026 11:35:47 GMT | How Can Businesses Improve Security with Penetration Testing | Spectrum Stream | [Read More](https://medium.com/p/0073f88e54e4) |
 | Tue, 10 Mar 2026 11:22:54 GMT | The Hacker’s Blueprint: Understanding OSI and TCP/IP Models for Cybersecurity | Rashichoudhary | [Read More](https://medium.com/p/3284898d80ec) |
 | Tue, 10 Mar 2026 11:22:26 GMT | Door Off-Track Repair | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/60f9485f10f5) |
 | Tue, 10 Mar 2026 11:21:15 GMT | High-Level Security Framework for Development Companies | Ihor Klymchuk | [Read More](https://medium.com/p/095bdae70d99) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Mar 2026 06:56:44 GMT | How a Fake OpenClaw npm Package Turned a Simple Install Into a Full macOS Compromise | Germano Costi | [Read More](https://medium.com/p/22b62fbacd53) |
 | Tue, 10 Mar 2026 06:56:41 GMT | Defense in Depth | Sujon Al Mamun | [Read More](https://medium.com/p/10f808e42fd8) |
 | Tue, 10 Mar 2026 06:55:52 GMT | Top 5 GPS Trackers for Car Security in 2026 — Hidden, Garage-Proof & Pet-Safe | UBITracer | [Read More](https://medium.com/p/fa3c583f9b31) |
-| Tue, 10 Mar 2026 06:51:34 GMT | ️ Supercharging Bug Bounty Recon with Netlas: A Smarter Way to Discover Targets | ghostyjoe | [Read More](https://medium.com/p/1911c2aec6a8) |
-| Tue, 10 Mar 2026 06:50:20 GMT | How Artificial Intelligence Is Used in Everyday Life | Samparkerz | [Read More](https://medium.com/p/03d0f2cd3e63) |
-| Tue, 10 Mar 2026 06:44:16 GMT | The Fake YONO Update That Hijacked WhatsApp | InsideTheSOC | [Read More](https://medium.com/p/0d29e9b6819b) |
-| Tue, 10 Mar 2026 06:40:32 GMT | 7 AI Tools That Can Help You Make Money Online in 2026 | wizzo torado | [Read More](https://medium.com/p/c8269a3c8170) |
-| Tue, 10 Mar 2026 06:35:59 GMT | Cybersecurity Risks and Protection Strategies for Universities | Rubayadhasanrummon | [Read More](https://medium.com/p/76f90a5101a3) |
-| Tue, 10 Mar 2026 06:35:33 GMT | TryHackMe — Room # 1 — Intro to Offensive Security | Nih4l_Sh3ll | [Read More](https://medium.com/p/f7fed9988ada) |
-| Tue, 10 Mar 2026 06:31:18 GMT | Why you must always define a data type | LeslieAine | [Read More](https://medium.com/p/8ea68881592c) |
-| Tue, 10 Mar 2026 06:27:18 GMT | How to Become an Ethical Hacker (Secret Roadmap) | Neha Sharma | [Read More](https://medium.com/p/6f61a40fc865) |
-| Tue, 10 Mar 2026 06:27:18 GMT | PECB ISO 27001 Lead Auditor Training Saudi Arabia - AAC MENA | Aswar Akka Consultancy (AAC) | [Read More](https://medium.com/p/09374fdea3a0) |
-| Tue, 10 Mar 2026 06:26:49 GMT | FTP Connection Refused: 6 Real Causes (And How to Fix It) | Jake Priddy | [Read More](https://medium.com/p/d075ebf5cc90) |
-| Tue, 10 Mar 2026 06:20:36 GMT | Would You Let a Stranger Set Up Your New Device? | Prachi Mahapatra | [Read More](https://medium.com/p/b25fb4f87f5f) |
-| Tue, 10 Mar 2026 06:15:31 GMT | Introduction to Machine: Funbox 4 | Abhinavmpu | [Read More](https://medium.com/p/e60950563b62) |
-| Tue, 10 Mar 2026 06:13:21 GMT | Broken Authentication in Fintech Systems | Rufus Kehinde | [Read More](https://medium.com/p/fe91e609ad59) |
-| Tue, 10 Mar 2026 06:06:00 GMT | Why templates don’t work for cybersecurity policies — the hidden mismatch problem. | Gaurav Shukla | [Read More](https://medium.com/p/4f59f6df3458) |
-| Tue, 10 Mar 2026 06:01:44 GMT | What Is Prompt Injection? The Most Critical AI Vulnerability Explained | Kuboid Secure Layer | [Read More](https://medium.com/p/6137d4ffae38) |
-| Tue, 10 Mar 2026 06:01:37 GMT | FTP Error 530 Login Incorrect: What It Actually Means (And How to Fix It) | Jake Priddy | [Read More](https://medium.com/p/bbab19e5e856) |
