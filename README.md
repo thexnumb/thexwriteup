@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Mar 2026 07:35:25 GMT | Enhance Your Website Security with IP Whitelisting and Blacklisting | Smit Pipaliya | [Read More](https://medium.com/p/2f33f546a0e0) |
+| Tue, 10 Mar 2026 07:30:04 GMT | Flag in Flame - PicoCTF Challenge - Digital Forensics | Xinlisalim | [Read More](https://medium.com/p/30ff6a14b75a) |
+| Tue, 10 Mar 2026 07:29:28 GMT | Iranian APT MuddyWater Deploys “Dindoor” Backdoor: Inside a New Cyber-Espionage Campaign | Raoelinirina Sergio | [Read More](https://medium.com/p/e9d5aa7f5626) |
+| Tue, 10 Mar 2026 07:28:28 GMT | Cybersecurity Services in Australia: Why Businesses Need Strong Digital Protection | Ictxcompany | [Read More](https://medium.com/p/c81b9ae27d3a) |
+| Tue, 10 Mar 2026 07:26:16 GMT | OWASP Juice Shop — BOLA: Unauthorized Basket Access - Security Assessment Finding | Prem kr sharma | [Read More](https://medium.com/p/65e1f6b8a46b) |
+| Tue, 10 Mar 2026 07:26:15 GMT | Building a Production-Safe Linux Hardening Audit Tool (180+ Security Checks) | Opsec Ramdan | [Read More](https://medium.com/p/3fa650a1396f) |
+| Tue, 10 Mar 2026 07:24:36 GMT | Why Most Founders Lose Traffic Without Knowing It (And How Smart Founders Catch Problems Early) | Stephan Goldberg | [Read More](https://medium.com/p/759ae9fe2828) |
+| Tue, 10 Mar 2026 07:23:54 GMT | What Is Information Security Compliance? A Simple Guide for Businesses | Dependibot Solutions | [Read More](https://medium.com/p/72bda7989a73) |
+| Tue, 10 Mar 2026 07:23:49 GMT | Insecure Direct Object Reference (When Your API Hands Strangers Access to Other People’s Accounts) | Rufus Kehinde | [Read More](https://medium.com/p/174cbded4e1e) |
+| Tue, 10 Mar 2026 07:15:21 GMT | RSA-OAEP Encryption for React Native | Taron Qalashyan | [Read More](https://medium.com/p/7d904009e391) |
+| Tue, 10 Mar 2026 07:11:53 GMT | OWASP Juice Shop — User Enumeration via Forgot Password | Prem kr sharma | [Read More](https://medium.com/p/b3d4eba861bc) |
+| Tue, 10 Mar 2026 07:07:02 GMT | How We Got LLMs to Query Our Database Without Leaking a Single Unauthorized Row | Siddharth Deshpande | [Read More](https://medium.com/p/80d435e53118) |
+| Tue, 10 Mar 2026 07:02:03 GMT | Learning Wi-Fi Packet Sniffing at Home: My First Kali Linux Wireless Lab | Thewatchdog13 | [Read More](https://medium.com/p/b62bbd90b9b4) |
+| Tue, 10 Mar 2026 07:01:06 GMT | NIST Cybersecurity Framework 2.0 and Physical Security Integration | TCS Security | [Read More](https://medium.com/p/6d761621dda5) |
+| Tue, 10 Mar 2026 07:01:01 GMT | HackTheBox: Facts — Writeup | Ryan  Ryan | [Read More](https://medium.com/p/7ba4972aacda) |
+| Tue, 10 Mar 2026 06:56:44 GMT | How a Fake OpenClaw npm Package Turned a Simple Install Into a Full macOS Compromise | Germano Costi | [Read More](https://medium.com/p/22b62fbacd53) |
+| Tue, 10 Mar 2026 06:56:41 GMT | Defense in Depth | Sujon Al Mamun | [Read More](https://medium.com/p/10f808e42fd8) |
+| Tue, 10 Mar 2026 06:55:52 GMT | Top 5 GPS Trackers for Car Security in 2026 — Hidden, Garage-Proof & Pet-Safe | UBITracer | [Read More](https://medium.com/p/fa3c583f9b31) |
 | Tue, 10 Mar 2026 06:51:34 GMT | ️ Supercharging Bug Bounty Recon with Netlas: A Smarter Way to Discover Targets | ghostyjoe | [Read More](https://medium.com/p/1911c2aec6a8) |
 | Tue, 10 Mar 2026 06:50:20 GMT | How Artificial Intelligence Is Used in Everyday Life | Samparkerz | [Read More](https://medium.com/p/03d0f2cd3e63) |
 | Tue, 10 Mar 2026 06:44:16 GMT | The Fake YONO Update That Hijacked WhatsApp | InsideTheSOC | [Read More](https://medium.com/p/0d29e9b6819b) |
@@ -95,21 +113,3 @@ How a Fake Deposit App Turns College Students Into Criminals | Cyb3r.Y4sh | [Rea
 | Mon, 09 Mar 2026 22:22:57 GMT | Cheesy Does It (Business Logic Vuln) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/0008c34d12f5) |
 | Mon, 09 Mar 2026 22:03:26 GMT | Trust Boundaries in Agentic AI | Facundo Fernandez | [Read More](https://medium.com/p/3b6ffddffdba) |
 | Mon, 09 Mar 2026 22:02:18 GMT | ApoorvCTF 4.0 — OSINT Writeup | Alwin Thomas | [Read More](https://medium.com/p/4e8aad6258fe) |
-| Mon, 09 Mar 2026 21:59:30 GMT | Try Hack Me- Simple CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/c8cc034d7599) |
-| Mon, 09 Mar 2026 21:52:26 GMT | Data Security: Understanding How Information Stays Safe | Techridge Solutions | [Read More](https://medium.com/p/8e89e848385d) |
-| Mon, 09 Mar 2026 21:49:19 GMT | Understanding Web Applications: The Foundation for Investigating Web App Security Alerts | CipherX9F Security | [Read More](https://medium.com/p/d48174fce4c3) |
-| Mon, 09 Mar 2026 21:46:42 GMT | Mock Professional Brief for Blue Cross Blue Shield Cybersecurity Division | Amarachi | [Read More](https://medium.com/p/68fe46039798) |
-| Mon, 09 Mar 2026 21:45:45 GMT | From Firewall to Endpoint: Building a Hands-On Sophos Intercept X EDR Lab | FıratCan Bekar | [Read More](https://medium.com/p/881aee5dcec9) |
-| Mon, 09 Mar 2026 21:40:08 GMT | Hospitals are going Digital — Is Yours Ready ? | Malik Rashid Ahmad | [Read More](https://medium.com/p/b3e265c364cf) |
-| Mon, 09 Mar 2026 21:38:36 GMT | Why “Vibe Coding” is a Financial Liability | Alfa | [Read More](https://medium.com/p/6e66437f9c73) |
-| Mon, 09 Mar 2026 21:31:00 GMT | Why Is My Browser Suddenly Full of Pop-Ups? | Janeel Abrahams | [Read More](https://medium.com/p/ff8e44917ed1) |
-| Mon, 09 Mar 2026 21:25:33 GMT | Cyber Security Foundation Series — Computer Networking Part -05(Firewall, Proxy Server, VPN, VLAN… | Kamal Kishor Mahto | [Read More](https://medium.com/p/9f024c526713) |
-| Mon, 09 Mar 2026 21:25:24 GMT | PicoCTF 2026: Hashgate | Ammar yasser El-sayed | [Read More](https://medium.com/p/0a6a328b5dd4) |
-| Mon, 09 Mar 2026 21:24:40 GMT | Bandit OverTheWire Level 21–33 Walkthrough (Step-by-Step Guide for Beginners) Years 2026 | Hisyam | [Read More](https://medium.com/p/210fde71e9f3) |
-| Mon, 09 Mar 2026 21:21:03 GMT | I Built a Security Lab the Right Way, and “the Right Way” Meant Starting With a Decision Not to… | OTHMANE EL MQIDDEM | [Read More](https://medium.com/p/df23ef2c9958) |
-| Mon, 09 Mar 2026 21:17:26 GMT | Navigating the AI Threat Horizon: | Bobbie á Deild | [Read More](https://medium.com/p/7020f46c59bb) |
-| Mon, 09 Mar 2026 21:17:21 GMT | API Hunting to Employee PII Data | SIDDHANT SHUKLA | [Read More](https://medium.com/p/638866e3f494) |
-| Mon, 09 Mar 2026 21:09:00 GMT | ChatGPT Backlash, Google’s Global AI Push, and Amazon’s $200 Billion Bet on the Future of AI | Qandeel Akhtar | [Read More](https://medium.com/p/ce3d15a8c92c) |
-| Mon, 09 Mar 2026 21:01:02 GMT | Unfiltered Restart — Day 21: Catching Up and Starting Core 2 | Maximillian Rueda | [Read More](https://medium.com/p/54255eb4ee48) |
-| Mon, 09 Mar 2026 20:52:34 GMT | Adversarial AI: The Hidden Cybersecurity Threat We Can’t ignore | Nandini Sharma | [Read More](https://medium.com/p/7d27894e409a) |
-| Mon, 09 Mar 2026 20:52:14 GMT | We’re Repeating the Cloud Mistake — But This Time It’s AI Agents | Simon Mestdagh | [Read More](https://medium.com/p/10fcae5c5144) |
