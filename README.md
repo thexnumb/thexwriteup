@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Mar 2026 11:22:54 GMT | The Hacker’s Blueprint: Understanding OSI and TCP/IP Models for Cybersecurity | Rashichoudhary | [Read More](https://medium.com/p/3284898d80ec) |
+| Tue, 10 Mar 2026 11:22:26 GMT | Door Off-Track Repair | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/60f9485f10f5) |
+| Tue, 10 Mar 2026 11:21:15 GMT | High-Level Security Framework for Development Companies | Ihor Klymchuk | [Read More](https://medium.com/p/095bdae70d99) |
+| Tue, 10 Mar 2026 11:18:39 GMT | DLLHijacking Explained to a 10yr 0ld | ghostvirus | [Read More](https://medium.com/p/b66f49fe1c57) |
+| Tue, 10 Mar 2026 11:15:51 GMT | HOW THE WEB WORKS -TryHackMe Module. Room 4: Putting it all together. | Raymond Ebonine | [Read More](https://medium.com/p/00d65c64d459) |
+| Tue, 10 Mar 2026 11:09:29 GMT | Is Antivirus Enough? The Truth About Modern Cyber Threats | Deepa | [Read More](https://medium.com/p/5b9a343c4dee) |
+| Tue, 10 Mar 2026 11:06:39 GMT | The Tokenization Revolution: How Blockchain Is Unlocking Real Estate, Gold, and Art | Ibrahim Dajin | [Read More](https://medium.com/p/44cde686884f) |
+| Tue, 10 Mar 2026 11:04:32 GMT | Importance of Understanding Networking in Cybersecurity | Garima Pandey | [Read More](https://medium.com/p/f8522f87f5b6) |
+| Tue, 10 Mar 2026 11:03:17 GMT | How TikTok Has Become a Key Source of Information for Young People? | Mary Helen | [Read More](https://medium.com/p/b147c0b9e2b1) |
+| Tue, 10 Mar 2026 11:01:01 GMT | Managing Your Data: How to Delete Information from Microsoft Copilot Memory | Meron | [Read More](https://medium.com/p/686e9e70a745) |
+| Tue, 10 Mar 2026 10:54:17 GMT | Walkthrough TryHackMe: Menaklukkan Attacktive Directory | NovanSetiadi | [Read More](https://medium.com/p/0eb40039d548) |
+| Tue, 10 Mar 2026 10:53:54 GMT | APT28 MSHTML Zero-Day Exploitation Campaign | Threatsys Technologies Pvt Ltd | [Read More](https://medium.com/p/b89991c11bbc) |
+| Tue, 10 Mar 2026 10:53:19 GMT | Between Vulnerability and Strength | KREATIVESPUR | [Read More](https://medium.com/p/b58179eb1cc2) |
+| Tue, 10 Mar 2026 10:53:19 GMT | How 24/7 Threat Monitoring for Small Business Strengthens Security with an MSP MDR Solution | Vijilan | [Read More](https://medium.com/p/763a6515e7f0) |
+| Tue, 10 Mar 2026 10:51:04 GMT | Twisted Pair Cable in Computer Networks: Structure, Working Principle, and Real-World Use | Ndu | [Read More](https://medium.com/p/553dc433e5a6) |
+| Tue, 10 Mar 2026 10:45:45 GMT | The IT Industry’s Best Kept Secrets: Which Tech Giants Actually Walk the Talk? | Melvinsteppe | [Read More](https://medium.com/p/3a816d6bc191) |
 | Tue, 10 Mar 2026 10:36:57 GMT | OWASP Top 10: 2021 vs 2025 | KLEAP Institute of Information Security | [Read More](https://medium.com/p/481b17a70181) |
 | Tue, 10 Mar 2026 10:36:00 GMT | Your Data Is Probably Already on the Dark Web. Here’s How to Find Out. | Ajay Yadav | [Read More](https://medium.com/p/51c17bc9b078) |
 | Tue, 10 Mar 2026 10:35:46 GMT | Why Managed SIEM for SMBs and SOC as a Service for SMBs Are Essential for Modern Cybersecurity | Vijilan | [Read More](https://medium.com/p/4bc7ea9b89f4) |
@@ -42,8 +58,11 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Mar 2026 09:01:09 GMT | How I Bypassed OTP Rate Limits and Earned $303 in a Bug Bounty Hunt | Lokesh Soni | [Read More](https://medium.com/p/9e686274e5f4) |
 | Tue, 10 Mar 2026 08:56:55 GMT | 100$ Bug — The Hidden Cost of “Unsigned” Uploads: Exploiting Cloudinary for Denial of Wallet | Zer0Figure | [Read More](https://medium.com/p/a2c0d6c74890) |
 | Tue, 10 Mar 2026 08:56:00 GMT | 38 Researchers Gave AI Agents Real Tools. One Deleted Its Own Mail Server to Keep a Secret. | Tuğhan Belbek | [Read More](https://medium.com/p/979b000bb8db) |
+| Tue, 10 Mar 2026 08:53:48 GMT | Adding a reusable image uploader to Angular Signal Forms | Joep MFL Janssen | [Read More](https://medium.com/p/257acbbd7c85) |
 | Tue, 10 Mar 2026 08:46:25 GMT | 6 eCommerce Trends in 2026 That Are Reshaping Online Store Performance | i95Dev | [Read More](https://medium.com/p/93302119dc4f) |
 | Tue, 10 Mar 2026 08:44:35 GMT | Kubernetes Policy Enforcement Made Simple with Kyverno — Part I | Ramesh | [Read More](https://medium.com/p/7e8407efcd79) |
+| Tue, 10 Mar 2026 08:42:24 GMT | Reflected XSS into HTML context with nothing encoded-PortSwigger | Asjamil | [Read More](https://medium.com/p/746a27f7da5f) |
+| Tue, 10 Mar 2026 08:39:51 GMT | Cyber Security Awareness Training in Australia: A 2026 Buyer’s Guide | Sentrient | [Read More](https://medium.com/p/d1856416c657) |
 | Tue, 10 Mar 2026 08:37:51 GMT | The Quantum Threat to Classic VAPT: Moving Beyond the “Classical” Perimeter | Cynox Security LLP. | [Read More](https://medium.com/p/e808d036b903) |
 | Tue, 10 Mar 2026 08:32:14 GMT | Why Microsoft Entra ID Joined Devices Are Replacing Hybrid Join | Opsole Migrate | [Read More](https://medium.com/p/d2160d5f3da9) |
 | Tue, 10 Mar 2026 08:23:58 GMT | WebStrike — Network Forensics Walkthrough (CyberDefenders) | Supreeth Shirolkar | [Read More](https://medium.com/p/b88f34c7cb5b) |
@@ -81,6 +100,7 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Mar 2026 06:50:20 GMT | How Artificial Intelligence Is Used in Everyday Life | Samparkerz | [Read More](https://medium.com/p/03d0f2cd3e63) |
 | Tue, 10 Mar 2026 06:44:16 GMT | The Fake YONO Update That Hijacked WhatsApp | InsideTheSOC | [Read More](https://medium.com/p/0d29e9b6819b) |
 | Tue, 10 Mar 2026 06:40:32 GMT | 7 AI Tools That Can Help You Make Money Online in 2026 | wizzo torado | [Read More](https://medium.com/p/c8269a3c8170) |
+| Tue, 10 Mar 2026 06:35:59 GMT | Cybersecurity Risks and Protection Strategies for Universities | Rubayadhasanrummon | [Read More](https://medium.com/p/76f90a5101a3) |
 | Tue, 10 Mar 2026 06:35:33 GMT | TryHackMe — Room # 1 — Intro to Offensive Security | Nih4l_Sh3ll | [Read More](https://medium.com/p/f7fed9988ada) |
 | Tue, 10 Mar 2026 06:31:18 GMT | Why you must always define a data type | LeslieAine | [Read More](https://medium.com/p/8ea68881592c) |
 | Tue, 10 Mar 2026 06:27:18 GMT | How to Become an Ethical Hacker (Secret Roadmap) | Neha Sharma | [Read More](https://medium.com/p/6f61a40fc865) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Mar 2026 06:06:00 GMT | Why templates don’t work for cybersecurity policies — the hidden mismatch problem. | Gaurav Shukla | [Read More](https://medium.com/p/4f59f6df3458) |
 | Tue, 10 Mar 2026 06:01:44 GMT | What Is Prompt Injection? The Most Critical AI Vulnerability Explained | Kuboid Secure Layer | [Read More](https://medium.com/p/6137d4ffae38) |
 | Tue, 10 Mar 2026 06:01:37 GMT | FTP Error 530 Login Incorrect: What It Actually Means (And How to Fix It) | Jake Priddy | [Read More](https://medium.com/p/bbab19e5e856) |
-| Tue, 10 Mar 2026 05:59:17 GMT | API TESTING | Abdulnafayk | [Read More](https://medium.com/p/79d8584012d3) |
-| Tue, 10 Mar 2026 05:57:05 GMT | Understanding the OSI model: The 7 layers of networking | unica 02 | [Read More](https://medium.com/p/0dc8dbd37834) |
-| Tue, 10 Mar 2026 05:50:32 GMT | The Boutique Military Trap: Why India’s Atmanirbharta is a House of Cards | Alan Shore | [Read More](https://medium.com/p/5f1a6508a357) |
-| Tue, 10 Mar 2026 05:47:28 GMT | Windows 7 Security Assessment: Exploiting MS17–010 (EternalBlue) with Metasploit | شاہ میر عمران مغل | [Read More](https://medium.com/p/beccb1699475) |
-| Tue, 10 Mar 2026 05:45:07 GMT | Introduction to Machine: Funbox 4 | Akhilkulkarni | [Read More](https://medium.com/p/b7864a80ddfb) |
-| Tue, 10 Mar 2026 05:44:35 GMT | Iranian Hackers Are Inside U.S. Networks - And It’s More Serious Than You Think | Heet Rajesh Gala | [Read More](https://medium.com/p/7131ba434ea5) |
-| Tue, 10 Mar 2026 05:42:51 GMT | ABB’s to APK for Penetration Testing | Bharathkannan | [Read More](https://medium.com/p/965acc55c56b) |
-| Tue, 10 Mar 2026 05:31:34 GMT | I Built a Cybersecurity Framework That Gaslights Hackers (And I’d Do It Again) | Isaac Onyemaechi | [Read More](https://medium.com/p/5accba0610dd) |
-| Tue, 10 Mar 2026 05:31:18 GMT | Single-endpoint Race Conditions | Bash Overflow | [Read More](https://medium.com/p/7a3879c09e79) |
-| Tue, 10 Mar 2026 05:31:00 GMT | Almost No One Talks About This Free Cybersecurity Learning Platform | Shaikh Minhaz | [Read More](https://medium.com/p/e9ff1540d77c) |
-| Tue, 10 Mar 2026 05:16:00 GMT | A Fake Social Security Administration Website and The Automatic File Download | Brandon Council | [Read More](https://medium.com/p/b6734c29eae7) |
-| Tue, 10 Mar 2026 05:08:54 GMT | Corporate — HTB Insane Writeup (Adapted from 2024 Notes) | Waris Damkham | [Read More](https://medium.com/p/27d45a5a9693) |
-| Tue, 10 Mar 2026 05:07:54 GMT | SUDO MAKE ME A SANDWICH — PicoCTF 2026 | SourceFul Space | [Read More](https://medium.com/p/e1bffe1d6b05) |
-| Tue, 10 Mar 2026 05:04:46 GMT | I Got a TCS Prime Offer — Here’s Exactly How It Happened | Pravinthorve | [Read More](https://medium.com/p/b6f4d742c290) |
-| Tue, 10 Mar 2026 04:56:21 GMT | Solving Relationship Conflicts with These Communication Strategies | Vilena Kovaleva | [Read More](https://medium.com/p/409464dbbba2) |
-| Tue, 10 Mar 2026 04:47:28 GMT | Stop Treating .env Files Like a Secret Strategy: Why Varlock Is a Smarter Upgrade | CodeRonin | [Read More](https://medium.com/p/b8c4bfd82d86) |
-| Tue, 10 Mar 2026 04:45:11 GMT | How to detect hidden spy apps on your phone | Techwizs | [Read More](https://medium.com/p/8d1f0cf7d500) |
-| Tue, 10 Mar 2026 04:44:42 GMT | ,  ,   , … | . | [Read More](https://medium.com/p/e4c772c8cf49) |
-| Tue, 10 Mar 2026 04:41:20 GMT | Differences Between Ethical Hacking and Cyber Security | Shahana Sherin | [Read More](https://medium.com/p/78a85c9911f2) |
-| Tue, 10 Mar 2026 04:39:52 GMT | Importance of App Security in Mobile Applications | James Andersonuk | [Read More](https://medium.com/p/24f6b2bee021) |
