@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Mar 2026 19:26:47 GMT | Lateral Move via MSSQL Linked Servers — Now with actual commands — Part II | DuckWrites | [Read More](https://medium.com/p/af2b26f44fb2) |
+| Tue, 10 Mar 2026 19:23:53 GMT | How To Explain A Cyber Incident To Executives In 60 Seconds | Cody Cooper | [Read More](https://medium.com/p/41896075fcab) |
+| Tue, 10 Mar 2026 19:22:25 GMT | OWASP Top 10 2025: Application Design Flaws — My Hands-On Lab Walkthrough | Cahal  Agarwalla | [Read More](https://medium.com/p/7d4521fbdc20) |
+| Tue, 10 Mar 2026 19:20:15 GMT | Why Your Login Screen Is Probably Vulnerable | Akoredealokan | [Read More](https://medium.com/p/1b918c233c63) |
+| Tue, 10 Mar 2026 19:16:28 GMT | Active Directory Basic Enumeration -TryHackMe Walkthrough | Luqman | [Read More](https://medium.com/p/55fa0cc855a8) |
+| Tue, 10 Mar 2026 19:08:28 GMT | NetExec Cheat Sheet for Red-Teamer | Dhruv | [Read More](https://medium.com/p/47a00e36871c) |
+| Tue, 10 Mar 2026 19:02:55 GMT | Understanding Web Application Logs for Security Investigation | CipherX9F Security | [Read More](https://medium.com/p/465fe4cb109f) |
+| Tue, 10 Mar 2026 19:02:11 GMT | You Click Here, They Win | O. J. Okpabi | [Read More](https://medium.com/p/005e442107d3) |
+| Tue, 10 Mar 2026 19:01:01 GMT | How to Enable MFA in AWS | Rhea Gupta | [Read More](https://medium.com/p/de9d23bb9a2b) |
+| Tue, 10 Mar 2026 19:00:42 GMT | Homelab v1.1 - Security and Observability | Aram Haroyan | [Read More](https://medium.com/p/66d4977242f3) |
+| Tue, 10 Mar 2026 18:58:49 GMT | Understanding the Best Darkweb Search Engines and How They Work | Tor BBB | [Read More](https://medium.com/p/b0b5815bc112) |
+| Tue, 10 Mar 2026 18:54:09 GMT | Full Account Takeover via Email Confirmation Misconfiguration | Abhay go | [Read More](https://medium.com/p/9403fa17ba89) |
+| Tue, 10 Mar 2026 18:41:34 GMT | Enhancing Officer Safety with Innovative Seating | laguna3p | [Read More](https://medium.com/p/9626f8ae2b21) |
 | Tue, 10 Mar 2026 18:40:01 GMT | I Ran an AI Agent Against My Own Network. Here’s What It Did That I Couldn’t Stop. | Muhammad Haider Tallal | [Read More](https://medium.com/p/907e647562ed) |
 | Tue, 10 Mar 2026 18:35:42 GMT | Coding like Tony Stark: The Stark Strategy for Web Security | Navaneethan Bhaskaran | [Read More](https://medium.com/p/a68b4684c5b7) |
 | Tue, 10 Mar 2026 18:30:12 GMT | Phishing Email Analysis SOC Analyst Guide Part-1 Introuction. | Vaibhavrajsahu | [Read More](https://medium.com/p/2ece982c4c77) |
@@ -100,16 +113,3 @@ Module 2 : Attacks, Concepts and Techniques— Part 3: Security… | Favour 
 | Tue, 10 Mar 2026 14:10:02 GMT | How Attackers Discover Hidden Subdomains at Internet Scale | Fateyaly | [Read More](https://medium.com/p/58b4fe078497) |
 | Tue, 10 Mar 2026 14:08:00 GMT | Five Flags, Zero Exploits: A Web Reconnaissance Walkthrough - eJPT Part 1.1 | Shoaib Bin Rashid | [Read More](https://medium.com/p/a4550f297703) |
 | Tue, 10 Mar 2026 14:05:27 GMT | The Risks of Emailing Credit Card Data when You Run a Business | Emory French | [Read More](https://medium.com/p/3dba8f0453c1) |
-| Tue, 10 Mar 2026 14:01:47 GMT | Your Industry Has Compliance Requirements. Your IT Provider Should Too. | Always On | [Read More](https://medium.com/p/84f47036cc28) |
-| Tue, 10 Mar 2026 14:01:33 GMT | Is Your Business One Power Outage Away From Disaster? | Always On | [Read More](https://medium.com/p/1d923fbcfb60) |
-| Tue, 10 Mar 2026 14:01:26 GMT | “Bug Bounty Bootcamp #28: Boolean-Based Blind SQL Injection — Extracting Data One True/False at a… | Aman Sharma | [Read More](https://medium.com/p/abe69e3de702) |
-| Tue, 10 Mar 2026 14:01:07 GMT | The SSL Pinning Matrix: When to Patch, When to Hook, and Why it Matters | Thomas Youssef | [Read More](https://medium.com/p/701f02beee06) |
-| Tue, 10 Mar 2026 14:01:02 GMT | Cyber Briefing: 2026.03.10 | CyberMaterial | [Read More](https://medium.com/p/86e958e62066) |
-| Tue, 10 Mar 2026 14:01:02 GMT | The Privacy Settings That Actually Matter | Tracy | [Read More](https://medium.com/p/98f78e1c3457) |
-| Tue, 10 Mar 2026 14:00:59 GMT | Boomers, It’s Time to Pass the Torch | John Nyborg | [Read More](https://medium.com/p/beadb354d7ec) |
-| Tue, 10 Mar 2026 13:59:31 GMT | How to Start a Career in Cybersecurity (The Proven Way): Build a Future Powered by AI — Not… | Ishant Gupta | [Read More](https://medium.com/p/fd9c2624f00e) |
-| Tue, 10 Mar 2026 13:57:40 GMT | The OWASP Top 10 for LLMs: What Every AI Engineer Needs to Know Before Shipping | Ram Kumar | [Read More](https://medium.com/p/af4e8b35b7db) |
-| Tue, 10 Mar 2026 13:52:46 GMT | Breaking Down CVE-2023–43208: Mirth Connect Unauthenticated RCE | Mkirahmet | [Read More](https://medium.com/p/408600a24542) |
-| Tue, 10 Mar 2026 13:46:50 GMT | How I Found Two Critical Vulnerabilities in a Desktop App Exposing Internal Systems and User PII | Abdelrhman Amin | [Read More](https://medium.com/p/854cf3532e42) |
-| Tue, 10 Mar 2026 13:45:04 GMT | Will humans stop with AI? | Manvitha Siri Phani Y | [Read More](https://medium.com/p/8fe1fc309bb1) |
-| Tue, 10 Mar 2026 13:37:49 GMT | How Digital KYC Platforms Are Transforming Financial Institutions | Pratik Chavan | [Read More](https://medium.com/p/cca0a9bc3a0d) |
