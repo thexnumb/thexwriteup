@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Mar 2026 20:20:27 GMT | Connecting Claude to Kali using MCP (Model Context Protocol) | Gurunathan R | [Read More](https://medium.com/p/2cc0b995eadb) |
+| Tue, 10 Mar 2026 20:12:54 GMT | You Will Never Reset Your Password Again | Anto Semeraro | [Read More](https://medium.com/p/3ec583795fed) |
+| Tue, 10 Mar 2026 20:06:43 GMT | They Collect Everything But Understand Almost Nothing | O. J. Okpabi | [Read More](https://medium.com/p/6ff00da86e99) |
+| Tue, 10 Mar 2026 20:05:58 GMT | So You Landed Your First Cybersecurity Internship — Now What? | Mendez | [Read More](https://medium.com/p/260759cba1ce) |
+| Tue, 10 Mar 2026 20:02:35 GMT | The Missing Link in Cybersecurity: Strategy: Systems Security Engineering in Defence Procurement | Peter Hillier/Halton | [Read More](https://medium.com/p/e916c1a8cc67) |
+| Tue, 10 Mar 2026 20:01:08 GMT | I Was Sent a “Test Project” on LinkedIn. It Was a Trojan. | Stanislav Obrazcoff | [Read More](https://medium.com/p/2ad9ae94da4a) |
+| Tue, 10 Mar 2026 19:55:56 GMT | Why Iran’s Deterrence Strategy Still Works | Gökçen Kunukcu | [Read More](https://medium.com/p/a7b6d858c593) |
+| Tue, 10 Mar 2026 19:55:49 GMT | Identifying Bug Bites: Visual Guide to 10 Common Insect Bites | Azain Imtiaz | [Read More](https://medium.com/p/1920f468f5db) |
+| Tue, 10 Mar 2026 19:51:47 GMT | Zero-Click Account Takeover via Organization Invite Abuse | Abhay go | [Read More](https://medium.com/p/87751225f950) |
+| Tue, 10 Mar 2026 19:42:42 GMT | CVE-2026–31900: How a Permissive Regex Led to RCE in psf/black’s GitHub Action | Tommaso Bona | [Read More](https://medium.com/p/50800bafafba) |
 | Tue, 10 Mar 2026 19:26:47 GMT | Lateral Move via MSSQL Linked Servers — Now with actual commands — Part II | DuckWrites | [Read More](https://medium.com/p/af2b26f44fb2) |
 | Tue, 10 Mar 2026 19:23:53 GMT | How To Explain A Cyber Incident To Executives In 60 Seconds | Cody Cooper | [Read More](https://medium.com/p/41896075fcab) |
 | Tue, 10 Mar 2026 19:22:25 GMT | OWASP Top 10 2025: Application Design Flaws — My Hands-On Lab Walkthrough | Cahal  Agarwalla | [Read More](https://medium.com/p/7d4521fbdc20) |
@@ -103,13 +113,3 @@ Module 2 : Attacks, Concepts and Techniques— Part 3: Security… | Favour 
 | Tue, 10 Mar 2026 14:41:28 GMT | Expertly Designed Vault Solutions for Pampanga Enterprises | Keyshrimp | [Read More](https://medium.com/p/921caa71bbaa) |
 | Tue, 10 Mar 2026 14:37:46 GMT | How AI Is Redefining Missile Warfare? | Hayanan | [Read More](https://medium.com/p/a809963eb1f9) |
 | Tue, 10 Mar 2026 14:37:40 GMT | Why FilSafe Enterprises Is One of the Best Security Solutions in Pampanga | Eldrin Josh Pineda | [Read More](https://medium.com/p/c60b2f5147cc) |
-| Tue, 10 Mar 2026 14:37:13 GMT | EKS Best Practices — Security Design | Bhanu Reddy | [Read More](https://medium.com/p/62d461676219) |
-| Tue, 10 Mar 2026 14:32:25 GMT | Advanced Property Protection with FilSafe Security Solutions | Keyshrimp | [Read More](https://medium.com/p/bcf5f32bf760) |
-| Tue, 10 Mar 2026 14:32:09 GMT | From Isolation to Innovation: Why Age is No Barrier in the Digital Era | Arpita | [Read More](https://medium.com/p/349bca9f4da8) |
-| Tue, 10 Mar 2026 14:24:35 GMT | The Simplicity Tax: How trupeer buries hard problems so fortune 500 teams never have to think? | Abhinav Jain | [Read More](https://medium.com/p/9bb270a164fb) |
-| Tue, 10 Mar 2026 14:22:54 GMT | How to Secure Your Next.js Application: Middleware, Security Headers, and Best Practices | Boluwatife Ajose | [Read More](https://medium.com/p/2235ff2bbb77) |
-| Tue, 10 Mar 2026 14:22:02 GMT | Nmap Scanning Cheat Sheet in Deep Level | Mr Sumit Pal | [Read More](https://medium.com/p/efe72af42ea6) |
-| Tue, 10 Mar 2026 14:11:30 GMT | Beyond the GUI: Why Bash is a Security Analyst’s Secret Weapon | Denise Sophy | [Read More](https://medium.com/p/070b6001e58f) |
-| Tue, 10 Mar 2026 14:10:02 GMT | How Attackers Discover Hidden Subdomains at Internet Scale | Fateyaly | [Read More](https://medium.com/p/58b4fe078497) |
-| Tue, 10 Mar 2026 14:08:00 GMT | Five Flags, Zero Exploits: A Web Reconnaissance Walkthrough - eJPT Part 1.1 | Shoaib Bin Rashid | [Read More](https://medium.com/p/a4550f297703) |
-| Tue, 10 Mar 2026 14:05:27 GMT | The Risks of Emailing Credit Card Data when You Run a Business | Emory French | [Read More](https://medium.com/p/3dba8f0453c1) |
