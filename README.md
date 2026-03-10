@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Mar 2026 04:17:55 GMT | The Quiet Loneliness of Leadership | Tom Kehner | [Read More](https://medium.com/p/82f85412febe) |
+| Tue, 10 Mar 2026 04:08:42 GMT | Your WiFi Router Can Now See You Through Walls. Someone Just Open-Sourced It. | Algo Insights | [Read More](https://medium.com/p/76c265fcb6c7) |
+| Tue, 10 Mar 2026 04:03:24 GMT | Cybersecurity: Protecting the Digital World (Without Wearing a Cape) | Benoitedemadigbli | [Read More](https://medium.com/p/0bd14b180035) |
+| Tue, 10 Mar 2026 03:58:56 GMT | [Booking.com] When a Loyalty Program Makes Customers Less Loyal | Vera Jean | [Read More](https://medium.com/p/df266b9336a5) |
+| Tue, 10 Mar 2026 03:56:00 GMT | The “Inspect Element” of Web3: Why Private Variables Are a Lie ️‍♂️ | Tabrez Mukadam | [Read More](https://medium.com/p/c68e8e5ccd2f) |
+| Tue, 10 Mar 2026 03:55:20 GMT | SQL For Red Teamers | M. John | [Read More](https://medium.com/p/8fc617183216) |
+| Tue, 10 Mar 2026 03:40:15 GMT | What Is a Next-Generation Firewall (NGFW) and Why Businesses Need One | Sistro Networks | [Read More](https://medium.com/p/e4f7c2581274) |
+| Tue, 10 Mar 2026 03:30:28 GMT | Malicious Document Analysis: Tools, Workflow, and What I Learned | Jorge Ruiz | [Read More](https://medium.com/p/2870f672584c) |
+| Tue, 10 Mar 2026 03:27:12 GMT | Hackers Aren’t Always the Bad Guys: A Deep Dive into Ethical Hacking. | Eraser | [Read More](https://medium.com/p/97069c63d777) |
+| Tue, 10 Mar 2026 03:23:29 GMT | Your App Might Be Secure… But What About the Pipeline That Ships It? | Muhammed Asfan - Cybersecurity Researcher | [Read More](https://medium.com/p/8ca54db0b713) |
+| Tue, 10 Mar 2026 02:59:36 GMT | Why SOC Analysts Are Important for Organizations and How They Help Reduce Cyber Attacks | Antonyrajvedamanickam | [Read More](https://medium.com/p/303efd287fb8) |
+| Tue, 10 Mar 2026 02:47:30 GMT | A Practical Web Pentesting CTF Challenge — Step-by-Step Walkthrough | cryptoshant | [Read More](https://medium.com/p/2c2bc2d63ef7) |
+| Tue, 10 Mar 2026 02:41:48 GMT | Why Cybersecurity Will Be One of India’s Most Important Careers in the Next Decade | Ashishsinghu | [Read More](https://medium.com/p/18ec19309ee7) |
+| Tue, 10 Mar 2026 02:37:17 GMT | Log Analysis with SIEM (THM) Tryhackme WriteUp | Lawvye | [Read More](https://medium.com/p/924263adfddc) |
+| Tue, 10 Mar 2026 02:26:23 GMT | What Happens to Your Data After a Data Breach | Armansyah hakim | [Read More](https://medium.com/p/b35ad86731d0) |
+| Tue, 10 Mar 2026 02:06:27 GMT | Finding the Best IT Service Company Near Me for Reliable Business Support | Siddiquitauseef | [Read More](https://medium.com/p/01f442afe72e) |
 | Tue, 10 Mar 2026 01:46:28 GMT | Top 7 OSINT Tools REVEALED for 2026 | Shahzaib | [Read More](https://medium.com/p/a58860c74f66) |
 | Tue, 10 Mar 2026 01:45:19 GMT | Asymmetric Encryption | Aj | [Read More](https://medium.com/p/7c837c5280b8) |
 | Tue, 10 Mar 2026 01:32:45 GMT | Is This Text Message a Scam? A Quick Guide | Ken | [Read More](https://medium.com/p/8c17ec110329) |
@@ -98,19 +114,3 @@ Part 2: Methods of Infiltration Used in Cyber Attacks | Favour Ugochi Ogbonnaya 
 | Mon, 09 Mar 2026 18:02:18 GMT | The Governance Problem Behind AI Systems | Priyansh Singh | [Read More](https://medium.com/p/7c8584ebb95c) |
 | Mon, 09 Mar 2026 17:53:56 GMT | How I Found the InnerTube Identity Bridge: The Methodology | Jawad Momani | [Read More](https://medium.com/p/0757e3aebb75) |
 | Mon, 09 Mar 2026 17:52:14 GMT | Day 19: I edited someone’s profile without their permission! | Issan | [Read More](https://medium.com/p/b0fb8d60706f) |
-| Mon, 09 Mar 2026 17:45:35 GMT | Your SBOM Data Has Been Gathering Dust - Until Now | Brett Crawley | [Read More](https://medium.com/p/3956a6bbe81a) |
-| Mon, 09 Mar 2026 17:43:35 GMT | The Stacking Principle in Machine Learning: Base Learners, Meta-Learners, and the Art of Learning… | Lumina | [Read More](https://medium.com/p/524a085f3255) |
-| Mon, 09 Mar 2026 17:40:17 GMT | Spammers Are Bad. Are Telephone Spammers Worse? | BillfordX | [Read More](https://medium.com/p/0f9289f1ab3f) |
-| Mon, 09 Mar 2026 17:38:31 GMT | The MCP Security Guide Nobody Wrote — Until Someone Got Hacked | Ayesha Mughal | [Read More](https://medium.com/p/53e3b23f6ac0) |
-| Mon, 09 Mar 2026 17:35:37 GMT | Secure Patterns para Agentes LLM: como o padrão Action-Selector protege sua aplicação de prompt… | Guilp03 | [Read More](https://medium.com/p/340c5f200d5c) |
-| Mon, 09 Mar 2026 17:35:10 GMT | Why the Most Technically Skilled Hackers Are Not the Ones Earning the Highest Bug Bounty Payouts | R.H Rizvi | [Read More](https://medium.com/p/2b5021ace7f3) |
-| Mon, 09 Mar 2026 17:34:58 GMT | The Proxy Tool Paradox: Why the Most Powerful Feature in Web Security Testing Is the One Most… | R.H Rizvi | [Read More](https://medium.com/p/98e35fbf7afc) |
-| Mon, 09 Mar 2026 17:30:24 GMT | The Strange Underground Economy Living in Your Terminal — Homebrew | Adarsha Karki | [Read More](https://medium.com/p/9d155171090d) |
-| Mon, 09 Mar 2026 17:28:55 GMT | Smart Contract & Web 3.0 Hacking | Axoloth | [Read More](https://medium.com/p/b4e3b024defb) |
-| Mon, 09 Mar 2026 17:25:20 GMT | From Detection to Action: Redefining Cyber Hygiene for UK Businesses | Farrukhshaheen | [Read More](https://medium.com/p/24ceb9cbea23) |
-| Mon, 09 Mar 2026 17:23:31 GMT | Machine-Speed Threat Hunting: NDR’s Role in the AI Security Era | NetWitness | [Read More](https://medium.com/p/980937d8e3c7) |
-| Mon, 09 Mar 2026 17:20:54 GMT | How I Built a MITRE ATT&CK Threat Mapping Dashboard in Python | Sanketh Subhas | [Read More](https://medium.com/p/e2fc356e43b4) |
-| Mon, 09 Mar 2026 17:20:47 GMT | The Foundation of Data Security in Mobile Applications: CIA Triad | Yarem Malta | [Read More](https://medium.com/p/73aa41da3dfd) |
-| Mon, 09 Mar 2026 17:20:18 GMT | Devvortex (HTB): A Practical Walkthrough from Enumeration to Privilege Escalation | Waris Damkham | [Read More](https://medium.com/p/807cce6e34b7) |
-| Mon, 09 Mar 2026 17:11:45 GMT | Resolving Wazuh FIM “Maximum File Limit Reached” — Why /tmp Is Killing Your Agent | Neetrox | [Read More](https://medium.com/p/6033b6d4a08f) |
-| Mon, 09 Mar 2026 17:07:02 GMT | Your AI Meeting Assistant Might Be the Biggest Security Risk in Your Office | Len Noe | [Read More](https://medium.com/p/4cf7c2f63edf) |
