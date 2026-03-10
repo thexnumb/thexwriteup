@@ -12,7 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Mar 2026 10:36:57 GMT | OWASP Top 10: 2021 vs 2025 | KLEAP Institute of Information Security | [Read More](https://medium.com/p/481b17a70181) |
+| Tue, 10 Mar 2026 10:36:00 GMT | Your Data Is Probably Already on the Dark Web. Here’s How to Find Out. | Ajay Yadav | [Read More](https://medium.com/p/51c17bc9b078) |
+| Tue, 10 Mar 2026 10:35:46 GMT | Why Managed SIEM for SMBs and SOC as a Service for SMBs Are Essential for Modern Cybersecurity | Vijilan | [Read More](https://medium.com/p/4bc7ea9b89f4) |
+| Tue, 10 Mar 2026 10:34:45 GMT | The Practical Linux Networking Playbook | Vedant Domadiya | [Read More](https://medium.com/p/ad5b7d118dc3) |
+| Tue, 10 Mar 2026 10:34:26 GMT | ISO 27001 Internal Audit | Digital Duffer | [Read More](https://medium.com/p/132c9c583e5d) |
+| Tue, 10 Mar 2026 10:28:50 GMT | TOCTOU Race vulnerability in Refresh Tokens | Anton Caballes | [Read More](https://medium.com/p/12700783a368) |
+| Tue, 10 Mar 2026 10:27:18 GMT | 5 Signs You’re About to Get Scammed (What Scammers Don’t Want You to Know) | Decode Help | [Read More](https://medium.com/p/0e0da3cfdb31) |
+| Tue, 10 Mar 2026 10:26:47 GMT | Micro-Breaks: The Tiny Habit Transforming Work | RASHID KHAN | [Read More](https://medium.com/p/3373e6645cbd) |
+| Tue, 10 Mar 2026 10:26:14 GMT | Top-Notch End USer Support Services and Their Techniques | Gowthammathiew | [Read More](https://medium.com/p/abef6cae877e) |
+| Tue, 10 Mar 2026 10:22:57 GMT | Routine Checks — Forensics CTF challenge. | go3-14 | [Read More](https://medium.com/p/b3f62625d279) |
+| Tue, 10 Mar 2026 10:21:36 GMT | Types of Guided Transmission Media: Twisted Pair, Coaxial, and Fiber Optic Explained Clearly | Ndu | [Read More](https://medium.com/p/0e34d87aed3c) |
+| Tue, 10 Mar 2026 09:59:23 GMT | I Thought I Found 259 Exposed Systems in Bengaluru… I Was Wrong | Russel Dsouza | [Read More](https://medium.com/p/39811d88d213) |
+| Tue, 10 Mar 2026 09:59:12 GMT | Security Challenges in Metaverse Platforms Explained | Soudik Sinha | [Read More](https://medium.com/p/1e465220e344) |
+| Tue, 10 Mar 2026 09:56:00 GMT | Scattered Spider: Reading the Chain, A SOC Analyst’s Breakdown | Oluwatosin Ogunjimi | [Read More](https://medium.com/p/10b3a1909c10) |
 | Tue, 10 Mar 2026 09:45:44 GMT | Rethinking OpenClaw Security Boundaries: When AI Agent Safety Rules Live in Prompts, Not Systems | JIN | [Read More](https://medium.com/p/479381b89a95) |
+| Tue, 10 Mar 2026 09:41:38 GMT | VulnNet: Roasted ( THM Writeup) | Nikhil CP | [Read More](https://medium.com/p/d04f105a396c) |
 | Tue, 10 Mar 2026 09:31:07 GMT | Shadow AI & MCP → Security Risk? | Nehad | [Read More](https://medium.com/p/6458caa7ea7e) |
 | Tue, 10 Mar 2026 09:28:32 GMT | CodeVinci CTF 2026 — social engineering challenges write-up | Ahmed Yasser | [Read More](https://medium.com/p/a085de0d2484) |
 | Tue, 10 Mar 2026 09:24:06 GMT | Next-gen supply chain security with HashiCorp Vault and Tekton Chains | David Cañadillas | [Read More](https://medium.com/p/8e1cd95ab94f) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Mar 2026 04:44:42 GMT | ,  ,   , … | . | [Read More](https://medium.com/p/e4c772c8cf49) |
 | Tue, 10 Mar 2026 04:41:20 GMT | Differences Between Ethical Hacking and Cyber Security | Shahana Sherin | [Read More](https://medium.com/p/78a85c9911f2) |
 | Tue, 10 Mar 2026 04:39:52 GMT | Importance of App Security in Mobile Applications | James Andersonuk | [Read More](https://medium.com/p/24f6b2bee021) |
-| Tue, 10 Mar 2026 04:36:14 GMT | B.Tech in Cyber Security: A Promising Career Path After Plus Two | Chinmaya Vishwa Vidyapeeth | [Read More](https://medium.com/p/5c5558e8c7bd) |
-| Tue, 10 Mar 2026 04:31:55 GMT | Journey to My First Bounty! | Prakash darji | [Read More](https://medium.com/p/72175d620b10) |
-| Tue, 10 Mar 2026 04:26:22 GMT | C0ldBox — VulnHub Writeup | Abacusready | [Read More](https://medium.com/p/b69363665cf2) |
-| Tue, 10 Mar 2026 04:24:15 GMT | APIs: The Invisible Technology Behind Almost Everything You Do Online | Arpine Keyan | [Read More](https://medium.com/p/976abf3c5042) |
-| Tue, 10 Mar 2026 04:22:36 GMT | Why I Get Paid to Break Things While Others Build Them | Eraser | [Read More](https://medium.com/p/011aa88180f6) |
-| Tue, 10 Mar 2026 04:18:59 GMT | Multi-Factor Authentication (MFA) Integration for Backend User Flows | Silversky Technology | [Read More](https://medium.com/p/30f3a2e1dc51) |
-| Tue, 10 Mar 2026 04:17:55 GMT | The Quiet Loneliness of Leadership | Tom Kehner | [Read More](https://medium.com/p/82f85412febe) |
-| Tue, 10 Mar 2026 04:16:01 GMT | ☁️ ️ Your Azure Bill is Skyrocketing?  You Might Be Under Attack | Krishna Kumar | [Read More](https://medium.com/p/30056ffcf7a8) |
-| Tue, 10 Mar 2026 04:08:42 GMT | Your WiFi Router Can Now See You Through Walls. Someone Just Open-Sourced It. | Algo Insights | [Read More](https://medium.com/p/76c265fcb6c7) |
-| Tue, 10 Mar 2026 04:03:24 GMT | Cybersecurity: Protecting the Digital World (Without Wearing a Cape) | Benoitedemadigbli | [Read More](https://medium.com/p/0bd14b180035) |
-| Tue, 10 Mar 2026 03:58:56 GMT | [Booking.com] When a Loyalty Program Makes Customers Less Loyal | Vera Jean | [Read More](https://medium.com/p/df266b9336a5) |
-| Tue, 10 Mar 2026 03:56:00 GMT | The “Inspect Element” of Web3: Why Private Variables Are a Lie ️‍♂️ | Tabrez Mukadam | [Read More](https://medium.com/p/c68e8e5ccd2f) |
-| Tue, 10 Mar 2026 03:55:20 GMT | SQL For Red Teamers | M. John | [Read More](https://medium.com/p/8fc617183216) |
-| Tue, 10 Mar 2026 03:40:15 GMT | What Is a Next-Generation Firewall (NGFW) and Why Businesses Need One | Sistro Networks | [Read More](https://medium.com/p/e4f7c2581274) |
-| Tue, 10 Mar 2026 03:30:28 GMT | Malicious Document Analysis: Tools, Workflow, and What I Learned | Jorge Ruiz | [Read More](https://medium.com/p/2870f672584c) |
