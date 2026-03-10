@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Mar 2026 23:14:25 GMT | Full Agenda Now Available for “CVE/FIRST VulnCon 2026” on April 13–16, 2026! | CVE Program Blog | [Read More](https://medium.com/p/dbd0dd6cc705) |
+| Tue, 10 Mar 2026 22:59:12 GMT | Lab: SQL injection UNION attack, retrieving data from other tables | Songül Kızılay Özügürler | [Read More](https://medium.com/p/d984afee2171) |
+| Tue, 10 Mar 2026 22:51:00 GMT | Information Gathering in Web Pentesting — Solving INE “Information Gathering CTF 1” | Amitishacked | [Read More](https://medium.com/p/4cd64f2ca99b) |
+| Tue, 10 Mar 2026 22:45:09 GMT | https://www.linkedin.com/posts/pablo-octavio-feria-hern%C3%A1ndez-362293220_executive-summary-nist-o | pablo octavio feria hernandez | [Read More](https://medium.com/p/f5930d6e3edd) |
+| Tue, 10 Mar 2026 22:41:50 GMT | The Global Advanced Persistent Threat (APT) Landscape: Strategic Evolution, Taxonomic Mapping, and… | Mr_MalMan | [Read More](https://medium.com/p/b8bea510855c) |
+| Tue, 10 Mar 2026 22:40:25 GMT | Threat Hunting Lab Part 3: Lateral Movement | Andreas Maroulis | [Read More](https://medium.com/p/f747d585a366) |
+| Tue, 10 Mar 2026 22:38:18 GMT | From Zero to Domain Admin: Compromising Active Directory in Attacktive Directory (TryHackMe) | razzee | [Read More](https://medium.com/p/c468497be894) |
+| Tue, 10 Mar 2026 22:32:14 GMT | Token-2022 Is Not SPL Token: A Security Checklist From Real Audits | Mohamed Abuyounes | [Read More](https://medium.com/p/2f988c8ec23c) |
+| Tue, 10 Mar 2026 22:31:06 GMT | HTB Arctic: Remote Command Execution to JuicyPotato Privesc | Onurcan Genç | [Read More](https://medium.com/p/da2d61232547) |
+| Tue, 10 Mar 2026 22:24:43 GMT | PicoCTF 2026: Credential Stuffing | Ammar yasser El-sayed | [Read More](https://medium.com/p/0a0a8bf3765d) |
+| Tue, 10 Mar 2026 22:23:24 GMT | Lab: Reflected XSS into HTML context with most tags and attributes blocked | mayhack | [Read More](https://medium.com/p/ff3f80903598) |
+| Tue, 10 Mar 2026 22:20:05 GMT | Advanced XPath Injection Guide (Authentication Bypass → Data Exfiltration → Blind Extraction) | Raman Gautam - rghx | [Read More](https://medium.com/p/7a0eab4b7154) |
 | Tue, 10 Mar 2026 22:16:36 GMT | I Switched Sides: What It’s Like Investigating an Attack Instead of Running One | Robert Perez | [Read More](https://medium.com/p/3afa29c1f556) |
 | Tue, 10 Mar 2026 22:14:46 GMT | Microsoft Sentinel Threat Detection | Navraj Gill | [Read More](https://medium.com/p/59f1c0494733) |
 | Tue, 10 Mar 2026 22:10:20 GMT | Bulletproof Hosting: Explorations of a curious mind | Matt | [Read More](https://medium.com/p/16e122ee3e66) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Mar 2026 17:04:36 GMT | What I’m Learning About Instagram Algorithms as a Digital Marketing Student | Blesson Charles | [Read More](https://medium.com/p/bd0736e7acf9) |
 | Tue, 10 Mar 2026 17:03:46 GMT | Introduction to Cyber Security | J.Dishalan | [Read More](https://medium.com/p/39dd39a8bb96) |
 | Tue, 10 Mar 2026 16:48:25 GMT | HTB Academy — Web Fuzzing with ffuf: Full Walkthrough | Zeyad Mostafa | [Read More](https://medium.com/p/c7fdc469e1af) |
-| Tue, 10 Mar 2026 16:46:00 GMT | Zero-Trust on OKE: Automated Identity Governance for Oracle Kubernetes Engine | Pavan Madduri | [Read More](https://medium.com/p/a2e4ceec4c03) |
-| Tue, 10 Mar 2026 16:44:17 GMT | I Turned My Recon Cheat Sheets Into a Bash Script | MhndFi | [Read More](https://medium.com/p/2fdca4046491) |
-| Tue, 10 Mar 2026 16:36:00 GMT | Attacking Docker Desktop via MCP: From Theory to PoC | Amine Raji | [Read More](https://medium.com/p/8adc888dc10b) |
-| Tue, 10 Mar 2026 16:35:22 GMT | Hackers Aren’t Smarter Than the Systems Protecting Us | Rashad Edwards | [Read More](https://medium.com/p/a1958758d2c9) |
-| Tue, 10 Mar 2026 16:25:41 GMT | The Two-Step Secret Handshake: Solving the Chicken-and-Egg Problem in Multi-Tenant API Onboarding | Karan Gupta | [Read More](https://medium.com/p/b60d0f22784d) |
-| Tue, 10 Mar 2026 16:25:23 GMT | The Emperor Has No Firewall | Joshua Moses | [Read More](https://medium.com/p/3a7e21520cfa) |
-| Tue, 10 Mar 2026 16:25:13 GMT | OSI Model: Explained through a Cricket scoreboard | Saksham Joshi | [Read More](https://medium.com/p/aff8f709f849) |
-| Tue, 10 Mar 2026 16:25:08 GMT | Hackazon Pentest Report - By Elmehdi LAASSIRI | Elmehdi Laassiri | [Read More](https://medium.com/p/2b39d445aff7) |
-| Tue, 10 Mar 2026 16:23:06 GMT | Phase 2: n8n (The Workflow Orchestrator) | Root | [Read More](https://medium.com/p/e730afc77573) |
-| Tue, 10 Mar 2026 16:18:13 GMT | Geolocation 2026: How OSINT, AI, and satellite forensics are rewriting the map and NiamonX OSINT… | NiamonX LTD | [Read More](https://medium.com/p/0bc30fc49746) |
-| Tue, 10 Mar 2026 16:18:04 GMT | Phase 1: Wazuh (The Detection Engine) | Root | [Read More](https://medium.com/p/08a7e8d8c6de) |
-| Tue, 10 Mar 2026 16:10:31 GMT | Agent-callable: skip the boring approvals in Claude Code | Guillaume Rams | [Read More](https://medium.com/p/2ddb21dc2afb) |
