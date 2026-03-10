@@ -12,7 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Mar 2026 17:48:54 GMT | Conducting a Security Audit: A Beginner Cybersecurity Case Study | Jayesh | [Read More](https://medium.com/p/491c1a3cb07c) |
+| Tue, 10 Mar 2026 17:43:55 GMT | Your Convenience Is Their Business Model | Don Lupo | [Read More](https://medium.com/p/e96cc1194652) |
+| Tue, 10 Mar 2026 17:43:25 GMT | How Operating Systems Actually Work | Aariz Khan | [Read More](https://medium.com/p/4291cb523954) |
+| Tue, 10 Mar 2026 17:42:44 GMT | Understanding JWT: The Basics of JSON Web Tokens | Szigecsán Dávid | [Read More](https://medium.com/p/44189fcd51ec) |
+| Tue, 10 Mar 2026 17:37:39 GMT | US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies | IT_Engineer | [Read More](https://medium.com/p/849f55d3c8d9) |
+| Tue, 10 Mar 2026 17:28:57 GMT | SSL & Certificate Management Across All Middleware Technologies | Vidhi Jayeswal | [Read More](https://medium.com/p/39e1caa59c92) |
+| Tue, 10 Mar 2026 17:24:30 GMT | The Log4Shell Nightmare: How a Tiny Piece of Code Broke the Internet | Krishna Kumar | [Read More](https://medium.com/p/32828e337858) |
+| Tue, 10 Mar 2026 17:23:59 GMT | Weak Password Reset Token leading to Account Takeover | Dipesh Paul | [Read More](https://medium.com/p/1a162d651acf) |
+| Tue, 10 Mar 2026 17:17:13 GMT | Beware! Scammers Are Using AI to Scam You | Heemeng Foo | [Read More](https://medium.com/p/b945a5623062) |
+| Tue, 10 Mar 2026 17:16:00 GMT | Why Security Should Be Part of Every Business Security Strategy | Lucas Barett | [Read More](https://medium.com/p/f2ecab3ce142) |
+| Tue, 10 Mar 2026 17:11:00 GMT | Microsoft OAuth Phishing Attack 2026: How Hackers Are Hijacking Government Accounts & How to Stop… | Temma | [Read More](https://medium.com/p/31ff5d07a8e5) |
+| Tue, 10 Mar 2026 17:09:08 GMT | The OpenClaw Security Guide: 10 Things to Lock Down Before You Connect Anything | Alex P. | [Read More](https://medium.com/p/bf7697c17b8c) |
+| Tue, 10 Mar 2026 17:07:19 GMT | The Model Race Is Over: Why the “Scaffold” Is the New AI Priority | Atef Ataya | [Read More](https://medium.com/p/d6fa2e7810fd) |
+| Tue, 10 Mar 2026 17:04:36 GMT | What I’m Learning About Instagram Algorithms as a Digital Marketing Student | Blesson Charles | [Read More](https://medium.com/p/bd0736e7acf9) |
+| Tue, 10 Mar 2026 17:03:46 GMT | Introduction to Cyber Security | J.Dishalan | [Read More](https://medium.com/p/39dd39a8bb96) |
 | Tue, 10 Mar 2026 16:48:25 GMT | HTB Academy — Web Fuzzing with ffuf: Full Walkthrough | Zeyad Mostafa | [Read More](https://medium.com/p/c7fdc469e1af) |
+| Tue, 10 Mar 2026 16:46:00 GMT | Zero-Trust on OKE: Automated Identity Governance for Oracle Kubernetes Engine | Pavan Madduri | [Read More](https://medium.com/p/a2e4ceec4c03) |
 | Tue, 10 Mar 2026 16:44:17 GMT | I Turned My Recon Cheat Sheets Into a Bash Script | MhndFi | [Read More](https://medium.com/p/2fdca4046491) |
 | Tue, 10 Mar 2026 16:36:00 GMT | Attacking Docker Desktop via MCP: From Theory to PoC | Amine Raji | [Read More](https://medium.com/p/8adc888dc10b) |
 | Tue, 10 Mar 2026 16:35:22 GMT | Hackers Aren’t Smarter Than the Systems Protecting Us | Rashad Edwards | [Read More](https://medium.com/p/a1958758d2c9) |
@@ -29,11 +45,13 @@ Module 2 : Attacks, Concepts and Techniques— Part 3: Security… | Favour 
 | Tue, 10 Mar 2026 16:09:23 GMT | 8 Years on Discord and Ban Evaders Still Find a Way | Grainger | [Read More](https://medium.com/p/59268d5569d0) |
 | Tue, 10 Mar 2026 16:03:37 GMT | Why Social Media Account Recovery Is Important Today | James Haller | [Read More](https://medium.com/p/6d31dfec8e82) |
 | Tue, 10 Mar 2026 16:02:35 GMT | My Portfolio Site! Hidden CTFs! | Aaronashley | [Read More](https://medium.com/p/4cc7f2cf4e60) |
+| Tue, 10 Mar 2026 15:57:16 GMT | Passwords Are Already Compromised- Why Identity Security Must Move Beyond Passwords? | Dr. Shashi Karhail | [Read More](https://medium.com/p/c5d6679e1ee5) |
 | Tue, 10 Mar 2026 15:43:44 GMT | When Cyber Risk Becomes Physical Risk: AI and the New Threat to Critical Infrastructure | Shaam Farooq | [Read More](https://medium.com/p/f049255d8027) |
 | Tue, 10 Mar 2026 15:35:44 GMT | The Biggest Cyber Attacks of 2026 So Far: 5 Incidents Reshaping Global Security | Santhosh Kumar R | [Read More](https://medium.com/p/60c4503ff166) |
 | Tue, 10 Mar 2026 15:35:17 GMT | How Multi-Factor Authentication Works Behind the Scenes | Cedriconyedika | [Read More](https://medium.com/p/f3b7646d7c2e) |
 | Tue, 10 Mar 2026 15:31:46 GMT | Components of information system | Premananthan_Thanoyan | [Read More](https://medium.com/p/eae63c7ffd8c) |
 | Tue, 10 Mar 2026 15:29:39 GMT | Career Paths After CEH: Choosing the Right Cybersecurity Role | Atishbabar | [Read More](https://medium.com/p/4a0542d050d5) |
+| Tue, 10 Mar 2026 15:26:24 GMT | Security Awareness Program: Strengthening the Human Layer of Cybersecurity | Femto Security | [Read More](https://medium.com/p/376fe111139b) |
 | Tue, 10 Mar 2026 15:22:04 GMT | How to Start a Career in Cybersecurity: A Beginner’s Guide | Atishbabar | [Read More](https://medium.com/p/5a7cd161881c) |
 | Tue, 10 Mar 2026 15:18:00 GMT | TryHackMe — Attacktive Directory Write-Up | Muhammad Khairin | [Read More](https://medium.com/p/0a1415e46433) |
 | Tue, 10 Mar 2026 15:17:27 GMT | Web Cache Basics for Beginners: Understanding Cache, Cache Keys, and Cache Rules | DIVYANSH  SINGH | [Read More](https://medium.com/p/ce95e08df7c4) |
@@ -95,21 +113,3 @@ Module 2 : Attacks, Concepts and Techniques— Part 3: Security… | Favour 
 | Tue, 10 Mar 2026 12:09:50 GMT | Unlocking the Power of Your Data with the Ontology SDK (OSDK) | Udit Shahu | [Read More](https://medium.com/p/82640d0cda1a) |
 | Tue, 10 Mar 2026 12:01:01 GMT | Inside the AI-Powered Phishing Arsenal of 2026 | Dev Suthar | [Read More](https://medium.com/p/69c411393af6) |
 | Tue, 10 Mar 2026 11:40:41 GMT | Can Beginners Start a Cyber Security Course Online? A Complete Guide | Janbask Training | [Read More](https://medium.com/p/be06c83e8b8b) |
-| Tue, 10 Mar 2026 11:35:47 GMT | How Can Businesses Improve Security with Penetration Testing | Spectrum Stream | [Read More](https://medium.com/p/0073f88e54e4) |
-| Tue, 10 Mar 2026 11:22:54 GMT | The Hacker’s Blueprint: Understanding OSI and TCP/IP Models for Cybersecurity | Rashichoudhary | [Read More](https://medium.com/p/3284898d80ec) |
-| Tue, 10 Mar 2026 11:22:26 GMT | Door Off-Track Repair | Garage Door Repair - Same Day Service | [Read More](https://medium.com/p/60f9485f10f5) |
-| Tue, 10 Mar 2026 11:21:15 GMT | High-Level Security Framework for Development Companies | Ihor Klymchuk | [Read More](https://medium.com/p/095bdae70d99) |
-| Tue, 10 Mar 2026 11:18:39 GMT | DLLHijacking Explained to a 10yr 0ld | ghostvirus | [Read More](https://medium.com/p/b66f49fe1c57) |
-| Tue, 10 Mar 2026 11:15:51 GMT | HOW THE WEB WORKS -TryHackMe Module. Room 4: Putting it all together. | Raymond Ebonine | [Read More](https://medium.com/p/00d65c64d459) |
-| Tue, 10 Mar 2026 11:09:29 GMT | Is Antivirus Enough? The Truth About Modern Cyber Threats | Deepa | [Read More](https://medium.com/p/5b9a343c4dee) |
-| Tue, 10 Mar 2026 11:06:39 GMT | The Tokenization Revolution: How Blockchain Is Unlocking Real Estate, Gold, and Art | Ibrahim Dajin | [Read More](https://medium.com/p/44cde686884f) |
-| Tue, 10 Mar 2026 11:04:32 GMT | Importance of Understanding Networking in Cybersecurity | Garima Pandey | [Read More](https://medium.com/p/f8522f87f5b6) |
-| Tue, 10 Mar 2026 11:03:17 GMT | How TikTok Has Become a Key Source of Information for Young People? | Mary Helen | [Read More](https://medium.com/p/b147c0b9e2b1) |
-| Tue, 10 Mar 2026 11:01:01 GMT | Managing Your Data: How to Delete Information from Microsoft Copilot Memory | Meron | [Read More](https://medium.com/p/686e9e70a745) |
-| Tue, 10 Mar 2026 10:54:17 GMT | Walkthrough TryHackMe: Menaklukkan Attacktive Directory | NovanSetiadi | [Read More](https://medium.com/p/0eb40039d548) |
-| Tue, 10 Mar 2026 10:53:54 GMT | APT28 MSHTML Zero-Day Exploitation Campaign | Threatsys Technologies Pvt Ltd | [Read More](https://medium.com/p/b89991c11bbc) |
-| Tue, 10 Mar 2026 10:53:19 GMT | Between Vulnerability and Strength | KREATIVESPUR | [Read More](https://medium.com/p/b58179eb1cc2) |
-| Tue, 10 Mar 2026 10:53:19 GMT | How 24/7 Threat Monitoring for Small Business Strengthens Security with an MSP MDR Solution | Vijilan | [Read More](https://medium.com/p/763a6515e7f0) |
-| Tue, 10 Mar 2026 10:51:04 GMT | Twisted Pair Cable in Computer Networks: Structure, Working Principle, and Real-World Use | Ndu | [Read More](https://medium.com/p/553dc433e5a6) |
-| Tue, 10 Mar 2026 10:45:45 GMT | The IT Industry’s Best Kept Secrets: Which Tech Giants Actually Walk the Talk? | Melvinsteppe | [Read More](https://medium.com/p/3a816d6bc191) |
-| Tue, 10 Mar 2026 10:36:57 GMT | OWASP Top 10: 2021 vs 2025 | KLEAP Institute of Information Security | [Read More](https://medium.com/p/481b17a70181) |
