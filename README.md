@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Mar 2026 21:14:15 GMT | Abusing AD-DACL: GenericWrite | Youssef Said Thabet | [Read More](https://medium.com/p/dbb187257ef4) |
+| Tue, 10 Mar 2026 21:01:01 GMT | Unfiltered Restart — Day 22: OS Intro, Windows Versions and Installation | Maximillian Rueda | [Read More](https://medium.com/p/dbfc66acbc63) |
+| Tue, 10 Mar 2026 20:55:41 GMT | Android Content Provider Security: A Pentester’s Deep Dive — Part 1 | Mustafa Mohamed | [Read More](https://medium.com/p/9682c35d1b2d) |
+| Tue, 10 Mar 2026 20:52:56 GMT | Tryhackme AD: Basic Enumeration Write-Up | Harmonax | [Read More](https://medium.com/p/4fb8558b6924) |
+| Tue, 10 Mar 2026 20:46:28 GMT | Proving Grounds: Kevin | SecurityChud | [Read More](https://medium.com/p/6f5b928aa430) |
+| Tue, 10 Mar 2026 20:44:39 GMT | TuesdayTool 41: ReconSpider, All-In-One Reconnaissance Tool | Oloyede Olajumoke Elizabeth | [Read More](https://medium.com/p/5c1ac6f0bcbb) |
+| Tue, 10 Mar 2026 20:44:15 GMT | How to Use the Burp MCP Server Extension | The Curious Hacker | [Read More](https://medium.com/p/e8c5d403d645) |
+| Tue, 10 Mar 2026 20:42:37 GMT | The VLAN Trap: Why Your Network Segmentation is Failing | Kaloyan Stefanov | [Read More](https://medium.com/p/f20cd5cc2467) |
+| Tue, 10 Mar 2026 20:38:08 GMT | Digital ID: Why Compliance Will Lead Us into a Trap | Zain Erikat | [Read More](https://medium.com/p/5cce7fb30a6d) |
 | Tue, 10 Mar 2026 20:20:27 GMT | Connecting Claude to Kali using MCP (Model Context Protocol) | Gurunathan R | [Read More](https://medium.com/p/2cc0b995eadb) |
 | Tue, 10 Mar 2026 20:12:54 GMT | You Will Never Reset Your Password Again | Anto Semeraro | [Read More](https://medium.com/p/3ec583795fed) |
 | Tue, 10 Mar 2026 20:06:43 GMT | They Collect Everything But Understand Almost Nothing | O. J. Okpabi | [Read More](https://medium.com/p/6ff00da86e99) |
@@ -104,12 +113,3 @@ Module 2 : Attacks, Concepts and Techniques— Part 3: Security… | Favour 
 | Tue, 10 Mar 2026 15:02:46 GMT | ClaudeTab: What Happens When AI Reads Your Proxy Traffic | Saksham Jaiswal | [Read More](https://medium.com/p/90204f66d1c7) |
 | Tue, 10 Mar 2026 15:02:36 GMT | Memory Forensics with Volatility Framework | Shivashiva | [Read More](https://medium.com/p/061f03a76dde) |
 | Tue, 10 Mar 2026 15:01:02 GMT | Prompt Injection Isn’t Just an LLM Problem — It’s Coming for Your SOC (A Practical Defense Guide) | Narayan Regmi | [Read More](https://medium.com/p/dfad23e15308) |
-| Tue, 10 Mar 2026 14:58:21 GMT | What Does a Hacker Actually See When They Scan Your Server? I Found Out — Then Fixed It | Mdporschaa | [Read More](https://medium.com/p/a68e0e9d4c71) |
-| Tue, 10 Mar 2026 14:54:29 GMT | Why Alarm Systems Are the Best First Line of Defense for Your Property | Eldrin Josh Pineda | [Read More](https://medium.com/p/ed108e80b51e) |
-| Tue, 10 Mar 2026 14:47:16 GMT | Is Cybersecurity boring paperwork? | Tom Dinh | [Read More](https://medium.com/p/ca4c7f953baa) |
-| Tue, 10 Mar 2026 14:46:53 GMT | Web Application Security: Hands-On Practice (Chapter 15 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/88b8d9b0f96c) |
-| Tue, 10 Mar 2026 14:46:00 GMT | When Gambling Becomes a Money-Transfer Rail | Wes Young | [Read More](https://medium.com/p/d896674d2340) |
-| Tue, 10 Mar 2026 14:42:04 GMT | How Cybersecurity Risks Affect Small Businesses in Nigeria | Cedriconyedika | [Read More](https://medium.com/p/961131140a47) |
-| Tue, 10 Mar 2026 14:41:28 GMT | Expertly Designed Vault Solutions for Pampanga Enterprises | Keyshrimp | [Read More](https://medium.com/p/921caa71bbaa) |
-| Tue, 10 Mar 2026 14:37:46 GMT | How AI Is Redefining Missile Warfare? | Hayanan | [Read More](https://medium.com/p/a809963eb1f9) |
-| Tue, 10 Mar 2026 14:37:40 GMT | Why FilSafe Enterprises Is One of the Best Security Solutions in Pampanga | Eldrin Josh Pineda | [Read More](https://medium.com/p/c60b2f5147cc) |
