@@ -12,10 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Mar 2026 08:46:25 GMT | 6 eCommerce Trends in 2026 That Are Reshaping Online Store Performance | i95Dev | [Read More](https://medium.com/p/93302119dc4f) |
+| Tue, 10 Mar 2026 08:44:35 GMT | Kubernetes Policy Enforcement Made Simple with Kyverno — Part I | Ramesh | [Read More](https://medium.com/p/7e8407efcd79) |
+| Tue, 10 Mar 2026 08:37:51 GMT | The Quantum Threat to Classic VAPT: Moving Beyond the “Classical” Perimeter | Cynox Security LLP. | [Read More](https://medium.com/p/e808d036b903) |
+| Tue, 10 Mar 2026 08:32:14 GMT | Why Microsoft Entra ID Joined Devices Are Replacing Hybrid Join | Opsole Migrate | [Read More](https://medium.com/p/d2160d5f3da9) |
+| Tue, 10 Mar 2026 08:23:58 GMT | WebStrike — Network Forensics Walkthrough (CyberDefenders) | Supreeth Shirolkar | [Read More](https://medium.com/p/b88f34c7cb5b) |
+| Tue, 10 Mar 2026 08:21:59 GMT | Defending the Web in the Age of AI Agents: Practical Security Lessons from the Trench | John Hawkins | [Read More](https://medium.com/p/f5d784db52c2) |
+| Tue, 10 Mar 2026 08:20:43 GMT | 當 OpenClaw 成為「超級助手」，企業該如何守住安全邊界？ | Eagle Cloud | [Read More](https://medium.com/p/0b10d34d7691) |
+| Tue, 10 Mar 2026 08:19:43 GMT | Cyber Security Course Eligibility: Who Can Learn Cyber Security and Start a Career in Digital… | EINITIAL24 | [Read More](https://medium.com/p/b623c5410939) |
+| Tue, 10 Mar 2026 08:16:07 GMT | So You Want to Break Into Systems (Legally)? | Gobind Singh | [Read More](https://medium.com/p/ddad2f702912) |
+| Tue, 10 Mar 2026 08:02:43 GMT | Lapoaran Praktikum Struktur Data : Queue Dalam Python | Cahyoadi | [Read More](https://medium.com/p/fe2dd3de74cc) |
+| Tue, 10 Mar 2026 07:59:37 GMT | Zero Trust Architecture: Why Enterprises Are Moving Beyond Traditional Security | Liza Kosh | [Read More](https://medium.com/p/4ce02538c6b5) |
+| Tue, 10 Mar 2026 07:58:38 GMT | Why Companies That Fire for AI Regret It Later | Vijay Kumar Gupta | [Read More](https://medium.com/p/22b2d1f32b18) |
+| Tue, 10 Mar 2026 07:49:16 GMT | The Second Phase of Eastern Mediterranean Energy Geopolitics | Gökçen Kunukcu | [Read More](https://medium.com/p/b633b9f98630) |
+| Tue, 10 Mar 2026 07:42:51 GMT | ประจำวันอังคารที่ 10 มีนาคม 2569 | ThaiCERT By NCSA | [Read More](https://medium.com/p/eadce8ab4c20) |
+| Tue, 10 Mar 2026 07:36:40 GMT | Day 20 - The app trusted me with whatever I added to its cart! | Issan | [Read More](https://medium.com/p/f5f0a6b0e7ae) |
 | Tue, 10 Mar 2026 07:35:25 GMT | Enhance Your Website Security with IP Whitelisting and Blacklisting | Smit Pipaliya | [Read More](https://medium.com/p/2f33f546a0e0) |
+| Tue, 10 Mar 2026 07:32:35 GMT | A Complete Guide to Choosing Virtual Doorman Services | Doris William | [Read More](https://medium.com/p/392c04aae8d6) |
 | Tue, 10 Mar 2026 07:30:04 GMT | Flag in Flame - PicoCTF Challenge - Digital Forensics | Xinlisalim | [Read More](https://medium.com/p/30ff6a14b75a) |
 | Tue, 10 Mar 2026 07:29:28 GMT | Iranian APT MuddyWater Deploys “Dindoor” Backdoor: Inside a New Cyber-Espionage Campaign | Raoelinirina Sergio | [Read More](https://medium.com/p/e9d5aa7f5626) |
 | Tue, 10 Mar 2026 07:28:28 GMT | Cybersecurity Services in Australia: Why Businesses Need Strong Digital Protection | Ictxcompany | [Read More](https://medium.com/p/c81b9ae27d3a) |
+| Tue, 10 Mar 2026 07:27:35 GMT | How Long Does PABX System Installation Take for an Office | IT Solution Dubai | [Read More](https://medium.com/p/57780cd066a8) |
 | Tue, 10 Mar 2026 07:26:16 GMT | OWASP Juice Shop — BOLA: Unauthorized Basket Access - Security Assessment Finding | Prem kr sharma | [Read More](https://medium.com/p/65e1f6b8a46b) |
 | Tue, 10 Mar 2026 07:26:15 GMT | Building a Production-Safe Linux Hardening Audit Tool (180+ Security Checks) | Opsec Ramdan | [Read More](https://medium.com/p/3fa650a1396f) |
 | Tue, 10 Mar 2026 07:24:36 GMT | Why Most Founders Lose Traffic Without Knowing It (And How Smart Founders Catch Problems Early) | Stephan Goldberg | [Read More](https://medium.com/p/759ae9fe2828) |
@@ -95,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Mar 2026 01:11:00 GMT | Retro Forensics | G-smag404 | [Read More](https://medium.com/p/ce78891370fb) |
 | Tue, 10 Mar 2026 01:03:34 GMT | Most People Trust Their Credit Card More Than Their Phone. They Shouldn't . | Grigorios Avramidis | [Read More](https://medium.com/p/f35ea2c6d533) |
 | Tue, 10 Mar 2026 00:57:28 GMT | Tuesday Morning Threat Report: Mar 10, 2026 | Mark Maguire | [Read More](https://medium.com/p/04158556ee2a) |
-| Tue, 10 Mar 2026 00:45:40 GMT | Introducing CIAO: The Governance Meta-Standard the Compliance World Has Been Missing | CIAO Standard | [Read More](https://medium.com/p/cd323f46676d) |
-| Tue, 10 Mar 2026 00:28:49 GMT | sams walkthrough (proving groung-windows) | cyber_public_school | [Read More](https://medium.com/p/f36113b89216) |
-| Tue, 10 Mar 2026 00:05:11 GMT | Cybersecurity Compliance, Safeguarding Your Business Digital Assets | Hakim Fubara CIA, CISA, CISSP | [Read More](https://medium.com/p/9cfa13d4ef7a) |
-| Tue, 10 Mar 2026 00:01:02 GMT | Guía de XXE Injection: Fundamentos, Payloads y Estrategias de Bug Bounty | JPablo13 | [Read More](https://medium.com/p/71536d05e0a5) |
-| Mon, 09 Mar 2026 23:48:39 GMT | Security Should Make Business Sense,but too Often It Doesn’t | Hakim Fubara CIA, CISA, CISSP | [Read More](https://medium.com/p/cd92f453a1c5) |
-| Mon, 09 Mar 2026 23:34:04 GMT | Blue Writeup Español TryHackMe | Us0lfr | [Read More](https://medium.com/p/80976425166d) |
-| Mon, 09 Mar 2026 23:32:07 GMT | THM: Windows Privilege Escalation | Murad Salem | [Read More](https://medium.com/p/40306d8ec94a) |
-| Mon, 09 Mar 2026 23:13:56 GMT | TryHackMe Write-Up: AD Basic Enumeration | Senoputraaa | [Read More](https://medium.com/p/79b167cd1160) |
-| Mon, 09 Mar 2026 22:51:46 GMT | Managed Cyber Security Services: What Queensland Businesses Need to Know | YesIT Services | [Read More](https://medium.com/p/dc1e6d430181) |
-| Mon, 09 Mar 2026 22:44:25 GMT | Hackers Are Using AI to Plan Cyber Attacks | Rashad Edwards | [Read More](https://medium.com/p/c9c8b5cf89e3) |
-| Mon, 09 Mar 2026 22:30:59 GMT | The Fractional CISO Gold Rush | Michael Reichstein | [Read More](https://medium.com/p/2afd0c43cc2f) |
-| Mon, 09 Mar 2026 22:30:34 GMT | Understanding UAC on Windows — Why It Matters, How It’s Bypassed, and Why It’s Still Relevant | Yua Mikanana | [Read More](https://medium.com/p/e3c4467df364) |
-| Mon, 09 Mar 2026 22:28:10 GMT | Sold to the Highest Bidder: How a Trusted Chrome Extension Became a Malware Delivery Chain | Jbird | [Read More](https://medium.com/p/f31952627451) |
-| Mon, 09 Mar 2026 22:24:53 GMT | Inside the “InCoin” Trap:
-How a Fake Deposit App Turns College Students Into Criminals | Cyb3r.Y4sh | [Read More](https://medium.com/p/8db67f7b9f30) |
-| Mon, 09 Mar 2026 22:22:57 GMT | Cheesy Does It (Business Logic Vuln) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/0008c34d12f5) |
-| Mon, 09 Mar 2026 22:03:26 GMT | Trust Boundaries in Agentic AI | Facundo Fernandez | [Read More](https://medium.com/p/3b6ffddffdba) |
-| Mon, 09 Mar 2026 22:02:18 GMT | ApoorvCTF 4.0 — OSINT Writeup | Alwin Thomas | [Read More](https://medium.com/p/4e8aad6258fe) |
