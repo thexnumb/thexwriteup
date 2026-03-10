@@ -12,8 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Tue, 10 Mar 2026 06:51:34 GMT | ️ Supercharging Bug Bounty Recon with Netlas: A Smarter Way to Discover Targets | ghostyjoe | [Read More](https://medium.com/p/1911c2aec6a8) |
+| Tue, 10 Mar 2026 06:50:20 GMT | How Artificial Intelligence Is Used in Everyday Life | Samparkerz | [Read More](https://medium.com/p/03d0f2cd3e63) |
+| Tue, 10 Mar 2026 06:44:16 GMT | The Fake YONO Update That Hijacked WhatsApp | InsideTheSOC | [Read More](https://medium.com/p/0d29e9b6819b) |
+| Tue, 10 Mar 2026 06:40:32 GMT | 7 AI Tools That Can Help You Make Money Online in 2026 | wizzo torado | [Read More](https://medium.com/p/c8269a3c8170) |
+| Tue, 10 Mar 2026 06:35:33 GMT | TryHackMe — Room # 1 — Intro to Offensive Security | Nih4l_Sh3ll | [Read More](https://medium.com/p/f7fed9988ada) |
+| Tue, 10 Mar 2026 06:31:18 GMT | Why you must always define a data type | LeslieAine | [Read More](https://medium.com/p/8ea68881592c) |
+| Tue, 10 Mar 2026 06:27:18 GMT | How to Become an Ethical Hacker (Secret Roadmap) | Neha Sharma | [Read More](https://medium.com/p/6f61a40fc865) |
+| Tue, 10 Mar 2026 06:27:18 GMT | PECB ISO 27001 Lead Auditor Training Saudi Arabia - AAC MENA | Aswar Akka Consultancy (AAC) | [Read More](https://medium.com/p/09374fdea3a0) |
+| Tue, 10 Mar 2026 06:26:49 GMT | FTP Connection Refused: 6 Real Causes (And How to Fix It) | Jake Priddy | [Read More](https://medium.com/p/d075ebf5cc90) |
+| Tue, 10 Mar 2026 06:20:36 GMT | Would You Let a Stranger Set Up Your New Device? | Prachi Mahapatra | [Read More](https://medium.com/p/b25fb4f87f5f) |
+| Tue, 10 Mar 2026 06:15:31 GMT | Introduction to Machine: Funbox 4 | Abhinavmpu | [Read More](https://medium.com/p/e60950563b62) |
+| Tue, 10 Mar 2026 06:13:21 GMT | Broken Authentication in Fintech Systems | Rufus Kehinde | [Read More](https://medium.com/p/fe91e609ad59) |
+| Tue, 10 Mar 2026 06:06:00 GMT | Why templates don’t work for cybersecurity policies — the hidden mismatch problem. | Gaurav Shukla | [Read More](https://medium.com/p/4f59f6df3458) |
+| Tue, 10 Mar 2026 06:01:44 GMT | What Is Prompt Injection? The Most Critical AI Vulnerability Explained | Kuboid Secure Layer | [Read More](https://medium.com/p/6137d4ffae38) |
+| Tue, 10 Mar 2026 06:01:37 GMT | FTP Error 530 Login Incorrect: What It Actually Means (And How to Fix It) | Jake Priddy | [Read More](https://medium.com/p/bbab19e5e856) |
+| Tue, 10 Mar 2026 05:59:17 GMT | API TESTING | Abdulnafayk | [Read More](https://medium.com/p/79d8584012d3) |
+| Tue, 10 Mar 2026 05:57:05 GMT | Understanding the OSI model: The 7 layers of networking | unica 02 | [Read More](https://medium.com/p/0dc8dbd37834) |
+| Tue, 10 Mar 2026 05:50:32 GMT | The Boutique Military Trap: Why India’s Atmanirbharta is a House of Cards | Alan Shore | [Read More](https://medium.com/p/5f1a6508a357) |
+| Tue, 10 Mar 2026 05:47:28 GMT | Windows 7 Security Assessment: Exploiting MS17–010 (EternalBlue) with Metasploit | شاہ میر عمران مغل | [Read More](https://medium.com/p/beccb1699475) |
+| Tue, 10 Mar 2026 05:45:07 GMT | Introduction to Machine: Funbox 4 | Akhilkulkarni | [Read More](https://medium.com/p/b7864a80ddfb) |
+| Tue, 10 Mar 2026 05:44:35 GMT | Iranian Hackers Are Inside U.S. Networks - And It’s More Serious Than You Think | Heet Rajesh Gala | [Read More](https://medium.com/p/7131ba434ea5) |
+| Tue, 10 Mar 2026 05:42:51 GMT | ABB’s to APK for Penetration Testing | Bharathkannan | [Read More](https://medium.com/p/965acc55c56b) |
 | Tue, 10 Mar 2026 05:31:34 GMT | I Built a Cybersecurity Framework That Gaslights Hackers (And I’d Do It Again) | Isaac Onyemaechi | [Read More](https://medium.com/p/5accba0610dd) |
 | Tue, 10 Mar 2026 05:31:18 GMT | Single-endpoint Race Conditions | Bash Overflow | [Read More](https://medium.com/p/7a3879c09e79) |
+| Tue, 10 Mar 2026 05:31:00 GMT | Almost No One Talks About This Free Cybersecurity Learning Platform | Shaikh Minhaz | [Read More](https://medium.com/p/e9ff1540d77c) |
 | Tue, 10 Mar 2026 05:16:00 GMT | A Fake Social Security Administration Website and The Automatic File Download | Brandon Council | [Read More](https://medium.com/p/b6734c29eae7) |
 | Tue, 10 Mar 2026 05:08:54 GMT | Corporate — HTB Insane Writeup (Adapted from 2024 Notes) | Waris Damkham | [Read More](https://medium.com/p/27d45a5a9693) |
 | Tue, 10 Mar 2026 05:07:54 GMT | SUDO MAKE ME A SANDWICH — PicoCTF 2026 | SourceFul Space | [Read More](https://medium.com/p/e1bffe1d6b05) |
@@ -90,26 +113,3 @@ How a Fake Deposit App Turns College Students Into Criminals | Cyb3r.Y4sh | [Rea
 | Mon, 09 Mar 2026 21:01:02 GMT | Unfiltered Restart — Day 21: Catching Up and Starting Core 2 | Maximillian Rueda | [Read More](https://medium.com/p/54255eb4ee48) |
 | Mon, 09 Mar 2026 20:52:34 GMT | Adversarial AI: The Hidden Cybersecurity Threat We Can’t ignore | Nandini Sharma | [Read More](https://medium.com/p/7d27894e409a) |
 | Mon, 09 Mar 2026 20:52:14 GMT | We’re Repeating the Cloud Mistake — But This Time It’s AI Agents | Simon Mestdagh | [Read More](https://medium.com/p/10fcae5c5144) |
-| Mon, 09 Mar 2026 20:50:14 GMT | Securing Kubernetes Software Supply Chains with Konflux. | Harsh Kumar | [Read More](https://medium.com/p/c2fa961cf6b4) |
-| Mon, 09 Mar 2026 20:48:32 GMT | Lab: SQL injection UNION attack, finding a column containing text | Songül Kızılay Özügürler | [Read More](https://medium.com/p/dba317ce4a28) |
-| Mon, 09 Mar 2026 20:42:17 GMT | Cloud Cost Savings: How Charlotte SMBs Are Cutting IT Expenses Without Sacrificing Security | Paradise technologies Inc | [Read More](https://medium.com/p/dd0162a9fd2e) |
-| Mon, 09 Mar 2026 20:42:02 GMT | Bir Farenin Gölgesinde Sızma Testi: WiFi Mouse RCE ve Shadow Track Analizi | Erdem Ceylan | [Read More](https://medium.com/p/991237aa5f80) |
-| Mon, 09 Mar 2026 20:40:14 GMT | Key Technical Differences Between GPT/UEFI and MBR/Legacy Systems | Ryan Adams | [Read More](https://medium.com/p/6dc597534aa7) |
-| Mon, 09 Mar 2026 20:33:20 GMT | The End of the Safe Career: Why Smart Professionals Are Rewriting the Rules of Work | Pankaj Wadhwa | [Read More](https://medium.com/p/7fa31d624962) |
-| Mon, 09 Mar 2026 20:24:46 GMT | Offsec “PyExp” CTF writeup | sabR | [Read More](https://medium.com/p/d4d01708b0ec) |
-| Mon, 09 Mar 2026 20:16:28 GMT | IT 05 - Advanced Windows Commands | Amrsmooke | [Read More](https://medium.com/p/2538fa7a177f) |
-| Mon, 09 Mar 2026 20:16:00 GMT | Tap-and-Go: 1-Page Architecture & Control Checklist for CIOs | Ryan Aminollahi | [Read More](https://medium.com/p/ec3c0f2fcd62) |
-| Mon, 09 Mar 2026 20:13:33 GMT | MOI — CTF . hireplus - by Abdullah Ali | Abdullah Ali | [Read More](https://medium.com/p/a007627b95c8) |
-| Mon, 09 Mar 2026 20:03:43 GMT | HSTS protokolu və MitM | Ali Aghayev | [Read More](https://medium.com/p/7207c36f897f) |
-| Mon, 09 Mar 2026 20:01:54 GMT | How I Set Up a SECURITY.md When Building With AI Agents | Sebiomo Aanuoluwapo | [Read More](https://medium.com/p/e7b18be3f21d) |
-| Mon, 09 Mar 2026 19:55:49 GMT | Data Protection in Oracle Fusion Cloud SaaS (ERP and HCM): Encryption, Data Access Policies, and… | Khader Nawaz khan | [Read More](https://medium.com/p/c1c726d75be8) |
-| Mon, 09 Mar 2026 19:52:16 GMT | The $249 AI Revolution | Syed Abbas T. | [Read More](https://medium.com/p/7e91e3dcca58) |
-| Mon, 09 Mar 2026 19:51:28 GMT | Root Shell on a POS Payment Terminal: Security Analysis of the Worldline Yomani XR | Marcel Rick-Cen | [Read More](https://medium.com/p/3f8fa82e3c3c) |
-| Mon, 09 Mar 2026 19:45:42 GMT | The Fastest Way To Lose Credibility In An Executive Incident Briefing | Cody Cooper | [Read More](https://medium.com/p/1f4e9e67e26e) |
-| Mon, 09 Mar 2026 19:45:09 GMT | A Bell and A Pomegranate (Vayakhel/Pekudei) | Rabbi Menachem Creditor | [Read More](https://medium.com/p/e5daf347f2d7) |
-| Mon, 09 Mar 2026 19:31:39 GMT | OpenClaw and the Emerging AI Agent Security Crisis | Chetan Seripally | [Read More](https://medium.com/p/7748581291d6) |
-| Mon, 09 Mar 2026 19:21:12 GMT | Networking Fundamentals: OSI vs TCP/IP Explained | Kilian J | [Read More](https://medium.com/p/e1ecac5351d5) |
-| Mon, 09 Mar 2026 19:20:53 GMT | Manage AI Like an Employee or Expect Human-Sized Mistakes | Chris Buxton | [Read More](https://medium.com/p/f99b175db30d) |
-| Mon, 09 Mar 2026 19:19:09 GMT | “Linux Won’t Boot? The Complete GRUB Bootloader Guide to Fix and Rescue Your System” | Cyber Wolf | [Read More](https://medium.com/p/9f0f440958d9) |
-| Mon, 09 Mar 2026 19:13:25 GMT | THM,Windows Event Logs write-up :) | Aya Emad | [Read More](https://medium.com/p/767ecf1ed4ce) |
-| Mon, 09 Mar 2026 18:52:40 GMT | How to implement bitlocker on top of windows 11 pro | Mahim Avi | [Read More](https://medium.com/p/99336e8df6f4) |
