@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Mar 2026 08:37:53 GMT | I Passed the CRTA Exam; Here’s My Honest Experience | Tapasvi Madhak | [Read More](https://medium.com/p/63c5c4cf7b13) |
+| Wed, 11 Mar 2026 08:35:25 GMT | 10 Smallest Hacker Gadgets & Their Ethical Uses in Pen Testing | EINITIAL24 | [Read More](https://medium.com/p/40b4f30d7bc0) |
+| Wed, 11 Mar 2026 08:31:38 GMT | Iran’s Cyber Strategy: Winning Without Reinventing the Wheel | Herbert Doucet | [Read More](https://medium.com/p/5d6751f6b956) |
+| Wed, 11 Mar 2026 08:27:57 GMT | Exposed Credentials in a Public Repository Leading to Administrative Access in a CSIRT Portal | Rexusz 1337 | [Read More](https://medium.com/p/3dfb4d9fc73d) |
+| Wed, 11 Mar 2026 08:23:34 GMT | The Impact of Artificial Intelligence on Management Information Systems: Assessing Whether AI Can… | Kefuoe Sole | [Read More](https://medium.com/p/90b2b4b00cce) |
+| Wed, 11 Mar 2026 08:22:51 GMT | Best AI Penetration Testing Course in Delhi — Complete Guide (2026) | Manisha Chaudhary | [Read More](https://medium.com/p/57e694c3ee98) |
+| Wed, 11 Mar 2026 08:21:11 GMT | From Frameworks to Fieldwork: How Enterprise Security Actually Gets Organized | Shoaib Bin Rashid | [Read More](https://medium.com/p/826f9267c4c0) |
+| Wed, 11 Mar 2026 08:18:42 GMT | How a $2.7M Bitcoin DeFi Hack at Solv Protocol Exposed the Next Wave of Crypto Security Risks | AnantGyaan | [Read More](https://medium.com/p/6d554efbc841) |
+| Wed, 11 Mar 2026 08:18:05 GMT | How Hackers Are Quietly Using AI to Supercharge Cyberattacks | Subhan Ali | [Read More](https://medium.com/p/0af9a62683ef) |
+| Wed, 11 Mar 2026 08:17:10 GMT | 10 Recon Mistakes That Instantly Expose Hackers | Fateyaly | [Read More](https://medium.com/p/d0ddcdf7cfc7) |
+| Wed, 11 Mar 2026 08:14:35 GMT | Is It Safe to Install OpenClaw on a VPS? | Eng. Sanjaya Kumar | [Read More](https://medium.com/p/500746376da2) |
+| Wed, 11 Mar 2026 08:12:14 GMT | The Bug Bounty Hunter Roadmap (2026): From Curious Beginner to Real Vulnerability Finder | Bugitrix | [Read More](https://medium.com/p/6605198b820c) |
+| Wed, 11 Mar 2026 08:08:35 GMT | Your AI Agent Is Executing Whatever the LLM Tells It To | Danielmcarbono | [Read More](https://medium.com/p/d39517115c1c) |
+| Wed, 11 Mar 2026 08:08:33 GMT | Understanding the Purpose of PBX System Security for Business | Doris William | [Read More](https://medium.com/p/59af5262295e) |
+| Wed, 11 Mar 2026 08:07:09 GMT | THE IMPORTANCE OF SERVERS IN MODERN NETWORK INFRASTRUCTURE | Favour Mulungi | [Read More](https://medium.com/p/16537754187e) |
+| Wed, 11 Mar 2026 08:01:00 GMT | The Group That Hacked 400 Companies While Salesforce Watched: Inside ShinyHunters | MayhemCode | [Read More](https://medium.com/p/77234e779fc7) |
+| Wed, 11 Mar 2026 08:01:00 GMT | Breaking into Metasploitable2: A Hands-On Penetration Testing Lab | Madu Nelson Izunna | [Read More](https://medium.com/p/8f31168c017a) |
+| Wed, 11 Mar 2026 07:58:58 GMT | Ability To Do Point In Time Restore / Rebuild Of Environments | Robert Broeckelmann | [Read More](https://medium.com/p/4c574b2dc8f0) |
+| Wed, 11 Mar 2026 07:58:29 GMT | TryHackMe: Attacktive Directory Walkthrough & Writeup | Yogatama | [Read More](https://medium.com/p/968773568739) |
+| Wed, 11 Mar 2026 07:52:49 GMT | SAP Commerce Cloud 2211.49 / 2211-jdk21.7: Configuration, Security and Solr Updates | Andrei Lescu | [Read More](https://medium.com/p/17c8eab7f1f4) |
+| Wed, 11 Mar 2026 07:50:20 GMT | Understanding Information Gathering in Penetration Testing | Saammeerr | [Read More](https://medium.com/p/29e76a0af19a) |
+| Wed, 11 Mar 2026 07:48:05 GMT | HTTP Security Headers: The Quiet Guards of Every Secure API | Saima Sayed | [Read More](https://medium.com/p/de413dc5eaec) |
 | Wed, 11 Mar 2026 07:41:53 GMT | Digital Forensics Career Path in India | cyber security Updates | [Read More](https://medium.com/p/d01dc130a09b) |
 | Wed, 11 Mar 2026 07:34:49 GMT | cloud security lab | SPIRIT | [Read More](https://medium.com/p/7f9ef4413fdd) |
 | Wed, 11 Mar 2026 07:28:10 GMT | Hidden Tear Malware Family Analysis | WhosWho | [Read More](https://medium.com/p/565c6ba3391e) |
@@ -92,27 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Mar 2026 02:54:21 GMT | WordPress Security in 2026: The Complete Hardening Guide | Royalpluginsteam | [Read More](https://medium.com/p/756d4579c7f8) |
 | Wed, 11 Mar 2026 02:51:13 GMT | Building a SOC Detection Engineering Lab with Elastic, Mythic C2, and Attack Simulations | Gregory Dawson | [Read More](https://medium.com/p/3e9200b41cd8) |
 | Wed, 11 Mar 2026 02:44:28 GMT | I Built a Honeypot That Profiles Attackers and Maps Their Behavior to MITRE ATT&CK | Sanketh Subhas | [Read More](https://medium.com/p/a83a03d497d0) |
-| Wed, 11 Mar 2026 02:13:58 GMT | 2025 Military and Defense Industry Cyber Threat Landscape | NSHC ThreatRecon Team | [Read More](https://medium.com/p/5d8c02fc3ab9) |
-| Wed, 11 Mar 2026 01:58:20 GMT | Beginner Guide: Installing Whonix on VirtualBox for Safe Anonymous Browsing | Sathish | [Read More](https://medium.com/p/bb78256cdaa3) |
-| Wed, 11 Mar 2026 01:56:44 GMT | Is Your Home ONU Safe? | Superasystem Inc. | [Read More](https://medium.com/p/3db882b55cb2) |
-| Wed, 11 Mar 2026 01:49:13 GMT | Building a Multi-Agent AI System for Cloud Attack Path Discovery | v4jra | [Read More](https://medium.com/p/ad2d9c393816) |
-| Wed, 11 Mar 2026 01:46:46 GMT | Embracing the Future of Security | CCTVSS | [Read More](https://medium.com/p/bb78177ebd77) |
-| Wed, 11 Mar 2026 01:40:15 GMT | Part 3: The Evidence — California Region 2 VEX V5 | Vex Investigators | [Read More](https://medium.com/p/493c3a34f1e1) |
-| Wed, 11 Mar 2026 01:30:51 GMT | You Don’t Need a Threat Hunting Lab — If You’re a SOC Analyst, Your Environment Is Already One | Paritosh | [Read More](https://medium.com/p/f9bd31e9454b) |
-| Wed, 11 Mar 2026 01:27:02 GMT | Exploiting an SSRF Vulnerability to Retrieve the Server Hostname-Hackviser Lab | Manohar T H | [Read More](https://medium.com/p/9da33215b2b2) |
-| Wed, 11 Mar 2026 01:22:45 GMT | The Week AI Agents Ate the World (March 2026) | Chase Xu | [Read More](https://medium.com/p/66d0c33dcc4e) |
-| Wed, 11 Mar 2026 01:16:49 GMT | Abusing AD-DACL: AddSelf | Youssef Said Thabet | [Read More](https://medium.com/p/a0e455557c81) |
-| Wed, 11 Mar 2026 01:15:26 GMT | APLH Handbook: What You Need to Know to Get Your Personal Licence in England and Wales | Dr Francesco Dergano | [Read More](https://medium.com/p/61972180b1db) |
-| Wed, 11 Mar 2026 01:12:56 GMT | Cara Deploy Fullstack Next.js & FastAPI di Windows Agar Auto-Restart (NSSM Guide) | Maulana Khanif | [Read More](https://medium.com/p/1b216870a5b6) |
-| Wed, 11 Mar 2026 01:04:57 GMT | Shadow AI Is Your Organization’s Newest Data Loss Vector | Jbird | [Read More](https://medium.com/p/ac467c184a19) |
-| Wed, 11 Mar 2026 01:01:00 GMT | If You’ve Never Been Blackmailed By a Former Employer — Listen Closely | Samuel Brice | [Read More](https://medium.com/p/59498a4646f5) |
-| Wed, 11 Mar 2026 00:57:03 GMT | The Danger of Over-Permissive File Shares | Jabaribrown | [Read More](https://medium.com/p/bea10fab5190) |
-| Wed, 11 Mar 2026 00:34:44 GMT | Why Internal Controls Matter More Than Ever | Hakim Fubara CIA, CISA, CISSP | [Read More](https://medium.com/p/457b629c89d8) |
-| Wed, 11 Mar 2026 00:34:26 GMT | Many Institutions Think They Are SWIFT CSP Compliant,Until an External Assessment is mandated | Hakim Fubara CIA, CISA, CISSP | [Read More](https://medium.com/p/a4dd861bd7fe) |
-| Wed, 11 Mar 2026 00:27:54 GMT | ‎Mike Evans: The Journey of One of the NFL’s Most Consistent Superstars
-‎
-‎In the world of… | Ddm atiq | [Read More](https://medium.com/p/3f3d6915cbb6) |
-| Wed, 11 Mar 2026 00:04:18 GMT | WordPress Hacked: The Complete Recovery Guide for Agencies | Vuvo Hosting | [Read More](https://medium.com/p/7c81e88ae8d7) |
-| Wed, 11 Mar 2026 00:01:01 GMT | XXE Injection Guide: Fundamentals, Payloads, and Bug Bounty Strategies | JPablo13 | [Read More](https://medium.com/p/1a11e73856a5) |
-| Tue, 10 Mar 2026 23:49:17 GMT | Unlocking the  power of modern security | CCTVSS | [Read More](https://medium.com/p/80f728801283) |
-| Tue, 10 Mar 2026 23:43:14 GMT | What is Runtime Security? The Formal Definition (v3.3) | Superasystem Inc. | [Read More](https://medium.com/p/8c533d4ce167) |
