@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Mar 2026 23:28:30 GMT | Smishing: Η Απάτη των 7 Ευρώ (“Ειδοποίηση Τροχαίας Παράβασης”) | Ioannis Lymperopoulos | [Read More](https://medium.com/p/fded66abd4bd) |
 | Wed, 11 Mar 2026 22:55:39 GMT | SOC automation & AI (n8n/wazuh) | omar samara | [Read More](https://medium.com/p/3f3740efcad5) |
 | Wed, 11 Mar 2026 22:54:58 GMT | I Almost Got Hacked Without Entering My Password — Here’s How Consent Phishing Works | Mohab Hassan | [Read More](https://medium.com/p/7c5b9cd6df13) |
 | Wed, 11 Mar 2026 22:53:13 GMT | HTB Return: LDAP Credential Theft to Service Hijacking | Onurcan Genç | [Read More](https://medium.com/p/20ec14ee9775) |
@@ -111,4 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Mar 2026 16:34:56 GMT | 7 TLS Certificate Mistakes That Cause Kubernetes Outages (And How to Fix Them) | Ramesh | [Read More](https://medium.com/p/98359ace9d27) |
 | Wed, 11 Mar 2026 16:30:41 GMT | How to Setup AWS IRSA for an On-Premises Kubernetes Cluster | Jeremy Sam J.  (JCodeX) | [Read More](https://medium.com/p/ab7ff6cf8faf) |
 | Wed, 11 Mar 2026 16:29:52 GMT | SPARTA v3.2 — What’s New? | The Aerospace Corporation | [Read More](https://medium.com/p/ff7114c5220d) |
-| Wed, 11 Mar 2026 16:29:22 GMT | Why Weak PIN Authentication Fails Fast: Lessons From Building a Python Lab Tester | Mkirahmet | [Read More](https://medium.com/p/d7a418165160) |
