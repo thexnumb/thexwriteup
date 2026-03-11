@@ -12,8 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Mar 2026 09:35:48 GMT | AWS Shared Responsibility Model: Who Secures What in the Cloud? | Timothy Olubiyi | [Read More](https://medium.com/p/9c6e8ae2c4f4) |
+| Wed, 11 Mar 2026 09:26:33 GMT | Understanding Large Language Models (LLMs): How They Work and Why They Matter | Rehan Ansari | [Read More](https://medium.com/p/b6508bc14d84) |
+| Wed, 11 Mar 2026 09:20:45 GMT | Information Technology: Unlocking Career Opportunities and IT Jobs in Tiruchendur | Prabhakaran | [Read More](https://medium.com/p/90856abccf30) |
+| Wed, 11 Mar 2026 09:12:52 GMT | How a Simple Click Led to Account Takeover and Ad Fraud | Umer | [Read More](https://medium.com/p/51c4e86fb95f) |
+| Wed, 11 Mar 2026 09:09:20 GMT | Day 2: Advent of Cyber 2025 (Phishing) | Mrinal Kumar Chandra | [Read More](https://medium.com/p/21451da31002) |
+| Wed, 11 Mar 2026 09:01:37 GMT | 11/03/2026 | Matthew Querzoli | [Read More](https://medium.com/p/9ee108edddeb) |
+| Wed, 11 Mar 2026 09:01:13 GMT | Digital Security, Radicalization, and Terrorism: A Growing Threat to Pakistan’s Youth and National… | Syed Razi Hasnain | [Read More](https://medium.com/p/75c460363655) |
+| Wed, 11 Mar 2026 08:55:02 GMT | Hack-Proof Your Career: The Ultimate Guide to Choosing a Cyber Security Course in Bangalore | Shazeb EyeQ | [Read More](https://medium.com/p/c3a57dddb9db) |
+| Wed, 11 Mar 2026 08:52:29 GMT | اختفاء ستوري التلجرام في 2026: الأسباب الخفية والحلول التقنية النهائية
+​المقدمة:
+مع التحول الجذري… | Whatsfixers | [Read More](https://medium.com/p/6aa0a703dce2) |
+| Wed, 11 Mar 2026 08:51:18 GMT | Basic AD Enumeration — TryHackMe | Rizqi Ramadhan | [Read More](https://medium.com/p/f1b89b1c8157) |
+| Wed, 11 Mar 2026 08:44:07 GMT | Market Dynamics and Technological Innovations in the Stolen Vehicle Tracking Software Industry | Rakshitmehta | [Read More](https://medium.com/p/30fca71e6868) |
+| Wed, 11 Mar 2026 08:40:15 GMT | Le mythe de l’effacement | VPN Mon Ami | [Read More](https://medium.com/p/b6ce53002659) |
+| Wed, 11 Mar 2026 08:38:50 GMT | The Reverse Turing Paradox: Why We Must Stop Testing Minds and Start Testing Physics | Dino Demetriou | [Read More](https://medium.com/p/e2aaa4400552) |
 | Wed, 11 Mar 2026 08:37:53 GMT | I Passed the CRTA Exam; Here’s My Honest Experience | Tapasvi Madhak | [Read More](https://medium.com/p/63c5c4cf7b13) |
+| Wed, 11 Mar 2026 08:37:01 GMT | I Built an Insecure AI Agent on Purpose. Here’s What Happened. | Danielmcarbono | [Read More](https://medium.com/p/56e24a96429d) |
 | Wed, 11 Mar 2026 08:35:25 GMT | 10 Smallest Hacker Gadgets & Their Ethical Uses in Pen Testing | EINITIAL24 | [Read More](https://medium.com/p/40b4f30d7bc0) |
+| Wed, 11 Mar 2026 08:34:07 GMT | Non saprei come restare | Chiara on the road | [Read More](https://medium.com/p/879ec0d06795) |
 | Wed, 11 Mar 2026 08:31:38 GMT | Iran’s Cyber Strategy: Winning Without Reinventing the Wheel | Herbert Doucet | [Read More](https://medium.com/p/5d6751f6b956) |
 | Wed, 11 Mar 2026 08:27:57 GMT | Exposed Credentials in a Public Repository Leading to Administrative Access in a CSIRT Portal | Rexusz 1337 | [Read More](https://medium.com/p/3dfb4d9fc73d) |
 | Wed, 11 Mar 2026 08:23:34 GMT | The Impact of Artificial Intelligence on Management Information Systems: Assessing Whether AI Can… | Kefuoe Sole | [Read More](https://medium.com/p/90b2b4b00cce) |
@@ -99,18 +116,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Mar 2026 04:02:32 GMT | TryHackMe Writeup: AD Basic Enumeration | Aiko Devy Ratnasari | [Read More](https://medium.com/p/15d4fe28a1c1) |
 | Wed, 11 Mar 2026 04:01:01 GMT | Europe Is Paying for Wars It Didn’t Choose | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/a70582d8d1c0) |
 | Wed, 11 Mar 2026 03:57:33 GMT | From Productivity Tool to Windows Internals Lab: Building a Startup & Shutdown Automation System | Manisha Banshiwal | [Read More](https://medium.com/p/1647f1877a65) |
-| Wed, 11 Mar 2026 03:53:15 GMT | Zero Trust for Oracle Fusion Cloud (ERP and HCM): SSO, MFA, and Conditional Access That Works in… | Khader Nawaz khan | [Read More](https://medium.com/p/6092c5be2db9) |
-| Wed, 11 Mar 2026 03:38:08 GMT | Windows Forensics Artifacts: SRUM, Jump Lists, Recycle Bin, Search Index, RDP Cache, and Thumbnail… | Sidhantchaurasiya | [Read More](https://medium.com/p/fc7c79f6de94) |
-| Wed, 11 Mar 2026 03:33:31 GMT | 5 Best Free Mobile Device Management (MDM) Software in 2026 | Alok Londhe | [Read More](https://medium.com/p/1418c0b68492) |
-| Wed, 11 Mar 2026 03:31:35 GMT | Why Temporary Phone Numbers and Disposable SMS Services Are Becoming Essential Online | Instant Num | [Read More](https://medium.com/p/531f8a3f131a) |
-| Wed, 11 Mar 2026 03:31:28 GMT | Memory Poisoning and Tool Misuse: The Overlooked Vulnerabilities Crushing Agentic Deployments in… | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/44cca2063082) |
-| Wed, 11 Mar 2026 03:25:26 GMT | HorusEye: I Built an AI-Assisted Active Directory Attack Platform After 1000+ CTF Rooms | Omar Tamer | [Read More](https://medium.com/p/7f0ace21895c) |
-| Wed, 11 Mar 2026 03:24:53 GMT | Why Most Biometric Attendance Systems Are Insecure — And How to Deploy Hikvision Attendance Safely | Irfan Haris | [Read More](https://medium.com/p/c601ba85f5e0) |
-| Wed, 11 Mar 2026 03:11:25 GMT | Red Teaming RAG Systems: Chaining Features for Maximum Impact | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/5cf4c09109f9) |
-| Wed, 11 Mar 2026 03:07:43 GMT | Active Directory Lab: From Setup to Golden Ticket & Defense ️ | Zyad Roshdy | [Read More](https://medium.com/p/bc0da9751912) |
-| Wed, 11 Mar 2026 02:58:24 GMT | Building Secure “Data Domains” for Large-Scale AI Agent Deployment | Coffee, Coke and Code | [Read More](https://medium.com/p/b8b9b4dcd03e) |
-| Wed, 11 Mar 2026 02:57:30 GMT | Jangan Tunggu Kena Hack: Mengenal Keamanan Informasi dan Panduan “Self-Care” Digital | Marsya Agsandina | [Read More](https://medium.com/p/949a61d47a95) |
-| Wed, 11 Mar 2026 02:56:13 GMT | When gets() Gets You in Trouble | Systemic | [Read More](https://medium.com/p/89cacc8dc55d) |
-| Wed, 11 Mar 2026 02:54:21 GMT | WordPress Security in 2026: The Complete Hardening Guide | Royalpluginsteam | [Read More](https://medium.com/p/756d4579c7f8) |
-| Wed, 11 Mar 2026 02:51:13 GMT | Building a SOC Detection Engineering Lab with Elastic, Mythic C2, and Attack Simulations | Gregory Dawson | [Read More](https://medium.com/p/3e9200b41cd8) |
-| Wed, 11 Mar 2026 02:44:28 GMT | I Built a Honeypot That Profiles Attackers and Maps Their Behavior to MITRE ATT&CK | Sanketh Subhas | [Read More](https://medium.com/p/a83a03d497d0) |
