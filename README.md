@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Mar 2026 14:09:30 GMT | Your AI Agents Are Now First-Class Threat Actors — And Your Security Model Has No Idea | Angelo David Coetzee | [Read More](https://medium.com/p/7cbca8fb0cfc) |
+| Wed, 11 Mar 2026 14:06:00 GMT | What the Moltbot Meltdown Taught Us About AI Security | James Peter Webb | [Read More](https://medium.com/p/89a7d6d1d758) |
+| Wed, 11 Mar 2026 14:04:32 GMT | Content Security Policy (CSP) in Next.js and styled-components — The Complete Guide | Kamil Witkowski | [Read More](https://medium.com/p/0925d3dc1a7c) |
+| Wed, 11 Mar 2026 14:01:01 GMT | Cyber Briefing: 2026.03.11 | CyberMaterial | [Read More](https://medium.com/p/77d42d842e90) |
+| Wed, 11 Mar 2026 13:59:28 GMT | The Dirty Secret of Vibe Coding | Ajekigbe Michael. A | [Read More](https://medium.com/p/7b13352c618d) |
+| Wed, 11 Mar 2026 13:56:56 GMT | When the Shield Becomes the Door: Unpacking the Nginx UI Backup Vulnerability (CVE-2026–27944) | Majid | [Read More](https://medium.com/p/5a5e5de007b7) |
+| Wed, 11 Mar 2026 13:56:01 GMT | Hydranet Monthly Recap #43 — February 2026 | HYDRANET | [Read More](https://medium.com/p/0006972a46a4) |
+| Wed, 11 Mar 2026 13:55:09 GMT | AI Perimeter Security Is Not Enough — MCP Needs Endpoint Security for Enterprise Adoption | Sebastian Martinez | [Read More](https://medium.com/p/ffde03b10e14) |
+| Wed, 11 Mar 2026 13:54:31 GMT | Intigriti XSS Challenge (InkDrop) Write-up — Stored XSS via Preview + JSONP Callback | Java Coder | [Read More](https://medium.com/p/e4db4ff49701) |
+| Wed, 11 Mar 2026 13:46:02 GMT | From LFI to Root: Compromising the Pterodactyl Panel | Jesse Ridley | [Read More](https://medium.com/p/f262796ade1e) |
+| Wed, 11 Mar 2026 13:32:15 GMT | Information Gathering in Penetration Testing | Dikshya Shrestha | [Read More](https://medium.com/p/1102412f8986) |
+| Wed, 11 Mar 2026 13:29:22 GMT | MFA Didn’t Stop Phishing - It Just Changed the Attack | Dr. Shashi Karhail | [Read More](https://medium.com/p/6314511dbb03) |
+| Wed, 11 Mar 2026 13:26:45 GMT | The Double-Edged Sword: How AI is Both Saving and Threatening Our Digital World in 2026 | Xaltius | [Read More](https://medium.com/p/6589923d4e34) |
+| Wed, 11 Mar 2026 13:25:10 GMT | Developers Beware: This Fake LinkedIn Interview Campaign is Targeting YOU (And Your SSH Keys) | Harisjosinpeter | [Read More](https://medium.com/p/55ef9286abf0) |
+| Wed, 11 Mar 2026 13:20:03 GMT | How Much Gold Should a Small Investor Hold? | Santoshghosh2856@gmail.com | [Read More](https://medium.com/p/c69b415b936d) |
+| Wed, 11 Mar 2026 13:18:42 GMT | Microsoft SQL Server Zero-Day Vulnerability: Why This Privilege Escalation Issue Matters | Sharanraju | [Read More](https://medium.com/p/a8ac529542ec) |
+| Wed, 11 Mar 2026 13:15:25 GMT | The CIA triad | Xavier Mico Perez | [Read More](https://medium.com/p/4969fa59ef2e) |
+| Wed, 11 Mar 2026 13:01:01 GMT | Why Named Credentials Matter | Hanovconsulting | [Read More](https://medium.com/p/1433f56709f2) |
 | Wed, 11 Mar 2026 12:58:38 GMT | Information Technology (IT), Software vs Hardware Industries. | Mahiremat | [Read More](https://medium.com/p/8cddef754e33) |
 | Wed, 11 Mar 2026 12:56:00 GMT | Ghost Codes: How Deleted Accounts Keep Paying Rewards | 0xMo7areb | [Read More](https://medium.com/p/283317083a21) |
 | Wed, 11 Mar 2026 12:51:46 GMT | Kingdom of Saudi Arabia Cybersecurity Market Worldwide Industry Growth, Statistics, Opportunities &… | Technology Geek | [Read More](https://medium.com/p/e5f04edf01b5) |
@@ -96,21 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Mar 2026 08:38:50 GMT | The Reverse Turing Paradox: Why We Must Stop Testing Minds and Start Testing Physics | Dino Demetriou | [Read More](https://medium.com/p/e2aaa4400552) |
 | Wed, 11 Mar 2026 08:37:53 GMT | I Passed the CRTA Exam; Here’s My Honest Experience | Tapasvi Madhak | [Read More](https://medium.com/p/63c5c4cf7b13) |
 | Wed, 11 Mar 2026 08:37:01 GMT | I Built an Insecure AI Agent on Purpose. Here’s What Happened. | Danielmcarbono | [Read More](https://medium.com/p/56e24a96429d) |
-| Wed, 11 Mar 2026 08:35:25 GMT | 10 Smallest Hacker Gadgets & Their Ethical Uses in Pen Testing | EINITIAL24 | [Read More](https://medium.com/p/40b4f30d7bc0) |
-| Wed, 11 Mar 2026 08:34:07 GMT | Non saprei come restare | Chiara on the road | [Read More](https://medium.com/p/879ec0d06795) |
-| Wed, 11 Mar 2026 08:31:38 GMT | Iran’s Cyber Strategy: Winning Without Reinventing the Wheel | Herbert Doucet | [Read More](https://medium.com/p/5d6751f6b956) |
-| Wed, 11 Mar 2026 08:27:57 GMT | Exposed Credentials in a Public Repository Leading to Administrative Access in a CSIRT Portal | Rexusz 1337 | [Read More](https://medium.com/p/3dfb4d9fc73d) |
-| Wed, 11 Mar 2026 08:23:34 GMT | The Impact of Artificial Intelligence on Management Information Systems: Assessing Whether AI Can… | Kefuoe Sole | [Read More](https://medium.com/p/90b2b4b00cce) |
-| Wed, 11 Mar 2026 08:22:51 GMT | Best AI Penetration Testing Course in Delhi — Complete Guide (2026) | Manisha Chaudhary | [Read More](https://medium.com/p/57e694c3ee98) |
-| Wed, 11 Mar 2026 08:21:11 GMT | From Frameworks to Fieldwork: How Enterprise Security Actually Gets Organized | Shoaib Bin Rashid | [Read More](https://medium.com/p/826f9267c4c0) |
-| Wed, 11 Mar 2026 08:18:42 GMT | How a $2.7M Bitcoin DeFi Hack at Solv Protocol Exposed the Next Wave of Crypto Security Risks | AnantGyaan | [Read More](https://medium.com/p/6d554efbc841) |
-| Wed, 11 Mar 2026 08:18:05 GMT | How Hackers Are Quietly Using AI to Supercharge Cyberattacks | Subhan Ali | [Read More](https://medium.com/p/0af9a62683ef) |
-| Wed, 11 Mar 2026 08:17:10 GMT | 10 Recon Mistakes That Instantly Expose Hackers | Fateyaly | [Read More](https://medium.com/p/d0ddcdf7cfc7) |
-| Wed, 11 Mar 2026 08:14:35 GMT | Is It Safe to Install OpenClaw on a VPS? | Eng. Sanjaya Kumar | [Read More](https://medium.com/p/500746376da2) |
-| Wed, 11 Mar 2026 08:12:14 GMT | The Bug Bounty Hunter Roadmap (2026): From Curious Beginner to Real Vulnerability Finder | Bugitrix | [Read More](https://medium.com/p/6605198b820c) |
-| Wed, 11 Mar 2026 08:08:35 GMT | Your AI Agent Is Executing Whatever the LLM Tells It To | Danielmcarbono | [Read More](https://medium.com/p/d39517115c1c) |
-| Wed, 11 Mar 2026 08:08:33 GMT | Understanding the Purpose of PBX System Security for Business | Doris William | [Read More](https://medium.com/p/59af5262295e) |
-| Wed, 11 Mar 2026 08:07:09 GMT | THE IMPORTANCE OF SERVERS IN MODERN NETWORK INFRASTRUCTURE | Favour Mulungi | [Read More](https://medium.com/p/16537754187e) |
-| Wed, 11 Mar 2026 08:01:00 GMT | The Group That Hacked 400 Companies While Salesforce Watched: Inside ShinyHunters | MayhemCode | [Read More](https://medium.com/p/77234e779fc7) |
-| Wed, 11 Mar 2026 08:01:00 GMT | Breaking into Metasploitable2: A Hands-On Penetration Testing Lab | Madu Nelson Izunna | [Read More](https://medium.com/p/8f31168c017a) |
-| Wed, 11 Mar 2026 07:58:58 GMT | Ability To Do Point In Time Restore / Rebuild Of Environments | Robert Broeckelmann | [Read More](https://medium.com/p/4c574b2dc8f0) |
