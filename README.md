@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Mar 2026 17:27:03 GMT | When the UI lies and new powers are discovered. | Yosefmostef | [Read More](https://medium.com/p/bb39d97beeaf) |
+| Wed, 11 Mar 2026 17:21:21 GMT | What Happens to Your “Deleted” Messages (And Why I Built a Chat App With No Database) | Doops | [Read More](https://medium.com/p/2f9462beb7c6) |
+| Wed, 11 Mar 2026 17:21:20 GMT | : | Mko Prr | [Read More](https://medium.com/p/22ef9d0d8839) |
+| Wed, 11 Mar 2026 17:19:29 GMT | Your AI Agents Are Live. Your Governance Isn’t. That’s a Problem Nobody Wants to Talk About. | AIThinkerLab | [Read More](https://medium.com/p/8f1675aeb1f9) |
+| Wed, 11 Mar 2026 17:17:54 GMT | AppsFlyer Web SDK Compromise: Independent Payload Analysis | Daniel Smith | [Read More](https://medium.com/p/109afd72aba9) |
+| Wed, 11 Mar 2026 17:16:01 GMT | Helium Challenge: Menemukan Reflected XSS di VulnLib dan Eksploitasinya untuk Phishing | SubzXD | [Read More](https://medium.com/p/27394cb9d4b5) |
+| Wed, 11 Mar 2026 17:11:27 GMT | Web Authentication Vulnerabilities | Okan | [Read More](https://medium.com/p/17a4fcb3dbd0) |
+| Wed, 11 Mar 2026 17:00:39 GMT | Outdoor Security Cameras for Property Protection | AlexBryn | [Read More](https://medium.com/p/d935c24c3a58) |
+| Wed, 11 Mar 2026 16:44:54 GMT | The Coffee Order That Made the Database Sleep | RyuuKhagetsu | [Read More](https://medium.com/p/924f21f97bda) |
+| Wed, 11 Mar 2026 16:42:45 GMT | Cara melakukan AD: Enumerasi Dasar di TryHackme | Alfin Syahrin | [Read More](https://medium.com/p/f54894e98bb8) |
+| Wed, 11 Mar 2026 16:42:13 GMT | The Way Of IT — Issue: 10 | THE WAY OF IT | [Read More](https://medium.com/p/a09be7d8cfdb) |
+| Wed, 11 Mar 2026 16:35:46 GMT | Phase 3: Human Approval (The Immovable Gate) | Root | [Read More](https://medium.com/p/03a1ed685ce4) |
+| Wed, 11 Mar 2026 16:34:56 GMT | 7 TLS Certificate Mistakes That Cause Kubernetes Outages (And How to Fix Them) | Ramesh | [Read More](https://medium.com/p/98359ace9d27) |
+| Wed, 11 Mar 2026 16:30:41 GMT | How to Setup AWS IRSA for an On-Premises Kubernetes Cluster | Jeremy Sam J.  (JCodeX) | [Read More](https://medium.com/p/ab7ff6cf8faf) |
+| Wed, 11 Mar 2026 16:29:52 GMT | SPARTA v3.2 — What’s New? | The Aerospace Corporation | [Read More](https://medium.com/p/ff7114c5220d) |
+| Wed, 11 Mar 2026 16:29:22 GMT | Why Weak PIN Authentication Fails Fast: Lessons From Building a Python Lab Tester | Mkirahmet | [Read More](https://medium.com/p/d7a418165160) |
+| Wed, 11 Mar 2026 16:15:55 GMT | Android Application Security Testing: A Practical Methodology | Uppulaabhirampatel | [Read More](https://medium.com/p/445e6d9815c5) |
+| Wed, 11 Mar 2026 16:14:10 GMT | Why Network Testing Is Critical for Modern Businesses in 2026 | Gaogroupdmi | [Read More](https://medium.com/p/877f6e0ebdf1) |
+| Wed, 11 Mar 2026 16:12:11 GMT | The European Cybersecurity Paradox: Why Innovation Thrives While Exploitation Is Strictly… | Sai kiran | [Read More](https://medium.com/p/9e11bd9db610) |
+| Wed, 11 Mar 2026 16:09:52 GMT | Just Give Me Permission To Be Fragile and Still Be Held | P. Harlow's Archive | [Read More](https://medium.com/p/fb0f301fb54a) |
+| Wed, 11 Mar 2026 16:09:01 GMT | I'm Staring From Scratch — Bug Bounty | the_air_cyborg | [Read More](https://medium.com/p/5ef4db56d76d) |
 | Wed, 11 Mar 2026 16:07:41 GMT | Instagram Outage Disrupts Posting and Messaging: What It Means for Digital Reliability | Chetan Seripally | [Read More](https://medium.com/p/12dfd3cabd26) |
 | Wed, 11 Mar 2026 16:06:32 GMT | Menembus Active Directory: Writeup TryHackMe Attacktive Directory (Linux) | Vyrasyaa | [Read More](https://medium.com/p/be755c4b3316) |
 | Wed, 11 Mar 2026 16:00:48 GMT | The Cybersecurity Career Starter: A Professional Jr SOC Analyst Training & Interview Handbook | Hemant Patkar, CISSP | [Read More](https://medium.com/p/a07d23d1b0c0) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Mar 2026 11:26:20 GMT | What You Will Learn in Cyber Security Training: Modules, Tools & Real-World Skills | Janbask Training | [Read More](https://medium.com/p/dd3602a20bd1) |
 | Wed, 11 Mar 2026 11:23:15 GMT | Lab: SQL injection UNION attack, retrieving multiple values in a single column | Songül Kızılay Özügürler | [Read More](https://medium.com/p/5b54fabcbbbc) |
 | Wed, 11 Mar 2026 11:22:46 GMT | The Courage to Say Yes: A Poem About Connection and New Beginnings | Printique studios | [Read More](https://medium.com/p/f2a2e6de20e6) |
-| Wed, 11 Mar 2026 11:21:40 GMT | Demystifying Bug Bounties: A Deep Dive Into Live Hacking | Krishna Kumar | [Read More](https://medium.com/p/5a964aeee0da) |
-| Wed, 11 Mar 2026 11:21:27 GMT | Solving a Bugforge Challenge — SQLi in Ottergram | Pranaya Shrestha | [Read More](https://medium.com/p/7be12732dfcf) |
-| Wed, 11 Mar 2026 11:16:03 GMT | Google Trends in (Cyber) Threat Intelligence | Prtheus | [Read More](https://medium.com/p/385e6fa7ee55) |
-| Wed, 11 Mar 2026 11:11:07 GMT | INTEGRATION OF WAZUH SIEM WITH NIDS SURICATA — COMPREHENSIVE GUIDE | Michuu1337 | [Read More](https://medium.com/p/fc46f8154015) |
-| Wed, 11 Mar 2026 11:02:09 GMT | Strengthening Cybersecurity with Exposure Management and Advanced Threat Detection | Vijilan | [Read More](https://medium.com/p/40b7f1d413a1) |
-| Wed, 11 Mar 2026 11:01:29 GMT | Semantic Shellcode Injection | Erwoan Thebault | [Read More](https://medium.com/p/d1f06ed109a9) |
-| Wed, 11 Mar 2026 11:01:00 GMT | Rebuilding Europe’s defences: how to drive a coordinated defence surge | European Court of Auditors | [Read More](https://medium.com/p/b8ede62c16c3) |
-| Wed, 11 Mar 2026 11:01:00 GMT | ANY.RUN & Tines: Scale SOC and Meet SLAs with Intelligent Workflows | ANY.RUN | [Read More](https://medium.com/p/243737f24c9d) |
-| Wed, 11 Mar 2026 10:59:27 GMT | I Built a Framework for AI Identity Disclosure. Then HIPAA Made It Mandatory. | Brianna N. Baynard | [Read More](https://medium.com/p/8df56a02e658) |
-| Wed, 11 Mar 2026 10:58:59 GMT | Monitoring Attacks with T-Pot: Installing a Honeypot on Google Cloud | Jose Praveen | [Read More](https://medium.com/p/c001e231cac5) |
-| Wed, 11 Mar 2026 10:57:34 GMT | The Ugly Side of Modern Witchcraft Nobody Talks About | Kittie Paranormal | [Read More](https://medium.com/p/1c58ec653131) |
-| Wed, 11 Mar 2026 10:56:32 GMT | ELV and Security Systems in Dubai: How Top ELV Companies Ensure Compliance & Safety | Vastechoffpage | [Read More](https://medium.com/p/8a78c2689ba6) |
-| Wed, 11 Mar 2026 10:53:23 GMT | The AI Stock Flying Under Palantir’s Radar And Why It Might Be the Smarter Buy | UDIS View | [Read More](https://medium.com/p/5ce37b770796) |
-| Wed, 11 Mar 2026 10:51:00 GMT | Most AI Governance Policies Fail Before Anyone Reads Page Two | Tyson Martin | [Read More](https://medium.com/p/cd201c181337) |
-| Wed, 11 Mar 2026 10:49:28 GMT | Building a Dockerized AI-Powered Host Vulnerability Assessment Tool | Andrey Pautov | [Read More](https://medium.com/p/cd6e2147ce59) |
-| Wed, 11 Mar 2026 10:45:24 GMT | When Authority Overrides Engineering, Failure Gets More Expensive | Peter Hillier/Halton | [Read More](https://medium.com/p/e0a66b4d6596) |
-| Wed, 11 Mar 2026 10:41:01 GMT | AI made me do it. The code review, that is. | Jere Le | [Read More](https://medium.com/p/e4898102dc7a) |
-| Wed, 11 Mar 2026 10:35:04 GMT | 當 AI 狂潮遇上股市震盪：2026 年的必修課題 | Hsiehsungling | [Read More](https://medium.com/p/0ae090456d68) |
-| Wed, 11 Mar 2026 10:33:23 GMT | Recovering Hidden SOL: How RYS (RefundYourSOL) Helps Solana Users Reclaim Their Funds | Babura | [Read More](https://medium.com/p/5ed2a67b737c) |
-| Wed, 11 Mar 2026 10:31:25 GMT | How to Measure Anything in Information Security: Rethinking Metrics | Vicente Aceituno Canal | [Read More](https://medium.com/p/d15e3068386e) |
-| Wed, 11 Mar 2026 10:30:06 GMT | Strengthening Security in a 1xBet Clone Betting Platform | James hall | [Read More](https://medium.com/p/8d093a56b2d4) |
