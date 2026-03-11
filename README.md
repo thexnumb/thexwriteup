@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Mar 2026 19:52:29 GMT | and for my next trick, i will… | louisse | [Read More](https://medium.com/p/fd21a30bee3a) |
+| Wed, 11 Mar 2026 19:50:11 GMT | Code Execution in Google Gemini | Dhiraj | [Read More](https://medium.com/p/4e5909ec167d) |
+| Wed, 11 Mar 2026 19:47:52 GMT | Attacktive Directory AD Pentesting Write-Up | Jo | [Read More](https://medium.com/p/4dab4f7f619e) |
+| Wed, 11 Mar 2026 19:46:47 GMT | SUDO MAKE ME A SANDWICH — PicoCTF 2026 | Bridget | [Read More](https://medium.com/p/103a89fe7b25) |
+| Wed, 11 Mar 2026 19:46:43 GMT | Red Team | Heavenblack | [Read More](https://medium.com/p/62dec1339df2) |
+| Wed, 11 Mar 2026 19:45:16 GMT | France’s Health Data Breach: When “Administrative” Turns Deeply Personal | Ilias Armenakis | [Read More](https://medium.com/p/127c62140e58) |
+| Wed, 11 Mar 2026 19:38:14 GMT | Building a SIEM Lab with Wazuh: Installation and Linux Agent Deployment | Augustine Sito | [Read More](https://medium.com/p/1d6b93de8f90) |
+| Wed, 11 Mar 2026 19:38:09 GMT | We’re Going to Need a Smaller Lake | Nehad | [Read More](https://medium.com/p/60298ae699fb) |
+| Wed, 11 Mar 2026 19:33:35 GMT | From 11 Failed Reports to a NASA Letter of Appreciation — My Bug Bounty Journey | krishoffsec | [Read More](https://medium.com/p/3f9a721a366a) |
+| Wed, 11 Mar 2026 19:33:31 GMT | Linux Logging for SOC — TryHackMe Walkthrough | Owais Ali Khan | [Read More](https://medium.com/p/f757f7967fd9) |
+| Wed, 11 Mar 2026 19:33:15 GMT | Your CRM Might Be Leaking Client Data — A Hidden Risk Freelancers Ignore | Cyber Safety Zone | [Read More](https://medium.com/p/f43420976684) |
+| Wed, 11 Mar 2026 19:32:19 GMT | How Onion Search Engines Index Hidden Services on the Tor Network | Tor BBB | [Read More](https://medium.com/p/affeb653a443) |
+| Wed, 11 Mar 2026 19:31:01 GMT | 8,000 Victims, One Helpline: The Cyber Bullying Wave You Can’t Ignore | Lalit Tech Savvy | [Read More](https://medium.com/p/3c58eee752b4) |
+| Wed, 11 Mar 2026 19:28:34 GMT | The Rising Cyber Threats in the UAE: Why Businesses Must Act Now | oadtechnologies | [Read More](https://medium.com/p/502fc8bd3ceb) |
 | Wed, 11 Mar 2026 19:05:03 GMT | Proving Grounds — Hokkaido (OSCP Prep) | SilentExploit | [Read More](https://medium.com/p/7916d15393d5) |
 | Wed, 11 Mar 2026 18:58:42 GMT | PRODUCTION SYSTEMS PLAN FOR FAILURE. | NanoChain | [Read More](https://medium.com/p/cd60211fde98) |
 | Wed, 11 Mar 2026 18:57:07 GMT | My Learning Experience with Hacking, Virtual Machines, Linux, and Networking | Anna Joy | [Read More](https://medium.com/p/29e580d49296) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Mar 2026 14:33:04 GMT | An Open letter from the margins of the obvious | Abhinav Jain | [Read More](https://medium.com/p/7497bfad29b3) |
 | Wed, 11 Mar 2026 14:22:56 GMT | “Identity Management Testing: Testing the Security of Web Application Identity Systems Based on… | Habibi | [Read More](https://medium.com/p/0992fdbccfb2) |
 | Wed, 11 Mar 2026 14:22:10 GMT | Part 1: Understanding JWT Tokens — The Hotel Booking analogy | Vic Reno | [Read More](https://medium.com/p/8048ff4b43aa) |
-| Wed, 11 Mar 2026 14:19:04 GMT | Best Smart Garage Door Opener with Camera for Safer Homes | Criminology Expert | [Read More](https://medium.com/p/4bae8ee3fa4e) |
-| Wed, 11 Mar 2026 14:09:30 GMT | Your AI Agents Are Now First-Class Threat Actors — And Your Security Model Has No Idea | Angelo David Coetzee | [Read More](https://medium.com/p/7cbca8fb0cfc) |
-| Wed, 11 Mar 2026 14:06:00 GMT | What the Moltbot Meltdown Taught Us About AI Security | James Peter Webb | [Read More](https://medium.com/p/89a7d6d1d758) |
-| Wed, 11 Mar 2026 14:04:32 GMT | Content Security Policy (CSP) in Next.js and styled-components — The Complete Guide | Kamil Witkowski | [Read More](https://medium.com/p/0925d3dc1a7c) |
-| Wed, 11 Mar 2026 14:01:01 GMT | Cyber Briefing: 2026.03.11 | CyberMaterial | [Read More](https://medium.com/p/77d42d842e90) |
-| Wed, 11 Mar 2026 13:59:28 GMT | The Dirty Secret of Vibe Coding | Ajekigbe Michael. A | [Read More](https://medium.com/p/7b13352c618d) |
-| Wed, 11 Mar 2026 13:56:56 GMT | When the Shield Becomes the Door: Unpacking the Nginx UI Backup Vulnerability (CVE-2026–27944) | Majid | [Read More](https://medium.com/p/5a5e5de007b7) |
-| Wed, 11 Mar 2026 13:56:01 GMT | Hydranet Monthly Recap #43 — February 2026 | HYDRANET | [Read More](https://medium.com/p/0006972a46a4) |
-| Wed, 11 Mar 2026 13:55:09 GMT | AI Perimeter Security Is Not Enough — MCP Needs Endpoint Security for Enterprise Adoption | Sebastian Martinez | [Read More](https://medium.com/p/ffde03b10e14) |
-| Wed, 11 Mar 2026 13:54:31 GMT | Intigriti XSS Challenge (InkDrop) Write-up — Stored XSS via Preview + JSONP Callback | Java Coder | [Read More](https://medium.com/p/e4db4ff49701) |
-| Wed, 11 Mar 2026 13:46:02 GMT | From LFI to Root: Compromising the Pterodactyl Panel | Jesse Ridley | [Read More](https://medium.com/p/f262796ade1e) |
-| Wed, 11 Mar 2026 13:32:15 GMT | Information Gathering in Penetration Testing | Dikshya Shrestha | [Read More](https://medium.com/p/1102412f8986) |
-| Wed, 11 Mar 2026 13:29:22 GMT | MFA Didn’t Stop Phishing - It Just Changed the Attack | Dr. Shashi Karhail | [Read More](https://medium.com/p/6314511dbb03) |
-| Wed, 11 Mar 2026 13:26:45 GMT | The Double-Edged Sword: How AI is Both Saving and Threatening Our Digital World in 2026 | Xaltius | [Read More](https://medium.com/p/6589923d4e34) |
