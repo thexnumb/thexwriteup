@@ -12,10 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Mar 2026 11:23:15 GMT | Lab: SQL injection UNION attack, retrieving multiple values in a single column | Songül Kızılay Özügürler | [Read More](https://medium.com/p/5b54fabcbbbc) |
+| Wed, 11 Mar 2026 11:22:46 GMT | The Courage to Say Yes: A Poem About Connection and New Beginnings | Printique studios | [Read More](https://medium.com/p/f2a2e6de20e6) |
+| Wed, 11 Mar 2026 11:21:40 GMT | Demystifying Bug Bounties: A Deep Dive Into Live Hacking | Krishna Kumar | [Read More](https://medium.com/p/5a964aeee0da) |
+| Wed, 11 Mar 2026 11:21:27 GMT | Solving a Bugforge Challenge — SQLi in Ottergram | Pranaya Shrestha | [Read More](https://medium.com/p/7be12732dfcf) |
+| Wed, 11 Mar 2026 11:16:03 GMT | Google Trends in (Cyber) Threat Intelligence | Prtheus | [Read More](https://medium.com/p/385e6fa7ee55) |
+| Wed, 11 Mar 2026 11:11:07 GMT | INTEGRATION OF WAZUH SIEM WITH NIDS SURICATA — COMPREHENSIVE GUIDE | Michuu1337 | [Read More](https://medium.com/p/fc46f8154015) |
+| Wed, 11 Mar 2026 11:02:09 GMT | Strengthening Cybersecurity with Exposure Management and Advanced Threat Detection | Vijilan | [Read More](https://medium.com/p/40b7f1d413a1) |
+| Wed, 11 Mar 2026 11:01:29 GMT | Semantic Shellcode Injection | Erwoan Thebault | [Read More](https://medium.com/p/d1f06ed109a9) |
+| Wed, 11 Mar 2026 11:01:00 GMT | Rebuilding Europe’s defences: how to drive a coordinated defence surge | European Court of Auditors | [Read More](https://medium.com/p/b8ede62c16c3) |
+| Wed, 11 Mar 2026 10:59:27 GMT | I Built a Framework for AI Identity Disclosure. Then HIPAA Made It Mandatory. | Brianna N. Baynard | [Read More](https://medium.com/p/8df56a02e658) |
+| Wed, 11 Mar 2026 10:58:59 GMT | Monitoring Attacks with T-Pot: Installing a Honeypot on Google Cloud | Jose Praveen | [Read More](https://medium.com/p/c001e231cac5) |
+| Wed, 11 Mar 2026 10:57:34 GMT | The Ugly Side of Modern Witchcraft Nobody Talks About | Kittie Paranormal | [Read More](https://medium.com/p/1c58ec653131) |
+| Wed, 11 Mar 2026 10:56:32 GMT | ELV and Security Systems in Dubai: How Top ELV Companies Ensure Compliance & Safety | Vastechoffpage | [Read More](https://medium.com/p/8a78c2689ba6) |
+| Wed, 11 Mar 2026 10:53:23 GMT | The AI Stock Flying Under Palantir’s Radar And Why It Might Be the Smarter Buy | UDIS View | [Read More](https://medium.com/p/5ce37b770796) |
+| Wed, 11 Mar 2026 10:51:00 GMT | Most AI Governance Policies Fail Before Anyone Reads Page Two | Tyson Martin | [Read More](https://medium.com/p/cd201c181337) |
+| Wed, 11 Mar 2026 10:49:28 GMT | Building a Dockerized AI-Powered Host Vulnerability Assessment Tool | Andrey Pautov | [Read More](https://medium.com/p/cd6e2147ce59) |
+| Wed, 11 Mar 2026 10:45:24 GMT | When Authority Overrides Engineering, Failure Gets More Expensive | Peter Hillier/Halton | [Read More](https://medium.com/p/e0a66b4d6596) |
 | Wed, 11 Mar 2026 10:41:01 GMT | AI made me do it. The code review, that is. | Jere Le | [Read More](https://medium.com/p/e4898102dc7a) |
 | Wed, 11 Mar 2026 10:35:04 GMT | 當 AI 狂潮遇上股市震盪：2026 年的必修課題 | Hsiehsungling | [Read More](https://medium.com/p/0ae090456d68) |
 | Wed, 11 Mar 2026 10:33:23 GMT | Recovering Hidden SOL: How RYS (RefundYourSOL) Helps Solana Users Reclaim Their Funds | Babura | [Read More](https://medium.com/p/5ed2a67b737c) |
 | Wed, 11 Mar 2026 10:31:25 GMT | How to Measure Anything in Information Security: Rethinking Metrics | Vicente Aceituno Canal | [Read More](https://medium.com/p/d15e3068386e) |
+| Wed, 11 Mar 2026 10:30:06 GMT | Strengthening Security in a 1xBet Clone Betting Platform | James hall | [Read More](https://medium.com/p/8d093a56b2d4) |
 | Wed, 11 Mar 2026 10:29:54 GMT | I’m a College Dropout — Now I’m Teaching Myself Cybersecurity From Scratch | Rommel Galicia | [Read More](https://medium.com/p/bade7eee90b3) |
 | Wed, 11 Mar 2026 10:25:54 GMT | Machine Problem 1 Report | Andrea Rodriguez | [Read More](https://medium.com/p/1575b9fb4876) |
 | Wed, 11 Mar 2026 10:24:42 GMT | Is BBA Information Technology Worth It in the Age of AI? | SICSR Pune | [Read More](https://medium.com/p/1f97e76803cf) |
@@ -98,21 +116,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Mar 2026 06:48:52 GMT | MR. ROBOT: A PSYCHOLOGICAL CRITIQUE OF CAPITALISM AND CORPORATE POWER | Gaurav Aryal | [Read More](https://medium.com/p/861d649f5a8a) |
 | Wed, 11 Mar 2026 06:30:50 GMT | 5 AI Security Challenges Every CIO Must Prepare For in 2026 | Rom | [Read More](https://medium.com/p/ab91ad7760ad) |
 | Wed, 11 Mar 2026 06:26:01 GMT | Best Cyber Security Services for Complete Business Data Protection | Linkbuildingvcentrix | [Read More](https://medium.com/p/e8297f3dc222) |
-| Wed, 11 Mar 2026 06:20:05 GMT | Stop Building Boring CTFs: Here’s How I Brought the ‘Upside Down’ to My College. | Abhramaitra | [Read More](https://medium.com/p/ab32bb083320) |
-| Wed, 11 Mar 2026 06:19:57 GMT | Understanding Cybersecurity in the Digital Age | sita | [Read More](https://medium.com/p/68d861fd0582) |
-| Wed, 11 Mar 2026 06:19:52 GMT | "Ethical Hacking with curl: How to Map Any Website's Attack Surface in 4 Steps" | Pushkar Padhye | [Read More](https://medium.com/p/76f9de055e90) |
-| Wed, 11 Mar 2026 06:17:35 GMT | Skilled Manpower Services: The Backbone of Modern Business Operations | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/07a81bacee97) |
-| Wed, 11 Mar 2026 06:07:23 GMT | Practical API Hacking | d0natel00(KiroMoheb) | [Read More](https://medium.com/p/99d0d27f27f2) |
-| Wed, 11 Mar 2026 06:03:08 GMT | How to Protect Your Digital Identity in 2026: A CompletDigital identity theft is one of the… | vclub official | [Read More](https://medium.com/p/47a1d456b0fd) |
-| Wed, 11 Mar 2026 06:01:18 GMT | Top 10 Cybersecurity Tools Every Security ResearcherCybersecurity threats are evolving at a rapid… | vclub official | [Read More](https://medium.com/p/3b5d5e59d89e) |
-| Wed, 11 Mar 2026 06:01:01 GMT | Learning Wi‑Fi Security at Home: Capturing and Cracking a WPA2 Handshake | Thewatchdog13 | [Read More](https://medium.com/p/0871b8ddd751) |
-| Wed, 11 Mar 2026 05:57:41 GMT | सायबर सुरक्षितता: डिजिटल युगातील अत्यावश्यक संरक्षण | SRUSHTI PORWAL | [Read More](https://medium.com/p/1880e6b334dd) |
-| Wed, 11 Mar 2026 05:57:02 GMT | Fire Alarm Installation Company in Kerala — Why Every Building Needs One | Berkshire Hathaway | [Read More](https://medium.com/p/d1637b0bc282) |
-| Wed, 11 Mar 2026 05:47:57 GMT | Trump’s Cyber Strategy for America: | CCD-IS | [Read More](https://medium.com/p/9bb764f12271) |
-| Wed, 11 Mar 2026 05:45:21 GMT | Web Enumeration dengan ffuf Cara Menemukan Subdomain dan Direktori Tersembunyi | Ahmat Prayoga Sembiring | [Read More](https://medium.com/p/ba45794b4520) |
-| Wed, 11 Mar 2026 05:43:54 GMT | Identifying the Infrastructure: A Guide to the Server Fingerprinting | Nitin Rai | [Read More](https://medium.com/p/819904592c9a) |
-| Wed, 11 Mar 2026 05:43:38 GMT | Quantum Computing & The Next Frontier of VAPT | Cynox Security LLP. | [Read More](https://medium.com/p/39ad8d696633) |
-| Wed, 11 Mar 2026 05:42:29 GMT | Is Your RAID Server Failing? Here’s How to Recover Your Data Before It’s Too Late | Shreya Loyal | [Read More](https://medium.com/p/00dd259145de) |
-| Wed, 11 Mar 2026 05:29:30 GMT | Introduction to Amazon Web Services for Beginners | Sohamsharma | [Read More](https://medium.com/p/6ecc577b164d) |
-| Wed, 11 Mar 2026 05:28:49 GMT | Stopping Attacks in Real Time: Using Wazuh Active Response to Protect Small Businesses | Chandan Bhattacharya | [Read More](https://medium.com/p/d6f8907a1c4a) |
-| Wed, 11 Mar 2026 05:24:53 GMT | Security For Buildings Ensuring Safety And Property Protection | Vidhiy | [Read More](https://medium.com/p/3241779966a5) |
