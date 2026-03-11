@@ -12,11 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Mar 2026 19:05:03 GMT | Proving Grounds — Hokkaido (OSCP Prep) | SilentExploit | [Read More](https://medium.com/p/7916d15393d5) |
+| Wed, 11 Mar 2026 18:58:42 GMT | PRODUCTION SYSTEMS PLAN FOR FAILURE. | NanoChain | [Read More](https://medium.com/p/cd60211fde98) |
+| Wed, 11 Mar 2026 18:57:07 GMT | My Learning Experience with Hacking, Virtual Machines, Linux, and Networking | Anna Joy | [Read More](https://medium.com/p/29e580d49296) |
+| Wed, 11 Mar 2026 18:56:00 GMT | EU GDPR — Article 33 (Notification of a Personal Data Breach to the Supervisory Authority) | MDM Team | [Read More](https://medium.com/p/3b3f3cf57749) |
+| Wed, 11 Mar 2026 18:53:25 GMT | From Recon to Jackpot: IDOR That Exposed Billing Data and CHAINED method. | El Professor Qais | [Read More](https://medium.com/p/5b1949f740eb) |
+| Wed, 11 Mar 2026 18:47:38 GMT | OpenAI Codex Security | SOCFortress | [Read More](https://medium.com/p/7896113ba110) |
+| Wed, 11 Mar 2026 18:47:12 GMT | Automating Active Directory Administration with PowerShell | Dre | [Read More](https://medium.com/p/afd332f4a045) |
+| Wed, 11 Mar 2026 18:46:03 GMT | Best Information Technology (NBA accredited) Private Colleges in Delhi NCR Greater Noida Ghaziabad | Scottrichmond | [Read More](https://medium.com/p/c690ff40de17) |
+| Wed, 11 Mar 2026 18:46:01 GMT | The Cost of Shame in Childhood | Paloma Perez Valdenegro | [Read More](https://medium.com/p/aabbd6f803bd) |
+| Wed, 11 Mar 2026 18:44:38 GMT | The Great Disinformation War: When Deception Becomes Cheaper Than Bullets | Ahmad Alghamrawi | [Read More](https://medium.com/p/46844bf43202) |
+| Wed, 11 Mar 2026 18:44:31 GMT | “Leveling Up: Building an Advanced Network Scanner in Python (2-in-1 Tool)” | Akhilswami | [Read More](https://medium.com/p/b8c5e8fea5ba) |
+| Wed, 11 Mar 2026 18:38:58 GMT | Cracking BRUTEit: The Danger of Unprotected Web Forms | Abhramaitra | [Read More](https://medium.com/p/15ea6601c0b7) |
+| Wed, 11 Mar 2026 18:30:02 GMT | Day 64 — Security Is Part of System Design, Not an Add-On | Ayla Devyani | [Read More](https://medium.com/p/2c773d7828ba) |
+| Wed, 11 Mar 2026 18:25:42 GMT | Root-Me Challenge — Deleted File Forensics Write-up | Phornphatsorn Chitladaphorn | [Read More](https://medium.com/p/33891bf7521a) |
+| Wed, 11 Mar 2026 18:24:40 GMT | How to Stream Azure DevOps Audit Logs into Microsoft Sentinel | Ademola buraimoh | [Read More](https://medium.com/p/59698412762e) |
+| Wed, 11 Mar 2026 18:20:18 GMT | Building My Cybersecurity Home Lab (Part 2): Setting Up a Windows 10 Virtual Machine In VirtualBox | Raymond Ebonine | [Read More](https://medium.com/p/97eb2a43666b) |
+| Wed, 11 Mar 2026 18:19:53 GMT | The New Power Game in the Persian Gulf and What It Means for India | Libin T Kurian | [Read More](https://medium.com/p/cfb61bbb16d3) |
+| Wed, 11 Mar 2026 18:16:55 GMT | Microsoft Defender Experts for XDR | Mechanics Team | [Read More](https://medium.com/p/74356a7480f2) |
+| Wed, 11 Mar 2026 18:05:53 GMT | Mapping the Attackers Before Mapping the Application | Iski | [Read More](https://medium.com/p/af002d1d396b) |
 | Wed, 11 Mar 2026 17:57:14 GMT | Broken Access Control — When the System Lets You Walk Into Rooms You Were Never Supposed to Enter | Rufus Kehinde | [Read More](https://medium.com/p/fc2f307a9728) |
 | Wed, 11 Mar 2026 17:53:03 GMT | “Building a Custom Wordlist Generator in Python for Brute Force Attacks | Akhilswami | [Read More](https://medium.com/p/5da56ffa8af9) |
 | Wed, 11 Mar 2026 17:51:31 GMT | ISO 27001 is not complex. Humans made it complex | Gaurav Shukla | [Read More](https://medium.com/p/bb8bc0bc416f) |
 | Wed, 11 Mar 2026 17:50:29 GMT | DevSecOps Toolchain Explained: SAST, DAST, SCA and Container Security | Alfatah Jalalludin | [Read More](https://medium.com/p/6e00d9bd7025) |
 | Wed, 11 Mar 2026 17:49:22 GMT | I Asked an AI Assistant a Few Questions… and It Turned Into a $100 Bug Bounty | @Sauravkrish | [Read More](https://medium.com/p/de98936ac03a) |
+| Wed, 11 Mar 2026 17:47:31 GMT | From JavaScript Recon to Account Takeover: Finding a Hidden Endpoint | ophacks | [Read More](https://medium.com/p/fff8d7044e67) |
 | Wed, 11 Mar 2026 17:41:00 GMT | URANIUM CTF- TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/6ece8ce321e4) |
 | Wed, 11 Mar 2026 17:40:00 GMT | Stop Sharing Too Much: The Power of Splitting Your PDF Files | Serhii Kuchma | [Read More](https://medium.com/p/a955bd66f706) |
 | Wed, 11 Mar 2026 17:31:00 GMT | Solana Dependency Hell: Why your next audit will start with the desire to quit everything | rdin777 | [Read More](https://medium.com/p/98ed9be3ee45) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Mar 2026 13:32:15 GMT | Information Gathering in Penetration Testing | Dikshya Shrestha | [Read More](https://medium.com/p/1102412f8986) |
 | Wed, 11 Mar 2026 13:29:22 GMT | MFA Didn’t Stop Phishing - It Just Changed the Attack | Dr. Shashi Karhail | [Read More](https://medium.com/p/6314511dbb03) |
 | Wed, 11 Mar 2026 13:26:45 GMT | The Double-Edged Sword: How AI is Both Saving and Threatening Our Digital World in 2026 | Xaltius | [Read More](https://medium.com/p/6589923d4e34) |
-| Wed, 11 Mar 2026 13:25:10 GMT | Developers Beware: This Fake LinkedIn Interview Campaign is Targeting YOU (And Your SSH Keys) | Harisjosinpeter | [Read More](https://medium.com/p/55ef9286abf0) |
-| Wed, 11 Mar 2026 13:20:03 GMT | How Much Gold Should a Small Investor Hold? | Santoshghosh2856@gmail.com | [Read More](https://medium.com/p/c69b415b936d) |
-| Wed, 11 Mar 2026 13:18:42 GMT | Microsoft SQL Server Zero-Day Vulnerability: Why This Privilege Escalation Issue Matters | Sharanraju | [Read More](https://medium.com/p/a8ac529542ec) |
-| Wed, 11 Mar 2026 13:15:25 GMT | The CIA triad | Xavier Mico Perez | [Read More](https://medium.com/p/4969fa59ef2e) |
-| Wed, 11 Mar 2026 13:01:01 GMT | Why Named Credentials Matter | Hanovconsulting | [Read More](https://medium.com/p/1433f56709f2) |
-| Wed, 11 Mar 2026 12:58:38 GMT | Information Technology (IT), Software vs Hardware Industries. | Mahiremat | [Read More](https://medium.com/p/8cddef754e33) |
-| Wed, 11 Mar 2026 12:56:00 GMT | Ghost Codes: How Deleted Accounts Keep Paying Rewards | 0xMo7areb | [Read More](https://medium.com/p/283317083a21) |
-| Wed, 11 Mar 2026 12:51:46 GMT | Kingdom of Saudi Arabia Cybersecurity Market Worldwide Industry Growth, Statistics, Opportunities &… | Technology Geek | [Read More](https://medium.com/p/e5f04edf01b5) |
-| Wed, 11 Mar 2026 12:48:48 GMT | Infosecurity Europe announces first wave of keynote speakers for 2026, including Special Forces… | Louise Rolfe | [Read More](https://medium.com/p/fd6208232fea) |
-| Wed, 11 Mar 2026 12:46:43 GMT | Best VPN for Crypto Traders in 2026 (Binance, Bybit, DeFi) | SKYFOR | [Read More](https://medium.com/p/72083ef93ed9) |
-| Wed, 11 Mar 2026 12:42:27 GMT | What Every Business Owner Should Know About IT Infrastructure | vortex it systems | [Read More](https://medium.com/p/97913ad94133) |
-| Wed, 11 Mar 2026 12:41:00 GMT | Anthem walkthrough (TryHackMe) 2026 | Crystalcascade14 | [Read More](https://medium.com/p/367eea46f427) |
-| Wed, 11 Mar 2026 12:37:34 GMT | A Simple Guide to Password Management for Small Agencies in 2026 | All Pass Hub | [Read More](https://medium.com/p/6c7e9e10141f) |
-| Wed, 11 Mar 2026 12:37:03 GMT | Write Up TryHackMe : AD — Basic Enumeration | Jo | [Read More](https://medium.com/p/cfdca13417c1) |
-| Wed, 11 Mar 2026 12:31:04 GMT | SQL Injection: The Vulnerability That Never Dies | Rohan Mistry | [Read More](https://medium.com/p/faa6f15c2905) |
-| Wed, 11 Mar 2026 12:29:53 GMT | Keep Me Busy When 12 Noon Strikes Until 2 PM Is Gone | Arace Jean | [Read More](https://medium.com/p/fb3ff61e6b03) |
-| Wed, 11 Mar 2026 12:25:26 GMT | How Do Security Guards Contribute to Safety and Protection? | Libragroupwork | [Read More](https://medium.com/p/b28c3274d578) |
-| Wed, 11 Mar 2026 12:23:34 GMT | I Scanned 50 MCP Servers to See What They Can Actually Do | Vinmay Nair | [Read More](https://medium.com/p/46144659ceca) |
-| Wed, 11 Mar 2026 12:18:55 GMT | Kyverno Validation Policies: Enforce Security and Best Practices | Ramesh | [Read More](https://medium.com/p/65b01a82b9b8) |
-| Wed, 11 Mar 2026 12:13:03 GMT | 1. What is Vulnerability Management? | Crawsec | [Read More](https://medium.com/p/0f837c795478) |
