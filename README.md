@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Mar 2026 22:55:39 GMT | SOC automation & AI (n8n/wazuh) | omar samara | [Read More](https://medium.com/p/3f3740efcad5) |
+| Wed, 11 Mar 2026 22:54:58 GMT | I Almost Got Hacked Without Entering My Password — Here’s How Consent Phishing Works | Mohab Hassan | [Read More](https://medium.com/p/7c5b9cd6df13) |
+| Wed, 11 Mar 2026 22:53:13 GMT | HTB Return: LDAP Credential Theft to Service Hijacking | Onurcan Genç | [Read More](https://medium.com/p/20ec14ee9775) |
+| Wed, 11 Mar 2026 22:48:05 GMT | An Operators View on President Trump’s Cyber Strategy for America | Monzy | [Read More](https://medium.com/p/fa214ad761cc) |
+| Wed, 11 Mar 2026 22:46:04 GMT | Stop Watching Hacking Videos in 2026 and GET REAL | Yua Mikanana | [Read More](https://medium.com/p/5d777ee87a25) |
+| Wed, 11 Mar 2026 22:44:05 GMT | Beyond the Shared Responsibility Model: Building Your Modern AWS Security Roadmap | Memory Nyathi | [Read More](https://medium.com/p/7961b707b15a) |
 | Wed, 11 Mar 2026 22:40:03 GMT | What Do Blue Teamers Need to Know About AI? | rundiable | [Read More](https://medium.com/p/9da31029a51e) |
 | Wed, 11 Mar 2026 22:13:21 GMT | # I Built a Hardened AI Agent You Can Run on Your Laptop — Here’s How | Örvar Karlsson | [Read More](https://medium.com/p/900b1c3e976f) |
 | Wed, 11 Mar 2026 22:06:33 GMT | Introduction to Malware & Malware Analysis | Huzaifah Tahir | [Read More](https://medium.com/p/02c027401db1) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Mar 2026 16:30:41 GMT | How to Setup AWS IRSA for an On-Premises Kubernetes Cluster | Jeremy Sam J.  (JCodeX) | [Read More](https://medium.com/p/ab7ff6cf8faf) |
 | Wed, 11 Mar 2026 16:29:52 GMT | SPARTA v3.2 — What’s New? | The Aerospace Corporation | [Read More](https://medium.com/p/ff7114c5220d) |
 | Wed, 11 Mar 2026 16:29:22 GMT | Why Weak PIN Authentication Fails Fast: Lessons From Building a Python Lab Tester | Mkirahmet | [Read More](https://medium.com/p/d7a418165160) |
-| Wed, 11 Mar 2026 16:15:55 GMT | Android Application Security Testing: A Practical Methodology | Uppulaabhirampatel | [Read More](https://medium.com/p/445e6d9815c5) |
-| Wed, 11 Mar 2026 16:14:10 GMT | Why Network Testing Is Critical for Modern Businesses in 2026 | Gaogroupdmi | [Read More](https://medium.com/p/877f6e0ebdf1) |
-| Wed, 11 Mar 2026 16:12:11 GMT | The European Cybersecurity Paradox: Why Innovation Thrives While Exploitation Is Strictly… | Sai kiran | [Read More](https://medium.com/p/9e11bd9db610) |
-| Wed, 11 Mar 2026 16:09:52 GMT | Just Give Me Permission To Be Fragile and Still Be Held | P. Harlow's Archive | [Read More](https://medium.com/p/fb0f301fb54a) |
-| Wed, 11 Mar 2026 16:09:01 GMT | I'm Staring From Scratch — Bug Bounty | the_air_cyborg | [Read More](https://medium.com/p/5ef4db56d76d) |
-| Wed, 11 Mar 2026 16:07:41 GMT | Instagram Outage Disrupts Posting and Messaging: What It Means for Digital Reliability | Chetan Seripally | [Read More](https://medium.com/p/12dfd3cabd26) |
