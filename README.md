@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Mar 2026 20:20:30 GMT | Risk-Adjusted Yield: The Missing Metric in DeFi’s Yield Race | Khan Kharal | [Read More](https://medium.com/p/598835f2ee41) |
+| Wed, 11 Mar 2026 20:18:16 GMT | How to Modify IE8 Security Levels Using Registry Editor | Excalibra | [Read More](https://medium.com/p/606c6076af2f) |
+| Wed, 11 Mar 2026 20:17:16 GMT | Piece by Piece — PicoCTF 2026 | Bridget | [Read More](https://medium.com/p/197dab9478b9) |
+| Wed, 11 Mar 2026 20:11:43 GMT | Security was the Biggest Difference When i Tried Freedx | Dayyabualiyu | [Read More](https://medium.com/p/92c07c60fe06) |
+| Wed, 11 Mar 2026 20:07:02 GMT | TryHackMe SOC Analyst Road Map Part-8 | safa kaya | [Read More](https://medium.com/p/098fbc2c4341) |
+| Wed, 11 Mar 2026 20:06:42 GMT | The 3 Levels of AI Autonomy Nobody Explains Honestly — And Why Getting Them Wrong Breaks Every… | R.H Rizvi | [Read More](https://medium.com/p/aba51e75b770) |
+| Wed, 11 Mar 2026 20:04:00 GMT | Stryker Down! Iranians Hack the Healthcare Sector Technology Provider | Matthew.Rosenquist | [Read More](https://medium.com/p/d5fffafc549b) |
+| Wed, 11 Mar 2026 19:59:37 GMT | Narcotráfico Grindr | La Trama Del Caos | [Read More](https://medium.com/p/0985e8f180eb) |
+| Wed, 11 Mar 2026 19:53:52 GMT | AI, Cloud, and the 2030 Workforce: Why This Is the Moment (Especially for Women) | Sophia Lyimo - Author - Leader - Coach - Mentor | [Read More](https://medium.com/p/b4c941f2bb6d) |
 | Wed, 11 Mar 2026 19:52:29 GMT | and for my next trick, i will… | louisse | [Read More](https://medium.com/p/fd21a30bee3a) |
 | Wed, 11 Mar 2026 19:50:11 GMT | Code Execution in Google Gemini | Dhiraj | [Read More](https://medium.com/p/4e5909ec167d) |
+| Wed, 11 Mar 2026 19:49:16 GMT | DevSecOps & Supply Chain Security: Why Software Trust Is the New Battlefield | Pranav Prakash I GenAI I AI/ML I DevOps I | [Read More](https://medium.com/p/c628dae551b0) |
+| Wed, 11 Mar 2026 19:48:50 GMT | How to Choose a Reliable Security Company in California: What Every Resident and Business Owner… | Uniworth security | [Read More](https://medium.com/p/32dde5b0614c) |
 | Wed, 11 Mar 2026 19:47:52 GMT | Attacktive Directory AD Pentesting Write-Up | Jo | [Read More](https://medium.com/p/4dab4f7f619e) |
 | Wed, 11 Mar 2026 19:46:47 GMT | SUDO MAKE ME A SANDWICH — PicoCTF 2026 | Bridget | [Read More](https://medium.com/p/103a89fe7b25) |
 | Wed, 11 Mar 2026 19:46:43 GMT | Red Team | Heavenblack | [Read More](https://medium.com/p/62dec1339df2) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Mar 2026 15:00:26 GMT | Sovereign AI: Why Agentic Systems Require a New Threat Modeling Perspective | Robert Saghafi | [Read More](https://medium.com/p/ea2fadac1a20) |
 | Wed, 11 Mar 2026 14:56:14 GMT | Yemen Is Quietly Becoming the Arena of a Saudi–UAE Power Struggle | Gökçen Kunukcu | [Read More](https://medium.com/p/bc6da02aca30) |
 | Wed, 11 Mar 2026 14:52:11 GMT | The Rise of AI-Driven Cybercrime | Billy Lesaigor | [Read More](https://medium.com/p/7dd43798a504) |
-| Wed, 11 Mar 2026 14:47:24 GMT | Empire Breakout VM — Walkthrough Structure Step-by-Step Penetration Testing Guide | Nidhibuchadi | [Read More](https://medium.com/p/0101b4e7f97e) |
-| Wed, 11 Mar 2026 14:45:37 GMT | RDP HIJACKING | Yashrajghadage | [Read More](https://medium.com/p/fa6473e2c409) |
-| Wed, 11 Mar 2026 14:41:09 GMT | Part 2: Understanding JWT Tokens — Where Do the Keys Go? Security Best Practices for JWTs | Vic Reno | [Read More](https://medium.com/p/630bcadde930) |
-| Wed, 11 Mar 2026 14:40:57 GMT | INTRODUCTION TO CYBER SECURITY: OFFENSIVE SECURITY LINUXENICORP WRITEUP | hihipro | [Read More](https://medium.com/p/d95191f73659) |
-| Wed, 11 Mar 2026 14:40:17 GMT | AD: Basic Enumeration by TryHackMe | miftakhulzh | [Read More](https://medium.com/p/1b99bf8d4ffb) |
-| Wed, 11 Mar 2026 14:39:16 GMT | Access Control and Privilege Escalation in Web Security | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/fa4b6a0e9e84) |
-| Wed, 11 Mar 2026 14:39:11 GMT | Cross-Site Scripting (XSS) Attacks and Prevention Methods | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/d3c2fb435f83) |
-| Wed, 11 Mar 2026 14:36:44 GMT | Mastering the Three Pillars of AI Safety in 2026 | Jennifer Fu | [Read More](https://medium.com/p/503d32e0ef3e) |
-| Wed, 11 Mar 2026 14:33:04 GMT | An Open letter from the margins of the obvious | Abhinav Jain | [Read More](https://medium.com/p/7497bfad29b3) |
-| Wed, 11 Mar 2026 14:22:56 GMT | “Identity Management Testing: Testing the Security of Web Application Identity Systems Based on… | Habibi | [Read More](https://medium.com/p/0992fdbccfb2) |
-| Wed, 11 Mar 2026 14:22:10 GMT | Part 1: Understanding JWT Tokens — The Hotel Booking analogy | Vic Reno | [Read More](https://medium.com/p/8048ff4b43aa) |
