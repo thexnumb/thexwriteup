@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Mar 2026 12:58:38 GMT | Information Technology (IT), Software vs Hardware Industries. | Mahiremat | [Read More](https://medium.com/p/8cddef754e33) |
+| Wed, 11 Mar 2026 12:56:00 GMT | Ghost Codes: How Deleted Accounts Keep Paying Rewards | 0xMo7areb | [Read More](https://medium.com/p/283317083a21) |
+| Wed, 11 Mar 2026 12:51:46 GMT | Kingdom of Saudi Arabia Cybersecurity Market Worldwide Industry Growth, Statistics, Opportunities &… | Technology Geek | [Read More](https://medium.com/p/e5f04edf01b5) |
+| Wed, 11 Mar 2026 12:48:48 GMT | Infosecurity Europe announces first wave of keynote speakers for 2026, including Special Forces… | Louise Rolfe | [Read More](https://medium.com/p/fd6208232fea) |
+| Wed, 11 Mar 2026 12:46:43 GMT | Best VPN for Crypto Traders in 2026 (Binance, Bybit, DeFi) | SKYFOR | [Read More](https://medium.com/p/72083ef93ed9) |
+| Wed, 11 Mar 2026 12:42:27 GMT | What Every Business Owner Should Know About IT Infrastructure | vortex it systems | [Read More](https://medium.com/p/97913ad94133) |
+| Wed, 11 Mar 2026 12:41:00 GMT | Anthem walkthrough (TryHackMe) 2026 | Crystalcascade14 | [Read More](https://medium.com/p/367eea46f427) |
+| Wed, 11 Mar 2026 12:37:34 GMT | A Simple Guide to Password Management for Small Agencies in 2026 | All Pass Hub | [Read More](https://medium.com/p/6c7e9e10141f) |
+| Wed, 11 Mar 2026 12:37:03 GMT | Write Up TryHackMe : AD — Basic Enumeration | Jo | [Read More](https://medium.com/p/cfdca13417c1) |
+| Wed, 11 Mar 2026 12:31:04 GMT | SQL Injection: The Vulnerability That Never Dies | Rohan Mistry | [Read More](https://medium.com/p/faa6f15c2905) |
+| Wed, 11 Mar 2026 12:29:53 GMT | Keep Me Busy When 12 Noon Strikes Until 2 PM Is Gone | Arace Jean | [Read More](https://medium.com/p/fb3ff61e6b03) |
+| Wed, 11 Mar 2026 12:25:26 GMT | How Do Security Guards Contribute to Safety and Protection? | Libragroupwork | [Read More](https://medium.com/p/b28c3274d578) |
+| Wed, 11 Mar 2026 12:23:34 GMT | I Scanned 50 MCP Servers to See What They Can Actually Do | Vinmay Nair | [Read More](https://medium.com/p/46144659ceca) |
+| Wed, 11 Mar 2026 12:18:55 GMT | Kyverno Validation Policies: Enforce Security and Best Practices | Ramesh | [Read More](https://medium.com/p/65b01a82b9b8) |
+| Wed, 11 Mar 2026 12:13:03 GMT | 1. What is Vulnerability Management? | Crawsec | [Read More](https://medium.com/p/0f837c795478) |
+| Wed, 11 Mar 2026 12:05:05 GMT | How a Professional Security Company Kent Helps Protect Businesses and Communities | KSR Facilities Ltd | [Read More](https://medium.com/p/513aaab82347) |
+| Wed, 11 Mar 2026 12:02:38 GMT | How I Found That a “Disabled” Export Button Doesn’t Actually Disable Anything | default_0x | [Read More](https://medium.com/p/45843e3ba87a) |
+| Wed, 11 Mar 2026 12:02:11 GMT | Did your Google Antigravity also do some disco today? | Shashwat | [Read More](https://medium.com/p/601cbb6d9454) |
+| Wed, 11 Mar 2026 12:01:01 GMT | How to Brief a Non-Technical Founder on a Security Finding Without Losing Them in the First… | Cyphersilhouette | [Read More](https://medium.com/p/45927e483fe0) |
+| Wed, 11 Mar 2026 12:00:11 GMT | Zero Trust Architecture: Never Trust, Always Verify | Renjurnair | [Read More](https://medium.com/p/6b9e6166b176) |
+| Wed, 11 Mar 2026 11:55:38 GMT | CISO’s Expert Guide To AI Supply Chain Attacks | Oran F | [Read More](https://medium.com/p/78f3b560e99a) |
+| Wed, 11 Mar 2026 11:33:41 GMT | Protocols and Ports in Computer Networking | RD | [Read More](https://medium.com/p/17e7d471a035) |
+| Wed, 11 Mar 2026 11:26:20 GMT | What You Will Learn in Cyber Security Training: Modules, Tools & Real-World Skills | Janbask Training | [Read More](https://medium.com/p/dd3602a20bd1) |
 | Wed, 11 Mar 2026 11:23:15 GMT | Lab: SQL injection UNION attack, retrieving multiple values in a single column | Songül Kızılay Özügürler | [Read More](https://medium.com/p/5b54fabcbbbc) |
 | Wed, 11 Mar 2026 11:22:46 GMT | The Courage to Say Yes: A Poem About Connection and New Beginnings | Printique studios | [Read More](https://medium.com/p/f2a2e6de20e6) |
 | Wed, 11 Mar 2026 11:21:40 GMT | Demystifying Bug Bounties: A Deep Dive Into Live Hacking | Krishna Kumar | [Read More](https://medium.com/p/5a964aeee0da) |
@@ -21,6 +44,7 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Mar 2026 11:02:09 GMT | Strengthening Cybersecurity with Exposure Management and Advanced Threat Detection | Vijilan | [Read More](https://medium.com/p/40b7f1d413a1) |
 | Wed, 11 Mar 2026 11:01:29 GMT | Semantic Shellcode Injection | Erwoan Thebault | [Read More](https://medium.com/p/d1f06ed109a9) |
 | Wed, 11 Mar 2026 11:01:00 GMT | Rebuilding Europe’s defences: how to drive a coordinated defence surge | European Court of Auditors | [Read More](https://medium.com/p/b8ede62c16c3) |
+| Wed, 11 Mar 2026 11:01:00 GMT | ANY.RUN & Tines: Scale SOC and Meet SLAs with Intelligent Workflows | ANY.RUN | [Read More](https://medium.com/p/243737f24c9d) |
 | Wed, 11 Mar 2026 10:59:27 GMT | I Built a Framework for AI Identity Disclosure. Then HIPAA Made It Mandatory. | Brianna N. Baynard | [Read More](https://medium.com/p/8df56a02e658) |
 | Wed, 11 Mar 2026 10:58:59 GMT | Monitoring Attacks with T-Pot: Installing a Honeypot on Google Cloud | Jose Praveen | [Read More](https://medium.com/p/c001e231cac5) |
 | Wed, 11 Mar 2026 10:57:34 GMT | The Ugly Side of Modern Witchcraft Nobody Talks About | Kittie Paranormal | [Read More](https://medium.com/p/1c58ec653131) |
@@ -90,29 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Mar 2026 08:01:00 GMT | The Group That Hacked 400 Companies While Salesforce Watched: Inside ShinyHunters | MayhemCode | [Read More](https://medium.com/p/77234e779fc7) |
 | Wed, 11 Mar 2026 08:01:00 GMT | Breaking into Metasploitable2: A Hands-On Penetration Testing Lab | Madu Nelson Izunna | [Read More](https://medium.com/p/8f31168c017a) |
 | Wed, 11 Mar 2026 07:58:58 GMT | Ability To Do Point In Time Restore / Rebuild Of Environments | Robert Broeckelmann | [Read More](https://medium.com/p/4c574b2dc8f0) |
-| Wed, 11 Mar 2026 07:58:29 GMT | TryHackMe: Attacktive Directory Walkthrough & Writeup | Yogatama | [Read More](https://medium.com/p/968773568739) |
-| Wed, 11 Mar 2026 07:52:49 GMT | SAP Commerce Cloud 2211.49 / 2211-jdk21.7: Configuration, Security and Solr Updates | Andrei Lescu | [Read More](https://medium.com/p/17c8eab7f1f4) |
-| Wed, 11 Mar 2026 07:50:20 GMT | Understanding Information Gathering in Penetration Testing | Saammeerr | [Read More](https://medium.com/p/29e76a0af19a) |
-| Wed, 11 Mar 2026 07:48:05 GMT | HTTP Security Headers: The Quiet Guards of Every Secure API | Saima Sayed | [Read More](https://medium.com/p/de413dc5eaec) |
-| Wed, 11 Mar 2026 07:41:53 GMT | Digital Forensics Career Path in India | cyber security Updates | [Read More](https://medium.com/p/d01dc130a09b) |
-| Wed, 11 Mar 2026 07:34:49 GMT | cloud security lab | SPIRIT | [Read More](https://medium.com/p/7f9ef4413fdd) |
-| Wed, 11 Mar 2026 07:28:10 GMT | Hidden Tear Malware Family Analysis | WhosWho | [Read More](https://medium.com/p/565c6ba3391e) |
-| Wed, 11 Mar 2026 07:28:06 GMT | How to Protect Your Digital Assets from Cybercriminals? | Ultra Dynamic Corp | [Read More](https://medium.com/p/e13cf705805b) |
-| Wed, 11 Mar 2026 07:23:17 GMT | Building a Non-Custodial Multi-Chain Wallet: A Developer’s Journey | recursion | [Read More](https://medium.com/p/e4ca6d1557a9) |
-| Wed, 11 Mar 2026 07:23:09 GMT | Turning a Node.js Script Into a Real CLI Tool (Like git or npm) | Shaheryar Shaikh | [Read More](https://medium.com/p/74f479bdfd9c) |
-| Wed, 11 Mar 2026 07:21:15 GMT | Top IIT-NEET Coaching in Hyderabad | Sandhyarajesh | [Read More](https://medium.com/p/d77120815486) |
-| Wed, 11 Mar 2026 07:13:55 GMT | Basic Active Directory Enumeration | ikoo | [Read More](https://medium.com/p/79053491738b) |
-| Wed, 11 Mar 2026 07:12:41 GMT | AI Adoption vs. Talent Strategy: The Missing Conversation | Vijay Kumar Gupta | [Read More](https://medium.com/p/6ba4cea9d615) |
-| Wed, 11 Mar 2026 07:12:10 GMT | TYPES OF AUTHENTICATION | Moses Morris | [Read More](https://medium.com/p/109b2c5eca04) |
-| Wed, 11 Mar 2026 07:06:29 GMT | Digital Risk Protection Is Not a Magic Shield. It Is an Operations Problem. | Caleb Ng | [Read More](https://medium.com/p/a211589a1b69) |
-| Wed, 11 Mar 2026 07:06:26 GMT | Build a Powerful Career in Cyber Security with AI! | Molletibalu | [Read More](https://medium.com/p/19ae1d384513) |
-| Wed, 11 Mar 2026 07:02:52 GMT | User Access Review in SAP: How Automation is Transforming SAP Security and Compliance | Digitalbacklinks | [Read More](https://medium.com/p/1de8425ca4ed) |
-| Wed, 11 Mar 2026 07:01:00 GMT | 15. Build Triggers and Scheduling Strategies | Mangesh Muley | [Read More](https://medium.com/p/5fe0ae3fde2c) |
-| Wed, 11 Mar 2026 07:00:32 GMT | ️ Burp Suite vs OWASP ZAP
-  The Web Security Proxy Battle
-  Which Tool Should Bug Bounty… | ghostyjoe | [Read More](https://medium.com/p/2ca0ee82a5d0) |
-| Wed, 11 Mar 2026 06:58:13 GMT | CyberDefenders — WebStrike Lab (PCAP Forensics) | rexaa | [Read More](https://medium.com/p/685b6a6d3c25) |
-| Wed, 11 Mar 2026 06:49:04 GMT | Learning to Let People In And Stay | Pragya | [Read More](https://medium.com/p/e00e88e0d3a6) |
-| Wed, 11 Mar 2026 06:48:52 GMT | MR. ROBOT: A PSYCHOLOGICAL CRITIQUE OF CAPITALISM AND CORPORATE POWER | Gaurav Aryal | [Read More](https://medium.com/p/861d649f5a8a) |
-| Wed, 11 Mar 2026 06:30:50 GMT | 5 AI Security Challenges Every CIO Must Prepare For in 2026 | Rom | [Read More](https://medium.com/p/ab91ad7760ad) |
-| Wed, 11 Mar 2026 06:26:01 GMT | Best Cyber Security Services for Complete Business Data Protection | Linkbuildingvcentrix | [Read More](https://medium.com/p/e8297f3dc222) |
