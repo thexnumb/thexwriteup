@@ -12,7 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Mar 2026 17:57:14 GMT | Broken Access Control — When the System Lets You Walk Into Rooms You Were Never Supposed to Enter | Rufus Kehinde | [Read More](https://medium.com/p/fc2f307a9728) |
+| Wed, 11 Mar 2026 17:53:03 GMT | “Building a Custom Wordlist Generator in Python for Brute Force Attacks | Akhilswami | [Read More](https://medium.com/p/5da56ffa8af9) |
+| Wed, 11 Mar 2026 17:51:31 GMT | ISO 27001 is not complex. Humans made it complex | Gaurav Shukla | [Read More](https://medium.com/p/bb8bc0bc416f) |
+| Wed, 11 Mar 2026 17:50:29 GMT | DevSecOps Toolchain Explained: SAST, DAST, SCA and Container Security | Alfatah Jalalludin | [Read More](https://medium.com/p/6e00d9bd7025) |
+| Wed, 11 Mar 2026 17:49:22 GMT | I Asked an AI Assistant a Few Questions… and It Turned Into a $100 Bug Bounty | @Sauravkrish | [Read More](https://medium.com/p/de98936ac03a) |
+| Wed, 11 Mar 2026 17:41:00 GMT | URANIUM CTF- TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/6ece8ce321e4) |
+| Wed, 11 Mar 2026 17:40:00 GMT | Stop Sharing Too Much: The Power of Splitting Your PDF Files | Serhii Kuchma | [Read More](https://medium.com/p/a955bd66f706) |
+| Wed, 11 Mar 2026 17:31:00 GMT | Solana Dependency Hell: Why your next audit will start with the desire to quit everything | rdin777 | [Read More](https://medium.com/p/98ed9be3ee45) |
+| Wed, 11 Mar 2026 17:27:20 GMT | Cara Mengerjakan Attacktive Directory di TryHackMe | Alfin Syahrin | [Read More](https://medium.com/p/664d291ba5a6) |
 | Wed, 11 Mar 2026 17:27:03 GMT | When the UI lies and new powers are discovered. | Yosefmostef | [Read More](https://medium.com/p/bb39d97beeaf) |
+| Wed, 11 Mar 2026 17:26:54 GMT | LLM05: Improper Output Handling — When AI Responses Become Security Risks (2025) | Seema Gupta | [Read More](https://medium.com/p/995d0f1ae2f8) |
 | Wed, 11 Mar 2026 17:21:21 GMT | What Happens to Your “Deleted” Messages (And Why I Built a Chat App With No Database) | Doops | [Read More](https://medium.com/p/2f9462beb7c6) |
 | Wed, 11 Mar 2026 17:21:20 GMT | : | Mko Prr | [Read More](https://medium.com/p/22ef9d0d8839) |
 | Wed, 11 Mar 2026 17:19:29 GMT | Your AI Agents Are Live. Your Governance Isn’t. That’s a Problem Nobody Wants to Talk About. | AIThinkerLab | [Read More](https://medium.com/p/8f1675aeb1f9) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Mar 2026 12:23:34 GMT | I Scanned 50 MCP Servers to See What They Can Actually Do | Vinmay Nair | [Read More](https://medium.com/p/46144659ceca) |
 | Wed, 11 Mar 2026 12:18:55 GMT | Kyverno Validation Policies: Enforce Security and Best Practices | Ramesh | [Read More](https://medium.com/p/65b01a82b9b8) |
 | Wed, 11 Mar 2026 12:13:03 GMT | 1. What is Vulnerability Management? | Crawsec | [Read More](https://medium.com/p/0f837c795478) |
-| Wed, 11 Mar 2026 12:05:05 GMT | How a Professional Security Company Kent Helps Protect Businesses and Communities | KSR Facilities Ltd | [Read More](https://medium.com/p/513aaab82347) |
-| Wed, 11 Mar 2026 12:02:38 GMT | How I Found That a “Disabled” Export Button Doesn’t Actually Disable Anything | default_0x | [Read More](https://medium.com/p/45843e3ba87a) |
-| Wed, 11 Mar 2026 12:02:11 GMT | Did your Google Antigravity also do some disco today? | Shashwat | [Read More](https://medium.com/p/601cbb6d9454) |
-| Wed, 11 Mar 2026 12:01:01 GMT | How to Brief a Non-Technical Founder on a Security Finding Without Losing Them in the First… | Cyphersilhouette | [Read More](https://medium.com/p/45927e483fe0) |
-| Wed, 11 Mar 2026 12:00:11 GMT | Zero Trust Architecture: Never Trust, Always Verify | Renjurnair | [Read More](https://medium.com/p/6b9e6166b176) |
-| Wed, 11 Mar 2026 11:55:38 GMT | CISO’s Expert Guide To AI Supply Chain Attacks | Oran F | [Read More](https://medium.com/p/78f3b560e99a) |
-| Wed, 11 Mar 2026 11:33:41 GMT | Protocols and Ports in Computer Networking | RD | [Read More](https://medium.com/p/17e7d471a035) |
-| Wed, 11 Mar 2026 11:26:20 GMT | What You Will Learn in Cyber Security Training: Modules, Tools & Real-World Skills | Janbask Training | [Read More](https://medium.com/p/dd3602a20bd1) |
-| Wed, 11 Mar 2026 11:23:15 GMT | Lab: SQL injection UNION attack, retrieving multiple values in a single column | Songül Kızılay Özügürler | [Read More](https://medium.com/p/5b54fabcbbbc) |
-| Wed, 11 Mar 2026 11:22:46 GMT | The Courage to Say Yes: A Poem About Connection and New Beginnings | Printique studios | [Read More](https://medium.com/p/f2a2e6de20e6) |
