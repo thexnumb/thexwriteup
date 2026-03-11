@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Mar 2026 05:28:49 GMT | Stopping Attacks in Real Time: Using Wazuh Active Response to Protect Small Businesses | Chandan Bhattacharya | [Read More](https://medium.com/p/d6f8907a1c4a) |
+| Wed, 11 Mar 2026 05:24:53 GMT | Security For Buildings Ensuring Safety And Property Protection | Vidhiy | [Read More](https://medium.com/p/3241779966a5) |
+| Wed, 11 Mar 2026 05:18:11 GMT | Network Forensics using Wireshark | Relax your soul | [Read More](https://medium.com/p/2e61ba8530b4) |
+| Wed, 11 Mar 2026 05:15:25 GMT | From Admin to Least Privilege: Practical Guide to Hardening AWS IAM without Breaking Production | Yogesh Gupta | [Read More](https://medium.com/p/a90c39552b18) |
+| Wed, 11 Mar 2026 05:14:06 GMT | Network basics for cybersecurity — Day 5 | 0xSmit | [Read More](https://medium.com/p/8cfd1a5cd86d) |
+| Wed, 11 Mar 2026 05:10:34 GMT | The Rise of Agentic Red Teaming: Securing Autonomous AI Systems in the Era of Intelligent Agents | Majjipradeepkumarp | [Read More](https://medium.com/p/e6352bbe588d) |
+| Wed, 11 Mar 2026 05:09:34 GMT | Evidence of a Dual-Ledger System: Why a “Digital Democracy” Startup is Concealing its Source Code… | kageyama rai | [Read More](https://medium.com/p/e11aad61d75e) |
+| Wed, 11 Mar 2026 05:08:53 GMT | How to Download TurboTax from InstallTurboTax.com | Jellyfr | [Read More](https://medium.com/p/c306a355d469) |
+| Wed, 11 Mar 2026 05:06:00 GMT | The Crucial Role of GDPR in Cyber Security Compliance - Secure n Comply | Secure n Comply | [Read More](https://medium.com/p/c7c63e380368) |
+| Wed, 11 Mar 2026 05:05:54 GMT | Beyond Repairs: The Future of IT Support and Services | Sparklecode Technologies | [Read More](https://medium.com/p/03bc538572d5) |
+| Wed, 11 Mar 2026 05:05:47 GMT | Germany OSINT | Snooptsz | [Read More](https://medium.com/p/5fb705a43ecd) |
+| Wed, 11 Mar 2026 04:56:51 GMT | HTTP Parameter Pollution (HPP) | Lost_hacker | [Read More](https://medium.com/p/78197aef60b7) |
+| Wed, 11 Mar 2026 04:56:48 GMT | Active Directory : Basic Enumeration by TryhackMe — Write Up | Alvinkurniawan | [Read More](https://medium.com/p/a84ad1e6cc89) |
+| Wed, 11 Mar 2026 04:56:09 GMT | VMs Need Not Apply: NotOpenClaw Malware Analysis | grepStrength | [Read More](https://medium.com/p/1b1a68bf51fb) |
+| Wed, 11 Mar 2026 04:55:34 GMT | What Is a Penetration Test? Complete Guide for Founders and CTOs | Kuboid Secure Layer | [Read More](https://medium.com/p/0812425f2750) |
+| Wed, 11 Mar 2026 04:40:27 GMT | PostMessage Misconfiguration + AI Prompt Injection + Sandbox Escape = XSS & Data Exfiltration | SJ_Source_Sink | [Read More](https://medium.com/p/d1d29821a2de) |
+| Wed, 11 Mar 2026 04:37:07 GMT | XSS Bypass to Zero Click Account Takeover in AI Chatbot | Rahul Singh Chauhan | [Read More](https://medium.com/p/a19acee8266f) |
+| Wed, 11 Mar 2026 04:36:42 GMT | Team Work Makes The (CTF) Dream Work | Amrit Arora - NoobMaster | [Read More](https://medium.com/p/ec33406c3a06) |
+| Wed, 11 Mar 2026 04:35:19 GMT | Inside a Real Cyber Attack: How Hackers Break Into Systems Step by Step | Sam Writes Security | [Read More](https://medium.com/p/06f6c768b14f) |
+| Wed, 11 Mar 2026 04:20:07 GMT | The Attack Surface Nobody Is Talking About - What Happens When AI Agents Use Tools ? | Raviteja Nekkalapu | [Read More](https://medium.com/p/a518a6b3991f) |
 | Wed, 11 Mar 2026 04:18:38 GMT | Chaining the Boredom: How a Quiet Weekday Led to a Full Database Heist | k3rnelpan1c | [Read More](https://medium.com/p/a680a77a533e) |
 | Wed, 11 Mar 2026 04:18:13 GMT | I Was Scrolling. Then I Found This. And I Could Not Move On. | TEJAS | [Read More](https://medium.com/p/f060bbf282f3) |
 | Wed, 11 Mar 2026 04:17:37 GMT | SQHell — When Every Input Is a Weapon | Roshan Rajbanshi | [Read More](https://medium.com/p/9fda31cb4e06) |
@@ -94,23 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Mar 2026 21:01:01 GMT | Unfiltered Restart — Day 22: OS Intro, Windows Versions and Installation | Maximillian Rueda | [Read More](https://medium.com/p/dbfc66acbc63) |
 | Tue, 10 Mar 2026 20:55:41 GMT | Android Content Provider Security: A Pentester’s Deep Dive — Part 1 | Mustafa Mohamed | [Read More](https://medium.com/p/9682c35d1b2d) |
 | Tue, 10 Mar 2026 20:52:56 GMT | Tryhackme AD: Basic Enumeration Write-Up | Harmonax | [Read More](https://medium.com/p/4fb8558b6924) |
-| Tue, 10 Mar 2026 20:46:28 GMT | Proving Grounds: Kevin | SecurityChud | [Read More](https://medium.com/p/6f5b928aa430) |
-| Tue, 10 Mar 2026 20:44:39 GMT | TuesdayTool 41: ReconSpider, All-In-One Reconnaissance Tool | Oloyede Olajumoke Elizabeth | [Read More](https://medium.com/p/5c1ac6f0bcbb) |
-| Tue, 10 Mar 2026 20:44:15 GMT | How to Use the Burp MCP Server Extension | The Curious Hacker | [Read More](https://medium.com/p/e8c5d403d645) |
-| Tue, 10 Mar 2026 20:42:37 GMT | The VLAN Trap: Why Your Network Segmentation is Failing | Kaloyan Stefanov | [Read More](https://medium.com/p/f20cd5cc2467) |
-| Tue, 10 Mar 2026 20:38:08 GMT | Digital ID: Why Compliance Will Lead Us into a Trap | Zain Erikat | [Read More](https://medium.com/p/5cce7fb30a6d) |
-| Tue, 10 Mar 2026 20:20:27 GMT | Connecting Claude to Kali using MCP (Model Context Protocol) | Gurunathan R | [Read More](https://medium.com/p/2cc0b995eadb) |
-| Tue, 10 Mar 2026 20:12:54 GMT | You Will Never Reset Your Password Again | Anto Semeraro | [Read More](https://medium.com/p/3ec583795fed) |
-| Tue, 10 Mar 2026 20:06:43 GMT | They Collect Everything But Understand Almost Nothing | O. J. Okpabi | [Read More](https://medium.com/p/6ff00da86e99) |
-| Tue, 10 Mar 2026 20:05:58 GMT | So You Landed Your First Cybersecurity Internship — Now What? | Mendez | [Read More](https://medium.com/p/260759cba1ce) |
-| Tue, 10 Mar 2026 20:02:35 GMT | The Missing Link in Cybersecurity: Strategy: Systems Security Engineering in Defence Procurement | Peter Hillier/Halton | [Read More](https://medium.com/p/e916c1a8cc67) |
-| Tue, 10 Mar 2026 20:01:08 GMT | I Was Sent a “Test Project” on LinkedIn. It Was a Trojan. | Stanislav Obrazcoff | [Read More](https://medium.com/p/2ad9ae94da4a) |
-| Tue, 10 Mar 2026 19:55:56 GMT | Why Iran’s Deterrence Strategy Still Works | Gökçen Kunukcu | [Read More](https://medium.com/p/a7b6d858c593) |
-| Tue, 10 Mar 2026 19:55:49 GMT | Identifying Bug Bites: Visual Guide to 10 Common Insect Bites | Azain Imtiaz | [Read More](https://medium.com/p/1920f468f5db) |
-| Tue, 10 Mar 2026 19:51:47 GMT | Zero-Click Account Takeover via Organization Invite Abuse | Abhay go | [Read More](https://medium.com/p/87751225f950) |
-| Tue, 10 Mar 2026 19:42:42 GMT | CVE-2026–31900: How a Permissive Regex Led to RCE in psf/black’s GitHub Action | Tommaso Bona | [Read More](https://medium.com/p/50800bafafba) |
-| Tue, 10 Mar 2026 19:26:47 GMT | Lateral Move via MSSQL Linked Servers — Now with actual commands — Part II | DuckWrites | [Read More](https://medium.com/p/af2b26f44fb2) |
-| Tue, 10 Mar 2026 19:23:53 GMT | How To Explain A Cyber Incident To Executives In 60 Seconds | Cody Cooper | [Read More](https://medium.com/p/41896075fcab) |
-| Tue, 10 Mar 2026 19:22:25 GMT | OWASP Top 10 2025: Application Design Flaws — My Hands-On Lab Walkthrough | Cahal  Agarwalla | [Read More](https://medium.com/p/7d4521fbdc20) |
-| Tue, 10 Mar 2026 19:20:15 GMT | Why Your Login Screen Is Probably Vulnerable | Akoredealokan | [Read More](https://medium.com/p/1b918c233c63) |
-| Tue, 10 Mar 2026 19:16:28 GMT | Active Directory Basic Enumeration -TryHackMe Walkthrough | Luqman | [Read More](https://medium.com/p/55fa0cc855a8) |
