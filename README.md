@@ -12,12 +12,37 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Mar 2026 04:18:38 GMT | Chaining the Boredom: How a Quiet Weekday Led to a Full Database Heist | k3rnelpan1c | [Read More](https://medium.com/p/a680a77a533e) |
+| Wed, 11 Mar 2026 04:18:13 GMT | I Was Scrolling. Then I Found This. And I Could Not Move On. | TEJAS | [Read More](https://medium.com/p/f060bbf282f3) |
+| Wed, 11 Mar 2026 04:17:37 GMT | SQHell — When Every Input Is a Weapon | Roshan Rajbanshi | [Read More](https://medium.com/p/9fda31cb4e06) |
+| Wed, 11 Mar 2026 04:07:14 GMT | Security Is Evolving — So Are Hackers | Geeky Vartika | [Read More](https://medium.com/p/caf06dffedbd) |
+| Wed, 11 Mar 2026 04:06:29 GMT | Eavesdropper (THM) Tryhackme WriteUp | Lawvye | [Read More](https://medium.com/p/1eede82b625e) |
+| Wed, 11 Mar 2026 04:02:32 GMT | TryHackMe Writeup: AD Basic Enumeration | Aiko Devy Ratnasari | [Read More](https://medium.com/p/15d4fe28a1c1) |
+| Wed, 11 Mar 2026 04:01:01 GMT | Europe Is Paying for Wars It Didn’t Choose | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/a70582d8d1c0) |
+| Wed, 11 Mar 2026 03:57:33 GMT | From Productivity Tool to Windows Internals Lab: Building a Startup & Shutdown Automation System | Manisha Banshiwal | [Read More](https://medium.com/p/1647f1877a65) |
+| Wed, 11 Mar 2026 03:53:15 GMT | Zero Trust for Oracle Fusion Cloud (ERP and HCM): SSO, MFA, and Conditional Access That Works in… | Khader Nawaz khan | [Read More](https://medium.com/p/6092c5be2db9) |
+| Wed, 11 Mar 2026 03:38:08 GMT | Windows Forensics Artifacts: SRUM, Jump Lists, Recycle Bin, Search Index, RDP Cache, and Thumbnail… | Sidhantchaurasiya | [Read More](https://medium.com/p/fc7c79f6de94) |
+| Wed, 11 Mar 2026 03:33:31 GMT | 5 Best Free Mobile Device Management (MDM) Software in 2026 | Alok Londhe | [Read More](https://medium.com/p/1418c0b68492) |
+| Wed, 11 Mar 2026 03:31:35 GMT | Why Temporary Phone Numbers and Disposable SMS Services Are Becoming Essential Online | Instant Num | [Read More](https://medium.com/p/531f8a3f131a) |
+| Wed, 11 Mar 2026 03:31:28 GMT | Memory Poisoning and Tool Misuse: The Overlooked Vulnerabilities Crushing Agentic Deployments in… | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/44cca2063082) |
+| Wed, 11 Mar 2026 03:25:26 GMT | HorusEye: I Built an AI-Assisted Active Directory Attack Platform After 1000+ CTF Rooms | Omar Tamer | [Read More](https://medium.com/p/7f0ace21895c) |
+| Wed, 11 Mar 2026 03:24:53 GMT | Why Most Biometric Attendance Systems Are Insecure — And How to Deploy Hikvision Attendance Safely | Irfan Haris | [Read More](https://medium.com/p/c601ba85f5e0) |
+| Wed, 11 Mar 2026 03:11:25 GMT | Red Teaming RAG Systems: Chaining Features for Maximum Impact | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/5cf4c09109f9) |
+| Wed, 11 Mar 2026 03:07:43 GMT | Active Directory Lab: From Setup to Golden Ticket & Defense ️ | Zyad Roshdy | [Read More](https://medium.com/p/bc0da9751912) |
+| Wed, 11 Mar 2026 02:58:24 GMT | Building Secure “Data Domains” for Large-Scale AI Agent Deployment | Coffee, Coke and Code | [Read More](https://medium.com/p/b8b9b4dcd03e) |
+| Wed, 11 Mar 2026 02:57:30 GMT | Jangan Tunggu Kena Hack: Mengenal Keamanan Informasi dan Panduan “Self-Care” Digital | Marsya Agsandina | [Read More](https://medium.com/p/949a61d47a95) |
+| Wed, 11 Mar 2026 02:56:13 GMT | When gets() Gets You in Trouble | Systemic | [Read More](https://medium.com/p/89cacc8dc55d) |
+| Wed, 11 Mar 2026 02:54:21 GMT | WordPress Security in 2026: The Complete Hardening Guide | Royalpluginsteam | [Read More](https://medium.com/p/756d4579c7f8) |
+| Wed, 11 Mar 2026 02:51:13 GMT | Building a SOC Detection Engineering Lab with Elastic, Mythic C2, and Attack Simulations | Gregory Dawson | [Read More](https://medium.com/p/3e9200b41cd8) |
+| Wed, 11 Mar 2026 02:44:28 GMT | I Built a Honeypot That Profiles Attackers and Maps Their Behavior to MITRE ATT&CK | Sanketh Subhas | [Read More](https://medium.com/p/a83a03d497d0) |
+| Wed, 11 Mar 2026 02:13:58 GMT | 2025 Military and Defense Industry Cyber Threat Landscape | NSHC ThreatRecon Team | [Read More](https://medium.com/p/5d8c02fc3ab9) |
 | Wed, 11 Mar 2026 01:58:20 GMT | Beginner Guide: Installing Whonix on VirtualBox for Safe Anonymous Browsing | Sathish | [Read More](https://medium.com/p/bb78256cdaa3) |
 | Wed, 11 Mar 2026 01:56:44 GMT | Is Your Home ONU Safe? | Superasystem Inc. | [Read More](https://medium.com/p/3db882b55cb2) |
 | Wed, 11 Mar 2026 01:49:13 GMT | Building a Multi-Agent AI System for Cloud Attack Path Discovery | v4jra | [Read More](https://medium.com/p/ad2d9c393816) |
 | Wed, 11 Mar 2026 01:46:46 GMT | Embracing the Future of Security | CCTVSS | [Read More](https://medium.com/p/bb78177ebd77) |
 | Wed, 11 Mar 2026 01:40:15 GMT | Part 3: The Evidence — California Region 2 VEX V5 | Vex Investigators | [Read More](https://medium.com/p/493c3a34f1e1) |
 | Wed, 11 Mar 2026 01:30:51 GMT | You Don’t Need a Threat Hunting Lab — If You’re a SOC Analyst, Your Environment Is Already One | Paritosh | [Read More](https://medium.com/p/f9bd31e9454b) |
+| Wed, 11 Mar 2026 01:27:02 GMT | Exploiting an SSRF Vulnerability to Retrieve the Server Hostname-Hackviser Lab | Manohar T H | [Read More](https://medium.com/p/9da33215b2b2) |
 | Wed, 11 Mar 2026 01:22:45 GMT | The Week AI Agents Ate the World (March 2026) | Chase Xu | [Read More](https://medium.com/p/66d0c33dcc4e) |
 | Wed, 11 Mar 2026 01:16:49 GMT | Abusing AD-DACL: AddSelf | Youssef Said Thabet | [Read More](https://medium.com/p/a0e455557c81) |
 | Wed, 11 Mar 2026 01:15:26 GMT | APLH Handbook: What You Need to Know to Get Your Personal Licence in England and Wales | Dr Francesco Dergano | [Read More](https://medium.com/p/61972180b1db) |
@@ -89,28 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Mar 2026 19:22:25 GMT | OWASP Top 10 2025: Application Design Flaws — My Hands-On Lab Walkthrough | Cahal  Agarwalla | [Read More](https://medium.com/p/7d4521fbdc20) |
 | Tue, 10 Mar 2026 19:20:15 GMT | Why Your Login Screen Is Probably Vulnerable | Akoredealokan | [Read More](https://medium.com/p/1b918c233c63) |
 | Tue, 10 Mar 2026 19:16:28 GMT | Active Directory Basic Enumeration -TryHackMe Walkthrough | Luqman | [Read More](https://medium.com/p/55fa0cc855a8) |
-| Tue, 10 Mar 2026 19:08:28 GMT | NetExec Cheat Sheet for Red-Teamer | Dhruv | [Read More](https://medium.com/p/47a00e36871c) |
-| Tue, 10 Mar 2026 19:02:55 GMT | Understanding Web Application Logs for Security Investigation | CipherX9F Security | [Read More](https://medium.com/p/465fe4cb109f) |
-| Tue, 10 Mar 2026 19:02:11 GMT | You Click Here, They Win | O. J. Okpabi | [Read More](https://medium.com/p/005e442107d3) |
-| Tue, 10 Mar 2026 19:01:01 GMT | How to Enable MFA in AWS | Rhea Gupta | [Read More](https://medium.com/p/de9d23bb9a2b) |
-| Tue, 10 Mar 2026 19:00:42 GMT | Homelab v1.1 - Security and Observability | Aram Haroyan | [Read More](https://medium.com/p/66d4977242f3) |
-| Tue, 10 Mar 2026 18:58:49 GMT | Understanding the Best Darkweb Search Engines and How They Work | Tor BBB | [Read More](https://medium.com/p/b0b5815bc112) |
-| Tue, 10 Mar 2026 18:54:09 GMT | Full Account Takeover via Email Confirmation Misconfiguration | Abhay go | [Read More](https://medium.com/p/9403fa17ba89) |
-| Tue, 10 Mar 2026 18:41:34 GMT | Enhancing Officer Safety with Innovative Seating | laguna3p | [Read More](https://medium.com/p/9626f8ae2b21) |
-| Tue, 10 Mar 2026 18:40:01 GMT | I Ran an AI Agent Against My Own Network. Here’s What It Did That I Couldn’t Stop. | Muhammad Haider Tallal | [Read More](https://medium.com/p/907e647562ed) |
-| Tue, 10 Mar 2026 18:35:42 GMT | Coding like Tony Stark: The Stark Strategy for Web Security | Navaneethan Bhaskaran | [Read More](https://medium.com/p/a68b4684c5b7) |
-| Tue, 10 Mar 2026 18:30:12 GMT | Phishing Email Analysis SOC Analyst Guide Part-1 Introuction. | Vaibhavrajsahu | [Read More](https://medium.com/p/2ece982c4c77) |
-| Tue, 10 Mar 2026 18:29:01 GMT | LLM Winter and the Coming Hacker Paradise | Zeynel Erciyas | [Read More](https://medium.com/p/006f10b6b203) |
-| Tue, 10 Mar 2026 18:28:48 GMT | Analytics — HackTheBox Walkthrough | Hemantha Krishna Challa | [Read More](https://medium.com/p/933c49004220) |
-| Tue, 10 Mar 2026 18:26:51 GMT | Mini AI Factories and the Rise of Sovereign Compute | Valdez Ladd | [Read More](https://medium.com/p/0b1a926968e5) |
-| Tue, 10 Mar 2026 18:26:50 GMT | Keindahan yang Menggoda | $bills | [Read More](https://medium.com/p/623d959785c2) |
-| Tue, 10 Mar 2026 18:25:20 GMT | Firewall Log Analysis and Security Investigation | Amruthabezawada | [Read More](https://medium.com/p/3795bf5b2134) |
-| Tue, 10 Mar 2026 18:25:06 GMT | IT Security 4 Humans | Paolo Casoto | [Read More](https://medium.com/p/28f79c7838ad) |
-| Tue, 10 Mar 2026 18:24:30 GMT | NSI Experts in the News — All Things National Security | National Security Institute | [Read More](https://medium.com/p/ecbc6d8a0582) |
-| Tue, 10 Mar 2026 18:22:16 GMT | How I Found a $1,000 Signature Replay Vulnerability in a Blockchain Bridge SDK | Hacker MD | [Read More](https://medium.com/p/61cdf25c901c) |
-| Tue, 10 Mar 2026 18:19:08 GMT | AI Surveillance and Privacy: How Much Monitoring Is Too Much? | TechScribeHub | [Read More](https://medium.com/p/077c1f30907e) |
-| Tue, 10 Mar 2026 18:17:54 GMT | Advanced File Discovery and Carving Techniques in Digital Forensics | Indupattem | [Read More](https://medium.com/p/df45a8ed78fb) |
-| Tue, 10 Mar 2026 18:16:00 GMT | Security for the Lifecycle: Building Resilience from Seed to Institutional Mainnet | Exploitless | [Read More](https://medium.com/p/d997b55db570) |
-| Tue, 10 Mar 2026 18:11:31 GMT | Let’s Explore robots.txt | Anshkamra | [Read More](https://medium.com/p/d975628d621c) |
-| Tue, 10 Mar 2026 18:10:03 GMT | Pre-Auth RCE on Juniper PTX: When “Internal Only” Accidentally Means “Internet” | Ilias Armenakis | [Read More](https://medium.com/p/10257f1b2d1e) |
-| Tue, 10 Mar 2026 18:09:23 GMT | How I Accidentally Hacked a Government Payment Portal While Looking for Bugs | LETCHU PKT | [Read More](https://medium.com/p/b5ecf75e1089) |
