@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Mar 2026 07:41:53 GMT | Digital Forensics Career Path in India | cyber security Updates | [Read More](https://medium.com/p/d01dc130a09b) |
+| Wed, 11 Mar 2026 07:34:49 GMT | cloud security lab | SPIRIT | [Read More](https://medium.com/p/7f9ef4413fdd) |
+| Wed, 11 Mar 2026 07:28:10 GMT | Hidden Tear Malware Family Analysis | WhosWho | [Read More](https://medium.com/p/565c6ba3391e) |
+| Wed, 11 Mar 2026 07:28:06 GMT | How to Protect Your Digital Assets from Cybercriminals? | Ultra Dynamic Corp | [Read More](https://medium.com/p/e13cf705805b) |
+| Wed, 11 Mar 2026 07:23:17 GMT | Building a Non-Custodial Multi-Chain Wallet: A Developer’s Journey | recursion | [Read More](https://medium.com/p/e4ca6d1557a9) |
+| Wed, 11 Mar 2026 07:23:09 GMT | Turning a Node.js Script Into a Real CLI Tool (Like git or npm) | Shaheryar Shaikh | [Read More](https://medium.com/p/74f479bdfd9c) |
+| Wed, 11 Mar 2026 07:21:15 GMT | Top IIT-NEET Coaching in Hyderabad | Sandhyarajesh | [Read More](https://medium.com/p/d77120815486) |
+| Wed, 11 Mar 2026 07:13:55 GMT | Basic Active Directory Enumeration | ikoo | [Read More](https://medium.com/p/79053491738b) |
+| Wed, 11 Mar 2026 07:12:41 GMT | AI Adoption vs. Talent Strategy: The Missing Conversation | Vijay Kumar Gupta | [Read More](https://medium.com/p/6ba4cea9d615) |
+| Wed, 11 Mar 2026 07:12:10 GMT | TYPES OF AUTHENTICATION | Moses Morris | [Read More](https://medium.com/p/109b2c5eca04) |
+| Wed, 11 Mar 2026 07:06:29 GMT | Digital Risk Protection Is Not a Magic Shield. It Is an Operations Problem. | Caleb Ng | [Read More](https://medium.com/p/a211589a1b69) |
+| Wed, 11 Mar 2026 07:06:26 GMT | Build a Powerful Career in Cyber Security with AI! | Molletibalu | [Read More](https://medium.com/p/19ae1d384513) |
+| Wed, 11 Mar 2026 07:02:52 GMT | User Access Review in SAP: How Automation is Transforming SAP Security and Compliance | Digitalbacklinks | [Read More](https://medium.com/p/1de8425ca4ed) |
+| Wed, 11 Mar 2026 07:01:00 GMT | 15. Build Triggers and Scheduling Strategies | Mangesh Muley | [Read More](https://medium.com/p/5fe0ae3fde2c) |
+| Wed, 11 Mar 2026 07:00:32 GMT | ️ Burp Suite vs OWASP ZAP
+  The Web Security Proxy Battle
+  Which Tool Should Bug Bounty… | ghostyjoe | [Read More](https://medium.com/p/2ca0ee82a5d0) |
+| Wed, 11 Mar 2026 06:58:13 GMT | CyberDefenders — WebStrike Lab (PCAP Forensics) | rexaa | [Read More](https://medium.com/p/685b6a6d3c25) |
+| Wed, 11 Mar 2026 06:49:04 GMT | Learning to Let People In And Stay | Pragya | [Read More](https://medium.com/p/e00e88e0d3a6) |
 | Wed, 11 Mar 2026 06:48:52 GMT | MR. ROBOT: A PSYCHOLOGICAL CRITIQUE OF CAPITALISM AND CORPORATE POWER | Gaurav Aryal | [Read More](https://medium.com/p/861d649f5a8a) |
 | Wed, 11 Mar 2026 06:30:50 GMT | 5 AI Security Challenges Every CIO Must Prepare For in 2026 | Rom | [Read More](https://medium.com/p/ab91ad7760ad) |
 | Wed, 11 Mar 2026 06:26:01 GMT | Best Cyber Security Services for Complete Business Data Protection | Linkbuildingvcentrix | [Read More](https://medium.com/p/e8297f3dc222) |
@@ -97,20 +116,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Mar 2026 00:01:01 GMT | XXE Injection Guide: Fundamentals, Payloads, and Bug Bounty Strategies | JPablo13 | [Read More](https://medium.com/p/1a11e73856a5) |
 | Tue, 10 Mar 2026 23:49:17 GMT | Unlocking the  power of modern security | CCTVSS | [Read More](https://medium.com/p/80f728801283) |
 | Tue, 10 Mar 2026 23:43:14 GMT | What is Runtime Security? The Formal Definition (v3.3) | Superasystem Inc. | [Read More](https://medium.com/p/8c533d4ce167) |
-| Tue, 10 Mar 2026 23:39:03 GMT | HackTheBox CCTV Walkthrough – SQL Injection to Root via motionEye Command Injection | Ndkmakka | [Read More](https://medium.com/p/1fddf482ea84) |
-| Tue, 10 Mar 2026 23:28:50 GMT | Criteria for Energy Efficient Design in Data Centers | Yuri Bravo | [Read More](https://medium.com/p/e220cedf3431) |
-| Tue, 10 Mar 2026 23:14:25 GMT | Full Agenda Now Available for “CVE/FIRST VulnCon 2026” on April 13–16, 2026! | CVE Program Blog | [Read More](https://medium.com/p/dbd0dd6cc705) |
-| Tue, 10 Mar 2026 22:59:12 GMT | Lab: SQL injection UNION attack, retrieving data from other tables | Songül Kızılay Özügürler | [Read More](https://medium.com/p/d984afee2171) |
-| Tue, 10 Mar 2026 22:51:00 GMT | Information Gathering in Web Pentesting — Solving INE “Information Gathering CTF 1” | Amitishacked | [Read More](https://medium.com/p/4cd64f2ca99b) |
-| Tue, 10 Mar 2026 22:45:09 GMT | https://www.linkedin.com/posts/pablo-octavio-feria-hern%C3%A1ndez-362293220_executive-summary-nist-o | pablo octavio feria hernandez | [Read More](https://medium.com/p/f5930d6e3edd) |
-| Tue, 10 Mar 2026 22:41:50 GMT | The Global Advanced Persistent Threat (APT) Landscape: Strategic Evolution, Taxonomic Mapping, and… | Mr_MalMan | [Read More](https://medium.com/p/b8bea510855c) |
-| Tue, 10 Mar 2026 22:40:25 GMT | Threat Hunting Lab Part 3: Lateral Movement | Andreas Maroulis | [Read More](https://medium.com/p/f747d585a366) |
-| Tue, 10 Mar 2026 22:38:18 GMT | From Zero to Domain Admin: Compromising Active Directory in Attacktive Directory (TryHackMe) | razzee | [Read More](https://medium.com/p/c468497be894) |
-| Tue, 10 Mar 2026 22:32:14 GMT | Token-2022 Is Not SPL Token: A Security Checklist From Real Audits | Mohamed Abuyounes | [Read More](https://medium.com/p/2f988c8ec23c) |
-| Tue, 10 Mar 2026 22:31:06 GMT | HTB Arctic: Remote Command Execution to JuicyPotato Privesc | Onurcan Genç | [Read More](https://medium.com/p/da2d61232547) |
-| Tue, 10 Mar 2026 22:24:43 GMT | PicoCTF 2026: Credential Stuffing | Ammar yasser El-sayed | [Read More](https://medium.com/p/0a0a8bf3765d) |
-| Tue, 10 Mar 2026 22:23:24 GMT | Lab: Reflected XSS into HTML context with most tags and attributes blocked | mayhack | [Read More](https://medium.com/p/ff3f80903598) |
-| Tue, 10 Mar 2026 22:20:05 GMT | Advanced XPath Injection Guide (Authentication Bypass → Data Exfiltration → Blind Extraction) | Raman Gautam - rghx | [Read More](https://medium.com/p/7a0eab4b7154) |
-| Tue, 10 Mar 2026 22:16:36 GMT | I Switched Sides: What It’s Like Investigating an Attack Instead of Running One | Robert Perez | [Read More](https://medium.com/p/3afa29c1f556) |
-| Tue, 10 Mar 2026 22:14:46 GMT | Microsoft Sentinel Threat Detection | Navraj Gill | [Read More](https://medium.com/p/59f1c0494733) |
-| Tue, 10 Mar 2026 22:10:20 GMT | Bulletproof Hosting: Explorations of a curious mind | Matt | [Read More](https://medium.com/p/16e122ee3e66) |
