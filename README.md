@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Mar 2026 06:48:52 GMT | MR. ROBOT: A PSYCHOLOGICAL CRITIQUE OF CAPITALISM AND CORPORATE POWER | Gaurav Aryal | [Read More](https://medium.com/p/861d649f5a8a) |
+| Wed, 11 Mar 2026 06:30:50 GMT | 5 AI Security Challenges Every CIO Must Prepare For in 2026 | Rom | [Read More](https://medium.com/p/ab91ad7760ad) |
+| Wed, 11 Mar 2026 06:26:01 GMT | Best Cyber Security Services for Complete Business Data Protection | Linkbuildingvcentrix | [Read More](https://medium.com/p/e8297f3dc222) |
+| Wed, 11 Mar 2026 06:20:05 GMT | Stop Building Boring CTFs: Here’s How I Brought the ‘Upside Down’ to My College. | Abhramaitra | [Read More](https://medium.com/p/ab32bb083320) |
+| Wed, 11 Mar 2026 06:19:57 GMT | Understanding Cybersecurity in the Digital Age | sita | [Read More](https://medium.com/p/68d861fd0582) |
+| Wed, 11 Mar 2026 06:19:52 GMT | "Ethical Hacking with curl: How to Map Any Website's Attack Surface in 4 Steps" | Pushkar Padhye | [Read More](https://medium.com/p/76f9de055e90) |
+| Wed, 11 Mar 2026 06:17:35 GMT | Skilled Manpower Services: The Backbone of Modern Business Operations | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/07a81bacee97) |
+| Wed, 11 Mar 2026 06:07:23 GMT | Practical API Hacking | d0natel00(KiroMoheb) | [Read More](https://medium.com/p/99d0d27f27f2) |
+| Wed, 11 Mar 2026 06:03:08 GMT | How to Protect Your Digital Identity in 2026: A CompletDigital identity theft is one of the… | vclub official | [Read More](https://medium.com/p/47a1d456b0fd) |
+| Wed, 11 Mar 2026 06:01:18 GMT | Top 10 Cybersecurity Tools Every Security ResearcherCybersecurity threats are evolving at a rapid… | vclub official | [Read More](https://medium.com/p/3b5d5e59d89e) |
+| Wed, 11 Mar 2026 06:01:01 GMT | Learning Wi‑Fi Security at Home: Capturing and Cracking a WPA2 Handshake | Thewatchdog13 | [Read More](https://medium.com/p/0871b8ddd751) |
+| Wed, 11 Mar 2026 05:57:02 GMT | Fire Alarm Installation Company in Kerala — Why Every Building Needs One | Berkshire Hathaway | [Read More](https://medium.com/p/d1637b0bc282) |
+| Wed, 11 Mar 2026 05:47:57 GMT | Trump’s Cyber Strategy for America: | CCD-IS | [Read More](https://medium.com/p/9bb764f12271) |
+| Wed, 11 Mar 2026 05:45:21 GMT | Web Enumeration dengan ffuf Cara Menemukan Subdomain dan Direktori Tersembunyi | Ahmat Prayoga Sembiring | [Read More](https://medium.com/p/ba45794b4520) |
+| Wed, 11 Mar 2026 05:43:54 GMT | Identifying the Infrastructure: A Guide to the Server Fingerprinting | Nitin Rai | [Read More](https://medium.com/p/819904592c9a) |
+| Wed, 11 Mar 2026 05:43:38 GMT | Quantum Computing & The Next Frontier of VAPT | Cynox Security LLP. | [Read More](https://medium.com/p/39ad8d696633) |
+| Wed, 11 Mar 2026 05:42:29 GMT | Is Your RAID Server Failing? Here’s How to Recover Your Data Before It’s Too Late | Shreya Loyal | [Read More](https://medium.com/p/00dd259145de) |
+| Wed, 11 Mar 2026 05:29:30 GMT | Introduction to Amazon Web Services for Beginners | Sohamsharma | [Read More](https://medium.com/p/6ecc577b164d) |
 | Wed, 11 Mar 2026 05:28:49 GMT | Stopping Attacks in Real Time: Using Wazuh Active Response to Protect Small Businesses | Chandan Bhattacharya | [Read More](https://medium.com/p/d6f8907a1c4a) |
 | Wed, 11 Mar 2026 05:24:53 GMT | Security For Buildings Ensuring Safety And Property Protection | Vidhiy | [Read More](https://medium.com/p/3241779966a5) |
 | Wed, 11 Mar 2026 05:18:11 GMT | Network Forensics using Wireshark | Relax your soul | [Read More](https://medium.com/p/2e61ba8530b4) |
@@ -96,21 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Mar 2026 22:16:36 GMT | I Switched Sides: What It’s Like Investigating an Attack Instead of Running One | Robert Perez | [Read More](https://medium.com/p/3afa29c1f556) |
 | Tue, 10 Mar 2026 22:14:46 GMT | Microsoft Sentinel Threat Detection | Navraj Gill | [Read More](https://medium.com/p/59f1c0494733) |
 | Tue, 10 Mar 2026 22:10:20 GMT | Bulletproof Hosting: Explorations of a curious mind | Matt | [Read More](https://medium.com/p/16e122ee3e66) |
-| Tue, 10 Mar 2026 22:07:24 GMT | The new security frontier for LLMs; SIEM evasion | Daniel Knight | [Read More](https://medium.com/p/488e8f3c8d7d) |
-| Tue, 10 Mar 2026 22:06:00 GMT | The Problem With Security Benchmarks (And Why We Still Need Them) | Kai Roer | [Read More](https://medium.com/p/ea2836bca350) |
-| Tue, 10 Mar 2026 22:02:14 GMT | Discover the Exciting Stories of the IT Industry from the 1960s | Stacklegend | [Read More](https://medium.com/p/447a70722c70) |
-| Tue, 10 Mar 2026 21:57:08 GMT | Why AI Compliance Tools Need Deterministic Validation, Not Just LLM Outputs | Mihir Dabhi | [Read More](https://medium.com/p/05b5073a697a) |
-| Tue, 10 Mar 2026 21:54:34 GMT | EU GDPR — Article 32 (Security of Processing) | MDM Team | [Read More](https://medium.com/p/a4b4983bbd67) |
-| Tue, 10 Mar 2026 21:54:32 GMT | Why Antivirus Software Is Still Important in 2026 | Viginet Pvt Ltd | [Read More](https://medium.com/p/edc37225af9f) |
-| Tue, 10 Mar 2026 21:52:37 GMT | TryHackMe Writeup: Active Directory Basic Enumeration (Jr-Pentester AD v01) | Nazwass | [Read More](https://medium.com/p/5c10cba35a5d) |
-| Tue, 10 Mar 2026 21:43:36 GMT | Complete Elastic Stack Onboarding Guide: Installing and Configuring Elasticsearch, Kibana, Fleet… | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/53972ee878ae) |
-| Tue, 10 Mar 2026 21:41:59 GMT | Nginx UI’da Kritik Güvenlik Açığı: CVE‑2026‑27944 ve Yedeklerin Tehlikeli İfşası | Erdem Ceylan | [Read More](https://medium.com/p/9034a68fb845) |
-| Tue, 10 Mar 2026 21:41:55 GMT | Tool Overload: When More Security Products Make You Less Secure | JSOC IT BLOG | [Read More](https://medium.com/p/d20e06758d87) |
-| Tue, 10 Mar 2026 21:38:33 GMT | This is the time | Erik Kvam | [Read More](https://medium.com/p/d4a1a467aa30) |
-| Tue, 10 Mar 2026 21:32:31 GMT | Layered Polymorphic String Encryption | S12 - 0x12Dark Development | [Read More](https://medium.com/p/58e6a3bf57d6) |
-| Tue, 10 Mar 2026 21:31:00 GMT | That “Missed Call” Text Might Be a Trap | Janeel Abrahams | [Read More](https://medium.com/p/88c485eb9a85) |
-| Tue, 10 Mar 2026 21:28:18 GMT | I Built a Flight Recorder for AI Coding Agents | bluemacaw | [Read More](https://medium.com/p/ef11e451b154) |
-| Tue, 10 Mar 2026 21:14:15 GMT | Abusing AD-DACL: GenericWrite | Youssef Said Thabet | [Read More](https://medium.com/p/dbb187257ef4) |
-| Tue, 10 Mar 2026 21:01:01 GMT | Unfiltered Restart — Day 22: OS Intro, Windows Versions and Installation | Maximillian Rueda | [Read More](https://medium.com/p/dbfc66acbc63) |
-| Tue, 10 Mar 2026 20:55:41 GMT | Android Content Provider Security: A Pentester’s Deep Dive — Part 1 | Mustafa Mohamed | [Read More](https://medium.com/p/9682c35d1b2d) |
-| Tue, 10 Mar 2026 20:52:56 GMT | Tryhackme AD: Basic Enumeration Write-Up | Harmonax | [Read More](https://medium.com/p/4fb8558b6924) |
