@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Mar 2026 01:58:20 GMT | Beginner Guide: Installing Whonix on VirtualBox for Safe Anonymous Browsing | Sathish | [Read More](https://medium.com/p/bb78256cdaa3) |
+| Wed, 11 Mar 2026 01:56:44 GMT | Is Your Home ONU Safe? | Superasystem Inc. | [Read More](https://medium.com/p/3db882b55cb2) |
+| Wed, 11 Mar 2026 01:49:13 GMT | Building a Multi-Agent AI System for Cloud Attack Path Discovery | v4jra | [Read More](https://medium.com/p/ad2d9c393816) |
+| Wed, 11 Mar 2026 01:46:46 GMT | Embracing the Future of Security | CCTVSS | [Read More](https://medium.com/p/bb78177ebd77) |
+| Wed, 11 Mar 2026 01:40:15 GMT | Part 3: The Evidence — California Region 2 VEX V5 | Vex Investigators | [Read More](https://medium.com/p/493c3a34f1e1) |
+| Wed, 11 Mar 2026 01:30:51 GMT | You Don’t Need a Threat Hunting Lab — If You’re a SOC Analyst, Your Environment Is Already One | Paritosh | [Read More](https://medium.com/p/f9bd31e9454b) |
+| Wed, 11 Mar 2026 01:22:45 GMT | The Week AI Agents Ate the World (March 2026) | Chase Xu | [Read More](https://medium.com/p/66d0c33dcc4e) |
+| Wed, 11 Mar 2026 01:16:49 GMT | Abusing AD-DACL: AddSelf | Youssef Said Thabet | [Read More](https://medium.com/p/a0e455557c81) |
+| Wed, 11 Mar 2026 01:15:26 GMT | APLH Handbook: What You Need to Know to Get Your Personal Licence in England and Wales | Dr Francesco Dergano | [Read More](https://medium.com/p/61972180b1db) |
+| Wed, 11 Mar 2026 01:12:56 GMT | Cara Deploy Fullstack Next.js & FastAPI di Windows Agar Auto-Restart (NSSM Guide) | Maulana Khanif | [Read More](https://medium.com/p/1b216870a5b6) |
+| Wed, 11 Mar 2026 01:04:57 GMT | Shadow AI Is Your Organization’s Newest Data Loss Vector | Jbird | [Read More](https://medium.com/p/ac467c184a19) |
+| Wed, 11 Mar 2026 01:01:00 GMT | If You’ve Never Been Blackmailed By a Former Employer — Listen Closely | Samuel Brice | [Read More](https://medium.com/p/59498a4646f5) |
+| Wed, 11 Mar 2026 00:57:03 GMT | The Danger of Over-Permissive File Shares | Jabaribrown | [Read More](https://medium.com/p/bea10fab5190) |
+| Wed, 11 Mar 2026 00:34:44 GMT | Why Internal Controls Matter More Than Ever | Hakim Fubara CIA, CISA, CISSP | [Read More](https://medium.com/p/457b629c89d8) |
+| Wed, 11 Mar 2026 00:34:26 GMT | Many Institutions Think They Are SWIFT CSP Compliant,Until an External Assessment is mandated | Hakim Fubara CIA, CISA, CISSP | [Read More](https://medium.com/p/a4dd861bd7fe) |
+| Wed, 11 Mar 2026 00:27:54 GMT | ‎Mike Evans: The Journey of One of the NFL’s Most Consistent Superstars
+‎
+‎In the world of… | Ddm atiq | [Read More](https://medium.com/p/3f3d6915cbb6) |
+| Wed, 11 Mar 2026 00:04:18 GMT | WordPress Hacked: The Complete Recovery Guide for Agencies | Vuvo Hosting | [Read More](https://medium.com/p/7c81e88ae8d7) |
+| Wed, 11 Mar 2026 00:01:01 GMT | XXE Injection Guide: Fundamentals, Payloads, and Bug Bounty Strategies | JPablo13 | [Read More](https://medium.com/p/1a11e73856a5) |
+| Tue, 10 Mar 2026 23:49:17 GMT | Unlocking the  power of modern security | CCTVSS | [Read More](https://medium.com/p/80f728801283) |
+| Tue, 10 Mar 2026 23:43:14 GMT | What is Runtime Security? The Formal Definition (v3.3) | Superasystem Inc. | [Read More](https://medium.com/p/8c533d4ce167) |
+| Tue, 10 Mar 2026 23:39:03 GMT | HackTheBox CCTV Walkthrough – SQL Injection to Root via motionEye Command Injection | Ndkmakka | [Read More](https://medium.com/p/1fddf482ea84) |
+| Tue, 10 Mar 2026 23:28:50 GMT | Criteria for Energy Efficient Design in Data Centers | Yuri Bravo | [Read More](https://medium.com/p/e220cedf3431) |
 | Tue, 10 Mar 2026 23:14:25 GMT | Full Agenda Now Available for “CVE/FIRST VulnCon 2026” on April 13–16, 2026! | CVE Program Blog | [Read More](https://medium.com/p/dbd0dd6cc705) |
 | Tue, 10 Mar 2026 22:59:12 GMT | Lab: SQL injection UNION attack, retrieving data from other tables | Songül Kızılay Özügürler | [Read More](https://medium.com/p/d984afee2171) |
 | Tue, 10 Mar 2026 22:51:00 GMT | Information Gathering in Web Pentesting — Solving INE “Information Gathering CTF 1” | Amitishacked | [Read More](https://medium.com/p/4cd64f2ca99b) |
@@ -90,25 +114,3 @@ A list of the latest fetched articles from RSS feeds.
 | Tue, 10 Mar 2026 18:11:31 GMT | Let’s Explore robots.txt | Anshkamra | [Read More](https://medium.com/p/d975628d621c) |
 | Tue, 10 Mar 2026 18:10:03 GMT | Pre-Auth RCE on Juniper PTX: When “Internal Only” Accidentally Means “Internet” | Ilias Armenakis | [Read More](https://medium.com/p/10257f1b2d1e) |
 | Tue, 10 Mar 2026 18:09:23 GMT | How I Accidentally Hacked a Government Payment Portal While Looking for Bugs | LETCHU PKT | [Read More](https://medium.com/p/b5ecf75e1089) |
-| Tue, 10 Mar 2026 18:02:13 GMT | The Night I Realized My Favorite YouTube Preacher Was AI | Vidya Ransam | [Read More](https://medium.com/p/8ef7b10a7110) |
-| Tue, 10 Mar 2026 17:56:14 GMT | OSINT Is Not About Finding More Data — It Is About Asking Better Questions Than Everyone Else | R.H Rizvi | [Read More](https://medium.com/p/3aed9d263613) |
-| Tue, 10 Mar 2026 17:55:57 GMT | The Cross-Site Scripting Paradox: Why Developers Who Sanitize Input Still Get Exploited | R.H Rizvi | [Read More](https://medium.com/p/b6a1d6273e6f) |
-| Tue, 10 Mar 2026 17:54:14 GMT | TENGU RANSOMWARE | Rakesh Krishnan | [Read More](https://medium.com/p/bb1f1dfc04e0) |
-| Tue, 10 Mar 2026 17:53:26 GMT | Kure Monitor | Igor Koricanac | [Read More](https://medium.com/p/7a048ea8ae32) |
-| Tue, 10 Mar 2026 17:52:17 GMT | “How I built my own Port Scanner using Python” | Akhilswami | [Read More](https://medium.com/p/2335b7978d16) |
-| Tue, 10 Mar 2026 17:48:54 GMT | Conducting a Security Audit: A Beginner Cybersecurity Case Study | Jayesh | [Read More](https://medium.com/p/491c1a3cb07c) |
-| Tue, 10 Mar 2026 17:43:55 GMT | Your Convenience Is Their Business Model | Don Lupo | [Read More](https://medium.com/p/e96cc1194652) |
-| Tue, 10 Mar 2026 17:43:25 GMT | How Operating Systems Actually Work | Aariz Khan | [Read More](https://medium.com/p/4291cb523954) |
-| Tue, 10 Mar 2026 17:42:44 GMT | Understanding JWT: The Basics of JSON Web Tokens | Szigecsán Dávid | [Read More](https://medium.com/p/44189fcd51ec) |
-| Tue, 10 Mar 2026 17:37:39 GMT | US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies | IT_Engineer | [Read More](https://medium.com/p/849f55d3c8d9) |
-| Tue, 10 Mar 2026 17:28:57 GMT | SSL & Certificate Management Across All Middleware Technologies | Vidhi Jayeswal | [Read More](https://medium.com/p/39e1caa59c92) |
-| Tue, 10 Mar 2026 17:24:30 GMT | The Log4Shell Nightmare: How a Tiny Piece of Code Broke the Internet | Krishna Kumar | [Read More](https://medium.com/p/32828e337858) |
-| Tue, 10 Mar 2026 17:23:59 GMT | Weak Password Reset Token leading to Account Takeover | Dipesh Paul | [Read More](https://medium.com/p/1a162d651acf) |
-| Tue, 10 Mar 2026 17:17:13 GMT | Beware! Scammers Are Using AI to Scam You | Heemeng Foo | [Read More](https://medium.com/p/b945a5623062) |
-| Tue, 10 Mar 2026 17:16:00 GMT | Why Security Should Be Part of Every Business Security Strategy | Lucas Barett | [Read More](https://medium.com/p/f2ecab3ce142) |
-| Tue, 10 Mar 2026 17:11:00 GMT | Microsoft OAuth Phishing Attack 2026: How Hackers Are Hijacking Government Accounts & How to Stop… | Temma | [Read More](https://medium.com/p/31ff5d07a8e5) |
-| Tue, 10 Mar 2026 17:09:08 GMT | The OpenClaw Security Guide: 10 Things to Lock Down Before You Connect Anything | Alex P. | [Read More](https://medium.com/p/bf7697c17b8c) |
-| Tue, 10 Mar 2026 17:07:19 GMT | The Model Race Is Over: Why the “Scaffold” Is the New AI Priority | Atef Ataya | [Read More](https://medium.com/p/d6fa2e7810fd) |
-| Tue, 10 Mar 2026 17:04:36 GMT | What I’m Learning About Instagram Algorithms as a Digital Marketing Student | Blesson Charles | [Read More](https://medium.com/p/bd0736e7acf9) |
-| Tue, 10 Mar 2026 17:03:46 GMT | Introduction to Cyber Security | J.Dishalan | [Read More](https://medium.com/p/39dd39a8bb96) |
-| Tue, 10 Mar 2026 16:48:25 GMT | HTB Academy — Web Fuzzing with ffuf: Full Walkthrough | Zeyad Mostafa | [Read More](https://medium.com/p/c7fdc469e1af) |
