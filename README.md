@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Mar 2026 21:24:34 GMT | Try Hack Me- The Server From Hell CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/979c331aba9e) |
+| Wed, 11 Mar 2026 21:21:14 GMT | Web3 Security Careers: Smart Contract Auditors vs Security Researchers | Abraham | [Read More](https://medium.com/p/d8361759011a) |
+| Wed, 11 Mar 2026 21:16:25 GMT | From Shadow Engineering to Architected Autonomy | paul@aurite.ai | [Read More](https://medium.com/p/bc47b52bfe67) |
+| Wed, 11 Mar 2026 21:01:00 GMT | Unfiltered Restart — Day 23: Straggling a Bit | Maximillian Rueda | [Read More](https://medium.com/p/c2bb1d4fd0d1) |
+| Wed, 11 Mar 2026 20:44:34 GMT | Technical Analysis of CVE-2026–26110 | Kaloyan Stefanov | [Read More](https://medium.com/p/8130b9ebfd38) |
+| Wed, 11 Mar 2026 20:36:57 GMT | Microsoft Windows Update Alert: Azure Virtual Desktop RemoteApp Issue | Ryan Adams | [Read More](https://medium.com/p/ae987295ddf0) |
+| Wed, 11 Mar 2026 20:36:01 GMT | Prevent 80% of Private Endpoint Outages | Practical IT | [Read More](https://medium.com/p/35a85bb422ad) |
+| Wed, 11 Mar 2026 20:32:10 GMT | TryHackMe - M365 Monitoring Basics - WriteUp | Axoloth | [Read More](https://medium.com/p/46a89242d80c) |
 | Wed, 11 Mar 2026 20:20:30 GMT | Risk-Adjusted Yield: The Missing Metric in DeFi’s Yield Race | Khan Kharal | [Read More](https://medium.com/p/598835f2ee41) |
 | Wed, 11 Mar 2026 20:18:16 GMT | How to Modify IE8 Security Levels Using Registry Editor | Excalibra | [Read More](https://medium.com/p/606c6076af2f) |
 | Wed, 11 Mar 2026 20:17:16 GMT | Piece by Piece — PicoCTF 2026 | Bridget | [Read More](https://medium.com/p/197dab9478b9) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Mar 2026 15:24:07 GMT | Tax Scams: IRS is a movie buff- Sonareon Insights | Sonareon | [Read More](https://medium.com/p/a027a0953914) |
 | Wed, 11 Mar 2026 15:23:51 GMT | TryHackMe Write-Up: Attacktive Directory | Senoputraaa | [Read More](https://medium.com/p/225f63b37a85) |
 | Wed, 11 Mar 2026 15:22:29 GMT | FunBox: Rookie — CTF Walkthrough - Beginner Friendly. | Chaitalisalgaonkar | [Read More](https://medium.com/p/fb58a3b28f67) |
-| Wed, 11 Mar 2026 15:21:30 GMT | Information Security: Pentingnya Keamanan Informasi di Era Digital | Nnaysdumpie | [Read More](https://medium.com/p/499fa6c69207) |
-| Wed, 11 Mar 2026 15:09:01 GMT | Kuwait’s Strategic Assessment of Iran as a Security Threat | Libin T Kurian | [Read More](https://medium.com/p/5040285d0af6) |
-| Wed, 11 Mar 2026 15:05:56 GMT | Break Out The Cage: Exploiting Command Injection & LXD on TryHackMe : | Amrou bekhedda | [Read More](https://medium.com/p/73ff431b0e1a) |
-| Wed, 11 Mar 2026 15:02:17 GMT | Shannon AI Penetration Testing Framework Explained | Pentester Club | [Read More](https://medium.com/p/9f856e5dbd7e) |
-| Wed, 11 Mar 2026 15:00:47 GMT | AI vs Hackers: The Rise of Autonomous Vulnerability Hunting in Bug Bounty | Nitin yadav | [Read More](https://medium.com/p/f22cf697d13f) |
-| Wed, 11 Mar 2026 15:00:26 GMT | Sovereign AI: Why Agentic Systems Require a New Threat Modeling Perspective | Robert Saghafi | [Read More](https://medium.com/p/ea2fadac1a20) |
-| Wed, 11 Mar 2026 14:56:14 GMT | Yemen Is Quietly Becoming the Arena of a Saudi–UAE Power Struggle | Gökçen Kunukcu | [Read More](https://medium.com/p/bc6da02aca30) |
-| Wed, 11 Mar 2026 14:52:11 GMT | The Rise of AI-Driven Cybercrime | Billy Lesaigor | [Read More](https://medium.com/p/7dd43798a504) |
