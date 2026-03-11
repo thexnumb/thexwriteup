@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Wed, 11 Mar 2026 22:13:21 GMT | # I Built a Hardened AI Agent You Can Run on Your Laptop — Here’s How | Örvar Karlsson | [Read More](https://medium.com/p/900b1c3e976f) |
+| Wed, 11 Mar 2026 22:06:33 GMT | Introduction to Malware & Malware Analysis | Huzaifah Tahir | [Read More](https://medium.com/p/02c027401db1) |
+| Wed, 11 Mar 2026 22:06:03 GMT | The API Security Problem No One Is Governing | Samuel Odekunle | [Read More](https://medium.com/p/f2267685a491) |
+| Wed, 11 Mar 2026 22:04:35 GMT | Detecting Unicode Homoglyph and Zero-Width Character Evasion in LLM Prompt Injection Attacks | Meghal | [Read More](https://medium.com/p/5b2df4d46989) |
+| Wed, 11 Mar 2026 21:51:47 GMT | Agent Security: Why Good Engineering Is Not Enough | Mridul Rao | [Read More](https://medium.com/p/daf864091f72) |
+| Wed, 11 Mar 2026 21:37:14 GMT | From One Photo to a Full Profile: My First OSINT Investigation | Lerato Makhasane | [Read More](https://medium.com/p/a973f0e1195e) |
 | Wed, 11 Mar 2026 21:24:34 GMT | Try Hack Me- The Server From Hell CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/979c331aba9e) |
 | Wed, 11 Mar 2026 21:21:14 GMT | Web3 Security Careers: Smart Contract Auditors vs Security Researchers | Abraham | [Read More](https://medium.com/p/d8361759011a) |
 | Wed, 11 Mar 2026 21:16:25 GMT | From Shadow Engineering to Architected Autonomy | paul@aurite.ai | [Read More](https://medium.com/p/bc47b52bfe67) |
@@ -106,9 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Mar 2026 15:49:50 GMT | Identity and Access Management (IAM): The Backbone of Modern Cybersecurity | John T.C. Idundun | [Read More](https://medium.com/p/618e9366d005) |
 | Wed, 11 Mar 2026 15:42:36 GMT | 12 Command Prompt Commands Every IT Support Technician Should Know | Tyrik Emptage | [Read More](https://medium.com/p/332ff5a23169) |
 | Wed, 11 Mar 2026 15:41:56 GMT | Microsoft Warns Hackers Are Using AI to Supercharge Cyberattacks | Aura Tech Insights | [Read More](https://medium.com/p/e0ecee5335f0) |
-| Wed, 11 Mar 2026 15:39:42 GMT | Building a Malware Detection Workflow with Wazuh and VirusTotal | Richard Akintola | [Read More](https://medium.com/p/e0befd727eac) |
-| Wed, 11 Mar 2026 15:29:24 GMT | No Token. No Session. No Problem. How a Default GraphQL Endpoint Led Me to Unauthenticated RCE | 0xTyrion404 | [Read More](https://medium.com/p/494932f1a4f3) |
-| Wed, 11 Mar 2026 15:28:16 GMT | Why Your AI Security Scanner Is Probably a Hobby (And How BugTraceAI Changes the Game) | Albert Corzo | [Read More](https://medium.com/p/1577771149ea) |
-| Wed, 11 Mar 2026 15:24:07 GMT | Tax Scams: IRS is a movie buff- Sonareon Insights | Sonareon | [Read More](https://medium.com/p/a027a0953914) |
-| Wed, 11 Mar 2026 15:23:51 GMT | TryHackMe Write-Up: Attacktive Directory | Senoputraaa | [Read More](https://medium.com/p/225f63b37a85) |
-| Wed, 11 Mar 2026 15:22:29 GMT | FunBox: Rookie — CTF Walkthrough - Beginner Friendly. | Chaitalisalgaonkar | [Read More](https://medium.com/p/fb58a3b28f67) |
