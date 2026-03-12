@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Mar 2026 09:46:20 GMT | OWASP for AI Models: Securing the Brain of Modern Applications | Dhanush | [Read More](https://medium.com/p/3f4cab12220f) |
+| Thu, 12 Mar 2026 09:45:31 GMT | Hackers Love Untrained Users — Don’t Be One | Redfox Security | [Read More](https://medium.com/p/ecbd87d84b1b) |
+| Thu, 12 Mar 2026 09:27:24 GMT | I Asked the Server to Ping It Told Me Who It Was | Issan | [Read More](https://medium.com/p/44bcb45419ee) |
+| Thu, 12 Mar 2026 09:26:59 GMT | Malicious Crypto Mining Setup on Jenkins Server | Abdullah Khalid | [Read More](https://medium.com/p/d886818b0bcb) |
+| Thu, 12 Mar 2026 09:21:34 GMT | CVE-2026–20127 | lukewago | [Read More](https://medium.com/p/6174233906c2) |
+| Thu, 12 Mar 2026 09:21:33 GMT | BreachBlocker Unlocker (THM) Tryhackme WriteUp Answer | Lawvye | [Read More](https://medium.com/p/d3f1f8db2322) |
+| Thu, 12 Mar 2026 09:07:43 GMT | SecureTCU project teaser | Beam Connectivity | [Read More](https://medium.com/p/c59a1aa812d5) |
+| Thu, 12 Mar 2026 09:05:29 GMT | ISC2 ISSAP Domain 1.1.2: Architecting for Governance, Risk, and Compliance (GRC) | InfosecTrain | [Read More](https://medium.com/p/e435506304fd) |
+| Thu, 12 Mar 2026 09:02:40 GMT | Rahul Had One Shot at a ₹8 Lakh Deal. | Nimit AI | [Read More](https://medium.com/p/e108be0cf44e) |
+| Thu, 12 Mar 2026 09:00:51 GMT | The Secret The Heart Emoji Couldn’t Hide | O. J. Okpabi | [Read More](https://medium.com/p/1178ee824c53) |
+| Thu, 12 Mar 2026 08:59:02 GMT | <MyNotes> Azure Access And Enumeration | byL0r3t | [Read More](https://medium.com/p/aa4699c76a9b) |
+| Thu, 12 Mar 2026 08:57:38 GMT | The End of the Phone Call: Why You Can’t Trust Voice Anymore | Thato Brander | [Read More](https://medium.com/p/d26ca1a3a26c) |
+| Thu, 12 Mar 2026 08:53:48 GMT | 10 Cybersecurity Tips Every Beginner Needs to Know | Francis Okwemba | [Read More](https://medium.com/p/8802293d64e5) |
 | Thu, 12 Mar 2026 08:33:41 GMT | How Deepfake Identity Theft is Draining Insurance Policies (And How to Stop It) | InsureYouKnow | [Read More](https://medium.com/p/e11017439ff1) |
 | Thu, 12 Mar 2026 08:30:32 GMT | Indirect Prompt Injection: The Silent Threat to Your LLM Applications | Alessandro Pignati | [Read More](https://medium.com/p/2e41317b2165) |
 | Thu, 12 Mar 2026 08:16:26 GMT | Identity Sprawl: The Hidden Risk in Modern Cloud Environments | Cybersphere Official | [Read More](https://medium.com/p/9075e505fb12) |
@@ -42,6 +55,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Mar 2026 07:11:00 GMT | The Web3 IDOR: Leaving the Bank Vault Wide Open | Tabrez Mukadam | [Read More](https://medium.com/p/f13bbcdf7be6) |
 | Thu, 12 Mar 2026 07:01:05 GMT | Enhancing BloodHound with AI: Active Directory Attack Path Analysis via MCP and Claude AI | Rio Darmawan | [Read More](https://medium.com/p/266b5f82db95) |
 | Thu, 12 Mar 2026 06:59:19 GMT | Fixing java.lang.NoSuchMethodError: org.apache.solr.core.SolrCore.getSchema() | Qavi Tech | [Read More](https://medium.com/p/23def84bd8ff) |
+| Thu, 12 Mar 2026 06:44:51 GMT | ScalarDL HashStore と TableStore を使用した改ざん検知アプリケーションの簡素化 | Josh Wong | [Read More](https://medium.com/p/9ad3fb4a4c05) |
 | Thu, 12 Mar 2026 06:42:18 GMT | Secure Solr admin interface on Tomcat | Qavi Tech | [Read More](https://medium.com/p/7c94dc1a09a7) |
 | Thu, 12 Mar 2026 06:42:17 GMT | Bandit Writeup Part 2: Mastery of the Command Line (Levels 12–22) | meganuke_ | [Read More](https://medium.com/p/0370b4849461) |
 | Thu, 12 Mar 2026 06:42:14 GMT | FunBox: Rookie — CTF Walkthrough - Beginner Friendly. | Gouriiih | [Read More](https://medium.com/p/5ee7e4961749) |
@@ -78,6 +92,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Mar 2026 04:40:06 GMT | Vulnerability Management vs Offensive Security: What’s the Difference and Which Path is Right for… | Abacusready | [Read More](https://medium.com/p/642fa0c605a9) |
 | Thu, 12 Mar 2026 04:24:45 GMT | A Banking Security Assessment Experience | lrenciuskf | [Read More](https://medium.com/p/0c08d2dd3b9e) |
 | Thu, 12 Mar 2026 04:23:42 GMT | OWASP Top 10 Explained Simply — With Real Examples | Kuboid Secure Layer | [Read More](https://medium.com/p/d39136773bc9) |
+| Thu, 12 Mar 2026 04:12:54 GMT | Био-флэшка | Chernousov Anton | [Read More](https://medium.com/p/cc64cc6f998b) |
 | Thu, 12 Mar 2026 04:12:37 GMT | Compliance Was Killing Startups. Then Two Founders Said “Enough.” | TEJAS | [Read More](https://medium.com/p/79932289dd17) |
 | Thu, 12 Mar 2026 04:04:28 GMT | Don’t Lose Everything: Why Cloud Backups Matter | Dhivanujan Nesiah | [Read More](https://medium.com/p/64a12a9981ba) |
 | Thu, 12 Mar 2026 04:01:26 GMT | Digital Forensics — TryHackMe Write-Up | PandaHax | [Read More](https://medium.com/p/d6a2c90ad4c0) |
@@ -98,18 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Mar 2026 02:31:23 GMT | TryHackMe Walkthrough: Linux Fundamentals Part 2 | Shubham Khirwadkar | [Read More](https://medium.com/p/ca43b42f717a) |
 | Thu, 12 Mar 2026 02:15:53 GMT | AI Governance in 2026: Why Compliance is Becoming an Architectural Requirement for AI Systems | Sales | [Read More](https://medium.com/p/44f783e6be61) |
 | Thu, 12 Mar 2026 02:15:34 GMT | Top 10 AI Agent Security Risks Every Enterprise Must Address in 2026 | Sales | [Read More](https://medium.com/p/39a347cda58a) |
-| Thu, 12 Mar 2026 02:03:19 GMT | VulNyx — School Writeup | _ATROX_ | [Read More](https://medium.com/p/6b72d0f92fbc) |
-| Thu, 12 Mar 2026 02:01:02 GMT | Things I Always Check When Testing a Login Page | loopXvedant | [Read More](https://medium.com/p/fcdedc79573a) |
-| Thu, 12 Mar 2026 02:01:02 GMT | Why Most Cybersecurity Resumes Get Rejected (Even When the Candidate Is Skilled) | Manubhav Sharma | [Read More](https://medium.com/p/091f86dbba92) |
-| Thu, 12 Mar 2026 01:42:47 GMT | The Silent Killer in Cloud-Native: A Deep Dive into a Tomcat Native Memory Leak | gregk4sec with k4security Lab | [Read More](https://medium.com/p/25cda8fa722e) |
-| Thu, 12 Mar 2026 01:37:59 GMT | How Hackers Actually Think: The Mindset Most Security Professionals Miss. | Akwaeze Odera Gerald | [Read More](https://medium.com/p/de09d04cb6f6) |
-| Thu, 12 Mar 2026 01:33:48 GMT | The Question Every Software Engineer Should Ask Themselves | Andhika Megantara | [Read More](https://medium.com/p/627831aa7b0b) |
-| Thu, 12 Mar 2026 01:20:06 GMT | Detect Access Token Manipulation & Privilege Escalation (MITRE ATT&CK T1134) | Bharath Bandari | [Read More](https://medium.com/p/3b19e6f9e38f) |
-| Thu, 12 Mar 2026 01:05:35 GMT | Abusing AD-DACL: AllExtendedRights | Youssef Said Thabet | [Read More](https://medium.com/p/670279851b52) |
-| Thu, 12 Mar 2026 00:58:55 GMT | Tryhackme : Attacktive Directory Write-Up | Harmonax | [Read More](https://medium.com/p/8af9270abe07) |
-| Thu, 12 Mar 2026 00:44:02 GMT | The Cyber Kill Chain Explained for Everyone | Armansyah hakim | [Read More](https://medium.com/p/fd053936de1c) |
-| Thu, 12 Mar 2026 00:41:00 GMT | AI Coding Assistants in VS Code: A New Source of Digital Forensic Artifacts | Paritosh | [Read More](https://medium.com/p/97a59ceff747) |
-| Thu, 12 Mar 2026 00:25:00 GMT | The 5 Biggest Security Holes in AI Agent Platforms Right Now | The Streets to Entrepreneurs | [Read More](https://medium.com/p/ee7d561486b6) |
-| Thu, 12 Mar 2026 00:24:09 GMT | HTTP/2 request smuggling via CRLF injection | Ⓥ | [Read More](https://medium.com/p/91716bdd08e3) |
-| Thu, 12 Mar 2026 00:24:01 GMT | H2.CL request smuggling | Ⓥ | [Read More](https://medium.com/p/90d998964d84) |
-| Thu, 12 Mar 2026 00:15:18 GMT | Dependency Property 是什麼？ — WPF 的中央燈掣 | 思維舞步 MindSteps | [Read More](https://medium.com/p/f5934b180cc2) |
