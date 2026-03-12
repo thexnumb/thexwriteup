@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Mar 2026 19:51:59 GMT | Why Traditional Locks Aren’t Enough for 2026 | Castilloed | [Read More](https://medium.com/p/fd43739841e3) |
+| Thu, 12 Mar 2026 19:41:00 GMT | User Mode, Kernel Mode and the Windows Function Call Flow | Itz.sanskarr | [Read More](https://medium.com/p/5f20925d4c6f) |
+| Thu, 12 Mar 2026 19:37:50 GMT | Mapping the GraphQL Attack Surface: Schema Enumeration, Batch Abuse, and Resolver Explosions | Ommkoli | [Read More](https://medium.com/p/285714610185) |
+| Thu, 12 Mar 2026 19:37:07 GMT | The Crime Lab: CyberDefenders Lab Writeup | Alex Saropoulos | [Read More](https://medium.com/p/8888160faa2c) |
+| Thu, 12 Mar 2026 19:35:00 GMT | Handala Stryker Attack: Intune Wiper TTPs, Detection & Hardening Guide 2026 | Kevin Gandhi | [Read More](https://medium.com/p/5924a701011d) |
+| Thu, 12 Mar 2026 19:34:29 GMT | The AI hacking methods you probably didn’t know about | Dr. Urban Liebel | [Read More](https://medium.com/p/dbf3147005ac) |
+| Thu, 12 Mar 2026 19:21:51 GMT | Cybersecurity Guide Reddit: Community-sourced Advice for All | cybersecurity risk | [Read More](https://medium.com/p/1320ee220cd1) |
+| Thu, 12 Mar 2026 19:20:58 GMT | Reverse Engineering & Binary Exploitation:
+Part 1 | MRxO1 | [Read More](https://medium.com/p/95f21de9501c) |
+| Thu, 12 Mar 2026 19:15:49 GMT | Firewall Architecture for Modern Enterprises | Devlane | [Read More](https://medium.com/p/e99c34c72432) |
+| Thu, 12 Mar 2026 19:12:57 GMT | The Private Security Industry Just Hit $49 Billion. Here’s What That Means for Your Building | Building Security Services | [Read More](https://medium.com/p/b97f107ddfa3) |
+| Thu, 12 Mar 2026 19:10:12 GMT | TryHackMe: Attacktive Directory — Walkthrough | Muhammaddavidfirmansyah | [Read More](https://medium.com/p/06df16ccdcd7) |
+| Thu, 12 Mar 2026 19:04:55 GMT | Cybersecurity Guide Reddit: Community-sourced Advice for All | AJ | [Read More](https://medium.com/p/f1352214b4fc) |
+| Thu, 12 Mar 2026 19:04:52 GMT | Cybersecurity Guide Reddit: Community-sourced Advice for All | AJ | [Read More](https://medium.com/p/0d47eaf5064f) |
+| Thu, 12 Mar 2026 19:01:45 GMT | CORS End-to-End: How Browsers Enforce It, How Attackers Break It, How Devs Fix It | Vikash Vishnoi | [Read More](https://medium.com/p/cea4b77e6028) |
 | Thu, 12 Mar 2026 18:49:04 GMT | Beyond Firewalls | IEEE WIE Student Branch Affinity Group of SUSL | [Read More](https://medium.com/p/864e8730451a) |
 | Thu, 12 Mar 2026 18:47:04 GMT | Russia-NATO Border Standoff: Everything You Need to Know in 5 Minutes | Vivek Anand | [Read More](https://medium.com/p/b8085c3512f4) |
 | Thu, 12 Mar 2026 18:46:54 GMT | Most financial scams don’t hack systems — they hack people | Enrique Dans | [Read More](https://medium.com/p/6488c7948ebb) |
@@ -98,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Mar 2026 14:13:15 GMT | The #1 Identity Risk I See in Small to Mid-Size Healthcare Organizations | Shannon Harrell Jr. | [Read More](https://medium.com/p/228ecf43b587) |
 | Thu, 12 Mar 2026 14:07:48 GMT | Quantum-Ready or Quantum-At-Risk? The PQC Transition for Mid-Market Firms | IT_Engineer | [Read More](https://medium.com/p/84e8dc5e9097) |
 | Thu, 12 Mar 2026 14:07:46 GMT | When Multi-Tenant Isolation Completely Falls Apart | MixBanana | [Read More](https://medium.com/p/2b969110d400) |
-| Thu, 12 Mar 2026 14:02:59 GMT | Why Business Leaders Must Accept Cybersecurity as Business Strategy, Not Just an IT Function | David SEHYEON Baek | [Read More](https://medium.com/p/2be075570251) |
-| Thu, 12 Mar 2026 14:01:06 GMT | Cyber Briefing: 2026.03.12 | CyberMaterial | [Read More](https://medium.com/p/a7497d9988a6) |
-| Thu, 12 Mar 2026 14:01:03 GMT | Building a SOCAT static binary | z3l3v | [Read More](https://medium.com/p/c11bd2b79929) |
-| Thu, 12 Mar 2026 14:01:02 GMT | Secure AI Applications with Model Armor and Sensitive Data Protection (SDP) | Rohan Singh | [Read More](https://medium.com/p/8451e54a52f9) |
-| Thu, 12 Mar 2026 13:55:14 GMT | How to detect a Microsoft 365 breach in under 10 minutes | Lars Schouwenaars | [Read More](https://medium.com/p/32dc3268299f) |
-| Thu, 12 Mar 2026 13:53:45 GMT | The Fastest Code You’ve Never Read | Patrick Lefler | [Read More](https://medium.com/p/174da78bd688) |
-| Thu, 12 Mar 2026 13:36:00 GMT | The Hartford Homeowner’s Ultimate Garage Door Guide - UAD | Up & Down Garage Door Services | [Read More](https://medium.com/p/739c57123385) |
-| Thu, 12 Mar 2026 13:24:19 GMT | We Allowed Only Trusted IPs on AWS… Yet Our Servers Were Still Under Attack (Real DevOps Fix) | BHARAT PRAKASH INANI | [Read More](https://medium.com/p/2bc168ca2f78) |
-| Thu, 12 Mar 2026 13:11:00 GMT | The Rise of Hacktivism: What the Handala Attack on Stryker Teaches Cybersecurity Teams | Priyanka Behera | [Read More](https://medium.com/p/393b538869ee) |
-| Thu, 12 Mar 2026 13:05:01 GMT | Solved A Bugforge Challenge — Privilege Escalation in Tanuki | Pranaya Shrestha | [Read More](https://medium.com/p/9e4754f42e70) |
-| Thu, 12 Mar 2026 13:03:21 GMT | FDA Documents: The Technical Ledger of Modern Medicine | Mamduh Zabidi | [Read More](https://medium.com/p/e16362932c3d) |
-| Thu, 12 Mar 2026 13:02:08 GMT | Ditching the Doc: Why Wikis are the Future of Knowledge Management | Vicente Aceituno Canal | [Read More](https://medium.com/p/1c9caee4da7e) |
-| Thu, 12 Mar 2026 13:02:01 GMT | The Skeleton Key Problem: Why AI Agents are the New Zero-Day Risk | Ashutosh | [Read More](https://medium.com/p/f64bae6bdc56) |
-| Thu, 12 Mar 2026 13:01:46 GMT | Standardizing Event Logs: An Introduction to Events Logging Markup Language (ELML) | Vicente Aceituno Canal | [Read More](https://medium.com/p/c159ad7cbd13) |
