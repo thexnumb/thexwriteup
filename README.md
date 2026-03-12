@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Mar 2026 05:29:03 GMT | Web Application Security: Hands-On Practice (Chapter 16 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/cfd461342af2) |
+| Thu, 12 Mar 2026 05:28:46 GMT | Identity Sprawl: The Hidden Risk in Modern Cloud Environments | Cybersphere Official | [Read More](https://medium.com/p/6433a75094fe) |
+| Thu, 12 Mar 2026 05:26:26 GMT | Stryker: Medical Device Giant is the Victim of Cyber Warefare | Travis Ray Caverhill | [Read More](https://medium.com/p/acd9c0c23549) |
+| Thu, 12 Mar 2026 05:24:12 GMT | APT40 and Australia: The Risk of a State-Backed Espionage to the Australian Government Sector | Zaatil Asmawi | [Read More](https://medium.com/p/cd2d87fe764a) |
+| Thu, 12 Mar 2026 05:20:18 GMT | Every Second a Cyber Attack Happens — But Who Stops Them? | SourceFul Space | [Read More](https://medium.com/p/8bf4f39d971f) |
+| Thu, 12 Mar 2026 05:18:51 GMT | How I Found Information Disclosure on a Non-Standard Port: The Story of Apache mod_status | Albertstive | [Read More](https://medium.com/p/29576a200eb2) |
+| Thu, 12 Mar 2026 05:17:22 GMT | LLMjacking — How AI API Key Theft Works and How to Prevent It | Kuboid Secure Layer | [Read More](https://medium.com/p/7128d53f3b81) |
+| Thu, 12 Mar 2026 05:11:10 GMT | Nothing Your Agent Reads Is Safe | Brandon Dennis | [Read More](https://medium.com/p/63bede0f5d66) |
+| Thu, 12 Mar 2026 05:01:15 GMT | [Kubernetes for Everyone] — Exploiting Grafana (CVE-2021-43798) To Gain SSH Access and Extract… | Bash Overflow | [Read More](https://medium.com/p/c3f02bb2ff8b) |
+| Thu, 12 Mar 2026 04:55:16 GMT | VulnHub: DC-9 CTF Walkthrough: How to get root from Privilege Escalation through Port Knocking… | Afnan Bin Abbas | [Read More](https://medium.com/p/d3c514be3ee3) |
+| Thu, 12 Mar 2026 04:49:10 GMT | Weekly Update: Certificate Transparency, DNS Enrichment, OSINT Toolkit, and a Real Map in Your PDF | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/9fa5adc48a98) |
+| Thu, 12 Mar 2026 04:41:26 GMT | Understanding AWS VPC | unica 02 | [Read More](https://medium.com/p/b9f2958252f0) |
+| Thu, 12 Mar 2026 04:40:06 GMT | Vulnerability Management vs Offensive Security: What’s the Difference and Which Path is Right for… | Abacusready | [Read More](https://medium.com/p/642fa0c605a9) |
+| Thu, 12 Mar 2026 04:24:45 GMT | A Banking Security Assessment Experience | lrenciuskf | [Read More](https://medium.com/p/0c08d2dd3b9e) |
 | Thu, 12 Mar 2026 04:12:37 GMT | Compliance Was Killing Startups. Then Two Founders Said “Enough.” | TEJAS | [Read More](https://medium.com/p/79932289dd17) |
 | Thu, 12 Mar 2026 04:04:28 GMT | Don’t Lose Everything: Why Cloud Backups Matter | Dhivanujan Nesiah | [Read More](https://medium.com/p/64a12a9981ba) |
 | Thu, 12 Mar 2026 04:01:26 GMT | Digital Forensics — TryHackMe Write-Up | PandaHax | [Read More](https://medium.com/p/d6a2c90ad4c0) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Mar 2026 19:33:15 GMT | Your CRM Might Be Leaking Client Data — A Hidden Risk Freelancers Ignore | Cyber Safety Zone | [Read More](https://medium.com/p/f43420976684) |
 | Wed, 11 Mar 2026 19:32:19 GMT | How Onion Search Engines Index Hidden Services on the Tor Network | Tor BBB | [Read More](https://medium.com/p/affeb653a443) |
 | Wed, 11 Mar 2026 19:31:01 GMT | 8,000 Victims, One Helpline: The Cyber Bullying Wave You Can’t Ignore | Lalit Tech Savvy | [Read More](https://medium.com/p/3c58eee752b4) |
-| Wed, 11 Mar 2026 19:28:34 GMT | The Rising Cyber Threats in the UAE: Why Businesses Must Act Now | oadtechnologies | [Read More](https://medium.com/p/502fc8bd3ceb) |
-| Wed, 11 Mar 2026 19:05:03 GMT | Proving Grounds — Hokkaido (OSCP Prep) | SilentExploit | [Read More](https://medium.com/p/7916d15393d5) |
-| Wed, 11 Mar 2026 18:58:42 GMT | PRODUCTION SYSTEMS PLAN FOR FAILURE. | NanoChain | [Read More](https://medium.com/p/cd60211fde98) |
-| Wed, 11 Mar 2026 18:57:07 GMT | My Learning Experience with Hacking, Virtual Machines, Linux, and Networking | Anna Joy | [Read More](https://medium.com/p/29e580d49296) |
-| Wed, 11 Mar 2026 18:56:00 GMT | EU GDPR — Article 33 (Notification of a Personal Data Breach to the Supervisory Authority) | MDM Team | [Read More](https://medium.com/p/3b3f3cf57749) |
-| Wed, 11 Mar 2026 18:53:25 GMT | From Recon to Jackpot: IDOR That Exposed Billing Data and CHAINED method. | El Professor Qais | [Read More](https://medium.com/p/5b1949f740eb) |
-| Wed, 11 Mar 2026 18:47:38 GMT | OpenAI Codex Security | SOCFortress | [Read More](https://medium.com/p/7896113ba110) |
-| Wed, 11 Mar 2026 18:47:12 GMT | Automating Active Directory Administration with PowerShell | Dre | [Read More](https://medium.com/p/afd332f4a045) |
-| Wed, 11 Mar 2026 18:46:03 GMT | Best Information Technology (NBA accredited) Private Colleges in Delhi NCR Greater Noida Ghaziabad | Scottrichmond | [Read More](https://medium.com/p/c690ff40de17) |
-| Wed, 11 Mar 2026 18:46:01 GMT | The Cost of Shame in Childhood | Paloma Perez Valdenegro | [Read More](https://medium.com/p/aabbd6f803bd) |
-| Wed, 11 Mar 2026 18:44:38 GMT | The Great Disinformation War: When Deception Becomes Cheaper Than Bullets | Ahmad Alghamrawi | [Read More](https://medium.com/p/46844bf43202) |
-| Wed, 11 Mar 2026 18:44:31 GMT | “Leveling Up: Building an Advanced Network Scanner in Python (2-in-1 Tool)” | Akhilswami | [Read More](https://medium.com/p/b8c5e8fea5ba) |
-| Wed, 11 Mar 2026 18:38:58 GMT | Cracking BRUTEit: The Danger of Unprotected Web Forms | Abhramaitra | [Read More](https://medium.com/p/15ea6601c0b7) |
-| Wed, 11 Mar 2026 18:30:02 GMT | Day 64 — Security Is Part of System Design, Not an Add-On | Ayla Devyani | [Read More](https://medium.com/p/2c773d7828ba) |
