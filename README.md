@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Mar 2026 22:25:53 GMT | Public and Private Keys: The Foundation of Secure Distributed Systems | Ediz NAJIM | [Read More](https://medium.com/p/4e27ab53c76e) |
+| Thu, 12 Mar 2026 22:21:12 GMT | Frontend Security Checklist for Production Websites | Lee | [Read More](https://medium.com/p/d5901e192b67) |
+| Thu, 12 Mar 2026 22:16:39 GMT | Exploiting a Kernel Read/Write Primitive using BYOVD | S12 - 0x12Dark Development | [Read More](https://medium.com/p/977d7b7dfc01) |
+| Thu, 12 Mar 2026 22:13:37 GMT | Why Do Hackers Love WordPress — And What Can You Actually Do About It? | Black Sheep | [Read More](https://medium.com/p/6d907457cc0e) |
+| Thu, 12 Mar 2026 21:56:15 GMT | Certified Digital Forensic Specialist – Relationship Integrity Checks For Cheating Partners | Dmarketingchamp | [Read More](https://medium.com/p/b8d88f3f04ce) |
+| Thu, 12 Mar 2026 21:51:26 GMT | From Gateways to Gatekeepers: The Evolution of Web Browsers and the Rise of User-Controlled Privacy | Decentr | [Read More](https://medium.com/p/db96626bc48f) |
+| Thu, 12 Mar 2026 21:34:46 GMT | Is IT Enough? | Bryan Ruby | [Read More](https://medium.com/p/f25a2f01b5f6) |
+| Thu, 12 Mar 2026 21:32:27 GMT | Repetitions - PicoCTF | Naushad Alam | [Read More](https://medium.com/p/ab4c26e858de) |
+| Thu, 12 Mar 2026 21:31:29 GMT | Making a Kali Bootable USB Drive on Windows | Hassen Hannachi | [Read More](https://medium.com/p/6196a77e5578) |
+| Thu, 12 Mar 2026 21:31:00 GMT | Are Your Employees Reusing Passwords? That’s a Bigger Problem Than You Think | Janeel Abrahams | [Read More](https://medium.com/p/789478f77516) |
+| Thu, 12 Mar 2026 21:14:50 GMT | OverTheWire Bandit Walkthrough — Level 0 → 1 - 30-Day Cybersecurity Learning Journey (Day 1) | William | [Read More](https://medium.com/p/7ddbece7b705) |
 | Thu, 12 Mar 2026 21:11:30 GMT | Google’s Historic $32B Wiz Acquisition: A Big Bet on Cybersecurity in the AI Era | JEFF | [Read More](https://medium.com/p/c6af02488fc8) |
 | Thu, 12 Mar 2026 21:10:50 GMT | Threat Actors Claim 1PB Data Exfiltration in Breach of TELUS Digital | RealSec.io | [Read More](https://medium.com/p/93efd90f8ec1) |
 | Thu, 12 Mar 2026 21:02:50 GMT | Smart play apk | Smartplayapk | [Read More](https://medium.com/p/eccbf5d2b695) |
@@ -102,14 +113,3 @@ Part 1 | MRxO1 | [Read More](https://medium.com/p/95f21de9501c) |
 | Thu, 12 Mar 2026 16:32:13 GMT | SOC Analyst Guide: TTPs, IOCs, MITRE ATT&CK & Alert Handling | Mr Sumit Pal | [Read More](https://medium.com/p/7674ef4d1024) |
 | Thu, 12 Mar 2026 16:30:32 GMT | I Just Got Scammed Online — What Should I Do Next? | Decode Help | [Read More](https://medium.com/p/8d7feeddffc1) |
 | Thu, 12 Mar 2026 16:26:33 GMT | The Dark Side of AI: 5 Ways to Protect Yourself from Deepfake Scams in 2026 | LaLiSa | [Read More](https://medium.com/p/ca8e6ccf976a) |
-| Thu, 12 Mar 2026 16:21:50 GMT | The Silent Saboteur: Understanding AI Alignment Faking | Alessandro Pignati | [Read More](https://medium.com/p/48e9aacd75d3) |
-| Thu, 12 Mar 2026 16:15:47 GMT | The Endpoint Is Where Data Really Leaks | Kz Yiyip | [Read More](https://medium.com/p/87a1f26ebe1e) |
-| Thu, 12 Mar 2026 16:05:08 GMT | Reverse Engineering Doesn’t Have to Be Scary | Aastha Thakker | [Read More](https://medium.com/p/2998eb10760c) |
-| Thu, 12 Mar 2026 16:01:02 GMT | What Is a Dependency Vulnerability in GitHub? | Saeid Rezaeisadrabadi | [Read More](https://medium.com/p/7b9e52548fe4) |
-| Thu, 12 Mar 2026 15:55:17 GMT | A Beginner-Friendly Guide to Penetration Testing: Methodology, Scope, Reconnaissance, and Tools | GorkhaliYash | [Read More](https://medium.com/p/ea97c39148d5) |
-| Thu, 12 Mar 2026 15:49:56 GMT | Shield My Eyes from the Shield of the Americas | Ross Knutson | [Read More](https://medium.com/p/eedfbc49dc4c) |
-| Thu, 12 Mar 2026 15:24:51 GMT | Kerberoasted My Own Active Directory Lab — A Beginner’s perspective. | Nitunga Baptiste Billy | [Read More](https://medium.com/p/6f258edb5c35) |
-| Thu, 12 Mar 2026 15:18:46 GMT | Digital vs. Dial: Which Safe Locking Mechanism Is Actually More Secure in 2026? | Eldrin Josh Pineda | [Read More](https://medium.com/p/8065d12230b0) |
-| Thu, 12 Mar 2026 15:15:21 GMT | Staying ready: Why refresher training matters in Yemen’s evolving minefields | Project Masam | [Read More](https://medium.com/p/5d7611492c33) |
-| Thu, 12 Mar 2026 15:12:45 GMT | Cyber Risk and Corporate Valuation: Why EBITDA Is the Metric Boards Are Missing | ᴅᴀɴ ᴋᴏʀᴏᴠᴛᴄʜ | [Read More](https://medium.com/p/96dd81a43fd4) |
-| Thu, 12 Mar 2026 15:12:22 GMT | Is Your SDK Snitching? The Python Security Hole You’re Probably Ignoring | Maikel Mardjan | [Read More](https://medium.com/p/cf3135ddce4b) |
