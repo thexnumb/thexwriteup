@@ -12,8 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Mar 2026 10:30:39 GMT | Securing Web Applications in Azure Using Application Gateway and WAF (Hands-on Lab) | Amal Udayanga Basnayake | [Read More](https://medium.com/p/2f6cec2313e0) |
+| Thu, 12 Mar 2026 10:29:26 GMT | Three Goals of Cybersecurity: Understanding the CIA Triad | Varsha | [Read More](https://medium.com/p/406cdedd19fb) |
+| Thu, 12 Mar 2026 10:27:55 GMT | 10 Security Headers Every Developer Should Know | John Hawkins | [Read More](https://medium.com/p/0d20d8894686) |
+| Thu, 12 Mar 2026 10:25:59 GMT | Nmap: The Swiss Army Knife of Network Scanning | Gizem Şangür | [Read More](https://medium.com/p/94444dbd7d58) |
+| Thu, 12 Mar 2026 10:21:01 GMT | The Death of Middlemen: Why Automated Escrow is Taking Over in 2026 | Red Writer | [Read More](https://medium.com/p/44151624fac9) |
+| Thu, 12 Mar 2026 10:20:28 GMT | Fundamentals of Machine Learning and Artificial Intelligence | Manisha Chaudhary | [Read More](https://medium.com/p/96ad6495eb0a) |
+| Thu, 12 Mar 2026 10:20:00 GMT | HIPAA Security Rule Updates 2026: What Healthcare Organizations Should Prepare For | Conference Panel | [Read More](https://medium.com/p/a3844e8319b4) |
+| Thu, 12 Mar 2026 10:16:01 GMT | The Stryker Cyberattack: A Warning Shot in the Age of Digital Warfare | Rick Gregson | [Read More](https://medium.com/p/3a87ea61041b) |
+| Thu, 12 Mar 2026 10:12:45 GMT | Best Managed Cybersecurity Services in India - Threat Protection | Gowthammathiew | [Read More](https://medium.com/p/1a76eec8961c) |
+| Thu, 12 Mar 2026 10:07:27 GMT | Building a 100% Passwordless Future: Passkeys in Symfony 7.4 | Matt Mochalkin | [Read More](https://medium.com/p/6677948e175f) |
+| Thu, 12 Mar 2026 10:02:13 GMT | Telly Sherlock: Unraveling DFIR Mysteries in a Managed Security Service Provider Environment | Misbah Ur Rehman | [Read More](https://medium.com/p/57d022ffa62c) |
+| Thu, 12 Mar 2026 09:55:19 GMT | FishCode: Phishing for DeviceCode in Lake Tenant | Mr. Robot.txt | [Read More](https://medium.com/p/d72a297ebf5e) |
+| Thu, 12 Mar 2026 09:53:13 GMT | Hacker kimdir? Red Team, Blue Team və Cyber Security Dünyasının Görünməyən Tərəfi ‍ | cybershieldy.com | [Read More](https://medium.com/p/4f4b5b565f9a) |
+| Thu, 12 Mar 2026 09:49:07 GMT | What Is Business IT Support and Why Is It Important? | Rx Technology | [Read More](https://medium.com/p/633aeda7df38) |
+| Thu, 12 Mar 2026 09:48:59 GMT | Strengthening Field Operations with Advanced Military Mobile Command Centers | Olivia Williams | [Read More](https://medium.com/p/38583a781dd9) |
 | Thu, 12 Mar 2026 09:46:20 GMT | OWASP for AI Models: Securing the Brain of Modern Applications | Dhanush | [Read More](https://medium.com/p/3f4cab12220f) |
 | Thu, 12 Mar 2026 09:45:31 GMT | Hackers Love Untrained Users — Don’t Be One | Redfox Security | [Read More](https://medium.com/p/ecbd87d84b1b) |
+| Thu, 12 Mar 2026 09:38:51 GMT | Day 22 :I Asked the Server to Ping, Then Gave It Another Order | Issan | [Read More](https://medium.com/p/d211fb7ef934) |
 | Thu, 12 Mar 2026 09:27:24 GMT | I Asked the Server to Ping It Told Me Who It Was | Issan | [Read More](https://medium.com/p/44bcb45419ee) |
 | Thu, 12 Mar 2026 09:26:59 GMT | Malicious Crypto Mining Setup on Jenkins Server | Abdullah Khalid | [Read More](https://medium.com/p/d886818b0bcb) |
 | Thu, 12 Mar 2026 09:21:34 GMT | CVE-2026–20127 | lukewago | [Read More](https://medium.com/p/6174233906c2) |
@@ -97,19 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Mar 2026 04:04:28 GMT | Don’t Lose Everything: Why Cloud Backups Matter | Dhivanujan Nesiah | [Read More](https://medium.com/p/64a12a9981ba) |
 | Thu, 12 Mar 2026 04:01:26 GMT | Digital Forensics — TryHackMe Write-Up | PandaHax | [Read More](https://medium.com/p/d6a2c90ad4c0) |
 | Thu, 12 Mar 2026 04:01:16 GMT | Why Modern High Schools Are Starting to Focus on Cyber Security | Joko Sampurno | [Read More](https://medium.com/p/ace053b0e926) |
-| Thu, 12 Mar 2026 03:51:41 GMT | Top AI Trends Shaping Tech in 2026 | Ai Life Hacks | [Read More](https://medium.com/p/f39e1497d32d) |
-| Thu, 12 Mar 2026 03:41:46 GMT | Learning Fortinet Firewall — LESSON 6: UTurn NAT / Hairpin NAT | Rouell Mamaril | [Read More](https://medium.com/p/c9c2191221f5) |
-| Thu, 12 Mar 2026 03:31:00 GMT | Is Coding the Key to Cybersecurity? | Ishant Gupta | [Read More](https://medium.com/p/c261fdb0b23f) |
-| Thu, 12 Mar 2026 03:28:13 GMT | Writeup CTF Anonymous Tryhackme | Nanoxsec | [Read More](https://medium.com/p/6f0da82ae022) |
-| Thu, 12 Mar 2026 03:27:09 GMT | How to Become a SOC Analyst as a Fresher | Antonyrajvedamanickam | [Read More](https://medium.com/p/9a6c77addfc3) |
-| Thu, 12 Mar 2026 03:26:09 GMT | The Security Awakening: When AI Deployment Outpaced AI Defense | Baozilla, Let's go! | [Read More](https://medium.com/p/50aadfaef96e) |
-| Thu, 12 Mar 2026 03:16:18 GMT | Web Application Pentesting — Injectics CTF (TryHackMe) | Charlen | [Read More](https://medium.com/p/93e83c08712b) |
-| Thu, 12 Mar 2026 02:50:33 GMT | Wazuh and WAF Installation on Public VPS | dandapewe | [Read More](https://medium.com/p/cd91a490a5b2) |
-| Thu, 12 Mar 2026 02:48:16 GMT | Drone Technology and Wireless Security: The Overlooked Attack Surface | Michael Preston | [Read More](https://medium.com/p/e2005193cf14) |
-| Thu, 12 Mar 2026 02:45:30 GMT | Improper Access Control Leading to Administrative Privilege Escalation | Kiteegti | [Read More](https://medium.com/p/5ea8064008dc) |
-| Thu, 12 Mar 2026 02:41:31 GMT | Empire Breakout VM — Walkthrough Structure - Step-by-Step Penetration Testing Guide | Klsvppcspranjali | [Read More](https://medium.com/p/1678e2220ed2) |
-| Thu, 12 Mar 2026 02:37:37 GMT | The Hidden Cost of Cloud Office Convenience | Thinkfree | [Read More](https://medium.com/p/8938760821b7) |
-| Thu, 12 Mar 2026 02:37:36 GMT | The Sharpest Blade of Disarmament | Space Archivist | [Read More](https://medium.com/p/f2f48ae2330b) |
-| Thu, 12 Mar 2026 02:31:23 GMT | TryHackMe Walkthrough: Linux Fundamentals Part 2 | Shubham Khirwadkar | [Read More](https://medium.com/p/ca43b42f717a) |
-| Thu, 12 Mar 2026 02:15:53 GMT | AI Governance in 2026: Why Compliance is Becoming an Architectural Requirement for AI Systems | Sales | [Read More](https://medium.com/p/44f783e6be61) |
-| Thu, 12 Mar 2026 02:15:34 GMT | Top 10 AI Agent Security Risks Every Enterprise Must Address in 2026 | Sales | [Read More](https://medium.com/p/39a347cda58a) |
