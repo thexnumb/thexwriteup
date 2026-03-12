@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Mar 2026 04:12:37 GMT | Compliance Was Killing Startups. Then Two Founders Said “Enough.” | TEJAS | [Read More](https://medium.com/p/79932289dd17) |
+| Thu, 12 Mar 2026 04:04:28 GMT | Don’t Lose Everything: Why Cloud Backups Matter | Dhivanujan Nesiah | [Read More](https://medium.com/p/64a12a9981ba) |
+| Thu, 12 Mar 2026 04:01:26 GMT | Digital Forensics — TryHackMe Write-Up | PandaHax | [Read More](https://medium.com/p/d6a2c90ad4c0) |
+| Thu, 12 Mar 2026 04:01:16 GMT | Why Modern High Schools Are Starting to Focus on Cyber Security | Joko Sampurno | [Read More](https://medium.com/p/ace053b0e926) |
+| Thu, 12 Mar 2026 03:51:41 GMT | Top AI Trends Shaping Tech in 2026 | Ai Life Hacks | [Read More](https://medium.com/p/f39e1497d32d) |
+| Thu, 12 Mar 2026 03:41:46 GMT | Learning Fortinet Firewall — LESSON 6: UTurn NAT / Hairpin NAT | Rouell Mamaril | [Read More](https://medium.com/p/c9c2191221f5) |
+| Thu, 12 Mar 2026 03:31:00 GMT | Is Coding the Key to Cybersecurity? | Ishant Gupta | [Read More](https://medium.com/p/c261fdb0b23f) |
+| Thu, 12 Mar 2026 03:28:13 GMT | Writeup CTF Anonymous Tryhackme | Nanoxsec | [Read More](https://medium.com/p/6f0da82ae022) |
+| Thu, 12 Mar 2026 03:27:09 GMT | How to Become a SOC Analyst as a Fresher | Antonyrajvedamanickam | [Read More](https://medium.com/p/9a6c77addfc3) |
+| Thu, 12 Mar 2026 03:26:09 GMT | The Security Awakening: When AI Deployment Outpaced AI Defense | Baozilla, Let's go! | [Read More](https://medium.com/p/50aadfaef96e) |
+| Thu, 12 Mar 2026 03:16:18 GMT | Web Application Pentesting — Injectics CTF (TryHackMe) | Charlen | [Read More](https://medium.com/p/93e83c08712b) |
+| Thu, 12 Mar 2026 02:50:33 GMT | Wazuh and WAF Installation on Public VPS | dandapewe | [Read More](https://medium.com/p/cd91a490a5b2) |
+| Thu, 12 Mar 2026 02:48:16 GMT | Drone Technology and Wireless Security: The Overlooked Attack Surface | Michael Preston | [Read More](https://medium.com/p/e2005193cf14) |
+| Thu, 12 Mar 2026 02:45:30 GMT | Improper Access Control Leading to Administrative Privilege Escalation | Kiteegti | [Read More](https://medium.com/p/5ea8064008dc) |
+| Thu, 12 Mar 2026 02:41:31 GMT | Empire Breakout VM — Walkthrough Structure - Step-by-Step Penetration Testing Guide | Klsvppcspranjali | [Read More](https://medium.com/p/1678e2220ed2) |
+| Thu, 12 Mar 2026 02:37:37 GMT | The Hidden Cost of Cloud Office Convenience | Thinkfree | [Read More](https://medium.com/p/8938760821b7) |
+| Thu, 12 Mar 2026 02:37:36 GMT | The Sharpest Blade of Disarmament | Space Archivist | [Read More](https://medium.com/p/f2f48ae2330b) |
+| Thu, 12 Mar 2026 02:31:23 GMT | TryHackMe Walkthrough: Linux Fundamentals Part 2 | Shubham Khirwadkar | [Read More](https://medium.com/p/ca43b42f717a) |
 | Thu, 12 Mar 2026 02:15:53 GMT | AI Governance in 2026: Why Compliance is Becoming an Architectural Requirement for AI Systems | Sales | [Read More](https://medium.com/p/44f783e6be61) |
 | Thu, 12 Mar 2026 02:15:34 GMT | Top 10 AI Agent Security Risks Every Enterprise Must Address in 2026 | Sales | [Read More](https://medium.com/p/39a347cda58a) |
 | Thu, 12 Mar 2026 02:03:19 GMT | VulNyx — School Writeup | _ATROX_ | [Read More](https://medium.com/p/6b72d0f92fbc) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Mar 2026 18:44:31 GMT | “Leveling Up: Building an Advanced Network Scanner in Python (2-in-1 Tool)” | Akhilswami | [Read More](https://medium.com/p/b8c5e8fea5ba) |
 | Wed, 11 Mar 2026 18:38:58 GMT | Cracking BRUTEit: The Danger of Unprotected Web Forms | Abhramaitra | [Read More](https://medium.com/p/15ea6601c0b7) |
 | Wed, 11 Mar 2026 18:30:02 GMT | Day 64 — Security Is Part of System Design, Not an Add-On | Ayla Devyani | [Read More](https://medium.com/p/2c773d7828ba) |
-| Wed, 11 Mar 2026 18:27:40 GMT | 0x0d9, Yieldbox, and Holdstation Exploits: $10.64M | Olympix | [Read More](https://medium.com/p/77734befd196) |
-| Wed, 11 Mar 2026 18:25:42 GMT | Root-Me Challenge — Deleted File Forensics Write-up | Phornphatsorn Chitladaphorn | [Read More](https://medium.com/p/33891bf7521a) |
-| Wed, 11 Mar 2026 18:24:40 GMT | How to Stream Azure DevOps Audit Logs into Microsoft Sentinel | Ademola buraimoh | [Read More](https://medium.com/p/59698412762e) |
-| Wed, 11 Mar 2026 18:20:18 GMT | Building My Cybersecurity Home Lab (Part 2): Setting Up a Windows 10 Virtual Machine In VirtualBox | Raymond Ebonine | [Read More](https://medium.com/p/97eb2a43666b) |
-| Wed, 11 Mar 2026 18:19:53 GMT | The New Power Game in the Persian Gulf and What It Means for India | Libin T Kurian | [Read More](https://medium.com/p/cfb61bbb16d3) |
-| Wed, 11 Mar 2026 18:16:55 GMT | Microsoft Defender Experts for XDR | Mechanics Team | [Read More](https://medium.com/p/74356a7480f2) |
-| Wed, 11 Mar 2026 18:05:53 GMT | Mapping the Attackers Before Mapping the Application | Iski | [Read More](https://medium.com/p/af002d1d396b) |
-| Wed, 11 Mar 2026 18:05:52 GMT | Security Alert: Protect Yourself from PYRAX Impersonation Scams | PYRAX Network | [Read More](https://medium.com/p/291031bc9b42) |
-| Wed, 11 Mar 2026 17:57:24 GMT | OWASP Top 10 in VAPT: The Most Critical Web Security Risks Every Business Should Know | Digital Defense | [Read More](https://medium.com/p/f6d3570c6b50) |
-| Wed, 11 Mar 2026 17:57:14 GMT | Broken Access Control — When the System Lets You Walk Into Rooms You Were Never Supposed to Enter | Rufus Kehinde | [Read More](https://medium.com/p/fc2f307a9728) |
-| Wed, 11 Mar 2026 17:53:03 GMT | “Building a Custom Wordlist Generator in Python for Brute Force Attacks | Akhilswami | [Read More](https://medium.com/p/5da56ffa8af9) |
-| Wed, 11 Mar 2026 17:51:31 GMT | ISO 27001 is not complex. Humans made it complex | Gaurav Shukla | [Read More](https://medium.com/p/bb8bc0bc416f) |
-| Wed, 11 Mar 2026 17:50:29 GMT | DevSecOps Toolchain Explained: SAST, DAST, SCA and Container Security | Alfatah Jalalludin | [Read More](https://medium.com/p/6e00d9bd7025) |
-| Wed, 11 Mar 2026 17:49:22 GMT | I Asked an AI Assistant a Few Questions… and It Turned Into a $100 Bug Bounty | @Sauravkrish | [Read More](https://medium.com/p/de98936ac03a) |
-| Wed, 11 Mar 2026 17:47:31 GMT | From JavaScript Recon to Account Takeover: Finding a Hidden Endpoint | ophacks | [Read More](https://medium.com/p/fff8d7044e67) |
-| Wed, 11 Mar 2026 17:42:04 GMT | Microsoft Patch Tuesday (March 2026): 84 Security Vulnerabilities Fixed | Dibya ranjan mohanty | [Read More](https://medium.com/p/a169b16295cb) |
-| Wed, 11 Mar 2026 17:41:00 GMT | URANIUM CTF- TRY HACK ME- ROOM | 5kullk3r | [Read More](https://medium.com/p/6ece8ce321e4) |
-| Wed, 11 Mar 2026 17:40:00 GMT | Stop Sharing Too Much: The Power of Splitting Your PDF Files | Serhii Kuchma | [Read More](https://medium.com/p/a955bd66f706) |
