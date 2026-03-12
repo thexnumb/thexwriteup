@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Mar 2026 11:31:49 GMT | Filsafe Enterprises: Trusted Security Solutions in Pampanga Since 2015 | Keyshrimp | [Read More](https://medium.com/p/237d53ae900f) |
+| Thu, 12 Mar 2026 11:25:19 GMT | Actor Resolver: วิธีจัดการ Identity ใน Laravel Workflow Engine | Thiti Apiwong | [Read More](https://medium.com/p/5b07533e2dff) |
+| Thu, 12 Mar 2026 11:22:38 GMT | You Don’t Have a Vulnerability Problem. You Have a Noise Problem. | Eldor Zufarov | [Read More](https://medium.com/p/aa9588e752b0) |
+| Thu, 12 Mar 2026 11:15:55 GMT | আপনার NID Card দিয়ে অন্য কেউ সিম চালাচ্ছে নাতো? | Md Mosiur Rahaman | [Read More](https://medium.com/p/2fca501c9b1a) |
+| Thu, 12 Mar 2026 11:14:32 GMT | Why Your Threat Intelligence Platform Is Giving You Data — Not Intelligence | Threat Landscape | [Read More](https://medium.com/p/f7ba89928f4c) |
+| Thu, 12 Mar 2026 11:11:10 GMT | Detecting AD Initial Access Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/1b7ee091e35b) |
+| Thu, 12 Mar 2026 11:10:25 GMT | Warranty Stickers Explained: 5 Legal Facts You Need to Know | Unicube | [Read More](https://medium.com/p/6d8c36389620) |
+| Thu, 12 Mar 2026 11:07:11 GMT | When Security Tools Are Turned Against Us: Cloudflare Anti Bot Features Exploited to Steal… | Jas | [Read More](https://medium.com/p/1cbe81540283) |
+| Thu, 12 Mar 2026 11:07:11 GMT | How I Passed the CEH Practical Certification: My Preparation, Tools & Real Exam Experience… | Rajarshi Sarkar | [Read More](https://medium.com/p/41556e6186ab) |
+| Thu, 12 Mar 2026 11:06:00 GMT | Your Next Breach Will Probably Start With Someone You Trust | Tyson Martin | [Read More](https://medium.com/p/af6d0a7beec4) |
+| Thu, 12 Mar 2026 11:04:49 GMT | AI Agents in FinTech: Transforming Financial Services with Intelligent Automation | Hitanshu | [Read More](https://medium.com/p/7395abd28a8c) |
+| Thu, 12 Mar 2026 11:04:28 GMT | Uncovering Hidden Attack Surfaces in JavaScript with ScriptRecon | Harsha Vardhan | [Read More](https://medium.com/p/04cf379bdf66) |
+| Thu, 12 Mar 2026 11:02:31 GMT | Analyzing a PowerShell Clipboard Hijacking Malware: | Md Fahim Al Shihab | [Read More](https://medium.com/p/dc82f32c4c96) |
+| Thu, 12 Mar 2026 11:01:01 GMT | Writeup for picoCTF challenge “head-dump” | Walter Moar | [Read More](https://medium.com/p/87d2af858f43) |
+| Thu, 12 Mar 2026 10:55:48 GMT | The Illusion of the Green Checkmark: Why Your Antivirus is Not Enough | Anna Bejan | [Read More](https://medium.com/p/4551bc76a530) |
+| Thu, 12 Mar 2026 10:50:12 GMT | How Much Do Security Guard Services Cost? (Complete Pricing Guide) | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/45109c9426d8) |
+| Thu, 12 Mar 2026 10:44:07 GMT | SSH Server: The Quiet Backbone of Secure Remote Access | Little_Sun4lower | [Read More](https://medium.com/p/0f38e7030aee) |
+| Thu, 12 Mar 2026 10:41:09 GMT | This Was Never About Security vs. Compliance | Peter Hillier/Halton | [Read More](https://medium.com/p/69d6c16d3d38) |
+| Thu, 12 Mar 2026 10:41:00 GMT | File Upload Vulnerabilities: Tricks, Attacks, and How to Harden Your Uploads | Very Lazy Tech | [Read More](https://medium.com/p/7862eba3c549) |
+| Thu, 12 Mar 2026 10:36:39 GMT | ClawHub Top 100 Skills Security Scan — In-Depth Analysis Report | GoPlus Security | [Read More](https://medium.com/p/ac47f7ef6f3d) |
 | Thu, 12 Mar 2026 10:30:39 GMT | Securing Web Applications in Azure Using Application Gateway and WAF (Hands-on Lab) | Amal Udayanga Basnayake | [Read More](https://medium.com/p/2f6cec2313e0) |
 | Thu, 12 Mar 2026 10:29:26 GMT | Three Goals of Cybersecurity: Understanding the CIA Triad | Varsha | [Read More](https://medium.com/p/406cdedd19fb) |
 | Thu, 12 Mar 2026 10:27:55 GMT | 10 Security Headers Every Developer Should Know | John Hawkins | [Read More](https://medium.com/p/0d20d8894686) |
@@ -93,23 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Mar 2026 05:38:18 GMT | MSFVenom — The Ultimate Payload Generator for Security Testing | ghostyjoe | [Read More](https://medium.com/p/8ed44985cf37) |
 | Thu, 12 Mar 2026 05:36:55 GMT | Deception Technology as the Ultimate High-Fidelity Signal | Cynox Security LLP. | [Read More](https://medium.com/p/76f02df943b8) |
 | Thu, 12 Mar 2026 05:34:52 GMT | Artificial Intelligence Meets Outdated Intelligence | Kit Baroness | [Read More](https://medium.com/p/00fc4f92732b) |
-| Thu, 12 Mar 2026 05:29:03 GMT | Web Application Security: Hands-On Practice (Chapter 16 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/cfd461342af2) |
-| Thu, 12 Mar 2026 05:28:46 GMT | Identity Sprawl: The Hidden Risk in Modern Cloud Environments | Cybersphere Official | [Read More](https://medium.com/p/6433a75094fe) |
-| Thu, 12 Mar 2026 05:26:26 GMT | Stryker: Medical Device Giant is the Victim of Cyber Warefare | Travis Ray Caverhill | [Read More](https://medium.com/p/acd9c0c23549) |
-| Thu, 12 Mar 2026 05:24:12 GMT | APT40 and Australia: The Risk of a State-Backed Espionage to the Australian Government Sector | Zaatil Asmawi | [Read More](https://medium.com/p/cd2d87fe764a) |
-| Thu, 12 Mar 2026 05:20:18 GMT | Every Second a Cyber Attack Happens — But Who Stops Them? | SourceFul Space | [Read More](https://medium.com/p/8bf4f39d971f) |
-| Thu, 12 Mar 2026 05:18:51 GMT | How I Found Information Disclosure on a Non-Standard Port: The Story of Apache mod_status | Albertstive | [Read More](https://medium.com/p/29576a200eb2) |
-| Thu, 12 Mar 2026 05:17:22 GMT | LLMjacking — How AI API Key Theft Works and How to Prevent It | Kuboid Secure Layer | [Read More](https://medium.com/p/7128d53f3b81) |
-| Thu, 12 Mar 2026 05:11:10 GMT | Nothing Your Agent Reads Is Safe | Brandon Dennis | [Read More](https://medium.com/p/63bede0f5d66) |
-| Thu, 12 Mar 2026 05:01:15 GMT | [Kubernetes for Everyone] — Exploiting Grafana (CVE-2021-43798) To Gain SSH Access and Extract… | Bash Overflow | [Read More](https://medium.com/p/c3f02bb2ff8b) |
-| Thu, 12 Mar 2026 04:55:16 GMT | VulnHub: DC-9 CTF Walkthrough: How to get root from Privilege Escalation through Port Knocking… | Afnan Bin Abbas | [Read More](https://medium.com/p/d3c514be3ee3) |
-| Thu, 12 Mar 2026 04:49:10 GMT | Weekly Update: Certificate Transparency, DNS Enrichment, OSINT Toolkit, and a Real Map in Your PDF | Sigmund Brandstaetter CISSP, CCSP, CISM, OSCP, CEH | [Read More](https://medium.com/p/9fa5adc48a98) |
-| Thu, 12 Mar 2026 04:41:26 GMT | Understanding AWS VPC | unica 02 | [Read More](https://medium.com/p/b9f2958252f0) |
-| Thu, 12 Mar 2026 04:40:06 GMT | Vulnerability Management vs Offensive Security: What’s the Difference and Which Path is Right for… | Abacusready | [Read More](https://medium.com/p/642fa0c605a9) |
-| Thu, 12 Mar 2026 04:24:45 GMT | A Banking Security Assessment Experience | lrenciuskf | [Read More](https://medium.com/p/0c08d2dd3b9e) |
-| Thu, 12 Mar 2026 04:23:42 GMT | OWASP Top 10 Explained Simply — With Real Examples | Kuboid Secure Layer | [Read More](https://medium.com/p/d39136773bc9) |
-| Thu, 12 Mar 2026 04:12:54 GMT | Био-флэшка | Chernousov Anton | [Read More](https://medium.com/p/cc64cc6f998b) |
-| Thu, 12 Mar 2026 04:12:37 GMT | Compliance Was Killing Startups. Then Two Founders Said “Enough.” | TEJAS | [Read More](https://medium.com/p/79932289dd17) |
-| Thu, 12 Mar 2026 04:04:28 GMT | Don’t Lose Everything: Why Cloud Backups Matter | Dhivanujan Nesiah | [Read More](https://medium.com/p/64a12a9981ba) |
-| Thu, 12 Mar 2026 04:01:26 GMT | Digital Forensics — TryHackMe Write-Up | PandaHax | [Read More](https://medium.com/p/d6a2c90ad4c0) |
-| Thu, 12 Mar 2026 04:01:16 GMT | Why Modern High Schools Are Starting to Focus on Cyber Security | Joko Sampurno | [Read More](https://medium.com/p/ace053b0e926) |
