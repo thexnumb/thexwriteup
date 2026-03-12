@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Mar 2026 21:11:30 GMT | Google’s Historic $32B Wiz Acquisition: A Big Bet on Cybersecurity in the AI Era | JEFF | [Read More](https://medium.com/p/c6af02488fc8) |
+| Thu, 12 Mar 2026 21:10:50 GMT | Threat Actors Claim 1PB Data Exfiltration in Breach of TELUS Digital | RealSec.io | [Read More](https://medium.com/p/93efd90f8ec1) |
+| Thu, 12 Mar 2026 21:02:50 GMT | Smart play apk | Smartplayapk | [Read More](https://medium.com/p/eccbf5d2b695) |
+| Thu, 12 Mar 2026 21:01:00 GMT | Centralized PAT Issuance in Snowflake (for Cortex REST API) | Chris Cardillo | [Read More](https://medium.com/p/eabf0db588eb) |
+| Thu, 12 Mar 2026 21:01:00 GMT | Unfiltered Restart — Day 24: Side Questing, Revit | Maximillian Rueda | [Read More](https://medium.com/p/565b1f5da5c6) |
+| Thu, 12 Mar 2026 21:00:58 GMT | When Old Tricks Get a New Language: What VENON Taught Me About Banking Malware | Oluwatosin Ogunjimi | [Read More](https://medium.com/p/c0125af012e9) |
+| Thu, 12 Mar 2026 21:00:30 GMT | The Secure Collaboration Stack for Modern NGOs: Why Encryption, AI Security, and Blockchain Matter… | Heliusnetwork | [Read More](https://medium.com/p/2b63e0ddba2e) |
+| Thu, 12 Mar 2026 20:57:39 GMT | AI Security Wake‑Up Call: How AI Phishing and AI Malware Are Rewriting Cyber Risk for Today’s… | Roger Millar | [Read More](https://medium.com/p/43f7c7ab3f9d) |
+| Thu, 12 Mar 2026 20:50:39 GMT | Zombie ZIP — (CVE-2026–0866) - Proof of Concept | s4mb4sh | [Read More](https://medium.com/p/e5df4b6b6791) |
+| Thu, 12 Mar 2026 20:47:42 GMT | A Printer Took Down an Entire Business in 72 Hours — The 2026 Cyberattack No One Saw Coming | Noel | [Read More](https://medium.com/p/4800cbb2a53a) |
+| Thu, 12 Mar 2026 20:47:03 GMT | Fiverr Freelancers Scam Alert ❗ — How I Almost Fell for a Phishing Attack | HusnaAnjum | [Read More](https://medium.com/p/8e5943c34a5e) |
+| Thu, 12 Mar 2026 20:45:49 GMT | Cybersecurity Tips for Personal Data Protection: Keep Your Info Safe | cyber tech | [Read More](https://medium.com/p/168c4f049702) |
+| Thu, 12 Mar 2026 20:41:43 GMT | Security Practicals: Complete Walkthrough | Hithaishi S P | [Read More](https://medium.com/p/7dde53c961ae) |
+| Thu, 12 Mar 2026 20:40:08 GMT | Bypassing AMSI | z3l3v | [Read More](https://medium.com/p/5b22e9ab1a9e) |
 | Thu, 12 Mar 2026 20:35:58 GMT | Down the rabbit hole: what’s actually worth learning in offensive security right now | h@shtalk | [Read More](https://medium.com/p/185fdc9f674f) |
 | Thu, 12 Mar 2026 20:35:06 GMT | How I Passed the eJPT Exam With 97% — My Strategy and Practical Tips | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/b83b0d5fa32d) |
 | Thu, 12 Mar 2026 20:33:01 GMT | SOC from Scratch #6 — Understanding Alerts, Incidents, and Escalation | Shane Samuel | [Read More](https://medium.com/p/11f58b798d75) |
@@ -99,17 +113,3 @@ Part 1 | MRxO1 | [Read More](https://medium.com/p/95f21de9501c) |
 | Thu, 12 Mar 2026 15:15:21 GMT | Staying ready: Why refresher training matters in Yemen’s evolving minefields | Project Masam | [Read More](https://medium.com/p/5d7611492c33) |
 | Thu, 12 Mar 2026 15:12:45 GMT | Cyber Risk and Corporate Valuation: Why EBITDA Is the Metric Boards Are Missing | ᴅᴀɴ ᴋᴏʀᴏᴠᴛᴄʜ | [Read More](https://medium.com/p/96dd81a43fd4) |
 | Thu, 12 Mar 2026 15:12:22 GMT | Is Your SDK Snitching? The Python Security Hole You’re Probably Ignoring | Maikel Mardjan | [Read More](https://medium.com/p/cf3135ddce4b) |
-| Thu, 12 Mar 2026 15:11:07 GMT | Architecting an End-to-End CI/CD Pipeline Using GitLab, Docker, and Kubernetes for a React… | Yashelke | [Read More](https://medium.com/p/32c3ae5e1729) |
-| Thu, 12 Mar 2026 15:10:09 GMT | Before my system was officially issued, I had already started laying the foundation for my journey… | Adeleke Theophilus O | [Read More](https://medium.com/p/c62a611c1c9e) |
-| Thu, 12 Mar 2026 15:09:32 GMT | Avi Itzkovich: How Modern Software Architecture Prevents Corporate Fraud and B2B Scams | Avi Itzkovich | [Read More](https://medium.com/p/47fb84efb2a9) |
-| Thu, 12 Mar 2026 15:03:22 GMT | CyberArena: CyberUP Institute’s immersive platform for realistic cyber-attack simulations | CYBERUP INSTITUTE | [Read More](https://medium.com/p/c9ef52c7f4ee) |
-| Thu, 12 Mar 2026 15:02:24 GMT | Using Claude Opus 4.6 for Codebase Vulnerability Discovery | Asjad Butt | [Read More](https://medium.com/p/e9fee98fc6d3) |
-| Thu, 12 Mar 2026 14:58:58 GMT | Discussing the OSI Model: My Learning History as a Networking Student. | Ehabashraf | [Read More](https://medium.com/p/5cba68831db9) |
-| Thu, 12 Mar 2026 14:55:05 GMT | 5 Practical Projects to Prove You Understand AI Governance (2026 Edition) | Taimur Ijlal | [Read More](https://medium.com/p/405850e75ea7) |
-| Thu, 12 Mar 2026 14:54:28 GMT | How Data Breaches Quietly Erode Company Valuation | Digital Defense | [Read More](https://medium.com/p/a1a58d0d3f42) |
-| Thu, 12 Mar 2026 14:52:54 GMT | Vulnyx Ready Walkthrough — Exploiting Redis Misconfiguration to Achieve Root Access | SWALE | [Read More](https://medium.com/p/49fcea0673dd) |
-| Thu, 12 Mar 2026 14:52:45 GMT | The Tehran Eclipse: Why 2026 is the Year the World Broke. | LOLLO_NIGHT | [Read More](https://medium.com/p/a670b85a952c) |
-| Thu, 12 Mar 2026 14:46:31 GMT | The Hidden Backdoor in Every Linux Machine You’ve Never Locked | dasunNimantha | [Read More](https://medium.com/p/f2a7b3a770c7) |
-| Thu, 12 Mar 2026 14:46:00 GMT | [FORECAST UPDATED] After LockBit and BlackCat, Is Cl0p Really Next in Line? | Wes Young | [Read More](https://medium.com/p/94c74c2b8e47) |
-| Thu, 12 Mar 2026 14:42:56 GMT | The bug report that took four days to fix | Ali El-Shayeb | [Read More](https://medium.com/p/30ce088531c3) |
-| Thu, 12 Mar 2026 14:34:34 GMT | AI Security Without Compliance Controls Is a Risk Multiplier | Scottcmcmahan | [Read More](https://medium.com/p/630595c935c5) |
