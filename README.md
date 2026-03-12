@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Mar 2026 15:24:51 GMT | Kerberoasted My Own Active Directory Lab — A Beginner’s perspective. | Nitunga Baptiste Billy | [Read More](https://medium.com/p/6f258edb5c35) |
+| Thu, 12 Mar 2026 15:18:46 GMT | Digital vs. Dial: Which Safe Locking Mechanism Is Actually More Secure in 2026? | Eldrin Josh Pineda | [Read More](https://medium.com/p/8065d12230b0) |
+| Thu, 12 Mar 2026 15:15:21 GMT | Staying ready: Why refresher training matters in Yemen’s evolving minefields | Project Masam | [Read More](https://medium.com/p/5d7611492c33) |
+| Thu, 12 Mar 2026 15:12:45 GMT | Cyber Risk and Corporate Valuation: Why EBITDA Is the Metric Boards Are Missing | ᴅᴀɴ ᴋᴏʀᴏᴠᴛᴄʜ | [Read More](https://medium.com/p/96dd81a43fd4) |
+| Thu, 12 Mar 2026 15:12:22 GMT | Is Your SDK Snitching? The Python Security Hole You’re Probably Ignoring | Maikel Mardjan | [Read More](https://medium.com/p/cf3135ddce4b) |
+| Thu, 12 Mar 2026 15:11:07 GMT | Architecting an End-to-End CI/CD Pipeline Using GitLab, Docker, and Kubernetes for a React… | Yashelke | [Read More](https://medium.com/p/32c3ae5e1729) |
+| Thu, 12 Mar 2026 15:10:09 GMT | Before my system was officially issued, I had already started laying the foundation for my journey… | Adeleke Theophilus O | [Read More](https://medium.com/p/c62a611c1c9e) |
+| Thu, 12 Mar 2026 15:09:32 GMT | Avi Itzkovich: How Modern Software Architecture Prevents Corporate Fraud and B2B Scams | Avi Itzkovich | [Read More](https://medium.com/p/47fb84efb2a9) |
+| Thu, 12 Mar 2026 15:03:22 GMT | CyberArena: CyberUP Institute’s immersive platform for realistic cyber-attack simulations | CYBERUP INSTITUTE | [Read More](https://medium.com/p/c9ef52c7f4ee) |
+| Thu, 12 Mar 2026 15:02:24 GMT | Using Claude Opus 4.6 for Codebase Vulnerability Discovery | Asjad Butt | [Read More](https://medium.com/p/e9fee98fc6d3) |
+| Thu, 12 Mar 2026 14:58:58 GMT | Discussing the OSI Model: My Learning History as a Networking Student. | Ehabashraf | [Read More](https://medium.com/p/5cba68831db9) |
+| Thu, 12 Mar 2026 14:55:05 GMT | 5 Practical Projects to Prove You Understand AI Governance (2026 Edition) | Taimur Ijlal | [Read More](https://medium.com/p/405850e75ea7) |
+| Thu, 12 Mar 2026 14:54:28 GMT | How Data Breaches Quietly Erode Company Valuation | Digital Defense | [Read More](https://medium.com/p/a1a58d0d3f42) |
+| Thu, 12 Mar 2026 14:52:54 GMT | Vulnyx Ready Walkthrough — Exploiting Redis Misconfiguration to Achieve Root Access | SWALE | [Read More](https://medium.com/p/49fcea0673dd) |
+| Thu, 12 Mar 2026 14:52:45 GMT | The Tehran Eclipse: Why 2026 is the Year the World Broke. | LOLLO_NIGHT | [Read More](https://medium.com/p/a670b85a952c) |
+| Thu, 12 Mar 2026 14:46:31 GMT | The Hidden Backdoor in Every Linux Machine You’ve Never Locked | dasunNimantha | [Read More](https://medium.com/p/f2a7b3a770c7) |
+| Thu, 12 Mar 2026 14:46:00 GMT | [FORECAST UPDATED] After LockBit and BlackCat, Is Cl0p Really Next in Line? | Wes Young | [Read More](https://medium.com/p/94c74c2b8e47) |
+| Thu, 12 Mar 2026 14:42:56 GMT | The bug report that took four days to fix | Ali El-Shayeb | [Read More](https://medium.com/p/30ce088531c3) |
+| Thu, 12 Mar 2026 14:34:34 GMT | AI Security Without Compliance Controls Is a Risk Multiplier | Scottcmcmahan | [Read More](https://medium.com/p/630595c935c5) |
+| Thu, 12 Mar 2026 14:32:25 GMT | Beyond the Main Function: Static Malware Analysis on Automation | Mart Eugen Gevero | [Read More](https://medium.com/p/39442969286b) |
+| Thu, 12 Mar 2026 14:28:11 GMT | Your Browser Doesn’t Know Who Wrote the Code | Groovin' | [Read More](https://medium.com/p/9af31d9a11d6) |
+| Thu, 12 Mar 2026 14:27:52 GMT | Payment HSMs: Essential Tools for Financial Security | Futurex | [Read More](https://medium.com/p/ee173d1ee497) |
+| Thu, 12 Mar 2026 14:22:58 GMT | Your UI Grey-Out Is Not Security: The Backend Auth Problem Nobody Talks About | Abhishek Oraon | [Read More](https://medium.com/p/3290d452358a) |
 | Thu, 12 Mar 2026 14:18:27 GMT | Why Hospitals Are Not Ready for AI. The Hidden Cybersecurity and Patient Safety Crisis. | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/86d10741568d) |
 | Thu, 12 Mar 2026 14:14:29 GMT | 10 Most Common IT Problems | MedVoice Global | [Read More](https://medium.com/p/97f6155e383b) |
 | Thu, 12 Mar 2026 14:14:14 GMT | Passkeys vs Security Keys: Choosing the right phishing-resistant authentication in Azure | Lars Schouwenaars | [Read More](https://medium.com/p/f6810f9c4ea4) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Mar 2026 09:48:59 GMT | Strengthening Field Operations with Advanced Military Mobile Command Centers | Olivia Williams | [Read More](https://medium.com/p/38583a781dd9) |
 | Thu, 12 Mar 2026 09:46:20 GMT | OWASP for AI Models: Securing the Brain of Modern Applications | Dhanush | [Read More](https://medium.com/p/3f4cab12220f) |
 | Thu, 12 Mar 2026 09:45:31 GMT | Hackers Love Untrained Users — Don’t Be One | Redfox Security | [Read More](https://medium.com/p/ecbd87d84b1b) |
-| Thu, 12 Mar 2026 09:38:51 GMT | Day 22 :I Asked the Server to Ping, Then Gave It Another Order | Issan | [Read More](https://medium.com/p/d211fb7ef934) |
-| Thu, 12 Mar 2026 09:27:24 GMT | I Asked the Server to Ping It Told Me Who It Was | Issan | [Read More](https://medium.com/p/44bcb45419ee) |
-| Thu, 12 Mar 2026 09:26:59 GMT | Malicious Crypto Mining Setup on Jenkins Server | Abdullah Khalid | [Read More](https://medium.com/p/d886818b0bcb) |
-| Thu, 12 Mar 2026 09:21:34 GMT | CVE-2026–20127 | lukewago | [Read More](https://medium.com/p/6174233906c2) |
-| Thu, 12 Mar 2026 09:21:33 GMT | BreachBlocker Unlocker (THM) Tryhackme WriteUp Answer | Lawvye | [Read More](https://medium.com/p/d3f1f8db2322) |
-| Thu, 12 Mar 2026 09:07:43 GMT | SecureTCU project teaser | Beam Connectivity | [Read More](https://medium.com/p/c59a1aa812d5) |
-| Thu, 12 Mar 2026 09:05:29 GMT | ISC2 ISSAP Domain 1.1.2: Architecting for Governance, Risk, and Compliance (GRC) | InfosecTrain | [Read More](https://medium.com/p/e435506304fd) |
-| Thu, 12 Mar 2026 09:02:40 GMT | Rahul Had One Shot at a ₹8 Lakh Deal. | Nimit AI | [Read More](https://medium.com/p/e108be0cf44e) |
-| Thu, 12 Mar 2026 09:00:51 GMT | The Secret The Heart Emoji Couldn’t Hide | O. J. Okpabi | [Read More](https://medium.com/p/1178ee824c53) |
-| Thu, 12 Mar 2026 08:59:02 GMT | <MyNotes> Azure Access And Enumeration | byL0r3t | [Read More](https://medium.com/p/aa4699c76a9b) |
-| Thu, 12 Mar 2026 08:57:38 GMT | The End of the Phone Call: Why You Can’t Trust Voice Anymore | Thato Brander | [Read More](https://medium.com/p/d26ca1a3a26c) |
-| Thu, 12 Mar 2026 08:53:48 GMT | 10 Cybersecurity Tips Every Beginner Needs to Know | Francis Okwemba | [Read More](https://medium.com/p/8802293d64e5) |
-| Thu, 12 Mar 2026 08:33:41 GMT | How Deepfake Identity Theft is Draining Insurance Policies (And How to Stop It) | InsureYouKnow | [Read More](https://medium.com/p/e11017439ff1) |
-| Thu, 12 Mar 2026 08:30:32 GMT | Indirect Prompt Injection: The Silent Threat to Your LLM Applications | Alessandro Pignati | [Read More](https://medium.com/p/2e41317b2165) |
-| Thu, 12 Mar 2026 08:16:26 GMT | Identity Sprawl: The Hidden Risk in Modern Cloud Environments | Cybersphere Official | [Read More](https://medium.com/p/9075e505fb12) |
-| Thu, 12 Mar 2026 08:15:16 GMT | Write-Up: Attacktive Directory — TryHackMe | Aiko Devy Ratnasari | [Read More](https://medium.com/p/6d4ecbe3b064) |
-| Thu, 12 Mar 2026 08:07:46 GMT | JWT Vulnerabilities - When the Token Your App Trusts Becomes the Attacker’s Master Key | Rufus Kehinde | [Read More](https://medium.com/p/73adc8a527f0) |
-| Thu, 12 Mar 2026 08:04:31 GMT | How to Configure Microsoft Edge as Your Default Browser Using Intune | Brian Imbebi | [Read More](https://medium.com/p/0d40cf617738) |
-| Thu, 12 Mar 2026 08:01:02 GMT | Wiz Said No to $23 Billion. Google Came Back With $32 Billion. Here Is Why. | MayhemCode | [Read More](https://medium.com/p/d2008c1b6f76) |
-| Thu, 12 Mar 2026 08:00:46 GMT | How Simple Is the Antivirus Pro Installation Process? | Siyanoav | [Read More](https://medium.com/p/721a01dd0d68) |
-| Thu, 12 Mar 2026 08:00:32 GMT | [Dev Update] NODE: PROTOCOL | NODE: PROTOCOL | [Read More](https://medium.com/p/3f80d5c557fe) |
-| Thu, 12 Mar 2026 07:59:18 GMT | Configuration the WAN and LAN interfaces in pfSense | cyberwriter | [Read More](https://medium.com/p/83d440cc3d27) |
-| Thu, 12 Mar 2026 07:54:41 GMT | Quantum Cryptography:The Next Frontier Of Data Security | James | [Read More](https://medium.com/p/851f4d8c1d91) |
