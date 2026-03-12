@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Mar 2026 22:51:26 GMT | Payment Bypass That Let Me Get a Premium Course for $0 [Business Logic Flaw] P2 | El Professor Qais | [Read More](https://medium.com/p/71c554d9c274) |
+| Thu, 12 Mar 2026 22:50:57 GMT | Understanding and Demonstrating ARP Spoofing > A Comprehensive Guide | Huzaifah Tahir | [Read More](https://medium.com/p/6d74b05b0884) |
+| Thu, 12 Mar 2026 22:50:42 GMT | TryHackMe SOC Analyst Road Map Part-8 | safa kaya | [Read More](https://medium.com/p/390d71e93140) |
+| Thu, 12 Mar 2026 22:49:52 GMT | Curious Minds: The Grandmother Hack: How Words Can Break Any AI | Balajee Viswanatha Rao | [Read More](https://medium.com/p/a5fd4fe90920) |
+| Thu, 12 Mar 2026 22:44:49 GMT | How KYC/AML and Cybersecurity Obligations Differ Across Jurisdictions | Jemima Nanret Mwana | [Read More](https://medium.com/p/87b2fc98857f) |
+| Thu, 12 Mar 2026 22:34:53 GMT | Why I Stopped Ignoring Open Redirects (A Zero-Click ATO Story) | hotisha | [Read More](https://medium.com/p/babe76f3f1c5) |
+| Thu, 12 Mar 2026 22:34:20 GMT | Whatapp: : +1(616) 202–1156 100% LEGIT QUICK WESTERN UNI PAYPAL BANKS TRANSFER CC AND ATM CVV DUMPS… | Gonzalezalbert | [Read More](https://medium.com/p/e4e2c1cd6ed6) |
 | Thu, 12 Mar 2026 22:25:53 GMT | Public and Private Keys: The Foundation of Secure Distributed Systems | Ediz NAJIM | [Read More](https://medium.com/p/4e27ab53c76e) |
 | Thu, 12 Mar 2026 22:21:12 GMT | Frontend Security Checklist for Production Websites | Lee | [Read More](https://medium.com/p/d5901e192b67) |
 | Thu, 12 Mar 2026 22:16:39 GMT | Exploiting a Kernel Read/Write Primitive using BYOVD | S12 - 0x12Dark Development | [Read More](https://medium.com/p/977d7b7dfc01) |
@@ -85,6 +92,7 @@ Part 1 | MRxO1 | [Read More](https://medium.com/p/95f21de9501c) |
 | Thu, 12 Mar 2026 18:18:47 GMT | Exposed API Keys: How AI Tools Leak Your Secrets (And How to Lock Them Down) | SecureStartKit | [Read More](https://medium.com/p/8a201c3651da) |
 | Thu, 12 Mar 2026 18:13:35 GMT | Basic Active Directory Enumeration — TryHackMe Walkthrough | Abyan Zikra | [Read More](https://medium.com/p/90a09e694595) |
 | Thu, 12 Mar 2026 18:11:48 GMT | From Recon to Root: Mastering the DC-1 CTF Challenge | LostHeaven | [Read More](https://medium.com/p/b0df31db29b4) |
+| Thu, 12 Mar 2026 18:11:47 GMT | A Simple P4 Bug That Ended as Duplicate | BugWraith (Lokesh) | [Read More](https://medium.com/p/4cb0c4ca75b2) |
 | Thu, 12 Mar 2026 18:09:44 GMT | Crack the Hash — TryHackMe Room | Ahmed Eldkrory | [Read More](https://medium.com/p/15efde35f418) |
 | Thu, 12 Mar 2026 17:57:35 GMT | Proteção completa com WatchGuard | Allcomnet | [Read More](https://medium.com/p/9037bd766f8a) |
 | Thu, 12 Mar 2026 17:50:05 GMT | From DevOps to DevSecOps: Why Embedding Security in the Pipeline Is the Only Way to Survive 2026 | Arnav Pyrell | [Read More](https://medium.com/p/8bdced75661d) |
@@ -105,11 +113,3 @@ Part 1 | MRxO1 | [Read More](https://medium.com/p/95f21de9501c) |
 | Thu, 12 Mar 2026 17:02:25 GMT | Mastering the Basics: Onboarding Devices to Microsoft Defender for Endpoint | Julio Gonzalez | [Read More](https://medium.com/p/b5f1f6c64689) |
 | Thu, 12 Mar 2026 16:59:13 GMT | Managing BloodHound Custom Icons and Cypher Queries with HoundTrainer | Tom O'Neill | [Read More](https://medium.com/p/297834dad414) |
 | Thu, 12 Mar 2026 16:55:41 GMT | The Omni Guide to the Internet’s Skeleton: A Tour of the Infrastructure That Is, Technically, Fine | Omni Guide Research Team | [Read More](https://medium.com/p/71c5f2d4e0d1) |
-| Thu, 12 Mar 2026 16:47:04 GMT | Understanding the Evolution of Dark Web Search Engines | Tor BBB | [Read More](https://medium.com/p/dc58223d797b) |
-| Thu, 12 Mar 2026 16:45:55 GMT | MuddyWater’s New Playbook: Fresh Malware, Familiar Entry Points | Ilias Armenakis | [Read More](https://medium.com/p/16f4791baaf6) |
-| Thu, 12 Mar 2026 16:40:02 GMT | Zombie ZIP: The Malware That Refuses to Stay Dead | Travis Ray Caverhill | [Read More](https://medium.com/p/65c35200eaa7) |
-| Thu, 12 Mar 2026 16:38:51 GMT | Top 10 Signs Your Network Has Been Hacked (And What to Do Next) | Temma | [Read More](https://medium.com/p/7adca8e836ff) |
-| Thu, 12 Mar 2026 16:35:17 GMT | The Skills IT Companies Actually Want in 2026 | Story Crafter | [Read More](https://medium.com/p/a8b973986ae1) |
-| Thu, 12 Mar 2026 16:32:13 GMT | SOC Analyst Guide: TTPs, IOCs, MITRE ATT&CK & Alert Handling | Mr Sumit Pal | [Read More](https://medium.com/p/7674ef4d1024) |
-| Thu, 12 Mar 2026 16:30:32 GMT | I Just Got Scammed Online — What Should I Do Next? | Decode Help | [Read More](https://medium.com/p/8d7feeddffc1) |
-| Thu, 12 Mar 2026 16:26:33 GMT | The Dark Side of AI: 5 Ways to Protect Yourself from Deepfake Scams in 2026 | LaLiSa | [Read More](https://medium.com/p/ca8e6ccf976a) |
