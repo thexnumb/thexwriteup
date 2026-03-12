@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Mar 2026 06:42:18 GMT | Secure Solr admin interface on Tomcat | Qavi Tech | [Read More](https://medium.com/p/7c94dc1a09a7) |
+| Thu, 12 Mar 2026 06:42:17 GMT | Bandit Writeup Part 2: Mastery of the Command Line (Levels 12–22) | meganuke_ | [Read More](https://medium.com/p/0370b4849461) |
+| Thu, 12 Mar 2026 06:42:14 GMT | FunBox: Rookie — CTF Walkthrough - Beginner Friendly. | Gouriiih | [Read More](https://medium.com/p/5ee7e4961749) |
+| Thu, 12 Mar 2026 06:41:54 GMT | Simplifying tamper-evident applications by using ScalarDL HashStore and TableStore | Josh Wong | [Read More](https://medium.com/p/b6bdf0f60400) |
+| Thu, 12 Mar 2026 06:34:44 GMT | Pertama Kali Bikin Bug Report, Ternyata Ada Seninya | Isna Nur Amalia | [Read More](https://medium.com/p/74df32141215) |
+| Thu, 12 Mar 2026 06:28:15 GMT | Investigating a Malware Hash Using AlienVault OTX and Creating a YARA Detection Rule | Kola. Yeswanth | [Read More](https://medium.com/p/24910b7e85cf) |
+| Thu, 12 Mar 2026 06:25:55 GMT | 7 Powerful Incident Response Strategies for Mobile App Security Breaches (Complete Guide) | Maxatlasofficial | [Read More](https://medium.com/p/74358807e9e9) |
+| Thu, 12 Mar 2026 06:24:38 GMT | How I Hacked and Secured a Docker Container Running DVWA — A Beginner’s Real Experience | Mahimnasinh | [Read More](https://medium.com/p/32eccf012909) |
+| Thu, 12 Mar 2026 06:23:49 GMT | Web Security Series #1 — Exploiting Authentication Using a Brute-Force Attack | Laibakashif | [Read More](https://medium.com/p/ff4fa1bd3203) |
+| Thu, 12 Mar 2026 06:20:37 GMT | सायबर सुरक्षा आणि एथिकल हॅकिंग: डिजिटल युगातील आपले अभेद्य कवच | Smit Shah | [Read More](https://medium.com/p/c4c3443a13ec) |
+| Thu, 12 Mar 2026 06:20:14 GMT | Autonomous Research Agents Are About to Change OSINT | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/bb35b3a66672) |
+| Thu, 12 Mar 2026 06:15:23 GMT | The PDCA Cycle: The Upward Spiral of Security | Sujon Al Mamun | [Read More](https://medium.com/p/9d18f0d9859e) |
+| Thu, 12 Mar 2026 06:10:32 GMT | Network basics for cybersecurity — Day 6 | 0xSmit | [Read More](https://medium.com/p/8b73793f77a0) |
+| Thu, 12 Mar 2026 06:01:00 GMT | How to Choose a Smart Contract Auditor: A Guide for Web3 Protocols | Abraham | [Read More](https://medium.com/p/9e8e5642db08) |
+| Thu, 12 Mar 2026 06:01:00 GMT | The Power of Vulnerability in Personal Writing | EMAN HUMMAYUN | [Read More](https://medium.com/p/8aa74607561f) |
+| Thu, 12 Mar 2026 05:56:00 GMT | Why Most Bug Bounty Beginners Never Find a Vulnerability — And How to Fix It | Shaikh Minhaz | [Read More](https://medium.com/p/6814cda917e9) |
+| Thu, 12 Mar 2026 05:49:48 GMT | [pt.1] What Happens If I Click This? | Jinnatul | [Read More](https://medium.com/p/143941ee848d) |
+| Thu, 12 Mar 2026 05:38:18 GMT | MSFVenom — The Ultimate Payload Generator for Security Testing | ghostyjoe | [Read More](https://medium.com/p/8ed44985cf37) |
+| Thu, 12 Mar 2026 05:36:55 GMT | Deception Technology as the Ultimate High-Fidelity Signal | Cynox Security LLP. | [Read More](https://medium.com/p/76f02df943b8) |
+| Thu, 12 Mar 2026 05:34:52 GMT | Artificial Intelligence Meets Outdated Intelligence | Kit Baroness | [Read More](https://medium.com/p/00fc4f92732b) |
 | Thu, 12 Mar 2026 05:29:03 GMT | Web Application Security: Hands-On Practice (Chapter 16 from The Web Application Hacker’s Handbook) | Aditya Kumar | [Read More](https://medium.com/p/cfd461342af2) |
 | Thu, 12 Mar 2026 05:28:46 GMT | Identity Sprawl: The Hidden Risk in Modern Cloud Environments | Cybersphere Official | [Read More](https://medium.com/p/6433a75094fe) |
 | Thu, 12 Mar 2026 05:26:26 GMT | Stryker: Medical Device Giant is the Victim of Cyber Warefare | Travis Ray Caverhill | [Read More](https://medium.com/p/acd9c0c23549) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Mar 2026 20:17:16 GMT | Piece by Piece — PicoCTF 2026 | Bridget | [Read More](https://medium.com/p/197dab9478b9) |
 | Wed, 11 Mar 2026 20:16:33 GMT | OWASP Explained: The Foundation of Web Application Security Investigation | CipherX9F Security | [Read More](https://medium.com/p/a65c942da517) |
 | Wed, 11 Mar 2026 20:11:43 GMT | Security was the Biggest Difference When i Tried Freedx | Dayyabualiyu | [Read More](https://medium.com/p/92c07c60fe06) |
-| Wed, 11 Mar 2026 20:07:02 GMT | TryHackMe SOC Analyst Road Map Part-8 | safa kaya | [Read More](https://medium.com/p/098fbc2c4341) |
-| Wed, 11 Mar 2026 20:06:42 GMT | The 3 Levels of AI Autonomy Nobody Explains Honestly — And Why Getting Them Wrong Breaks Every… | R.H Rizvi | [Read More](https://medium.com/p/aba51e75b770) |
-| Wed, 11 Mar 2026 20:04:00 GMT | Stryker Down! Iranians Hack the Healthcare Sector Technology Provider | Matthew.Rosenquist | [Read More](https://medium.com/p/d5fffafc549b) |
-| Wed, 11 Mar 2026 19:59:37 GMT | Narcotráfico Grindr | La Trama Del Caos | [Read More](https://medium.com/p/0985e8f180eb) |
-| Wed, 11 Mar 2026 19:53:52 GMT | AI, Cloud, and the 2030 Workforce: Why This Is the Moment (Especially for Women) | Sophia Lyimo - Author - Leader - Coach - Mentor | [Read More](https://medium.com/p/b4c941f2bb6d) |
-| Wed, 11 Mar 2026 19:52:29 GMT | and for my next trick, i will… | louisse | [Read More](https://medium.com/p/fd21a30bee3a) |
-| Wed, 11 Mar 2026 19:50:11 GMT | Code Execution in Google Gemini | Dhiraj | [Read More](https://medium.com/p/4e5909ec167d) |
-| Wed, 11 Mar 2026 19:49:16 GMT | DevSecOps & Supply Chain Security: Why Software Trust Is the New Battlefield | Pranav Prakash I GenAI I AI/ML I DevOps I | [Read More](https://medium.com/p/c628dae551b0) |
-| Wed, 11 Mar 2026 19:48:50 GMT | How to Choose a Reliable Security Company in California: What Every Resident and Business Owner… | Uniworth security | [Read More](https://medium.com/p/32dde5b0614c) |
-| Wed, 11 Mar 2026 19:47:52 GMT | Attacktive Directory AD Pentesting Write-Up | Jo | [Read More](https://medium.com/p/4dab4f7f619e) |
-| Wed, 11 Mar 2026 19:46:47 GMT | SUDO MAKE ME A SANDWICH — PicoCTF 2026 | Bridget | [Read More](https://medium.com/p/103a89fe7b25) |
-| Wed, 11 Mar 2026 19:46:43 GMT | Red Team | Heavenblack | [Read More](https://medium.com/p/62dec1339df2) |
-| Wed, 11 Mar 2026 19:45:16 GMT | France’s Health Data Breach: When “Administrative” Turns Deeply Personal | Ilias Armenakis | [Read More](https://medium.com/p/127c62140e58) |
-| Wed, 11 Mar 2026 19:38:14 GMT | Building a SIEM Lab with Wazuh: Installation and Linux Agent Deployment | Augustine Sito | [Read More](https://medium.com/p/1d6b93de8f90) |
-| Wed, 11 Mar 2026 19:38:09 GMT | We’re Going to Need a Smaller Lake | Nehad | [Read More](https://medium.com/p/60298ae699fb) |
-| Wed, 11 Mar 2026 19:33:35 GMT | From 11 Failed Reports to a NASA Letter of Appreciation — My Bug Bounty Journey | krishoffsec | [Read More](https://medium.com/p/3f9a721a366a) |
-| Wed, 11 Mar 2026 19:33:31 GMT | Linux Logging for SOC — TryHackMe Walkthrough | Owais Ali Khan | [Read More](https://medium.com/p/f757f7967fd9) |
-| Wed, 11 Mar 2026 19:33:15 GMT | Your CRM Might Be Leaking Client Data — A Hidden Risk Freelancers Ignore | Cyber Safety Zone | [Read More](https://medium.com/p/f43420976684) |
-| Wed, 11 Mar 2026 19:32:19 GMT | How Onion Search Engines Index Hidden Services on the Tor Network | Tor BBB | [Read More](https://medium.com/p/affeb653a443) |
-| Wed, 11 Mar 2026 19:31:01 GMT | 8,000 Victims, One Helpline: The Cyber Bullying Wave You Can’t Ignore | Lalit Tech Savvy | [Read More](https://medium.com/p/3c58eee752b4) |
