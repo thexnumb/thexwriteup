@@ -12,9 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Mar 2026 13:02:08 GMT | Ditching the Doc: Why Wikis are the Future of Knowledge Management | Vicente Aceituno Canal | [Read More](https://medium.com/p/1c9caee4da7e) |
+| Thu, 12 Mar 2026 13:01:46 GMT | Standardizing Event Logs: An Introduction to Events Logging Markup Language (ELML) | Vicente Aceituno Canal | [Read More](https://medium.com/p/c159ad7cbd13) |
+| Thu, 12 Mar 2026 12:56:18 GMT | CTF Write-up: Finding the Flag Using Linux Commands | Jumana Mohammed Gad | [Read More](https://medium.com/p/a95fdc0aeb2c) |
+| Thu, 12 Mar 2026 12:49:03 GMT | Análise Crítica de Event IDs: Transformando Logs do Windows em Inteligência de Ameaças. | sarkis093 | [Read More](https://medium.com/p/fdca5200850d) |
+| Thu, 12 Mar 2026 12:38:11 GMT | You Are Not Anonymous Online — But You Can Get Close | Brian Oranga | [Read More](https://medium.com/p/d4e759a49bf6) |
+| Thu, 12 Mar 2026 12:37:00 GMT | How Long Does It Take for an E-Challan to Appear After a Violation? | Insights | [Read More](https://medium.com/p/bbabad8582f3) |
+| Thu, 12 Mar 2026 12:34:21 GMT | Designing Trustworthy AI for the SOC: Guardrails, Auditability, and Control | ThreatLens - Security Intelligence Automation | [Read More](https://medium.com/p/b04c560a1e6e) |
+| Thu, 12 Mar 2026 12:33:04 GMT | Choosing the right ML approach in cybersecurity: a no-nonsense guide | Séв(aѕтιen) L. ⚠ | [Read More](https://medium.com/p/8798f3eb3830) |
+| Thu, 12 Mar 2026 12:32:45 GMT | Bug Bounty Hunting — Complete Guide (Part-167) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/0dcbe527fd69) |
+| Thu, 12 Mar 2026 12:31:09 GMT | Bug Bounty Hunting — Complete Guide (Part-166) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/0367176fcb9f) |
+| Thu, 12 Mar 2026 12:26:21 GMT | How to Make $500 From an Open Redirect Vulnerability | Bugitrix | [Read More](https://medium.com/p/3f7391971b1f) |
+| Thu, 12 Mar 2026 12:21:09 GMT | Network Security Solutions Protecting Modern Businesses from Cyber Threats | Boisttechsolutions | [Read More](https://medium.com/p/f2673c15806e) |
+| Thu, 12 Mar 2026 12:06:59 GMT | The EIM Advantage: Why CFOs Must Treat Information as the First AI Investment | ONE ECM | [Read More](https://medium.com/p/4f1dae3414c4) |
+| Thu, 12 Mar 2026 12:01:01 GMT | What Could Go Wrong (And What the Paper Admits) | Antonio Lopez | [Read More](https://medium.com/p/c68eafe56054) |
+| Thu, 12 Mar 2026 11:52:36 GMT | Kenobi THM Lab Walkthrough | SUSHANT TELRANDHE | [Read More](https://medium.com/p/0098dae62fb0) |
+| Thu, 12 Mar 2026 11:47:58 GMT | Top Cyber Security Service: Complete Guide to Advance Cyber Security Services and the Best Cyber… | Linkbuildingvcentrix | [Read More](https://medium.com/p/0d411d8a3a78) |
+| Thu, 12 Mar 2026 11:41:07 GMT | Your SOC Has a Threat Intelligence Problem. It’s Not a Lack of Data. | Threat Landscape | [Read More](https://medium.com/p/b16fbd6cc62c) |
+| Thu, 12 Mar 2026 11:40:24 GMT | Why We Switched from Snyk to Trivy for our Startup’s CI/CD Security | Nir Alfasi | [Read More](https://medium.com/p/3c75e679a506) |
 | Thu, 12 Mar 2026 11:31:49 GMT | Filsafe Enterprises: Trusted Security Solutions in Pampanga Since 2015 | Keyshrimp | [Read More](https://medium.com/p/237d53ae900f) |
 | Thu, 12 Mar 2026 11:25:19 GMT | Actor Resolver: วิธีจัดการ Identity ใน Laravel Workflow Engine | Thiti Apiwong | [Read More](https://medium.com/p/5b07533e2dff) |
+| Thu, 12 Mar 2026 11:24:29 GMT | The History of the Internet and Its Revolution in the Modern World | Stacklegend | [Read More](https://medium.com/p/a8822e575b42) |
 | Thu, 12 Mar 2026 11:22:38 GMT | You Don’t Have a Vulnerability Problem. You Have a Noise Problem. | Eldor Zufarov | [Read More](https://medium.com/p/aa9588e752b0) |
+| Thu, 12 Mar 2026 11:21:56 GMT | Inside the Security Control Room Market: Technology Driving Smarter Monitoring | Nova Raze | [Read More](https://medium.com/p/2c9b0cee2e8c) |
 | Thu, 12 Mar 2026 11:15:55 GMT | আপনার NID Card দিয়ে অন্য কেউ সিম চালাচ্ছে নাতো? | Md Mosiur Rahaman | [Read More](https://medium.com/p/2fca501c9b1a) |
 | Thu, 12 Mar 2026 11:14:32 GMT | Why Your Threat Intelligence Platform Is Giving You Data — Not Intelligence | Threat Landscape | [Read More](https://medium.com/p/f7ba89928f4c) |
 | Thu, 12 Mar 2026 11:11:10 GMT | Detecting AD Initial Access Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/1b7ee091e35b) |
@@ -93,23 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Mar 2026 06:59:19 GMT | Fixing java.lang.NoSuchMethodError: org.apache.solr.core.SolrCore.getSchema() | Qavi Tech | [Read More](https://medium.com/p/23def84bd8ff) |
 | Thu, 12 Mar 2026 06:44:51 GMT | ScalarDL HashStore と TableStore を使用した改ざん検知アプリケーションの簡素化 | Josh Wong | [Read More](https://medium.com/p/9ad3fb4a4c05) |
 | Thu, 12 Mar 2026 06:42:18 GMT | Secure Solr admin interface on Tomcat | Qavi Tech | [Read More](https://medium.com/p/7c94dc1a09a7) |
-| Thu, 12 Mar 2026 06:42:17 GMT | Bandit Writeup Part 2: Mastery of the Command Line (Levels 12–22) | meganuke_ | [Read More](https://medium.com/p/0370b4849461) |
-| Thu, 12 Mar 2026 06:42:14 GMT | FunBox: Rookie — CTF Walkthrough - Beginner Friendly. | Gouriiih | [Read More](https://medium.com/p/5ee7e4961749) |
-| Thu, 12 Mar 2026 06:41:54 GMT | Simplifying tamper-evident applications by using ScalarDL HashStore and TableStore | Josh Wong | [Read More](https://medium.com/p/b6bdf0f60400) |
-| Thu, 12 Mar 2026 06:34:44 GMT | Pertama Kali Bikin Bug Report, Ternyata Ada Seninya | Isna Nur Amalia | [Read More](https://medium.com/p/74df32141215) |
-| Thu, 12 Mar 2026 06:28:15 GMT | Investigating a Malware Hash Using AlienVault OTX and Creating a YARA Detection Rule | Kola. Yeswanth | [Read More](https://medium.com/p/24910b7e85cf) |
-| Thu, 12 Mar 2026 06:25:55 GMT | 7 Powerful Incident Response Strategies for Mobile App Security Breaches (Complete Guide) | Maxatlasofficial | [Read More](https://medium.com/p/74358807e9e9) |
-| Thu, 12 Mar 2026 06:24:38 GMT | How I Hacked and Secured a Docker Container Running DVWA — A Beginner’s Real Experience | Mahimnasinh | [Read More](https://medium.com/p/32eccf012909) |
-| Thu, 12 Mar 2026 06:23:49 GMT | Web Security Series #1 — Exploiting Authentication Using a Brute-Force Attack | Laibakashif | [Read More](https://medium.com/p/ff4fa1bd3203) |
-| Thu, 12 Mar 2026 06:20:37 GMT | सायबर सुरक्षा आणि एथिकल हॅकिंग: डिजिटल युगातील आपले अभेद्य कवच | Smit Shah | [Read More](https://medium.com/p/c4c3443a13ec) |
-| Thu, 12 Mar 2026 06:20:14 GMT | Autonomous Research Agents Are About to Change OSINT | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/bb35b3a66672) |
-| Thu, 12 Mar 2026 06:15:23 GMT | The PDCA Cycle: The Upward Spiral of Security | Sujon Al Mamun | [Read More](https://medium.com/p/9d18f0d9859e) |
-| Thu, 12 Mar 2026 06:10:32 GMT | Network basics for cybersecurity — Day 6 | 0xSmit | [Read More](https://medium.com/p/8b73793f77a0) |
-| Thu, 12 Mar 2026 06:01:00 GMT | How to Choose a Smart Contract Auditor: A Guide for Web3 Protocols | Abraham | [Read More](https://medium.com/p/9e8e5642db08) |
-| Thu, 12 Mar 2026 06:01:00 GMT | The Power of Vulnerability in Personal Writing | EMAN HUMMAYUN | [Read More](https://medium.com/p/8aa74607561f) |
-| Thu, 12 Mar 2026 06:01:00 GMT | Why “We’ve Never Been Breached” Is a Dangerous Mindset | Hazel Chirinda | [Read More](https://medium.com/p/b8621d57a178) |
-| Thu, 12 Mar 2026 05:56:00 GMT | Why Most Bug Bounty Beginners Never Find a Vulnerability — And How to Fix It | Shaikh Minhaz | [Read More](https://medium.com/p/6814cda917e9) |
-| Thu, 12 Mar 2026 05:49:48 GMT | [pt.1] What Happens If I Click This? | Jinnatul | [Read More](https://medium.com/p/143941ee848d) |
-| Thu, 12 Mar 2026 05:38:18 GMT | MSFVenom — The Ultimate Payload Generator for Security Testing | ghostyjoe | [Read More](https://medium.com/p/8ed44985cf37) |
-| Thu, 12 Mar 2026 05:36:55 GMT | Deception Technology as the Ultimate High-Fidelity Signal | Cynox Security LLP. | [Read More](https://medium.com/p/76f02df943b8) |
-| Thu, 12 Mar 2026 05:34:52 GMT | Artificial Intelligence Meets Outdated Intelligence | Kit Baroness | [Read More](https://medium.com/p/00fc4f92732b) |
