@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Mar 2026 17:50:05 GMT | From DevOps to DevSecOps: Why Embedding Security in the Pipeline Is the Only Way to Survive 2026 | Arnav Pyrell | [Read More](https://medium.com/p/8bdced75661d) |
+| Thu, 12 Mar 2026 17:48:51 GMT | We Scanned 7 AI Agent Frameworks for OAuth Delegation. Most Have Zero Accountability. | Jason Shotwell | [Read More](https://medium.com/p/a322dfad2241) |
+| Thu, 12 Mar 2026 17:46:57 GMT | Experts Weigh In: A New Cyber Strategy for America | National Security Institute | [Read More](https://medium.com/p/a502cd11ad38) |
+| Thu, 12 Mar 2026 17:39:58 GMT | Breaking Active Directory: TryHackMe Attacktive Directory Walkthrough | Nazwass | [Read More](https://medium.com/p/dd01f7c393c5) |
+| Thu, 12 Mar 2026 17:37:27 GMT | Reverse Shells vs. Bind Shells | Mawira Victor | [Read More](https://medium.com/p/8dc09980e8c1) |
+| Thu, 12 Mar 2026 17:34:08 GMT | Sea Spray To Burning Skin | Su ☆ | [Read More](https://medium.com/p/53e05f5f17d9) |
+| Thu, 12 Mar 2026 17:32:29 GMT | Discovering OTP Validation Bypass and IDOR in a Data Export Function | Shir0E | [Read More](https://medium.com/p/83235fe7ba82) |
+| Thu, 12 Mar 2026 17:31:00 GMT | Threats & Vulnerabilities | Xavier Mico Perez | [Read More](https://medium.com/p/4f4f9aaaf30b) |
+| Thu, 12 Mar 2026 17:24:59 GMT | Attackers Automate Identity Attacks. Security Teams Still Respond Manually. | Dr. Shashi Karhail | [Read More](https://medium.com/p/3f0fca0bca43) |
+| Thu, 12 Mar 2026 17:21:28 GMT | Choosing a Digital Legacy Platform That Goes Beyond a Password Manager | InheritSafe | [Read More](https://medium.com/p/5645bc40b7f2) |
+| Thu, 12 Mar 2026 17:21:09 GMT | How to Shop Safely and Anonymously Online in 2026: The Ultimate Guide | Ezzocard | [Read More](https://medium.com/p/c4cfeb96733b) |
+| Thu, 12 Mar 2026 17:17:58 GMT | Phase 6: What Is Claude Code and How Is It Different from Claude Desktop | Root | [Read More](https://medium.com/p/39967f272dc0) |
+| Thu, 12 Mar 2026 17:12:23 GMT | Where to Safely Store Financial Logins for After-Death Access | Olivia Martillo | [Read More](https://medium.com/p/956de207ca91) |
+| Thu, 12 Mar 2026 17:11:28 GMT | From Developer to IT Operations, Notes on a Career Pivot in a Changing Tech Market | Stephen Hiragi | [Read More](https://medium.com/p/17d176fd4f67) |
+| Thu, 12 Mar 2026 17:10:28 GMT | Why I Stopped Recommending National Security Companies to Property Managers | Building Security Services | [Read More](https://medium.com/p/ff469566f10f) |
+| Thu, 12 Mar 2026 17:02:25 GMT | Mastering the Basics: Onboarding Devices to Microsoft Defender for Endpoint | Julio Gonzalez | [Read More](https://medium.com/p/b5f1f6c64689) |
+| Thu, 12 Mar 2026 16:59:13 GMT | Managing BloodHound Custom Icons and Cypher Queries with HoundTrainer | Tom O'Neill | [Read More](https://medium.com/p/297834dad414) |
 | Thu, 12 Mar 2026 16:55:41 GMT | The Omni Guide to the Internet’s Skeleton: A Tour of the Infrastructure That Is, Technically, Fine | Omni Guide Research Team | [Read More](https://medium.com/p/71c5f2d4e0d1) |
 | Thu, 12 Mar 2026 16:47:04 GMT | Understanding the Evolution of Dark Web Search Engines | Tor BBB | [Read More](https://medium.com/p/dc58223d797b) |
 | Thu, 12 Mar 2026 16:45:55 GMT | MuddyWater’s New Playbook: Fresh Malware, Familiar Entry Points | Ilias Armenakis | [Read More](https://medium.com/p/16f4791baaf6) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Mar 2026 11:21:56 GMT | Inside the Security Control Room Market: Technology Driving Smarter Monitoring | Nova Raze | [Read More](https://medium.com/p/2c9b0cee2e8c) |
 | Thu, 12 Mar 2026 11:15:55 GMT | আপনার NID Card দিয়ে অন্য কেউ সিম চালাচ্ছে নাতো? | Md Mosiur Rahaman | [Read More](https://medium.com/p/2fca501c9b1a) |
 | Thu, 12 Mar 2026 11:14:32 GMT | Why Your Threat Intelligence Platform Is Giving You Data — Not Intelligence | Threat Landscape | [Read More](https://medium.com/p/f7ba89928f4c) |
-| Thu, 12 Mar 2026 11:11:10 GMT | Detecting AD Initial Access Walkthrough Notes - TryHackMe | Sle3pyHead ‍ | [Read More](https://medium.com/p/1b7ee091e35b) |
-| Thu, 12 Mar 2026 11:10:25 GMT | Warranty Stickers Explained: 5 Legal Facts You Need to Know | Unicube | [Read More](https://medium.com/p/6d8c36389620) |
-| Thu, 12 Mar 2026 11:07:11 GMT | When Security Tools Are Turned Against Us: Cloudflare Anti Bot Features Exploited to Steal… | Jas | [Read More](https://medium.com/p/1cbe81540283) |
-| Thu, 12 Mar 2026 11:07:11 GMT | How I Passed the CEH Practical Certification: My Preparation, Tools & Real Exam Experience… | Rajarshi Sarkar | [Read More](https://medium.com/p/41556e6186ab) |
-| Thu, 12 Mar 2026 11:06:00 GMT | Your Next Breach Will Probably Start With Someone You Trust | Tyson Martin | [Read More](https://medium.com/p/af6d0a7beec4) |
-| Thu, 12 Mar 2026 11:04:49 GMT | AI Agents in FinTech: Transforming Financial Services with Intelligent Automation | Hitanshu | [Read More](https://medium.com/p/7395abd28a8c) |
-| Thu, 12 Mar 2026 11:04:28 GMT | Uncovering Hidden Attack Surfaces in JavaScript with ScriptRecon | Harsha Vardhan | [Read More](https://medium.com/p/04cf379bdf66) |
-| Thu, 12 Mar 2026 11:02:31 GMT | Analyzing a PowerShell Clipboard Hijacking Malware: | Md Fahim Al Shihab | [Read More](https://medium.com/p/dc82f32c4c96) |
-| Thu, 12 Mar 2026 11:01:01 GMT | Writeup for picoCTF challenge “head-dump” | Walter Moar | [Read More](https://medium.com/p/87d2af858f43) |
-| Thu, 12 Mar 2026 10:55:48 GMT | The Illusion of the Green Checkmark: Why Your Antivirus is Not Enough | Anna Bejan | [Read More](https://medium.com/p/4551bc76a530) |
-| Thu, 12 Mar 2026 10:50:12 GMT | How Much Do Security Guard Services Cost? (Complete Pricing Guide) | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/45109c9426d8) |
-| Thu, 12 Mar 2026 10:44:07 GMT | SSH Server: The Quiet Backbone of Secure Remote Access | Little_Sun4lower | [Read More](https://medium.com/p/0f38e7030aee) |
-| Thu, 12 Mar 2026 10:41:09 GMT | This Was Never About Security vs. Compliance | Peter Hillier/Halton | [Read More](https://medium.com/p/69d6c16d3d38) |
-| Thu, 12 Mar 2026 10:41:00 GMT | File Upload Vulnerabilities: Tricks, Attacks, and How to Harden Your Uploads | Very Lazy Tech | [Read More](https://medium.com/p/7862eba3c549) |
-| Thu, 12 Mar 2026 10:36:39 GMT | ClawHub Top 100 Skills Security Scan — In-Depth Analysis Report | GoPlus Security | [Read More](https://medium.com/p/ac47f7ef6f3d) |
-| Thu, 12 Mar 2026 10:30:39 GMT | Securing Web Applications in Azure Using Application Gateway and WAF (Hands-on Lab) | Amal Udayanga Basnayake | [Read More](https://medium.com/p/2f6cec2313e0) |
-| Thu, 12 Mar 2026 10:29:26 GMT | Three Goals of Cybersecurity: Understanding the CIA Triad | Varsha | [Read More](https://medium.com/p/406cdedd19fb) |
