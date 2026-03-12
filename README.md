@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Mar 2026 07:42:24 GMT | How a Single Behavioral Indicator in SentinelOne Uncovered a Full Infostealer Attack | Dean | [Read More](https://medium.com/p/44102544d30a) |
+| Thu, 12 Mar 2026 07:39:54 GMT | Why Camera Based Surveillance Is Essential for Modern Security | Doris William | [Read More](https://medium.com/p/a092dcce591b) |
+| Thu, 12 Mar 2026 07:37:37 GMT | Exponiendo una HoneyNet a Internet: lo que pasó en 7 días de operación real | killex007 | [Read More](https://medium.com/p/a02eaf3edb24) |
+| Thu, 12 Mar 2026 07:35:17 GMT | FunBox: Rookie — CTF Walkthrough - Beginner Friendly. | Shindebhavana | [Read More](https://medium.com/p/1e4ba9022c42) |
+| Thu, 12 Mar 2026 07:33:55 GMT | Egypt Isn’t Fighting Iran’s War — But It May Pay the Price | Gökçen Kunukcu | [Read More](https://medium.com/p/26bb6f1ae2fe) |
+| Thu, 12 Mar 2026 07:33:38 GMT | EntroGuard — Day 10 | Nisarg Patel | [Read More](https://medium.com/p/717ad5ecbf55) |
+| Thu, 12 Mar 2026 07:31:22 GMT | Task 4-Writeup (Capstone) | Romadhona Fitri | [Read More](https://medium.com/p/079bc67cd386) |
+| Thu, 12 Mar 2026 07:26:50 GMT | NEURON G4 Wireless Security Hub — Smart Protection for Modern Homes & Businesses | Sachinsikariko | [Read More](https://medium.com/p/1cc1df52a4a3) |
+| Thu, 12 Mar 2026 07:25:46 GMT | ️ 5 Layers of Security: How to Fortify Your Free Cloud Server Like a Pro | WiSDOMFiRM | [Read More](https://medium.com/p/e14a2c112942) |
+| Thu, 12 Mar 2026 07:23:26 GMT | Top Cyber Security Service for Advanced Business Data Protection | Linkbuildingvcentrix | [Read More](https://medium.com/p/b5790c3ee651) |
+| Thu, 12 Mar 2026 07:22:53 GMT | Best platforms offering beginner-friendly python programming courses in India | cyber security Updates | [Read More](https://medium.com/p/bb34f7b3bf58) |
+| Thu, 12 Mar 2026 07:20:53 GMT | Top 10 Most Notorious Hackers of All Time | EINITIAL24 | [Read More](https://medium.com/p/1e56e54bd78a) |
+| Thu, 12 Mar 2026 07:17:46 GMT | ⚡ Automating Web Security Testing with OWASP ZAP
+  A Beginner-Friendly Guide for Bug Bounty… | ghostyjoe | [Read More](https://medium.com/p/d57f40a53e11) |
+| Thu, 12 Mar 2026 07:14:58 GMT | Computer Worms — Overview and Analysis | Intelithics | [Read More](https://medium.com/p/8fd2f777e112) |
+| Thu, 12 Mar 2026 07:13:57 GMT | How to build a Cybersecurity Portfolio that gets you hired | 0xSmit | [Read More](https://medium.com/p/8db2f1035cc6) |
+| Thu, 12 Mar 2026 07:11:00 GMT | The Web3 IDOR: Leaving the Bank Vault Wide Open | Tabrez Mukadam | [Read More](https://medium.com/p/f13bbcdf7be6) |
+| Thu, 12 Mar 2026 07:01:05 GMT | Enhancing BloodHound with AI: Active Directory Attack Path Analysis via MCP and Claude AI | Rio Darmawan | [Read More](https://medium.com/p/266b5f82db95) |
+| Thu, 12 Mar 2026 06:59:19 GMT | Fixing java.lang.NoSuchMethodError: org.apache.solr.core.SolrCore.getSchema() | Qavi Tech | [Read More](https://medium.com/p/23def84bd8ff) |
 | Thu, 12 Mar 2026 06:42:18 GMT | Secure Solr admin interface on Tomcat | Qavi Tech | [Read More](https://medium.com/p/7c94dc1a09a7) |
 | Thu, 12 Mar 2026 06:42:17 GMT | Bandit Writeup Part 2: Mastery of the Command Line (Levels 12–22) | meganuke_ | [Read More](https://medium.com/p/0370b4849461) |
 | Thu, 12 Mar 2026 06:42:14 GMT | FunBox: Rookie — CTF Walkthrough - Beginner Friendly. | Gouriiih | [Read More](https://medium.com/p/5ee7e4961749) |
@@ -27,6 +46,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Mar 2026 06:10:32 GMT | Network basics for cybersecurity — Day 6 | 0xSmit | [Read More](https://medium.com/p/8b73793f77a0) |
 | Thu, 12 Mar 2026 06:01:00 GMT | How to Choose a Smart Contract Auditor: A Guide for Web3 Protocols | Abraham | [Read More](https://medium.com/p/9e8e5642db08) |
 | Thu, 12 Mar 2026 06:01:00 GMT | The Power of Vulnerability in Personal Writing | EMAN HUMMAYUN | [Read More](https://medium.com/p/8aa74607561f) |
+| Thu, 12 Mar 2026 06:01:00 GMT | Why “We’ve Never Been Breached” Is a Dangerous Mindset | Hazel Chirinda | [Read More](https://medium.com/p/b8621d57a178) |
 | Thu, 12 Mar 2026 05:56:00 GMT | Why Most Bug Bounty Beginners Never Find a Vulnerability — And How to Fix It | Shaikh Minhaz | [Read More](https://medium.com/p/6814cda917e9) |
 | Thu, 12 Mar 2026 05:49:48 GMT | [pt.1] What Happens If I Click This? | Jinnatul | [Read More](https://medium.com/p/143941ee848d) |
 | Thu, 12 Mar 2026 05:38:18 GMT | MSFVenom — The Ultimate Payload Generator for Security Testing | ghostyjoe | [Read More](https://medium.com/p/8ed44985cf37) |
@@ -46,6 +66,7 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Mar 2026 04:41:26 GMT | Understanding AWS VPC | unica 02 | [Read More](https://medium.com/p/b9f2958252f0) |
 | Thu, 12 Mar 2026 04:40:06 GMT | Vulnerability Management vs Offensive Security: What’s the Difference and Which Path is Right for… | Abacusready | [Read More](https://medium.com/p/642fa0c605a9) |
 | Thu, 12 Mar 2026 04:24:45 GMT | A Banking Security Assessment Experience | lrenciuskf | [Read More](https://medium.com/p/0c08d2dd3b9e) |
+| Thu, 12 Mar 2026 04:23:42 GMT | OWASP Top 10 Explained Simply — With Real Examples | Kuboid Secure Layer | [Read More](https://medium.com/p/d39136773bc9) |
 | Thu, 12 Mar 2026 04:12:37 GMT | Compliance Was Killing Startups. Then Two Founders Said “Enough.” | TEJAS | [Read More](https://medium.com/p/79932289dd17) |
 | Thu, 12 Mar 2026 04:04:28 GMT | Don’t Lose Everything: Why Cloud Backups Matter | Dhivanujan Nesiah | [Read More](https://medium.com/p/64a12a9981ba) |
 | Thu, 12 Mar 2026 04:01:26 GMT | Digital Forensics — TryHackMe Write-Up | PandaHax | [Read More](https://medium.com/p/d6a2c90ad4c0) |
@@ -92,23 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Wed, 11 Mar 2026 22:44:05 GMT | Beyond the Shared Responsibility Model: Building Your Modern AWS Security Roadmap | Memory Nyathi | [Read More](https://medium.com/p/7961b707b15a) |
 | Wed, 11 Mar 2026 22:40:03 GMT | What Do Blue Teamers Need to Know About AI? | rundiable | [Read More](https://medium.com/p/9da31029a51e) |
 | Wed, 11 Mar 2026 22:13:21 GMT | # I Built a Hardened AI Agent You Can Run on Your Laptop — Here’s How | Örvar Karlsson | [Read More](https://medium.com/p/900b1c3e976f) |
-| Wed, 11 Mar 2026 22:06:33 GMT | Introduction to Malware & Malware Analysis | Huzaifah Tahir | [Read More](https://medium.com/p/02c027401db1) |
-| Wed, 11 Mar 2026 22:06:03 GMT | The API Security Problem No One Is Governing | Samuel Odekunle | [Read More](https://medium.com/p/f2267685a491) |
-| Wed, 11 Mar 2026 22:04:35 GMT | Detecting Unicode Homoglyph and Zero-Width Character Evasion in LLM Prompt Injection Attacks | Meghal | [Read More](https://medium.com/p/5b2df4d46989) |
-| Wed, 11 Mar 2026 21:51:55 GMT | YieldBlox Exploit Post-Mortem: How a Single Trade Drained $10M | Olympix | [Read More](https://medium.com/p/274e88721008) |
-| Wed, 11 Mar 2026 21:51:47 GMT | Agent Security: Why Good Engineering Is Not Enough | Mridul Rao | [Read More](https://medium.com/p/daf864091f72) |
-| Wed, 11 Mar 2026 21:37:14 GMT | From One Photo to a Full Profile: My First OSINT Investigation | Lerato Makhasane | [Read More](https://medium.com/p/a973f0e1195e) |
-| Wed, 11 Mar 2026 21:24:34 GMT | Try Hack Me- The Server From Hell CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/979c331aba9e) |
-| Wed, 11 Mar 2026 21:21:14 GMT | Web3 Security Careers: Smart Contract Auditors vs Security Researchers | Abraham | [Read More](https://medium.com/p/d8361759011a) |
-| Wed, 11 Mar 2026 21:16:25 GMT | From Shadow Engineering to Architected Autonomy | paul@aurite.ai | [Read More](https://medium.com/p/bc47b52bfe67) |
-| Wed, 11 Mar 2026 21:01:00 GMT | Unfiltered Restart — Day 23: Straggling a Bit | Maximillian Rueda | [Read More](https://medium.com/p/c2bb1d4fd0d1) |
-| Wed, 11 Mar 2026 20:44:34 GMT | Technical Analysis of CVE-2026–26110 | Kaloyan Stefanov | [Read More](https://medium.com/p/8130b9ebfd38) |
-| Wed, 11 Mar 2026 20:36:57 GMT | Microsoft Windows Update Alert: Azure Virtual Desktop RemoteApp Issue | Ryan Adams | [Read More](https://medium.com/p/ae987295ddf0) |
-| Wed, 11 Mar 2026 20:36:01 GMT | Prevent 80% of Private Endpoint Outages | Practical IT | [Read More](https://medium.com/p/35a85bb422ad) |
-| Wed, 11 Mar 2026 20:32:10 GMT | TryHackMe - M365 Monitoring Basics - WriteUp | Axoloth | [Read More](https://medium.com/p/46a89242d80c) |
-| Wed, 11 Mar 2026 20:31:06 GMT | Best Identity Theft Protection Services in the USA: SmartCredit Review Guide | Md Hafizur Rahman | [Read More](https://medium.com/p/e89d41242cad) |
-| Wed, 11 Mar 2026 20:20:30 GMT | Risk-Adjusted Yield: The Missing Metric in DeFi’s Yield Race | Khan Kharal | [Read More](https://medium.com/p/598835f2ee41) |
-| Wed, 11 Mar 2026 20:18:16 GMT | How to Modify IE8 Security Levels Using Registry Editor | Excalibra | [Read More](https://medium.com/p/606c6076af2f) |
-| Wed, 11 Mar 2026 20:17:16 GMT | Piece by Piece — PicoCTF 2026 | Bridget | [Read More](https://medium.com/p/197dab9478b9) |
-| Wed, 11 Mar 2026 20:16:33 GMT | OWASP Explained: The Foundation of Web Application Security Investigation | CipherX9F Security | [Read More](https://medium.com/p/a65c942da517) |
-| Wed, 11 Mar 2026 20:11:43 GMT | Security was the Biggest Difference When i Tried Freedx | Dayyabualiyu | [Read More](https://medium.com/p/92c07c60fe06) |
