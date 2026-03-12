@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Mar 2026 16:55:41 GMT | The Omni Guide to the Internet’s Skeleton: A Tour of the Infrastructure That Is, Technically, Fine | Omni Guide Research Team | [Read More](https://medium.com/p/71c5f2d4e0d1) |
+| Thu, 12 Mar 2026 16:47:04 GMT | Understanding the Evolution of Dark Web Search Engines | Tor BBB | [Read More](https://medium.com/p/dc58223d797b) |
+| Thu, 12 Mar 2026 16:45:55 GMT | MuddyWater’s New Playbook: Fresh Malware, Familiar Entry Points | Ilias Armenakis | [Read More](https://medium.com/p/16f4791baaf6) |
+| Thu, 12 Mar 2026 16:40:02 GMT | Zombie ZIP: The Malware That Refuses to Stay Dead | Travis Ray Caverhill | [Read More](https://medium.com/p/65c35200eaa7) |
+| Thu, 12 Mar 2026 16:38:51 GMT | Top 10 Signs Your Network Has Been Hacked (And What to Do Next) | Temma | [Read More](https://medium.com/p/7adca8e836ff) |
+| Thu, 12 Mar 2026 16:35:17 GMT | The Skills IT Companies Actually Want in 2026 | Story Crafter | [Read More](https://medium.com/p/a8b973986ae1) |
+| Thu, 12 Mar 2026 16:32:13 GMT | SOC Analyst Guide: TTPs, IOCs, MITRE ATT&CK & Alert Handling | Mr Sumit Pal | [Read More](https://medium.com/p/7674ef4d1024) |
+| Thu, 12 Mar 2026 16:30:32 GMT | I Just Got Scammed Online — What Should I Do Next? | Decode Help | [Read More](https://medium.com/p/8d7feeddffc1) |
+| Thu, 12 Mar 2026 16:26:33 GMT | The Dark Side of AI: 5 Ways to Protect Yourself from Deepfake Scams in 2026 | LaLiSa | [Read More](https://medium.com/p/ca8e6ccf976a) |
+| Thu, 12 Mar 2026 16:21:50 GMT | The Silent Saboteur: Understanding AI Alignment Faking | Alessandro Pignati | [Read More](https://medium.com/p/48e9aacd75d3) |
+| Thu, 12 Mar 2026 16:15:47 GMT | The Endpoint Is Where Data Really Leaks | Kz Yiyip | [Read More](https://medium.com/p/87a1f26ebe1e) |
+| Thu, 12 Mar 2026 16:05:08 GMT | Reverse Engineering Doesn’t Have to Be Scary | Aastha Thakker | [Read More](https://medium.com/p/2998eb10760c) |
+| Thu, 12 Mar 2026 16:01:02 GMT | What Is a Dependency Vulnerability in GitHub? | Saeid Rezaeisadrabadi | [Read More](https://medium.com/p/7b9e52548fe4) |
+| Thu, 12 Mar 2026 15:55:17 GMT | A Beginner-Friendly Guide to Penetration Testing: Methodology, Scope, Reconnaissance, and Tools | GorkhaliYash | [Read More](https://medium.com/p/ea97c39148d5) |
+| Thu, 12 Mar 2026 15:49:56 GMT | Shield My Eyes from the Shield of the Americas | Ross Knutson | [Read More](https://medium.com/p/eedfbc49dc4c) |
 | Thu, 12 Mar 2026 15:24:51 GMT | Kerberoasted My Own Active Directory Lab — A Beginner’s perspective. | Nitunga Baptiste Billy | [Read More](https://medium.com/p/6f258edb5c35) |
 | Thu, 12 Mar 2026 15:18:46 GMT | Digital vs. Dial: Which Safe Locking Mechanism Is Actually More Secure in 2026? | Eldrin Josh Pineda | [Read More](https://medium.com/p/8065d12230b0) |
 | Thu, 12 Mar 2026 15:15:21 GMT | Staying ready: Why refresher training matters in Yemen’s evolving minefields | Project Masam | [Read More](https://medium.com/p/5d7611492c33) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Mar 2026 10:36:39 GMT | ClawHub Top 100 Skills Security Scan — In-Depth Analysis Report | GoPlus Security | [Read More](https://medium.com/p/ac47f7ef6f3d) |
 | Thu, 12 Mar 2026 10:30:39 GMT | Securing Web Applications in Azure Using Application Gateway and WAF (Hands-on Lab) | Amal Udayanga Basnayake | [Read More](https://medium.com/p/2f6cec2313e0) |
 | Thu, 12 Mar 2026 10:29:26 GMT | Three Goals of Cybersecurity: Understanding the CIA Triad | Varsha | [Read More](https://medium.com/p/406cdedd19fb) |
-| Thu, 12 Mar 2026 10:27:55 GMT | 10 Security Headers Every Developer Should Know | John Hawkins | [Read More](https://medium.com/p/0d20d8894686) |
-| Thu, 12 Mar 2026 10:25:59 GMT | Nmap: The Swiss Army Knife of Network Scanning | Gizem Şangür | [Read More](https://medium.com/p/94444dbd7d58) |
-| Thu, 12 Mar 2026 10:21:01 GMT | The Death of Middlemen: Why Automated Escrow is Taking Over in 2026 | Red Writer | [Read More](https://medium.com/p/44151624fac9) |
-| Thu, 12 Mar 2026 10:20:28 GMT | Fundamentals of Machine Learning and Artificial Intelligence | Manisha Chaudhary | [Read More](https://medium.com/p/96ad6495eb0a) |
-| Thu, 12 Mar 2026 10:20:00 GMT | HIPAA Security Rule Updates 2026: What Healthcare Organizations Should Prepare For | Conference Panel | [Read More](https://medium.com/p/a3844e8319b4) |
-| Thu, 12 Mar 2026 10:16:01 GMT | The Stryker Cyberattack: A Warning Shot in the Age of Digital Warfare | Rick Gregson | [Read More](https://medium.com/p/3a87ea61041b) |
-| Thu, 12 Mar 2026 10:12:45 GMT | Best Managed Cybersecurity Services in India - Threat Protection | Gowthammathiew | [Read More](https://medium.com/p/1a76eec8961c) |
-| Thu, 12 Mar 2026 10:07:27 GMT | Building a 100% Passwordless Future: Passkeys in Symfony 7.4 | Matt Mochalkin | [Read More](https://medium.com/p/6677948e175f) |
-| Thu, 12 Mar 2026 10:02:13 GMT | Telly Sherlock: Unraveling DFIR Mysteries in a Managed Security Service Provider Environment | Misbah Ur Rehman | [Read More](https://medium.com/p/57d022ffa62c) |
-| Thu, 12 Mar 2026 09:55:19 GMT | FishCode: Phishing for DeviceCode in Lake Tenant | Mr. Robot.txt | [Read More](https://medium.com/p/d72a297ebf5e) |
-| Thu, 12 Mar 2026 09:53:13 GMT | Hacker kimdir? Red Team, Blue Team və Cyber Security Dünyasının Görünməyən Tərəfi ‍ | cybershieldy.com | [Read More](https://medium.com/p/4f4b5b565f9a) |
-| Thu, 12 Mar 2026 09:49:07 GMT | What Is Business IT Support and Why Is It Important? | Rx Technology | [Read More](https://medium.com/p/633aeda7df38) |
-| Thu, 12 Mar 2026 09:48:59 GMT | Strengthening Field Operations with Advanced Military Mobile Command Centers | Olivia Williams | [Read More](https://medium.com/p/38583a781dd9) |
-| Thu, 12 Mar 2026 09:46:20 GMT | OWASP for AI Models: Securing the Brain of Modern Applications | Dhanush | [Read More](https://medium.com/p/3f4cab12220f) |
-| Thu, 12 Mar 2026 09:45:31 GMT | Hackers Love Untrained Users — Don’t Be One | Redfox Security | [Read More](https://medium.com/p/ecbd87d84b1b) |
