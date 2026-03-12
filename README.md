@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Mar 2026 20:35:58 GMT | Down the rabbit hole: what’s actually worth learning in offensive security right now | h@shtalk | [Read More](https://medium.com/p/185fdc9f674f) |
+| Thu, 12 Mar 2026 20:35:06 GMT | How I Passed the eJPT Exam With 97% — My Strategy and Practical Tips | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/b83b0d5fa32d) |
+| Thu, 12 Mar 2026 20:33:01 GMT | SOC from Scratch #6 — Understanding Alerts, Incidents, and Escalation | Shane Samuel | [Read More](https://medium.com/p/11f58b798d75) |
+| Thu, 12 Mar 2026 20:16:00 GMT | AI SOC Agent Pro Edition— Stop Triaging Wazuh Alerts Manually | Neetrox | [Read More](https://medium.com/p/77487f891514) |
+| Thu, 12 Mar 2026 20:15:10 GMT | Hidden Backdoors in Open-Source AI Models: The Hidden Threat in the AI Supply Chain | Rajaalitabish | [Read More](https://medium.com/p/ebd522bc589f) |
+| Thu, 12 Mar 2026 20:15:10 GMT | LLM06: Excessive Agency — When AI Has Too Much Power (2025) | Seema Gupta | [Read More](https://medium.com/p/5f79668e5334) |
+| Thu, 12 Mar 2026 20:15:00 GMT | The Day I Found an AWS Key Hidden Inside a Website | Shawn micheal | [Read More](https://medium.com/p/897c5b49a634) |
+| Thu, 12 Mar 2026 20:14:52 GMT | Deploying a Honeypot in Azure: Collecting and Visualizing Attack Data on a Map with Microsoft… | Melchizedek Anyonje | [Read More](https://medium.com/p/b2f33b1d6835) |
+| Thu, 12 Mar 2026 20:12:43 GMT | Building a Live SOC + Honeynet in Azure | Aniyah Henderson | [Read More](https://medium.com/p/d3cf1611650c) |
+| Thu, 12 Mar 2026 19:58:46 GMT | The Unfortunate Fool | Unsaid Thoughts | [Read More](https://medium.com/p/79bf5db47c40) |
 | Thu, 12 Mar 2026 19:51:59 GMT | Why Traditional Locks Aren’t Enough for 2026 | Castilloed | [Read More](https://medium.com/p/fd43739841e3) |
 | Thu, 12 Mar 2026 19:41:00 GMT | User Mode, Kernel Mode and the Windows Function Call Flow | Itz.sanskarr | [Read More](https://medium.com/p/5f20925d4c6f) |
 | Thu, 12 Mar 2026 19:37:50 GMT | Mapping the GraphQL Attack Surface: Schema Enumeration, Batch Abuse, and Resolver Explosions | Ommkoli | [Read More](https://medium.com/p/285714610185) |
@@ -103,13 +113,3 @@ Part 1 | MRxO1 | [Read More](https://medium.com/p/95f21de9501c) |
 | Thu, 12 Mar 2026 14:46:00 GMT | [FORECAST UPDATED] After LockBit and BlackCat, Is Cl0p Really Next in Line? | Wes Young | [Read More](https://medium.com/p/94c74c2b8e47) |
 | Thu, 12 Mar 2026 14:42:56 GMT | The bug report that took four days to fix | Ali El-Shayeb | [Read More](https://medium.com/p/30ce088531c3) |
 | Thu, 12 Mar 2026 14:34:34 GMT | AI Security Without Compliance Controls Is a Risk Multiplier | Scottcmcmahan | [Read More](https://medium.com/p/630595c935c5) |
-| Thu, 12 Mar 2026 14:32:25 GMT | Beyond the Main Function: Static Malware Analysis on Automation | Mart Eugen Gevero | [Read More](https://medium.com/p/39442969286b) |
-| Thu, 12 Mar 2026 14:28:11 GMT | Your Browser Doesn’t Know Who Wrote the Code | Groovin' | [Read More](https://medium.com/p/9af31d9a11d6) |
-| Thu, 12 Mar 2026 14:27:52 GMT | Payment HSMs: Essential Tools for Financial Security | Futurex | [Read More](https://medium.com/p/ee173d1ee497) |
-| Thu, 12 Mar 2026 14:22:58 GMT | Your UI Grey-Out Is Not Security: The Backend Auth Problem Nobody Talks About | Abhishek Oraon | [Read More](https://medium.com/p/3290d452358a) |
-| Thu, 12 Mar 2026 14:18:27 GMT | Why Hospitals Are Not Ready for AI. The Hidden Cybersecurity and Patient Safety Crisis. | Minehli Arakelians Gheshlagh | [Read More](https://medium.com/p/86d10741568d) |
-| Thu, 12 Mar 2026 14:14:29 GMT | 10 Most Common IT Problems | MedVoice Global | [Read More](https://medium.com/p/97f6155e383b) |
-| Thu, 12 Mar 2026 14:14:14 GMT | Passkeys vs Security Keys: Choosing the right phishing-resistant authentication in Azure | Lars Schouwenaars | [Read More](https://medium.com/p/f6810f9c4ea4) |
-| Thu, 12 Mar 2026 14:13:15 GMT | The #1 Identity Risk I See in Small to Mid-Size Healthcare Organizations | Shannon Harrell Jr. | [Read More](https://medium.com/p/228ecf43b587) |
-| Thu, 12 Mar 2026 14:07:48 GMT | Quantum-Ready or Quantum-At-Risk? The PQC Transition for Mid-Market Firms | IT_Engineer | [Read More](https://medium.com/p/84e8dc5e9097) |
-| Thu, 12 Mar 2026 14:07:46 GMT | When Multi-Tenant Isolation Completely Falls Apart | MixBanana | [Read More](https://medium.com/p/2b969110d400) |
