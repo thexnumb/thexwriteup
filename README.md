@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Mar 2026 08:33:41 GMT | How Deepfake Identity Theft is Draining Insurance Policies (And How to Stop It) | InsureYouKnow | [Read More](https://medium.com/p/e11017439ff1) |
+| Thu, 12 Mar 2026 08:30:32 GMT | Indirect Prompt Injection: The Silent Threat to Your LLM Applications | Alessandro Pignati | [Read More](https://medium.com/p/2e41317b2165) |
+| Thu, 12 Mar 2026 08:16:26 GMT | Identity Sprawl: The Hidden Risk in Modern Cloud Environments | Cybersphere Official | [Read More](https://medium.com/p/9075e505fb12) |
+| Thu, 12 Mar 2026 08:15:16 GMT | Write-Up: Attacktive Directory — TryHackMe | Aiko Devy Ratnasari | [Read More](https://medium.com/p/6d4ecbe3b064) |
+| Thu, 12 Mar 2026 08:07:46 GMT | JWT Vulnerabilities - When the Token Your App Trusts Becomes the Attacker’s Master Key | Rufus Kehinde | [Read More](https://medium.com/p/73adc8a527f0) |
+| Thu, 12 Mar 2026 08:04:31 GMT | How to Configure Microsoft Edge as Your Default Browser Using Intune | Brian Imbebi | [Read More](https://medium.com/p/0d40cf617738) |
+| Thu, 12 Mar 2026 08:01:02 GMT | Wiz Said No to $23 Billion. Google Came Back With $32 Billion. Here Is Why. | MayhemCode | [Read More](https://medium.com/p/d2008c1b6f76) |
+| Thu, 12 Mar 2026 08:00:46 GMT | How Simple Is the Antivirus Pro Installation Process? | Siyanoav | [Read More](https://medium.com/p/721a01dd0d68) |
+| Thu, 12 Mar 2026 08:00:32 GMT | [Dev Update] NODE: PROTOCOL | NODE: PROTOCOL | [Read More](https://medium.com/p/3f80d5c557fe) |
+| Thu, 12 Mar 2026 07:59:18 GMT | Configuration the WAN and LAN interfaces in pfSense | cyberwriter | [Read More](https://medium.com/p/83d440cc3d27) |
+| Thu, 12 Mar 2026 07:54:41 GMT | Quantum Cryptography:The Next Frontier Of Data Security | James | [Read More](https://medium.com/p/851f4d8c1d91) |
 | Thu, 12 Mar 2026 07:42:24 GMT | How a Single Behavioral Indicator in SentinelOne Uncovered a Full Infostealer Attack | Dean | [Read More](https://medium.com/p/44102544d30a) |
 | Thu, 12 Mar 2026 07:39:54 GMT | Why Camera Based Surveillance Is Essential for Modern Security | Doris William | [Read More](https://medium.com/p/a092dcce591b) |
 | Thu, 12 Mar 2026 07:37:37 GMT | Exponiendo una HoneyNet a Internet: lo que pasó en 7 días de operación real | killex007 | [Read More](https://medium.com/p/a02eaf3edb24) |
@@ -102,14 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Mar 2026 00:24:09 GMT | HTTP/2 request smuggling via CRLF injection | Ⓥ | [Read More](https://medium.com/p/91716bdd08e3) |
 | Thu, 12 Mar 2026 00:24:01 GMT | H2.CL request smuggling | Ⓥ | [Read More](https://medium.com/p/90d998964d84) |
 | Thu, 12 Mar 2026 00:15:18 GMT | Dependency Property 是什麼？ — WPF 的中央燈掣 | 思維舞步 MindSteps | [Read More](https://medium.com/p/f5934b180cc2) |
-| Thu, 12 Mar 2026 00:13:51 GMT | Making a Wifi Pineapple for $8 | Alex Gonzales | [Read More](https://medium.com/p/6fe79d679f81) |
-| Thu, 12 Mar 2026 00:05:26 GMT | Why Public Wi-Fi Can Be Dangerous | Armansyah hakim | [Read More](https://medium.com/p/263c97266346) |
-| Wed, 11 Mar 2026 23:28:30 GMT | Smishing: Η Απάτη των 7 Ευρώ (“Ειδοποίηση Τροχαίας Παράβασης”) | Ioannis Lymperopoulos | [Read More](https://medium.com/p/fded66abd4bd) |
-| Wed, 11 Mar 2026 22:55:39 GMT | SOC automation & AI (n8n/wazuh) | omar samara | [Read More](https://medium.com/p/3f3740efcad5) |
-| Wed, 11 Mar 2026 22:54:58 GMT | I Almost Got Hacked Without Entering My Password — Here’s How Consent Phishing Works | Mohab Hassan | [Read More](https://medium.com/p/7c5b9cd6df13) |
-| Wed, 11 Mar 2026 22:53:13 GMT | HTB Return: LDAP Credential Theft to Service Hijacking | Onurcan Genç | [Read More](https://medium.com/p/20ec14ee9775) |
-| Wed, 11 Mar 2026 22:48:05 GMT | An Operators View on President Trump’s Cyber Strategy for America | Monzy | [Read More](https://medium.com/p/fa214ad761cc) |
-| Wed, 11 Mar 2026 22:46:04 GMT | Stop Watching Hacking Videos in 2026 and GET REAL | Yua Mikanana | [Read More](https://medium.com/p/5d777ee87a25) |
-| Wed, 11 Mar 2026 22:44:05 GMT | Beyond the Shared Responsibility Model: Building Your Modern AWS Security Roadmap | Memory Nyathi | [Read More](https://medium.com/p/7961b707b15a) |
-| Wed, 11 Mar 2026 22:40:03 GMT | What Do Blue Teamers Need to Know About AI? | rundiable | [Read More](https://medium.com/p/9da31029a51e) |
-| Wed, 11 Mar 2026 22:13:21 GMT | # I Built a Hardened AI Agent You Can Run on Your Laptop — Here’s How | Örvar Karlsson | [Read More](https://medium.com/p/900b1c3e976f) |
