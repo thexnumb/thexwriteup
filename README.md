@@ -12,6 +12,7 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Thu, 12 Mar 2026 23:04:39 GMT | ‍♂️How I Escalated From Domain User to Domain Admin | Jabaribrown | [Read More](https://medium.com/p/c62488453360) |
 | Thu, 12 Mar 2026 22:51:26 GMT | Payment Bypass That Let Me Get a Premium Course for $0 [Business Logic Flaw] P2 | El Professor Qais | [Read More](https://medium.com/p/71c554d9c274) |
 | Thu, 12 Mar 2026 22:50:57 GMT | Understanding and Demonstrating ARP Spoofing > A Comprehensive Guide | Huzaifah Tahir | [Read More](https://medium.com/p/6d74b05b0884) |
 | Thu, 12 Mar 2026 22:50:42 GMT | TryHackMe SOC Analyst Road Map Part-8 | safa kaya | [Read More](https://medium.com/p/390d71e93140) |
@@ -112,4 +113,3 @@ Part 1 | MRxO1 | [Read More](https://medium.com/p/95f21de9501c) |
 | Thu, 12 Mar 2026 17:10:28 GMT | Why I Stopped Recommending National Security Companies to Property Managers | Building Security Services | [Read More](https://medium.com/p/ff469566f10f) |
 | Thu, 12 Mar 2026 17:02:25 GMT | Mastering the Basics: Onboarding Devices to Microsoft Defender for Endpoint | Julio Gonzalez | [Read More](https://medium.com/p/b5f1f6c64689) |
 | Thu, 12 Mar 2026 16:59:13 GMT | Managing BloodHound Custom Icons and Cypher Queries with HoundTrainer | Tom O'Neill | [Read More](https://medium.com/p/297834dad414) |
-| Thu, 12 Mar 2026 16:55:41 GMT | The Omni Guide to the Internet’s Skeleton: A Tour of the Infrastructure That Is, Technically, Fine | Omni Guide Research Team | [Read More](https://medium.com/p/71c5f2d4e0d1) |
