@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Mar 2026 18:51:00 GMT | How I Found a Critical SQL Injection in an “Abandoned” Website: Exploiting a Rare Chain of… | Eduardo F | [Read More](https://medium.com/p/10e5e5615b29) |
+| Fri, 13 Mar 2026 18:47:53 GMT | How SMBs Can Proactively Strengthen Cybersecurity | Matthew.Rosenquist | [Read More](https://medium.com/p/3f5d66838fa8) |
+| Fri, 13 Mar 2026 18:46:00 GMT | I Spent a Week Researching What the LastPass Breach Actually Did to People. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/e731947e4420) |
+| Fri, 13 Mar 2026 18:18:36 GMT | Write Up : Attacktive Directory — TryHackMe | Rasya Irham | [Read More](https://medium.com/p/1d792b55891d) |
+| Fri, 13 Mar 2026 18:17:55 GMT | Understanding How to Test User Identity and Access Security in Web Applications | Diva Rizky Alfitrah | [Read More](https://medium.com/p/ebd086fc8e23) |
+| Fri, 13 Mar 2026 18:10:51 GMT | DC-1 Walkthrough: From Drupalgeddon to Root | Mohamed Yasser | [Read More](https://medium.com/p/a34346405ee5) |
+| Fri, 13 Mar 2026 18:07:56 GMT | Master the Art of Spotting Scams with Google’s New Interactive Game | www.OneCoolTip.com | [Read More](https://medium.com/p/f3e84d7fa787) |
+| Fri, 13 Mar 2026 18:04:24 GMT | The AI Paradox: Unleashing Power, Demanding Control – From Code to Billions | Daily AI & Tech Digest | [Read More](https://medium.com/p/5324bc9adac3) |
+| Fri, 13 Mar 2026 18:01:32 GMT | Cybersecurity News Review — Week 11 (2026) | Mladen Kirilov | [Read More](https://medium.com/p/621271769285) |
+| Fri, 13 Mar 2026 17:59:19 GMT | My Inbox is Trying to Rob Me Before 9 A.M. | Lee Romano Sequeira | [Read More](https://medium.com/p/14e52038b4fb) |
 | Fri, 13 Mar 2026 17:52:04 GMT | Intercepting Flutter iOS App Traffic with Frida-No VPN, No Iptables | Pritesh Mistry | [Read More](https://medium.com/p/d91339cefe6a) |
+| Fri, 13 Mar 2026 17:51:35 GMT | Your Satellite Phone Is an Open Book | Berend Watchus | [Read More](https://medium.com/p/0053dfce0b35) |
 | Fri, 13 Mar 2026 17:51:22 GMT | How to Keep Assets Private Now but Ensure They’re Discovered Later | Olivia Martillo | [Read More](https://medium.com/p/a1ff6ba7866f) |
 | Fri, 13 Mar 2026 17:48:43 GMT | How I got a Hall of Fame at a UEFA Champions League Football Club. | RivuDon | [Read More](https://medium.com/p/bcedc352ce4d) |
 | Fri, 13 Mar 2026 17:47:40 GMT | Loblaw Data Breach Highlights Growing Cyber Risks in the Retail Sector | Chetan Seripally | [Read More](https://medium.com/p/3777b6466a82) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Mar 2026 13:05:55 GMT | Understanding IPv4 vs IPv6 and Network Topologies — A Beginner-Friendly Guide | Mohammad Rammal | [Read More](https://medium.com/p/adae9a576eca) |
 | Fri, 13 Mar 2026 12:53:55 GMT | Remote Code Execution (RCE) Vulnerability | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/69b7ce3dd7f0) |
 | Fri, 13 Mar 2026 12:51:13 GMT | The Future of Tech - What’s Coming in 2026 | Impronics Technologies | [Read More](https://medium.com/p/add448155901) |
-| Fri, 13 Mar 2026 12:47:29 GMT | How I Reported a Vulnerability to the Dutch Government — All for a Lousy T-Shirt | Snehil | [Read More](https://medium.com/p/0386d9dc24fe) |
-| Fri, 13 Mar 2026 12:47:26 GMT | Dark Web Nedir? Gerçekten Tehlikeli mi? | Ali Yaşe | [Read More](https://medium.com/p/f69532ee2092) |
-| Fri, 13 Mar 2026 12:46:00 GMT | Async Hooks Crash Vulnerability in Node.js | Emilyharbord | [Read More](https://medium.com/p/3c2f181cbee1) |
-| Fri, 13 Mar 2026 12:45:20 GMT | Foundational Knowledge Roadmap for Cloud Security Engineers | Satender Kumar | [Read More](https://medium.com/p/7eddf94555f1) |
-| Fri, 13 Mar 2026 12:44:58 GMT | Hashing Nedir? Siber Güvenlikte Neden Kullanılır? | Cagatayonbasioglu | [Read More](https://medium.com/p/a8ac4b609f24) |
-| Fri, 13 Mar 2026 12:44:36 GMT | Quiet Signals in B2B SaaS Positioning | Sonu Goswami - B2B SaaS Positioning Specialist | [Read More](https://medium.com/p/08ac1b8b64bf) |
-| Fri, 13 Mar 2026 12:38:18 GMT | How Multi-Agent Analysis Reduces MTTR without Replacing Your SOC Team | ThreatLens - Security Intelligence Automation | [Read More](https://medium.com/p/f2dc3b61d442) |
-| Fri, 13 Mar 2026 12:35:10 GMT | The Future of Secure Digital Signatures: Why Businesses Are Moving to Paperless Workflows | Shagunkaurr | [Read More](https://medium.com/p/420fd85ac4ee) |
-| Fri, 13 Mar 2026 12:30:05 GMT | How IP addressing works | Mahammad Aliyev | [Read More](https://medium.com/p/d47900c2c265) |
-| Fri, 13 Mar 2026 12:26:00 GMT | Is eSIM Safe? What You Need to Know About Security | Basit Tanveer | [Read More](https://medium.com/p/40e7dd3d1036) |
-| Fri, 13 Mar 2026 12:25:03 GMT | Digital Forensics & Steganography: Live Cyber Investigation Demonstration | Dallen Sadru | [Read More](https://medium.com/p/13613e126033) |
