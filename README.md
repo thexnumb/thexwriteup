@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Mar 2026 21:33:12 GMT | Lythera – right choice for Start-up | Lythera.io | [Read More](https://medium.com/p/65a0055ac8ec) |
+| Fri, 13 Mar 2026 21:31:01 GMT | Public Wi-Fi and Business Logins: A Bad Mix | Janeel Abrahams | [Read More](https://medium.com/p/aa5f6101bb4b) |
+| Fri, 13 Mar 2026 21:22:04 GMT | Your Satellite Phone Is an Open Book | Berend Watchus | [Read More](https://medium.com/p/6ac4054c22f9) |
+| Fri, 13 Mar 2026 21:20:45 GMT | I Built a System That Makes Your Server Invisible to Attackers | Abdullahusien Shallal | [Read More](https://medium.com/p/a5ee8589851d) |
+| Fri, 13 Mar 2026 21:18:36 GMT | OverTheWire Bandit Walkthrough — Level 1 → 2 - 30-Day Cybersecurity Learning Journey (Day 2) | William | [Read More](https://medium.com/p/385fcd7a3d57) |
+| Fri, 13 Mar 2026 21:09:44 GMT | GitOops lab- HackSmarter | MrKouk | [Read More](https://medium.com/p/94486bb7db93) |
+| Fri, 13 Mar 2026 21:01:01 GMT | Unfiltered Restart — Day 25: Windows Apps & Networking | Maximillian Rueda | [Read More](https://medium.com/p/1956065f9797) |
+| Fri, 13 Mar 2026 21:00:53 GMT | Principal CTF - HackTheBox | MrKouk | [Read More](https://medium.com/p/95f0139b2f4c) |
+| Fri, 13 Mar 2026 20:51:29 GMT | CYBER THREAT LANDSCAPE IN EAST AFRICA | JACKLINE WAIRIMU MAINA | [Read More](https://medium.com/p/301fd0f726a1) |
+| Fri, 13 Mar 2026 20:47:45 GMT | Offsec “Wpwn” CTF Writeup | sabR | [Read More](https://medium.com/p/517ad3291c5e) |
 | Fri, 13 Mar 2026 20:32:21 GMT | My First Steps into Malware Development | oussama | [Read More](https://medium.com/p/5446e81474a1) |
 | Fri, 13 Mar 2026 20:31:00 GMT | Your SIM is Still in Your Pocket, But a Hacker Just Used It to Empty Your Bank | Lalit Tech Savvy | [Read More](https://medium.com/p/2e4fdbf8d56a) |
 | Fri, 13 Mar 2026 20:28:06 GMT | Principal HackTheBox Writeup | Heliman | [Read More](https://medium.com/p/fc4e51bc5f4d) |
@@ -100,15 +110,5 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Mar 2026 15:38:39 GMT | The Automation Myth That’s Costing You Hours Every Week — And How Mastering n8n From Zero Changes… | R.H Rizvi | [Read More](https://medium.com/p/ff222142c1c0) |
 | Fri, 13 Mar 2026 15:37:22 GMT | Exploiting an Infinite Money Logic Flaw - PortSwigger Web Security Academy Lab Write-up | shivam sharma | [Read More](https://medium.com/p/2a14e5b9dd2d) |
 | Fri, 13 Mar 2026 15:37:09 GMT | Man-in-the-Middle Attack Analysis: How Bettercap Exposes Clear-Text Protocol Vulnerabilities | Lorenzodellecoste | [Read More](https://medium.com/p/4b2e1850d2ef) |
+| Fri, 13 Mar 2026 15:35:54 GMT | How Hackers Steal Data on Public Wi-Fi. And How to Stay Safe | VPNHouse | [Read More](https://medium.com/p/34298e1001dd) |
 | Fri, 13 Mar 2026 15:29:20 GMT | One PDF Upload, One Click, Total Surprise | Abdelrahman Maged | [Read More](https://medium.com/p/c10bdd775849) |
-| Fri, 13 Mar 2026 15:28:57 GMT | Home Security Camera Installation in Toronto: A Complete Guide for Homeowners | AlexBryn | [Read More](https://medium.com/p/f9370649c2cb) |
-| Fri, 13 Mar 2026 15:17:46 GMT | Writeup 03: Professionals are Doing Enumeration While Kids are focusing with payloads. | BL4CKD3V0P5 | [Read More](https://medium.com/p/6fbf9029014e) |
-| Fri, 13 Mar 2026 15:14:09 GMT | How to Prevent Fraud Before Release When Planning Digital Access After Death | InheritSafe | [Read More](https://medium.com/p/bdd520bcffad) |
-| Fri, 13 Mar 2026 15:10:18 GMT | Attacktive Directory — TryHackMe | Rizqi Ramadhan Andriono | [Read More](https://medium.com/p/3ea19b11f5c2) |
-| Fri, 13 Mar 2026 15:06:37 GMT | Cyberattack on Telus: Hackers Allegedly Exfiltrate Hundreds of Terabytes of Sensitive Data | Ananthuharikumar | [Read More](https://medium.com/p/a9829a479371) |
-| Fri, 13 Mar 2026 15:01:05 GMT | Reverse Engineering a Password Checker — picoCTF PW Crack 3 | Subrat Samantaray | [Read More](https://medium.com/p/95112d9cec2f) |
-| Fri, 13 Mar 2026 15:00:41 GMT | How Cyber Events Quietly Distort M&A Deals | Digital Defense | [Read More](https://medium.com/p/325d37e5686a) |
-| Fri, 13 Mar 2026 14:57:38 GMT | Security-by-Design Agents | Ana Maria Bezerra Maimoni | [Read More](https://medium.com/p/0ffe61a2700e) |
-| Fri, 13 Mar 2026 14:55:26 GMT | Web Security Series #2 — Bypassing Authentication via MFA Tampering (Second-Factor Replay Attack) | Laibakashif | [Read More](https://medium.com/p/ddb578f6ffc3) |
-| Fri, 13 Mar 2026 14:50:35 GMT | The Deterministic Frontier: Why Your AI Infrastructure is Structurally Flawed. | Gustavo Okamoto | [Read More](https://medium.com/p/a20fcd42bb39) |
-| Fri, 13 Mar 2026 14:50:24 GMT | Claude Code Will Do Anything You Let It — Here’s How to Control What That Is | Ayesha Mughal | [Read More](https://medium.com/p/f2037ff9f704) |
