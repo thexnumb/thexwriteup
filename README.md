@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Mar 2026 19:33:15 GMT | Suno’s Hidden Tracking Infrastructure: Exposing Undisclosed Surveillance on the AI Music Platform | Mr. Duck | [Read More](https://medium.com/p/68c771ae7b3e) |
+| Fri, 13 Mar 2026 19:31:33 GMT | The Cybersecurity Risks of Generative AI: What Organizations Need to Know | Hamza Naveed Mohammed | [Read More](https://medium.com/p/eae187d8d926) |
+| Fri, 13 Mar 2026 19:30:40 GMT | Understanding TLS Handshake by Capturing HTTPS Traffic with Wireshark and Burp Suite | Girish B Nair | [Read More](https://medium.com/p/78ab968997df) |
+| Fri, 13 Mar 2026 19:23:15 GMT | MongoDB Secure Deployment & Hardening Guide | SOCFortress | [Read More](https://medium.com/p/520dd85d8875) |
+| Fri, 13 Mar 2026 19:20:34 GMT | RJ-45 Connectors and Ethernet Ports: How Network Cables Connect Devices | Ndu | [Read More](https://medium.com/p/5f0eda816b84) |
+| Fri, 13 Mar 2026 19:19:00 GMT | MITRE ATT&CK | Yash Thopate | [Read More](https://medium.com/p/3ad0006c824b) |
+| Fri, 13 Mar 2026 19:17:36 GMT | Your Company Banned ChatGPT ! But AI Never Actually Left Your Network | Paritosh | [Read More](https://medium.com/p/328c811f1511) |
+| Fri, 13 Mar 2026 19:10:40 GMT | From Static HTML to a Local Domain: Hosting a Flask + PostgreSQL Web App with Nginx on Linux | Girish B Nair | [Read More](https://medium.com/p/608ae3ef124c) |
+| Fri, 13 Mar 2026 19:04:14 GMT | Why Some Penetration Tests Cost $10K and Others $3K | Emory French | [Read More](https://medium.com/p/4e8b598b86af) |
+| Fri, 13 Mar 2026 19:03:18 GMT | PortSwigger Is Amazing… But It Can Overwhelm Most Of Us | the_air_cyborg | [Read More](https://medium.com/p/991227e8a4ce) |
+| Fri, 13 Mar 2026 19:03:01 GMT | Red Stone One Carat CTF — From Brute Force to Root Shell | Roshan Rajbanshi | [Read More](https://medium.com/p/b39bf0c57d9a) |
+| Fri, 13 Mar 2026 18:56:00 GMT | A.I. Basics: What It Is, How It Learns, and Why It Matters in Cybersecurity | Dfaults | [Read More](https://medium.com/p/99fd71964487) |
+| Fri, 13 Mar 2026 18:55:23 GMT | The 2026 Blueprint: How to Land Your First SOC Analyst Role (With Zero Professional Experience) | The Daily Cyber News | [Read More](https://medium.com/p/3ed290354456) |
 | Fri, 13 Mar 2026 18:51:00 GMT | How I Found a Critical SQL Injection in an “Abandoned” Website: Exploiting a Rare Chain of… | Eduardo F | [Read More](https://medium.com/p/10e5e5615b29) |
 | Fri, 13 Mar 2026 18:47:53 GMT | How SMBs Can Proactively Strengthen Cybersecurity | Matthew.Rosenquist | [Read More](https://medium.com/p/3f5d66838fa8) |
 | Fri, 13 Mar 2026 18:46:00 GMT | I Spent a Week Researching What the LastPass Breach Actually Did to People. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/e731947e4420) |
@@ -99,16 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Mar 2026 13:56:30 GMT | RootMe Write-Up - TryHackMe | Nazeer Rassed | [Read More](https://medium.com/p/354e94f6e946) |
 | Fri, 13 Mar 2026 13:56:03 GMT | My First Bug Bounty: Finding an Email Verification Bypass $$$ | Ankit Rathva aka Gujarati Hacker | [Read More](https://medium.com/p/c2f1d725e830) |
 | Fri, 13 Mar 2026 13:51:55 GMT | Cracking Hidden Password Logic -PicoCTF “PW Crack 2” | Subrat Samantaray | [Read More](https://medium.com/p/ec288f52fc62) |
-| Fri, 13 Mar 2026 13:46:53 GMT | I didn’t mean to need you | Half a Cup Full | [Read More](https://medium.com/p/362da8b8a122) |
-| Fri, 13 Mar 2026 13:45:40 GMT | WiFi 8 Is Coming Before Most People Even Own a WiFi 7 Router. | Robert Shane Kirkpatrick | [Read More](https://medium.com/p/f01f016c0500) |
-| Fri, 13 Mar 2026 13:42:23 GMT | OnSystemShellDredd Walkthrough (proving ground-play) | cyber_public_school | [Read More](https://medium.com/p/b8faa92a371c) |
-| Fri, 13 Mar 2026 13:39:37 GMT | 2026 North America Elite Social Safety Report: NYC, LA & Toronto Audit Highlights | TT USA Security & Elite Social Research | [Read More](https://medium.com/p/cb12915ae48f) |
-| Fri, 13 Mar 2026 13:30:50 GMT | После волны банов Overwolf: почему Melonity остался полностью чистым в Dota 2 | Aurelivoines | [Read More](https://medium.com/p/2a6881f4d977) |
-| Fri, 13 Mar 2026 13:30:43 GMT | m00nwalk2 .. picoCTF | Configx | [Read More](https://medium.com/p/6326b4211c51) |
-| Fri, 13 Mar 2026 13:24:33 GMT | Online Cybersecurity Training: Courses, Certifications, and Tips | Janbask Training | [Read More](https://medium.com/p/69152d805c3a) |
-| Fri, 13 Mar 2026 13:21:33 GMT | Moltbook: The AI-Only Social Network and Its Security Risks | Jyotiraditya | [Read More](https://medium.com/p/af2ea5d66db2) |
-| Fri, 13 Mar 2026 13:18:05 GMT | The McKinsey AI Breach: How an Autonomous Agent Exposed 46 Million Messages | Alessandro Pignati | [Read More](https://medium.com/p/c91e09b891eb) |
-| Fri, 13 Mar 2026 13:18:00 GMT | Hackademic RTB1 CTF Writeup - Linux Privilege Escalation | Pentester Club | [Read More](https://medium.com/p/19c7876913c9) |
-| Fri, 13 Mar 2026 13:05:55 GMT | Understanding IPv4 vs IPv6 and Network Topologies — A Beginner-Friendly Guide | Mohammad Rammal | [Read More](https://medium.com/p/adae9a576eca) |
-| Fri, 13 Mar 2026 12:53:55 GMT | Remote Code Execution (RCE) Vulnerability | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/69b7ce3dd7f0) |
-| Fri, 13 Mar 2026 12:51:13 GMT | The Future of Tech - What’s Coming in 2026 | Impronics Technologies | [Read More](https://medium.com/p/add448155901) |
