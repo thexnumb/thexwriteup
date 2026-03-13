@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Mar 2026 08:28:47 GMT | Can AI Detect Cyber Attacks Better Than Humans? | Antonyrajvedamanickam | [Read More](https://medium.com/p/a2e0aa81397f) |
+| Fri, 13 Mar 2026 08:21:56 GMT | Basic Networking Concepts Explained for Beginners Step by Step | cyber security Updates | [Read More](https://medium.com/p/3218ee0317e0) |
+| Fri, 13 Mar 2026 08:17:39 GMT | Pentesting Playbook | Harshitaa Ashish | [Read More](https://medium.com/p/4773f8c53193) |
+| Fri, 13 Mar 2026 08:17:25 GMT | 3D Reconstruction Technology Market Revenue Set for Steady Growth by 2035 | NIkita Poplai | [Read More](https://medium.com/p/f949e7471211) |
+| Fri, 13 Mar 2026 08:14:28 GMT | WhatsApp OSINT: The Hidden Intelligence Behind “Online” Status | cybrNK | [Read More](https://medium.com/p/a3d7591cda3b) |
+| Fri, 13 Mar 2026 08:12:45 GMT | The Invisible Observer: A Deep Dive into Spyware and Digital Surveillance | Pentexa Cyber Security | [Read More](https://medium.com/p/a4b33175c8c0) |
+| Fri, 13 Mar 2026 08:10:31 GMT | Learning Through the Google Cybersecurity Professional Certificate | Raksha | [Read More](https://medium.com/p/fc17894befaf) |
+| Fri, 13 Mar 2026 08:05:30 GMT | Journeys of HackTheBox Labs Challenges - Flag Command | Hammam Awis Zukimi | [Read More](https://medium.com/p/0c5edf2a43f9) |
+| Fri, 13 Mar 2026 08:04:35 GMT | OWASP Top 10 For Flutter — M6: Inadequate Privacy Controls in Flutter & Dart | Talsec | [Read More](https://medium.com/p/24b31f82db3e) |
+| Fri, 13 Mar 2026 07:58:41 GMT | ICAART 2026: Reflections on AI, Cybersecurity, and the Future of Adaptive Defense Systems | DIPI-ResearchGroup | [Read More](https://medium.com/p/bbb3f8daceb1) |
+| Fri, 13 Mar 2026 07:57:18 GMT | Information disclosure in error messages - Lab -01 | M o $ t a | [Read More](https://medium.com/p/588b3d76b76e) |
+| Fri, 13 Mar 2026 07:56:44 GMT | When Hackers Level Up: The Sneaky Game of Privilege Escalation | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/fe007c1aa3b1) |
+| Fri, 13 Mar 2026 07:52:18 GMT | Securing Secrets in Rails: A Guide to credentials.yml in Ruby on Rails | Ravi Prakash | [Read More](https://medium.com/p/074843c92f9b) |
+| Fri, 13 Mar 2026 07:49:53 GMT | Chaining SQLi into RCE — A Lab Case Study | Shatha511 | [Read More](https://medium.com/p/23590bb23a3a) |
 | Fri, 13 Mar 2026 07:42:48 GMT | TryHackMe :Attacktive Directory Pentesting Write-Up | Jo | [Read More](https://medium.com/p/7354f7a39f6c) |
 | Fri, 13 Mar 2026 07:41:35 GMT | Securing Kubernetes in Production: A Practical Guide | Majidbasharat | [Read More](https://medium.com/p/8972fd78c447) |
 | Fri, 13 Mar 2026 07:39:40 GMT | How Audio Jammers Stop Hidden Microphone Recordings | Laura Turcu | [Read More](https://medium.com/p/5cc2eb2199fe) |
@@ -99,17 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Mar 2026 01:27:57 GMT | What Security Analysts Actually Look at All Day | Armansyah hakim | [Read More](https://medium.com/p/207cc301cc83) |
 | Fri, 13 Mar 2026 01:21:19 GMT | Write-Up TryHackMe: Attacktive Directory | Athiyyah Dzatil | [Read More](https://medium.com/p/e72bde2b8503) |
 | Fri, 13 Mar 2026 01:17:34 GMT | The AI-BOM Nightmare: Why You Can’t Cryptographically Hash a Concept | Jose Baena Cobos | [Read More](https://medium.com/p/548bef164aed) |
-| Fri, 13 Mar 2026 01:06:02 GMT | Is Ecuador becoming a testing ground for international security cooperation? | Raquel Castro | [Read More](https://medium.com/p/b86804c090ce) |
-| Fri, 13 Mar 2026 01:01:38 GMT | How are you protecting your AI agents from prompt injection? | Cris Santiago | [Read More](https://medium.com/p/99fca6e5ebcd) |
-| Fri, 13 Mar 2026 01:01:01 GMT | Avoidant Attachment Style: Why You Push People Away and How to Stop — InsightLo | Insightlo | [Read More](https://medium.com/p/01b9fa6836d0) |
-| Fri, 13 Mar 2026 00:56:24 GMT | Account Takeover Time‑Sensitive Password Reset Tokens (PortSwigger Lab 28) | Anonymousd | [Read More](https://medium.com/p/c53b91494dba) |
-| Fri, 13 Mar 2026 00:56:08 GMT | The Ghost in the Machine | Pablo Irassar | [Read More](https://medium.com/p/b7277850d3a5) |
-| Fri, 13 Mar 2026 00:55:22 GMT | OpenClaw Part II: The Growing Security Risks Behind One-Click RCE in AI Agents | Criminal IP | [Read More](https://medium.com/p/dc2441c06bc4) |
-| Fri, 13 Mar 2026 00:25:56 GMT | Penetration Testing | Mac Sunny | [Read More](https://medium.com/p/66cd5eb1ca09) |
-| Fri, 13 Mar 2026 00:20:00 GMT | เมื่อสงครามพลังงานเปลี่ยนโลกการทำงาน — ภัยไซเบอร์คลื่นใหม่ที่ซ่อนตัวในทุก WFH Connection | Attaphon Phayak | [Read More](https://medium.com/p/cb4cf6d0aa19) |
-| Fri, 13 Mar 2026 00:16:00 GMT | Ethernet Cables and Their Categories (Cat5, Cat5e, Cat6, Cat6a, Cat7): Understanding Speed… | Ndu | [Read More](https://medium.com/p/aeaf25e04233) |
-| Fri, 13 Mar 2026 00:01:01 GMT | Guía Maestra de SQL Injection (SQLi): Tipos, Payloads y Técnicas de Evasión | JPablo13 | [Read More](https://medium.com/p/f1640ccdeac4) |
-| Thu, 12 Mar 2026 23:46:39 GMT | 10 Silent Bugs That Break Your Code | Skill Stuff | [Read More](https://medium.com/p/3b8af454f420) |
-| Thu, 12 Mar 2026 23:04:39 GMT | ‍♂️How I Escalated From Domain User to Domain Admin | Jabaribrown | [Read More](https://medium.com/p/c62488453360) |
-| Thu, 12 Mar 2026 22:51:26 GMT | Payment Bypass That Let Me Get a Premium Course for $0 [Business Logic Flaw] P2 | El Professor Qais | [Read More](https://medium.com/p/71c554d9c274) |
-| Thu, 12 Mar 2026 22:50:57 GMT | Understanding and Demonstrating ARP Spoofing > A Comprehensive Guide | Huzaifah Tahir | [Read More](https://medium.com/p/6d74b05b0884) |
