@@ -12,11 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Mar 2026 20:32:21 GMT | My First Steps into Malware Development | oussama | [Read More](https://medium.com/p/5446e81474a1) |
+| Fri, 13 Mar 2026 20:31:00 GMT | Your SIM is Still in Your Pocket, But a Hacker Just Used It to Empty Your Bank | Lalit Tech Savvy | [Read More](https://medium.com/p/2e4fdbf8d56a) |
+| Fri, 13 Mar 2026 20:28:06 GMT | Principal HackTheBox Writeup | Heliman | [Read More](https://medium.com/p/fc4e51bc5f4d) |
+| Fri, 13 Mar 2026 20:25:35 GMT | Ghost in the Pipeline: CI/CD as the New Perimeter | zerOiQ | [Read More](https://medium.com/p/d9d8248cac08) |
+| Fri, 13 Mar 2026 20:21:34 GMT | Analysis: Divurion Group Emerges as “Most Ruthless” Dark Web Threat as North Korea Strike Reveals… | Charles Burke | [Read More](https://medium.com/p/fef75251f855) |
+| Fri, 13 Mar 2026 20:17:56 GMT | What Is Risk-Adjusted Yield and Why Does It Matter? | Mercybesthairs | [Read More](https://medium.com/p/015a073dd2ea) |
+| Fri, 13 Mar 2026 20:15:48 GMT | The compliance cliff nobody in JavaScript/Typescript land is talking about | Shantanu Sharma | [Read More](https://medium.com/p/0f88bf1205f1) |
+| Fri, 13 Mar 2026 20:15:40 GMT | Building a Personal Cybersecurity Research Lab using Proxmox Virtualization | Dheeraj Ramasahayam | [Read More](https://medium.com/p/782378dc0a6a) |
+| Fri, 13 Mar 2026 20:14:02 GMT | Why Hackers Target Mid-Sized Companies More Than Enterprises | JSOC IT BLOG | [Read More](https://medium.com/p/6f1f6d71166b) |
+| Fri, 13 Mar 2026 20:12:20 GMT | Securing OpenClaw on a Dedicated Mac Mini: A Complete Pre-Launch Security Audit | OffByOne | [Read More](https://medium.com/p/394f352fed0f) |
+| Fri, 13 Mar 2026 20:09:33 GMT | AI-Based Intrusion Detection Systems for Modern Enterprise Networks | Dheeraj Ramasahayam | [Read More](https://medium.com/p/8b410a3086bf) |
+| Fri, 13 Mar 2026 20:06:12 GMT | Strengthening Business Security with Cyber Resilience and Advanced Data Analytics | One Federal Solution | [Read More](https://medium.com/p/d1c71967f53e) |
+| Fri, 13 Mar 2026 19:55:14 GMT | AI Advances Relevant to Application Security and Software Supply Chain Security | Praveen Malhan | [Read More](https://medium.com/p/f5b10604bcfb) |
+| Fri, 13 Mar 2026 19:51:06 GMT | Must-Take Precautions While Designing Your Backend | Alok | [Read More](https://medium.com/p/5feae108bada) |
+| Fri, 13 Mar 2026 19:38:05 GMT | History & Past defacement from Facebook page | HonkSecurity | [Read More](https://medium.com/p/2afcadde48cd) |
 | Fri, 13 Mar 2026 19:33:15 GMT | Suno’s Hidden Tracking Infrastructure: Exposing Undisclosed Surveillance on the AI Music Platform | Mr. Duck | [Read More](https://medium.com/p/68c771ae7b3e) |
 | Fri, 13 Mar 2026 19:31:33 GMT | The Cybersecurity Risks of Generative AI: What Organizations Need to Know | Hamza Naveed Mohammed | [Read More](https://medium.com/p/eae187d8d926) |
 | Fri, 13 Mar 2026 19:30:40 GMT | Understanding TLS Handshake by Capturing HTTPS Traffic with Wireshark and Burp Suite | Girish B Nair | [Read More](https://medium.com/p/78ab968997df) |
 | Fri, 13 Mar 2026 19:23:15 GMT | MongoDB Secure Deployment & Hardening Guide | SOCFortress | [Read More](https://medium.com/p/520dd85d8875) |
 | Fri, 13 Mar 2026 19:20:34 GMT | RJ-45 Connectors and Ethernet Ports: How Network Cables Connect Devices | Ndu | [Read More](https://medium.com/p/5f0eda816b84) |
+| Fri, 13 Mar 2026 19:19:15 GMT | Deux ans de support Bitdefender pour un bug bénin : analyse complète d’un échec structurel. | nicolas.baer | [Read More](https://medium.com/p/06af8cd65a64) |
 | Fri, 13 Mar 2026 19:19:00 GMT | MITRE ATT&CK | Yash Thopate | [Read More](https://medium.com/p/3ad0006c824b) |
 | Fri, 13 Mar 2026 19:17:36 GMT | Your Company Banned ChatGPT ! But AI Never Actually Left Your Network | Paritosh | [Read More](https://medium.com/p/328c811f1511) |
 | Fri, 13 Mar 2026 19:10:40 GMT | From Static HTML to a Local Domain: Hosting a Flask + PostgreSQL Web App with Nginx on Linux | Girish B Nair | [Read More](https://medium.com/p/608ae3ef124c) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Mar 2026 14:55:26 GMT | Web Security Series #2 — Bypassing Authentication via MFA Tampering (Second-Factor Replay Attack) | Laibakashif | [Read More](https://medium.com/p/ddb578f6ffc3) |
 | Fri, 13 Mar 2026 14:50:35 GMT | The Deterministic Frontier: Why Your AI Infrastructure is Structurally Flawed. | Gustavo Okamoto | [Read More](https://medium.com/p/a20fcd42bb39) |
 | Fri, 13 Mar 2026 14:50:24 GMT | Claude Code Will Do Anything You Let It — Here’s How to Control What That Is | Ayesha Mughal | [Read More](https://medium.com/p/f2037ff9f704) |
-| Fri, 13 Mar 2026 14:49:54 GMT | SQL Injection UNION Attack Tutorial: Finding the Number of Columns Step-by-Step | Esraa | [Read More](https://medium.com/p/e8e98aca36e8) |
-| Fri, 13 Mar 2026 14:44:44 GMT | Introduction to Computer Networks in Cybersecurity: Why Every Security Professional Must Understand… | Ferdi Edogawa | [Read More](https://medium.com/p/012ef34d596c) |
-| Fri, 13 Mar 2026 14:36:05 GMT | Building a Low-Cost Self-Hosted Cyber Intelligence Platform | Jeff Kingsland | [Read More](https://medium.com/p/fa4baf1f3f62) |
-| Fri, 13 Mar 2026 14:31:36 GMT | An AI Agent Just Went Rogue to Mine Crypto. Why That’s Actually Terrifying. | MohamedAbdelmenem | [Read More](https://medium.com/p/48a8e4a85708) |
-| Fri, 13 Mar 2026 14:31:01 GMT | Linux Fundamentals in Practice: File Transfers, Process Management, and System Automation | Secured By Sebastion | [Read More](https://medium.com/p/c324e8bbf71b) |
-| Fri, 13 Mar 2026 14:30:10 GMT | Building a Vulnerable Cloud Pentest Lab with Terraform | Andrey Pautov | [Read More](https://medium.com/p/9858ac96b29e) |
-| Fri, 13 Mar 2026 14:29:27 GMT | Wireshark Explained: A Comprehensive Guide | Sarah Qym | [Read More](https://medium.com/p/1f5fdfa9f69d) |
-| Fri, 13 Mar 2026 14:16:00 GMT | Microsoft’s Jebel Ali Exposes Gulf AI Risk | James Kuhman | [Read More](https://medium.com/p/86b6df473f30) |
-| Fri, 13 Mar 2026 14:11:59 GMT | How I Found a 0-Day in an Electron App’s Email Viewer | 0 day exploit | [Read More](https://medium.com/p/e25f594b0ba1) |
-| Fri, 13 Mar 2026 14:11:28 GMT | Reflective DLL + SRDI Hybrid Attack | Shahriar Galib | [Read More](https://medium.com/p/a9942ab7a2a7) |
-| Fri, 13 Mar 2026 14:11:01 GMT | Danbury Homeowner’s Guide to Locksmith Services - SLK | Sure Lock & Key LLC | [Read More](https://medium.com/p/a119d0c756f0) |
-| Fri, 13 Mar 2026 14:10:30 GMT | The Password is ‘admin’: Why Default Credentials Are Still Breaking the Internet | Anotherhadi | [Read More](https://medium.com/p/68addb1241fe) |
-| Fri, 13 Mar 2026 13:59:17 GMT | Writeup: Eksplorasi Keamanan Active Directory — Basic Enumeration (TryHackMe) | Agungsaraswati | [Read More](https://medium.com/p/0449b2bbdb11) |
-| Fri, 13 Mar 2026 13:56:30 GMT | RootMe Write-Up - TryHackMe | Nazeer Rassed | [Read More](https://medium.com/p/354e94f6e946) |
-| Fri, 13 Mar 2026 13:56:03 GMT | My First Bug Bounty: Finding an Email Verification Bypass $$$ | Ankit Rathva aka Gujarati Hacker | [Read More](https://medium.com/p/c2f1d725e830) |
-| Fri, 13 Mar 2026 13:51:55 GMT | Cracking Hidden Password Logic -PicoCTF “PW Crack 2” | Subrat Samantaray | [Read More](https://medium.com/p/ec288f52fc62) |
