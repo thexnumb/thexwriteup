@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Mar 2026 11:31:00 GMT | Advanced IDOR Exploitation: Beyond the Basics | Ishant Gupta | [Read More](https://medium.com/p/c8a62e7885ce) |
+| Fri, 13 Mar 2026 11:22:42 GMT | Introducing TruePB.net: A Running Insight, Rankings and Results Platform — Part 3 | Michael | [Read More](https://medium.com/p/6dfb98fdcc0d) |
+| Fri, 13 Mar 2026 11:22:24 GMT | Building a Career in Cybersecurity After BCA: Skills, Courses, and Opportunities | Onlinesrmsikkim | [Read More](https://medium.com/p/8ddb70bdeb0c) |
+| Fri, 13 Mar 2026 11:21:45 GMT | The $4.88 Million Risk: Why Disaster Recovery Demands Dedicated Servers | Servers99 | [Read More](https://medium.com/p/45c7a0a447ca) |
+| Fri, 13 Mar 2026 11:19:32 GMT | Top Cyber Security Companies in Chennai 2026 | Vinod Senthil | [Read More](https://medium.com/p/8f0a590072aa) |
+| Fri, 13 Mar 2026 11:17:44 GMT | Görünmeyeni Korumak — Kriptolojiye Giriş | BekirBurakSaka | [Read More](https://medium.com/p/60effeb81edd) |
+| Fri, 13 Mar 2026 11:12:42 GMT | The Ultimate Cisco Router Security Audit: 9 Essential Checks Every Engineer Must Run | CyberGaar | [Read More](https://medium.com/p/878f59118408) |
+| Fri, 13 Mar 2026 11:11:00 GMT | Securing Azure Virtual Networks with NSGs and ASGs | Ibidun Isaac | [Read More](https://medium.com/p/38a727fd17cf) |
+| Fri, 13 Mar 2026 11:09:38 GMT | Securing the Smart Factory: Cloud Architecture for Heavy Industrial Weaving | Punithm | [Read More](https://medium.com/p/09ef3db15ab3) |
+| Fri, 13 Mar 2026 11:08:07 GMT | Review and Analysis of the UK House of Lords Report: Rebuilding Forensic Science for Criminal… | Ritujaa Kelaskar | [Read More](https://medium.com/p/521494be434c) |
+| Fri, 13 Mar 2026 11:05:30 GMT | Product Hunt launch to Cyber Extortion in 24 hours | Ekaansh Verma | [Read More](https://medium.com/p/5ddfd32ff0a7) |
+| Fri, 13 Mar 2026 11:05:26 GMT | M365’te Gerçek Data Governance: Purview + DLP + Insider Risk Entegrasyonu — Bölüm 3 | Yiğit Şener | [Read More](https://medium.com/p/e0e320d06303) |
+| Fri, 13 Mar 2026 11:02:44 GMT | From 2025 Findings to 2026 Risk: What Our Pen Testers Are Seeing Now | MTI Technology UK | [Read More](https://medium.com/p/ddad5525ec10) |
+| Fri, 13 Mar 2026 11:01:38 GMT | Nothing To Do With Money | O. J. Okpabi | [Read More](https://medium.com/p/9726a306d0b1) |
+| Fri, 13 Mar 2026 11:00:01 GMT | Ghost Leak: Beacon is already dead and gone, but keeps calling back to Home. | Carrie | [Read More](https://medium.com/p/7962c2f4d495) |
+| Fri, 13 Mar 2026 10:55:37 GMT | 6-Month AI Diploma in Cyber Security in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/7cb51a825319) |
+| Fri, 13 Mar 2026 10:53:39 GMT | The Cybersecurity Career Roadmap Most Beginners Follow Is Designed to Keep Them Beginners — Here Is… | R.H Rizvi | [Read More](https://medium.com/p/58f34caa7003) |
+| Fri, 13 Mar 2026 10:51:07 GMT | How I Found Three Race Conditions That Let Me Manipulate an Entire Review System from One Free… | Sreejihkn | [Read More](https://medium.com/p/659aa410b4c2) |
+| Fri, 13 Mar 2026 10:38:07 GMT | Insecure Deserialization in Java | Redfox Security | [Read More](https://medium.com/p/15b33986a388) |
+| Fri, 13 Mar 2026 10:32:25 GMT | SQL Injection: The Bug Born From Deadline Pressure | Rajeswari | [Read More](https://medium.com/p/6ede9d18d5ab) |
 | Fri, 13 Mar 2026 10:29:49 GMT | Metasploit Pro 5.0.0 Introduces Advanced Capabilities for Modern Security Testing | Jas | [Read More](https://medium.com/p/dd5c80fe8570) |
 | Fri, 13 Mar 2026 10:25:44 GMT | Your AI Policy Was Written For the AI You Imagined, Not The Reality… So It’s Useless. | Sharon Shumbambiri | [Read More](https://medium.com/p/95b497f2eee9) |
 | Fri, 13 Mar 2026 10:16:00 GMT | When the World Feels a Little Closer to Midnight.. | Rick Gregson | [Read More](https://medium.com/p/b2b50eb364e0) |
@@ -93,23 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Mar 2026 06:35:05 GMT | Educational Visit to Phillaur Police Academy: A Practical Exposure to Forensic Science and Police… | Ipseeta Thakur | [Read More](https://medium.com/p/5f93e288b4c6) |
 | Fri, 13 Mar 2026 06:29:02 GMT | Living-off-the-Land Attacks: How Adversaries Use Legitimate Tools to Stay Invisible | Cynox Security LLP. | [Read More](https://medium.com/p/1b6956c467d7) |
 | Fri, 13 Mar 2026 06:18:53 GMT | Residential Security Made Easy: Tips for Every Household | Big Guys Agency | [Read More](https://medium.com/p/db9e2a15f8db) |
-| Fri, 13 Mar 2026 06:17:14 GMT | Inside the Dark Web: The Hidden Internet Most People Never See | The Cyber Ground | [Read More](https://medium.com/p/6a7e4ce599c3) |
-| Fri, 13 Mar 2026 06:16:33 GMT | Top 10 Open Source Hardware Projects for Makers: From Raspberry Pi Experiments to Custom PCB… | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/e2330566b015) |
-| Fri, 13 Mar 2026 06:15:14 GMT | IAM & AAA: The Digital Gatekeepers | Sujon Al Mamun | [Read More](https://medium.com/p/3604129ba8d6) |
-| Fri, 13 Mar 2026 06:01:00 GMT | How I Exploited Three API Vulnerabilities in a Banking Application | Odunlade Adeola | [Read More](https://medium.com/p/5ceff7c70449) |
-| Fri, 13 Mar 2026 05:52:22 GMT | Python Projects For CyberSecurity -Port Scanner | SAMIN BIN HUMAYUN | [Read More](https://medium.com/p/e33bbd6c09af) |
-| Fri, 13 Mar 2026 05:48:47 GMT | AI Hacking isn’t how you think it is | Said-Abbosxon Nabijonov - 0trc | [Read More](https://medium.com/p/555c05aa19a7) |
-| Fri, 13 Mar 2026 05:46:06 GMT | Vulnerabilities makes UPS or Why CVSS and EPSS doesn’t work anymore | Sergey Gordeychik | [Read More](https://medium.com/p/a346c027595f) |
-| Fri, 13 Mar 2026 05:36:51 GMT | Top Safety Responsibilities of a Traffic Marshal on Site | Jane Tang | [Read More](https://medium.com/p/fc9dec69993f) |
-| Fri, 13 Mar 2026 05:33:42 GMT | Business Continuity vs Disaster Recovery: What’s the Difference? | GRC Software | [Read More](https://medium.com/p/b3926ee0cc0e) |
-| Fri, 13 Mar 2026 05:31:24 GMT | Day 73 — Why Policy Matters in This AI Project, and Why Kyverno Deserves a Serious Place in the… | Alok Rahul | [Read More](https://medium.com/p/c4437d2293de) |
-| Fri, 13 Mar 2026 05:27:33 GMT | bloat.py | Vishvambhar ranoshe | [Read More](https://medium.com/p/9b70e94e7f49) |
-| Fri, 13 Mar 2026 05:24:39 GMT | I Grew Up in a Small Town in Punjab. I Always Wanted to Win. | Aakpuri | [Read More](https://medium.com/p/41cd730553f7) |
-| Fri, 13 Mar 2026 05:21:30 GMT | When the Admin Console Becomes the Weapon: Hunting the Handala Threat Actor in Microsoft… | Surya Teja | [Read More](https://medium.com/p/f972c7d765d3) |
-| Fri, 13 Mar 2026 05:21:00 GMT | Spring Boot Security - Add Login to Your API in 10 Minutes | Dhruval Vaishnav | [Read More](https://medium.com/p/eb37c3238552) |
-| Fri, 13 Mar 2026 05:21:00 GMT | How SIEMs Are Learning to Prioritize Risk — Not Just Events | NetWitness | [Read More](https://medium.com/p/daa35d72a0aa) |
-| Fri, 13 Mar 2026 05:20:30 GMT | 2025 Manufacturing Sector Global Cyber Threat Landscape | NSHC ThreatRecon Team | [Read More](https://medium.com/p/b3ecd2835c14) |
-| Fri, 13 Mar 2026 05:20:17 GMT | The Silent Cyber War of 2026: Why Businesses Need to Rethink Security Now | Lakshita Gulliya | [Read More](https://medium.com/p/928d84cf312a) |
-| Fri, 13 Mar 2026 05:19:01 GMT | *** El silencio detrás del crimen. | Jesus Jiménez | [Read More](https://medium.com/p/f38d97e73762) |
-| Fri, 13 Mar 2026 05:14:13 GMT | The Future of Cyber Intelligence for Smart IT Security | Sparklecode Technologies | [Read More](https://medium.com/p/03cc2d2dcae3) |
-| Fri, 13 Mar 2026 05:13:58 GMT | ML-Powered Cybersecurity: Building Intelligent Defense Systems | Nayan Goel | [Read More](https://medium.com/p/5f0bb3c236d2) |
