@@ -12,8 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Mar 2026 10:29:49 GMT | Metasploit Pro 5.0.0 Introduces Advanced Capabilities for Modern Security Testing | Jas | [Read More](https://medium.com/p/dd5c80fe8570) |
+| Fri, 13 Mar 2026 10:25:44 GMT | Your AI Policy Was Written For the AI You Imagined, Not The Reality… So It’s Useless. | Sharon Shumbambiri | [Read More](https://medium.com/p/95b497f2eee9) |
+| Fri, 13 Mar 2026 10:16:00 GMT | When the World Feels a Little Closer to Midnight.. | Rick Gregson | [Read More](https://medium.com/p/b2b50eb364e0) |
+| Fri, 13 Mar 2026 10:14:02 GMT | Best Phishing Simulation Services in India - Awareness Training | Thiripathiv | [Read More](https://medium.com/p/f8a2c5e93281) |
+| Fri, 13 Mar 2026 10:08:01 GMT | My Linux Learning Journey — Lab 2 (Understanding File Permissions) | Hemaprasadpotnuru | [Read More](https://medium.com/p/64c2a1ec75b7) |
+| Fri, 13 Mar 2026 10:00:36 GMT | WAF Logging and Monitoring: Why Visibility Matters for Web Security | John Hawkins | [Read More](https://medium.com/p/355c0dcb400d) |
+| Fri, 13 Mar 2026 10:00:29 GMT | Cert-Based Authentication | Jeffersonpacana | [Read More](https://medium.com/p/eca715b5dada) |
+| Fri, 13 Mar 2026 09:59:20 GMT | From LPG to Induction: The Quiet Revolution Reshaping India’s Energy Economics | Abhishek | [Read More](https://medium.com/p/0f2ea5488fe7) |
+| Fri, 13 Mar 2026 09:58:57 GMT | From Minecraft to Pentesting | Hamza Sajid | [Read More](https://medium.com/p/6bf2d32eeafb) |
+| Fri, 13 Mar 2026 09:56:01 GMT | Day 0 Documentation: What Every Company Should Record Immediately | Gaurav Shukla | [Read More](https://medium.com/p/fc9920773238) |
+| Fri, 13 Mar 2026 09:53:49 GMT | Hands-On Cryptography and Network Security: From Web Servers to Threat Modeling | Varshithavarshu | [Read More](https://medium.com/p/a65203c41e7a) |
+| Fri, 13 Mar 2026 09:53:28 GMT | Why Your Code Still Matters Even with Great APIs | Payscribe | [Read More](https://medium.com/p/bf26573e3aec) |
+| Fri, 13 Mar 2026 09:51:30 GMT | Understanding the OSI Model: A Beginner-Friendly Guide for Networking and Cybersecurity | Namrata Dandgawal | [Read More](https://medium.com/p/92e5acbaff77) |
+| Fri, 13 Mar 2026 09:44:20 GMT | Solr 6.x — SolrException Unable to create core [xxx] Caused by: Input length = 1 | Qavi Tech | [Read More](https://medium.com/p/86b352f93a34) |
+| Fri, 13 Mar 2026 09:41:00 GMT | The Four Tiers of AI Augmented Content | Namir Sagheenanajar | [Read More](https://medium.com/p/abd049e4b55d) |
+| Fri, 13 Mar 2026 09:38:22 GMT | AI Jailbreaking Is Now Sold as a Service. Here’s What That Means for You | Muhammad Haider Tallal | [Read More](https://medium.com/p/ea96af8b0a9b) |
 | Fri, 13 Mar 2026 09:38:13 GMT | Jacob The Boss— RCE to Root via JBoss JMX Console | Roshan Rajbanshi | [Read More](https://medium.com/p/27fe6c23ab8d) |
 | Fri, 13 Mar 2026 09:35:03 GMT | OSINT Briefing — March 13, 2026: Attacks Discovered Online, AI Satellite Images, and Ghost Ships | Gianluca Galimberti | [Read More](https://medium.com/p/f8edf2f16648) |
+| Fri, 13 Mar 2026 09:33:25 GMT | DockerLabs Writeup — PyRed (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/5a6e5ebe4503) |
 | Fri, 13 Mar 2026 09:32:00 GMT | Advertising Based Video On Demand (AVOD) MarketAdvertising Based Video On Demand (AVOD) Market… | NIkita Poplai | [Read More](https://medium.com/p/798436694e59) |
 | Fri, 13 Mar 2026 09:22:34 GMT | Critical Splunk RCE Vulnerability (CVE-2026–20163) Lets Attackers Run Shell Commands on Your Server | EternalSec | [Read More](https://medium.com/p/244fcbe3497d) |
 | Fri, 13 Mar 2026 09:21:47 GMT | ️ Security Books | Jeremy ROUSSEAU - CyberSécurité | [Read More](https://medium.com/p/c0676f46c8c9) |
@@ -96,20 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Mar 2026 05:19:01 GMT | *** El silencio detrás del crimen. | Jesus Jiménez | [Read More](https://medium.com/p/f38d97e73762) |
 | Fri, 13 Mar 2026 05:14:13 GMT | The Future of Cyber Intelligence for Smart IT Security | Sparklecode Technologies | [Read More](https://medium.com/p/03cc2d2dcae3) |
 | Fri, 13 Mar 2026 05:13:58 GMT | ML-Powered Cybersecurity: Building Intelligent Defense Systems | Nayan Goel | [Read More](https://medium.com/p/5f0bb3c236d2) |
-| Fri, 13 Mar 2026 05:07:51 GMT | Advanced DevSecOps: Zero Trust, Supply Chain Security & Policy-as-Code | Alfatah Jalalludin | [Read More](https://medium.com/p/d74a30658b76) |
-| Fri, 13 Mar 2026 05:07:42 GMT | Cloud & Kubernetes Security in DevSecOps | Alfatah Jalalludin | [Read More](https://medium.com/p/338fcf2d6ab7) |
-| Fri, 13 Mar 2026 04:55:00 GMT | Weekly Threat Intelligence Report 9 Mar 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/9f7d25af7812) |
-| Fri, 13 Mar 2026 04:45:10 GMT | RAG Security — How Attackers Poison AI Knowledge Bases and What to Do About It | Kuboid Secure Layer | [Read More](https://medium.com/p/60be824fc907) |
-| Fri, 13 Mar 2026 04:43:51 GMT | How can organizations secure and control hallucinations in large language models? | NS Academy | [Read More](https://medium.com/p/cb38b2d8406f) |
-| Fri, 13 Mar 2026 04:05:21 GMT | Windows Security Tokens (Part 2) — Token Groups and Privileges | Indigo Shadow | [Read More](https://medium.com/p/57734bb2f595) |
-| Fri, 13 Mar 2026 03:53:34 GMT | TCP/IP Explained (The Backbone of the Internet) | CyberRise Institute | [Read More](https://medium.com/p/27e943cb0e37) |
-| Fri, 13 Mar 2026 03:39:33 GMT | How to Install, Set Up, and Configure an FTP Server Using vsftpd on a Linux Server | ServerMO | [Read More](https://medium.com/p/580089e26716) |
-| Fri, 13 Mar 2026 03:31:07 GMT | Your AI Agent Has Your API Keys. Anyone Can Steal Them in One Line. Here’s the Fix. | Sonu Yadav | [Read More](https://medium.com/p/05dc30424222) |
-| Fri, 13 Mar 2026 03:31:00 GMT | The Evolution of Web Application Security: Comparing OWASP Top 10 Risks from 2021 to 2025 | Priyanka Behera | [Read More](https://medium.com/p/34fe928f555e) |
-| Fri, 13 Mar 2026 03:27:07 GMT | I got tired of storing .env files in my Telegram, so I built a vault platform | Sukhrob Ilyosbekov | [Read More](https://medium.com/p/06c2e7d9397c) |
-| Fri, 13 Mar 2026 03:16:07 GMT | Lab: Reflected XSS into HTML context with all tags blocked except custom ones | mayhack | [Read More](https://medium.com/p/c6be6f71b741) |
-| Fri, 13 Mar 2026 03:04:08 GMT | Securing AI Agents: Implementing the OWASP Top 10 for Agentic Applications to my Health Data Agent | Will Velida | [Read More](https://medium.com/p/6cb556a9cf93) |
-| Fri, 13 Mar 2026 02:58:48 GMT | Too small to be ignored | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/d0610e914e86) |
-| Fri, 13 Mar 2026 02:57:37 GMT | The Walls We Built | Val Bastidas | [Read More](https://medium.com/p/ecd52d50fcf7) |
-| Fri, 13 Mar 2026 02:52:20 GMT | “Cyber Reconnaissance: Building a Banner Grabber Tool in Python” | Akhilswami | [Read More](https://medium.com/p/d4c5f54f12a3) |
-| Fri, 13 Mar 2026 02:49:29 GMT | 698 Stars, 603 Forks, 0 Legitimacy: Dissecting a Malware-Infested Polymarket Bot | Valentin Colmant | [Read More](https://medium.com/p/c34394de0f85) |
