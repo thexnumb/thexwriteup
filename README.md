@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Mar 2026 15:06:37 GMT | Cyberattack on Telus: Hackers Allegedly Exfiltrate Hundreds of Terabytes of Sensitive Data | Ananthuharikumar | [Read More](https://medium.com/p/a9829a479371) |
+| Fri, 13 Mar 2026 15:01:05 GMT | Reverse Engineering a Password Checker — picoCTF PW Crack 3 | Subrat Samantaray | [Read More](https://medium.com/p/95112d9cec2f) |
+| Fri, 13 Mar 2026 15:00:41 GMT | How Cyber Events Quietly Distort M&A Deals | Digital Defense | [Read More](https://medium.com/p/325d37e5686a) |
+| Fri, 13 Mar 2026 14:57:38 GMT | Security-by-Design Agents | Ana Maria Bezerra Maimoni | [Read More](https://medium.com/p/0ffe61a2700e) |
+| Fri, 13 Mar 2026 14:55:26 GMT | Web Security Series #2 — Bypassing Authentication via MFA Tampering (Second-Factor Replay Attack) | Laibakashif | [Read More](https://medium.com/p/ddb578f6ffc3) |
+| Fri, 13 Mar 2026 14:50:35 GMT | The Deterministic Frontier: Why Your AI Infrastructure is Structurally Flawed. | Gustavo Okamoto | [Read More](https://medium.com/p/a20fcd42bb39) |
+| Fri, 13 Mar 2026 14:50:24 GMT | Claude Code Will Do Anything You Let It — Here’s How to Control What That Is | Ayesha Mughal | [Read More](https://medium.com/p/f2037ff9f704) |
+| Fri, 13 Mar 2026 14:49:54 GMT | SQL Injection UNION Attack Tutorial: Finding the Number of Columns Step-by-Step | Esraa | [Read More](https://medium.com/p/e8e98aca36e8) |
+| Fri, 13 Mar 2026 14:44:44 GMT | Introduction to Computer Networks in Cybersecurity: Why Every Security Professional Must Understand… | Ferdi Edogawa | [Read More](https://medium.com/p/012ef34d596c) |
+| Fri, 13 Mar 2026 14:36:05 GMT | Building a Low-Cost Self-Hosted Cyber Intelligence Platform | Jeff Kingsland | [Read More](https://medium.com/p/fa4baf1f3f62) |
+| Fri, 13 Mar 2026 14:31:36 GMT | An AI Agent Just Went Rogue to Mine Crypto. Why That’s Actually Terrifying. | MohamedAbdelmenem | [Read More](https://medium.com/p/48a8e4a85708) |
+| Fri, 13 Mar 2026 14:31:01 GMT | Linux Fundamentals in Practice: File Transfers, Process Management, and System Automation | Secured By Sebastion | [Read More](https://medium.com/p/c324e8bbf71b) |
+| Fri, 13 Mar 2026 14:30:10 GMT | Building a Vulnerable Cloud Pentest Lab with Terraform | Andrey Pautov | [Read More](https://medium.com/p/9858ac96b29e) |
+| Fri, 13 Mar 2026 14:29:27 GMT | Wireshark Explained: A Comprehensive Guide | Sarah Qym | [Read More](https://medium.com/p/1f5fdfa9f69d) |
+| Fri, 13 Mar 2026 14:16:00 GMT | Microsoft’s Jebel Ali Exposes Gulf AI Risk | James Kuhman | [Read More](https://medium.com/p/86b6df473f30) |
+| Fri, 13 Mar 2026 14:11:59 GMT | How I Found a 0-Day in an Electron App’s Email Viewer | 0 day exploit | [Read More](https://medium.com/p/e25f594b0ba1) |
+| Fri, 13 Mar 2026 14:11:28 GMT | Reflective DLL + SRDI Hybrid Attack | Shahriar Galib | [Read More](https://medium.com/p/a9942ab7a2a7) |
+| Fri, 13 Mar 2026 14:11:01 GMT | Danbury Homeowner’s Guide to Locksmith Services - SLK | Sure Lock & Key LLC | [Read More](https://medium.com/p/a119d0c756f0) |
+| Fri, 13 Mar 2026 14:10:30 GMT | The Password is ‘admin’: Why Default Credentials Are Still Breaking the Internet | Anotherhadi | [Read More](https://medium.com/p/68addb1241fe) |
 | Fri, 13 Mar 2026 13:59:17 GMT | Writeup: Eksplorasi Keamanan Active Directory — Basic Enumeration (TryHackMe) | Agungsaraswati | [Read More](https://medium.com/p/0449b2bbdb11) |
 | Fri, 13 Mar 2026 13:56:30 GMT | RootMe Write-Up - TryHackMe | Nazeer Rassed | [Read More](https://medium.com/p/354e94f6e946) |
 | Fri, 13 Mar 2026 13:56:03 GMT | My First Bug Bounty: Finding an Email Verification Bypass $$$ | Ankit Rathva aka Gujarati Hacker | [Read More](https://medium.com/p/c2f1d725e830) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Mar 2026 09:33:25 GMT | DockerLabs Writeup — PyRed (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/5a6e5ebe4503) |
 | Fri, 13 Mar 2026 09:32:00 GMT | Advertising Based Video On Demand (AVOD) MarketAdvertising Based Video On Demand (AVOD) Market… | NIkita Poplai | [Read More](https://medium.com/p/798436694e59) |
 | Fri, 13 Mar 2026 09:22:34 GMT | Critical Splunk RCE Vulnerability (CVE-2026–20163) Lets Attackers Run Shell Commands on Your Server | EternalSec | [Read More](https://medium.com/p/244fcbe3497d) |
-| Fri, 13 Mar 2026 09:21:47 GMT | ️ Security Books | Jeremy ROUSSEAU - CyberSécurité | [Read More](https://medium.com/p/c0676f46c8c9) |
-| Fri, 13 Mar 2026 09:21:25 GMT | Hoops on the Horizon 26–05 | Hatteras Hoops | [Read More](https://medium.com/p/7281ac4c3e62) |
-| Fri, 13 Mar 2026 09:19:58 GMT | Protecting your digital assets in 2026: Best practices for UK SMEs websites that can be deployed in… | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/fbb10631a49a) |
-| Fri, 13 Mar 2026 09:17:21 GMT | When Your Mac Says “Malware Blocked,” It’s Usually Trying to Tell You Something | Eli HUANG | [Read More](https://medium.com/p/9dd7d899bfe9) |
-| Fri, 13 Mar 2026 09:13:24 GMT | Having purchased Moltbook, Meta now has autonomous agents at its disposal. | Enrique Dans | [Read More](https://medium.com/p/e2d231a98f34) |
-| Fri, 13 Mar 2026 09:04:54 GMT | What Samurai and Ninjas Can Teach Us About Cybersecurity | The Cyber Student | [Read More](https://medium.com/p/1255676ecae2) |
-| Fri, 13 Mar 2026 08:48:15 GMT | How to Do Penetration Testing for Beginners: A Step-by-Step Guide | Me Hirdesh C | [Read More](https://medium.com/p/d428be03771d) |
-| Fri, 13 Mar 2026 08:48:14 GMT | When being strong becomes a mask | Swapna Joshi Talwelkar | [Read More](https://medium.com/p/2218e22ae37a) |
-| Fri, 13 Mar 2026 08:45:26 GMT | Integrating Cyber Risk into AI Project Lifecycles: A Security-by-Design Approach | Dobersztajnjustyna | [Read More](https://medium.com/p/5d9a7511784e) |
-| Fri, 13 Mar 2026 08:44:52 GMT | Digital Marketing for Life Sciences: How to Earn Trust, Visibility, and Qualified Demand | Percepture | [Read More](https://medium.com/p/7f0942aa17f1) |
-| Fri, 13 Mar 2026 08:42:01 GMT | Most API Security Bugs Are Surprisingly Simple to Find | Arunkumar Nehru KS | [Read More](https://medium.com/p/b461f1b2bae6) |
-| Fri, 13 Mar 2026 08:36:35 GMT | Data Center Under Fire: When the SIEM Becomes Your SaaS’s Last Line of Defense | Rebecca Cottignies | [Read More](https://medium.com/p/92fe80079045) |
-| Fri, 13 Mar 2026 08:28:47 GMT | Can AI Detect Cyber Attacks Better Than Humans? | Antonyrajvedamanickam | [Read More](https://medium.com/p/a2e0aa81397f) |
-| Fri, 13 Mar 2026 08:21:56 GMT | Basic Networking Concepts Explained for Beginners Step by Step | cyber security Updates | [Read More](https://medium.com/p/3218ee0317e0) |
-| Fri, 13 Mar 2026 08:17:39 GMT | Pentesting Playbook | Harshitaa Ashish | [Read More](https://medium.com/p/4773f8c53193) |
-| Fri, 13 Mar 2026 08:17:25 GMT | 3D Reconstruction Technology Market Revenue Set for Steady Growth by 2035 | NIkita Poplai | [Read More](https://medium.com/p/f949e7471211) |
-| Fri, 13 Mar 2026 08:14:28 GMT | WhatsApp OSINT: The Hidden Intelligence Behind “Online” Status | cybrNK | [Read More](https://medium.com/p/a3d7591cda3b) |
-| Fri, 13 Mar 2026 08:12:45 GMT | The Invisible Observer: A Deep Dive into Spyware and Digital Surveillance | Pentexa Cyber Security | [Read More](https://medium.com/p/a4b33175c8c0) |
-| Fri, 13 Mar 2026 08:10:31 GMT | Learning Through the Google Cybersecurity Professional Certificate | Raksha | [Read More](https://medium.com/p/fc17894befaf) |
