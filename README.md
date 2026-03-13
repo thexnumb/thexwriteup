@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Mar 2026 04:05:21 GMT | Windows Security Tokens (Part 2) — Token Groups and Privileges | Indigo Shadow | [Read More](https://medium.com/p/57734bb2f595) |
+| Fri, 13 Mar 2026 03:53:34 GMT | TCP/IP Explained (The Backbone of the Internet) | CyberRise Institute | [Read More](https://medium.com/p/27e943cb0e37) |
+| Fri, 13 Mar 2026 03:39:33 GMT | How to Install, Set Up, and Configure an FTP Server Using vsftpd on a Linux Server | ServerMO | [Read More](https://medium.com/p/580089e26716) |
+| Fri, 13 Mar 2026 03:31:07 GMT | Your AI Agent Has Your API Keys. Anyone Can Steal Them in One Line. Here’s the Fix. | Sonu Yadav | [Read More](https://medium.com/p/05dc30424222) |
+| Fri, 13 Mar 2026 03:31:00 GMT | The Evolution of Web Application Security: Comparing OWASP Top 10 Risks from 2021 to 2025 | Priyanka Behera | [Read More](https://medium.com/p/34fe928f555e) |
+| Fri, 13 Mar 2026 03:27:07 GMT | I got tired of storing .env files in my Telegram, so I built a vault platform | Sukhrob Ilyosbekov | [Read More](https://medium.com/p/06c2e7d9397c) |
+| Fri, 13 Mar 2026 03:16:07 GMT | Lab: Reflected XSS into HTML context with all tags blocked except custom ones | mayhack | [Read More](https://medium.com/p/c6be6f71b741) |
+| Fri, 13 Mar 2026 03:04:08 GMT | Securing AI Agents: Implementing the OWASP Top 10 for Agentic Applications to my Health Data Agent | Will Velida | [Read More](https://medium.com/p/6cb556a9cf93) |
+| Fri, 13 Mar 2026 02:58:48 GMT | Too small to be ignored | Jane Lo @Misscyberpenny | [Read More](https://medium.com/p/d0610e914e86) |
+| Fri, 13 Mar 2026 02:57:37 GMT | The Walls We Built | Val Bastidas | [Read More](https://medium.com/p/ecd52d50fcf7) |
+| Fri, 13 Mar 2026 02:52:20 GMT | “Cyber Reconnaissance: Building a Banner Grabber Tool in Python” | Akhilswami | [Read More](https://medium.com/p/d4c5f54f12a3) |
+| Fri, 13 Mar 2026 02:49:29 GMT | 698 Stars, 603 Forks, 0 Legitimacy: Dissecting a Malware-Infested Polymarket Bot | Valentin Colmant | [Read More](https://medium.com/p/c34394de0f85) |
+| Fri, 13 Mar 2026 02:47:49 GMT | Ten Brutal Truths of Identity | Dr. Shashi Karhail | [Read More](https://medium.com/p/8a655531fd0a) |
+| Fri, 13 Mar 2026 02:45:04 GMT | The Counter-Thief: A UMAMI Diagnosis of FailSafe | Jugaad Tiger | [Read More](https://medium.com/p/a525412fb2a6) |
+| Fri, 13 Mar 2026 02:43:26 GMT | Your Data Is More Valuable Than You Think | Armansyah hakim | [Read More](https://medium.com/p/64de9e59d579) |
+| Fri, 13 Mar 2026 02:37:50 GMT | Precheck.ai Vs. Pimeyes | DJ A | [Read More](https://medium.com/p/e3f35c43089f) |
+| Fri, 13 Mar 2026 02:31:00 GMT | How I Use Google Dorking to Find Hidden Vulnerabilities | loopXvedant | [Read More](https://medium.com/p/dcc55bed5fad) |
+| Fri, 13 Mar 2026 02:31:00 GMT | Gobuster | Anubhav_bora | [Read More](https://medium.com/p/4ccc2a619153) |
+| Fri, 13 Mar 2026 02:30:59 GMT | Red Team Simulation | Jeffersonpacana | [Read More](https://medium.com/p/fc0998f043db) |
+| Fri, 13 Mar 2026 02:30:08 GMT | Немного забавных фактов⁠⁠ | Chernousov Anton | [Read More](https://medium.com/p/e01e0186bdef) |
+| Fri, 13 Mar 2026 02:23:51 GMT | Redesigning my GCP Infrastructure — Part V: The revisit | Alexandru Marius | [Read More](https://medium.com/p/8db3a76de6fe) |
 | Fri, 13 Mar 2026 02:16:00 GMT | Abusing AD-DACL: ForceChangePassword | Youssef Said Thabet | [Read More](https://medium.com/p/83cf8c509700) |
 | Fri, 13 Mar 2026 01:54:14 GMT | Try Hack Me- Tokyo Ghoul CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/cceefe32a260) |
 | Fri, 13 Mar 2026 01:50:37 GMT | Your WordPress Site Might Be Hacked Right Now — And You Would Never Know | ToolXray | [Read More](https://medium.com/p/0eb56dfefdd4) |
@@ -92,24 +113,3 @@ Part 1 | MRxO1 | [Read More](https://medium.com/p/95f21de9501c) |
 | Thu, 12 Mar 2026 18:47:04 GMT | Russia-NATO Border Standoff: Everything You Need to Know in 5 Minutes | Vivek Anand | [Read More](https://medium.com/p/b8085c3512f4) |
 | Thu, 12 Mar 2026 18:46:54 GMT | Most financial scams don’t hack systems — they hack people | Enrique Dans | [Read More](https://medium.com/p/6488c7948ebb) |
 | Thu, 12 Mar 2026 18:46:37 GMT | AI Management: The Work No One Sees | Mithrais | [Read More](https://medium.com/p/22137717d5ed) |
-| Thu, 12 Mar 2026 18:45:23 GMT | Pulse-Zero: Atomic Memory Slicing and Sub-Layer Evasion via x64 Assembly Orchestration | Hamza Mahmoud Ahmed | [Read More](https://medium.com/p/1f0aeb5e9abc) |
-| Thu, 12 Mar 2026 18:45:22 GMT | What Defenders Often Misunderstand About Real Red Team Operations | M_BgBang | [Read More](https://medium.com/p/19d28ac07d39) |
-| Thu, 12 Mar 2026 18:40:08 GMT | From CORS Misconfiguration to Sensitive Data Exposure | montaser mohsen | [Read More](https://medium.com/p/b47558a57046) |
-| Thu, 12 Mar 2026 18:34:42 GMT | From Perfect Secrecy to Computational Security: COA Security, Indistinguishability, and the Logic… | Adidev Bhattacharya | [Read More](https://medium.com/p/abc972360fd4) |
-| Thu, 12 Mar 2026 18:34:00 GMT | FTPS Certificate Error: 7 Real Causes (And How to Fix Them) | Jake Priddy | [Read More](https://medium.com/p/fe3212ca6907) |
-| Thu, 12 Mar 2026 18:32:20 GMT | 10 Critical Questions to Evaluate Cybersecurity Risks in Small Businesses | Cordula Boeck | [Read More](https://medium.com/p/598bd2bd6f61) |
-| Thu, 12 Mar 2026 18:32:17 GMT | The EU Cyber Resilience Act Just Changed IoT Forever — Here’s What Every Developer Building a… | BLE Advertiser | [Read More](https://medium.com/p/1e1f26157e91) |
-| Thu, 12 Mar 2026 18:31:40 GMT | PVS Story 2 — Further penetration testing after acquiring admin privileges. | El Professor Qais | [Read More](https://medium.com/p/3a89c6774276) |
-| Thu, 12 Mar 2026 18:31:00 GMT | Bypassing Rate Limits: A Beginner’s Guide to HTTP Header Manipulation (picoCTF Write-up) | Anubhav_bora | [Read More](https://medium.com/p/4b631028b568) |
-| Thu, 12 Mar 2026 18:30:12 GMT | Open WebUI Exposes Your Local AI to Your Entire Local Network by Default — Here’s the Fix | OffByOne | [Read More](https://medium.com/p/b51ad432da67) |
-| Thu, 12 Mar 2026 18:29:43 GMT | How to Get ISO Certification in Kuwait — Complete Guide for Companies | GCC-CERT | [Read More](https://medium.com/p/a6c10039c159) |
-| Thu, 12 Mar 2026 18:27:10 GMT | AI Security Scanner for Python (Gemini AI + Python) | Marzena Pugo | [Read More](https://medium.com/p/390750e88d11) |
-| Thu, 12 Mar 2026 18:25:59 GMT | Task Reframing Breaks LLM Guardrails: How Summarization, Translation, and Few-Shot Attacks Leak… | IB Security | [Read More](https://medium.com/p/73d8767ff6e6) |
-| Thu, 12 Mar 2026 18:23:52 GMT | How Canadian Recruiters Connect AI Talent with Global Businesses | 2iResourcing | [Read More](https://medium.com/p/dd46bb923490) |
-| Thu, 12 Mar 2026 18:22:55 GMT | Let’s Defend SOC239 — Remote Code Execution Detected in Splunk Enterprise | Manivel | [Read More](https://medium.com/p/e973002e818f) |
-| Thu, 12 Mar 2026 18:20:23 GMT | The End of Tools | Ryan Marimon | [Read More](https://medium.com/p/18affce10485) |
-| Thu, 12 Mar 2026 18:18:47 GMT | Exposed API Keys: How AI Tools Leak Your Secrets (And How to Lock Them Down) | SecureStartKit | [Read More](https://medium.com/p/8a201c3651da) |
-| Thu, 12 Mar 2026 18:13:35 GMT | Basic Active Directory Enumeration — TryHackMe Walkthrough | Abyan Zikra | [Read More](https://medium.com/p/90a09e694595) |
-| Thu, 12 Mar 2026 18:11:48 GMT | From Recon to Root: Mastering the DC-1 CTF Challenge | LostHeaven | [Read More](https://medium.com/p/b0df31db29b4) |
-| Thu, 12 Mar 2026 18:11:47 GMT | A Simple P4 Bug That Ended as Duplicate | BugWraith (Lokesh) | [Read More](https://medium.com/p/4cb0c4ca75b2) |
-| Thu, 12 Mar 2026 18:09:44 GMT | Crack the Hash — TryHackMe Room | Ahmed Eldkrory | [Read More](https://medium.com/p/15efde35f418) |
