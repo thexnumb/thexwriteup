@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Mar 2026 23:26:00 GMT | Risk of Multiple Developers Touching Your Website | TOZAMAS Creatives | [Read More](https://medium.com/p/73216bb01111) |
+| Fri, 13 Mar 2026 23:16:10 GMT | Cloud 3.0: The Next Evolution in Enterprise Computing | TechnologAI | [Read More](https://medium.com/p/787ae07ed10c) |
+| Fri, 13 Mar 2026 23:00:13 GMT | Security Clearance Fingerprinting in Canada: Why Hundreds of Thousands of Workers Need It | Loteyfingerprinting | [Read More](https://medium.com/p/df64a682bd76) |
+| Fri, 13 Mar 2026 22:59:51 GMT | TryHackMe SOC Analyst Road Map Part-9 | safa kaya | [Read More](https://medium.com/p/9f6061ef7767) |
 | Fri, 13 Mar 2026 22:50:31 GMT | Trust the DLL, Abuse the Delegation(RBCD) | Hishamrazak | [Read More](https://medium.com/p/757c9d0c011e) |
+| Fri, 13 Mar 2026 22:47:58 GMT | Panduan Lengkap Eksploitasi Active Directory: Write-up TryHackMe Attacktive Directory | Alvinkurniawan | [Read More](https://medium.com/p/d2f18d5ad67d) |
 | Fri, 13 Mar 2026 22:35:50 GMT | Active Directory Pentesting Practice — TryHackMe Attacktive Directory | Galih Permana Rizki | [Read More](https://medium.com/p/6f910eecf2c0) |
 | Fri, 13 Mar 2026 22:28:18 GMT | Kali Linux. | Ali Alizada | [Read More](https://medium.com/p/e56368a6a566) |
 | Fri, 13 Mar 2026 22:23:41 GMT | Bitunix One-Click Buy: A More Direct Purchase Flow for New and Casual Buyers | Adam Hunt | [Read More](https://medium.com/p/b4ecbf61e866) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Mar 2026 16:27:00 GMT | Attacktive Directory — TryHackMe | Ifannudinazi | [Read More](https://medium.com/p/70fcd7741b3d) |
 | Fri, 13 Mar 2026 16:27:00 GMT | Memory Leak — #43 | Astasia Myers | [Read More](https://medium.com/p/4005b4950256) |
 | Fri, 13 Mar 2026 16:25:53 GMT | Write-Up: TryHackMe — AD Basic Enumeration | krisna nanda | [Read More](https://medium.com/p/4fe31b2e5f0b) |
-| Fri, 13 Mar 2026 16:20:52 GMT | They Don’t Need to Know Your Secrets. They Already Do. | Mohd Sujahat Ali | [Read More](https://medium.com/p/7dc7d101230e) |
-| Fri, 13 Mar 2026 16:10:44 GMT | Top 5 Deep Web Myths Exposed | b3pwn3d | [Read More](https://medium.com/p/b72ab4c40105) |
-| Fri, 13 Mar 2026 16:02:42 GMT | Penetration Testing Methodology: Information Gathering | Shuvekshyaneupane | [Read More](https://medium.com/p/5002d28bfec2) |
-| Fri, 13 Mar 2026 16:02:31 GMT | The URL fragment trick that makes zero-knowledge file sharing possible | Brendan | [Read More](https://medium.com/p/37145f617e73) |
-| Fri, 13 Mar 2026 16:01:02 GMT | Cybersecurity Awareness Scenario #4 | Devore McIntosh | [Read More](https://medium.com/p/4c314200cece) |
