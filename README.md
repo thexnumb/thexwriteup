@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Mar 2026 13:59:17 GMT | Writeup: Eksplorasi Keamanan Active Directory — Basic Enumeration (TryHackMe) | Agungsaraswati | [Read More](https://medium.com/p/0449b2bbdb11) |
+| Fri, 13 Mar 2026 13:56:30 GMT | RootMe Write-Up - TryHackMe | Nazeer Rassed | [Read More](https://medium.com/p/354e94f6e946) |
+| Fri, 13 Mar 2026 13:56:03 GMT | My First Bug Bounty: Finding an Email Verification Bypass $$$ | Ankit Rathva aka Gujarati Hacker | [Read More](https://medium.com/p/c2f1d725e830) |
+| Fri, 13 Mar 2026 13:51:55 GMT | Cracking Hidden Password Logic -PicoCTF “PW Crack 2” | Subrat Samantaray | [Read More](https://medium.com/p/ec288f52fc62) |
+| Fri, 13 Mar 2026 13:46:53 GMT | I didn’t mean to need you | Half a Cup Full | [Read More](https://medium.com/p/362da8b8a122) |
+| Fri, 13 Mar 2026 13:45:40 GMT | WiFi 8 Is Coming Before Most People Even Own a WiFi 7 Router. | Robert Shane Kirkpatrick | [Read More](https://medium.com/p/f01f016c0500) |
+| Fri, 13 Mar 2026 13:42:23 GMT | OnSystemShellDredd Walkthrough (proving ground-play) | cyber_public_school | [Read More](https://medium.com/p/b8faa92a371c) |
+| Fri, 13 Mar 2026 13:39:37 GMT | 2026 North America Elite Social Safety Report: NYC, LA & Toronto Audit Highlights | TT USA Security & Elite Social Research | [Read More](https://medium.com/p/cb12915ae48f) |
+| Fri, 13 Mar 2026 13:30:50 GMT | После волны банов Overwolf: почему Melonity остался полностью чистым в Dota 2 | Aurelivoines | [Read More](https://medium.com/p/2a6881f4d977) |
+| Fri, 13 Mar 2026 13:30:43 GMT | m00nwalk2 .. picoCTF | Configx | [Read More](https://medium.com/p/6326b4211c51) |
+| Fri, 13 Mar 2026 13:24:33 GMT | Online Cybersecurity Training: Courses, Certifications, and Tips | Janbask Training | [Read More](https://medium.com/p/69152d805c3a) |
+| Fri, 13 Mar 2026 13:21:33 GMT | Moltbook: The AI-Only Social Network and Its Security Risks | Jyotiraditya | [Read More](https://medium.com/p/af2ea5d66db2) |
+| Fri, 13 Mar 2026 13:18:05 GMT | The McKinsey AI Breach: How an Autonomous Agent Exposed 46 Million Messages | Alessandro Pignati | [Read More](https://medium.com/p/c91e09b891eb) |
+| Fri, 13 Mar 2026 13:18:00 GMT | Hackademic RTB1 CTF Writeup - Linux Privilege Escalation | Pentester Club | [Read More](https://medium.com/p/19c7876913c9) |
+| Fri, 13 Mar 2026 13:05:55 GMT | Understanding IPv4 vs IPv6 and Network Topologies — A Beginner-Friendly Guide | Mohammad Rammal | [Read More](https://medium.com/p/adae9a576eca) |
 | Fri, 13 Mar 2026 12:53:55 GMT | Remote Code Execution (RCE) Vulnerability | Halil Ibrahim Eroglu | [Read More](https://medium.com/p/69b7ce3dd7f0) |
 | Fri, 13 Mar 2026 12:51:13 GMT | The Future of Tech - What’s Coming in 2026 | Impronics Technologies | [Read More](https://medium.com/p/add448155901) |
 | Fri, 13 Mar 2026 12:47:29 GMT | How I Reported a Vulnerability to the Dutch Government — All for a Lousy T-Shirt | Snehil | [Read More](https://medium.com/p/0386d9dc24fe) |
@@ -97,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Mar 2026 08:14:28 GMT | WhatsApp OSINT: The Hidden Intelligence Behind “Online” Status | cybrNK | [Read More](https://medium.com/p/a3d7591cda3b) |
 | Fri, 13 Mar 2026 08:12:45 GMT | The Invisible Observer: A Deep Dive into Spyware and Digital Surveillance | Pentexa Cyber Security | [Read More](https://medium.com/p/a4b33175c8c0) |
 | Fri, 13 Mar 2026 08:10:31 GMT | Learning Through the Google Cybersecurity Professional Certificate | Raksha | [Read More](https://medium.com/p/fc17894befaf) |
-| Fri, 13 Mar 2026 08:05:30 GMT | Journeys of HackTheBox Labs Challenges - Flag Command | Hammam Awis Zukimi | [Read More](https://medium.com/p/0c5edf2a43f9) |
-| Fri, 13 Mar 2026 08:04:35 GMT | OWASP Top 10 For Flutter — M6: Inadequate Privacy Controls in Flutter & Dart | Talsec | [Read More](https://medium.com/p/24b31f82db3e) |
-| Fri, 13 Mar 2026 07:58:41 GMT | ICAART 2026: Reflections on AI, Cybersecurity, and the Future of Adaptive Defense Systems | DIPI-ResearchGroup | [Read More](https://medium.com/p/bbb3f8daceb1) |
-| Fri, 13 Mar 2026 07:57:18 GMT | Information disclosure in error messages - Lab -01 | M o $ t a | [Read More](https://medium.com/p/588b3d76b76e) |
-| Fri, 13 Mar 2026 07:56:44 GMT | When Hackers Level Up: The Sneaky Game of Privilege Escalation | Alejandra - Kaduu CTI | [Read More](https://medium.com/p/fe007c1aa3b1) |
-| Fri, 13 Mar 2026 07:52:18 GMT | Securing Secrets in Rails: A Guide to credentials.yml in Ruby on Rails | Ravi Prakash | [Read More](https://medium.com/p/074843c92f9b) |
-| Fri, 13 Mar 2026 07:49:53 GMT | Chaining SQLi into RCE — A Lab Case Study | Shatha511 | [Read More](https://medium.com/p/23590bb23a3a) |
-| Fri, 13 Mar 2026 07:42:48 GMT | TryHackMe :Attacktive Directory Pentesting Write-Up | Jo | [Read More](https://medium.com/p/7354f7a39f6c) |
-| Fri, 13 Mar 2026 07:41:35 GMT | Securing Kubernetes in Production: A Practical Guide | Majidbasharat | [Read More](https://medium.com/p/8972fd78c447) |
-| Fri, 13 Mar 2026 07:39:40 GMT | How Audio Jammers Stop Hidden Microphone Recordings | Laura Turcu | [Read More](https://medium.com/p/5cc2eb2199fe) |
-| Fri, 13 Mar 2026 07:36:13 GMT | Forbidden Doesn’t Mean Impossible
- ️ Discovering Hidden Endpoints with 403Bypasser | ghostyjoe | [Read More](https://medium.com/p/c65d7d5e6b9f) |
-| Fri, 13 Mar 2026 07:34:37 GMT | White Rabbit Neo — The AI Built for Hackers | ghostyjoe | [Read More](https://medium.com/p/163f43ce5949) |
-| Fri, 13 Mar 2026 07:29:55 GMT | The Key Stages of Ethical Hacking Explained for Beginners | Jaimil Shah | [Read More](https://medium.com/p/03aeffb2320e) |
-| Fri, 13 Mar 2026 07:28:17 GMT | Is Antivirus Pro Necessary for Modern Windows 11 Security? | Siyanoav | [Read More](https://medium.com/p/570755d05c56) |
-| Fri, 13 Mar 2026 07:24:19 GMT | The First Step of Ethical Hacking: Information Gathering in Penetration Testing | Nehalmehta | [Read More](https://medium.com/p/0e4e839f50e2) |
