@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Mar 2026 16:01:02 GMT | Cybersecurity Awareness Scenario #4 | Devore McIntosh | [Read More](https://medium.com/p/4c314200cece) |
+| Fri, 13 Mar 2026 16:00:56 GMT | Write-up TryHackMe: Attacktive Directory - Tugas 8 ID-Networkers | Muhammad Ridwan | [Read More](https://medium.com/p/0e132035fccd) |
+| Fri, 13 Mar 2026 15:59:56 GMT | Bounty Hacker Walkthrough | prajakta sutar | [Read More](https://medium.com/p/225e420d7a3c) |
+| Fri, 13 Mar 2026 15:56:51 GMT | What Hackers Actually Do When They Scan Your Network | Sam Writes Security | [Read More](https://medium.com/p/859679442ca9) |
+| Fri, 13 Mar 2026 15:55:24 GMT | Digital Forensics Triage Tool | Anonymousd | [Read More](https://medium.com/p/68f867cf4825) |
+| Fri, 13 Mar 2026 15:54:24 GMT | Write-up AD:Basic Enumeration — TryMeHack | Galih Permana Rizki | [Read More](https://medium.com/p/effddca13c34) |
+| Fri, 13 Mar 2026 15:53:29 GMT | Mengenal Lab TryHackMe: Active Directory Attack | Abyan Zikra | [Read More](https://medium.com/p/06f706c971d2) |
+| Fri, 13 Mar 2026 15:53:21 GMT | The Agentic Data Plane (ADP): A New Category in AI Infrastructure | Daniel Fornica | [Read More](https://medium.com/p/9ea329d6cbc3) |
+| Fri, 13 Mar 2026 15:52:40 GMT | Attacktive Directory | ikoo | [Read More](https://medium.com/p/d62fdb4dbe0a) |
+| Fri, 13 Mar 2026 15:51:20 GMT | The Clarity Women Deserve | Hondo | [Read More](https://medium.com/p/53f683fb3592) |
+| Fri, 13 Mar 2026 15:50:47 GMT | Write-up TryHackMe: AD Basic Enumeration - ID-Networkers Bootcamp | Muhammad Ridwan | [Read More](https://medium.com/p/7f3548f3d676) |
+| Fri, 13 Mar 2026 15:38:39 GMT | The Automation Myth That’s Costing You Hours Every Week — And How Mastering n8n From Zero Changes… | R.H Rizvi | [Read More](https://medium.com/p/ff222142c1c0) |
+| Fri, 13 Mar 2026 15:37:22 GMT | Exploiting an Infinite Money Logic Flaw - PortSwigger Web Security Academy Lab Write-up | shivam sharma | [Read More](https://medium.com/p/2a14e5b9dd2d) |
+| Fri, 13 Mar 2026 15:37:09 GMT | Man-in-the-Middle Attack Analysis: How Bettercap Exposes Clear-Text Protocol Vulnerabilities | Lorenzodellecoste | [Read More](https://medium.com/p/4b2e1850d2ef) |
+| Fri, 13 Mar 2026 15:29:20 GMT | One PDF Upload, One Click, Total Surprise | Abdelrahman Maged | [Read More](https://medium.com/p/c10bdd775849) |
+| Fri, 13 Mar 2026 15:28:57 GMT | Home Security Camera Installation in Toronto: A Complete Guide for Homeowners | AlexBryn | [Read More](https://medium.com/p/f9370649c2cb) |
+| Fri, 13 Mar 2026 15:17:46 GMT | Writeup 03: Professionals are Doing Enumeration While Kids are focusing with payloads. | BL4CKD3V0P5 | [Read More](https://medium.com/p/6fbf9029014e) |
+| Fri, 13 Mar 2026 15:14:09 GMT | How to Prevent Fraud Before Release When Planning Digital Access After Death | InheritSafe | [Read More](https://medium.com/p/bdd520bcffad) |
+| Fri, 13 Mar 2026 15:10:18 GMT | Attacktive Directory — TryHackMe | Rizqi Ramadhan Andriono | [Read More](https://medium.com/p/3ea19b11f5c2) |
 | Fri, 13 Mar 2026 15:06:37 GMT | Cyberattack on Telus: Hackers Allegedly Exfiltrate Hundreds of Terabytes of Sensitive Data | Ananthuharikumar | [Read More](https://medium.com/p/a9829a479371) |
 | Fri, 13 Mar 2026 15:01:05 GMT | Reverse Engineering a Password Checker — picoCTF PW Crack 3 | Subrat Samantaray | [Read More](https://medium.com/p/95112d9cec2f) |
 | Fri, 13 Mar 2026 15:00:41 GMT | How Cyber Events Quietly Distort M&A Deals | Digital Defense | [Read More](https://medium.com/p/325d37e5686a) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Mar 2026 10:32:25 GMT | SQL Injection: The Bug Born From Deadline Pressure | Rajeswari | [Read More](https://medium.com/p/6ede9d18d5ab) |
 | Fri, 13 Mar 2026 10:29:49 GMT | Metasploit Pro 5.0.0 Introduces Advanced Capabilities for Modern Security Testing | Jas | [Read More](https://medium.com/p/dd5c80fe8570) |
 | Fri, 13 Mar 2026 10:25:44 GMT | Your AI Policy Was Written For the AI You Imagined, Not The Reality… So It’s Useless. | Sharon Shumbambiri | [Read More](https://medium.com/p/95b497f2eee9) |
-| Fri, 13 Mar 2026 10:16:00 GMT | When the World Feels a Little Closer to Midnight.. | Rick Gregson | [Read More](https://medium.com/p/b2b50eb364e0) |
-| Fri, 13 Mar 2026 10:14:02 GMT | Best Phishing Simulation Services in India - Awareness Training | Thiripathiv | [Read More](https://medium.com/p/f8a2c5e93281) |
-| Fri, 13 Mar 2026 10:08:01 GMT | My Linux Learning Journey — Lab 2 (Understanding File Permissions) | Hemaprasadpotnuru | [Read More](https://medium.com/p/64c2a1ec75b7) |
-| Fri, 13 Mar 2026 10:00:36 GMT | WAF Logging and Monitoring: Why Visibility Matters for Web Security | John Hawkins | [Read More](https://medium.com/p/355c0dcb400d) |
-| Fri, 13 Mar 2026 10:00:29 GMT | Cert-Based Authentication | Jeffersonpacana | [Read More](https://medium.com/p/eca715b5dada) |
-| Fri, 13 Mar 2026 09:59:20 GMT | From LPG to Induction: The Quiet Revolution Reshaping India’s Energy Economics | Abhishek | [Read More](https://medium.com/p/0f2ea5488fe7) |
-| Fri, 13 Mar 2026 09:58:57 GMT | From Minecraft to Pentesting | Hamza Sajid | [Read More](https://medium.com/p/6bf2d32eeafb) |
-| Fri, 13 Mar 2026 09:56:01 GMT | Day 0 Documentation: What Every Company Should Record Immediately | Gaurav Shukla | [Read More](https://medium.com/p/fc9920773238) |
-| Fri, 13 Mar 2026 09:53:49 GMT | Hands-On Cryptography and Network Security: From Web Servers to Threat Modeling | Varshithavarshu | [Read More](https://medium.com/p/a65203c41e7a) |
-| Fri, 13 Mar 2026 09:53:28 GMT | Why Your Code Still Matters Even with Great APIs | Payscribe | [Read More](https://medium.com/p/bf26573e3aec) |
-| Fri, 13 Mar 2026 09:51:30 GMT | Understanding the OSI Model: A Beginner-Friendly Guide for Networking and Cybersecurity | Namrata Dandgawal | [Read More](https://medium.com/p/92e5acbaff77) |
-| Fri, 13 Mar 2026 09:44:20 GMT | Solr 6.x — SolrException Unable to create core [xxx] Caused by: Input length = 1 | Qavi Tech | [Read More](https://medium.com/p/86b352f93a34) |
-| Fri, 13 Mar 2026 09:41:00 GMT | The Four Tiers of AI Augmented Content | Namir Sagheenanajar | [Read More](https://medium.com/p/abd049e4b55d) |
-| Fri, 13 Mar 2026 09:38:22 GMT | AI Jailbreaking Is Now Sold as a Service. Here’s What That Means for You | Muhammad Haider Tallal | [Read More](https://medium.com/p/ea96af8b0a9b) |
-| Fri, 13 Mar 2026 09:38:13 GMT | Jacob The Boss— RCE to Root via JBoss JMX Console | Roshan Rajbanshi | [Read More](https://medium.com/p/27fe6c23ab8d) |
-| Fri, 13 Mar 2026 09:35:03 GMT | OSINT Briefing — March 13, 2026: Attacks Discovered Online, AI Satellite Images, and Ghost Ships | Gianluca Galimberti | [Read More](https://medium.com/p/f8edf2f16648) |
-| Fri, 13 Mar 2026 09:33:25 GMT | DockerLabs Writeup — PyRed (Spanish) | David Prieto Montero (a.k.a Pyth0nK1d) | [Read More](https://medium.com/p/5a6e5ebe4503) |
-| Fri, 13 Mar 2026 09:32:00 GMT | Advertising Based Video On Demand (AVOD) MarketAdvertising Based Video On Demand (AVOD) Market… | NIkita Poplai | [Read More](https://medium.com/p/798436694e59) |
-| Fri, 13 Mar 2026 09:22:34 GMT | Critical Splunk RCE Vulnerability (CVE-2026–20163) Lets Attackers Run Shell Commands on Your Server | EternalSec | [Read More](https://medium.com/p/244fcbe3497d) |
