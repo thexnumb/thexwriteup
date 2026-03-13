@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Mar 2026 09:38:13 GMT | Jacob The Boss— RCE to Root via JBoss JMX Console | Roshan Rajbanshi | [Read More](https://medium.com/p/27fe6c23ab8d) |
+| Fri, 13 Mar 2026 09:35:03 GMT | OSINT Briefing — March 13, 2026: Attacks Discovered Online, AI Satellite Images, and Ghost Ships | Gianluca Galimberti | [Read More](https://medium.com/p/f8edf2f16648) |
+| Fri, 13 Mar 2026 09:32:00 GMT | Advertising Based Video On Demand (AVOD) MarketAdvertising Based Video On Demand (AVOD) Market… | NIkita Poplai | [Read More](https://medium.com/p/798436694e59) |
+| Fri, 13 Mar 2026 09:22:34 GMT | Critical Splunk RCE Vulnerability (CVE-2026–20163) Lets Attackers Run Shell Commands on Your Server | EternalSec | [Read More](https://medium.com/p/244fcbe3497d) |
+| Fri, 13 Mar 2026 09:21:47 GMT | ️ Security Books | Jeremy ROUSSEAU - CyberSécurité | [Read More](https://medium.com/p/c0676f46c8c9) |
+| Fri, 13 Mar 2026 09:21:25 GMT | Hoops on the Horizon 26–05 | Hatteras Hoops | [Read More](https://medium.com/p/7281ac4c3e62) |
+| Fri, 13 Mar 2026 09:19:58 GMT | Protecting your digital assets in 2026: Best practices for UK SMEs websites that can be deployed in… | Iain Fraser CyberSecurity Journalist | [Read More](https://medium.com/p/fbb10631a49a) |
+| Fri, 13 Mar 2026 09:17:21 GMT | When Your Mac Says “Malware Blocked,” It’s Usually Trying to Tell You Something | Eli HUANG | [Read More](https://medium.com/p/9dd7d899bfe9) |
+| Fri, 13 Mar 2026 09:13:24 GMT | Having purchased Moltbook, Meta now has autonomous agents at its disposal. | Enrique Dans | [Read More](https://medium.com/p/e2d231a98f34) |
+| Fri, 13 Mar 2026 09:04:54 GMT | What Samurai and Ninjas Can Teach Us About Cybersecurity | The Cyber Student | [Read More](https://medium.com/p/1255676ecae2) |
+| Fri, 13 Mar 2026 08:48:15 GMT | How to Do Penetration Testing for Beginners: A Step-by-Step Guide | Me Hirdesh C | [Read More](https://medium.com/p/d428be03771d) |
+| Fri, 13 Mar 2026 08:48:14 GMT | When being strong becomes a mask | Swapna Joshi Talwelkar | [Read More](https://medium.com/p/2218e22ae37a) |
+| Fri, 13 Mar 2026 08:45:26 GMT | Integrating Cyber Risk into AI Project Lifecycles: A Security-by-Design Approach | Dobersztajnjustyna | [Read More](https://medium.com/p/5d9a7511784e) |
+| Fri, 13 Mar 2026 08:44:52 GMT | Digital Marketing for Life Sciences: How to Earn Trust, Visibility, and Qualified Demand | Percepture | [Read More](https://medium.com/p/7f0942aa17f1) |
+| Fri, 13 Mar 2026 08:42:01 GMT | Most API Security Bugs Are Surprisingly Simple to Find | Arunkumar Nehru KS | [Read More](https://medium.com/p/b461f1b2bae6) |
+| Fri, 13 Mar 2026 08:36:35 GMT | Data Center Under Fire: When the SIEM Becomes Your SaaS’s Last Line of Defense | Rebecca Cottignies | [Read More](https://medium.com/p/92fe80079045) |
 | Fri, 13 Mar 2026 08:28:47 GMT | Can AI Detect Cyber Attacks Better Than Humans? | Antonyrajvedamanickam | [Read More](https://medium.com/p/a2e0aa81397f) |
 | Fri, 13 Mar 2026 08:21:56 GMT | Basic Networking Concepts Explained for Beginners Step by Step | cyber security Updates | [Read More](https://medium.com/p/3218ee0317e0) |
 | Fri, 13 Mar 2026 08:17:39 GMT | Pentesting Playbook | Harshitaa Ashish | [Read More](https://medium.com/p/4773f8c53193) |
@@ -97,19 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Mar 2026 02:57:37 GMT | The Walls We Built | Val Bastidas | [Read More](https://medium.com/p/ecd52d50fcf7) |
 | Fri, 13 Mar 2026 02:52:20 GMT | “Cyber Reconnaissance: Building a Banner Grabber Tool in Python” | Akhilswami | [Read More](https://medium.com/p/d4c5f54f12a3) |
 | Fri, 13 Mar 2026 02:49:29 GMT | 698 Stars, 603 Forks, 0 Legitimacy: Dissecting a Malware-Infested Polymarket Bot | Valentin Colmant | [Read More](https://medium.com/p/c34394de0f85) |
-| Fri, 13 Mar 2026 02:47:49 GMT | Ten Brutal Truths of Identity | Dr. Shashi Karhail | [Read More](https://medium.com/p/8a655531fd0a) |
-| Fri, 13 Mar 2026 02:45:04 GMT | The Counter-Thief: A UMAMI Diagnosis of FailSafe | Jugaad Tiger | [Read More](https://medium.com/p/a525412fb2a6) |
-| Fri, 13 Mar 2026 02:43:26 GMT | Your Data Is More Valuable Than You Think | Armansyah hakim | [Read More](https://medium.com/p/64de9e59d579) |
-| Fri, 13 Mar 2026 02:37:50 GMT | Precheck.ai Vs. Pimeyes | DJ A | [Read More](https://medium.com/p/e3f35c43089f) |
-| Fri, 13 Mar 2026 02:31:00 GMT | How I Use Google Dorking to Find Hidden Vulnerabilities | loopXvedant | [Read More](https://medium.com/p/dcc55bed5fad) |
-| Fri, 13 Mar 2026 02:31:00 GMT | Gobuster | Anubhav_bora | [Read More](https://medium.com/p/4ccc2a619153) |
-| Fri, 13 Mar 2026 02:30:59 GMT | Red Team Simulation | Jeffersonpacana | [Read More](https://medium.com/p/fc0998f043db) |
-| Fri, 13 Mar 2026 02:30:08 GMT | Немного забавных фактов⁠⁠ | Chernousov Anton | [Read More](https://medium.com/p/e01e0186bdef) |
-| Fri, 13 Mar 2026 02:23:51 GMT | Redesigning my GCP Infrastructure — Part V: The revisit | Alexandru Marius | [Read More](https://medium.com/p/8db3a76de6fe) |
-| Fri, 13 Mar 2026 02:16:00 GMT | Abusing AD-DACL: ForceChangePassword | Youssef Said Thabet | [Read More](https://medium.com/p/83cf8c509700) |
-| Fri, 13 Mar 2026 01:54:14 GMT | Try Hack Me- Tokyo Ghoul CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/cceefe32a260) |
-| Fri, 13 Mar 2026 01:50:37 GMT | Your WordPress Site Might Be Hacked Right Now — And You Would Never Know | ToolXray | [Read More](https://medium.com/p/0eb56dfefdd4) |
-| Fri, 13 Mar 2026 01:38:30 GMT | Cloud Pentesting — What’s Different from Network Pentesting | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/d386f5692992) |
-| Fri, 13 Mar 2026 01:27:57 GMT | What Security Analysts Actually Look at All Day | Armansyah hakim | [Read More](https://medium.com/p/207cc301cc83) |
-| Fri, 13 Mar 2026 01:21:19 GMT | Write-Up TryHackMe: Attacktive Directory | Athiyyah Dzatil | [Read More](https://medium.com/p/e72bde2b8503) |
-| Fri, 13 Mar 2026 01:17:34 GMT | The AI-BOM Nightmare: Why You Can’t Cryptographically Hash a Concept | Jose Baena Cobos | [Read More](https://medium.com/p/548bef164aed) |
