@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Mar 2026 16:59:09 GMT | Building a Covert Sensor Network That Looks Like HVAC Noise | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/f13c8dd9a798) |
+| Fri, 13 Mar 2026 16:56:59 GMT | Attackive Directory — TryHackMe Write Up | Ridho Yoss Pratama | [Read More](https://medium.com/p/33d38f51dfde) |
+| Fri, 13 Mar 2026 16:51:56 GMT | CyberDefenders: PsExec Hunt — Following the Trail of Lateral Movement | rexaa | [Read More](https://medium.com/p/f2cd1cfeee56) |
+| Fri, 13 Mar 2026 16:47:55 GMT | CyberDefenders Lockdown Lab Writeup and Analysis | kbxsrc | [Read More](https://medium.com/p/23d9b7564469) |
+| Fri, 13 Mar 2026 16:44:08 GMT | Your Browser is Teaching an AI How to Impersonate You — Here’s How to Stop It | shawn anwar | [Read More](https://medium.com/p/1c178673783d) |
+| Fri, 13 Mar 2026 16:38:59 GMT | Building a Trustless Escrow Smart Contract on Solana: The Ultimate Guide By Dhruv patel | Dhruv Patel | [Read More](https://medium.com/p/1fa7b41a63ac) |
+| Fri, 13 Mar 2026 16:38:03 GMT | Thick Client Pentesting on Windows: Real-World Vulnerabilities I’ve Exploited in the Last 4+ Years… | ROHIT SHARMA | [Read More](https://medium.com/p/1d6a9e3c02c3) |
+| Fri, 13 Mar 2026 16:34:46 GMT | Relevant TryHackMe Walkthrough | Yoel Yosief [ Orit01 ] | [Read More](https://medium.com/p/6aefc76c9095) |
+| Fri, 13 Mar 2026 16:34:37 GMT | How Identity Theft Really Works and How Criminals Steal Your Identity | Christine Lorelie | [Read More](https://medium.com/p/1f89feba1cdf) |
+| Fri, 13 Mar 2026 16:27:00 GMT | Attacktive Directory — TryHackMe | Ifannudinazi | [Read More](https://medium.com/p/70fcd7741b3d) |
+| Fri, 13 Mar 2026 16:27:00 GMT | Memory Leak — #43 | Astasia Myers | [Read More](https://medium.com/p/4005b4950256) |
+| Fri, 13 Mar 2026 16:25:53 GMT | Write-Up: TryHackMe — AD Basic Enumeration | krisna nanda | [Read More](https://medium.com/p/4fe31b2e5f0b) |
+| Fri, 13 Mar 2026 16:20:52 GMT | They Don’t Need to Know Your Secrets. They Already Do. | Mohd Sujahat Ali | [Read More](https://medium.com/p/7dc7d101230e) |
+| Fri, 13 Mar 2026 16:10:44 GMT | Top 5 Deep Web Myths Exposed | b3pwn3d | [Read More](https://medium.com/p/b72ab4c40105) |
+| Fri, 13 Mar 2026 16:02:42 GMT | Penetration Testing Methodology: Information Gathering | Shuvekshyaneupane | [Read More](https://medium.com/p/5002d28bfec2) |
+| Fri, 13 Mar 2026 16:02:31 GMT | The URL fragment trick that makes zero-knowledge file sharing possible | Brendan | [Read More](https://medium.com/p/37145f617e73) |
 | Fri, 13 Mar 2026 16:01:02 GMT | Cybersecurity Awareness Scenario #4 | Devore McIntosh | [Read More](https://medium.com/p/4c314200cece) |
 | Fri, 13 Mar 2026 16:00:56 GMT | Write-up TryHackMe: Attacktive Directory - Tugas 8 ID-Networkers | Muhammad Ridwan | [Read More](https://medium.com/p/0e132035fccd) |
 | Fri, 13 Mar 2026 15:59:56 GMT | Bounty Hacker Walkthrough | prajakta sutar | [Read More](https://medium.com/p/225e420d7a3c) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Mar 2026 11:21:45 GMT | The $4.88 Million Risk: Why Disaster Recovery Demands Dedicated Servers | Servers99 | [Read More](https://medium.com/p/45c7a0a447ca) |
 | Fri, 13 Mar 2026 11:19:32 GMT | Top Cyber Security Companies in Chennai 2026 | Vinod Senthil | [Read More](https://medium.com/p/8f0a590072aa) |
 | Fri, 13 Mar 2026 11:17:44 GMT | Görünmeyeni Korumak — Kriptolojiye Giriş | BekirBurakSaka | [Read More](https://medium.com/p/60effeb81edd) |
-| Fri, 13 Mar 2026 11:12:42 GMT | The Ultimate Cisco Router Security Audit: 9 Essential Checks Every Engineer Must Run | CyberGaar | [Read More](https://medium.com/p/878f59118408) |
-| Fri, 13 Mar 2026 11:11:00 GMT | Securing Azure Virtual Networks with NSGs and ASGs | Ibidun Isaac | [Read More](https://medium.com/p/38a727fd17cf) |
-| Fri, 13 Mar 2026 11:09:38 GMT | Securing the Smart Factory: Cloud Architecture for Heavy Industrial Weaving | Punithm | [Read More](https://medium.com/p/09ef3db15ab3) |
-| Fri, 13 Mar 2026 11:08:07 GMT | Review and Analysis of the UK House of Lords Report: Rebuilding Forensic Science for Criminal… | Ritujaa Kelaskar | [Read More](https://medium.com/p/521494be434c) |
-| Fri, 13 Mar 2026 11:05:30 GMT | Product Hunt launch to Cyber Extortion in 24 hours | Ekaansh Verma | [Read More](https://medium.com/p/5ddfd32ff0a7) |
-| Fri, 13 Mar 2026 11:05:26 GMT | M365’te Gerçek Data Governance: Purview + DLP + Insider Risk Entegrasyonu — Bölüm 3 | Yiğit Şener | [Read More](https://medium.com/p/e0e320d06303) |
-| Fri, 13 Mar 2026 11:02:44 GMT | From 2025 Findings to 2026 Risk: What Our Pen Testers Are Seeing Now | MTI Technology UK | [Read More](https://medium.com/p/ddad5525ec10) |
-| Fri, 13 Mar 2026 11:01:38 GMT | Nothing To Do With Money | O. J. Okpabi | [Read More](https://medium.com/p/9726a306d0b1) |
-| Fri, 13 Mar 2026 11:00:01 GMT | Ghost Leak: Beacon is already dead and gone, but keeps calling back to Home. | Carrie | [Read More](https://medium.com/p/7962c2f4d495) |
-| Fri, 13 Mar 2026 10:55:37 GMT | 6-Month AI Diploma in Cyber Security in Delhi | Manisha Chaudhary | [Read More](https://medium.com/p/7cb51a825319) |
-| Fri, 13 Mar 2026 10:53:39 GMT | The Cybersecurity Career Roadmap Most Beginners Follow Is Designed to Keep Them Beginners — Here Is… | R.H Rizvi | [Read More](https://medium.com/p/58f34caa7003) |
-| Fri, 13 Mar 2026 10:51:07 GMT | How I Found Three Race Conditions That Let Me Manipulate an Entire Review System from One Free… | Sreejihkn | [Read More](https://medium.com/p/659aa410b4c2) |
-| Fri, 13 Mar 2026 10:38:07 GMT | Insecure Deserialization in Java | Redfox Security | [Read More](https://medium.com/p/15b33986a388) |
-| Fri, 13 Mar 2026 10:32:25 GMT | SQL Injection: The Bug Born From Deadline Pressure | Rajeswari | [Read More](https://medium.com/p/6ede9d18d5ab) |
-| Fri, 13 Mar 2026 10:29:49 GMT | Metasploit Pro 5.0.0 Introduces Advanced Capabilities for Modern Security Testing | Jas | [Read More](https://medium.com/p/dd5c80fe8570) |
-| Fri, 13 Mar 2026 10:25:44 GMT | Your AI Policy Was Written For the AI You Imagined, Not The Reality… So It’s Useless. | Sharon Shumbambiri | [Read More](https://medium.com/p/95b497f2eee9) |
