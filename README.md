@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Mar 2026 06:55:49 GMT | Building a Recon Framework in Python | Fateyaly | [Read More](https://medium.com/p/19740329de75) |
+| Fri, 13 Mar 2026 06:55:01 GMT | ️ Traversed CTF Walkthrough | maz4l | [Read More](https://medium.com/p/2918d7b5f8a6) |
+| Fri, 13 Mar 2026 06:53:42 GMT | Logic Flaw in Meta Account Center: The Case of the Silent Patched Disavow Flow | Evangeliux | [Read More](https://medium.com/p/715a0662775f) |
+| Fri, 13 Mar 2026 06:51:18 GMT | ⚠️ The USB Attack: A Tiny Device, A Huge Risk | Bugitrix | [Read More](https://medium.com/p/3a66795f65f1) |
+| Fri, 13 Mar 2026 06:47:08 GMT | CRYPTOGRAPHY AND NETWORK SECURITY | Madhan Gowda B H | [Read More](https://medium.com/p/1c24a7e22c0f) |
+| Fri, 13 Mar 2026 06:47:02 GMT | Token Theft in Microsoft Entra ID: Attack & Mitigation | Prasoon Mathur | [Read More](https://medium.com/p/42e64f2feee4) |
+| Fri, 13 Mar 2026 06:46:25 GMT | Is Your BPO Actually Ready for AI? Here’s the Security Conversation Nobody’s Having | Rom | [Read More](https://medium.com/p/bb7dd5d51e2e) |
+| Fri, 13 Mar 2026 06:43:40 GMT | How to Get Burp Suite Through Cloudflare WAF — What Actually Works (2026) | Muhammad Sameer | [Read More](https://medium.com/p/9fc1c6cd6a92) |
+| Fri, 13 Mar 2026 06:35:15 GMT | Why Your Enterprise Needs to Replace VPN with Zero Trust Network Access in 2026 | Zero1 Technology | [Read More](https://medium.com/p/4b08b81ce077) |
+| Fri, 13 Mar 2026 06:35:10 GMT | Python Projects For CyberSecurity-Subdomain Enumerator | SAMIN BIN HUMAYUN | [Read More](https://medium.com/p/41b02506e442) |
+| Fri, 13 Mar 2026 06:35:05 GMT | Educational Visit to Phillaur Police Academy: A Practical Exposure to Forensic Science and Police… | Ipseeta Thakur | [Read More](https://medium.com/p/5f93e288b4c6) |
+| Fri, 13 Mar 2026 06:29:02 GMT | Living-off-the-Land Attacks: How Adversaries Use Legitimate Tools to Stay Invisible | Cynox Security LLP. | [Read More](https://medium.com/p/1b6956c467d7) |
+| Fri, 13 Mar 2026 06:18:53 GMT | Residential Security Made Easy: Tips for Every Household | Big Guys Agency | [Read More](https://medium.com/p/db9e2a15f8db) |
+| Fri, 13 Mar 2026 06:17:14 GMT | Inside the Dark Web: The Hidden Internet Most People Never See | The Cyber Ground | [Read More](https://medium.com/p/6a7e4ce599c3) |
+| Fri, 13 Mar 2026 06:16:33 GMT | Top 10 Open Source Hardware Projects for Makers: From Raspberry Pi Experiments to Custom PCB… | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/e2330566b015) |
+| Fri, 13 Mar 2026 06:15:14 GMT | IAM & AAA: The Digital Gatekeepers | Sujon Al Mamun | [Read More](https://medium.com/p/3604129ba8d6) |
+| Fri, 13 Mar 2026 06:01:00 GMT | How I Exploited Three API Vulnerabilities in a Banking Application | Odunlade Adeola | [Read More](https://medium.com/p/5ceff7c70449) |
+| Fri, 13 Mar 2026 05:52:22 GMT | Python Projects For CyberSecurity -Port Scanner | SAMIN BIN HUMAYUN | [Read More](https://medium.com/p/e33bbd6c09af) |
+| Fri, 13 Mar 2026 05:48:47 GMT | AI Hacking isn’t how you think it is | Said-Abbosxon Nabijonov - 0trc | [Read More](https://medium.com/p/555c05aa19a7) |
+| Fri, 13 Mar 2026 05:46:06 GMT | Vulnerabilities makes UPS or Why CVSS and EPSS doesn’t work anymore | Sergey Gordeychik | [Read More](https://medium.com/p/a346c027595f) |
+| Fri, 13 Mar 2026 05:36:51 GMT | Top Safety Responsibilities of a Traffic Marshal on Site | Jane Tang | [Read More](https://medium.com/p/fc9dec69993f) |
+| Fri, 13 Mar 2026 05:33:42 GMT | Business Continuity vs Disaster Recovery: What’s the Difference? | GRC Software | [Read More](https://medium.com/p/b3926ee0cc0e) |
+| Fri, 13 Mar 2026 05:31:24 GMT | Day 73 — Why Policy Matters in This AI Project, and Why Kyverno Deserves a Serious Place in the… | Alok Rahul | [Read More](https://medium.com/p/c4437d2293de) |
+| Fri, 13 Mar 2026 05:27:33 GMT | bloat.py | Vishvambhar ranoshe | [Read More](https://medium.com/p/9b70e94e7f49) |
 | Fri, 13 Mar 2026 05:24:39 GMT | I Grew Up in a Small Town in Punjab. I Always Wanted to Win. | Aakpuri | [Read More](https://medium.com/p/41cd730553f7) |
 | Fri, 13 Mar 2026 05:21:30 GMT | When the Admin Console Becomes the Weapon: Hunting the Handala Threat Actor in Microsoft… | Surya Teja | [Read More](https://medium.com/p/f972c7d765d3) |
 | Fri, 13 Mar 2026 05:21:00 GMT | Spring Boot Security - Add Login to Your API in 10 Minutes | Dhruval Vaishnav | [Read More](https://medium.com/p/eb37c3238552) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Thu, 12 Mar 2026 21:10:50 GMT | Threat Actors Claim 1PB Data Exfiltration in Breach of TELUS Digital | RealSec.io | [Read More](https://medium.com/p/93efd90f8ec1) |
 | Thu, 12 Mar 2026 21:02:50 GMT | Smart play apk | Smartplayapk | [Read More](https://medium.com/p/eccbf5d2b695) |
 | Thu, 12 Mar 2026 21:01:00 GMT | Centralized PAT Issuance in Snowflake (for Cortex REST API) | Chris Cardillo | [Read More](https://medium.com/p/eabf0db588eb) |
-| Thu, 12 Mar 2026 21:01:00 GMT | Unfiltered Restart — Day 24: Side Questing, Revit | Maximillian Rueda | [Read More](https://medium.com/p/565b1f5da5c6) |
-| Thu, 12 Mar 2026 21:00:58 GMT | When Old Tricks Get a New Language: What VENON Taught Me About Banking Malware | Oluwatosin Ogunjimi | [Read More](https://medium.com/p/c0125af012e9) |
-| Thu, 12 Mar 2026 21:00:30 GMT | The Secure Collaboration Stack for Modern NGOs: Why Encryption, AI Security, and Blockchain Matter… | Heliusnetwork | [Read More](https://medium.com/p/2b63e0ddba2e) |
-| Thu, 12 Mar 2026 20:57:39 GMT | AI Security Wake‑Up Call: How AI Phishing and AI Malware Are Rewriting Cyber Risk for Today’s… | Roger Millar | [Read More](https://medium.com/p/43f7c7ab3f9d) |
-| Thu, 12 Mar 2026 20:50:39 GMT | Zombie ZIP — (CVE-2026–0866) - Proof of Concept | s4mb4sh | [Read More](https://medium.com/p/e5df4b6b6791) |
-| Thu, 12 Mar 2026 20:47:42 GMT | A Printer Took Down an Entire Business in 72 Hours — The 2026 Cyberattack No One Saw Coming | Noel | [Read More](https://medium.com/p/4800cbb2a53a) |
-| Thu, 12 Mar 2026 20:47:03 GMT | Fiverr Freelancers Scam Alert ❗ — How I Almost Fell for a Phishing Attack | HusnaAnjum | [Read More](https://medium.com/p/8e5943c34a5e) |
-| Thu, 12 Mar 2026 20:45:49 GMT | Cybersecurity Tips for Personal Data Protection: Keep Your Info Safe | cyber tech | [Read More](https://medium.com/p/168c4f049702) |
-| Thu, 12 Mar 2026 20:41:43 GMT | Security Practicals: Complete Walkthrough | Hithaishi S P | [Read More](https://medium.com/p/7dde53c961ae) |
-| Thu, 12 Mar 2026 20:40:08 GMT | Bypassing AMSI | z3l3v | [Read More](https://medium.com/p/5b22e9ab1a9e) |
-| Thu, 12 Mar 2026 20:35:58 GMT | Down the rabbit hole: what’s actually worth learning in offensive security right now | h@shtalk | [Read More](https://medium.com/p/185fdc9f674f) |
-| Thu, 12 Mar 2026 20:35:06 GMT | How I Passed the eJPT Exam With 97% — My Strategy and Practical Tips | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/b83b0d5fa32d) |
-| Thu, 12 Mar 2026 20:33:01 GMT | SOC from Scratch #6 — Understanding Alerts, Incidents, and Escalation | Shane Samuel | [Read More](https://medium.com/p/11f58b798d75) |
-| Thu, 12 Mar 2026 20:16:00 GMT | AI SOC Agent Pro Edition— Stop Triaging Wazuh Alerts Manually | Neetrox | [Read More](https://medium.com/p/77487f891514) |
-| Thu, 12 Mar 2026 20:15:10 GMT | Hidden Backdoors in Open-Source AI Models: The Hidden Threat in the AI Supply Chain | Rajaalitabish | [Read More](https://medium.com/p/ebd522bc589f) |
-| Thu, 12 Mar 2026 20:15:10 GMT | LLM06: Excessive Agency — When AI Has Too Much Power (2025) | Seema Gupta | [Read More](https://medium.com/p/5f79668e5334) |
-| Thu, 12 Mar 2026 20:15:00 GMT | The Day I Found an AWS Key Hidden Inside a Website | Shawn micheal | [Read More](https://medium.com/p/897c5b49a634) |
-| Thu, 12 Mar 2026 20:14:52 GMT | Deploying a Honeypot in Azure: Collecting and Visualizing Attack Data on a Map with Microsoft… | Melchizedek Anyonje | [Read More](https://medium.com/p/b2f33b1d6835) |
-| Thu, 12 Mar 2026 20:12:43 GMT | Building a Live SOC + Honeynet in Azure | Aniyah Henderson | [Read More](https://medium.com/p/d3cf1611650c) |
-| Thu, 12 Mar 2026 19:58:46 GMT | The Unfortunate Fool | Unsaid Thoughts | [Read More](https://medium.com/p/79bf5db47c40) |
-| Thu, 12 Mar 2026 19:51:59 GMT | Why Traditional Locks Aren’t Enough for 2026 | Castilloed | [Read More](https://medium.com/p/fd43739841e3) |
-| Thu, 12 Mar 2026 19:41:00 GMT | User Mode, Kernel Mode and the Windows Function Call Flow | Itz.sanskarr | [Read More](https://medium.com/p/5f20925d4c6f) |
-| Thu, 12 Mar 2026 19:37:50 GMT | Mapping the GraphQL Attack Surface: Schema Enumeration, Batch Abuse, and Resolver Explosions | Ommkoli | [Read More](https://medium.com/p/285714610185) |
-| Thu, 12 Mar 2026 19:37:07 GMT | The Crime Lab: CyberDefenders Lab Writeup | Alex Saropoulos | [Read More](https://medium.com/p/8888160faa2c) |
