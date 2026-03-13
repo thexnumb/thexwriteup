@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Mar 2026 22:22:49 GMT | The Student Who Stopped a Terror Attack | Ava Marie Thompson | [Read More](https://medium.com/p/5a898d3653fb) |
+| Fri, 13 Mar 2026 22:19:30 GMT | Privacy isn’t a feature, it’s an obligation | Bogdan Tudorache | [Read More](https://medium.com/p/3578cd81d3f9) |
+| Fri, 13 Mar 2026 22:11:00 GMT | Your Password Is Lying to You: The Small Business Owner’s Guide to MFA | Sharon Martin | [Read More](https://medium.com/p/4ac23acccdc9) |
+| Fri, 13 Mar 2026 22:09:55 GMT | Meet the CE SentinelOne Assistant — I Built It for Myself, But You Can Try It Too | Dean | [Read More](https://medium.com/p/6db7f6e74518) |
+| Fri, 13 Mar 2026 22:04:52 GMT | DFIR Report: APT28 | Khoa | [Read More](https://medium.com/p/7831719c731a) |
+| Fri, 13 Mar 2026 21:54:37 GMT | Configure VLAN with pfSense — part1 | Danny | [Read More](https://medium.com/p/a32e5f3ab6d1) |
+| Fri, 13 Mar 2026 21:46:39 GMT | Day 1: I Opened a Terminal and Actually Did Something With It | EVAN | [Read More](https://medium.com/p/a299875a1b5b) |
+| Fri, 13 Mar 2026 21:46:23 GMT | How the Ahmia Onion Indexing System Helps Discover Hidden Services | Tor BBB | [Read More](https://medium.com/p/43f515e6e9b9) |
+| Fri, 13 Mar 2026 21:37:31 GMT | From Zero to Hacker: My Cybersecurity Journey Starts Here | EVAN | [Read More](https://medium.com/p/d677ba4f92a7) |
+| Fri, 13 Mar 2026 21:33:45 GMT | How We Build ‘Secure by Design’: A Look Under the Hood of Google Workspace & Gemini | Dominic M R Parkes | [Read More](https://medium.com/p/3a755b2db088) |
 | Fri, 13 Mar 2026 21:33:12 GMT | Lythera – right choice for Start-up | Lythera.io | [Read More](https://medium.com/p/65a0055ac8ec) |
 | Fri, 13 Mar 2026 21:31:01 GMT | Public Wi-Fi and Business Logins: A Bad Mix | Janeel Abrahams | [Read More](https://medium.com/p/aa5f6101bb4b) |
 | Fri, 13 Mar 2026 21:22:04 GMT | Your Satellite Phone Is an Open Book | Berend Watchus | [Read More](https://medium.com/p/6ac4054c22f9) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Mar 2026 15:56:51 GMT | What Hackers Actually Do When They Scan Your Network | Sam Writes Security | [Read More](https://medium.com/p/859679442ca9) |
 | Fri, 13 Mar 2026 15:55:24 GMT | Digital Forensics Triage Tool | Anonymousd | [Read More](https://medium.com/p/68f867cf4825) |
 | Fri, 13 Mar 2026 15:54:24 GMT | Write-up AD:Basic Enumeration — TryMeHack | Galih Permana Rizki | [Read More](https://medium.com/p/effddca13c34) |
-| Fri, 13 Mar 2026 15:53:29 GMT | Mengenal Lab TryHackMe: Active Directory Attack | Abyan Zikra | [Read More](https://medium.com/p/06f706c971d2) |
-| Fri, 13 Mar 2026 15:53:21 GMT | The Agentic Data Plane (ADP): A New Category in AI Infrastructure | Daniel Fornica | [Read More](https://medium.com/p/9ea329d6cbc3) |
-| Fri, 13 Mar 2026 15:52:40 GMT | Attacktive Directory | ikoo | [Read More](https://medium.com/p/d62fdb4dbe0a) |
-| Fri, 13 Mar 2026 15:51:20 GMT | The Clarity Women Deserve | Hondo | [Read More](https://medium.com/p/53f683fb3592) |
-| Fri, 13 Mar 2026 15:50:47 GMT | Write-up TryHackMe: AD Basic Enumeration - ID-Networkers Bootcamp | Muhammad Ridwan | [Read More](https://medium.com/p/7f3548f3d676) |
-| Fri, 13 Mar 2026 15:38:39 GMT | The Automation Myth That’s Costing You Hours Every Week — And How Mastering n8n From Zero Changes… | R.H Rizvi | [Read More](https://medium.com/p/ff222142c1c0) |
-| Fri, 13 Mar 2026 15:37:22 GMT | Exploiting an Infinite Money Logic Flaw - PortSwigger Web Security Academy Lab Write-up | shivam sharma | [Read More](https://medium.com/p/2a14e5b9dd2d) |
-| Fri, 13 Mar 2026 15:37:09 GMT | Man-in-the-Middle Attack Analysis: How Bettercap Exposes Clear-Text Protocol Vulnerabilities | Lorenzodellecoste | [Read More](https://medium.com/p/4b2e1850d2ef) |
-| Fri, 13 Mar 2026 15:35:54 GMT | How Hackers Steal Data on Public Wi-Fi. And How to Stay Safe | VPNHouse | [Read More](https://medium.com/p/34298e1001dd) |
-| Fri, 13 Mar 2026 15:29:20 GMT | One PDF Upload, One Click, Total Surprise | Abdelrahman Maged | [Read More](https://medium.com/p/c10bdd775849) |
