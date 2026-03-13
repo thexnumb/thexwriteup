@@ -12,7 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Mar 2026 17:52:04 GMT | Intercepting Flutter iOS App Traffic with Frida-No VPN, No Iptables | Pritesh Mistry | [Read More](https://medium.com/p/d91339cefe6a) |
+| Fri, 13 Mar 2026 17:51:22 GMT | How to Keep Assets Private Now but Ensure They’re Discovered Later | Olivia Martillo | [Read More](https://medium.com/p/a1ff6ba7866f) |
+| Fri, 13 Mar 2026 17:48:43 GMT | How I got a Hall of Fame at a UEFA Champions League Football Club. | RivuDon | [Read More](https://medium.com/p/bcedc352ce4d) |
+| Fri, 13 Mar 2026 17:47:40 GMT | Loblaw Data Breach Highlights Growing Cyber Risks in the Retail Sector | Chetan Seripally | [Read More](https://medium.com/p/3777b6466a82) |
+| Fri, 13 Mar 2026 17:42:42 GMT | We Built a System That Stores Multi-Million-Dollar Crypto Volumes. Here’s How the Keys Never Leak | Alex Fomin | [Read More](https://medium.com/p/8f188c6db1b4) |
+| Fri, 13 Mar 2026 17:36:00 GMT | Standardizing network patterns across many VNets (without replatforming everything)Pattern Pack | Practical IT | [Read More](https://medium.com/p/54823af3eb13) |
+| Fri, 13 Mar 2026 17:31:38 GMT | THM-Skynet | Mohamed Mejahed | [Read More](https://medium.com/p/8cdda1b519e0) |
+| Fri, 13 Mar 2026 17:30:04 GMT | A Complete AI-Powered SOC: From Detection to Automated Response with Wazuh, n8n, Claude AI, and MCP | Root | [Read More](https://medium.com/p/78e7fa80d986) |
+| Fri, 13 Mar 2026 17:23:32 GMT | How I Built CyberFunLand — An AI-Powered Gamified Platform That Teaches Cybersecurity Through… | Payal_Gupta | [Read More](https://medium.com/p/577af9c47e1c) |
+| Fri, 13 Mar 2026 17:19:59 GMT | AdBasicEnumeration — TryHackMe | Ifannudinazi | [Read More](https://medium.com/p/0b3bfd6ebbc7) |
+| Fri, 13 Mar 2026 17:18:57 GMT | Top 5 Crypto Escrow Services in 2026: Honest Comparison | KeyShield Escrow | [Read More](https://medium.com/p/a03a30bb698b) |
+| Fri, 13 Mar 2026 17:16:38 GMT | Here’s How to Tell a Video Is AI | Ossai Chinedum | [Read More](https://medium.com/p/2df64c34e382) |
+| Fri, 13 Mar 2026 17:14:20 GMT | Best wireless earbuds with active noise cancellation and premium sound quality.Google | Benmohamed Belkacem | [Read More](https://medium.com/p/e5f45194e1fc) |
+| Fri, 13 Mar 2026 17:07:04 GMT | Session Management Failures - When the App Forgets It Should Have Logged You Out | Rufus Kehinde | [Read More](https://medium.com/p/c7a3174b3b74) |
+| Fri, 13 Mar 2026 17:01:34 GMT | SpiderKillChain v7 Challenge — ShadowBrokers CTF Write-up | Thoristo | [Read More](https://medium.com/p/105fbbcc5f75) |
+| Fri, 13 Mar 2026 17:01:15 GMT | Kristi Noem’s DHS Glam Scam Exposes the GOP’s Favorite Kind of Big Government | Manny Otiko | [Read More](https://medium.com/p/3a78fbba7dd9) |
+| Fri, 13 Mar 2026 16:59:50 GMT | New Feature: Expanded Automated Investigation and Response (AIR) in Microsoft Defender for Office | Ryan Adams | [Read More](https://medium.com/p/2ae98231e9ac) |
 | Fri, 13 Mar 2026 16:59:09 GMT | Building a Covert Sensor Network That Looks Like HVAC Noise | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/f13c8dd9a798) |
+| Fri, 13 Mar 2026 16:58:04 GMT | Quick IT Support Tip: Fix Blue Screen of Death (BSOD) Errors Efficiently | Ryan Adams | [Read More](https://medium.com/p/c341df0fb39d) |
 | Fri, 13 Mar 2026 16:56:59 GMT | Attackive Directory — TryHackMe Write Up | Ridho Yoss Pratama | [Read More](https://medium.com/p/33d38f51dfde) |
 | Fri, 13 Mar 2026 16:51:56 GMT | CyberDefenders: PsExec Hunt — Following the Trail of Lateral Movement | rexaa | [Read More](https://medium.com/p/f2cd1cfeee56) |
 | Fri, 13 Mar 2026 16:47:55 GMT | CyberDefenders Lockdown Lab Writeup and Analysis | kbxsrc | [Read More](https://medium.com/p/23d9b7564469) |
@@ -94,21 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Mar 2026 12:30:05 GMT | How IP addressing works | Mahammad Aliyev | [Read More](https://medium.com/p/d47900c2c265) |
 | Fri, 13 Mar 2026 12:26:00 GMT | Is eSIM Safe? What You Need to Know About Security | Basit Tanveer | [Read More](https://medium.com/p/40e7dd3d1036) |
 | Fri, 13 Mar 2026 12:25:03 GMT | Digital Forensics & Steganography: Live Cyber Investigation Demonstration | Dallen Sadru | [Read More](https://medium.com/p/13613e126033) |
-| Fri, 13 Mar 2026 12:20:31 GMT | How Hackers Are Using AI to Launch Cyber Attacks. | Ddm atiq | [Read More](https://medium.com/p/99e158f8695c) |
-| Fri, 13 Mar 2026 12:03:55 GMT | Smart Automation Solutions for Modern Digital Workflows | n8ndevelopers | [Read More](https://medium.com/p/140060049d6f) |
-| Fri, 13 Mar 2026 12:01:01 GMT | The 11-Point Pre-Deployment Security Checklist I Use on Every Client Engagement | Cyphersilhouette | [Read More](https://medium.com/p/d53f06a301bf) |
-| Fri, 13 Mar 2026 11:57:06 GMT | How a Replayed API Request Bypassed Backend Restrictions | Rahul Masal | [Read More](https://medium.com/p/62eaffde1f76) |
-| Fri, 13 Mar 2026 11:54:45 GMT | The Collapse of the Job Market Is Coming, And It Won’t Be Pretty | Vijay Kumar Gupta | [Read More](https://medium.com/p/55c6b4868217) |
-| Fri, 13 Mar 2026 11:54:35 GMT | From a security standpoint Huawei has built a comparable — and in some aspects potentially more… | Benjamin Ohio Akhigbe | [Read More](https://medium.com/p/86e96152db02) |
-| Fri, 13 Mar 2026 11:52:16 GMT | Evidence of Effort Is Not Evidence of Engineering | Peter Hillier/Halton | [Read More](https://medium.com/p/a76b840d4bea) |
-| Fri, 13 Mar 2026 11:52:11 GMT | How I got: GraphQL IDOR — Unauthorised Access of PII via Missing Authorisation Controls | Snehil | [Read More](https://medium.com/p/c7bd7512a6a5) |
-| Fri, 13 Mar 2026 11:50:17 GMT | What Are the Most Common Security Risks for Offices? | Jane Tang | [Read More](https://medium.com/p/64c59a928a12) |
-| Fri, 13 Mar 2026 11:50:17 GMT | Yield Farming Explained: The Smart Contract Logic Behind DeFi Rewards | Ritika Prajapati | [Read More](https://medium.com/p/65efda300780) |
-| Fri, 13 Mar 2026 11:41:43 GMT | Why EC Council University is a Great Choice for Cybersecurity Education | EC Council University | [Read More](https://medium.com/p/6ba67b7ebe55) |
-| Fri, 13 Mar 2026 11:39:15 GMT | I Was the Strong One for Everyone — Until It Nearly Broke Me | Aswathy J G | [Read More](https://medium.com/p/f471b0976ba0) |
-| Fri, 13 Mar 2026 11:31:00 GMT | Advanced IDOR Exploitation: Beyond the Basics | Ishant Gupta | [Read More](https://medium.com/p/c8a62e7885ce) |
-| Fri, 13 Mar 2026 11:22:42 GMT | Introducing TruePB.net: A Running Insight, Rankings and Results Platform — Part 3 | Michael | [Read More](https://medium.com/p/6dfb98fdcc0d) |
-| Fri, 13 Mar 2026 11:22:24 GMT | Building a Career in Cybersecurity After BCA: Skills, Courses, and Opportunities | Onlinesrmsikkim | [Read More](https://medium.com/p/8ddb70bdeb0c) |
-| Fri, 13 Mar 2026 11:21:45 GMT | The $4.88 Million Risk: Why Disaster Recovery Demands Dedicated Servers | Servers99 | [Read More](https://medium.com/p/45c7a0a447ca) |
-| Fri, 13 Mar 2026 11:19:32 GMT | Top Cyber Security Companies in Chennai 2026 | Vinod Senthil | [Read More](https://medium.com/p/8f0a590072aa) |
-| Fri, 13 Mar 2026 11:17:44 GMT | Görünmeyeni Korumak — Kriptolojiye Giriş | BekirBurakSaka | [Read More](https://medium.com/p/60effeb81edd) |
