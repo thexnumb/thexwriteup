@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Fri, 13 Mar 2026 22:50:31 GMT | Trust the DLL, Abuse the Delegation(RBCD) | Hishamrazak | [Read More](https://medium.com/p/757c9d0c011e) |
+| Fri, 13 Mar 2026 22:35:50 GMT | Active Directory Pentesting Practice — TryHackMe Attacktive Directory | Galih Permana Rizki | [Read More](https://medium.com/p/6f910eecf2c0) |
+| Fri, 13 Mar 2026 22:28:18 GMT | Kali Linux. | Ali Alizada | [Read More](https://medium.com/p/e56368a6a566) |
+| Fri, 13 Mar 2026 22:23:41 GMT | Bitunix One-Click Buy: A More Direct Purchase Flow for New and Casual Buyers | Adam Hunt | [Read More](https://medium.com/p/b4ecbf61e866) |
+| Fri, 13 Mar 2026 22:23:08 GMT | HackQuest Season 10 CTF and Interview Experience | Syed Ansab Shah | [Read More](https://medium.com/p/4ddaba1f505c) |
 | Fri, 13 Mar 2026 22:22:49 GMT | The Student Who Stopped a Terror Attack | Ava Marie Thompson | [Read More](https://medium.com/p/5a898d3653fb) |
 | Fri, 13 Mar 2026 22:19:30 GMT | Privacy isn’t a feature, it’s an obligation | Bogdan Tudorache | [Read More](https://medium.com/p/3578cd81d3f9) |
 | Fri, 13 Mar 2026 22:11:00 GMT | Your Password Is Lying to You: The Small Business Owner’s Guide to MFA | Sharon Martin | [Read More](https://medium.com/p/4ac23acccdc9) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Mar 2026 16:02:42 GMT | Penetration Testing Methodology: Information Gathering | Shuvekshyaneupane | [Read More](https://medium.com/p/5002d28bfec2) |
 | Fri, 13 Mar 2026 16:02:31 GMT | The URL fragment trick that makes zero-knowledge file sharing possible | Brendan | [Read More](https://medium.com/p/37145f617e73) |
 | Fri, 13 Mar 2026 16:01:02 GMT | Cybersecurity Awareness Scenario #4 | Devore McIntosh | [Read More](https://medium.com/p/4c314200cece) |
-| Fri, 13 Mar 2026 16:00:56 GMT | Write-up TryHackMe: Attacktive Directory - Tugas 8 ID-Networkers | Muhammad Ridwan | [Read More](https://medium.com/p/0e132035fccd) |
-| Fri, 13 Mar 2026 15:59:56 GMT | Bounty Hacker Walkthrough | prajakta sutar | [Read More](https://medium.com/p/225e420d7a3c) |
-| Fri, 13 Mar 2026 15:56:51 GMT | What Hackers Actually Do When They Scan Your Network | Sam Writes Security | [Read More](https://medium.com/p/859679442ca9) |
-| Fri, 13 Mar 2026 15:55:24 GMT | Digital Forensics Triage Tool | Anonymousd | [Read More](https://medium.com/p/68f867cf4825) |
-| Fri, 13 Mar 2026 15:54:24 GMT | Write-up AD:Basic Enumeration — TryMeHack | Galih Permana Rizki | [Read More](https://medium.com/p/effddca13c34) |
