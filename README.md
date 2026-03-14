@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Mar 2026 21:42:31 GMT | HTB Bounty: File Upload to System via Chimichurri | Onurcan Genç | [Read More](https://medium.com/p/928edc342b0a) |
+| Sat, 14 Mar 2026 21:40:53 GMT | From Firewall Identity to Workload Identity: Completing the Platform Loop | Salwan Mohamed | [Read More](https://medium.com/p/096866f31090) |
+| Sat, 14 Mar 2026 21:31:27 GMT | Active Directory for Pentesters — Part 1: Understanding the Basics | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/608ac28ebe7d) |
 | Sat, 14 Mar 2026 21:11:22 GMT | When Your Firewall Doesn’t Know Who You Are | Salwan Mohamed | [Read More](https://medium.com/p/accaf124f5f0) |
 | Sat, 14 Mar 2026 21:10:33 GMT | “Your Phone is a Hot Wallet”: Upgrading Your Solana Seeker to Multisig | jimthereaper | [Read More](https://medium.com/p/f5352e56f44e) |
 | Sat, 14 Mar 2026 21:05:57 GMT | Weekly Cyber Threat Bulletin: 12 March 2026 | Marcelle Lee | [Read More](https://medium.com/p/cefba27d495c) |
@@ -110,6 +113,3 @@ Part 5 | MRxO1 | [Read More](https://medium.com/p/e0bef120b19f) |
 | Sat, 14 Mar 2026 14:09:29 GMT | The IPv4 Header: The Digital ID Card of Every Packet on the Internet | Gajanan Tayde | [Read More](https://medium.com/p/c73ed696e51a) |
 | Sat, 14 Mar 2026 14:07:56 GMT | Learning Recon: A Look at Burgerprofiel | Saurab Prajapati | [Read More](https://medium.com/p/38a3e406dc97) |
 | Sat, 14 Mar 2026 14:07:38 GMT | Breaking Into GRC Cybersecurity: My Unconventional Journey | IT_ROOKIE | [Read More](https://medium.com/p/0a9004cc4a6e) |
-| Sat, 14 Mar 2026 14:02:58 GMT | Something Was Hidden in YouTube… Until I Checked the Page Source | Vasanth | [Read More](https://medium.com/p/9e8bf9b51401) |
-| Sat, 14 Mar 2026 14:01:05 GMT | Threat Hunting for Web Attacks SQL Injection — LetsDefend [Part 2] | 0verRida | [Read More](https://medium.com/p/ce96c6a71d0d) |
-| Sat, 14 Mar 2026 13:58:27 GMT | SİBER GÜVENLİK TABLETOP EGZERSİZİ: BİR RANSOMWARE SENARYOSU VE MÜDAHALE ANALİZİM | Feyzanur Yüksel | [Read More](https://medium.com/p/1c2bfc1d2686) |
