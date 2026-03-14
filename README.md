@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Mar 2026 17:18:48 GMT | Blue Team Capstone Project (IDN Networkers): Incident Investigation with Wazuh, Wireshark, and… | FAIZ AIDIL BAIHAQI | [Read More](https://medium.com/p/6d9ab4e035e2) |
+| Sat, 14 Mar 2026 17:18:46 GMT | The Dangerous Illusion: Why Most Companies Think They Are Secure (But Aren’t) | Alexis Medina | [Read More](https://medium.com/p/5f8e585ab7ab) |
+| Sat, 14 Mar 2026 17:15:49 GMT | “Leveling Up: Building a Subdomain Scanner in Python for Bug Bounty Hunting” | Akhilswami | [Read More](https://medium.com/p/8bf32ecafb14) |
+| Sat, 14 Mar 2026 17:14:25 GMT | TryHackMe Pickle Rick Walkthrough | Swathykrishna | [Read More](https://medium.com/p/538a2632fc0a) |
+| Sat, 14 Mar 2026 17:09:26 GMT | Work, Dignity, and Economic Agency | Adrian Daisley | [Read More](https://medium.com/p/67009f1c617e) |
+| Sat, 14 Mar 2026 17:07:05 GMT | Global Cybercrime Crackdown Disables 45,000 Malicious IPs Powering Ransomware and Phishing Attacks | Chetan Seripally | [Read More](https://medium.com/p/6f29782acdab) |
+| Sat, 14 Mar 2026 17:02:12 GMT | What is LLM Testing? | Vibe Security | [Read More](https://medium.com/p/3a424e627ee6) |
+| Sat, 14 Mar 2026 16:43:57 GMT | Archimate Next. | Mohammed Brückner | [Read More](https://medium.com/p/bda8e8001c46) |
+| Sat, 14 Mar 2026 16:36:46 GMT | I Passed the Certified Network Pentester (CNPen) Exam - Here’s My Honest Experience | Pratham Shah | [Read More](https://medium.com/p/842a928bc95e) |
+| Sat, 14 Mar 2026 16:36:25 GMT | Inside an OSINT Investigation: How Researchers Analyze Twitter Accounts | Peter Anderson | [Read More](https://medium.com/p/a3daf6e70934) |
 | Sat, 14 Mar 2026 16:27:08 GMT | Intro to the Mr. Robot Simulation | Allen Ace | [Read More](https://medium.com/p/cb1b5393cd7d) |
 | Sat, 14 Mar 2026 16:20:58 GMT | Web-ID Global Guard | Georgesmalki | [Read More](https://medium.com/p/5d4306763ac6) |
 | Sat, 14 Mar 2026 16:10:47 GMT | Passive Reconnaissance on hackersploit.org | Infosamriddhi | [Read More](https://medium.com/p/0c296180be5a) |
@@ -103,13 +113,3 @@ Module 2 — Part 5: Cybersecurity Landscape — Cryptocurrency | Favour
 | Sat, 14 Mar 2026 09:56:01 GMT | What a Mature Policy Library Actually Looks Like | Gaurav Shukla | [Read More](https://medium.com/p/458b6aa71b85) |
 | Sat, 14 Mar 2026 09:47:23 GMT | TryHackMe - Entra ID Monitoring - WriteUp | Axoloth | [Read More](https://medium.com/p/93221d1d426d) |
 | Sat, 14 Mar 2026 09:42:25 GMT | Google Paid Hackers $17 Million in 2025 — Here’s Why | Subhan Ali | [Read More](https://medium.com/p/5f5fc65d827e) |
-| Sat, 14 Mar 2026 09:40:39 GMT | Active Directory Attacks: Pass the Password, Pass the Hash & Dumping Hashes | Mert Baykal | [Read More](https://medium.com/p/a12a1321c0be) |
-| Sat, 14 Mar 2026 09:30:04 GMT | The Seat That Was Never Offered: Africa, The Security Council, and the Question Nobody Wants to… | David Okiki Amayo Jr. | [Read More](https://medium.com/p/98a86fcc4269) |
-| Sat, 14 Mar 2026 09:25:45 GMT | StratusAI: I Built an AI-Powered Cloud Security Scanner for AWS and GCP — Here’s Everything | Andrey Pautov | [Read More](https://medium.com/p/89c6702d3b84) |
-| Sat, 14 Mar 2026 09:24:51 GMT | Confidentiality in the Information Age | Igino Corona, Eng PhD | [Read More](https://medium.com/p/e925f5217614) |
-| Sat, 14 Mar 2026 09:23:39 GMT | Master Windows CMD: 100+ Essential Commands for Penetration Testing | Very Lazy Tech | [Read More](https://medium.com/p/7c74e3e90ec9) |
-| Sat, 14 Mar 2026 09:20:49 GMT | How Google’s Trusted Infrastructure Keeps the Cloud Secure | Swapnali Gavali | [Read More](https://medium.com/p/a7381a21bd87) |
-| Sat, 14 Mar 2026 09:16:00 GMT | The Hidden Cost of Waiting for the Perfect CISO Hire | Tyson Martin | [Read More](https://medium.com/p/b4fad0da5832) |
-| Sat, 14 Mar 2026 09:12:56 GMT | How to Add CAPTCHA in WordPress (Best Plugins + Easy Setup Guide) | Smit Pipaliya | [Read More](https://medium.com/p/2313a45b21f0) |
-| Sat, 14 Mar 2026 09:12:47 GMT | Snowflake Trust Center Detections: Real-Time Threat Monitoring for Cloud Data Platforms | Satish Kumar | [Read More](https://medium.com/p/8c2148b00171) |
-| Sat, 14 Mar 2026 09:12:12 GMT | What to Do If Your Identity is Stolen: 7 Important Steps | Emory French | [Read More](https://medium.com/p/e1c6c0af30c9) |
