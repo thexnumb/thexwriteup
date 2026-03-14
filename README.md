@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Mar 2026 19:25:00 GMT | How I understood GRC with a small AI project (kinda) | byL0r3t | [Read More](https://medium.com/p/3cd2f6057db1) |
+| Sat, 14 Mar 2026 19:22:28 GMT | MSG’s Oracle EBS Breach: The Quiet Risk of “Someone Else Hosts It” | Ilias Armenakis | [Read More](https://medium.com/p/2d7ba20d070e) |
+| Sat, 14 Mar 2026 19:21:40 GMT | Over The Wire Bandit : Level : 8 | Soumyadip Manna | [Read More](https://medium.com/p/89c343a5ff47) |
+| Sat, 14 Mar 2026 19:19:16 GMT | OS Command Injection | Abdulnafayk | [Read More](https://medium.com/p/67480b798e69) |
+| Sat, 14 Mar 2026 19:15:02 GMT | Top 30+ AI Security Tools for Securing AI Agents & LLMs (2026 Guide) — By Ravindra Annam | Ravindra Annam | [Read More](https://medium.com/p/0bd152d32df0) |
+| Sat, 14 Mar 2026 19:04:43 GMT | FREE CYBERSECURITY LIVE SESSION | Dallen Sadru | [Read More](https://medium.com/p/e08111ae7e19) |
+| Sat, 14 Mar 2026 19:04:23 GMT | Digital Sovereignty: Take Back Your “Ghost” from the Identity Hubs! | Adewale Adetule | [Read More](https://medium.com/p/f14248d51062) |
+| Sat, 14 Mar 2026 19:02:28 GMT | Most bug bounty writeups are recycled. Real bugs are hiding in the specs. | sin99xx | [Read More](https://medium.com/p/ded73f6dd06e) |
+| Sat, 14 Mar 2026 18:56:35 GMT | TryHackMe Writeup: AD Basic Enumeration — Mengenal Active Directory dari Nol | Muhammad Ridwan | [Read More](https://medium.com/p/04088ff924dd) |
+| Sat, 14 Mar 2026 18:47:06 GMT | I Asked a Crow to Carry My Darkness | Samriddhi Srivastava | [Read More](https://medium.com/p/e09f30d92f1d) |
+| Sat, 14 Mar 2026 18:44:41 GMT | My $150 Bug Bounty: A Low-Severity Access Control Bug | Muhammad Wageh | [Read More](https://medium.com/p/ed3452dcbbec) |
+| Sat, 14 Mar 2026 18:38:23 GMT | I4C Internship Experience | Azeeza Farhana Shaik | [Read More](https://medium.com/p/7f44f75588f6) |
+| Sat, 14 Mar 2026 18:32:06 GMT | How I Passed the Pentest+ 003 in less than 30 Days | cyber_0xGambit | [Read More](https://medium.com/p/e5d9f6248344) |
 | Sat, 14 Mar 2026 18:28:25 GMT | Setting Security Basics in Microsoft Entra ID: Controlling BitLocker Recovery Keys | Ryan Adams | [Read More](https://medium.com/p/34d1001b8ab0) |
 | Sat, 14 Mar 2026 18:25:21 GMT | Preparing for a Pen (Penetration) Test | Kiran Limbu Phudong | [Read More](https://medium.com/p/989da2422346) |
 | Sat, 14 Mar 2026 18:24:34 GMT | Weak Credentials in Industrial Routers: How Identical Hashes Led to Extending CVE-2024–45275 | Marcel Rick-Cen | [Read More](https://medium.com/p/56d25ef415f7) |
@@ -100,16 +113,3 @@ Module 2 — Part 5: Cybersecurity Landscape — Cryptocurrency | Favour
 | Sat, 14 Mar 2026 12:18:09 GMT | 5 Free Cybersecurity Projects You Must Try in 2026 | Dibeesh KS | [Read More](https://medium.com/p/9907ff18466d) |
 | Sat, 14 Mar 2026 12:14:51 GMT | Demystifying Web Architecture: Why Understanding the “Big Picture” Made Me a Better Engineer. | Dushani Ekanayake | [Read More](https://medium.com/p/4657b95bbc5f) |
 | Sat, 14 Mar 2026 12:03:26 GMT | Cybersecurity Slowly Changes “How” You See the Internet | Kavita Prajapati | [Read More](https://medium.com/p/ef5d3679b94c) |
-| Sat, 14 Mar 2026 12:01:24 GMT | Osint for Defense: Cybersecurity Open Source Intelligence | cyber tech | [Read More](https://medium.com/p/ac34fc0a6c4f) |
-| Sat, 14 Mar 2026 12:01:01 GMT | How I Built an AI Chatbot for SailPoint IdentityIQ | Nihar Kalyanam | [Read More](https://medium.com/p/e5cc3c2fac4d) |
-| Sat, 14 Mar 2026 12:01:01 GMT | Day 1: Binary, Hexadecimal, and Data Representation | Satender Kumar | [Read More](https://medium.com/p/7d57bf30de01) |
-| Sat, 14 Mar 2026 12:00:43 GMT | Cybersecurity Trends in 2026: Shadow AI, Quantum Threats, Deepfakes and the New Attack Landscape | Dibeesh KS | [Read More](https://medium.com/p/be07ae2ec471) |
-| Sat, 14 Mar 2026 12:00:38 GMT | The Moment Automation Becomes Intelligence: A Beginner’s Guide to Building AI Agents in n8n That… | R.H Rizvi | [Read More](https://medium.com/p/873a6ba7f79f) |
-| Sat, 14 Mar 2026 11:56:28 GMT | How I Accidentally Unleashed a Supply Chain Attack on the Internet While Hunting a Big Tech Target. | Snehil | [Read More](https://medium.com/p/e95c515c5395) |
-| Sat, 14 Mar 2026 11:50:56 GMT | Media as a Blackmail Tool | R. F. Dace ♘ | [Read More](https://medium.com/p/9e7e9077a005) |
-| Sat, 14 Mar 2026 11:25:16 GMT | Day 20 : Stolen mount | Cybersecurity with Jojo | [Read More](https://medium.com/p/437659418299) |
-| Sat, 14 Mar 2026 11:25:01 GMT | Feelings are a lot. | Half a Cup Full | [Read More](https://medium.com/p/f439641f8399) |
-| Sat, 14 Mar 2026 11:24:35 GMT | Are Your Bank OTPs Still Safe? Inside BSP’s Push for Stronger Authentication | Shin Jara | [Read More](https://medium.com/p/37471f1ced3e) |
-| Sat, 14 Mar 2026 11:22:07 GMT | Linux Dünyasında CrackArmor Alarmı | Mesut Ozsoy | [Read More](https://medium.com/p/3bcd50c6d405) |
-| Sat, 14 Mar 2026 11:14:34 GMT | Breach Reported on PC of Kanashibari’s Effects Technician | GILDER | [Read More](https://medium.com/p/a954e1ec3b0e) |
-| Sat, 14 Mar 2026 11:07:32 GMT | Behind the Scenes of a Bug Bounty Workshop at CGC University | Gourav Garg | [Read More](https://medium.com/p/2e289d0cc81b) |
