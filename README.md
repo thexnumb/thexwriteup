@@ -12,7 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Mar 2026 11:25:16 GMT | Day 20 : Stolen mount | Cybersecurity with Jojo | [Read More](https://medium.com/p/437659418299) |
 | Sat, 14 Mar 2026 11:25:01 GMT | Feelings are a lot. | Half a Cup Full | [Read More](https://medium.com/p/f439641f8399) |
+| Sat, 14 Mar 2026 11:24:35 GMT | Are Your Bank OTPs Still Safe? Inside BSP’s Push for Stronger Authentication | Shin Jara | [Read More](https://medium.com/p/37471f1ced3e) |
 | Sat, 14 Mar 2026 11:22:07 GMT | Linux Dünyasında CrackArmor Alarmı | Mesut Ozsoy | [Read More](https://medium.com/p/3bcd50c6d405) |
 | Sat, 14 Mar 2026 11:14:34 GMT | Breach Reported on PC of Kanashibari’s Effects Technician | GILDER | [Read More](https://medium.com/p/a954e1ec3b0e) |
 | Sat, 14 Mar 2026 11:07:32 GMT | Behind the Scenes of a Bug Bounty Workshop at CGC University | Gourav Garg | [Read More](https://medium.com/p/2e289d0cc81b) |
@@ -112,5 +114,3 @@ APPRENTICE - Lab -02 | M o $ t a | [Read More](https://medium.com/p/9d1f09ed7b66
 | Sat, 14 Mar 2026 04:01:00 GMT | The Kill Chain Starts at Your Front Door | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/15213919bfd5) |
 | Sat, 14 Mar 2026 03:59:24 GMT | Mail Service Lab: Extreme Red Team LAB Review | Sabastiaz | [Read More](https://medium.com/p/b5eed3dfea40) |
 | Sat, 14 Mar 2026 03:56:42 GMT | Network Hacking — Pre-connection attacks — Parrot/Kali/Tails | Aakash Tm | [Read More](https://medium.com/p/db3202f2668d) |
-| Sat, 14 Mar 2026 03:51:49 GMT | Hunting Iranian Iranian State-Sponsored Threat Actors | Zakkir | [Read More](https://medium.com/p/097848c7dbe7) |
-| Sat, 14 Mar 2026 03:50:57 GMT | Fowsniff CTF — TryHackMe Walkthrough | codingbolt | [Read More](https://medium.com/p/9060bf701dd4) |
