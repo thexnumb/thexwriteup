@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Mar 2026 13:36:10 GMT | Why Your AI Safety Layer Will Fail (And What To Do About It). | Mattijs Moens | [Read More](https://medium.com/p/abee9f25b800) |
+| Sat, 14 Mar 2026 13:34:30 GMT | eJPT - System-Host Based Attacks CTF 1 | Francesco Pastore | [Read More](https://medium.com/p/a401064482df) |
+| Sat, 14 Mar 2026 13:32:33 GMT | TryHackMe Writeup: Pwning the b3dr0ck Machine . | Amrou bekhedda | [Read More](https://medium.com/p/344b8341b378) |
+| Sat, 14 Mar 2026 13:14:54 GMT | İnternette Gerçekten Anonim Kalmak Mümkün mü? | Ali Yaşe | [Read More](https://medium.com/p/1f47ff334ae7) |
+| Sat, 14 Mar 2026 13:14:05 GMT | ⚠️ The Hidden Risk of Screenshots | Bugitrix | [Read More](https://medium.com/p/0ec91c1165cf) |
+| Sat, 14 Mar 2026 13:00:54 GMT | AI-Ready Data: The Foundation of Effective AI Governance | Ricardo Newman | [Read More](https://medium.com/p/407bbab496b8) |
+| Sat, 14 Mar 2026 12:59:42 GMT | ROT13 Encryption: A Beginner-Friendly Introduction to Classic Cryptography | Biprajit | [Read More](https://medium.com/p/4d84c4b3fed8) |
+| Sat, 14 Mar 2026 12:57:57 GMT | Ethical Hacking Crash Course in Delhi, India | EINITIAL24 | [Read More](https://medium.com/p/5658dbc7de0d) |
 | Sat, 14 Mar 2026 12:48:36 GMT | # How I Found a Snyk-Verified 9.3 | freebold | [Read More](https://medium.com/p/c0db24512733) |
 | Sat, 14 Mar 2026 12:45:31 GMT | Write-up: Eksploitasi Active Directory Melalui Lab Attacktive Directory | Agungsaraswati | [Read More](https://medium.com/p/a6c5d087dd1e) |
 | Sat, 14 Mar 2026 12:33:21 GMT | The Most Dangerous Smart Contract Bugs Aren’t in the Code | ZerΔch | [Read More](https://medium.com/p/883631afc657) |
@@ -105,11 +113,3 @@ Part 4 | MRxO1 | [Read More](https://medium.com/p/d55cdf826c6f) |
 | Sat, 14 Mar 2026 06:28:41 GMT | Panduan Menemukan Sumber Informasi Resmi Platform Flyingslot | flyingslot | [Read More](https://medium.com/p/0eab95d50008) |
 | Sat, 14 Mar 2026 06:25:25 GMT | VAPT Certification in Singapore | certvalue | [Read More](https://medium.com/p/19daf482db19) |
 | Sat, 14 Mar 2026 06:21:33 GMT | Is the Atlassian Ecosystem Starting to Crack? | Alex Polyakov | [Read More](https://medium.com/p/ae75f9df90f2) |
-| Sat, 14 Mar 2026 06:20:51 GMT | Wiper Attacks: The Cyber Threat That Destroys Everything | Gravity Innovative Solutions | [Read More](https://medium.com/p/2ea8815d3a9c) |
-| Sat, 14 Mar 2026 06:17:58 GMT | Understanding End-to-End Encryption: Build a Secure Chat App with Next.js, WebSocket and Web Crypto | Shivam Raj | [Read More](https://medium.com/p/ad66679d887c) |
-| Sat, 14 Mar 2026 05:49:14 GMT | JWT Storage Isn’t a Binary Choice — It’s a Deployment Decision | Idreesdev | [Read More](https://medium.com/p/a2beb32d873f) |
-| Sat, 14 Mar 2026 05:49:04 GMT | I Listened to a Podcast About Phone Hackers. Then I Realized Nothing Actually Changed. | Haniakhan | [Read More](https://medium.com/p/d8bf0500b880) |
-| Sat, 14 Mar 2026 05:45:38 GMT | Building an Intelligent DevSecOps Pipeline: How I Used AI to Turn Vulnerability Scan Noise into… | Sumit Giri | [Read More](https://medium.com/p/3d6e4240f8a0) |
-| Sat, 14 Mar 2026 05:44:27 GMT | The FBI’s Most Dangerous Weapon Turned Against Them: The Untold Story of Max Butler | Ziadi Lotfi | [Read More](https://medium.com/p/43192c809e93) |
-| Sat, 14 Mar 2026 05:42:58 GMT | The Hidden Cybersecurity Risks Inside Healthcare Vendor Networks | Legal Thoughts | [Read More](https://medium.com/p/0f7d152c39ed) |
-| Sat, 14 Mar 2026 05:39:34 GMT | Security Personnel Services: Ensuring Safety and Protection for Businesses | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/c297e0321a79) |
