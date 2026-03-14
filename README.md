@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Mar 2026 07:22:34 GMT | Network Monitoring & Log Analyze Using Wazuh Manager - Digital Forensics Challenge | Xinlisalim | [Read More](https://medium.com/p/6bc340bf49b5) |
+| Sat, 14 Mar 2026 07:20:59 GMT | 12 Reasons Your Business Needs Video Surveillance | Doris William | [Read More](https://medium.com/p/c573aee39df8) |
+| Sat, 14 Mar 2026 07:17:49 GMT | How Does Antivirus Pro Protect Your Banking Transactions on Public Wi-Fi? | Siyanoav | [Read More](https://medium.com/p/a560a676c6f8) |
+| Sat, 14 Mar 2026 07:12:57 GMT | Aureon Capital Review: How a Simple “Podcast Invite” Cleared My Wallets in Minutes | Emmanuel Laizer | [Read More](https://medium.com/p/b757a799eef8) |
+| Sat, 14 Mar 2026 07:11:23 GMT | Detecting Evil Twin Networks - Project TRUSTED NET | Kernel Phantom | [Read More](https://medium.com/p/969011a6940d) |
+| Sat, 14 Mar 2026 07:10:35 GMT | Understanding the Role of VAPT in Cybersecurity | Antonyrajvedamanickam | [Read More](https://medium.com/p/b0311ee103f0) |
+| Sat, 14 Mar 2026 07:05:58 GMT | Understanding AWS security groups and network ACLs | unica 02 | [Read More](https://medium.com/p/59bf09bca503) |
+| Sat, 14 Mar 2026 07:03:19 GMT | Understanding SSRF: When a Server Is Tricked Into Attacking Itself | Anshkamra | [Read More](https://medium.com/p/55881c9858ec) |
+| Sat, 14 Mar 2026 07:02:02 GMT | How WibeIT Protects Your Privacy Inside the Secure Messaging Technology | WibeIT Application | [Read More](https://medium.com/p/5e19b38ac4d6) |
+| Sat, 14 Mar 2026 07:00:14 GMT | I Built a Sub-20ms LLM Guardrail Service From Scratch — Here’s Why Existing Solutions Weren’t Good… | Prateekpulastya | [Read More](https://medium.com/p/f9db012da283) |
+| Sat, 14 Mar 2026 06:57:15 GMT | Running a Local AI Pentesting MCP Server with HexStrike (Claude Desktop + Debian) | Dasmanish | [Read More](https://medium.com/p/c7b31ef13c17) |
+| Sat, 14 Mar 2026 06:43:36 GMT | TRRIP by Orbitra Technologies | yugal-nandurkar | [Read More](https://medium.com/p/b6379f5d0f5f) |
+| Sat, 14 Mar 2026 06:39:05 GMT | The Importance of GRC (Governance, Risk, and Compliance) for Modern Organizations | Ankit rai | [Read More](https://medium.com/p/a71ad298c38b) |
 | Sat, 14 Mar 2026 06:31:45 GMT | Reverse Engineering & Binary Exploitation:
 Part 4 | MRxO1 | [Read More](https://medium.com/p/d55cdf826c6f) |
 | Sat, 14 Mar 2026 06:30:29 GMT | How Hackers Can Manipulate AI With Prompt Injection | Paritosh | [Read More](https://medium.com/p/0bd9c7abb1b4) |
@@ -101,16 +114,3 @@ APPRENTICE - Lab -02 | M o $ t a | [Read More](https://medium.com/p/9d1f09ed7b66
 | Fri, 13 Mar 2026 20:51:29 GMT | CYBER THREAT LANDSCAPE IN EAST AFRICA | JACKLINE WAIRIMU MAINA | [Read More](https://medium.com/p/301fd0f726a1) |
 | Fri, 13 Mar 2026 20:47:45 GMT | Offsec “Wpwn” CTF Writeup | sabR | [Read More](https://medium.com/p/517ad3291c5e) |
 | Fri, 13 Mar 2026 20:32:21 GMT | My First Steps into Malware Development | oussama | [Read More](https://medium.com/p/5446e81474a1) |
-| Fri, 13 Mar 2026 20:31:00 GMT | Your SIM is Still in Your Pocket, But a Hacker Just Used It to Empty Your Bank | Lalit Tech Savvy | [Read More](https://medium.com/p/2e4fdbf8d56a) |
-| Fri, 13 Mar 2026 20:28:06 GMT | Principal HackTheBox Writeup | Heliman | [Read More](https://medium.com/p/fc4e51bc5f4d) |
-| Fri, 13 Mar 2026 20:25:35 GMT | Ghost in the Pipeline: CI/CD as the New Perimeter | zerOiQ | [Read More](https://medium.com/p/d9d8248cac08) |
-| Fri, 13 Mar 2026 20:21:34 GMT | Analysis: Divurion Group Emerges as “Most Ruthless” Dark Web Threat as North Korea Strike Reveals… | Charles Burke | [Read More](https://medium.com/p/fef75251f855) |
-| Fri, 13 Mar 2026 20:17:56 GMT | What Is Risk-Adjusted Yield and Why Does It Matter? | Mercybesthairs | [Read More](https://medium.com/p/015a073dd2ea) |
-| Fri, 13 Mar 2026 20:15:48 GMT | The compliance cliff nobody in JavaScript/Typescript land is talking about | Shantanu Sharma | [Read More](https://medium.com/p/0f88bf1205f1) |
-| Fri, 13 Mar 2026 20:15:40 GMT | Building a Personal Cybersecurity Research Lab using Proxmox Virtualization | Dheeraj Ramasahayam | [Read More](https://medium.com/p/782378dc0a6a) |
-| Fri, 13 Mar 2026 20:14:02 GMT | Why Hackers Target Mid-Sized Companies More Than Enterprises | JSOC IT BLOG | [Read More](https://medium.com/p/6f1f6d71166b) |
-| Fri, 13 Mar 2026 20:12:20 GMT | Securing OpenClaw on a Dedicated Mac Mini: A Complete Pre-Launch Security Audit | OffByOne | [Read More](https://medium.com/p/394f352fed0f) |
-| Fri, 13 Mar 2026 20:09:33 GMT | AI-Based Intrusion Detection Systems for Modern Enterprise Networks | Dheeraj Ramasahayam | [Read More](https://medium.com/p/8b410a3086bf) |
-| Fri, 13 Mar 2026 20:06:12 GMT | Strengthening Business Security with Cyber Resilience and Advanced Data Analytics | One Federal Solution | [Read More](https://medium.com/p/d1c71967f53e) |
-| Fri, 13 Mar 2026 19:55:14 GMT | AI Advances Relevant to Application Security and Software Supply Chain Security | Praveen Malhan | [Read More](https://medium.com/p/f5b10604bcfb) |
-| Fri, 13 Mar 2026 19:51:06 GMT | Must-Take Precautions While Designing Your Backend | Alok | [Read More](https://medium.com/p/5feae108bada) |
