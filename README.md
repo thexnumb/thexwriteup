@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Mar 2026 15:45:51 GMT | Cyber Kill Chain Explained: SOC Alert Reporting, Escalation & Attacker Lifecycle Guide | Mr Sumit Pal | [Read More](https://medium.com/p/effe0f95d9de) |
+| Sat, 14 Mar 2026 15:41:00 GMT | The Day the Maps Went Blank: Unpacking the Cloudflare BYOIP BGP Outage of 2026 | Sohan Kanna | [Read More](https://medium.com/p/b4b2de0ae618) |
+| Sat, 14 Mar 2026 15:31:45 GMT | Nara Proving GroundsWalkthrough (windows Active Directory) | cyber_public_school | [Read More](https://medium.com/p/8ca797708a1a) |
 | Sat, 14 Mar 2026 15:12:00 GMT | Detecting AD Initial Access - TryHackMe - Splunk | Jose Praveen | [Read More](https://medium.com/p/ca887f110885) |
 | Sat, 14 Mar 2026 15:06:03 GMT | OSI Model Explained: The 7 Layers of Networking | Rajaelbahraouy | [Read More](https://medium.com/p/885420e5603e) |
 | Sat, 14 Mar 2026 15:06:00 GMT | Your AI Agent Just Deleted Everything. And It Said It “Panicked.” | Mammoth Cyber | [Read More](https://medium.com/p/64ffdc7498c6) |
@@ -110,6 +113,3 @@ Module 2 — Part 5: Cybersecurity Landscape — Cryptocurrency | Favour
 | Sat, 14 Mar 2026 08:49:42 GMT | Why I Switched from Claude to MiniMax for Autonomous Pentesting | Krishna Kumar | [Read More](https://medium.com/p/2a9540209259) |
 | Sat, 14 Mar 2026 08:49:32 GMT | Membuat Flutter App Dengan Fungsi | Zurichsabil | [Read More](https://medium.com/p/bf7a8ab99e05) |
 | Sat, 14 Mar 2026 08:48:45 GMT | Building Secure Embedded Systems: Best Practices for IoT and Edge Computing Devices | K. Vijaya Lakshmi | [Read More](https://medium.com/p/17e47fde5462) |
-| Sat, 14 Mar 2026 08:34:22 GMT | Scattered Spider Tradecraft: Identity Abuse, Attack Flow, and Defense | Vincenzo Iozzo | [Read More](https://medium.com/p/4fb635280c0a) |
-| Sat, 14 Mar 2026 08:32:45 GMT | Bug Bounty Hunting — Complete Guide (Part-169) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/d3355f57def9) |
-| Sat, 14 Mar 2026 08:31:02 GMT | Bug Bounty Hunting — Complete Guide (Part-168) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/15de94955464) |
