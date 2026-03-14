@@ -12,6 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Mar 2026 14:23:38 GMT | The Art of Making Binaries Lie: Why Static Analysis Struggles With Modern Malware | Orez Yad | [Read More](https://medium.com/p/6156e7d629b2) |
+| Sat, 14 Mar 2026 14:10:51 GMT | Security Copilot X Purview UAL — Part 1 | Yash Mudaliar | [Read More](https://medium.com/p/60ce8e53967b) |
+| Sat, 14 Mar 2026 14:09:29 GMT | The IPv4 Header: The Digital ID Card of Every Packet on the Internet | Gajanan Tayde | [Read More](https://medium.com/p/c73ed696e51a) |
+| Sat, 14 Mar 2026 14:07:56 GMT | Learning Recon: A Look at Burgerprofiel | Saurab Prajapati | [Read More](https://medium.com/p/38a3e406dc97) |
+| Sat, 14 Mar 2026 14:07:38 GMT | Breaking Into GRC Cybersecurity: My Unconventional Journey | IT_ROOKIE | [Read More](https://medium.com/p/0a9004cc4a6e) |
+| Sat, 14 Mar 2026 14:02:58 GMT | Something Was Hidden in YouTube… Until I Checked the Page Source | Vasanth | [Read More](https://medium.com/p/9e8bf9b51401) |
+| Sat, 14 Mar 2026 14:01:05 GMT | Threat Hunting for Web Attacks SQL Injection — LetsDefend [Part 2] | 0verRida | [Read More](https://medium.com/p/ce96c6a71d0d) |
+| Sat, 14 Mar 2026 13:58:27 GMT | SİBER GÜVENLİK TABLETOP EGZERSİZİ: BİR RANSOMWARE SENARYOSU VE MÜDAHALE ANALİZİM | Feyzanur Yüksel | [Read More](https://medium.com/p/1c2bfc1d2686) |
+| Sat, 14 Mar 2026 13:51:31 GMT | 2 şii r | asimtag | [Read More](https://medium.com/p/c8d0bbe1ddcf) |
+| Sat, 14 Mar 2026 13:51:19 GMT | Network Security | J.Dishalan | [Read More](https://medium.com/p/defdb088fc76) |
+| Sat, 14 Mar 2026 13:42:05 GMT | Investigating a Compromised AWS Environment, Cloud Forensics | D Satheesh Kumar | [Read More](https://medium.com/p/47a2f0c2f3a3) |
+| Sat, 14 Mar 2026 13:41:43 GMT | Cisco Cybersecurity Series
+Module 2 — Part 5: Cybersecurity Landscape — Cryptocurrency | Favour Ugochi Ogbonnaya | [Read More](https://medium.com/p/bf73abd2700c) |
 | Sat, 14 Mar 2026 13:36:10 GMT | Why Your AI Safety Layer Will Fail (And What To Do About It). | Mattijs Moens | [Read More](https://medium.com/p/abee9f25b800) |
 | Sat, 14 Mar 2026 13:34:30 GMT | eJPT - System-Host Based Attacks CTF 1 | Francesco Pastore | [Read More](https://medium.com/p/a401064482df) |
 | Sat, 14 Mar 2026 13:32:33 GMT | TryHackMe Writeup: Pwning the b3dr0ck Machine . | Amrou bekhedda | [Read More](https://medium.com/p/344b8341b378) |
@@ -100,16 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Mar 2026 07:11:23 GMT | Detecting Evil Twin Networks - Project TRUSTED NET | Kernel Phantom | [Read More](https://medium.com/p/969011a6940d) |
 | Sat, 14 Mar 2026 07:10:35 GMT | Understanding the Role of VAPT in Cybersecurity | Antonyrajvedamanickam | [Read More](https://medium.com/p/b0311ee103f0) |
 | Sat, 14 Mar 2026 07:05:58 GMT | Understanding AWS security groups and network ACLs | unica 02 | [Read More](https://medium.com/p/59bf09bca503) |
-| Sat, 14 Mar 2026 07:03:19 GMT | Understanding SSRF: When a Server Is Tricked Into Attacking Itself | Anshkamra | [Read More](https://medium.com/p/55881c9858ec) |
-| Sat, 14 Mar 2026 07:02:02 GMT | How WibeIT Protects Your Privacy Inside the Secure Messaging Technology | WibeIT Application | [Read More](https://medium.com/p/5e19b38ac4d6) |
-| Sat, 14 Mar 2026 07:00:14 GMT | I Built a Sub-20ms LLM Guardrail Service From Scratch — Here’s Why Existing Solutions Weren’t Good… | Prateekpulastya | [Read More](https://medium.com/p/f9db012da283) |
-| Sat, 14 Mar 2026 06:57:15 GMT | Running a Local AI Pentesting MCP Server with HexStrike (Claude Desktop + Debian) | Dasmanish | [Read More](https://medium.com/p/c7b31ef13c17) |
-| Sat, 14 Mar 2026 06:43:36 GMT | TRRIP by Orbitra Technologies | yugal-nandurkar | [Read More](https://medium.com/p/b6379f5d0f5f) |
-| Sat, 14 Mar 2026 06:39:05 GMT | The Importance of GRC (Governance, Risk, and Compliance) for Modern Organizations | Ankit rai | [Read More](https://medium.com/p/a71ad298c38b) |
-| Sat, 14 Mar 2026 06:31:45 GMT | Reverse Engineering & Binary Exploitation:
-Part 4 | MRxO1 | [Read More](https://medium.com/p/d55cdf826c6f) |
-| Sat, 14 Mar 2026 06:30:29 GMT | How Hackers Can Manipulate AI With Prompt Injection | Paritosh | [Read More](https://medium.com/p/0bd9c7abb1b4) |
-| Sat, 14 Mar 2026 06:30:22 GMT | Security Risks in P2P Transactions: The Hidden Side of Instant Payments | AartiWrites | [Read More](https://medium.com/p/3b98953c5202) |
-| Sat, 14 Mar 2026 06:28:41 GMT | Panduan Menemukan Sumber Informasi Resmi Platform Flyingslot | flyingslot | [Read More](https://medium.com/p/0eab95d50008) |
-| Sat, 14 Mar 2026 06:25:25 GMT | VAPT Certification in Singapore | certvalue | [Read More](https://medium.com/p/19daf482db19) |
-| Sat, 14 Mar 2026 06:21:33 GMT | Is the Atlassian Ecosystem Starting to Crack? | Alex Polyakov | [Read More](https://medium.com/p/ae75f9df90f2) |
