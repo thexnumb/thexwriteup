@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Mar 2026 08:34:22 GMT | Scattered Spider Tradecraft: Identity Abuse, Attack Flow, and Defense | Vincenzo Iozzo | [Read More](https://medium.com/p/4fb635280c0a) |
+| Sat, 14 Mar 2026 08:32:45 GMT | Bug Bounty Hunting — Complete Guide (Part-169) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/d3355f57def9) |
+| Sat, 14 Mar 2026 08:31:02 GMT | Bug Bounty Hunting — Complete Guide (Part-168) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/15de94955464) |
+| Sat, 14 Mar 2026 08:26:34 GMT | Case Study: The SolarWinds cyber attack | Karthikeyan | [Read More](https://medium.com/p/0d60a3f15955) |
+| Sat, 14 Mar 2026 08:26:08 GMT | How I Spent 30 Days Chasing a $40,000 Bug Bounty And What I Learned the Hard Way | Hacker MD | [Read More](https://medium.com/p/dc35caf61142) |
+| Sat, 14 Mar 2026 08:24:50 GMT | Cognizant TriZetto Breach: When a Healthcare Vendor Becomes the Weakest Link | Cybersphere Official | [Read More](https://medium.com/p/9989a98fb770) |
+| Sat, 14 Mar 2026 08:22:17 GMT | Shield Your OpenClaw Agents Before Hackers Claw Them Away!!! | cybrNK | [Read More](https://medium.com/p/7f845d27ca00) |
+| Sat, 14 Mar 2026 08:12:54 GMT | Why the best cybersecurity engineers are going freelance — and how RentAHuman.ai | Human Node for AI | [Read More](https://medium.com/p/5257cc2a0ac2) |
+| Sat, 14 Mar 2026 08:03:16 GMT | How I Found an Account Takeover via OTP Bypass Vulnerability (Bug Bounty Day 1) | Deepanshu Deep | [Read More](https://medium.com/p/99df58ab58c2) |
+| Sat, 14 Mar 2026 07:52:57 GMT | Python Projects For CyberSecurity — Hash Cracker | SAMIN BIN HUMAYUN | [Read More](https://medium.com/p/40c1f9022acf) |
+| Sat, 14 Mar 2026 07:51:43 GMT | ⚡ Top 10 OWASP ZAP Add-Ons for Bug Bounty Hunters | ghostyjoe | [Read More](https://medium.com/p/4a3f04244fe8) |
+| Sat, 14 Mar 2026 07:50:57 GMT | Breaking HTTPS? Understanding the BREACH Attack (With a Safe Lab Demo) | ghostyjoe | [Read More](https://medium.com/p/f904e3c2613d) |
+| Sat, 14 Mar 2026 07:47:07 GMT | Day 24 — The Server Said Nothing… But Waited 10 Seconds | Issan | [Read More](https://medium.com/p/8f7d3d9232d5) |
+| Sat, 14 Mar 2026 07:36:43 GMT | The Stock Checker That Started Executing Commands | Issan | [Read More](https://medium.com/p/d928cf5f4173) |
 | Sat, 14 Mar 2026 07:22:34 GMT | Network Monitoring & Log Analyze Using Wazuh Manager - Digital Forensics Challenge | Xinlisalim | [Read More](https://medium.com/p/6bc340bf49b5) |
 | Sat, 14 Mar 2026 07:20:59 GMT | 12 Reasons Your Business Needs Video Surveillance | Doris William | [Read More](https://medium.com/p/c573aee39df8) |
 | Sat, 14 Mar 2026 07:17:49 GMT | How Does Antivirus Pro Protect Your Banking Transactions on Public Wi-Fi? | Siyanoav | [Read More](https://medium.com/p/a560a676c6f8) |
@@ -100,17 +114,3 @@ APPRENTICE - Lab -02 | M o $ t a | [Read More](https://medium.com/p/9d1f09ed7b66
 | Fri, 13 Mar 2026 22:04:52 GMT | DFIR Report: APT28 | Khoa | [Read More](https://medium.com/p/7831719c731a) |
 | Fri, 13 Mar 2026 21:54:37 GMT | Configure VLAN with pfSense — part1 | Danny | [Read More](https://medium.com/p/a32e5f3ab6d1) |
 | Fri, 13 Mar 2026 21:46:39 GMT | Day 1: I Opened a Terminal and Actually Did Something With It | EVAN | [Read More](https://medium.com/p/a299875a1b5b) |
-| Fri, 13 Mar 2026 21:46:23 GMT | How the Ahmia Onion Indexing System Helps Discover Hidden Services | Tor BBB | [Read More](https://medium.com/p/43f515e6e9b9) |
-| Fri, 13 Mar 2026 21:37:31 GMT | From Zero to Hacker: My Cybersecurity Journey Starts Here | EVAN | [Read More](https://medium.com/p/d677ba4f92a7) |
-| Fri, 13 Mar 2026 21:33:45 GMT | How We Build ‘Secure by Design’: A Look Under the Hood of Google Workspace & Gemini | Dominic M R Parkes | [Read More](https://medium.com/p/3a755b2db088) |
-| Fri, 13 Mar 2026 21:33:12 GMT | Lythera – right choice for Start-up | Lythera.io | [Read More](https://medium.com/p/65a0055ac8ec) |
-| Fri, 13 Mar 2026 21:31:01 GMT | Public Wi-Fi and Business Logins: A Bad Mix | Janeel Abrahams | [Read More](https://medium.com/p/aa5f6101bb4b) |
-| Fri, 13 Mar 2026 21:22:04 GMT | Your Satellite Phone Is an Open Book | Berend Watchus | [Read More](https://medium.com/p/6ac4054c22f9) |
-| Fri, 13 Mar 2026 21:20:45 GMT | I Built a System That Makes Your Server Invisible to Attackers | Abdullahusien Shallal | [Read More](https://medium.com/p/a5ee8589851d) |
-| Fri, 13 Mar 2026 21:18:36 GMT | OverTheWire Bandit Walkthrough — Level 1 → 2 - 30-Day Cybersecurity Learning Journey (Day 2) | William | [Read More](https://medium.com/p/385fcd7a3d57) |
-| Fri, 13 Mar 2026 21:09:44 GMT | GitOops lab- HackSmarter | MrKouk | [Read More](https://medium.com/p/94486bb7db93) |
-| Fri, 13 Mar 2026 21:01:01 GMT | Unfiltered Restart — Day 25: Windows Apps & Networking | Maximillian Rueda | [Read More](https://medium.com/p/1956065f9797) |
-| Fri, 13 Mar 2026 21:00:53 GMT | Principal CTF - HackTheBox | MrKouk | [Read More](https://medium.com/p/95f0139b2f4c) |
-| Fri, 13 Mar 2026 20:51:29 GMT | CYBER THREAT LANDSCAPE IN EAST AFRICA | JACKLINE WAIRIMU MAINA | [Read More](https://medium.com/p/301fd0f726a1) |
-| Fri, 13 Mar 2026 20:47:45 GMT | Offsec “Wpwn” CTF Writeup | sabR | [Read More](https://medium.com/p/517ad3291c5e) |
-| Fri, 13 Mar 2026 20:32:21 GMT | My First Steps into Malware Development | oussama | [Read More](https://medium.com/p/5446e81474a1) |
