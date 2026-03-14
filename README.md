@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Mar 2026 18:28:25 GMT | Setting Security Basics in Microsoft Entra ID: Controlling BitLocker Recovery Keys | Ryan Adams | [Read More](https://medium.com/p/34d1001b8ab0) |
+| Sat, 14 Mar 2026 18:25:21 GMT | Preparing for a Pen (Penetration) Test | Kiran Limbu Phudong | [Read More](https://medium.com/p/989da2422346) |
+| Sat, 14 Mar 2026 18:24:34 GMT | Weak Credentials in Industrial Routers: How Identical Hashes Led to Extending CVE-2024–45275 | Marcel Rick-Cen | [Read More](https://medium.com/p/56d25ef415f7) |
+| Sat, 14 Mar 2026 18:24:12 GMT | OAuth 2.0 Misconfigurations - When Login With Google Becomes an Open Gate | Rufus Kehinde | [Read More](https://medium.com/p/990fadf3bd14) |
+| Sat, 14 Mar 2026 18:15:30 GMT | DOM-Based XSS Explained: How Attackers Exploit Client-Side JavaScripts | Kartik Chhabra | [Read More](https://medium.com/p/aa5044f010a1) |
+| Sat, 14 Mar 2026 18:14:50 GMT | Why Pentesting Is Important For Small Businesses | Gene Marks | [Read More](https://medium.com/p/94a09399aa8c) |
+| Sat, 14 Mar 2026 18:14:15 GMT | AI Agents Have a Security Problem Nobody Talks About: Runaway Costs | Aryeh Radle | [Read More](https://medium.com/p/0fca421ee375) |
+| Sat, 14 Mar 2026 18:14:14 GMT | Credential Stuffing Attacks: Mechanisms, Impacts, and the 2023 23andMe Breach | Hamna Sulaim | [Read More](https://medium.com/p/86235f948c7d) |
+| Sat, 14 Mar 2026 18:06:12 GMT | Web Security Series #3 — Discovering Credentials Using Cluster Bomb Attacks (Burp Suite & ffuf) | Laibakashif | [Read More](https://medium.com/p/a2dc4bb6ebc3) |
+| Sat, 14 Mar 2026 18:02:47 GMT | How to Stop Fake Signups in Your Web App Before They Happen | Awais | [Read More](https://medium.com/p/2cfd45c7f38a) |
+| Sat, 14 Mar 2026 18:02:39 GMT | Understanding Content Security Policy (CSP) and Per-Endpoint Policies | Ronny | [Read More](https://medium.com/p/93edce35c33d) |
+| Sat, 14 Mar 2026 18:01:01 GMT | 10 symptoms your TypeScript SDK is leaking unsafe defaults | Yamishift | [Read More](https://medium.com/p/ed7c08822485) |
+| Sat, 14 Mar 2026 17:57:14 GMT | Introduction to Ethical Hacking | TechyJaunt | [Read More](https://medium.com/p/8778c87011e5) |
+| Sat, 14 Mar 2026 17:51:29 GMT | What Is an Access Control System? A Complete Beginner’s Guide | Goldline Security Systems | [Read More](https://medium.com/p/cd5bc648be5c) |
 | Sat, 14 Mar 2026 17:41:12 GMT | Week 2 of Cyber Security Learning | Muhammad Uzair | [Read More](https://medium.com/p/2ebcb2bf4c76) |
 | Sat, 14 Mar 2026 17:28:12 GMT | Vulnversity Walkthrough - Try Hack Me | Rogue | [Read More](https://medium.com/p/e226d820ef7d) |
 | Sat, 14 Mar 2026 17:24:16 GMT | Learning Network Monitoring with Nagios: A Practical Experience | Pedson Tayebwa | [Read More](https://medium.com/p/ca1d18dbed9a) |
@@ -99,17 +113,3 @@ Module 2 — Part 5: Cybersecurity Landscape — Cryptocurrency | Favour
 | Sat, 14 Mar 2026 11:22:07 GMT | Linux Dünyasında CrackArmor Alarmı | Mesut Ozsoy | [Read More](https://medium.com/p/3bcd50c6d405) |
 | Sat, 14 Mar 2026 11:14:34 GMT | Breach Reported on PC of Kanashibari’s Effects Technician | GILDER | [Read More](https://medium.com/p/a954e1ec3b0e) |
 | Sat, 14 Mar 2026 11:07:32 GMT | Behind the Scenes of a Bug Bounty Workshop at CGC University | Gourav Garg | [Read More](https://medium.com/p/2e289d0cc81b) |
-| Sat, 14 Mar 2026 11:02:18 GMT | Security-First Development Approach for Modern Web and Mobile Applications | Utilizor | [Read More](https://medium.com/p/6587ef79adf7) |
-| Sat, 14 Mar 2026 10:59:59 GMT | Why AI Will Never Fully Replace Cybersecurity Professionals | Manisa Ale | [Read More](https://medium.com/p/12276d8a8ccf) |
-| Sat, 14 Mar 2026 10:39:47 GMT | Detecting RDP Brute Force Attacks in Real-Time Using ELK Stack | Mann24> | [Read More](https://medium.com/p/4df309d5c1b6) |
-| Sat, 14 Mar 2026 10:33:28 GMT | Best Ethical Hacking Tools Used by Cybersecurity Professionals | cyber security Updates | [Read More](https://medium.com/p/928d838f1b4c) |
-| Sat, 14 Mar 2026 10:31:54 GMT | The World of “Wares” | The Cyber Student | [Read More](https://medium.com/p/d3b1d19f9595) |
-| Sat, 14 Mar 2026 10:31:41 GMT | 10 Signs Your Company Needs Cybersecurity Services Right Now | Imperium Digital Network Pvt Ltd. | [Read More](https://medium.com/p/d2a63ed69c66) |
-| Sat, 14 Mar 2026 10:31:35 GMT | Exploiting a SQL Injection Vulnerability in a WHERE Clause - PortSwigger Lab Write-up | shivam sharma | [Read More](https://medium.com/p/456126f56ba4) |
-| Sat, 14 Mar 2026 10:31:29 GMT | Bootcamp ID-Networkers : Final Project — Cyber Defender CWL | rexaa | [Read More](https://medium.com/p/e51db594c998) |
-| Sat, 14 Mar 2026 10:16:58 GMT | ClickFix Explained: When Trying to Fix a PC Glitch Makes It Worse | Varshil Desai | [Read More](https://medium.com/p/99ed331b43f4) |
-| Sat, 14 Mar 2026 10:16:11 GMT | We Tried 3 Ways to Authenticate Payment APIs. Only One Survived at Scale | Alex Fomin | [Read More](https://medium.com/p/954355355886) |
-| Sat, 14 Mar 2026 10:15:27 GMT | Discovering a Blind SSRF Vulnerability in a PHP RSS Feed Parser | Hemant Raj Bhati | [Read More](https://medium.com/p/243f3ccbdafb) |
-| Sat, 14 Mar 2026 10:10:37 GMT | Active Directory Attacks: LLMNR Poisoning, NTDS.dit | Mert Baykal | [Read More](https://medium.com/p/9525262fcaec) |
-| Sat, 14 Mar 2026 10:10:26 GMT | From Responsible AI to Secure AI: Understanding the CoSAI Framework for Modern AI Systems | Venkatkumar (VK) | [Read More](https://medium.com/p/36dcc3394206) |
-| Sat, 14 Mar 2026 09:59:35 GMT | The Evolution of Cyber Resilience: Shifting Metrics from Prevention to Recovery | Cynox Security LLP. | [Read More](https://medium.com/p/a4e266db322d) |
