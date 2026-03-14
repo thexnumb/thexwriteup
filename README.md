@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Mar 2026 21:11:22 GMT | When Your Firewall Doesn’t Know Who You Are | Salwan Mohamed | [Read More](https://medium.com/p/accaf124f5f0) |
+| Sat, 14 Mar 2026 21:10:33 GMT | “Your Phone is a Hot Wallet”: Upgrading Your Solana Seeker to Multisig | jimthereaper | [Read More](https://medium.com/p/f5352e56f44e) |
+| Sat, 14 Mar 2026 21:05:57 GMT | Weekly Cyber Threat Bulletin: 12 March 2026 | Marcelle Lee | [Read More](https://medium.com/p/cefba27d495c) |
+| Sat, 14 Mar 2026 21:01:00 GMT | Unfiltered Restart — Day 26: Windows Control Panel | Maximillian Rueda | [Read More](https://medium.com/p/add2b10ebede) |
+| Sat, 14 Mar 2026 21:00:51 GMT | The Consolidation of Identity: The New Control Plane of Cybersecurity | Adebisi mololuwa | [Read More](https://medium.com/p/99c9bbc7e8b9) |
+| Sat, 14 Mar 2026 20:54:10 GMT | Haystak vs Ahmia: Understanding Two Dark Web Search Engines | Tor BBB | [Read More](https://medium.com/p/da807828ab70) |
+| Sat, 14 Mar 2026 20:41:00 GMT | How Attackers Use WebDAV to Deliver Malware Without Browser Warnings | Sohan Kanna | [Read More](https://medium.com/p/5c13330faa07) |
 | Sat, 14 Mar 2026 20:27:15 GMT | TryHackMe — Offensive Security Intro Writeup | Dhruv Tripathi | [Read More](https://medium.com/p/9944be1e101e) |
 | Sat, 14 Mar 2026 20:26:29 GMT | Security Best Practices for Mobile Apps (Banking Case Study) | Angela Nyabuti | [Read More](https://medium.com/p/eabda8ef19fa) |
 | Sat, 14 Mar 2026 20:05:09 GMT | Escalating an Out-of-Scope HTML Injection to a Critical 9.3 XSS (WAF Bypass) | Hussein Mahmoud | [Read More](https://medium.com/p/12b194d6a1df) |
@@ -106,11 +113,3 @@ Part 5 | MRxO1 | [Read More](https://medium.com/p/e0bef120b19f) |
 | Sat, 14 Mar 2026 14:02:58 GMT | Something Was Hidden in YouTube… Until I Checked the Page Source | Vasanth | [Read More](https://medium.com/p/9e8bf9b51401) |
 | Sat, 14 Mar 2026 14:01:05 GMT | Threat Hunting for Web Attacks SQL Injection — LetsDefend [Part 2] | 0verRida | [Read More](https://medium.com/p/ce96c6a71d0d) |
 | Sat, 14 Mar 2026 13:58:27 GMT | SİBER GÜVENLİK TABLETOP EGZERSİZİ: BİR RANSOMWARE SENARYOSU VE MÜDAHALE ANALİZİM | Feyzanur Yüksel | [Read More](https://medium.com/p/1c2bfc1d2686) |
-| Sat, 14 Mar 2026 13:51:31 GMT | 2 şii r | asimtag | [Read More](https://medium.com/p/c8d0bbe1ddcf) |
-| Sat, 14 Mar 2026 13:51:19 GMT | Network Security | J.Dishalan | [Read More](https://medium.com/p/defdb088fc76) |
-| Sat, 14 Mar 2026 13:42:05 GMT | Investigating a Compromised AWS Environment, Cloud Forensics | D Satheesh Kumar | [Read More](https://medium.com/p/47a2f0c2f3a3) |
-| Sat, 14 Mar 2026 13:41:43 GMT | Cisco Cybersecurity Series
-Module 2 — Part 5: Cybersecurity Landscape — Cryptocurrency | Favour Ugochi Ogbonnaya | [Read More](https://medium.com/p/bf73abd2700c) |
-| Sat, 14 Mar 2026 13:36:10 GMT | Why Your AI Safety Layer Will Fail (And What To Do About It). | Mattijs Moens | [Read More](https://medium.com/p/abee9f25b800) |
-| Sat, 14 Mar 2026 13:34:30 GMT | eJPT - System-Host Based Attacks CTF 1 | Francesco Pastore | [Read More](https://medium.com/p/a401064482df) |
-| Sat, 14 Mar 2026 13:32:33 GMT | TryHackMe Writeup: Pwning the b3dr0ck Machine . | Amrou bekhedda | [Read More](https://medium.com/p/344b8341b378) |
