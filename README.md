@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Mar 2026 04:07:57 GMT | OWASP Top 10 for LLM Applications 2025 — Plain English Explanation with Real Examples | Kuboid Secure Layer | [Read More](https://medium.com/p/e94361757709) |
+| Sat, 14 Mar 2026 04:07:15 GMT | DC-2 CTF Walkthrough: From WordPress to Root | Satyamsatyarthi | [Read More](https://medium.com/p/7706b16ea9f6) |
+| Sat, 14 Mar 2026 04:04:52 GMT | Information disclosure on debug page
+APPRENTICE - Lab -02 | M o $ t a | [Read More](https://medium.com/p/9d1f09ed7b66) |
+| Sat, 14 Mar 2026 04:01:22 GMT | Cybersecurity Tips for Personal Data Protection: Keep Your Info Safe | cyber tech | [Read More](https://medium.com/p/03ecaacefeda) |
+| Sat, 14 Mar 2026 04:01:00 GMT | The Kill Chain Starts at Your Front Door | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/15213919bfd5) |
+| Sat, 14 Mar 2026 03:59:24 GMT | Mail Service Lab: Extreme Red Team LAB Review | Sabastiaz | [Read More](https://medium.com/p/b5eed3dfea40) |
+| Sat, 14 Mar 2026 03:56:42 GMT | Network Hacking — Pre-connection attacks — Parrot/Kali/Tails | Aakash Tm | [Read More](https://medium.com/p/db3202f2668d) |
+| Sat, 14 Mar 2026 03:51:49 GMT | Hunting Iranian Iranian State-Sponsored Threat Actors | Zakkir | [Read More](https://medium.com/p/097848c7dbe7) |
+| Sat, 14 Mar 2026 03:50:57 GMT | Fowsniff CTF — TryHackMe Walkthrough | codingbolt | [Read More](https://medium.com/p/9060bf701dd4) |
+| Sat, 14 Mar 2026 03:46:53 GMT | Brooklyn Nine-Nine CTF Walkthrough — From FTP to Root | Logic 0x01 | [Read More](https://medium.com/p/26610d116ba3) |
+| Sat, 14 Mar 2026 03:45:00 GMT | Copy | Hsiehsungling | [Read More](https://medium.com/p/709ed1e458bc) |
+| Sat, 14 Mar 2026 03:44:44 GMT | Pickle Rick — TryHackMe Walkthrough | codingbolt | [Read More](https://medium.com/p/760c1f21dfa1) |
+| Sat, 14 Mar 2026 03:37:26 GMT | Hunting Iranian Iranian State-Sponsored Threat Actors | RedSnap Defense | [Read More](https://medium.com/p/2c7dad00f687) |
+| Sat, 14 Mar 2026 02:32:02 GMT | TryHackMe Cyber Security 101 (SEC1) Exam Review | Rich | [Read More](https://medium.com/p/28224f884b40) |
+| Sat, 14 Mar 2026 02:23:00 GMT | Email Footprinting: Tracing the Real Source of an Email ️‍♂️ | CodeXconnect | [Read More](https://medium.com/p/50833af74915) |
+| Sat, 14 Mar 2026 02:21:13 GMT | Inside the Mind of a Hacker: My Journey Into Cybersecurity Research | CodeXconnect | [Read More](https://medium.com/p/1db36f8bac42) |
+| Sat, 14 Mar 2026 02:12:08 GMT | Container Security: Why minimalism in containers can cut 99% of vulnerabilities | kode_ian | [Read More](https://medium.com/p/854d1a81b3fd) |
+| Sat, 14 Mar 2026 02:10:02 GMT | Docker Is Not a VM: How It Actually Works Under the Hood | Abhinav Garg | [Read More](https://medium.com/p/3d9eb2f5e7e9) |
 | Sat, 14 Mar 2026 02:02:58 GMT | No Notes CRLF Challenge - Hackena Ramadan CTF | db1M | [Read More](https://medium.com/p/d68c8cdd25ee) |
 | Sat, 14 Mar 2026 02:02:06 GMT | Czechoslovakia XSS Challenge - Hackena Ramadan CTF | db1M | [Read More](https://medium.com/p/f9ebe5197526) |
 | Sat, 14 Mar 2026 01:59:36 GMT | LFI/RFI | Emirhan Kellecigil | [Read More](https://medium.com/p/56dcd52b8977) |
@@ -94,21 +113,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Mar 2026 18:10:51 GMT | DC-1 Walkthrough: From Drupalgeddon to Root | Mohamed Yasser | [Read More](https://medium.com/p/a34346405ee5) |
 | Fri, 13 Mar 2026 18:07:56 GMT | Master the Art of Spotting Scams with Google’s New Interactive Game | www.OneCoolTip.com | [Read More](https://medium.com/p/f3e84d7fa787) |
 | Fri, 13 Mar 2026 18:04:24 GMT | The AI Paradox: Unleashing Power, Demanding Control – From Code to Billions | Daily AI & Tech Digest | [Read More](https://medium.com/p/5324bc9adac3) |
-| Fri, 13 Mar 2026 18:01:32 GMT | Cybersecurity News Review — Week 11 (2026) | Mladen Kirilov | [Read More](https://medium.com/p/621271769285) |
-| Fri, 13 Mar 2026 17:59:19 GMT | My Inbox is Trying to Rob Me Before 9 A.M. | Lee Romano Sequeira | [Read More](https://medium.com/p/14e52038b4fb) |
-| Fri, 13 Mar 2026 17:52:04 GMT | Intercepting Flutter iOS App Traffic with Frida-No VPN, No Iptables | Pritesh Mistry | [Read More](https://medium.com/p/d91339cefe6a) |
-| Fri, 13 Mar 2026 17:51:35 GMT | Your Satellite Phone Is an Open Book | Berend Watchus | [Read More](https://medium.com/p/0053dfce0b35) |
-| Fri, 13 Mar 2026 17:51:22 GMT | How to Keep Assets Private Now but Ensure They’re Discovered Later | Olivia Martillo | [Read More](https://medium.com/p/a1ff6ba7866f) |
-| Fri, 13 Mar 2026 17:48:43 GMT | How I got a Hall of Fame at a UEFA Champions League Football Club. | RivuDon | [Read More](https://medium.com/p/bcedc352ce4d) |
-| Fri, 13 Mar 2026 17:47:40 GMT | Loblaw Data Breach Highlights Growing Cyber Risks in the Retail Sector | Chetan Seripally | [Read More](https://medium.com/p/3777b6466a82) |
-| Fri, 13 Mar 2026 17:42:42 GMT | We Built a System That Stores Multi-Million-Dollar Crypto Volumes. Here’s How the Keys Never Leak | Alex Fomin | [Read More](https://medium.com/p/8f188c6db1b4) |
-| Fri, 13 Mar 2026 17:36:00 GMT | Standardizing network patterns across many VNets (without replatforming everything)Pattern Pack | Practical IT | [Read More](https://medium.com/p/54823af3eb13) |
-| Fri, 13 Mar 2026 17:31:38 GMT | THM-Skynet | Mohamed Mejahed | [Read More](https://medium.com/p/8cdda1b519e0) |
-| Fri, 13 Mar 2026 17:30:04 GMT | A Complete AI-Powered SOC: From Detection to Automated Response with Wazuh, n8n, Claude AI, and MCP | Root | [Read More](https://medium.com/p/78e7fa80d986) |
-| Fri, 13 Mar 2026 17:23:32 GMT | How I Built CyberFunLand — An AI-Powered Gamified Platform That Teaches Cybersecurity Through… | Payal_Gupta | [Read More](https://medium.com/p/577af9c47e1c) |
-| Fri, 13 Mar 2026 17:19:59 GMT | AdBasicEnumeration — TryHackMe | Ifannudinazi | [Read More](https://medium.com/p/0b3bfd6ebbc7) |
-| Fri, 13 Mar 2026 17:18:57 GMT | Top 5 Crypto Escrow Services in 2026: Honest Comparison | KeyShield Escrow | [Read More](https://medium.com/p/a03a30bb698b) |
-| Fri, 13 Mar 2026 17:16:38 GMT | Here’s How to Tell a Video Is AI | Ossai Chinedum | [Read More](https://medium.com/p/2df64c34e382) |
-| Fri, 13 Mar 2026 17:14:20 GMT | Best wireless earbuds with active noise cancellation and premium sound quality.Google | Benmohamed Belkacem | [Read More](https://medium.com/p/e5f45194e1fc) |
-| Fri, 13 Mar 2026 17:07:04 GMT | Session Management Failures - When the App Forgets It Should Have Logged You Out | Rufus Kehinde | [Read More](https://medium.com/p/c7a3174b3b74) |
-| Fri, 13 Mar 2026 17:01:34 GMT | SpiderKillChain v7 Challenge — ShadowBrokers CTF Write-up | Thoristo | [Read More](https://medium.com/p/105fbbcc5f75) |
