@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Mar 2026 05:17:40 GMT | Data Protection & Privacy: Why It’s a Business Responsibility in the Digital Age | Devarshi Acharya | [Read More](https://medium.com/p/5876503733c1) |
+| Sat, 14 Mar 2026 05:15:12 GMT | When Claude Became My Pentester | Irfan Haris | [Read More](https://medium.com/p/2c758bc053d1) |
+| Sat, 14 Mar 2026 05:12:57 GMT | From Tax Breaks to Backlash: Why Data Centres Are the New Epicentre of Community Pushback | Darwin Hudson | [Read More](https://medium.com/p/70aca4079d9f) |
+| Sat, 14 Mar 2026 05:04:30 GMT | Building Titanium Bot — A Powerful Automation Bot Developed by Clyd | Clyd | [Read More](https://medium.com/p/9a863922932b) |
+| Sat, 14 Mar 2026 05:03:58 GMT | AI Jailbreaking : How Hackers Can Bypass AI Safety | H. Ali | [Read More](https://medium.com/p/c1d853724ff8) |
+| Sat, 14 Mar 2026 04:49:57 GMT | Password Cracking: Can a Rainbow Table Reverse a Hashed Password? | Shahzaib | [Read More](https://medium.com/p/3c2e24441846) |
+| Sat, 14 Mar 2026 04:49:14 GMT | The Prestige of Malware: Unmasking ClickFix, Destructor Hijacking, and the “Dictionary Symphony” | MabLevi | [Read More](https://medium.com/p/1c980f5582e5) |
+| Sat, 14 Mar 2026 04:48:22 GMT | he Dark Truth About IMEI Location Tracking in 2026 | Zottb.xyz | [Read More](https://medium.com/p/0971ee4c2527) |
+| Sat, 14 Mar 2026 04:21:57 GMT | When Plain English Becomes a SQL Injection Attack | Kaynat Muzaffar | [Read More](https://medium.com/p/cd0314064112) |
 | Sat, 14 Mar 2026 04:07:57 GMT | OWASP Top 10 for LLM Applications 2025 — Plain English Explanation with Real Examples | Kuboid Secure Layer | [Read More](https://medium.com/p/e94361757709) |
 | Sat, 14 Mar 2026 04:07:15 GMT | DC-2 CTF Walkthrough: From WordPress to Root | Satyamsatyarthi | [Read More](https://medium.com/p/7706b16ea9f6) |
 | Sat, 14 Mar 2026 04:04:52 GMT | Information disclosure on debug page
@@ -104,12 +113,3 @@ APPRENTICE - Lab -02 | M o $ t a | [Read More](https://medium.com/p/9d1f09ed7b66
 | Fri, 13 Mar 2026 19:03:18 GMT | PortSwigger Is Amazing… But It Can Overwhelm Most Of Us | the_air_cyborg | [Read More](https://medium.com/p/991227e8a4ce) |
 | Fri, 13 Mar 2026 19:03:01 GMT | Red Stone One Carat CTF — From Brute Force to Root Shell | Roshan Rajbanshi | [Read More](https://medium.com/p/b39bf0c57d9a) |
 | Fri, 13 Mar 2026 18:56:00 GMT | A.I. Basics: What It Is, How It Learns, and Why It Matters in Cybersecurity | Dfaults | [Read More](https://medium.com/p/99fd71964487) |
-| Fri, 13 Mar 2026 18:55:23 GMT | The 2026 Blueprint: How to Land Your First SOC Analyst Role (With Zero Professional Experience) | The Daily Cyber News | [Read More](https://medium.com/p/3ed290354456) |
-| Fri, 13 Mar 2026 18:51:00 GMT | How I Found a Critical SQL Injection in an “Abandoned” Website: Exploiting a Rare Chain of… | Eduardo F | [Read More](https://medium.com/p/10e5e5615b29) |
-| Fri, 13 Mar 2026 18:47:53 GMT | How SMBs Can Proactively Strengthen Cybersecurity | Matthew.Rosenquist | [Read More](https://medium.com/p/3f5d66838fa8) |
-| Fri, 13 Mar 2026 18:46:00 GMT | I Spent a Week Researching What the LastPass Breach Actually Did to People. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/e731947e4420) |
-| Fri, 13 Mar 2026 18:18:36 GMT | Write Up : Attacktive Directory — TryHackMe | Rasya Irham | [Read More](https://medium.com/p/1d792b55891d) |
-| Fri, 13 Mar 2026 18:17:55 GMT | Understanding How to Test User Identity and Access Security in Web Applications | Diva Rizky Alfitrah | [Read More](https://medium.com/p/ebd086fc8e23) |
-| Fri, 13 Mar 2026 18:10:51 GMT | DC-1 Walkthrough: From Drupalgeddon to Root | Mohamed Yasser | [Read More](https://medium.com/p/a34346405ee5) |
-| Fri, 13 Mar 2026 18:07:56 GMT | Master the Art of Spotting Scams with Google’s New Interactive Game | www.OneCoolTip.com | [Read More](https://medium.com/p/f3e84d7fa787) |
-| Fri, 13 Mar 2026 18:04:24 GMT | The AI Paradox: Unleashing Power, Demanding Control – From Code to Billions | Daily AI & Tech Digest | [Read More](https://medium.com/p/5324bc9adac3) |
