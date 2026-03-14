@@ -12,7 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Mar 2026 10:16:58 GMT | ClickFix Explained: When Trying to Fix a PC Glitch Makes It Worse | Varshil Desai | [Read More](https://medium.com/p/99ed331b43f4) |
+| Sat, 14 Mar 2026 10:16:11 GMT | We Tried 3 Ways to Authenticate Payment APIs. Only One Survived at Scale | Alex Fomin | [Read More](https://medium.com/p/954355355886) |
+| Sat, 14 Mar 2026 10:15:27 GMT | Discovering a Blind SSRF Vulnerability in a PHP RSS Feed Parser | Hemant Raj Bhati | [Read More](https://medium.com/p/243f3ccbdafb) |
+| Sat, 14 Mar 2026 10:10:37 GMT | Active Directory Attacks: LLMNR Poisoning, NTDS.dit | Mert Baykal | [Read More](https://medium.com/p/9525262fcaec) |
+| Sat, 14 Mar 2026 10:10:26 GMT | From Responsible AI to Secure AI: Understanding the CoSAI Framework for Modern AI Systems | Venkatkumar (VK) | [Read More](https://medium.com/p/36dcc3394206) |
+| Sat, 14 Mar 2026 09:59:35 GMT | The Evolution of Cyber Resilience: Shifting Metrics from Prevention to Recovery | Cynox Security LLP. | [Read More](https://medium.com/p/a4e266db322d) |
+| Sat, 14 Mar 2026 09:56:01 GMT | What a Mature Policy Library Actually Looks Like | Gaurav Shukla | [Read More](https://medium.com/p/458b6aa71b85) |
+| Sat, 14 Mar 2026 09:47:23 GMT | TryHackMe - Entra ID Monitoring - WriteUp | Axoloth | [Read More](https://medium.com/p/93221d1d426d) |
+| Sat, 14 Mar 2026 09:42:25 GMT | Google Paid Hackers $17 Million in 2025 — Here’s Why | Subhan Ali | [Read More](https://medium.com/p/5f5fc65d827e) |
+| Sat, 14 Mar 2026 09:40:39 GMT | Active Directory Attacks: Pass the Password, Pass the Hash & Dumping Hashes | Mert Baykal | [Read More](https://medium.com/p/a12a1321c0be) |
 | Sat, 14 Mar 2026 09:30:04 GMT | The Seat That Was Never Offered: Africa, The Security Council, and the Question Nobody Wants to… | David Okiki Amayo Jr. | [Read More](https://medium.com/p/98a86fcc4269) |
+| Sat, 14 Mar 2026 09:25:45 GMT | StratusAI: I Built an AI-Powered Cloud Security Scanner for AWS and GCP — Here’s Everything | Andrey Pautov | [Read More](https://medium.com/p/89c6702d3b84) |
 | Sat, 14 Mar 2026 09:24:51 GMT | Confidentiality in the Information Age | Igino Corona, Eng PhD | [Read More](https://medium.com/p/e925f5217614) |
 | Sat, 14 Mar 2026 09:23:39 GMT | Master Windows CMD: 100+ Essential Commands for Penetration Testing | Very Lazy Tech | [Read More](https://medium.com/p/7c74e3e90ec9) |
 | Sat, 14 Mar 2026 09:20:49 GMT | How Google’s Trusted Infrastructure Keeps the Cloud Secure | Swapnali Gavali | [Read More](https://medium.com/p/a7381a21bd87) |
@@ -103,14 +114,3 @@ APPRENTICE - Lab -02 | M o $ t a | [Read More](https://medium.com/p/9d1f09ed7b66
 | Sat, 14 Mar 2026 02:02:58 GMT | No Notes CRLF Challenge - Hackena Ramadan CTF | db1M | [Read More](https://medium.com/p/d68c8cdd25ee) |
 | Sat, 14 Mar 2026 02:02:06 GMT | Czechoslovakia XSS Challenge - Hackena Ramadan CTF | db1M | [Read More](https://medium.com/p/f9ebe5197526) |
 | Sat, 14 Mar 2026 01:59:36 GMT | LFI/RFI | Emirhan Kellecigil | [Read More](https://medium.com/p/56dcd52b8977) |
-| Sat, 14 Mar 2026 01:50:52 GMT | When Security Vendors Get Breached: The LexisNexis Irony | Seamus Callahan | [Read More](https://medium.com/p/ebf39dadf2fb) |
-| Sat, 14 Mar 2026 01:46:00 GMT | How Hackers Find Gold in Public GitHub Repositories | Vipul Sonule | [Read More](https://medium.com/p/ba9f244d60c4) |
-| Sat, 14 Mar 2026 01:31:00 GMT | This Tiny Stick Can Do What a $200 Flipper Zero Can’t (If You Know How) | Satyam Pathania | [Read More](https://medium.com/p/eab580e4d560) |
-| Sat, 14 Mar 2026 01:24:28 GMT | Ransomware Threats in 2026: How the National Cyber Security Institute Is Preparing Users | Ahmet | [Read More](https://medium.com/p/39555e91f123) |
-| Sat, 14 Mar 2026 01:23:55 GMT | Welcome to the Deepfake Era: Where Seeing is Believing, and Believing is a Terrible Idea | CAMDEN VALE | [Read More](https://medium.com/p/5c732a882116) |
-| Sat, 14 Mar 2026 01:21:47 GMT | How to Truly Master AWS Security in 2026 | Cybersectoworld | [Read More](https://medium.com/p/b9e99fd67ae9) |
-| Sat, 14 Mar 2026 01:21:15 GMT | AI-Powered Scams and Mobile Threats in 2026: Insights from the National Cyber Security Institute | Ahmet | [Read More](https://medium.com/p/4dccf608131f) |
-| Sat, 14 Mar 2026 01:02:01 GMT | Exploiting the MS17–010 EternalBlue Vulnerability — Hands-On Lab | Abdellahouail Sadli | [Read More](https://medium.com/p/944ee0f65161) |
-| Sat, 14 Mar 2026 00:35:22 GMT | The UAC Bypass Most Windows Defenders Don’t Know Exists | Yua Mikanana | [Read More](https://medium.com/p/8ea0c86dc26a) |
-| Sat, 14 Mar 2026 00:22:34 GMT | The Login Form That Lets Anyone In — And One Small Fix That Stops It | Tiye Baldwin-Anderson | [Read More](https://medium.com/p/6a69594c6241) |
-| Sat, 14 Mar 2026 00:07:00 GMT | 3 Common Mistakes That Can Get Your Phone Hacked | DarkStorm - Cyber Security | [Read More](https://medium.com/p/999f9cf1d141) |
