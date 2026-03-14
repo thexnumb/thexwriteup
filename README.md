@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Mar 2026 23:26:48 GMT | I Built a Live SDN Network Dashboard with POX, Mininet, and React — And It Detects Cyberattacks in… | OxMotaw3 | [Read More](https://medium.com/p/091e2ba58c75) |
+| Sat, 14 Mar 2026 23:26:37 GMT | Building an AWS-Native Security Operations Architecture for Under $200/Month | Cybersecforall101 | [Read More](https://medium.com/p/6ebb13a55486) |
+| Sat, 14 Mar 2026 23:07:47 GMT | One User. One Problem. So I Built It Myself. | Ata Sesli | [Read More](https://medium.com/p/45b1f1d33a81) |
+| Sat, 14 Mar 2026 23:02:02 GMT | Why Your Cloud-Based Data Strategy is a Ticking Time Bomb | Crypton Official App | [Read More](https://medium.com/p/b962f3c7858a) |
+| Sat, 14 Mar 2026 22:55:16 GMT | AI agents are entering a new phase of autonomy. | Neuralcoretech | [Read More](https://medium.com/p/f926a470f011) |
+| Sat, 14 Mar 2026 22:53:19 GMT | The Hacking Tool Chronicles: macchanger | z3r0trust | [Read More](https://medium.com/p/2cf7dedc9f09) |
 | Sat, 14 Mar 2026 22:38:29 GMT | How Most People Get Their Accounts Stolen on Instagram | CyberDucky | [Read More](https://medium.com/p/d596156d9ae3) |
 | Sat, 14 Mar 2026 22:32:46 GMT | How I aced the CompTIA Security+ (And a Step-by-Step Guide for You to Do It Too) | SecBySam | [Read More](https://medium.com/p/0f928002225a) |
 | Sat, 14 Mar 2026 22:30:32 GMT | Zip TOCTOU to RCE via Zip Slip — Lazy Pharaoh - CyCTF 2026 Quals | Ahmed Mohammed | [Read More](https://medium.com/p/48243cc0844e) |
@@ -107,9 +113,3 @@ Part 5 | MRxO1 | [Read More](https://medium.com/p/e0bef120b19f) |
 | Sat, 14 Mar 2026 14:58:30 GMT | Shadow IT: The Hidden Risk Inside Every Organization | oadtechnologies | [Read More](https://medium.com/p/60ea31cc1ca2) |
 | Sat, 14 Mar 2026 14:57:13 GMT | The Coming Cybersecurity Convergence: How Cloud, Artificial Intelligence, and Quantum Computing Are… | Richard Wilder | [Read More](https://medium.com/p/b4c8fb1cb67d) |
 | Sat, 14 Mar 2026 14:55:14 GMT | The Silent Invader | Muhammedfaris | [Read More](https://medium.com/p/ee2a4c1e50bd) |
-| Sat, 14 Mar 2026 14:53:04 GMT | Exploring OSINT Tools for Cybersecurity Reconnaissance — My Learning Experience | Zahid (Cybersecurity Student) | [Read More](https://medium.com/p/3046622e7c26) |
-| Sat, 14 Mar 2026 14:52:07 GMT | Kubernetes Hacking Basics | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/76b985a094e1) |
-| Sat, 14 Mar 2026 14:52:06 GMT | The Breath Hackers field notes | Abhinav Jain | [Read More](https://medium.com/p/d16877d98af6) |
-| Sat, 14 Mar 2026 14:50:55 GMT | How OSINT Researchers Use Twitter Viewers in 2026 V2 | Peter Anderson | [Read More](https://medium.com/p/daa5b75447a1) |
-| Sat, 14 Mar 2026 14:42:45 GMT | Introducing Guardio — Take Back Control of Your AI Agent’s Actions | Radosław Szymkiewicz | [Read More](https://medium.com/p/928ff1201a44) |
-| Sat, 14 Mar 2026 14:41:01 GMT | Commercial security cameras systems installation Dallas | Edwin | [Read More](https://medium.com/p/5e07605e74a9) |
