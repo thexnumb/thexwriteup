@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Mar 2026 02:02:58 GMT | No Notes CRLF Challenge - Hackena Ramadan CTF | db1M | [Read More](https://medium.com/p/d68c8cdd25ee) |
+| Sat, 14 Mar 2026 02:02:06 GMT | Czechoslovakia XSS Challenge - Hackena Ramadan CTF | db1M | [Read More](https://medium.com/p/f9ebe5197526) |
+| Sat, 14 Mar 2026 01:59:36 GMT | LFI/RFI | Emirhan Kellecigil | [Read More](https://medium.com/p/56dcd52b8977) |
+| Sat, 14 Mar 2026 01:50:52 GMT | When Security Vendors Get Breached: The LexisNexis Irony | Seamus Callahan | [Read More](https://medium.com/p/ebf39dadf2fb) |
+| Sat, 14 Mar 2026 01:46:00 GMT | How Hackers Find Gold in Public GitHub Repositories | Vipul Sonule | [Read More](https://medium.com/p/ba9f244d60c4) |
+| Sat, 14 Mar 2026 01:31:00 GMT | This Tiny Stick Can Do What a $200 Flipper Zero Can’t (If You Know How) | Satyam Pathania | [Read More](https://medium.com/p/eab580e4d560) |
+| Sat, 14 Mar 2026 01:24:28 GMT | Ransomware Threats in 2026: How the National Cyber Security Institute Is Preparing Users | Ahmet | [Read More](https://medium.com/p/39555e91f123) |
+| Sat, 14 Mar 2026 01:23:55 GMT | Welcome to the Deepfake Era: Where Seeing is Believing, and Believing is a Terrible Idea | CAMDEN VALE | [Read More](https://medium.com/p/5c732a882116) |
+| Sat, 14 Mar 2026 01:21:47 GMT | How to Truly Master AWS Security in 2026 | Cybersectoworld | [Read More](https://medium.com/p/b9e99fd67ae9) |
+| Sat, 14 Mar 2026 01:21:15 GMT | AI-Powered Scams and Mobile Threats in 2026: Insights from the National Cyber Security Institute | Ahmet | [Read More](https://medium.com/p/4dccf608131f) |
+| Sat, 14 Mar 2026 01:02:01 GMT | Exploiting the MS17–010 EternalBlue Vulnerability — Hands-On Lab | Abdellahouail Sadli | [Read More](https://medium.com/p/944ee0f65161) |
+| Sat, 14 Mar 2026 00:35:22 GMT | The UAC Bypass Most Windows Defenders Don’t Know Exists | Yua Mikanana | [Read More](https://medium.com/p/8ea0c86dc26a) |
+| Sat, 14 Mar 2026 00:22:34 GMT | The Login Form That Lets Anyone In — And One Small Fix That Stops It | Tiye Baldwin-Anderson | [Read More](https://medium.com/p/6a69594c6241) |
+| Sat, 14 Mar 2026 00:07:00 GMT | 3 Common Mistakes That Can Get Your Phone Hacked | DarkStorm - Cyber Security | [Read More](https://medium.com/p/999f9cf1d141) |
+| Sat, 14 Mar 2026 00:01:01 GMT | Master Guide to SQL Injection (SQLi): Types, Payloads, and Evasion Techniques | JPablo13 | [Read More](https://medium.com/p/ab3da4e8194f) |
 | Fri, 13 Mar 2026 23:26:00 GMT | Risk of Multiple Developers Touching Your Website | TOZAMAS Creatives | [Read More](https://medium.com/p/73216bb01111) |
 | Fri, 13 Mar 2026 23:16:10 GMT | Cloud 3.0: The Next Evolution in Enterprise Computing | TechnologAI | [Read More](https://medium.com/p/787ae07ed10c) |
 | Fri, 13 Mar 2026 23:00:13 GMT | Security Clearance Fingerprinting in Canada: Why Hundreds of Thousands of Workers Need It | Loteyfingerprinting | [Read More](https://medium.com/p/df64a682bd76) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Fri, 13 Mar 2026 17:14:20 GMT | Best wireless earbuds with active noise cancellation and premium sound quality.Google | Benmohamed Belkacem | [Read More](https://medium.com/p/e5f45194e1fc) |
 | Fri, 13 Mar 2026 17:07:04 GMT | Session Management Failures - When the App Forgets It Should Have Logged You Out | Rufus Kehinde | [Read More](https://medium.com/p/c7a3174b3b74) |
 | Fri, 13 Mar 2026 17:01:34 GMT | SpiderKillChain v7 Challenge — ShadowBrokers CTF Write-up | Thoristo | [Read More](https://medium.com/p/105fbbcc5f75) |
-| Fri, 13 Mar 2026 17:01:15 GMT | Kristi Noem’s DHS Glam Scam Exposes the GOP’s Favorite Kind of Big Government | Manny Otiko | [Read More](https://medium.com/p/3a78fbba7dd9) |
-| Fri, 13 Mar 2026 16:59:50 GMT | New Feature: Expanded Automated Investigation and Response (AIR) in Microsoft Defender for Office | Ryan Adams | [Read More](https://medium.com/p/2ae98231e9ac) |
-| Fri, 13 Mar 2026 16:59:09 GMT | Building a Covert Sensor Network That Looks Like HVAC Noise | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/f13c8dd9a798) |
-| Fri, 13 Mar 2026 16:58:04 GMT | Quick IT Support Tip: Fix Blue Screen of Death (BSOD) Errors Efficiently | Ryan Adams | [Read More](https://medium.com/p/c341df0fb39d) |
-| Fri, 13 Mar 2026 16:56:59 GMT | Attackive Directory — TryHackMe Write Up | Ridho Yoss Pratama | [Read More](https://medium.com/p/33d38f51dfde) |
-| Fri, 13 Mar 2026 16:51:56 GMT | CyberDefenders: PsExec Hunt — Following the Trail of Lateral Movement | rexaa | [Read More](https://medium.com/p/f2cd1cfeee56) |
-| Fri, 13 Mar 2026 16:47:55 GMT | CyberDefenders Lockdown Lab Writeup and Analysis | kbxsrc | [Read More](https://medium.com/p/23d9b7564469) |
-| Fri, 13 Mar 2026 16:44:08 GMT | Your Browser is Teaching an AI How to Impersonate You — Here’s How to Stop It | shawn anwar | [Read More](https://medium.com/p/1c178673783d) |
-| Fri, 13 Mar 2026 16:38:59 GMT | Building a Trustless Escrow Smart Contract on Solana: The Ultimate Guide By Dhruv patel | Dhruv Patel | [Read More](https://medium.com/p/1fa7b41a63ac) |
-| Fri, 13 Mar 2026 16:38:03 GMT | Thick Client Pentesting on Windows: Real-World Vulnerabilities I’ve Exploited in the Last 4+ Years… | ROHIT SHARMA | [Read More](https://medium.com/p/1d6a9e3c02c3) |
-| Fri, 13 Mar 2026 16:34:46 GMT | Relevant TryHackMe Walkthrough | Yoel Yosief [ Orit01 ] | [Read More](https://medium.com/p/6aefc76c9095) |
-| Fri, 13 Mar 2026 16:34:37 GMT | How Identity Theft Really Works and How Criminals Steal Your Identity | Christine Lorelie | [Read More](https://medium.com/p/1f89feba1cdf) |
-| Fri, 13 Mar 2026 16:27:00 GMT | Attacktive Directory — TryHackMe | Ifannudinazi | [Read More](https://medium.com/p/70fcd7741b3d) |
-| Fri, 13 Mar 2026 16:27:00 GMT | Memory Leak — #43 | Astasia Myers | [Read More](https://medium.com/p/4005b4950256) |
-| Fri, 13 Mar 2026 16:25:53 GMT | Write-Up: TryHackMe — AD Basic Enumeration | krisna nanda | [Read More](https://medium.com/p/4fe31b2e5f0b) |
