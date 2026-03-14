@@ -12,6 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Mar 2026 19:36:57 GMT | Can the Chinese Hack Into My Solar System? | Bert & Ling @ Justplug | [Read More](https://medium.com/p/38c7c8b268cd) |
+| Sat, 14 Mar 2026 19:36:00 GMT | Entra ID Monitoring - TryHackMe - Splunk | Jose Praveen | [Read More](https://medium.com/p/1bf18f7694d8) |
+| Sat, 14 Mar 2026 19:33:41 GMT | The False Positive Problem Nobody Fixes in SOCs | Sunny Dilipkumar Shah | [Read More](https://medium.com/p/be9bd5a50963) |
+| Sat, 14 Mar 2026 19:33:20 GMT | If Your API Isn’t Protected, Anyone Can Walk Right In | Ankita Kolhe | [Read More](https://medium.com/p/ced80664f54b) |
+| Sat, 14 Mar 2026 19:31:15 GMT | CCTV HTB Writeup | Dexter | [Read More](https://medium.com/p/7cedfa063f3e) |
 | Sat, 14 Mar 2026 19:25:00 GMT | How I understood GRC with a small AI project (kinda) | byL0r3t | [Read More](https://medium.com/p/3cd2f6057db1) |
 | Sat, 14 Mar 2026 19:22:28 GMT | MSG’s Oracle EBS Breach: The Quiet Risk of “Someone Else Hosts It” | Ilias Armenakis | [Read More](https://medium.com/p/2d7ba20d070e) |
 | Sat, 14 Mar 2026 19:21:40 GMT | Over The Wire Bandit : Level : 8 | Soumyadip Manna | [Read More](https://medium.com/p/89c343a5ff47) |
@@ -40,6 +45,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Mar 2026 17:57:14 GMT | Introduction to Ethical Hacking | TechyJaunt | [Read More](https://medium.com/p/8778c87011e5) |
 | Sat, 14 Mar 2026 17:51:29 GMT | What Is an Access Control System? A Complete Beginner’s Guide | Goldline Security Systems | [Read More](https://medium.com/p/cd5bc648be5c) |
 | Sat, 14 Mar 2026 17:41:12 GMT | Week 2 of Cyber Security Learning | Muhammad Uzair | [Read More](https://medium.com/p/2ebcb2bf4c76) |
+| Sat, 14 Mar 2026 17:29:24 GMT | Kendi PaaS Altyapımızı Kuruyoruz: Sıfırdan Canlı Ortama (Bölüm 0: Giriş) | Muhammet İkbal Yakupoglu | [Read More](https://medium.com/p/c69f2edf2b0a) |
 | Sat, 14 Mar 2026 17:28:12 GMT | Vulnversity Walkthrough - Try Hack Me | Rogue | [Read More](https://medium.com/p/e226d820ef7d) |
 | Sat, 14 Mar 2026 17:24:16 GMT | Learning Network Monitoring with Nagios: A Practical Experience | Pedson Tayebwa | [Read More](https://medium.com/p/ca1d18dbed9a) |
 | Sat, 14 Mar 2026 17:18:48 GMT | Blue Team Capstone Project (IDN Networkers): Incident Investigation with Wazuh, Wireshark, and… | FAIZ AIDIL BAIHAQI | [Read More](https://medium.com/p/6d9ab4e035e2) |
@@ -107,9 +113,3 @@ Module 2 — Part 5: Cybersecurity Landscape — Cryptocurrency | Favour
 | Sat, 14 Mar 2026 12:45:31 GMT | Write-up: Eksploitasi Active Directory Melalui Lab Attacktive Directory | Agungsaraswati | [Read More](https://medium.com/p/a6c5d087dd1e) |
 | Sat, 14 Mar 2026 12:33:21 GMT | The Most Dangerous Smart Contract Bugs Aren’t in the Code | ZerΔch | [Read More](https://medium.com/p/883631afc657) |
 | Sat, 14 Mar 2026 12:32:23 GMT | Diplomasi ve İstihbarat: Etkileşim, Avantajlar ve Modern Riskler | Nisa Baykal | [Read More](https://medium.com/p/d13822c871ab) |
-| Sat, 14 Mar 2026 12:27:41 GMT | Top 10 Cybersecurity Mistakes Small Businesses Still Make | Majji pradeep kumar | [Read More](https://medium.com/p/b03bbef5a8bb) |
-| Sat, 14 Mar 2026 12:27:12 GMT | Bug Hunter Story #1 — The Admin Panel That Forgot to Check Authentication | Chirag-Mistry | [Read More](https://medium.com/p/eb9a79a1d1db) |
-| Sat, 14 Mar 2026 12:19:16 GMT | Impulses | Someone | [Read More](https://medium.com/p/bd1b307179c8) |
-| Sat, 14 Mar 2026 12:18:09 GMT | 5 Free Cybersecurity Projects You Must Try in 2026 | Dibeesh KS | [Read More](https://medium.com/p/9907ff18466d) |
-| Sat, 14 Mar 2026 12:14:51 GMT | Demystifying Web Architecture: Why Understanding the “Big Picture” Made Me a Better Engineer. | Dushani Ekanayake | [Read More](https://medium.com/p/4657b95bbc5f) |
-| Sat, 14 Mar 2026 12:03:26 GMT | Cybersecurity Slowly Changes “How” You See the Internet | Kavita Prajapati | [Read More](https://medium.com/p/ef5d3679b94c) |
