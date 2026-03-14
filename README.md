@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Mar 2026 12:48:36 GMT | # How I Found a Snyk-Verified 9.3 | freebold | [Read More](https://medium.com/p/c0db24512733) |
+| Sat, 14 Mar 2026 12:45:31 GMT | Write-up: Eksploitasi Active Directory Melalui Lab Attacktive Directory | Agungsaraswati | [Read More](https://medium.com/p/a6c5d087dd1e) |
+| Sat, 14 Mar 2026 12:33:21 GMT | The Most Dangerous Smart Contract Bugs Aren’t in the Code | ZerΔch | [Read More](https://medium.com/p/883631afc657) |
+| Sat, 14 Mar 2026 12:32:23 GMT | Diplomasi ve İstihbarat: Etkileşim, Avantajlar ve Modern Riskler | Nisa Baykal | [Read More](https://medium.com/p/d13822c871ab) |
+| Sat, 14 Mar 2026 12:27:41 GMT | Top 10 Cybersecurity Mistakes Small Businesses Still Make | Majji pradeep kumar | [Read More](https://medium.com/p/b03bbef5a8bb) |
+| Sat, 14 Mar 2026 12:27:12 GMT | Bug Hunter Story #1 — The Admin Panel That Forgot to Check Authentication | Chirag-Mistry | [Read More](https://medium.com/p/eb9a79a1d1db) |
+| Sat, 14 Mar 2026 12:19:16 GMT | Impulses | Someone | [Read More](https://medium.com/p/bd1b307179c8) |
+| Sat, 14 Mar 2026 12:18:09 GMT | 5 Free Cybersecurity Projects You Must Try in 2026 | Dibeesh KS | [Read More](https://medium.com/p/9907ff18466d) |
+| Sat, 14 Mar 2026 12:14:51 GMT | Demystifying Web Architecture: Why Understanding the “Big Picture” Made Me a Better Engineer. | Dushani Ekanayake | [Read More](https://medium.com/p/4657b95bbc5f) |
+| Sat, 14 Mar 2026 12:03:26 GMT | Cybersecurity Slowly Changes “How” You See the Internet | Kavita Prajapati | [Read More](https://medium.com/p/ef5d3679b94c) |
+| Sat, 14 Mar 2026 12:01:24 GMT | Osint for Defense: Cybersecurity Open Source Intelligence | cyber tech | [Read More](https://medium.com/p/ac34fc0a6c4f) |
+| Sat, 14 Mar 2026 12:01:01 GMT | How I Built an AI Chatbot for SailPoint IdentityIQ | Nihar Kalyanam | [Read More](https://medium.com/p/e5cc3c2fac4d) |
+| Sat, 14 Mar 2026 12:01:01 GMT | Day 1: Binary, Hexadecimal, and Data Representation | Satender Kumar | [Read More](https://medium.com/p/7d57bf30de01) |
+| Sat, 14 Mar 2026 12:00:43 GMT | Cybersecurity Trends in 2026: Shadow AI, Quantum Threats, Deepfakes and the New Attack Landscape | Dibeesh KS | [Read More](https://medium.com/p/be07ae2ec471) |
+| Sat, 14 Mar 2026 12:00:38 GMT | The Moment Automation Becomes Intelligence: A Beginner’s Guide to Building AI Agents in n8n That… | R.H Rizvi | [Read More](https://medium.com/p/873a6ba7f79f) |
+| Sat, 14 Mar 2026 11:56:28 GMT | How I Accidentally Unleashed a Supply Chain Attack on the Internet While Hunting a Big Tech Target. | Snehil | [Read More](https://medium.com/p/e95c515c5395) |
+| Sat, 14 Mar 2026 11:50:56 GMT | Media as a Blackmail Tool | R. F. Dace ♘ | [Read More](https://medium.com/p/9e7e9077a005) |
 | Sat, 14 Mar 2026 11:25:16 GMT | Day 20 : Stolen mount | Cybersecurity with Jojo | [Read More](https://medium.com/p/437659418299) |
 | Sat, 14 Mar 2026 11:25:01 GMT | Feelings are a lot. | Half a Cup Full | [Read More](https://medium.com/p/f439641f8399) |
 | Sat, 14 Mar 2026 11:24:35 GMT | Are Your Bank OTPs Still Safe? Inside BSP’s Push for Stronger Authentication | Shin Jara | [Read More](https://medium.com/p/37471f1ced3e) |
@@ -96,21 +113,3 @@ Part 4 | MRxO1 | [Read More](https://medium.com/p/d55cdf826c6f) |
 | Sat, 14 Mar 2026 05:44:27 GMT | The FBI’s Most Dangerous Weapon Turned Against Them: The Untold Story of Max Butler | Ziadi Lotfi | [Read More](https://medium.com/p/43192c809e93) |
 | Sat, 14 Mar 2026 05:42:58 GMT | The Hidden Cybersecurity Risks Inside Healthcare Vendor Networks | Legal Thoughts | [Read More](https://medium.com/p/0f7d152c39ed) |
 | Sat, 14 Mar 2026 05:39:34 GMT | Security Personnel Services: Ensuring Safety and Protection for Businesses | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/c297e0321a79) |
-| Sat, 14 Mar 2026 05:38:02 GMT | Best IT Consulting Companies in Muscat, Oman | hardin s | [Read More](https://medium.com/p/95bec826e3b5) |
-| Sat, 14 Mar 2026 05:17:40 GMT | Data Protection & Privacy: Why It’s a Business Responsibility in the Digital Age | Devarshi Acharya | [Read More](https://medium.com/p/5876503733c1) |
-| Sat, 14 Mar 2026 05:15:12 GMT | When Claude Became My Pentester | Irfan Haris | [Read More](https://medium.com/p/2c758bc053d1) |
-| Sat, 14 Mar 2026 05:12:57 GMT | From Tax Breaks to Backlash: Why Data Centres Are the New Epicentre of Community Pushback | Darwin Hudson | [Read More](https://medium.com/p/70aca4079d9f) |
-| Sat, 14 Mar 2026 05:04:30 GMT | Building Titanium Bot — A Powerful Automation Bot Developed by Clyd | Clyd | [Read More](https://medium.com/p/9a863922932b) |
-| Sat, 14 Mar 2026 05:03:58 GMT | AI Jailbreaking : How Hackers Can Bypass AI Safety | H. Ali | [Read More](https://medium.com/p/c1d853724ff8) |
-| Sat, 14 Mar 2026 04:49:57 GMT | Password Cracking: Can a Rainbow Table Reverse a Hashed Password? | Shahzaib | [Read More](https://medium.com/p/3c2e24441846) |
-| Sat, 14 Mar 2026 04:49:14 GMT | The Prestige of Malware: Unmasking ClickFix, Destructor Hijacking, and the “Dictionary Symphony” | MabLevi | [Read More](https://medium.com/p/1c980f5582e5) |
-| Sat, 14 Mar 2026 04:48:22 GMT | he Dark Truth About IMEI Location Tracking in 2026 | Zottb.xyz | [Read More](https://medium.com/p/0971ee4c2527) |
-| Sat, 14 Mar 2026 04:21:57 GMT | When Plain English Becomes a SQL Injection Attack | Kaynat Muzaffar | [Read More](https://medium.com/p/cd0314064112) |
-| Sat, 14 Mar 2026 04:07:57 GMT | OWASP Top 10 for LLM Applications 2025 — Plain English Explanation with Real Examples | Kuboid Secure Layer | [Read More](https://medium.com/p/e94361757709) |
-| Sat, 14 Mar 2026 04:07:15 GMT | DC-2 CTF Walkthrough: From WordPress to Root | Satyamsatyarthi | [Read More](https://medium.com/p/7706b16ea9f6) |
-| Sat, 14 Mar 2026 04:04:52 GMT | Information disclosure on debug page
-APPRENTICE - Lab -02 | M o $ t a | [Read More](https://medium.com/p/9d1f09ed7b66) |
-| Sat, 14 Mar 2026 04:01:22 GMT | Cybersecurity Tips for Personal Data Protection: Keep Your Info Safe | cyber tech | [Read More](https://medium.com/p/03ecaacefeda) |
-| Sat, 14 Mar 2026 04:01:00 GMT | The Kill Chain Starts at Your Front Door | Jens Sorensen, Geopolitics | [Read More](https://medium.com/p/15213919bfd5) |
-| Sat, 14 Mar 2026 03:59:24 GMT | Mail Service Lab: Extreme Red Team LAB Review | Sabastiaz | [Read More](https://medium.com/p/b5eed3dfea40) |
-| Sat, 14 Mar 2026 03:56:42 GMT | Network Hacking — Pre-connection attacks — Parrot/Kali/Tails | Aakash Tm | [Read More](https://medium.com/p/db3202f2668d) |
