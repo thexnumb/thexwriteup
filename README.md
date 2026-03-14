@@ -12,6 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Mar 2026 22:19:03 GMT | WebNet0.. picoCTF | Configx | [Read More](https://medium.com/p/127658e2c8c2) |
+| Sat, 14 Mar 2026 22:13:22 GMT | Creating a Bayesian Behavioral Detector in Google SecOps (pt 3) | Greg Kushmerek | [Read More](https://medium.com/p/90868b1690b1) |
+| Sat, 14 Mar 2026 22:08:34 GMT | OSINT SIGNALS: Before the Rug Pulls, the Internet Already Knew | Berend Watchus | [Read More](https://medium.com/p/169c0dc2a39c) |
+| Sat, 14 Mar 2026 21:57:23 GMT | How We Built a Webcam Vulnerability Demo for Our Information Security Course | Anwarabbas | [Read More](https://medium.com/p/8bb12d0aae96) |
+| Sat, 14 Mar 2026 21:49:18 GMT | What I’ve learned after building several AI agents | Ihor Sasovets | [Read More](https://medium.com/p/ca9941f66c86) |
+| Sat, 14 Mar 2026 21:48:04 GMT | CyCTF Luxor Writeup: pingpong (Pwn) | Pwnxr777 | [Read More](https://medium.com/p/1a00937458e0) |
 | Sat, 14 Mar 2026 21:42:31 GMT | HTB Bounty: File Upload to System via Chimichurri | Onurcan Genç | [Read More](https://medium.com/p/928edc342b0a) |
 | Sat, 14 Mar 2026 21:40:53 GMT | From Firewall Identity to Workload Identity: Completing the Platform Loop | Salwan Mohamed | [Read More](https://medium.com/p/096866f31090) |
 | Sat, 14 Mar 2026 21:31:27 GMT | Active Directory for Pentesters — Part 1: Understanding the Basics | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/608ac28ebe7d) |
@@ -107,9 +113,3 @@ Part 5 | MRxO1 | [Read More](https://medium.com/p/e0bef120b19f) |
 | Sat, 14 Mar 2026 14:35:51 GMT | How Iranian Hackers Wiped 200,000 Stryker Devices Using the Company’s Own IT Tool | Soumyadipta Birabar | [Read More](https://medium.com/p/011845a98836) |
 | Sat, 14 Mar 2026 14:30:38 GMT | The Ultimate Guide to Google Dorks for OSINT in 2026 | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/305cae65baed) |
 | Sat, 14 Mar 2026 14:28:20 GMT | The Digital Gatekeepers Understanding the Most Used Authentication Mechanisms | Gajanan Tayde | [Read More](https://medium.com/p/8e71ddb54943) |
-| Sat, 14 Mar 2026 14:25:46 GMT | How Attackers Abuse API Keys in Cloud Systems | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/fb6e31198e0b) |
-| Sat, 14 Mar 2026 14:23:38 GMT | The Art of Making Binaries Lie: Why Static Analysis Struggles With Modern Malware | Orez Yad | [Read More](https://medium.com/p/6156e7d629b2) |
-| Sat, 14 Mar 2026 14:10:51 GMT | Security Copilot X Purview UAL — Part 1 | Yash Mudaliar | [Read More](https://medium.com/p/60ce8e53967b) |
-| Sat, 14 Mar 2026 14:09:29 GMT | The IPv4 Header: The Digital ID Card of Every Packet on the Internet | Gajanan Tayde | [Read More](https://medium.com/p/c73ed696e51a) |
-| Sat, 14 Mar 2026 14:07:56 GMT | Learning Recon: A Look at Burgerprofiel | Saurab Prajapati | [Read More](https://medium.com/p/38a3e406dc97) |
-| Sat, 14 Mar 2026 14:07:38 GMT | Breaking Into GRC Cybersecurity: My Unconventional Journey | IT_ROOKIE | [Read More](https://medium.com/p/0a9004cc4a6e) |
