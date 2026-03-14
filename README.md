@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Mar 2026 09:30:04 GMT | The Seat That Was Never Offered: Africa, The Security Council, and the Question Nobody Wants to… | David Okiki Amayo Jr. | [Read More](https://medium.com/p/98a86fcc4269) |
+| Sat, 14 Mar 2026 09:24:51 GMT | Confidentiality in the Information Age | Igino Corona, Eng PhD | [Read More](https://medium.com/p/e925f5217614) |
+| Sat, 14 Mar 2026 09:23:39 GMT | Master Windows CMD: 100+ Essential Commands for Penetration Testing | Very Lazy Tech | [Read More](https://medium.com/p/7c74e3e90ec9) |
+| Sat, 14 Mar 2026 09:20:49 GMT | How Google’s Trusted Infrastructure Keeps the Cloud Secure | Swapnali Gavali | [Read More](https://medium.com/p/a7381a21bd87) |
+| Sat, 14 Mar 2026 09:16:00 GMT | The Hidden Cost of Waiting for the Perfect CISO Hire | Tyson Martin | [Read More](https://medium.com/p/b4fad0da5832) |
+| Sat, 14 Mar 2026 09:12:56 GMT | How to Add CAPTCHA in WordPress (Best Plugins + Easy Setup Guide) | Smit Pipaliya | [Read More](https://medium.com/p/2313a45b21f0) |
+| Sat, 14 Mar 2026 09:12:47 GMT | Snowflake Trust Center Detections: Real-Time Threat Monitoring for Cloud Data Platforms | Satish Kumar | [Read More](https://medium.com/p/8c2148b00171) |
+| Sat, 14 Mar 2026 09:12:12 GMT | What to Do If Your Identity is Stolen: 7 Important Steps | Emory French | [Read More](https://medium.com/p/e1c6c0af30c9) |
+| Sat, 14 Mar 2026 09:09:18 GMT | How Attackers Map 10,000+ Subdomains Automatically | Fateyaly | [Read More](https://medium.com/p/84bd712889aa) |
+| Sat, 14 Mar 2026 09:01:04 GMT | Why Your Browser Is Spying on You | Abdul Kader | [Read More](https://medium.com/p/6e21fc229f2b) |
+| Sat, 14 Mar 2026 08:59:51 GMT | Gift Lab (BAC) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/3fa17774119a) |
+| Sat, 14 Mar 2026 08:59:36 GMT | The Privacy Paradox: When Surveillance, Encryption, and Law Collide in the Digital Age. | eL Njas!™ | [Read More](https://medium.com/p/81f1ce128436) |
+| Sat, 14 Mar 2026 08:58:35 GMT | Python Project For CyberSecurity — OSINT Recon Script | SAMIN BIN HUMAYUN | [Read More](https://medium.com/p/f0718b09d151) |
+| Sat, 14 Mar 2026 08:52:52 GMT | The Linux Concept Journey — eBPF (Extended Berkeley Packet Filter) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f191ca518f7f) |
+| Sat, 14 Mar 2026 08:49:42 GMT | Why I Switched from Claude to MiniMax for Autonomous Pentesting | Krishna Kumar | [Read More](https://medium.com/p/2a9540209259) |
+| Sat, 14 Mar 2026 08:49:32 GMT | Membuat Flutter App Dengan Fungsi | Zurichsabil | [Read More](https://medium.com/p/bf7a8ab99e05) |
+| Sat, 14 Mar 2026 08:48:45 GMT | Building Secure Embedded Systems: Best Practices for IoT and Edge Computing Devices | K. Vijaya Lakshmi | [Read More](https://medium.com/p/17e47fde5462) |
 | Sat, 14 Mar 2026 08:34:22 GMT | Scattered Spider Tradecraft: Identity Abuse, Attack Flow, and Defense | Vincenzo Iozzo | [Read More](https://medium.com/p/4fb635280c0a) |
 | Sat, 14 Mar 2026 08:32:45 GMT | Bug Bounty Hunting — Complete Guide (Part-169) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/d3355f57def9) |
 | Sat, 14 Mar 2026 08:31:02 GMT | Bug Bounty Hunting — Complete Guide (Part-168) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/15de94955464) |
@@ -44,6 +61,7 @@ Part 4 | MRxO1 | [Read More](https://medium.com/p/d55cdf826c6f) |
 | Sat, 14 Mar 2026 06:30:29 GMT | How Hackers Can Manipulate AI With Prompt Injection | Paritosh | [Read More](https://medium.com/p/0bd9c7abb1b4) |
 | Sat, 14 Mar 2026 06:30:22 GMT | Security Risks in P2P Transactions: The Hidden Side of Instant Payments | AartiWrites | [Read More](https://medium.com/p/3b98953c5202) |
 | Sat, 14 Mar 2026 06:28:41 GMT | Panduan Menemukan Sumber Informasi Resmi Platform Flyingslot | flyingslot | [Read More](https://medium.com/p/0eab95d50008) |
+| Sat, 14 Mar 2026 06:25:25 GMT | VAPT Certification in Singapore | certvalue | [Read More](https://medium.com/p/19daf482db19) |
 | Sat, 14 Mar 2026 06:21:33 GMT | Is the Atlassian Ecosystem Starting to Crack? | Alex Polyakov | [Read More](https://medium.com/p/ae75f9df90f2) |
 | Sat, 14 Mar 2026 06:20:51 GMT | Wiper Attacks: The Cyber Threat That Destroys Everything | Gravity Innovative Solutions | [Read More](https://medium.com/p/2ea8815d3a9c) |
 | Sat, 14 Mar 2026 06:17:58 GMT | Understanding End-to-End Encryption: Build a Secure Chat App with Next.js, WebSocket and Web Crypto | Shivam Raj | [Read More](https://medium.com/p/ad66679d887c) |
@@ -96,21 +114,3 @@ APPRENTICE - Lab -02 | M o $ t a | [Read More](https://medium.com/p/9d1f09ed7b66
 | Sat, 14 Mar 2026 00:35:22 GMT | The UAC Bypass Most Windows Defenders Don’t Know Exists | Yua Mikanana | [Read More](https://medium.com/p/8ea0c86dc26a) |
 | Sat, 14 Mar 2026 00:22:34 GMT | The Login Form That Lets Anyone In — And One Small Fix That Stops It | Tiye Baldwin-Anderson | [Read More](https://medium.com/p/6a69594c6241) |
 | Sat, 14 Mar 2026 00:07:00 GMT | 3 Common Mistakes That Can Get Your Phone Hacked | DarkStorm - Cyber Security | [Read More](https://medium.com/p/999f9cf1d141) |
-| Sat, 14 Mar 2026 00:01:01 GMT | Master Guide to SQL Injection (SQLi): Types, Payloads, and Evasion Techniques | JPablo13 | [Read More](https://medium.com/p/ab3da4e8194f) |
-| Fri, 13 Mar 2026 23:26:00 GMT | Risk of Multiple Developers Touching Your Website | TOZAMAS Creatives | [Read More](https://medium.com/p/73216bb01111) |
-| Fri, 13 Mar 2026 23:16:10 GMT | Cloud 3.0: The Next Evolution in Enterprise Computing | TechnologAI | [Read More](https://medium.com/p/787ae07ed10c) |
-| Fri, 13 Mar 2026 23:00:13 GMT | Security Clearance Fingerprinting in Canada: Why Hundreds of Thousands of Workers Need It | Loteyfingerprinting | [Read More](https://medium.com/p/df64a682bd76) |
-| Fri, 13 Mar 2026 22:59:51 GMT | TryHackMe SOC Analyst Road Map Part-9 | safa kaya | [Read More](https://medium.com/p/9f6061ef7767) |
-| Fri, 13 Mar 2026 22:50:31 GMT | Trust the DLL, Abuse the Delegation(RBCD) | Hishamrazak | [Read More](https://medium.com/p/757c9d0c011e) |
-| Fri, 13 Mar 2026 22:47:58 GMT | Panduan Lengkap Eksploitasi Active Directory: Write-up TryHackMe Attacktive Directory | Alvinkurniawan | [Read More](https://medium.com/p/d2f18d5ad67d) |
-| Fri, 13 Mar 2026 22:35:50 GMT | Active Directory Pentesting Practice — TryHackMe Attacktive Directory | Galih Permana Rizki | [Read More](https://medium.com/p/6f910eecf2c0) |
-| Fri, 13 Mar 2026 22:28:18 GMT | Kali Linux. | Ali Alizada | [Read More](https://medium.com/p/e56368a6a566) |
-| Fri, 13 Mar 2026 22:23:41 GMT | Bitunix One-Click Buy: A More Direct Purchase Flow for New and Casual Buyers | Adam Hunt | [Read More](https://medium.com/p/b4ecbf61e866) |
-| Fri, 13 Mar 2026 22:23:08 GMT | HackQuest Season 10 CTF and Interview Experience | Syed Ansab Shah | [Read More](https://medium.com/p/4ddaba1f505c) |
-| Fri, 13 Mar 2026 22:22:49 GMT | The Student Who Stopped a Terror Attack | Ava Marie Thompson | [Read More](https://medium.com/p/5a898d3653fb) |
-| Fri, 13 Mar 2026 22:19:30 GMT | Privacy isn’t a feature, it’s an obligation | Bogdan Tudorache | [Read More](https://medium.com/p/3578cd81d3f9) |
-| Fri, 13 Mar 2026 22:11:00 GMT | Your Password Is Lying to You: The Small Business Owner’s Guide to MFA | Sharon Martin | [Read More](https://medium.com/p/4ac23acccdc9) |
-| Fri, 13 Mar 2026 22:09:55 GMT | Meet the CE SentinelOne Assistant — I Built It for Myself, But You Can Try It Too | Dean | [Read More](https://medium.com/p/6db7f6e74518) |
-| Fri, 13 Mar 2026 22:04:52 GMT | DFIR Report: APT28 | Khoa | [Read More](https://medium.com/p/7831719c731a) |
-| Fri, 13 Mar 2026 21:54:37 GMT | Configure VLAN with pfSense — part1 | Danny | [Read More](https://medium.com/p/a32e5f3ab6d1) |
-| Fri, 13 Mar 2026 21:46:39 GMT | Day 1: I Opened a Terminal and Actually Did Something With It | EVAN | [Read More](https://medium.com/p/a299875a1b5b) |
