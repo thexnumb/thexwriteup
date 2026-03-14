@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Mar 2026 20:27:15 GMT | TryHackMe — Offensive Security Intro Writeup | Dhruv Tripathi | [Read More](https://medium.com/p/9944be1e101e) |
+| Sat, 14 Mar 2026 20:26:29 GMT | Security Best Practices for Mobile Apps (Banking Case Study) | Angela Nyabuti | [Read More](https://medium.com/p/eabda8ef19fa) |
+| Sat, 14 Mar 2026 20:05:09 GMT | Escalating an Out-of-Scope HTML Injection to a Critical 9.3 XSS (WAF Bypass) | Hussein Mahmoud | [Read More](https://medium.com/p/12b194d6a1df) |
+| Sat, 14 Mar 2026 20:03:08 GMT | MOI-CTF: last key writeup - by uin0 | Abdullah Ali | [Read More](https://medium.com/p/e1dd547caa22) |
+| Sat, 14 Mar 2026 19:57:52 GMT | NEWS — STRATEGIC CYBERSECURITY UPDATES on MACHINE SPEED DEFENCE | Muhammad Ali Khan | [Read More](https://medium.com/p/751b5b75982f) |
+| Sat, 14 Mar 2026 19:50:48 GMT | Reverse Engineering & Binary Exploitation:
+Part 5 | MRxO1 | [Read More](https://medium.com/p/e0bef120b19f) |
+| Sat, 14 Mar 2026 19:48:00 GMT | How Threat Actors Accidentally Documented My Recon Strategy ️ | Iski | [Read More](https://medium.com/p/f28307135c04) |
+| Sat, 14 Mar 2026 19:46:03 GMT | IT 05 - Active Directory (AD) | Amrsmooke | [Read More](https://medium.com/p/e22c8ad55b9a) |
+| Sat, 14 Mar 2026 19:39:55 GMT | Event Security Costs in London: A Guide to Security Guard Agency Prices | 01group | [Read More](https://medium.com/p/c0bb694473c6) |
 | Sat, 14 Mar 2026 19:36:57 GMT | Can the Chinese Hack Into My Solar System? | Bert & Ling @ Justplug | [Read More](https://medium.com/p/38c7c8b268cd) |
 | Sat, 14 Mar 2026 19:36:00 GMT | Entra ID Monitoring - TryHackMe - Splunk | Jose Praveen | [Read More](https://medium.com/p/1bf18f7694d8) |
 | Sat, 14 Mar 2026 19:33:41 GMT | The False Positive Problem Nobody Fixes in SOCs | Sunny Dilipkumar Shah | [Read More](https://medium.com/p/be9bd5a50963) |
@@ -104,12 +114,3 @@ Module 2 — Part 5: Cybersecurity Landscape — Cryptocurrency | Favour
 | Sat, 14 Mar 2026 13:36:10 GMT | Why Your AI Safety Layer Will Fail (And What To Do About It). | Mattijs Moens | [Read More](https://medium.com/p/abee9f25b800) |
 | Sat, 14 Mar 2026 13:34:30 GMT | eJPT - System-Host Based Attacks CTF 1 | Francesco Pastore | [Read More](https://medium.com/p/a401064482df) |
 | Sat, 14 Mar 2026 13:32:33 GMT | TryHackMe Writeup: Pwning the b3dr0ck Machine . | Amrou bekhedda | [Read More](https://medium.com/p/344b8341b378) |
-| Sat, 14 Mar 2026 13:14:54 GMT | İnternette Gerçekten Anonim Kalmak Mümkün mü? | Ali Yaşe | [Read More](https://medium.com/p/1f47ff334ae7) |
-| Sat, 14 Mar 2026 13:14:05 GMT | ⚠️ The Hidden Risk of Screenshots | Bugitrix | [Read More](https://medium.com/p/0ec91c1165cf) |
-| Sat, 14 Mar 2026 13:00:54 GMT | AI-Ready Data: The Foundation of Effective AI Governance | Ricardo Newman | [Read More](https://medium.com/p/407bbab496b8) |
-| Sat, 14 Mar 2026 12:59:42 GMT | ROT13 Encryption: A Beginner-Friendly Introduction to Classic Cryptography | Biprajit | [Read More](https://medium.com/p/4d84c4b3fed8) |
-| Sat, 14 Mar 2026 12:57:57 GMT | Ethical Hacking Crash Course in Delhi, India | EINITIAL24 | [Read More](https://medium.com/p/5658dbc7de0d) |
-| Sat, 14 Mar 2026 12:48:36 GMT | # How I Found a Snyk-Verified 9.3 | freebold | [Read More](https://medium.com/p/c0db24512733) |
-| Sat, 14 Mar 2026 12:45:31 GMT | Write-up: Eksploitasi Active Directory Melalui Lab Attacktive Directory | Agungsaraswati | [Read More](https://medium.com/p/a6c5d087dd1e) |
-| Sat, 14 Mar 2026 12:33:21 GMT | The Most Dangerous Smart Contract Bugs Aren’t in the Code | ZerΔch | [Read More](https://medium.com/p/883631afc657) |
-| Sat, 14 Mar 2026 12:32:23 GMT | Diplomasi ve İstihbarat: Etkileşim, Avantajlar ve Modern Riskler | Nisa Baykal | [Read More](https://medium.com/p/d13822c871ab) |
