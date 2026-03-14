@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Mar 2026 11:25:01 GMT | Feelings are a lot. | Half a Cup Full | [Read More](https://medium.com/p/f439641f8399) |
+| Sat, 14 Mar 2026 11:22:07 GMT | Linux Dünyasında CrackArmor Alarmı | Mesut Ozsoy | [Read More](https://medium.com/p/3bcd50c6d405) |
+| Sat, 14 Mar 2026 11:14:34 GMT | Breach Reported on PC of Kanashibari’s Effects Technician | GILDER | [Read More](https://medium.com/p/a954e1ec3b0e) |
+| Sat, 14 Mar 2026 11:07:32 GMT | Behind the Scenes of a Bug Bounty Workshop at CGC University | Gourav Garg | [Read More](https://medium.com/p/2e289d0cc81b) |
+| Sat, 14 Mar 2026 11:02:18 GMT | Security-First Development Approach for Modern Web and Mobile Applications | Utilizor | [Read More](https://medium.com/p/6587ef79adf7) |
+| Sat, 14 Mar 2026 10:59:59 GMT | Why AI Will Never Fully Replace Cybersecurity Professionals | Manisa Ale | [Read More](https://medium.com/p/12276d8a8ccf) |
+| Sat, 14 Mar 2026 10:39:47 GMT | Detecting RDP Brute Force Attacks in Real-Time Using ELK Stack | Mann24> | [Read More](https://medium.com/p/4df309d5c1b6) |
+| Sat, 14 Mar 2026 10:33:28 GMT | Best Ethical Hacking Tools Used by Cybersecurity Professionals | cyber security Updates | [Read More](https://medium.com/p/928d838f1b4c) |
+| Sat, 14 Mar 2026 10:31:54 GMT | The World of “Wares” | The Cyber Student | [Read More](https://medium.com/p/d3b1d19f9595) |
+| Sat, 14 Mar 2026 10:31:41 GMT | 10 Signs Your Company Needs Cybersecurity Services Right Now | Imperium Digital Network Pvt Ltd. | [Read More](https://medium.com/p/d2a63ed69c66) |
+| Sat, 14 Mar 2026 10:31:35 GMT | Exploiting a SQL Injection Vulnerability in a WHERE Clause - PortSwigger Lab Write-up | shivam sharma | [Read More](https://medium.com/p/456126f56ba4) |
+| Sat, 14 Mar 2026 10:31:29 GMT | Bootcamp ID-Networkers : Final Project — Cyber Defender CWL | rexaa | [Read More](https://medium.com/p/e51db594c998) |
 | Sat, 14 Mar 2026 10:16:58 GMT | ClickFix Explained: When Trying to Fix a PC Glitch Makes It Worse | Varshil Desai | [Read More](https://medium.com/p/99ed331b43f4) |
 | Sat, 14 Mar 2026 10:16:11 GMT | We Tried 3 Ways to Authenticate Payment APIs. Only One Survived at Scale | Alex Fomin | [Read More](https://medium.com/p/954355355886) |
 | Sat, 14 Mar 2026 10:15:27 GMT | Discovering a Blind SSRF Vulnerability in a PHP RSS Feed Parser | Hemant Raj Bhati | [Read More](https://medium.com/p/243f3ccbdafb) |
@@ -102,15 +114,3 @@ APPRENTICE - Lab -02 | M o $ t a | [Read More](https://medium.com/p/9d1f09ed7b66
 | Sat, 14 Mar 2026 03:56:42 GMT | Network Hacking — Pre-connection attacks — Parrot/Kali/Tails | Aakash Tm | [Read More](https://medium.com/p/db3202f2668d) |
 | Sat, 14 Mar 2026 03:51:49 GMT | Hunting Iranian Iranian State-Sponsored Threat Actors | Zakkir | [Read More](https://medium.com/p/097848c7dbe7) |
 | Sat, 14 Mar 2026 03:50:57 GMT | Fowsniff CTF — TryHackMe Walkthrough | codingbolt | [Read More](https://medium.com/p/9060bf701dd4) |
-| Sat, 14 Mar 2026 03:46:53 GMT | Brooklyn Nine-Nine CTF Walkthrough — From FTP to Root | Logic 0x01 | [Read More](https://medium.com/p/26610d116ba3) |
-| Sat, 14 Mar 2026 03:45:00 GMT | Copy | Hsiehsungling | [Read More](https://medium.com/p/709ed1e458bc) |
-| Sat, 14 Mar 2026 03:44:44 GMT | Pickle Rick — TryHackMe Walkthrough | codingbolt | [Read More](https://medium.com/p/760c1f21dfa1) |
-| Sat, 14 Mar 2026 03:37:26 GMT | Hunting Iranian Iranian State-Sponsored Threat Actors | RedSnap Defense | [Read More](https://medium.com/p/2c7dad00f687) |
-| Sat, 14 Mar 2026 02:32:02 GMT | TryHackMe Cyber Security 101 (SEC1) Exam Review | Rich | [Read More](https://medium.com/p/28224f884b40) |
-| Sat, 14 Mar 2026 02:23:00 GMT | Email Footprinting: Tracing the Real Source of an Email ️‍♂️ | CodeXconnect | [Read More](https://medium.com/p/50833af74915) |
-| Sat, 14 Mar 2026 02:21:13 GMT | Inside the Mind of a Hacker: My Journey Into Cybersecurity Research | CodeXconnect | [Read More](https://medium.com/p/1db36f8bac42) |
-| Sat, 14 Mar 2026 02:12:08 GMT | Container Security: Why minimalism in containers can cut 99% of vulnerabilities | kode_ian | [Read More](https://medium.com/p/854d1a81b3fd) |
-| Sat, 14 Mar 2026 02:10:02 GMT | Docker Is Not a VM: How It Actually Works Under the Hood | Abhinav Garg | [Read More](https://medium.com/p/3d9eb2f5e7e9) |
-| Sat, 14 Mar 2026 02:02:58 GMT | No Notes CRLF Challenge - Hackena Ramadan CTF | db1M | [Read More](https://medium.com/p/d68c8cdd25ee) |
-| Sat, 14 Mar 2026 02:02:06 GMT | Czechoslovakia XSS Challenge - Hackena Ramadan CTF | db1M | [Read More](https://medium.com/p/f9ebe5197526) |
-| Sat, 14 Mar 2026 01:59:36 GMT | LFI/RFI | Emirhan Kellecigil | [Read More](https://medium.com/p/56dcd52b8977) |
