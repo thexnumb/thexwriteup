@@ -12,7 +12,11 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Mar 2026 22:38:29 GMT | How Most People Get Their Accounts Stolen on Instagram | CyberDucky | [Read More](https://medium.com/p/d596156d9ae3) |
+| Sat, 14 Mar 2026 22:32:46 GMT | How I aced the CompTIA Security+ (And a Step-by-Step Guide for You to Do It Too) | SecBySam | [Read More](https://medium.com/p/0f928002225a) |
+| Sat, 14 Mar 2026 22:30:32 GMT | Zip TOCTOU to RCE via Zip Slip — Lazy Pharaoh - CyCTF 2026 Quals | Ahmed Mohammed | [Read More](https://medium.com/p/48243cc0844e) |
 | Sat, 14 Mar 2026 22:19:03 GMT | WebNet0.. picoCTF | Configx | [Read More](https://medium.com/p/127658e2c8c2) |
+| Sat, 14 Mar 2026 22:16:00 GMT | Ransomware Explained: What It Actually Does to Your Business (And How to Survive It) | Sharon Martin | [Read More](https://medium.com/p/cc51915e51c5) |
 | Sat, 14 Mar 2026 22:13:22 GMT | Creating a Bayesian Behavioral Detector in Google SecOps (pt 3) | Greg Kushmerek | [Read More](https://medium.com/p/90868b1690b1) |
 | Sat, 14 Mar 2026 22:08:34 GMT | OSINT SIGNALS: Before the Rug Pulls, the Internet Already Knew | Berend Watchus | [Read More](https://medium.com/p/169c0dc2a39c) |
 | Sat, 14 Mar 2026 21:57:23 GMT | How We Built a Webcam Vulnerability Demo for Our Information Security Course | Anwarabbas | [Read More](https://medium.com/p/8bb12d0aae96) |
@@ -109,7 +113,3 @@ Part 5 | MRxO1 | [Read More](https://medium.com/p/e0bef120b19f) |
 | Sat, 14 Mar 2026 14:50:55 GMT | How OSINT Researchers Use Twitter Viewers in 2026 V2 | Peter Anderson | [Read More](https://medium.com/p/daa5b75447a1) |
 | Sat, 14 Mar 2026 14:42:45 GMT | Introducing Guardio — Take Back Control of Your AI Agent’s Actions | Radosław Szymkiewicz | [Read More](https://medium.com/p/928ff1201a44) |
 | Sat, 14 Mar 2026 14:41:01 GMT | Commercial security cameras systems installation Dallas | Edwin | [Read More](https://medium.com/p/5e07605e74a9) |
-| Sat, 14 Mar 2026 14:35:52 GMT | Week 1 of Cyber Security Learning | Muhammad Uzair | [Read More](https://medium.com/p/3fca7003fa81) |
-| Sat, 14 Mar 2026 14:35:51 GMT | How Iranian Hackers Wiped 200,000 Stryker Devices Using the Company’s Own IT Tool | Soumyadipta Birabar | [Read More](https://medium.com/p/011845a98836) |
-| Sat, 14 Mar 2026 14:30:38 GMT | The Ultimate Guide to Google Dorks for OSINT in 2026 | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/305cae65baed) |
-| Sat, 14 Mar 2026 14:28:20 GMT | The Digital Gatekeepers Understanding the Most Used Authentication Mechanisms | Gajanan Tayde | [Read More](https://medium.com/p/8e71ddb54943) |
