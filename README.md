@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Mar 2026 06:31:45 GMT | Reverse Engineering & Binary Exploitation:
+Part 4 | MRxO1 | [Read More](https://medium.com/p/d55cdf826c6f) |
+| Sat, 14 Mar 2026 06:30:29 GMT | How Hackers Can Manipulate AI With Prompt Injection | Paritosh | [Read More](https://medium.com/p/0bd9c7abb1b4) |
+| Sat, 14 Mar 2026 06:30:22 GMT | Security Risks in P2P Transactions: The Hidden Side of Instant Payments | AartiWrites | [Read More](https://medium.com/p/3b98953c5202) |
+| Sat, 14 Mar 2026 06:28:41 GMT | Panduan Menemukan Sumber Informasi Resmi Platform Flyingslot | flyingslot | [Read More](https://medium.com/p/0eab95d50008) |
+| Sat, 14 Mar 2026 06:21:33 GMT | Is the Atlassian Ecosystem Starting to Crack? | Alex Polyakov | [Read More](https://medium.com/p/ae75f9df90f2) |
+| Sat, 14 Mar 2026 06:20:51 GMT | Wiper Attacks: The Cyber Threat That Destroys Everything | Gravity Innovative Solutions | [Read More](https://medium.com/p/2ea8815d3a9c) |
+| Sat, 14 Mar 2026 06:17:58 GMT | Understanding End-to-End Encryption: Build a Secure Chat App with Next.js, WebSocket and Web Crypto | Shivam Raj | [Read More](https://medium.com/p/ad66679d887c) |
+| Sat, 14 Mar 2026 05:49:14 GMT | JWT Storage Isn’t a Binary Choice — It’s a Deployment Decision | Idreesdev | [Read More](https://medium.com/p/a2beb32d873f) |
+| Sat, 14 Mar 2026 05:49:04 GMT | I Listened to a Podcast About Phone Hackers. Then I Realized Nothing Actually Changed. | Haniakhan | [Read More](https://medium.com/p/d8bf0500b880) |
+| Sat, 14 Mar 2026 05:45:38 GMT | Building an Intelligent DevSecOps Pipeline: How I Used AI to Turn Vulnerability Scan Noise into… | Sumit Giri | [Read More](https://medium.com/p/3d6e4240f8a0) |
+| Sat, 14 Mar 2026 05:44:27 GMT | The FBI’s Most Dangerous Weapon Turned Against Them: The Untold Story of Max Butler | Ziadi Lotfi | [Read More](https://medium.com/p/43192c809e93) |
+| Sat, 14 Mar 2026 05:42:58 GMT | The Hidden Cybersecurity Risks Inside Healthcare Vendor Networks | Legal Thoughts | [Read More](https://medium.com/p/0f7d152c39ed) |
+| Sat, 14 Mar 2026 05:39:34 GMT | Security Personnel Services: Ensuring Safety and Protection for Businesses | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/c297e0321a79) |
+| Sat, 14 Mar 2026 05:38:02 GMT | Best IT Consulting Companies in Muscat, Oman | hardin s | [Read More](https://medium.com/p/95bec826e3b5) |
 | Sat, 14 Mar 2026 05:17:40 GMT | Data Protection & Privacy: Why It’s a Business Responsibility in the Digital Age | Devarshi Acharya | [Read More](https://medium.com/p/5876503733c1) |
 | Sat, 14 Mar 2026 05:15:12 GMT | When Claude Became My Pentester | Irfan Haris | [Read More](https://medium.com/p/2c758bc053d1) |
 | Sat, 14 Mar 2026 05:12:57 GMT | From Tax Breaks to Backlash: Why Data Centres Are the New Epicentre of Community Pushback | Darwin Hudson | [Read More](https://medium.com/p/70aca4079d9f) |
@@ -99,17 +114,3 @@ APPRENTICE - Lab -02 | M o $ t a | [Read More](https://medium.com/p/9d1f09ed7b66
 | Fri, 13 Mar 2026 20:06:12 GMT | Strengthening Business Security with Cyber Resilience and Advanced Data Analytics | One Federal Solution | [Read More](https://medium.com/p/d1c71967f53e) |
 | Fri, 13 Mar 2026 19:55:14 GMT | AI Advances Relevant to Application Security and Software Supply Chain Security | Praveen Malhan | [Read More](https://medium.com/p/f5b10604bcfb) |
 | Fri, 13 Mar 2026 19:51:06 GMT | Must-Take Precautions While Designing Your Backend | Alok | [Read More](https://medium.com/p/5feae108bada) |
-| Fri, 13 Mar 2026 19:38:05 GMT | History & Past defacement from Facebook page | HonkSecurity | [Read More](https://medium.com/p/2afcadde48cd) |
-| Fri, 13 Mar 2026 19:33:15 GMT | Suno’s Hidden Tracking Infrastructure: Exposing Undisclosed Surveillance on the AI Music Platform | Mr. Duck | [Read More](https://medium.com/p/68c771ae7b3e) |
-| Fri, 13 Mar 2026 19:31:33 GMT | The Cybersecurity Risks of Generative AI: What Organizations Need to Know | Hamza Naveed Mohammed | [Read More](https://medium.com/p/eae187d8d926) |
-| Fri, 13 Mar 2026 19:30:40 GMT | Understanding TLS Handshake by Capturing HTTPS Traffic with Wireshark and Burp Suite | Girish B Nair | [Read More](https://medium.com/p/78ab968997df) |
-| Fri, 13 Mar 2026 19:23:15 GMT | MongoDB Secure Deployment & Hardening Guide | SOCFortress | [Read More](https://medium.com/p/520dd85d8875) |
-| Fri, 13 Mar 2026 19:20:34 GMT | RJ-45 Connectors and Ethernet Ports: How Network Cables Connect Devices | Ndu | [Read More](https://medium.com/p/5f0eda816b84) |
-| Fri, 13 Mar 2026 19:19:15 GMT | Deux ans de support Bitdefender pour un bug bénin : analyse complète d’un échec structurel. | nicolas.baer | [Read More](https://medium.com/p/06af8cd65a64) |
-| Fri, 13 Mar 2026 19:19:00 GMT | MITRE ATT&CK | Yash Thopate | [Read More](https://medium.com/p/3ad0006c824b) |
-| Fri, 13 Mar 2026 19:17:36 GMT | Your Company Banned ChatGPT ! But AI Never Actually Left Your Network | Paritosh | [Read More](https://medium.com/p/328c811f1511) |
-| Fri, 13 Mar 2026 19:10:40 GMT | From Static HTML to a Local Domain: Hosting a Flask + PostgreSQL Web App with Nginx on Linux | Girish B Nair | [Read More](https://medium.com/p/608ae3ef124c) |
-| Fri, 13 Mar 2026 19:04:14 GMT | Why Some Penetration Tests Cost $10K and Others $3K | Emory French | [Read More](https://medium.com/p/4e8b598b86af) |
-| Fri, 13 Mar 2026 19:03:18 GMT | PortSwigger Is Amazing… But It Can Overwhelm Most Of Us | the_air_cyborg | [Read More](https://medium.com/p/991227e8a4ce) |
-| Fri, 13 Mar 2026 19:03:01 GMT | Red Stone One Carat CTF — From Brute Force to Root Shell | Roshan Rajbanshi | [Read More](https://medium.com/p/b39bf0c57d9a) |
-| Fri, 13 Mar 2026 18:56:00 GMT | A.I. Basics: What It Is, How It Learns, and Why It Matters in Cybersecurity | Dfaults | [Read More](https://medium.com/p/99fd71964487) |
