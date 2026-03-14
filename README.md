@@ -12,7 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Mar 2026 16:27:08 GMT | Intro to the Mr. Robot Simulation | Allen Ace | [Read More](https://medium.com/p/cb1b5393cd7d) |
+| Sat, 14 Mar 2026 16:20:58 GMT | Web-ID Global Guard | Georgesmalki | [Read More](https://medium.com/p/5d4306763ac6) |
+| Sat, 14 Mar 2026 16:10:47 GMT | Passive Reconnaissance on hackersploit.org | Infosamriddhi | [Read More](https://medium.com/p/0c296180be5a) |
+| Sat, 14 Mar 2026 16:01:04 GMT | RAG Isn’t Safer: 9 Injection Paths Through Retrieved Text | Praxen | [Read More](https://medium.com/p/41421c23ad8d) |
+| Sat, 14 Mar 2026 16:01:02 GMT | Un hacker comprometió archivos del FBI vinculados al caso Epstein en 2023 | Tiziano Mass | [Read More](https://medium.com/p/f2a2565b9f72) |
+| Sat, 14 Mar 2026 15:57:56 GMT | From Script Kiddie to Script Creator: Automating Web Exploits with Python. | Abiralkarmacharya | [Read More](https://medium.com/p/3df46aaff2fb) |
+| Sat, 14 Mar 2026 15:53:30 GMT | Random digits | Karl Tame | [Read More](https://medium.com/p/909f47c1bfde) |
+| Sat, 14 Mar 2026 15:51:39 GMT | Best Budget Security Camera System Under $300 (2026 Review) | Temma | [Read More](https://medium.com/p/f91bf3689499) |
 | Sat, 14 Mar 2026 15:45:51 GMT | Cyber Kill Chain Explained: SOC Alert Reporting, Escalation & Attacker Lifecycle Guide | Mr Sumit Pal | [Read More](https://medium.com/p/effe0f95d9de) |
+| Sat, 14 Mar 2026 15:44:09 GMT | From “Let’s Just Try” to a Prime Offer — My TCS HackQuest S10 Journey | Captain Rogers | [Read More](https://medium.com/p/5c4056943771) |
 | Sat, 14 Mar 2026 15:41:00 GMT | The Day the Maps Went Blank: Unpacking the Cloudflare BYOIP BGP Outage of 2026 | Sohan Kanna | [Read More](https://medium.com/p/b4b2de0ae618) |
 | Sat, 14 Mar 2026 15:31:45 GMT | Nara Proving GroundsWalkthrough (windows Active Directory) | cyber_public_school | [Read More](https://medium.com/p/8ca797708a1a) |
 | Sat, 14 Mar 2026 15:12:00 GMT | Detecting AD Initial Access - TryHackMe - Splunk | Jose Praveen | [Read More](https://medium.com/p/ca887f110885) |
@@ -104,12 +113,3 @@ Module 2 — Part 5: Cybersecurity Landscape — Cryptocurrency | Favour
 | Sat, 14 Mar 2026 09:12:56 GMT | How to Add CAPTCHA in WordPress (Best Plugins + Easy Setup Guide) | Smit Pipaliya | [Read More](https://medium.com/p/2313a45b21f0) |
 | Sat, 14 Mar 2026 09:12:47 GMT | Snowflake Trust Center Detections: Real-Time Threat Monitoring for Cloud Data Platforms | Satish Kumar | [Read More](https://medium.com/p/8c2148b00171) |
 | Sat, 14 Mar 2026 09:12:12 GMT | What to Do If Your Identity is Stolen: 7 Important Steps | Emory French | [Read More](https://medium.com/p/e1c6c0af30c9) |
-| Sat, 14 Mar 2026 09:09:18 GMT | How Attackers Map 10,000+ Subdomains Automatically | Fateyaly | [Read More](https://medium.com/p/84bd712889aa) |
-| Sat, 14 Mar 2026 09:01:04 GMT | Why Your Browser Is Spying on You | Abdul Kader | [Read More](https://medium.com/p/6e21fc229f2b) |
-| Sat, 14 Mar 2026 08:59:51 GMT | Gift Lab (BAC) (Bugforge) | 7s26Simon | [Read More](https://medium.com/p/3fa17774119a) |
-| Sat, 14 Mar 2026 08:59:36 GMT | The Privacy Paradox: When Surveillance, Encryption, and Law Collide in the Digital Age. | eL Njas!™ | [Read More](https://medium.com/p/81f1ce128436) |
-| Sat, 14 Mar 2026 08:58:35 GMT | Python Project For CyberSecurity — OSINT Recon Script | SAMIN BIN HUMAYUN | [Read More](https://medium.com/p/f0718b09d151) |
-| Sat, 14 Mar 2026 08:52:52 GMT | The Linux Concept Journey — eBPF (Extended Berkeley Packet Filter) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/f191ca518f7f) |
-| Sat, 14 Mar 2026 08:49:42 GMT | Why I Switched from Claude to MiniMax for Autonomous Pentesting | Krishna Kumar | [Read More](https://medium.com/p/2a9540209259) |
-| Sat, 14 Mar 2026 08:49:32 GMT | Membuat Flutter App Dengan Fungsi | Zurichsabil | [Read More](https://medium.com/p/bf7a8ab99e05) |
-| Sat, 14 Mar 2026 08:48:45 GMT | Building Secure Embedded Systems: Best Practices for IoT and Edge Computing Devices | K. Vijaya Lakshmi | [Read More](https://medium.com/p/17e47fde5462) |
