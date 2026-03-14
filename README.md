@@ -12,6 +12,9 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Mar 2026 17:41:12 GMT | Week 2 of Cyber Security Learning | Muhammad Uzair | [Read More](https://medium.com/p/2ebcb2bf4c76) |
+| Sat, 14 Mar 2026 17:28:12 GMT | Vulnversity Walkthrough - Try Hack Me | Rogue | [Read More](https://medium.com/p/e226d820ef7d) |
+| Sat, 14 Mar 2026 17:24:16 GMT | Learning Network Monitoring with Nagios: A Practical Experience | Pedson Tayebwa | [Read More](https://medium.com/p/ca1d18dbed9a) |
 | Sat, 14 Mar 2026 17:18:48 GMT | Blue Team Capstone Project (IDN Networkers): Incident Investigation with Wazuh, Wireshark, and… | FAIZ AIDIL BAIHAQI | [Read More](https://medium.com/p/6d9ab4e035e2) |
 | Sat, 14 Mar 2026 17:18:46 GMT | The Dangerous Illusion: Why Most Companies Think They Are Secure (But Aren’t) | Alexis Medina | [Read More](https://medium.com/p/5f8e585ab7ab) |
 | Sat, 14 Mar 2026 17:15:49 GMT | “Leveling Up: Building a Subdomain Scanner in Python for Bug Bounty Hunting” | Akhilswami | [Read More](https://medium.com/p/8bf32ecafb14) |
@@ -110,6 +113,3 @@ Module 2 — Part 5: Cybersecurity Landscape — Cryptocurrency | Favour
 | Sat, 14 Mar 2026 10:10:37 GMT | Active Directory Attacks: LLMNR Poisoning, NTDS.dit | Mert Baykal | [Read More](https://medium.com/p/9525262fcaec) |
 | Sat, 14 Mar 2026 10:10:26 GMT | From Responsible AI to Secure AI: Understanding the CoSAI Framework for Modern AI Systems | Venkatkumar (VK) | [Read More](https://medium.com/p/36dcc3394206) |
 | Sat, 14 Mar 2026 09:59:35 GMT | The Evolution of Cyber Resilience: Shifting Metrics from Prevention to Recovery | Cynox Security LLP. | [Read More](https://medium.com/p/a4e266db322d) |
-| Sat, 14 Mar 2026 09:56:01 GMT | What a Mature Policy Library Actually Looks Like | Gaurav Shukla | [Read More](https://medium.com/p/458b6aa71b85) |
-| Sat, 14 Mar 2026 09:47:23 GMT | TryHackMe - Entra ID Monitoring - WriteUp | Axoloth | [Read More](https://medium.com/p/93221d1d426d) |
-| Sat, 14 Mar 2026 09:42:25 GMT | Google Paid Hackers $17 Million in 2025 — Here’s Why | Subhan Ali | [Read More](https://medium.com/p/5f5fc65d827e) |
