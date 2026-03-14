@@ -12,6 +12,24 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sat, 14 Mar 2026 15:12:00 GMT | Detecting AD Initial Access - TryHackMe - Splunk | Jose Praveen | [Read More](https://medium.com/p/ca887f110885) |
+| Sat, 14 Mar 2026 15:06:03 GMT | OSI Model Explained: The 7 Layers of Networking | Rajaelbahraouy | [Read More](https://medium.com/p/885420e5603e) |
+| Sat, 14 Mar 2026 15:06:00 GMT | Your AI Agent Just Deleted Everything. And It Said It “Panicked.” | Mammoth Cyber | [Read More](https://medium.com/p/64ffdc7498c6) |
+| Sat, 14 Mar 2026 15:01:01 GMT | Pentagon Flags Anthropic, Google Maps Gets AI, and Starlink Tightens Orbit as Tech Infrastructure… | Qandeel Akhtar | [Read More](https://medium.com/p/6b9c2d3f644c) |
+| Sat, 14 Mar 2026 14:58:30 GMT | Shadow IT: The Hidden Risk Inside Every Organization | oadtechnologies | [Read More](https://medium.com/p/60ea31cc1ca2) |
+| Sat, 14 Mar 2026 14:57:13 GMT | The Coming Cybersecurity Convergence: How Cloud, Artificial Intelligence, and Quantum Computing Are… | Richard Wilder | [Read More](https://medium.com/p/b4c8fb1cb67d) |
+| Sat, 14 Mar 2026 14:55:14 GMT | The Silent Invader | Muhammedfaris | [Read More](https://medium.com/p/ee2a4c1e50bd) |
+| Sat, 14 Mar 2026 14:53:04 GMT | Exploring OSINT Tools for Cybersecurity Reconnaissance — My Learning Experience | Zahid (Cybersecurity Student) | [Read More](https://medium.com/p/3046622e7c26) |
+| Sat, 14 Mar 2026 14:52:07 GMT | Kubernetes Hacking Basics | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/76b985a094e1) |
+| Sat, 14 Mar 2026 14:52:06 GMT | The Breath Hackers field notes | Abhinav Jain | [Read More](https://medium.com/p/d16877d98af6) |
+| Sat, 14 Mar 2026 14:50:55 GMT | How OSINT Researchers Use Twitter Viewers in 2026 V2 | Peter Anderson | [Read More](https://medium.com/p/daa5b75447a1) |
+| Sat, 14 Mar 2026 14:42:45 GMT | Introducing Guardio — Take Back Control of Your AI Agent’s Actions | Radosław Szymkiewicz | [Read More](https://medium.com/p/928ff1201a44) |
+| Sat, 14 Mar 2026 14:41:01 GMT | Commercial security cameras systems installation Dallas | Edwin | [Read More](https://medium.com/p/5e07605e74a9) |
+| Sat, 14 Mar 2026 14:35:52 GMT | Week 1 of Cyber Security Learning | Muhammad Uzair | [Read More](https://medium.com/p/3fca7003fa81) |
+| Sat, 14 Mar 2026 14:35:51 GMT | How Iranian Hackers Wiped 200,000 Stryker Devices Using the Company’s Own IT Tool | Soumyadipta Birabar | [Read More](https://medium.com/p/011845a98836) |
+| Sat, 14 Mar 2026 14:30:38 GMT | The Ultimate Guide to Google Dorks for OSINT in 2026 | Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA] | [Read More](https://medium.com/p/305cae65baed) |
+| Sat, 14 Mar 2026 14:28:20 GMT | The Digital Gatekeepers Understanding the Most Used Authentication Mechanisms | Gajanan Tayde | [Read More](https://medium.com/p/8e71ddb54943) |
+| Sat, 14 Mar 2026 14:25:46 GMT | How Attackers Abuse API Keys in Cloud Systems | Md Shafiqul Baten Sumon | [Read More](https://medium.com/p/fb6e31198e0b) |
 | Sat, 14 Mar 2026 14:23:38 GMT | The Art of Making Binaries Lie: Why Static Analysis Struggles With Modern Malware | Orez Yad | [Read More](https://medium.com/p/6156e7d629b2) |
 | Sat, 14 Mar 2026 14:10:51 GMT | Security Copilot X Purview UAL — Part 1 | Yash Mudaliar | [Read More](https://medium.com/p/60ce8e53967b) |
 | Sat, 14 Mar 2026 14:09:29 GMT | The IPv4 Header: The Digital ID Card of Every Packet on the Internet | Gajanan Tayde | [Read More](https://medium.com/p/c73ed696e51a) |
@@ -95,21 +113,3 @@ Module 2 — Part 5: Cybersecurity Landscape — Cryptocurrency | Favour
 | Sat, 14 Mar 2026 08:34:22 GMT | Scattered Spider Tradecraft: Identity Abuse, Attack Flow, and Defense | Vincenzo Iozzo | [Read More](https://medium.com/p/4fb635280c0a) |
 | Sat, 14 Mar 2026 08:32:45 GMT | Bug Bounty Hunting — Complete Guide (Part-169) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/d3355f57def9) |
 | Sat, 14 Mar 2026 08:31:02 GMT | Bug Bounty Hunting — Complete Guide (Part-168) | Mehedi Hasan Rafid | [Read More](https://medium.com/p/15de94955464) |
-| Sat, 14 Mar 2026 08:26:34 GMT | Case Study: The SolarWinds cyber attack | Karthikeyan | [Read More](https://medium.com/p/0d60a3f15955) |
-| Sat, 14 Mar 2026 08:26:08 GMT | How I Spent 30 Days Chasing a $40,000 Bug Bounty And What I Learned the Hard Way | Hacker MD | [Read More](https://medium.com/p/dc35caf61142) |
-| Sat, 14 Mar 2026 08:24:50 GMT | Cognizant TriZetto Breach: When a Healthcare Vendor Becomes the Weakest Link | Cybersphere Official | [Read More](https://medium.com/p/9989a98fb770) |
-| Sat, 14 Mar 2026 08:22:17 GMT | Shield Your OpenClaw Agents Before Hackers Claw Them Away!!! | cybrNK | [Read More](https://medium.com/p/7f845d27ca00) |
-| Sat, 14 Mar 2026 08:12:54 GMT | Why the best cybersecurity engineers are going freelance — and how RentAHuman.ai | Human Node for AI | [Read More](https://medium.com/p/5257cc2a0ac2) |
-| Sat, 14 Mar 2026 08:03:16 GMT | How I Found an Account Takeover via OTP Bypass Vulnerability (Bug Bounty Day 1) | Deepanshu Deep | [Read More](https://medium.com/p/99df58ab58c2) |
-| Sat, 14 Mar 2026 07:52:57 GMT | Python Projects For CyberSecurity — Hash Cracker | SAMIN BIN HUMAYUN | [Read More](https://medium.com/p/40c1f9022acf) |
-| Sat, 14 Mar 2026 07:51:43 GMT | ⚡ Top 10 OWASP ZAP Add-Ons for Bug Bounty Hunters | ghostyjoe | [Read More](https://medium.com/p/4a3f04244fe8) |
-| Sat, 14 Mar 2026 07:50:57 GMT | Breaking HTTPS? Understanding the BREACH Attack (With a Safe Lab Demo) | ghostyjoe | [Read More](https://medium.com/p/f904e3c2613d) |
-| Sat, 14 Mar 2026 07:47:07 GMT | Day 24 — The Server Said Nothing… But Waited 10 Seconds | Issan | [Read More](https://medium.com/p/8f7d3d9232d5) |
-| Sat, 14 Mar 2026 07:36:43 GMT | The Stock Checker That Started Executing Commands | Issan | [Read More](https://medium.com/p/d928cf5f4173) |
-| Sat, 14 Mar 2026 07:22:34 GMT | Network Monitoring & Log Analyze Using Wazuh Manager - Digital Forensics Challenge | Xinlisalim | [Read More](https://medium.com/p/6bc340bf49b5) |
-| Sat, 14 Mar 2026 07:20:59 GMT | 12 Reasons Your Business Needs Video Surveillance | Doris William | [Read More](https://medium.com/p/c573aee39df8) |
-| Sat, 14 Mar 2026 07:17:49 GMT | How Does Antivirus Pro Protect Your Banking Transactions on Public Wi-Fi? | Siyanoav | [Read More](https://medium.com/p/a560a676c6f8) |
-| Sat, 14 Mar 2026 07:12:57 GMT | Aureon Capital Review: How a Simple “Podcast Invite” Cleared My Wallets in Minutes | Emmanuel Laizer | [Read More](https://medium.com/p/b757a799eef8) |
-| Sat, 14 Mar 2026 07:11:23 GMT | Detecting Evil Twin Networks - Project TRUSTED NET | Kernel Phantom | [Read More](https://medium.com/p/969011a6940d) |
-| Sat, 14 Mar 2026 07:10:35 GMT | Understanding the Role of VAPT in Cybersecurity | Antonyrajvedamanickam | [Read More](https://medium.com/p/b0311ee103f0) |
-| Sat, 14 Mar 2026 07:05:58 GMT | Understanding AWS security groups and network ACLs | unica 02 | [Read More](https://medium.com/p/59bf09bca503) |
