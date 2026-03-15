@@ -12,7 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Mar 2026 21:16:19 GMT | Hunting a “Bantuan TNG Online” Phising Campaign | k1cybersec | [Read More](https://medium.com/p/6c4dcc618598) |
+| Sun, 15 Mar 2026 21:15:10 GMT | BashBard: The AI-Native Terminal That Thinks Before You Execute | Khafagy | [Read More](https://medium.com/p/68091f97255f) |
+| Sun, 15 Mar 2026 21:13:12 GMT | Kaspersky Tejas issue solved | Mahim Avi | [Read More](https://medium.com/p/392a64503bc4) |
+| Sun, 15 Mar 2026 21:11:02 GMT | Hardening with CIS: My “Boring” Security Baseline | byteGirl | [Read More](https://medium.com/p/c0f506f8a68a) |
+| Sun, 15 Mar 2026 21:03:38 GMT | picoCTF Write-up: Flag in Flame (Forensics) | Sriman kundu | [Read More](https://medium.com/p/832926b76b51) |
+| Sun, 15 Mar 2026 21:01:00 GMT | Unfiltered Restart — Day 27: Windows Settings + Real Networking | Maximillian Rueda | [Read More](https://medium.com/p/0fc950c3e57f) |
+| Sun, 15 Mar 2026 20:57:08 GMT | Android Content Provider Security: Exploiting Non-Exported Providers (Pentester Deep Dive — Part 3) | Mustafa Mohamed | [Read More](https://medium.com/p/2c3fe39d9863) |
+| Sun, 15 Mar 2026 20:51:22 GMT | Beyond the Boardroom | Imam Bashir Abdulwahab (twenty4) | [Read More](https://medium.com/p/a45fda3d838c) |
+| Sun, 15 Mar 2026 20:49:01 GMT | Block External Teams Users Directly from the Defender Portal | Ryan Adams | [Read More](https://medium.com/p/68e2de73820c) |
+| Sun, 15 Mar 2026 20:47:08 GMT | Embarking on the Journey as an ISO: From Local Silos to Institutional Intelligence | Rai Miralles Febrer | [Read More](https://medium.com/p/32a5d93ac7f1) |
+| Sun, 15 Mar 2026 20:46:21 GMT | ​I Used This Gmail "Dot" Trick to See Which Companies Were Selling My Data | Kinetiqglitch | [Read More](https://medium.com/p/bdc72f012f3e) |
+| Sun, 15 Mar 2026 20:42:51 GMT | Securing Customer Data: Automating Sensitive Information Sanitization in Log Packages | Kunal Bhala | [Read More](https://medium.com/p/f37c077fa617) |
+| Sun, 15 Mar 2026 20:38:32 GMT | Passwords: Why They Actually Matter | Adriene Miller | [Read More](https://medium.com/p/99d4936d0b33) |
 | Sun, 15 Mar 2026 20:16:58 GMT | The Cryptography Concept Journey — Cloud HSM (Cloud Hardware Security Module) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/084310f9c0c0) |
+| Sun, 15 Mar 2026 20:15:52 GMT | INGENIERIA SOCIAL | Heavenblack | [Read More](https://medium.com/p/7bb8fd533a81) |
 | Sun, 15 Mar 2026 20:02:58 GMT | The Day My 4-Year-Old “Hacked” Our Doorbell — And Accidentally Changed My Life | Sanja Mali | [Read More](https://medium.com/p/e947a80ad007) |
 | Sun, 15 Mar 2026 20:02:25 GMT | How I aced the CompTIA CySA+ (And a Step-by-Step Guide for You to Do It Too) | SecBySam | [Read More](https://medium.com/p/2644bd61fedb) |
 | Sun, 15 Mar 2026 19:54:55 GMT | GPS Tracking Laws in the U.S. (2026): What Security Teams Must Know | Teona | [Read More](https://medium.com/p/5c096ea618f5) |
@@ -98,17 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Mar 2026 14:38:39 GMT | THM - Detecting AD Initial Access | Francesco Pastore | [Read More](https://medium.com/p/23ea6260bc8b) |
 | Sun, 15 Mar 2026 14:36:57 GMT | Active Directory Privilege Escalation: Token Impersonation Attack By Mert Baykal | Mert Baykal | [Read More](https://medium.com/p/0ca733b6ec77) |
 | Sun, 15 Mar 2026 14:36:13 GMT | Finding and Exploiting a Firebase Security Rules Vulnerability in a Ride-Sharing App | Shamveelkhan | [Read More](https://medium.com/p/f0ca2d512b48) |
-| Sun, 15 Mar 2026 14:32:31 GMT | Active Directory Pentesting Series-Part 3 | Deepansh hooda | [Read More](https://medium.com/p/9ef3c8c14213) |
-| Sun, 15 Mar 2026 14:28:44 GMT | GMA Integrated News and GMA Playground YouTube channels hacked altogether to promote a crypto scam… | ZE's Remakes | [Read More](https://medium.com/p/7d99bd863997) |
-| Sun, 15 Mar 2026 14:27:48 GMT | Implementing Just-In-Time (JIT) Privileged Access with Azure Privileged Identity Management | Amal Udayanga Basnayake | [Read More](https://medium.com/p/098f2627cf46) |
-| Sun, 15 Mar 2026 14:21:52 GMT | Love Doesn’t Save You. It Just Stays. | Fine Thread | [Read More](https://medium.com/p/c824f021bb25) |
-| Sun, 15 Mar 2026 14:19:05 GMT | CompTIA Security+ (SY0–701): Resumir os conceitos fundamentais de segurança | Davi Loyola | [Read More](https://medium.com/p/6dc8f0ee03ea) |
-| Sun, 15 Mar 2026 14:19:00 GMT | Why 90% of Cyberattacks Succeed Because of Psychology, Not Technology | Ujjwal Sharma | [Read More](https://medium.com/p/93fdee856cfd) |
-| Sun, 15 Mar 2026 14:15:11 GMT | 3 Pentest Certifications I Wish I’d Taken Sooner | Vidar Frostbjorn | [Read More](https://medium.com/p/adf5afb66957) |
-| Sun, 15 Mar 2026 14:14:30 GMT | From Recon to Root: Mastering the DC-2 CTF Challenge | Anupa Fernando | [Read More](https://medium.com/p/ebc1e4ea5c5f) |
-| Sun, 15 Mar 2026 14:12:53 GMT | 8. Second-Order Vulnerabilities: A Rare Bug -> $$$ | Abhijeet kumawat | [Read More](https://medium.com/p/316829a5292d) |
-| Sun, 15 Mar 2026 14:11:29 GMT | DNS Explained: The Backbone of How the Internet Communicates | Nikhil Bhandari | [Read More](https://medium.com/p/a783af40afe3) |
-| Sun, 15 Mar 2026 14:10:47 GMT | The 2026 Pentesting Roadmap: From Beginner to Hired in 8 Steps (Updated) | Vidar Frostbjorn | [Read More](https://medium.com/p/d9d63edf25ae) |
-| Sun, 15 Mar 2026 14:06:35 GMT | Stack Your Arsenal: Logic Bugs That Turn Into $$$ | MahmoudKroush (xgoon) | [Read More](https://medium.com/p/76ef49973b70) |
-| Sun, 15 Mar 2026 14:04:59 GMT | Microsoft Graph API Attack Surface: OAuth Flows, Abused Endpoints, and What Defenders Miss | Dzianis Skliar | [Read More](https://medium.com/p/9c303ea2aa02) |
-| Sun, 15 Mar 2026 14:00:05 GMT | CCTV — HackTheBox Writeup | Vishal M | [Read More](https://medium.com/p/c777a4ed1e26) |
