@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Mar 2026 10:19:48 GMT | Kendi PaaS Altyapımızı Kuruyoruz (Bölüm 1): Sunucu Seçimi, Temel Güvenlik ve Tailscale | Muhammet İkbal Yakupoglu | [Read More](https://medium.com/p/83ce006dc08b) |
+| Sun, 15 Mar 2026 10:18:46 GMT | From Back Orifice to the Lobster: OpenClaw and the Return of the Remote Access Trojan | Izu Capybara | [Read More](https://medium.com/p/074080d12dde) |
+| Sun, 15 Mar 2026 10:17:08 GMT | Penetration Testing Methodology | Gaurav Pratap Malla | [Read More](https://medium.com/p/0c698cf91efb) |
+| Sun, 15 Mar 2026 10:14:39 GMT | Chrome 146 Security Update: What Teams Must Verify | Pentest_Testing_Corp | [Read More](https://medium.com/p/1d32d481140f) |
+| Sun, 15 Mar 2026 10:13:28 GMT | Instagram Is Dropping Encrypted DMs. That Should Worry More People Than It Will. | RVwv.B | [Read More](https://medium.com/p/b5f7563895cb) |
+| Sun, 15 Mar 2026 10:03:53 GMT | How to Build an AI Payload Generator with Python & Ollama | jensbecker-dev | [Read More](https://medium.com/p/d31293c83d38) |
+| Sun, 15 Mar 2026 10:01:01 GMT | GRC Cybersecurity Careers: A Practical Guide for Non-Technical Professionals | Victoria Coker | [Read More](https://medium.com/p/4fb63b4d2ab2) |
+| Sun, 15 Mar 2026 09:56:18 GMT | How Bug Bounty Hunters Prioritize 10,000 Recon Targets (Without Losing Their Mind) | Fateyaly | [Read More](https://medium.com/p/57dede9ca39f) |
+| Sun, 15 Mar 2026 09:56:00 GMT | A Brutal Truth: Most “Policies” Aren’t Policies | Gaurav Shukla | [Read More](https://medium.com/p/5f78a32b254c) |
+| Sun, 15 Mar 2026 09:53:28 GMT | Windows Internals (COM objects) | Makarios Mamdouh | [Read More](https://medium.com/p/4fb4ac5c1697) |
+| Sun, 15 Mar 2026 09:51:08 GMT | Stop Playing Bouncer with IPs: IBM COS + Context Based Restrictions is the Upgrade You Needed | Yash Soni | [Read More](https://medium.com/p/3fd552577ae5) |
 | Sun, 15 Mar 2026 09:36:03 GMT | DNS Pentesting Guide: How Hackers Exploit Port 53 (Zone Transfers, Subdomain Bruteforce & More) | Very Lazy Tech | [Read More](https://medium.com/p/c3580761cdef) |
 | Sun, 15 Mar 2026 09:32:27 GMT | Week 4 Final Project-Cyberwarfare Labs | Artha Bangkit Auliano | [Read More](https://medium.com/p/7761b5aab2d6) |
 | Sun, 15 Mar 2026 09:31:11 GMT | SPKI and the Real Network Edge: Choosing TLS Termination in Enterprise Architecture | Mark Solo | [Read More](https://medium.com/p/d3f8df224939) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Mar 2026 23:49:59 GMT | 5 Essential Security Principles in Containers | Alhousseini Mohamed Sori | [Read More](https://medium.com/p/ac4516aeead0) |
 | Sat, 14 Mar 2026 23:39:01 GMT | CyCTF Luxor web writeup | 00xCanelo | [Read More](https://medium.com/p/bc52b62490de) |
 | Sat, 14 Mar 2026 23:26:48 GMT | I Built a Live SDN Network Dashboard with POX, Mininet, and React — And It Detects Cyberattacks in… | OxMotaw3 | [Read More](https://medium.com/p/091e2ba58c75) |
-| Sat, 14 Mar 2026 23:26:37 GMT | Building an AWS-Native Security Operations Architecture for Under $200/Month | Cybersecforall101 | [Read More](https://medium.com/p/6ebb13a55486) |
-| Sat, 14 Mar 2026 23:07:47 GMT | One User. One Problem. So I Built It Myself. | Ata Sesli | [Read More](https://medium.com/p/45b1f1d33a81) |
-| Sat, 14 Mar 2026 23:02:02 GMT | Why Your Cloud-Based Data Strategy is a Ticking Time Bomb | Crypton Official App | [Read More](https://medium.com/p/b962f3c7858a) |
-| Sat, 14 Mar 2026 22:55:16 GMT | AI agents are entering a new phase of autonomy. | Neuralcoretech | [Read More](https://medium.com/p/f926a470f011) |
-| Sat, 14 Mar 2026 22:53:19 GMT | The Hacking Tool Chronicles: macchanger | z3r0trust | [Read More](https://medium.com/p/2cf7dedc9f09) |
-| Sat, 14 Mar 2026 22:38:29 GMT | How Most People Get Their Accounts Stolen on Instagram | CyberDucky | [Read More](https://medium.com/p/d596156d9ae3) |
-| Sat, 14 Mar 2026 22:32:46 GMT | How I aced the CompTIA Security+ (And a Step-by-Step Guide for You to Do It Too) | SecBySam | [Read More](https://medium.com/p/0f928002225a) |
-| Sat, 14 Mar 2026 22:30:32 GMT | Zip TOCTOU to RCE via Zip Slip — Lazy Pharaoh - CyCTF 2026 Quals | Ahmed Mohammed | [Read More](https://medium.com/p/48243cc0844e) |
-| Sat, 14 Mar 2026 22:19:03 GMT | WebNet0.. picoCTF | Configx | [Read More](https://medium.com/p/127658e2c8c2) |
-| Sat, 14 Mar 2026 22:16:00 GMT | Ransomware Explained: What It Actually Does to Your Business (And How to Survive It) | Sharon Martin | [Read More](https://medium.com/p/cc51915e51c5) |
-| Sat, 14 Mar 2026 22:13:22 GMT | Creating a Bayesian Behavioral Detector in Google SecOps (pt 3) | Greg Kushmerek | [Read More](https://medium.com/p/90868b1690b1) |
