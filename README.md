@@ -12,6 +12,21 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Mar 2026 16:26:52 GMT | Nobody noticed the most important thing at MWC 2026! | The Interface | [Read More](https://medium.com/p/b48afdd4af95) |
+| Sun, 15 Mar 2026 16:16:38 GMT | Inside the Vietnam National Innovation Center (NIC): Quantum Tech, UAVs, and the Future of… | #intention's | [Read More](https://medium.com/p/f59e840e111c) |
+| Sun, 15 Mar 2026 16:16:20 GMT | Ransomware 3.0: How Threat Actors Are Moving from Encryption to “Triple Extortion” | Akash Deep | [Read More](https://medium.com/p/08ec3126f095) |
+| Sun, 15 Mar 2026 16:15:39 GMT | I Was Tired of Digging Through Kubernetes Audit Logs. So I Built a Real-Time Explorer. | Hybrid2k3 | [Read More](https://medium.com/p/73324a835871) |
+| Sun, 15 Mar 2026 16:11:11 GMT | Beyond the Password: A Pragmatic Guide to Implementing Zero-Trust Architecture in Small Businesses | Sidharth Barman | [Read More](https://medium.com/p/897ce64ce91c) |
+| Sun, 15 Mar 2026 16:09:54 GMT | Business Analyst P.5: Requirement Life Cycle Management | Fachry Andika Rachman | [Read More](https://medium.com/p/c242353c9dc6) |
+| Sun, 15 Mar 2026 16:05:43 GMT | The Human Firewall: Why Employee Training Is Your Strongest Defense Against AI-Powered Phishing | Sidharth Barman | [Read More](https://medium.com/p/0b25b4fd405b) |
+| Sun, 15 Mar 2026 16:03:01 GMT | Before You Hack Anything, You Have to Know Everything: A Beginner’s Guide to Information Gathering… | AashishChaudhari | [Read More](https://medium.com/p/e6720e412d26) |
+| Sun, 15 Mar 2026 15:57:40 GMT | The girl in the snow | Ardanna | [Read More](https://medium.com/p/ddf69bfc9e26) |
+| Sun, 15 Mar 2026 15:56:19 GMT | The Air-Gapped Chronicles: The Silent War — When Training Data Becomes a Weapon | Piyoosh Rai | [Read More](https://medium.com/p/5f846811272d) |
+| Sun, 15 Mar 2026 15:52:40 GMT | SameSite Lax Bypass via Method Override | Bash Overflow | [Read More](https://medium.com/p/3daa328b0ee6) |
+| Sun, 15 Mar 2026 15:50:42 GMT | AI Agents in Cybersecurity: What They Are, How They Work, and Where They’re Headed | Ugur Ates | [Read More](https://medium.com/p/cf4f9f8a25d8) |
+| Sun, 15 Mar 2026 15:47:45 GMT | HIPAA Was Written in 1996. The Hole Is Not a Bug. | Mary Womack | [Read More](https://medium.com/p/a3a25af18e43) |
+| Sun, 15 Mar 2026 15:47:23 GMT | Active Directory Attack: Kerberoasting by Mert Baykal | Mert Baykal | [Read More](https://medium.com/p/58b2cce0062b) |
+| Sun, 15 Mar 2026 15:45:22 GMT | Running OpenVAS Is Easy. Managing Vulnerabilities Is Not. | Jesus Hurtado | [Read More](https://medium.com/p/7aa6995e7db2) |
 | Sun, 15 Mar 2026 15:28:03 GMT | RuView: The Open-Source System That Sees Through Walls With WiFi. Lucius Fox Would Resign Again | Sage Khan | [Read More](https://medium.com/p/0ef1262f40e4) |
 | Sun, 15 Mar 2026 15:09:37 GMT | FastAPI Authentication with JWT (Complete Secure API Guide) | Amolkharat | [Read More](https://medium.com/p/8e10008ca85d) |
 | Sun, 15 Mar 2026 15:06:40 GMT | Returning to Medium After 10+ Years: From IT Systems to Data Science | Franklin Kengne Takam | [Read More](https://medium.com/p/8a01d7ac7939) |
@@ -97,18 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Mar 2026 10:01:01 GMT | GRC Cybersecurity Careers: A Practical Guide for Non-Technical Professionals | Victoria Coker | [Read More](https://medium.com/p/4fb63b4d2ab2) |
 | Sun, 15 Mar 2026 09:56:18 GMT | How Bug Bounty Hunters Prioritize 10,000 Recon Targets (Without Losing Their Mind) | Fateyaly | [Read More](https://medium.com/p/57dede9ca39f) |
 | Sun, 15 Mar 2026 09:56:00 GMT | A Brutal Truth: Most “Policies” Aren’t Policies | Gaurav Shukla | [Read More](https://medium.com/p/5f78a32b254c) |
-| Sun, 15 Mar 2026 09:53:28 GMT | Windows Internals (COM objects) | Makarios Mamdouh | [Read More](https://medium.com/p/4fb4ac5c1697) |
-| Sun, 15 Mar 2026 09:51:08 GMT | Stop Playing Bouncer with IPs: IBM COS + Context Based Restrictions is the Upgrade You Needed | Yash Soni | [Read More](https://medium.com/p/3fd552577ae5) |
-| Sun, 15 Mar 2026 09:36:03 GMT | DNS Pentesting Guide: How Hackers Exploit Port 53 (Zone Transfers, Subdomain Bruteforce & More) | Very Lazy Tech | [Read More](https://medium.com/p/c3580761cdef) |
-| Sun, 15 Mar 2026 09:32:27 GMT | Week 4 Final Project-Cyberwarfare Labs | Artha Bangkit Auliano | [Read More](https://medium.com/p/7761b5aab2d6) |
-| Sun, 15 Mar 2026 09:31:11 GMT | SPKI and the Real Network Edge: Choosing TLS Termination in Enterprise Architecture | Mark Solo | [Read More](https://medium.com/p/d3f8df224939) |
-| Sun, 15 Mar 2026 09:28:35 GMT | I Built an AI That Breaks AI — Here’s What I Found | Alexander Mogilin | [Read More](https://medium.com/p/e05bbd929839) |
-| Sun, 15 Mar 2026 09:13:04 GMT | Cloud Computing: Benefits and Limitations Every Organization Should Understand | Swapnali Gavali | [Read More](https://medium.com/p/5dd197870863) |
-| Sun, 15 Mar 2026 09:04:02 GMT | Why Every Career in Technology Now Requires AI Integration | Manulacooray | [Read More](https://medium.com/p/9079c45fb476) |
-| Sun, 15 Mar 2026 09:00:47 GMT | Network Reconnaissance & Exploitation Using Nmap and Metasploit | Solankishubham | [Read More](https://medium.com/p/f1d2185a1af7) |
-| Sun, 15 Mar 2026 08:55:13 GMT | Using White Rabbit Neo to Analyze Bug Bounty Recon Data | ghostyjoe | [Read More](https://medium.com/p/4230cd2f9ab6) |
-| Sun, 15 Mar 2026 08:54:24 GMT | 10 Powerful MSFVenom Payloads Every Ethical Hacker Should Understand | ghostyjoe | [Read More](https://medium.com/p/193e23dec795) |
-| Sun, 15 Mar 2026 08:52:25 GMT | Dancing with the Absurd: What Distributed Systems Taught Me About Technology, Leadership, and the… | Bibhu Ashish Panda | [Read More](https://medium.com/p/6d293f22b01f) |
-| Sun, 15 Mar 2026 08:31:03 GMT | Building an AI-Powered Pentesting Workflow with Burp MCP and GitHub Copilot | Br0wn$t4n | [Read More](https://medium.com/p/ecd6cfb8e642) |
-| Sun, 15 Mar 2026 08:30:15 GMT | OpenClaw AI Security Risks Are Getting Real: How Prompt Injection and Data Exfiltration Could Turn… | Germano Costi | [Read More](https://medium.com/p/cbba5003eab3) |
-| Sun, 15 Mar 2026 08:28:24 GMT | Agentic Security Patterns from Elite Teams: A Field Guide to OWASP Top 10 | Agent Native | [Read More](https://medium.com/p/a3a515bc2e69) |
