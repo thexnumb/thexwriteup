@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Mar 2026 22:21:39 GMT | Capstone Project: End-to-End Web Attack Investigation with Wazuh, Wireshark, and Volatility | Allif Maulana Sakti | [Read More](https://medium.com/p/98cc372fc0a4) |
+| Sun, 15 Mar 2026 22:08:32 GMT | Cy CTF Luxor Reverse Write-up 2026 | VampireXRay | [Read More](https://medium.com/p/cd204e7a2c81) |
+| Sun, 15 Mar 2026 22:05:56 GMT | From Home to the Hub: Why I Chose Singapore for My Master’s in Cybersecurity | Linda | [Read More](https://medium.com/p/8e2da228d6cb) |
+| Sun, 15 Mar 2026 22:03:29 GMT | How my server became a “Cat & Mouse” game due to a Zero-Day vulnerability? | Hamza H | [Read More](https://medium.com/p/40224c8f8352) |
+| Sun, 15 Mar 2026 21:53:47 GMT | Phishing: When Hackers Use Bait Instead of Breaking Systems | Rashad Edwards | [Read More](https://medium.com/p/c60f6ca3cad6) |
+| Sun, 15 Mar 2026 21:46:51 GMT | Footprinting is not that bad after all | Cybersecurity with Jojo | [Read More](https://medium.com/p/974f5517bc08) |
+| Sun, 15 Mar 2026 21:46:18 GMT | Security Operation Center (SOC) | Ritikpatel | [Read More](https://medium.com/p/b96dfc7bc299) |
+| Sun, 15 Mar 2026 21:45:00 GMT | Pseudo Action Plan — Live Response Data Acquisition | Karim roshdy | [Read More](https://medium.com/p/4cbff9ed0f62) |
+| Sun, 15 Mar 2026 21:42:47 GMT | The Next Mortgage Data Breach Won’t Be a Hack… It Will Be a Query | John V. Levonick | [Read More](https://medium.com/p/365c59744741) |
+| Sun, 15 Mar 2026 21:31:33 GMT | Major Cybersecurity Incidents of the Week (March 2026) | Koti Dhanush | [Read More](https://medium.com/p/a24c4da4a8da) |
 | Sun, 15 Mar 2026 21:16:19 GMT | Hunting a “Bantuan TNG Online” Phising Campaign | k1cybersec | [Read More](https://medium.com/p/6c4dcc618598) |
 | Sun, 15 Mar 2026 21:15:10 GMT | BashBard: The AI-Native Terminal That Thinks Before You Execute | Khafagy | [Read More](https://medium.com/p/68091f97255f) |
 | Sun, 15 Mar 2026 21:13:12 GMT | Kaspersky Tejas issue solved | Mahim Avi | [Read More](https://medium.com/p/392a64503bc4) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Mar 2026 15:45:22 GMT | Running OpenVAS Is Easy. Managing Vulnerabilities Is Not. | Jesus Hurtado | [Read More](https://medium.com/p/7aa6995e7db2) |
 | Sun, 15 Mar 2026 15:28:03 GMT | RuView: The Open-Source System That Sees Through Walls With WiFi. Lucius Fox Would Resign Again | Sage Khan | [Read More](https://medium.com/p/0ef1262f40e4) |
 | Sun, 15 Mar 2026 15:09:37 GMT | FastAPI Authentication with JWT (Complete Secure API Guide) | Amolkharat | [Read More](https://medium.com/p/8e10008ca85d) |
-| Sun, 15 Mar 2026 15:06:40 GMT | Returning to Medium After 10+ Years: From IT Systems to Data Science | Franklin Kengne Takam | [Read More](https://medium.com/p/8a01d7ac7939) |
-| Sun, 15 Mar 2026 14:56:01 GMT | You Are Easier To Hack. This Is How You Protect Yourself. | Md.Imad | [Read More](https://medium.com/p/107d11123ef2) |
-| Sun, 15 Mar 2026 14:55:04 GMT | A 10-minute security audit every small business owner should perform weekly. | Ranam | [Read More](https://medium.com/p/b8b08fb47d91) |
-| Sun, 15 Mar 2026 14:53:19 GMT | Automating Snowflake Network Policy Management: A Complete End-to-End Production Implementation… | Satish Kumar | [Read More](https://medium.com/p/3046bb6aae86) |
-| Sun, 15 Mar 2026 14:47:36 GMT | FinWise—Personal AI Finance Management App | NaveenMathramkott | [Read More](https://medium.com/p/8e65dfe66dee) |
-| Sun, 15 Mar 2026 14:42:31 GMT | Hackviser Write-up [EN-TR] — Stored XSS via User Agent | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/fdf63c711900) |
-| Sun, 15 Mar 2026 14:39:53 GMT | it would’ve been easier if you hated me | Sevgilim | [Read More](https://medium.com/p/aa9654ef6710) |
-| Sun, 15 Mar 2026 14:38:39 GMT | THM - Detecting AD Initial Access | Francesco Pastore | [Read More](https://medium.com/p/23ea6260bc8b) |
-| Sun, 15 Mar 2026 14:36:57 GMT | Active Directory Privilege Escalation: Token Impersonation Attack By Mert Baykal | Mert Baykal | [Read More](https://medium.com/p/0ca733b6ec77) |
-| Sun, 15 Mar 2026 14:36:13 GMT | Finding and Exploiting a Firebase Security Rules Vulnerability in a Ride-Sharing App | Shamveelkhan | [Read More](https://medium.com/p/f0ca2d512b48) |
