@@ -12,6 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Mar 2026 06:18:34 GMT | Stop Load Balancing! Why Your Stateful Apps Need “Headless” Services | Vivek Kumar Sinha | [Read More](https://medium.com/p/ee1854205ede) |
+| Sun, 15 Mar 2026 06:17:02 GMT | The Invisible Highway — Understanding Port Forwarding & Pivoting | SAFAL GAUTAM | [Read More](https://medium.com/p/a64d4e310356) |
+| Sun, 15 Mar 2026 06:01:11 GMT | Why AI Voice Clones Can’t Fool Biology | Dana Xiadani | [Read More](https://medium.com/p/6ec730e81d8c) |
+| Sun, 15 Mar 2026 06:00:18 GMT | A Pena | Thiago | [Read More](https://medium.com/p/b10ac174ae8c) |
+| Sun, 15 Mar 2026 05:59:10 GMT | I Investigated Public GitHub Repositories and Found AI Prompts Exposed in Source Code | Paritosh | [Read More](https://medium.com/p/e18f013c2557) |
+| Sun, 15 Mar 2026 05:54:24 GMT | Building ResilAI: An AI Incident Readiness Platform with Gemini and Google Cloud | Purvansh Bhatt | [Read More](https://medium.com/p/bfebfbed5c0b) |
+| Sun, 15 Mar 2026 05:46:34 GMT | What I Learned During My Time at CrowdStrike | Prayas Lashkari | [Read More](https://medium.com/p/09d4c39f3fb5) |
+| Sun, 15 Mar 2026 05:41:57 GMT | The Silent War Already Happening: How AI Autonomous Cyber Weapons Are Reshaping Global Conflict | Sanjaya Kumar | [Read More](https://medium.com/p/914296494659) |
+| Sun, 15 Mar 2026 05:40:00 GMT | Full Attack Chain: How Chained IDORs on Thrive Global Exposed Confidential Employee Wellness and… | Mayur Pandya | [Read More](https://medium.com/p/48c57a568de9) |
+| Sun, 15 Mar 2026 05:32:43 GMT | SAML Authentication Flow and Security Architecture | Saksham Baral | [Read More](https://medium.com/p/abb6efc95ebf) |
+| Sun, 15 Mar 2026 05:21:30 GMT | RootMe CTF — TryHackMe Writeup | Jatin | [Read More](https://medium.com/p/3cefd88a2e64) |
+| Sun, 15 Mar 2026 05:21:23 GMT | Write-Up: TryHackMe — Attacktive Directory | krisna nanda | [Read More](https://medium.com/p/c6000b398f9c) |
+| Sun, 15 Mar 2026 05:14:54 GMT | Day 15 of Learning AWS: IAM: Identity and Access Management | Muhammad Kashif | [Read More](https://medium.com/p/de9fb466f9b5) |
+| Sun, 15 Mar 2026 05:10:38 GMT | The McKinsey Lilli Breach Is Not a Hacking Story. It’s an Identity Story. | abluva-research | [Read More](https://medium.com/p/7d3c9987facc) |
 | Sun, 15 Mar 2026 04:59:21 GMT | MCP tool spoofing succeeds 100% of the time. | nasuy | [Read More](https://medium.com/p/afc8e8b8fd59) |
 | Sun, 15 Mar 2026 04:53:12 GMT | Session Management: The Invisible Backbone of Secure Software | Geeky Vartika | [Read More](https://medium.com/p/285c79c58491) |
 | Sun, 15 Mar 2026 04:45:51 GMT | We Taught AI to Look Like Us. Now We Can’t Tell the Difference. | Manan narang | [Read More](https://medium.com/p/a062ecf06a1c) |
@@ -99,17 +113,3 @@ Part 5 | MRxO1 | [Read More](https://medium.com/p/e0bef120b19f) |
 | Sat, 14 Mar 2026 19:21:40 GMT | Over The Wire Bandit : Level : 8 | Soumyadip Manna | [Read More](https://medium.com/p/89c343a5ff47) |
 | Sat, 14 Mar 2026 19:19:16 GMT | OS Command Injection | Abdulnafayk | [Read More](https://medium.com/p/67480b798e69) |
 | Sat, 14 Mar 2026 19:15:02 GMT | Top 30+ AI Security Tools for Securing AI Agents & LLMs (2026 Guide) — By Ravindra Annam | Ravindra Annam | [Read More](https://medium.com/p/0bd152d32df0) |
-| Sat, 14 Mar 2026 19:04:43 GMT | FREE CYBERSECURITY LIVE SESSION | Dallen Sadru | [Read More](https://medium.com/p/e08111ae7e19) |
-| Sat, 14 Mar 2026 19:04:23 GMT | Digital Sovereignty: Take Back Your “Ghost” from the Identity Hubs! | Adewale Adetule | [Read More](https://medium.com/p/f14248d51062) |
-| Sat, 14 Mar 2026 19:02:28 GMT | Most bug bounty writeups are recycled. Real bugs are hiding in the specs. | sin99xx | [Read More](https://medium.com/p/ded73f6dd06e) |
-| Sat, 14 Mar 2026 18:56:35 GMT | TryHackMe Writeup: AD Basic Enumeration — Mengenal Active Directory dari Nol | Muhammad Ridwan | [Read More](https://medium.com/p/04088ff924dd) |
-| Sat, 14 Mar 2026 18:47:06 GMT | I Asked a Crow to Carry My Darkness | Samriddhi Srivastava | [Read More](https://medium.com/p/e09f30d92f1d) |
-| Sat, 14 Mar 2026 18:44:41 GMT | My $150 Bug Bounty: A Low-Severity Access Control Bug | Muhammad Wageh | [Read More](https://medium.com/p/ed3452dcbbec) |
-| Sat, 14 Mar 2026 18:38:23 GMT | I4C Internship Experience | Azeeza Farhana Shaik | [Read More](https://medium.com/p/7f44f75588f6) |
-| Sat, 14 Mar 2026 18:32:06 GMT | How I Passed the Pentest+ 003 in less than 30 Days | cyber_0xGambit | [Read More](https://medium.com/p/e5d9f6248344) |
-| Sat, 14 Mar 2026 18:28:25 GMT | Setting Security Basics in Microsoft Entra ID: Controlling BitLocker Recovery Keys | Ryan Adams | [Read More](https://medium.com/p/34d1001b8ab0) |
-| Sat, 14 Mar 2026 18:25:21 GMT | Preparing for a Pen (Penetration) Test | Kiran Limbu Phudong | [Read More](https://medium.com/p/989da2422346) |
-| Sat, 14 Mar 2026 18:24:34 GMT | Weak Credentials in Industrial Routers: How Identical Hashes Led to Extending CVE-2024–45275 | Marcel Rick-Cen | [Read More](https://medium.com/p/56d25ef415f7) |
-| Sat, 14 Mar 2026 18:24:12 GMT | OAuth 2.0 Misconfigurations - When Login With Google Becomes an Open Gate | Rufus Kehinde | [Read More](https://medium.com/p/990fadf3bd14) |
-| Sat, 14 Mar 2026 18:15:30 GMT | DOM-Based XSS Explained: How Attackers Exploit Client-Side JavaScripts | Kartik Chhabra | [Read More](https://medium.com/p/aa5044f010a1) |
-| Sat, 14 Mar 2026 18:14:50 GMT | Why Pentesting Is Important For Small Businesses | Gene Marks | [Read More](https://medium.com/p/94a09399aa8c) |
