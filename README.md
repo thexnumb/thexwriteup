@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Mar 2026 20:16:58 GMT | The Cryptography Concept Journey — Cloud HSM (Cloud Hardware Security Module) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/084310f9c0c0) |
+| Sun, 15 Mar 2026 20:02:58 GMT | The Day My 4-Year-Old “Hacked” Our Doorbell — And Accidentally Changed My Life | Sanja Mali | [Read More](https://medium.com/p/e947a80ad007) |
+| Sun, 15 Mar 2026 20:02:25 GMT | How I aced the CompTIA CySA+ (And a Step-by-Step Guide for You to Do It Too) | SecBySam | [Read More](https://medium.com/p/2644bd61fedb) |
+| Sun, 15 Mar 2026 19:54:55 GMT | GPS Tracking Laws in the U.S. (2026): What Security Teams Must Know | Teona | [Read More](https://medium.com/p/5c096ea618f5) |
+| Sun, 15 Mar 2026 19:53:06 GMT | Potato — Proving Grounds | srthk | [Read More](https://medium.com/p/725234ed8ec9) |
+| Sun, 15 Mar 2026 19:49:46 GMT | A Layered Defense Model for Artificial Autonomous Intelligent Environments | Mi'kail Eli'yah | [Read More](https://medium.com/p/13657bed075c) |
+| Sun, 15 Mar 2026 19:48:01 GMT | Fantastic Beasts and Where to Find Them: A Field Guide to ClickFix Attacks | theUnknown | [Read More](https://medium.com/p/ffdda73f090f) |
+| Sun, 15 Mar 2026 19:47:32 GMT | Running the BrakTooth Bluetooth Attack Toolkit with Docker (Without Breaking Your System) | Asutosh Kumar | [Read More](https://medium.com/p/86b4c053435c) |
+| Sun, 15 Mar 2026 19:46:00 GMT | Return of Security Investment | Vicente Aceituno Canal | [Read More](https://medium.com/p/c4acaeb05eb1) |
 | Sun, 15 Mar 2026 19:37:56 GMT | How Multi-Factor Authentication (MFA) Prevents Most Cloud Account Compromises | Victor Olawale | [Read More](https://medium.com/p/d308406e0bcf) |
 | Sun, 15 Mar 2026 19:34:35 GMT | Introducing ICMF — The Insider Code Manipulation Framework | Muhammet Bozkan | [Read More](https://medium.com/p/ba886305d82c) |
 | Sun, 15 Mar 2026 19:34:24 GMT | Cybersecurity For Everyone: Protecting Your Stuff Online | Adriene Miller | [Read More](https://medium.com/p/96a5542b991f) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Mar 2026 14:06:35 GMT | Stack Your Arsenal: Logic Bugs That Turn Into $$$ | MahmoudKroush (xgoon) | [Read More](https://medium.com/p/76ef49973b70) |
 | Sun, 15 Mar 2026 14:04:59 GMT | Microsoft Graph API Attack Surface: OAuth Flows, Abused Endpoints, and What Defenders Miss | Dzianis Skliar | [Read More](https://medium.com/p/9c303ea2aa02) |
 | Sun, 15 Mar 2026 14:00:05 GMT | CCTV — HackTheBox Writeup | Vishal M | [Read More](https://medium.com/p/c777a4ed1e26) |
-| Sun, 15 Mar 2026 13:41:00 GMT | The Complete Guide to Ethical Web Scraping | C. L. Beard | [Read More](https://medium.com/p/37cd2128d0ed) |
-| Sun, 15 Mar 2026 13:29:52 GMT | Web Security 101 : Part 9 — Security Headers Deep dive | Nithishraina | [Read More](https://medium.com/p/f155af06bd63) |
-| Sun, 15 Mar 2026 13:25:16 GMT | Canadian Tire’s 38 Million Accounts: The Real Damage Starts After the Leak | Ilias Armenakis | [Read More](https://medium.com/p/8efd0105709e) |
-| Sun, 15 Mar 2026 13:22:06 GMT | Securing confidential Properties: MuleSoft Project - Best Practices and Tips | Veera Pallapu | [Read More](https://medium.com/p/dcafc1aec930) |
-| Sun, 15 Mar 2026 13:21:33 GMT | İnternette Veri Toplayan En Büyük Şirketler | Ali Yaşe | [Read More](https://medium.com/p/251861a46680) |
-| Sun, 15 Mar 2026 13:21:27 GMT | CVE-2024–55963 Walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/3e8d0e4076bd) |
-| Sun, 15 Mar 2026 13:15:17 GMT | CyCTF Luxor - cyauth (Reverse Engineering Writeup) | Mohamed Tarek | [Read More](https://medium.com/p/de9ffb057c4f) |
-| Sun, 15 Mar 2026 13:14:20 GMT | Identifying OWASP top 10 API vulnerabilities in crAPI(Walkthrough) | Jei Ess | [Read More](https://medium.com/p/aa2235c690c5) |
-| Sun, 15 Mar 2026 13:14:06 GMT | Defeating enemy no. 1 - How to design your API endpoint to fight BOLA vulnerabilities. | Cyberbali | [Read More](https://medium.com/p/ca0733355c44) |
