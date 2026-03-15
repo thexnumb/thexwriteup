@@ -12,10 +12,20 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Mar 2026 19:29:14 GMT | The Invisible Revolution: Why 2026 is the Year Your Devices Learn to Think | Kamarunga Tabitha Judith | [Read More](https://medium.com/p/e0cd71dcb9af) |
+| Sun, 15 Mar 2026 19:23:03 GMT | VulnHub Warzone 3 (Exogen): Walkthrough From Anonymous FTP to Root via Java Reverse Engineering | bageera | [Read More](https://medium.com/p/089a138967a1) |
+| Sun, 15 Mar 2026 19:10:59 GMT | The Two Capabilities Every Enterprise Needs to Build in Parallel: AI and Cloud Security | Vani Gundu | [Read More](https://medium.com/p/dee7e99aaf87) |
+| Sun, 15 Mar 2026 19:09:07 GMT | From script kiddie to script creator (part 2): The beauty of python architecture | Abiralkarmacharya | [Read More](https://medium.com/p/b9206bab4d78) |
+| Sun, 15 Mar 2026 18:54:36 GMT | Continuous Data Risk Exposure Management: Building the Foundation for AI Readiness | Nick Deshpande | [Read More](https://medium.com/p/bdec522fcb66) |
+| Sun, 15 Mar 2026 18:51:01 GMT | Multi-Factor Authentication Gaps - Why MFA Is Not a Silver Bullet When It Is Built Wrong | Rufus Kehinde | [Read More](https://medium.com/p/e70ccef6330f) |
+| Sun, 15 Mar 2026 18:46:33 GMT | Try Hack Me- Startup CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/cc382caa0772) |
+| Sun, 15 Mar 2026 18:45:21 GMT | Boogeyman 1 - TryHackMe -Write Up | Ghazi Sultan | [Read More](https://medium.com/p/48e87870a068) |
+| Sun, 15 Mar 2026 18:40:23 GMT | Reverse Two-Stage Polymorphic Infostealer | 0rickyy. | [Read More](https://medium.com/p/223e907b5e22) |
 | Sun, 15 Mar 2026 18:32:05 GMT | Mastering Git: What I Learned (Part 1) | Mawira Victor | [Read More](https://medium.com/p/05c6323b7aeb) |
 | Sun, 15 Mar 2026 18:31:49 GMT | Impact of Cyberspace Communication on Our Lives | Samikshasingh | [Read More](https://medium.com/p/0bcc6edd72bc) |
 | Sun, 15 Mar 2026 18:30:15 GMT | Python for Cybersecurity in 2026 — The Skills Every Developer Needs Before It’s Too Late | Er.Muruganantham | [Read More](https://medium.com/p/0c0a550082d0) |
 | Sun, 15 Mar 2026 18:26:17 GMT | 5 Signs Your Freelance Laptop Has Been Hacked (And What to Do Right Now) | Manahil Shahzadi | [Read More](https://medium.com/p/7a87e384cc4c) |
+| Sun, 15 Mar 2026 18:13:52 GMT | Nebula: A Multi-Cloud Resource Manager — Unifying AWS, Azure, and GCP in a Single Workflow | Priyanshu Kumar Sharma | [Read More](https://medium.com/p/866937000cdc) |
 | Sun, 15 Mar 2026 18:09:20 GMT | Defenders think in lists. Attackers think in graphs. | h@shtalk | [Read More](https://medium.com/p/7650433240d5) |
 | Sun, 15 Mar 2026 18:07:45 GMT | Hybrid AI in Cybersecurity: The Convergence of Agentic AI, Generative AI, and Traditional AI | Dr Indrajit Mandal | [Read More](https://medium.com/p/d2317730bb24) |
 | Sun, 15 Mar 2026 18:01:01 GMT | Before They Hack You, They Study You: The Art of Information Gathering in Penetration Testing | Rishav kumar Thapa | [Read More](https://medium.com/p/fade3c90683a) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Mar 2026 13:07:46 GMT | API Security Testing on VAPI: Identifying OWASP API Top 10 Vulnerabilities in a Lab Environment | Cyb3rzee | [Read More](https://medium.com/p/67d69ec0f3ce) |
 | Sun, 15 Mar 2026 13:06:34 GMT | Strategic Industrial Cyber Warfare Analysis | Muhammad Ali Khan | [Read More](https://medium.com/p/3152de495362) |
 | Sun, 15 Mar 2026 13:00:19 GMT | How Kinetic Strikes Opened the Door to Cyber and Influence War | SIMKRA | [Read More](https://medium.com/p/c962c615101b) |
-| Sun, 15 Mar 2026 12:50:34 GMT | Stop Playing Bouncer with IPs: IBM COS + Context Based Restrictions is the Upgrade You Needed | Yash Soni | [Read More](https://medium.com/p/3805b41e5e23) |
-| Sun, 15 Mar 2026 12:49:28 GMT | Unlock The Fortress | Learn With Hatty | [Read More](https://medium.com/p/e52d9fa73ff8) |
-| Sun, 15 Mar 2026 12:39:04 GMT | How to use One Time Pad(OTP) | Dhruv | [Read More](https://medium.com/p/5d55e0a8b3e0) |
-| Sun, 15 Mar 2026 12:31:00 GMT | Wi-Fi Exploitation I — The Signal Never Lies | Ishant | [Read More](https://medium.com/p/1926a784ecd5) |
-| Sun, 15 Mar 2026 12:29:53 GMT | Proving Grounds Monster: From Admin Access to SYSTEM — Two Paths to Victory | Manoj | [Read More](https://medium.com/p/2dfeac66cc87) |
-| Sun, 15 Mar 2026 12:25:06 GMT | OpenClaw with RPi5 and ASUS GX10 | VXRL | [Read More](https://medium.com/p/a332d2f86a46) |
-| Sun, 15 Mar 2026 12:20:29 GMT | Cybersecurity in 2026: The Threats No One Is Ready For | Marwah Alsaggaf | [Read More](https://medium.com/p/3253e2d5009f) |
-| Sun, 15 Mar 2026 12:20:13 GMT | OverTheWire Bandit Walkthrough — Level 2 → 3 - 30-Day Cybersecurity Learning Journey (Day 3) | William | [Read More](https://medium.com/p/71f7c87bf9fe) |
-| Sun, 15 Mar 2026 12:19:17 GMT | From HR to Cybersecurity: Beginning a New Learning Journey | Himanik | [Read More](https://medium.com/p/63ac0d880b85) |
-| Sun, 15 Mar 2026 12:13:19 GMT | Weekly Journal Minggu ke 1 — WGTIK | Zackypermana | [Read More](https://medium.com/p/b9d20c97fe3f) |
