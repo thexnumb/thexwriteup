@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Mar 2026 02:31:01 GMT | Bugs Most Hunters Overlook — And Why They Matter | loopXvedant | [Read More](https://medium.com/p/3ee862e2c2e5) |
+| Sun, 15 Mar 2026 02:16:51 GMT | HOW SQL Actually executes | Ouabehisham | [Read More](https://medium.com/p/7b9c8b9b0c8f) |
+| Sun, 15 Mar 2026 02:01:09 GMT | Expired Pastries Walkthrough | Youssefelbakrey | [Read More](https://medium.com/p/c0307a54ccff) |
+| Sun, 15 Mar 2026 01:59:19 GMT | Incident Write-Up (Try hack me): VPN Brute Force and Internal Lateral Movement Attempt | Anukriti Gaur | [Read More](https://medium.com/p/1c1f643b117a) |
+| Sun, 15 Mar 2026 01:43:08 GMT | UTCTF 2026 W3W1, W3W2, W3W3 writeups | M.Taha Malik | [Read More](https://medium.com/p/393aae3bab3a) |
+| Sun, 15 Mar 2026 01:23:47 GMT | The Invisible Backdoor: How the Internet Was Weeks Away from Disaster | Stuart Macfarlane | [Read More](https://medium.com/p/999c929ba337) |
+| Sun, 15 Mar 2026 01:20:55 GMT | I Spent 3 Weeks Breaking Into Azure. Here’s What Actually Surprised Me. | Pratham Vasani | [Read More](https://medium.com/p/a72843de5d6f) |
+| Sun, 15 Mar 2026 01:17:16 GMT | From Guns, Germs, and Steel to Cyber Era… | Ziya Gokalp | [Read More](https://medium.com/p/42095e865a29) |
+| Sun, 15 Mar 2026 01:08:21 GMT | They Hypervisor Part 4: What Was Once Broken | Jeremy McKinzie | [Read More](https://medium.com/p/434963229e7d) |
+| Sun, 15 Mar 2026 00:55:26 GMT | A Zero Trust Maturity Model — Era of Cyber Security | Ankushguptamcd | [Read More](https://medium.com/p/bf348e57a1cd) |
+| Sun, 15 Mar 2026 00:54:57 GMT | Cybersecurity: a term without use | Dave | [Read More](https://medium.com/p/4f7e38ba465c) |
+| Sun, 15 Mar 2026 00:21:58 GMT | What a Fake Username and a Borrowed Windows Tool Taught Me About Defending Networks | Robert Perez | [Read More](https://medium.com/p/0b73f190ea8f) |
+| Sun, 15 Mar 2026 00:12:31 GMT | 5 Ways Manual Processes Quietly Drain Business Growth — And How Business Process Automation Fixes… | Alltomate | [Read More](https://medium.com/p/92aee82524e2) |
+| Sat, 14 Mar 2026 23:57:08 GMT | Sherlock Holmes and the Assassination of GOAD | Joshua Goossen | [Read More](https://medium.com/p/b21939bb53d0) |
+| Sat, 14 Mar 2026 23:56:27 GMT | History .. CyCTF | Configx | [Read More](https://medium.com/p/70cbfd2f9ec0) |
+| Sat, 14 Mar 2026 23:49:59 GMT | 5 Essential Security Principles in Containers | Alhousseini Mohamed Sori | [Read More](https://medium.com/p/ac4516aeead0) |
+| Sat, 14 Mar 2026 23:39:01 GMT | CyCTF Luxor web writeup | 00xCanelo | [Read More](https://medium.com/p/bc52b62490de) |
 | Sat, 14 Mar 2026 23:26:48 GMT | I Built a Live SDN Network Dashboard with POX, Mininet, and React — And It Detects Cyberattacks in… | OxMotaw3 | [Read More](https://medium.com/p/091e2ba58c75) |
 | Sat, 14 Mar 2026 23:26:37 GMT | Building an AWS-Native Security Operations Architecture for Under $200/Month | Cybersecforall101 | [Read More](https://medium.com/p/6ebb13a55486) |
 | Sat, 14 Mar 2026 23:07:47 GMT | One User. One Problem. So I Built It Myself. | Ata Sesli | [Read More](https://medium.com/p/45b1f1d33a81) |
@@ -96,20 +113,3 @@ Part 5 | MRxO1 | [Read More](https://medium.com/p/e0bef120b19f) |
 | Sat, 14 Mar 2026 16:36:25 GMT | Inside an OSINT Investigation: How Researchers Analyze Twitter Accounts | Peter Anderson | [Read More](https://medium.com/p/a3daf6e70934) |
 | Sat, 14 Mar 2026 16:27:08 GMT | Intro to the Mr. Robot Simulation | Allen Ace | [Read More](https://medium.com/p/cb1b5393cd7d) |
 | Sat, 14 Mar 2026 16:20:58 GMT | Web-ID Global Guard | Georgesmalki | [Read More](https://medium.com/p/5d4306763ac6) |
-| Sat, 14 Mar 2026 16:10:47 GMT | Passive Reconnaissance on hackersploit.org | Infosamriddhi | [Read More](https://medium.com/p/0c296180be5a) |
-| Sat, 14 Mar 2026 16:01:04 GMT | RAG Isn’t Safer: 9 Injection Paths Through Retrieved Text | Praxen | [Read More](https://medium.com/p/41421c23ad8d) |
-| Sat, 14 Mar 2026 16:01:02 GMT | Un hacker comprometió archivos del FBI vinculados al caso Epstein en 2023 | Tiziano Mass | [Read More](https://medium.com/p/f2a2565b9f72) |
-| Sat, 14 Mar 2026 15:57:56 GMT | From Script Kiddie to Script Creator: Automating Web Exploits with Python. | Abiralkarmacharya | [Read More](https://medium.com/p/3df46aaff2fb) |
-| Sat, 14 Mar 2026 15:53:30 GMT | Random digits | Karl Tame | [Read More](https://medium.com/p/909f47c1bfde) |
-| Sat, 14 Mar 2026 15:51:39 GMT | Best Budget Security Camera System Under $300 (2026 Review) | Temma | [Read More](https://medium.com/p/f91bf3689499) |
-| Sat, 14 Mar 2026 15:45:51 GMT | Cyber Kill Chain Explained: SOC Alert Reporting, Escalation & Attacker Lifecycle Guide | Mr Sumit Pal | [Read More](https://medium.com/p/effe0f95d9de) |
-| Sat, 14 Mar 2026 15:44:09 GMT | From “Let’s Just Try” to a Prime Offer — My TCS HackQuest S10 Journey | Captain Rogers | [Read More](https://medium.com/p/5c4056943771) |
-| Sat, 14 Mar 2026 15:41:00 GMT | The Day the Maps Went Blank: Unpacking the Cloudflare BYOIP BGP Outage of 2026 | Sohan Kanna | [Read More](https://medium.com/p/b4b2de0ae618) |
-| Sat, 14 Mar 2026 15:31:45 GMT | Nara Proving GroundsWalkthrough (windows Active Directory) | cyber_public_school | [Read More](https://medium.com/p/8ca797708a1a) |
-| Sat, 14 Mar 2026 15:12:00 GMT | Detecting AD Initial Access - TryHackMe - Splunk | Jose Praveen | [Read More](https://medium.com/p/ca887f110885) |
-| Sat, 14 Mar 2026 15:06:03 GMT | OSI Model Explained: The 7 Layers of Networking | Rajaelbahraouy | [Read More](https://medium.com/p/885420e5603e) |
-| Sat, 14 Mar 2026 15:06:00 GMT | Your AI Agent Just Deleted Everything. And It Said It “Panicked.” | Mammoth Cyber | [Read More](https://medium.com/p/64ffdc7498c6) |
-| Sat, 14 Mar 2026 15:01:01 GMT | Pentagon Flags Anthropic, Google Maps Gets AI, and Starlink Tightens Orbit as Tech Infrastructure… | Qandeel Akhtar | [Read More](https://medium.com/p/6b9c2d3f644c) |
-| Sat, 14 Mar 2026 14:58:30 GMT | Shadow IT: The Hidden Risk Inside Every Organization | oadtechnologies | [Read More](https://medium.com/p/60ea31cc1ca2) |
-| Sat, 14 Mar 2026 14:57:13 GMT | The Coming Cybersecurity Convergence: How Cloud, Artificial Intelligence, and Quantum Computing Are… | Richard Wilder | [Read More](https://medium.com/p/b4c8fb1cb67d) |
-| Sat, 14 Mar 2026 14:55:14 GMT | The Silent Invader | Muhammedfaris | [Read More](https://medium.com/p/ee2a4c1e50bd) |
