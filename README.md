@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Mar 2026 11:18:33 GMT | Hackers Can Guess Your Weak Password in Seconds | CyberRise Institute | [Read More](https://medium.com/p/5efead97a097) |
+| Sun, 15 Mar 2026 11:14:38 GMT | Local File Inclusion (LFI) in Leave Application System (PHP & SQLite3) | Hemant Raj Bhati | [Read More](https://medium.com/p/4e095bb7ee40) |
+| Sun, 15 Mar 2026 11:11:00 GMT | INE eJPT Cheat Sheet - By Elmehdi LAASSIRI | Elmehdi Laassiri | [Read More](https://medium.com/p/acb0993c8b6e) |
+| Sun, 15 Mar 2026 10:59:18 GMT | TryHackMe — Capture! — Bash Script | Avshivapriyan | [Read More](https://medium.com/p/a5acc2c839e7) |
+| Sun, 15 Mar 2026 10:56:15 GMT | DNS: İnternetin Görünməyən Arxitekturası və Onun Təhlükəsizliyi | Behbud Behbudov | [Read More](https://medium.com/p/d62ba5cd094a) |
+| Sun, 15 Mar 2026 10:55:44 GMT | Role Management Logic Bug Leads to Unlimited Resource Access | Abdulrahman Reda | [Read More](https://medium.com/p/ddcb648534d2) |
+| Sun, 15 Mar 2026 10:55:08 GMT | The Invisible Eye: Exploring Social Engineering & Camera Vulnerabilities | Zainab Noor | [Read More](https://medium.com/p/a232bd6aa570) |
+| Sun, 15 Mar 2026 10:46:08 GMT | From One Insta Account to a Family Network and Dozens of Social Profiles : An OSINT Writeup #8 | Kurious Kakashi | [Read More](https://medium.com/p/933459b445bf) |
+| Sun, 15 Mar 2026 10:45:28 GMT | Ethics of Reconnaissance in Ethical Hacking -The Art of Knowing Before Striking | Khushi Jain | [Read More](https://medium.com/p/41e1ba538b1d) |
+| Sun, 15 Mar 2026 10:45:09 GMT | 10,000 NTLM hashes, 3.5 hours, 90% cracked — here’s what the passwords looked like | HashCrack | [Read More](https://medium.com/p/994751d7b1d9) |
+| Sun, 15 Mar 2026 10:44:31 GMT | Stored Cross-Site Scripting (XSS) in PHP Leave Application System | Hemant Raj Bhati | [Read More](https://medium.com/p/3260c881a1fa) |
+| Sun, 15 Mar 2026 10:41:27 GMT | AirSnitch & Wi-Fi Client Isolation Issues | Salim Amine Bou Aram | [Read More](https://medium.com/p/a4611da9477a) |
 | Sun, 15 Mar 2026 10:19:48 GMT | Kendi PaaS Altyapımızı Kuruyoruz (Bölüm 1): Sunucu Seçimi, Temel Güvenlik ve Tailscale | Muhammet İkbal Yakupoglu | [Read More](https://medium.com/p/83ce006dc08b) |
 | Sun, 15 Mar 2026 10:18:46 GMT | From Back Orifice to the Lobster: OpenClaw and the Return of the Remote Access Trojan | Izu Capybara | [Read More](https://medium.com/p/074080d12dde) |
 | Sun, 15 Mar 2026 10:17:08 GMT | Penetration Testing Methodology | Gaurav Pratap Malla | [Read More](https://medium.com/p/0c698cf91efb) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Mar 2026 01:59:19 GMT | Incident Write-Up (Try hack me): VPN Brute Force and Internal Lateral Movement Attempt | Anukriti Gaur | [Read More](https://medium.com/p/1c1f643b117a) |
 | Sun, 15 Mar 2026 01:43:08 GMT | UTCTF 2026 W3W1, W3W2, W3W3 writeups | M.Taha Malik | [Read More](https://medium.com/p/393aae3bab3a) |
 | Sun, 15 Mar 2026 01:23:47 GMT | The Invisible Backdoor: How the Internet Was Weeks Away from Disaster | Stuart Macfarlane | [Read More](https://medium.com/p/999c929ba337) |
-| Sun, 15 Mar 2026 01:20:55 GMT | I Spent 3 Weeks Breaking Into Azure. Here’s What Actually Surprised Me. | Pratham Vasani | [Read More](https://medium.com/p/a72843de5d6f) |
-| Sun, 15 Mar 2026 01:17:16 GMT | From Guns, Germs, and Steel to Cyber Era… | Ziya Gokalp | [Read More](https://medium.com/p/42095e865a29) |
-| Sun, 15 Mar 2026 01:08:21 GMT | They Hypervisor Part 4: What Was Once Broken | Jeremy McKinzie | [Read More](https://medium.com/p/434963229e7d) |
-| Sun, 15 Mar 2026 00:55:26 GMT | A Zero Trust Maturity Model — Era of Cyber Security | Ankushguptamcd | [Read More](https://medium.com/p/bf348e57a1cd) |
-| Sun, 15 Mar 2026 00:54:57 GMT | Cybersecurity: a term without use | Dave | [Read More](https://medium.com/p/4f7e38ba465c) |
-| Sun, 15 Mar 2026 00:21:58 GMT | What a Fake Username and a Borrowed Windows Tool Taught Me About Defending Networks | Robert Perez | [Read More](https://medium.com/p/0b73f190ea8f) |
-| Sun, 15 Mar 2026 00:12:31 GMT | 5 Ways Manual Processes Quietly Drain Business Growth — And How Business Process Automation Fixes… | Alltomate | [Read More](https://medium.com/p/92aee82524e2) |
-| Sat, 14 Mar 2026 23:57:08 GMT | Sherlock Holmes and the Assassination of GOAD | Joshua Goossen | [Read More](https://medium.com/p/b21939bb53d0) |
-| Sat, 14 Mar 2026 23:56:27 GMT | History .. CyCTF | Configx | [Read More](https://medium.com/p/70cbfd2f9ec0) |
-| Sat, 14 Mar 2026 23:49:59 GMT | 5 Essential Security Principles in Containers | Alhousseini Mohamed Sori | [Read More](https://medium.com/p/ac4516aeead0) |
-| Sat, 14 Mar 2026 23:39:01 GMT | CyCTF Luxor web writeup | 00xCanelo | [Read More](https://medium.com/p/bc52b62490de) |
-| Sat, 14 Mar 2026 23:26:48 GMT | I Built a Live SDN Network Dashboard with POX, Mininet, and React — And It Detects Cyberattacks in… | OxMotaw3 | [Read More](https://medium.com/p/091e2ba58c75) |
