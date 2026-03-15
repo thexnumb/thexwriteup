@@ -12,8 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Mar 2026 08:31:03 GMT | Building an AI-Powered Pentesting Workflow with Burp MCP and GitHub Copilot | Br0wn$t4n | [Read More](https://medium.com/p/ecd6cfb8e642) |
+| Sun, 15 Mar 2026 08:30:15 GMT | OpenClaw AI Security Risks Are Getting Real: How Prompt Injection and Data Exfiltration Could Turn… | Germano Costi | [Read More](https://medium.com/p/cbba5003eab3) |
+| Sun, 15 Mar 2026 08:26:38 GMT | IP Address: The Logical Address That Connects Devices Across Networks | Ndu | [Read More](https://medium.com/p/ada0a179707f) |
+| Sun, 15 Mar 2026 08:16:03 GMT | Phishing & Quishing 2025: AI-Generated Emails + QR Code Attacks | Ahmed Fouad Kadhim | [Read More](https://medium.com/p/3c935b2cb202) |
+| Sun, 15 Mar 2026 08:11:04 GMT | Password Cracking 2025: How Fast Can AI + GPUs Break Your Password? | Ahmed Fouad Kadhim | [Read More](https://medium.com/p/6d96dd9b46c0) |
+| Sun, 15 Mar 2026 08:03:46 GMT | Metasploitable 2 — Walkthrough — FTP Exploitation | Rashikps | [Read More](https://medium.com/p/7b7b3f055194) |
+| Sun, 15 Mar 2026 07:57:26 GMT | Common Cybersecurity Attacks Everyone Should Know | Best online | [Read More](https://medium.com/p/5935d9ce47ab) |
+| Sun, 15 Mar 2026 07:51:52 GMT | The Invisible War: Deep Inside the Kernel Anti-Cheat Fortress | Daily AI & Tech Digest | [Read More](https://medium.com/p/06e1e22d5e10) |
+| Sun, 15 Mar 2026 07:50:53 GMT | The Unseen War: Inside the Kernel-Level Battle Against Gaming Cheats | Daily AI & Tech Digest | [Read More](https://medium.com/p/4d6b054693a5) |
 | Sun, 15 Mar 2026 07:41:25 GMT | How I Passed the CompTIA CySA+ (CS0–003): Study Resources, Tips, and Exam Day Experience | Grace T | [Read More](https://medium.com/p/00e7ffe4f1b3) |
 | Sun, 15 Mar 2026 07:34:55 GMT | Why Penetration Testing Training Is the Best Way to Learn Ethical Hacking | cyber security Updates | [Read More](https://medium.com/p/cc087c381957) |
+| Sun, 15 Mar 2026 07:33:49 GMT | Part 20a: Building Your OT Security Lab: Hands-On Manual Setup | urjasec | [Read More](https://medium.com/p/ce87124bb891) |
 | Sun, 15 Mar 2026 07:19:15 GMT | AWS security group vs network ACL- understanding the differences | unica 02 | [Read More](https://medium.com/p/497903d9a50d) |
 | Sun, 15 Mar 2026 06:56:59 GMT | Lab 1: Remote Code Execution via Web Shell Upload | codingbolt | [Read More](https://medium.com/p/a5e65b3652f0) |
 | Sun, 15 Mar 2026 06:56:25 GMT | Brooklyn Nine-Nine — TryHackMe Walkthrough | codingbolt | [Read More](https://medium.com/p/37a4c0530c63) |
@@ -102,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Mar 2026 21:10:33 GMT | “Your Phone is a Hot Wallet”: Upgrading Your Solana Seeker to Multisig | jimthereaper | [Read More](https://medium.com/p/f5352e56f44e) |
 | Sat, 14 Mar 2026 21:05:57 GMT | Weekly Cyber Threat Bulletin: 12 March 2026 | Marcelle Lee | [Read More](https://medium.com/p/cefba27d495c) |
 | Sat, 14 Mar 2026 21:01:00 GMT | Unfiltered Restart — Day 26: Windows Control Panel | Maximillian Rueda | [Read More](https://medium.com/p/add2b10ebede) |
-| Sat, 14 Mar 2026 21:00:51 GMT | The Consolidation of Identity: The New Control Plane of Cybersecurity | Adebisi mololuwa | [Read More](https://medium.com/p/99c9bbc7e8b9) |
-| Sat, 14 Mar 2026 20:54:10 GMT | Haystak vs Ahmia: Understanding Two Dark Web Search Engines | Tor BBB | [Read More](https://medium.com/p/da807828ab70) |
-| Sat, 14 Mar 2026 20:41:00 GMT | How Attackers Use WebDAV to Deliver Malware Without Browser Warnings | Sohan Kanna | [Read More](https://medium.com/p/5c13330faa07) |
-| Sat, 14 Mar 2026 20:27:15 GMT | TryHackMe — Offensive Security Intro Writeup | Dhruv Tripathi | [Read More](https://medium.com/p/9944be1e101e) |
-| Sat, 14 Mar 2026 20:26:29 GMT | Security Best Practices for Mobile Apps (Banking Case Study) | Angela Nyabuti | [Read More](https://medium.com/p/eabda8ef19fa) |
-| Sat, 14 Mar 2026 20:05:09 GMT | Escalating an Out-of-Scope HTML Injection to a Critical 9.3 XSS (WAF Bypass) | Hussein Mahmoud | [Read More](https://medium.com/p/12b194d6a1df) |
-| Sat, 14 Mar 2026 20:03:08 GMT | MOI-CTF: last key writeup - by uin0 | Abdullah Ali | [Read More](https://medium.com/p/e1dd547caa22) |
-| Sat, 14 Mar 2026 19:57:52 GMT | NEWS — STRATEGIC CYBERSECURITY UPDATES on MACHINE SPEED DEFENCE | Muhammad Ali Khan | [Read More](https://medium.com/p/751b5b75982f) |
-| Sat, 14 Mar 2026 19:53:51 GMT | Secure File Uploads to S3 Directly from Frontend | Ishita Arora | [Read More](https://medium.com/p/1182025017af) |
-| Sat, 14 Mar 2026 19:50:48 GMT | Reverse Engineering & Binary Exploitation:
-Part 5 | MRxO1 | [Read More](https://medium.com/p/e0bef120b19f) |
