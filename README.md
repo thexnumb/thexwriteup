@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Mar 2026 07:41:25 GMT | How I Passed the CompTIA CySA+ (CS0–003): Study Resources, Tips, and Exam Day Experience | Grace T | [Read More](https://medium.com/p/00e7ffe4f1b3) |
+| Sun, 15 Mar 2026 07:34:55 GMT | Why Penetration Testing Training Is the Best Way to Learn Ethical Hacking | cyber security Updates | [Read More](https://medium.com/p/cc087c381957) |
+| Sun, 15 Mar 2026 07:19:15 GMT | AWS security group vs network ACL- understanding the differences | unica 02 | [Read More](https://medium.com/p/497903d9a50d) |
+| Sun, 15 Mar 2026 06:56:59 GMT | Lab 1: Remote Code Execution via Web Shell Upload | codingbolt | [Read More](https://medium.com/p/a5e65b3652f0) |
+| Sun, 15 Mar 2026 06:56:25 GMT | Brooklyn Nine-Nine — TryHackMe Walkthrough | codingbolt | [Read More](https://medium.com/p/37a4c0530c63) |
+| Sun, 15 Mar 2026 06:55:55 GMT | A Camera and the biggest leader down | Todays World | [Read More](https://medium.com/p/85618303bde4) |
+| Sun, 15 Mar 2026 06:54:44 GMT | Secure Deployment of Docker CE (CIS-Aligned Technical Guide) | SOCFortress | [Read More](https://medium.com/p/6213b15d9a05) |
+| Sun, 15 Mar 2026 06:53:49 GMT | Why Adaptability Is the Real Job Security in 2026 | Vijay Kumar Gupta | [Read More](https://medium.com/p/a329d4f7c451) |
+| Sun, 15 Mar 2026 06:41:00 GMT | & :  ’ | Sujon Al Mamun | [Read More](https://medium.com/p/3c060a101bb0) |
+| Sun, 15 Mar 2026 06:38:03 GMT | AI and Privacy: Are Our Data and Identities Still Safe? | Robert James | [Read More](https://medium.com/p/0cc3ec629caf) |
+| Sun, 15 Mar 2026 06:33:03 GMT | The Human Element: Addressing the Leading Vulnerability in Cybersecurity | Jyotiraditya | [Read More](https://medium.com/p/a2ead86b7d6c) |
+| Sun, 15 Mar 2026 06:28:59 GMT | ISO 27001 Audits in 2026: Key Changes You Must Know | Digital Duffer | [Read More](https://medium.com/p/bf0f1b3b6053) |
 | Sun, 15 Mar 2026 06:18:34 GMT | Stop Load Balancing! Why Your Stateful Apps Need “Headless” Services | Vivek Kumar Sinha | [Read More](https://medium.com/p/ee1854205ede) |
 | Sun, 15 Mar 2026 06:17:02 GMT | The Invisible Highway — Understanding Port Forwarding & Pivoting | SAFAL GAUTAM | [Read More](https://medium.com/p/a64d4e310356) |
 | Sun, 15 Mar 2026 06:01:11 GMT | Why AI Voice Clones Can’t Fool Biology | Dana Xiadani | [Read More](https://medium.com/p/6ec730e81d8c) |
@@ -98,18 +110,6 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Mar 2026 20:05:09 GMT | Escalating an Out-of-Scope HTML Injection to a Critical 9.3 XSS (WAF Bypass) | Hussein Mahmoud | [Read More](https://medium.com/p/12b194d6a1df) |
 | Sat, 14 Mar 2026 20:03:08 GMT | MOI-CTF: last key writeup - by uin0 | Abdullah Ali | [Read More](https://medium.com/p/e1dd547caa22) |
 | Sat, 14 Mar 2026 19:57:52 GMT | NEWS — STRATEGIC CYBERSECURITY UPDATES on MACHINE SPEED DEFENCE | Muhammad Ali Khan | [Read More](https://medium.com/p/751b5b75982f) |
+| Sat, 14 Mar 2026 19:53:51 GMT | Secure File Uploads to S3 Directly from Frontend | Ishita Arora | [Read More](https://medium.com/p/1182025017af) |
 | Sat, 14 Mar 2026 19:50:48 GMT | Reverse Engineering & Binary Exploitation:
 Part 5 | MRxO1 | [Read More](https://medium.com/p/e0bef120b19f) |
-| Sat, 14 Mar 2026 19:48:00 GMT | How Threat Actors Accidentally Documented My Recon Strategy ️ | Iski | [Read More](https://medium.com/p/f28307135c04) |
-| Sat, 14 Mar 2026 19:46:03 GMT | IT 05 - Active Directory (AD) | Amrsmooke | [Read More](https://medium.com/p/e22c8ad55b9a) |
-| Sat, 14 Mar 2026 19:39:55 GMT | Event Security Costs in London: A Guide to Security Guard Agency Prices | 01group | [Read More](https://medium.com/p/c0bb694473c6) |
-| Sat, 14 Mar 2026 19:36:57 GMT | Can the Chinese Hack Into My Solar System? | Bert & Ling @ Justplug | [Read More](https://medium.com/p/38c7c8b268cd) |
-| Sat, 14 Mar 2026 19:36:00 GMT | Entra ID Monitoring - TryHackMe - Splunk | Jose Praveen | [Read More](https://medium.com/p/1bf18f7694d8) |
-| Sat, 14 Mar 2026 19:33:41 GMT | The False Positive Problem Nobody Fixes in SOCs | Sunny Dilipkumar Shah | [Read More](https://medium.com/p/be9bd5a50963) |
-| Sat, 14 Mar 2026 19:33:20 GMT | If Your API Isn’t Protected, Anyone Can Walk Right In | Ankita Kolhe | [Read More](https://medium.com/p/ced80664f54b) |
-| Sat, 14 Mar 2026 19:31:15 GMT | CCTV HTB Writeup | Dexter | [Read More](https://medium.com/p/7cedfa063f3e) |
-| Sat, 14 Mar 2026 19:25:00 GMT | How I understood GRC with a small AI project (kinda) | byL0r3t | [Read More](https://medium.com/p/3cd2f6057db1) |
-| Sat, 14 Mar 2026 19:22:28 GMT | MSG’s Oracle EBS Breach: The Quiet Risk of “Someone Else Hosts It” | Ilias Armenakis | [Read More](https://medium.com/p/2d7ba20d070e) |
-| Sat, 14 Mar 2026 19:21:40 GMT | Over The Wire Bandit : Level : 8 | Soumyadip Manna | [Read More](https://medium.com/p/89c343a5ff47) |
-| Sat, 14 Mar 2026 19:19:16 GMT | OS Command Injection | Abdulnafayk | [Read More](https://medium.com/p/67480b798e69) |
-| Sat, 14 Mar 2026 19:15:02 GMT | Top 30+ AI Security Tools for Securing AI Agents & LLMs (2026 Guide) — By Ravindra Annam | Ravindra Annam | [Read More](https://medium.com/p/0bd152d32df0) |
