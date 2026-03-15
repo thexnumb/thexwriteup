@@ -12,6 +12,16 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Mar 2026 14:19:05 GMT | CompTIA Security+ (SY0–701): Resumir os conceitos fundamentais de segurança | Davi Loyola | [Read More](https://medium.com/p/6dc8f0ee03ea) |
+| Sun, 15 Mar 2026 14:19:00 GMT | Why 90% of Cyberattacks Succeed Because of Psychology, Not Technology | Ujjwal Sharma | [Read More](https://medium.com/p/93fdee856cfd) |
+| Sun, 15 Mar 2026 14:15:11 GMT | 3 Pentest Certifications I Wish I’d Taken Sooner | Vidar Frostbjorn | [Read More](https://medium.com/p/adf5afb66957) |
+| Sun, 15 Mar 2026 14:14:30 GMT | From Recon to Root: Mastering the DC-2 CTF Challenge | Anupa Fernando | [Read More](https://medium.com/p/ebc1e4ea5c5f) |
+| Sun, 15 Mar 2026 14:12:53 GMT | 8. Second-Order Vulnerabilities: A Rare Bug -> $$$ | Abhijeet kumawat | [Read More](https://medium.com/p/316829a5292d) |
+| Sun, 15 Mar 2026 14:11:29 GMT | DNS Explained: The Backbone of How the Internet Communicates | Nikhil Bhandari | [Read More](https://medium.com/p/a783af40afe3) |
+| Sun, 15 Mar 2026 14:10:47 GMT | The 2026 Pentesting Roadmap: From Beginner to Hired in 8 Steps (Updated) | Vidar Frostbjorn | [Read More](https://medium.com/p/d9d63edf25ae) |
+| Sun, 15 Mar 2026 14:06:35 GMT | Stack Your Arsenal: Logic Bugs That Turn Into $$$ | MahmoudKroush (xgoon) | [Read More](https://medium.com/p/76ef49973b70) |
+| Sun, 15 Mar 2026 14:04:59 GMT | Microsoft Graph API Attack Surface: OAuth Flows, Abused Endpoints, and What Defenders Miss | Dzianis Skliar | [Read More](https://medium.com/p/9c303ea2aa02) |
+| Sun, 15 Mar 2026 14:00:05 GMT | CCTV — HackTheBox Writeup | Vishal M | [Read More](https://medium.com/p/c777a4ed1e26) |
 | Sun, 15 Mar 2026 13:41:00 GMT | The Complete Guide to Ethical Web Scraping | C. L. Beard | [Read More](https://medium.com/p/37cd2128d0ed) |
 | Sun, 15 Mar 2026 13:29:52 GMT | Web Security 101 : Part 9 — Security Headers Deep dive | Nithishraina | [Read More](https://medium.com/p/f155af06bd63) |
 | Sun, 15 Mar 2026 13:25:16 GMT | Canadian Tire’s 38 Million Accounts: The Real Damage Starts After the Leak | Ilias Armenakis | [Read More](https://medium.com/p/8efd0105709e) |
@@ -102,13 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Mar 2026 06:55:55 GMT | A Camera and the biggest leader down | Todays World | [Read More](https://medium.com/p/85618303bde4) |
 | Sun, 15 Mar 2026 06:54:44 GMT | Secure Deployment of Docker CE (CIS-Aligned Technical Guide) | SOCFortress | [Read More](https://medium.com/p/6213b15d9a05) |
 | Sun, 15 Mar 2026 06:53:49 GMT | Why Adaptability Is the Real Job Security in 2026 | Vijay Kumar Gupta | [Read More](https://medium.com/p/a329d4f7c451) |
-| Sun, 15 Mar 2026 06:41:00 GMT | & :  ’ | Sujon Al Mamun | [Read More](https://medium.com/p/3c060a101bb0) |
-| Sun, 15 Mar 2026 06:38:03 GMT | AI and Privacy: Are Our Data and Identities Still Safe? | Robert James | [Read More](https://medium.com/p/0cc3ec629caf) |
-| Sun, 15 Mar 2026 06:33:03 GMT | The Human Element: Addressing the Leading Vulnerability in Cybersecurity | Jyotiraditya | [Read More](https://medium.com/p/a2ead86b7d6c) |
-| Sun, 15 Mar 2026 06:28:59 GMT | ISO 27001 Audits in 2026: Key Changes You Must Know | Digital Duffer | [Read More](https://medium.com/p/bf0f1b3b6053) |
-| Sun, 15 Mar 2026 06:18:34 GMT | Stop Load Balancing! Why Your Stateful Apps Need “Headless” Services | Vivek Kumar Sinha | [Read More](https://medium.com/p/ee1854205ede) |
-| Sun, 15 Mar 2026 06:17:02 GMT | The Invisible Highway — Understanding Port Forwarding & Pivoting | SAFAL GAUTAM | [Read More](https://medium.com/p/a64d4e310356) |
-| Sun, 15 Mar 2026 06:01:11 GMT | Why AI Voice Clones Can’t Fool Biology | Dana Xiadani | [Read More](https://medium.com/p/6ec730e81d8c) |
-| Sun, 15 Mar 2026 06:00:18 GMT | A Pena | Thiago | [Read More](https://medium.com/p/b10ac174ae8c) |
-| Sun, 15 Mar 2026 05:59:10 GMT | I Investigated Public GitHub Repositories and Found AI Prompts Exposed in Source Code | Paritosh | [Read More](https://medium.com/p/e18f013c2557) |
-| Sun, 15 Mar 2026 05:54:24 GMT | Building ResilAI: An AI Incident Readiness Platform with Gemini and Google Cloud | Purvansh Bhatt | [Read More](https://medium.com/p/bfebfbed5c0b) |
