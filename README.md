@@ -12,6 +12,18 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Mar 2026 13:41:00 GMT | The Complete Guide to Ethical Web Scraping | C. L. Beard | [Read More](https://medium.com/p/37cd2128d0ed) |
+| Sun, 15 Mar 2026 13:29:52 GMT | Web Security 101 : Part 9 — Security Headers Deep dive | Nithishraina | [Read More](https://medium.com/p/f155af06bd63) |
+| Sun, 15 Mar 2026 13:25:16 GMT | Canadian Tire’s 38 Million Accounts: The Real Damage Starts After the Leak | Ilias Armenakis | [Read More](https://medium.com/p/8efd0105709e) |
+| Sun, 15 Mar 2026 13:22:06 GMT | Securing confidential Properties: MuleSoft Project - Best Practices and Tips | Veera Pallapu | [Read More](https://medium.com/p/dcafc1aec930) |
+| Sun, 15 Mar 2026 13:21:33 GMT | İnternette Veri Toplayan En Büyük Şirketler | Ali Yaşe | [Read More](https://medium.com/p/251861a46680) |
+| Sun, 15 Mar 2026 13:21:27 GMT | CVE-2024–55963 Walkthrough (Educational & Defensive Analysis) | cyber_public_school | [Read More](https://medium.com/p/3e8d0e4076bd) |
+| Sun, 15 Mar 2026 13:15:17 GMT | CyCTF Luxor - cyauth (Reverse Engineering Writeup) | Mohamed Tarek | [Read More](https://medium.com/p/de9ffb057c4f) |
+| Sun, 15 Mar 2026 13:14:20 GMT | Identifying OWASP top 10 API vulnerabilities in crAPI(Walkthrough) | Jei Ess | [Read More](https://medium.com/p/aa2235c690c5) |
+| Sun, 15 Mar 2026 13:14:06 GMT | Defeating enemy no. 1 - How to design your API endpoint to fight BOLA vulnerabilities. | Cyberbali | [Read More](https://medium.com/p/ca0733355c44) |
+| Sun, 15 Mar 2026 13:12:42 GMT | Your AI wrote the code. Nobody checked if it’s safe. | Support | [Read More](https://medium.com/p/dc0bec2c876a) |
+| Sun, 15 Mar 2026 13:07:46 GMT | API Security Testing on VAPI: Identifying OWASP API Top 10 Vulnerabilities in a Lab Environment | Cyb3rzee | [Read More](https://medium.com/p/67d69ec0f3ce) |
+| Sun, 15 Mar 2026 13:00:19 GMT | How Kinetic Strikes Opened the Door to Cyber and Influence War | SIMKRA | [Read More](https://medium.com/p/c962c615101b) |
 | Sun, 15 Mar 2026 12:50:34 GMT | Stop Playing Bouncer with IPs: IBM COS + Context Based Restrictions is the Upgrade You Needed | Yash Soni | [Read More](https://medium.com/p/3805b41e5e23) |
 | Sun, 15 Mar 2026 12:49:28 GMT | Unlock The Fortress | Learn With Hatty | [Read More](https://medium.com/p/e52d9fa73ff8) |
 | Sun, 15 Mar 2026 12:39:04 GMT | How to use One Time Pad(OTP) | Dhruv | [Read More](https://medium.com/p/5d55e0a8b3e0) |
@@ -100,15 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Mar 2026 06:00:18 GMT | A Pena | Thiago | [Read More](https://medium.com/p/b10ac174ae8c) |
 | Sun, 15 Mar 2026 05:59:10 GMT | I Investigated Public GitHub Repositories and Found AI Prompts Exposed in Source Code | Paritosh | [Read More](https://medium.com/p/e18f013c2557) |
 | Sun, 15 Mar 2026 05:54:24 GMT | Building ResilAI: An AI Incident Readiness Platform with Gemini and Google Cloud | Purvansh Bhatt | [Read More](https://medium.com/p/bfebfbed5c0b) |
-| Sun, 15 Mar 2026 05:46:34 GMT | What I Learned During My Time at CrowdStrike | Prayas Lashkari | [Read More](https://medium.com/p/09d4c39f3fb5) |
-| Sun, 15 Mar 2026 05:41:57 GMT | The Silent War Already Happening: How AI Autonomous Cyber Weapons Are Reshaping Global Conflict | Sanjaya Kumar | [Read More](https://medium.com/p/914296494659) |
-| Sun, 15 Mar 2026 05:40:00 GMT | Full Attack Chain: How Chained IDORs on Thrive Global Exposed Confidential Employee Wellness and… | Mayur Pandya | [Read More](https://medium.com/p/48c57a568de9) |
-| Sun, 15 Mar 2026 05:32:43 GMT | SAML Authentication Flow and Security Architecture | Saksham Baral | [Read More](https://medium.com/p/abb6efc95ebf) |
-| Sun, 15 Mar 2026 05:21:30 GMT | RootMe CTF — TryHackMe Writeup | Jatin | [Read More](https://medium.com/p/3cefd88a2e64) |
-| Sun, 15 Mar 2026 05:21:23 GMT | Write-Up: TryHackMe — Attacktive Directory | krisna nanda | [Read More](https://medium.com/p/c6000b398f9c) |
-| Sun, 15 Mar 2026 05:14:54 GMT | Day 15 of Learning AWS: IAM: Identity and Access Management | Muhammad Kashif | [Read More](https://medium.com/p/de9fb466f9b5) |
-| Sun, 15 Mar 2026 05:10:38 GMT | The McKinsey Lilli Breach Is Not a Hacking Story. It’s an Identity Story. | abluva-research | [Read More](https://medium.com/p/7d3c9987facc) |
-| Sun, 15 Mar 2026 04:59:21 GMT | MCP tool spoofing succeeds 100% of the time. | nasuy | [Read More](https://medium.com/p/afc8e8b8fd59) |
-| Sun, 15 Mar 2026 04:53:12 GMT | Session Management: The Invisible Backbone of Secure Software | Geeky Vartika | [Read More](https://medium.com/p/285c79c58491) |
-| Sun, 15 Mar 2026 04:45:51 GMT | We Taught AI to Look Like Us. Now We Can’t Tell the Difference. | Manan narang | [Read More](https://medium.com/p/a062ecf06a1c) |
-| Sun, 15 Mar 2026 04:45:43 GMT | transposition-trial | Vishvambhar ranoshe | [Read More](https://medium.com/p/4dc272ca1e99) |
