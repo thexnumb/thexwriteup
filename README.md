@@ -12,6 +12,13 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Mar 2026 11:46:04 GMT | CRA SBOM Requirements: What’s Mandated, What’s Optional, and What’s Still Unclear | CRA Decoded | [Read More](https://medium.com/p/6de9270666de) |
+| Sun, 15 Mar 2026 11:41:10 GMT | [Detection Engineering in My Home Lab] Series 1 ~Building 20+ Sigma Rules for Multi-Source Threat… | Takahiro Oda | [Read More](https://medium.com/p/614015b067e8) |
+| Sun, 15 Mar 2026 11:40:37 GMT | The First Attack Surface in Your Medical Device Isn’t the Cloud | Seun Runsewe | [Read More](https://medium.com/p/2bd43fb4f657) |
+| Sun, 15 Mar 2026 11:38:18 GMT | Recent Global Cyberattack: Telus Data Breach (2026) | Majji pradeep kumar | [Read More](https://medium.com/p/61bd112adcb5) |
+| Sun, 15 Mar 2026 11:33:18 GMT | The One Microsoft 365 Setting That Prevents 99% of Account Hacks | Richard Beukes | [Read More](https://medium.com/p/819a6325311c) |
+| Sun, 15 Mar 2026 11:29:12 GMT | How I Found My First Bug on HackerOne | 0xAbhiSec | [Read More](https://medium.com/p/9abeba692a0d) |
+| Sun, 15 Mar 2026 11:21:55 GMT | PwnedLabs: Azure Recon to Foothold and Profit | Persecure | [Read More](https://medium.com/p/7d3fd1daf4d5) |
 | Sun, 15 Mar 2026 11:18:33 GMT | Hackers Can Guess Your Weak Password in Seconds | CyberRise Institute | [Read More](https://medium.com/p/5efead97a097) |
 | Sun, 15 Mar 2026 11:14:38 GMT | Local File Inclusion (LFI) in Leave Application System (PHP & SQLite3) | Hemant Raj Bhati | [Read More](https://medium.com/p/4e095bb7ee40) |
 | Sun, 15 Mar 2026 11:11:00 GMT | INE eJPT Cheat Sheet - By Elmehdi LAASSIRI | Elmehdi Laassiri | [Read More](https://medium.com/p/acb0993c8b6e) |
@@ -105,10 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Mar 2026 03:07:25 GMT | GenAI Security Threats Demystified: Your AI agent has more access than your users — And that’s a… | Mallikarjun Hangargi | [Read More](https://medium.com/p/82715b49a3b5) |
 | Sun, 15 Mar 2026 02:57:24 GMT | Why Social Engineering Is Still the #1 Attack Vector in 2026 | Md Rahat Rahman Akas | [Read More](https://medium.com/p/f093d5b3d061) |
 | Sun, 15 Mar 2026 02:38:52 GMT | Entra ID Monitoring TryHackMe Walkthrough | m0ro23 | [Read More](https://medium.com/p/9ea5c9508db8) |
-| Sun, 15 Mar 2026 02:31:01 GMT | Bugs Most Hunters Overlook — And Why They Matter | loopXvedant | [Read More](https://medium.com/p/3ee862e2c2e5) |
-| Sun, 15 Mar 2026 02:28:30 GMT | I don’t know what to do without your help. | Nicholas Georgiou | [Read More](https://medium.com/p/b8f9f38cc0fe) |
-| Sun, 15 Mar 2026 02:16:51 GMT | HOW SQL Actually executes | Ouabehisham | [Read More](https://medium.com/p/7b9c8b9b0c8f) |
-| Sun, 15 Mar 2026 02:01:09 GMT | Expired Pastries Walkthrough | Youssefelbakrey | [Read More](https://medium.com/p/c0307a54ccff) |
-| Sun, 15 Mar 2026 01:59:19 GMT | Incident Write-Up (Try hack me): VPN Brute Force and Internal Lateral Movement Attempt | Anukriti Gaur | [Read More](https://medium.com/p/1c1f643b117a) |
-| Sun, 15 Mar 2026 01:43:08 GMT | UTCTF 2026 W3W1, W3W2, W3W3 writeups | M.Taha Malik | [Read More](https://medium.com/p/393aae3bab3a) |
-| Sun, 15 Mar 2026 01:23:47 GMT | The Invisible Backdoor: How the Internet Was Weeks Away from Disaster | Stuart Macfarlane | [Read More](https://medium.com/p/999c929ba337) |
