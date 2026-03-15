@@ -12,6 +12,22 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Mar 2026 15:28:03 GMT | RuView: The Open-Source System That Sees Through Walls With WiFi. Lucius Fox Would Resign Again | Sage Khan | [Read More](https://medium.com/p/0ef1262f40e4) |
+| Sun, 15 Mar 2026 15:09:37 GMT | FastAPI Authentication with JWT (Complete Secure API Guide) | Amolkharat | [Read More](https://medium.com/p/8e10008ca85d) |
+| Sun, 15 Mar 2026 15:06:40 GMT | Returning to Medium After 10+ Years: From IT Systems to Data Science | Franklin Kengne Takam | [Read More](https://medium.com/p/8a01d7ac7939) |
+| Sun, 15 Mar 2026 14:56:01 GMT | You Are Easier To Hack. This Is How You Protect Yourself. | Md.Imad | [Read More](https://medium.com/p/107d11123ef2) |
+| Sun, 15 Mar 2026 14:55:04 GMT | A 10-minute security audit every small business owner should perform weekly. | Ranam | [Read More](https://medium.com/p/b8b08fb47d91) |
+| Sun, 15 Mar 2026 14:53:19 GMT | Automating Snowflake Network Policy Management: A Complete End-to-End Production Implementation… | Satish Kumar | [Read More](https://medium.com/p/3046bb6aae86) |
+| Sun, 15 Mar 2026 14:47:36 GMT | FinWise—Personal AI Finance Management App | NaveenMathramkott | [Read More](https://medium.com/p/8e65dfe66dee) |
+| Sun, 15 Mar 2026 14:42:31 GMT | Hackviser Write-up [EN-TR] — Stored XSS via User Agent | Muhammet Alperen Şıvgın | [Read More](https://medium.com/p/fdf63c711900) |
+| Sun, 15 Mar 2026 14:39:53 GMT | it would’ve been easier if you hated me | Sevgilim | [Read More](https://medium.com/p/aa9654ef6710) |
+| Sun, 15 Mar 2026 14:38:39 GMT | THM - Detecting AD Initial Access | Francesco Pastore | [Read More](https://medium.com/p/23ea6260bc8b) |
+| Sun, 15 Mar 2026 14:36:57 GMT | Active Directory Privilege Escalation: Token Impersonation Attack By Mert Baykal | Mert Baykal | [Read More](https://medium.com/p/0ca733b6ec77) |
+| Sun, 15 Mar 2026 14:36:13 GMT | Finding and Exploiting a Firebase Security Rules Vulnerability in a Ride-Sharing App | Shamveelkhan | [Read More](https://medium.com/p/f0ca2d512b48) |
+| Sun, 15 Mar 2026 14:32:31 GMT | Active Directory Pentesting Series-Part 3 | Deepansh hooda | [Read More](https://medium.com/p/9ef3c8c14213) |
+| Sun, 15 Mar 2026 14:28:44 GMT | GMA Integrated News and GMA Playground YouTube channels hacked altogether to promote a crypto scam… | ZE's Remakes | [Read More](https://medium.com/p/7d99bd863997) |
+| Sun, 15 Mar 2026 14:27:48 GMT | Implementing Just-In-Time (JIT) Privileged Access with Azure Privileged Identity Management | Amal Udayanga Basnayake | [Read More](https://medium.com/p/098f2627cf46) |
+| Sun, 15 Mar 2026 14:21:52 GMT | Love Doesn’t Save You. It Just Stays. | Fine Thread | [Read More](https://medium.com/p/c824f021bb25) |
 | Sun, 15 Mar 2026 14:19:05 GMT | CompTIA Security+ (SY0–701): Resumir os conceitos fundamentais de segurança | Davi Loyola | [Read More](https://medium.com/p/6dc8f0ee03ea) |
 | Sun, 15 Mar 2026 14:19:00 GMT | Why 90% of Cyberattacks Succeed Because of Psychology, Not Technology | Ujjwal Sharma | [Read More](https://medium.com/p/93fdee856cfd) |
 | Sun, 15 Mar 2026 14:15:11 GMT | 3 Pentest Certifications I Wish I’d Taken Sooner | Vidar Frostbjorn | [Read More](https://medium.com/p/adf5afb66957) |
@@ -96,19 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Mar 2026 08:31:03 GMT | Building an AI-Powered Pentesting Workflow with Burp MCP and GitHub Copilot | Br0wn$t4n | [Read More](https://medium.com/p/ecd6cfb8e642) |
 | Sun, 15 Mar 2026 08:30:15 GMT | OpenClaw AI Security Risks Are Getting Real: How Prompt Injection and Data Exfiltration Could Turn… | Germano Costi | [Read More](https://medium.com/p/cbba5003eab3) |
 | Sun, 15 Mar 2026 08:28:24 GMT | Agentic Security Patterns from Elite Teams: A Field Guide to OWASP Top 10 | Agent Native | [Read More](https://medium.com/p/a3a515bc2e69) |
-| Sun, 15 Mar 2026 08:26:38 GMT | IP Address: The Logical Address That Connects Devices Across Networks | Ndu | [Read More](https://medium.com/p/ada0a179707f) |
-| Sun, 15 Mar 2026 08:16:03 GMT | Phishing & Quishing 2025: AI-Generated Emails + QR Code Attacks | Ahmed Fouad Kadhim | [Read More](https://medium.com/p/3c935b2cb202) |
-| Sun, 15 Mar 2026 08:11:04 GMT | Password Cracking 2025: How Fast Can AI + GPUs Break Your Password? | Ahmed Fouad Kadhim | [Read More](https://medium.com/p/6d96dd9b46c0) |
-| Sun, 15 Mar 2026 08:03:46 GMT | Metasploitable 2 — Walkthrough — FTP Exploitation | Rashikps | [Read More](https://medium.com/p/7b7b3f055194) |
-| Sun, 15 Mar 2026 07:57:26 GMT | Common Cybersecurity Attacks Everyone Should Know | Best online | [Read More](https://medium.com/p/5935d9ce47ab) |
-| Sun, 15 Mar 2026 07:51:52 GMT | The Invisible War: Deep Inside the Kernel Anti-Cheat Fortress | Daily AI & Tech Digest | [Read More](https://medium.com/p/06e1e22d5e10) |
-| Sun, 15 Mar 2026 07:50:53 GMT | The Unseen War: Inside the Kernel-Level Battle Against Gaming Cheats | Daily AI & Tech Digest | [Read More](https://medium.com/p/4d6b054693a5) |
-| Sun, 15 Mar 2026 07:41:25 GMT | How I Passed the CompTIA CySA+ (CS0–003): Study Resources, Tips, and Exam Day Experience | Grace T | [Read More](https://medium.com/p/00e7ffe4f1b3) |
-| Sun, 15 Mar 2026 07:34:55 GMT | Why Penetration Testing Training Is the Best Way to Learn Ethical Hacking | cyber security Updates | [Read More](https://medium.com/p/cc087c381957) |
-| Sun, 15 Mar 2026 07:33:49 GMT | Part 20a: Building Your OT Security Lab: Hands-On Manual Setup | urjasec | [Read More](https://medium.com/p/ce87124bb891) |
-| Sun, 15 Mar 2026 07:19:15 GMT | AWS security group vs network ACL- understanding the differences | unica 02 | [Read More](https://medium.com/p/497903d9a50d) |
-| Sun, 15 Mar 2026 06:56:59 GMT | Lab 1: Remote Code Execution via Web Shell Upload | codingbolt | [Read More](https://medium.com/p/a5e65b3652f0) |
-| Sun, 15 Mar 2026 06:56:25 GMT | Brooklyn Nine-Nine — TryHackMe Walkthrough | codingbolt | [Read More](https://medium.com/p/37a4c0530c63) |
-| Sun, 15 Mar 2026 06:55:55 GMT | A Camera and the biggest leader down | Todays World | [Read More](https://medium.com/p/85618303bde4) |
-| Sun, 15 Mar 2026 06:54:44 GMT | Secure Deployment of Docker CE (CIS-Aligned Technical Guide) | SOCFortress | [Read More](https://medium.com/p/6213b15d9a05) |
-| Sun, 15 Mar 2026 06:53:49 GMT | Why Adaptability Is the Real Job Security in 2026 | Vijay Kumar Gupta | [Read More](https://medium.com/p/a329d4f7c451) |
