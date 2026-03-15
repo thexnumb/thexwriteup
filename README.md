@@ -12,10 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Mar 2026 12:50:34 GMT | Stop Playing Bouncer with IPs: IBM COS + Context Based Restrictions is the Upgrade You Needed | Yash Soni | [Read More](https://medium.com/p/3805b41e5e23) |
+| Sun, 15 Mar 2026 12:49:28 GMT | Unlock The Fortress | Learn With Hatty | [Read More](https://medium.com/p/e52d9fa73ff8) |
+| Sun, 15 Mar 2026 12:39:04 GMT | How to use One Time Pad(OTP) | Dhruv | [Read More](https://medium.com/p/5d55e0a8b3e0) |
+| Sun, 15 Mar 2026 12:31:00 GMT | Wi-Fi Exploitation I — The Signal Never Lies | Ishant | [Read More](https://medium.com/p/1926a784ecd5) |
+| Sun, 15 Mar 2026 12:29:53 GMT | Proving Grounds Monster: From Admin Access to SYSTEM — Two Paths to Victory | Manoj | [Read More](https://medium.com/p/2dfeac66cc87) |
+| Sun, 15 Mar 2026 12:25:06 GMT | OpenClaw with RPi5 and ASUS GX10 | VXRL | [Read More](https://medium.com/p/a332d2f86a46) |
+| Sun, 15 Mar 2026 12:20:29 GMT | Cybersecurity in 2026: The Threats No One Is Ready For | Marwah Alsaggaf | [Read More](https://medium.com/p/3253e2d5009f) |
+| Sun, 15 Mar 2026 12:20:13 GMT | OverTheWire Bandit Walkthrough — Level 2 → 3 - 30-Day Cybersecurity Learning Journey (Day 3) | William | [Read More](https://medium.com/p/71f7c87bf9fe) |
+| Sun, 15 Mar 2026 12:19:17 GMT | From HR to Cybersecurity: Beginning a New Learning Journey | Himanik | [Read More](https://medium.com/p/63ac0d880b85) |
+| Sun, 15 Mar 2026 12:13:19 GMT | Weekly Journal Minggu ke 1 — WGTIK | Zackypermana | [Read More](https://medium.com/p/b9d20c97fe3f) |
+| Sun, 15 Mar 2026 12:12:50 GMT | Bots, CAPTCHA & Cybersecurity: The Never-Ending Arms Race | Shimalka Yohan | [Read More](https://medium.com/p/f38f56805d48) |
+| Sun, 15 Mar 2026 12:12:30 GMT | Why Inclusive Tech Education Is the Future — And How Code Inclusive Is Leading the Change | Peter Arkwright | [Read More](https://medium.com/p/b2da27f665f8) |
+| Sun, 15 Mar 2026 12:09:48 GMT | NIS2 and the Efficiency Paradox: Why We Need a Registry for Security Assessments by Max Kristmann | Max Kristmann | [Read More](https://medium.com/p/da578511ba96) |
+| Sun, 15 Mar 2026 12:05:54 GMT | ZSXLXH Review: Systemic Verification and Legitimacy | ZSXLXH | [Read More](https://medium.com/p/a596fd25db1a) |
+| Sun, 15 Mar 2026 12:02:01 GMT | Why AI governance dashboards fail without evidence links | The AI Regulator | [Read More](https://medium.com/p/d3181d3ce87c) |
+| Sun, 15 Mar 2026 12:01:25 GMT | Cybersecurity Courses in Kerala: Opportunities &amp; Institutions | cyber tech | [Read More](https://medium.com/p/09fe7e285558) |
+| Sun, 15 Mar 2026 11:58:26 GMT | Auth in the Query String - and How We Moved Out | Naniwet M | [Read More](https://medium.com/p/b67a1e762f0a) |
+| Sun, 15 Mar 2026 11:56:00 GMT | The Hidden Fatigue of Consuming Too Much Information | Vipin Singh Bagri | [Read More](https://medium.com/p/eb45ed3827d8) |
 | Sun, 15 Mar 2026 11:46:04 GMT | CRA SBOM Requirements: What’s Mandated, What’s Optional, and What’s Still Unclear | CRA Decoded | [Read More](https://medium.com/p/6de9270666de) |
 | Sun, 15 Mar 2026 11:41:10 GMT | [Detection Engineering in My Home Lab] Series 1 ~Building 20+ Sigma Rules for Multi-Source Threat… | Takahiro Oda | [Read More](https://medium.com/p/614015b067e8) |
 | Sun, 15 Mar 2026 11:40:37 GMT | The First Attack Surface in Your Medical Device Isn’t the Cloud | Seun Runsewe | [Read More](https://medium.com/p/2bd43fb4f657) |
 | Sun, 15 Mar 2026 11:38:18 GMT | Recent Global Cyberattack: Telus Data Breach (2026) | Majji pradeep kumar | [Read More](https://medium.com/p/61bd112adcb5) |
+| Sun, 15 Mar 2026 11:38:14 GMT | Penetration Testing Methodologies: Information Gathering | Taksarip | [Read More](https://medium.com/p/5e26166cdf23) |
 | Sun, 15 Mar 2026 11:33:18 GMT | The One Microsoft 365 Setting That Prevents 99% of Account Hacks | Richard Beukes | [Read More](https://medium.com/p/819a6325311c) |
 | Sun, 15 Mar 2026 11:29:12 GMT | How I Found My First Bug on HackerOne | 0xAbhiSec | [Read More](https://medium.com/p/9abeba692a0d) |
 | Sun, 15 Mar 2026 11:21:55 GMT | PwnedLabs: Azure Recon to Foothold and Profit | Persecure | [Read More](https://medium.com/p/7d3fd1daf4d5) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Mar 2026 04:53:12 GMT | Session Management: The Invisible Backbone of Secure Software | Geeky Vartika | [Read More](https://medium.com/p/285c79c58491) |
 | Sun, 15 Mar 2026 04:45:51 GMT | We Taught AI to Look Like Us. Now We Can’t Tell the Difference. | Manan narang | [Read More](https://medium.com/p/a062ecf06a1c) |
 | Sun, 15 Mar 2026 04:45:43 GMT | transposition-trial | Vishvambhar ranoshe | [Read More](https://medium.com/p/4dc272ca1e99) |
-| Sun, 15 Mar 2026 04:42:07 GMT | Vigenere | Vishvambhar ranoshe | [Read More](https://medium.com/p/68833bf5eef9) |
-| Sun, 15 Mar 2026 04:33:50 GMT | One Rogue Agent Brought Down the Whole System | Rajesh Nadiminti | [Read More](https://medium.com/p/99807d2bbe8d) |
-| Sun, 15 Mar 2026 04:31:07 GMT | Tool Permissions: 9 Scope Mistakes That Cause Hidden Writes | Velorum | [Read More](https://medium.com/p/42cd27d67639) |
-| Sun, 15 Mar 2026 04:26:33 GMT | Éverson Filipe’s New biography/about me (15/03/2026–20th birthday!) | Éverson Filipe | [Read More](https://medium.com/p/39faa4fee765) |
-| Sun, 15 Mar 2026 04:24:24 GMT | NOOB:1 VulnHub Write-Up | Shantanu Kakade | [Read More](https://medium.com/p/c6c8a3492629) |
-| Sun, 15 Mar 2026 04:17:59 GMT | How to Root Android 16 (API 36) Emulator with Magisk & rootAVD (Google Play Images) | Md Ikram Hossain Mojumder | [Read More](https://medium.com/p/e591c9bd2a91) |
-| Sun, 15 Mar 2026 04:17:58 GMT | THERE’S NO FRIGATE LIKE A BOOK | In Praise of Older Women Writers | [Read More](https://medium.com/p/26a08a9004f2) |
-| Sun, 15 Mar 2026 04:11:28 GMT | OWASP LLM Top 10 - The Biggest AI Security Risks Explained Simply | Pratham Shah | [Read More](https://medium.com/p/a21bf6bc6ef8) |
-| Sun, 15 Mar 2026 04:06:51 GMT | Your AWS Credentials Are Still on GitHub Even After You Delete Them | LearnWithPrashik | [Read More](https://medium.com/p/58f294496171) |
-| Sun, 15 Mar 2026 04:01:23 GMT | Cybersecurity Vs. Digital Marketing: Career Path Comparison | cyber tech | [Read More](https://medium.com/p/6c5ddb1fa346) |
-| Sun, 15 Mar 2026 03:56:52 GMT | Weekly Crypto & Web3 Safety Digest — CW11 2026 (5-Minute Edition) | 5-minute digital safety power-ups | [Read More](https://medium.com/p/12a75ebc4757) |
-| Sun, 15 Mar 2026 03:52:16 GMT | SOC Home Lab — Splunk SIEM Security Monitoring | WOLF | [Read More](https://medium.com/p/f1b0eed49150) |
-| Sun, 15 Mar 2026 03:44:40 GMT | When Particles Whisper Across Space: The Quantum Teleportation Breakthrough That Could Change the… | Seema Tripathi | [Read More](https://medium.com/p/69e15519af99) |
-| Sun, 15 Mar 2026 03:36:42 GMT | Couch (THM) Tryhackme WriteUp And Answer | Lawvye | [Read More](https://medium.com/p/79e5ac66a571) |
-| Sun, 15 Mar 2026 03:31:49 GMT | WebAuthn & Passkeys: The Auth Method That Phishers Can’t Steal | Dipak Kr das | [Read More](https://medium.com/p/594f489d03f7) |
-| Sun, 15 Mar 2026 03:11:16 GMT | vsftpd 2.3.4. Backdoor Exploitation- A Beginner’s Walkthrough | Jmorrisflcc | [Read More](https://medium.com/p/3ed75746c1b7) |
-| Sun, 15 Mar 2026 03:07:25 GMT | GenAI Security Threats Demystified: Your AI agent has more access than your users — And that’s a… | Mallikarjun Hangargi | [Read More](https://medium.com/p/82715b49a3b5) |
-| Sun, 15 Mar 2026 02:57:24 GMT | Why Social Engineering Is Still the #1 Attack Vector in 2026 | Md Rahat Rahman Akas | [Read More](https://medium.com/p/f093d5b3d061) |
-| Sun, 15 Mar 2026 02:38:52 GMT | Entra ID Monitoring TryHackMe Walkthrough | m0ro23 | [Read More](https://medium.com/p/9ea5c9508db8) |
