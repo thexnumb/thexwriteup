@@ -12,6 +12,10 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Mar 2026 19:37:56 GMT | How Multi-Factor Authentication (MFA) Prevents Most Cloud Account Compromises | Victor Olawale | [Read More](https://medium.com/p/d308406e0bcf) |
+| Sun, 15 Mar 2026 19:34:35 GMT | Introducing ICMF — The Insider Code Manipulation Framework | Muhammet Bozkan | [Read More](https://medium.com/p/ba886305d82c) |
+| Sun, 15 Mar 2026 19:34:24 GMT | Cybersecurity For Everyone: Protecting Your Stuff Online | Adriene Miller | [Read More](https://medium.com/p/96a5542b991f) |
+| Sun, 15 Mar 2026 19:31:59 GMT | Detection via Deception — Using your SIEM as a Free Deception Platform | Rcegan | [Read More](https://medium.com/p/8ecdd97023d9) |
 | Sun, 15 Mar 2026 19:29:14 GMT | The Invisible Revolution: Why 2026 is the Year Your Devices Learn to Think | Kamarunga Tabitha Judith | [Read More](https://medium.com/p/e0cd71dcb9af) |
 | Sun, 15 Mar 2026 19:23:03 GMT | VulnHub Warzone 3 (Exogen): Walkthrough From Anonymous FTP to Root via Java Reverse Engineering | bageera | [Read More](https://medium.com/p/089a138967a1) |
 | Sun, 15 Mar 2026 19:10:59 GMT | The Two Capabilities Every Enterprise Needs to Build in Parallel: AI and Cloud Security | Vani Gundu | [Read More](https://medium.com/p/dee7e99aaf87) |
@@ -108,7 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Mar 2026 13:15:17 GMT | CyCTF Luxor - cyauth (Reverse Engineering Writeup) | Mohamed Tarek | [Read More](https://medium.com/p/de9ffb057c4f) |
 | Sun, 15 Mar 2026 13:14:20 GMT | Identifying OWASP top 10 API vulnerabilities in crAPI(Walkthrough) | Jei Ess | [Read More](https://medium.com/p/aa2235c690c5) |
 | Sun, 15 Mar 2026 13:14:06 GMT | Defeating enemy no. 1 - How to design your API endpoint to fight BOLA vulnerabilities. | Cyberbali | [Read More](https://medium.com/p/ca0733355c44) |
-| Sun, 15 Mar 2026 13:12:42 GMT | Your AI wrote the code. Nobody checked if it’s safe. | Support | [Read More](https://medium.com/p/dc0bec2c876a) |
-| Sun, 15 Mar 2026 13:07:46 GMT | API Security Testing on VAPI: Identifying OWASP API Top 10 Vulnerabilities in a Lab Environment | Cyb3rzee | [Read More](https://medium.com/p/67d69ec0f3ce) |
-| Sun, 15 Mar 2026 13:06:34 GMT | Strategic Industrial Cyber Warfare Analysis | Muhammad Ali Khan | [Read More](https://medium.com/p/3152de495362) |
-| Sun, 15 Mar 2026 13:00:19 GMT | How Kinetic Strikes Opened the Door to Cyber and Influence War | SIMKRA | [Read More](https://medium.com/p/c962c615101b) |
