@@ -12,7 +12,31 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Mar 2026 04:59:21 GMT | MCP tool spoofing succeeds 100% of the time. | nasuy | [Read More](https://medium.com/p/afc8e8b8fd59) |
+| Sun, 15 Mar 2026 04:53:12 GMT | Session Management: The Invisible Backbone of Secure Software | Geeky Vartika | [Read More](https://medium.com/p/285c79c58491) |
+| Sun, 15 Mar 2026 04:45:51 GMT | We Taught AI to Look Like Us. Now We Can’t Tell the Difference. | Manan narang | [Read More](https://medium.com/p/a062ecf06a1c) |
+| Sun, 15 Mar 2026 04:45:43 GMT | transposition-trial | Vishvambhar ranoshe | [Read More](https://medium.com/p/4dc272ca1e99) |
+| Sun, 15 Mar 2026 04:42:07 GMT | Vigenere | Vishvambhar ranoshe | [Read More](https://medium.com/p/68833bf5eef9) |
+| Sun, 15 Mar 2026 04:33:50 GMT | One Rogue Agent Brought Down the Whole System | Rajesh Nadiminti | [Read More](https://medium.com/p/99807d2bbe8d) |
+| Sun, 15 Mar 2026 04:31:07 GMT | Tool Permissions: 9 Scope Mistakes That Cause Hidden Writes | Velorum | [Read More](https://medium.com/p/42cd27d67639) |
+| Sun, 15 Mar 2026 04:26:33 GMT | Éverson Filipe’s New biography/about me (15/03/2026–20th birthday!) | Éverson Filipe | [Read More](https://medium.com/p/39faa4fee765) |
+| Sun, 15 Mar 2026 04:24:24 GMT | NOOB:1 VulnHub Write-Up | Shantanu Kakade | [Read More](https://medium.com/p/c6c8a3492629) |
+| Sun, 15 Mar 2026 04:17:59 GMT | How to Root Android 16 (API 36) Emulator with Magisk & rootAVD (Google Play Images) | Md Ikram Hossain Mojumder | [Read More](https://medium.com/p/e591c9bd2a91) |
+| Sun, 15 Mar 2026 04:17:58 GMT | THERE’S NO FRIGATE LIKE A BOOK | In Praise of Older Women Writers | [Read More](https://medium.com/p/26a08a9004f2) |
+| Sun, 15 Mar 2026 04:11:28 GMT | OWASP LLM Top 10 - The Biggest AI Security Risks Explained Simply | Pratham Shah | [Read More](https://medium.com/p/a21bf6bc6ef8) |
+| Sun, 15 Mar 2026 04:06:51 GMT | Your AWS Credentials Are Still on GitHub Even After You Delete Them | LearnWithPrashik | [Read More](https://medium.com/p/58f294496171) |
+| Sun, 15 Mar 2026 04:01:23 GMT | Cybersecurity Vs. Digital Marketing: Career Path Comparison | cyber tech | [Read More](https://medium.com/p/6c5ddb1fa346) |
+| Sun, 15 Mar 2026 03:56:52 GMT | Weekly Crypto & Web3 Safety Digest — CW11 2026 (5-Minute Edition) | 5-minute digital safety power-ups | [Read More](https://medium.com/p/12a75ebc4757) |
+| Sun, 15 Mar 2026 03:52:16 GMT | SOC Home Lab — Splunk SIEM Security Monitoring | WOLF | [Read More](https://medium.com/p/f1b0eed49150) |
+| Sun, 15 Mar 2026 03:44:40 GMT | When Particles Whisper Across Space: The Quantum Teleportation Breakthrough That Could Change the… | Seema Tripathi | [Read More](https://medium.com/p/69e15519af99) |
+| Sun, 15 Mar 2026 03:36:42 GMT | Couch (THM) Tryhackme WriteUp And Answer | Lawvye | [Read More](https://medium.com/p/79e5ac66a571) |
+| Sun, 15 Mar 2026 03:31:49 GMT | WebAuthn & Passkeys: The Auth Method That Phishers Can’t Steal | Dipak Kr das | [Read More](https://medium.com/p/594f489d03f7) |
+| Sun, 15 Mar 2026 03:11:16 GMT | vsftpd 2.3.4. Backdoor Exploitation- A Beginner’s Walkthrough | Jmorrisflcc | [Read More](https://medium.com/p/3ed75746c1b7) |
+| Sun, 15 Mar 2026 03:07:25 GMT | GenAI Security Threats Demystified: Your AI agent has more access than your users — And that’s a… | Mallikarjun Hangargi | [Read More](https://medium.com/p/82715b49a3b5) |
+| Sun, 15 Mar 2026 02:57:24 GMT | Why Social Engineering Is Still the #1 Attack Vector in 2026 | Md Rahat Rahman Akas | [Read More](https://medium.com/p/f093d5b3d061) |
+| Sun, 15 Mar 2026 02:38:52 GMT | Entra ID Monitoring TryHackMe Walkthrough | m0ro23 | [Read More](https://medium.com/p/9ea5c9508db8) |
 | Sun, 15 Mar 2026 02:31:01 GMT | Bugs Most Hunters Overlook — And Why They Matter | loopXvedant | [Read More](https://medium.com/p/3ee862e2c2e5) |
+| Sun, 15 Mar 2026 02:28:30 GMT | I don’t know what to do without your help. | Nicholas Georgiou | [Read More](https://medium.com/p/b8f9f38cc0fe) |
 | Sun, 15 Mar 2026 02:16:51 GMT | HOW SQL Actually executes | Ouabehisham | [Read More](https://medium.com/p/7b9c8b9b0c8f) |
 | Sun, 15 Mar 2026 02:01:09 GMT | Expired Pastries Walkthrough | Youssefelbakrey | [Read More](https://medium.com/p/c0307a54ccff) |
 | Sun, 15 Mar 2026 01:59:19 GMT | Incident Write-Up (Try hack me): VPN Brute Force and Internal Lateral Movement Attempt | Anukriti Gaur | [Read More](https://medium.com/p/1c1f643b117a) |
@@ -89,27 +113,3 @@ Part 5 | MRxO1 | [Read More](https://medium.com/p/e0bef120b19f) |
 | Sat, 14 Mar 2026 18:24:12 GMT | OAuth 2.0 Misconfigurations - When Login With Google Becomes an Open Gate | Rufus Kehinde | [Read More](https://medium.com/p/990fadf3bd14) |
 | Sat, 14 Mar 2026 18:15:30 GMT | DOM-Based XSS Explained: How Attackers Exploit Client-Side JavaScripts | Kartik Chhabra | [Read More](https://medium.com/p/aa5044f010a1) |
 | Sat, 14 Mar 2026 18:14:50 GMT | Why Pentesting Is Important For Small Businesses | Gene Marks | [Read More](https://medium.com/p/94a09399aa8c) |
-| Sat, 14 Mar 2026 18:14:15 GMT | AI Agents Have a Security Problem Nobody Talks About: Runaway Costs | Aryeh Radle | [Read More](https://medium.com/p/0fca421ee375) |
-| Sat, 14 Mar 2026 18:14:14 GMT | Credential Stuffing Attacks: Mechanisms, Impacts, and the 2023 23andMe Breach | Hamna Sulaim | [Read More](https://medium.com/p/86235f948c7d) |
-| Sat, 14 Mar 2026 18:06:12 GMT | Web Security Series #3 — Discovering Credentials Using Cluster Bomb Attacks (Burp Suite & ffuf) | Laibakashif | [Read More](https://medium.com/p/a2dc4bb6ebc3) |
-| Sat, 14 Mar 2026 18:02:47 GMT | How to Stop Fake Signups in Your Web App Before They Happen | Awais | [Read More](https://medium.com/p/2cfd45c7f38a) |
-| Sat, 14 Mar 2026 18:02:39 GMT | Understanding Content Security Policy (CSP) and Per-Endpoint Policies | Ronny | [Read More](https://medium.com/p/93edce35c33d) |
-| Sat, 14 Mar 2026 18:01:01 GMT | 10 symptoms your TypeScript SDK is leaking unsafe defaults | Yamishift | [Read More](https://medium.com/p/ed7c08822485) |
-| Sat, 14 Mar 2026 17:57:14 GMT | Introduction to Ethical Hacking | TechyJaunt | [Read More](https://medium.com/p/8778c87011e5) |
-| Sat, 14 Mar 2026 17:51:29 GMT | What Is an Access Control System? A Complete Beginner’s Guide | Goldline Security Systems | [Read More](https://medium.com/p/cd5bc648be5c) |
-| Sat, 14 Mar 2026 17:41:12 GMT | Week 2 of Cyber Security Learning | Muhammad Uzair | [Read More](https://medium.com/p/2ebcb2bf4c76) |
-| Sat, 14 Mar 2026 17:29:24 GMT | Kendi PaaS Altyapımızı Kuruyoruz: Sıfırdan Canlı Ortama (Bölüm 0: Giriş) | Muhammet İkbal Yakupoglu | [Read More](https://medium.com/p/c69f2edf2b0a) |
-| Sat, 14 Mar 2026 17:28:12 GMT | Vulnversity Walkthrough - Try Hack Me | Rogue | [Read More](https://medium.com/p/e226d820ef7d) |
-| Sat, 14 Mar 2026 17:24:16 GMT | Learning Network Monitoring with Nagios: A Practical Experience | Pedson Tayebwa | [Read More](https://medium.com/p/ca1d18dbed9a) |
-| Sat, 14 Mar 2026 17:18:48 GMT | Blue Team Capstone Project (IDN Networkers): Incident Investigation with Wazuh, Wireshark, and… | FAIZ AIDIL BAIHAQI | [Read More](https://medium.com/p/6d9ab4e035e2) |
-| Sat, 14 Mar 2026 17:18:46 GMT | The Dangerous Illusion: Why Most Companies Think They Are Secure (But Aren’t) | Alexis Medina | [Read More](https://medium.com/p/5f8e585ab7ab) |
-| Sat, 14 Mar 2026 17:15:49 GMT | “Leveling Up: Building a Subdomain Scanner in Python for Bug Bounty Hunting” | Akhilswami | [Read More](https://medium.com/p/8bf32ecafb14) |
-| Sat, 14 Mar 2026 17:14:25 GMT | TryHackMe Pickle Rick Walkthrough | Swathykrishna | [Read More](https://medium.com/p/538a2632fc0a) |
-| Sat, 14 Mar 2026 17:09:26 GMT | Work, Dignity, and Economic Agency | Adrian Daisley | [Read More](https://medium.com/p/67009f1c617e) |
-| Sat, 14 Mar 2026 17:07:05 GMT | Global Cybercrime Crackdown Disables 45,000 Malicious IPs Powering Ransomware and Phishing Attacks | Chetan Seripally | [Read More](https://medium.com/p/6f29782acdab) |
-| Sat, 14 Mar 2026 17:02:12 GMT | What is LLM Testing? | Vibe Security | [Read More](https://medium.com/p/3a424e627ee6) |
-| Sat, 14 Mar 2026 16:43:57 GMT | Archimate Next. | Mohammed Brückner | [Read More](https://medium.com/p/bda8e8001c46) |
-| Sat, 14 Mar 2026 16:36:46 GMT | I Passed the Certified Network Pentester (CNPen) Exam - Here’s My Honest Experience | Pratham Shah | [Read More](https://medium.com/p/842a928bc95e) |
-| Sat, 14 Mar 2026 16:36:25 GMT | Inside an OSINT Investigation: How Researchers Analyze Twitter Accounts | Peter Anderson | [Read More](https://medium.com/p/a3daf6e70934) |
-| Sat, 14 Mar 2026 16:27:08 GMT | Intro to the Mr. Robot Simulation | Allen Ace | [Read More](https://medium.com/p/cb1b5393cd7d) |
-| Sat, 14 Mar 2026 16:20:58 GMT | Web-ID Global Guard | Georgesmalki | [Read More](https://medium.com/p/5d4306763ac6) |
