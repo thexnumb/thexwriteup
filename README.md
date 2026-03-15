@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Mar 2026 17:21:51 GMT | When a Composite Checkout Keeps Pricing From a State That No Longer Exists | sin99xx | [Read More](https://medium.com/p/edffe47cba64) |
+| Sun, 15 Mar 2026 17:19:34 GMT | “Hunting Hidden Files: Coding a Directory Buster in Python” | Akhilswami | [Read More](https://medium.com/p/219378a38729) |
+| Sun, 15 Mar 2026 17:16:00 GMT | Researchers Found 25 Ways Your Password Manager Can Betray You. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/5afc4ed32086) |
+| Sun, 15 Mar 2026 17:10:59 GMT | The Deployment Door Nobody Checked: How a Logic Flaw Bypassed Cloud Authentication Entirely | R.H Rizvi | [Read More](https://medium.com/p/07a329aefed3) |
+| Sun, 15 Mar 2026 17:10:35 GMT | The Beginner’s Bug Bounty Trap: Why Learning More Is Making You Earn Less | R.H Rizvi | [Read More](https://medium.com/p/0676f46adfb7) |
+| Sun, 15 Mar 2026 17:05:11 GMT | PicoCTF 2019 Writeup: Memecahkan Tantangan “dont-use-client-side” (Web Exploitation) | Malvin Wijaya | [Read More](https://medium.com/p/fef91a32cc5a) |
+| Sun, 15 Mar 2026 17:03:13 GMT | How Hydra Works: A Beginner’s Guide for Ethical Hackers | Mahidul Haque | [Read More](https://medium.com/p/d243bbceed38) |
+| Sun, 15 Mar 2026 16:57:37 GMT | Top IT Companies in Oman: The Complete 2026 Guide | hardin s | [Read More](https://medium.com/p/361f4757ec96) |
+| Sun, 15 Mar 2026 16:54:45 GMT | The Guide to Penetration Testing: Methodologies, Reconnaissance, and Tools | Gauravdahala | [Read More](https://medium.com/p/082eaf1d9ee9) |
+| Sun, 15 Mar 2026 16:49:59 GMT | Cracking the Code: The Human Strategy Behind Landing Your Cybersecurity Dream Job | The Daily Cyber News | [Read More](https://medium.com/p/6bf7d6a61bf2) |
+| Sun, 15 Mar 2026 16:47:29 GMT | The 5 Pillars of Information Security: A Comprehensive Guide | Mahadevan Varadhan | [Read More](https://medium.com/p/581436d3ebbb) |
+| Sun, 15 Mar 2026 16:45:35 GMT | Web Security Series #4 — Discovering Unauthorized Resources via IDOR (Burp Suite & ffuf) | Laibakashif | [Read More](https://medium.com/p/bd878726f8a2) |
+| Sun, 15 Mar 2026 16:41:59 GMT | I Got My Cybersecurity Skills Assessed. Here’s What the Data Said About Me. | Namwone Brenda Tabitha | [Read More](https://medium.com/p/5e282a3689a4) |
+| Sun, 15 Mar 2026 16:40:23 GMT | Social Engineering: Why Humans Are the Weakest Link in Cybersecurity | Nitin Kumar Patel | [Read More](https://medium.com/p/71a5234c6f16) |
+| Sun, 15 Mar 2026 16:34:25 GMT | The OWASP Top 10 in 2026: New Vulnerabilities Every Full-Stack Developer Must Know | Arnav Pyrell | [Read More](https://medium.com/p/497f47c5b21e) |
+| Sun, 15 Mar 2026 16:30:23 GMT | The MOVEit Transfer Cyberattack: One of the Most Dangerous Supply-Chain Attacks in Recent Years | Majji pradeep kumar | [Read More](https://medium.com/p/c0ff956aac35) |
+| Sun, 15 Mar 2026 16:29:49 GMT | Nmap Reconnaissance on Vulnversity — A Beginner Friendly Walkthrough | Zahid (Cybersecurity Student) | [Read More](https://medium.com/p/f6fce73a7caa) |
 | Sun, 15 Mar 2026 16:26:52 GMT | Nobody noticed the most important thing at MWC 2026! | The Interface | [Read More](https://medium.com/p/b48afdd4af95) |
 | Sun, 15 Mar 2026 16:16:38 GMT | Inside the Vietnam National Innovation Center (NIC): Quantum Tech, UAVs, and the Future of… | #intention's | [Read More](https://medium.com/p/f59e840e111c) |
 | Sun, 15 Mar 2026 16:16:20 GMT | Ransomware 3.0: How Threat Actors Are Moving from Encryption to “Triple Extortion” | Akash Deep | [Read More](https://medium.com/p/08ec3126f095) |
@@ -64,6 +81,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Mar 2026 13:14:06 GMT | Defeating enemy no. 1 - How to design your API endpoint to fight BOLA vulnerabilities. | Cyberbali | [Read More](https://medium.com/p/ca0733355c44) |
 | Sun, 15 Mar 2026 13:12:42 GMT | Your AI wrote the code. Nobody checked if it’s safe. | Support | [Read More](https://medium.com/p/dc0bec2c876a) |
 | Sun, 15 Mar 2026 13:07:46 GMT | API Security Testing on VAPI: Identifying OWASP API Top 10 Vulnerabilities in a Lab Environment | Cyb3rzee | [Read More](https://medium.com/p/67d69ec0f3ce) |
+| Sun, 15 Mar 2026 13:06:34 GMT | Strategic Industrial Cyber Warfare Analysis | Muhammad Ali Khan | [Read More](https://medium.com/p/3152de495362) |
 | Sun, 15 Mar 2026 13:00:19 GMT | How Kinetic Strikes Opened the Door to Cyber and Influence War | SIMKRA | [Read More](https://medium.com/p/c962c615101b) |
 | Sun, 15 Mar 2026 12:50:34 GMT | Stop Playing Bouncer with IPs: IBM COS + Context Based Restrictions is the Upgrade You Needed | Yash Soni | [Read More](https://medium.com/p/3805b41e5e23) |
 | Sun, 15 Mar 2026 12:49:28 GMT | Unlock The Fortress | Learn With Hatty | [Read More](https://medium.com/p/e52d9fa73ff8) |
@@ -79,6 +97,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Mar 2026 12:12:30 GMT | Why Inclusive Tech Education Is the Future — And How Code Inclusive Is Leading the Change | Peter Arkwright | [Read More](https://medium.com/p/b2da27f665f8) |
 | Sun, 15 Mar 2026 12:09:48 GMT | NIS2 and the Efficiency Paradox: Why We Need a Registry for Security Assessments by Max Kristmann | Max Kristmann | [Read More](https://medium.com/p/da578511ba96) |
 | Sun, 15 Mar 2026 12:05:54 GMT | ZSXLXH Review: Systemic Verification and Legitimacy | ZSXLXH | [Read More](https://medium.com/p/a596fd25db1a) |
+| Sun, 15 Mar 2026 12:03:31 GMT | How I use the Sudoku Board to easily explain Network Segmentation, especially (VLAN and… | Brainart | [Read More](https://medium.com/p/c4486be10ae9) |
 | Sun, 15 Mar 2026 12:02:01 GMT | Why AI governance dashboards fail without evidence links | The AI Regulator | [Read More](https://medium.com/p/d3181d3ce87c) |
 | Sun, 15 Mar 2026 12:01:25 GMT | Cybersecurity Courses in Kerala: Opportunities &amp; Institutions | cyber tech | [Read More](https://medium.com/p/09fe7e285558) |
 | Sun, 15 Mar 2026 11:58:26 GMT | Auth in the Query String - and How We Moved Out | Naniwet M | [Read More](https://medium.com/p/b67a1e762f0a) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Mar 2026 11:21:55 GMT | PwnedLabs: Azure Recon to Foothold and Profit | Persecure | [Read More](https://medium.com/p/7d3fd1daf4d5) |
 | Sun, 15 Mar 2026 11:18:33 GMT | Hackers Can Guess Your Weak Password in Seconds | CyberRise Institute | [Read More](https://medium.com/p/5efead97a097) |
 | Sun, 15 Mar 2026 11:14:38 GMT | Local File Inclusion (LFI) in Leave Application System (PHP & SQLite3) | Hemant Raj Bhati | [Read More](https://medium.com/p/4e095bb7ee40) |
-| Sun, 15 Mar 2026 11:11:00 GMT | INE eJPT Cheat Sheet - By Elmehdi LAASSIRI | Elmehdi Laassiri | [Read More](https://medium.com/p/acb0993c8b6e) |
-| Sun, 15 Mar 2026 10:59:18 GMT | TryHackMe — Capture! — Bash Script | Avshivapriyan | [Read More](https://medium.com/p/a5acc2c839e7) |
-| Sun, 15 Mar 2026 10:56:15 GMT | DNS: İnternetin Görünməyən Arxitekturası və Onun Təhlükəsizliyi | Behbud Behbudov | [Read More](https://medium.com/p/d62ba5cd094a) |
-| Sun, 15 Mar 2026 10:55:44 GMT | Role Management Logic Bug Leads to Unlimited Resource Access | Abdulrahman Reda | [Read More](https://medium.com/p/ddcb648534d2) |
-| Sun, 15 Mar 2026 10:55:08 GMT | The Invisible Eye: Exploring Social Engineering & Camera Vulnerabilities | Zainab Noor | [Read More](https://medium.com/p/a232bd6aa570) |
-| Sun, 15 Mar 2026 10:46:08 GMT | From One Insta Account to a Family Network and Dozens of Social Profiles : An OSINT Writeup #8 | Kurious Kakashi | [Read More](https://medium.com/p/933459b445bf) |
-| Sun, 15 Mar 2026 10:45:28 GMT | Ethics of Reconnaissance in Ethical Hacking -The Art of Knowing Before Striking | Khushi Jain | [Read More](https://medium.com/p/41e1ba538b1d) |
-| Sun, 15 Mar 2026 10:45:09 GMT | 10,000 NTLM hashes, 3.5 hours, 90% cracked — here’s what the passwords looked like | HashCrack | [Read More](https://medium.com/p/994751d7b1d9) |
-| Sun, 15 Mar 2026 10:44:31 GMT | Stored Cross-Site Scripting (XSS) in PHP Leave Application System | Hemant Raj Bhati | [Read More](https://medium.com/p/3260c881a1fa) |
-| Sun, 15 Mar 2026 10:41:27 GMT | AirSnitch & Wi-Fi Client Isolation Issues | Salim Amine Bou Aram | [Read More](https://medium.com/p/a4611da9477a) |
-| Sun, 15 Mar 2026 10:19:48 GMT | Kendi PaaS Altyapımızı Kuruyoruz (Bölüm 1): Sunucu Seçimi, Temel Güvenlik ve Tailscale | Muhammet İkbal Yakupoglu | [Read More](https://medium.com/p/83ce006dc08b) |
-| Sun, 15 Mar 2026 10:18:46 GMT | From Back Orifice to the Lobster: OpenClaw and the Return of the Remote Access Trojan | Izu Capybara | [Read More](https://medium.com/p/074080d12dde) |
-| Sun, 15 Mar 2026 10:17:08 GMT | Penetration Testing Methodology | Gaurav Pratap Malla | [Read More](https://medium.com/p/0c698cf91efb) |
-| Sun, 15 Mar 2026 10:14:39 GMT | Chrome 146 Security Update: What Teams Must Verify | Pentest_Testing_Corp | [Read More](https://medium.com/p/1d32d481140f) |
-| Sun, 15 Mar 2026 10:13:28 GMT | Instagram Is Dropping Encrypted DMs. That Should Worry More People Than It Will. | RVwv.B | [Read More](https://medium.com/p/b5f7563895cb) |
-| Sun, 15 Mar 2026 10:03:53 GMT | How to Build an AI Payload Generator with Python & Ollama | jensbecker-dev | [Read More](https://medium.com/p/d31293c83d38) |
-| Sun, 15 Mar 2026 10:01:01 GMT | GRC Cybersecurity Careers: A Practical Guide for Non-Technical Professionals | Victoria Coker | [Read More](https://medium.com/p/4fb63b4d2ab2) |
-| Sun, 15 Mar 2026 09:56:18 GMT | How Bug Bounty Hunters Prioritize 10,000 Recon Targets (Without Losing Their Mind) | Fateyaly | [Read More](https://medium.com/p/57dede9ca39f) |
-| Sun, 15 Mar 2026 09:56:00 GMT | A Brutal Truth: Most “Policies” Aren’t Policies | Gaurav Shukla | [Read More](https://medium.com/p/5f78a32b254c) |
