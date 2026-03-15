@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Mar 2026 23:09:31 GMT | AI-Readiness: Why Your Strategy Will Fail Without API Security | Akansha Shukla | [Read More](https://medium.com/p/d19208108b5e) |
+| Sun, 15 Mar 2026 23:04:48 GMT | Is Your Small Business a Hacker’s Next Target? | Lisa Zander | [Read More](https://medium.com/p/5ec949f3286a) |
+| Sun, 15 Mar 2026 22:40:37 GMT | Bir CMS Kabusu: CVE-2023–27372 ile SPIP Üzerinde Uzaktan Kod Çalıştırma (RCE) | Erdem Ceylan | [Read More](https://medium.com/p/bf72c868d223) |
+| Sun, 15 Mar 2026 22:39:31 GMT | PowerShell Keylogger - LetsDefend Challenge | Stefan Bargan | [Read More](https://medium.com/p/75b08c2e5a07) |
+| Sun, 15 Mar 2026 22:37:35 GMT | CyCTF Luxor - monster | Mohamed Tarek | [Read More](https://medium.com/p/fa64e0de4dcd) |
+| Sun, 15 Mar 2026 22:36:44 GMT | Why Your AI Agent Will Eventually Be Manipulated | Subhransu S Nayak | [Read More](https://medium.com/p/1ce041814628) |
+| Sun, 15 Mar 2026 22:36:33 GMT | Preventing Identity and Privilege Abuse in AI Agents | Will Velida | [Read More](https://medium.com/p/e2ea7478bc22) |
+| Sun, 15 Mar 2026 22:29:12 GMT | Preventing Tool Misuse in AI Agents | Will Velida | [Read More](https://medium.com/p/4b0d033ebd4f) |
 | Sun, 15 Mar 2026 22:21:39 GMT | Capstone Project: End-to-End Web Attack Investigation with Wazuh, Wireshark, and Volatility | Allif Maulana Sakti | [Read More](https://medium.com/p/98cc372fc0a4) |
 | Sun, 15 Mar 2026 22:08:32 GMT | Cy CTF Luxor Reverse Write-up 2026 | VampireXRay | [Read More](https://medium.com/p/cd204e7a2c81) |
 | Sun, 15 Mar 2026 22:05:56 GMT | From Home to the Hub: Why I Chose Singapore for My Master’s in Cybersecurity | Linda | [Read More](https://medium.com/p/8e2da228d6cb) |
@@ -26,6 +34,7 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Mar 2026 21:15:10 GMT | BashBard: The AI-Native Terminal That Thinks Before You Execute | Khafagy | [Read More](https://medium.com/p/68091f97255f) |
 | Sun, 15 Mar 2026 21:13:12 GMT | Kaspersky Tejas issue solved | Mahim Avi | [Read More](https://medium.com/p/392a64503bc4) |
 | Sun, 15 Mar 2026 21:11:02 GMT | Hardening with CIS: My “Boring” Security Baseline | byteGirl | [Read More](https://medium.com/p/c0f506f8a68a) |
+| Sun, 15 Mar 2026 21:05:28 GMT | My Week 5 Takeaways from “Begin Ethical Hacking with Python” by Sanjib Sinha(Part V) | Kalkidan | [Read More](https://medium.com/p/e590c3ee79d5) |
 | Sun, 15 Mar 2026 21:03:38 GMT | picoCTF Write-up: Flag in Flame (Forensics) | Sriman kundu | [Read More](https://medium.com/p/832926b76b51) |
 | Sun, 15 Mar 2026 21:01:00 GMT | Unfiltered Restart — Day 27: Windows Settings + Real Networking | Maximillian Rueda | [Read More](https://medium.com/p/0fc950c3e57f) |
 | Sun, 15 Mar 2026 20:57:08 GMT | Android Content Provider Security: Exploiting Non-Exported Providers (Pentester Deep Dive — Part 3) | Mustafa Mohamed | [Read More](https://medium.com/p/2c3fe39d9863) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Mar 2026 16:09:54 GMT | Business Analyst P.5: Requirement Life Cycle Management | Fachry Andika Rachman | [Read More](https://medium.com/p/c242353c9dc6) |
 | Sun, 15 Mar 2026 16:05:43 GMT | The Human Firewall: Why Employee Training Is Your Strongest Defense Against AI-Powered Phishing | Sidharth Barman | [Read More](https://medium.com/p/0b25b4fd405b) |
 | Sun, 15 Mar 2026 16:03:01 GMT | Before You Hack Anything, You Have to Know Everything: A Beginner’s Guide to Information Gathering… | AashishChaudhari | [Read More](https://medium.com/p/e6720e412d26) |
-| Sun, 15 Mar 2026 15:57:40 GMT | The girl in the snow | Ardanna | [Read More](https://medium.com/p/ddf69bfc9e26) |
-| Sun, 15 Mar 2026 15:56:19 GMT | The Air-Gapped Chronicles: The Silent War — When Training Data Becomes a Weapon | Piyoosh Rai | [Read More](https://medium.com/p/5f846811272d) |
-| Sun, 15 Mar 2026 15:52:40 GMT | SameSite Lax Bypass via Method Override | Bash Overflow | [Read More](https://medium.com/p/3daa328b0ee6) |
-| Sun, 15 Mar 2026 15:50:42 GMT | AI Agents in Cybersecurity: What They Are, How They Work, and Where They’re Headed | Ugur Ates | [Read More](https://medium.com/p/cf4f9f8a25d8) |
-| Sun, 15 Mar 2026 15:47:45 GMT | HIPAA Was Written in 1996. The Hole Is Not a Bug. | Mary Womack | [Read More](https://medium.com/p/a3a25af18e43) |
-| Sun, 15 Mar 2026 15:47:23 GMT | Active Directory Attack: Kerberoasting by Mert Baykal | Mert Baykal | [Read More](https://medium.com/p/58b2cce0062b) |
-| Sun, 15 Mar 2026 15:45:22 GMT | Running OpenVAS Is Easy. Managing Vulnerabilities Is Not. | Jesus Hurtado | [Read More](https://medium.com/p/7aa6995e7db2) |
-| Sun, 15 Mar 2026 15:28:03 GMT | RuView: The Open-Source System That Sees Through Walls With WiFi. Lucius Fox Would Resign Again | Sage Khan | [Read More](https://medium.com/p/0ef1262f40e4) |
-| Sun, 15 Mar 2026 15:09:37 GMT | FastAPI Authentication with JWT (Complete Secure API Guide) | Amolkharat | [Read More](https://medium.com/p/8e10008ca85d) |
