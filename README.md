@@ -12,8 +12,19 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Mar 2026 09:36:03 GMT | DNS Pentesting Guide: How Hackers Exploit Port 53 (Zone Transfers, Subdomain Bruteforce & More) | Very Lazy Tech | [Read More](https://medium.com/p/c3580761cdef) |
+| Sun, 15 Mar 2026 09:32:27 GMT | Week 4 Final Project-Cyberwarfare Labs | Artha Bangkit Auliano | [Read More](https://medium.com/p/7761b5aab2d6) |
+| Sun, 15 Mar 2026 09:31:11 GMT | SPKI and the Real Network Edge: Choosing TLS Termination in Enterprise Architecture | Mark Solo | [Read More](https://medium.com/p/d3f8df224939) |
+| Sun, 15 Mar 2026 09:28:35 GMT | I Built an AI That Breaks AI — Here’s What I Found | Alexander Mogilin | [Read More](https://medium.com/p/e05bbd929839) |
+| Sun, 15 Mar 2026 09:13:04 GMT | Cloud Computing: Benefits and Limitations Every Organization Should Understand | Swapnali Gavali | [Read More](https://medium.com/p/5dd197870863) |
+| Sun, 15 Mar 2026 09:04:02 GMT | Why Every Career in Technology Now Requires AI Integration | Manulacooray | [Read More](https://medium.com/p/9079c45fb476) |
+| Sun, 15 Mar 2026 09:00:47 GMT | Network Reconnaissance & Exploitation Using Nmap and Metasploit | Solankishubham | [Read More](https://medium.com/p/f1d2185a1af7) |
+| Sun, 15 Mar 2026 08:55:13 GMT | Using White Rabbit Neo to Analyze Bug Bounty Recon Data | ghostyjoe | [Read More](https://medium.com/p/4230cd2f9ab6) |
+| Sun, 15 Mar 2026 08:54:24 GMT | 10 Powerful MSFVenom Payloads Every Ethical Hacker Should Understand | ghostyjoe | [Read More](https://medium.com/p/193e23dec795) |
+| Sun, 15 Mar 2026 08:52:25 GMT | Dancing with the Absurd: What Distributed Systems Taught Me About Technology, Leadership, and the… | Bibhu Ashish Panda | [Read More](https://medium.com/p/6d293f22b01f) |
 | Sun, 15 Mar 2026 08:31:03 GMT | Building an AI-Powered Pentesting Workflow with Burp MCP and GitHub Copilot | Br0wn$t4n | [Read More](https://medium.com/p/ecd6cfb8e642) |
 | Sun, 15 Mar 2026 08:30:15 GMT | OpenClaw AI Security Risks Are Getting Real: How Prompt Injection and Data Exfiltration Could Turn… | Germano Costi | [Read More](https://medium.com/p/cbba5003eab3) |
+| Sun, 15 Mar 2026 08:28:24 GMT | Agentic Security Patterns from Elite Teams: A Field Guide to OWASP Top 10 | Agent Native | [Read More](https://medium.com/p/a3a515bc2e69) |
 | Sun, 15 Mar 2026 08:26:38 GMT | IP Address: The Logical Address That Connects Devices Across Networks | Ndu | [Read More](https://medium.com/p/ada0a179707f) |
 | Sun, 15 Mar 2026 08:16:03 GMT | Phishing & Quishing 2025: AI-Generated Emails + QR Code Attacks | Ahmed Fouad Kadhim | [Read More](https://medium.com/p/3c935b2cb202) |
 | Sun, 15 Mar 2026 08:11:04 GMT | Password Cracking 2025: How Fast Can AI + GPUs Break Your Password? | Ahmed Fouad Kadhim | [Read More](https://medium.com/p/6d96dd9b46c0) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sat, 14 Mar 2026 22:19:03 GMT | WebNet0.. picoCTF | Configx | [Read More](https://medium.com/p/127658e2c8c2) |
 | Sat, 14 Mar 2026 22:16:00 GMT | Ransomware Explained: What It Actually Does to Your Business (And How to Survive It) | Sharon Martin | [Read More](https://medium.com/p/cc51915e51c5) |
 | Sat, 14 Mar 2026 22:13:22 GMT | Creating a Bayesian Behavioral Detector in Google SecOps (pt 3) | Greg Kushmerek | [Read More](https://medium.com/p/90868b1690b1) |
-| Sat, 14 Mar 2026 22:08:34 GMT | OSINT SIGNALS: Before the Rug Pulls, the Internet Already Knew | Berend Watchus | [Read More](https://medium.com/p/169c0dc2a39c) |
-| Sat, 14 Mar 2026 21:57:23 GMT | How We Built a Webcam Vulnerability Demo for Our Information Security Course | Anwarabbas | [Read More](https://medium.com/p/8bb12d0aae96) |
-| Sat, 14 Mar 2026 21:49:18 GMT | What I’ve learned after building several AI agents | Ihor Sasovets | [Read More](https://medium.com/p/ca9941f66c86) |
-| Sat, 14 Mar 2026 21:48:04 GMT | CyCTF Luxor Writeup: pingpong (Pwn) | Pwnxr777 | [Read More](https://medium.com/p/1a00937458e0) |
-| Sat, 14 Mar 2026 21:42:31 GMT | HTB Bounty: File Upload to System via Chimichurri | Onurcan Genç | [Read More](https://medium.com/p/928edc342b0a) |
-| Sat, 14 Mar 2026 21:40:53 GMT | From Firewall Identity to Workload Identity: Completing the Platform Loop | Salwan Mohamed | [Read More](https://medium.com/p/096866f31090) |
-| Sat, 14 Mar 2026 21:31:27 GMT | Active Directory for Pentesters — Part 1: Understanding the Basics | Azzam Mohammed (WHHacker) | [Read More](https://medium.com/p/608ac28ebe7d) |
-| Sat, 14 Mar 2026 21:11:22 GMT | When Your Firewall Doesn’t Know Who You Are | Salwan Mohamed | [Read More](https://medium.com/p/accaf124f5f0) |
-| Sat, 14 Mar 2026 21:10:33 GMT | “Your Phone is a Hot Wallet”: Upgrading Your Solana Seeker to Multisig | jimthereaper | [Read More](https://medium.com/p/f5352e56f44e) |
-| Sat, 14 Mar 2026 21:05:57 GMT | Weekly Cyber Threat Bulletin: 12 March 2026 | Marcelle Lee | [Read More](https://medium.com/p/cefba27d495c) |
-| Sat, 14 Mar 2026 21:01:00 GMT | Unfiltered Restart — Day 26: Windows Control Panel | Maximillian Rueda | [Read More](https://medium.com/p/add2b10ebede) |
