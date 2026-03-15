@@ -12,6 +12,14 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Mar 2026 18:32:05 GMT | Mastering Git: What I Learned (Part 1) | Mawira Victor | [Read More](https://medium.com/p/05c6323b7aeb) |
+| Sun, 15 Mar 2026 18:31:49 GMT | Impact of Cyberspace Communication on Our Lives | Samikshasingh | [Read More](https://medium.com/p/0bcc6edd72bc) |
+| Sun, 15 Mar 2026 18:30:15 GMT | Python for Cybersecurity in 2026 — The Skills Every Developer Needs Before It’s Too Late | Er.Muruganantham | [Read More](https://medium.com/p/0c0a550082d0) |
+| Sun, 15 Mar 2026 18:26:17 GMT | 5 Signs Your Freelance Laptop Has Been Hacked (And What to Do Right Now) | Manahil Shahzadi | [Read More](https://medium.com/p/7a87e384cc4c) |
+| Sun, 15 Mar 2026 18:09:20 GMT | Defenders think in lists. Attackers think in graphs. | h@shtalk | [Read More](https://medium.com/p/7650433240d5) |
+| Sun, 15 Mar 2026 18:07:45 GMT | Hybrid AI in Cybersecurity: The Convergence of Agentic AI, Generative AI, and Traditional AI | Dr Indrajit Mandal | [Read More](https://medium.com/p/d2317730bb24) |
+| Sun, 15 Mar 2026 18:01:01 GMT | Before They Hack You, They Study You: The Art of Information Gathering in Penetration Testing | Rishav kumar Thapa | [Read More](https://medium.com/p/fade3c90683a) |
+| Sun, 15 Mar 2026 17:54:26 GMT | Secure by Design: Why Cyber Security Is Just Like Protecting Your Home | Patrick Welch | [Read More](https://medium.com/p/6b9c1bf1387b) |
 | Sun, 15 Mar 2026 17:46:05 GMT | METASPLOITABLE2 | Rahulks | [Read More](https://medium.com/p/3be5fd09d47b) |
 | Sun, 15 Mar 2026 17:42:22 GMT | CTF — A practice ground for hackers | Zero Space by Prince Patel | [Read More](https://medium.com/p/95bf80b8cd74) |
 | Sun, 15 Mar 2026 17:41:00 GMT | How I Found Dependency Confusion Vulnerabilities in Public GitHub Repositories | Sidhanta Palei | [Read More](https://medium.com/p/70618f7c69f9) |
@@ -104,11 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Mar 2026 12:20:13 GMT | OverTheWire Bandit Walkthrough — Level 2 → 3 - 30-Day Cybersecurity Learning Journey (Day 3) | William | [Read More](https://medium.com/p/71f7c87bf9fe) |
 | Sun, 15 Mar 2026 12:19:17 GMT | From HR to Cybersecurity: Beginning a New Learning Journey | Himanik | [Read More](https://medium.com/p/63ac0d880b85) |
 | Sun, 15 Mar 2026 12:13:19 GMT | Weekly Journal Minggu ke 1 — WGTIK | Zackypermana | [Read More](https://medium.com/p/b9d20c97fe3f) |
-| Sun, 15 Mar 2026 12:12:50 GMT | Bots, CAPTCHA & Cybersecurity: The Never-Ending Arms Race | Shimalka Yohan | [Read More](https://medium.com/p/f38f56805d48) |
-| Sun, 15 Mar 2026 12:12:30 GMT | Why Inclusive Tech Education Is the Future — And How Code Inclusive Is Leading the Change | Peter Arkwright | [Read More](https://medium.com/p/b2da27f665f8) |
-| Sun, 15 Mar 2026 12:09:48 GMT | NIS2 and the Efficiency Paradox: Why We Need a Registry for Security Assessments by Max Kristmann | Max Kristmann | [Read More](https://medium.com/p/da578511ba96) |
-| Sun, 15 Mar 2026 12:05:54 GMT | ZSXLXH Review: Systemic Verification and Legitimacy | ZSXLXH | [Read More](https://medium.com/p/a596fd25db1a) |
-| Sun, 15 Mar 2026 12:03:31 GMT | How I use the Sudoku Board to easily explain Network Segmentation, especially (VLAN and… | Brainart | [Read More](https://medium.com/p/c4486be10ae9) |
-| Sun, 15 Mar 2026 12:02:01 GMT | Why AI governance dashboards fail without evidence links | The AI Regulator | [Read More](https://medium.com/p/d3181d3ce87c) |
-| Sun, 15 Mar 2026 12:01:25 GMT | Cybersecurity Courses in Kerala: Opportunities &amp; Institutions | cyber tech | [Read More](https://medium.com/p/09fe7e285558) |
-| Sun, 15 Mar 2026 11:58:26 GMT | Auth in the Query String - and How We Moved Out | Naniwet M | [Read More](https://medium.com/p/b67a1e762f0a) |
