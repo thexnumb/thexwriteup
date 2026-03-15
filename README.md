@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Sun, 15 Mar 2026 17:46:05 GMT | METASPLOITABLE2 | Rahulks | [Read More](https://medium.com/p/3be5fd09d47b) |
+| Sun, 15 Mar 2026 17:42:22 GMT | CTF — A practice ground for hackers | Zero Space by Prince Patel | [Read More](https://medium.com/p/95bf80b8cd74) |
+| Sun, 15 Mar 2026 17:41:00 GMT | How I Found Dependency Confusion Vulnerabilities in Public GitHub Repositories | Sidhanta Palei | [Read More](https://medium.com/p/70618f7c69f9) |
+| Sun, 15 Mar 2026 17:40:45 GMT | CVE-2026–0866: Zombie ZIP Technique to Evade AVs and upload malware on systems | Bazil Brohi | [Read More](https://medium.com/p/791938c859dc) |
+| Sun, 15 Mar 2026 17:39:10 GMT | Subnetting: How Networks Are Divided for Efficient Communication | Ndu | [Read More](https://medium.com/p/9b6e54fdd93d) |
+| Sun, 15 Mar 2026 17:38:46 GMT | “Building a Web Scraper in Python to Extract Emails for OSINT” | Akhilswami | [Read More](https://medium.com/p/6c919c25d1d4) |
+| Sun, 15 Mar 2026 17:36:42 GMT | What Would You Do with ListMinion.com? | Tessa Schlesinger - A systems thinker. | [Read More](https://medium.com/p/a42669eca3ec) |
+| Sun, 15 Mar 2026 17:33:07 GMT | Why I’m leaving Medium and what true sovereignty looks like | Jose Saiz | [Read More](https://medium.com/p/e781fd51349e) |
+| Sun, 15 Mar 2026 17:27:50 GMT | Is Someone Secretly Whispering Into Your AI’s Ear? | Faseela Nahas | [Read More](https://medium.com/p/9094a0c20728) |
+| Sun, 15 Mar 2026 17:26:17 GMT | Instagram Ending Encrypted DMs: Privacy, Investigations, and the AI Data Question | Hitesh Said | [Read More](https://medium.com/p/fd9ec742baa7) |
+| Sun, 15 Mar 2026 17:25:46 GMT | SCP — Secure Copy | Mahidul Haque | [Read More](https://medium.com/p/1392bac1ef87) |
 | Sun, 15 Mar 2026 17:21:51 GMT | When a Composite Checkout Keeps Pricing From a State That No Longer Exists | sin99xx | [Read More](https://medium.com/p/edffe47cba64) |
 | Sun, 15 Mar 2026 17:19:34 GMT | “Hunting Hidden Files: Coding a Directory Buster in Python” | Akhilswami | [Read More](https://medium.com/p/219378a38729) |
 | Sun, 15 Mar 2026 17:16:00 GMT | Researchers Found 25 Ways Your Password Manager Can Betray You. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/5afc4ed32086) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Mar 2026 12:02:01 GMT | Why AI governance dashboards fail without evidence links | The AI Regulator | [Read More](https://medium.com/p/d3181d3ce87c) |
 | Sun, 15 Mar 2026 12:01:25 GMT | Cybersecurity Courses in Kerala: Opportunities &amp; Institutions | cyber tech | [Read More](https://medium.com/p/09fe7e285558) |
 | Sun, 15 Mar 2026 11:58:26 GMT | Auth in the Query String - and How We Moved Out | Naniwet M | [Read More](https://medium.com/p/b67a1e762f0a) |
-| Sun, 15 Mar 2026 11:56:00 GMT | The Hidden Fatigue of Consuming Too Much Information | Vipin Singh Bagri | [Read More](https://medium.com/p/eb45ed3827d8) |
-| Sun, 15 Mar 2026 11:46:04 GMT | CRA SBOM Requirements: What’s Mandated, What’s Optional, and What’s Still Unclear | CRA Decoded | [Read More](https://medium.com/p/6de9270666de) |
-| Sun, 15 Mar 2026 11:41:10 GMT | [Detection Engineering in My Home Lab] Series 1 ~Building 20+ Sigma Rules for Multi-Source Threat… | Takahiro Oda | [Read More](https://medium.com/p/614015b067e8) |
-| Sun, 15 Mar 2026 11:40:37 GMT | The First Attack Surface in Your Medical Device Isn’t the Cloud | Seun Runsewe | [Read More](https://medium.com/p/2bd43fb4f657) |
-| Sun, 15 Mar 2026 11:38:18 GMT | Recent Global Cyberattack: Telus Data Breach (2026) | Majji pradeep kumar | [Read More](https://medium.com/p/61bd112adcb5) |
-| Sun, 15 Mar 2026 11:38:14 GMT | Penetration Testing Methodologies: Information Gathering | Taksarip | [Read More](https://medium.com/p/5e26166cdf23) |
-| Sun, 15 Mar 2026 11:33:18 GMT | The One Microsoft 365 Setting That Prevents 99% of Account Hacks | Richard Beukes | [Read More](https://medium.com/p/819a6325311c) |
-| Sun, 15 Mar 2026 11:29:12 GMT | How I Found My First Bug on HackerOne | 0xAbhiSec | [Read More](https://medium.com/p/9abeba692a0d) |
-| Sun, 15 Mar 2026 11:21:55 GMT | PwnedLabs: Azure Recon to Foothold and Profit | Persecure | [Read More](https://medium.com/p/7d3fd1daf4d5) |
-| Sun, 15 Mar 2026 11:18:33 GMT | Hackers Can Guess Your Weak Password in Seconds | CyberRise Institute | [Read More](https://medium.com/p/5efead97a097) |
-| Sun, 15 Mar 2026 11:14:38 GMT | Local File Inclusion (LFI) in Leave Application System (PHP & SQLite3) | Hemant Raj Bhati | [Read More](https://medium.com/p/4e095bb7ee40) |
