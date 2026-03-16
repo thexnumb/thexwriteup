@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Mar 2026 18:49:29 GMT | Tetris Money Architecture: RUBT Pricing Mechanisms and Strict Compliance Principles | Tetris Money | [Read More](https://medium.com/p/2bee513efcaf) |
+| Mon, 16 Mar 2026 18:48:30 GMT | # IRAN CONFLICT 2026: The 3 SHOCKING Ways It’s Already Destroying Your Wallet (And What Mainstream… | Clwdtt | [Read More](https://medium.com/p/fbccbef8cf6d) |
+| Mon, 16 Mar 2026 18:43:13 GMT | The Door You Are Afraid to Open | Robert Rankin | [Read More](https://medium.com/p/b2a6e9c68783) |
+| Mon, 16 Mar 2026 18:41:00 GMT | Network Address Translation (NAT): How Private Networks Communicate with the Internet | Ndu | [Read More](https://medium.com/p/61094846cfef) |
+| Mon, 16 Mar 2026 18:36:08 GMT | Pyramid of Pain Nedir ? | Arda Kurada | [Read More](https://medium.com/p/429a202e895f) |
+| Mon, 16 Mar 2026 18:33:30 GMT | SPLUNK: STEP BY STEP APPROACH FROM FUNDAMENTALS TO SET-UP AND PRACTICALS | Ephraim Udoye | [Read More](https://medium.com/p/4fb3a356a8db) |
+| Mon, 16 Mar 2026 18:33:12 GMT | HTB Nibbles: File Upload to Root | Onurcan Genç | [Read More](https://medium.com/p/2c3dd62c91df) |
+| Mon, 16 Mar 2026 18:26:04 GMT | 7 DevSecOps Architecture Mistakes That Quietly Destroy Production Security | Rahul Goyal | [Read More](https://medium.com/p/ba0cc4794e66) |
+| Mon, 16 Mar 2026 18:25:43 GMT | Try Hack Me- Baron Samedit Walkthrough | PulseEinher | [Read More](https://medium.com/p/5c6a7dfd9da1) |
+| Mon, 16 Mar 2026 18:21:08 GMT | BlackPearl Walkthrough — Virtual Host Discovery & Navigate CMS RCE | Mohamed Yasser | [Read More](https://medium.com/p/6c06c31d77cc) |
+| Mon, 16 Mar 2026 18:18:36 GMT | Debugging False Positives in Static Analysis (SonarQube, AES/DES Example, and AI Fixes) | Mohit | [Read More](https://medium.com/p/91da7149835e) |
+| Mon, 16 Mar 2026 18:13:44 GMT | A Business Logic Bug That Let Me Remove Platform Fees During Checkout | Ashutosh Anand | [Read More](https://medium.com/p/ac96b7eb7959) |
+| Mon, 16 Mar 2026 18:12:49 GMT | One developer beat every major AI lab to consumer agents. Here’s how! | Grassroots Solutions Pvt Ltd | [Read More](https://medium.com/p/43ea074eec5c) |
+| Mon, 16 Mar 2026 18:05:08 GMT | xss0r V6 is Finally Released! | xss0r | [Read More](https://medium.com/p/7f620892512e) |
+| Mon, 16 Mar 2026 18:01:00 GMT | The Real AI Security Risk Is Permissions | Web3.com Ventures | [Read More](https://medium.com/p/a071ca603692) |
+| Mon, 16 Mar 2026 17:55:29 GMT | Still Missing Critical Pieces | Julien Simon | [Read More](https://medium.com/p/7a78077235e5) |
+| Mon, 16 Mar 2026 17:55:15 GMT | How to Detect Web Attacks: The Complete SOC Analyst Guide | abulenain | [Read More](https://medium.com/p/b551c9eda174) |
+| Mon, 16 Mar 2026 17:52:01 GMT | Understanding Browser Hardware Access: A Security Demonstration Using Web Technologies | Hajrahaseeb | [Read More](https://medium.com/p/c40662f8cdc4) |
+| Mon, 16 Mar 2026 17:49:09 GMT | Hiring an AI-Focused CIO: Ask the Right Questions | Michael McDonald | [Read More](https://medium.com/p/829c075401e2) |
+| Mon, 16 Mar 2026 17:48:24 GMT | Kali Linux | Hamid Aslanov | [Read More](https://medium.com/p/bb180111fb6c) |
+| Mon, 16 Mar 2026 17:47:56 GMT | Every Company Needs an AI-Focused CIO | Michael McDonald | [Read More](https://medium.com/p/0bfa08ee0455) |
+| Mon, 16 Mar 2026 17:37:58 GMT | Most Small Businesses Don’t Have a Security Plan. I’ve Seen What Happens Next | Building Security Services | [Read More](https://medium.com/p/81ba0d9b84c5) |
+| Mon, 16 Mar 2026 17:34:25 GMT | Most Technical Multilingual Prompt Injection: How Code-Switching Exposes LLM Guardrail… | Jaskirat Singh | [Read More](https://medium.com/p/bf989f75b361) |
 | Mon, 16 Mar 2026 17:32:48 GMT | Common Vulnerabilities Businesses Discover During Penetration Testing | Digital Defense | [Read More](https://medium.com/p/f16430784ca1) |
 | Mon, 16 Mar 2026 17:29:34 GMT | EU Cyber Resilience Act: What It Means for Your Codebase and How to Prepare | Eldor Zufarov | [Read More](https://medium.com/p/04d26a42f056) |
 | Mon, 16 Mar 2026 17:26:19 GMT | Is Your Webcam Spying on You? A Simple Webcam Demonstration | Hafsa Shahid | [Read More](https://medium.com/p/0d81f1a2be5f) |
@@ -89,26 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Mar 2026 12:59:13 GMT | This GitHub Repo Hacks Websites Automatically!!! | cybrNK | [Read More](https://medium.com/p/b3632e308a88) |
 | Mon, 16 Mar 2026 12:50:54 GMT | HTB Academy -API Attacks (Broken Authentication) Exercise Walkthrough | Farouq Nader Farouq Hassan | [Read More](https://medium.com/p/b18596320699) |
 | Mon, 16 Mar 2026 12:48:20 GMT | The SOC Analyst Roadmap Nobody Gives You (But Everyone Desperately Needs) | Motasem Hamdan | [Read More](https://medium.com/p/02175ce4f4bd) |
-| Mon, 16 Mar 2026 12:48:15 GMT | The Next.js Security Hardening Checklist: 12 Steps to Ship a Secure App | SecureStartKit | [Read More](https://medium.com/p/3cef1317b887) |
-| Mon, 16 Mar 2026 12:47:48 GMT | How I Built a Production-Grade HashiCorp Vault HA Cluster on AWS — A Beginner’s Complete Guide | Bhojeshwar Sahu | [Read More](https://medium.com/p/d826f8610dac) |
-| Mon, 16 Mar 2026 12:41:50 GMT | Introduction To Malware Development — NIR(1) | TheCyberNirvana | [Read More](https://medium.com/p/037ff50f3925) |
-| Mon, 16 Mar 2026 12:38:15 GMT | Wi-Fi Exploitation II — The Attacker’s Playbook | Ishant | [Read More](https://medium.com/p/e6a56c263c2f) |
-| Mon, 16 Mar 2026 12:32:10 GMT | The Bridge Over Shame: What Hard Conversations Taught Me About Recovery | Malynnda Stewart, PhD, BCPA | [Read More](https://medium.com/p/47188231b698) |
-| Mon, 16 Mar 2026 12:31:01 GMT | Building a Video Streaming Travel Bucket List App with AWS S3, React, and ImageKit | Tyrik Emptage | [Read More](https://medium.com/p/8668bb12d47b) |
-| Mon, 16 Mar 2026 12:26:54 GMT | HackOn CTF URJC: Explotación manual de una aplicación web | Ana Martínez Aguilar | [Read More](https://medium.com/p/ddb2fc306558) |
-| Mon, 16 Mar 2026 12:04:55 GMT | The Industrialization of Ransomware | David SEHYEON Baek | [Read More](https://medium.com/p/df5fe2fc0eac) |
-| Mon, 16 Mar 2026 12:01:20 GMT | DSP Consultants offers security master planning advisory for the current situation in the UAE | Info | [Read More](https://medium.com/p/498285ceae8b) |
-| Mon, 16 Mar 2026 11:52:05 GMT | Latest Cyber Security Threats: Critical Risks Every Organization Must Prepare For | cyber security Updates | [Read More](https://medium.com/p/66ea0c01e31f) |
-| Mon, 16 Mar 2026 11:51:10 GMT | Three Protocols Walk Into a Security Review. One of Them Caused a Breach. | Let's Talk Basics | [Read More](https://medium.com/p/1e5db255227d) |
-| Mon, 16 Mar 2026 11:44:11 GMT | Dismantling the Social Discovery Group System: When the Professional Façade Hides a Troubling… | AKUMAAYORI | [Read More](https://medium.com/p/8a075eb5fe54) |
-| Mon, 16 Mar 2026 11:42:36 GMT | Agentic AI Will Become the Most Dangerous Insider Threat | Yua Mikanana | [Read More](https://medium.com/p/5da1d84636ff) |
-| Mon, 16 Mar 2026 11:41:51 GMT | TryHackMe walkthrough: Cracking the hashes | Yash Gaikwad (Yx0R) | [Read More](https://medium.com/p/26a70b42ecf9) |
-| Mon, 16 Mar 2026 11:41:37 GMT | Stop Blaming Your Code: How Infrastructure and Geography Dictate Web Performance | inetmar | [Read More](https://medium.com/p/9f22dd956f74) |
-| Mon, 16 Mar 2026 11:41:19 GMT | I KNOW I’M MEANT TO WRITE | The Believer's Corner by Oluwatomiloba Akinwale | [Read More](https://medium.com/p/e4a89e85cdde) |
-| Mon, 16 Mar 2026 11:41:00 GMT | What Homelessness Reveals About the American Imagination | Thomas McCorry | [Read More](https://medium.com/p/2867779a3295) |
-| Mon, 16 Mar 2026 11:32:21 GMT | From Data Breaches to Defense Systems The Expanding Cybersecurity Market | Dbmrworkin24 | [Read More](https://medium.com/p/cbf32d497ff6) |
-| Mon, 16 Mar 2026 11:31:01 GMT | The One Command I Run to Check if a Linux Server Is Quietly Talking to the Internet | Faruk Ahmed | [Read More](https://medium.com/p/b5d22ac6e733) |
-| Mon, 16 Mar 2026 11:27:25 GMT | The Architecture of Trust: Evaluating Mobile Gaming Infrastructure in 2026 | GuideAsk | [Read More](https://medium.com/p/840240ba7776) |
-| Mon, 16 Mar 2026 11:26:54 GMT | A practical, step-by-step guide to building a threat-aware vulnerability management program with… | Naveen kumar | [Read More](https://medium.com/p/4c85767ac062) |
-| Mon, 16 Mar 2026 11:25:27 GMT | Insecure Direct Object Reference (IDOR) in Leave Application System (PHP & SQLite3) | Hemant Raj Bhati | [Read More](https://medium.com/p/66af35b8b6ea) |
-| Mon, 16 Mar 2026 11:24:36 GMT | How Visory Is Helping Families Monitor Homes and Loved Ones from Anywhere | Visory Camera | [Read More](https://medium.com/p/214df4133de1) |
