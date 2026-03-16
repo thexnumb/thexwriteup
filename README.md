@@ -12,6 +12,25 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Mar 2026 10:40:29 GMT | Corporate Security Solutions: Protecting Businesses in a Modern Threat Landscape | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/ded8489a28a7) |
+| Mon, 16 Mar 2026 10:36:50 GMT | Designing Secure Agentic AI Platforms on AWS: Identity, Data Boundaries, and Guardrails | Maryammairaj | [Read More](https://medium.com/p/6b894d24c288) |
+| Mon, 16 Mar 2026 10:36:00 GMT | Why Companies Waste Millions on Security Tools and Still Feel Exposed | Tyson Martin | [Read More](https://medium.com/p/baf705978fc1) |
+| Mon, 16 Mar 2026 10:33:52 GMT | Affordable Web Design Cape Town: A Complete Guide for Businesses | Ava Jones | [Read More](https://medium.com/p/a2ac580f40fe) |
+| Mon, 16 Mar 2026 10:28:14 GMT | ️ Bug Bounty Hunting: The Forgotten Attack Surface | ghostyjoe | [Read More](https://medium.com/p/0759774101be) |
+| Mon, 16 Mar 2026 10:27:27 GMT | ️ Top 10 Burp Suite Extensions for Bug Bounty Hunters | ghostyjoe | [Read More](https://medium.com/p/dda6eca60617) |
+| Mon, 16 Mar 2026 10:24:23 GMT | The Hidden Mathematics of Pussy888 Malaysia: Why Direct Platforms Are Your Only Safe Bet in 2026 | Julian Davies | [Read More](https://medium.com/p/8f69fb61a01e) |
+| Mon, 16 Mar 2026 10:20:28 GMT | The Science of Voice: How Bio-Acoustic Intelligence Is Changing Forensics, Security, and Mental… | Eliot Cohen Bacrie | [Read More](https://medium.com/p/80f2a9b2067a) |
+| Mon, 16 Mar 2026 10:10:09 GMT | The Password I Can’t Forget: Why Security is Actually a Love Language | Mohit | [Read More](https://medium.com/p/da4229abcb38) |
+| Mon, 16 Mar 2026 10:04:23 GMT | Hire Mobile App Developers in Saudi Arabia in 2026: Top 10 Trusted App Developers | Lily Parker | [Read More](https://medium.com/p/6db79f8533e0) |
+| Mon, 16 Mar 2026 10:02:17 GMT | A Therapy Gone Dark | O. J. Okpabi | [Read More](https://medium.com/p/463b0f1bbe38) |
+| Mon, 16 Mar 2026 10:01:01 GMT | What Changes When You Actually Know Your Product Is Secure | Cyphersilhouette | [Read More](https://medium.com/p/1521cd91987c) |
+| Mon, 16 Mar 2026 09:52:42 GMT | How to Avoid Crypto Scams: Common Red Flags and Safety Tips for Beginners | Tothemoon_Exchange | [Read More](https://medium.com/p/3be487b5fa20) |
+| Mon, 16 Mar 2026 09:52:39 GMT | What Mistakes Should Companies Avoid in Data Loss Prevention Best Practices? | Watch My Work | [Read More](https://medium.com/p/9b2a36317ccd) |
+| Mon, 16 Mar 2026 09:51:41 GMT | How to prepare for Penetration Testing Interviews. | 0xSmit | [Read More](https://medium.com/p/9df4e32dcc64) |
+| Mon, 16 Mar 2026 09:51:34 GMT | Sliver C2 Deep Dive : A Comprehensive Command & Control Framework Series | Maverick | [Read More](https://medium.com/p/4f8ba55f7a45) |
+| Mon, 16 Mar 2026 09:46:00 GMT | Rejecting the Retention Bribe and the Return of Employee Contracts? | Namir Sagheenanajar | [Read More](https://medium.com/p/de7c628cdcc0) |
+| Mon, 16 Mar 2026 09:43:18 GMT | From XML to Root: A Deep Dive into Struts S2–052 Deserialization | Xpl0itZ3r0X | [Read More](https://medium.com/p/be414b34c681) |
+| Mon, 16 Mar 2026 09:39:34 GMT | US Penetration Testing Market: Strengthening Cyber Defenses in an Era of Expanding Digital Threats | Sheetalbhusari | [Read More](https://medium.com/p/9c5704c6ac01) |
 | Mon, 16 Mar 2026 09:30:52 GMT | Cybersecurity Career Tip: Learn by Doing | Bugitrix | [Read More](https://medium.com/p/0bc26c47fb5a) |
 | Mon, 16 Mar 2026 09:26:50 GMT | TI Mindmap Hub - Weekly Threat Brief — Issue #8 | Antonio Formato | [Read More](https://medium.com/p/4f736cb2ab70) |
 | Mon, 16 Mar 2026 09:18:11 GMT | A Comparison of Linux Container Base Images (2026 Short Edition) | Kulbhushan Bhalerao | [Read More](https://medium.com/p/52144900b024) |
@@ -93,22 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Mar 2026 05:39:48 GMT | Broken Access Control Bug Bounty Reports | Yasmin Abdelraouf | [Read More](https://medium.com/p/137f7246cf0a) |
 | Mon, 16 Mar 2026 05:38:36 GMT | Hacking Se Pehle Networking: My Journey from Bank Hacks to MAC Spoofing! | yashu jaiswal | [Read More](https://medium.com/p/18f3cf9bf9ca) |
 | Mon, 16 Mar 2026 05:37:32 GMT | Identity USA maybe out of the question | Si Murray | [Read More](https://medium.com/p/36b030b9f43c) |
-| Mon, 16 Mar 2026 05:36:00 GMT | Cybersecurity Architecture Explained: From Communication to Defense | SDNTechForum | [Read More](https://medium.com/p/d67bd9d133ac) |
-| Mon, 16 Mar 2026 05:32:42 GMT | Why cnc intelligence news Searches Are Increasing | Tim Greene | [Read More](https://medium.com/p/7654ae539888) |
-| Mon, 16 Mar 2026 05:31:53 GMT | The Digital Heist: How Streaming Platform Content Gets Pirated? | Hardik Narware | [Read More](https://medium.com/p/a1cf24d8b987) |
-| Mon, 16 Mar 2026 05:29:26 GMT | Something’s Phishy | Connect Cyberbeam | [Read More](https://medium.com/p/1231a455449b) |
-| Mon, 16 Mar 2026 05:11:20 GMT | The Cryptographic Upgrade Problem — How Blockchains Survive Algorithmic Change | sengom | [Read More](https://medium.com/p/dc5ac3854397) |
-| Mon, 16 Mar 2026 05:08:48 GMT | Strong Passwords: The First Line of Defense to Protect Your Data | Behawk Infosec | [Read More](https://medium.com/p/1cb2f6e80463) |
-| Mon, 16 Mar 2026 05:02:28 GMT | I Built a Framework for AI Identity Disclosure. Then HIPAA Made It Mandatory. | Brianna N. Baynard | [Read More](https://medium.com/p/08dcffc49a07) |
-| Mon, 16 Mar 2026 05:01:40 GMT | I Opened a JPEG… and Emojis Started Jumping Out | Santhosh Kumar R | [Read More](https://medium.com/p/c270a748f1f1) |
-| Mon, 16 Mar 2026 05:01:29 GMT | [Product Security in My Home Lab] Series 1 ~Building an Automated Vulnerability Response Pipeline… | Takahiro Oda | [Read More](https://medium.com/p/17a579462805) |
-| Mon, 16 Mar 2026 04:50:17 GMT | SANS Workbook Password Removal (using qpdf) | Steven M | [Read More](https://medium.com/p/8b3ed50bdcde) |
-| Mon, 16 Mar 2026 04:36:05 GMT | Your Data Is Protected by a System Most People Don’t Know Exists | Fintech By Tanu | [Read More](https://medium.com/p/acf1189e357e) |
-| Mon, 16 Mar 2026 04:31:00 GMT | Firewalls & Security Groups — Traffic Control 101 | Mathumathiv | [Read More](https://medium.com/p/0a3729da6547) |
-| Mon, 16 Mar 2026 04:27:22 GMT | ️ Building a SIEM Threat Detection Lab Using Microsoft Sentinel in Azure | Amal Udayanga Basnayake | [Read More](https://medium.com/p/2303339c6353) |
-| Mon, 16 Mar 2026 04:25:23 GMT | The Strait of Hormuz as a Strategic Chokepoint | Gökçen Kunukcu | [Read More](https://medium.com/p/f7620dbe7b2e) |
-| Mon, 16 Mar 2026 04:23:46 GMT | Active Directory Enumeration | DIKAFPS | [Read More](https://medium.com/p/a0beac9489be) |
-| Mon, 16 Mar 2026 04:20:01 GMT | Reverse Engineering an Android Infostealer Using JADX GUI | Soumodeep Das | [Read More](https://medium.com/p/32fc8bd7a4fa) |
-| Mon, 16 Mar 2026 04:19:11 GMT | The Agent Skills Gold Rush Has a Malware Problem | Mei Park | [Read More](https://medium.com/p/0f74302f9276) |
-| Mon, 16 Mar 2026 03:59:06 GMT | ⚠️ A Small Unnoticed Mistake Changed My Entire Result (Android Dev Story) | Thamaraikannan | [Read More](https://medium.com/p/a05b5a1ca17a) |
-| Mon, 16 Mar 2026 03:50:29 GMT | OSINT: How Hackers Find Information Without Hacking | CodeXconnect | [Read More](https://medium.com/p/590fab039e6f) |
