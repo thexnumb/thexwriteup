@@ -12,6 +12,32 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Mar 2026 09:30:52 GMT | Cybersecurity Career Tip: Learn by Doing | Bugitrix | [Read More](https://medium.com/p/0bc26c47fb5a) |
+| Mon, 16 Mar 2026 09:26:50 GMT | TI Mindmap Hub - Weekly Threat Brief — Issue #8 | Antonio Formato | [Read More](https://medium.com/p/4f736cb2ab70) |
+| Mon, 16 Mar 2026 09:18:11 GMT | A Comparison of Linux Container Base Images (2026 Short Edition) | Kulbhushan Bhalerao | [Read More](https://medium.com/p/52144900b024) |
+| Mon, 16 Mar 2026 09:16:09 GMT | Browser Vulnerabilities: Can Your Webcam Be Accessed Without Permission? | Alyan Tariq | [Read More](https://medium.com/p/092508588492) |
+| Mon, 16 Mar 2026 09:15:12 GMT | ASIO’s Multi-Disciplinary Approach to Intelligence — Case Study | Journal of Landing Across Linguistic Foreground | [Read More](https://medium.com/p/6b5f322723bb) |
+| Mon, 16 Mar 2026 09:13:52 GMT | Network basics for cybersecurity — Day 7 | 0xSmit | [Read More](https://medium.com/p/26f2c5acbe6d) |
+| Mon, 16 Mar 2026 09:13:37 GMT | AI Governance in Cybersecurity: Why Companies Are Flying Blind | Abhijith Soman | [Read More](https://medium.com/p/c6e6f650f9c4) |
+| Mon, 16 Mar 2026 09:13:21 GMT | Why Reliable IT Support Is Essential for Growing Businesses. | vortex it systems | [Read More](https://medium.com/p/a8e0977a4fe4) |
+| Mon, 16 Mar 2026 09:10:26 GMT | How to Investigate Any X (Twitter) Account : Complete Practical OSINT Methods ️‍♂️ - Day 2 | Deepanshu Deep | [Read More](https://medium.com/p/1f3b761ce351) |
+| Mon, 16 Mar 2026 09:06:38 GMT | Penetration Testing for Web Application Explained Simply | Application Security Master | [Read More](https://medium.com/p/4f1dbd8ac764) |
+| Mon, 16 Mar 2026 09:00:42 GMT | Security in DeFi: How to Understand Whether a Cryptocurrency Platform Can Be Trusted? | Super | [Read More](https://medium.com/p/490c507194c4) |
+| Mon, 16 Mar 2026 08:53:19 GMT | Cybersecurity Awareness in Bangladesh: Why It Matters More Than Ever | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/52609bdb9d48) |
+| Mon, 16 Mar 2026 08:49:20 GMT | Artificial Intelligence and Cyber Security | Jithesh | [Read More](https://medium.com/p/f4a67b16baf6) |
+| Mon, 16 Mar 2026 08:48:16 GMT | Why Corporate Investigations Are Taking 3x Longer Than They Should | Vihaan Sethi | [Read More](https://medium.com/p/7dd667ce9bd9) |
+| Mon, 16 Mar 2026 08:44:50 GMT | Navigate My Blog: All Articles by Topic | Andrey Pautov | [Read More](https://medium.com/p/ffd800ef5480) |
+| Mon, 16 Mar 2026 08:34:11 GMT | From Hospitals to Auto Workshops… How BI-Technology Builds Systems That Save You Time | MESHAL Muhammed | [Read More](https://medium.com/p/f45539d1eaf0) |
+| Mon, 16 Mar 2026 08:28:46 GMT | Secure Model Deployment on AWS SageMaker | Davebhargavi | [Read More](https://medium.com/p/f374b6cd43bd) |
+| Mon, 16 Mar 2026 08:24:31 GMT | Eavesdropper: Privilege Escalation via PATH Hijacking | Roshan Rajbanshi | [Read More](https://medium.com/p/95e270d7c879) |
+| Mon, 16 Mar 2026 08:23:58 GMT | Trusted Security Solutions in Riverside & Beyond | Travel time | [Read More](https://medium.com/p/8a58d01744c8) |
+| Mon, 16 Mar 2026 08:17:48 GMT | I Found an IDOR Worth $20,000 -Here’s What Happened | Mohaseen | [Read More](https://medium.com/p/62d6b8c4f17d) |
+| Mon, 16 Mar 2026 08:17:46 GMT | Static Link Analysis -A Hands-On SOC Lab Walkthrough | Vishvambhar ranoshe | [Read More](https://medium.com/p/d58ef324b50c) |
+| Mon, 16 Mar 2026 08:16:38 GMT | Corridor — TryHackMe Walkthrough | codingbolt | [Read More](https://medium.com/p/935a87083687) |
+| Mon, 16 Mar 2026 08:15:12 GMT | Penetration Testing Methodology: Information Gathering -A Beginner’s Guide | Sanidhya Kafle | [Read More](https://medium.com/p/7ce6aceddec6) |
+| Mon, 16 Mar 2026 08:12:11 GMT | MCP Security Playbook: Auth, Tool Trust, and Prompt-Injection Defenses for Real Systems | Manish Rana | [Read More](https://medium.com/p/e00625517d71) |
+| Mon, 16 Mar 2026 08:09:49 GMT | SOC Investigation: Malicious RTF Exploit Leading to Regsvr32-Based Payload Retrieval | Ben Rubin (Zedocun) | [Read More](https://medium.com/p/39c92eace85d) |
+| Mon, 16 Mar 2026 08:04:07 GMT | Your Email Archive Is a Goldmine. You Just Can’t Search It. | Bash Wheatley | [Read More](https://medium.com/p/35ced1242aaf) |
 | Mon, 16 Mar 2026 08:00:26 GMT | NDR in a Zero Trust World: Securing East-West Traffic in 2026 | NetWitness | [Read More](https://medium.com/p/2c178d462185) |
 | Mon, 16 Mar 2026 07:56:51 GMT | Why I Hate Bugcrowd: When Fighting for a Valid Report Still Gets You Nowhere | Aakash Ahmed | [Read More](https://medium.com/p/7b1070c96d5e) |
 | Mon, 16 Mar 2026 07:50:55 GMT | The 2026 Architecture of High-Concurrency Gaming: A Technical Deep Dive | Andrew - mega888ai | [Read More](https://medium.com/p/af7af140f2c8) |
@@ -86,29 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Mar 2026 04:19:11 GMT | The Agent Skills Gold Rush Has a Malware Problem | Mei Park | [Read More](https://medium.com/p/0f74302f9276) |
 | Mon, 16 Mar 2026 03:59:06 GMT | ⚠️ A Small Unnoticed Mistake Changed My Entire Result (Android Dev Story) | Thamaraikannan | [Read More](https://medium.com/p/a05b5a1ca17a) |
 | Mon, 16 Mar 2026 03:50:29 GMT | OSINT: How Hackers Find Information Without Hacking | CodeXconnect | [Read More](https://medium.com/p/590fab039e6f) |
-| Mon, 16 Mar 2026 03:46:35 GMT | Mr. Robot Exercise: Pre-Attack Phase | Allen Ace | [Read More](https://medium.com/p/e247b82059a1) |
-| Mon, 16 Mar 2026 03:31:00 GMT | The Faster We Build with AI, the More Dangerous Bad Auth Becomes - And the Rarer Good Auth Becomes | Rgupta | [Read More](https://medium.com/p/4e3957b67813) |
-| Mon, 16 Mar 2026 03:22:30 GMT | “Why Digital Detox Is Becoming the New Luxury” | Hafsa Ajiaz | [Read More](https://medium.com/p/2c87590c16df) |
-| Mon, 16 Mar 2026 03:11:02 GMT | HackSmarter Hunter Challenge: Finding Hidden Users with a Timing Attack | Syrielbonode | [Read More](https://medium.com/p/15376a835869) |
-| Mon, 16 Mar 2026 03:03:07 GMT | I Almost Failed the CEH v13 Exam After 5 Months of Studying. These 7 Mistakes Nearly Cost Me $2,000 | Akash Madanu | [Read More](https://medium.com/p/7475a2f53ca3) |
-| Mon, 16 Mar 2026 02:57:51 GMT | Distributed Ingress/Egress with Centralized Inspection on AWS | @l3j0 | [Read More](https://medium.com/p/b2781cb52fb4) |
-| Mon, 16 Mar 2026 02:56:27 GMT | Oh, How Love Somehow Feels Suspicious | Camerine | [Read More](https://medium.com/p/c4728676f59a) |
-| Mon, 16 Mar 2026 02:54:11 GMT | Nothing to hide 1, 2 and 3…. CyCTF - Forensics | Configx | [Read More](https://medium.com/p/34ef56f33262) |
-| Mon, 16 Mar 2026 02:28:57 GMT | How I Built an AI Red Team vs. Blue Team Cybersecurity Lab That Attacks and Defends Itself | Jesse Ridley | [Read More](https://medium.com/p/98169ce6c782) |
-| Mon, 16 Mar 2026 02:22:23 GMT | The New Frontier of Hijacking: Inside AI Recommendation Poisoning | Arthi Rajendran | [Read More](https://medium.com/p/47a4df0721a3) |
-| Mon, 16 Mar 2026 02:13:27 GMT | Malware Analysis Report: Static and Dynamic Analysis of an Emotet/Trickbot Sample | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/7534065e0d83) |
-| Mon, 16 Mar 2026 02:09:56 GMT | Docker Deep Dive | Sai Tanmaiyee | [Read More](https://medium.com/p/7bb027e6f9d4) |
-| Mon, 16 Mar 2026 02:08:55 GMT | Monthly Threat Actor Group Intelligence Report, February 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/3238aa411dab) |
-| Mon, 16 Mar 2026 02:00:39 GMT | Penetration Testing: Information Gathering Explained | Homako | [Read More](https://medium.com/p/792e81edd336) |
-| Mon, 16 Mar 2026 01:53:56 GMT | CyberRiskOps: The Operating Model for Cyber Resilience in the Age of AI | Juan Pablo Castro | [Read More](https://medium.com/p/7c1f6941cefb) |
-| Mon, 16 Mar 2026 01:44:36 GMT | How to Protect Sensitive Data Using Secure Configuration Properties in Mule 4 | Omar ee | [Read More](https://medium.com/p/5df02b8e3274) |
-| Mon, 16 Mar 2026 01:42:59 GMT | Your AI Just Got Eyes: | Ignatius Gigis | [Read More](https://medium.com/p/b38264df67cf) |
-| Mon, 16 Mar 2026 01:30:44 GMT | The Invisible Front Line: Why Cybersecurity is the New Bedrock of Homeland Security | Ali Elkhouly | [Read More](https://medium.com/p/d7a784b827ec) |
-| Mon, 16 Mar 2026 01:25:27 GMT | Deploy a Website and Wait 5 Minutes: The Bots Will Find You! | Sumedha Khatter | [Read More](https://medium.com/p/66371e8c50f7) |
-| Mon, 16 Mar 2026 01:15:24 GMT | 10 Cybersecurity Services Every Business Needs in 2026 | Emily Paul | [Read More](https://medium.com/p/362209800bd6) |
-| Mon, 16 Mar 2026 01:06:31 GMT | The $32 Billion Question: Why Google Acquired Wiz? | Izaak Maine | [Read More](https://medium.com/p/de5c0e25767a) |
-| Mon, 16 Mar 2026 01:06:19 GMT | BLOCKCHAIN TECHNOLOGY FUNDAMENTALS UNTUK MEMBANGUN SISTEM TERDESENTRALISASI YANG AMAN DAN… | Nisbi Indonesia | [Read More](https://medium.com/p/8d9f4ac380d9) |
-| Mon, 16 Mar 2026 00:49:30 GMT | HackMyVM: Teacher — Walkthrough | Antonio | [Read More](https://medium.com/p/28d76c6a7bfe) |
-| Mon, 16 Mar 2026 00:42:10 GMT | Hardening de VPS Linux: Tailscale + UFW + Fail2ban + SSH privado | Lucas Sterzeck | [Read More](https://medium.com/p/c6f5493b1a6a) |
-| Mon, 16 Mar 2026 00:32:04 GMT | Designing Two-Factor Authentication That Scales | aceiny | [Read More](https://medium.com/p/a2f78fab65e4) |
-| Mon, 16 Mar 2026 00:18:57 GMT | Finally, a Credit Solution That Works: Thank You, Pinnacle | Angela H. Dows | [Read More](https://medium.com/p/32dc98d6f977) |
