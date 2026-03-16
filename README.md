@@ -12,6 +12,27 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Mar 2026 17:32:48 GMT | Common Vulnerabilities Businesses Discover During Penetration Testing | Digital Defense | [Read More](https://medium.com/p/f16430784ca1) |
+| Mon, 16 Mar 2026 17:29:34 GMT | EU Cyber Resilience Act: What It Means for Your Codebase and How to Prepare | Eldor Zufarov | [Read More](https://medium.com/p/04d26a42f056) |
+| Mon, 16 Mar 2026 17:26:19 GMT | Is Your Webcam Spying on You? A Simple Webcam Demonstration | Hafsa Shahid | [Read More](https://medium.com/p/0d81f1a2be5f) |
+| Mon, 16 Mar 2026 17:18:02 GMT | Cyber Security Foundation Series — Computer Networking Part-06(How website and Internet works) | Kamal Kishor Mahto | [Read More](https://medium.com/p/2c09b47d503e) |
+| Mon, 16 Mar 2026 17:13:46 GMT | Everyone Is Using AI for Bug Bounty in 2026. Almost Nobody Is Using It Correctly. | R.H Rizvi | [Read More](https://medium.com/p/fe7e3356010e) |
+| Mon, 16 Mar 2026 17:13:34 GMT | The Fresher’s Trap: Why the Most Prepared Beginners Are the Last Ones to Get Paid | R.H Rizvi | [Read More](https://medium.com/p/a69b11c5d9b7) |
+| Mon, 16 Mar 2026 17:11:14 GMT | Why DeFi Needs Vault Infrastructure: From Manual Chasing to Automated Capital Systems | Mukeshrana | [Read More](https://medium.com/p/d9a9c6d3a385) |
+| Mon, 16 Mar 2026 17:07:45 GMT | How I Cleared the Google Cloud Professional Cloud Security Engineer (PCSE) Exam | Rishi | [Read More](https://medium.com/p/f0c2b32a7de3) |
+| Mon, 16 Mar 2026 17:04:16 GMT | Information Security: Protecting Data in the Digital Age | Lavaniasaurav | [Read More](https://medium.com/p/b1d0093c5c60) |
+| Mon, 16 Mar 2026 16:59:15 GMT | They Don’t Need a Warrant. They Just Buy Your Data — And AI Does the Rest. | Robot Crime blog | [Read More](https://medium.com/p/527794db245e) |
+| Mon, 16 Mar 2026 16:53:50 GMT | My SC-900 Journey — Learning Microsoft Security Fundamentals | IYOBOSA MAJID AMADDIN | [Read More](https://medium.com/p/dc90361b7f03) |
+| Mon, 16 Mar 2026 16:53:07 GMT | Understanding OAuth Security by Building a Vulnerable Lab (and Fixing It with PKCE) | Ashutosh Hacks | [Read More](https://medium.com/p/4dd32a3e0960) |
+| Mon, 16 Mar 2026 16:50:59 GMT | Claude Skills & AI-Powered Cybersecurity: The Complete Guide to Building Intelligent Security… | Fazal | [Read More](https://medium.com/p/7bb7e9d14c8e) |
+| Mon, 16 Mar 2026 16:45:33 GMT | Designing Blockchain Systems: What Smart Contract Tutorials Don’t Tell You (Part 2) | Tomasz Klapsia | [Read More](https://medium.com/p/e754c9690ff1) |
+| Mon, 16 Mar 2026 16:35:28 GMT | Hackerlar Nasıl Düşünür? | Ali Yaşe | [Read More](https://medium.com/p/d3a2b31cf4ca) |
+| Mon, 16 Mar 2026 16:31:35 GMT | Veri Sızıntıları Nasıl Olur? | Ali Yaşe | [Read More](https://medium.com/p/458116e5181d) |
+| Mon, 16 Mar 2026 16:29:20 GMT | Data Center Operations Manager Position | Alexious Fiero | [Read More](https://medium.com/p/4d18aedcac2a) |
+| Mon, 16 Mar 2026 16:23:57 GMT | I Thought Cloud Storage Was Safe… Until I Learned These 5 Simple Mistakes | Panstag | [Read More](https://medium.com/p/3eb3740c715a) |
+| Mon, 16 Mar 2026 16:20:34 GMT | HTB CPTS Review 2026 | Charles-Thibault Sanchez | [Read More](https://medium.com/p/849d2e1b9b27) |
+| Mon, 16 Mar 2026 16:17:59 GMT | Why Standard Role Systems Break in Multi-Tenant SaaS and What We Built Instead | Suraj Biswas | [Read More](https://medium.com/p/135c24e1ddcd) |
+| Mon, 16 Mar 2026 16:08:12 GMT | I Investigated a Suspicious Domain and Found Its Entire Infrastructure ! | Paritosh | [Read More](https://medium.com/p/26fb38552680) |
 | Mon, 16 Mar 2026 16:03:26 GMT | Quantifying Cyber Risk: Leveraging CRQ and FAIR for Informed Insurance Decisions | Edwin Covert | [Read More](https://medium.com/p/293a52f73b99) |
 | Mon, 16 Mar 2026 16:03:21 GMT | Before You Hack Anything: The Information Gathering Techniques Every Ethical Hacker Must Know | Chhetrinikita | [Read More](https://medium.com/p/944fdae7f8f7) |
 | Mon, 16 Mar 2026 16:01:02 GMT | Hypervisor Based Defense | Idov31 | [Read More](https://medium.com/p/b235f3d27a59) |
@@ -91,24 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Mar 2026 11:26:54 GMT | A practical, step-by-step guide to building a threat-aware vulnerability management program with… | Naveen kumar | [Read More](https://medium.com/p/4c85767ac062) |
 | Mon, 16 Mar 2026 11:25:27 GMT | Insecure Direct Object Reference (IDOR) in Leave Application System (PHP & SQLite3) | Hemant Raj Bhati | [Read More](https://medium.com/p/66af35b8b6ea) |
 | Mon, 16 Mar 2026 11:24:36 GMT | How Visory Is Helping Families Monitor Homes and Loved Ones from Anywhere | Visory Camera | [Read More](https://medium.com/p/214df4133de1) |
-| Mon, 16 Mar 2026 11:24:04 GMT | Build a Modern Password Security Suite in Python with Tkinter | Mate Technologies | [Read More](https://medium.com/p/48e6449c4544) |
-| Mon, 16 Mar 2026 11:24:04 GMT | A Homelab Cautionary Tale: How Crypto Scammers Hacked My Analytics Dashboard | Hugh Evans | [Read More](https://medium.com/p/616520be9129) |
-| Mon, 16 Mar 2026 11:17:12 GMT | The Complete Guide to Affordable Web Hosting in 2026 (Beginner to Advanced) | Janet Watson | [Read More](https://medium.com/p/4e984e1c361c) |
-| Mon, 16 Mar 2026 11:16:36 GMT | Defence Procurement Keeps Buying Security Claims Instead of Security Evidence | Peter Hillier/Halton | [Read More](https://medium.com/p/89de652194c6) |
-| Mon, 16 Mar 2026 11:13:51 GMT | Shopify SEO in 2026: Complete Guide to Ranking Shopify Stores on Google | Pensy | [Read More](https://medium.com/p/384189369f36) |
-| Mon, 16 Mar 2026 11:12:09 GMT | Fake Claude Code Downloads Are Spreading Infostealer Malware | Periscope Tech | [Read More](https://medium.com/p/9616e700bce9) |
-| Mon, 16 Mar 2026 11:11:36 GMT | Stored Cross-Site Scripting (XSS) in Simple Customer Relationship Management System (CRM-PHP) | Hemant Raj Bhati | [Read More](https://medium.com/p/15a904589844) |
-| Mon, 16 Mar 2026 11:09:57 GMT | Exploiting Content Providers in Android Applications | Redfox Security | [Read More](https://medium.com/p/a75cbda2a5c7) |
-| Mon, 16 Mar 2026 11:02:35 GMT | Lone Worker Safety in Remote Utilities. | Dr sylvan lightbourne | [Read More](https://medium.com/p/f1cc75edf880) |
-| Mon, 16 Mar 2026 11:02:02 GMT | CTF Basics: Understanding Base64URL Encoding | Walter Moar | [Read More](https://medium.com/p/c2aec3dbc0c5) |
-| Mon, 16 Mar 2026 10:59:31 GMT | Basic Pentesting 1 Walkthrough | Shantanu Kakade | [Read More](https://medium.com/p/9257ed0809dc) |
-| Mon, 16 Mar 2026 10:55:54 GMT | HTB Devvortex: From Joomla Info Disclosure to Root | Onurcan Genç | [Read More](https://medium.com/p/ea445590b689) |
-| Mon, 16 Mar 2026 10:40:29 GMT | Corporate Security Solutions: Protecting Businesses in a Modern Threat Landscape | Industrial Security & Intelligence India PVT LTD | [Read More](https://medium.com/p/ded8489a28a7) |
-| Mon, 16 Mar 2026 10:36:50 GMT | Designing Secure Agentic AI Platforms on AWS: Identity, Data Boundaries, and Guardrails | Maryammairaj | [Read More](https://medium.com/p/6b894d24c288) |
-| Mon, 16 Mar 2026 10:36:00 GMT | Why Companies Waste Millions on Security Tools and Still Feel Exposed | Tyson Martin | [Read More](https://medium.com/p/baf705978fc1) |
-| Mon, 16 Mar 2026 10:33:52 GMT | Affordable Web Design Cape Town: A Complete Guide for Businesses | Ava Jones | [Read More](https://medium.com/p/a2ac580f40fe) |
-| Mon, 16 Mar 2026 10:28:14 GMT | ️ Bug Bounty Hunting: The Forgotten Attack Surface | ghostyjoe | [Read More](https://medium.com/p/0759774101be) |
-| Mon, 16 Mar 2026 10:27:27 GMT | ️ Top 10 Burp Suite Extensions for Bug Bounty Hunters | ghostyjoe | [Read More](https://medium.com/p/dda6eca60617) |
-| Mon, 16 Mar 2026 10:24:23 GMT | The Hidden Mathematics of Pussy888 Malaysia: Why Direct Platforms Are Your Only Safe Bet in 2026 | Julian Davies | [Read More](https://medium.com/p/8f69fb61a01e) |
-| Mon, 16 Mar 2026 10:20:28 GMT | The Science of Voice: How Bio-Acoustic Intelligence Is Changing Forensics, Security, and Mental… | Eliot Cohen Bacrie | [Read More](https://medium.com/p/80f2a9b2067a) |
-| Mon, 16 Mar 2026 10:10:09 GMT | The Password I Can’t Forget: Why Security is Actually a Love Language | Mohit | [Read More](https://medium.com/p/da4229abcb38) |
