@@ -12,6 +12,30 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Mar 2026 06:42:15 GMT | Blocking Botnet Command-and-Control Domains Using AWS Route 53 DNS Firewall | Vinayak Pandey | [Read More](https://medium.com/p/e220517989b2) |
+| Mon, 16 Mar 2026 06:32:57 GMT | A Brighter Layer | Connect Cyberbeam | [Read More](https://medium.com/p/fcb4ad9cbb8d) |
+| Mon, 16 Mar 2026 06:29:08 GMT | The Exact Python Pipeline Hunters Use to Automatically Prioritize 10,000+ Recon Targets | Fateyaly | [Read More](https://medium.com/p/4e4777ac33b1) |
+| Mon, 16 Mar 2026 06:24:59 GMT | Accelerate Secure Software Delivery with Modern DevSecOps Practices | Kaiburr | [Read More](https://medium.com/p/a525d4320795) |
+| Mon, 16 Mar 2026 06:22:56 GMT | Nurse Call System Market Growing at 10.26% CAGR Through 2033 | NIkita Poplai | [Read More](https://medium.com/p/80249baaa3b9) |
+| Mon, 16 Mar 2026 06:16:56 GMT | 200,000 Devices. One Admin Password: How a $25 Billion Medical Company Got Wiped Off | Mandar Karhade, MD. PhD. | [Read More](https://medium.com/p/fe7b6a97a2a6) |
+| Mon, 16 Mar 2026 06:16:31 GMT | AI Is Transforming Healthcare. But Who’s Protecting Your Patient Data? | Rom | [Read More](https://medium.com/p/fdce63e3f92e) |
+| Mon, 16 Mar 2026 06:15:49 GMT | YARA Rules in 2026: How to Write Signatures That Actually Detect Malware | ATNO For Cybersecurity - Hacking | [Read More](https://medium.com/p/d75572c8f1bd) |
+| Mon, 16 Mar 2026 06:11:37 GMT | Инструкция: расширение раздела EXT4 «на ходу» (без перезагрузки) | Chernousov Anton | [Read More](https://medium.com/p/77e1eab43557) |
+| Mon, 16 Mar 2026 06:06:30 GMT | The RAG Trust Boundary Model: Five Zones. One Framework. The Attack Surface Nobody Is Governing | Hafeez Ilufoye | [Read More](https://medium.com/p/fa5e19e6d6b6) |
+| Mon, 16 Mar 2026 06:06:00 GMT | Internet-Speed Exploits: How OpenClaw Shows Automation Without Guardrails Bleeds Data | Lucas Verdan | [Read More](https://medium.com/p/d5164c00e35b) |
+| Mon, 16 Mar 2026 06:03:27 GMT | How I Found a Critical IDOR Leading to Account Takeover in Two EdTech Platforms | PRASHU | [Read More](https://medium.com/p/44439a66ceb3) |
+| Mon, 16 Mar 2026 06:03:03 GMT | Why Cybersecurity Matters More Than Ever — Analysis by Lode Palle | lodeemmanuel | [Read More](https://medium.com/p/623691f1690e) |
+| Mon, 16 Mar 2026 05:58:00 GMT | Viikshana — Empowering India’s Digital Market Revolution | Mandaleekaanwesh | [Read More](https://medium.com/p/0e332a970e40) |
+| Mon, 16 Mar 2026 05:52:29 GMT | Why Mobile Patrol Security Is Essential for Businesses in Melbourne | Alfa Security Services Pty ltd | [Read More](https://medium.com/p/2d2390ee97d6) |
+| Mon, 16 Mar 2026 05:51:22 GMT | CYBERDUDEBIVASH Sentinel APEX™ v55.3 | CYBERDUDEBIVASH PVT LTD | [Read More](https://medium.com/p/894ec3fa49fc) |
+| Mon, 16 Mar 2026 05:49:55 GMT | Detecting Unsolicited Camera Access in Web Applications | Fatima | [Read More](https://medium.com/p/f35a0dde220f) |
+| Mon, 16 Mar 2026 05:49:01 GMT | Challenge 2 Information Security | Taraayu | [Read More](https://medium.com/p/09975c37c94e) |
+| Mon, 16 Mar 2026 05:44:56 GMT | Learning SQL Injection Through PortSwigger Labs (Beginner to Blind SQLi) | Fuzzyy Duck | [Read More](https://medium.com/p/7dd78070afd6) |
+| Mon, 16 Mar 2026 05:39:48 GMT | Broken Access Control Bug Bounty Reports | Yasmin Abdelraouf | [Read More](https://medium.com/p/137f7246cf0a) |
+| Mon, 16 Mar 2026 05:38:36 GMT | Hacking Se Pehle Networking: My Journey from Bank Hacks to MAC Spoofing! | yashu jaiswal | [Read More](https://medium.com/p/18f3cf9bf9ca) |
+| Mon, 16 Mar 2026 05:37:32 GMT | Identity USA maybe out of the question | Si Murray | [Read More](https://medium.com/p/36b030b9f43c) |
+| Mon, 16 Mar 2026 05:36:00 GMT | Cybersecurity Architecture Explained: From Communication to Defense | SDNTechForum | [Read More](https://medium.com/p/d67bd9d133ac) |
+| Mon, 16 Mar 2026 05:31:53 GMT | The Digital Heist: How Streaming Platform Content Gets Pirated? | Hardik Narware | [Read More](https://medium.com/p/a1cf24d8b987) |
 | Mon, 16 Mar 2026 05:11:20 GMT | The Cryptographic Upgrade Problem — How Blockchains Survive Algorithmic Change | sengom | [Read More](https://medium.com/p/dc5ac3854397) |
 | Mon, 16 Mar 2026 05:08:48 GMT | Strong Passwords: The First Line of Defense to Protect Your Data | Behawk Infosec | [Read More](https://medium.com/p/1cb2f6e80463) |
 | Mon, 16 Mar 2026 05:02:28 GMT | I Built a Framework for AI Identity Disclosure. Then HIPAA Made It Mandatory. | Brianna N. Baynard | [Read More](https://medium.com/p/08dcffc49a07) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Mar 2026 20:49:01 GMT | Block External Teams Users Directly from the Defender Portal | Ryan Adams | [Read More](https://medium.com/p/68e2de73820c) |
 | Sun, 15 Mar 2026 20:47:08 GMT | Embarking on the Journey as an ISO: From Local Silos to Institutional Intelligence | Rai Miralles Febrer | [Read More](https://medium.com/p/32a5d93ac7f1) |
 | Sun, 15 Mar 2026 20:46:21 GMT | ​I Used This Gmail "Dot" Trick to See Which Companies Were Selling My Data | Kinetiqglitch | [Read More](https://medium.com/p/bdc72f012f3e) |
-| Sun, 15 Mar 2026 20:42:51 GMT | Securing Customer Data: Automating Sensitive Information Sanitization in Log Packages | Kunal Bhala | [Read More](https://medium.com/p/f37c077fa617) |
-| Sun, 15 Mar 2026 20:38:32 GMT | Passwords: Why They Actually Matter | Adriene Miller | [Read More](https://medium.com/p/99d4936d0b33) |
-| Sun, 15 Mar 2026 20:16:58 GMT | The Cryptography Concept Journey — Cloud HSM (Cloud Hardware Security Module) | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/084310f9c0c0) |
-| Sun, 15 Mar 2026 20:15:52 GMT | INGENIERIA SOCIAL | Heavenblack | [Read More](https://medium.com/p/7bb8fd533a81) |
-| Sun, 15 Mar 2026 20:02:58 GMT | The Day My 4-Year-Old “Hacked” Our Doorbell — And Accidentally Changed My Life | Sanja Mali | [Read More](https://medium.com/p/e947a80ad007) |
-| Sun, 15 Mar 2026 20:02:25 GMT | How I aced the CompTIA CySA+ (And a Step-by-Step Guide for You to Do It Too) | SecBySam | [Read More](https://medium.com/p/2644bd61fedb) |
-| Sun, 15 Mar 2026 19:54:55 GMT | GPS Tracking Laws in the U.S. (2026): What Security Teams Must Know | Teona | [Read More](https://medium.com/p/5c096ea618f5) |
-| Sun, 15 Mar 2026 19:53:06 GMT | Potato — Proving Grounds | srthk | [Read More](https://medium.com/p/725234ed8ec9) |
-| Sun, 15 Mar 2026 19:49:46 GMT | A Layered Defense Model for Artificial Autonomous Intelligent Environments | Mi'kail Eli'yah | [Read More](https://medium.com/p/13657bed075c) |
-| Sun, 15 Mar 2026 19:48:01 GMT | Fantastic Beasts and Where to Find Them: A Field Guide to ClickFix Attacks | theUnknown | [Read More](https://medium.com/p/ffdda73f090f) |
-| Sun, 15 Mar 2026 19:47:32 GMT | Running the BrakTooth Bluetooth Attack Toolkit with Docker (Without Breaking Your System) | Asutosh Kumar | [Read More](https://medium.com/p/86b4c053435c) |
-| Sun, 15 Mar 2026 19:46:00 GMT | Return of Security Investment | Vicente Aceituno Canal | [Read More](https://medium.com/p/c4acaeb05eb1) |
-| Sun, 15 Mar 2026 19:37:56 GMT | How Multi-Factor Authentication (MFA) Prevents Most Cloud Account Compromises | Victor Olawale | [Read More](https://medium.com/p/d308406e0bcf) |
-| Sun, 15 Mar 2026 19:34:35 GMT | Introducing ICMF — The Insider Code Manipulation Framework | Muhammet Bozkan | [Read More](https://medium.com/p/ba886305d82c) |
-| Sun, 15 Mar 2026 19:34:24 GMT | Cybersecurity For Everyone: Protecting Your Stuff Online | Adriene Miller | [Read More](https://medium.com/p/96a5542b991f) |
-| Sun, 15 Mar 2026 19:31:59 GMT | Detection via Deception — Using your SIEM as a Free Deception Platform | Rcegan | [Read More](https://medium.com/p/8ecdd97023d9) |
-| Sun, 15 Mar 2026 19:29:14 GMT | The Invisible Revolution: Why 2026 is the Year Your Devices Learn to Think | Kamarunga Tabitha Judith | [Read More](https://medium.com/p/e0cd71dcb9af) |
-| Sun, 15 Mar 2026 19:23:03 GMT | VulnHub Warzone 3 (Exogen): Walkthrough From Anonymous FTP to Root via Java Reverse Engineering | bageera | [Read More](https://medium.com/p/089a138967a1) |
-| Sun, 15 Mar 2026 19:10:59 GMT | The Two Capabilities Every Enterprise Needs to Build in Parallel: AI and Cloud Security | Vani Gundu | [Read More](https://medium.com/p/dee7e99aaf87) |
-| Sun, 15 Mar 2026 19:09:07 GMT | From script kiddie to script creator (part 2): The beauty of python architecture | Abiralkarmacharya | [Read More](https://medium.com/p/b9206bab4d78) |
-| Sun, 15 Mar 2026 18:54:36 GMT | Continuous Data Risk Exposure Management: Building the Foundation for AI Readiness | Nick Deshpande | [Read More](https://medium.com/p/bdec522fcb66) |
-| Sun, 15 Mar 2026 18:51:01 GMT | Multi-Factor Authentication Gaps - Why MFA Is Not a Silver Bullet When It Is Built Wrong | Rufus Kehinde | [Read More](https://medium.com/p/e70ccef6330f) |
-| Sun, 15 Mar 2026 18:46:33 GMT | Try Hack Me- Startup CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/cc382caa0772) |
-| Sun, 15 Mar 2026 18:45:21 GMT | Boogeyman 1 - TryHackMe -Write Up | Ghazi Sultan | [Read More](https://medium.com/p/48e87870a068) |
