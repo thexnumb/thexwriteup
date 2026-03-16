@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Mar 2026 21:31:00 GMT | In-House IT vs. Managed Services vs. Hybrid — The Cost Comparison Nobody Shows You | Allison Martin | [Read More](https://medium.com/p/f91bee4cfa49) |
+| Mon, 16 Mar 2026 21:27:32 GMT | The Canada–Japan Cyber Alliance: Inside a New Paradigm for Indo-Pacific Security | Tae Yeon Eom | [Read More](https://medium.com/p/6c0066ddc004) |
+| Mon, 16 Mar 2026 21:27:27 GMT | IDCA Exclusive Inside Look: Exploring the LinkedIn Data Center | International Data Center Authority | [Read More](https://medium.com/p/5d8c8fd38b47) |
+| Mon, 16 Mar 2026 21:26:00 GMT | 35+ and Thriving: Midlife Women’s Safety Net Secrets Smart Women Won’t Tell You | FloraReggie | [Read More](https://medium.com/p/1075eecfab7a) |
+| Mon, 16 Mar 2026 21:22:34 GMT | Standalone/Stack Switch Upgrade Tech Notes | Selcuktufan | [Read More](https://medium.com/p/363d86867f89) |
+| Mon, 16 Mar 2026 21:14:37 GMT | China’s forging chips, OpenAI’s eyeing ads, and Amazon’s wiring the next AI cloud | Qandeel Akhtar | [Read More](https://medium.com/p/ccf44b0e0073) |
+| Mon, 16 Mar 2026 21:12:55 GMT | Final Task — IDN Cyberdefense | Yrddry | [Read More](https://medium.com/p/3e40e59f4631) |
+| Mon, 16 Mar 2026 20:59:58 GMT | PYRAX’s TriStream: 3-Stream Consensus Beats Single Validation | PYRAX Network | [Read More](https://medium.com/p/6788b255b3f3) |
+| Mon, 16 Mar 2026 20:46:45 GMT | HackableII: A Purple Team Breakdown from Anonymous FTP to Root and Everything Security Onion Saw. | jrm360sec | [Read More](https://medium.com/p/86424c34b4f9) |
 | Mon, 16 Mar 2026 20:40:55 GMT | SQL Injection - The 25-Year-Old Vulnerability That Is Still Emptying Databases in 2025 | Rufus Kehinde | [Read More](https://medium.com/p/3afc59c31d6e) |
 | Mon, 16 Mar 2026 20:38:53 GMT | ISO 27001 Protects Data. ISO 42001 Protects Intelligence | Sarah | [Read More](https://medium.com/p/19b1c9dbd742) |
 | Mon, 16 Mar 2026 20:26:42 GMT | Your AI agent just sent an email. Did you authorize that? | Viplav Fauzdar | [Read More](https://medium.com/p/edeffe0b7f93) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Mar 2026 15:19:03 GMT | AndroGoat Android Application Pentesting | Rakha Fausta | [Read More](https://medium.com/p/fe15ca2ea267) |
 | Mon, 16 Mar 2026 15:15:12 GMT | Is Security ROI Really About Money, Or Is It About Protecting What Matters? | Luke Appleby | [Read More](https://medium.com/p/e03a3c685899) |
 | Mon, 16 Mar 2026 15:12:30 GMT | Speed as a First Class Skill in Web3 Security Research | Abraham | [Read More](https://medium.com/p/288bc60d036c) |
-| Mon, 16 Mar 2026 15:04:04 GMT | Aplikasi Mobile: Membuat Dice Fungsional Menggunakan Flutter Apps | Yasa Wijaya | [Read More](https://medium.com/p/2548620d4fa5) |
-| Mon, 16 Mar 2026 15:01:47 GMT | Anonforce — TryHackMe Writeup | JEHAD F OMARI | [Read More](https://medium.com/p/1c81a8702e6e) |
-| Mon, 16 Mar 2026 14:58:40 GMT | Key Cards Gone Wild! Even in the Restroom, This Company Has Employees Swiping and Wiping. | Rusty Pen | [Read More](https://medium.com/p/59aee72ccb02) |
-| Mon, 16 Mar 2026 14:56:50 GMT | Windows Privilege Escalation Skills Assessment — Part I Walkthrough | Moustafa Abdelmaksoud | [Read More](https://medium.com/p/30f498e444e7) |
-| Mon, 16 Mar 2026 14:47:09 GMT | Using ChaCha20 as a Full CSPRNG for Provably Fair Gambling | Emma Paułowicz | [Read More](https://medium.com/p/de4ea5fed68a) |
-| Mon, 16 Mar 2026 14:42:46 GMT | The Echo Chamber and the Path Less Traveled | The Seeker Project | [Read More](https://medium.com/p/a56de69cf061) |
-| Mon, 16 Mar 2026 14:35:22 GMT | NYC’s New Wage Law Is About to Hit Private Security Hard. Most Building Owners Don’t Know Yet. | Building Security Services | [Read More](https://medium.com/p/4d9b5f40d1fd) |
-| Mon, 16 Mar 2026 14:32:42 GMT | Web Security Series #5 — Exploiting Broken Access Control via Token Misuse in API Endpoints | Laibakashif | [Read More](https://medium.com/p/c0d89ceaadd1) |
-| Mon, 16 Mar 2026 14:21:17 GMT | How I Discovered a $700 CSRF Vulnerability and Recreated It as a Security Lab | C0deRevenant | [Read More](https://medium.com/p/7a2e0a80eb92) |
