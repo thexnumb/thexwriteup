@@ -12,6 +12,17 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Mar 2026 22:33:06 GMT | Least Privilege in Keycloak: Beyond the Default Client Configuration | Ohad Peled | [Read More](https://medium.com/p/bddd9ecedee3) |
+| Mon, 16 Mar 2026 22:20:10 GMT | The Theoretical Floor Just Rose: New Quantum Cryptography Paper Confirms Physics-Enforced Security… | Berend Watchus | [Read More](https://medium.com/p/0e2c99b0b43a) |
+| Mon, 16 Mar 2026 22:15:08 GMT | Sending the User Away: Building a Secure Authorization Request with PKCE | Juwan Hollingsworth | [Read More](https://medium.com/p/b7508e182d03) |
+| Mon, 16 Mar 2026 22:09:30 GMT | F#ck IT! | Melissa Kayce | [Read More](https://medium.com/p/66485bc70c4e) |
+| Mon, 16 Mar 2026 22:03:43 GMT | Securing Event-Sourced Financial Systems: From Encryption to Observability | Krzysztof Słomka | [Read More](https://medium.com/p/1994fd2466c5) |
+| Mon, 16 Mar 2026 22:03:39 GMT | Security Concepts Every Java Developer in Banking Should Master: Part 2 | Kalyani Dagde | [Read More](https://medium.com/p/b507c2ba8cd5) |
+| Mon, 16 Mar 2026 22:02:33 GMT | Architecting Security Into any Claw Framework: Isolation, Multi-tenancy & Safety for Enterprise… | Vamshidhar Pandrapagada | [Read More](https://medium.com/p/0c4e523beb71) |
+| Mon, 16 Mar 2026 21:58:02 GMT | From Retention to Retrieval: Managing Data Age with Snowflake Storage Lifecycle Policies | Pascal Pfäffle | [Read More](https://medium.com/p/ce1c0e2bbe10) |
+| Mon, 16 Mar 2026 21:51:59 GMT | Reusing a One-Time Coupon Code Multiple Times (Business Logic Bug) | Tarekmohamed | [Read More](https://medium.com/p/664766230b53) |
+| Mon, 16 Mar 2026 21:51:48 GMT | Beyond Kubernetes Secrets: Hardening EKS with AWS Secrets Manager and CSI | Dickson Victor Omasi | [Read More](https://medium.com/p/b6e31d38e989) |
+| Mon, 16 Mar 2026 21:40:48 GMT | Your AI agent is insecure. | Caleb Cushing | [Read More](https://medium.com/p/579031f530db) |
 | Mon, 16 Mar 2026 21:31:00 GMT | In-House IT vs. Managed Services vs. Hybrid — The Cost Comparison Nobody Shows You | Allison Martin | [Read More](https://medium.com/p/f91bee4cfa49) |
 | Mon, 16 Mar 2026 21:27:32 GMT | The Canada–Japan Cyber Alliance: Inside a New Paradigm for Indo-Pacific Security | Tae Yeon Eom | [Read More](https://medium.com/p/6c0066ddc004) |
 | Mon, 16 Mar 2026 21:27:27 GMT | IDCA Exclusive Inside Look: Exploring the LinkedIn Data Center | International Data Center Authority | [Read More](https://medium.com/p/5d8c8fd38b47) |
@@ -101,14 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Mar 2026 15:50:44 GMT | We Wanted to Stop Handing PATs to External Automation. So I Built This Instead. | Ahmed Ibrahim | [Read More](https://medium.com/p/a74a13ac1775) |
 | Mon, 16 Mar 2026 15:45:23 GMT | Understanding Browser Permissions: A Simple Webcam Demonstration | Khadija Azam | [Read More](https://medium.com/p/747b1b4090e8) |
 | Mon, 16 Mar 2026 15:44:37 GMT | How I Broke Into an Account Because of One Login Error Message | Yeboahromeo | [Read More](https://medium.com/p/e6d9937f5815) |
-| Mon, 16 Mar 2026 15:44:29 GMT | The Day Hibernate Gaslit Our Barista | Amit Srivastava | [Read More](https://medium.com/p/4c41cad238f4) |
-| Mon, 16 Mar 2026 15:40:17 GMT | We’ve Been Busy: New CoPilot Features You Need to See | SOCFortress | [Read More](https://medium.com/p/34f0e2dff50f) |
-| Mon, 16 Mar 2026 15:40:07 GMT | Learning to Be Vulnerable After Years of Doing Everything Alone | Liii | [Read More](https://medium.com/p/06752cc32a1a) |
-| Mon, 16 Mar 2026 15:37:50 GMT | Someone Is Watching Your Baby Monitor — Here’s How to Stop It | Temma | [Read More](https://medium.com/p/bce4bed203ef) |
-| Mon, 16 Mar 2026 15:34:02 GMT | Why Crypto Users Are Losing Access to Their Funds: The Hidden Risk of Contaminated Transactions | QuppyAMLBOT | [Read More](https://medium.com/p/cf7fbd8a004c) |
-| Mon, 16 Mar 2026 15:29:01 GMT | New, Faster, Safer Maravel Micro-Framework Router | marius-ciclistu | [Read More](https://medium.com/p/7aaddc8fd028) |
-| Mon, 16 Mar 2026 15:22:33 GMT | Privacy Is Not a Crime: Why Your Right to Hide Is Sacred | Private.Ki | [Read More](https://medium.com/p/368abcce7a0c) |
-| Mon, 16 Mar 2026 15:22:09 GMT | Stack Exploitation: From Memory Leak to Root Shell | Utkarsha Subedi | [Read More](https://medium.com/p/7d4506ba22fb) |
-| Mon, 16 Mar 2026 15:19:03 GMT | AndroGoat Android Application Pentesting | Rakha Fausta | [Read More](https://medium.com/p/fe15ca2ea267) |
-| Mon, 16 Mar 2026 15:15:12 GMT | Is Security ROI Really About Money, Or Is It About Protecting What Matters? | Luke Appleby | [Read More](https://medium.com/p/e03a3c685899) |
-| Mon, 16 Mar 2026 15:12:30 GMT | Speed as a First Class Skill in Web3 Security Research | Abraham | [Read More](https://medium.com/p/288bc60d036c) |
