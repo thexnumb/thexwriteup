@@ -12,7 +12,12 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Mar 2026 23:16:00 GMT | Meta Sold You “Privacy.” Workers in Kenya Got Your Bedroom. | Ajay Yadav | [Read More](https://medium.com/p/4dbef2cd53c1) |
+| Mon, 16 Mar 2026 23:04:19 GMT | Every Cyber Headline Is a Leadership Test — But Not for the Reason You Think | Harper Knox | [Read More](https://medium.com/p/6a13165b7ef4) |
+| Mon, 16 Mar 2026 22:49:53 GMT | haveibeenpwned-Service von Angreifern | Prtheus | [Read More](https://medium.com/p/1e90fa0c07c3) |
+| Mon, 16 Mar 2026 22:40:15 GMT | TryHackMe SOC Analyst Road Map Part-9 | safa kaya | [Read More](https://medium.com/p/8681a4b9442f) |
 | Mon, 16 Mar 2026 22:33:06 GMT | Least Privilege in Keycloak: Beyond the Default Client Configuration | Ohad Peled | [Read More](https://medium.com/p/bddd9ecedee3) |
+| Mon, 16 Mar 2026 22:27:45 GMT | US–Iran Tensions Increase Cyber Risk: What Western Businesses Should Know | Olga Yakubov | [Read More](https://medium.com/p/358e475b2929) |
 | Mon, 16 Mar 2026 22:20:10 GMT | The Theoretical Floor Just Rose: New Quantum Cryptography Paper Confirms Physics-Enforced Security… | Berend Watchus | [Read More](https://medium.com/p/0e2c99b0b43a) |
 | Mon, 16 Mar 2026 22:15:08 GMT | Sending the User Away: Building a Secure Authorization Request with PKCE | Juwan Hollingsworth | [Read More](https://medium.com/p/b7508e182d03) |
 | Mon, 16 Mar 2026 22:09:30 GMT | F#ck IT! | Melissa Kayce | [Read More](https://medium.com/p/66485bc70c4e) |
@@ -107,8 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Mar 2026 16:01:02 GMT | Hypervisor Based Defense | Idov31 | [Read More](https://medium.com/p/b235f3d27a59) |
 | Mon, 16 Mar 2026 16:00:49 GMT | Day One of Learning python, Cybersecurity basics(Date:-16 March 2026) | Aman | [Read More](https://medium.com/p/d6491ce953c1) |
 | Mon, 16 Mar 2026 15:53:43 GMT | AI Is Eating Open Source From the Inside | Ahmed Ibrahim | [Read More](https://medium.com/p/aa3234d1dc01) |
-| Mon, 16 Mar 2026 15:53:09 GMT | AI agents need security engineering, not just guardrails | Divyesh Govaerdhanan | [Read More](https://medium.com/p/7ed0f3d99b80) |
-| Mon, 16 Mar 2026 15:51:07 GMT | Future‑Proofing Public Sector Cyber Security with End‑of‑Year Spend | MTI Technology UK | [Read More](https://medium.com/p/6819dc3017e0) |
-| Mon, 16 Mar 2026 15:50:44 GMT | We Wanted to Stop Handing PATs to External Automation. So I Built This Instead. | Ahmed Ibrahim | [Read More](https://medium.com/p/a74a13ac1775) |
-| Mon, 16 Mar 2026 15:45:23 GMT | Understanding Browser Permissions: A Simple Webcam Demonstration | Khadija Azam | [Read More](https://medium.com/p/747b1b4090e8) |
-| Mon, 16 Mar 2026 15:44:37 GMT | How I Broke Into an Account Because of One Login Error Message | Yeboahromeo | [Read More](https://medium.com/p/e6d9937f5815) |
