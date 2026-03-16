@@ -12,6 +12,28 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Mar 2026 02:28:57 GMT | How I Built an AI Red Team vs. Blue Team Cybersecurity Lab That Attacks and Defends Itself | Jesse Ridley | [Read More](https://medium.com/p/98169ce6c782) |
+| Mon, 16 Mar 2026 02:22:23 GMT | The New Frontier of Hijacking: Inside AI Recommendation Poisoning | Arthi Rajendran | [Read More](https://medium.com/p/47a4df0721a3) |
+| Mon, 16 Mar 2026 02:13:27 GMT | Malware Analysis Report: Static and Dynamic Analysis of an Emotet/Trickbot Sample | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/7534065e0d83) |
+| Mon, 16 Mar 2026 02:09:56 GMT | Docker Deep Dive | Sai Tanmaiyee | [Read More](https://medium.com/p/7bb027e6f9d4) |
+| Mon, 16 Mar 2026 02:08:55 GMT | Monthly Threat Actor Group Intelligence Report, February 2026 | NSHC ThreatRecon Team | [Read More](https://medium.com/p/3238aa411dab) |
+| Mon, 16 Mar 2026 02:00:39 GMT | Penetration Testing: Information Gathering Explained | Homako | [Read More](https://medium.com/p/792e81edd336) |
+| Mon, 16 Mar 2026 01:53:56 GMT | CyberRiskOps: The Operating Model for Cyber Resilience in the Age of AI | Juan Pablo Castro | [Read More](https://medium.com/p/7c1f6941cefb) |
+| Mon, 16 Mar 2026 01:44:36 GMT | How to Protect Sensitive Data Using Secure Configuration Properties in Mule 4 | Omar ee | [Read More](https://medium.com/p/5df02b8e3274) |
+| Mon, 16 Mar 2026 01:42:59 GMT | Your AI Just Got Eyes: | Ignatius Gigis | [Read More](https://medium.com/p/b38264df67cf) |
+| Mon, 16 Mar 2026 01:30:44 GMT | The Invisible Front Line: Why Cybersecurity is the New Bedrock of Homeland Security | Ali Elkhouly | [Read More](https://medium.com/p/d7a784b827ec) |
+| Mon, 16 Mar 2026 01:25:27 GMT | Deploy a Website and Wait 5 Minutes: The Bots Will Find You! | Sumedha Khatter | [Read More](https://medium.com/p/66371e8c50f7) |
+| Mon, 16 Mar 2026 01:15:24 GMT | 10 Cybersecurity Services Every Business Needs in 2026 | Emily Paul | [Read More](https://medium.com/p/362209800bd6) |
+| Mon, 16 Mar 2026 01:06:31 GMT | The $32 Billion Question: Why Google Acquired Wiz? | Izaak Maine | [Read More](https://medium.com/p/de5c0e25767a) |
+| Mon, 16 Mar 2026 00:49:30 GMT | HackMyVM: Teacher — Walkthrough | Antonio | [Read More](https://medium.com/p/28d76c6a7bfe) |
+| Mon, 16 Mar 2026 00:42:10 GMT | Hardening de VPS Linux: Tailscale + UFW + Fail2ban + SSH privado | Lucas Sterzeck | [Read More](https://medium.com/p/c6f5493b1a6a) |
+| Mon, 16 Mar 2026 00:32:04 GMT | Designing Two-Factor Authentication That Scales | aceiny | [Read More](https://medium.com/p/a2f78fab65e4) |
+| Mon, 16 Mar 2026 00:18:57 GMT | Finally, a Credit Solution That Works: Thank You, Pinnacle | Angela H. Dows | [Read More](https://medium.com/p/32dc98d6f977) |
+| Mon, 16 Mar 2026 00:16:28 GMT | How I converted my old laptop to a SIEM | Niharika Umrani | [Read More](https://medium.com/p/06463bd3b186) |
+| Mon, 16 Mar 2026 00:10:05 GMT | PowerShell Obfuscation via Seeded Get-Random — Part 2 | Luke Thompson | [Read More](https://medium.com/p/1e330e03adaa) |
+| Mon, 16 Mar 2026 00:01:08 GMT | Overpass 3 — Hosting (THM) Tryhackme WriteUp Answer | Lawvye | [Read More](https://medium.com/p/56c50237926d) |
+| Mon, 16 Mar 2026 00:00:04 GMT | OWASP Top 10 2025: IAAA Failures - TryHackMe Write-up | Mochammad Farros Fatchur Roji | [Read More](https://medium.com/p/65cef7d1f8aa) |
+| Sun, 15 Mar 2026 23:57:49 GMT | What is SIEM? | CyberRise Institute | [Read More](https://medium.com/p/1a1096a133a7) |
 | Sun, 15 Mar 2026 23:09:31 GMT | AI-Readiness: Why Your Strategy Will Fail Without API Security | Akansha Shukla | [Read More](https://medium.com/p/d19208108b5e) |
 | Sun, 15 Mar 2026 23:04:48 GMT | Is Your Small Business a Hacker’s Next Target? | Lisa Zander | [Read More](https://medium.com/p/5ec949f3286a) |
 | Sun, 15 Mar 2026 22:40:37 GMT | Bir CMS Kabusu: CVE-2023–27372 ile SPIP Üzerinde Uzaktan Kod Çalıştırma (RCE) | Erdem Ceylan | [Read More](https://medium.com/p/bf72c868d223) |
@@ -90,25 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Mar 2026 17:21:51 GMT | When a Composite Checkout Keeps Pricing From a State That No Longer Exists | sin99xx | [Read More](https://medium.com/p/edffe47cba64) |
 | Sun, 15 Mar 2026 17:19:34 GMT | “Hunting Hidden Files: Coding a Directory Buster in Python” | Akhilswami | [Read More](https://medium.com/p/219378a38729) |
 | Sun, 15 Mar 2026 17:16:00 GMT | Researchers Found 25 Ways Your Password Manager Can Betray You. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/5afc4ed32086) |
-| Sun, 15 Mar 2026 17:10:59 GMT | The Deployment Door Nobody Checked: How a Logic Flaw Bypassed Cloud Authentication Entirely | R.H Rizvi | [Read More](https://medium.com/p/07a329aefed3) |
-| Sun, 15 Mar 2026 17:10:35 GMT | The Beginner’s Bug Bounty Trap: Why Learning More Is Making You Earn Less | R.H Rizvi | [Read More](https://medium.com/p/0676f46adfb7) |
-| Sun, 15 Mar 2026 17:05:11 GMT | PicoCTF 2019 Writeup: Memecahkan Tantangan “dont-use-client-side” (Web Exploitation) | Malvin Wijaya | [Read More](https://medium.com/p/fef91a32cc5a) |
-| Sun, 15 Mar 2026 17:03:13 GMT | How Hydra Works: A Beginner’s Guide for Ethical Hackers | Mahidul Haque | [Read More](https://medium.com/p/d243bbceed38) |
-| Sun, 15 Mar 2026 16:57:37 GMT | Top IT Companies in Oman: The Complete 2026 Guide | hardin s | [Read More](https://medium.com/p/361f4757ec96) |
-| Sun, 15 Mar 2026 16:54:45 GMT | The Guide to Penetration Testing: Methodologies, Reconnaissance, and Tools | Gauravdahala | [Read More](https://medium.com/p/082eaf1d9ee9) |
-| Sun, 15 Mar 2026 16:49:59 GMT | Cracking the Code: The Human Strategy Behind Landing Your Cybersecurity Dream Job | The Daily Cyber News | [Read More](https://medium.com/p/6bf7d6a61bf2) |
-| Sun, 15 Mar 2026 16:47:29 GMT | The 5 Pillars of Information Security: A Comprehensive Guide | Mahadevan Varadhan | [Read More](https://medium.com/p/581436d3ebbb) |
-| Sun, 15 Mar 2026 16:45:35 GMT | Web Security Series #4 — Discovering Unauthorized Resources via IDOR (Burp Suite & ffuf) | Laibakashif | [Read More](https://medium.com/p/bd878726f8a2) |
-| Sun, 15 Mar 2026 16:41:59 GMT | I Got My Cybersecurity Skills Assessed. Here’s What the Data Said About Me. | Namwone Brenda Tabitha | [Read More](https://medium.com/p/5e282a3689a4) |
-| Sun, 15 Mar 2026 16:40:23 GMT | Social Engineering: Why Humans Are the Weakest Link in Cybersecurity | Nitin Kumar Patel | [Read More](https://medium.com/p/71a5234c6f16) |
-| Sun, 15 Mar 2026 16:34:25 GMT | The OWASP Top 10 in 2026: New Vulnerabilities Every Full-Stack Developer Must Know | Arnav Pyrell | [Read More](https://medium.com/p/497f47c5b21e) |
-| Sun, 15 Mar 2026 16:30:23 GMT | The MOVEit Transfer Cyberattack: One of the Most Dangerous Supply-Chain Attacks in Recent Years | Majji pradeep kumar | [Read More](https://medium.com/p/c0ff956aac35) |
-| Sun, 15 Mar 2026 16:29:49 GMT | Nmap Reconnaissance on Vulnversity — A Beginner Friendly Walkthrough | Zahid (Cybersecurity Student) | [Read More](https://medium.com/p/f6fce73a7caa) |
-| Sun, 15 Mar 2026 16:26:52 GMT | Nobody noticed the most important thing at MWC 2026! | The Interface | [Read More](https://medium.com/p/b48afdd4af95) |
-| Sun, 15 Mar 2026 16:16:38 GMT | Inside the Vietnam National Innovation Center (NIC): Quantum Tech, UAVs, and the Future of… | #intention's | [Read More](https://medium.com/p/f59e840e111c) |
-| Sun, 15 Mar 2026 16:16:20 GMT | Ransomware 3.0: How Threat Actors Are Moving from Encryption to “Triple Extortion” | Akash Deep | [Read More](https://medium.com/p/08ec3126f095) |
-| Sun, 15 Mar 2026 16:15:39 GMT | I Was Tired of Digging Through Kubernetes Audit Logs. So I Built a Real-Time Explorer. | Hybrid2k3 | [Read More](https://medium.com/p/73324a835871) |
-| Sun, 15 Mar 2026 16:11:11 GMT | Beyond the Password: A Pragmatic Guide to Implementing Zero-Trust Architecture in Small Businesses | Sidharth Barman | [Read More](https://medium.com/p/897ce64ce91c) |
-| Sun, 15 Mar 2026 16:09:54 GMT | Business Analyst P.5: Requirement Life Cycle Management | Fachry Andika Rachman | [Read More](https://medium.com/p/c242353c9dc6) |
-| Sun, 15 Mar 2026 16:05:43 GMT | The Human Firewall: Why Employee Training Is Your Strongest Defense Against AI-Powered Phishing | Sidharth Barman | [Read More](https://medium.com/p/0b25b4fd405b) |
-| Sun, 15 Mar 2026 16:03:01 GMT | Before You Hack Anything, You Have to Know Everything: A Beginner’s Guide to Information Gathering… | AashishChaudhari | [Read More](https://medium.com/p/e6720e412d26) |
