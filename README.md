@@ -12,6 +12,15 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Mar 2026 20:40:55 GMT | SQL Injection - The 25-Year-Old Vulnerability That Is Still Emptying Databases in 2025 | Rufus Kehinde | [Read More](https://medium.com/p/3afc59c31d6e) |
+| Mon, 16 Mar 2026 20:38:53 GMT | ISO 27001 Protects Data. ISO 42001 Protects Intelligence | Sarah | [Read More](https://medium.com/p/19b1c9dbd742) |
+| Mon, 16 Mar 2026 20:26:42 GMT | Your AI agent just sent an email. Did you authorize that? | Viplav Fauzdar | [Read More](https://medium.com/p/edeffe0b7f93) |
+| Mon, 16 Mar 2026 20:23:13 GMT | How I Compromised an Entire Active Directory Domain in 3 Steps | JunoonBro | [Read More](https://medium.com/p/220ba8b550fb) |
+| Mon, 16 Mar 2026 20:06:00 GMT | How Data Analytics Strengthens Cybersecurity | Osiris | [Read More](https://medium.com/p/d49fa51295df) |
+| Mon, 16 Mar 2026 20:02:56 GMT | A Digital Forensics Walkthrough | Jegannagi | [Read More](https://medium.com/p/7533b0f3c9fd) |
+| Mon, 16 Mar 2026 20:02:29 GMT | MCP vs Agentic AI: The Difference Almost Everyone Gets Wrong | Akshat Patel | [Read More](https://medium.com/p/f9b9fb3616a1) |
+| Mon, 16 Mar 2026 20:01:20 GMT | Springer&apos;s Cybersecurity Best Practices: an In-depth Look | cyber tech | [Read More](https://medium.com/p/35738c22bb9a) |
+| Mon, 16 Mar 2026 19:56:43 GMT | The Browser Has Become the Most Overlooked Security Risk in Everyday Life | Shawn micheal | [Read More](https://medium.com/p/3cf4d575ac18) |
 | Mon, 16 Mar 2026 19:52:22 GMT | Modern Security Cameras Explained: Features and Real Capabilities | Teona | [Read More](https://medium.com/p/51f631ad1897) |
 | Mon, 16 Mar 2026 19:50:34 GMT | Cybersecurity Weekly Summary March 9–16, 2026 | Bobbie á Deild | [Read More](https://medium.com/p/979d782e27f5) |
 | Mon, 16 Mar 2026 19:44:11 GMT | I Spent a Week Learning How to Hack APIs and Honestly the Internet Should Be More Scared | Yankho Kamtukulo | [Read More](https://medium.com/p/d3872a4fcbb7) |
@@ -103,12 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Mar 2026 14:35:22 GMT | NYC’s New Wage Law Is About to Hit Private Security Hard. Most Building Owners Don’t Know Yet. | Building Security Services | [Read More](https://medium.com/p/4d9b5f40d1fd) |
 | Mon, 16 Mar 2026 14:32:42 GMT | Web Security Series #5 — Exploiting Broken Access Control via Token Misuse in API Endpoints | Laibakashif | [Read More](https://medium.com/p/c0d89ceaadd1) |
 | Mon, 16 Mar 2026 14:21:17 GMT | How I Discovered a $700 CSRF Vulnerability and Recreated It as a Security Lab | C0deRevenant | [Read More](https://medium.com/p/7a2e0a80eb92) |
-| Mon, 16 Mar 2026 14:17:32 GMT | TryHackMe - Vulnerability Capstone | Tega Akperiojire (cyber_with_tega) | [Read More](https://medium.com/p/4f1d970dcbe8) |
-| Mon, 16 Mar 2026 14:15:54 GMT | I Built a Privacy-First Developer Toolkit — Here’s Why It Matters | Gaurav Tayade | [Read More](https://medium.com/p/ca60dcd28669) |
-| Mon, 16 Mar 2026 14:15:15 GMT | In Defence of (Detection) Artists | Tomasz Kojm | [Read More](https://medium.com/p/b7a5442a393a) |
-| Mon, 16 Mar 2026 14:13:49 GMT | CVE-2024–55415 Walkthrough (Proving Ground) | cyber_public_school | [Read More](https://medium.com/p/59184d2f7181) |
-| Mon, 16 Mar 2026 14:12:46 GMT | How to Make Sure Your Life Insurance Policies Get Claimed When You’re Gone | InheritSafe | [Read More](https://medium.com/p/a94bd6ab8bd7) |
-| Mon, 16 Mar 2026 14:04:50 GMT | A Secure Way to Notify Your Executor and Release Important Items If I Die | Olivia Martillo | [Read More](https://medium.com/p/dd9484d4aae3) |
-| Mon, 16 Mar 2026 14:01:08 GMT | Why So Many Of Us Are Either Drowning In Feelings — Or Trying To Feel Nothing At All? | Gurleen Kaur Reel | [Read More](https://medium.com/p/dc9efd6d17ad) |
-| Mon, 16 Mar 2026 14:01:04 GMT | Why SMBs panic at customer security questionnaires — and how to avoid it | Gaurav Shukla | [Read More](https://medium.com/p/c56da68421aa) |
-| Mon, 16 Mar 2026 14:01:04 GMT | Why Hackers Love Small Businesses (And What You Can Do About It) | Sharon Martin | [Read More](https://medium.com/p/8c2fc6ba5b9b) |
