@@ -12,7 +12,34 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Mar 2026 16:03:26 GMT | Quantifying Cyber Risk: Leveraging CRQ and FAIR for Informed Insurance Decisions | Edwin Covert | [Read More](https://medium.com/p/293a52f73b99) |
+| Mon, 16 Mar 2026 16:03:21 GMT | Before You Hack Anything: The Information Gathering Techniques Every Ethical Hacker Must Know | Chhetrinikita | [Read More](https://medium.com/p/944fdae7f8f7) |
+| Mon, 16 Mar 2026 16:01:02 GMT | Hypervisor Based Defense | Idov31 | [Read More](https://medium.com/p/b235f3d27a59) |
+| Mon, 16 Mar 2026 16:00:49 GMT | Day One of Learning python, Cybersecurity basics(Date:-16 March 2026) | Aman | [Read More](https://medium.com/p/d6491ce953c1) |
+| Mon, 16 Mar 2026 15:53:43 GMT | AI Is Eating Open Source From the Inside | Ahmed Ibrahim | [Read More](https://medium.com/p/aa3234d1dc01) |
+| Mon, 16 Mar 2026 15:53:09 GMT | AI agents need security engineering, not just guardrails | Divyesh Govaerdhanan | [Read More](https://medium.com/p/7ed0f3d99b80) |
+| Mon, 16 Mar 2026 15:51:07 GMT | Future‑Proofing Public Sector Cyber Security with End‑of‑Year Spend | MTI Technology UK | [Read More](https://medium.com/p/6819dc3017e0) |
+| Mon, 16 Mar 2026 15:50:44 GMT | We Wanted to Stop Handing PATs to External Automation. So I Built This Instead. | Ahmed Ibrahim | [Read More](https://medium.com/p/a74a13ac1775) |
+| Mon, 16 Mar 2026 15:45:23 GMT | Understanding Browser Permissions: A Simple Webcam Demonstration | Khadija Azam | [Read More](https://medium.com/p/747b1b4090e8) |
+| Mon, 16 Mar 2026 15:44:37 GMT | How I Broke Into an Account Because of One Login Error Message | Yeboahromeo | [Read More](https://medium.com/p/e6d9937f5815) |
+| Mon, 16 Mar 2026 15:44:29 GMT | The Day Hibernate Gaslit Our Barista | Amit Srivastava | [Read More](https://medium.com/p/4c41cad238f4) |
+| Mon, 16 Mar 2026 15:40:17 GMT | We’ve Been Busy: New CoPilot Features You Need to See | SOCFortress | [Read More](https://medium.com/p/34f0e2dff50f) |
+| Mon, 16 Mar 2026 15:40:07 GMT | Learning to Be Vulnerable After Years of Doing Everything Alone | Liii | [Read More](https://medium.com/p/06752cc32a1a) |
+| Mon, 16 Mar 2026 15:37:50 GMT | Someone Is Watching Your Baby Monitor — Here’s How to Stop It | Temma | [Read More](https://medium.com/p/bce4bed203ef) |
+| Mon, 16 Mar 2026 15:34:02 GMT | Why Crypto Users Are Losing Access to Their Funds: The Hidden Risk of Contaminated Transactions | QuppyAMLBOT | [Read More](https://medium.com/p/cf7fbd8a004c) |
+| Mon, 16 Mar 2026 15:29:01 GMT | New, Faster, Safer Maravel Micro-Framework Router | marius-ciclistu | [Read More](https://medium.com/p/7aaddc8fd028) |
+| Mon, 16 Mar 2026 15:22:33 GMT | Privacy Is Not a Crime: Why Your Right to Hide Is Sacred | Private.Ki | [Read More](https://medium.com/p/368abcce7a0c) |
+| Mon, 16 Mar 2026 15:22:09 GMT | Stack Exploitation: From Memory Leak to Root Shell | Utkarsha Subedi | [Read More](https://medium.com/p/7d4506ba22fb) |
+| Mon, 16 Mar 2026 15:19:03 GMT | AndroGoat Android Application Pentesting | Rakha Fausta | [Read More](https://medium.com/p/fe15ca2ea267) |
+| Mon, 16 Mar 2026 15:15:12 GMT | Is Security ROI Really About Money, Or Is It About Protecting What Matters? | Luke Appleby | [Read More](https://medium.com/p/e03a3c685899) |
+| Mon, 16 Mar 2026 15:12:30 GMT | Speed as a First Class Skill in Web3 Security Research | Abraham | [Read More](https://medium.com/p/288bc60d036c) |
+| Mon, 16 Mar 2026 15:04:04 GMT | Aplikasi Mobile: Membuat Dice Fungsional Menggunakan Flutter Apps | Yasa Wijaya | [Read More](https://medium.com/p/2548620d4fa5) |
+| Mon, 16 Mar 2026 15:01:47 GMT | Anonforce — TryHackMe Writeup | JEHAD F OMARI | [Read More](https://medium.com/p/1c81a8702e6e) |
+| Mon, 16 Mar 2026 14:58:40 GMT | Key Cards Gone Wild! Even in the Restroom, This Company Has Employees Swiping and Wiping. | Rusty Pen | [Read More](https://medium.com/p/59aee72ccb02) |
+| Mon, 16 Mar 2026 14:56:50 GMT | Windows Privilege Escalation Skills Assessment — Part I Walkthrough | Moustafa Abdelmaksoud | [Read More](https://medium.com/p/30f498e444e7) |
+| Mon, 16 Mar 2026 14:47:09 GMT | Using ChaCha20 as a Full CSPRNG for Provably Fair Gambling | Emma Paułowicz | [Read More](https://medium.com/p/de4ea5fed68a) |
 | Mon, 16 Mar 2026 14:42:46 GMT | The Echo Chamber and the Path Less Traveled | The Seeker Project | [Read More](https://medium.com/p/a56de69cf061) |
+| Mon, 16 Mar 2026 14:35:22 GMT | NYC’s New Wage Law Is About to Hit Private Security Hard. Most Building Owners Don’t Know Yet. | Building Security Services | [Read More](https://medium.com/p/4d9b5f40d1fd) |
 | Mon, 16 Mar 2026 14:32:42 GMT | Web Security Series #5 — Exploiting Broken Access Control via Token Misuse in API Endpoints | Laibakashif | [Read More](https://medium.com/p/c0d89ceaadd1) |
 | Mon, 16 Mar 2026 14:21:17 GMT | How I Discovered a $700 CSRF Vulnerability and Recreated It as a Security Lab | C0deRevenant | [Read More](https://medium.com/p/7a2e0a80eb92) |
 | Mon, 16 Mar 2026 14:17:32 GMT | TryHackMe - Vulnerability Capstone | Tega Akperiojire (cyber_with_tega) | [Read More](https://medium.com/p/4f1d970dcbe8) |
@@ -85,30 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Mar 2026 10:24:23 GMT | The Hidden Mathematics of Pussy888 Malaysia: Why Direct Platforms Are Your Only Safe Bet in 2026 | Julian Davies | [Read More](https://medium.com/p/8f69fb61a01e) |
 | Mon, 16 Mar 2026 10:20:28 GMT | The Science of Voice: How Bio-Acoustic Intelligence Is Changing Forensics, Security, and Mental… | Eliot Cohen Bacrie | [Read More](https://medium.com/p/80f2a9b2067a) |
 | Mon, 16 Mar 2026 10:10:09 GMT | The Password I Can’t Forget: Why Security is Actually a Love Language | Mohit | [Read More](https://medium.com/p/da4229abcb38) |
-| Mon, 16 Mar 2026 10:04:23 GMT | Hire Mobile App Developers in Saudi Arabia in 2026: Top 10 Trusted App Developers | Lily Parker | [Read More](https://medium.com/p/6db79f8533e0) |
-| Mon, 16 Mar 2026 10:02:17 GMT | A Therapy Gone Dark | O. J. Okpabi | [Read More](https://medium.com/p/463b0f1bbe38) |
-| Mon, 16 Mar 2026 10:01:01 GMT | What Changes When You Actually Know Your Product Is Secure | Cyphersilhouette | [Read More](https://medium.com/p/1521cd91987c) |
-| Mon, 16 Mar 2026 09:52:42 GMT | How to Avoid Crypto Scams: Common Red Flags and Safety Tips for Beginners | Tothemoon_Exchange | [Read More](https://medium.com/p/3be487b5fa20) |
-| Mon, 16 Mar 2026 09:52:39 GMT | What Mistakes Should Companies Avoid in Data Loss Prevention Best Practices? | Watch My Work | [Read More](https://medium.com/p/9b2a36317ccd) |
-| Mon, 16 Mar 2026 09:51:41 GMT | How to prepare for Penetration Testing Interviews. | 0xSmit | [Read More](https://medium.com/p/9df4e32dcc64) |
-| Mon, 16 Mar 2026 09:51:34 GMT | Sliver C2 Deep Dive : A Comprehensive Command & Control Framework Series | Maverick | [Read More](https://medium.com/p/4f8ba55f7a45) |
-| Mon, 16 Mar 2026 09:46:00 GMT | Rejecting the Retention Bribe and the Return of Employee Contracts? | Namir Sagheenanajar | [Read More](https://medium.com/p/de7c628cdcc0) |
-| Mon, 16 Mar 2026 09:43:18 GMT | From XML to Root: A Deep Dive into Struts S2–052 Deserialization | Xpl0itZ3r0X | [Read More](https://medium.com/p/be414b34c681) |
-| Mon, 16 Mar 2026 09:39:34 GMT | US Penetration Testing Market: Strengthening Cyber Defenses in an Era of Expanding Digital Threats | Sheetalbhusari | [Read More](https://medium.com/p/9c5704c6ac01) |
-| Mon, 16 Mar 2026 09:30:52 GMT | Cybersecurity Career Tip: Learn by Doing | Bugitrix | [Read More](https://medium.com/p/0bc26c47fb5a) |
-| Mon, 16 Mar 2026 09:26:50 GMT | TI Mindmap Hub - Weekly Threat Brief — Issue #8 | Antonio Formato | [Read More](https://medium.com/p/4f736cb2ab70) |
-| Mon, 16 Mar 2026 09:18:11 GMT | A Comparison of Linux Container Base Images (2026 Short Edition) | Kulbhushan Bhalerao | [Read More](https://medium.com/p/52144900b024) |
-| Mon, 16 Mar 2026 09:16:09 GMT | Browser Vulnerabilities: Can Your Webcam Be Accessed Without Permission? | Alyan Tariq | [Read More](https://medium.com/p/092508588492) |
-| Mon, 16 Mar 2026 09:15:12 GMT | ASIO’s Multi-Disciplinary Approach to Intelligence — Case Study | Journal of Landing Across Linguistic Foreground | [Read More](https://medium.com/p/6b5f322723bb) |
-| Mon, 16 Mar 2026 09:13:52 GMT | Network basics for cybersecurity — Day 7 | 0xSmit | [Read More](https://medium.com/p/26f2c5acbe6d) |
-| Mon, 16 Mar 2026 09:13:37 GMT | AI Governance in Cybersecurity: Why Companies Are Flying Blind | Abhijith Soman | [Read More](https://medium.com/p/c6e6f650f9c4) |
-| Mon, 16 Mar 2026 09:13:21 GMT | Why Reliable IT Support Is Essential for Growing Businesses. | vortex it systems | [Read More](https://medium.com/p/a8e0977a4fe4) |
-| Mon, 16 Mar 2026 09:10:26 GMT | How to Investigate Any X (Twitter) Account : Complete Practical OSINT Methods ️‍♂️ - Day 2 | Deepanshu Deep | [Read More](https://medium.com/p/1f3b761ce351) |
-| Mon, 16 Mar 2026 09:06:38 GMT | Penetration Testing for Web Application Explained Simply | Application Security Master | [Read More](https://medium.com/p/4f1dbd8ac764) |
-| Mon, 16 Mar 2026 09:00:42 GMT | Security in DeFi: How to Understand Whether a Cryptocurrency Platform Can Be Trusted? | Super | [Read More](https://medium.com/p/490c507194c4) |
-| Mon, 16 Mar 2026 08:53:19 GMT | Cybersecurity Awareness in Bangladesh: Why It Matters More Than Ever | ASRBD - Cybersecurity Bangladesh | [Read More](https://medium.com/p/52609bdb9d48) |
-| Mon, 16 Mar 2026 08:49:20 GMT | Artificial Intelligence and Cyber Security | Jithesh | [Read More](https://medium.com/p/f4a67b16baf6) |
-| Mon, 16 Mar 2026 08:48:16 GMT | Why Corporate Investigations Are Taking 3x Longer Than They Should | Vihaan Sethi | [Read More](https://medium.com/p/7dd667ce9bd9) |
-| Mon, 16 Mar 2026 08:44:50 GMT | Navigate My Blog: All Articles by Topic | Andrey Pautov | [Read More](https://medium.com/p/ffd800ef5480) |
-| Mon, 16 Mar 2026 08:34:11 GMT | From Hospitals to Auto Workshops… How BI-Technology Builds Systems That Save You Time | MESHAL Muhammed | [Read More](https://medium.com/p/f45539d1eaf0) |
-| Mon, 16 Mar 2026 08:28:46 GMT | Secure Model Deployment on AWS SageMaker | Davebhargavi | [Read More](https://medium.com/p/f374b6cd43bd) |
