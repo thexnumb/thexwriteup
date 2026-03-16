@@ -12,10 +12,43 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Mar 2026 08:00:26 GMT | NDR in a Zero Trust World: Securing East-West Traffic in 2026 | NetWitness | [Read More](https://medium.com/p/2c178d462185) |
+| Mon, 16 Mar 2026 07:56:51 GMT | Why I Hate Bugcrowd: When Fighting for a Valid Report Still Gets You Nowhere | Aakash Ahmed | [Read More](https://medium.com/p/7b1070c96d5e) |
+| Mon, 16 Mar 2026 07:50:55 GMT | The 2026 Architecture of High-Concurrency Gaming: A Technical Deep Dive | Andrew - mega888ai | [Read More](https://medium.com/p/af7af140f2c8) |
+| Mon, 16 Mar 2026 07:49:08 GMT | From L3/L4 to L7 Security: How Cilium Reinvents Kubernetes Network Policies | Saurabh Tandon | [Read More](https://medium.com/p/ed1e44bab595) |
+| Mon, 16 Mar 2026 07:47:44 GMT | The Cryptography Concept Journey — Certificate Pinning | Shlomi Boutnaru, Ph.D. | [Read More](https://medium.com/p/b6f5435de8ca) |
+| Mon, 16 Mar 2026 07:43:56 GMT | Is Snapchat Compromising User Privacy? The Growing Concern Around Social Media Data Usage | Ankit rai | [Read More](https://medium.com/p/ab94c7e234e3) |
+| Mon, 16 Mar 2026 07:43:15 GMT | Day 08: Password Attacks, Types, Techniques, and SOC Detection | Muhammad Kashif | [Read More](https://medium.com/p/1d02a0af9a7d) |
+| Mon, 16 Mar 2026 07:41:38 GMT | Building Smarter Automation Workflows for Growing Businesses | n8ndevelopers | [Read More](https://medium.com/p/f370fb011b92) |
+| Mon, 16 Mar 2026 07:41:00 GMT | API Key Nedir? Nasıl Gönderilir? Gerçekten Güvenli mi? | Burak Kaşıkcı | [Read More](https://medium.com/p/78144158e04b) |
+| Mon, 16 Mar 2026 07:41:00 GMT | The Weight of Open Hands | Khoiru Rizal | [Read More](https://medium.com/p/518487eb590f) |
+| Mon, 16 Mar 2026 07:38:38 GMT | “Digital Democracy” Floating Over Tokyo: Observation Report of the 0-Yen Warp between Akasaka and… | kageyama rai | [Read More](https://medium.com/p/2aef5f61c38b) |
+| Mon, 16 Mar 2026 07:37:47 GMT | Top Decision Intelligence Platforms in the USA | WebDataGuru | [Read More](https://medium.com/p/73b7f0b48eac) |
+| Mon, 16 Mar 2026 07:32:58 GMT | DeepTeam: Why Red‑Teaming LLMs Is Becoming Non‑Negotiable | balaji bal | [Read More](https://medium.com/p/95ad7f32412e) |
+| Mon, 16 Mar 2026 07:32:38 GMT | From Misconfiguration to Full Domain Compromise: Evaluating Behavioral Prevention Gaps in Cortex… | Attar Wahyu | [Read More](https://medium.com/p/4f81ce111551) |
+| Mon, 16 Mar 2026 07:31:29 GMT | How I hacked AI Agent and worth bounty of $$$$ | Manan Sanghvi | [Read More](https://medium.com/p/d339060de9f1) |
+| Mon, 16 Mar 2026 07:26:04 GMT | Static Analysis of a Malicious PDF- A Hands-On SOC Lab Walkthrough | Vishvambhar ranoshe | [Read More](https://medium.com/p/b8d0333539fa) |
+| Mon, 16 Mar 2026 07:22:31 GMT | DVWA Setup | Samir | [Read More](https://medium.com/p/1799651a6d2d) |
+| Mon, 16 Mar 2026 07:17:39 GMT | Müşteriden Önce Senin Haberin Olsun: UptimeRobot ile Dışarıdan İzleme | Serdarumuturan | [Read More](https://medium.com/p/2c96ea140fba) |
+| Mon, 16 Mar 2026 07:16:55 GMT | Pemahaman Kebijakan Privasi Masih Dianggap Kurang Penting Pada Era Digital | Abdul Halim Ichwan | [Read More](https://medium.com/p/5b8cee5ae871) |
+| Mon, 16 Mar 2026 07:16:21 GMT | When EDRM Becomes a Liability: 5 Implementation Mistakes That Increase Risk | Niyati Daftary | [Read More](https://medium.com/p/aa6ae185e7d3) |
+| Mon, 16 Mar 2026 07:16:10 GMT | The Rise of the Vibe Hacker: When Prompting Becomes Penetration Testing | urhnrblpntstr | [Read More](https://medium.com/p/45bb2b418b90) |
+| Mon, 16 Mar 2026 07:16:06 GMT | Penetration testing (Passive Recon) | Unishakhadgi | [Read More](https://medium.com/p/5cc4ffc3e099) |
+| Mon, 16 Mar 2026 07:15:55 GMT | $800 Bounty: How a Missing Email Verification Led to Account Takeover on Shopify Collabs | Monika sharma | [Read More](https://medium.com/p/0c9ab8683bfd) |
+| Mon, 16 Mar 2026 07:15:46 GMT | AI Agents Can Hack Now. Here’s What That Actually Looks Like | Muhammad Haider Tallal | [Read More](https://medium.com/p/08b0c8001fe1) |
+| Mon, 16 Mar 2026 07:11:56 GMT | TryHackMe Develpy | delirium | [Read More](https://medium.com/p/b81f4ba2d482) |
+| Mon, 16 Mar 2026 07:00:34 GMT | Hunting Threats in OT Environments Using Only Built-In System Commands — No Tools Required | MrDuc | [Read More](https://medium.com/p/6adc80ef0ee2) |
+| Mon, 16 Mar 2026 06:55:59 GMT | Essential Red Teaming Tools for the Modern Offensive Pro | Aditya InfosecTrain | [Read More](https://medium.com/p/8b57d5b1506e) |
+| Mon, 16 Mar 2026 06:54:21 GMT | Behind the Pitch: Lessons and Reflections from the National IT Innovation Hub | Pedson Tayebwa | [Read More](https://medium.com/p/35218ac62c94) |
+| Mon, 16 Mar 2026 06:53:54 GMT | Executive Tabletop Exercises: Simulating a Board-Level Strengthening Strategic Cyber Resilience in… | Cynox Security LLP. | [Read More](https://medium.com/p/f8673ea8923b) |
+| Mon, 16 Mar 2026 06:53:20 GMT | Analysis and Experimentation of OOXML and the Hidden Dangers of Canary Tokens | Albertstive | [Read More](https://medium.com/p/e1c62cba1f0f) |
+| Mon, 16 Mar 2026 06:49:49 GMT | PART 10 – Bringing It All Together: Building a Cyber-Resilient Organization in Africa | Abraham Karikari | [Read More](https://medium.com/p/2ffb5f8ecb49) |
+| Mon, 16 Mar 2026 06:45:36 GMT | The Invisible Break-In: How AI Code Is Opening Doors Hackers Never Had to Pick | Potech | [Read More](https://medium.com/p/cefbbc0d27a8) |
 | Mon, 16 Mar 2026 06:42:15 GMT | Blocking Botnet Command-and-Control Domains Using AWS Route 53 DNS Firewall | Vinayak Pandey | [Read More](https://medium.com/p/e220517989b2) |
 | Mon, 16 Mar 2026 06:32:57 GMT | A Brighter Layer | Connect Cyberbeam | [Read More](https://medium.com/p/fcb4ad9cbb8d) |
 | Mon, 16 Mar 2026 06:29:08 GMT | The Exact Python Pipeline Hunters Use to Automatically Prioritize 10,000+ Recon Targets | Fateyaly | [Read More](https://medium.com/p/4e4777ac33b1) |
 | Mon, 16 Mar 2026 06:24:59 GMT | Accelerate Secure Software Delivery with Modern DevSecOps Practices | Kaiburr | [Read More](https://medium.com/p/a525d4320795) |
+| Mon, 16 Mar 2026 06:24:08 GMT | Why You Should Hire a Cyber Security Expert to Protect Your Business | Devin Morgan | [Read More](https://medium.com/p/b3e6cd0c62ff) |
 | Mon, 16 Mar 2026 06:22:56 GMT | Nurse Call System Market Growing at 10.26% CAGR Through 2033 | NIkita Poplai | [Read More](https://medium.com/p/80249baaa3b9) |
 | Mon, 16 Mar 2026 06:16:56 GMT | 200,000 Devices. One Admin Password: How a $25 Billion Medical Company Got Wiped Off | Mandar Karhade, MD. PhD. | [Read More](https://medium.com/p/fe7b6a97a2a6) |
 | Mon, 16 Mar 2026 06:16:31 GMT | AI Is Transforming Healthcare. But Who’s Protecting Your Patient Data? | Rom | [Read More](https://medium.com/p/fdce63e3f92e) |
@@ -35,7 +68,9 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Mar 2026 05:38:36 GMT | Hacking Se Pehle Networking: My Journey from Bank Hacks to MAC Spoofing! | yashu jaiswal | [Read More](https://medium.com/p/18f3cf9bf9ca) |
 | Mon, 16 Mar 2026 05:37:32 GMT | Identity USA maybe out of the question | Si Murray | [Read More](https://medium.com/p/36b030b9f43c) |
 | Mon, 16 Mar 2026 05:36:00 GMT | Cybersecurity Architecture Explained: From Communication to Defense | SDNTechForum | [Read More](https://medium.com/p/d67bd9d133ac) |
+| Mon, 16 Mar 2026 05:32:42 GMT | Why cnc intelligence news Searches Are Increasing | Tim Greene | [Read More](https://medium.com/p/7654ae539888) |
 | Mon, 16 Mar 2026 05:31:53 GMT | The Digital Heist: How Streaming Platform Content Gets Pirated? | Hardik Narware | [Read More](https://medium.com/p/a1cf24d8b987) |
+| Mon, 16 Mar 2026 05:29:26 GMT | Something’s Phishy | Connect Cyberbeam | [Read More](https://medium.com/p/1231a455449b) |
 | Mon, 16 Mar 2026 05:11:20 GMT | The Cryptographic Upgrade Problem — How Blockchains Survive Algorithmic Change | sengom | [Read More](https://medium.com/p/dc5ac3854397) |
 | Mon, 16 Mar 2026 05:08:48 GMT | Strong Passwords: The First Line of Defense to Protect Your Data | Behawk Infosec | [Read More](https://medium.com/p/1cb2f6e80463) |
 | Mon, 16 Mar 2026 05:02:28 GMT | I Built a Framework for AI Identity Disclosure. Then HIPAA Made It Mandatory. | Brianna N. Baynard | [Read More](https://medium.com/p/08dcffc49a07) |
@@ -77,38 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Mar 2026 00:42:10 GMT | Hardening de VPS Linux: Tailscale + UFW + Fail2ban + SSH privado | Lucas Sterzeck | [Read More](https://medium.com/p/c6f5493b1a6a) |
 | Mon, 16 Mar 2026 00:32:04 GMT | Designing Two-Factor Authentication That Scales | aceiny | [Read More](https://medium.com/p/a2f78fab65e4) |
 | Mon, 16 Mar 2026 00:18:57 GMT | Finally, a Credit Solution That Works: Thank You, Pinnacle | Angela H. Dows | [Read More](https://medium.com/p/32dc98d6f977) |
-| Mon, 16 Mar 2026 00:16:28 GMT | How I converted my old laptop to a SIEM | Niharika Umrani | [Read More](https://medium.com/p/06463bd3b186) |
-| Mon, 16 Mar 2026 00:10:05 GMT | PowerShell Obfuscation via Seeded Get-Random — Part 2 | Luke Thompson | [Read More](https://medium.com/p/1e330e03adaa) |
-| Mon, 16 Mar 2026 00:01:08 GMT | Overpass 3 — Hosting (THM) Tryhackme WriteUp Answer | Lawvye | [Read More](https://medium.com/p/56c50237926d) |
-| Mon, 16 Mar 2026 00:00:04 GMT | OWASP Top 10 2025: IAAA Failures - TryHackMe Write-up | Mochammad Farros Fatchur Roji | [Read More](https://medium.com/p/65cef7d1f8aa) |
-| Sun, 15 Mar 2026 23:57:49 GMT | What is SIEM? | CyberRise Institute | [Read More](https://medium.com/p/1a1096a133a7) |
-| Sun, 15 Mar 2026 23:09:31 GMT | AI-Readiness: Why Your Strategy Will Fail Without API Security | Akansha Shukla | [Read More](https://medium.com/p/d19208108b5e) |
-| Sun, 15 Mar 2026 23:04:48 GMT | Is Your Small Business a Hacker’s Next Target? | Lisa Zander | [Read More](https://medium.com/p/5ec949f3286a) |
-| Sun, 15 Mar 2026 22:40:37 GMT | Bir CMS Kabusu: CVE-2023–27372 ile SPIP Üzerinde Uzaktan Kod Çalıştırma (RCE) | Erdem Ceylan | [Read More](https://medium.com/p/bf72c868d223) |
-| Sun, 15 Mar 2026 22:39:31 GMT | PowerShell Keylogger - LetsDefend Challenge | Stefan Bargan | [Read More](https://medium.com/p/75b08c2e5a07) |
-| Sun, 15 Mar 2026 22:37:35 GMT | CyCTF Luxor - monster | Mohamed Tarek | [Read More](https://medium.com/p/fa64e0de4dcd) |
-| Sun, 15 Mar 2026 22:36:44 GMT | Why Your AI Agent Will Eventually Be Manipulated | Subhransu S Nayak | [Read More](https://medium.com/p/1ce041814628) |
-| Sun, 15 Mar 2026 22:36:33 GMT | Preventing Identity and Privilege Abuse in AI Agents | Will Velida | [Read More](https://medium.com/p/e2ea7478bc22) |
-| Sun, 15 Mar 2026 22:29:12 GMT | Preventing Tool Misuse in AI Agents | Will Velida | [Read More](https://medium.com/p/4b0d033ebd4f) |
-| Sun, 15 Mar 2026 22:21:39 GMT | Capstone Project: End-to-End Web Attack Investigation with Wazuh, Wireshark, and Volatility | Allif Maulana Sakti | [Read More](https://medium.com/p/98cc372fc0a4) |
-| Sun, 15 Mar 2026 22:08:32 GMT | Cy CTF Luxor Reverse Write-up 2026 | VampireXRay | [Read More](https://medium.com/p/cd204e7a2c81) |
-| Sun, 15 Mar 2026 22:05:56 GMT | From Home to the Hub: Why I Chose Singapore for My Master’s in Cybersecurity | Linda | [Read More](https://medium.com/p/8e2da228d6cb) |
-| Sun, 15 Mar 2026 22:03:29 GMT | How my server became a “Cat & Mouse” game due to a Zero-Day vulnerability? | Hamza H | [Read More](https://medium.com/p/40224c8f8352) |
-| Sun, 15 Mar 2026 21:53:47 GMT | Phishing: When Hackers Use Bait Instead of Breaking Systems | Rashad Edwards | [Read More](https://medium.com/p/c60f6ca3cad6) |
-| Sun, 15 Mar 2026 21:46:51 GMT | Footprinting is not that bad after all | Cybersecurity with Jojo | [Read More](https://medium.com/p/974f5517bc08) |
-| Sun, 15 Mar 2026 21:46:18 GMT | Security Operation Center (SOC) | Ritikpatel | [Read More](https://medium.com/p/b96dfc7bc299) |
-| Sun, 15 Mar 2026 21:45:00 GMT | Pseudo Action Plan — Live Response Data Acquisition | Karim roshdy | [Read More](https://medium.com/p/4cbff9ed0f62) |
-| Sun, 15 Mar 2026 21:42:47 GMT | The Next Mortgage Data Breach Won’t Be a Hack… It Will Be a Query | John V. Levonick | [Read More](https://medium.com/p/365c59744741) |
-| Sun, 15 Mar 2026 21:31:33 GMT | Major Cybersecurity Incidents of the Week (March 2026) | Koti Dhanush | [Read More](https://medium.com/p/a24c4da4a8da) |
-| Sun, 15 Mar 2026 21:16:19 GMT | Hunting a “Bantuan TNG Online” Phising Campaign | k1cybersec | [Read More](https://medium.com/p/6c4dcc618598) |
-| Sun, 15 Mar 2026 21:15:10 GMT | BashBard: The AI-Native Terminal That Thinks Before You Execute | Khafagy | [Read More](https://medium.com/p/68091f97255f) |
-| Sun, 15 Mar 2026 21:13:12 GMT | Kaspersky Tejas issue solved | Mahim Avi | [Read More](https://medium.com/p/392a64503bc4) |
-| Sun, 15 Mar 2026 21:11:02 GMT | Hardening with CIS: My “Boring” Security Baseline | byteGirl | [Read More](https://medium.com/p/c0f506f8a68a) |
-| Sun, 15 Mar 2026 21:05:28 GMT | My Week 5 Takeaways from “Begin Ethical Hacking with Python” by Sanjib Sinha(Part V) | Kalkidan | [Read More](https://medium.com/p/e590c3ee79d5) |
-| Sun, 15 Mar 2026 21:03:38 GMT | picoCTF Write-up: Flag in Flame (Forensics) | Sriman kundu | [Read More](https://medium.com/p/832926b76b51) |
-| Sun, 15 Mar 2026 21:01:00 GMT | Unfiltered Restart — Day 27: Windows Settings + Real Networking | Maximillian Rueda | [Read More](https://medium.com/p/0fc950c3e57f) |
-| Sun, 15 Mar 2026 20:57:08 GMT | Android Content Provider Security: Exploiting Non-Exported Providers (Pentester Deep Dive — Part 3) | Mustafa Mohamed | [Read More](https://medium.com/p/2c3fe39d9863) |
-| Sun, 15 Mar 2026 20:51:22 GMT | Beyond the Boardroom | Imam Bashir Abdulwahab (twenty4) | [Read More](https://medium.com/p/a45fda3d838c) |
-| Sun, 15 Mar 2026 20:49:01 GMT | Block External Teams Users Directly from the Defender Portal | Ryan Adams | [Read More](https://medium.com/p/68e2de73820c) |
-| Sun, 15 Mar 2026 20:47:08 GMT | Embarking on the Journey as an ISO: From Local Silos to Institutional Intelligence | Rai Miralles Febrer | [Read More](https://medium.com/p/32a5d93ac7f1) |
-| Sun, 15 Mar 2026 20:46:21 GMT | ​I Used This Gmail "Dot" Trick to See Which Companies Were Selling My Data | Kinetiqglitch | [Read More](https://medium.com/p/bdc72f012f3e) |
