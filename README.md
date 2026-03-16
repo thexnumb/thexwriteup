@@ -12,6 +12,29 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Mar 2026 05:11:20 GMT | The Cryptographic Upgrade Problem — How Blockchains Survive Algorithmic Change | sengom | [Read More](https://medium.com/p/dc5ac3854397) |
+| Mon, 16 Mar 2026 05:08:48 GMT | Strong Passwords: The First Line of Defense to Protect Your Data | Behawk Infosec | [Read More](https://medium.com/p/1cb2f6e80463) |
+| Mon, 16 Mar 2026 05:02:28 GMT | I Built a Framework for AI Identity Disclosure. Then HIPAA Made It Mandatory. | Brianna N. Baynard | [Read More](https://medium.com/p/08dcffc49a07) |
+| Mon, 16 Mar 2026 05:01:40 GMT | I Opened a JPEG… and Emojis Started Jumping Out | Santhosh Kumar R | [Read More](https://medium.com/p/c270a748f1f1) |
+| Mon, 16 Mar 2026 05:01:29 GMT | [Product Security in My Home Lab] Series 1 ~Building an Automated Vulnerability Response Pipeline… | Takahiro Oda | [Read More](https://medium.com/p/17a579462805) |
+| Mon, 16 Mar 2026 04:50:17 GMT | SANS Workbook Password Removal (using qpdf) | Steven M | [Read More](https://medium.com/p/8b3ed50bdcde) |
+| Mon, 16 Mar 2026 04:36:05 GMT | Your Data Is Protected by a System Most People Don’t Know Exists | Fintech By Tanu | [Read More](https://medium.com/p/acf1189e357e) |
+| Mon, 16 Mar 2026 04:31:00 GMT | Firewalls & Security Groups — Traffic Control 101 | Mathumathiv | [Read More](https://medium.com/p/0a3729da6547) |
+| Mon, 16 Mar 2026 04:27:22 GMT | ️ Building a SIEM Threat Detection Lab Using Microsoft Sentinel in Azure | Amal Udayanga Basnayake | [Read More](https://medium.com/p/2303339c6353) |
+| Mon, 16 Mar 2026 04:25:23 GMT | The Strait of Hormuz as a Strategic Chokepoint | Gökçen Kunukcu | [Read More](https://medium.com/p/f7620dbe7b2e) |
+| Mon, 16 Mar 2026 04:23:46 GMT | Active Directory Enumeration | DIKAFPS | [Read More](https://medium.com/p/a0beac9489be) |
+| Mon, 16 Mar 2026 04:20:01 GMT | Reverse Engineering an Android Infostealer Using JADX GUI | Soumodeep Das | [Read More](https://medium.com/p/32fc8bd7a4fa) |
+| Mon, 16 Mar 2026 04:19:11 GMT | The Agent Skills Gold Rush Has a Malware Problem | Mei Park | [Read More](https://medium.com/p/0f74302f9276) |
+| Mon, 16 Mar 2026 03:59:06 GMT | ⚠️ A Small Unnoticed Mistake Changed My Entire Result (Android Dev Story) | Thamaraikannan | [Read More](https://medium.com/p/a05b5a1ca17a) |
+| Mon, 16 Mar 2026 03:50:29 GMT | OSINT: How Hackers Find Information Without Hacking | CodeXconnect | [Read More](https://medium.com/p/590fab039e6f) |
+| Mon, 16 Mar 2026 03:46:35 GMT | Mr. Robot Exercise: Pre-Attack Phase | Allen Ace | [Read More](https://medium.com/p/e247b82059a1) |
+| Mon, 16 Mar 2026 03:31:00 GMT | The Faster We Build with AI, the More Dangerous Bad Auth Becomes - And the Rarer Good Auth Becomes | Rgupta | [Read More](https://medium.com/p/4e3957b67813) |
+| Mon, 16 Mar 2026 03:22:30 GMT | “Why Digital Detox Is Becoming the New Luxury” | Hafsa Ajiaz | [Read More](https://medium.com/p/2c87590c16df) |
+| Mon, 16 Mar 2026 03:11:02 GMT | HackSmarter Hunter Challenge: Finding Hidden Users with a Timing Attack | Syrielbonode | [Read More](https://medium.com/p/15376a835869) |
+| Mon, 16 Mar 2026 03:03:07 GMT | I Almost Failed the CEH v13 Exam After 5 Months of Studying. These 7 Mistakes Nearly Cost Me $2,000 | Akash Madanu | [Read More](https://medium.com/p/7475a2f53ca3) |
+| Mon, 16 Mar 2026 02:57:51 GMT | Distributed Ingress/Egress with Centralized Inspection on AWS | @l3j0 | [Read More](https://medium.com/p/b2781cb52fb4) |
+| Mon, 16 Mar 2026 02:56:27 GMT | Oh, How Love Somehow Feels Suspicious | Camerine | [Read More](https://medium.com/p/c4728676f59a) |
+| Mon, 16 Mar 2026 02:54:11 GMT | Nothing to hide 1, 2 and 3…. CyCTF - Forensics | Configx | [Read More](https://medium.com/p/34ef56f33262) |
 | Mon, 16 Mar 2026 02:28:57 GMT | How I Built an AI Red Team vs. Blue Team Cybersecurity Lab That Attacks and Defends Itself | Jesse Ridley | [Read More](https://medium.com/p/98169ce6c782) |
 | Mon, 16 Mar 2026 02:22:23 GMT | The New Frontier of Hijacking: Inside AI Recommendation Poisoning | Arthi Rajendran | [Read More](https://medium.com/p/47a4df0721a3) |
 | Mon, 16 Mar 2026 02:13:27 GMT | Malware Analysis Report: Static and Dynamic Analysis of an Emotet/Trickbot Sample | Mohamed Mostafa Sayed Saber Ali | [Read More](https://medium.com/p/7534065e0d83) |
@@ -25,6 +48,7 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Mar 2026 01:25:27 GMT | Deploy a Website and Wait 5 Minutes: The Bots Will Find You! | Sumedha Khatter | [Read More](https://medium.com/p/66371e8c50f7) |
 | Mon, 16 Mar 2026 01:15:24 GMT | 10 Cybersecurity Services Every Business Needs in 2026 | Emily Paul | [Read More](https://medium.com/p/362209800bd6) |
 | Mon, 16 Mar 2026 01:06:31 GMT | The $32 Billion Question: Why Google Acquired Wiz? | Izaak Maine | [Read More](https://medium.com/p/de5c0e25767a) |
+| Mon, 16 Mar 2026 01:06:19 GMT | BLOCKCHAIN TECHNOLOGY FUNDAMENTALS UNTUK MEMBANGUN SISTEM TERDESENTRALISASI YANG AMAN DAN… | Nisbi Indonesia | [Read More](https://medium.com/p/8d9f4ac380d9) |
 | Mon, 16 Mar 2026 00:49:30 GMT | HackMyVM: Teacher — Walkthrough | Antonio | [Read More](https://medium.com/p/28d76c6a7bfe) |
 | Mon, 16 Mar 2026 00:42:10 GMT | Hardening de VPS Linux: Tailscale + UFW + Fail2ban + SSH privado | Lucas Sterzeck | [Read More](https://medium.com/p/c6f5493b1a6a) |
 | Mon, 16 Mar 2026 00:32:04 GMT | Designing Two-Factor Authentication That Scales | aceiny | [Read More](https://medium.com/p/a2f78fab65e4) |
@@ -88,27 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Sun, 15 Mar 2026 18:51:01 GMT | Multi-Factor Authentication Gaps - Why MFA Is Not a Silver Bullet When It Is Built Wrong | Rufus Kehinde | [Read More](https://medium.com/p/e70ccef6330f) |
 | Sun, 15 Mar 2026 18:46:33 GMT | Try Hack Me- Startup CTF Walkthrough | PulseEinher | [Read More](https://medium.com/p/cc382caa0772) |
 | Sun, 15 Mar 2026 18:45:21 GMT | Boogeyman 1 - TryHackMe -Write Up | Ghazi Sultan | [Read More](https://medium.com/p/48e87870a068) |
-| Sun, 15 Mar 2026 18:40:23 GMT | Reverse Two-Stage Polymorphic Infostealer | 0rickyy. | [Read More](https://medium.com/p/223e907b5e22) |
-| Sun, 15 Mar 2026 18:32:05 GMT | Mastering Git: What I Learned (Part 1) | Mawira Victor | [Read More](https://medium.com/p/05c6323b7aeb) |
-| Sun, 15 Mar 2026 18:31:49 GMT | Impact of Cyberspace Communication on Our Lives | Samikshasingh | [Read More](https://medium.com/p/0bcc6edd72bc) |
-| Sun, 15 Mar 2026 18:30:15 GMT | Python for Cybersecurity in 2026 — The Skills Every Developer Needs Before It’s Too Late | Er.Muruganantham | [Read More](https://medium.com/p/0c0a550082d0) |
-| Sun, 15 Mar 2026 18:26:17 GMT | 5 Signs Your Freelance Laptop Has Been Hacked (And What to Do Right Now) | Manahil Shahzadi | [Read More](https://medium.com/p/7a87e384cc4c) |
-| Sun, 15 Mar 2026 18:13:52 GMT | Nebula: A Multi-Cloud Resource Manager — Unifying AWS, Azure, and GCP in a Single Workflow | Priyanshu Kumar Sharma | [Read More](https://medium.com/p/866937000cdc) |
-| Sun, 15 Mar 2026 18:09:20 GMT | Defenders think in lists. Attackers think in graphs. | h@shtalk | [Read More](https://medium.com/p/7650433240d5) |
-| Sun, 15 Mar 2026 18:07:45 GMT | Hybrid AI in Cybersecurity: The Convergence of Agentic AI, Generative AI, and Traditional AI | Dr Indrajit Mandal | [Read More](https://medium.com/p/d2317730bb24) |
-| Sun, 15 Mar 2026 18:01:01 GMT | Before They Hack You, They Study You: The Art of Information Gathering in Penetration Testing | Rishav kumar Thapa | [Read More](https://medium.com/p/fade3c90683a) |
-| Sun, 15 Mar 2026 17:54:26 GMT | Secure by Design: Why Cyber Security Is Just Like Protecting Your Home | Patrick Welch | [Read More](https://medium.com/p/6b9c1bf1387b) |
-| Sun, 15 Mar 2026 17:46:05 GMT | METASPLOITABLE2 | Rahulks | [Read More](https://medium.com/p/3be5fd09d47b) |
-| Sun, 15 Mar 2026 17:42:22 GMT | CTF — A practice ground for hackers | Zero Space by Prince Patel | [Read More](https://medium.com/p/95bf80b8cd74) |
-| Sun, 15 Mar 2026 17:41:00 GMT | How I Found Dependency Confusion Vulnerabilities in Public GitHub Repositories | Sidhanta Palei | [Read More](https://medium.com/p/70618f7c69f9) |
-| Sun, 15 Mar 2026 17:40:45 GMT | CVE-2026–0866: Zombie ZIP Technique to Evade AVs and upload malware on systems | Bazil Brohi | [Read More](https://medium.com/p/791938c859dc) |
-| Sun, 15 Mar 2026 17:39:10 GMT | Subnetting: How Networks Are Divided for Efficient Communication | Ndu | [Read More](https://medium.com/p/9b6e54fdd93d) |
-| Sun, 15 Mar 2026 17:38:46 GMT | “Building a Web Scraper in Python to Extract Emails for OSINT” | Akhilswami | [Read More](https://medium.com/p/6c919c25d1d4) |
-| Sun, 15 Mar 2026 17:36:42 GMT | What Would You Do with ListMinion.com? | Tessa Schlesinger - A systems thinker. | [Read More](https://medium.com/p/a42669eca3ec) |
-| Sun, 15 Mar 2026 17:33:07 GMT | Why I’m leaving Medium and what true sovereignty looks like | Jose Saiz | [Read More](https://medium.com/p/e781fd51349e) |
-| Sun, 15 Mar 2026 17:27:50 GMT | Is Someone Secretly Whispering Into Your AI’s Ear? | Faseela Nahas | [Read More](https://medium.com/p/9094a0c20728) |
-| Sun, 15 Mar 2026 17:26:17 GMT | Instagram Ending Encrypted DMs: Privacy, Investigations, and the AI Data Question | Hitesh Said | [Read More](https://medium.com/p/fd9ec742baa7) |
-| Sun, 15 Mar 2026 17:25:46 GMT | SCP — Secure Copy | Mahidul Haque | [Read More](https://medium.com/p/1392bac1ef87) |
-| Sun, 15 Mar 2026 17:21:51 GMT | When a Composite Checkout Keeps Pricing From a State That No Longer Exists | sin99xx | [Read More](https://medium.com/p/edffe47cba64) |
-| Sun, 15 Mar 2026 17:19:34 GMT | “Hunting Hidden Files: Coding a Directory Buster in Python” | Akhilswami | [Read More](https://medium.com/p/219378a38729) |
-| Sun, 15 Mar 2026 17:16:00 GMT | Researchers Found 25 Ways Your Password Manager Can Betray You. | Ed O. - TechEd Publishers | [Read More](https://medium.com/p/5afc4ed32086) |
