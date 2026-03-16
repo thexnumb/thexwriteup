@@ -12,6 +12,26 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Mar 2026 13:17:21 GMT | La cybercriminalité: | Elghithiyassin | [Read More](https://medium.com/p/113e3b029601) |
+| Mon, 16 Mar 2026 13:16:19 GMT | Why Choose a Cybersecurity Company in Bangalore for VAPT & Cloud Security | devel writer | [Read More](https://medium.com/p/9f5343e76c6f) |
+| Mon, 16 Mar 2026 13:12:35 GMT | Reverse Shells on Windows: Understanding Techniques Used in Security Testing | Kavishka Kalhara | [Read More](https://medium.com/p/3725ef3e701b) |
+| Mon, 16 Mar 2026 13:09:48 GMT | Penetration Testing Methodology: A Complete Guide to Information Gathering (Passive & Active… | Sonuzaiswal | [Read More](https://medium.com/p/1f63edbd9c9e) |
+| Mon, 16 Mar 2026 13:09:14 GMT | HACKTRACE: A Cybersecurity Learning Platform | Mehrotragunja | [Read More](https://medium.com/p/1d0b03a37677) |
+| Mon, 16 Mar 2026 13:01:01 GMT | THM Room Writeup — ToolsRus | Kostas Ereksonas | [Read More](https://medium.com/p/a52dd65eed21) |
+| Mon, 16 Mar 2026 12:59:13 GMT | This GitHub Repo Hacks Websites Automatically!!! | cybrNK | [Read More](https://medium.com/p/b3632e308a88) |
+| Mon, 16 Mar 2026 12:50:54 GMT | HTB Academy -API Attacks (Broken Authentication) Exercise Walkthrough | Farouq Nader Farouq Hassan | [Read More](https://medium.com/p/b18596320699) |
+| Mon, 16 Mar 2026 12:48:20 GMT | The SOC Analyst Roadmap Nobody Gives You (But Everyone Desperately Needs) | Motasem Hamdan | [Read More](https://medium.com/p/02175ce4f4bd) |
+| Mon, 16 Mar 2026 12:48:15 GMT | The Next.js Security Hardening Checklist: 12 Steps to Ship a Secure App | SecureStartKit | [Read More](https://medium.com/p/3cef1317b887) |
+| Mon, 16 Mar 2026 12:47:48 GMT | How I Built a Production-Grade HashiCorp Vault HA Cluster on AWS — A Beginner’s Complete Guide | Bhojeshwar Sahu | [Read More](https://medium.com/p/d826f8610dac) |
+| Mon, 16 Mar 2026 12:41:50 GMT | Introduction To Malware Development — NIR(1) | TheCyberNirvana | [Read More](https://medium.com/p/037ff50f3925) |
+| Mon, 16 Mar 2026 12:38:15 GMT | Wi-Fi Exploitation II — The Attacker’s Playbook | Ishant | [Read More](https://medium.com/p/e6a56c263c2f) |
+| Mon, 16 Mar 2026 12:32:10 GMT | The Bridge Over Shame: What Hard Conversations Taught Me About Recovery | Malynnda Stewart, PhD, BCPA | [Read More](https://medium.com/p/47188231b698) |
+| Mon, 16 Mar 2026 12:31:01 GMT | Building a Video Streaming Travel Bucket List App with AWS S3, React, and ImageKit | Tyrik Emptage | [Read More](https://medium.com/p/8668bb12d47b) |
+| Mon, 16 Mar 2026 12:26:54 GMT | HackOn CTF URJC: Explotación manual de una aplicación web | Ana Martínez Aguilar | [Read More](https://medium.com/p/ddb2fc306558) |
+| Mon, 16 Mar 2026 12:04:55 GMT | The Industrialization of Ransomware | David SEHYEON Baek | [Read More](https://medium.com/p/df5fe2fc0eac) |
+| Mon, 16 Mar 2026 12:01:20 GMT | DSP Consultants offers security master planning advisory for the current situation in the UAE | Info | [Read More](https://medium.com/p/498285ceae8b) |
+| Mon, 16 Mar 2026 11:52:05 GMT | Latest Cyber Security Threats: Critical Risks Every Organization Must Prepare For | cyber security Updates | [Read More](https://medium.com/p/66ea0c01e31f) |
+| Mon, 16 Mar 2026 11:51:10 GMT | Three Protocols Walk Into a Security Review. One of Them Caused a Breach. | Let's Talk Basics | [Read More](https://medium.com/p/1e5db255227d) |
 | Mon, 16 Mar 2026 11:44:11 GMT | Dismantling the Social Discovery Group System: When the Professional Façade Hides a Troubling… | AKUMAAYORI | [Read More](https://medium.com/p/8a075eb5fe54) |
 | Mon, 16 Mar 2026 11:42:36 GMT | Agentic AI Will Become the Most Dangerous Insider Threat | Yua Mikanana | [Read More](https://medium.com/p/5da1d84636ff) |
 | Mon, 16 Mar 2026 11:41:51 GMT | TryHackMe walkthrough: Cracking the hashes | Yash Gaikwad (Yx0R) | [Read More](https://medium.com/p/26a70b42ecf9) |
@@ -92,23 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Mar 2026 07:41:00 GMT | API Key Nedir? Nasıl Gönderilir? Gerçekten Güvenli mi? | Burak Kaşıkcı | [Read More](https://medium.com/p/78144158e04b) |
 | Mon, 16 Mar 2026 07:41:00 GMT | The Weight of Open Hands | Khoiru Rizal | [Read More](https://medium.com/p/518487eb590f) |
 | Mon, 16 Mar 2026 07:38:38 GMT | “Digital Democracy” Floating Over Tokyo: Observation Report of the 0-Yen Warp between Akasaka and… | kageyama rai | [Read More](https://medium.com/p/2aef5f61c38b) |
-| Mon, 16 Mar 2026 07:37:47 GMT | Top Decision Intelligence Platforms in the USA | WebDataGuru | [Read More](https://medium.com/p/73b7f0b48eac) |
-| Mon, 16 Mar 2026 07:32:58 GMT | DeepTeam: Why Red‑Teaming LLMs Is Becoming Non‑Negotiable | balaji bal | [Read More](https://medium.com/p/95ad7f32412e) |
-| Mon, 16 Mar 2026 07:32:38 GMT | From Misconfiguration to Full Domain Compromise: Evaluating Behavioral Prevention Gaps in Cortex… | Attar Wahyu | [Read More](https://medium.com/p/4f81ce111551) |
-| Mon, 16 Mar 2026 07:31:29 GMT | How I hacked AI Agent and worth bounty of $$$$ | Manan Sanghvi | [Read More](https://medium.com/p/d339060de9f1) |
-| Mon, 16 Mar 2026 07:26:04 GMT | Static Analysis of a Malicious PDF- A Hands-On SOC Lab Walkthrough | Vishvambhar ranoshe | [Read More](https://medium.com/p/b8d0333539fa) |
-| Mon, 16 Mar 2026 07:22:31 GMT | DVWA Setup | Samir | [Read More](https://medium.com/p/1799651a6d2d) |
-| Mon, 16 Mar 2026 07:17:39 GMT | Müşteriden Önce Senin Haberin Olsun: UptimeRobot ile Dışarıdan İzleme | Serdarumuturan | [Read More](https://medium.com/p/2c96ea140fba) |
-| Mon, 16 Mar 2026 07:16:55 GMT | Pemahaman Kebijakan Privasi Masih Dianggap Kurang Penting Pada Era Digital | Abdul Halim Ichwan | [Read More](https://medium.com/p/5b8cee5ae871) |
-| Mon, 16 Mar 2026 07:16:21 GMT | When EDRM Becomes a Liability: 5 Implementation Mistakes That Increase Risk | Niyati Daftary | [Read More](https://medium.com/p/aa6ae185e7d3) |
-| Mon, 16 Mar 2026 07:16:10 GMT | The Rise of the Vibe Hacker: When Prompting Becomes Penetration Testing | urhnrblpntstr | [Read More](https://medium.com/p/45bb2b418b90) |
-| Mon, 16 Mar 2026 07:16:06 GMT | Penetration testing (Passive Recon) | Unishakhadgi | [Read More](https://medium.com/p/5cc4ffc3e099) |
-| Mon, 16 Mar 2026 07:15:55 GMT | $800 Bounty: How a Missing Email Verification Led to Account Takeover on Shopify Collabs | Monika sharma | [Read More](https://medium.com/p/0c9ab8683bfd) |
-| Mon, 16 Mar 2026 07:15:46 GMT | AI Agents Can Hack Now. Here’s What That Actually Looks Like | Muhammad Haider Tallal | [Read More](https://medium.com/p/08b0c8001fe1) |
-| Mon, 16 Mar 2026 07:11:56 GMT | TryHackMe Develpy | delirium | [Read More](https://medium.com/p/b81f4ba2d482) |
-| Mon, 16 Mar 2026 07:00:34 GMT | Hunting Threats in OT Environments Using Only Built-In System Commands — No Tools Required | MrDuc | [Read More](https://medium.com/p/6adc80ef0ee2) |
-| Mon, 16 Mar 2026 06:55:59 GMT | Essential Red Teaming Tools for the Modern Offensive Pro | Aditya InfosecTrain | [Read More](https://medium.com/p/8b57d5b1506e) |
-| Mon, 16 Mar 2026 06:54:21 GMT | Behind the Pitch: Lessons and Reflections from the National IT Innovation Hub | Pedson Tayebwa | [Read More](https://medium.com/p/35218ac62c94) |
-| Mon, 16 Mar 2026 06:53:54 GMT | Executive Tabletop Exercises: Simulating a Board-Level Strengthening Strategic Cyber Resilience in… | Cynox Security LLP. | [Read More](https://medium.com/p/f8673ea8923b) |
-| Mon, 16 Mar 2026 06:53:20 GMT | Analysis and Experimentation of OOXML and the Hidden Dangers of Canary Tokens | Albertstive | [Read More](https://medium.com/p/e1c62cba1f0f) |
-| Mon, 16 Mar 2026 06:49:49 GMT | PART 10 – Bringing It All Together: Building a Cyber-Resilient Organization in Africa | Abraham Karikari | [Read More](https://medium.com/p/2ffb5f8ecb49) |
