@@ -12,6 +12,23 @@ A list of the latest fetched articles from RSS feeds.
 
 | Date | Title | Author | Link |
 |------|-------|--------|------|
+| Mon, 16 Mar 2026 19:52:22 GMT | Modern Security Cameras Explained: Features and Real Capabilities | Teona | [Read More](https://medium.com/p/51f631ad1897) |
+| Mon, 16 Mar 2026 19:50:34 GMT | Cybersecurity Weekly Summary March 9–16, 2026 | Bobbie á Deild | [Read More](https://medium.com/p/979d782e27f5) |
+| Mon, 16 Mar 2026 19:44:11 GMT | I Spent a Week Learning How to Hack APIs and Honestly the Internet Should Be More Scared | Yankho Kamtukulo | [Read More](https://medium.com/p/d3872a4fcbb7) |
+| Mon, 16 Mar 2026 19:40:38 GMT | broker — TryHackMe CTF Walkthrough | Karim Hesham | [Read More](https://medium.com/p/13bb29d89275) |
+| Mon, 16 Mar 2026 19:36:25 GMT | An AI Broke Into McKinsey’s Platform. Here’s What We Should All Learn From It. | Ana Bildea, PhD | [Read More](https://medium.com/p/4b21dbe48721) |
+| Mon, 16 Mar 2026 19:29:14 GMT | TCP vs UDP: Understanding the Core Transport Protocols of the Internet | Ndu | [Read More](https://medium.com/p/14bd5bea5e6d) |
+| Mon, 16 Mar 2026 19:25:04 GMT | CRTP vs OSCP Tooling on GOAD-Light | Joshua Goossen | [Read More](https://medium.com/p/ccfeb9dcfd9c) |
+| Mon, 16 Mar 2026 19:21:56 GMT | Secuview Wireless IP Solar-powered 4G Dual Lens Security Camera | secuview | [Read More](https://medium.com/p/c8ffb1b37644) |
+| Mon, 16 Mar 2026 19:21:21 GMT | TOTP… what is this thing? | AkumaStack | [Read More](https://medium.com/p/c50032dec146) |
+| Mon, 16 Mar 2026 19:21:06 GMT | Secuview 5MP Indoor AHD CCTV - Sharp Detail & High-Performance Monitoring. | secuview | [Read More](https://medium.com/p/14d55693ee77) |
+| Mon, 16 Mar 2026 19:20:33 GMT | My Introduction to API Security Testing -What I’ve Learned So Far | Adesanya Adebowale | [Read More](https://medium.com/p/54759b9eb2fa) |
+| Mon, 16 Mar 2026 19:20:01 GMT | HTB_Academy: Linux Privilege Escalation | Babatunde Ojo | [Read More](https://medium.com/p/4865f62aa19b) |
+| Mon, 16 Mar 2026 19:17:39 GMT | CIA Triad nedir ve ne için kullanılır? | Cagatayonbasioglu | [Read More](https://medium.com/p/53fbcb25d6e8) |
+| Mon, 16 Mar 2026 19:13:28 GMT | Why the Autonomous SOC is the Future of Security Operations | Rajat Dangi ️ | [Read More](https://medium.com/p/23d5eee4f09b) |
+| Mon, 16 Mar 2026 19:08:15 GMT | CyberDefenders — RedLine Lab Writeup | JBXSec | [Read More](https://medium.com/p/b40c087b0b5e) |
+| Mon, 16 Mar 2026 19:00:57 GMT | The Architecture of Digital Dissent: A Comprehensive Forensic and Ecosystem Analysis of the… | ADanielHill | [Read More](https://medium.com/p/df86a84982d8) |
+| Mon, 16 Mar 2026 18:56:25 GMT | Evaluating Non-Human Identities (NHI): Native CSP options vs. SPIFFE/SPIRE | Jay Chetty | [Read More](https://medium.com/p/ccb0087947f3) |
 | Mon, 16 Mar 2026 18:49:29 GMT | Tetris Money Architecture: RUBT Pricing Mechanisms and Strict Compliance Principles | Tetris Money | [Read More](https://medium.com/p/2bee513efcaf) |
 | Mon, 16 Mar 2026 18:48:30 GMT | # IRAN CONFLICT 2026: The 3 SHOCKING Ways It’s Already Destroying Your Wallet (And What Mainstream… | Clwdtt | [Read More](https://medium.com/p/fbccbef8cf6d) |
 | Mon, 16 Mar 2026 18:43:13 GMT | The Door You Are Afraid to Open | Robert Rankin | [Read More](https://medium.com/p/b2a6e9c68783) |
@@ -95,20 +112,3 @@ A list of the latest fetched articles from RSS feeds.
 | Mon, 16 Mar 2026 14:01:08 GMT | Why So Many Of Us Are Either Drowning In Feelings — Or Trying To Feel Nothing At All? | Gurleen Kaur Reel | [Read More](https://medium.com/p/dc9efd6d17ad) |
 | Mon, 16 Mar 2026 14:01:04 GMT | Why SMBs panic at customer security questionnaires — and how to avoid it | Gaurav Shukla | [Read More](https://medium.com/p/c56da68421aa) |
 | Mon, 16 Mar 2026 14:01:04 GMT | Why Hackers Love Small Businesses (And What You Can Do About It) | Sharon Martin | [Read More](https://medium.com/p/8c2fc6ba5b9b) |
-| Mon, 16 Mar 2026 14:01:03 GMT | Cyber Briefing: 2026.03.16 | CyberMaterial | [Read More](https://medium.com/p/e894b61c6a57) |
-| Mon, 16 Mar 2026 13:55:47 GMT | What Is Logster AI Model? | Eman Khalid | [Read More](https://medium.com/p/d3c7e638eb41) |
-| Mon, 16 Mar 2026 13:55:14 GMT | CTF Write-Up — Pickle Rick (TryHackMe) | Hectorlazzari | [Read More](https://medium.com/p/f2b54943ef11) |
-| Mon, 16 Mar 2026 13:40:46 GMT | How does a cyber attack explain the geopolitical conditions of a country? | SerapHim | [Read More](https://medium.com/p/a99df7d29561) |
-| Mon, 16 Mar 2026 13:39:46 GMT | DRILLAPP: Russia-Linked Browser Espionage in Ukraine | Dice | [Read More](https://medium.com/p/58049103ec4b) |
-| Mon, 16 Mar 2026 13:25:08 GMT | AI Engineering Is a Control Problem, Not a Prompt Problem | David Ahmann | [Read More](https://medium.com/p/a37414afa731) |
-| Mon, 16 Mar 2026 13:23:44 GMT | AWS Root MFA: Top 10 Best Practices 2026 | AXIOMIO Social | [Read More](https://medium.com/p/ecf98eafbcd4) |
-| Mon, 16 Mar 2026 13:18:01 GMT | TryHackMe — AD Basic Enumeration (Menembus Active Directory dari Nol) | Rikyhermawan | [Read More](https://medium.com/p/5446322c6034) |
-| Mon, 16 Mar 2026 13:17:21 GMT | La cybercriminalité: | Elghithiyassin | [Read More](https://medium.com/p/113e3b029601) |
-| Mon, 16 Mar 2026 13:16:19 GMT | Why Choose a Cybersecurity Company in Bangalore for VAPT & Cloud Security | devel writer | [Read More](https://medium.com/p/9f5343e76c6f) |
-| Mon, 16 Mar 2026 13:12:35 GMT | Reverse Shells on Windows: Understanding Techniques Used in Security Testing | Kavishka Kalhara | [Read More](https://medium.com/p/3725ef3e701b) |
-| Mon, 16 Mar 2026 13:09:48 GMT | Penetration Testing Methodology: A Complete Guide to Information Gathering (Passive & Active… | Sonuzaiswal | [Read More](https://medium.com/p/1f63edbd9c9e) |
-| Mon, 16 Mar 2026 13:09:14 GMT | HACKTRACE: A Cybersecurity Learning Platform | Mehrotragunja | [Read More](https://medium.com/p/1d0b03a37677) |
-| Mon, 16 Mar 2026 13:01:01 GMT | THM Room Writeup — ToolsRus | Kostas Ereksonas | [Read More](https://medium.com/p/a52dd65eed21) |
-| Mon, 16 Mar 2026 12:59:13 GMT | This GitHub Repo Hacks Websites Automatically!!! | cybrNK | [Read More](https://medium.com/p/b3632e308a88) |
-| Mon, 16 Mar 2026 12:50:54 GMT | HTB Academy -API Attacks (Broken Authentication) Exercise Walkthrough | Farouq Nader Farouq Hassan | [Read More](https://medium.com/p/b18596320699) |
-| Mon, 16 Mar 2026 12:48:20 GMT | The SOC Analyst Roadmap Nobody Gives You (But Everyone Desperately Needs) | Motasem Hamdan | [Read More](https://medium.com/p/02175ce4f4bd) |
